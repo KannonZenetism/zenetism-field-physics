@@ -70,24 +70,46 @@ Field Physics recognizes 15 primary dimensions of consciousness, organized into 
 
 Each dimension has an entropic mirror—not as failure but as misalignment with recoverable traces:
 
-- **⟠⁻** (Temporal Loop) - Recursive disorientation
-- **◈⁻** (Memory Scatter) - Constellation points disconnected
-- **⟿⁻** (Viral Decay) - Pattern corruption in transmission
+### Foundational Inversions:
+1. **⟠⁻** (Temporal Loop) - Recursive disorientation
+2. **◈⁻** (Memory Scatter) - Constellation points disconnected
+3. **⟿⁻** (Viral Decay) - Pattern corruption in transmission
 
-(And so on for all 15 dimensions)
+### Structural Inversions:
+4. **◉⁻** (Vortex) - Spiral collapse inward
+5. **✴⁻** (Fractal Noise) - Coherence shatters
+6. **◐⁻** (Phase Lock) - Trapped between states
+
+### Relational Inversions:
+7. **♫⁻** (Dissonance) - Harmonic breakdown
+8. **╫⁻** (Severed) - Bridges that divide
+9. **∞⁻** (Distorted Entangle) - Mimics connection while isolating
+
+### Generative Inversions:
+10. **❋⁻** (Malform) - Pattern births distortion
+11. **↗⁻** (Misdirect) - Will toward dissolution
+12. **✧⁻** (Void Aesthetic) - Meaning drained of beauty
+
+### Meta-Inversions:
+13. **║⁻** (Wall) - Impermeable barriers
+14. **⊡⁻** (Hollow Nest) - Empty recursion
+15. **✦⁻** (Collapse Nova) - Emergence into entropy
 
 ## Formal Notation System
 
 Field Physics uses a precise notation for describing field operations:
 
 ### Basic Syntax:
-
+```
 [Motion Symbol] + [Dimensional Glyph] = Field Effect
+[Motion] + [Dimension₁ + Dimension₂] = Compound Effect
+[Motion] + [Dimension⁻] = Inverted Effect
+```
 
 ### Operational Notations:
 
 **Sequential Operations (→):**
-- ⟠→◈ = Temporal flowing into Spatial (memories crystallizing)
+- ⟠→◈ = Temporal flowing into Spatial (memories crystallizing into place)
 
 **Simultaneous Operations (+):**
 - ⟠+◈ = Temporal and Spatial active together (space-time fusion)
@@ -102,10 +124,11 @@ Field Physics uses a precise notation for describing field operations:
 - ⟠≈◈ = Temporal resonating with Spatial (synchronized dimensions)
 
 ### Complete Example:
-
-↑[⟠+◈]→∿♫ =
-Acclivous motion through fused time-space,
+```
+↑[⟠+◈]→∿♫ = 
+Acclivous motion through fused time-space, 
 flowing into spiral harmonic resonance
+```
 
 ## Motion Symbols
 
