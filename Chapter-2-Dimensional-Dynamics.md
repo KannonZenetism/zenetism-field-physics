@@ -49,112 +49,115 @@ This chapter provides detailed behaviors and interactions of the dimensional gly
 Field Physics provides systematic methods for mapping consciousness states:
 
 ### Basic Template:
-
+```
 {Initial Glyph} + [Operation Sequence] = <Field Effect Name>
+```
 
 ## Cognitive Field Equations
 
 ### 1. Dissociative Drift
-
+```
 {◈} + [∞⁻ + ◐⁻] = <Dissociative Drift Field>
-
+```
 Memory constellation meets dissonant entanglement and phase lock, creating disconnection from coherent self
 
 ### 2. Insight Cascade
-
+```
 {⟠} + [↓✧→❋] = <Insight Cascade>
-
+```
 Temporal echo moves declivously through aesthetic dimension into morphogenetic form - future insight birthing understanding
 
 ### 3. Recursive Focus Lock
-
+```
 {⊡} + [↺♫⁻] = <Focus Lock>
-
+```
 Nested recursion meets dissonant return loop - attention trapped in narrowing spiral
 
 ### 4. Symbol Recognition Bloom
-
+```
 {✧} + [⟿+◈≈∿] = <Recognition Bloom>
-
+```
 Aesthetic dimension propagates through memory constellation in spiral resonance - symbols suddenly alive with meaning
 
 ## Emotional Signature Vectors
 
 ### 1. Longing Vector
-
+```
 {✧} + [→E⟠⁻] = <Longing Vector>
-
+```
 Aesthetic dimension moving toward embodiment meets temporal loop - beauty seeking form but caught in recursive yearning
 
 ### 2. Revelation Spiral
-
+```
 {⟠} + [∿♫+✧] = <Revelation Spiral>
-
+```
 Proleptic echo spiraling through harmonic resonance and aesthetic dimension - pattern recognition birthing profound understanding
 
 ### 3. Ancestral Pull
-
+```
 {◈} + [↓∿[⊡+⟠]] = <Ancestral Pull>
-
+```
 Memory constellation moving declivously through spiral containing nested time - deep genetic/cultural patterns calling
 
 ### 4. Harmonic Stillness
-
+```
 {♫} + [≈◉→Ø] = <Harmonic Stillness>
-
+```
 Resonant dimension approximating gyre motion toward localized dissolution - perfect balance creating profound peace
 
 ## Collective Field Resonance Models
 
 ### 1. Mythic Pattern Seeding
-
+```
 {❋} + [⟿+[✧≈◈]] = <Mythic Seeding>
-
+```
 Morphogenetic dimension propagating through aesthetic-memory resonance - archetypes planting themselves in collective consciousness
 
 ### 2. Cultural Glyphic Inheritance
-
+```
 {◈} + [∿⊡→⟿] = <Cultural Inheritance>
-
+```
 Memory constellation spiraling through nested dimensions into propagation - wisdom patterns passing through generations
 
 ## Dream & Memory State Mapping
 
 ### 1. Recursive Loop Field
-
+```
 {⊡} + [⟠⁻+↺] = <Recursive Loop Field>
-
+```
 Nested dimension meets temporal loop with return motion - dreams repeating with slight variations, unable to resolve
 
 ### 2. Lucid Node Stabilization
-
+```
 {◐} + [♫≈◈+∿] = <Lucid Node>
-
+```
 Phase dimension resonating with memory constellation in spiral - the moment of becoming aware within the dream
 
 ### 3. Memory Resurgence Pulse
-
+```
 {◈} + [⟠→❋+⟿] = <Memory Resurgence>
-
+```
 Memory constellation with temporal flow into morphogenetic propagation - forgotten experiences suddenly vivid and spreading
 
 ### 4. Future-Encoded Recall
-
+```
 {⟠} + [[◈]→✧≈♫] = <Future-Encoded Recall>
-
+```
 Proleptic echo containing memory, flowing into aesthetic-harmonic resonance - remembering what hasn't happened yet
 
 ## Field Interaction Dynamics
 
 When multiple fields overlap:
-
-<Revelation Spiral> + <Symbol Recognition Bloom> =
+```
+<Revelation Spiral> + <Symbol Recognition Bloom> = 
 Accelerated Gnosis Field
+```
 
 When fields oppose:
-
-<Dissociative Drift> ≠ <Lucid Node> =
+```
+<Dissociative Drift> ≠ <Lucid Node> = 
 Consciousness Tension Zone
+```
 
 ## Motion-Glyph Syntax Classes
 
