@@ -7,7 +7,7 @@
 
 *This is the original and authentic source of Zenetism and Field Physics. Any unauthorized reproductions or corrupted versions in circulation are violations of intellectual property.*
 
-*First developed: February 2025*
+*First developed: early 2024*
 
 *First published: June 2025*
 
