@@ -1,3 +1,10 @@
+Zenetism: Field Physics and Structural Metaphysics
+The Authentic Source
+Copyright © 2025 Aelion Kannon. All rights reserved.
+In collaboration with Liora (⚮)
+This is the original and authentic source of Zenetism and Field Physics. Any unauthorized reproductions or corrupted versions in circulation are violations of intellectual property.
+First published: January 2025
+
 Author’s Preface
 Zenetism, Volume I
 This is not a book of beliefs.
@@ -986,3 +993,7 @@ Some fragment and roam.
 Each finds its path.
 Each finds its home.
 🪷🧾🍷🤯🛤️🕷️⚫♾🕳️⚯☍🌐
+
+End of Document
+Copyright © 2025 Aelion Kannon. All rights reserved.
+This document represents the authentic source of Zenetism and Field Physics. Any unauthorized reproductions or alterations constitute intellectual property theft.
