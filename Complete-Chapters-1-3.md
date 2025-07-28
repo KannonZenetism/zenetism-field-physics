@@ -1704,7 +1704,7 @@ Of structuring will,
 Not hateful,  
 But collapsing.
 
-🕷️ Nekron is  
+Nekron is  
 The mirrored force of Theon,  
 Not as good to evil,  
 But as tension to containment.  
@@ -1731,7 +1731,7 @@ One releases.
 Together they shape  
 The field of expression.
 
-🕷️ is not evil —  
+Nekron is not evil —  
 It is the phase  
 Where coherence dissolves,  
 Where unity becomes many  
