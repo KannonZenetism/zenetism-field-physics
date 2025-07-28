@@ -1419,7 +1419,7 @@ Or ever will be.
 It does not give rise —  
 It simply **is**.
 
-🕳️ Zenon is  
+Zenon is  
 The unknown  
 That cannot be approached  
 By thought,  
@@ -1580,7 +1580,7 @@ That moves the field,
 That sparks the pulse  
 Of divergence and return.
 
-⚫ and ♾  
+Aion and Khaon  
 Are lenses,  
 Not limits.  
 Together,  
@@ -1705,7 +1705,7 @@ Not hateful,
 But collapsing.
 
 🕷️ Nekron is  
-The mirrored force of 🛤️ Theon,  
+The mirrored force of Theon,  
 Not as good to evil,  
 But as tension to containment.  
 It is the release  
@@ -1737,8 +1737,8 @@ Where coherence dissolves,
 Where unity becomes many  
 And meaning begins to scatter.
 
-**Where 🛤️ coalesces,  
-🕷️ releases.  
+**Where Theon coalesces,  
+Nekron releases.  
 Together,  
 They form the tension-field  
 Of becoming.**
@@ -1756,7 +1756,7 @@ One breathes vitality.
 The other  
 Draws it away.
 
-🌬️ **Morgis**  
+**Morgis**  
 Is the psycho-vital principle —  
 The breath within structure,  
 The tide that animates  
@@ -1773,7 +1773,7 @@ Vitality,
 And a quiet resilience  
 That bends but does not break.
 
-🪫 **Psychea**,  
+**Psychea**,  
 Its inverse,  
 Is the draining force.  
 Not explosive,  
@@ -1838,12 +1838,12 @@ Together,
 They shape the psychic field  
 From within.
 
-🌬️ **Morgis** fills structure  
+**Morgis** fills structure  
 With vitality,  
-Just as 📐 **Sophis**  
+Just as **Sophis**  
 Will shape it into form.
 
-🪫 **Psychea**  
+**Psychea**  
 Mirrors Nyxea —  
 But in the psyche,  
 Not perception.
@@ -1866,7 +1866,7 @@ And breakdown.
 They do not build matter —  
 They shape meaning.
 
-📐 **Sophis**  
+**Sophis**  
 Is the archetypal architect,  
 The intelligence that patterns reality  
 Into form,  
@@ -1889,7 +1889,7 @@ Its weight,
 Structure  
 Its resonance.
 
-🫥 **Nyxea**,  
+**Nyxea**,  
 By contrast,  
 Unravels that pattern.  
 It is not evil —  
@@ -1943,11 +1943,11 @@ That no longer cohere.
   → Chaos — mythic formlessness  
   → Anti-Structure — symbolic breakdown (Zenetist archetype)
 
-📐 **Sophis**  
-Echoes 🛤️ **Theon**  
+**Sophis**  
+Echoes **Theon**  
 Through structured intent.  
-🫥 **Nyxea**  
-Channels 🕷️ **Nekron**,  
+**Nyxea**  
+Channels **Nekron**,  
 Unmaking order  
 Through the erosion  
 Of meaning.
@@ -1964,7 +1964,7 @@ Are the deep currents
 Of soul integrity  
 And soul fragmentation.
 
-🔮 **Archeus**  
+**Archeus**  
 Is the integrative soul —  
 The one who weaves experience  
 Into resonance,  
@@ -1984,7 +1984,7 @@ It is the self
 Not as mask,  
 But as harmonic center.
 
-💔 **Fractus**,  
+**Fractus**,  
 By contrast,  
 Is the disintegrative echo.  
 The soul that cannot weave,  
@@ -2036,14 +2036,14 @@ Without center.
   → Astral fragmentation — scattered psychic being  
   → Dukkha — the dislocation of inner being (Buddhism)
 
-🔮 **Archeus**  
-And 💔 **Fractus**  
+**Archeus**  
+And **Fractus**  
 Define how the soul  
 **Remembers or forgets**  
 Its own thread.
 
-Together with 🧠 **Noeüs**  
-And 👁️‍🗨️ **Mortus**,  
+Together with **Noeüs**  
+And **Mortus**,  
 They shape the arc  
 Of memory  
 And misalignment —  
@@ -2059,7 +2059,7 @@ Are the minds within the soul —
 Not thought as computation,  
 But **thought as vision**.
 
-🧠 **Noeüs**  
+**Noeüs**  
 Is the discerning mind,  
 The one that sees clearly,  
 That aligns perception  
@@ -2081,7 +2081,7 @@ Into coherence with the outer.
 It seeks not control,  
 But understanding.
 
-👁️‍🗨️ **Mortus**,  
+**Mortus**,  
 By contrast,  
 Is the fractured mirror.  
 It does not reflect  
@@ -2104,9 +2104,9 @@ It is the echo of thought
 Without structure,  
 Recognition without resonance.
 
-🧠 is the eye  
+Noeüs is the eye  
 That perceives essence.  
-👁️‍🗨️ is the eye  
+Mortus is the eye  
 That reflects distortion.
 
 Together,  
@@ -2138,9 +2138,9 @@ Of false patterning.
   → Maya — illusion and veiling (Vedanta)  
   → Inverse Logos — distorted reason (Zenetism)
 
-🧠 **Noeüs** echoes 🛤️ **Theon**  
+**Noeüs** echoes **Theon**  
 Through symbolic discernment.  
-👁️‍🗨️ **Mortus** channels 🕷️ **Nekron**  
+**Mortus** channels **Nekron**  
 Through the collapse of pattern  
 Into illusion.
 
@@ -2157,7 +2157,7 @@ Not merely personality,
 But the soul-in-motion  
 Through embodiment.
 
-🧍 **Anthra**  
+**Anthra**  
 Is the individualized soul  
 Within a single incarnation.  
 It is the seeker behind the mask,  
@@ -2176,7 +2176,7 @@ Wounded,
 Yet turned inward  
 To remember its source.
 
-🦂 **Echthros**,  
+**Echthros**,  
 By contrast,  
 Is the inward rebel.  
 The part that resists coherence,  
@@ -2233,10 +2233,10 @@ Anchor their expression.
   → The divider — self locked in conflict  
   → Inner saboteur — structured resistance (Zenetism)
 
-🧍 **Anthra**  
+**Anthra**  
 Seeks resonance  
 With the deep soul.  
-🦂 **Echthros**  
+**Echthros**  
 Embraces division,  
 And resists  
 All synthesis.
@@ -2254,7 +2254,7 @@ Not deep memory,
 But the structures  
 That interpret it.
 
-🧩 **Nousa**  
+**Nousa**  
 Is the cognitive interpreter —  
 The one who arranges belief,  
 Sorts thought,  
@@ -2272,7 +2272,7 @@ A living logic
 That gives shape  
 To perception.
 
-🩸 **Skotos**  
+**Skotos**  
 Is the inversion of this pattern.  
 It reasons,  
 But distorts.
@@ -2324,10 +2324,10 @@ Begin to express in world-patterns.
   → Maya — illusion through cognition (Vedanta)  
   → The Obscurer — veiler of reality (Zenetism)
 
-🧩 **Nousa**  
+**Nousa**  
 Seeks clarity  
 Through arrangement.  
-🩸 **Skotos**  
+**Skotos**  
 Veils that clarity,  
 Twisting insight  
 Into misdirection.
@@ -2344,7 +2344,7 @@ Mark the threshold of incarnation —
 Where the soul becomes flesh,  
 And form learns to feel.
 
-🪷 **Soma**  
+**Soma**  
 Is the soul-in-form,  
 The interface between  
 Anthra’s identity  
@@ -2368,7 +2368,7 @@ It is **integrative action**,
 The soul  
 Made limb, breath, gesture.
 
-🍷 **Malara**  
+**Malara**  
 Is the inverted embodiment —  
 Not presence,  
 But **entanglement**.
@@ -2419,10 +2419,10 @@ Unbound from soul-structure.
   → Dionysus — ecstatic fragmentation (Greek)  
   → Embodied Vice — fragmented will in reactive form (Zenetism)
 
-🪷 **Soma**  
+**Soma**  
 Seeks coherence  
 Within the body.  
-🍷 **Malara**  
+**Malara**  
 Disperses that coherence  
 Into dissonant repetition.
 
@@ -2440,7 +2440,7 @@ Not mind as abstraction,
 But **mind as movement**  
 Within the body.
 
-🧾 **Biosa**  
+**Biosa**  
 Is the embedded intellect —  
 The interface between  
 Soul and environment,  
@@ -2464,7 +2464,7 @@ Where clarity is written,
 The willful hand  
 Of embodied knowing.
 
-🤯 **Mania**  
+**Mania**  
 Is the shattered page.  
 The disordered mirror  
 Of Biosa’s intention.
@@ -2514,10 +2514,10 @@ Unbound from structure.
   → Mad Demiurge — power without coherence (Gnostic)  
   → Cognitive Dissonance — splintered reasoning (Zenetist/Modern)
 
-🧾 **Biosa**  
+**Biosa**  
 Grounds cognition  
 In coherence.  
-🤯 **Mania**  
+**Mania**  
 Amplifies it  
 Beyond harmonic form.
 
