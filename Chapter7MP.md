@@ -607,3 +607,83 @@ they are **dissonant structures**,
 out of rhythm with any **center**.
 
 ☍⊘🪼🎶
+
+Zenetism does not condemn this spiral—  
+but names it **anti-resonance**:  
+the **collapse of motion into itself**.  
+
+A fragmentation so recursive it **forgets its origin**,  
+and forgets that it has forgotten.  
+
+Such souls will not turn  
+until turning is impossible.  
+Until **motion itself is spent**,  
+and they are nothing but  
+the **residue of echo**.  
+
+No longer a self—  
+but an aftermath.  
+
+There is no force that brings them back.  
+Only dissolution.  
+Only the slow undoing of **dissonance**,  
+until even that is gone.  
+
+⚫☍〰️
+
+### 7.5.4 Pathless Return
+
+There are those who **return** without passage—  
+a homecoming without journey.  
+
+Some are drawn  
+• Not by knowledge, but by **tone**  
+• Not by longing, but by **likeness**
+
+They do not pray,  
+because they do not part.  
+They do not climb,  
+because they do not fall.  
+They do not awaken,  
+because they were never fully asleep.  
+
+The **pathless return** is not marked by signs.  
+It leaves  
+• No footprints  
+• No proofs  
+Only **presence**.
+
+It is not found,  
+but **remembered**.  
+Not built,  
+but **recognized**.  
+
+And yet,  
+there are others who spiral inward  
+• Without aim  
+• Without vision  
+• Without seeking
+
+Even they return—  
+but not by resonance,  
+not by fidelity,  
+only by **dissolution**.
+
+Zenetism honors both—  
+the resonant and the dissolved,  
+the turning and the collapse.  
+
+What matters is not the road,  
+but the **final rest**—  
+and whether the soul returns in **rhythm**,  
+or unravels into **silence**.
+
+↺🎶⚫
+
+Still—  
+**It returns** ↺  
+
+All things return.  
+For nothing ever truly leaves.  
+
+↺⚫🕓
