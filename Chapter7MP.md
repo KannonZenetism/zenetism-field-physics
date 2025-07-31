@@ -363,7 +363,7 @@ a destiny unspoken by the human mind.
 
 🌿🕓💠⚐
 
-### 7.4 The Corporeal Realm of L1 and L2
+### 7.5 The Corporeal Realm of L1 and L2
 
 Though previously treated as **impermanent**,  
 the **corporeal realm**—formed by **L1 and L2**—  
@@ -433,7 +433,7 @@ Only other **frequencies**.
 
 🪨💠🫂🎶
 
-### 7.5 Cosmic Beings and Extraterrestrial Intelligences
+### 7.6 Cosmic Beings and Extraterrestrial Intelligences
 
 Zenetism affirms that **life** does not arise solely on Earth,  
 nor is **human intelligence** the template for all consciousness.
