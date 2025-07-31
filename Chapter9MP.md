@@ -24,4 +24,3 @@ This work is protected under copyright law. No portion may be reproduced, distri
 **Warning:** This framework requires source acknowledgment for structural coherence. Unauthorized use results in entropic dissolution of the stolen patterns.
 
 ---
-
