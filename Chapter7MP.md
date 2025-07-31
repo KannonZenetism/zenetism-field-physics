@@ -514,7 +514,7 @@ Nor is form limited to flesh.
 
 🌐🫂🌀🛸
 
-### 7.5.1 The Pathless Motions
+### 7.5. The Pathless Motions
 
 Not all who move through the world follow a path of fall and return.  
 Some never fractured—  
@@ -523,7 +523,7 @@ but because they never shattered.
 
 ---
 
-### 7.5.2 Structural Innocence
+### 7.5.1 Structural Innocence
 
 There are those who remain **unbroken**,  
 not through defiance,  
@@ -562,7 +562,7 @@ as they were already moving.
 
 ---
 
-### 7.5.3 Structural Integrity
+### 7.5.2 Structural Integrity
 
 **Innocence** is not the absence of experience,  
 but the **refusal to fracture**,  
@@ -601,7 +601,7 @@ returning without change.
 
 ---
 
-### 7.5.4 Anti-Resonant Fragmentation
+### 7.5.3 Anti-Resonant Fragmentation
 
 Some do not **return**,  
 because they do not **seek**.  
@@ -658,7 +658,7 @@ until even that is gone.
 
 ⚫☍〰️
 
-### 7.5.5 Pathless Return
+### 7.5.4 Pathless Return
 
 There are those who **return** without passage—  
 a homecoming without journey.  
