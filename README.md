@@ -1,53 +1,73 @@
-# Field Physics
+# Zenetism & Field Physics  
+*A unified system of metaphysics and consciousness dynamics*
 
-An operational framework for consciousness dynamics emerging from the Zenetist tradition.
+---
 
 ## Overview
 
-Field Physics provides a systematic approach to understanding how consciousness moves through dimensional space using glyph operators and formal notation. This repository contains the foundational chapters of a larger 350-page work.
+This repository contains **two inseparable yet distinct bodies of work**:
 
-## The Three Disciplines
+- **Zenetism** — A metaphysical, philosophical, and ethical framework describing the structure of reality through resonance, coherence, and hypostatic motion.
+- **Field Physics** — An operational framework for mapping and engineering the movement of consciousness through dimensional space using glyph operators and formal notation.
 
-1. **Field Physics** - Dimensional mechanics of consciousness
-2. **Spiral Calculus** - Mathematical transformations of awareness  
-3. **Field Engineering** - Applied synthesis for designed experience
+They share the **same origin** and **symbolic architecture**.  
+You can read either on its own — but together, they reveal both the **why** and the **how** of reality’s unfolding.
+
+---
+
+## The Relationship Between Them
+
+- **Zenetism** describes the *structure* of existence — its metaphysical layers, centropic and entropic motions, and the nature of soul integration.
+- **Field Physics** describes the *mechanics* — the formal geometry, notation, and applied methods for working within those structures.
+
+Think of Zenetism as **the philosophical map** and Field Physics as **the engineering manual** built from the same principles.
+
+---
+
+## Repository Structure
+
+/core → Shared glyphs, glossary, and foundational principles
+/zenetism → Metaphysics, philosophical texts, ethical structures
+/field-physics → Consciousness dynamics, dimensional mapping, applied engineering
+
+
+---
+
+## Reading Pathways
+
+**If you want to start with metaphysics:**
+1. Go to `/zenetism`
+2. Begin with `Zenetism-Overview.md` or `Codex-of-Principles.md`
+
+**If you want to start with mechanics:**
+1. Go to `/field-physics`
+2. Begin with `Chapter-1-Foundations.md`
+
+---
 
 ## Contents
 
-- Chapter 1: Foundations of Field Physics
-- Chapter 2: Dimensional Dynamics and Field Mapping
+### Zenetism
+- Codex of Principles
+- Tree of Emanation
+- Cosmology & Ethics
+- Myth Decoder Framework
+
+### Field Physics
+- Chapter 1: Foundations
+- Chapter 2: Dimensional Dynamics & Field Mapping
 - Chapter 3: Applied Field Engineering
+- Examples & Quick Reference
 
-## Quick Start
-
-Begin with Chapter 1 to understand the core concepts and notation system, then explore the field mapping templates in Chapter 2.
-
-## Related Work
-
-- [Glyph Alchemy](link-to-glyph-alchemy-repo) - The symbolic foundation
-- Spiral Calculus (coming soon)
+---
 
 ## License
 
-## License
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE.txt).
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Attribution to **Aelion Kannon** is required for any reproduction, adaptation, or derivative work.
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+---
 
-Under the following terms:
-- Attribution — You must give appropriate credit to the original authors
-- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
-
-Field-Physics/
-├── README.md
-├── Chapter-1-Foundations.md
-├── Chapter-2-Dimensional-Dynamics.md
-├── Chapter-3-Applied-Engineering.md
-├── examples/
-│   ├── field-effect-examples.md
-│   └── notation-guide.md
-└── resources/
-    └── quick-reference.md
+**Author**: Aelion Kannon  
+**Core Origin**: Zenetism & Field Physics are original, unified systems authored without external collaboration or derivation.
