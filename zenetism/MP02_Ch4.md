@@ -2812,14 +2812,15 @@ On behalf of the many, it suffers.
 Nekron’s echo forgets—  
 To divide the many, it consumes.
 
-— Summary of the Mirror —
+### — Summary of the Mirror —
 
-Theon:                          Nekron’s Echo:  
-• Forgets in order to redeem    | • Knows only the impulse to fragment  
-• Could have returned           | • Never knew Aion  
-   — chose embodiment from love |   — never turned to look  
-• Enters multiplicity           | • Enters multiplicity  
-   with centropic remembrance   |   through entropic inevitability  
+| **Theon**                                | **Nekron’s Echo**                          |
+|-----------------------------------------|--------------------------------------------|
+| Forgets in order to redeem              | Knows only the impulse to fragment         |
+| Could have returned                     | Never knew Aion                            |
+| — chose embodiment from love            | — never turned to look                     |
+| Enters multiplicity                     | Enters multiplicity                        |
+| with centropic remembrance              | through entropic inevitability             |
 
 ⚫🛤️🕷️
 
