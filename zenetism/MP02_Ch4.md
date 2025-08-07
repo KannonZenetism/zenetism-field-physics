@@ -632,8 +632,8 @@ in nature,
 in function,  
 in rhythm.
 
-Where centropy unfolds through conscious refinement (**C↑⚫**),  
-entropy spreads through progressive collapse.
+Where centropy expands through conscious refinement (**C↑⚫**),  
+entropy erodes through progressive collapse.
 
 A disintegration of form  
 through fragmentation and disorder (**E↓♾**).
