@@ -190,8 +190,9 @@ without predicate.
 
 From Zenon, all possibility silently arises.
 
-• **Aion (⚫)** — or Zero —  
-is the first discernable emanation from Zenon.
+• **Aion** (⚫) — or Zero —  
+  emerges as the **first structural stillpoint** discernible *from within the field of emanation*,  
+  though 🕳️ **Zenon** itself does not emanate.
 
 It is pure potentiality—undifferentiated, silent, infinitely poised.  
 Not a single emergent potential,  
