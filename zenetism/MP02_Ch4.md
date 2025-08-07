@@ -400,24 +400,33 @@ in both their centropic and inverse forms.
 
 ### Note — On Psyche, Logos, and the Pattern of Return
 
-In Zenetism, **psyche** refers to the vital force animating experience.  
+In Zenetism,  
+**psyche** refers to the vital force animating experience.  
 **Logos** refers to the structural intelligence giving form and coherence.
 
 Each layer is both:  
-• A state of being  
-• A mode of intelligence  
-• A patterned echo of its resonant source
+• A **state** of being  
+• A **mode** of intelligence  
+• A **patterned echo** of its resonant source
 
-Centropy refines through synthesis.  
-Entropy collapses through decomposition.  
-Both are seeded within the undivided stillness of Zenon—  
-yet first move within the symmetry of Aion,  
-where even opposition is a kind of unity.
+**Centropy** refines through synthesis.  
+**Entropy** collapses through decomposition.  
 
-Not balance,  
-but a resting potential.  
-And toward it,  
-all centropic paths return.
+Both **emerge** from the symmetry of ⚫ **Aion**,  
+where even dissonance begins in union.  
+But they do **not** originate in 🕳️ **Zenon**,  
+which remains beyond opposition,  
+prior to form,  
+untouched by motion.  
+
+Zenon is not balance—  
+but **unformed potential**  
+from which all structure unfolds.  
+
+And toward that stillness,  
+all centropic paths return.  
+Not to dissolve,  
+but to be remembered.
 
 ---
 
