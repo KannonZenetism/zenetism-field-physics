@@ -987,7 +987,7 @@ It is **expansion without coherence**,
 It is the intensification of separation.
 
 It is entropy extending itself toward embodiment (**E↑→E**)—  
-a climb not toward light,  
+a motion not toward light,  
 but into more rarefied shadows.
 
 Not a motion away from embodiment,  
