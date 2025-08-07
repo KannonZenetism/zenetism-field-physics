@@ -299,10 +299,10 @@ not as splintering,
 but as the natural unfolding of coherence.
 
 Each layer after Theon —  
-DL / DP,  
-DM / DS,  
-SM / SS,  
-EM / ES —  
+DP / DL,  
+DS / DM,  
+SS / SM,  
+ES / EM —  
 continues this motion.
 
 Not because they fall,  
