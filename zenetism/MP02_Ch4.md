@@ -807,7 +807,7 @@ is often misunderstood as a fall,
 a failure,  
 or a mission.
 
-In truth, it is none of the above.
+In essence, it is none of the above.
 
 This declivous centropy is a structural unfolding—  
 not a moral deviation.
