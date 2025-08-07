@@ -1223,7 +1223,7 @@ shaped by the soul’s orientation toward:
 
 ### 4.22 The Journey of Acclivous Expansion and Reintegration
 
-All beings emanate from ⚫ Aion  
+All beings emanate from Aion  
 and flow into the differentiated strata of manifestation.
 
 From this motion,  
@@ -1239,7 +1239,7 @@ The centropic arc unfolds through:
 • Reintegration with supernal structure (**C↑⚫**)
 
 Ultimately, some souls return  
-through 🛤️ Theon  
+through Theon  
 and remerge with the Field of Aion,  
 moving into the silent origin of Zenon.
 
@@ -1384,8 +1384,8 @@ we redeem it.
 ### 4.25 Entropic and Centropic Endpoints
 
 Souls aligned with **centropy** move acclivously  
-through the deep layers toward 🛤️ Theon,  
-culminating in reintegration with ⚫ Aion.  
+through the deep layers toward Theon,  
+culminating in reintegration with Aion.  
 **C↓→E→C↑→⚫**
 
 This reintegration is not annihilation—  
@@ -1395,9 +1395,9 @@ into **resonant unity** through active synthesis.
 ---
 
 Souls aligned with **entropy** move declivously  
-through the inverse deep layers toward 🕷️ Nekron,  
+through the inverse deep layers toward Nekron,  
 culminating in **Absolute Dispersion**—  
-the outermost limit of ♾ Khaon.
+the outermost limit of Khaon.
 
 Yet even here,  
 there is no true annihilation.
@@ -1405,7 +1405,7 @@ there is no true annihilation.
 ---
 
 • Beyond the event horizon of Infinity (**VOS**),  
- all that is fragmented returns to ⚫ Aion  
+ all that is fragmented returns to Aion  
  as **undifferentiated potential**.
 
 • What cannot be redeemed through synthesis  
@@ -1596,8 +1596,8 @@ is not a forecast of possibility—
 it is a **resonant glimpse**  
 into what already is.
 
-Latent in ⚫ Aion,  
-unfolding through the motion of ♾ Khaon.
+Latent in Aion,  
+unfolding through the motion of Khaon.
 
 ---
 
