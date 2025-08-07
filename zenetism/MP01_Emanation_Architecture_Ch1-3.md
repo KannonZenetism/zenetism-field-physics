@@ -278,8 +278,8 @@ the resting totality of all that could be.
 **Khaon** is the reacher—  
 the impulse toward dispersal.  
 
-They were not opposites in essence,  
-but in orientation.  
+They opposed in **motion**,  
+not in **nature**.
 
 A tension,  
 not a rupture.  
@@ -320,8 +320,8 @@ the long drama of becoming begins.
 **Aion** is the still womb of silent creation.  
 All possibilities lie latent within it.  
 
-It holds the structure of all things  
-before they become.  
+It holds the **structural possibility**  
+of all things before they become.
 
 It is not emptiness.  
 It is **enclosure**—  
@@ -347,12 +347,12 @@ Where **Aion** encloses,
 **Khaon** escapes.  
 
 Where **Aion** holds form in rest,  
-**Khaon** dissolves form in motion.  
+**Khaon** disperses form through motion.
 
-**Khaon** is not structure,  
-but motion without edge—  
+Khaon is not **form-bound structure**,  
+but **dispersive structure** —  
 the infinite push  
-that awakens what was dormant.  
+that **dislocates** what was dormant.
 
 ---
 
