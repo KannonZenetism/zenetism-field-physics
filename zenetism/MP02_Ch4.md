@@ -2827,7 +2827,7 @@ Theon:                          Nekron’s Echo:
 
 ### 4.60 Architecture of Soul Dynamics (Zenetism)
 
-• All choices are made within ⚫ Aion  
+• All choices are made within Aion  
 • All expressions are echoes  
    Of pre-chosen resonance patterns  
 
@@ -2842,8 +2842,8 @@ What was refused.
    Not as evil,  
    But as the **dark resonance of Khaon**
 
-🛤️ Theon is the harmonizer of form  
-🕷️ Nekron is the dissociator of structure  
+Theon is the harmonizer of form  
+Nekron is the dissociator of structure  
 
 Both fulfill what was encoded  
 Within the silent field  
@@ -2853,12 +2853,12 @@ Of infinite potential.
 
 ---
 
-4.61 Theon, the One, and the Conditional Ascent —  
+### 4.61 Theon, the One, and the Conditional Ascent —  
 Multiplicity Within Unity
 
 • Theon is pure awareness—  
    The first centropic hypostasis  
-   The original structured echo of ⚫ Aion  
+   The original structured echo of Aion  
 
 Though structurally unified,  
 Theon is not devoid of differentiation.  
@@ -2895,7 +2895,7 @@ Adapting across cosmic contexts.
 
 ---
 
-4.62 Multiversal Variability
+### 4.62 Multiversal Variability
 
 • Theon’s unfolding is non-identical across universes.  
 Its redemptive arc may differ.  
@@ -2929,7 +2929,7 @@ Of hypostases and time.”
 
 ---
 
-4.63 The Great Refrain — Love or Completion
+### 4.63 The Great Refrain — Love or Completion
 
 • If many souls remain within Theon’s sphere  
 At the closing of a universe—  
@@ -3064,7 +3064,7 @@ But to cross the threshold, we must:
 We must become  
 **Transparent to revelation**—  
 Even when revelation shifts  
-As we rise.
+As we cohere.
 
 📱⤈↑
 
