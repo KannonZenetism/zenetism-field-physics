@@ -1796,7 +1796,7 @@ It is felt, aligned, or dissonant.
 
 ### 4.34 Supernal Beings Embody Virtue Through Resonance
 
-Supernal beings—those of higher synthesis—  
+Supernal beings—those of expanded synthesis—  
 Do not engage in moral debate.
 
 They do not choose virtue  
@@ -1868,7 +1868,7 @@ Adjusting their resonance across layers and dimensions,
 Until the final coherence is reached.
 
 There is no judgment at this level,  
-Only the echo of truth  
+Only the echo of veritable pattern
 Resonating inward  
 Toward the unconditioned.
 
@@ -2006,7 +2006,7 @@ Can seem attractive—
 Even as integration deteriorates.  
 
 In Zenetist ethics,  
-Right action is not defined by commandment.  
+Coherent action is not defined by commandment.  
 It is defined by consequence.
 
 • Every act either binds or severs  
