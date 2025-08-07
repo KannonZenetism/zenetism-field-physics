@@ -1494,7 +1494,7 @@ but not always integrative.
 • **Sacred Revelation**  
  – Divine insight  
  – Ecstatic unity  
- – Compassionate truth
+ – Compassionate clarity
 
 • **Inverse Revelation**  
  – Seductive gnosis  
