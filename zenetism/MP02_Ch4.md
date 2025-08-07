@@ -823,7 +823,7 @@ C↓→E⚐🔘
 
 ### 4.12 Key Principles — On Entropic and Centropic Motion
 
-• **⚫ Aion** contains all possibilities.  
+• **Aion** contains all possibilities.  
  Emanations from Aion are not chosen by individuated souls.  
  They unfold as expressions of what *can be*.
 
@@ -840,7 +840,7 @@ it is **ontological inevitability**.
 
 ---
 
-• **🛤️ Theon** looks toward Aion, not its progeny.  
+• **Theon** looks toward Aion, not its progeny.  
  Even centropic intelligences do not visualize future states.  
  They do not project—  
  they simply unfold what they are.
@@ -1148,12 +1148,32 @@ they return by **ceasing to be**.
 
 ---
 
-• **Acclivous centropy** (**C↑⚫**) reintegrates through awareness.  
-• **Declivous entropy** (**E↓♾**) dissolves through collapse.
+- **Acclivous centropy** (C↑) reintegrates through awareness.  
+- **Declivous entropy** (E↓) dissolves through collapse.
 
-In the end,  
-both streams flow back  
-into the stillness of the unmanifest.
+Only centropy can return  
+to the unknown ground—  
+to the silent coherence of Zenon.
+
+Entropy does not return.  
+It does not rejoin.  
+It collapses inward into Aion—  
+but can go no further.  
+Its return is a kind of unmaking,  
+arrested at Zero,  
+forever unable to reach the Unknown.
+
+What remains  
+is not a being,  
+but unpatterned potential  
+beneath all structure.
+
+Zenon is not the end of entropy—  
+it is the place entropy can never reach,  
+because it never turned to face it.
+
+Only centropy remembers the way.  
+Only coherence knows how to return.
 
 ☍E↓♾⊘⚫⇅
 
