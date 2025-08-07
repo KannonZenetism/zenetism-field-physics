@@ -668,7 +668,7 @@ then collapses backward.
 
 • **Declivous Entropy**  
  Commences decoherent collapse (**E↓♾**)  
- As unstable forms erode and fall back toward Khaon
+ As unstable forms erode and dissolve back toward Khaon
 
 The entropic arc is not linear.  
 It spirals—  
