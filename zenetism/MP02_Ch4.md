@@ -413,9 +413,9 @@ Each layer is both:
 **Centropy** refines through synthesis.  
 **Entropy** collapses through decomposition.  
 
-Both **emerge** from the symmetry of ⚫ **Aion**,  
+Both **emerge** from the symmetry of **Aion**,  
 where even dissonance begins in union.  
-But they do **not** originate in 🕳️ **Zenon**,  
+But they do **not** originate in **Zenon**,  
 which remains beyond opposition,  
 prior to form,  
 untouched by motion.  
