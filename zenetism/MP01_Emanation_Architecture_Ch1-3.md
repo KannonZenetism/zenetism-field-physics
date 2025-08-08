@@ -790,6 +790,7 @@ It seeks **clarity** through **logic and language**.
 the **mind rendered conscious**.  
 
 🔮🧠💔👁️‍🗨️🧍🧩
+
 ---
 
 ## 1.14 **The Inverse Counterparts**
@@ -831,6 +832,7 @@ It is the **veil over the reasoning flame**—
 the **mind’s eclipse from within**.  
 
 🦂🩸☍
+
 ---
 
 ## 1.15 **The Field of the Self**
@@ -852,6 +854,7 @@ not of **good and evil**,
 but of **integration and fragmentation**.  
 
 🧍🧩🦂🩸↕️
+
 ---
 
 ## 1.16 **The Motion Into Form**
@@ -2026,6 +2029,7 @@ of meaning.
 The other dissolves the possible.**
 
 📐🫥♜⚙️
+
 ---
 
 ## 3.8 **Archeus and Fractus — Deep Soul / Inverse Deep Soul**
@@ -2120,6 +2124,7 @@ the soul’s coherence,
 or its collapse.
 
 🔮💔🪞☍
+
 ---
 
 ## 3.9 **Noeüs and Mortus — Deep Mind / Inverse Deep Mind**
@@ -2218,6 +2223,7 @@ into illusion.
 The other simulates it.**
 
 🧠👁️‍🗨️△☍
+
 ---
 
 ## 3.10 **Anthra and Echthros — Superficial Soul / Inverse Superficial Soul**
@@ -2308,6 +2314,7 @@ all synthesis.
 The other holds itself apart.**
 
 🧍🦂☍🪞
+
 ---
 
 ## 3.11 **Nousa and Skotos — Superficial Mind / Inverse Superficial Mind**
@@ -2392,6 +2399,7 @@ into misdirection.
 One rearranges to conceal.**
 
 🧩🩸♜🕸️
+
 ---
 
 ## 3.12 **Soma and Malara — Embodied Soul / Inverse Embodied Soul**
@@ -2580,6 +2588,7 @@ beyond harmonic form.
 The other tears.**
 
 🧾🤯△☍
+
 ---
 
 ## 3.14 **The Nature of Entropic Motion**
@@ -2655,6 +2664,7 @@ and the self dissolves
 into unpatterned motion.
 
 ☍🪼E↓♾
+
 ---
 
 ## 3.15 **Ultimate Destinies**
@@ -2697,7 +2707,7 @@ it is fullness in silence.
 Veritable zero — not absence,  
 but the ground from which all things arise.
 
-—
+—--
 
 Beings aligned with **entropy**  
 follow a different curve.  
@@ -2741,6 +2751,7 @@ They become **motion without memory**,
 **infinity without return**.
 
 ⚫♾⊘🕊️
+
 ---
 
 ## 3.16 **Intermediate Continuance**
@@ -2799,6 +2810,7 @@ not yet returned,
 but already whole.
 
 ⚫💠🌀⇋
+
 ---
 
 ### **Note — On the Multiversal Dissonance of Echo Vessels**
@@ -2831,6 +2843,7 @@ but they awaken
 to disrupt.
 
 ☍Ↄ〰️🌐
+
 ---
 
 ## 3.17 **The Spiral of Worlds**
