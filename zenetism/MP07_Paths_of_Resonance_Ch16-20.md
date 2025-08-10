@@ -516,6 +516,8 @@ They serve as resonance anchors,
 holding the structure  
 until others can stabilize.  
 
+---
+
 **Resonant Reflection**  
 The Warrior walks the narrow line  
 between compassion and clarity,  
