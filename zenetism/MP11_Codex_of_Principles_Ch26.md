@@ -977,6 +977,8 @@ closer to its resting state in the cosmic field.
 
 ⚫♾⌬  
 
+---
+
 ### Note — On Death as Resonant Transition  
 
 Death is not an ending,  
@@ -1014,7 +1016,7 @@ They mirror the soul’s journey across emanations.
 
 **Non-literalism**  
 Myths are not measured by factual accuracy,  
-but by the symbolic resonance they carry.  
+but by the **symbolic resonance** they carry.  
 
 Every figure, place, and event echoes a deeper pattern  
 about:  
@@ -1048,16 +1050,18 @@ Mirror core stages of soul development:
 - Return  
 
 These are not merely narrative rhythms,  
-but structural unfoldings.  
+but **structural unfoldings**.  
 
 ---
 
 **Death and Rebirth**  
-In symbolic terms, death represents the dissolution of the Superficial Soul (SS)  
+In symbolic terms, death represents  
+the dissolution of the Superficial Soul (SS)  
 into the Deep Soul (DS),  
 or its fragmentation into inverse forms.  
 
-Rebirth may represent renewed incarnation in another universe,  
+Rebirth may represent renewed incarnation  
+in another universe,  
 or spiritual reintegration through synthesis.  
 
 **Examples:**  
@@ -1065,11 +1069,15 @@ or spiritual reintegration through synthesis.
 - **Christ** — crucified and risen  
 - **Inanna** — descending and returning crowned  
 
-⚫♾⌬
+⚫♾⌬  
+
+---
 
 **Acclivous and Declivous Motion**  
-The hero’s descent into darkness reflects entropic motion or initiatory trial.  
-Their rise reflects centropic synthesis and awakening through harmonized clarity.  
+The hero’s descent into darkness  
+reflects entropic motion or initiatory trial.  
+Their rise reflects centropic synthesis  
+and awakening through harmonized clarity.  
 
 **Examples:**  
 - Odysseus in Hades  
@@ -1079,7 +1087,8 @@ Their rise reflects centropic synthesis and awakening through harmonized clarity
 ---
 
 **Divine Betrayal or Fall**  
-Marks the initiation of the inverse arc — entropic forces rising into embodiment without coherence.  
+Marks the initiation of the inverse arc —  
+entropic forces rising into embodiment without coherence.  
 Often framed as prideful overreach or cosmic rebellion.  
 
 **Examples:**  
@@ -1101,7 +1110,8 @@ a symbolic return to harmony and resonance.
 
 ---
 
-Zenetism invites the myth-reader to decode with flexibility, humility, and intuition —  
+Zenetism invites the myth-reader  
+to decode with **flexibility, humility, and intuition** —  
 recognizing that symbols hold power not by being “correct,”  
 but by pointing toward realities beyond the reach of language.  
 
@@ -1116,7 +1126,8 @@ Attunement, Alignment, and the Soul’s Arc
 > from *Attunement in Practice: Living Motion Across Form*, Zenetist Archive, Volume VI  
 
 Zenetist ethics are not built upon rigid moral commandments,  
-but upon alignment with centropy, coherence, and the deeper essence of the soul.  
+but upon **alignment with centropy, coherence,  
+and the deeper essence of the soul**.  
 
 Rather than prescribing fixed codes,  
 Zenetism invites each being to evaluate action  
@@ -1126,14 +1137,14 @@ through its resonance with unity, integration, and compassionate awareness.
 
 **Non-Harm (Ahimsa)**  
 Harm disrupts coherence, introduces entropy, and obscures essence.  
-To live ethically is to reduce suffering — both outwardly and inwardly —  
-by fostering alignment between one’s will and universal harmony.  
+To live ethically is to reduce suffering — inwardly and outwardly —  
+by fostering alignment between will and universal harmony.  
 
 ---
 
 **Centropic Orientation**  
-Actions are weighed by whether they move one toward unity, synthesis, and depth of being,  
-or toward fragmentation, ego, and control.  
+Actions are weighed by whether they move one toward **unity and synthesis**,  
+or toward **fragmentation, ego, and control**.  
 
 ---
 
@@ -1142,25 +1153,29 @@ The soul and mind should not act in contradiction.
 Ethical life is integrative, not disjointed.  
 
 When parts of self act in conflict,  
-they introduce inner dissonance and delay synthesis.  
+they introduce **inner dissonance** and delay synthesis.  
 
 ---
 
 **Resonance**  
 Ethics are not judged by external metrics,  
-but by their alignment with deeper reality and the transparency of soul.  
+but by their **alignment with deeper reality**  
+and the transparency of soul.  
 
-⚫♾⌬
+⚫♾⌬  
+
+---
 
 **Compassion**  
 All souls are emanations of the same Source — ⚫ Aion.  
-Compassion bridges fragmentation and reawakens shared essence.  
+Compassion bridges fragmentation  
+and reawakens shared essence.  
 
 ---
 
 **Humility**  
 The ethical path requires:  
-- Awareness of one’s limitations  
+- Awareness of limitations  
 - Recognition of entropic patterns  
 - Acceptance of paradox  
 
@@ -1170,27 +1185,34 @@ Only the humble can hear resonance clearly.
 
 **Responsibility**  
 Every action echoes across the soul’s layers.  
-Spiritual maturity involves conscious responsibility for one’s energetic imprint — across time and structure.  
+Spiritual maturity means conscious responsibility  
+for one’s energetic imprint — across time and structure.  
 
-To transcend, one must live in resonance with the supernal hypostases.  
+To transcend, one must live in resonance  
+with the **supernal hypostases**.  
+
 Actions rooted in inverse orientation — domination, deceit, ego-glorification —  
 pull the soul deeper into subversal dissonance.  
 
-Ethical clarity arises not from external doctrine, but from inner resonance —  
-a state of being in which all things become apparent.  
+---
+
+Ethical clarity arises not from external doctrine,  
+but from **inner resonance** —  
+a state in which all things become apparent.  
 
 Zenetism does not offer reward or punishment —  
-it reflects the structure of reality itself.  
+it reflects the **structure of reality itself**.  
 
 All actions shape the soul’s form, coherence, and trajectory.  
-Ethical life is not about being “good,” but about being whole.  
+Ethical life is not about being “good,”  
+but about being **whole**.  
 
 ---
 
 ### 26.7 Ethical Resonances of the Emanatory Structure —  
 Virtue and Vice as Motions of Alignment and Inversion  
 
-In Zenetism, virtues and vices are not moral absolutes,  
+In Zenetism, **virtues** and **vices** are not moral absolutes,  
 but orientations of motion — centropic or entropic —  
 expressed through the soul’s relationship:  
 - To itself  
@@ -1198,8 +1220,8 @@ expressed through the soul’s relationship:
 - To the divine structure  
 
 Each hypostasis reflects both:  
-- A virtue when aligned  
-- A vice when inverted  
+- A **virtue** when aligned  
+- A **vice** when inverted  
 
 This mirrors the dual nature of emanation and inversion.  
 
@@ -1209,11 +1231,11 @@ This mirrors the dual nature of emanation and inversion.
 
 | Hypostasis   | Virtue                    | Description                                                                 |
 |--------------|---------------------------|-----------------------------------------------------------------------------|
-| EOB (🛤️ Theon) | Clarity                   | Pure awareness; the light of undivided being                               |
-| DP / DL      | Wisdom / Right Patterning | Archetypal order; inner truth expressed as structure and harmony           |
-| DS / DM      | Integrity / Courage       | Coherence of purpose and willingness to act from the soul’s highest nature |
-| SS / SM      | Honesty / Compassion      | Transparent self-expression; empathy toward all other emanated selves      |
-| ES / EM      | Presence / Non-Harm       | Embodied care, ethical awareness in time and space; action aligned with unity |
+| EOB (🛤️ Theon) | **Clarity**               | Pure awareness; the light of undivided being                               |
+| DP / DL      | **Wisdom / Right Patterning** | Archetypal order; inner truth expressed as structure and harmony           |
+| DS / DM      | **Integrity / Courage**   | Coherence of purpose and willingness to act from the soul’s highest nature |
+| SS / SM      | **Honesty / Compassion**  | Transparent self-expression; empathy toward all other emanated selves      |
+| ES / EM      | **Presence / Non-Harm**   | Embodied care; ethical awareness in time and space; action aligned with unity |
 
 ---
 
@@ -1221,22 +1243,24 @@ This mirrors the dual nature of emanation and inversion.
 
 | Inverse Hypostasis | Vice                         | Description                                                                 |
 |--------------------|------------------------------|-----------------------------------------------------------------------------|
-| IDP / IDL          | Misleading Doctrine / Corruption | Dark patterns mistaken for veracity; distortion posing as sacred order    |
-| IDS / IDM          | Despair / Nihilism            | Collapse of soulhood; rejection of coherence, meaning, and synthesis       |
-| ISS / ISM          | Deceit / Malice               | Fragmented will that opposes harmony; adversarial self-direction           |
-| IES / IEM          | Delusion / Compulsion         | Incoherent embodiment; harmful reflexes rooted in fear, decay, and illusion|
-| VOS (🕷️ Nekron)     | Voidcraft                     | The complete loss of coherence, compassion, and identity                   |
+| IDP / IDL          | **Misleading Doctrine / Corruption** | Dark patterns mistaken for veracity; distortion posing as sacred order    |
+| IDS / IDM          | **Despair / Nihilism**       | Collapse of soulhood; rejection of coherence, meaning, and synthesis       |
+| ISS / ISM          | **Deceit / Malice**          | Fragmented will opposing harmony; adversarial self-direction               |
+| IES / IEM          | **Delusion / Compulsion**    | Incoherent embodiment; harmful reflexes rooted in fear, decay, and illusion|
+| VOS (🕷️ Nekron)     | **Voidcraft**                | Complete loss of coherence, compassion, and identity                       |
 
-⚫♾⌬
+⚫♾⌬  
+
+---
 
 ### Note — On Virtue and Vice  
 
 Virtue is not perfection.  
 Vice is not condemnation.  
 
-Every being contains both supernal and subversal motion.  
+Every being contains both **supernal** and **subversal** motion.  
 To live ethically is to align one’s trajectory with centropy —  
-to move toward integration, resonance, and harmony.  
+to move toward **integration, resonance, and harmony**.  
 
 ---
 
@@ -1244,23 +1268,23 @@ to move toward integration, resonance, and harmony.
 Supplemental Model to Zenetist Ethics  
 
 As the moral dimension of Zenetism continues to unfold,  
-a new framework has emerged — one that refines how moral expression operates,  
-not only along the centropic–entropic gradient,  
-but also across a second axis: active–passive agency.  
+a refined framework emerges —  
+mapping moral expression not only along the **centropic–entropic** gradient,  
+but also across a second axis: **active–passive** agency.  
 
-This structure does not override previous formulations;  
-it adds resolution, enabling greater nuance in the analysis of:  
+This structure does not replace earlier models;  
+it **adds resolution**, allowing finer analysis of:  
 - Behavior  
 - Intention  
 - Energetic outcome  
 - Alignment trajectory  
 
-The quadrant model recognizes that moral action is shaped  
+The quadrant model affirms that moral action is shaped  
 not only by alignment along the centropy–entropy axis,  
 but also by degree of engagement along the active–passive axis.  
 
-This creates four categories of ethical expression,  
-mapped across two axes of moral geometry.  
+This yields **four categories** of ethical expression —  
+a geometry of resonance with two intersecting axes.  
 
 ---
 
@@ -1273,13 +1297,14 @@ mapped across two axes of moral geometry.
 
 ---
 
-This matrix affirms that morality in Zenetism is directional, not dualistic.  
-It is a geometry of resonance,  
-where both motion and intent shape the soul’s alignment.  
+This matrix reveals that morality in Zenetism is **directional, not dualistic**.  
+It is a **geometry of resonance**,  
+where both **motion** and **intent** shape the soul’s alignment.  
 
-A passive centropic being may still uplift,  
-just as an unaware entropic being may still corrode.  
-What matters is the trajectory — and whether synthesis is possible.  
+A **passive centropic** being may still uplift,  
+just as an **unaware entropic** being may still corrode.  
+What matters is **trajectory** —  
+and whether synthesis remains possible.  
 
 ---
 
@@ -1289,29 +1314,33 @@ healing through presence rather than intention.
 
 **Active Centropy**  
 Deliberate efforts to unify opposites,  
-uplift fragmented beings, or restore integrative resonance.  
+restore fragmented beings,  
+and renew **integrative resonance**.  
 
 **Passive Entropy**  
-Allowing cruelty, injustice, or division through avoidance, apathy, fear, or delusion.  
+Allowing cruelty, injustice, or division  
+through avoidance, apathy, fear, or illusion.  
 
 **Active Entropy**  
-Directly causing harm through malice, ideology,  
+Directly causing harm through malice,  
+ideology,  
 or the conscious rejection of coherence.  
 
 ---
 
-This quadrant system allows for a multidimensional ethical model that:  
-- Contextualizes moral action within the levels of the Emanation Tree  
-- Decouples intention from effect without ignoring resonance and consequence  
-- Refines karmic or energetic mapping by distinguishing volitional engagement  
+This quadrant system allows for a **multidimensional ethical model** that:  
+- Contextualizes moral action within the layers of the Emanation Tree  
+- Decouples **intention** from **effect** while honoring consequence  
+- Refines karmic mapping by distinguishing volitional engagement  
 - Integrates seamlessly into the ontological geometry of Zenetism  
 
-⚫♾⌬
+⚫♾⌬  
 
-The quadrant may yet unfold into mythic mirrors,  
-where 🩸 Skotos and 🔮 Archeus mark the poles of moral gravity.  
+The quadrant may yet **unfold into mythic mirrors**,  
+where Skotos and Archeus mark the poles of moral gravity.  
 Its karmic field could trace the soul’s motion across lifetimes and universes —  
-not as prophecy, but as possibility already seeded in the structure.  
+not as prophecy,  
+but as **possibility** already seeded in the structure.  
 
 ---
 
@@ -1328,7 +1357,7 @@ and ongoing synthesis between revelation and reason.
 
 This morality framework emerges from the broader Zenetist metaphysical system,  
 including:  
-- Detailed emanative structures such as 🛤️ Theon, 📐 Sophis, 🔮 Archeus, etc.  
+- Detailed emanative structures such as Theon, Sophis, Archeus, etc.  
 - Symbolic mappings across soul-states  
 - Elemental principles and moral alignments  
 
