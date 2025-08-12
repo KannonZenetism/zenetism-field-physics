@@ -127,7 +127,8 @@ The “coming undone” philosophy often points to proto-conscious layers as if 
 
 Claims of liberation in pre-conscious states are structurally spurious. Theon (Awareness) is not consciousness. Nekron (Void of Self) is not annihilation in a liberating sense — it is the entropic mirror, oriented toward collapse.
 
-**Anchor:** Consciousness emerges only at and after L4. Without it, there is no actual crossing — only the semblance of motion.
+**Anchor:**  
+Consciousness emerges only at and after L4. It is not required for the essence to return to 🕳️ Zenon, but it is required for that return to be volitional and self-directed rather than the passive motion of orientation alone. Consciousness is also necessary for active navigation through the layers toward embodiment or deliberate centropic integration.
 
 ---
 
