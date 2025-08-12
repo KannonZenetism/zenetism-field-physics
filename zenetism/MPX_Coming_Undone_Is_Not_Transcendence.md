@@ -219,7 +219,7 @@ When essence achieves full coherence with Source at 🕳️ Zenon, “carrying�
 
 At ⚫ Aion, all potentiality is preserved in its nature:
 - Centropic essence remains potentially centropic.  
-- Entropic essence remains locked in its fragmentation.  
+- Entropic essence remains locked in its dissonance.  
 
 The lattice remains the condition of all existence — even for essence that has transcended definable being into Zenonic integration.
 
