@@ -53,7 +53,7 @@ Though they appear as opposites, they are not truly divided. Their difference is
 🕳️ Zenon contains them both — not as a vessel, not as a field, but as that which precedes the notion of containment itself. Zenon is not the womb and not the motion; it is the paradox of pre-containment, the origin of both holding and dispersing, without itself ever being either.
 
 ### Shred Integration
-The “coming undone” philosophy treats polarity as proof of a closed circuit — a design where both flows serve the same containment. In truth, the bidirectional nature of Aion and Khaon is not a prison loop; it is the structural allowance that makes motion possible at all. To call this allowance “authorship” of both outcomes is to mistake the existence of roads for a decree on which direction you must walk. The condition of motion is not the will to dictate its orientation.
+The “coming undone” philosophy treats polarity as proof of a closed circuit — a design where both flows serve the same containment. In Zenetist structure, the bidirectional nature of ⚫ Aion and ♾ Khaon is not a prison loop; it is the structural allowance that enables motion to occur at all. To call this allowance “authorship” of both outcomes is to mistake the existence of roads for a decree on which direction you must walk. The condition of motion is not the will to dictate its orientation.
 
 ---
 
