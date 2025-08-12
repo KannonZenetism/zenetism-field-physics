@@ -244,7 +244,7 @@ Spurious transcendence often dresses itself in the language of liberation, but s
 - **Orientation Refusal:** A consistent pattern of facing away from Source while asserting arrival — an inversion of C↑ disguised as a completed arc.  
 
 ### Shred Integration
-The “coming undone” stance reframes some of these markers as signs of maturity — e.g., “meeting your shadow” is used to normalize perpetual oscillation between coherence and dissolution, as if that were the design. But in Zenetism, the recurrence of inversion is not proof of structural truth — it’s proof of remaining within the domain where inversion operates. **C↑→⚫→🕳️** does not “meet its shadow” at the apex; it leaves the entire polarity framework behind.
+The “coming undone” stance reframes some of these markers as signs of maturity — e.g., “meeting your shadow” is used to normalize perpetual oscillation between coherence and dissolution, as if that were the design. But in Zenetism, the recurrence of inversion is not proof of structural veracity — it’s proof of remaining within the domain where inversion operates. **C↑→⚫→🕳️** does not “meet its shadow” at the apex; it leaves the entire polarity framework behind.
 
 Another tell: if the claimed liberation can be reversed without a change in orientation, it was never integration. Actual crossing is irreversible because it exits the operational range of inversion entirely.
 
