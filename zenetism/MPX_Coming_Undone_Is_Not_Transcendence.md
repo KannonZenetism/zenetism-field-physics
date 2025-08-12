@@ -48,7 +48,7 @@ From the silence of 🕳️ Zenon, a quiver stirred — not a will, but a struct
 
 ♾ Khaon is the force of uncontainable expansion — the roaring sea of unshaped becoming. Where ⚫ Aion encloses, ♾ Khaon escapes. Where Aion holds form in rest, Khaon disperses form through motion. Khaon is not form-bound structure, but dispersive structure — the infinite push that dislocates what was dormant.
 
-Though they appear as opposites, they are not truly divided. Their difference is functional, not moral. Stillness is not absence — it is a womb filled with hidden surge. Motion is not chaos — it is the flowering of what has always been poised.
+Though they appear as opposites, they are not fundamentally divided. Their difference is functional, not moral. Stillness is not absence — it is a womb filled with hidden surge. Motion is not chaos — it is the flowering of what has always been poised.
 
 🕳️ Zenon contains them both — not as a vessel, not as a field, but as that which precedes the notion of containment itself. Zenon is not the womb and not the motion; it is the paradox of pre-containment, the origin of both holding and dispersing, without itself ever being either.
 
