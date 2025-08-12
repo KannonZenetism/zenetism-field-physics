@@ -34,7 +34,7 @@ Causal frames — cultural, political, even cosmic laws within a universe — ca
 Containment and creation are distinct acts. A being’s origin does not grant ownership to the one who later obstructs its motion, and captivity does not dissolve the sovereignty of its nature. The lattice may hold both centropic and entropic motion, but this condition does not make it the author of those motions — only the ground in which they occur.
 
 ### The Event Horizon of Zenon
-🕳️ Zenon marks the event horizon of all cognition, awareness, motion, and potential. Beyond that point, nothing can be said — not because it is empty, but because it is ineffable. Expression, relation, and distinction are left behind. From within the lattice, the transition past Zenon appears as “loss” only because definable being cannot follow. In truth, it is not loss but integration beyond totality.
+🕳️ Zenon marks the event horizon of all cognition, awareness, motion, and potential. Beyond that point, nothing can be said — not because it is empty, but because it is ineffable. Expression, relation, and distinction are left behind. From within the lattice, the transition past Zenon appears as “loss” only because definable being cannot follow. In structural terms, it is not loss but integration beyond totality.
 
 Essence and identity remain, but in a mode where all definition fails. It is the ultimate integration — not cessation.
 
