@@ -228,7 +228,7 @@ The “coming undone” philosophy mistakes the persistence of inversion within 
 
 The ability for entropic potential to remain for others does not diminish the reality of your own crossing. Sovereignty is not negated by the persistence of a choice you are no longer making.
 
-**Anchor:** Only centropy crosses the event horizon. Entropy settles in ⚫ Aion as static potential — coherent in essence but unable to advance.
+**Anchor:** Only centropy crosses the event horizon. Entropy settles in ⚫ Aion as static potential — its essence persists, but its motion is arrested and unable to advance.
 
 ---
 
