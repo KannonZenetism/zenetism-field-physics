@@ -105,6 +105,9 @@ Opponents of Zenetism sometimes claim that the ability to move in both direction
 
 The Structural Emanation Layers define where and how consciousness arises, and they close the door on any claim of “transcendence” from states that have not yet even reached conscious emergence.
 
+### Supra-L0 — 🕳️ Zenon
+**Supra-L0 — Zenon (Unknown Principle):** Pre-structural origin beyond all potential and dispersion. Contains all possibilities in latency before the emergence of ⚫ Aion and ♾ Khaon. Zenon is proto-conscious in the most absolute sense — beyond form, beyond polarity, beyond the lattice’s definable operations.
+
 ### Proto-Conscious Layers (Pre-L4)
 - **L0 — AP / AD (Absolute Potential / Dispersion):** Origin of all emanation; pure potential and dispersive capacity latent within ⚫ Aion and ♾ Khaon.  
 - **L1 — ES / EM (Embodied Soul / Mind):** Physical interface of soul-mind.  
@@ -117,7 +120,7 @@ All of these layers — and their inverse forms — are proto-conscious. They co
 - **L4 — DP / DL (Deep Psyche / Logos):** Archetypal Forms and harmonic intelligence.  
 - **IL4 — IDP / IDL (Inverse Deep Psyche / Logos):** Distorted archetypes and authoritarian forms.  
 - **L5 — EOB (Essence of Being / 🛤️ Theon):** The first centropic hypostasis, pure awareness oriented toward Source.  
-- **IL5 — VOS (Void of Self / 🕷️ Nekron):** The first entropic hypostasis, pure dissonance oriented away from Source.  
+- **IL5 — VOS (Void of Self / 🕷️ Nekron):** The first entropic hypostasis, pure dissonance oriented away from Source.
 
 ### Shred Integration
 The “coming undone” philosophy often points to proto-conscious layers as if they were liberation states — equating dissolution at or before L3 with transcendence. But without L4’s emergence of consciousness, there is no capacity for the kind of self-directed, Source-facing motion required to reach 🕳️ Zenon. Orientation without consciousness is not transcendence; it is drift.
