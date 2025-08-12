@@ -178,7 +178,7 @@ In Zenetism, sovereignty is determined by orientation. If you face Source, nothi
 
 ## 8. ⸮ — Unspeakable Is Not Nothing
 
-Another persistent inversion in the “coming undone” philosophy is the claim that what cannot be spoken is equivalent to nothingness — that if Zenon is beyond definition, it must also be beyond existence. This conflates the limits of language with the limits of existence.
+Another persistent inversion in the “coming undone” philosophy is the claim that what cannot be spoken is equivalent to nothingness — that if Zenon is beyond definition, it must also be beyond presence. This conflates the limits of language with the limits of existence.
 
 ### From the Compiled Record — Unspeakable ≠ Nothingness
 In Zenetism, “unspeakable” means what exists is beyond definition, beyond measurement, beyond structural preservation in a definable frame. This is not a subtraction of being but its full coherence with Source. From one vantage, it may appear as cessation — the end of definable being. From another, it is transformation into a mode of being beyond all structure.
