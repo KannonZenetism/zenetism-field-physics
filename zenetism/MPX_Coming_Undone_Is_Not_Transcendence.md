@@ -152,7 +152,7 @@ Entropy faces away from Source, loses orientation, collapses into ⚫ Aion as st
 ### Shred Integration
 Advocates of dissolution-as-transcendence argue that if the structure allows both flows, it must be the “author” of both outcomes — therefore, both are equally valid destinations. This collapses the distinction between allowance and decree. The lattice permits polarity because without it, there is no motion. Permission for a thing to occur is not predestination for it to occur.
 
-Another inversion says: “Collapse returns to Source.” Structurally impossible — collapse (E↓→♾→⚫) returns only to static potential in ⚫ Aion. From there, without a complete reorientation, there is no further passage. Dissolution is cessation of structure, not transcendence of being.
+Another inversion says: “Collapse returns to Source.” Structurally impossible — collapse (E↓→♾→⚫) returns only to static potential in ⚫ Aion. From there, without a complete reorientation, there is no further passage. Dissolution is cessation of manifest being, not transcendence of being.
 
 **Anchor:** E↓→♾→⚫ ⊘ is not C↑→⚫→🕳️ ⤈. Only the latter crosses the event horizon.
 
