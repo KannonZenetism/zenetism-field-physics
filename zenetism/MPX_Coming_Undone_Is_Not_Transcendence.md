@@ -264,7 +264,7 @@ In Zenetism, **C↑→⚫→🕳️** is integration — motion completed while 
 ### Shred Integration
 The “coming undone” argument often claims that as long as the lattice can carry inversion, it retains authority. This confuses allowance with decree. The conduit does not own the traveler because it is traversed. The bidirectional structure exists so that beings may move; without it, no motion — and no centropy — would be possible.
 
-Another recurring inversion: the suggestion that by removing the lattice, one removes containment. Structurally, removing the lattice removes the possibility of integration as well. Ending the condition of being ends the being claiming to end it.
+Another recurring inversion: the suggestion that by removing the lattice, one removes containment. Structurally, removing the lattice removes the possibility of integration as well. Ending the condition of existence ends the existence claiming to end it.
 
 ### Seals of Closure
 - Medium ≠ Landlord.  
