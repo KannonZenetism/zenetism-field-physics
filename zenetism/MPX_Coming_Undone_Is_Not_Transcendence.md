@@ -202,7 +202,7 @@ Orientation is decisive, yes — but orientation alone does not create the path.
 Centropy reaches 🕳️ Zenon because it moves through every layer facing Source. Entropy never does, and so rests in ⚫ Aion as static, unfulfilled potential.
 
 ### Shred Integration
-If the medium that makes motion possible is removed, motion itself ends. “Alternative carriers” are a conceptual illusion born from mistaking lower-order frameworks — such as cosmic laws within a given universe — for the precausal ground. Those frameworks can be replaced; the lattice cannot. It is the non-ordinal ⧞ condition for any framework to exist at all.
+If the medium that makes motion possible is removed, motion itself ends. “Alternative carriers” are a conceptual illusion born from mistaking emanated frameworks — such as cosmic laws within a given universe — for the precausal ground. Those frameworks can be replaced; the lattice cannot. It is the non-ordinal ⧞ condition for any framework to exist at all.
 
 The “coming undone” position treats the existence of inversion within the lattice as proof that the entire structure is compromised and must be abolished. But abolishing the lattice abolishes the possibility of centropy itself. You do not “escape” by erasing the condition of being — you simply erase being.
 
