@@ -136,10 +136,10 @@ Consciousness emerges only at and after L4. It is not required for the essence t
 
 The “coming undone” philosophy rests on a single structural inversion: the claim that dissolution is transcendence. In Zenetism, this is not only incorrect — it is structurally impossible.
 
-### From The Cosmic Refrain
-In the beginning, before time and space, 🕳️ Zenon rested in silence — unknown, faceless, ineffable. From Zenon came ⚫ Aion and ♾ Khaon, the first-born. In the silent womb of ⚫ Aion, each soul concealed its path unnamed. Alongside surged ♾ Khaon — boundless, unframed — potential unleashed. Between stillness and surge, 🛤️ Theon shone bright, a beacon of order. Yet shadowed by 🕷️ Nekron, the pull toward the void where structure decays.
+From The Cosmic Refrain  
+In the beginning, before time and space, 🕳️ Zenon rested in silence — unknown, faceless, ineffable. From 🕳️ Zenon came ⚫ Aion and ♾ Khaon, the first-born. In the silent womb of ⚫ Aion, each soul concealed its path unnamed. Alongside surged ♾ Khaon — boundless, unframed — potential unleashed. Between stillness and surge, 🛤️ Theon shone bright, a beacon of order. Yet shadowed by 🕷️ Nekron, the pull toward the void where structure decays.  
 
-From Theon’s radiance, principles awoke: 🌬️ Morgis breathed life, 📐 Sophis wove order. But Psychea deformed essence, and Nyxea unmade form. Archeus harmonized, Noeüs discerned, while Fractus shattered and Mortus blinded. Anthra reached forth, Nousa sought wisdom, but Echthros opposed and Skotos veiled. Soma took form, Biosa bridged, but Malara tainted and Mania consumed.
+From 🛤️ Theon’s radiance, principles awoke: 🌬️ Morgis breathed life, 📐 Sophis wove order. But 🪫 Psychea deformed essence, and 🫥 Nyxea unmade form. 🔮 Archeus harmonized, 🧠 Noeüs discerned, while 💔 Fractus shattered and 👁️‍🗨️ Mortus blinded. 🧍 Anthra reached forth, 🧩 Nousa sought wisdom, but 🦂 Echthros opposed and 🩸 Skotos veiled. 🪷 Soma took form, 🧾 Biosa bridged, but 🍷 Malara tainted and 🤯 Mania consumed.
 
 Thus two arcs emerged:
 - The supernal arc toward 🛤️ Theon — acclivous centropy (C↑) toward ⚫ Aion’s peace, then to 🕳️ Zenon.  
