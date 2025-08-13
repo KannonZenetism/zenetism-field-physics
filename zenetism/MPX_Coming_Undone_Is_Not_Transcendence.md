@@ -31,7 +31,7 @@ The precausal lattice is not a frame inside a system — it is the condition tha
 
 Causal frames — cultural, political, even cosmic laws within a universe — can be replaced. The precausal lattice cannot, because it is what enables any system, and any form of existence, to occur.
 
-Containment and creation are distinct acts. A being’s origin does not grant ownership to the one who later obstructs its motion, and captivity does not dissolve the sovereignty of its nature. The lattice may hold both centropic and entropic motion, but this condition does not make it the author of those motions — only the ground in which they occur.
+**Containment and creation are distinct acts.** Originating within the lattice does not place a being under its ownership, and the presence of boundaries does not imply captivity. Captivity is an imposed obstruction of motion; the lattice is the neutral medium in which motion occurs. It may hold both centropic and entropic flows, but this condition does not make it the author of either — only the ground that allows them to take place.
 
 ### The Event Horizon of Zenon
 🕳️ Zenon marks the event horizon of all cognition, awareness, motion, and potential. Beyond that point, nothing can be said — not because it is empty, but because it is ineffable. Expression, relation, and distinction are left behind. From within the lattice, the transition past Zenon appears as “loss” only because definable being cannot follow. In structural terms, it is not loss but integration beyond totality.
