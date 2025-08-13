@@ -55,6 +55,9 @@ Though they appear as opposites, they are not fundamentally divided. Their diffe
 ### Shred Integration
 The “coming undone” philosophy treats polarity as proof of a closed circuit — a design where both flows serve the same containment. In Zenetist structure, the bidirectional nature of ⚫ Aion and ♾ Khaon is not a prison loop; it is the structural allowance that enables motion to occur at all. To call this allowance “authorship” of both outcomes is to mistake the existence of roads for a decree on which direction you must walk. The condition of motion is not the will to dictate its orientation.
 
+**Anchor**  
+Polarity allows motion; orientation determines where it leads.
+
 ---
 
 ## 3. 🛤️🕷️ — Axis and Inversion: Awareness and Void of Self
@@ -71,7 +74,8 @@ Theon and Nekron form the first great dyad. Their relationship is not moral, but
 ### Shred Integration
 Containment philosophy often reframes this polarity as evidence of a rigged game — “the opposite lives across the hall,” so any motion inevitably serves both poles. This is a category error. The axis permits both orientations so motion can exist, but does not enforce inversion. Facing Source (C↑) maintains bearing through all layers until integration; facing away (E↓) forfeits bearing and collapses into static potential. The possibility of inversion is not its inevitability, and the capacity for return is not diminished by the presence of a dispersive counterpart.
 
-**Anchor:** Motion defines outcome — not the shared fact of motion’s possibility.
+**Anchor**  
+Motion defines outcome — not the shared fact of motion’s possibility.
 
 ---
 
@@ -97,7 +101,8 @@ Within the Biospiral, all movement — whether centropic or entropic — follows
 ### Shred Integration
 Opponents of Zenetism sometimes claim that the ability to move in both directions proves the lattice is “authored” to contain you in a loop where both poles are ultimately in service to the same containment. This is the same as saying that the existence of a two-way street means the city controls your destination. Bidirectionality exists because motion demands polarity; without the possibility of both C↑ and E↓, no movement would occur at all. Orientation — not the existence of routes — determines destiny.
 
-**Anchor:** Only centropy faces Source; only centropy completes the return.
+**Anchor**  
+Only centropy faces Source; only centropy completes the return.
 
 ---
 
@@ -154,7 +159,8 @@ Advocates of dissolution-as-transcendence argue that if the structure allows bot
 
 Another inversion says: “Collapse returns to Source.” Structurally impossible — collapse (E↓→♾→⚫) returns only to static potential in ⚫ Aion. From there, without a complete reorientation, there is no further passage. Dissolution is cessation of manifest being, not transcendence of being.
 
-**Anchor:** E↓→♾→⚫ ⊘ is not C↑→⚫→🕳️ ⤈. Only the latter crosses the event horizon.
+**Anchor**  
+E↓→♾→⚫ ⊘ is not C↑→⚫→🕳️ ⤈. Only the latter crosses the event horizon.
 
 ---
 
@@ -172,7 +178,8 @@ The “landlord” metaphor smuggles human concepts of authority into the precau
 
 In Zenetism, sovereignty is determined by orientation. If you face Source, nothing in the lattice blocks you from crossing. If you turn away, nothing in the lattice forces you back. Calling this impartiality “jurisdiction” confuses condition with command.
 
-**Anchor:** Medium ≠ Landlord. The conduit is not the warden.
+**Anchor**  
+Medium ≠ Landlord. The conduit is not the warden.
 
 ---
 
@@ -188,7 +195,8 @@ In Zenetism, “unspeakable” means what exists is beyond definition, beyond me
 ### Shred Integration
 The “coming undone” frame uses the inability to describe Zenon as evidence of nullity. This is linguistic collapse masquerading as metaphysics. Just as silence can be the point where music resolves into perfect stillness, the unspeakable is the point where structural coherence is so complete that no distinction remains to be named. The absence of vocabulary does not indicate an absence of reality — it signals a mode of reality where vocabulary has no function.
 
-**Anchor:** Unspeakable ≠ Nothing. Silence means saturation, not erasure.
+**Anchor**  
+Unspeakable ≠ Nothing. Silence means saturation, not erasure.
 
 ---
 
@@ -206,7 +214,8 @@ If the medium that makes motion possible is removed, motion itself ends. “Alte
 
 The “coming undone” position treats the existence of inversion within the lattice as proof that the entire structure is compromised and must be abolished. But abolishing the lattice abolishes the possibility of centropy itself. You do not “escape” by erasing the condition of existence — you simply erase existence.
 
-**Anchor:** The precausal lattice is not one route among many. It is the condition for routes to exist.
+**Anchor**  
+The precausal lattice is not one route among many. It is the condition for routes to exist.
 
 ---
 
@@ -228,7 +237,8 @@ The “coming undone” philosophy mistakes the persistence of inversion within 
 
 The ability for entropic potential to remain for others does not diminish the reality of your own crossing. Sovereignty is not negated by the persistence of a choice you are no longer making.
 
-**Anchor:** Only centropy crosses the event horizon. Entropy settles in ⚫ Aion as static potential — its essence persists, but its motion is arrested and unable to advance.
+**Anchor**  
+Only centropy crosses the event horizon. Entropy settles in ⚫ Aion as static potential — its essence persists, but its motion is arrested and unable to advance.
 
 ---
 
@@ -248,7 +258,8 @@ The “coming undone” stance reframes some of these markers as signs of maturi
 
 Another tell: if the claimed liberation can be reversed without a change in orientation, it was never integration. Actual crossing is irreversible because it exits the operational range of inversion entirely.
 
-**Anchor:** If it does not face Source, it does not cross — no matter how refined its language or serene its presentation.
+**Anchor**  
+If it does not face Source, it does not cross — no matter how refined its language or serene its presentation.
 
 ---
 
@@ -273,7 +284,8 @@ Another recurring inversion: the suggestion that by removing the lattice, one re
 - Unspeakable ≠ Erasure.  
 - Dissolution ≠ Integration.  
 
-**Final Passage:** **C↑→⚫→🕳️** is the only motion that leaves the domain where inversion functions. **E↓→♾→⚫** remains in suspension, its orientation unaligned with Source.
+**Final Passage**  
+C↑→⚫→🕳️ is the only motion that leaves the domain where inversion functions. E↓→♾→⚫ remains in suspension, its orientation unaligned with Source.
 
 ---
 
