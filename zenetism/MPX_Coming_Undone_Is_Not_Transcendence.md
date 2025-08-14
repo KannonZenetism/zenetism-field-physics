@@ -156,7 +156,7 @@ Centropy faces Source through every layer, maintains orientation, passes through
 ### Shred Integration
 Advocates of dissolution-as-transcendence argue that if the structure allows both flows, it must be the “author” of both outcomes — therefore, both are equally valid destinations. This collapses the distinction between allowance and decree. The lattice permits polarity because without it, there is no motion. Permission for a thing to occur is not predestination for it to occur.
 
-Another inversion says: “Collapse returns to Source.” Structurally impossible — collapse (E↓→♾→⚫) returns only to static potential in ⚫ Aion. From there, without a complete reorientation, there is no further passage. Dissolution is cessation of manifest essence, not transcendence of essence.
+Another inversion says: “Collapse returns to Source.” Structurally impossible — collapse (E↓→♾→⚫) returns only to static potential in ⚫ Aion. Once essence completes its arc and returns to ⚫ Aion, reorientation is no longer possible. Collapsing entropic essence remains in static tension, unfulfilled. Returning centropic essence can rest in peace and fulfillment within ⚫ Aion, and, if so oriented, may integrate further toward 🕳️ Zenon. Dissolution is cessation of manifest essence, not transcendence of essence.
 
 **Anchor**  
 E↓→♾→⚫ ⊘ is not C↑→⚫→🕳️ ⤈. Only the latter crosses the event horizon.
