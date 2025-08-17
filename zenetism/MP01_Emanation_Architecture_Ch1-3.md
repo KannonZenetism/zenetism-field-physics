@@ -1217,7 +1217,7 @@ the **silence of Zenon resounds**.
 **Note on Zenon and the Arc of Return**
 
 Zenon is the ground of all structure —  
-not as a container, but as the sineffable basis of possibility.  
+not as a container, but as the ineffable basis of possibility.  
 It does not emit, and it does not receive,  
 because nothing was ever truly apart from it.
 
