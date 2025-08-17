@@ -618,7 +618,7 @@ Morgis and Psychea govern
 whether life **animates** or **drains**.  
 
 Sophis and Nyxea determine  
-whether reality **coheres** or **unravels**.  
+whether emergence **coheres** or **unravels**.  
 
 Together, they form the **second great emanation**—  
 the layer of **soul and form**,  
