@@ -519,19 +519,19 @@ One inscribes the **hidden order** behind all things.
 
 ---
 
-### **Morgis — The Breath of Life
+### **Morgis — The Breath of Life**
 
 **Morgis is the animating current within all manifest structure.**  
 It infuses vitality, will, and the impulse to become.
 
-Morgis ensures systems remain alive—  
+Morgis ensures systems remain alive —  
 adaptive, intentional, and self-unfolding.
 
 It is the drive not to rest,  
 but to evolve.
 
-**Morgis is the wellspring of purpose in form—**  
-the breath that moves the soul.
+**Morgis is the wellspring of purpose in form —**  
+**the breath that moves the soul.**
 
 ---
 
