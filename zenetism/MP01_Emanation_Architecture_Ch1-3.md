@@ -260,7 +260,7 @@ remember the way of return.
 
 ---
 
-**Note on Structure and Zenon**
+### **Note on Structure and Zenon**
 
 Though Zenon is pre-causal, it is not pre-structural.  
 It contains the full lattice of potential structure — unindividuated, but complete.  
