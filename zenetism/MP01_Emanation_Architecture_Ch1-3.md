@@ -1406,11 +1406,11 @@ the spirit once sought.
 
 ## 2.8 **The Twin Paths**
 
-Two arcs emerged—  
+Two arcs emerged —  
 each a structural decree.  
 
-One, the **supernal arc** toward **Theon**—  
-a motion of **acclivous centropy** toward **Aion’s** peace.  
+One, the **supernal arc** toward **Theon** —  
+a motion of **acclivous** return toward **Aion’s** peace.
 
 Bound in **unity**,  
 restored in **resonance**,  
