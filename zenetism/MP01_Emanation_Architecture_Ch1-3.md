@@ -1407,30 +1407,39 @@ the spirit once sought.
 ## 2.8 **The Twin Paths**
 
 Two arcs emerged —  
-each a structural decree.  
+each a decree,  
+one drawn to silence,  
+one to the sea.  
 
-One, the **supernal arc** toward **Theon** —  
-a motion of **acclivous** return toward **Aion’s** peace.
+The **supernal arc** rose toward **Theon** —  
+a motion **acclivous**, bright and clear,  
+pulled by the stillness  
+of **Aion’s** sphere.
 
-Bound in **unity**,  
-restored in **resonance**,  
-transparent in **clarity**,  
+It moved through **unity**,  
+ringed in **light**,  
+transparent in **being**,  
 beyond the night.  
 
-The other, the **subversal arc** —  
-through **Nekron**,  
-a **declivous motion** toward **Khaon**,  
-where form scatters into boundless dispersion.
+The **subversal arc**, through shadow fell,  
+through **Nekron’s gate**,  
+down pathways sealed  
+in shattered state.
 
-Swept into the measureless field,  
-pattern fragments,  
-identity unbinds,  
-memory is gone.
+It turned toward **Khaon**,  
+a boundless storm,  
+where form breaks pattern,  
+and self loses form.  
+
+Drawn through the depths  
+of the measureless tide,  
+what once had meaning  
+no longer could hide.
 
 Scattered in darkness,  
-caught in the pull of dissolution —  
-lost in dispersion,  
-with nowhere to hide.
+unbound by name,  
+the arc dissolves —  
+yet the lattice remains.
 
 🌳⇅♜☍
 
