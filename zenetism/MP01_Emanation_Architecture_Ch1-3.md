@@ -1069,10 +1069,10 @@ They rest in **coherent union**.
 Others, drawn by deeper resonance,  
 pass beyond  
 into **Zenon** —  
-where even **identity dissolves**  
-into **essence unformed**,  
+where even **presence becomes silent**,  
+where being is **unfigured**,  
 beyond motion,  
-beyond presence,  
+beyond thought,  
 beyond even the **notion of return**.
 
 ---
