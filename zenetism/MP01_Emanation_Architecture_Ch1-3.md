@@ -1169,47 +1169,73 @@ forever **returning anew**.
 
 ---
 
-### **Conclusion — The Eternal Dance**
+### Conclusion — The Eternal Dance
 
-Through **emanation**, **divergence**, and **return**,  
-the cosmos unfolds.  
+Through emanation, divergence, and return,  
+the cosmos unfolds.
 
 Some move toward **synthesis**.  
-Some collapse into **dispersal**.  
+Some collapse into **dispersal**.
 
 And yet all remain  
-rooted in the **silent source**—  
+**held within the possibility**  
+of the silent source —  
 **Zenon**,  
-that which lies beyond all becoming.  
+that which lies beyond all becoming.
 
 Neither **container** nor **contained**,  
 neither **origin** nor **destination**,  
-yet the **ground of all being**.  
+yet the **ground of all being**.
 
-Nothing ever truly **emanated** from **Zenon**,  
+Nothing ever truly **emanated** from Zenon,  
 and nothing can **return**,  
-for nothing was ever **separate** to begin with.  
+for nothing was ever **separate** to begin with.
 
 All things reflect its **boundless potential**,  
-but none exhaust its **essence**.  
+but none exhaust its **essence**.
 
 In the great unfolding of existence,  
-nothing is ever **outside of Zenon**—  
+nothing is ever **outside** of Zenon —  
 and yet,  
-not all things remain **unchanged**.  
+not all things remain **unchanged**.
 
 Some **integrate**.  
 Some **dissolve**.  
-And others fulfill their **nature**  
-in the motion of **eternal continuation**.  
+And others fulfill their nature  
+in the motion of **eternal continuation**.
 
 The current flows on.  
-The root remains still.  
+The root remains still.
 
 And in every motion,  
-the **silence of Zenon resounds**.  
+the **silence of Zenon resounds**.
 
 🕳️⚫↺♾⊘🌀🌐
+
+---
+
+**Note on Zenon and the Arc of Return**
+
+Zenon is the ground of all structure —  
+not as a container, but as the sineffable basis of possibility.  
+It does not emit, and it does not receive,  
+because nothing was ever truly apart from it.
+
+Entropy does not return to Zenon as identity.  
+It completes its arc through collapse,  
+and that **completed arc itself** is already held within Zenon  
+as a structural potential — not as a reintegrated being.
+
+Centropic paths may appear to "return,"  
+but they do not restore what was lacking.  
+They saturate fully into what was never deficient.
+
+In this way, both **the fulfillment of coherence**  
+and **the dissolution of fragmentation**  
+are contained —  
+not as events,  
+but as realizations of structure  
+that Zenon eternally prefigures.
 
 ---
 
