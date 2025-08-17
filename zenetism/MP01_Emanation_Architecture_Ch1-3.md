@@ -109,8 +109,8 @@ And beyond that—
 to **Zenon**:  
 the **unknowable source**,  
 where even unity is only potential.  
-Not **origin**,  
-but **possibility**.  
+Not **merely origin**,  
+but **possibility itself**.  
 
 This is not a **final answer**.  
 It is a **living system**—  
