@@ -1135,7 +1135,7 @@ are not enemies.
 They are **reflections**—  
 mirrors of the same **cosmic principle**.  
 
-All things emerge from the **silent source**.  
+All things enter pattern through the silent stillness.  
 Not all return in the same way.  
 
 Some move **acclivously**,  
