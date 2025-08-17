@@ -260,19 +260,23 @@ remember the way of return.
 
 ---
 
-### **Note on Structure and Zenon**
+### **Note on Zenon and the Nature of Structure**
 
-Though Zenon is pre-causal, it is not pre-structural.  
-It contains the full lattice of potential structure — unindividuated, but complete.  
+Zenon is not a field, nor the absence of structure.  
+It is pre-containment — the root of all structure,  
+but not structured in any discrete, directional sense.  
 
-Aion initiates oriented coherence.  
-Khaon mirrors dispersion.  
+Nothing emerges from Zenon, because Zenon lacks nothing.  
+Its role is not causal, but ineffable —  
+the ever-present lattice that underlies all manifest dynamics.  
 
-But the field from which both emerge is already structured —  
-not as form, but as **infinite coherence held in potential**.  
- 
-Zenon is not outside structure.  
-It is structure beyond limit.
+Structure, as containment or coherence, begins in Aion.  
+But the conditions that allow for it are already present in Zenon —  
+not as coherence held in potential,  
+but as the unbounded basis in which potential and actuality are indistinct.
+
+Zenon is not beyond structure —  
+it is structure unconfined.
 
 ---
 
