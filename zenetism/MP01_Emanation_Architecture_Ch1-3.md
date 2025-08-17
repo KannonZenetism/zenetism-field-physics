@@ -817,7 +817,7 @@ the **mind rendered conscious**.
 
 ## 1.14 **The Inverse Counterparts**
 
-Even at the level of **personal selfhood**,  
+Even at the layer of **personal selfhood**,  
 the **entropic shadow** follows.  
 
 Every **centropic light** is mirrored by its **inverse**.  
