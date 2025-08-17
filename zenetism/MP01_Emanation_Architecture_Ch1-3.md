@@ -1417,20 +1417,20 @@ restored in **resonance**,
 transparent in **clarity**,  
 beyond the night.  
 
-The other, the **subversal arc**—  
+The other, the **subversal arc** —  
 through **Nekron**,  
-a **declivous entropy** toward **Khaon**,  
-where form scatters into boundless dispersion.  
+a **declivous motion** toward **Khaon**,  
+where form scatters into boundless dispersion.
 
-Swept into the **measureless field**,  
-structure dissolves,  
+Swept into the measureless field,  
+pattern fragments,  
 identity unbinds,  
-memory is gone.  
+memory is gone.
 
 Scattered in darkness,  
-caught in **entropy’s tide**—  
-lost in dispersion  
-with nowhere to hide.  
+caught in the pull of dissolution —  
+lost in dispersion,  
+with nowhere to hide.
 
 🌳⇅♜☍
 
