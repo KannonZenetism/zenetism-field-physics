@@ -445,11 +445,11 @@ Theon emerged
 as the first concordant unity—  
 the silent anchor of coherence. 
 
-**Theon** radiated  
-the sleeping patterns within **Aion**.  
+**Theon radiated**  
+the sleeping patterns within ⚫ Aion.  
 It threaded harmony  
 through the stirrings of formlessness,  
-giving rise to **structure** where there had been none.  
+**giving rise to individuated structure where none had yet emerged.** 
 
 Its gaze turns always toward **Aion**,  
 calling all things to **remembrance**—  
