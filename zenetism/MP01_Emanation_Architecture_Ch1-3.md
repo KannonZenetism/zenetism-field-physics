@@ -260,6 +260,22 @@ remember the way of return.
 
 ---
 
+**Note on Structure and Zenon**
+
+Though Zenon is pre-causal, it is not pre-structural.  
+It contains the full lattice of potential structure — unindividuated, but complete.  
+
+Aion initiates oriented coherence.  
+Khaon mirrors dispersion.  
+
+But the field from which both emerge is already structured —  
+not as form, but as **infinite coherence held in potential**.  
+ 
+Zenon is not outside structure.  
+It is structure beyond limit.
+
+---
+
 ## 1.2 **The First Division**  
 **When Stillness and Possibility Braided the Silent Chord**
 
