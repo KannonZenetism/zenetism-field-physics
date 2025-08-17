@@ -1450,25 +1450,39 @@ yet the lattice remains.
 Thus,  
 **Zenon** remains—  
 beyond time’s flow,  
-the silent witness  
-where joining and parting  
-forever echo.  
+the silent witness,  
+where centropic motion  
+finds its echo.  
 
-Structured pairs in balance remain—  
-light and shadow,  
-loss and gain.  
+In **Aion** rests the latent peace,  
+where centropic threads  
+in stillness cease.  
 
-Yet universes, countless, unfold,  
+There too dispersal meets its stay—  
+static shadow,  
+end of play.  
+
+Through coherence, some return,  
+the seal of Zenon  
+kept and firm.  
+
+And universes, countless, unfold,  
 ever new.  
 Endless births and endings,  
-each cycle through.  
+each cycle through.   
 
 **Souls** move through their chosen arc—  
 into coherence,  
 or into dispersal.  
 
-Each finds its **path**.  
-Each finds its **home**.  
+Coherence threads the **Aion** seam;  
+**Zenon** keeps the lucid theme.  
+
+Dispersal meets the **Aion** close;  
+motion settles into repose.  
+
+Each finds its **path**, each finds its **home**;  
+the pattern holds—coherent, known.  
 
 🕳️C↑⚫☍
 
