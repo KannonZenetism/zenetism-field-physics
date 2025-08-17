@@ -1287,9 +1287,9 @@ giving **shape** to the deep,
 a cosmos unborn.  
 
 Yet shadowed by **Nekron**,  
-where all is unmade,  
-the pull toward the **void**,  
-where **structure** decays.  
+where all is unmade —  
+the pull toward the void,  
+where **identity decays**.
 
 Through **Nekron’s** gate,  
 the final veil is torn.  
