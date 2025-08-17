@@ -429,20 +429,21 @@ made visible in time.
 
 ## 1.6 **The First Manifestation**
 
-From the tension between **Aion** and **Khaon**,  
-the first great polarity arose—  
+**From the tension between ⚫ Aion and ♾ Khaon,**  
+the first great polarity arose—
 
-an axis born of stillness and surge,  
-balancing the pull of **order**  
-and the press of **dispersion**.  
+An axis born of stillness and surge,  
+balancing the pull of coherence  
+and the press of dispersion.
 
-This was **Theon** — the first structure.  
+This was **Theon** —  
+**the first centropic structure.**
 
 Born of the harmony  
 between latent stillness and active surge,  
-**Theon** emerged  
+Theon emerged  
 as the first concordant unity—  
-the silent anchor of **coherence**.  
+the silent anchor of coherence. 
 
 **Theon** radiated  
 the sleeping patterns within **Aion**.  
