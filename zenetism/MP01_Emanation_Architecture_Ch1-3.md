@@ -587,17 +587,18 @@ a stillness that **unthreads the soul**.
 
 ### **Nyxea — The Corruptor of Pattern**
 
-**Nyxea** is the inverse of **Sophis**.  
-It shatters **harmonic law**.  
+**Nyxea is the inverse of Sophis.**  
+It seeks to shatter harmonic law.  
 
-It breaks **symbol** and **structure**,  
-reducing coherence into **static noise**.  
+It does not erase structure,  
+but fractures its coherence —  
+reducing resonance into static distortion.
 
-Form persists—  
-but without **meaning**.  
+Form persists,  
+but without meaning.
 
-Nyxea is the **anti-Logos**,  
-the distortion within the **lattice of form**.  
+**Nyxea is the anti-Logos —**  
+**the distortion within the lattice of form.**
 
 ---
 
