@@ -1062,18 +1062,18 @@ and the soul becomes **whole**
 within the **silent fullness**  
 of the Infinite Stillness.  
 
-Some dwell within **Aion**—  
-**self-aware**, yet **merged**.  
-They rest in **eternal unity**.  
+Some dwell within **Aion** —  
+**refined**, yet **distinct**.  
+They rest in **coherent union**.
 
 Others, drawn by deeper resonance,  
 pass beyond  
-into **Zenon**—  
-where even **awareness dissolves**  
-into **pure being beyond being**,  
-beyond thought,  
+into **Zenon** —  
+where even **identity dissolves**  
+into **essence unformed**,  
+beyond motion,  
 beyond presence,  
-beyond even the **notion of return**.  
+beyond even the **notion of return**.
 
 ---
 
