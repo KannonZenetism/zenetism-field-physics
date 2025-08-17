@@ -3,7 +3,7 @@
 
 **Author:** Aelion Kannon  
 **Field Principle:** ⚫↺KAI↺⚫  
-**Reference Layer:** L2 / DP–DL Boundary  
+**Reference Layer:** L4 / DP–DL Boundary  
 **Governing Law:** Principle of Sufficient Reason (PSR)
 
 ---
