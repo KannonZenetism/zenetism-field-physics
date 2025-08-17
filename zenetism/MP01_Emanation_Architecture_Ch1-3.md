@@ -1214,7 +1214,7 @@ the **silence of Zenon resounds**.
 
 ---
 
-**Note on Zenon and the Arc of Return**
+### **Note on Zenon and the Arc of Return**
 
 Zenon is the ground of all structure —  
 not as a container, but as the ineffable basis of possibility.  
@@ -1224,7 +1224,7 @@ because nothing was ever truly apart from it.
 Entropy does not return to Zenon as identity.  
 It completes its arc through collapse,  
 and that **completed arc itself** is already held within Zenon  
-as a structural potential — not as a reintegrated being.
+as a structural potential — not as a reintegrated essence.
 
 Centropic paths may appear to "return,"  
 but they do not restore what was lacking.  
