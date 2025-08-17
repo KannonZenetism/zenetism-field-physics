@@ -731,8 +731,8 @@ The soul **forgets** what it once became.
 It is not **ignorance**,  
 but **disorientation**.  
 
-It bends **validity** into **false certainty**,  
-and **clarity** into **deception**.  
+It bends **validity** into **counterfeit pattern**,  
+and **clarity** into **distorted signal**.  
 
 It masks **chaos** as **pattern**,  
 and **confusion** as **truth**.  
