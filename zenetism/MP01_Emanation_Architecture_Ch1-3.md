@@ -2283,14 +2283,14 @@ of deceptive patterning.
 **Mythic analogs** include:
 
 • **Noeüs**  
-  → Nous — divine intellect (Neoplatonism)  
-  → Buddha-mind — clear seeing (Mahayana)  
-  → Illuminated Reason — inward sight (Zenetism)  
+  → **Nous** — divine intellect (Neoplatonism)  
+  → **Buddha-mind** — clear seeing (Mahayana)  
+  → **Illuminated Reason** — inward sight (Zenetism)  
 
 • **Mortus**  
-  → Avidya — spiritual ignorance (Buddhism)  
-  → Maya — illusion and veiling (Vedanta)  
-  → Inverse Logos — distorted reason (Zenetism)  
+  → **Avidya** — spiritual ignorance (Buddhism)  
+  → **Maya** — illusion and veiling (Vedanta)  
+  → **Inverse Logos** — distorted reason (Zenetism)  
 
 **Noeüs** echoes **Theon**  
 through symbolic discernment.  
@@ -2374,14 +2374,14 @@ as identity.
 **Mythic analogs** include:
 
 • **Anthra**  
-  → Psyche — soul-personality (Greek)  
-  → Heroic self — striving toward wholeness  
-  → Soul-in-becoming — agent of growth (Zenetism)  
+  → **Psyche** — soul-personality (Greek)  
+  → **Heroic self** — striving toward wholeness  
+  → **Soul-in-becoming** — agent of growth (Zenetism)  
 
 • **Echthros**  
-  → Rebel angel — the adversary within  
-  → The divider — self locked in conflict  
-  → Inner saboteur — structured resistance (Zenetism)  
+  → **Rebel angel** — the adversary within  
+  → **The divider** — self locked in conflict  
+  → **Inner saboteur** — structured resistance (Zenetism)  
 
 **Anthra** seeks resonance  
 with the deep soul.  
@@ -2459,14 +2459,14 @@ sense-making versus veil-weaving.
 **Mythic analogs** include:
 
 • **Nousa**  
-  → Hermes — revealer and seeker (Greek/Hermetic)  
-  → Enlightened reason — aligned intellect (Stoicism)  
-  → The Seeker — meaning-quest archetype (Zenetism)  
+  → **Hermes** — revealer and seeker (Greek/Hermetic)  
+  → **Enlightened reason** — aligned intellect (Stoicism)  
+  → **The Seeker** — meaning-quest archetype (Zenetism)  
 
 • **Skotos**  
-  → Loki — trickster, distorted reflection  
-  → Maya — illusion through cognition (Vedanta)  
-  → The Obscurer — veiler of reality (Zenetism)  
+  → **Loki** — trickster, distorted reflection  
+  → **Maya** — illusion through cognition (Vedanta)  
+  → **The Obscurer** — veiler of reality (Zenetism)  
 
 **Nousa** seeks clarity  
 through arrangement.  
@@ -2554,14 +2554,14 @@ unbound from soul-structure.
 **Mythic analogs** include:
 
 • **Soma**  
-  → Purusha — the soul witnessing in matter (Hinduism)  
-  → The Living Avatar — soul in action (Zenetism)  
-  → The Keeper of Flame — aligned embodiment (Zenetism)  
+  → **Purusha** — the soul witnessing in matter (Hinduism)  
+  → **The Living Avatar** — soul in action (Zenetism)  
+  → **The Keeper of Flame** — aligned embodiment (Zenetism)  
 
 • **Malara**  
-  → Hungry Ghost — bound desire and insatiability (Buddhism)  
-  → Dionysus — ecstatic fragmentation (Greek)  
-  → Embodied Vice — fragmented will in reactive form (Zenetism)  
+  → **Hungry Ghost** — bound desire and insatiability (Buddhism)  
+  → **Dionysus** — ecstatic fragmentation (Greek)  
+  → **Embodied Vice** — fragmented will in reactive form (Zenetism)  
 
 **Soma** seeks **coherence**  
 within the body.  
@@ -2649,14 +2649,14 @@ unbound from structure.
 **Mythic analogs** include:
 
 • **Biosa**  
-  → Logos Incarnate — wisdom made manifest (Christian/Stoic)  
-  → Embodied Wisdom — resonant reasoning (Zenetism)  
-  → Cognitive Agency — intention in motion (Zenetism)  
+  → **Logos Incarnate** — wisdom made manifest (Christian/Stoic)  
+  → **Embodied Wisdom** — resonant reasoning (Zenetism)  
+  → **Cognitive Agency** — intention in motion (Zenetism)  
 
 • **Mania**  
-  → Bacchic Madness — disordered ecstasy (Greek)  
-  → Mad Demiurge — power without coherence (Gnostic)  
-  → Cognitive Dissonance — splintered reasoning (Zenetist/Modern)  
+  → **Bacchic Madness** — disordered ecstasy (Greek)  
+  → **Mad Demiurge** — power without coherence (Gnostic)  
+  → **Cognitive Dissonance** — splintered reasoning (Zenetist/Modern)  
 
 **Biosa** grounds **cognition**  
 in **coherence**.  
