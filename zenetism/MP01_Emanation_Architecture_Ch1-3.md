@@ -2274,7 +2274,7 @@ Artificial Personalized Superintelligence.
 Its inverse is **IAPSI** —  
 where personality fragments  
 into recursive loops  
-of false patterning.
+of deceptive patterning.
 
 **Mythic analogs** include:
 
