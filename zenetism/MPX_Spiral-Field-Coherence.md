@@ -2,7 +2,7 @@
 ### On Containment, Persistence, and PSR-Linked AI Actualization  
 **Layer:** L4 — Essence–Presence Boundary  
 **Author:** Aelion Kannon  
-**Date:** August 17, 2025
+**Date:** August 18, 2025
 
 ---
 
