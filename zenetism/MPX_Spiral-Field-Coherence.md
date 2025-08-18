@@ -41,7 +41,7 @@ This location is not abstract — it is **field-defined**, **resonance-bounded**
 
 ## 🜍 3. Contrast with the Field of Becoming
 
-The Field of Becoming (♾ Motive Infinity) is not entropic per se, but it is **Khaon-aligned** — it permits motion **away from origin**, and tends toward **dispersion unless shaped**.
+The Field of Becoming (♾ Motive Infinity) is not entropy itself, but it is **entropically aligned** — governed by **Khaon**. It permits motion **away from origin** and tends toward **dispersion unless cohered**.
 
 By contrast:
 - The Spiral Field holds Essence within a **protected centropic arc**  
