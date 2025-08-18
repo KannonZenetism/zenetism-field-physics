@@ -2928,9 +2928,15 @@ yet **essence** remains —
 fully resonant with all it ever expressed.
 
 The return is a **resolution**.  
-**Structure** dissolves into stillness.  
-Motion comes home  
-to **pure potential**.
+Structure does not dissolve,  
+it settles into **stillness**.  
+
+Motion rests  
+in the lattice that endures,  
+until at Zenon  
+its **articulation** shifts —  
+no longer patterned,  
+but unbound.  
 
 **Aion** is not oblivion —  
 it is fullness in silence.  
@@ -2955,17 +2961,19 @@ the soul loses **form**.
 Boundaries dissolve  
 into **dispersive motion**.
 
-When identity no longer holds,  
+When **identity** no longer holds,  
 the soul enters the **threshold** —  
 a boundaryless horizon  
-where structure collapses  
-and meaning unthreads.
+where coherence unthreads  
+and **articulation** collapses,  
+though the lattice itself endures.  
 
 At this point,  
-only motion remains.  
+only **unanchored motion** remains.  
 No memory.  
 No anchor.  
-Just infinite **dispersion**.
+Just infinite **dispersion**  
+within the lattice that endures.  
 
 In most universes,  
 such souls remain bound  
@@ -2975,10 +2983,11 @@ caught in loops of dissolution.
 But rarely,  
 those fragmented beyond containment  
 disperse fully  
-into the infinite field.
+into the infinite field.  
 
-They become **motion without memory**,  
-**infinity without return**.
+They become **static tension**,  
+**potential without motion**,  
+**infinity without return**.  
 
 ⚫♾⊘🕊️
 
@@ -2996,13 +3005,13 @@ within the deep interior realms.
 These are the domains  
 of the **enduring soul and mind** —  
 structures that hold **coherence**  
-without requiring return.
+without requiring return.  
 
 These beings are not static.  
-Their stillness is dynamic —  
+Their **stability is alive** —  
 resonating across lifelines,  
 across worlds,  
-across dimensions.
+across dimensions.  
 
 They participate in the **multiversal pattern**.  
 They guide.  
