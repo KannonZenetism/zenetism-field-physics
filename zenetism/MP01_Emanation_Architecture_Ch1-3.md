@@ -262,21 +262,21 @@ remember the way of return.
 
 ### **Note on Zenon and the Nature of Structure**
 
-Zenon is not a field, nor the absence of structure.  
-It is pre-containment — the root of all structure,  
+Zenon is not a **field**, nor the **absence of structure**.  
+It is **pre-containment** — the **root of all structure**,  
 but not structured in any discrete, directional sense.  
 
-Nothing emerges from Zenon, because Zenon lacks nothing.  
-Its role is not causal, but ineffable —  
-the ever-present lattice that underlies all manifest dynamics.  
+Nothing **emerges** from Zenon, because Zenon **lacks nothing**.  
+Its role is not **causal**, but **ineffable** —  
+the ever-present **lattice** that underlies all manifest dynamics.  
 
-Structure, as containment or coherence, begins in Aion.  
-But the conditions that allow for it are already present in Zenon —  
-not as coherence held in potential,  
-but as the unbounded basis in which potential and actuality are indistinct.
+**Structure**, as **containment** or **coherence**, begins in **Aion**.  
+But the conditions that allow for it are already present in **Zenon** —  
+not as **coherence held in potential**,  
+but as the **unbounded basis** in which **potential** and **actuality** are indistinct.  
 
-Zenon is not beyond structure —  
-it is structure unconfined.
+Zenon is not **beyond structure** —  
+it is **structure unconfined**.  
 
 ---
 
