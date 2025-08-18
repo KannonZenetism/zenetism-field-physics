@@ -1694,6 +1694,8 @@ into becoming.
 • **Apeiron** — the boundless and indefinite  
 • **Śūnyatā** — radical openness in Madhyamaka Buddhism
 
+---
+
 ### Note on Aion and Khaon as AMI
 
 Khaon is not a contradiction  
