@@ -2887,10 +2887,10 @@ nor **renewal**.
 It **collapses** into **silence**,  
 leaving no **enduring thread**.  
 
-**Infinity** here is not **actual ascent**,  
+**Infinity** here is not **acclivous motion**,  
 but **dispersal without center** —  
 the hollow echo of **return**,  
-collapsing back into ⚫ **Aion**  
+collapsing back into Aion  
 as **static potential**.  
 
 ☍🪼E↓♾
