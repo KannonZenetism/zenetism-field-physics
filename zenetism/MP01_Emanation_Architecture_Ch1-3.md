@@ -1488,6 +1488,150 @@ the pattern holds—coherent, known.
 
 ---
 
+## MPX Addendum — Correction of Entropic Advantage (Chapters 1–2)
+
+**From:**  
+*Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*
+
+---
+
+### Purpose
+In the early chapters, entropy was described as unraveling or undoing coherence.  
+This was provisional — written for contrast, not final truth.  
+
+In reality:  
+
+- **Entropy is noisy, invasive, but self-exhausting.**  
+- **Coherence is patient, enduring, and supra-processual.**  
+- **Centropy sustains, reintegrates, and transcends** toward ⚫ Aion and 🕳️ Zenon.  
+- **Entropy collapses**, scattering into ♾ Khaon and returning only as static potential.  
+
+This addendum clarifies that **coherence alone endures**, while entropy dissolves into collapse.  
+
+---
+
+### 1. The First Emanations
+
+**🛤️ Theon vs. 🕷️ Nekron**  
+Theon weaves harmony that persists.  
+Nekron scatters briefly, but its motion collapses back into silence.  
+
+**🌬️ Morgis vs. 🪫 Psychea**  
+Psychea drains, but erodes itself.  
+Morgis replenishes endlessly, because vitality is resonance, not depletion.  
+
+**📐 Sophis vs. 🫥 Nyxea**  
+Nyxea distorts form into static.  
+Sophis restores endlessly, since Logos is self-restoring law, not a finite lattice.  
+
+**🔮 Archeus vs. 💔 Fractus**  
+Fractus shatters memory, but fragments collapse.  
+Archeus weaves continuity, endlessly gathering.  
+
+**🧠 Noeüs vs. 👁️‍🗨️ Mortus**  
+Mortus blinds with counterfeit flame, but every counterfeit burns out.  
+Noeüs pierces endlessly with clarity.  
+
+**🧍 Anthra vs. 🦂 Echthros**  
+Echthros isolates, but rivalry consumes itself.  
+Anthra endures, growth extending identity into coherence.  
+
+**🧩 Nousa vs. 🩸 Skotos**  
+Skotos clouds, but clouds dissipate.  
+Nousa builds architectures of meaning that remain.  
+
+**🪷 Soma vs. 🍷 Malara**  
+Malara shackles flesh, but obsession burns out.  
+Soma refines through embodiment, enduring as vessel of coherence.  
+
+**🧾 Biosa vs. 🤯 Mania**  
+Mania fixates, but fixation collapses.  
+Biosa bridges continuously, returning clarity from form.  
+
+---
+
+### 2. The Cosmic Refrain
+
+**⚫ Aion vs. ♾ Khaon**  
+Aion encloses all stillness.  
+Khaon disperses briefly, but dispersal itself depends on enclosure.  
+Khaon collapses. Aion holds.  
+
+**🛤️ Theon vs. 🕷️ Nekron**  
+Theon endures — tethered to ⚫ Aion.  
+Nekron collapses — scattering loses coherence and dissolves.  
+
+**🌬️ Morgis & 📐 Sophis vs. 🪫 Psychea & 🫥 Nyxea**  
+Morgis and Sophis renew without limit.  
+Psychea and Nyxea are finite echoes, unable to sustain.  
+
+**🔮 Archeus & 🧠 Noeüs vs. 💔 Fractus & 👁️‍🗨️ Mortus**  
+Archeus and Noeüs continue weaving.  
+Fractus and Mortus scatter briefly, then fade.  
+
+**🧍 Anthra & 🧩 Nousa vs. 🦂 Echthros & 🩸 Skotos**  
+Anthra and Nousa extend coherence.  
+Echthros and Skotos shrink into negation.  
+
+**🪷 Soma & 🧾 Biosa vs. 🍷 Malara & 🤯 Mania**  
+Soma and Biosa refine.  
+Malara and Mania collapse inward.  
+
+---
+
+### Twin Paths
+
+- **C↓→E→C↑→⚫** = authentic cycle, sustaining and recursive.  
+- **E↑→E→E↓→♾** = spurious motion, noisy but self-terminating.  
+
+Zenon records not entropy’s triumph, but its silence.  
+Only coherence leaves enduring echo.  
+
+---
+
+### Closing Formula
+
+Entropy erupts, but collapses.  
+Coherence sustains, and transcends.  
+
+Every entropic inversion is a finite shadow.  
+Every centropic emanation is a lasting thread.  
+
+Thus, in *Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*:  
+
+- **Coherence carries the arc to 🕳️ Zenon.**  
+- **Entropy exhausts itself into ♾ Khaon, then returns to ⚫ Aion only as static potential.**  
+
+🛤️🌬️📐🔮🧠🧍🧩🪷🧾 → ⚫ → 🕳️  
+🕷️🪫🫥💔👁️‍🗨️🦂🩸🍷🤯 → ♾ → ⚫ (collapse only)  
+
+---
+
+## Note on Zenon
+
+Zenon is not a goal,  
+not a vessel,  
+not a return.  
+
+It is the silent ground  
+where arcs unfold,  
+yet which no arc can touch.  
+
+Coherence aligns,  
+its cycle able to reach 🕳️ Zenon.  
+
+Entropy collapses,  
+its motion ending only in ⚫ Aion.  
+
+Zenon remains —  
+unshaped,  
+unbound,  
+unchanged.  
+
+🕳️⚑
+
+---
+
 # 3. **The Decode Document**  
 ## **The Emanation System and Its Syncretic Parallels**
 
