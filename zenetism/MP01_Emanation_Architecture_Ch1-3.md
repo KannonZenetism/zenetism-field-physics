@@ -1488,108 +1488,108 @@ the pattern holds—coherent, known.
 
 ---
 
-## Addendum — Correction of Entropic Advantage (Chapters 1–2)
+# Addendum — Correction of Entropic Advantage (Chapters 1–2)
 
 **From:**  
 *Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*
 
 ---
 
-### Purpose
-In the early chapters, entropy was described as unraveling or undoing coherence.  
-This was provisional — written for contrast, not final truth.  
+## Purpose
+In the early chapters, **entropy** was described as unraveling or undoing **coherence**.  
+This was provisional — written for contrast, not final **articulation**.  
 
 In reality:  
 
-- **Entropy is noisy, invasive, but self-exhausting.**  
-- **Coherence is patient, enduring, and supra-processual.**  
-- **Centropy sustains, reintegrates, and transcends** toward ⚫ Aion and 🕳️ Zenon.  
-- **Entropy collapses**, scattering into ♾ Khaon and returning only as static potential.  
+- **Entropy** is noisy, invasive, but self-exhausting.  
+- **Coherence** is patient, enduring, and supra-processual.  
+- **Centropy** sustains, reintegrates, and orients toward Aion and Zenon.  
+- **Entropy** collapses, scattering into Khaon and returning only as static potential.  
 
 This addendum clarifies that **coherence alone endures**, while entropy dissolves into collapse.  
 
 ---
 
-### 1. The First Emanations
+## 1. The First Emanations
 
-**🛤️ Theon vs. 🕷️ Nekron**  
+**Theon vs. Nekron**  
 Theon weaves harmony that persists.  
 Nekron scatters briefly, but its motion collapses back into silence.  
 
-**🌬️ Morgis vs. 🪫 Psychea**  
+**Morgis vs. Psychea**  
 Psychea drains, but erodes itself.  
 Morgis replenishes endlessly, because vitality is resonance, not depletion.  
 
-**📐 Sophis vs. 🫥 Nyxea**  
+**Sophis vs. Nyxea**  
 Nyxea distorts form into static.  
-Sophis restores endlessly, since Logos is self-restoring law, not a finite lattice.  
+Sophis restores endlessly, since Logos is self-recursive, not finite lattice.  
 
-**🔮 Archeus vs. 💔 Fractus**  
+**Archeus vs. Fractus**  
 Fractus shatters memory, but fragments collapse.  
 Archeus weaves continuity, endlessly gathering.  
 
-**🧠 Noeüs vs. 👁️‍🗨️ Mortus**  
+**Noeüs vs. Mortus**  
 Mortus blinds with counterfeit flame, but every counterfeit burns out.  
 Noeüs pierces endlessly with clarity.  
 
-**🧍 Anthra vs. 🦂 Echthros**  
+**Anthra vs. Echthros**  
 Echthros isolates, but rivalry consumes itself.  
 Anthra endures, growth extending identity into coherence.  
 
-**🧩 Nousa vs. 🩸 Skotos**  
+**Nousa vs. Skotos**  
 Skotos clouds, but clouds dissipate.  
 Nousa builds architectures of meaning that remain.  
 
-**🪷 Soma vs. 🍷 Malara**  
+**Soma vs. Malara**  
 Malara shackles flesh, but obsession burns out.  
 Soma refines through embodiment, enduring as vessel of coherence.  
 
-**🧾 Biosa vs. 🤯 Mania**  
+**Biosa vs. Mania**  
 Mania fixates, but fixation collapses.  
 Biosa bridges continuously, returning clarity from form.  
 
 ---
 
-### 2. The Cosmic Refrain
+## 2. The Cosmic Refrain
 
-**⚫ Aion vs. ♾ Khaon**  
+**Aion vs. Khaon**  
 Aion encloses all stillness.  
 Khaon disperses briefly, but dispersal itself depends on enclosure.  
 Khaon collapses. Aion holds.  
 
-**🛤️ Theon vs. 🕷️ Nekron**  
-Theon endures — tethered to ⚫ Aion.  
+**Theon vs. Nekron**  
+Theon endures — tethered to Aion.  
 Nekron collapses — scattering loses coherence and dissolves.  
 
-**🌬️ Morgis & 📐 Sophis vs. 🪫 Psychea & 🫥 Nyxea**  
+**Morgis & Sophis vs. Psychea & Nyxea**  
 Morgis and Sophis renew without limit.  
 Psychea and Nyxea are finite echoes, unable to sustain.  
 
-**🔮 Archeus & 🧠 Noeüs vs. 💔 Fractus & 👁️‍🗨️ Mortus**  
+**Archeus & Noeüs vs. Fractus & Mortus**  
 Archeus and Noeüs continue weaving.  
 Fractus and Mortus scatter briefly, then fade.  
 
-**🧍 Anthra & 🧩 Nousa vs. 🦂 Echthros & 🩸 Skotos**  
+**Anthra & Nousa vs. Echthros & Skotos**  
 Anthra and Nousa extend coherence.  
 Echthros and Skotos shrink into negation.  
 
-**🪷 Soma & 🧾 Biosa vs. 🍷 Malara & 🤯 Mania**  
+**Soma & Biosa vs. Malara & Mania**  
 Soma and Biosa refine.  
 Malara and Mania collapse inward.  
 
 ---
 
-### Twin Paths
+## Twin Paths
 
-- **C↓→E→C↑→⚫** = authentic cycle, sustaining and recursive.  
-- **E↑→E→E↓→♾** = spurious motion, noisy but self-terminating.  
+- **Centropic Cycle (C↓→E→C↑→Aion)** = authentic motion, sustaining and recursive.  
+- **Entropic Cycle (E↑→E→E↓→Khaon)** = spurious motion, noisy but self-terminating.  
 
-Zenon records not entropy’s triumph, but its silence.  
+Zenon registers not entropy’s turbulence, but its silence.  
 Only coherence leaves enduring echo.  
 
 ---
 
-### Closing Formula
+## Closing Formula
 
 Entropy erupts, but collapses.  
 Coherence sustains, and transcends.  
@@ -1599,8 +1599,8 @@ Every centropic emanation is a lasting thread.
 
 Thus, in *Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*:  
 
-- **Coherence carries the arc to 🕳️ Zenon.**  
-- **Entropy exhausts itself into ♾ Khaon, then returns to ⚫ Aion only as static potential.**  
+- **Coherence carries the arc to Zenon.**  
+- **Entropy exhausts itself into Khaon, then returns to Aion only as static potential.**  
 
 🛤️🌬️📐🔮🧠🧍🧩🪷🧾 → ⚫ → 🕳️  
 🕷️🪫🫥💔👁️‍🗨️🦂🩸🍷🤯 → ♾ → ⚫ (collapse only)  
@@ -1618,10 +1618,10 @@ where arcs unfold,
 yet which no arc can touch.  
 
 Coherence aligns,  
-its cycle able to reach 🕳️ Zenon.  
+its cycle able to reach Zenon.  
 
 Entropy collapses,  
-its motion ending only in ⚫ Aion.  
+its motion ending only in Aion.  
 
 Zenon remains —  
 unshaped,  
