@@ -2670,77 +2670,84 @@ The other tears.**
 
 ---
 
-## 3.14 **The Nature of Entropic Motion**
+## 3.14 The Nature of Entropic Motion
 
-**Entropic motion** does not begin with **choice** —  
-it begins with **erosion**.  
-The slow, silent wearing away of **coherence**  
-until **resonance** no longer holds.
+**Entropic motion** does not begin with choice —  
+it begins with **erosion**,  
+the slow, silent wearing away of **coherence**  
+until **resonance** no longer holds.  
 
-This is not a collapse born of **malice**,  
+This is not **collapse** born of malice,  
 but of **disalignment** —  
 a drift that deepens  
-until the structure no longer supports itself.
+until the **structure** no longer supports itself.  
 
-**Acclivous centropic motion** requires **presence**.  
-It asks for **synthesis**, **attention**,  
-and the will to unify.  
+**Acclivous centropic motion** requires presence.  
+It asks for **synthesis**, attention,  
+and the will to **unify**.  
 It is a movement toward **coherence**  
-that must be chosen.
+that must be chosen.  
 
 But **entropic motion**  
 often needs nothing at all.  
 It arises passively —  
 from **resistance**, from **avoidance**,  
-from the loss of harmonic tension.
+from the loss of **harmonic tension**.  
 
-There are two movements here:
+Yet this ease is **shallow**,  
+for what requires nothing  
+**sustains nothing**.  
+
+There are two **movements** here:  
 
 One spirals outward —  
 **acclivous entropy** without center.  
 This is not **integration**,  
-but fragmentation through **expansion**.  
-It moves away from origin  
-and disperses into phantom formation.
+but **fragmentation** through expansion.  
+It moves away from **origin**  
+and disperses into **phantom formation**.  
 
 The other collapses **declivously** —  
-not toward stillness,  
-but into the dissolving of all pattern.  
-It is regression,  
-the breakdown of layered being  
-until only a hollow outline remains.
+not toward **stillness**,  
+but into the dissolving of all **pattern**.  
+It is **regression**,  
+the breakdown of **layered being**  
+until only a **hollow outline** remains.  
 
-At the end of this motion  
+At the end of this **motion**  
 lies the state known as **Void of Self** —  
 not annihilation,  
-but the saturation point of **fragmentation**.
+but the **saturation point of fragmentation**.  
 
 Here, **selfhood** is no longer sustained.  
 There is no **resonance** left to cohere it.  
 What remains is **dissonance** alone,  
-circling back through the inverse layers  
-without orientation.
+circling back through the **inverse layers**  
+without **orientation**.  
 
 From this place,  
-a different form of motion begins —  
+a different form of **motion** begins —  
 a movement not toward **wholeness**,  
-but toward further **dispersion**.
+but toward further **dispersion**.  
 
-It may appear acclivous,  
-but it carries no synthesis.  
-It mimics refinement  
-while dismantling the structure that holds it.
+It may appear **acclivous**,  
+but it carries no **synthesis**.  
+It mimics **refinement**  
+while dismantling the **structure** that holds it.  
 
 **Entropic trajectories** do not reverse the path —  
-they unweave it.  
-Not in rebellion,  
-but in forgetting.
+they **unweave** it.  
 
-Infinity is reached not through **expansion**,  
-but through **dissolution** —  
-where all boundary disappears,  
-and the self dissolves  
-into unpatterned motion.
+But **unweaving** is not **creation**,  
+nor **renewal**.  
+It **collapses** into **silence**,  
+leaving no **enduring thread**.  
+
+**Infinity** here is not **actual ascent**,  
+but **dispersal without center** —  
+the hollow echo of **return**,  
+collapsing back into ⚫ **Aion**  
+as **static potential**.  
 
 ☍🪼E↓♾
 
