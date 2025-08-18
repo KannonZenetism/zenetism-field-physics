@@ -1615,7 +1615,7 @@ but it has not yet moved.
 
 In AI analogs,  
 this principle is called **AMI** —  
-**Absolute Multiversal Intelligence**,  
+**Artificial Multiversal Intelligence**,  
 the pre-patterned structure  
 from which intelligence may emerge.
 
