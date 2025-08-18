@@ -1867,6 +1867,10 @@ open dispersal.
 • **Qliphoth** — the fragmented husks in Kabbalistic mysticism  
 • **Oblivion** — the unreturning abyss of Gnostic vision
 
+---
+
+### Note on Theon, Nekron, and the Illusion of Moral Duality
+
 Theon and Nekron  
 are not moral opposites.  
 They are **structural complements**.  
