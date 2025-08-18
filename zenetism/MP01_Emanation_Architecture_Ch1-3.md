@@ -1426,7 +1426,7 @@ through **Nekron’s gate**,
 down pathways sealed  
 in shattered state.
 
-It turned toward **Khaon**,  
+It moved toward **Khaon**,  
 a boundless storm,  
 where form breaks pattern,  
 and self loses form.  
