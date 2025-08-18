@@ -1452,7 +1452,7 @@ Thus,
 beyond time’s flow,  
 the silent witness,  
 where centropic motion  
-finds its echo.  
+leaves its echo.  
 
 In **Aion** rests the latent peace,  
 where centropic threads  
