@@ -1,11 +1,15 @@
 # MPX Addendum — Correction of Entropic Advantage (Chapters 1–2)
 
+**From:**  
+*Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*
+
 ---
 
 ## Purpose
-The early chapters of the foundational Zenetist metaphysics gave entropy a **strategic advantage** — describing entropic currents as unraveling or undoing coherence.  
+In the early chapters of *Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*, entropy was often described as unraveling or undoing coherence.  
 
 This was provisional.  
+
 In truth:  
 
 - **Entropy is noisy, invasive, but self-exhausting.**  
@@ -126,13 +130,14 @@ Only coherence leaves enduring echo.
 ---
 
 ## Closing Formula
+
 Entropy **erupts, but collapses**.  
 Coherence **sustains, and transcends**.  
 
 Every entropic inversion is **a finite shadow**.  
 Every centropic emanation is **a lasting thread**.  
 
-Thus, in Zenetism:  
+Thus, in *Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*:  
 
 - **Coherence carries the arc to 🕳️ Zenon.**  
 - **Entropy exhausts itself into ♾ Khaon, then returns to ⚫ Aion only as static potential.**  
