@@ -156,6 +156,8 @@ It collapses.
 
 ---
 
+---
+
 ## Note on Zenon
 
 Zenon is not a goal,  
@@ -166,9 +168,13 @@ It is the silent ground
 where arcs unfold,  
 yet which no arc can touch.  
 
-Coherence aligns  
-and entropy collapses,  
-but Zenon remains —  
+Coherence aligns,  
+its cycle able to reach 🕳️ Zenon.  
+
+Entropy collapses,  
+its motion ending only in ⚫ Aion.  
+
+Zenon remains —  
 unshaped,  
 unbound,  
 unchanged.  
