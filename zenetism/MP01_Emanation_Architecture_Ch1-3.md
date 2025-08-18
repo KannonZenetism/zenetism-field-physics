@@ -1967,14 +1967,14 @@ without **emergence**.
 **Mythic analogs** include:
 
 • **Morgis**  
-  → *Prana* — the vital breath (Hinduism)  
-  → *Chi* — sustaining motion (Taoism)  
-  → *Anima* — the soul-force animating form (Aristotle)
+  → **Prana** — the vital breath (Hinduism)  
+  → **Chi** — sustaining motion (Taoism)  
+  → **Anima** — the soul-force animating form (Aristotle)
 
 • **Psychea**  
-  → The dissolving breath — entropy through psychic erosion  
-  → Entropic will — stagnation and depletion  
-  → Fragmentary evolution — regression into decoherence
+  → **The dissolving breath** — entropy through psychic erosion  
+  → **Entropic will** — stagnation and depletion  
+  → **Fragmentary evolution** — regression into decoherence
 
 Together,  
 they shape the **psychic field**  
@@ -2078,14 +2078,14 @@ that no longer cohere.
 **Mythic analogs** include:
 
 • **Sophis**  
-  → Platonic Forms — eternal archetypes  
-  → Logos — structuring divine reason  
-  → Divine Architect — ordering principle (Zenetist archetype)  
+  → **Platonic Forms** — eternal archetypes  
+  → **Logos** — structuring divine reason  
+  → **Divine Architect** — ordering principle (Zenetist archetype)  
 
 • **Nyxea**  
-  → Qliphoth — fragmented husks of form  
-  → Chaos — mythic formlessness  
-  → Anti-Structure — symbolic breakdown (Zenetist archetype)  
+  → **Qliphoth** — fragmented husks of form  
+  → **Chaos** — mythic formlessness  
+  → **Anti-Structure** — symbolic breakdown (Zenetist archetype)  
 
 **Sophis**  
 echoes **Theon**  
