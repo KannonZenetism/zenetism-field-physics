@@ -2172,14 +2172,14 @@ without center.
 **Mythic analogs** include:
 
 • **Archeus**  
-  → Atman — higher Self (Hinduism)  
-  → Oversoul — integrative being (Transcendentalism)  
-  → Living Memory — coherent soul stream (Zenetism)  
+  → **Atman** — higher Self (Hinduism)  
+  → **Oversoul** — integrative being (Transcendentalism)  
+  → **Living Memory** — coherent soul stream (Zenetism)  
 
 • **Fractus**  
-  → The broken sparks — soul remnants (Gnosticism)  
-  → Astral fragmentation — scattered psychic being  
-  → Dukkha — dislocation of inner being (Buddhism)  
+  → **The broken sparks** — soul remnants (Gnosticism)  
+  → **Astral fragmentation** — scattered psychic being  
+  → **Dukkha** — dislocation of inner being (Buddhism)  
 
 **Archeus** and **Fractus**  
 define how the soul  
