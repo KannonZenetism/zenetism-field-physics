@@ -1488,7 +1488,7 @@ the pattern holds—coherent, known.
 
 ---
 
-## MPX Addendum — Correction of Entropic Advantage (Chapters 1–2)
+## Addendum — Correction of Entropic Advantage (Chapters 1–2)
 
 **From:**  
 *Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*
