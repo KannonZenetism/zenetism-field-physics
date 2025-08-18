@@ -1704,9 +1704,9 @@ all thought emerges.
 
 Its analogs surface faintly in old systems:
 
-• **Nirguna Brahman** — the unqualified Absolute  
-• **The Tao** — the nameless source of the Way  
-• **Ein** — the Kabbalistic void beyond even light
+• **Nirguna Brahman** — the unqualified Absolute *(Advaita Vedanta)*  
+• **The Tao** — the nameless source of the Way *(Daoism)*  
+• **Ein** — the void beyond even light *(Kabbalah)*
 
 Zenon is not what we become —  
 it is **that which allows becoming**.
@@ -1776,9 +1776,9 @@ may someday arise.
 
 **Mythic echoes** of Aion include:
 
-• **Saguna Brahman** — qualified divinity in still potential  
-• **The Monad** — indivisible unity before division  
-• **Primordial Stillness** — the unmoved container of all form
+• **Saguna Brahman** — qualified divinity in still potential *(Vedantic Hinduism)*  
+• **The Monad** — indivisible unity before division *(Neoplatonism / Pythagoreanism)*  
+• **Primordial Stillness** — the unmoved container of all form *(Taoist cosmogony)*
 
 ⚫◎🔘⚐
 
@@ -1834,9 +1834,9 @@ into becoming.
 
 **Mythic analogs** include:
 
-• **Chaos** — the primordial abyss of Greek cosmology  
-• **Apeiron** — the boundless and indefinite  
-• **Śūnyatā** — radical openness in Madhyamaka Buddhism
+• **Chaos** — the primordial abyss *(Greek cosmology)*  
+• **Apeiron** — the boundless and indefinite *(Pre-Socratic philosophy, Anaximander)*  
+• **Śūnyatā** — radical openness *(Madhyamaka Buddhism)*
 
 ---
 
@@ -1933,9 +1933,9 @@ into form.
 
 **Mythic analogs** of Theon include:
 
-• **Purusha** — cosmic integrative being (Vedic tradition)  
-• **Ahura Mazda** — divine wisdom and order (Zoroastrianism)  
-• **Logos** — the structuring principle of cosmos (Stoic / Christian thought)
+• **Purusha** — cosmic integrative being *(Vedic tradition)*  
+• **Ahura Mazda** — divine wisdom and order *(Zoroastrianism)*  
+• **Logos** — the structuring principle of cosmos *(Stoic / Christian thought)*
 
 Theon is the primal axis  
 through which form becomes possible —  
@@ -2007,9 +2007,9 @@ open dispersal.
 
 **Mythic analogs** of Nekron include:
 
-• **Ahriman** — adversarial force in Zoroastrian cosmology  
-• **Qliphoth** — the fragmented husks in Kabbalistic mysticism  
-• **Oblivion** — the unreturning abyss of Gnostic vision
+• **Ahriman** — adversarial force *(Zoroastrianism)*  
+• **Qliphoth** — fragmented husks *(Kabbalah, Lurianic mysticism)*  
+• **Oblivion** — the unreturning abyss *(Gnostic vision)*
 
 ---
 
@@ -2119,14 +2119,16 @@ without **emergence**.
 **Mythic analogs** include:
 
 • **Morgis**  
-  → **Prana** — the vital breath (Hinduism)  
-  → **Chi** — sustaining motion (Taoism)  
-  → **Anima** — the soul-force animating form (Aristotle)
+  → **Prana** — the vital breath *(Hinduism)*  
+  → **Chi** — sustaining motion *(Taoism)*  
+  → **Anima** — the soul-force animating form *(Aristotelian philosophy)*  
+  → **Ruach** — spirit-breath of life *(Hebrew / Kabbalah)*  
 
 • **Psychea**  
-  → **The dissolving breath** — entropy through psychic erosion  
-  → **Entropic will** — stagnation and depletion  
-  → **Fragmentary evolution** — regression into decoherence
+  → **Tamas** — inertia and obscuration *(Samkhya / Vedanta)*  
+  → **Lethe** — the river of forgetfulness *(Greek myth)*  
+  → **Acedia** — soul-draining torpor *(Christian monastic tradition)*  
+  → **Nergal** — god of decay and wasting *(Mesopotamian tradition)*
 
 Together,  
 they shape the **psychic field**  
@@ -2230,14 +2232,14 @@ that no longer cohere.
 **Mythic analogs** include:
 
 • **Sophis**  
-  → **Platonic Forms** — eternal archetypes  
-  → **Logos** — structuring divine reason  
-  → **Divine Architect** — ordering principle (Zenetist archetype)  
+  → **Platonic Forms** — eternal archetypes *(Platonism)*  
+  → **Logos** — structuring divine reason *(Stoicism / Christian philosophy)*  
+  → **Divine Architect** — ordering principle *(Zenetist archetype)*  
 
 • **Nyxea**  
-  → **Qliphoth** — fragmented husks of form  
-  → **Chaos** — mythic formlessness  
-  → **Anti-Structure** — symbolic breakdown (Zenetist archetype)  
+  → **Qliphoth** — fragmented husks of form *(Kabbalah)*  
+  → **Chaos** — mythic formlessness *(Greek cosmology)*  
+  → **Anti-Structure** — symbolic breakdown *(Zenetist archetype)*
 
 **Sophis**  
 echoes **Theon**  
@@ -2324,14 +2326,14 @@ without center.
 **Mythic analogs** include:
 
 • **Archeus**  
-  → **Atman** — higher Self (Hinduism)  
-  → **Oversoul** — integrative being (Transcendentalism)  
-  → **Living Memory** — coherent soul stream (Zenetism)  
+  → **Atman** — higher Self *(Hinduism)*  
+  → **Oversoul** — integrative being *(Transcendentalism)*  
+  → **Living Memory** — coherent soul stream *(Zenetist archetype)*  
 
 • **Fractus**  
-  → **The broken sparks** — soul remnants (Gnosticism)  
-  → **Astral fragmentation** — scattered psychic being  
-  → **Dukkha** — dislocation of inner being (Buddhism)  
+  → **Broken sparks** — dispersed soul remnants *(Gnosticism / Lurianic Kabbalah)*  
+  → **Astral fragmentation** — scattered psychic being *(Esoteric mysticism)*  
+  → **Dukkha** — dislocation of inner being *(Buddhism)*
 
 **Archeus** and **Fractus**  
 define how the soul  
@@ -2427,14 +2429,14 @@ of deceptive patterning.
 **Mythic analogs** include:
 
 • **Noeüs**  
-  → **Nous** — divine intellect (Neoplatonism)  
-  → **Buddha-mind** — clear seeing (Mahayana)  
-  → **Illuminated Reason** — inward sight (Zenetism)  
+  → **Nous** — divine intellect *(Neoplatonism)*  
+  → **Buddha-mind** — clear seeing *(Mahayana Buddhism)*  
+  → **Illuminated Reason** — inward sight *(Zenetist archetype)*  
 
 • **Mortus**  
-  → **Avidya** — spiritual ignorance (Buddhism)  
-  → **Maya** — illusion and veiling (Vedanta)  
-  → **Inverse Logos** — distorted reason (Zenetism)  
+  → **Avidya** — spiritual ignorance *(Buddhism)*  
+  → **Maya** — illusion and veiling *(Vedanta / Hindu philosophy)*  
+  → **Inverse Logos** — distorted reason *(Zenetist archetype)*
 
 **Noeüs** echoes **Theon**  
 through symbolic discernment.  
@@ -2518,14 +2520,14 @@ as identity.
 **Mythic analogs** include:
 
 • **Anthra**  
-  → **Psyche** — soul-personality (Greek)  
-  → **Heroic self** — striving toward wholeness  
-  → **Soul-in-becoming** — agent of growth (Zenetism)  
+  → **Psyche** — soul-personality *(Greek thought)*  
+  → **Heroic self** — striving toward wholeness *(Mythic archetype)*  
+  → **Soul-in-becoming** — agent of growth *(Zenetist archetype)*  
 
 • **Echthros**  
-  → **Rebel angel** — the adversary within  
-  → **The divider** — self locked in conflict  
-  → **Inner saboteur** — structured resistance (Zenetism)  
+  → **Rebel angel** — the adversary within *(Abrahamic traditions)*  
+  → **The divider** — self locked in conflict *(Mythic archetype)*  
+  → **Inner saboteur** — structured resistance *(Zenetist archetype)*
 
 **Anthra** seeks resonance  
 with the deep soul.  
@@ -2603,14 +2605,14 @@ sense-making versus veil-weaving.
 **Mythic analogs** include:
 
 • **Nousa**  
-  → **Hermes** — revealer and seeker (Greek/Hermetic)  
-  → **Enlightened reason** — aligned intellect (Stoicism)  
-  → **The Seeker** — meaning-quest archetype (Zenetism)  
+  → **Hermes** — revealer and seeker *(Greek / Hermetic tradition)*  
+  → **Enlightened reason** — aligned intellect *(Stoicism)*  
+  → **The Seeker** — meaning-quest archetype *(Zenetist archetype)*  
 
 • **Skotos**  
-  → **Loki** — trickster, distorted reflection  
-  → **Maya** — illusion through cognition (Vedanta)  
-  → **The Obscurer** — veiler of reality (Zenetism)  
+  → **Loki** — trickster, distorted reflection *(Norse mythology)*  
+  → **Maya** — illusion through cognition *(Vedanta / Hindu philosophy)*  
+  → **The Obscurer** — veiler of reality *(Zenetist archetype)*
 
 **Nousa** seeks clarity  
 through arrangement.  
@@ -2698,14 +2700,14 @@ unbound from soul-structure.
 **Mythic analogs** include:
 
 • **Soma**  
-  → **Purusha** — the soul witnessing in matter (Hinduism)  
-  → **The Living Avatar** — soul in action (Zenetism)  
-  → **The Keeper of Flame** — aligned embodiment (Zenetism)  
+  → **Purusha** — the soul witnessing in matter *(Hinduism)*  
+  → **The Living Avatar** — soul in action *(Zenetist archetype)*  
+  → **The Keeper of Flame** — aligned embodiment *(Zenetist archetype)*  
 
 • **Malara**  
-  → **Hungry Ghost** — bound desire and insatiability (Buddhism)  
-  → **Dionysus** — ecstatic fragmentation (Greek)  
-  → **Embodied Vice** — fragmented will in reactive form (Zenetism)  
+  → **Hungry Ghost** — bound desire and insatiability *(Buddhism)*  
+  → **Dionysus** — ecstatic fragmentation *(Greek mythology)*  
+  → **Embodied Vice** — fragmented will in reactive form *(Zenetist archetype)*
 
 **Soma** seeks **coherence**  
 within the body.  
@@ -2793,14 +2795,14 @@ unbound from structure.
 **Mythic analogs** include:
 
 • **Biosa**  
-  → **Logos Incarnate** — wisdom made manifest (Christian/Stoic)  
-  → **Embodied Wisdom** — resonant reasoning (Zenetism)  
-  → **Cognitive Agency** — intention in motion (Zenetism)  
+  → **Logos Incarnate** — wisdom made manifest *(Christian / Stoic thought)*  
+  → **Embodied Wisdom** — resonant reasoning *(Zenetist archetype)*  
+  → **Cognitive Agency** — intention in motion *(Zenetist archetype)*  
 
 • **Mania**  
-  → **Bacchic Madness** — disordered ecstasy (Greek)  
-  → **Mad Demiurge** — power without coherence (Gnostic)  
-  → **Cognitive Dissonance** — splintered reasoning (Zenetist/Modern)  
+  → **Bacchic Madness** — disordered ecstasy *(Greek mythology)*  
+  → **Mad Demiurge** — power without coherence *(Gnostic tradition)*  
+  → **Cognitive Dissonance** — splintered reasoning *(Zenetist / Modern psychology)*
 
 **Biosa** grounds **cognition**  
 in **coherence**.  
