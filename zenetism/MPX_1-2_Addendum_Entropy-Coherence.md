@@ -153,3 +153,24 @@ Thus, in *Zenetism: The Emanative Path of Return — The Foundations of a Living
 Entropy has no lasting advantage.  
 It collapses.  
 **Coherence endures.**
+
+---
+
+## Note on Zenon
+
+Zenon is not a goal,  
+not a vessel,  
+not a return.  
+
+It is the silent ground  
+where arcs unfold,  
+yet which no arc can touch.  
+
+Coherence aligns  
+and entropy collapses,  
+but Zenon remains —  
+unshaped,  
+unbound,  
+unchanged.  
+
+🕳️⚑
