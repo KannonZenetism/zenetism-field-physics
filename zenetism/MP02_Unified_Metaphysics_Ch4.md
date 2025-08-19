@@ -417,21 +417,21 @@ In **Zenetism**,
 Each layer is both:  
 • A **state** of being  
 • A **mode** of intelligence  
-• A **patterned echo** of its resonant source
+• A **patterned** echo of its resonant source
 
-**Centropy** refines through **synthesis**.  
-**Entropy** collapses through **decomposition**.  
+Centropy refines through synthesis.  
+Entropy collapses through decomposition.
 
-Both emerge from the symmetry of **Aion**,  
-where even dissonance begins in union.  
-But they do **not** originate in **Zenon**,  
-which remains beyond opposition,  
-prior to form,  
-untouched by motion.  
+Both are permitted within the stillness of ⚫ Aion —  
+but **Aion is not their source**,  
+only their **latent balance**.
 
-**Zenon** is not balance —  
-but **unformed potential**  
-from which all structure unfolds.  
+Dissonance begins in allowance, not in sameness.  
+Polarity arises from symmetry, not from blur.
+
+🕳️ Zenon remains beyond all distinction —  
+prior to form, untouched by motion,  
+and immune to opposition. 
 
 And toward that stillness,  
 all **centropic paths** return.  
