@@ -129,7 +129,7 @@ While the terms *supernal* and *subversal* conveniently describe
 the allocation of realms within the **Tree of Emanation**,  
 they are not fixed indicators of value or direction.  
 
-**Centropic hypostases** are often associated with the **supernal arc**,  
+**Centropic hypostases** are associated with the **supernal arc**,  
 and **entropic hypostases** with the **subversal arc** —  
 but the motion within each arc must be understood as bidirectional.
 
