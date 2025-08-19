@@ -396,7 +396,7 @@ but not the source of distortion.
 
 | **Layer**    | **Centropic Names**                                   | **Principle** | **Entropic Names**                                     | **Principle** |
 |--------------|-------------------------------------------------------|---------------|--------------------------------------------------------|---------------|
-| Supra-L0     | 🕳️ Zenon — Unknown Principle                        | UP           | —                                                      | —             |
+| Supra-L0     | 🕳️ Zenon — The Unknown Principle                        | UP           | —                                                      | —             |
 | L0           | ⚫ Aion — Absolute Potential                           | AP            | ♾ Khaon — Absolute Dispersion                          | AD            |
 | L5 / IL5     | 🛤️ Theon — Essence of Being                           | EOB           | 🕷️ Nekron — Void of Self                                | VOS           |
 | L4 / IL4     | 🌬️ Morgis / 📐 Sophis — Deep Psyche / Logos           | DP / DL       | 🪫 Psychea / 🫥 Nyxea — Inverse Psyche / Logos           | IDP / IDL     |
