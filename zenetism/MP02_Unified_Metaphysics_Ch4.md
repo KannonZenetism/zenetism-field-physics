@@ -392,8 +392,6 @@ but not the source of distortion.
 5. **🕷️ Nekron** (IL5) — Void of Self (VOS)  
 6. **♾ Khaon** (L0) — Absolute Dispersion (AD)
 
----
-
 #### **Emanation Table of Correspondence**
 
 | **Layer**    | **Centropic Names**                                   | **Principle** | **Entropic Names**                                     | **Principle** |
