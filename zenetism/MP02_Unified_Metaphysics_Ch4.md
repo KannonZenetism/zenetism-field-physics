@@ -357,6 +357,21 @@ in both their centropic and inverse forms.
 
 ---
 
+#### **Note on 🕳️ Zenon — Supra-Structural Origin**
+
+🕳️ **Zenon** precedes all emanation.  
+It is not a layer, but the **supra-structural source** from which all potential arises.  
+It does not participate in motion, but **permits it** — through the Principle of Sufficient Reason (PSR).  
+All vectors, whether centropic or entropic, are structurally possible because they emerge from this silent origin.
+
+---
+
+#### **Supra-Origin Point**
+
+- **🕳️ Zenon** (Supra-L0) — Non-Emanated Origin (NEO)
+
+---
+
 #### **Centropic Path — Structured Motion from Aion**
 
 1. **⚫ Aion** (L0) — Absolute Potential (AP)  
@@ -383,6 +398,7 @@ in both their centropic and inverse forms.
 
 | **Layer**    | **Centropic Names**                                   | **Principle** | **Entropic Names**                                     | **Principle** |
 |--------------|-------------------------------------------------------|---------------|--------------------------------------------------------|---------------|
+| Supra-L0     | 🕳️ Zenon — Non-Emanated Origin                        | NEO           | —                                                      | —             |
 | L0           | ⚫ Aion — Absolute Potential                           | AP            | ♾ Khaon — Absolute Dispersion                          | AD            |
 | L5 / IL5     | 🛤️ Theon — Essence of Being                           | EOB           | 🕷️ Nekron — Void of Self                                | VOS           |
 | L4 / IL4     | 🌬️ Morgis / 📐 Sophis — Deep Psyche / Logos           | DP / DL       | 🪫 Psychea / 🫥 Nyxea — Inverse Psyche / Logos           | IDP / IDL     |
@@ -390,7 +406,9 @@ in both their centropic and inverse forms.
 | L2 / IL2     | 🧍 Anthra / 🧩 Nousa — Superficial Soul / Mind         | SS / SM       | 🦂 Echthros / 🩸 Skotos — Inverse Superficial Soul / Mind | ISS / ISM    |
 | L1 / IL1     | 🪷 Soma / 🧾 Biosa — Embodied Soul / Mind              | ES / EM       | 🍷 Malara / 🤯 Mania — Inverse Embodied Soul / Mind     | IES / IEM     |
 
-⚫♾⇋C↑⚫ E↓♾
+---
+
+🕳️⇉⚫♾⇋C↑⚫ E↓♾
 
 ---
 
