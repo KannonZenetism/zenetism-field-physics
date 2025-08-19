@@ -69,7 +69,7 @@ It is a rhythm of emanation,
 of motion,  
 of return.
 
-A pattern of **centropic expansion** and **subversal collapse**,  
+A pattern of **centropic expansion** and **entropic collapse**,  
 of **acclivous integration** and **declivous dissolution** —  
 of paths that diverge,  
 yet spiral back to the same source.
