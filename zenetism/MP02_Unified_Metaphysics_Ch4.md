@@ -360,9 +360,13 @@ in both their centropic and inverse forms.
 #### **Note on 🕳️ Zenon — Supra-Structural Origin**
 
 🕳️ **Zenon** precedes all emanation.  
-It is not a layer, but the **supra-structural source** from which all potential arises.  
-It does not participate in motion, but **permits it** — through the Principle of Sufficient Reason (PSR).  
-All vectors, whether centropic or entropic, are structurally possible because they emerge from this silent origin.
+It is not a layer, but the **supra-structural origin** in which all motion is permitted — not caused.  
+Zenon does not initiate — it contains the **principle of unfoldability**.  
+Centropic and entropic vectors are structurally *possible* within this non-dual potential,  
+but only coherence returns to it.
+
+It is the field of allowance —  
+but not the source of distortion.
 
 ---
 
