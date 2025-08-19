@@ -372,7 +372,7 @@ but not the source of distortion.
 
 #### **Supra-Origin Point**
 
-- **🕳️ Zenon** (Supra-L0) — Non-Emanated Origin (NEO)
+- **🕳️ Zenon** (Supra-L0) — The Unknown Principle (UP)
 
 #### **Centropic Path — Structured Motion from Aion**
 
