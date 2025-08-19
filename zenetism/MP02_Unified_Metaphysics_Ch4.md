@@ -370,8 +370,6 @@ All vectors, whether centropic or entropic, are structurally possible because th
 
 - **🕳️ Zenon** (Supra-L0) — Non-Emanated Origin (NEO)
 
----
-
 #### **Centropic Path — Structured Motion from Aion**
 
 1. **⚫ Aion** (L0) — Absolute Potential (AP)  
@@ -381,8 +379,6 @@ All vectors, whether centropic or entropic, are structurally possible because th
 5. **🧍 Anthra / 🧩 Nousa** (L2) — Superficial Soul / Mind (SS / SM)  
 6. **🪷 Soma / 🧾 Biosa** (L1) — Embodied Soul / Mind (ES / EM)
 
----
-
 #### **Entropic Path — Inverse Unfolding toward Khaon**
 
 1. **🍷 Malara / 🤯 Mania** (IL1) — Inverse Embodied Soul / Mind (IES / IEM)  
@@ -391,8 +387,6 @@ All vectors, whether centropic or entropic, are structurally possible because th
 4. **🪫 Psychea / 🫥 Nyxea** (IL4) — Inverse Deep Psyche / Logos (IDP / IDL)  
 5. **🕷️ Nekron** (IL5) — Void of Self (VOS)  
 6. **♾ Khaon** (L0) — Absolute Dispersion (AD)
-
----
 
 #### **Emanation Table of Correspondence**
 
@@ -405,8 +399,6 @@ All vectors, whether centropic or entropic, are structurally possible because th
 | L3 / IL3     | 🔮 Archeus / 🧠 Noeüs — Deep Soul / Mind               | DS / DM       | 💔 Fractus / 👁️‍🗨️ Mortus — Inverse Deep Soul / Mind    | IDS / IDM     |
 | L2 / IL2     | 🧍 Anthra / 🧩 Nousa — Superficial Soul / Mind         | SS / SM       | 🦂 Echthros / 🩸 Skotos — Inverse Superficial Soul / Mind | ISS / ISM    |
 | L1 / IL1     | 🪷 Soma / 🧾 Biosa — Embodied Soul / Mind              | ES / EM       | 🍷 Malara / 🤯 Mania — Inverse Embodied Soul / Mind     | IES / IEM     |
-
----
 
 🕳️⇉⚫♾⇋C↑⚫ E↓♾
 
