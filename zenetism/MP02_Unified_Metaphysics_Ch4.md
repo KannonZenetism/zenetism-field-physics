@@ -695,22 +695,16 @@ to dissolution.
  These souls emerge in chaos, distortion, and unaligned will.  
  They do not refine — they disrupt. **E↑→E**
 
----
-
 • **🦂 Echthros / 🩸 Skotos** (ISS / ISM) — Inverse Superficial Soul / Mind  
  Fragmentation spreads to identity.  
  Cognition carries the shadow of division.  
  Entropy becomes contagious, manifesting as illusion, violence, or despair.
-
----
 
 • **💔 Fractus / 👁️‍🗨️ Mortus** (IDS / IDM) — Inverse Deep Soul / Mind  
  Coherent structures begin to collapse.  
  Identity fractures.  
  Coherence erodes.  
  These souls spiral subversally toward declivous collapse. **E↓♾**
-
----
 
 • **🪫 Psychea / 🫥 Nyxea** (IDP / IDL) — Inverse Deep Psyche / Logos  
  These are not corrupted analogues — they are **entropic archetypes**.  
