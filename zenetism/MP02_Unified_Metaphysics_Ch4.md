@@ -1009,17 +1009,14 @@ the unraveling of form,
 the collapse of coherence.
 
 It arises where unity is lost,  
-where integration is forgotten,  
-where structure dissolves into chaos.
-
----
+where integration is abandoned,  
+where motion turns inward,  
+and structure folds upon itself.
 
 • Evil is not created.  
 • It is not a counterforce to good.  
 • It is a **consequence**,  
  a **possibility** unfolded from the Field of Aion.
-
----
 
 • Where centropy builds, evil dismantles.  
 • Where resonance unites, evil scatters.
@@ -1027,7 +1024,9 @@ where structure dissolves into chaos.
 And yet —  
 evil is not a cosmic adversary.  
 It is a **condition** that emerges  
-when entropic inflection is actualized.
+when entropic inflection is actualized.  
+Not mythic, but not harmless.  
+It corrodes what it cannot integrate.
 
 ☍⊘⚐🔻🔶
 
@@ -1048,8 +1047,6 @@ And yet —
 suffering plays a **catalytic role**  
 in the architecture of cosmic motion.
 
----
-
 • **Centropic suffering** refines the being.  
  It humbles the ego,  
  deepens perception,  
@@ -1059,14 +1056,10 @@ When internalized with awareness,
 it becomes a **purifying fire** —  
 a call back toward reintegration (**C↑⚫**).
 
----
-
 • **Entropic suffering** fractures the being.  
  It leads to isolation, distortion, and collapse.  
  It corrodes when fueled by ignorance or resistance,  
  and disperses when there is no reintegrative motion (**E↓♾**).
-
----
 
 Suffering is not inherently good or evil.  
 Its effect depends entirely  
@@ -1088,8 +1081,6 @@ when coherence is forsaken.
 Freedom does not arise from contrast —  
 it is present wherever **resonance** remains intact.
 
----
-
 • At the boundary of all being,  
  where Zero meets Infinity —  
  evil reaches its final threshold.  
@@ -1102,7 +1093,14 @@ dissolves into dispersal.
 And the pattern itself is reabsorbed into Zero.
 
 Entropic beings do not return by grace —  
-they return by **ceasing to be**.
+they return by **ceasing to act as Being**,  
+and collapsing into static latency  
+within Aion — the field of unexpressed potential.
+
+This is not transcendence.  
+It is containment.  
+Not motion fulfilled,  
+but motion concluded.
 
 ---
 
@@ -1113,7 +1111,7 @@ Only centropy can return
 to the unknown ground —  
 to the silent coherence of Zenon.
 
-Entropy does not return.  
+Entropy **does not return.**    
 It does not rejoin.  
 It collapses inward into Aion —  
 but can go no further.  
