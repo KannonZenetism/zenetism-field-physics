@@ -912,14 +912,10 @@ but toward finer gradients of fragmentation.
  not to unify,  
  but to dominate, distort, or veil.
 
----
-
 • These movements generate the appearance  
  of order or refinement —  
  but this is **fallacious structure**,  
  a superficial coherence masking entropy.
-
----
 
 • The result is not healing,  
  but the refinement of disintegration.  
@@ -978,8 +974,6 @@ Unlike the **fallacious** acclivous simulation of entropy,
 centropic acclivous expansion leads toward unity  
 through active realization.
 
----
-
 • The soul moves through acclivous centropy (**C↑⚫**)  
  Embodiment → Superficial → Deep →  
  Logos / Psyche → Theon → Aion
@@ -987,13 +981,9 @@ through active realization.
 • Each layer is not rejected,  
  but refined and synthesized into fuller coherence.
 
----
-
 This motion is not escape —  
 it is **reintegration**.  
 The transmutation of fragmentation into wholeness.
-
----
 
 At every stage:  
 • **Memory** is recovered  
@@ -1001,8 +991,6 @@ At every stage:
 • **Form** is not abandoned —  
  it is brought into harmony  
  with integrative principles
-
----
 
 Authentic acclivous motion does not bypass earlier emanations.  
 It synthesizes the whole into a deeper resonance.
