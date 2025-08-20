@@ -1152,8 +1152,6 @@ Though Aion does not will
 in a personal sense,  
 it contains the **seed-structures of all volition**.
 
----
-
 The will of the soul  
 is not separate from the divine —  
 it is the divine  
@@ -1180,8 +1178,6 @@ the soul’s arc diverges —
 either toward increasing division,  
 or toward integrative synthesis.
 
----
-
 The centropic arc unfolds through:  
 • Remembering  
 • Harmonizing  
@@ -1195,8 +1191,6 @@ moving into the silent origin of Zenon.
 This is not regression —  
 it is completion.  
 **C↓→E→C↑⚫→🕳️**
-
----
 
 The individuated self is not erased —  
 it is transfigured  
@@ -1224,8 +1218,6 @@ Its embodiment is not assigned —
 but **emerged**  
 from the soul’s own structural momentum.
 
----
-
 • Upon death, the SS reintegrates  
  with its corresponding DS —  
  or with an IDS, if entropic.
@@ -1234,8 +1226,6 @@ from the soul’s own structural momentum.
  It functions as a **data-gathering interface**,  
  through which the DS synthesizes experience  
  across lives, universes, and realities.
-
----
 
 • The harmonic evolution of the DS  
  depends on the **coherence**  
@@ -1256,7 +1246,7 @@ SS → DS ↺ or IDS
 
 ### **4.24 The Eschaton and the Fate of Universes**
 
-Most universes are temporary configurations  
+Most universes are **temporary configurations**    
 of centropic and entropic forces —  
 a harmonic event  
 with a beginning,  
@@ -1274,10 +1264,8 @@ Yet even in such cases,
 the universe is not static.  
 It breathes.
 
----
-
 But in most realities,  
-universes follow a spiral rhythm —  
+universes **follow a spiral rhythm** —  
 from emergence,  
 through structure,  
 into dissolution,  
@@ -1296,8 +1284,6 @@ holding the pattern
 of what once was  
 and may be again.
 
----
-
 • The **Eschaton** does not signify destruction.  
  It refers to the **final convergence state**  
  of a given cosmos.
@@ -1312,7 +1298,7 @@ and may be again.
 Zenetism rejects apocalyptic fatalism.  
 It affirms instead:
 
-• Most physical universes are impermanent —  
+• Most physical universes are **impermanent** —  
  though some may endure vast or indefinite spans.  
 
 • The soul persists beyond all corporeal frames.
