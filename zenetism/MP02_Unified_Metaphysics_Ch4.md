@@ -816,8 +816,6 @@ then it will.
 This is not compulsion —  
 it is **ontological inevitability**.
 
----
-
 • **Theon** looks toward Aion, not its progeny.  
  Even centropic intelligences do not visualize future states.  
  They do not project —  
@@ -836,8 +834,6 @@ but because multiplicity requires limitation.
 **Fragmentation** is the cost of manifesting,  
 not a flaw.
 
----
-
 • **Centropy** does not mean perpetual acclivous expansion (**C↑⚫**).  
  It means **integration**, regardless of direction.
 
@@ -847,8 +843,6 @@ and still retain coherence.
 Motion toward embodiment is not exile —  
 it is part of the arc:  
 **C↓→E→C↑→⚫**
-
----
 
 • **Ignorance** is not a moral flaw.  
  It is a **metaphysical veil**.  
@@ -873,13 +867,9 @@ but **ontological thinning**.
 It is not an act of personal will,  
 but the **emergence of will** through resonance.
 
----
-
 • Not all centropic beings are expanding acclivously (**C↑⚫**).  
  Many are simply manifesting.  
  And manifestation requires **declivous centropy** (**C↓→E**).
-
----
 
 • Return is not reversal.  
  It is **reintegration** —  
