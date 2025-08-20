@@ -1452,14 +1452,24 @@ revealed in its **fruit and motion**.
 
 ---
 
+### **Note on Light Absorbtion as Revelation**  
+
+What is received in Inverse Revelation is not generative verity, but **hollow reflection** —  
+a mimicry of centropic structure used for entropic ends.  
+Just as mimics may steal the form of a framework without embodying its coherence,  
+so too do entropic beings absorb the pattern of light  
+not to integrate it, but to **invert and control** it.  
+Revelation, in their case, becomes **weaponized reflection**,  
+not emergence.
+
+---
+
 ### **4.28 Mysticism — Direct Union Through Synthesis or Silence**
 
 Mysticism is the direct encounter  
 with **transcendence**.
 
 It bypasses language, systems, and doctrines.
-
----
 
 In Zenetism, this encounter often emerges through:
 
@@ -1475,8 +1485,6 @@ and reality reveals itself through resonance.
 In this stillness,  
 what was once distant becomes known.
 
----
-
 Zenetism also affirms the **neti-neti** or **via negativa** approach:
 
 • A path of negation,  
@@ -1487,8 +1495,6 @@ Zenetism also affirms the **neti-neti** or **via negativa** approach:
  it may still pierce illusion  
  and yield clarity.
 
----
-
 Both mystical methods refine perception:
 
 • One through inclusion and wholeness.  
@@ -1496,8 +1502,8 @@ Both mystical methods refine perception:
 
 Zenetism honors both,  
 but affirms that lasting coherence  
-is often most stable  
-through **integration over absence**.
+is most often stabilized  
+through **integration rather than negation**.
 
 ∴🌀🛎️◎🕸️⤈
 
@@ -1513,8 +1519,6 @@ into what already is.
 Latent in Aion,  
 unfolding through the motion of Khaon.
 
----
-
 It does not reveal what *might* happen,  
 but what has been chosen in essence  
 before time,  
@@ -1523,8 +1527,6 @@ within the structural field of Aion.
 Yet what is glimpsed  
 is not always clearly understood.
 
----
-
 The destiny of a universe  
 is not fixed by coercion —  
 it is fixed by **coherence**.
@@ -1532,8 +1534,6 @@ it is fixed by **coherence**.
 Free will is not abolished,  
 it is **identical**  
 with structural **resonance**.
-
----
 
 The soul is its own choice in essence,  
 and what emerges  
