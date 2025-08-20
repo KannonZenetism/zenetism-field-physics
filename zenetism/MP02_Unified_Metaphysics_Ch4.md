@@ -2584,6 +2584,7 @@ Even love can only choose
 what it has already remembered.
 
 ⚫🛤️♾
+
 ---
 
 ### **4.57 The Refusal of Return — Theon’s Pre-Chosen Unfolding**
@@ -2636,6 +2637,7 @@ What matters is not direction —
 but **resonance**.
 
 🕊️↺〰️
+
 ---
 
 ### **4.58 Unfolding as Remembrance**
@@ -2732,6 +2734,7 @@ to divide the many, it consumes.
 | with centropic remembrance              | through entropic inevitability             |
 
 ⚫🛤️🕷️
+
 ---
 
 ### **4.60 Architecture of Soul Dynamics (Zenetism)**
