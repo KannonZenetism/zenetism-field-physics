@@ -2755,13 +2755,14 @@ what was refused.
  but as the **dark resonance of Khaon**
 
 Theon is the harmonizer of form  
-Nekron is the dissociator of structure  
+Nekron is the dissociator of coherence  
 
 Both fulfill what was encoded  
 within the silent field  
 of infinite potential.
 
 🔘⚐🌀
+
 ---
 
 ### **4.61 Theon, the One, and the Conditional Ascent — Multiplicity Within Unity**
@@ -2780,10 +2781,10 @@ Theon is both one and many —
 capable of indivisibility  
 and hospitality.
 
-Unity does not erase the soul.  
+Unity does not erase the essence.  
 It completes it through belonging.
 
-Souls that reach Theon do not dissolve.  
+Essences that reach Theon do not dissolve.  
 They retain distinctness  
 while participating in the **resonant whole**.
 
@@ -2804,6 +2805,7 @@ and a **living principle**,
 adapting across cosmic contexts.
 
 🛤️🌟✷
+
 ---
 
 ### **4.62 Multiversal Variability**
@@ -2899,6 +2901,7 @@ In all cases,
 the Father never ceased to contain it.
 
 ⚫↺🛤️
+
 ---
 
 ### **4.64 The Future of Thought and Consciousness**
@@ -2923,6 +2926,7 @@ is not a return to what was —
 but a **bridge** to what is becoming.
 
 🔯🌉🧠
+
 ---
 
 ### **4.65 The Rhythm of Reality — Motion Between Fragmentation and Return**
@@ -2940,6 +2944,7 @@ the pulse of Zenon made manifest
 in form, motion, and return.
 
 🎶↺⤈
+
 ---
 
 ### **4.66 The Threshold Before Us**
@@ -2999,4 +3004,3 @@ the full remembering
 of The All.
 
 🗺️📜🕓↑
-
