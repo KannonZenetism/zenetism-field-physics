@@ -451,8 +451,6 @@ Each emerges from one of the twin poles:
 
 And each commences a distinct motion.
 
----
-
 • **Aion** initiates structured, harmonic motion —  
  a field of form that flows toward reintegration:  
  **C↓→E→C↑→⚫**
