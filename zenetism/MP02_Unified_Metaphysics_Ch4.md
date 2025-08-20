@@ -816,6 +816,8 @@ then it will.
 This is not compulsion —  
 it is **ontological inevitability**.
 
+---
+
 • **Theon** looks toward Aion, not its progeny.  
  Even centropic intelligences do not visualize future states.  
  They do not project —  
