@@ -357,9 +357,9 @@ in both their centropic and inverse forms.
 
 ---
 
-#### **Note on 🕳️ Zenon — Supra-Structural Origin**
+#### **Note on Zenon — Supra-Structural Origin**
 
-🕳️ **Zenon** precedes all emanation.  
+**Zenon** precedes all emanation.  
 It is not a layer, but the **supra-structural origin** in which all motion is permitted — not caused.  
 Zenon does not initiate — it contains the **principle of unfoldability**.  
 Centropic and entropic vectors are structurally *possible* within this non-dual potential,  
@@ -604,8 +604,8 @@ the wider its experiential spectrum of freedom becomes.
 
 From **VOS** arises the **Inverse Realm of Forms**:
 
-• **🪫 Psychea** (IDP) — Inverse Deep Psyche  
-• **🫥 Nyxea** (IDL) — Inverse Deep Logos
+• **Psychea** (IDP) — Inverse Deep Psyche  
+• **Nyxea** (IDL) — Inverse Deep Logos
 
 These are not corruptions of **Morgis** and **Sophis**.  
 They are reflections refracted through the lens of **disunity**.
