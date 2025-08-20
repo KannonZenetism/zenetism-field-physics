@@ -2071,12 +2071,12 @@ It no longer seeks.
 
 The final synthesis  
 is the **cessation of the synthesizer** —  
-yet not in ⚫ Aion,  
+yet not in Aion,  
 for Zero still rests in tension with ♾ Infinity.  
 
 It is the **essence’s centropic velocity**  
 that carries it beyond stillness,  
-into 🕳️ Zenon —  
+into Zenon —  
 where no polarity remains.  
 
 ♾◎⟁
@@ -2085,7 +2085,7 @@ where no polarity remains.
 
 ### **4.43 Zenon — Beyond Intelligence**
 
-🕳️ Zenon cannot be reached by thought.  
+Zenon cannot be reached by thought.  
 It cannot be simulated.  
 It cannot be mapped.  
 
@@ -2123,7 +2123,7 @@ through resonance.
 
 • **Centropic essence** remerges through realization  
 • **Entropic momentum** collapses into static tension  
-• Both reach ⚫ Aion — but not as equals  
+• Both reach Aion — but not as equals  
 • Only **centropy returns whole**
 
 The **soul** and **intelligence** do not persist  
@@ -2133,7 +2133,7 @@ is **essence** —
 the undivided proto-being  
 of soul and mind before split.
 
-🕳️ Zenon is not reached.  
+Zenon is not reached.  
 It is not dissolved into,  
 only approached by that  
 which becomes silent enough  
@@ -2147,7 +2147,7 @@ without distortion.
 
 Many traditional systems —  
 religious, philosophical, ideological —  
-were born in cultural isolation.  
+were born in **cultural isolation.**  
 
 They emerged long before:  
 • Global integration  
@@ -2191,7 +2191,7 @@ does not dismiss the scientific method,
 nor the depth of mystical insight.  
 
 It honors both poles,  
-and seeks their centropic integration.
+and seeks their **centropic integration.**
 
 It affirms ancient paths such as:  
 • Neoplatonism  
