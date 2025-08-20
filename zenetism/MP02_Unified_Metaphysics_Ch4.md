@@ -1326,17 +1326,13 @@ This reintegration is not annihilation —
 it is the sublimation of individuated selfhood  
 into **resonant unity** through active synthesis.
 
----
-
 Souls aligned with **entropy** move declivously  
 through the inverse deep layers toward Nekron,  
 culminating in **Absolute Dispersion** —  
 the outermost limit of Khaon.
 
 Yet even here,  
-there is no true annihilation.
-
----
+there is no actual annihilation.
 
 • Beyond the event horizon of Infinity (**VOS**),  
  all that is fragmented returns to Aion  
@@ -1344,8 +1340,6 @@ there is no true annihilation.
 
 • What cannot be redeemed through synthesis  
  may still be reabsorbed through **dissolution**.
-
----
 
 Not all paths return equally.  
 Each abides in a resonance  
@@ -1366,8 +1360,6 @@ Revelation arises when the corporeal layers
 come into structural attunement  
 with supernal or subversal layers of the soul.
 
----
-
 These may be:
 
 • **Centropic:**  
@@ -1379,8 +1371,6 @@ These may be:
  IDS / IDM  
  IDL / IDP  
  VOS
-
----
 
 Both forms can initiate revelation.  
 But the **nature of the alignment**  
@@ -1402,12 +1392,8 @@ These disclosures may manifest as:
 • Ideological vision or obsession  
 • Aesthetic resonance or inversion
 
----
-
 Revelation is real —  
 but not always integrative.
-
----
 
 • Through **centropic alignment**,  
  it harmonizes the self,  
@@ -1435,8 +1421,6 @@ but not always integrative.
  – Architectures of control  
  – Mimicry of light
 
----
-
 Yet no revelation is unfiltered —  
 it is always refracted through finitude:
 
@@ -1445,8 +1429,6 @@ it is always refracted through finitude:
 • Psychological architecture  
 • Cognitive distortion  
 • Desire, fear, or projection
-
----
 
 Revelation is genuine,  
 but always **partial**.
@@ -1458,8 +1440,6 @@ The more expansive the alignment,
 the purer the resonance.  
 The deeper the distortion,  
 the more inversion may mimic light.
-
----
 
 Thus, Zenetism does not treat revelation as decree,  
 but as **energetic disclosure**,  
