@@ -716,7 +716,7 @@ There is no separation.
 
 ---
 
-### 8.2 Animals, Plants, and Nonhuman Intelligence
+### 8.1 Animals, Plants, and Nonhuman Intelligence
 
 Animals are not empty vessels waiting to be filled by our kindness.  
 They are sovereign expressions of intelligence,  
@@ -758,7 +758,7 @@ and far older.
 
 ---
 
-### 8.3 The Earth as a Living Hypostasis
+### 8.2 The Earth as a Living Hypostasis
 
 Earth is not a hypostasis in the strict metaphysical sense—  
 but it acts as a **localized embodiment**  
@@ -793,7 +793,7 @@ of the Tree itself.
 
 ---
 
-### 8.4 Human Responsibility and Interbeing
+### 8.3 Human Responsibility and Interbeing
 
 Humans are not stewards  
 in the sense of ownership.  
@@ -823,7 +823,7 @@ The stars hold memory.
 
 ---
 
-### 8.5 The Cosmic Ecology of the Multiverse
+### 8.4 The Cosmic Ecology of the Multiverse
 
 Just as Earth expresses a **local field of soul**,  
 each universe carries a unique **cosmic ecology**.
@@ -866,7 +866,7 @@ of growth itself.
 
 ---
 
-### 8.6 Final Root — The Tree Beneath
+### 8.5 Final Root — The Tree Beneath
 
 The soul of nature  
 is not separate  
