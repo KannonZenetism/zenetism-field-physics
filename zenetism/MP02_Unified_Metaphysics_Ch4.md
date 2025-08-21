@@ -368,7 +368,7 @@ but not the source of distortion.
 
 ---
 
-### **Supra-Origin Point**
+#### **Supra-Origin Point**
 
 - **🕳️ Zenon** (Supra-L0) — The Unknown Principle (UP)
 
