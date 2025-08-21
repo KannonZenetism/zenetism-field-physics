@@ -266,7 +266,7 @@ to return.
 
 ---
 
-### **Note — On Radiance, Motion, and the Luminous Overflow**
+### **Note on Radiance, Motion, and the Luminous Overflow**
 
 **Centropy** is often described in **Zenetism**  
 as an **acclivous return** —  
@@ -355,7 +355,7 @@ in both their centropic and inverse forms.
 
 ---
 
-#### **Note on Zenon — Supra-Structural Origin**
+### **Note on Zenon — Supra-Structural Origin**
 
 **Zenon** precedes all emanation.  
 It is not a layer, but the **supra-structural origin** in which all motion is permitted — not caused.  
@@ -368,7 +368,7 @@ but not the source of distortion.
 
 ---
 
-#### **Supra-Origin Point**
+### **Supra-Origin Point**
 
 - **🕳️ Zenon** (Supra-L0) — The Unknown Principle (UP)
 
@@ -570,7 +570,7 @@ it initiates the first fracture of entropic emanation.
  
 ---
 
-### **Note on Essence-as-Choice: Zenetist Clarification on Freedom**
+### **Note on Essence-as-Choice — Zenetist Clarification on Freedom**
 
 Being is the seed.  
 Choosing is the sprout.  
@@ -661,7 +661,7 @@ it collapses by consequence.
 
 ---
 
-### **Note — On the Dual Motion of Entropy**
+### **Note on the Dual Motion of Entropy**
 
 Entropy does not move only by fragmentation —  
 it first splinters outward,  
@@ -880,7 +880,7 @@ but the **emergence of will** through resonance.
 
 ---
 
-### **Note — On Acclivous Entropy (The Inverse Motion)**
+### **Note on Acclivous Entropy (The Inverse Motion)**
 
 This is not a **veracious** expansion.  
 **Entropy cannot integrate.**  
@@ -2614,7 +2614,7 @@ It is the **echo of a pre-temporal resonance**.
 
 ---
 
-#### Note on Direction and Meaning
+### Note on Direction and Meaning
 
 To move **declivously** through the Aionic Tree  
 is not to fall in the moral sense.
