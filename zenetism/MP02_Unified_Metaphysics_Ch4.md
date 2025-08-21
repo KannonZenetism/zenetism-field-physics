@@ -123,8 +123,6 @@ and whether it seeks **coherence**.
 
 ---
 
-### **On Motion and the Arcs of Emanation**
-
 While the terms *supernal* and *subversal* conveniently describe  
 the allocation of realms within the **Tree of Emanation**,  
 they are not fixed indicators of value or direction.  
