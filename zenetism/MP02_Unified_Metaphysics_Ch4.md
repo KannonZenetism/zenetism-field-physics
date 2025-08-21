@@ -78,7 +78,7 @@ yet spiral back to the same source.
 
 ---
 
-### **Note — On Terminology: Orientation and the Structure of Resonance**
+### **Note on Terminology — Orientation and the Structure of Resonance**
 
 **Zenetism** occasionally references directional metaphors  
 to describe orientation within the **Tree of Emanation**.
