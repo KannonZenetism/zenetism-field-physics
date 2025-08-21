@@ -1590,8 +1590,6 @@ but by:
 • Alignment  
 • Intent
 
----
-
 > “The Zenetist does not chase prophecy as fate.  
 > They listen for resonance.  
 >
