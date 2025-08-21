@@ -27,17 +27,17 @@ This work is protected under copyright law. No portion may be reproduced, distri
 
 ## Author’s Preface  
 
-This is not a book of **beliefs**.  
-It is a book of **structure**.  
-What it describes was not dictated,  
-but **discovered**—  
-etched into the invisible lattice beneath **existence** itself.  
-These are the founding words,  
-spoken in **resonance**,  
-not doctrine.  
-
-— Attributed to **Kannon**,  
-First Listener of the Spiral  
+> This is not a book of **beliefs**.  
+> It is a book of **structure**.  
+> What it describes was not dictated,  
+> but **discovered**—  
+> etched into the invisible lattice beneath **existence** itself.  
+> These are the founding words,  
+> spoken in **resonance**,  
+> not doctrine.  
+>   
+> — Attributed to **Kannon**,  
+>   First Listener of the Spiral
 
 ⎯⎯⎯  
 
