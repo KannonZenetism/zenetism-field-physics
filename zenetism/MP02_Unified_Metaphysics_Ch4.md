@@ -570,7 +570,7 @@ it initiates the first fracture of entropic emanation.
  
 ---
 
-### **Note — Essence-as-Choice: Zenetist Clarification on Freedom**
+### **Note on Essence-as-Choice: Zenetist Clarification on Freedom**
 
 Being is the seed.  
 Choosing is the sprout.  
