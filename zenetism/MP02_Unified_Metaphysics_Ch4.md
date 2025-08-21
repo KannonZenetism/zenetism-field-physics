@@ -461,7 +461,7 @@ And each commences a distinct motion.
 
 ---
 
-### **Note — The Unity of Aion and Khaon**
+### **Note on the Unity of Aion and Khaon**
 
 **Aion (⚫)** and **Khaon (♾)** are unified in origin.
 
@@ -531,7 +531,7 @@ before awareness.
 
 ---
 
-### **4.6 VOS: The Axis of Entropic Collapse**
+### **4.6 VOS — The Axis of Entropic Collapse**
 
 **Void of Self (VOS)** is not a chooser of entropy —  
 it **is** entropy.
