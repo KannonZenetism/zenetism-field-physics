@@ -670,6 +670,8 @@ but the **final rest**—
 and whether the soul returns in **rhythm**,  
 or unravels into **silence**.
 
+---
+
 ↺🎶⚫
 
 Still—  
