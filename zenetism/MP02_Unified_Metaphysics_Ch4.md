@@ -2725,8 +2725,6 @@ on behalf of the many, it suffers.
 Nekron’s echo forgets —  
 to divide the many, it consumes.
 
----
-
 #### Summary of the Mirror
 
 | **Theon**                                | **Nekron’s Echo**                          |
@@ -2738,8 +2736,6 @@ to divide the many, it consumes.
 | with centropic remembrance              | through entropic inevitability             |
 
 ⚫🛤️🕷️
-
----
 
 ### **4.60 Architecture of Soul Dynamics (Zenetism)**
 
