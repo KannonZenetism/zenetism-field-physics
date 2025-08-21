@@ -692,7 +692,7 @@ Zenetism teaches that the world is not a stage.
 It was never meant to be walked through without reverence.  
 The trees, the rivers, the winds, the stone—  
 these are not lifeless forms beneath our feet,  
-but expressions of pattern,  
+but **expressions of pattern,**  
 living contours of the sacred field.
 
 Nature does not *surround* spirit.  
@@ -713,8 +713,8 @@ Every expression of the natural world
 embodies deeper metaphysical principles.  
 
 These are not metaphors—  
-but actual resonances 🌀  
-within the emanatory Tree 🌳⇅.  
+but **actual resonances**   
+within the emanatory Tree.  
 
 • The oceans 🌿  
    Reflect ᛞ the dispersive 🪼  
@@ -738,15 +738,15 @@ within the emanatory Tree 🌳⇅.
 Zenetism rejects all spiritual hierarchies  
 that place humans above animals or nature.  
 
-All beings express soul.  
-All are rooted in ⚫ Aion.  
+**All beings express soul.**  
+**All are rooted in ⚫ Aion.**  
 
 ---
 
 ### 8.2 Animals, Plants, and Nonhuman Intelligence
 
 Animals are not empty vessels waiting to be filled by our kindness.  
-They are sovereign expressions of intelligence,  
+They are **sovereign expressions** of intelligence,  
 unfolding along their own trajectories of resonance.  
 Though often less entangled in the distortions of ego,  
 their journeys are no less sacred.
@@ -757,7 +757,7 @@ without needing to remember it.
 They are still woven into it.  
 Some species may carry entropic tones,  
 especially where predation has calcified into domination.  
-But this is not moral failure—  
+But **this is not moral failure—**  
 only a structural imprint shaped by survival  
 and imbalance in the field.
 
