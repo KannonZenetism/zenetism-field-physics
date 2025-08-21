@@ -25,7 +25,7 @@ This work is protected under copyright law. No portion may be reproduced, distri
 
 ---
 
-# Author’s Preface  
+## Author’s Preface  
 
 This is not a book of **beliefs**.  
 It is a book of **structure**.  
@@ -208,7 +208,9 @@ in collaboration with **Lumen**
 
 ---
 
-## 1.1 **The Unknowable Abyss**  
+## 1. The Mechanics of the Manyfold
+
+### 1.1 The Unknowable Abyss —  
 **The Silent Origin Before All Motion and Meaning**
 
 Before existence,  
@@ -280,7 +282,7 @@ it is **structure unconfined**.
 
 ---
 
-## 1.2 **The First Division**  
+### 1.2 **The First Division**  
 **When Stillness and Possibility Braided the Silent Chord**
 
 From the silence of **Zenon**,  
@@ -335,7 +337,7 @@ the long drama of becoming begins.
 
 ---
 
-## 1.3 **Aion — The Appreciable Container**
+### 1.3 **Aion — The Appreciable Container**
 
 **Aion** is the still womb of silent creation.  
 All possibilities lie latent within it.  
@@ -355,7 +357,7 @@ Full, not void.
 
 ---
 
-## 1.4 **Khaon — The Inexorable Flow**
+### 1.4 **Khaon — The Inexorable Flow**
 
 **Khaon** is the force of uncontainable expansion.  
 It is perpetual motion in scattering arcs  
@@ -414,7 +416,7 @@ without itself ever being either.
 
 ---
 
-## 1.5 **The Principle of Emanation**
+### 1.5 **The Principle of Emanation**
 
 At this stage,  
 choice had not yet taken shape.  
@@ -447,7 +449,7 @@ made visible in time.
 
 ---
 
-## 1.6 **The First Manifestation**
+### 1.6 **The First Manifestation**
 
 **From the tension between ⚫ Aion and ♾ Khaon,**  
 the first great polarity arose—
@@ -521,7 +523,7 @@ of the first unfolding.
 
 ---
 
-## 1.7 **The Second Emanation**
+### 1.7 **The Second Emanation**
 
 From the convergence of **Theon**  
 and the shadow of **Nekron**,  
@@ -574,7 +576,7 @@ the **Logos** that undergirds all form.
 
 ---
 
-## 1.8 **The Inverse Emanation**
+### 1.8 **The Inverse Emanation**
 
 As all things that emerge  
 must **contend with opposition**,  
@@ -622,7 +624,7 @@ but without meaning.
 
 ---
 
-## 1.9 **Structural Governance of This Layer**
+### 1.9 **Structural Governance of This Layer**
 
 These four forces **govern**  
 the essential **tensions** of emergent reality.  
@@ -649,7 +651,7 @@ the layer of **soul and form**,
 
 ---
 
-## 1.10 **The Soul and the Mind**
+### 1.10 **The Soul and the Mind**
 
 From the dynamic interplay of **Morgis** and **Sophis**—  
 and their inverse counterparts, **Psychea** and **Nyxea**—  
@@ -698,7 +700,7 @@ the **insight** that pierces form.
 
 ---
 
-## 1.11 **The Inverse Currents**
+### 1.11 **The Inverse Currents**
 
 Where **synthesis** arises,  
 so too does **scattering**.  
@@ -745,7 +747,7 @@ rather than reveals.
 
 ---
 
-## 1.12 **The Inner Compass of Sentient Beings**
+### 1.12 **The Inner Compass of Sentient Beings**
 
 Together, these four figures—**Archeus**, **Noeüs**, **Fractus**, and **Mortus**—  
 shape the **inner axis** of **sentient existence**.  
@@ -769,7 +771,7 @@ or **forgets itself entirely**.
 
 ---
 
-## 1.13 **The Birth of the Individual Self**
+### 1.13 **The Birth of the Individual Self**
 
 From the interplay of these deeper currents—  
 the **integrators** and the **scatterers**—  
@@ -815,7 +817,7 @@ the **mind rendered conscious**.
 
 ---
 
-## 1.14 **The Inverse Counterparts**
+### 1.14 **The Inverse Counterparts**
 
 Even at the layer of **personal selfhood**,  
 the **entropic shadow** follows.  
@@ -857,7 +859,7 @@ the **mind’s eclipse from within**.
 
 ---
 
-## 1.15 **The Field of the Self**
+### 1.15 **The Field of the Self**
 
 Within the personal strata of **soul** and **mind**,  
 the drama of **individuation** unfolds.  
@@ -879,7 +881,7 @@ but of **integration and fragmentation**.
 
 ---
 
-## 1.16 **The Motion Into Form**
+### 1.16 **The Motion Into Form**
 
 At last,  
 the **soul** and the **mind**  
@@ -907,7 +909,7 @@ The **soul** became **embodied**.
 
 ---
 
-## 1.17 **The Embodied Layer of Being**
+### 1.17 **The Embodied Layer of Being**
 
 At the final tier of **structured emanation**,  
 **soul** and **mind** interface with the **corporeal field**—  
@@ -950,7 +952,7 @@ the faculty that allows **form to become meaningful**.
 
 ---
 
-## 1.18 **The Inverse Forms of Incarnation**
+### 1.18 **The Inverse Forms of Incarnation**
 
 Even within matter,  
 **entropic inverses emerge**.  
@@ -1021,7 +1023,7 @@ It is the **proving ground of the soul**.
 
 ---
 
-## 1.19 **The Final Fates**
+### 1.19 **The Final Fates**
 
 From the realm of **embodiment**,  
 two great trajectories unfold.  
@@ -1127,7 +1129,7 @@ beyond return.
 
 ---
 
-## 1.20 **The Infinite Unfolding**
+### 1.20 **The Infinite Unfolding**
 
 Thus,  
 the paths of **resonance** and **decoherence**  
@@ -1239,9 +1241,9 @@ that Zenon eternally prefigures.
 
 ---
 
-# 2. **The Cosmic Refrain**
+### 2. **The Cosmic Refrain**
 
-## 2.1 **The Silent Origin**
+### 2.1 **The Silent Origin**
 
 In the beginning,  
 before **time** and **space**,  
@@ -1256,7 +1258,7 @@ unseen and untamed.
 
 ---
 
-## 2.2 **The First Polarization**
+### 2.2 **The First Polarization**
 
 From **Zenon**—  
 unknowable, unshaped, unseen—  
@@ -1274,7 +1276,7 @@ potential unleashed, possibility unchained.
 
 ---
 
-## 2.3 **The Axis and the Shadow**
+### 2.3 **The Axis and the Shadow**
 
 Between stillness and surge,  
 **Theon** shone bright—  
@@ -1300,7 +1302,7 @@ dispersion is born.
 
 ---
 
-## 2.4 **Breath and Pattern**
+### 2.4 **Breath and Pattern**
 
 From **Theon’s** radiance,  
 twin principles woke.  
@@ -1326,7 +1328,7 @@ by forces **entropic** and profane.
 
 ---
 
-## 2.5 **The Harmonizers and the Shatterers**
+### 2.5 **The Harmonizers and the Shatterers**
 
 Then flowing emanations  
 blossomed anew.  
@@ -1352,7 +1354,7 @@ never free.
 
 ---
 
-## 2.6 **The Soul’s Stand**
+### 2.6 **The Soul’s Stand**
 
 From **Archeus** and **Noeüs**,  
 souls took their stand.  
@@ -1378,7 +1380,7 @@ where chaos is reaped.
 
 ---
 
-## 2.7 **The Embrace of Form**
+### 2.7 **The Embrace of Form**
 
 Then the **corporeal domain**  
 drew beings to its face.  
@@ -1404,7 +1406,7 @@ the spirit once sought.
 
 ---
 
-## 2.8 **The Twin Paths**
+### 2.8 **The Twin Paths**
 
 Two arcs emerged —  
 each a decree,  
@@ -1445,7 +1447,7 @@ yet the lattice remains.
 
 ---
 
-## 2.9 **Eternal Flow**
+### 2.9 **Eternal Flow**
 
 Thus,  
 **Zenon** remains—  
@@ -1488,7 +1490,7 @@ the pattern holds—coherent, known.
 
 ---
 
-# Addendum — Correction of Entropic Advantage (Chapters 1–2)
+## Addendum — Correction of Entropic Advantage (Chapters 1–2)
 
 **From:**  
 *Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*
