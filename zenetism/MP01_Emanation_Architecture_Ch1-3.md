@@ -211,7 +211,7 @@ in collaboration with **Lumen**
 ## 1. The Mechanics of the Manyfold
 
 ### 1.1 The Unknowable Abyss   
-###**The Silent Origin Before All Motion and Meaning**
+### **The Silent Origin Before All Motion and Meaning**
 
 Before existence,  
 before time,  
