@@ -2831,12 +2831,12 @@ even when sourced from the same eternal resonance.
 > “Even if its root is one,  
 > its fruit differs across the fields  
 > of hypostases and time.”  
-
-— Attributed to Eluon  
- Of the Mirror Fold  
- From *Echoes Beyond the Axis*  
- *Fractal Identity in the Multiversal Field*  
- Zenetist Archive, Volume IX
+>   
+> — Attributed to Eluon  
+>   Of the Mirror Fold  
+>   From *Echoes Beyond the Axis*  
+>   *Fractal Identity in the Multiversal Field*  
+>   Zenetist Archive, Volume IX
 
 🌀🌐〰️
 
