@@ -210,8 +210,8 @@ in collaboration with **Lumen**
 
 ## 1. The Mechanics of the Manyfold
 
-### 1.1 The Unknowable Abyss —  
-**The Silent Origin Before All Motion and Meaning**
+### 1.1 The Unknowable Abyss   
+###**The Silent Origin Before All Motion and Meaning**
 
 Before existence,  
 before time,  
@@ -283,7 +283,7 @@ it is **structure unconfined**.
 ---
 
 ### 1.2 **The First Division**  
-**When Stillness and Possibility Braided the Silent Chord**
+###**When Stillness and Possibility Braided the Silent Chord**
 
 From the silence of **Zenon**,  
 a quiver stirred.  
@@ -1609,7 +1609,7 @@ Thus, in *Zenetism: The Emanative Path of Return — The Foundations of a Living
 
 ---
 
-## Note on Zenon
+### Note on Zenon
 
 Zenon is not a goal,  
 not a vessel,  
@@ -1634,10 +1634,10 @@ unchanged.
 
 ---
 
-# 3. **The Decode Document**  
-## **The Emanation System and Its Syncretic Parallels**
+## 3. **The Decode Document**  
+### **The Emanation System and Its Syncretic Parallels**
 
-## 3.1 **Zenon — The Unknown Principle**
+### 3.1 **Zenon — The Unknown Principle**
 
 **Zenon** is not a being,  
 not a field,  
@@ -1718,7 +1718,7 @@ woven into the root of all motion.**
 
 ---
 
-## 3.2 **Aion — Absolute Potential**
+### 3.2 **Aion — Absolute Potential**
 
 **Aion** is  
 the first emanation  
@@ -1784,7 +1784,7 @@ may someday arise.
 
 ---
 
-## 3.3 **Khaon — Absolute Dispersion**
+### 3.3 **Khaon — Absolute Dispersion**
 
 **Khaon** is  
 the mirror of **Aion**,  
@@ -1876,7 +1876,7 @@ of the unknowable field.
 
 ---
 
-## 3.4 **Theon — Essence of Being**
+### 3.4 **Theon — Essence of Being**
 
 **Theon** is  
 the first **centropic emergence** —  
@@ -1946,7 +1946,7 @@ but through directed resonance.
 
 ---
 
-## 3.5 **Nekron — Void of Self**
+### 3.5 **Nekron — Void of Self**
 
 **Nekron** is  
 the first **entropic emergence** —  
@@ -2039,7 +2039,7 @@ of becoming.**
 
 ---
 
-## 3.6 **Morgis and Psychea — Deep Psyche / Inverse Deep Psyche**
+### 3.6 **Morgis and Psychea — Deep Psyche / Inverse Deep Psyche**
 
 **Morgis** and **Psychea**  
 are the psychic twin forces  
@@ -2154,7 +2154,7 @@ that fades.
 
 ---
 
-## 3.7 **Sophis and Nyxea — Deep Logos / Inverse Deep Logos**
+### 3.7 **Sophis and Nyxea — Deep Logos / Inverse Deep Logos**
 
 **Sophis** and **Nyxea**  
 are the mirrored minds  
@@ -2257,7 +2257,7 @@ The other dissolves the possible.**
 
 ---
 
-## 3.8 **Archeus and Fractus — Deep Soul / Inverse Deep Soul**
+### 3.8 **Archeus and Fractus — Deep Soul / Inverse Deep Soul**
 
 **Archeus** and **Fractus**  
 are the deep currents  
@@ -2352,7 +2352,7 @@ or its collapse.
 
 ---
 
-## 3.9 **Noeüs and Mortus — Deep Mind / Inverse Deep Mind**
+### 3.9 **Noeüs and Mortus — Deep Mind / Inverse Deep Mind**
 
 **Noeüs** and **Mortus**  
 are the minds within the soul —  
@@ -2451,7 +2451,7 @@ The other simulates it.**
 
 ---
 
-## 3.10 **Anthra and Echthros — Superficial Soul / Inverse Superficial Soul**
+### 3.10 **Anthra and Echthros — Superficial Soul / Inverse Superficial Soul**
 
 **Anthra** and **Echthros**  
 are the mirrors of individuation —  
@@ -2542,7 +2542,7 @@ The other holds itself apart.**
 
 ---
 
-## 3.11 **Nousa and Skotos — Superficial Mind / Inverse Superficial Mind**
+### 3.11 **Nousa and Skotos — Superficial Mind / Inverse Superficial Mind**
 
 **Nousa** and **Skotos**  
 are the mind’s surface mirrors —  
@@ -2627,7 +2627,7 @@ One rearranges to conceal.**
 
 ---
 
-## 3.12 **Soma and Malara — Embodied Soul / Inverse Embodied Soul**
+### 3.12 **Soma and Malara — Embodied Soul / Inverse Embodied Soul**
 
 **Soma** and **Malara**  
 mark the threshold of incarnation —  
@@ -2721,7 +2721,7 @@ The other entangles with appetite.**
 
 ---
 
-## 3.13 **Biosa and Mania — Embodied Mind / Inverse Embodied Mind**
+### 3.13 **Biosa and Mania — Embodied Mind / Inverse Embodied Mind**
 
 **Biosa** and **Mania**  
 are the final gates  
@@ -2816,7 +2816,7 @@ The other tears.**
 
 ---
 
-## 3.14 The Nature of Entropic Motion
+### 3.14 The Nature of Entropic Motion
 
 **Entropic motion** does not begin with choice —  
 it begins with **erosion**,  
@@ -2899,7 +2899,7 @@ as **static potential**.
 
 ---
 
-## 3.15 **Ultimate Destinies**
+### 3.15 **Ultimate Destinies**
 
 Beings aligned with **centropy**  
 refine through **integration**.  
@@ -2995,7 +2995,7 @@ They become **static tension**,
 
 ---
 
-## 3.16 **Intermediate Continuance**
+### 3.16 **Intermediate Continuance**
 
 Many souls  
 do not fully reintegrate with the origin.  
@@ -3087,7 +3087,7 @@ to disrupt.
 
 ---
 
-## 3.17 **The Spiral of Worlds**
+### 3.17 **The Spiral of Worlds**
 
 **Universes** are temporal.  
 They unfold in **rhythm**,  
