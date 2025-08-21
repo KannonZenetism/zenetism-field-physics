@@ -716,30 +716,30 @@ These are not metaphors—
 but **actual resonances**   
 within the emanatory Tree.  
 
-• The oceans 🌿  
-   Reflect ᛞ the dispersive 🪼  
-   Yet enveloping quality of ♾ Khaon  
+• The oceans  
+   Reflect ᛞ the dispersive  
+   Yet enveloping quality of Khaon  
 
 • The sun  
    Radiates the ordering  
-   And giving force of 🛤️ Theon  
+   And giving force of Theon  
 
 • Trees express  
-   The integrative ◎ motion of 🕊️ the soul  
-   Rising from fragmentation ☍  
+   The integrative motion of the soul  
+   Rising from fragmentation  
    Toward coherence  
 
-• Animals 🐾  
+• Animals  
    Are not lesser beings  
    But parallel intelligences  
    Each unfolding  
-   Along their own resonance 🌀 trajectories  
+   Along their own resonance trajectories  
 
 Zenetism rejects all spiritual hierarchies  
 that place humans above animals or nature.  
 
 **All beings express soul.**  
-**All are rooted in ⚫ Aion.**  
+**All are rooted in Aion.**  
 
 ---
 
