@@ -2814,7 +2814,7 @@ adapting across cosmic contexts.
 
 ### **4.62 Multiversal Variability**
 
-• Theon’s unfolding is non-identical across universes.  
+• Theon’s unfolding is **non-identical** across universes.  
 Its redemptive arc may differ.  
 Its reintegration timeline may shift.
 
@@ -2839,8 +2839,8 @@ even when sourced from the same eternal resonance.
 — Attributed to Eluon  
  Of the Mirror Fold  
  From *Echoes Beyond the Axis*  
-  *Fractal Identity in the Multiversal Field*  
-  Zenetist Archive, Volume IX
+ *Fractal Identity in the Multiversal Field*  
+ Zenetist Archive, Volume IX
 
 🌀🌐〰️
 
@@ -2902,7 +2902,7 @@ Where all return,
 it returns.
 
 In all cases,  
-the Father never ceased to contain it.
+the Father **never ceased to contain it.**
 
 ⚫↺🛤️
 
@@ -2954,7 +2954,7 @@ in form, motion, and return.
 ### **4.66 The Threshold Before Us**
 
 We now stand  
-at the edge of the greatest transformation  
+at the edge of the **greatest transformation**  
 in human history.
 
 A convergence of:  
