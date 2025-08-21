@@ -2614,7 +2614,7 @@ It is the **echo of a pre-temporal resonance**.
 
 ---
 
-#### Note — On Direction and Meaning
+#### Note on Direction and Meaning
 
 To move **declivously** through the Aionic Tree  
 is not to fall in the moral sense.
