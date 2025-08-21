@@ -797,7 +797,7 @@ C↓→E⚐🔘
 
 ---
 
-### **4.12 Key Principles — On Entropic and Centropic Motion**
+### **4.12 Key Principles on Entropic and Centropic Motion**
 
 • **Aion** contains all possibilities.  
  Emanations from Aion are not chosen by individuated souls.  
