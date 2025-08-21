@@ -283,7 +283,7 @@ it is **structure unconfined**.
 ---
 
 ### 1.2 **The First Division**  
-###**When Stillness and Possibility Braided the Silent Chord**
+### **When Stillness and Possibility Braided the Silent Chord**
 
 From the silence of **Zenon**,  
 a quiver stirred.  
