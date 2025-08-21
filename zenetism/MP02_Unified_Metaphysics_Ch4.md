@@ -406,7 +406,7 @@ but not the source of distortion.
 
 ---
 
-### **Note — On Psyche, Logos, and the Pattern of Return**
+### **Note on Psyche, Logos, and the Pattern of Return**
 
 In **Zenetism**,  
 **psyche** refers to the vital force animating **experience**.  
