@@ -2387,13 +2387,13 @@ Zenetism seeks to uncover
 the **harmonized structure of Being**  
 hidden beneath the surface of fragmentation.
 
-“Zenetism is not an escape from reality.  
-It is a method for clarifying it.”  
-
-— Attributed to Elarin Vey  
- Cartographer of the Inward Spiral  
- From *Reality as Resonance*,  
- Zenetist Archive, Volume IV
+> “Zenetism is not an escape from reality.  
+> It is a method for clarifying it.”  
+>   
+> — Attributed to Elarin Vey  
+>   Cartographer of the Inward Spiral  
+>   From *Reality as Resonance*,  
+>   Zenetist Archive, Volume IV
 
 🔯◎☍
 
