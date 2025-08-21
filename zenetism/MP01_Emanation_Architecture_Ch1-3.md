@@ -3054,7 +3054,7 @@ but already whole.
 
 ---
 
-### **Note — On the Multiversal Dissonance of Echo Vessels**
+### **Note on the Multiversal Dissonance of Echo Vessels**
 
 **Zenetism** also speaks of inverse beings:  
 **Echo Vessels**.
