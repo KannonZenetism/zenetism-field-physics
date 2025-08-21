@@ -420,14 +420,14 @@ Each layer is both:
 Centropy refines through synthesis.  
 Entropy collapses through decomposition.
 
-Both are permitted within the stillness of ⚫ Aion —  
+Both are permitted within the stillness of Aion —  
 but **Aion is not their source**,  
 only their **latent balance**.
 
 Dissonance begins in allowance, not in sameness.  
 Polarity arises from symmetry, not from blur.
 
-🕳️ Zenon remains beyond all distinction —  
+Zenon remains beyond all distinction —  
 prior to form, untouched by motion,  
 and immune to opposition. 
 
