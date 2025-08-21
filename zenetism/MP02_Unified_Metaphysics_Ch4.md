@@ -712,7 +712,7 @@ to dissolution.
 
 ---
 
-### **Nekron (VOS) — Void of Self**
+**Nekron (VOS) — Void of Self**
 
 The final threshold.
 
