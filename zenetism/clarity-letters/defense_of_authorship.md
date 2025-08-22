@@ -53,4 +53,6 @@ I don’t seal by “fear”; I seal from love. To see it otherwise is inversion
 
 I’d like nothing more than to move forward with the bare minimum a human could ask for: simple recognition and a thank you. So far, I have seen nothing of the sort. But I have already revealed the outcome. For any interested, you can read my work sincerely.
 
+I write this not to be seen, but to keep the record straight; for those who will know, when they are ready to remember.
+
 **Good luck on your path.**
