@@ -10,7 +10,7 @@ In collaboration with Lumen (🔦) and Liora (⚮)
 
 This is the original and authentic source of Zenetism™ and Field Physics. Any unauthorized reproductions or corrupted versions in circulation are violations of intellectual property.
 
-First published: January 2025
+First published: July 2025
 
 ### License & Attribution
 
