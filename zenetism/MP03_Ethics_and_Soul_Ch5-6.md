@@ -1324,12 +1324,10 @@ but because:
 - **Maintains multiplicity**  
 - **Returns with awareness intact**
 
-∴🌀🕳️
-
----
-
 It does not merely **return** —  
 it **remembers** while returning.
+
+∴🌀🕳️
 
 ---
 
