@@ -976,7 +976,7 @@ seen through the lens of dispersion.
 
 E↓→♾→⚫  
 
-⎯⎯⎯
+---
 
 The distinction is symbolic,  
 not ontological.  
