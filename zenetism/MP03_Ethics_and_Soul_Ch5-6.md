@@ -195,10 +195,6 @@ its harmonic signal weakens.
 **Ego**, **fear**, **craving**, and **delusion**  
 twist the compass — and call it freedom.
 
-⌬☍🧭
-
----
-
 What seems “right” from a **fragmented lens**  
 often feeds disintegration:
 
