@@ -83,8 +83,6 @@ but not all retain form.
 
 ---
 
-### **Ethics as Attunement — The Nature of Motion and Return**
-
 Some refine through **memory**.  
 Some dissolve through **fire**.  
 Some return through **resonant loops**.  
