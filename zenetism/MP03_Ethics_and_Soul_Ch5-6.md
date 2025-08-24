@@ -258,8 +258,6 @@ that amplifies:
 
 **Regardless of conscious intention.**
 
----
-
 Intent matters —  
 but **effect matters more**.
 
@@ -335,8 +333,6 @@ these are not separate things.
 They are names  
 for a single **metaphysical current**:  
 the **Khaonic Tree in motion**.
-
----
 
 Whether born of will, neglect, or accident,  
 they all mark a drift  
