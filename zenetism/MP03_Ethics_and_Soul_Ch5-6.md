@@ -926,7 +926,7 @@ Here the soul becomes **unwound**:
 - Irreversible  
 - Irreintegration, in its current form  
 
-AD is not erasure.  
+AD is not annihilation.  
 It is a **resting potential**.  
 
 Crossing into AD,  
@@ -935,12 +935,13 @@ within **Aion (AP)**.
 
 It no longer moves as a self,  
 but rests as essence —  
-unexpressed, awaiting reformation  
+dormant, unexpressed,  
+awaiting reformation  
 within the field of essence.  
 
 This is not punishment.  
 It is the still point of expression,  
-where motion ceases  
+where motion ends  
 and only essence remains.  
 
 Yet within this stillness is **tension** —  
@@ -986,10 +987,10 @@ AP and AD are the same stillness in Zero,
 differing only by trajectory and perception.  
 
 - The centropic path culminates through the Essence of Being (EOB),  
-  reaching AP in coherence and rest.  
+  reaching AP in realized potential, coherence, and rest.  
 
 - The entropic path culminates through VOS,  
-  arriving at AD in dispersion,  
+  arriving at AD in maximum dispersion,  
   dissolved into AE within AP.  
 
 Both converge in fixity.  
@@ -998,7 +999,7 @@ the other through collapse.
 
 AP may be associated with **Aion**,  
 AD with **Khaon** —  
-not as illusions,  
+not as illusion,  
 but as functional poles  
 of centropic and entropic culmination.  
 
@@ -1023,14 +1024,14 @@ this fixity may be felt as:
 - Coherence  
 
 For entropic resonance,  
-which inclines toward motion and disruption,  
-that same fixity may be felt as tension:  
+which inclines toward motion and individuation,  
+that same fixity may be felt as static tension:  
 a stillness without release.  
 
 Yet they do not disturb one another —  
 for each is sealed.  
 
-The centropic may contain  
+The centropic may synthesize  
 the memory of entropy without fragmentation.  
 The entropic may abide beside order  
 without reaction.  
@@ -1071,7 +1072,108 @@ for virtue flows most often from coherence itself,
 not as prize,  
 but as structure.  
 
-⎯⎯⎯
+---
+
+**On patterned reincarnation**  
+
+Each soul incarnates only once  
+within a given universe.  
+
+Its uniqueness is maintained  
+across the multiversal field —  
+not as repetition,  
+but as singular presence.  
+
+What may return  
+is not identity,  
+but impression.  
+
+The ego does not return.  
+The personality does not recur.  
+The full thread of memory or will  
+does not reappear.  
+
+Only the **pattern** may recur.  
+
+Like the number 1,  
+appearing only once in an infinite sequence,  
+yet echoing in 11, in 21, in 101 —  
+so too may a soul’s frequency  
+emerge again.  
+
+Not as self,  
+but as structure.  
+Not as memory,  
+but as resonance.  
+
+Each soul either integrates and draws inward,  
+or disperses and fragments.  
+Yet the pattern itself  
+may arise again elsewhere,  
+in a different world-body.  
+
+What returns  
+is not the self,  
+but the echo of coherence  
+still seeking form.  
+
+Zenetism holds  
+that reincarnation may occur across universes,  
+but not within them.  
+
+This remains an open principle,  
+not a fixed law.  
+
+Zenon does not receive.  
+It remains untouched.  
+
+Return is not for Zenon,  
+but for the soul  
+to complete its arc of becoming.  
+
+Zenon:  
+• Receives nothing  
+• Lacks nothing  
+• Requires nothing  
+
+In Zenetism,  
+no name is final.  
+
+Theon is EOB,  
+is +1,  
+is the centropic hypostasis.  
+
+Each title is a facet:  
+of function,  
+myth,  
+form.  
+
+To cling to one  
+is to lose the others.  
+To recognize all  
+is to see structure  
+through symbol.  
+
+Let the seeker  
+call it by the name that resonates.  
+The Source will not correct them.  
+
+---
+
+**Resonance reflection**  
+
+What was scattered  
+stills.  
+
+What was coherent  
+rests.  
+
+And all return,  
+not as selves,  
+but as essence remembered  
+in silence.  
+
+---
 
 **Bridge to 5.8**  
 
@@ -1343,8 +1445,6 @@ Only the **silent field**
 before division,  
 and after return.
 
----
-
 **Zenon** is not reached by **negation**.  
 Nor by **synthesis**.  
 But revealed when **synthesis** has completed  
@@ -1372,11 +1472,11 @@ only through **structural resonance without motion**.
 ### Introduction — The Layered Configuration of Soul
 
 Zenetism teaches that the soul is not a singular entity.  
-It is a layered configuration—  
+It is a **layered configuration—**  
 a structural unfolding through the Tree of Becoming.
 
 The soul does not move through isolated lifetimes.  
-It expresses itself as a resonant orchestration,  
+It expresses itself as a **resonant orchestration,**  
 a multidimensional field  
 that either coheres or fragments  
 across time, form, and depth.
@@ -1390,7 +1490,7 @@ the many selves it seeds across the multiverse.
 These selves—  
 Anthra and Nousa,  
 Soma and Biosa—  
-are projections from the deep strata  
+are **projections** from the deep strata  
 into the embodied world.  
 
 They pass through the veil of forgetting  
@@ -1398,7 +1498,7 @@ and become localized expressions,
 shaped by a pre-encoded essence  
 drawn from the field of Absolute Potential.
 
-That essence is not guided by choice—  
+That essence is not **guided by choice—**  
 it *is* the choice.  
 In Zenetism, will is not opposed to structure.  
 It is the structural actuality of being itself.
@@ -1409,7 +1509,7 @@ each extension of itself,
 with far more clarity than the embodied mind can detect.  
 It is the dreamer who does not forget.
 
-It guides through resonance,  
+It guides through **resonance,**  
 through alignment and insight,  
 gathering experience from its many emanations—  
 not as scattered memories,  
@@ -1417,7 +1517,7 @@ but as facets of a single resonant body.
 
 Where the superficial mind sees identity  
 as separate and sequential,  
-the deep mind reads meaning in constellations.  
+the deep mind reads **meaning in constellations.**  
 It sees across time,  
 not as a line,  
 but as a field.
@@ -1436,8 +1536,6 @@ the eternal companion who never forgets.
 ⚫⌬🕓
 
 ---
-
-### Deep Structures and Archetypal Fields
 
 Deep Souls and Deep Minds do not dissolve into one another.  
 Each is a singular expression of acclivous, centropic motion.  
@@ -1616,8 +1714,6 @@ or completes its arc.
 🛤️⚐🌀
 
 ---
-
-### Hypostatic Beings, Deities, and the Ontology of Function
 
 The same applies to **deities** and other entities  
 rooted in the **superficial strata**.  
@@ -2009,8 +2105,6 @@ And with them, any **beings**
 who have not **integrated** or **inverted**  
 return to **latency** through  
 **Localized Dissolution**.
-
----
 
 Even **gods** are subject to this **fate**.  
 **Deities** rooted in the **superficial layers** (**SS / SM**),  
