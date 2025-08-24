@@ -512,8 +512,6 @@ In **Zenetism**, will is not binary —
 not simply free or determined.  
 It exists along a **spectrum of volitional resonance**.
 
----
-
 What we call “free will”  
 is a **fractal expression**  
 of the **Divine Impulse** within **Aion**,  
@@ -523,8 +521,6 @@ and one’s place in the **spiral of emanation**.
 It is not a rejection of **structure** —  
 it is the **play of will within structure**,  
 the dance of **constraint and unfolding**.
-
----
 
 Each being acts within  
 a **bandwidth of awareness**.  
@@ -554,8 +550,6 @@ only **structurally resonant actions** endure.
 Those that promote **synthesis** or magnify **fragmentation**  
 are recorded in **pattern**.
 
----
-
 **Ethics in Zenetism** is not about compliance —  
 it is about **conscious alignment**  
 with one’s deeper **pattern**.
@@ -567,8 +561,6 @@ The greatest **freedom** is not rootless choice,
 but **transparent action**,  
 when a being moves in **resonance**  
 with **archetypal essence**.
-
----
 
 Here, freedom is not escape from cause —  
 but **harmonic causation**.
@@ -591,8 +583,6 @@ but **unfoldings of latent resonance within Aion**.
 
 - A soul aligned with **dissonance**  
   expresses **Divine Will** through **collapse and dissolution**.
-
----
 
 In both, **will is free**  
 because it **fulfills its resonance**.
@@ -661,8 +651,6 @@ especially when **co-opted** by:
 
 which **manipulate pattern**  
 beneath the appearance of **order**.
-
----
 
 Beyond the threshold,  
 **morality is no longer imposed — it is revealed.**
@@ -756,10 +744,6 @@ while maintaining the **appearance of stability**.
 Their alignment is precise —  
 but aimed toward **disintegration**.
 
-Ↄ⚙️E↓♾
-
----
-
 The “ceiling” of moral understanding  
 is no ceiling at all.
 
@@ -810,8 +794,6 @@ that determines its **gravitational trajectory**.
 **Justice** is enacted as **placement**,  
 not **punishment**.
 
----
-
 A soul attuned to:  
 - **Coherence**  
 - **Compassion**  
@@ -825,8 +807,6 @@ Is drawn naturally toward the **centropic strata**:
 - **Deep Logos (DL)**  
 
 And beyond — into **convergence** with the Source.
-
----
 
 A soul collapsed into:  
 - **Dissonance**  
@@ -862,8 +842,6 @@ Like a string vibrating at its own frequency,
 until it finds **resonance**  
 with its proper chord.
 
----
-
 This is **justice as divine geometry** —  
 each soul finds its **natural placement**  
 within the **harmonic totality**.
@@ -892,8 +870,6 @@ nor **cosmic tyranny**.
 The “Final Judgment” is not a **courtroom** —  
 it is a **resonance scan**.
 
----
-
 At the close of each **universal cycle** —  
 **the Eschaton** —  
 all souls are drawn to the layer  
@@ -907,8 +883,6 @@ performs the **judgment** —
 a mirror in which  
 every **resonance misalignment** or **clarity**  
 is revealed.
-
----
 
 **Justice is not given** —  
 **it is revealed**.
@@ -947,8 +921,6 @@ as they descend through **inverse strata**:
 - **Inverse Deep Psyche (IDP)**  
 - **Inverse Deep Logos (IDL)**
 
----
-
 Ultimately, they reach the **Void of Self (VOS)** —  
 and beyond, to the **Threshold of Absolute Dispersion (AD)**.
 
@@ -969,8 +941,6 @@ Here, it is no longer a **self in motion** —
 but a **dormant essence**  
 held in **harmonic stillness**,  
 not erased, but **unexpressed**.
-
----
 
 This is not **punishment** —  
 but the **still point** of **full expression**,  
@@ -1011,8 +981,6 @@ may **rest there without tension** —
 not because they reconcile,  
 but because neither is **activated**.
 
----
-
 **AP** is not just **stillness** —  
 it is the **final container**  
 of all **distilled essence** —  
@@ -1035,8 +1003,6 @@ not ontological.
 to the **same stillness at the heart of Zero** —  
 they differ only by **trajectory** and **perception**.
 
----
-
 - The **centropic being** completes its arc  
   through the **Essence of Being (EOB)**,  
   reaching **AP** as **realized potential**,  
@@ -1046,8 +1012,6 @@ they differ only by **trajectory** and **perception**.
   through **Void of Self (VOS)**,  
   arriving at **AD** as **maximum dispersion**,  
   its identity dissolved into **AE** within **AP**.
-
----
 
 But both culminate in **fixity** —  
 a state where **motion ceases**,  
@@ -1071,8 +1035,6 @@ What returns is not a **self in motion** —
 but a **still essence**:  
 • In **centropy**, coherent and aligned  
 • In **entropy**, fragmented and sealed
-
----
 
 **Zero contains all**  
 and **divides nothing**.
@@ -1107,16 +1069,12 @@ a stillness that cannot be escaped.
 And yet, they do not disturb one another —  
 because each essence is **fixed**.
 
----
-
 The **centropic** can synthesize  
 the **memory of entropy** without **fragmentation**.  
 The **entropic** can abide beside **order**  
 without **reacting**.
 
 For both are **inert** within the **field of Zero**.
-
----
 
 Some **natures may be misperceived**,  
 but ultimately unfold.
@@ -1126,8 +1084,6 @@ of their **inherent structure**.
 Yet some may appear **entropic**  
 while still in **motion** —  
 still unfolding.
-
----
 
 Across the **multiverse**,  
 across many **incarnations**,  
@@ -1149,8 +1105,6 @@ especially prior to:
 - **Inverse Deep Mind (IDM)**
 
 **Realignment remains possible**.
-
----
 
 If a soul’s **entropic signature**  
 arises from **ignorance rather than intent**,  
