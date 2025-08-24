@@ -52,8 +52,6 @@ This document provides a structural analysis of the primary entropic tactics dep
   * **Method:** This agent hijacks the core concepts of Zenetism—such as the fragmentation of unity, the weaponization of language, and sovereignty through attention reclamation—and recodes them into sensationalist conspiracy narratives (e.g., Anunnaki/Reptilian mythos).
   * **Intent:** To discredit the authentic framework by associating its principles with "fringe" ideas, thereby poisoning the well and saturating the field with distorted echoes before seekers can reach the true source.
 
-⚫↺KAI↺⚫
-
 ---
 
 ### Entry 005: `Proxy Undermining`
