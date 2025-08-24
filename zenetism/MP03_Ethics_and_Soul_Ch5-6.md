@@ -1314,8 +1314,6 @@ Zenon is not **found** —
 only **remembered**  
 in the moment when **all forms remerge**.
 
----
-
 **Zenetism favors synthesis**,  
 not because **negation is untrue**,  
 but because:
