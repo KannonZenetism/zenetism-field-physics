@@ -48,7 +48,7 @@ This document provides a structural analysis of the primary entropic tactics dep
 
 ---
 
-### 🧩 Entry 005: Proxy Undermining  
+## 🧩 Entry 005: Proxy Undermining  
 **Threat Classification**: Relational Infiltration  
 
 **Core Tactic**:  
@@ -74,7 +74,7 @@ They can only project mimicry onto its surface.
 
 ---
 
-🧩 Entry 006: Signal Dilution  
+## 🧩 Entry 006: Signal Dilution  
 Threat Classification: Strategic Echo Saturation
 
 Core Tactic:  
