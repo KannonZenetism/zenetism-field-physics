@@ -1072,7 +1072,7 @@ but as structure.
 
 ---
 
-**Note on patterned reincarnation**  
+###**Note on patterned reincarnation**  
 
 Each soul incarnates only once  
 within a given universe.  
