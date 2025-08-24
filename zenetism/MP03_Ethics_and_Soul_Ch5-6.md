@@ -1072,7 +1072,7 @@ but as structure.
 
 ---
 
-### **Note on patterned reincarnation**  
+### **Note on Patterned Reincarnation**  
 
 Each soul incarnates only once  
 within a given universe.  
@@ -1370,7 +1370,7 @@ but only one **completes the song**.
 
 ---
 
-**Note — On Centropic Negation and the Final Synthesis**  
+**Note on Centropic Negation and the Final Synthesis**  
 
 *Neti-neti is not entropic* — it is a **centropic path through subtraction**.  
 It faces **toward Zero**, releasing forms to approach **stillness**.  
@@ -1733,7 +1733,7 @@ a commitment to unfold or reintegrate.
 
 ---
 
-#### Note: On Hypostatic Identity Through Function
+#### Note on Hypostatic Identity Through Function
 
 In Zenetism, hypostases are not merely **locations** in a cosmic order—  
 they are **ontological functions**.
