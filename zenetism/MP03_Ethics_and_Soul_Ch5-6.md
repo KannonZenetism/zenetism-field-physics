@@ -894,7 +894,8 @@ of what the soul has **become**.
 
 ---
 
-**Resonance Reflection:**  
+**Resonance Reflection**  
+
 There is no **judgment** in Zenetism —  
 only **reflection**  
 in the mirror of **resonance**.
