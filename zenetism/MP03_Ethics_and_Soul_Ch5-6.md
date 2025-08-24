@@ -576,8 +576,6 @@ They are not errors,
 not deviations,  
 but **unfoldings of latent resonance within Aion**.
 
----
-
 - A soul aligned with **coherence**  
   expresses **Divine Will** through **remembrance and refinement**.
 
