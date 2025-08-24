@@ -48,14 +48,6 @@ This document provides a structural analysis of the primary entropic tactics dep
 
 ---
 
-- "The Nacre God"
-
----
-
-- "The Nacre God"
-
----
-
 #### Case Study: “You Won’t Believe Who’s Actually Controlling Reality Right Now”  
 **Channel**: Beyond the Veil (via Frater Omen 656)  
 **Date**: August 23, 2025  
