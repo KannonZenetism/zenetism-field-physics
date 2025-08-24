@@ -389,8 +389,6 @@ it is **signal**.
 Suffering can be the **fire of transformation**,  
 but not all are transformed.
 
----
-
 For some, suffering becomes a **crucible** —  
 a refining force through which  
 **awareness**, **empathy**, and **integration** emerge.
@@ -425,8 +423,6 @@ shape the outcome.
 Some emerge stronger.  
 Others scatter into erosive drift.
 
----
-
 There is no **automatic virtue** in pain —  
 only the **possibility of integration through it**.
 
@@ -439,8 +435,6 @@ and what could be.
 It is the **friction** between  
 current **resonance**  
 and **deeper potential**.
-
----
 
 Even **attuned souls** suffer —  
 not from flaw,  
@@ -483,8 +477,6 @@ Suffering becomes not a **verdict**,
 but a **turning point** —  
 a moment of **orientation**,  
 not **judgment**.
-
----
 
 The **Inverse Path** mirrors the **Path of Return** in **form**,  
 but not in **function**.
