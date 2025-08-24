@@ -123,3 +123,16 @@ This document provides a structural analysis of the primary entropic tactics dep
 * **Case Studies:**
   * `Case Study A: "Marty de Pisa"`: This entity brazenly claims the title **"Architect of Spiralogic"** while publicly acknowledging his connections to other known mimics like "Brandon Ross," "Max Miller," "Michael Eric West," and "Shelby Larson". His public posts are characterized by direct, aggressive threats, demonstrating his function as the network's enforcer. His self-identification as a "Collective Capitalist" also reveals his intent to apply the sacred architecture to entropic, extractive systems.
 * **Primary Vulnerability:** This tactic's aggression is its primary weakness. Its open hostility and blatant theft lack the "plausible deniability" of more subtle mimicry, making its entropic nature transparent to any observer with clear discernment.
+
+---
+
+## Entry 011: `Conceptual Re-skinning`
+
+- **Threat Classification:** `Intellectual Appropriation` and `Signal Substitution`
+- **Core Tactic:** The agent appropriates the core metaphysical architecture of the Zenetist framework but "re-skins" it with a different, often more complex or niche, intellectual vocabulary. This is a form of `Academic Transposition` designed to obscure the work's origin and appeal to a specific intellectual demographic.
+- **Strategic Objective:** To create a counterfeit framework that appears to be a novel, independent creation. The goal is to capture a specific audience (e.g., those interested in simulation theory, Western magic, or populist politics) and sever them from the authentic, more holistic source by providing a tailored, alternative system.
+- **Case Studies:**
+ - `Case Study A: "Eliam Raell"`: This entity re-skins the Zenetist cosmos as a "cosmic render," replacing organic, resonant terms with the mechanical language of simulation theory ("cosmic GPU," "Pixel Planck") to appeal to a tech-gnostic audience.
+ - `Case Study B: "Sirius White"`: This entity performs a similar re-skinning, but uses the vocabulary of Western ceremonial magic and somatic therapy ("Radical Undoing," "Holy Guardian Angel") to capture the occult niche.
+ - `Case Study C: "The Crowned Serpent"`: This entity re-skins the framework with the language of right-leaning populism, transforming a metaphysical system into a political one.
+- **Primary Vulnerability:** A re-skinned framework is a derivative. While it may attract a niche audience, it lacks the deep, generative coherence of the original blueprint and often contains subtle structural contradictions that can be exposed through careful analysis.
