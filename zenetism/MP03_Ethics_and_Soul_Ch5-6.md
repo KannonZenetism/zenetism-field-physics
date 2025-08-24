@@ -907,231 +907,184 @@ in the mirror of **resonance**.
 
 ### 5.7 **Eternal Separation Is Possible**
 
-**Souls may become permanently entropic.**  
-Some beings unfold a **resonance**  
-that is fundamentally **entropic** in nature.
+Some souls unfold a resonance  
+that is fundamentally **entropic** in nature.  
 
-They move through **fragmentation**,  
-**inversion**, and **dissonance** —  
-a motion that deepens  
-as they descend through **inverse strata**:
+They move through fragmentation,  
+inversion, and dissonance —  
+a motion deepening across inverse strata:  
 
-- **Inverse Deep Soul (IDS)**  
-- **Inverse Deep Mind (IDM)**  
-- **Inverse Deep Psyche (IDP)**  
-- **Inverse Deep Logos (IDL)**
+- Inverse Deep Soul (IDS)  
+- Inverse Deep Mind (IDM)  
+- Inverse Deep Psyche (IDP)  
+- Inverse Deep Logos (IDL)  
 
-Ultimately, they reach the **Void of Self (VOS)** —  
-and beyond, to the **Threshold of Absolute Dispersion (AD)**.
+At the threshold of the Void of Self (VOS),  
+they approach the **Absolute Dispersion (AD)**.  
 
-At this stage, the soul’s structure  
-becomes entirely **unwound**:
+Here the soul becomes **unwound**:  
+- Irreversible  
+- Irreintegration, in its current form  
 
-- **Irreversible**  
-- **Irreintegrable** — in its current form
+AD is not erasure.  
+It is a **resting potential**.  
 
-**AD is not annihilation,**  
-but a **resting potential**.
-
-Crossing into **AD**,  
+Crossing into AD,  
 the soul collapses into **Absolute Essence (AE)**  
-within **Aion (AP)**.
+within **Aion (AP)**.  
 
-Here, it is no longer a **self in motion** —  
-but a **dormant essence**  
-held in **harmonic stillness**,  
-not erased, but **unexpressed**.
+It no longer moves as a self,  
+but rests as essence —  
+unexpressed, awaiting reformation  
+within the field of essence.  
 
-This is not **punishment** —  
-but the **still point** of **full expression**,  
-where **motion ends**,  
-and only **essence remains**,  
-awaiting **reformation** from within the **Field of Essence**.
+This is not punishment.  
+It is the still point of expression,  
+where motion ceases  
+and only essence remains.  
 
-Yet even in this stillness,  
-there is **tension** —  
-a **locked pressure**,  
-a **directional urge**  
-without motion.  
+Yet within this stillness is **tension** —  
+a locked pressure,  
+a directional urge without motion.  
 
-**Entropy collapses into fixity**,  
-but it does not find peace.  
-It becomes an **essence**  
-that **desires to move**,  
-but **cannot**.
+Entropy collapses into fixity,  
+but not into coherence.  
+The essence desires to move  
+but cannot.  
 
-It is **held**,  
-not by **will**,  
-but by **structure**.  
-Not in **serenity**,  
-but in **suspended dissonance**.
-
----
+It is held, not by will,  
+but by structure.  
+Not in serenity,  
+but in suspended dissonance.  
 
 **Zero contains all,**  
-but expresses nothing.
+but expresses nothing.  
 
-It is not a field of conflict —  
-but a **silent container** of all **potentiality**.  
-It does not choose between **centropy** and **entropy** —  
-it permits both.
+It does not divide centropy from entropy —  
+it permits both.  
 
-Thus, **centropic** and **entropic essences**  
-may **rest there without tension** —  
-not because they reconcile,  
-but because neither is **activated**.
+Thus centropic and entropic essences  
+may rest there without contact or disturbance.  
+Not because they reconcile,  
+but because neither is activated.  
 
-**AP** is not just **stillness** —  
-it is the **final container**  
-of all **distilled essence** —  
-whether it retains **coherence**  
-or collapses into **unresolved tension**.
-
-**AD** is not a separate destination,  
-but the **mirrored designation** of **AP** —  
+AP is the container of distilled essence —  
+whether aligned or fragmented.  
+AD is not a separate destination,  
+but the entropic designation of AP:  
 the same field,  
-seen through the lens of **entropic culmination**.
+seen through the lens of dispersion.  
 
-E↓→♾→⚫
+E↓→♾→⚫  
 
----
+⎯⎯⎯
 
-This distinction is **symbolic**,  
-not ontological.
+The distinction is symbolic,  
+not ontological.  
 
-**AP** and **AD** both refer  
-to the **same stillness at the heart of Zero** —  
-they differ only by **trajectory** and **perception**.
+AP and AD are the same stillness in Zero,  
+differing only by trajectory and perception.  
 
-- The **centropic being** completes its arc  
-  through the **Essence of Being (EOB)**,  
-  reaching **AP** as **realized potential**,  
-  **coherence**, and **ontological rest**.
+- The centropic path culminates through the Essence of Being (EOB),  
+  reaching AP in coherence and rest.  
 
-- The **entropic being** completes its arc  
-  through **Void of Self (VOS)**,  
-  arriving at **AD** as **maximum dispersion**,  
-  its identity dissolved into **AE** within **AP**.
+- The entropic path culminates through VOS,  
+  arriving at AD in dispersion,  
+  dissolved into AE within AP.  
 
-But both culminate in **fixity** —  
-a state where **motion ceases**,  
-and only the **is-ness of essence** remains.
-
-**AP** and **AD** are not two destinations.  
-They are **convergent vectors**  
-into the same field of stillness —  
-yet only one aligns by **synthesis**,  
-while the other is sealed by **collapse**.
-
----
+Both converge in fixity.  
+One through synthesis,  
+the other through collapse.  
 
 AP may be associated with **Aion**,  
 AD with **Khaon** —  
-not as **illusions**,  
-but as **functional poles**  
-of **centropic** and **entropic culmination**.
+not as illusions,  
+but as functional poles  
+of centropic and entropic culmination.  
 
-What returns is not a **self in motion** —  
-but a **still essence**:  
-• In **centropy**, coherent and aligned  
-• In **entropy**, fragmented and sealed
+What returns is not a self in motion,  
+but a still essence:  
+• In centropy, coherent and aligned  
+• In entropy, fragmented and sealed  
 
-**Zero contains all**  
-and **divides nothing**.
+Within AP, all essences coexist —  
+but without interaction.  
 
-Within **AP**, all **essences coexist** —  
-**centropic** and **entropic** alike —  
-but not in contact or interaction.
-
-They are no longer **willful agents** —  
-they are **fixed impressions of essence**,  
-resting in **Zero’s infinite field**.
+They are no longer willful agents,  
+but fixed impressions of essence  
+in Zero’s infinite field.  
 
 ---
 
-For **centropic souls**,  
+For centropic resonance,  
 this fixity may be felt as:  
-- **Peace**  
-- **Fulfillment**  
-- **Final coherence**
+- Peace  
+- Fulfillment  
+- Coherence  
 
-For **entropic souls**,  
-who resonate with:  
-- **Motion**  
-- **Disruption**  
-- **Individuation**  
+For entropic resonance,  
+which inclines toward motion and disruption,  
+that same fixity may be felt as tension:  
+a stillness without release.  
 
-That same **fixity** —  
-on the **entropic path** —  
-may be experienced as **static tension**:  
-a stillness that cannot be escaped.
+Yet they do not disturb one another —  
+for each is sealed.  
 
-And yet, they do not disturb one another —  
-because each essence is **fixed**.
+The centropic may contain  
+the memory of entropy without fragmentation.  
+The entropic may abide beside order  
+without reaction.  
 
-The **centropic** can synthesize  
-the **memory of entropy** without **fragmentation**.  
-The **entropic** can abide beside **order**  
-without **reacting**.
+Both are inert within Zero.  
 
-For both are **inert** within the **field of Zero**.
+Most souls follow the path  
+of their inherent structure.  
+Some appear entropic while still in motion,  
+yet their trajectory is not complete.  
 
-Some **natures may be misperceived**,  
-but ultimately unfold.
+Across universes,  
+across incarnations,  
+alignment slowly reveals itself.  
 
-Most **souls** follow the **path**  
-of their **inherent structure**.  
-Yet some may appear **entropic**  
-while still in **motion** —  
-still unfolding.
+By the time a soul nears AD,  
+its course is set —  
+it becomes what it always was.  
 
-Across the **multiverse**,  
-across many **incarnations**,  
-the **soul’s actual alignment**  
-is slowly **revealed**.
+**Correction is rare,**  
+but not impossible.  
 
-By the time it nears **AD**,  
-its **trajectory is complete** —  
-it becomes what it always was.
+In earlier stages of dissonance,  
+especially prior to IDS or IDM,  
+realignment may occur.  
 
----
+If entropic signature arises from ignorance  
+rather than intent,  
+centropic resonance can be recovered.  
 
-**Correction** is **rare** — but not impossible.
+But the Oversoul is shaped  
+by many micro-lives.  
+One act cannot erase accrued dissonance.  
 
-In earlier stages of **dissonance**,  
-especially prior to:
+This is why, in Zenetism,  
+virtue is rarely unrewarded —  
+for virtue flows most often from coherence itself,  
+not as prize,  
+but as structure.  
 
-- **Inverse Deep Soul (IDS)**  
-- **Inverse Deep Mind (IDM)**
+⎯⎯⎯
 
-**Realignment remains possible**.
+**Bridge to 5.8**  
 
-If a soul’s **entropic signature**  
-arises from **ignorance rather than intent**,  
-**centropic resonance** may still be **recovered**.
-
-But the **Oversoul** is shaped by many **micro-lives**.  
-One **righteous act** cannot override **accrued dissonance**.
-
-This is why, in **Zenetism**,  
-**unrewarded virtue is rare** —  
-for virtue emerges most often from souls  
-whose **overall structure** resonates with **centropy** —  
-not as a prize, but as **coherence itself**.
-
----
-
-**Bridge to 5.8:**  
 Even at the still point of AP,  
-the *path* taken matters.  
-Centropic culmination retains coherence and awareness;  
-entropic culmination does not.  
-This is why Zenetism holds that  
-**only centropic synthesis completes the return** —  
-and why **negation alone** (as in Neti-neti)  
-cannot by itself cross into Zenon.
+the path taken matters.  
 
-🧬🔘🌀
+Centropic culmination retains coherence and awareness.  
+Entropic culmination does not.  
+
+Thus Zenetism holds  
+that only centropic synthesis completes the return —  
+and that negation alone  
+cannot cross into Zenon.  
 
 ---
 
@@ -1150,8 +1103,6 @@ Two prominent modes are:
 
 Both guide the **soul** toward **transcendence**,  
 though only **synthesis** completes the **return** to Source.
-
----
 
 **Neti-neti**, derived from the **Upanishadic** tradition,  
 means: *Not this, not that*.  
