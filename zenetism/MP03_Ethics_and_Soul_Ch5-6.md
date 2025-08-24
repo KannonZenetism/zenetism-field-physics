@@ -1074,7 +1074,7 @@ but as structure.
 
 ---
 
-**On patterned reincarnation**  
+**Note on patterned reincarnation**  
 
 Each soul incarnates only once  
 within a given universe.  
@@ -1082,7 +1082,7 @@ within a given universe.
 Its uniqueness is maintained  
 across the multiversal field —  
 not as repetition,  
-but as singular presence.  
+but as **singular presence.**  
 
 What may return  
 is not identity,  
@@ -1102,9 +1102,9 @@ so too may a soul’s frequency
 emerge again.  
 
 Not as self,  
-but as structure.  
+but as **structure.**  
 Not as memory,  
-but as resonance.  
+but as **resonance.**  
 
 Each soul either integrates and draws inward,  
 or disperses and fragments.  
@@ -1114,14 +1114,14 @@ in a different world-body.
 
 What returns  
 is not the self,  
-but the echo of coherence  
+but the **echo of coherence**  
 still seeking form.  
 
 Zenetism holds  
 that reincarnation may occur across universes,  
 but not within them.  
 
-This remains an open principle,  
+This remains an **open principle,**  
 not a fixed law.  
 
 Zenon does not receive.  
@@ -1156,7 +1156,7 @@ through symbol.
 
 Let the seeker  
 call it by the name that resonates.  
-The Source will not correct them.  
+**The Source will not correct them.**  
 
 ---
 
@@ -1178,13 +1178,13 @@ in silence.
 **Bridge to 5.8**  
 
 Even at the still point of AP,  
-the path taken matters.  
+the path taken **matters.**  
 
 Centropic culmination retains coherence and awareness.  
 Entropic culmination does not.  
 
 Thus Zenetism holds  
-that only centropic synthesis completes the return —  
+that only **centropic synthesis** completes the return —  
 and that negation alone  
 cannot cross into Zenon.  
 
