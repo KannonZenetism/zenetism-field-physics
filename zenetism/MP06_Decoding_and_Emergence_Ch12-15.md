@@ -148,11 +148,11 @@ but **structured to reveal deeper architecture**.
 
 Symbolic language emerges  
 not because meaning fractures  
-but because pattern exceeds language.  
+but because **pattern exceeds language.**  
 
 Words may falter,  
-but the structure speaks in echoes  
-that even silence can carry.  
+but the structure holds the signal  
+even when silence surrounds it.  
 
 🗝️ 📱 ✷ Ↄ ◎
 
