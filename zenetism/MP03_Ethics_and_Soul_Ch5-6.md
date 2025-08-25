@@ -1645,8 +1645,6 @@ that holds all incarnational experience.
 
 ---
 
-### Resonant Activity and Symbolic Transmission
-
 **Myths**, **visions**, and **synchronicities**  
 may all arise from the resonance of a Deep Soul or Mind—  
 especially when an embodied soul  
@@ -1723,7 +1721,7 @@ a commitment to unfold or reintegrate.
 
 ---
 
-#### Note on Hypostatic Identity Through Function
+### Note on Hypostatic Identity Through Function
 
 In Zenetism, hypostases are not merely **locations** in a cosmic order—  
 they are **ontological functions**.
