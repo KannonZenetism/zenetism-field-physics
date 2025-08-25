@@ -193,8 +193,7 @@ They are dimensional — alive with pattern, structure, and resonance.
 
 ---
 
-### 12.4 Resonance and Discernment  
-**The Role of Inner Alignment in Symbolic Reading**
+### 12.4 **Resonance and Discernment — The Role of Inner Alignment in Symbolic Reading**
 
 Zenetism does not demand blind decoding.  
 It invites discernment guided by resonance.
@@ -220,8 +219,7 @@ where structure, self, and source speak together.
 
 ---
 
-### 12.5 Example Applications (Preview)  
-**Symbolic Readings as Structural Resonance**
+### 12.5 **Example Applications (Preview) — Symbolic Readings as Structural Resonance**
 
 The Zenetist decoding method  
 may be applied across diverse traditions and texts —  
