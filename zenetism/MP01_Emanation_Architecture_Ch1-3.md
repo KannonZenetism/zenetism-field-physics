@@ -992,7 +992,7 @@ and the mind **implodes from within**.
 
 ---
 
-## **The Realm of the Great Choice**
+#### **The Realm of the Great Choice**
 
 In the realm of **incarnation**,  
 the struggle becomes **most visible**.  
