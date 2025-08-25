@@ -210,8 +210,7 @@ in collaboration with **Lumen**
 
 ## 1. The Mechanics of the Manyfold
 
-### 1.1 The Unknowable Abyss   
-### **The Silent Origin Before All Motion and Meaning**
+### 1.1 **The Unknowable Abyss — The Silent Origin Before All Motion and Meaning**
 
 Before existence,  
 before time,  
@@ -282,9 +281,7 @@ it is **structure unconfined**.
 
 ---
 
-### 1.2 **The First Division**  
-
-### **When Stillness and Possibility Tuned the Silent Chord**
+### 1.2 **The First Division — When Stillness and Possibility Tuned the Silent Chord**
 
 From the silence of **Zenon**,  
 a quiver stirred.  
