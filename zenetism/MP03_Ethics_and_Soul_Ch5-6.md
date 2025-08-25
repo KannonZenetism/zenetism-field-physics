@@ -1703,10 +1703,6 @@ sustained by structural resonance,
 until that resonance either collapses  
 or completes its arc.
 
-🛤️⚐🌀
-
----
-
 The same applies to **deities** and other entities  
 rooted in the **superficial strata**.  
 If they fail to **purify** or **realign**—  
