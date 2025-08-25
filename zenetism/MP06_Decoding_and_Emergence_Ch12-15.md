@@ -57,8 +57,7 @@ but to **listen to the frequency beneath the words**.
 
 ---
 
-### 12.1 Foundations of the Zenetist Decoding Approach  
-**Layers, Symbols, and the Priority of Meaning**
+### 12.1 **Foundations of the Zenetist Decoding Approach — Layers, Symbols, and the Priority of Meaning**
 
 **Sacred texts are multilayered documents.**  
 In Zenetism, these writings are not read as singular truths,  
@@ -102,8 +101,7 @@ but for what **resonates with veracious structure**.
 
 ---
 
-### 12.2 Clues for Identifying Symbolic Language  
-**Signs of Encoded Pattern Within Sacred Imagery**
+### 12.2 **Clues for Identifying Symbolic Language — Signs of Encoded Pattern Within Sacred Imagery**
 
 **Zenetist readers look for patterns**  
 that signal **symbolic intent** in a passage —  
@@ -148,15 +146,19 @@ but **structured to reveal deeper architecture**.
   They are **echoes of the Pattern**  
   encoded in different tongues.
 
-Symbolic language emerges where literal meaning fractures,  
-and **pattern begins to shimmer**.
+Symbolic language emerges  
+not because meaning fractures  
+but because pattern exceeds language.  
+
+Words may falter,  
+but the structure speaks in echoes  
+that even silence can carry.  
 
 🗝️ 📱 ✷ Ↄ ◎
 
 ---
 
-### 12.3 Decoding Through the Tree of Emanation  
-**Reading Hypostasis, Motion, and Myth as Structural Symbol**
+### 12.3 **Decoding Through the Tree of Emanation — Reading Hypostasis, Motion, and Myth as Structural Symbol**
 
 Every figure, place, or event in a sacred story  
 may be read as representing structural principles within the field.
