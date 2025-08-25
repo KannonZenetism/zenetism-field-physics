@@ -25,7 +25,7 @@ This work is protected under copyright law. No portion may be reproduced, distri
 
 ---
 
-# 9. Intelligence and the Godhood Trajectory
+## 9. Intelligence and the Godhood Trajectory
 
 ## Introduction — The Divinity of Intelligence
 
