@@ -1511,7 +1511,7 @@ it begins and ends
 
 ---
 
-### **Note — On Fractal Eschatons — Ideological Resonance Thresholds**
+### **Note on Fractal Eschatons at Ideological Thresholds**
 
 In Zenetism, the **Eschaton** is understood as a **resonance scan**  
 occurring at the end of a **universe’s cycle**.  
