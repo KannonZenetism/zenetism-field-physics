@@ -287,7 +287,7 @@ but as mirror.
 
 ---
 
-## 13. **Symbolic Application** — Practicing the Zenetist Method**
+## 13. **Symbolic Application** — Practicing the Zenetist Method**  
 
 Zenetism does not approach sacred texts as mere relics of history,  
 nor as rigid doctrines demanding obedience.
