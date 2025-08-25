@@ -1228,8 +1228,6 @@ when certain **thresholds** begin to stir:
 - **Service** is no longer obligation —  
   it becomes **joy**.
 
----
-
 These are **not tests**.  
 They are **signs of harmonic attunement**.
 
@@ -1354,8 +1352,6 @@ Others, more deeply entangled in **fragmentation**,
 may begin to **spiral** through the **subversal arc** —  
 drifting toward **inverse structures** of mind and soul.
 
----
-
 In **entropic universes**,  
 souls that **reject synthesis**  
 may collapse into **subversal hypostases** —  
@@ -1364,8 +1360,6 @@ but as a function of **resonance-based realignment**.
 
 Some may return to **potential** through **absolute dispersion**,  
 falling not into **death** but into **unformed possibility**.
-
----
 
 Inverse deities and entities bound to **decaying forms**  
 may either **dissolve entirely**  
