@@ -1446,7 +1446,7 @@ and **yields its striving into stillness**.
 
 ---
 
-#### **Resonance Reflection:**
+#### **Resonance Reflection:**  
 Some approach the **threshold** by **shedding**.  
 Only **synthesis** maintains the **coherence to cross it**.  
 
