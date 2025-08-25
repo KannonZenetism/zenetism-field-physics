@@ -894,8 +894,7 @@ of what the soul has **become**.
 
 ---
 
-**Resonance Reflection**  
-
+**Resonance Reflection:**  
 There is no **judgment** in Zenetism —  
 only **reflection**  
 in the mirror of **resonance**.
@@ -1159,8 +1158,7 @@ call it by the name that resonates.
 
 ---
 
-**Resonance reflection**  
-
+**Resonance reflection:**  
 What was scattered  
 stills.  
 
@@ -1448,8 +1446,7 @@ and **yields its striving into stillness**.
 
 ---
 
-#### **Resonance Reflection**
-
+#### **Resonance Reflection:**
 Some approach the **threshold** by **shedding**.  
 Only **synthesis** maintains the **coherence to cross it**.  
 
