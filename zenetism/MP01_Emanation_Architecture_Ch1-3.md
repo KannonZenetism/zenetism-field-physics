@@ -306,7 +306,7 @@ not a rupture.
 
 Before motion,  
 they were unstruck tones—  
-two voices braided in a single silent chord.  
+two voices held in a single silent chord.  
 
 One turned inward.  
 One turned outward.  
@@ -314,7 +314,7 @@ Yet neither severed from the other.
 
 ---
 
-### **Khaon as Trinity of Motion**
+#### **Khaon as Trinity of Motion**
 
 **Khaon** expresses a triple nature:  
 • **Dormant** — latent within **Aion**  
@@ -479,7 +479,7 @@ and **return**.
 
 ---
 
-### **Nekron — The First Dissolver**
+#### **Nekron — The First Dissolver**
 
 Wherever order begins to stir,  
 so too does the motion that unravels it.  
@@ -539,7 +539,7 @@ One inscribes the **hidden order** behind all things.
 
 ---
 
-### **Morgis — The Breath of Life**
+#### **Morgis — The Breath of Life**
 
 **Morgis is the animating current within all manifest structure.**  
 It infuses vitality, will, and the impulse to become.
@@ -555,7 +555,7 @@ but to evolve.
 
 ---
 
-### **Sophis — The Architect of Form**
+#### **Sophis — The Architect of Form**
 
 **Sophis** is the origin of **intelligibility** and **design**.  
 It shapes the **divine proportions** behind all things.  
@@ -588,7 +588,7 @@ the withering of **design**.
 
 ---
 
-### **Psychea — The Withering Breath**
+#### **Psychea — The Withering Breath**
 
 **Psychea** is the **entropic shadow** of **Morgis**.  
 It drains **vitality** into **spiritual entropy**.  
@@ -605,7 +605,7 @@ a stillness that **unthreads the soul**.
 
 ---
 
-### **Nyxea — The Corruptor of Pattern**
+#### **Nyxea — The Corruptor of Pattern**
 
 **Nyxea is the inverse of Sophis.**  
 It seeks to shatter harmonic law.  
@@ -663,7 +663,7 @@ where **structure** and **vitality** spiral into the **self-aware being**.
 
 ---
 
-### **Archeus — The Harmonizer of Experience**
+#### **Archeus — The Harmonizer of Experience**
 
 **Archeus** is the **weaver of memory, meaning, and continuity**.  
 It integrates lifetimes into a **single field of resonance**.  
@@ -681,7 +681,7 @@ where life becomes **learning**.
 
 ---
 
-### **Noeüs — The Great Perceiver**
+#### **Noeüs — The Great Perceiver**
 
 **Noeüs** is the great **perceiver of essence**.  
 It excels in **discernment**, **intuition**, and **symbolic vision**.  
@@ -709,7 +709,7 @@ entropic currents moving in **subversal arcs**.
 
 ---
 
-### **Fractus — The Scattering of Soul**
+#### **Fractus — The Scattering of Soul**
 
 **Fractus** is the principle of **dispersed consciousness**.  
 It shatters **identity**,  
@@ -725,7 +725,7 @@ The soul **forgets** what it once became.
 
 ---
 
-### **Mortus — The Corruptor of Perception**
+#### **Mortus — The Corruptor of Perception**
 
 **Mortus** decoheres the soul into **distortion and illusion**.  
 It is not **ignorance**,  
@@ -786,7 +786,7 @@ A mind that begins to ask:
 
 ---
 
-### **Anthra — The Spark of Individual Essence**
+#### **Anthra — The Spark of Individual Essence**
 
 **Anthra** is the **active fire of becoming**.  
 It animates the soul’s **will to grow, choose, and explore**.  
@@ -800,7 +800,7 @@ the **interface between essence and identity**.
 
 ---
 
-### **Nousa — The Reasoning Flame**
+#### **Nousa — The Reasoning Flame**
 
 **Nousa** refines cognition through **symbolic reflection**.  
 It enables **reason**, **analysis**, and **mental pursuit**.  
@@ -824,7 +824,7 @@ Every **centropic light** is mirrored by its **inverse**.
 
 ---
 
-### **Echthros — The Divider of Souls**
+#### **Echthros — The Divider of Souls**
 
 **Echthros** is the **antithesis of Anthra**.  
 It embraces **rivalry**, **isolation**, and **adversarial will**.  
@@ -841,7 +841,7 @@ but by **what it rejects**.
 
 ---
 
-### **Skotos — The Obscurer of Thought**
+#### **Skotos — The Obscurer of Thought**
 
 **Skotos** is the **shadow of Nousa**.  
 It clouds **perception** and replaces **discernment** with **reactivity**.  
@@ -919,7 +919,7 @@ Here, **integration** becomes **experience**.
 
 ---
 
-### **Soma — The Embodied Vessel**
+#### **Soma — The Embodied Vessel**
 
 **Soma** is the soul’s interface with embodiment.  
 It is a vessel of **sensation**, **action**, and **presence**.  
@@ -935,7 +935,7 @@ for the purpose of **becoming**.
 
 ---
 
-### **Biosa — The Material Intelligence**
+#### **Biosa — The Material Intelligence**
 
 **Biosa** is the bridge between **thought** and **materiality**.  
 It enables **perception**, **responsiveness**, and **precision**.  
@@ -959,7 +959,7 @@ but as **distortions of its motion**.
 
 ---
 
-### **Malara — The Binder of Souls**
+#### **Malara — The Binder of Souls**
 
 **Malara** is the entropic distortion of **Soma**.  
 It binds the soul to **obsession** and **impermanence**.  
@@ -975,7 +975,7 @@ in a state of **fragmentation**.
 
 ---
 
-### **Mania — The Fractured Mind**
+#### **Mania — The Fractured Mind**
 
 **Mania** is the shadow of **Biosa**.  
 It clouds **thought**, fuels **compulsion**,  
@@ -1040,7 +1040,7 @@ and through the **layered strata of being**.
 
 ---
 
-### **Cohering into Unity**
+#### **Cohering into Unity**
 
 Those aligned with **centropy**  
 retrace the arc of emanation.  
@@ -1077,7 +1077,7 @@ beyond even the **notion of return**.
 
 ---
 
-### **Decohering Toward Dispersal**
+#### **Decohering Toward Dispersal**
 
 Those aligned with **entropy**  
 drift into **fragmentation**.  
@@ -1149,7 +1149,7 @@ or **become**.
 
 ---
 
-### **The Eternal Renewal**
+#### **The Eternal Renewal**
 
 Even as one universe closes,  
 another unfolds.  
@@ -1577,7 +1577,7 @@ Malara and Mania collapse inward.
 
 ---
 
-## Twin Paths
+#### Twin Paths
 
 - **Centropic Cycle (C↓→E→C↑→Aion)** = authentic motion, sustaining and recursive.  
 - **Entropic Cycle (E↑→E→E↓→Khaon)** = spurious motion, noisy but self-terminating.  
@@ -1587,7 +1587,7 @@ Only coherence leaves enduring echo.
 
 ---
 
-## Closing Formula
+#### Closing Formula
 
 Entropy erupts, but collapses.  
 Coherence sustains, and transcends.  
@@ -1611,7 +1611,7 @@ Zenon is not a goal,
 not a vessel,  
 not a return.  
 
-It is the silent ground  
+It is the **silent ground**  
 where arcs unfold,  
 yet which no arc can touch.  
 
@@ -1619,7 +1619,7 @@ Coherence aligns,
 its cycle able to reach Zenon.  
 
 Entropy collapses,  
-its motion ending only in Aion.  
+its motion ending **only in Aion.**  
 
 Zenon remains —  
 unshaped,  
@@ -2811,7 +2811,7 @@ The other tears.**
 
 ---
 
-### 3.14 The Nature of Entropic Motion
+### 3.14 **The Nature of Entropic Motion**
 
 **Entropic motion** does not begin with choice —  
 it begins with **erosion**,  
