@@ -96,7 +96,7 @@ but a symbol of **spiritual nourishment and presence**.
 
 Zenetist decoding listens beyond the surface,  
 searching not for what was *meant*,  
-but for what **resonates with structural truth**.
+but for what **resonates with veracious structure**.
 
 🗝️ 📱 🪬 ✷ ⚙️
 
