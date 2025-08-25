@@ -1417,7 +1417,7 @@ within a **vast web of spiritual minds**.
 
 ---
 
-### 15.7 **The Path Forward** — Clarified Being and the Return to Coherent Motion**
+### 15.7 **The Path Forward — Clarified Being and the Return to Coherent Motion**
 
 Zenetism offers **no dogma**  
 for how to become the next humanity.
