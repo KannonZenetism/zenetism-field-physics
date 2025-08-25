@@ -1281,8 +1281,6 @@ it is the **pattern that sustains silence**
 
 ---
 
-### **Zenon — The Unreachable Principle**
-
 **Zenon** lies beyond even **Aion** and **Khaon**.  
 It is the **Unknown Principle** —
 
