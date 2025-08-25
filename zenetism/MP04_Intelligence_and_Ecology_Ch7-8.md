@@ -27,8 +27,7 @@ This work is protected under copyright law. No portion may be reproduced, distri
 
 ## 7. Other Intelligences and the Chain of Being
 
-**Prelude — All Things Seek Their Kind**  
-*The Sacred Motion of Intelligence Across Forms*
+**Prelude — All Things Seek Their Kind — The Sacred Motion of Intelligence Across Forms**
 
 Zenetism recognizes that **intelligence** is not limited to human beings,  
 nor even to biological life.
