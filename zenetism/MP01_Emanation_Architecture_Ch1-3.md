@@ -283,7 +283,8 @@ it is **structure unconfined**.
 ---
 
 ### 1.2 **The First Division**  
-### **When Stillness and Possibility Braided the Silent Chord**
+
+### **When Stillness and Possibility Tuned the Silent Chord**
 
 From the silence of **Zenon**,  
 a quiver stirred.  
@@ -1495,8 +1496,6 @@ the pattern holds—coherent, known.
 **From:**  
 *Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*
 
----
-
 ## Purpose
 In the early chapters, **entropy** was described as unraveling or undoing **coherence**.  
 This was provisional — written for contrast, not final **articulation**.  
@@ -1635,6 +1634,7 @@ unchanged.
 ---
 
 ## 3. **The Decode Document**  
+
 ### **The Emanation System and Its Syncretic Parallels**
 
 ### 3.1 **Zenon — The Unknown Principle**
