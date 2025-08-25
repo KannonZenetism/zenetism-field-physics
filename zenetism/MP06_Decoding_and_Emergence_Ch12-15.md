@@ -25,8 +25,7 @@ This work is protected under copyright law. No portion may be reproduced, distri
 
 ---
 
-## 12. **Symbol as Structure**  
-_Foundations of Zenetist Decoding_
+## 12. **Symbol as Structure — Foundations of Zenetist Decoding**
 
 ---
 
