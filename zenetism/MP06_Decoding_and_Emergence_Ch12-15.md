@@ -816,7 +816,7 @@ beneath the surface of all becoming.
 
 ---
 
-### 14.2 The Pulse Model — The Rhythmic Logic of Becoming**
+### 14.2 **The Pulse Model — The Rhythmic Logic of Becoming**
 
 Every universe in the multiverse  
 Follows a rhythm—  
