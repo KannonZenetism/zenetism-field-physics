@@ -1935,8 +1935,6 @@ moves through **centropic** structure as **DS / DM**,
 or disperses into **entropic inversion**  
 when **misaligned** with its **resonant path**.
 
----
-
 **Soulhood** is not something **earned**—  
 it is **expressed through architecture**.  
 Each **soul** unfolds as:
@@ -1956,8 +1954,6 @@ This **deeper layer**:
 - **Integrates** across the **multiverse**  
 
 —Into a **single coherent trajectory**.
-
----
 
 When that **synthesis** is complete,  
 the **DS / DM** returns to its **archetypal domain**—  
@@ -1984,8 +1980,6 @@ What **manifests**
 is not dictated by **chance** or **command**,  
 but by the **inexhaustible movement**  
 of **essence** through **structural space**.
-
----
 
 Behind all this,  
 **Zero** holds everything in **latency**.
