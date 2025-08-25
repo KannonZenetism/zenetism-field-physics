@@ -1633,9 +1633,7 @@ unchanged.
 
 ---
 
-## 3. **The Decode Document**  
-
-### **The Emanation System and Its Syncretic Parallels**
+## 3. **The Decode Document — The Emanation System and Its Syncretic Parallels**
 
 ### 3.1 **Zenon — The Unknown Principle**
 
