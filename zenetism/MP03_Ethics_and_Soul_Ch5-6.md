@@ -1172,7 +1172,7 @@ in silence.
 
 ---
 
-**Bridge to 5.8**  
+### **Bridge to 5.8**  
 
 Even at the still point of AP,  
 the path taken **matters.**  
