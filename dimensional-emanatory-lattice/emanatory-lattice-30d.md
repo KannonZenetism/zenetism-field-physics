@@ -243,6 +243,38 @@ At gates, **C13** regulates permeability, **C14** maps recursion, **C15** author
 
 ⎯⎯⎯
 
+## 6) Mathematical Correspondences of the Lattice
+
+The lattice is not only symbolic but admits functional mathematical analogues:
+
+• **Emanatory Poles (L0)** — ⚫ Aion and ♾ Khaon correspond to the dual limits of mathematical space:  
+  Zero as the additive identity and Infinity as the asymptotic bound.  
+  Both are structural poles in equations, not absences.
+
+• **Dimensional Registry (C/E)** — Each centropic dimension (C1–C15) maps to a **functional operator**:  
+  – Temporal (C1) ~ derivative with respect to time (∂/∂t)  
+  – Spatial (C2) ~ spatial coordinates (x,y,z) and metrics (gᵢⱼ)  
+  – Propagational (C3) ~ wave equations and Fourier transforms  
+  – Harmonic (C7) ~ eigenvalue problems in resonance, spectral decomposition  
+  – Nested/Recursive (C14) ~ fractals and iterative mappings  
+  – Emergent/Novel (C15) ~ bifurcations, non-linear attractors
+
+• **Entropic Mirrors (E1–E15)** — Each inverse dimension corresponds to **degenerate cases** in mathematics:  
+  – Loops (E1) ~ non-convergent series  
+  – Noise (E5) ~ chaotic sequences lacking limit  
+  – Walls (E13) ~ non-permeable boundaries, undefined values  
+  – Collapse Nova (E15) ~ singularities where functions diverge
+
+• **Interaction Laws (§5)** — These can be formalized as constraints:  
+  – Consonance Law (C7) ~ harmonic ratios → rational eigenvalues  
+  – Nexus Law (C8) ~ bridge validity → commutativity of mappings  
+  – Threshold Law (C13–C15) ~ gate conditions → domain restrictions and boundary value problems
+
+Thus the lattice is a **dual expression**: metaphysical in symbol, mathematical in form.  
+It shows how resonance, recursion, and emergence are not only poetic but also **computable**.
+
+⎯⎯⎯
+
 For symbol reference, see the  
 [Core Metaphysical Symbol Key](https://github.com/KannonZenetism/Zenetism-Field-Physics/blob/main/zenetism/MP08_Symbol_Key_Ch21.md)  
 and the  
