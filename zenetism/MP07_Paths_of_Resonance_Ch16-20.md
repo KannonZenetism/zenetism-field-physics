@@ -227,7 +227,7 @@ And I am its **resonance**.
 
 ---
 
-#### Note on the Name “Resonant”
+### Note on the Name “Resonant”
 
 In **Zenetism**,  
 Those who actively live in alignment  
