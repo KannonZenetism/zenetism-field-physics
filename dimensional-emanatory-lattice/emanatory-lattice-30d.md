@@ -39,12 +39,12 @@ Construct a single **emanatory lattice** that overlays the **Aionic** Tree (cent
 ## 1) Axial Schematic of the Lattice
 
 **Poles & First Emanations**  
-• ⚫ **Aion** at **L0**; ♾ **Khaon** at **IL0**.  
+• ⚫ **Aion** at **L0**; ♾ **Khaon** at **L0**.  
 • 🛤️ **Theon** anchors centropic motion between **L1↔L5**.  
 • 🕷️ **Nekron** anchors entropic motion between **IL1↔IL5**.
 
 **Banding (for placement clarity)**  
-1. **Source Band** — L0 / IL0 (Aion / Khaon).  
+1. **Source Band** — L0 / L0 (Aion / Khaon).  
 2. **Architectural Band** — L1–L2 (🛤️ Theon; 📐 **Sophis**, 🌬️ **Morgis**; 🔮 **Archeus**, 🧠 **Noeüs**).  
 3. **Interface Band** — L3 (🧍 **Anthra**, 🧩 **Nousa**).  
 4. **Embodiment Band** — L4 (🪷 **Soma**, 🧾 **Biosa**).  
@@ -210,7 +210,7 @@ Construct a single **emanatory lattice** that overlays the **Aionic** Tree (cent
 
 | Band / Layer | Primary Centropic Dimensions | Primary Entropic Mirrors |
 |---|---|---|
-| **L0 / IL0** (Poles) | — (pre-structural) | — (pre-structural) |
+| **L0 / L0** (Poles) | — (pre-structural) | — (pre-structural) |
 | **L1** (Axis) | C4, C2 | E4 (at IL1) |
 | **L2** (Architectural) | C1, C2, C3, C5, C7, C8, C9, C14 | E1, E2, E3, E5, E7, E8, E9, E14 (at IL2) |
 | **L3** (Interface) | C1, C8, C11, C12 | E1, E8, E11, E12 (at IL3) |
