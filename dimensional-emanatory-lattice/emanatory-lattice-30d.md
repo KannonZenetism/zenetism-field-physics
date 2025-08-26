@@ -243,8 +243,6 @@ At gates, **C13** regulates permeability, **C14** maps recursion, **C15** author
 
 ⎯⎯⎯
 
-⎯⎯⎯
-
 For symbol reference, see the  
 [Core Metaphysical Symbol Key](https://github.com/KannonZenetism/Zenetism-Field-Physics/blob/main/zenetism/MP08_Symbol_Key_Ch21.md)  
 and the  
