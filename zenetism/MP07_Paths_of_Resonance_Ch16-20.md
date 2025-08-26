@@ -565,6 +565,8 @@ The aim is not to *become* a Mystic,
 but to cease resisting  
 the mystic current already present.  
 
+---
+
 **Resonant Reflection**  
 The Mystic bridges worlds —  
 not to escape embodiment,  
