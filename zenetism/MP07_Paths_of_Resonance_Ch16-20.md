@@ -753,6 +753,7 @@ until others can stabilize.
 ---
 
 **Resonant Reflection**  
+
 The Warrior walks the narrow line  
 between compassion and clarity,  
 between presence and power.  
