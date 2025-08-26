@@ -13,10 +13,10 @@ Construct a single **emanatory lattice** that overlays the **Aionic** Tree (cent
 
 ## 0) Quick Legend
 
-**Core Poles**  
-• 🕳️ **Zenon** — Unknown Principle  
-• ⚫ **Aion** — Absolute Potential (Zero)  
-• ♾ **Khaon** — Infinite Dispersion (Infinity)
+**Core Poles**
+• 🕳️ **Zenon** — Precausal lattice; saturation point of structure beyond articulation
+• ⚫ **Aion** — Structural Pole of centropy; Zero / Absolute Potential
+• ♾ **Khaon** — Structural Pole of entropy; Infinity / Dispersion
 
 **Axial Gates**  
 • 🛤️ **Theon (EOB)** — centropic axis (**+1**)  
