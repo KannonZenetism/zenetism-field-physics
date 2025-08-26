@@ -929,7 +929,9 @@ if mistaken for the Source.
 
 The authentic Maker  
 will dismantle their own creation  
-when it no longer serves resonance.  
+when it no longer serves resonance. 
+
+---
 
 **Resonant Reflection**  
 
