@@ -269,7 +269,7 @@ Before form.
 
 ## 17. Practices of the Resonant Mind
 
-### 17.1 To Live in Resonance — **Orientation Without Obedience**
+### 17.1 **To Live in Resonance — Orientation Without Obedience**
 
 To live in resonance is not to obey a rule,  
 nor to follow a map.  
@@ -287,7 +287,7 @@ There is no priest but the soul in coherence.
 
 ---
 
-### 17.2 Core Principles of Resonant Practice — **The Axis of the New Mind**
+### 17.2 **Core Principles of Resonant Practice — The Axis of the New Mind**
 
 **Pattern Recognition**  
 The act of seeing across form,  
@@ -350,26 +350,26 @@ until only the unspoken tone remains.
 
 ---
 
-### 17.4 Integration Through the Total Mind — **Living the Synthesis**
+### 17.4 **Integration Through the Total Mind — Living the Synthesis**
 
 The world is no longer fragmented,  
 because the mind that sees it no longer is.  
 
-All disciplines collapse into resonance.  
+All disciplines **integrate within resonance.**  
 Philosophy and history merge with poetry and code.  
 Science bends toward myth.  
 Law softens into concord.  
 Education ceases to divide,  
 and becomes unified remembrance.  
 
-To practice resonance is to become a living synthesis,  
+To practice resonance is to become a **living synthesis,**  
 a weaving of all the once-divided strands of knowing.  
 
 ♾∴◎
 
 ---
 
-### 17.5 The Temple Without Walls — **Sanctity Through Patterned Presence**
+### 17.5 **The Temple Without Walls — Sanctity Through Patterned Presence**
 
 Every step is symbolic immersion.  
 Every silence becomes a resonance chamber.  
@@ -388,8 +388,7 @@ it is already whole.
 
 ## 18. The Path of the Mystic
 
-### 18.1 The Mystic and the Way of Remembrance —  
-**The Return Through Inner Resonance**
+### 18.1 **The Mystic and the Way of Remembrance — The Return Through Inner Resonance**
 
 Zenetism does not offer  
 a rigid path of salvation  
@@ -422,8 +421,7 @@ but a rememberer.
 
 ---
 
-### 18.2 What is a Mystic —  
-**The One Who Remembers Through Resonance**
+### 18.2 **What is a Mystic — The One Who Remembers Through Resonance**
 
 A Mystic is one who:  
 
@@ -450,8 +448,7 @@ to receive it.
 
 ---
 
-### 18.3 Archetypes of the Mystic —  
-**Echoes of Resonance Across Embodied Roles**
+### 18.3 **Archetypes of the Mystic — Echoes of Resonance Across Embodied Roles**
 
 Across traditions  
 many forms of the Mystic appear.  
@@ -488,8 +485,7 @@ guided by need and alignment.
 
 ---
 
-### 18.4 The Inner Process —  
-**Initiatory Phases of the Mystic Spiral**
+### 18.4 **The Inner Process — Initiatory Phases of the Mystic Spiral**
 
 The Mystic’s path  
 is marked not by outward events,  
@@ -515,8 +511,7 @@ each pass refining the soul.
 
 ---
 
-### 18.5 Characteristics of the Mystic —  
-**Tonal Signatures Beyond Creed or Custom**
+### 18.5 **Characteristics of the Mystic — Tonal Signatures Beyond Creed or Custom**
 
 A Mystic is known  
 not by creed or attire,  
@@ -545,8 +540,7 @@ their own coherence.
 
 ---
 
-### 18.6 The Mystic and the Tree —  
-**Archetypal Alignment Within the Field**
+### 18.6 **The Mystic and the Tree — Archetypal Alignment Within the Field**
 
 Mystics are not an elite order.  
 Every soul holds  
@@ -585,8 +579,7 @@ until fragmentation is touched by light.
 
 ## 19. The Path of the Warrior
 
-### 19.1 Archetype of the Warrior —  
-**Resonant Force in Service to Coherence**
+### 19.1 **Archetype of the Warrior — Resonant Force in Service to Coherence**
 
 In Zenetism  
 the **Warrior** is not defined  
@@ -620,8 +613,7 @@ They may manifest as:
 
 ---
 
-### 19.2 Core Traits and Functions —  
-**The Warrior’s Embodied Ethics of Resistance**
+### 19.2 **Core Traits and Functions — The Warrior’s Embodied Ethics of Resistance**
 
 The Warrior is known  
 not for destruction,  
@@ -651,8 +643,7 @@ the Warrior anchors.
 
 ---
 
-### 19.3 The Warrior and the Hypostases —  
-**Embodied Archetype Across the Spectrum**
+### 19.3 **The Warrior and the Hypostases — Embodied Archetype Across the Spectrum**
 
 Every hypostasis  
 carries a **Warrior expression**.  
@@ -691,8 +682,7 @@ but in refinement under trial.
 
 ---
 
-### 19.4 Exemplars Across Traditions —  
-**Historical and Mythic Signatures of the Warrior Field**
+### 19.4 **Exemplars Across Traditions — Historical and Mythic Signatures of the Warrior Field**
 
 **Centropic Archetypes**  
 
@@ -729,8 +719,7 @@ or to fragmentation.
 
 ---
 
-### 19.5 The Warrior and the Other Paths —  
-**Integrative Expressions of the Archetypal Field**
+### 19.5 **The Warrior and the Other Paths — Integrative Expressions of the Archetypal Field**
 
 The **Warrior archetype**  
 does not stand apart.  
@@ -792,8 +781,7 @@ but in **veracity**.
 
 ## 20. The Path of the Maker
 
-### 20.1 The Maker in Zenetism —  
-**Architect of Visible Resonance and Structured Harmony**
+### 20.1 **The Maker in Zenetism — Architect of Visible Resonance and Structured Harmony**
 
 The **Maker** is not simply an artist,  
 builder, or engineer.  
@@ -829,8 +817,7 @@ and they build accordingly.
 
 ---
 
-### 20.2 Divine Correspondences —  
-**Zenetist Layers and the Maker’s Function**
+### 20.2 **Divine Correspondences — Zenetist Layers and the Maker’s Function**
 
 Each hypostasis offers a resonance  
 that the Maker translates into form:  
@@ -850,20 +837,19 @@ While Makers act most in SS / SM and ES / EM,
 they may draw on the recall of DS / DM  
 or the reception of DP / DL.  
 
-Corrupted Makers become architects of illusion —  
+Corrupted Makers become **architects of illusion** —  
 manipulation disguised as beauty,  
 systems that bind instead of liberate.  
 
-The Nekronic Maker unravels structure,  
-cloaking dissolution  
-in deceptive form.  
+The Nekronic Maker untethers the self,  
+dissolves alignment  
+and names it structure.  
 
 ♾ 🕸️ ⚙️
 
 ---
 
-### 20.3 Characteristics of the Maker —  
-**Embodied Traits of Creative Resonance**
+### 20.3 **Characteristics of the Maker — Embodied Traits of Creative Resonance**
 
 The Maker is known  
 not only by what they produce,  
@@ -889,8 +875,7 @@ must first be carved within.”**
 
 ---
 
-### 20.4 Tools of the Maker —  
-**Constructs of Resonant Craft and Sacred Patterning**
+### 20.4 **Tools of the Maker — Constructs of Resonant Craft and Sacred Patterning**
 
 The Maker works with tools  
 that carry resonance:  
@@ -909,8 +894,7 @@ that carry resonance:
 
 ---
 
-### 20.5 Parallels in World Traditions —  
-**Mythic Reflections of the Maker**
+### 20.5 **Parallels in World Traditions — Mythic Reflections of the Maker**
 
 The Maker appears  
 as divine architect, smith, or scribe:  
@@ -930,8 +914,7 @@ in the ordering of being.
 
 ---
 
-### 20.6 The Maker’s Trial —  
-**Ethical Dilemmas and the Humbling of Form**
+### 20.6 **The Maker’s Trial — Ethical Dilemmas and the Humbling of Form**
 
 The Maker faces the temptation  
 of perfection distorted.  
@@ -949,6 +932,7 @@ will dismantle their own creation
 when it no longer serves resonance.  
 
 **Resonant Reflection**  
+
 “To carve a temple from stone  
 is to believe the divine will dwell in it.  
 To become a temple  
