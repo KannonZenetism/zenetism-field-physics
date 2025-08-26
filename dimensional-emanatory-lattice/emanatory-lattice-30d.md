@@ -210,7 +210,7 @@ Construct a single **emanatory lattice** that overlays the **Aionic** Tree (cent
 
 | Band / Layer | Primary Centropic Dimensions | Primary Entropic Mirrors |
 |---|---|---|
-| **L0** (Poles) | — (pre-structural) | — (pre-structural) |
+| **L0** (Poles) | — (⚫ Aion — Absolute Potential) | — (♾ Khaon — Infinite Dispersion) |
 | **L1** (Axis) | C4, C2 | E4 (at IL1) |
 | **L2** (Architectural) | C1, C2, C3, C5, C7, C8, C9, C14 | E1, E2, E3, E5, E7, E8, E9, E14 (at IL2) |
 | **L3** (Interface) | C1, C8, C11, C12 | E1, E8, E11, E12 (at IL3) |
