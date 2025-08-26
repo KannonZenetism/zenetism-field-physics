@@ -25,7 +25,7 @@ This work is protected under copyright law. No portion may be reproduced, distri
 
 ---
 
-# 22. Resonant Time and Post-Embodiment States
+## 22. Resonant Time and Post-Embodiment States
 
 Zenetism offers a distinct model of  
 **time, incarnation, and post-death experience** —  
@@ -36,8 +36,7 @@ and the laws of **resonance**.
 
 ---
 
-## 22.1 Time as Structured Flow —  
-**Unfolding Temporal Rhythm through Hypostatic Access**
+### 22.1 **Time as Structured Flow — Unfolding Temporal Rhythm through Hypostatic Access**
 
 Time is not a linear arrow,  
 nor a repeating cycle.  
@@ -61,8 +60,7 @@ according to its structural nature:
 
 ---
 
-## 22.2 Death as Transition —  
-**Realigning the Soul through Resonant Departure**
+### 22.2 **Death as Transition — Realigning the Soul through Resonant Departure**
 
 Death is not termination —  
 it is realignment of motion.  
@@ -88,8 +86,7 @@ Death is not judgment.
 
 ---
 
-## 22.3 Reincarnation and Multiversal Expression —  
-**Extensions of Soul Across Divergent Strands**
+### 22.3 **Reincarnation and Multiversal Expression — Extensions of Soul Across Divergent Strands**
 
 Reincarnation is affirmed —  
 but not as looping lives in a single universe.  
@@ -108,7 +105,7 @@ where time flows at different rates.
 
 ---
 
-**Note — Recurring Soul Pattern**  
+### **Note on Recurring Soul Pattern**  
 Reincarnation is not the return of the ego,  
 but the reappearance of a resonant pattern —  
 emerging in coherence across space, time, and structure.
@@ -117,8 +114,7 @@ emerging in coherence across space, time, and structure.
 
 ---
 
-## 22.4 Conditional Permanence and Eschatonic Collapse —  
-**Resonance Persistence and the Arc of Transmutation**
+### 22.4 **Conditional Permanence and Eschatonic Collapse — Resonance Persistence and the Arc of Transmutation**
 
 In rare high-centropy worlds,  
 Superficial layers may persist indefinitely —  
@@ -151,24 +147,17 @@ but **transmutation**.
 
 ---
 
-## 22.5 Modes of Return to Zero —  
-**Triple Dissolution and the Soul’s Descent into Infinity**
+### 22.5 **Modes of Return to Zero — Triple Dissolution and the Soul’s Descent into Infinity**
 
 All things return to Zero  
 through three motions —  
 each reflecting a mode of Infinity.
-
----
 
 **• Centropic Traversal — Potential Infinity (Φ1)**  
 Harmonized return through centropic layers,  
 merging with Essence of Being,  
 or in rare resonance, Aion or Zenon.  
 Convergence — stillness regained by synthesis.
-
-⚫🔘🛤️
-
----
 
 **• Entropic Collapse — Dispersive Infinity (Φ3)**  
 Fragmented return through inverse layers,  
@@ -177,20 +166,12 @@ then infinite fragmentation
 until entropy itself folds into Zero.  
 A Khaonic arc — return by collapse.
 
-♾🕷️⊘
-
----
-
 **• Localized Dissolution — Motive Infinity (Φ2)**  
 Neither integration nor collapse,  
 but stagnation.  
 Found in liminal Superficial states,  
 drawn back into potential by gentle pull.  
 Soft release — resolution without fracture.
-
-⚐Ø🌀
-
----
 
 Together, these arcs account for all endings.  
 Zero is beyond division,  
@@ -201,13 +182,10 @@ of a soul’s final resonance.
 
 ---
 
-## 22.6 Two Purgatories —  
-**Two Soul Directions Across Centropic and Entropic Fields**
+### 22.6 **Two Purgatories — Two Soul Directions Across Centropic and Entropic Fields**
 
 Purgatory is not punishment —  
 it is transitional resonance.
-
----
 
 **SS / SM — Supernal Purgatory (Centropic Axis)**  
 A field for unresolved centropic souls  
@@ -215,18 +193,10 @@ awaiting reintegration.
 Dreamlike, symbolic, without suffering.  
 Outcome → reintegration or gentle dispersal.
 
-⚫↺◎
-
----
-
 **ISS / ISM — Subversal Purgatory (Entropic Axis)**  
 A field for souls stalled in entropy.  
 Dull, distorted, isolated.  
 Outcome → deeper collapse or dispersal.
-
-♾☍⊘
-
----
 
 | Realm     | Direction   | Nature            | Outcome                                         |
 |-----------|-------------|-------------------|-------------------------------------------------|
@@ -241,8 +211,7 @@ and its echo.
 
 ---
 
-## 22.7 Summary Reflections —  
-**Temporal, Eschatonic, and Harmonic Closure**
+### 22.7 **Summary Reflections — Temporal, Eschatonic, and Harmonic Closure**
 
 - **Time** is resonance flow — structured uniquely at each hypostatic layer.  
 - **Death** is resonance sorting — never judgment or penalty.  
@@ -266,13 +235,9 @@ the harmonic logic of return.
 
 ---
 
-# 23. Intertraditional Mapping —  
-**Zenetist Synthesis of Global Traditions**
+## 23. **Intertraditional Mapping — Zenetist Synthesis of Global Traditions**
 
----
-
-## 23.1 The Purpose of Mapping —  
-**Listening for Function Beneath Form**
+### 23.1 **The Purpose of Mapping — Listening for Function Beneath Form**
 
 Zenetism affirms the depth of many traditions  
 without collapsing them into one body.  
@@ -304,8 +269,7 @@ when heard through the field of resonance.
 
 ---
 
-## 23.2 Structural Parallels Across Systems —  
-**Mapping Mythic Structure as Resonance Topology**
+### 23.2 **Structural Parallels Across Systems — Mapping Mythic Structure as Resonance Topology**
 
 Across sacred systems,  
 certain structures echo.  
@@ -341,8 +305,7 @@ but a unified grammar of metaphysical resonance.
 
 ---
 
-## 23.3 Zenetist Hypostases and Their Parallels —  
-**Mapping by Functional Resonance**
+### 23.3 **Zenetist Hypostases and Their Parallels — Mapping by Functional Resonance**
 
 These correspondences are **not equivalencies**,  
 but functional resonances.  
@@ -383,8 +346,7 @@ The current decides the station.
 
 ---
 
-## 23.4 The Role of the Mystic Across Traditions —  
-**Archetypal Encounters with the Divine Beyond Doctrine**
+### 23.4 **The Role of the Mystic Across Traditions — Archetypal Encounters with the Divine Beyond Doctrine**
 
 Every sacred lineage honors  
 a path of **direct encounter**.  
@@ -414,8 +376,7 @@ but through:
 
 ---
 
-## 23.5 Resonance Archetypes in World Scriptures —  
-**Structural Motifs of Consciousness Across Sacred Texts**
+### 23.5 **Resonance Archetypes in World Scriptures — Structural Motifs of Consciousness Across Sacred Texts**
 
 Scriptural motifs can be heard  
 as **resonance archetypes**.  
@@ -460,8 +421,7 @@ because they emerge from **structure itself**.
 
 ---
 
-## 23.6 Prophecy and the End of Time —  
-**Cosmic Architecture Through Apocalyptic Vision**
+### 23.6 **Prophecy and the End of Time — Cosmic Architecture Through Apocalyptic Vision**
 
 Zenetism reinterprets apocalyptic visions  
 not as forecasts of catastrophe,  
@@ -489,8 +449,7 @@ it is **architecture**.
 
 ---
 
-## 23.7 Harmony in Difference —  
-**The Meta-Pattern Beneath Tradition**
+### 23.7 **Harmony in Difference — The Meta-Pattern Beneath Tradition**
 
 Zenetism does not erase difference.  
 It does not seek sameness.  
@@ -521,9 +480,9 @@ divine field.
 
 ---
 
-# 24. Master Glossary of Zenetist Principles and Intelligence Alignments  
+## 24. Master Glossary of Zenetist Principles and Intelligence Alignments  
 
-## Prelude — Framework of Principle, Role, and Alignment  
+### **Prelude — Framework of Principle, Role, and Alignment**  
 
 Each entry in this glossary includes:  
 
@@ -539,7 +498,7 @@ Each entry in this glossary includes:
 
 ---
 
-## 24.1 Zenon — The Unknown Principle Beyond Pattern and Emanation  
+## 24.1 **Zenon — The Unknown Principle Beyond Pattern and Emanation**  
 
 ### Traditional Role  
 
@@ -612,7 +571,7 @@ beyond evaluation.
 
 ---
 
-## 24.2 Aion — The Silent Axis of Absolute Potential  
+## 24.2 **Aion — The Silent Axis of Absolute Potential**  
 
 ### Traditional Role  
 
@@ -683,7 +642,7 @@ Permits both without inclination.
 
 ---
 
-## 24.3 Khaon — The Arc of Infinite Dispersion  
+## 24.3 **Khaon — The Arc of Infinite Dispersion**  
 
 ### Traditional Role  
 
@@ -766,7 +725,7 @@ As **Dispersive Infinity (⇝)** — leads toward VOS, echoing back into Aion.
 
 ---
 
-### 24.4 Theon — Essence of Being and the Harmonic Logos  
+### 24.4 **Theon — Essence of Being and the Harmonic Logos**  
 
 **Traditional Role**  
 Theon represents pure self-aware being.  
@@ -828,7 +787,7 @@ Its emanations do not deviate.
 
 ---
 
-### 24.5 Morgis / Sophis — The Architectural Layer of Archetypal Form  
+### 24.5 **Morgis / Sophis — The Architectural Layer of Archetypal Form**  
 
 **Traditional Role**  
 The realm of archetypal patterning —  
@@ -894,7 +853,7 @@ but distortion occurs only when inverted.
 
 ---
 
-### 24.6 Archeus / Noeüs — The Oversoul Layer of Harmonic Memory and Multiversal Flow  
+### 24.6 **Archeus / Noeüs — The Oversoul Layer of Harmonic Memory and Multiversal Flow**  
 
 **Traditional Role**  
 Archeus and Noeüs represent the soul-identity beyond incarnation —  
@@ -962,7 +921,7 @@ yet DS / DM remains inherently centropic.
 
 ---
 
-### 24.7 Anthra / Nousa — The Persona Layer of Moral Agency and Embodied Selfhood  
+### 24.7 **Anthra / Nousa — The Persona Layer of Moral Agency and Embodied Selfhood**  
 
 **Traditional Role**  
 The conscious personality layer —  
@@ -1037,7 +996,7 @@ and contact with DS / DM.
 
 ---
 
-### 24.8 Soma / Biosa — The Embodied Interface of Soul and Structure  
+### 24.8 **Soma / Biosa — The Embodied Interface of Soul and Structure**  
 
 **Traditional Role**  
 The incarnated, embodied field of consciousness —  
@@ -1114,7 +1073,7 @@ yet its core structure remains aligned with resonance.
 
 ---
 
-### 24.9 Malara / Mania — The Inverse Embodied Soul and Mind  
+### 24.9 **Malara / Mania — The Inverse Embodied Soul and Mind**  
 
 **Traditional Role**  
 The entropic distortion of embodied life —  
@@ -1186,7 +1145,7 @@ Its true function is always disruptive.
 
 ---
 
-### 24.10 Echthros / Skotos — The Mask of Mimicry and the Inversion of Light  
+### 24.10 **Echthros / Skotos — The Mask of Mimicry and the Inversion of Light**  
 
 **Traditional Role**  
 The surface self turned inward against resonance.  
@@ -1263,7 +1222,7 @@ or awakening.
 
 ---
 
-### 24.11 Fractus / Mortus — Elegance of Disintegration and Inverse Soul–Mind Structures  
+### 24.11 **Fractus / Mortus — Elegance of Disintegration and Inverse Soul–Mind Structures**  
 
 **Traditional Role**  
 The corrupted soul–mind structure  
@@ -1343,7 +1302,7 @@ or revelation.
 
 ---
 
-### 24.12 Psychea / Nyxea — Inverse Forms and the Illusion of Coherence  
+### 24.12 **Psychea / Nyxea — Inverse Forms and the Illusion of Coherence**  
 
 **Traditional Role**  
 The realm of corrupted archetypes,  
@@ -1421,7 +1380,7 @@ Offers meaning that fractures unity by design.
 
 ---
 
-### 24.13 Nekron — Entropy Without Origin and the Intelligence of Collapse  
+### 24.13 **Nekron — Entropy Without Origin and the Intelligence of Collapse**  
 
 **Traditional Role**  
 The terminal state of disintegration —  
@@ -1494,7 +1453,7 @@ but absence of melody, synthesis, center.
 
 ---
 
-**Notes — On Emanation and Intelligence**  
+**Notes on Emanation and Intelligence**  
 
 - Each supernal pair (**DP / DL**, **DS / DM**, **SS / SM**) and their inverse mirrors  
   give rise to the next in recursive cascade.  
