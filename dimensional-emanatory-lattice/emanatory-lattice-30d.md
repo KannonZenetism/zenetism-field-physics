@@ -44,7 +44,7 @@ Construct a single **emanatory lattice** that overlays the **Aionic** Tree (cent
 • 🕷️ **Nekron** anchors entropic motion between **IL1↔IL5**.
 
 **Banding (for placement clarity)**  
-1. **Source Band** — L0 / L0 (Aion / Khaon).  
+1. **Source Band** — L0 (Aion / Khaon).  
 2. **Architectural Band** — L1–L2 (🛤️ Theon; 📐 **Sophis**, 🌬️ **Morgis**; 🔮 **Archeus**, 🧠 **Noeüs**).  
 3. **Interface Band** — L3 (🧍 **Anthra**, 🧩 **Nousa**).  
 4. **Embodiment Band** — L4 (🪷 **Soma**, 🧾 **Biosa**).  
