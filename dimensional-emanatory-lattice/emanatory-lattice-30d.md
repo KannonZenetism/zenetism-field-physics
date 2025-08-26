@@ -178,7 +178,7 @@ Construct a single **emanatory lattice** that overlays the **Aionic** Tree (cent
 
 **E9 ∞⁻ Distorted Entangle** — mimic-unity that isolates.  
 • **Inverse Locus**: IL2.  
-• **Counter-Couplings**: 👁️‍🗨️ Mortus (distorted inference), 🪫 Psychea (adhesive stagnation).
+• **Counter-Couplings**: 👁️‍🗨️ Mortus (spurious inference), 🪫 Psychea (adhesive stagnation).
 
 **E10 ❋⁻ Malform** — distortion at formation.  
 • **Inverse Locus**: IL4.  
