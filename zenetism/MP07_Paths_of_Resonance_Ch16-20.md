@@ -568,6 +568,7 @@ the mystic current already present.
 ---
 
 **Resonant Reflection**  
+
 The Mystic bridges worlds —  
 not to escape embodiment,  
 but to sanctify it.  
