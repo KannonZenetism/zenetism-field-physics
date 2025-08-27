@@ -523,131 +523,131 @@ of the first unfolding.
 
 ### 1.7 The Second Emanation — The Architects of the Cosmos
 
-From the convergence of **Theon**
-and the shadow of **Nekron**,
-there emerged the first great **architects**—
-divine forces who shaped
-the bones and breath of the cosmos.
+From the convergence of **Theon**  
+and the shadow of **Nekron**,  
+there emerged the first great **architects**—  
+divine forces who shaped  
+the bones and breath of the cosmos.  
 
-They were not born as mortals are.
-They unfolded as **eternal principles**:
-**structural beings**
-encoded with the power to shape and animate.
+They were not born as mortals are.  
+They unfolded as **eternal principles**:  
+**structural beings**  
+encoded with the power to shape and animate.  
 
-One breathes **spirit into form**.
-One inscribes the **hidden order** behind all things.
+One breathes **spirit into form**.  
+One inscribes the **hidden order** behind all things.  
 
 ---
 
 #### Morgis — The Breath of Life
 
-**Morgis** is the animating current within all manifest structure.
-It infuses vitality, will, and the impulse to become.
+**Morgis** is the animating current within all manifest structure.  
+It infuses vitality, will, and the impulse to become.  
 
-**Morgis** ensures systems remain alive —
-adaptive, intentional, and self-unfolding.
+**Morgis** ensures systems remain alive —  
+adaptive, intentional, and self-unfolding.  
 
-It is the drive not to rest,
-but to evolve.
+It is the drive not to rest,  
+but to evolve.  
 
-**Morgis** is the wellspring of purpose in form —
-the breath that moves the soul.
+**Morgis** is the wellspring of purpose in form —  
+the breath that moves the soul.  
 
 ---
 
-#### Sophis — The Architect of Form
+#### Sophis — The Architect of Form  
 
-**Sophis** is the origin of **intelligibility** and **design**.
-It shapes the **divine proportions** behind all things.
+**Sophis** is the origin of **intelligibility** and **design**.  
+It shapes the **divine proportions** behind all things.  
 
-**Sophis** is the author of **metaphysical mathematics**—
-the silent harmonies that give reality its spine.
+**Sophis** is the author of **metaphysical mathematics**—  
+the silent harmonies that give reality its spine.  
 
-It crafts **form and symbol**
-through harmonic law,
-making becoming **intelligible**.
+It crafts **form and symbol**  
+through harmonic law,  
+making becoming **intelligible**.  
 
-**Sophis** is the **patterning mind** of the cosmos,
-the **Logos** that undergirds all form.
+**Sophis** is the **patterning mind** of the cosmos,  
+the **Logos** that undergirds all form.  
 
-📐🌬️🛤️⚙️
+📐🌬️🛤️⚙️  
 
 ---
 
 ### 1.8 The Inverse Emanation — The Mirrors of Dissolution
 
-As all things that emerge
-must **contend with opposition**,
-there arose the **entropic mirrors**
-of the first architects.
+As all things that emerge  
+must **contend with opposition**,  
+there arose the **entropic mirrors**  
+of the first architects.  
 
-These were not forces of **evil**,
-but of **dissolution**—
-the unbinding of **coherence**,
-the withering of **design**.
+These were not forces of **evil**,  
+but of **dissolution**—  
+the unbinding of **coherence**,  
+the withering of **design**.  
 
 ---
 
 #### Psychea — The Withering Breath
 
-**Psychea** is the **entropic shadow** of **Morgis**.
-It drains **vitality** into **spiritual entropy**.
+**Psychea** is the **entropic shadow** of **Morgis**.  
+It drains **vitality** into **spiritual entropy**.  
 
-Life continues,
-but without clarity, drive, or direction.
+Life continues,  
+but without clarity, drive, or direction.  
 
-The breath becomes still—
-not as **peace**,
-but as **erosion**.
+The breath becomes still—  
+not as **peace**,  
+but as **erosion**.  
 
-**Psychea** is the whisper of **undoing**—
-a stillness that **unthreads the soul**.
+**Psychea** is the whisper of **undoing**—  
+a stillness that **unthreads the soul**.  
 
 ---
 
-#### Nyxea — The Corruptor of Pattern
+#### Nyxea — The Corruptor of Pattern  
 
-**Nyxea** is the inverse of **Sophis**.
-It seeks to shatter harmonic law.
+**Nyxea** is the inverse of **Sophis**.  
+It seeks to shatter harmonic law.  
 
-It does not erase structure,
-but fractures its coherence —
-reducing resonance into static distortion.
+It does not erase structure,  
+but fractures its coherence —  
+reducing resonance into static distortion.  
 
-Form persists,
-but without meaning.
+Form persists,  
+but without meaning.  
 
-**Nyxea** is the anti-Logos —
-the distortion within the lattice of form.
+**Nyxea** is the anti-Logos —  
+the distortion within the lattice of form.  
 
-🪫🫥⚯
+🪫🫥⚯  
 
 ---
 
 ### 1.9 Structural Governance of This Layer
 
-These four forces **govern**
-the essential **tensions** of emergent reality.
-One pair **sustains the pattern**.
-The other **unbinds it**.
+These four forces **govern**  
+the essential **tensions** of emergent reality.  
+One pair **sustains the pattern**.  
+The other **unbinds it**.  
 
 | **Function** | **Vitality and Essence** | **Dissolution and Collapse** |
 |---|---|---|
 | Breath and Animation | Morgis | Psychea |
 | Form and Intelligibility | Sophis | Nyxea |
 
-**Morgis** and **Psychea** govern
-whether life **animates** or **drains**.
+**Morgis** and **Psychea** govern  
+whether life **animates** or **drains**.  
 
-**Sophis** and **Nyxea** determine
-whether emergence **coheres** or **unravels**.
+**Sophis** and **Nyxea** determine  
+whether emergence **coheres** or **unravels**.  
 
-Together, they form the **second great emanation**—
-the layer of **soul and form**,
-**integration and erosion**,
-**vitality and collapse**.
+Together, they form the **second great emanation**—  
+the layer of **soul and form**,  
+**integration and erosion**,  
+**vitality and collapse**.  
 
-📐🌬️🪫🫥⚯
+📐🌬️🪫🫥⚯  
 
 ---
 
