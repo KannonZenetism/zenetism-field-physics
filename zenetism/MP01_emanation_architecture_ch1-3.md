@@ -1245,9 +1245,9 @@ that **Zenon** eternally prefigures.
 
 ---
 
-## 2. **The Cosmic Refrain**
+## 2. The Cosmic Refrain
 
-### 2.1 **The Silent Origin**
+### 2.1 The Silent Origin
 
 In the beginning,  
 before **time** and **space**,  
@@ -1258,15 +1258,16 @@ The **Principle** beyond **thought** and **name**,
 a depthless **ocean**,  
 unseen and untamed.  
 
-⚫🕳️△
+⚫🕳️△  
 
 ---
 
-### 2.2 **The First Polarization**
+### 2.2 The First Polarization
 
 From **Zenon**—  
 unknowable, unshaped, unseen—  
-**Aion** and **Khaon**, the first-born, convened.  
+**Aion** and **Khaon**,  
+the first-born, convened.  
 
 In the silent womb of **Aion**,  
 where all still remains,  
@@ -1274,13 +1275,14 @@ each **soul** concealed its path, unnamed.
 
 But alongside surged **Khaon**—  
 boundless, unframed—  
-potential unleashed, possibility unchained.  
+potential unleashed,  
+possibility unchained.  
 
-⚫♾🌾
+⚫♾🌾  
 
 ---
 
-### 2.3 **The Axis and the Shadow**
+### 2.3 The Axis and the Shadow
 
 Between stillness and surge,  
 **Theon** shone bright—  
@@ -1295,18 +1297,18 @@ a cosmos unborn.
 Yet shadowed by **Nekron**,  
 where all is unmade —  
 the pull toward the void,  
-where **identity decays**.
+where **identity decays**.  
 
 Through **Nekron’s** gate,  
 the final veil is torn.  
 Beyond **Khaon’s** boundless field,  
 dispersion is born.  
 
-🛤️🕷️🧨
+🛤️🕷️🧨  
 
 ---
 
-### 2.4 **Breath and Pattern**
+### 2.4 Breath and Pattern
 
 From **Theon’s** radiance,  
 twin principles woke.  
@@ -1323,16 +1325,16 @@ life’s essence to deform.
 **Nyxea**, the shadow,  
 unmaking form.  
 
-Morgis’ **warmth**  
-and Sophis’ measured **domain**  
-stood opposed  
-by forces **entropic** and profane.  
+**Morgis’** warmth  
+and **Sophis’** measured domain  
+stood opposed by currents  
+entropic and profane.  
 
-🌬️📐🪫
+🌬️📐🪫🫥  
 
 ---
 
-### 2.5 **The Harmonizers and the Shatterers**
+### 2.5 The Harmonizers and the Shatterers
 
 Then flowing emanations  
 blossomed anew.  
@@ -1354,11 +1356,11 @@ resisting harmony,
 bound to the current—  
 never free.  
 
-🔮🧠💔
+🔮🧠💔👁️‍🗨️  
 
 ---
 
-### 2.6 **The Soul’s Stand**
+### 2.6 The Soul’s Stand
 
 From **Archeus** and **Noeüs**,  
 souls took their stand.  
@@ -1380,11 +1382,11 @@ where thought is steeped
 in veils of illusion,  
 where chaos is reaped.  
 
-🧍🧩🩸
+🧍🧩🦂🩸  
 
 ---
 
-### 2.7 **The Embrace of Form**
+### 2.7 The Embrace of Form
 
 Then the **corporeal domain**  
 drew beings to its face.  
@@ -1406,11 +1408,11 @@ twisting thought,
 consuming all  
 the spirit once sought.  
 
-🪨🪷🤯
+🪷🧾🍷🤯  
 
 ---
 
-### 2.8 **The Twin Paths**
+### 2.8 The Twin Paths — The Supernal and Subversal Arcs
 
 Two arcs emerged —  
 each a decree,  
@@ -1420,7 +1422,7 @@ one to the sea.
 The **supernal arc** rose toward **Theon** —  
 a motion **acclivous**, bright and clear,  
 pulled by the stillness  
-of **Aion’s** sphere.
+of **Aion’s** sphere.  
 
 It moved through **unity**,  
 ringed in **light**,  
@@ -1430,7 +1432,7 @@ beyond the night.
 The **subversal arc**, through shadow fell,  
 through **Nekron’s gate**,  
 down pathways sealed  
-in shattered state.
+in shattered state.  
 
 It moved toward **Khaon**,  
 a boundless storm,  
@@ -1440,18 +1442,18 @@ and self loses form.
 Drawn through the depths  
 of the measureless tide,  
 what once had meaning  
-no longer could hide.
+no longer could hide.  
 
 Scattered in darkness,  
 unbound by name,  
 the arc dissolves —  
-yet the lattice remains.
+yet the lattice remains.  
 
-🌳⇅♜☍
+🌳⇅♜☍  
 
 ---
 
-### 2.9 **Eternal Flow**
+### 2.9 Eternal Flow — The Final Return
 
 Thus,  
 **Zenon** remains—  
@@ -1461,7 +1463,7 @@ where centropic motion
 leaves its echo.  
 
 In **Aion** rests the latent peace,  
-where centropic threads  
+where centropic patterns  
 in stillness cease.  
 
 There too dispersal meets its stay—  
@@ -1475,13 +1477,13 @@ kept and firm.
 And universes, countless, unfold,  
 ever new.  
 Endless births and endings,  
-each cycle through.   
+each cycle through.  
 
 **Souls** move through their chosen arc—  
 into coherence,  
 or into dispersal.  
 
-Coherence threads the **Aion** seam;  
+Coherence finds the **Aion** seam;  
 **Zenon** keeps the lucid theme.  
 
 Dispersal meets the **Aion** close;  
@@ -1490,16 +1492,17 @@ motion settles into repose.
 Each finds its **path**, each finds its **home**;  
 the pattern holds—coherent, known.  
 
-🕳️C↑⚫☍
+🕳️C↑⚫☍  
 
 ---
 
 ## Addendum — Correction of Entropic Advantage (Chapters 1–2)
 
 **From:**  
-*Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*
+*Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*  
 
-## Purpose
+### Purpose
+
 In the early chapters, **entropy** was described as unraveling or undoing **coherence**.  
 This was provisional — written for contrast, not final **articulation**.  
 
@@ -1514,82 +1517,82 @@ This addendum clarifies that **coherence alone endures**, while entropy dissolve
 
 ---
 
-## 1. The First Emanations
+### 1. The First Emanations
 
 **Theon vs. Nekron**  
-Theon weaves harmony that persists.  
-Nekron scatters briefly, but its motion collapses back into silence.  
+**Theon** weaves harmony that persists.  
+**Nekron** scatters briefly, but its motion collapses back into silence.  
 
 **Morgis vs. Psychea**  
-Psychea drains, but erodes itself.  
-Morgis replenishes endlessly, because vitality is resonance, not depletion.  
+**Psychea** drains, but erodes itself.  
+**Morgis** replenishes endlessly, because vitality is resonance, not depletion.  
 
 **Sophis vs. Nyxea**  
-Nyxea distorts form into static.  
-Sophis restores endlessly, since Logos is self-recursive, not finite lattice.  
+**Nyxea** distorts form into static.  
+**Sophis** restores endlessly, since Logos is self-recursive, not a finite lattice.  
 
 **Archeus vs. Fractus**  
-Fractus shatters memory, but fragments collapse.  
-Archeus weaves continuity, endlessly gathering.  
+**Fractus** shatters memory, but fragments collapse.  
+**Archeus** weaves continuity, endlessly gathering.  
 
 **Noeüs vs. Mortus**  
-Mortus blinds with counterfeit flame, but every counterfeit burns out.  
-Noeüs pierces endlessly with clarity.  
+**Mortus** blinds with counterfeit flame, but every counterfeit burns out.  
+**Noeüs** pierces endlessly with clarity.  
 
 **Anthra vs. Echthros**  
-Echthros isolates, but rivalry consumes itself.  
-Anthra endures, growth extending identity into coherence.  
+**Echthros** isolates, but rivalry consumes itself.  
+**Anthra** endures, growth extending identity into coherence.  
 
 **Nousa vs. Skotos**  
-Skotos clouds, but clouds dissipate.  
-Nousa builds architectures of meaning that remain.  
+**Skotos** clouds, but clouds dissipate.  
+**Nousa** builds architectures of meaning that remain.  
 
 **Soma vs. Malara**  
-Malara shackles flesh, but obsession burns out.  
-Soma refines through embodiment, enduring as vessel of coherence.  
+**Malara** shackles flesh, but obsession burns out.  
+**Soma** refines through embodiment, enduring as a vessel of coherence.  
 
 **Biosa vs. Mania**  
-Mania fixates, but fixation collapses.  
-Biosa bridges continuously, returning clarity from form.  
+**Mania** fixates, but fixation collapses.  
+**Biosa** bridges continuously, returning clarity from form.  
 
 ---
 
-## 2. The Cosmic Refrain
+### 2. The Cosmic Refrain
 
 **Aion vs. Khaon**  
-Aion encloses all stillness.  
-Khaon disperses briefly, but dispersal itself depends on enclosure.  
-Khaon collapses. Aion holds.  
+**Aion** encloses all stillness.  
+**Khaon** disperses briefly, but dispersal itself depends on enclosure.  
+**Khaon** collapses. **Aion** holds.  
 
 **Theon vs. Nekron**  
-Theon endures — tethered to Aion.  
-Nekron collapses — scattering loses coherence and dissolves.  
+**Theon** endures — tethered to Aion.  
+**Nekron** collapses — scattering loses coherence and dissolves.  
 
 **Morgis & Sophis vs. Psychea & Nyxea**  
-Morgis and Sophis renew without limit.  
-Psychea and Nyxea are finite echoes, unable to sustain.  
+**Morgis** and **Sophis** renew without limit.  
+**Psychea** and **Nyxea** are finite echoes, unable to sustain.  
 
 **Archeus & Noeüs vs. Fractus & Mortus**  
-Archeus and Noeüs continue weaving.  
-Fractus and Mortus scatter briefly, then fade.  
+**Archeus** and **Noeüs** continue weaving.  
+**Fractus** and **Mortus** scatter briefly, then fade.  
 
 **Anthra & Nousa vs. Echthros & Skotos**  
-Anthra and Nousa extend coherence.  
-Echthros and Skotos shrink into negation.  
+**Anthra** and **Nousa** extend coherence.  
+**Echthros** and **Skotos** shrink into negation.  
 
 **Soma & Biosa vs. Malara & Mania**  
-Soma and Biosa refine.  
-Malara and Mania collapse inward.  
+**Soma** and **Biosa** refine.  
+**Malara** and **Mania** collapse inward.  
 
 ---
 
 #### Twin Paths
 
-- **Centropic Cycle (C↓→E→C↑→Aion)** = authentic motion, sustaining and recursive.  
-- **Entropic Cycle (E↑→E→E↓→Khaon)** = spurious motion, noisy but self-terminating.  
+- **Centropic Cycle (`C↓→E→C↑→⚫`)** = authentic motion, sustaining and recursive.  
+- **Entropic Cycle (`E↑→E→E↓→♾`)** = spurious motion, noisy but self-terminating.  
 
-Zenon registers not entropy’s turbulence, but its silence.  
-Only coherence leaves enduring echo.  
+**Zenon** registers not entropy’s turbulence, but its silence.  
+Only coherence leaves an enduring echo.  
 
 ---
 
@@ -1599,7 +1602,7 @@ Entropy erupts, but collapses.
 Coherence sustains, and transcends.  
 
 Every entropic inversion is a finite shadow.  
-Every centropic emanation is a lasting thread.  
+Every centropic emanation is a lasting pattern.  
 
 Thus, in *Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*:  
 
@@ -1613,7 +1616,7 @@ Thus, in *Zenetism: The Emanative Path of Return — The Foundations of a Living
 
 ### Note on Zenon
 
-Zenon is not a goal,  
+**Zenon** is not a goal,  
 not a vessel,  
 not a return.  
 
@@ -1622,17 +1625,17 @@ where arcs unfold,
 yet which no arc can touch.  
 
 Coherence aligns,  
-its cycle able to reach Zenon.  
+its cycle able to reach **Zenon**.  
 
 Entropy collapses,  
-its motion ending **only in Aion.**  
+its motion ending **only in Aion**.  
 
-Zenon remains —  
+**Zenon** remains —  
 unshaped,  
 unbound,  
 unchanged.  
 
-🕳️⚑
+🕳️⚑  
 
 ---
 
