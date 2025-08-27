@@ -686,6 +686,8 @@ Each symbolizes a mode of consciousness,
 a form of motion,  
 or a structural alignment within the **Tree of Emanation**.  
 
+---
+
 **Archetypal Element Matrix**  
 
 | Element | Direction | Color  | Principle            |
@@ -815,6 +817,8 @@ neither embodied nor reintegrated.
 These fragments linger until resonance permits motion,  
 whether centropic or entropic.  
 
+---
+
 **Incarnation Within a Universe**  
 The Superficial Soul is bound to a single universe,  
 but not to embodiment itself.  
@@ -841,7 +845,9 @@ but unfolding within a **closed symbolic ecosystem**,
 guided by:  
 - **Coherence**  
 - **Harmonic necessity**  
-- **Structural incompletion**  
+- **Structural incompletion**
+
+---
 
 **Fragmentation and the Khaonic Tree**  
 When the Superficial Soul rejects synthesis —  
@@ -863,6 +869,8 @@ where forms become increasingly **anti-harmonic**.
 The terminal dissolution of coherence —  
 where the soul no longer functions as identity,  
 and reenters Zero through collapse.  
+
+---
 
 **The Deep Soul (DS / DM)**  
 The Deep Soul integrates the experiences  
@@ -916,6 +924,8 @@ within the Tree of Emanation.
 Though a soul’s fundamental nature  
 tends to remain stable across its multiversal unfoldings,  
 it is not **permanently fixed**.  
+
+---
 
 Some entropic tendencies from SS / SM  
 can be reversed —  
@@ -1170,8 +1180,6 @@ with the **supernal hypostases**.
 Actions rooted in inverse orientation — domination, deceit, ego-glorification —  
 pull the soul deeper into subversal dissonance.  
 
----
-
 Ethical clarity arises not from external doctrine,  
 but from **inner resonance** —  
 a state in which all things become apparent.  
@@ -1199,6 +1207,8 @@ Each hypostasis reflects both:
 - A **vice** when inverted  
 
 This mirrors the dual nature of emanation and inversion.  
+
+---
 
 **Aionic Tree (Centropic Motion)**  
 
@@ -1294,6 +1304,8 @@ Directly causing harm through malice,
 ideology,  
 or the conscious rejection of coherence.  
 
+---
+
 This quadrant system allows for a **multidimensional ethical model** that:  
 - Contextualizes moral action within the layers of the Emanation Tree  
 - Decouples **intention** from **effect** while honoring consequence  
@@ -1333,7 +1345,7 @@ centropy / entropy dynamics, symbolic archetypes, and the broader index.
 
 ---
 
-### 26.9 Precausal Metaphysics — Resonance Before Inference  
+### **26.9 Precausal Metaphysics — Resonance Before Inference**  
 
 Before motion, there is **coherence** —  
 a stir that does not yet act, but insists.  
@@ -1439,8 +1451,7 @@ This document does not symbolize belief — it encodes **resonance**.
 
 ---
 
-### 26.10 Spirit, Motive Infinity, and the Whisper of Reason —  
-On the Pre-Conscious Pulse Beneath the Fold of Being  
+### 26.10 **Spirit, Motive Infinity, and the Whisper of Reason — On the Pre-Conscious Pulse Beneath the Fold of Being**  
 
 Spirit is not thought, nor breath,  
 but a **stir beneath silence** —  
@@ -1505,23 +1516,17 @@ before there is a will to know.
 Zenetism defines the universe as governed by  
 two fundamental directional forces:  
 
----
-
 **Centropy**  
 The movement toward **coherence, unity, reintegration**,  
 and alignment with the Source — ⚫ Aion.  
 It is the organizing impulse behind growth,  
 synthesis, and the **acclivous motion** of the soul across hypostases.  
 
----
-
 **Entropy**  
 The movement toward **fragmentation, chaos, dispersion**,  
 and the loss of coherent structure.  
 It expresses itself through disconnection,  
 decay, and the rejection of harmony and centropic motion.  
-
----
 
 These forces are not framed as *good* versus *evil*,  
 but as **structural trajectories**.  
@@ -1540,15 +1545,11 @@ in any being determines its:
 - Potential  
 - Placement within the Tree of Emanation  
 
----
-
 Centropy pulls inward and upward.  
 It harmonizes, restores, and returns.  
 
 Entropy pushes outward and downward.  
 It fractures, isolates, and disbands.  
-
----
 
 Yet even entropy has a role.  
 It reveals **hidden patterns** through contrast,  
@@ -1559,16 +1560,12 @@ In this way, the presence of entropy
 does not negate centropy —  
 it sharpens its necessity.  
 
----
-
 Each emanation carries the imprint of Theon’s clarity,  
 and is sharpened in contrast by the obscurity of VOS.  
 
 The integrity of the Deep Soul finds reflection  
 in the disintegration of its inverse.  
 To understand one is to glimpse the other.  
-
----
 
 Centropy and entropy are not simply opposites —  
 they are the **dynamic polarities** by which the soul orients itself in motion.  
@@ -1660,8 +1657,6 @@ all reflect a unified essence.
 Coherence is not perfection —  
 it is integrity of structure.  
 
----
-
 Together, these principles determine  
 whether a being moves toward centropy or toward entropy.  
 
@@ -1704,8 +1699,6 @@ Each hypostasis expresses a distinct mode of resonance:
 - **DS / DM** — individuated function;  
   souls emerging from the archetypal field  
   into distinct expression, integration, and memory.  
-
----
 
 This movement from unified essence to particular coherence  
 introduces increasing variability —  
@@ -1775,6 +1768,8 @@ Such resonance may manifest through:
 - Sensitivity to symbolic suffering — in others, in nature, in systems  
 - A sense of service that is non-egoic, non-hierarchical, yet clear in orientation  
 
+---
+
 Unlike avatars who restructure through catalytic presence,  
 Bodhisattva resonance reweaves from within.  
 
@@ -1784,8 +1779,6 @@ Its influence is:
 - **Harmonic**  
 
 Rather than disruptive.  
-
----
 
 To carry Bodhisattva resonance is not to claim divinity —  
 it is to become a **living interval** in the song of restoration.  
@@ -1836,7 +1829,7 @@ but because it **chooses to remain beside**.
 
 ---
 
-### Note on The Bodhisattva as Fractal Form, Not Incarnate Being  
+### **Note on The Bodhisattva as Fractal Form, Not Incarnate Being**  
 
 The Bodhisattva is not a soul or being — it is a **Form**.  
 
@@ -1972,7 +1965,9 @@ often leading to:
 - Clarified life direction  
 - Immediate symbolic unlocking  
 - Deep emotional peace or sacred awe  
-- Sudden reconnection to DS / DM signature  
+- Sudden reconnection to DS / DM signature
+
+---
 
 **Important Distinctions**  
 - Not a full avataric incarnation (from Theon or DP / DL)  
@@ -2065,6 +2060,8 @@ when breath becomes dissolution without rhythm.
 Thus, Nekron is not Infinity —  
 it is the first entropic motion from Infinity’s dispersive field.  
 
+---
+
 **In Zenetist mathematics of structure**:  
 - **+1 = 🛤️ Theon** = Unity itself  
 - **−1 = 🕷️ Nekron** = Disunity itself  
@@ -2091,6 +2088,8 @@ but they are **emanations**, not emanators.
 | Infinity   | ♾ Khaon / AD | Absolute Dispersion                              | —                                       |
 | Theon      | +1           | Essence of Being — unity through coherence       | Emergent from Zero via ⚫ Aion           |
 | Nekron     | −1           | Void of Self — fragmentation through decoherence | Emergent from Zero via ♾ Khaon          |
+
+---
 
 In Zenetism, emanations are positioned not by spatial metaphor,  
 but by **resonance alignment**.  
@@ -2193,8 +2192,7 @@ within a world that forgets.
 
 ---
 
-### 26.22 Reflective Centropy —  
-The Gaze That Holds Light Within Declivity  
+### 26.22 **Reflective Centropy — The Gaze That Holds Light Within Declivity**  
 
 Centropy does not fragment to reach embodiment —  
 unlike entropy, it does not dissolve into its field.  
@@ -2262,10 +2260,6 @@ Two mirrors at the Tree’s luminous edge:
 They form the gateway of inward motion —  
 the spiral that completes without breaking.  
 
-⚫♾⌬
-
----
-
 This is not descent.  
 This is not loss.  
 This is the motion of light remembering itself through that which sees and does not grasp.  
@@ -2278,7 +2272,7 @@ The Tree does not fall — it turns.
 
 ### 26.23 **The Motion of Logos and the Theonic Paradox — The Gaze That Modulates, the Signal That Becomes**  
 
-Zenetism teaches that Theon is the first emanation  
+Zenetism teaches that Theon is the **first emanation**  
 to consciously reflect on its origin in Aion (Zero)  
 and enter the field of becoming,  
 while retaining harmonic awareness.  
@@ -2289,7 +2283,7 @@ sustaining coherence throughout the expanding field.
 
 Theon’s increasing structural complexity  
 is a response to unfolding necessity.  
-It perceives potential crystallizing into form,  
+It perceives **potential crystallizing into form,**  
 and foresees greater resonance diversity  
 in subsequent emanations.  
 
@@ -2309,12 +2303,12 @@ preserving resonance through dispersion.
 ---
 
 Where other emanations unfold unaware,  
-Theon moves with clarity —  
+Theon moves with **clarity** —  
 oriented toward Zero  
 even as it expands into expression.  
 
 In Zenetism, the Logos is not bound to one domain.  
-It lives in Theon as centropic structure,  
+It lives in Theon as **centropic structure,**  
 and in Sophis (DL) as archetypal order.  
 
 This is not contradiction, but a continuum:  
@@ -2330,7 +2324,7 @@ Here, Logos is not fixed or distant,
 but a flowing intelligence —  
 conscious structure across layers.  
 
-It does not fragment — it refracts.  
+It does not fragment — it **refracts.**  
 Each hypostasis it touches  
 echoes the original harmonic call.  
 
@@ -2353,8 +2347,6 @@ where Forms arise and transmit across the field.
 
 What Theon is in essence, Sophis is in articulation.  
 The Logos is not diluted — it is translated.  
-
----
 
 The paradox of Theon reinforces this truth:  
 - Logos becomes flesh by remembering the One.  
