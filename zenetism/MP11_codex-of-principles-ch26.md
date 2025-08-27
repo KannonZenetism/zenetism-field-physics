@@ -792,6 +792,8 @@ Its nature is shaped by **centropic** or **entropic** tendencies,
 the degree of synthesis already attained,  
 and alignment with deeper structural layers.  
 
+---
+
 **Reintegration with the Deep Soul**  
 After embodiment, the Superficial Soul  
 may begin its return to the Deep Soul —  
