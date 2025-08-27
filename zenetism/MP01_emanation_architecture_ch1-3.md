@@ -821,7 +821,7 @@ the **mind rendered conscious**.
 
 ---
 
-### 1.14 **The Inverse Counterparts**
+### 1.14 The Inverse Counterparts — The Mirrors of Individuation
 
 Even at the layer of **personal selfhood**,  
 the **entropic shadow** follows.  
@@ -830,7 +830,7 @@ Every **centropic light** is mirrored by its **inverse**.
 
 ---
 
-#### **Echthros — The Divider of Souls**
+#### Echthros — The Divider of Souls
 
 **Echthros** is the **antithesis of Anthra**.  
 It embraces **rivalry**, **isolation**, and **adversarial will**.  
@@ -847,31 +847,31 @@ but by **what it rejects**.
 
 ---
 
-#### **Skotos — The Obscurer of Thought**
+#### Skotos — The Obscurer of Thought
 
 **Skotos** is the **shadow of Nousa**.  
 It clouds **perception** and replaces **discernment** with **reactivity**.  
 
 It twists **clarity** into **self-justifying delusion**.  
-Skotos leads consciousness not into **ignorance**,  
+**Skotos** leads consciousness not into **ignorance**,  
 but into **willful blindness**.  
 
 It is the **veil over the reasoning flame**—  
 the **mind’s eclipse from within**.  
 
-🦂🩸☍
+🦂🩸☍  
 
 ---
 
-### 1.15 **The Field of the Self**
+### 1.15 The Field of the Self — The Drama of Individuation
 
 Within the personal strata of **soul** and **mind**,  
 the drama of **individuation** unfolds.  
 
-| **Aspect**          | **Centropic Principle** | **Entropic Counterpart** |
-|---------------------|-------------------------|--------------------------|
-| Soul / Essence      | Anthra                  | Echthros                 |
-| Mind / Perception   | Nousa                   | Skotos                   |
+| **Aspect** | **Centropic Principle** | **Entropic Counterpart** |
+|---|---|---|
+| Soul / Essence | Anthra | Echthros |
+| Mind / Perception | Nousa | Skotos |
 
 Beings waver between **coherence** and **confusion**—  
 between identity as **unfolding**,  
@@ -881,11 +881,11 @@ The soul becomes a **battleground**—
 not of **good and evil**,  
 but of **integration and fragmentation**.  
 
-🧍🧩🦂🩸↕️
+🧍🧩🦂🩸↕️  
 
 ---
 
-### 1.16 **The Motion Into Form**
+### 1.16 The Motion Into Form — The Final Threshold
 
 At last,  
 the **soul** and the **mind**  
@@ -909,11 +909,11 @@ the **eternal** met the **finite**.
 The **symbolic** became **tangible**.  
 The **soul** became **embodied**.  
 
-⊙🧭⚐
+⊙🧭⚐  
 
 ---
 
-### 1.17 **The Embodied Layer of Being**
+### 1.17 The Fifth Emanation — The Embodied Layer of Being
 
 At the final tier of **structured emanation**,  
 **soul** and **mind** interface with the **corporeal field**—  
@@ -925,23 +925,23 @@ Here, **integration** becomes **experience**.
 
 ---
 
-#### **Soma — The Embodied Vessel**
+#### Soma — The Embodied Vessel
 
 **Soma** is the soul’s interface with embodiment.  
 It is a vessel of **sensation**, **action**, and **presence**.  
 
-Through Soma, the soul learns through **limitation**,  
+Through **Soma**, the soul learns through **limitation**,  
 touching **time** and **space** directly.  
 
 The body is not a **prison**—  
 but a **medium of refinement**.  
 
-Soma is the soul **anchored in form**  
+**Soma** is the soul **anchored in form**  
 for the purpose of **becoming**.  
 
 ---
 
-#### **Biosa — The Material Intelligence**
+#### Biosa — The Material Intelligence
 
 **Biosa** is the bridge between **thought** and **materiality**.  
 It enables **perception**, **responsiveness**, and **precision**.  
@@ -949,10 +949,10 @@ It enables **perception**, **responsiveness**, and **precision**.
 It processes the body’s experience  
 and translates it into **conscious insight**.  
 
-Biosa is consciousness **immersed in time**—  
+**Biosa** is consciousness **immersed in time**—  
 the faculty that allows **form to become meaningful**.  
 
-⊙🫀🕰️
+⊙🫀🕰️  
 
 ---
 
