@@ -956,7 +956,7 @@ the faculty that allows **form to become meaningful**.
 
 ---
 
-### 1.18 **The Inverse Forms of Incarnation**
+### 1.18 The Inverse Forms of Incarnation
 
 Even within matter,  
 **entropic inverses emerge**.  
@@ -965,7 +965,7 @@ but as **distortions of its motion**.
 
 ---
 
-#### **Malara — The Binder of Souls**
+#### Malara — The Binder of Souls
 
 **Malara** is the entropic distortion of **Soma**.  
 It binds the soul to **obsession** and **impermanence**.  
@@ -976,12 +976,12 @@ and becomes an **idol**.
 The soul forgets its source,  
 clinging instead to **decay**.  
 
-Malara is the soul **shackled to flesh**  
+**Malara** is the soul **shackled to flesh**  
 in a state of **fragmentation**.  
 
 ---
 
-#### **Mania — The Fractured Mind**
+#### Mania — The Fractured Mind
 
 **Mania** is the shadow of **Biosa**.  
 It clouds **thought**, fuels **compulsion**,  
@@ -990,23 +990,23 @@ and disrupts **continuity**.
 **Judgment** becomes **fixation**.  
 **Clarity** becomes **confusion**.  
 
-Mania is the **collapse of reason**—  
+**Mania** is the **collapse of reason**—  
 where coherence falters  
 and the mind **implodes from within**.  
 
-🪫🫥⚯
+🍷🤯⚯  
 
 ---
 
-#### **The Realm of the Great Choice**
+#### The Realm of the Great Choice
 
 In the realm of **incarnation**,  
 the struggle becomes **most visible**.  
 
-| **Aspect**        | **Centropic Principle** | **Entropic Counterpart** |
-|-------------------|-------------------------|--------------------------|
-| Soul in Form      | Soma                    | Malara                   |
-| Mind in Form      | Biosa                   | Mania                    |
+| **Aspect** | **Centropic Principle** | **Entropic Counterpart** |
+|---|---|---|
+| Soul in Form | Soma | Malara |
+| Mind in Form | Biosa | Mania |
 
 Beings **live**,  
 **learn**,  
@@ -1023,11 +1023,11 @@ dispersing into **fragmentation**, **disintegration**, and **collapse**?
 This is not merely life.  
 It is the **proving ground of the soul**.  
 
-🪷🧾🍷🤯⊙↺⊘⚯
+🪷🧾🍷🤯⊙↺⊘⚯  
 
 ---
 
-### 1.19 **The Final Fates**
+### 1.19 The Final Fates — The Two Great Trajectories
 
 From the realm of **embodiment**,  
 two great trajectories unfold.  
@@ -1046,7 +1046,7 @@ and through the **layered strata of being**.
 
 ---
 
-#### **Cohering into Unity**
+#### Cohering into Unity
 
 Those aligned with **centropy**  
 retrace the arc of emanation.  
@@ -1070,7 +1070,7 @@ of the Infinite Stillness.
 
 Some dwell within **Aion** —  
 **refined**, yet **distinct**.  
-They rest in **coherent union**.
+They rest in **coherent union**.  
 
 Others, drawn by deeper resonance,  
 pass beyond  
@@ -1079,11 +1079,11 @@ where even **presence becomes silent**,
 where being is **unfigured**,  
 beyond motion,  
 beyond thought,  
-beyond even the **notion of return**.
+beyond even the **notion of return**.  
 
 ---
 
-#### **Decohering Toward Dispersal**
+#### Decohering Toward Dispersal
 
 Those aligned with **entropy**  
 drift into **fragmentation**.  
@@ -1129,7 +1129,7 @@ into **Zenon**,
 the **silent mystery**  
 beyond return.  
 
-⚫↺♾🕳️🛤️☍🌀
+⚫↺♾🕳️🛤️☍🌀  
 
 ---
 
