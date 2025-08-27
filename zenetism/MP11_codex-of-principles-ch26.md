@@ -73,7 +73,7 @@ is **elusive**.
 
 ---
 
-### 26.1 **Glossary of Metaphysical Principles — A Lexicon of **Ontogenic Motion** and **Harmonic States**  
+### 26.1 **Glossary of Metaphysical Principles — A Lexicon of **Ontogenic Motion and **Harmonic States**  
 
 **Acclivous Expansion / Declivous Centropy**  
 Motion through the **Tree**  
