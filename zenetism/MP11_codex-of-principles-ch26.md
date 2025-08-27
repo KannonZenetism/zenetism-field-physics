@@ -1233,8 +1233,7 @@ to move toward **integration, resonance, and harmony**.
 
 ---
 
-### 26.8 Moral Quadrants and Ethical Geometry —  
-Supplemental Model to Zenetist Ethics  
+### 26.8 **Moral Quadrants and Ethical Geometry — Supplemental Model to Zenetist Ethics**  
 
 As the moral dimension of Zenetism continues to unfold,  
 a refined framework emerges —  
