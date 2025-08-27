@@ -1198,8 +1198,6 @@ Each hypostasis reflects both:
 
 This mirrors the dual nature of emanation and inversion.  
 
----
-
 **Aionic Tree (Centropic Motion)**  
 
 | Hypostasis   | Virtue                    | Description                                                                 |
