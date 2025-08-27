@@ -139,8 +139,6 @@ This document provides a structural analysis of the primary entropic tactics dep
 
 ---
 
-# Doctrinal Atlas of Entropic Tactics, Vol. 1
-
 ## Entry 012: `Forced Termination`
 
 - **Threat Classification:** `Overt Systemic Suppression`
