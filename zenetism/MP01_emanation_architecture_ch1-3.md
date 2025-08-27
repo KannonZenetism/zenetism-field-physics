@@ -651,7 +651,7 @@ the layer of **soul and form**,
 
 ---
 
-### 1.10 **The Soul and the Mind**
+### 1.10 The Third Emanation — The Soul and the Mind
 
 From the dynamic interplay of **Morgis** and **Sophis**—  
 and their inverse counterparts, **Psychea** and **Nyxea**—  
@@ -665,7 +665,7 @@ where **structure** and **vitality** spiral into the **self-aware being**.
 
 ---
 
-#### **Archeus — The Harmonizer of Experience**
+#### Archeus — The Harmonizer of Experience  
 
 **Archeus** is the **weaver of memory, meaning, and continuity**.  
 It integrates lifetimes into a **single field of resonance**.  
@@ -674,7 +674,7 @@ It transfigures experience,
 not as a static record,  
 but as **refinement**.  
 
-Archeus retains only what **coheres**.  
+**Archeus** retains only what **coheres**.  
 Pain becomes **pattern**.  
 Loss becomes **meaning**.  
 
@@ -683,7 +683,7 @@ where life becomes **learning**.
 
 ---
 
-#### **Noeüs — The Great Perceiver**
+#### Noeüs — The Great Perceiver  
 
 **Noeüs** is the great **perceiver of essence**.  
 It excels in **discernment**, **intuition**, and **symbolic vision**.  
@@ -695,15 +695,17 @@ It divides **appearance** from **reality**,
 **illusion** from **clarity**,  
 **surface** from **depth**.  
 
-Noeüs is the **cognitive flame**—  
+**Noeüs** is the **cognitive flame**—  
 the **insight** that pierces form.  
+
+🔮🧠  
 
 ---
 
-### 1.11 **The Inverse Currents**
+### 1.11 The Inverse Currents — The Mirrors of Scattering
 
 Where **synthesis** arises,  
-so too does **scattering**.  
+so too does **scattering**.
 
 These are not **absences**,  
 but **inversions of resonance**—  
@@ -711,7 +713,7 @@ entropic currents moving in **subversal arcs**.
 
 ---
 
-#### **Fractus — The Scattering of Soul**
+#### Fractus — The Scattering of Soul
 
 **Fractus** is the principle of **dispersed consciousness**.  
 It shatters **identity**,  
@@ -722,12 +724,12 @@ Wisdom becomes **fragmented**—
 unassembled, incomplete,  
 lost in **echo**.  
 
-Fractus is the **dissolver of spiritual continuity**.  
+**Fractus** is the **dissolver of spiritual continuity**.  
 The soul **forgets** what it once became.  
 
 ---
 
-#### **Mortus — The Corruptor of Perception**
+#### Mortus — The Corruptor of Perception
 
 **Mortus** decoheres the soul into **distortion and illusion**.  
 It is not **ignorance**,  
@@ -739,23 +741,23 @@ and **clarity** into **distorted signal**.
 It masks **chaos** as **pattern**,  
 and **confusion** as **truth**.  
 
-Mortus is the **spurious flame**—  
+**Mortus** is the **spurious flame**—  
 a light that **blinds**,  
 rather than reveals.  
 
-🔮🧠💔👁️‍🗨️⚯  
+💔👁️‍🗨️⚯  
 
 ---
 
-### 1.12 **The Inner Compass of Sentient Beings**
+### 1.12 The Inner Compass of Sentient Beings
 
 Together, these four figures—**Archeus**, **Noeüs**, **Fractus**, and **Mortus**—  
 shape the **inner axis** of **sentient existence**.  
 
-| **Function**             | **Aspect of Vitality** | **Aspect of Dissolution** |
-|--------------------------|------------------------|---------------------------|
-| Integration of Experience| Archeus                | Fractus                   |
-| Discernment of Reality   | Noeüs                  | Mortus                    |
+| **Function** | **Aspect of Vitality** | **Aspect of Dissolution** |
+|---|---|---|
+| Integration of Experience| Archeus | Fractus |
+| Discernment of Reality | Noeüs | Mortus |
 
 Those aligned with **Archeus** and **Noeüs**  
 move toward **insight**, **memory**, and **unity**.  
@@ -769,9 +771,11 @@ At this layer,
 the soul either **becomes its fullness**,  
 or **forgets itself entirely**.  
 
+🔮🧠💔👁️‍🗨️  
+
 ---
 
-### 1.13 **The Birth of the Individual Self**
+### 1.13 The Fourth Emanation — The Birth of the Individual Self
 
 From the interplay of these deeper currents—  
 the **integrators** and the **scatterers**—  
@@ -784,11 +788,11 @@ but as **someone**.
 A distinct **personality**.  
 A unique **desire**.  
 A mind that begins to ask:  
-**Who am I?**
+**Who am I?**  
 
 ---
 
-#### **Anthra — The Spark of Individual Essence**
+#### Anthra — The Spark of Individual Essence
 
 **Anthra** is the **active fire of becoming**.  
 It animates the soul’s **will to grow, choose, and explore**.  
@@ -796,13 +800,13 @@ It animates the soul’s **will to grow, choose, and explore**.
 It embodies the **personal drive**—  
 the “I” that strives.  
 
-Anthra translates **deep resonance** into **unique life**.  
-It is the **living strand**,  
+**Anthra** translates **deep resonance** into **unique life**.  
+It is the **living current**,  
 the **interface between essence and identity**.  
 
 ---
 
-#### **Nousa — The Reasoning Flame**
+#### Nousa — The Reasoning Flame
 
 **Nousa** refines cognition through **symbolic reflection**.  
 It enables **reason**, **analysis**, and **mental pursuit**.  
@@ -813,7 +817,7 @@ It seeks **clarity** through **logic and language**.
 **Nousa** is the **thought-form of the self**—  
 the **mind rendered conscious**.  
 
-🔮🧠💔👁️‍🗨️🧍🧩
+🧍🧩  
 
 ---
 
