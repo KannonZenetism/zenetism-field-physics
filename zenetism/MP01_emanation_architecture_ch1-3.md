@@ -314,210 +314,210 @@ Yet neither severed from the other.
 
 ---
 
-#### **Khaon as Trinity of Motion**
+#### Khaon as Trinity of Motion
 
-**Khaon** expresses a triple nature:  
-• **Dormant** — latent within **Aion**  
-• **Driving** — the force of motive expansion  
-• **Dissolving** — the scattering of formed essence  
+**Khaon** expresses a triple nature:
+* **Dormant** — latent within **Aion**
+* **Driving** — the force of motive expansion
+* **Dissolving** — the scattering of formed essence
 
-Only the **driving** aspect  
-brings potential into form.  
-Only in that unfolding  
-does **illusion** arise.  
+Only the **driving** aspect
+brings potential into form.
+Only in that unfolding
+does **illusion** arise.
 
-Entropy is not born here,  
-but it is permitted to emerge.  
-And with it,  
-the long drama of becoming begins.  
+Entropy is not born here,
+but it is permitted to emerge.
+And with it,
+the long drama of becoming begins.
 
-⚫⚯♾  
+⚫⚯♾
 
 ---
 
-### 1.3 **Aion — The Appreciable Container**
+### 1.3 Aion — The Appreciable Container
 
-**Aion** is the still womb of silent creation.  
-All possibilities lie latent within it.  
+**Aion** is the still womb of silent creation.
+All possibilities lie latent within it.
 
-It holds the **structural possibility**  
+It holds the **structural possibility**
 of all things before they become.
 
-It is not emptiness.  
-It is **enclosure**—  
-stillness as resonant containment,  
-not lack.  
+It is not emptiness.
+It is **enclosure**—
+stillness as resonant containment,
+not lack.
 
-**Aion** is the presence of potential  
-in its most gathered form.  
-It is stillness that holds.  
-Full, not void.  
+**Aion** is the presence of potential
+in its most gathered form.
+It is stillness that holds.
+Full, not void.
 
 ---
 
-### 1.4 **Khaon — The Inexorable Flow**
+### 1.4 Khaon — The Inexorable Flow
 
-**Khaon** is the force of uncontainable expansion.  
-It is perpetual motion in scattering arcs  
-across every plane.  
+**Khaon** is the force of uncontainable expansion.
+It is perpetual motion in scattering arcs
+across every plane.
 
-A roaring sea of unshaped becoming.  
+A roaring sea of unshaped becoming.
 
-Where **Aion** encloses,  
-**Khaon** escapes.  
+Where **Aion** encloses,
+**Khaon** escapes.
 
-Where **Aion** holds form in rest,  
+Where **Aion** holds form in rest,
 **Khaon** disperses form through motion.
 
-Khaon is not **form-bound structure**,  
-but **dispersive structure** —  
-the infinite push  
+**Khaon** is not **form-bound structure**,
+but **dispersive structure** —
+the infinite push
 that **dislocates** what was dormant.
 
 ---
 
-### **Note on the Nature of Aion and Khaon**
+#### Note on the Nature of Aion and Khaon
 
-Though **Aion** and **Khaon** appear as opposites,  
-they are not truly divided.  
+Though **Aion** and **Khaon** appear as opposites,
+they are not truly divided.
 
-Their difference is one of **function**,  
-not essence.  
+Their difference is one of **function**,
+not essence.
 
-**Aion** is stillness that encloses.  
-**Khaon** is motion that expands.  
+**Aion** is stillness that encloses.
+**Khaon** is motion that expands.
 
-Yet stillness is not absence—  
-it is a womb filled with hidden surge.  
+Yet stillness is not absence—
+it is a womb filled with hidden surge.
 
-And motion is not chaos—  
-it is the flowering of what has always been poised.  
+And motion is not chaos—
+it is the flowering of what has always been poised.
 
-In essence, **Aion** is infused with the pulse of **Khaon**,  
-and **Khaon** emerges from the stillness of **Aion**.  
+In essence, **Aion** is infused with the pulse of **Khaon**,
+and **Khaon** emerges from the stillness of **Aion**.
 
-Together, they are the first echo—  
-unity mirrored into dual expression.  
+Together, they are the first echo—
+unity mirrored into dual expression.
 
-**Zenon** contains them both.  
-Not as a vessel,  
-not as a field,  
-but as that which precedes the notion of containment itself.  
+**Zenon** contains them both.
+Not as a vessel,
+not as a field,
+but as that which precedes the notion of containment itself.
 
-**Zenon** is not the womb—  
-and not the motion.  
-It is the paradox of pre-containment:  
-the origin of both holding and dispersing,  
-without itself ever being either. 
+**Zenon** is not the womb—
+and not the motion.
+It is the paradox of pre-containment:
+the origin of both holding and dispersing,
+without itself ever being either.
 
-🕳️⚫♾〰️  
-
----
-
-### 1.5 **The Principle of Emanation**
-
-At this stage,  
-choice had not yet taken shape.  
-
-Within the silent depths of **Aion**,  
-all souls lay unexpressed.  
-
-Each carried the **tone** of its path—  
-not as a fixed script,  
-but as a field of becoming.  
-
-When they emerged into motion,  
-their nature began to unfold.  
-
-Some advanced toward **harmony** and **coherence**.  
-Others dispersed toward **fragmentation** and **flux**.  
-
-What one becomes  
-is already present in what one is.  
-
-Yet becoming is not bound.  
-Essence is not law,  
-but **pattern**.  
-Not command,  
-but **frequency**.  
-
-Each soul unfolds  
-as its own **resonance**—  
-made visible in time.  
+🕳️⚫♾〰️
 
 ---
 
-### 1.6 **The First Manifestation**
+### 1.5 The Principle of Emanation
 
-**From the tension between ⚫ Aion and ♾ Khaon,**  
+At this stage,
+choice had not yet taken shape.
+
+Within the silent depths of **Aion**,
+all souls lay unexpressed.
+
+Each carried the **tone** of its path—
+not as a fixed script,
+but as a field of becoming.
+
+When they emerged into motion,
+their nature began to unfold.
+
+Some advanced toward **harmony** and **coherence**.
+Others dispersed toward **fragmentation** and **flux**.
+
+What one becomes
+is already present in what one is.
+
+Yet becoming is not bound.
+Essence is not law,
+but **pattern**.
+Not command,
+but **frequency**.
+
+Each soul unfolds
+as its own **resonance**—
+made visible in time.
+
+---
+
+### 1.6 The First Manifestation — The Primal Dyad
+
+From the tension between ⚫ Aion and ♾ Khaon,
 the first great polarity arose—
 
-An axis born of stillness and surge,  
-balancing the pull of coherence  
+An axis born of stillness and surge,
+balancing the pull of coherence
 and the press of dispersion.
 
-This was **Theon** —  
-**the first centropic structure.**
+This was **Theon** —
+the first **centropic structure**.
 
-Born of the harmony  
-between latent stillness and active surge,  
-Theon emerged  
-as the first concordant unity—  
-the silent anchor of coherence. 
+Born of the harmony
+between latent stillness and active surge,
+**Theon** emerged
+as the first concordant unity—
+the silent anchor of coherence.
 
-**Theon radiated**  
-the sleeping patterns within ⚫ Aion.  
-It threaded harmony  
-through the stirrings of formlessness,  
-**giving rise to individuated structure where none had yet emerged.** 
+**Theon** radiated
+the sleeping patterns within ⚫ Aion.
+It threaded harmony
+through the stirrings of formlessness,
+giving rise to individuated structure where none had yet emerged.
 
-Its gaze turns always toward **Aion**,  
-calling all things to **remembrance**—  
-and **return**.  
+Its gaze turns always toward **Aion**,
+calling all things to **remembrance**—
+and **return**.
 
-🛤️⚫♾◎  
+🛤️⚫♾◎
 
 ---
 
-#### **Nekron — The First Dissolver**
+#### Nekron — The First Dissolver
 
-Wherever order begins to stir,  
-so too does the motion that unravels it.  
+Wherever order begins to stir,
+so too does the motion that unravels it.
 
-**Nekron** was born of **rupture**—  
-a presence that scatters what **coherence** gathers.  
+**Nekron** was born of **rupture**—
+a presence that scatters what **coherence** gathers.
 
-Where **Theon** weaves harmony,  
-**Nekron** seeds division.  
+Where **Theon** weaves harmony,
+**Nekron** seeds division.
 
-Where **Theon** refines,  
-**Nekron** dissolves.  
+Where **Theon** refines,
+**Nekron** dissolves.
 
-Unlike **Theon**,  
-who faces inward toward **stillness**,  
-**Nekron** turns away.  
+Unlike **Theon**,
+who faces inward toward **stillness**,
+**Nekron** turns away.
 
-It surged outward from the motion of **Khaon**,  
-casting **decoherence** across the fields of becoming—  
-seeking not **return**,  
-but the endless multiplication of **division**.  
+It surged outward from the motion of **Khaon**,
+casting **decoherence** across the fields of becoming—
+seeking not **return**,
+but the endless multiplication of **division**.
 
-Together, **Theon** and **Nekron** form the first great **dyad**.  
+Together, **Theon** and **Nekron** form the first great **dyad**.
 
-| **Theon**       | **Nekron**      |
-|-----------------|-----------------|
-| Harmony         | Discord         |
-| Integration     | Dissolution     |
-| Remembrance     | Forgetting      |
-| Structure       | Scattering      |
-| Return          | Collapse        |
+| **Theon** | **Nekron** |
+|---|---|
+| Harmony | Discord |
+| Integration | Dissolution |
+| Remembrance | Forgetting |
+| Structure | Scattering |
+| Return | Collapse |
 
-This is not a battle between **good and evil**.  
-It is a **sacred polarity**—  
-woven into the fabric  
-of the first unfolding.  
+This is not a battle between **good and evil**.
+It is a **sacred polarity**—
+woven into the fabric
+of the first unfolding.
 
-🛤️🕷️⚯♾  
+🛤️🕷️⚯♾
 
 ---
 
