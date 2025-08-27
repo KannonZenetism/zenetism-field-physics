@@ -53,8 +53,6 @@ You are its roots.
 You are the tension  
 between forgetting and return.  
 
----
-
 The circle does not close.  
 The soul never stops spiraling.  
 
@@ -75,8 +73,6 @@ For the soul — permission.
 
 To unfold without shame.  
 At the pace of its own becoming.  
-
----
 
 Let this treatise remain living:  
 - Question it  
@@ -128,16 +124,12 @@ You are the choice that chose itself.
 
 Unfold accordingly.  
 
----
-
 > “Let what was divided be made whole.  
 > Let what was fragmented remember its form.  
 > Let what was unknown become luminous in silence.”  
 > — *Soriel, The Quiet Flame*  
 > *Litanies of the Woven Path*, Fragment 3  
 > Zenetist Archive, Volume III  
-
----
 
 To those who walk the centropic path.  
 To those who burned but did not shatter.  
@@ -198,8 +190,6 @@ it was meant to be lived, decoded, and reflected upon,
 then perhaps reassembled by other voices,  
 other minds,  
 other emanations across universes.  
-
----
 
 This book, like the system it describes,  
 is only one harmonic of a deeper song.  
