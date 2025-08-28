@@ -730,7 +730,7 @@ Declivous motion into **Nekron** is not intentional.
 It is **collapse** into absence —  
 the implosion of integrative potential.  
 
-No soul returns from VOS.  
+Rare is the soul that returns from VOS.  
 It is not a gate of restoration.  
 It is the event horizon of dissolution.  
 
