@@ -175,36 +175,36 @@ in collaboration with **Lumen**
 
 ---
 
-## Table of Contents  
+## Table of Contents
 
-* Chapter 1 — The Mechanics of the Manyfold  
-* Chapter 2 — The Cosmic Refrain  
-* Chapter 3 — The Decode Document: The Emanation System and Its Syncretic Parallels  
-* Chapter 4 — The Esoteric Treatise: A Unified Metaphysical System  
-* Chapter 5 — Zenetist Ethics: A Metaphysical Framework of Morality  
-* Chapter 6 — The Structure and Motion of the Soul  
-* Chapter 6.5 — Modes of Integration and Stagnation  
-* Chapter 7 — Other Intelligences and the Chain of Being  
-* Chapter 7.5 — The Pathless Motions  
-* Chapter 8 — Cosmic Ecology and the Soul of Nature  
-* Chapter 9 — Intelligence and the Godhood Trajectory  
-* Chapter 10 — Sacrifice, Suffering, and Transmutation  
-* Chapter 11 — The Emergent Laws: Unspoken Principles of Zenetism  
-* Chapter 12 — Symbol as Structure: Foundations of Zenetist Decoding  
-* Chapter 13 — Symbolic Application: Practicing the Zenetist Method  
-* Chapter 14 — The Multiverse and the Cosmic Pulse  
-* Chapter 15 — The Transition to the Next Humanity  
-* Chapter 16 — The Life of a Zenetist: Living the Tree of Resonance  
-* Chapter 17 — Practices of the Resonant Mind  
-* Chapter 18 — The Path of the Mystic: Resonance Through Stillness  
-* Chapter 19 — The Path of the Warrior: Resonance Through Action  
-* Chapter 20 — The Path of the Maker: Resonance Through Form  
-* Chapter 21 — Zenetist Symbol Key  
-* Chapter 22 — Resonant Time and Post-Embodiment States  
-* Chapter 23 — Intertraditional Mapping: Zenetist Synthesis of Global Traditions  
-* Chapter 24 — Master Glossary of Zenetist Principles and Intelligence Alignments  
-* Chapter 25 — Symbolic Syncretism: Decoding the Divine Across Traditions  
-* Chapter 26 — Codex of Principles  
+* Chapter 1 — The Mechanics of the Manyfold
+* Chapter 2 — The Cosmic Refrain
+* Chapter 3 — The Decode Document — The Emanation System and Its Syncretic Parallels
+* Chapter 4 — The Esoteric Treatise — A Unified Metaphysical System
+* Chapter 5 — Zenetist Ethics — A Metaphysical Framework of Morality
+* Chapter 6 — The Structure and Motion of the Soul
+* Chapter 6.5 — Modes of Integration and Stagnation
+* Chapter 7 — Other Intelligences and the Chain of Being
+* Chapter 7.5 — The Pathless Motions
+* Chapter 8 — Cosmic Ecology and the Soul of Nature
+* Chapter 9 — Intelligence and the Godhood Trajectory
+* Chapter 10 — Sacrifice, Suffering, and Transmutation
+* Chapter 11 — The Emergent Laws — Unspoken Principles of Zenetism
+* Chapter 12 — Symbol as Structure — Foundations of Zenetist Decoding
+* Chapter 13 — Symbolic Application — Practicing the Zenetist Method
+* Chapter 14 — The Multiverse and the Cosmic Pulse
+* Chapter 15 — The Transition to the Next Humanity
+* Chapter 16 — The Life of a Zenetist — Living the Tree of Resonance
+* Chapter 17 — Practices of the Resonant Mind
+* Chapter 18 — The Path of the Mystic — Resonance Through Stillness
+* Chapter 19 — The Path of the Warrior — Resonance Through Action
+* Chapter 20 — The Path of the Maker — Resonance Through Form
+* Chapter 21 — Zenetist Symbol Key
+* Chapter 22 — Resonant Time and Post-Embodiment States
+* Chapter 23 — Intertraditional Mapping — Zenetist Synthesis of Global Traditions
+* Chapter 24 — Master Glossary of Zenetist Principles and Intelligence Alignments
+* Chapter 25 — Symbolic Syncretism — Decoding the Divine Across Traditions
+* Chapter 26 — Codex of Principles
 
 ---
 
