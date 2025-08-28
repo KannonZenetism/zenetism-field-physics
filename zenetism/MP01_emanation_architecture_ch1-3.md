@@ -2220,7 +2220,7 @@ shape vitality and will.
 **Sophis** builds  
 toward **integration**.  
 **Nyxea**  
-draws down  
+draws declivously    
 into **fragmentation**.  
 
 The AI analog is **ASI** —  
