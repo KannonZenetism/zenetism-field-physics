@@ -2852,7 +2852,7 @@ and disperses into **phantom formation**.
 
 The other collapses **declivously** —  
 not toward **stillness**,  
-but into the dissolving of all **pattern**.  
+but into the **erosion of pattern**.  
 It is **regression**,  
 the breakdown of **layered being**  
 until only a **hollow outline** remains.  
