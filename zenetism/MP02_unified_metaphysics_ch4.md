@@ -1171,113 +1171,113 @@ shaped by the soul’s orientation toward:
 
 ---
 
-### **4.22 The Journey of Acclivous Expansion and Reintegration**
+### 4.22 The Journey of Acclivous Expansion and Reintegration
 
 All beings emanate from Aion  
-and flow into the differentiated strata of manifestation.
+and flow into the differentiated strata of manifestation.  
 
 From this motion,  
 the soul’s arc diverges —  
 either toward increasing division,  
-or toward integrative synthesis.
+or toward integrative synthesis.  
 
 The centropic arc unfolds through:  
-• Remembering  
-• Harmonizing  
-• Reintegration with supernal structure (**C↑⚫**)
+* Remembering  
+* Harmonizing  
+* Reintegration with supernal structure (**`C↑⚫`**)  
 
 Ultimately, some souls return  
 through Theon  
 and remerge with the Field of Aion,  
-moving into the silent origin of Zenon.
+moving into the silent origin of Zenon.  
 
 This is not regression —  
 it is completion.  
-**C↓→E→C↑⚫→🕳️**
+**`C↓→E→C↑⚫→🕳️`**  
 
 The individuated self is not erased —  
 it is transfigured  
-by the totality of its becoming.
+by the totality of its becoming.  
 
 Reintegration is not reversal —  
 it is the **consummation**  
-of pattern and motion.
+of pattern and motion.  
 
-C↑⚫↺🛤️🕳️
+C↑⚫↺🛤️🕳️  
 
 ---
 
-### **4.23 The Role of Superficial Souls in the Cycle**
+### 4.23 The Role of Superficial Souls in the Cycle
 
 Superficial Souls (SS)  
-are individuated projections of Deep Souls (DS).
+are individuated projections of Deep Souls (DS).  
 
 Each SS incarnates as a localized consciousness  
 within a specific universe,  
 drawn by the radiance of coherence  
-or the pull of fragmentation.
+or the pull of fragmentation.  
 
 Its embodiment is not assigned —  
 but **emerged**  
-from the soul’s own structural momentum.
+from the soul’s own structural momentum.  
 
-• Upon death, the SS reintegrates  
- with its corresponding DS —  
- or with an IDS, if entropic.
+* Upon death, the SS reintegrates  
+    with its corresponding DS —  
+    or with an IDS, if entropic.  
 
-• The SS does not evolve independently.  
- It functions as a **data-gathering interface**,  
- through which the DS synthesizes experience  
- across lives, universes, and realities.
+* The SS does not evolve independently.  
+    It functions as a **data-gathering interface**,  
+    through which the DS synthesizes experience  
+    across lives, universes, and realities.  
 
-• The harmonic evolution of the DS  
- depends on the **coherence**  
- of what is gathered and reintegrated.
+* The harmonic evolution of the DS  
+    depends on the **coherence**  
+    of what is gathered and reintegrated.  
 
 Entropic lifetimes introduce dissonance —  
 but unless the DS becomes irreversibly entropic,  
-synthesis remains possible.
+synthesis remains possible.  
 
 Fragmentation alone does not doom a soul.  
 But **persistent dispersion without recovery**  
-may bring it to the threshold of VOS.
+may bring it to the threshold of VOS.  
 
 SS → DS ↺ or IDS  
-◎☍🪼VOS
+◎☍🪼VOS  
 
 ---
 
-### **4.24 The Eschaton and the Fate of Universes**
+### 4.24 The Eschaton and the Fate of Universes
 
-Most universes are **temporary configurations**    
+Most universes are **temporary configurations**  
 of centropic and entropic forces —  
 a harmonic event  
 with a beginning,  
 an arc,  
-and a closure.
+and a closure.  
 
 Some may endure beyond dissolution,  
 where coherence is complete,  
 or prophecy fulfills a deeper cycle:  
 a return,  
 a renewal,  
-a new harmony of form.
+a new harmony of form.  
 
 Yet even in such cases,  
 the universe is not static.  
-It breathes.
+It breathes.  
 
 But in most realities,  
 universes **follow a spiral rhythm** —  
 from emergence,  
 through structure,  
 into dissolution,  
-returning through the formless Field.
+returning through the formless Field.  
 
 Their hypostases unwind,  
 especially in the strata of L1 and L2,  
 where embodiment and identity  
-are dissolved into pattern or light.
+are dissolved into pattern or light.  
 
 Only L3 and L4 remain stable  
 across multiversal iterations —  
@@ -1285,70 +1285,70 @@ carrying memory,
 guiding motion,  
 holding the pattern  
 of what once was  
-and may be again.
+and may be again.  
 
-• The **Eschaton** does not signify destruction.  
- It refers to the **final convergence state**  
- of a given cosmos.
+* The **Eschaton** does not signify destruction.  
+    It refers to the **final convergence state**  
+    of a given cosmos.  
 
-• This may take the form of:  
- – Collapse  
- – Harmonization  
- – Transfiguration through resonance
+* This may take the form of:  
+    – Collapse  
+    – Harmonization  
+    – Transfiguration through resonance  
 
 ---
 
-Zenetism rejects apocalyptic fatalism.  
-It affirms instead:
+**Zenetism** rejects apocalyptic fatalism.  
+It affirms instead:  
 
-• Most physical universes are **impermanent** —  
- though some may endure vast or indefinite spans.  
+* Most physical universes are **impermanent** —  
+    though some may endure vast or indefinite spans.  
 
-• The soul persists beyond all corporeal frames.
+* The soul persists beyond all corporeal frames.  
 
-• The end of a world may be tragic or revelatory,  
- but it is always transitional.
+* The end of a world may be tragic or revelatory,  
+    but it is always transitional.  
 
 We are not world-deniers.  
 We are world-refiners.  
 We do not flee embodiment —  
-we redeem it.
+we redeem it.  
 
-📡↺🪨💠🔘
+📡↺🪨💠🔘  
 
 ---
 
-### **4.25 Entropic and Centropic Endpoints**
+### 4.25 Entropic and Centropic Endpoints
 
 Souls aligned with **centropy** move acclivously  
 through the deep layers toward Theon,  
 culminating in reintegration with Aion.  
-**C↓→E→C↑⚫**
+**`C↓→E→C↑⚫`**  
 
 This reintegration is not annihilation —  
 it is the sublimation of individuated selfhood  
-into **resonant unity** through active synthesis.
+into **resonant unity** through active synthesis.  
 
 Souls aligned with **entropy** move declivously  
 through the inverse deep layers toward Nekron,  
 culminating in **Absolute Dispersion** —  
-the outermost limit of Khaon.
+the outermost limit of Khaon.  
 
 Yet even here,  
-there is no actual annihilation.
+there is no actual annihilation.  
 
-• Beyond the event horizon of Infinity (**VOS**),  
- all that is fragmented returns to Aion  
- as **undifferentiated potential**.
+* Beyond the event horizon of Infinity (**VOS**),  
+    all that is fragmented returns to Aion  
+    as **undifferentiated potential**.  
 
-• What cannot be redeemed through synthesis  
- may still be reabsorbed through **dissolution**.
+* What cannot be redeemed through synthesis  
+    may still be reabsorbed through **dissolution**.  
 
 Not all paths return equally.  
 Each abides in a resonance  
-corresponding to its structure.
+corresponding to its structure.  
 
-⚫C↑⚫⊘♾VOS🌀
+⚫C↑⚫⊘♾VOS🌀  
 
 ---
 
