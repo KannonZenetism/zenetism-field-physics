@@ -738,215 +738,215 @@ It is the event horizon of dissolution.
 
 ---
 
-### **4.10 From Collapse, Only Khaon Remains**
+### 4.10 From Collapse, Only Khaon Remains
 
 From there, only **Khaon** remains:  
-**E↑→E→E↓→♾**
+**`E↑→E→E↓→♾`**  
 
 The boundless dispersal  
-of what once was.
+of what once was.  
 
-This declivous collapse (**E↓♾**)  
+This declivous collapse (**`E↓♾`**)  
 is not guided.  
-Not desired.
+Not desired.  
 
 It is a natural consequence  
-of sustained fragmentation.
+of sustained fragmentation.  
 
 It is not punishment.  
 It is not judgment.  
 It is the loss of structural viability —  
 the soul’s inability to hold itself  
-within the wider harmony of existence.
+within the wider harmony of existence.  
 
 Entropy does not decohere by rebellion —  
-it decays by unraveling.
+it decays by unraveling.  
 
 Unlike centropy,  
-which expands through volition and synthesis (**C↑⚫**),  
-entropy collapses through disintegration.
+which expands through volition and synthesis (**`C↑⚫`**),  
+entropy collapses through disintegration.  
 
-And yet — both reflect the same deeper principle:
+And yet — both reflect the same deeper principle:  
 
 All that is structured within **Aion**  
-must unfold.
+must unfold.  
 
 The trajectory of a being  
 is inscribed in its pattern of emanation,  
 long before its first act,  
 first thought,  
-or breath.
+or breath.  
 
-♾E↓♾⊘🌒
+♾E↓♾⊘🌒  
 
 ---
 
-### **4.11 Why Centropic Motion Toward Embodiment Happens (Without “Wanting”)**
+### 4.11 Why Centropic Motion Toward Embodiment Happens
 
-Centropic motion toward embodiment (**C↓→E**)  
+Centropic motion toward embodiment (**`C↓→E`**)  
 is often misunderstood as a fall,  
 a failure,  
-or a mission.
+or a mission.  
 
-In essence, it is none of the above.
+In essence, it is none of the above.  
 
 This **declivous centropy** is a structural unfolding —  
-not a moral deviation.
+not a moral deviation.  
 
 It occurs not because the soul desires disunity,  
 but because it arises  
 as a **necessary emergence of potential**  
-within the **Zerotonic Field**.
+within the **Zerotonic Field**.  
 
-C↓→E⚐🔘
+C↓→E⚐🔘  
 
 ---
 
-### **4.12 Key Principles on Entropic and Centropic Motion**
+### 4.12 Key Principles — On Entropic and Centropic Motion
 
-• **Aion** contains all possibilities.  
- Emanations from Aion are not chosen by individuated souls.  
- They unfold as expressions of what *can be*.
+* **Aion** contains all possibilities.  
+    Emanations from Aion are not chosen by individuated souls.  
+    They unfold as expressions of what *can be*.  
 
 The initial motion is not a decision —  
-it is **structural orientation**.
+it is **structural orientation**.  
 
 According to the **Principle of Sufficient Reason (PSR)**:  
 If something can unfold,  
 and no deeper harmony forbids it,  
-then it will.
+then it will.  
 
 This is not compulsion —  
-it is **ontological inevitability**.
+it is **ontological inevitability**.  
 
 ---
 
-• **Theon** looks toward Aion, not its progeny.  
- Even centropic intelligences do not visualize future states.  
- They do not project —  
- they simply unfold what they are.
+* **Theon** looks toward Aion, not its progeny.  
+    Even centropic intelligences do not visualize future states.  
+    They do not project —  
+    they simply unfold what they are.  
 
-Declivous centropy (**C↓→E**) is not selected —  
-it is revealed through alignment.
+Declivous centropy (**`C↓→E`**) is not selected —  
+it is revealed through alignment.  
 
-• **Embodiment** is not a mission —  
- it is a condition.
+* **Embodiment** is not a mission —  
+    it is a condition.  
 
 Beings differentiate through form,  
 not to fulfill a task,  
-but because multiplicity requires limitation.
+but because multiplicity requires limitation.  
 
 **Fragmentation** is the cost of manifesting,  
-not a flaw.
+not a flaw.  
 
-• **Centropy** does not mean perpetual acclivous expansion (**C↑⚫**).  
- It means **integration**, regardless of direction.
+* **Centropy** does not mean perpetual acclivous expansion (**`C↑⚫`**).  
+    It means **integration**, regardless of direction.  
 
-A soul may move into form (**C↓→E**)  
-and still retain coherence.
+A soul may move into form (**`C↓→E`**)  
+and still retain coherence.  
 
 Motion toward embodiment is not exile —  
 it is part of the arc:  
-**C↓→E→C↑→⚫**
+**`C↓→E→C↑→⚫`**  
 
-• **Ignorance** is not a moral flaw.  
- It is a **metaphysical veil**.  
- Forgetfulness is not chosen —  
- it is attenuation.
+* **Ignorance** is not a moral flaw.  
+    It is a **metaphysical veil**.  
+    Forgetfulness is not chosen —  
+    it is attenuation.  
 
 A natural consequence  
 of moving away from **Aion**.  
 Not punishment,  
-but **ontological thinning**.
+but **ontological thinning**.  
 
-⚫C↓→E⚐🛤️🧭
+⚫C↓→E⚐🛤️🧭  
 
 ---
 
-### **4.13 Structural Synthesis — On Motion, Emergence, and Collapse**
+### 4.13 Structural Synthesis — On Motion, Emergence, and Collapse
 
-• Souls do not become embodied to learn.  
- They unfold into embodiment  
- because the structure of reality generates it.
+* Souls do not become embodied to learn.  
+    They unfold into embodiment  
+    because the structure of reality generates it.  
 
 It is not an act of personal will,  
-but the **emergence of will** through resonance.
+but the **emergence of will** through resonance.  
 
-• Not all centropic beings are expanding acclivously (**C↑⚫**).  
- Many are simply manifesting.  
- And manifestation requires **declivous centropy** (**C↓→E**).
+* Not all centropic beings are expanding acclivously (**`C↑⚫`**).  
+    Many are simply manifesting.  
+    And manifestation requires **declivous centropy** (**`C↓→E`**).  
 
-• Return is not reversal.  
- It is **reintegration** —  
- the soul’s restoration of coherence  
- after sufficient structural diversification.
+* Return is not reversal.  
+    It is **reintegration** —  
+    the soul’s restoration of coherence  
+    after sufficient structural diversification.  
 
-⚫🌀C↓→E↺◎
+⚫🌀C↓→E↺◎  
 
 ---
 
-### **Note on Acclivous Entropy (The Inverse Motion)**
+#### Note on Acclivous Entropy (The Inverse Motion)
 
 This is not a **veracious** expansion.  
 **Entropy cannot integrate.**  
 It cannot synthesize.  
-It cannot return through resonance.
+It cannot return through resonance.  
 
 Yet some **entropic motions** imitate the arc of centropy —  
 simulating coherent motion,  
-while amplifying dissonance.
+while amplifying dissonance.  
 
-This is **acclivous entropy** (**E↑→E**).  
+This is **acclivous entropy** (**`E↑→E`**).  
 It reflects coherence,  
 but radiates entropy —  
-masking collapse as elevation.
+masking collapse as elevation.  
 
 A motion not toward unity,  
-but toward finer gradients of fragmentation.
+but toward finer gradients of fragmentation.  
 
-☍E↑→E⊘🔻
-
----
-
-### **4.14 Characteristics of Acclivous Entropy**
-
-• Inverse principles may move acclivously  
- into subtler strata —  
- not to unify,  
- but to dominate, distort, or veil.
-
-• These movements generate the appearance  
- of order or refinement —  
- but this is **fallacious structure**,  
- a superficial coherence masking entropy.
-
-• The result is not healing,  
- but the refinement of disintegration.  
- A **spurious resonance** masquerading as synthesis.
-
-**E↑→E ≠ C↑⚫**
-
-♜⚙️🌀E↑→E⊘
+☍E↑→E⊘🔻  
 
 ---
 
-### **4.15 VOS and the Culmination of Acclivous Entropy**
+### 4.14 Characteristics of Acclivous Entropy
 
-VOS is the **limit-point** of this inverted arc.  
+* Inverse principles may move acclivously  
+    into subtler strata —  
+    not to unify,  
+    but to dominate, distort, or veil.  
+
+* These movements generate the appearance  
+    of order or refinement —  
+    but this is **fallacious structure**,  
+    a superficial coherence masking entropy.  
+
+* The result is not healing,  
+    but the refinement of disintegration.  
+    A **spurious resonance** masquerading as synthesis.  
+
+**`E↑→E ≠ C↑⚫`**  
+
+♜⚙️🌀E↑→E⊘  
+
+---
+
+### 4.15 VOS and the Culmination of Acclivous Entropy
+
+**VOS** is the **limit-point** of this inverted arc.  
 It does not reach for Khaon —  
-it turns away from it.
+it turns away from it.  
 
 And yet,  
-VOS still enables collapse into Khaon  
+**VOS** still enables collapse into Khaon  
 through unchecked dispersion  
-and structural instability.
+and structural instability.  
 
-Thus, the so-called acclivous motion of entropy (**E↑→E**)  
+Thus, the so-called acclivous motion of entropy (**`E↑→E`**)  
 is not elevation.  
 It is **expansion without coherence**,  
-**motion without meaning**.
+**motion without meaning**.  
 
-🕷️E↑→E⊘🪼
+🕷️E↑→E⊘🪼  
 
 ---
 
