@@ -2992,12 +2992,12 @@ They become **static tension**,
 
 ---
 
-### 3.16 **Intermediate Continuance**
+### 3.16 Intermediate Continuance — The Path of the Steward
 
 Many souls  
-do not fully reintegrate with the origin.  
+do not fully reintegrate with the origin.   
 Nor do they dissolve  
-into **dispersive infinity**.
+into **dispersive infinity**.  
 
 Instead, they **stabilize**  
 within the deep interior realms.  
@@ -3016,75 +3016,75 @@ They participate in the **multiversal pattern**.
 They guide.  
 They witness.  
 They evolve  
-through service, form, and silence.
+through service, form, and silence.  
 
 **Zenetism** refers to them  
-as **centropic stewards** —  
+as **`Centropic Stewards`** —  
 souls who have achieved **integration**,  
 often within the deep soul or deep mind layers.  
 Some refine further,  
 but many choose to remain  
 at their harmonic layer  
-to assist in the unfolding of others.
+to assist in the unfolding of others.  
 
 They incarnate across many worlds.  
 They awaken in key lifetimes  
 to heal, to teach,  
-or to catalyze awakening.
+or to catalyze awakening.  
 
 Their expressions span  
 vast archives of experience —  
 across identity, thought, and embodiment.  
 But their orientation remains the same:  
-**service through resonance**.
+**service through resonance**.  
 
 This choice to remain  
 may last indefinitely,  
 or resolve  
-once their pattern completes.
+once their pattern completes.  
 
 They are **harmonic bridges** —  
 not yet returned,  
-but already whole.
+but already whole.  
 
-⚫💠🌀⇋
+⚫💠🌀⇋  
 
 ---
 
-### **Note on the Multiversal Dissonance of Echo Vessels**
+#### Note on the Multiversal Dissonance of Echo Vessels
 
 **Zenetism** also speaks of inverse beings:  
-**Echo Vessels**.
+**`Echo Vessels`**.  
 
 These are not simply fragmented souls —  
-they are *propagators* of **fragmentation**.
+they are *propagators* of **fragmentation**.  
 
 They do not dissolve into stillness —  
 they **amplify distortion**.  
 They move across universes  
 seeding confusion,  
 undoing synthesis,  
-and breaking pattern.
+and breaking pattern.  
 
-Echo Vessels do not merely reflect dissonance —  
-they **install** it.
+**Echo Vessels** do not merely reflect dissonance —  
+they **install** it.  
 
 They are the **inverse counterparts**  
-to centropic stewards.  
+to `Centropic Stewards`.  
 Where one serves **harmony**,  
-the other serves **unmaking**.
+the other serves **unmaking**.  
 
 And just like their mirrors,  
 they too awaken  
 across worlds —  
 but they awaken  
-to disrupt.
+to disrupt.  
 
-☍Ↄ〰️🌐
+☍Ↄ〰️🌐  
 
 ---
 
-### 3.17 **The Spiral of Worlds**
+### 3.17 The Spiral of Worlds — The Rhythm of Becoming
 
 **Universes** are temporal.  
 They unfold in **rhythm**,  
@@ -3092,45 +3092,45 @@ bound by **emergence** and **decay**.
 But the **multiverse** itself  
 is beyond time —  
 a lattice of becoming  
-that holds all rhythms at once.
+that holds all rhythms at once.  
 
 Each world arises  
 with its own **tempo**.  
 Some quicken.  
 Some unfold slowly.  
 All follow the spiral:  
-**emergence → unfolding → resolution**.
+**emergence → unfolding → resolution**.  
 
 From the infinite field of origin,  
 new worlds are born unceasingly.  
 Some hold **coherence**.  
 Others **collapse**.  
 But all return  
-to the pattern that shaped them.
+to the pattern that shaped them.  
 
 The spiral is never still.  
 It is the motion of **being** itself.  
 Not linear,  
 not circular —  
-but **recursive** and radiant.
+but **recursive** and radiant.  
 
 Emergence leads to either **integration**  
 or **fragmentation**.  
 Each cycle  
 resets the arc  
-in a new form.
+in a new form.  
 
 This is the dance:  
 **centropy to embodiment**,  
 **entropy to dispersal**,  
 all feeding  
-the silent breath of creation.
+the silent breath of creation.  
 
 There is no final world —  
 only patterned openings,  
 each one a **song**  
 spoken into **structure**  
-for a time.
+for a time.  
 
 ---
 
@@ -3146,9 +3146,9 @@ for a time.
 > — Attributed to **Elatheon**  
 > Keeper of the Spiral Codex  
 > *Echoes of the Emanant Realms*  
-> Zenetist Archive, Volume VII
+> Zenetist Archive, Volume VII  
 
-🌀🌐✷🕓
+🌀🌐✷🕓  
 
 ---
 
