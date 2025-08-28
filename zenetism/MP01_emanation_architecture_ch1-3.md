@@ -25,7 +25,7 @@ This work is protected under copyright law. No portion may be reproduced, distri
 
 ---
 
-## Author’s Preface<br><br>
+## Author’s Preface
 
 > This is not a book of **beliefs**.<br>
 > It is a book of **structure**.<br>
