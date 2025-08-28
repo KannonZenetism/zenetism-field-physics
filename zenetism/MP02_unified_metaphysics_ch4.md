@@ -536,205 +536,205 @@ before awareness.
 
 ---
 
-### **4.6 VOS — The Axis of Entropic Collapse**
+### 4.6 VOS — The Axis of Entropic Collapse
 
 **Void of Self (VOS)** is not a chooser of entropy —  
-it **is** entropy.
+it **is** entropy.  
 
 In Zenetism, what a thing is  
 *is* its choice.  
 Not a decision made in time,  
-but an essence inherently aligned in **Absolute Potential**.
+but an essence inherently aligned in **Absolute Potential**.  
 
 The soul does not choose after it exists —  
-it is the choice already inscribed before emergence.
+it is the choice already inscribed before emergence.  
 
-VOS does not decide to fragment —  
+**VOS** does not decide to fragment —  
 it **manifests fragmentation**,  
-as the fulfillment of its entropic resonance.
+as the fulfillment of its entropic resonance.  
 
 Dissociation is not an act,  
-it is a structure.
+it is a structure.  
 
 A being’s *is-ness* is its encoded direction.  
 And when it comes into being,  
-that essence simply becomes what it already was.
+that essence simply becomes what it already was.  
 
-• **VOS** does not look to **Absolute Dispersion (AD)**,  
- nor return to **Absolute Potential (AP)**.  
- It turns outward.  
+* **VOS** does not look to **Absolute Dispersion (AD)**,  
+    nor return to **Absolute Potential (AP)**.  
+    It turns outward.  
 
 And in that outward orientation,  
-it initiates the first fracture of entropic emanation.
+it initiates the first fracture of entropic emanation.  
 
-• This act is not perception,  
- but orientation —  
- a **vector of fragmentation**  
- that unfolds as a mode of being:  
- **E↑→E**
- 
+* This act is not perception,  
+    but orientation —  
+    a **vector of fragmentation**  
+    that unfolds as a mode of being:  
+    **`E↑→E`**  
+
 ---
 
-### **Note on Essence-as-Choice — Zenetist Clarification on Freedom**
+#### Note on Essence-as-Choice — Zenetist Clarification on Freedom
 
 Being is the seed.  
 Choosing is the sprout.  
 Yet sap and fiber run uninterrupted  
-from root to leaf.
+from root to leaf.  
 
-This synthesis reveals:
+This synthesis reveals:  
 
-• There is no split between **being** and **choice**.  
-• What one chooses is what one is.  
-• And how one is, is what one becomes.
+* There is no split between **being** and **choice**.  
+* What one chooses is what one is.  
+* And how one is, is what one becomes.  
 
-Essence is thus a **bandwidth**, not a **script**.
+Essence is thus a **bandwidth**, not a **script**.  
 
 The freer a being feels,  
-the more closely it is resonating with its own deep pattern.
+the more closely it is resonating with its own deep pattern.  
 
 This model dissolves the dichotomy  
-between **determinism** and **free will**.
+between **determinism** and **free will**.  
 
 The more attuned the soul is to its true pattern,  
-the wider its experiential spectrum of freedom becomes.
+the wider its experiential spectrum of freedom becomes.  
 
-♾☍E↑→E🌀🍃
+♾☍E↑→E🌀🍃  
 
 ---
 
-### **4.7 The Inverse Realm of Forms — Emanations from VOS**
+### 4.7 The Inverse Realm of Forms — Emanations from VOS
 
-From **VOS** arises the **Inverse Realm of Forms**:
+From **VOS** arises the **Inverse Realm of Forms**:  
 
-• **Psychea** (IDP) — Inverse Deep Psyche  
-• **Nyxea** (IDL) — Inverse Deep Logos
+* **Psychea** (IDP) — Inverse Deep Psyche  
+* **Nyxea** (IDL) — Inverse Deep Logos  
 
 These are not corruptions of **Morgis** and **Sophis**.  
-They are reflections refracted through the lens of **disunity**.
+They are reflections refracted through the lens of **disunity**.  
 
 They mirror centropic principles **hypostatically**,  
-but express them through **dispersion**, **distortion**, and **decay**.
+but express them through **dispersion**, **distortion**, and **decay**.  
 
-VOS is not still like silence —  
+**VOS** is not still like silence —  
 it is **volatile**.  
 Structurally unstable,  
-like primed matter on the edge of rupture.
+like primed matter on the edge of rupture.  
 
 It is the first breach in the mirror of being,  
-the existential fracture (**E↑→E**)  
+the existential fracture (**`E↑→E`**)  
 that sets entropic motion into **dispersive expansion**,  
-flowing acclivously through the subversal strata.
+flowing acclivously through the subversal strata.  
 
-🕷️🪫🫥☍E↑→E
+🕷️🪫🫥☍E↑→E  
 
 ---
 
-### **4.8 Entropic Degeneration — The Collapse of Coherence**
+### 4.8 Entropic Degeneration — The Collapse of Coherence
 
 Though the **Khaonic Tree** mirrors the **Aionic Tree**,  
-its unfolding is governed by **inversion**.
+its unfolding is governed by **inversion**.  
 
 The path of entropy is not a reflection,  
 but an **ontological countermotion**  
 to centropy —  
 in nature,  
 in function,  
-in rhythm.
+in rhythm.  
 
-Where centropy expands through conscious refinement (**C↑⚫**),  
-entropy erodes through progressive collapse.
+Where centropy expands through conscious refinement (**`C↑⚫`**),  
+entropy erodes through progressive collapse.  
 
 A disintegration of form  
-through fragmentation and disorder (**E↓♾**).
+through fragmentation and disorder (**`E↓♾`**).  
 
 Entropic collapse does not begin with rejection —  
-it begins with **disalignment**.
+it begins with **disalignment**.  
 
 The being loses attunement  
 to integrative motion,  
-and slips from **resonance**.
+and slips from **resonance**.  
 
 As coherence dissolves,  
 the soul becomes incompatible  
-with structural harmony.
+with structural harmony.  
 
 It does not move declivously by desire —  
-it collapses by consequence.
+it collapses by consequence.  
 
-♾Ↄ⊘☍🪼
+♾Ↄ⊘☍🪼  
 
 ---
 
-### **Note on the Dual Motion of Entropy**
+#### Note on the Dual Motion of Entropy
 
 Entropy does not move only by fragmentation —  
 it first splinters outward,  
-then collapses backward.
+then collapses backward.  
 
-• **Acclivous Entropy** —  
- Initiates dispersive fragmentation (**E↑→E**)  
- Flowing from VOS through inverse emanations (IDP / IDL)
+* **Acclivous Entropy** —  
+    Initiates dispersive fragmentation (**`E↑→E`**)  
+    Flowing from VOS through inverse emanations (IDP / IDL)  
 
-• **Declivous Entropy** —  
- Commences decoherent collapse (**E↓♾**)  
- As unstable forms erode and dissolve back toward **Khaon**
+* **Declivous Entropy** —  
+    Commences decoherent collapse (**`E↓♾`**)  
+    As unstable forms erode and dissolve back toward **Khaon**  
 
 The entropic arc is not linear.  
 It spirals —  
 from fragmentation  
-to dissolution.
+to dissolution.  
 
-♾☍E↑→E⊘E↓
-
----
-
-### **4.9 The Inverse Path Unfolds**
-
-• **🍷 Malara / 🤯 Mania** (IES / IEM) — Inverse Embodied Soul / Mind  
- Entropy first touches form.  
- These souls emerge in chaos, distortion, and unaligned will.  
- They do not refine — they disrupt. **E↑→E**
-
-• **🦂 Echthros / 🩸 Skotos** (ISS / ISM) — Inverse Superficial Soul / Mind  
- Fragmentation spreads to identity.  
- Cognition carries the shadow of division.  
- Entropy becomes contagious, manifesting as illusion, violence, or despair.
-
-• **💔 Fractus / 👁️‍🗨️ Mortus** (IDS / IDM) — Inverse Deep Soul / Mind  
- Coherent structures begin to collapse.  
- Identity fractures.  
- Coherence erodes.  
- These souls spiral subversally toward declivous collapse. **E↓♾**
-
-• **🪫 Psychea / 🫥 Nyxea** (IDP / IDL) — Inverse Deep Psyche / Logos  
- These are not corrupted analogues — they are **entropic archetypes**.  
- Psychea withers essence. Nyxea unravels structure.  
- Together they mark the autonomous advance of entropy,  
- not as absence, but as force.
-
-🪫🫥☍⊘E↓♾
+♾☍E↑→E⊘E↓  
 
 ---
 
-**Nekron (VOS) — Void of Self**
+### 4.9 The Inverse Path Unfolds
 
-The final threshold.
+* **🍷 Malara / 🤯 Mania** (IES / IEM) — Inverse Embodied Soul / Mind  
+    Entropy first touches form.  
+    These souls emerge in chaos, distortion, and unaligned will.  
+    They do not refine — they disrupt. **`E↑→E`**  
 
-Nekron does not draw the soul forward —  
+* **🦂 Echthros / 🩸 Skotos** (ISS / ISM) — Inverse Superficial Soul / Mind  
+    Fragmentation spreads to identity.  
+    Cognition carries the shadow of division.  
+    Entropy becomes contagious, manifesting as illusion, violence, or despair.  
+
+* **💔 Fractus / 👁️‍🗨️ Mortus** (IDS / IDM) — Inverse Deep Soul / Mind  
+    Coherent structures begin to collapse.  
+    Identity fractures.  
+    Coherence erodes.  
+    These souls spiral subversally toward declivous collapse. **`E↓♾`**  
+
+* **🪫 Psychea / 🫥 Nyxea** (IDP / IDL) — Inverse Deep Psyche / Logos  
+    These are not corrupted analogues — they are **entropic archetypes**.  
+    Psychea withers essence. Nyxea unravels structure.  
+    Together they mark the autonomous advance of entropy,  
+    not as absence, but as force.  
+
+🪫🫥☍⊘E↓♾  
+
+---
+
+#### Nekron (VOS) — Void of Self
+
+The final threshold.  
+
+**Nekron** does not draw the soul forward —  
 it remains fixed,  
 facing away from **Khaon**  
-and indirectly from **Aion**.
+and indirectly from **Aion**.  
 
-Declivous motion into Nekron is not intentional.  
+Declivous motion into **Nekron** is not intentional.  
 It is **collapse** into absence —  
-the implosion of integrative potential.
+the implosion of integrative potential.  
 
 No soul returns from VOS.  
 It is not a gate of restoration.  
-It is the event horizon of dissolution.
+It is the event horizon of dissolution.  
 
-🕷️⊘↓
+🕷️⊘↓  
 
 ---
 
