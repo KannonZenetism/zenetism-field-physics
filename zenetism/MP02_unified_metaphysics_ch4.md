@@ -1394,12 +1394,12 @@ These may be:
 
 * **Centropic:**  
     DS / DM  
-    DL / DP  
+    DP / DL  
     EOB  
 
 * **Entropic:**  
     IDS / IDM  
-    IDL / IDP  
+    IDP / IDL  
     VOS  
 
 Both forms can initiate revelation.  
