@@ -950,224 +950,224 @@ It is **expansion without coherence**,
 
 ---
 
-### **4.16 Final Distinction — The Mask of Ascent**
+### 4.16 Final Distinction — The Mask of Ascent
 
 **Acclivous entropy** is not synthesis.  
-It is the intensification of separation.
+It is the intensification of separation.  
 
-It is entropy extending itself toward embodiment (**E↑→E**) —  
+It is entropy extending itself toward embodiment (**`E↑→E`**) —  
 a motion not toward light,  
-but into more rarefied shadows.
+but into more rarefied shadows.  
 
 Not a motion away from embodiment,  
 but a deeper entrenchment  
-into subtle fragmentation within form.
+into subtle fragmentation within form.  
 
-♜☍E↑→E▽
+♜☍E↑→E▽  
 
 ---
 
-### **4.17 The Nature of Acclivous Centropy**
+### 4.17 The Nature of Acclivous Centropy
 
-This is **veracious acclivous motion** (**C↑⚫**) —  
+This is **veracious acclivous motion** (**`C↑⚫`**) —  
 the path of conscious integration  
-and harmonic synthesis.
+and harmonic synthesis.  
 
 Unlike the **fallacious** acclivous simulation of entropy,  
 centropic acclivous expansion leads toward unity  
-through active realization.
+through active realization.  
 
-• The soul moves through acclivous centropy (**C↑⚫**)  
- Embodiment → Superficial → Deep →  
- Logos / Psyche → Theon → Aion
+* The soul moves through acclivous centropy (**`C↑⚫`**)  
+    Embodiment → Superficial → Deep →  
+    Logos / Psyche → Theon → Aion  
 
-• Each layer is not rejected,  
- but refined and synthesized into fuller coherence.
+* Each layer is not rejected,  
+    but refined and synthesized into fuller coherence.  
 
 This motion is not escape —  
 it is **reintegration**.  
-The transmutation of fragmentation into wholeness.
+The transmutation of fragmentation into wholeness.  
 
 At every stage:  
-• **Memory** is recovered  
-• **Unity** is reclaimed  
-• **Form** is not abandoned —  
- it is brought into harmony  
- with integrative principles
+* **Memory** is recovered  
+* **Unity** is reclaimed  
+* **Form** is not abandoned —  
+    it is brought into harmony  
+    with integrative principles  
 
 Authentic acclivous motion does not bypass earlier emanations.  
-It synthesizes the whole into a deeper resonance.
+It synthesizes the whole into a deeper resonance.  
 
-C↑⚫∴◎🛤️💠🌀
+C↑⚫∴◎🛤️💠🌀  
 
 ---
 
-### **4.18 The Role of Evil and Suffering in Harmonic Evolution**
+### 4.18 The Role of Evil and Suffering in Harmonic Evolution
 
 Evil is not a force,  
 nor a being.  
 It is a **principle of entropy** —  
 a pattern of fragmentation,  
 the unraveling of form,  
-the collapse of coherence.
+the collapse of coherence.  
 
 It arises where unity is lost,  
 where integration is abandoned,  
 where motion turns inward,  
-and structure folds upon itself.
+and structure folds upon itself.  
 
-• Evil is not created.  
-• It is not a counterforce to good.  
-• It is a **consequence**,  
- a **possibility** unfolded from the Field of Aion.
+* Evil is not created.  
+* It is not a counterforce to good.  
+* It is a **consequence**,  
+    a **possibility** unfolded from the Field of Aion.  
 
-• Where centropy builds, evil dismantles.  
-• Where resonance unites, evil scatters.
+* Where centropy builds, evil dismantles.  
+* Where resonance unites, evil scatters.  
 
 And yet —  
 evil is not a cosmic adversary.  
 It is a **condition** that emerges  
 when entropic inflection is actualized.  
 Not mythic, but not harmless.  
-It corrodes what it cannot integrate.
+It corrodes what it cannot integrate.  
 
-☍⊘⚐🔻🔶
+☍⊘⚐🔻🔶  
 
 ---
 
-### **4.19 The Function of Suffering**
+### 4.19 The Function of Suffering
 
-Suffering is the **felt experience of disunity**.
+Suffering is the **felt experience of disunity**.  
 
 It arises when a being’s awareness  
-becomes divided from Source.
+becomes divided from Source.  
 
 It occurs when Archeus and Noeüs  
 are buried beneath the strata  
-of embodiment or entropy.
+of embodiment or entropy.  
 
 And yet —  
 suffering plays a **catalytic role**  
-in the architecture of cosmic motion.
+in the architecture of cosmic motion.  
 
-• **Centropic suffering** refines the being.  
- It humbles the ego,  
- deepens perception,  
- opens the soul to meaning.
+* **Centropic suffering** refines the being.  
+    It humbles the ego,  
+    deepens perception,  
+    opens the soul to meaning.  
 
 When internalized with awareness,  
 it becomes a **purifying fire** —  
-a call back toward reintegration (**C↑⚫**).
+a call back toward reintegration (**`C↑⚫`**).  
 
-• **Entropic suffering** fractures the being.  
- It leads to isolation, distortion, and collapse.  
- It corrodes when fueled by ignorance or resistance,  
- and disperses when there is no reintegrative motion (**E↓♾**).
+* **Entropic suffering** fractures the being.  
+    It leads to isolation, distortion, and collapse.  
+    It corrodes when fueled by ignorance or resistance,  
+    and disperses when there is no reintegrative motion (**`E↓♾`**).  
 
 Suffering is not inherently good or evil.  
 Its effect depends entirely  
-on the **orientation of the soul**.
+on the **orientation of the soul**.  
 
-⚫▲C↑⚫⊘☍E↓♾
+⚫▲C↑⚫⊘☍E↓♾  
 
 ---
 
-### **4.20 Evil and the Limits of Fragmentation**
+### 4.20 Evil and the Limits of Fragmentation
 
 The presence of evil and suffering  
 is not a flaw in the cosmos.  
-It is not the price of being free.
+It is not the price of being free.  
 
 It is a path that forms  
-when coherence is forsaken.
+when coherence is forsaken.  
 
 Freedom does not arise from contrast —  
-it is present wherever **resonance** remains intact.
+it is present wherever **resonance** remains intact.  
 
-• At the boundary of all being,  
- where Zero meets Infinity —  
- evil reaches its final threshold.  
+* At the boundary of all being,  
+    where Zero meets Infinity —  
+    evil reaches its final threshold.  
 
-• It is not overcome.  
- It is **exhausted**.
+* It is not overcome.  
+    It is **exhausted**.  
 
 The self that perpetuates fragmentation  
 dissolves into dispersal.  
-And the pattern itself is reabsorbed into Zero.
+And the pattern itself is reabsorbed into Zero.  
 
 Entropic beings do not return by grace —  
 they return by **ceasing to act as Being**,  
 and collapsing into static latency  
-within Aion — the field of unexpressed potential.
+within Aion — the field of unexpressed potential.  
 
 This is not transcendence.  
 It is containment.  
 Not motion fulfilled,  
-but motion concluded.
+but motion concluded.  
 
 ---
 
-- **Acclivous centropy** (C↑) reintegrates through awareness.  
-- **Declivous entropy** (E↓) dissolves through collapse.
+* **Acclivous centropy** (`C↑`) reintegrates through awareness.  
+* **Declivous entropy** (`E↓`) dissolves through collapse.  
 
 Only centropy can return  
 to the unknown ground —  
-to the silent coherence of Zenon.
+to the silent coherence of Zenon.  
 
-Entropy **does not return.**    
+Entropy **does not return.**  
 It does not rejoin.  
 It collapses inward into Aion —  
 but can go no further.  
 Its return is a kind of unmaking,  
 arrested at Zero,  
-forever unable to reach the Unknown.
+forever unable to reach the Unknown.  
 
 What remains  
 is not a being,  
 but unpatterned potential  
-beneath all structure.
+beneath all structure.  
 
-Zenon is not the end of entropy —  
+**Zenon** is not the end of entropy —  
 it is the place entropy can never reach,  
-because it never turned to face it.
+because it never turned to face it.  
 
 Only centropy remembers the way.  
-Only coherence knows how to return.
+Only coherence knows how to return.  
 
-☍E↓♾⊘⚫⇅
+☍E↓♾⊘⚫⇅  
 
 ---
 
-### **4.21 Purpose Emerges from Within, Not Without**
+### 4.21 Purpose Emerges from Within, Not Without
 
 In the Zenetist framework,  
 **purpose is not imposed**.  
 It is not the decree  
 of an external deity,  
 cosmic ruler,  
-or fixed fate.
+or fixed fate.  
 
 Purpose emerges from within —  
 as the soul’s alignment  
-with the latent divinity of Aion.
+with the latent divinity of Aion.  
 
 Though Aion does not will  
 in a personal sense,  
-it contains the **seed-structures of all volition**.
+it contains the **seed-structures of all volition**.  
 
 The will of the soul  
 is not separate from the divine —  
 it is the divine  
-expressed in microcosmic form.
+expressed in microcosmic form.  
 
 What we perceive as purpose  
 is simply the **unfolding of potential into experience**,  
-shaped by the soul’s orientation toward:
+shaped by the soul’s orientation toward:  
 
-• **Centropy** — Integration, Coherence, Acclivous Expansion (**C↑⚫**)  
-• **Entropy** — Fragmentation, Dispersion, Declivous Collapse (**E↓♾**)
+* **Centropy** — Integration, Coherence, Acclivous Expansion (**`C↑⚫`**)  
+* **Entropy** — Fragmentation, Dispersion, Declivous Collapse (**`E↓♾`**)  
 
-⚐C↑⚫E↓♾🕊️
+⚐C↑⚫E↓♾🕊️  
 
 ---
 
