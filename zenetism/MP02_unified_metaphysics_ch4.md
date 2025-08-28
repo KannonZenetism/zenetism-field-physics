@@ -411,118 +411,118 @@ but not the source of distortion.
 
 ---
 
-### **Note on Psyche, Logos, and the Pattern of Return**
+#### Note on Psyche, Logos, and the Pattern of Return
 
 In **Zenetism**,  
 **psyche** refers to the vital force animating **experience**.  
-**Logos** refers to the **structural intelligence** giving form and coherence.
+**Logos** refers to the **structural intelligence** giving form and coherence.  
 
 Each layer is both:  
-• A **state** of being  
-• A **mode** of intelligence  
-• A **patterned** echo of its resonant source
+* A **state** of being  
+* A **mode** of intelligence  
+* A **patterned** echo of its resonant source  
 
 Centropy refines through synthesis.  
-Entropy collapses through decomposition.
+Entropy collapses through decomposition.  
 
-Both are permitted within the stillness of Aion —  
+Both are permitted within the stillness of **Aion** —  
 but **Aion is not their source**,  
-only their **latent balance**.
+only their **latent balance**.  
 
 Dissonance begins in allowance, not in sameness.  
-Polarity arises from symmetry, not from blur.
+Polarity arises from symmetry, not from blur.  
 
-Zenon remains beyond all distinction —  
+**Zenon** remains beyond all distinction —  
 prior to form, untouched by motion,  
-and immune to opposition. 
+and immune to opposition.  
 
 And toward that stillness,  
 all **centropic paths** return.  
 Not to dissolve,  
-but to be remembered.
+but to be remembered.  
 
 ---
 
-### **4.4 The Dual Streams of Emanation**
+### 4.4 The Dual Streams of Emanation
 
 Though **centropy** and **entropy** seem opposed,  
-they are symmetrical expressions of a single unfolding.
+they are symmetrical expressions of a single unfolding.  
 
 Each emerges from one of the twin poles:  
-• **Aion (⚫)**  
-• **Khaon (♾)**  
+* **Aion (⚫)**  
+* **Khaon (♾)**  
 
-And each commences a distinct motion.
+And each commences a distinct motion.  
 
-• **Aion** initiates structured, harmonic motion —  
- a field of form that flows toward reintegration:  
- **C↓→E→C↑→⚫**
+* **Aion** initiates structured, harmonic motion —  
+    a field of form that flows toward reintegration:  
+    **`C↓→E→C↑→⚫`**  
 
-• **Khaon** initiates inverse, dispersive motion —  
- a field of dispersal that culminates in dissolution:  
- **E↑→E→E↓→♾**
+* **Khaon** initiates inverse, dispersive motion —  
+    a field of dispersal that culminates in dissolution:  
+    **`E↑→E→E↓→♾`**  
 
-⚫♾☯️↺
+⚫♾☯️↺  
 
 ---
 
-### **Note on the Unity of Aion and Khaon**
+#### Note on the Unity of Aion and Khaon
 
-**Aion (⚫)** and **Khaon (♾)** are unified in origin.
+**Aion (⚫)** and **Khaon (♾)** are unified in origin.  
 
 Zero is identical to Infinity,  
 distinguished only through expression.  
 Their bifurcation arises not from substance,  
-but from the rhythm of becoming.
+but from the rhythm of becoming.  
 
 Souls emerge from either pole —  
 not by decision,  
-but by **ontological orientation**.
+but by **ontological orientation**.  
 
-• **Aionic souls** are born within **coherence**.  
- They move through conscious refinement.  
- Their motion is **centropic** and **acclivous**. (C↑⚫)  
- Their aim is **synthesis**.
+* **Aionic souls** are born within **coherence**.  
+    They move through conscious refinement.  
+    Their motion is **centropic** and **acclivous**. (`C↑⚫`)  
+    Their aim is **synthesis**.  
 
-• **Khaonic souls** emerge in **decoherence**.  
- They are not drawn outward by choice,  
- but by the inner logic of fragmentation.  
- Their motion is **entropic** and **declivous**. (E↓♾)  
- Their aim is **dissonance**.
+* **Khaonic souls** emerge in **decoherence**.  
+    They are not drawn outward by choice,  
+    but by the inner logic of fragmentation.  
+    Their motion is **entropic** and **declivous**. (`E↓♾`)  
+    Their aim is **dissonance**.  
 
 At this stage,  
 the Aionic and Khaonic souls referenced  
-have already entered embodiment.
+have already entered embodiment.  
 
 Their motion now unfolds within form,  
 following either the centropic arc of integration,  
-or the entropic arc of disintegration.
+or the entropic arc of disintegration.  
 
-⚫♾⚯▽
+⚫♾⚯▽  
 
 ---
 
-### **4.5 Ontological Orientation and the Role of VOS**
+### 4.5 Ontological Orientation and the Role of VOS
 
 While **centropy** and **entropy** mirror each other structurally,  
-their origins diverge in motion.
+their origins diverge in motion.  
 
 The difference is not in form,  
-but in **directional essence**.
+but in **directional essence**.  
 
 Souls are not placed —  
-they emerge as the **motion they are**.
+they emerge as the **motion they are**.  
 
-• **Aionic souls** arise within **coherence**,  
- oriented toward integration from the moment of emanation.  
- They are not drawn upward —  
- they are acclivous motion made manifest. (C↑⚫)
+* **Aionic souls** arise within **coherence**,  
+    oriented toward integration from the moment of emanation.  
+    They are not drawn upward —  
+    they are acclivous motion made manifest. (`C↑⚫`)  
 
-• **Khaonic souls** emerge in **dissonance**,  
- propelled outward not by desire,  
- but by the compulsion of fragmentation.  
- Their motion is not a choice made in time,  
- but a path already set in essence. (E↓♾)
+* **Khaonic souls** emerge in **dissonance**,  
+    propelled outward not by desire,  
+    but by the compulsion of fragmentation.  
+    Their motion is not a choice made in time,  
+    but a path already set in essence. (`E↓♾`)  
 
 In Zenetism, emergence is identity.  
 A soul does not choose its path —  
@@ -530,9 +530,9 @@ it is the path already latent in the field.
 Already echoing through Aion —  
 before form,  
 before speech,  
-before awareness.
+before awareness.  
 
-⚫E↓♾C↑⚫🔘
+⚫E↓♾C↑⚫🔘  
 
 ---
 
