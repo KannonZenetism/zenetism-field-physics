@@ -739,7 +739,7 @@ It bends **validity** into **counterfeit pattern**,
 and **clarity** into **distorted signal**.  
 
 It masks **chaos** as **pattern**,  
-and **confusion** as **truth**.  
+and **confusion** as **coherence**.  
 
 **Mortus** is the **spurious flame**—  
 a light that **blinds**,  
