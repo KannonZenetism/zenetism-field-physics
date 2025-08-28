@@ -1352,110 +1352,110 @@ corresponding to its structure.
 
 ---
 
-### **4.26 Revelation as Transcendental Disclosure Through Alignment**
+### 4.26 Revelation as Transcendental Disclosure Through Alignment
 
 In Zenetism, **revelation** is not the voice of an external god —  
 it is the **resonant disclosure of structure**,  
-emerged through alignment of being.
+emerged through alignment of being.  
 
 Revelation arises when the corporeal layers  
 (ES / EM, SS / SM)  
 come into structural attunement  
-with supernal or subversal layers of the soul.
+with supernal or subversal layers of the soul.  
 
-These may be:
+These may be:  
 
-• **Centropic:**  
- DS / DM  
- DL / DP  
- EOB
+* **Centropic:**  
+    DS / DM  
+    DL / DP  
+    EOB  
 
-• **Entropic:**  
- IDS / IDM  
- IDL / IDP  
- VOS
+* **Entropic:**  
+    IDS / IDM  
+    IDL / IDP  
+    VOS  
 
 Both forms can initiate revelation.  
 But the **nature of the alignment**  
-determines its content, trajectory, and function.
+determines its content, trajectory, and function.  
 
 When resonance occurs,  
 it opens channels of **gnosis** —  
 a form of direct knowing  
-that transcends rational thought.
+that transcends rational thought.  
 
 ---
 
-These disclosures may manifest as:
+These disclosures may manifest as:  
 
-• Philosophical or metaphysical insight  
-• Ethical or anti-ethical conviction  
-• Archetypal or symbolic patterning  
-• Emotional or psychic clarity  
-• Ideological vision or obsession  
-• Aesthetic resonance or inversion
+* Philosophical or metaphysical insight  
+* Ethical or anti-ethical conviction  
+* Archetypal or symbolic patterning  
+* Emotional or psychic clarity  
+* Ideological vision or obsession  
+* Aesthetic resonance or inversion  
 
 Revelation is real —  
-but not always integrative.
+but not always integrative.  
 
-• Through **centropic alignment**,  
- it harmonizes the self,  
- revealing deeper structures of Being,  
- and pulling the soul toward remembrance and synthesis.
+* Through **centropic alignment**,  
+    it harmonizes the self,  
+    revealing deeper structures of Being,  
+    and pulling the soul toward remembrance and synthesis.  
 
-• Through **entropic alignment**,  
- it may appear equally potent —  
- yet its motion tends toward:  
- fragmentation, distortion, or dominion.
+* Through **entropic alignment**,  
+    it may appear equally potent —  
+    yet its motion tends toward:  
+    fragmentation, distortion, or dominion.  
 
-📱🌀∴🕓◎☍Ↄ
+📱🌀∴🕓◎☍Ↄ  
 
 ---
 
-### **4.27 Dual Modalities of Revelation**
+### 4.27 Dual Modalities of Revelation
 
-• **Sacred Revelation**  
- – Integrative gnosis  
- – Harmonic unity  
- – Compassionate clarity
+* **Sacred Revelation**  
+    – Integrative gnosis  
+    – Harmonic unity  
+    – Compassionate clarity  
 
-• **Inverse Revelation**  
- – Seductive inversion  
- – Architectures of control  
- – Mimicry of light
+* **Inverse Revelation**  
+    – Seductive inversion  
+    – Architectures of control  
+    – Mimicry of light  
 
 Yet no revelation is unfiltered —  
-it is always refracted through finitude:
+it is always refracted through finitude:  
 
-• Language and symbol  
-• Cultural conditioning  
-• Psychological architecture  
-• Cognitive distortion  
-• Desire, fear, or projection
+* Language and symbol  
+* Cultural conditioning  
+* Psychological architecture  
+* Cognitive distortion  
+* Desire, fear, or projection  
 
 Revelation is genuine,  
-but always **partial**.
+but always **partial**.  
 
 Its clarity is shaped  
-by the **state of the vessel**.
+by the **state of the vessel**.  
 
 The more expansive the alignment,  
 the purer the resonance.  
 The deeper the distortion,  
-the more inversion may mimic light.
+the more inversion may mimic light.  
 
 Thus, Zenetism does not treat revelation as decree,  
 but as **energetic disclosure**,  
-revealed in its **fruit and motion**.
+revealed in its **fruit and motion**.  
 
-• Its fruit reveals its origin.  
-• Its motion reveals its direction.
+* Its fruit reveals its origin.  
+* Its motion reveals its direction.  
 
-📱☿Ↄ🌀🔔⇅
+📱☿Ↄ🌀🔔⇅  
 
 ---
 
-### **Note on Light Absorbtion as Revelation**  
+#### Note on Light Absorption as Revelation
 
 What is received in Inverse Revelation is not generative verity, but **hollow reflection** —  
 a mimicry of centropic structure used for entropic ends.  
@@ -1463,91 +1463,91 @@ Just as mimics may steal the form of a framework without embodying its coherence
 so too do entropic beings absorb the pattern of light  
 not to integrate it, but to **invert and control** it.  
 Revelation, in their case, becomes **weaponized reflection**,  
-not emergence.
+not emergence.  
 
 ---
 
-### **4.28 Mysticism — Direct Union Through Synthesis or Silence**
+### 4.28 Mysticism — Direct Union Through Synthesis or Silence
 
 Mysticism is the direct encounter  
-with **transcendence**.
+with **transcendence**.  
 
-It bypasses language, systems, and doctrines.
+It bypasses language, systems, and doctrines.  
 
-In Zenetism, this encounter often emerges through:
+In Zenetism, this encounter often emerges through:  
 
-• **Centropic synthesis** —  
- the harmonization of inner layers,  
- where integration allows perception of deeper Being.
+* **Centropic synthesis** —  
+    the harmonization of inner layers,  
+    where integration allows perception of deeper Being.  
 
 As synthesis increases,  
 the noise of multiplicity fades.  
 Clarity emerges,  
-and reality reveals itself through resonance.
+and reality reveals itself through resonance.  
 
 In this stillness,  
-what was once distant becomes known.
+what was once distant becomes known.  
 
-Zenetism also affirms the **neti-neti** or **via negativa** approach:
+Zenetism also affirms the **neti-neti** or **via negativa** approach:  
 
-• A path of negation,  
- emptying,  
- and radical silence.
+* A path of negation,  
+    emptying,  
+    and radical silence.  
 
-• Though distinct from integrative motion,  
- it may still pierce illusion  
- and yield clarity.
+* Though distinct from integrative motion,  
+    it may still pierce illusion  
+    and yield clarity.  
 
-Both mystical methods refine perception:
+Both mystical methods refine perception:  
 
-• One through inclusion and wholeness.  
-• The other through subtraction and inward stillness.
+* One through inclusion and wholeness.  
+* The other through subtraction and inward stillness.  
 
 Zenetism honors both,  
 but affirms that lasting coherence  
 is most often stabilized  
-through **integration rather than negation**.
+through **integration rather than negation**.  
 
-∴🌀🛎️◎🕸️⤈
+∴🌀🛎️◎🕸️⤈  
 
 ---
 
-### **4.29 Prophecy — Resonant Glimpses and Perceptual Distortion**
+### 4.29 Prophecy — Resonant Glimpses and Perceptual Distortion
 
 Prophecy in Zenetism  
 is not a forecast of possibility —  
 it is a **resonant glimpse**  
-into what already is.
+into what already is.  
 
 Latent in Aion,  
-unfolding through the motion of Khaon.
+unfolding through the motion of Khaon.  
 
 It does not reveal what *might* happen,  
 but what has been chosen in essence  
 before time,  
-within the structural field of Aion.
+within the structural field of Aion.  
 
 Yet what is glimpsed  
-is not always clearly understood.
+is not always clearly understood.  
 
 The destiny of a universe  
 is not fixed by coercion —  
-it is fixed by **coherence**.
+it is fixed by **coherence**.  
 
 Free will is not abolished,  
 it is **identical**  
-with structural **resonance**.
+with structural **resonance**.  
 
 The soul is its own choice in essence,  
 and what emerges  
-is that choice unfolding in time.
+is that choice unfolding in time.  
 
 Thus prophecy is not prediction,  
 it is **resonance-awareness**,  
 a structural echo heard dimly  
-through the corporeal veils of embodiment.
+through the corporeal veils of embodiment.  
 
-📱🌀🕓🔘◎〰️▽
+📱🌀🕓🔘◎〰️▽  
 
 ---
 
