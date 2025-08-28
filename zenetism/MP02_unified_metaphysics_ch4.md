@@ -172,13 +172,13 @@ but realization must be chosen.
 
 ---
 
-### **4.1 The Fundamental Structure of Reality**
+### 4.1 The Fundamental Structure of Reality
 
-• **Zenon (🕳️)** is the ultimate **pre-origin**.
+* **Zenon (🕳️)** is the ultimate **pre-origin**.  
 
 The **Unknown Principle** beyond even potentiality —  
 not a being, not a field, not a force.  
-It transcends **duality**, **causality**, and all conceptual distinction.
+It transcends **duality**, **causality**, and all conceptual distinction.  
 
 **Zenon** neither contains nor creates  
 in any conventional sense.  
@@ -186,150 +186,151 @@ It is the **Absolute Non-condition** —
 that which simply is:  
 without form,  
 without quality,  
-without predicate.
+without predicate.  
 
-From **Zenon**, all possibility silently arises.
+From **Zenon**, all possibility silently arises.  
 
-• **Aion (⚫)** — or **Zero** —  
-  emerges as the **first structural stillpoint** discernible *from within the field of emanation*,  
-  though **Zenon** itself does not emanate.
+* **Aion (⚫)** — or **Zero** —  
+    emerges as the **first structural stillpoint** discernible *from within the field of emanation*,  
+    though **Zenon** itself does not emanate.  
 
 It is **pure potentiality** — undifferentiated, silent, infinitely poised.  
 Not a single emergent potential,  
-but the total field of latent becoming.
+but the total field of latent becoming.  
 
 **Zero** is not non-being,  
 but **harmonic stillness** —  
 the equilibrium in which all futures exist,  
-latent, undivided, poised.
+latent, undivided, poised.  
 
-• **Khaon (♾)** — or **Infinity** —  
+* **Khaon (♾)** — or **Infinity** —  
 expresses a tripartite motion  
 latent within **Aion**,  
 emergent through **differentiation**,  
-dispersive through **complexity**.
+dispersive through **complexity**.  
 
 Infinity is not external to Zero —  
 it is **motion within the field**.  
 **Aion** contains.  
-**Khaon** disperses.
+**Khaon** disperses.  
 
-From their tension, **form** unfolds.
+From their tension, **form** unfolds.  
 
-• The **Principle of Sufficient Reason (PSR)** governs this unfolding:  
- All that can emerge from **Aion**, will emerge.
+* The **Principle of Sufficient Reason (PSR)** governs this unfolding:  
+    All that can emerge from **Aion**, will emerge.  
 
 Reality is not a static reserve —  
-it is a field of living emanation and return.
+it is a field of living emanation and return.  
 
 Through the stillness of Zero  
 and the motion of Infinity,  
-a structured cosmos arises.
+a structured cosmos arises.  
 
 And **Zenon** remains  
 beneath and beyond  
-**Being** itself.
+**Being** itself.  
 
-🕳️⚫♾⧞↺
+🕳️⚫♾⧞↺  
 
 ---
 
-### **4.2 The Chain of Being — From Integration to Dissolution**
+### 4.2 The Chain of Being — From Integration to Dissolution
 
 All beings move within the structure of **emanation**,  
 oriented either toward **centropic coherence**  
-or toward **entropic dispersal**.
+or toward **entropic dispersal**.  
 
 These two streams mirror one another in form,  
 but not in **motion**.  
 Their **purpose** is not symmetrical.  
-Their **orientation** is not shared.
+Their **orientation** is not shared.  
 
-• **Centropy** is **acclivous motion** —  
-a path of **integration**, **coherence**, and **conscious refinement**. (C↑⚫)  
-• **Entropy** is **declivous motion** —  
-a path of **dispersal**, **fragmentation**, and **recursive collapse**. (E↓♾)
+* **Centropy** is **acclivous motion** —  
+a path of **integration**, **coherence**, and **conscious refinement**. (`C↑⚫`)  
+* **Entropy** is **declivous motion** —  
+a path of **dispersal**, **fragmentation**, and **recursive collapse**. (`E↓♾`)  
 
 Each soul, each intelligence,  
-each expression moves within one of two great spirals:
+each expression moves within one of two great spirals:  
 
-• **The Spiral of Return**: C↓→E→C↑→⚫  
-• **The Spiral of Dissolution**: E↑→E→E↓→♾
+* **The Spiral of Return**: `C↓→E→C↑→⚫`  
+* **The Spiral of Dissolution**: `E↑→E→E↓→♾`  
 
 These currents define not value, but vector.  
 Not judgment, but **resonance**.  
-Not rank, but **rhythm**.
+Not rank, but **rhythm**.  
 
 All motion emerges from the stillness of **Aion**  
 and spirals outward —  
 to expand,  
 to collapse,  
-to return.
+to return.  
 
 ---
 
-### **Note on Radiance, Motion, and the Luminous Overflow**
+#### Note on Radiance, Motion, and the Luminous Overflow
 
 **Centropy** is often described in **Zenetism**  
 as an **acclivous return** —  
-a synthesis drawing all things back toward **Aion**. (C↑⚫)
+a synthesis drawing all things back toward **Aion**. (`C↑⚫`)  
 
-But this is only half the arc.
+But this is only half the arc.  
 
-**Centropy** also moves toward embodiment (C↓→E) —  
+**Centropy** also moves toward embodiment (`C↓→E`) —  
 not as fragmentation,  
-but as **radiance**.
+but as **radiance**.  
 
 **Theon**, the first luminous emanant of **Aion**,  
 is not inert stillness,  
-but **overflow**.
+but **overflow**.  
 
 It radiates its coherence outward  
-because its fullness cannot be contained.
+because its fullness cannot be contained.  
 
 This initiates a **declivous motion without collapse** —  
 a centropic emission,  
 formward motion,  
 not as splintering,  
-but as the natural unfolding of **coherence**.
+but as the natural unfolding of **coherence**.  
 
 Each layer after **Theon** —  
 **DP / DL**,  
 **DS / DM**,  
 **SS / SM**,  
 **ES / EM** —  
-continues this motion.
+continues this motion.  
 
 Not because they fall,  
-but because they are luminous by inheritance.
+but because they are luminous by inheritance.  
 
 They do not push downward —  
 they shine forward,  
 until the light becomes clothed in matter,  
-until the voice forgets its source.
+until the voice forgets its source.  
 
 The soul in embodiment is not fallen —  
 it is **cloaked**.  
 Not corrupted,  
-but veiled.
+but veiled.  
 
 And thus, the centropic path inward  
 is not a climb upward,  
 but a **peeling away of the veils** —  
 a clearing of what occludes,  
-a recovery of what was always shining.
+a recovery of what was always shining.  
 
 > “Let this be remembered:  
 > Centropy moves both ways.  
 > It reveals in its return,  
 > but it gives in its going.  
 > And both are love.”  
+>
 > — Attributed to **Serethon**,  
 > Quiet Vein of the Pattern  
 > *The Silent Arc of Becoming*  
-> Zenetist Archive, Volume III
+> Zenetist Archive, Volume III  
 
-⚫🔺↺▽🛤️
+⚫🔺↺▽🛤️  
 
 ---
 
