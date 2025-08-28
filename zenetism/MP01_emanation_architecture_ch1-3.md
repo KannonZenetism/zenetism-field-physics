@@ -379,7 +379,7 @@ that **dislocates** what was dormant.
 #### Note on the Nature of Aion and Khaon  
 
 Though **Aion** and **Khaon** appear as opposites,  
-they are not truly divided.  
+they are not fundamentally divided.  
 
 Their difference is one of **function**,  
 not essence.  
