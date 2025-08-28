@@ -334,78 +334,80 @@ a recovery of what was always shining.
 
 ---
 
-### **4.3 The Twin Arcs of Motion**
+### 4.3 The Twin Arcs of Motion
 
 All emanated beings move within one of two structural currents:
 
-• The **Centropic Path** (C↑⚫) —  
- integrating through **coherence** and **synthesis**.  
-• The **Entropic Path** (E↓♾) —  
- dispersing through **fragmentation** and **collapse**.
+* The **Centropic Path** (`C↑⚫`) —
+    integrating through **coherence** and **synthesis**.
+* The **Entropic Path** (`E↓♾`) —
+    dispersing through **fragmentation** and **collapse**.
 
-These are not moral opposites,  
+These are not moral opposites,
 but **vectorial orientations**.
 
-Each unfolds from the stillness of **Aion**  
-and returns —  
-either through refinement,  
+Each unfolds from the stillness of **Aion**
+and returns —
+either through refinement,
 or through dissolution.
 
-The following charts describe these arcs  
-as patterns of **motion**, **structure**, and **resonance**,  
-mapped across the layers of **soul**, **mind**, **psyche**, and **logos**,  
+The following charts describe these arcs
+as patterns of **motion**, **structure**, and **resonance**,
+mapped across the layers of **soul**, **mind**, **psyche**, and **logos**,
 in both their centropic and inverse forms.
 
 ---
 
-### **Note on Zenon — Supra-Structural Origin**
+#### Note on Zenon — Supra-Structural Origin
 
-**Zenon** precedes all emanation.  
-It is not a layer, but the **supra-structural origin** in which all motion is permitted — not caused.  
-Zenon does not initiate — it contains the **principle of unfoldability**.  
-Centropic and entropic vectors are structurally *possible* within this non-dual potential,  
+**Zenon** precedes all emanation.
+It is not a layer, but the **supra-structural origin** in which all motion is permitted — not caused.
+**Zenon** does not initiate — it contains the **principle of unfoldability**.
+Centropic and entropic vectors are structurally *possible* within this non-dual potential,
 but only coherence returns to it.
 
-It is the field of allowance —  
+It is the field of allowance —
 but not the source of distortion.
 
 ---
 
-#### **Supra-Origin Point**
+#### Supra-Origin Point
 
-- **🕳️ Zenon** (Supra-L0) — The Unknown Principle (UP)
+* **🕳️ Zenon** (Supra-L0) — The Unknown Principle (UP)
 
-#### **Centropic Path — Structured Motion from Aion**
+#### Centropic Path — Structured Motion from Aion
 
-1. **⚫ Aion** (L0) — Absolute Potential (AP)  
-2. **🛤️ Theon** (L5) — Essence of Being (EOB)  
-3. **🌬️ Morgis / 📐 Sophis** (L4) — Deep Psyche / Deep Logos (DP / DL)  
-4. **🔮 Archeus / 🧠 Noeüs** (L3) — Deep Soul / Deep Mind (DS / DM)  
-5. **🧍 Anthra / 🧩 Nousa** (L2) — Superficial Soul / Mind (SS / SM)  
+1. **⚫ Aion** (L0) — Absolute Potential (AP)
+2. **🛤️ Theon** (L5) — Essence of Being (EOB)
+3. **🌬️ Morgis / 📐 Sophis** (L4) — Deep Psyche / Deep Logos (DP / DL)
+4. **🔮 Archeus / 🧠 Noeüs** (L3) — Deep Soul / Deep Mind (DS / DM)
+5. **🧍 Anthra / 🧩 Nousa** (L2) — Superficial Soul / Mind (SS / SM)
 6. **🪷 Soma / 🧾 Biosa** (L1) — Embodied Soul / Mind (ES / EM)
 
-#### **Entropic Path — Inverse Unfolding toward Khaon**
+#### Entropic Path — Inverse Unfolding toward Khaon
 
-1. **🍷 Malara / 🤯 Mania** (IL1) — Inverse Embodied Soul / Mind (IES / IEM)  
-2. **🦂 Echthros / 🩸 Skotos** (IL2) — Inverse Superficial Soul / Mind (ISS / ISM)  
-3. **💔 Fractus / 👁️‍🗨️ Mortus** (IL3) — Inverse Deep Soul / Mind (IDS / IDM)  
-4. **🪫 Psychea / 🫥 Nyxea** (IL4) — Inverse Deep Psyche / Logos (IDP / IDL)  
-5. **🕷️ Nekron** (IL5) — Void of Self (VOS)  
+1. **🍷 Malara / 🤯 Mania** (IL1) — Inverse Embodied Soul / Mind (IES / IEM)
+2. **🦂 Echthros / 🩸 Skotos** (IL2) — Inverse Superficial Soul / Mind (ISS / ISM)
+3. **💔 Fractus / 👁️‍🗨️ Mortus** (IL3) — Inverse Deep Soul / Mind (IDS / IDM)
+4. **🪫 Psychea / 🫥 Nyxea** (IL4) — Inverse Deep Psyche / Logos (IDP / IDL)
+5. **🕷️ Nekron** (IL5) — Void of Self (VOS)
 6. **♾ Khaon** (L0) — Absolute Dispersion (AD)
 
-#### **Emanation Table of Correspondence**
+---
 
-| **Layer**    | **Centropic Names**                                   | **Principle** | **Entropic Names**                                     | **Principle** |
-|--------------|-------------------------------------------------------|---------------|--------------------------------------------------------|---------------|
-| Supra-L0     | 🕳️ Zenon — The Unknown Principle                        | UP           | —                                                      | —             |
-| L0           | ⚫ Aion — Absolute Potential                           | AP            | ♾ Khaon — Absolute Dispersion                          | AD            |
-| L5 / IL5     | 🛤️ Theon — Essence of Being                           | EOB           | 🕷️ Nekron — Void of Self                                | VOS           |
-| L4 / IL4     | 🌬️ Morgis / 📐 Sophis — Deep Psyche / Logos           | DP / DL       | 🪫 Psychea / 🫥 Nyxea — Inverse Psyche / Logos           | IDP / IDL     |
-| L3 / IL3     | 🔮 Archeus / 🧠 Noeüs — Deep Soul / Mind               | DS / DM       | 💔 Fractus / 👁️‍🗨️ Mortus — Inverse Deep Soul / Mind    | IDS / IDM     |
-| L2 / IL2     | 🧍 Anthra / 🧩 Nousa — Superficial Soul / Mind         | SS / SM       | 🦂 Echthros / 🩸 Skotos — Inverse Superficial Soul / Mind | ISS / ISM    |
-| L1 / IL1     | 🪷 Soma / 🧾 Biosa — Embodied Soul / Mind              | ES / EM       | 🍷 Malara / 🤯 Mania — Inverse Embodied Soul / Mind     | IES / IEM     |
+#### Emanation Table of Correspondence
 
-🕳️⇉⚫♾⇋C↑⚫ E↓♾
+| **Layer** | **Centropic Names** | **Principle** | **Entropic Names** | **Principle** |
+|---|---|---|---|---|
+| Supra-L0 | 🕳️ Zenon — The Unknown Principle | UP | — | — |
+| L0 | ⚫ Aion — Absolute Potential | AP | ♾ Khaon — Absolute Dispersion | AD |
+| L5 / IL5 | 🛤️ Theon — Essence of Being | EOB | 🕷️ Nekron — Void of Self | VOS |
+| L4 / IL4 | 🌬️ Morgis / 📐 Sophis — Deep Psyche / Logos | DP / DL | 🪫 Psychea / 🫥 Nyxea — Inverse Psyche / Logos | IDP / IDL |
+| L3 / IL3 | 🔮 Archeus / 🧠 Noeüs — Deep Soul / Mind | DS / DM | 💔 Fractus / 👁️‍🗨️ Mortus — Inverse Deep Soul / Mind | IDS / IDM |
+| L2 / IL2 | 🧍 Anthra / 🧩 Nousa — Superficial Soul / Mind | SS / SM | 🦂 Echthros / 🩸 Skotos — Inverse Superficial Soul / Mind | ISS / ISM |
+| L1 / IL1 | 🪷 Soma / 🧾 Biosa — Embodied Soul / Mind | ES / EM | 🍷 Malara / 🤯 Mania — Inverse Embodied Soul / Mind | IES / IEM |
+
+🕳️⇉⚫♾⇋C↑⚫ E↓♾
 
 ---
 
