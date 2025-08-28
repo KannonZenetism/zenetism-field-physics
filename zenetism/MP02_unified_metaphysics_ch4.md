@@ -596,7 +596,7 @@ the more closely it is resonating with its own deep pattern.
 This model dissolves the dichotomy  
 between **determinism** and **free will**.  
 
-The more attuned the soul is to its true pattern,  
+The more attuned the soul is to its authentic pattern,  
 the wider its experiential spectrum of freedom becomes.  
 
 ♾☍E↑→E🌀🍃  
