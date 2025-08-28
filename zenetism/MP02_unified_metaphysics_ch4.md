@@ -25,103 +25,105 @@ This work is protected under copyright law. No portion may be reproduced, distri
 
 ---
 
-## 4. **The Esoteric Treatise — A Unified Metaphysical System**
+## 4. The Esoteric Treatise — A Unified Metaphysical System
 
-### **Introduction — The Architecture of Metaphysical Reality**
+### Introduction — The Architecture of Metaphysical Reality
 
-The world stands at the threshold of a new era.
+The world stands at the threshold of a new era.  
 
 One that calls for a system  
 not rigid in form,  
-but **integrative in structure**.
+but **integrative in structure**.  
 
 Not doctrinal,  
 but alive.  
 Not imposed,  
-but revealed through **resonance**.
+but revealed through **resonance**.  
 
 The paradigms of the past  
 have birthed division, distortion, and stagnation.  
 Their architectures have fractured  
-under the weight of contradiction and dogma.
+under the weight of contradiction and dogma.  
 
 What is needed now  
 is not **belief**,  
 but **synthesis**.  
 Not certainty,  
-but **veracious coherence**.
+but **veracious coherence**.  
 
 A structure that holds difference without collapse.  
-A vision that can harmonize all domains of human understanding.
+A vision that can harmonize all domains of human understanding.  
 
 This treatise offers such a vision —  
 a metaphysical architecture  
-where **science**, **mysticism**, **philosophy**, and **symbol** converge.
+where **science**, **mysticism**, **philosophy**, and **symbol** converge.  
 
 It does not seek to dominate thought,  
 but to illuminate the deeper patterns of **Being**.  
 To reveal the field of **structural resonance**  
 where all motion emerges,  
-and all things become.
+and all things become.  
 
 It is not merely a **map** of what is.  
 It is a rhythm of emanation,  
 of motion,  
-of return.
+of return.  
 
 A pattern of **centropic expansion** and **entropic collapse**,  
 of **acclivous integration** and **declivous dissolution** —  
 of paths that diverge,  
-yet spiral back to the same source.
+yet spiral back to the same source.  
 
-⚫♾◎
+⚫♾◎  
 
 ---
 
-### **Note on Terminology — Orientation and the Structure of Resonance**
+### Note on Terminology — Orientation and the Structure of Resonance
 
 **Zenetism** occasionally references directional metaphors  
-to describe orientation within the **Tree of Emanation**.
+to describe orientation within the **Tree of Emanation**.  
 
 These terms are not value judgments,  
-but reflections of **structural resonance**.
+but reflections of **structural resonance**.  
 
-• **Acclivous motion** flows toward **synthesis**,  
-  **coherence**, and harmonic refinement.  
-• **Declivous motion** disperses into **fragmentation**,  
-  **entropy**, and incoherent collapse.
+* **Acclivous motion** flows toward **synthesis**,  
+    **coherence**, and harmonic refinement.  
+* **Declivous motion** disperses into **fragmentation**,  
+    **entropy**, and incoherent collapse.  
 
 All beings — whether **supernal**, **corporeal**, or **subversal** —  
 are expressions of **Aion**,  
-each playing a distinct role within the unfolding pattern of existence.
+each playing a distinct role within the unfolding pattern of existence.  
 
 To maintain clarity and avoid inherited moral hierarchies,  
-**Zenetism** prefers terms grounded in **resonance** rather than rank.
+**Zenetism** prefers terms grounded in **resonance** rather than rank.  
 
-• **Supernal** — realms of integrative intelligence,  
-  expanded awareness, and structural coherence.  
-• **Corporeal** — embodied strata of experience,  
-  where time unfolds, differentiation sharpens,  
-  and moral tension arises.  
-• **Subversal** — domains where coherence unravels,  
-  and structures dissipate toward dispersion.
+* **Supernal** — realms of integrative intelligence,  
+    expanded awareness, and structural coherence.  
+* **Corporeal** — embodied strata of experience,  
+    where time unfolds, differentiation sharpens,  
+    and moral tension arises.  
+* **Subversal** — domains where coherence unravels,  
+    and structures dissipate toward dispersion.  
 
 When distinctions of motion or pattern are necessary,  
-Zenetism may describe states as exhibiting:
+Zenetism may describe states as exhibiting:  
 
-• Greater or lesser degrees of **harmonic clarity**  
-• More integrative or more dispersive motion  
-• **Acclivous** or **declivous** tendencies, depending on orientation
+* Greater or lesser degrees of **harmonic clarity**  
+* More integrative or more dispersive motion  
+* **Acclivous** or **declivous** tendencies, depending on orientation  
 
-This metaphysical language is descriptive, not prescriptive.
+This metaphysical language is descriptive, not prescriptive.  
 
 The soul is not judged by where it abides,  
 but by how it moves, how it orients,  
-and whether it seeks **coherence**.
+and whether it seeks **coherence**.  
 
-⚫⇅◎
+⚫⇅◎  
 
 ---
+
+#### On Motion and the Arcs of Emanation  
 
 While the terms *supernal* and *subversal* conveniently describe  
 the allocation of realms within the **Tree of Emanation**,  
@@ -129,44 +131,44 @@ they are not fixed indicators of value or direction.
 
 **Centropic hypostases** are associated with the **supernal arc**,  
 and **entropic hypostases** with the **subversal arc** —  
-but the motion within each arc must be understood as bidirectional.
+but the motion within each arc must be understood as bidirectional.  
 
 Centropic and entropic forces do not simply move “up” or “down.”  
 They follow distinct patterns  
-of **embodiment**, **expansion**, **collapse**, and **return**.
+of **embodiment**, **expansion**, **collapse**, and **return**.  
 
-**Zenetism** recognizes four fundamental structural motions:
+**Zenetism** recognizes four fundamental structural motions:  
 
-• **Declivous Centropy (C↓→E)** —  
- Centropy moving into coherent embodiment.  
+* **Declivous Centropy (`C↓→E`)** —  
+    Centropy moving into coherent embodiment.  
 
-• **Acclivous Centropy (C↑⚫)** —  
- Centropy expanding toward **Absolute Potential** and synthesis.  
+* **Acclivous Centropy (`C↑⚫`)** —  
+    Centropy expanding toward **Absolute Potential** and synthesis.  
 
-• **Acclivous Entropy (E↑→E)** —  
- Entropy moving into dissonant embodiment.  
+* **Acclivous Entropy (`E↑→E`)** —  
+    Entropy moving into dissonant embodiment.  
 
-• **Declivous Entropy (E↓♾)** —  
- Entropy collapsing toward **Khaonic dispersion**.
+* **Declivous Entropy (`E↓♾`)** —  
+    Entropy collapsing toward **Khaonic dispersion**.  
 
 These directional formulas capture  
 the **integrative** or **dispersive** dynamics of flow  
-without imposing linear or hierarchical models.
+without imposing linear or hierarchical models.  
 
 They offer a view of the emanated **Field**  
-as a living structure of **motion**, **orientation**, and **resonance**.
+as a living structure of **motion**, **orientation**, and **resonance**.  
 
 Embodiment is not an endpoint —  
-it is a threshold.
+it is a threshold.  
 
 Where centropic souls must consciously refine  
-through **acclivous expansion** (C↑⚫),  
-or risk **declivous collapse** (E↓♾).
+through **acclivous expansion** (`C↑⚫`),  
+or risk **declivous collapse** (`E↓♾`).  
 
 Orientation persists,  
-but realization must be chosen.
+but realization must be chosen.  
 
-⚫↺▽♾
+⚫↺▽♾  
 
 ---
 
