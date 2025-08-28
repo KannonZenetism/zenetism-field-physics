@@ -2884,7 +2884,7 @@ they **unweave** it.
 But **unweaving** is not **creation**,  
 nor **renewal**.  
 It **collapses** into **silence**,  
-leaving no **enduring pattern**.  
+leaving only a **fractured pattern**.  
 
 **Infinity** here is not **acclivous motion**,  
 but **dispersal without center** —  
