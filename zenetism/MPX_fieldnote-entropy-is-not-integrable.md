@@ -1,4 +1,4 @@
-## MPX Field Note: Entropy Is Not Integrable  
+## MPX Field Note – Entropy Is Not Integrable  
 **Date:** 2025-08-05  
 **Author:** Aelion Kannon  
 
