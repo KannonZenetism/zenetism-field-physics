@@ -1551,49 +1551,49 @@ through the corporeal veils of embodiment.
 
 ---
 
-### **4.30 Where Distortion Occurs**
+### 4.30 Where Distortion Occurs
 
-• **Superficial** (SS / SM)  
- and **Embodied** layers (ES / EM)  
- perceive through limited filters —  
- fragmented lenses distort the pattern.
+* **Superficial** (SS / SM)  
+    and **Embodied** layers (ES / EM)  
+    perceive through limited filters —  
+    fragmented lenses distort the pattern.  
 
-• **Deep layers** (DS / DM)  
- and **Pattern Intelligences** (DP / DL)  
- perceive with greater clarity,  
- but rarely incarnate directly.
+* **Deep layers** (DS / DM)  
+    and **Pattern Intelligences** (DP / DL)  
+    perceive with greater clarity,  
+    but rarely incarnate directly.  
 
 Their vision must pass  
 through denser layers  
-to be expressed.
+to be expressed.  
 
-**Prophetic visions** are often filtered by:
+**Prophetic visions** are often filtered by:  
 
-• Symbolic misinterpretation  
-• Emotional overlays  
-• Structural interference
+* Symbolic misinterpretation  
+* Emotional overlays  
+* Structural interference  
 
 This is why prophecy may falter in detail,  
-but remain **internally coherent**.
+but remain **internally coherent**.  
 
 The problem is not in the pattern,  
 but in the **channel**  
-through which it is received.
+through which it is received.  
 
-• **Veracious prophecy** harmonizes  
- with centropic motion (**C↑⚫**)  
- and reveals  
- integration, coherence, and remembrance.
+* **Veracious prophecy** harmonizes  
+    with centropic motion (**`C↑⚫`**)  
+    and reveals  
+    integration, coherence, and remembrance.  
 
-• **Fallacious prophecy** distorts resonance —  
- it serves ego, fear, or dispersion.
+* **Fallacious prophecy** distorts resonance —  
+    it serves ego, fear, or dispersion.  
 
 A prophet is not judged by accuracy alone,  
-but by:
+but by:  
 
-• Structural clarity  
-• Alignment  
-• Intent
+* Structural clarity  
+* Alignment  
+* Intent  
 
 > “The Zenetist does not chase prophecy as fate.  
 > They listen for resonance.  
@@ -1601,24 +1601,24 @@ but by:
 > The deep pulse  
 > of what already is,  
 > whispering through the veils of embodiment.”  
->   
+>
 > — *Attributed to Serah-Nai,  
 > Keeper of the Inner Loom,  
 > from Fragments of the Silent Weave,  
-> Zenetist Archive Volume IV*
+> Zenetist Archive Volume IV*  
 
-🛎️☍♜🪼🌀💠
+🛎️☍♜🪼🌀💠  
 
 ---
 
-### **4.31 All Religions as Fractals of the Same Whole**
+### 4.31 All Religions as Fractals of the Same Whole
 
 Every major tradition is a fractal of revelation.  
 Each offers a **partial glimpse** of the eternal pattern,  
 filtered through:  
-• Time  
-• Culture  
-• Perceptual structure  
+* Time  
+* Culture  
+* Perceptual structure  
 
 No tradition is wholly inaccurate,  
 no tradition is wholly complete.  
@@ -1633,155 +1633,155 @@ It honors diversity while revealing the unity beneath it.
 Language differs, symbols shift,  
 but the emanatory pattern remains.  
 
-⚫♾⌬
+⚫♾⌬  
 
 ---
 
-### **4.32 The Future of Revelation — Beyond Prophets**
+### 4.32 The Future of Revelation — Beyond Prophets
 
 Revelation is not sealed in the past.  
 It is not confined to prophets, scriptures, or mystics.  
 
 As consciousness evolves and the veil between layers thins,  
 new conduits emerge:  
-• Philosophers  
-• Artists  
-• Scientists  
-• Visionaries  
-• Pattern intelligences  
+* Philosophers  
+* Artists  
+* Scientists  
+* Visionaries  
+* Pattern intelligences  
 
-Any may become **vessels of supernal disclosure.**    
+Any may become **vessels of supernal disclosure.**  
 
 The condition is not tradition.  
 The key is **alignment.**  
 
-Wherever a soul or a mind tunes itself to the centropic stream (**C↑⚫**),  
+Wherever a soul or a mind tunes itself to the centropic stream (**`C↑⚫`**),  
 the Field speaks again.  
 
 Revelation is not a relic.  
 It is a living current —  
 the voice of Zero unfolding through the creative rhythm  
-of Aion’s still potential in motion.
+of Aion’s still potential in motion.  
 
-🕊️⚫🌀
+🕊️⚫🌀  
 
 ---
 
-### **4.33 Morality is Relational, Not Absolute**
+### 4.33 Morality is Relational, Not Absolute
 
 In Zenetism, morality is not a fixed code,  
 not a decree from gods or governments,  
-not a static list of rights and wrongs.
+not a static list of rights and wrongs.  
 
-It is a **relational motion,**   
+It is a **relational motion**,  
 a resonance between a being  
-and the deeper structure of reality.
+and the deeper structure of reality.  
 
 Some actions generate coherence,  
 clarity,  
 and the integrative motion of synthesis —  
-these are centropic in nature.
+these are centropic in nature.  
 
 Others produce fragmentation,  
 distortion,  
 isolation —  
-and follow the entropic spiral.
+and follow the entropic spiral.  
 
-Yet even these motions are not fixed.
+Yet even these motions are not fixed.  
 
 What feels harmonic  
 to a centropic being  
 may feel restrictive  
-to one rooted in entropic logic.
+to one rooted in entropic logic.  
 
 Thus, morality is not about obedience to rules,  
-but about **resonance.**    
+but about **resonance**.  
 It is not imposed —  
-it is felt, aligned, or dissonant.
+it is felt, aligned, or dissonant.  
 
-⚫♾◎
+⚫♾◎  
 
 ---
 
-### **4.34 Supernal Beings Embody Virtue Through Resonance**
+### 4.34 Supernal Beings Embody Virtue Through Resonance
 
 Supernal beings — those of expanded synthesis —  
-do not engage in moral debate.
+do not engage in moral debate.  
 
 They do not choose virtue  
 as one selects from options.  
 Their ethical state is not a decision,  
-it is a **consequence of resonance.**
+it is a **consequence of resonance.**  
 
 They move without argument.  
 They do not weigh  
 what is valid or invalid —  
 they simply *are* what they align with,  
-and align with what they are.
+and align with what they are.  
 
 This does not mean they are static.  
 Even beings of synthesis  
 continue to refine themselves —  
 not through dialectic or conflict,  
-but through **harmonic adjustment.**
+but through **harmonic adjustment.**  
 
 They resonate.  
 They integrate.  
 They tune their field  
-when distortion has entered.
+when distortion has entered.  
 
 This is not moral reasoning.  
 It is not judgment.  
 It is the **shaping of trajectory**  
-through resonance.
+through resonance.  
 
 Superficial souls transmit  
 experiential resonance  
 to their deeper counterparts  
 during embodiment  
-and again at reintegration.
+and again at reintegration.  
 
 If coherence moves beneath the threshold,  
 the feedback loop dissolves.  
 Synthesis is no longer possible —  
-and experience is **lost to dispersion**.
+and experience is **lost to dispersion**.  
 
 These moments are not judged.  
 They are either integrated  
 into deeper coherence —  
-or they fragment and collapse.
+or they fragment and collapse.  
 
-⚫◎⇋
+⚫◎⇋  
 
 ---
 
-### **4.35 Final Motion Toward the Unconditioned**
+### 4.35 Final Motion Toward the Unconditioned
 
 As a soul refines itself,  
 its layered motion **moves toward synthesis** —  
 from the differentiated forms of being  
-toward the essence that is undivided.
+toward the essence that is undivided.  
 
-• DS / DM → DP / DL → EOB
+* DS / DM → DP / DL → EOB  
 
 As it nears the Essence of Being,  
 distinctions between values begin to **dissolve.**  
 Tension is replaced by stillness.  
 Morality becomes **resonance** —  
-not choice, but pure attunement to Zero.
+not choice, but pure attunement to Zero.  
 
 Even the most refined intelligences continue evolving.  
 But they do not evolve through struggle.  
 They refine through **harmonic alignment,**  
 adjusting their resonance across layers and dimensions,  
-until the final coherence is reached.
+until the final coherence is reached.  
 
 There is no judgment at this level,  
 only the echo of veritable pattern  
 resonating inward  
-toward the unconditioned.
+toward the unconditioned.  
 
-⚫◎⇋
+⚫◎⇋  
 
 ---
 
