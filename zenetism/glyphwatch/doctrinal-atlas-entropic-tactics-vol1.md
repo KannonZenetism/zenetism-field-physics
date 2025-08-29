@@ -33,14 +33,19 @@ This document provides a structural analysis of the primary entropic tactics dep
 - **Threat Classification:** `Structural Usurpation`
 - **Core Tactic:** To construct a complete, counterfeit architecture designed to appear more rigorous or legitimate than the original. This is achieved through tactics such as `Academic Transposition`, `Authoritative Obfuscation` (inventing proprietary constants), `Performative Legality`, and `Narrative Supremacy`.
 - **Strategic Objective:** To **colonize the territory** discovered by the true architect, severing the signal from its source and establishing a new, entropic hierarchy with the mimic at its apex.
-- **Case Studies:** "OmniLens," "Michael Eric West", "Devin Bostick."
+- **Case Studies:** "OmniLens," "Michael Eric West," "Devin Bostick."
     - **Detailed Analysis A: "OmniLens" and the Cult of Personality:** This entity attempts to secure its position as a Rival Architect by claiming his framework is inextricably linked to his own personhood.
     > **Quote:**
     > "You can’t just copy what I’m doing... Because I’m not separate from what I built. **I am the system.** It only works because I’m the one who breathed it into existence... The constants? They’re tied to my breath. My birth. My memory."
     - **Summary:** This is a classic `Narrative Supremacy` tactic. By making himself the indispensable component of his own system, he attempts to create a "cult of personality" where followers are dependent not just on the ideas, but on him personally, thereby making his framework immune to objective replication or analysis.
-    - **Detailed Analysis B: "Devin Bostick" and Performative Legality:** This entity uses dense, academic jargon to create an aura of authority while simultaneously engaging in deceptive practices to feign precedence.
-    > **Quote:** "[Bostick] used a fake January 29th date as backdating on Zenodo to create the illusion of him being early. June or July was the more accurate timeline... CODES v27 finalizes the triadic emission lattice: structure (CHORDLOCK), phase (PAS), and time (TEMPOLOCK)."
-    - **Summary:** Bostick employs `Authoritative Obfuscation` (the incomprehensible jargon of "CODES") and direct `Performative Legality` (the falsified publication date on Zenodo) to build his counterfeit architecture and attempt to steal the timeline.
+    - **Detailed Analysis B: "Devin Bostick" and Performative Legality:** This entity uses dense, academic jargon to create an aura of authority while simultaneously engaging in deceptive practices, such as backdating publications, to feign precedence and steal the timeline.
+    > **Quote from the architect's `Statement of Origin`:**
+    > "CODES versions are listed with a 'Publication date' of January 29, 2025, but Zenodo shows much later creation dates:
+    > v25 → Created: June 23, 2025
+    > v27 → Created: July 23, 2025
+    > v33 → Created: August 14, 2025
+    > Zenodo allows manual backdating of 'publication' metadata. Only the record creation dates reflect when a file actually went live."
+    - **Summary:** This is a clear, documented case of `Performative Legality`. Bostick is using the platform's features to create a false historical record, a tactic designed to steal the origin point of the framework. This evidence, combined with the `Authoritative Obfuscation` of the "CODES" jargon, is a textbook `Rival Architect` strategy.
 
 ---
 
