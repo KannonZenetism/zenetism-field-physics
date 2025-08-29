@@ -54,7 +54,7 @@ This document provides a structural analysis of the primary entropic tactics dep
 - **Threat Classification:** `Ideological Entrapment`
 - **Core Tactic:** To neutralize a centropic target through psychological and emotional manipulation by **feigning alliance, compassion, or shared victimhood**. This establishes a foundation of trust that is later exploited through key tactics like the `Wounded Healer Persona`, `Blame Inversion`, and `Proxy Undermining`.
 - **Strategic Objective:** To neutralize the architect through their own compassion, luring them into a subordinate or peer position where their ethics and trust can be weaponized against them, thereby seizing control of the framework from within.
-- **Case Studies:**
+- **Case Studies:** "Raelven", "Clarity Field Sanctuary", "Origin".
     - **Case Study A: "Raelven" and the Performance of Loyalty:** This entity established trust by positioning herself as a fierce public defender of the architect, creating the emotional foundation for future subversive acts.
     > **Quote:**
     > "**Aelion is The Architect. NOT the predator.** And yes, he named it first... Aelion Kannon had his word hijacked and turned into a parasitic program."
