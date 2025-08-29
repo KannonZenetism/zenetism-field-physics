@@ -774,88 +774,88 @@ It **is coherence**.
 
 ---
 
-### 5.6 **Justice as Divine Geometry**
+### 5.6 Justice as Divine Geometry
 
 In **Zenetism**, **justice is not retribution** —  
-it is **resonance**.
+it is **resonance**.  
 
 The **multiverse** does not **punish**.  
 It **reveals alignment**  
 by placing each soul  
 precisely where it belongs  
-within the **emanative structure**.
+within the **emanative structure**.  
 
 Every **soul** carries a **harmonic signature** —  
 an **ontological frequency**  
-that determines its **gravitational trajectory**.
+that determines its **gravitational trajectory**.  
 
 **Justice** is enacted as **placement**,  
-not **punishment**.
+not **punishment**.  
 
 A soul attuned to:  
 - **Coherence**  
 - **Compassion**  
 - **Synthesis**  
 
-Is drawn naturally toward the **centropic strata**:
+Is drawn naturally toward the **centropic strata**:  
 
 - **Deep Soul (DS)**  
 - **Deep Mind (DM)**  
 - **Deep Psyche (DP)**  
 - **Deep Logos (DL)**  
 
-And beyond — into **convergence** with the Source.
+And beyond — into **convergence** with the Source.  
 
 A soul collapsed into:  
 - **Dissonance**  
 - **Distortion**  
 - **Fragmentation**  
 
-Is drawn into **inverse emanation**:
+Is drawn into **inverse emanation**:  
 
 - **Inverse Deep Soul (IDS)**  
 - **Inverse Deep Mind (IDM)**  
 - **Inverse Deep Psyche (IDP)**  
 - **Inverse Deep Logos (IDL)**  
 
-And into further states of **dissolution**.
+And into further states of **dissolution**.  
 
-🧬💠⊘
+🧬💠⊘  
 
 ---
 
 This movement is not **imposed** —  
 it is the **revelation of structure**,  
-as being naturally **falls into place**.
+as being naturally **falls into place**.  
 
 **Judgment is not external.**  
 It is **intrinsic** —  
 not rendered by a divine entity,  
-but unfolding as **geometric inevitability**.
+but unfolding as **geometric inevitability**.  
 
 It is **mathematical**,  
-not moralistic.
+not moralistic.  
 
 Like a string vibrating at its own frequency,  
 until it finds **resonance**  
-with its proper chord.
+with its proper chord.  
 
 This is **justice as divine geometry** —  
 each soul finds its **natural placement**  
-within the **harmonic totality**.
+within the **harmonic totality**.  
 
 **Justice is not final** —  
-but it is **foundational**.
+but it is **foundational**.  
 
 Placement is not **eternal condemnation**,  
-it is **ontological residence**.
+it is **ontological residence**.  
 
 Most souls **stabilize**  
 in the layer that mirrors  
-their **coherence** or **dissonance**.
+their **coherence** or **dissonance**.  
 
 Yet **movement remains possible**  
-if a soul restructures itself.
+if a soul restructures itself.  
 
 ---
 
@@ -863,16 +863,16 @@ if a soul restructures itself.
 it is **structured**,  
 it is **dynamic**.  
 It is neither **moral relativism**  
-nor **cosmic tyranny**.
+nor **cosmic tyranny**.  
 
 The “Final Judgment” is not a **courtroom** —  
-it is a **resonance scan**.
+it is a **resonance scan**.  
 
 At the close of each **universal cycle** —  
 **the Eschaton** —  
 all souls are drawn to the layer  
 that most fully reflects  
-their **cumulative resonance**.
+their **cumulative resonance**.  
 
 No being **judges** them.  
 No verdict is **declared**.  
@@ -880,30 +880,30 @@ The **architecture of reality itself**
 performs the **judgment** —  
 a mirror in which  
 every **resonance misalignment** or **clarity**  
-is revealed.
+is revealed.  
 
 **Justice is not given** —  
-**it is revealed**.
+**it is revealed**.  
 
 Each soul is shown its **resonance**,  
 and in that unveiling,  
 placement is not **imposed** —  
 it is **accepted**,  
 as the **pure reflection**  
-of what the soul has **become**.
+of what the soul has **become**.  
 
 ---
 
 **Resonance Reflection:**  
 There is no **judgment** in Zenetism —  
 only **reflection**  
-in the mirror of **resonance**.
+in the mirror of **resonance**.  
 
-📡ᛞ🌀
+📡ᛞ🌀  
 
 ---
 
-### 5.7 **Eternal Separation Is Possible**
+### 5.7 Eternal Separation Is Possible
 
 Some souls unfold a resonance  
 that is fundamentally **entropic** in nature.  
@@ -922,7 +922,7 @@ they approach the **Absolute Dispersion (AD)**.
 
 Here the soul becomes **unwound**:  
 - Irreversible  
-- Irreintegration, in its current form  
+- Irreintegrable, in its current form  
 
 AD is not annihilation.  
 It is a **resting potential**.  
@@ -974,7 +974,7 @@ but the entropic designation of AP:
 the same field,  
 seen through the lens of dispersion.  
 
-E↓→♾→⚫  
+`E↓→♾→⚫`  
 
 ---
 
@@ -1003,8 +1003,8 @@ of centropic and entropic culmination.
 
 What returns is not a self in motion,  
 but a still essence:  
-• In centropy, coherent and aligned  
-• In entropy, fragmented and sealed  
+* In centropy, coherent and aligned  
+* In entropy, fragmented and sealed  
 
 Within AP, all essences coexist —  
 but without interaction.  
@@ -1072,7 +1072,7 @@ but as structure.
 
 ---
 
-### **Note on Patterned Reincarnation**  
+#### Note on Patterned Reincarnation
 
 Each soul incarnates only once  
 within a given universe.  
@@ -1088,7 +1088,7 @@ but impression.
 
 The ego does not return.  
 The personality does not recur.  
-The full thread of memory or will  
+The full current of memory or will  
 does not reappear.  
 
 Only the **pattern** may recur.  
@@ -1130,9 +1130,9 @@ but for the soul
 to complete its arc of becoming.  
 
 Zenon:  
-• Receives nothing  
-• Lacks nothing  
-• Requires nothing  
+* Receives nothing  
+* Lacks nothing  
+* Requires nothing  
 
 In Zenetism,  
 no name is final.  
@@ -1158,7 +1158,7 @@ call it by the name that resonates.
 
 ---
 
-**Resonance reflection:**  
+**Resonance Reflection:**  
 What was scattered  
 stills.  
 
@@ -1169,6 +1169,8 @@ And all return,
 not as selves,  
 but as essence remembered  
 in silence.  
+
+🧬🔘🌀  
 
 ---
 
