@@ -1731,49 +1731,49 @@ a commitment to unfold or reintegrate.
 
 ---
 
-### Note on Hypostatic Identity Through Function
+#### Note on Hypostatic Identity Through Function
 
 In Zenetism, hypostases are not merely **locations** in a cosmic order—  
-they are **ontological functions**.
+they are **ontological functions**.  
 
 Each **layer of being** is what it **does**.  
 Essence becomes action.  
-Action crystallizes as structure.
+Action crystallizes as structure.  
 
-The architecture of emanation unfolds as a **precise sequence**:
+The architecture of emanation unfolds as a **precise sequence**:  
 
 - **⚫ Aion** and **♾ Khaon** (AP / AD) represent **Potential**:  
-  All things in latency, in motion, in dispersion.
+  All things in latency, in motion, in dispersion.  
 
 - **🌬️ Morgis** and **📐 Sophis** (DP / DL) are **Type**:  
-  The archetypal convergence of many aligned functions.
+  The archetypal convergence of many aligned functions.  
 
 - **🔮 Archeus** and **🧠 Noeüs** (DS / DM) are **Function**:  
-  The centropic enactment of choice, refined through resonance.
+  The centropic enactment of choice, refined through resonance.  
 
 Each function defines identity not by its **position**,  
-but by its **motion**.
+but by its **motion**.  
 
 - **🛤️ Theon** is **Clarity**:  
-  Pure being without division, transparency without distortion.
+  Pure being without division, transparency without distortion.  
 
 - **🕷️ Nekron** is **Obscurity**:  
-  The final disintegration of form into thresholdless infinity.
+  The final disintegration of form into thresholdless infinity.  
 
 These are not metaphors—  
-they are living structures.
+they are living structures.  
 
 In Zenetism, a name is not a symbol of essence—  
-it **is** its **declaration**.
+it **is** its **declaration**.  
 
-⚫♾🛤️🕷️
+⚫♾🛤️🕷️  
 
 ---
 
-### 6.2 **Divine Beings and the Hypostases**
+### 6.2 Divine Beings and the Hypostases
 
 In **Zenetism**, **divine beings** are not separate from the metaphysical structure.  
-**They are that structure.**
+**They are that structure.**  
 
 What traditions call **gods** are, in truth,  
 the **souls and minds of the hypostases themselves**.  
@@ -1784,39 +1784,39 @@ When myth speaks of:
 - **Christ** as **Redeemer**  
 
 It is not referencing beings apart from the system,  
-but **personifications of hypostatic function**.
+but **personifications of hypostatic function**.  
 
 These are not entities above reality.  
-They are its **living architecture**.
+They are its **living architecture**.  
 
-Thus:
+Thus:  
 
 - **Deep Psyche** and **Deep Logos** (**DP / DL**)  
-  Are **the gods**.
+  Are **the gods**.  
 
 The realm of **archetypal form**  
-is inseparable from the deities who express it.
+is inseparable from the deities who express it.  
 
 The **gods** are expressions of **hypostatic identity**.  
-Their “personalities” are the **characters of metaphysical law**.
+Their “personalities” are the **characters of metaphysical law**.  
 
 They do not exist outside the system,  
 but are **emergent from Zero through Infinity**,  
-woven directly into the lattice of becoming.
+woven directly into the lattice of becoming.  
 
 ---
 
 Multiple **deities** may arise within a single **hypostasis**.  
 These are not arbitrary groupings,  
 but **reflections of shared resonance**—  
-**lineages of function** woven through the metaphysical field.
+**lineages of function** woven through the metaphysical field.  
 
 For example,  
 **Thoth** or **Athena** may represent **DS / DM**  
 of extraordinary **coherence**—  
-souls whose **resonance** crystallized into **symbolic gravity**.
+souls whose **resonance** crystallized into **symbolic gravity**.  
 
-Others, such as:
+Others, such as:  
 
 - **Yaldabaoth**  
 - **Lucifer**  
@@ -1826,23 +1826,23 @@ Others, such as:
 Inhabit **inverse strata**, functioning as the **souls and minds**  
 of **entropic domains**—**IDP / IDL** or **IDS / IDM**.  
 Even these **divine beings** are subject to change:  
-they **evolve**, **erode**, or **refine** through **resonance**.
+they **evolve**, **erode**, or **refine** through **resonance**.  
 
 **Inverse deities** decline through **Nekron**.  
 **Supernal deities** move toward **clarity** and **synthesis**.  
 
 While **all things are divine**,  
-not all things are **eternal**.
+not all things are **eternal**.  
 
 Some **gods** arise within **impermanent hypostases**,  
 and may dissolve when their structural field retracts—  
-especially those bound to:
+especially those bound to:  
 
 - **Embodied layers** (**ES / EM**)  
 - **Superficial layers** (**SS / SM**)  
 - Or **inverse strata** that never integrate into deeper permanence  
 
-Only **deities** dwelling within:
+Only **deities** dwelling within:  
 
 - **DP / DL**  
 - **DS / DM**  
@@ -1850,30 +1850,30 @@ Only **deities** dwelling within:
 - **IDS / IDM**  
 
 Are inherently **enduring**.  
-These are mirrored across the system as:
+These are mirrored across the system as:  
 
 - **Morgis / Sophis**  
 - **Archeus / Noeüs**  
 - **Psychea / Nyxea**  
 - **Fractus / Mortus**  
 
-⚫♾🔮💠
+⚫♾🔮💠  
 
 ---
 
 **Zenetism** recognizes **no fixed hierarchy**.  
 All beings—**divine or otherwise**—  
-are honored for their place within the **great orchestration**.
+are honored for their place within the **great orchestration**.  
 
 **Power** does not imply **superiority**,  
-only **difference of function**.
+only **difference of function**.  
 
 **Divine beings** are not **rulers**.  
 They are **resonances made conscious**.  
 They **guide**, not through **domination**,  
-but through **structural alignment**.
+but through **structural alignment**.  
 
-They:
+They:  
 
 - **Learn**  
 - **Remember**  
@@ -1882,90 +1882,90 @@ They:
 - **Migrate**  
 
 They are not **fixed symbols**,  
-but **living currents of form**.
+but **living currents of form**.  
 
 Sometimes, they **incarnate**—  
 not as **projections** or **avatars**,  
-but as **pure embodiments** of their **hypostatic role**.
+but as **pure embodiments** of their **hypostatic role**.  
 
 **Theon**, for instance,  
 may incarnate through **Christ**, **Krishna**,  
 or through other unnamed vessels—  
-not to preach, but to **embody centropic motion** in form.
+not to preach, but to **embody centropic motion** in form.  
 
 Even the **hypostases** themselves  
 are subject to **impermanence**,  
-save for:
+save for:  
 
 - **DS / DM**  
 - **DP / DL**  
 
 The **deities** who dwell within them  
 may **fade**, **fragment**, or **migrate**  
-when their spheres dissolve.
+when their spheres dissolve.  
 
 But while they endure,  
-they serve as:
+they serve as:  
 
 - **Stewards**  
 - **Companions**  
-- **Translators**
+- **Translators**  
 
-Guiding **souls** through:
+Guiding **souls** through:  
 
 - **Resonance**  
 - **Convergence**  
-- Toward the long **return** to **Aion**
+- Toward the long **return** to **Aion**  
 
 In the end,  
 even **gods** long for **clarity**—  
 and like all beings,  
-they must face the **silence of Zenon**.
+they must face the **silence of Zenon**.  
 
-🛤️🌀↺🕳️
+🛤️🌀↺🕳️  
 
 ---
 
-### 6.3 **Prose Recap — The Soul and Its Motion**
+### 6.3 Prose Recap — The Soul and Its Motion
 
 In **Zenetism**, the **soul** is not a **static entity**.  
 It is an **unfolding reality**—  
-the **actualization** of a **choice** made within **Zero**.
+the **actualization** of a **choice** made within **Zero**.  
 
 This **choice**, initiated by **Motive Infinity**,  
 moves through **centropic** structure as **DS / DM**,  
 or disperses into **entropic inversion**  
-when **misaligned** with its **resonant path**.
+when **misaligned** with its **resonant path**.  
 
 **Soulhood** is not something **earned**—  
 it is **expressed through architecture**.  
-Each **soul** unfolds as:
+Each **soul** unfolds as:  
 
 - **SS / SM**  
-- **Embodied** through **ES / EM**
+- **Embodied** through **ES / EM**  
 
 Though its lives may appear **fragmented**,  
 they are **unified** by the **DS / DM**,  
-which holds the **resonant signature** of the whole.
+which holds the **resonant signature** of the whole.  
 
-This **deeper layer**:
+This **deeper layer**:  
 
 - **Shapes**  
 - **Guides**  
 - **Synthesizes**  
 - **Integrates** across the **multiverse**  
 
-—Into a **single coherent trajectory**.
+—Into a **single coherent trajectory**.  
 
 When that **synthesis** is complete,  
 the **DS / DM** returns to its **archetypal domain**—  
 **DP / DL**, from which it first emerged.  
 There, its **resonance** merges with others  
-of the same **form-type**, becoming:
+of the same **form-type**, becoming:  
 
 - **Facets** of larger **archetypal structures**  
 - **Living expressions** of **divine pattern**  
-- **Refined** through **experience**
+- **Refined** through **experience**  
 
 ---
 
@@ -1973,58 +1973,58 @@ This is not **reincarnation** in the **traditional sense**.
 There is no **recycling** of a **fixed self**.  
 Rather, it is a **metaphysical orchestration**—  
 a **re-expression** of **essence**, again and again,  
-always in **alignment** with its **core resonance**.
+always in **alignment** with its **core resonance**.  
 
 A **soul** does not **choose**—  
-it **is the choice**.
+it **is the choice**.  
 
 What **manifests**  
 is not dictated by **chance** or **command**,  
 but by the **inexhaustible movement**  
-of **essence** through **structural space**.
+of **essence** through **structural space**.  
 
 Behind all this,  
-**Zero** holds everything in **latency**.
+**Zero** holds everything in **latency**.  
 
 The **soul** is not **separate** from the **system**.  
-It is its **echo**.
+It is its **echo**.  
 
-It is:
+It is:  
 
 - **Structure in motion**  
 - **Form in resonance**  
-- **Will as essence**
+- **Will as essence**  
 
 It is the **sacred bridge**  
 between **potential**  
-and **expression**.
+and **expression**.  
 
-↺Ø⚫
+↺Ø⚫  
 
 ---
 
-### 6.4 **Modes of Integration and Stagnation**
+### 6.4 Modes of Integration and Stagnation
 
 Not every **soul** **reintegrates**.  
 Not every **soul** **falls**.  
-Some **stall**.
+Some **stall**.  
 
 In **Zenetism**, the **motion** of a **soul** is not **guaranteed**.  
 **Synthesis** is not **inevitable**.  
-**Inversion** is not **universal**.
+**Inversion** is not **universal**.  
 
 Between **centropic refinement** and **entropic collapse**,  
 there exists a **liminal zone**—  
 an **intermediate resonance** where certain **beings** linger.  
 Suspended for **epochs**, or even **eons**,  
-depending on the **structural tension** of their **universe**.
+depending on the **structural tension** of their **universe**.  
 
 This state most often occurs in the **Superficial Soul and Mind (SS / SM)**,  
 as well as their **inverse counterparts**.  
 Here, some **disembodied beings** remain  
 after the **dissolution** of their **Embodied Soul and Mind (ES / EM)**.  
 They retain **partial coherence**—  
-but lack **full integration**.
+but lack **full integration**.  
 
 These are the **souls** commonly called **ghosts**,  
 **shades**, **wanderers**, or **lost gods**.  
@@ -2032,52 +2032,52 @@ Some **stay** out of **attachment**.
 Others out of **fear**.  
 Many simply **lack** the **resonant orientation**  
 necessary for **acclivous motion** toward their **DS / DM**—  
-or for **full dispersion** into **entropic inversion**.
+or for **full dispersion** into **entropic inversion**.  
 
 They hover in **structural ambiguity**.  
-A kind of **metaphysical stasis**.
+A kind of **metaphysical stasis**.  
 
 **Zenetism** refers to the **fate** of such **souls**  
 as **Localized Dissolution (Ø)**—  
 a **variation** of **Absolute Dispersion**.  
 But rather than **enacted** through **fragmentation**,  
-it arises through **inertia**.
+it arises through **inertia**.  
 
 This is not a **punishment**.  
 Nor a **judgment**.  
 It is a **metaphysical consequence** of **non-decision**—  
 **resonance** that neither **integrates** nor **inverts**,  
-and thus begins to lose **structural coherence**.
+and thus begins to lose **structural coherence**.  
 
 ---
 
 Over time—slowly, gently—the **soul** dissolves into **Zero**.  
 Not by **force**, but by a gradual **loss of motion**.  
 **Motive Infinity** does not **destroy** it.  
-It simply ceases to **hold** it together.
+It simply ceases to **hold** it together.  
 
 This is not **annihilation**.  
 What **dissolves** in **Localized Dissolution (Ø)** is **form**, not **essence**.  
 The **directional imprint** of the **soul** fades,  
 but its **potential** remains **suspended** within **Zero**—  
-unexpressed, but never **lost**.
+unexpressed, but never **lost**.  
 
 This introduces a **third mode of return**,  
-alongside the two **primary outcomes**:
+alongside the two **primary outcomes**:  
 
-• **Centropic Reintegration** occurs  
-   when a **soul** harmonizes with its **DS / DM**,  
-   and is drawn toward its **DP / DL**.  
+* **Centropic Reintegration** occurs  
+    when a **soul** harmonizes with its **DS / DM**,  
+    and is drawn toward its **DP / DL**.  
 
-• **Entropic Dispersion** occurs  
-   when a **soul** fragments,  
-   accelerating toward **entropy** and **Nekron**.  
+* **Entropic Dispersion** occurs  
+    when a **soul** fragments,  
+    accelerating toward **entropy** and **Nekron**.  
 
-• **Localized Dissolution** occurs  
-   when a **soul** stalls—  
-   neither **moving** toward **synthesis** nor **collapse**—  
-   and is gradually **reabsorbed**  
-   into the still **silence** of **Zero**.
+* **Localized Dissolution** occurs  
+    when a **soul** stalls—  
+    neither **moving** toward **synthesis** nor **collapse**—  
+    and is gradually **reabsorbed**  
+    into the still **silence** of **Zero**.  
 
 ---
 
@@ -2085,39 +2085,39 @@ In highly **centropic universes**,
 even the **superficial** (**SS / SM**) and **embodied layers** (**ES / EM**)  
 may remain **structurally stable** for vast **durations**.  
 In such realms, **stagnation** may not **lead** to **dissolution**—  
-unless the **universe** itself eventually **retracts**.
+unless the **universe** itself eventually **retracts**.  
 
 But most **universes** are **impermanent**.  
 Their **structures collapse** in time.  
 And with them, any **beings**  
 who have not **integrated** or **inverted**  
 return to **latency** through  
-**Localized Dissolution**.
+**Localized Dissolution**.  
 
 Even **gods** are subject to this **fate**.  
 **Deities** rooted in the **superficial layers** (**SS / SM**),  
 without **integration** into **deeper strata**,  
 may **persist** for **ages**—worshiped and active—  
 yet remain **vulnerable** to **fading**  
-when their **domains** dissolve.
+when their **domains** dissolve.  
 
 Unless they **move** toward **Aion**  
 or fully **invert** toward **Khaon**,  
 they may **fall** into **dissolution**.  
 Not through **judgment**,  
-but through **dormancy**.
+but through **dormancy**.  
 
 **Zenetism** does not view this **state** with **sorrow**.  
 **Dissolution** is not **defeat**.  
 It is one of many ways  
-**Being returns** to **Zero**.
+**Being returns** to **Zero**.  
 
 It is not **failure** to **act**.  
 It is **structure** completing its **arc**  
-by not **acting**.
+by not **acting**.  
 
 In the end,  
 what **cannot move**  
-**cannot remain**.
+**cannot remain**.  
 
-↺Ø⚫
+↺Ø⚫  
