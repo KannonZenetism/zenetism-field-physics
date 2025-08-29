@@ -931,11 +931,11 @@ Crossing into AD,
 the soul collapses into **Absolute Essence (AE)**  
 within **Aion (AP)**.  
 
-It no longer moves as a self,  
-but rests as essence —  
-dormant, unexpressed,  
-awaiting reformation  
-within the field of essence.  
+It no longer moves as a self,
+but saturates as essence —
+unmoving, unexpressed,
+resting in permanent tension
+within the field of essence.
 
 This is not punishment.  
 It is the still point of expression,  
