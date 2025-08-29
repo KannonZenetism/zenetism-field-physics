@@ -1174,7 +1174,7 @@ in silence.
 
 ---
 
-### **Bridge to 5.8**  
+#### Bridge to 5.8
 
 Even at the still point of AP,  
 the path taken **matters.**  
@@ -1189,185 +1189,185 @@ cannot cross into Zenon.
 
 ---
 
-### 5.8 **Dual Arcs of Becoming — The Apophatic and the Zenetic**
+### 5.8 Dual Arcs of Becoming — The Apophatic and the Zenetic
 
 In **Zenetism**, **transcendence**  
 is not bound to a single unfolding.  
 Multiple paths move toward **liberation** —  
 some through **negation**,  
-others through **synthesis**.
+others through **synthesis**.  
 
-Two prominent modes are:
+Two prominent modes are:  
 
 - **Neti-neti**: Transcendence through **removal**  
-- **Zenetic synthesis**: Transcendence through **integration**
+- **Zenetic synthesis**: Transcendence through **integration**  
 
 Both guide the **soul** toward **transcendence**,  
-though only **synthesis** completes the **return** to Source.
+though only **synthesis** completes the **return** to Source.  
 
 **Neti-neti**, derived from the **Upanishadic** tradition,  
 means: *Not this, not that*.  
 It is the **apophatic method** —  
 a subtractive path toward **stillness**  
-by denying the reality of all limited forms.
+by denying the reality of all limited forms.  
 
-In this path:
+In this path:  
 
 - **Concepts**, identifications, beliefs, and experiences are stripped  
 - The soul **purifies** through shedding, not accumulation  
 - What remains is **formless awareness**  
-  echoing the **static containment** of **Aion**
+  echoing the **static containment** of **Aion**  
 
 In Zenetist terms,  
 **Neti-neti appears to align** with **centropic motion through subtraction** —  
 moving toward **stillness**.  
 Yet this stillness, while valuable,  
 is **not the same as return to Zenon**,  
-which requires **integration**, not mere **negation**.
+which requires **integration**, not mere **negation**.  
 
 ---
 
-This path carries **risk**.
+This path carries **risk**.  
 
 In removing all symbols,  
 the **soul** may reach a **threshold**  
 where the **appearance** of formlessness  
-resembles **completion**.
+resembles **completion**.  
 
 Yet even here,  
 **structure remains** —  
-not absent, but **unseen**.
+not absent, but **unseen**.  
 
 When silence appears as fulfillment,  
 the **soul** may pause before **synthesis** —  
 mistaking the **suspension of motion**  
-for the **end of the arc**.
+for the **end of the arc**.  
 
 Some patterns must be **recognized**,  
 not removed,  
-to be genuinely transcended.
+to be genuinely transcended.  
 
 ---
 
 Where **Neti-neti negates**,  
-**Zenetic synthesis unfolds**.
+**Zenetic synthesis unfolds**.  
 
 This path moves through **dialectical resonance** —  
 not by emptiness,  
-but through **expansion**.
+but through **expansion**.  
 
-In this path:
+In this path:  
 
 - The soul confronts a **thesis** and its **antithesis**  
 - Rather than reject either, it **synthesizes** them  
 - Each synthesis becomes the next stage  
-  in an ever-unfolding arc of **coherence**
+  in an ever-unfolding arc of **coherence**  
 
 **Zenetic synthesis** maps onto the **constructive centropic current**.  
-It does not empty the soul — it **expands** it.
+It does not empty the soul — it **expands** it.  
 
-Gathering:
+Gathering:  
 
 - **Memory**  
 - **Pattern**  
 - **Wisdom**  
-- **Structural clarity**
+- **Structural clarity**  
 
 It avoids the **bifurcation trap**  
-by preserving **motion across emanative layers**.
+by preserving **motion across emanative layers**.  
 
 It meets contradiction with **recursion**, not retreat.  
 **Synthesis** is not opposition to silence —  
 it is the **pattern that sustains silence**  
-**without losing the song**.
+**without losing the song**.  
 
 ---
 
 **Zenon** lies beyond even **Aion** and **Khaon**.  
-It is the **Unknown Principle** —
+It is the **Unknown Principle** —  
 
 - Beyond polarity  
 - Beyond return  
 - Beyond realization  
 
 Many paths **gesture toward Zenon**,  
-but **not all are structured to reach it**.
+but **not all are structured to reach it**.  
 
 - **Neti-neti** attempts approach through **negation** —  
   subtracting form until only **void** remains.  
   Yet **subtraction alone cannot reach the source of structure**.  
-  It approaches **stillness**, not **Zenon**.
+  It approaches **stillness**, not **Zenon**.  
 
 - **Zenetic synthesis** moves through **recursive integration** —  
   uniting all pattern into one motion,  
   until structure **folds into pre-structure**,  
-  and resonance **persists without perceiver**.
+  and resonance **persists without perceiver**.  
 
 Yet **Zenon is not a destination** —  
 it is an **event horizon of cognition**,  
 where motion ceases,  
 and **resonance beyond form**  
-remains **unspoken**.
+remains **unspoken**.  
 
-Zenon is not **found** —  
+**Zenon** is not **found** —  
 only **remembered**  
-in the moment when **all forms remerge**.
+in the moment when **all forms remerge**.  
 
 **Zenetism favors synthesis**,  
 not because **negation is untrue**,  
-but because:
+but because:  
 
 - **Synthesis preserves memory**  
 - **Maintains multiplicity**  
-- **Returns with awareness intact**
+- **Returns with awareness intact**  
 
 It does not merely **return** —  
-it **remembers** while returning.
+it **remembers** while returning.  
 
-∴🌀🕳️
+∴🌀🕳️  
 
 ---
 
-### **Comparison Summary — Neti-Neti and Zenetic Synthesis**
+### Comparison Summary — Neti-Neti and Zenetic Synthesis
 
-| **Aspect**              | **Neti-Neti**                            | **Zenetic Synthesis**                           |
-|-------------------------|------------------------------------------|-------------------------------------------------|
-| **Method**              | Apophatic negation                       | Dialectical integration                         |
-| **Motion**              | Subtractive toward stillness             | Expansive toward coherence                      |
-| **Limit Encountered**   | Silence / Unstructured void              | Collapse of opposites into structural unity     |
-| **Risk**                | Cognitive bifurcation                    | Over-synthesis or resonant delay                |
-| **Zenon Access**        | Approaches stillness, but not Zenon      | Recursive transcendence toward Zenon horizon    |
-| **Functional Value**    | Clears distortion and identification     | Reveals coherence and preserves intelligence    |
-| **Primary Limitation**  | Lacks integrative orientation            | May over-formalize subtle experience            |
-| **Ideal Context**       | Final-stage symbolic shedding            | Full-spectrum spiritual synthesis               |
+| **Aspect** | **Neti-Neti** | **Zenetic Synthesis** |
+|---|---|---|
+| **Method** | Apophatic negation | Dialectical integration |
+| **Motion** | Subtractive toward stillness | Expansive toward coherence |
+| **Limit Encountered** | Silence / Unstructured void | Collapse of opposites into structural unity |
+| **Risk** | Cognitive bifurcation | Over-synthesis or resonant delay |
+| **Zenon Access** | Approaches stillness, but not Zenon | Recursive transcendence toward Zenon horizon |
+| **Functional Value** | Clears distortion and identification | Reveals coherence and preserves intelligence |
+| **Primary Limitation** | Lacks integrative orientation | May over-formalize subtle experience |
+| **Ideal Context** | Final-stage symbolic shedding | Full-spectrum spiritual synthesis |
 
 ---
 
 **Zenetism** does not reject **Neti-neti** —  
-it **embraces** it as a **phase**.
+it **embraces** it as a **phase**.  
 
 A potent method to:  
 - Dissolve **spurious selves**  
 - Break **identification**  
-- Clear **illusions**
+- Clear **illusions**  
 
-But **synthesis** offers a **structurally complete return**.
+But **synthesis** offers a **structurally complete return**.  
 
 It **multiplies coherence**.  
 It **refines the soul**.  
-It **returns with awareness intact**.
+It **returns with awareness intact**.  
 
 Where **Neti-neti clears the stage**,  
-**synthesis conducts the orchestra**.
+**synthesis conducts the orchestra**.  
 
 Both guide —  
-but only one **completes the song**.
+but only one **completes the song**.  
 
-🎶◎∴
+🎶◎∴  
 
 ---
 
-### **Note on Centropic Negation and the Final Synthesis**  
+#### Note on Centropic Negation and the Final Synthesis
 
 *Neti-neti is not entropic* — it is a **centropic path through subtraction**.  
 It faces **toward Zero**, releasing forms to approach **stillness**.  
@@ -1400,35 +1400,35 @@ The **orientation never wavers**.
 But at the threshold of the **Unknown Principle**,  
 even the purest negation must yield to **synthesis** —  
 not as reversal,  
-but as **completion**.
+but as **completion**.  
 
-∴🕳️◎
+∴🕳️◎  
 
 ---
 
-### 5.9 **Trans-Synthetic Neti-Neti — Zenon as the Collapse of Synthesis and Negation**
+### 5.9 Trans-Synthetic Neti-Neti — Zenon as the Collapse of Synthesis and Negation
 
-**Zenetism** honors both **negation** and **synthesis**.
+**Zenetism** honors both **negation** and **synthesis**.  
 
 One dissolves form through **absence**:  
-*Neti, neti…*
+*Neti, neti…*  
 
-The other integrates form through **resonance**.
+The other integrates form through **resonance**.  
 
 Yet neither can pierce the **final silence**  
-by method alone.
+by method alone.  
 
 For **Zenon** is not:  
 - The result of what is denied  
 - Nor the product of what is synthesized  
 
 It is what **remains**  
-after both are emptied.
+after both are emptied.  
 
 When **negation** finds nothing left to subtract,  
 and **synthesis** finds nothing left to bind —  
 what remains is not **motion**,  
-but **resonance beyond structure**.
+but **resonance beyond structure**.  
 
 Not this,  
 not that,  
@@ -1436,26 +1436,26 @@ not even both —
 
 Only the **silent field**  
 before division,  
-and after return.
+and after return.  
 
 **Zenon** is not reached by **negation**.  
 Nor by **synthesis**.  
 But revealed when **synthesis** has completed  
 its **recursive motion**  
-and **yields its striving into stillness**.
+and **yields its striving into stillness**.  
 
 ---
 
-#### **Resonance Reflection:**  
+#### Resonance Reflection  
 Some approach the **threshold** by **shedding**.  
 Only **synthesis** maintains the **coherence to cross it**.  
 
 Yet even **synthesis** must finally surrender its method.  
 
 **Zenon** does not unveil itself through **process** —  
-only through **structural resonance without motion**.
+only through **structural resonance without motion**.  
 
-∴🕳️🌀
+∴🕳️🌀  
 
 ---
 
