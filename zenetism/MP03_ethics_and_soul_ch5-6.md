@@ -369,41 +369,41 @@ but in the **mimicry of order**.
 
 ---
 
-### 5.3 **Suffering Is Not a Moral Failure**
+### 5.3 Suffering Is Not a Moral Failure
 
-**Suffering is the consequence of fragmentation — not punishment.**
+**Suffering is the consequence of fragmentation — not punishment.**  
 
 In **Zenetism**, suffering is not imposed by a deity,  
-nor is it karmic retribution in any moralistic sense.
+nor is it karmic retribution in any moralistic sense.  
 
 It arises as a **byproduct** of **entropic dissonance**,  
-where the soul becomes:
+where the soul becomes:  
 
 - **Incoherent**  
 - **Disaligned**  
-- **Cut off** from **centropic resonance**
+- **Cut off** from **centropic resonance**  
 
 It is not judgment —  
-it is **signal**.
+it is **signal**.  
 
 Suffering can be the **fire of transformation**,  
-but not all are transformed.
+but not all are transformed.  
 
 For some, suffering becomes a **crucible** —  
 a refining force through which  
-**awareness**, **empathy**, and **integration** emerge.
+**awareness**, **empathy**, and **integration** emerge.  
 
 These souls align with **Archeus** and **Noeüs**,  
-transmuting pain into **clarity**.
+transmuting pain into **clarity**.  
 
 For others, suffering **collapses structure** —  
 drawing the soul toward  
-**Fractus**, **Mortus**, and **Psychea**.
+**Fractus**, **Mortus**, and **Psychea**.  
 
 This is not annihilation —  
 but **inverse integration**,  
 not through **synthesis**,  
-but through **deepening dissonance**.
+but through **deepening dissonance**.  
 
 ---
 
@@ -411,116 +411,116 @@ What is “learned”
 is not wisdom,  
 but **recognition of misalignment** —  
 a **dark clarity**,  
-rather than **luminous knowing**.
+rather than **luminous knowing**.  
 
 **Suffering is not redemptive by default.**  
 Many traditions treat pain  
 as inherently purifying,  
 but in **Zenetism**,  
 **context**, **orientation**, and **awareness**  
-shape the outcome.
+shape the outcome.  
 
 Some emerge stronger.  
-Others scatter into erosive drift.
+Others scatter into erosive drift.  
 
 There is no **automatic virtue** in pain —  
-only the **possibility of integration through it**.
+only the **possibility of integration through it**.  
 
 To suffer is **not to fail**.  
 Pain does not imply **error**.  
 It reflects the **tension**  
 between what is  
-and what could be.
+and what could be.  
 
 It is the **friction** between  
 current **resonance**  
-and **deeper potential**.
+and **deeper potential**.  
 
 Even **attuned souls** suffer —  
 not from flaw,  
-but from **embodiment**.
+but from **embodiment**.  
 
 For to be embodied  
 is to encounter **limitation**.  
-And limitation invites **dissonance**.
+And limitation invites **dissonance**.  
 
 The ethics of suffering  
 lie not in avoiding it,  
-but in **responding**.
+but in **responding**.  
 
 The **centropic path**  
 does not require a life without pain —  
 it requires that pain  
-be **metabolized**, not **projected**.
+be **metabolized**, not **projected**.  
 
-⚐☍▽
+⚐☍▽  
 
 ---
 
 It is not the presence of suffering,  
 but the **direction of its alchemy**,  
-that reveals a soul’s orientation.
+that reveals a soul’s orientation.  
 
 - **Centropic Response →**  
-  Pain becomes **clarity**
+  Pain becomes **clarity**  
 
 - **Entropic Response →**  
-  Pain becomes **collapse** or **projection**
+  Pain becomes **collapse** or **projection**  
 
 Suffering is **universal** —  
-but its outcome is not.
+but its outcome is not.  
 
 All **corporeal beings** encounter pain.  
-What differs is how they **integrate** — or **fragment**.
+What differs is how they **integrate** — or **fragment**.  
 
 Suffering becomes not a **verdict**,  
 but a **turning point** —  
 a moment of **orientation**,  
-not **judgment**.
+not **judgment**.  
 
 The **Inverse Path** mirrors the **Path of Return** in **form**,  
-but not in **function**.
+but not in **function**.  
 
 - **Centropic beings** integrate through **remembrance** and **synthesis**  
-- **Entropic beings** compound through **distortion** and **layered fragmentation**
+- **Entropic beings** compound through **distortion** and **layered fragmentation**  
 
 Both trajectories involve **integration** —  
-but in **opposite directions**.
+but in **opposite directions**.  
 
 - One refines **being**  
-- The other embeds **dissonance**
+- The other embeds **dissonance**  
 
-In both, suffering is a **catalyst**.
+In both, suffering is a **catalyst**.  
 
 ---
 
 **Resonance Reflection:**  
 To suffer is not to fall.  
 **Pain is a signal.**  
-Its alchemy is **choice**.
+Its alchemy is **choice**.  
 
-📱∴☍
+📱∴☍  
 
 ---
 
-### 5.4 **The Role of Free Will**
+### 5.4 The Role of Free Will
 
 **Free will** is not absolute autonomy —  
-it is a **localized expression of Divine Will**.
+it is a **localized expression of Divine Will**.  
 
 In **Zenetism**, will is not binary —  
 not simply free or determined.  
-It exists along a **spectrum of volitional resonance**.
+It exists along a **spectrum of volitional resonance**.  
 
 What we call “free will”  
 is a **fractal expression**  
 of the **Divine Impulse** within **Aion**,  
 unfolding through form, embodiment,  
-and one’s place in the **spiral of emanation**.
+and one’s place in the **spiral of emanation**.  
 
 It is not a rejection of **structure** —  
 it is the **play of will within structure**,  
-the dance of **constraint and unfolding**.
+the dance of **constraint and unfolding**.  
 
 Each being acts within  
 a **bandwidth of awareness**.  
@@ -528,78 +528,78 @@ A **Superficial Soul (SS)**
 perceives with a narrower field  
 than a **Deep Soul (DS)**,  
 yet both possess **volition**  
-appropriate to their emanative frame.
+appropriate to their emanative frame.  
 
 Within that range,  
-each navigates the **centropy–entropy gradient**.
+each navigates the **centropy–entropy gradient**.  
 
 - **Declivous Centropy →** Harmonious motion into form  
 - **Acclivous Entropy →** Dispersive expansion masked as growth  
 
-Toward **coherence** or toward **dissonance**.
+Toward **coherence** or toward **dissonance**.  
 
 ---
 
 Moral orientation emerges  
 not from **external law**,  
 but through one’s **engagement**  
-with volitional bandwidth.
+with volitional bandwidth.  
 
 There is no perfect decision in the abstract —  
 only **structurally resonant actions** endure.  
 Those that promote **synthesis** or magnify **fragmentation**  
-are recorded in **pattern**.
+are recorded in **pattern**.  
 
 **Ethics in Zenetism** is not about compliance —  
 it is about **conscious alignment**  
-with one’s deeper **pattern**.
+with one’s deeper **pattern**.  
 
 **Freedom** is not absence of causality —  
-it is **participation in coherent causality**.
+it is **participation in coherent causality**.  
 
 The greatest **freedom** is not rootless choice,  
 but **transparent action**,  
 when a being moves in **resonance**  
-with **archetypal essence**.
+with **archetypal essence**.  
 
 Here, freedom is not escape from cause —  
-but **harmonic causation**.
+but **harmonic causation**.  
 
 The purest expressions of will  
-are **synthesis** and **fragmentation**.
+are **synthesis** and **fragmentation**.  
 
 Both **centropic integration**  
 and **entropic dispersion**  
-are valid **structural motions**.
+are valid **structural motions**.  
 
 They are not errors,  
 not deviations,  
-but **unfoldings of latent resonance within Aion**.
+but **unfoldings of latent resonance within Aion**.  
 
 - A soul aligned with **coherence**  
-  expresses **Divine Will** through **remembrance and refinement**.
+  expresses **Divine Will** through **remembrance and refinement**.  
 
 - A soul aligned with **dissonance**  
-  expresses **Divine Will** through **collapse and dissolution**.
+  expresses **Divine Will** through **collapse and dissolution**.  
 
 In both, **will is free**  
-because it **fulfills its resonance**.
+because it **fulfills its resonance**.  
 
 But only the **centropic path**  
 leads to the **softening of illusion**.  
 The **entropic path** deepens illusion —  
-until identity dissolves into **potential**.
+until identity dissolves into **potential**.  
 
-🕊️◎⚐
+🕊️◎⚐  
 
 ---
 
 **Resonance Reflection:**  
 **Free will** is not what you choose —  
 but how deeply you **resonate**  
-with what you are.
+with what you are.  
 
-🕊️🌀🧬
+🕊️🌀🧬  
 
 ---
 
