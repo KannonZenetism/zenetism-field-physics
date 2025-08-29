@@ -83,21 +83,21 @@ but not all retain form.
 
 ---
 
-Some refine through **memory**.
-Some burn through **fire**.
-Some return through **resonant loops**.
-Some collapse into **dispersive infinity**.
+Some refine through **memory**.  
+Some burn through **fire**.  
+Some return through **resonant loops**.  
+Some collapse into **dispersive infinity**.  
 
-Yet all return
-to the place where
-they **resonantly belong**.
+Yet all return  
+to the place where  
+they **resonantly belong**.  
 
-Beyond return,
-some saturate further still —
-passing into **Zenon**,
-the **Unknown Principle**,
-whose silence births all tones
-and saturates all structures.
+Beyond return,  
+some saturate further still —  
+passing into **Zenon**,  
+the **Unknown Principle**,  
+whose silence births all tones  
+and saturates all structures.  
 
 The only actual sound  
 of which all worlds  
