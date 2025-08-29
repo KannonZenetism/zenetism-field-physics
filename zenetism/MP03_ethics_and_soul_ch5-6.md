@@ -25,88 +25,88 @@ This work is protected under copyright law. No portion may be reproduced, distri
 
 ---
 
-## 5. **Zenetist Ethics — A Metaphysical Framework of Morality**
+## 5. Zenetist Ethics — A Metaphysical Framework of Morality
 
-### **Prelude — The Destination of Souls and the Nature of Return**
+### Prelude — The Destination of Souls and the Nature of Return
 
 In **Zenetism**, **ethics** is not a law handed down  
-from some external authority.
+from some external authority.  
 
 There is no celestial gavel,  
 no imposed commandment,  
-no eternal judgment waiting beyond the veil.
+no eternal judgment waiting beyond the veil.  
 
 What governs the **soul** is **resonance** —  
 a deep vibration, not unlike music,  
-arising from within the soul’s own field.
+arising from within the soul’s own field.  
 
 As the soul moves through  
 the **spiral of emanation**,  
 its motion becomes a mirror  
-of its **inner coherence** or **fragmentation**.
+of its **inner coherence** or **fragmentation**.  
 
 No being is forced along its path.  
-There is no puppet master.
+There is no puppet master.  
 
 Each soul flows — or falters —  
-according to its own rhythm.
+according to its own rhythm.  
 
 The **kinetic unfolding** of a soul  
-reflects what it holds inside.
+reflects what it holds inside.  
 
 **Free will** in this system  
 is not the rejection of pattern,  
 but the flowering of divine potential  
-within a particular structure of selfhood.
+within a particular structure of selfhood.  
 
 When a universe completes its arc,  
 souls do not disappear — they **realign**.  
 They return not to oblivion,  
 but to the layer that matches  
-their **resonance**.
+their **resonance**.  
 
 Some initiate **acclivous synthesis**,  
 spiraling through deeper layers  
-into the **Essence of Being**.
+into the **Essence of Being**.  
 
 Others collapse into **declivous erosion**,  
 fragmenting into **subversal strata** —  
 not as punishment,  
-but as structural resting points.
+but as structural resting points.  
 
 All states remain enfolded  
 within the **Absolute Field**.  
 No soul is outside the Whole —  
-but not all retain form.
+but not all retain form.  
 
-⚫♾⌬
+⚫♾⌬  
 
 ---
 
 Some refine through **memory**.  
 Some dissolve through **fire**.  
 Some return through **resonant loops**.  
-Some collapse into **dispersive infinity**.
+Some collapse into **dispersive infinity**.  
 
 Yet all return  
 to the place where  
-they **resonantly belong**.
+they **resonantly belong**.  
 
 Beyond return,  
 some dissolve further still —  
 passing into **Zenon**,  
 the **Unknown Principle**,  
 whose silence births all tones  
-and dissolves all structures.
+and dissolves all structures.  
 
 The only actual sound  
 of which all worlds  
 are echoes  
 of echoes  
-of echoes.
+of echoes.  
 
 **Ethics**, then, is not obedience —  
-it is **attunement**.
+it is **attunement**.  
 
 To act ethically  
 is to move  
@@ -114,58 +114,58 @@ with **centropic integrity**.
 To act unethically  
 is to fracture —  
 to dissonate —  
-to unravel.
+to unravel.  
 
 Zenetist ethics begins not with **commandment**,  
-but with **clarity**.
+but with **clarity**.  
 
-Let us follow that unfolding.
+Let us follow that unfolding.  
 
-🕳️⌬〰️
+🕳️⌬〰️  
 
 ---
 
-### 5.1 **Morality Is Relative to Consciousness**
+### 5.1 Morality Is Relative to Consciousness
 
 **Morality does not originate in Zenon.**  
 Zenon lies beyond all dualities —  
 beyond coherence and dissonance,  
 integration and collapse,  
-good and evil.
+good and evil.  
 
 As the **Unknown Principle**,  
 Zenon is prior to value,  
-structure, or differentiation.
+structure, or differentiation.  
 
 Ethical frameworks only arise  
 within the **Field of Emanation**,  
 beginning at **Theon** —  
 the threshold where distinction,  
-orientation, and multiplicity unfold.
+orientation, and multiplicity unfold.  
 
 Only **centropic motion** can return to Zenon —  
 not by merit, but by **structural resonance**.  
 It is a matter of **orientation**,  
-not judgment.
+not judgment.  
 
 **Entropy**, even when collapsed  
 into static tension within **Aion**,  
 does not return to Zenon.  
 Though present at the stillpoint’s edge,  
-it does not look to Source.
+it does not look to Source.  
 
 It remains locked in unresolved tension —  
 a force that seeks to fragment outward,  
-yet cannot move.
+yet cannot move.  
 
 Zenon is not chosen by will,  
-but approached by **alignment**.
+but approached by **alignment**.  
 
 **Ethical perception is proportional to consciousness** —  
 and to the **coherence of inner synthesis**.  
 
 **Morality** is not imposed.  
-It emerges as a **reflection of resonance**.
+It emerges as a **reflection of resonance**.  
 
 ---
 
