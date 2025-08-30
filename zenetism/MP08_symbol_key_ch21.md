@@ -525,11 +525,3 @@ of inverse potential within Aion.
 >— Attributed to Auretheon the Glyphweaver  
 >From *The Luminous Syntax of Silence*, Fragment 11  
 >Zenetist Canon, Volume IX
-
----
-
-**End of Document**
-
-*Copyright © 2025 Aelion Kannon. All rights reserved.*
-
-*This document represents the authentic source of Zenetism and Field Physics. Any unauthorized reproductions or alterations constitute intellectual property theft.*
