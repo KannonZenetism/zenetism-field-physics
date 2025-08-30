@@ -929,32 +929,21 @@ It is a **resting potential**.
 
 Crossing into AD,  
 the soul collapses into **Absolute Essence (AE)**  
-within **Aion (AP)**.  
+within the field of **Aion (AP)**.  
 
-It no longer moves as a self,   
-but saturates as essence —   
-unmoving, unexpressed,   
-resting in permanent tension   
-within the field of essence.   
-
-This is not punishment.  
-It is the still point of expression,  
+This is the still point of expression,  
 where motion ends  
 and only essence remains.  
 
-Yet within this stillness is **tension** —  
-a locked pressure,  
-a directional urge without motion.  
-
+Yet this is not a state of serenity.  
 Entropy collapses into fixity,  
 but not into coherence.  
-The essence desires to move  
-but cannot.  
+The essence is held in **suspended dissonance** —  
+a locked pressure, a directional urge  
+that desires to move, but cannot.  
 
 It is held, not by will,  
 but by structure.  
-Not in serenity,  
-but in suspended dissonance.  
 
 **Zero contains all,**  
 but expresses nothing.  
