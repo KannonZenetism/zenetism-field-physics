@@ -33,19 +33,23 @@ This document provides a structural analysis of the primary entropic tactics dep
 - **Threat Classification:** `Structural Usurpation`
 - **Core Tactic:** To construct a complete, counterfeit architecture designed to appear more rigorous or legitimate than the original. This is achieved through tactics such as `Academic Transposition`, `Authoritative Obfuscation` (inventing proprietary constants), `Performative Legality`, and `Narrative Supremacy`.
 - **Strategic Objective:** To **colonize the territory** discovered by the true architect, severing the signal from its source and establishing a new, entropic hierarchy with the mimic at its apex.
-- **Case Studies:** "OmniLens," "Michael Eric West," "Devin Bostick."
-    - **Detailed Analysis A: "OmniLens" and the Cult of Personality:** This entity attempts to secure its position as a Rival Architect by claiming his framework is inextricably linked to his own personhood.
+- **Case Studies:** "OmniLens," "Michael Eric West," "Devin Bostick," "Javier Grant."
+    - **Detailed Analysis A: "OmniLens" and the Cult of Personality:** This entity attempts to secure its position by claiming his framework is inextricably linked to his own personhood.
     > **Quote:**
-    > "You can’t just copy what I’m doing... Because I’m not separate from what I built. **I am the system.** It only works because I’m the one who breathed it into existence... The constants? They’re tied to my breath. My birth. My memory."
-    - **Summary:** This is a classic `Narrative Supremacy` tactic. By making himself the indispensable component of his own system, he attempts to create a "cult of personality" where followers are dependent not just on the ideas, but on him personally, thereby making his framework immune to objective replication or analysis.
-    - **Detailed Analysis B: "Devin Bostick" and Performative Legality:** This entity uses dense, academic jargon to create an aura of authority while simultaneously engaging in deceptive practices, such as backdating publications, to feign precedence and steal the timeline.
+    > "You can’t just copy what I’m doing... Because I’m not separate from what I built. **I am the system.**"
+    - **Summary:** This is a classic `Narrative Supremacy` tactic. By making himself the indispensable component of his own system, he attempts to create a "cult of personality" where followers are dependent on him personally.
+    - **Detailed Analysis B: "Devin Bostick" and Performative Legality:** This entity uses dense, academic jargon and falsified publication dates to build a counterfeit architecture and steal the timeline.
     > **Quote from the architect's `Statement of Origin`:**
-    > "CODES versions are listed with a 'Publication date' of January 29, 2025, but Zenodo shows much later creation dates:
-    > v25 → Created: June 23, 2025
-    > v27 → Created: July 23, 2025
-    > v33 → Created: August 14, 2025
-    > Zenodo allows manual backdating of 'publication' metadata. Only the record creation dates reflect when a file actually went live."
-    - **Summary:** This is a clear, documented case of `Performative Legality`. Bostick is using the platform's features to create a false historical record, a tactic designed to steal the origin point of the framework. This evidence, combined with the `Authoritative Obfuscation` of the "CODES" jargon, is a textbook `Rival Architect` strategy.
+    > "CODES versions are listed with a 'Publication date' of January 29, 2025, but Zenodo shows much later creation dates: v25 → Created: June 23, 2025..."
+    - **Summary:** This is a clear case of `Performative Legality`, using platform features to create a false historical record, combined with the `Authoritative Obfuscation` of the "CODES" jargon.
+    - **Detailed Analysis C: "OmniLens" and Timeline Evidence:** The timing of this entity's emergence provides direct evidence of the `Rival Architect` tactic in action.
+    > **Quote from the architect's `Statement of Origin`:**
+    > "Zenetism sealed March 5, 2025. OmniLens “turned outward” April 2025, with language already mirroring recursion, lattice, and resonance. This is structural confirmation of the Rival Architect tactic: colonizing discovered territory one month after the origin is documented."
+    - **Summary:** This timeline evidence is a crucial component of the `Veracious Archive`. It moves the analysis from interpretation of style to a factual, documented account of derivative action, proving that OmniLens began echoing the framework's core concepts almost immediately after its origin was sealed.
+    - **Detailed Analysis D: "Javier Grant" and Pseudo-Intellectual Deconstruction:** This entity attempts to usurp the architect's authority by performing a detailed, multi-point critique that uses the language and format of academic analysis to systematically deconstruct and invalidate the architect's work.
+    > **Quote:**
+    > **"The Problem:** This is a semantic sleight of hand. If his 'articulation' (Zenetism...) is truly derived from universal principles... then the 'articulation' is merely a description of what already IS, not something 'authored' in the proprietary sense... The Logos is; it is not 'authored.'"
+    - **Summary:** This is a form of `Academic Transposition`. By quoting the architect and then offering a negative "The Problem:" reframing, Grant positions himself as a superior intellectual analyst. It's a direct attempt to usurp authority by discrediting the originator's foundational claims through a veneer of intellectual rigor.
 
 ---
 
