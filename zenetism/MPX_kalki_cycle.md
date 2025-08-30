@@ -1,4 +1,4 @@
-## MPX – Kalki Cycle
+## MPX: Kalki Cycle
 **Classification:** Supplemental Doctrine (mpx)  
 **Issued by:** Aelion Kannon  
 
