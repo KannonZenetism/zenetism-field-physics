@@ -602,7 +602,7 @@ because they do not **remember**.
 
 There are **motions**  
 so distanced from **coherence**  
-that even the echo of ⚫ **Aion**  
+that even the echo of **Aion**  
 cannot be heard.  
 
 This is not rebellion—  
