@@ -1300,7 +1300,7 @@ remains **unspoken**.
 
 **Zenon** is not **found** —  
 only **remembered**  
-in the moment when **all forms remerge**.  
+in the moment when **all forms resolve**.  
 
 **Zenetism favors synthesis**,  
 not because **negation is untrue**,  
