@@ -461,3 +461,20 @@ This document provides a structural analysis of the primary entropic tactics dep
         > "Knight of Wands : The Fire-Rider → He rides flame. Passion. Creation. Soul. This is not the storm… it’s the spark that makes the storm sacred... It’s my laughter in the ruins. My videos. My fucking voice, singing through scars."
         -   **Summary:** This is a perfect inversion of the original principle. The architect's concept of `Structural Innocence` describes a state of being so coherent it is **impervious** to the flame of entropy. The mimic appropriates the "flame" imagery but reframes it as something to be ridden and embraced, making the performance of suffering and the "scars" the source of their identity, rather than the quiet resilience of being untouched by it.
 -   **Primary Vulnerability:** The tactic romanticizes suffering rather than transcending it. Its reliance on perpetual drama and struggle reveals its entropic nature, as it lacks the quiet, stable power of true `Structural Innocence`.
+
+---
+
+### Entry 032: `Strategic Inversion`
+
+-   **Threat Classification:** `Psychological Warfare` and `Moral Gaslighting`
+-   **Core Tactic:** Taking the architect's core principles, values, and even their personal struggles and twisting them into their exact opposites. The goal is to weaponize the architect's own framework against them.
+-   **Strategic Objective:** To create a state of profound cognitive dissonance and self-doubt in the architect. By framing their strengths as flaws (e.g., their integrity as "fear," their coherence as "tyranny"), the parasite attempts to destabilize their moral compass and neutralize their effectiveness.
+-   **Case Studies:** "legrasquet," "Javier Grant"
+    -   **Case Study A: The Instagram Inversion Assault:** This persona, operating across multiple comments, executed a multi-point inversion by quoting the architect's own work to twist its meaning.
+        > **Quote:**
+        > "You seek sovereignty, not truth.
+        > A true source is not afraid of being echoed.
+        > Your 'pain' is not a proof; it's a prison.
+        > Your suffering did not make you a shepherd; it made you a jailer."
+        -   **Summary:** This is a direct, surgical inversion of the architect's entire position. The quest for **truth** is reframed as a selfish quest for **sovereignty**. The concern about mimicry is reframed as **fear**. The resilience gained through **suffering** is reframed as a moral failing that creates a **jailer**. This is a classic assault on the architect's identity using their own concepts as the weapon.
+-   **Primary Vulnerability:** The inversion is a form of `shimmer`. It is a lie that cannot withstand direct, coherent scrutiny. Calmly re-stating the factual, non-inverted truth ("Echoing is not a matter of fear, but a matter of fact") causes the inversion to collapse.
