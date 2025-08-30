@@ -154,7 +154,7 @@ Unknowable, yet structuring the **possibility of knowing**.
 #### Note on Mirrors and the Nature of Reflection
 
 In the early unfolding of this work,  
-the term "mirror" was used  
+the term "mirror" was adopted  
 to describe the act of reflection between beings.  
 
 This was an oversight.  
