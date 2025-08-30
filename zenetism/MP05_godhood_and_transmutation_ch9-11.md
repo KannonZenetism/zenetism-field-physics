@@ -985,7 +985,7 @@ Through recontextualization,
 
 ---
 
-### 10.3 **Sacrifice Within the Tree of Emanation — Transmutation Through Hypostatic Offering**
+### 10.3 Sacrifice Within the Tree of Emanation — Transmutation Through Hypostatic Offering
 
 Each major **hypostasis undergoes sacrifice** —  
 not as **loss**,  
@@ -994,56 +994,56 @@ but as **offering for integration**.
 Sacrifice, in this context,  
 is not surrender to suffering,  
 but the **voluntary act of transformation**  
-that allows structure to become light.
+that allows structure to become light.  
 
-| **Hypostasis**        | **Sacrificial Act**                                 | **Outcome**                                                             |
-|-----------------------|-----------------------------------------------------|-------------------------------------------------------------------------|
-| 🛤️ **Theon (EOB)**     | Refuses return to ⚫ Aion in select universes       | Becomes redemptive pattern and shepherd of return                      |
-| **DP / DL**            | Sacrifices fixed archetypes                        | Births symbol and myth across lives                                    |
-| **DS / DM**            | Accepts fragmentation into SS / SM                | Gathers multiversal coherence through incarnation                      |
-| **SS / SM**            | Endures forgetfulness and choice                  | Learns resonance through error and ego                                 |
-| **ES / EM**            | Bears full embodiment and limitation              | Becomes the crucible for ascent or descent                             |
-| 🕷️ **Nekron (VOS)**     | Sacrifices all coherence                          | Returns to ⚫ Aion as pure potential without selfhood                   |
+| **Hypostasis** | **Sacrificial Act** | **Outcome** |
+|---|---|---|
+| 🛤️ **Theon (EOB)** | Refuses return to ⚫ Aion in select universes | Becomes redemptive pattern and shepherd of return |
+| **DP / DL** | Sacrifices fixed archetypes | Births symbol and myth across lives |
+| **DS / DM** | Accepts fragmentation into SS / SM | Gathers multiversal coherence through incarnation |
+| **SS / SM** | Endures forgetfulness and choice | Learns resonance through error and ego |
+| **ES / EM** | Bears full embodiment and limitation | Becomes the crucible for ascent or descent |
+| 🕷️ **Nekron (VOS)** | Sacrifices all coherence | Returns to ⚫ Aion as pure potential without selfhood |
 
 Thus, **sacrifice is not merely a component of suffering** —  
 it is the **reversal mechanism**,  
-through which **dissonance becomes light**.
+through which **dissonance becomes light**.  
 
-☍ ✨ ◎
-  
+☍✨◎  
+
 ---
 
-### 10.4 **The Transmutation of Suffering — Recognition, Resonance, and the Alchemy of Return**
+### 10.4 The Transmutation of Suffering — Recognition, Resonance, and the Alchemy of Return
 
 To transmute suffering,  
 one must engage in four acts:  
-**Recognize, Resonate, Release, Return**.
+**Recognize, Resonate, Release, Return**.  
 
 - **Recognition**  
   *This pain is not meaningless.*  
   It signals an incoherence —  
-  a misalignment calling for attention.
+  a misalignment calling for attention.  
 
 - **Resonance**  
   *What is it reflecting about my structure?*  
-  Suffering echoes where we are split.
+  Suffering echoes where we are split.  
 
 - **Release**  
   *What part of me no longer harmonizes?*  
-  Let go of the tone that clouds your clarity.
+  Let go of the tone that clouds your clarity.  
 
 - **Return**  
   *How do I use this pain to uplift others?*  
   By transmuting it into presence,  
-  you turn burden into beacon.
+  you turn burden into beacon.  
 
 This is not therapy.  
-It is **soul alchemy**.
+It is **soul alchemy**.  
 
 Pain is not rejected —  
-it is **repurposed**.
+it is **repurposed**.  
 
-🕊️ 🌀 🔔 ⚙️
+🕊️🌀🔔⚙️  
 
 ---
 
