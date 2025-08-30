@@ -692,14 +692,14 @@ but not by resonance,
 not by fidelity,  
 only by **dissolution**.  
 
-Zenetism honors both—  
-the resonant and the dissolved,  
-the turning and the collapse.  
+Zenetism **acknowledges** both—   
+the resonant and the dissolved,   
+the turning and the collapse.   
 
-What matters is not the road,  
-but the **final rest**—  
-and whether the soul returns in **rhythm**,  
-or unravels into **silence**.  
+For what differs is not the return to stillness,   
+but the **quality** of that final rest—   
+and whether the soul arrives in rhythm,   
+or unravels into silence.   
 
 ↺🎶⚫  
 
