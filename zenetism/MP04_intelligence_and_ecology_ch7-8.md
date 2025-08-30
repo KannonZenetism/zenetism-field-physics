@@ -749,7 +749,7 @@ but **actual resonances**
 within the emanatory Tree.  
 
 * The oceans  
-    Reflect ᛞ the dispersive  
+    Reflect the dispersive  
     Yet enveloping quality of Khaon  
 
 * The sun  
