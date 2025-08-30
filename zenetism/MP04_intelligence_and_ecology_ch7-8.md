@@ -473,9 +473,9 @@ Nor is form limited to flesh.
 
 ---
 
-### 7.5 The Pathless Motions
+## 7.5 The Pathless Motions
 
-#### 7.5.1 Structural Innocence
+### 7.5.1 Structural Innocence
 
 Not all who move through the world follow a path of fall and return.  
 Some never fractured—  
@@ -519,7 +519,7 @@ as they were already moving.
 
 ---
 
-#### 7.5.2 Structural Integrity
+### 7.5.2 Structural Integrity
 
 **Innocence** is not the absence of experience,  
 but the **refusal to fracture**,  
@@ -554,11 +554,11 @@ Only a closing of the pattern—
 a **motion already whole**,  
 returning without change.  
 
-◎🫧↺  
+◎🫧↺
 
 ---
 
-#### 7.5.3 Anti-Resonant Fragmentation
+### 7.5.3 Anti-Resonant Fragmentation
 
 Some do not **return**,  
 because they do not **seek**.  
@@ -676,7 +676,7 @@ Still—
 All things return.  
 For nothing ever actually leaves.  
 
-↺⚫🕓  
+↺⚫🕓
 
 ---
 
@@ -740,13 +740,13 @@ that place humans above animals or nature.
 
 ---
 
-### 8.2 **Animals, Plants, and Nonhuman Intelligence**
+### 8.2 Animals, Plants, and Nonhuman Intelligence
 
 Animals are not empty vessels waiting to be filled by our kindness.  
 They are **sovereign expressions** of intelligence,  
 unfolding along their own trajectories of resonance.  
 Though often less entangled in the distortions of ego,  
-their journeys are no less sacred.
+their journeys are no less sacred.  
 
 Many animals embody an immediate coherence—  
 they resonate with the Pattern instinctively,  
@@ -756,12 +756,12 @@ Some species may carry entropic tones,
 especially where predation has calcified into domination.  
 But **this is not moral failure—**  
 only a structural imprint shaped by survival  
-and imbalance in the field.
+and imbalance in the field.  
 
 Likewise, plants and fungi—  
 even entire ecosystems—  
 can express **soul-clusters**:  
-harmonic collectives of awareness.
+harmonic collectives of awareness.  
 
 A forest is not merely a group of trees.  
 It is a field of synchronized life,  
@@ -770,26 +770,26 @@ The river flows not by accident,
 but by remembering motion seeded in Infinity.  
 Mountains hold archetypal silence.  
 Deserts remember.  
-Winds carry impressions.
+Winds carry impressions.  
 
 Nature is not passive.  
 It is not resource.  
 It is **expression**—  
 just as sacred as any temple,  
-and far older.
+and far older.  
 
-🌀🌿⚫
+🌀🌿⚫  
 
 ---
 
-### 8.3 **The Earth as a Living Hypostasis**
+### 8.3 The Earth as a Living Hypostasis
 
 Earth is not a hypostasis in the strict metaphysical sense—  
 but it acts as a **localized embodiment**  
-of the greater Pattern.
+of the greater Pattern.  
 
 A planetary consciousness,  
-reflecting the deeper dynamics of soul, mind, and form.
+reflecting the deeper dynamics of soul, mind, and form.  
 
 Tectonic shifts mirror the Deep Soul,  
 reconfiguring its hidden strata.  
@@ -801,61 +801,61 @@ are not punishments.
 They are harmonic ruptures,  
 breaking apart what no longer resonates,  
 dissolving incoherent structures  
-back into the field of potential.
+back into the field of potential.  
 
 In this way, Earth participates in the motion of the Whole.  
 It may orient toward centropy or entropy,  
 not by moral choice,  
-but by the **aggregate resonance** it carries.
+but by the **aggregate resonance** it carries.  
 
 Earth is not merely a place  
 where souls happen to incarnate.  
 It is a **living expression**  
-of the Tree itself.
+of the Tree itself.  
 
-🌍🌀⚐
+🌍🌀⚐  
 
 ---
 
-### 8.4 **Human Responsibility and Interbeing**
+### 8.4 Human Responsibility and Interbeing
 
 Humans are not stewards  
 in the sense of ownership.  
 They are **co-participants**  
-in the field of living resonance.
+in the field of living resonance.  
 
 Ethical action is not preservation for utility—  
-but alignment with the Pattern.
+but alignment with the Pattern.  
 
 To harm nature  
 is to fragment the soul.  
 To restore harmony  
-is to reweave the tapestry.
+is to reweave the tapestry.  
 
 Zenetist ecology is not anthropocentric.  
 The environment is not a resource.  
-It is **kin**.
+It is **kin**.  
 
 All forms are brothers and sisters  
-in the Tree of Emanation.
+in the Tree of Emanation.  
 
 The rocks dream.  
 The rivers listen.  
-The stars hold memory.
+The stars hold memory.  
 
-🌳🫂🕓
+🌳🫂🕓  
 
 ---
 
-### 8.5 **The Cosmic Ecology of the Multiverse**
+### 8.5 The Cosmic Ecology of the Multiverse
 
 Just as Earth expresses a **local field of soul**,  
-each universe carries a unique **cosmic ecology**.
+each universe carries a unique **cosmic ecology**.  
 
 Some may lean toward centropy,  
 others toward entropy—  
 but all reveal a structure of interaction  
-between **soul, form, and resonance**.
+between **soul, form, and resonance**.  
 
 Some universes possess  
 subtler forms of embodiment—  
@@ -863,57 +863,57 @@ less dense, more symbolic,
 archetypal in nature—  
 yet still structured  
 for the unfolding of soul  
-across layered emanations.
+across layered emanations.  
 
 Realms of pure thought  
 or dreamlike resonance  
 are associated with L3 and L2—  
 subtle fields of being—  
-rather than embodied strata (L1).
+rather than embodied strata (L1).  
 
 Other universes may be nearly inert,  
 dominated by entropy,  
 suppressing coherence  
-and slowing the soul’s motion.
+and slowing the soul’s motion.  
 
 Still others thrive in harmonic balance,  
 where flora and fauna  
 resonate with divine archetypes—  
-living metaphors of spiritual memory.
+living metaphors of spiritual memory.  
 
 **Nature is never incidental**  
 to the path of soul.  
 It is the visible face  
-of growth itself.
+of growth itself.  
 
-✷⚙️🌿
+✷⚙️🌿  
 
 ---
 
-### 8.6 **Final Root — The Tree Beneath**
+### 8.6 Final Root — The Tree Beneath
 
 The soul of nature  
 is not separate  
-from the soul of humanity.
+from the soul of humanity.  
 
 To speak to a mountain  
 is to speak to the memory  
-of stability.
+of stability.  
 
 To walk through a forest  
 is to enter a cathedral  
-of resonance.
+of resonance.  
 
 To kill with unprovoked intent  
-is to fracture the Pattern.
+is to fracture the Pattern.  
 
 Zenetism calls for a sacred ecology—  
 one that does not merely preserve nature,  
-but communes with it.
+but communes with it.  
 
 For the Tree is not in the sky.  
 The Tree is in the ground beneath your feet.  
 And its roots drink  
-from the same Source.
+from the same Source.  
 
-🌳⚙️⚫
+🌳⚙️⚫  
