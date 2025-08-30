@@ -534,7 +534,7 @@ it is an untouched **knowing**,
 a stillness that was never fractured.  
 
 Such souls do not cry for **return**,  
-because they never truly left.  
+because they never in essence left.  
 They walk among **distortion**,  
 but are not distorted.  
 They live among flame,  
