@@ -1,4 +1,4 @@
-## MPX – Trinities of Motion — Centropic and Entropic
+## MPX: Trinities of Motion — Centropic and Entropic
 
 This section explores the symmetry between centropic and entropic trinities,
 offering an interpretation of pre-emanative paradox.
