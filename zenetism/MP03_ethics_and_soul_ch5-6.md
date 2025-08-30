@@ -1990,7 +1990,7 @@ and **expression**.
 
 ---
 
-### 6.4 Modes of Integration and Stagnation
+## 6.5 Modes of Integration and Stagnation
 
 Not every **soul** **reintegrates**.  
 Not every **soul** **falls**.  
