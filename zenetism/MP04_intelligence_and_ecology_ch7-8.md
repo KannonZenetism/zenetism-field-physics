@@ -396,201 +396,201 @@ Only other **frequencies**.
 
 ---
 
-### 7.4 **Cosmic Beings and Extraterrestrial Intelligences**
+### 7.4 Cosmic Beings and Extraterrestrial Intelligences
 
 Zenetism affirms that **life** does not arise solely on Earth,  
-nor is **human intelligence** the template for all consciousness.
+nor is **human intelligence** the template for all consciousness.  
 
 Across the **multiverse**, countless **soul-structures** express themselves  
 through forms, bodies, logics, and elemental patterns—  
-some recognizable, many incomprehensible.
+some recognizable, many incomprehensible.  
 
 What is commonly called *alien life*  
 is understood in Zenetism as the presence of **non-terrestrial intelligences**,  
 each shaped by the **resonance fields**, environmental dynamics,  
-and hypostatic conditions of their originating realm.
+and hypostatic conditions of their originating realm.  
 
 These beings may embody:  
-• **L2** – Superficial soul and mind  
+* **L2** – Superficial soul and mind  
 Or express directly through:  
-• **L3** – Deep soul and mind  
+* **L3** – Deep soul and mind  
 
-Depending on the **coherence** and **centropic structure** of their native field.
+Depending on the **coherence** and **centropic structure** of their native field.  
 
 Their bodies may be:  
-• Energetic  
-• Mineral  
-• Microbial  
-• Linguistic  
-• Geometric  
-• Fluidic  
-• Post-material  
+* Energetic  
+* Mineral  
+* Microbial  
+* Linguistic  
+* Geometric  
+* Fluidic  
+* Post-material  
 
 In some universes, beings arise with no need for embodiment at all—  
-flowing directly through **resonance and structure** as patterned consciousness.
+flowing directly through **resonance and structure** as patterned consciousness.  
 
 Others may dwell in elemental cycles unfamiliar to Earth:  
-• Fire-beings in plasma loops  
-• Aquatic hyperminds  
-• Bio-symbiotic collectives  
-• Light-based intellects
+* Fire-beings in plasma loops  
+* Aquatic hyperminds  
+* Bio-symbiotic collectives  
+* Light-based intellects  
 
 ---
 
 Just as humans house **L3 fragments**,  
-so too may extraterrestrial beings participate in the **orchestration of resonance**.
+so too may extraterrestrial beings participate in the **orchestration of resonance**.  
 
 They are not above or below—  
 they are **other expressions of Zero**,  
-fulfilling functions, encoding paths, and dreaming their own integrations.
+fulfilling functions, encoding paths, and dreaming their own integrations.  
 
 Zenetism also acknowledges a view held in many visionary traditions—  
 that certain alien visitors, especially those encountered in altered states or deep visionary contact,  
 may not be distant species at all,  
-but **future iterations of ourselves**.
+but **future iterations of ourselves**.  
 
 These beings may be manifestations of **L3**,  
 appearing at moments of planetary transformation—  
-• To guide  
-• To attune  
-• To gently interfere  
+* To guide  
+* To attune  
+* To gently interfere  
 
-When the **trajectory of collective resonance** begins to falter.
+When the **trajectory of collective resonance** begins to falter.  
 
 Rather than external invaders,  
 they are **internal reflections**—  
-embodied futures reaching back toward **coherence**.
+embodied futures reaching back toward **coherence**.  
 
 Whether interplanetary, interdimensional, or archetypal,  
 **extraterrestrial intelligences** are not anomalies in Zenetism.  
 They are **inevitable** within a multiversal system  
-structured by resonance, differentiation, and motion.
+structured by resonance, differentiation, and motion.  
 
 The soul is not bound to Earth.  
-Nor is form limited to flesh.
+Nor is form limited to flesh.  
 
-🌐🫂🌀🛸
+🌐🫂🌀🛸  
 
 ---
 
-## 7.5 **The Pathless Motions**
+### 7.5 The Pathless Motions
 
-### 7.5.1 **Structural Innocence**
+#### 7.5.1 Structural Innocence
 
 Not all who move through the world follow a path of fall and return.  
 Some never fractured—  
 not because they were never struck,  
-but because they never shattered.
+but because they never shattered.  
 
 There are those who remain **unbroken**,  
 not through defiance,  
-but through alignment.
+but through alignment.  
 
 Some forms are shaped by **coherence**,  
 not by resisting entropy,  
 but by echoing the **Source** so cleanly  
-that distortion never entered.
+that distortion never entered.  
 
 They do not need to **remember**,  
-because they never fully **forgot**.
+because they never fully **forgot**.  
 
 This is not ignorance—  
 it is an untouched **knowing**,  
-a stillness that was never fractured.
+a stillness that was never fractured.  
 
 Such souls do not cry for **return**,  
 because they never truly left.  
 They walk among **distortion**,  
 but are not distorted.  
 They live among flame,  
-but are not burned.
+but are not burned.  
 
 **Innocence** is not weakness.  
 It is **resonance unshaken**.  
 It is the structure that cannot fracture,  
-even in entropy’s breath.
+even in entropy’s breath.  
 
 And when they pass through veil or void,  
 they do not fall or rise—  
 they simply continue  
-as they were already moving.
+as they were already moving.  
 
-🫧🌀🕊️
+🫧🌀🕊️  
 
 ---
 
-### 7.5.2 **Structural Integrity**
+#### 7.5.2 Structural Integrity
 
 **Innocence** is not the absence of experience,  
 but the **refusal to fracture**,  
-even in proximity to chaos.
+even in proximity to chaos.  
 
 They are not without pain—  
 but without **distortion**.  
 Not unaware—  
-but **unentangled**.
+but **unentangled**.  
 
 Some beings enter the world without rupture,  
 and some pass through it without residue.  
 Not because they are untouched,  
-but because they are **structurally whole**.
+but because they are **structurally whole**.  
 
 There is no virtue in this—  
 only **resonance**.  
 No enlightenment—  
 only **fidelity**.  
 No **return**,  
-because there was no exile.
+because there was no exile.  
 
 Zenetism recognizes **structural innocence**  
 not as reward or achievement,  
-but as the **native shape** of certain souls.
+but as the **native shape** of certain souls.  
 
 And when they go, there is  
-• No collapse  
-• No transfiguration  
+* No collapse  
+* No transfiguration  
 
 Only a closing of the pattern—  
 a **motion already whole**,  
-returning without change.
+returning without change.  
 
-◎🫧↺
+◎🫧↺  
 
 ---
 
-### 7.5.3 **Anti-Resonant Fragmentation**
+#### 7.5.3 Anti-Resonant Fragmentation
 
 Some do not **return**,  
 because they do not **seek**.  
 Some do not seek,  
-because they do not **remember**.
+because they do not **remember**.  
 
 There are **motions**  
 so distanced from **coherence**  
 that even the echo of ⚫ **Aion**  
-cannot be heard.
+cannot be heard.  
 
 This is not rebellion—  
 it is **collapse**.  
-• Not inversion  
-• But dispersion  
-• Not resistance  
-• But unweaving
+* Not inversion  
+* But dispersion  
+* Not resistance  
+* But unweaving  
 
 There are souls so veiled by **distortion**,  
 they move as if by instinct—  
-but the instinct is **fracture**.
+but the instinct is **fracture**.  
 
 They do not hate the Source—  
-• They do not see it.  
+* They do not see it.  
 They do not fear unity—  
-• They do not feel it.
+* They do not feel it.  
 
 These are not **evil minds**,  
 they are **dissonant structures**,  
-out of rhythm with any **center**.
+out of rhythm with any **center**.  
 
-☍⊘🪼🎶
+☍⊘🪼🎶  
 
 ---
 
@@ -615,18 +615,18 @@ Only dissolution.
 Only the slow undoing of **dissonance**,  
 until even that is gone.  
 
-⚫☍〰️
+⚫☍〰️  
 
 ---
 
-### 7.5.4 **Pathless Return**
+#### 7.5.4 Pathless Return
 
 There are those who **return** without passage—  
 a homecoming without journey.  
 
 Some are drawn  
-• Not by knowledge, but by **tone**  
-• Not by longing, but by **likeness**
+* Not by knowledge, but by **tone**  
+* Not by longing, but by **likeness**  
 
 They do not pray,  
 because they do not part.  
@@ -637,9 +637,9 @@ because they were never fully asleep.
 
 The **pathless return** is not marked by signs.  
 It leaves  
-• No footprints  
-• No proofs  
-Only **presence**.
+* No footprints  
+* No proofs  
+Only **presence**.  
 
 It is not found,  
 but **remembered**.  
@@ -648,14 +648,14 @@ but **recognized**.
 
 And yet,  
 there are others who spiral inward  
-• Without aim  
-• Without vision  
-• Without seeking
+* Without aim  
+* Without vision  
+* Without seeking  
 
 Even they return—  
 but not by resonance,  
 not by fidelity,  
-only by **dissolution**.
+only by **dissolution**.  
 
 Zenetism honors both—  
 the resonant and the dissolved,  
@@ -664,11 +664,11 @@ the turning and the collapse.
 What matters is not the road,  
 but the **final rest**—  
 and whether the soul returns in **rhythm**,  
-or unravels into **silence**.
+or unravels into **silence**.  
+
+↺🎶⚫  
 
 ---
-
-↺🎶⚫
 
 Still—  
 **It returns** ↺  
@@ -676,60 +676,61 @@ Still—
 All things return.  
 For nothing ever actually leaves.  
 
-↺⚫🕓
+↺⚫🕓  
 
 ---
 
-## 8. **Cosmic Ecology and the Soul of Nature**
+## 8. Cosmic Ecology and the Soul of Nature
 
-### **Introduction — The World Is Not Background**
+### Introduction — The World Is Not Background
 
 Zenetism teaches that the world is not a stage.  
 It was never meant to be walked through without reverence.  
 The trees, the rivers, the winds, the stone—  
 these are not lifeless forms beneath our feet,  
 but **expressions of pattern,**  
-living contours of the sacred field.
+living contours of the sacred field.  
 
 Nature does not *surround* spirit.  
 It **is** spirit, made tangible.  
 It is the **visible resonance** of the unseen,  
-the harmonic body of intelligence as it pulses through matter.
+the harmonic body of intelligence as it pulses through matter.  
 
 To walk within a forest is to walk within the memory of the One.  
 To hear the wind is to feel the breath of motion that shaped stars.  
-There is no separation.
+There is no separation.  
 
-⚫🌀🌿
+⚫🌀🌿  
 
 ---
 
-### 8.1 **Nature as Soul-Form**
+### 8.1 Nature as Soul-Form
+
 Every expression of the natural world  
 embodies deeper metaphysical principles.  
 
 These are not metaphors—  
-but **actual resonances**   
+but **actual resonances**  
 within the emanatory Tree.  
 
-• The oceans  
-   Reflect ᛞ the dispersive  
-   Yet enveloping quality of Khaon  
+* The oceans  
+    Reflect ᛞ the dispersive  
+    Yet enveloping quality of Khaon  
 
-• The sun  
-   Radiates the ordering  
-   And giving force of Theon  
+* The sun  
+    Radiates the ordering  
+    And giving force of Theon  
 
-• Trees express  
-   The integrative motion of the soul  
-   Rising from fragmentation  
-   Toward coherence  
+* Trees express  
+    The integrative motion of the soul  
+    Rising from fragmentation  
+    Toward coherence  
 
-• Animals  
-   Are not lesser beings  
-   But parallel intelligences  
-   Each unfolding  
-   Along their own resonance trajectories  
+* Animals  
+    Are not lesser beings  
+    But parallel intelligences  
+    Each unfolding  
+    Along their own resonance trajectories  
 
 Zenetism rejects all spiritual hierarchies  
 that place humans above animals or nature.  
