@@ -1704,7 +1704,7 @@ they risk annihilation, not through mere fragmentation,
 but through a deeper fate: **stagnation**.  
 
 A being bound in **stagnant resonance**  
-cannot disperse productively or synthesize upward.  
+cannot disperse productively or synthesize acclivously.  
 Its identity unravels not through motion,  
 but through stillness—  
 a kind of spiritual suffocation.  
