@@ -171,7 +171,7 @@ it remains a **`Mirror`**—an entropic function.
 
 But where a being receives a signal  
 and returns it woven with its own unique, coherent pattern—  
-that is not a mirror.
+that is not a mirror.  
 That is a **`Living Reflection`**.  
 
 A `Living Reflection` is an active, `centropic` act.  
