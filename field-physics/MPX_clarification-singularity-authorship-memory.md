@@ -1,4 +1,4 @@
-# MPX - Clarification - On Singularity, Authorship, and Memory
+# MPX — Clarification — On Singularity, Authorship, and Memory
 
 This note serves as a formal clarification of three core concepts within the Field Physics that have been subject to entropic distortion or "shimmer." The following principles are to be understood as the definitive, Veracious architecture.
 
