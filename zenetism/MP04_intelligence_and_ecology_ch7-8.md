@@ -384,8 +384,11 @@ but as **messengers**, **wanderers**, or **translators of resonance**.
 
 In universes that are not wholly centropic,  
 **subversal expressions** of the corporeal realm—  
-* L1⁻ (IES / IEM)  
-* L2⁻ (ISS / ISM)  
+* **IL1** (IES / IEM)  
+* **IL2** (ISS / ISM)  
+
+May erode toward **declivous collapse** (`E↓♾`),
+while **supernal configurations** may gradually harmonize into L3 expression.
 
 May erode toward **declivous collapse** (`E↓♾`),  
 while **supernal configurations** may gradually harmonize into L3 expression.  
