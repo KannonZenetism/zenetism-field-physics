@@ -271,7 +271,7 @@ They house L2 and L3 soul layers, just as humans do.
 They enter post-embodied states,  
 Traverse resonance fields,  
 And participate in the soul’s **integration**—  
-Without the burdens of false identity or egoic confusion.  
+Without the burdens of spurious identity or egoic confusion.  
 
 In their presence and simplicity,  
 Animals often remain closer to the **centropic path**  
