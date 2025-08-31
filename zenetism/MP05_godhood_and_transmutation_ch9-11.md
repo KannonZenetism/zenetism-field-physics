@@ -1256,8 +1256,8 @@ but through **natural convergence**.
 
 - All souls gravitate to the **realm that reflects their inner tone**  
 - **Judgment is not imposed** — it is **revealed through coherence**  
-- Entropic resonance collapses toward 🕷️ **Nekron**  
-- Centropic resonance coheres toward 🛤️ **Theon**  
+- Entropic resonance collapses toward **Nekron**  
+- Centropic resonance coheres toward **Theon**  
 
 The return is not dictated —  
 it is **deserved by resemblance**.  
