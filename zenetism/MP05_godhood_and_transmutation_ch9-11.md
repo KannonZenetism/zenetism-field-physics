@@ -1159,7 +1159,7 @@ it is a **possibility already included**.
 The arc is not drawn —  
 it is **folded within the seed**.  
 
-From 🕳️ **Zenon**, even this collapses.  
+From **Zenon**, even this collapses.  
 
 There is:  
 - No motion  
