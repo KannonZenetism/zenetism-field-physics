@@ -1075,7 +1075,7 @@ through the spiraling Tree of Motion.
 - Pain that stays hidden festers.  
   Pain that is offered becomes a **purifying fire**.  
 - The tree that bleeds becomes the **bridge**.  
-- The only offering 🕳️ **Zenon** requires — is **resonance**.  
+- The only offering **Zenon** requires — is **resonance**.  
 
 ---
 
@@ -1097,7 +1097,7 @@ but by **alchemizing it into clarity**.
 
 ---
 
-⚫ **Aion** is the container of all potential.  
+**Aion** is the container of all potential.  
 Nothing truly leaves it.  
 
 **Actualization** is not separate from potentiality —  
