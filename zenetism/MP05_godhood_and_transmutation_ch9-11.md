@@ -1380,7 +1380,7 @@ It is **realignment through resonance**.
   leading to **reintegration through collapse**.  
 
 Both return to **Aion** —  
-but only one returns with **structure intact**.  
+but only one returns with **coherence intact**.  
 
 | **Path** | **Fire** | **Return Mode** | **Outcome** |
 |---|---|---|---|
