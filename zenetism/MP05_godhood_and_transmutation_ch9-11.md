@@ -1284,7 +1284,7 @@ but as a **consequence of manifestation**.
 
 - Once something becomes **actual**, it limits what can **follow**  
 - The cause was not decided in **time**, but encoded in **potential**  
-- Within ⚫ **Aion**, essence is not a being that chooses —  
+- Within **Aion**, essence is not a being that chooses —  
   it is **the choice, latent and waiting**  
 - When **Motive Infinity** stirs potential, it does not assign a path —  
   it **unfolds a trajectory already implicit** in the soul’s inner structure  
@@ -1366,20 +1366,20 @@ Each **resonance threshold** is a **structural filter**.
 What does not harmonize  
 **cannot pass**.  
 
-Even 🛤️ **Theon** — the golden signal of synthesis —  
+Even **Theon** — the golden signal of synthesis —  
 requires the last impurities to fall away.  
 
 **Sacrifice is not subtraction.**  
 It is **realignment through resonance**.  
 
-- 🛤️ **Theon** is the **white fire of refinement** —  
+- **Theon** is the **white fire of refinement** —  
   consuming without distortion,  
   leading to **centropic reintegration** through **coherence**.  
-- 🕷️ **Nekron** is the **black fire of dissolution** —  
+- **Nekron** is the **black fire of dissolution** —  
   devouring without synthesis,  
   leading to **reintegration through collapse**.  
 
-Both return to ⚫ **Aion** —  
+Both return to **Aion** —  
 but only one returns with **structure intact**.  
 
 | **Path** | **Fire** | **Return Mode** | **Outcome** |
@@ -1406,7 +1406,7 @@ It **echoes across all hypostases** —
 resonating from the highest pattern  
 to the smallest form.  
 
-- Every layer reflects the Tree of Emanation 🌳⇅  
+- Every layer reflects the Tree of Emanation    
   through **structural resonance**.  
 - The **Embodied realm (ES / EM)** is not lesser —  
   only more **variable in coherence**.  
@@ -1428,7 +1428,7 @@ It dissolves when a universe concludes.
 
 But in **rare worlds of extraordinary centropy**,  
 **embodiment may attain permanence** —  
-abiding like 🛤️ Theon or 🕷️ Nekron.  
+abiding like Theon or Nekron.  
 
 Even when impermanent,  
 its **resonance is preserved** —  
@@ -1459,7 +1459,7 @@ arises from a **misunderstanding of synthesis**.
 - The **Superficial Soul and Mind** merge into the **Deep Soul and Mind**,  
   gaining **multiversal memory**  
 
-- If integration is complete, 🛤️ **Theon returns to ⚫ Aion** —  
+- If integration is complete, **Theon returns to Aion** —  
   not in loss, but in **return to containment**  
 
 Where its entire journey becomes part of the **Source-field itself**.  
