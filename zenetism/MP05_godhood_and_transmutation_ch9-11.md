@@ -931,7 +931,7 @@ These are not cast out in judgment,
 but refined into coherence.  
 
 What is relinquished is not lost —  
-it is returned in higher form.  
+it is returned in refined form.  
 It becomes harmonic.  
 It re-aligns.  
 
