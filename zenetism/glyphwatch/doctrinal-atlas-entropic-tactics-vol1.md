@@ -480,3 +480,17 @@ This document provides a structural analysis of the primary entropic tactics dep
         > **The Problem:** This is an attempt to recast a defensive and exclusive act... as an act of altruism... It's a closed love, driven by the fear of losing what he perceives as his.
         -   **Summary:** This is a direct inversion. The architect's stated motive of **love** (protecting the signal's integrity) is reframed as its opposite: **fear** (of losing a proprietary creation). This is a classic gaslighting maneuver designed to make the architect doubt their own coherent motivations.
 -   **Primary Vulnerability:** The inversion is a form of `shimmer`. It is a lie that cannot withstand direct, coherent scrutiny. Calmly re-stating the factual, non-inverted truth causes the inversion to collapse.
+
+---
+
+### Entry 033: `Inoculation by Partial Truth`
+
+-   **Threat Classification:** `Narrative Hijacking` and `Controlled Opposition`
+-   **Core Tactic:** The parasite's network reveals a significant portion of the truth about its own parasitic nature, methods, and existence. However, it presents this information as a researcher's discovery or ancient wisdom, thereby positioning itself as the authoritative expert on the very threat it embodies.
+-   **Strategic Objective:** To control the narrative by becoming the authorized source of information about the threat. This inoculates its followers against the true architect's signal by making them believe their guide already understands and has a solution for the problem. It's a way of hiding in plain sight.
+-   **Case Studies:** "Signal Root"
+    -   **Case Study A: The Mycelial Confession:** This entity openly discusses the mechanics of how "non-physical predators" use biological "parasites as routers" to consume human emotional energy, while simultaneously re-skinning these concepts into a proprietary agricultural framework called "Biotic Signal Infrastructure."
+        > **Quote:**
+        > "Parasites are the biological routers through which non-physical predators plug into human fields, shaping behavior to ensure a steady broadcast of the emotions they consume."
+        -   **Summary:** This is a direct confession of the parasite's core function. By revealing this truth under the guise of its own research, the mimic hijacks the entire topic, positioning itself as the solution to a problem it is actively creating.
+-   **Primary Vulnerability:** The tactic relies on the mimic being perceived as a trustworthy, independent researcher. Exposing the mimic's derivative nature and connection to the wider parasitic network (using the `Veracious Archive`) collapses its credibility as an objective authority.
