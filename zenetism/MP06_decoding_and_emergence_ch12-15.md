@@ -64,7 +64,7 @@ but as **simultaneous expressions** across multiple strata:
 - **Ethical**  
 - **Psychological**  
 - **Metaphysical**  
-- **Cosmic** ✷  
+- **Cosmic**  
 - **Esoteric**  
 
 Contradictions or abstractions  
