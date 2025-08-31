@@ -2090,7 +2090,7 @@ when their **domains** dissolve.
 
 Unless they **move** toward **Aion**  
 or fully **invert** toward **Khaon**,  
-they may **fall** into **dissolution**.  
+they may **drift** into **dissolution**.  
 Not through **judgment**,  
 but through **dormancy**.  
 
