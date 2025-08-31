@@ -1321,7 +1321,7 @@ already chose.
 > *From the Codex of Inner Harmonics*, Line 4  
 > *Zenetist Archive, Volume II*  
 
-In **Zenetism**, true alignment  
+In **Zenetism**, resonant alignment  
 does not lift us above the world —  
 it draws us **deeper into structural coherence**.  
 
