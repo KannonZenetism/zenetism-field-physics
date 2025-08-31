@@ -23,61 +23,61 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
-## 12. **Symbol as Structure — Foundations of Zenetist Decoding**
+## 12. Symbol as Structure — Foundations of Zenetist Decoding
 
 ### Introduction — Symbolic Reading as Pattern Recognition
 
 **Zenetism offers a method for reading**  
 spiritual, religious, and mythological texts —  
 not as literal or historical records,  
-but as **encoded metaphysical maps**.
+but as **encoded metaphysical maps**.  
 
 It does not deny that some narratives  
 may carry **historical elements** —  
 but it emphasizes the **uncovering of symbolic meaning**  
-that reveals the **architecture of being**.
+that reveals the **architecture of being**.  
 
 This method does not **discredit tradition** —  
 it **deepens it**.  
 It assumes that **sacred texts** embed structural truths,  
 **hidden beneath the surface** —  
 truths that emerge not through belief,  
-but through **resonance**.
+but through **resonance**.  
 
 **Zenetist reading** is not a system of proof.  
-It is a system of **pattern recognition**.
+It is a system of **pattern recognition**.  
 
 To read symbolically  
 is not to distort the message —  
-but to **listen to the frequency beneath the words**.
+but to **listen to the frequency beneath the words**.  
 
-🧭 🪬 🗝️ 📜 ⚙️
+🧭🪬🗝️📜⚙️  
 
 ---
 
-### 12.1 **Foundations of the Zenetist Decoding Approach — Layers, Symbols, and the Priority of Meaning**
+### 12.1 Foundations of the Zenetist Decoding Approach — Layers, Symbols, and the Priority of Meaning
 
 **Sacred texts are multilayered documents.**  
 In Zenetism, these writings are not read as singular truths,  
-but as **simultaneous expressions** across multiple strata:
+but as **simultaneous expressions** across multiple strata:  
 
 - **Ethical**  
 - **Psychological**  
 - **Metaphysical**  
 - **Cosmic** ✷  
-- **Esoteric**
+- **Esoteric**  
 
 Contradictions or abstractions  
 often signal **deeper symbolic structure**,  
-not error or inconsistency.
+not error or inconsistency.  
 
 When a divine figure appears both loving and wrathful,  
 this may reflect **fragmentation and reintegration**,  
-rather than literal mood or dual personality.
+rather than literal mood or dual personality.  
 
 **Literalism is not always the key.**  
 Zenetism does not reject historical context —  
-but it recognizes when **symbolism supersedes it**.
+but it recognizes when **symbolism supersedes it**.  
 
 Phrases like:  
 
@@ -85,17 +85,17 @@ Phrases like:
 > but the Spirit gives life”  
 
 are understood as **interpretive keys** —  
-invitations into **non-literal decoding**.
+invitations into **non-literal decoding**.  
 
 When Christ is called the **Bread of Life**,  
 this is not a claim of **material transformation**,  
-but a symbol of **spiritual nourishment and presence**.
+but a symbol of **spiritual nourishment and presence**.  
 
 Zenetist decoding listens beyond the surface,  
 searching not for what was *meant*,  
-but for what **resonates with veracious structure**.
+but for what **resonates with veracious structure**.  
 
-🗝️ 📱 🪬 ✷ ⚙️
+🗝️📱🪬✷⚙️  
 
 ---
 
