@@ -826,7 +826,7 @@ Zenetism names this rhythm
 It unfolds in four primary phases:  
 
 * **Outfolding** — movement into multiplicity  
-  A surge from Zenon to Aion,  
+  A surge from Aion,  
   cascading through Theon,  
   into Forms, then embodiment.  
 
