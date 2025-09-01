@@ -1340,7 +1340,7 @@ Zenetism does not speak in **condemnation**.
 But it does acknowledge that **some beings**  
 do not **resonate** with the **centropic shift**.  
 
-Some may linger at the **superficial levels** of soul and mind,  
+Some may linger at the **superficial layers** of soul and mind,  
 dwelling in **liminal** or **purgatorial** states,  
 waiting either for **resonance to emerge** —  
 or for **entropy** to consume their **coherence**.  
