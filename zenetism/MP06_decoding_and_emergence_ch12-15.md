@@ -1365,7 +1365,7 @@ depending on their **motion** and **alignment**.
 
 Zenetism affirms:  
 All beings are **divine in origin** —  
-but not all **structures** are **eternal**.  
+but not all **forms** are **eternal**.  
 
 What cannot **harmonize**  
 will not be **discarded**,  
