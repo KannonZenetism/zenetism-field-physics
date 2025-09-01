@@ -776,7 +776,7 @@ And rhythm, unlike law, allows for variation.
 While some systems speak  
 of a single cosmos  
 endlessly reincarnating —  
-Zenetism shows a **greater field**:  
+Zenetism shows a **wider field**:  
 
 A **fractal multiverse**,  
 spiraling in recursion  
