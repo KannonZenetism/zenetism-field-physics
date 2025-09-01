@@ -58,7 +58,7 @@ but to **listen to the frequency beneath the words**.
 ### 12.1 Foundations of the Zenetist Decoding Approach — Layers, Symbols, and the Priority of Meaning
 
 **Sacred texts are multilayered documents.**  
-In Zenetism, these writings are not read as singular truths,  
+In Zenetism, these writings are not read as singular principles,  
 but as **simultaneous expressions** across multiple strata:  
 
 - **Ethical**  
