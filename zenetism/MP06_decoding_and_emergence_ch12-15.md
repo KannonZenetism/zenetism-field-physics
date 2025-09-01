@@ -39,9 +39,9 @@ that reveals the **architecture of being**.
 
 This method does not **discredit tradition** —  
 it **deepens it**.  
-It assumes that **sacred texts** embed structural truths,  
+It assumes that **sacred texts** embed structural patterns,  
 **hidden beneath the surface** —  
-truths that emerge not through belief,  
+patterns that emerge not through belief,  
 but through **resonance**.  
 
 **Zenetist reading** is not a system of proof.  
