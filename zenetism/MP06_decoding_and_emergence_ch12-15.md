@@ -706,7 +706,7 @@ They are vibrational instruments—
 Designed to harmonize with the seeker  
 Who approaches with open resonance.  
 
-To truly *hear*  
+To fully *hear*  
 Is to be tuned.  
 
 Scripture is not just a message.  
