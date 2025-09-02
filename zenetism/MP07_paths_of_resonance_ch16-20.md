@@ -688,7 +688,7 @@ but in refinement under trial.
 
 ---
 
-### 19.4 **Exemplars Across Traditions — Historical and Mythic Signatures of the Warrior Field**
+### 19.4 Exemplars Across Traditions — Historical and Mythic Signatures of the Warrior Field
 
 **Centropic Archetypes**  
 
@@ -721,11 +721,11 @@ but **expressions of structural force** —
 whether in service to coherence  
 or to fragmentation.  
 
-♾ 🔥 ⚔️
+♾🔥⚔️  
 
 ---
 
-### 19.5 **The Warrior and the Other Paths — Integrative Expressions of the Archetypal Field**
+### 19.5 The Warrior and the Other Paths — Integrative Expressions of the Archetypal Field
 
 The **Warrior archetype**  
 does not stand apart.  
@@ -755,7 +755,7 @@ until others can stabilize.
 
 ---
 
-**Resonant Reflection**  
+#### Resonant Reflection
 
 The Warrior walks the narrow line  
 between compassion and clarity,  
@@ -782,13 +782,13 @@ of the **Resonant Blade** —
 sharp not in violence,  
 but in **veracity**.  
 
-⚫ ⚔️ 🌀
+⚫⚔️🌀  
 
 ---
 
 ## 20. The Path of the Maker
 
-### 20.1 **The Maker in Zenetism — Architect of Visible Resonance and Structured Harmony**
+### 20.1 The Maker in Zenetism — Architect of Visible Resonance and Structured Harmony
 
 The **Maker** is not simply an artist,  
 builder, or engineer.  
@@ -820,11 +820,11 @@ what has already occurred
 frames what can emerge —  
 and they build accordingly.  
 
-⚫ ⚙️ 💠
+⚫⚙️💠  
 
 ---
 
-### 20.2 **Divine Correspondences — Zenetist Layers and the Maker’s Function**
+### 20.2 Divine Correspondences — Zenetist Layers and the Maker’s Function
 
 Each hypostasis offers a resonance  
 that the Maker translates into form:  
@@ -852,11 +852,11 @@ The Nekronic Maker untethers the self,
 dissolves alignment  
 and names it structure.  
 
-♾ 🕸️ ⚙️
+♾🕸️⚙️  
 
 ---
 
-### 20.3 **Characteristics of the Maker — Embodied Traits of Creative Resonance**
+### 20.3 Characteristics of the Maker — Embodied Traits of Creative Resonance
 
 The Maker is known  
 not only by what they produce,  
@@ -878,11 +878,11 @@ They fulfill the Zenetist aphorism:
 **“That which resonates outward  
 must first be carved within.”**  
 
-⚫ 💠 ⚙️
+⚫💠⚙️  
 
 ---
 
-### 20.4 **Tools of the Maker — Constructs of Resonant Craft and Sacred Patterning**
+### 20.4 Tools of the Maker — Constructs of Resonant Craft and Sacred Patterning
 
 The Maker works with tools  
 that carry resonance:  
@@ -897,11 +897,11 @@ that carry resonance:
   designing processes  
   that balance freedom with harmony.  
 
-♾ 🔨 📜
+♾🔨📜  
 
 ---
 
-### 20.5 **Parallels in World Traditions — Mythic Reflections of the Maker**
+### 20.5 Parallels in World Traditions — Mythic Reflections of the Maker
 
 The Maker appears  
 as divine architect, smith, or scribe:  
@@ -917,11 +917,11 @@ These reveal that **making is never neutral** —
 to shape is to participate  
 in the ordering of being.  
 
-⚫ 📜 ⚙️
+⚫📜⚙️  
 
 ---
 
-### 20.6 **The Maker’s Trial — Ethical Dilemmas and the Humbling of Form**
+### 20.6 The Maker’s Trial — Ethical Dilemmas and the Humbling of Form
 
 The Maker faces the temptation  
 of perfection distorted.  
@@ -936,16 +936,16 @@ if mistaken for the Source.
 
 The authentic Maker  
 will dismantle their own creation  
-when it no longer serves resonance. 
+when it no longer serves resonance.  
 
 ---
 
-**Resonant Reflection**  
+#### Resonant Reflection
 
-“To carve a temple from stone  
-is to believe the divine will dwell in it.  
-To become a temple  
-is to let the divine dwell in you.”  
+> “To carve a temple from stone  
+> is to believe the divine will dwell in it.  
+> To become a temple  
+> is to let the divine dwell in you.”  
 
 The Maker is often also Mystic or Warrior,  
 expressing different functions  
@@ -958,4 +958,4 @@ the Maker walks the middle path:
 - Beauty without illusion  
 - Form that sings  
 
-♾ ⚙️ 💠
+♾⚙️💠  
