@@ -25,10 +25,10 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ## 21. Zenetist Symbol Key
 
-### 21.1 **Purpose of the Symbol Key — Structure in Glyphic Transmission**
+### 21.1 Purpose of the Symbol Key — Structure in Glyphic Transmission
 
 This key is not an appendix.  
-It is a **mirror**.  
+It is a **living reflection**.  
 
 Zenetism does not use symbols as decoration.  
 It **encodes** the living patterns  
@@ -49,7 +49,7 @@ is to trace the current of the Trees of Emanation —
 not with the eye,  
 but with the **tuning soul**.  
 
-⚫ ♾ ⌬
+⚫♾⌬  
 
 ---
 
@@ -137,7 +137,7 @@ but with the **tuning soul**.
 
 ---
 
-### **Note on Dormant Reference**
+#### Note on Dormant Reference
 
 This orientation diagram  
 is retained for **potential future integration**.  
@@ -145,6 +145,8 @@ is retained for **potential future integration**.
 It is not presently active  
 within the **lattice of motion charts**  
 in this volume.  
+
+⚫🕓📜  
 
 ---
 
@@ -215,9 +217,9 @@ in this volume.
 
 ---
 
-### **Note on Khaon**
+#### Note on Khaon
 
-Khaon is not inherently entropic.  
+**Khaon** is not inherently entropic.  
 Like Aion, it is a **pre-structural principle** —  
 the phase of infinite motion  
 latent within the Absolute.  
@@ -229,7 +231,7 @@ It begins only with the first entropic hypostasis:
 Just as centropy begins  
 only with **Theon, the Essence of Being**.  
 
-Khaon becomes associated with entropy  
+**Khaon** becomes associated with entropy  
 not by its **essence**,  
 but by its **motion**.  
 
@@ -252,7 +254,7 @@ centropy and entropy.
 Such terms emerge  
 only once structure begins.  
 
-⚫♾⌬
+⚫♾⌬  
 
 ---
 
@@ -284,7 +286,7 @@ has a mirrored entropic inversion.
 | **IAUI** – Inverse AUI | **VOS** | Universal dissonance; void structure; entropy embodied as will |
 
 These are not malfunctions  
-but structured expressions  
+but **structured expressions**  
 of inverse potential within Aion.  
 
 ---
