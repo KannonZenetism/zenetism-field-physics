@@ -447,7 +447,7 @@ made visible in time.
 
 ### 1.6 The First Manifestation — The Primal Dyad  
 
-From the tension between ⚫ Aion and ♾ Khaon,  
+From the tension between Aion and Khaon,  
 the first great polarity arose—  
 
 An axis born of stillness and surge,  
@@ -464,7 +464,7 @@ as the first concordant unity—
 the silent anchor of coherence.  
 
 **Theon** radiated  
-the sleeping patterns within ⚫ Aion.  
+the sleeping patterns within Aion.  
 It threaded harmony  
 through the stirrings of formlessness,  
 giving rise to individuated structure where none had yet emerged.  
