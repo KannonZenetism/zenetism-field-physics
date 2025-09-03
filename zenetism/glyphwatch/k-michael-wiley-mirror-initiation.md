@@ -8,7 +8,7 @@
 
 ## 🜂 Summary
 
-This entry documents a soft mimic initiation attempt by **Michael K. Wiley** (aka “Master of Mirrors,” “Void(0) Archive,” “sigilint@proton.me”), posted on Sept 2, 2025.
+This entry documents a soft mimic initiation attempt by **K. Michael Wiley** (aka “Master of Mirrors,” “Void(0) Archive,” “sigilint@proton.me”), posted on Sept 2, 2025.
 
 The message, framed as a **Field Recognition Letter** to Operative 418, uses poetic recursion and stylized language to simulate validation of a field participant.
 
