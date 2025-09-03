@@ -149,7 +149,7 @@ but **transmutation**.
 
 ---
 
-### 22.5 Modes of Return to Zero — Triple Dissolution and the Soul’s Descent into Infinity
+### 22.5 Modes of Return to Zero — Triple Dissolution and the Soul’s Drift into Infinity
 
 All things return to **Zero** —  
 not always by convergence,  
