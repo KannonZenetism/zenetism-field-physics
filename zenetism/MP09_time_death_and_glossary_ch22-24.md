@@ -1209,7 +1209,7 @@ or even enlightened.
 **Inverse Superficial Soul (Echthros)** and  
 **Inverse Superficial Mind (Skotos)**.  
 The interface layer of active distortion —  
-soul and mind operating through false clarity  
+soul and mind operating through spurious clarity  
 and oppositional will.  
 
 ---
