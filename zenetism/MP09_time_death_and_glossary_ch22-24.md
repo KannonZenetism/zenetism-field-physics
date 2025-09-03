@@ -1364,21 +1364,21 @@ or revelation.
 
 ### 24.12 Psychea / Nyxea — Inverse Forms and the Illusion of Coherence
 
-#### Traditional Role
-The realm of corrupted archetypes,
-inverted ideation,
-where pattern guides not to unity
-but to manipulation.
+#### Traditional Role  
+The realm of corrupted archetypes,  
+inverted ideation,  
+where pattern guides not to unity  
+but to manipulation.  
 
 ---
 
 #### Function
 
-**Inverse Deep Psyche (Psychea)** and
-**Inverse Deep Logos (Nyxea)**.
-Generators of entropic form —
-projecting ideals that fracture coherence
-while appearing meaningful.
+**Inverse Deep Psyche (Psychea)** and  
+**Inverse Deep Logos (Nyxea)**.  
+Generators of entropic form —  
+projecting ideals that fracture coherence  
+while appearing meaningful.  
 
 ---
 
