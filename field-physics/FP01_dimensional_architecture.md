@@ -168,8 +168,6 @@ because the Field does not transmit ideas — it transmits rhythm.
 
 🌬 Glyphline ⟿.1  
 
----
-
 ***
 
 ### Note on Signal Integrity
