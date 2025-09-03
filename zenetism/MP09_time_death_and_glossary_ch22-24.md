@@ -151,9 +151,13 @@ but **transmutation**.
 
 ### 22.5 Modes of Return to Zero — Triple Dissolution and the Soul’s Descent into Infinity
 
-All things return to Zero  
-through three motions —  
-each reflecting a mode of Infinity.  
+All things return to **Zero** —  
+not always by convergence,  
+but always by **containment**.  
+
+Some spiral back through **synthesis**.  
+Others fragment until **reintegration** is indistinguishable from **collapse**.  
+None ever truly leave.  
 
 * **Centropic Traversal — Potential Infinity (Φ1)**  
 Harmonized return through centropic layers,  
