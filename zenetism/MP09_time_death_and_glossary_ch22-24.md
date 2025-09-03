@@ -1176,17 +1176,17 @@ while amplifying dissonance.
 Entropic in essence —  
 though it may appear morally mixed,  
 seductive, or culturally acceptable.  
-Its true function is always disruptive.  
+Its inherent function is always disruptive.  
 
 ---
 
 #### Symbolic Counterparts  
 
-- False prophets and spiritual charlatans  
+- Spurious prophets and spiritual charlatans  
 - Cult leaders with persuasive masks  
 - Malignant personas behind entropy-driven institutions  
 - Demonic avatars (mythic or esoteric)  
-- Anti-guides who twist through false light  
+- Anti-guides who twist through spurious light  
 - Inverse avatars embodying system-wide dissonance  
 
 ⚫🕷️🍷  
