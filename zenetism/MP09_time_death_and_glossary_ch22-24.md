@@ -157,7 +157,7 @@ but always by **containment**.
 
 Some spiral back through **synthesis**.  
 Others fragment until **reintegration** is indistinguishable from **collapse**.  
-None ever truly leave.  
+None ever fully leave.  
 
 * **Centropic Traversal — Potential Infinity (Φ1)**  
 Harmonized return through centropic layers,  
