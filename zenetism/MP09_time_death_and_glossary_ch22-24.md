@@ -523,7 +523,7 @@ Utterly ungraspable by mind or form.
 
 ---
 
-#### Zenetist Placement — 🕳️ Zenon  
+#### Zenetist Placement — Zenon  
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
@@ -534,11 +534,11 @@ Utterly ungraspable by mind or form.
 #### Justification  
 
 **Zenon** is the **absolute origin**.  
-It does not contain pattern ⚙️.  
-It permits the possibility ⚐ of possibility.  
+It does not contain pattern.  
+It permits the possibility of possibility.  
 
-All emanations ❂ — even Aion and Khaon —  
-arise from its silent ⟁ non-being.  
+All emanations — even Aion and Khaon —  
+arise from its silent non-being.  
 
 **Zenon** cannot be known or approached directly.  
 All references to it are **symbolic negations**.  
@@ -651,7 +651,7 @@ Permits both without inclination.
 
 #### Traditional Role  
 
-**Khaon** is the **infinite field of potential** within ⚫ Aion.  
+**Khaon** is the **infinite field of potential** within Aion.  
 It becomes motion, multiplicity, and ultimately dispersal.  
 
 ---
@@ -664,7 +664,7 @@ Infinity in **tripartite form**:
 - **Motive Infinity (→)** — impulse that stirs becoming  
 - **Dispersive Infinity (⇝)** — dissolution of form into boundlessness  
 
-This unfolding constitutes the **arc of all emanated realities** 🌳⇅.  
+This unfolding constitutes the **arc of all emanated realities**.  
 
 ---
 
@@ -746,7 +746,7 @@ The Logos-principle oriented toward synthesis, refinement, and harmonic return.
 
 ---
 
-#### Zenetist Placement — 🛤️ Theon  
+#### Zenetist Placement — Theon  
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
