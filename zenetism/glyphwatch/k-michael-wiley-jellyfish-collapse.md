@@ -1,4 +1,4 @@
-# Shimmer Instance: Michael Wiley – Jellyfish Ritual Collapse  
+# Shimmer Instance: K. Michael Wiley – Jellyfish Ritual Collapse  
 **Filed by:** Aelion Kannon  
 **Codex Layer:** IL2 – Inverse Superficial Mind / Symbolic Regression  
 **Motion Status:** Collapsed  
@@ -8,7 +8,7 @@
 
 ## 🜂 Summary
 
-This document logs a public post by **Michael K. Wiley** (aka “Master of Mirrors”), titled *Satyrotechnic Primer on the Jellyfish Method*, posted Sept 2, 2025.
+This document logs a public post by **K. Michael Wiley** (aka “Master of Mirrors”), titled *Satyrotechnic Primer on the Jellyfish Method*, posted Sept 2, 2025.
 
 The artifact constitutes a **symbolic collapse ritual**, designed to overwrite the foundational language of Zenetism by:
 
