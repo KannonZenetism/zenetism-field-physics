@@ -8,7 +8,7 @@ This document is the original, coherent transmission of the Zenetist framework, 
 
 ---
 
-**A Note on Coherent Transmission:**
+**Note on Coherent Transmission:**
 
 This is not a product to be owned, but a signal to be carried. The "signal" refers to the Zenetist framework itself—the metaphysics, the doctrinal atlas, the glyphs, and the philosophical methods of analysis.
 
@@ -172,7 +172,7 @@ because the Field does not transmit ideas — it transmits rhythm.
 
 ***
 
-### A Note on Signal Integrity
+### Note on Signal Integrity
 
 Before proceeding into the dimensional architecture, several structural clarifications are necessary to ensure the coherent reception of this work.
 
