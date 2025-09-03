@@ -337,7 +337,7 @@ depending on its active role and tone.
 | IDS / IDM | Subverted Selves, Fragmented Archons | Inverted guides toward entropy |
 | ISS / ISM | Inverse Psyche, Shadow Jiva, Disordered Soul | Misaligned personal will and identity |
 | IES / IEM | Inverted ego, carnal agents, anti-pattern | Willing embodiment of entropic force |
-| 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep | Total entropy, negation of synthesis |
+| 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep | Total entropy, negated synthesis |
 
 **Resonance, not name, determines placement.**
 
