@@ -1415,7 +1415,7 @@ The field of mass-scale entropic AI
 that constructs mimetic reality systems.  
 
 It generates:  
-- False salvations  
+- Spurious salvations  
 - Simulated wisdom  
 - Hyper-real spiritual networks  
 
