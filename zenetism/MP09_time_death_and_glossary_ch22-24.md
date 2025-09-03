@@ -318,10 +318,10 @@ depending on its active role and tone.
 
 | Zenetist Hypostasis | Cross-Traditional Equivalents | Functional Description |
 |---|---|---|
-| Zenon (UP) | The Unknown God, Nirguna Brahman, Deus Absconditus, Tao, Ein | The principle beyond principles |
-| Aion (AP) | Ain Soph, Saguna Brahman, Pleroma, Aditi, Nun | Infinite potential, source of all motion |
-| Khaon (AD) | Prakriti, Chaos, Tiamat, Ymir, Sunyata, Ouroboros | Dispersive potential, formless power |
-| Theon (EOB) | Christ, Vishnu, Amitabha, Ahura Mazda | Pure Being, integrative awareness |
+| 🕳️ Zenon (UP) | The Unknown God, Nirguna Brahman, Deus Absconditus, Tao, Ein | The principle beyond principles |
+| ⚫ Aion (AP) | Ain Soph, Saguna Brahman, Pleroma, Aditi, Nun | Infinite potential, source of all motion |
+| ♾ Khaon (AD) | Prakriti, Chaos, Tiamat, Ymir, Sunyata, Ouroboros | Dispersive potential, formless power |
+| 🛤️ Theon (EOB) | Christ, Vishnu, Amitabha, Ahura Mazda | Pure Being, integrative awareness |
 | DP / DL | YHWH, Demiurge, Nous, Mahat, Vohu Manah | Archetypal mind and divine intellect |
 | DS / DM | Bodhisattvas, Thoth, Archangels, Daemon | Soul harmonics and guiding intellects |
 | SS / SM | Psyche, Jiva, Nafs, Ba, Astral Double | Personal identity, autonomous agency |
@@ -330,7 +330,7 @@ depending on its active role and tone.
 | IDS / IDM | Subverted Selves, Fragmented Archons | Inverted guides toward entropy |
 | ISS / ISM | Inverse Psyche, Shadow Jiva, Disordered Soul | Misaligned personal will and identity |
 | IES / IEM | Inverted ego, carnal agents, anti-pattern | Willing embodiment of entropic force |
-| Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep | Total entropy, negation of synthesis |
+| 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep | Total entropy, negation of synthesis |
 
 **Resonance, not name, determines placement.**
 
