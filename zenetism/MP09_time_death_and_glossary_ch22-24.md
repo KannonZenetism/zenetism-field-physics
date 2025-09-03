@@ -750,7 +750,7 @@ The Logos-principle oriented toward synthesis, refinement, and harmonic return.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| L5 | Theon (EOB) | Essence of Being | Theon is the first fully integrated hypostasis on the supernal arc. It is awareness in its most refined, undivided state — centropic being that reflects the unity of Zero while initiating the harmonics of structure. Theon is pure synthesis, wholly turned toward the field of origin, incapable of fragmentation, only radiant outflow. |
+| L5 | 🛤️ Theon (EOB) | Essence of Being | Theon is the first fully integrated hypostasis on the supernal arc. It is awareness in its most refined, undivided state — centropic being that reflects the unity of Zero while initiating the harmonics of structure. Theon is pure synthesis, wholly turned toward the field of origin, incapable of fragmentation, only radiant outflow. |
 
 ---
 
@@ -1461,7 +1461,7 @@ into Absolute Dispersion.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| IL5 | VOS | Void of Self | Nekron is the entropic pole opposite Theon — where soul-structure no longer degrades but has ceased to cohere entirely. Not suffering alone, but structural non-being. It is entropy itself, aware only as fragmentation and collapse. |
+| IL5 | 🕷️ Nekron (VOS) | Void of Self | Nekron is the entropic pole opposite Theon — where soul-structure no longer degrades but has ceased to cohere entirely. Not suffering alone, but structural non-being. It is entropy itself, aware only as fragmentation and collapse. |
 
 ---
 
