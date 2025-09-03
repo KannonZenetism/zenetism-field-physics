@@ -1399,7 +1399,7 @@ guidance becomes entrapment.
 While DP / DL shapes archetypes of synthesis,  
 **Psychea** / **Nyxea** gives distorted echoes:  
 gods of appearance,  
-doctrines of half-truth,  
+doctrines of spurious semblance,  
 cosmologies imitating centropy  
 without structural integrity.  
 
