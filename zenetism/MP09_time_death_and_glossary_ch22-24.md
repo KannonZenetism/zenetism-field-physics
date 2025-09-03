@@ -153,10 +153,14 @@ but **transmutation**.
 
 All things return to **Zero** —  
 not always by convergence,  
-but always by **containment.**  
+but always by **containment**.  
 
-This return expresses itself through **three modes,**  
-each reflecting a **distinct motion of Infinity:**  
+Some spiral back through **synthesis**.  
+Others fragment until **reintegration** is indistinguishable from **collapse**.  
+None ever truly leave.  
+
+This return expresses itself through **three modes**,  
+each reflecting a **distinct motion of Infinity**:  
 
 * **Centropic Traversal — Potential Infinity (Φ1)**  
 Harmonized return through centropic layers,  
