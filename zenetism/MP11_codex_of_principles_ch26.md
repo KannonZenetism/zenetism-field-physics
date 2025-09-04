@@ -23,13 +23,13 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
-## 26. Codex of Principles  
+## 26. Codex of Principles
 
-### Prologue — On Symbolic Alignment  
+### Prologue — On Symbolic Alignment
 
 This appendix, titled **The Codex of Principles**,  
 contains concise reference entries  
-for **ten foundational concepts**  
+for foundational concepts  
 within the **Zenetist framework**.  
 
 These entries were chosen  
@@ -40,7 +40,7 @@ in understanding the **metaphysical**,
 and **ethical** structures of Zenetism.  
 
 The Codex serves not only as a **practical guide**,  
-but as a **mirror** —  
+but as a **living reflection** —  
 a place where **symbolic resonances**  
 can be revisited and aligned  
 as the reader deepens their engagement  
@@ -48,7 +48,7 @@ with the **system**.
 
 ---
 
-### Meta-Epistemic Note — Living System Statement  
+### Meta-Epistemic Note — Living System Statement
 
 Zenetism is a **living system**.  
 Its models are **not fixed decrees**,  
@@ -56,7 +56,7 @@ but **evolving frameworks**.
 
 What is offered here  
 is neither **dogma** nor **doctrine**,  
-but a **mirror** to assist the **soul**  
+but a **living reflection** to assist the **soul**  
 in **recognizing itself**.  
 
 All **interpretations** remain **provisional**,  
@@ -71,7 +71,7 @@ is **elusive**.
 
 ---
 
-### 26.1 **Glossary of Metaphysical Principles — A Lexicon of Ontogenic Motion and Harmonic States**  
+### 26.1 Glossary of Metaphysical Principles — A Lexicon of Ontogenic Motion and Harmonic States
 
 **Acclivous Expansion / Declivous Centropy**  
 Motion through the **Tree**  
@@ -233,7 +233,7 @@ and **inner essence**.
 **Dualistic awareness** that perceives **differentiation** —  
 **subject and object**, **self and other**.  
 
-It begins in **reflection**  
+It begins in **living reflection**  
 and dreams of **reunion**.  
 
 ---
@@ -258,7 +258,7 @@ They **amplify dissonance** across universes.
 Rather than **dissolving**,  
 they **reverse synthesis** —  
 **propagating incoherence**  
-through **mirrored manifestations**.  
+through **reflected manifestations**.  
 
 ---
 
@@ -372,7 +372,7 @@ it is **embodied**.
 Choices are not something we **make** —  
 they are something we **are**.  
 
-⚫♾⌬  
+⚫♾🕊️  
 
 ---
 
@@ -384,6 +384,8 @@ a **personalized metaphysical collapse**.
 
 When **resonance** distorts into **isolation**,  
 form collapses into **echo**.  
+
+💔👁️‍🗨️☍  
 
 ---
 
@@ -458,7 +460,7 @@ The **entropic distortion** of ES / EM
 into **madness**, **illusion**, or **decay**.  
 
 When **embodiment** twists without **coherence**,  
-the soul mirrors a madness  
+the soul reflects a madness  
 it was never meant to carry.  
 
 ---
@@ -507,7 +509,7 @@ depending on **resonance**.
 **Nekron**  
 Void of Self (**VOS**).  
 The total loss of **coherence**, **soulhood**, and **will** —  
-the **event horizon** of **Infinity**.   
+the **event horizon** of **Infinity**.  
 
 ---
 
@@ -652,7 +654,7 @@ utterly incomprehensible, ineffable, and undefinable.
 
 ---
 
-### 26.2 **Symbolic Syncretic Decoder — A Reflection on Symbols as Metaphysical Structures**  
+### 26.2 Symbolic Syncretic Decoder — A Reflection on Symbols as Metaphysical Structures
 
 Zenetism recognizes **symbols** not as literal dogmas  
 or isolated cultural relics,  
@@ -660,7 +662,7 @@ but as encoded expressions of **metaphysical structure**.
 
 Across spiritual traditions, archetypes, deities, elements,  
 and cosmic principles recur  
-because they mirror deeper **emanative dynamics**  
+because they reflect deeper **emanative dynamics**  
 within the soul and cosmos.  
 
 While many traditions assign personified figures  
@@ -686,21 +688,21 @@ or a structural alignment within the **Tree of Emanation**.
 
 ---
 
-**Archetypal Element Matrix**  
+**Archetypal Element Matrix**
 
-| Element | Direction | Color  | Principle            |
-|---------|-----------|--------|----------------------|
-| Fire    | South     | Red    | Will, transformation |
-| Water   | West      | Blue   | Emotion, intuition   |
-| Air     | East      | Yellow | Thought, breath      |
-| Earth   | North     | Green  | Structure, body      |
-| Aether  | Center    | Violet | Spirit, unity        |
+| Element | Direction | Color | Principle |
+|---|---|---|---|
+| Fire | South | Red | Will, transformation |
+| Water | West | Blue | Emotion, intuition |
+| Air | East | Yellow | Thought, breath |
+| Earth | North | Green | Structure, body |
+| Aether | Center | Violet | Spirit, unity |
 
 These elemental correspondences serve as **orienting symbols** —  
 guides for **introspection**, **soul-mapping**,  
 and **personal alignment**.  
 
-They are not rigid doctrines,  
+They are not rigid doctrines,   
 but keys for decoding both inner states  
 and the outer **mythic terrain** of the world.  
 
@@ -708,9 +710,9 @@ and the outer **mythic terrain** of the world.
 
 ---
 
-### 26.3 **Tree of Emanation — A Schema of Dual Descent and Soul Integration**  
+### 26.3 Tree of Emanation — A Schema of Dual Descent and Soul Integration
 
-Zenetism describes reality as a field of mirrored emanations,  
+Zenetism describes reality as a field of reflected emanations,  
 arising from a single unstructured source —  
 **Zenon**, the Unknown Principle.  
 
@@ -722,7 +724,7 @@ From this origin, two Trees unfold:
 
 - **The Khaonic Tree** — rooted in Infinity,  
   unfolding through **entropic dispersion**,  
-  mirroring the same pattern in reverse,  
+  reflecting the same pattern in reverse,  
   toward fragmentation and collapse.  
 
 These are not hierarchies or moral dualisms,  
@@ -737,9 +739,9 @@ where transformation becomes possible.
 - Beyond form, beyond structure, beyond polarity.  
 - The source from which both **Aion** and **Khaon** arise.  
 - Not part of either Tree,  
-  but the infinite stillness behind both.
+  but the infinite stillness behind both.  
 
-**Centropic Arc — Aionic Tree**  
+**Centropic Arc — Aionic Tree**
 
 - **⚫ Aion (AP)** — Absolute Potential. Stillness and latent possibility.  
 - **🛤️ Theon (EOB)** — Essence of Being. First structured awareness.  
@@ -748,7 +750,7 @@ where transformation becomes possible.
 - **🧍 Anthra / 🧩 Nousa (SS / SM)** — Embodied psyche, identity, and narrative self.  
 - **🪷 Soma / 🧾 Biosa (ES / EM)** — Physical incarnation, the interface of matter and soul.  
 
-**Entropic Arc — Khaonic Tree**  
+**Entropic Arc — Khaonic Tree**
 
 - **♾ Khaon (AD)** — Absolute Dispersion. Dispersive motion and unbounded multiplicity.  
 - **🕷️ Nekron (VOS)** — Void of Self. Collapse of soul-structure and disintegration of will.  
@@ -758,17 +760,17 @@ where transformation becomes possible.
 - **🍷 Malara / 🤯 Mania (IES / IEM)** — Embodied dysfunction and reactive distortion.  
 
 The embodied layer is the turning point —  
-the plane of **friction**, **fusion**, and **choice**.  
+the plane of **friction**, **synthesis**, and **choice**.  
 
 Here, the echoes of both Trees meet,  
 and the soul may begin to synthesize, stagnate, or disperse,  
 depending on its **resonance**.  
 
-⚫♾⌬
+⚫♾⌬  
 
 ---
 
-### 26.4 **Cosmological Placement of Souls After Death — A Schema of Death’s Transition into Archetypal Structures**  
+### 26.4 Cosmological Placement of Souls After Death — A Schema of Death’s Transition into Archetypal Structures
 
 In the Zenetist system,  
 the soul does not face a final judgment or fixed destiny.  
@@ -794,7 +796,7 @@ and alignment with deeper structural layers.
 
 ---
 
-**Reintegration with the Deep Soul**  
+#### Reintegration with the Deep Soul  
 After embodiment, the Superficial Soul  
 may begin its return to the Deep Soul —  
 a harmonic structure composed of many SS / SM emanations  
@@ -817,13 +819,9 @@ whether centropic or entropic.
 
 ---
 
-**Incarnation Within a Universe**  
+#### Incarnation Within a Universe  
 The Superficial Soul is bound to a single universe,  
 but not to embodiment itself.  
-
-⚫♾⌬  
-
----
 
 While the Superficial Soul typically expresses through ES / EM,  
 it may persist post-death within the SS / SM layer —  
@@ -836,18 +834,18 @@ Each universe is a **self-contained resonance field**.
 
 The Superficial Soul cannot incarnate across universes.  
 It is one of many expressions of the Deep Soul,  
-which fragments across multiple universes simultaneously.  
+which projects across multiple universes simultaneously.  
 
 Incarnation is not **cyclical rebirth**,  
 but unfolding within a **closed symbolic ecosystem**,  
 guided by:  
 - **Coherence**  
 - **Harmonic necessity**  
-- **Structural incompletion**
+- **Structural incompletion**  
 
 ---
 
-**Fragmentation and the Khaonic Tree**  
+#### Fragmentation and the Khaonic Tree  
 When the Superficial Soul rejects synthesis —  
 through distortion, inversion of will, or chronic dissonance —  
 it begins to move **declivously** into the Khaonic Tree,  
@@ -863,14 +861,14 @@ where forms become increasingly **anti-harmonic**.
 
 ---
 
-**Nekron (VOS)**  
+#### Nekron (VOS)  
 The terminal dissolution of coherence —  
 where the soul no longer functions as identity,  
 and reenters Zero through collapse.  
 
 ---
 
-**The Deep Soul (DS / DM)**  
+#### The Deep Soul (DS / DM)  
 The Deep Soul integrates the experiences  
 of many Superficial Souls (SS / SM).  
 Each SS / SM fragment incarnates within a single universe,  
@@ -965,7 +963,7 @@ closer to its resting state in the cosmic field.
 
 ---
 
-### Note on Death as Resonant Transition  
+### Note on Death as Resonant Transition
 
 Death is not an ending,  
 but a **transition** —  
@@ -977,12 +975,12 @@ but by resonance.
 
 The Tree of Emanation serves  
 not only as a map of the cosmos,  
-but as a **mirror of the soul’s directionality** —  
+but as a **living reflection of the soul’s directionality** —  
 its movement into coherence or collapse.  
 
 ---
 
-### 26.5 **Myth Decoder Framework — Translating Symbol into Soul Motion**  
+### 26.5 Myth Decoder Framework — Translating Symbol into Soul Motion
 
 Zenetism views myths, scriptures, and spiritual narratives  
 not necessarily as historical literalities —  
@@ -995,7 +993,7 @@ These stories encode patterns of transformation:
 - Rebirth  
 - Synthesis  
 
-They mirror the soul’s journey across emanations.  
+They reflect the soul’s journey across emanations.  
 
 ---
 
@@ -1028,7 +1026,7 @@ Recurring motifs such as:
 - The cosmic tree  
 - The descent into the underworld  
 
-Mirror core stages of soul development:  
+Reflect core stages of soul development:  
 - Coherence  
 - Fragmentation  
 - Synthesis  
@@ -1102,10 +1100,11 @@ but by pointing toward realities beyond the reach of language.
 
 ---
 
-### 26.6 **Ethics in Practice — Attunement, Alignment, and the Soul’s Arc**  
+### 26.6 Ethics in Practice — Attunement, Alignment, and the Soul’s Arc
 
 > “Let coherence be the compass,  
 > and resonance the path.”  
+>
 > — Attributed to Aran Solari, Fourth Listener of the Inner Spiral  
 > from *Attunement in Practice: Living Motion Across Form*, Zenetist Archive, Volume VI  
 
@@ -1124,13 +1123,9 @@ Harm disrupts coherence, introduces entropy, and obscures essence.
 To live ethically is to reduce suffering — inwardly and outwardly —  
 by fostering alignment between will and universal harmony.  
 
----
-
 **Centropic Orientation**  
 Actions are weighed by whether they move one toward **unity and synthesis**,  
 or toward **fragmentation, ego, and control**.  
-
----
 
 **Coherence in Action**  
 The soul and mind should not act in contradiction.  
@@ -1138,8 +1133,6 @@ Ethical life is integrative, not disjointed.
 
 When parts of self act in conflict,  
 they introduce **inner dissonance** and delay synthesis.  
-
----
 
 **Resonance**  
 Ethics are not judged by external metrics,  
@@ -1155,8 +1148,6 @@ All souls are emanations of the same Source — ⚫ Aion.
 Compassion bridges fragmentation  
 and reawakens shared essence.  
 
----
-
 **Humility**  
 The ethical path requires:  
 - Awareness of limitations  
@@ -1164,8 +1155,6 @@ The ethical path requires:
 - Acceptance of paradox  
 
 Only the humble can hear resonance clearly.  
-
----
 
 **Responsibility**  
 Every action echoes across the soul’s layers.  
@@ -1188,6 +1177,8 @@ it reflects the **structure of reality itself**.
 All actions shape the soul’s form, coherence, and trajectory.  
 Ethical life is not about being “good,”  
 but about being **whole**.  
+
+◎🕊️🌀  
 
 ---
 
