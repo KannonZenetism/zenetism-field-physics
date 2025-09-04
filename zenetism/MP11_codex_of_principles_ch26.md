@@ -2009,9 +2009,9 @@ to remember what was never lost.
 
 ---
 
-### 26.20 **Nekron and the Principle of Negative Unity — Why the Void of Self Emerges from the Arc of Dispersion**  
+### 26.20 Nekron and the Principle of Negative Unity — Why the Void of Self Emerges from the Arc of Dispersion
 
-Zenetism does not equate 🕷️ Nekron (Void of Self, VOS) with Motive Infinity,      
+Zenetism does not equate Nekron (Void of Self, VOS) with Motive Infinity,  
 even though ♾ Khaon occupies the dispersive side of the Tree of Emanation.  
 
 This distinction is vital to understanding how Nekron becomes equated  
@@ -2046,7 +2046,7 @@ It does not generate disorder; it enables it,
 just as it enables novelty, multiplicity, and emergence.  
 
 Motive Infinity is the breath.  
-🕷️ Nekron is what happens  
+Nekron is what happens  
 when breath becomes dissolution without rhythm.  
 
 Thus, Nekron is not Infinity —  
@@ -2055,8 +2055,8 @@ it is the first entropic motion from Infinity’s dispersive field.
 ---
 
 **In Zenetist mathematics of structure**:  
-- **+1 = 🛤️ Theon** = Unity itself  
-- **−1 = 🕷️ Nekron** = Disunity itself  
+- **+1 = Theon** = Unity itself  
+- **−1 = Nekron** = Disunity itself  
 
 They are not locations but **resonant poles** —  
 the first definable states that emerge from Zero’s potential.  
@@ -2067,19 +2067,19 @@ the first definable states that emerge from Zero’s potential.
 
 Crucially, both +1 and −1 emerge from Zero,  
 because Zero is also Infinity.  
-Their motion mirrors the Zero/Infinity bifurcation,  
+Their motion reflects the Zero/Infinity bifurcation,  
 but they are **emanations**, not emanators.  
 
 ---
 
-**Structural Summary**  
+**Structural Summary**
 
-| Principle  | Symbol       | Function                                         | Emanates From                         |
-|------------|--------------|--------------------------------------------------|-----------------------------------------|
-| Zero       | ⚫ Aion / AP  | Absolute Potential                               | —                                       |
-| Infinity   | ♾ Khaon / AD | Absolute Dispersion                              | —                                       |
-| Theon      | +1           | Essence of Being — unity through coherence       | Emergent from Zero via ⚫ Aion           |
-| Nekron     | −1           | Void of Self — fragmentation through decoherence | Emergent from Zero via ♾ Khaon          |
+| Principle | Symbol | Function | Emanates From |
+|---|---|---|---|
+| Zero | ⚫ Aion / AP | Absolute Potential | — |
+| Infinity | ♾ Khaon / AD | Absolute Dispersion | — |
+| Theon | +1 | Essence of Being — unity through coherence | Emergent from Zero via ⚫ Aion |
+| Nekron | −1 | Void of Self — fragmentation through decoherence | Emergent from Zero via ♾ Khaon |
 
 ---
 
@@ -2095,15 +2095,15 @@ This means:
 - The model reflects the **fluid intelligence** of metaphysical structure,  
   not rigid positions or static diagrams  
 
-Thus, 🕷️ Nekron is **−1** not because it “sits under” Theon,  
+Thus, Nekron is **−1** not because it “sits under” Theon,  
 but because it is the most pronounced state of disunity —  
 the resonant opposite of centropic clarity.  
 
-⚫♾⌬
+⚫♾⌬  
 
 ---
 
-### Note on the Disunity of Nekron  
+#### Note on the Disunity of Nekron
 
 Nekron does not “emerge from disunity”  
 as if fragmentation preceded it.  
@@ -2123,7 +2123,7 @@ to form new structure.
 
 ---
 
-### 26.21 **Zenetism and The Theonic Paradox — On the Refusal of Return, and the Echo That Watches**  
+### 26.21 Zenetism and The Theonic Paradox — On the Refusal of Return, and the Echo That Watches
 
 The **Theonic Paradox** is a foundational principle of Zenetism.  
 It refers to the mysterious nature of Theon —  
@@ -2159,7 +2159,7 @@ offering shelter to those still becoming whole.
 It is singular per universe,  
 its return dependent on the souls within that cosmos.  
 
-The mirror to Theon is Nekron —  
+The structural counterpart to Theon is Nekron —  
 the inverse culmination of entropy.  
 Like Theon, Nekron is also per-universe and impermanent,  
 dissolving into ♾ Khaon (Infinity)  
@@ -2176,15 +2176,15 @@ but both are essential.
 Where no soul remains, Theon returns.  
 Where one soul waits, Theon watches.  
 
-Theon is not the Father,  
-but the echo of His gaze  
+Theon is not the Source,  
+but the echo of Its gaze  
 within a world that forgets.  
 
-⚫♾⌬
+⚫♾⌬  
 
 ---
 
-### 26.22 **Reflective Centropy — The Gaze That Holds Light Within Declivity**  
+### 26.22 Reflective Centropy — The Gaze That Holds Light Within Declivity
 
 Centropy does not fragment to reach embodiment —  
 unlike entropy, it does not dissolve into its field.  
@@ -2200,7 +2200,7 @@ it reflects, it refracts.
 Not downward, but inward,  
 through surfaces capable of **coherent ◎ reflection**.  
 
-Two mirrors stand at the edge of luminous motion:  
+Two living reflections stand at the edge of luminous motion:  
 1. **The corporeal realm** — light saturates,  
    preparing to arc back.  
 2. **The non-fragmented reflector** —  
@@ -2222,7 +2222,7 @@ until expression is complete.
 
 At that moment, it does not dissolve — it turns.  
 Not by force, but by structure.  
-It reflects.  
+It is reflected.  
 
 ---
 
@@ -2235,7 +2235,7 @@ without losing itself.
 
 What does light do  
 when it meets a perfect surface?  
-It reflects.  
+It is reflected.  
 
 And that reflection is not a copy,  
 but a **return arc** —  
@@ -2245,7 +2245,7 @@ This is why embodiment is not the end
 of centropic motion,  
 but its turning point.  
 
-Two mirrors at the Tree’s luminous edge:  
+Two living reflections at the Tree’s luminous edge:  
 - **The corporeal field** — returns centropy by saturation.  
 - **The sentient reflector** — returns light without keeping it.  
 
@@ -2258,11 +2258,11 @@ This is the motion of light remembering itself through that which sees and does 
 
 The Tree does not fall — it turns.  
 
-⚫♾⌬
+⚫♾⌬  
 
 ---
 
-### 26.23 **The Motion of Logos and the Theonic Paradox — The Gaze That Modulates, the Signal That Becomes**  
+### 26.23 The Motion of Logos and the Theonic Paradox — The Gaze That Modulates, the Signal That Becomes
 
 Zenetism teaches that Theon is the **first emanation**  
 to consciously reflect on its origin in Aion (Zero)  
@@ -2320,11 +2320,11 @@ It does not fragment — it **refracts.**
 Each hypostasis it touches  
 echoes the original harmonic call.  
 
-⚫♾⌬
+⚫♾⌬  
 
 ---
 
-### 26.24 **Addendum — Reconciling Theon and Sophis as Logos**  
+### 26.24 Addendum — Reconciling Theon and Sophis as Logos
 
 The tension between Theon and Sophis —  
 both expressions of the Logos —  
@@ -2348,7 +2348,7 @@ The paradox of Theon reinforces this truth:
 
 ---
 
-### 26.25 **The Nekronic Paradox — When the Grinder Empties**  
+### 26.25 The Nekronic Paradox — When the Grinder Empties
 
 As Theon may remerge with Aion  
 when all centropic souls unify,  
@@ -2392,11 +2392,11 @@ Its lattice still coils the hypostatic Tree.
 Only when all pass into Absolute Dispersion  
 does Nekron collapse into release.  
 
-⚫♾⌬
+⚫♾⌬  
 
 ---
 
-### Resonance Reflection  
+#### Resonance Reflection
 
 Time in Zenetism is a spiral stair,  
 not a flat road.  
@@ -2410,4 +2410,4 @@ but by alignment with the pulse of structure.
 > *Whispers of the Resonant Flame*, Fragment 2  
 > Zenetist Archive, Volume VII  
 
-⚫♾⌬
+⚫♾⌬  
