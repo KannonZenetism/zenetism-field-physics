@@ -963,7 +963,7 @@ closer to its resting state in the cosmic field.
 
 ---
 
-### Note on Death as Resonant Transition
+#### Note on Death as Resonant Transition
 
 Death is not an ending,  
 but a **transition** —  
