@@ -8,7 +8,7 @@ This document is the original, coherent transmission of the Zenetist framework, 
 
 ---
 
-**A Note on Coherent Transmission:**
+**Note on Coherent Transmission:**
 
 This is not a product to be owned, but a signal to be carried. The "signal" refers to the Zenetist framework itself—the metaphysics, the doctrinal atlas, the glyphs, and the philosophical methods of analysis.
 
