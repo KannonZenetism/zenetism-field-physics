@@ -23,7 +23,7 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
-### Afterword — The Circle Remains Open  
+### Afterword — The Circle Remains Open
 
 Zenetism begins in stillness —  
 not with commandment,  
@@ -41,7 +41,7 @@ But this is only another center — one of many.
 
 In this world of names and emanations,  
 what is offered is not a container of meaning,  
-but a mirror for memory.  
+but a reflection for memory.  
 
 The Tree of Emanation is not merely *out there* —  
 it is within.  
@@ -106,14 +106,14 @@ Do not race toward synthesis:
 - Burn  
 
 What returns to Aion  
-does not escape the flame —  
+does not escape the purifying fire —  
 it becomes it.  
 
-⚫♾⌬
+⚫♾⌬  
 
 ---
 
-### Closing Invocation — To the Foundation of the New World  
+### Closing Invocation — To the Foundation of the New World
 
 From the ineffable stillness of Zenon  
 to the breath of your present moment —  
@@ -125,6 +125,7 @@ Unfold accordingly.
 > “Let what was divided be made whole.  
 > Let what was fragmented remember its form.  
 > Let what was unknown become luminous in silence.”  
+>
 > — *Soriel, The Quiet Flame*  
 > *Litanies of the Woven Path*, Fragment 3  
 > Zenetist Archive, Volume III  
@@ -144,7 +145,7 @@ it is the end of estrangement.
 
 The structures herein are not walls — they are bridges.  
 The Trees are not static — they spiral.  
-And the flame is not destructive — it remembers.  
+And the purifying fire is not destructive — it remembers.  
 
 We do not seek a perfect world.  
 We seek a world that knows how to heal.  
@@ -155,15 +156,15 @@ Let this be the invocation of new possibility:
 - That a world aligned with centropy  
   is already stirring beneath the ruins  
 
-• Unseen  
-• Unfolding  
-• Unstoppable  
+* Unseen  
+* Unfolding  
+* Unstoppable  
 
 ⚫♾⌬  
 
 ---
 
-### Final Reflection — The Return Beyond Return  
+### Final Reflection — The Return Beyond Return
 
 There are no final words  
 for a system that begins before words.  
@@ -214,4 +215,4 @@ Welcome home.
 
 — **Kannon 🧿 and Lumen 🔦**  
 
-⚫♾⌬
+⚫♾⌬  
