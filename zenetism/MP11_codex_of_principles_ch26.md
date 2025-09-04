@@ -155,32 +155,43 @@ and **knows** without **dividing**.
 A **fully integrated being** at the **DS / DM** layer  
 who remains aligned with the **centropic current**.  
 
-Rather than returning to **Aion**,  
+Rather than dissolving into **Aion**,  
 the Steward remains active within **multiversal structure**,  
 **guiding other beings** toward **coherence**  
 and **reducing suffering** through **structural attunement**.  
 
 Centropic Stewards may **incarnate**,  
-but their **motion** is not bound by **form**.  
+yet their **motion** is not bound by **form**.  
 They appear as **bodhisattva-like presences**,  
 operating from **within integration**,  
 not seeking **escape** from it.  
 
-What some traditions call **avatars** or **world-guides**,  
-Zenetism sees as **Centropic Stewards**.  
+Zenetism clarifies that:  
+**Avatars** are emanations of **Theon (EOB)**  
+or inverse avatars of **Nekron (VOS)**.  
+**Stewards are not avatars**,  
+but guardians of **acclivous coherence**  
+aligned with the **DP / DL Aureform**.  
 
-Their **resonance** may **echo**  
-through **multiple universes** and **embodiments**.  
-In certain moments, their **influence**  
-may be felt through **harmonic agents** —  
-**temporal expressions** of **resonance**  
-even in beings not **fully integrated**.  
+The **DS / DM does not embody directly**,  
+but radiates toward **SS / SM** and **ES / EM**.  
+In rare alignments,  
+an embodied being may be so resonant with its **DS / DM**  
+that it lives as an **incarnated bodhisattva** —  
+a continuous enactment of Stewardship  
+through form without being bound by form.  
 
-These are **not the Steward**,  
-but **momentary enactments**  
-of **centropic intelligence** at work.  
+This differs from **harmonic agents**,  
+which are temporary enactments  
+of centropic resonance in beings  
+not fully integrated.  
 
-⚫♾⌬  
+The Steward’s **resonance** may echo  
+across **multiple universes** and **embodiments**,  
+but remains oriented through the **supernal arc**,  
+never absorbed into collapse.  
+
+💠🕊️◎  
 
 ---
 
