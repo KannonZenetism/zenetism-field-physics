@@ -84,7 +84,7 @@ of those it resonates with,
 **refined**, **harmonized**,  
 and **synthesized** into **coherence**.  
 
-Souls that **converge** within **🛤️ Theon**  
+Souls that **converge** within **Theon**  
 retain **identity** through **perfect clarity** —  
 not as **separate beings**,  
 but as **differentiated facets**  
