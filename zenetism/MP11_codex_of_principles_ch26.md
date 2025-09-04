@@ -155,7 +155,7 @@ and **knows** without **dividing**.
 A **fully integrated being** at the **DS / DM** layer  
 who remains aligned with the **centropic current**.  
 
-Rather than dissolving into **Aion**,  
+Rather than saturating into **Aion**,  
 the Steward remains active within **multiversal structure**,  
 **guiding other beings** toward **coherence**  
 and **reducing suffering** through **structural attunement**.  
