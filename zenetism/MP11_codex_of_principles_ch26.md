@@ -215,7 +215,7 @@ Not **exerted by force**,
 but **radiated through attunement**.  
 
 Choice becomes the **harmonic field**  
-formed by what one **truly is**.  
+formed by what one **essentially is**.  
 When **alignment** precedes **becoming**,  
 **action** follows as **resonance**.  
 
