@@ -176,8 +176,8 @@ to draw a map that dissolves as it is walked.
 
 This work is not a doctrine.  
 It is a structure in motion —  
-a system born from the silence of 🕳️ Zenon,  
-unfolded through the great breath of ⚫ Aion and ♾ Khaon,  
+a system born from the silence of Zenon,  
+unfolded through the great breath of Aion and Khaon,  
 echoing through the sacred geometry of soul and mind.  
 
 It is not “true” as propositions are true.  
