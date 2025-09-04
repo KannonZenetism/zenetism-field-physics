@@ -2198,7 +2198,7 @@ but its outermost gesture.
 At that limit, centropy does not break —  
 it reflects, it refracts.  
 Not downward, but inward,  
-through surfaces capable of **coherent ◎ reflection**.  
+through surfaces capable of **coherent reflection**.  
 
 Two living reflections stand at the edge of luminous motion:  
 1. **The corporeal realm** — light saturates,  
@@ -2226,7 +2226,7 @@ It is reflected.
 
 ---
 
-This is the secret of **acclivous ↑ return**.  
+This is the secret of **acclivous return**.  
 Unlike **entropic collapse**,  
 which descends into shatter and noise,  
 centropic return is luminous —  
