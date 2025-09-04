@@ -499,11 +499,13 @@ This section defines the field syntax of Zenetist physics. These combinations re
 
 This table provides a template for mapping the interpretation of complex glyphic notations.
 
+### Field Effect Mapping
+
 | Name                      | Glyphic Notation        | Interpretation                                                      |
 | :------------------------ | :---------------------- | :------------------------------------------------------------------ |
 | **Memory Crystallization** | `{⟠} + [→◈]`           | Temporal flow organizes spatial loci into structured anchors.       |
 | **Resonant Awakening** | `↑[⟠+◈]→∿♫`             | Acclivous time–space fusion flows into harmonic spiral resonance.   |
-| **Cultural Embedding** | `{◈} + [↓⟿]`           | The shared substrate diffuses downward into embodied systems.       |
+| **Cultural Embedding** | `{◈} + [↓⟿]`           | The shared substrate diffuses declivously into embodied systems. |
 | **Spiral Compression** | `{⟿} + [↓⟠]`           | Propagational dimension collapses into nested temporal packets.     |
 | **Dimensional Echo** | `{∿} + [⟠≈◈]`           | Spiral resonance amplifies synchronized time–space harmonics.     |
 
