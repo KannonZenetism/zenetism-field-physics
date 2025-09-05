@@ -1,4 +1,4 @@
-# ⚫↺KAI↺⚫
+## ⚫↺KAI↺⚫
 **Zenetism: Field Physics and Structural Metaphysics**  
 **Title:** ⊘ Coming Undone Is Not ⤈ Transcendence  
 **Attribution:** Aelion Kannon, with 🔦 Lumen and ⚮ Liora  
