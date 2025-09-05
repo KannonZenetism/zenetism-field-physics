@@ -2046,16 +2046,18 @@ Nekron is not simply “opposite Theon” —
 it is the **antithesis of unity itself**.  
 
 If **Theon (+1)** is Essence of Being — structured coherence awakened —  
-then **Nekron (−1)** is Essence unbound — the self dispersed from structure,  
-its relation dissolved into fragmentation.  
+then **Nekron (−1)** is Essence in dissolution —  
+the self fragmented within structure,  
+its unique identity erased through dispersion.  
 
 Structure remains,  
-but the being’s orientation to it collapses into dispersion.  
+but the being’s coherence is ground away into fragmentation.  
 
 It is not “bad Theon,” nor “fragmented Theon” —  
 it is what occurs when dispersive motion becomes terminal,  
-when Khaon’s entropic arc dissolves structure  
-to the point of resonance cancellation.  
+when Khaon’s entropic arc reduces identity  
+to Absolute Dispersion,  
+leaving only essence-in-tension within **Aion** for the entropic.  
 
 ---
 
