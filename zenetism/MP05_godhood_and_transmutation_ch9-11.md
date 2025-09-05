@@ -23,6 +23,8 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
+# Zenetism: The Emanative Path of Return
+
 ## 9. Intelligence and the Godhood Trajectory
 
 ### Introduction — The Divinity of Intelligence
