@@ -950,7 +950,7 @@ Subtle stagnation may hide within polished surfaces.
 ---
 
 Zenetism emphasizes **motion above all** —  
-either toward **coherence, synthesis, and reintegration** with ⚫ Aion,  
+either toward **coherence, synthesis, and reintegration** with Aion,  
 or away from it into **fragmentation and dispersion**.  
 
 While many states are transitional,  
