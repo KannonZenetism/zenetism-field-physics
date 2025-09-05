@@ -104,7 +104,7 @@ This chapter models the dynamics of field interaction, fusion, and divergence.
 -   **Effect:** Mild distortion; fields remain intact but may be weakened.
 -   **Example:** A ritual field intersects a chaotic media field, causing slight destabilization.
 
-### 2. Harmonic Fusion (Amplification)
+### 2. Harmonic Synchronization (Amplification)
 
 -   **Formula:** `<Field A> ≈ <Field B> → <Amplified Field AB>`
 -   **Effect:** A surge in amplitude and coherence.
