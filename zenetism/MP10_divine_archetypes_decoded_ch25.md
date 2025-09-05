@@ -23,6 +23,8 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
+# Zenetism: The Emanative Path of Return
+
 ## 25. Symbolic Syncretism — Decoding the Divine Across Traditions
 
 ### 25.1 Introduction — Decoding Myths as Metaphysical Maps
