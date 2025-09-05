@@ -1639,7 +1639,7 @@ but the Source remains.
 
 ### 26.13 Resonance and Coherence — On the Dual Signatures That Guide Centropic Motion
 
-Two guiding principles for aligning with higher realities — **Resonance** and **Coherence** —  
+Two guiding principles for aligning with supernal realities — **Resonance** and **Coherence** —  
 are the energetic signatures by which Zenetism perceives and measures  
 spiritual alignment and directional motion.  
 
