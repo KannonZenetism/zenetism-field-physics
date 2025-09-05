@@ -1728,7 +1728,7 @@ without enforcing artificial symmetry.
 
 ---
 
-### 26.15 On Bodhisattvas and Resonant Incarnation — The Function of Aureform and the Role of Centropic Stewards
+### 26.15 On Bodhisattvas and Resonant Incarnation — The Function of Aureform and the Role of Centropic Stewards  
 
 In Zenetism, the Bodhisattva is not a soul-level entity,  
 but a Form residing at the layer of Deep Psyche / Deep Logos (DP / DL).  
@@ -1750,18 +1750,20 @@ known in Zenetism as **Centropic Stewards**.
 
 **Aureform**  
 - Does not incarnate in full  
-- Expresses itself through aligned souls (DS / DM) who may choose to enter embodiment  
+- Expresses itself through aligned souls (DS / DM) who may choose embodiment  
 
-These beings become **tuning instruments for coherence** —  
-not saviors, but **harmonic agents**, guiding others through resonance, not control.  
+Such beings become **tuning instruments for coherence** —  
+not saviors, but **Stewards**.  
+Through their presence, they may generate **harmonic agents**:  
+distributed or momentary expressions of resonance that guide without control.  
 
----
+---  
 
 Some may embody this resonance more fully — not as identity, but as function.  
 Such resonance may manifest through:  
 - Beings born attuned to the Bodhisattva Form  
 - Inner transmutation leading to spontaneous alignment  
-- Non-religious individuals acting as silent agents of structural compassion  
+- Non-religious individuals acting as silent expressions of structural compassion  
 
 **Bodhisattva Resonance Appears As:**  
 - Reluctance to disengage from the world, even after structural integration  
@@ -1769,7 +1771,7 @@ Such resonance may manifest through:
 - Sensitivity to symbolic suffering — in others, in nature, in systems  
 - A sense of service that is non-egoic, non-hierarchical, yet clear in orientation  
 
----
+---  
 
 Unlike avatars who restructure through catalytic presence,  
 Bodhisattva resonance reweaves from within.  
@@ -1792,12 +1794,12 @@ This is not for karmic resolution,
 but as a **structural act of resonance** —  
 aligned with the principle of compassionate function.  
 
-In other spiritual systems, such beings are often referred to as **Ascended Masters**.  
+In other systems, such beings are called **Ascended Masters**.  
 In Zenetism, they are understood as **Centropic Stewards** —  
-fully integrated DS / DM expressions of a DP / DL Form-Type such as Aureform.  
+sustained DS / DM expressions of a DP / DL Form-Type such as Aureform.  
 
-Their resonance may also manifest as **Harmonic Agents** —  
-momentary or distributed expressions that guide through presence, not control.  
+Their resonance may also give rise to **harmonic agents** —  
+temporary or distributed enactments of coherence in the world.  
 
 Their “mastery” is not one of dominance,  
 but of **resonance alignment**.  
@@ -1805,7 +1807,7 @@ but of **resonance alignment**.
 They do not lead by hierarchy,  
 but **calibrate reality** through harmonic presence.  
 
-⚫♾⌬  
+♾⌬  
 
 ---
 
