@@ -404,7 +404,7 @@ form collapses into **echo**.
 A being — **corporeal** or **supernal** —  
 who **facilitates coherence**.  
 
-Often a **distributed** or **momentary expression**  
+A **distributed** or **momentary expression**  
 of a **Centropic Steward**.  
 
 Harmonic Agents act not by **authority**,  
