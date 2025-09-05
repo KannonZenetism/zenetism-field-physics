@@ -23,6 +23,8 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
+# Zenetism: The Emanative Path of Return
+
 ## 16. The Life of a Zenetist — Living the Tree of Resonance
 
 ### 16.1 The Zenetist in the World — Embodying the Tree of Emanation
