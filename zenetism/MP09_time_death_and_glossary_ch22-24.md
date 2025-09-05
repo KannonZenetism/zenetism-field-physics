@@ -23,6 +23,8 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
+# Zenetism: The Emanative Path of Return
+
 ## 22. Resonant Time and Post-Embodiment States
 
 Zenetism offers a distinct model of  
