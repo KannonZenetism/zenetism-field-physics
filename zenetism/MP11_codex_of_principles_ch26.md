@@ -890,7 +890,7 @@ The soul’s centropic or entropic nature
 is not determined by life events —  
 it is **unfolded** through them,  
 in alignment with the primordial choice  
-encoded in ⚫ Aion.  
+encoded in Aion.  
 
 If one SS / SM fails to harmonize,  
 others may still return to coherence.  
