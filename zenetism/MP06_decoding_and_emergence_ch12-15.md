@@ -23,6 +23,8 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
+# Zenetism: The Emanative Path of Return
+
 ## 12. Symbol as Structure — Foundations of Zenetist Decoding
 
 ### Introduction — Symbolic Reading as Pattern Recognition
