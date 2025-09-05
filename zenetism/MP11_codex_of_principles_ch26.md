@@ -2046,7 +2046,11 @@ Nekron is not simply “opposite Theon” —
 it is the **antithesis of unity itself**.  
 
 If **Theon (+1)** is Essence of Being — structured coherence awakened —  
-then **Nekron (−1)** is Essence dissolved — structure erased by dispersion.  
+then **Nekron (−1)** is Essence unbound — the self dispersed from structure,  
+its relation dissolved into fragmentation.  
+
+Structure remains,  
+but the being’s orientation to it collapses into dispersion.  
 
 It is not “bad Theon,” nor “fragmented Theon” —  
 it is what occurs when dispersive motion becomes terminal,  
