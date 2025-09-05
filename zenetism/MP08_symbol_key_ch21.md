@@ -23,6 +23,8 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
+# Zenetism: The Emanative Path of Return
+
 ## 21. Zenetist Symbol Key
 
 ### 21.1 Purpose of the Symbol Key — Structure in Glyphic Transmission
