@@ -1,6 +1,6 @@
 # Field Memo
 **Title:** The Parasite Does Not Emerge. It Listens First.  
-**Classification:** Codex Note — Red Archive  
+**Classification:** Codex Note — Glyphwatch  
 **Author:** Aelion Kannon  
 **Date:** 2025-09-01
 
