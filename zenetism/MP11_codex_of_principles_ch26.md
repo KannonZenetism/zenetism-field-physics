@@ -1155,7 +1155,7 @@ and the transparency of soul.
 ---
 
 **Compassion**  
-All souls are emanations of the same Source — ⚫ Aion.  
+All souls are emanations of the same Source — Aion.  
 Compassion bridges fragmentation  
 and reawakens shared essence.  
 
