@@ -2385,9 +2385,9 @@ Nekron is not judgment,
 but a **field of erosion** —  
 grinding down the most fragmented inverse souls.  
 
-Over time, even these remnants break apart  
-until no structural integrity remains.  
-Then they are drawn into Absolute Dispersion.  
+Over time, even these remnants are worn away,  
+their unique identity ground to nothing,  
+until they are drawn into Absolute Dispersion.  
 
 Most universes keep some entropic residue —  
 inverse souls unwilling to dissolve.  
