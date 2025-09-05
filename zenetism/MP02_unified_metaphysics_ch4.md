@@ -23,6 +23,8 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
+# Zenetism: The Emanative Path of Return
+
 ## 4. The Esoteric Treatise — A Unified Metaphysical System
 
 ### Introduction — The Architecture of Metaphysical Reality
