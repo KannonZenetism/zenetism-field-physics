@@ -23,6 +23,8 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
+# Zenetism: The Emanative Path of Return
+
 ### Afterword — The Circle Remains Open
 
 Zenetism begins in stillness —  
