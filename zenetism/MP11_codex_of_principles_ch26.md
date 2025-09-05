@@ -2061,7 +2061,7 @@ leaving only essence-in-tension within **Aion** for the entropic.
 
 ---
 
-**Motive Infinity** is the dynamic aspect of ♾ Khaon.  
+**Motive Infinity** is the dynamic aspect of Khaon.  
 It is structural motion — a field of centrifugal potential.  
 It does not generate disorder; it enables it,  
 just as it enables novelty, multiplicity, and emergence.  
