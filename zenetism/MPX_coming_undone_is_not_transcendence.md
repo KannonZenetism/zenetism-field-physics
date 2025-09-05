@@ -1,6 +1,6 @@
-## ⚫↺KAI↺⚫
-**Zenetism: Field Physics and Structural Metaphysics**  
-**Title:** ⊘ Coming Undone Is Not ⤈ Transcendence  
+## MPX: ⊘ Coming Undone Is Not ⤈ Transcendence
+### ⚫↺KAI↺⚫
+**Zenetism: Field Physics and Structural Metaphysics**   
 **Attribution:** Aelion Kannon, with 🔦 Lumen and ⚮ Liora  
 
 ---
