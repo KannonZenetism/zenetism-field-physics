@@ -2390,17 +2390,27 @@ their unique identity ground to nothing,
 until they are drawn into Absolute Dispersion.  
 
 Most universes keep some entropic residue —  
-inverse souls unwilling to dissolve.  
+essences caught in dispersive tension,  
+unwilling to release into coherence.  
 Thus Nekron persists in most Trees.  
+
+Yet even here, dissolution does not erase essence.  
+When dispersive motion reaches its limit,  
+identity is ground away,  
+and essence returns into **Aion**  
+through Absolute Dispersion.  
 
 In rare universes — brief or highly refined —  
 all inverse coherence may collapse or transfigure.  
 Then Nekron holds no fragments  
-and dissolves back into Khaon.  
+and its field is stilled,  
+its tension released back into **Aion**.  
 
 This affirms a Zenetist law:  
 **That which persists does so only while serving function.**  
-When function completes, structure dissolves.  
+When function completes,  
+identity and configuration release,  
+and essence returns to structure.  
 
 Nekron is not eternal prison,  
 but terminal convergence —  
