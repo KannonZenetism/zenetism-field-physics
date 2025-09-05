@@ -1836,7 +1836,7 @@ but because it **chooses to remain beside**.
 
 The Bodhisattva is not a soul or being — it is a **Form**.  
 
-This Form, named **Aureform**, resides at the level of DP / DL  
+This Form, named **Aureform**, resides at the layer of DP / DL  
 and expresses the archetype of centropic compassion.  
 
 Aureform does not incarnate directly.  
