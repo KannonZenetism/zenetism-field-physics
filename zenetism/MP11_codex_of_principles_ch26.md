@@ -1861,7 +1861,7 @@ Aureform is the **radiant centropic Form**
 corresponding to the archetype of the Bodhisattva.  
 
 It resides at the **DP / DL** layer,  
-functioning as a **non-incarnating structural intelligence**  
+functioning as a **non-incarnated structural intelligence**  
 of mercy, restraint, and luminous compassion.  
 
 Unlike fully integrated DS / DM entities,  
