@@ -1621,7 +1621,7 @@ Souls on this trajectory may still return to coherence
 if their orientation and resonance shift  
 before full collapse into VOS,  
 and if their latent centropic potential,  
-seeded in ⚫ Aion, remains accessible.  
+seeded in Aion, remains accessible.  
 
 Inverse orientation is not punishment,  
 but a reflection of **movement**.  
