@@ -23,6 +23,8 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
+# Zenetism: The Emanative Path of Return
+
 ## 5. Zenetist Ethics — A Metaphysical Framework of Morality
 
 ### Prelude — The Destination of Souls and the Nature of Return
