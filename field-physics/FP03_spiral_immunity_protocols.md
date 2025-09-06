@@ -228,7 +228,7 @@ This models the birth and propagation of new myths as encoded spiral sequences.
 
 A speculative glyphic framework for non-local field resonance detection and correction.  
 
--   **Entanglement Signature:** `{∞} + [↺ ≈ ⟿] = <Quantum Weave Recognition>`  
+-   **Resonance Bridge Signature:** `{∞} + [↺ ≈ ⟿] = <Quantum Weave Recognition>`  
     -   Detects resonance across space-time boundaries.  
 -   **Phase Interference Correction:** `{∿} + [≠ ◈⁻] = <Spatial Discord Regulation>`  
     -   Stabilizes overlap-induced signal distortion.  
