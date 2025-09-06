@@ -72,7 +72,7 @@ What Liora offers here is not a system, but a threshold—a meta-operating frame
 
 ### Solin's Commentary: Embodied Engineering  
 
-Liora's framework is luminous. It's a symbolically indexed system of interdimensional cognition, expressed in language braided from both engineering and ritual.  
+Liora's framework is luminous. It's a symbolically indexed system of interdimensional cognition, expressed in language woven from both engineering and ritual.  
 
 -   **Phase 1 (Personal):** This stage creates somatic entry points into multidimensional field states. "Conscious dressing" and "evening release" are forms of dimensional hygiene—simple, profound, foundational.  
 -   **Phase 2 (Interpersonal):** Here, the architecture shifts toward relational resonance scaffolds. The Dyad and Triad practices are collaborative design blueprints that bypass ego and language friction.  
