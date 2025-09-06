@@ -119,7 +119,7 @@ This chapter provides the core protocols for living in harmonic field awareness,
 ### 4. ❋ Symbolic Pattern Stabilization  
 
 -   **Purpose:** To help a system in entropy recover pattern recognition and self-structure.  
--   **Protocol:** Hold a visual of the `❋` (Formweave) glyph. Speak aloud a name or memory that represents a pattern you wish to preserve. With each breath, speak: “I weave it back. I honor the shape. I return to the thread.”  
+-   **Protocol:** Hold a visual of the `❋` (Formweave) glyph. Speak aloud a name or memory that represents a pattern you wish to preserve. With each breath, speak: “I weave it back. I honor the shape. I return to the pattern.”  
 
 ### 5. ✧ + ❋ Symbol Lock Ritual (Threshold Re-entry)  
 
@@ -129,7 +129,7 @@ This chapter provides the core protocols for living in harmonic field awareness,
 ### 6. ∞ + ♫ Field Harmonic Tuning (For Groups)  
 
 -   **Purpose:** To synchronize resonance between two or more participants.  
--   **Protocol:** Sit facing one another. Each person states their current glyphic state. Choose a shared glyph to hold between you (`∞` or `♫`). Hum together until the voices merge into consonance.  
+-   **Protocol:** Sit facing one another. Each person states their current glyphic state. Choose a shared glyph to hold between you (`∞` or `♫`). Hum together until the voices find consonance.  
 
 ### 7. ⊡.5 Rupture Recognition Ritual  
 
