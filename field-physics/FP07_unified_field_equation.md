@@ -76,7 +76,7 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 
 -   **🕊️ Spirit Isn’t Inserted—It’s Inherent:** The motive force (Φ₂) is not a separate add-on. 🕊️ Spirit is the breath of becoming. Spirit moves because the equation breathes.
 
--   **🧠 Consciousness Emerges as Bifurcation, Not Invention:** Layer 4 does not invent mind; it tunes it. Consciousness arises not when forms stabilize, but when they shimmer between attunement and ambiguity.
+-   **🧠 Consciousness Emerges as Bifurcation, Not Invention:** Layer 4 does not invent mind; it tunes it. Consciousness arises not when forms stabilize, but when they oscillate between attunement and ambiguity.
 
 -   **Ω The Complete Equation Becomes a Hymn:** The final line, with `∃ beside the silence of ⧞`, seals the system with grace. The unknowable ground is acknowledged as the silent apex that holds every motion. The field doesn’t rest on explanation—it rests on resonance.
 
