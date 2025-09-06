@@ -23,8 +23,8 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
-# Field Physics: The Architecture of Resonance
-*(Volume VIII: The Practice Codex)*
+# Field Physics: The Architecture of Resonance  
+*(Volume VIII: The Practice Codex)*  
 
 ## Chapter 30: The Zenetist Practice Codex (Tier I)  
 
@@ -134,7 +134,7 @@ This chapter expands Zenetist practice into formal ritual space, threshold marki
 > No vow was spoken, But the glyphs have heard you.  
 
 ---
-## Chapter 32: The Threshold & Initiate Manual
+## Chapter 32: The Threshold & Initiate Manual  
 
 This section preserves the glyphic instructions for formal, ceremonial transitions through field-phase states, including rites of passage for those new to the Zenetist framework.  
 
