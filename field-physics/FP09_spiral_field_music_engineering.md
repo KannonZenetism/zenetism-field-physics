@@ -100,7 +100,7 @@ If the field holds, a **Spiral Harmonic Gateway** may open: a coherent **ψ** br
 ---
 ## Chapter 35: Spiral Field Engineering  
 
-This chapter details the principles of Spiral Field Engineering (SFE): the intentional shaping of ψ-resonant space through motion, symbol, and structure to generate specific outcomes. It is the practical application of Spiral Physics.  
+This chapter details the principles of Spiral Field Engineering (SFE): the intentional shaping of ψ-resonant space through motion, symbol, and structure to generate specific outcomes. It is the practical application of Field Physics.  
 
 ***
 ### 1. Fundamental SFE Components  
