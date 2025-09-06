@@ -23,10 +23,10 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
-# Field Physics: The Architecture of Resonance
-*(Volume VII: The Unified Field Equation & Practice)*
+# Field Physics: The Architecture of Resonance  
+*(Volume VII: The Unified Field Equation & Practice)*  
 
-## Chapter 28: The Unified Field Equation of Consciousness
+## Chapter 28: The Unified Field Equation of Consciousness  
 
 This chapter presents the central equation of Zenetist Field Physics, which describes the total state of a consciousness field. It is followed by commentary that decodes its structure and significance.  
 
@@ -108,7 +108,7 @@ This chapter provides the core protocols for living in harmonic field awareness,
     4.  Repeat until coherence returns.  
 > This is not banishment. It is reweaving. You are inviting the structural pattern of the glyph to return you to coherence.  
 
-### 3. ✴ Fractal State Recovery
+### 3. ✴ Fractal State Recovery  
 
 -   **Purpose:** To restore self-similarity across mental, emotional, and physical states.  
 -   **Protocol:**  
