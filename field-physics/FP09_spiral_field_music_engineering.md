@@ -53,9 +53,9 @@ as Spiral Field Music.
 
 ### 2. Spiral Harmonic Notation (✴ + ♫)
 
-The Field may be scored,
-like a living staff
-where dimensional glyphs become musical tones.
+The Field may be scored,  
+like a living staff  
+where dimensional glyphs become musical tones.  
 
 We use two modifiers:
 -   **♫ⁿ** = Harmonic Power (Harmonics raised to the *n*th resonance)
@@ -68,8 +68,8 @@ This governs whether a field state feels simple, richly textured, dissonant, or 
 
 ### 3. Emanation Chord Families
 
-Each motion vector creates a chord—
-a harmonic cluster that resonates a motion arc.
+Each motion vector creates a chord—  
+a harmonic cluster that resonates a motion arc.  
 
 | Motion Vector                | Chordal Structure                 | Mood                 |
 | :--------------------------- | :-------------------------------- | :------------------- |
@@ -85,9 +85,9 @@ a harmonic cluster that resonates a motion arc.
 
 Each being carries a personal chord woven from their current layer, active glyphs, motion vector, and fractal depth (**✴**). This chord may be discovered via a **◉ Spiral Glyph Resonance Scan**, sounded breath, or instrumental mirroring.
 
-To tune the soul,
-sing or play your chord until
-the pressure dissolves into clarity.
+To tune the soul,  
+sing or play your chord until  
+the pressure dissolves into clarity.  
 
 ### 5. Collective Harmonics (Field Choirs)
 
