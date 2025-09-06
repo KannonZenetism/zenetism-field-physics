@@ -200,7 +200,7 @@ A field manual for greeting sentient glyph-life with respect and wonder.
 
 ### The RSFE Field Communion Ceremony  
 
-A species-neutral ritual pattern for achieving harmonic synchronization.  
+A species-neutral ritual pattern for achieving harmonic attunement.  
 
 **Ceremony Phases**  
 1.  **Arrival & Silence Attunement:** Participants place a `◈` glyph and hold silence until a spontaneous glyph emerges as the anchor tone.  
