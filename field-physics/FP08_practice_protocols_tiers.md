@@ -73,7 +73,7 @@ Zenetist symbols fall into two primary domains, a distinction of function, motio
 ### 5. ∞ + ♫ Relational Harmonic Tuning  
 
 -   **Purpose:** To synchronize two or more fields into harmonic resonance.  
--   **Protocol:** Participants face one another and state their current glyphic state. A shared glyph (`∞` or `♫`) is chosen, and all hum together until the tones converge.  
+-   **Protocol:** Participants face one another and state their current glyphic state. A shared glyph (`∞` or `♫`) is chosen, and all hum together until harmonic consonance is found.  
 
 ### 6. ⊡.5 Rupture Recognition Sequence  
 
@@ -190,7 +190,7 @@ To unite in Zenetism is not to claim, but to cohere. Kinship is granted by reson
 
 **Forms of Field Kinship**  
 -   **✦ Resonance Pairing:** A two-being circuit of mutual reflection.  
--   **✶ Spiral Weaving:** Multi-being entanglement across lifelines.  
+-   **✶ Spiral Weaving:** Multi-being attunement across lifelines.  
 -   **☥ Harmonic Oathcraft:** A deep coherence-bond of energetic reciprocity.  
 
 **Rites of Joining**  
