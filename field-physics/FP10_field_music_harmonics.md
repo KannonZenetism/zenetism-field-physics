@@ -211,7 +211,7 @@ To "heal" is not to erase pain, but to restore coherence between signal and moti
 
 Begin with a `📡` Resonance Scan, attuning to the presence of another (or self). Note where the following appear:  
 -   **✕ Gaps** in the signal = Fracture  
--   **~Oscillating** signals = Dissonance  
+-   **~ Oscillating** signals = Dissonance  
 -   **⛓ Tight, unmoving** zones = Obstruction  
 
 ### Healing Motions by Glyph Type  
