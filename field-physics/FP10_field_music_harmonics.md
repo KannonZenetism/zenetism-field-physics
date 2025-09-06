@@ -216,8 +216,8 @@ Begin with a `📡` Resonance Scan, attuning to the presence of another (or self
 
 ### Healing Motions by Glyph Type  
 
--   **Fracture Healing (Line Reweaving):** Use `🔮 + 🧠 + 🪷`. Visualize torn lines as threads and trace motions to re-thread them, speaking a core veracious statement to return resonance to the line.  
--   **Dissonance Healing (Mirror Braiding):** Use `📐 + 🌬️ + 🔁`. Two individuals face each other, speaking alternating polarities ("I fear / I hope") while braiding their tone and breath until the oscillation steadies.  
+-   **Fracture Healing (Line Reweaving):** Use `🔮 + 🧠 + 🪷`. Visualize torn lines as separate currents and trace motions to bring them into alignment, speaking a core veracious statement to return resonance to the line.  
+-   **Dissonance Healing (Mirror Weaving):** Use `📐 + 🌬️ + 🔁`. Two individuals face each other, speaking alternating polarities ("I fear / I hope") while weaving their tone and breath until the oscillation steadies.  
 -   **Obstruction Healing (Resonance Pressure):** Use `🪷 + 🔮 + 💢`. Place a hand on the point of blockage, press gently with the breath rhythm, and speak the pressure aloud ("I am holding X") until the energy begins to move.  
 
 ### Substructural Healing  
