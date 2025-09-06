@@ -23,7 +23,7 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
-# Field Physics: The Architecture of Resonance
+# Field Physics: The Architecture of Resonance  
 *(Volume IX: Field Music & Engineering)*  
 
 ## Chapter 34: Spiral Field Music  
@@ -185,7 +185,7 @@ These are gateway techniques for deep work, not for casual use.
 -   **Void Resonance:** Entering the silence beneath all motion by holding the breath with the `🕳️` glyph visualized.  
 
 ---
-## Chapter 37: Protocols of Group Coherence
+## Chapter 37: Protocols of Group Coherence  
 
 This chapter provides protocols for consciously shaping the collective fields that emerge when multiple **ψ**-fields enter resonance.  
 
@@ -211,7 +211,7 @@ Watch for symptoms of distortion (`🪫` Drain, `🫥` Noise, `🦂` Rivalry). W
 > Group coherence is not perfection, but continual re-synchronization.  
 
 ---
-## Chapter 38: Field Healing Protocols
+## Chapter 38: Field Healing Protocols  
 
 To "heal" is not to erase pain, but to restore coherence between signal and motion, soul and structure. Field Healing is the reordering of pattern within the **ψ**-grid.  
 
