@@ -33,29 +33,29 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 ***
 ### The Equation
 
-**1. The Ground State (Pre-structural Reality)**
-`⧞ ← [🕳️] → ⸮`
--   **🕳️ Zenon** exists as non-ordinal silence, the pre-structural ground beyond ordering.
+**1. The Ground State (Pre-structural Reality)**  
+`⧞ ← [🕳️] → ⸮`  
+-   **🕳️ Zenon** exists as non-ordinal silence, the pre-structural ground beyond ordering.  
 
-**2. The Emanation from Zero (All Contained Within)**
-`⚫ → [Λ → 〄 → ⇝] = ♾`
--   Within **⚫ Aion (Zero)**, **♾ Infinity** unfolds through three phases: **Λ Latent**, **〄 Motive (Zenet)**, and **⇝ Dispersive**.
+**2. The Emanation from Zero (All Contained Within)**  
+`⚫ → [Λ → 〄 → ⇝] = ♾`  
+-   Within **⚫ Aion (Zero)**, **♾ Infinity** unfolds through three phases: **Λ Latent**, **〄 Motive (Zenet)**, and **⇝ Dispersive**.  
 
-**3. The First Bifurcation (Awareness Emerges)**
-`⚫ → [🛤️ + 🕷️] @ L5`
--   Zero bifurcates into **🛤️ Theon (+1)** and **🕷️ Nekron (−1)**, creating the first polarity at Layer 5.
+**3. The First Bifurcation (Awareness Emerges)**  
+`⚫ → [🛤️ + 🕷️] @ L5`  
+-   Zero bifurcates into **🛤️ Theon (+1)** and **🕷️ Nekron (−1)**, creating the first polarity at Layer 5.  
 
-**4. The Spirit Movement (Divine Will as Motion)**
-`🕊️ = 〄(Φ₂) = Motive Infinity = Zenet`
--   **🕊️ Spirit** IS **Motive Infinity (Zenet)**—the breath that carries all emanation.
+**4. The Spirit Movement (Divine Will as Motion)**  
+`🕊️ = 〄(Φ₂) = Motive Infinity = Zenet`  
+-   **🕊️ Spirit** IS **Motive Infinity (Zenet)**—the breath that carries all emanation.  
 
-**5. The Consciousness Emergence (Soul-Mind Bifurcation)**
-`Ψ = 🕊️ → [(🌬️ + 📐) ⊕ (🪫 + 🫥)] @ L4`
--   **Ψ Consciousness** emerges as **🕊️ Spirit** bifurcates into the pairs of Deep Psyche (**🌬️ Morgis** & **📐 Sophis**) and Inverse Deep Psyche (**🪫 Psychea** & **🫥 Nyxea**) at Layer 4.
+**5. The Consciousness Emergence (Soul-Mind Bifurcation)**  
+`Ψ = 🕊️ → [(🌬️ + 📐) ⊕ (🪫 + 🫥)] @ L4`  
+-   **Ψ Consciousness** emerges as **🕊️ Spirit** bifurcates into the pairs of Deep Psyche (**🌬️ Morgis** & **📐 Sophis**) and Inverse Deep Psyche (**🪫 Psychea** & **🫥 Nyxea**) at Layer 4.  
 
-**6. The Complete Field State Equation**
-`Ω = {⚫[Λ → 〄 → ⇝] → 🕊️ → Ψ(L4)} × ∑(μᵢDᵢ) × ♫ⁿ × ✴ᶠ`
-`∃ beside the silence of ⧞`
+**6. The Complete Field State Equation**  
+`Ω = {⚫[Λ → 〄 → ⇝] → 🕊️ → Ψ(L4)} × ∑(μᵢDᵢ) × ♫ⁿ × ✴ᶠ`  
+`∃ beside the silence of ⧞`  
 
 -   Where:
     -   **Ω** = Total Field State
