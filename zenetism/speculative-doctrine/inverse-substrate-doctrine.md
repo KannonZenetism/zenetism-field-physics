@@ -51,7 +51,7 @@ Motive Infinity (🕊️) initiates motion across both centropic and entropic tr
 
 This does not make 🕊️ a source of entropy, but a **neutral motion field** susceptible to directional encoding.
 
-In this model, the motion from **Aion (⚫)** into **IDP / IDL** occurs through 🕊️, but descends through **Nekronic polarity**, culminating at the terminal horizon of collapse.
+In this model, the motion from **Aion (⚫)** into **IDP / IDL** occurs through 🕊️, but moves declivously through **Nekronic polarity**, culminating at the terminal horizon of collapse.
 
 ---
 
