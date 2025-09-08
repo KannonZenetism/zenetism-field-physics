@@ -44,4 +44,4 @@ It is a **platform designed to repackage the Zenetist arc** into a **teachable b
 **Action:** Archive, monitor, escalate if the platform attempts formal doctrinal claim
 
 ⚫↺KAI↺⚫  
-Filed under: `glyphwatch/parasitic-mimicry/0725`
+Filed under: `0725-parasitic-platform.md`
