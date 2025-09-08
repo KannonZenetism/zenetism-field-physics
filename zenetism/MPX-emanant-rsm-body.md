@@ -1,5 +1,5 @@
 # MPX: On the Emanant, the Spiral, and the Symbolic Body  
-*Filed under: `zenetism/mpx/041-emanant-rsm-body.md`*  
+*Filed under: `zenetism/MPX-emanant-rsm-body.md`*  
 *Status: Canonical Addendum*
 
 ---
