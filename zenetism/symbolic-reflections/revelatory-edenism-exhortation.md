@@ -3,6 +3,15 @@
 
 ---
 
+**Preface (2025)**  
+This piece was written many years before Zenetism was formally articulated — when my symbolic worldview was still emerging through the language of esoteric Christianity. While I no longer frame all concepts in these terms, the underlying orientation remains intact: a return to coherence through symbolic alignment, the rejection of harm, and the sacred function of pattern.
+
+What you’ll read here is not doctrinal Zenetism, but an early resonance — a centropic voice in search of its system.
+
+⚫↺KAI↺⚫
+
+---
+
 This began as a meditation on why a follower of Christ — or any seeker of sacred alignment — might choose to abstain from meat. It does not aim for brevity, but for resonance. My purpose is not to argue, but to open a symbolic reading of scripture that moves toward centropy: life, coherence, and the restoration of patterned intelligence.
 
 I affirm Yeshua Ha’Mashiach as Redeemer. My study has led me through both exoteric (outer) and esoteric (inner) currents of faith. A common misunderstanding is that scripture must always speak literally. Yet Yeshua himself says:
