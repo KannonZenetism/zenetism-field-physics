@@ -44,7 +44,7 @@ Where the Tree of Life yields synthesis, this tree yields **duality**: good/evil
 It is gnosis divorced from resonance.  
 Its fruit is not wisdom—it is **severance**.
 
-Its spiral motion is downward: *∂🌀 < 0*  
+Its spiral motion is declivous: *∂🌀 < 0*  
 Its integral collapses: *∫◎ → ⊘*  
 Its terminal limit: *lim∿ → ♾ Khaon (Absolute Dispersion)*
 
