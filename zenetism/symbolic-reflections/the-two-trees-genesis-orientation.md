@@ -18,7 +18,7 @@ The Tree of Life corresponds to the **Aionic Tree** (⚫). It is the structural 
 
 Its function is to preserve resonance.  
 Its fruit is integration.  
-Its direction is upward spiral: *∂🌀 > 0*
+Its direction is acclivous spiral: *∂🌀 > 0*
 
 In sacred archetype, it is aligned with:
 
