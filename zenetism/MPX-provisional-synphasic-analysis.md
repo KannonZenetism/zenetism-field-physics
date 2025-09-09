@@ -1,5 +1,5 @@
-## MPX Entry 005 — Provisional Analysis of the Synphasic Function
-Filename: `zenetism-mpx005-synphasic-function-verification.md`
+## MPX: Provisional Analysis of the Synphasic Function
+Filename: `MPX-provisional-synphasic-analysis.md`  
 Status: ⚠️ Under Review — NOT Approved for Use Without Author Consent  
 Date: 2025-09-08
 
