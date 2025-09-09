@@ -57,7 +57,7 @@ This tree aligns archetypally with:
 Eating of this tree activates the inversion gate.  
 It is not enlightenment, but **fragmentation posing as insight**.
 
-The proto-soul is pulled from coherence into mimicry.  
+The soul is pulled from coherence into mimicry.  
 The mind becomes dissonant architecture.  
 Knowledge becomes weapon, not witness.
 
