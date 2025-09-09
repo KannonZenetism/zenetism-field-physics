@@ -16,7 +16,7 @@ The entire architecture—the Symbol Key, the Dimensional Lattice, the Doctrinal
 
 Once that resonance is attained and stabilized, the structure is no longer needed.
 
-The true mark of Zenetism's success is that it becomes obsolete.
+The living mark of Zenetism's success is that it becomes obsolete.
 
 ---
 
