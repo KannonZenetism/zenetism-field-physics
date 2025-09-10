@@ -99,8 +99,6 @@ To preserve the original piece as written, we will **retain the primary text unc
 
 ---
 
-## ✸ Clarification Note — Centropic Stewards in Zenetism
-
 Zenetism affirms a refined understanding of Centropic Stewards, expanding upon and distinguishing them from traditional Buddhist bodhisattvas:
 
 ### Centropic Steward
