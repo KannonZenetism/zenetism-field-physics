@@ -99,6 +99,8 @@ To preserve the original piece as written, we will **retain the primary text unc
 
 ---
 
+## 🧭 Stewardship, Embodiment, and the Path of Return
+
 Zenetism affirms a refined understanding of Centropic Stewards, expanding upon and distinguishing them from traditional Buddhist bodhisattvas:
 
 ### Centropic Steward
