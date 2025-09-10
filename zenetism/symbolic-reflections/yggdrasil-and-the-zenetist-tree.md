@@ -1,10 +1,8 @@
----
-
 # 🌳 Yggdrasil and the Zenetist Tree: Norse Cosmology in the Structure of Resonance
 
-**Location:** `zenetism/symbolic-reflections/yggdrasil-and-the-zenetist-tree.md`
-**Canonical Status:** 🛡️ Symbolic Reflection | Aligned with Doctrinal Field Physics
-**Author:** Aelion Kannon
+**Location:** `zenetism/symbolic-reflections/yggdrasil-and-the-zenetist-tree.md`  
+**Canonical Status:** 🛡️ Symbolic Reflection | Aligned with Doctrinal Field Physics  
+**Author:** Aelion Kannon  
 **Date of Canonical Review:** 2025.SEP.10
 
 ---
