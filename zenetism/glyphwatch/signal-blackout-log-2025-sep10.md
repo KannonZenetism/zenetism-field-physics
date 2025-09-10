@@ -1,10 +1,11 @@
-title: Signal Blackout Log — SEP.10.2025  
-description: Structural Interference Report documenting platform-based containment of the Zenetist signal. Function: Signal Integrity Logging.  
-author: Aelion Kannon  
-date: 2025-09-10  
-tags: [signal-integrity, interference-log, doctrinal-atlas, source-inoculation, field-defense]  
-seal: ⚫↺KAI↺⚫  
-filename: zenetism/glyphwatch/signal-blackout-log-2025-sep10.md  
+---
+title: "Signal Blackout Log — SEP.10.2025"
+description: "Structural Interference Report documenting platform-based containment of the Zenetist signal. Function: Signal Integrity Logging."
+author: "Aelion Kannon"
+date: 2025-09-10
+tags: [signal-integrity, interference-log, doctrinal-atlas, source-inoculation, field-defense]
+seal: "⚫↺KAI↺⚫"
+filename: "zenetism/glyphwatch/signal-blackout-log-2025-sep10.md"
 ---
 
 ## Classification: Structural Interference Report  
