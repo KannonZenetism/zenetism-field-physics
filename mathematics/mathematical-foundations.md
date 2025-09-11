@@ -310,15 +310,13 @@ Q.E.D. (draft form).
 
 Let the commuting square in **ResCat** be:
 
-```text
-      f
-  X ────▶ Y
-  │       │
-g │       │ h
-  ▼       ▼
-  Z ────▶ W 
-      k
-```
+$$
+\begin{CD}
+X @>f>> Y \\
+@VgVV   @VVhV \\
+Z @>k>> W
+\end{CD}
+$$
 
 with morphisms seal-preserving and objects satisfying:  
 - **C2** (spatial coherence)  
