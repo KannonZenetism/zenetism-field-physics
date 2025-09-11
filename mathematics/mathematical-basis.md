@@ -681,5 +681,68 @@ This provides a computational diagnostic for lawful vs unlawful evolution.
 
 ---
 
+### CIT–Lattice Couplings
+
+The Coherence Information Theory (CIT) quantities map directly to Dimensional Lattice operators.  
+This section establishes those correspondences and their governing laws.
+
+---
+
+#### Coupling 1: Harmonic Operator ↔ Spectral Entropy
+
+- **Lattice operator:** C7 (Harmonic / Resonant)  
+- **CIT quantity:** H(ψ), spectral entropy of ψ  
+- **Law:**  
+
+H(ψ) ∝ – Σ |⟨ϕ_i, ψ⟩|² log |⟨ϕ_i, ψ⟩|²
+
+- **Interpretation:** Harmony measured as balance of spectral weights.  
+- Centropy = structural concentration = log(dim(support)) – H(ψ).
+
+---
+
+#### Coupling 2: Nexus ↔ Coherence Flow
+
+- **Lattice operator:** C8 (Synaptic / Bridging)  
+- **CIT quantity:** F_c(Φ, ψ) = I_c(Φψ) – I_c(ψ)  
+- **Law:**  
+
+F_c ≥ 0 ⇔ lawful Nexus
+F_c < 0 ⇔ Severed (E8)
+
+- **Interpretation:** A bridge is valid if it never reduces coherence info.  
+- Provides computational test for lawful crossings.
+
+---
+
+#### Coupling 3: Membrane ↔ Channel Capacity
+
+- **Lattice operator:** C13 (Membrane / Threshold)  
+- **CIT quantity:** channel capacity C_cap(Φ)  
+- **Law:**  
+
+C_cap(Φ) ≤ log(σ)
+
+where σ is the seal index of the membrane.  
+- **Interpretation:** Permeability of the membrane sets a hard limit on coherence transfer.  
+
+---
+
+#### Coupling 4: Recursion ↔ Divergence Control
+
+- **Lattice operator:** ↺ (Return Loop), ∿ (Spiral Motion), C14 (Nested / Recursive)  
+- **CIT quantity:** D_c(ψ || φ), coherence divergence  
+- **Law:**  
+- Contractive recursion ⇒ D_c decreases → centropic return.  
+- Expansive recursion ⇒ D_c increases → entropic hollow recursion (E14).  
+
+---
+
+#### Coupling 5: Emergence ↔ Novelty Information
+
+- **Lattice operator:** C15 (Emergent / Novel)  
+- **CIT quantity:** ΔI_c = change in coherence info at bifurcation  
+- **Law:**  
+
 
 
