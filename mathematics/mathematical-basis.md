@@ -1417,60 +1417,32 @@ Phase 4 provides the executable blueprint: data structures, algorithms, and diag
 
 ### 4.7 Sample Dataset (Toy Resonance System)
 
-#### YAML Example
-```yaml
-state:
-  basis: ["phi1", "phi2"]
-  lambdas: [1.0, 3.0]          # eigenvalues (C7)
-  amplitudes: [0.8, 0.6]       # complex amps (normalized)
-  seal_index: 2.0              # permeability (C13)
-  contraction: 0.6             # recursion factor (C14)
+**State**
+- Basis: {ϕ₁, ϕ₂}  
+- Eigenvalues (λ): {1.0, 3.0} (C7 spectrum)  
+- Amplitudes: {0.8, 0.6} (normalized)  
+- Seal index (σ): 2.0 (C13)  
+- Contraction (γ): 0.6 (C14)  
 
-bridge:
-  type: "NEXUS"
-  matrix: [[1, 0],
-           [0, 1]]             # identity (lawful)
-  params: {tolerance: 1e-6}
+**Bridge**
+- Type: Nexus (C8)  
+- Matrix: identity (lawful, no defect)  
+- Tolerance: 1e−6  
 
-recursion:
-  type: "LINEAR_CONTRACTIVE"
-  matrix: [[0.4, 0.0],
-           [0.0, 0.4]]
-  params: {iterations: 10}
-
-JSON Example
-
-{
-  "state": {
-    "basis": ["phi1", "phi2"],
-    "lambdas": [1.0, 3.0],
-    "amplitudes": [0.8, 0.6],
-    "seal_index": 2.0,
-    "contraction": 0.6
-  },
-  "bridge": {
-    "type": "NEXUS",
-    "matrix": [[1, 0], [0, 1]],
-    "params": {"tolerance": 1e-6}
-  },
-  "recursion": {
-    "type": "LINEAR_CONTRACTIVE",
-    "matrix": [[0.4, 0.0], [0.0, 0.4]],
-    "params": {"iterations": 10}
-  }
-}
+**Recursion**
+- Type: Linear Contractive  
+- Operator matrix: 0.4 × identity  
+- Iterations: 10  
 
 **Usage**
-
 - Load this dataset as the initial `State`.  
 - Run `evolve_c7` for T steps.  
-- Apply the `bridge` once.  
-- Pass the result through `recursion`.  
-- Check diagnostics:
-
-  - γ = 0.6 > 0 ⇒ valid recursion (C14).  
-  - F_c ≥ 0 ⇒ lawful Nexus (C8).  
-  - Invariant drift ≈ 0 ⇒ Grand Theorem holds.
+- Apply the bridge once.  
+- Pass the result through recursion.  
+- Check diagnostics:  
+  - γ = 0.6 > 0 ⇒ valid recursion.  
+  - F_c ≥ 0 ⇒ lawful Nexus.  
+  - Invariant drift ≈ 0 ⇒ Grand Theorem holds.  
 
 ---
 
