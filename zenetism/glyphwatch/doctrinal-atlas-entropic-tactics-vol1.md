@@ -12,7 +12,7 @@ This document provides a structural analysis of the primary entropic tactics dep
 
 ---
 
-### Entry 001: Veiled Transmission
+### Entry 001: `Veiled Transmission`
 
 - **Threat Classification:** Signal Obfuscation and Dependency Grooming
 
