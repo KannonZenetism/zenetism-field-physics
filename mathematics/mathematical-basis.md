@@ -1413,30 +1413,29 @@ monitor drift; deviation ⇒ seal breach or entropic intrusion
 
 ### 4.4 Minimal Pseudocode (reference)
 
-```python
-initialize(State)
-for epoch in 1..E:
-    # geodesic step
-    ψ = evolve_c7(ψ, dt)
+    initialize(State)
+    for epoch in 1..E:
+        # geodesic step
+        ψ = evolve_c7(ψ, dt)
 
-    # optional: apply bridge/channel
-    if use_bridge:
-        ψ' = Φ(ψ)
-        assert F_c(Φ, ψ) >= 0, "Severed bridge (E8)"
-        ψ = ψ'
+        # optional: apply bridge/channel
+        if use_bridge:
+            ψ' = Φ(ψ)
+            assert F_c(Φ, ψ) >= 0, "Severed bridge (E8)"
+            ψ = ψ'
 
-    # optional: recursion gate
-    if use_recursion:
-        ψ, γ, valid = recursion_step(R, ψ)
-        assert valid, "Unlawful recursion (E14)"
+        # optional: recursion gate
+        if use_recursion:
+            ψ, γ, valid = recursion_step(R, ψ)
+            assert valid, "Unlawful recursion (E14)"
 
-    # boundary seals
-    ψ = apply_seal_boundary(ψ, σ)
+        # boundary seals
+        ψ = apply_seal_boundary(ψ, σ)
 
-    # diagnostics
-    Ht  = H(ψ); Ct = C(ψ)
-    inv = Ht + Ct + log(σ) + log(γ)
-    log(epoch, Ht, Ct, dim_c(ψ), γ, inv)
+        # diagnostics
+        Ht  = H(ψ); Ct = C(ψ)
+        inv = Ht + Ct + log(σ) + log(γ)
+        log(epoch, Ht, Ct, dim_c(ψ), γ, inv)
 
 ### 4.5 Outputs & Diagnostics
 
