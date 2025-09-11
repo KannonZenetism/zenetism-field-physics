@@ -275,6 +275,50 @@ Spec(H) ⊄ ℚ   ⇒   ι(H) = E7 and ∃ψ: ∥Bψ∥ < ∥ψ∥   (dissonant,
 
 ---
 
+### Formalization: Consonance Law (C7) as a Spectral Theorem
+
+**Setup**  
+Let 𝓗 be the Hilbert space of resonance signals with inner product weighted by field density.  
+
+Define operators:  
+- **T** = Temporal evolution (C1, generator of time translations)  
+- **P** = Propagation (C3, wave operator)  
+- **B** = Bridge operator (C8, mapping across structural junctions)  
+- **H** = Harmonic operator (C7), self-adjoint with discrete spectrum {λᵢ}  
+
+---
+
+**Law Statement (Symbolic)**  
+- If Spec(H) ⊂ ℚ (all eigenvalue ratios rational):  
+  - T and P commute on a resonant subspace.  
+  - B is lossless: ∥Bψ∥ = ∥ψ∥.  
+- If Spec(H) ⊄ ℚ (spectrum incommensurate):  
+  - Mirror inversion arises: ι(H) = E7 (Dissonance).  
+  - ∃ ψ such that ∥Bψ∥ < ∥ψ∥.  
+
+---
+
+**Proof Sketch (Draft)**  
+- Assume H has eigenbasis {ϕᵢ} with eigenvalues λᵢ.  
+- If λᵢ / λⱼ ∈ ℚ for all i,j:  
+  - Resonance is periodic: ∃ minimal τ such that e^{iHτ} = I.  
+  - Periodicity ensures synchronous alignment of T and P → [T, P] = 0.  
+  - Under commutativity, B acts isometrically across subspaces (lossless transmission).  
+- If λᵢ / λⱼ ∉ ℚ:  
+  - Spectrum is quasiperiodic → no global alignment.  
+  - Dissonance arises (E7), ∥Bψ∥ decays, mirror coupling dominates.  
+
+Q.E.D. (draft form).  
+
+---
+
+**Interpretation**  
+- **Centropic outcome:** C7 consonance enforces spectral rationality → coherence locked by periodicity.  
+- **Entropic outcome:** E7 dissonance expresses as irrational spectrum → no global consonance, decay inevitable.  
+- **Mathematical analogue:** Resonance version of Floquet theory (periodic operators) applied to metaphysical dynamics.  
+
+---
+
 ### Theorem (Nexus Law, C8 — Categorical Commutativity)
 
 **Statement**  
