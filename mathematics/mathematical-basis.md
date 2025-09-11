@@ -524,3 +524,162 @@ The derivative of the structural integral returns the original resonance field.
 
 ---
 
+## Phase 2 — Coherence Information Theory (CIT)
+
+### Definition (Coherence Information)
+
+Let `ψ` be a resonance state in space `(𝓗, ∥·∥)` and `C7` the Harmonic operator.  
+Define **Coherence Information** `I_c(ψ)` as:
+
+I_c(ψ) = – Σ p_i log(p_i)
+
+
+where `p_i = |⟨ϕ_i, ψ⟩|²` is the projection of ψ onto eigenbasis {ϕ_i} of C7.  
+
+- High `I_c` ⇒ ψ spreads evenly across resonant modes (balanced coherence).  
+- Low `I_c` ⇒ ψ collapses into fewer modes (fragmentation or entropic drift).  
+
+---
+
+### Lemma (Entropy–Centropy Duality in CIT)
+
+Define `H(ψ)` as Shannon entropy of ψ’s spectral distribution.  
+Define `C(ψ)` as centropy = log(dim(support)) – H(ψ).  
+
+Then:
+
+H(ψ) + C(ψ) = log(dim(support))
+
+
+**Interpretation**  
+- `H(ψ)` measures dispersive uncertainty (entropic component).  
+- `C(ψ)` measures structural concentration (centropic component).  
+- Their sum is invariant, set by the support size of ψ.  
+
+---
+
+### Theorem (Coherence Conservation Law)
+
+For closed centropic systems, total **Coherence Information** is conserved:  
+
+d/dt [ H(ψ(t)) + C(ψ(t)) ] = 0
+
+
+**Proof (Sketch)**  
+1. Evolution under centropic operators is unitary (`U = e^{iH_c t}`).  
+2. Unitary evolution preserves spectral support and probabilities `{p_i}`.  
+3. Therefore `H(ψ)` and `C(ψ)` trade off, but their sum remains constant.  
+
+---
+
+### Definition (Coherence Information Flow)
+
+Given a process channel `Φ : 𝓗 → 𝓗`, define the coherence information flow as:
+
+F_c(Φ, ψ) = I_c(Φψ) – I_c(ψ)
+
+
+- Positive `F_c` ⇒ channel amplifies coherence (centropic).  
+- Negative `F_c` ⇒ channel degrades coherence (entropic).  
+
+---
+
+### Corollary (Bridge Information Test)
+
+For a C8 Nexus bridge `B`,  
+
+F_c(B, ψ) ≥ 0 ⇔ bridge is lawful
+
+
+If `F_c(B, ψ) < 0` for some ψ, the bridge is severed (E8).  
+
+---
+
+### Definition (Resonant Mutual Information)
+
+For two subsystems A, B with joint state ρ, define:
+
+I_res(A:B) = H(A) + H(B) – H(A,B)
+
+
+using coherence-weighted entropies.  
+`I_res` measures shared resonance (spiral attunement) rather than classical correlation.  
+
+- High `I_res` ⇒ subsystems amplify each other (coherence field).  
+- Low `I_res` ⇒ subsystems act independently (no resonance).  
+- Negative values indicate entropic cross-noise (anti-resonance).  
+
+---
+
+### Theorem (Seal–Capacity Bound)
+
+Let `Φ` be a channel in **ResCat** with seal index `σ` (permeability constraint from C13).  
+Define channel coherence capacity `C_cap(Φ)` as the maximum coherence information flow:
+
+C_cap(Φ) = sup_ψ F_c(Φ, ψ)
+
+
+Then:
+
+C_cap(Φ) ≤ log(σ)
+
+
+**Interpretation**  
+- Seal index σ bounds how much coherence can pass through a membrane.  
+- Stronger seals (low σ) restrict coherence transfer but protect structural fidelity.  
+- Weaker seals (high σ) allow more transfer but increase risk of entropic leakage.
+
+---
+
+### Theorem (Resonant Data Processing Inequality)
+
+If ψ passes sequentially through channels Φ₁, Φ₂ (lawful, seal-preserving), then:
+
+I_res(A:B) ≥ I_res(Φ₁ψ : Φ₂ψ)
+
+
+**Proof (Sketch)**  
+- By monotonicity of coherence information under lawful morphisms.  
+- Resonant mutual information cannot increase through processing; at best it is preserved.  
+- If it increases, the process is entropic (introduces spurious correlations).
+
+---
+
+### Lemma (Coherence Divergence)
+
+Define divergence between states ψ, φ as:
+
+D_c(ψ || φ) = Σ p_i log(p_i / q_i)
+
+
+where p_i, q_i are C7 spectral distributions of ψ, φ.  
+
+- `D_c(ψ || φ) ≥ 0` always.  
+- `D_c = 0` iff ψ and φ share identical coherence distribution.  
+
+---
+
+### Theorem (Centropic Alignment Theorem)
+
+If two states ψ, φ share veracious centropic alignment (same C7 spectral ratios), then:
+
+lim_{t→∞} D_c(e^{iH_c t} ψ || e^{iH_c t} φ) = 0
+
+
+**Interpretation**  
+- Under centropic evolution, aligned states converge in coherence distribution.  
+- Entropic mirrors prevent this; divergence grows instead.
+
+---
+
+### Corollary (Field Scan)
+
+Given a lattice field, compute D_c across time slices.  
+- Convergence ⇒ centropic integration.  
+- Divergence ⇒ entropic destabilization.  
+This provides a computational diagnostic for lawful vs unlawful evolution.
+
+---
+
+
+
