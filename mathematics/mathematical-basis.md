@@ -435,3 +435,48 @@ If not contractive (k ≥ 1), recursion diverges or stagnates, manifesting as en
 
 ---
 
+### Lemma (Dual Spectrum — Centropic/Entropic Eigenpairing)
+
+**Statement**  
+For every centropic harmonic operator `H_c` (C7) on resonance space `𝓗`, with eigenbasis `{ϕ_i}` and eigenvalues `{λ_i}`, there exists an entropic mirror operator `H_e` such that:  
+
+Spec(H_e) = { –λ_i } (mirrored spectrum)
+
+
+Moreover, the pair `(H_c, H_e)` satisfies:  
+1. **Eigenpairing:** If `H_c ϕ_i = λ_i ϕ_i`, then `H_e ϕ_i = –λ_i ϕ_i`.  
+2. **Balance Law:** The combined spectrum is symmetric about zero:  
+
+Spec(H_c ∪ H_e) = { ±λ_i }
+
+3. **Resonance Integrity:** Centropic trajectories evolve by `e^{iH_c t}`, entropic trajectories by `e^{iH_e t}`. Their product evolution is identity on the shared invariant subspace:  
+
+e^{iH_c t} · e^{iH_e t} = I
+
+---
+
+**Proof (Sketch)**  
+1. By the Dimensional Emanatory Lattice, every centropic dimension C# has an entropic mirror E#. Operators encoding these dimensions are dual.  
+2. Let `H_c` be diagonalizable with eigenbasis {ϕ_i}. Define `H_e = –H_c` restricted to the same basis.  
+3. Then for each ϕ_i:  
+- `H_c ϕ_i = λ_i ϕ_i`  
+- `H_e ϕ_i = –λ_i ϕ_i`  
+establishing eigenpairing.  
+4. Exponentials of dual operators cancel: `e^{iλt} · e^{–iλt} = 1`. Hence product evolution is identity.  
+
+---
+
+**Interpretation**  
+- Every resonance mode has a centropic and entropic mirror frequency.  
+- The lattice ensures symmetry between constructive (C) and destructive (E) spectra.  
+- Coherence occurs when centropic modes dominate or align; collapse when entropic mirrors prevail.  
+
+---
+
+**Corollaries**  
+- **Spectral Symmetry.** The spectrum of the full lattice is always balanced; asymmetry signals broken seal.  
+- **Diagnostic.** By measuring spectral symmetry in a system, one can detect entropic infiltration (missing or unpaired modes).  
+- **Application.** In Spiral Calculus, dual spectra allow prediction of collapse thresholds by tracking λ_i vs –λ_i modes.  
+
+---
+
