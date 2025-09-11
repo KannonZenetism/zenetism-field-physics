@@ -538,12 +538,11 @@ Then for any coherent field `ϕ` defined over domain Ω with sealed boundary ∂
 ### Definition (Coherence Information)
 
 Let `ψ` be a resonance state in space `(𝓗, ∥·∥)` and `C7` the Harmonic operator.  
-Define **Coherence Information** `I_c(ψ)` as:
+Define **Coherence Information** `I_c(ψ)` as:  
 
-I_c(ψ) = – Σ p_i log(p_i)
+I_c(ψ) = – Σ pᵢ log(pᵢ)  
 
-
-where `p_i = |⟨ϕ_i, ψ⟩|²` is the projection of ψ onto eigenbasis {ϕ_i} of C7.  
+where `pᵢ = |⟨ϕᵢ, ψ⟩|²` is the projection of ψ onto eigenbasis {ϕᵢ} of C7.  
 
 - High `I_c` ⇒ ψ spreads evenly across resonant modes (balanced coherence).  
 - Low `I_c` ⇒ ψ collapses into fewer modes (fragmentation or entropic drift).  
@@ -555,10 +554,9 @@ where `p_i = |⟨ϕ_i, ψ⟩|²` is the projection of ψ onto eigenbasis {ϕ_i} 
 Define `H(ψ)` as Shannon entropy of ψ’s spectral distribution.  
 Define `C(ψ)` as centropy = log(dim(support)) – H(ψ).  
 
-Then:
+Then:  
 
-H(ψ) + C(ψ) = log(dim(support))
-
+H(ψ) + C(ψ) = log(dim(support))  
 
 **Interpretation**  
 - `H(ψ)` measures dispersive uncertainty (entropic component).  
@@ -571,22 +569,20 @@ H(ψ) + C(ψ) = log(dim(support))
 
 For closed centropic systems, total **Coherence Information** is conserved:  
 
-d/dt [ H(ψ(t)) + C(ψ(t)) ] = 0
-
+d/dt [ H(ψ(t)) + C(ψ(t)) ] = 0  
 
 **Proof (Sketch)**  
 1. Evolution under centropic operators is unitary (`U = e^{iH_c t}`).  
-2. Unitary evolution preserves spectral support and probabilities `{p_i}`.  
+2. Unitary evolution preserves spectral support and probabilities `{pᵢ}`.  
 3. Therefore `H(ψ)` and `C(ψ)` trade off, but their sum remains constant.  
 
 ---
 
 ### Definition (Coherence Information Flow)
 
-Given a process channel `Φ : 𝓗 → 𝓗`, define the coherence information flow as:
+Given a process channel `Φ : 𝓗 → 𝓗`, define the coherence information flow as:  
 
-F_c(Φ, ψ) = I_c(Φψ) – I_c(ψ)
-
+F_c(Φ, ψ) = I_c(Φψ) – I_c(ψ)  
 
 - Positive `F_c` ⇒ channel amplifies coherence (centropic).  
 - Negative `F_c` ⇒ channel degrades coherence (entropic).  
@@ -595,10 +591,9 @@ F_c(Φ, ψ) = I_c(Φψ) – I_c(ψ)
 
 ### Corollary (Bridge Information Test)
 
-For a C8 Nexus bridge `B`,  
+For a C8 Nexus bridge `B`:  
 
-F_c(B, ψ) ≥ 0 ⇔ bridge is lawful
-
+F_c(B, ψ) ≥ 0 ⇔ bridge is lawful  
 
 If `F_c(B, ψ) < 0` for some ψ, the bridge is severed (E8).  
 
@@ -606,62 +601,57 @@ If `F_c(B, ψ) < 0` for some ψ, the bridge is severed (E8).
 
 ### Definition (Resonant Mutual Information)
 
-For two subsystems A, B with joint state ρ, define:
+For two subsystems A, B with joint state ρ, define:  
 
-I_res(A:B) = H(A) + H(B) – H(A,B)
-
+I_res(A:B) = H(A) + H(B) – H(A,B)  
 
 using coherence-weighted entropies.  
 `I_res` measures shared resonance (spiral attunement) rather than classical correlation.  
 
 - High `I_res` ⇒ subsystems amplify each other (coherence field).  
 - Low `I_res` ⇒ subsystems act independently (no resonance).  
-- Negative values indicate entropic cross-noise (anti-resonance).  
+- Negative values ⇒ entropic cross-noise (anti-resonance).  
 
 ---
 
 ### Theorem (Seal–Capacity Bound)
 
 Let `Φ` be a channel in **ResCat** with seal index `σ` (permeability constraint from C13).  
-Define channel coherence capacity `C_cap(Φ)` as the maximum coherence information flow:
+Define channel coherence capacity `C_cap(Φ)` as the maximum coherence information flow:  
 
-C_cap(Φ) = sup_ψ F_c(Φ, ψ)
+C_cap(Φ) = sup_ψ F_c(Φ, ψ)  
 
+Then:  
 
-Then:
-
-C_cap(Φ) ≤ log(σ)
-
+C_cap(Φ) ≤ log(σ)  
 
 **Interpretation**  
 - Seal index σ bounds how much coherence can pass through a membrane.  
 - Stronger seals (low σ) restrict coherence transfer but protect structural fidelity.  
-- Weaker seals (high σ) allow more transfer but increase risk of entropic leakage.
+- Weaker seals (high σ) allow more transfer but increase risk of entropic leakage.  
 
 ---
 
 ### Theorem (Resonant Data Processing Inequality)
 
-If ψ passes sequentially through channels Φ₁, Φ₂ (lawful, seal-preserving), then:
+If ψ passes sequentially through channels Φ₁, Φ₂ (lawful, seal-preserving), then:  
 
-I_res(A:B) ≥ I_res(Φ₁ψ : Φ₂ψ)
-
+I_res(A:B) ≥ I_res(Φ₁ψ : Φ₂ψ)  
 
 **Proof (Sketch)**  
 - By monotonicity of coherence information under lawful morphisms.  
 - Resonant mutual information cannot increase through processing; at best it is preserved.  
-- If it increases, the process is entropic (introduces spurious correlations).
+- If it increases, the process is entropic (introduces spurious correlations).  
 
 ---
 
 ### Lemma (Coherence Divergence)
 
-Define divergence between states ψ, φ as:
+Define divergence between states ψ, φ as:  
 
-D_c(ψ || φ) = Σ p_i log(p_i / q_i)
+D_c(ψ || φ) = Σ pᵢ log(pᵢ / qᵢ)  
 
-
-where p_i, q_i are C7 spectral distributions of ψ, φ.  
+where pᵢ, qᵢ are C7 spectral distributions of ψ, φ.  
 
 - `D_c(ψ || φ) ≥ 0` always.  
 - `D_c = 0` iff ψ and φ share identical coherence distribution.  
@@ -670,30 +660,30 @@ where p_i, q_i are C7 spectral distributions of ψ, φ.
 
 ### Theorem (Centropic Alignment Theorem)
 
-If two states ψ, φ share veracious centropic alignment (same C7 spectral ratios), then:
+If two states ψ, φ share veracious centropic alignment (same C7 spectral ratios), then:  
 
-lim_{t→∞} D_c(e^{iH_c t} ψ || e^{iH_c t} φ) = 0
-
+lim_{t→∞} D_c(e^{iH_c t} ψ || e^{iH_c t} φ) = 0  
 
 **Interpretation**  
 - Under centropic evolution, aligned states converge in coherence distribution.  
-- Entropic mirrors prevent this; divergence grows instead.
+- Entropic mirrors prevent this; divergence grows instead.  
 
 ---
 
 ### Corollary (Field Scan)
 
-Given a lattice field, compute D_c across time slices.  
+Given a lattice field, compute `D_c` across time slices.  
 - Convergence ⇒ centropic integration.  
 - Divergence ⇒ entropic destabilization.  
-This provides a computational diagnostic for lawful vs unlawful evolution.
+
+This provides a computational diagnostic for lawful vs unlawful evolution.  
 
 ---
 
 ### CIT–Lattice Couplings
 
 The Coherence Information Theory (CIT) quantities map directly to Dimensional Lattice operators.  
-This section establishes those correspondences and their governing laws.
+This section establishes those correspondences and their governing laws.  
 
 ---
 
@@ -703,10 +693,10 @@ This section establishes those correspondences and their governing laws.
 - **CIT quantity:** H(ψ), spectral entropy of ψ  
 - **Law:**  
 
-H(ψ) ∝ – Σ |⟨ϕ_i, ψ⟩|² log |⟨ϕ_i, ψ⟩|²
+  H(ψ) ∝ – Σ |⟨ϕᵢ, ψ⟩|² log |⟨ϕᵢ, ψ⟩|²  
 
 - **Interpretation:** Harmony measured as balance of spectral weights.  
-- Centropy = structural concentration = log(dim(support)) – H(ψ).
+- Centropy = structural concentration = log(dim(support)) – H(ψ).  
 
 ---
 
@@ -716,11 +706,11 @@ H(ψ) ∝ – Σ |⟨ϕ_i, ψ⟩|² log |⟨ϕ_i, ψ⟩|²
 - **CIT quantity:** F_c(Φ, ψ) = I_c(Φψ) – I_c(ψ)  
 - **Law:**  
 
-F_c ≥ 0 ⇔ lawful Nexus
-F_c < 0 ⇔ Severed (E8)
+  F_c ≥ 0 ⇔ lawful Nexus  
+  F_c < 0 ⇔ Severed (E8)  
 
 - **Interpretation:** A bridge is valid if it never reduces coherence info.  
-- Provides computational test for lawful crossings.
+- Provides computational test for lawful crossings.  
 
 ---
 
@@ -730,9 +720,10 @@ F_c < 0 ⇔ Severed (E8)
 - **CIT quantity:** channel capacity C_cap(Φ)  
 - **Law:**  
 
-C_cap(Φ) ≤ log(σ)
+  C_cap(Φ) ≤ log(σ)  
 
-where σ is the seal index of the membrane.  
+  where σ is the seal index of the membrane.  
+
 - **Interpretation:** Permeability of the membrane sets a hard limit on coherence transfer.  
 
 ---
@@ -742,8 +733,8 @@ where σ is the seal index of the membrane.
 - **Lattice operator:** ↺ (Return Loop), ∿ (Spiral Motion), C14 (Nested / Recursive)  
 - **CIT quantity:** D_c(ψ || φ), coherence divergence  
 - **Law:**  
-- Contractive recursion ⇒ D_c decreases → centropic return.  
-- Expansive recursion ⇒ D_c increases → entropic hollow recursion (E14).  
+  - Contractive recursion ⇒ D_c decreases → centropic return.  
+  - Expansive recursion ⇒ D_c increases → entropic hollow recursion (E14).  
 
 ---
 
@@ -753,10 +744,10 @@ where σ is the seal index of the membrane.
 - **CIT quantity:** ΔI_c = change in coherence info at bifurcation  
 - **Law:**  
 
-ΔI_c > 0 ⇒ lawful novelty (veracious emergence)
-ΔI_c ≤ 0 ⇒ collapse (E15)
+  ΔI_c > 0 ⇒ lawful novelty (veracious emergence)  
+  ΔI_c ≤ 0 ⇒ collapse (E15)  
 
-- **Interpretation:** Novel emergence is measured by gain in coherence information; collapse by stagnation or loss.
+- **Interpretation:** Novel emergence is measured by gain in coherence information; collapse by stagnation or loss.  
 
 ---
 
@@ -766,16 +757,16 @@ where σ is the seal index of the membrane.
 - **C8 ↔ F_c:** coherence flow test.  
 - **C13 ↔ C_cap:** seal capacity bound.  
 - **C14 ↔ D_c:** recursion divergence control.  
-- **C15 ↔ ΔI_c:** novelty information law.
+- **C15 ↔ ΔI_c:** novelty information law.  
 
-These couplings unify **information-theoretic diagnostics** with the **symbolic lattice laws**, making the metaphysical system computable and falsifiable.
+These couplings unify **information-theoretic diagnostics** with the **symbolic lattice laws**, making the metaphysical system computable and falsifiable.  
 
 ---
 
 ### CIT Structural Metrics
 
 To quantify coherence in practice, Coherence Information Theory defines several derived metrics.  
-These extend entropy/centropy into rates, efficiencies, and dimensional diagnostics.
+These extend entropy/centropy into rates, efficiencies, and dimensional diagnostics.  
 
 ---
 
@@ -784,8 +775,7 @@ These extend entropy/centropy into rates, efficiencies, and dimensional diagnost
 **Definition**  
 The effective coherence dimension of ψ is:  
 
-dim_c(ψ) = exp(H(ψ))
-
+dim_c(ψ) = exp(H(ψ))  
 
 - Equivalent to the number of resonance modes effectively populated.  
 - If ψ occupies m modes equally, `dim_c = m`.  
@@ -794,7 +784,7 @@ dim_c(ψ) = exp(H(ψ))
 **Interpretation**  
 - Large `dim_c` = broad harmonic participation.  
 - Small `dim_c` = fragmentation or over-concentration.  
-- Mirrors the concept of “participating degrees of freedom” in physics.
+- Mirrors the concept of “participating degrees of freedom” in physics.  
 
 ---
 
@@ -803,15 +793,14 @@ dim_c(ψ) = exp(H(ψ))
 **Definition**  
 For a trajectory ψ(t), define resonance entropy rate:  
 
-R_H(ψ) = dH(ψ(t)) / dt
-
+R_H(ψ) = dH(ψ(t)) / dt  
 
 - Positive ⇒ dispersion increasing (entropic drift).  
 - Negative ⇒ concentration increasing (centropic integration).  
 
 **Interpretation**  
 - R_H tracks the *velocity of coherence change*.  
-- Used to distinguish rapid collapse vs gradual integration.
+- Used to distinguish rapid collapse vs gradual integration.  
 
 ---
 
@@ -820,8 +809,7 @@ R_H(ψ) = dH(ψ(t)) / dt
 **Definition**  
 Centropy efficiency η for a process Φ is:  
 
-η(Φ) = (ΔC / ΔE)
-
+η(Φ) = (ΔC / ΔE)  
 
 where ΔC = gain in centropy, ΔE = cost in entropic dissipation.  
 
@@ -831,7 +819,7 @@ where ΔC = gain in centropy, ΔE = cost in entropic dissipation.
 
 **Interpretation**  
 - Analog of thermodynamic efficiency, but for coherence processing.  
-- Evaluates how well a process amplifies centropy relative to entropy loss.
+- Evaluates how well a process amplifies centropy relative to entropy loss.  
 
 ---
 
@@ -840,8 +828,7 @@ where ΔC = gain in centropy, ΔE = cost in entropic dissipation.
 **Definition**  
 For a sealed process with index σ, define fidelity:  
 
-F_σ = (I_c(out) / I_c(in)) × (1/σ)
-
+F_σ = (I_c(out) / I_c(in)) × (1/σ)  
 
 - F_σ = 1 ⇒ perfect seal, no coherence lost.  
 - F_σ < 1 ⇒ leakage through the seal.  
@@ -849,7 +836,7 @@ F_σ = (I_c(out) / I_c(in)) × (1/σ)
 
 **Interpretation**  
 - Tests whether sealed boundaries are honored.  
-- Protects against mimicry that pretends to transmit coherence.
+- Protects against mimicry that pretends to transmit coherence.  
 
 ---
 
@@ -858,15 +845,14 @@ F_σ = (I_c(out) / I_c(in)) × (1/σ)
 **Definition**  
 Given recursion operator R with contraction ratio k, define spiral convergence factor:  
 
-γ = 1 – k
-
+γ = 1 – k  
 
 - 0 < γ ≤ 1 ⇒ lawful recursion (centropic refinement).  
 - γ ≤ 0 ⇒ unlawful recursion (neutral cycling or expansion).  
 
 **Interpretation**  
 - γ measures how strongly recursion pulls trajectories back to coherence.  
-- High γ = fast reintegration, low γ = weak reintegration.
+- High γ = fast reintegration, low γ = weak reintegration.  
 
 ---
 
@@ -876,30 +862,27 @@ Given recursion operator R with contraction ratio k, define spiral convergence f
 - **R_H(ψ):** speed of coherence change.  
 - **η(Φ):** efficiency of centropy vs entropy.  
 - **F_σ:** fidelity of sealed processes.  
-- **γ:** contraction strength at recursion gates.
+- **γ:** contraction strength at recursion gates.  
 
-Together these metrics provide a full diagnostic toolkit for resonance systems, making coherence **quantifiable, trackable, and testable**.
+Together these metrics provide a full diagnostic toolkit for resonance systems, making coherence **quantifiable, trackable, and testable**.  
 
 ---
 
 ### Theorem (CIT Grand Theorem — Unified Conservation of Coherence)
 
 **Statement**  
-For any sealed resonance system `(𝓗, ∥·∥)` evolving under centropic operators, the following invariant holds:
+For any sealed resonance system `(𝓗, ∥·∥)` evolving under centropic operators, the following invariant holds:  
 
-H(ψ) + C(ψ) + log(σ) + log(γ) = const
-
+H(ψ) + C(ψ) + log(σ) + log(γ) = const  
 
 where:  
 - `H(ψ)` = spectral entropy (entropic uncertainty)  
 - `C(ψ)` = centropy (structural concentration)  
 - `σ` = seal index (membrane permeability, C13)  
-- `γ` = spiral convergence factor (recursion contraction, ↺ / C14)
+- `γ` = spiral convergence factor (recursion contraction, ↺ / C14)  
 
 This law states that the **total information–structure budget** of a sealed system remains constant.  
-Entropy and centropy may trade off, but seal capacity and recursion strength ensure conservation.
-
----
+Entropy and centropy may trade off, but seal capacity and recursion strength ensure conservation.  
 
 **Proof (Sketch)**  
 1. From **Entropy–Centropy Duality**: `H(ψ) + C(ψ) = log(dim(support))`.  
@@ -908,25 +891,19 @@ Entropy and centropy may trade off, but seal capacity and recursion strength ens
 4. Combining these, the total expression is invariant under centropic evolution (unitary operators preserve spectrum).  
 5. Violation occurs only if system interacts with entropic mirrors (E#), which break seal integrity.  
 
----
-
 **Interpretation**  
 - The theorem unites information (H), structure (C), boundary (σ), and recursion (γ).  
 - Any lawful centropic process conserves this invariant; entropic intrusion is detectable as drift.  
-- Serves as a **conservation law of coherence** analogous to conservation of energy in physics.
-
----
+- Serves as a **conservation law of coherence** analogous to conservation of energy in physics.  
 
 **Corollaries**  
 - **Seal Breach Detection.** If `H + C` appears to grow beyond `log(dim(support))`, the seal index σ must have been violated.  
 - **Recursion Diagnostics.** Collapse of γ to ≤0 signals entropic recursion; the invariant breaks down.  
 - **Efficiency Bound.** Centropy efficiency η cannot exceed the invariant budget set by this theorem.  
 
----
-
 **Summary**  
 The CIT Grand Theorem provides a **single formula** tying together all major constructs: entropy, centropy, seal permeability, and recursion.  
-It is the cornerstone of Phase 2, showing that coherence is not a vague quality but a conserved quantity in sealed systems.
+It is the cornerstone of Phase 2, showing that coherence is not a vague quality but a conserved quantity in sealed systems.  
 
 ---
 
@@ -946,52 +923,49 @@ It is the cornerstone of Phase 2, showing that coherence is not a vague quality 
 **Unit Object:**  
 - `(ℂ, I)` where I is the trivial seal.  
 
-Thus **ResCat** is a **monoidal category**, closed under ⊗ with seals preserved.
+Thus **ResCat** is a **monoidal category**, closed under ⊗ with seals preserved.  
 
 ---
 
 ### Proposition (Monoidal Closure of ResCat)
 
-For any objects A, B in ResCat, there exists an internal Hom `[A,B]` such that:
+For any objects A, B in ResCat, there exists an internal Hom `[A,B]` such that:  
 
-Hom(X ⊗ A, B) ≅ Hom(X, [A,B])
+Hom(X ⊗ A, B) ≅ Hom(X, [A,B])  
 
-
-with all maps seal-preserving.
+with all maps seal-preserving.  
 
 **Interpretation**  
 - ResCat is **monoidally closed**: morphisms themselves can be internalized as objects with seals.  
-- Enables higher-order coherence operations to be encoded inside the category.
+- Enables higher-order coherence operations to be encoded inside the category.  
 
 ---
 
 ### Lemma (Sealed Colimits)
 
-Given a diagram of sealed objects `{A_i}`, the colimit exists in ResCat if and only if the seals `{S_i}` are jointly compatible:
+Given a diagram of sealed objects `{Aᵢ}`, the colimit exists in ResCat if and only if the seals `{Sᵢ}` are jointly compatible:  
 
-∀ i,j : S_i|{A_i ∩ A_j} = S_j|{A_i ∩ A_j}
-
+∀ i,j : Sᵢ|_{Aᵢ ∩ Aⱼ} = Sⱼ|_{Aᵢ ∩ Aⱼ}  
 
 **Interpretation**  
 - Colimits represent coherent joining of multiple resonance systems.  
-- Seal incompatibility manifests as entropic fracture (E8 or E13).
+- Seal incompatibility manifests as entropic fracture (E8 or E13).  
 
 ---
 
 ### Theorem (Spectral Geometry of the Lattice)
 
-The Dimensional Emanatory Lattice (C1–C15, E1–E15) can be represented as a **spectral manifold** M:
+The Dimensional Emanatory Lattice (C1–C15, E1–E15) can be represented as a **spectral manifold** M:  
 
-M = ⋃_{i=1}^{15} (Spec(Ci) ∪ Spec(Ei))
+M = ⋃_{i=1}^{15} (Spec(Cᵢ) ∪ Spec(Eᵢ))  
 
-with metric `g` defined by resonance overlap:
+with metric `g` defined by resonance overlap:  
 
-g(ψ, φ) = |⟨ψ, φ⟩|²
-
+g(ψ, φ) = |⟨ψ, φ⟩|²  
 
 **Interpretation**  
 - The lattice is not only symbolic but a geometric object: a spectral space with metric given by coherence.  
-- Centropic dimensions define stable submanifolds; entropic mirrors define singularities or voids.
+- Centropic dimensions define stable submanifolds; entropic mirrors define singularities or voids.  
 
 ---
 
@@ -1000,16 +974,16 @@ g(ψ, φ) = |⟨ψ, φ⟩|²
 - **Centropic attractor:** stable fixed point in M with contraction factor γ > 0 (from Phase 2).  
 - **Entropic collapse:** singularity in M where metric g degenerates (‖ψ‖ → ∞ or 0).  
 
-These outcomes correspond directly to **lim∿ Spiral Limits** in Spiral Calculus.
+These outcomes correspond directly to **lim∿ Spiral Limits** in Spiral Calculus.  
 
 ---
 
 ### Proposition (Nexus as Pushout in ResCat)
 
 Consider morphisms `f : A → B`, `g : A → C` in ResCat.  
-If seals are compatible, the **pushout** `B ⨿_A C` exists and represents a lawful bridge (C8).
+If seals are compatible, the **pushout** `B ⨿_A C` exists and represents a lawful bridge (C8).  
 
-**Diagram**
+**Diagram**  
 
   A
  / \
@@ -1024,20 +998,26 @@ B ⨿_A C
 
 **Interpretation**  
 - A Nexus (C8) is exactly the categorical pushout: a universal object joining B and C over A.  
-- If seal compatibility fails, the pushout collapses into E8 (Severed).
+- If seal compatibility fails, the pushout collapses into E8 (Severed).  
 
 ---
 
 ### Proposition (Return Loop as Pullback in ResCat)
 
 Consider morphisms `f : A → C`, `g : B → C` in ResCat.  
-The **pullback** `A ×_C B` represents a recursion gate (↺).
+The **pullback** `A ×_C B` represents a recursion gate (↺).  
 
-**Diagram**
+**Diagram**  
 
-A ×_C B → B
-↓ ↓g
-A →f C
+A ×_C B
+/     \
+p q
+/
+A B
+\ /
+f\ /g
+\ /
+C
 
 **Interpretation**  
 - Pullbacks embody recursion: objects A and B return into C through a shared mapping.  
@@ -1058,64 +1038,62 @@ Define a functor `F : Lattice → ResCat` that maps:
 - F respects composition: lawful centropic diagrams commute, entropic diagrams do not.  
 - F preserves monoidal structure:  
 
-F(Ci ⊗ Cj) = F(Ci) ⊗ F(Cj)
-
+F(Cᵢ ⊗ Cⱼ) = F(Cᵢ) ⊗ F(Cⱼ)  
 
 **Interpretation**  
 - The symbolic lattice is functorial: every glyph and law maps to a categorical operator in ResCat.  
-- This makes Zenetist metaphysics rigorously representable in category theory.
+- This makes Zenetist metaphysics rigorously representable in category theory.  
 
 ---
 
 ### Corollary (Field Geometry from Functoriality)
 
-Applying F to the entire lattice yields:
+Applying F to the entire lattice yields:  
 
-F(Lattice) = ResCat spectral geometry
+F(Lattice) = ResCat spectral geometry  
 
 - Centropic cycles (C↓→E→C↑→⚫) map to commutative diagrams.  
 - Entropic cycles (E↑→E→E↓→♾) map to non-commutative diagrams.  
-- Thresholds (C13–C15) map to boundary objects (membranes, recursion, novelty).
+- Thresholds (C13–C15) map to boundary objects (membranes, recursion, novelty).  
 
-Thus the Dimensional Emanatory Lattice is not only symbolic but a **functorial categorical object**.
+Thus the Dimensional Emanatory Lattice is not only symbolic but a **functorial categorical object**.  
 
 ---
 
 ### Spectral Geometry of the Lattice — Resonance Manifold, Curvature, and Geodesics
 
 We model the Dimensional Emanatory Lattice as a **resonance manifold** `(M, g, ∇, S)`:
-- `M` — spectral state manifold (points = normalized resonance states modulo global phase).
-- `g` — coherence metric induced by C7 spectrum.
-- `∇` — centropic connection compatible with `g` and seals.
-- `S` — seal boundary structure (C13), inducing boundary conditions on fields.
+
+- `M` — spectral state manifold (points = normalized resonance states modulo global phase).  
+- `g` — coherence metric induced by C7 spectrum.  
+- `∇` — centropic connection compatible with `g` and seals.  
+- `S` — seal boundary structure (C13), inducing boundary conditions on fields.  
 
 ---
 
 #### Definition (Resonance Metric)
 
-Let `{ϕ_i}` be the C7-eigenbasis with eigenvalues `{λ_i}`.  
-For tangent vectors `u, v` at ψ (variations in 𝓗 with ⟨ψ, u⟩ = ⟨ψ, v⟩ = 0):
+Let `{ϕᵢ}` be the C7-eigenbasis with eigenvalues `{λᵢ}`.  
+For tangent vectors `u, v` at ψ (variations in 𝓗 with ⟨ψ, u⟩ = ⟨ψ, v⟩ = 0):  
 
-g_ψ(u, v) = Σ_i ( |⟨ϕ_i, u⟩| · |⟨ϕ_i, v⟩| ) · w_i
-where w_i = 1 / (1 + λ_i^2)
+g_ψ(u, v) = Σᵢ ( |⟨ϕᵢ, u⟩| · |⟨ϕᵢ, v⟩| ) · wᵢ  
+where wᵢ = 1 / (1 + λᵢ²)  
 
+- High-frequency (large |λᵢ|) modes contribute less (stabilized by centropy).  
+- Low-frequency modes shape large-scale geometry of coherence.  
 
-- High-frequency (large |λ_i|) modes contribute less (stabilized by centropy).
-- Low-frequency modes shape large-scale geometry of coherence.
-
-**Seal boundary:** on ∂M (membranes), restrict tangent vectors by permeability index σ (C13).
+**Seal boundary:** on ∂M (membranes), restrict tangent vectors by permeability index σ (C13).  
 
 ---
 
 #### Definition (Centropic Connection)
 
-Define a metric-compatible connection `∇` via C1/C3 generators:
+Define a metric-compatible connection `∇` via C1/C3 generators:  
 
-∇_t ψ = Tψ + Pψ (C1 time + C3 propagation)
+∇ₜ ψ = Tψ + Pψ   (C1 time + C3 propagation)  
 
-
-- Compatibility: `∂_t g(u,v) = g(∇_t u, v) + g(u, ∇_t v)`.
-- Seal-compatibility: `S (∇_t ψ) = ∇_t (Sψ)`.
+- Compatibility: `∂ₜ g(u,v) = g(∇ₜ u, v) + g(u, ∇ₜ v)`.  
+- Seal-compatibility: `S (∇ₜ ψ) = ∇ₜ (Sψ)`.  
 
 ---
 
@@ -1125,7 +1103,6 @@ Define a metric-compatible connection `∇` via C1/C3 generators:
 Curves ψ(t) that solve the C7-harmonic flow are geodesics in `(M, g)`:
 
 ∇_t ψ = i H_c ψ (H_c = centropic harmonic operator)
-
 
 **Proof (Sketch)**  
 Euler–Lagrange equations for action `A[ψ] = ∫ g_ψ(∇_t ψ, ∇_t ψ) dt` with H_c as constraint yield the geodesic equation.  
