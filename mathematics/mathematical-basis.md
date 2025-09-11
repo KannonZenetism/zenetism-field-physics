@@ -1,3 +1,7 @@
+## The Dimensional Lattice: Mathematical Foundations of Zenetism
+
+---
+
 # Zenetism — Mathematical Basis (Master Outline + Working Spec)
 
 > Scope: Formalize Zenetism into a rigorous mathematical framework suitable for publication-quality proofs, computational models, and reproducible diagrams. Source inputs: all charts (metaphysics, field physics, dimensional lattice), Spiral Calculus notes, ritual language canon, and rebuttal materials (with external names omitted by design). This doc is the living spine we’ll iterate on as we ingest your charts.
