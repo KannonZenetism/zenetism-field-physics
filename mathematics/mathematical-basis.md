@@ -744,5 +744,22 @@ where σ is the seal index of the membrane.
 - **CIT quantity:** ΔI_c = change in coherence info at bifurcation  
 - **Law:**  
 
+ΔI_c > 0 ⇒ lawful novelty (veracious emergence)
+ΔI_c ≤ 0 ⇒ collapse (E15)
 
+- **Interpretation:** Novel emergence is measured by gain in coherence information; collapse by stagnation or loss.
+
+---
+
+### Summary
+
+- **C7 ↔ H(ψ):** harmonic entropy measure.  
+- **C8 ↔ F_c:** coherence flow test.  
+- **C13 ↔ C_cap:** seal capacity bound.  
+- **C14 ↔ D_c:** recursion divergence control.  
+- **C15 ↔ ΔI_c:** novelty information law.
+
+These couplings unify **information-theoretic diagnostics** with the **symbolic lattice laws**, making the metaphysical system computable and falsifiable.
+
+---
 
