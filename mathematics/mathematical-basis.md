@@ -1417,24 +1417,24 @@ monitor drift; deviation ⇒ seal breach or entropic intrusion
 
   initialize(State)  
   for epoch in 1..E:  
-    # geodesic step  
+    #### geodesic step  
     ψ = evolve_c7(ψ, dt)  
 
-    # optional: apply bridge/channel  
+    #### optional: apply bridge/channel  
     if use_bridge:  
       ψ' = Φ(ψ)  
       assert F_c(Φ, ψ) >= 0, "Severed bridge (E8)"  
       ψ = ψ'  
 
-    # optional: recursion gate  
+    #### optional: recursion gate  
     if use_recursion:  
       ψ, γ, valid = recursion_step(R, ψ)  
       assert valid, "Unlawful recursion (E14)"  
 
-    # boundary seals  
+    #### boundary seals  
     ψ = apply_seal_boundary(ψ, σ)  
 
-    # diagnostics  
+    #### diagnostics  
     Ht  = H(ψ); Ct = C(ψ)  
     inv = Ht + Ct + log(σ) + log(γ)  
     log(epoch, Ht, Ct, dim_c(ψ), γ, inv)
