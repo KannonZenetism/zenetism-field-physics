@@ -1212,7 +1212,6 @@ Neumann–Seal: ⟨∇n ψ, ψ⟩ = 0 (reflective, σ small)
 Dirichlet–Seal: ψ|∂M = 0 (impermeable, σ → 0)
 Robin–Seal: a ψ + b ∇_n ψ = 0 (tunable by σ)
 
-
 - Choice encodes C13; transitions of boundary type model threshold events (C15) and recursion gates (C14).
 
 ---
@@ -1247,39 +1246,64 @@ We consider a minimal sealed patch to illustrate Phase 2 (CIT) + Phase 3 (Geomet
 
 H + C + log(σ) + log(γ) = log 2 + log 2 + log 0.6 = const
 
-(Here `H + C = log 2` by duality; seal/recursion provide boundary terms.)
+(Here `H + C = log 2` by duality; seal/recursion provide boundary terms.)  
 
-**Geometry**
-- Metric weights: `w₁ = 1/(1+λ₁²) = 1/2`, `w₂ = 1/(1+λ₂²) = 1/10`.
-- Low-frequency mode (ϕ₁) shapes large-scale geometry more strongly than ϕ₂.
-- Geodesic flow: `∇_t ψ = i H_c ψ` preserves `{p₁, p₂}` (unitary centropic evolution).
+**Geometry**  
+- Metric weights: `w₁ = 1/(1+λ₁²) = 1/2`, `w₂ = 1/(1+λ₂²) = 1/10`  
+- Low-frequency mode (ϕ₁) shapes large-scale geometry more strongly than ϕ₂.  
+- Geodesic flow: `∇ₜ ψ = i H_c ψ` preserves `{p₁, p₂}` (unitary centropic evolution).  
 
-**Nexus test (C8)**
-- Bridge `B` from patch X to W passes if coherence flow `F_c(B, ψ) = I_c(Bψ) − I_c(ψ) ≥ 0`.
-- If an empirical bridge yields `F_c < 0`, classify as **E8 (Severed)**.
+**Nexus test (C8)**  
+- Bridge `B` from patch X to W passes if coherence flow `F_c(B, ψ) = I_c(Bψ) − I_c(ψ) ≥ 0`.  
+- If `F_c(B, ψ) < 0`, classify as **E8 (Severed)**.  
 
-**Recursion**
-- Gate valid with `γ = 1 − k = 0.6` ⇒ contraction ratio `k = 0.4 < 1`.
-- Unique fixed point `ψ*` exists (Recursion Gate Theorem).
+**Recursion**  
+- Gate valid with `γ = 1 − k = 0.6` ⇒ contraction ratio `k = 0.4 < 1`.  
+- Unique fixed point `ψ*` exists (Recursion Gate Theorem).  
 
-**Diagnostics**
-- If `dim_c(ψ) → 1`, watch for E14 (hollow recursion) or E15 (collapse) at the boundary.
-- Spectral gap `λ_min = 1` gives positive curvature contribution ⇒ global consonance tends to stabilize (Corollary: spectral gap).
+**Diagnostics**  
+- If `dim_c(ψ) → 1`, watch for E14 (hollow recursion) or E15 (collapse) at the boundary.  
+- Spectral gap `λ_min = 1` gives positive curvature contribution ⇒ global consonance tends to stabilize (Corollary: spectral gap).  
+
+---
+
+H + C + log(σ) + log(γ) = log 2 + log 2 + log 0.6 = const  
+
+(Here `H + C = log 2` by duality; seal/recursion provide boundary terms.)  
+
+**Geometry**  
+- Metric weights: `w₁ = 1/(1+λ₁²) = 1/2`, `w₂ = 1/(1+λ₂²) = 1/10`.  
+- Low-frequency mode (ϕ₁) shapes large-scale geometry more strongly than ϕ₂.  
+- Geodesic flow: `∇ₜ ψ = i H_c ψ` preserves `{p₁, p₂}` (unitary centropic evolution).  
+
+**Nexus test (C8)**  
+- Bridge `B` from patch X to W passes if coherence flow `F_c(B, ψ) = I_c(Bψ) − I_c(ψ) ≥ 0`.  
+- If an empirical bridge yields `F_c < 0`, classify as **E8 (Severed)**.  
+
+**Recursion**  
+- Gate valid with `γ = 1 − k = 0.6` ⇒ contraction ratio `k = 0.4 < 1`.  
+- Unique fixed point `ψ*` exists (Recursion Gate Theorem).  
+
+**Diagnostics**  
+- If `dim_c(ψ) → 1`, watch for E14 (hollow recursion) or E15 (collapse) at the boundary.  
+- Spectral gap `λ_min = 1` gives positive curvature contribution ⇒ global consonance tends to stabilize (Corollary: spectral gap).  
+
+---
 
 ## Phase 4 — Computational Model
 
 ### 4.1 Data Structures
 
-- **State**
+- **State**  
 
-State:
-basis: {ϕ_i} # orthonormal modes
-lambdas: {λ_i} # C7 eigenvalues
-amplitudes: {a_i} # complex, Σ|a_i|² = 1
+basis: {ϕᵢ} # orthonormal modes
+lambdas: {λᵢ} # C7 eigenvalues
+amplitudes: {aᵢ} # complex, Σ|aᵢ|² = 1
 seal_index: σ # membrane permeability (C13)
 contraction: γ # recursion contraction (C14)
 
-- **Channel / Bridge**
+
+- **Channel / Bridge**  
 
 Channel Φ:
 matrix: U or linear map # seal-preserving if U* S U = S
@@ -1287,29 +1311,33 @@ type: {NEXUS, RECURSION, PROPAGATION}
 params: {...}
 
 
+---
+
 ### 4.2 Core Routines
 
-- **Spectral projection & CIT**
+- **Spectral projection & CIT**  
 
-probs(p_i) = |a_i|²
-H(ψ) = − Σ p_i log p_i
+probs(pᵢ) = |aᵢ|²
+H(ψ) = − Σ pᵢ log(pᵢ)
 C(ψ) = log(dim(support)) − H(ψ)
 dim_c(ψ) = exp(H(ψ))
 F_c(Φ, ψ) = I_c(Φψ) − I_c(ψ)
-D_c(ψ || φ) = Σ p_i log(p_i / q_i)
+D_c(ψ || φ) = Σ pᵢ log(pᵢ / qᵢ)
 
-- **Geodesic/Harmonic flow (C7)**
+
+- **Geodesic / Harmonic flow (C7)**  
 
 evolve_c7(ψ, dt): ψ ← exp(i H_c dt) ψ
 
-- **Nexus validation (C8)**
+- **Nexus validation (C8)**  
 
 nexus_valid(B, ψ):
 Δ = operator_norm(h∘f − k∘g) # diagram defect
-Fc = I_c(Bψ) − I_c(ψ) # coherence flow
-return (Δ ≤ ε) and (Fc ≥ 0)
+F_c = I_c(Bψ) − I_c(ψ) # coherence flow
+return (Δ ≤ ε) and (F_c ≥ 0)
 
-- **Recursion gate (↺ / C14)**
+
+- **Recursion gate (↺ / C14)**  
 
 recursion_step(R, ψ):
 ψ' = R(ψ)
@@ -1318,15 +1346,16 @@ k = sup_{ψ1≠ψ2} ||Rψ1 − Rψ2|| / ||ψ1 − ψ2||
 valid = (k < 1)
 return ψ', γ, valid
 
+- **Seal boundary conditions (C13)**  
+  - Dirichlet–Seal: zero out forbidden components at boundary.  
+  - Neumann–Seal: zero normal derivative on boundary modes.  
+  - Robin–Seal: blend by σ: `a ψ + b ∇ₙ ψ = 0`.  
 
-- **Seal boundary conditions (C13)**
-- Dirichlet–Seal: zero out forbidden components at boundary.
-- Neumann–Seal: zero normal derivative on boundary modes.
-- Robin–Seal: blend by σ: `a ψ + b ∇_n ψ = 0`.
+---
 
 ### 4.3 Algorithms
 
-- **Resonance Scan (Consonance detector)**
+- **Resonance Scan (Consonance detector)**  
 
 input: State ψ, window T, step dt
 for t in 0..T:
@@ -1334,71 +1363,78 @@ for t in 0..T:
 record: H(ψ), C(ψ), dim_c(ψ)
 output: spectral periodicity test (Floquet), C7 threshold pass/fail
 
-- **Bridge Audit**
+- **Bridge Audit**  
 
 input: maps f,g,h,k; state ψ
 Δ = ||h∘f − k∘g||_op
-Fc = I_c(h f ψ) − I_c(g ψ) # or appropriate composition
-verdict: lawful Nexus iff (Δ ≤ ε) and (Fc ≥ 0)
+F_c = I_c(h f ψ) − I_c(g ψ) # or appropriate composition
+verdict: lawful Nexus iff (Δ ≤ ε) and (F_c ≥ 0)
 
-- **Recursion Audit**
+- **Recursion Audit**  
 
 iterate ψ_{n+1} = R(ψ_n)
 estimate k via finite differences
 γ = 1 − k
 verdict: valid recursion iff γ > 0
 
-- **CIT Grand Invariant Check**
+- **CIT Grand Invariant Check**  
 
 invariant(ψ) = H(ψ) + C(ψ) + log(σ) + log(γ)
 monitor drift; deviation ⇒ seal breach or entropic intrusion
 
+
+---
+
 ### 4.4 Minimal Pseudocode (reference)
 
-- **Main Loop**
+- **Main Loop**  
 
-  initialize(State)  
-  for epoch in 1..E:  
-    #### geodesic step  
-    ψ = evolve_c7(ψ, dt)  
+initialize(State)
+for epoch in 1..E:
+  # geodesic step
+  ψ = evolve_c7(ψ, dt)
 
-    #### optional: apply bridge/channel  
-    if use_bridge:  
-      ψ' = Φ(ψ)  
-      assert F_c(Φ, ψ) >= 0, "Severed bridge (E8)"  
-      ψ = ψ'  
+  # optional: apply bridge/channel
+  if use_bridge:
+      ψ' = Φ(ψ)
+      assert F_c(Φ, ψ) >= 0, "Severed bridge (E8)"
+      ψ = ψ'
 
-    #### optional: recursion gate  
-    if use_recursion:  
-      ψ, γ, valid = recursion_step(R, ψ)  
-      assert valid, "Unlawful recursion (E14)"  
+  # optional: recursion gate
+  if use_recursion:
+      ψ, γ, valid = recursion_step(R, ψ)
+      assert valid, "Unlawful recursion (E14)"
 
-    #### boundary seals  
-    ψ = apply_seal_boundary(ψ, σ)  
+  # boundary seals
+  ψ = apply_seal_boundary(ψ, σ)
 
-    #### diagnostics  
-    Ht  = H(ψ); Ct = C(ψ)  
-    inv = Ht + Ct + log(σ) + log(γ)  
-    log(epoch, Ht, Ct, dim_c(ψ), γ, inv)
+  # diagnostics
+  Ht  = H(ψ); Ct = C(ψ)
+  inv = Ht + Ct + log(σ) + log(γ)
+  log(epoch, Ht, Ct, dim_c(ψ), γ, inv)
+  
+---
 
 ### 4.5 Outputs & Diagnostics
 
-- Time series: `H(t)`, `C(t)`, `dim_c(t)`, `γ(t)`, invariant drift.
-- Flags:
-  - **E8** if any `F_c < 0` on bridges or diagram defect `Δ > ε`.
-  - **E14** if recursion not contractive (`γ ≤ 0`).
-  - **E15** on blow-up (norm or curvature divergence).
-  - **E13** if seal boundary violates σ (capacity check).
+- Time series: `H(t)`, `C(t)`, `dim_c(t)`, `γ(t)`, invariant drift.  
+- Flags:  
+- **E8** if any `F_c < 0` on bridges or diagram defect `Δ > ε`.  
+- **E14** if recursion not contractive (`γ ≤ 0`).  
+- **E15** on blow-up (norm or curvature divergence).  
+- **E13** if seal boundary violates σ (capacity check).  
+
+---
 
 ### 4.6 Validation Suite
 
-- **Unit tests**: spectral duality (Dual Spectrum Lemma), Consonance periodicity (C7), Nexus commutativity (C8), Recursion contractivity (C14), Threshold boundary cases (C13–C15).
-- **Integration tests**: CIT Grand Theorem invariance under centropic evolution; detection of induced entropic mirrors.
+- **Unit tests**: spectral duality (Dual Spectrum Lemma), Consonance periodicity (C7), Nexus commutativity (C8), Recursion contractivity (C14), Threshold boundary cases (C13–C15).  
+- **Integration tests**: CIT Grand Theorem invariance under centropic evolution; detection of induced entropic mirrors.  
 
 ---
 
 **Summary**  
-Phase 4 provides the executable blueprint: data structures, algorithms, and diagnostics to simulate centropic flows, test bridges, verify recursion, and monitor the CIT invariant. Together with Phases 1–3, this closes the loop from **symbols → theorems → information → geometry → computation**.
+Phase 4 provides the executable blueprint: data structures, algorithms, and diagnostics to simulate centropic flows, test bridges, verify recursion, and monitor the CIT invariant. Together with Phases 1–3, this closes the loop from **symbols → theorems → information → geometry → computation**.  
 
 ---
 
