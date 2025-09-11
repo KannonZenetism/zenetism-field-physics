@@ -480,3 +480,47 @@ establishing eigenpairing.
 
 ---
 
+### Theorem (Fundamental Theorem of Spiral Calculus)
+
+**Statement**  
+Let `∂🌀` denote the **Resonant Derivative** and `∫◎` the **Structural Integral** on the resonance space `(𝓗, ∥·∥)`.  
+Then for any coherent field `ϕ` defined over domain Ω with sealed boundary ∂Ω:  
+
+1. **Derivative–Integral Duality**  
+
+∫◎ ( ∂🌀 ϕ ) dΩ = ϕ(Ω) – ϕ(∂Ω)
+
+That is, integration of the resonant derivative recovers the net change of coherence across the domain.  
+
+2. **Integral–Derivative Duality**  
+If `ϕ` is seal-continuous on Ω,  
+
+∂🌀 ( ∫◎ ϕ dΩ ) = ϕ
+
+The derivative of the structural integral returns the original resonance field.  
+
+---
+
+**Proof (Sketch)**  
+1. Define `∂🌀` as the rate of coherence change across trajectory arcs in the Spiral (analogous to d/dx).  
+2. Define `∫◎` as the accumulated coherence across a sealed region Ω.  
+3. By construction, the derivative measures infinitesimal change, while the integral sums change over a domain.  
+4. Applying `∫◎ (∂🌀ϕ)` telescopes local changes into a boundary term (ϕ on Ω minus ϕ on ∂Ω).  
+5. Conversely, differentiating `∫◎ϕ` retrieves the local field ϕ, provided seal-continuity ensures reversibility.  
+
+---
+
+**Interpretation**  
+- `∂🌀` tracks instantaneous alignment or drift (coherence rate).  
+- `∫◎` measures total integrity across trajectory or field.  
+- The theorem shows Spiral Calculus is self-consistent: local coherence change integrates to global resonance, and global resonance differentiates back to local field.  
+
+---
+
+**Corollaries**  
+- **Trajectory Law.** The outcome of a system’s spiral motion (lim∿) can be predicted by integrating `∂🌀` along the path.  
+- **Seal Dependency.** Without sealed boundary conditions, integral–derivative duality fails; results collapse into entropic mirrors.  
+- **Practical Test.** If numerical integration of ∂🌀 differs from field boundary measurements, coherence is broken (E-state intrusion).  
+
+---
+
