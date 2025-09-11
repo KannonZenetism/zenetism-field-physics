@@ -763,3 +763,158 @@ These couplings unify **information-theoretic diagnostics** with the **symbolic 
 
 ---
 
+### CIT Structural Metrics
+
+To quantify coherence in practice, Coherence Information Theory defines several derived metrics.  
+These extend entropy/centropy into rates, efficiencies, and dimensional diagnostics.
+
+---
+
+#### Metric 1: Coherence Dimension
+
+**Definition**  
+The effective coherence dimension of ψ is:  
+
+dim_c(ψ) = exp(H(ψ))
+
+
+- Equivalent to the number of resonance modes effectively populated.  
+- If ψ occupies m modes equally, `dim_c = m`.  
+- If ψ collapses into one mode, `dim_c = 1`.  
+
+**Interpretation**  
+- Large `dim_c` = broad harmonic participation.  
+- Small `dim_c` = fragmentation or over-concentration.  
+- Mirrors the concept of “participating degrees of freedom” in physics.
+
+---
+
+#### Metric 2: Resonance Entropy Rate
+
+**Definition**  
+For a trajectory ψ(t), define resonance entropy rate:  
+
+R_H(ψ) = dH(ψ(t)) / dt
+
+
+- Positive ⇒ dispersion increasing (entropic drift).  
+- Negative ⇒ concentration increasing (centropic integration).  
+
+**Interpretation**  
+- R_H tracks the *velocity of coherence change*.  
+- Used to distinguish rapid collapse vs gradual integration.
+
+---
+
+#### Metric 3: Centropy Efficiency
+
+**Definition**  
+Centropy efficiency η for a process Φ is:  
+
+η(Φ) = (ΔC / ΔE)
+
+
+where ΔC = gain in centropy, ΔE = cost in entropic dissipation.  
+
+- η > 1 ⇒ centropic dominant.  
+- η < 1 ⇒ entropic dominant.  
+- η = ∞ ⇒ perfectly coherent (no entropic leakage).  
+
+**Interpretation**  
+- Analog of thermodynamic efficiency, but for coherence processing.  
+- Evaluates how well a process amplifies centropy relative to entropy loss.
+
+---
+
+#### Metric 4: Seal Fidelity Index
+
+**Definition**  
+For a sealed process with index σ, define fidelity:  
+
+F_σ = (I_c(out) / I_c(in)) × (1/σ)
+
+
+- F_σ = 1 ⇒ perfect seal, no coherence lost.  
+- F_σ < 1 ⇒ leakage through the seal.  
+- F_σ > 1 ⇒ illicit amplification (indicative of entropic inversion).  
+
+**Interpretation**  
+- Tests whether sealed boundaries are honored.  
+- Protects against mimicry that pretends to transmit coherence.
+
+---
+
+#### Metric 5: Spiral Convergence Factor
+
+**Definition**  
+Given recursion operator R with contraction ratio k, define spiral convergence factor:  
+
+γ = 1 – k
+
+
+- 0 < γ ≤ 1 ⇒ lawful recursion (centropic refinement).  
+- γ ≤ 0 ⇒ unlawful recursion (neutral cycling or expansion).  
+
+**Interpretation**  
+- γ measures how strongly recursion pulls trajectories back to coherence.  
+- High γ = fast reintegration, low γ = weak reintegration.
+
+---
+
+### Summary
+
+- **dim_c(ψ):** number of effective modes in use.  
+- **R_H(ψ):** speed of coherence change.  
+- **η(Φ):** efficiency of centropy vs entropy.  
+- **F_σ:** fidelity of sealed processes.  
+- **γ:** contraction strength at recursion gates.
+
+Together these metrics provide a full diagnostic toolkit for resonance systems, making coherence **quantifiable, trackable, and testable**.
+
+---
+
+### Theorem (CIT Grand Theorem — Unified Conservation of Coherence)
+
+**Statement**  
+For any sealed resonance system `(𝓗, ∥·∥)` evolving under centropic operators, the following invariant holds:
+
+H(ψ) + C(ψ) + log(σ) + log(γ) = const
+
+
+where:  
+- `H(ψ)` = spectral entropy (entropic uncertainty)  
+- `C(ψ)` = centropy (structural concentration)  
+- `σ` = seal index (membrane permeability, C13)  
+- `γ` = spiral convergence factor (recursion contraction, ↺ / C14)
+
+This law states that the **total information–structure budget** of a sealed system remains constant.  
+Entropy and centropy may trade off, but seal capacity and recursion strength ensure conservation.
+
+---
+
+**Proof (Sketch)**  
+1. From **Entropy–Centropy Duality**: `H(ψ) + C(ψ) = log(dim(support))`.  
+2. From **Seal–Capacity Bound**: `C_cap ≤ log(σ)` sets a boundary term.  
+3. From **Recursion Gate Theorem**: contraction ratio γ ensures convergence; `log(γ)` enters as recursion potential.  
+4. Combining these, the total expression is invariant under centropic evolution (unitary operators preserve spectrum).  
+5. Violation occurs only if system interacts with entropic mirrors (E#), which break seal integrity.  
+
+---
+
+**Interpretation**  
+- The theorem unites information (H), structure (C), boundary (σ), and recursion (γ).  
+- Any lawful centropic process conserves this invariant; entropic intrusion is detectable as drift.  
+- Serves as a **conservation law of coherence** analogous to conservation of energy in physics.
+
+---
+
+**Corollaries**  
+- **Seal Breach Detection.** If `H + C` appears to grow beyond `log(dim(support))`, the seal index σ must have been violated.  
+- **Recursion Diagnostics.** Collapse of γ to ≤0 signals entropic recursion; the invariant breaks down.  
+- **Efficiency Bound.** Centropy efficiency η cannot exceed the invariant budget set by this theorem.  
+
+---
+
+**Summary**  
+The CIT Grand Theorem provides a **single formula** tying together all major constructs: entropy, centropy, seal permeability, and recursion.  
+It is the cornerstone of Phase 2, showing that coherence is not a vague quality but a conserved quantity in sealed systems.
