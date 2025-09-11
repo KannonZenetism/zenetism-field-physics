@@ -918,3 +918,80 @@ Entropy and centropy may trade off, but seal capacity and recursion strength ens
 **Summary**  
 The CIT Grand Theorem provides a **single formula** tying together all major constructs: entropy, centropy, seal permeability, and recursion.  
 It is the cornerstone of Phase 2, showing that coherence is not a vague quality but a conserved quantity in sealed systems.
+
+---
+
+## Phase 3 — Advanced Geometry & Category Theory
+
+### Definition (Resonant Category, ResCat)
+
+**Objects:**  
+- Sealed resonance systems `(𝓗, S)` where 𝓗 is a Hilbert space and S is a centropic seal operator (`Sψ = ψ`).  
+
+**Morphisms:**  
+- Seal-preserving linear maps `f : (𝓗₁,S₁) → (𝓗₂,S₂)` such that `S₂ f = f S₁`.  
+
+**Tensor Product:**  
+- `(𝓗₁,S₁) ⊗ (𝓗₂,S₂)` with joint seal `S = S₁ ⊗ S₂`.  
+
+**Unit Object:**  
+- `(ℂ, I)` where I is the trivial seal.  
+
+Thus **ResCat** is a **monoidal category**, closed under ⊗ with seals preserved.
+
+---
+
+### Proposition (Monoidal Closure of ResCat)
+
+For any objects A, B in ResCat, there exists an internal Hom `[A,B]` such that:
+
+Hom(X ⊗ A, B) ≅ Hom(X, [A,B])
+
+
+with all maps seal-preserving.
+
+**Interpretation**  
+- ResCat is **monoidally closed**: morphisms themselves can be internalized as objects with seals.  
+- Enables higher-order coherence operations to be encoded inside the category.
+
+---
+
+### Lemma (Sealed Colimits)
+
+Given a diagram of sealed objects `{A_i}`, the colimit exists in ResCat if and only if the seals `{S_i}` are jointly compatible:
+
+∀ i,j : S_i|{A_i ∩ A_j} = S_j|{A_i ∩ A_j}
+
+
+**Interpretation**  
+- Colimits represent coherent joining of multiple resonance systems.  
+- Seal incompatibility manifests as entropic fracture (E8 or E13).
+
+---
+
+### Theorem (Spectral Geometry of the Lattice)
+
+The Dimensional Emanatory Lattice (C1–C15, E1–E15) can be represented as a **spectral manifold** M:
+
+M = ⋃_{i=1}^{15} (Spec(Ci) ∪ Spec(Ei))
+
+with metric `g` defined by resonance overlap:
+
+g(ψ, φ) = |⟨ψ, φ⟩|²
+
+
+**Interpretation**  
+- The lattice is not only symbolic but a geometric object: a spectral space with metric given by coherence.  
+- Centropic dimensions define stable submanifolds; entropic mirrors define singularities or voids.
+
+---
+
+### Corollary (Centropic Attractors vs Entropic Collapses)
+
+- **Centropic attractor:** stable fixed point in M with contraction factor γ > 0 (from Phase 2).  
+- **Entropic collapse:** singularity in M where metric g degenerates (‖ψ‖ → ∞ or 0).  
+
+These outcomes correspond directly to **lim∿ Spiral Limits** in Spiral Calculus.
+
+---
+
