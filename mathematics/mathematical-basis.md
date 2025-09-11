@@ -995,3 +995,250 @@ These outcomes correspond directly to **lim∿ Spiral Limits** in Spiral Calculu
 
 ---
 
+### Proposition (Nexus as Pushout in ResCat)
+
+Consider morphisms `f : A → B`, `g : A → C` in ResCat.  
+If seals are compatible, the **pushout** `B ⨿_A C` exists and represents a lawful bridge (C8).
+
+**Diagram**
+
+  A
+ / \
+f   g
+
+/
+B C
+\ /
+\ /
+B ⨿_A C
+
+
+**Interpretation**  
+- A Nexus (C8) is exactly the categorical pushout: a universal object joining B and C over A.  
+- If seal compatibility fails, the pushout collapses into E8 (Severed).
+
+---
+
+### Proposition (Return Loop as Pullback in ResCat)
+
+Consider morphisms `f : A → C`, `g : B → C` in ResCat.  
+The **pullback** `A ×_C B` represents a recursion gate (↺).
+
+**Diagram**
+
+A ×_C B → B
+↓ ↓g
+A →f C
+
+**Interpretation**  
+- Pullbacks embody recursion: objects A and B return into C through a shared mapping.  
+- If contractivity (γ > 0) holds, the pullback is centropic (valid recursion).  
+- Otherwise, recursion degenerates into E14 (Hollow Nest).
+
+---
+
+### Theorem (Functorial Lattice Construction)
+
+Define a functor `F : Lattice → ResCat` that maps:
+
+- **Centropic dimensions C#** → seal-preserving operators (harmonic, propagational, etc.).  
+- **Entropic mirrors E#** → degenerative operators (noise, collapse, void).  
+- **Morphisms** → bridge or recursion maps between operators.  
+
+**Law:**  
+- F respects composition: lawful centropic diagrams commute, entropic diagrams do not.  
+- F preserves monoidal structure:  
+
+F(Ci ⊗ Cj) = F(Ci) ⊗ F(Cj)
+
+
+**Interpretation**  
+- The symbolic lattice is functorial: every glyph and law maps to a categorical operator in ResCat.  
+- This makes Zenetist metaphysics rigorously representable in category theory.
+
+---
+
+### Corollary (Field Geometry from Functoriality)
+
+Applying F to the entire lattice yields:
+
+F(Lattice) = ResCat spectral geometry
+
+- Centropic cycles (C↓→E→C↑→⚫) map to commutative diagrams.  
+- Entropic cycles (E↑→E→E↓→♾) map to non-commutative diagrams.  
+- Thresholds (C13–C15) map to boundary objects (membranes, recursion, novelty).
+
+Thus the Dimensional Emanatory Lattice is not only symbolic but a **functorial categorical object**.
+
+---
+
+### Spectral Geometry of the Lattice — Resonance Manifold, Curvature, and Geodesics
+
+We model the Dimensional Emanatory Lattice as a **resonance manifold** `(M, g, ∇, S)`:
+- `M` — spectral state manifold (points = normalized resonance states modulo global phase).
+- `g` — coherence metric induced by C7 spectrum.
+- `∇` — centropic connection compatible with `g` and seals.
+- `S` — seal boundary structure (C13), inducing boundary conditions on fields.
+
+---
+
+#### Definition (Resonance Metric)
+
+Let `{ϕ_i}` be the C7-eigenbasis with eigenvalues `{λ_i}`.  
+For tangent vectors `u, v` at ψ (variations in 𝓗 with ⟨ψ, u⟩ = ⟨ψ, v⟩ = 0):
+
+g_ψ(u, v) = Σ_i ( |⟨ϕ_i, u⟩| · |⟨ϕ_i, v⟩| ) · w_i
+where w_i = 1 / (1 + λ_i^2)
+
+
+- High-frequency (large |λ_i|) modes contribute less (stabilized by centropy).
+- Low-frequency modes shape large-scale geometry of coherence.
+
+**Seal boundary:** on ∂M (membranes), restrict tangent vectors by permeability index σ (C13).
+
+---
+
+#### Definition (Centropic Connection)
+
+Define a metric-compatible connection `∇` via C1/C3 generators:
+
+∇_t ψ = Tψ + Pψ (C1 time + C3 propagation)
+
+
+- Compatibility: `∂_t g(u,v) = g(∇_t u, v) + g(u, ∇_t v)`.
+- Seal-compatibility: `S (∇_t ψ) = ∇_t (Sψ)`.
+
+---
+
+### Theorem (Centropic Geodesics = Harmonic Flows)
+
+**Statement**  
+Curves ψ(t) that solve the C7-harmonic flow are geodesics in `(M, g)`:
+
+∇_t ψ = i H_c ψ (H_c = centropic harmonic operator)
+
+
+**Proof (Sketch)**  
+Euler–Lagrange equations for action `A[ψ] = ∫ g_ψ(∇_t ψ, ∇_t ψ) dt` with H_c as constraint yield the geodesic equation.  
+Metric compatibility and seal constraints ensure extremals coincide with C7 flows.
+
+**Interpretation**  
+- Centropic evolution = shortest (stationary) coherence paths.
+- Entropic mirrors deviate geodesics by adding curvature defects (see below).
+
+---
+
+### Proposition (Entropic Singularities)
+
+Let `H_e = –H_c` be the entropic mirror (Dual Spectrum Lemma).  
+Points where the **effective metric determinant** vanishes:
+
+det g_ψ = 0 ⇔ spectral weight collapses to an entropic mirror subspace
+
+
+are **entropic singularities**:
+- **E13 (Wall):** boundary where admissible tangent space shrinks to zero (σ → 0).
+- **E14 (Hollow Nest):** limit-cycle strata with neutral curvature but zero injectivity radius.
+- **E15 (Collapse Nova):** blow-up of sectional curvature; geodesic incompleteness.
+
+---
+
+### Definition (Spiral Curvature & Commutator Form)
+
+Define curvature via the connection commutator on vector fields U, V:
+
+R(U, V)ψ = (∇_U ∇_V − ∇_V ∇U − ∇[U,V]) ψ
+
+With `∇` generated by C1/C3 and shaped by C7:
+
+R ∝ [T + P, Π(H_c)] where Π(H_c) projects onto C7-resonant subspace
+
+- Large `[T, P]` or misaligned projection Π(H_c) indicate **dissonant curvature** (E7 onset).
+
+---
+
+### Theorem (Bochner–Spiral Identity)
+
+Let Δ_sp be the **Spiral Laplacian**:
+
+Δ_sp ψ = −(∇_t)^* ∇_t ψ + 𝓡 ψ
+
+where `𝓡` is a curvature endomorphism determined by C7 spectrum and seals. Then:
+
+⟨ψ, Δ_sp ψ⟩ = ∥∇_t ψ∥^2 + ⟨ψ, 𝓡 ψ⟩
+
+
+**Consequences**
+- If `𝓡 ≥ 0` (centropic curvature), then `Δ_sp` is positive-semidefinite: flows dissipate dissonance.
+- If `𝓡 < 0` on a subspace, geodesics amplify dissonance → approach entropic singularities.
+
+---
+
+### Corollary (Spectral Gap ⇒ Global Consonance)
+
+If C7 has a **spectral gap** `λ_min > 0` on the sealed domain, then:
+
+⟨ψ, 𝓡 ψ⟩ ≥ c · λ_min^2 ∥ψ∥^2 for some c > 0
+
+
+Hence all geodesics exponentially stabilize toward centropic attractors (γ > 0).  
+This ties **Phase 2** (γ) to **Phase 3** curvature.
+
+---
+
+### Proposition (Hodge–Spiral Decomposition)
+
+Every tangent field splits uniquely (orthogonally in g):
+
+u = ∇_t f ⊕ ∇_t^* A ⊕ h
+
+- Gradient part (potential coherence),  
+- Co-gradient part (circulatory resonance),  
+- Harmonic part `h` (kernel of Δ_sp): **structural memory** (Archeus-linked).
+
+**Interpretation**  
+- Non-zero `h` encodes **integrated lifeline memory** (C1/C7/C9 coupling).
+- Entropic mirrors annihilate `h` at walls (E13) or trap it in loops (E14).
+
+---
+
+### Theorem (Gauss–Bonnet–Coherence)
+
+For a compact sealed region `Ω ⊂ M` with boundary ∂Ω and seal index σ:
+
+∫Ω K_sp dμ + ∫∂Ω κ_sp ds = 2π χ_c(Ω, σ)
+
+- `K_sp` = spiral Gaussian curvature from R,
+- `κ_sp` = spiral geodesic curvature on ∂Ω,
+- `χ_c(Ω, σ)` = **coherence Euler characteristic** (topological invariant weighted by seals).
+
+**Meaning**  
+- Global coherence is topologically quantized; seals enter as boundary weights.
+- Sudden changes in `χ_c` signal topological phase transitions (novelty C15 or collapse E15).
+
+---
+
+### Boundary Conditions (Seal Geometry)
+
+On ∂M with permeability σ:
+
+Neumann–Seal: ⟨∇n ψ, ψ⟩ = 0 (reflective, σ small)
+Dirichlet–Seal: ψ|∂M = 0 (impermeable, σ → 0)
+Robin–Seal: a ψ + b ∇_n ψ = 0 (tunable by σ)
+
+
+- Choice encodes C13; transitions of boundary type model threshold events (C15) and recursion gates (C14).
+
+---
+
+### Summary
+
+- **Geodesics** = centropic harmonic flows (C7).  
+- **Curvature** encodes consonance/dissonance; negative spiral curvature flags entropic pull.  
+- **Singularities** at E13/E14/E15 correspond to metric degeneracy, limit cycles, and blow-up.  
+- **Topological invariant** `χ_c` tracks global coherence; seals weight the boundary terms.
+
+This completes the spectral–geometric grounding of the lattice and ties Phase 2 (CIT) to Phase 3 (geometry) via curvature, Laplacians, and boundary seals.
+
+---
+
