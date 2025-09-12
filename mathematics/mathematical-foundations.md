@@ -987,8 +987,8 @@ If seals are compatible, the **pushout** `B ⨿_A C` exists and represents a law
 
 ```text
      A
-    / \
-   f   g
+    /  \
+   f    g
   /      \
   B      C
    \    /
