@@ -986,14 +986,14 @@ If seals are compatible, the **pushout** `B ⨿_A C` exists and represents a law
 **Diagram**  
 
 ```text
-   A
-  / \
- f   g
-/      \
-B      C
- \    /
-  \  /
- B ⨿_A C
+     A
+    / \
+   f   g
+  /      \
+  B      C
+   \    /
+    \  /
+   B ⨿_A C
 ```
 
 **Interpretation**  
