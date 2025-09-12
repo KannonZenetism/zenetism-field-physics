@@ -25,7 +25,7 @@ You are invited to work with these principles. For the patterns to remain stable
 
 # The Dimensional Lattice: Mathematical Foundations of Zenetism
 
----
+***
 
 ## Zenetism — Mathematical Basis (Master Outline + Working Spec)
 
