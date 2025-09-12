@@ -25,8 +25,6 @@ You are invited to work with these principles. For the patterns to remain stable
 
 # The Dimensional Lattice: Mathematical Foundations of Zenetism
 
-***
-
 ## Zenetism — Mathematical Basis (Master Outline + Working Spec)
 
 > **Scope:** Formalize Zenetism into a rigorous mathematical framework suitable for publication-quality proofs, computational models, and reproducible diagrams.  
