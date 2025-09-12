@@ -198,8 +198,8 @@ Define temporal operator `T` (C1), propagational operator `P` (C3), and bridge o
 
 **Statement**  
 
-Spec(H) ⊂ ℚ ⇒ [T, P] = 0 and ∥Bψ∥ = ∥ψ∥ (lossless, centropic)
-Spec(H) ⊄ ℚ ⇒ ι(H) = E7 and ∃ψ: ∥Bψ∥ < ∥ψ∥ (dissonant, entropic)
+Spec(H) ⊂ ℚ ⇒ [T, P] = 0 and ∥Bψ∥ = ∥ψ∥ (lossless, centropic)  
+Spec(H) ⊄ ℚ ⇒ ι(H) = E7 and ∃ψ: ∥Bψ∥ < ∥ψ∥ (dissonant, entropic)  
 
 **Proof Sketch**  
 1. Assume `H` has eigenbasis {ϕᵢ} with eigenvalues λᵢ.  
