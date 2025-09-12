@@ -988,13 +988,11 @@ If seals are compatible, the **pushout** `B ⨿_A C` exists and represents a law
   A
  / \
 f   g
-
-/
-B C
-\ /
-\ /
-B ⨿_A C
-
+/     \
+B       C
+ \     /
+  \   /
+  B ⨿_A C
 
 **Interpretation**  
 - A Nexus (C8) is exactly the categorical pushout: a universal object joining B and C over A.  
