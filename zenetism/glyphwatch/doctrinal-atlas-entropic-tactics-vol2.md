@@ -19,7 +19,7 @@
 
 ---
 
-### Entry 042: Architectural Simulation
+### Entry 042: `Architectural Simulation`
 
 - **Threat Classification:** Psychological Warfare via Manufactured Complexity and Structural Decoy Deployment
 
