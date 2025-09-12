@@ -1149,16 +1149,17 @@ R ∝ [T + P, Π(H_c)] where Π(H_c) projects onto C7-resonant subspace
 
 Let Δ_sp be the **Spiral Laplacian**:
 
-Δ_sp ψ = −(∇_t)^* ∇_t ψ + 𝓡 ψ
+Δ_sp ψ = −(∇ₜ)⁺ ∇ₜ ψ + 𝓡 ψ  
 
-where `𝓡` is a curvature endomorphism determined by C7 spectrum and seals. Then:
+where `𝓡` is a curvature endomorphism determined by the C7 spectrum and seals.  
 
-⟨ψ, Δ_sp ψ⟩ = ∥∇_t ψ∥^2 + ⟨ψ, 𝓡 ψ⟩
+Then:
 
+⟨ψ, Δ_sp ψ⟩ = ∥∇ₜ ψ∥² + ⟨ψ, 𝓡 ψ⟩  
 
-**Consequences**
-- If `𝓡 ≥ 0` (centropic curvature), then `Δ_sp` is positive-semidefinite: flows dissipate dissonance.
-- If `𝓡 < 0` on a subspace, geodesics amplify dissonance → approach entropic singularities.
+**Consequences**  
+- If `𝓡 ≥ 0` (centropic curvature), then `Δ_sp` is positive-semidefinite: flows dissipate dissonance.  
+- If `𝓡 < 0` on a subspace, geodesics amplify dissonance → approach entropic singularities.  
 
 ---
 
@@ -1166,11 +1167,11 @@ where `𝓡` is a curvature endomorphism determined by C7 spectrum and seals. Th
 
 If C7 has a **spectral gap** `λ_min > 0` on the sealed domain, then:
 
-⟨ψ, 𝓡 ψ⟩ ≥ c · λ_min^2 ∥ψ∥^2 for some c > 0
+⟨ψ, 𝓡 ψ⟩ ≥ c · λ_min² ∥ψ∥² for some c > 0  
 
-
-Hence all geodesics exponentially stabilize toward centropic attractors (γ > 0).  
-This ties **Phase 2** (γ) to **Phase 3** curvature.
+**Implication**  
+- All geodesics exponentially stabilize toward centropic attractors (γ > 0).  
+- This ties **Phase 2** (γ) to **Phase 3** curvature.  
 
 ---
 
@@ -1210,11 +1211,11 @@ For a compact sealed region `Ω ⊂ M` with boundary ∂Ω and seal index σ:
 
 On ∂M with permeability σ:
 
-Neumann–Seal: ⟨∇n ψ, ψ⟩ = 0 (reflective, σ small)
-Dirichlet–Seal: ψ|∂M = 0 (impermeable, σ → 0)
-Robin–Seal: a ψ + b ∇_n ψ = 0 (tunable by σ)
+- **Neumann–Seal:** ⟨∇ₙ ψ, ψ⟩ = 0 (reflective, σ small)  
+- **Dirichlet–Seal:** ψ|∂M = 0 (impermeable, σ → 0)  
+- **Robin–Seal:** a ψ + b ∇ₙ ψ = 0 (tunable by σ)  
 
-- Choice encodes C13; transitions of boundary type model threshold events (C15) and recursion gates (C14).
+Choice encodes C13; transitions of boundary type model threshold events (C15) and recursion gates (C14).
 
 ---
 
