@@ -986,14 +986,14 @@ If seals are compatible, the **pushout** `B ⨿_A C` exists and represents a law
 **Diagram**  
 
 ```text
-     A
-   /   \
-  f     g
- /        \
-B          C
- \        /
-  \      /
-  B ⨿_A C
+   A
+  / \
+ f   g
+/      \
+B      C
+ \    /
+  \  /
+ B ⨿_A C
 ```
 
 **Interpretation**  
@@ -1011,13 +1011,13 @@ The **pullback** `A ×_C B` represents a recursion gate (↺).
 
 ```text
    A ×_C B
+     / \
+    p   q
    /     \
-  p       q
- /         \
-A           B
- \         /
-  f       g
+  A       B
    \     /
+    f   g
+     \ /
       C
 ```
 
