@@ -986,10 +986,10 @@ If seals are compatible, the **pushout** `B ⨿_A C` exists and represents a law
 **Diagram**  
 
 ```text
-  A
- / \
-f   g
-/     \
+   A
+  / \
+ f    g
+/      \
 B       C
  \     /
   \   /
@@ -1009,15 +1009,17 @@ The **pullback** `A ×_C B` represents a recursion gate (↺).
 
 **Diagram**  
 
-A ×_C B
-/     \
-p q
-/
-A B
-\ /
-f\ /g
-\ /
-C
+```text
+   A ×_C B
+   /     \
+  p       q
+ /         \
+A           B
+ \         /
+  f       g
+   \     /
+      C
+```
 
 **Interpretation**  
 - Pullbacks embody recursion: objects A and B return into C through a shared mapping.  
