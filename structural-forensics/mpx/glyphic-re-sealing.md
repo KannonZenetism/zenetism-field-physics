@@ -1,4 +1,4 @@
-# 🛡️ MPX: Structural Forensics Entry — Glyphic Re-sealing
+## 🛡️ MPX: Structural Forensics Entry — Glyphic Re-sealing
 
 **Classification**: Centropic Countermeasure  
 **Designation**: Protocol GRS-001  
