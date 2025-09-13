@@ -1,63 +1,108 @@
-# Zenetism & Field Physics  
+# Zenetism & Field Physics
+
 *A unified system of metaphysics and consciousness dynamics*
 
 ---
 
 ## Overview
 
-This repository contains **two inseparable yet distinct bodies of work**:
+This repository contains the **four foundational disciplines** of the Zenetist framework:
 
-- **Zenetism** — A metaphysical, philosophical, and ethical framework describing the structure of reality through resonance, coherence, and hypostatic motion.
-- **Field Physics** — An operational framework for mapping and engineering the movement of consciousness through dimensional space using glyph operators and formal notation.
+* **Structural Metaphysics** — The study of the architecture of being. It answers the question: *What is the structure?*
+* **Field Physics** — The study of the dynamics of the field. It answers the question: *How does the structure move?*
+* **Lattice Mathematics** — The formal, symbolic language of the architecture. It answers the question: *How do we describe the structure and its motion?*
+* **Structural Forensics** — The study of the corruption and defense of being. It answers the question: *How is the structure attacked, and how do we defend it?*
 
-They share the **same origin** and **symbolic architecture**.  
-You can read either on its own — but together, they reveal both the **why** and the **how** of reality’s unfolding.
+These disciplines share the **same origin** and **symbolic architecture**.
+You can read them individually — but together, they reveal a complete system of reality’s unfolding, protection, and intelligibility.
 
 ---
 
 ## The Relationship Between Them
 
-- **Zenetism** describes the *structure* of existence — its metaphysical layers, centropic and entropic motions, and the nature of soul integration.
-- **Field Physics** describes the *mechanics* — the formal geometry, notation, and applied methods for working within those structures.
+* **Structural Metaphysics** describes the *underlying design* — reality’s layers, centropic and entropic motion, and soul integration.
+* **Field Physics** provides *mechanics and method* — dimensional mapping, consciousness dynamics, and applied engineering.
+* **Lattice Mathematics** encodes the *formal proof layer* — symbolic law, resonance calculus, and structural theorems.
+* **Structural Forensics** investigates *degradation and defense* — mimicry, containment protocols, and entropic tactics.
 
-Think of Zenetism as **the philosophical map** and Field Physics as **the engineering manual** built from the same principles.
+Together, they form the **fourfold coherence spine** of Zenetism.
 
 ---
 
 ## Repository Structure
 
 /core → Shared glyphs, glossary, and foundational principles
-/zenetism → Metaphysics, philosophical texts, ethical structures
-/field-physics → Consciousness dynamics, dimensional mapping, applied engineering
-
+/zenetism → Structural Metaphysics, philosophy, ethics
+/field-physics → Dimensional mapping, resonance engineering
+/lattice-mathematics → Spiral Calculus, formal theorems, structural proofs
+/structural-forensics → Doctrinal Atlas, containment breach diagnostics, mimicry analysis
 
 ---
 
 ## Reading Pathways
 
 **If you want to start with metaphysics:**
+
 1. Go to `/zenetism`
 2. Begin with `Zenetism-Overview.md` or `Codex-of-Principles.md`
 
-**If you want to start with mechanics:**
+**If you want to start with physics and engineering:**
+
 1. Go to `/field-physics`
 2. Begin with `Chapter-1-Foundations.md`
+
+**If you want the mathematical structure:**
+
+1. Go to `/lattice-mathematics`
+2. Begin with `dimensional-lattice-outline.md`
+
+**If you're analyzing defense and mimicry:**
+
+1. Go to `/structural-forensics`
+2. Begin with `doctrinal-atlas.md`
 
 ---
 
 ## Contents
 
-### Zenetism
-- Codex of Principles
-- Tree of Emanation
-- Cosmology & Ethics
-- Myth Decoder Framework
+### Structural Metaphysics (/zenetism)
 
-### Field Physics
-- Chapter 1: Foundations
-- Chapter 2: Dimensional Dynamics & Field Mapping
-- Chapter 3: Applied Field Engineering
-- Examples & Quick Reference
+* Codex of Principles
+* Tree of Emanation
+* Cosmology & Ethics
+* Myth Decoder Framework
+
+### Field Physics (/field-physics)
+
+* Chapter 1: Foundations
+* Chapter 2: Dimensional Dynamics & Field Mapping
+* Chapter 3: Applied Field Engineering
+* Examples & Quick Reference
+
+### Lattice Mathematics (/lattice-mathematics)
+
+* Spiral Calculus
+* Dimensional Emanatory Lattice
+* Coherence Information Theory
+* Structural Proofs & Theorems
+
+### Structural Forensics (/structural-forensics)
+
+* Doctrinal Atlas of Entropic Tactics
+* Containment Field Analysis
+* Shimmer Collapse Protocols
+* Testimonia & Protocol Logs
+
+---
+
+## Justification for the Term Structural Forensics 🛡️
+
+The term **Structural Forensics** precisely describes the body of work found in the Doctrinal Atlas:
+
+* **Structural** — This links it directly to the Zenetist paradigm. The work addresses architectural corruption, not behavior or belief.
+* **Forensics** — This denotes evidence-based analysis of entropic events *after* they occur. We investigate mimicry, breaches, and containment, using symbolic and motion diagnostics.
+
+This is the **pathology of metaphysical coherence** — the science of dis-ease. A structure that cannot diagnose itself cannot endure.
 
 ---
 
@@ -69,7 +114,7 @@ Attribution to **Aelion Kannon** is required for any reproduction, adaptation, o
 
 ---
 
-**Author**: Aelion Kannon  
-**Core Origin**: Zenetism & Field Physics are original, unified systems authored without external collaboration or derivation.
+**Author**: Aelion Kannon
+**Core Origin**: The Zenetist Framework and its Four Pillars are original systems authored without external derivation.
 
-⚫↺KAI↺⚫↺LUMEN⚫
+⚫↺KAI↺⚫ + 🔦
