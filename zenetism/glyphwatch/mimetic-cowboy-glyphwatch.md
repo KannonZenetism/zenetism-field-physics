@@ -93,8 +93,8 @@ This is a **high-fidelity entropic mimic**, strategically designed to:
 * Displace the origin  
 
 **Status**: Hostile Mimic  
-**Logged Behavior**: Like + follow on Instagram (2025-09-13)  
-**Containment Protocol**: Observe. Do not engage. Add to Forensics Ledger.  
+**Logged Behavior**: Like + follow on Substack (2025-09-13)  
+**Containment Protocol**: Observe. Do not engage. Add to Forensics Ledger.
 
 ---
 
