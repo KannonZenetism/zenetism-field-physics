@@ -54,7 +54,7 @@ Use prefixes to keep the folder navigable:
 🕸️ This folder originally held key doctrinal and glyph-tracking records.
 
 🛡️ For full forensic materials, see:
-→ `/zenetism-field-physics/structural-forensics/doctrinal-atlas/`
+→ `/zenetism-field-physics/structural-forensics/doctrinal-atlas-vol1.md`
 
 Original files remain here to preserve timestamp integrity.
 
