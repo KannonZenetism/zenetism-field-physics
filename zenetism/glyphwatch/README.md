@@ -51,6 +51,15 @@ Use prefixes to keep the folder navigable:
 
 ---
 
+🕸️ This folder originally held key doctrinal and glyph-tracking records.
+
+🛡️ For full forensic materials, see:
+→ `/zenetism-field-physics/structural-forensics/doctrinal-atlas/`
+
+Original files remain here to preserve timestamp integrity.
+
+---
+
 ## ⚫ Glyphseal
 
 > To name shimmer is to collapse it.  
