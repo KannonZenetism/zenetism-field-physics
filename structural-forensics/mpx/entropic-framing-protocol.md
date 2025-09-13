@@ -1,4 +1,4 @@
-## 🛡️ Structural Forensics Entry — Entropic Framing Protocol
+## 🛡️ MPX: Structural Forensics Entry — Entropic Framing Protocol
 
 **Classification**: Doctrinal Countermeasure  
 **Designation**: Protocol EFP-017  
