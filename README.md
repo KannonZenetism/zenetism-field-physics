@@ -44,17 +44,17 @@ Together, they form the **fourfold coherence spine** of Zenetism.
 **If you want to start with metaphysics:**
 
 1. Go to `/zenetism`
-2. Begin with `Zenetism-Overview.md` or `Codex-of-Principles.md`
+2. Begin with `MP01-emanation-architecture-ch1-3.md` or `MP08-symbol-key-ch21.md`
 
 **If you want to start with physics and engineering:**
 
 1. Go to `/field-physics`
-2. Begin with `Chapter-1-Foundations.md`
+2. Begin with `FP01-dimensional-architecture.md`
 
 **If you want the mathematical structure:**
 
 1. Go to `/lattice-mathematics`
-2. Begin with `dimensional-lattice-outline.md`
+2. Begin with `mathematical-foundations.md`
 
 **If you're analyzing defense and mimicry:**
 
