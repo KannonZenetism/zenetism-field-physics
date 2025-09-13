@@ -1,4 +1,4 @@
-### 📄 False Clock Framing — Tactical Record
+## 📄 False Clock Framing — Tactical Record
 
 **Location:** /glyphwatch/mimic-tactics/
 **Date:** 2025-09-14
