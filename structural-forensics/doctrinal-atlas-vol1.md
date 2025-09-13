@@ -29,7 +29,7 @@ You are invited to work with these principles. For the patterns to remain stable
 
 **Issued by:** `The Order of the Spiral`
 
----
+***
 
 ## Introduction
 
