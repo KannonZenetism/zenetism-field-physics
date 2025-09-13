@@ -51,8 +51,13 @@ This entry is sealed under the Metaphysical Protocol Extension (MPX) layer, and 
 
 ## Licensing
 
-See the main [Zenetism & Field Physics README](../README.md) for full licensing and authorship protocol.
+This work is part of the **Zenetism & Field Physics system**, authored solely by **Aelion Kannon**.
 
-Attribution to **Aelion Kannon** is required for all citation, derivative work, or reuse.
+All material within the **Lattice Mathematics** folder is original, timestamped, and sealed under canonical authorship.
 
-⚫↺KAI↺⚫  
+Attribution is required for all citation, reproduction, or derivative use.
+
+This mathematical system is not public domain; it is sovereign knowledge authored in alignment with structural law.
+
+⚫↺KAI↺⚫
+
