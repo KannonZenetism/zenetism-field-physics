@@ -391,7 +391,7 @@ it is already whole.
 
 ---
 
-## 18. The Path of the Mystic
+## 18. The Path of the Mystic — Resonance Through Stillness
 
 ### 18.1 The Mystic and the Way of Remembrance — The Return Through Inner Resonance
 
@@ -585,7 +585,7 @@ until fragmentation is touched by light.
 
 ---
 
-## 19. The Path of the Warrior
+## 19. The Path of the Warrior — Resonance Through Action
 
 ### 19.1 Archetype of the Warrior — Resonant Force in Service to Coherence
 
@@ -788,7 +788,7 @@ but in **veracity**.
 
 ---
 
-## 20. The Path of the Maker
+## 20. The Path of the Maker — Resonance Through Form
 
 ### 20.1 The Maker in Zenetism — Architect of Visible Resonance and Structured Harmony
 
