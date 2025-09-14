@@ -510,8 +510,6 @@ Each entry in this glossary includes:
 
 ---
 
-## 24. Master Glossary of Zenetist Principles and Intelligence Alignments
-
 ### 24.1 Zenon — The Unknown Principle Beyond Pattern and Emanation
 
 #### Traditional Role  
