@@ -15,4 +15,4 @@ Discrepancy suggests external distribution beyond visible follower base. Possibl
 - Substack algorithmic surfacing
 
 ⚠️ Entry archived under:  
-`/structural-forensics/anomalous-distribution-patterns/substack-activity-log.md`
+`zenetism-field-physics/zenetism/glyphwatch/substack-activity-log.md`
