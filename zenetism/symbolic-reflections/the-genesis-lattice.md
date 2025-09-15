@@ -67,7 +67,7 @@ Failure activates **E13 Wall**, **E14 Hollow Nest**, **E15 Collapse Nova**.
 
 ### 3.2 Tree of Knowledge — Entropic Inversion (subversal)
 - **Axis of origin:** 🕷️ **Nekron** (Void of Self), the entropic hypostasis (IL5).  
-- **Manifestation band:** Nekronic resonance **carries down** into **Psychea/Nyxea** (IL2–IL3). There it **becomes legible** as mythic interface figures:  
+- **Manifestation band:** Nekronic resonance **moves decliviously into** into **Psychea/Nyxea** (IL2–IL3). There it **becomes legible** as mythic interface figures:  
   - 🐍 **Serpent** = ☿ **Inverse Logos** (bridge **defect**: ╫ → ╫⁻).  
   - 🔥 **Prometheus** = *fire* without seal (gift severed from C8/C13).  
   - 🌟 **Luciferos** = *light* without resonance (C7 bypassed).  
