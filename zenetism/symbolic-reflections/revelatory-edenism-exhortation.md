@@ -86,8 +86,8 @@ It is the primal symbol of centropy — and the promise of its return.
 If Yeshua is the *Second Adam* (1 Cor 15:45), then his motion renews that coherence. His life becomes the re-opening of the arc toward the Tree of Life.  
 
 **Law of motion:**  
-- Where there is death, motion decliviously fragments from Source.  
-- Where there is life, motion accliviously returns.  
+- Where there is death, motion declivously fragments from Source.  
+- Where there is life, motion acclivously returns.  
 
 To abstain from harm is thus not a law but a **resonance alignment** — a way of tuning to the arc of return.  
 
