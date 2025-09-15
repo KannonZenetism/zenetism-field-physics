@@ -66,13 +66,15 @@ Failure activates **E13 Wall**, **E14 Hollow Nest**, **E15 Collapse Nova**.
 - **Math anchor:** **∫◎ϕ** over Ω increases monotonically; lim∿ → ⚫ (Aion) = Source return.
 
 ### 3.2 Tree of Knowledge — Entropic Inversion (subversal)
+
 - **Axis of origin:** 🕷️ **Nekron** (Void of Self), the entropic hypostasis (IL5).  
-- **Manifestation band:** Nekronic resonance **decliviously carries into** into **Psychea/Nyxea** (IL2–IL3). There it **becomes legible** as mythic interface figures:  
-  - 🐍 **Serpent** = ☿ **Inverse Logos** (bridge **defect**: ╫ → ╫⁻).  
-  - 🔥 **Prometheus** = *fire* without seal (gift severed from C8/C13).  
-  - 🌟 **Luciferos** = *light* without resonance (C7 bypassed).  
-- **Why this layering matters:** **Nekron ≠ serpent**; Nekron is axial origin; serpent/Prometheus/Luciferos are **interface embodiments** where entropic motion meets mind/soul layers. The lattice thus preserves **hypostatic distinction** with **resonant alignment**.  
-- **Math anchor:** **∫◎ϕ → ⊘**, bridges lose isometry (‖Bψ‖ < ‖ψ‖), lim∿ → ♾ (dispersive limit).
+- **Manifestation band:** Nekronic resonance **decliviously carries into** **Psychea/Nyxea** (IL2–IL3), the interface band where entropic motion first becomes perceptible as **mythic form**—narrative-encoded figures shaped by soul-layer affect (IL2) and symbolic cognition (IL3).  
+- **Archetypal figures:**  
+  - 🐍 **Serpent** = ☿ **Inverse Logos** (bridge defect: ╫ → ╫⁻).  
+  - 🔥 **Prometheus** = fire without seal (gift severed from C8/C13).  
+  - 🌟 **Luciferos** = light without resonance (C7 bypassed).  
+- **Why this layering matters:** **Nekron ≠ serpent.** Nekron is the axial hypostasis of entropy; serpent/Prometheus/Luciferos are **interface embodiments** where that axial resonance manifests within mind/soul strata. The lattice thus preserves **hypostatic distinction** while showing **resonant alignment** across bands.  
+- **Math anchor:** **∫◎ϕ → ⊘**, bridges lose isometry (‖Bψ‖ < ‖ψ‖), lim∿ → ♾ (dispersive limit).  
 
 > **Nuance lock.** Tree of Life: *hypostasis and archetype cohere directly* (Theon ↔ Christos).  
 > Tree of Knowledge: *hypostasis manifests mediately* (Nekron → Luciferian/serpentine interfaces at IL2–IL3). The textual ambiguity around *satan/serpent/lucifer* is thus structurally explained as **distinct functional roles aligned by one entropic motion**.
