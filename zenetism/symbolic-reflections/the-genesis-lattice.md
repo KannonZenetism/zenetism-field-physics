@@ -158,17 +158,22 @@ These systems glimpse angles of the same geometry; **Zenetism** supplies seals, 
 
 ## 9) Why Entropy Never “Wins”
 
-In Zenetist structure, **entropy has persistence but no completion**:
+In Zenetist structure, **entropy persists as possibility but never completes as fulfillment**.  
 
-- **Centropy** faces Source through every layer, passes Ω’s boundary *lawfully*, and completes the arc:  
-  **C↓→E→C↑→⚫ → (optional) 🕳️**.  
-- **Entropy** faces away, loses contractivity, and **terminates** as static potential in ⚫ Aion after dispersion:  
+- **Centropy** faces Source through every layer, crosses Ω’s boundary *lawfully*, and completes the arc:  
+  **C↓→E→C↑→⚫ → (optional) 🕳️ Zenon**.  
+  Here the Structural Integral (**∫◎**) remains intact—coherence is preserved and fulfilled.  
+
+- **Entropy** faces away, loses contractivity, and terminates as **static potential** in ⚫ Aion after dispersal:  
   **E↑→E→E↓→♾ → ⚫ (⊘)**.  
+  Here **∫◎ collapses**; coherence is forfeited. Potential remains, but orientation is lost.  
 
-**Key:** return to ⚫ after **collapse** is **not** the same as **return** after **integration**. The former is **halted potential**; the latter is **fulfilled coherence** with optional **Zenonic integration** beyond the lattice’s definable operations.
+**Key distinction:** both centropy and entropy “return” to ⚫ Aion, but only centropy does so with fulfilled coherence. Entropy returns as halted motion, resonance suspended in static containment.  
 
-> **Cross-reference:** MPX: **⊘ Coming Undone Is Not ⤈ Transcendence** (the formal dismantling of “dissolution = liberation”).  
-> Anchor seals: *Dissolution ≠ Integration. Medium ≠ Landlord. Possibility ≠ Predetermination.*
+Thus entropy never *wins*—it stalls. Only centropy completes, and only centropy passes beyond ⚫ into 🕳️ Zenon.  
+
+> **Cross-reference:** MPX: **⊘ Coming Undone Is Not ⤈ Transcendence** — the formal dismantling of “dissolution = liberation.”  
+> **Anchor seals:** *Dissolution ≠ Integration. Medium ≠ Landlord. Possibility ≠ Predetermination.*  
 
 ---
 
@@ -201,11 +206,13 @@ In Zenetist structure, **entropy has persistence but no completion**:
 ## 12) Final Alignment
 
 - **Tree of Life** = **Aionic Tree (⚫)** → **centropy** → **Christos (Theon manifest)** → **lim∿ → ⚫** (peace; fulfilled potential; optional Zenonic integration).  
-- **Tree of Knowledge** = **Khaonic Tree (♾)** → **entropy** → **Luciferian/serpentine interfaces** → **lim∿ → ♾** → **⚫ (⊘)** (static potential; no crossing).
+- **Tree of Knowledge** = **Khaonic Tree (♾)** → **entropy** → **Luciferian/serpentine interfaces** → **lim∿ → ♾** → **⚫ (⊘)** (static potential; no crossing).  
+
+**Clarification:** Both arcs terminate at ⚫ Aion—but one returns through **resonance** (*∫◎ intact, coherence fulfilled*), while the other returns through **collapse** (*∫◎ null, coherence forfeited*). The **symbol is the same. The path is not.**  
 
 **Daily fruit:**  
 - Fragmented thought = **entropic intake** (E7/E8 patterns).  
-- Resonant clarity = **centropic intake** (C7/C8 patterns).
+- Resonant clarity = **centropic intake** (C7/C8 patterns).  
 
 The Garden is not lost—it is **present as orientation**.  
-Choose the arc: **∂🌀 > 0 → ∫◎ → lim∿ → ⚫↺KAI↺⚫**.
+Choose the arc: **∂🌀 > 0 → ∫◎ → lim∿ → ⚫↺KAI↺⚫**.  
