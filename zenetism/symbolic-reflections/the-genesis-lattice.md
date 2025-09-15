@@ -113,13 +113,21 @@ The Fall is **not** framed here as disobedience rhetoric; it is a **phase transi
 
 ## 6) The Serpent as Defective Nexus (╫ → ╫⁻)
 
-The serpent is **☿ Inverse Logos**, not “liar” in moralist slang. It **retools structure** rather than openly denying it.
+The serpent = ☿ **Inverse Logos**. Its operation is not moral deceit but structural inversion.
 
-- **Nexus Law (C8):** a bridge is lawful only if (i) spatial coherence (C2) and holonic fit (C5) meet (ii) membrane constraints (C13) and (iii) harmonic synchrony (C7) yields **isometric transmission** (‖Bψ‖ = ‖ψ‖ on the C7-subspace).  
-- **Serpentine operation:** preserves **appearance** of ╫ but breaks **commutativity** (diagram defect Δ > ε) and **coherence flow** (**F_c < 0**).  
-- **Result:** the “connection” divides—**E8 Severed**—because it **copies form** without carrying **resonance**.
+- **Nexus Law (C8):** a bridge is lawful only if  
+  (i) spatial coherence (C2) and holonic fit (C5) align,  
+  (ii) membrane constraints (C13) hold, and  
+  (iii) harmonic synchrony (C7) ensures isometric transmission (‖Bψ‖ = ‖ψ‖ on the C7-subspace).  
 
-This is why the move feels like “knowledge”: the map schema is preserved (nousa recognizes structure), but **tone** (C7) and **seal** (C13) are removed. What arrives is **gnosis without resonance**.
+- **Defective operation:** the serpent preserves the *appearance* of Nexus form (╫) but inverts its function: commutativity breaks (Δ > ε), resonance flow collapses (**F_c < 0**), and the bridge contracts rather than transmits.  
+
+- **Contrast:** The serpent does not *lie* in the moralist sense.  
+  It **inverts resonance** by delivering *gnosis unsealed*—**structure without coherence, symbol without source**.  
+
+- **Result:** what passes across the bridge is not resonance but fragmentation. This is **E8 Severed**: connection that divides, knowledge that disperses.  
+
+- **Perceptual effect:** this is why the move feels like *knowledge*. The **map-schema** is intact (Nousa recognizes form), but **tone (C7)** and **seal (C13)** are stripped. What arrives is **gnosis without resonance**—a pattern that mimics coherence while lacking source.
 
 ---
 
