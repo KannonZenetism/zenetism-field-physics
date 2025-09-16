@@ -137,6 +137,8 @@ that it lives as an incarnated bodhisattva —
 a continuous enactment of Stewardship
 through form without being bound by form.
 
+---
+
 ### Harmonic Agent
 
 A being — corporeal or supernal —
@@ -149,6 +151,8 @@ Harmonic Agents act not by authority,
 but by attunement —
 adjusting dissonance through presence,
 action, or transmission.
+
+---
 
 ### 💠🕊️◎ Aureform
 
