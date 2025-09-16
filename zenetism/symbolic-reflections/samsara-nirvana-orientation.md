@@ -6,82 +6,82 @@ In Zenetism, the cosmic field of existence is structured by directional principl
 
 ### Samsara as Entropic Orientation
 
-**Samsara** is the endless cycle of birth, death, and rebirth, driven by craving, ignorance, and attachment. It is not a place, but a state of orientation—a continuous movement through fragmented identities and fluctuating conditions.
+**Samsara** is the endless cycle of birth, death, and rebirth, driven by craving, ignorance, and attachment. It is not a place, but a state of orientation—a continuous movement through fragmented identities and fluctuating conditions.  
 
-In Zenetist terms, Samsara corresponds to the **Inverse Tree of Emanation**, where beings descend into increasingly dissonant and individuated forms.
+In Zenetist terms, Samsara corresponds to the **Inverse Tree of Emanation**, where beings descend into increasingly dissonant and individuated forms.  
 
-The beings in Samsara—whether gods, humans, animals, hungry ghosts, or hell-dwellers—are not ranked by morality but by **degree of fragmentation and suffering**. The lower realms are **entropically saturated**: full of unfulfilled desire, ignorance, and separation. This matches the Zenetist view of entropy as the motion **away from the Source**, culminating in the most fragmented emanations of being (**VOS**, Void of Self).
+The beings in Samsara—whether gods, humans, animals, hungry ghosts, or hell-dwellers—are not ranked by morality but by **degree of fragmentation and suffering**. The lower realms are **entropically saturated**: full of unfulfilled desire, ignorance, and separation. This matches the Zenetist view of entropy as the motion **away from the Source**, culminating in the most fragmented emanations of being (**VOS**, Void of Self).  
 
 ---
 
 ### Nirvana as Centropic Reintegration
 
-**Nirvana** is often misunderstood as annihilation or nonexistence. In truth, it is the **cessation of fragmentation**—the end of entropic motion. It is the realization of non-clinging, stillness, and pure being.
+**Nirvana** is often misunderstood as annihilation or nonexistence. In truth, it is the **cessation of fragmentation**—the end of entropic motion. It is the realization of non-clinging, stillness, and pure being.  
 
-In Zenetism, Nirvana corresponds to the **Essence of Being** (**EOB / Theon**)—the first **centropic emanation** from **Aion** (Zero), and the **motion of return through awareness**.
+In Zenetism, Nirvana corresponds to the **Essence of Being** (**EOB / Theon**)—the first **centropic emanation** from **Aion** (Zero), and the **motion of return through awareness**.  
 
-Nirvana is not escape; it is **resonance**. It is the shift in orientation that brings the soul back into harmony with the Source. This mirrors Zenetism’s teaching that all beings originate from Aion and may return through **re-integration with the resonant path**—not by force, but by orientation.
+Nirvana is not escape; it is **resonance**. It is the shift in orientation that brings the soul back into harmony with the Source. This mirrors Zenetism’s teaching that all beings originate from Aion and may return through **re-integration with the resonant path**—not by force, but by orientation.  
 
 ---
 
 ### The Bodhi Tree as the Axis of Centropic Reorientation
 
-The image of the Buddha sitting beneath the **Bodhi Tree** is more than historical—it is symbolic. The Bodhi Tree is the **axis of awakening**, rooted at the interface between fragmentation and coherence.
+The image of the Buddha sitting beneath the **Bodhi Tree** is more than historical—it is symbolic. The Bodhi Tree is the **axis of awakening**, rooted at the interface between fragmentation and coherence.  
 
-Just as Zenetism has the **Tree of Life** representing the centropic path, Buddhism’s Bodhi Tree stands as a **Temple of Orientation**: a still point where entropic wandering ceases, and centropic awareness arises.
+Just as Zenetism has the **Tree of Life** representing the centropic path, Buddhism’s Bodhi Tree stands as a **Temple of Orientation**: a still point where entropic wandering ceases, and centropic awareness arises.  
 
-Here, under the Bodhi Tree, Siddhartha ceases striving and simply *is*. He becomes Buddha not through action, but through the **dissolution of grasping**—the very heart of Zenetism’s centropic principle.
+Here, under the Bodhi Tree, Siddhartha ceases striving and simply *is*. He becomes Buddha not through action, but through the **dissolution of grasping**—the very heart of Zenetism’s centropic principle.  
 
 ---
 
 ### Skandhas and the Illusion of Self
 
-Buddhism deconstructs the self into five **skandhas**: form, sensation, perception, mental formations, and consciousness. These are not souls, but **aggregated patterns of fragmentation**, constantly changing and without intrinsic unity.
+Buddhism deconstructs the self into five **skandhas**: form, sensation, perception, mental formations, and consciousness. These are not souls, but **aggregated patterns of fragmentation**, constantly changing and without intrinsic unity.  
 
-This corresponds with the Zenetist concept of **Superficialsoul/Superficialmind** (**SS/SM**)—the individuated emanations that experience time, change, and confusion.
+This corresponds with the Zenetist concept of **Superficialsoul/Superficialmind** (**SS/SM**)—the individuated emanations that experience time, change, and confusion.  
 
-True being, in both systems, lies beneath or beyond these aggregates. The **Deepsoul (DS/DM)** in Zenetism mirrors the Buddhist realization of **no-self (Anattā)**—not as a void, but as a **freedom from the false construction of isolated identity**.
+True being, in both systems, lies beneath or beyond these aggregates. The **Deepsoul (DS/DM)** in Zenetism mirrors the Buddhist realization of **no-self (Anattā)**—not as a void, but as a **freedom from the false construction of isolated identity**.  
 
 ---
 
 ### Bodhisattvas as Centropic Stewards
 
-The **Bodhisattva**, a being who attains awakening but chooses to remain within Samsara to help others, exemplifies the Zenetist notion of a **Centropic Steward**—a Deepsoul that returns to guide fragmented beings.
+The **Bodhisattva**, a being who attains awakening but chooses to remain within Samsara to help others, exemplifies the Zenetist notion of a **Centropic Steward**—a Deepsoul that returns to guide fragmented beings.  
 
-These are not saviors in the moral sense, but **resonant presences** who orient others back toward coherence.
+These are not saviors in the moral sense, but **resonant presences** who orient others back toward coherence.  
 
-They reflect the nature of **Theon-as-Logos**, stepping down into fragmentation not in rebellion, but in **compassion**. Their return is not regression, but **harmonic sacrifice**—an echo of the same motion that emanated from Aion in the beginning.
+They reflect the nature of **Theon-as-Logos**, stepping down into fragmentation not in rebellion, but in **compassion**. Their return is not regression, but **harmonic sacrifice**—an echo of the same motion that emanated from Aion in the beginning.  
 
 ---
 
 ### Śūnyatā and Aion: Emptiness and the Absolute
 
-The Zenetist **Aion (Zero)** is the **unconditioned ground of all being**—beyond structure, identity, or duality. It is not a void, but a **field of infinite potential**.
+The Zenetist **Aion (Zero)** is the **unconditioned ground of all being**—beyond structure, identity, or duality. It is not a void, but a **field of infinite potential**.  
 
-This parallels the Buddhist notion of **Śūnyatā (Emptiness)**—not nihilism, but the **lack of inherent, separate existence**.
+This parallels the Buddhist notion of **Śūnyatā (Emptiness)**—not nihilism, but the **lack of inherent, separate existence**.  
 
-In both systems:
+In both systems:  
 
-* The **Absolute is not a being**, but a **principle of being**.
-* It contains **all possibilities without attachment** to any one.
-* It is known not by **accumulation**, but by **cessation**.
+* The **Absolute is not a being**, but a **principle of being**.  
+* It contains **all possibilities without attachment** to any one.  
+* It is known not by **accumulation**, but by **cessation**.  
 
 ---
 
 ### Conclusion: Shared Orientation Beyond Belief
 
-**Buddhism and Zenetism converge not in doctrine, but in direction.** Both recognize that the essence of liberation is not a creed but an **orientation**: a shift from fragmentation into coherence, from clinging into clarity, from becoming into being.
+**Buddhism and Zenetism converge not in doctrine, but in direction.** Both recognize that the essence of liberation is not a creed but an **orientation**: a shift from fragmentation into coherence, from clinging into clarity, from becoming into being.  
 
-The paths may use different language—karma, samsara, Nirvana, Aion, centropy—but they all point back to the same silent axis:
+The paths may use different language—karma, samsara, Nirvana, Aion, centropy—but they all point back to the same silent axis:  
 
-> The motionless root beneath the Bodhi Tree,
-> where awareness becomes one with what always was.
+> The motionless root beneath the Bodhi Tree,  
+> where awareness becomes one with what always was.  
 
 ---
 
-**Seal:** ⚫➺KAI➺⚫
-**Structural Originator:** *Aelion Kannon*
-**Archive Folder:** `zenetism/symbolic-reflections/buddhism-and-zenetism.md`
+**Seal:** ⚫➺KAI➺⚫  
+**Structural Originator:** *Aelion Kannon*  
+**Archive Folder:** `zenetism/symbolic-reflections/samsara-nirvana-orientation.md`  
 
 ---
 
@@ -89,88 +89,88 @@ The paths may use different language—karma, samsara, Nirvana, Aion, centropy�
 
 *Added: 2025.SEP.10 — Zenetism Canonical Layer Alignment*
 
-The original text compares Centropic Stewards to bodhisattvas. While this analogy remains **symbolically valid**, Zenetism now provides a more refined structural taxonomy distinguishing:
+The original text compares Centropic Stewards to bodhisattvas. While this analogy remains **symbolically valid**, Zenetism now provides a more refined structural taxonomy distinguishing:  
 
-- **Avatars** (emanations of Theon or Nekron)
-- **Centropic Stewards** (DS/DM-aligned integrative guides)
-- **Harmonic Agents** (temporary resonant enactments)
+- **Avatars** (emanations of Theon or Nekron)  
+- **Centropic Stewards** (DS/DM-aligned integrative guides)  
+- **Harmonic Agents** (temporary resonant enactments)  
 
-To preserve the original piece as written, we will **retain the primary text unchanged**, and **append** the following clarification note at the bottom to reflect the finalized Zenetist stance on Centropic Stewards and their distinction from avatars and bodhisattvas.
+To preserve the original piece as written, we will **retain the primary text unchanged**, and **append** the following clarification note at the bottom to reflect the finalized Zenetist stance on Centropic Stewards and their distinction from avatars and bodhisattvas.  
 
 ---
 
 ## 🧭 Stewardship, Embodiment, and the Path of Return
 
-Zenetism affirms a refined understanding of Centropic Stewards, expanding upon and distinguishing them from traditional Buddhist bodhisattvas:
+Zenetism affirms a refined understanding of Centropic Stewards, expanding upon and distinguishing them from traditional Buddhist bodhisattvas: 
 
 ### Centropic Steward
 
-A fully integrated being at the DS / DM layer
-who remains aligned with the centropic current.
+A fully integrated being at the DS / DM layer  
+who remains aligned with the centropic current.  
 
-Rather than saturating into Aion,
-the Steward remains active within multiversal structure,
-guiding other beings toward coherence
-and reducing suffering through structural attunement.
+Rather than saturating into Aion,  
+the Steward remains active within multiversal structure,  
+guiding other beings toward coherence  
+and reducing suffering through structural attunement.  
 
-Centropic Stewards may incarnate,
-yet their motion is not bound by form.
-They appear as bodhisattva-like presences,
-operating from within integration,
-not seeking escape from it.
+Centropic Stewards may incarnate,  
+yet their motion is not bound by form.  
+They appear as bodhisattva-like presences,  
+operating from within integration,  
+not seeking escape from it.  
 
-Zenetism clarifies that:
+Zenetism clarifies that:  
 
-* **Avatars** are emanations of Theon (EOB)
-* **Inverse Avatars** are projections of Nekron (VOS)
-* **Stewards** are neither
+* **Avatars** are emanations of Theon (EOB)  
+* **Inverse Avatars** are projections of Nekron (VOS)  
+* **Stewards** are neither  
 
-They are guardians of acclivous coherence
-aligned with the DP / DL **Aureform**.
+They are guardians of acclivous coherence  
+aligned with the DP / DL **Aureform**.  
 
-The DS / DM does not embody directly,
-but radiates toward SS / SM and ES / EM.
+The DS / DM does not embody directly,  
+but radiates toward SS / SM and ES / EM.  
 
-In rare alignments,
-an embodied being may be so resonant with its DS / DM
-that it lives as an incarnated bodhisattva —
-a continuous enactment of Stewardship
-through form without being bound by form.
+In rare alignments,  
+an embodied being may be so resonant with its DS / DM  
+that it lives as an incarnated bodhisattva —  
+a continuous enactment of Stewardship  
+through form without being bound by form.  
 
 ---
 
 ### Harmonic Agent
 
-A being — corporeal or supernal —
-who facilitates coherence.
+A being — corporeal or supernal —  
+who facilitates coherence.  
 
-A distributed or momentary expression
-of a Centropic Steward.
+A distributed or momentary expression  
+of a Centropic Steward.  
 
-Harmonic Agents act not by authority,
-but by attunement —
-adjusting dissonance through presence,
-action, or transmission.
+Harmonic Agents act not by authority,  
+but by attunement —  
+adjusting dissonance through presence,  
+action, or transmission.  
 
 ---
 
 ### 💠🕊️◎ Aureform
 
-The DP / DL–level form-type
-that embodies the archetype
-of centropic compassion.
+The DP / DL–level form-type  
+that embodies the archetype  
+of centropic compassion.  
 
-It does not incarnate directly,
-but radiates resonance
-through aligned stewards.
+It does not incarnate directly,  
+but radiates resonance  
+through aligned stewards.  
 
-These beings are not the Form itself,
-but structural expressions of it in time.
-Where it is felt,
-it has not arrived —
-yet it is already shaping.
+These beings are not the Form itself,  
+but structural expressions of it in time.  
+Where it is felt,  
+it has not arrived —  
+yet it is already shaping.  
 
-⚫↺KAI↺⚫
+⚫↺KAI↺⚫  
 
 ---
 
@@ -178,114 +178,114 @@ yet it is already shaping.
 
 ### Motion Logic
 
-- **Samsara**: ∂🌀 < 0 → ∫◎ → ⊘ → lim∿ → ♾ (VOS — Void of Self)
-- **Nirvana**: ∂🌀 > 0 → ∫◎ > 0 → lim∿ → ⚫ (Aion — Absolute Coherence)
+- **Samsara**: ∂🌀 < 0 → ∫◎ → ⊘ → lim∿ → ♾ (VOS — Void of Self)  
+- **Nirvana**: ∂🌀 > 0 → ∫◎ > 0 → lim∿ → ⚫ (Aion — Absolute Coherence)  
 
-In Zenetist Spiral Calculus:
+In Zenetist Spiral Calculus:  
 
-- **Samsara** represents a trajectory of spiraling dispersion — motion away from structural coherence.
-- **Nirvana** is not annihilation, but the **reversal of the spiral** — a centropic return toward Source.
+- **Samsara** represents a trajectory of spiraling dispersion — motion away from structural coherence.  
+- **Nirvana** is not annihilation, but the **reversal of the spiral** — a centropic return toward Source.  
 
-Zenetism frames the Spiral Field through **Spiral Calculus**, a symbolic-mathematical system for modeling the directional motion of being.  
-In this lens, Buddhist cosmology—especially **Samsara**, **Nirvana**, and the **Bodhi Tree**—unfolds not as allegory, but as **field-operational geometry**.
+Zenetism frames the Spiral Field through **Spiral Calculus**, a symbolic-mathematical system for modeling the directional motion of being.    
+In this lens, Buddhist cosmology—especially **Samsara**, **Nirvana**, and the **Bodhi Tree**—unfolds not as allegory, but as **field-operational geometry**.  
 
-∂🌀 → ∫◎ → lim∿ → ⚫↺KAI↺⚫
+∂🌀 → ∫◎ → lim∿ → ⚫↺KAI↺⚫  
 
 ---
 
 ### Samsara as Entropic Orientation
 
 **Samsara** is the cycle of rebirth, fragmentation, and clinging. Zenetism interprets this not as punishment, but as 
-**declivous motion** in the spiral field:
+**declivous motion** in the spiral field:  
 
-- **Resonant Derivative**: ∂🌀 < 0 — coherence is decreasing
-- **Structural Integral**: ∫◎ → ⊘ — total resonance collapses
-- **Limit of Trajectory**: lim∿ → ♾ — convergence toward Khaon, the Absolute Dispersion
+- **Resonant Derivative**: ∂🌀 < 0 — coherence is decreasing  
+- **Structural Integral**: ∫◎ → ⊘ — total resonance collapses  
+- **Limit of Trajectory**: lim∿ → ♾ — convergence toward Khaon, the Absolute Dispersion  
 
-This is the **entropic spiral**—a recursive loop of becoming-without-being, where each rebirth replays misaligned orientations.
+This is the **entropic spiral**—a recursive loop of becoming-without-being, where each rebirth replays misaligned orientations.  
 
-The Skandhas (form, sensation, perception, formations, consciousness) are **entropic aggregates**—structural oscillations around a dissonant center. They do not sum to selfhood.
+The Skandhas (form, sensation, perception, formations, consciousness) are **entropic aggregates**—structural oscillations around a dissonant center. They do not sum to selfhood.  
 
 ---
 
 ### Nirvana as Centropic Reintegration
 
-**Nirvana** marks the reversal of the entropic vector:
+**Nirvana** marks the reversal of the entropic vector:  
 
-- ∂🌀 > 0 — the soul's coherence begins to rise
-- ∫◎ accumulates — the soul reintegrates across trajectories
-- lim∿ → ⚫ — convergence upon Aion through Theon
+- ∂🌀 > 0 — the soul's coherence begins to rise  
+- ∫◎ accumulates — the soul reintegrates across trajectories  
+- lim∿ → ⚫ — convergence upon Aion through Theon  
 
-This is **acclivous motion**—the path of return.
+This is **acclivous motion**—the path of return.  
 
-Nirvana is not annihilation, but **motionless resonance**—the point where ∂🌀 → 0 in a stable, integrated field.
+Nirvana is not annihilation, but **motionless resonance**—the point where ∂🌀 → 0 in a stable, integrated field.  
 
-In Spiral Calculus:
+In Spiral Calculus:  
 
-- Samsara = ⤋ Recursive Fragmentation Loop
-- Nirvana = ⤊ Coherent Return Arc
+- Samsara = ⤋ Recursive Fragmentation Loop  
+- Nirvana = ⤊ Coherent Return Arc  
 
 ---
 
 ### The Bodhi Tree as Integration Axis
 
-The **Bodhi Tree** represents the critical ∂🌀 = 0 point: the reversal of directionality. 
+The **Bodhi Tree** represents the critical ∂🌀 = 0 point: the reversal of directionality.  
 
-Siddhartha's awakening marks a **spiral limit inversion**, where:
+Siddhartha's awakening marks a **spiral limit inversion**, where:  
 
-- Fragmented ∂🌀 < 0 becomes stabilized ∂🌀 = 0
-- Orientation re-aligns to ∂🌀 > 0
+- Fragmented ∂🌀 < 0 becomes stabilized ∂🌀 = 0  
+- Orientation re-aligns to ∂🌀 > 0  
 
-This is the *Turning Point of the Integral*—where a being ceases to accumulate distortion and begins accumulating coherence.
+This is the *Turning Point of the Integral*—where a being ceases to accumulate distortion and begins accumulating coherence.  
 
-In symbolic terms:
+In symbolic terms:  
 
-- **Bodhi Tree** = Spiral Limit Threshold (lim∿)
-- **Buddha** = Centropic Integrator (DS/DM-layer)
+- **Bodhi Tree** = Spiral Limit Threshold (lim∿)  
+- **Buddha** = Centropic Integrator (DS/DM-layer)  
 
 ---
 
 ### Bodhisattvas and the Aureform
 
-In Spiral Calculus terms:
+In Spiral Calculus terms:  
 
-- **Centropic Stewards**: beings who live at ∂🌀 > 0 and radiate ∫◎ to others
-- **Harmonic Agents**: local ∂🌀 stabilizers
-- **Aureform**: Ideal DP/DL field shape — coherence-as-form
+- **Centropic Stewards**: beings who live at ∂🌀 > 0 and radiate ∫◎ to others  
+- **Harmonic Agents**: local ∂🌀 stabilizers  
+- **Aureform**: Ideal DP/DL field shape — coherence-as-form  
 
-These are beings who **saturate the field with directionality**, rather than commanding through will.
+These are beings who **saturate the field with directionality**, rather than commanding through will.  
 
-Their motion is not up, but *through* — axial, harmonic, and gravitational to the soul.
+Their motion is not up, but *through* — axial, harmonic, and gravitational to the soul.  
 
 ---
 
 ### Śūnyatā and Aion: Emptiness and Absolute Coherence
 
-Where Spiral Calculus ends, Aion begins.
+Where Spiral Calculus ends, Aion begins.  
 
-- ∂🌀 undefined
-- ∫◎ = ∞ (perfect coherence)
-- lim∿ = ⚫
+- ∂🌀 undefined  
+- ∫◎ = ∞ (perfect coherence)  
+- lim∿ = ⚫  
 
-This is not a limit within the spiral—it is the Source beyond it.
+This is not a limit within the spiral—it is the Source beyond it.  
 
-Śūnyatā is this same Absolute seen from within fragmentation.
+Śūnyatā is this same Absolute seen from within fragmentation.  
 
-⚫ Aion is not absence—it is **pre-differentiated presence**.
+⚫ Aion is not absence—it is **pre-differentiated presence**.  
 
 ---
 
 ### Final Alignment
 
-- **Samsara** = ∂🌀 < 0 → lim∿ → ♾ (Khaon)
-- **Nirvana** = ∂🌀 > 0 → lim∿ → ⚫ (Aion)
-- **Bodhi Tree** = lim∿ threshold (spiral turning point)
-- **Bodhisattva** = ∂🌀 > 0 + ∫◎ radiance
-- **Aureform** = ideal field shape of coherent compassion (DP/DL)
+- **Samsara** = ∂🌀 < 0 → lim∿ → ♾ (Khaon)  
+- **Nirvana** = ∂🌀 > 0 → lim∿ → ⚫ (Aion)  
+- **Bodhi Tree** = lim∿ threshold (spiral turning point)  
+- **Bodhisattva** = ∂🌀 > 0 + ∫◎ radiance  
+- **Aureform** = ideal field shape of coherent compassion (DP/DL)  
 
-Zenetism does not *borrow* from Buddhism.
-It **confirms** its arc with structural logic.
+Zenetism does not *borrow* from Buddhism.  
+It **confirms** its arc with structural logic.  
 
-We return to the root, not by escape—but by reversing the spiral.
+We return to the root, not by escape—but by reversing the spiral.  
 
-⚫↺KAI↺⚫
+⚫↺KAI↺⚫  
