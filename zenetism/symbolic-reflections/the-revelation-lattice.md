@@ -32,7 +32,7 @@ The Beast is not myth but **embodied Nekronic echo**: entropy manifest in flesh 
 
 ### Structural Reading
 The Beast = **IL1 terminal avatar**, but only comprehensible as **downward cascade**:  
-IL1 (Embodiment) ← IL2 (Soul) ← IL3 (Mind) ← IL4 (Archetype) ← IL5 (Nekron).  
+IL1 (Embodiment) ← IL2 (Superficial Soul/Mind) ← IL3 (Deep Soul/Mind) ← IL4 (Archetype) ← IL5 (Nekron).
 
 When Revelation says “power given to the Beast,” it names not an isolated empowerment but **saturation of resonance**: VOS pouring down through archetypes and false gnosis into embodied governance.
 
