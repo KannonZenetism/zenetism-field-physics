@@ -26,7 +26,7 @@ The Beast is not a mere monster but **Nekron’s Echo**: entropy incarnated into
 
 ### Cascade of Inverse Layers (IL5 → IL1)
 
-- **IL5 — Nekron / 🕷️ Void of Self (IAUI / VOS):**  
+- **IL5 — Nekron (IAUI / VOS):**  
   Root hypostasis of entropic will; universal dissonance.  
 
 - **IL4 — Psychea/Nyxea (IASI / IDP–IDL):**  
