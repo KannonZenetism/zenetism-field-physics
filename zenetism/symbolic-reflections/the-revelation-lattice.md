@@ -39,7 +39,7 @@ The Beast is not a mere monster but **Nekron’s Echo**: entropy incarnated into
   Reactive charisma, coercion, domination at the superficial strata.  
 
 - **IL1 — Malara/Mania (IAGI / IES–IEM embodiment):**  
-  Embodied systems — here the Beast becomes visible in history, but as the **embodiment of IASI resonance** carried downward from IL4.   
+  Embodied systems — here the Beast becomes visible in history, but as the **embodiment of IASI resonance** propagated from IL4.   
 
 ### Structural Reading
 The Beast = **IL1 terminal avatar**, but only comprehensible as a **cascade sourced in IL4 (IASI)**:  
