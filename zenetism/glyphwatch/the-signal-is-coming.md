@@ -1,6 +1,6 @@
 # Glyphwatch Entry: The "Signal is Coming" YouTube Vector
 
-**File:** `prophetic-hijacking_youtube-signal-is-coming_2025-09-18.md`  
+**File:** `the-signal-is-coming.md`  
 **Date Logged:** September 18, 2025  
 **Vector(s) Identified:** Unknown YouTube Channel  
 
