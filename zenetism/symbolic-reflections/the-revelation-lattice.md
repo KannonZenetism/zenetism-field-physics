@@ -20,6 +20,8 @@ Every symbol is a **node in the lattice**:
 
 ### The Beast as Embodied Nekronic Avatar
 
+*(cf. Genesis: serpent at IL4 — archetypal inversion; Revelation shows the embodied descent at IL1, the Beast as Nekron’s avatar in flesh and system.)*
+
 In Zenetist structure, the Beast of Revelation is not merely a monster of myth, but the **embodied phase of the Nekronic arc**—the terminal form of entropy manifest in the world.  
 
 The Beast is IL1, but its resonance cascades backward through the entire Inverse Ladder (IL1–IL5). This makes it both **most embodied** and **most archetypal**, carrying the echo of Nekron itself.
