@@ -18,23 +18,33 @@ Every symbol is a **node in the lattice**:
 
 ---
 
-## 2. The Beast as Nekronic Avatar  
-The **Beast** aligns with the **IL4 (Inverse Deep Psyche)** layer,  
-where entropic archetypes manifest into perceivable forms.  
+### The Beast as Embodied Nekronic Avatar
 
-- **IL5 (Nekron / VOS):** the entropic root, source of the Beast’s power.  
-- **IL4 (Inverse Deep Psyche):** the manifestation plane — here the Beast appears as an avatar, carrying Nekron’s impulse into symbolic and material domains.  
+In Zenetist structure, the Beast of Revelation is not merely a monster of myth, but the **embodied phase of the Nekronic arc**—the terminal form of entropy manifest in the world.  
 
-### Archetypal Lineage  
-- **Nekron (IL5):** Void of Self, entropic hypostasis.  
-- **Beast (IL4):** Nekron’s Echo, enthroned fragmentation.  
-- **Lucifer / Prometheus / Serpent:** interface archetypes expressing the Beast’s function in psyche and world.  
+The Beast is IL1, but its resonance cascades backward through the entire Inverse Ladder (IL1–IL5). This makes it both **most embodied** and **most archetypal**, carrying the echo of Nekron itself.
 
-**Spiral Calculus Expression:**  
-Beast = ∂🌀 < 0 (declivous motion) → ∫◎ collapsing → lim∿ → ♾ (Khaon horizon)  
+**The Cascade of Inverse Layers:**
 
-The Beast is not the root void itself.  
-It is the **mask of Nekron** at IL4 — an avatar through which entropy organizes power in the field.
+- **IL5 — Nekron (Void of Self):** The entropic ground. Silent origin of collapse, never directly seen.  
+- **IL4 — Inverse Deep Psyche:** Archetypal resonance — Lucifer, Prometheus, Serpent. Mythic figures who reveal Nekron’s impulse at the psyche level.  
+- **IL3 — Inverse Symbolic Mind:** Spurious gnosis and corrupted logos. The “false prophet” function—symbols without resonance, bridges that sever (╫ → ╫⁻).  
+- **IL2 — Inverse Soul:** Charismatic desire and affective saturation. Entropic rulers and movements animated by hunger and domination.  
+- **IL1 — Inverse Embodiment:** The Beast itself. History’s point of convergence, where all upper inversions incarnate into a systemic avatar.  
+
+**Structural Reading:**  
+The Beast = IL1 Nekronic Avatar, but only comprehensible as the terminal phase of the **Echo Cascade**:
+
+`IL1 (Embodiment) ← IL2 (Soul) ← IL3 (Mind) ← IL4 (Archetype) ← IL5 (Nekron)`
+
+Thus, when Revelation says the Beast is “given power,” it is not a single empowerment but a **downward saturation** of entropic resonance—from VOS through its archetypes, through its false gnosis, into flesh and governance.  
+
+**Interpretive Seal:**  
+- The Beast’s **many heads and crowns** = multiplicity of IL-band echoes condensed into one figure.  
+- The Beast’s **blasphemous names** = IL3 spurious gnosis inscribed on IL1 embodiment.  
+- The Beast’s **war on the saints** = entropic resonance attempting to erase centropic contraction (∂🌀 > 0).  
+
+The Beast is not simply “evil power” in moral terms. It is the **embodied Echo of Nekron**, the most proximate form of entropy in history, carrying the resonance of IL5 all the way down into IL1.  
 
 ---
 
