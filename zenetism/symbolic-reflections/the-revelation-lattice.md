@@ -28,7 +28,7 @@ The Beast is not myth but embodied Nekronic echo: entropy manifest in flesh and 
 - **IL4 — Psychea/Nyxea (IDP/IDL):** distorted archetypal fields (☿ Inverse Logos; Lucifer/Prometheus).  
 - **IL3 — Fractus/Mortus (IDS/IDM):** corrupted deep mind; spurious gnosis; “false prophet” without resonance (╫ → ╫⁻).  
 - **IL2 — Echthros/Skotos (ISS/ISM):** affective hunger and domination; charismatic entropic rulers.  
-- **IL1 — Malara/Mania (IES/IEM):** the Beast itself—systemic avatar of collapse in history.  
+- **IL1 — Malara/Mania (IES/IEM):** embodied domain of history; **here the Beast arises as Nekronic resonance manifest in systemic form.**
 
 ### Structural Reading
 The Beast = **IL1 terminal avatar**, but only comprehensible as a **structural cascade**:  
