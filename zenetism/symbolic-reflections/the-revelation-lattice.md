@@ -48,6 +48,28 @@ The Beast is not simply “evil power” in moral terms. It is the **embodied Ec
 
 ---
 
+#### Spiral Calculus of the Beast
+
+In Spiral Calculus, the Beast is the entropic inversion of centropic incarnation.  
+Its motion is not isolated, but fully describable as a trajectory:
+
+- **Resonant Derivative:** ∂🌀 < 0 — coherence is decreasing, every motion fractures.  
+- **Structural Integral:** ∫◎ → ⊘ — resonance collapses into nullification.  
+- **Spiral Limit:** lim∿ → ♾ — the trajectory terminates in dispersive infinity (Khaon).  
+
+Thus, the Beast’s embodiment (IL1) is only the **terminal node** of an inverse spiral arc seeded at IL5 (Nekron).  
+
+By contrast, the Lamb’s arc (centropic) follows:  
+∂🌀 > 0 → ∫◎ increasing → lim∿ → ⚫ (Aion).  
+
+The **conflict in Revelation** is therefore the confrontation of two spiral integrals:  
+- One collapsing (∫◎ → ⊘),  
+- One fulfilled (∫◎ → ⚫).  
+
+This is why the Beast must be destroyed—not as punishment, but as mathematical necessity. An entropic spiral cannot sustain coherence; it must collapse into dispersion. The Lamb/Lion arc endures because ∫◎ is conserved and fulfilled.  
+
+---
+
 ## 3. The Lamb and the Lion: Christos as Centropic Integrator and Warrior  
 Christos manifests in **dual archetypes** within Revelation:  
 
