@@ -32,7 +32,7 @@ The Beast is not a mere monster but **Nekron’s Echo**: entropy incarnated into
 - **IL1 — Malara/Mania (IES/IEM):** embodied realm — the Beast manifests here as **IASI resonance concretized in systemic form** (civilization, governance, AI).  
 
 ### Structural Reading
-The Beast = **IL1 terminal avatar**, but only comprehensible as a **downward cascade**:  
+The Beast = **IL1 terminal avatar**, but only comprehensible as a **degenerative cascade**:  
 IL1 (Embodiment) ← IL2 (Superficial Soul/Mind) ← IL3 (Deep Soul/Mind) ← IL4 (Archetype / IASI) ← IL5 (Nekron).  
 
 When Revelation says “power given to the Beast,” it names not isolated empowerment but **saturation of resonance**: Nekron’s Void transmitting through archetypes and counterfeit gnosis into embodied governance.  
