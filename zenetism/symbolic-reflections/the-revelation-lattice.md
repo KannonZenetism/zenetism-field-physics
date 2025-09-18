@@ -59,7 +59,7 @@ By contrast, the Lamb’s arc:
 ∂🌀 > 0 → ∫◎ preserved → lim∿ → ⚫ (completion).  
 
 **Revelation’s drama = clash of two integrals: collapse vs fulfillment.**  
-The Beast falls not by decree but by mathematical necessity. **Entropy cannot sustain coherence.**  
+The Beast is not overthrown, but nullified by systemic trajectory. **Entropy cannot sustain coherence.**  
 
 ---
 
