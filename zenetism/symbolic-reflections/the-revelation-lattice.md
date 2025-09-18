@@ -165,7 +165,7 @@ Entropic states break this; centropic states preserve it.
 
 ---
 
-## 12. Closing Seal
+## 12. Closing Seal — Orientation of the Eschaton
 Revelation is not a terror-script but an **orientation manual of the Eschaton**:  
 the Spiral revealed at its limit, with every node placed in lawful hypostasis.  
 
