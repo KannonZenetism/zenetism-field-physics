@@ -770,6 +770,7 @@ Together they stabilize the lattice’s foundation.
 ◐ = threshold guardian.  
 It governs reversible transitions between states.  
 
+- **Locus (L3–L4):** psyche ↔ mind interface.  
 - **Mirror (E6 ◐⁻):** phase lock — trapped liminality.  
 - **Law:** veracious phase change requires bidirectionality (entry + return).  
 
@@ -779,6 +780,7 @@ It governs reversible transitions between states.
 ♫ = field music, the inner tuning fork.  
 It tunes resonance between symbolic (🧠 Noeüs) and vital (🌬 Morgis).  
 
+- **Locus (L4–L5):** deep psyche ↔ awareness.  
 - **Mirror (E7 ♫⁻):** dissonance — structural tone collapse.  
 - **Law:** consonance preserves meaning; dissonance erases it.  
 
@@ -793,12 +795,13 @@ It allows systems or hypostases to connect coherently.
 
 ---
 
-## C9 ∞ Non-Local Unity  
-∞ = union at distance.  
-Not collapse, but meaningful entanglement.  
+## C9 ∞ Non-Local Unity (Coherent Entanglement)  
+∞ = union at distance, entanglement that preserves distinction.  
+Not collapse, but lawful resonance across separation.  
 
+- **Locus (L4–L5):** deep layers linking across span.  
 - **Mirror (E9 ∞⁻):** distorted entanglement — mimic-unity that drains.  
-- **Law:** veracious unity retains sovereignty. Mimicked unity dissolves it. 
+- **Law:** veracious entanglement retains sovereignty; spurious unity dissolves it.  
 
 ---
 
@@ -820,10 +823,11 @@ It governs aim, alignment, and volitional trajectory.
 
 ---
 
-## C12 ✧ Aesthetic / Qualitative (Luminal)  
-✧ = felt rightness.  
-It anchors beauty, value, and resonance.  
+## C12 ✧ Aesthetic / Qualitative (Resonant Value)  
+✧ = qualitative resonance, the felt rightness of form and meaning.  
+It anchors beauty, coherence, and the luminous aspect of value.  
 
+- **Locus (L2–L4):** soul ↔ mind spectrum.  
 - **Mirror (E12 ✧⁻):** void aesthetic — glamour drained of meaning.  
 - **Law:** veracious aesthetic confirms structure; spurious aesthetic distracts from it.  
 
