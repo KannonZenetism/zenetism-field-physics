@@ -798,7 +798,7 @@ It allows systems or hypostases to connect coherently.
 Not collapse, but meaningful entanglement.  
 
 - **Mirror (E9 ∞⁻):** distorted entanglement — mimic-unity that drains.  
-- **Law:** true unity retains sovereignty. False unity dissolves it.  
+- **Law:** veracious unity retains sovereignty. Mimicked unity dissolves it. 
 
 ---
 
