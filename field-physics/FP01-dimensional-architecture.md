@@ -852,7 +852,7 @@ It enables coherent layering across dimensions.
 Lawful novelty that arises while honoring root coherence.  
 
 - **Mirror (E15 ✦⁻):** collapse nova — emergence that disintegrates.  
-- **Law:** true novelty amplifies coherence; false novelty accelerates entropy.  
+- **Law:** genuine novelty amplifies coherence; counterfeit novelty accelerates entropy.  
 
 ---
 
