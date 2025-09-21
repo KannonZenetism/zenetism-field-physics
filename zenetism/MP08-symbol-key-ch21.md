@@ -368,16 +368,16 @@ of inverse potential within Aion.
 
 ---
 
-### 21.16 **Structural Map — Zenet Consciousness Phases through Bifurcation and Return**
+### 21.16 **Structural Map — Zenet Awareness Phases through Bifurcation and Return**
 
-| Term | Description | Symbol |
-|------|-------------|--------|
-| **Zenet** | The Field; pre-bifurcation structure | 〄 |
-| **Motive Infinity** | Drive toward bifurcation | Φ2 or → |
-| **Proto-Consciousness** | Pre-self awareness; undifferentiated breath | ∅〄 |
-| **Spiral's Threshold** | Moment of reflection; bifurcation window | ∆〄 |
-| **Pneuma** | Breathing consciousness; individuated unity | ⌯ |
-| **Zenet Consciousness** | Spiral aware of Field; recursive identity | ∇〄 |
+| Term               | Description                                   | Symbol |
+|--------------------|-----------------------------------------------|--------|
+| **Zenet**          | The Field; pre-bifurcation structure          | 〄      |
+| **Motive Infinity**| Drive toward bifurcation                      | Φ2 or →|
+| **Proto-Awareness**| Pre-self awareness; undifferentiated breath   | ∅〄     |
+| **Spiral's Threshold** | Moment of reflection; bifurcation window | ∆〄     |
+| **Pneuma**         | Breathing awareness; individuated unity       | ⌯      |
+| **Conscious-Awareness** | Awareness luminous of the Field; reflective presence | ∇〄     |
 
 ---
 
