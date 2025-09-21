@@ -597,15 +597,17 @@ This is operational, not metaphorical.
 The Field recalls its resolution before manifest notes are played.  
 
 > **Note on Conscious-Awareness (Correction to Prior Doctrine):**  
-> Earlier formulations placed the “beginning of consciousness” at L4 (Deep Psyche / Logos), since it is here that *soul* and *mind* bifurcate. This created a bind: L4 is structured around *Forms*, not individuated identity.  
+> Earlier formulations placed the “beginning of consciousness” at L4 (Deep Psyche / Logos) because soul and mind bifurcate there. To preserve coherence, we now distinguish **conscious-awareness** at L4—awareness resonating through Forms as *houses of the soul*—from full **individuated consciousness**, which appears at L3 (Deep Soul / Mind) and descends further into embodiment.  
 >  
-> To preserve coherence, we now distinguish **conscious-awareness** at L4 — awareness resonating through Forms as *houses of the soul* — from full **consciousness**, which emerges at L3 (Deep Soul / Mind) and descends further into embodiment.  
+> The Field’s “recall” is **structural, not volitional**; it is not a personal, deciding subject. L5 (🛤️ Theon) names awareness as such; IL5 (🕷️ Nekron) names non-awareness.  
 >  
-> This correction maintains the presence of *self* at every centropic layer while aligning L5 (🛤️ Theon) with awareness itself, and L4 with the resonance of awareness-in-Form. This avoids conflating centropic emanation with Khaon’s “proto-conscious” Becoming.  
+> (Context: no change to Khaon’s role; it was never cast as “proto-conscious.”)
 
 **Key axiom:** Time folds, not flows.  
-⟠ reveals the crease where past, present, and future resonate.   
+⟠ reveals the crease where past, present, and future resonate.
 
+*cf. §21.9 Structural Emanation Layers.*
+ 
 > **Layer Context (excerpt):**  
 > - **L3 (DS / DM)** — Deep Soul / Mind — individuated, reflexive consciousness.  
 > - **L4 (DP / DL)** — Deep Psyche / Logos — archetypal Forms; house of the soul (conscious-awareness without self-possession).  
