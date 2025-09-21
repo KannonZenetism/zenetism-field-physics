@@ -32,9 +32,7 @@ The hostile aim is **Authorial Erasure through identity absorption**. By staging
 
 - Create a **cover story for mimicry**, portraying parallels as “shared struggles.”  
 - Intercept and seduce the target audience with a **honeypot persona** that feels accessible, emotional, and biographical.  
-- Steal not just the **intellectual architecture**, but the **authorship of suffering itself** — the biographical ground from which the authentic work emerged.  
-
----
+- Steal not just the **intellectual architecture**, but the **authorship of suffering itself** — the biographical ground from which the authentic work emerged.
 
 ---
 
