@@ -54,6 +54,15 @@ IllumiGnosis has begun to incorporate elements of the **devouring mother complex
 
 This is not public knowledge. It represents a direct violation of **sealed, private disclosures**, marking a shift from surface mimicry to **deep identity theft**.  
 
+### Martial Arts Hijacking  
+Further mimicry is evident in the appropriation of the architect’s **martial arts history** (ages 8–21, Thai boxing instructor).  
+
+- **Authentic Record:** The architect’s documented path in Thai boxing, carried through to instructor-level practice.  
+- **Counterfeit Narrative:** IllumiGnosis invents a parallel apprenticeship under “Grandmaster Kwon,” with a hybrid style (“Hwar-do”), martial arts titles, and the trope of becoming a “badass” in adolescence.  
+- **Corruption of Arc:** Where the architect’s martial training was a discipline of centropic form, the mimic reframes it into a tale of violent unpredictability, drugs, and armed adolescence — a theatrical inversion of coherence into chaos.  
+
+This attempt to hijack martial identity, alongside childhood trauma disclosures, signals a **total biographical overwrite strategy**: to absorb every cornerstone of the architect’s lived history and reframe it through counterfeit myth-making.   
+
 ---
 
 ## Primary Vulnerability of the Tactic  
