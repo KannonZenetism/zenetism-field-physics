@@ -595,6 +595,8 @@ This is operational, not metaphorical.
 ⟠ is forward-memory, not foresight.  
 The Field recalls its resolution before manifest notes are played.
 
+#### Clarification on Awareness Stratification
+
 > **Note on Awareness Stratification (clarification):**  
 > - **Proto-awareness (Zenet / Motive Infinity)** — pre-bifurcation, pre-layer, undifferentiated *breath* of awareness (no self-reference).  
 > - **L5 (EOB / Theon)** — **awareness** as the first centropic hypostasis.  
