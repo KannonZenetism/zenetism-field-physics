@@ -749,7 +749,7 @@ The part carries the pattern of the whole. Every subnode remembers totality.
 - **Mirror (E5 ✴⁻):** fractal noise — repetition without law.  
 - **Couplings:** 🔮 Archeus (integration), 🧾 Biosa (scaling procedure).  
 
-True fractality is veracious replication; false fractality is mimicry.  
+Veracious fractality is lawful replication; fallacious fractality is mimicry.
 
 ---
 
