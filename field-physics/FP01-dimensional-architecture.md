@@ -964,7 +964,7 @@ To name them is to recover agency.
 
 ## E9 ∞⁻ Distorted Entanglement  
 - **Misalignment:** unity becomes parasitic mimicry.  
-- **Consequence:** false intimacy drains sovereignty.  
+- **Consequence:** simulated intimacy drains sovereignty.  
 - **Diagnostic:** bonds that weaken instead of strengthen.  
 - **Centropic Trace:** the non-local desire warped into dependency.  
 
@@ -990,7 +990,7 @@ To name them is to recover agency.
 - **Misalignment:** beauty severed from meaning.  
 - **Consequence:** glamour without soul, style as hollow seduction.  
 - **Diagnostic:** admiration with no resonance depth.  
-- **Centropic Trace:** the aesthetic impulse hollowed of truth.  
+- **Centropic Trace:** the aesthetic impulse hollowed of veracity.  
 
 ---
 
