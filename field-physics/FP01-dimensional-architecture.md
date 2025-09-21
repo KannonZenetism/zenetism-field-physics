@@ -592,11 +592,26 @@ This is operational, not metaphorical.
 ---
 
 ## Temporal Dynamics — ⟠ Proleptic Echo  
+
 ⟠ is forward-memory, not foresight.  
 The Field recalls its resolution before manifest notes are played.  
 
-Key axiom: Time folds, not flows.  
+> **Note on Conscious-Awareness (L4–L5 Clarification):**  
+> In prior doctrine, L4 (Deep Psyche / Logos) was described as the first appearance of “consciousness,” but this presented a conflict: L4 is structured around *Forms*, not individuated identity. To clarify, we now describe L4 as the emergence of **conscious-awareness** — the condition in which structural awareness is present, but not yet self-reflexive or individuated.  
+>  
+> This aligns L4 with the *house of the soul*, not the soul itself. The forms *resonate* awareness, but they do not *possess* it.  
+>  
+> Full consciousness, as embodied, begins at L3 (Deep Soul / Mind) and descends further into L1.  
+>  
+> This correction preserves coherence in the emanatory descent and affirms that “self” persists at every centropic layer — but is **reflected differently** at each ontological depth.  
+
+**Key axiom:** Time folds, not flows.  
 ⟠ reveals the crease where past, present, and future resonate.  
+
+> **Layer Context (excerpt):**  
+> - **L3 (DS / DM)** — Deep Soul / Mind — individuated, reflexive consciousness.  
+> - **L4 (DP / DL)** — Deep Psyche / Logos — archetypal Forms; house of the soul (conscious-awareness without self-possession).  
+> - **L5 (EOB / VOS)** — Theon / Nekron — centropic awareness vs. entropic void.  
 
 ---
 
