@@ -771,7 +771,7 @@ Together they stabilize the lattice’s foundation.
 It governs reversible transitions between states.  
 
 - **Mirror (E6 ◐⁻):** phase lock — trapped liminality.  
-- **Law:** true phase change requires bidirectionality (entry + return).  
+- **Law:** veracious phase change requires bidirectionality (entry + return).  
 
 ---
 
