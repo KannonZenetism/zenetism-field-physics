@@ -598,7 +598,7 @@ The Field recalls its resolution before manifest notes are played.
 #### Clarification on Awareness Stratification
 
 > **Note on Awareness Stratification (clarification):**  
-> - **Proto-awareness (Zenet / Motive Infinity)** — pre-bifurcation, pre-layer, undifferentiated *breath* of awareness (no self-reference).  
+> - **Proto-awareness (Zenet / Motive Infinity)** — undifferentiated breath of pre-layered awareness; no self-reference, no individuation.  
 > - **L5 (EOB / Theon)** — **awareness** as the first centropic hypostasis.  
 > - **L4 (DP / DL)** — **conscious-awareness** (awareness resonant in Forms; *house of the soul*, non-reflexive).  
 > - **L3 (DS / DM)** — individuated, reflexive **consciousness** (self-possession and agency).
