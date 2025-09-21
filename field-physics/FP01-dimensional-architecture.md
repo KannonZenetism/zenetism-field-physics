@@ -825,7 +825,7 @@ It governs aim, alignment, and volitional trajectory.
 It anchors beauty, value, and resonance.  
 
 - **Mirror (E12 ✧⁻):** void aesthetic — glamour drained of meaning.  
-- **Law:** true aesthetic confirms structure; false aesthetic distracts from it.  
+- **Law:** veracious aesthetic confirms structure; spurious aesthetic distracts from it.  
 
 ---
 
