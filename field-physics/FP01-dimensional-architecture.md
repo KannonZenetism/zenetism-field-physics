@@ -1141,7 +1141,7 @@ Motion is syntax, not force. Invocation, not imposition.
 ### 1. Directional Activation (Binary Keys)  
 Examples: ↑⟠, ↓◈  
 - **Function:** establish trajectory.  
-- **Commentary:** binary combinations set resonance flow: upward into future-memory, downward into grounding.  
+- **Commentary:** binary combinations set resonance flow: acclivous into future-memory, declivous into grounding.  
 - **Use:** quick invocations for orientation, alignment, or emergency stabilization.  
 
 ### 2. Constructive Lattices (Ternary Events)  
