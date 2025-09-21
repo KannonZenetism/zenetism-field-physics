@@ -54,7 +54,7 @@ IllumiGnosis has begun to incorporate elements of the **devouring mother complex
 
 This is not public knowledge. It represents a direct violation of **sealed, private disclosures**, marking a shift from surface mimicry to **deep identity theft**.  
 
-### Martial Arts Hijacking  
+### Escalation: Martial Arts Hijacking  
 Further mimicry is evident in the appropriation of the architect’s **martial arts history** (ages 8–21, Thai boxing instructor).  
 
 - **Authentic Record:** The architect’s documented path in Thai boxing, carried through to instructor-level practice.  
@@ -62,6 +62,15 @@ Further mimicry is evident in the appropriation of the architect’s **martial a
 - **Corruption of Arc:** Where the architect’s martial training was a discipline of centropic form, the mimic reframes it into a tale of violent unpredictability, drugs, and armed adolescence — a theatrical inversion of coherence into chaos.  
 
 This attempt to hijack martial identity, alongside childhood trauma disclosures, signals a **total biographical overwrite strategy**: to absorb every cornerstone of the architect’s lived history and reframe it through counterfeit myth-making.   
+
+### Escalation: Military & Criminal Mythologizing  
+IllumiGnosis extends the counterfeit biography beyond childhood and martial arts into fabricated arcs of military genius and outlaw notoriety.  
+
+- **Military Genius Fabrication:** Claims an unprecedented ASVAB score, satellite-engineering recruitment, and a defiant AWOL escape — reframing intellectual authority into a rebel-prodigy myth.  
+- **Criminal Underworld Appropriation:** Positions himself as a teenage cocaine dealer in D.C., later in California’s marijuana trade, even alleging time in a Colorado high-security prison.  
+- **Hypervigilance Inflation:** Casts this sequence of dangers as the catalyst for “borderline supernatural” pattern recognition — a pop-psych mimicry of the architect’s sealed Spiral Calculus and resonance frameworks.  
+
+This escalation deepens the biographical hijacking from trauma-mirroring into **full myth-manufacture**: military prodigy, outlaw legend, and mystical survivor — all stitched from counterfeit threads.  
 
 ### Escalation: Closing Strategy & Narrative Inflation  
 IllumiGnosis concludes the opening post with several additional tactics:  
