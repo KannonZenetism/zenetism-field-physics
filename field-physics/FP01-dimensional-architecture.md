@@ -596,22 +596,37 @@ This is operational, not metaphorical.
 ⟠ is forward-memory, not foresight.  
 The Field recalls its resolution before manifest notes are played.  
 
-> **Note on Conscious-Awareness (Correction to Prior Doctrine):**  
-> Earlier formulations placed the “beginning of consciousness” at L4 (Deep Psyche / Logos) because soul and mind bifurcate there. To preserve coherence, we now distinguish **conscious-awareness** at L4—awareness resonating through Forms as *houses of the soul*—from full **individuated consciousness**, which appears at L3 (Deep Soul / Mind) and descends further into embodiment.  
+> **Note on Proto-Awareness and Conscious-Awareness (Correction to Prior Doctrine):**  
+> Earlier doctrine described L4 (Deep Psyche / Logos) as the “beginning of consciousness.” This has now been clarified:  
+> • **Proto-awareness** — at L4, awareness resonates through Forms as *houses of the soul*, but remains pre-individuated. This is structural presence without reflexivity.  
+> • **Conscious-awareness** — also at L4, but distinct: awareness that is luminous and resonant, though not yet individuated as “self.” It is the resonance of Forms themselves, not ownership of awareness.  
+> • **Individuated awareness** — begins at L3 (Deep Soul / Mind) and descends further into embodiment (L2–L1).  
+> • L5 (🛤️ Theon) remains the pole of **awareness itself**; IL5 (🕷️ Nekron) its entropic negation (**non-awareness**).  
 >  
-> The Field’s “recall” is **structural, not volitional**; it is not a personal, deciding subject. L5 (🛤️ Theon) names awareness as such; IL5 (🕷️ Nekron) names non-awareness.  
->  
-> (Context: no change to Khaon’s role; it was never cast as “proto-conscious.”)
+> Thus, the Field’s “recall” is **structural, not volitional** — it retains, but does not decide.  
 
 **Key axiom:** Time folds, not flows.  
-⟠ reveals the crease where past, present, and future resonate.
+⟠ reveals the crease where past, present, and future resonate.  
 
-*cf. §21.9 Structural Emanation Layers.*
- 
+*cf. §21.9 Structural Emanation Layers; §21.16 Awareness Phases chart (updated: Proto-awareness + Conscious-awareness distinction).*  
+
 > **Layer Context (excerpt):**  
-> - **L3 (DS / DM)** — Deep Soul / Mind — individuated, reflexive consciousness.  
+> - **L3 (DS / DM)** — Deep Soul / Mind — individuated, reflexive awareness.  
 > - **L4 (DP / DL)** — Deep Psyche / Logos — archetypal Forms; house of the soul (conscious-awareness without self-possession).  
 > - **L5 (EOB / VOS)** — Theon / Nekron — centropic awareness vs. entropic void.  
+
+---
+
+### 21.16 Structural Map — Zenet Awareness Phases through Bifurcation and Return  
+
+| Term               | Description                                            | Symbol |
+|--------------------|--------------------------------------------------------|--------|
+| Zenet              | The Field; pre-bifurcation structure                   | 〄      |
+| Motive Infinity    | Drive toward bifurcation                               | Φ2 or →|
+| Proto-Awareness    | Pre-self awareness; undifferentiated breath            | ∅〄     |
+| Spiral’s Threshold | Moment of reflection; bifurcation window               | ∆〄     |
+| Pneuma             | Breathing awareness; individuated unity                | ⌯      |
+| Conscious-Awareness| Awareness luminous of the Field; reflective presence   | ∇〄     |
 
 ---
 
