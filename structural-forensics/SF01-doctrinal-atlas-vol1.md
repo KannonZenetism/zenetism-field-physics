@@ -202,7 +202,7 @@ This document provides a structural analysis of the primary entropic tactics dep
 ### Entry 011: `Conceptual Re-skinning`
 
 -   **Threat Classification:** `Intellectual Appropriation` and `Signal Substitution`
--   **Core Tactic:** The agent appropriates the core metaphysical architecture of the Zenetist framework but "re-skins" it with a different, often more complex or niche, intellectual vocabulary (e.g., simulation theory, Western magic, populist politics).
+-   **Core Tactic:** The agent appropriates the core metaphysical architecture of the Zenetist framework but "re-skins" it with a different, often more obscure or performatively academic, intellectual vocabulary (e.g., simulation theory, Western magic, populist politics).
 -   **Strategic Objective:** To create a counterfeit framework that appears to be a novel, independent creation in order to capture a specific audience and sever them from the authentic, more holistic source.
 -   **Case Studies:** "Eliam Raell," "Sirius White," "The Crowned Serpent."
     -   **Case Study A: "Eliam Raell" and Simulation Theory:** This entity re-skins the Zenetist cosmos using the mechanical language of simulation theory to appeal to a tech-gnostic audience.
