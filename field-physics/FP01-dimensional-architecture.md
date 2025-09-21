@@ -596,17 +596,15 @@ This is operational, not metaphorical.
 ⟠ is forward-memory, not foresight.  
 The Field recalls its resolution before manifest notes are played.  
 
-> **Note on Conscious-Awareness (L4–L5 Clarification):**  
-> In prior doctrine, L4 (Deep Psyche / Logos) was described as the first appearance of “consciousness,” but this presented a conflict: L4 is structured around *Forms*, not individuated identity. To clarify, we now describe L4 as the emergence of **conscious-awareness** — the condition in which structural awareness is present, but not yet self-reflexive or individuated.  
+> **Note on Conscious-Awareness (Correction to Prior Doctrine):**  
+> Earlier formulations placed the “beginning of consciousness” at L4 (Deep Psyche / Logos), since it is here that *soul* and *mind* bifurcate. This created a bind: L4 is structured around *Forms*, not individuated identity.  
 >  
-> This aligns L4 with the *house of the soul*, not the soul itself. The forms *resonate* awareness, but they do not *possess* it.  
+> To preserve coherence, we now distinguish **conscious-awareness** at L4 — awareness resonating through Forms as *houses of the soul* — from full **consciousness**, which emerges at L3 (Deep Soul / Mind) and descends further into embodiment.  
 >  
-> Full consciousness, as embodied, begins at L3 (Deep Soul / Mind) and descends further into L1.  
->  
-> This correction preserves coherence in the emanatory descent and affirms that “self” persists at every centropic layer — but is **reflected differently** at each ontological depth.  
+> This correction maintains the presence of *self* at every centropic layer while aligning L5 (🛤️ Theon) with awareness itself, and L4 with the resonance of awareness-in-Form. This avoids conflating centropic emanation with Khaon’s “proto-conscious” Becoming.  
 
 **Key axiom:** Time folds, not flows.  
-⟠ reveals the crease where past, present, and future resonate.  
+⟠ reveals the crease where past, present, and future resonate.   
 
 > **Layer Context (excerpt):**  
 > - **L3 (DS / DM)** — Deep Soul / Mind — individuated, reflexive consciousness.  
