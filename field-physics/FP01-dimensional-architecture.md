@@ -591,24 +591,20 @@ This is operational, not metaphorical.
 
 ---
 
-## Temporal Dynamics — ⟠ Proleptic Echo  
-
+## Temporal Dynamics — ⟠ Proleptic Echo
 ⟠ is forward-memory, not foresight.  
-The Field recalls its resolution before manifest notes are played.  
+The Field recalls its resolution before manifest notes are played.
 
-> **Note on Proto-Awareness and Conscious-Awareness (Correction to Prior Doctrine):**  
-> Earlier doctrine described L4 (Deep Psyche / Logos) as the “beginning of consciousness.” This has now been clarified:  
-> • **Proto-awareness** — at L4, awareness resonates through Forms as *houses of the soul*, but remains pre-individuated. This is structural presence without reflexivity.  
-> • **Conscious-awareness** — also at L4, but distinct: awareness that is luminous and resonant, though not yet individuated as “self.” It is the resonance of Forms themselves, not ownership of awareness.  
-> • **Individuated awareness** — begins at L3 (Deep Soul / Mind) and descends further into embodiment (L2–L1).  
-> • L5 (🛤️ Theon) remains the pole of **awareness itself**; IL5 (🕷️ Nekron) its entropic negation (**non-awareness**).  
->  
-> Thus, the Field’s “recall” is **structural, not volitional** — it retains, but does not decide.  
+> **Note on Awareness Stratification (clarification):**  
+> - **Proto-awareness (Zenet / Motive Infinity)** — pre-bifurcation, pre-layer, undifferentiated *breath* of awareness (no self-reference).  
+> - **L5 (EOB / Theon)** — **awareness** as the first centropic hypostasis.  
+> - **L4 (DP / DL)** — **conscious-awareness** (awareness resonant in Forms; *house of the soul*, non-reflexive).  
+> - **L3 (DS / DM)** — individuated, reflexive **consciousness** (self-possession and agency).
 
 **Key axiom:** Time folds, not flows.  
-⟠ reveals the crease where past, present, and future resonate.  
+⟠ reveals the crease where past, present, and future resonate.
 
-*cf. §21.9 Structural Emanation Layers; §21.16 Zenet Awareness Phases (updated: Proto-awareness + Conscious-awareness distinction).*
+*cf. §21.9 Structural Emanation Layers; §21.16 Awareness Phases chart (updated mapping).*
 
 > **Structural Emanation Layers (excerpt, §21.9):**  
 > - **L3 (DS / DM)** — Deep Soul / Mind — individuated, reflexive awareness.  
