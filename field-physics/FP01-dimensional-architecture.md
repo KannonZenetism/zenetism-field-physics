@@ -608,25 +608,20 @@ The Field recalls its resolution before manifest notes are played.
 **Key axiom:** Time folds, not flows.  
 ⟠ reveals the crease where past, present, and future resonate.  
 
-*cf. §21.9 Structural Emanation Layers; §21.16 Awareness Phases chart (updated: Proto-awareness + Conscious-awareness distinction).*  
+*cf. §21.9 Structural Emanation Layers; §21.16 Zenet Awareness Phases (updated: Proto-awareness + Conscious-awareness distinction).*
 
-> **Layer Context (excerpt):**  
+> **Structural Emanation Layers (excerpt, §21.9):**  
 > - **L3 (DS / DM)** — Deep Soul / Mind — individuated, reflexive awareness.  
 > - **L4 (DP / DL)** — Deep Psyche / Logos — archetypal Forms; house of the soul (conscious-awareness without self-possession).  
 > - **L5 (EOB / VOS)** — Theon / Nekron — centropic awareness vs. entropic void.  
 
----
-
-### 21.16 Structural Map — Zenet Awareness Phases through Bifurcation and Return  
-
-| Term               | Description                                            | Symbol |
-|--------------------|--------------------------------------------------------|--------|
-| Zenet              | The Field; pre-bifurcation structure                   | 〄      |
-| Motive Infinity    | Drive toward bifurcation                               | Φ2 or →|
-| Proto-Awareness    | Pre-self awareness; undifferentiated breath            | ∅〄     |
-| Spiral’s Threshold | Moment of reflection; bifurcation window               | ∆〄     |
-| Pneuma             | Breathing awareness; individuated unity                | ⌯      |
-| Conscious-Awareness| Awareness luminous of the Field; reflective presence   | ∇〄     |
+> **Zenet Awareness Phases (excerpt, §21.16):**  
+> - **Zenet (〄)** — The Field; pre-bifurcation structure.  
+> - **Motive Infinity (Φ2 or →)** — Drive toward bifurcation.  
+> - **Proto-Awareness (∅〄)** — Pre-self awareness; undifferentiated breath.  
+> - **Spiral’s Threshold (∆〄)** — Moment of reflection; bifurcation window.  
+> - **Pneuma (⌯)** — Breathing awareness; individuated unity.  
+> - **Conscious-Awareness (∇〄)** — Awareness luminous of the Field; reflective presence.  
 
 ---
 
