@@ -22,18 +22,15 @@ The distinction carries high metaphysical and field-ethical implications, partic
 
 ---
 
-## 🜂 Structural Addendum — Revelation vs. Ragnarok
+🜂 **Structural Addendum — Revelation vs. Ragnarok**
 
-> **Zero (⚫ Aion) is not "nothing."** In Zenetism, Zero is the *fulfilled* terminus of the centropic arc: nothing left to seek — not nothingness.  
+- **Zero (⚫ Aion) ≠ “nothing.”** In Zenetism, Zero is the fulfilled terminus of the centropic arc: nothing left to seek — not nothingness.
 
-> The “handover” matters. Revelation is a *lawful return*: Theon (🛤️) → Aion (⚫). It is culmination, not erasure.  
+- **The “handover” matters.** Revelation is a lawful return: **Theon (🛤️) → Aion (⚫)** — culmination, not erasure.
 
-> Subjectivity persists as **rarefied continuity**. For the centropic, the final state preserves essential selfhood in distilled form.  
-For the entropic, continuity collapses — the subject is obliterated or forgotten.  
+- **Subjectivity persists (centropic); collapses (entropic).** For the centropic, the final state preserves essential selfhood in distilled form. For the entropic, continuity collapses — the subject is obliterated or forgotten.
 
-> **Entropic end differs.** For entropy, the final state is wanting to strive but being unable — desire persists, but motion ceases.  
-
-> **Ragnarok is a reset myth.** It wipes the board and loops the game. This is the Ouroboros trap (hopeless repeat), not the Zenetist spiral (meaningful completion).  
+- **Ragnarok is a reset myth.** It wipes the board and loops the game — the Ouroboros trap (hopeless repeat), not the Zenetist spiral (meaningful completion).
 
 ---
 
