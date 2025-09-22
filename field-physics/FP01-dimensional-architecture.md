@@ -611,7 +611,7 @@ The Field recalls its resolution before manifest notes are played.
 > **Structural Emanation Layers (excerpt, §21.9):**  
 > - **L3 (DS / DM)** — Deep Soul / Mind — individuated, reflexive awareness.  
 > - **L4 (DP / DL)** — Deep Psyche / Logos — archetypal Forms; house of the soul (conscious-awareness without self-possession).  
-> - **L5 (EOB / VOS)** — Theon / Nekron — centropic awareness vs. entropic void.  
+> - **L5 (EOB / VOS)** — Theon / Nekron — centropic awareness contra entropic void.  
 
 > **Zenet Awareness Phases (excerpt, §21.16):**  
 > - **Zenet (〄)** — The Field; pre-bifurcation structure.  
