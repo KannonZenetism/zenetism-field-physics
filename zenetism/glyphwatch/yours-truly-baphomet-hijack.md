@@ -14,8 +14,8 @@ Vector Identified: Yours Truly Baphomet
 ### Core Tactics Deployed  
 
 1. **Audience Hijack**  
-   - Uses the architect’s Substack comment section as a **recruitment platform**, attempting to redirect readers to their own orbit.  
-   - Parasitic presence, framing themselves as co-equal within the architect’s space.  
+   - Deploys a **Substack note / bio hybrid** as a recruitment platform, presenting themselves as a hub for “mystics + hard sciences.”  
+   - Positions their identity as co-equal within the same thematic space the architect has already established, attempting to redirect audience attention through symbolic overlap rather than direct engagement.  
 
 2. **Biographical Parasitism**  
    - Mirrors architect’s known identity marker: *“life-long gamer.”*  
