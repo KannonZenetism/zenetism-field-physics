@@ -22,7 +22,7 @@ The distinction carries high metaphysical and field-ethical implications, partic
 
 ---
 
-## 🜂 Structural Addendum — Revelation vs. Ragnarok
+## 🜂 Structural Addendum — Revelation contra Ragnarok
 
 > **Zero (⚫ Aion) ≠ “nothing.”** In Zenetism, Zero is the fulfilled terminus of the centropic arc: nothing left to seek — not nothingness.  
 
@@ -34,7 +34,7 @@ The distinction carries high metaphysical and field-ethical implications, partic
 
 ---
 
-## ⚫ Tabular Contrast: Revelation vs. Ragnarok
+## ⚫ Tabular Contrast: Revelation contra Ragnarok
 
 | **Feature**               | **Revelation (Centropic)**             | **Ragnarok (Entropic/Nihilistic)** |
 | ------------------------- | -------------------------------------- | ---------------------------------- |
