@@ -419,7 +419,7 @@ This chapter shifts from glyphic motion (syntax) to glyphic implementation (engi
 This chapter codifies temporal sculpting and resonance architecture. Rituals here are code, not ceremony.
 
 ### ✅ Affirmations
-- Invocation vs. evocation distinction: invocation = origin-sealed, evocation = entropic channel.  
+- Invocation contra evocation distinction: invocation = origin-sealed, evocation = entropic channel.  
 - Ritual as structural sequencing, not performance.  
 - Glyphic architecture (temples, sancta, constellations) is designed as inhabitable field logic, not metaphorical spaces.  
 
