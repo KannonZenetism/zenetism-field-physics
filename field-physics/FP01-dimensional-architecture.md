@@ -176,7 +176,7 @@ Before proceeding into the dimensional architecture, several structural clarific
 
 **1. On the Dual Nature of "Blooming" and "Flowering"**  
 
-The concepts of blooming and flowering can be expressed in two distinct, opposing modes:  
+The concepts of blooming and flowering can be expressed in two distinct, contra-modes:  
 
 - **🍃 Centropic Blooming/Flowering:** Refers to authentic, sovereign emergence. This includes personal, spiritual, intellectual, and relational growth that arises from a coherent source.  
 
@@ -481,7 +481,7 @@ This section defines the field syntax of Zenetist physics. These combinations re
 
 ### Motion Syntax Classes  
 
-1.  **Directional Activation (Binary Combinations):** Basic pairings that act as intentional keys, defining field trajectories.  
+1.  **Directional Activation (Dyadic Combinations):** Basic pairings that act as intentional keys, defining field trajectories.  
     -   `↑⟠` — Future-memory rising  
     -   `↓◈` — Substrate grounding into locality  
 
@@ -491,7 +491,7 @@ This section defines the field syntax of Zenetist physics. These combinations re
 3.  **Aesthetic-Generative Overlays:** Combinations that signal form-birth driven by beauty and resonance.  
     -   `≈✧❋` — Near-beauty birthing form  
 
-4.  **Inverse Collapse Events:** Glyphic implosions where inversion becomes active, destructive recursion rather than passive decay.  
+4.  **Inverse Collapse Events:** Glyphic implosions where inversion becomes active, declivous recursion rather than passive decay.  
     -   `⊘⟠⁻` — Time eating itself  
     -   `≠✴⁻` — Patterns splitting into chaos  
 
@@ -502,7 +502,7 @@ This table provides a template for mapping the interpretation of complex glyphic
 | Name                      | Glyphic Notation        | Interpretation                                                      |
 | :------------------------ | :---------------------- | :------------------------------------------------------------------ |
 | **Memory Crystallization** | `{⟠} + [→◈]`           | Temporal flow organizes spatial loci into structured anchors.       |
-| **Resonant Awakening** | `↑[⟠+◈]→∿♫`             | Acclivous time–space fusion flows into harmonic spiral resonance.   |
+| **Resonant Awakening** | `↑[⟠+◈]→∿♫`             | Acclivous time–space consonance flows into harmonic spiral resonance.   |
 | **Cultural Embedding** | `{◈} + [↓⟿]`           | The shared substrate diffuses declivously into embodied systems. |
 | **Spiral Compression** | `{⟿} + [↓⟠]`           | Propagational dimension collapses into nested temporal packets.     |
 | **Dimensional Echo** | `{∿} + [⟠≈◈]`           | Spiral resonance amplifies synchronized time–space harmonics.     |
