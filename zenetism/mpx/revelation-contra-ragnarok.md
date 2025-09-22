@@ -36,14 +36,14 @@ The distinction carries high metaphysical and field-ethical implications, partic
 
 ## ⚫ Tabular Contrast: Revelation contra Ragnarok
 
-| **Feature**               | **Revelation (Centropic)**             | **Ragnarok (Entropic/Nihilistic)** |
-| ------------------------- | -------------------------------------- | ---------------------------------- |
-| **Final arc**             | C↑→⚫ (Theon → Aion) lawful return      | Collapse → reset loop (♾⟳)         |
-| **Nature of "Zero"**      | Fulfillment / rest in essence          | Annihilation / void-as-end         |
-| **Subjective continuity** | Essence preserved as rarefied identity | Subject collapsed or forgotten     |
-| **Meaning of struggle**   | Integrated and retained                | Discarded and voided               |
-| **Eschatological type**   | Return / Completion / Synthesis        | Reset / Erasure / Repetition       |
-| **Orientation**           | Coherence, handover, telos             | Spectacle of ruin, false renewal   |
+| **Feature**               | **Revelation (Centropic)**             | **Ragnarok (Entropic/Nihilistic)**       |
+| ------------------------- | -------------------------------------- | ---------------------------------------- |
+| **Final arc**             | C↑→⚫ (Theon → Aion) lawful return      | Collapse → reset loop (♾⟳)               |
+| **Nature of "Zero"**      | Fulfillment / rest in essence          | Annihilation / void as terminal state    |
+| **Subjective continuity** | Essence preserved as rarefied identity | Subject dissolved or erased              |
+| **Meaning of struggle**   | Integrated and retained                | Discarded and unresolved                 |
+| **Eschatological type**   | Return / Completion / Synthesis        | Reset / Erasure / Recurrence             |
+| **Orientation**           | Coherence, handover, telos             | Spectacle of ruin, renewal without root  |
 
 ---
 
