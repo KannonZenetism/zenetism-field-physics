@@ -61,7 +61,7 @@ but a motion, a resonance, a hypostatic expression.
 - **Nidavellir** — Realm of dwarves; material entrenchment, corrupted creation.  
   *Correlate:* **IL3 — IDS / IDM** (Inverse Deep Soul / Mind)
 
-- **Niflheim** — Realm of mist and ice; cold stasis, entropy before collapse.  
+- **Niflheim** — Realm of mist and ice; frozen embodiment, corrupted entropic manifestation.  
   *Correlate:* **IL1 — IES / IEM** (Inverse Embodied Soul / Mind)
 
 - **Hel** — Terminal realm of dissolution; the dishonored dead.  
