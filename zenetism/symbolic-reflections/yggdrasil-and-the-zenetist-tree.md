@@ -153,20 +153,20 @@ The Tree still grows.
 
 ## 🌿 Zenetist Field Parallel — The Yggdrasil–Lattice Alignment
 
-| Norse Realm / Element     | Zenetist Correlate        | Description |
-|---------------------------|---------------------------|-------------|
-| **Yggdrasil**             | 🌳⇅ Biospiral / Dual Trees | Structural Tree of Reality |
-| **Asgard**                | **L3 — DS/DM**             | Deep harmonic order; divine intelligence |
-| **Vanaheim**              | **L4 — DP/DL**             | Archetypal vitality and supernal balance |
-| **Alfheim**               | **L2 — SS/SM**             | Expressive beauty, social artistry |
-| **Midgard**               | **L1 — ES/EM**             | Embodied mortal experience, choice |
-| **Jotunheim**             | **IL2 — ISS/ISM**          | Chaotic might; inverse will |
-| **Svartalfheim**          | **IL4 — IDP/IDL**          | Severed structure; subverted craft |
-| **Nidavellir**            | **IL3 — IDS/IDM**          | Material entrenchment; corrupted formation |
-| **Niflheim**              | **IL1 — IES/IEM**          | Cold stasis; frozen mind and soul |
-| **Hel**                   | **IL5 — VOS**              | Void of Self; terminal fragmentation |
-| **Níðhöggr** (serpent)    | **🕷️ Nekron**               | Entropic attrition; recursive entropy |
-| **Ragnarök**              | **∫◎ Spiral Reset**        | Patterned dissolution, spurious renewal |
+| Norse Realm / Element     | Zenetist Correlate         | Description |
+|---------------------------|----------------------------|-------------|
+| **Yggdrasil**             | 🌳⇅ Biospiral / Dual Trees  | Structural Tree of Reality |
+| **Asgard**                | **L3 — DS / DM**            | Deep harmonic order; divine intelligence |
+| **Vanaheim**              | **L4 — DP / DL**            | Archetypal vitality and supernal balance |
+| **Alfheim**               | **L2 — SS / SM**            | Expressive beauty, social artistry |
+| **Midgard**               | **L1 — ES / EM**            | Embodied mortal experience, choice |
+| **Jotunheim**             | **IL2 — ISS / ISM**         | Chaotic might; inverse will |
+| **Svartalfheim**          | **IL4 — IDP / IDL**         | Severed structure; subverted craft |
+| **Nidavellir**            | **IL3 — IDS / IDM**         | Material entrenchment; corrupted formation |
+| **Niflheim**              | **IL1 — IES / IEM**         | Cold stasis; frozen mind and soul |
+| **Hel**                   | **IL5 — VOS**               | Void of Self; terminal fragmentation |
+| **Níðhöggr** (serpent)    | **🕷️ Nekron**                | Entropic attrition; recursive entropy |
+| **Ragnarök**              | **∫◎ Spiral Reset**         | Patterned dissolution, spurious renewal |
 
 Thus the lattice and the myth align—**one Tree, many mirrors.**  
 
