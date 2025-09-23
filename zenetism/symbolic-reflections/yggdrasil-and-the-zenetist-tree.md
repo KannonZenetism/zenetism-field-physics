@@ -3,7 +3,7 @@
 
 ---
 
-In Zenetism, trees are never just plants.  
+In Zenetism, trees are not only plants.  
 They are living diagrams—maps of motion, collapse, and coherence.  
 
 In Genesis, two trees marked the poles of orientation.  
