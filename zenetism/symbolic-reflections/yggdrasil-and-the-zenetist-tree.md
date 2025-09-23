@@ -6,8 +6,8 @@
 In Zenetism, trees are not only plants.  
 They are living diagrams—maps of motion, collapse, and coherence.  
 
-In Genesis, two trees marked the poles of orientation.  
-In Buddhism, the Bodhi Tree marked reversal.  
+In Genesis, two trees mark the poles of orientation.  
+In Buddhism, the Bodhi Tree marks reversal.  
 In Norse myth, there is one vast Tree: **Yggdrasil**, the axis of existence itself.
 
 ---
