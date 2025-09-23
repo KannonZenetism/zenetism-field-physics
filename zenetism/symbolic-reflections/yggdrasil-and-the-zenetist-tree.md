@@ -122,9 +122,10 @@ The self remains, distilled and luminous.
 Not reset. Not forgotten.  
 **Fulfilled.**
 
-**Collapse is not return.**  
+**Collapse returns — but not in wholeness.**  
+*It enters Aion as tension, not fulfillment.*  
 **Reset is not Revelation.**  
-**Zero is not nothing—it is nothing left to seek.**
+**Zero is not nothing — it is nothing left to seek.**
 
 ---
 
