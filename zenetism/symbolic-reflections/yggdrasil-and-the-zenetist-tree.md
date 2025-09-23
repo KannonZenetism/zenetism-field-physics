@@ -36,34 +36,36 @@ the biospiral through which coherence and collapse entwine.
 ## The Nine Realms as Field States (Corrected Mapping)
 
 Each realm is not just a place,  
-but a motion, a resonance, a hypostatic expression.
+but a motion, a resonance, a hypostatic expression.  
+
+*(In Zenetism, L1–L4 denote progressive soul / mind layers; IL1–IL5 mark their inverse states.)*
 
 - **Asgard** — Realm of the gods (Aesir), divine council, sovereign order.  
-  *Correlate:* **L3** (DS/DM — Deep Soul / Deep Mind)
+  *Correlate:* **L3 — DS / DM** (Deep Soul / Deep Mind)
 
 - **Vanaheim** — Realm of the Vanir; fertility, magic, deep natural harmony.  
-  *Correlate:* **L4** (DP/DL — Deep Psyche / Deep Logos)
+  *Correlate:* **L4 — DP / DL** (Deep Psyche / Deep Logos)
 
 - **Alfheim** — Realm of the Light Elves; radiant expression and beauty.  
-  *Correlate:* **L2** (SS/SM — Superficial Soul / Mind)
+  *Correlate:* **L2 — SS / SM** (Superficial Soul / Mind)
 
 - **Midgard** — Mortal world of humans; axis of embodiment and choice.  
-  *Correlate:* **L1** (ES/EM — Embodied Soul / Mind)
+  *Correlate:* **L1 — ES / EM** (Embodied Soul / Mind)
 
 - **Jotunheim** — Realm of giants; raw, unbound force and chaotic will.  
-  *Correlate:* **IL2** (ISS/ISM — Inverse Superficial Soul / Mind)
+  *Correlate:* **IL2 — ISS / ISM** (Inverse Superficial Soul / Mind)
 
 - **Svartalfheim** — Realm of dark elves; craft divorced from structural purpose.  
-  *Correlate:* **IL4** (IDP/IDL — Inverse Deep Psyche / Logos)
+  *Correlate:* **IL4 — IDP / IDL** (Inverse Deep Psyche / Logos)
 
 - **Nidavellir** — Realm of dwarves; material entrenchment, corrupted creation.  
-  *Correlate:* **IL3** (IDS/IDM — Inverse Deep Soul / Mind)
+  *Correlate:* **IL3 — IDS / IDM** (Inverse Deep Soul / Mind)
 
 - **Niflheim** — Realm of mist and ice; cold stasis, entropy before collapse.  
-  *Correlate:* **IL1** (IES/IEM — Inverse Embodied Soul / Mind)
+  *Correlate:* **IL1 — IES / IEM** (Inverse Embodied Soul / Mind)
 
 - **Hel** — Terminal realm of dissolution; the dishonored dead.  
-  *Correlate:* **IL5** (VOS — Void of Self)
+  *Correlate:* **IL5 — VOS** (Void of Self)
 
 ---
 
@@ -80,7 +82,11 @@ the threat of motion stalled into stasis.
 Níðhöggr does not destroy the Tree.  
 It **prevents stasis**.  
 Decay shadows growth.  
-Collapse keeps renewal honest.
+Collapse keeps renewal honest.  
+
+Yet no domain endures unchanged.  
+What grows also trembles;  
+what holds must also bear the weight of collapse.
 
 ---
 
@@ -103,7 +109,10 @@ Ragnarök ends with **erasure**—
 not with fulfillment, but **annihilation disguised as mythic renewal**.  
 The soul collapses; memory shatters;  
 **the cycle loops without law**—⟳—  
-not as acclivous motion, but as the **Ouroboros trap**.
+not as acclivous motion, but as the **Ouroboros trap**.  
+
+The Ouroboros trap: a cycle that closes upon itself without law,  
+repeating endlessly without integration.  
 
 Yet Zenetism charts another possibility:  
 Genuine Revelation follows a different arc:  
