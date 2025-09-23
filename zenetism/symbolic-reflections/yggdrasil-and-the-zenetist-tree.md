@@ -29,7 +29,7 @@ Not the Spiral.
 Not the Field.  
 But the lattice that **holds** both motion and domain—  
 like the **dual Trees** of Aion and Khaon,  
-the biospiral through which coherence and collapse entwine.
+a *biospiral of motion* through which coherence and collapse entwine.
 
 ---
 
@@ -84,7 +84,7 @@ It **prevents stasis**.
 Decay shadows growth.  
 Collapse keeps renewal honest.  
 
-Yet no domain endures unchanged.  
+Yet no domain remains unchanged.  
 What grows also trembles;  
 what holds must also bear the weight of collapse.
 
