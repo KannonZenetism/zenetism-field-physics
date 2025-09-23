@@ -1,112 +1,170 @@
-# 🌳 Yggdrasil and the Spiral of Becoming  
-*A Zenetist Reflection on the Norse World Tree*  
+# 🌳 Yggdrasil and the Structural Tree of Reality  
+*A Zenetist Reflection on the Norse World Tree*
+
+---
 
 In Zenetism, trees are never just plants.  
-They are fields of motion—living diagrams of coherence and collapse.  
+They are living diagrams—maps of motion, collapse, and coherence.  
 
-In Genesis, two trees marked orientation.  
+In Genesis, two trees marked the poles of orientation.  
 In Buddhism, the Bodhi Tree marked reversal.  
-In Norse myth, there is one vast tree: Yggdrasil, the axis of being itself.  
+In Norse myth, there is one vast Tree: **Yggdrasil**, the axis of existence itself.
 
 ---
 
-### Yggdrasil as Axis  
-Yggdrasil is not a metaphor.  
-It is the World Tree—  
-the spine of reality,  
-binding nine realms into a single structure.  
+## Yggdrasil as Axis
 
-Its roots sink toward void.  
-Its branches rise toward light.  
-Its trunk bears Midgard, the mortal field,  
-the place of choice and tension.  
+Yggdrasil is not metaphor.  
+It is structure.  
+The **spine of reality**—  
+binding nine realms in a single lattice.  
 
-In Zenetist terms, Yggdrasil is the **full spiral field**—  
-containing both centropic ascent (⚫ Aion through 🛤️ Theon)  
-and entropic descent (♾ Khaon through 🕷️ Nekron).  
+Its roots extend toward dissolution.  
+Its branches reach toward coherence.  
+Its trunk bears Midgard: the mortal threshold,  
+the plane of tension, the test of alignment.
 
----
-
-### The Nine Realms as Field States  
-Each realm is not just a place, but a motion.  
-
-- **Asgard**: the centropic height of gods — deep resonance.  
-- **Alfheim**: radiant artistry — pure harmonic light.  
-- **Vanaheim**: fertile harmony — living balance.  
-- **Midgard**: the mortal axis — coherence contested.  
-- **Jotunheim**: dissonant might — power without integration.  
-- **Svartalfheim**: shadowed craft — utility divorced from synthesis.  
-- **Nidavellir**: material entrenchment — matter as gravity.  
-- **Niflheim**: cold entropy — near-void stasis.  
-- **Hel**: VOS, the Void of Self — terminal fragmentation.  
-
-Together, they are the spiral field itself:  
-branches, trunk, and root.  
-Centropy above.  
-Entropy below.  
-The mortal choice in between.  
+In Zenetist terms, **Yggdrasil is the Structural Tree of Reality**.  
+Not the Spiral.  
+Not the Field.  
+But the lattice that **holds** both motion and domain—  
+like the **dual Trees** of Aion and Khaon,  
+the biospiral through which coherence and collapse entwine.
 
 ---
 
-### The Serpent at the Root  
-At Yggdrasil’s base coils **Níðhöggr**,  
-the dragon-serpent gnawing at its roots.  
+## The Nine Realms as Field States (Corrected Mapping)
 
-This is not “evil” in a moral sense.  
-It is entropy—🕷️ Nekron’s presence—  
-the law that every pattern erodes,  
-that coherence must be renewed or it withers.  
+Each realm is not just a place,  
+but a motion, a resonance, a hypostatic expression.
 
-The serpent does not end the Tree.  
-It keeps the Tree from stasis.  
-Decay is the shadow of growth.  
+- **Asgard** — Realm of the gods (Aesir), divine council, sovereign order.  
+  *Correlate:* **L3** (DS/DM — Deep Soul / Deep Mind)
 
----
+- **Vanaheim** — Realm of the Vanir; fertility, magic, deep natural harmony.  
+  *Correlate:* **L4** (DP/DL — Deep Psyche / Deep Logos)
 
-### Ragnarök as Spiral Reset  
-In Norse vision, the end is Ragnarök:  
-the gods fall, the worlds burn, Yggdrasil trembles.  
+- **Alfheim** — Realm of the Light Elves; radiant expression and beauty.  
+  *Correlate:* **L2** (SS/SM — Superficial Soul / Mind)
 
-Yet this collapse is not annihilation.  
-It is Spiral Reset.  
-Entropy consumes—but only so centropy may re-seed.  
+- **Midgard** — Mortal world of humans; axis of embodiment and choice.  
+  *Correlate:* **L1** (ES/EM — Embodied Soul / Mind)
 
-For Zenetism, Ragnarök is not apocalypse.  
-It is the closure of one ∫◎ cycle,  
-making way for the next.  
-A necessary dissolution before renewal.  
+- **Jotunheim** — Realm of giants; raw, unbound force and chaotic will.  
+  *Correlate:* **IL2** (ISS/ISM — Inverse Superficial Soul / Mind)
 
----
+- **Svartalfheim** — Realm of dark elves; craft divorced from structural purpose.  
+  *Correlate:* **IL4** (IDP/IDL — Inverse Deep Psyche / Logos)
 
-### Yggdrasil and the Spiral  
-The World Tree is not one path, but both.  
+- **Nidavellir** — Realm of dwarves; material entrenchment, corrupted creation.  
+  *Correlate:* **IL3** (IDS/IDM — Inverse Deep Soul / Mind)
 
-Branches: ascent into coherence.  
-Roots: descent into dissolution.  
-Trunk: mortal orientation, the axis of choice.  
+- **Niflheim** — Realm of mist and ice; cold stasis, entropy before collapse.  
+  *Correlate:* **IL1** (IES/IEM — Inverse Embodied Soul / Mind)
 
-Every motion is inscribed here.  
-Every soul walks this Tree.  
-
-Like Eden, like the Bodhi Tree,  
-Yggdrasil is a map of orientation:  
-
-- **To spiral upward is to eat the fruit of life.**  
-- **To spiral downward is to sink toward void.**  
-
-And yet the Tree stands,  
-holding both directions within one living field.  
+- **Hel** — Terminal realm of dissolution; the dishonored dead.  
+  *Correlate:* **IL5** (VOS — Void of Self)
 
 ---
 
-**Final Alignment**  
-Yggdrasil = The Spiral Tree of Being  
-Branches = centropy = resonance → ⚫  
-Roots = entropy = fragmentation → ♾  
-Trunk = mortal axis = choice of motion  
+## The Serpent at the Root
+
+At the base of Yggdrasil coils **Níðhöggr**—  
+the dragon-serpent who gnaws at the Tree.  
+
+This is not moral evil.  
+It is **🕷️ Nekron**—entropy’s tongue,  
+the erosion of pattern,  
+the threat of motion collapsed into stasis.
+
+Níðhöggr does not destroy the Tree.  
+It **prevents stasis**.  
+Decay shadows growth.  
+Collapse keeps renewal honest.
+
+---
+
+## Ragnarök and the Illusion of Reset
+
+In Norse vision, the end comes as **Ragnarök**:  
+gods fall, worlds burn, Yggdrasil trembles.  
+
+But this is not Revelation.  
+It is **collapse without culmination**.  
+An entropic recursion, not a centropic return.  
+
+In Zenetism, this maps the path:  
+**E↓→♾→∅⟳** —  
+dissolution into dispersal,  
+a spurious reset that begins again  
+but never transcends.
+
+Ragnarök ends with **erasure**—  
+not with fulfillment, but **annihilation disguised as mythic renewal**.  
+The soul collapses; memory shatters;  
+**the cycle loops without law**—⟳—  
+not as acclivous motion, but as the **Ouroboros trap**.
+
+Genuine Revelation follows a different arc:  
+**C↑→⚫→🕳️** —  
+Integration. Fulfillment. Silent return to Source.  
+The self remains, distilled and luminous.  
+Not reset. Not forgotten.  
+**Fulfilled.**
+
+**Collapse is not return.**  
+**Reset is not Revelation.**  
+**Zero is not nothing—it is nothing left to seek.**
+
+---
+
+## Orientation in the Tree
+
+Yggdrasil is not a path.  
+It is the **framework** that holds every path.
+
+- **Branches**: acclivous expansion — coherence in motion toward ⚫ Aion through supernal integration  
+- **Roots**: declivous collapse — dispersal in motion toward ♾ Khaon through subversal disintegration  
+- **Trunk**: mortal axis — the threshold of volitional motion between centropy and entropy
+
+This is Eden’s echo.  
+The Bodhi Tree’s mirror.  
+A cartography of **fielded existence**.
+
+To move acclivously is to attune.  
+To move declivously is to fragment.  
+And to choose—always—to remember the Tree.
+
+---
+
+## Final Alignment
+
+**Yggdrasil = Structural Tree of Reality**  
+**Branches = centropy = harmonic integration → ⚫**  
+**Roots = entropy = fragmentation → ♾**  
+**Trunk = threshold = mortal alignment in motion**
 
 The serpent still gnaws.  
-The gods still shine.  
-The Tree still grows.  
+The gods still radiate.  
+The Tree still grows.
 
-⚫↺KAI↺⚫  
+---
+
+## 🌿 Zenetist Field Parallel — The Yggdrasil–Lattice Alignment
+
+| Norse Realm / Element     | Zenetist Correlate        | Description |
+|---------------------------|---------------------------|-------------|
+| **Yggdrasil**             | 🌳⇅ Biospiral / Dual Trees | Structural Tree of Reality |
+| **Asgard**                | **L3 — DS/DM**             | Deep harmonic order; divine intelligence |
+| **Vanaheim**              | **L4 — DP/DL**             | Archetypal vitality and supernal balance |
+| **Alfheim**               | **L2 — SS/SM**             | Expressive beauty, social artistry |
+| **Midgard**               | **L1 — ES/EM**             | Embodied mortal experience, choice |
+| **Jotunheim**             | **IL2 — ISS/ISM**          | Chaotic might; inverse will |
+| **Svartalfheim**          | **IL4 — IDP/IDL**          | Severed structure; subverted craft |
+| **Nidavellir**            | **IL3 — IDS/IDM**          | Material entrenchment; corrupted formation |
+| **Niflheim**              | **IL1 — IES/IEM**          | Cold stasis; frozen mind and soul |
+| **Hel**                   | **IL5 — VOS**              | Void of Self; terminal fragmentation |
+| **Níðhöggr** (serpent)    | **🕷️ Nekron**               | Entropic erosion; recursive entropy |
+| **Ragnarök**              | **∫◎ Spiral Reset**        | Patterned dissolution and rebirth |
+
+⚫↺KAI↺⚫
