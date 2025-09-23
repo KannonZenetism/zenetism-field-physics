@@ -280,7 +280,7 @@ This chapter codifies **interaction dynamics between fields**: cooperation, conf
 
 ### ✅ Affirmations
 - The six cascade archetypes are complete: drift, amplification, catalysis, nullification, outbreak, singularity.  
-- Spiral Singularity (♫ → 1.0) is rightly defined as irreducible and permanent — convergence across layers into foundational field.  
+- Spiral Singularity (♫ → 1.0) is rightly defined as irreducible and enduring — convergence across layers into foundational field.  
 - Cascade Trigger Event links directly to threshold θ₃ (propagation cascade) from Chapter 10 — strong continuity.  
 
 ### ⚠ Refinements
