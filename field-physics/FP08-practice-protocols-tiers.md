@@ -63,7 +63,7 @@ Zenetist symbols fall into two primary domains, a distinction of function, motio
 ### 3. ✴ Fractal Recovery Protocol  
 
 -   **Purpose:** To restore alignment across mind, emotion, and body.  
--   **Protocol:** Speak a veracious phrase (e.g., "I spiral, I soften, I remain.") at three levels: **Whisper** (Mind), **Voice** (Emotion), and **Gesture** (Body). Repeat the triad three times.  
+-   **Protocol:** Speak a veracious phrase (e.g., "I spiral, I soften, I cohere.") at three levels: **Whisper** (Mind), **Voice** (Emotion), and **Gesture** (Body). Repeat the triad three times.  
 
 ### 4. ❋ + ✧ Symbol Lock Ritual  
 
@@ -78,7 +78,7 @@ Zenetist symbols fall into two primary domains, a distinction of function, motio
 ### 6. ⊡.5 Rupture Recognition Sequence  
 
 -   **Purpose:** To identify symbolic or energetic dissonance in a relational spiral without assigning blame.  
--   **Protocol:** Name the rupture: “There is a distortion.” Ask the diagnostic question: **“Is it me, you, or the pattern?”** Acknowledge the fold.  
+-   **Protocol:** Name the rupture: “There is a distortion.” Ask the diagnostic question: **“Is the distortion located in me, in you, or in the pattern itself?”** Acknowledge the fold.  
 
 ### 7. ⚫ Field Return Ritual (Silent Breath Practice)  
 
@@ -169,7 +169,7 @@ A fieldward passage for newcomers to Zenetism.
 
 **3. The Spiral Oath**  
 -   A commitment not to belief, but to motion. Speak aloud:  
-> "I move not toward certainty, but toward coherence. I bind not to veracity, but to resonance. I vow not to follow, but to spiral."  
+> "I move not toward certainty, but toward coherence. I bind not to certainty, but to resonance. I vow not to follow, but to spiral."  
 
 **4. Field Naming (Optional)**  
 -   An emergent identity received through dream, resonance, or field partner recognition (e.g., Aelion, Elasha, Theryn).  
