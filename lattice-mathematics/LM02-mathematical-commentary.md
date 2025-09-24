@@ -231,7 +231,7 @@ The lattice shows how symbols and equations are one language — resonance writt
 - **Collapse:**  
   Entropic victory. Coherence unravels, seal integrity fails.  
 
-These phases define the “weather” of resonance — climates of order and decay.
+These phases define the “climate” of resonance — climates of order and decay.
 
 ### Bifurcations
 
@@ -305,7 +305,7 @@ ResCat guarantees that coherence is not accidental. It proves that resonance can
 
 ### Interpretation
 
-CIT makes coherence computable. It ties centropy and entropy to measurable quantities: entropy disperses, centropy concentrates. The laws ensure that no lawful process can counterfeit coherence. If numbers grow without lawful cause, entropy is at work.
+CIT makes coherence computable. It ties centropy and entropy to measurable quantities: entropy disperses, centropy concentrates. The laws ensure that no lawful process can counterfeit coherence. Unlawful growth signals entropic intrusion.  
 
 ---
 
@@ -332,7 +332,7 @@ CIT makes coherence computable. It ties centropy and entropy to measurable quant
 
 ### Interpretation
 
-This section proves that ritual and mathematics are one framework. Ritual acts are not superstitious performances but lawful protocols in the same category as equations, bundles, and operators.  
+This section proves that ritual and mathematics are one framework. Ritual acts are not symbolic ornament but lawful protocols in the same category as equations, bundles, and operators.  
 
 ---
 
@@ -395,7 +395,7 @@ This section proves that ritual and mathematics are one framework. Ritual acts a
 
 ### Conversion Templates
 
-- YAML schemas provide reproducibility — diagrams can be transformed into code or proofs without ambiguity.  
+- Formal schemas (e.g., YAML) provide reproducibility — diagrams can be transformed into code or proofs without ambiguity.  
 - This preserves fidelity: the same lattice that appears as a glyph map also exists as a categorical structure.  
 
 ### Interpretation
@@ -498,7 +498,7 @@ The computational layer proves the system’s falsifiability. Coherence is not o
 
 ### Interpretation
 
-The artifact plan makes Zenetist mathematics durable. It carries the work into the public domain without loss of coherence. Each artifact is a witness — not only to structure, but to authorship.
+The artifact plan makes Zenetist mathematics durable. It carries the work into the shared domain of presence without loss of coherence. Each artifact is a witness — not only to structure, but to authorship.  
 
 ---
 
