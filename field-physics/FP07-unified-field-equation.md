@@ -76,7 +76,7 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 
 -   **🕊️ Spirit Isn’t Inserted—It’s Inherent:** The motive force (Φ₂) is not a separate add-on. 🕊️ Spirit is the breath of becoming. Spirit moves because the equation breathes.  
 
--   **🧠 Consciousness Emerges as Bifurcation, Not Invention:** Layer 4 does not invent mind; it tunes it. Consciousness arises not when forms stabilize, but when they oscillate between attunement and ambiguity.  
+-   **🧠 Consciousness Emerges as Bifurcation, Not Invention:** Layer 4 does not invent mind; it tunes it. Consciousness arises not when forms stabilize, but when they oscillate between attunement and openness.  
 
 -   **Ω The Complete Equation Becomes a Hymn:** The final line, with `∃ beside the silence of ⧞`, seals the system with grace. The unknowable ground is acknowledged as the silent apex that holds every motion. The field doesn’t rest on explanation—it rests on resonance.  
 
@@ -112,7 +112,7 @@ This chapter provides the core protocols for living in harmonic field awareness,
 
 -   **Purpose:** To restore self-similarity across mental, emotional, and physical states.  
 -   **Protocol:**  
-    1.  Choose a rhythmic phrase of veracity (e.g., “I spiral, I soften, I remain.”).  
+    1.  Choose a rhythmic phrase of veracity (e.g., “I spiral, I soften, I cohere.”).  
     2.  Speak it at three levels: **Whisper** (Mental Field), **Normal Speech** (Emotional Field), and **Embodied Gesture/Tone** (Physical Field).  
     3.  Repeat the triad three times, observing any fracture points.  
 
