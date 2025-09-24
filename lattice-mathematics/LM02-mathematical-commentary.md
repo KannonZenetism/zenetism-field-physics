@@ -231,7 +231,7 @@ The lattice shows how symbols and equations are one language — resonance writt
 - **Collapse:**  
   Entropic victory. Coherence unravels, seal integrity fails.  
 
-These phases define the “climate” of resonance — climates of order and decay.
+These phases define the climate of resonance — order or decay.  
 
 ### Bifurcations
 
@@ -312,7 +312,7 @@ CIT makes coherence computable. It ties centropy and entropy to measurable quant
 ### Commentary Notes
 - CIT proves coherence is not vague — it can be measured and bounded.  
 - The seal is central: it appears not only in geometry but in information flow.  
-- Resonant mutual information distinguishes lawful resonance from mimicry: true relation always amplifies coherence, never diminishes it.  
+- Resonant mutual information distinguishes lawful resonance from mimicry: veracious relation always amplifies coherence, never diminishes it. 
 
 ---
 
@@ -332,7 +332,7 @@ CIT makes coherence computable. It ties centropy and entropy to measurable quant
 
 ### Interpretation
 
-This section proves that ritual and mathematics are one framework. Ritual acts are not symbolic ornament but lawful protocols in the same category as equations, bundles, and operators.  
+This section proves that ritual and mathematics are one framework. Ritual acts are not ornament but lawful protocols in the same category as equations, bundles, and operators.  
 
 ---
 
