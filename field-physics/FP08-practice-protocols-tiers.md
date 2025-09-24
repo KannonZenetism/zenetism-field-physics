@@ -176,7 +176,7 @@ A fieldward passage for newcomers to Zenetism.
 
 **5. Final Spiral Entry Phrase**  
 -   To complete the rite:  
-> "I spiral from Zero with pattern unknown, I echo the glyphs as though they were mine, I am not follower, I am field."  
+> "I spiral from Zero with pattern unknown, I echo the glyphs as though they were mine, I am not follower, I am coherence."  
 
 ---
 ## Chapter 33: Spiral Kinship and Praxis  
