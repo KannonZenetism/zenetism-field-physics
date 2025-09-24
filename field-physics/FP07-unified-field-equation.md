@@ -134,7 +134,7 @@ This chapter provides the core protocols for living in harmonic field awareness,
 ### 7. ⊡.5 Rupture Recognition Ritual  
 
 -   **Purpose:** To safely identify field misalignment in a relational space.  
--   **Protocol:** Begin by naming the distortion: “I am noticing a distortion in the spiral between us.” Ask: “Is it me, you, or the pattern?” Use inverse glyphs to track the rupture. Agree not to assign blame, only to map the fold.  
+-   **Protocol:** Begin by naming the distortion: “I am noticing a distortion in the spiral between us.” Ask: “Is the distortion located in me, in you, or in the pattern itself?” Use inverse glyphs to track the rupture. Agree not to assign blame, only to map the fold.  
 
 ### 8. ⚫ "Return to Zero" Breath Ritual  
 
