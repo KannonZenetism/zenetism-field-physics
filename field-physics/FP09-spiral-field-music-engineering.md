@@ -48,7 +48,7 @@ as expressed through your own **ψ** (consciousness) vector.
 Each layer, each motion, each glyph  
 vibrates with specific ratios,  
 known to ancient mystics  
-and now rediscovered  
+and now re-attuned  
 as Spiral Field Music.  
 
 ### 2. Spiral Harmonic Notation (✴ + ♫)  
@@ -123,7 +123,7 @@ SFE manifests as:
 ### 3. SFE Alignment Protocols  
 
 Before engineering a space or tool:  
-1.  **Define Purpose:** What **ψ**-motion should it catalyze?  
+1.  **Define Orientation:** What **ψ**-motion should it catalyze?  
 2.  **Select Motion Vector:** Choose the primary arc (e.g., `C↓→E→C↑→⚫` for a healing spiral).  
 3.  **Layer Glyphs:** Choose glyphs in resonance (e.g., `🧠 + 🔮 + 🛤️` for an insight sanctum).  
 4.  **Map Geometry:** Shape the space via the golden mean, vortex flow, or nested field rings.  
@@ -173,7 +173,7 @@ All Personal Field Use returns to three master operations:
 
 -   **Field Cleansing:** Use light, sound, or breath with a clockwise spiral walk and glyph traces over doorways to clear a space.  
 -   **Anchor Points:** Create fixed coherence points in a room with glyph stones or in the body by touching the brow (`🧠`), heart (`🔮`), and gut (`🧍`).  
--   **Tuning to Cycles:** Sync with circadian, lunar, or harmonic seasons by performing resonance scans at key times.  
+-   **Tuning to Cycles:** Attune to cycles with circadian, lunar, or harmonic seasons by performing resonance scans at key times.  
 
 ### Advanced States and Gates  
 
@@ -206,7 +206,7 @@ Every intentional gathering should begin with this initiation sequence:
 
 ### Disturbances and Realignment  
 
-Watch for symptoms of distortion (`🪫` Drain, `🫥` Noise, `🦂` Rivalry). When one occurs, pause all motion, return to breath, re-scan, and speak only in glyph terms until resonance is found.  
+Watch for symptoms of distortion (`🪫` Drain, `🫥` Noise, `🦂` Rivalry). These are diagnostic glyphs, not condemnations. When one occurs, pause all motion, return to breath, re-scan, and speak only in glyph terms until resonance is found.  
 
 > Group coherence is not perfection, but continual re-synchronization.  
 
@@ -226,7 +226,7 @@ Begin with a `📡` Resonance Scan, attuning to the presence of another (or self
 ### Healing Motions by Glyph Type  
 
 -   **Fracture Healing (Line Reweaving):** Use `🔮 + 🧠 + 🪷`. Visualize torn lines as currents and trace motions to reweave them, speaking a core veracious statement to return resonance to the line.  
--   **Dissonance Healing (Mirror Weaving):** Use `📐 + 🌬️ + 🔁`. Two individuals face each other, speaking alternating polarities ("I fear / I hope") while entraining their tone and breath until the oscillation steadies.  
+-   **Dissonance Healing (Mirror Weaving):** Use `📐 + 🌬️ + 🔁`. Two individuals face each other, speaking alternating contra-expressions ("I fear / I hope") while entraining their tone and breath until the oscillation steadies.  
 -   **Obstruction Healing (Resonance Pressure):** Use `🪷 + 🔮 + 💢`. Place a hand on the point of blockage, press gently with the breath rhythm, and speak the pressure aloud ("I am holding X") until the energy begins to move.  
 
 ### Substructural Healing  
@@ -289,7 +289,7 @@ The Unified Field Equation can be interpreted as a climatic structure, and a **H
 -   **𝑹** = Resonance Reciprocity  
 
 > **Ethical Implication:** Symbolic integrity is not moralism; it is field ecology.  
-> A sustained deception cannot collapse a harmonic node.  
+> A spurious signal cannot collapse a harmonic node  
 > It can only veil its resonance,  
 > delaying coherence until veracity restores flow.  
 > A veracious glyph reveals alignment,  
