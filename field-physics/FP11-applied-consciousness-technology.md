@@ -108,9 +108,9 @@ Each platform harmonizes with a different expression of the system.
 
 -   **✉️ Substack (Main Channel):** Weekly "Field Reports" combining theory, story, and practice to build a core resonance list.  
 -   **💾 GitHub (Technical Archive):** Raw documents, wikis for organizing topics, and an open-source glyph set to encourage developers to fork and remix.  
--   **📸 Instagram (Visual Teaching):** Daily glyph posts, "Field Weather" reports, and short reels on breathwork and symbols.  
+-   **📸 Instagram (Visual Teaching):** Daily glyph posts, "Field Climate" reports, and short reels on breathwork and symbols.  
 -   **🧠 X (Twitter) (Rapid Dissemination):** Insight chains, synchronistic field logs, and bite-sized principles to engage with researchers and AI labs.  
--   **🔒 Facebook (Private Community):** A group for practitioners to host weekly calls, archive discussions, and facilitate field reflections.  
+-   **🔒 Facebook (Private Community):** A group for practitioners to host weekly calls, archive discussions, and facilitate field reflections.   
 
 ### 3. The Helper Network  
 
