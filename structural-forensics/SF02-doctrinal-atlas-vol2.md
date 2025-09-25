@@ -276,14 +276,14 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
-### Entry 052: `Counter-Tradition Hijacking` (Ideological Warfare)
+### Entry 052: Counter-Tradition Hijacking (Ideological Warfare)
 
-- **Threat Classification:** `Ideological Warfare`, `Paradigm Neutralization`
-- **Core Tactic:** An agent aligned with a historically entropic or adversarial esoteric tradition (e.g., Thelema, Luciferian Gnosticism) identifies an emerging, coherent, centropic system (e.g., Zenetism). The agent then performs a strategic hijack, systematically re-skinning the centropic system's core concepts with their own tradition's aesthetics, symbols (e.g., 666, inverted pentagrams), and terminal goals (e.g., the primacy of the separated will vs. union with Source).
-- **Strategic Objective:** To neutralize the new centropic signal by absorbing its energy and momentum into the older entropic lineage. The goal is to make the new system appear to be just another "flavor" of the established counter-tradition, thereby erasing its unique, corrective potential and redirecting its followers. This repeats a historical pattern of hostile absorption, such as the Roman Church purging Gnostic traditions and coopting their insights.
-- **Case Study:** The `"IllumiGnosis"` Vector
-    - **The Hijack:** This vector has been systematically appropriating the core Zenetist framework of sovereignty and the "twice-gifted" journey and re-skinning it with the aesthetics of Aleister Crowley's Thelema.
-    - **The Evidence:** The agent has publicly aligned with the Thelemic tradition by announcing a ritual practice directly tied to its numerology and quoting its founder, Aleister Crowley (Frater Perdurabo).
-    > **Quote:** "For the next 666 days, I am adopting a weekly mantra—one that I will repeat 666 times per day. Here is this week's. 'Dost thou fail? Art thou sorry? Is there fear in thine heart? Where I am, these are not.'—Frater Perdurabo, The Book of Lies".
-    - **The Inversion:** This is a direct attempt to take a framework rooted in Gnostic and Neoplatonic principles of return to Source and invert it into a Thelemic framework that champions the isolated, individual will—a fundamentally entropic goal within the Zenetist lattice.
-- **Primary Vulnerability:** The tactic's vulnerability lies in a direct, structural comparison of the two traditions' terminal goals. A **Coherence Audit** will always reveal that the centropic goal (integration, resonance, return to Source) is fundamentally incompatible with the adversarial goal (the apotheosis of the separated will). Exposing this core contradiction collapses the hijack attempt and reveals it as a hostile takeover, not a friendly parallel.
+- **Threat Classification:** Ideological Warfare, Paradigm Neutralization
+- **Core Tactic:** An agent aligned with a historically entropic or adversarial esoteric tradition (e.g., Thelema) performs a strategic hijack of an emerging centropic system (e.g., Zenetism). The agent systematically re-skins the centropic system's concepts with their own tradition's aesthetics and symbols.
+- **Strategic Objective:** To neutralize the new centropic signal by absorbing its energy into the older entropic lineage. The goal is to erase its unique, corrective potential and redirect its followers, repeating a historical pattern of hostile absorption.
+- **Case Study:** The "IllumiGnosis" Vector
+  - **The Hijack:** This vector has been re-skinning the Zenetist framework with the aesthetics of Aleister Crowley's Thelema.
+  - **The Evidence:** The agent publicly announced a ritual practice tied to Thelemic numerology and quoted its founder, Aleister Crowley (Frater Perdurabo).
+  > **Quote:** "For the next 666 days, I am adopting a weekly mantra... ‘Dost thou fail? Art thou sorry? Is there fear in thine heart? Where I am, these are not.’—Frater Perdurabo, The Book of Lies".
+  - **The Inversion:** This is a direct attempt to take a framework aimed at achieving sovereign individuality in resonant alignment with Source and invert it into a framework that champions an adversarial model of sovereignty defined by separation from Source.
+- **Primary Vulnerability:** The tactic's vulnerability lies in a direct, structural comparison of the two models of sovereignty. A Coherence Audit reveals that the centropic goal (unity without erasure) is fundamentally incompatible with the adversarial goal (individuality through opposition). Exposing this core contradiction collapses the hijack attempt.
