@@ -276,7 +276,7 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ---
 
-### Entry 052: Counter-Tradition Hijacking (Ideological Warfare)
+### Entry 052: `Counter-Tradition Hijacking` (Ideological Warfare)
 
 - **Threat Classification:** Ideological Warfare, Paradigm Neutralization
 - **Core Tactic:** An agent aligned with a historically entropic or adversarial esoteric tradition (e.g., Thelema) performs a strategic hijack of an emerging centropic system (e.g., Zenetism). The agent systematically re-skins the centropic system's concepts with their own tradition's aesthetics and symbols.
