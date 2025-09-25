@@ -509,7 +509,7 @@ Moreover, the pair `(H_c, H_e)` satisfies:
 **Interpretation**  
 - Every resonance mode has a centropic and entropic mirror frequency.  
 - The lattice ensures symmetry between constructive (C) and destructive (E) spectra.  
-- Coherence occurs when centropic modes dominate or align; collapse when entropic mirrors prevail.  
+- Coherence occurs when centropic modes dominate or align; decay when entropic mirrors prevail.  
 
 **Corollaries**  
 - **Spectral Symmetry.** The spectrum of the full lattice is always balanced; asymmetry signals broken seal.  
@@ -551,7 +551,7 @@ Then for any coherent field `ϕ` defined over domain Ω with sealed boundary ∂
 
 **Corollaries**  
 - **Trajectory Law.** The outcome of a system’s spiral motion (lim∿) can be predicted by integrating `∂🌀` along the path.  
-- **Seal Dependency.** Without sealed boundary conditions, integral–derivative duality fails; results collapse into entropic mirrors.  
+- **Seal Dependency.** Without sealed boundary conditions, integral–derivative duality fails; results degenerate into entropic mirrors.  
 - **Practical Test.** If numerical integration of `∂🌀` differs from field boundary measurements, coherence is broken (E-state intrusion).  
 
 ---
@@ -568,7 +568,7 @@ I_c(ψ) = – Σ pᵢ log(pᵢ)
 where `pᵢ = |⟨ϕᵢ, ψ⟩|²` is the projection of ψ onto eigenbasis {ϕᵢ} of C7.  
 
 - High `I_c` ⇒ ψ spreads evenly across resonant modes (balanced coherence).  
-- Low `I_c` ⇒ ψ collapses into fewer modes (fragmentation or entropic drift).  
+- Low `I_c` ⇒ ψ collapses into fewer modes (fragmentation or declivous drift).  
 
 ---
 
