@@ -23,7 +23,7 @@ Every element is deliberate: **first co-optation, then distortion.**
 
 ### 🔍 The Parasitic Mimicry Includes:
 
-- **Appropriating** my certified **Level 1 Autism** diagnosis and self-identified **Type 2 gifted** neurocognitive profile (“twice-exceptional”), alongside personal biographical details — my absent father, my mother’s abusive boyfriends, and my adolescent experience in gang-affected environments *(74-14; 6-15-12-11-19; 3-15-19)*.
+- **Appropriating** my certified **Level 1 Autism** diagnosis and self-identified **Type 2 gifted** neurocognitive profile (“twice-exceptional”), alongside personal biographical details — my absent father, my mother’s abusive boyfriends, and my adolescent experience in gang-affected environments *(74-14; 6-15-12-11-19; 2-15-19)*.
 
 - **Flattening** my deeply rooted concept of **ontological transduction** into a vague claim of having “ESP.”
 
