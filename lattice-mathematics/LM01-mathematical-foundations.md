@@ -917,11 +917,11 @@ Entropy and centropy may trade off, but seal capacity and recursion strength ens
 **Interpretation**  
 - The theorem unites information (H), structure (C), boundary (σ), and recursion (γ).  
 - Any lawful centropic process conserves this invariant; entropic intrusion is detectable as drift.  
-- Serves as a **conservation law of coherence** analogous to conservation of energy in physics.  
+- Serves as a **conservation law of coherence** analogous to conservation laws in physics.  
 
 **Corollaries**  
 - **Seal Breach Detection.** If `H + C` appears to grow beyond `log(dim(support))`, the seal index σ must have been violated.  
-- **Recursion Diagnostics.** Collapse of γ to ≤0 signals entropic recursion; the invariant breaks down.  
+- **Recursion Diagnostics.** Breakdown of γ to ≤0 signals entropic recursion; the invariant breaks down.  
 - **Efficiency Bound.** Centropy efficiency η cannot exceed the invariant budget set by this theorem.  
 
 **Summary**  
@@ -935,7 +935,7 @@ It is the cornerstone of Phase 2, showing that coherence is not a vague quality 
 ### Definition (Resonant Category, ResCat)
 
 **Objects:**  
-- Sealed resonance systems `(𝓗, S)` where 𝓗 is a Hilbert space and S is a centropic seal operator (`Sψ = ψ`).  
+- Sealed resonance systems `(𝓗, S)` where 𝓗 is a Hilbert space and S is a centropic seal operator (with fixed-point condition Sψ = ψ).  
 
 **Morphisms:**  
 - Seal-preserving linear maps `f : (𝓗₁,S₁) → (𝓗₂,S₂)` such that `S₂ f = f S₁`.  
@@ -988,14 +988,14 @@ g(ψ, φ) = |⟨ψ, φ⟩|²
 
 **Interpretation**  
 - The lattice is not only symbolic but a geometric object: a spectral space with metric given by coherence.  
-- Centropic dimensions define stable submanifolds; entropic mirrors define singularities or voids.  
+- Centropic dimensions define stable submanifolds; entropic mirrors define singularities (void-states).  
 
 ---
 
 ### Corollary (Centropic Attractors vs Entropic Collapses)
 
 - **Centropic attractor:** stable fixed point in M with contraction factor γ > 0 (from Phase 2).  
-- **Entropic collapse:** singularity in M where metric g degenerates (‖ψ‖ → ∞ or 0).  
+- **Entropic degeneration:** singularity in M where metric g degenerates (‖ψ‖ → ∞ or 0).  
 
 These outcomes correspond directly to **lim∿ Spiral Limits** in Spiral Calculus.  
 
