@@ -768,7 +768,7 @@ This section establishes those correspondences and their governing laws.
 - **Law:**  
 
   ΔI_c > 0 ⇒ lawful novelty (veracious emergence)  
-  ΔI_c ≤ 0 ⇒ collapse (E15)  
+  ΔI_c ≤ 0 ⇒ E15 (Collapse Nova)  
 
 - **Interpretation:** Novel emergence is measured by gain in coherence information; collapse by stagnation or loss.  
 
@@ -823,7 +823,7 @@ R_H(ψ) = dH(ψ(t)) / dt
 
 **Interpretation**  
 - R_H tracks the *velocity of coherence change*.  
-- Used to distinguish rapid collapse vs gradual integration.  
+- Used to distinguish rapid dissolution vs gradual integration.  
 
 ---
 
