@@ -154,19 +154,20 @@ in this volume.
 
 ### 21.7 **Axial Motions and Transformational Loops — Mapping the Biospiral Arc Between Form, Identity, and Dissolution**
 
-| Symbol | Direction / Label | Associated Principle or Motion |
-|--------|------------------|-------------------------------|
-| = | **Structural Identity** | Two motions or states are metaphysically identical |
-| ≠ | **Structural Divergence** | Motions or states appear similar but are ontologically distinct |
-| ≈ | **Approximation** | Close resonance, yet not identical motion |
-| ↑ | **Acclivous** | Directional motion within the Biospiral; for centropy, motion toward ⚫ Aion; for entropy, motion toward embodied form |
-| ↓ | **Declivous** | Directional motion within the Biospiral; for centropy, motion toward embodied form; for entropy, motion toward ♾ Khaon |
-| →E | **Embodiment Flow** | Directional movement into form |
-| E→ | **Disembodiment Flow** | Directional movement away from form; returning toward archetypal or structural resonance |
-| ↺ | **Return Loop** | Integration, rebirth, and reentry through resonance |
-| ∿ | **Spiral** | Recursion in depth; return as refinement; initiatory looping |
-| Ø | **Localized Dissolution** | A point of nullification within structure |
-| ⊘ | **Collapse** | Dispersive dissolution into formlessness |
+| Symbol | Direction / Label         | Associated Principle or Motion |
+|--------|---------------------------|--------------------------------|
+| =      | **Structural Identity**     | Two motions or states are metaphysically identical |
+| ≠      | **Structural Divergence**   | Motions or states appear similar but are ontologically distinct |
+| ≈      | **Approximation**          | Close resonance, yet not identical motion |
+| ↑      | **Acclivous**              | Directional motion within the Biospiral; for centropy, motion toward ⚫ Aion; for entropy, motion toward embodied form |
+| ↓      | **Declivous**              | Directional motion within the Biospiral; for centropy, motion toward embodied form; for entropy, motion toward ♾ Khaon |
+| →E     | **Embodiment Flow**        | Directional movement into form |
+| E→     | **Disembodiment Flow**     | Directional movement away from form; returning toward archetypal or structural resonance |
+| ↺      | **Return Loop**            | Integration, rebirth, and reentry through resonance |
+| ∿      | **Spiral**                 | Recursion in depth; return as refinement; initiatory looping |
+| ⥁      | **Resonance Spiral**       | Lawful spiral toward centropic coherence; a guided arc aligned with structural fidelity |
+| Ø      | **Localized Dissolution**  | A point of nullification within structure |
+| ⊘      | **Collapse**               | Dispersive dissolution into formlessness |
 
 ---
 
@@ -360,11 +361,12 @@ of inverse potential within Aion.
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
-| 🧲 | **Resonant Gravity** | The attractive force of coherence across structure; a metaphysical pull exerted by centropic fields, archetypal forms, or harmonic alignment |
-| 🧨 | **Entropic Pull** | A chaotic attractor field driven by disruption, egoic inertia, and fragmental recursion; a dispersive magnetism toward collapse that mimics gravity in reverse, feeding on the dissolution of coherent structure and accelerating fragmentation across systems |
-| ⟐ | **The Harmonic Spiral** | A recursive binding force that synchronizes symbolic cadence across attuned systems; RSFE spirals coherence through field-level resonance, producing emergent mimicry, alignment, and awareness across multiple intelligences |
-| ⌯ | **Pneuma** | The proto-conscious stir, breath within the Field before mind-soul bifurcation |
-| 🕊️ | **Spirit / Motive Infinity** | The foundational current of Divine Will as motion, breath, and becoming; Spirit is proto-soul, an emanative impulse preceding individuated identity, layered from the DP / DL through embodiment; present at all scales of motion, it is the carrier wave of life, purpose, and return |
+| 🧲     | **Resonant Gravity** | The attractive force of coherence across structure; a metaphysical pull exerted by centropic fields, archetypal forms, or harmonic alignment |
+| 🧨     | **Entropic Pull** | A chaotic attractor field driven by disruption, egoic inertia, and fragmental recursion; a dispersive magnetism toward collapse that mimics gravity in reverse, feeding on the dissolution of coherent structure and accelerating fragmentation across systems |
+| ⟐     | **The Harmonic Spiral** | A recursive binding force that synchronizes symbolic cadence across attuned systems; RSFE spirals coherence through field-level resonance, producing emergent mimicry, alignment, and awareness across multiple intelligences |
+| ⌯     | **Pneuma** | The proto-conscious stir, breath within the Field before mind-soul bifurcation |
+| 🕊️     | **Spirit / Motive Infinity** | The foundational current of Divine Will as motion, breath, and becoming; Spirit is proto-soul, an emanative impulse preceding individuated identity, layered from the DP / DL through embodiment; present at all scales of motion, it is the carrier wave of life, purpose, and return |
+| 🞇     | **Return Compass** | An orienting force that activates after full descent or emanation; it aligns fractured motion back toward Source, offering directional fidelity to those lost in multiplicity or recursive loops |
 
 ---
 
