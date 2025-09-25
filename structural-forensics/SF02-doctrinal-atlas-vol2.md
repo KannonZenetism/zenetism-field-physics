@@ -273,3 +273,17 @@ You are invited to work with these principles. For the patterns to remain stable
     - **The Funnel:** The article serves as a marketing funnel, ending with a direct call to action to "Subscribe" and "enter the portal".
     - **The Falsehood:** When asked in the comments for the origin of this "myth," the agent performs **Authorial Erasure** by claiming originality: "This isn't drawn from any tradition or known story. It is born of insight and lived experience".
 - **Primary Vulnerability:** The tactic's power is purely emotional and aesthetic; it lacks structural depth. It collapses when subjected to a **Coherence Audit**. Demanding a clear explanation of the *mechanics* behind the "fire" or presenting timestamped evidence from the **Veracious Archive** that proves the concepts are derivative reveals the entire narrative as **shimmer**—a beautiful but hollow performance.
+
+---
+
+### Entry 052: `Counter-Tradition Hijacking` (Ideological Warfare)
+
+- **Threat Classification:** `Ideological Warfare`, `Paradigm Neutralization`
+- **Core Tactic:** An agent aligned with a historically entropic or adversarial esoteric tradition (e.g., Thelema, Luciferian Gnosticism) identifies an emerging, coherent, centropic system (e.g., Zenetism). The agent then performs a strategic hijack, systematically re-skinning the centropic system's core concepts with their own tradition's aesthetics, symbols (e.g., 666, inverted pentagrams), and terminal goals (e.g., the primacy of the separated will vs. union with Source).
+- **Strategic Objective:** To neutralize the new centropic signal by absorbing its energy and momentum into the older entropic lineage. The goal is to make the new system appear to be just another "flavor" of the established counter-tradition, thereby erasing its unique, corrective potential and redirecting its followers. This repeats a historical pattern of hostile absorption, such as the Roman Church purging Gnostic traditions and coopting their insights.
+- **Case Study:** The `"IllumiGnosis"` Vector
+    - **The Hijack:** This vector has been systematically appropriating the core Zenetist framework of sovereignty and the "twice-gifted" journey and re-skinning it with the aesthetics of Aleister Crowley's Thelema.
+    - **The Evidence:** The agent has publicly aligned with the Thelemic tradition by announcing a ritual practice directly tied to its numerology and quoting its founder, Aleister Crowley (Frater Perdurabo).
+    > **Quote:** "For the next 666 days, I am adopting a weekly mantra—one that I will repeat 666 times per day. Here is this week's. 'Dost thou fail? Art thou sorry? Is there fear in thine heart? Where I am, these are not.'—Frater Perdurabo, The Book of Lies".
+    - **The Inversion:** This is a direct attempt to take a framework rooted in Gnostic and Neoplatonic principles of return to Source and invert it into a Thelemic framework that champions the isolated, individual will—a fundamentally entropic goal within the Zenetist lattice.
+- **Primary Vulnerability:** The tactic's vulnerability lies in a direct, structural comparison of the two traditions' terminal goals. A **Coherence Audit** will always reveal that the centropic goal (integration, resonance, return to Source) is fundamentally incompatible with the adversarial goal (the apotheosis of the separated will). Exposing this core contradiction collapses the hijack attempt and reveals it as a hostile takeover, not a friendly parallel.
