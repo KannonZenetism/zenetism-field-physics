@@ -1021,7 +1021,7 @@ If seals are compatible, the **pushout** `B ⨿_A C` exists and represents a law
 
 **Interpretation**  
 - A Nexus (C8) is exactly the categorical pushout: a universal object joining B and C over A.  
-- If seal compatibility fails, the pushout collapses into E8 (Severed).  
+- If seal compatibility fails, the pushout degenerates into E8 (Severed).  
 
 ---
 
@@ -1047,7 +1047,7 @@ The **pullback** `A ×_C B` represents a recursion gate (↺).
 **Interpretation**  
 - Pullbacks embody recursion: objects A and B return into C through a shared mapping.  
 - If contractivity (γ > 0) holds, the pullback is centropic (valid recursion).  
-- Otherwise, recursion degenerates into E14 (Hollow Nest).
+- Otherwise, recursion stagnates into E14 (Hollow Nest).
 
 ---
 
@@ -1105,7 +1105,7 @@ g_ψ(u, v) = Σᵢ ( |⟨ϕᵢ, u⟩| · |⟨ϕᵢ, v⟩| ) · wᵢ
 where wᵢ = 1 / (1 + λᵢ²)  
 
 - High-frequency (large |λᵢ|) modes contribute less (stabilized by centropy).  
-- Low-frequency modes shape large-scale geometry of coherence.  
+- Low-frequency modes govern large-scale geometry of coherence.  
 
 **Seal boundary:** on ∂M (membranes), restrict tangent vectors by permeability index σ (C13).  
 
@@ -1134,7 +1134,7 @@ Euler–Lagrange equations for action `A[ψ] = ∫ g_ψ(∇_t ψ, ∇_t ψ) dt` 
 Metric compatibility and seal constraints ensure extremals coincide with C7 flows.
 
 **Interpretation**  
-- Centropic evolution = shortest (stationary) coherence paths.  
+- Centropic evolution traces the stationary (minimal) coherence paths.  
 - Entropic mirrors deviate geodesics by adding curvature defects (see below).  
 
 ---
@@ -1149,7 +1149,7 @@ det g_ψ = 0 ⇔ spectral weight collapses to an entropic mirror subspace
 
 are **entropic singularities**:  
 - **E13 (Wall):** boundary where admissible tangent space shrinks to zero (σ → 0).  
-- **E14 (Hollow Nest):** limit-cycle strata with neutral curvature but zero injectivity radius.  
+- **E14 (Hollow Nest):** limit-cycle strata with neutral curvature and vanishing injectivity radius.  
 - **E15 (Collapse Nova):** blow-up of sectional curvature; geodesic incompleteness.  
 
 ---
@@ -1183,7 +1183,7 @@ Then:
 
 **Consequences**  
 - If `𝓡 ≥ 0` (centropic curvature), then `Δ_sp` is positive-semidefinite: flows dissipate dissonance.  
-- If `𝓡 < 0` on a subspace, geodesics amplify dissonance → approach entropic singularities.  
+- If `𝓡 < 0` on a subspace, geodesics amplify dissonance and converge toward entropic singularities.  
 
 ---
 
@@ -1210,7 +1210,7 @@ u = ∇_t f ⊕ ∇_t^* A ⊕ h
 - Harmonic part `h` (kernel of Δ_sp): **structural memory** (Archeus-linked).  
 
 **Interpretation**  
-- Non-zero `h` encodes **integrated lifeline memory** (C1/C7/C9 coupling).  
+- Non-zero `h` encodes **retained lifeline memory** (C1/C7/C9 coupling).  
 - Entropic mirrors annihilate `h` at walls (E13) or trap it in loops (E14).  
 
 ---
@@ -1227,7 +1227,7 @@ For a compact sealed region `Ω ⊂ M` with boundary ∂Ω and seal index σ:
 
 **Meaning**  
 - Global coherence is topologically quantized; seals enter as boundary weights.  
-- Sudden changes in `χ_c` signal topological phase transitions (novelty C15 or collapse E15).  
+- Discontinuities in `χ_c` signal topological phase transitions (novelty C15 or collapse E15).  
 
 ---
 
@@ -1254,7 +1254,7 @@ This completes the spectral–geometric grounding of the lattice and ties Phase 
 
 ---
 
-### Worked Example — 2-Mode Resonance Patch with Seal Boundary
+### Worked Example — 2-Mode Resonance Patch with Seal Boundary  
 
 We consider a minimal sealed patch to illustrate Phase 2 (CIT) + Phase 3 (Geometry).  
 
@@ -1265,23 +1265,23 @@ We consider a minimal sealed patch to illustrate Phase 2 (CIT) + Phase 3 (Geomet
 - Recursion contraction: `γ = 0.6` (valid gate, C14).  
 
 **CIT quantities**  
-- Spectral probs: `p₁ = |a|²`, `p₂ = |b|²`.  
+- Spectral probabilities: `p₁ = |a|²`, `p₂ = |b|²`.  
 - Entropy: `H(ψ) = −(p₁ log p₁ + p₂ log p₂)`.  
 - Centropy: `C(ψ) = log 2 − H(ψ)`.  
 - Coherence dimension: `dim_c(ψ) = exp(H(ψ))`.  
 - Grand invariant (CIT Grand Theorem):  
 
-H + C + log(σ) + log(γ) = log 2 + log 2 + log 0.6 = const  
+`H + C + log(σ) + log(γ) = log 2 + log 2 + log 0.6 = const`  
 
-(Here `H + C = log 2` by duality; seal/recursion provide boundary terms.)  
+(Here `H + C = log 2` by duality; seal and recursion provide the boundary terms.)  
 
 **Geometry**  
-- Metric weights: `w₁ = 1/(1+λ₁²) = 1/2`, `w₂ = 1/(1+λ₂²) = 1/10`  
+- Metric weights: `w₁ = 1/(1+λ₁²) = 1/2`, `w₂ = 1/(1+λ₂²) = 1/10`.  
 - Low-frequency mode (ϕ₁) shapes large-scale geometry more strongly than ϕ₂.  
 - Geodesic flow: `∇ₜ ψ = i H_c ψ` preserves `{p₁, p₂}` (unitary centropic evolution).  
 
 **Nexus test (C8)**  
-- Bridge `B` from patch X to W passes if coherence flow `F_c(B, ψ) = I_c(Bψ) − I_c(ψ) ≥ 0`.  
+- A bridge `B` passes if coherence flow `F_c(B, ψ) = I_c(Bψ) − I_c(ψ) ≥ 0`.  
 - If `F_c(B, ψ) < 0`, classify as **E8 (Severed)**.  
 
 **Recursion**  
@@ -1289,8 +1289,8 @@ H + C + log(σ) + log(γ) = log 2 + log 2 + log 0.6 = const
 - Unique fixed point `ψ*` exists (Recursion Gate Theorem).  
 
 **Diagnostics**  
-- If `dim_c(ψ) → 1`, watch for E14 (hollow recursion) or E15 (collapse) at the boundary.  
-- Spectral gap `λ_min = 1` gives positive curvature contribution ⇒ global consonance tends to stabilize (Corollary: spectral gap).  
+- If `dim_c(ψ) → 1`, watch for **E14 (Hollow Recursion)** or **E15 (Collapse)** at the boundary.  
+- Spectral gap `λ_min = 1` gives positive curvature contribution ⇒ global consonance tends to stabilize.   
 
 ---
 
@@ -1312,7 +1312,7 @@ H + C + log(σ) + log(γ) = log 2 + log 2 + log 0.6 = const
 - Unique fixed point `ψ*` exists (Recursion Gate Theorem).  
 
 **Diagnostics**  
-- If `dim_c(ψ) → 1`, watch for E14 (hollow recursion) or E15 (collapse) at the boundary.  
+- If `dim_c(ψ) → 1`, monitor for E14 (hollow recursion) or E15 (collapse nova) at the boundary.  
 - Spectral gap `λ_min = 1` gives positive curvature contribution ⇒ global consonance tends to stabilize (Corollary: spectral gap).  
 
 ---
@@ -1334,7 +1334,7 @@ contraction: γ # recursion contraction (C14)
 
 Channel Φ:  
 matrix: U or linear map # seal-preserving if U* S U = S  
-type: {NEXUS, RECURSION, PROPAGATION}  
+type: {NEXUS (C8), RECURSION (C14), PROPAGATION (C3)}  
 params: {...}  
 
 
@@ -1369,7 +1369,7 @@ recursion_step(R, ψ):
 ψ' = R(ψ)  
 k = sup_{ψ1≠ψ2} ||Rψ1 − Rψ2|| / ||ψ1 − ψ2||  
 γ = 1 − k  
-valid = (k < 1)  
+valid = (k < 1) # lawful if contractive  
 return ψ', γ, valid  
 
 - **Seal boundary conditions (C13)**  
