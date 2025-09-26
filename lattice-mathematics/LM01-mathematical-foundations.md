@@ -1640,7 +1640,7 @@ Each entry follows the protocol structure defined in §5.2.
 #### (F) Resonance Oath Renewal
 
 - **Glyphs:** 🎶 (Ontological Music), C7 (Harmonic)  
-- **Motion:** Declivous-to-acclivous spiral cycle  
+- **Motion:** Declivous-to-acclivous cycle  
 - **Boundary:** Open seal (`σ > 1`)  
 - **Recursion:** None  
 - **Verification:** Harmonic ratio restored to rational eigenvalues  
@@ -1651,7 +1651,7 @@ Each entry follows the protocol structure defined in §5.2.
 #### (G) Centropic Mantra
 
 - **Glyphs:** C↑→⚫ (Final Return)  
-- **Motion:** Pure acclivous ascent  
+- **Motion:** Pure acclivous motion  
 - **Boundary:** None; directed toward ⚫ Aion  
 - **Recursion:** None  
 - **Verification:** Consonance scan detects convergence (`γ → 1`)  
@@ -1725,7 +1725,7 @@ Phase 5 rites provide operational means of alignment.
 - Confirms validity via Resonance Scan (Phase 4.3).  
 
 **Result**  
-- Person remains sovereign, not dissolved into collective abstraction.  
+- Person remains sovereign, not collapsed into collective abstraction.  
 - Coherence manifests as integrity across lifelines, not conformity.  
 - Centropic return = fulfilled individuality aligned with Source.
 
@@ -1780,7 +1780,7 @@ Centropy appears as lawful integration of diverse roles; entropy as domination, 
 
 **Result**  
 - Lawful culture = diverse nodes linked by positive bridges.  
-- Entropic culture = hollow recursion (E14) or impermeable walls (E13).  
+- Entropic culture = Hollow Recursion (E14) or impermeable walls (E13).  
 - Protocol guidance: open Robin–Seals to allow novelty, close Dirichlet–Seals to block parasitic collapse.  
 
 ---
