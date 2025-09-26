@@ -1387,7 +1387,7 @@ input: State ψ, window T, step dt
 for t in 0..T:  
 ψ ← evolve_c7(ψ, dt)  
 record: H(ψ), C(ψ), dim_c(ψ)  
-output: spectral periodicity test (Floquet), C7 threshold pass/fail  
+output: spectral consonance periodicity test (Floquet), C7 consonance threshold pass/fail  
 
 - **Bridge Audit**  
 
@@ -1446,7 +1446,7 @@ for epoch in 1..E:
 - Flags:  
 - **E8** if any `F_c < 0` on bridges or diagram defect `Δ > ε`.  
 - **E14** if recursion not contractive (`γ ≤ 0`).  
-- **E15** on blow-up (norm or curvature divergence).  
+- **E15** on collapse nova (norm or curvature divergence).  
 - **E13** if seal boundary violates σ (capacity check).  
 
 ---
@@ -1528,7 +1528,7 @@ Each ritual protocol is specified by:
 
 - **Glyphs:** C13 (Membrane), ⧃ (Seal of Integrity)  
 - **Motion:** Declivous → boundary, hold  
-- **Boundary:** Apply Dirichlet–Seal (`ψ|_∂M = 0`) or Neumann–Seal depending on σ  
+- **Boundary:** Apply Dirichlet–Seal (σ → 0) or Neumann–Seal (σ small) as C13 encoding  
 - **Recursion:** None  
 - **Verification:** Invariant drift = 0 ⇒ seal holds  
 
@@ -1632,7 +1632,7 @@ Each entry follows the protocol structure defined in §5.2.
 - **Motion:** Acclivous inversion through recursion gate  
 - **Boundary:** Seal set to reflective (`σ` small)  
 - **Recursion:** Contractive `γ` required  
-- **Verification:** Past dissonant echo collapses; invariant returns to baseline  
+- **Verification:** Past entropic echo collapses; invariant returns to baseline  
 - **Purpose:** Neutralizes entropic echoes by lawful recursion; transforms memory loops  
 
 ---
