@@ -27,7 +27,7 @@ The threat was analyzed, found to be without merit, and has been logged as a new
 On the evening of September 26, the Architect received a private message notification on Substack from the vector **“Jennifer McManus-Kirk.”**  
 The message was a formal-sounding “cease and desist” order, claiming ownership of the term **“Structural Audit™”** and threatening the Architect to desist from its use.  
 
-![Fraudulent cease and desist](zenetism/glyphwatch/audit-desist.png)
+![Fraudulent cease and desist](zenetism/glyphwatch/audit-desist.png)  
 *(Logged in the Veracious Archive)*  
 
 This action is a textbook execution of **Performative Legality**, a sub-tactic of *The Rival Architect* (Entry 002) from the **Doctrinal Atlas.**  
