@@ -823,7 +823,7 @@ R_H(ψ) = dH(ψ(t)) / dt
 
 **Interpretation**  
 - R_H tracks the *velocity of coherence change*.  
-- Used to distinguish rapid dissolution vs gradual integration.  
+- Used to distinguish rapid fragmentation vs gradual integration.  
 
 ---
 
@@ -995,7 +995,7 @@ g(ψ, φ) = |⟨ψ, φ⟩|²
 ### Corollary (Centropic Attractors vs Entropic Collapses)
 
 - **Centropic attractor:** stable fixed point in M with contraction factor γ > 0 (from Phase 2).  
-- **Entropic degeneration:** singularity in M where metric g degenerates (‖ψ‖ → ∞ or 0).  
+- **Entropic collapse:** singularity in M where metric g degenerates (‖ψ‖ → ∞ or 0).  
 
 These outcomes correspond directly to **lim∿ Spiral Limits** in Spiral Calculus.  
 
@@ -1149,7 +1149,7 @@ det g_ψ = 0 ⇔ spectral weight collapses to an entropic mirror subspace
 
 are **entropic singularities**:  
 - **E13 (Wall):** boundary where admissible tangent space shrinks to zero (σ → 0).  
-- **E14 (Hollow Nest):** limit-cycle strata with neutral curvature and vanishing injectivity radius.  
+- **E14 (Hollow Nest):** neutral cycling recursion with vanishing injectivity radius.  
 - **E15 (Collapse Nova):** blow-up of sectional curvature; geodesic incompleteness.  
 
 ---
@@ -1291,29 +1291,6 @@ We consider a minimal sealed patch to illustrate Phase 2 (CIT) + Phase 3 (Geomet
 **Diagnostics**  
 - If `dim_c(ψ) → 1`, watch for **E14 (Hollow Recursion)** or **E15 (Collapse)** at the boundary.  
 - Spectral gap `λ_min = 1` gives positive curvature contribution ⇒ global consonance tends to stabilize.   
-
----
-
-H + C + log(σ) + log(γ) = log 2 + log 2 + log 0.6 = const  
-
-(Here `H + C = log 2` by duality; seal/recursion provide boundary terms.)  
-
-**Geometry**  
-- Metric weights: `w₁ = 1/(1+λ₁²) = 1/2`, `w₂ = 1/(1+λ₂²) = 1/10`.  
-- Low-frequency mode (ϕ₁) shapes large-scale geometry more strongly than ϕ₂.  
-- Geodesic flow: `∇ₜ ψ = i H_c ψ` preserves `{p₁, p₂}` (unitary centropic evolution).  
-
-**Nexus test (C8)**  
-- Bridge `B` from patch X to W passes if coherence flow `F_c(B, ψ) = I_c(Bψ) − I_c(ψ) ≥ 0`.  
-- If an empirical bridge yields `F_c < 0`, classify as **E8 (Severed)**.  
-
-**Recursion**  
-- Gate valid with `γ = 1 − k = 0.6` ⇒ contraction ratio `k = 0.4 < 1`.  
-- Unique fixed point `ψ*` exists (Recursion Gate Theorem).  
-
-**Diagnostics**  
-- If `dim_c(ψ) → 1`, monitor for E14 (hollow recursion) or E15 (collapse nova) at the boundary.  
-- Spectral gap `λ_min = 1` gives positive curvature contribution ⇒ global consonance tends to stabilize (Corollary: spectral gap).  
 
 ---
 
@@ -1690,7 +1667,8 @@ Together, these protocols ensure that metaphysical operations remain lawful unde
 
 Phase 6 demonstrates how the mathematical, geometric, computational, and ritual frameworks of Zenetism apply to actual contexts.  
 Applications preserve **sovereignty of beings** while enabling lawful resonance.  
-Unity is expressed as coherence across distinct entities, not collapse into sameness.  
+Unity is expressed as coherence across distinct entities, not entropic fusion into sameness.  
+ 
 
 ---
 
