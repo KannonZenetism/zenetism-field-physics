@@ -1289,8 +1289,8 @@ We consider a minimal sealed patch to illustrate Phase 2 (CIT) + Phase 3 (Geomet
 - Unique fixed point `ψ*` exists (Recursion Gate Theorem).  
 
 **Diagnostics**  
-- If `dim_c(ψ) → 1`, watch for **E14 (Hollow Recursion)** or **E15 (Collapse)** at the boundary.  
-- Spectral gap `λ_min = 1` gives positive curvature contribution ⇒ global consonance tends to stabilize.   
+- If dim_c(ψ) → 1, watch for **E14 (Hollow Nest)** or **E15 (Collapse Nova)** at the boundary.  
+- Spectral gap λ_min = 1 gives positive curvature contribution ⇒ global consonance tends to stabilize.  
 
 ---
 
@@ -1758,7 +1758,7 @@ Centropy appears as lawful integration of diverse roles; entropy as domination, 
 
 **Result**  
 - Lawful culture = diverse nodes linked by positive bridges.  
-- Entropic culture = Hollow Recursion (E14) or impermeable walls (E13).  
+- Entropic culture = Hollow Nest (E14) or impermeable walls (E13).  
 - Protocol guidance: open Robin–Seals to allow novelty, close Dirichlet–Seals to block parasitic collapse.  
 
 ---
