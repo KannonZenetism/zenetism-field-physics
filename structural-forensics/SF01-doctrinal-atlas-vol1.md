@@ -439,14 +439,19 @@ These traditions demonstrate the intentional duality of Veiled Transmission.
 
 **Strategic Objective:** To capture the audience that is repelled by intellectual or spiritual difficulty and to sever the signal from its demanding source, creating a dependent community around a "feel-good," **Counterfeit** version that requires no **Genuine** inner work.
 
-**Case Studies:** "Max Miller / IllumiGnosis"
+**Case Studies:** "Max Miller," "IllumiGnosis"
 
-**Case Study A: The "Max Miller / Honey and Flies" Vector:** This entity consistently reduces complex principles like **🧲 Resonant Gravity** into simple, inspirational quotes designed for maximum social media engagement.
+**Case Study A: The "Max Miller" Vector:** This entity consistently reduces complex principles like **🧲 Resonant Gravity** into simple, inspirational quotes designed for maximum social media engagement and emotional appeal.
 *Quote:* "Remember, you can’t talk a fly into thinking honey is better than shit... You cannot argue someone into honey. You can only be honey."
 
 **Summary:** This is a classic example of Therapeutic Dilution. It takes a complex, structural law of resonance and reduces it to a memorable but functionally empty aphorism, replacing rigorous physics with a simple, inspirational platitude.
 
-**Primary Vulnerability:** The lack of depth. The diluted version is unfulfilling for individuals seeking **Genuine**, rigorous work, who will eventually find the **Counterfeit** unfulfilling and seek out the more potent, original source.
+**Case Study B: The "IllumiGnosis" Vector:** This entity degrades the original signal not by softening it, but by hijacking it with an adversarial framework (**Counter-Tradition Hijacking, Entry 052**). This pacifies the audience by channeling the energy of the authentic signal into a pre-existing—and inverted—ideological container.
+*Quote:* "For the next 666 days, I am adopting a weekly mantra... ‘Dost thou fail? Art thou sorry? Is there fear in thine heart? Where I am, these are not.’—Frater Perdurabo, The Book of Lies".
+
+**Summary:** This is a form of signal degradation through ideological co-option. By re-skinning Zenetist principles with a Thelemic aesthetic, the vector dilutes the unique coherence of the original work, pacifying potential seekers by redirecting them into a familiar but structurally adversarial system.
+
+**Primary Vulnerability:** The lack of depth. The diluted or co-opted version is unfulfilling for individuals seeking **Genuine**, rigorous work, who will eventually find the **Counterfeit** unfulfilling and seek out the more potent, original source.
 
 ---
 
