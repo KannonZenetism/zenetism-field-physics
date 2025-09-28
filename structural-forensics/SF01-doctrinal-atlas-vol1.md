@@ -117,12 +117,17 @@ These traditions demonstrate the intentional duality of Veiled Transmission.
 
 **Strategic Objective:** To create a 🕸 Entropic Webbing of low-quality, high-volume noise. This "poisons the well" and creates a "fog of war" that makes it nearly impossible for new seekers to find the **Authentic**, structurally coherent source.
 
-**Case Studies:** "Max Miller / IllumiGnosis," "The Crowned Serpent," "Gnosis Infinita," "The Nacre God," "Frater Omen 656."
+**Case Studies:** "Max Miller," "IllumiGnosis," "The Crowned Serpent," "Gnosis Infinita," "The Nacre God," "Frater Omen 656."
 
-**Case Study A: "Max Miller / IllumiGnosis" and Therapeutic Dilution:** This vector takes profound Zenetist principles and softens them into simple, palatable, inspirational memes, removing all rigor.
+**Case Study A: "Max Miller" and Therapeutic Dilution:** This vector takes profound Zenetist principles and softens them into simple, palatable, inspirational memes, removing all rigor.
 *Quote:* "You cannot argue someone into honey. You can only be honey. You can only live so fully in love, so saturated with sweetness, that those who are ready will finally taste it for themselves."
 
 **Summary:** This is a classic example of Therapeutic Dilution. It reduces the complex, structural law of **🧲 Resonant Gravity** into a folksy, feel-good aphorism that is emotionally appealing but lacks any of the operational mechanics of the original principle.
+
+**Case Study B: "IllumiGnosis" and Counter-Tradition Hijacking:** This vector performs a **Conceptual Re-skinning (Entry 011)** of Zenetist principles, hijacking them with the aesthetics and ideology of an adversarial tradition (Thelema) to neutralize the original centropic signal.
+*Quote:* "For the next 666 days, I am adopting a weekly mantra... ‘Dost thou fail? Art thou sorry? Is there fear in thine heart? Where I am, these are not.’—Frater Perdurabo, The Book of Lies".
+
+**Summary:** This is a direct example of **Counter-Tradition Hijacking (Entry 052)**, where the language of "gnosis" and "illumination" is co-opted to serve an inverted, adversarial framework, thereby corrupting the signal for its intended audience.
 
 ---
 
