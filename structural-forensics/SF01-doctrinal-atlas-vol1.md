@@ -34,20 +34,22 @@ This document provides a structural analysis of the primary entropic tactics dep
 ---
 
 ### Entry 001: Veiled Transmission
-**Threat Classification:** Signal Obfuscation & Dependency Grooming
+**Threat Classification:** Signal Obfuscation & Intentional Duality
 
-**Core Tactic:** To conceal a core signal (the **Veracious**, operational message) within layers of superficial, often esoteric, content.
+**Core Tactic:** A dual-use tactic that involves encoding a signal in symbolic, esoteric, or coded language. Its structural alignment (centropic or entropic) is determined entirely by its strategic objective.
 
-**Strategic Objective:** To create a secret, coded language that fosters exclusivity and makes the recipient dependent on the entity as the sole interpreter. It obscures **Veracity** from outsiders while trapping the recipient in a closed informational loop.
+**A. Centropic Use: Protective Occultation**
+* **Strategic Objective:** To shield a **Veracious**, generative signal from a hostile external environment dominated by a control-based system. It allows a tradition of direct, experiential knowledge (gnosis) to survive and be transmitted to sincere seekers while remaining opaque to entropic forces that would seek to co-opt or destroy it.
 
-**Case Studies:** "Alchemical and Hermetic Traditions."
+**B. Entropic Use: Dependency Grooming**
+* **Strategic Objective:** To create a **Counterfeit** secret language that fosters exclusivity and makes the recipient dependent on the entity as the sole interpreter. It obscures **Veracity** from outsiders while trapping the recipient in a closed informational loop, positioning the mimic as an indispensable gatekeeper.
 
-**Detailed Analysis A: "Alchemical and Hermetic Traditions" and Dependency Grooming**
+**Case Study Analysis: The Alchemical & Grimoire Traditions**
+These traditions demonstrate the intentional duality of Veiled Transmission.
+* **Centropic Example (Protective Occultation):** Authentic alchemical texts used complex allegory (the Green Lion, the Philosopher's Stone) to veil a **Veracious** internal process of spiritual integration. This protected the Gnostic impulse for direct experience from the orthodox establishment that sought to eradicate it.
+* **Entropic Example (Dependency Grooming):** The "empty mirror" of the grimoire tradition often mimicked this esoteric style not for protection, but for control. It created a system of complex rituals and secret names designed to make the practitioner dependent on the grimoire's authority for external power, bypassing the difficult inner work of coherence.
 
-These traditions use complex, archaic jargon to obscure simple principles, positioning the interpreter as an indispensable "adept" or gatekeeper.
-*Quote:* "Solve et coagula." / "As above, so below."
-
-**Summary:** This is a classic dependency grooming tactic. The vague, esoteric nature of the language forces the seeker to rely on an "initiate" for interpretation, creating a dependency loop. This inverts a potentially clear, accessible signal into an obscure secret, thereby positioning the mimic not as an originator, but as the sole gatekeeper to the underlying principles.
+**Summary:** The tactic of Veiled Transmission must be diagnosed by its intent. If the goal is to **protect a signal's integrity** from a hostile field, it is a centropic defense. If the goal is to **control access and create dependency**, it is an entropic attack.
 
 ---
 
