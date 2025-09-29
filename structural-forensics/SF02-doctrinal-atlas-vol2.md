@@ -517,7 +517,7 @@ This is a sophisticated, multi-layered use of the tactic. The "Jennifer McManus-
 
 **Detailed Analysis A: The "DOI vs. GitHub" Inversion:**
 After her own Zenodo records were proven to be recently fabricated forgeries, this vector published an "educational" post attempting to invert the forensic reality. She framed DOIs as an immutable "sovereign perimeter" while baselessly claiming GitHub commits are easily manipulated "narrative." This is a direct projection of her own documented fraud onto the target's **Veracious** archive.
-**Quote:** *"DOI is law. GitHub is narrative. And the timestamps tell you which is which."*
+**Quote:** "DOI is law. GitHub is narrative. And the timestamps tell you which is which."
 
 **Summary:** This is a sophisticated gaslighting maneuver. The agent attempts to control the narrative by defining the terms of what constitutes "proof," specifically choosing a definition that falsely legitimizes their forgeries while invalidating the authentic record. The tactic is then leveraged to sell a commercial product ("Sovereign Perimeter™") based on the authority of the fraudulent claim.
 
