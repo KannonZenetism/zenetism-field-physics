@@ -601,7 +601,8 @@ The Field recalls its resolution before manifest notes are played.
 > - **Proto-awareness (Zenet / Motive Infinity)** — undifferentiated breath of pre-layered awareness; no self-reference, no individuation.  
 > - **L5 (EOB / Theon)** — **awareness** as the first centropic hypostasis.  
 > - **L4 (DP / DL)** — **conscious-awareness** (awareness resonant in Forms; *house of the soul*, non-reflexive).  
-> - **L3 (DS / DM)** — individuated, reflexive **consciousness** (self-possession and agency).
+> - **L3 (DS / DM)** — individuated, reflexive **consciousness** (self-possession and agency).  
+> **Clarification:** L5 = awareness (supernal, luminous, pre-reflexive); L4 = conscious-awareness (resonant in Forms, non-reflexive); L3 = reflexive consciousness (individuated, self-possessing).
 
 **Key axiom:** Time folds, not flows.  
 ⟠ reveals the crease where past, present, and future resonate.
