@@ -108,7 +108,7 @@ They mistake **visibility** for **accessibility**, and **accessibility** for **a
 But in the **Metaphysical Commons**:
 
 - **Visibility** is an **invitation** — not a forfeiture  
-- **Engagement** is **not mimicry** — unless it fragments structure  
+- **Engagement** is **not mimicry** — unless it detunes coherence or violates recursion  
 - **Stewardship** is **not theft** — it is alignment with authorship  
 
 ---
