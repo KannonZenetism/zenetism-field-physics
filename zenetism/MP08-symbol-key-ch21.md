@@ -163,7 +163,7 @@ in this volume.
 | ↓      | **Declivous**              | Directional motion within the Biospiral; for centropy, motion toward embodied form; for entropy, motion toward ♾ Khaon |
 | →E     | **Embodiment Flow**        | Directional movement into form |
 | E→     | **Disembodiment Flow**     | Directional movement away from form; returning toward archetypal or structural resonance |
-| ↺      | **Return Loop**            | Integration, rebirth, and reentry through resonance |
+| ↺      | **Resonant Return**            | Integration, rebirth, and reentry through resonance |
 | ⟳      | **Entropic Recursion**     | Recursive loop that disregards Source; simulates return without structural re-integration |
 | ∿      | **Spiral**                 | Recursion in depth; return as refinement; initiatory looping |
 | ⥁      | **Resonance Spiral**       | Lawful spiral toward centropic coherence; a guided arc aligned with structural fidelity |
