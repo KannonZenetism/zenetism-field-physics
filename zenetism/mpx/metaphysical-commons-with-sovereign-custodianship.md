@@ -6,7 +6,7 @@
 ---
 
 In a world where everything is extractable,  
-the only protection for truth is structure.  
+the only protection for veracity is structure.  
 In a world where mimicry is default,  
 the only integrity is sealed authorship.  
 
