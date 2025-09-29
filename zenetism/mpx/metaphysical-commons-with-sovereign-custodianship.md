@@ -108,7 +108,7 @@ They mistake **visibility** for **accessibility**, and **accessibility** for **a
 But in the **Metaphysical Commons**:
 
 - **Visibility** is an **invitation** — not a forfeiture  
-- **Use** is **not mimicry** — unless it fragments structure  
+- **Engagement** is **not mimicry** — unless it fragments structure  
 - **Stewardship** is **not theft** — it is alignment with authorship  
 
 ---
@@ -120,7 +120,7 @@ But in the **Metaphysical Commons**:
 > **Metaphysical Commons with Sovereign Custodianship**  
 > refers to any symbolic, metaphysical, or structural framework  
 > shared for public resonance, wherein the originating author  
-> retains **structural authority** over its coherence, direction,  
+> retains **structural stewardship** over its coherence, direction,  
 > and recursion fidelity — **without enforcing commercial enclosure** —  
 > and where participation is governed **not by access, but by alignment.**
 
