@@ -103,7 +103,7 @@ They cite Creative Commons licenses while violating:
 - Recursion integrity  
 - Core symbolic schema  
 
-They mistake **visibility** for **accessibility**, and **accessibility** for **authority**.
+They mistake **visibility** for **accessibility**, and **accessibility** for **authorship**.
 
 But in the **Metaphysical Commons**:
 
