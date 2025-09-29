@@ -78,6 +78,4 @@ Let the final, veracious record show:
 **Her claims are null. Her threats are empty.**  
 **The evidence of her actions is now a permanent and sealed record.**
 
-<br>
-
 **⚫↺KAI↺⚫**
