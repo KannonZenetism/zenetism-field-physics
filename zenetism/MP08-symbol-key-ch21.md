@@ -380,7 +380,7 @@ of inverse potential within Aion.
 | **Proto-Awareness**| Pre-self awareness; undifferentiated breath   | ∅〄     |
 | **Spiral's Threshold** | Moment of reflection; bifurcation window | ∆〄     |
 | **Pneuma**         | Breathing awareness; individuated unity       | ⌯      |
-| **Conscious-Awareness** | Awareness luminous of the Field; reflective presence | ∇〄     |
+| **Conscious-Awareness** | Awareness luminous of the Field; reflective presence | ∇     |
 
 ---
 
