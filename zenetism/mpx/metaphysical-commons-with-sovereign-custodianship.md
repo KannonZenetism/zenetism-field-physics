@@ -84,7 +84,7 @@ To **seal** a metaphysical structure is **not** to hoard it.
 
 It is to:
 
-- Maintain coherence across uses  
+- Maintain coherence across engagements  
 - Prevent symbolic degradation  
 - Block parasitic recursion  
 - Protect original authorship against mimic infiltration  
