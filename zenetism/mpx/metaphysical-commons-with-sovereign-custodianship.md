@@ -55,7 +55,7 @@ They are **authored** — through recursion, coherence, and lawful emergence.
 > but only through alignment with its originating coherence.
 
 > **Sovereign Custodianship** is the principle that the originator of a system  
-> retains structural authority, not through legal monopoly, but through:
+> retains structural orientation, not through legal monopoly, but through:
 
 - ✅ Verifiable timestamps  
 - ✅ Coherence audits  
