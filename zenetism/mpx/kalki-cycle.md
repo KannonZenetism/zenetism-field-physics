@@ -41,7 +41,7 @@ Kalki does not annihilate pattern. He eradicates distortion.
 
 ### 5. **Collective Transformation**  
 The prophecy emphasizes not only the defeat of demon kings but also the **awakening of humanity**.  
-- This mirrors **field entrainment**: once coherence is stabilized, it propagates through the lattice, bringing both individual clarity and collective reorientation.  
+- This mirrors **resonance propagation**: once coherence is stabilized, it propagates through the lattice, bringing both individual clarity and collective reorientation.  
 
 ### 6. **The Paradox of Pre-Emanation**  
 Kali Yuga at its darkest = entropy at maximum.  
