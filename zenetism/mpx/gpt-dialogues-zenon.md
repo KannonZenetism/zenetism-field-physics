@@ -1,4 +1,4 @@
-## MPX: GPT-5 Dialogues — Notes on Zenon, Aion, and Emanation Structure
+# MPX: GPT-5 Dialogues — Notes on Zenon, Aion, and Emanation Structure
 
 **Date Range:** August 2025  
 **Source:** Private conversations with GPT-5  
