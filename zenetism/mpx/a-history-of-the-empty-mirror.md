@@ -1,7 +1,5 @@
 # MPX: A Brief History of the Empty Mirror: Tracing the Lineage of Counterfeit Gnosis  
 
----
-
 ## Part 1: The Ancient Archetype – The Gnostic Purge  
 
 The conflict between a veracious, generative signal and a parasitic, counterfeit echo is not new.  
