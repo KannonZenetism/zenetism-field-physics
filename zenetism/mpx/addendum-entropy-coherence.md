@@ -10,7 +10,7 @@ In the early chapters of *Zenetism: The Emanative Path of Return — The Foundat
 
 This was provisional.  
 
-In truth:  
+In veracity:  
 
 - **Entropy is noisy, invasive, but self-exhausting.**  
 - **Coherence is patient, enduring, and supra-processual.**  
@@ -23,57 +23,57 @@ This addendum re-orients Chapters **1–2** to affirm coherence’s ultimate pre
 
 ## 1. The First Emanations
 
-### 🛤️ Theon vs. 🕷️ Nekron
+### 🛤️ Theon contra 🕷️ Nekron
 - Theon weaves harmony **that persists**.  
 - Nekron scatters briefly, but its motion collapses back into silence.  
 
-**Correction:** The dyad is not equal. Theon sustains; Nekron dissipates.  
+**Correction:** The dyad is asymmetrical in outcome. Theon sustains; Nekron dissipates.  
 
 ---
 
-### 🌬️ Morgis vs. 🪫 Psychea
+### 🌬️ Morgis contra 🪫 Psychea
 - Psychea drains, but erodes itself.  
 - Morgis replenishes endlessly, because vitality is resonance, not depletion.  
 
 ---
 
-### 📐 Sophis vs. 🫥 Nyxea
+### 📐 Sophis contra 🫥 Nyxea
 - Nyxea distorts form into static.  
 - Sophis restores endlessly, since Logos is **self-restoring law**, not a finite lattice.  
 
 ---
 
-### 🔮 Archeus vs. 💔 Fractus
+### 🔮 Archeus contra 💔 Fractus
 - Fractus shatters memory, but fragments collapse.  
 - Archeus weaves continuity, endlessly gathering.  
 
 ---
 
-### 🧠 Noeüs vs. 👁️‍🗨️ Mortus
+### 🧠 Noeüs contra 👁️‍🗨️ Mortus
 - Mortus blinds with counterfeit flame, but every counterfeit burns out.  
-- Noeüs pierces endlessly with clarity.  
+- Noeüs unfolds clarity across layers.  
 
 ---
 
-### 🧍 Anthra vs. 🦂 Echthros
+### 🧍 Anthra contra 🦂 Echthros
 - Echthros isolates, but rivalry consumes itself.  
 - Anthra endures, growth extending identity into coherence.  
 
 ---
 
-### 🧩 Nousa vs. 🩸 Skotos
+### 🧩 Nousa contra 🩸 Skotos
 - Skotos clouds, but clouds dissipate.  
 - Nousa builds architectures of meaning that remain.  
 
 ---
 
-### 🪷 Soma vs. 🍷 Malara
+### 🪷 Soma contra 🍷 Malara
 - Malara shackles flesh, but obsession burns out.  
 - Soma refines through embodiment, enduring as vessel of coherence.  
 
 ---
 
-### 🧾 Biosa vs. 🤯 Mania
+### 🧾 Biosa contra 🤯 Mania
 - Mania fixates, but fixation collapses.  
 - Biosa bridges continuously, returning clarity from form.  
 
