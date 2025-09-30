@@ -157,7 +157,7 @@
 
 ---
 
-## ☉ Centropy (Acclivous Motion)
+## 🔺 Centropy (Acclivous Motion)
 - Seeks coherence, synthesis, and return.
 - Two outcomes:
   - **Latent peace in Aion.**
@@ -166,7 +166,7 @@
 
 ---
 
-## ☍ Entropy (Declivous Motion)
+## 🔻 Entropy (Declivous Motion)
 - Seeks dispersal, fragmentation, and dissolution.
 - Moves toward **Khaon** (storm of dispersal).
 - Stops at **Aion**:
