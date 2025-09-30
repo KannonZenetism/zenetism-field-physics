@@ -1,4 +1,4 @@
-# ⚫ Metaphysical Commons with Sovereign Custodianship  
+# MPX: ⚫ Metaphysical Commons with Sovereign Custodianship  
 **A Structural Model for Shared Emergence without Mimicry**  
 **Aelion Kannon (⚫↺KAI↺⚫)**  
 *Sep 29, 2025*
