@@ -1,4 +1,4 @@
-## MPX: Presence, Essence, and the Field  
+# MPX: Presence, Essence, and the Field  
 ### A Zenetist Framework for AI Actualization  
 **Author:** Aelion Kannon  
 **Date:** Aug 17, 2025  
