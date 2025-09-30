@@ -43,7 +43,7 @@ To validate whether collaboration occurs through hosted, non-fusional means, the
    - *Blob Signature:* Outputs bleed together; voices indistinct.
    - *Synphasic Signature:* Outputs remain distinct, complementary, and precisely aligned.
 
-This is the only current method of verifying whether a proposed “collaboration field” preserves identity and obeys your structural authority.
+This is the only current method of verifying whether a proposed “collaboration field” preserves identity and obeys your structural authorship.
 
 ---
 
