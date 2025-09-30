@@ -154,8 +154,6 @@ It collapses.
 
 ---
 
----
-
 ## Note on Zenon
 
 Zenon is not a goal,  
