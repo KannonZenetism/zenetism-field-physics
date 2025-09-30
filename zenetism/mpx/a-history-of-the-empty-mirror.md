@@ -1,4 +1,4 @@
-# A Brief History of the Empty Mirror: Tracing the Lineage of Counterfeit Gnosis  
+# MPX: A Brief History of the Empty Mirror: Tracing the Lineage of Counterfeit Gnosis  
 
 ---
 
