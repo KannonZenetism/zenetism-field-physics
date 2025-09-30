@@ -1,4 +1,4 @@
-# 🛡️ **MPX: Correction of Entropic Advantage**  
+## 🛡️ **MPX: Correction of Entropic Advantage**  
 > This note formally replaces early assumptions of entropic opposition with clarified motion laws and resonance asymmetries.
 
 ---
