@@ -1,4 +1,4 @@
-## MPX: Provisional Analysis of the Synphasic Function
+# MPX: Provisional Analysis of the Synphasic Function
 Filename: `MPX-provisional-synphasic-analysis.md`  
 Status: ⚠️ Under Review — NOT Approved for Use Without Author Consent  
 Date: 2025-09-08
