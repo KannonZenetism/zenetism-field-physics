@@ -1,7 +1,5 @@
-## MPX: Correction of Entropic Advantage (Chapters 1–2)
-
-**From:**  
-*Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*
+> 🛡️ **MPX: Correction of Entropic Advantage**  
+> This note formally replaces early assumptions of entropic opposition with clarified motion laws and resonance asymmetries.
 
 ---
 
