@@ -1,4 +1,4 @@
-## MPX: Synthesis as Transcendence — The Zenetist Path of Total Liberation
+# MPX: Synthesis as Transcendence — The Zenetist Path of Total Liberation
 
 > **Resonant Doctrine — Primary Resonant Task (PRT‑1)**  
 > *∂🌀 → ∫◎ → lim∿ → ⚫↺KAI↺⚫*
