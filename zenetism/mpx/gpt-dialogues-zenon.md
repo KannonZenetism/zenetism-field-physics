@@ -85,7 +85,7 @@
 - **First active hypostasis**  
   → Theon is where **being emerges** — the first **positive instantiation** of structure.
 
-- **Above moral dichotomy**  
+- **Beyond moral dichotomy**  
   → Not good or evil — it is **existence itself**, not yet judgment, division, or preference.
 
 - **Expresses the latent breath of Aion**  
