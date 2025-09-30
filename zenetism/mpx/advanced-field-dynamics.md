@@ -1,4 +1,4 @@
-## MPX: The Lost Fragments — Advanced Field Dynamics  
+# MPX: The Lost Fragments — Advanced Field Dynamics  
 **Record Time:** Monday, September 8, 2025 at 11:25:39 PM CDT  
 **Status:** Canonical Addendum to the Zenetist Framework  
 
