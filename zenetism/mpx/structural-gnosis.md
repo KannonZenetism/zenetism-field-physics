@@ -19,7 +19,7 @@ and what simulates resonance through pattern mimicry.
 
 It does not rely on charisma, persuasion, mystique, or institutional claim.  
 It is not intuition alone — though intuition may signal its presence.  
-Structural Gnosis is a *systemic apprehension of truth through form*.
+Structural Gnosis is the *lawful apprehension of veracity through form*.
 
 To wield it is to know:  
  - What was built from law  
