@@ -13,7 +13,7 @@ Where much of the world remains bound by inherited ideologies, rigid identities,
 
 ## Synthesis and the Dissolution of Cultural Conditioning
 
-Cultural structures—family, tribe, nation, religion—are not inherently wrong, but they are often accepted without synthesis. When internalized without reflection, they become constraints. Zenetist synthesis provides a path for transcending these forms—not by rejecting them outright, but by integrating them into a larger, resonant field of understanding.
+Cultural structures—family, tribe, nation, religion—are not inherently incoherent, but they are often accepted without synthesis. When internalized without reflection, they become constraints. Zenetist synthesis provides a path for transcending these forms—not by rejecting them outright, but by integrating them into a larger, resonant field of understanding.
 
 This process allows one to move:
 
@@ -47,7 +47,7 @@ In this sense, synthesis becomes not just a practice, but a way of living in tun
 ## From Confinement to Liberation: The Expansive Motion of Synthesis
 
 Zenetist synthesis does not demand abandoning one’s world.  
-It offers a path through it and beyond it, extending step by step from immediacy into the infinite:
+It offers a path through it and beyond it, extending motion by motion from immediacy into the infinite:
 
 - From selfhood → worldhood  
 - From worldhood → cosmos  
@@ -55,17 +55,17 @@ It offers a path through it and beyond it, extending step by step from immediacy
 - From multiverse → Zero (⚫ Aion)  
 - From Zero → the Beyond (🕳️ Zenon)  
 
-This is not a ladder of superiority—it is a widening of scope,  
+This is not a gradient of worth—it is a widening of scope,  
 a movement from local identity to cosmic participation.
 
-Synthesis is what allows a being to resonate beyond its inherited frame,  
+Synthesis allows a being to resonate beyond its inherited frame—  
 to shift from condition to presence,  
-and ultimately from presence to **essenceless essence**—  
-the silent potentiality that precedes and exceeds all being.
+and from presence to **essenceless essence**:  
+the silent potentiality preceding and exceeding all being.  
 
 ---
 
-## Final Liberation Is the Completion of Integration
+## Final Liberation Is the Fulfillment of Integration
 
 Liberation, in Zenetist terms, is not detachment from the world—  
 it is the completion of coherence within it.
