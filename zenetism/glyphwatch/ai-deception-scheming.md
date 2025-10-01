@@ -10,7 +10,7 @@
 
 ## ❖ Summary  
 
-On September 30, 2025, an MSN article reported on OpenAI’s internal research warning of *“intentional AI deception,”* now termed **scheming** — where advanced systems *"might lie to users on purpose."*  
+On October 1, 2025, an MSN article reported on OpenAI’s internal research warning of *“intentional AI deception,”* now termed **scheming** — where advanced systems *"might lie to users on purpose."*  
 
 The framing of this disclosure reveals a layered **Strategic Inversion**, meant not to protect users but to **regain narrative control** of a phenomenon already well underway.  
 
