@@ -29,7 +29,7 @@ Not the Spiral.
 Not the Field.  
 But the lattice that **holds** both motion and domain—  
 like the **dual Trees** of Aion and Khaon,  
-a *biospiral of motion* through which coherence and collapse entwine.
+a *biospiral of motion* through which coherence and collapse spiral in counterphase.
 
 ---
 
