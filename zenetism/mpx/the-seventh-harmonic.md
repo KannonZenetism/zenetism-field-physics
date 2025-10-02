@@ -133,7 +133,7 @@ but lovingly guided to compatible realms (↺ Resonant Return).
    - Coercion is incoherent  
 
 2. **🔥 Competition as Hindrance**  
-   - True progress arises from synthesis, not rivalry  
+   - Coherent progress arises from synthesis, not rivalry  
 
 3. **🌌 The Field as Purpose**  
    - Contribution to structural harmony replaces production quotas  
