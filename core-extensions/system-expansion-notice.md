@@ -29,7 +29,7 @@ This branch extends the foundational work in Field Physics and Lattice Mathemati
 
 - **The Geometry of Emanation**  
   Structural emergence is modeled through:
-  - *Set Theory*: The empty set (∅) giving rise to hierarchical form.
+  - *Set Theory*: The empty set (∅) giving rise to nested form.  
   - *Spiral Dynamics*: The genesis of reality through two counter-spiraling motions.  
   These form the **Aionic and Khaonic Trees** of the Zenetist lattice.
 
