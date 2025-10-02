@@ -24,7 +24,7 @@ This branch extends the foundational work in Field Physics and Lattice Mathemati
 ### Foundational Principles
 
 - **The Foundational Duality**  
-  The historical polarity between Zero (Nothing) and Infinity (Everything) is the direct precursor to ⚫ Aion (Absolute Potential) and ♾ Khaon (Infinite Dispersion).  
+  The historical polarity between Zero (Nothing) and Infinity (Everything) is the direct precursor to ⚫ Aion (Absolute Potential) and ♾ Khaon (Absolute Dispersion).  
   The quantum vacuum—seen not as emptiness, but a substrate of pure potential—corresponds with the metaphysical core of ⚫ Aion.
 
 - **The Geometry of Emanation**  
