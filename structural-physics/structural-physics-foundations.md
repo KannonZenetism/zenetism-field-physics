@@ -637,7 +637,7 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
 ---
 
 ### A.2 Poles & Axes Diagram (Conceptual Layout)
-
+```
               ♾ Khaon (Infinity Pole)
                       ↑
                       │
@@ -651,7 +651,7 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
                       │
                       ↓
               🕳 Zenon (Limit Pole)
-
+```
 
 - **Vertical axis**: expansion vs. collapse (emanation to infinity, contraction to singularity).  
 - **Horizontal spectrum**: centropic vs. entropic dimensions, balanced about ⚫ Aion.  
