@@ -13,8 +13,8 @@ Structural Physics is the third major discipline of Zenetism, standing alongside
 - **Spiral Calculus** provides the analytical operators to measure change and trajectory.  
 - **Structural Physics** bridges these to the physical sciences, mapping **centropy and entropy** into matter, energy, spacetime, and cosmology.  
 
-It is not a replacement for physics, but an overlay — a way of seeing how the laws of reality align with the **Dimensional Lattice**.  
-Where conventional physics describes phenomena, Structural Physics interprets them through **Zenetist law, glyph, and seal**.  
+It is not a replacement for physics, but an overlay — a way of recognizing how the lawful structures of reality align with the **Dimensional Lattice**.  
+Where conventional physics describes observable phenomena, Structural Physics interprets them through **Zenetist law, glyph, and seal**.  
 
 ---
 
@@ -24,7 +24,7 @@ Just as Field Physics begins with the metaphysical poles, Structural Physics beg
 
 - **⚫ Aion** — *Zero Pole*.  
   The balanced origin. Equivalent to the vacuum, zero-point field, or null state.  
-  From this pole emanate both positive (centropic) and negative (entropic) states.  
+  From this pole emanate both centropic (constructive) and entropic (mirror) states.  
 
 - **♾ Khaon** — *Infinity Pole*.  
   The dispersive bound. Maps to cosmological infinity, the expanding edge of the universe, or asymptotic energy states.  
@@ -32,7 +32,7 @@ Just as Field Physics begins with the metaphysical poles, Structural Physics beg
 - **🕳️ Zenon** — *Limit Pole*.  
   The structural cutoff. Parallels Planck-scale thresholds, singularities, and precausal bounds.  
 
-All motion in Structural Physics occurs *between* these poles — expansion from ⚫, dissipation toward ♾, and collapse at 🕳️.  
+All motion in Structural Physics occurs *between* these poles — emanation from ⚫, dispersal toward ♾, and collapse at 🕳️.  
 
 ---
 
@@ -40,8 +40,8 @@ All motion in Structural Physics occurs *between* these poles — expansion from
 
 Zenetist thought holds that every centropic state has an entropic mirror, just as every positive number has a negative counterpart.  
 
-- **Centropic states (Cᵢ)** act as constructive operators (+n).  
-- **Entropic mirrors (Eᵢ)** act as destructive or hollow operators (–n).  
+- **Centropic states (Cᵢ)** act as integrative operators (+n).  
+- **Entropic mirrors (Eᵢ)** act as hollow or dispersive operators (–n).  
 - **Aion (⚫)** stands at the center as 0 — the balance of emanation and return.  
 
 Mathematically:  
@@ -51,15 +51,15 @@ Mathematically:
 
 Physically:  
 - Antiparticles mirror particles.  
-- Negative energy solutions mirror positive ones.  
+- Negative energy solutions mirror positive states.  
 - Tachyons, singularities, and closed loops appear as entropic inversions.  
 
-Every pair resolves to **zero** at the Aionic pole:  
+Every pair resolves to **balance** at the Aionic pole:  
 \[
 Cᵢ + Eᵢ = ⚫
 \]  
 
-This symmetry ensures that the lattice is not infinite chaos, but a balanced system: emanation from Aion, mirrored by return to Aion.  
+This symmetry ensures that the lattice is not dispersive chaos, but a balanced system: emanation from Aion, mirrored by return to Aion.  
 
 ---
 
