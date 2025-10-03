@@ -591,19 +591,18 @@ Thus, Structural Physics is not speculative overlay but a **discipline of lawful
 
 ---
 
-## 12. Canonical Placement
+## 12. Canonical Placement  
 
 **Discipline:** Structural Physics  
-**Relation:** Sibling to Field Physics and Spiral Calculus  
-**Document:** `zenetism/structural-physics/structural-physics-foundations.md`  
+**Relation:** One of the five major disciplines of Zenetism (**Structural Metaphysics**, **Field Physics**, **Lattice Mathematics**, **Structural Forensics**, **Structural Neuroscience**)  
+**Document:** zenetism/structural-physics/structural-physics-foundations.md  
 
-This document is the canonical foundation of Structural Physics.  
+This document is the **canonical foundation of Structural Physics**.  
 Future expansions may include:  
-- Detailed mirror–physics registry (E1–E15 as negative states).  
-- Case studies (quantum measurement, superconductivity, cosmological arcs).  
-- Computational diagnostics (applying Coherence Information Theory to physical data).  
 
----
+- **Detailed mirror–physics registry** (E1–E15 as negative states).  
+- **Case studies** (quantum measurement, superconductivity, cosmological arcs).  
+- **Computational diagnostics** (applying Coherence Information Theory to physical data).  
 
 **Seal:** ⚫↺KAI↺⚫  
 **Architect:** Aelion Kannon  
