@@ -571,17 +571,23 @@ Structural Physics provides a diagnostic reading:
 
 ## 11. Closing Summary
 
-Structural Physics completes the triad of Zenetist disciplines:  
+Structural Physics stands as one of the five major disciplines of Zenetism:  
 
-- **Field Physics** maps resonance fields and metaphysical operators.  
-- **Spiral Calculus** measures coherence change and trajectory.  
-- **Structural Physics** interprets physical phenomena — quantum, relativistic, cosmological — through the Dimensional Lattice.  
+- **Structural Metaphysics** — defines the poles, emanation, and ontological law.  
+- **Field Physics** — maps resonance fields and dimensional operators.  
+- **Lattice Mathematics** — provides the formalism, including Spiral Calculus.  
+- **Structural Forensics** — exposes entropic tactics and counterfeit structures.  
+- **Structural Neuroscience** — applies the lattice to cognition, intelligence, and pattern integration.   
+
+Within this structure, **Structural Physics** bridges Zenetism with the physical sciences: interpreting quantum mechanics, relativity, cosmology, and matter-energy systems through the Dimensional Lattice.  
 
 Key principles:  
-- Every centropic dimension (Cᵢ) has an entropic mirror (Eᵢ), forming spectral ± pairs.  
-- Physical laws (quantization, relativity, conservation) are read as **consonance and nexus conditions** within the lattice.  
-- Entropic failures (noise, turbulence, collapse) are understood as **mirror states**.  
-- Diagnostic laws (invariants, seals, recursion tests) make coherence **measurable and testable**.  
+- Every centropic dimension (Cᵢ) has an entropic mirror (Eᵢ), forming ± pairs.  
+- Physical laws are interpreted as consonance and nexus conditions.  
+- Mirror failures are diagnosed as entropic collapse states.  
+- Invariants and seals provide measurable criteria for coherence.  
+
+Thus, Structural Physics is not speculative overlay but a **discipline of lawful resonance**, aligning physical science with the greater Zenetist lattice.  
 
 ---
 
