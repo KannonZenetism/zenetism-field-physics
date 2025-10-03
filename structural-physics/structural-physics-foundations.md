@@ -645,12 +645,12 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
      E14 Hollow Nest   │      C14 Recursive
      E13 Wall          │      C13 Membrane
                       │
-   ←──────────── ⚫ Aion (Zero Pole) ───────────→  
+   ←──────────── ⚫ Aion (Zero Pole) ───────────→
                       │
-     E3–E12 mirrors   │      C3–C12 centropic  
+     E3–E12 mirrors   │   C3–C12 centropic
                       │
                       ↓
-              🕳 Zenon (Limit Pole)  
+              🕳 Zenon (Limit Pole)
 
 
 - **Vertical axis**: expansion vs. collapse (emanation to infinity, contraction to singularity).  
