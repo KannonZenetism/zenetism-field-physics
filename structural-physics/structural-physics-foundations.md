@@ -81,28 +81,28 @@ The mapping below shows how each dimension translates into physical corresponden
 | **E2 ◈⁻ Dispersive Scatter** | Fragmented loci | Spatial decoherence, delocalization | Acclivous entropy into disarray |
 | **C3 ⟿ Propagational** | Transmission of resonance | Wave equations, Fourier transforms | Acclivous expansion of lawful propagation |
 | **E3 ⟿⁻ Viral Decay** | Dissipative signal | Radiation loss, noise fields | Declivous collapse of coherence |
-| **C4 ⟳ Rotational (Gyre)** | Cyclic stability, angular order | Angular momentum, SO(3) symmetry | Declivous centropy into form-preserving motion |
-| **E4 ⟳⁻ Vortex Collapse** | Hollow spin | Black hole singularities, destructive vortices | Acclivous entropy spiraling into void |
+| **C4 ◉ Rotational (Gyre)** | Cyclic stability, angular order | Angular momentum, SO(3) symmetry | Declivous centropy into form-preserving motion |
+| **E4 ◉⁻ Vortex Collapse** | Hollow spin | Black hole singularities, destructive vortices | Acclivous entropy spiraling into void |
 | **C5 ✴ Scalar / Holonic** | Scaling order, wholeness | Renormalization group flows, fractals | Acclivous integration of scale harmonics |
 | **E5 ✴⁻ Hollow Scaling** | Fragmented fractal | Noise scaling, divergence | Declivous collapse into instability |
-| **C6 ⌘ Phase / Liminal** | Transition states, thresholds | Critical phenomena, phase transitions | Acclivous centropy toward coherent thresholds |
-| **E6 ⌘⁻ Static Inertia** | Arrested transition | Frozen disorder, metastability | Declivous collapse of novelty |
+| **C6 ◐ Phase / Liminal** | Transition states, thresholds | Critical phenomena, phase transitions | Acclivous centropy toward coherent thresholds |
+| **E6 ◐⁻ Phase Lock** | Arrested transition | Frozen disorder, metastability | Declivous collapse of novelty |
 | **C7 ♫ Harmonic** | Resonant structure | Eigenmodes, standing waves, quantization | Acclivous resonance of consonant spectra |
 | **E7 ♫⁻ Dissonance** | Irregular spectrum | Irrational eigenvalue ratios, quasiperiodicity | Declivous collapse into incoherence |
 | **C8 ╫ Nexus / Bridge** | Lawful joining | Gauge invariance, commutative diagrams | Acclivous centropy into lawful bridges |
 | **E8 ╫⁻ Severed Bridge** | Fractured connection | Broken symmetries, non-conservation | Declivous collapse of relational law |
-| **C9 ∿ Non-Local Unity** | Distant coherence | Entanglement, Bell correlations | Acclivous expansion into unity-at-distance |
-| **E9 ∿⁻ Distorted Entangle** | Spurious linkage | Cross-noise, false correlations | Declivous collapse into interference |
+| **C9 ∞ Non-Local Unity** | Distant coherence | Entanglement, Bell correlations | Acclivous expansion into unity-at-distance |
+| **E9 ∞⁻ Distorted Entangle** | Spurious linkage | Cross-noise, false correlations | Declivous collapse into interference |
 | **C10 ❋ Morphogenetic** | Form generation | Symmetry breaking, crystallization, biological morphogenesis | Declivous centropy into coherent embodiment |
 | **E10 ❋⁻ Aberrant Form** | Distorted growth | Tumor-like forms, chaotic structure | Acclivous entropy into spurious novelty |
-| **C11 ⟜ Vector Will** | Directed flow | Vector potentials, Noether currents | Acclivous motion toward directed coherence |
-| **E11 ⟜⁻ Misaligned Vector** | Fractured direction | Non-conserved flows, turbulent fields | Declivous collapse of directionality |
-| **C12 ◎ Aesthetic / Action Principle** | Coherence through harmony | Stationary action principle, Lagrangian | Acclivous integration of beauty and law |
-| **E12 ◎⁻ Hollow Action** | Lawless dissipation | Arbitrary motion, incoherent action | Declivous collapse into disorder |
-| **C13 ⊡ Membrane / Threshold** | Selective boundary | Boundary conditions, domain walls | Declivous centropy into sealed coherence |
-| **E13 ⊡⁻ Wall of Severance** | Impenetrable block | Black hole horizons, information walls | Acclivous entropy into dead-ends |
-| **C14 ↺ Nested / Recursive** | Lawful recursion | Iterative operators, fractal domains | Acclivous refinement by contractive return |
-| **E14 ↺⁻ Hollow Nest** | Non-contractive recursion | Infinite loops, empty recursion | Declivous collapse into stagnation |
+| **C11 ↗ Vector Will** | Directed flow | Vector potentials, Noether currents | Acclivous motion toward directed coherence |
+| **E11 ↗⁻ Misaligned Vector** | Fractured direction | Non-conserved flows, turbulent fields | Declivous collapse of directionality |
+| **C12 ✧ Aesthetic / Action Principle** | Coherence through harmony | Stationary action principle, Lagrangian | Acclivous integration of beauty and law |
+| **E12 ✧⁻ Hollow Aesthetic** | Lawless dissipation | Arbitrary motion, incoherent action | Declivous collapse into disorder |
+| **C13 ║ Membrane / Threshold** | Selective boundary | Boundary conditions, domain walls | Declivous centropy into sealed coherence |
+| **E13 ║⁻ Wall of Severance** | Impenetrable block | Black hole horizons, information walls | Acclivous entropy into dead-ends |
+| **C14 ⊡ Nested / Recursive** | Lawful recursion | Iterative operators, fractal domains | Acclivous refinement by contractive return |
+| **E14 ⊡⁻ Hollow Nest** | Non-contractive recursion | Infinite loops, empty recursion | Declivous collapse into stagnation |
 | **C15 ✦ Emergent / Novel** | Veracious novelty | Lawful bifurcation, lawful emergence | Acclivous expansion into lawful surprise |
 | **E15 ✦⁻ Collapse Nova** | Hollow novelty | False bifurcation, catastrophic collapse | Declivous entropy into annihilation |
 
@@ -626,20 +626,20 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
 
 | Centropic Dimension | Function | Physics Analogue | Entropic Mirror | Mirror Form | Physics Analogue |
 |---------------------|----------|------------------|-----------------|-------------|------------------|
-| **C1 ⟠ Temporal** | Ordered continuity | Proper time, causality | **E1 ⟠⁻ Loop** | Hollow recursion | Closed timelike curves |
-| **C2 ◈ Spatial** | Extension, loci | Metric tensor gᵢⱼ | **E2 ◈⁻ Scatter** | Fragmented loci | Spatial decoherence |
-| **C3 ⟿ Propagational** | Transmission of resonance | Wave equations, QFT | **E3 ⟿⁻ Decay** | Dissipative signal | Radiation loss, noise |
-| **C4 ⟳ Rotational** | Cyclic stability | Angular momentum | **E4 ⟳⁻ Vortex** | Hollow spin | Black hole spin collapse |
-| **C5 ✴ Holonic / Scalar** | Scaling, wholeness | Renormalization, fractals | **E5 ✴⁻ Hollow Scaling** | Divergent fractals | Noise scaling |
-| **C6 ⌘ Phase / Liminal** | Transition states | Critical phenomena | **E6 ⌘⁻ Static Inertia** | Arrested transition | Frozen disorder |
+| **C1 ⟠ Temporal** | Ordered continuity | Proper time, causality | **E1 ⟠⁻ Temporal Loop** | Hollow recursion | Closed timelike curves |
+| **C2 ◈ Spatial** | Extension, loci | Metric tensor gᵢⱼ | **E2 ◈⁻ Memory Scatter** | Fragmented loci | Spatial decoherence |
+| **C3 ⟿ Propagational** | Transmission of resonance | Wave equations, QFT | **E3 ⟿⁻ Viral Decay** | Dissipative signal | Radiation loss, noise |
+| **C4 ◉ Rotational / Gyre** | Cyclic stability | Angular momentum | **E4 ◉⁻ Vortex** | Collapsing spin | Black hole spin collapse |
+| **C5 ✴ Holonic / Scalar** | Scaling, wholeness | Renormalization, fractals | **E5 ✴⁻ Fractal Noise** | Divergent fractals | Noise scaling |
+| **C6 ◐ Phase / Liminal** | Transition states | Critical phenomena | **E6 ◐⁻ Phase Lock** | Arrested transition | Frozen disorder |
 | **C7 ♫ Harmonic** | Resonant structure | Eigenmodes, quantization | **E7 ♫⁻ Dissonance** | Irregular spectrum | Quasiperiodicity |
 | **C8 ╫ Nexus / Bridge** | Lawful joining | Gauge invariance | **E8 ╫⁻ Severed** | Fractured link | Broken symmetry |
-| **C9 ∿ Non-Local Unity** | Distant coherence | Entanglement | **E9 ∿⁻ Distorted** | Spurious linkage | Cross-noise correlations |
-| **C10 ❋ Morphogenetic** | Form generation | Symmetry breaking, crystalline form | **E10 ❋⁻ Aberrant** | Distorted growth | Tumor-like forms |
-| **C11 ⟜ Vector Will** | Directed flow | Conserved currents | **E11 ⟜⁻ Misaligned** | Fractured direction | Turbulence, incoherence |
-| **C12 ◎ Aesthetic / Action** | Coherence through harmony | Action principle | **E12 ◎⁻ Hollow Action** | Lawless dissipation | Arbitrary motion |
-| **C13 ⊡ Membrane / Threshold** | Selective boundary | Boundary conditions | **E13 ⊡⁻ Wall** | Severed block | Event horizon |
-| **C14 ↺ Recursive / Nested** | Contractive recursion | Iterative operators | **E14 ↺⁻ Hollow Nest** | Non-contractive recursion | Infinite regress |
+| **C9 ∞ Non-Local Unity** | Distant coherence | Entanglement | **E9 ∞⁻ Distorted Entangle** | Spurious linkage | Cross-noise correlations |
+| **C10 ❋ Morphogenetic** | Form generation | Symmetry breaking, crystalline form | **E10 ❋⁻ Malform** | Distorted growth | Tumor-like forms |
+| **C11 ↗ Vector Will** | Directed flow | Conserved currents | **E11 ↗⁻ Misdirect** | Fractured direction | Turbulence, incoherence |
+| **C12 ✧ Aesthetic / Qualitative** | Coherence through harmony | Action principle | **E12 ✧⁻ Void Aesthetic** | Lawless dissipation | Arbitrary motion |
+| **C13 ║ Membrane / Threshold** | Selective boundary | Boundary conditions | **E13 ║⁻ Wall** | Severed block | Event horizon |
+| **C14 ⊡ Recursive / Nested** | Contractive recursion | Iterative operators | **E14 ⊡⁻ Hollow Nest** | Non-contractive recursion | Infinite regress |
 | **C15 ✦ Emergent / Novel** | Veracious novelty | Lawful bifurcation | **E15 ✦⁻ Collapse Nova** | Hollow novelty | Catastrophic collapse |
 
 ---
