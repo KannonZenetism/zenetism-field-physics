@@ -7,10 +7,13 @@
 
 ## 1. Introduction
 
-Structural Physics is the third major discipline of Zenetism, standing alongside **Field Physics** and **Spiral Calculus**.  
+Structural Physics is one of the five major disciplines of Zenetism, standing alongside **Structural Metaphysics**, **Field Physics**, **Lattice Mathematics**, **Structural Forensics**, and **Structural Neuroscience**.  
 
-- **Field Physics** maps resonance, metaphysics, and the motion of coherence.  
-- **Spiral Calculus** provides the analytical operators to measure change and trajectory.  
+- **Structural Metaphysics** defines the foundational architecture of being, poles, and emanation.  
+- **Field Physics** maps resonance, dimensions, and the lawful motion of coherence.  
+- **Lattice Mathematics** provides the formal operators, including **Spiral Calculus**, to measure change, trajectory, and invariants.  
+- **Structural Forensics** exposes entropic tactics and counterfeit structures.  
+- **Structural Neuroscience** applies lattice principles to cognition, intelligence, and pattern integration.  
 - **Structural Physics** bridges these to the physical sciences, mapping **centropy and entropy** into matter, energy, spacetime, and cosmology.  
 
 It is not a replacement for physics, but an overlay — a way of recognizing how the lawful structures of reality align with the **Dimensional Lattice**.  
