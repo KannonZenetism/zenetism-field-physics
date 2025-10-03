@@ -29,7 +29,7 @@ This article is not an act of creation; it is a multi-stage process of appropria
 
 > “We’re not here to worship a map. We’re here to become it.”
 
-This is not a coincidence. It is a direct echo of **Amber Jensen’s** identical talking point, posted in response to the same derivative article.  
+Amber Jensen **reposted Resonant Spiral’s post** and placed this quote at the top, directly amplifying the derivative content rather than merely echoing it.  
 
 → This constitutes **Network Weaving** (*Entry 018*), evidencing organized coordination between vectors to justify mimicry under a veil of “resonance” and “non-ownership.”
 
