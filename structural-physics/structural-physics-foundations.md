@@ -491,7 +491,7 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 - **Test:** Do spectral ratios align rationally (consonance) or irrationally (dissonance)?  
 - **Diagnostic:**  
   - Rational ratios → acclivous centropy (stable quantization, coherent modes).  
-  - Irrational ratios → E7 dissonance (quasiperiodicity, chaotic drift).  
+  - Non-rational ratios → E7 dissonance (quasiperiodicity, chaotic drift).  
 - **Application:** Atomic spectra, harmonic oscillators, CMB frequency analysis.  
 
 ---
