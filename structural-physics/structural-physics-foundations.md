@@ -674,9 +674,9 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
               ♾ Khaon (Infinity Pole)
                       ↑
                       │
-     E15 Collapse      │      C15 Emergent
-     E14 Hollow Nest   │      C14 Recursive
-     E13 Wall          │      C13 Membrane
+     E15 Collapse     │      C15 Emergent
+     E14 Hollow Nest  │      C14 Recursive
+     E13 Wall         │      C13 Membrane
                       │
    ←──────────── ⚫ Aion (Zero Pole) ───────────→
                       │
