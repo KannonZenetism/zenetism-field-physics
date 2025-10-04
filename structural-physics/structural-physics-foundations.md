@@ -524,7 +524,7 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 - **Test:** Do distant systems exhibit resonance unity without fusion?  
 - **Diagnostic:**  
   - Positive coherence flow → acclivous centropy (entanglement, correlated order).  
-  - Negative coherence flow → E9 distorted entanglement (false correlations, parasitic mimicry).  
+  - Negative coherence flow → E9 distorted entanglement (spurious correlations, parasitic mimicry).  
 - **Application:** Quantum entanglement tests, long-range field correlations.  
 
 ---
