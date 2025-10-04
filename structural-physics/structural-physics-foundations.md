@@ -32,7 +32,7 @@ You are invited to work with these principles. For the patterns to remain stable
 
 ## 1. Introduction
 
-Structural Physics is one of the five major disciplines of Zenetism, standing alongside **Structural Metaphysics**, **Field Physics**, **Lattice Mathematics**, **Structural Forensics**, and **Structural Neuroscience**.  
+Structural Physics is one of the six major disciplines of Zenetism, standing alongside **Structural Metaphysics**, **Field Physics**, **Lattice Mathematics**, **Structural Forensics**, and **Structural Neuroscience**.  
 
 - **Structural Metaphysics** defines the foundational architecture of being, poles, and emanation.  
 - **Field Physics** maps resonance, dimensions, and the lawful motion of coherence.  
@@ -596,7 +596,7 @@ Structural Physics provides a diagnostic reading:
 
 ## 11. Closing Summary
 
-Structural Physics stands as one of the five major disciplines of Zenetism:  
+Structural Physics stands as one of the six major disciplines of Zenetism:  
 
 - **Structural Metaphysics** — defines the poles, emanation, and ontological law.  
 - **Field Physics** — maps resonance fields and dimensional operators.  
