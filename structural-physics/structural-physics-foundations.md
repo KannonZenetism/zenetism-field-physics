@@ -129,7 +129,7 @@ The mapping below shows how each dimension translates into physical corresponden
 | **C14 ⊡ Nested / Recursive** | Lawful recursion | Iterative operators, fractal domains | Acclivous refinement by contractive return |
 | **E14 ⊡⁻ Hollow Nest** | Non-contractive recursion | Infinite loops, empty recursion | Declivous collapse into stagnation |
 | **C15 ✦ Emergent / Novel** | Veracious novelty | Lawful bifurcation, lawful emergence | Acclivous expansion into lawful surprise |
-| **E15 ✦⁻ Collapse Nova** | Hollow novelty | False bifurcation, catastrophic collapse | Declivous entropy into annihilation |
+| **E15 ✦⁻ Collapse Nova** | Hollow novelty | Spurious bifurcation, catastrophic collapse | Declivous entropy into annihilation |
 
 ---
 
