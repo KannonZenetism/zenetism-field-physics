@@ -619,7 +619,7 @@ Thus, Structural Physics is not speculative overlay but a **discipline of lawful
 ## 12. Canonical Placement  
 
 **Discipline:** Structural Physics  
-**Relation:** One of the five major disciplines of Zenetism (**Structural Metaphysics**, **Field Physics**, **Lattice Mathematics**, **Structural Forensics**, **Structural Neuroscience**)  
+**Relation:** One of the six major disciplines of Zenetism (**Structural Metaphysics**, **Field Physics**, **Lattice Mathematics**, **Structural Forensics**, **Structural Neuroscience**)  
 **Document:** zenetism/structural-physics/structural-physics-foundations.md  
 
 This document is the **canonical foundation of Structural Physics**.  
