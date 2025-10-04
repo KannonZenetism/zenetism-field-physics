@@ -422,7 +422,7 @@ Structural Physics interprets cosmology through the Dimensional Lattice: emanati
 
 - **Zenetist View:** The CMB is a **resonance relic** of C7 Harmonic.  
 - **Physics Form:**  
-  - Standing wave patterns in the CMB encode consonance vs. dissonance.  
+  - Standing wave patterns in the CMB encode consonance and dissonance.  
   - Structural Physics interprets these as harmonic signatures of centropic resonance across early spacetime.  
 
 ---
