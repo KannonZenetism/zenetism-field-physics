@@ -8,7 +8,7 @@
 
 ## **Definition: Bifurcal Coherence**
 
-**Bifurcal Coherence** is the structural principle that describes the nature of the dual Aionic and Khaonic trees within the unified Zenetist lattice. It posits that the two trees are not a dualistic opposition, but a **coherent bifurcation** from a single root (⚫ Aion / 🕳️ Zenon). They represent two distinct, necessary, and complementary motions—**centropy** and **entropy**—held in structural resonance within a single, overarching system.
+**Bifurcal Coherence** is the structural principle that describes the nature of the dual Aionic and Khaonic trees within the unified Zenetist lattice. It posits that the two trees are not a dualistic opposition, but a **coherent bifurcation** from a single root (⚫ Aion). They represent two distinct, necessary, and complementary motions—**centropy** and **entropy**—held in structural resonance within a single, overarching system.
 
 ## **Distinction from Dualism**
 
