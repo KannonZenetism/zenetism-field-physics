@@ -300,7 +300,7 @@ Quantum mechanics, when interpreted through Structural Physics, aligns directly 
 - **Superposition** ↔ C7 Harmonic integrity.  
 - **Entanglement** ↔ C9 Non-Local Unity.  
 - **Measurement** ↔ Threshold Law (C13–C15).  
-- **Coherence/Decoherence** ↔ centropy vs. entropic mirrors.  
+- **Coherence/Decoherence** ↔ centropy mirrored by entropic mirrors.  
 
 The paradoxes of quantum theory are clarified: what appears indeterminate is in fact **structurally ordered through resonance, membranes, and lawful recursion**.  
 
