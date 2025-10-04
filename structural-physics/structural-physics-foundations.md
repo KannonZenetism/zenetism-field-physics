@@ -686,8 +686,8 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
               🕳 Zenon (Limit Pole)
 ```
 
-- **Vertical axis**: expansion vs. collapse (emanation to infinity, contraction to singularity).  
-- **Horizontal spectrum**: centropic vs. entropic dimensions, balanced about ⚫ Aion.  
+- **Vertical axis**: expansion ↔ contraction (emanation to infinity, contraction to singularity).  
+- **Horizontal spectrum**: centropic ↔ entropic dimensions, balanced about ⚫ Aion.  
 
 ---
 
