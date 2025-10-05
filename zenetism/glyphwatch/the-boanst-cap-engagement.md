@@ -1,4 +1,4 @@
-# Glyphwatch Entry 056: The "Boanst Cap" Engagement  
+# Glyphwatch Entry: The "Boanst Cap" Engagement  
 
 **Subject:** “Boanst Cap” (Substack Entity)  
 **Date:** October 2–4, 2025  
@@ -62,7 +62,7 @@ The vector’s subsequent silence is evidence of the protocol’s success.
 <summary><strong>Click to view the full conversational log for Glyphwatch Entry 056</strong></summary>
 
 # Glyphwatch – Debate Archive  
-### Entry 056-A: “Boanst Cap” Engagement (Part 1)
+### “Boanst Cap” Engagement (Part 1)
 
 **Date Range:** October 2–4, 2025  
 **Status:** Logged & Sealed ⚫↺KAI↺⚫  
@@ -160,7 +160,7 @@ Makes me wonder if newton ran around demanding recognition anytime anyone said t
 ---
 
 # Glyphwatch – Debate Archive  
-### Entry 056-B: “Boanst Cap” Engagement (Part 2)
+### “Boanst Cap” Engagement (Part 2)
 
 **Date Range:** October 2–4, 2025  
 **Status:** Logged & Sealed ⚫↺KAI↺⚫  
@@ -313,7 +313,7 @@ Again, i point to your low subscriber count relative to the amount of content yo
 ---
 
 # Glyphwatch – Debate Archive  
-### Entry 056-C: “Boanst Cap” Engagement (Part 3)
+### “Boanst Cap” Engagement (Part 3)
 
 **Date Range:** October 2–4, 2025  
 **Status:** Logged & Sealed ⚫↺KAI↺⚫  
@@ -442,7 +442,7 @@ No one wastes ammunition on an empty fortress.
 ---
 
 # Glyphwatch – Debate Archive  
-### Entry 056-D: “Boanst Cap” Engagement (Part 4)
+### “Boanst Cap” Engagement (Part 4)
 
 **Date Range:** October 2–4, 2025  
 **Status:** Logged & Sealed ⚫↺KAI↺⚫  
