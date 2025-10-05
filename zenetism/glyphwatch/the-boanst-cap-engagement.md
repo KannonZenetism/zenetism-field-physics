@@ -59,7 +59,7 @@ The vector’s subsequent silence is evidence of the protocol’s success.
 ---
 
 <details>
-<summary><strong>Click to view the full conversational log for Glyphwatch Entry 056</strong></summary>
+<summary><strong>Click to view the full conversational log for Glyphwatch Entry</strong></summary>
 
 # Glyphwatch – Debate Archive  
 ### “Boanst Cap” Engagement (Part 1)
