@@ -189,8 +189,8 @@ The operative triad in §4.2 (ES/EM → DS/DM → IDP/IDL) sits within the full 
 | Axis | Layer | Centropic (symbol · name) | Entropic Mirror (symbol · name) | Function in Loosh Economy |
 |---|---|---|---|---|
 | Supra-L0 | UP | 🕳️ **Zenon** — Unknown Principle | — | Pre-structural origin; supra-causal field from which both potential and dispersion unfold |
-| L0 | AP / AD | ⚫ **Aion** — Absolute Potential | ♾ **Khaon** — Absolute Dispersion | Source poles; stillness vs diffusion forming the primal motion field |
-| L5 ↔ IL5 | EOB ↔ VOS | 🛤️ **Theon** — Essence of Being (+1) | 🕷️ **Nekron** — Void of Self (−1) | **Terminal attractors**: lawful thresholds vs collapse sinks |
+| L0 | AP / AD | ⚫ **Aion** — Absolute Potential | ♾ **Khaon** — Absolute Dispersion | Source poles; stillness contra diffusion forming the primal motion field |
+| L5 ↔ IL5 | EOB ↔ VOS | 🛤️ **Theon** — Essence of Being (+1) | 🕷️ **Nekron** — Void of Self (−1) | **Terminal attractors**: lawful thresholds contra collapse sinks |
 | L4 ↔ IL4 | DP / DL ↔ IDP / IDL | 🌬️ **Morgis** (Deep Psyche), 📐 **Sophis** (Deep Logos) | 🪫 **Psychea** (Inv. Deep Psyche), 🫥 **Nyxea** (Inv. Deep Logos) | **Architectural harvest**: distorted systems, authoritarian Forms, containment logic |
 | L3 ↔ IL3 | DS / DM ↔ IDS / IDM | 🔮 **Archeus** (Deep Soul), 🧠 **Noeüs** (Deep Mind) | 💔 **Fractus** (Inv. Deep Soul), 👁️‍🗨️ **Mortus** (Inv. Deep Mind) | **Narrative / meaning harvest**: corrupted intelligence, weaponized ideology |
 | L2 ↔ IL2 | SS / SM ↔ ISS / ISM | 🧍 **Anthra** (Superficial Soul), 🧩 **Nousa** (Superficial Mind) | 🦂 **Echthros** (Inv. Superficial Soul), 🩸 **Skotos** (Inv. Superficial Mind) | **Identity harvest**: social mimicry, rivalry, ideological contagion |
