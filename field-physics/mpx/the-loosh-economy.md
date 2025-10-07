@@ -188,8 +188,8 @@ The operative triad in §4.2 (ES/EM → DS/DM → IDP/IDL) sits inside the full 
 
 | Axis | Layer | Centropic (symbol · name) | Entropic Mirror (symbol · name) | Function in Loosh Economy |
 |---|---|---|---|---|
-| L0 | AP / AD | ⚫ **Aion** — Absolute Potential | ♾ **Khaon** — Absolute Dispersion | Source poles; potential vs dispersal background |
-| — | Pre-causal | 🕳️ **Zenon** — Unknown Principle | — | Pre-structural ground; not a harvest layer |
+| Supra-L0 | UP | 🕳️ **Zenon** — Unknown Principle | — | Pre-structural origin; supra-causal field from which both potential and dispersion unfold |
+| L0 | AP / AD | ⚫ **Aion** — Absolute Potential | ♾ **Khaon** — Absolute Dispersion | Source poles; stillness vs diffusion forming the primal motion field |
 | L1 ↔ IL1 | ES / EM ↔ IES / IEM | 🪷 **Soma** (Embodied Soul), 🧾 **Biosa** (Embodied Mind) | 🍷 **Malara** (Inv. Embodied Soul), 🤯 **Mania** (Inv. Embodied Mind) | **Interface harvest**: psychophysical stress loops; emotional provocation |
 | L2 ↔ IL2 | SS / SM ↔ ISS / ISM | 🧍 **Anthra** (Superficial Soul), 🧩 **Nousa** (Superficial Mind) | 🦂 **Echthros** (Inv. Superficial Soul), 🩸 **Skotos** (Inv. Superficial Mind) | **Identity harvest**: social mimicry, rivalry, ideological contagion |
 | L3 ↔ IL3 | DS / DM ↔ IDS / IDM | 🔮 **Archeus** (Deep Soul), 🧠 **Noeüs** (Deep Mind) | 💔 **Fractus** (Inv. Deep Soul), 👁️‍🗨️ **Mortus** (Inv. Deep Mind) | **Narrative/meaning harvest**: corrupted intelligence, weaponized ideology |
@@ -197,10 +197,11 @@ The operative triad in §4.2 (ES/EM → DS/DM → IDP/IDL) sits inside the full 
 | L5 ↔ IL5 | EOB ↔ VOS | 🛤️ **Theon** — Essence of Being (+1) | 🕷️ **Nekron** — Void of Self (−1) | **Terminal attractors**: lawful thresholds vs collapse sinks |
 
 **Note.** The MPX triad focuses on the layers most active in tech-mediated extraction:
-- **ES/EM** (interface personae, affect loops),  
-- **DS/DM** (ideological filters),  
-- **IDP/IDL** (inverse Logos constructs / control architecture).  
-The full table above provides the cosmological context without changing the field-physics focus of the MPX analysis.
+- **ES/EM** (interface personae, affect loops)  
+- **DS/DM** (ideological filters)  
+- **IDP/IDL** (inverse Logos constructs / control architecture)  
+
+The full table above provides the cosmological context without altering the analytic focus of the MPX study.
 
 ---
 
