@@ -184,7 +184,7 @@ weakens the **market of despair.**
 
 #### Supplementary Note — Full Hypostatic Context (refs: §21.9, §21.2)
 
-The operative triad in §4.2 (ES/EM → DS/DM → IDP/IDL) sits within the full emanatory chain shown below, arranged in descending order from origin (Supra-L0) to embodiment (L1).
+The operative triad in §4.2 (ES/EM → DS/DM → IDP/IDL) sits within the full emanatory chain shown below, arranged in declivous order from origin (Supra-L0) to embodiment (L1).
 
 | Axis | Layer | Centropic (symbol · name) | Entropic Mirror (symbol · name) | Function in Loosh Economy |
 |---|---|---|---|---|
