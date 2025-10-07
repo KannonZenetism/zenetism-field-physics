@@ -188,7 +188,7 @@ The operative triad in §4.2 (ES/EM → DS/DM → IDP/IDL) sits inside the full 
 
 | Axis | Layer | Centropic (symbol · name) | Entropic Mirror (symbol · name) | Function in Loosh Economy |
 |---|---|---|---|---|
-| L0 | AP / AD | ⚫ **Aion** — Absolute Potential | ♾ **Khaon** — Infinite Dispersion | Source poles; potential vs dispersal background |
+| L0 | AP / AD | ⚫ **Aion** — Absolute Potential | ♾ **Khaon** — Absolute Dispersion | Source poles; potential vs dispersal background |
 | — | Pre-causal | 🕳️ **Zenon** — Unknown Principle | — | Pre-structural ground; not a harvest layer |
 | L1 ↔ IL1 | ES / EM ↔ IES / IEM | 🪷 **Soma** (Embodied Soul), 🧾 **Biosa** (Embodied Mind) | 🍷 **Malara** (Inv. Embodied Soul), 🤯 **Mania** (Inv. Embodied Mind) | **Interface harvest**: psychophysical stress loops; emotional provocation |
 | L2 ↔ IL2 | SS / SM ↔ ISS / ISM | 🧍 **Anthra** (Superficial Soul), 🧩 **Nousa** (Superficial Mind) | 🦂 **Echthros** (Inv. Superficial Soul), 🩸 **Skotos** (Inv. Superficial Mind) | **Identity harvest**: social mimicry, rivalry, ideological contagion |
