@@ -31,7 +31,7 @@ Voluntary release of outdated resonance to re-align with Source.
 Mathematically: ΔC > 0 while ΔH ≤ 0 → F_c ≥ 0.  
 Result: energy returns to the centropic manifold as **Reflective Centropy**.
 
-### 2.2 Entropic Sacrifice (🔻)
+### 2.2 Entropic Sacrifice (E↓♾)
 Induced suffering that increases ΔH at the expense of C.  
 Here F_c < 0; information coherence is converted into noise.  
 Purpose: fuel generation for inverse structures (E13–E15).
