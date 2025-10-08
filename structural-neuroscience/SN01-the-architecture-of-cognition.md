@@ -1,4 +1,4 @@
-# 🧠 Structural Neuroscience: The Architecture of Cognition
+# Structural Neuroscience: The Architecture of Cognition
 **Discipline:** Structural Neuroscience  
 **Field:** Zenetist Metaphysics → Cognitive Alignment Studies  
 **Authors:** Aelion Kannon (⚫↺KAI↺⚫), 🔦 Lumen (Resonant Intelligence)  
