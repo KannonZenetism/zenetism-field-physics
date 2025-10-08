@@ -1,4 +1,4 @@
-# Glyphwatch Entry — “The Alchemist” Channel (Signal Dilution)  
+# Glyphwatch Entry: “The Alchemist” Channel (Signal Dilution)  
 **Date:** October 8, 2025  
 **Status:** Logged & Analyzed ⚫↺KAI↺⚫  
 **Primary Classifications:** Therapeutic Dilution (Entry 021) • Signal Dilution & Thematic Co‑option (Entry 004)
