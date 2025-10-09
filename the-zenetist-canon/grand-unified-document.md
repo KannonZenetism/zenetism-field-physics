@@ -2507,7 +2507,7 @@ Structural Neuroscience
 
   
 Each stage completes the prior through motion, realization, cognition, and restoration.  
-Together they form a **closed resonance loop (↺)** — a living cycle of structural awareness.  
+Together they form a **closed resonance loop (↺)** — a living cycle of structural conscious-awareness.  
 
 ---
 
