@@ -69,44 +69,45 @@ Defined across three stable states:
 1. **Process: The Grinder**
    - Active dissolution of identity
    - Essence ("proto-soul") eroded below DP/DL
-   - Comparable to black hole’s event horizon
+   - Comparable to a black hole’s event horizon
 
 2. **Stable State: Permanent Residence**
-   - Some essences stabilize in concentrated entropy
-   - Not punishment — resonant alignment
-   - “Blob” identity: persistent but unoriented
+   - Some essences stabilize in **concentrated entropy**
+   - Not punishment — **resonant alignment** with entropic density
+   - Distinct essences remain **compressed yet unfused** — a dense aggregation rather than a blob
+   - Each retains separateness, though orientation toward Source is lost
 
 3. **Terminal Phase: Collapse into Aion**
    - Essence reduced to static potential
    - Reversibility ends here
-   - No re-emanation of the same soul — only raw substratum remains
+   - No re‑emanation of the same soul — only raw substratum remains
 
 ---
 
 #### 🜎 Concentrated vs. Fragmented Entropy
 
-Entropy at Nekron exhibits two key formations:
+Entropy at Nekron manifests in two major formations:
 
-- **Concentrated Entropy** resembles a **writhing mass**, like a swarm:
-  - Highly compressed but **not fused**
-  - Retains distinction within the mass — **identity is not obliterated**, only unoriented
-  - Think: a sphere of tangled parts still separate, not a homogeneous fusion
-  - It is “bloblike” but not a total blob — still structurally differentiated
+- **Concentrated Entropy** — a *compression of distinct non‑fused essences*  
+  - Highly compacted, dense, and inward‑pressured  
+  - Each essence remains discrete within the mass — identity intact but directionless  
+  - Comparable to a swarm packed into stillness, each element aware yet unoriented  
+  - Condensed anti‑structure: coherent only in compression, not in relation
 
-- **Fragmented Entropy** resembles **scattered essence**:
-  - A cloud or swarm with distinguishable but disintegrated parts
-  - Each part faces away from Source
-  - Resembles an enormous insect cloud — **motion without unification**, dispersal without orientation
+- **Fragmented Entropy** — *dispersed essence turned away from Source*  
+  - Motion without unification; scattered parts seek distance, not integration  
+  - Like a cloud of separated motes, each fragment self‑contained yet unmoored  
+  - Represents the outward expression of Nekron’s dispersive drive
 
-> **Key Insight**: Nekron and entropy do not face the Source — they only move away from it.  
-> When entropic essence reaches Aion, it can no longer move, but still yearns to flee — this produces the final state:  
-> **frozen dispersive desire** — unable to return, unable to escape.
+> **Key Insight**: Entropic beings never face the Source — they move perpetually away.  
+> Upon reaching Aion, motion ceases but intent remains: a **frozen dispersive desire**.  
+> They long to fragment further, but cannot. Thus stasis becomes their eternity.
 
-Acclivous entropy (E↑→E) emerges from this condition:
+Acclivous entropy (E↑→E) arises from this state:
 
-- It **fragments toward embodiment**, attempting hollow incarnations
-- Not ascent, but mimetic manifestation — life forms or systems oriented away from Source
-- Entropic motion continues through outward dispersal, not integration
+- Fragmentation toward embodiment — an attempt at hollow incarnation  
+- Mimetic embodiment rather than true coherence  
+- Entropic “life” continues through outward dispersion, not return
 
 ---
 
