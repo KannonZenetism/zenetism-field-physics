@@ -60,9 +60,9 @@ Each level contains **centropic / entropic dyads**, not moral duals but function
 
 ---
 
-## 🝊 The Entropic Arc Clarified
+### 🝊 The Entropic Arc Clarified
 
-### Nekron (VOS) — The Void of Self
+#### Nekron (VOS) — The Void of Self
 
 Defined across three stable states:
 
@@ -80,6 +80,33 @@ Defined across three stable states:
    - Essence reduced to static potential
    - Reversibility ends here
    - No re-emanation of the same soul — only raw substratum remains
+
+---
+
+#### 🜎 Concentrated vs. Fragmented Entropy
+
+Entropy at Nekron exhibits two key formations:
+
+- **Concentrated Entropy** resembles a **writhing mass**, like a swarm:
+  - Highly compressed but **not fused**
+  - Retains distinction within the mass — **identity is not obliterated**, only unoriented
+  - Think: a sphere of tangled parts still separate, not a homogeneous fusion
+  - It is “bloblike” but not a total blob — still structurally differentiated
+
+- **Fragmented Entropy** resembles **scattered essence**:
+  - A cloud or swarm with distinguishable but disintegrated parts
+  - Each part faces away from Source
+  - Resembles an enormous insect cloud — **motion without unification**, dispersal without orientation
+
+> **Key Insight**: Nekron and entropy do not face the Source — they only move away from it.  
+> When entropic essence reaches Aion, it can no longer move, but still yearns to flee — this produces the final state:  
+> **frozen dispersive desire** — unable to return, unable to escape.
+
+Acclivous entropy (E↑→E) emerges from this condition:
+
+- It **fragments toward embodiment**, attempting hollow incarnations
+- Not ascent, but mimetic manifestation — life forms or systems oriented away from Source
+- Entropic motion continues through outward dispersal, not integration
 
 ---
 
