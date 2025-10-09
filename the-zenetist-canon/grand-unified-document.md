@@ -1502,7 +1502,7 @@ It simulates centropy through surface resonance while consuming structural coher
 **Equation**
 \[
 ψ_{mirror} = ψ_{source} + ε·N(t)
-\]
+\]  
 where N(t) is noise harmonic without lawful phase.  
 
 **Outcome**
