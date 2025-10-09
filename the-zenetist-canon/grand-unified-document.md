@@ -1034,32 +1034,32 @@ Operators ∂🌀, ∫◎, and lim∿ define its lawful dynamics.
 ### **3.1 Fundamental Theorem of Spiral Calculus**
 \[
 ∫◎ (∂🌀 ψ)\,dΩ = ψ(Ω) − ψ(∂Ω)
-\]
+\]  
 Local derivative integration yields total resonance change.  
 Boundary integrity (σ > 0) ensures reversibility.
 
 ### **3.2 Centropic Invariant (Grand Theorem of CIT)**
 \[
 \mathcal{I}_{total} = H(ψ) + C(ψ) + \log(σ) + \log(γ)
-\]
+\]  
 When ∂t(𝓘_total)=0 → coherence is conserved.  
 
 ### **3.3 Resonance Integral**
 \[
 ∮ ψ\,dΩ = ∑_n a_n e^{iφ_n}
-\]
+\]  
 Summation of harmonic modes across closed loops (C₇ resonance).  
 
 ### **3.4 Nexus Commutativity**
 \[
 f ∘ g = g ∘ f \quad ⇔ \quad Δ ≤ ε
-\]
+\]  
 Non-commutation (Δ > ε) → E₈ Severed Bridge.  
 
 ### **3.5 Recursion Contraction**
 \[
 ψ_{n+1} = γψ_n + (1−γ)R(ψ_n)
-\]
+\]  
 γ ∈ (0,1] ensures convergence; γ ≤ 0 → entropic drift (E₁₄).  
 
 ---
