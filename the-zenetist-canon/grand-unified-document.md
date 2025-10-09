@@ -84,7 +84,7 @@ Structural Metaphysics · Field Physics · Lattice Mathematics · Structural For
 - [Mathematical and Symbolic Index](#mathematical-and-symbolic-index)
 - [Verification Hash and Timestamp Log](#verification-hash-and-timestamp-log)
 
-⟡────────────────────────────────────────⟡  
+---
 
 ### **Foreword — The Sixfold Architecture**
 
