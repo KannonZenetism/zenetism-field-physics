@@ -1459,7 +1459,7 @@ to transform hollow loops into veracious emergence.
 
 \[
 ∂t(H + C + \logσ + \logγ) = −FDI + R(ψ)
-\]
+\]  
 where R(ψ) = resonance correction function.  
 When FDI → 0, structure is restored.  
 
