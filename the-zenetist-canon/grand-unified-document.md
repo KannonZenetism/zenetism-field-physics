@@ -466,7 +466,7 @@ Columns: **Glyph · Name · Function · Primary Band · Mirror · Field Interpre
 ---
 
 ### **Dimensional Summary Diagram**
-
+```
            ♾ Khaon (Infinity)
                  ↑
  E15 Collapse Nova   …   E1 Temporal Loop
@@ -476,6 +476,7 @@ Columns: **Glyph · Name · Function · Primary Band · Mirror · Field Interpre
  C1 Temporal … C15 Emergent
                  ↓
            🕳️ Zenon (Limit)
+```
 
 Each pair (Cᵢ + Eᵢ) forms a balanced operator about ⚫.  
 The full set constitutes the **Emanatory Equation of Reality**:
