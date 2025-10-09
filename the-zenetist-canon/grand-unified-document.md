@@ -13,8 +13,8 @@ Structural Metaphysics · Field Physics · Lattice Mathematics · Structural For
 
 ---
 
-## **Table of Contents — The Grand Unification of Zenetism**  
-*(Canonical Integration Draft)*  
+## **Table of Contents — Final Canonical Sequence**  
+*(Unified Six-Part Structure)*  
 
 ---
 
@@ -24,56 +24,114 @@ Structural Metaphysics · Field Physics · Lattice Mathematics · Structural For
 
 ---
 
-### **Part I · The Core Architecture**
-- [Stratum I — Emanation and Polarity](#stratum-i--emanation-and-polarity)
-- [Stratum II — Dimensional Registry and Dynamics](#stratum-ii--dimensional-registry-and-dynamics)
-- [Stratum III — Interaction and Mathematical Law](#stratum-iii--interaction-and-mathematical-law)
+### **Part I · The Dimensional Emanatory Lattice**
+*(Foundation of Structure and Law)*  
+- [1 · Structural Overview](#1--structural-overview)
+- [2 · Layer Bands of the Lattice](#2--layer-bands-of-the-lattice)
+- [3 · Dimensional Registry — Centropic Set (C₁–C₁₅)](#3--dimensional-registry--centropic-set-c₁c₁₅)
+- [4 · Dimensional Registry — Entropic Mirrors (E₁–E₁₅)](#4--dimensional-registry--entropic-mirrors-e₁e₁₅)
+- [5 · Lattice Interaction Laws](#5--lattice-interaction-laws)
+- [6 · Mathematical Correspondences](#6--mathematical-correspondences)
+- [7 · The Lattice Equation](#7--the-lattice-equation)
+- [8 · Diagrammatic Schema](#8--diagrammatic-schema)
+- [9 · Diagnostic Interpretation](#9--diagnostic-interpretation)
+- [10 · Integration Across Disciplines](#10--integration-across-disciplines)
+- [11 · Canonical Equation of the Lattice](#11--canonical-equation-of-the-lattice)
+- [12 · Closing Statement](#12--closing-statement)
 
 ---
 
-### **Part II · Field Dynamics & Forensics**
-- [Entropic Tactics and Counter-Forensics](#entropic-tactics-and-counter-forensics)
-- [Signal Propagation and Field Law](#signal-propagation-and-field-law)
-- [Resonance Diagnostics & Structural Defense](#resonance-diagnostics--structural-defense)
+### **Part II · Structural Forensics**
+*(Doctrine of Detection and Defense)*  
+- [1 · Doctrinal Foundation](#1--doctrinal-foundation)
+- [2 · Core Entropic Signatures](#2--core-entropic-signatures)
+- [3 · Structural Classes of Entropic Tactics](#3--structural-classes-of-entropic-tactics)
+- [4 · Lawful Detection Framework](#4--lawful-detection-framework)
+- [5 · Countermeasure Protocols](#5--countermeasure-protocols)
+- [6 · Field Metrics and Verification Tests](#6--field-metrics-and-verification-tests)
+- [7 · Ritualized Forensic Protocols](#7--ritualized-forensic-protocols)
+- [8 · Structural Classes of Contamination](#8--structural-classes-of-contamination)
+- [9 · Forensic Chain of Law](#9--forensic-chain-of-law)
+- [10 · Canonical Forensic Equation](#10--canonical-forensic-equation)
+- [11 · Entropic Architecture Map](#11--entropic-architecture-map)
+- [12 · Canonical Restoration Law](#12--canonical-restoration-law)
+- [13 · Integration with the Six Disciplines](#13--integration-with-the-six-disciplines)
+- [14 · Canonical Close](#14--canonical-close)
 
 ---
 
-### **Part III · The Architecture of Cognition**
-- [Neural-Lattice Structure](#neural-lattice-structure)
-- [Awareness Stratification and Reflexivity](#awareness-stratification-and-reflexivity)
-- [Cognitive Resonance & Restoration](#cognitive-resonance--restoration)
+### **Part III · Structural Neuroscience**
+*(The Architecture of Cognition)*  
+- [1 · The Foundational Axioms](#1--the-foundational-axioms)
+- [2 · The Cognitive Gradient](#2--the-cognitive-gradient)
+- [3 · Motion Law of Centropic Synthesis](#3--motion-law-of-centropic-synthesis)
+- [4 · Neuro-Lattice Interface](#4--neuro-lattice-interface)
+- [5 · Spiral Calculus of Cognition](#5--spiral-calculus-of-cognition)
+- [6 · Diagnostic Protocols](#6--diagnostic-protocols)
+- [7 · Practical Applications](#7--practical-applications)
+- [8 · Ritual Stabilization](#8--ritual-stabilization)
+- [9 · Experimental Correlates](#9--experimental-correlates)
+- [10 · Quantitative Expression](#10--quantitative-expression)
+- [11 · Verification Theorem (Structural Integrity Law)](#11--verification-theorem-structural-integrity-law)
+- [12 · Categorical Verification](#12--categorical-verification)
+- [13 · Curvature Verification](#13--curvature-verification)
+- [14 · Protocol Verification Loop](#14--protocol-verification-loop)
+- [15 · Seal Registry](#15--seal-registry)
+- [16 · Authorship & Sovereignty Verification](#16--authorship--sovereignty-verification)
+- [17 · Canonical Seal](#17--canonical-seal)
+- [18 · Closing Statement](#18--closing-statement)
 
 ---
 
-### **Part IV · Canonical Integration and Verification**
+### **Part IV · Lattice Mathematics**
+*(The Computational Body of Zenetism)*  
+- [1 · Structural Domain](#1--structural-domain)
+- [2 · Axiomatic Structure](#2--axiomatic-structure)
+- [3 · Core Equations](#3--core-equations)
+- [4 · Resonance Geometry](#4--resonance-geometry)
+- [5 · Field Operators](#5--field-operators)
+- [6 · Dimensional Function Set](#6--dimensional-function-set)
+- [7 · Coherence Information Theory (CIT)](#7--coherence-information-theory-cit)
+- [8 · The ResCat Framework](#8--the-rescat-framework)
+- [9 · Computational Model](#9--computational-model)
+- [10 · Verification Procedures](#10--verification-procedures)
+- [11 · Unified Mathematical Theorem](#11--unified-mathematical-theorem)
+- [12 · Integration with Other Disciplines](#12--integration-with-other-disciplines)
+- [13 · Canonical Close](#13--canonical-close)
+
+---
+
+### **Part V · Canonical Integration and Verification**
+*(Unification of the Six Disciplines)*  
 - [1 · The Grand Schema of the Six Disciplines](#1--the-grand-schema-of-the-six-disciplines)
 - [2 · The Coherence Equation (Grand Invariant)](#2--the-coherence-equation-grand-invariant)
-- [3 · Cycle of Coherence](#3--cycle-of-coherence)
+- [3 · The Cycle of Coherence](#3--the-cycle-of-coherence)
 - [4 · Canonical Bridge Equations](#4--canonical-bridge-equations)
-- [5 · Grand Resonance Law](#5--grand-resonance-law)
+- [5 · The Grand Resonance Law](#5--the-grand-resonance-law)
 - [6 · Resonant Integration Across Fields](#6--resonant-integration-across-fields)
-- [7 · Seal of the Sixfold Discipline](#7--seal-of-the-sixfold-discipline)
+- [7 · The Seal of the Sixfold Discipline](#7--the-seal-of-the-sixfold-discipline)
 - [8 · Canonical Diagram — The Sixfold Spiral](#8--canonical-diagram--the-sixfold-spiral)
 - [9 · Verification Protocol](#9--verification-protocol)
 - [10 · Theorem of Integral Authorship](#10--theorem-of-integral-authorship)
-- [11 · Grand Spiral Law](#11--grand-spiral-law)
+- [11 · The Grand Spiral Law](#11--the-grand-spiral-law)
 - [12 · Canonical Integrity Matrix](#12--canonical-integrity-matrix)
 - [13 · Grand Integration Ritual](#13--grand-integration-ritual)
 - [14 · Canonical Close](#14--canonical-close)
 
 ---
 
-### **Part V · The Grand Unified Equation of Reality**
+### **Part VI · The Grand Unified Equation of Reality**
+*(The Total Field of Existence)*  
 - [1 · The Grand Unified Sequence of Existence](#1--the-grand-unified-sequence-of-existence)
 - [2 · The Grand Unified Equation of Reality](#2--the-grand-unified-equation-of-reality)
-- [3 · Hierarchy of Fields](#3--hierarchy-of-fields)
-- [4 · Temporal Structure — The Proleptic Fold](#4--temporal-structure--the-proleptic-fold)
+- [3 · The Hierarchy of Fields](#3--the-hierarchy-of-fields)
+- [4 · Temporal Structure: The Proleptic Fold](#4--temporal-structure-the-proleptic-fold)
 - [5 · Awareness Stratification within Ωₜ](#5--awareness-stratification-within-ωₜ)
 - [6 · Entropic Mirror Integration](#6--entropic-mirror-integration)
-- [7 · Grand Invariance Theorem](#7--grand-invariance-theorem)
+- [7 · The Grand Invariance Theorem](#7--the-grand-invariance-theorem)
 - [8 · Schematic — The Total Field Arc](#8--schematic--the-total-field-arc)
 - [9 · Canonical Commentary](#9--canonical-commentary)
-- [10 · Law of Total Conservation](#10--law-of-total-conservation)
+- [10 · The Law of Total Conservation](#10--the-law-of-total-conservation)
 - [11 · Canonical Close — The Zenonic Seal](#11--canonical-close--the-zenonic-seal)
 
 ---
