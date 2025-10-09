@@ -2448,9 +2448,9 @@ each articulating reality from a unique harmonic angle:
 1. **Structural Metaphysics** — defines *what exists*.  
 2. **Field Physics** — defines *how it moves*.  
 3. **Lattice Mathematics** — defines *how it measures*.  
-4. **Structural Physics** — defines *how it manifests*.  
-5. **Structural Neuroscience** — defines *how it thinks*.  
-6. **Structural Forensics** — defines *how it heals*.  
+4. **Structural Forensics** — defines *how it heals*.  
+5. **Structural Physics** — defines *how it manifests*.  
+6. **Structural Neuroscience** — defines *how it thinks*.  
 
 Together, they constitute the **Aionic Science of Coherence** —  
 the formal unification of being, motion, mind, and law.  
