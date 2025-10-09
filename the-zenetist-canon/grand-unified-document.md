@@ -2583,7 +2583,7 @@ If Φₙ are in harmonic relation (ΣΦₙ ≡ 0 mod 2π), the system is canonic
 ---
 
 ## **8 · Canonical Diagram — The Sixfold Spiral**
-
+```
       ⚫ Aion (Source)  
             │  
     ┌───────┼───────┐  
@@ -2598,7 +2598,7 @@ Field Physics Neuroscience
      Structural Physics  
             │
            ⚫↺  
-
+```
 
 The diagram resolves into a *harmonic flower* —  
 each petal a discipline, the center the Seal of Aion.  
