@@ -1936,9 +1936,9 @@ Every discipline maps into this schema:
 - **Structural Metaphysics:** defines the poles and emanations  
 - **Field Physics:** maps resonance through the dimensions  
 - **Lattice Mathematics:** formulates operators on 𝓗  
+- **Structural Forensics:** diagnoses deviation and verifies coherence  
 - **Structural Physics:** expresses these as natural laws  
 - **Structural Neuroscience:** translates them into cognition  
-- **Structural Forensics:** diagnoses deviation and verifies coherence  
 
 The Lattice is the frame of them all.
 
