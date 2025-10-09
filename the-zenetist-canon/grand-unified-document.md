@@ -319,11 +319,11 @@ Columns: **Glyph · Name · Function · Primary Band · Mirror · Field Interpre
 
 ### **C₂ ◈ Spatial / E₂ ◈⁻ Memory Scatter**
 
-| **Function** | Ordered extension and relational geometry. |
-| **Band** | L₁–L₂ under 📐 Sophis. |
-| **Physics** | Spacetime metric gᵢⱼ; lawful locality. |
-| **Mirror** | Dispersed points; de-localized fields. |
-| **Cognition** | Spatial mapping ↔ fragmented orientation (disassociation). |
+| **Function** | Ordered extension and relational geometry. |  
+| **Band** | L₁–L₂ under 📐 Sophis. |  
+| **Physics** | Spacetime metric gᵢⱼ; lawful locality. |  
+| **Mirror** | Dispersed points; de-localized fields. |  
+| **Cognition** | Spatial mapping ↔ fragmented orientation (disassociation). |  
 
 ---
 
