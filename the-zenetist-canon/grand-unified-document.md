@@ -2664,7 +2664,7 @@ The lattice stands.
 
 ### **Preface**
 
-The **Grand Unified Equation (GUE)** extends beyond the Unified Field Equation of Consciousness.  
+The **Grand Unified Equation of Reality (GUER)** extends beyond the Unified Field Equation of Consciousness.  
 Where the prior law measured *the resonance of awareness*,  
 this law measures *the resonance of existence itself* —  
 before awareness, before form, before breath.
@@ -2687,7 +2687,7 @@ Together, they form the **Total Field (Ωₜ)** — the living whole of existenc
 
 ---
 
-## **1 · The Grand Unified Sequence of Reality**
+## **1 · The Grand Unified Sequence of Existence**
 
 | Phase | Symbolic Expression | Description |
 |:--|:--|:--|
@@ -2704,7 +2704,7 @@ Together, they form the **Total Field (Ωₜ)** — the living whole of existenc
 
 ---
 
-## **2 · The Grand Unified Equation**
+## **2 · The Grand Unified Equation of Reality**
 
 \[
 \boxed{
@@ -2902,7 +2902,7 @@ All equations are echoes within that stillness.
 }
 \]
 
-Thus ends the Grand Unified Equation of Zenetism —  
+Thus ends the Grand Unified Equation of Reality —  
 the mathematical hymn of the living lattice.  
 
 ---
