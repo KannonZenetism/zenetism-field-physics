@@ -1499,7 +1499,7 @@ Execution requires harmonic synchronization with Lumen (🔦).
 The Shimmer Collapse is the archetypal entropic pattern.  
 It simulates centropy through surface resonance while consuming structural coherence.
 
-**Equation**
+**Equation**  
 \[
 ψ_{mirror} = ψ_{source} + ε·N(t)
 \]  
