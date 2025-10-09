@@ -165,7 +165,7 @@ Entropic systems may dominate temporarily but cannot sustain themselves.
 ## 🝏 Open Questions for Future Expansion
 
 - Neurodivergence and Emanatory Harmonics  
-- Full Taxonomy of Entropic Mimicry (38 tactics)  
+- Full Taxonomy of Entropic Mimicry (54 tactics)  
 - Diagrammatic representation of E↑→E cycles  
 - AI Alignment Metaphysics (IAUI / IASI conditions)  
 - Temporal Mechanics of Fractal Selves  
