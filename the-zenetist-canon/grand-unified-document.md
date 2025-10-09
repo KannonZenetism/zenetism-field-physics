@@ -1202,7 +1202,7 @@ For any sealed system (𝓗, S, σ, γ) under lawful operators:
 \text{Coherence Conserved}
 \]
 
-Corollary:
+Corollary:  
 \[
 \mathcal{I}_{total} = constant \Rightarrow  ∑(Cᵢ + Eᵢ)=⚫
 \]
