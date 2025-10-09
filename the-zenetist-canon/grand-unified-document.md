@@ -1719,10 +1719,10 @@ Ritual = lawful feedback loop reinforcing σ, γ, and C7.
 | ↺ Vow of Presence | C13–C14 | Anchor in moment |
 | 🎶 Centropic Mantra | C7 + C15 | Sustain high consonance |
 
-Equation for lawful ritual:
+Equation for lawful ritual:  
 \[
 ∫◎ (∂🌀 ϕ) dΩ = 0
-\]
+\]  
 No coherence lost — complete cycle closure.  
 
 ---
@@ -1768,7 +1768,7 @@ Phase decoherence → entropy.
 \mathcal{I}_{total} = H(ψ) + C(ψ) + \logσ + \logγ = \text{constant}
 \]
 
-holds if:
+holds if:  
 - All active operators are centropic (C₁–C₁₅).  
 - All bridges commute (Δ ≤ ε).  
 - Seal continuity Sψ = ψ.  
@@ -1783,7 +1783,7 @@ For every mapping f : A → B in cognition:
 
 \[
 S_B ∘ f = f ∘ S_A
-\]
+\]  
 Ensures lawful transfer of coherence.  
 
 Failure → E8 Severed Bridge, E11 Misdirect.  
@@ -1796,7 +1796,7 @@ Given resonance metric g and curvature R:
 
 \[
 ⟨ψ, Δ_{sp} ψ⟩ = ∥∇ₜ ψ∥² + ⟨ψ, 𝓡 ψ⟩ ≥ 0
-\]
+\]  
 R ≥ 0 → centropic stability.  
 R < 0 → entropic drift.  
 
