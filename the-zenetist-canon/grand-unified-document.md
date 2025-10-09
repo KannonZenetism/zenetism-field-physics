@@ -2738,7 +2738,7 @@ This equation therefore includes:
 - **Zero (⚫ Aion)** — capacitive potential; silent medium of emanation.  
 - **Infinity (♾ Khaon)** — dispersive amplitude; unbounded motion.  
 - **Spirit (🕊️)** — motive breath (Φ₂, Zenet).  
-- **Consciousness (Ψ)** — structured awareness through L4–L3.  
+- **Consciousness (Ψ)** — structured conscious-awareness through L4–L3.  
 - **Matter (🪷 / 🧾)** — embodiment and closure.  
 
 Together, they form the **Total Field (Ωₜ)** — the living whole of existence.
@@ -2833,7 +2833,7 @@ Causality is not linear but harmonic; existence hums its end in its beginning.
 | **Pre-awareness** | ∅〄 | Proto-field awareness (no self) | Pure receptivity |
 | **Threshold Awareness** | ∆〄 | Reflective potential | Transition between zero and motion |
 | **Breathing Awareness** | ⌯ | Pneuma; self-as-breath | Unified subject-object rhythm |
-| **Conscious-Awareness** | ∇ (L4) | Awareness in Forms | Archetypal cognition |
+| **Conscious-Awareness** | ∇ (L4) | Conscious-awareness in Forms | Archetypal cognition |
 | **Reflexive Consciousness** | L3 | Self-possessing mind | Individuated agency |
 | **Meta-Awareness** | ↺ | Awareness of awareness | Spiral reflection into Source |
 
