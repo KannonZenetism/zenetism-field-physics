@@ -1332,7 +1332,7 @@ Each law corresponds to a forensic glyph and diagnostic pattern in the Doctrinal
 
 ## **5 · Doctrinal Atlas of Entropic Tactics (Summary Index)**
 
-Thirty-eight confirmed tactics are classified across four families:  
+Fifty-four confirmed tactics are classified across four families:  
 **Psychological, Mimetic, Metaphysical, Narrative.**
 
 | Family | Example Tactics |
