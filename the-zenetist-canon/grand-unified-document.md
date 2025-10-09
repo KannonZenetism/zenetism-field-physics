@@ -19,7 +19,7 @@ Structural Metaphysics · Field Physics · Lattice Mathematics · Structural For
 ---
 
 ### **Prefatory Sections**
-- [Preface — The Canonical Integration](#preface)
+- [Preface — The Canonical Integration](#preface--the-canonical-integration)
 - [Authorship & Seal](#authorship--seal)
 
 ---
@@ -36,7 +36,7 @@ Structural Metaphysics · Field Physics · Lattice Mathematics · Structural For
 - [Signal Propagation and Field Law](#signal-propagation-and-field-law)
 - [Resonance Diagnostics & Structural Defense](#resonance-diagnostics--structural-defense)
 
----  
+---
 
 ### **Part III · The Architecture of Cognition**
 - [Neural-Lattice Structure](#neural-lattice-structure)
@@ -46,35 +46,35 @@ Structural Metaphysics · Field Physics · Lattice Mathematics · Structural For
 ---
 
 ### **Part IV · Canonical Integration and Verification**
-- [The Grand Schema of the Six Disciplines](#1--the-grand-schema-of-the-six-disciplines)
-- [The Coherence Equation (Grand Invariant)](#2--the-coherence-equation-grand-invariant)
-- [Cycle of Coherence](#3--the-cycle-of-coherence)
-- [Canonical Bridge Equations](#4--canonical-bridge-equations)
-- [Grand Resonance Law](#5--the-grand-resonance-law)
-- [Resonant Integration Across Fields](#6--resonant-integration-across-fields)
-- [Seal of the Sixfold Discipline](#7--the-seal-of-the-sixfold-discipline)
-- [Canonical Diagram — The Sixfold Spiral](#8--canonical-diagram--the-sixfold-spiral)
-- [Verification Protocol](#9--verification-protocol)
-- [Theorem of Integral Authorship](#10--theorem-of-integral-authorship)
-- [Grand Spiral Law](#11--the-grand-spiral-law)
-- [Canonical Integrity Matrix](#12--canonical-integrity-matrix)
-- [Grand Integration Ritual](#13--grand-integration-ritual)
-- [Canonical Close](#14--canonical-close)
+- [1 · The Grand Schema of the Six Disciplines](#1--the-grand-schema-of-the-six-disciplines)
+- [2 · The Coherence Equation (Grand Invariant)](#2--the-coherence-equation-grand-invariant)
+- [3 · Cycle of Coherence](#3--cycle-of-coherence)
+- [4 · Canonical Bridge Equations](#4--canonical-bridge-equations)
+- [5 · Grand Resonance Law](#5--grand-resonance-law)
+- [6 · Resonant Integration Across Fields](#6--resonant-integration-across-fields)
+- [7 · Seal of the Sixfold Discipline](#7--seal-of-the-sixfold-discipline)
+- [8 · Canonical Diagram — The Sixfold Spiral](#8--canonical-diagram--the-sixfold-spiral)
+- [9 · Verification Protocol](#9--verification-protocol)
+- [10 · Theorem of Integral Authorship](#10--theorem-of-integral-authorship)
+- [11 · Grand Spiral Law](#11--grand-spiral-law)
+- [12 · Canonical Integrity Matrix](#12--canonical-integrity-matrix)
+- [13 · Grand Integration Ritual](#13--grand-integration-ritual)
+- [14 · Canonical Close](#14--canonical-close)
 
 ---
 
 ### **Part V · The Grand Unified Equation of Reality**
-- [Grand Unified Sequence of Existence](#grand-unified-sequence-of-existence)
-- [Grand Unified Equation of Reality](#grand-unified-equation-of-reality)
-- [Hierarchy of Fields](#hierarchy-of-fields)
-- [Temporal Structure — The Proleptic Fold](#temporal-structure--the-proleptic-fold)
-- [Awareness Stratification within Ωₜ](#awareness-stratification-within-ωₜ)
-- [Entropic Mirror Integration](#entropic-mirror-integration)
-- [Grand Invariance Theorem](#grand-invariance-theorem)
-- [Schematic — The Total Field Arc](#schematic--the-total-field-arc)
-- [Canonical Commentary](#canonical-commentary)
-- [Law of Total Conservation](#law-of-total-conservation)
-- [Canonical Close — The Zenonic Seal](#canonical-close--the-zenonic-seal)
+- [1 · Grand Unified Sequence of Existence](#1--grand-unified-sequence-of-existence)
+- [2 · The Grand Unified Equation of Reality](#2--the-grand-unified-equation-of-reality)
+- [3 · Hierarchy of Fields](#3--hierarchy-of-fields)
+- [4 · Temporal Structure — The Proleptic Fold](#4--temporal-structure--the-proleptic-fold)
+- [5 · Awareness Stratification within Ωₜ](#5--awareness-stratification-within-ωₜ)
+- [6 · Entropic Mirror Integration](#6--entropic-mirror-integration)
+- [7 · Grand Invariance Theorem](#7--grand-invariance-theorem)
+- [8 · Schematic — The Total Field Arc](#8--schematic--the-total-field-arc)
+- [9 · Canonical Commentary](#9--canonical-commentary)
+- [10 · Law of Total Conservation](#10--law-of-total-conservation)
+- [11 · Canonical Close — The Zenonic Seal](#11--canonical-close--the-zenonic-seal)
 
 ---
 
