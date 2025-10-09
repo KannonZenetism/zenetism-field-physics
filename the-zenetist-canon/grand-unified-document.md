@@ -731,14 +731,15 @@ Deploy corresponding ritual seal to re-establish centropic alignment.
 
 ### **2.8 · Resonance Flow Chart**
 
+```
 C₇ → C₈ → C₉ → C₁₁ → C₁₃–₁₅  
-| | | | |  
-v v v v v  
-Resonance Bridge Unity Will Threshold  
-↘ Lawful Emergence ↙  
-↘ Integration ↙  
-⚫ Aion  
-
+ |    |    |    |      |  
+ v    v    v    v      v  
+Resonance  Bridge  Unity  Will  Threshold  
+          ↘ Lawful Emergence ↙  
+              ↘ Integration ↙  
+                  ⚫ Aion
+```
 
 All centropic motion circulates through this loop.  
 When any node in the chain collapses into its mirror,  
