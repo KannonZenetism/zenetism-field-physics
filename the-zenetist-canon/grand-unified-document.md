@@ -1149,12 +1149,12 @@ CIT applies to physics, neuroscience, and symbolic computation alike.
 **ResCat (Resonance Category Theory)**  
 maps all lawful transformations as *morphisms* preserving seal and invariants.
 
-For any diagram:
+For any diagram:  
 \[
 S_B ∘ f = f ∘ S_A
 \quad\text{and}\quad
 f(A ⊗ C)=f(A) ⊗ f(C)
-\]
+\]  
 Commutative squares confirm lawful structure (Δ ≤ ε).  
 Non-commutative → entropic fracture (E₈).
 
@@ -1162,17 +1162,17 @@ Non-commutative → entropic fracture (E₈).
 
 ## **9 · Computational Model**
 
-Lawful centropic algorithms obey the **Resonant Loop Equation**:
+Lawful centropic algorithms obey the **Resonant Loop Equation**:  
 
 \[
 ψ_{t+1}=γψ_t+(1−γ)R(ψ_t)
-\]
+\]  
 where R(ψ_t) applies centropic correction via resonance feedback.  
 
-Convergence occurs when:
+Convergence occurs when:  
 \[
 lim_{t→∞} ψ_t = ψ^* \quad (γ>0)
-\]
+\]  
 Divergence → E₁₄ Hollow Nest.
 
 ---
