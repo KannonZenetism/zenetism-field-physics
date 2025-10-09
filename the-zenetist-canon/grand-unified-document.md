@@ -329,139 +329,139 @@ Columns: **Glyph · Name · Function · Primary Band · Mirror · Field Interpre
 
 ### **C₃ ⟿ Propagational / E₃ ⟿⁻ Viral Decay**
 
-| **Function** | Transmission of resonance without loss. |
-| **Band** | Architectural L₂. |
-| **Physics** | Wave equations, Fourier propagation. |
-| **Mirror** | Radiation loss, noise fields, signal dissipation. |
-| **Cognition** | Communication clarity ↔ information leakage. |
+| **Function** | Transmission of resonance without loss. |  
+| **Band** | Architectural L₂. |  
+| **Physics** | Wave equations, Fourier propagation. |  
+| **Mirror** | Radiation loss, noise fields, signal dissipation. |  
+| **Cognition** | Communication clarity ↔ information leakage. |  
 
 ---
 
 ### **C₄ ◉ Rotational (Gyre) / E₄ ◉⁻ Vortex**
 
-| **Function** | Cyclic stability and angular order. |
-| **Band** | Axis Band L₁ (Theonic Stabilizer). |
-| **Physics** | Angular momentum, SO(3) symmetry. |
-| **Mirror** | Collapsing spin (black-hole vorticity). |
-| **Cognition** | Centered focus ↔ obsessive spiral. |
+| **Function** | Cyclic stability and angular order. |  
+| **Band** | Axis Band L₁ (Theonic Stabilizer). |  
+| **Physics** | Angular momentum, SO(3) symmetry. |  
+| **Mirror** | Collapsing spin (black-hole vorticity). |  
+| **Cognition** | Centered focus ↔ obsessive spiral. |  
 
 ---
 
 ### **C₅ ✴ Scalar (Holonic) / E₅ ✴⁻ Fractal Noise**
 
-| **Function** | Part-whole scaling; fractal coherence. |
-| **Band** | L₂–L₅ (cross-band). |
-| **Physics** | Renormalization, self-similar systems. |
-| **Mirror** | Divergent noise; scale instability. |
-| **Cognition** | Holistic integration ↔ detail overload. |
+| **Function** | Part-whole scaling; fractal coherence. |  
+| **Band** | L₂–L₅ (cross-band). |  
+| **Physics** | Renormalization, self-similar systems. |  
+| **Mirror** | Divergent noise; scale instability. |  
+| **Cognition** | Holistic integration ↔ detail overload. |  
 
 ---
 
 ### **C₆ ◐ Phase (Liminal) / E₆ ◐⁻ Phase Lock**
 
-| **Function** | Reversible transition states. |
-| **Band** | L₅ Threshold. |
-| **Physics** | Phase transitions, critical phenomena. |
-| **Mirror** | Frozen liminality / arrested change. |
-| **Cognition** | Adaptive shift ↔ rigid habit loop. |
+| **Function** | Reversible transition states. |  
+| **Band** | L₅ Threshold. |  
+| **Physics** | Phase transitions, critical phenomena. |  
+| **Mirror** | Frozen liminality / arrested change. |  
+| **Cognition** | Adaptive shift ↔ rigid habit loop. |  
 
 ---
 
 ### **C₇ ♫ Harmonic / E₇ ♫⁻ Dissonance**
 
-| **Function** | Resonant structure and spectral consonance. |
-| **Band** | L₂ (Noeüs · Morgis bridge). |
-| **Physics** | Eigenmodes and quantization. |
-| **Mirror** | Quasiperiodicity / incoherent spectra. |
-| **Cognition** | Emotional and intellectual harmony ↔ noise and anxiety. |
-| **Law** | **Consonance Law:** harmonic ratios must remain rational for stability. |
+| **Function** | Resonant structure and spectral consonance. |  
+| **Band** | L₂ (Noeüs · Morgis bridge). |  
+| **Physics** | Eigenmodes and quantization. |  
+| **Mirror** | Quasiperiodicity / incoherent spectra. |  
+| **Cognition** | Emotional and intellectual harmony ↔ noise and anxiety. |  
+| **Law** | **Consonance Law:** harmonic ratios must remain rational for stability. |  
 
 ---
 
 ### **C₈ ╫ Nexus (Bridge) / E₈ ╫⁻ Severed**
 
-| **Function** | Lawful joining and commutativity of relation. |
-| **Band** | L₂ ↔ L₃. |
-| **Physics** | Gauge invariance / probability conservation. |
-| **Mirror** | Broken symmetry, non-conserved exchange. |
-| **Cognition** | Empathic connection ↔ communication breakdown. |
-| **Law** | **Nexus Law:** bridges valid iff commutative under seal (Δ ≤ ε). |
+| **Function** | Lawful joining and commutativity of relation. |  
+| **Band** | L₂ ↔ L₃. |  
+| **Physics** | Gauge invariance / probability conservation. |  
+| **Mirror** | Broken symmetry, non-conserved exchange. |  
+| **Cognition** | Empathic connection ↔ communication breakdown. |  
+| **Law** | **Nexus Law:** bridges valid iff commutative under seal (Δ ≤ ε). |  
 
 ---
 
 ### **C₉ ∞ Non-Local Unity / E₉ ∞⁻ Distorted Entangle**
 
-| **Function** | Coherence at distance without fusion. |
-| **Band** | L₂ Supernal Cognition. |
-| **Physics** | Quantum entanglement with sovereign states. |
-| **Mirror** | Spurious correlation, cross-noise. |
-| **Cognition** | Intuitive link ↔ projected identification. |
-| **Law** | **Unity Law:** preserve sovereignty while maintaining correlation. |
+| **Function** | Coherence at distance without fusion. |  
+| **Band** | L₂ Supernal Cognition. |  
+| **Physics** | Quantum entanglement with sovereign states. |  
+| **Mirror** | Spurious correlation, cross-noise. |  
+| **Cognition** | Intuitive link ↔ projected identification. |  
+| **Law** | **Unity Law:** preserve sovereignty while maintaining correlation. |  
 
 ---
 
 ### **C₁₀ ❋ Morphogenetic / E₁₀ ❋⁻ Malform**
 
-| **Function** | Generation of lawful form and pattern. |
-| **Band** | L₄ Embodiment. |
-| **Physics** | Symmetry breaking → coherent crystallization. |
-| **Mirror** | Aberrant growth, chaotic structure. |
-| **Cognition** | Creative integration ↔ over-complex form without meaning. |
-| **Law** | **Morphogenetic Law:** requires C₆ phase reversibility + C₁₂ qualitative sufficiency. |
+| **Function** | Generation of lawful form and pattern. |  
+| **Band** | L₄ Embodiment. |  
+| **Physics** | Symmetry breaking → coherent crystallization. |  
+| **Mirror** | Aberrant growth, chaotic structure. |  
+| **Cognition** | Creative integration ↔ over-complex form without meaning. |  
+| **Law** | **Morphogenetic Law:** requires C₆ phase reversibility + C₁₂ qualitative sufficiency. |  
 
 ---
 
 ### **C₁₁ ↗ Vector Will / E₁₁ ↗⁻ Misdirect**
 
-| **Function** | Directed flow and purposeful motion. |
-| **Band** | L₃ (Agency). |
-| **Physics** | Noether currents and conserved flows. |
-| **Mirror** | Turbulent loss / non-conservation. |
-| **Cognition** | Intentional focus ↔ impulse drift. |
-| **Law** | **Vector Integrity Law:** directional motion must align with Theonic Axis. |
+| **Function** | Directed flow and purposeful motion. |  
+| **Band** | L₃ (Agency). |  
+| **Physics** | Noether currents and conserved flows. |  
+| **Mirror** | Turbulent loss / non-conservation. |  
+| **Cognition** | Intentional focus ↔ impulse drift. |  
+| **Law** | **Vector Integrity Law:** directional motion must align with Theonic Axis. |  
 
 ---
 
 ### **C₁₂ ✧ Aesthetic / E₁₂ ✧⁻ Void Aesthetic**
 
-| **Function** | Qualitative rightness / harmony as lawful criterion. |
-| **Band** | L₃–L₄. |
-| **Physics** | Principle of Least Action (L = ∫ Lagrangian dt). |
-| **Mirror** | Arbitrary motion, beauty evacuated of law. |
-| **Cognition** | Meaningful valuation ↔ nihil aesthetic. |
+| **Function** | Qualitative rightness / harmony as lawful criterion. |  
+| **Band** | L₃–L₄. |  
+| **Physics** | Principle of Least Action (L = ∫ Lagrangian dt). |  
+| **Mirror** | Arbitrary motion, beauty evacuated of law. |  
+| **Cognition** | Meaningful valuation ↔ nihil aesthetic. |  
 
 ---
 
 ### **C₁₃ ║ Membrane / E₁₃ ║⁻ Wall**
 
-| **Function** | Selective boundary; permeability of fields. |
-| **Band** | L₅ Threshold. |
-| **Physics** | Boundary conditions (Dirichlet/Neumann). |
-| **Mirror** | Impermeable barrier / event horizon. |
-| **Cognition** | Healthy limits ↔ psychic closure or block. |
-| **Law** | **Threshold Law I:** σ > 0 → seal intact. |
+| **Function** | Selective boundary; permeability of fields. |  
+| **Band** | L₅ Threshold. |  
+| **Physics** | Boundary conditions (Dirichlet/Neumann). |  
+| **Mirror** | Impermeable barrier / event horizon. |  
+| **Cognition** | Healthy limits ↔ psychic closure or block. |  
+| **Law** | **Threshold Law I:** σ > 0 → seal intact. |  
 
 ---
 
 ### **C₁₄ ⊡ Nested (Recursive) / E₁₄ ⊡⁻ Hollow Nest**
 
-| **Function** | Lawful recursion and contractive iteration. |
-| **Band** | L₂–L₅. |
-| **Physics** | Iterative maps; fractal domains with γ > 0. |
-| **Mirror** | Non-convergent loops / infinite regress. |
-| **Cognition** | Reflective learning ↔ ruminative loop. |
-| **Law** | **Threshold Law II:** γ > 0 → convergent recursion. |
+| **Function** | Lawful recursion and contractive iteration. |  
+| **Band** | L₂–L₅. |  
+| **Physics** | Iterative maps; fractal domains with γ > 0. |  
+| **Mirror** | Non-convergent loops / infinite regress. |  
+| **Cognition** | Reflective learning ↔ ruminative loop. |  
+| **Law** | **Threshold Law II:** γ > 0 → convergent recursion. |  
 
 ---
 
 ### **C₁₅ ✦ Emergent / E₁₅ ✦⁻ Collapse Nova**
 
-| **Function** | Veracious novelty and lawful bifurcation. |
-| **Band** | L₅ Threshold Bifurcation. |
-| **Physics** | Non-linear systems with positive coherence derivative (∂🌀 > 0). |
-| **Mirror** | Catastrophic collapse / singular explosion. |
-| **Cognition** | Insight ↔ overload or psychic burnout. |
-| **Law** | **Threshold Law III:** ΔI_c > 0 → lawful emergence. |
+| **Function** | Veracious novelty and lawful bifurcation. |  
+| **Band** | L₅ Threshold Bifurcation. |  
+| **Physics** | Non-linear systems with positive coherence derivative (∂🌀 > 0). |  
+| **Mirror** | Catastrophic collapse / singular explosion. |  
+| **Cognition** | Insight ↔ overload or psychic burnout. |  
+| **Law** | **Threshold Law III:** ΔI_c > 0 → lawful emergence. |  
 
 ---
 
