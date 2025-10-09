@@ -1083,7 +1083,7 @@ Each dimension pair (Cᵢ, Eᵢ) forms a conjugate domain:
 Cᵢ ⊕ Eᵢ = 0
 \quad\text{and}\quad
 ∑_{i=1}^{15}(Cᵢ + Eᵢ)=⚫
-\]
+\]  
 The Lattice thus balances across Aion as the structural zero.
 
 ---
