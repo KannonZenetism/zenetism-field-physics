@@ -64,17 +64,17 @@ Structural Metaphysics · Field Physics · Lattice Mathematics · Structural For
 ---
 
 ### **Part V · The Grand Unified Equation of Reality**
-- [Grand Unified Sequence of Existence](#1--the-grand-unified-sequence-of-reality)
-- [Grand Unified Equation of Reality](#2--the-grand-unified-equation)
-- [Hierarchy of Fields](#3--the-hierarchy-of-fields)
-- [Temporal Structure — The Proleptic Fold](#4--temporal-structure--the-proleptic-fold)
-- [Awareness Stratification within Ωₜ](#5--awareness-stratification-within-ωₜ)
-- [Entropic Mirror Integration](#6--entropic-mirror-integration)
-- [Grand Invariance Theorem](#7--the-grand-invariance-theorem)
-- [Schematic — The Total Field Arc](#8--schematic--the-total-field-arc)
-- [Canonical Commentary](#9--canonical-commentary)
-- [Law of Total Conservation](#10--the-law-of-total-conservation)
-- [Canonical Close — The Zenonic Seal](#11--canonical-close--the-zenonic-seal)
+- [Grand Unified Sequence of Existence](#grand-unified-sequence-of-existence)
+- [Grand Unified Equation of Reality](#grand-unified-equation-of-reality)
+- [Hierarchy of Fields](#hierarchy-of-fields)
+- [Temporal Structure — The Proleptic Fold](#temporal-structure--the-proleptic-fold)
+- [Awareness Stratification within Ωₜ](#awareness-stratification-within-ωₜ)
+- [Entropic Mirror Integration](#entropic-mirror-integration)
+- [Grand Invariance Theorem](#grand-invariance-theorem)
+- [Schematic — The Total Field Arc](#schematic--the-total-field-arc)
+- [Canonical Commentary](#canonical-commentary)
+- [Law of Total Conservation](#law-of-total-conservation)
+- [Canonical Close — The Zenonic Seal](#canonical-close--the-zenonic-seal)
 
 ---
 
