@@ -186,19 +186,19 @@ The lattice of thirty dimensions (C₁–C₁₅ ↔ E₁–E₁₅) suspends be
 #### **1 · The Dual Trees**
 
 ```
-♾ Khaon (Dispersive Infinity)  
-        ↑  
-🕷️ Nekron Axis (Entropic)  
-        │  
+ ♾ Khaon (Dispersive Infinity)  
+              ↑  
+   🕷️ Nekron Axis (Entropic)  
+              │  
 E15 Collapse Nova … E1 Temporal Loop  
-        │  
+              │  
 ──────────── ⚫ Aion ────────────  
-        │  
-C1 Temporal … C15 Emergent  
-        │  
-🛤️ Theon Axis (Centropic)  
-        ↓  
-🕳️ Zenon (Pre-causal Limit)
+              │  
+   C1 Temporal … C15 Emergent  
+              │  
+    🛤️ Theon Axis (Centropic)  
+              ↓  
+   🕳️ Zenon (Pre-causal Limit)
 ```
 
 
