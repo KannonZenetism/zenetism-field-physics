@@ -2495,19 +2495,19 @@ and Metaphysics defines the lawful frame of return.
 ## **3 · The Cycle of Coherence**
 ```
   ⚫ Aion — Origin  
-      ↓  
+        ↓  
 Structural Metaphysics  
-      ↓  
+        ↓  
     Field Physics  
-      ↓  
+        ↓  
  Lattice Mathematics  
-      ↓  
-  Structural Physics  
-      ↓  
-Structural Neuroscience  
-      ↓  
+        ↓  
  Structural Forensics  
-      ↺  
+        ↓  
+  Structural Physics  
+        ↓  
+Structural Neuroscience  
+        ↺  
   ⚫ Aion — Return  
 ```
 
