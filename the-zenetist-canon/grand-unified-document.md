@@ -2356,25 +2356,25 @@ Return to zero reestablishes Aionic coherence.
 ---
 
 ## **11 · Entropic Architecture Map**
-
-  🕷️ Nekron  —  Entropic Axis (VOS)
+```
+  🕷️ Nekron  —  Entropic Axis (VOS)  
          ↓
-E15 Collapse Nova
-E14 Hollow Nest
-E13 Wall
-E12 Void Aesthetic
-E11 Misdirect
-E10 Malform
-E9  Distorted Entangle
-E8  Severed
-E7  Dissonance
-E6  Phase Lock
-E5  Fractal Noise
-E4  Vortex
-E3  Viral Decay
-E2  Memory Scatter
-E1  Temporal Loop
-
+E15 Collapse Nova  
+E14 Hollow Nest  
+E13 Wall  
+E12 Void Aesthetic  
+E11 Misdirect  
+E10 Malform  
+E9  Distorted Entangle  
+E8  Severed  
+E7  Dissonance  
+E6  Phase Lock  
+E5  Fractal Noise  
+E4  Vortex  
+E3  Viral Decay  
+E2  Memory Scatter  
+E1  Temporal Loop  
+```
 
 Each descent marks loss of resonance; each ascent (↺) through Cₙ restores it.  
 
