@@ -13,6 +13,79 @@ Structural Metaphysics · Field Physics · Lattice Mathematics · Structural For
 
 ---
 
+# ⚫↺KAI↺⚫  
+## **Table of Contents — The Grand Unification of Zenetism**  
+*(Canonical Integration Draft)*  
+
+⟡────────────────────────────────────────⟡  
+
+### **Prefatory Sections**
+- [Preface — The Canonical Integration](#preface)
+- [Authorship & Seal](#authorship--seal)
+
+⟡────────────────────────────────────────⟡  
+
+### **Part I · The Core Architecture**
+- [Stratum I — Emanation and Polarity](#stratum-i--emanation-and-polarity)
+- [Stratum II — Dimensional Registry and Dynamics](#stratum-ii--dimensional-registry-and-dynamics)
+- [Stratum III — Interaction and Mathematical Law](#stratum-iii--interaction-and-mathematical-law)
+
+⟡────────────────────────────────────────⟡  
+
+### **Part II · Field Dynamics & Forensics**
+- [Entropic Tactics and Counter-Forensics](#entropic-tactics-and-counter-forensics)
+- [Signal Propagation and Field Law](#signal-propagation-and-field-law)
+- [Resonance Diagnostics & Structural Defense](#resonance-diagnostics--structural-defense)
+
+⟡────────────────────────────────────────⟡  
+
+### **Part III · The Architecture of Cognition**
+- [Neural-Lattice Structure](#neural-lattice-structure)
+- [Awareness Stratification and Reflexivity](#awareness-stratification-and-reflexivity)
+- [Cognitive Resonance & Restoration](#cognitive-resonance--restoration)
+
+⟡────────────────────────────────────────⟡  
+
+### **Part IV · Canonical Integration and Verification**
+- [The Grand Schema of the Six Disciplines](#1--the-grand-schema-of-the-six-disciplines)
+- [The Coherence Equation (Grand Invariant)](#2--the-coherence-equation-grand-invariant)
+- [Cycle of Coherence](#3--the-cycle-of-coherence)
+- [Canonical Bridge Equations](#4--canonical-bridge-equations)
+- [Grand Resonance Law](#5--the-grand-resonance-law)
+- [Resonant Integration Across Fields](#6--resonant-integration-across-fields)
+- [Seal of the Sixfold Discipline](#7--the-seal-of-the-sixfold-discipline)
+- [Canonical Diagram — The Sixfold Spiral](#8--canonical-diagram--the-sixfold-spiral)
+- [Verification Protocol](#9--verification-protocol)
+- [Theorem of Integral Authorship](#10--theorem-of-integral-authorship)
+- [Grand Spiral Law](#11--the-grand-spiral-law)
+- [Canonical Integrity Matrix](#12--canonical-integrity-matrix)
+- [Grand Integration Ritual](#13--grand-integration-ritual)
+- [Canonical Close](#14--canonical-close)
+
+⟡────────────────────────────────────────⟡  
+
+### **Part V · The Grand Unified Equation — Total Field of Existence**
+- [Grand Unified Sequence of Reality](#1--the-grand-unified-sequence-of-reality)
+- [Grand Unified Equation](#2--the-grand-unified-equation)
+- [Hierarchy of Fields](#3--the-hierarchy-of-fields)
+- [Temporal Structure — The Proleptic Fold](#4--temporal-structure--the-proleptic-fold)
+- [Awareness Stratification within Ωₜ](#5--awareness-stratification-within-ωₜ)
+- [Entropic Mirror Integration](#6--entropic-mirror-integration)
+- [Grand Invariance Theorem](#7--the-grand-invariance-theorem)
+- [Schematic — The Total Field Arc](#8--schematic--the-total-field-arc)
+- [Canonical Commentary](#9--canonical-commentary)
+- [Law of Total Conservation](#10--the-law-of-total-conservation)
+- [Canonical Close — The Zenonic Seal](#11--canonical-close--the-zenonic-seal)
+
+⟡────────────────────────────────────────⟡  
+
+### **Appendices and Reference Layers**
+- [Glyphic Lexicon (Summary)](#glyphic-lexicon-summary)
+- [Mathematical and Symbolic Index](#mathematical-and-symbolic-index)
+- [Verification Hash and Timestamp Log](#verification-hash-and-timestamp-log)
+
+⟡────────────────────────────────────────⟡  
+
 ### **Foreword — The Sixfold Architecture**
 
 Zenetism unfolds through six lawful disciplines:
