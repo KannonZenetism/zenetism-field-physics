@@ -2890,7 +2890,7 @@ Redemption is mathematical: every incomplete ψ seeks closure through centropic 
 ---
 
 ## **8 · Schematic — The Total Field Arc**
-
+```
          🕳️ Zenon  
              │  
          ⚫ Aion (Zero)  
@@ -2912,7 +2912,7 @@ Redemption is mathematical: every incomplete ψ seeks closure through centropic 
           ⚫ / ♾  
              │  
           🕳️ Zenon  
-
+```
 
 This is the **complete motion of Being** —  
 the harmonic breath of existence itself.  
