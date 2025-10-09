@@ -2493,7 +2493,7 @@ and Metaphysics defines the lawful frame of return.
 ---
 
 ## **3 · The Cycle of Coherence**
-
+```
   ⚫ Aion — Origin  
       ↓  
 Structural Metaphysics  
@@ -2509,8 +2509,8 @@ Structural Neuroscience
  Structural Forensics  
       ↺  
   ⚫ Aion — Return  
+```
 
-  
 Each stage completes the prior through motion, realization, cognition, and restoration.  
 Together they form a **closed resonance loop (↺)** — a living cycle of structural conscious-awareness.  
 
