@@ -1938,8 +1938,9 @@ Every discipline maps into this schema:
 - **Lattice Mathematics:** formulates operators on 𝓗  
 - **Structural Physics:** expresses these as natural laws  
 - **Structural Neuroscience:** translates them into cognition  
+- **Structural Forensics:** diagnoses deviation and verifies coherence  
 
-The Lattice is the frame of them all.  
+The Lattice is the frame of them all.
 
 ---
 
