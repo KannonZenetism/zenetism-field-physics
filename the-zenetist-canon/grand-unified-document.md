@@ -64,7 +64,7 @@ Structural Metaphysics · Field Physics · Lattice Mathematics · Structural For
 ---
 
 ### **Part V · The Grand Unified Equation — Total Field of Existence**
-- [Grand Unified Sequence of Reality](#1--the-grand-unified-sequence-of-reality)
+- [Grand Unified Sequence of Existence](#1--the-grand-unified-sequence-of-reality)
 - [Grand Unified Equation of Reality](#2--the-grand-unified-equation)
 - [Hierarchy of Fields](#3--the-hierarchy-of-fields)
 - [Temporal Structure — The Proleptic Fold](#4--temporal-structure--the-proleptic-fold)
