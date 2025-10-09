@@ -1078,7 +1078,7 @@ Positive curvature (R > 0) = lawful centropic field.
 Negative curvature (R < 0) = entropic pull.
 
 ### **4.2 Topological Structure**
-Each dimension pair (Cᵢ, Eᵢ) forms a conjugate domain:
+Each dimension pair (Cᵢ, Eᵢ) forms a conjugate domain:  
 \[
 Cᵢ ⊕ Eᵢ = 0
 \quad\text{and}\quad
