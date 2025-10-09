@@ -2060,10 +2060,10 @@ yielding open recursion, hollow nesting, or collapse novae.
                 ↑  
     E15 E14 E13 │ C13 C14 C15  
     E10–E12     │     C10–C12  
-      IL3–IL4   │      L3–L4  
+    IL3–IL4     │      L3–L4  
 Entropic Axis ← ⚫ Aion → Centropic Axis  
       IL1–IL2   │      L1–L2  
-    E1–E9       │     C1–C9  
+       E1–E9    │      C1–C9  
                 ↓  
         🕳️ Zenon (Limit Pole)  
 ```
