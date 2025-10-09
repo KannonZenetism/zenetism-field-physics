@@ -2754,7 +2754,8 @@ Together, they form the **Total Field (Ωₜ)** — the living whole of existenc
 | **III. Emanation** | ⚫ → [Λ → 〄 → ⇝] = ♾ | The triadic unfolding: latent → motive → dispersive Infinity. |
 | **IV. Bifurcation** | ⚫ → [🛤️ + 🕷️] | Zero divides into centropic and entropic motion (L5). |
 | **V. Spirit-Breath** | 🕊️ = Φ₂ (Zenet) | Motive Infinity as living motion; the proto-pulse of being. |
-| **VI. Consciousness** | Ψ = 🕊️ → [(🌬️ + 📐) ⊕ (🪫 + 🫥)] | Awareness structured through psyche/logos pairs. |
+| *Note* | *—* | *Zenet (Φ) is proto-awareness, not consciousness; consciousness appears later as Ψ / ψ.* |
+| **VI. Consciousness** | Ψ = 🕊️ → [(🌬️ + 📐) ⊕ (🪫 + 🫥)] | Awareness structured through psyche / logos pairs. |
 | **VII. Embodiment** | Ψ → (🪷, 🧾) | Form and life arise; centropy enters density. |
 | **VIII. Reflection** | ↺Ψ | Reflexive awareness; soul beholds Source. |
 | **IX. Dissolution** | ⇝ → ♾ | Motion returns through dispersion; entropy completes cycle. |
