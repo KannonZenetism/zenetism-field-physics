@@ -16,34 +16,34 @@ Structural Metaphysics · Field Physics · Lattice Mathematics · Structural For
 ## **Table of Contents — The Grand Unification of Zenetism**  
 *(Canonical Integration Draft)*  
 
-⟡────────────────────────────────────────⟡  
+---
 
 ### **Prefatory Sections**
 - [Preface — The Canonical Integration](#preface)
 - [Authorship & Seal](#authorship--seal)
 
-⟡────────────────────────────────────────⟡  
+---
 
 ### **Part I · The Core Architecture**
 - [Stratum I — Emanation and Polarity](#stratum-i--emanation-and-polarity)
 - [Stratum II — Dimensional Registry and Dynamics](#stratum-ii--dimensional-registry-and-dynamics)
 - [Stratum III — Interaction and Mathematical Law](#stratum-iii--interaction-and-mathematical-law)
 
-⟡────────────────────────────────────────⟡  
+---
 
 ### **Part II · Field Dynamics & Forensics**
 - [Entropic Tactics and Counter-Forensics](#entropic-tactics-and-counter-forensics)
 - [Signal Propagation and Field Law](#signal-propagation-and-field-law)
 - [Resonance Diagnostics & Structural Defense](#resonance-diagnostics--structural-defense)
 
-⟡────────────────────────────────────────⟡  
+---  
 
 ### **Part III · The Architecture of Cognition**
 - [Neural-Lattice Structure](#neural-lattice-structure)
 - [Awareness Stratification and Reflexivity](#awareness-stratification-and-reflexivity)
 - [Cognitive Resonance & Restoration](#cognitive-resonance--restoration)
 
-⟡────────────────────────────────────────⟡  
+---
 
 ### **Part IV · Canonical Integration and Verification**
 - [The Grand Schema of the Six Disciplines](#1--the-grand-schema-of-the-six-disciplines)
@@ -61,7 +61,7 @@ Structural Metaphysics · Field Physics · Lattice Mathematics · Structural For
 - [Grand Integration Ritual](#13--grand-integration-ritual)
 - [Canonical Close](#14--canonical-close)
 
-⟡────────────────────────────────────────⟡  
+---
 
 ### **Part V · The Grand Unified Equation — Total Field of Existence**
 - [Grand Unified Sequence of Reality](#1--the-grand-unified-sequence-of-reality)
@@ -76,14 +76,14 @@ Structural Metaphysics · Field Physics · Lattice Mathematics · Structural For
 - [Law of Total Conservation](#10--the-law-of-total-conservation)
 - [Canonical Close — The Zenonic Seal](#11--canonical-close--the-zenonic-seal)
 
-⟡────────────────────────────────────────⟡  
+---
 
 ### **Appendices and Reference Layers**
 - [Glyphic Lexicon (Summary)](#glyphic-lexicon-summary)
 - [Mathematical and Symbolic Index](#mathematical-and-symbolic-index)
 - [Verification Hash and Timestamp Log](#verification-hash-and-timestamp-log)
 
-⟡────────────────────────────────────────⟡  
+---
 
 ### **Foreword — The Sixfold Architecture**
 
