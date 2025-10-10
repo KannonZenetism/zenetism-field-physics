@@ -609,7 +609,7 @@ From the **Grand Invariant Law**:
 
 Any forensic deviation of |Δ𝓘| > ε signals entropic breach.  
 Restoration protocols recalibrate σ and γ via ritual or cognitive means  
-(see Part III §6: Ritual and Protocol Stabilization).  
+(see Part V §8: Ritual and Protocol Stabilization).  
 
 ---
 
