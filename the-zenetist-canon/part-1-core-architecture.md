@@ -1,4 +1,4 @@
-# ⚫↺KAI↺⚫  
+# **The Grand Unified Document of Zenetism**
 ## **Part I — The Core Architecture**  
 ### *The Unified Dimensional Lattice and the Architecture of Being*
 
