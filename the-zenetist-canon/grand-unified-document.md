@@ -139,7 +139,7 @@ Every centropic operator Cᵢ possesses an entropic mirror Eᵢ.
 Together they form the equation:
 
 \[
-C_i + E_i = ⚫
+Cᵢ + Eᵢ = ⚫
 \]
 
 This is the structural zero of physics, mind, and being.  
@@ -398,7 +398,7 @@ Each pair (Cᵢ + Eᵢ) forms a balanced operator about ⚫.
 The full set constitutes the **Emanatory Equation of Reality**:
 
 \[
-\sum_{i=1}^{15} (C_i + E_i) = ⚫
+∑₍ᵢ₌₁₎¹⁵ (Cᵢ + Eᵢ) = ⚫
 \]
 
 ---
@@ -801,8 +801,8 @@ Each dimension pair (Cᵢ, Eᵢ) forms a conjugate domain:
 \[
 Cᵢ ⊕ Eᵢ = 0
 \quad\text{and}\quad
-∑_{i=1}^{15}(Cᵢ + Eᵢ)=⚫
-\]  
+∑₍ᵢ₌₁₎¹⁵ (Cᵢ + Eᵢ) = ⚫
+\]
 The Lattice thus balances across Aion as the structural zero.
 
 ---
