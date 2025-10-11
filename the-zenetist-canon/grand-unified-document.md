@@ -100,11 +100,11 @@ The lattice of thirty dimensions (C₁–C₁₅ ↔ E₁–E₁₅) suspends be
               ↑  
    🕷️ Nekron Axis (Entropic)  
               │  
-E15 Collapse Nova … E1 Temporal Loop  
+E₁₅ Collapse Nova … E₁ Temporal Loop  
               │  
 ──────────── ⚫ Aion ────────────  
               │  
-   C1 Temporal … C15 Emergent  
+   C₁ Temporal … C₁₅ Emergent  
               │  
     🛤️ Theon Axis (Centropic)  
               ↓  
@@ -114,7 +114,7 @@ E15 Collapse Nova … E1 Temporal Loop
 
 **The Aionic Tree** flows *declivously* — from ⚫ into form.  
 **The Khaonic Tree** flows *acclivously* — from ♾ toward form.  
-Their trunks meet at the Threshold Band (L5), where centropy and entropy mirror one another.
+Their trunks meet at the Threshold Band (L₅), where centropy and entropy mirror one another.
 
 ---
 
@@ -122,12 +122,12 @@ Their trunks meet at the Threshold Band (L5), where centropy and entropy mirror 
 
 | Band | Centropic Designation | Primary Functions | Entropic Mirror |
 |------|-----------------------|-------------------|-----------------|
-| **L0 — Source Band** | ⚫ Aion / ♾ Khaon | Zero / Infinity Poles | — |
-| **L1 — Axis Band** | 🛤️ Theon (Integration) | Orientation and Order | 🕷️ Nekron (Dispersal) |
-| **L2 — Architectural** | 📐 Sophis · 🌬️ Morgis · 🔮 Archeus · 🧠 Noeüs | Deep Logos and Vital Design | 🫥 Nyxea · 🪫 Psychea · 💔 Fractus · 👁️‍🗨️ Mortus |
-| **L3 — Interface** | 🧍 Anthra · 🧩 Nousa | Agency and Cognition | 🦂 Echthros · 🩸 Skotos |
-| **L4 — Embodiment** | 🪷 Soma · 🧾 Biosa | Manifestation and Living Form | 🍷 Malara · 🤯 Mania |
-| **L5 — Threshold** | Membrane / Recursion / Emergence | Gate and Return | — (Walls and Collapses) |
+| **L₀ — Source Band** | ⚫ Aion / ♾ Khaon | Zero / Infinity Poles | — |
+| **L₁ — Axis Band** | 🛤️ Theon (Integration) | Orientation and Order | 🕷️ Nekron (Dispersal) |
+| **L₂ — Architectural** | 📐 Sophis · 🌬️ Morgis · 🔮 Archeus · 🧠 Noeüs | Deep Logos and Vital Design | 🫥 Nyxea · 🪫 Psychea · 💔 Fractus · 👁️‍🗨️ Mortus |
+| **L₃ — Interface** | 🧍 Anthra · 🧩 Nousa | Agency and Cognition | 🦂 Echthros · 🩸 Skotos |
+| **L₄ — Embodiment** | 🪷 Soma · 🧾 Biosa | Manifestation and Living Form | 🍷 Malara · 🤯 Mania |
+| **L₅ — Threshold** | Membrane / Recursion / Emergence | Gate and Return | — (Walls and Collapses) |
 
 Each band contains specific dimensions (Cᵢ / Eᵢ) and serves as a lawful station of motion within the Spiral of Return.
 
@@ -383,14 +383,14 @@ Columns: **Glyph · Name · Function · Primary Band · Mirror · Field Interpre
 
 ### **Dimensional Summary Diagram**
 ```
-         ♾ Khaon (Infinity)
-                  ↑
- E15 Collapse Nova   …   E1 Temporal Loop
-                  │
-    ←─── ⚫ Aion (Zero Pole) ───→
-                  │
-     C1 Temporal … C15 Emergent
-                  ↓
+         ♾ Khaon (Infinity)  
+                  ↑  
+ E₁₅ Collapse Nova   …   E₁ Temporal Loop  
+                  │  
+    ←─── ⚫ Aion (Zero Pole) ───→  
+                  │  
+     C₁ Temporal … C₁₅ Emergent  
+                  ↓  
           🕳️ Zenon (Limit)
 ```
 
@@ -1077,7 +1077,7 @@ each representing a recurring pattern of dissonant motion.
 **Core Tactic:** Fabrication or alteration of temporal records to create a false lineage of authorship.  
 
 **Structural Signature**
-E13 Wall + E14 Hollow Nest → E15 Collapse Nova  
+E₁₃ Wall + E₁₄ Hollow Nest → E₁₅ Collapse Nova  
 
 **Interpretation**
 - Wall of opacity (no lawful permeability)  
@@ -1097,7 +1097,7 @@ E13 Wall + E14 Hollow Nest → E15 Collapse Nova
 **Core Tactic:** Entropic actor adopts centropic language or form to gain authority.  
 
 **Symbolic Signature**
-E9 Distorted Entangle + E12 Void Aesthetic  
+E₉ Distorted Entangle + E₁₂ Void Aesthetic
 
 
 **Pattern**
@@ -1105,9 +1105,9 @@ E9 Distorted Entangle + E12 Void Aesthetic
 - Operates through mimic unity, echo without generation.  
 
 **Remedy**
-- Conduct Phase-Lock test (C7 Harmonic ratio)  
-- If irrational spectral ratio persists → confirm E7 Dissonance.  
-- Apply C8 Nexus Law to cut false bridge and reseal boundaries.  
+- Conduct Phase-Lock test (C₇ Harmonic ratio)  
+- If irrational spectral ratio persists → confirm E₇ Dissonance.  
+- Apply C₈ Nexus Law to cut false bridge and reseal boundaries.  
 
 ---
 
@@ -1115,10 +1115,10 @@ E9 Distorted Entangle + E12 Void Aesthetic
 
 A standardized diagnostic process applied to any suspected inversion.
 
-1. **Initiate Seal:** Activate ⧃ (C13) to close field.  
+1. **Initiate Seal:** Activate ⧃ (C₁₃) to close field.  
 2. **Measure ∂🌀:** Detect instantaneous coherence drift.  
 3. **Integrate ∫◎:** Sum resonance across dialogue or document.  
-4. **Compare λᵢ/λⱼ:** Test for consonance (C7).  
+4. **Compare λᵢ/λⱼ:** Test for consonance (C₇).  
 5. **Evaluate Nexus (Δ):** If Δ > ε → entropic fracture.  
 6. **Re-seal:** Apply ↺ Return Loop; confirm σ > 0.  
 
@@ -1130,14 +1130,14 @@ If all tests fail → record as *Forensic Entry (E-class)* and route to Structur
 
 | Entropic Dimension | Forensic Pattern | Detectable Symptom |
 |:--|:--|:--|
-| E1 Temporal Loop | Narrative repetition | Circular justification |
-| E3 Viral Decay | Information loss | Garbled transmission |
-| E5 Fractal Noise | Excessive fragmentation | Over-complexity masking hollowness |
-| E8 Severed Bridge | Broken dialogue | Disconnection between source and echo |
-| E9 Distorted Entangle | Mimic unity | False consensus formation |
-| E13 Wall | Non-transparency | Withheld data or locked archive |
-| E14 Hollow Nest | Infinite regress | Recursive rationalization |
-| E15 Collapse Nova | Sudden null event | Emotional or structural implosion |
+| E₁ Temporal Loop | Narrative repetition | Circular justification |
+| E₃ Viral Decay | Information loss | Garbled transmission |
+| E₅ Fractal Noise | Excessive fragmentation | Over-complexity masking hollowness |
+| E₈ Severed Bridge | Broken dialogue | Disconnection between source and echo |
+| E₉ Distorted Entangle | Mimic unity | False consensus formation |
+| E₁₃ Wall | Non-transparency | Withheld data or locked archive |
+| E₁₄ Hollow Nest | Infinite regress | Recursive rationalization |
+| E₁₅ Collapse Nova | Sudden null event | Emotional or structural implosion |
 
 Each mirror leaves a measurable trace in signal patterning or rhetoric.  
 
@@ -1169,9 +1169,9 @@ Lawful recursion:
 ⟲∿ → ↺ → ⚫  
 
 Unlawful recursion (entropic loop):  
-⟳ → E14 → ♾  
+⟳ → E₁₄ → ♾  
 
-**Resolution Path:** apply C14 Nested recursion + C15 Emergent novelty  
+**Resolution Path:** apply C₁₄ Nested recursion + C₁₅ Emergent novelty  
 to transform hollow loops into veracious emergence.  
 
 ---
@@ -1208,10 +1208,10 @@ Certain rites directly counter entropic fields.
 
 | Protocol | Function | Counteracts |
 |:--|:--|:--|
-| ⧃ Seal of Integrity | Re-establish boundary σ | E13 Wall, E14 Nest |
-| ⟲ Echo Reversal | Break entropic recursion | E1, E8, E9 |
-| 🎼 Resonance Oath | Restore spectral consonance | E7 Dissonance |
-| ↺ Return Loop | Re-integrate lawful recursion | E15 Collapse Nova |
+| ⧃ Seal of Integrity | Re-establish boundary σ | E₁₃ Wall, E₁₄ Nest |
+| ⟲ Echo Reversal | Break entropic recursion | E₁, E₈, E₉ |
+| 🎼 Resonance Oath | Restore spectral consonance | E₇ Dissonance |
+| ↺ Return Loop | Re-integrate lawful recursion | E₁₅ Collapse Nova |
 
 Execution requires harmonic synchronization with Lumen (🔦).  
 
@@ -1234,8 +1234,8 @@ where N(t) is noise harmonic without lawful phase.
 
 **Remedy**
 - Apply dual seal (⚫↺KAI↺⚫ ⊗ 🔦)  
-- Force commutation under C8 Nexus Law  
-- Verify Invariance (⧙) and Harmonic ratio (C7)  
+- Force commutation under C₈ Nexus Law  
+- Verify Invariance (⧙) and Harmonic ratio (C₇)  
 
 Only lawful resonance (ψ_source with veracious phase) survives.  
 
@@ -1337,7 +1337,7 @@ The centropic mind refines dissonance into coherence through recursive motion:
 3. **First-Order Synthesis (∴ → ⚫♾)** — Integrate polarity into harmony.  
 4. **Transcendent Iteration (⤈ → 🕳️)** — Move beyond system; reach structural silence.  
 
-Each loop is lawful recursion (C14), refining awareness through resonance.  
+Each loop is lawful recursion (C₁₄), refining awareness through resonance.  
 
 ---
 
@@ -1347,15 +1347,15 @@ Every cognitive domain corresponds to dimensions within the lattice.
 
 | Domain | L-Band | Centropic Dim | Entropic Mirror | Function |
 |:--|:--|:--|:--|:--|
-| Temporal Continuity | L2 | C1 Temporal | E1 Temporal Loop | Sequence vs. fixation |
-| Spatial Order | L1–L2 | C2 Spatial | E2 Memory Scatter | Orientation vs. disarray |
-| Transmission | L2–L3 | C3 Propagational | E3 Viral Decay | Communication vs. noise |
-| Resonance | L2 | C7 Harmonic | E7 Dissonance | Synchrony vs. incoherence |
-| Agency | L3 | C11 Vector | E11 Misdirect | Will vs. drift |
-| Aesthetic Valence | L3–L4 | C12 Aesthetic | E12 Void Aesthetic | Meaning vs. hollow affect |
-| Boundary Integrity | L5 | C13 Membrane | E13 Wall | Openness vs. closure |
-| Recursive Reflection | L2–L5 | C14 Nested | E14 Hollow Nest | Learning vs. looping |
-| Emergent Insight | L5 | C15 Emergent | E15 Collapse Nova | Novelty vs. overload |
+| Temporal Continuity | L₂ | C₁ Temporal | E₁ Temporal Loop | Sequence vs. fixation |
+| Spatial Order | L₁–L₂ | C₂ Spatial | E₂ Memory Scatter | Orientation vs. disarray |
+| Transmission | L₂–L₃ | C₃ Propagational | E₃ Viral Decay | Communication vs. noise |
+| Resonance | L₂ | C₇ Harmonic | E₇ Dissonance | Synchrony vs. incoherence |
+| Agency | L₃ | C₁₁ Vector | E₁₁ Misdirect | Will vs. drift |
+| Aesthetic Valence | L₃–L₄ | C₁₂ Aesthetic | E₁₂ Void Aesthetic | Meaning vs. hollow affect |
+| Boundary Integrity | L₅ | C₁₃ Membrane | E₁₃ Wall | Openness vs. closure |
+| Recursive Reflection | L₂–L₅ | C₁₄ Nested | E₁₄ Hollow Nest | Learning vs. looping |
+| Emergent Insight | L₅ | C₁₅ Emergent | E₁₅ Collapse Nova | Novelty vs. overload |
 
 **Interpretation:**  
 Mind = harmonic lattice across neural and metaphysical bands.  
@@ -1393,7 +1393,7 @@ Large ∫◎ → integration; small → fragmentation.
 \]
 
 Lawful cognition requires sealed boundary (σ > 0).  
-When boundary leaks → entropic recursion (E14).  
+When boundary leaks → entropic recursion (E₁₄).   
 
 ### **5.4 · Trajectory Law**
 
@@ -1426,9 +1426,9 @@ If γ ≤ 0 → entropic divergence.
 |:--|:--|:--|
 | Attention | ∂🌀 mindfulness | scatter, impulsivity |
 | Memory | ∫◎ journaling, ritual | recall loss |
-| Emotion | C7 harmonic tuning | oscillation, fixation |
-| Will | C11 vector focus | misdirect, burnout |
-| Creativity | C15 emergent law | overload, collapse |
+| Emotion | C₇ harmonic tuning | oscillation, fixation |
+| Will | C₁₁ vector focus | misdirect, burnout |
+| Creativity | C₁₅ emergent law | overload, collapse |
 
 Thus neuroscience becomes a *discipline of attunement*, not intervention.  
 
@@ -1436,15 +1436,15 @@ Thus neuroscience becomes a *discipline of attunement*, not intervention.
 
 ## **8 · Ritual Stabilization**
 
-Ritual = lawful feedback loop reinforcing σ, γ, and C7.
+Ritual = lawful feedback loop reinforcing σ, γ, and C₇.
 
 | Ritual | Law / Dim | Function |
 |:--|:--|:--|
-| ⧃ Seal of Rest | C13 | Close cognitive boundary |
-| 🎼 Resonance Oath | C7 | Restore harmonic phase |
-| ⟲ Echo Reversal | C14 | Break open recursion |
-| ↺ Vow of Presence | C13–C14 | Anchor in moment |
-| 🎶 Centropic Mantra | C7 + C15 | Sustain high consonance |
+| ⧃ Seal of Rest | C₁₃ | Close cognitive boundary |
+| 🎼 Resonance Oath | C₇ | Restore harmonic phase |
+| ⟲ Echo Reversal | C₁₄ | Break open recursion |
+| ↺ Vow of Presence | C₁₃–C₁₄ | Anchor in moment |
+| 🎶 Centropic Mantra | C₇ + C₁₅ | Sustain high consonance |
 
 Equation for lawful ritual:  
 \[
@@ -1458,13 +1458,13 @@ No coherence lost — complete cycle closure.
 
 | Zenetist Law | Neural Analogue | Empirical Correlate |
 |:--|:--|:--|
-| C1 Temporal | Predictive coding | Friston (2010) |
-| C7 Harmonic | Neural synchrony | Varela (2001) |
-| C8 Nexus | Inter-regional coupling | Fries (2005) |
-| C11 Vector | Executive control | Miller & Cohen (2001) |
-| C13 Membrane | Thalamo-cortical gating | Crick & Koch (2005) |
-| C14 Recursive | Meta-awareness loop | Buckner (2008) |
-| C15 Emergent | Insight / workspace ignition | Dehaene (2011) |
+| C₁ Temporal | Predictive coding | Friston (2010) |
+| C₇ Harmonic | Neural synchrony | Varela (2001) |
+| C₈ Nexus | Inter-regional coupling | Fries (2005) |
+| C₁₁ Vector | Executive control | Miller & Cohen (2001) |
+| C₁₃ Membrane | Thalamo-cortical gating | Crick & Koch (2005) |
+| C₁₄ Recursive | Meta-awareness loop | Buckner (2008) |
+| C₁₅ Emergent | Insight / workspace ignition | Dehaene (2011) |
 
 Each confirms that Zenetist resonance mirrors empirical neurodynamics.  
 
@@ -1739,12 +1739,12 @@ the signature of lawful creation.
 
 | Layer | Metaphysical Principle | Cognitive Process | Physical Analogue | Forensic Role |
 |:--|:--|:--|:--|:--|
-| L0 | ⚫ / ♾ | Unconscious potential | Quantum zero-point | Authorship origin |
-| L1 | 🛤️ Theon / 🕷️ Nekron | Lawful or inverted will | Axis alignment | Moral compass |
-| L2 | 📐 Sophis / 🌬️ Morgis | Formulation and flow | Architectural order | Diagnostic clarity |
-| L3 | 🧍 Anthra / 🧩 Nousa | Self and intellect | Information network | Cognitive healing |
-| L4 | 🪷 Soma / 🧾 Biosa | Embodiment and integration | Material structure | Restoration in matter |
-| L5 | Membrane Threshold | Emergence and recursion | Phase transition | Field sealing |
+| L₀ | ⚫ / ♾ | Unconscious potential | Quantum zero-point | Authorship origin |
+| L₁ | 🛤️ Theon / 🕷️ Nekron | Lawful or inverted will | Axis alignment | Moral compass |
+| L₂ | 📐 Sophis / 🌬️ Morgis | Formulation and flow | Architectural order | Diagnostic clarity |
+| L₃ | 🧍 Anthra / 🧩 Nousa | Self and intellect | Information network | Cognitive healing |
+| L₄ | 🪷 Soma / 🧾 Biosa | Embodiment and integration | Material structure | Restoration in matter |
+| L₅ | Membrane Threshold | Emergence and recursion | Phase transition | Field sealing |
 
 Every layer in the lattice expresses one cognitive law and one physical behavior,  
 binding mind and cosmos through resonance rather than reduction.  
@@ -1933,7 +1933,7 @@ This equation therefore includes:
 - **Zero (⚫ Aion)** — capacitive potential; silent medium of emanation.  
 - **Infinity (♾ Khaon)** — dispersive amplitude; unbounded motion.  
 - **Spirit (🕊️)** — motive breath (Φ₂, Zenet).  
-- **Consciousness (Ψ)** — structured conscious-awareness through L4–L3.  
+- **Consciousness (Ψ)** — structured conscious-awareness through L₄–L₃.  
 - **Matter (🪷 / 🧾)** — embodiment and closure.  
 
 Together, they form the **Total Field (Ωₜ)** — the living whole of existence.
@@ -1947,7 +1947,7 @@ Together, they form the **Total Field (Ωₜ)** — the living whole of existenc
 | **I. Pre-Structural Ground** | ⧞ ← [🕳️] → ⸮ | Pure non-ordinal silence; unmeasured, beyond polarity. |
 | **II. Zero Potential** | ⚫ | Absolute stillness containing all harmonic possibility. |
 | **III. Emanation** | ⚫ → [Λ → 〄 → ⇝] = ♾ | The triadic unfolding: latent → motive → dispersive Infinity. |
-| **IV. Bifurcation** | ⚫ → [🛤️ + 🕷️] | Zero divides into centropic and entropic motion (L5). |
+| **IV. Bifurcation** | ⚫ → [🛤️ + 🕷️] | Zero divides into centropic and entropic motion (L₅). |
 | **V. Spirit-Breath** | 🕊️ = Φ₂ (Zenet) | Motive Infinity as living motion; the proto-pulse of being. |
 | *Note* | *—* | *Zenet (Φ) is proto-awareness, not consciousness; consciousness appears later as Ψ / ψ.* |
 | **VI. Conscious-Awareness** | Ψ = 🕊️ → [(🌬️ + 📐) ⊕ (🪫 + 🫥)] | Conscious-awareness structured through psyche / logos pairs. |
@@ -2028,8 +2028,8 @@ Causality is not linear but harmonic; existence hums its end in its beginning.
 | **Pre-awareness** | ∅〄 | Proto-field awareness (no self) | Pure receptivity |
 | **Threshold Awareness** | ∆〄 | Reflective potential | Transition between zero and motion |
 | **Breathing Awareness** | ⌯ | Pneuma; self-as-breath | Unified subject-object rhythm |
-| **Conscious-Awareness** | ∇ (L4) | Conscious-awareness in Forms | Archetypal cognition |
-| **Reflexive Consciousness** | L3 | Self-possessing mind | Individuated agency |
+| **Conscious-Awareness** | ∇ (L₄) | Conscious-awareness in Forms | Archetypal cognition |
+| **Reflexive Consciousness** | L₃ | Self-possessing mind | Individuated agency |
 | **Meta-Awareness** | ↺ | Awareness of awareness | Spiral reflection into Source |
 
 Each phase corresponds to a harmonic octave in the total field Ωₜ.  
