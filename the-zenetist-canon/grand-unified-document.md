@@ -139,7 +139,7 @@ Every centropic operator Cᵢ possesses an entropic mirror Eᵢ.
 Together they form the equation:
 
 \[
-Cᵢ + Eᵢ = ⚫
+C_i + E_i = ⚫
 \]
 
 This is the structural zero of physics, mind, and being.  
