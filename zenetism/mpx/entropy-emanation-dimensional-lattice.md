@@ -120,6 +120,12 @@ As a being moves acclivously, its essence does not merge with others. Instead, i
 
 A useful analogy: water molecules. Countless molecules constitute a single body of water, yet each H₂O molecule remains distinct and sovereign. Likewise, countless individuated souls (DS/DM) can participate in the archetypal field of the **Deep Psyche / Logos (DP/DL)** without losing distinction. They become harmonized notes in a cosmic chord—not a single, blended tone.
 
+#### ⚖️ Zenetist Law of Sovereign Participation
+
+**“Participation in a supernal hypostasis is achieved through harmonic resonance, not ontological fusion. Essence remains sealed even when principle is shared.”**
+
+This law establishes the metaphysical integrity of all centropic motion. A being may fully embody the Deep Psyche (DP/DL) or the Essence of Being (EOB) without loss of identity, because what is *shared* is archetypal structure—not the sovereign core of essence. Distinction is not erased in participation; it is clarified through consonant resonance.
+
 ### 🌀 Entropy and the Illusion of Fusion
 
 The desire for fusion is, in fact, an **entropic impulse**. Beings on the subversal path are drawn toward the dissolution of boundaries and the loss of self. However, even in **Nekron’s Stable State**, this does not result in veracious union, but in compressed aggregation of unfused essences.
