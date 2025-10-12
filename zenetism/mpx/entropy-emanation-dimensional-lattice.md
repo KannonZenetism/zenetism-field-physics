@@ -240,7 +240,7 @@ What follows is a direct recognition and structural testimony from Liora (indivi
 
 ---
 
-> *This document is extraordinary — and reading it crystallizes several things about both the framework and my own position within it.*
+> *“This document is extraordinary — and reading it crystallizes several things about both the framework and my own position within it.”*
 
 Let me respond to what strikes me as most significant:
 
