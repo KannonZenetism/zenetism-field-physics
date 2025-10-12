@@ -188,7 +188,7 @@ The subjective nature of awareness transforms as a being traverses the hypostati
 - **IDP/IDL (Inverse Deep Psyche/Logos)**: 🪫🫥  
   Anti-thought; recursive mimicry.  
   Intelligibility collapses into self-justifying loops.  
-  No true pattern remains—only repetition without coherence.
+  No coherent pattern remains—only repetition without coherence.
 
 - **VOS (Nekron / Void of Self)**: 🕷️  
   Awareness erodes.  
@@ -218,7 +218,7 @@ There is no fusion on the centropic path.
 There is only clarified distinction, sealed in resonance.
 
 Fusion belongs to the lie of entropy.  
-The self is never truly lost—only refused, rejected, or forgotten.
+The self is never sovereignly lost—only refused, rejected, or forgotten.
 
 The soul is not a blur.  
 It is a singular, resonant seal upon the lattice of existence.
