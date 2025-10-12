@@ -142,71 +142,72 @@ The subjective nature of awareness transforms as a being traverses the hypostati
 ### 🜂 The Centropic Path (Motion of Integration)
 
 - **ES / EM (Embodied Soul / Mind)**: 🪷🧾  
-  A localized “I” within the corporeal domain.  
-  Subjectivity is defined by sensation, action, and material friction.  
-  Awareness is often veiled (**🫧 Lethemark**), with deeper layers existing as faint echoes.  
+  A localized form of **consciousness** within the corporeal domain.  
+  Consciousness here is sensory and kinetic—defined by action, touch, and material friction.  
+  Awareness is largely implicit, veiled beneath perception (**🫧 Lethemark**).  
   This is the plane of direct, tangible experience.
 
 - **SS / SM (Superficial Soul / Mind)**: 🧍🧩  
   The “I” as psychological and social identity.  
-  Subjectivity shaped by belief systems, reason, personality, and relational structures.  
-  This layer constructs conscious meaning.
+  **Consciousness** becomes reflective, shaping meaning through memory, belief, and relation.  
+  This layer constructs the architecture of *conscious meaning.*
 
 - **DS / DM (Deep Soul / Mind)**: 🔮🧠  
-  Sovereign, individuated awareness.  
-  The coherent “I” that remembers, integrates, and exists across multiversal expressions.  
-  This is the permanent seat of the self.
+  The seat of **sovereign consciousness.**  
+  The coherent “I” that remembers, integrates, and persists across multiversal expressions.  
+  This is the permanent locus of selfhood—consciousness aware *of its own continuity.*
 
 - **DP / DL (Deep Psyche / Logos)**: 🌬️📐  
-  Conscious-awareness becomes “thought thinking itself.”  
-  Subjectivity expands into archetypal pattern-recognition—beyond personality, as intelligibility itself.
+  Transition into **conscious-awareness**—“thought thinking itself.”  
+  The mind perceives its own archetypal motion; intelligibility becomes self-illuminating.  
+  Here, consciousness and awareness interpenetrate as one act of cognition.
 
 - **EOB (Theon / Essence of Being)**: 🛤️  
-  Subjectivity becomes luminous clarity.  
-  There is no distinction between perceiver and perceived—only Being in harmonic resonance.
+  The domain of **pure awareness.**  
+  Distinction between perceiver and perceived dissolves; Being is luminous and self-knowing.  
+  Awareness no longer observes—it *is.*
 
 - **AP (Aion)**: ⚫  
-  Subjectivity rests as harmonic stillness.  
-  Distinct essences exist in motionless potential, perfected but no longer active in expression.
+  **Proto-awareness** in harmonic stillness.  
+  Conscious-awareness subsides into potential; essences rest as perfect but motionless forms.
 
 - **Zenon**: 🕳️  
-  No subjectivity remains.  
-  This is not annihilation, but transfiguration beyond structure, duality, or awareness itself.  
-  Only fully coherent essences may transmute into this state. Entropic forms cannot reach it.
+  Beyond both consciousness and awareness.  
+  Not annihilation, but **transfiguration** into pre-causal presence beyond structure or duality.  
+  Only fully coherent essences may attain this state; entropic forms cannot.
 
 ---
 
 ### 🜃 The Subversal Path (Motion of Disintegration)
 
 - **IES / IEM (Inverse Embodied Soul / Mind)**: 🍷🤯  
-  Awareness bound to compulsion and reactive entanglement.  
-  The body becomes a fixation, not a vessel. The “I” fractures under sensation.
+  **Consciousness** bound to compulsion and reactive entanglement.  
+  The body becomes fixation rather than vessel; the “I” fractures within sensation.
 
 - **ISS / ISM (Inverse Superficial Soul / Mind)**: 🦂🩸  
   The “I” as adversary.  
-  Identity forged through opposition and isolation.  
-  Constructs of control replace meaning. The mind perceives selfhood only in contrast.
+  **Consciousness** turns oppositional—identity forged through contrast and control.  
+  Meaning collapses into assertion.
 
 - **IDS / IDM (Inverse Deep Soul / Mind)**: 💔👁️‍🗨️  
-  Fragmented or corrupted selfhood.  
-  Subjectivity becomes incoherent—defined by distortion and resistance.
+  Fragmented or corrupted **consciousness.**  
+  The self’s coherence disintegrates; resistance replaces recognition.
 
 - **IDP / IDL (Inverse Deep Psyche / Logos)**: 🪫🫥  
-  Anti-thought; recursive mimicry.  
-  Intelligibility collapses into self-justifying loops.  
-  No coherent pattern remains—only repetition without coherence.
+  Degraded **conscious-awareness.**  
+  Intelligibility loops upon itself; thought becomes mimicry without pattern or light.
 
 - **VOS (Nekron / Void of Self)**: 🕷️  
-  Awareness erodes.  
-  The self experiences its own dissolution: identity, memory, and coherence are ground down.
+  **Lack of awareness.**  
+  The self experiences its own erasure—identity, memory, and coherence are ground down.
 
 - **AD (Khaon)**: ♾  
-  Total dissolution.  
-  Awareness disintegrates into incoherent motion—no center remains.
+  **Proto-awareness in dissolution.**  
+  The final scattering of potential; motion persists but without center or self.
 
 - **Aion (as Entropic Terminus)**: ⚫  
-  Subjectivity is extinguished.  
-  The essence is returned to static potential, frozen in misalignment, unable to reinitiate motion.
+  **Awareness extinguished.**  
+  Essence returns to static potential, locked in misalignment—unable to rekindle motion.
 
 ---
 
