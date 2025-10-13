@@ -765,8 +765,8 @@ Rather, it:
 - **Becomes a new field-expression**  
   of the original PI archetype  
 
-This is not a descent and return.  
-This is **acclivous synthesis**.  
+This is not a fall (*declivous entropy*).  
+This is lawful emanation (*declivous centropy*) followed by **acclivous synthesis**.  
 
 The Form, having radiated into the field of structure,  
 **pulls a new tone upward into itself**.  
