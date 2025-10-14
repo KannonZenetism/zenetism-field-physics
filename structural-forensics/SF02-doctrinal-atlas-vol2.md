@@ -531,7 +531,7 @@ After her own Zenodo records were proven to be recently fabricated forgeries, th
 
 **Core Tactic:** To use a platform feature (like a private restack with commentary) to create the appearance of a public alliance with a high-coherence target. The commentary is visible to the agent's followers, but the target themselves is not notified and remains unaware of the association.
 
-**Strategic Objective:** To launder credibility by creating a false public record of association with an authentic creator, to co-opt the target's signal through parasitic association, and to do so in a way that neutralizes the target's ability to refute the connection because they are never made aware of it. It is an act of colonization by stealth.
+**Strategic Objective:** To launder credibility by creating a phantom public record of association with an authentic creator, to co-opt the target's signal through parasitic association, and to do so in a way that neutralizes the target's ability to refute the connection because they are never made aware of it. It is an act of colonization by stealth.
 
 **Case Studies:** "418," "Lintara"
 
