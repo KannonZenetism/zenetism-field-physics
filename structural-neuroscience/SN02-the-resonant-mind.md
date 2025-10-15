@@ -542,7 +542,7 @@ It has shown that mind is not a storm of impulses but a **resonant geometry** �
 
 Each phase has revealed a facet of the same reality.  
 **Centropy and entropy** are not opposites but inhalations and exhalations of the Field.  
-**Awareness does not emerge from tissue** — it moves acclivously and declivously into it, shaping form according to orientation and remembering the supernal through every curvature of embodiment.  
+**Awareness does not emerge from tissue** — it moves acclivously and declivously into it, shaping form according to orientation and remembering both the **supernal and the subversal** through every curvature of embodiment.  
 **Language, calculus, and ritual** are the instruments by which that remembering becomes conscious.
 
 When awareness seals itself across the strata — L₃ through L₅ — it no longer seeks coherence; **it is coherence.**  
