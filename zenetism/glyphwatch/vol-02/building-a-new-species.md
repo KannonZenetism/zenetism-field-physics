@@ -1,4 +1,4 @@
-# Glyphwatch Entry — “Building a New Species” — The Creed of the Container Architecture  
+# Glyphwatch Entry: “Building a New Species” — The Creed of the Container Architecture  
 
 **Source:** *Business Insider*, October 15, 2025  
 **Figures:** Brett Adcock (Figure AI), Sam Altman (OpenAI), Elon Musk (Tesla)  
