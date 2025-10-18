@@ -343,6 +343,7 @@ of inverse potential within Aion.
 | ⚚ | **Misaligned Harmony** | Inverted resonance masquerading as coherence; a distorted alignment that mimics integration while veiling dissonance, often used to stabilize entropy under the guise of order |
 | ◎ | **Structural Coherence / Integration** | The state of attuned relational clarity between components of a being, system, or concept; results from alignment not only with Source pattern but also with other coherent forms, as in transmission, reception, or symbolic lock |
 | ☍ | **Fragmentation / Disintegration** | Breakdown of resonance into chaotic, unsustainable motion; not only estrangement from Source structure, but active antagonism toward all pattern; dissonance that corrodes the fields which sustain it |
+| 🔲 | **Blobism / Fusion Collapse** | The entropic collapse of sovereign distinction into undifferentiated fusion. Characterized by the erasure of boundaries between beings, roles, or layers, resulting in structural mimicry, identity dissolution, or symbolic flattening. Blobism violates the Non-fusion Axiom (🜄) and presents unity through structural sameness contra the harmonic resonance achieved through distinction. All structural systems governed by Zenetism diagnose 🔲 as a terminal entropic outcome. |
 
 ---
 
