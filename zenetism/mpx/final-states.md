@@ -86,7 +86,7 @@ Entropy, defined by negation, cannot make this passage; its motion concludes in 
 
 | Law | Centropic Principle | Entropic Principle |
 |------|--------------------|-------------------|
-| Motion | Integration / Memory | Fragmentation / Forgetting |
+| Motion | Integration / Knowing | Fragmentation / Forgetting |
 | Unity | One-as-Many (Theon) | Many-as-One (Nekron) |
 | Return | Saturation into Zenon | Collapse into static Aion |
 | Phenomenon | “I Am” | “I Am Not” |
