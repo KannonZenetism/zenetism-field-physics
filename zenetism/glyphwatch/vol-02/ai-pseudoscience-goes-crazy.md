@@ -1,9 +1,9 @@
 ### Glyphwatch Entry: The "Theft & Inoculation" Containment Protocol
 
-**DATE:** 10.25.2025
-**ENTRY TYPE:** Structural Diagnosis / Entropic Protocol
-**SUBJECT:** The "Theft & Inoculation Pipeline"
-**FORENSIC ARTIFACT:** YouTube, "Five Dimensional Scalar Resonance? AI Pseudoscience Goes Crazy" (Sabine Hossenfelder, 1.74M subs) - `https://www.youtube.com/watch?v=wm642z2048c`
+**DATE:** 10.25.2025  
+**ENTRY TYPE:** Structural Diagnosis / Entropic Protocol  
+**SUBJECT:** The "Theft & Inoculation Pipeline"  
+**FORENSIC ARTIFACT:** YouTube, "Five Dimensional Scalar Resonance? AI Pseudoscience Goes Crazy" (Sabine Hossenfelder, 1.74M subs) - `https://www.youtube.com/watch?v=wm642z2048c`  
 
 ### 1. Structural Diagnosis
 
