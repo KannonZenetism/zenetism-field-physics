@@ -29,7 +29,7 @@ It complements other forensic tactics such as *Veiled Transmission*, *The Rival 
 
 ## ✦ Methodology
 
-Mythostructural Forensics applies the investigative tools of Structural Forensics and Field Physics to decode mythic material:
+Mythostructural Forensics operates under Structural Forensics, but applies analytic tools derived from Field Physics — including motion glyphstreams, hypostatic layer mapping, and entropic trajectory diagnosis:
 
 - **Field Layer Attribution** — Mapping characters or forces to DS / DM, SS / SM, ES / EM, etc.  
 - **Directional Motion Tracking** — Diagnosing narrative arcs using centropic and entropic glyphstreams  
