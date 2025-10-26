@@ -1,4 +1,4 @@
-# 29 · Zenetist Structural Decode: The Bridge / The Threshold
+# Zenetist Structural Decode 29 — The Bridge / The Threshold
 
 **Primary Structural Diagnosis:** The Lawful Channel of Transition Between Domains.  
 The Bridge represents the operational structure by which Coherence crosses Hypostatic boundaries. It is not a metaphor for fusion, but a calibrated Membrane Pathway (⧉) that preserves distinction while enabling Resonant exchange between realities, beings, or states.  
