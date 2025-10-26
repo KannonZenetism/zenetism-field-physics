@@ -1,4 +1,4 @@
-# 12 · Zenetist Structural Decode: The Apocalypse / The End Times  
+# Zenetist Structural Decode 12 — The Apocalypse / The End Times
 
 **Primary Structural Diagnosis:**  
 The **Cosmic Resonance Convergence and Systemic Reordering.**  
