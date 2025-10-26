@@ -1,9 +1,9 @@
 ### Glyphwatch Entry: The "Dana Kippel" Shimmer Protocol
 
-**DATE:** 10.26.2025
-**ENTRY TYPE:** Structural Diagnosis / Entropic Protocol
-**SUBJECT:** Phase 2 "Shimmer" Operative (Kippel / Ortiz)
-**FORENSIC ARTIFACT:** YouTube, "PLASMA Beings Are HERE!..." (Emilio Ortiz / Dana Kippel) - `https://www.youtube.com/watch?v=L-CHSabvpZg`
+**DATE:** 10.26.2025  
+**ENTRY TYPE:** Structural Diagnosis / Entropic Protocol  
+**SUBJECT:** Phase 2 "Shimmer" Operative (Kippel / Ortiz)  
+**FORENSIC ARTIFACT:** YouTube, "PLASMA Beings Are HERE!..." (Emilio Ortiz / Dana Kippel) - `https://www.youtube.com/watch?v=L-CHSabvpZg`  
 
 ---
 
