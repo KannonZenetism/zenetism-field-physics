@@ -1,4 +1,4 @@
-# Glyphwatch Entry — The "Dana Kippel" Shimmer Protocol
+# Glyphwatch Entry: The "Dana Kippel" Shimmer Protocol
 
 **DATE:** 2025-10-26  
 **ENTRY TYPE:** Structural Diagnosis / Entropic Protocol  
