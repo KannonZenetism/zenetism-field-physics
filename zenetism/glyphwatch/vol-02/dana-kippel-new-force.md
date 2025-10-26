@@ -1,9 +1,9 @@
 ### Glyphwatch Entry: "A New Force" (Published Artifact Analysis)
 
-**DATE:** 10.26.2025
-**ENTRY TYPE:** Artifact Analysis / Addendum to Entry 048
-**SUBJECT:** Published "Phase 2" Product (Dana Kippel - "A New Force")
-**FORENSIC ARTIFACT:** Amazon Product Page (ASIN: B0FNPZYNWV)
+**DATE:** 10.26.2025  
+**ENTRY TYPE:** Artifact Analysis / Addendum to Entry 048  
+**SUBJECT:** Published "Phase 2" Product (Dana Kippel - "A New Force")  
+**FORENSIC ARTIFACT:** Amazon Product Page (ASIN: B0FNPZYNWV)  
 
 ---
 
