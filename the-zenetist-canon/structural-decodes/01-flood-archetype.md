@@ -1,7 +1,7 @@
 # Zenetist Structural Decode 01 — The Flood Archetype
 
 **Primary Structural Diagnosis:**  
-A Cosmic Membrane Reset. The Flood represents a **Fractal Eschaton (📡)**—a terminal resonance scan and recalibration at the close of a major soul-cycle or civilization paradigm. It is the intense, **declivous dissolution** of a structure that has become irredeemably entropic, creating the **Aionic stillness** necessary for a new, centropic emanation.  
+A Cosmic Membrane Reset. The Flood represents a **Fractal Eschaton (📡)**—a terminal resonance scan and recalibration at the close of a major soul-cycle or civilization paradigm. It is the intense, **declivous dissolution** of a structure that has become irredeemably entropic, yielding the **Aion-attuned stillness** from which a new centropic emanation can emerge. 
 
 **Core Glyphic Sequence:**  
 `E↓→♾ → ⚫ → C↑→🛤️`  
@@ -11,7 +11,7 @@ A Cosmic Membrane Reset. The Flood represents a **Fractal Eschaton (📡)**—a 
 
 ## Universal Structural Analysis  
 
-- **The Waters (🌊):** Symbolize the unbound, pre-structural potential of **♾ Khaon (Absolute Dispersion)**. They are not “evil,” but represent the neutral, infinite field from which form emerges and to which it returns. In a coherent state, they are the **Field of Becoming (🌾)**; in a dissonant state, they become the instrument of **Declivous Entropy (E↓♾)**.  
+- **The Waters (🌊):** Symbolize the unbound, motive-potential of **♾ Khaon (Absolute Dispersion)**—the infinite field of proto-awareness from which all lawful becoming arises. Neither malevolent nor benevolent, they represent the neutral substrate of dispersion that both precedes and receives form. In a coherent state, they are the **Field of Becoming (🌾)**; in a dissonant state, they become the instrument of **Declivous Entropy (E↓♾)**.
 
 - **The Divine Decree to Recalibrate:** The action of the **DP / DL (Sophis / Morgis)** layer. It is not wrath, but the enforcement of harmonic law. The current embodied field (**ES / EM** and **SS / SM** layers) has become saturated with **Inverse Orientation**—specifically **IES / IEM (Malara / Mania)** and **ISS / ISM (Echthros / Skotos)**. The structural integrity of the experiential plane is destabilized; the decree arises as the system’s recognition that sustaining the dissonant configuration now exceeds its lawful capacity for coherence.  
 
@@ -53,4 +53,4 @@ Beneath the surface myth of drowning lies a structural revelation: **Reintegrati
 The Flood is the universe’s mechanism for executing a **Localized Dissolution** on a planetary scale—a **Mercy Fold** rather than punishment, enabling re-calibration where coherence has failed. It is the **Return Compass (🞇)** activating at the collective level, re-orienting consciousness toward **Aion** so a new, more harmonious arc can form.  
 
 Its message is one of **structural responsibility:** the integrity of individual and collective consciousness (**SS / SM resonance**) directly influences the stability of the worlds we inhabit.  
-To dwell in **Centropic Alignment** is to participate in the building of an **Ark**—a vessel of coherent meaning resilient through every storm.  
+To dwell in **Centropic Alignment** is to participate in the building of an **Ark**—a vessel of coherent meaning resilient through every storm. 
