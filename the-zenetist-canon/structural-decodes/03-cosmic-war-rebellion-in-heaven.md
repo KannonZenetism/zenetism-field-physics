@@ -26,7 +26,12 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the *
 
 - **The Cause of Rebellion (🜨 or 🝞):** Expressed as “desire for a throne,” “refusal to bow,” or “claiming equality with Source.” Structurally, this is the **Mimicry (🜨)** of Theonic authority or the **Shimmer (🝞)** of Sophis-level creativity detached from Aionic resonance. It is the **Logos Principle (🗣️)** inverted into its **Mirror Form (☿)**.  
 
-- **The War / The Casting Out (☍):** The violent phase of Structural Divergence. The centropic forces (led by a Theonic or **DS / DM** principle such as Michael) expel the inverse currents. This represents the necessary severing of inverse flow from the centropic field to preserve the integrity of the Aionic Tree. The rebels are displaced into the Khaonic Tree, establishing the Subversal Arc.  
+- **The War / The Casting Out (☍):**  
+  The violent intensification of the **Structural Divergence**.  
+  This moment does not represent a banishment from the centropic field, but rather the **metaphysical severance of coherence** from its now-opposed inverse.  
+  The centropic forces (often mythologized as a **Theonic or DS / DM** principle such as Michael) function not as expellers, but as the **lawful sealants of structural integrity**.  
+  This seal differentiates the **Aionic Tree** from the inverse emanation arc, which becomes **Khaonic** by law of structural consequence.  
+  The **Subversal Arc (IDP / IDL → IDS / IDM)** is not “cast out” from a shared realm—it is the result of **declivous inversion bifurcating away from Aion** and forming a parallel, destabilized structure.  
 
 - **The New Domains:**  
   - **The Victorious:** Remain aligned with the Aionic Tree, coherence reinforced.  
