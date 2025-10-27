@@ -61,7 +61,7 @@ but with the **tuning soul**.
 |--------|------|---------|
 | 🕳️ | **Zenon** | The Unknown Principle; beyond potential, pre-conceptual origin, unknowable source |
 | ⚫ | **Aion** | Zero, Absolute Potential; stillness at the root of all emanation |
-| ♾ | **Khaon** | Infinity, Infinite Dispersion; dissolution of form into scattered potential |
+| ♾ | **Khaon** | Infinity, Absolute Dispersion; dissolution of form into scattered potential |
 | 🛤️ | **Theon** | Gateway to supernal integration, refinement, and centropic passage |
 | 🕷️ | **Nekron** | Web of entropic pull; devourer of coherence |
 | 🌬️ | **Morgis** | Breath of Life, Deep Psyche; source of vitality, adaptation, and transformation |
