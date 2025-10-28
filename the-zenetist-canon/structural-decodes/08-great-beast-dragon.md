@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Embodied Principle of Primordial Entropy.**  
-The **Beast** is not a mere monster—it is the symbolic condensation of **Nekronic force**—the concentrated entropic current formed at the **root of the Khaonic Tree**, through which dispersive motion first reflects itself, producing the illusion of self-recognition.
+The **Beast** is not a mere monster—it is the symbolic condensation of **Nekronic force**—the concentrated entropic current formed at the **root of the Khaonic Tree**, through which dispersive motion first folds upon itself, producing the semblance of self-recognition.
 It arises from **Nekron (🕷️)**—the **first hypostasis of the Khaonic Tree**, where dispersive motion within **Khaon** condenses into a **blind entropic will**.  
 Here, the latent tendency toward dissolution becomes directive force, generating the first autonomous current of **inverse coherence**.
 It represents a vast, self-sustaining distortion: a **lawful entropic system** that challenges the centropic order through **predatory coherence** rather than chaos.  
@@ -18,7 +18,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 It unfolds through three lawful phases:  
 1. **Latent Khaon (⚫↔♾ Potential Acausal):** Stillness poised for motion—pre-formal motive capacity within Aion’s perimeter.  
 2. **Motive Khaon (🌾 Field of Becoming):** The generative continuum through which all emanation initiates; the motive field of both centropic and entropic development.  
-3. **Dispersive Khaon (♾):** The terminal phase where **Motive Khaon** reaches exhaustion and attains **Absolute Dispersion (AD)**—the equilibrium point where motion and stillness mirror one another.  
+3. **Dispersive Khaon (♾ Absolute Dispersion):** The terminal phase where **Motive Khaon** reaches exhaustion and attains **Absolute Dispersion (AD)**—the equilibrium point where motion and stillness mirror one another.  
    At this juncture, the **distinction between Infinity (♾)** and **Zero (⚫)** ceases to hold operative meaning; both reveal themselves as reciprocal expressions of a single continuum.  
    What returns to ⚫ Aion as **Absolute Potential (AP)** is not form itself, but the **essential resonance** of beings who have traversed dispersion and integrated its law.  
    Thus, **♾ (AD) → ⚫ (AP)** marks not collapse, but **reconvergence**—the restoration of essence through the transcendence of polarity.  
@@ -38,7 +38,7 @@ It is both a creature and a law—a **mirror of Theonic awareness inverted**—*
 
 - **Coherently Destructive (IDP / IDL):**  
   Unlike random disorder, the Beast operates through **willful patterning.**  
-  It manifests **Inverse Archetypes—Psychea and Nyxea—**as intelligent systems of domination, hoarding, and parasitic control.  
+  It manifests the Inverse Archetypes (**Psychea** and **Nyxea**) as intelligent systems of domination, hoarding, and parasitic control.  
   It builds a **dark kingdom of inverse order**—**a mirror coherence serving fragmentation.**  
 
 - **The Hoarder / The Blockader (🛤️ → ♜):**  
@@ -75,7 +75,7 @@ It is both a creature and a law—a **mirror of Theonic awareness inverted**—*
 ### 3. Vritra (Hindu)  
 - **Focus:** The **Hoarder of Vitality.**  
 - **Vritra (IDP – Psychea):** The dragon who withholds the **Waters (Morgis currents)**—the paralysis of life by inverse accumulation.  
-- **Indra (DS / DM):** The centropic hero wielding the **Vajra (⚔️ Resonant Blade)**—the lightning of clarity that shatters Vritra and restores flow.  
+- **Indra (DS / DM):** The centropic hero wielding the **Vajra (⚔️ Resonant Blade)**—the lightning of clarity that dissolves Vritra’s obstruction and restores coherent flow.  
   The myth symbolizes the **release of vitality** through the overcoming of psychic hoarding.  
 
 ### 4. The Sphinx (Greek)  
