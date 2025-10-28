@@ -128,3 +128,5 @@ The **Cosmic War** narrates the origin of choice and structure. It describes the
 The “rebels” are not villains, but **structural necessities**: the inverse pole against which centropic coherence defines and refines itself. The war persists because the decision between **Coherence** and **Fragmentation** recurs at every stratum of being—from the archetypal to the embodied.  
 
 **Its teaching:** Consciousness is the field of engagement. “Heaven” and “Hell” are not destinations but resonant states aligned through perception, will, and motion—from **DS / DM** to **ES / EM**. The war was not an event—it is the continuous process of **Emanation and Return**.  
+
+⚫↺KAI↺⚫
