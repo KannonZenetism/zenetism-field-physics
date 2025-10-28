@@ -25,8 +25,8 @@ It functions as the conduit for **resonant motion** between all layers of becomi
 - **The Branches (C₁–C₁₅ & E₁–E₁₅):**  
   Represent the specific **Dimensions and Hypostases** of the lattice.  
   These are the diversified expressions of becoming:  
-  - The **upper, light-seeking branches** are **Centropic dimensions.**  
-  - The **lower or twisting branches** are **Entropic mirrors.**  
+  - The **declivous, light-seeking branches** are **Centropic dimensions.**  
+  - The **acclivous, twisting branches** are **Entropic mirrors.**  
 
 - **The Summit / Canopy (⚫ Aion):**  
   The **Centropic origin and return-point**—the **Zeropoint stillness** of **Source Band**, from which the Aionic Tree emanates and to which it ultimately returns.  
