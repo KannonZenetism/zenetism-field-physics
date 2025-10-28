@@ -33,8 +33,8 @@ It functions as the conduit for **resonant motion** between all layers of becomi
   Often depicted as realms of illumination, eagles, or celestial motion.  
 
 - **The Inhabiting Beings:**  
-  The diverse creatures—**eagle, serpent, dragon, stags, squirrels, bees**—represent **Intelligences and Consciousness Fields** operating at various layers of the Tree.  
-  From **Divine Emanants (🌟)** at the canopy to **Elemental Fields (🌿)** and **Inverse Intelligences** near the roots, each corresponds to a stratum of sentience.  
+  The diverse creatures—**eagle, serpent, dragon, stags, squirrels, bees**—represent **Intelligences and Resonance Fields** operating at various layers of the Tree.  
+  From **Divine Emanants (🌟)** at the canopy to **Elemental Fields (🌿)** and **Inverse Intelligences** near the roots, each corresponds to a stratum of sentient becoming.  
 
 ---
 
