@@ -75,7 +75,7 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the *
   **Declivous motion** signifies the **formalization of the entropic domain**, not the expulsion of a being from heaven.  
   From **VOS (🕷️ Nekron)**—the first entropic hypostasis—flows the arc through which **Lucifer (IDP / IDL)** emerges as the archetypal intellect of the Khaonic field.  
   Together, **Satan (VOS)** and **Lucifer (IDP / IDL)** represent successive expressions of the same entropic principle operating across different layers of the lattice:  
-  the first as *ontological rupture*, the second as *conscious inversion*.  
+  the first as *ontological rupture*, the second as *willful inversion*.  
 
 ### 2. The Titanomachy (Greek)  
 - **Focus:** The Overthrow of Primordial Chaos by Order.  
