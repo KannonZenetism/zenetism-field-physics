@@ -316,9 +316,9 @@ It shows how resonance, recursion, and emergence are not only poetic but also **
 ⎯⎯⎯
 
 For symbol reference, see the  
-[Core Metaphysical Symbol Key](https://github.com/KannonZenetism/Zenetism-Field-Physics/blob/main/zenetism/MP08_Symbol_Key_Ch21.md)  
+[Core Metaphysical Symbol Key](https://github.com/KannonZenetism/Zenetism-Field-Physics/blob/main/zenetism/MP08-symbol-key-ch21.md)  
 and the  
-[Dimensional Architecture](https://github.com/KannonZenetism/Zenetism-Field-Physics/blob/main/field-physics/FP01_Dimensional_Architecture.md).
+[Dimensional Architecture](https://github.com/KannonZenetism/Zenetism-Field-Physics/blob/main/field-physics/FP01-dimensional-architecture.md).
 
 Together, these anchors hold the lattice in coherence:  
 the symbols as the living glyphs of emanation,  
