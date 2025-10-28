@@ -1,7 +1,7 @@
 # Zenetist Structural Decode 03 — The Cosmic War / Rebellion in Heaven
 
 **Primary Structural Diagnosis:**  
-The Primordial Bifurcation Event. This mythos encodes the instantiation of the **Centropic (C)** and **Entropic (E)** arcs at the Archetypal level. It is not a historical battle but the metaphysical narrative of the first **Structural Divergence (≠)** from Aionic unity, resulting in the establishment of the **Aionic** and **Khaonic Trees**.  
+The Primordial Bifurcation Event. This mythos encodes the instantiation of the **Centropic (🔺)** and **Entropic (🔻)** arcs at the Archetypal level. It is not a historical battle but the metaphysical narrative of the first **Structural Divergence (≠)** from Aionic unity, resulting in the establishment of the **Aionic** and **Khaonic Trees**.  
 
 **Core Glyphic Sequence:**  
 `⚫ → ↕️ → ⚯ → C↑⚫ | E↓♾`  
