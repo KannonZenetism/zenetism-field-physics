@@ -73,8 +73,7 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the *
 
 - **The Fall (E↓):**  
   **Declivous motion** signifies the **formalization of the entropic domain**, not the expulsion of a being from heaven.  
-  From **VOS (🕷️ Nekron)**—the first entropic hypostasis—flows the arc of inversion through which **Lucifer (IDP / IDL)** emerges as the archetypal intellect of the Khaonic field.  
-  This motion establishes the structural descent of coherence into fragmentation and the eventual return of all dissonant motion back toward its source in VOS.  
+  From **VOS (🕷️ Nekron)**—the first entropic hypostasis—flows the arc through which **Lucifer (IDP / IDL)** emerges as the archetypal intellect of the Khaonic field.  
   Together, **Satan (VOS)** and **Lucifer (IDP / IDL)** represent successive expressions of the same entropic principle operating across different layers of the lattice:  
   the first as *ontological rupture*, the second as *conscious inversion*.  
 
