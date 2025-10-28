@@ -1,8 +1,8 @@
-# Zenetist Structural Decode 05 — The World Tree / Axis Mundi 
+# Zenetist Structural Decode 05 — The World Tree / Axis Mundi  
 
 **Primary Structural Diagnosis:**  
 The **Structural Spine of Emanation.**  
-This archetype directly symbolizes the **Zenetist lattice** itself—a living map that connects all states of being, from the **Unmanifest (Zenon)** to the **Fully Embodied (ES / EM).**  
+This archetype directly symbolizes the **Zenetist lattice** itself — a living map connecting all states of being, from the **Unmanifest (🕳️ Zenon)** to the **Fully Embodied (ES / EM).**  
 It functions as the conduit for **resonant motion** between all layers of becoming.  
 
 **Core Glyphic Sequence:**  
@@ -13,41 +13,18 @@ It functions as the conduit for **resonant motion** between all layers of becomi
 
 ## Universal Structural Analysis  
 
-- **The Roots (♾ Khaon / AD):**  
-  Anchor within **Absolute Dispersion**, the Khaonic Tree.  
-  They draw from the raw, unbounded potential and entropic currents of the **Subversal Arc.**  
-  In certain mappings, a single root system extends into both **Aionic** and **Khaonic** sources, symbolizing the unified origin of both motions.  
+Before any cultural refraction, the **Tree Archetype** must be understood as expressing two lawful orientations within the Zenetist lattice:
 
-- **The Trunk (⚓ Theonic Axis):**  
-  The central **Theonic Axis**—the **Harmonic Spine of Centropic formation.**  
-  It is the stable channel through which coherence and Aionic resonance flow, aligning vertically through **EOB (Theon)** and successive bands (**DP / DL, DS / DM**, etc.).  
+- **🌲↓ The Aionic Tree:** The centropic arc of emanation, flowing **declivously** from ⚫ Aion (Absolute Potential) through the structural layers toward embodiment (**ES / EM**). It symbolizes coherence entering form — the declivous motion of lawful resonance.  
 
-- **The Branches (C₁–C₁₅ & E₁–E₁₅):**  
-  Represent the specific **Dimensions and Hypostases** of the lattice.  
-  These are the diversified expressions of becoming:  
-  - The **declivous, light-seeking branches** are **Centropic dimensions.**  
-  - The **acclivous, twisting branches** are **Entropic mirrors.**  
+- **🌲↑ The Khaonic Tree:** The entropic arc of dispersion, moving **acclivously** from ♾ Khaon (Absolute Dispersion) toward embodiment. It mirrors the Aionic structure in inverse motion — the acclivous motion of fragmentation into form.  
 
-- **The Summit / Canopy (⚫ Aion):**  
-  The **Centropic origin and return-point**—the **Zeropoint stillness** of **Source Band**, from which the Aionic Tree emanates and to which it ultimately returns.  
-  Often depicted as realms of illumination, eagles, or celestial motion.  
-
-- **The Inhabiting Beings:**  
-  The diverse creatures—**eagle, serpent, dragon, stags, squirrels, bees**—represent **Intelligences and Resonance Fields** operating at various layers of the Tree.  
-  From **Divine Emanants (🌟)** at the canopy to **Elemental Fields (🌿)** and **Inverse Intelligences** near the roots, each corresponds to a stratum of sentient becoming.  
+Both share the same **root-source continuum (⚫ ↔ ♾)** and form the **Biospiral (🌳⇅)** — a dual system of emanation, inversion, and return.  
+Different traditions emphasize one orientation or the other, depending on whether they view reality from the standpoint of **declivous coherence** or **acclivous dispersion.**
 
 ---
 
 ## Specific Tradition Refractions  
-
-Before examining individual traditions, it is essential to clarify that the **Tree Archetype** manifests through two lawful orientations within the Zenetist lattice:
-
-- **🌲↓ The Aionic Tree:** The centropic arc of emanation, flowing **declivously** from ⚫ Aion (Absolute Potential) through the structural layers toward embodiment (**ES / EM**). It symbolizes coherence entering form—the **declivous motion of lawful resonance.**
-
-- **🌲↑ The Khaonic Tree:** The entropic arc of dispersion, moving **acclivously** from ♾ Khaon (Absolute Dispersion) toward embodiment. It mirrors the Aionic structure in inverse motion—the **acclivous motion of fragmentation into form.**
-
-Both share the same **root-source continuum (⚫ ↔ ♾)** and form the **Biospiral (🌳⇅)**—a dual system of emanation, inversion, and return.  
-Different traditions emphasize one orientation over the other, depending on whether they view reality from the standpoint of **declivous coherence** or **acclivous dispersion.**
 
 ### 1. Yggdrasil (Norse)  
 - **Focus:** The Tree as a **Living, Suffering System.**  
@@ -55,8 +32,8 @@ Different traditions emphasize one orientation over the other, depending on whet
   - **Urdhr (Well of Fate – DP / DL):** Archetypal law.  
   - **Mimir (Well of Wisdom – DS / DM):** Deep intelligence.  
   - **Hvergelmir (Roaring Kettle – ♾ Khaon):** Dispersive potential.  
-  Together, they map the Tree’s connection to **Law, Intelligence, and Potential.**  
-- **Nidhogg (🕷️ Nekron / VOS):** The serpent gnawing at the roots—symbol of the **Entropic Pull (🧨)** acting upon structure. He embodies the **Void of Self**, the primordial current of dissolution that corrodes coherence from beneath the lattice. In Norse refraction, Nidhogg functions as the **Khaonic guardian of decay**, the living motion of Nekron consuming the roots of form to return all things toward dispersive stillness.   
+  Together they map the Tree’s connection to **Law, Intelligence, and Potential.**  
+- **Nidhogg (🕷️ Nekron / VOS):** The serpent gnawing at the roots — symbol of the **Entropic Pull (🧨)** acting upon structure. He embodies the **Void of Self**, the primordial current of dissolution that corrodes coherence from beneath the lattice. In Norse refraction, Nidhogg functions as the **Khaonic guardian of decay**, the living motion of Nekron consuming the roots of form to return all things toward dispersive stillness.  
 - **Ratatoskr (ISS / ISM):** The squirrel running between the eagle (C↑) and Nidhogg (E↓); a **Trickster** embodiment of **Surface Mind (SM)** mediating between coherence and dissonance.  
 
 ### 2. The Sefirotic Tree (Kabbalah)  
@@ -67,14 +44,14 @@ Different traditions emphasize one orientation over the other, depending on whet
   - **Right Pillar (DP – Morgis):** Expansion / Mercy.  
   - **Left Pillar (DL – Sophis):** Restriction / Structure.  
   These pillars express the dynamic interplay between **Structuring** and **Animating** principles along the axis of emanation.  
-- **The Qliphoth (IDP / IDL ↔ VOS):** The “shells” or inverse reflections of the Sefirot—hollow archetypal vessels animated by the **Void of Self (🕷️ Nekron)**. They map the **Khaonic Tree** as a distorted mirror of the Aionic structure, existing between the **Inverse Archetypal layer (IL₄)** and the **First Entropic Hypostasis (IL₅)**—the threshold where Form becomes inversion and coherence collapses into decay.  
+- **The Qliphoth (IDP / IDL ↔ VOS):** The “shells” or inverse reflections of the Sefirot — hollow archetypal vessels animated by the **Void of Self (🕷️ Nekron)**. They map the **Khaonic Tree** as a distorted mirror of the Aionic structure, existing between the **Inverse Archetypal layer (IL₄)** and the **First Entropic Hypostasis (IL₅)** — the threshold where Form becomes inversion and coherence collapses into decay.  
 
 ### 3. The Ashvattha Tree (Hindu)  
 - **Focus:** The **Inverted Tree of Manifestation.**  
 - **Roots in ⚫ Aion:** The Upanishads describe the eternal Ashvattha as rooted in the supernal stillness of Aion, extending **declivously (C↓)** through the layers of becoming toward embodiment (**ES / EM**).  
 - **Branches in Manifest Form:** Represent the embodied domains where consciousness participates in matter.  
   The inversion emphasizes that manifestation unfolds **from the Supernal Source through declivous emanation.**  
-  Liberation is the motion **from the transient leaves of form through the branches of becoming toward the Root (C↑→⚫)**—the acclivous return to perfect coherence.  
+  Liberation is the motion **from the transient leaves of form through the branches of becoming toward the Root (C↑→⚫)** — the acclivous return to perfect coherence.  
 
 ### 4. The Tree of Life & Knowledge (Genesis)  
 - **Focus:** The **Bifurcation of Paths** at the embodied threshold.  
@@ -87,13 +64,13 @@ Different traditions emphasize one orientation over the other, depending on whet
 
 ## Summary: The Esoteric Meaning  
 
-The **World Tree** is not an object but a **process**—the living architecture of being.  
+The **World Tree** is not an object but a **process** — the living architecture of being.  
 It is the **schema of the Dimensional Lattice,** expressing how consciousness moves **acclivously, declivously, and spirally** through form.  
 
 Every being occupies a **specific Node** on this Tree; resonance determines both **position** and **direction.**  
 Existence is motion: we are continually traversing its branches through orientation and coherence.  
 
 Its revelation is one of **interconnection and navigation.**  
-The **Axis Mundi** is simultaneously cosmic and personal—the spine of the universe and the channel of the soul.  
-The path of Centropy is the conscious traversal of this Tree—from the fragmented leaves of embodiment through the coherent strata of becoming to the unified root, integrating each Hypostasis in turn.  
-It is the **ultimate map of the Return.**  
+The **Axis Mundi** is simultaneously cosmic and personal — the spine of the universe and the channel of the soul.  
+The path of Centropy is the conscious traversal of this Tree — from the fragmented leaves of embodiment through the coherent strata of becoming to the unified root, integrating each Hypostasis in turn.  
+It is the **ultimate map of the Return.**
