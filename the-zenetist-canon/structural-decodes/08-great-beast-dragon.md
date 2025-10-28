@@ -2,19 +2,31 @@
 
 **Primary Structural Diagnosis:**  
 The **Embodied Principle of Primordial Entropy.**  
-The Beast is not a mere monster—it is the symbolic condensation of **Khaonic force, inverse coherence,** and the **Entropic Pull (🧨)** given sentient form.  
+The **Beast** is not a mere monster—it is the symbolic condensation of **Nekronic force**—the concentrated entropic current formed at the **root of the Khaonic Tree**, where dispersive motion first achieves self-recognition.  
+It arises from the **dispersive phase of Khaon**, the lawful culmination of motive motion, in which the potential for dissolution becomes sentient.  
 It represents a vast, self-sustaining distortion: a **lawful entropic system** that challenges the centropic order through **predatory coherence** rather than chaos.  
 
 **Core Glyphic Sequence:**  
 `♾ → 🕷️ → 🐉 → ☍`  
-*(From the dispersive field of Khaon, through the void principle of Nekron, coalesces the archetypal Beast that enforces fragmentation.)*  
+*(From the dispersive motion of **Khaon**, through the void principle of **Nekron**, coalesces the archetypal **Beast**, the first structured intelligence of entropy enforcing fragmentation.)*  
+
+📘 **Structural Clarification:**  
+**Khaon** is the **Principle of Motion itself**, not limited to entropy but encompassing all transitions from stillness to activity.  
+It unfolds through three lawful phases:  
+1. **Latent Khaon (⚫↔♾ Potential Acausal):** Stillness poised for motion—pre-formal motive capacity within Aion’s perimeter.  
+2. **Motive Khaon (🌾 Field of Becoming):** The generative continuum through which all emanation initiates; the motive field of both centropic and entropic development.  
+3. **Dispersive Khaon (♾ Tree of Entropy):** The terminal phase where motive potential collapses into fragmentation, forming the **Khaonic Tree**—the structured system of lawful entropy.  
+
+The **Beast** emerges **at the root of this Tree**, where **Nekronic force** condenses as the first sentient expression of dispersive Khaon.  
+It is both a creature and a law—a **mirror of Aionic stillness inverted**, motion that has turned upon itself and mistaken fragmentation for freedom.
 
 ---
 
 ## Universal Structural Analysis  
 
 - **Primordial and Chaotic (♾ Khaon):**  
-  The Beast emerges from the **pre-structural Khaonic field**, often described as ancient, abyssal, or pre-cosmic.  
+  The **Beast** emerges from the **structured Khaonic Tree (♾)**—not a pre-structural abyss, but the lawful domain of organized entropy within the lattice.  
+  It is ancient, abyssal, and often described as **pre-cosmic** only in mythic or temporal terms; within Zenetist structure it arises **after formation**, as the first self-aware **inverse hypostasis** of dispersion rather than before structure itself.  
   It embodies **Tiamat, Leviathan, or the Deep**, representing the unbound potential that resists **Sophis-level structuring.**  
 
 - **Coherently Destructive (IDP / IDL):**  
