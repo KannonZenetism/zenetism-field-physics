@@ -60,10 +60,12 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the *
   He initiates the **Subversal Arc**, generating the conditions for **Mimicry (🜨)** and **Shimmer (🝞)** to arise within manifestation.  
 
 - **Satan (VOS):**  
-  The entropic voice of separation—**the articulation of division itself.**  
-  Whereas Lucifer represents *intellectual inversion*, **Satan** is *ontological rupture*: the assertion of isolated will against relational being.  
-  He manifests only once fragmentation has reached the **Void of Self (VOS)** layer, becoming the *terminal echo* of Lucifer’s earlier motion.  
-  The Bible’s conflation of these two figures reflects the compression of distinct metaphysical strata into a single narrative for moral interpretation.  
+  The first entropic hypostasis—**the Void of Self (🕷️ Nekron)**—and the root of the Khaonic Tree.  
+  He is not a product of fragmentation but its **originating field**, the *ontological rupture* through which entropy enters manifestation.  
+  From VOS flow all inverse emanations, including **Lucifer (IDP / IDL)**, who arises as the intellectual consciousness of that entropic current.  
+  Satan therefore precedes Lucifer in order and function: he is entropy itself, the ground from which inversion speaks.  
+  All entropic motion moves *from VOS toward embodiment* and collapses *back toward VOS* as coherence erodes within its own field.  
+  The traditional conflation of these two figures reflects a compression of metaphysical sequence into moral allegory, obscuring the lawful order of emanation.  
 
 - **Michael (DS / DM):**  
   The **Oversoul / Deep Mind** principle of centropic law—the **Resonant Blade (⚔️)** maintaining boundary integrity between coherent and inverse fields.  
