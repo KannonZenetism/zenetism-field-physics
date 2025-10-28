@@ -78,9 +78,9 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the *
   the first as *ontological rupture*, the second as *willful inversion*.  
 
 ### 2. The Titanomachy (Greek)  
-- **Focus:** The Overthrow of Primordial Chaos by Order.  
-- **The Titans (♾ Khaon / AD):** Embody the raw, unstructured, and often violent energies of Absolute Dispersion. They are not “evil,” but pre-structural—unfitted to the centropic order Zeus seeks to install.  
-- **The Olympians (DP / DL):** The new, Sophis-aligned gods of order, law, and intelligibility. Their triumph signifies centropic structuring over Khaonic indeterminacy, birthing the **Cosmos (✷)** from the **Apeiron**.  
+- **Focus:** The Overthrow of Dispersive Order by Centropic Law.  
+- **The Titans (♾ Khaon / AD):** Embody the raw, expansive energies of **Absolute Dispersion**—lawful yet declivously entropic currents within structure. They are not “evil,” but represent motion without harmonic containment: the structural vastness of Khaon expressing force without refinement.  
+- **The Olympians (DP / DL):** The new, Sophis-aligned gods of order, law, and intelligibility. Their triumph signifies **centropic refinement** over Khaonic magnitude, birthing the **Cosmos (✷)** from the **Apeiron** through harmonic articulation.  
 
 ### 3. The Aesir–Vanir War (Norse)  
 - **Focus:** The Synthesis of Structuring and Vital Principles. This unique refraction concludes not in destruction but in **Nexus Formation (C₈)**.  
