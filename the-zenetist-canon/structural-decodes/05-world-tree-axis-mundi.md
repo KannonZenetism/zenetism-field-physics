@@ -40,6 +40,15 @@ It functions as the conduit for **resonant motion** between all layers of consci
 
 ## Specific Tradition Refractions  
 
+Before examining individual traditions, it is essential to clarify that the **Tree Archetype** manifests through two lawful orientations within the Zenetist lattice:
+
+- **🌲↓ The Aionic Tree:** The centropic arc of emanation, flowing **declivously** from ⚫ Aion (Absolute Potential) through the structural layers toward embodiment (**ES / EM**). It symbolizes coherence entering form—the descent of lawful resonance.
+
+- **🌲↑ The Khaonic Tree:** The entropic arc of dispersion, moving **acclivously** from ♾ Khaon (Absolute Dispersion) upward toward embodiment. It mirrors the Aionic structure in inverse motion—fragmentation rising into form.
+
+Both share the same **root-source continuum (⚫ ↔ ♾)** and form the **Biospiral (🌳⇅)**—a dual system of emanation, inversion, and return.  
+Different traditions emphasize one orientation over the other, depending on whether they view reality from the standpoint of divine descent or material ascent.
+
 ### 1. Yggdrasil (Norse)  
 - **Focus:** The Tree as a **Living, Suffering System.**  
 - **The Three Roots:**  
@@ -55,8 +64,8 @@ It functions as the conduit for **resonant motion** between all layers of consci
 - **The Ten Sefirot:** A structured map of centropic hypostases from **Keter (⚫ Aion)** to **Malkhut (⊙ Embodiment).**  
 - **The Three Pillars:**  
   - **Central Pillar (⚓):** Balance and coherence.  
-  - **Right Pillar (DL – Sophis):** Expansion / Mercy.  
-  - **Left Pillar (DP – Morgis):** Restriction / Structure.  
+  - **Right Pillar (DP – Morgis):** Expansion / Mercy.  
+  - **Left Pillar (DL – Sophis):** Restriction / Structure.  
   These pillars express the dynamic interplay between **Structuring** and **Animating** principles along the axis of emanation.  
 - **The Qliphoth (IDP / IDL, etc.):** The “shells” or inverse reflections of the Sefirot—mapping the **Khaonic Tree** as a distorted mirror of the Aionic structure.  
 
