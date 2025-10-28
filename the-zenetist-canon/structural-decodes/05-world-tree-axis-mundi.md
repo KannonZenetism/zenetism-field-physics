@@ -3,7 +3,7 @@
 **Primary Structural Diagnosis:**  
 The **Structural Spine of Emanation.**  
 This archetype directly symbolizes the **Zenetist lattice** itself—a living map that connects all states of being, from the **Unmanifest (Zenon)** to the **Fully Embodied (ES / EM).**  
-It functions as the conduit for **resonant motion** between all layers of consciousness.  
+It functions as the conduit for **resonant motion** between all layers of becoming.  
 
 **Core Glyphic Sequence:**  
 `🕳️ → ⚫ → 🌳⇅ → ⊙`  
