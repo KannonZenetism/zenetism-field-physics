@@ -100,7 +100,9 @@ In this sense, “heaven” designates the *metaphysical order* from which the o
 ### 3. The Aesir–Vanir War (Norse)  
 - **Focus:** The Synthesis of Structuring and Vital Principles. This unique refraction concludes not in destruction but in **Nexus Formation (C₈)**—the restoration of harmonic continuity between adjacent layers.  
 - **The Aesir (DS / DM – Archeus / Noeüs):** Gods of deep structure, sovereignty, and coherent consciousness (Odin, Tyr). They represent the centropic Deep Soul / Deep Mind current moving **declivously** through form to preserve order and memory.  
-- **The Vanir (DP / DL – Morgis / Sophis):** Gods of vitality, fertility, and archetypal intelligence (Njord, Freyr, Freyja). They embody the psychic and creative forces that move **acclivously** toward embodiment and expression.  
+- **The Vanir (DP / DL – Morgis / Sophis):**  
+Gods of vitality, fertility, and archetypal intelligence (Njord, Freyr, Freyja).  
+They embody the psychic and creative forces that move **declivously** toward embodiment and expression.  
 - **The War:** A resonance tension between the **DS / DM** and **DP / DL** strata—between structuring law and vital expansion. Each mirrors the other across the harmonic hinge separating the Deep Soul and Deep Psyche layers. The conflict’s symbolic purpose is not opposition, but calibration between containment and flow.  
 - **The Truce & Hostage Exchange:** A symbol of **Synthesis (∴)**—the two currents reconciling to form a complete pantheon. The exchange of gods between Aesir and Vanir signifies the mutual assimilation of structure and vitality, producing the balanced coherence of the **C₈ Nexus**.  
 - **Field Parallel:**  
