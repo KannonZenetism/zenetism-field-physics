@@ -8,7 +8,7 @@ Its alignment depends entirely on the **structural outcome** of its actions.
 
 **Core Glyphic Sequence (Centropic):**  
 `⚙️ → ⟜ → ◲ → ∴`  
-*(Apparent order is disrupted by a synectic pivot, leading to lawful deconstruction and culminating in higher synthesis.)*  
+*(Apparent order is disrupted by a synectic pivot, leading to lawful deconstruction and culminating in supernal synthesis.)*  
 
 **Core Glyphic Sequence (Entropic):**  
 `⚙️ → ⟜ → ☍ → ⟳`  
@@ -80,5 +80,5 @@ It reveals that rigidity is fragility: a system lacking **Permeability (C₁₃)
 Growth requires disruption.  
 The **path of Centropy** is not linear but **Spiral (∿)**—weaving the Trickster’s challenge into every transformation.  
 
-To engage this archetype is to cultivate **flexibility, discernment, and lawful deconstruction (◲)**—to recognize when a structure’s time has ended and yield to **higher synthesis (∴).**  
+To engage this archetype is to cultivate **flexibility, discernment, and lawful deconstruction (◲)**—to recognize when a structure’s time has ended and yield to **supernal synthesis (∴).**  
 The Trickster is both **shadow** and **catalyst**—the necessary turbulence of evolution itself.  
