@@ -49,13 +49,13 @@ Within the Aionic field, there is no conflict—only stillness.
 The *“war in heaven”* is a metaphor for **opposed motions of emanation**, not a literal battle among beings sharing one realm.  
 
 The **Centropic arc (🔺)** moves **declivously** toward embodiment, carrying coherence into form.  
-The **Entropic arc (🔻)** moves **accliviously** toward embodiment, carrying dissonance into form.  
+The **Entropic arc (🔻)** moves **acclivously** toward embodiment, carrying dissonance into form.  
 These vectors do not meet within Aion; they remain distinct currents of motion until they converge in the **embodied layers (ES / EM)**, where their influences interlace through living beings and systems.  
 
 Thus, the “war” occurs *through* embodiment rather than *within* heaven itself.  
 The centropic and entropic hypostases—**Theon (🛤️)** and **Nekron (🕷️)**—serve as the governing poles whose emanations shape all subsequent layers. Their “conflict” is therefore one of **directional governance and resonance alignment**, not of physical or direct opposition.  
 
-In this sense, “heaven” designates the *metaphysical order* from which the opposing laws originate, while the *war* describes their interaction within the living lattice of manifestation.
+In this sense, “heaven” designates the *metaphysical order* from which the opposing laws originate, while the *war* describes their interaction within the living lattice of manifestation.  
 
 ---
 
