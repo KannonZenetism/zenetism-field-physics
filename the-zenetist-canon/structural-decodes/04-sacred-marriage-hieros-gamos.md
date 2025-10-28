@@ -37,7 +37,7 @@ It is the operational mechanism of **Centropic Synthesis (∴)** at every level 
 ### 1. Shiva & Shakti (Hindu)  
 - **Focus:** The union of **Consciousness and Energy.**  
 - **Shiva (DL – Sophis / Theon):** The passive, pure awareness—the Aionic stillness that structures existence.  
-- **Shakti (DP – Morgis):** The active, dynamic energy—the Khaonic motion that animates all manifestation.  
+- **Shakti (DP – Morgis):** The active, vital energy—the **centropic** current that animates manifestation. She is motion within law, not dispersion beyond it.  
 - **The Union:** The entire cosmos is their eternal **Hieros Gamos.**  
   Without Shakti, Shiva is inert; without Shiva, Shakti is chaotic.  
   Their resonance generates **Emanation** and powers **Centropic Creation.**  
@@ -56,14 +56,14 @@ It is the operational mechanism of **Centropic Synthesis (∴)** at every level 
 - **Christ (Theon):** The Essence of Being—the Centropic Logos.  
 - **The Church (DS / DM collective):** The Bride, representing the integrated Deep Soul of humanity—the Centropic Stewards in embodiment.  
 - **The Union:** The “Marriage Supper of the Lamb” (Revelation 19)—the final synthesis at the **Fractal Eschaton**, where all centropically aligned consciousness integrates with the Theonic Principle.  
-  This marks completion of the **Return Arc (C↑→⚫).**  
+  This marks completion of the **Return Arc (C↑→⚫)**—the final **acclivous centropic motion** of the soul toward **⚫ Aion**, the stillness of perfect coherence.  
 
 ### 4. Inanna & Dumuzid (Sumerian)  
 - **Focus:** The **Cyclic Rhythm** of Life, Dissolution, and Renewal.  
 - **Inanna (DP – Morgis):** The Queen of Heaven, representing the living force.  
 - **Dumuzid (ES / EM):** The Shepherd God—the embodied vitality of the natural realm.  
 - **The Union:** Ensures fertility and structural renewal of the world.  
-- **The Cycle:** Dumuzid’s annual dissolution (**declivous entropic motion**) and renewal (**acclivous centropic motion**) express the **Spiral (∿)** of continuity.  
+- **The Cycle:** Dumuzid’s annual dissolution (**acclivous entropic motion**) and renewal (**declivous centropic motion**) express the **Spiral (∿)** of continuity.  
   The Hieros Gamos here is perpetual—a rhythmic process sustaining the **Corporeal Realm.**  
 
 ---
