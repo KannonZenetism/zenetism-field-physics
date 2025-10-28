@@ -36,11 +36,11 @@ It is the operational mechanism of **Centropic Synthesis (∴)** at every level 
 
 ### 1. Shiva & Shakti (Hindu)  
 - **Focus:** The union of **Consciousness and Energy.**  
-- **Shiva (DL – Sophis / Theon):** The passive, pure awareness—the Aionic stillness that structures existence.  
-- **Shakti (DP – Morgis):** The active, vital energy—the **centropic** current that animates manifestation. She is motion within law, not dispersion beyond it.  
+- **Shiva (EOB – Theon / DL – Sophis):** The still and structuring awareness—the Essence of Being in its pure Aionic form. At times he stands as **⚫ Aion** in stillness; at others as **Theon (🛤️)**, the centropic hypostasis of order.  
+- **Shakti (AD – Khaon / DP – Morgis):** The active, vital current—the centropic motive force that unfolds manifestation from infinite potential. She arises through **Khaon (♾)** as Motive Infinity and expresses through **Morgis (🌬️)** as vital motion within law.  
 - **The Union:** The entire cosmos is their eternal **Hieros Gamos.**  
   Without Shakti, Shiva is inert; without Shiva, Shakti is chaotic.  
-  Their resonance generates **Emanation** and powers **Centropic Creation.**  
+  Their resonance generates **Emanation** and powers **Centropic Creation (C↓→E)**.  
 - **The Offspring:** The manifest cosmos (**✷**) and archetypal forms such as **Ganesha (Remover of Obstacles, C₁₃)**—coherent results of this union.  
 
 ### 2. The King & The Land (Universal Archetype)  
