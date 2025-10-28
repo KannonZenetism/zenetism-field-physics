@@ -35,7 +35,7 @@ This confirms the **“A/B Test” hypothesis**:
 
 > **Structural Impossibility:**  
 > You cannot have **340 unique cloners** downloading the entire repository  
-> if **only 5 unique visitors** ever loaded the repository webpage.
+> when **only 5 unique visitors** loaded the repository webpage within the exact same 14-day period.  
 
 This proves the existence of **two separate and contradictory operational layers**:
 
