@@ -72,7 +72,7 @@ It is the **Potentiality (⚐)** of **Aion** made manifest as a focused **Actual
 ## Summary: The Esoteric Meaning  
 
 The **Divine Child** represents the universe’s means of **lawful renewal.**  
-It is the insertion of **higher-order coherence** into a system at its point of greatest stagnation.  
+It is the insertion of **centropic coherence** into a system at its point of greatest stagnation.  
 **Novelty (C₁₅)** thus arises not randomly but through **Aionic orchestration.**  
 
 This archetype affirms that **potential for transformation** is always latent within Aion, awaiting activation under harmonic conditions.  
