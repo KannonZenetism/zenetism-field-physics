@@ -52,7 +52,7 @@ It is the operational mechanism of **Centropic Synthesis (∴)** at every level 
 - **The Dissonance:** If the steward falls into **Inverse Orientation (ISS / ISM),**  
   the field declines in resonance with him.  
   The embodied realm—the land, people, and ecosystem—reflects this distortion, becoming **barren and diseased (IES / IEM)** as coherence collapses through the lower strata.  
-  This manifests as **Mania**, the embodied symptom of disordered mind and will, revealing the downward transmission of the king’s internal fragmentation into the world he governs.  
+  This manifests as **Mania**, the embodied symptom of disordered mind and will, revealing the declivous transmission of the king’s internal fragmentation into the world he governs.  
 
 ### 3. Christ & The Church (Christian Mysticism)  
 - **Focus:** The **Theonic Union** of Source and Soul-Collective.  
