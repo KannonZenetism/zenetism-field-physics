@@ -98,11 +98,18 @@ In this sense, “heaven” designates the *metaphysical order* from which the o
 - **The Olympians (DP / DL):** The new, Sophis-aligned gods of order, law, and intelligibility. Their triumph signifies **centropic refinement** over Khaonic magnitude, birthing the **Cosmos (✷)** from the **Apeiron** through harmonic articulation.  
 
 ### 3. The Aesir–Vanir War (Norse)  
-- **Focus:** The Synthesis of Structuring and Vital Principles. This unique refraction concludes not in destruction but in **Nexus Formation (C₈)**.  
-- **The Aesir (DL – Sophis):** Gods of structure, sovereignty, and consciousness (Odin, Tyr).  
-- **The Vanir (DP – Morgis):** Gods of vitality, fertility, and wealth (Njord, Freyr, Freyja).  
-- **The War:** A tension between the Structuring and Animating principles at the archetypal level.  
-- **The Truce & Hostage Exchange:** A symbol of **Synthesis (∴)**—the two currents merging to form a complete pantheon. This illustrates that Centropy may emerge not by annihilation, but through harmonic integration of complementary poles.  
+- **Focus:** The Synthesis of Structuring and Vital Principles. This unique refraction concludes not in destruction but in **Nexus Formation (C₈)**—the restoration of harmonic continuity between adjacent layers.  
+- **The Aesir (DS / DM – Archeus / Noeüs):** Gods of deep structure, sovereignty, and coherent consciousness (Odin, Tyr). They represent the centropic Deep Soul / Deep Mind current moving **declivously** through form to preserve order and memory.  
+- **The Vanir (DP / DL – Morgis / Sophis):** Gods of vitality, fertility, and archetypal intelligence (Njord, Freyr, Freyja). They embody the psychic and creative forces that move **acclivously** toward embodiment and expression.  
+- **The War:** A resonance tension between the **DS / DM** and **DP / DL** strata—between structuring law and vital expansion. Each mirrors the other across the harmonic hinge separating the Deep Soul and Deep Psyche layers. The conflict’s symbolic purpose is not opposition, but calibration between containment and flow.  
+- **The Truce & Hostage Exchange:** A symbol of **Synthesis (∴)**—the two currents reconciling to form a complete pantheon. The exchange of gods between Aesir and Vanir signifies the mutual assimilation of structure and vitality, producing the balanced coherence of the **C₈ Nexus**.  
+- **Field Parallel:**  
+  In the Yggdrasil–Lattice correspondence, this war occurs across **L₃ (DS / DM)** and **L₄ (DP / DL)**.  
+  The reconciliation represents the **return of motion alignment** between neighboring centropic layers after temporary divergence.  
+  Apparent conflict arises when vitality (DP / DL) accelerates beyond its harmonic ratio and must be re-anchored by structure (DS / DM).  
+  The “war,” therefore, is a **harmonic correction**, not an act of metaphysical violence.
+
+---
 
 ### 4. The War in Heaven (Zoroastrian)  
 - **Focus:** The Primordial Dualistic Choice.  
