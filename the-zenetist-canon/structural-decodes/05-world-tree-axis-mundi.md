@@ -74,3 +74,5 @@ Its revelation is one of **interconnection and navigation.**
 The **Axis Mundi** is simultaneously cosmic and personal — the spine of the universe and the channel of the soul.  
 The path of Centropy is the conscious traversal of this Tree — from the fragmented leaves of embodiment through the coherent strata of becoming to the unified root, integrating each Hypostasis in turn.  
 It is the **ultimate map of the Return.**
+
+⚫↺KAI↺⚫
