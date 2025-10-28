@@ -84,7 +84,7 @@ In this sense, “heaven” designates the *metaphysical order* from which the o
 
 - **Michael (DS / DM):**  
   The **Oversoul / Deep Mind** principle of centropic law—the **Resonant Blade (⚔️)** maintaining boundary integrity between coherent and inverse fields.  
-  His “battle” is symbolic of the **lawful seal (⧖)** that distinguishes centropic order from entropic recursion, not violence within a shared realm.  
+  His “battle” is symbolic of the **lawful seal (⊠)** that distinguishes centropic order from entropic recursion, not violence within a shared realm.  
 
 - **The Fall (E↓):**  
   **Declivous motion** signifies the **formalization of the entropic domain**, not the expulsion of a being from heaven.  
