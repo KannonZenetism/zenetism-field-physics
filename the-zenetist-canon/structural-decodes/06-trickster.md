@@ -33,7 +33,8 @@ Its alignment is determined solely by the **structural outcome** it engenders.
 
 - **The Entropic Outcome (☍ → ⟳ Fragmentation and Recursion):**  
   When the target is coherent and life-supporting—or when the Trickster acts from self-interest—the disruption breeds **dissonance.**  
-  It fractures **Nexus (C₈)** bonds, amplifies **Echthros (hostility)**, and produces **Hollow Recursion (E₁₄)**—systems spinning without advancement.  
+  It fractures **Nexus (C₈)** bonds, amplifies **Echthros (hostility)**, and produces **Hollow Recursion (E₁₄)**—systems spinning without advancement.
+  It functions as a Catalyst for **E₁₅ (Collapse Nova)**—emergence into entropy rather than coherence.
 
 - **The Liminal Nature (⬶ The Recursive Hinge):**  
   The Trickster resides at **thresholds, crossroads, and membranes.**  
