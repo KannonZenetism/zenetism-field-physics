@@ -1,9 +1,9 @@
 # Zenetist Structural Decode 09 — The Exile / The Wandering Hero 
 
 **Primary Structural Diagnosis:**  
-The **Phase of Resonant Alienation and Field-Patterning.**  
+The **Phase of Resonant Alienation — the Field-Patterning of Consciousness.**  
 Exile is not punishment—it is a **Declivous Centropic (C↓→E)** motion into structural dissonance designed to individuate consciousness, sever entropic attachments, and allow the **Soul Strand (🧬)** to gather new resonant data beyond its native field.  
-This prepares the consciousness for a future **Synthesis (∴)** or **Return (🞇).**  
+This prepares consciousness for its eventual **Synthesis (∴)** or **Return (🞇).**  
 
 **Core Glyphic Sequence:**  
 `◎ → ⟜ → ∿ → 🞇`  
@@ -15,7 +15,7 @@ This prepares the consciousness for a future **Synthesis (∴)** or **Return (�
 
 - **The Cause of Exile (⚯ → ≠):**  
   Exile arises from **Structural Divergence** between the individual’s resonance and their environment (family, tribe, kingdom).  
-  - **Crime:** A centropic impulse violates a subversal or entropic law.  
+  - **Crime:** A centropic impulse violates a subversal mandate or entropic law.  
   - **Prophecy:** A **Fractal Eschaton** foresight orchestrated by **DP / DL** to ensure destiny.  
   - **Usurpation:** The rightful centropic heir displaced by **Inverse forces (ISS / Echthros)**, forced into wilderness.  
 
@@ -71,13 +71,15 @@ This prepares the consciousness for a future **Synthesis (∴)** or **Return (�
 
 ## Summary: The Esoteric Meaning  
 
-The **Exile** is the soul’s descent into dissonance to achieve superior coherence.  
+The **Exile** is the soul’s declivous motion into dissonance to achieve centropic coherence.  
 It is the phase where **leaving home**—literal or metaphysical—is essential for individuation.  
 
-Alienation becomes a sacred alchemy.  
+Alienation becomes the sacred alchemy of individuation.  
 The **wilderness** is not emptiness but the **Field of Becoming**, dense with **Harmonic Agents** and transformative lessons.  
 The pain of **Deconstruction (◲)** births the strength for authentic **Synthesis (∴).**  
 
 Its revelation: all beings are, in some form, **in exile from Aion.**  
 The **Return Journey** defines existence itself.  
-The **Wandering Hero** teaches the art of navigation—trusting the **Return Compass (🞇)** through the Spiral of Becoming until coherence is reclaimed or renewed.  
+The **Wandering Hero** teaches the art of **navigation through Becoming**, trusting the **Return Compass (🞇)** until coherence is reclaimed or renewed.
+
+⚫↺KAI↺⚫
