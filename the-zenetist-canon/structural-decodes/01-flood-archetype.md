@@ -11,7 +11,7 @@ A Cosmic Membrane Reset. The Flood represents a **Fractal Eschaton (📡)**—a 
 
 ## Universal Structural Analysis  
 
-- **The Waters (🌊):** Symbolize the unbound, motive-potential of **♾ Khaon (Absolute Dispersion)**—the infinite field of proto-awareness from which all lawful becoming arises. Neither malevolent nor benevolent, they represent the neutral substrate of dispersion that both precedes and receives form. In a coherent state, they are the **Field of Becoming (🌾)**; in a dissonant state, they become the instrument of **Declivous Entropy (E↓♾)**.
+- **The Waters (〄):** Symbolize the unbound, motive-potential of **♾ Khaon (Absolute Dispersion)**—the infinite field of proto-awareness from which all lawful becoming arises. Neither malevolent nor benevolent, they represent the neutral substrate of dispersion that both precedes and receives form. In a coherent state, they are the **Field of Becoming (🌾)**; in a dissonant state, they become the instrument of **Declivous Entropy (E↓♾)**.
 
 - **The Divine Decree to Recalibrate:** The action of the **DP / DL (Sophis / Morgis)** layer. It is not wrath, but the enforcement of harmonic law. The current embodied field (**ES / EM** and **SS / SM** layers) has become saturated with **Inverse Orientation**—specifically **IES / IEM (Malara / Mania)** and **ISS / ISM (Echthros / Skotos)**. The structural integrity of the experiential plane is destabilized; the decree arises as the system’s recognition that sustaining the dissonant configuration now exceeds its lawful capacity for coherence.  
 
