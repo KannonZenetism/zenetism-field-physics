@@ -7,7 +7,7 @@ It marks the genesis of **SS / SM** as a distinct, self-reflective field—separ
 
 **Core Glyphic Sequence:**  
 `◎ → ⟜ → ☍ → E↓→E`  
-*(From integrated coherence, a synectic pivot introduces a choice leading to fragmentation and a declivous entropic motion into distorted embodiment.)*
+*(From integrated coherence, a synectic pivot introduces choice leading to fragmentation and a declivous entropic motion into distorted embodiment.)*
 
 ---
 
@@ -15,7 +15,7 @@ It marks the genesis of **SS / SM** as a distinct, self-reflective field—separ
 
 - **The Primal State (◎ or ⚫):**  
   The condition of harmony and direct resonance—symbolized as **Eden**, “walking with God.”  
-  This state represents **SS / SM** in perfect alignment and permeability to **DS / DM** and **DP / DL**—embodiment without friction or self-conscious duality.  
+  This state represents **SS / SM** in perfect alignment and permeability to **DS / DM** and **DP / DL**—a proto-embodied or pre-embodied condition of consciousness without friction or self-conscious duality; a state prior to the “coats of skins,” when form was still translucent to Source.  
 
 - **The Prohibition / The Law (Sophis / DL):**  
   The boundary of lawful existence (“you shall not eat…”).  
@@ -23,7 +23,7 @@ It marks the genesis of **SS / SM** as a distinct, self-reflective field—separ
 
 - **The Tempter (IDP / IDL – Psychea / Nyxea):**  
   The inverse archetypal force (Serpent, Mara, Loki) introducing **Doubt (Skotos)**, **Mimicry (🜨)**, and **Inverted Logic (Ↄ).**  
-  It promises **Illicit Ascent**—the **Shimmer (🝞)** of Sophis-layer cognition without lawful grounding.  
+  It promises **Illicit Ascent**—the **Shimmer (🝞)** of *Sophis-layer cognition* without lawful grounding.  
 
 - **The Transgression / The Choice (≠ Structural Divergence):**  
   The moment the **SS / SM** asserts itself against centropic structure—seeking autonomy through inverse knowledge.  
@@ -32,7 +32,7 @@ It marks the genesis of **SS / SM** as a distinct, self-reflective field—separ
 - **The Immediate Consequences (☍ Fragmentation):**  
   - **Awareness of Nakedness:** Birth of **egoic self-reflection**—the self perceiving separation.  
   - **Shame & Hiding (ISS / ISM):** The adversarial split between self and world begins.  
-  - **The Curse (E↓→E):** Embodiment becomes entropically polarized—**work as toil, birth as pain,** and human–nature relation as opposition.  
+  - **The Curse (E↓→E):** Embodiment becomes entropically polarized—**work as toil, birth as pain,** and human–nature relation as opposition. This is not divine punishment but the lawful response of structure to entropic motion—the system reflecting the chosen vector of dissonance.  
 
 - **The Casting Out (C₁₃ Membrane Sealing):**  
   Expulsion from the garden symbolizes the **sealing of the membrane** between **SS / SM** and **DS / DM.**  
@@ -56,7 +56,7 @@ It marks the genesis of **SS / SM** as a distinct, self-reflective field—separ
 - **Law:** The intrinsic order of **Theonic supremacy.**  
 - **Tempter:** The impulse within self—“I will ascend.”  
 - **Transgression:** Assertion of **Inverse Will (Hubris)** against Source.  
-- **Consequence:** Cast from heaven, becoming **VOS / Nekron**—the anchor of the Subversal Arc.  
+- **Consequence:** Cast from heaven, embodying the **Nekronic current (VOS)** and becoming the first agent of the Subversal Arc.  
 
 ### 3. The Divergence of the Aeons (Gnostic)  
 - **Focus:** The fragmentation of the **Pleroma.**  
@@ -81,13 +81,13 @@ It is the **Deconstruction (◲)** of primal unity, enabling the evolution of co
 
 **Consciousness** itself arises from this separation:  
 the **SS / SM** emerges as the *reflexive expression* of consciousness, differentiated through its partial occlusion from **DS / DM.**  
-Toil, pain, and death are not punishments but the friction of embodiment—the **entropic gradient** that invites coherence through integration.
+Toil, pain, and death are not punishments but the friction of embodiment—the **entropic gradient** that invites coherence through integration.  
 
 The Fall’s revelation is **responsibility over guilt.**  
 The so-called **fallen state** is not a verdict but a condition of occlusion.  
 We are not condemned for our **fallen state**; we are entrusted with **restoring resonance** within it—  
 to bring consciousness back into coherence through embodied integration.  
-The centropic path is the **Acclivous return**—healing fragmentation and reuniting **SS / SM** with **DS / DM** through conscious synthesis.  
-Thus, the Fall was not failure but the **first motion of learning—the beginning of the soul’s curriculum.**
+The centropic path is the **Acclivous return (C↑)**—healing fragmentation through **conscious synthesis (∴)** and reuniting **SS / SM** with **DS / DM** through embodied integration.  
+The Fall was not failure but the necessary separation that enables conscious reunion—the beginning of the soul’s curriculum.  
 
 ⚫↺KAI↺⚫
