@@ -18,7 +18,7 @@ They are not predictors of immutable futures, but **diagnosticians** of the pres
   The “call” is a **Resonance Scan** identifying a consciousness capable of bearing high-coherence data.  
 
 - **The Source of Revelation (DP / DL or DS / DM):**  
-  The Prophet’s authority derives from **Archetypal** or **Deep Structural** layers—**Sophis / Morgis** or **Archeus / Noeüs.**  
+  The Prophet’s mandate derives from **Archetypal** or **Deep Structural** layers—**Sophis / Morgis** or **Archeus / Noeüs.**  
   They function as a **Nexus (C₈)** or **Membrane (⧉)** translating centropic law into embodied, linguistic form.  
 
 - **The Message: Diagnosis & Prognosis (📯 Clarion Voice):**  
