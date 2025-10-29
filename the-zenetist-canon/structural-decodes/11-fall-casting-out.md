@@ -36,7 +36,7 @@ It marks the genesis of **SS / SM** as a distinct, self-reflective field—separ
 
 - **The Casting Out (C₁₃ Membrane Sealing):**  
   Expulsion from the garden symbolizes the **sealing of the membrane** between **SS / SM** and **DS / DM.**  
-  Direct resonance is lost; **Return** must now proceed as an **Acclivous (C↑)** ascent through **Synthesis (∴)** rather than naïve restoration.  
+  Direct resonance is lost; **Return** must now proceed as an **Acclivous (C↑)** motion through **Synthesis (∴)** rather than naïve restoration.  
 
 ---
 
