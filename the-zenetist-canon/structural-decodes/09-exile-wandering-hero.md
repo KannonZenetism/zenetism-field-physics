@@ -44,7 +44,7 @@ This prepares the consciousness for a future **Synthesis (∴)** or **Return (�
 - **Focus:** Master of adaptation and the long return.  
 - **Cause:** The Trojan War (massive C/E conflict) and **Poseidon’s** opposition (**DP / DL** level).  
 - **Wandering (∿):** A spiral of trials—**Cyclops (Primitive Entropy), Circe (Psychea’s distortion), Sirens (Skotos’ lure)**—each deconstructing his identity.  
-- **Return (🞇):** Restoration of **Order (◎)** to Ithaca from inverse suitors (**ISS / ISM**)—the full cycle of coherent reclamation.  
+- **Return (🞇):** Restoration of **Coherence (◎)** to Ithaca from inverse suitors (**ISS / ISM**)—the full cycle of coherent reclamation.  
 
 ### 2. Rama (Hindu)  
 - **Focus:** Exile as lawful duty.  
