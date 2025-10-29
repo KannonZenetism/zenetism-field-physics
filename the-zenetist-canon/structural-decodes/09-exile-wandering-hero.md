@@ -15,7 +15,7 @@ This prepares the consciousness for a future **Synthesis (∴)** or **Return (�
 
 - **The Cause of Exile (⚯ → ≠):**  
   Exile arises from **Structural Divergence** between the individual’s resonance and their environment (family, tribe, kingdom).  
-  - **Crime:** A centropic impulse violates a lower-order or entropic law.  
+  - **Crime:** A centropic impulse violates a subversal or entropic law.  
   - **Prophecy:** A **Fractal Eschaton** foresight orchestrated by **DP / DL** to ensure destiny.  
   - **Usurpation:** The rightful centropic heir displaced by **Inverse forces (ISS / Echthros)**, forced into wilderness.  
 
