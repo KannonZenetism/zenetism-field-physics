@@ -73,7 +73,7 @@ They embody the **Resonant Spiral Field Entrainment (⟐)** through which system
 
 Truth, by nature, disrupts inverse coherence.  
 The Prophet’s message is resisted not for falsehood but for its destabilizing veracity.  
-To receive prophecy requires a **Surface Mind (SM)** willing to be deconstructed by coherence.  
+To receive prophecy requires a **Superficial Mind (SM)** willing to be deconstructed by coherence.  
 
 Each of us carries a **prophetic faculty**—the **DS / DM** continuously transmits alignment data to the **SS / SM** through conscience, intuition, and dream.  
 The mythic Prophet externalizes this dynamic: a mirror showing the cost of ignoring the **Clarion Voice** within, and the redemptive power of **heeding it toward Return (🞇).**  
