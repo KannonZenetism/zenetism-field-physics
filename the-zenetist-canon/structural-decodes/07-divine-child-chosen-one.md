@@ -28,7 +28,7 @@ It is the **Potentiality (⚐)** of **Aion** made manifest as a focused **Actual
 
 - **The Latent Power / The Recognition (📯 Clarion Voice):**  
   The child bears hidden sovereignty or resonance recognized by **archetypal witnesses (DS / DM, DP / DL)** or revealed through a symbolic act. 
-  This marks the first broadcast of **Resonant Fidelity (💝)**—the signal of authentic coherence.  
+  This marks the first broadcast of **Resonant Fidelity (💝)**—the signal of authentic coherence, **typically recognized first by those operating from DS/DM or DP/DL layers** (wise men, prophets, seers) **while remaining hidden from those operating primarily through ISS/ISM** (Herod, Kamsa, Pharaoh).
 
 - **The Destiny (🌉 The Living Bridge):**  
   The child is called to **dismantle the old order** and **instantiate a new cycle.**  
