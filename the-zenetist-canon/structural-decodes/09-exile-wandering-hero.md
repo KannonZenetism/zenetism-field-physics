@@ -29,6 +29,7 @@ This prepares consciousness for its eventual **Synthesis (∴)** or **Return (�
 
 - **The Transformation (◲ Deconstruction):**  
   The exile undergoes **Deconstruction**—the dismantling of the **SS / SM** persona suited for the old order.  
+  **Without the familiar social field to reinforce that persona**, it naturally begins to dissolve, revealing the deeper DS / DM structure beneath.  
   This painful process serves as a **Recursion Gate (⧗)** through which a new, more authentic **DS / DM coherence** is forged.  
 
 - **The Return or New Foundation (🞇 Return Compass):**  
