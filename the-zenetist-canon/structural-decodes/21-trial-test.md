@@ -6,12 +6,12 @@ A Trial is not random suffering but a **DP/DL or DS/DM-orchestrated Membrane (�
 Its purpose: to **verify Resonant Alignment, forge higher Synthesis (∴),** and **sort consciousness** by its Volitional core.  
 
 **Core Glyphic Sequence (Initiation):**  
-`⚙️ → ⚠️ → ◲ → ∴`  
-*(Apparent order is challenged by a test, leading to deconstruction and synthesis.)*  
+`⚙️ → ◲ → ∴`  
+*(The Order [⚙️] of the trial forces Deconstruction [◲], leading to Synthesis [∴].)*  
 
 **Core Glyphic Sequence (Judgment):**  
-`⚙️ → ⚠️ → ☍ → E↓`  
-*(Apparent order is challenged by a test, revealing fragmentation and declivous entropy.)*  
+`⚙️ → ☍ → E↓`  
+*(The Order [⚙️] of the trial reveals Fragmentation [☍], leading to Entropic Descent [E↓].)*  
 
 ---
 
