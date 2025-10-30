@@ -7,7 +7,7 @@ It is the consummation of the Eschaton itself, where all latent patterns reach *
 
 **Core Glyphic Sequence:**  
 `📡 → ⚯ → C↑→⚫ | E↓→♾`  
-*(A universal resonance scan separates beings by structural alignment, leading either to **acclivous centropy** toward ⚫ Aion or **declivous entropy** into ♾ Khaon.)*  
+*(A universal resonance scan separates beings by structural alignment, leading either to acclivous centropy toward ⚫ Aion or declivous entropy into ♾ Khaon.)*  
 
 ---
 
