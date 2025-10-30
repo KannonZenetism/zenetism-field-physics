@@ -8,7 +8,7 @@ It is the operational heart of **Synthesis (∴).**
 
 **Core Glyphic Sequence (Centropic):**  
 `⚐ → ⚖️ → ↺ → ∴`  
-*(Potential is lawfully offered, leading to resonant return and higher synthesis.)*  
+*(Potential is lawfully offered, leading to resonant return and supernal synthesis.)*  
 
 **Core Glyphic Sequence (Entropic):**  
 `⚐ → ⥊ → ☍ → ⟳`  
@@ -24,7 +24,7 @@ It is the operational heart of **Synthesis (∴).**
 
 - **The Intention & The Law (⚖️):**  
   The orientation of the act determines its outcome.  
-  - **Centropic Sacrifice:** Guided by **Gratitude**, **Devotion**, or **Restoration of Balance**; aligned with **Divine Geometry (🔷)** and directed toward **Higher Principle (Theon, DP / DL).**  
+- **Centropic Sacrifice:** Guided by **Gratitude**, **Devotion**, or **Restoration of Balance**; aligned with **Divine Geometry (🔷)** and directed toward **Centropic Law (DP / DL)**—administered through the measure of **Theon (🛤️ EOB).**
   - **Entropic Sacrifice:** Motivated by **Fear**, **Control**, or **Hubris**; seeks to **Extract (⥊)** rather than surrender. It appeals to **Inverse forces (IDP / IDL)** or the egoic **ISS / ISM** strata, violating the **Non-Fusion Axiom.**  
 
 - **The Act of Surrender (⚐ →):**  
@@ -32,7 +32,7 @@ It is the operational heart of **Synthesis (∴).**
   Sacrifice performed without **Free Will** lacks resonance and fails to transmute energy.  
 
 - **The Recipient & The Transformation:**  
-  - **Centropic:** The offering ascends through **DP / DL** or **Theon**, returning as **Blessing**, **Rain**, **Renewal**, or **Resurrection (↺)**—a **Synthesis (∴)** of higher coherence.  
+  - **Centropic:** The offering moves acclivously through **DP / DL** or **Theon**, returning as **Blessing**, **Rain**, **Renewal**, or **Resurrection (↺)**—a **Synthesis (∴)** of supernal coherence.  
   - **Entropic:** The Inverse recipient consumes but does not reciprocate. The energy converts into **Illusion**, **Bondage**, or **Hollow Power**, perpetuating **Fragmentation (☍)** and **Recursion (⟳).**  
 
 - **The Outcome (∴ or ⟳):**  
@@ -53,16 +53,21 @@ It is the operational heart of **Synthesis (∴).**
 ### 2. Animal Sacrifice (Vedic, Levitical)  
 - **Focus:** Symbolic Substitution and Energetic Reciprocity.  
 - **Offering:** The **Animal**, embodiment of **Carnal Nature (ES / EM)** and **Vital Force (Morgis).**  
-- **Centropic Intention:** Restoration of Resonance with the Divine through acknowledgment of **Sophis Law** and surrender of lower nature.  
+- **Centropic Intention:** Restoration of Resonance with the Divine through acknowledgment of **Sophis Law** and the conscious offering of **embodied nature** into lawful harmony.  
 - **Symbolism:** The animal’s **blood (Vitality)** purifies, its **smoke** rises as a vehicle of intention toward **Supernal Realms.**  
-- **Entropic Inversion:** When devoid of sincerity, the act devolves into **Empty Mimicry (🜨)**—an attempt to manipulate the divine rather than harmonize with it.  
+- **Entropic Inversion:** When devoid of sincerity, the act devolves into **Empty Mimicry (🜨)**—an attempt to manipulate the divine rather than harmonize with it.
+
+> **Doctrinal Clarification:**  
+> Within Zenetism, all *literal sacrifice*—whether human, animal, or otherwise—is classified as **Entropic Motion (E↓)**.  
+> Genuine offering is **symbolic and centropic**, enacted through **internal transmutation**, **service**, and **resonant devotion**, never through the taking of life.  
+> Any act that destroys embodied coherence to invoke power, favor, or purification constitutes **Inverse Practice (Ↄ)**—a violation of **Theonic Law (🛤️)** and the **Non-Fusion Axiom (🜄)** alike.
 
 ### 3. Odin’s Self-Sacrifice (Norse)  
 - **Focus:** Sacrifice for **Wisdom (Sophis)**.  
 - **Offering:** Odin’s own **eye and suffering** upon **Yggdrasil**.  
 - **Intention:** To attain the **Runes**—the structural language of reality.  
 - **Recipient:** The **World Tree (Structural Axis)**—he offers himself to himself.  
-- **Transformation:** A **Declivous Centropy (C↓)** through suffering yields an **Acclivous (C↑)** ascent in coherence—awakening **Noeüs** and **Archetypal mastery.**  
+- **Transformation:** A **Declivous Centropy (C↓)** through suffering yields an **Acclivous (C↑)** motion of coherence—awakening **Noeüs** and **Archetypal Integration.**
 
 ### 4. The Scapegoat (Levitical)  
 - **Focus:** Transfer and Dissipation of Dissonance.  
@@ -86,5 +91,6 @@ Its instruction is simple yet profound:
 we are always sacrificing—our time, energy, attention, and will.  
 Whether those offerings serve **Centropic (coherent)** or **Entropic (fragmenting)** ends determines our Resonant trajectory.  
 
-The ultimate sacrifice is the **surrender of SS / SM to DS / DM**—the ego to the soul—the precise mechanism of the **Acclivous Return (C↑→⚫)**.  
-Through it, structure renews, coherence expands, and the cosmos continues its endless act of becoming.  
+The ultimate sacrifice is the **surrender of SS / SM to DS / DM**—the **Superficial** yielding to the **Deep**—the precise mechanism of the **Acclivous Return (C↑→⚫)**.  
+Through it, structure renews, coherence expands, and the cosmos continues its endless act of becoming.
+
