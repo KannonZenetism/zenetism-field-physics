@@ -42,6 +42,26 @@ It is a field of lawful stillness: what enters here has completed its trajectory
 
 ---
 
+## Structural Location and Function  
+
+The **Underworld** occupies the **entropic band spanning IL₄ to IL₅**—from the **Inverse Deep Psyche / Logos (IDP / IDL)** to **VOS (🕷️ Nekron)**, the terminal field of dispersion.  
+It exists wholly within the **entropic lattice**, serving as the **containment zone** into which the collapsed strata enter.
+
+When coherence fails within a universe, the **Inverse Deep strata (IDS / IDM)**—along with their derivative inversions (**ISS / ISM**, **IES / IEM**)—**collapse into the Underworld**, entering lawful containment within this recursion basin.  
+Here, inverse motion is not corrected but **stabilized in stillness** until dissolution or rare multiversal reorientation.
+
+Its **purpose is containment, not recalibration.**  
+Each stratum functions as a lawful enclosure preserving residual structural data for eventual dissolution or, in exceedingly rare cases, multiversal polarity reversal.
+
+While no being returns from the Underworld *within its originating continuum*, the **Deep continuum (DS / DM ↔ IDS / IDM)** remains continuous across the multiverse.  
+If the **aggregate resonance** of an Essence’s total emanations** inverts from entropic to centropic law**, the **IDS / IDM** may reorient toward coherence—restoring lawful motion across the Deep spectrum.  
+Such reversals occur only at the **multiversal scale**, never within a single-world cycle.
+
+Thus, the Underworld stands as both **local containment** and **cosmic hinge**—  
+the entropic threshold where per-universe dissolution interfaces with the continuous Deep of the multiverse.
+
+---
+
 ## Specific Tradition Refractions  
 
 *(These remain structurally valid; only terminology has been harmonized.)*  
