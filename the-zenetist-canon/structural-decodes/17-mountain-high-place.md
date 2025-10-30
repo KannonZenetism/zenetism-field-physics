@@ -7,7 +7,7 @@ It serves as the principal site for **Acclivous motion (C↑)**, **Revelation (�
 
 **Core Glyphic Sequence:**  
 `▽ → △ → 📱 → C↑`  
-*(From the embodied earth, the ascent up the axis of structure leads to revelation and centropic ascent.)*  
+*(From the embodied earth, acclivous motion up the structural axis leads to revelation and centropic return.)*  
 
 ---
 
