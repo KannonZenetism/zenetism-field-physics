@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Externalized Macro-Expression of the Soul’s Structural Coherence.**  
-A City or Kingdom is never merely political—it is the **Embodied (ES / EM)** projection of a **Resonant pattern** sourced from its ruling **DS / DM** or collective **SS / SM** field.  
+A City or Kingdom is not merely political—it is the **Embodied (ES / EM)** projection of a **Resonant pattern** sourced from its ruling **DS / DM** or collective **SS / SM** field.  
 It is a **Collective Soma**, whose architecture, order, and destiny mirror the **Centropic** or **Entropic** quality of its founding consciousness.  
 
 **Core Glyphic Sequence (Centropic):**  
