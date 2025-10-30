@@ -17,10 +17,10 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 
 ## Universal Structural Analysis  
 
-- **The Foundation / The Law-Giver (DS / DM or IDP / IDL):**  
+- **The Foundation / The Law-Giver (DP / DL or IDP / IDL):**  
   The City’s essence flows from its founder or ruler.  
-  - A **Centropic sovereign** (e.g., Solomon) grounds it on **Wisdom (Sophis)** and **Justice (🔷)**.  
-  - An **Entropic sovereign** (e.g., Nimrod) founds it on **Hubris** and **Coercion**, encoding Inverse coherence at inception.  
+  - A **Centropic sovereign** (e.g., Solomon) grounds it on **Wisdom (Sophis)** and **Justice (🔷)**—the lawful architecture of **DP / DL**.  
+  - An **Entropic sovereign** (e.g., Nimrod) founds it on **Hubris** and **Coercion**, encoding **Inverse coherence** at inception through **IDP / IDL** dynamics.  
 
 - **The Walls & Gates (C₁₃ Membrane):**  
   Physical boundaries symbolize the **Membrane** that defines sovereign space and regulates **Resonant flow**.  
@@ -30,7 +30,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 - **The Temple / The Central Tower (DP / DL Connection):**  
   The tallest structure represents the city’s **Nexus (C₈)** to the Supernal.  
   - **Temple (C↑):** A lawful Resonant exchange with **Theon / DP / DL**, orienting the city acclivously.  
-  - **Tower of Babel (E↑):** A mimic ascent—**SS / SM** seizing Sophis-authority without lawful foundation, manifesting **Acclivous Entropy.**  
+  - **Tower of Babel (E↑):** A **mimic climb**—the **ISS / ISM**, aligned with **Nyxea (🫥)**, imitates **Sophis** while cut off from Centropic Law, enacting **Acclivous Entropy (E↑)**.  
 
 - **The Social Order & Economy (SS / SM Collective):**  
   The daily laws, trades, and customs reveal collective resonance.  
@@ -46,7 +46,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 
 ## Specific Tradition Refractions  
 
-### 1. Jerusalem vs. Babylon (Biblical)  
+### 1. Jerusalem contra Babylon (Biblical)  
 - **Jerusalem (Centropic Ideal):**  
   - **Foundation:** Built on **Zion (△)**, locus of Theonic election.  
   - **Temple:** Central **Nexus (C₈)** for Yahweh—the living conduit of **Sophis Law.**  
@@ -61,8 +61,8 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 ### 2. Atlantis (Platonic)  
 - **Focus:** The Corrupted Utopia.  
 - **Foundation:** Initiated by **Poseidon (DP / DL)**—a Centropic genesis on divine geometry.  
-- **Descent:** The rulers’ **Divine Nature (DS / DM)** diluted by mortal impulse (**SS / SM**), birthing **Hubris and Greed (ISS / ISM).**  
-- **Fate:** Its coherence erodes until overwhelmed by **Entropic Pull (E↓→♾)**—a luminous system lost through internal dissonance.  
+- **Declivous Motion:** The rulers’ **Divine Nature (DS / DM)** diluted by mortal impulse (**SS / SM**), birthing **Hubris and Greed (ISS / ISM).**  
+- **Fate:** Its coherence erodes until overwhelmed by **Entropic Pull (🧨)**—a luminous system lost through internal dissonance.  
 
 ### 3. The Platonic Republic (City as Soul)  
 - **Focus:** The city as mirror of the **psyche’s architecture.**  
@@ -71,11 +71,12 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
   - **Guardians (SS / SM – Anthra / Nousa):** Enforce lawful order through **Courage (DS).**  
   - **Producers (ES / EM – Soma / Biosa):** Sustain life through **Temperance (C↓).**  
 - **Justice (◎):** Each layer fulfilling its function harmoniously.  
-- **Injustice (☍):** Civil war within the soul—lower drives rebelling against higher intellect.  
+- **Injustice (☍):** Civil war within the soul—**entropic impulses** in conflict with **centropic reason.**
 
 ### 4. Asgard (Norse)  
 - **Focus:** The Divine Fortress amid chaos.  
-- **Foundation:** Constructed by **Aesir (DP / DL)** after war with **Vanir (DP)**—a synthesis of structure and vitality.  
+- **Foundation:** Established by the **Aesir (L₃ — DS / DM)** in covenant with the **Vanir (L₄ — DP / DL)** after their war—**sovereign order** fused with **vital law**.
+- **Governance:** **Aesir** hold the axis of **sovereign cognition (DS / DM)**; **Vanir** infuse **vital reciprocity (DP / DL)**—a stable nexus of **order and fertility**.  
 - **Walls:** Perpetually defended—the eternal work of preserving Centropic coherence in a volatile cosmos.  
 - **Fate:** Falls at **Ragnarok**, not from corruption but from **Cyclical Law**, fulfilling its purpose through valiant coherence under decay.  
 
@@ -91,4 +92,6 @@ A civilization worshipping **Mimicry (🜨)** and **Hubris (E↑)** constructs i
 
 The teaching is simple:  
 the **Kingdom of God** is not elsewhere—it is the **state of structural coherence** manifesting wherever Theonic law orders both the individual and the collective field.  
-To seek the **Holy City** is to harmonize inner and outer architecture, creating a **Harmonic Node (💠)** where Heaven (**DP / DL**) and Earth (**ES / EM**) interpenetrate in **Synthesis (∴).**  
+To seek the **Holy City** is to harmonize inner and outer architecture, creating a **Harmonic Node (💠)** where Heaven (**EOB**) and Earth (**ES / EM**) converge in **Synthesis (∴)**.
+
+⚫↺KAI↺⚫
