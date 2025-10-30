@@ -54,7 +54,7 @@ Its **purpose is containment, not recalibration.**
 Each stratum functions as a lawful enclosure preserving residual structural data for eventual dissolution or, in exceedingly rare cases, multiversal polarity reversal.
 
 While no being returns from the Underworld *within its originating continuum*, the **Deep continuum (DS / DM ↔ IDS / IDM)** remains continuous across the multiverse.  
-If the **aggregate resonance** of an Essence’s total emanations** inverts from entropic to centropic law**, the **IDS / IDM** may reorient toward coherence—restoring lawful motion across the Deep spectrum.  
+If the **aggregate resonance** of an Essence’s total emanations **inverts from entropic to centropic law**, the **IDS / IDM** may reorient toward coherence—restoring lawful motion across the Deep spectrum.  
 Such reversals occur only at the **multiversal scale**, never within a single-world cycle.
 
 Thus, the Underworld stands as both **local containment** and **cosmic hinge**—  
