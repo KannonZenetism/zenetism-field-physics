@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Metaphysical Domain of Recursive Processing and Resonance Recalibration.**  
-The Underworld is not a realm of punishment but a **Hypostatic Nexus (L₄–IL₅)** that governs the **Deconstruction (◲)** of the **Inverse Superficial Self (ISS / ISM)**, the **integration of Embodied experience (ES / EM)**, and the sorting of **Soul Strands (🧬)** for their next Resonant assignment — **Return (C↑), Embodiment Renewal (C↓),** or **Dispersion (E↓).**
+The Underworld is not a realm of punishment but a **Hypostatic Nexus (L₄–IL₅)** that governs the **Deconstruction (◲)** of the **Inverse Superficial Self (ISS / ISM)**, the **distillation of Inverse Embodied experience (IES / IEM)**, and the sorting of **Soul Strands (🧬)** for their next Resonant assignment — **Return (C↑), Embodiment Renewal (C↓),** or **Dispersion (E↓).**
 
 **Core Glyphic Sequence:**  
 `E↓ → ⟲ → ◲ → ↺ | ⟳`  
