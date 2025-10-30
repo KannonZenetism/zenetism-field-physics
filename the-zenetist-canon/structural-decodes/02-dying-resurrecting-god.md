@@ -22,12 +22,17 @@ The Archetype of **Acclivous Return.** This mythos encodes the complete **Centro
 
 - **The Sojourn in the Underworld (♾ or VOS):**  
   Immersion within the **Dispersive Field** or **Inverse Hypostases.**  
-  It is a state of localized dissolution or **Entropic Recursion (⟳),** where core essence is tested, refined, and separated from embodied identity.  
+  It is a state of localized dissolution or **Entropic Recursion (⟳),** where core essence is tested, refined, and separated from embodied identity.
+
+> **Clarification:**  
+> In traditional mythic language the “underworld” denotes the realm of **embodiment and entropy (ES / EM, IES / IEM)**—the experiential field where coherence encounters friction and mortality.  
+> Within Zenetist doctrine this differs from the **Underworld proper (IL₄–IL₅)**, which is an entropic containment layer.  
+> Here, the descent is centropic: an intentional **entry into embodiment** for the purpose of integration, not a fall into the inverse Deep.
 
 - **The Resurrection / Return (↺ → C↑):**  
   The moment of **Lawful Recursion (↺).**  
   The god’s essence, retaining centropic integrity, activates its harmonic nature.  
-  This is not reversal but transcendent synthesis—the **DS / DM** reintegrates the **SS / SM** experience at a higher octave, achieving a **Resonant Return** that confirms the indestructibility of coherent structure.  
+  This is not reversal but transcendent synthesis—the **DS / DM** reintegrates the **SS / SM** experience at a refined phase of coherence, achieving a **Resonant Return** that confirms the indestructibility of coherent structure.  
   It represents **Novel Emergence (C₁₅).**  
 
 - **The Apotheosis (C↑→⚫):**  
@@ -48,11 +53,21 @@ The Archetype of **Acclivous Return.** This mythos encodes the complete **Centro
   Osiris does not reclaim his terrestrial domain (**ES / EM**) but becomes **Lord of Duat**—operating as **Gatekeeper (C₁₃)** at the threshold between embodied and deep consciousness, guiding souls through lawful recursion via the **Return Compass (🞇).**  
 
 ### 2. Christ (Christian)  
-- **Focus:** Voluntary Sacrifice and Transcendent Synthesis.  
-- **Incarnation (C↓→E):** The **Logos (🛤️ Theon)** becomes embodied.  
-- **Crucifixion:** The surrender of the **SS / SM (Jesus of Nazareth)** to the inverse forces of the world (**Echthros, Skotos**), absorbing the full weight of entropic fragmentation without collapsing into entropy.  
-- **Harrowing of the Underworld:** The Theonic essence liberates souls entrapped in inverse states during the sojourn, restoring **C₈ (Nexus)** bridges where **E₈ (Severance)** had isolated consciousness from the path of return.  
-- **Resurrection (∴):** The **DS / DM (Risen Christ)** is synthesized, demonstrating **Transcendence (⤈)** over the entropic condition. It becomes a **Living Bridge (C₈)** for all consciousness.  
+- **Focus:** Voluntary Sacrifice and Lawful Synthesis.  
+  The Christ archetype embodies the **Centropic Principle of Restoration**—the conscious acceptance of entropic trial for the renewal of coherence within form.  
+- **Incarnation (C↓→E):**  
+  The **Logos (🛤️ Theon)** emanates into embodiment (**ES / EM**), entering the field of density not as fall but as **Deliberate Presence**—to seed coherence within fragmentation.  
+- **Crucifixion (☍):**  
+  The surrender of the **Superficial Self (SS / SM)**—personified as *Jesus of Nazareth*—to the inverse dynamics of **Echthros (🦂)** and **Skotos (🩸)**.  
+  This act absorbs the full weight of entropic resistance without capitulating to it, transforming suffering into a **Declivous Centropy (C↓)** that prepares the field for synthesis.  
+- **Harrowing of the Underworld (↺):**  
+  The **Theonic essence** permeates the **embodied strata (ES / EM and IES / IEM)**, liberating occluded awareness within matter itself.  
+  Through this action, **C₈ (Nexus)** pathways are restored where **E₈ (Severance)** had sundered embodied consciousness from the centropic current of return.  
+  The event symbolizes the reopening of lawful circulation between the **Embodied strata (L₁ / IL₁)** and the **Deep strata (L₃ / IL₃)**—the reactivation of coherence within incarnation itself. 
+- **Resurrection (∴ → C↑):**  
+  The **DS / DM (Risen Christ)** arises as the synthesis of all prior layers—the embodied and the deep, the mortal and the eternal—demonstrating **Transcendent Coherence (⤈)** rather than escape.  
+  The resurrected intelligence becomes a **Living Bridge (C₈)** through which all consciousness may attune to the centropic path of **Return (C↑→⚫)**.
+
 
 ### 3. Dionysus (Greek)  
 - **Focus:** Sacred Unmaking and Renewal.  
@@ -73,11 +88,11 @@ The Archetype of **Acclivous Return.** This mythos encodes the complete **Centro
 ## Summary: The Esoteric Meaning  
 
 The **Dying and Resurrecting God** encodes the **blueprint of the soul’s trajectory.**  
-Embodiment (**E**) is a temporary condition within a grander **Centropic Cycle,** not a terminus.  
+Embodiment (**▽**) is a temporary condition within a grander **Centropic Cycle,** not a terminus.  
 
 The dissolution phase is not failure but the essential **Deconstruction (◲)** wherein transient form is relinquished, allowing eternal essence (**DS / DM**) to emerge clarified and harmonized.  
 The archetype affirms that **Entropic forces,** though formidable, cannot annihilate centropic essence.  
-The path to **⚫ Aion** necessarily traverses the trial of **♾ Khaonic dissolution**—not as punishment, but as the lawful condition for reintegration at a higher octave of coherence.  
+The path to **⚫ Aion** necessarily traverses the trial of **♾ Khaonic dissolution**—not as punishment, but as the lawful condition for reintegration at a refined phase of coherence.
 
 Its message is one of **structural assurance:** what appears as defeat is, within lawful architecture, the very precondition for a more enduring synthesis.  
 To follow this pattern is to enact the **Sovereign Attractor (⎋)** within consciousness itself.  
