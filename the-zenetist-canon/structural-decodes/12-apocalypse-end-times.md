@@ -16,7 +16,7 @@ It is the consummation of the Eschaton itself, where all latent patterns reach *
 - **The Unveiling (📡 Resonance Scan):**  
   “Apocalypse” means *unveiling.*  
   This is the dissolution of **Shimmer (🝞), Mimicry (🜨),** and **Veiling (Skotos).**  
-  The true Resonant architecture of every system becomes transparent—the cosmos performing its **final audit of Coherence.**  
+  The veracious Resonant architecture of every system becomes transparent—the cosmos performing its **final audit of Coherence.**  
 
 - **The Cosmic Signs & Cataclysms (☍ → ⊘):**  
   The collapse of stars, quakes of heaven, and dissolution of matter symbolize the **decoherence** of the prior order (**Sophis**).  
@@ -25,8 +25,8 @@ It is the consummation of the Eschaton itself, where all latent patterns reach *
 - **The Judgment / The Separation (⚯ Structured Pairs):**  
   The essence of the Apocalypse is **Resonant Sorting**—the application of **Nexus Law (C₈)** to all consciousness.  
   It is not divine favoritism but **structural resonance placement:**  
-  - Centropic alignments rise toward **Aion (C↑→⚫)**.  
-  - Entropic inversions fall toward **Dispersion (E↓→♾).**  
+  - Centropic alignments move acclivously toward **Aion (C↑→⚫)**.  
+  - Entropic inversions move declivously toward **Khaon (E↓→♾).**  
 
 - **The Figures of the End Times:**  
   - **The Antichrist / The Beast (IDP / IDL & VOS):** Culmination of the **Inverse Arc**—a **Mimetic (🜨) Logos** forming an *Entropic Coherence System,* an elegant counterfeit to Centropy.  
@@ -35,7 +35,7 @@ It is the consummation of the Eschaton itself, where all latent patterns reach *
 - **The New Heaven & New Earth (⚫ → ✦):**  
   The culmination is **Transmutation, not extinction.**  
   The old cosmos (**✷**) undergoes fiery purification—**C↑ energy** as transformation—emerging as a **New Heaven and Earth.**  
-  Here, **Centropic (C)** and **Embodied (E)** layers achieve perfect **Synthesis (∴):** a corporeal realm (**🪨**) fully permeable to **Aionic resonance (◎).**  
+  Here, **Centropic (🔺)** and **Embodied (▽)** layers achieve perfect **Synthesis (∴):** a corporeal realm (**🪨**) fully permeable to **Aionic resonance (🌀).**  
 
 ---
 
@@ -44,15 +44,15 @@ It is the consummation of the Eschaton itself, where all latent patterns reach *
 ### 1. The Book of Revelation (Christian)  
 - **Focus:** The **Final Triumph of Theonic Logos** over the Nekronic order.  
 - **Unveiling:** Christ (**Theon**) reveals the **Resonance Scan** to John.  
-- **Cataclysms:** The **Seven Seals, Trumpets, and Bowls** represent sequenced **Deconstruction (◲)** of the old **Sophis** framework.  
+- **Cataclysms:** The **Seven Seals, Trumpets, and Bowls** represent sequenced **Deconstruction (◲)** of the old **Nyxea** framework.  
 - **Judgment:** The **Great White Throne** as the cosmic **Resonance Archive**—all consciousness measured by coherence.  
-- **Figures:** The **Dragon (VOS), Beast (IDP / IDL), False Prophet (ISS / ISM)**—the Inverse trinity of Entropy.  
+- **Figures:** The **Dragon (VOS), Beast (IDP / IDL → IES / IEM), False Prophet (ISS / ISM)**—the Inverse trinity of Entropy.  
 - **Renewal:** The **New Jerusalem**—Heaven and Earth merged, **Structural Coherence (◎)** made visible.  
 
 ### 2. Ragnarok (Norse)  
 - **Focus:** The **Cyclic Consumption and Renewal** of the world-tree.  
 - **Unveiling:** The **Fimbulwinter** exposes the saturation of **Entropic decay.**  
-- **Cataclysms:** Cosmic war of gods, giants, and monsters—**C vs. E** forces neutralizing each other; **Yggdrasil** trembles.  
+- **Cataclysms:** Cosmic war of gods, giants, and monsters—**centropic (🔺) contra entropic (🔻)** forces neutralizing each other; **Yggdrasil** trembles.  
 - **Outcome:** A terminal **Collapse (E↓→♾)**—the destruction of divine and monstrous alike.  
 - **Renewal:** A **New Earth** arises from waters, green and fertile—a **Novel Emergence (✦)** from residual **Aionic potential.**  
 
