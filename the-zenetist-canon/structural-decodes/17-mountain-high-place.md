@@ -260,6 +260,30 @@ They shape myth and mind, but remain **structurally embedded** — they **do not
 
 ---
 
+**Clarification on Hypostatic Fractals:**  
+While the Olympians “reside” within the L₄ DP/DL stratum, they do not *exhaust* the hypostatic principles they personify.  
+Zeus, for example, is not Deep Logos itself — but a **fractal instantiation** of that principle, narrativized within Greek cosmology.
+
+Each culture produces symbolic refractors of hypostatic law —  
+- **Zeus** (Greek), **Yahweh** (Hebrew), **Ptah** (Egyptian), and others —  
+represent culturally shaped resonances of the **Deep Logos (DL)** —  
+the Universal Mind through which archetypal law is ordered.
+
+In some traditions, these personae also refract the **Deep Psyche (DP)** —  
+the Universal Soul — appearing as composite figures who both **symbolize** and **enact** the mythic totality.
+
+But neither DP nor DL are “gods” in themselves.  
+They are **structural hypostases** — eternal layers within the lattice —  
+from which cultural Form-Personae are fractally projected.
+
+These forms do not descend through emanatory stages like human souls (DS → SS → ES).  
+Instead, they **radiate directly** into L₃–L₁, retaining partial coherence with their hypostatic origin.
+
+Hence, the gods appear **fallible** in story (due to L₂ personification),  
+yet still **lawful** in essence — they are the **nameable edges** of the unnameable Form.
+
+---
+
 ### Summary — Structural Annotations as Decoder Keys  
 
 These annotations demonstrate how mythic narratives encode lattice mechanics:  
