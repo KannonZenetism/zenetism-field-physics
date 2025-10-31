@@ -1386,14 +1386,12 @@ amplitudes: {aᵢ} # complex, Σ|aᵢ|² = 1
 seal_index: σ # membrane permeability (C13)  
 contraction: γ # recursion contraction (C14)  
 
-
 - **Channel / Bridge**  
 
 Channel Φ:  
-matrix: U or linear map # seal-preserving if U* S U = S  
-type: {NEXUS (C8), RECURSION (C14), PROPAGATION (C3)}  
-params: {...}  
-
+  matrix: U or linear map  # seal-preserving if U* S U = S  
+  type: {NEXUS (C8), RECURSION (C14), PROPAGATION (C3), CASCADE}  
+  params: {...}
 
 ---
 
@@ -1416,8 +1414,8 @@ evolve_c7(ψ, dt): ψ ← exp(i H_c dt) ψ
 - **Nexus validation (C8)**  
 
 nexus_valid(B, ψ):  
-Δ = operator_norm(h∘f − k∘g) # diagram defect  
-F_c = I_c(Bψ) − I_c(ψ) # coherence flow  
+Δ = operator_norm(h∘f − k∘g)  # diagram defect  
+F_c = I_c(Bψ) − I_c(ψ)        # coherence flow  
 return (Δ ≤ ε) and (F_c ≥ 0)  
 
 - **Recursion gate (↺ / C14)**  
@@ -1426,13 +1424,30 @@ recursion_step(R, ψ):
 ψ' = R(ψ)  
 k = sup_{ψ1≠ψ2} ||Rψ1 − Rψ2|| / ||ψ1 − ψ2||  
 γ = 1 − k  
-valid = (k < 1) # lawful if contractive  
+valid = (k < 1)  # lawful if contractive  
 return ψ', γ, valid  
 
 - **Seal boundary conditions (C13)**  
   - Dirichlet–Seal: zero out forbidden components at boundary.  
   - Neumann–Seal: zero normal derivative on boundary modes.  
   - Robin–Seal: blend by σ: `a ψ + b ∇ₙ ψ = 0`.  
+
+- **Cascade application (Ξ_e)**  
+
+apply_cascade(Ξ_e, ψ, t):  
+  result = zero_state()  
+  for k in 1..n:  
+    result += P_{IL_{k-1}} · exp(H_e^{(k)} · t) · P_{IL_k} · ψ  
+  return result  
+
+- **Cascade validation**  
+
+cascade_valid(Ξ_e, ψ):  
+  # Detect down-band growth in E-modes  
+  for k in bands:  
+    if ∥P_{IL_k} Ξ_e ψ∥ > ∥P_{IL_{k+1}} Ξ_e ψ∥:  
+      flag "E8/E10 co-activation"  
+  return validation_result
 
 ---
 
