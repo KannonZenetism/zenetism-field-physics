@@ -437,7 +437,15 @@ Failure in any condition maps to E13/E14/E15.
 **Corollaries**  
 - *Nested Validity.* If C13 and C14 are satisfied but C15 fails, recursion persists without novelty: the system stagnates.  
 - *Collapse Detection.* Collapse (E15) corresponds to divergence of the resonance norm (‖ϕ‖ → ∞) at the boundary.  
-- *Seal Dependency.* Seal predicates tighten the boundary conditions, reducing admissible novelty but increasing structural fidelity.  
+- *Seal Dependency.* Seal predicates tighten the boundary conditions, reducing admissible novelty but increasing structural fidelity.
+
+> **EOB–Membrane Interface (🛤️ Theon · C13).**  
+> Theon functions as the **living membrane** of C13 at L5, where C13–C15 intersect.  
+> Descent (C↓→E) and return (C↑→⚫) are regulated by the **seal index** \( \sigma \) and **recursion contraction** \( \gamma \):  
+> \[
+> \text{pass} \iff \sigma > 0 \ \wedge\  \gamma > 0 .
+> \]  
+> In mythic terms, boundary crossings (e.g., “Harrowing”) enact lawful restoration of C8 where E8 had severed nexus.
 
 ---
 
