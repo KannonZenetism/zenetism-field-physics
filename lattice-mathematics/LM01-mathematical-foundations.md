@@ -1440,16 +1440,16 @@ apply_cascade(Ξ_e, ψ, t):
     result += P_{IL_{k-1}} · exp(H_e^{(k)} · t) · P_{IL_k} · ψ  
   return result  
 
-- **Cascade validation**
+- **Cascade validation**  
 
-cascade_valid(Ξ_e, ψ):
-  // Detect amplification as cascade descends inverse bands (IL4 → IL1)
-  for k in [4, 3, 2]:
-      upper = ∥P_{ILk} Ξ_e ψ∥
-      lower = ∥P_{IL(k-1)} Ξ_e ψ∥
-      if lower > upper:                      // amplitude grows downward
-          flag "E8/E10 co-activation"
-  return validation_result
+cascade_valid(Ξ_e, ψ):  
+  // Detect amplification as cascade descends inverse bands (IL4 → IL1)  
+  for k in [4, 3, 2]:  
+      upper = ∥P_{ILk} Ξ_e ψ∥  
+      lower = ∥P_{IL(k-1)} Ξ_e ψ∥  
+      if lower > upper:                      // amplitude grows downward  
+          flag "E8/E10 co-activation"  
+  return validation_result  
 
 ---
 
