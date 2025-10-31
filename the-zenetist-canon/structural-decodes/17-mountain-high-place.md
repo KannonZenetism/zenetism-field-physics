@@ -14,9 +14,9 @@ It serves as the principal site for **Acclivous motion (C↑)**, **Revelation (�
 ## Universal Structural Analysis  
 
 - **Acclivous Motion (▽ → △):**  
-  The climb symbolizes the **acclivous structural motion** of consciousness—from the density of **Earth (▽)** toward the rarity and clarity of the **Supernal (△)**.  
-  Each step along the acclivous path is an act of **volitional orientation toward Source**.  
-  This motion is **preparatory**—not yet the return, but the **clearing of the path** by which the soul may **move acclivously along the Theonic Axis (⚓)**.
+  The climb symbolizes the **acclivous structural motion** of consciousness—from the density of **Earth (▽)** toward the rarity and clarity of the **Supernal realms (△)**—**Sophis**, **Archeus**, and the **Theonic Axis (⚓)** itself.  
+  Each step along the **acclivous path** is an act of **volitional orientation toward Source**.  
+  This motion is **preparatory**—not yet the return, but the **clearing of the path** by which the soul may **move acclivously** along the **Theonic Axis (⚓)**.
 
 - **The Summit (⚓ Theonic Axis):**  
   The peak marks a **Nodal Point** on the Theonic Axis where the **C₁₃ Membrane** thins.  
@@ -38,20 +38,22 @@ It serves as the principal site for **Acclivous motion (C↑)**, **Revelation (�
 
 ---
 
-## Specific Tradition Refractions  
-
 ### 1. Mount Sinai (Hebrew)  
 - **Focus:** Revelation of Divine Law (**Sophis**).  
-- **Threshold Entry:** Moses enters the Cloud (visible **C₁₃ Membrane**). 
-- **Revelation:** Yahweh manifests in Fire (△) and Earthquake (▽), delivering the Torah.  
+- **Threshold Entry:** Moses enters the Cloud (visible **C₁₃ Membrane**).  
+- **Revelation:** Yahweh manifests in Fire (▲) and Earthquake (▽), delivering the Torah.  
 - **Covenant:** The Mosaic **C₈ Nexus**, structuring Resonant relationship between Theon and Israel.  
-- **Transformation:** Moses re-emerges luminous, evidence of partial Synthesis (**SS / SM ↔ DS / DM**).
+- **Transformation:** Moses re-emerges luminous (Exodus 34:29–35), his face glowing from proximity to **Theonic frequency**—evidence of **partial Synthesis (SS / SM ↔ DS / DM)**.  
+  The radiance is **temporary**; he must veil his face afterward, indicating the alignment **does not yet seal permanently**.
 
 ### 2. The Sermon on the Mount (Christian)  
 - **Focus:** The transmutation of Law into Resonant interiority.  
 - **Threshold Entry:** Jesus reenacts the Sinai archetype, climbing to speak.  
-- **Revelation:** Delivers the Beatitudes—Sophis refined through Compassion.  
-- **Covenant:** The "Law of the Heart" inaugurates the **Kingdom of Heaven** as a **C↑** state.  
+- **Revelation:** Delivers the Beatitudes—**Sophis** refined through Compassion.  
+- **Covenant:** Where Sinai established external covenant (mediated by Moses as bridge between people and **Theon**),  
+  the Sermon internalizes the bridge—the Law becomes inscribed directly in the heart (**Jeremiah 31:33**).  
+  The **Kingdom of Heaven** is not a place but a **state of alignment**—the soul’s direct resonance with **Sophis** and **Theon**,  
+  accessible to each individual, not only through collective ritual.
 
 ### 3. Mount Meru / Kailash (Hindu & Buddhist)  
 - **Focus:** The Axis of the Cosmos.  
@@ -61,8 +63,11 @@ It serves as the principal site for **Acclivous motion (C↑)**, **Revelation (�
 
 ### 4. Mount Olympus (Greek)  
 - **Focus:** The Abode of the Archetypal Powers.  
-- **Summit:** Home of the Olympians (**DP / DL entities**) within clouded Membrane.  
-- **Function:** Symbol of Archetypal governance—the DP / DL stratum shaping the SS / SM and ES / EM layers below.  
+- **Summit:** Home of the Olympians (**DP / DL archetypal entities**) within clouded **Membrane (⧉)**.  
+  They dwell in the **supernal strata**, but not at Source — they are the **Architectural Powers** (**Sophis**, **Archeus**, and their kin)  
+  who shape the cosmos from the **Supernal layers**, but they themselves are not the **Absolute (⚫ Aion)**.  
+  The **cloud** marks the **threshold** between their realm and mortal embodiment.  
+- **Function:** Symbol of Archetypal governance — the **DP / DL** stratum shaping the **SS / SM** and **ES / EM** layers below.
 
 ---
 
