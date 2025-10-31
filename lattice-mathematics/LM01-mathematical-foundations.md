@@ -160,6 +160,27 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
+### Evolution Operators (Centropic contra Entropic)
+
+- **Centropic evolution** is **unitary** on the sealed domain:  
+  \[
+    U_c(t) = e^{\,iH_c t}, \qquad U_c^{\dagger}U_c = I, \qquad \partial_t I_{\mathrm{res}} = 0 .
+  \]
+
+- **Entropic evolution** is **dissipative / non-unitary**, forming a one-parameter **contraction semigroup**:  
+  \[
+    D_e(t) = e^{\,H_e t}, \qquad \|D_e(t)\psi\| \le \|\psi\|,\ t \ge 0,\qquad \partial_t I_{\mathrm{res}} < 0 .
+  \]
+
+- **Mirror correspondence**  
+  \[
+    \mathrm{Spec}(H_e) = -\,\mathrm{Spec}(H_c),\quad e^{H_e t}\text{ is non-unitary (information-reducing).}
+  \]
+
+- **CIT consequence.** Under \(U_c\) the CIT invariant is conserved; under \(D_e\) it decays monotonically.
+
+---
+
 ## E. Dynamics of Centropy vs Entropy
 
 ### E1. Order Parameters
