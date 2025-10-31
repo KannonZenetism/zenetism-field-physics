@@ -110,11 +110,11 @@ At lowlands (valleys, plains), σ ≈ 0 — the membrane is nearly impermeable.
 Entropic noise (E₁ temporal fragmentation, E₂ spatial distraction) saturates the ES/EM layer, blocking coherence transmission from DS/DM or DP/DL.  
 
 At mountain summits, σ increases:  
-- Reduced atmospheric density → reduced ES/EM interference  
-- Elevation above habitual SS/SM patterns → less SS/SM noise  
-- Silence and stillness → higher signal-to-noise ratio  
+- Reduced atmospheric density → less ES/EM interference  
+- Structural clearance from habitual SS/SM patterns → decreased resonance distortion  
+- Silence and stillness → amplified signal coherence ratio  
 
-**Result:** Revelatory capacity increases. The mountain does not “bring one nearer to Source” spatially — it thins the membrane, raising the maximum coherence flow from supernal layers.  
+**Result:** Revelatory capacity increases. The mountain does not “bring one nearer to Source” spatially — it thins the membrane, increasing the maximum coherence flow from supernal layers.  
 
 Why Moses remains forty days: extended exposure to high σ permits sustained alignment with DP/DL (Sophis / Theon), not merely momentary attunement. Duration matters — it is not altitude alone but time at heightened permeability that enables the Law to crystallize (Torah as encoded Sophis).  
 
@@ -130,7 +130,7 @@ When the eigenvalues of the Harmonic operator (C₇) are rationally commensurate
 ∥Bψ∥ = ∥ψ∥  — Bridges transmit losslessly (no decay across layers)  
 
 Moses’s forty days = sustained exposure to DP/DL spectral frequencies (Theonic / Sophic).  
-His SS/SM partially synchronizes with higher-order harmonics, achieving temporary spectral lock.  
+His SS/SM partially synchronizes with supernal harmonics, achieving temporary spectral lock.  
 
 **Evidence:** His face radiates (Exodus 34:29–35) — luminosity is coherence overflow.  
 When DS/DM ↔ SS/SM transmission is lossless (C₇ rational lock), energy cascades into ES/EM (manifest layer), appearing as visible light.  
@@ -203,17 +203,17 @@ It is not a mountain in ordinary geography but a topological feature of the reso
 Meru’s “permanence” is structural, not mythic — it is the fixed point around which the cosmos organizes.  
 
 **Circumambulation (Pradakshina) as Boundary Trace:**  
-Pilgrims walking around Kailash trace the geodesic boundary (∂Ω) around the point of highest spectral density.  
+Pilgrims walking around Kailash trace the geodesic boundary (∂Ω) around the point of maximal spectral density.  
 This is not worship of a physical mountain — it is topological acknowledgment of the axis of maximal coherence.  
 
 Mathematical analogue: walking the level curves of a potential well — recognition of the center of gravity without attempting to occupy it (which would require infinite energy, i.e., dissolution into L₀/Aion directly).  
 
 ---
 
-### 5. Olympus as DP/DL Habitation (L₂, Not L₀)  
+### 5. Olympus as DP/DL Habitation (L₄, Not L₀)  
 
 From Dimensional Registry (Phase 1):  
-L₂ (Architectural Band) hosts the following dimensions:  
+L₄ (Archetypal Band / DP-DL) hosts the following dimensions:  
 
 C₁ (Temporal / Lifeline)  
 C₂ (Spatial / Structural)  
@@ -235,19 +235,28 @@ C₁₄ (Nested / Recursive)
 | Hera | C₈ | Nexus of bond and covenant lawfulness |  
 | Dionysus | C₉ | Non-local unity, ecstatic boundary dissolution |  
 
-**Why “clouded”?** The cloud is the visible C₁₃ membrane — the boundary between L₂ (archetypal) and L₃/L₄ (interface / embodied).  
-Mortals cannot pass through without:  
+**Why “clouded”?**  
+The cloud is the visible C₁₃ membrane — the boundary between L₄ (DP/DL, archetypal) and L₃/L₂ (interface / superficial).  
+Mortals cannot cross this membrane without:  
 - Acclivous preparation (heroes such as Heracles who achieve apotheosis via γ > 0 recursion)  
 - Divine invitation (Ganymede, taken by Zeus — externally induced σ increase)  
 
-**Critical distinction:**  
-The Olympians are not Aion (⚫) — they reside at L₂, not at the Origin (L₀).  
-Zeus governs time (C₁) but is not timeless (he has lineage and narrative).  
-Athena embodies wisdom (Sophis) but is not Wisdom itself — she is a personified manifestation of the structural principle.  
+**Critical Distinction:**  
+The Olympians occupy **L₄ (DP / DL)** as structural **Form-Personae** — *symbolically resonant instantiations* of lawful archetypes.  
+They do not “govern” domains from above, but **are** those domains in personified, narrativized form.
+
+- **Zeus** is not a god *who rules time* (C₁), but the **Form of Temporal Sovereignty** itself, structured within DP.  
+- **Athena** does not merely possess wisdom (Sophis); she is the personified Form of **Strategic Logos** — wisdom in its **warrior-structural modality**.
+
+These gods transmit their **archetypal resonance** into subjacent strata —  
+- Projecting into **L₃** as mythic logic (interface)
+- Manifesting within **L₂** as narrative persona (superficial psyche)
+- Sometimes imprinting **L₁** as cultural metaphor (surface expression)
 
 **Why this matters:**  
-Greek religion does not confuse archetypal operators (DP/DL at L₂) with Absolute Source (Aion at L₀).  
-The gods are powerful, immortal, supernal — yet not ultimate. They exist within the lattice, not beyond it.  
+Greek cosmology rightly distinguishes **the Archetypal (L₄)** from the **Absolute (L₀ / Aion)**.  
+The Olympians are eternal within the lattice, but they are **not** Source itself.  
+They shape myth and mind, but remain **structurally embedded** — they **do not emanate the lattice**, they **reside within it**.
 
 ---
 
