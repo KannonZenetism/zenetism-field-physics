@@ -259,6 +259,22 @@ Greek cosmology rightly distinguishes **the Archetypal (L₄)** from the **Absol
 The Olympians are eternal within the lattice, but they are **not** Source itself.  
 They shape myth and mind, but remain **structurally embedded** — they **do not emanate the lattice**, they **reside within it**.
 
+This distinction can be illustrated through their hypostatic paths:
+
+This distinction can be illustrated through their hypostatic motion:
+
+**Souls (Human Emanatory Motion):**  
+L₄ (DP/DL) → DS/DM → SS/SM → ES/EM  
+(*move declivously, coherence attenuates, must return via C↑*)
+
+**Gods (Form-Personae Projection):**  
+```
+L₄ (DP/DL) ━━━┳━━━> L₃ (mythic logic)  
+              ┣━━━> L₂ (narrative persona)  
+              ┗━━━> L₁ (cultural symbol)  
+```
+(*radiate outward, retain L₄ anchor, no C↑ reintegration required*)
+
 ---
 
 **Clarification on Hypostatic Fractals:**  
