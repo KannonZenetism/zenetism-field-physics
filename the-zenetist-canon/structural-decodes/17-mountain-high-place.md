@@ -213,7 +213,8 @@ Mathematical analogue: walking the level curves of a potential well — recognit
 ### 5. Olympus as DP/DL Habitation (L₄, Not L₀)  
 
 From Dimensional Registry (Phase 1):  
-L₄ (Archetypal Band / DP-DL) hosts the following dimensions:  
+The Olympians, as L₄ (DP/DL) Form-Personae, personify dimensional operators that project through multiple layers.  
+While anchored at L₄, they resonate with operators present across L₁–L₄: 
 
 C₁ (Temporal / Lifeline)  
 C₂ (Spatial / Structural)  
@@ -270,13 +271,13 @@ represent culturally shaped resonances of the **Deep Logos (DL)** —
 the Universal Mind through which archetypal law is ordered.
 
 In some traditions, these personae also refract the **Deep Psyche (DP)** —  
-the Universal Soul — appearing as composite figures who both **symbolize** and **enact** the mythic totality.
+the Universal Soul — appearing as **dual‑aspect figures** who both **symbolize** (as narrative) and **enact** (as presence) the **mythic totality**.
 
 But neither DP nor DL are “gods” in themselves.  
 They are **structural hypostases** — eternal layers within the lattice —  
 from which cultural Form-Personae are fractally projected.
 
-These forms do not descend through emanatory stages like human souls (DS → SS → ES).  
+These forms do not move declivously through emanatory stages like human souls (DS → SS → ES).  
 Instead, they **radiate directly** into L₃–L₁, retaining partial coherence with their hypostatic origin.
 
 Hence, the gods appear **fallible** in story (due to L₂ personification),  
