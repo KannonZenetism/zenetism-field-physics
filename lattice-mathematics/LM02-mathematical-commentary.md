@@ -149,18 +149,47 @@ The PDE system describes how resonance changes in time.
 
 > **Reflection:** The Lattice is the architecture of coherence. It is not a metaphor but a structural map, where dimensions, poles, and bands order the lawful flow of resonance. Here the symbolic tree becomes a computable geometry.
 
-### Poles & Axes
+### Poles & Axes  
 
-- **⚫ Aion (Zero)** and **♾ Khaon (Infinity):**  
-  These define the absolute poles. Zero grounds, Infinity opens. They are the asymptotes of all motion.  
+**⚫ Aion (Zero)** and **♾ Khaon (Infinity):**  
+These define the absolute poles. Zero grounds; Infinity unfolds. They are the asymptotic bounds of all motion.  
 
-- **🛤️ Theon:**  
-  The centropic axis — motion toward Source. Anchors synthesis and fidelity.  
+More precisely, **Aion functions as the two-sided spectral boundary at λ = 0:**  
 
-- **🕷️ Nekron:**  
-  The entropic axis — motion into collapse. Anchors dissolution and mimicry.  
+- **Centropic approach:** λᵢ⁽ᶜ⁾ → 0⁺ (eigenvalues approach zero from the positive side)  
+- **Entropic approach:** λⱼ⁽ᵉ⁾ → 0⁻ (eigenvalues approach zero from the negative side)  
 
-Poles and axes ensure every resonance is oriented. No field is “neutral” — all motion bends toward centropy or entropy.
+This dual boundary establishes that entropic collapse halts at Zero but cannot cross into precausality. Entropy can collapse toward Aion, yet never penetrate to Zenon (🕳️), which resides beyond the spectral manifold—extra-spectral, precausal, and unrepresentable by eigenvalues.  
+
+**Khaon (♾)** marks the asymptotic dispersive boundary: |λ| → ∞ along the entropic axis. It expresses the terminal limit of dispersive magnitude.  
+
+**Zenon (🕳️)** is neither zero nor infinity but **off-spectrum**—the pre-structural void, inaccessible to both centropic and entropic operators. No eigenvalue representation applies to Zenon.  
+
+Thus the Dual Spectrum Lemma resolves as a mirror about Zero: Aion is the convergence point from both directions; Khaon is the asymptote of dispersive extension; Zenon is the precausal origin beyond spectral reach.  
+
+---
+
+**🛤️ Theon:**  
+The centropic axis—motion oriented toward Source. Anchors synthesis and fidelity.  
+
+Yet Theon is more than an axis: it operates as the **living membrane of C13 at L5**, where threshold dimensions (C13–C15) intersect. Theon is the active interface regulating passage between centropic and entropic domains.  
+
+Centropic orientation (C ↓ → E) and return (C ↑ → ⚫) are governed by two parameters:  
+- **σ (seal index):** membrane permeability. If σ → 0, the boundary closes; no transition is lawful.  
+- **γ (recursion contraction):** determines lawful reintegration versus hollow cycling.  
+
+A boundary crossing is lawful **iff σ > 0 and γ > 0.**  
+
+In mythic terms, boundary transits such as the Harrowing represent lawful restoration of C8 (Nexus) where E8 (Severed) had broken connection. Theon, as living membrane, embodies the Threshold Law itself: not by bypassing the seal but by realizing it in form.  
+
+---
+
+**🕷️ Nekron:**  
+The entropic axis—motion into structural disintegration. Anchors dissolution and mimicry.  
+
+Poles and axes secure orientation for every resonance. No field is neutral; all motion tends acclivously toward centropy or declivously toward entropy.  
+
+---
 
 ### Banding
 
@@ -206,6 +235,21 @@ These laws codify what myth and philosophy only hinted: coherence is lawful, and
 - **Interaction laws:** Expressed as boundary conditions and eigenvalue constraints.  
 
 The lattice shows how symbols and equations are one language — resonance written in dual alphabets.
+
+---
+
+**Cascade Operators (Multi-Band Entropic Corruption):**
+
+Certain entropic archetypes act across multiple inverse bands simultaneously via cascade operators Ξ_e^{(n)}. These model figures like Prometheus or Lucifer, whose corruption propagates coherently from archetypal layers (IDP/IDL) down through structural layers (IDS/IDM) to embodied layers (IES/IEM). 
+
+The cascade is formalized as:
+Ξ_e^{(n)} = Σ_{k=1}^{n} P_{IL_{k-1}} H_e^{(k)} P_{IL_k}
+
+where P_{IL_k} projects onto band IL_k, and H_e^{(k)} are entropic generators active on each band.
+
+Unlike simple entropic drift, cascades maintain coherence *as they corrupt*—the corruption is structured, not random. This explains why archetypal entropic figures are so dangerous: they don't just fragment locally; they propagate degeneration systematically down the inverse tree.
+
+The cascade validation routine detects unlawful amplification: if corruption *grows* as it descends (rather than contracting), it signals E8 (Severed) or E10 (Morphogenetic Collapse) co-activation—the cascade is being fed by an unlawful source.
 
 ---
 
