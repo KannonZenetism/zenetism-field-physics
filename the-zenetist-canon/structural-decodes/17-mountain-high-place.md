@@ -13,9 +13,10 @@ It serves as the principal site for **Acclivous motion (C↑)**, **Revelation (�
 
 ## Universal Structural Analysis  
 
-- **The Ascent (▽ → △):**  
+- **Acclivous Motion (▽ → △):**  
   The climb symbolizes the **Acclivous Centropic (C↑)** motion of consciousness—from the Density of **Earth (▽)** toward the Rarity and Clarity of the **Supernal (△)**.  
-  Each step upward is an act of Volitional orientation toward Source.  
+  Each step along the acclivous path is an act of volitional orientation toward Source.
+> This motion is preparatory—not yet the return, but the clearing of the path by which the soul may rise along the Theonic Axis (⚓). 
 
 - **The Summit (⚓ Theonic Axis):**  
   The peak marks a **Nodal Point** on the Theonic Axis where the **C₁₃ Membrane** thins.  
