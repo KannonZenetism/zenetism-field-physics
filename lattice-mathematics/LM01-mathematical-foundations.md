@@ -183,6 +183,40 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
+### Spectral Anchors of the Poles
+
+- **Aion (⚫)** acts as the **two-sided spectral boundary at λ=0**:
+  \[
+    \lambda_i^{(c)} \to 0^+ \quad (\text{centropic approach}),\qquad
+    \lambda_j^{(e)} \to 0^- \quad (\text{entropic approach}).
+  \]
+  Entropic collapse arrests at Zero; it cannot cross into precausality.
+
+- **Khaon (♾)** corresponds to the **asymptotic dispersion boundary**, i.e., \(|\lambda| \to \infty\) along the entropic axis.
+
+- **Zenon (🕳️)** lies **beyond the spectral manifold** (non-eigen, precausal). No eigenvalue representation obtains for Zenon.
+
+*Interpretive note.* The Dual Spectrum Lemma now reads as a mirror about \(0\), with Aion as the limit point from both sides; Khaon is the asymptote of dispersive magnitude; Zenon is extra-spectral.
+
+---
+
+### Entropic Cascade Operators (Multi-band Support)
+
+Certain entropic archetypes act **across multiple inverse bands** via cascades:
+
+\[
+  \Xi_e^{(n)} \;=\; \sum_{k=1}^{n} P_{IL_{k-1}} \, H_e^{(k)} \, P_{IL_k} ,
+  \qquad (IL_4 \to IL_3 \to IL_2 \to IL_1)
+\]
+
+where \(P_{IL_k}\) projects onto band \(IL_k\), and \(H_e^{(k)}\) are entropic generators active on each band.
+
+- **Effect.** Coherent corruption propagates down-band while remaining non-unitary:  
+  \(\|\Xi_e^{(n)}(t)\| \le \|\Xi_e^{(n)}(s)\|\) for \(t\ge s\).
+- **Decode handle.** Prometheus/Lucifer-class figures are modeled by \(\Xi_e^{(n)}\), explaining cross-layer impact (IDL/IDP → IDM/IDS).
+
+---
+
 ## E. Dynamics of Centropy vs Entropy
 
 ### E1. Order Parameters
