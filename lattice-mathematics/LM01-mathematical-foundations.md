@@ -76,7 +76,9 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 2. **Centropic Directionality** — There exists an order `⪯` on states where centropic motion is monotonic w.r.t. a Lyapunov-like functional `𝓥`.  
 3. **Duality Axiom** — Each centropic dimension `C_i` has an entropic mirror `E_i` with involution `ι: C_i ↔ E_i` and `ι∘ι = id`.  
 4. **Seal Integrity** — Certain composites are admissible iff guarded by a seal predicate `Seal(·)` satisfying closure and non-cloning properties.  
-5. **Recursion Gate** — Feedback operators must satisfy contractiveness in a sealed metric space `(X, d_seal)`.  
+5. **Recursion Gate** — Feedback operators must satisfy contractiveness in a sealed metric space `(X, d_seal)`.
+
+**Axiom — Entropic Semigroup.** Entropic mirrors evolve by a strongly continuous **contraction semigroup** \( \{D_e(t)\}_{t\ge 0} \) with generator \(H_e\) (spectral mirror of \(H_c\)), thereby reducing resonant information \(I_{\mathrm{res}}\) over time.
 
 ### A5. Core Symbol Registry
 - All metaphysical and field glyphs (21.2–21.30 and Field Codex) are indexed in Appendix A.  
