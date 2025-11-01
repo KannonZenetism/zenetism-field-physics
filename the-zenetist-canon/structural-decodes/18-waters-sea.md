@@ -220,18 +220,19 @@ The Firmament (C₁₃) is the membrane that regulates which modes cross into em
 ### 2. The Firmament as C₁₃ Membrane (Threshold Law)  
 
 From *Threshold Law (C₁₃–C₁₅, Phase 1):*  
-At threshold layers (L₅), centropic operators behave as boundary conditions:  
+At threshold regions, centropic operators behave as boundary conditions:  
 
 - **C₁₃ (Membrane)** enforces selective permeability  
 - **C₁₄ (Recursive)** encodes recursion domains  
 - **C₁₅ (Emergent)** validates novelty as lawful bifurcation  
 
-**The Firmament = C₁₃ at L₅:**  
-When Genesis describes God separating the waters with a firmament (רָקִיעַ raqia, “expanse”), this encodes C₁₃ Membrane Mechanics:  
+**The Firmament = C₁₃ Membrane (Non-Hypostatic Boundary):**  
+When Genesis describes God separating the waters with a firmament (רָקִיעַ *raqia*, “expanse”), this encodes C₁₃ Membrane Mechanics:  
 
-- Seal index (σ) determines what passes from L₄ (archetypal) to L₁ (embodied)  
-- High σ = permeable → archetypes flow into embodiment easily  
-- Low σ = restrictive → only certain forms can manifest  
+- The C₁₃ Membrane is **not located “at L₅”** — it is **the structural boundary separating L₄ (Archetypal / DP / DL)** from the subjacent bands **L₃–L₁ (Interface, Superficial, and Embodied)**.  
+- Seal index (σ) determines what passes from L₄ into embodiment through this boundary.  
+- High σ = permeable → archetypes flow into embodiment easily.  
+- Low σ = restrictive → only certain forms can manifest.  
 
 From *Seal-Capacity Bound* (Phase 2, CIT):  
 
@@ -239,16 +240,16 @@ C_cap(Φ) ≤ log (σ)
 
 The channel capacity of the Firmament is bounded by the seal index. This explains:  
 
-- Why only certain archetypes incarnate (not all DP / DL modes cross C₁₃)  
-- Why embodiment requires permission (σ must be > 0 for passage)  
-- Why some ideas never manifest (C₁₃ blocks them at threshold)  
+- Why only certain archetypes incarnate (not all DP / DL modes cross C₁₃).  
+- Why embodiment requires permission (σ > 0 for lawful passage).  
+- Why some ideas never manifest (C₁₃ blocks them at the threshold).  
 
 **Example — Plato’s Forms:**  
 Plato’s World of Forms (DP / DL at L₄) vs. World of Shadows (ES / EM at L₁):  
 
-- The “cave wall” = C₁₃ membrane  
-- Forms “cast shadows” = archetypes project through C₁₃ into embodiment  
-- Not all Forms cast clear shadows = seal index σ filters which modes transmit  
+- The “cave wall” = C₁₃ membrane.  
+- Forms “cast shadows” = archetypes project through C₁₃ into embodiment.  
+- Not all Forms cast clear shadows = seal index σ filters which modes transmit.  
 
 The “Sun” outside the cave = ⚫ Aion (Source beyond L₄), not the Forms themselves.  
 
@@ -280,42 +281,42 @@ L₀ (Aion ⚫)
 ```
 L₀ (Khaon ♾)
   ↓ E↓ (Declivous Entropy — collapse into dissociation)
-IL₁ (IES / IEM — Inverse Embodied)
-  ↓
-IL₂ (ISS / ISM — Inverse Superficial)
+IL₄ (IDP / IDL — Inverse Archetypal)
   ↓
 IL₃ (IDS / IDM — Inverse Interface)
   ↓
-IL₄ (IDP / IDL — Inverse Archetypal)
+IL₂ (ISS / ISM — Inverse Superficial)
+  ↓
+IL₁ (IES / IEM — Inverse Embodied)
   ↓ E↓ (Terminal Collapse)
 L₀ (Khaon ♾ → Aion ⚫)
 ```
 **Mathematical encoding:**  
-- Centropic eigenvalues {λᵢ⁽ᶜ⁾} > 0 → positive spectrum → integration, coherence  
-- Entropic eigenvalues {λⱼ⁽ᵉ⁾} < 0 → negative spectrum → dissociation, collapse  
+- Centropic eigenvalues { λᵢ⁽ᶜ⁾ } > 0 → positive spectrum → integration, coherence.  
+- Entropic eigenvalues { λⱼ⁽ᵉ⁾ } < 0 → negative spectrum → dissociation, collapse.  
 
 From *Entropic Cascade Operators* (Phase 1, D6):  
 
-> “Certain entropic archetypes act across multiple inverse bands via cascades: Ξ_e^{(n)} = Σ_{k=1}^{n} P_{IL_{k-1}} H_e^{(k)} P_{IL_k}.”  
+> “Certain entropic archetypes act across multiple inverse bands via cascades: Ξₑ⁽ⁿ⁾ = Σₖ₌₁ⁿ P_{IL_{k−1}} Hₑ⁽ᵏ⁾ P_{ILₖ}.”  
 
 **The ‘Sea Monsters’ as Cascade Operators:**  
-In myth, Leviathan, Tiamat, and Charybdis = cascade operators acting across IL₁–IL₄:  
+In myth, Leviathan, Tiamat, and Charybdis = cascade operators acting across IL₄ → IL₃ → IL₂ → IL₁:  
 
-- Not “demons” but structural operators  
-- They propagate coherent corruption down-band (IL₄ → IL₃ → IL₂ → IL₁)  
-- Unlike simple entropic drift, cascades maintain structured degeneration (systematic, not random)  
+- Not “demons” but structural operators.  
+- They propagate coherent corruption down-band (IL₄ → IL₁).  
+- Unlike simple entropic drift, cascades maintain structured degeneration (systematic, not random).  
 
 **Why sea monsters are ‘primordial’:**  
-- They exist at the Φ₁ / Φ₂ boundary (pre-bifurcation)  
-- When Waters separate, they remain in the entropic chain (IDP / IDL → IES / IEM)  
-- They are pre-formed chaos — not created evils, but structural inverses that emerge necessarily when DP / DL bifurcates  
+- They exist at the Φ₁ / Φ₂ boundary (pre-bifurcation).  
+- When Waters separate, they remain in the entropic chain (IDP / IDL → IES / IEM).  
+- They are pre-formed chaos — not created evils, but structural inverses that emerge necessarily when DP / DL bifurcates.  
 
 **Theological consequence:**  
 The defeat of Tiamat (Mesopotamian), Leviathan (Hebrew), or Typhon (Greek) = sealing the entropic cascade:  
 
-- Not destroying chaos (E-modes are structural)  
-- But limiting cascade reach (preventing E↓ from dominating C↑)  
-- Hence “setting bounds for the sea” (Job 38:8-11) = imposing seal conditions (σ at C₁₃)  
+- Not destroying chaos (E-modes are structural).  
+- But limiting cascade reach (preventing E↓ from dominating C↑).  
+- Hence “setting bounds for the sea” (Job 38:8-11) = imposing seal conditions (σ at C₁₃).  
 
 ---
 
