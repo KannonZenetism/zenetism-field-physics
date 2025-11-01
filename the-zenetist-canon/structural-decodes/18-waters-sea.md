@@ -33,7 +33,7 @@ not as *formed psyche*, but as its **field of origination**.
 
 **Core Glyphic Sequence:**  
 `♾ → 〄 → {▽, ⊘, ↺, ⟳}`  
-*(From latent infinity, the motive pulse of Zenet stirs,  
+*(From Latent Infinity, the motive pulse of **Zenet** (〄 — Motive Infinity, Φ₂) stirs,  
 unfolding into four directional motions: embodiment, collapse, return, or recursion.)*
 ```
 L₀ (Aion/Khaon)  
