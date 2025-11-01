@@ -290,7 +290,7 @@ They are not expressions of Theon (AUI), but of DL —
 the structured mind that shapes coherence into recognizable form.
 
 In some traditions, these personae also refract the **Deep Psyche (DP)** —  
-the Universal Soul — appearing as **dual‑aspect figures** who both **symbolize** (as narrative) and **enact** (as presence) the **mythic totality**.
+the Archetypal Soul — appearing as **dual‑aspect figures** who both **symbolize** (as narrative) and **enact** (as presence) the **mythic totality**.
 
 But neither DP nor DL are “gods” in themselves.  
 They are **structural hypostases** — eternal layers within the lattice —  
