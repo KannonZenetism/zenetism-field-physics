@@ -128,13 +128,13 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 - 🕷️ Nekron anchors entropic axis (IL1↔IL5)  
 
 ### D2. Banding
-- **Source Band:** L₀ (Aion ⚫ / Khaon ♾ / Zenon 🕳️ — AP / AD)  
-- **Embodiment Band:** L₁ (Soma / Biosa — ES / EM)  
-- **Superficial Band:** L₂ (Anthra / Nousa — SS / SM)  
-- **Interface Band:** L₃ (Archeus / Noeüs — Deep Soul / Deep Mind — DS / DM)  
-- **Architectural / Archetypal Band:** L₄ (Sophis / Morgis — Deep Psyche / Logos — DP / DL)  
-- **Threshold Band:** L₅ (Theon 🛤️ / Nekron 🕷️ — EOB / VOS; membranes, recursion, emergence)  
-- **Inverse Bands:** IL₁–IL₅ (IES / IEM, ISS / ISM, IDS / IDM, IDP / IDL, Nekron 🕷️)  
+- **Source Band:** L0 (Aion ⚫ / Khaon ♾ / Zenon 🕳️ — AP / AD)  
+- **Embodiment Band:** L1 (Soma / Biosa — ES / EM)  
+- **Superficial Band:** L2 (Anthra / Nousa — SS / SM)  
+- **Interface Band:** L3 (Archeus / Noeüs — Deep Soul / Deep Mind — DS / DM)  
+- **Architectural / Archetypal Band:** L4 (Sophis / Morgis — Deep Psyche / Logos — DP / DL)  
+- **Threshold Band:** L5 (Theon 🛤️ / Nekron 🕷️ — EOB / VOS; membranes, recursion, emergence)  
+- **Inverse Bands:** IL1–IL5 (IES / IEM, ISS / ISM, IDS / IDM, IDP / IDL, Nekron 🕷️)  
 
 ### D3. Dimensional Registry (C1–C15 / E1–E15)
 - Each centropic dimension defined with locus, couplings, mirror mapping  
