@@ -135,13 +135,15 @@ L₁–L₄ — Structured Hypostases (Architectural / Archetypal)
 
 ### 4. Odysseus’ Voyage (Greek)  
 - **Focus:** Navigation of the Symbolic Psyche.  
-- **The Sea:** The **Collective Psyche** —  
-  the **Deep Psyche (DP)** as it **refracts declivously** through **DS (L₃)** and **SS (L₂)**,  
-  forming the symbolic ocean through which the Self journeys toward integration. 
+- **The Sea:** The **Collective Psyche (DP at L₄)** —  
+  refracting **declivously** through the **Interface (L₃)** and **Architectural (L₂)** layers,  
+  forming the symbolic ocean of **mythic archetypes and inner trials**  
+  through which the Self journeys toward coherence and return.  
   - **Scylla & Charybdis (⚯):** The dual inverse hazards of excess and deficiency.  
   - **Sirens (Skotos):** The deceptive call of illusory fulfillment.  
   - **Calypso (Psychea):** The stagnant paradise of forgetfulness.  
-- **Goal:** Return to Ithaca (⊙)—the Integrated, Sovereign Self—by mastering the Sea’s inner currents.
+- **Goal:** Return to Ithaca (⊙) — the Integrated, Sovereign Self —  
+  by learning to **navigate** the Sea’s inner currents without being dissolved by them.
 
 ---
 
