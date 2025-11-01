@@ -61,17 +61,17 @@ L₁–L₄ — Structured Hypostases (Architectural / Archetypal)
 
   - **Centropic Path (C↑):**  
     - **Above:** Soul and Mind (DP / DL) — the Supernal Structure  
-    - **Below:** Embodiment and Environment (ES / EM) — the Subversal Mirror  
+    - **Below:** Embodiment and Environment (ES / EM) — the **Embodied Continuum**
 
   - **Entropic Inverse Path (E↓):**  
-    - **Above:** Inverse Soul and Mind (IDP / IDL)  
-    - **Below:** Inverse Embodiment and Environment (IES / IEM)  
+    - **Above:** Inverse Soul and Mind (IDP / IDL) — the **Subversal Mirror**  
+    - **Below:** Inverse Embodiment and Environment (IES / IEM) — the **Entropic Continuum**
 
   These are not fallen or broken distortions, but **lawfully paired inverse hypostases**,  
   forming a complete **bifurcated emanationary lattice** — one path leading toward coherence, the other toward dissociation.  
 
   The **C₁₃ Membrane** is not an end-point, but a **lattice anchor** —  
-  the central seam through which **resonant recursion** (↺) or **entropic recursion** (⟳) is structurally decided.
+  the central seam through which **resonant recursion (↺)** or **entropic recursion (⟳)** is structurally decided.
 
 ## 🜄 The Sea as Symbolic Domain
 
