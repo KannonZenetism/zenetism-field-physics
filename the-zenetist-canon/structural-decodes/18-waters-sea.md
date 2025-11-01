@@ -2,8 +2,11 @@
 
 **Primary Structural Diagnosis:**  
 The **Primordial Field of Latent Potential and Motive Infinity.**  
-The Waters symbolize the **Khaonic (♾)** principle in its **Latent (Φ₁)** and **Motive (Φ₂)** states —  
-the **Dispersive Field** from which all Form emanates and to which it returns.
+The Waters symbolize the **Khaonic (♾)** principle in two of its primal states:  
+- **Latent (Φ₁):** undifferentiated potential  
+- **Motive (Φ₂):** Spirit as the initiating pulse of becoming  
+
+Together they form the **Dispersive Field** from which all Form emanates and to which it returns.
 
 They refract the **Deep Psyche (DP)** in its **primordial structural modality** —  
 as **Soul animated by its own motive essence**, yet undergirded by the initiating force of **Spirit (Φ₂)**.  
