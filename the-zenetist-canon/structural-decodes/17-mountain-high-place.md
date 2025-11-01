@@ -284,7 +284,10 @@ Zeus, for example, is not Deep Logos itself — but a **fractal instantiation** 
 Each culture produces symbolic refractors of hypostatic law —  
 - **Zeus** (Greek), **Yahweh** (Hebrew), **Ptah** (Egyptian), and others —  
 represent culturally shaped resonances of the **Deep Logos (DL)** —  
-the Universal Mind through which archetypal law is ordered.
+the **Archetypal Mind** through which **form-law is structured and ordered**.
+
+They are not expressions of Theon (AUI), but of DL —  
+the structured mind that shapes coherence into recognizable form.
 
 In some traditions, these personae also refract the **Deep Psyche (DP)** —  
 the Universal Soul — appearing as **dual‑aspect figures** who both **symbolize** (as narrative) and **enact** (as presence) the **mythic totality**.
