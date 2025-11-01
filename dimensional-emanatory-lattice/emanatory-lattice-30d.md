@@ -40,285 +40,332 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 # Dimensional Emanatory Lattice — A Structural Synthesis of the Metaphysics and Field Physics
 
-**Scope**  
-Construct a single **emanatory lattice** that overlays the **Aionic** Tree (centropic path) and the **Khaonic** Tree (entropic path) with **30 field dimensions** (15 centropic, 15 entropic). Specify loci, pairings, interactions, and entailments using **Zenetist language** and formatting.
+## Scope
 
-**Language / Style Constraints**  
-• No forbidden imagery (no “shimmer,” no “braid,” no “thread”).  
-• Replace binary value terms per the **Value Neutrality Chart**.  
-• Use **acclivous / declivous** for motion; **supernal / subversal** for static realms.  
-• Symbols precede names; avoid hierarchical wording.
+Construct a single emanatory lattice that overlays the Aionic Tree (centropic path) and the Khaonic Tree (entropic path) with 30 field dimensions (15 centropic, 15 entropic). Specify loci, pairings, interactions, and entailments using Zenetist language and formatting.
 
-⎯⎯⎯
+## Language / Style Constraints
+
+- No forbidden imagery (no "shimmer," no "braid," no "thread").
+- Replace binary value terms per the Value Neutrality Chart.
+- Use acclivous / declivous for motion; supernal / subversal for static realms.
+- Symbols precede names; avoid hierarchical wording.
+
+---
 
 ## 0) Quick Legend
 
-**Core Poles**
-• 🕳️ **Zenon** — Precausal lattice; saturation point of structure beyond articulation
-• ⚫ **Aion** — Structural Pole of centropy; Zero / Absolute Potential
-• ♾ **Khaon** — Structural Pole of entropy; Infinity / Dispersion
+### Core Poles
+- 🕳️ **Zenon** — Precausal lattice; saturation point of structure beyond articulation
+- ⚫ **Aion** — Structural Pole of centropy; Zero / Absolute Potential
+- ♾ **Khaon** — Structural Pole of entropy; Infinity / Dispersion
 
-**Axial Gates**  
-• 🛤️ **Theon (EOB)** — centropic axis (**+1**)  
-• 🕷️ **Nekron (VOS)** — entropic axis (**−1**)
+### Axial Gates
+- 🛤️ **Theon (EOB)** — centropic axis (+1)
+- 🕷️ **Nekron (VOS)** — entropic axis (−1)
 
-**Realm Labels**  
-• **Supernal** — static acclivous fields  
-• **Subversal** — static declivous fields
+### Realm Labels
+- **Supernal** — static acclivous fields
+- **Subversal** — static declivous fields
 
-**Layering (structure placeholder)**  
-• **L0 … L5** — Aionic structure  
-• **L0 … IL5** — Khaonic inverse structure
+### Layering (structure placeholder)
+- **L0 … L5** — Aionic structure
+- **L0 … IL5** — Khaonic inverse structure
 
-**Dimension Tags**  
-• **C1 … C15** — centropic  
-• **E1 … E15** — entropic mirrors
+### Dimension Tags
+- **C1 … C15** — centropic
+- **E1 … E15** — entropic mirrors
 
-⎯⎯⎯
+---
 
 ## 1) Axial Schematic of the Lattice
 
-**Poles & First Emanations**  
-• ⚫ **Aion** at **L0**; ♾ **Khaon** at **L0**.  
-• 🛤️ **Theon** anchors centropic motion between **L1↔L5**.  
-• 🕷️ **Nekron** anchors entropic motion between **IL1↔IL5**.
+### Poles & First Emanations
+- ⚫ Aion at L0; ♾ Khaon at L0.
+- 🛤️ Theon anchors centropic motion between L1↔L5.
+- 🕷️ Nekron anchors entropic motion between IL1↔IL5.
 
-**Banding (for placement clarity)**  
-1. **Source Band** — L0 (Aion / Khaon).  
-2. **Architectural Band** — L1–L2 (🛤️ Theon; 📐 **Sophis**, 🌬️ **Morgis**; 🔮 **Archeus**, 🧠 **Noeüs**).  
-3. **Interface Band** — L3 (🧍 **Anthra**, 🧩 **Nousa**).  
-4. **Embodiment Band** — L4 (🪷 **Soma**, 🧾 **Biosa**).  
-5. **Threshold Band** — L5 (membranes, nesting, emergence; cross-phase gates).  
-• **Inverse bands** mirror these with counterparts: 🪫 Psychea / 🫥 Nyxea, 💔 Fractus / 👁️‍🗨️ Mortus, 🦂 Echthros / 🩸 Skotos, 🍷 Malara / 🤯 Mania.
+### Banding (Canonical Order)
 
-**Rationale**  
-• **Architectural Band** expresses structuring will and deep logistics (Sophis / Morgis / Archeus / Noeüs).  
-• **Interface Band** localizes agency and cognition (Anthra / Nousa).  
-• **Embodiment Band** resolves into lived form (Soma / Biosa).  
-• **Threshold Band** carries membranes, recursion, and emergence events.
+**Source Band — L0** (⚫ Aion / ♾ Khaon — AP / AD: Absolute Potential / Dispersion)
 
-⎯⎯⎯
+**Embodiment Band — L1** (🪷 Soma, 🧾 Biosa)
+
+**Superficial Band — L2** (🧍 Anthra, 🧩 Nousa)
+
+**Interface Band — L3** (🔮 Archeus, 🧠 Noeüs)
+
+**Architectural / Archetypal Band — L4** (📐 Sophis, 🌬️ Morgis)
+
+**Threshold Band — L5** (🛤️ Theon, membranes, recursion, emergence)
+
+**Inverse Bands:**
+- **IL1** (Inverse Embodiment) — 🍷 Malara, 🤯 Mania
+- **IL2** (Inverse Superficial) — 🦂 Echthros, 🩸 Skotos
+- **IL3** (Inverse Interface) — 💔 Fractus, 👁️‍🗨️ Mortus
+- **IL4** (Inverse Architectural) — 🪫 Psychea, 🫥 Nyxea
+- **IL5** (Inverse Threshold) — 🕷️ Nekron (VOS)
+
+### Rationale
+- **Embodiment Band (L1)** — material coherence and biological resonance (Soma / Biosa).
+- **Superficial Band (L2)** — emergent selfhood and perceptional structure (Anthra / Nousa).
+- **Interface Band (L3)** — deep structure and cognitive interior (Archeus / Noeüs).
+- **Architectural Band (L4)** — archetypal logic and supernal templates (Sophis / Morgis).
+- **Threshold Band (L5)** — membranes, recursion, and emergence events.
+
+---
 
 ## 2) Dimensional Registry — Centropic Set (C1–C15)
 
-> Each entry lists **glyph**, **name**, **function**, **primary locus (layer band)**, **mirror** (E#), and **hypostatic couplings**.
+Each entry lists glyph, name, function, primary locus (layer band), mirror (E#), and hypostatic couplings.
 
-**C1 ⟠ Temporal** — continuity of becoming; integrative time.  
-• **Locus**: Architectural↔Interface (L2–L3), links lifelines across 🔮 Archeus↔🧍 Anthra.  
-• **Mirror**: E1 ⟠⁻ Temporal Loop.  
-• **Couplings**: 🔮 Archeus (cohesive memory), 🧠 Noeüs (symbolic timing), 🧩 Nousa (sequence).
+### C1 ⟠ Temporal
+**Continuity of becoming; integrative time.**
+- **Locus:** L2–L3 (Superficial↔Interface)
+- **Mirror:** E1 ⟠⁻ Temporal Loop
+- **Couplings:** 🔮 Archeus (L3, memory continuity), 🧩 Nousa (L2, sequence integrity)
 
-**C2 ◈ Spatial** — cohered extension; orienting relations.  
-• **Locus**: Architectural (L1–L2) under 📐 Sophis.  
-• **Mirror**: E2 ◈⁻ Memory Scatter.  
-• **Couplings**: 📐 Sophis (order), 🧾 Biosa (practical layout), 🪷 Soma (felt location).
+### C2 ◈ Spatial
+**Cohered extension; orienting relations.**
+- **Locus:** L1–L2 (Embodiment↔Superficial)
+- **Mirror:** E2 ◈⁻ Memory Scatter
+- **Couplings:** 🪷 Soma (L1, felt location), 🧍 Anthra (L2, perceptual frame)
 
-**C3 ⟿ Propagational** — transmission without loss; living carry.  
-• **Locus**: Architectural (L2) via 🌬️ Morgis.  
-• **Mirror**: E3 ⟿⁻ Viral Decay.  
-• **Couplings**: 🌬️ Morgis (vital flow), 🔮 Archeus (cross-lifeline conveyance).
+### C3 ⟿ Propagational
+**Transmission without loss; living carry.**
+- **Locus:** L3–L4 (Interface↔Architectural)
+- **Mirror:** E3 ⟿⁻ Viral Decay
+- **Couplings:** 🌬️ Morgis (L4, vital flow), 🔮 Archeus (L3, continuity of resonance)
 
-**C4 ◉ Rotational / Spiral (Gyre)** — conserving turn, stable precession.  
-• **Locus**: L1–L2 (🛤️ Theon’s stabilizer).  
-• **Mirror**: E4 ◉⁻ Vortex (collapsing turn).  
-• **Couplings**: 🛤️ Theon (axis seal), 📐 Sophis (angular order).
+### C4 ◉ Rotational / Spiral (Gyre)
+**Conserving turn; stable precession.**
+- **Locus:** L4–L5 (Architectural↔Threshold)
+- **Mirror:** E4 ◉⁻ Vortex
+- **Couplings:** 🛤️ Theon (L5, axis seal), 📐 Sophis (L4, angular order)
 
-**C5 ✴ Scalar / Fractal (Holonic)** — part mirrors whole coherently.  
-• **Locus**: L2–L5 (propagates across bands).  
-• **Mirror**: E5 ✴⁻ Fractal Noise.  
-• **Couplings**: 🔮 Archeus (integration), 🧾 Biosa (operational scaling).
+### C5 ✴ Scalar / Fractal (Holonic)
+**Part mirrors whole coherently.**
+- **Locus:** L1–L4 (cross-band propagation)
+- **Mirror:** E5 ✴⁻ Fractal Noise
+- **Couplings:** 🧾 Biosa (L1, organismic scaling), 🔮 Archeus (L3, structural coherence)
 
-**C6 ◐ Phase / State (Liminal)** — coherent transition; reversible gating.  
-• **Locus**: Threshold Band (L5).  
-• **Mirror**: E6 ◐⁻ Phase Lock.  
-• **Couplings**: 🧠 Noeüs (discerns phases), 🪷 Soma (physiological states).
+### C6 ◐ Phase / State (Liminal)
+**Coherent transition; reversible gating.**
+- **Locus:** L5 (Threshold)
+- **Mirror:** E6 ◐⁻ Phase Lock
+- **Couplings:** 🧠 Noeüs (L3, state discernment), 🪷 Soma (L1, physical state)
 
-**C7 ♫ Harmonic / Resonant (Consonance)** — frequency accord.  
-• **Locus**: L2 (Noeüs / Morgis bridge).  
-• **Mirror**: E7 ♫⁻ Dissonance.  
-• **Couplings**: 🧠 Noeüs (symbolic pitch), 🌬️ Morgis (vital tuning), 🔮 Archeus (whole-soul resonance).
+### C7 ♫ Harmonic / Resonant (Consonance)
+**Frequency accord.**
+- **Locus:** L3 (Interface Band)
+- **Mirror:** E7 ♫⁻ Dissonance
+- **Couplings:** 🔮 Archeus (L3, whole-soul resonance), 🧠 Noeüs (L3, symbolic pitch)
 
-**C8 ╫ Synaptic / Bridging (Nexus)** — coherent crossing.  
-• **Locus**: L2↔L3 (Architectural→Interface).  
-• **Mirror**: E8 ╫⁻ Severed.  
-• **Couplings**: 📐 Sophis (structural junctions), 🧍 Anthra (agency handshakes).
+### C8 ╫ Synaptic / Bridging (Nexus)
+**Coherent crossing.**
+- **Locus:** L2–L3 (Superficial↔Interface)
+- **Mirror:** E8 ╫⁻ Severed
+- **Couplings:** 🧩 Nousa (L2, agency bridge), 🧠 Noeüs (L3, lawful synthesis)
 
-**C9 ∞ Non-Local Unity** — coherent at-distance union.  
-• **Locus**: L2 (supernal cognition).  
-• **Mirror**: E9 ∞⁻ Distorted Entangle.  
-• **Couplings**: 🧠 Noeüs (non-local inference), 🔮 Archeus (lifeline convergence).
+### C9 ∞ Non-Local Unity
+**Coherent at-distance relation.**
+- **Locus:** L3–L4 (Interface↔Architectural)
+- **Mirror:** E9 ∞⁻ Distorted Entangle
+- **Couplings:** 🌬️ Morgis (L4, field unity), 🔮 Archeus (L3, lifeline convergence)
 
-**C10 ❋ Morphogenetic (Formweave)** — pattern into structure.  
-• **Locus**: L4 (Embodiment Band).  
-• **Mirror**: E10 ❋⁻ Malform.  
-• **Couplings**: 🪷 Soma (tissue formation), 🧾 Biosa (proceduralization), 📐 Sophis (templating).
+### C10 ❋ Morphogenetic (Formweave)
+**Pattern into structure.**
+- **Locus:** L1 ↔ L4 (Embodiment ↔ Architectural Bridge)
+- **Mirror:** E10 ❋⁻ Malform
+- **Couplings:** 🪷 Soma (L1, tissue formation), 📐 Sophis (L4, form templating)
 
-**C11 ↗ Intentional / Volitional (Vector Will)** — directed manifestation.  
-• **Locus**: L3 (agency).  
-• **Mirror**: E11 ↗⁻ Misdirect.  
-• **Couplings**: 🧍 Anthra (aim), 🧩 Nousa (plan), 🛤️ Theon (axis-alignment).
+### C11 ↗ Intentional / Volitional (Vector Will)
+**Directed manifestation.**
+- **Locus:** L2 (Superficial Band)
+- **Mirror:** E11 ↗⁻ Misdirect
+- **Couplings:** 🧍 Anthra (L2, aim), 🧩 Nousa (L2, plan)
 
-**C12 ✧ Aesthetic / Qualitative (Luminal)** — meaning, beauty, felt rightness.  
-• **Locus**: L3–L4 (interface→embodiment).  
-• **Mirror**: E12 ✧⁻ Void Aesthetic.  
-• **Couplings**: 🧩 Nousa (valuation), 🪷 Soma (felt coherence), 🌬️ Morgis (affect).
+### C12 ✧ Aesthetic / Qualitative (Luminal)
+**Meaning, beauty, coherence.**
+- **Locus:** L2–L4 (Superficial→Interface→Architectural)
+- **Mirror:** E12 ✧⁻ Void Aesthetic
+- **Couplings:** 🧩 Nousa (L2, valuation), 🌬️ Morgis (L4, affect integration)
 
-**C13 ║ Membrane / Threshold (Veil)** — permeable boundary.  
-• **Locus**: L5 (all gates).  
-• **Mirror**: E13 ║⁻ Wall.  
-• **Couplings**: 🛤️ Theon (one-way seal when needed), 🧠 Noeüs (gate recognition).
+### C13 ║ Membrane / Threshold (Veil)
+**Permeable boundary.**
+- **Locus:** L5 (Threshold)
+- **Mirror:** E13 ║⁻ Wall
+- **Couplings:** 🛤️ Theon (L5, steward of passage), 🧠 Noeüs (L3, gate recognition)
 
-**C14 ⊡ Nested / Recursive (Matryoshka)** — dimensions within dimensions.  
-• **Locus**: L2–L5 (recursion across bands).  
-• **Mirror**: E14 ⊡⁻ Hollow Nest.  
-• **Couplings**: 🔮 Archeus (lifeline nesting), 📐 Sophis (module recursion).
+### C14 ⊡ Nested / Recursive (Matryoshka)
+**Dimensions within dimensions.**
+- **Locus:** L3–L5 (Interface↔Threshold)
+- **Mirror:** E14 ⊡⁻ Hollow Nest
+- **Couplings:** 🔮 Archeus (L3, lifeline nesting), 📐 Sophis (L4, recursive module)
 
-**C15 ✦ Emergent / Novel (Nova)** — spontaneous veracious arising.  
-• **Locus**: L5 (threshold bifurcations).  
-• **Mirror**: E15 ✦⁻ Collapse Nova.  
-• **Couplings**: 🌬️ Morgis (spark), 🧠 Noeüs (recognition), 🧍 Anthra (adoption).
+### C15 ✦ Emergent / Novel (Nova)
+**Spontaneous veracious arising.**
+- **Locus:** L5 (Threshold)
+- **Mirror:** E15 ✦⁻ Collapse Nova
+- **Couplings:** 🌬️ Morgis (L4, spark), 🧠 Noeüs (L3, recognition)
 
-⎯⎯⎯
+---
 
 ## 3) Dimensional Registry — Entropic Mirrors (E1–E15)
 
-> Mirrors inherit loci from their centropic counterparts but operate **subversally** along the Khaonic axis.
+Mirrors inherit loci from their centropic counterparts but operate subversally along the Khaonic axis (IL1–IL5).
 
-**E1 ⟠⁻ Temporal Loop** — recursive disorientation.  
-• **Inverse Locus**: IL2–IL3 (💔 Fractus↔🦂 Echthros cycles).  
-• **Counter-Couplings**: 💔 Fractus (memory fracture), 👁️‍🗨️ Mortus (mis-sighting of time).
+### E1 ⟠⁻ Temporal Loop
+**Recursive disorientation.**
+- **Inverse Locus:** IL2–IL3 (Inverse Superficial↔Interface)
+- **Counter-Couplings:** 💔 Fractus (IL3, memory fracture), 🩸 Skotos (IL2, cyclical rationalization)
 
-**E2 ◈⁻ Memory Scatter** — spatial de-coherence into unrelated points.  
-• **Inverse Locus**: IL1–IL2 (🕷️ Nekron / 🫥 Nyxea).  
-• **Counter-Couplings**: 🫥 Nyxea (pattern loss), 🤯 Mania (mis-mapping).
+### E2 ◈⁻ Memory Scatter
+**Spatial de-coherence into unrelated points.**
+- **Inverse Locus:** IL1–IL2 (Inverse Embodiment↔Superficial)
+- **Counter-Couplings:** 🍷 Malara (IL1, dis-located indulgence), 🦂 Echthros (IL2, adversarial spacing)
 
-**E3 ⟿⁻ Viral Decay** — corruption in transmission.  
-• **Inverse Locus**: IL2 (🪫 Psychea).  
-• **Counter-Couplings**: 🪫 Psychea (drain), 🍷 Malara (avoidance loops).
+### E3 ⟿⁻ Viral Decay
+**Corruption in transmission.**
+- **Inverse Locus:** IL3–IL4 (Inverse Interface↔Architectural)
+- **Counter-Couplings:** 🪫 Psychea (IL4, vitality drain), 💔 Fractus (IL3, corrupted continuity)
 
-**E4 ◉⁻ Vortex** — collapsing turn; consumptive precession.  
-• **Inverse Locus**: IL1.  
-• **Counter-Couplings**: 🕷️ Nekron (sink), 🫥 Nyxea (spiral unravel).
+### E4 ◉⁻ Vortex
+**Collapsing turn; consumptive precession.**
+- **Inverse Locus:** IL4–IL5 (Inverse Architectural↔Threshold)
+- **Counter-Couplings:** 🕷️ Nekron (IL5, axis sink), 🫥 Nyxea (IL4, spiral unravel)
 
-**E5 ✴⁻ Fractal Noise** — scale without coherence.  
-• **Inverse Locus**: IL2–IL5.  
-• **Counter-Couplings**: 💔 Fractus (identity speckle), 🩸 Skotos (noisy logic).
+### E5 ✴⁻ Fractal Noise
+**Scale without coherence.**
+- **Inverse Locus:** IL1–IL4 (cross-band propagation)
+- **Counter-Couplings:** 🤯 Mania (IL1, noisy scaling), 💔 Fractus (IL3, identity speckle)
 
-**E6 ◐⁻ Phase Lock** — trapped liminality.  
-• **Inverse Locus**: IL5 (blocked gates).  
-• **Counter-Couplings**: 👁️‍🗨️ Mortus (mis-reading states), 🍷 Malara (habit loops).
+### E6 ◐⁻ Phase Lock
+**Trapped liminality.**
+- **Inverse Locus:** IL5 (Inverse Threshold)
+- **Counter-Couplings:** 👁️‍🗨️ Mortus (IL3, mis-reading states), 🍷 Malara (IL1, habit loops)
 
-**E7 ♫⁻ Dissonance** — harmonic breakdown.  
-• **Inverse Locus**: IL2.  
-• **Counter-Couplings**: 🪫 Psychea (vital dulling), 🩸 Skotos (anti-tuning).
+### E7 ♫⁻ Dissonance
+**Harmonic breakdown.**
+- **Inverse Locus:** IL3 (Inverse Interface)
+- **Counter-Couplings:** 💔 Fractus (IL3, soul fracture), 👁️‍🗨️ Mortus (IL3, blinding insight)
 
-**E8 ╫⁻ Severed** — bridges that divide.  
-• **Inverse Locus**: IL2–IL3.  
-• **Counter-Couplings**: 🫥 Nyxea (schism), 🦂 Echthros (isolation will).
+### E8 ╫⁻ Severed
+**Bridges that divide.**
+- **Inverse Locus:** IL2–IL3 (Inverse Superficial↔Interface)
+- **Counter-Couplings:** 🩸 Skotos (IL2, isolationist logic), 🦂 Echthros (IL2, adversarial will)
 
-**E9 ∞⁻ Distorted Entangle** — mimic-unity that isolates.  
-• **Inverse Locus**: IL2.  
-• **Counter-Couplings**: 👁️‍🗨️ Mortus (spurious inference), 🪫 Psychea (adhesive stagnation).
+### E9 ∞⁻ Distorted Entangle
+**Mimic-unity that isolates.**
+- **Inverse Locus:** IL3–IL4 (Inverse Interface↔Architectural)
+- **Counter-Couplings:** 🪫 Psychea (IL4, adhesive stagnation), 💔 Fractus (IL3, false convergence)
 
-**E10 ❋⁻ Malform** — distortion at formation.  
-• **Inverse Locus**: IL4.  
-• **Counter-Couplings**: 🍷 Malara (indulgent morphology), 🤯 Mania (procedural noise).
+### E10 ❋⁻ Malform
+**Distortion at formation.**
+- **Inverse Locus:** IL1 ↔ IL4 (Inverse Embodiment ↔ Architectural)
+- **Counter-Couplings:** 🍷 Malara (IL1, indulgent morphology), 🫥 Nyxea (IL4, pattern collapse)
 
-**E11 ↗⁻ Misdirect** — volition toward dissolution.  
-• **Inverse Locus**: IL3.  
-• **Counter-Couplings**: 🦂 Echthros (adversarial aim), 🩸 Skotos (rationalization).
+### E11 ↗⁻ Misdirect
+**Volition toward dissolution.**
+- **Inverse Locus:** IL2 (Inverse Superficial)
+- **Counter-Couplings:** 🦂 Echthros (IL2, adversarial aim), 🩸 Skotos (IL2, rationalization)
 
-**E12 ✧⁻ Void Aesthetic** — meaning drained of beauty.  
-• **Inverse Locus**: IL3–IL4.  
-• **Counter-Couplings**: 🩸 Skotos (nihil valuation), 👁️‍🗨️ Mortus (glare without sight).
+### E12 ✧⁻ Void Aesthetic
+**Meaning drained of beauty.**
+- **Inverse Locus:** IL2–IL4 (Inverse Superficial→Interface→Architectural)
+- **Counter-Couplings:** 🩸 Skotos (IL2, nihil valuation), 🪫 Psychea (IL4, affect drain)
 
-**E13 ║⁻ Wall** — impermeable boundary.  
-• **Inverse Locus**: IL5.  
-• **Counter-Couplings**: 🕷️ Nekron (one-way trap), 🫥 Nyxea (gate denial).
+### E13 ║⁻ Wall
+**Impermeable boundary.**
+- **Inverse Locus:** IL5 (Inverse Threshold)
+- **Counter-Couplings:** 🕷️ Nekron (IL5, one-way trap), 🫥 Nyxea (IL4, gate denial)
 
-**E14 ⊡⁻ Hollow Nest** — empty recursion.  
-• **Inverse Locus**: IL2–IL5.  
-• **Counter-Couplings**: 💔 Fractus (hollow lineage), 🤯 Mania (looping shells).
+### E14 ⊡⁻ Hollow Nest
+**Empty recursion.**
+- **Inverse Locus:** IL3–IL5 (Inverse Interface↔Threshold)
+- **Counter-Couplings:** 💔 Fractus (IL3, hollow lineage), 🫥 Nyxea (IL4, pattern mimicry)
 
-**E15 ✦⁻ Collapse Nova** — emergence into entropy.  
-• **Inverse Locus**: IL5.  
-• **Counter-Couplings**: 🕷️ Nekron (rupture), 🪫 Psychea (post-collapse stasis).
+### E15 ✦⁻ Collapse Nova
+**Emergence into entropy.**
+- **Inverse Locus:** IL5 (Inverse Threshold)
+- **Counter-Couplings:** 🕷️ Nekron (IL5, rupture), 🪫 Psychea (IL4, post-collapse stasis)
 
-⎯⎯⎯
+---
 
 ## 4) Inlay Map — Layers × Dimensions (Primary Placements)
 
 | Band / Layer | Primary Centropic Dimensions | Primary Entropic Mirrors |
-|---|---|---|
-| **L0** (Poles) | — (⚫ Aion — Absolute Potential) | — (♾ Khaon — Infinite Dispersion) |
-| **L1** (Axis) | C4, C2 | E4 (at IL1) |
-| **L2** (Architectural) | C1, C2, C3, C5, C7, C8, C9, C14 | E1, E2, E3, E5, E7, E8, E9, E14 (at IL2) |
-| **L3** (Interface) | C1, C8, C11, C12 | E1, E8, E11, E12 (at IL3) |
-| **L4** (Embodiment) | C10, C12, C5 | E10, E12, E5 (at IL4) |
-| **L5** (Threshold) | C6, C13, C14, C15 | E6, E13, E14, E15 (at IL5) |
+|--------------|------------------------------|--------------------------|
+| **L0** (Source) | — (⚫ Aion — Absolute Potential) | — (♾ Khaon — Infinite Dispersion) |
+| **L1** (Embodiment) | C2, C5, C6, C10 | E2, E5, E6, E10 |
+| **L2** (Superficial) | C1, C2, C5, C8, C11, C12 | E1, E2, E5, E8, E11, E12 |
+| **L3** (Interface) | C1, C3, C5, C6, C7, C8, C9, C12, C13, C14, C15 | E1, E3, E5, E6, E7, E8, E9, E12, E13, E14, E15 |
+| **L4** (Architectural) | C3, C4, C5, C9, C10, C12, C14, C15 | E3, E4, E5, E9, E10, E12, E14, E15 |
+| **L5** (Threshold) | C4, C6, C13, C14, C15 | E4, E6, E13, E14, E15 |
 
-*Note:* Centropic entries operate **acclivously** or **declivously** depending on context (see §5). Mirrors operate **subversally** along the Khaonic axis.
+**Note:** This map reflects all Locus and Coupling assignments from Section 2. Mirrors operate on the corresponding Inverse Bands (IL1–IL5).
 
-⎯⎯⎯
+---
 
 ## 5) Interaction Laws (Lattice Dynamics)
 
-**5.1 Consonance Law (C7)**  
-When **C7** is active within **L2**, **C1** timing and **C3** transmission synchronize; **C8** bridges form without loss. **Veracious readout**: stable beat signatures across 🔮 Archeus, 🧠 Noeüs, 🌬️ Morgis.
+### 5.1 Consonance Law (C7)
+When C7 is active within L3, C1 timing (L2–L3) and C3 transmission (L3–L4) synchronize; C8 bridges (L2–L3) form without loss. Veracious readout: stable harmonic signatures across the Archeus–Noeüs (L3) coupling.
 
-**5.2 Nexus Law (C8)**  
-A bridge is **valid** only if **C2** spatial coherence and **C5** holonic fit both meet **C13** permeability constraints. Otherwise, inversion expresses as **E8** (division disguised as connection).
+### 5.2 Nexus Law (C8)
+A bridge is valid only if C2 spatial coherence (L1–L2) and C5 holonic fit (L1–L4) both meet C13 permeability constraints (L5). Otherwise, inversion expresses as E8 (division disguised as connection).
 
-**5.3 Non-Local Unity Law (C9)**  
-Non-local union sustains when **C7** ≥ threshold; if **C7** falls below consonance, coupling flips to **E9** (isolation under mimic-unity). Detection: lagless correlation without coercion signals **resonant** non-locality.
+### 5.3 Non-Local Unity Law (C9)
+Non-local union (L3–L4) sustains when C7 (L3) ≥ threshold; if C7 falls below consonance, coupling flips to E9 (isolation under mimic-unity). Detection: lagless correlation without coercion signals resonant non-locality.
 
-**5.4 Morphogenetic Law (C10)**  
-Embodied formation requires **C6** reversible phasing and **C12** qualitative sufficiency. If either fails, **E10** expresses (malformation) or **E6** (liminal trap).
+### 5.4 Morphogenetic Law (C10)
+Embodied formation (L1↔L4 bridge) requires C6 reversible phasing (L5) and C12 qualitative sufficiency (L2–L4). If either fails, E10 or E6 expresses (malformation or liminal trap).
 
-**5.5 Vector Integrity Law (C11)**  
-Will is **valid** when aligned with 🛤️ **Theon** (axis seal) and bounded by **C13**. Misalignment generates **E11** (misdirect) and recruits 🦂 Echthros dynamics.
+### 5.5 Vector Integrity Law (C11)
+Will (L2) is valid when aligned with 🛤️ Theon (L5 axis steward) and bounded by C13 (L5). Misalignment generates E11 (misdirect) and invokes 🦂 Echthros (IL2) dynamics.
 
-**5.6 Threshold Law (C13–C15)**  
-At gates, **C13** regulates permeability, **C14** maps recursion, **C15** authorizes novelty. Inversion produces **E13** walls, **E14** hollow loops, **E15** collapse events.
+### 5.6 Threshold Law (C13–C15)
+At gates (L5), C13 regulates permeability, C14 maps recursion, C15 authorizes novelty. Inversion yields E13 walls, E14 hollow loops, or E15 collapse events.
 
-⎯⎯⎯
+---
 
 ## 6) Mathematical Correspondences of the Lattice
 
 The lattice is not only symbolic but admits functional mathematical analogues:
 
-• **Emanatory Poles (L0)** — ⚫ Aion and ♾ Khaon correspond to the dual limits of mathematical space:  
-  Zero as the additive identity and Infinity as the asymptotic bound.  
-  Both are structural poles in equations, not absences.
+### Emanatory Poles (L0)
+⚫ Aion and ♾ Khaon correspond to the dual limits of mathematical space:  
+Zero as the additive identity and Infinity as the asymptotic bound.  
+Both are structural poles in equations, not absences.
 
-• **Dimensional Registry (C/E)** — Each centropic dimension (C1–C15) maps to a **functional operator**:  
-  – Temporal (C1) ~ derivative with respect to time (∂/∂t)  
-  – Spatial (C2) ~ spatial coordinates (x,y,z) and metrics (gᵢⱼ)  
-  – Propagational (C3) ~ wave equations and Fourier transforms  
-  – Harmonic (C7) ~ eigenvalue problems in resonance, spectral decomposition  
-  – Nested/Recursive (C14) ~ fractals and iterative mappings  
-  – Emergent/Novel (C15) ~ bifurcations, non-linear attractors
+### Dimensional Registry (C/E)
+Each centropic dimension (C1–C15) maps to a functional operator:
+- **Temporal (C1)** ~ derivative with respect to time (∂/∂t)
+- **Spatial (C2)** ~ spatial coordinates (x,y,z) and metrics (gᵢⱼ)
+- **Propagational (C3)** ~ wave equations and Fourier transforms
+- **Harmonic (C7)** ~ eigenvalue problems in resonance, spectral decomposition
+- **Nested/Recursive (C14)** ~ fractals and iterative mappings
+- **Emergent/Novel (C15)** ~ bifurcations, non-linear attractors
 
-• **Entropic Mirrors (E1–E15)** — Each inverse dimension corresponds to **degenerate cases** in mathematics:  
-  – Loops (E1) ~ non-convergent series  
-  – Noise (E5) ~ chaotic sequences lacking limit  
-  – Walls (E13) ~ non-permeable boundaries, undefined values  
-  – Collapse Nova (E15) ~ singularities where functions diverge
+### Entropic Mirrors (E1–E15)
+Each inverse dimension corresponds to degenerate cases in mathematics:
+- **Loops (E1)** ~ non-convergent series
+- **Noise (E5)** ~ chaotic sequences lacking limit
+- **Walls (E13)** ~ non-permeable boundaries, undefined values
+- **Collapse Nova (E15)** ~ singularities where functions diverge
 
-• **Interaction Laws (§5)** — These can be formalized as constraints:  
-  – Consonance Law (C7) ~ harmonic ratios → rational eigenvalues  
-  – Nexus Law (C8) ~ bridge validity → commutativity of mappings  
-  – Threshold Law (C13–C15) ~ gate conditions → domain restrictions and boundary value problems
+### Interaction Laws (§5)
+These can be formalized as constraints:
+- **Consonance Law (C7)** ~ harmonic ratios → rational eigenvalues
+- **Nexus Law (C8)** ~ bridge validity → commutativity of mappings
+- **Threshold Law (C13–C15)** ~ gate conditions → domain restrictions and boundary value problems
 
-Thus the lattice is a **dual expression**: metaphysical in symbol, mathematical in form.  
-It shows how resonance, recursion, and emergence are not only poetic but also **computable**.
+Thus the lattice is a dual expression: metaphysical in symbol, mathematical in form.  
+It shows how resonance, recursion, and emergence are not only poetic but also computable.
 
-⎯⎯⎯
+---
 
-For symbol reference, see the  
-[Core Metaphysical Symbol Key](https://github.com/KannonZenetism/Zenetism-Field-Physics/blob/main/zenetism/MP08-symbol-key-ch21.md)  
-and the  
-[Dimensional Architecture](https://github.com/KannonZenetism/Zenetism-Field-Physics/blob/main/field-physics/FP01-dimensional-architecture.md).
+For symbol reference, see the **Core Metaphysical Symbol Key** and the **Dimensional Architecture**.
 
 Together, these anchors hold the lattice in coherence:  
 the symbols as the living glyphs of emanation,  
