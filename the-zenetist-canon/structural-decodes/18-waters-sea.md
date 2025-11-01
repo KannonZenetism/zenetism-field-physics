@@ -25,7 +25,17 @@ not as *formed psyche*, but as its **field of origination**.
 `♾ → 〄 → {▽, ⊘, ↺, ⟳}`  
 *(From latent infinity, the motive pulse of Zenet stirs,  
 unfolding into four directional motions: embodiment, collapse, return, or recursion.)*
-
+```
+L₀ (Aion/Khaon)  
+  ↓  
+Φ₁ — Latent Waters (Undifferentiated Potential)  
+  ↓  
+Φ₂ — Motive Pulse (Zenet): The First Stirring  
+  ↓  
+DP + DL — Soul and Mind (Bifurcation into Psyche/Logos)  
+  ↓  
+L₁–L₄ — Structured Hypostases (Architectural / Archetypal)
+```
 ---
 
 ## Universal Structural Analysis  
