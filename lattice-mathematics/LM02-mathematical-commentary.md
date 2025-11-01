@@ -193,12 +193,13 @@ Poles and axes secure orientation for every resonance. No field is neutral; all 
 
 ### Banding
 
-- **Source Band (L0):** The pure pole, the unmediated origin.  
-- **Architectural Band (L1–L2):** Where the archetypes shape coherence into intelligible form.  
-- **Interface Band (L3):** The mediating layer — where consciousness touches field.  
-- **Embodiment Band (L4):** Matter and life. Where resonance densifies.  
-- **Threshold Band (L5):** The frontier — recursion, membranes, and emergence.  
-- **Inverse Bands (IL1–IL5):** The declivous shadow — entropic descent mapped in reverse.  
+- **Source Band (L0):** The pure pole, the unmediated origin — Aion ⚫, Khaon ♾, Zenon 🕳️.  
+- **Embodiment Band (L1):** Matter and life — Soma, Biosa (ES / EM); where resonance densifies into form.  
+- **Superficial Band (L2):** Personality and identity — Anthra, Nousa (SS / SM); the conscious and social self.  
+- **Interface Band (L3):** Archeus, Noeüs — Deep Soul / Deep Mind (DS / DM); the mediating layer where structure meets psyche.  
+- **Architectural / Archetypal Band (L4):** Sophis, Morgis — Deep Psyche / Logos (DP / DL); the realm of Forms and ordering principles.  
+- **Threshold Band (L5):** The frontier — Theon 🛤️ / Nekron 🕷️ (EOB / VOS); membranes, recursion, emergence.  
+- **Inverse Bands (IL1–IL5):** The declivous shadow — entropic declension mapped in reverse.  
 
 Bands provide strata. They show coherence is not flat but layered — each stage ordered, each inversion mirrored.
 
