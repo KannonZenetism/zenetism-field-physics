@@ -63,8 +63,7 @@ L₁–L₄ — Structured Hypostases (Architectural / Archetypal)
 
 - **The Separation of Waters (⚯ Structured Pairs):**  
   The **Waters Above** (*Supernal* — **DP / DL at L₄**) are divided from the **Waters Below** (*Embodied* — **ES / EM at L₁**).  
-  This marks the formation of the **Firmament (C₁₃ Membrane at L₅)** —  
-  the **threshold boundary** that structures the cosmos into **Archetypal** and **Embodied** domains.
+  This marks the formation of the **Firmament (C₁₃ Membrane — the boundary separating L₄ from the subjacent bands L₃–L₁)** — the threshold that structures the cosmos into Archetypal and Embodied domains.
 
   Between them lie the **Superficial (SS / SM at L₂)** and **Interface (DS / DM at L₃)** strata —  
   but the **primary bifurcation** is marked by **C₁₃**,  
@@ -136,9 +135,9 @@ L₁–L₄ — Structured Hypostases (Architectural / Archetypal)
 ### 4. Odysseus’ Voyage (Greek)  
 - **Focus:** Navigation of the Symbolic Psyche.  
 - **The Sea:** The **Collective Psyche (DP at L₄)** —  
-  refracting **declivously** through the **Interface (L₃)** and **Architectural (L₂)** layers,  
+  refracting **declivously** through the **Interface (L₃)** and **Superficial (L₂)** layers,  
   forming the symbolic ocean of **mythic archetypes and inner trials**  
-  through which the Self journeys toward coherence and return.  
+  through which the **Self journeys toward coherence and return.** 
   - **Scylla & Charybdis (⚯):** The dual inverse hazards of excess and deficiency.  
   - **Sirens (Skotos):** The deceptive call of illusory fulfillment.  
   - **Calypso (Psychea):** The stagnant paradise of forgetfulness.  
