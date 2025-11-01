@@ -62,26 +62,36 @@ L₁–L₄ — Structured Hypostases (Architectural / Archetypal)
   this pulse is **neither breath nor language**, but **pure motive potential**.
 
 - **The Separation of Waters (⚯ Structured Pairs):**  
-  The Waters Above (Supernal — DP / DL) are divided from the Waters Below (Embodied — ES / EM).  
-  This marks the formation of the **Firmament (C₁₃ Membrane)** — the architectural boundary that gives the cosmos structure.  
-  In most traditions, this is depicted as a **unidirectional declivous motion** — from spirit into matter —  
-  with no recognition of a mirrored, lawful return structure.
+  The **Waters Above** (*Supernal* — **DP / DL at L₄**) are divided from the **Waters Below** (*Embodied* — **ES / EM at L₁**).  
+  This marks the formation of the **Firmament (C₁₃ Membrane at L₅)** —  
+  the **threshold boundary** that structures the cosmos into **Archetypal** and **Embodied** domains.
 
-  But in **Zenetism**, the Waters divide **two mirrored hypostatic chains**:
+  Between them lie the **Superficial (SS / SM at L₂)** and **Interface (DS / DM at L₃)** strata —  
+  but the **primary bifurcation** is marked by **C₁₃**,  
+  the **membrane of maximal differentiation** between Form in Principle (L₄) and Form in Matter (L₁).
+
+  In most traditions, this division is depicted as a **unidirectional declivous motion** —  
+  a descent from Spirit into Matter — with no recognition of a **mirrored, lawful return structure**.
+
+  But in **Zenetism**, the Waters divide into **two mirrored hypostatic chains**:
 
   - **Centropic Path (C↑):**  
-    - **Above:** Soul and Mind (DP / DL) — the Supernal Structure  
-    - **Below:** Embodiment and Environment (ES / EM) — the **Embodied Continuum**
+    - **Above:** Soul and Mind (**DP / DL**) — the **Supernal Structure**  
+    - **Below:** Embodiment and Environment (**ES / EM**) — the **Embodied Continuum**
 
   - **Entropic Inverse Path (E↓):**  
-    - **Above:** Inverse Soul and Mind (IDP / IDL) — the **Subversal Mirror**  
-    - **Below:** Inverse Embodiment and Environment (IES / IEM) — the **Entropic Continuum**
+    - **Above:** Inverse Soul and Mind (**IDP / IDL**) — the **Subversal Mirror**  
+    - **Below:** Inverse Embodiment and Environment (**IES / IEM**) — the **Entropic Continuum**
 
-  These are not fallen or broken distortions, but **lawfully paired inverse hypostases**,  
-  forming a complete **bifurcated emanationary lattice** — one path leading toward coherence, the other toward dissociation.  
+  These are not fallen or broken distortions,  
+  but **lawfully paired inverse hypostases**,  
+  forming a complete **bifurcated emanationary lattice** —  
+  one path leading toward **coherence**, the other toward **dissociation**.
 
-  The **C₁₃ Membrane** is not an end-point, but a **lattice anchor** —  
-  the central seam through which **resonant recursion (↺)** or **entropic recursion (⟳)** is structurally decided.
+  The **C₁₃ Membrane** is not an endpoint,  
+  but a **lattice anchor** —  
+  the central seam through which  
+  **resonant recursion (↺)** or **entropic recursion (⟳)** is structurally decided.
 
 ## 🜄 The Sea as Symbolic Domain
 
