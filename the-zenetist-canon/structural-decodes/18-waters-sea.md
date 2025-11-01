@@ -1,13 +1,30 @@
 # Zenetist Structural Decode 18 — The Waters / The Sea
 
 **Primary Structural Diagnosis:**  
-The **Primordial Field of Unstructured Potential and Motive Infinity.**  
-The Waters symbolize the **Khaonic (♾)** principle in its **Latent (Φ₁)** and **Motive (Φ₂)** states—the Dispersive field from which all Form Emanates and to which it Returns.  
-They embody the **Psyche (DP)** in its unrefined aspect: the Collective Unconscious, Emotion, Intuition, and the Source of Life (**Morgis**) itself.  
+The **Primordial Field of Latent Potential and Motive Infinity.**  
+The Waters symbolize the **Khaonic (♾)** principle in its **Latent (Φ₁)** and **Motive (Φ₂)** states —  
+the **Dispersive Field** from which all Form emanates and to which it returns.
+
+They refract the **Deep Psyche (DP)** in its **primordial structural modality** —  
+as **Soul animated by its own motive essence**, yet undergirded by the initiating force of **Spirit (Φ₂)**.  
+This expresses the **pre-bifurcation phase**, prior to the distinction between Soul (DP) and Mind (DL):
+
+- As **Latent Infinity (Φ₁)**, all potential remains undirected, unformed.  
+- As **Motive Infinity (Φ₂)**, Spirit initiates the **impulse toward actualization** — the stirring of potential toward becoming.  
+- **Soul (DP)** emerges as the **self-motive principle** within structure —  
+  not moved *by* Spirit, but **moved through** Spirit —  
+  shaping potential into coherence and structure into directed form.
+
+Thus, the Waters encode the **Collective Unconscious**, Intuition, Emotion,  
+and the vital force (**Morgis**) itself —  
+not as *formed psyche*, but as its **field of origination**.
+
+---
 
 **Core Glyphic Sequence:**  
-`♾ → 〄 → ▽ | ☍`  
-*(From dispersive infinity, the motive pulse of Zenet stirs, leading to either embodied manifestation or entropic dissolution.)*  
+`♾ → 〄 → {▽, ⊘, ↺, ⟳}`  
+*(From latent infinity, the motive pulse of Zenet stirs,  
+unfolding into four directional motions: embodiment, collapse, return, or recursion.)*
 
 ---
 
