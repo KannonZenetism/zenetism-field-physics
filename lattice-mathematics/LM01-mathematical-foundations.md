@@ -141,11 +141,12 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 - Each entropic mirror inherits locus inversely with counter-couplings  
 
 ### D4. Inlay Map (Layers × Dimensions)
-- L1: C4, C2 ↔ E4  
-- L2: C1, C2, C3, C5, C7, C8, C9, C14 ↔ E1, E2, E3, E5, E7, E8, E9, E14  
-- L3: C1, C8, C11, C12 ↔ E1, E8, E11, E12  
-- L4: C10, C12, C5 ↔ E10, E12, E5  
-- L5: C6, C13, C14, C15 ↔ E6, E13, E14, E15  
+
+- **L1 (Embodiment Band):** C4, C2 ↔ E4  
+- **L2 (Superficial Band):** C1, C2, C3, C5, C7, C8, C9, C14 ↔ E1, E2, E3, E5, E7, E8, E9, E14  
+- **L3 (Interface Band):** C1, C8, C11, C12 ↔ E1, E8, E11, E12  
+- **L4 (Architectural / Archetypal Band):** C10, C12, C5 ↔ E10, E12, E5  
+- **L5 (Threshold Band):** C6, C13, C14, C15 ↔ E6, E13, E14, E15  
 
 ### D5. Interaction Laws
 - Consonance Law (C7)  
