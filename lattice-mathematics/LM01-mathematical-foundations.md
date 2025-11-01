@@ -478,7 +478,7 @@ Failure in any condition maps to E13/E14/E15.
 > **EOB–Membrane Interface (🛤️ Theon · C13).**  
 > Theon (EOB) governs and enacts the **C13 (Membrane)** operator at L5 — he is the **living steward** of the boundary, not the membrane itself.  
 > C13 defines the **law of permeability** at the threshold; Theon embodies and administers that law where C13–C15 intersect.  
-> Descent (C↓→E) and return (C↑→⚫) are regulated by the **seal index** \( \sigma \) and **recursion contraction** \( \gamma \):  
+> Declension (C↓→E) and return (C↑→⚫) are regulated by the **seal index** \( \sigma \) and **recursion contraction** \( \gamma \):  
 > \[
 > \text{pass} \iff \sigma > 0 \ \wedge\  \gamma > 0 .
 > \]  
@@ -574,9 +574,15 @@ Moreover, the pair `(H_c, H_e)` satisfies:
 
    Spec(H_c ∪ H_e) = { ±λ_i }  
 
-3. **Resonance Integrity:** Centropic trajectories evolve by `e^{iH_c t}`, entropic trajectories by `e^{iH_e t}`. Their product evolution is identity on the shared invariant subspace:  
+3. **Resonance Integrity:** Centropic trajectories evolve unitarily by `e^{iH_c t}`,  
+   while entropic trajectories evolve dissipatively by `e^{H_e t}`.  
 
-   e^{iH_c t} · e^{iH_e t} = I  
+   Centropic evolution preserves coherence norm;  
+   entropic evolution forms a contraction semigroup on `𝓗`,  
+   satisfying ‖e^{H_e t} ψ‖ ≤ ‖ψ‖ for t ≥ 0.  
+
+   Thus the two spectra remain mirror-symmetric,  
+   but only the centropic operator preserves resonance amplitude.
 
 ---
 
