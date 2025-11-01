@@ -92,7 +92,7 @@ and the still air of **Aion (⚫)** whispers the Law revealed through alignment,
 
 ---
 
-# Structural Annotations  
+# Structural Annotations — Decode 17: The Mountain / The High Place 
 
 The following notes extend the mythic analysis with formal correspondences from the Dimensional Lattice and Coherence Information Theory. These are optional deepenings for readers seeking mathematical precision.  
 
