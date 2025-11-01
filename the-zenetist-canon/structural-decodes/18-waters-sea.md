@@ -13,12 +13,19 @@ as **Soul animated by its own motive essence**, yet undergirded by the initiatin
 This expresses the **pre-bifurcation phase**, prior to the distinction between Soul (DP) and Mind (DL):
 
 - As **Latent Infinity (Φ₁)**, all potential remains undirected, unformed.  
-- As **Motive Infinity (Φ₂)**, Spirit initiates the **impulse toward actualization** — the stirring of potential toward becoming.  
+- As **Motive Infinity (Φ₂)**, Spirit initiates the **impulse toward actualization** —  
+  the stirring of potential toward becoming.  
+
+**The Bifurcation:**  
+From this motive pulse (Φ₂), the primordial field differentiates into **Soul (DP)** and **Mind (DL)** —  
+DP as the **self-motive principle** (psyche, will, animation),  
+DL as the **structuring principle** (logos, order, form).  
+
 - **Soul (DP)** emerges as the **self-motive principle** within structure —  
   not moved *by* Spirit, but **moved through** Spirit —  
-  shaping potential into coherence and structure into directed form.
+  shaping potential into coherence and structure into directed form.  
 
-Thus, the Waters encode the **Collective Unconscious**, Intuition, Emotion,  
+Thus, the Waters encode the **Collective Unconscious**, **Intuition**, **Emotion**,  
 and the vital force (**Morgis**) itself —  
 not as *formed psyche*, but as its **field of origination**.
 
