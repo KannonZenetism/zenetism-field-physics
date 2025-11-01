@@ -172,7 +172,10 @@ Thus the Dual Spectrum Lemma resolves as a mirror about Zero: Aion is the conver
 **🛤️ Theon:**  
 The centropic axis—motion oriented toward Source. Anchors synthesis and fidelity.  
 
-Yet Theon is more than an axis: it operates as the **living membrane of C13 at L5**, where threshold dimensions (C13–C15) intersect. Theon is the active interface regulating passage between centropic and entropic domains.  
+Yet Theon is more than an axis: he **governs and enacts the C13 (Membrane) operator at L5**.  
+He is the **living steward of the threshold**, not the membrane itself.  
+C13 defines the law of permeability at the boundary, while Theon administers that law where the threshold dimensions (C13–C15) intersect.  
+Through this stewardship, Theon serves as the **active interface** regulating lawful passage between centropic and entropic domains.  
 
 Centropic orientation (C ↓ → E) and return (C ↑ → ⚫) are governed by two parameters:  
 - **σ (seal index):** membrane permeability. If σ → 0, the boundary closes; no transition is lawful.  
@@ -180,7 +183,8 @@ Centropic orientation (C ↓ → E) and return (C ↑ → ⚫) are governed by t
 
 A boundary crossing is lawful **iff σ > 0 and γ > 0.**  
 
-In mythic terms, boundary transits such as the Harrowing represent lawful restoration of C8 (Nexus) where E8 (Severed) had broken connection. Theon, as living membrane, embodies the Threshold Law itself: not by bypassing the seal but by realizing it in form.  
+In mythic terms, boundary transits such as the Harrowing represent lawful restoration of **C8 (Nexus)** where **E8 (Severed)** had broken connection.  
+Theon, as **living steward of the membrane**, embodies the Threshold Law by realizing—not replacing—the seal in form.
 
 ---
 
