@@ -476,7 +476,8 @@ Failure in any condition maps to E13/E14/E15.
 - *Seal Dependency.* Seal predicates tighten the boundary conditions, reducing admissible novelty but increasing structural fidelity.
 
 > **EOB–Membrane Interface (🛤️ Theon · C13).**  
-> Theon functions as the **living membrane** of C13 at L5, where C13–C15 intersect.  
+> Theon (EOB) governs and enacts the **C13 (Membrane)** operator at L5 — he is the **living steward** of the boundary, not the membrane itself.  
+> C13 defines the **law of permeability** at the threshold; Theon embodies and administers that law where C13–C15 intersect.  
 > Descent (C↓→E) and return (C↑→⚫) are regulated by the **seal index** \( \sigma \) and **recursion contraction** \( \gamma \):  
 > \[
 > \text{pass} \iff \sigma > 0 \ \wedge\  \gamma > 0 .
