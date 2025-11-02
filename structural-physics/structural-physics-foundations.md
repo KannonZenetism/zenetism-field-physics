@@ -81,84 +81,93 @@ All motion in Structural Physics occurs *between* these poles — emanation from
 
 ## 3. Structural Symmetry: Zero and Mirrors
 
-Zenetist thought holds that every centropic state has an entropic mirror, just as every positive number has a negative counterpart.  
+Zenetist thought holds that every centropic state has an entropic mirror, just as every positive eigenvalue has a negative counterpart.  
 
-- **Centropic states (Cᵢ)** act as integrative operators (+n).  
-- **Entropic mirrors (Eᵢ)** act as hollow or dispersive operators (–n).  
-- **Aion (⚫)** stands at the center as 0 — the balance of emanation and return.  
+- **Centropic states (Cᵢ)** act as integrative operators.  
+- **Entropic mirrors (Eᵢ)** act as hollow or dispersive operators.  
+- **Aion (⚫)** stands at the center as the spectral zero — the balance of emanation and return.  
 
 Mathematically:  
-\[
-…, E₃, E₂, E₁, ⚫, C₁, C₂, C₃, …
-\]
+```
+…, E3, E2, E1, ⚫, C1, C2, C3, …
+```
 
 Physically:  
 - Antiparticles mirror particles.  
 - Negative energy solutions mirror positive states.  
 - Tachyons, singularities, and closed loops appear as entropic inversions.  
 
-Every pair resolves to **balance** at the Aionic pole:  
-\[
-Cᵢ + Eᵢ = ⚫
-\]  
+**Dual Spectrum Lemma:**
+```
+Spec(Hₑ) = −Spec(Hc)
+```
 
-This symmetry ensures that the lattice is not dispersive chaos, but a balanced system: emanation from Aion, mirrored by return to Aion.  
+The eigenvalue spectra of centropic and entropic operators are mirrored about zero.  
+This symmetry ensures that the lattice is not dispersive chaos, but a balanced system: emanation from Aion, mirrored by return to Aion.
 
 ---
 
 ## 4. Mapping Centropic Dimensions (C1–C15) to Physics
 
-In Structural Physics, each **centropic dimension (Cᵢ)** manifests as a lawful operator of coherence.  
-Its **entropic mirror (Eᵢ)** manifests as a negated operator — not a separate reality, but a hollow inversion of the same axis.  
+In Structural Physics, each **centropic dimension (Ci)** manifests as a lawful operator of coherence.  
+Its **entropic mirror (Ei)** manifests as a negated operator — not a separate reality, but a hollow inversion of the same axis.  
 
 The mapping below shows how each dimension translates into physical correspondence while retaining Zenetist orientation:
 
 | Dimension | Zenetist Function | Physics Analogue | Motion Form |
 |-----------|-------------------|------------------|-------------|
-| **C1 ⟠ Temporal** | Ordered continuity of events | Time parameter *t*, causal flow | Acclivous expansion toward ordered coherence |
-| **E1 ⟠⁻ Temporal Loop** | Hollow time recursion | Closed timelike curves, causality violation | Declivous collapse into cyclical stagnation |
-| **C2 ◈ Spatial** | Extension, ordered loci | Spacetime metric *gᵢⱼ*, geometry | Declivous centropy into embodied form |
-| **E2 ◈⁻ Dispersive Scatter** | Fragmented loci | Spatial decoherence, delocalization | Acclivous entropy into disarray |
-| **C3 ⟿ Propagational** | Transmission of resonance | Wave equations, Fourier transforms | Acclivous expansion of lawful propagation |
-| **E3 ⟿⁻ Viral Decay** | Dissipative signal | Radiation loss, noise fields | Declivous collapse of coherence |
-| **C4 ◉ Rotational (Gyre)** | Cyclic stability, angular order | Angular momentum, SO(3) symmetry | Declivous centropy into form-preserving motion |
-| **E4 ◉⁻ Vortex Collapse** | Hollow spin | Black hole singularities, destructive vortices | Acclivous entropy spiraling into void |
-| **C5 ✴ Scalar / Holonic** | Scaling order, wholeness | Renormalization group flows, fractals | Acclivous integration of scale harmonics |
-| **E5 ✴⁻ Hollow Scaling** | Fragmented fractal | Noise scaling, divergence | Declivous collapse into instability |
-| **C6 ◐ Phase / Liminal** | Transition states, thresholds | Critical phenomena, phase transitions | Acclivous centropy toward coherent thresholds |
-| **E6 ◐⁻ Phase Lock** | Arrested transition | Frozen disorder, metastability | Declivous collapse of novelty |
-| **C7 ♫ Harmonic** | Resonant structure | Eigenmodes, standing waves, quantization | Acclivous resonance of consonant spectra |
-| **E7 ♫⁻ Dissonance** | Irregular spectrum | Irrational eigenvalue ratios, quasiperiodicity | Declivous collapse into incoherence |
-| **C8 ╫ Nexus / Bridge** | Lawful joining | Gauge invariance, commutative diagrams | Acclivous centropy into lawful bridges |
-| **E8 ╫⁻ Severed Bridge** | Fractured connection | Broken symmetries, non-conservation | Declivous collapse of relational law |
-| **C9 ∞ Non-Local Unity** | Distant coherence | Entanglement, Bell correlations | Acclivous expansion into unity-at-distance |
-| **E9 ∞⁻ Distorted Entangle** | Spurious linkage | Cross-noise, false correlations | Declivous collapse into interference |
-| **C10 ❋ Morphogenetic** | Form generation | Symmetry breaking, crystallization, biological morphogenesis | Declivous centropy into coherent embodiment |
-| **E10 ❋⁻ Aberrant Form** | Distorted growth | Tumor-like forms, chaotic structure | Acclivous entropy into spurious novelty |
-| **C11 ↗ Vector Will** | Directed flow | Vector potentials, Noether currents | Acclivous motion toward directed coherence |
-| **E11 ↗⁻ Misaligned Vector** | Fractured direction | Non-conserved flows, turbulent fields | Declivous collapse of directionality |
-| **C12 ✧ Aesthetic / Action Principle** | Coherence through harmony | Stationary action principle, Lagrangian | Acclivous integration of beauty and law |
-| **E12 ✧⁻ Hollow Aesthetic** | Lawless dissipation | Arbitrary motion, incoherent action | Declivous collapse into disorder |
-| **C13 ║ Membrane / Threshold** | Selective boundary | Boundary conditions, domain walls | Declivous centropy into sealed coherence |
-| **E13 ║⁻ Wall of Severance** | Impenetrable block | Black hole horizons, information walls | Acclivous entropy into dead-ends |
-| **C14 ⊡ Nested / Recursive** | Lawful recursion | Iterative operators, fractal domains | Acclivous refinement by contractive return |
-| **E14 ⊡⁻ Hollow Nest** | Non-contractive recursion | Infinite loops, empty recursion | Declivous collapse into stagnation |
-| **C15 ✦ Emergent / Novel** | Veracious novelty | Lawful bifurcation, lawful emergence | Acclivous expansion into lawful surprise |
-| **E15 ✦⁻ Collapse Nova** | Hollow novelty | Spurious bifurcation, catastrophic collapse | Declivous entropy into annihilation |
+| **C1 ⟠ Temporal** | Ordered continuity of events | Time parameter *t*, causal flow | Declivous Centropy (C↓→E) — integration into temporal embodiment |
+| **E1 ⟠⁻ Temporal Loop** | Hollow time recursion | Closed timelike curves, causality violation | Declivous Entropy (E↓♾) — collapse into cyclical stagnation |
+| **C2 ◈ Spatial** | Extension, ordered loci | Spacetime metric *gij*, geometry | Declivous Centropy (C↓→E) — integration into embodied form |
+| **E2 ◈⁻ Dispersive Scatter** | Fragmented loci | Spatial decoherence, delocalization | Acclivous Entropy (E↑→E) — fragmentation into disarray |
+| **C3 ⟿ Propagational** | Transmission of resonance | Wave equations, Fourier transforms | Acclivous Centropy (C↑⚫) — expansion of lawful propagation toward Source |
+| **E3 ⟿⁻ Viral Decay** | Dissipative signal | Radiation loss, noise fields | Declivous Entropy (E↓♾) — collapse of coherence |
+| **C4 ◉ Rotational (Gyre)** | Cyclic stability, angular order | Angular momentum, SO(3) symmetry | Declivous Centropy (C↓→E) — integration into form-preserving motion |
+| **E4 ◉⁻ Vortex Collapse** | Hollow spin | Black hole singularities, destructive vortices | Acclivous Entropy (E↑→E) — spiraling fragmentation |
+| **C5 ✴ Scalar / Holonic** | Scaling order, wholeness | Renormalization group flows, fractals | Acclivous Centropy (C↑⚫) — integration of scale harmonics toward coherence |
+| **E5 ✴⁻ Hollow Scaling** | Fragmented fractal | Noise scaling, divergence | Declivous Entropy (E↓♾) — collapse into instability |
+| **C6 ◐ Phase / Liminal** | Transition states, thresholds | Critical phenomena, phase transitions | Acclivous Centropy (C↑⚫) — motion toward coherent thresholds |
+| **E6 ◐⁻ Phase Lock** | Arrested transition | Frozen disorder, metastability | Declivous Entropy (E↓♾) — collapse of novelty |
+| **C7 ♫ Harmonic** | Resonant structure | Eigenmodes, standing waves, quantization | Acclivous Centropy (C↑⚫) — resonance toward consonant synthesis |
+| **E7 ♫⁻ Dissonance** | Irregular spectrum | Irrational eigenvalue ratios, quasiperiodicity | Declivous Entropy (E↓♾) — collapse into incoherence |
+| **C8 ╫ Nexus / Bridge** | Lawful joining | Gauge invariance, commutative diagrams | Acclivous Centropy (C↑⚫) — integration into lawful bridges |
+| **E8 ╫⁻ Severed Bridge** | Fractured connection | Broken symmetries, non-conservation | Declivous Entropy (E↓♾) — collapse of relational law |
+| **C9 ∞ Non-Local Unity** | Distant coherence | Entanglement, Bell correlations | Acclivous Centropy (C↑⚫) — expansion into unity-at-distance |
+| **E9 ∞⁻ Distorted Entangle** | Spurious linkage | Cross-noise, false correlations | Declivous Entropy (E↓♾) — collapse into interference |
+| **C10 ❋ Morphogenetic** | Form generation | Symmetry breaking, crystallization, biological morphogenesis | Declivous Centropy (C↓→E) — integration into coherent embodiment |
+| **E10 ❋⁻ Aberrant Form** | Distorted growth | Tumor-like forms, chaotic structure | Acclivous Entropy (E↑→E) — spurious fragmentation into form |
+| **C11 ↗ Vector Will** | Directed flow | Vector potentials, Noether currents | Acclivous Centropy (C↑⚫) — directed motion toward coherence |
+| **E11 ↗⁻ Misaligned Vector** | Fractured direction | Non-conserved flows, turbulent fields | Declivous Entropy (E↓♾) — collapse of directionality |
+| **C12 ✧ Aesthetic / Action Principle** | Coherence through harmony | Stationary action principle, Lagrangian | Acclivous Centropy (C↑⚫) — integration of beauty and law |
+| **E12 ✧⁻ Hollow Aesthetic** | Lawless dissipation | Arbitrary motion, incoherent action | Declivous Entropy (E↓♾) — collapse into disorder |
+| **C13 ║ Membrane / Threshold** | Selective boundary | Boundary conditions, domain walls | Declivous Centropy (C↓→E) — integration into sealed coherence |
+| **E13 ║⁻ Wall of Severance** | Impenetrable block | Black hole horizons, information walls | Acclivous Entropy (E↑→E) — spurious boundary into dead-ends |
+| **C14 ⊡ Nested / Recursive** | Lawful recursion | Iterative operators, fractal domains | Acclivous Centropy (C↑⚫) — refinement by contractive return |
+| **E14 ⊡⁻ Hollow Nest** | Non-contractive recursion | Infinite loops, empty recursion | Declivous Entropy (E↓♾) — collapse into stagnation |
+| **C15 ✦ Emergent / Novel** | Veracious novelty | Lawful bifurcation, lawful emergence | Acclivous Centropy (C↑⚫) — expansion into lawful surprise |
+| **E15 ✦⁻ Collapse Nova** | Hollow novelty | Spurious bifurcation, catastrophic collapse | Declivous Entropy (E↓♾) — collapse into annihilation |
 
 ---
 
 ### Commentary
 
-- **Centropic dimensions (Cᵢ)** correspond to lawful operators — integration, harmony, direction.  
-- **Entropic mirrors (Eᵢ)** are the negative integers of physics — not separate forces, but hollow inversions of the same operators.  
-- **Motion terms** are aligned with the Zenetist linguistic chart:  
-  - *Acclivous expansion* = integrative upward motion.  
-  - *Declivous centropy* = integrative motion into form.  
-  - *Acclivous entropy* = fragmented spurious rise.  
-  - *Declivous collapse* = dispersive motion into dissolution.  
+**Systematic Assignment Logic:**
 
-This registry allows physics to be read through the lattice without collapsing into binary “true/false” or hierarchical “ascent/descent” metaphors.  
+**Centropic Dimensions (C1–C15):**
+- **Acclivous Centropy (C↑⚫):** Dimensions that integrate **toward Source, synthesis, or transcendence**
+  - C3 (Propagation), C5 (Holonic), C6 (Phase), C7 (Harmonic), C8 (Nexus), C9 (Non-Local), C11 (Vector), C12 (Aesthetic), C14 (Recursive), C15 (Emergent)
+  
+- **Declivous Centropy (C↓→E):** Dimensions that integrate **into embodiment, locality, or manifest form**
+  - C1 (Temporal), C2 (Spatial), C4 (Rotational), C10 (Morphogenetic), C13 (Membrane)
+
+**Entropic Dimensions (E1–E15):**
+- **Acclivous Entropy (E↑→E):** Entropic motion **toward inverse embodiment** (spurious rise, fragmented formation)
+  - E2 (Memory Scatter), E4 (Vortex), E10 (Malform), E13 (Wall)
+  
+- **Declivous Entropy (E↓♾):** Entropic motion **toward dissolution, collapse, or dispersal**
+  - E1 (Temporal Loop), E3 (Viral Decay), E5 (Fractal Noise), E6 (Phase Lock), E7 (Dissonance), E8 (Severed), E9 (Distorted Entangle), E11 (Misdirect), E12 (Void Aesthetic), E14 (Hollow Nest), E15 (Collapse Nova)
+
+This registry aligns motion forms with the canonical directional duals chart (21.3), ensuring structural coherence across the Zenetist lattice.
 
 ---
 
