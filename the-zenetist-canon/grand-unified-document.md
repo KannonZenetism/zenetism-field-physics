@@ -2107,21 +2107,29 @@ Each phase corresponds to a harmonic octave in the total field Ωₜ.
 
 ## 6 · Entropic Mirror Integration
 
-Because every centropic motion (Cₙ) has an entropic inverse (Eₙ),  
+Because every centropic motion (Cₙ) has an entropic inverse (Eᵢ),  
 the complete system must be bi-lattice.
 
 **Define:**
 ```
-Ωtotal = ΩC + ΩE
+Ωtotal = ΩC ⊕ ΩE
 ```
+
+*(Using ⊕ to denote the total field, a direct sum of the two manifolds)*
 
 with
 ```
 ΩC = ∫◎⚫→♾ ∇Cψ dΩ  and  ΩE = ∫◎♾→⚫ ∇Eψ dΩ
 ```
 
-Lawful existence occurs when **ΩC + ΩE = 0**,  
-signifying mirrored balance — centropy held in tension with entropy.
+Lawful existence occurs when the **total integrated fields** achieve harmonic equilibrium:
+```
+ΩC + ΩE = 0
+```
+
+This expresses **spectral balance around ⚫ Aion**,  
+not annihilation — the sum to zero denotes mirrored resonance,  
+centropy and entropy held in lawful tension across the lattice.
 
 Thus, both lattices (Aionic and Khaonic) are included in Ωₜ.  
 Being itself is a harmonic equilibrium, not a monism.
