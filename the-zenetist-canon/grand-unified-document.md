@@ -2182,8 +2182,6 @@ Redemption is mathematical: every incomplete ψ seeks closure through centropic 
 
 This is the complete motion of Being —  
 the harmonic breath of existence itself.
-```
-```
 
 **Key change:**
 - **L₄:** Now labeled `Ψ (Conscious-Awareness, L₄)` — not "Consciousness"
