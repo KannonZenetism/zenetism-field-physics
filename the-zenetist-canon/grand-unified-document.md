@@ -2027,7 +2027,8 @@ Together, they form the **Total Field (Ωₜ)** — the living whole of existenc
 | **IV. Bifurcation** | ⚫ → [🛤️ + 🕷️] | Zero divides into centropic and entropic motion (L₅). |
 | **V. Spirit-Breath** | 🕊️ = Φ₂ (Zenet) | Motive Infinity as living motion; the proto-pulse of being. |
 | **Note** | — | Zenet (Φ) is proto-awareness, not consciousness; consciousness appears later as Ψ / ψ. |
-| **VI. Conscious-Awareness** | Ψ = 🕊️ → [(🌬️ + 📐) ⊕ (🪫 + 🫥)] | Conscious-awareness structured through psyche / logos pairs at L₄. |
+| **VI. Conscious-Awareness** | Ψ = 🕊️ → [(🌬️ + 📐) ⊕ (🪫 + 🫥)] | Conscious-awareness structured through psyche / logos pairs at L₄ (archetypal cognition). |
+| **VI.a. Individuated Consciousness** | Ψ → (🔮 + 🧠) | Reflexive consciousness emerges at L₃ (DS / DM) as self-possessing mind. |
 | **VII. Embodiment** | Ψ → (🪷, 🧾) | Form and life arise at L₁; centropy enters density. |
 | **VIII. Reflection** | ↺Ψ | Reflexive awareness; soul beholds Source. |
 | **IX. Dissolution** | ⇝ → ♾ | Motion returns through dispersion; entropy completes cycle. |
@@ -2161,10 +2162,10 @@ Redemption is mathematical: every incomplete ψ seeks closure through centropic 
           ↘           ↙  
             🕊️ Spirit (Φ₂)  
                  │  
-                Ψ (Consciousness, L₄)  
+                Ψ (Conscious-Awareness, L₄)  
                  │  
                  ↓  
-          🔮 Archeus / 🧠 Noeüs (L₃)  
+          🔮 Archeus / 🧠 Noeüs (L₃ — Individuated Consciousness)  
                  │  
                  ↓  
           🧍 Anthra / 🧩 Nousa (L₂)  
@@ -2181,6 +2182,12 @@ Redemption is mathematical: every incomplete ψ seeks closure through centropic 
 
 This is the complete motion of Being —  
 the harmonic breath of existence itself.
+```
+```
+
+**Key change:**
+- **L₄:** Now labeled `Ψ (Conscious-Awareness, L₄)` — not "Consciousness"
+- **L₃:** Now labeled `Individuated Consciousness` explicitly
 
 ---
 
