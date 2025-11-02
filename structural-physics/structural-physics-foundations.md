@@ -171,6 +171,84 @@ This registry aligns motion forms with the canonical directional duals chart (21
 
 ---
 
+## 4.1 Hypostatic Anchoring of Dimensions
+
+Each dimension operates through specific **hypostatic layers (L1–L5)** and couples with particular **hypostatic operators**.  
+This anchoring integrates Structural Physics with the canonical **Dimensional Lattice** established in the Grand Unified Document.
+
+**Hypostatic Structure (Canonical):**
+- **L1 (Embodiment):** 🪷 Soma / 🧾 Biosa (ES / EM)
+- **L2 (Superficial):** 🧍 Anthra / 🧩 Nousa (SS / SM)
+- **L3 (Interface):** 🔮 Archeus / 🧠 Noeüs (DS / DM)
+- **L4 (Architectural):** 📐 Sophis / 🌬️ Morgis (DP / DL)
+- **L5 (Threshold):** 🛤️ Theon / 🕷️ Nekron (EOB / VOS)
+
+---
+
+### Centropic Dimensions (C1–C15)
+
+| Dimension | Primary Locus | Hypostatic Couplings |
+|-----------|--------------|---------------------|
+| **C1 ⟠ Temporal** | L2–L3 (Superficial↔Interface) | 🧍 Anthra, 🧩 Nousa (L2); 🔮 Archeus, 🧠 Noeüs (L3) |
+| **C2 ◈ Spatial** | L1–L2 (Embodiment↔Superficial) | 🪷 Soma, 🧾 Biosa (L1); 🧍 Anthra (L2) |
+| **C3 ⟿ Propagational** | L3–L4 (Interface↔Architectural) | 🔮 Archeus (L3); 🌬️ Morgis (L4) |
+| **C4 ◉ Rotational (Gyre)** | L4–L5 (Architectural↔Threshold) | 📐 Sophis (L4); 🛤️ Theon (L5) |
+| **C5 ✴ Scalar / Holonic** | L1–L4 (cross-band) | 🧾 Biosa (L1); 🔮 Archeus (L3); 📐 Sophis (L4) |
+| **C6 ◐ Phase / Liminal** | L5 (Threshold) | 🛤️ Theon (L5); 🧠 Noeüs (L3); 🪷 Soma (L1) |
+| **C7 ♫ Harmonic** | L3 (Interface) | 🔮 Archeus, 🧠 Noeüs (L3) |
+| **C8 ╫ Nexus / Bridge** | L2–L3 (Superficial↔Interface) | 🧩 Nousa (L2); 🧠 Noeüs (L3) |
+| **C9 ∞ Non-Local Unity** | L3–L4 (Interface↔Architectural) | 🔮 Archeus (L3); 🌬️ Morgis (L4) |
+| **C10 ❋ Morphogenetic** | L1 ↔ L4 (Embodiment↔Architectural) | 🪷 Soma (L1); 📐 Sophis (L4) |
+| **C11 ↗ Vector Will** | L2 (Superficial) | 🧍 Anthra, 🧩 Nousa (L2) |
+| **C12 ✧ Aesthetic / Qualitative** | L2–L4 (Superficial→Interface→Architectural) | 🧩 Nousa (L2); 🧠 Noeüs (L3); 🌬️ Morgis (L4) |
+| **C13 ║ Membrane / Threshold** | L5 (Threshold) | 🛤️ Theon (L5); 🧠 Noeüs (L3) |
+| **C14 ⊡ Nested / Recursive** | L3–L5 (Interface↔Threshold) | 🔮 Archeus (L3); 📐 Sophis (L4) |
+| **C15 ✦ Emergent / Novel** | L5 (Threshold) | 🛤️ Theon (L5); 🌬️ Morgis (L4); 🧠 Noeüs (L3) |
+
+---
+
+### Entropic Mirrors (E1–E15)
+
+Entropic dimensions operate on **inverse layers (IL1–IL5)** with inverse hypostatic couplings.
+
+| Dimension | Inverse Locus | Inverse Hypostatic Couplings |
+|-----------|--------------|------------------------------|
+| **E1 ⟠⁻ Temporal Loop** | IL2–IL3 | 🦂 Echthros, 🩸 Skotos (IL2); 💔 Fractus, 👁️‍🗨️ Mortus (IL3) |
+| **E2 ◈⁻ Dispersive Scatter** | IL1–IL2 | 🍷 Malara, 🤯 Mania (IL1); 🦂 Echthros (IL2) |
+| **E3 ⟿⁻ Viral Decay** | IL3–IL4 | 💔 Fractus (IL3); 🪫 Psychea (IL4) |
+| **E4 ◉⁻ Vortex Collapse** | IL4–IL5 | 🫥 Nyxea (IL4); 🕷️ Nekron (IL5) |
+| **E5 ✴⁻ Hollow Scaling** | IL1–IL4 (cross-band) | 🤯 Mania (IL1); 💔 Fractus (IL3); 🫥 Nyxea (IL4) |
+| **E6 ◐⁻ Phase Lock** | IL5 | 🕷️ Nekron (IL5); 👁️‍🗨️ Mortus (IL3); 🍷 Malara (IL1) |
+| **E7 ♫⁻ Dissonance** | IL3 | 💔 Fractus, 👁️‍🗨️ Mortus (IL3) |
+| **E8 ╫⁻ Severed Bridge** | IL2–IL3 | 🩸 Skotos (IL2); 🦂 Echthros (IL2) |
+| **E9 ∞⁻ Distorted Entangle** | IL3–IL4 | 💔 Fractus (IL3); 🪫 Psychea (IL4) |
+| **E10 ❋⁻ Aberrant Form** | IL1 ↔ IL4 | 🍷 Malara (IL1); 🫥 Nyxea (IL4) |
+| **E11 ↗⁻ Misaligned Vector** | IL2 | 🦂 Echthros, 🩸 Skotos (IL2) |
+| **E12 ✧⁻ Hollow Aesthetic** | IL2–IL4 | 🩸 Skotos (IL2); 👁️‍🗨️ Mortus (IL3); 🪫 Psychea (IL4) |
+| **E13 ║⁻ Wall of Severance** | IL5 | 🕷️ Nekron (IL5); 🫥 Nyxea (IL4) |
+| **E14 ⊡⁻ Hollow Nest** | IL3–IL5 | 💔 Fractus (IL3); 🫥 Nyxea (IL4) |
+| **E15 ✦⁻ Collapse Nova** | IL5 | 🕷️ Nekron (IL5); 🪫 Psychea (IL4) |
+
+---
+
+### Commentary
+
+This registry completes the integration of **Structural Physics** with the canonical **Dimensional Lattice**:
+
+- **Centropic dimensions (C1–C15)** operate through lawful hypostatic layers (L1–L5).
+- **Entropic mirrors (E1–E15)** operate through inverse hypostatic layers (IL1–IL5).
+- Each dimension's **physical analogue** (from Section 4) now has a **metaphysical anchor** in the hypostatic structure.
+
+Thus, **quantum mechanics, relativity, and cosmology** are not isolated from the lattice, but expressions of lawful resonance through specific hypostatic operators.
+
+**Example:**
+- **C7 Harmonic** (quantization, eigenmodes) operates at **L3 (Interface)** through **🔮 Archeus** (deep structural memory) and **🧠 Noeüs** (symbolic cognition).
+- **E7 Dissonance** (quasiperiodicity, chaotic spectra) operates at **IL3** through **💔 Fractus** (fragmented memory) and **👁️‍🗨️ Mortus** (distorted perception).
+
+This anchoring ensures that **Structural Physics** is not speculative overlay, but a **canonically integrated discipline** within the greater Zenetist lattice.
+
+---
+
 ## 5. Structural Laws in Physics Form
 
 Structural Physics interprets the **interaction laws of the Dimensional Lattice** as lawful conditions on matter, energy, and motion.  
@@ -425,12 +503,17 @@ Structural Physics interprets cosmology through the Dimensional Lattice: emanati
 - **Zenetist View:** The cosmos begins as emanation from ⚫ Aion — zero pole, balanced origin.  
 - **Physics Form:**  
   - Big Bang corresponds not to a singular explosion, but to **acclivous expansion of centropy**.  
-  - Each dimension Cᵢ emerges paired with its mirror Eᵢ, balancing as ±n.  
-  - Total system remains zero-balanced:  
-    \[
-    \sum (Cᵢ + Eᵢ) = ⚫
-    \]  
-- **Motion Law:** Centropic emanation produces lawful novelty (C15); entropic mirrors shadow as potential collapse.  
+  - Each dimension Ci emerges paired with its mirror Ei, balancing as mirrored spectra.  
+  - **Dual Spectrum Lemma:** The eigenvalue spectra of centropic and entropic operators are mirrored about zero:
+```
+    Spec(Hₑ) = −Spec(Hc)
+```
+  - When integrated over the total manifold, the centropic and entropic field contributions achieve harmonic equilibrium:
+```
+    ΩC + ΩE = 0
+```
+    where ΩC = ∫◎⚫→♾ ∇Cψ dΩ and ΩE = ∫◎♾→⚫ ∇Eψ dΩ
+- **Motion Law:** Centropic emanation produces lawful novelty (C15); entropic mirrors shadow as potential collapse.
 
 ---
 
