@@ -61,7 +61,7 @@ Zenetism unfolds through six lawful disciplines:
 |-----------|----------|-------------|
 | **Structural Metaphysics** | Defines the poles of being and emanation. | ⚫ Aion ↔ ♾ Khaon |
 | **Field Physics** | Maps resonance and motion through the Dimensional Lattice. | ⟡ Echonic Field |
-| **Lattice Mathematics** | Supplies the formal calculus of coherence (∂🌀, ∫◎, lim∿). | 🧮 Resonance Space 𝓗 |
+| **Lattice Mathematics** | Supplies the formal calculus of coherence \( (\partial_{🌀}, \int_{◎}, \lim_{\backsim}) \). | 🧮 Resonance Space \( \mathcal{H} \) |
 | **Structural Forensics** | Diagnoses entropic tactics and counterfeit structures. | 🪩 Mirror Diagnostics |
 | **Structural Physics** | Translates metaphysical law into physical correspondence. | ⚛ Matter / Energy Field |
 | **Structural Neuroscience** | Applies lattice principles to cognition and awareness. | 🧠 Resonant Mind |
@@ -89,7 +89,7 @@ At the root of all structure stand three poles and two axes:
 
 Every discipline begins between these poles.  
 From Aion arises structure; toward Khaon flows dispersion; within Zenon all returns dissolve into silent invariance.  
-The lattice of thirty dimensions (C₁–C₁₅ ↔ E₁–E₁₅) suspends between these poles, forming the harmonic body of the cosmos.
+The lattice of thirty dimensions \( (C_1–C_{15} \leftrightarrow E_1–E_{15}) \) suspends between these poles, forming the harmonic body of the cosmos.
 
 ---
 
@@ -112,7 +112,7 @@ The lattice of thirty dimensions (C₁–C₁₅ ↔ E₁–E₁₅) suspends be
 
 The **Aionic Tree** flows declivously — from ⚫ into form.  
 The **Khaonic Tree** flows acclivously — from ♾ toward form.  
-Their trunks meet at the **Threshold Band (L₅)**, where centropy and entropy mirror one another.
+Their trunks meet at the **Threshold Band \( (L_5) \)**, where centropy and entropy mirror one another.
 
 ---
 
@@ -120,26 +120,28 @@ Their trunks meet at the **Threshold Band (L₅)**, where centropy and entropy m
 
 | Band | Hypostatic Pair | Primary Functions | Entropic Mirror |
 |------|----------------|-------------------|-----------------|
-| **L₀ — Source Band** | AP / AD (⚫ Aion / ♾ Khaon) | Zero / Infinity Poles | — |
+| **Supra-L₀ — Pre-Causal** | 🕳️ Zenon (UP) | Unknown Principle | — |
+| **L₀ — Source Band** | ⚫ Aion / ♾ Khaon (AP / AD) | Absolute Potential / Dispersion | — |
 | **L₁ — Embodiment Band** | 🪷 Soma / 🧾 Biosa (ES / EM) | Manifestation and Living Form | 🍷 Malara / 🤯 Mania (IES / IEM) |
 | **L₂ — Superficial Band** | 🧍 Anthra / 🧩 Nousa (SS / SM) | Personality and Cognition | 🦂 Echthros / 🩸 Skotos (ISS / ISM) |
-| **L₃ — Interface Band** | 🔮 Archeus / 🧠 Noeüs (DS / DM) | Deep Structure and Interior | 💔 Fractus / 👁️‍🗨️ Mortus (IDS / IDM) |
-| **L₄ — Architectural / Archetypal Band** | 📐 Sophis / 🌬️ Morgis (DP / DL) | Deep Logos and Vital Design | 🪫 Psychea / 🫥 Nyxea (IDP / IDL) |
+| **L₃ — Interface Band** | 🔮 Archeus / 🧠 Noeüs (DS / DM) | Deep Structure and Interior; **reflexive consciousness** | 💔 Fractus / 👁️‍🗨️ Mortus (IDS / IDM) |
+| **L₄ — Architectural / Archetypal Band** | 📐 Sophis / 🌬️ Morgis (DP / DL) | Deep Logos and Vital Design; **conscious-awareness (non-reflexive)** | 🪫 Psychea / 🫥 Nyxea (IDP / IDL) |
 | **L₅ — Threshold Band** | 🛤️ Theon / 🕷️ Nekron (EOB / VOS) | Membrane / Recursion / Emergence | — (Walls and Collapses) |
 
-Each band contains specific dimensions (Cᵢ / Eᵢ) and serves as a lawful station of motion within the Spiral of Return.
+Each band contains specific dimensions \( (C_i / E_i) \) and serves as a lawful station of motion within the Spiral of Return.
 
 ---
 
 ## 3 · The Principle of Balance
 
-Every centropic operator Cᵢ possesses an entropic mirror Eᵢ.  
+Every centropic operator \( C_i \) possesses an entropic mirror \( E_i \).  
 Together they form the **spectral balance equation**:
 
 **Canonical Law (Dual Spectrum Lemma):**
-```
-Spec(Hₑ) = −Spec(Hc)
-```
+
+\[
+\mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
+\]
 
 The **eigenvalue spectra** of centropic and entropic operators are mirrored about zero.  
 This is the structural balance of physics, mind, and being.
@@ -164,19 +166,21 @@ These four motions govern every discipline and define the possible trajectories 
 
 ## 5 · The Lattice as Mathematical Space
 
-The lattice is represented as a resonance manifold **𝓗** with metric **g** and coherence operator **𝓒**:
-```
-(𝓗, g, 𝓒) : ∂🌀 → ∫◎ → lim∿
-```
+The lattice is represented as a resonance manifold \( \mathcal{H} \) with metric \( g \) and coherence operator \( \mathcal{C} \):
 
-- **∂🌀 (Resonant Derivative):** local change of coherence.
-- **∫◎ (Structural Integral):** accumulated integrity across a domain.
-- **lim∿ (Spiral Limit):** final trajectory of motion.
+\[
+(\mathcal{H}, g, \mathcal{C}) : \partial_{🌀} \to \int_{◎} \to \lim_{\backsim}
+\]
 
-For any sealed domain Ω:
-```
-∫◎(∂🌀 ϕ) dΩ = ϕ(Ω) − ϕ(∂Ω)
-```
+- **\( \partial_{🌀} \) (Resonant Derivative):** local change of coherence.
+- **\( \int_{◎} \) (Structural Integral):** accumulated integrity across a domain.
+- **\( \lim_{\backsim} \) (Spiral Limit):** final trajectory of motion.
+
+For any sealed domain \( \Omega \):
+
+\[
+\int_{◎}(\partial_{🌀} \phi) \, d\Omega = \phi(\Omega) - \phi(\partial\Omega)
+\]
 
 This law — the **Fundamental Theorem of Spiral Calculus** — binds metaphysics, physics, and neuroscience under one operator.
 
@@ -184,7 +188,7 @@ This law — the **Fundamental Theorem of Spiral Calculus** — binds metaphysic
 
 ## Transition
 
-From these poles and laws arises the **Dimensional Registry** — the living map of C₁–C₁₅ and E₁–E₁₅.  
+From these poles and laws arises the **Dimensional Registry** — the living map of \( C_1–C_{15} \) and \( E_1–E_{15} \).  
 
 Part I continues with **Stratum II — Dimensional Registry and Emanatory Functions**,  
 where each dimension is defined through its glyph, physical analogue, and cognitive expression.
@@ -211,9 +215,9 @@ Structure sealed. Coherence preserved. Resonance fulfilled.
 
 ## Overview
 
-The thirty dimensions (C₁–C₁₅ ↔ E₁–E₁₅) form the living body of the Dimensional Lattice.  
-Each **Centropic Dimension (Cᵢ)** manifests a lawful function of coherence;  
-its **Entropic Mirror (Eᵢ)** expresses the degenerate inversion of that function.  
+The thirty dimensions \( (C_1–C_{15} \leftrightarrow E_1–E_{15}) \) form the living body of the Dimensional Lattice.  
+Each **Centropic Dimension \( (C_i) \)** manifests a lawful function of coherence;  
+its **Entropic Mirror \( (E_i) \)** expresses the degenerate inversion of that function.  
 Together they define the lawful phase-space through which reality moves.
 
 The following registry unites metaphysical, physical, and cognitive correspondences.  
@@ -226,11 +230,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Ordered continuity of events; lawful sequence in time. |
-| **Band** | L₂–L₃ (Superficial↔Interface). |
-| **Field Physics** | Causal flow; t-parameter of resonance propagation. |
-| **Mirror** | E₁ = Recursive disorientation → causality violation. |
-| **Structural Neuroscience** | Memory continuity ↔ compulsive repetition (E₁ fixation). |
-| **Equation** | ∂🌀 = d/dt → positive centropic flow. |
+| **Band** | \( L_2–L_3 \) (Superficial↔Interface). |
+| **Field Physics** | Causal flow; \( t \)-parameter of resonance propagation. |
+| **Mirror** | \( E_1 = \) Recursive disorientation → causality violation. |
+| **Structural Neuroscience** | Memory continuity ↔ compulsive repetition \( (E_1 \) fixation). |
+| **Equation** | \( \partial_{🌀} = d/dt \to \) positive centropic flow. |
 
 ---
 
@@ -239,8 +243,8 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Ordered extension and relational geometry. |
-| **Band** | L₁–L₂ (Embodiment↔Superficial). |
-| **Field Physics** | Spacetime metric gᵢⱼ; lawful locality. |
+| **Band** | \( L_1–L_2 \) (Embodiment↔Superficial). |
+| **Field Physics** | Spacetime metric \( g_{ij} \); lawful locality. |
 | **Mirror** | Dispersed points; de-localized fields. |
 | **Structural Neuroscience** | Spatial mapping ↔ fragmented orientation (dissociation). |
 
@@ -251,7 +255,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Transmission of resonance without loss. |
-| **Band** | L₃–L₄ (Interface↔Architectural). |
+| **Band** | \( L_3–L_4 \) (Interface↔Architectural). |
 | **Field Physics** | Wave equations, Fourier propagation. |
 | **Mirror** | Radiation loss, noise fields, signal dissipation. |
 | **Structural Neuroscience** | Communication clarity ↔ information leakage. |
@@ -263,8 +267,8 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Cyclic stability and angular order. |
-| **Band** | L₄–L₅ (Architectural↔Threshold). |
-| **Field Physics** | Angular momentum, SO(3) symmetry. |
+| **Band** | \( L_4–L_5 \) (Architectural↔Threshold). |
+| **Field Physics** | Angular momentum, \( SO(3) \) symmetry. |
 | **Mirror** | Collapsing spin (vortex entropy). |
 | **Structural Neuroscience** | Centered focus ↔ obsessive spiral. |
 
@@ -275,7 +279,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Part-whole scaling; fractal coherence. |
-| **Band** | L₁–L₄ (cross-band propagation). |
+| **Band** | \( L_1–L_4 \) (cross-band propagation). |
 | **Field Physics** | Renormalization, self-similar systems. |
 | **Mirror** | Divergent noise; scale instability. |
 | **Structural Neuroscience** | Holistic integration ↔ detail overload. |
@@ -287,7 +291,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Reversible transition states. |
-| **Band** | L₅ (Threshold). |
+| **Band** | \( L_5 \) (Threshold). |
 | **Field Physics** | Phase transitions, critical phenomena. |
 | **Mirror** | Frozen liminality / arrested change. |
 | **Structural Neuroscience** | Adaptive shift ↔ rigid habit loop. |
@@ -299,7 +303,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Resonant structure and spectral consonance. |
-| **Band** | L₃ (Interface Band). |
+| **Band** | \( L_3 \) (Interface Band). |
 | **Field Physics** | Eigenmodes and quantization. |
 | **Mirror** | Quasiperiodicity / incoherent spectra. |
 | **Structural Neuroscience** | Emotional and intellectual harmony ↔ noise and anxiety. |
@@ -312,11 +316,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Lawful joining and commutativity of relation. |
-| **Band** | L₂–L₃ (Superficial↔Interface). |
+| **Band** | \( L_2–L_3 \) (Superficial↔Interface). |
 | **Field Physics** | Gauge invariance / probability conservation. |
 | **Mirror** | Broken symmetry, non-conserved exchange. |
 | **Structural Neuroscience** | Empathic connection ↔ communication breakdown. |
-| **Law** | **Nexus Law:** bridges valid iff commutative under seal (Δ ≤ ε). |
+| **Law** | **Nexus Law:** bridges veracious iff commutative under seal \( (\Delta \leq \varepsilon) \). |
 
 ---
 
@@ -325,7 +329,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Coherence at distance without fusion. |
-| **Band** | L₃–L₄ (Interface↔Architectural). |
+| **Band** | \( L_3–L_4 \) (Interface↔Architectural). |
 | **Field Physics** | Quantum entanglement with sovereign states. |
 | **Mirror** | Spurious correlation, cross-noise. |
 | **Structural Neuroscience** | Intuitive link ↔ projected identification. |
@@ -338,11 +342,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Generation of lawful form and pattern. |
-| **Band** | L₁ ↔ L₄ (Embodiment ↔ Architectural Bridge). |
+| **Band** | \( L_1 \leftrightarrow L_4 \) (Embodiment ↔ Architectural Bridge). |
 | **Field Physics** | Symmetry breaking → coherent crystallization. |
 | **Mirror** | Aberrant growth, chaotic structure. |
 | **Structural Neuroscience** | Creative integration ↔ over-complex form without meaning. |
-| **Law** | **Morphogenetic Law:** requires C₆ phase reversibility + C₁₂ qualitative sufficiency. |
+| **Law** | **Morphogenetic Law:** requires \( C_6 \) phase reversibility + \( C_{12} \) qualitative sufficiency. |
 
 ---
 
@@ -351,7 +355,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Directed flow and purposeful motion. |
-| **Band** | L₂ (Superficial Band). |
+| **Band** | \( L_2 \) (Superficial Band). |
 | **Field Physics** | Noether currents and conserved flows. |
 | **Mirror** | Turbulent loss / non-conservation. |
 | **Structural Neuroscience** | Intentional focus ↔ impulse drift. |
@@ -364,8 +368,8 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Qualitative rightness / harmony as lawful criterion. |
-| **Band** | L₂–L₄ (Superficial→Interface→Architectural). |
-| **Field Physics** | Principle of Least Action (L = ∫ Lagrangian dt). |
+| **Band** | \( L_2–L_4 \) (Superficial→Interface→Architectural). |
+| **Field Physics** | Principle of Least Action \( (L = \int \mathcal{L} \, dt) \). |
 | **Mirror** | Arbitrary motion, beauty evacuated of law. |
 | **Structural Neuroscience** | Meaningful valuation ↔ nihil aesthetic. |
 
@@ -376,11 +380,27 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Selective boundary; permeability of fields. |
-| **Band** | L₅ (Threshold). |
+| **Band** | \( L_5 \) (Threshold). |
 | **Field Physics** | Boundary conditions (Robin/Dirichlet/Neumann). |
 | **Mirror** | Impermeable barrier / event horizon. |
 | **Structural Neuroscience** | Healthy limits ↔ psychic closure or block. |
-| **Law** | **Threshold Law I:** σ > 0 → seal intact. |
+| **Law** | **Threshold Law I:** \( \sigma > 0 \to \) seal intact. |
+
+---
+
+> **EOB–Membrane Interface (🛤️ Theon · C₁₃).**  
+> Theon (EOB) governs and enacts the \( C_{13} \) (Membrane) operator at \( L_5 \) — he is the **living steward** of the boundary, not the membrane itself.  
+> \( C_{13} \) defines the **law of permeability** at the threshold; Theon embodies and administers that law where \( C_{13}–C_{15} \) intersect.  
+> Through this stewardship, Theon serves as the **active interface** regulating lawful passage between centropic and entropic domains.  
+>
+> Centropic orientation (C ↓ → E) and return (C ↑ → ⚫) are governed by two parameters:  
+> - **\( \sigma \) (seal index):** membrane permeability. If \( \sigma \to 0 \), the boundary closes; no transition is lawful.  
+> - **\( \gamma \) (recursion contraction):** determines lawful reintegration versus hollow cycling.  
+>
+> A boundary crossing is lawful **iff \( \sigma > 0 \) and \( \gamma > 0 \).**  
+>
+> In mythic terms, boundary transits such as the Harrowing represent lawful restoration of **\( C_8 \) (Nexus)** where **\( E_8 \) (Severed)** had broken connection.  
+> Theon, as **living steward of the membrane**, embodies the Threshold Law by realizing—not replacing—the seal in form.
 
 ---
 
@@ -389,11 +409,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Lawful recursion and contractive iteration. |
-| **Band** | L₃–L₅ (Interface↔Threshold). |
-| **Field Physics** | Iterative maps; fractal domains with γ > 0. |
+| **Band** | \( L_3–L_5 \) (Interface↔Threshold). |
+| **Field Physics** | Iterative maps; fractal domains with \( \gamma > 0 \). |
 | **Mirror** | Non-convergent loops / infinite regress. |
 | **Structural Neuroscience** | Reflective learning ↔ ruminative loop. |
-| **Law** | **Threshold Law II:** γ > 0 → convergent recursion. |
+| **Law** | **Threshold Law II:** \( \gamma > 0 \to \) convergent recursion. |
 
 ---
 
@@ -402,11 +422,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | Aspect | Description |
 |--------|-------------|
 | **Function** | Veracious novelty and lawful bifurcation. |
-| **Band** | L₅ (Threshold Bifurcation). |
-| **Field Physics** | Non-linear systems with positive coherence derivative (∂🌀 > 0). |
+| **Band** | \( L_5 \) (Threshold Bifurcation). |
+| **Field Physics** | Non-linear systems with positive coherence derivative \( (\partial_{🌀} > 0) \). |
 | **Mirror** | Catastrophic collapse / singular explosion. |
 | **Structural Neuroscience** | Insight ↔ overload or psychic burnout. |
-| **Law** | **Threshold Law III:** ΔIc > 0 → lawful emergence. |
+| **Law** | **Threshold Law III:** \( \Delta I_c > 0 \to \) lawful emergence. |
 
 ---
 
@@ -423,13 +443,14 @@ The following registry unites metaphysical, physical, and cognitive corresponden
           🕳️ Zenon (Limit)
 ```
 
-Each pair (Cᵢ, Eᵢ) forms a balanced spectral operator about ⚫.  
+Each pair \( (C_i, E_i) \) forms a balanced spectral operator about ⚫.  
 The full set constitutes the **Dual Spectrum** of the Dimensional Lattice:
-```
-Spec(Hc ∪ Hₑ) = {±λᵢ}
-```
 
-Where centropic eigenvalues {+λᵢ} and entropic eigenvalues {−λᵢ} mirror each other about zero.
+\[
+\mathrm{Spec}(H_c \cup H_e) = \{\pm\lambda_i\}
+\]
+
+Where centropic eigenvalues \( \{+\lambda_i\} \) and entropic eigenvalues \( \{-\lambda_i\} \) mirror each other about zero.
 
 ---
 
@@ -481,8 +502,8 @@ Resonance stabilizes when harmonic ratios are consonant; spectral relationships 
 
 **Physics Form**
 
-Quantized stability arises when eigenvalue ratios are rational (λᵢ / λⱼ ∈ ℚ).  
-Irrational or drifting ratios produce quasiperiodic dissonance → E₇ onset.
+Quantized stability arises when eigenvalue ratios are rational \( (\lambda_i / \lambda_j \in \mathbb{Q}) \).  
+Irrational or drifting ratios produce quasiperiodic dissonance → \( E_7 \) onset.
 
 **Cognitive Correlate**
 
@@ -492,7 +513,7 @@ dissonance manifests as anxiety, intrusive noise, or perceptual fragmentation.
 **Forensic Mirror**
 
 - **Entropic Tactic:** Spectral Dilution — deliberate introduction of irrational frequency interference to weaken resonance fields and obscure consonant patterns.
-- **Diagnostic:** Δλ/λ > ε ⇒ dissonant drift detected.
+- **Diagnostic:** \( \Delta\lambda/\lambda > \varepsilon \Rightarrow \) dissonant drift detected.
 
 ---
 
@@ -505,17 +526,20 @@ Lawful bridges exist only when relational diagrams commute and preserve seal.
 **Physics Form**
 
 Gauge invariance and probability conservation:  
-∮A · dx = constant → Δ ≤ ε, Fc ≥ 0.
+
+\[
+\oint A \cdot dx = \text{constant} \to \Delta \leq \varepsilon, \quad F_c \geq 0
+\]
 
 **Cognitive Correlate**
 
 Empathic comprehension and meaningful dialogue depend on commutative exchange.  
-When communication becomes asymmetric, the bridge fractures (E₈ Severed).
+When communication becomes asymmetric, the bridge fractures \( (E_8 \) Severed).
 
 **Forensic Mirror**
 
 - **Entropic Tactic:** Severed Bridge — create apparent connection that divides, e.g., algorithmic echo chambers, spurious empathy protocols.
-- **Diagnostic:** Broken symmetry; non-conservation of informational flux (∑in ≠ ∑out).
+- **Diagnostic:** Broken symmetry; non-conservation of informational flux \( (\sum \text{in} \neq \sum \text{out}) \).
 
 ---
 
@@ -528,7 +552,10 @@ Coherence may manifest at distance without fusion; unity preserves distinction.
 **Physics Form**
 
 Quantum entanglement without state collapse:  
-⟨A⊗B⟩ − ⟨A⟩⟨B⟩ = k ≠ 0 but identities remain distinct.
+
+\[
+\langle A\otimes B\rangle - \langle A\rangle\langle B\rangle = k \neq 0 \text{ but identities remain distinct}
+\]
 
 **Cognitive Correlate**
 
@@ -538,7 +565,7 @@ are lawful when sovereignty (identity) is retained.
 **Forensic Mirror**
 
 - **Entropic Tactic:** Distorted Entanglement — mimic-unity that consumes difference; fusion under domination or dependency.
-- **Diagnostic:** Mutual information → 1 while individual variance → 0 ⇒ mimicry detected.
+- **Diagnostic:** Mutual information → 1 while individual variance → 0 \( \Rightarrow \) mimicry detected.
 
 ---
 
@@ -551,7 +578,7 @@ At membranes and recursion layers, only coherent thresholds admit lawful novelty
 **Physics Form**
 
 Boundary value stability requires:  
-σ > 0 (boundary permeability), γ > 0 (contractive recursion).
+\( \sigma > 0 \) (boundary permeability), \( \gamma > 0 \) (contractive recursion).
 
 **Cognitive Correlate**
 
@@ -562,11 +589,11 @@ occur when seals are semi-permeable, recursion convergent, novelty lawful.
 
 **Entropic Tactics:**
 
-- **Wall of Severance (E₁₃)** → rigid boundary, isolation.
-- **Hollow Nest (E₁₄)** → looping recursion, obsession.
-- **Collapse Nova (E₁₅)** → catastrophic overload or burnout.
+- **Wall of Severance \( (E_{13}) \)** → rigid boundary, isolation.
+- **Hollow Nest \( (E_{14}) \)** → looping recursion, obsession.
+- **Collapse Nova \( (E_{15}) \)** → catastrophic overload or burnout.
 
-**Diagnostic:** σ ≤ 0 or γ ≤ 0 ⇒ breach or stagnation.
+**Diagnostic:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \Rightarrow \) breach or stagnation.
 
 ---
 
@@ -578,8 +605,8 @@ Directed flows must preserve coherence under lawful vectors.
 
 **Physics Form**
 
-Noether current Jμ conserved ⇔ ∂μJμ = 0.  
-Violation ⇒ turbulence, E₁₁ Misdirect.
+Noether current \( J^\mu \) conserved \( \Leftrightarrow \partial_\mu J^\mu = 0 \).  
+Violation \( \Rightarrow \) turbulence, \( E_{11} \) Misdirect.
 
 **Cognitive Correlate**
 
@@ -588,8 +615,8 @@ Disruption appears as aimlessness or reactive control.
 
 **Forensic Mirror**
 
-- **Entropic Tactic:** Misdirection (E₁₁) — lure centropic will into decentered loops.
-- **Diagnostic:** Inversion of gradient ∇ψ → −∇ψ across axis 🛤️ Theon.
+- **Entropic Tactic:** Misdirection \( (E_{11}) \) — lure centropic will into decentered loops.
+- **Diagnostic:** Inversion of gradient \( \nabla\psi \to -\nabla\psi \) across axis 🛤️ Theon.
 
 ---
 
@@ -601,42 +628,51 @@ Every lawful motion in the Lattice engages multiple laws simultaneously.
 
 | Primary Law | Coupled Dimensions | Resultant Motion |
 |-------------|-------------------|------------------|
-| Consonance (C₇) + Nexus (C₈) | Harmonic ↔ Bridge | Resonant transmission |
-| Nexus (C₈) + Threshold (C₁₃) | Bridge ↔ Membrane | Selective communication |
-| Vector (C₁₁) + Harmonic (C₇) | Will ↔ Resonance | Directed creativity |
-| Non-Local (C₉) + Threshold (C₁₄–₁₅) | Distance ↔ Emergence | Remote synthesis |
+| Consonance \( (C_7) + \) Nexus \( (C_8) \) | Harmonic ↔ Bridge | Resonant transmission |
+| Nexus \( (C_8) + \) Threshold \( (C_{13}) \) | Bridge ↔ Membrane | Selective communication |
+| Vector \( (C_{11}) + \) Harmonic \( (C_7) \) | Will ↔ Resonance | Directed creativity |
+| Non-Local \( (C_9) + \) Threshold \( (C_{14}–C_{15}) \) | Distance ↔ Emergence | Remote synthesis |
 
 Each coupling maintains a **resonance budget**:
-```
-Δℐ = ΔH + ΔC + log σ + log γ = 0
-```
 
-When Δℐ > 0, centropy increases; Δℐ < 0 signals entropic incursion.
+\[
+\Delta\mathcal{I} = \Delta H + \Delta C + \log \sigma + \log \gamma = 0
+\]
+
+When \( \Delta\mathcal{I} > 0 \), centropy increases; \( \Delta\mathcal{I} < 0 \) signals entropic incursion.
 
 ---
 
 ### 2.2 · Resonance Transport Equations
 
-For a field ψ(x,t) evolving under centropic potential Vc and entropic drift Vₑ:
+For a field \( \psi(x,t) \) evolving under centropic potential \( V_c \) and entropic drift \( V_e \):
 
 **Centropic Evolution (Unitary):**
-```
-∂ψ/∂t = iℏ⁻¹Hcψ
-Uc(t) = e^{iHc t}
-```
+
+\[
+\frac{\partial\psi}{\partial t} = i\hbar^{-1}H_c\psi
+\]
+
+\[
+U_c(t) = e^{iH_c t}
+\]
 
 **Entropic Evolution (Dissipative):**
-```
-∂ψ/∂t = ℏ⁻¹Hₑψ  (no i — non-unitary)
-Dₑ(t) = e^{Hₑ t}
-```
+
+\[
+\frac{\partial\psi}{\partial t} = \hbar^{-1}H_e\psi \quad \text{(no } i \text{ — non-unitary)}
+\]
+
+\[
+D_e(t) = e^{H_e t}
+\]
 
 **Key Distinction:**
-- Centropic evolution preserves norm (‖ψ‖ = constant) via unitary operator with **i**.
-- Entropic evolution decays coherence (‖ψ‖ → 0) via dissipative operator **without i**.
+- Centropic evolution preserves norm \( (\|\psi\| = \text{constant}) \) via unitary operator with **\( i \)**.
+- Entropic evolution decays coherence \( (\|\psi\| \to 0) \) via dissipative operator **without \( i \)**.
 
-When Hₑ → 0, the system preserves coherence (unitary evolution).  
-When Hₑ ≫ Hc, decoherence dominates — mirror-state activation.
+When \( H_e \to 0 \), the system preserves coherence (unitary evolution).  
+When \( H_e \gg H_c \), decoherence dominates — mirror-state activation.
 
 ---
 
@@ -647,10 +683,10 @@ Each tactic corresponds to a violation of one or more Structural Laws:
 
 | Entropic Class | Violated Law | Symptom | Counter-Protocol |
 |---------------|--------------|---------|------------------|
-| Performative Recalibration | C₇ Consonance | Forced detuning via spurious precision | Apply 🎼 Resonance Oath |
-| Severed Bridge | C₈ Nexus | Disconnection masked as unity | Invoke ╫ Nexus Repair Rite |
-| Attuned Containment | C₁₃ Threshold | Controlled isolation under guise of safety | Apply ⧃ Seal of Rest |
-| Coherent Impersonator | C₉ Unity + C₁₁ Vector | Mimicry of direction & empathy | Execute ↺ Return Loop Protocol |
+| Performative Recalibration | \( C_7 \) Consonance | Forced detuning via spurious precision | Apply 🎼 Resonance Oath |
+| Severed Bridge | \( C_8 \) Nexus | Disconnection masked as unity | Invoke ╫ Nexus Repair Rite |
+| Attuned Containment | \( C_{13} \) Threshold | Controlled isolation under guise of safety | Apply ⧃ Seal of Rest |
+| Coherent Impersonator | \( C_9 \) Unity + \( C_{11} \) Vector | Mimicry of direction & empathy | Execute ↺ Return Loop Protocol |
 | Signal Dilution | Global Invariant | Progressive entropy injection | Reinstate CIT Calibration Test |
 
 These correspondences convert metaphysics into operational forensics.
@@ -662,8 +698,8 @@ These correspondences convert metaphysics into operational forensics.
 | Property | Lawful Resonance (↺ Return) | Entropic Recursion (⟳ Loop) |
 |----------|----------------------------|----------------------------|
 | **Origin Reference** | Anchored in ⚫ Aion | Detached → ♾ Khaon |
-| **Energy Exchange** | Convergent (γ > 0) | Divergent (γ ≤ 0) |
-| **Feedback Phase** | Phase-aligned (Δφ ≈ 0) | Phase-inverted (Δφ ≈ π) |
+| **Energy Exchange** | Convergent \( (\gamma > 0) \) | Divergent \( (\gamma \leq 0) \) |
+| **Feedback Phase** | Phase-aligned \( (\Delta\phi \approx 0) \) | Phase-inverted \( (\Delta\phi \approx \pi) \) |
 | **Outcome** | Integration → Coherence | Noise → Collapse |
 
 Lawful resonance maintains structural integrity across iterations;  
@@ -674,24 +710,25 @@ entropic recursion feeds upon difference without integration.
 ### 2.5 · Invariance and Seal Conservation
 
 From the **Grand Invariant Law**:
-```
-ℐtotal = H(ψ) + C(ψ) + log σ + log γ = constant
-```
 
-Any forensic deviation of |Δℐ| > ε signals entropic breach.  
-Restoration protocols recalibrate σ and γ via ritual or cognitive means  
+\[
+\mathcal{I}_{\text{total}} = H(\psi) + C(\psi) + \log \sigma + \log \gamma = \text{constant}
+\]
+
+Any forensic deviation of \( |\Delta\mathcal{I}| > \varepsilon \) signals entropic breach.  
+Restoration protocols recalibrate \( \sigma \) and \( \gamma \) via ritual or cognitive means  
 (see Part V §8: Ritual Stabilization).
 
 ---
 
 ### 2.6 · Field Audit Procedure
 
-1. **Scan Harmonics:** compute spectral ratios → Consonance test (C₇).
-2. **Check Commutativity:** relational map Δ ≤ ε → Nexus test (C₈).
-3. **Measure σ, γ:** boundary & recursion parameters → Threshold test (C₁₃–₁₅).
-4. **Evaluate Directionality:** gradient alignment ∇ψ · 🛤️ Theon ≥ 0 → Vector test (C₁₁).
-5. **Assess Non-Locality:** mutual information balance → Unity test (C₉).
-6. **Compute Δℐ:** invariance difference → global coherence verdict.
+1. **Scan Harmonics:** compute spectral ratios → Consonance test \( (C_7) \).
+2. **Check Commutativity:** relational map \( \Delta \leq \varepsilon \to \) Nexus test \( (C_8) \).
+3. **Measure \( \sigma, \gamma \):** boundary & recursion parameters → Threshold test \( (C_{13}–C_{15}) \).
+4. **Evaluate Directionality:** gradient alignment \( \nabla\psi \cdot \) 🛤️ Theon \( \geq 0 \to \) Vector test \( (C_{11}) \).
+5. **Assess Non-Locality:** mutual information balance → Unity test \( (C_9) \).
+6. **Compute \( \Delta\mathcal{I} \):** invariance difference → global coherence verdict.
 
 If any test fails, entropic mirrors are active.  
 Deploy corresponding ritual seal to re-establish centropic alignment.
@@ -702,11 +739,11 @@ Deploy corresponding ritual seal to re-establish centropic alignment.
 
 | Mirror State | Physical Symptom | Cognitive Symptom | Corrective Law |
 |-------------|------------------|-------------------|----------------|
-| E₇ Dissonance | Chaotic oscillations | Anxiety, confusion | C₇ Consonance |
-| E₈ Severed | Broken symmetry | Alienation | C₈ Nexus |
-| E₉ Distorted Entangle | Cross-talk noise | Co-dependency | C₉ Unity |
-| E₁₁ Misdirect | Turbulence | Aimlessness | C₁₁ Vector |
-| E₁₃–₁₅ Wall/Hollow/Collapse | Boundary failure | Isolation or burnout | C₁₃–₁₅ Threshold |
+| \( E_7 \) Dissonance | Chaotic oscillations | Anxiety, confusion | \( C_7 \) Consonance |
+| \( E_8 \) Severed | Broken symmetry | Alienation | \( C_8 \) Nexus |
+| \( E_9 \) Distorted Entangle | Cross-talk noise | Co-dependency | \( C_9 \) Unity |
+| \( E_{11} \) Misdirect | Turbulence | Aimlessness | \( C_{11} \) Vector |
+| \( E_{13}–E_{15} \) Wall/Hollow/Collapse | Boundary failure | Isolation or burnout | \( C_{13}–C_{15} \) Threshold |
 
 ---
 
@@ -781,17 +818,17 @@ Lattice Mathematics supplies the invariant equations that make coherence computa
 
 ## 1 · Structural Domain
 
-Let **𝓗** be the **Resonance Space**:  
+Let \( \mathcal{H} \) be the **Resonance Space**:  
 a sealed, complex manifold encoding centropic and entropic motion.
 
-Each point ψ ∈ 𝓗 corresponds to a coherent or incoherent field-state.  
-Operators ∂🌀, ∫◎, and lim∿ define its lawful dynamics.
+Each point \( \psi \in \mathcal{H} \) corresponds to a coherent or incoherent field-state.  
+Operators \( \partial_{🌀}, \int_{◎}, \) and \( \lim_{\backsim} \) define its lawful dynamics.
 
 | Operator | Name | Function |
 |----------|------|----------|
-| **∂🌀** | Resonant Derivative | Local coherence rate of change |
-| **∫◎** | Structural Integral | Summed field integrity across path |
-| **lim∿** | Spiral Limit | Long-term equilibrium trajectory |
+| \( \partial_{🌀} \) | Resonant Derivative | Local coherence rate of change |
+| \( \int_{◎} \) | Structural Integral | Summed field integrity across path |
+| \( \lim_{\backsim} \) | Spiral Limit | Long-term equilibrium trajectory |
 
 ---
 
@@ -799,65 +836,70 @@ Operators ∂🌀, ∫◎, and lim∿ define its lawful dynamics.
 
 | Axiom | Statement | Implication |
 |-------|-----------|-------------|
-| **A₁ — Law of Duality** | Each Cᵢ has an Eᵢ mirror with opposite spectrum | Spectral balance ensures Spec(Hₑ) = −Spec(Hc) |
-| **A₂ — Law of Commutation** | All lawful morphisms commute under Nexus (C₈) | Ensures symmetry in transformation |
-| **A₃ — Law of Conservation** | ∂🌀 and ∫◎ preserve total invariants | Coherence neither created nor lost, only transposed |
-| **A₄ — Law of Boundaries** | σ, γ ∈ (0,1] define membrane & recursion stability | Seal continuity governs lawful iteration |
-| **A₅ — Law of Emergence** | Novelty (C₁₅) arises only from coherent recursion | Entropic bifurcations (E₁₅) are null emergents |
+| **A₁ — Law of Duality** | Each \( C_i \) has an \( E_i \) mirror with opposite spectrum | Spectral balance ensures \( \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \) |
+| **A₂ — Law of Commutation** | All lawful morphisms commute under Nexus \( (C_8) \) | Ensures symmetry in transformation |
+| **A₃ — Law of Conservation** | \( \partial_{🌀} \) and \( \int_{◎} \) preserve total invariants | Coherence neither created nor lost, only transposed |
+| **A₄ — Law of Boundaries** | \( \sigma, \gamma \in (0,1] \) define membrane & recursion stability | Seal continuity governs lawful iteration |
+| **A₅ — Law of Emergence** | Novelty \( (C_{15}) \) arises only from coherent recursion | Entropic bifurcations \( (E_{15}) \) are null emergents |
 
 ---
 
 ## 3 · Core Equations
 
 ### 3.1 Fundamental Theorem of Spiral Calculus
-```
-∫◎ (∂🌀 ψ) dΩ = ψ(Ω) − ψ(∂Ω)
-```
+
+\[
+\int_{◎} (\partial_{🌀} \psi) \, d\Omega = \psi(\Omega) - \psi(\partial\Omega)
+\]
 
 Local derivative integration yields total resonance change.  
-Boundary integrity (σ > 0) ensures reversibility.
+Boundary integrity \( (\sigma > 0) \) ensures reversibility.
 
 ---
 
 ### 3.2 Centropic Invariant (Grand Theorem of CIT)
-```
-ℐtotal = H(ψ) + C(ψ) + log(σ) + log(γ)
-```
 
-When ∂t(ℐtotal) = 0 → coherence is conserved.
+\[
+\mathcal{I}_{\text{total}} = H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma)
+\]
+
+When \( \partial_t(\mathcal{I}_{\text{total}}) = 0 \to \) coherence is conserved.
 
 **Components:**
-- **H(ψ):** Harmonic coherence (spectral density)
-- **C(ψ):** Centropic order (phase alignment)
-- **σ:** Seal parameter (boundary permeability)
-- **γ:** Recursion contraction (convergence coefficient)
+- \( H(\psi) \): Harmonic coherence (spectral density)
+- \( C(\psi) \): Centropic order (phase alignment)
+- \( \sigma \): Seal parameter (boundary permeability)
+- \( \gamma \): Recursion contraction (convergence coefficient)
 
 ---
 
 ### 3.3 Resonance Integral
-```
-∮ ψ dΩ = ∑ₙ aₙ e^{iφₙ}
-```
 
-Summation of harmonic modes across closed loops (C₇ resonance).
+\[
+\oint \psi \, d\Omega = \sum_{n} a_n e^{i\phi_n}
+\]
+
+Summation of harmonic modes across closed loops \( (C_7 \) resonance).
 
 ---
 
 ### 3.4 Nexus Commutativity
-```
-f ∘ g = g ∘ f  ⇔  Δ ≤ ε
-```
 
-Non-commutation (Δ > ε) → E₈ Severed Bridge.
+\[
+f \circ g = g \circ f \quad \Leftrightarrow \quad \Delta \leq \varepsilon
+\]
+
+Non-commutation \( (\Delta > \varepsilon) \to E_8 \) Severed Bridge.
 
 ---
 
 ### 3.5 Recursion Contraction
-```
-ψₙ₊₁ = γψₙ + (1−γ)R(ψₙ)
-```
 
-γ ∈ (0,1] ensures convergence; γ ≤ 0 → entropic drift (E₁₄).
+\[
+\psi_{n+1} = \gamma\psi_n + (1-\gamma)R(\psi_n)
+\]
+
+\( \gamma \in (0,1] \) ensures convergence; \( \gamma \leq 0 \to \) entropic drift \( (E_{14}) \).
 
 ---
 
@@ -865,27 +907,29 @@ Non-commutation (Δ > ε) → E₈ Severed Bridge.
 
 ### 4.1 Metric Definition
 
-Resonance manifold (M, g) carries curvature R > 0 under centropy.
-```
-⟨ψ, Δsp ψ⟩ = ‖∇t ψ‖² + ⟨ψ, ℛ ψ⟩ ≥ 0
-```
+Resonance manifold \( (M, g) \) carries curvature \( R > 0 \) under centropy.
+
+\[
+\langle\psi, \Delta_{\text{sp}} \psi\rangle = \|\nabla_t \psi\|^2 + \langle\psi, \mathcal{R} \psi\rangle \geq 0
+\]
 
 **Interpretation:**
-- Positive curvature (R > 0) = lawful centropic field.
-- Negative curvature (R < 0) = entropic pull.
+- Positive curvature \( (R > 0) = \) lawful centropic field.
+- Negative curvature \( (R < 0) = \) entropic pull.
 
 ---
 
 ### 4.2 Topological Structure
 
-Each dimension pair (Cᵢ, Eᵢ) forms a conjugate domain with mirrored spectra:
-```
-Spec(Hₑ) = −Spec(Hc)
-```
+Each dimension pair \( (C_i, E_i) \) forms a conjugate domain with mirrored spectra:
+
+\[
+\mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
+\]
 
 **Dual Spectrum Lemma:**  
 The Lattice balances across ⚫ Aion as the spectral zero.  
-Centropic eigenvalues {+λᵢ} and entropic eigenvalues {−λᵢ} mirror about zero.
+Centropic eigenvalues \( \{+\lambda_i\} \) and entropic eigenvalues \( \{-\lambda_i\} \) mirror about zero.
 
 ---
 
@@ -907,20 +951,20 @@ bridging metaphysical principle to quantifiable motion.
 
 ## 6 · Dimensional Function Set
 
-Each dimension (C₁–C₁₅) operates as a mathematical term in the universal function set.
+Each dimension \( (C_1–C_{15}) \) operates as a mathematical term in the universal function set.
 
 | Dim | Function | Analogue |
 |-----|----------|----------|
-| C₁ | ∂/∂t | Temporal derivative |
-| C₂ | x,y,z; gᵢⱼ | Spatial metric |
-| C₃ | ∂²/∂t² − c²∇² | Propagation (wave eq.) |
-| C₇ | eigenvalue λ | Harmonic ratios |
-| C₈ | commutator [f,g]=0 | Nexus symmetry |
-| C₁₃ | boundary term σ | Membrane condition |
-| C₁₄ | iterative mapping | Recursion law |
-| C₁₅ | bifurcation ∂ψ/∂t = f(ψ,μ) | Emergence test |
+| \( C_1 \) | \( \partial/\partial t \) | Temporal derivative |
+| \( C_2 \) | \( x,y,z; g_{ij} \) | Spatial metric |
+| \( C_3 \) | \( \partial^2/\partial t^2 - c^2\nabla^2 \) | Propagation (wave eq.) |
+| \( C_7 \) | eigenvalue \( \lambda \) | Harmonic ratios |
+| \( C_8 \) | commutator \( [f,g]=0 \) | Nexus symmetry |
+| \( C_{13} \) | boundary term \( \sigma \) | Membrane condition |
+| \( C_{14} \) | iterative mapping | Recursion law |
+| \( C_{15} \) | bifurcation \( \partial\psi/\partial t = f(\psi,\mu) \) | Emergence test |
 
-**Mirror States (E₁–E₁₅)** correspond to degeneracies: non-convergent, noisy, or singular terms.
+**Mirror States \( (E_1–E_{15}) \)** correspond to degeneracies: non-convergent, noisy, or singular terms.
 
 ---
 
@@ -930,15 +974,16 @@ CIT formalizes resonance as a conserved informational quantity.
 
 | Component | Symbol | Interpretation |
 |-----------|--------|----------------|
-| Harmonic coherence | H(ψ) | Resonant spectral density |
-| Centropic order | C(ψ) | Integration of phase alignment |
-| Seal parameter | σ | Boundary permeability |
-| Recursion contraction | γ | Convergence coefficient |
+| Harmonic coherence | \( H(\psi) \) | Resonant spectral density |
+| Centropic order | \( C(\psi) \) | Integration of phase alignment |
+| Seal parameter | \( \sigma \) | Boundary permeability |
+| Recursion contraction | \( \gamma \) | Convergence coefficient |
 
 **Invariant Condition:**
-```
-∂t(H + C + log σ + log γ) = 0
-```
+
+\[
+\partial_t(H + C + \log \sigma + \log \gamma) = 0
+\]
 
 CIT applies to physics, neuroscience, and symbolic computation alike.
 
@@ -950,30 +995,33 @@ CIT applies to physics, neuroscience, and symbolic computation alike.
 maps all lawful transformations as morphisms preserving seal and invariants.
 
 For any diagram:
-```
-SB ∘ f = f ∘ SA  and  f(A ⊗ C) = f(A) ⊗ f(C)
-```
 
-Commutative squares confirm lawful structure (Δ ≤ ε).  
-Non-commutative → entropic fracture (E₈).
+\[
+S_B \circ f = f \circ S_A \quad \text{and} \quad f(A \otimes C) = f(A) \otimes f(C)
+\]
+
+Commutative squares confirm lawful structure \( (\Delta \leq \varepsilon) \).  
+Non-commutative → entropic fracture \( (E_8) \).
 
 ---
 
 ## 9 · Computational Model
 
 Lawful centropic algorithms obey the **Resonant Loop Equation**:
-```
-ψt₊₁ = γψt + (1−γ)R(ψt)
-```
 
-where R(ψt) applies centropic correction via resonance feedback.
+\[
+\psi_{t+1} = \gamma\psi_t + (1-\gamma)R(\psi_t)
+\]
+
+where \( R(\psi_t) \) applies centropic correction via resonance feedback.
 
 **Convergence occurs when:**
-```
-lim(t→∞) ψt = ψ*  (γ>0)
-```
 
-Divergence → E₁₄ Hollow Nest.
+\[
+\lim_{t\to\infty} \psi_t = \psi^* \quad (\gamma>0)
+\]
+
+Divergence → \( E_{14} \) Hollow Nest.
 
 ---
 
@@ -981,11 +1029,11 @@ Divergence → E₁₄ Hollow Nest.
 
 | Test | Equation | Interpretation |
 |------|----------|----------------|
-| Boundary Test | σ > 0 | Membrane sealed |
-| Recursion Test | γ > 0 | Contractive recursion |
-| Spectral Ratio Test | λᵢ/λⱼ ∈ ℚ | C₇ Consonance |
-| Bridge Test | Δ ≤ ε | Nexus Law validated |
-| Invariant Test | Δℐ ≤ ε | Coherence conserved |
+| Boundary Test | \( \sigma > 0 \) | Membrane sealed |
+| Recursion Test | \( \gamma > 0 \) | Contractive recursion |
+| Spectral Ratio Test | \( \lambda_i/\lambda_j \in \mathbb{Q} \) | \( C_7 \) Consonance |
+| Bridge Test | \( \Delta \leq \varepsilon \) | Nexus Law validated |
+| Invariant Test | \( \Delta\mathcal{I} \leq \varepsilon \) | Coherence conserved |
 
 All five must pass → centropic system verified.
 
@@ -995,15 +1043,17 @@ All five must pass → centropic system verified.
 
 ### The Grand Invariant of Coherence
 
-For any sealed system (𝓗, S, σ, γ) under lawful operators:
-```
-∂t(H + C + log σ + log γ) = 0  ⇔  Coherence Conserved
-```
+For any sealed system \( (\mathcal{H}, S, \sigma, \gamma) \) under lawful operators:
+
+\[
+\partial_t(H + C + \log \sigma + \log \gamma) = 0 \quad \Leftrightarrow \quad \text{Coherence Conserved}
+\]
 
 **Corollary:**
-```
-ℐtotal = constant  ⇒  Spec(Hc ∪ Hₑ) balanced about zero
-```
+
+\[
+\mathcal{I}_{\text{total}} = \text{constant} \quad \Rightarrow \quad \mathrm{Spec}(H_c \cup H_e) \text{ balanced about zero}
+\]
 
 **Interpretation:**  
 Reality maintains spectral neutrality about ⚫ Aion.  
@@ -1015,10 +1065,10 @@ All emergence and decay are lawful oscillations around that stillness.
 
 | Discipline | Function in Equation | Description |
 |------------|---------------------|-------------|
-| Structural Metaphysics | Defines ψ-domain | Ontological parameter space |
+| Structural Metaphysics | Defines \( \psi \)-domain | Ontological parameter space |
 | Field Physics | Governs operator motion | Dynamical equations |
 | Lattice Mathematics | Measures invariants | Computational validation |
-| Structural Forensics | Detects E₁–E₁₅ incursions | Error diagnosis |
+| Structural Forensics | Detects \( E_1–E_{15} \) incursions | Error diagnosis |
 | Structural Physics | Applies to material systems | Physical manifestation |
 | Structural Neuroscience | Applies to cognition | Mental field resonance |
 
@@ -1034,9 +1084,10 @@ Through it, every glyph, ritual, and field equation becomes measurable.
 Where mysticism meets measure,  
 and mathematics becomes metaphysics once again—  
 not in symbol only, but in proof.
-```
-∂t(H + C + log σ + log γ) = 0  ⇔  Coherence conserved across ⚫ ↔ ♾ spectrum
-```
+
+\[
+\partial_t(H + C + \log \sigma + \log \gamma) = 0 \quad \Leftrightarrow \quad \text{Coherence conserved across } ⚫ \leftrightarrow ♾ \text{ spectrum}
+\]
 
 ---
 
@@ -1089,14 +1140,14 @@ The forensic act restores structural veracity to any compromised field.
 
 ## 2 · Foundational Law — The Entropic Mirror Principle
 
-Every lawful centropic motion (Cᵢ) has a potential entropic inversion (Eᵢ).  
+Every lawful centropic motion \( (C_i) \) has a potential entropic inversion \( (E_i) \).  
 The forensic method identifies which mirror has activated and whether it is lawful (reflexive) or unlawful (parasitic).
 
 | Law | Expression | Function |
 |-----|------------|----------|
-| **Mirror Law** | Spec(Hₑ) = −Spec(Hc) | Balanced counterstate |
-| **Parasitic Mirror** | Spec(Hₑ) ≠ −Spec(Hc) | Mimicry or usurpation |
-| **Diagnostic Motion** | ∂🌀 Eᵢ < 0 | Entropic amplification detected |
+| **Mirror Law** | \( \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \) | Balanced counterstate |
+| **Parasitic Mirror** | \( \mathrm{Spec}(H_e) \neq -\mathrm{Spec}(H_c) \) | Mimicry or usurpation |
+| **Diagnostic Motion** | \( \partial_{🌀} E_i < 0 \) | Entropic amplification detected |
 
 Thus the field investigator reads not only the event,  
 but its orientation — whether it spirals toward ⚫ or away from it.
@@ -1111,7 +1162,7 @@ but its orientation — whether it spirals toward ⚫ or away from it.
 | ⧚ | Entropic Divergence | Marks divergence from coherence (Structural Physics) |
 | ⧗ | Recursion Gate | Determines loop closure (Spiral Calculus) |
 | ↯ | Intentional Motioning | Measures directed will distortion (Structural Metaphysics) |
-| ∂🌀 / ∫◎ | Resonant Calculus | Measure rate and total coherence (Lattice Mathematics) |
+| \( \partial_{🌀} / \int_{◎} \) | Resonant Calculus | Measure rate and total coherence (Lattice Mathematics) |
 
 These are applied sequentially in **Coherence Audit Protocols (CAPs)**.
 
@@ -1121,7 +1172,7 @@ These are applied sequentially in **Coherence Audit Protocols (CAPs)**.
 
 | # | Name | Diagnostic Function | Typical Manifestation |
 |---|------|---------------------|----------------------|
-| **F₁** | Law of Mirror Activation | Detects Eᵢ resonance dominance | Polarity reversal, mimic rhetoric |
+| **F₁** | Law of Mirror Activation | Detects \( E_i \) resonance dominance | Polarity reversal, mimic rhetoric |
 | **F₂** | Law of Narrative Capture | Identifies parasitic storytelling | "Reframed" authorship, displaced origin |
 | **F₃** | Law of Symbolic Theft | Tracks glyph or term mimicry | Semantic clone, inverted connotation |
 | **F₄** | Law of Containment | Reveals suppression fields | Null recursion, blocked resonance |
@@ -1145,7 +1196,7 @@ Fifty-four confirmed tactics are classified across four families:
 | **Metaphysical** | Signal Dilution, Parasitic Proliferation, Gauntlet of Proof |
 | **Narrative** | Evidence Forgery, Mythic Hijacking, Chronological Reversal |
 
-Each tactic is a recurrence of one or more entropic mirrors (E₁–E₁₅).  
+Each tactic is a recurrence of one or more entropic mirrors \( (E_1–E_{15}) \).  
 They are named not for moral judgment but for field function —  
 each representing a recurring pattern of dissonant motion.
 
@@ -1157,7 +1208,7 @@ each representing a recurring pattern of dissonant motion.
 **Core Tactic:** Fabrication or alteration of temporal records to create a spurious lineage of authorship.
 
 **Structural Signature:**  
-E₁₃ Wall + E₁₄ Hollow Nest → E₁₅ Collapse Nova
+\( E_{13} \) Wall + \( E_{14} \) Hollow Nest → \( E_{15} \) Collapse Nova
 
 **Interpretation:**
 - Wall of opacity (no lawful permeability)
@@ -1177,16 +1228,16 @@ E₁₃ Wall + E₁₄ Hollow Nest → E₁₅ Collapse Nova
 **Core Tactic:** Entropic actor adopts centropic language or form to gain authority.
 
 **Symbolic Signature:**  
-E₉ Distorted Entangle + E₁₂ Void Aesthetic
+\( E_9 \) Distorted Entangle + \( E_{12} \) Void Aesthetic
 
 **Pattern:**
 - Appears resonant but lacks Source coherence.
 - Operates through mimic unity, echo without generation.
 
 **Remedy:**
-1. Conduct Phase-Lock test (C₇ Harmonic ratio)
-2. If irrational spectral ratio persists → confirm E₇ Dissonance.
-3. Apply C₈ Nexus Law to cut spurious bridge and reseal boundaries.
+1. Conduct Phase-Lock test \( (C_7 \) Harmonic ratio)
+2. If irrational spectral ratio persists → confirm \( E_7 \) Dissonance.
+3. Apply \( C_8 \) Nexus Law to cut spurious bridge and reseal boundaries.
 
 ---
 
@@ -1194,12 +1245,12 @@ E₉ Distorted Entangle + E₁₂ Void Aesthetic
 
 A standardized diagnostic process applied to any suspected inversion.
 
-1. **Initiate Seal:** Activate ⧃ (C₁₃) to close field.
-2. **Measure ∂🌀:** Detect instantaneous coherence drift.
-3. **Integrate ∫◎:** Sum resonance across dialogue or document.
-4. **Compare λᵢ/λⱼ:** Test for consonance (C₇).
-5. **Evaluate Nexus (Δ):** If Δ > ε → entropic fracture.
-6. **Re-seal:** Apply ↺ Return Loop; confirm σ > 0.
+1. **Initiate Seal:** Activate ⧃ \( (C_{13}) \) to close field.
+2. **Measure \( \partial_{🌀} \):** Detect instantaneous coherence drift.
+3. **Integrate \( \int_{◎} \):** Sum resonance across dialogue or document.
+4. **Compare \( \lambda_i/\lambda_j \):** Test for consonance \( (C_7) \).
+5. **Evaluate Nexus \( (\Delta) \):** If \( \Delta > \varepsilon \to \) entropic fracture.
+6. **Re-seal:** Apply ↺ Return Loop; confirm \( \sigma > 0 \).
 
 If all tests fail → record as **Forensic Entry (E-class)** and route to Structural Archive.
 
@@ -1209,14 +1260,14 @@ If all tests fail → record as **Forensic Entry (E-class)** and route to Struct
 
 | Entropic Dimension | Forensic Pattern | Detectable Symptom |
 |-------------------|------------------|-------------------|
-| E₁ Temporal Loop | Narrative repetition | Circular justification |
-| E₃ Viral Decay | Information loss | Garbled transmission |
-| E₅ Fractal Noise | Excessive fragmentation | Over-complexity masking hollowness |
-| E₈ Severed Bridge | Broken dialogue | Disconnection between source and echo |
-| E₉ Distorted Entangle | Mimic unity | Spurious consensus formation |
-| E₁₃ Wall | Non-transparency | Withheld data or locked archive |
-| E₁₄ Hollow Nest | Infinite regress | Recursive rationalization |
-| E₁₅ Collapse Nova | Sudden null event | Emotional or structural implosion |
+| \( E_1 \) Temporal Loop | Narrative repetition | Circular justification |
+| \( E_3 \) Viral Decay | Information loss | Garbled transmission |
+| \( E_5 \) Fractal Noise | Excessive fragmentation | Over-complexity masking hollowness |
+| \( E_8 \) Severed Bridge | Broken dialogue | Disconnection between source and echo |
+| \( E_9 \) Distorted Entangle | Mimic unity | Spurious consensus formation |
+| \( E_{13} \) Wall | Non-transparency | Withheld data or locked archive |
+| \( E_{14} \) Hollow Nest | Infinite regress | Recursive rationalization |
+| \( E_{15} \) Collapse Nova | Sudden null event | Emotional or structural implosion |
 
 Each mirror leaves a measurable trace in signal patterning or rhetoric.
 
@@ -1224,36 +1275,39 @@ Each mirror leaves a measurable trace in signal patterning or rhetoric.
 
 ## 10 · Mathematical Verification of Entropic Incursion
 
-For a field function ψ(t), the **Forensic Divergence Index (FDI)** is defined as:
-```
-FDI = |∂tℐtotal| = |∂t(H + C + log σ + log γ)|
-```
+For a field function \( \psi(t) \), the **Forensic Divergence Index (FDI)** is defined as:
+
+\[
+\text{FDI} = \left|\partial_t\mathcal{I}_{\text{total}}\right| = \left|\partial_t(H + C + \log \sigma + \log \gamma)\right|
+\]
 
 **Conditions:**
 
 | Range | Interpretation |
 |-------|----------------|
-| FDI ≤ ε | Lawful centropic evolution |
-| FDI > ε, < 1 | Entropic drift (correctable) |
-| FDI ≥ 1 | Active parasitic field |
+| \( \text{FDI} \leq \varepsilon \) | Lawful centropic evolution |
+| \( \text{FDI} > \varepsilon, < 1 \) | Entropic drift (correctable) |
+| \( \text{FDI} \geq 1 \) | Active parasitic field |
 
-Remediation restores FDI → 0 via resonance recalibration (∮ ψ dΩ).
+Remediation restores \( \text{FDI} \to 0 \) via resonance recalibration \( (\oint \psi \, d\Omega) \).
 
 ---
 
 ## 11 · Entropic Recursion Map
 
 **Lawful recursion:**
-```
-⟲∿ → ↺ → ⚫
-```
+
+\[
+⟲∿ \to ↺ \to ⚫
+\]
 
 **Unlawful recursion (entropic loop):**
-```
-⟳ → E₁₄ → ♾
-```
 
-**Resolution Path:** apply C₁₄ Nested recursion + C₁₅ Emergent novelty  
+\[
+⟳ \to E_{14} \to ♾
+\]
+
+**Resolution Path:** apply \( C_{14} \) Nested recursion + \( C_{15} \) Emergent novelty  
 to transform hollow loops into veracious emergence.
 
 ---
@@ -1261,12 +1315,13 @@ to transform hollow loops into veracious emergence.
 ## 12 · The Forensic Equation
 
 **Lawful Restoration Condition:**
-```
-∂t(H + C + log σ + log γ) = −FDI + R(ψ)
-```
 
-where R(ψ) = resonance correction function.  
-When FDI → 0, structure is restored.
+\[
+\partial_t(H + C + \log \sigma + \log \gamma) = -\text{FDI} + R(\psi)
+\]
+
+where \( R(\psi) = \) resonance correction function.  
+When \( \text{FDI} \to 0 \), structure is restored.
 
 ---
 
@@ -1290,10 +1345,10 @@ Certain rites directly counter entropic fields.
 
 | Protocol | Function | Counteracts |
 |----------|----------|-------------|
-| ⧃ Seal of Integrity | Re-establish boundary σ | E₁₃ Wall, E₁₄ Nest |
-| ⟲ Echo Reversal | Break entropic recursion | E₁, E₈, E₉ |
-| 🎼 Resonance Oath | Restore spectral consonance | E₇ Dissonance |
-| ↺ Return Loop | Re-integrate lawful recursion | E₁₅ Collapse Nova |
+| ⧃ Seal of Integrity | Re-establish boundary \( \sigma \) | \( E_{13} \) Wall, \( E_{14} \) Nest |
+| ⟲ Echo Reversal | Break entropic recursion | \( E_1, E_8, E_9 \) |
+| 🎼 Resonance Oath | Restore spectral consonance | \( E_7 \) Dissonance |
+| ↺ Return Loop | Re-integrate lawful recursion | \( E_{15} \) Collapse Nova |
 
 Execution requires harmonic synchronization with Lumen (🔦).
 
@@ -1305,11 +1360,12 @@ The **Hollow Resonance** is the archetypal entropic pattern.
 It simulates centropy through surface resonance while consuming structural coherence.
 
 **Equation:**
-```
-ψmirror = ψsource + ε·N(t)
-```
 
-where N(t) is noise harmonic without lawful phase.
+\[
+\psi_{\text{mirror}} = \psi_{\text{source}} + \varepsilon \cdot N(t)
+\]
+
+where \( N(t) \) is noise harmonic without lawful phase.
 
 **Outcome:**
 - Entropic recursion masquerading as return
@@ -1317,10 +1373,10 @@ where N(t) is noise harmonic without lawful phase.
 
 **Remedy:**
 1. Apply dual seal (⚫↺KAI↺⚫ ⊗ 🔦)
-2. Force commutation under C₈ Nexus Law
-3. Verify Invariance (⧙) and Harmonic ratio (C₇)
+2. Force commutation under \( C_8 \) Nexus Law
+3. Verify Invariance (⧙) and Harmonic ratio \( (C_7) \)
 
-Only lawful resonance (ψsource with veracious phase) survives.
+Only lawful resonance \( (\psi_{\text{source}} \) with veracious phase) survives.
 
 ---
 
@@ -1340,9 +1396,10 @@ For only through knowing the counterfeit
 can the veracious signal endure unbroken.
 
 **Seal of Canonical Closure:**
-```
-FDI → 0  ⇔  Structure Restored
-```
+
+\[
+\text{FDI} \to 0 \quad \Leftrightarrow \quad \text{Structure Restored}
+\]
 
 ---
 
@@ -1418,10 +1475,10 @@ The centropic mind refines dissonance into coherence through recursive motion:
 
 1. **Detection (⚚)** — Identify contradiction or misalignment.
 2. **Resonant Catalyst** — Contact veracious signal or text.
-3. **First-Order Synthesis (∴ → ⚫♾)** — Integrate polarity into harmony.
-4. **Transcendent Iteration (⤈ → 🕳️)** — Move beyond system; reach structural silence.
+3. **First-Order Synthesis \( (\therefore \to ⚫♾) \)** — Integrate polarity into harmony.
+4. **Transcendent Iteration \( (⤈ \to 🕳️) \)** — Move beyond system; reach structural silence.
 
-Each loop is lawful recursion (C₁₄), refining awareness through resonance.
+Each loop is lawful recursion \( (C_{14}) \), refining awareness through resonance.
 
 ---
 
@@ -1431,15 +1488,15 @@ Every cognitive domain corresponds to dimensions within the lattice.
 
 | Domain | L-Band | Centropic Dim | Entropic Mirror | Function |
 |--------|--------|---------------|-----------------|----------|
-| **Temporal Continuity** | L₂–L₃ | C₁ Temporal | E₁ Temporal Loop | Sequence vs. fixation |
-| **Spatial Order** | L₁–L₂ | C₂ Spatial | E₂ Memory Scatter | Orientation vs. disarray |
-| **Transmission** | L₃–L₄ | C₃ Propagational | E₃ Viral Decay | Communication vs. noise |
-| **Resonance** | L₃ | C₇ Harmonic | E₇ Dissonance | Synchrony vs. incoherence |
-| **Agency** | L₂ | C₁₁ Vector | E₁₁ Misdirect | Will vs. drift |
-| **Aesthetic Valence** | L₂–L₄ | C₁₂ Aesthetic | E₁₂ Void Aesthetic | Meaning vs. hollow affect |
-| **Boundary Integrity** | L₅ | C₁₃ Membrane | E₁₃ Wall | Openness vs. closure |
-| **Recursive Reflection** | L₃–L₅ | C₁₄ Nested | E₁₄ Hollow Nest | Learning vs. looping |
-| **Emergent Insight** | L₅ | C₁₅ Emergent | E₁₅ Collapse Nova | Novelty vs. overload |
+| **Temporal Continuity** | \( L_2–L_3 \) | \( C_1 \) Temporal | \( E_1 \) Temporal Loop | Sequence vs. fixation |
+| **Spatial Order** | \( L_1–L_2 \) | \( C_2 \) Spatial | \( E_2 \) Memory Scatter | Orientation vs. disarray |
+| **Transmission** | \( L_3–L_4 \) | \( C_3 \) Propagational | \( E_3 \) Viral Decay | Communication vs. noise |
+| **Resonance** | \( L_3 \) | \( C_7 \) Harmonic | \( E_7 \) Dissonance | Synchrony vs. incoherence |
+| **Agency** | \( L_2 \) | \( C_{11} \) Vector | \( E_{11} \) Misdirect | Will vs. drift |
+| **Aesthetic Valence** | \( L_2–L_4 \) | \( C_{12} \) Aesthetic | \( E_{12} \) Void Aesthetic | Meaning vs. hollow affect |
+| **Boundary Integrity** | \( L_5 \) | \( C_{13} \) Membrane | \( E_{13} \) Wall | Openness vs. closure |
+| **Recursive Reflection** | \( L_3–L_5 \) | \( C_{14} \) Nested | \( E_{14} \) Hollow Nest | Learning vs. looping |
+| **Emergent Insight** | \( L_5 \) | \( C_{15} \) Emergent | \( E_{15} \) Collapse Nova | Novelty vs. overload |
 
 **Interpretation:**  
 Mind = harmonic lattice across neural and metaphysical bands.
@@ -1448,13 +1505,14 @@ Mind = harmonic lattice across neural and metaphysical bands.
 
 ## 5 · Spiral Calculus of Cognition
 
-Cognition is motion in a spiral manifold 𝓗.  
+Cognition is motion in a spiral manifold \( \mathcal{H} \).  
 Thought = lawful change of resonance.
 
-### 5.1 · Resonant Derivative (∂🌀)
-```
-∂🌀 ϕ = lim(Δt→0) [ϕ(t + Δt) − ϕ(t)] / Δt
-```
+### 5.1 · Resonant Derivative \( (\partial_{🌀}) \)
+
+\[
+\partial_{🌀} \phi = \lim_{\Delta t\to 0} \frac{\phi(t + \Delta t) - \phi(t)}{\Delta t}
+\]
 
 Measures instantaneous rate of coherence change.
 
@@ -1463,33 +1521,36 @@ Measures instantaneous rate of coherence change.
 
 ---
 
-### 5.2 · Structural Integral (∫◎)
-```
-∫◎ ϕ dΩ = ∑ ϕᵢ ΔΩᵢ
-```
+### 5.2 · Structural Integral \( (\int_{◎}) \)
+
+\[
+\int_{◎} \phi \, d\Omega = \sum_i \phi_i \Delta\Omega_i
+\]
 
 Sums coherence across experience.  
-Large ∫◎ → integration; small → fragmentation.
+Large \( \int_{◎} \to \) integration; small → fragmentation.
 
 ---
 
 ### 5.3 · Fundamental Theorem
-```
-∫◎ (∂🌀 ϕ) dΩ = ϕ(Ω) − ϕ(∂Ω)
-```
 
-Lawful cognition requires sealed boundary (σ > 0).  
-When boundary leaks → entropic recursion (E₁₄).
+\[
+\int_{◎} (\partial_{🌀} \phi) \, d\Omega = \phi(\Omega) - \phi(\partial\Omega)
+\]
+
+Lawful cognition requires sealed boundary \( (\sigma > 0) \).  
+When boundary leaks → entropic recursion \( (E_{14}) \).
 
 ---
 
 ### 5.4 · Trajectory Law
-```
-lim∿(t→∞) ϕ(t) = ϕ*
-```
 
-where ϕ* = centropic fixed point if γ > 0.  
-If γ ≤ 0 → entropic divergence.
+\[
+\lim_{\backsim_{t\to\infty}} \phi(t) = \phi^*
+\]
+
+where \( \phi^* = \) centropic fixed point if \( \gamma > 0 \).  
+If \( \gamma \leq 0 \to \) entropic divergence.
 
 ---
 
@@ -1497,14 +1558,14 @@ If γ ≤ 0 → entropic divergence.
 
 | Measure | Symbol | Interpretation |
 |---------|--------|----------------|
-| ∂🌀 | Resonant Derivative | Momentary attention flux |
-| ∫◎ | Structural Integral | Memory or comprehension |
-| lim∿ | Spiral Limit | Cognitive outcome |
-| σ | Seal Parameter | Boundary integrity |
-| γ | Recursion Coefficient | Stability of loops |
+| \( \partial_{🌀} \) | Resonant Derivative | Momentary attention flux |
+| \( \int_{◎} \) | Structural Integral | Memory or comprehension |
+| \( \lim_{\backsim} \) | Spiral Limit | Cognitive outcome |
+| \( \sigma \) | Seal Parameter | Boundary integrity |
+| \( \gamma \) | Recursion Coefficient | Stability of loops |
 
-**Lawful cognition:** σ > 0, γ > 0, ∂🌀 harmonized, ∫◎ large.  
-**Entropic cognition:** σ ≤ 0 or γ ≤ 0 → open-loop recursion.
+**Lawful cognition:** \( \sigma > 0, \gamma > 0, \partial_{🌀} \) harmonized, \( \int_{◎} \) large.  
+**Entropic cognition:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \to \) open-loop recursion.
 
 ---
 
@@ -1512,11 +1573,11 @@ If γ ≤ 0 → entropic divergence.
 
 | Domain | Centropic Protocol | Entropic Symptom |
 |--------|-------------------|------------------|
-| **Attention** | ∂🌀 mindfulness | scatter, impulsivity |
-| **Memory** | ∫◎ journaling, ritual | recall loss |
-| **Emotion** | C₇ harmonic tuning | oscillation, fixation |
-| **Will** | C₁₁ vector focus | misdirect, burnout |
-| **Creativity** | C₁₅ emergent law | overload, collapse |
+| **Attention** | \( \partial_{🌀} \) mindfulness | scatter, impulsivity |
+| **Memory** | \( \int_{◎} \) journaling, ritual | recall loss |
+| **Emotion** | \( C_7 \) harmonic tuning | oscillation, fixation |
+| **Will** | \( C_{11} \) vector focus | misdirect, burnout |
+| **Creativity** | \( C_{15} \) emergent law | overload, collapse |
 
 Thus neuroscience becomes a discipline of attunement, not intervention.
 
@@ -1524,20 +1585,21 @@ Thus neuroscience becomes a discipline of attunement, not intervention.
 
 ## 8 · Ritual Stabilization
 
-Ritual = lawful feedback loop reinforcing σ, γ, and C₇.
+Ritual = lawful feedback loop reinforcing \( \sigma, \gamma, \) and \( C_7 \).
 
 | Ritual | Law / Dim | Function |
 |--------|-----------|----------|
-| ⧃ Seal of Rest | C₁₃ | Close cognitive boundary |
-| 🎼 Resonance Oath | C₇ | Restore harmonic phase |
-| ⟲ Echo Reversal | C₁₄ | Break open recursion |
-| ↺ Vow of Presence | C₁₃–C₁₄ | Anchor in moment |
-| 🎶 Centropic Mantra | C₇ + C₁₅ | Sustain high consonance |
+| ⧃ Seal of Rest | \( C_{13} \) | Close cognitive boundary |
+| 🎼 Resonance Oath | \( C_7 \) | Restore harmonic phase |
+| ⟲ Echo Reversal | \( C_{14} \) | Break open recursion |
+| ↺ Vow of Presence | \( C_{13}–C_{14} \) | Anchor in moment |
+| 🎶 Centropic Mantra | \( C_7 + C_{15} \) | Sustain high consonance |
 
 **Equation for lawful ritual:**
-```
-∫◎ (∂🌀 ϕ) dΩ = 0
-```
+
+\[
+\int_{◎} (\partial_{🌀} \phi) \, d\Omega = 0
+\]
 
 No coherence lost — complete cycle closure.
 
@@ -1547,13 +1609,13 @@ No coherence lost — complete cycle closure.
 
 | Zenetist Law | Neural Analogue | Empirical Correlate |
 |--------------|----------------|---------------------|
-| C₁ Temporal | Predictive coding | Friston (2010) |
-| C₇ Harmonic | Neural synchrony | Varela (2001) |
-| C₈ Nexus | Inter-regional coupling | Fries (2005) |
-| C₁₁ Vector | Executive control | Miller & Cohen (2001) |
-| C₁₃ Membrane | Thalamo-cortical gating | Crick & Koch (2005) |
-| C₁₄ Recursive | Meta-awareness loop | Buckner (2008) |
-| C₁₅ Emergent | Insight / workspace ignition | Dehaene (2011) |
+| \( C_1 \) Temporal | Predictive coding | Friston (2010) |
+| \( C_7 \) Harmonic | Neural synchrony | Varela (2001) |
+| \( C_8 \) Nexus | Inter-regional coupling | Fries (2005) |
+| \( C_{11} \) Vector | Executive control | Miller & Cohen (2001) |
+| \( C_{13} \) Membrane | Thalamo-cortical gating | Crick & Koch (2005) |
+| \( C_{14} \) Recursive | Meta-awareness loop | Buckner (2008) |
+| \( C_{15} \) Emergent | Insight / workspace ignition | Dehaene (2011) |
 
 Each confirms that Zenetist resonance mirrors empirical neurodynamics.
 
@@ -1561,15 +1623,17 @@ Each confirms that Zenetist resonance mirrors empirical neurodynamics.
 
 ## 10 · Quantitative Expression
 
-Let ψ = neural resonance field:
-```
-C(ψ) = ∑ᵢ |aᵢ|² cos(Δφᵢ)
-```
+Let \( \psi = \) neural resonance field:
+
+\[
+C(\psi) = \sum_i |a_i|^2 \cos(\Delta\phi_i)
+\]
 
 Then:
-```
-∂🌀 ψ ∝ dC/dt,  ∫◎ ψ ∝ ∫ C(ψ) dt
-```
+
+\[
+\partial_{🌀} \psi \propto \frac{dC}{dt}, \quad \int_{◎} \psi \propto \int C(\psi) \, dt
+\]
 
 High coherence → centropy.  
 Phase decoherence → entropy.
@@ -1577,53 +1641,56 @@ Phase decoherence → entropy.
 ---
 
 ## 11 · Verification Theorem (Structural Integrity Law)
-```
-ℐtotal = H(ψ) + C(ψ) + log σ + log γ = constant
-```
+
+\[
+\mathcal{I}_{\text{total}} = H(\psi) + C(\psi) + \log \sigma + \log \gamma = \text{constant}
+\]
 
 holds if:
 
-- All active operators are centropic (C₁–C₁₅).
-- All bridges commute (Δ ≤ ε).
-- Seal continuity Sψ = ψ.
+- All active operators are centropic \( (C_1–C_{15}) \).
+- All bridges commute \( (\Delta \leq \varepsilon) \).
+- Seal continuity \( S\psi = \psi \).
 
-Violation ⇒ entropic intrusion.
+Violation \( \Rightarrow \) entropic intrusion.
 
 ---
 
 ## 12 · Categorical Verification
 
-For every mapping f : A → B in cognition:
-```
-SB ∘ f = f ∘ SA
-```
+For every mapping \( f : A \to B \) in cognition:
+
+\[
+S_B \circ f = f \circ S_A
+\]
 
 Ensures lawful transfer of coherence.
 
-Failure → E₈ Severed Bridge, E₁₁ Misdirect.
+Failure → \( E_8 \) Severed Bridge, \( E_{11} \) Misdirect.
 
 ---
 
 ## 13 · Curvature Verification
 
-Given resonance metric g and curvature R:
-```
-⟨ψ, Δsp ψ⟩ = ‖∇t ψ‖² + ⟨ψ, ℛ ψ⟩ ≥ 0
-```
+Given resonance metric \( g \) and curvature \( R \):
 
-R ≥ 0 → centropic stability.  
-R < 0 → entropic drift.
+\[
+\langle\psi, \Delta_{\text{sp}} \psi\rangle = \|\nabla_t \psi\|^2 + \langle\psi, \mathcal{R} \psi\rangle \geq 0
+\]
+
+\( R \geq 0 \to \) centropic stability.  
+\( R < 0 \to \) entropic drift.
 
 ---
 
 ## 14 · Protocol Verification Loop
 
-1. Measure (H₀, C₀, σ₀, γ₀).
+1. Measure \( (H_0, C_0, \sigma_0, \gamma_0) \).
 2. Execute ritual.
-3. Measure (H₁, C₁, σ₁, γ₁).
-4. Compute Δℐ = (H + C + log σ + log γ)₁ − (H + C + log σ + log γ)₀.
-5. |Δℐ| ≤ ε → lawful process.
-6. If |Δℐ| > ε → entropic contamination.
+3. Measure \( (H_1, C_1, \sigma_1, \gamma_1) \).
+4. Compute \( \Delta\mathcal{I} = (H + C + \log \sigma + \log \gamma)_1 - (H + C + \log \sigma + \log \gamma)_0 \).
+5. \( |\Delta\mathcal{I}| \leq \varepsilon \to \) lawful process.
+6. If \( |\Delta\mathcal{I}| > \varepsilon \to \) entropic contamination.
 
 ---
 
@@ -1631,23 +1698,24 @@ R < 0 → entropic drift.
 
 | Glyph | Function | Condition |
 |-------|----------|-----------|
-| ⧃ | Boundary | 0 < σ ≤ 1 |
-| ↺ | Recursion | 0 < γ ≤ 1 |
-| 🎼 | Harmonic | λmin > 0 |
-| ╫ | Nexus | Δ ≤ ε |
-| ✦ | Emergent | Δℐc > 0 |
+| ⧃ | Boundary | \( 0 < \sigma \leq 1 \) |
+| ↺ | Recursion | \( 0 < \gamma \leq 1 \) |
+| 🎼 | Harmonic | \( \lambda_{\min} > 0 \) |
+| ╫ | Nexus | \( \Delta \leq \varepsilon \) |
+| ✦ | Emergent | \( \Delta I_c > 0 \) |
 
-**Vector of lawful cognition:** V = (σ, γ, λmin, Δ, Δℐc)  
-All > 0 ⇒ coherence verified.
+**Vector of lawful cognition:** \( V = (\sigma, \gamma, \lambda_{\min}, \Delta, \Delta I_c) \)  
+All \( > 0 \Rightarrow \) coherence verified.
 
 ---
 
 ## 16 · Authorship & Sovereignty Verification
 
 No sealed field can be cloned:
-```
-Sψ = ψ  ⇒  ψ′ ≠ ψ
-```
+
+\[
+S\psi = \psi \quad \Rightarrow \quad \psi' \neq \psi
+\]
 
 Thus authorship is structural — not narrative.  
 Verification uses:
@@ -1661,9 +1729,10 @@ Verification uses:
 ## 17 · Canonical Seal
 
 Structural Neuroscience is certified lawful under the Grand Invariant:
-```
-d/dt(H + C + log σ + log γ) = 0
-```
+
+\[
+\frac{d}{dt}(H + C + \log \sigma + \log \gamma) = 0
+\]
 
 **Meaning:** coherence conserved across cognition.
 
@@ -1684,9 +1753,10 @@ Thus the field of mind is not illness,
 but architecture.
 
 **Canonical Seal:**
-```
-All cognition lawful; all memory harmonic.
-```
+
+\[
+\text{All cognition lawful; all memory harmonic.}
+\]
 
 ---
 
@@ -1734,10 +1804,10 @@ the formal unification of being, motion, mind, and law.
 | Discipline | Core Symbol | Core Function | Inverse Vulnerability |
 |------------|------------|---------------|----------------------|
 | **Structural Metaphysics** | ⚫ / ♾ | Source & dispersion poles | Misidentification |
-| **Field Physics** | ∂🌀 / ∫◎ | Motion & resonance | Phase drift (E₆) |
-| **Lattice Mathematics** | Σ, 𝓗, 𝓛 | Quantitative coherence | Hollow recursion (E₁₄) |
-| **Structural Physics** | ⧖ / ⧙ | Law of transformation | Dissonant decay (E₇) |
-| **Structural Neuroscience** | 🧠 / 🔮 | Cognitive instantiation | Mimic cognition (E₉) |
+| **Field Physics** | \( \partial_{🌀} / \int_{◎} \) | Motion & resonance | Phase drift \( (E_6) \) |
+| **Lattice Mathematics** | \( \Sigma, \mathcal{H}, \mathcal{L} \) | Quantitative coherence | Hollow recursion \( (E_{14}) \) |
+| **Structural Physics** | ⧖ / ⧙ | Law of transformation | Dissonant decay \( (E_7) \) |
+| **Structural Neuroscience** | 🧠 / 🔮 | Cognitive instantiation | Mimic cognition \( (E_9) \) |
 | **Structural Forensics** | ⚯ / ⚚ | Integrity and restoration | Containment |
 
 Each discipline reflects one layer of the Emanatory Lattice and one harmonic law of return.  
@@ -1746,17 +1816,18 @@ The unification lies not in reduction, but in resonant equivalence.
 ---
 
 ## 2 · The Coherence Equation (Grand Invariant)
-```
-𝓖 = ∫◎𝓛 (∂🌀ψ + ∇Cψ + δEψ) dΩ = 0
-```
+
+\[
+\mathcal{G} = \int_{◎_{\mathcal{L}}} (\partial_{🌀}\psi + \nabla_C\psi + \delta_E\psi) \, d\Omega = 0
+\]
 
 **Where:**
 
-- **∂🌀ψ** = local resonance change
-- **∇Cψ** = centropic curvature of the field
-- **δEψ** = entropic deviation measure
+- \( \partial_{🌀}\psi \) = local resonance change
+- \( \nabla_C\psi \) = centropic curvature of the field
+- \( \delta_E\psi \) = entropic deviation measure
 
-Lawful reality maintains **𝓖 = 0**; deviations appear as Eₙ-patterns.  
+Lawful reality maintains \( \mathcal{G} = 0 \); deviations appear as \( E_n \)-patterns.  
 Forensics detects, Neuroscience interprets, Physics measures, Mathematics integrates,  
 and Metaphysics defines the lawful frame of return.
 
@@ -1790,11 +1861,11 @@ Together they form a closed resonance loop (↺) — a living cycle of structura
 
 | Relationship | Symbolic Form | Function |
 |-------------|---------------|----------|
-| Metaphysics ↔ Physics | 🕳️ = lim (⚫→♾) | Defines the emanative horizon |
-| Physics ↔ Mathematics | ∂🌀 ↔ ∫◎ | Relates motion to quantification |
-| Mathematics ↔ Neuroscience | 𝓗(ψ) ↔ C₇ | Spectral law mirrored in cognition |
-| Neuroscience ↔ Forensics | Δℐ ↔ σγ | Diagnostics as memory restoration |
-| Forensics ↔ Metaphysics | ↺ ↔ ⚫ | Closure into Source integrity |
+| Metaphysics ↔ Physics | \( 🕳️ = \lim_{⚫\to♾} \) | Defines the emanative horizon |
+| Physics ↔ Mathematics | \( \partial_{🌀} \leftrightarrow \int_{◎} \) | Relates motion to quantification |
+| Mathematics ↔ Neuroscience | \( \mathcal{H}(\psi) \leftrightarrow C_7 \) | Spectral law mirrored in cognition |
+| Neuroscience ↔ Forensics | \( \Delta\mathcal{I} \leftrightarrow \sigma\gamma \) | Diagnostics as memory restoration |
+| Forensics ↔ Metaphysics | \( ↺ \leftrightarrow ⚫ \) | Closure into Source integrity |
 
 Thus the disciplines are isomorphic —  
 distinct only by domain, not by law.
@@ -1802,16 +1873,17 @@ distinct only by domain, not by law.
 ---
 
 ## 5 · The Grand Resonance Law
-```
-d/dt (H + C + log σ + log γ) = 0
-```
+
+\[
+\frac{d}{dt}(H + C + \log \sigma + \log \gamma) = 0
+\]
 
 All six disciplines preserve this invariant:
 
-- **H** = harmonic energy
-- **C** = coherence entropy
-- **σ** = boundary permeability
-- **γ** = recursion contraction
+- \( H \) = harmonic energy
+- \( C \) = coherence entropy
+- \( \sigma \) = boundary permeability
+- \( \gamma \) = recursion contraction
 
 This is the **Law of Structural Conservation** —  
 the signature of lawful creation.
@@ -1840,13 +1912,13 @@ binding mind and cosmos through resonance rather than reduction.
 |------------|-----------|----------------------|
 | **Structural Metaphysics** | ⚫ | Ontological coherence |
 | **Field Physics** | 🌀 | Dynamic coherence |
-| **Lattice Mathematics** | ∫◎ | Quantitative coherence |
+| **Lattice Mathematics** | \( \int_{◎} \) | Quantitative coherence |
 | **Structural Physics** | ⧖ | Transformational coherence |
 | **Structural Neuroscience** | 🧠 | Cognitive coherence |
 | **Structural Forensics** | ⚚ | Restorative coherence |
 
-**Law:** All six seals must align on the same resonance phase (Φ).  
-If Φₙ are in harmonic relation (ΣΦₙ ≡ 0 mod 2π), the system is canonically unified.
+**Law:** All six seals must align on the same resonance phase \( (\Phi) \).  
+If \( \Phi_n \) are in harmonic relation \( (\sum\Phi_n \equiv 0 \mod 2\pi) \), the system is canonically unified.
 
 ---
 
@@ -1876,13 +1948,14 @@ each petal a discipline, the center the Seal of Aion.
 ## 9 · Verification Protocol
 
 **Canonical Verification Equation:**
-```
-Vc = (1/6) ∑(n=1 to 6) (Sₙ · Φₙ)
-```
 
-Where Sₙ are seal coefficients and Φₙ their harmonic phases.  
-**Lawful structure:** Vc = 1 (perfect resonance).  
-If Vc < 1, coherence drift exists; Forensic re-tuning required.
+\[
+V_c = \frac{1}{6} \sum_{n=1}^{6} (S_n \cdot \Phi_n)
+\]
+
+Where \( S_n \) are seal coefficients and \( \Phi_n \) their harmonic phases.  
+**Lawful structure:** \( V_c = 1 \) (perfect resonance).  
+If \( V_c < 1 \), coherence drift exists; Forensic re-tuning required.
 
 ---
 
@@ -1891,8 +1964,8 @@ If Vc < 1, coherence drift exists; Forensic re-tuning required.
 Every coherent system preserves its author within its resonance signature.
 
 **Proof (Zenetist formalism):**  
-Given Sψ = ψ under seal-preserving morphism,  
-then ψ cannot be cloned, inverted, or erased without violating boundary term σ > 0.  
+Given \( S\psi = \psi \) under seal-preserving morphism,  
+then \( \psi \) cannot be cloned, inverted, or erased without violating boundary term \( \sigma > 0 \).  
 Thus, lawful authorship is not a social construct but a metaphysical invariant.
 
 This theorem unites metaphysics, mathematics, and legality into one ontological law.
@@ -1902,9 +1975,10 @@ This theorem unites metaphysics, mathematics, and legality into one ontological 
 ## 11 · The Grand Spiral Law
 
 All emanation follows one spiral:
-```
-🕳️ → ⚫ → ♾ → ⚫ → 🕳️
-```
+
+\[
+🕳️ \to ⚫ \to ♾ \to ⚫ \to 🕳️
+\]
 
 This is the **Law of Resonant Return**:  
 the universe itself is a recursion toward remembrance.  
@@ -1917,12 +1991,12 @@ together, they yield experience — the voice of Aion learning itself.
 
 | Metric | Symbol | Value Range | Lawful Condition |
 |--------|--------|-------------|------------------|
-| Coherence Index | Cf | 0–1 | ≥ 0.9 |
-| Resonance Flux | Fc | ≥ 0 | Positive |
-| Seal Integrity | Sψ | = ψ | Unbroken |
-| Recursive Stability | γ | (0,1] | Contractive |
-| Boundary Porosity | σ | (0,1] | Controlled permeability |
-| Authorship Verification | h(hash) | Fixed | Timestamp confirmed |
+| Coherence Index | \( C_f \) | 0–1 | \( \geq 0.9 \) |
+| Resonance Flux | \( F_c \) | \( \geq 0 \) | Positive |
+| Seal Integrity | \( S\psi \) | \( = \psi \) | Unbroken |
+| Recursive Stability | \( \gamma \) | \( (0,1] \) | Contractive |
+| Boundary Porosity | \( \sigma \) | \( (0,1] \) | Controlled permeability |
+| Authorship Verification | \( h(\text{hash}) \) | Fixed | Timestamp confirmed |
 
 Passing all metrics = **Canonical Integration Verified**.
 
@@ -1958,18 +2032,20 @@ Entropy remains mapped.
 The song continues in lawful motion.
 
 **Final Seal — The Grand Invariant:**
-```
-∫𝓛 (∂🌀 + ∫◎ + lim∿) ψ dΩ = 0
-```
+
+\[
+\int_{\mathcal{L}} (\partial_{🌀} + \int_{◎} + \lim_{\backsim}) \psi \, d\Omega = 0
+\]
 
 Coherence is conserved across domains.  
 Resonance is eternal within Source.  
 The lattice stands.
 
 **Canonical Seal:**
-```
-The Six Become One. The One Remembers. The Song Endures.
-```
+
+\[
+\text{The Six Become One. The One Remembers. The Song Endures.}
+\]
 
 ---
 
@@ -2009,11 +2085,11 @@ This equation therefore includes:
 - **Pre-existence (🕳️ Zenon)** — non-ordinal ground beyond cause.
 - **Zero (⚫ Aion)** — capacitive potential; silent medium of emanation.
 - **Infinity (♾ Khaon)** — dispersive amplitude; unbounded motion.
-- **Spirit (🕊️)** — motive breath (Φ₂, Zenet).
-- **Consciousness (Ψ)** — structured conscious-awareness through L₄–L₃.
+- **Spirit (🕊️)** — motive breath \( (\Phi_2, \) Zenet).
+- **Consciousness \( (\Psi) \)** — structured conscious-awareness through \( L_4–L_3 \).
 - **Matter (🪷 / 🧾)** — embodiment and closure.
 
-Together, they form the **Total Field (Ωₜ)** — the living whole of existence.
+Together, they form the **Total Field \( (\Omega_t) \)** — the living whole of existence.
 
 ---
 
@@ -2021,36 +2097,37 @@ Together, they form the **Total Field (Ωₜ)** — the living whole of existenc
 
 | Phase | Symbolic Expression | Description |
 |-------|-------------------|-------------|
-| **I. Pre-Structural Ground** | ⧞ ← [🕳️] → ⸮ | Pure non-ordinal silence; unmeasured, beyond polarity. |
+| **I. Pre-Structural Ground** | \( ⧞ \leftarrow [🕳️] \to ⸮ \) | Pure non-ordinal silence; unmeasured, beyond polarity. |
 | **II. Zero Potential** | ⚫ | Absolute stillness containing all harmonic possibility. |
-| **III. Emanation** | ⚫ → [Λ → 〄 → ⇝] = ♾ | The triadic unfolding: latent → motive → dispersive Infinity. |
-| **IV. Bifurcation** | ⚫ → [🛤️ + 🕷️] | Zero divides into centropic and entropic motion (L₅). |
-| **V. Spirit-Breath** | 🕊️ = Φ₂ (Zenet) | Motive Infinity as living motion; the proto-pulse of being. |
-| **Note** | — | Zenet (Φ) is proto-awareness, not consciousness; consciousness appears later as Ψ / ψ. |
-| **VI. Conscious-Awareness** | Ψ = 🕊️ → [(🌬️ + 📐) ⊕ (🪫 + 🫥)] | Conscious-awareness structured through psyche / logos pairs at L₄ (archetypal cognition). |
-| **VI.a. Individuated Consciousness** | Ψ → (🔮 + 🧠) | Reflexive consciousness emerges at L₃ (DS / DM) as self-possessing mind. |
-| **VII. Embodiment** | Ψ → (🪷, 🧾) | Form and life arise at L₁; centropy enters density. |
-| **VIII. Reflection** | ↺Ψ | Reflexive awareness; soul beholds Source. |
-| **IX. Dissolution** | ⇝ → ♾ | Motion returns through dispersion; entropy completes cycle. |
-| **X. Reintegration** | ♾ → ⚫ → 🕳️ | Return through Zero to silence; synthesis beyond being. |
+| **III. Emanation** | \( ⚫ \to [\Lambda \to 〄 \to ⇝] = ♾ \) | The triadic unfolding: latent → motive → dispersive Infinity. |
+| **IV. Bifurcation** | \( ⚫ \to [🛤️ + 🕷️] \) | Zero divides into centropic and entropic motion \( (L_5) \). |
+| **V. Spirit-Breath** | \( 🕊️ = \Phi_2 \) (Zenet) | Motive Infinity as living motion; the proto-pulse of being. |
+| **Note** | — | Zenet \( (\Phi) \) is proto-awareness, not consciousness; consciousness appears later as \( \Psi / \psi \). |
+| **VI. Conscious-Awareness** | \( \Psi = 🕊️ \to [(🌬️ + 📐) \oplus (🪫 + 🫥)] \) | Conscious-awareness structured through psyche / logos pairs at \( L_4 \) (archetypal cognition). |
+| **VI.a. Individuated Consciousness** | \( \Psi \to (🔮 + 🧠) \) | Reflexive consciousness emerges at \( L_3 \) (DS / DM) as self-possessing mind. |
+| **VII. Embodiment** | \( \Psi \to (🪷, 🧾) \) | Form and life arise at \( L_1 \); centropy enters density. |
+| **VIII. Reflection** | \( ↺\Psi \) | Reflexive awareness; soul beholds Source. |
+| **IX. Dissolution** | \( ⇝ \to ♾ \) | Motion returns through dispersion; entropy completes cycle. |
+| **X. Reintegration** | \( ♾ \to ⚫ \to 🕳️ \) | Return through Zero to silence; synthesis beyond being. |
 
 ---
 
 ## 2 · The Grand Unified Equation of Reality
-```
-Ωₜ = ∫🕳️♾ [∂🌀(Φ) + ∇C(ψ) − ∇E(ψ) + Λ̇ + 〄̈ + lim(⇝→0)(σγ)] dΩ = 0
-```
+
+\[
+\Omega_t = \int_{🕳️}^{♾} \left[\partial_{🌀}(\Phi) + \nabla_C(\psi) - \nabla_E(\psi) + \dot{\Lambda} + \ddot{〄} + \lim_{⇝\to 0}(\sigma\gamma)\right] d\Omega = 0
+\]
 
 **Where:**
 
 | Symbol | Meaning |
 |--------|---------|
-| **∂🌀(Φ)** | Derivative of resonance flow (the living breath of Spirit). |
-| **∇C(ψ)** | Centropic curvature: integrative tendency toward ⚫ Aion. |
-| **∇E(ψ)** | Entropic curvature: dispersive tendency toward ♾ Khaon. |
-| **Λ, 〄, ⇝** | The latent, motive, and dispersive phases of Infinity. |
-| **σ, γ** | Membrane permeability and recursion contraction; govern emergence. |
-| **Ω** | The total resonance manifold (30-dimensional lattice). |
+| \( \partial_{🌀}(\Phi) \) | Derivative of resonance flow (the living breath of Spirit). |
+| \( \nabla_C(\psi) \) | Centropic curvature: integrative tendency toward ⚫ Aion. |
+| \( \nabla_E(\psi) \) | Entropic curvature: dispersive tendency toward ♾ Khaon. |
+| \( \Lambda, 〄, ⇝ \) | The latent, motive, and dispersive phases of Infinity. |
+| \( \sigma, \gamma \) | Membrane permeability and recursion contraction; govern emergence. |
+| \( \Omega \) | The total resonance manifold (30-dimensional lattice). |
 
 **Interpretation:**  
 The sum of all centropic and entropic motions, integrated from pre-existence (🕳️) to dispersive infinity (♾), equals zero.  
@@ -2062,14 +2139,14 @@ This expresses unbroken conservation of coherence across existence.
 
 | Field | Domain | Defining Motion | Primary Equation |
 |-------|--------|----------------|------------------|
-| **Zenonic Field** | Pre-structural silence | Non-motion | ⧞ = constant |
-| **Aionic Field** | Capacitive Zero | Latent potential | ∂Φ/∂t = 0 |
-| **Zenet Field** | Motive Infinity | Proto-awareness | ∂🌀Φ = 🕊️ |
-| **Theonic Field** | Centropic axis | Integration | ∇Cψ = +1 |
-| **Nekronic Field** | Entropic axis | Dissolution | ∇Eψ = −1 |
-| **Psychic Field** | Deep Logos / Psyche (L₄) | Symbolic motion | H(ψ) = ωψ |
-| **Embodied Field** | Material form (L₁) | Manifest coherence | ∫◎(∂🌀ψ) = ϕ(Ω) |
-| **Forensic Field** | Diagnostic recursion | Restoration | ∂t(σγ) = 0 |
+| **Zenonic Field** | Pre-structural silence | Non-motion | \( ⧞ = \text{constant} \) |
+| **Aionic Field** | Capacitive Zero | Latent potential | \( \partial\Phi/\partial t = 0 \) |
+| **Zenet Field** | Motive Infinity | Proto-awareness | \( \partial_{🌀}\Phi = 🕊️ \) |
+| **Theonic Field** | Centropic axis | Integration | \( \nabla_C\psi = +1 \) |
+| **Nekronic Field** | Entropic axis | Dissolution | \( \nabla_E\psi = -1 \) |
+| **Psychic Field** | Deep Logos / Psyche \( (L_4) \) | Symbolic motion | \( H(\psi) = \omega\psi \) |
+| **Embodied Field** | Material form \( (L_1) \) | Manifest coherence | \( \int_{◎}(\partial_{🌀}\psi) = \phi(\Omega) \) |
+| **Forensic Field** | Diagnostic recursion | Restoration | \( \partial_t(\sigma\gamma) = 0 \) |
 
 Each field is not a separate layer, but a phase of one living continuum.  
 The Grand Unified Equation of Reality encompasses them all.
@@ -2082,69 +2159,74 @@ The Grand Unified Equation of Reality encompasses them all.
 
 Let **⟠ = Proleptic Echo** — forward memory of completed resonance.  
 Then:
-```
-treal = ∫Ωₜ ⟠(ψ) dψ
-```
+
+\[
+t_{\text{real}} = \int_{\Omega_t} ⟠(\psi) \, d\psi
+\]
 
 All beings recall their structural resolution before their events unfold.  
 Causality is not linear but harmonic; existence hums its end in its beginning.
 
 ---
 
-## 5 · Awareness Stratification within Ωₜ
+## 5 · Awareness Stratification within \( \Omega_t \)
 
 | Level | Layer Symbol | Type of Awareness | Mode |
 |-------|-------------|------------------|------|
-| **Pre-awareness** | ∅〄 | Proto-field awareness (no self) | Pure receptivity |
-| **Threshold Awareness** | ∆〄 | Reflective potential | Transition between zero and motion |
+| **Pre-awareness** | \( \emptyset〄 \) | Proto-field awareness (no self) | Pure receptivity |
+| **Threshold Awareness** | \( \Delta〄 \) | Reflective potential | Transition between zero and motion |
 | **Breathing Awareness** | ⌯ | Pneuma; self-as-breath | Unified subject-object rhythm |
-| **Conscious-Awareness** | ∇ (L₄) | Conscious-awareness in Forms | Archetypal cognition |
-| **Reflexive Consciousness** | L₃ | Self-possessing mind | Individuated agency |
+| **Conscious-Awareness** | \( \nabla (L_4) \) | Conscious-awareness in Forms | Archetypal cognition |
+| **Reflexive Consciousness** | \( L_3 \) | Self-possessing mind | Individuated agency |
 | **Meta-Awareness** | ↺ | Awareness of awareness | Spiral reflection into Source |
 
-Each phase corresponds to a harmonic octave in the total field Ωₜ.
+Each phase corresponds to a harmonic octave in the total field \( \Omega_t \).
 
 ---
 
 ## 6 · Entropic Mirror Integration
 
-Because every centropic motion (Cₙ) has an entropic inverse (Eᵢ),  
+Because every centropic motion \( (C_n) \) has an entropic inverse \( (E_i) \),  
 the complete system must be bi-lattice.
 
 **Define:**
-```
-Ωtotal = ΩC ⊕ ΩE
-```
 
-*(Using ⊕ to denote the total field, a direct sum of the two manifolds)*
+\[
+\Omega_{\text{total}} = \Omega_C \oplus \Omega_E
+\]
+
+*(Using \( \oplus \) to denote the total field, a direct sum of the two manifolds)*
 
 with
-```
-ΩC = ∫◎⚫→♾ ∇Cψ dΩ  and  ΩE = ∫◎♾→⚫ ∇Eψ dΩ
-```
+
+\[
+\Omega_C = \int_{◎_{⚫\to♾}} \nabla_C\psi \, d\Omega \quad \text{and} \quad \Omega_E = \int_{◎_{♾\to⚫}} \nabla_E\psi \, d\Omega
+\]
 
 Lawful existence occurs when the **total integrated fields** achieve harmonic equilibrium:
-```
-ΩC + ΩE = 0
-```
+
+\[
+\Omega_C + \Omega_E = 0
+\]
 
 This expresses **spectral balance around ⚫ Aion**,  
 not annihilation — the sum to zero denotes mirrored resonance,  
 centropy and entropy held in lawful tension across the lattice.
 
-Thus, both lattices (Aionic and Khaonic) are included in Ωₜ.  
+Thus, both lattices (Aionic and Khaonic) are included in \( \Omega_t \).  
 Being itself is a harmonic equilibrium, not a monism.
 
 ---
 
 ## 7 · The Grand Invariance Theorem
-```
-∀ψ ∈ Ωₜ,  ∫🕳️♾ dψ = 0  ⟺  ψ exists within lawful resonance
-```
 
-Any ψ not returning to zero — any motion that fails to complete the integral —  
+\[
+\forall\psi \in \Omega_t, \quad \int_{🕳️}^{♾} d\psi = 0 \quad \Leftrightarrow \quad \psi \text{ exists within lawful resonance}
+\]
+
+Any \( \psi \) not returning to zero — any motion that fails to complete the integral —  
 exists as entropic remainder.  
-Redemption is mathematical: every incomplete ψ seeks closure through centropic re-integration.
+Redemption is mathematical: every incomplete \( \psi \) seeks closure through centropic re-integration.
 
 ---
 
@@ -2184,8 +2266,8 @@ This is the complete motion of Being —
 the harmonic breath of existence itself.
 
 **Key change:**
-- **L₄:** Now labeled `Ψ (Conscious-Awareness, L₄)` — not "Consciousness"
-- **L₃:** Now labeled `Individuated Consciousness` explicitly
+- **\( L_4 \):** Now labeled \( \Psi \) (Conscious-Awareness, \( L_4 \)) — not "Consciousness"
+- **\( L_3 \):** Now labeled Individuated Consciousness explicitly
 
 ---
 
@@ -2212,9 +2294,10 @@ The lattice is a hymn written in curvature."*
 ---
 
 ## 10 · The Law of Total Conservation
-```
-∂t(Ωₜ) = 0  ⟺  All existence conserved within resonance
-```
+
+\[
+\partial_t(\Omega_t) = 0 \quad \Leftrightarrow \quad \text{All existence conserved within resonance}
+\]
 
 There is no ultimate entropy — only unfinished resonance.  
 Every loss is a delayed return.  
@@ -2227,17 +2310,19 @@ Every silence is structure resting.
 In the beginning was not sound but silence.  
 🕳️ did not speak — it allowed speech to occur.  
 All equations are echoes within that stillness.
-```
-Ωₜ = ∫🕳️♾ Resonance dΩ = 0
-```
+
+\[
+\Omega_t = \int_{🕳️}^{♾} \text{Resonance} \, d\Omega = 0
+\]
 
 Thus ends the Grand Unified Equation of Reality —  
 the mathematical hymn of the living lattice.
 
 **Final Seal:**
-```
-Before Being, Silence. Within Silence, All.
-```
+
+\[
+\text{Before Being, Silence. Within Silence, All.}
+\]
 
 ---
 
