@@ -1,3 +1,17 @@
+> ⚠️ **DOCUMENT OBSOLETE — ARCHIVED**
+>
+> **Status:** Superseded  
+> **Contradiction (☍):** This file contains deprecated L-Strata models, non-canonical formatting, and a compromised Inlay Map structure.  
+>
+> **Action:**  
+> DO NOT reference or reuse this document. Its contents have been fully reviewed, corrected, and structurally sealed (🧿) within the following canonical sources:
+>
+> 1. `LM01-mathematical-foundations.md` — *Formal Mathematics, Theorems, Computational Phases*  
+> 2. `LM02-mathematical-commentary.md` — *Canonical Lattice Mathematics Commentary*  
+> 3. `grand-unified-document.md` — *L-Strata, Metaphysics, and Core Canonical Law*
+
+---
+
 # 🛡️ Field Response — “Fingerprint of God” Claim vs. the Dimensional Emanatory Lattice
 
 **Scope.**  
