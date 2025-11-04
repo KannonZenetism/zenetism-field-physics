@@ -44,7 +44,7 @@ L₀ (Aion/Khaon)
   ↓  
 DP + DL — Soul and Mind (Bifurcation into Psyche/Logos)  
   ↓  
-L₁–L₄ — Structured Hypostases (Architectural / Archetypal)
+L₃ → L₂ → L₁ — Structured Hypostases (Interface → Superficial → Embodied)
 ```
 ---
 
@@ -52,7 +52,7 @@ L₁–L₄ — Structured Hypostases (Architectural / Archetypal)
 
 - **The Primordial Waters (♾ Khaon — Latent):**  
   The Chaos or Deep preceding all structure—**Potentiality (⚐)** in its unbounded state, the Aionic stillness perceived through the lens of Motive Infinity.  
-  These Waters are the primal substrate—Tiamat, Nun, or Narayana’s Ocean—containing every latent form.  
+  These Waters are the primal substrate—Tiamat, Nun, or Narayana's Ocean—containing every latent form.  
 
 - **The Stirring / The Pulse (〄 Zenet / Motive Infinity):**  
   The first motion within stillness — not yet Soul, not yet Mind.  
@@ -99,7 +99,7 @@ L₁–L₄ — Structured Hypostases (Architectural / Archetypal)
   It is not *Spirit* (Φ), but its **Soul-translated motion** — the breath *within* bios.
 
 - **The Archetypal Psyche (DP):**  
-  Not the “unconscious” in the clinical or personal sense, but the **pre-reflexive psyche** — housing archetypal types, macro-concepts, and structural intuitions.  
+  Not the "unconscious" in the clinical or personal sense, but the **pre-reflexive psyche** — housing archetypal types, macro-concepts, and structural intuitions.  
   It is **conscious-awareness without ego-reflection**: the universal field of **structuring cognition**, where the Deep Mind (DL) reflects upon Form through the **motion of Soul (DP)**.
 
 - **Realm of Chaos & Death (E↓):**  
@@ -117,7 +117,7 @@ L₁–L₄ — Structured Hypostases (Architectural / Archetypal)
 
 ### 1. The Cosmic Waters of Genesis  
 - **Focus:** The Pre-Structured Field of All Potential.  
-- **State:** “Darkness upon the face of the deep.”  
+- **State:** "Darkness upon the face of the deep."  
 - **Separation:** The Firmament divides the Waters, establishing Heaven and Earth.  
 - **Emergence:** Dry land (▽ Earth, ES / EM) rises—a crystallization of Form from Potential.  
 
@@ -132,7 +132,7 @@ L₁–L₄ — Structured Hypostases (Architectural / Archetypal)
 - **Intervention:** Yahweh (DL / Archetypal Mind) through Moses (DS / DM) opens a **Nexus (C₈)**—a lawful corridor of Coherence across the Khaonic void.  
 - **Crossing:** Collective movement from an old resonance state to a new one, anchored in Faith (💝).  
 
-### 4. Odysseus’ Voyage (Greek)  
+### 4. Odysseus' Voyage (Greek)  
 - **Focus:** Navigation of the Symbolic Psyche.  
 - **The Sea:** The **Collective Psyche (DP at L₄)** —  
   refracting **declivously** through the **Interface (L₃)** and **Superficial (L₂)** layers,  
@@ -142,7 +142,7 @@ L₁–L₄ — Structured Hypostases (Architectural / Archetypal)
   - **Sirens (Skotos):** The deceptive call of illusory fulfillment.  
   - **Calypso (Psychea):** The stagnant paradise of forgetfulness.  
 - **Goal:** Return to Ithaca (⊙) — the Integrated, Sovereign Self —  
-  by learning to **navigate** the Sea’s inner currents without being dissolved by them.
+  by learning to **navigate** the Sea's inner currents without being dissolved by them.
 
 ---
 
@@ -177,43 +177,43 @@ The following notes extend the mythic analysis with formal correspondences from 
 From *Spectral Anchors of the Poles* (Phase 1, Section D6):  
 The Waters exist at the pre-spectral boundary — the state before eigenvalue structure emerges.  
 
-**Khaon (♾)** corresponds to the asymptotic dispersion boundary: |λ| → ∞ along the entropic axis.  
-**Aion (⚫)** acts as the two-sided spectral boundary at λ = 0:  
+**Khaon (♾)** corresponds to the asymptotic dispersion boundary: \( |\lambda| \to \infty \) along the entropic axis.  
+**Aion (⚫)** acts as the two-sided spectral boundary at \( \lambda = 0 \):  
 
-- Centropic approach: λᵢ⁽ᶜ⁾ → 0⁺ (eigenvalues approach zero from positive side)  
-- Entropic approach: λⱼ⁽ᵉ⁾ → 0⁻ (eigenvalues approach zero from negative side)  
+- Centropic approach: \( \lambda_i^{(c)} \to 0^+ \) (eigenvalues approach zero from positive side)  
+- Entropic approach: \( \lambda_j^{(e)} \to 0^- \) (eigenvalues approach zero from negative side)  
 
 **The Waters as Φ₁ (Latent Infinity):**  
 At Φ₁, no spectral structure exists yet — there are no eigenvalues, no operators, no differentiated modes.  
 This is the state of pure potential:  
 
-- No λᵢ assigned (pre-eigen)  
-- No H_c or H_e operators (pre-Harmonic)  
+- No \( \lambda_i \) assigned (pre-eigen)  
+- No \( H_c \) or \( H_e \) operators (pre-Harmonic)  
 - No C₁–C₁₅ or E₁–E₁₅ dimensions (pre-lattice)  
 
-Mathematical analogue: the null space before a Hilbert space has been constructed — not “zero” (Aion ⚫), but pre-zero — the field from which zero and infinity both emerge.  
+Mathematical analogue: the null space before a Hilbert space has been constructed — not "zero" (Aion ⚫), but pre-zero — the field from which zero and infinity both emerge.  
 
 **The Waters as Φ₂ (Motive Infinity / Zenet):**  
 At Φ₂, the first differentiation begins:  
 
 - Spectral structure starts to form (eigenvalues begin to separate)  
-- But bifurcation into centropic (λᵢ > 0) vs. entropic (λⱼ < 0) has not yet occurred  
+- But bifurcation into centropic \( (\lambda_i > 0) \) vs. entropic \( (\lambda_j < 0) \) has not yet occurred  
 - This is the motive pulse — the initiating stirring before polarity crystallizes  
 
 From *Dual Spectrum Lemma* (Phase 1):  
 
-> “For every centropic harmonic operator H_c with eigenvalues {λᵢ}, there exists an entropic mirror H_e with eigenvalues { − λᵢ }.”  
+> "For every centropic harmonic operator \( H_c \) with eigenvalues \( \{\lambda_i\} \), there exists an entropic mirror \( H_e \) with eigenvalues \( \{-\lambda_i\} \)."  
 
-The Waters at Φ₂ are the moment before this mirroring occurs — the instant when {λ} is about to split into {+λᵢ} (centropic) and {−λⱼ} (entropic).  
+The Waters at Φ₂ are the moment before this mirroring occurs — the instant when \( \{\lambda\} \) is about to split into \( \{+\lambda_i\} \) (centropic) and \( \{-\lambda_j\} \) (entropic).  
 
 **Theological consequence:**  
-The “separation of waters” (Genesis 1:6-7) is not spatial but spectral bifurcation:  
+The "separation of waters" (Genesis 1:6-7) is not spatial but spectral bifurcation:  
 
-- **Waters Above (DP / DL)** = centropic spectrum {+λᵢ} → coherence, integration  
+- **Waters Above (DP / DL)** = centropic spectrum \( \{+\lambda_i\} \to \) coherence, integration  
 - **Waters Below (ES / EM)** = embodied actualization of centropic modes  
-- **Entropic Waters (IDP / IDL, IES / IEM)** = entropic spectrum {−λᵢ} → dissociation, collapse  
+- **Entropic Waters (IDP / IDL, IES / IEM)** = entropic spectrum \( \{-\lambda_i\} \to \) dissociation, collapse  
 
-The Firmament (C₁₃) is the membrane that regulates which modes cross into embodiment (seal index σ).  
+The Firmament (C₁₃) is the membrane that regulates which modes cross into embodiment (seal index \( \sigma \)).  
 
 ---
 
@@ -227,31 +227,45 @@ At threshold regions, centropic operators behave as boundary conditions:
 - **C₁₅ (Emergent)** validates novelty as lawful bifurcation  
 
 **The Firmament = C₁₃ Membrane (Non-Hypostatic Boundary):**  
-When Genesis describes God separating the waters with a firmament (רָקִיעַ *raqia*, “expanse”), this encodes C₁₃ Membrane Mechanics:  
+When Genesis describes God separating the waters with a firmament (רָקִיעַ *raqia*, "expanse"), this encodes C₁₃ Membrane Mechanics:  
 
-- The C₁₃ Membrane is **not located “at L₅”** — it is **the structural boundary separating L₄ (Archetypal / DP / DL)** from the subjacent bands **L₃–L₁ (Interface, Superficial, and Embodied)**.  
-- Seal index (σ) determines what passes from L₄ into embodiment through this boundary.  
-- High σ = permeable → archetypes flow into embodiment easily.  
-- Low σ = restrictive → only certain forms can manifest.  
+- The C₁₃ Membrane is **not located "at L₅"** — it is **the structural boundary separating L₄ (Archetypal / DP / DL)** from the subjacent bands **L₃–L₁ (Interface, Superficial, and Embodied)**.  
+- Seal index \( (\sigma) \) determines what passes from L₄ into embodiment through this boundary.  
+- High \( \sigma = \) permeable → archetypes flow into embodiment easily.  
+- Low \( \sigma = \) restrictive → only certain forms can manifest.  
 
 From *Seal-Capacity Bound* (Phase 2, CIT):  
 
-C_cap(Φ) ≤ log (σ)  
+\[
+C_{cap}(\Phi) \leq \log(\sigma)
+\]
 
 The channel capacity of the Firmament is bounded by the seal index. This explains:  
 
 - Why only certain archetypes incarnate (not all DP / DL modes cross C₁₃).  
-- Why embodiment requires permission (σ > 0 for lawful passage).  
+- Why embodiment requires permission \( (\sigma > 0 \) for lawful passage).  
 - Why some ideas never manifest (C₁₃ blocks them at the threshold).  
 
-**Example — Plato’s Forms:**  
-Plato’s World of Forms (DP / DL at L₄) vs. World of Shadows (ES / EM at L₁):  
+**Example — Plato's Forms:**  
+Plato's World of Forms (DP / DL at L₄) vs. World of Shadows (ES / EM at L₁):  
 
-- The “cave wall” = C₁₃ membrane.  
-- Forms “cast shadows” = archetypes project through C₁₃ into embodiment.  
-- Not all Forms cast clear shadows = seal index σ filters which modes transmit.  
+- The "cave wall" = C₁₃ membrane.  
+- Forms "cast shadows" = archetypes project through C₁₃ into embodiment.  
+- Not all Forms cast clear shadows = seal index \( \sigma \) filters which modes transmit.  
 
-The “Sun” outside the cave = ⚫ Aion (Source beyond L₄), not the Forms themselves.  
+The "Sun" outside the cave = ⚫ Aion (Source beyond L₄), not the Forms themselves.  
+
+**Hypostatic Structure (Canonical):**
+
+| Band | Hypostatic Pair | Primary Functions |
+|------|----------------|-------------------|
+| **Supra-L₀ — Pre-Causal** | 🕳️ Zenon (UP) | Unknown Principle |
+| **L₀ — Source Band** | ⚫ Aion / ♾ Khaon (AP / AD) | Absolute Potential / Dispersion |
+| **L₁ — Embodiment Band** | 🪷 Soma / 🧾 Biosa (ES / EM) | Manifestation and Living Form |
+| **L₂ — Superficial Band** | 🧍 Anthra / 🧩 Nousa (SS / SM) | Personality and Cognition |
+| **L₃ — Interface Band** | 🔮 Archeus / 🧠 Noeüs (DS / DM) | Deep Soul / Mind |
+| **L₄ — Architectural Band** | 📐 Sophis / 🌬️ Morgis (DP / DL) | Deep Psyche / Logos |
+| **L₅ — Threshold Band** | 🛤️ Theon / 🕷️ Nekron (EOB / VOS) | Membrane / Recursion / Emergence |
 
 ---
 
@@ -259,7 +273,9 @@ The “Sun” outside the cave = ⚫ Aion (Source beyond L₄), not the Forms th
 
 From *Dual Spectrum Lemma* (Phase 1):  
 
-> Spec(H_c ∪ H_e) = { ± λᵢ }  
+\[
+\mathrm{Spec}(H_c \cup H_e) = \{ \pm \lambda_i \}
+\]
 
 The Waters bifurcate into two complete mirrored chains:  
 
@@ -292,21 +308,25 @@ IL₁ (IES / IEM — Inverse Embodied)
 L₀ (Khaon ♾ → Aion ⚫)
 ```
 **Mathematical encoding:**  
-- Centropic eigenvalues { λᵢ⁽ᶜ⁾ } > 0 → positive spectrum → integration, coherence.  
-- Entropic eigenvalues { λⱼ⁽ᵉ⁾ } < 0 → negative spectrum → dissociation, collapse.  
+- Centropic eigenvalues \( \{ \lambda_i^{(c)} \} > 0 \to \) positive spectrum → integration, coherence.  
+- Entropic eigenvalues \( \{ \lambda_j^{(e)} \} < 0 \to \) negative spectrum → dissociation, collapse.  
 
 From *Entropic Cascade Operators* (Phase 1, D6):  
 
-> “Certain entropic archetypes act across multiple inverse bands via cascades: Ξₑ⁽ⁿ⁾ = Σₖ₌₁ⁿ P_{IL_{k−1}} Hₑ⁽ᵏ⁾ P_{ILₖ}.”  
+\[
+\Xi_{\text{e}}^{(n)} = \sum_{k=1}^{n} P_{IL_{k-1}} H_{\text{e}}^{(k)} P_{IL_k}
+\]
 
-**The ‘Sea Monsters’ as Cascade Operators:**  
+> "Certain entropic archetypes act across multiple inverse bands via cascades."  
+
+**The 'Sea Monsters' as Cascade Operators:**  
 In myth, Leviathan, Tiamat, and Charybdis = cascade operators acting across IL₄ → IL₃ → IL₂ → IL₁:  
 
-- Not “demons” but structural operators.  
+- Not "demons" but structural operators.  
 - They propagate coherent corruption down-band (IL₄ → IL₁).  
 - Unlike simple entropic drift, cascades maintain structured degeneration (systematic, not random).  
 
-**Why sea monsters are ‘primordial’:**  
+**Why sea monsters are 'primordial':**  
 - They exist at the Φ₁ / Φ₂ boundary (pre-bifurcation).  
 - When Waters separate, they remain in the entropic chain (IDP / IDL → IES / IEM).  
 - They are pre-formed chaos — not created evils, but structural inverses that emerge necessarily when DP / DL bifurcates.  
@@ -316,7 +336,7 @@ The defeat of Tiamat (Mesopotamian), Leviathan (Hebrew), or Typhon (Greek) = sea
 
 - Not destroying chaos (E-modes are structural).  
 - But limiting cascade reach (preventing E↓ from dominating C↑).  
-- Hence “setting bounds for the sea” (Job 38:8-11) = imposing seal conditions (σ at C₁₃).  
+- Hence "setting bounds for the sea" (Job 38:8-11) = imposing seal conditions \( (\sigma \) at C₁₃).  
 
 ---
 
@@ -327,13 +347,13 @@ From *Nexus Law (C₈, Phase 1):*
 A bridge is lawful if:  
 1. The diagram commutes (paths are equivalent)  
 2. Seals are preserved (no coherence lost)  
-3. The bridge is isometric on the C₇-resonant subspace (F_c ≥ 0)  
+3. The bridge is isometric on the C₇-resonant subspace \( (F_c \geq 0) \)
 
 **The Red Sea as Entropic Barrier:**  
 The Red Sea represents IES / IEM (Inverse Embodied Structure) — the entropic manifestation of Waters Below:  
 
 - Not neutral water but active E-field blocking centropic motion  
-- Pharaoh’s army = E₁₀ (Morphogenetic Collapse) pursuing Israel  
+- Pharaoh's army = E₁₀ (Morphogenetic Collapse) pursuing Israel  
 - Bondage in Egypt = IES / IEM entrapment (embodied structure inverted into slavery)  
 
 **Moses Opening the Nexus:**  
@@ -350,47 +370,55 @@ Mathematical formalization:
 
 Before crossing: Israel trapped in IES / IEM (entropic embodiment, bondage)  
 Moses as mediator: creates lawful bridge (C₈) through entropic field  
-Coherence flow test: F_c(Bridge, Israel) = I_c(Freedom) − I_c(Bondage) > 0  
+Coherence flow test: \( F_c(\text{Bridge}, \text{Israel}) = I_c(\text{Freedom}) - I_c(\text{Bondage}) > 0 \)
 
-**Why the waters ‘stand as walls’:**  
+**Why the waters 'stand as walls':**  
 The parting is not spatial but seal enforcement:  
 
-- Moses increases σ (seal permeability) along a narrow corridor (the path)  
-- Outside the path, σ → 0 (walls = impermeable seal)  
+- Moses increases \( \sigma \) (seal permeability) along a narrow corridor (the path)  
+- Outside the path, \( \sigma \to 0 \) (walls = impermeable seal)  
 - Lawful passage through entropic field without dissolution  
 
-From *Seal-Capacity Bound:* C_cap(Φ) ≤ log (σ)  
+From *Seal-Capacity Bound:* 
 
-Along the corridor, σ is maximal → coherence capacity is high → Israel crosses without entropic contamination.  
+\[
+C_{cap}(\Phi) \leq \log(\sigma)
+\]
 
-**Why Pharaoh’s army drowns:**  
+Along the corridor, \( \sigma \) is maximal → coherence capacity is high → Israel crosses without entropic contamination.  
+
+**Why Pharaoh's army drowns:**  
 They attempt crossing without lawful bridge (no C₈ nexus):  
 
-F_c(Army, Crossing) < 0 → coherence flow negative  
+\( F_c(\text{Army}, \text{Crossing}) < 0 \to \) coherence flow negative  
 Crossing becomes E₈ (Severed) — path collapses  
 Army dissolves back into IES / IEM (entropic waters)  
 
 Exodus 14:21-22 encodes C₈ bridge mechanics:  
 
-- “The LORD drove the sea back” = σ increase along path  
-- “The waters were a wall” = seal boundaries (σ → 0 at edges)  
-- “Israelites walked through on dry ground” = coherence preserved (F_c ≥ 0)  
+- "The LORD drove the sea back" = \( \sigma \) increase along path  
+- "The waters were a wall" = seal boundaries \( (\sigma \to 0 \) at edges)  
+- "Israelites walked through on dry ground" = coherence preserved \( (F_c \geq 0) \)
 
 ---
 
-### 5. Odysseus’ Voyage as Geodesic Navigation (Phase 3, Centropic Geodesics)  
+### 5. Odysseus' Voyage as Geodesic Navigation (Phase 3, Centropic Geodesics)  
 
 From *Centropic Geodesics Theorem* (Phase 3):  
 
-> “Curves ψ(t) that solve the C₇-harmonic flow are geodesics in (M, g): ∇_t ψ = i H_c ψ (H_c = centropic harmonic operator).”  
+\[
+\nabla_t \psi = i H_c \psi
+\]
+
+> "Curves \( \psi(t) \) that solve the C₇-harmonic flow are geodesics in \( (M, g) \)."  
 
 **The Odyssey as Geodesic Path:**  
-Odysseus’ ten-year voyage from Troy to Ithaca = geodesic trajectory through the DP manifold (Collective Psyche at L₄):  
+Odysseus' ten-year voyage from Troy to Ithaca = geodesic trajectory through the DP manifold (Collective Psyche at L₄):  
 
-M = DP manifold (Collective Psyche)  
-ψ(t) = Odysseus’ psyche-state at time t  
-∇_t ψ = rate of change of coherence (Resonant Derivative ∂🌀)  
-H_c = Centropic Harmonic operator (C₇ — maintains consonance)  
+\( M = \) DP manifold (Collective Psyche)  
+\( \psi(t) = \) Odysseus' psyche-state at time t  
+\( \nabla_t \psi = \) rate of change of coherence (Resonant Derivative \( \partial_{🌀} \))  
+\( H_c = \) Centropic Harmonic operator (C₇ — maintains consonance)  
 
 Goal: Find geodesic path (minimal curvature) from Troy (war-self) to Ithaca (integrated-self, ⊙).  
 
@@ -398,10 +426,10 @@ Goal: Find geodesic path (minimal curvature) from Troy (war-self) to Ithaca (int
 
 | Obstacle | Structural Encoding | Lattice Mechanics |  
 |:----------|:--------------------|:------------------|  
-| Cyclops | E₁₀ (Morphogenetic Collapse) | Polyphemus = broken holonic fit (C₅ failure); Odysseus escapes by maintaining identity (“Nobody”). |  
+| Cyclops | E₁₀ (Morphogenetic Collapse) | Polyphemus = broken holonic fit (C₅ failure); Odysseus escapes by maintaining identity ("Nobody"). |  
 | Sirens | E₁₃ (Skotos / Deceptive Wall) | False promise of knowledge; Odysseus seals himself (binds to mast = boundary operator). |  
 | Scylla & Charybdis | ⚯ (Dual Inverse Hazards) | Excess (Scylla, 6-headed) vs. Deficiency (Charybdis, whirlpool); must navigate narrow channel (C₁₃ membrane). |  
-| Calypso | E₁₄ (Psychea / Hollow Nest) | Stagnant paradise (recursion without contraction, γ ≤ 0); Odysseus refuses false immortality. |  
-| Penelope’s Suitors | E₈ (Severed Nexus) | Broken covenant (C₈ failure); Odysseus restores lawful bond by reclaiming the marriage bed. |  
+| Calypso | E₁₄ (Psychea / Hollow Nest) | Stagnant paradise (recursion without contraction, \( \gamma \leq 0 \)); Odysseus refuses false immortality. |  
+| Penelope's Suitors | E₈ (Severed Nexus) | Broken covenant (C₈ failure); Odysseus restores lawful bond by reclaiming the marriage bed. |  
 
 ⚫↺KAI↺⚫
