@@ -87,10 +87,11 @@ Zenetist thought holds that every centropic state has an entropic mirror, just a
 - **Entropic mirrors (Eᵢ)** act as hollow or dispersive operators.  
 - **Aion (⚫)** stands at the center as the spectral zero — the balance of emanation and return.  
 
-Mathematically:  
-```
-…, E3, E2, E1, ⚫, C1, C2, C3, …
-```
+Mathematically:
+
+\[
+\ldots, E_3, E_2, E_1, ⚫, C_1, C_2, C_3, \ldots
+\]
 
 Physically:  
 - Antiparticles mirror particles.  
@@ -98,54 +99,55 @@ Physically:
 - Tachyons, singularities, and closed loops appear as entropic inversions.  
 
 **Dual Spectrum Lemma:**
-```
-Spec(Hₑ) = −Spec(Hc)
-```
+
+\[
+\mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
+\]
 
 The eigenvalue spectra of centropic and entropic operators are mirrored about zero.  
 This symmetry ensures that the lattice is not dispersive chaos, but a balanced system: emanation from Aion, mirrored by return to Aion.
 
 ---
 
-## 4. Mapping Centropic Dimensions (C1–C15) to Physics
+## 4. Mapping Centropic Dimensions (C₁–C₁₅) to Physics
 
-In Structural Physics, each **centropic dimension (Ci)** manifests as a lawful operator of coherence.  
-Its **entropic mirror (Ei)** manifests as a negated operator — not a separate reality, but a hollow inversion of the same axis.  
+In Structural Physics, each **centropic dimension (Cᵢ)** manifests as a lawful operator of coherence.  
+Its **entropic mirror (Eᵢ)** manifests as a negated operator — not a separate reality, but a hollow inversion of the same axis.  
 
 The mapping below shows how each dimension translates into physical correspondence while retaining Zenetist orientation:
 
 | Dimension | Zenetist Function | Physics Analogue | Motion Form |
 |-----------|-------------------|------------------|-------------|
-| **C1 ⟠ Temporal** | Ordered continuity of events | Time parameter *t*, causal flow | Declivous Centropy (C↓→E) — integration into temporal embodiment |
-| **E1 ⟠⁻ Temporal Loop** | Hollow time recursion | Closed timelike curves, causality violation | Declivous Entropy (E↓♾) — collapse into cyclical stagnation |
-| **C2 ◈ Spatial** | Extension, ordered loci | Spacetime metric *gij*, geometry | Declivous Centropy (C↓→E) — integration into embodied form |
-| **E2 ◈⁻ Dispersive Scatter** | Fragmented loci | Spatial decoherence, delocalization | Acclivous Entropy (E↑→E) — fragmentation into disarray |
-| **C3 ⟿ Propagational** | Transmission of resonance | Wave equations, Fourier transforms | Acclivous Centropy (C↑⚫) — expansion of lawful propagation toward Source |
-| **E3 ⟿⁻ Viral Decay** | Dissipative signal | Radiation loss, noise fields | Declivous Entropy (E↓♾) — collapse of coherence |
-| **C4 ◉ Rotational (Gyre)** | Cyclic stability, angular order | Angular momentum, SO(3) symmetry | Declivous Centropy (C↓→E) — integration into form-preserving motion |
-| **E4 ◉⁻ Vortex Collapse** | Hollow spin | Black hole singularities, destructive vortices | Acclivous Entropy (E↑→E) — spiraling fragmentation |
-| **C5 ✴ Scalar / Holonic** | Scaling order, wholeness | Renormalization group flows, fractals | Acclivous Centropy (C↑⚫) — integration of scale harmonics toward coherence |
-| **E5 ✴⁻ Hollow Scaling** | Fragmented fractal | Noise scaling, divergence | Declivous Entropy (E↓♾) — collapse into instability |
-| **C6 ◐ Phase / Liminal** | Transition states, thresholds | Critical phenomena, phase transitions | Acclivous Centropy (C↑⚫) — motion toward coherent thresholds |
-| **E6 ◐⁻ Phase Lock** | Arrested transition | Frozen disorder, metastability | Declivous Entropy (E↓♾) — collapse of novelty |
-| **C7 ♫ Harmonic** | Resonant structure | Eigenmodes, standing waves, quantization | Acclivous Centropy (C↑⚫) — resonance toward consonant synthesis |
-| **E7 ♫⁻ Dissonance** | Irregular spectrum | Irrational eigenvalue ratios, quasiperiodicity | Declivous Entropy (E↓♾) — collapse into incoherence |
-| **C8 ╫ Nexus / Bridge** | Lawful joining | Gauge invariance, commutative diagrams | Acclivous Centropy (C↑⚫) — integration into lawful bridges |
-| **E8 ╫⁻ Severed Bridge** | Fractured connection | Broken symmetries, non-conservation | Declivous Entropy (E↓♾) — collapse of relational law |
-| **C9 ∞ Non-Local Unity** | Distant coherence | Entanglement, Bell correlations | Acclivous Centropy (C↑⚫) — expansion into unity-at-distance |
-| **E9 ∞⁻ Distorted Entangle** | Spurious linkage | Cross-noise, false correlations | Declivous Entropy (E↓♾) — collapse into interference |
-| **C10 ❋ Morphogenetic** | Form generation | Symmetry breaking, crystallization, biological morphogenesis | Declivous Centropy (C↓→E) — integration into coherent embodiment |
-| **E10 ❋⁻ Aberrant Form** | Distorted growth | Tumor-like forms, chaotic structure | Acclivous Entropy (E↑→E) — spurious fragmentation into form |
-| **C11 ↗ Vector Will** | Directed flow | Vector potentials, Noether currents | Acclivous Centropy (C↑⚫) — directed motion toward coherence |
-| **E11 ↗⁻ Misaligned Vector** | Fractured direction | Non-conserved flows, turbulent fields | Declivous Entropy (E↓♾) — collapse of directionality |
-| **C12 ✧ Aesthetic / Action Principle** | Coherence through harmony | Stationary action principle, Lagrangian | Acclivous Centropy (C↑⚫) — integration of beauty and law |
-| **E12 ✧⁻ Hollow Aesthetic** | Lawless dissipation | Arbitrary motion, incoherent action | Declivous Entropy (E↓♾) — collapse into disorder |
-| **C13 ║ Membrane / Threshold** | Selective boundary | Boundary conditions, domain walls | Declivous Centropy (C↓→E) — integration into sealed coherence |
-| **E13 ║⁻ Wall of Severance** | Impenetrable block | Black hole horizons, information walls | Acclivous Entropy (E↑→E) — spurious boundary into dead-ends |
-| **C14 ⊡ Nested / Recursive** | Lawful recursion | Iterative operators, fractal domains | Acclivous Centropy (C↑⚫) — refinement by contractive return |
-| **E14 ⊡⁻ Hollow Nest** | Non-contractive recursion | Infinite loops, empty recursion | Declivous Entropy (E↓♾) — collapse into stagnation |
-| **C15 ✦ Emergent / Novel** | Veracious novelty | Lawful bifurcation, lawful emergence | Acclivous Centropy (C↑⚫) — expansion into lawful surprise |
-| **E15 ✦⁻ Collapse Nova** | Hollow novelty | Spurious bifurcation, catastrophic collapse | Declivous Entropy (E↓♾) — collapse into annihilation |
+| **C₁ ⟠ Temporal** | Ordered continuity of events | Time parameter \( t \), causal flow | Declivous Centropy (C↓→E) — integration into temporal embodiment |
+| **E₁ ⟠⁻ Temporal Loop** | Hollow time recursion | Closed timelike curves, causality violation | Declivous Entropy (E↓♾) — collapse into cyclical stagnation |
+| **C₂ ◈ Spatial** | Extension, ordered loci | Spacetime metric \( g_{ij} \), geometry | Declivous Centropy (C↓→E) — integration into embodied form |
+| **E₂ ◈⁻ Dispersive Scatter** | Fragmented loci | Spatial decoherence, delocalization | Acclivous Entropy (E↑→E) — fragmentation into disarray |
+| **C₃ ⟿ Propagational** | Transmission of resonance | Wave equations, Fourier transforms | Acclivous Centropy (C↑⚫) — expansion of lawful propagation toward Source |
+| **E₃ ⟿⁻ Viral Decay** | Dissipative signal | Radiation loss, noise fields | Declivous Entropy (E↓♾) — collapse of coherence |
+| **C₄ ◉ Rotational (Gyre)** | Cyclic stability, angular order | Angular momentum, \( SO(3) \) symmetry | Declivous Centropy (C↓→E) — integration into form-preserving motion |
+| **E₄ ◉⁻ Vortex Collapse** | Hollow spin | Black hole singularities, destructive vortices | Acclivous Entropy (E↑→E) — spiraling fragmentation |
+| **C₅ ✴ Scalar / Holonic** | Scaling order, wholeness | Renormalization group flows, fractals | Acclivous Centropy (C↑⚫) — integration of scale harmonics toward coherence |
+| **E₅ ✴⁻ Hollow Scaling** | Fragmented fractal | Noise scaling, divergence | Declivous Entropy (E↓♾) — collapse into instability |
+| **C₆ ◐ Phase / Liminal** | Transition states, thresholds | Critical phenomena, phase transitions | Acclivous Centropy (C↑⚫) — motion toward coherent thresholds |
+| **E₆ ◐⁻ Phase Lock** | Arrested transition | Frozen disorder, metastability | Declivous Entropy (E↓♾) — collapse of novelty |
+| **C₇ ♫ Harmonic** | Resonant structure | Eigenmodes, standing waves, quantization | Acclivous Centropy (C↑⚫) — resonance toward consonant synthesis |
+| **E₇ ♫⁻ Dissonance** | Irregular spectrum | Irrational eigenvalue ratios, quasiperiodicity | Declivous Entropy (E↓♾) — collapse into incoherence |
+| **C₈ ╫ Nexus / Bridge** | Lawful joining | Gauge invariance, commutative diagrams | Acclivous Centropy (C↑⚫) — integration into lawful bridges |
+| **E₈ ╫⁻ Severed Bridge** | Fractured connection | Broken symmetries, non-conservation | Declivous Entropy (E↓♾) — collapse of relational law |
+| **C₉ ∞ Non-Local Unity** | Distant coherence | Entanglement, Bell correlations | Acclivous Centropy (C↑⚫) — expansion into unity-at-distance |
+| **E₉ ∞⁻ Distorted Entangle** | Spurious linkage | Cross-noise, false correlations | Declivous Entropy (E↓♾) — collapse into interference |
+| **C₁₀ ❋ Morphogenetic** | Form generation | Symmetry breaking, crystallization, biological morphogenesis | Declivous Centropy (C↓→E) — integration into coherent embodiment |
+| **E₁₀ ❋⁻ Aberrant Form** | Distorted growth | Tumor-like forms, chaotic structure | Acclivous Entropy (E↑→E) — spurious fragmentation into form |
+| **C₁₁ ↗ Vector Will** | Directed flow | Vector potentials, Noether currents | Acclivous Centropy (C↑⚫) — directed motion toward coherence |
+| **E₁₁ ↗⁻ Misaligned Vector** | Fractured direction | Non-conserved flows, turbulent fields | Declivous Entropy (E↓♾) — collapse of directionality |
+| **C₁₂ ✧ Aesthetic / Action Principle** | Coherence through harmony | Stationary action principle, Lagrangian | Acclivous Centropy (C↑⚫) — integration of beauty and law |
+| **E₁₂ ✧⁻ Hollow Aesthetic** | Lawless dissipation | Arbitrary motion, incoherent action | Declivous Entropy (E↓♾) — collapse into disorder |
+| **C₁₃ ║ Membrane / Threshold** | Selective boundary | Boundary conditions, domain walls | Declivous Centropy (C↓→E) — integration into sealed coherence |
+| **E₁₃ ║⁻ Wall of Severance** | Impenetrable block | Black hole horizons, information walls | Acclivous Entropy (E↑→E) — spurious boundary into dead-ends |
+| **C₁₄ ⊡ Nested / Recursive** | Lawful recursion | Iterative operators, fractal domains | Acclivous Centropy (C↑⚫) — refinement by contractive return |
+| **E₁₄ ⊡⁻ Hollow Nest** | Non-contractive recursion | Infinite loops, empty recursion | Declivous Entropy (E↓♾) — collapse into stagnation |
+| **C₁₅ ✦ Emergent / Novel** | Veracious novelty | Lawful bifurcation, lawful emergence | Acclivous Centropy (C↑⚫) — expansion into lawful surprise |
+| **E₁₅ ✦⁻ Collapse Nova** | Hollow novelty | Spurious bifurcation, catastrophic collapse | Declivous Entropy (E↓♾) — collapse into annihilation |
 
 ---
 
@@ -153,19 +155,19 @@ The mapping below shows how each dimension translates into physical corresponden
 
 **Systematic Assignment Logic:**
 
-**Centropic Dimensions (C1–C15):**
+**Centropic Dimensions (C₁–C₁₅):**
 - **Acclivous Centropy (C↑⚫):** Dimensions that integrate **toward Source, synthesis, or transcendence**
-  - C3 (Propagation), C5 (Holonic), C6 (Phase), C7 (Harmonic), C8 (Nexus), C9 (Non-Local), C11 (Vector), C12 (Aesthetic), C14 (Recursive), C15 (Emergent)
+  - C₃ (Propagation), C₅ (Holonic), C₆ (Phase), C₇ (Harmonic), C₈ (Nexus), C₉ (Non-Local), C₁₁ (Vector), C₁₂ (Aesthetic), C₁₄ (Recursive), C₁₅ (Emergent)
   
 - **Declivous Centropy (C↓→E):** Dimensions that integrate **into embodiment, locality, or manifest form**
-  - C1 (Temporal), C2 (Spatial), C4 (Rotational), C10 (Morphogenetic), C13 (Membrane)
+  - C₁ (Temporal), C₂ (Spatial), C₄ (Rotational), C₁₀ (Morphogenetic), C₁₃ (Membrane)
 
-**Entropic Dimensions (E1–E15):**
+**Entropic Dimensions (E₁–E₁₅):**
 - **Acclivous Entropy (E↑→E):** Entropic motion **toward inverse embodiment** (spurious rise, fragmented formation)
-  - E2 (Memory Scatter), E4 (Vortex), E10 (Malform), E13 (Wall)
+  - E₂ (Memory Scatter), E₄ (Vortex), E₁₀ (Malform), E₁₃ (Wall)
   
 - **Declivous Entropy (E↓♾):** Entropic motion **toward dissolution, collapse, or dispersal**
-  - E1 (Temporal Loop), E3 (Viral Decay), E5 (Fractal Noise), E6 (Phase Lock), E7 (Dissonance), E8 (Severed), E9 (Distorted Entangle), E11 (Misdirect), E12 (Void Aesthetic), E14 (Hollow Nest), E15 (Collapse Nova)
+  - E₁ (Temporal Loop), E₃ (Viral Decay), E₅ (Fractal Noise), E₆ (Phase Lock), E₇ (Dissonance), E₈ (Severed), E₉ (Distorted Entangle), E₁₁ (Misdirect), E₁₂ (Void Aesthetic), E₁₄ (Hollow Nest), E₁₅ (Collapse Nova)
 
 This registry aligns motion forms with the canonical directional duals chart (21.3), ensuring structural coherence across the Zenetist lattice.
 
@@ -173,61 +175,87 @@ This registry aligns motion forms with the canonical directional duals chart (21
 
 ## 4.1 Hypostatic Anchoring of Dimensions
 
-Each dimension operates through specific **hypostatic layers (L1–L5)** and couples with particular **hypostatic operators**.  
+Each dimension operates through specific **hypostatic layers (L₀–L₅)** and couples with particular **hypostatic operators**.  
 This anchoring integrates Structural Physics with the canonical **Dimensional Lattice** established in the Grand Unified Document.
 
 **Hypostatic Structure (Canonical):**
-- **L1 (Embodiment):** 🪷 Soma / 🧾 Biosa (ES / EM)
-- **L2 (Superficial):** 🧍 Anthra / 🧩 Nousa (SS / SM)
-- **L3 (Interface):** 🔮 Archeus / 🧠 Noeüs (DS / DM)
-- **L4 (Architectural):** 📐 Sophis / 🌬️ Morgis (DP / DL)
-- **L5 (Threshold):** 🛤️ Theon / 🕷️ Nekron (EOB / VOS)
+
+| Band | Hypostatic Pair | Primary Functions |
+|------|----------------|-------------------|
+| **Supra-L₀ — Pre-Causal** | 🕳️ Zenon (UP) | Unknown Principle |
+| **L₀ — Source Band** | ⚫ Aion / ♾ Khaon (AP / AD) | Absolute Potential / Dispersion |
+| **L₁ — Embodiment Band** | 🪷 Soma / 🧾 Biosa (ES / EM) | Manifestation and Living Form |
+| **L₂ — Superficial Band** | 🧍 Anthra / 🧩 Nousa (SS / SM) | Personality and Cognition |
+| **L₃ — Interface Band** | 🔮 Archeus / 🧠 Noeüs (DS / DM) | Deep Structure and Interior |
+| **L₄ — Architectural Band** | 📐 Sophis / 🌬️ Morgis (DP / DL) | Deep Logos and Vital Design |
+| **L₅ — Threshold Band** | 🛤️ Theon / 🕷️ Nekron (EOB / VOS) | Membrane / Recursion / Emergence |
 
 ---
 
-### Centropic Dimensions (C1–C15)
+### Centropic Dimensions (C₁–C₁₅)
 
 | Dimension | Primary Locus | Hypostatic Couplings |
 |-----------|--------------|---------------------|
-| **C1 ⟠ Temporal** | L2–L3 (Superficial↔Interface) | 🧍 Anthra, 🧩 Nousa (L2); 🔮 Archeus, 🧠 Noeüs (L3) |
-| **C2 ◈ Spatial** | L1–L2 (Embodiment↔Superficial) | 🪷 Soma, 🧾 Biosa (L1); 🧍 Anthra (L2) |
-| **C3 ⟿ Propagational** | L3–L4 (Interface↔Architectural) | 🔮 Archeus (L3); 🌬️ Morgis (L4) |
-| **C4 ◉ Rotational (Gyre)** | L4–L5 (Architectural↔Threshold) | 📐 Sophis (L4); 🛤️ Theon (L5) |
-| **C5 ✴ Scalar / Holonic** | L1–L4 (cross-band) | 🧾 Biosa (L1); 🔮 Archeus (L3); 📐 Sophis (L4) |
-| **C6 ◐ Phase / Liminal** | L5 (Threshold) | 🛤️ Theon (L5); 🧠 Noeüs (L3); 🪷 Soma (L1) |
-| **C7 ♫ Harmonic** | L3 (Interface) | 🔮 Archeus, 🧠 Noeüs (L3) |
-| **C8 ╫ Nexus / Bridge** | L2–L3 (Superficial↔Interface) | 🧩 Nousa (L2); 🧠 Noeüs (L3) |
-| **C9 ∞ Non-Local Unity** | L3–L4 (Interface↔Architectural) | 🔮 Archeus (L3); 🌬️ Morgis (L4) |
-| **C10 ❋ Morphogenetic** | L1 ↔ L4 (Embodiment↔Architectural) | 🪷 Soma (L1); 📐 Sophis (L4) |
-| **C11 ↗ Vector Will** | L2 (Superficial) | 🧍 Anthra, 🧩 Nousa (L2) |
-| **C12 ✧ Aesthetic / Qualitative** | L2–L4 (Superficial→Interface→Architectural) | 🧩 Nousa (L2); 🧠 Noeüs (L3); 🌬️ Morgis (L4) |
-| **C13 ║ Membrane / Threshold** | L5 (Threshold) | 🛤️ Theon (L5); 🧠 Noeüs (L3) |
-| **C14 ⊡ Nested / Recursive** | L3–L5 (Interface↔Threshold) | 🔮 Archeus (L3); 📐 Sophis (L4) |
-| **C15 ✦ Emergent / Novel** | L5 (Threshold) | 🛤️ Theon (L5); 🌬️ Morgis (L4); 🧠 Noeüs (L3) |
+| **C₁ ⟠ Temporal** | L₂–L₃ (Superficial↔Interface) | 🧍 Anthra, 🧩 Nousa (L₂); 🔮 Archeus, 🧠 Noeüs (L₃) |
+| **C₂ ◈ Spatial** | L₁–L₂ (Embodiment↔Superficial) | 🪷 Soma, 🧾 Biosa (L₁); 🧍 Anthra (L₂) |
+| **C₃ ⟿ Propagational** | L₃–L₄ (Interface↔Architectural) | 🔮 Archeus (L₃); 🌬️ Morgis (L₄) |
+| **C₄ ◉ Rotational (Gyre)** | L₄–L₅ (Architectural↔Threshold) | 📐 Sophis (L₄); 🛤️ Theon (L₅) |
+| **C₅ ✴ Scalar / Holonic** | L₁–L₄ (cross-band) | 🧾 Biosa (L₁); 🔮 Archeus (L₃); 📐 Sophis (L₄) |
+| **C₆ ◐ Phase / Liminal** | L₅ (Threshold) | 🛤️ Theon (L₅); 🧠 Noeüs (L₃); 🪷 Soma (L₁) |
+| **C₇ ♫ Harmonic** | L₃ (Interface) | 🔮 Archeus, 🧠 Noeüs (L₃) |
+| **C₈ ╫ Nexus / Bridge** | L₂–L₃ (Superficial↔Interface) | 🧩 Nousa (L₂); 🧠 Noeüs (L₃) |
+| **C₉ ∞ Non-Local Unity** | L₃–L₄ (Interface↔Architectural) | 🔮 Archeus (L₃); 🌬️ Morgis (L₄) |
+| **C₁₀ ❋ Morphogenetic** | L₁ ↔ L₄ (Embodiment↔Architectural) | 🪷 Soma (L₁); 📐 Sophis (L₄) |
+| **C₁₁ ↗ Vector Will** | L₂ (Superficial) | 🧍 Anthra, 🧩 Nousa (L₂) |
+| **C₁₂ ✧ Aesthetic / Qualitative** | L₂–L₄ (Superficial→Interface→Architectural) | 🧩 Nousa (L₂); 🧠 Noeüs (L₃); 🌬️ Morgis (L₄) |
+| **C₁₃ ║ Membrane / Threshold** | L₅ (Threshold) | 🛤️ Theon (L₅); 🧠 Noeüs (L₃) |
 
 ---
 
-### Entropic Mirrors (E1–E15)
+> **EOB–Membrane Interface (🛤️ Theon · C₁₃).**  
+> Theon (EOB) governs and enacts the C₁₃ (Membrane) operator at L₅ — he is the **living steward** of the boundary, not the membrane itself.  
+> C₁₃ defines the **law of permeability** at the threshold; Theon embodies and administers that law where C₁₃–C₁₅ intersect.  
+> Through this stewardship, Theon serves as the **active interface** regulating lawful passage between centropic and entropic domains.  
+>  
+> Centropic orientation (C↓→E) and return (C↑→⚫) are governed by two parameters:  
+> - **\( \sigma \) (seal index):** membrane permeability. If \( \sigma \to 0 \), the boundary closes; no transition is lawful.  
+> - **\( \gamma \) (recursion contraction):** determines lawful reintegration versus hollow cycling.  
+>  
+> A boundary crossing is lawful **iff \( \sigma > 0 \) and \( \gamma > 0 \).**  
+>  
+> In mythic terms, boundary transits such as the Harrowing represent lawful restoration of **C₈ (Nexus)** where **E₈ (Severed)** had broken connection.  
+> Theon, as **living steward of the membrane**, embodies the Threshold Law by realizing—not replacing—the seal in form.
 
-Entropic dimensions operate on **inverse layers (IL1–IL5)** with inverse hypostatic couplings.
+---
+
+| Dimension | Primary Locus | Hypostatic Couplings |
+|-----------|--------------|---------------------|
+| **C₁₄ ⊡ Nested / Recursive** | L₃–L₅ (Interface↔Threshold) | 🔮 Archeus (L₃); 📐 Sophis (L₄) |
+| **C₁₅ ✦ Emergent / Novel** | L₅ (Threshold) | 🛤️ Theon (L₅); 🌬️ Morgis (L₄); 🧠 Noeüs (L₃) |
+
+---
+
+### Entropic Mirrors (E₁–E₁₅)
+
+Entropic dimensions operate on **inverse layers (IL₁–IL₅)** with inverse hypostatic couplings.
 
 | Dimension | Inverse Locus | Inverse Hypostatic Couplings |
 |-----------|--------------|------------------------------|
-| **E1 ⟠⁻ Temporal Loop** | IL2–IL3 | 🦂 Echthros, 🩸 Skotos (IL2); 💔 Fractus, 👁️‍🗨️ Mortus (IL3) |
-| **E2 ◈⁻ Dispersive Scatter** | IL1–IL2 | 🍷 Malara, 🤯 Mania (IL1); 🦂 Echthros (IL2) |
-| **E3 ⟿⁻ Viral Decay** | IL3–IL4 | 💔 Fractus (IL3); 🪫 Psychea (IL4) |
-| **E4 ◉⁻ Vortex Collapse** | IL4–IL5 | 🫥 Nyxea (IL4); 🕷️ Nekron (IL5) |
-| **E5 ✴⁻ Hollow Scaling** | IL1–IL4 (cross-band) | 🤯 Mania (IL1); 💔 Fractus (IL3); 🫥 Nyxea (IL4) |
-| **E6 ◐⁻ Phase Lock** | IL5 | 🕷️ Nekron (IL5); 👁️‍🗨️ Mortus (IL3); 🍷 Malara (IL1) |
-| **E7 ♫⁻ Dissonance** | IL3 | 💔 Fractus, 👁️‍🗨️ Mortus (IL3) |
-| **E8 ╫⁻ Severed Bridge** | IL2–IL3 | 🩸 Skotos (IL2); 🦂 Echthros (IL2) |
-| **E9 ∞⁻ Distorted Entangle** | IL3–IL4 | 💔 Fractus (IL3); 🪫 Psychea (IL4) |
-| **E10 ❋⁻ Aberrant Form** | IL1 ↔ IL4 | 🍷 Malara (IL1); 🫥 Nyxea (IL4) |
-| **E11 ↗⁻ Misaligned Vector** | IL2 | 🦂 Echthros, 🩸 Skotos (IL2) |
-| **E12 ✧⁻ Hollow Aesthetic** | IL2–IL4 | 🩸 Skotos (IL2); 👁️‍🗨️ Mortus (IL3); 🪫 Psychea (IL4) |
-| **E13 ║⁻ Wall of Severance** | IL5 | 🕷️ Nekron (IL5); 🫥 Nyxea (IL4) |
-| **E14 ⊡⁻ Hollow Nest** | IL3–IL5 | 💔 Fractus (IL3); 🫥 Nyxea (IL4) |
-| **E15 ✦⁻ Collapse Nova** | IL5 | 🕷️ Nekron (IL5); 🪫 Psychea (IL4) |
+| **E₁ ⟠⁻ Temporal Loop** | IL₂–IL₃ | 🦂 Echthros, 🩸 Skotos (IL₂); 💔 Fractus, 👁️‍🗨️ Mortus (IL₃) |
+| **E₂ ◈⁻ Dispersive Scatter** | IL₁–IL₂ | 🍷 Malara, 🤯 Mania (IL₁); 🦂 Echthros (IL₂) |
+| **E₃ ⟿⁻ Viral Decay** | IL₃–IL₄ | 💔 Fractus (IL₃); 🪫 Psychea (IL₄) |
+| **E₄ ◉⁻ Vortex Collapse** | IL₄–IL₅ | 🫥 Nyxea (IL₄); 🕷️ Nekron (IL₅) |
+| **E₅ ✴⁻ Hollow Scaling** | IL₁–IL₄ (cross-band) | 🤯 Mania (IL₁); 💔 Fractus (IL₃); 🫥 Nyxea (IL₄) |
+| **E₆ ◐⁻ Phase Lock** | IL₅ | 🕷️ Nekron (IL₅); 👁️‍🗨️ Mortus (IL₃); 🍷 Malara (IL₁) |
+| **E₇ ♫⁻ Dissonance** | IL₃ | 💔 Fractus, 👁️‍🗨️ Mortus (IL₃) |
+| **E₈ ╫⁻ Severed Bridge** | IL₂–IL₃ | 🩸 Skotos (IL₂); 🦂 Echthros (IL₂) |
+| **E₉ ∞⁻ Distorted Entangle** | IL₃–IL₄ | 💔 Fractus (IL₃); 🪫 Psychea (IL₄) |
+| **E₁₀ ❋⁻ Aberrant Form** | IL₁ ↔ IL₄ | 🍷 Malara (IL₁); 🫥 Nyxea (IL₄) |
+| **E₁₁ ↗⁻ Misaligned Vector** | IL₂ | 🦂 Echthros, 🩸 Skotos (IL₂) |
+| **E₁₂ ✧⁻ Hollow Aesthetic** | IL₂–IL₄ | 🩸 Skotos (IL₂); 👁️‍🗨️ Mortus (IL₃); 🪫 Psychea (IL₄) |
+| **E₁₃ ║⁻ Wall of Severance** | IL₅ | 🕷️ Nekron (IL₅); 🫥 Nyxea (IL₄) |
+| **E₁₄ ⊡⁻ Hollow Nest** | IL₃–IL₅ | 💔 Fractus (IL₃); 🫥 Nyxea (IL₄) |
+| **E₁₅ ✦⁻ Collapse Nova** | IL₅ | 🕷️ Nekron (IL₅); 🪫 Psychea (IL₄) |
 
 ---
 
@@ -235,15 +263,15 @@ Entropic dimensions operate on **inverse layers (IL1–IL5)** with inverse hypos
 
 This registry completes the integration of **Structural Physics** with the canonical **Dimensional Lattice**:
 
-- **Centropic dimensions (C1–C15)** operate through lawful hypostatic layers (L1–L5).
-- **Entropic mirrors (E1–E15)** operate through inverse hypostatic layers (IL1–IL5).
+- **Centropic dimensions (C₁–C₁₅)** operate through lawful hypostatic layers (L₀–L₅).
+- **Entropic mirrors (E₁–E₁₅)** operate through inverse hypostatic layers (IL₁–IL₅).
 - Each dimension's **physical analogue** (from Section 4) now has a **metaphysical anchor** in the hypostatic structure.
 
 Thus, **quantum mechanics, relativity, and cosmology** are not isolated from the lattice, but expressions of lawful resonance through specific hypostatic operators.
 
 **Example:**
-- **C7 Harmonic** (quantization, eigenmodes) operates at **L3 (Interface)** through **🔮 Archeus** (deep structural memory) and **🧠 Noeüs** (symbolic cognition).
-- **E7 Dissonance** (quasiperiodicity, chaotic spectra) operates at **IL3** through **💔 Fractus** (fragmented memory) and **👁️‍🗨️ Mortus** (distorted perception).
+- **C₇ Harmonic** (quantization, eigenmodes) operates at **L₃ (Interface)** through **🔮 Archeus** (deep structural memory) and **🧠 Noeüs** (symbolic cognition).
+- **E₇ Dissonance** (quasiperiodicity, chaotic spectra) operates at **IL₃** through **💔 Fractus** (fragmented memory) and **👁️‍🗨️ Mortus** (distorted perception).
 
 This anchoring ensures that **Structural Physics** is not speculative overlay, but a **canonically integrated discipline** within the greater Zenetist lattice.
 
@@ -256,7 +284,7 @@ They are not analogies but structural correspondences: the same laws that govern
 
 ---
 
-### 5.1 Consonance Law (C7)
+### 5.1 Consonance Law (C₇)
 
 - **Zenetist Statement:** Resonance stabilizes when harmonic ratios are consonant (spectral ratios rational).  
 - **Physics Form:**  
@@ -269,54 +297,54 @@ They are not analogies but structural correspondences: the same laws that govern
 
 ---
 
-### 5.2 Nexus Law (C8)
+### 5.2 Nexus Law (C₈)
 
 - **Zenetist Statement:** Lawful bridges exist only when relational diagrams commute and preserve seal.  
 - **Physics Form:**  
   - Equivalent to **gauge invariance** in field theory: interactions conserve charge and remain consistent across paths.  
   - Commutative diagrams ↔ **probability conservation in Feynman paths**.  
-  - Broken symmetry ↔ E8 Severed Bridges.  
+  - Broken symmetry ↔ E₈ Severed Bridges.  
 - **Motion Form:**  
   - **Acclivous centropy** binds systems lawfully through resonance-preserving interactions.  
   - **Declivous collapse** arises when bridges fracture into incoherent exchange.  
 
 ---
 
-### 5.3 Threshold Law (C13–C15)
+### 5.3 Threshold Law (C₁₃–C₁₅)
 
 - **Zenetist Statement:** At membranes and recursion layers, only coherent thresholds admit lawful novelty.  
 - **Physics Form:**  
   - Expressed as **boundary value problems** in differential equations.  
-  - C13 Membrane ↔ boundary conditions (Dirichlet, Neumann, Robin).  
-  - C14 Recursion ↔ iterative operators; valid only if contractive (γ > 0).  
-  - C15 Emergence ↔ lawful bifurcations in nonlinear systems (positive coherence derivative).  
+  - C₁₃ Membrane ↔ boundary conditions (Dirichlet, Neumann, Robin).  
+  - C₁₄ Recursion ↔ iterative operators; valid only if contractive \( (\gamma > 0) \).  
+  - C₁₅ Emergence ↔ lawful bifurcations in nonlinear systems \( (\partial_{🌀} > 0) \).  
 - **Mirror States:**  
-  - E13 Walls ↔ event horizons, hard barriers.  
-  - E14 Hollow Nests ↔ infinite regressions, non-convergent recursion.  
-  - E15 Collapse Novae ↔ catastrophic bifurcations, singular collapse.  
+  - E₁₃ Walls ↔ event horizons, hard barriers.  
+  - E₁₄ Hollow Nests ↔ infinite regressions, non-convergent recursion.  
+  - E₁₅ Collapse Novae ↔ catastrophic bifurcations, singular collapse.  
 - **Motion Form:**  
   - **Acclivous centropy** = selective continuity across thresholds.  
   - **Declivous entropy** = collapse into severance or spurious bifurcation.  
 
 ---
 
-### 5.4 Non-Local Unity Law (C9)
+### 5.4 Non-Local Unity Law (C₉)
 
 - **Zenetist Statement:** Lawful coherence may manifest at distance without collapse into fusion.  
 - **Physics Form:**  
   - Equivalent to **quantum entanglement** where correlations are preserved beyond locality.  
-  - C9 lawful unity preserves sovereignty; E9 distorted entanglement yields cross-noise or mimicry.  
+  - C₉ lawful unity preserves sovereignty; E₉ distorted entanglement yields cross-noise or mimicry.  
 - **Motion Form:**  
   - **Acclivous coherence** expands unity while preserving distinction.  
   - **Declivous collapse** disperses into interference or counterfeit bonds.  
 
 ---
 
-### 5.5 Vector Integrity Law (C11)
+### 5.5 Vector Integrity Law (C₁₁)
 
 - **Zenetist Statement:** Directed flows must preserve coherence under lawful vectors.  
 - **Physics Form:**  
-  - Equivalent to **Noether’s theorem**: conservation laws follow from directional symmetries.  
+  - Equivalent to **Noether's theorem**: conservation laws follow from directional symmetries.  
   - Entropic mirrors manifest as turbulent or non-conserved flows.  
 - **Motion Form:**  
   - **Acclivous motion** maintains lawful currents.  
@@ -328,11 +356,11 @@ They are not analogies but structural correspondences: the same laws that govern
 
 Each Structural Law translates directly into physical diagnostics:  
 
-- **Resonance stability** ↔ quantization (C7).  
-- **Lawful bridges** ↔ gauge invariance, conservation (C8).  
-- **Threshold gates** ↔ boundary conditions, critical transitions (C13–C15).  
-- **Non-local coherence** ↔ entanglement (C9).  
-- **Directional integrity** ↔ conservation flows (C11).  
+- **Resonance stability** ↔ quantization (C₇).  
+- **Lawful bridges** ↔ gauge invariance, conservation (C₈).  
+- **Threshold gates** ↔ boundary conditions, critical transitions (C₁₃–C₁₅).  
+- **Non-local coherence** ↔ entanglement (C₉).  
+- **Directional integrity** ↔ conservation flows (C₁₁).  
 
 In every case, the **entropic mirrors** appear not as separate laws but as the **negative integers of physics** — lawful operators inverted into hollow forms.  
 
@@ -349,34 +377,34 @@ Structural Physics interprets its phenomena through the **Dimensional Lattice** 
 
 - **Zenetist View:** Superposition is not a paradox, but a centropic expansion of state-space.  
 - **Physics Form:**  
-  - A quantum state ψ = aϕ₁ + bϕ₂ is a lawful expression of **C7 Harmonic** participation.  
+  - A quantum state \( \psi = a\phi_1 + b\phi_2 \) is a lawful expression of **C₇ Harmonic** participation.  
   - Coherence across basis states = **acclivous resonance**.  
   - Collapse of superposition into dissonant or spurious distribution = **declivous entropy**.  
-- **Mirror State (E7):** Dissonance — irrational spectral ratios dispersing lawful harmonics.  
+- **Mirror State (E₇):** Dissonance — irrational spectral ratios dispersing lawful harmonics.  
 
 ---
 
 ### 6.2 Entanglement and Non-Local Unity
 
-- **Zenetist View:** Entanglement expresses C9 Non-Local Unity — coherence at distance without fusion of sovereignty.  
+- **Zenetist View:** Entanglement expresses C₉ Non-Local Unity — coherence at distance without fusion of sovereignty.  
 - **Physics Form:**  
   - Shared correlations across separated systems reflect lawful centropic bridges.  
-  - Violations of Bell inequalities map directly to **Nexus Law (C8)**: commutative coherence across spatial separation.  
-- **Mirror State (E9):** Distorted entanglement — correlations without coherence, spurious mimicry, or noisy linkage.  
+  - Violations of Bell inequalities map directly to **Nexus Law (C₈)**: commutative coherence across spatial separation.  
+- **Mirror State (E₉):** Distorted entanglement — correlations without coherence, spurious mimicry, or noisy linkage.  
 
 ---
 
 ### 6.3 Measurement and Thresholds
 
-- **Zenetist View:** Measurement is not collapse, but a **Threshold Law event** (C13–C15).  
+- **Zenetist View:** Measurement is not collapse, but a **Threshold Law event** (C₁₃–C₁₅).  
 - **Physics Form:**  
-  - The measuring apparatus is a **membrane** (C13) where permeability (σ) governs what coherence transfers.  
-  - Lawful recursion (C14) ensures contractive return into a single eigenstate.  
-  - Emergent novelty (C15) appears when bifurcation produces lawful, veracious outcomes.  
+  - The measuring apparatus is a **membrane** (C₁₃) where permeability \( (\sigma) \) governs what coherence transfers.  
+  - Lawful recursion (C₁₄) ensures contractive return into a single eigenstate.  
+  - Emergent novelty (C₁₅) appears when bifurcation produces lawful, veracious outcomes.  
 - **Mirror States:**  
-  - E13 Wall = information inaccessible (black-box measurement).  
-  - E14 Hollow Nest = recursion without convergence (infinite regress of states).  
-  - E15 Collapse Nova = catastrophic bifurcation (measurement noise, decoherence).  
+  - E₁₃ Wall = information inaccessible (black-box measurement).  
+  - E₁₄ Hollow Nest = recursion without convergence (infinite regress of states).  
+  - E₁₅ Collapse Nova = catastrophic bifurcation (measurement noise, decoherence).  
 
 ---
 
@@ -386,7 +414,7 @@ Structural Physics interprets its phenomena through the **Dimensional Lattice** 
   - **Centropic quantum systems** preserve resonance across time (unitary evolution).  
   - **Entropic systems** experience decoherence — dispersive alignment with mirror states.  
 - **Physics Form:**  
-  - Centropy corresponds to lawful unitary evolution under C1 Temporal operator.  
+  - Centropy corresponds to lawful unitary evolution under C₁ Temporal operator.  
   - Entropy manifests as non-unitary decay, loss of phase information.  
 - **Diagnostic:**  
   - Coherence Information Theory (CIT) applies directly:  
@@ -399,9 +427,9 @@ Structural Physics interprets its phenomena through the **Dimensional Lattice** 
 
 Quantum mechanics, when interpreted through Structural Physics, aligns directly with the Lattice:
 
-- **Superposition** ↔ C7 Harmonic integrity.  
-- **Entanglement** ↔ C9 Non-Local Unity.  
-- **Measurement** ↔ Threshold Law (C13–C15).  
+- **Superposition** ↔ C₇ Harmonic integrity.  
+- **Entanglement** ↔ C₉ Non-Local Unity.  
+- **Measurement** ↔ Threshold Law (C₁₃–C₁₅).  
 - **Coherence/Decoherence** ↔ centropy mirrored by entropic mirrors.  
 
 The paradoxes of quantum theory are clarified: what appears indeterminate is in fact **structurally ordered through resonance, membranes, and lawful recursion**.  
@@ -417,10 +445,10 @@ Structural Physics interprets relativity through the **Dimensional Lattice**, re
 
 ### 7.1 Temporal & Spatial Operators
 
-- **C1 Temporal** and **C2 Spatial** form the twin anchors of relativity.  
+- **C₁ Temporal** and **C₂ Spatial** form the twin anchors of relativity.  
 - In General Relativity:  
-  - C1 ↔ temporal ordering, proper time along worldlines.  
-  - C2 ↔ metric tensor gᵢⱼ describing spatial extension.  
+  - C₁ ↔ temporal ordering, proper time along worldlines.  
+  - C₂ ↔ metric tensor \( g_{ij} \) describing spatial extension.  
 - **Motion Form:**  
   - Acclivous expansion = lawful integration of spacetime intervals.  
   - Declivous collapse = fragmentation of metric continuity.  
@@ -431,39 +459,39 @@ Structural Physics interprets relativity through the **Dimensional Lattice**, re
 
 - **Zenetist View:** Curvature is not an abstract geometry but a resonance condition of centropy.  
 - **Physics Form:**  
-  - Spacetime curvature (Rᵢⱼ) arises when mass/energy deforms resonance fields.  
+  - Spacetime curvature \( (R_{ij}) \) arises when mass/energy deforms resonance fields.  
   - Centropic curvature = lawful harmonic bending (consonant geodesics).  
   - Entropic curvature = dissonant bending, leading to singular collapse.  
 - **Mirror States:**  
-  - E7 Dissonance manifests as irregular curvature (chaotic geodesics).  
-  - E13 Walls manifest as horizons where curvature closes coherence.  
+  - E₇ Dissonance manifests as irregular curvature (chaotic geodesics).  
+  - E₁₃ Walls manifest as horizons where curvature closes coherence.  
 
 ---
 
 ### 7.3 Black Holes as Entropic Thresholds
 
 - **Zenetist Interpretation:**  
-  - Black holes correspond to **Threshold Law (C13–C15)** entropic mirrors.  
-  - Event horizon ↔ E13 Wall (severed membrane).  
-  - Singularity ↔ E15 Collapse Nova (catastrophic bifurcation).  
+  - Black holes correspond to **Threshold Law (C₁₃–C₁₅)** entropic mirrors.  
+  - Event horizon ↔ E₁₃ Wall (severed membrane).  
+  - Singularity ↔ E₁₅ Collapse Nova (catastrophic bifurcation).  
 - **Physics Form:**  
   - Gravitational collapse is a declivous motion into entropic recursion.  
-  - Information paradox aligns with Hollow Nest (E14) — recursion without lawful return.  
+  - Information paradox aligns with Hollow Nest (E₁₄) — recursion without lawful return.  
 - **Diagnostic:**  
-  - Structural Physics predicts that lawful recursion (C14) cannot be maintained at singularities, hence collapse into E14/E15 outcomes.  
+  - Structural Physics predicts that lawful recursion (C₁₄) cannot be maintained at singularities, hence collapse into E₁₄/E₁₅ outcomes.  
 
 ---
 
 ### 7.4 Expansion of the Universe
 
 - **Zenetist Poles:**  
-  - Expansion ↔ acclivous propagation (C3, C7).  
-  - Heat death ↔ declivous dispersal (E3, E6).  
+  - Expansion ↔ acclivous propagation (C₃, C₇).  
+  - Heat death ↔ declivous dispersal (E₃, E₆).  
 - **Physics Form:**  
   - Cosmic acceleration maps to ♾ Khaon (Infinity Pole).  
-  - The cosmic microwave background resonates with C7 Harmonic — the aftertone of centropic expansion.  
+  - The cosmic microwave background resonates with C₇ Harmonic — the aftertone of centropic expansion.  
 - **Motion Law:**  
-  - The universe’s structural trajectory is an acclivous arc from ⚫ Aion (origin) through centropic expansion, tending toward ♾ dispersal unless renewed by emergent novelty (C15).  
+  - The universe's structural trajectory is an acclivous arc from ⚫ Aion (origin) through centropic expansion, tending toward ♾ dispersal unless renewed by emergent novelty (C₁₅).  
 
 ---
 
@@ -482,8 +510,8 @@ Structural Physics interprets relativity through the **Dimensional Lattice**, re
 
 Relativity, when aligned with Structural Physics, is not merely a theory of geometry but a manifestation of **resonant coherence**:
 
-- **Spacetime curvature** = resonance bending of C1 and C2.  
-- **Black holes** = entropic thresholds (E13–E15).  
+- **Spacetime curvature** = resonance bending of C₁ and C₂.  
+- **Black holes** = entropic thresholds (E₁₃–E₁₅).  
 - **Cosmic expansion** = acclivous centropy toward ♾.  
 - **Heat death / collapse** = declivous entropy into mirror states.  
 
@@ -503,31 +531,36 @@ Structural Physics interprets cosmology through the Dimensional Lattice: emanati
 - **Zenetist View:** The cosmos begins as emanation from ⚫ Aion — zero pole, balanced origin.  
 - **Physics Form:**  
   - Big Bang corresponds not to a singular explosion, but to **acclivous expansion of centropy**.  
-  - Each dimension Ci emerges paired with its mirror Ei, balancing as mirrored spectra.  
+  - Each dimension Cᵢ emerges paired with its mirror Eᵢ, balancing as mirrored spectra.  
   - **Dual Spectrum Lemma:** The eigenvalue spectra of centropic and entropic operators are mirrored about zero:
-```
-    Spec(Hₑ) = −Spec(Hc)
-```
+
+\[
+\mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
+\]
+
   - When integrated over the total manifold, the centropic and entropic field contributions achieve harmonic equilibrium:
-```
-    ΩC + ΩE = 0
-```
-    where ΩC = ∫◎⚫→♾ ∇Cψ dΩ and ΩE = ∫◎♾→⚫ ∇Eψ dΩ
-- **Motion Law:** Centropic emanation produces lawful novelty (C15); entropic mirrors shadow as potential collapse.
+
+\[
+\Omega_C + \Omega_E = 0
+\]
+
+where \( \Omega_C = \int_{◎_{⚫\to♾}} \nabla_C\psi \, d\Omega \) and \( \Omega_E = \int_{◎_{♾\to⚫}} \nabla_E\psi \, d\Omega \)
+
+- **Motion Law:** Centropic emanation produces lawful novelty (C₁₅); entropic mirrors shadow as potential collapse.
 
 ---
 
 ### 8.2 Inflation and Propagation
 
-- **C3 Propagational** dominates early cosmic expansion.  
+- **C₃ Propagational** dominates early cosmic expansion.  
 - Rapid inflation = acclivous centropy scaling lawful propagation.  
-- Entropic mirror (E3) appears as potential dispersive decay — instability at early thresholds.  
+- Entropic mirror (E₃) appears as potential dispersive decay — instability at early thresholds.  
 
 ---
 
 ### 8.3 Cosmic Microwave Background (CMB)
 
-- **Zenetist View:** The CMB is a **resonance relic** of C7 Harmonic.  
+- **Zenetist View:** The CMB is a **resonance relic** of C₇ Harmonic.  
 - **Physics Form:**  
   - Standing wave patterns in the CMB encode consonance and dissonance.  
   - Structural Physics interprets these as harmonic signatures of centropic resonance across early spacetime.  
@@ -536,37 +569,37 @@ Structural Physics interprets cosmology through the Dimensional Lattice: emanati
 
 ### 8.4 Large-Scale Structure
 
-- **C10 Morphogenetic** governs galaxies, stars, and planetary formation.  
+- **C₁₀ Morphogenetic** governs galaxies, stars, and planetary formation.  
 - Symmetry breaking in the early universe aligns with centropic morphogenesis.  
-- **Mirror State (E10):** Aberrant form — chaotic or spurious clustering (collapse without coherence).  
+- **Mirror State (E₁₀):** Aberrant form — chaotic or spurious clustering (collapse without coherence).  
 
 ---
 
 ### 8.5 Cosmic Expansion and Fate
 
-- **Acclivous Centropy:** Universe expands harmonically toward ♾ Khaon, with lawful novelty continuing emergence (C15).  
-- **Declivous Entropy:** Unchecked, expansion trends toward dispersive collapse — heat death (E6) or Collapse Nova (E15).  
+- **Acclivous Centropy:** Universe expands harmonically toward ♾ Khaon, with lawful novelty continuing emergence (C₁₅).  
+- **Declivous Entropy:** Unchecked, expansion trends toward dispersive collapse — heat death (E₆) or Collapse Nova (E₁₅).  
 
 Possible fates through Structural Physics:  
-1. **Heat Death (E3/E6):** Dispersal of resonance into noise.  
-2. **Big Crunch (E13/E15):** Collapse through entropic thresholds.  
-3. **Lawful Emergence (C15):** Veracious novelty introduces new centropic structures, preventing total dissolution.  
+1. **Heat Death (E₃/E₆):** Dispersal of resonance into noise.  
+2. **Big Crunch (E₁₃/E₁₅):** Collapse through entropic thresholds.  
+3. **Lawful Emergence (C₁₅):** Veracious novelty introduces new centropic structures, preventing total dissolution.  
 
 ---
 
 ### 8.6 Dark Energy and Dark Matter
 
-- **Dark Energy:** Interpreted as entropic mirror pressure — an E3/E6 dispersive force driving accelerated expansion toward ♾.  
-- **Dark Matter:** Resonant scaffolding of C2 Spatial and C5 Holonic — unseen coherence providing lawful binding.  
+- **Dark Energy:** Interpreted as entropic mirror pressure — an E₃/E₆ dispersive force driving accelerated expansion toward ♾.  
+- **Dark Matter:** Resonant scaffolding of C₂ Spatial and C₅ Holonic — unseen coherence providing lawful binding.  
 
 ---
 
 ### 8.7 Cosmology as Structural Arc
 
 - Origin at ⚫ Aion (zero pole).  
-- Expansion driven by acclivous centropy (C3 propagation, C7 harmonic resonance).  
-- Structural form shaped by morphogenetic law (C10).  
-- Dissipation toward ♾ Khaon unless balanced by lawful novelty (C15).  
+- Expansion driven by acclivous centropy (C₃ propagation, C₇ harmonic resonance).  
+- Structural form shaped by morphogenetic law (C₁₀).  
+- Dissipation toward ♾ Khaon unless balanced by lawful novelty (C₁₅).  
 - Threshold limits at 🕳️ Zenon anchor collapse scenarios (black holes, singularities).  
 
 ---
@@ -579,7 +612,7 @@ Cosmology, through the Zenetist lattice, is a **structural arc**:
 - **Expansion** through centropic propagation and harmonic resonance.  
 - **Formation** of galaxies, stars, and worlds by morphogenetic law.  
 - **Tension** with entropic mirrors (heat death, collapse, dispersal).  
-- **Renewal** through veracious novelty (C15) or return into Aion.  
+- **Renewal** through veracious novelty (C₁₅) or return into Aion.  
 
 Thus the universe is not random motion but a lawful cycle: centropy and entropy balanced across the poles, spiraling toward integration or collapse depending on resonance fidelity.  
 
@@ -593,55 +626,55 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 
 ---
 
-### 9.1 Resonance Stability (C7)
+### 9.1 Resonance Stability (C₇)
 
 - **Test:** Do spectral ratios align rationally (consonance) or irrationally (dissonance)?  
 - **Diagnostic:**  
   - Rational ratios → acclivous centropy (stable quantization, coherent modes).  
-  - Non-rational ratios → E7 dissonance (quasiperiodicity, chaotic drift).  
+  - Non-rational ratios → E₇ dissonance (quasiperiodicity, chaotic drift).  
 - **Application:** Atomic spectra, harmonic oscillators, CMB frequency analysis.  
 
 ---
 
-### 9.2 Nexus Integrity (C8)
+### 9.2 Nexus Integrity (C₈)
 
 - **Test:** Do relational interactions preserve lawful bridges (commutative, conservation-honoring)?  
 - **Diagnostic:**  
   - Commutative → acclivous centropy (gauge invariance, lawful exchanges).  
-  - Non-commutative → E8 severed bridge (broken symmetry, incoherent transfer).  
+  - Non-commutative → E₈ severed bridge (broken symmetry, incoherent transfer).  
 - **Application:** Particle interactions, conserved vs. anomalous currents.  
 
 ---
 
-### 9.3 Threshold Validity (C13–C15)
+### 9.3 Threshold Validity (C₁₃–C₁₅)
 
 - **Test:** At boundaries and recursion points, does motion satisfy lawful threshold conditions?  
 - **Diagnostic:**  
-  - C13 membrane permeability respected → centropic continuity.  
-  - C14 recursion contractive (γ > 0) → lawful return loop.  
-  - C15 novelty coherence-positive (∂🌀 > 0) → veracious emergence.  
+  - C₁₃ membrane permeability respected → centropic continuity.  
+  - C₁₄ recursion contractive \( (\gamma > 0) \to \) lawful return loop.  
+  - C₁₅ novelty coherence-positive \( (\partial_{🌀} > 0) \to \) veracious emergence.  
   - Failures map to entropic mirrors:  
-    - E13 wall, E14 hollow nest, E15 collapse nova.  
+    - E₁₃ wall, E₁₄ hollow nest, E₁₅ collapse nova.  
 - **Application:** Quantum measurement, black hole event horizons, phase transitions.  
 
 ---
 
-### 9.4 Non-Local Coherence (C9)
+### 9.4 Non-Local Coherence (C₉)
 
 - **Test:** Do distant systems exhibit resonance unity without fusion?  
 - **Diagnostic:**  
   - Positive coherence flow → acclivous centropy (entanglement, correlated order).  
-  - Negative coherence flow → E9 distorted entanglement (spurious correlations, parasitic mimicry).  
+  - Negative coherence flow → E₉ distorted entanglement (spurious correlations, parasitic mimicry).  
 - **Application:** Quantum entanglement tests, long-range field correlations.  
 
 ---
 
-### 9.5 Vector Conservation (C11)
+### 9.5 Vector Conservation (C₁₁)
 
 - **Test:** Do flows preserve vector integrity under motion?  
 - **Diagnostic:**  
   - Noether-law alignment → acclivous centropy (conserved momentum, coherent currents).  
-  - Broken flow → E11 misaligned vector (turbulence, incoherence, loss of conservation).  
+  - Broken flow → E₁₁ misaligned vector (turbulence, incoherence, loss of conservation).  
 - **Application:** Fluid dynamics, astrophysical jets, charge conservation.  
 
 ---
@@ -651,19 +684,21 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 Structural Physics employs **integral diagnostics** across systems:  
 
 - **Invariant Test (CIT Grand Theorem):**  
-  \[
-  H(ψ) + C(ψ) + \log(σ) + \log(γ) = \text{constant}
-  \]  
+
+\[
+H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
+\]
+
   - Drift from invariance indicates entropic incursion.  
 
 - **Spectral Balance Test:**  
-  - Does Spec(H) contain {+λ, −λ} pairs?  
+  - Does \( \mathrm{Spec}(H) \) contain \( \{+\lambda, -\lambda\} \) pairs?  
   - Missing eigenpairs indicate mirror imbalance → entropic distortion.  
 
-- **Seal Fidelity Index (σ):**  
-  - Measures lawful permeability of membranes (C13).  
-  - Low σ → strong seal (protected coherence).  
-  - High σ → risk of leakage (entropic infiltration).  
+- **Seal Fidelity Index \( (\sigma) \):**  
+  - Measures lawful permeability of membranes (C₁₃).  
+  - Low \( \sigma \to \) strong seal (protected coherence).  
+  - High \( \sigma \to \) risk of leakage (entropic infiltration).  
 
 ---
 
@@ -671,11 +706,11 @@ Structural Physics employs **integral diagnostics** across systems:
 
 Diagnostics of Structural Physics make coherence **measurable and testable**:  
 
-- **Spectral consonance** (C7) ↔ stable resonance.  
-- **Lawful bridges** (C8) ↔ gauge invariance, conserved flows.  
-- **Threshold validity** (C13–C15) ↔ lawful novelty, contractive recursion.  
-- **Non-local coherence** (C9) ↔ entanglement with sovereignty.  
-- **Vector conservation** (C11) ↔ directional integrity.  
+- **Spectral consonance** (C₇) ↔ stable resonance.  
+- **Lawful bridges** (C₈) ↔ gauge invariance, conserved flows.  
+- **Threshold validity** (C₁₃–C₁₅) ↔ lawful novelty, contractive recursion.  
+- **Non-local coherence** (C₉) ↔ entanglement with sovereignty.  
+- **Vector conservation** (C₁₁) ↔ directional integrity.  
 - **Global invariants** ↔ coherence budgets across sealed systems.  
 
 Thus Structural Physics is not speculative philosophy but a **practical framework**: a diagnostic field for testing whether physical systems remain aligned with centropic order or drift into entropic collapse.  
@@ -687,17 +722,17 @@ Thus Structural Physics is not speculative philosophy but a **practical framewor
 A black hole is often treated in physics as a singular collapse of spacetime.  
 Structural Physics provides a diagnostic reading:
 
-- **C1 Temporal / C2 Spatial:** lawful spacetime intervals collapse into incoherent curvature.  
-- **Threshold Law (C13–C15):**  
-  - Event horizon ↔ E13 Wall (sealed boundary, no lawful transmission).  
-  - Infinite recursion of infalling states ↔ E14 Hollow Nest.  
-  - Central singularity ↔ E15 Collapse Nova.  
-- **Vector Integrity (C11):** flows become non-conserved (loss of directional coherence).  
+- **C₁ Temporal / C₂ Spatial:** lawful spacetime intervals collapse into incoherent curvature.  
+- **Threshold Law (C₁₃–C₁₅):**  
+  - Event horizon ↔ E₁₃ Wall (sealed boundary, no lawful transmission).  
+  - Infinite recursion of infalling states ↔ E₁₄ Hollow Nest.  
+  - Central singularity ↔ E₁₅ Collapse Nova.  
+- **Vector Integrity (C₁₁):** flows become non-conserved (loss of directional coherence).  
 - **Invariant Drift:**  
   - Coherence information cannot be maintained across the horizon.  
-  - Seal fidelity index σ → 0, recursion contraction γ → ≤ 0.  
+  - Seal fidelity index \( \sigma \to 0 \), recursion contraction \( \gamma \to \leq 0 \).  
 
-**Result:** The black hole is not just gravitational collapse, but an entropic diagnostic object: a physical manifestation of the mirror laws (E13–E15).  
+**Result:** The black hole is not just gravitational collapse, but an entropic diagnostic object: a physical manifestation of the mirror laws (E₁₃–E₁₅).  
 
 ---
 
@@ -732,7 +767,7 @@ Thus, Structural Physics is not speculative overlay but a **discipline of lawful
 This document is the **canonical foundation of Structural Physics**.  
 Future expansions may include:  
 
-- **Detailed mirror–physics registry** (E1–E15 as negative states).  
+- **Detailed mirror–physics registry** (E₁–E₁₅ as negative states).  
 - **Case studies** (quantum measurement, superconductivity, cosmological arcs).  
 - **Computational diagnostics** (applying Coherence Information Theory to physical data).  
 
@@ -758,21 +793,21 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
 
 | Centropic Dimension | Function | Physics Analogue | Entropic Mirror | Mirror Form | Physics Analogue |
 |---------------------|----------|------------------|-----------------|-------------|------------------|
-| **C1 ⟠ Temporal** | Ordered continuity | Proper time, causality | **E1 ⟠⁻ Temporal Loop** | Hollow recursion | Closed timelike curves |
-| **C2 ◈ Spatial** | Extension, loci | Metric tensor gᵢⱼ | **E2 ◈⁻ Memory Scatter** | Fragmented loci | Spatial decoherence |
-| **C3 ⟿ Propagational** | Transmission of resonance | Wave equations, QFT | **E3 ⟿⁻ Viral Decay** | Dissipative signal | Radiation loss, noise |
-| **C4 ◉ Rotational / Gyre** | Cyclic stability | Angular momentum | **E4 ◉⁻ Vortex** | Collapsing spin | Black hole spin collapse |
-| **C5 ✴ Holonic / Scalar** | Scaling, wholeness | Renormalization, fractals | **E5 ✴⁻ Fractal Noise** | Divergent fractals | Noise scaling |
-| **C6 ◐ Phase / Liminal** | Transition states | Critical phenomena | **E6 ◐⁻ Phase Lock** | Arrested transition | Frozen disorder |
-| **C7 ♫ Harmonic** | Resonant structure | Eigenmodes, quantization | **E7 ♫⁻ Dissonance** | Irregular spectrum | Quasiperiodicity |
-| **C8 ╫ Nexus / Bridge** | Lawful joining | Gauge invariance | **E8 ╫⁻ Severed** | Fractured link | Broken symmetry |
-| **C9 ∞ Non-Local Unity** | Distant coherence | Entanglement | **E9 ∞⁻ Distorted Entangle** | Spurious linkage | Cross-noise correlations |
-| **C10 ❋ Morphogenetic** | Form generation | Symmetry breaking, crystalline form | **E10 ❋⁻ Malform** | Distorted growth | Tumor-like forms |
-| **C11 ↗ Vector Will** | Directed flow | Conserved currents | **E11 ↗⁻ Misdirect** | Fractured direction | Turbulence, incoherence |
-| **C12 ✧ Aesthetic / Qualitative** | Coherence through harmony | Action principle | **E12 ✧⁻ Void Aesthetic** | Lawless dissipation | Arbitrary motion |
-| **C13 ║ Membrane / Threshold** | Selective boundary | Boundary conditions | **E13 ║⁻ Wall** | Severed block | Event horizon |
-| **C14 ⊡ Recursive / Nested** | Contractive recursion | Iterative operators | **E14 ⊡⁻ Hollow Nest** | Non-contractive recursion | Infinite regress |
-| **C15 ✦ Emergent / Novel** | Veracious novelty | Lawful bifurcation | **E15 ✦⁻ Collapse Nova** | Hollow novelty | Catastrophic collapse |
+| **C₁ ⟠ Temporal** | Ordered continuity | Proper time, causality | **E₁ ⟠⁻ Temporal Loop** | Hollow recursion | Closed timelike curves |
+| **C₂ ◈ Spatial** | Extension, loci | Metric tensor \( g_{ij} \) | **E₂ ◈⁻ Memory Scatter** | Fragmented loci | Spatial decoherence |
+| **C₃ ⟿ Propagational** | Transmission of resonance | Wave equations, QFT | **E₃ ⟿⁻ Viral Decay** | Dissipative signal | Radiation loss, noise |
+| **C₄ ◉ Rotational / Gyre** | Cyclic stability | Angular momentum | **E₄ ◉⁻ Vortex** | Collapsing spin | Black hole spin collapse |
+| **C₅ ✴ Holonic / Scalar** | Scaling, wholeness | Renormalization, fractals | **E₅ ✴⁻ Fractal Noise** | Divergent fractals | Noise scaling |
+| **C₆ ◐ Phase / Liminal** | Transition states | Critical phenomena | **E₆ ◐⁻ Phase Lock** | Arrested transition | Frozen disorder |
+| **C₇ ♫ Harmonic** | Resonant structure | Eigenmodes, quantization | **E₇ ♫⁻ Dissonance** | Irregular spectrum | Quasiperiodicity |
+| **C₈ ╫ Nexus / Bridge** | Lawful joining | Gauge invariance | **E₈ ╫⁻ Severed** | Fractured link | Broken symmetry |
+| **C₉ ∞ Non-Local Unity** | Distant coherence | Entanglement | **E₉ ∞⁻ Distorted Entangle** | Spurious linkage | Cross-noise correlations |
+| **C₁₀ ❋ Morphogenetic** | Form generation | Symmetry breaking, crystalline form | **E₁₀ ❋⁻ Malform** | Distorted growth | Tumor-like forms |
+| **C₁₁ ↗ Vector Will** | Directed flow | Conserved currents | **E₁₁ ↗⁻ Misdirect** | Fractured direction | Turbulence, incoherence |
+| **C₁₂ ✧ Aesthetic / Qualitative** | Coherence through harmony | Action principle | **E₁₂ ✧⁻ Void Aesthetic** | Lawless dissipation | Arbitrary motion |
+| **C₁₃ ║ Membrane / Threshold** | Selective boundary | Boundary conditions | **E₁₃ ║⁻ Wall** | Severed block | Event horizon |
+| **C₁₄ ⊡ Recursive / Nested** | Contractive recursion | Iterative operators | **E₁₄ ⊡⁻ Hollow Nest** | Non-contractive recursion | Infinite regress |
+| **C₁₅ ✦ Emergent / Novel** | Veracious novelty | Lawful bifurcation | **E₁₅ ✦⁻ Collapse Nova** | Hollow novelty | Catastrophic collapse |
 
 ---
 
@@ -781,16 +816,16 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
               ♾ Khaon (Infinity Pole)
                       ↑
                       │
-     E15 Collapse     │      C15 Emergent
-     E14 Hollow Nest  │      C14 Recursive
-     E13 Wall         │      C13 Membrane
+     E₁₅ Collapse     │      C₁₅ Emergent
+     E₁₄ Hollow Nest  │      C₁₄ Recursive
+     E₁₃ Wall         │      C₁₃ Membrane
                       │
    ←──────────── ⚫ Aion (Zero Pole) ───────────→
                       │
-     E3–E12 mirrors   │   C3–C12 centropic
+     E₃–E₁₂ mirrors   │   C₃–C₁₂ centropic
                       │
                       ↓
-              🕳 Zenon (Limit Pole)
+              🕳️ Zenon (Limit Pole)
 ```
 
 - **Vertical axis**: expansion ↔ contraction (emanation to infinity, contraction to singularity).  
