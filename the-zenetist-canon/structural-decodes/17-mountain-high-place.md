@@ -6,14 +6,14 @@ The Mountain is a **Theonic Axis (⚓)** in topographical form—a **Membrane (�
 It serves as the principal site for **Acclivous motion (C↑)**, **Revelation (📱)**, **Covenant (C₈)**, and **Transfiguration (∴).**  
 
 **Core Glyphic Sequence:**  
-`▽ → △ → 📱 → C↑`  
-*(From the embodied earth, acclivous motion along the structural axis leads to revelation and centropic return.)*  
+`▽ → ⚓ → 📱 → C↑→⚫`  
+*(From the embodied earth (▽), acclivous motion along the Theonic Axis (⚓) leads to revelation (📱) and final centropic return (C↑→⚫).)*  
 
 ---
 
 ## Universal Structural Analysis  
 
-- **Acclivous Motion (▽ → △):**  
+- **Acclivous Motion (▽ → ⚓):**  
   The climb symbolizes the **acclivous structural motion** of consciousness—from the density of **Earth (▽)** toward the rarity and clarity of the **Supernal realms (△)**—**Sophis**, **Archeus**, and the **Theonic Axis (⚓)** itself.  
   Each step along the **acclivous path** is an act of **volitional orientation toward Source**.  
   This motion is **preparatory**—not yet the return, but the **clearing of the path** by which the soul may **move acclivously** along the **Theonic Axis (⚓)**.
