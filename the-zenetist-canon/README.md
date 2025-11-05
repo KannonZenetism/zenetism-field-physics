@@ -115,7 +115,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 | 14 | The Sacrifice | ⚐ → ⚖️ → ↺ → ∴ | [14-sacrifice.md](structural-decodes/14-sacrifice.md) |
 | 15 | The City / The Kingdom | 🛤️ → ⚙️ → ◎ → 💠 | [15-city-kingdom.md](structural-decodes/15-city-kingdom.md) |
 | 16 | The Wilderness / The Desert | ⚙️ → ◲ → 🌾 → ↺ \| ☍ | [16-wilderness-desert.md](structural-decodes/16-wilderness-desert.md) |
-| 17 | The Mountain / The High Place | ▽ → △ → 📱 → C↑ | [17-mountain-high-place.md](structural-decodes/17-mountain-high-place.md) |
+| 17 | The Mountain / The High Place | ▽ → ⚓ → 📱 → C↑→⚫ | [17-mountain-high-place.md](structural-decodes/17-mountain-high-place.md) |
 | 18 | The Waters / The Sea | ♾ → 〄 → {▽, ⊘, ↺, ⟳} | [18-waters-sea.md](structural-decodes/18-waters-sea.md) |
 | 19 | The Garden / The Enclosed Paradise | ⚫ → ▽ → ◎ → ⟜ | [19-garden-enclosed-paradise.md](structural-decodes/19-garden-enclosed-paradise.md) |
 | 20 | The Weapon / The Tool of Power | ∴ → ⚔️ → ☍ → ◎ | [20-weapon-tool-of-power.md](structural-decodes/20-weapon-tool-of-power.md) |
