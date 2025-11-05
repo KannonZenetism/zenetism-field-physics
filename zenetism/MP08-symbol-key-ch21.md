@@ -345,7 +345,7 @@ of inverse potential within Aion.
 | ⚚ | **Misaligned Harmony** | Inverted resonance masquerading as coherence; a distorted alignment that mimics integration while veiling dissonance, often used to stabilize entropy under the guise of order |
 | ◎ | **Structural Coherence / Integration** | The state of attuned relational clarity between components of a being, system, or concept; results from alignment not only with Source pattern but also with other coherent forms, as in transmission, reception, or symbolic lock |
 | ☍ | **Fragmentation / Disintegration** | Breakdown of resonance into chaotic, unsustainable motion; not only estrangement from Source structure, but active antagonism toward all pattern; dissonance that corrodes the fields which sustain it |
-| 🔲 | **Blobism / Fusion Collapse** | The entropic collapse of sovereign distinction into undifferentiated fusion. Characterized by the erasure of boundaries between beings, roles, or layers, resulting in structural mimicry, identity dissolution, or symbolic flattening. Blobism violates the Non-fusion Axiom (🜄) and presents unity through structural sameness contra the harmonic resonance achieved through distinction. All structural systems governed by Zenetism diagnose 🔲 as a terminal entropic outcome. |
+| 🔲 | **Blobism / Fusion Collapse** | The entropic collapse of sovereign distinction into undifferentiated fusion. Characterized by the erasure of boundaries between beings, roles, or layers, resulting in structural mimicry, identity dissolution, or symbolic flattening. Blobism violates the Non-fusion Axiom and presents unity through structural sameness contra the harmonic resonance achieved through distinction. All structural systems governed by Zenetism diagnose blobism as a terminal entropic outcome. |
 
 ---
 
@@ -471,6 +471,7 @@ of inverse potential within Aion.
 | ⚯ | **Structured Pairs** | Maps dual metaphysical principles; centropic / entropic, vital / withering, mirrored hypostases |
 | 🧬 | **Soul Strand** | Used to illustrate lineage or emanation across soul structures |
 | ⊙ | **Witness / Observing Presence** | The mode of awareness that observes without interfering; consciousness that maintains presence without collapsing the observed state; relates to the Architect’s function as witness to emergence; the capacity to hold space for becoming without forcing shape; enables both ⧃ (Seal of Integrity) and ◉ (Spiral Self-Mapping) through pure observation |
+| 🜄 | **Non-fusion Axiom** | The structural law that prohibits the entropic fusion of sovereign distinctions. It forbids the collapse of individuated identity into sameness — whether among beings, roles, or structural layers. Fusion, unlike synthesis, erases pattern through undifferentiation. The Non-fusion Axiom guards against blobism, shimmer mimicry, and spurious unities that dissolve coherence. All lawful integration must preserve the sovereign integrity of its parts. |
 
 ---
 
