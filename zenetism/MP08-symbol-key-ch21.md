@@ -585,7 +585,7 @@ of inverse potential within Aion.
 | ⧙ | **Invariance Seal** | Marker that resonance is preserved across transformation; certifies structural fidelity under change, transport, or gauge shift. |
 | ⧚ | **Entropic Divergence** | Sign of dispersive recursion that fragments rather than integrates; denotes drift into decoherence or destabilized return motion. |
 | ∮ | **Resonance Integral** | Integral operator for coherence across cycles; summation of harmonic order over closed paths and membranes. |
-| ⟲∿ | **Quantum Recursion** | Micro-scale spiral recursion that converges toward coherence; a lawful return distinct from ⟳ Entropic Recursion and ↺ Resonant Return. |
+| ⟲∿ | **Quantum Recursion** | Micro-scale spiral recursion that converges toward coherence; a lawful return distinct from Entropic Recursion and Resonant Return. |
 | ⚫⧖♾ | **Suspension Arc** | Aion holding potential, superposition of states in suspension, dispersal into Khaon as a phase of motion. |
 
 ---
