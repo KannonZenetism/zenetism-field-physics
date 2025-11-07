@@ -77,8 +77,6 @@ The path of Centropy (🔺) is conscious alignment with these archetypes—learn
 
 ---
 
----
-
 # Structural Annotations — Decode 24: The Number / Sacred Numerology
 
 The following notes extend the mythic analysis with formal correspondences from the Dimensional Lattice and Coherence Information Theory. These are optional deepenings for readers seeking mathematical precision.
