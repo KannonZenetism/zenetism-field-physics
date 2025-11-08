@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Metaphysical Crucible of Transformative Suffering.**  
-The Forge is a **DP/DL-level Motive environment**—a Contained Field of concentrated energy (△ Fire) and structural pressure (▽ Earth). Its function is to Deconstruct (◲) the base composition of a being—whether SS/SM or impure DS/DM—and to Reforge it into a more Coherent, Synthesized (∴) state. It is the Archetype of purification through friction, a system of lawful transmutation.  
+The Forge is a **DP/DL-level Motive environment**—a Contained Field of concentrated energy (▲ Fire) and structural pressure (▽ Earth). Its function is to Deconstruct (◲) the base composition of a being—whether SS/SM or impure DS/DM—and to Reforge it into a more Coherent, Synthesized (∴) state. It is the Archetype of purification through friction, a system of lawful transmutation.  
 
 **Core Glyphic Sequence:**  
 `📐 → ▲ → ◲ → ∴`  
