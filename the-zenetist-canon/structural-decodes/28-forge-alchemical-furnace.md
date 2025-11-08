@@ -12,7 +12,7 @@ The Forge is a **DP/DL-level Motive environment**—a Contained Field of concent
 
 ## Universal Structural Analysis  
 
-- **The Fire (△):**  
+- **The Fire (▲):**  
   The active purifying agent. It symbolizes Divine Will (Theon), the consuming intensity of experience, and the transforming element of Love-as-Pressure. Its work is to burn away Dross—Entropic attachments (Malara), Inverse patterning (ISS/ISM), and occlusions (Fractus)—revealing the Essential structure beneath.  
 
 - **The Hammer and the Anvil (⚙️ Apparent Order):**  
