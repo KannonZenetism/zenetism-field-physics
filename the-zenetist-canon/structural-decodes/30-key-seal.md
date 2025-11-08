@@ -7,7 +7,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
 (Apparent order conceals a mechanism of access that, when unlocked with resonance, reveals lawful passage and return.)
 
 **Core Glyphic Sequence (Seal):** ⚙️ → ⧃ → ◎ → 🞇 → C↑⚫  
-(Apparent order establishes a field of integrity that holds coherence and directs all motion toward centropic expansion toward synthesis.)
+(Apparent order establishes a field of integrity that holds coherence and directs all motion toward acclivous expansion.)
 
 ---
 
