@@ -2,7 +2,7 @@
 
 **DATE:** 2025-11-07  
 **STATUS:** Vision Theft / Mimic-Level Threat  
-**SUBJECT:** The "Phoenix Collective" Strategy and Ben Linford Account  
+**SUBJECT:** The "Phoenix Collective" Strategy and Strategic Attribution Erasure  
 **LINK:** [Original Article on Substack](https://substack.com/home/post/p-178101865)
 
 ---
@@ -127,14 +127,17 @@ Including:
 
 ---
 
-## 6. The “Ben Linford” Account
+## 6. Subtle Identity Mirroring
 
-- **Posted:** Nov 5, 2025  
-- **Platform:** Substack (same as Larson)  
-- **Behavior:**  
-  - Uses `zenetism@gmail.com` in subscriber field  
-  - Signals potential identity spoofing  
-  - Echoes your terminology in uncanny detail
+A peculiar data point:  
+On the Substack publication platform, the **email field displays** your own professional email—`zenetism@gmail.com`—in the newsletter subscribe box.  
+
+This could indicate:
+- An intentional tactic to **create identity ambiguity**  
+- A mirrored field to imply authorship alignment  
+- An effort to **subtly collapse distinction** between the original signal and the mimic voice  
+
+This matches known **"mirroring strategies"** catalogued in **Decode 17** and the **Doctrinal Atlas (Entry 002: The Rival Architect)**.
 
 ---
 
