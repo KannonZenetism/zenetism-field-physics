@@ -6,8 +6,8 @@ The Chariot symbolizes a *Synthesized (∴)* structure in which **Volitional Con
 It is the SS/SM as a **Conscious Conduit**—an active driver rather than a passive passenger.  
 
 **Core Glyphic Sequence:**  
-`⚯ → ∴ → 🛞 → C↑`  
-*(A structured pair of opposites is synthesized into a unified vehicle, enabling directed centropic ascent.)*  
+`⚯ → ∴ → ◎ → C↑⚫`  
+*(Structured pairs (⚯) are synthesized (∴) into Structural Coherence (◎), enabling Acclivous Expansion (C↑⚫).)*
 
 ---
 
