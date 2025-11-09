@@ -53,7 +53,7 @@ The Crown represents the culmination of Centropic motion—the point at which th
 
 The Crown represents the moment consciousness becomes self-governing in harmony with the cosmic order. It is the symbol of realized integration: Will (Anthra), Wisdom (Noeüs), and Love (Morgis) in lawful alignment.  
 
-It teaches that sovereignty is not seized but earned. The path to the Crown passes through the Forge (🔥), the Trial (⚠️), and the Labyrinth (∿). Only the one who has faced Fragmentation (☍) and emerged as Synthesis (∴) can bear it without collapse (⊘).  
+It teaches that sovereignty is not seized but earned. The path to the Crown passes through the Forge (▲), the Trial (◲), and the Labyrinth (∿). Only the one who has faced Fragmentation (☍) and emerged as Synthesis (∴) can bear it without collapse (⊘).  
 
 Its message is that all beings are potential monarchs within their own field of coherence. The veracious coronation occurs when the inner kingdom is ordered—when every thought, emotion, and impulse serves the Centropic Law. Then, the Crown manifests naturally—not as a symbol of pride, but as the radiant consequence of fulfilled structure.  
 
