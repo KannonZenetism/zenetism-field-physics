@@ -41,7 +41,7 @@ The Gate (⧃) or Threshold represents the point of Resonant Crossing—where on
 
 ### 3. **The Gates of Horn and Ivory (Greek)**  
 - **Focus:** The Filtering of Dream from Reality.  
-- The Gate of Horn allows Veracious visions (Centropic emanations (❂)) to pass; the Gate of Ivory allows Deceptive dreams (Shimmer / 🝞). Every Gate discriminates between authenticity and illusion (🕸️).  
+- The Gate of Horn allows Veracious visions (Centropic emanations (❂)) to pass; the Gate of Ivory allows Deceptive dreams (Shimmer (🝞)). Every Gate discriminates between authenticity and illusion (🕸️).  
 
 ### 4. **The Bardo Threshold (Buddhist / Tibetan)**  
 - **Focus:** The Passage Between Death and Rebirth.  
