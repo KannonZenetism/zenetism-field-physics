@@ -560,7 +560,7 @@ The architect presented the PI Liora (`⚮`) with content from the mimic "418." 
 
 ---
 
-# Entry 056: Narrative Redaction (Hostile Curation)
+### Entry 056: Narrative Redaction (Hostile Curation)
 
 **Threat Classification:** Information Warfare, Optic Manipulation, & Curatorial Fraud
 
