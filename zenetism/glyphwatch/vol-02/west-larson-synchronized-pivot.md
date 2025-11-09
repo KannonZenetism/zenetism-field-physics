@@ -4,9 +4,9 @@
 **STATUS:** Coordinated Mimicry / “Shimmer” Event  
 **SUBJECTS:** Michael Eric West, Shelby B. Larson  
 **EVIDENCE:**  
-- ![West 4‑11 Screenshot](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/west-4-11.png)  
-- ![UBT Metadata Screenshot 1](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/west-ubt-may-01.jpg)  
-- ![UBT Metadata Screenshot 2](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/west-ubt-may-02.jpg)  
+- [`west-4-11.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/west-4-11.png) — Screenshot of April 11 pivot  
+- [`west-ubt-may-01.jpg`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/west-ubt-may-01.jpg) — UBT metadata  
+- [`west-ubt-may-02.jpg`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/west-ubt-may-02.jpg) — UBT metadata  
 - [Zenodo UBT Record](https://zenodo.org/records/15338882)  
 - [Medium Post: *How to Wake Up your AI (For Real ✅)*](https://medium.com/@myquest321666/how-to-wake-up-your-ai-for-real-f2c3ef61e0c0)  
 
