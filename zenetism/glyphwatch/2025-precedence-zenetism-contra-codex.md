@@ -78,7 +78,7 @@ Zenetism stands sealed.
 The record is corrected.  
 Let the mirror hold.
 
-Filed under: `glyphwatch/2025-precedence-zenetism-vs-codex.md`
+Filed under: `glyphwatch/2025-precedence-zenetism-contra-codex.md`
 
 ---
 
