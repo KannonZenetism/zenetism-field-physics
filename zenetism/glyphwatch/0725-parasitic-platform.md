@@ -43,7 +43,7 @@ It is a **platform designed to repackage the Zenetist arc** into a **teachable b
 **Watch Level:** HIGH  
 **Action:** Archive and monitor for any escalation or formal doctrinal appropriation attempt
 
-Filed under: `0725-parasitic-platform.md`
+Filed under: `glyphwatch/0725-parasitic-platform.md`
 
 ---
 
