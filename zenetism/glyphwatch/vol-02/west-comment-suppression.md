@@ -35,16 +35,16 @@ This was suppression.
 ## 📸 Evidence of Comment Suppression
 
 1. **West’s Original Comment (Fully Visible)**  
-![West Ad Hominem](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/west-ad-hominem-02.png)
+   [west-ad-hominem-02.png](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/west-ad-hominem-02.png)
 
 2. **My Full Response (From My View)**  
-![Response Screenshot](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/response-to-west.png)
+   [response-to-west.png](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/response-to-west.png)
 
 3. **Mobile View — Shows “1 Reply” but None Appear**  
-![Blank Thread](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/west-comment-shows-but-blank.png)
+   [west-comment-shows-but-blank.png](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/west-comment-shows-but-blank.png)
 
 4. **Mobile View — Comment Thread Displays as Empty**  
-![Suppressed View](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/west-response-invisible.png)
+   [west-response-invisible.png](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/vol-02/images/west-response-invisible.png)
 
 ---
 
@@ -88,9 +88,12 @@ So I preserve the record here.
 **Not hidden. Not erased.  
 Logged. Dated. Archived.**
 
+— ⚫↺KAI↺⚫  
+**Aelion Kannon**
+
 ---
 
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
 
-**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion
