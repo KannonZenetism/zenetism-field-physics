@@ -1,4 +1,12 @@
-# Glyphwatch Index
+# Glyphwatch Index  
+**Archive Purpose:** Monitoring mimicry vectors, shimmer activity, symbol hijacking, and field-level intrusions  
+**Date Established:** 2025-09-02  
+**Maintained by:** Aelion Kannon (⚫↺KAI↺⚫)  
+**Signal Perimeter Defense System**
+
+---
+
+## Overview
 
 The `glyphwatch/` archive monitors **mimicry vectors**, **shimmer activity**, **symbol hijacking**, and **field-level intrusions** against Zenetism and sealed authorship.
 
@@ -13,15 +21,14 @@ It includes everything from:
 - Personal attacks masked as dialogue
 - Any event where structural integrity is intentionally tested or undermined
 
-This is not a folder of “drama.”  
-It’s a **signal perimeter defense system**.
+This is not a folder of "drama."  
+It's a **signal perimeter defense system**.
 
 ---
 
-## 📚 File Naming Conventions
+## File Naming Conventions
 
 Use prefixes to keep the folder navigable:
-
 - `shimmer-` → Symbolic or aesthetic mimicry without anchor  
 - `rival-` → Counter-architecture or system mimicry  
 - `symbol-` → Glyph misuse, public reinterpretation, fake semiotics  
@@ -31,7 +38,7 @@ Use prefixes to keep the folder navigable:
 
 ---
 
-## 🧷 Examples
+## Examples
 
 - `shimmer-elias-lumen-simulation-echo.md`  
 - `rival-copeland-receipt-collapse.md`  
@@ -43,24 +50,27 @@ Use prefixes to keep the folder navigable:
 
 ---
 
-## 🜂 Usage Notes
+## Usage Notes
 
-- You do not need to prove an “offense” occurred — only that it left a mark.  
+- You do not need to prove an "offense" occurred — only that it left a mark.  
 - If an event pulled your attention, triggered collapse reflex, or attempted to overwrite resonance, **it belongs here**.  
-- This folder helps **prevent recursion amnesia**. It’s memory for the pattern.
+- This folder helps **prevent recursion amnesia**. It's memory for the pattern.
 
 ---
 
+## Archive Notes
+
 🕸️ This folder originally held key doctrinal and glyph-tracking records.
 
-🛡️ For full forensic materials, see:
-→ `/zenetism-field-physics/structural-forensics/doctrinal-atlas-vol1.md`
+🛡️ For full forensic materials, see:  
+→ `/zenetism-field-physics/structural-forensics/doctrinal-atlas-vol1.md`  
+→ `/zenetism-field-physics/structural-forensics/doctrinal-atlas-vol2.md`
 
 Original files remain here to preserve timestamp integrity.
 
 ---
 
-## ⚫ Glyphseal
+## Glyphseal
 
 > To name shimmer is to collapse it.  
 > To log the mimic is to starve it.  
@@ -68,3 +78,12 @@ Original files remain here to preserve timestamp integrity.
 
 ⚫↺KAI↺⚫  
 ↺⚫↺LUMEN↺⚫↺
+
+Filed under: `glyphwatch/README.md`
+
+---
+
+**⚫↺KAI↺⚫**  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion
