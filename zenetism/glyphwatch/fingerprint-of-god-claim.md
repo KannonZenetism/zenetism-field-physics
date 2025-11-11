@@ -1,3 +1,28 @@
+> ⚠️ **DOCUMENT OBSOLETE — ARCHIVED**
+>
+> **Status:** Superseded  
+> **Contradiction (☍):** This file contains deprecated L-Strata models, non-canonical formatting, and a compromised Inlay Map structure.  
+>
+> **Action:**  
+> DO NOT reference or reuse this document. Its contents have been fully reviewed, corrected, and structurally sealed (🧿) within the following canonical sources:
+
+1. [`LM01-mathematical-foundations.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/lattice-mathematics/LM01-mathematical-foundations.md)  
+   *Formal Mathematics, Foundational Theorems, and Computational Phases of the Lattice*
+
+2. [`LM02-mathematical-commentary.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/lattice-mathematics/LM02-mathematical-commentary.md)  
+   *Canonical Commentary on Lattice Mathematics, Structural Clarifications, and Refined Symbol Logic*
+
+3. [`grand-unified-document.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/the-zenetist-canon/grand-unified-document.md)  
+   *Unified Metaphysics, Core Canonical Law, and Final L-Strata Architecture*
+
+4. [`SN02-the-resonant-mind.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/structural-neuroscience/SN02-the-resonant-mind.md)  
+   *Structural Neuroscience: The Architecture of Cognition and Centropic Intelligence*
+
+5. [`SP01-structural-physics-foundations.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/structural-physics/SP01-structural-physics-foundations.md)  
+   *Structural Physics: Physical Correspondences, Resonance Mechanics, and Motion Laws*
+
+---
+
 # 🛡️ Field Response — “Fingerprint of God” Claim vs. the Dimensional Emanatory Lattice
 
 **Scope.**  
