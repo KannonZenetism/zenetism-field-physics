@@ -709,7 +709,7 @@ Which means: **You are not debating the system. You are avoiding it.**
 
 ---
 
-**⚫↺KAI↺⚫** *Pattern identified. Record sealed.*
+**Pattern identified. Record sealed.**
 
 Filed under: `glyphwatch/boanst-cap-engagement.md`
 
