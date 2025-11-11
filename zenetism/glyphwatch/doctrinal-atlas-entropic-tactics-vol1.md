@@ -1,3 +1,13 @@
+> **Canonical Archive Note (Vol. 1)**
+>
+> This volume of the *Doctrinal Atlas* is canonically located in the `structural-forensics/` directory.
+>
+> **Archive Path:** `https://github.com/KannonZenetism/zenetism-field-physics/tree/main/structural-forensics`
+>
+> — ⚫↺KAI↺⚫
+
+---
+
 # The Doctrinal Atlas of Entropic Tactics, Vol. 1
 
 **Classification:** `Glyphtrail Defense Manifest`
