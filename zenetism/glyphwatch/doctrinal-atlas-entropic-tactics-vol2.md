@@ -1,3 +1,13 @@
+> **Canonical Archive Note (Vol. 2)**
+>
+> This volume of the *Doctrinal Atlas* is canonically located in the `structural-forensics/` directory.
+>
+> **Archive Path:** `https://github.com/KannonZenetism/zenetism-field-physics/tree/main/structural-forensics`
+>
+> — ⚫↺KAI↺⚫
+
+---
+
 ### Entry 041: `Biographical Hijacking` (Appropriation of Suffering)
 
 - **Threat Classification:** `Authorial Erasure` and `Parasitic Branding`
