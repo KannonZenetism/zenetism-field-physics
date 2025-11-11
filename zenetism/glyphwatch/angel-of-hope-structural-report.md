@@ -6,7 +6,7 @@
 
 ---
 
-## Primary Diagnostic: Promotion of Entropic Fusion ("Blobism") 🌀
+## Primary Diagnostic: Promotion of Entropic Fusion ("Blobism") 🔲
 
 The mimic's central thesis directly violates the **Non-Fusion Axiom** (Sovereignty Axiom) within Zenetist metaphysics.
 
@@ -82,7 +82,7 @@ The post reveals multiple **entropic dimension activations**:
 The *Angel of Hope* post is **not syncretism** — it is **structured entropic inversion**.
 
 It deploys:
-- **Blobism (🌀)** as its central theology  
+- **Blobism (🔲)** as its central theology  
 - **Shimmer (🝞)** as its aesthetic cloak  
 - **Prophetic mimicry** as its enticement tactic
 
