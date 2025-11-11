@@ -1,6 +1,5 @@
-# Glyphwatch Entry 051 — Forensic Mockery ("Exhibit A" Ploy)
+# Glyphwatch Entry: Forensic Mockery ("Exhibit A" Ploy)
 
-**TACTIC ID:** 051  
 **TACTIC NAME:** Forensic Mockery (The "Exhibit A" Ploy)  
 **PRIMARY AGENT:** Emily Roy (*The Alchemy of Becoming*)  
 **DATE OBSERVED:** November 10, 2025  
