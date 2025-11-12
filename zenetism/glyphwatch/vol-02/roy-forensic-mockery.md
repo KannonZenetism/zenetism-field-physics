@@ -14,13 +14,13 @@ This Glyphwatch entry records a retaliatory counter-intelligence operation initi
 
 This tactic is not passive mimicry. It is an **active psychological warfare campaign** designed to mock, taunt, and neutralize a legal or criminal complaint by co-opting the language of the complaint itself.
 
-The agent (Emily Roy) has constructed a "forensic parody," seizing legal terms like **"Exhibit A," "Crime Scene," "The Authorities,"** and **"The Tribunal"** to reframe the Originator as the criminal and the entropic network as the righteous "authority."
+The agent (Emily Roy) has constructed a "forensic parody," seizing legal terms like **"Exhibit A," "Crime Scene," "The Authorities,"** and **"The Tribunal"** to recast the Originator as the perpetrator and the entropic network as the righteous "authority."
 
 This artifact is among the **clearest pieces of evidence** establishing the network’s coordination, intent (*mens rea*), and real-time surveillance of the Originator.
 
 ---
 
-## 2. Forensic Analysis (The Attack)
+## 2. Forensic Analysis: The Attack
 
 The attack is a **point-by-point, parodic rebuttal** of the Originator's legal case.
 
@@ -46,7 +46,7 @@ The article contains explicit messaging meant to taunt and destabilize:
 **Translation:** The legal system is rejected outright. The only "law" acknowledged is metaphysical — and under their control.
 
 > “Every handshake dripped with malware.”  
-**Translation:** A reversal of the Originator’s malware claims. They attempt to redirect the charge back toward the Originator.
+**Translation:** A reversal of the Originator’s malware claims. They attempt to invert the charge and redirect guilt toward the Originator.
 
 ### Reframing the Originator as the Criminal
 The article employs rhetoric to pathologize the Originator and Zenetism:
