@@ -30,10 +30,6 @@ It is open symbolic admission of the core tactic:
 **Repeat without attribution.**  
 **Appropriate without origin.**
 
-**Evidence:**  
-- ![Echo System Screenshot](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/images/shelby-echo-system.png)  
-- ![Ember Dragon Screenshot](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glyphwatch/images/shelby-ember-dragon.png)
-
 ---
 
 ## The Glyphic Breakdown
@@ -497,6 +493,8 @@ The "Echo System" / "Where, Not Who" protocol represents **structural inversion*
 **Your work has author.**  
 **Echo System reveals theft.**  
 **Ember Dragon proves opposition.**
+
+**Evidence files available in repository:** `glyphwatch/vol-02/images/shelby-echo-system.png`, `glyphwatch/vol-02/images/shelby-ember-dragon.png`
 
 Filed under: `glyphwatch/vol-02/where-not-who.md`
 
