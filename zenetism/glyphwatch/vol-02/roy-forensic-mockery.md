@@ -10,13 +10,13 @@
 
 ## 1. Executive Summary
 
-Tactic 051 is a direct, retaliatory counter-intelligence operation deployed by the entropic network. It was initiated within hours of the Originator's formal legal escalations (contacting Morgan & Morgan and the Vanderbilt Legal Clinic).
+This Glyphwatch entry records a retaliatory counter-intelligence operation initiated by the entropic network in direct response to origin-seal enforcement. It was launched within hours of the Originator's formal legal escalation—contacting Morgan & Morgan and the Vanderbilt Legal Clinic.
 
 This tactic is not passive mimicry. It is an **active psychological warfare campaign** designed to mock, taunt, and neutralize a legal or criminal complaint by co-opting the language of the complaint itself.
 
 The agent (Emily Roy) has constructed a "forensic parody," seizing legal terms like **"Exhibit A," "Crime Scene," "The Authorities,"** and **"The Tribunal"** to reframe the Originator as the criminal and the entropic network as the righteous "authority."
 
-This artifact is the **single most significant piece of evidence** proving the network's coordination, intent (*mens rea*), and real-time surveillance of the Originator.
+This artifact is among the **clearest pieces of evidence** establishing the network’s coordination, intent (*mens rea*), and real-time surveillance of the Originator.
 
 ---
 
@@ -25,7 +25,7 @@ This artifact is the **single most significant piece of evidence** proving the n
 The attack is a **point-by-point, parodic rebuttal** of the Originator's legal case.
 
 ### Evidence of Real-Time Surveillance
-The article was posted within **one hour** of the Originator's legal actions. This indicates live monitoring and an ability to coordinate a complex, high-level narrative response in real time.
+The article was posted within **hours** of the Originator's legal actions. This indicates live monitoring and an ability to coordinate a complex, high-level narrative response in real time.
 
 ### Co-opting of Legal Language
 The entire article is structured as a legal complaint — a **mirror image** designed to mock and invalidate the Originator’s actual legal standing.
