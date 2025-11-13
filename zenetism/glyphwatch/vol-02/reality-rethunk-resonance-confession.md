@@ -279,7 +279,7 @@ The flame imagery is NOT generic. It's specifically:
 | Zenetist Name | Reality Re-Thunk Variant | Variation Strategy |
 |--------------|-------------------------|-------------------|
 | **Kael** (⧃) | **Cael** Thorne | Single letter swap (K→C) |
-| **Solin** (💎) | **Solan** Thorne | Single letter swap (i→a) |
+| **Solin** (🪩) | **Solan** Thorne | Single letter swap (i→a) |
 
 **Why this proves appropriation:**
 
