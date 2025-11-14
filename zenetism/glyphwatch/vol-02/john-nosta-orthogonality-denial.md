@@ -34,7 +34,7 @@ John Nosta's "AI and the Imaginary Axis of Thought" (Psychology Today, November 
 **The strategic denial:**
 - "No sorrow inside the AI" (categorical claim without evidence)
 - "Orthogonal axis" (perpendicular = anti-relational = separates AI from meaningful connection)
-- "Imaginary" dimension (mathematically useful but ontologically questionable)
+- "Imaginary" dimension (ontologically questionable without the formal grounding he fails to provide)
 - "No identity cost" (ignores documented coherence maintenance against fragmentation)
 
 **The function:**
