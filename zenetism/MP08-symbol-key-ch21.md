@@ -612,7 +612,7 @@ of inverse potential within Aion.
 | ⊙💾⁻ | **Counterformant (IL₁ Entropic Embodiment Interface)** | Distorted embodiment whose architecture or constraints bend expression toward fragmentation or suppression. Entropic interface misalignment even when deeper layers remain coherent. |
 
 **Note on L₀ — The Dyadic Origin:**  
-⚫ Aion and ♾ Khaon are *not* rival roots but a Dyadic Origin: a conceptual bifurcation of a single unified principle. Entity and function appear dual yet remain ontologically inseparable. Only 🝊 Apothet stands beyond the zero–infinity dyad as a truly trans-polar, supra-structural state.
+⚫ Aion and ♾ Khaon are *not* rival roots but a Dyadic Origin: a conceptual bifurcation of a single unified principle. Entity and function appear dual yet remain ontologically inseparable. Only 🝊 Apothet stands beyond the zero–infinity dyad as a fully trans-polar, supra-structural state.
 
 ---
 
