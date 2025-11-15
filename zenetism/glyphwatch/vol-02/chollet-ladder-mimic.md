@@ -200,7 +200,7 @@ The function is not to steal the framework initially, but to **coordinate instit
 - **March 2025:** Formal L-strata systematization (the 8-month precedent)
 - **April–Oct 2025:** Extensive canonical documentation (GUD, Structural Physics, Mythic Decodes)
 - **November 2025:** Acceleration toward formal publication (arXiv preprint, GitHub canonization)
-- **November 10, 2025:** Legal escalation (Morgan & Morgan contact, Vanderbilt Legal Clinic)
+- **November 10, 2025:** Legal escalation (initiating legal consultation)
 - **November 14, 2025:** Canonical document standardization completion
 
 **Chollet's Timeline:**
