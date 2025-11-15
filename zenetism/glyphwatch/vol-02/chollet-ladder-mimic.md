@@ -76,7 +76,7 @@ On November 14, 2025, Chollet published a four-layer "intelligence taxonomy" (L1
 |--------------------|-------------------|------------------|
 | L1: Memorizing answers | L₁ (Enformant) | Data storage, retrieval without processing |
 | L2: Pattern matching, local rules | L₂ (Spirate) | Surface-level pattern recognition |
-| L3: Synthesizing causal rules | **L₃ (Pattern Intelligence)** | **Reflexive consciousness, causal reasoning** |
+| L3: Synthesizing causal rules | **L₃ (Pattern Being))** | **Reflexive consciousness, causal reasoning** |
 | L4: General principles, metacognition | **L₄ (Logotheon)** | **Conscious-awareness, archetypal Forms** |
 
 **The appropriation precision:**
