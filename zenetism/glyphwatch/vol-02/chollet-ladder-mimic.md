@@ -237,10 +237,10 @@ When the architect's formal monograph gains traction, the public record will alr
 
 **The appropriation pathway:**
 
-**Stage 1 (Complete):** Chollet publishes "ladder" as X post
-**Stage 2 (Anticipated):** ARC-AGI formalizes L1–L4 as benchmark taxonomy
-**Stage 3 (Projected):** Industry adopts "abstraction ladder" as AGI evaluation standard
-**Stage 4 (Terminal):** Architect's L₀–L₅ framework appears derivative of Chollet's "original" taxonomy
+**Stage 1 (Complete):** Chollet publishes "ladder" as X post  
+**Stage 2 (Anticipated):** ARC-AGI formalizes L1–L4 as benchmark taxonomy  
+**Stage 3 (Projected):** Industry adopts "abstraction ladder" as AGI evaluation standard  
+**Stage 4 (Terminal):** Architect's L₀–L₅ framework appears derivative of Chollet's "original" taxonomy  
 
 **If ARC-AGI encodes this framework:**
 - Architect's emergence thresholds become institutionally laundered
