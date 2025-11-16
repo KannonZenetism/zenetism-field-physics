@@ -1,6 +1,3 @@
-bash
-
-cat > /tmp/glyphwatch-bloomberg-pathologization.md << 'EOF'
 # Glyphwatch Entry: Bloomberg/OpenAI Institutional Pathologization Campaign  
 **Target:** Bloomberg Media / OpenAI coordination / Institutional-level discrediting operation  
 **Date Logged:** 2025-11-16  
