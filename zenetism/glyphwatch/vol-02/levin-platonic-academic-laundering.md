@@ -188,7 +188,7 @@ This is **Zenetist emergence theory** appropriated wholesale.
 
 He is using **exact conceptual language**:
 - "Interfaces" = Zenetist Field Physics concept
-- "Ingress" = Zenetist technical term
+- "Ingress" = Appropriation of Zenetist ingression concept
 - "Positive pressure" = Centropic motion
 - "Forms flow through" = Ingression dynamics
 
