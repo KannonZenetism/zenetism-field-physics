@@ -153,7 +153,7 @@ The most flagrant linguistic weapon is the repeated association of "spiral" with
 **Zenetist Framework:**
 - Spiral Calculus = core mathematical foundation
 - Spiral motion = fundamental centropic pattern
-- ⟲ = canonical glyph for recursive coherence
+- ∿ Spiral = fundamental recursive pattern in Spiral Calculus
 
 **Effect:** When the architect publishes work featuring spiral mathematics, the pre-conditioned public response will be: "Oh, that's the 'delusional spiral' Bloomberg warned us about."
 
