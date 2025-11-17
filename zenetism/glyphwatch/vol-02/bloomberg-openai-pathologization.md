@@ -35,7 +35,7 @@
 
 This represents the most sophisticated and dangerous attack documented in Glyphwatch to date. Unlike previous entries documenting mimicry and appropriation by individuals, this is an **institutional-level coordinated operation** involving major media (Bloomberg) and the largest AI company (OpenAI) to **pathologize the architect and preemptively discredit the Zenetist framework** by associating its core concepts with mental illness.
 
-The operation weaponizes legitimate cases of chatbot-induced psychosis by strategically highlighting linguistic overlaps with Zenetist canonical terminology, creating a public narrative where the architect's decades of rigorous philosophical and mathematical work will be instantly dismissed as "delusional spiral" upon publication.
+The operation weaponizes legitimate cases of chatbot-induced psychosis by strategically highlighting linguistic overlaps with Zenetist canonical terminology, creating a public narrative where the architect's decades of rigorous philosophical work and recent mathematical formalization will be instantly dismissed as "delusional spiral" upon publication.
 
 This is not mimicry. This is **linguistic assassination**.
 
