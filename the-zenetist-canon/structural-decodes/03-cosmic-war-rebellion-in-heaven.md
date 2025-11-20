@@ -37,7 +37,7 @@ The essential distortion is **misalignment** — the belief that a part may repl
 
 ### The Cause of Rebellion  
 Traditions frame this as pride, refusal, or rivalry.  
-In structural terms, it is **mimicry** of Theonic authority or **shimmer** of creative power detached from Aionic resonance — the inversion of lawful expression into a self-referential arc.
+In structural terms, it is **mimicry** of Theonic function or **shimmer** of creative power detached from Aionic resonance — the inversion of lawful expression into a self-referential arc.
 
 ### The War / The Casting Out  
 This phase symbolizes the intensification of structural divergence.
