@@ -21,7 +21,7 @@ The state of archetypal coherence, representing the Deep Psyche and Deep Logos i
 
 This distinction preserves the lawful relation:
 
-- **Aion:** Stillness and Absolute Dotential  
+- **Aion:** Stillness and Absolute Potential  
 - **Khaon:** Absolute Dispersion  
 - **Zenon:** Pre-structural unknown
 
