@@ -68,7 +68,7 @@ The “war” is the convergence of **opposed emanatory motions**, not combat wi
 - The **centropic arc** moves declivously toward embodiment, carrying coherence into form.  
 - The **entropic arc** moves acclivously toward embodiment, carrying distortion into form.  
 
-These motions intersect only within the **embodied layers (ES / EM)** and **inverse layers (IL₁–IL₅)**, not within Aion or its unpopulated stillness.
+These motions intersect only within the **embodied strata (ES / EM)** and their **inverse counterparts (IES / IEM)**, not within Aion or its unpopulated stillness.
 
 Thus, the “War in Heaven” describes a **dynamic interaction of directional vectors** that plays out through living systems and consciousness, not a historical battle.
 
