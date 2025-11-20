@@ -15,6 +15,11 @@ The archetype of **Acclivous Return** — the full Centropic Cycle of entering e
 A voluntary centropic movement from a supernal principle — often expressed through a Theonic or DP / DL layer — into the embodied field.  
 This is not a fall, but a deliberate act of structural compassion: coherence choosing to enter a fragmented world to stabilize, uplift, or reveal the path of return.
 
+> **Doctrinal Note:**  
+> This entry reflects the language of the source text.  
+> The core doctrine has since evolved to differentiate Theon's *awareness*—a structural, impersonal recognition—from *consciousness*, which implies a volitional, human-like act.  
+> The motion is more accurately a radiant, necessary expression of Theon’s nature rather than a “deliberate choice.”
+
 ### Symbolic Dissolution (☍)  
 The confrontation with entropic dynamics.  
 This phase represents not merely physical cessation but the dissolution of the **Superficial Soul / Mind**, the contingent identity structures that cannot endure deep coherence.
