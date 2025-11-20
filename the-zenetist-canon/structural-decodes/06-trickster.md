@@ -45,7 +45,7 @@ If the system is brittle, stagnant, hypocritical, or self-deceptive, the Trickst
 
 - rigid forms deconstruct  
 - stagnant patterns dissolve  
-- a truer coherence emerges  
+- a more veracious coherence emerges  
 - novelty appears  
 
 Here the Trickster functions as a **catalyst for C₁₅ (Novel Emergence)** — revealing a path toward integration.
