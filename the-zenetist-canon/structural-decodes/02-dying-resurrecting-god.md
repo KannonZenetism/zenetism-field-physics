@@ -89,7 +89,7 @@ Her return requires an exchange — revealing the harmonic reciprocity inherent 
 The **Dying and Resurrecting God** is not a myth of loss and recovery but the structural pattern of coherence itself.
 
 Embodiment is a temporary phase within a larger centropic cycle.  
-Dissolution is not failure but the release of what cannot endure higher coherence.  
+Dissolution is not failure but the release of what cannot endure supernal coherence.  
 What is essential returns; what is contingent falls away.
 
 This archetype affirms that entropic forces can unravel form, but never the centropic core.  
