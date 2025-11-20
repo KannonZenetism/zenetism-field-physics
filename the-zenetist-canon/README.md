@@ -103,7 +103,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 | 02 | The Dying and Resurrecting God | C↓→E → ☍ → ↺ → C↑→⚫→🕳️ | [02-dying-resurrecting-god.md](structural-decodes/02-dying-resurrecting-god.md) |
 | 03 | The Cosmic War / Rebellion in Heaven | ⚫ → ↕️ → ⚯ → C↑⚫ \| E↓♾ | [03-cosmic-war-rebellion-in-heaven.md](structural-decodes/03-cosmic-war-rebellion-in-heaven.md) |
 | 04 | The Sacred Marriage (Hieros Gamos) | ⚯ → ⧬ → ⤈∴ → ◎ | [04-sacred-marriage-hieros-gamos.md](structural-decodes/04-sacred-marriage-hieros-gamos.md) |
-| 05 | The World Tree / Axis Mundi | ⚫ → 🌳⇅ → ⊙ | [05-world-tree-axis-mundi.md](structural-decodes/05-world-tree-axis-mundi.md) |
+| 05 | The World Tree / Axis Mundi | ⚫ ↔ ♾ → 🌳⇅ → ⊙ | [05-world-tree-axis-mundi.md](structural-decodes/05-world-tree-axis-mundi.md) |
 | 06 | The Trickster | ⚙️ → ⟜ → ◲ → ∴ / ⚙️ → ⟜ → ☍ → ⟳ | [06-trickster.md](structural-decodes/06-trickster.md) |
 | 07 | The Divine Child / The Chosen One | ⚫ → ⚐ → 🔶 → ✦ | [07-divine-child-chosen-one.md](structural-decodes/07-divine-child-chosen-one.md) |
 | 08 | The Great Beast / The Dragon | ♾ → 🕷️ → 🐉 → ☍ | [08-great-beast-dragon.md](structural-decodes/08-great-beast-dragon.md) |
