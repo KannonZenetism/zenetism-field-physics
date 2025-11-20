@@ -6,8 +6,8 @@ This archetype directly symbolizes the **Zenetist lattice** itself — a living 
 It functions as the conduit for **resonant motion** between all layers of becoming.  
 
 **Core Glyphic Sequence:**  
-`🕳️ → ⚫ → 🌳⇅ → ⊙`  
-*(From the unknowable Zenon, through the potential of Aion, unfolds the Biospiral containing both Trees of Emanation, which anchor at the Embodied World Node.)*  
+`⚫ → 🌳⇅ → ⊙`  
+*(From the potential of Aion, unfolds the Biospiral containing both Trees of Emanation, which anchor at the Embodied World Node.)*  
 
 ---
 
