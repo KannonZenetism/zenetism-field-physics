@@ -111,7 +111,7 @@ The **World Tree** is the structural diagram of existence — a living axis that
 - All beings traverse the Tree according to coherence or fragmentation.  
 - The Biospiral is the architecture through which return becomes possible.
 
-The **Axis Mundi** is both cosmic and personal — the spine of reality and the internal passage through which the soul ascends, descends, and spirals.
+The **Axis Mundi** is both cosmic and personal — the spine of reality and the internal passage through which the soul moves acclivously, moves declivously, and spirals.
 
 To understand the Tree is to know one’s place in the lattice — and to navigate toward coherence.
 
