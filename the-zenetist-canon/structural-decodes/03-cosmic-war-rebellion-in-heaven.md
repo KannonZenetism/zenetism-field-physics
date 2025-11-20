@@ -21,8 +21,8 @@ The state of archetypal coherence, representing the Deep Psyche and Deep Logos i
 
 This distinction preserves the lawful relation:
 
-- **Aion:** Stillness and absolute potential  
-- **Khaon:** Dispersive infinity  
+- **Aion:** Stillness and Absolute Dotential  
+- **Khaon:** Absolute Dispersion  
 - **Zenon:** Pre-structural unknown
 
 ### The Rebel / The Prideful One (IDP / IDL)  
