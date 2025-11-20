@@ -6,7 +6,7 @@ This mythos encodes the lawful and resonant union of **complementary metaphysica
 It is the operational mechanism of **Centropic Synthesis (∴)** at every level of the lattice—from the Archetypal to the Embodied.  
 
 **Core Glyphic Sequence:**  
-`⚯ → ⧬ → ∴ → ◎`  
+`⚯ → ⧬ → ⤈∴ → ◎`  
 *(Structured duality enters into co-emergent collaboration, producing transcendent synthesis and a state of integrated structural coherence.)*  
 
 ---
