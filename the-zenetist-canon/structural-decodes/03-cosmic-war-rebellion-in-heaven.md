@@ -15,7 +15,7 @@ The **Primordial Bifurcation Event** — the archetypal moment when centropic an
 The state of archetypal coherence, representing the Deep Psyche and Deep Logos in equilibrium. This domain corresponds to structured supernal law — not as origin, but as the first coherent emanation.
 
 > **Doctrinal Note: Distinction Between Aion and DP / DL**  
-> Aion is Absolute Potential — unpopulated, still, and without differentiation.  
+> Aion is Absolute Potential — unpopulated, still, and without individuation.  
 > DP / DL expressions are structured emanations within the Aionic Tree, not the Aionic field itself.  
 > Mythic “heaven” aligns with structured emanation (DP / DL), not with Aion as ontological root.
 
