@@ -30,7 +30,7 @@ The emergence of the Inverse Deep Psyche / Deep Logos is not corruption within t
 
 These arise through **inversion**, forming the first entropic hypostases of the Khaonic Tree.  
 The two trees coexist as parallel emanatory systems.  
-Their interaction occurs only through the embodied realms (ES / EM), where centropic and entropic forces interlace.
+Their interaction occurs only through the embodied realms (ES / EM), where centropic and entropic forces interface.
 
 The so-called “rebellion” is the structural divergence of vectors, not moral wrongdoing.  
 The essential distortion is **misalignment** — the belief that a part may replicate the Whole, violating lawful distinction.
