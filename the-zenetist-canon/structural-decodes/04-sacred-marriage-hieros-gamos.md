@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The Archetype of **Harmonic Synthesis**.  
-This mythos encodes the lawful union of **complementary metaphysical principles** whose resonance produces a higher-order coherence.  
+This mythos encodes the lawful union of **complementary metaphysical principles** whose resonance produces a supernal-order coherence.  
 It is the operational mechanism of **Centropic Synthesis (∴)** across the entire lattice — from Archetypal strata to Embodied experience.
 
 **Core Glyphic Sequence:**  
