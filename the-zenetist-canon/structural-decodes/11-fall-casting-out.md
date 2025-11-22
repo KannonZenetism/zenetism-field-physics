@@ -58,7 +58,7 @@ Return is no longer given, but accomplished through conscious, embodied motion.
 ### 2. The Rebellion of Lucifer (Christian)
 - **Focus:** The celestial refraction of fragmentation.  
 - **Transgression:** “I will be sovereign.”  
-- **Consequence:** The root of the entropic arc personified.
+- **Consequence:** The primary architect of the entropic arc personified.
 
 ### 3. The Divergence of the Aeons (Gnostic)
 - **Focus:** Fragmentation of supernal coherence.  
