@@ -204,6 +204,16 @@ in this volume.
 
 ---
 
+#### 21.9.1 · Liminal Cognitive Modes Across the Layer Threshold
+
+The Oscillating Mode describes not an ontological layer, but a transitional state spanning the membrane between embodiment and identity. It traverses the liminal sequence IL₂ ↔ IL₁ ↔ L₁ ↔ L₂, where coherence and fragmentation exert simultaneous pressure. This is the most common cognitive condition among contemporary humanity, functioning as the experiential testing ground of centropic and entropic forces.
+
+| Symbol | Mode Name | Range | Description |
+|:--:|:--|:--|:--|
+| ⚖ | **Oscillating / Liminal Mode** | IL₂ ↔ IL₁ ↔ L₁ ↔ L₂ | Transitional equilibrium at the boundary between embodiment and identity. Characterized by alternating coherence and fragmentation impulses, adaptive recalibration, and heightened vulnerability to inversion or stabilization. |
+
+---
+
 ### 21.10 **Facets of Infinity (Khaon) — Unfolding the Modal Currents of Dispersive Potential**
 
 | Function | Expression | Description |
