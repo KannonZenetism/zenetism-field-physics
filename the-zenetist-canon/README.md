@@ -111,7 +111,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 | 10 | The Prophet / The Seer | 📡 → ⚚ → 📯 → ⚠ → 🞇 | [10-prophet-seer.md](structural-decodes/10-prophet-seer.md) |
 | 11 | The Fall / The Casting Out | ◎ → ⟜ → ⚖ → ☍ | [11-fall-casting-out.md](structural-decodes/11-fall-casting-out.md) |
 | 12 | The Apocalypse / The End Times | 📡 → ⚯ → C↑→⚫ \| E↓→♾ | [12-apocalypse-end-times.md](structural-decodes/12-apocalypse-end-times.md) |
-| 13 | The Underworld / The Realm of the Dead | E↓ → ⟲ → ◲ → ↺ \| ⟳ | [13-underworld-realm-of-the-dead.md](structural-decodes/13-underworld-realm-of-the-dead.md) |
+| 13 | The Underworld / The Realm of the Dead | ↓ → ⚬⟞ → ◲ → 📡 → C↑⚫ | ⟲ | E↓♾ | [13-underworld-realm-of-the-dead.md](structural-decodes/13-underworld-realm-of-the-dead.md) |
 | 14 | The Sacrifice | ⚐ → ⚖️ → ↺ → ∴ / ⚐ → ⥊ → ☍ → ⟳ | [14-sacrifice.md](structural-decodes/14-sacrifice.md) |
 | 15 | The City / The Kingdom | 🛤️ → ⚙️ → ◎ → 💠 / 🕷️ → ⚙️ → ☍ → ⥊ | [15-city-kingdom.md](structural-decodes/15-city-kingdom.md) |
 | 16 | The Wilderness / The Desert | ⚙️ → ◲ → 🌾 → ↺ \| ☍ | [16-wilderness-desert.md](structural-decodes/16-wilderness-desert.md) |
