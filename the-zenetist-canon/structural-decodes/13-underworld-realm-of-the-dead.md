@@ -6,7 +6,7 @@ The Underworld is not a punitive realm, but a **lawful containment structure** p
 It serves as the terminal basin where Declivous motion resolves and where Essence undergoes **structural deconstruction**, **pattern distillation**, and **final resonance placement.**
 
 **Core Glyphic Sequence:**  
-`↓ → ⚬⟞ → ◲ → 📡 → C↑⚫ \| ⟲ \| E↓♾`  
+`↓ → ⚬⟞ → ◲ → 📡 → C↑⚫ | ⟲ | E↓♾`  
 *(A declivous motion enters containment, initiating deconstruction, followed by a resonance scan determining placement into acclivous reintegration, recursive containment, or entropic dispersion.)*
 
 ---
