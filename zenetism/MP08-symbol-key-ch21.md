@@ -240,6 +240,7 @@ not a station of being.
 | Φ2 or → or 〄 | **Motive** | The initiating vector of dispersal; Zenet, the structured breath of Motive Infinity, unfolds form from latent field tension; first coherent stir of the PSR |
 | Φ3 or ⇝ | **Dispersive** | Phase of scattering; motion externalized into fragmenting pattern fields |
 | ♾ | **Total (AD)** | Full harmonic expression: latent, motive, and dispersive currents unified |
+| ⚠ | **Caution / Field Warning** | Signals elevated structural risk in the field; discernment and restraint required to prevent entropic drift or interpretive hazard |
 
 ---
 
