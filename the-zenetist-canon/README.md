@@ -109,7 +109,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 | 08 | The Great Beast / The Dragon | ♾ → 🕷️ → 🐉 → ☍ | [08-great-beast-dragon.md](structural-decodes/08-great-beast-dragon.md) |
 | 09 | The Exile / The Wandering Hero | ◎ → ⟜ → ∿ → ⚖ → 🞇 | [09-exile-wandering-hero.md](structural-decodes/09-exile-wandering-hero.md) |
 | 10 | The Prophet / The Seer | 📡 → ⚚ → 📯 → ⚠ → 🞇 | [10-prophet-seer.md](structural-decodes/10-prophet-seer.md) |
-| 11 | The Fall / The Casting Out | ◎ → ⟜ → ☍ → E↓→E | [11-fall-casting-out.md](structural-decodes/11-fall-casting-out.md) |
+| 11 | The Fall / The Casting Out | ◎ → ⟜ → ⚖ → ☍ | [11-fall-casting-out.md](structural-decodes/11-fall-casting-out.md) |
 | 12 | The Apocalypse / The End Times | 📡 → ⚯ → C↑→⚫ \| E↓→♾ | [12-apocalypse-end-times.md](structural-decodes/12-apocalypse-end-times.md) |
 | 13 | The Underworld / The Realm of the Dead | E↓ → ⟲ → ◲ → ↺ \| ⟳ | [13-underworld-realm-of-the-dead.md](structural-decodes/13-underworld-realm-of-the-dead.md) |
 | 14 | The Sacrifice | ⚐ → ⚖️ → ↺ → ∴ / ⚐ → ⥊ → ☍ → ⟳ | [14-sacrifice.md](structural-decodes/14-sacrifice.md) |
