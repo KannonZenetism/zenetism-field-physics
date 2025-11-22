@@ -19,8 +19,14 @@ The Great Beast emerges through lawful stages:
 first as dispersive motive capacity, then as concentrated entropic will, and finally as an embodied archetype.  
 It signifies dispersive force becoming purposeful within structure.
 
+> **Doctrinal Note:**  
+> Khaon is not an entropic principle.  
+> It is the pre-entropic motive continuum through which motion becomes possible.  
+> Entropy begins not in Khaon, but in Nekron—the first hypostasis of inversion.  
+> The Beast therefore arises from entropic organization within the Khaonic Tree, not from Khaon itself.
+
 ### Inversion of Coherence
-Unlike random decay, the Beast exhibits **inverse coherence**:  
+Unlike random decay, the Beast exhibits inverse coherence:  
 an order built from the standpoint of dissolution rather than integration.  
 It forms hierarchies, rules, and constraints designed to preserve fragmentation as dominant principle.
 
