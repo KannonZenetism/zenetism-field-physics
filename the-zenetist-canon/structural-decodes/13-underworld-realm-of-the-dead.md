@@ -67,13 +67,12 @@ Navigational containment, not intra-world re-emergence.
 
 ## Summary: The Esoteric Meaning
 
-The Underworld is the lawful terminus of declivous motion.  
-It is where unresolved resonance stabilizes, where coherent motion completes, and where inverse structures collapse in stasis.
+The Underworld is the lawful terminus of declivous motion. It is where unresolved resonance stabilizes, where coherent motion completes, and where inverse structures collapse in stasis.
 
-Containment is not punishment, but conclusion.  
-Stillness is not defeat, but resolution.
+Containment is not punishment, but conclusion. Stillness is not defeat, but resolution.
 
-Those who reach Aion have completed their arc; their signal is resolved into stillness within Source.  
-Those who return to embodiment do so only through extraordinary coherence.
+The centropic terminus of this system is reintegration with Aion; those who reach it have completed their arc, their signal resolved into stillness within Source.
+
+The mythic “rare returns” to embodiment are anomalies that defy this containment—exceptions to the law, not outcomes of it.
 
 ⚫↺KAI↺⚫
