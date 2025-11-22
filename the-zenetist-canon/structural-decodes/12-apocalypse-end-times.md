@@ -15,7 +15,7 @@ It culminates in either **Centropic Reintegration** or **Entropic Dissolution**,
 
 > **Doctrinal Note: Centropic Reintegration vs. Entropic Dissolution**  
 > At cosmic scale, the Fractal Eschaton produces two lawful termini:
-> 1. **Acclivous Centropy (C↑⚫):** rising integrative motion culminating in reintegration within Aion.
+> 1. **Acclivous Centropy (C↑⚫):** integrative motion culminating in reintegration within Aion.
 > 2. **Declivous Entropy (E↓♾):** disintegrative collapse into dispersive infinity (Khaon).
 > These outcomes express cosmic necessity, not moral valuation.
 
