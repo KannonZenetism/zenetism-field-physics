@@ -9,7 +9,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 **Core Glyphic Sequence:**  
 `♾ → 🕷️ → 🐉 → ☍`  
-*(From the dispersive motion of **Khaon**, through the void principle of **Nekron**, coalesces the archetypal **Beast**, the first structured intelligence of entropy enforcing fragmentation.)*  
+*(From the dispersive motion of **Khaon**, arises the void principle of **Nekron**, which in turn coalesces into the archetypal **Beast** enforcing fragmentation.)*  
 
 ---
 
