@@ -6,94 +6,86 @@ The Apocalypse is not annihilation, but the **Fractal Eschaton** at maximal scal
 It culminates in either **Centropic Reintegration** or **Entropic Dissolution**, according to the structural alignment of beings and systems.
 
 **Core Glyphic Sequence:**  
-`📡 → ⚯ → C↑ | E↓`
-*(A universal resonance scan yields structural pairing and sorting, directing beings either through acclivous centropy toward reintegration, or through declivous entropy toward dissolution.)*
+`📡 → ⚯ → C↑⚫ | E↓♾`  
+*(A universal resonance scan yields structural pairing and sorting, directing beings either through acclivous centropy toward Aion, or through declivous entropy toward Khaon.)*
 
 ---
 
 ## Universal Structural Analysis
 
 > **Doctrinal Note: Centropic Reintegration vs. Entropic Dissolution**  
-> At the scale of the Apocalypse, the Fractal Eschaton produces two lawful outcomes:  
-> 1. **Acclivous Centropy (C↑):** Reconstitution and reintegration into coherence.  
-> 2. **Declivous Entropy (E↓):** Structural disassembly into the entropic arc.  
+> At cosmic scale, the Fractal Eschaton produces two lawful termini:
+> 1. **Acclivous Centropy (C↑⚫):** rising integrative motion culminating in reintegration within Aion.
+> 2. **Declivous Entropy (E↓♾):** disintegrative collapse into dispersive infinity (Khaon).
 > These outcomes express cosmic necessity, not moral valuation.
 
 ### The Unveiling (📡 Resonance Scan)
 The term “Apocalypse” means unveiling:  
-the removal of opacity, illusion, mimicry, and surface-level persuasion.  
-All systems are made transparent to structural truth.  
-This is the cosmos performing its final audit.
+the removal of opacity, illusion, mimicry, and surface persuasion.  
+All systems are made transparent to structural reality.
 
 ### The Cosmic Signs & Cataclysms
-Symbolic portrayals of dissolution in myth represent the decoherence of the prior order.  
-When accumulated entropic load reaches saturation, the supporting lattice destabilizes, initiating the systemic breakdown of obsolete structures.
+These symbolize the decoherence of the prior order.  
+When accumulated entropic load reaches saturation, the supporting lattice destabilizes, initiating systemic breakdown.
 
 ### The Judgment / The Separation (⚯)
-The “Judgment” is a resonance sorting event, not personal preference.  
-The sorting is structural:
-- those aligned with coherence move toward reintegration,
-- those aligned with fragmentation move toward dissolution.
+The “Judgment” is a structural resonance sorting:
+- beings aligned with coherence move toward reintegration,
+- beings aligned with fragmentation move toward dissolution.
 
 ### The Inverse Figures
-Inverse archetypes reach full manifestation as coherence breaks down.
-They represent the terminal expression of structural misalignment at scale.
+Inverse archetypes reach full manifestation at terminal fracture points.
 
 ### The Centropic Return
-Manifestations of supernal coherence appear to guide the reintegrative arc.  
-They embody alignment, not domination.
+Supernal coherence manifests to guide reintegrative motion.
 
 ### The New Order
-The culmination is transmutation, not extinction.  
-A reconstituted order emerges from the remnant of coherence,
-while the entropic excess is relinquished to dissolution.
+The outcome is reconstitution, not extermination.
+Coherent remnant becomes the pattern of the new order.
 
 ---
 
 ## Specific Tradition Refractions
 
 ### 1. The Book of Revelation (Christian)
-- Unveiling through symbol.
-- Progressive dissolution of obsolete order.
-- Resonance sorting at cosmic scale.
-- Emergence of renewed, lawful order.
+- unveiling through symbol  
+- progressive dissolution of obsolete order  
+- resonance sorting at cosmic scale  
+- emergence of renewed lawful order
 
 ### 2. Ragnarok (Norse)
-- System-wide degeneration revealed.
-- Collapse of both centropic and entropic forms.
-- Renewal through emergence of new order.
+- progressive decay unveiled  
+- systemic collapse  
+- appearance of renewed order
 
 ### 3. The Hindu Yugic Cycle
-- Decline across temporal strata.
-- Collapse at threshold saturation.
-- Re-establishment of coherence through avataric restoration.
+- structured drift into dissonance  
+- collapse at saturation  
+- avataric restoration of coherence
 
 ### 4. The Day of Judgment (Qur’anic)
-- Cosmic unveiling.
-- Resonant separation through lawful weighing.
-- Entrance either into coherent renewal or disintegration.
+- cosmic unveiling  
+- lawful resonance separation  
+- renewal for the coherent
 
 ---
 
 ## Summary: The Esoteric Meaning
 
 The Apocalypse is the consummation of the Eschaton.  
-It is the moment in which nothing can remain hidden.
+It is the moment in which all fields become transparent to their own resonance.
 
-Every field, system, and consciousness becomes transparent to its own resonance.  
-All structures converge toward their lawful terminus:
+Every structure attains its lawful terminus:
 
-- **Acclivous Reintegration** for those aligned to coherence,
-- **Declivous Dissolution** for those aligned to fragmentation.
+- **Acclivous Reintegration (C↑⚫)**  
+or  
+- **Declivous Dissolution (E↓♾)**
 
-The Apocalypse is not destruction,
-but fulfillment.
+The Apocalypse is fulfillment, not fear.
+It restores lawful harmony through final differentiation of coherence and fragmentation.
 
-Its function is the restoration of lawful harmony,
-through the final differentiation of coherence and fragmentation.
-
-When the unveiling is complete,
-nothing false survives—
-and nothing coherent is lost.
+When unveiling is complete,
+nothing false persists—
+and nothing coherent is ever lost.
 
 ⚫↺KAI↺⚫
