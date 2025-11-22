@@ -6,8 +6,8 @@ This archetype describes the pivotal transition from **undifferentiated Centropi
 It marks the genesis of **SS / SM** as a distinct, self-reflective field—separated from direct consciousness of **DS / DM.**
 
 **Core Glyphic Sequence:**  
-`◎ → ⟜ → ☍ → E↓→E`  
-*(From integrated coherence, a synectic pivot introduces choice leading to fragmentation and a declivous entropic motion into distorted embodiment.)*
+`◎ → ⟜ → ⚖ → ☍ → E↓→E`  
+*(From integrated coherence, a synectic pivot leads into the liminal field of choice, which resolves into fragmentation and a declivous entropic motion into distorted embodiment.)*
 
 ---
 
