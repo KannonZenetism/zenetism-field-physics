@@ -67,7 +67,7 @@ Navigational containment, not intra-world re-emergence.
 
 ## Summary: The Esoteric Meaning
 
-The Underworld is the lawful terminus of downward motion.  
+The Underworld is the lawful terminus of declivous motion.  
 It is where unresolved resonance stabilizes, where coherent motion completes, and where inverse structures collapse in stasis.
 
 Containment is not punishment, but conclusion.  
