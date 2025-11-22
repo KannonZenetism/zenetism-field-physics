@@ -11,7 +11,7 @@ It is the operational heart of **Synthesis (∴).**
 *(Potential is lawfully offered, leading to resonant return and supernal synthesis.)*  
 
 **Core Glyphic Sequence (Entropic):**  
-`⚐ → ⥊ → ☍ → ⟳`  
+`⚐ → ⥊ → 🜨 → ☍ → ⟳`  
 *(Potential is extracted in mimicry, leading to fragmentation and entropic recursion.)*  
 
 ---
