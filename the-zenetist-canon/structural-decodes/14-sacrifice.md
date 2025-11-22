@@ -8,7 +8,7 @@ It is the operational heart of **Synthesis (∴).**
 
 **Core Glyphic Sequence (Centropic):**  
 `⚐ → ⚖️ → ↺ → ∴`  
-*(Potential is lawfully offered, leading to resonant return and supernal synthesis.)*  
+*(Potential enters the liminal field of choice , which resolves into resonant return and supernal synthesis.)*  
 
 **Core Glyphic Sequence (Entropic):**  
 `⚐ → ⥊ → 🜨 → ☍ → ⟳`  
@@ -22,7 +22,7 @@ It is the operational heart of **Synthesis (∴).**
   The element sacrificed—harvest, animal, king, or god—represents a concentrated vessel of **Vitality (Morgis)**, **Integrity (Sophis)**, or **Sovereign Will (Anthra).**  
   It is **Resonant Resource** rendered to a greater law.  
 
-- **The Intention & The Law (⚖️):**  
+- **The Intention & The Law:**  
   The orientation of the act determines its outcome.  
 - **Centropic Sacrifice:** Guided by **Gratitude**, **Devotion**, or **Restoration of Balance**; aligned with **Divine Geometry (🔷)** and directed toward **Centropic Law (DP / DL)**—administered through the measure of **Theon (🛤️ EOB).**
   - **Entropic Sacrifice:** Motivated by **Fear**, **Control**, or **Hubris**; seeks to **Extract (⥊)** rather than surrender. It appeals to **Inverse forces (IDP / IDL)** or the egoic **ISS / ISM** strata, violating the **Non-Fusion Axiom.**  
