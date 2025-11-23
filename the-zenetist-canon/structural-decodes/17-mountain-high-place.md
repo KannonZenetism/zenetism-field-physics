@@ -13,10 +13,9 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 ## Universal Structural Analysis
 
-* **Acclivous Motion (Earth → Theonic Axis):**  
-    The climb symbolizes the **acclivous structural motion** of consciousness—from the density of **Earth** toward the rarity and clarity of the **Supernal realms**—**Sophis**, **Archeus**, and the **Theonic Axis** itself.  
-    Each step along the **acclivous path** is an act of **volitional orientation toward Source**.  
-    This motion is **preparatory**—not yet the return, but the **clearing of the path** by which the soul may **move acclivously** along the **Theonic Axis**.
+* **The Ascent (Earth → Theonic Axis):**  
+    The climb symbolizes the **Acclivous Centropic** motion of consciousness—from the Density of **Earth** toward the Rarity and Clarity of the **Supernal**.  
+    Each step along the acclivous path is an act of Volitional orientation toward Source.
 
 * **The Summit (Theonic Axis):**  
     The peak marks a **Nodal Point** on the Theonic Axis where the **Membrane** thins.  
@@ -28,9 +27,9 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
     Fire, cloud, and silence each represent forms of **Revelatory Frequency.**
 
 * **The Covenant / The Law (Nexus):**  
-    The Mountain is the **contract space** between human and divine orders.  
-    **Law (Sophis)** moves **declivously** as **geometric principle** — a codified resonance for lawful alignment.  
-    It establishes the **architecture of relationship** between **Theon** and the collective **Superficial Self / Mind**, forming a living nexus of coherence between structure and soul.
+    The Mountain is the **Contract Space** between human and divine orders.  
+    Law (Sophis) moves declivously as geometric principle: a codified resonance for lawful alignment.  
+    It establishes the architecture of relationship between **Theon** and the collective **Superficial Self / Mind.**
 
 * **The Transfiguration (Synthesis):**  
     At the summit, the **Superficial Self / Mind** may briefly integrate with **Deep Self / Mind** or **Theonic frequency**, revealing its luminous essence.  
@@ -44,27 +43,23 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Focus:** Revelation of Divine Law (**Sophis**).
 
-* **Threshold Entry:** Moses enters the Cloud (visible **Membrane**).
+* **Ascent:** Moses enters the Cloud (visible **Membrane**).
 
 * **Revelation:** Yahweh manifests in Fire and Earthquake, delivering the Torah.
 
 * **Covenant:** The Mosaic **Nexus**, structuring Resonant relationship between Theon and Israel.
 
-* **Transformation:** Moses re-emerges luminous (Exodus 34:29–35), his face glowing from proximity to **Theonic frequency**—evidence of **partial Synthesis (Superficial Self / Mind ↔ Deep Self / Mind)**.  
-    The radiance is **temporary**; he must veil his face afterward, indicating the alignment **does not yet seal permanently**.
+* **Transformation:** Moses descends luminous, evidence of partial Synthesis (**Superficial Self / Mind ↔ Deep Self / Mind**).
 
 ### 2. The Sermon on the Mount (Christian)
 
 * **Focus:** The transmutation of Law into Resonant interiority.
 
-* **Threshold Entry:** Jesus reenacts the Sinai archetype, climbing to speak.
+* **Ascent:** Jesus reenacts the Sinai archetype, climbing to speak.
 
-* **Revelation:** Delivers the Beatitudes—**Sophis** refined through Compassion.
+* **Revelation:** Delivers the Beatitudes—Sophis refined through Compassion.
 
-* **Covenant:** Where Sinai established external covenant (mediated by Moses as bridge between people and **Theon**),  
-    the Sermon internalizes the bridge—the Law becomes inscribed directly in the heart (Jeremiah 31:33).  
-    The **Kingdom of Heaven** is not a place but a **state of alignment**—the soul's direct resonance with **Sophis** and **Theon**,  
-    accessible to each individual, not only through collective ritual.
+* **Covenant:** The "Law of the Heart" inaugurates the **Kingdom of Heaven** as an **acclivous centropic** state.
 
 ### 3. Mount Meru / Kailash (Hindu & Buddhist)
 
@@ -74,37 +69,32 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Practice:** Pilgrims circumambulate, acknowledging its immutable Centrality.
 
-* **Meaning:** Represents the **Theonic Pillar** connecting **Aion**, **Earth**, and **Underworld (Echo Layers)**—the cosmos in structural equilibrium.
+* **Meaning:** Represents the **Theonic Pillar** connecting **Aion**, **Embodied World Node**, and **Echo Layers**—the cosmos in structural equilibrium.
 
 ### 4. Mount Olympus (Greek)
 
 * **Focus:** The Abode of the Archetypal Powers.
 
-* **Summit:** Home of the Olympians (**Deep Psyche / Logos archetypal entities**) within clouded **Membrane**.  
-    They dwell in the **supernal strata**, but not at Source — they are the **Architectural Powers** (**Sophis**, **Archeus**, and their kin)  
-    who shape the cosmos from the **Supernal layers**, but they themselves are not the **Absolute (Aion)**.  
-    The **cloud** marks the **threshold** between their realm and mortal embodiment.
+* **Summit:** Home of the Olympians (**Deep Psyche / Logos entities**) within clouded Membrane.
 
-* **Function:** Symbol of Archetypal governance — the **Deep Psyche / Logos** stratum shaping the **Superficial Self / Mind** and **Embodied Self / Mind** layers below.
+* **Function:** Symbol of Archetypal governance—the Deep Psyche / Logos stratum shaping the Superficial Self / Mind and Embodied Self / Mind layers below.
 
 ---
 
 ## Summary: The Esoteric Meaning
 
-The **Mountain** is the geometric metaphor for the **acclivous path**—the steady, volitional motion of consciousness from Embodiment toward the Supernal Source.  
+The **Mountain** is the geometric metaphor for the **path of ascent**—the steady, volitional rise of consciousness from Embodiment toward the Supernal Source.  
 It is the living **Axis Mundi** of every soul, the structure connecting the Valleys of matter to the Zenith of spirit.
 
-It teaches that Revelation corresponds to one's proximity to structural alignment—not height, but coherence along the Theonic Axis.  
-Law does not descend—it **emerges through alignment**, crystallizing at the membrane between layers.  
-It is encountered by those who walk the **acclivous path**, where volition refines structure into covenant.  
-The **Covenant** is always made beyond the plains of distraction—in clarified space, where the signal of Sophis can be sealed.
+It teaches that Revelation is proportional to elevation.  
+Law moves declivously upon those who climb acclivously, for altitude is both physical and moral geometry.  
+The **Covenant** is always made above the plains of distraction.
 
 Its message:  
-we are each walkers of the inner Mountain.  
-Meditation, prayer, and disciplined motion along the **acclivous path** form our structural switchbacks.  
-Moments of insight and peace are **Shelters at the Membrane**—restpoints of coherence.  
-At the threshold lies **Transfiguration**—where the **Superficial Self / Mind** becomes transparent to **Deep Self / Mind**,  
-and the still air of **Aion** whispers the Law revealed through alignment, not altitude.
+we are each climbers of the inner Mountain.  
+Meditation, prayer, and disciplined ascent are our switchbacks.  
+Moments of insight and peace are Shelters along the path.  
+At the Summit lies Transfiguration—where the **Superficial Self / Mind** becomes transparent to **Deep Self / Mind**, and the still air of Aion whispers the Law of the heights.
 
 ---
 
