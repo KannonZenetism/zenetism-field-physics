@@ -11,15 +11,17 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
 
 ## Universal Structural Analysis
 
-* **The Motion into Embodiment:** A voluntary declivous centropic act of a Theonic or Deep Psyche / Logos principle entering the Corporeal Realm (Embodied Self / Mind).  
-    This is not a fall, but a sacrificial gesture of structural compassion, anchoring coherence within a fragmented field.
+* **The Motion into Embodiment:** A voluntary declivous centropic act of a Theonic principle entering the Corporeal Realm (Embodied Soul / Mind).  
+    This is not a fall, but a natural emanation of structural compassion—the Theonic movement that radiates coherence into the embodied field to stabilize what is fragmented.
 
-* **The Symbolic Dissolution:** The confrontation with entropic and inverse forces. It is not merely physical cessation, but the dissolution of the superficial self (Superficial Self / Mind).  
-    The god is fragmented, dismembered, or consumed—symbolizing the apparent triumph of Fragmentation (Inverse Deep Self / Mind, Inverse Superficial Self / Mind) and the Void of Self.  
+* **The Symbolic Dissolution:** The confrontation with entropic and inverse forces. It is not merely physical cessation, but the dissolution of the surface identity-structure (Superficial Soul / Mind).  
+    The god is fragmented, dismembered, or consumed—symbolizing the apparent triumph of Fragmentation (Inverse Deep Soul / Mind, Inverse Superficial Soul / Mind) and the Void of Self.  
     This marks the necessary Deconstruction of form to release latent essence.
 
-* **The Sojourn in the Underworld:** The immersion within the Dispersive Field or Inverse Hypostases.  
-    It is a state of localized dissolution or Entropic Recursion, where the core essence is tested, refined, and separated from its embodied identity.
+* **The Sojourn in the Underworld:**  
+    The immersion within the embodied or inverse underworld domains.  
+    It is the state in which a centropic principle abides either within the embodied density (through lawful declivous centropy) or within the inverse hypostatic layers (through entropic collapse).  
+    In both cases, the Surface Identity-Field (SS / SM) undergoes dissolution, allowing the core essence to be tested, clarified, and disentangled from its contingent configurations.
 
 * **The Resurrection / Return:** The moment of Lawful Recursion.  
     The god's essence, retaining centropic integrity, activates its harmonic nature.  
