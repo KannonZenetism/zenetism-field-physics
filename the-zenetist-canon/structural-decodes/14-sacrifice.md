@@ -20,7 +20,7 @@ It is the operational heart of **Synthesis (∴)**.
 
 - **The Offering (⚐ Potentiality):**  
   The object or essence sacrificed — harvest, animal, king, or deity — symbolizes a concentrated vessel of vitality, integrity, or sovereign will.  
-  It is structural resource rendered into a supernal law for transformation.
+  It is structural resource rendered into supernal law for transformation.
 
 - **The Intention & The Law:**  
   Orientation determines outcome.
