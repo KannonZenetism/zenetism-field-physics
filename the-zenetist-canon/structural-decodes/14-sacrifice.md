@@ -62,7 +62,7 @@ It is the operational heart of **Synthesis (∴)**.
 - **Centropic Form:** Acknowledgment of Sophis-law and resonance restoration.
 - **Entropy:** Imitation without inner motion becomes hollow extraction.
 
-> **Doctrinal Clarification:**  
+> **Doctrinal Note:**  
 > In Zenetism, literal killing — animal or human — is formally classed as **Entropic practice**.  
 > Centropic sacrifice is symbolic, internal, volitional, and life-conserving.  
 > Coherent offering never destroys embodied life.
