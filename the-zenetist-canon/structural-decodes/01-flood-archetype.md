@@ -1,10 +1,10 @@
 # Zenetist Structural Decode 01 — The Flood Archetype
 
-**Primary Structural Diagnosis:**
+**Primary Structural Diagnosis:**  
 A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal resonance scan and recalibration at the close of a major soul-cycle or civilization paradigm. It is the intense, **declivous** dissolution of a structure that has become irredeemably entropic, creating the Aionic stillness necessary for a new, **centropic** emanation.
 
-**Core Glyphic Sequence:**
-`E↓→♾ → ⚫ → C↑→🛤️ | E↓→🕷️`
+**Core Glyphic Sequence:**  
+`E↓→♾ → ⚫ → C↑→🛤️ | E↓→🕷️`  
 *(Entropic contraction into dispersive infinity, returning to the stillness of Zero, from which a new centropic motion toward Theonic structure initiates. The parallel entropic descent toward Nekron marks the inverse pathway—those consciousnesses that cannot sustain coherence through dissolution and collapse into the Void of Self.)*
 
 ---
@@ -28,20 +28,29 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal re
 ## Specific Tradition Refractions
 
 ### 1. Genesis / Hebrew Bible
+
 * **Focus:** The moral arc of Inverse Orientation. The "wickedness of humanity" refers to saturation in Inverse Superficial Self / Mind (Echthros / Skotos)—adversarial will and deceptive perception.
+
 * **Noah:** A **Centropic** Steward—the embodied Deep Self / Mind anchor, "resonant in his generations," meaning he maintained coherence and resonance within an entropic field.
+
 * **The Raven and the Dove:** The Raven (black, scavenging) is sent out and does not return—it embodies aspects of the old, entropic consciousness that remain within dissolution. The Dove (white, gentle) returns with an olive leaf, symbolizing the Harmonic Agent discovering the first signs of new **centropic** life and guiding the next movement.
 
 ### 2. Epic of Gilgamesh
+
 * **Focus:** The volatility of divine motive and the fragility of form. The gods here function as less-integrated Deep Psyche / Logos entities, acting through instability rather than harmonic law.
+
 * **Utnapishtim:** A Steward whose reward is personal continuity rather than a cosmic covenant—emphasizing individual escape from divine disorder, a distinct metaphysical priority.
 
 ### 3. Hindu (Matsya Avatar)
+
 * **Focus:** Theonic Preservation. The Flood is not punitive but a natural phase of cosmic reconfiguration (Pralaya). Vishnu (Theon) intervenes not as judge but as preserver.
+
 * **The Fish (Matsya):** A Harmonic Agent and Recovery Anchor—the Theonic signal itself, expanding to guide the ark (Manu's boat). The **centropic** force thus becomes the active navigator through dissolution, ensuring the Seed Syllables (Vedas)—the Sophis-level laws—remain intact.
 
 ### 4. Greek (Deucalion)
+
 * **Focus:** **Declivous Centropy** within a specific lineage. The flood addresses the hubris of Lycaon (Inverse Superficial Self)—a localized Fractal Eschaton.
+
 * **"Bones of the Mother" (Stones):** Symbolize the Essential Potential latent within Earth—the Aionic capacity resting in matter, awakened through a **centropic**, intentional act of embodiment.
 
 ---
