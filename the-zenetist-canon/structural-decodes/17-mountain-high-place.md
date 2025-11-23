@@ -6,7 +6,7 @@ The Mountain is a **Theonic Axis (⚓)** in topographical form—a **Membrane (�
 It serves as the principal site for **Acclivous motion (C↑)**, **Revelation (📱)**, **Covenant (C₈)**, and **Transfiguration (∴).**  
 
 **Core Glyphic Sequence:**  
-`▽ → ⚓ → 📱 → C↑→⚫`  
+`▽ → ↑⚓ → 📱 → C↑→⚫`  
 *(From the embodied earth (▽), acclivous motion along the Theonic Axis (⚓) leads to revelation (📱) and final centropic return (C↑→⚫).)*  
 
 ---
