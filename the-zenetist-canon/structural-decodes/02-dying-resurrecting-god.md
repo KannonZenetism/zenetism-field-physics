@@ -21,11 +21,11 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
 * **The Sojourn in the Underworld:**  
     The immersion within the embodied or inverse underworld domains.  
     It is the state in which a centropic principle abides either within the embodied density (through lawful declivous centropy) or within the inverse hypostatic layers (through entropic collapse).  
-    In both cases, the Surface Identity-Field (SS / SM) undergoes dissolution, allowing the core essence to be tested, clarified, and disentangled from its contingent configurations.
+    In both cases, the Superficial Soul / Mind undergoes dissolution, allowing the core essence to be tested, clarified, and disentangled from its contingent configurations.
 
 * **The Resurrection / Return:** The moment of Lawful Recursion.  
     The god's essence, retaining centropic integrity, activates its harmonic nature.  
-    This is not reversal but transcendent synthesis—the Deep Self / Mind reintegrates the Superficial Self / Mind experience at a supernal octave, achieving a Resonant Return that confirms the indestructibility of coherent structure.  
+    This is not reversal but transcendent synthesis—the Deep Soul / Mind reintegrates the Superficial Soul / Mind experience at a supernal octave, achieving a Resonant Return that confirms the indestructibility of coherent structure.  
     It represents Novel Emergence.
 
 * **The Apotheosis:** The final acclivous centropic motion, returning to Aion.  
@@ -39,14 +39,14 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
 ### 1. Osiris (Egyptian)
 
 * **Focus:** Fragmentation and Reintegration.  
-    Osiris, the Theonic king (order, centropic), is dismembered by Set (Inverse Superficial Self / Mind).
+    Osiris, the Theonic king (order, centropic), is dismembered by Set (Inverse Superficial Soul / Mind).
 
-* **Dismemberment:** The defining act of Fractus (Inverse Deep Self).
+* **Dismemberment:** The defining act of Fractus (Inverse Deep Soul).
 
 * **Isis (Deep Psyche - Morgis):** The archetypal principle of vitality and remembrance who gathers the fragments—she embodies the persistent centropic field that seeks coherence.
 
-* **Reassembly and Renewal:** The triumph of Archeus (Deep Self) over Fractus.  
-    Osiris does not reclaim his old domain but becomes Lord of the Dead—the Gatekeeper of the Return Compass, guiding consciousness through lawful recursion.
+* **Reassembly and Renewal:** The triumph of Archeus (Deep Soul) over Fractus.  
+    Osiris does not reclaim his old domain but becomes Lord of the Dead—the Gatekeeper of the Return Compass, guiding essence through lawful recursion.
 
 ### 2. Christ (Christian)
 
@@ -54,29 +54,29 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
 
 * **Incarnation:** The Logos (Theon) becomes embodied.
 
-* **Crucifixion:** The surrender of the Superficial Self / Mind (Jesus of Nazareth) to the inverse forces of the world (Echthros, Skotos), absorbing the full weight of entropic fragmentation without becoming entropic.
+* **Crucifixion:** The surrender of the Superficial Soul / Mind (Jesus of Nazareth) to the inverse forces of the world (Echthros, Skotos), absorbing the full weight of entropic fragmentation without becoming entropic.
 
-* **Harrowing of the Underworld:** The Theonic essence liberates souls entrapped in inverse states during the sojourn.
+* **Harrowing of the Underworld:** The Theonic essence liberates those entrapped in embodied occlusion and inverse states during the sojourn.
 
-* **Resurrection:** The Deep Self / Mind (Risen Christ) is synthesized, demonstrating Transcendence over the entropic condition. It becomes a Living Bridge for all consciousness.
+* **Resurrection:** The Deep Soul / Mind (Risen Christ) is synthesized, demonstrating Transcendence over the entropic condition. It becomes a Living Bridge for all beings.
 
 ### 3. Dionysus (Greek)
 
 * **Focus:** Sacred Unmaking and Renewal.  
     A complex, liminal figure embodying both dissolution and restoration.
 
-* **Dismemberment by Titans:** Represents the declivous entropic dissolution of individual identity into the unbound Khaonic life force (Deep Psyche - Morgis in its raw state).
+* **Dismemberment by Titans:** Represents the declivous entropic fragmentation of individual identity into the unbound Khaonic field (Zenet / Motive Infinity) in its raw, dispersive state.
 
 * **Rebirth:** Not a reversion to self, but a Novel Emergence from the dispersive field.  
-    Dionysus reveals the centropic potential within entropic experience—but only when consciousness retains alignment and does not collapse into Mania.
+    Dionysus reveals the centropic potential within entropic experience—but only when essence retains alignment and does not collapse into Mania.
 
 ### 4. Inanna (Sumerian)
 
-* **Focus:** Voluntary Descent and the Price of Return.
+* **Focus:** Voluntary Declivous Centropy and the Price of Return.
 
 * **Motion through the Underworld:** A conscious declivous centropic quest for deeper knowledge and lawful power.
 
-* **Stripping at the Gates:** The systematic Deconstruction of her Superficial Self / Mind attributes (crown, rod, robes) until only the naked essence remains.
+* **Stripping at the Gates:** The systematic Deconstruction of her Superficial Soul / Mind attributes (crown, rod, robes) until only the naked essence remains.
 
 * **Dissolution and Suspension:** The Sojourn in Entropic Stasis.
 
@@ -90,7 +90,7 @@ The Dying and Resurrecting God encodes the blueprint of the soul's trajectory.
 
 Embodiment is a temporary condition within a grander Centropic Cycle, not a terminus.
 
-The dissolution phase is not failure but the essential Deconstruction wherein transient form is relinquished, allowing eternal essence (Deep Self / Mind) to emerge clarified and harmonized.
+The dissolution phase is not failure but the essential Deconstruction wherein transient form is relinquished, allowing eternal essence (Deep Soul / Mind) to emerge clarified and harmonized.
 
 The archetype affirms that Entropic forces, though formidable, cannot annihilate centropic essence.
 
