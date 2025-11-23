@@ -65,6 +65,8 @@ Its message is one of structural responsibility: the integrity of individual and
 
 To dwell in **Centropic** Alignment is to participate in the building of an Ark—a vessel of coherent meaning resilient through every storm.
 
+---
+
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
 
