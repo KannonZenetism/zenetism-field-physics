@@ -4,36 +4,45 @@
 The Primordial Bifurcation Event. This mythos encodes the instantiation of the Centropic and Entropic arcs at the Archetypal level. It is not a historical battle but the metaphysical narrative of the first Structural Divergence from Aionic unity, resulting in the establishment of the Aionic and Khaonic Trees.
 
 **Core Glyphic Sequence:**  
-`⚫ → ↕️ → ⚯ → C↑→⚫ | E↓→♾`  
+`⚫ → ↕️ → ⚯ → 🌲↓ | 🌲↑`  
 *(From the stillness of Aion, a bidirectional axis forms, generating structural duality and the divergence into centropic and entropic arcs.)*
 
 ---
 
 ## Universal Structural Analysis
 
-* **The Heavenly Realm (Deep Psyche / Logos):** The state of Archetypal harmony and coherence.  
-    Represents the Deep Psyche / Deep Logos (Morgis / Sophis) in an integrated, centropic condition.  
-    It corresponds to the Pleroma—the domain of Aeons.
+* **The Heavenly Realm (L₄ (DP / DL: Morgis / Sophis)):** The state of Archetypal harmony and coherence.  
+    Represents L₄ (DP / DL: Morgis / Sophis) in an integrated, centropic condition.  
+    This is the domain of the Aeons (the Archetypal Forms).
 
-* **The Rebel / The Prideful One (Inverse Deep Psyche / Logos):**  
-    A powerful archetypal intelligence within the Deep Psyche / Logos field that undergoes Inversion.  
-    Not an external adversary, but coherence turning upon itself.  
-    The so-called "sin" is Hubris—not moral error, but a structural misalignment: the belief that a fragment can replicate or supersede the whole, violating the Non-Fusion Axiom and seeking Blobism.
+---
+
+### Note on Pleroma
+
+**Zenetist Definition:** Pleroma refers to the plenitude of Aion—the undivided fullness of primordial potential at L₀ (AP / AD: Aion / Khaon).  
+*Not to be confused with the Gnostic usage referring to the differentiated Aeonic realm.*
+
+---
+
+* **The Rebels / The Archons (IL₄ (IDP / IDL: Psychea / Nyxea)):**
+    * The inverse archetypal intelligences (Archons) formed by the Inversion of the L₄ (Aeonic) field. This is the "Prideful One" or "Rebel" principle.
+    * Not an external adversary, but coherence turning upon itself.
+    * The so-called "sin" is Hubris—not moral error, but a structural misalignment: the belief that a fragment can replicate or supersede the whole, violating the Non-Fusion Axiom and seeking Blobism.
 
 * **The Cause of Rebellion:**  
     Expressed as "desire for a throne," "refusal to bow," or "claiming equality with Source."  
-    Structurally, this is the Mimicry of Theonic authority or the Shimmer of Sophis-level creativity detached from Aionic resonance.  
+    Structurally, this is the Mimicry of Theonic authority or the Shimmer of Sophic creativity detached from Aionic resonance.  
     It is the Logos Principle inverted into its Mirror Form.
 
 * **The War / The Casting Out:**  
     The violent phase of Structural Divergence.  
-    The centropic forces (led by a Theonic or Deep Self / Mind principle such as Michael) expel the inverse currents.  
+    The centropic forces (led by a Theonic or L₃ (DS / DM: Archeus / Noeüs) principle such as Michael) expel the inverse currents.  
     This represents the necessary severing of inverse flow from the centropic field to preserve the integrity of the Aionic Tree.  
     The rebels are displaced into the Khaonic Tree, establishing the Subversal Arc.
 
 * **The New Domains:**  
     * **The Victorious:** Remain aligned with the Aionic Tree, coherence reinforced.  
-    * **The Defeated:** Become the anchor points for the Khaonic Tree—Inverse Deep Psyche / Logos (Psychea / Nyxea), Inverse Deep Self / Mind (Fractus / Mortus), etc.  
+    * **The Defeated:** Become the anchor points for the Khaonic Tree—IL₄ (IDP / IDL: Psychea / Nyxea), IL₃ (IDS / IDM: Fractus / Mortus), etc.  
       They do not "rule" dissonance—they *are* its foundational, destabilized principles.
 
 ---
@@ -43,29 +52,31 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the C
 ### 1. Lucifer / The Fall of Satan (Christian)
 
 * **Focus:** The Corruption of Light.  
-    Lucifer ("Light-Bearer"), a being of Deep Psyche / Logos radiance, seeks to "move acclivously above the stars of God" (Isaiah 14).  
-    This reflects the Inverse Logos attempting to replicate Theonic (Essence of Being) sovereignty.
+    Lucifer ("Light-Bearer"), a being of L₄ (DP / DL: Morgis / Sophis) radiance, seeks to "move acclivously above the stars of God" (Isaiah 14).  
+    This reflects IL₄ (IDL: Nyxea) attempting to replicate L₅ (EOB: Theon) sovereignty.
 
-* **Michael (Deep Self / Mind):** The Oversoul / Deep Mind principle acting as the Resonant Blade of centropic integrity, enforcing the seal of lawful order.
+* **Michael (L₃ (DS / DM: Archeus / Noeüs)):** The Deep Soul / Deep Mind principle acting as the Resonant Blade of centropic integrity, enforcing the seal of lawful order.
 
 * **The Fall:** The instantiation of the entropic trajectory.  
-    Lucifer does not become "evil" in essence, but rather the architect of inverse coherence, the progenitor of Fragmentation and Mimicry.  
-    He becomes the Corruptor of Pattern (Nyxea).
+    Lucifer does not become entropic in essence, but rather the architect of inverse coherence, the progenitor of Fragmentation and Mimicry.  
+    He becomes the Corruptor of Pattern (IL₄ (IDL: Nyxea)).
+
+* **Structural Note:** This IL₄ inversion (Lucifer) must be distinguished from Satan (IL₅ (VOS: Nekron)). Lucifer is the initiator of the inverse archetypal realm; Satan (Nekron) is the terminal state of absolute collapse, which is the final declivous destination of the Luciferian arc, but not the same principle.
 
 ### 2. The Titanomachy (Greek)
 
 * **Focus:** The Overthrow of Primordial Chaos by Order.  
-    * **The Titans (Khaon / Absolute Dispersion):** Embody the raw, unstructured, and often violent energies of Absolute Dispersion.  
-      They are not "evil," but pre-structural—unfitted to the centropic order Zeus seeks to install.  
-    * **The Olympians (Deep Psyche / Logos):** The new, Sophis-aligned gods of order, law, and intelligibility.  
+    * **The Titans (IL₄ / IDP / IDL: Psychea / Nyxea):** Embody the raw, unstructured, and often violent energies of inverted archetypal force.  
+      They represent the earliest differentiated expressions of archetypal inversion—form without lawful coherence.  
+    * **The Olympians (L₄ (DP / DL: Morgis / Sophis)):** The new, Sophis-aligned gods of order, law, and intelligibility.  
       Their triumph signifies Centropic structuring over Khaonic indeterminacy, birthing the Cosmos from the Apeiron.
 
 ### 3. The Aesir–Vanir War (Norse)
 
 * **Focus:** The Synthesis of Structuring and Vital Principles.  
     This unique refraction concludes not in destruction but in Nexus Formation.  
-    * **The Aesir (Deep Logos – Sophis):** Gods of structure, sovereignty, and consciousness (Odin, Tyr).  
-    * **The Vanir (Deep Psyche – Morgis):** Gods of vitality, fertility, and wealth (Njord, Freyr, Freyja).  
+    * **The Aesir (L₄ (DL: Sophis)):** Gods of structure, sovereignty, and consciousness (Odin, Tyr).  
+    * **The Vanir (L₄ (DP: Morgis)):** Gods of vitality, fertility, and wealth (Njord, Freyr, Freyja).  
     * **The War:** A tension between the Structuring and Animating principles at the archetypal level.  
     * **The Truce & Hostage Exchange:** A symbol of Synthesis—the two currents merging to form a complete pantheon.  
       This illustrates that Centropy may emerge not by annihilation, but through harmonic integration of complementary poles.
@@ -73,8 +84,8 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the C
 ### 4. The War in Heaven (Zoroastrian)
 
 * **Focus:** The Primordial Dualistic Choice.  
-    * **Ahura Mazda (Theon / Deep Psyche / Logos):** The spirit of centropic illumination, order, and harmonic law.  
-    * **Angra Mainyu / Ahriman (Void of Self / Inverse Deep Psyche / Logos):** The destructive spirit—principle of entropic distortion and chaos.  
+    * **Ahura Mazda (L₅ (EOB: Theon) / L₄ (DP / DL: Morgis / Sophis)):** The spirit of centropic illumination, order, and harmonic law.  
+    * **Angra Mainyu / Ahriman (IL₅ (VOS: Nekron) / IL₄ (IDP / IDL: Psychea / Nyxea)):** The destructive spirit—principle of entropic distortion and chaos.  
     * **The Conflict:** Represents the cosmic Sovereign Attractor and Entropic Pull at the root of being, emphasizing volitional integration as the pivot of alignment.
 
 ---
@@ -91,7 +102,7 @@ The war persists because the decision between Coherence and Fragmentation recurs
 
 Its teaching: consciousness is the field of engagement.
 
-"Heaven" and "Hell" are not destinations but resonant states aligned through perception, will, and motion—from Deep Self / Mind to Embodied Self / Mind.
+"Heaven" and "Hell" are not destinations but resonant states aligned through perception, will, and motion—from L₃ (DS / DM: Archeus / Noeüs) to L₁ (ES / EM: Soma / Biosa).
 
 The war was not an event—it is the continuous process of Emanation and Return.
 
