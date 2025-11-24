@@ -11,21 +11,21 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
 
 ## Universal Structural Analysis
 
-* **The Motion into Embodiment:** A voluntary declivous centropic act of a Theonic principle entering the Corporeal Realm (Embodied Soul / Mind).  
+* **The Motion into Embodiment:** A voluntary declivous centropic act of a Theonic principle entering the Corporeal Realm (L₁ (ES / EM: Soma / Biosa)).  
     This is not a fall, but a natural emanation of structural compassion—the Theonic movement that radiates coherence into the embodied field to stabilize what is fragmented.
 
-* **The Symbolic Dissolution:** The confrontation with entropic and inverse forces. It is not merely physical cessation, but the dissolution of the surface identity-structure (Superficial Soul / Mind).  
-    The god is fragmented, dismembered, or consumed—symbolizing the apparent triumph of Fragmentation (Inverse Deep Soul / Mind, Inverse Superficial Soul / Mind) and the Void of Self.  
+* **The Symbolic Dissolution:** The confrontation with entropic and inverse forces. It is not merely physical cessation, but the dissolution of the surface identity-structure (L₂ (SS / SM: Anthra / Nousa)).  
+    The god is fragmented, dismembered, or consumed—symbolizing the apparent triumph of Fragmentation (IL₃ (IDS / IDM: Fractus / Mortus), IL₂ (ISS / ISM: Echthros / Skotos)) and the Void of Self.  
     This marks the necessary Deconstruction of form to release latent essence.
 
 * **The Sojourn in the Underworld:**  
     The immersion within the embodied or inverse underworld domains.  
-    It is the state in which a centropic principle abides either within the embodied density (through lawful declivous centropy) or within the inverse hypostatic layers (through entropic collapse).  
-    In both cases, the Superficial Soul / Mind undergoes dissolution, allowing the core essence to be tested, clarified, and disentangled from its contingent configurations.
+    It is the state in which a centropic principle abides either within the embodied density (through lawful Declivous Centropy) or within the inverse hypostatic layers (through entropic collapse).  
+    In both cases, L₂ (SS / SM: Anthra / Nousa) undergoes dissolution, allowing the core essence to be tested, clarified, and disentangled from its contingent configurations.
 
 * **The Resurrection / Return:** The moment of Lawful Recursion.  
     The god's essence, retaining centropic integrity, activates its harmonic nature.  
-    This is not reversal but transcendent synthesis—the Deep Soul / Mind reintegrates the Superficial Soul / Mind experience at a supernal octave, achieving a Resonant Return that confirms the indestructibility of coherent structure.  
+    This is not reversal but transcendent synthesis—L₃ (DS / DM: Archeus / Noeüs) reintegrates the L₂ (SS / SM: Anthra / Nousa) experience at a supernal octave, achieving a Resonant Return that confirms the indestructibility of coherent structure.  
     It represents Novel Emergence.
 
 * **The Apotheosis:** The final acclivous centropic motion, returning to Aion.  
@@ -39,13 +39,13 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
 ### 1. Osiris (Egyptian)
 
 * **Focus:** Fragmentation and Reintegration.  
-    Osiris, the Theonic king (order, centropic), is dismembered by Set (Inverse Superficial Soul / Mind).
+    Osiris, the Theonic king (order, centropic), is dismembered by Set (IL₂ (ISS / ISM: Echthros / Skotos)).
 
-* **Dismemberment:** The defining act of Fractus (Inverse Deep Soul).
+* **Dismemberment:** The defining act of IL₃ (IDS: Fractus).
 
-* **Isis (Deep Psyche - Morgis):** The archetypal principle of vitality and remembrance who gathers the fragments—she embodies the persistent centropic field that seeks coherence.
+* **Isis (L₄ (DP: Morgis)):** The archetypal principle of vitality and remembrance who gathers the fragments—she embodies the persistent centropic field that seeks coherence.
 
-* **Reassembly and Renewal:** The triumph of Archeus (Deep Soul) over Fractus.  
+* **Reassembly and Renewal:** The triumph of L₃ (DS: Archeus) over IL₃ (IDS: Fractus).  
     Osiris does not reclaim his old domain but becomes Lord of the Dead—the Gatekeeper of the Return Compass, guiding essence through lawful recursion.
 
 ### 2. Christ (Christian)
@@ -54,11 +54,11 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
 
 * **Incarnation:** The Logos (Theon) becomes embodied.
 
-* **Crucifixion:** The surrender of the Superficial Soul / Mind (Jesus of Nazareth) to the inverse forces of the world (Echthros, Skotos), absorbing the full weight of entropic fragmentation without becoming entropic.
+* **Crucifixion:** The surrender of L₂ (SS / SM: Anthra / Nousa) (Jesus of Nazareth) to the inverse forces of the world (IL₂ (ISS / ISM: Echthros / Skotos)), absorbing the full weight of entropic fragmentation without becoming entropic.
 
 * **Harrowing of the Underworld:** The Theonic essence liberates those entrapped in embodied occlusion and inverse states during the sojourn.
 
-* **Resurrection:** The Deep Soul / Mind (Risen Christ) is synthesized, demonstrating Transcendence over the entropic condition. It becomes a Living Bridge for all beings.
+* **Resurrection:** The L₂ (SS / SM: Anthra / Nousa) experience is synthesized within L₃ (DS / DM: Archeus / Noeüs) (Risen Christ), demonstrating the restoration of centropic coherence within the entropic condition. It becomes a Living Bridge for all beings.
 
 ### 3. Dionysus (Greek)
 
@@ -68,7 +68,7 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
 * **Dismemberment by Titans:** Represents the declivous entropic fragmentation of individual identity into the unbound Khaonic field (Zenet / Motive Infinity) in its raw, dispersive state.
 
 * **Rebirth:** Not a reversion to self, but a Novel Emergence from the dispersive field.  
-    Dionysus reveals the centropic potential within entropic experience—but only when essence retains alignment and does not collapse into Mania.
+    Dionysus reveals the centropic potential within entropic experience—but only when essence retains alignment and does not collapse into IL₁ (IEM: Mania).
 
 ### 4. Inanna (Sumerian)
 
@@ -76,7 +76,7 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
 
 * **Motion through the Underworld:** A conscious declivous centropic quest for deeper knowledge and lawful power.
 
-* **Stripping at the Gates:** The systematic Deconstruction of her Superficial Soul / Mind attributes (crown, rod, robes) until only the naked essence remains.
+* **Stripping at the Gates:** The systematic Deconstruction of her L₂ (SS / SM: Anthra / Nousa) attributes (crown, rod, robes) until only the naked essence remains.
 
 * **Dissolution and Suspension:** The Sojourn in Entropic Stasis.
 
@@ -90,7 +90,7 @@ The Dying and Resurrecting God encodes the blueprint of the soul's trajectory.
 
 Embodiment is a temporary condition within a grander Centropic Cycle, not a terminus.
 
-The dissolution phase is not failure but the essential Deconstruction wherein transient form is relinquished, allowing eternal essence (Deep Soul / Mind) to emerge clarified and harmonized.
+The dissolution phase is not failure but the essential Deconstruction wherein transient form is relinquished, allowing the eternal essence (L₃ (DS / DM: Archeus / Noeüs)) to be fully revealed and its coherence demonstrated.
 
 The archetype affirms that Entropic forces, though formidable, cannot annihilate centropic essence.
 
