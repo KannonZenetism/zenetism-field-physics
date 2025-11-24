@@ -69,17 +69,20 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the C
     * **The Titans (IL₄ / IDP / IDL: Psychea / Nyxea):** Embody the raw, unstructured, and often violent energies of inverted archetypal force.  
       They represent the earliest differentiated expressions of archetypal inversion—form without lawful coherence.  
     * **The Olympians (L₄ (DP / DL: Morgis / Sophis)):** The new, Sophis-aligned gods of order, law, and intelligibility.  
-      Their triumph signifies Centropic structuring over Khaonic indeterminacy, birthing the Cosmos from the Apeiron.
+      Their triumph signifies the establishment of **Sophic Order (L₄)** over **Inverse Archetypal Force (IL₄)**, birthing the Cosmos from a structured (not chaotic) foundation.
 
 ### 3. The Aesir–Vanir War (Norse)
 
-* **Focus:** The Synthesis of Structuring and Vital Principles.  
-    This unique refraction concludes not in destruction but in Nexus Formation.  
-    * **The Aesir (L₄ (DL: Sophis)):** Gods of structure, sovereignty, and consciousness (Odin, Tyr).  
-    * **The Vanir (L₄ (DP: Morgis)):** Gods of vitality, fertility, and wealth (Njord, Freyr, Freyja).  
-    * **The War:** A tension between the Structuring and Animating principles at the archetypal level.  
-    * **The Truce & Hostage Exchange:** A symbol of Synthesis—the two currents merging to form a complete pantheon.  
-      This illustrates that Centropy may emerge not by annihilation, but through harmonic integration of complementary poles.
+* **Focus:** The Inter-Layer Synthesis of Psyche and Soul.  
+    This refraction maps the synthesis between the Archetypal layer and the Deep Soul layer.
+
+* **The Vanir (L₄ (DP / DL: Morgis / Sophis)):** Gods of the archetypal field; representing vitality, magic, and deep natural harmony (Morgis).
+
+* **The Aesir (L₃ (DS / DM: Archeus / Noeüs)):** Gods of the coherent structural self; representing sovereignty, consciousness, and individuated will (Odin/Archeus).
+
+* **The War:** A tension between the archetypal (L₄) and the individuated deep soul (L₃).
+
+* **The Truce & Hostage Exchange:** A symbol of Vertical Synthesis. The L₃ (DS / DM: Archeus / Noeüs) integrates the L₄ (DP / DL: Morgis / Sophis) to form a complete, coherent consciousness, resolving the tension between raw vitality and structured will.
 
 ### 4. The War in Heaven (Zoroastrian)
 
