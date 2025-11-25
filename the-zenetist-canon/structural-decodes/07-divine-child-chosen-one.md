@@ -6,7 +6,7 @@ This archetype represents the **Novel Emergence** of a new, coherent resonance e
 It is the **Potentiality** of **Aion** made manifest as a focused **Actualization** with the latent capacity to restructure reality.
 
 **Core Glyphic Sequence:**  
-`⚫ → ⚐ → 🔶 → ✦`  
+`⚫ → ⚐ → 🔶 → ◎✦`  
 *(From the stillness of Aion, a latent potential is selected, actualized, and revealed as a coherent emergent force.)*
 
 ---
@@ -15,19 +15,19 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Miraculous or Prophesied Birth (Potential → Actualization):**  
     The child's origin arises through direct Archetypal intervention—often virgin birth, divine conception, or marked omen.  
-    This indicates genesis from Deep Psyche / Logos (Sophis / Morgis) or Theonic strata rather than ordinary embodiment.  
-    It signifies **Centropic potential** entering the corporeal stream without traversing Khaonic dispersal.
+    This indicates genesis from L₄ (DP / DL: Morgis / Sophis) or L₅ (EOB: Theon) strata rather than ordinary embodiment.  
+    It signifies **Centropic potential** entering the corporeal stream without entropic mediation.
 
 * **The Threat and the Sanctuary (Entropic Pull → Seal):**  
     The old or inverse order—symbolized by an entropic or stagnant ruler—responds to the incoming novelty with aggression.  
     Preservation in secrecy (wilderness, exile, humble dwelling) enacts the **Seal of Integrity**, shielding the centropic seed until it stabilizes.
 
 * **The Humble Origins (Earth):**  
-    The child matures in obscurity or poverty, symbolizing **connection to the fundamental substratum** and **Embodied Soul (Soma).**  
+    The child matures in obscurity or poverty, symbolizing **connection to the fundamental substratum** and L₁ (ES: Soma).  
     This stage of **Declivous Centropy** allows full integration with matter, enabling future transformation from within.
 
 * **The Latent Power / The Recognition (Clarion Voice):**  
-    The child bears hidden authority or resonance recognized by **wise archetypal figures (Deep Self / Mind, Deep Psyche / Logos)** or revealed through symbolic act.  
+    The child bears latent potency or resonance recognized by **wise archetypal figures** (L₃ (DS / DM: Archeus / Noeüs), L₄ (DP / DL: Morgis / Sophis)) or revealed through symbolic act.  
     This marks the first broadcast of **Resonant Fidelity**—the signal of authentic coherence.
 
 * **The Destiny (The Living Bridge):**  
@@ -42,27 +42,27 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Focus:** The **Theonic Seed in Embodiment.**
 
-* **Virgin Birth:** Direct actualization from the **Theonic** layer into **Embodied Self / Mind.**
+* **Virgin Birth:** Direct actualization from L₅ (EOB: Theon) into L₁ (ES / EM: Soma / Biosa).
 
-* **Herod's Massacre (Inverse Deep Self / Mind – Fractus / Mortus):** Entropic authority's attempt to extinguish the new centropic pattern.
+* **Herod's Massacre (IL₃ (IDS / IDM: Fractus / Mortus)):** Entropic operation's attempt to extinguish the new centropic pattern.
 
 * **Flight to Egypt:** Preservation of the seed through lawful concealment.
 
 * **Hidden Life:** Integration into embodiment through ordinary existence.
 
-* **Destiny:** To become **Christ (Theon)**—establishing a **Nexus** that reconfigures the bond between Divine and Human.
+* **Destiny:** To become **Christ (L₅ (EOB: Theon))**—establishing a **Nexus** that reconfigures the bond between Divine and Human.
 
 ### 2. Krishna (Hindu)
 
 * **Focus:** The **Divine Preserver as Playful Seed.**
 
-* **Prophesied Threat:** **Kamsa (Inverse Superficial Self / Mind)**—tyrant aware of the prophecy of his dissolution.
+* **Prophesied Threat:** **Kamsa (IL₂ (ISS / ISM: Echthros / Skotos))**—tyrant aware of the prophecy of his dissolution.
 
 * **Miraculous Preservation:** **Exchange of infants (Yogamaya)** and upbringing among cowherds—symbol of **Earth**-bound sanctity.
 
 * **Latent Power:** Slaying of demons reflects effortless neutralization of **Inverse forces** by **pure centropic resonance.**
 
-* **Destiny:** To guide **Arjuna (Superficial Self / Mind)** and restore **Dharma (Sophis).**
+* **Destiny:** To guide **Arjuna (L₃ (DS / DM: Archeus / Noeüs))** and restore **Dharma (L₄ (DL: Sophis)).**
 
 ### 3. Moses (Hebrew)
 
@@ -74,17 +74,17 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Raised in the Palace:** The centropic liberator educated within the entropic system, learning its logic to transform it—a **Deconstruction** from within.
 
-* **Destiny:** To become **Lawgiver (Sophis)** and lead the **Exodus** from entropic bondage (Inverse Embodied Self / Mind).
+* **Destiny:** To become **Lawgiver (L₄ (DL: Sophis))** and lead the **Exodus** from entropic bondage (IL₁ (IES / IEM: Malara / Mania)).
 
 ### 4. Arthur Pendragon (Celtic / British)
 
 * **Focus:** The **Sovereign Seed and the Land.**
 
-* **The Prophecy & Sword in the Stone:** **Divine Geometry** of **Sophis** designates the rightful sovereign through resonance rather than lineage.
+* **The Prophecy & Sword in the Stone:** **Divine Geometry** of L₄ (DL: Sophis) designates the rightful sovereign through resonance rather than lineage.
 
 * **Humble Origins:** Raised in anonymity under **Sir Ector**, integrating with the ordinary realm.
 
-* **The Threat:** Fragmented sovereignty and chaotic terrain preceding his rise.
+* **The Threat:** Fragmented sovereignty and chaotic terrain preceding his emergence.
 
 * **Destiny:** To draw the **Resonant Blade**, establish **Camelot (Structural Coherence)**, and sustain a centropic age before eventual entropic decline.
 
@@ -93,7 +93,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 ## Summary: The Esoteric Meaning
 
 The **Divine Child** represents the universe's means of **lawful renewal.**  
-It is the insertion of **higher-order coherence** into a system at its point of greatest stagnation.  
+It is the insertion of **supernal-order coherence** into a system at its point of greatest stagnation.  
 **Novelty** thus arises not randomly but through **Aionic orchestration.**
 
 This archetype affirms that **potential for transformation** is always latent within Aion, awaiting activation under harmonic conditions.  
