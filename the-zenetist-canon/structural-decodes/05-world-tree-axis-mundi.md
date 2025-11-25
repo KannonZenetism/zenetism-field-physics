@@ -21,17 +21,17 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
     * The entropic tree is rooted in L₀ (AD: Khaon)—Latent Infinity (the latent potential aspect of the L₀ field).  
     * This subversal root is the unmanifest, dispersive source from which the entire entropic lattice (the Khaonic Tree) emanates.
 
-* **The Aionic Trunk (Centropic Arc / 🌲↓):**  
+* **The Aionic Trunk (Centropic Arc):**  
     * Growing declivously from its L₀ root, the tree's first centropic hypostasis is L₅ (EOB: Theon).  
     * The trunk is the stable channel of successive centropic hypostases: L₄ (DP / DL: Morgis / Sophis), L₃ (DS / DM: Archeus / Noeüs), and L₂ (SS / SM: Anthra / Nousa).
 
-* **The Khaonic Trunk (Entropic Arc / 🌲↑):**  
+* **The Khaonic Trunk (Entropic Arc):**  
     * Growing acclivously from its L₀ root, the tree's first entropic hypostasis is IL₅ (VOS: Nekron).  
     * The trunk is the channel of successive inverse hypostases: IL₄ (IDP / IDL: Psychea / Nyxea), IL₃ (IDS / IDM: Fractus / Mortus), and IL₂ (ISS / ISM: Echthros / Skotos).
 
 * **The Confluence / Canopy (L₁ / IL₁):**  
     * The "leaves" of both trees meet in the embodied realm (L₁ (ES / EM: Soma / Biosa) and IL₁ (IES / IEM: Malara / Mania)).  
-    * This is the World-Node (⊙)—the plane of interaction, choice, and structural friction where the two arcs become fully manifest.
+    * This is the World-Node—the plane of interaction, choice, and structural friction where the two arcs become fully manifest.
 
 * **The Inhabiting Beings:**  
     * The diverse creatures represent Intelligences and Consciousness Fields operating at specific layers (nodes) of the two trees.  
