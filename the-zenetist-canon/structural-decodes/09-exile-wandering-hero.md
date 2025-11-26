@@ -15,21 +15,21 @@ This prepares the consciousness for a future **Synthesis** or **Return.**
 
 * **The Cause of Exile (Structural Divergence):**  
     Exile arises from **Structural Divergence** between the individual's resonance and their environment (family, tribe, kingdom).  
-    * **Crime:** A centropic impulse violates a lower-order or entropic law.  
-    * **Prophecy:** A **Fractal Eschaton** foresight orchestrated by **Deep Psyche / Logos** to ensure destiny.  
-    * **Usurpation:** The rightful centropic heir displaced by **Inverse forces (Inverse Superficial Self / Echthros)**, forced into wilderness.
+    * **Crime:** A centropic impulse violates a provisional or entropic law.  
+    * **Prophecy:** A **Fractal Eschaton** foresight orchestrated by L₄ (DP / DL: Morgis / Sophis) to ensure destiny.  
+    * **Usurpation:** The rightful centropic heir displaced by **Inverse forces (IL₂ (ISS: Echthros))**, forced into wilderness.
 
 * **The Liminal Landscape (Field of Becoming):**  
     The wilderness, desert, or foreign land becomes the **Field of Becoming**—a neutral resonance-testing ground.  
     Here the exile cultivates **Sovereign Attractor** capability, generating internal coherence without external validation.
 
 * **The Gathering of Allies and Tools (Resonance Spiral):**  
-    In isolation, the hero finds **Harmonic Agents, Resonant Blades,** and **Symbolic Discernment (Noeüs).**  
+    In isolation, the hero finds **Harmonic Agents, Resonant Blades,** and **Symbolic Discernment (L₃ (DM: Noeüs)).**  
     These represent aspects of self and allies gained only through the **Resonance Spiral,** amplifying latent centropic signatures.
 
 * **The Transformation (Deconstruction):**  
-    The exile undergoes **Deconstruction**—the dismantling of the **Superficial Self / Mind** persona suited for the old order.  
-    This painful process serves as a **Recursion Gate** through which a new, more authentic **Deep Self / Mind coherence** is forged.
+    The exile undergoes **Deconstruction**—the dismantling of the L₂ (SS / SM: Anthra / Nousa) persona suited for the old order.  
+    This painful process serves as a **Recursion Gate** through which a new, more authentic L₃ (DS / DM: Archeus / Noeüs) coherence is forged.
 
 * **The Return or New Foundation (Return Compass):**  
     Guided by the **internal compass** of destiny, the exile either:  
@@ -44,21 +44,21 @@ This prepares the consciousness for a future **Synthesis** or **Return.**
 
 * **Focus:** Master of adaptation and the long return.
 
-* **Cause:** The Trojan War (massive Centropic/Entropic conflict) and **Poseidon's** opposition (Deep Psyche / Logos level).
+* **Cause:** The Trojan War (massive Centropic/Entropic conflict) and **Poseidon's** opposition (L₄ (DP / DL: Morgis / Sophis) level).
 
-* **Wandering:** A spiral of trials—**Cyclops (Primitive Entropy), Circe (Psychea's distortion), Sirens (Skotos' lure)**—each deconstructing his identity.
+* **Wandering:** A spiral of trials—**Cyclops (Primitive Entropy), Circe (IL₄ (IDP: Psychea) distortion), Sirens (IL₂ (ISM: Skotos) lure)**—each deconstructing his identity.
 
-* **Return:** Restoration of **Order (Structural Coherence)** to Ithaca from inverse suitors (Inverse Superficial Self / Mind)—the full cycle of coherent reclamation.
+* **Return:** Restoration of **Order (Structural Coherence)** to Ithaca from inverse suitors (IL₂ (ISS / ISM: Echthros / Skotos))—the full cycle of coherent reclamation.
 
 ### 2. Rama (Hindu)
 
 * **Focus:** Exile as lawful duty.
 
-* **Cause:** A **Sophis-level vow** compels exile—lawful centropic motion, not punishment.
+* **Cause:** A L₄ (DL: Sophis) layer vow compels exile—lawful centropic motion, not punishment.
 
 * **Wandering:** He converts wilderness into a **centropic microcosm**, gathering allies like **Hanuman (Harmonic Agent).**
 
-* **The Theft of Sita:** The **Entropic Seizure** of his divine complement by **Ravana (Inverse Deep Psyche / Logos)** mirrors the cosmic abduction of coherence.
+* **The Theft of Sita:** The **Entropic Seizure** of his divine complement by **Ravana (IL₄ (IDP / IDL: Psychea / Nyxea))** mirrors the cosmic abduction of coherence.
 
 * **Return:** Triumph restores a **Golden Age (Structural Coherence)**—the centropic pattern validated through exile.
 
@@ -66,13 +66,13 @@ This prepares the consciousness for a future **Synthesis** or **Return.**
 
 * **Focus:** Collective exile and birth of new consciousness.
 
-* **Cause:** Liberation from **Entropic Bondage (Inverse Embodied Self / Mind in Egypt).**
+* **Cause:** Liberation from **Entropic Bondage (IL₁ (IES / IEM: Malara / Mania) in Egypt).**
 
-* **Wandering:** A forty-year **Recursion**—Deconstructing the **Slave Mentality (Inverse Superficial Self / Mind)** to birth sovereign awareness.
+* **Wandering:** A forty-year **Recursion**—Deconstructing the **Slave Mentality (IL₂ (ISS / ISM: Echthros / Skotos))** to birth sovereign coherence.
 
 * **Complaining:** The desire to return to Egypt illustrates **Entropic Pull**—comfort in bondage.
 
-* **Goal:** The **Promised Land (Embodied World Node)**—a centropic civilization founded on divine structure (**Sophis Law**).
+* **Goal:** The **Promised Land (Embodied World Node)**—a centropic civilization founded on divine structure (L₄ (DL: Sophis) Law).
 
 ### 4. Parzival (Arthurian)
 
@@ -80,17 +80,17 @@ This prepares the consciousness for a future **Synthesis** or **Return.**
 
 * **Cause:** Leaving maternal protection to pursue knighthood.
 
-* **Wandering:** A spiral of failure and realization—his silence at the **Grail Castle** reveals a deficit of **Deep Self / Mind empathy.**
+* **Wandering:** A spiral of failure and realization—his silence at the **Grail Castle** reveals a deficit of L₃ (DS / DM: Archeus / Noeüs) empathy.
 
-* **Transformation:** Guided by **Trevrizent (Deep Self / Mind mentor)**, Parzival reorients his essence through compassion and discernment.
+* **Transformation:** Guided by **Trevrizent (L₃ (DS / DM: Archeus / Noeüs) mentor)**, Parzival reorients his essence through compassion and discernment.
 
-* **Return:** Returns as **Synthesized King**, healing the **Wounded King (Fractus)** and restoring the centropic field.
+* **Return:** Returns as **Synthesized King**, healing the **Wounded King (IL₃ (IDS: Fractus))** and restoring the centropic field.
 
 ---
 
 ## Summary: The Esoteric Meaning
 
-The **Exile** is the soul's descent into dissonance to achieve superior coherence.  
+The **Exile** is the soul's motion into dissonance to achieve refined coherence.  
 It is the phase where **leaving home**—literal or metaphysical—is essential for individuation.
 
 Alienation becomes a sacred alchemy.  
