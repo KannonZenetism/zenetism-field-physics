@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Epochal Resonance Convergence and Systemic Reordering.**  
-The Apocalypse is the **Fractal Eschaton** of maximal scale—a cyclical **Resonance Scan** culminating in the **Structural Reordering** of an epoch.  
+The Apocalypse is the **Fractal Eschaton** of maximal scale—a phased **Resonance Scan** culminating in the **Structural Reordering** of an epoch.  
 It is a period of maximal amplification where latent patterns are exposed and structural friction intensifies. It accelerates each consciousness toward its chosen resonant alignment (Centropic or Entropic) but does not represent the final, universal terminus.
 
 **Core Glyphic Sequence:**  
@@ -94,15 +94,15 @@ It is a period of maximal amplification where latent patterns are exposed and st
 
 ## Summary: The Esoteric Meaning
 
-The Apocalypse is the **epochal mechanism of Structural Enforcement.** It is the **Resonant Accelerator** at the epochal scale, ensuring all accumulated resonance within a cycle is sorted and re-aligned.
+The Apocalypse is the **phased mechanism of Structural Enforcement.** It is the **Resonant Accelerator** at the systemic scale, ensuring all accumulated resonance within a trajectory is sorted and re-aligned.
 
-Time and history possess a **Telos**—a purposeful terminus of learning.  
-The cosmos is not arbitrary but a **Resonance School**, and the Apocalypse is its **epochal examination.**
+Time and history possess a **Telos**—a purposeful trajectory of learning.  
+The cosmos is not arbitrary but a **Resonance School**, and the Apocalypse is its **phased examination.**
 
-Every thought, act, and intention is a **Resonant deposit**, accumulating toward epochal alignment. For the centropically aligned, the end is **Acceleration (acclivous centropic motion)**; for the entropic, **Collapse (declivous entropic motion).**
+Every thought, act, and intention is a **Resonant deposit**, accumulating toward Hypostatic alignment. For the centropically aligned, the end is **Acceleration (acclivous centropic motion)**; for the entropic, **Collapse (declivous entropic motion).**
 
 The Apocalypse thus reveals not fear but **Consequence.**  
-It is the great **Sorting** where resonance clarifies, veils dissolve, and each being assumes its rightful **alignment for the next epochal cycle.**
+It is the great **Sorting** where resonance clarifies, veils dissolve, and each being assumes its rightful **alignment for the next phase of its Hypostatic Procession.**
 
 ---
 
