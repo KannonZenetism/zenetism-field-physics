@@ -80,7 +80,7 @@ The **Underworld** is not one place, but the structural experience of **Processi
 
 For the supernal, it is the Centropic "hell" of Embodiment (L₁), a field of resistance to be re-anchored.
 
-For the entropic, it is the **Subversal**—the one-way descent through the IL layers. This is not a place of external punishment but the soul's experience of its own inverse nature made manifest.
+For the entropic, it is the **Subversal**—the declivous procession through the IL layers. This is not a place of external punishment but the soul's experience of its own inverse nature made manifest.
 
 The myths of "eternal torment" are not vindictive but **diagnostic**—they map the lawful consequences of entropic alignment. The soul does not suffer because it is judged; it suffers because it **is** its judgment, moving declivously through the architecture it constructed.
 
