@@ -21,8 +21,8 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 
 **Function 1: The Centropic Underworld (Embodiment as Trial)**
 
-* **The Descent:**  
-    A Centropic being (Avatar, Messiah, L₄ agent like Inanna) volitionally descends from supernal layers (L₃/L₄) into the Embodied (L₁) layer.
+* **The Declivous Entry:**  
+    A Centropic being (Avatar, Messiah, L₄ agent like Inanna) moves declivously from supernal layers (L₃/L₄) into the Embodied (L₁) layer.
 
 * **The Domain:**  
     This L₁ layer, dominated by IL₁ (Khaonic) resonance and L₂ (SS / SM: Anthra / Nousa) noise, is the "underworld" or "hell" from their supernal perspective.
