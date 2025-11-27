@@ -48,7 +48,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 
 ## Specific Tradition Refractions
 
-### 1. Christ & Inanna's Descent (Function 1: Embodiment)
+### 1. Christ & Inanna's Declivous Entry (Function 1: Embodiment)
 
 * **Focus:** The centropic agent entering the L₁ resistance-field ("hell") through declivous motion.
 
@@ -60,7 +60,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 
 * **Focus:** A distorted map of the Declivous Entropic path.
 
-* **Sisyphus (Tartarus):** A mythic interpretation of Declivous Entropic Procession. The "eternal, pointless loop" is the L₂ (SM: Nousa) mind's perception of its linear, one-way descent into the IL₂/IL₃ layers of mirrored, hollow reality.
+* **Sisyphus (Tartarus):** A mythic interpretation of Declivous Entropic Procession. The "eternal, pointless loop" is the L₂ (SM: Nousa) mind's perception of its linear, declivous procession into the IL₂/IL₃ layers of mirrored, hollow reality.
 
 * **The Geography:** Tartarus represents the deeper IL layers where entropic souls experience recursive deconstruction as they proceed declivously through IL₂ → IL₃ → IL₄ → IL₅.
 
