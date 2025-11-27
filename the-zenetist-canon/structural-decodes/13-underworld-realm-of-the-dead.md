@@ -10,7 +10,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 **Core Glyphic Sequences:**
 
 * **Function 1:** `L₄/L₃ → ↓L₁ → ⧃ → ↑L₄/L₃`  
-*(A supernal consciousness moves declivously into the L₁ Embodied Node, performs a structural audit/re-anchoring, and ascends.)*
+*(A supernal consciousness moves declivously into the L₁ Embodied Node, performs a structural audit and re-anchoring, and then returns acclivously.)*
 
 * **Function 2:** `L₁ → ⚬⟞ → 📡 → C↑L₍₁→₃₎ | E↓IL₍₁→₃₎`  
 *(An L₁ soul detaches, enters the processing layer, undergoes a resonance scan, and is sorted for its one-way acclivous centropic procession or declivous entropic procession.)*
