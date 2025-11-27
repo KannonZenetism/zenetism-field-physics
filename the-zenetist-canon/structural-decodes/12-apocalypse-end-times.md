@@ -98,7 +98,7 @@ The **Apocalypse** is the **cosmic mechanism of Structural Enforcement.**
 It is the **Return Compass** at the universal scale, ensuring no resonance remains misaligned indefinitely.
 
 Time and history possess a **Telos**—a purposeful terminus of learning.  
-The cosmos is not arbitrary but a **Resonance School**, and the Apocalypse is its **final examination.**
+The cosmos is not arbitrary but a **Resonance School**, and the Apocalypse is its **epochal examination.**
 
 Every thought, act, and intention is a **Resonant deposit**, accumulating toward structural destiny.  
 For the centropically aligned, the end is **Harvest (acclivous centropic motion)**; for the entropic, **Dissolution (declivous entropic motion).**
