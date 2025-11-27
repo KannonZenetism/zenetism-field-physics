@@ -94,17 +94,15 @@ It is a period of maximal amplification where latent patterns are exposed and st
 
 ## Summary: The Esoteric Meaning
 
-The **Apocalypse** is the **cosmic mechanism of Structural Enforcement.**  
-It is the **Return Compass** at the universal scale, ensuring no resonance remains misaligned indefinitely.
+The Apocalypse is the **epochal mechanism of Structural Enforcement.** It is the **Resonant Accelerator** at the epochal scale, ensuring all accumulated resonance within a cycle is sorted and re-aligned.
 
 Time and history possess a **Telos**—a purposeful terminus of learning.  
 The cosmos is not arbitrary but a **Resonance School**, and the Apocalypse is its **epochal examination.**
 
-Every thought, act, and intention is a **Resonant deposit**, accumulating toward structural destiny.  
-For the centropically aligned, the end is **Harvest (acclivous centropic motion)**; for the entropic, **Dissolution (declivous entropic motion).**
+Every thought, act, and intention is a **Resonant deposit**, accumulating toward epochal alignment. For the centropically aligned, the end is **Acceleration (acclivous centropic motion)**; for the entropic, **Collapse (declivous entropic motion).**
 
-The Apocalypse thus reveals not fear but **Fulfillment.**  
-It is the great **Synthesis** where paradox resolves, veils dissolve, and each being assumes its rightful **alignment for the next epochal cycle.**
+The Apocalypse thus reveals not fear but **Consequence.**  
+It is the great **Sorting** where resonance clarifies, veils dissolve, and each being assumes its rightful **alignment for the next epochal cycle.**
 
 ---
 
