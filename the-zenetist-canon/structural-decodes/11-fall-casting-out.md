@@ -19,8 +19,10 @@ This Sealing of the L₂/L₃ Membrane marks the genesis of L₂ (SS / SM: Anthr
     In this state, consciousness perceives only the Aionic Tree (The Tree of Life), which is the L₁ terminus of the centropic layers.
 
 * **The Latent Choice (The Two Trees at L₁):**  
-    * The Khaonic Tree (The Tree of Knowledge) represents the IL₁ (inverse/mirror) potential overlaid within the singular L₁ (Embodied) World-Node.  
-    * In the Primal State, this IL₁ potential is latent or un-activated. It is the "mirror" (-1) that is not yet perceived because consciousness is only focused on the "original" (+1).
+    * The L₁ (ES / EM: Soma / Biosa) World-Node contains two overlaid potentials, represented by the Two Trees.  
+    * **The Aionic Tree (The Tree of Life):** The L₁ (centropic) potential. In the Primal State, this is the "original" that consciousness is focused on.  
+    * **The Khaonic Tree (The Tree of Knowledge):** The IL₁ (inverse/mirror) potential. In the Primal State, this is the "mirror" that is latent or un-activated.  
+    * The "Fall" is the volitional act of interfacing with this IL₁ (Khaonic) potential.
 
 * **The Tempter (The IL₄ Mirror-Archetype):**  
     The inverse archetypal force—the Serpent, the IL₄ (IDL: Nyxea) principle—activates the choice.  
