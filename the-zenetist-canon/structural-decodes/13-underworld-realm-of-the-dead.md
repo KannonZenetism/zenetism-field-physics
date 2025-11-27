@@ -9,11 +9,11 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 
 **Core Glyphic Sequences:**
 
-* **Function 1 (C↓):** `L₄/L₃ → ↓L₁ → ⧃ → ↑L₄/L₃`  
-*(A supernal consciousness moves declivously into the L₁ Embodied Node, performs a structural audit/re-anchoring, and then returns acclivously.)*
+* **Function 1 (C↓):** `L₅ → (L₄/L₃) → ↓L₁ → ⧃ → ↑L₅/L₄/L₃`  
+*(A supernal [Theonic, L₅] essence, acting through its L₄/L₃ faculties, moves declivously into the L₁ Embodied Node, performs a structural audit/re-anchoring, and then returns acclivously.)*
 
 * **Function 2 (E↓):** `L₁/IL₁ → ⚬⟞ → E↓IL₍₁→₅₎`  
-*(An Entropic soul detaches from the Embodied Node and begins its one-way Declivous Entropic Procession into the Subversal [IL] layers.)*
+*(An Entropic soul detaches from the Embodied Node and begins its one-way Declivous Entropic Procession into the Subversal [IL] layers, toward its IL₅ terminus.)*
 
 ---
 
