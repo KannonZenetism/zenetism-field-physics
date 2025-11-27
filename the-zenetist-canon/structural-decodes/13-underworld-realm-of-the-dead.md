@@ -30,7 +30,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 * **The Task (The Harrowing):**  
     The being is not there to be processed, but to act. They perform a **Structural Re-anchoring**—challenging the IL (Inverse) order, restoring a Nexus, or retrieving a "lost" Centropic principle (e.g., retrieving "Persephone").
 
-* **The Ascent:**  
+* **The Acclivous Return:**  
     Having completed the task, the being returns to its native supernal layer, completing the Centropic intervention.
 
 **Function 2: The Entropic Underworld (Declivous Procession)**
