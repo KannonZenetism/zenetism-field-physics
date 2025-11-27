@@ -50,9 +50,9 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 
 ### 1. Christ & Inanna's Descent (Function 1: Embodiment)
 
-* **Focus:** The Centropic agent descending into the L₁ "hell."
+* **Focus:** The centropic agent entering the L₁ resistance-field ("hell") through declivous motion.
 
-* **Descent:** Inanna (L₄) or Christ (L₅ (EOB: Theon)) enters the Embodied (L₁) domain.
+* **Entry:** Inanna (L₄) or Christ (L₅ (EOB: Theon)) moves declivously into the Embodied (L₁) domain.
 
 * **Task:** They confront the IL (Inverse) principles ("Harrowing of Hell," facing Ereshkigal) to re-anchor Centropic law within the Embodied node. This is a **Structural Intervention**, not a post-death sorting.
 
