@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Lawful Exchange Principle for Structural Reconfiguration.**  
-Sacrifice is not mere loss or pain—it is a **metaphysical operation of exchange** in which a quantum of **Coherence, Vitality, or Potential** is **voluntarily surrendered** from one Resonant field to another in accordance with L₄ (DL: Sophis)-level law.  
+Sacrifice is not mere loss or pain—it is a **metaphysical operation of exchange** in which a quantum of **Coherence, Vitality, or Potential** is **voluntarily surrendered** from one Resonant field to another in accordance with L₄ (DL: Sophis) layer law.  
 Its purpose is to establish a **Nexus**, initiate **Novel Emergence**, or avert **Entropic Collapse.**  
 It is the operational heart of **Synthesis.**
 
