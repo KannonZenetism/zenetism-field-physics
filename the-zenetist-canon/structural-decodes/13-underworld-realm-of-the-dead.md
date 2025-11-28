@@ -84,7 +84,7 @@ For the entropic, it is the **Subversal**—the full inverse strata, spanning bo
 
 The myths of "eternal torment" are not vindictive but **diagnostic**—they map the lawful consequences of entropic alignment. The soul does not suffer because it is judged; it suffers because it **is** its judgment, moving through the architecture it constructed.
 
-For an entropic essence departing embodiment, the Subversal path begins as a one-way **declivous procession** toward IL₅ (VOS: Nekron) and eventual dispersion into Khaon.
+For an entropic essence departing embodiment, the Subversal path begins as a one-way **declivous procession** toward IL₅ (VOS: Nekron) and eventual dispersion into Khaon.  
 Reversal is not normative, but remains structurally possible only through extraordinarily rare centropic intervention or interior re-alignment within the early inverse strata (IL₁–IL₂).
 
 ---
