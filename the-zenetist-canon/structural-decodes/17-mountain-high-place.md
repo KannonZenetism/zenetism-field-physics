@@ -84,7 +84,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 ## Summary: The Esoteric Meaning
 
 The **Mountain** is the geometric metaphor for the **path of ascent**—the steady, volitional rise of consciousness from Embodiment toward the Supernal Source.  
-It is the living **Axis Mundi** of every soul, the structure connecting the Valleys of matter to the Zenith of spirit.
+It is the living **Axis Mundi** of every soul, the structure connecting the Valleys of matter to the Supernal junction.
 
 It teaches that Revelation is proportional to elevation.  
 Law moves declivously upon those who climb acclivously, for altitude is both physical and moral geometry.  
