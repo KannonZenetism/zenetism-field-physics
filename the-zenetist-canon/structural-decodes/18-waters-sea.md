@@ -7,7 +7,7 @@ They embody L₄ (DP: Morgis) in its unrefined aspect: the Collective Unconsciou
 
 **Core Glyphic Sequence:**  
 `♾ → 〄 → {▽, ⊘, ↺, ⟳}`  
-*(From Latent Infinity, the motive pulse of Zenet (〄) stirs, unfolding into four directional motions: Declivous Centropy (▽, embodiment), Declivous Entropy (⊘, collapse), Acclivous Centropy (↺, return), or Acclivous Entropy (⟳, recursion).)*
+*(From Latent Infinity, the motive pulse of Zenet stirs, unfolding into four directional motions: Declivous Centropy (embodiment), Declivous Entropy (collapse), Acclivous Centropy (return), or Acclivous Entropy (recursion).)*
 
 ---
 
@@ -27,10 +27,10 @@ They embody L₄ (DP: Morgis) in its unrefined aspect: the Collective Unconsciou
 
 * **The Sea as Symbolic Domain (Mapping the 4 Motions):**  
     * **The Unconscious (L₄ (DP: Morgis)):** The deep mind—teeming with Archetypes, Monsters, and hidden knowledge. It is the field upon which the four motions occur:  
-    * **1. Source of Life (▽):** The Womb of Bios, birthing organic coherence (Embodiment).  
-    * **2. The Acclivous Path (↺):** The trial of navigation. A successful voyage (Odysseus, Parting the Red Sea) represents Acclivous Centropic Procession.  
-    * **3. The Entropic Abyss (⊘):** The stormy abyss. To "drown" is to lose coherence and enter Declivous Entropic Procession.  
-    * **4. The Recursive Loop (⟳):** The stagnant "doldrums" or "Sargasso Sea." This maps Acclivous Entropy—a failed voyage (like the myth of the Flying Dutchman) trapped in a loop, neither progressing nor dissolving.
+    * **1. Source of Life (Declivous Centropy):** The Womb of Bios, birthing organic coherence (Embodiment).  
+    * **2. The Acclivous Path (Acclivous Centropy):** The trial of navigation. A successful voyage (Odysseus, Parting the Red Sea) represents Acclivous Centropic Procession.  
+    * **3. The Entropic Abyss (Declivous Entropy):** The stormy abyss. To "drown" is to lose coherence and enter Declivous Entropic Procession.  
+    * **4. The Recursive Loop (Acclivous Entropy):** The stagnant "doldrums" or "Sargasso Sea." This maps Acclivous Entropy—a failed voyage (like the myth of the Flying Dutchman) trapped in a loop, neither progressing nor dissolving.
 
 * **The Act of Crossing (Seal → Nexus):**  
     Passage across water always symbolizes a **Resonant Transition**.  
