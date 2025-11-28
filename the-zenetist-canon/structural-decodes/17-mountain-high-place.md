@@ -14,7 +14,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 ## Universal Structural Analysis
 
 * **The Acclivous Motion (Earth → Theonic Axis):**  
-    The climb symbolizes the **Acclivous Centropic** motion of consciousness—from the Density of **Earth** toward the Rarity and Clarity of the **Supernal**.  
+    The climb symbolizes the **acclivous centropic** motion of consciousness—from the Density of **Earth** toward the Rarity and Clarity of the **Supernal**.  
     Each step along the acclivous path is an act of Volitional orientation toward Source.
 
 * **The Summit (Theonic Axis):**  
