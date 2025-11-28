@@ -42,7 +42,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
     This is the "Underworld" proper—the Subversal. It is not a place of "judgment" but the native path for an entropic essence. It is the one-way procession away from L₁ (Embodiment) and deeper into the IL (Inverse) hypostases (IL₂, IL₃, IL₄, IL₅).
 
 * **The "Torment" (Recursive Deconstruction):**  
-    Myths of "torment" (Tartarus, Sisyphus, Naraka) are L₂ (SM: Nousa) perceptions of the lawful deconstruction of the Entropic soul. As the soul proceeds deeper, it experiences its own inverse nature (mirroring, hollowness, fragmentation) as an external reality. This is not punishment; it is the consequence of its own IL alignment.
+    Myths of "torment" (Tartarus, Sisyphus, Naraka) are IL₂ (ISM: Skotos) perceptions of the lawful deconstruction of the Entropic soul. As the soul proceeds deeper, it experiences its own inverse nature (mirroring, hollowness, fragmentation) as an external reality. This is not punishment; it is the consequence of its own IL alignment.
 
 ---
 
@@ -60,7 +60,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 
 * **Focus:** A distorted map of the Declivous Entropic path.
 
-* **Sisyphus (Tartarus):** A mythic interpretation of Declivous Entropic Procession. The "eternal, pointless loop" is the L₂ (SM: Nousa) mind's perception of its linear, declivous procession into the IL₂/IL₃ layers of mirrored, hollow reality.
+* **Sisyphus (Tartarus):** A mythic interpretation of Declivous Entropic Procession. The "eternal, pointless loop" is the IL₂ (ISM: Skotos) mind's perception of its linear, declivous procession into the IL₂/IL₃ layers of mirrored, hollow reality.
 
 * **The Geography:** Tartarus represents the deeper IL layers where entropic souls experience recursive deconstruction as they proceed declivously through IL₂ → IL₃ → IL₄ → IL₅.
 
@@ -84,7 +84,8 @@ For the entropic, it is the **Subversal**—the declivous procession through the
 
 The myths of "eternal torment" are not vindictive but **diagnostic**—they map the lawful consequences of entropic alignment. The soul does not suffer because it is judged; it suffers because it **is** its judgment, moving declivously through the architecture it constructed.
 
-There is no escape from the Underworld for the entropic soul—only the continuation of its one-way procession toward IL₅ (VOS: Nekron) and ultimate dispersion into Khaon.
+For the entropic essence, the Subversal path is a one-way declivous procession toward IL₅ (VOS: Nekron) and eventual dispersion into Khaon.
+Reversal is not normative, but structurally possible only through extraordinarily rare centropic intervention or interior re-alignment within the early IL layers (IL₁–IL₂).
 
 ---
 
