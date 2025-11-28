@@ -57,7 +57,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
 
 * **Focus:** The solidification of Theonic Centropy.
 
-* **Stripping:** Led by Spirit into the wilderness post-baptism (**Declivous Centropic initiation**).
+* **Stripping:** Led by Spirit into the wilderness post-baptism (**declivous centropic initiation**).
 
 * **Temptation:** Offered **Materialism, Spectacle, and Power**—each an Inverse alignment.
 
