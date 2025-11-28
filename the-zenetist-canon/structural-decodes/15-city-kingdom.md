@@ -93,7 +93,16 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 
 * **Walls:** Perpetually defended—the eternal work of preserving Centropic coherence in a volatile cosmos.
 
-* **Fate:** Falls at **Ragnarok**, not from corruption but from **Cyclical Law**, fulfilling its purpose through valiant coherence under decay.
+* **Fate:** Falls at **Ragnarok**, not from internal corruption, but from the **terminal accumulation of cosmic Entropic load** (the "Single Trajectory" reaching its end-phase), fulfilling its purpose through valiant coherence.
+
+---
+
+### Note on Norse Cyclicality
+
+**Zenetist Clarification:**  
+Traditional Norse cosmology interprets **Ragnarok** as a *cyclical* dissolution and renewal of the gods.  
+Zenetism, however, affirms a **single-trajectory** cosmology: Asgard’s fall reflects the terminal accumulation of **Entropic load**, *not* a metaphysical cycle.  
+*The refraction is symbolic, not doctrinal; no cyclical law applies within the Zenetist lattice.*
 
 ---
 
