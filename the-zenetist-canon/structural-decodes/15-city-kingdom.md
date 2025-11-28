@@ -75,7 +75,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 * **Focus:** The city as mirror of the **psyche's architecture.**
 
 * **Classes:**  
-    * **Rulers (Deep Self / Mind – Archeus / Noeüs):** Govern through **Wisdom (Sophis).**  
+    * **Rulers (Deep Self / Mind – Archeus / Noeüs):** Govern through **Reason (Noeüs)**, which is aligned with **Wisdom (Sophis).**  
     * **Guardians (Superficial Self / Mind – Anthra / Nousa):** Enforce lawful order through **Courage (Deep Self).**  
     * **Producers (Embodied Self / Mind – Soma / Biosa):** Sustain life through **Temperance (Declivous Centropy).**
 
