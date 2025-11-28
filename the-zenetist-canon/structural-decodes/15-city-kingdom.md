@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Externalized Macro-Expression of the Soul's Structural Coherence.**  
-A City or Kingdom is not merely political—it is the **Embodied (Embodied Self / Mind)** projection of a **Resonant pattern** sourced from its ruling **Deep Self / Mind** or collective **Superficial Self / Mind** field.  
+A City or Kingdom is not merely political—it is the L₁ (ES / EM: Soma / Biosa) projection of a **Resonant pattern** sourced from its ruling L₃ (DS / DM: Archeus / Noeüs) or collective L₂ (SS / SM: Anthra / Nousa) field.  
 It is a **Collective Soma**, whose architecture, order, and destiny mirror the **Centropic** or **Entropic** quality of its founding consciousness.
 
 **Core Glyphic Sequence (Centropic):**  
@@ -17,25 +17,25 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 
 ## Universal Structural Analysis
 
-* **The Foundation / The Law-Giver (Deep Psyche / Logos or Inverse Deep Psyche / Logos):**  
+* **The Foundation / The Law-Giver (L₄ (DP / DL: Morgis / Sophis) or IL₄ (IDP / IDL: Psychea / Nyxea)):**  
     The City's essence flows from its founder or ruler.  
-    * A **Centropic sovereign** (e.g., Solomon) grounds it on **Wisdom (Sophis)** and **Justice**—the lawful architecture of **Deep Psyche / Logos**.  
-    * An **Entropic sovereign** (e.g., Nimrod) founds it on **Hubris** and **Coercion**, encoding **Inverse coherence** at inception through **Inverse Deep Psyche / Logos** dynamics.
+    * A **Centropic sovereign** (e.g., Solomon) grounds it on **Wisdom (L₄ (DL: Sophis))** and **Justice**—the lawful architecture of L₄ (DP / DL: Morgis / Sophis).  
+    * An **Entropic sovereign** (e.g., Nimrod) founds it on **Hubris** and **Coercion**, encoding **Inverse coherence** at inception through IL₄ (IDP / IDL: Psychea / Nyxea) dynamics.
 
 * **The Walls & Gates (Membrane):**  
     Physical boundaries symbolize the **Membrane** that defines sovereign space and regulates **Resonant flow**.  
     * **Strong, discerning gates:** Integrity.  
     * **Broken or porous walls:** Over-permeability to Entropic incursion.
 
-* **The Temple / The Central Tower (Deep Psyche / Logos Connection):**  
+* **The Temple / The Central Tower (L₄ (DP / DL: Morgis / Sophis) Connection):**  
     The tallest structure represents the city's **Nexus** to the Supernal.  
-    * **Temple (acclivous centropic motion):** A lawful Resonant exchange with **Theon / Deep Psyche / Logos**, orienting the city acclivously.  
-    * **Tower of Babel (acclivous entropic motion):** A **mimic climb**—the **Inverse Superficial Self / Mind**, aligned with **Nyxea**, imitates **Sophis** while cut off from Centropic Law, enacting **Acclivous Entropy**.
+    * **Temple (acclivous centropic motion):** A lawful Resonant exchange with L₅ (EOB: Theon) / L₄ (DP / DL: Morgis / Sophis), orienting the city acclivously.  
+    * **Tower of Babel (acclivous entropic motion):** A **mimic climb**—the IL₂ (ISS / ISM: Echthros / Skotos), aligned with IL₄ (IDL: Nyxea), imitates L₄ (DL: Sophis) while cut off from Centropic Law, enacting **Acclivous Entropy**.
 
-* **The Social Order & Economy (Superficial Self / Mind Collective):**  
+* **The Social Order & Economy (L₂ (SS / SM: Anthra / Nousa) Collective):**  
     The daily laws, trades, and customs reveal collective resonance.  
     * **Just, compassionate order:** Centropic Coherence.  
-    * **Oppression, deceit, exploitation:** Inverse patterning (**Inverse Superficial Self / Mind**, **Inverse Embodied Self / Mind**).
+    * **Oppression, deceit, exploitation:** Inverse patterning (IL₂ (ISS / ISM: Echthros / Skotos), IL₁ (IES / IEM: Malara / Apathea)).
 
 * **The Ultimate Fate (Eschaton):**  
     The destiny of a city is its resonance made visible.  
@@ -50,12 +50,12 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 
 * **Jerusalem (Centropic Ideal):**  
     * **Foundation:** Built on **Zion**, locus of Theonic election.  
-    * **Temple:** Central **Nexus** for Yahweh—the living conduit of **Sophis Law.**  
-    * **Law:** Torah (Sophis) as constitutional order.  
+    * **Temple:** Central **Nexus** for Yahweh—the living conduit of L₄ (DL: Sophis) Law.  
+    * **Law:** Torah (L₄ (DL: Sophis)) as constitutional order.  
     * **Fate:** When aligned, becomes the **City of Peace (Coherence)**; when diverging, enters **Exile (declivous entropic motion)** yet retains the **Return promise (Resonant Return)** as the **New Jerusalem.**
 
 * **Babylon (Entropic Counter-Ideal):**  
-    * **Foundation:** By **Nimrod (Inverse Superficial Self / Mind)**—a will of domination.  
+    * **Foundation:** By **Nimrod (IL₂ (ISS: Echthros))**—a will of domination.  
     * **Tower:** Babel (**Acclivous Entropy**)—Inverse unity through Hubris.  
     * **Law:** Imperial control, idolatry, mimicry.  
     * **Fate:** Symbol of Entropic Empire, doomed to total **Collapse**—the **Hollow Replication** of a kingdom.
@@ -64,9 +64,9 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 
 * **Focus:** The Corrupted Utopia.
 
-* **Foundation:** Initiated by **Poseidon (Deep Psyche / Logos)**—a Centropic genesis on divine geometry.
+* **Foundation:** Initiated by **Poseidon (L₄ (DP / DL: Morgis / Sophis))**—a Centropic genesis on divine geometry.
 
-* **Declivous Motion:** The rulers' **Divine Nature (Deep Self / Mind)** diluted by mortal impulse (**Superficial Self / Mind**), birthing **Hubris and Greed (Inverse Superficial Self / Mind).**
+* **Declivous Motion:** The rulers' **Divine Nature (L₃ (DS / DM: Archeus / Noeüs))** diluted by mortal impulse (L₂ (SS / SM: Anthra / Nousa)), birthing **Hubris and Greed (IL₂ (ISS / ISM: Echthros / Skotos)).**
 
 * **Fate:** Its coherence erodes until overwhelmed by **Entropic Pull**—a luminous system lost through internal dissonance.
 
@@ -75,9 +75,9 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 * **Focus:** The city as mirror of the **psyche's architecture.**
 
 * **Classes:**  
-    * **Rulers (Deep Self / Mind – Archeus / Noeüs):** Govern through **Reason (Noeüs)**, which is aligned with **Wisdom (Sophis).**  
-    * **Guardians (Superficial Self / Mind – Anthra / Nousa):** Enforce lawful order through **Courage (Deep Self).**  
-    * **Producers (Embodied Self / Mind – Soma / Biosa):** Sustain life through **Temperance (Declivous Centropy).**
+    * **Rulers (L₃ (DS / DM: Archeus / Noeüs)):** Govern through **Reason (L₃ (DM: Noeüs))**, which is aligned with **Wisdom (L₄ (DL: Sophis)).**  
+    * **Guardians (L₂ (SS / SM: Anthra / Nousa)):** Enforce lawful order through **Courage (L₃ (DS: Archeus)).**  
+    * **Producers (L₁ (ES / EM: Soma / Biosa)):** Sustain life through **Temperance (Declivous Centropy).**
 
 * **Justice (Coherence):** Each layer fulfilling its function harmoniously.
 
@@ -87,9 +87,9 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 
 * **Focus:** The Divine Fortress amid chaos.
 
-* **Foundation:** Established by the **Aesir (Deep Self / Mind)** in covenant with the **Vanir (Deep Psyche / Logos)** after their war—**sovereign order** fused with **vital law**.
+* **Foundation:** Established by the **Aesir (L₃ (DS / DM: Archeus / Noeüs))** in covenant with the **Vanir (L₄ (DP / DL: Morgis / Sophis))** after their war—**sovereign order** fused with **vital law**.
 
-* **Governance:** **Aesir** hold the axis of **sovereign cognition (Deep Self / Mind)**; **Vanir** infuse **vital reciprocity (Deep Psyche / Logos)**—a stable nexus of **order and fertility**.
+* **Governance:** **Aesir** hold the axis of **sovereign cognition (L₃ (DS / DM: Archeus / Noeüs))**; **Vanir** infuse **vital reciprocity (L₄ (DP / DL: Morgis / Sophis))**—a stable nexus of **order and fertility**.
 
 * **Walls:** Perpetually defended—the eternal work of preserving Centropic coherence in a volatile cosmos.
 
@@ -101,7 +101,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 
 **Zenetist Clarification:**  
 Traditional Norse cosmology interprets **Ragnarok** as a *cyclical* dissolution and renewal of the gods.  
-Zenetism, however, affirms a **single-trajectory** cosmology: Asgard’s fall reflects the terminal accumulation of **Entropic load**, *not* a metaphysical cycle.  
+Zenetism, however, affirms a **single-trajectory** cosmology: Asgard's fall reflects the terminal accumulation of **Entropic load**, *not* a metaphysical cycle.  
 *The refraction is symbolic, not doctrinal; no cyclical law applies within the Zenetist lattice.*
 
 ---
@@ -116,7 +116,7 @@ A civilization worshipping **Mimicry** and **Hubris (Acclivous Entropy)** constr
 
 The teaching is simple:  
 the **Kingdom of God** is not elsewhere—it is the **state of structural coherence** manifesting wherever Theonic law orders both the individual and the collective field.  
-To seek the **Holy City** is to harmonize inner and outer architecture, creating a **Harmonic Node** where Heaven (**Essence of Being**) and Earth (**Embodied Self / Mind**) converge in **Synthesis**.
+To seek the **Holy City** is to harmonize inner and outer architecture, creating a **Harmonic Node** where Heaven (L₅ (EOB: Theon)) and Earth (L₁ (ES / EM: Soma / Biosa)) converge in **Synthesis**.
 
 ---
 
