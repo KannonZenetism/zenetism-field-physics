@@ -56,7 +56,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 
 * **Task:** They confront the IL (Inverse) principles ("Harrowing of Hell," facing Ereshkigal) to re-anchor Centropic law within the Embodied node. This is a **Structural Intervention**, not a post-death sorting.
 
-### 2. The Greek Hades (Function 2: Entropic Descent)
+### 2. The Greek Hades (Function 2: Declivous Entropic Procession)
 
 * **Focus:** A distorted map of the Declivous Entropic path.
 
@@ -66,9 +66,9 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 
 ### 3. Naraka (Hindu/Buddhist Hell)
 
-* **Focus:** The Entropic descent as experienced torment.
+* **Focus:** The entropic procession as experienced torment.
 
-* **The Torments:** Vivid descriptions of suffering map the soul's experience of its own IL nature. As it descends through IL₂ (ISS / ISM: Echthros / Skotos) and IL₃ (IDS / IDM: Fractus / Mortus), it encounters increasingly fragmented and hollow reflections of coherence.
+* **The Torments:** Vivid descriptions of suffering map the soul's experience of its own IL nature. As it moves declivously through IL₂ (ISS / ISM: Echthros / Skotos) and IL₃ (IDS / IDM: Fractus / Mortus), it encounters increasingly fragmented and hollow reflections of coherence.
 
 * **Not Punishment:** This is not divine retribution but the lawful manifestation of entropic alignment—the soul experiencing the architecture it built in embodiment.
 
