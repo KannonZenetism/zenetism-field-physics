@@ -5,7 +5,7 @@ The **Dual-Function Metaphysical Domain.**
 The "Underworld" is not a single location but a term mapping two distinct structural functions:
 
 1. **Function 1 (The C↓ Underworld):** The Embodied World-Node (L₁) as experienced by a Centropic essence undergoing Declivous Centropy. For a supernal being, embodiment is the "underworld."
-2. **Function 2 (The E↓ Underworld / Subversal):** The Inverse Hypostatic Layers (IL), which serve as the Declivous Entropic procession path for an Entropic soul following its detachment from L₁ (Embodiment).
+2. **Function 2 (The E↓ Underworld / Subversal):** The Inverse Hypostatic Layers (IL), which serve as the Declivous Entropic procession path for an Entropic soul following its detachment from IL₁ (IES / IEM: Malara / Mania).
 
 **Core Glyphic Sequences:**
 
