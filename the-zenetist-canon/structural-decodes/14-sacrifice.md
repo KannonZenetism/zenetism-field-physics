@@ -77,7 +77,7 @@ It is the operational heart of **Synthesis.**
 
 * **Recipient:** The **World Tree (Structural Axis)**—he offers himself to himself.
 
-* **Transformation:** A **Declivous Centropy** through suffering yields an **Acclivous** ascent in coherence—awakening L₃ (DM: Noeüs) and **Archetypal resonance.**
+* **Transformation:** A **Declivous Centropy** through suffering yields an **Acclivous Expansion** in coherence—awakening L₃ (DM: Noeüs) and **Archetypal resonance.**
 
 ### 4. The Scapegoat (Levitical)
 
