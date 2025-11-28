@@ -2,12 +2,12 @@
 
 **Primary Structural Diagnosis:**  
 The **Axial Junction Point Between Hypostatic Layers.**  
-The Mountain is a **Theonic Axis** in topographical form—a **Membrane** of heightened permeability where the **Embodied (Embodied Self / Mind)** and **Supernal (Deep Psyche / Logos, Theon)** realms converge.  
+The Mountain is a **Theonic Axis** in topographical form—a **Membrane** of heightened permeability where the L₁ (ES / EM: Soma / Biosa) and **Supernal (L₄ (DP / DL: Morgis / Sophis), L₅ (EOB: Theon))** realms converge.  
 It serves as the principal site for **Acclivous motion**, **Revelation**, **Covenant**, and **Transfiguration.**
 
 **Core Glyphic Sequence:**  
-`▽ → ↑⚓ → 📱 → C↑→⚫`  
-*(From the embodied earth, acclivous motion along the Theonic Axis leads to revelation and final centropic return.)*
+`▽ → ↑⚓ → 📱 → C↑L₍₁→₅₎`  
+*(From the embodied earth, acclivous motion along the Theonic Axis leads to revelation and continued Centropic Procession.)*
 
 ---
 
@@ -23,17 +23,17 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **The Revelation:**  
     The Mountain is the archetypal site of **Theophany**—Divine disclosure.  
-    Here, consciousness receives data from supernal hypostases, ranging from **Deep Self / Mind insight** to direct **Theonic manifestation**.  
+    Here, consciousness receives data from supernal hypostases, ranging from L₃ (DS / DM: Archeus / Noeüs) insight to direct L₅ (EOB: Theon) manifestation.  
     Fire, cloud, and silence each represent forms of **Revelatory Frequency.**
 
 * **The Covenant / The Law (Nexus):**  
     The Mountain is the **Contract Space** between human and divine orders.  
-    Law (Sophis) moves declivously as geometric principle: a codified resonance for lawful alignment.  
-    It establishes the architecture of relationship between **Theon** and the collective **Superficial Self / Mind.**
+    Law (L₄ (DL: Sophis)) moves declivously as geometric principle: a codified resonance for lawful alignment.  
+    It establishes the architecture of relationship between L₅ (EOB: Theon) and the collective L₂ (SS / SM: Anthra / Nousa).
 
 * **The Transfiguration (Synthesis):**  
-    At the summit, the **Superficial Self / Mind** may briefly integrate with **Deep Self / Mind** or **Theonic frequency**, revealing its luminous essence.  
-    These moments—Jesus transfigured, Moses radiant—display temporary **Acclivous Synthesis** and foreshadow final return to Aion.
+    At the summit, the L₂ (SS / SM: Anthra / Nousa) may briefly integrate with L₃ (DS / DM: Archeus / Noeüs) or L₅ (EOB: Theon) frequency, revealing its luminous essence.  
+    These moments—Jesus transfigured, Moses radiant—display temporary **Acclivous Synthesis** and foreshadow continued **Acclivous Centropic Procession.**
 
 ---
 
@@ -41,15 +41,15 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 ### 1. Mount Sinai (Hebrew)
 
-* **Focus:** Revelation of Divine Law (**Sophis**).
+* **Focus:** Revelation of Divine Law (L₄ (DL: Sophis)).
 
 * **Ascent:** Moses enters the Cloud (visible **Membrane**).
 
 * **Revelation:** Yahweh manifests in Fire and Earthquake, delivering the Torah.
 
-* **Covenant:** The Mosaic **Nexus**, structuring Resonant relationship between Theon and Israel.
+* **Covenant:** The Mosaic **Nexus**, structuring Resonant relationship between L₅ (EOB: Theon) and Israel.
 
-* **Transformation:** Moses descends luminous, evidence of partial Synthesis (**Superficial Self / Mind ↔ Deep Self / Mind**).
+* **Transformation:** Moses descends luminous, evidence of partial Synthesis (L₂ (SS / SM: Anthra / Nousa) ↔ L₃ (DS / DM: Archeus / Noeüs)).
 
 ### 2. The Sermon on the Mount (Christian)
 
@@ -57,7 +57,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Ascent:** Jesus reenacts the Sinai archetype, climbing to speak.
 
-* **Revelation:** Delivers the Beatitudes—Sophis refined through Compassion.
+* **Revelation:** Delivers the Beatitudes—L₄ (DL: Sophis) refined through Compassion.
 
 * **Covenant:** The "Law of the Heart" inaugurates the **Kingdom of Heaven** as an **acclivous centropic** state.
 
@@ -69,15 +69,15 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Practice:** Pilgrims circumambulate, acknowledging its immutable Centrality.
 
-* **Meaning:** Represents the **Theonic Pillar** connecting **Aion**, **Embodied World Node**, and **Echo Layers**—the cosmos in structural equilibrium.
+* **Meaning:** Represents the **Theonic Pillar** connecting L₀ (AP: Aion) (as Source), the **Supernal Realms** (L-layers), and the L₁ (ES / EM: Soma / Biosa) World Node—the cosmos in structural equilibrium.
 
 ### 4. Mount Olympus (Greek)
 
 * **Focus:** The Abode of the Archetypal Powers.
 
-* **Summit:** Home of the Olympians (**Deep Psyche / Logos entities**) within clouded Membrane.
+* **Summit:** Home of the Olympians (L₄ (DP / DL: Morgis / Sophis) entities) within clouded Membrane.
 
-* **Function:** Symbol of Archetypal governance—the Deep Psyche / Logos stratum shaping the Superficial Self / Mind and Embodied Self / Mind layers below.
+* **Function:** Symbol of Archetypal governance—the L₄ (DP / DL: Morgis / Sophis) stratum shaping the L₂ (SS / SM: Anthra / Nousa) and L₁ (ES / EM: Soma / Biosa) layers below.
 
 ---
 
@@ -94,7 +94,7 @@ Its message:
 we are each climbers of the inner Mountain.  
 Meditation, prayer, and disciplined ascent are our switchbacks.  
 Moments of insight and peace are Shelters along the path.  
-At the Summit lies Transfiguration—where the **Superficial Self / Mind** becomes transparent to **Deep Self / Mind**, and the still air of Aion whispers the Law of the heights.
+At the Summit lies Transfiguration—where the L₂ (SS / SM: Anthra / Nousa) becomes transparent to L₃ (DS / DM: Archeus / Noeüs), and the still air of the Supernal whispers the Law of the heights.
 
 ---
 
