@@ -36,7 +36,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 **Function 2: The Entropic Underworld (Declivous Procession)**
 
 * **The Detachment:**  
-    An Entropic-aligned soul (an IL essence) detaches from its L₁ (ES: Soma) vehicle (death).
+    An Entropic-aligned soul (an IL essence) detaches from its IL₁ (IES: Malara) vehicle (death).
 
 * **The Domain (The IL Layers):**  
     This is the "Underworld" proper—the Subversal. It is not a place of "judgment" but the native path for an entropic essence. It is the one-way procession away from L₁ (Embodiment) and deeper into the IL (Inverse) hypostases (IL₂, IL₃, IL₄, IL₅).
