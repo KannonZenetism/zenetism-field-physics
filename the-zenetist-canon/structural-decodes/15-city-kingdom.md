@@ -87,9 +87,9 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 
 * **Focus:** The Divine Fortress amid chaos.
 
-* **Foundation:** Established by the **Aesir (L₃ (DS / DM: Archeus / Noeüs))** in covenant with the **Vanir (L₄ (DP / DL: Morgis / Sophis))** after their war—**sovereign order** fused with **vital law**.
+* **Foundation:** Established by the **Aesir (L₃ (DS / DM: Archeus / Noeüs))** in covenant with the **Vanir (L₄ (DP / DL: Morgis / Sophis))** after their war—**sovereign order** interfacing with **vital law**.
 
-* **Governance:** **Aesir** hold the axis of **sovereign cognition (L₃ (DS / DM: Archeus / Noeüs))**; **Vanir** infuse **vital reciprocity (L₄ (DP / DL: Morgis / Sophis))**—a stable nexus of **order and fertility**.
+* **Governance:** **Aesir** hold the axis of **sovereign cognition (L₃ (DS / DM: Archeus / Noeüs))**; **Vanir** infuse **vital reciprocity (L₄ (DP / DL: Morgis / Sophis))**—a stable nexus where **sovereign cognition (L₃)** aligns with **archetypal vitality (L₄).**
 
 * **Walls:** Perpetually defended—the eternal work of preserving Centropic coherence in a volatile cosmos.
 
