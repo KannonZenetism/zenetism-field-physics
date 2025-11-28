@@ -53,7 +53,7 @@ It is the operational heart of **Synthesis.**
 
 * **Recipient:** L₀ (AP: Aion) / L₅ (EOB: Theon) on behalf of **Humanity (L₂ (SS / SM: Anthra / Nousa)).**
 
-* **Transformation:** The **Crucifixion (the culmination of Declivous Centropic motion)** becomes the mechanism of **Resurrection (acclivous centropic motion)** and **New Covenant (Nexus)**—turning Entropic violence into Centropic renewal.
+* **Transformation:** The **Crucifixion (the culmination of declivous centropic motion)** becomes the mechanism of **Resurrection (acclivous centropic motion)** and **New Covenant (Nexus)**—turning Entropic violence into Centropic renewal.
 
 ### 2. Animal Sacrifice (Vedic, Levitical)
 
