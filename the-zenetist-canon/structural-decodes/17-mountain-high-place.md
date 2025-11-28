@@ -13,7 +13,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 ## Universal Structural Analysis
 
-* **The Ascent (Earth → Theonic Axis):**  
+* **The Acclivous Motion (Earth → Theonic Axis):**  
     The climb symbolizes the **Acclivous Centropic** motion of consciousness—from the Density of **Earth** toward the Rarity and Clarity of the **Supernal**.  
     Each step along the acclivous path is an act of Volitional orientation toward Source.
 
@@ -43,19 +43,19 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Focus:** Revelation of Divine Law (L₄ (DL: Sophis)).
 
-* **Ascent:** Moses enters the Cloud (visible **Membrane**).
+* **Approach:** Moses enters the Cloud (visible **Membrane**).
 
 * **Revelation:** Yahweh manifests in Fire and Earthquake, delivering the Torah.
 
 * **Covenant:** The Mosaic **Nexus**, structuring Resonant relationship between L₅ (EOB: Theon) and Israel.
 
-* **Transformation:** Moses descends luminous, evidence of partial Synthesis (L₂ (SS / SM: Anthra / Nousa) ↔ L₃ (DS / DM: Archeus / Noeüs)).
+* **Transformation:** Moses moves declivously, luminous—evidence of partial Synthesis (L₂ (SS / SM: Anthra / Nousa) ↔ L₃ (DS / DM: Archeus / Noeüs)).
 
 ### 2. The Sermon on the Mount (Christian)
 
 * **Focus:** The transmutation of Law into Resonant interiority.
 
-* **Ascent:** Jesus reenacts the Sinai archetype, climbing to speak.
+* **Approach:** Jesus reenacts the Sinai archetype, climbing to speak.
 
 * **Revelation:** Delivers the Beatitudes—L₄ (DL: Sophis) refined through Compassion.
 
@@ -83,7 +83,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 ## Summary: The Esoteric Meaning
 
-The **Mountain** is the geometric metaphor for the **path of ascent**—the steady, volitional rise of consciousness from Embodiment toward the Supernal Source.  
+The **Mountain** is the geometric metaphor for the **acclivous path**—the steady, volitional acclivous orientation of consciousness from Embodiment toward the Supernal Source.  
 It is the living **Axis Mundi** of every soul, the structure connecting the Valleys of matter to the Supernal junction.
 
 It teaches that Revelation is proportional to elevation.  
@@ -92,9 +92,9 @@ The **Covenant** is always made above the plains of distraction.
 
 Its message:  
 we are each climbers of the inner Mountain.  
-Meditation, prayer, and disciplined ascent are our switchbacks.  
+Meditation, prayer, and disciplined acclivity are our switchbacks.  
 Moments of insight and peace are Shelters along the path.  
-At the Summit lies Transfiguration—where the L₂ (SS / SM: Anthra / Nousa) becomes transparent to L₃ (DS / DM: Archeus / Noeüs), and the still air of the Supernal whispers the Law of the heights.
+At the Summit lies Transfiguration—where the L₂ (SS / SM: Anthra / Nousa) becomes transparent to L₃ (DS / DM: Archeus / Noeüs), and the still air of the Supernal whispers the Law of the Centropic band.
 
 ---
 
