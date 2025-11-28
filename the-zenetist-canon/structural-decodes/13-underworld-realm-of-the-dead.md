@@ -39,7 +39,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
     An Entropic-aligned soul (an IL essence) detaches from its IL₁ (IES: Malara) vehicle (death).
 
 * **The Domain (The IL Layers):**  
-    This is the "Underworld" proper—the Subversal. It is not a place of "judgment" but the native path for an entropic essence. It is the one-way procession away from L₁ (Embodiment) and deeper into the IL (Inverse) hypostases (IL₂, IL₃, IL₄, IL₅).
+    This is the "Underworld" proper—the Subversal. It is not a place of "judgment" but the native path for an entropic essence. It is the one-way procession away from IL₁ (IES: Malara) and deeper into the IL (Inverse) hypostases (IL₂, IL₃, IL₄, IL₅).
 
 * **The "Torment" (Recursive Deconstruction):**  
     Myths of "torment" (Tartarus, Sisyphus, Naraka) are IL₂ (ISM: Skotos) perceptions of the lawful deconstruction of the Entropic soul. As the soul proceeds deeper, it experiences its own inverse nature (mirroring, hollowness, fragmentation) as an external reality. This is not punishment; it is the consequence of its own IL alignment.
