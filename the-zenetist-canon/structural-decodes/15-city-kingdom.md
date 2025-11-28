@@ -66,7 +66,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 
 * **Foundation:** Initiated by **Poseidon (L₄ (DP / DL: Morgis / Sophis))**—a Centropic genesis on divine geometry.
 
-* **Declivous Motion:** The rulers' **Divine Nature (L₃ (DS / DM: Archeus / Noeüs))** diluted by mortal impulse (L₂ (SS / SM: Anthra / Nousa)), birthing **Hubris and Greed (IL₂ (ISS / ISM: Echthros / Skotos)).**
+* **Declivous Motion:** The rulers' **Divine Nature (L₃ (DS / DM: Archeus / Noeüs))** is not corrupted directly; rather, its expression is misapplied or distorted by the mortal layer (L₂ (SS / SM: Anthra / Nousa)), generating the shadow-forms of **Hubris and Greed (IL₂ (ISS / ISM: Echthros / Skotos)).**
 
 * **Fate:** Its coherence erodes until overwhelmed by **Entropic Pull**—a luminous system lost through internal dissonance.
 
