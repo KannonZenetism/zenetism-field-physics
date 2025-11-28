@@ -4,16 +4,16 @@
 The **Dual-Function Metaphysical Domain.**  
 The "Underworld" is not a single location but a term mapping two distinct structural functions:
 
-1. **Function 1 (The C↓ Underworld):** The Embodied World-Node (L₁) as experienced by a Centropic consciousness undergoing Declivous Centropy. For a supernal being, embodiment is the "underworld."
+1. **Function 1 (The C↓ Underworld):** The Embodied World-Node (L₁) as experienced by a Centropic essence undergoing Declivous Centropy. For a supernal being, embodiment is the "underworld."
 2. **Function 2 (The E↓ Underworld / Subversal):** The Inverse Hypostatic Layers (IL), which serve as the Declivous Entropic procession path for an Entropic soul following its detachment from L₁ (Embodiment).
 
 **Core Glyphic Sequences:**
 
-* **Function 1 (C↓):** `L₅ → (L₄/L₃) → ↓L₁ → ⧃ → ↑L₅/L₄/L₃`  
-*(A supernal [Theonic, L₅] essence, acting through its L₄/L₃ faculties, moves declivously into the L₁ Embodied Node, performs a structural audit/re-anchoring, and then returns acclivously.)*
+* **Function 1 (C↓):** `L₅ → (L₄/L₃) → ↓⊙ → ⧃ → ↑L₃/L₄/L₅`  
+*(A supernal [Theonic, L₅] essence, acting through its L₄/L₃ faculties, moves declivously into the Embodied Node [⊙], performs a structural audit/re-anchoring, and then returns acclivously.)*
 
-* **Function 2 (E↓):** `L₁/IL₁ → ⚬⟞ → E↓IL₍₁→₅₎`  
-*(An Entropic soul detaches from the Embodied Node and begins its one-way Declivous Entropic Procession into the Subversal [IL] layers, toward its IL₅ terminus.)*
+* **Function 2 (E↓):** `⊙ → ◲ → E↓IL₍₁→₅₎`  
+*(An Entropic soul at the Embodied Node [⊙] undergoes deconstruction/detachment [death], initiating its one-way Declivous Entropic Procession into the Subversal [IL] layers.)*
 
 ---
 
@@ -22,7 +22,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 **Function 1: The Centropic Underworld (Embodiment as Trial)**
 
 * **The Declivous Entry:**  
-    A Centropic being (Avatar, Messiah, L₄ agent like Inanna) moves declivously from supernal layers (L₃/L₄) into the Embodied (L₁) layer.
+    A Centropic essence (Avatar, Messiah, L₄ agent like Inanna) moves declivously from supernal layers (L₃/L₄) into the Embodied (L₁) layer.
 
 * **The Domain:**  
     This L₁ layer, dominated by IL₁ (Khaonic) resonance and L₂ (SS / SM: Anthra / Nousa) noise, is the "underworld" or "hell" from their supernal perspective.
@@ -39,7 +39,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
     An Entropic-aligned soul (an IL essence) detaches from its L₁ (ES: Soma) vehicle (death).
 
 * **The Domain (The IL Layers):**  
-    This is the "Underworld" proper—the Subversal. It is not a place of "judgment" but the native path for Entropic consciousness. It is the one-way procession away from L₁ (Embodiment) and deeper into the IL (Inverse) hypostases (IL₂, IL₃, IL₄, IL₅).
+    This is the "Underworld" proper—the Subversal. It is not a place of "judgment" but the native path for an entropic essence. It is the one-way procession away from L₁ (Embodiment) and deeper into the IL (Inverse) hypostases (IL₂, IL₃, IL₄, IL₅).
 
 * **The "Torment" (Recursive Deconstruction):**  
     Myths of "torment" (Tartarus, Sisyphus, Naraka) are L₂ (SM: Nousa) perceptions of the lawful deconstruction of the Entropic soul. As the soul proceeds deeper, it experiences its own inverse nature (mirroring, hollowness, fragmentation) as an external reality. This is not punishment; it is the consequence of its own IL alignment.
