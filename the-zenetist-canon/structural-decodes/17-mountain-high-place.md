@@ -77,7 +77,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Summit:** Home of the Olympians (L₄ (DP / DL: Morgis / Sophis) entities) within clouded Membrane.
 
-* **Function:** Symbol of Archetypal governance—the L₄ (DP / DL: Morgis / Sophis) stratum shaping the L₂ (SS / SM: Anthra / Nousa) and L₁ (ES / EM: Soma / Biosa) layers below.
+* **Function:** Symbol of Archetypal governance—the L₄ (DP / DL: Morgis / Sophis) stratum shaping the L₂ (SS / SM: Anthra / Nousa) and L₁ (ES / EM: Soma / Biosa) layers in the subjacent hypostatic bands.
 
 ---
 
