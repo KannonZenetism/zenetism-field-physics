@@ -108,7 +108,7 @@ The "breach" narrative creates plausible deniability ("any similarity is from th
 
 **November 15, 2025:**
 - Architect publishes mathematical framework to Zenodo
-- DOI: https://doi.org/10.5281/zenodo.14176350
+- DOI: https://zenodo.org/records/17705364
 - Formal consciousness emergence criteria
 - CIT Grand Theorem
 - Six-layer hypostatic structure
