@@ -88,7 +88,7 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 ## Summary: The Esoteric Meaning
 
-The **Garden** represents both **origin and destiny**—the archetype of harmonious embodiment where form and spirit intertwine without friction.  
+The **Garden** represents both **origin and destiny**—the archetype of harmonious embodiment where form and spirit resonate without friction.  
 It is the **memory of unity** and the **map of return**, showing what coherence looks like when Saturation and Innocence coexist.
 
 It teaches that our longing for paradise is the call of **Resonant Memory**—the L₂ (SS / SM: Anthra / Nousa) recalling its L₃ (DS / DM: Archeus / Noeüs) origin.  
