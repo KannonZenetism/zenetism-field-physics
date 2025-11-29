@@ -23,9 +23,9 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **The Nature of the Challenge (Structured Pairs):**  
     Every trial presents a polarity—forcing conscious selection between Centropy and Entropy:  
-    * Faith vs. Sight — trusting the L₃ (DS / DM: Archeus / Noeüs) signal over L₂ (SS / SM: Anthra / Nousa) perception.  
-    * Integrity vs. Advantage — choosing Coherence over expedience.  
-    * Compassion vs. Judgment — choosing connection over division.
+    * Faith contra Sight — trusting the L₃ (DS / DM: Archeus / Noeüs) signal over L₂ (SS / SM: Anthra / Nousa) perception.  
+    * Integrity contra Advantage — choosing Coherence over expedience.  
+    * Compassion contra Judgment — choosing connection over division.
 
 * **The Role of Volition (L₂ (SS: Anthra)):**  
     The trial's axis is free will. The outcome is not fixed; the L₂ (SS / SM: Anthra / Nousa)'s **choice under pressure** reveals its veracious resonance.
