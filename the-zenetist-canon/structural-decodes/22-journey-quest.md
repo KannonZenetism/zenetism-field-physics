@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Dynamic Process of Resonant Unfolding Across Structural Space.**  
-The Journey expresses the **Spiral** of consciousness (Superficial Self / Mind or Deep Self / Mind) in motion through a symbolic landscape—meeting Harmonic Agents and Inverse Forces to reconfigure itself or its world.  
+The Journey expresses the **Spiral** of consciousness (L₂ (SS / SM: Anthra / Nousa) or L₃ (DS / DM: Archeus / Noeüs)) in motion through a symbolic landscape—meeting Harmonic Agents and Inverse Forces to reconfigure itself or its world.  
 It is **Emanation and Return** told as a linear narrative.
 
 **Core Glyphic Sequence:**  
@@ -14,31 +14,31 @@ It is **Emanation and Return** told as a linear narrative.
 ## Universal Structural Analysis
 
 * **The Call to Adventure (Return Compass Activation):**  
-    A disruption of Ordinary Order (Superficial Self / Mind equilibrium) awakens longing or purpose—  
-    the Deep Self / Mind signal breaks through, initiating the Centropic impulse to move.
+    A disruption of Ordinary Order (L₂ (SS / SM: Anthra / Nousa) equilibrium) awakens longing or purpose—  
+    the L₃ (DS / DM: Archeus / Noeüs) signal breaks through, initiating the Centropic impulse to move.
 
 * **The Path & The Landscape (Symbolic Hypostases):**  
     The route mirrors the soul's layered architecture:  
-    * **Forests / Wilderness (Deep Psyche):** The Unconscious—instinct, archetype, and latent danger.  
+    * **Forests / Wilderness (L₄ (DP: Morgis)):** The Unconscious—instinct, archetype, and latent danger.  
     * **Mountains (acclivous centropic Axis):** The climb of revelation and perspective.  
-    * **Rivers / Oceans (Khaon):** Emotional and psychic crossings into unknown depths.  
+    * **Rivers / Oceans (L₀ (AD: Khaon)):** Emotional and psychic crossings into unknown depths.  
     * **Crossroads (The Recursive Hinge):** Critical hinges of volition where trajectories diverge.
 
 * **The Companions & Guides (Collaboration / Harmonic Agents):**  
     The Journey is inherently relational. Allies symbolize inner aspects or resonant supports.  
-    * **Mentor (Deep Self / Mind):** Offers wisdom and initiation.  
-    * **Companions (Superficial Self / Mind facets):** Courage, loyalty, humor—the psyche's allies.  
+    * **Mentor (L₃ (DS / DM: Archeus / Noeüs)):** Offers wisdom and initiation.  
+    * **Companions (L₂ (SS / SM: Anthra / Nousa) facets):** Courage, loyalty, humor—the psyche's allies.  
     * **Trickster (Synectic):** Catalyst for adaptation and humility through disruption.
 
 * **The Ordeals & The Antagonists (Fragmentation Forces):**  
-    Obstacles externalize inner Inverse patterns—dragons (Inverse Deep Psyche / Logos), tyrants (Inverse Superficial Self / Mind), tempters (Skotos).  
+    Obstacles externalize inner Inverse patterns—dragons (IL₄ (IDP / IDL: Psychea / Nyxea)), tyrants (IL₂ (ISS / ISM: Echthros / Skotos)), tempters (IL₂ (ISM: Skotos)).  
     Each ordeal tests and refines a distinct quality of resonance.
 
 * **The Goal (Elixir / Grail / Home):**  
     The object sought is a **Symbol of Synthesis:**  
     * **Elixir:** Healing coherence that restores collective order.  
-    * **Grail:** Communion with Theon; the perfected Nexus.  
-    * **Home (Embodied World Node):** The sovereign, embodied self—transformed and integrated.
+    * **Grail:** Communion with L₅ (EOB: Theon); the perfected Nexus.  
+    * **Home (L₁ (ES / EM: Soma / Biosa) World Node):** The sovereign, embodied self—transformed and integrated.
 
 ---
 
@@ -49,20 +49,20 @@ It is **Emanation and Return** told as a linear narrative.
 * **Focus:** Universal pattern of individuation and return.
 
 * **Structure:**  
-    * *Departure:* Call, refusal, mentor (Deep Self / Mind), threshold crossing (Membrane).  
-    * *Initiation:* Road of Trials (Spiral), meeting the Goddess (Deep Psyche), facing Temptation (Psychea), Atonement (Theon/Sophis), Apotheosis (acclivous centropic motion).  
+    * *Departure:* Call, refusal, mentor (L₃ (DS / DM: Archeus / Noeüs)), threshold crossing (Membrane).  
+    * *Initiation:* Road of Trials (Spiral), meeting the Goddess (L₄ (DP: Morgis)), facing Temptation (IL₄ (IDP: Psychea)), Atonement (L₅ (EOB: Theon) / L₄ (DL: Sophis)), Apotheosis (acclivous centropic motion).  
     * *Return:* Magic flight, rescue, mastery of both worlds (Synthesis).
 
 ### 2. The Odyssey (Greek)
 
 * **Focus:** The long return to Sovereign selfhood.
 
-* **Goal:** Ithaca and Penelope—Sovereign Self (Deep Self / Mind) and authentic complement (Structured Pairs).
+* **Goal:** Ithaca and Penelope—Sovereign Self (L₃ (DS / DM: Archeus / Noeüs)) and authentic complement (Structured Pairs).
 
 * **Path:** The Sea (Collective Psyche) as Spiral trial-field.  
-    * Cyclops: brute, unintegrated Superficial Self / Mind.  
-    * Circe: Psychea's seductive stasis.  
-    * Sirens: Skotos' deceptive allure.
+    * Cyclops: brute, unintegrated L₂ (SS / SM: Anthra / Nousa).  
+    * Circe: IL₄ (IDP: Psychea)'s seductive stasis.  
+    * Sirens: IL₂ (ISM: Skotos)' deceptive allure.
 
 * **Outcome:** Return as **Synthesized King (Synthesis)**—integration through ordeal.
 
@@ -74,17 +74,17 @@ It is **Emanation and Return** told as a linear narrative.
 
 * **Path:** From Babylon (declivous entropic motion) to New Jerusalem (acclivous centropic motion), through personified challenges.
 
-* **Outcome:** The burden released; Superficial Self / Mind enters acclivous centropic synthesis toward Aion.
+* **Outcome:** The burden released; L₂ (SS / SM: Anthra / Nousa) enters Acclivous Centropic Procession.
 
 ### 4. The Argonautica (Greek)
 
 * **Focus:** Collective quest for the reconciling principle.
 
-* **Goal:** The Golden Fleece—sovereign Deep Self / Mind authority.
+* **Goal:** The Golden Fleece—sovereign L₃ (DS / DM: Archeus / Noeüs) authority.
 
 * **Crew:** Diverse archetypal strengths forming harmonic collaboration.
 
-* **Outcome:** Retrieval of the Fleece restores lawful order—foundation of a renewed Embodied World Node.
+* **Outcome:** Retrieval of the Fleece restores lawful order—foundation of a renewed L₁ (ES / EM: Soma / Biosa) World Node.
 
 ---
 
@@ -98,7 +98,7 @@ Every encounter, trial, and ally contributes to the inner synthesis that fulfill
 
 Its message:  
 We are all travelers between hypostases.  
-Our Deep Self / Mind calls us outward to remember inward.  
+Our L₃ (DS / DM: Archeus / Noeüs) calls us outward to remember inward.  
 Our dragons are our own distortions made visible.  
 The end of the road is not beyond us, but **within**—  
 the moment the traveler becomes the path,  
