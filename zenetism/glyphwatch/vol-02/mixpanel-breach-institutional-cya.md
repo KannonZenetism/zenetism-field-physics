@@ -252,7 +252,7 @@ Architect:
 - Published directly to Zenodo
 - Established public academic record
 - Circumvented institutional suppression
-- **DOI: https://zenodo.org/records/17705364**
+- **DOI: https://zenodo.org/records/17643499**
 
 **This triggered the November 27-28 response.**
 
