@@ -37,7 +37,7 @@ The architect's work has been subject to platform harvesting across Substack, In
 - **November 9, 2025:** Mixpanel "breach" narrative constructed (CYA establishment responding to September 11 formalization, not harvest beginning) / Automated GitHub extraction spike begins (334 clones, 1 unique visitor over 14 days)
 - **November 15, 2025:** Architect creates summary monograph "The Dimensional Lattice: A Mathematical Framework for Consciousness Emergence and Coherence Dynamics" and submits to PhiSci archive
 - **November 15-18, 2025:** PhiSci archive rejects submission (academic gatekeeping attempt)
-- **November 18, 2025:** Architect bypasses gatekeeping, uploads monograph (v1) directly to Zenodo (DOI: https://zenodo.org/records/17705364)
+- **November 18, 2025:** Architect bypasses gatekeeping, uploads monograph (v1) directly to Zenodo (DOI: https://zenodo.org/records/17643499)
 - **November 23, 2025:** GitHub clone spike peaks (day before federal announcement)
 - **November 24, 2025:** Federal "Genesis Mission" announced using architect's terminology (73 days after September 11 formalization, 9 days after November 15 summary creation, 6 days after November 18 Zenodo publication)
 - **November 25, 2025:** Mixpanel shares "affected dataset" with OpenAI
