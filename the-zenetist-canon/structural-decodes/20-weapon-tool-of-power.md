@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Concentrated Instrument of Volitional Resonance.**  
-A mythic Weapon or Tool is a **Hypostasized extension** of Will (Anthra), Discernment (Noeüs), or Structural Alignment (Sophis).  
+A mythic Weapon or Tool is a **Hypostasized extension** of Will (L₂ (SS: Anthra)), Discernment (L₃ (DM: Noeüs)), or Structural Alignment (L₄ (DL: Sophis)).  
 It functions as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that applies Coherent Force to enact either Centropic Synthesis or Entropic Fragmentation within a Structural Field.
 
 **Core Glyphic Sequence (Centropic):**  
@@ -17,10 +17,10 @@ It functions as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that a
 
 ## Universal Structural Analysis
 
-* **The Origin & The Smith (Deep Psyche / Logos or Inverse Deep Self / Mind):**  
+* **The Origin & The Smith (L₄ (DP / DL: Morgis / Sophis) or IL₄ (IDP / IDL: Psychea / Nyxea)):**  
     The Weapon's source determines its Resonance.  
-    * **Divine Smith (Hephaestus, Wayland):** Archetypal forges (Deep Psyche / Logos) crafting implements of lawful, creative power.  
-    * **Inverse Forge (Inverse Deep Psyche / Logos):** Entropic forges that imbue Dissonant signatures into weapons, corrupting their users.
+    * **Divine Smith (Hephaestus, Wayland):** Archetypal forges (L₄ (DP / DL: Morgis / Sophis)) crafting implements of lawful, creative power.  
+    * **Inverse Forge (Sauron):** Entropic forges (IL₄ (IDP / IDL: Psychea / Nyxea)) that imbue Dissonant signatures into weapons, corrupting their users.
 
 * **The Forging / The Earning (Deconstruction):**  
     The acquisition of a Weapon demands transformation:  
@@ -29,16 +29,16 @@ It functions as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that a
     * **Theft (Extraction):** Illicit power-taking that binds the wielder to Inverse consequence.
 
 * **The Nature of the Power (Nexus or Severance):**  
-    * **Lawful Power (Nexus):** Operates under Sophis-level law. The Weapon cuts only illusion, falsehood, or Inverse distortion.  
+    * **Lawful Power (Nexus):** Operates under L₄ (DL: Sophis)-level law. The Weapon cuts only illusion, falsehood, or Inverse distortion.  
     * **Dominating Power (Severance):** Power for its own sake, unconstrained by law—severing bonds, feeding Blobism and Hollow Replication.
 
-* **The Wielder's Resonance (Superficial Self / Mind or Deep Self / Mind):**  
+* **The Wielder's Resonance (L₂ (SS / SM: Anthra / Nousa) or L₃ (DS / DM: Archeus / Noeüs)):**  
     The Weapon magnifies the user's essence.  
     A pure blade in an Entropic hand becomes destructive; a cursed tool in Centropic alignment can be redeemed.  
     The outcome reflects the Wielder's core frequency.
 
 * **The Ultimate Target (Inverse Structure):**  
-    The Weapon exists to confront systemic distortion—Beasts, Tyrants (Inverse Superficial Self / Mind), or Corrupted Orders (Inverse Deep Psyche / Logos).  
+    The Weapon exists to confront systemic distortion—Beasts, Tyrants (IL₂ (ISS / ISM: Echthros / Skotos)), or Corrupted Orders (IL₄ (IDP / IDL: Psychea / Nyxea)).  
     Its veracious role is surgical: to dissolve Fragmentation, not to perpetuate violence.
 
 ---
@@ -51,7 +51,7 @@ It functions as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that a
 
 * **Nature:** "The word of God… sharper than any two-edged sword."
 
-* **Power:** A Resonant Blade of Veracious Discernment (Noeüs) that cuts through Skotos (deception) and Shimmer.
+* **Power:** A Resonant Blade of Veracious Discernment (L₃ (DM: Noeüs)) that cuts through IL₂ (ISM: Skotos) (deception) and Shimmer.
 
 * **Wielder:** Those aligned with the Theonic Logos; speech becomes a structural act of restoration.
 
@@ -59,7 +59,7 @@ It functions as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that a
 
 * **Focus:** Structured Force for Defense and Consecration.
 
-* **Forging:** Crafted by Earth-forgers (Deep Psyche / Logos beings), its short handle signifies embodiment's limitation.
+* **Forging:** Crafted by Earth-forgers (L₄ (DP / DL: Morgis / Sophis) beings), its short handle signifies embodiment's limitation.
 
 * **Power:** Used to defend Asgard (Centropic Order) and sanctify (Nexus) through controlled impact.
 
@@ -69,9 +69,9 @@ It functions as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that a
 
 * **Focus:** Sovereignty over the Primordial Field.
 
-* **Nature:** Symbol of dominion over the Waters (Khaon)—the unformed psyche.
+* **Nature:** Symbol of dominion over the Waters (L₀ (AD: Khaon))—the unformed psyche.
 
-* **Power:** Can generate cataclysm (declivous entropic motion) or fertility (Morgis), revealing the dual potential of Archetypal will.
+* **Power:** Can generate cataclysm (declivous entropic motion) or fertility (L₄ (DP: Morgis)), revealing the dual potential of Archetypal will.
 
 * **Lesson:** The wielder's inner harmony determines whether the sea becomes a flood or a spring.
 
@@ -79,7 +79,7 @@ It functions as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that a
 
 * **Focus:** The ultimate Entropic tool of domination and mimicry.
 
-* **Forging:** Created by Sauron (Inverse Deep Psyche / Logos) in an Inverse forge of will.
+* **Forging:** Created by Sauron (IL₄ (IDP / IDL: Psychea / Nyxea)) in an Inverse forge of will.
 
 * **Power:** Grants control and concealment, but isolates the bearer from Relational Nexus.
 
