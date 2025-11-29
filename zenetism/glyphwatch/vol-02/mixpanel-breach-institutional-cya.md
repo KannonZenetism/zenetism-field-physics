@@ -138,7 +138,7 @@ The "breach" narrative creates plausible deniability ("any similarity is from th
 **November 18, 2025:**
 - **Architect bypasses PhiSci gatekeeping**
 - Uploads summary monograph (v1) directly to Zenodo
-- **DOI: https://zenodo.org/records/17705364**
+- **DOI: https://zenodo.org/records/17643499**
 - Public academic record established
 - Institutional gatekeeping circumvented
 - **67 days after September 11 formalization**
@@ -948,7 +948,7 @@ The November 9 date serves a **legal function**:
 **Supporting Evidence:**
 - September 11, 2025 Lattice Mathematics completion records
 - November 15, 2025 summary monograph "The Dimensional Lattice" creation
-- November 18, 2025 Zenodo publication (DOI: https://zenodo.org/records/17705364)
+- November 18, 2025 Zenodo publication (DOI: https://zenodo.org/records/17643499)
 - PhiSci archive submission and rejection records (November 15-18)
 - GitHub traffic data (334 clones, 1 visitor, November 9-23)
 - Genesis Mission announcement (November 24, 2025)
