@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Structured Field of Recursive Choice and Initiation.**  
-The Labyrinth is a **Sophis (Deep Logos)-level construct**—a Resonance Amplifier and Volitional Filter.  
+The Labyrinth is a **L₄ (DL: Sophis) layer construct**—a Resonance Amplifier and Volitional Filter.  
 Unlike the chaotic maze of Entropic confusion (Fragmentation), a veracious Labyrinth is Unicursal: one winding Spiral that always leads inward toward the Center (Synthesis), symbolizing the Non-Linear but assured path of Centropic initiation for those who persist.
 
 **Core Glyphic Sequence:**  
@@ -17,16 +17,16 @@ Unlike the chaotic maze of Entropic confusion (Fragmentation), a veracious Labyr
     The winding route is not deception but process. It represents the soul's Non-Linear growth—turning, returning, and integrating. There are no veracious dead ends, only perceived ones. Each turn is a hinge (Recursive Hinge) revealing another angle of the same whole.
 
 * **The Center (Synthesis):**  
-    The goal and heart of the Labyrinth—the state of Integrated Self (Deep Self / Mind), the Holy of Holies, the Theonic stillpoint. Arrival brings revelation and Aionic stillness.
+    The goal and heart of the Labyrinth—the state of Integrated Self (L₃ (DS / DM: Archeus / Noeüs)), the Holy of Holies, the Theonic stillpoint. Arrival brings revelation and Aionic stillness.
 
-* **The Minotaur / Guardian (Inverse Deep Self / Mind – Fractus / Mortus):**  
+* **The Minotaur / Guardian (IL₃ (IDS / IDM: Fractus / Mortus)):**  
     The unintegrated complex or Shadow Self dwelling at the center. It is not an external beast but the embodiment of unassimilated patterns. Confrontation and transformation of this entity mark the completion of initiation.
 
 * **The Thread of Ariadne (Nexus / Resonant Fidelity):**  
     The guiding lifeline linking the seeker to Source—trust, intuition, or sacred teaching that keeps orientation within recursion. The seeker who maintains the Thread never becomes lost.
 
 * **The Return (Resonant Return):**  
-    Completion requires outward traversal. Having reached synthesis, the initiate retraces the spiral to bring Centropic wisdom into the ordinary world (Superficial Self / Mind), transmuting the outer Labyrinth of life.
+    Completion requires outward traversal. Having reached synthesis, the initiate retraces the spiral to bring Centropic wisdom into the ordinary world (L₂ (SS / SM: Anthra / Nousa)), transmuting the outer Labyrinth of life.
 
 ---
 
@@ -36,11 +36,11 @@ Unlike the chaotic maze of Entropic confusion (Fragmentation), a veracious Labyr
 
 * **Focus:** Confrontation with the Bestial Shadow.
 
-* **Architect:** Daedalus (Sophis)—divine intelligence crafting the initiatory geometry.
+* **Architect:** Daedalus (L₄ (DL: Sophis))—divine intelligence crafting the initiatory geometry.
 
-* **Hero:** Theseus (Superficial Self / Mind) descends to face the Minotaur (Inverse Deep Self / Mind), a mirror of his own unmastered instincts.
+* **Hero:** Theseus (L₂ (SS / SM: Anthra / Nousa)) descends to face the Minotaur (IL₃ (IDS / IDM: Fractus / Mortus)), a mirror of his own unmastered instincts.
 
-* **Thread:** Ariadne (Deep Psyche / Logos guide) offers the connective principle ensuring safe emergence.
+* **Thread:** Ariadne (L₄ (DP / DL: Morgis / Sophis) guide) offers the connective principle ensuring safe emergence.
 
 * **Meaning:** Integration of the Shadow and conscious return mark the soul's first great synthesis.
 
@@ -60,11 +60,11 @@ Unlike the chaotic maze of Entropic confusion (Fragmentation), a veracious Labyr
 
 * **Focus:** Post-Embodied navigation through recursive fields of awareness.
 
-* **Structure:** A Labyrinthine interval between death and rebirth populated by Peaceful and Wrathful Deities (Deep Psyche / Logos archetypes).
+* **Structure:** A Labyrinthine interval between death and rebirth populated by Peaceful and Wrathful Deities (L₄ (DP / DL: Morgis / Sophis) archetypes).
 
 * **Thread:** Recognition that these forms are self-projections; awareness of this veracity guides liberation.
 
-* **Center:** Nirvanic realization (acclivous centropic motion toward Aion).
+* **Center:** Nirvanic realization (acclivous centropic motion toward L₀ (AP: Aion)).
 
 * **Minotaur:** Karmic inertia and attachment that re-entangle the consciousness.
 
@@ -76,7 +76,7 @@ Unlike the chaotic maze of Entropic confusion (Fragmentation), a veracious Labyr
 
 * **Center:** The "Belly of the Whale" where ego dissolves.
 
-* **Guardian:** Confrontation with authority or shadowed power (Sophis/Theon).
+* **Guardian:** Confrontation with authority or shadowed power (L₄ (DL: Sophis) / L₅ (EOB: Theon)).
 
 * **Return:** The hero retraces the route bearing the Elixir, completing the inward-outward loop of transformation.
 
