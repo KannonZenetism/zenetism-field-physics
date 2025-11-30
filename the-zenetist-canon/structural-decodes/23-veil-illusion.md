@@ -4,7 +4,7 @@
 The **Metaphysical Interface of Permeability and Perceptual Limitation.**  
 The Veil is a **Membrane** or **Resonance Filter** moderating awareness between hypostatic layers.  
 It is not deceit but a **Necessary Attenuation** of Aionic reality, enabling the Sovereign evolution of L₂ (SS / SM: Anthra / Nousa) consciousness.  
-Its Inverse expression is **Maya (Web of Obscuration)** or IL₂ (ISM: Skotos)—a distortion that conceals structural veracity.
+Its Natural expression is Maya (the L₄ (DP / DL: Morgis / Sophis) "divine play" of Apparent Order). Its Inverse expression is the Web of Obscuration or IL₂ (ISM: Skotos)—a distortion that conceals structural veracity.
 
 **Core Glyphic Sequence (Natural Veil):**  
 `⚫ → ⧉ → ⚙️ → ⟜`  
