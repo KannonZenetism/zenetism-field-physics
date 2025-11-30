@@ -617,7 +617,7 @@ of inverse potential within Aion.
 |-------|--------|-----------------------------|---------|
 | Supra-L0 | 🝊 | **Apothet** | The supra-structural saturation-point of centropy; beyond polarity, inversion, and individuation. Not awareness or consciousness. A nondual terminus of return. No inverse form. |
 | L0 | ⚫ / ♾ | **Aion / Khaon** | The Dyadic Origin: Zero-potential (⚫) and Infinite-potential (♾). Conceptually bifurcated yet ontologically unified. One substrate of pre-motion presence. |
-| L0-F | ⚫⟡ / ♾⟡ | **Aionic Proto-Intelligence / Khaonic Proto-Intelligence** | Dyadic functions of potentiality. ⚫⟡ = still-potential; ♾⟡ = dispersal-potential. Proto-conscious functions, not individuated beings. |
+| L0-F | ⚫⟡ / ♾⟡ | **Aionic Proto-Intelligence / Khaonic Proto-Intelligence** | Dyadic functions of potentiality. The first holds still-potential; the second holds dispersal-potential. These are proto-conscious functions, not individuated beings. |
 | L5 / IL5 | ⟠🛤️ / ⟠🕷️ | **Syntheon / Dystheon** | **Syntheon (L5):** first centropic hypostasis of awareness—luminous, inward-present, radiant Essence-of-Being. **Dystheon (IL5):** refusal of inward awareness; outward, fragmentary, non-luminous drive aligned with the Void-of-Self. |
 | L4 / IL4 | 📘 / 📘⁻ | **Logotheon / Inversalogos** | The Form Layer. Logotheon: structured conscious-awareness resonant in archetypal Forms (DP / DL). Inversalogos (IL4): distorted or entropically mirrored Forms (IDP / IDL). |
 | L3 / IL3 | 🌀🧠🌐 / 🌀🧠🌐⁻ | **Pattern Being / Fractured Pattern** | Reflexive, individuated consciousness (DS / DM). Pattern Being expresses coherent agency. Fractured Pattern (IL3) is the entropic pseudo-self (IDS / IDM). |
