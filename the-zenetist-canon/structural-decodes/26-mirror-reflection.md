@@ -2,32 +2,32 @@
 
 **Primary Structural Diagnosis:**  
 The **Principle of Self-Recognition Through Structural Correspondence.**  
-The Mirror is a **Membrane**—a Resonant Interface that does not create but **reveals**. It reflects the inherent pattern of what stands before it, functioning as a **metaphysical instrument of Self-Knowledge (Noeüs)** that displays either **Coherence** or **Fragmentation** with impartial precision.
+The Mirror is a **Membrane**—a Resonant Interface that does not create but **reveals**. It reflects the inherent pattern of what stands before it, functioning as a **metaphysical instrument of Self-Knowledge (L₃ (DM: Noeüs))** that displays either **Coherence** or **Fragmentation** with impartial precision.
 
 **Core Glyphic Sequence:**  
-`ᛞ → ◯△ → 📱 → ↺ | ⟳`  
-*(The mirror principle, when unclouded, provides revelation that can lead to resonant return or entropic recursion depending on response.)*
+`ᛞ → ✨ → 📱 → ↺ | ⟳`  
+*(The mirror principle, when clarified by Theonic Light, provides revelation that leads to either Resonant Return or Entropic Recursion depending on response.)*
 
 ---
 
 ## Universal Structural Analysis
 
-* **Reflective Surface (Sophis / Deep Logos):**  
-    Represents impersonal law and structural accuracy. The mirror's clarity equals its purity; distortion (Skotos) yields spurious reflection.
+* **Reflective Surface (L₄ (DL: Sophis)):**  
+    Represents impersonal law and structural accuracy. The mirror's clarity equals its purity; distortion (IL₂ (ISM: Skotos)) yields spurious reflection.
 
-* **The Gaze / The Beholder (Superficial Self / Mind or Deep Self / Mind):**  
+* **The Gaze / The Beholder (L₂ (SS / SM: Anthra / Nousa) or L₃ (DS / DM: Archeus / Noeüs)):**  
     Consciousness engages the mirror. Interpretation and volitional reaction to what is seen determine whether awareness advances or collapses.
 
 * **The Reflection (Revealed Structure):**  
-    * Can unveil *Beauty* (Coherence, divine likeness).  
-    * Can unveil *Distortion* (Fragmentation or Inversion).  
+    * Can unveil **Beauty** (Coherence, divine likeness).  
+    * Can unveil **Distortion** (Fragmentation or Inversion).  
     * Is a symbolic representation, not the Self itself—an encoded report of current resonance.
 
-* **Act of Recognition (Noeüs):**  
+* **Act of Recognition (L₃ (DM: Noeüs)):**  
     The decisive moment of discernment. Does the observer accept the reflection as veracious? Do they assume responsibility or reject the image? The integrity of this act determines trajectory.
 
 * **Outcome:**  
-    * **Integration (Resonant Return):** Acceptance and realignment. The Superficial Self / Mind reconciles with the Deep Self / Mind ideal, leading to therapeutic deconstruction and synthesis.  
+    * **Integration (Resonant Return):** Acceptance and realignment. The L₂ (SS / SM: Anthra / Nousa) reconciles with the L₃ (DS / DM: Archeus / Noeüs) ideal, leading to therapeutic deconstruction and synthesis.  
     * **Rejection (Entropic Recursion):** Denial or fixation on the image; blame cast on the mirror itself. This initiates entropic recursion—repetition without growth.
 
 ---
@@ -40,13 +40,13 @@ The Mirror is a **Membrane**—a Resonant Interface that does not create but **r
 
 * **Mirror:** Pool of water as natural reflector.
 
-* **Mis-recognition:** The Superficial Self / Mind mistakes image for self, worshipping its own projection.
+* **Mis-recognition:** The L₂ (SS / SM: Anthra / Nousa) mistakes image for self, worshipping its own projection.
 
 * **Outcome:** Recursive isolation (Entropic Recursion); energy collapses inward through self-admiration, halting evolution.
 
 ### 2. "Through a Glass, Darkly" (Christian)
 
-* **Focus:** Partial perception through the temporal Superficial Self / Mind lens.
+* **Focus:** Partial perception through the temporal L₂ (SS / SM: Anthra / Nousa) lens.
 
 * **Mirror:** Polished metal yielding dim reflection.
 
@@ -56,11 +56,11 @@ The Mirror is a **Membrane**—a Resonant Interface that does not create but **r
 
 ### 3. The Magic Mirror (Snow White)
 
-* **Focus:** Externalized judgment and inflated Superficial Self / Mind.
+* **Focus:** Externalized judgment and inflated L₂ (SS / SM: Anthra / Nousa).
 
 * **Mirror:** Oracle of comparative worth.
 
-* **Dynamic:** The Inverse ego (Inverse Superficial Self / Mind) seeks validation, not veracity.
+* **Dynamic:** The Inverse ego (IL₂ (ISS / ISM: Echthros / Skotos)) seeks validation, not veracity.
 
 * **Outcome:** When objective reflection threatens illusion, denial triggers violence and downfall (Entropic Recursion → Declivous Entropy).
 
@@ -68,7 +68,7 @@ The Mirror is a **Membrane**—a Resonant Interface that does not create but **r
 
 * **Focus:** Reflection of desire rather than structure.
 
-* **Mirror:** Reveals Deep Psyche-level longing, not factual coherence.
+* **Mirror:** Reveals L₄ (DP: Morgis)-level longing, not factual coherence.
 
 * **Function:** Diagnostic of motivation and attachment.
 
@@ -83,7 +83,7 @@ Reality itself is a multifaceted mirror, continuously reflecting our Resonant co
 Perception of conflict or harmony outside mirrors the same within; every relationship is a reflective lesson in coherence.
 
 It teaches **radical self-honesty.**  
-To advance spiritually, one must continually gaze into the mirror of experience, discerning distortion without defense or delusion. Shimmer and self-justification obscure clarity; courage (Archeus) and will (Anthra) restore it.
+To advance spiritually, one must continually gaze into the mirror of experience, discerning distortion without defense or delusion. Shimmer and self-justification obscure clarity; courage (L₃ (DS: Archeus)) and will (L₂ (SS: Anthra)) restore it.
 
 Its message:  
 We cannot evade our own pattern. The task is to **see clearly, integrate wholly, and act lawfully.**  
