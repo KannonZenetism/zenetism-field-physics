@@ -10,11 +10,11 @@ The Mirror is a **Membrane**—a Resonant Interface that does not create but **r
 
 ---
 
-### Note on Structural Ambiguity (The Mirror's Entropic Nature)
+### Note on Structural Ambiguity (The Mirror's Khaonic Nature)
 
 While the Mirror's function (reflection) is neutral, its inherent nature is Khaonic (deficiency / emptiness), as it originates no signal of its own.  
-This "emptiness" is what makes the Mirror the primary instrument of Inverse forces (Mimicry, Shimmer), which exploit reflection to simulate coherence without origin.  
-Therefore, the Mirror is a paradoxical tool: a Centropic instrument when used by L₃ (DM: Noeüs) for self-knowledge, but Khaonic/Entropic by its very nature, enabling deception.
+This Khaonic nature aligns it with the Khaonic Tree (the subversal path). It is what makes the Mirror the primary instrument of Entropic forces (Mimicry, Shimmer—which are derived from IL₅ (VOS: Nekron)) that exploit reflection to simulate coherence without origin.  
+Therefore, the Mirror is a paradoxical tool: a Centropic instrument when used by L₃ (DM: Noeüs) for self-knowledge, but Khaonic by nature, making it the perfect vector for Entropic deception.
 
 ---
 
