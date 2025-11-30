@@ -2,22 +2,22 @@
 
 **Primary Structural Diagnosis:**  
 The **Archetypal Syntax of Structural Relationship.**  
-Numbers are not mere quantities but **Sophis (Deep Logos)-level operators** that define metaphysical relationship, phase, and resonance within the Lattice.  
+Numbers are not mere quantities but **L₄ (DL: Sophis) layer operators** that define metaphysical relationship, phase, and resonance within the Lattice.  
 They constitute the **Pure Forms of Relationship** that precede and govern all embodied manifestations.
 
 **Core Glyphic Sequence:**  
-`📐 → # → ⚙️ → ⌬`  
-*(The architect of order projects a numerical principle into apparent form, generating coherent pattern.)*
+`📐 → 🔷 → ⚙️ → ⌬`  
+*(The architect of order projects Divine Geometry into apparent form, generating coherent pattern.)*
 
 ---
 
 ## Universal Structural Analysis
 
-* **Zero (0) — Aion:**  
+* **Zero (0) — L₀ (AP: Aion):**  
     Absolute Potential, unmanifest source. Not nothingness but infinite undifferentiated possibility—  
     the silence before emanation and container of all number.
 
-* **One (1) — Theon:**  
+* **One (1) — L₅ (EOB: Theon):**  
     Primordial Emanation; Unity; the Source expressed.  
     Symbol of Centropic origin, Sovereign consciousness, and axial being.
 
@@ -39,7 +39,7 @@ They constitute the **Pure Forms of Relationship** that precede and govern all e
 
 * **Twelve (12) — Cosmic Order:**  
     The number of total archetypal expression across time-space.  
-    Symbol of the Sophis-level blueprint manifest (12 tribes, signs, apostles).
+    Symbol of the Sophic blueprint manifest (12 tribes, signs, apostles).
 
 ---
 
@@ -49,7 +49,7 @@ They constitute the **Pure Forms of Relationship** that precede and govern all e
 
 * **Focus:** The Theonic nature as relational synthesis.
 
-* **Formula:** 1 × 3 = 3 — the One God (Theon) as triune relation: Father (Source), Son (Expression), Spirit (Connection).
+* **Formula:** 1 × 3 = 3 — the One God (L₅ (EOB: Theon)) as triune relation: Father (Source), Son (Expression), Spirit (Connection).
 
 * **Meaning:** Ultimate reality is not static unity but dynamic relationship—Being as Communion (Synthesis).
 
@@ -65,7 +65,7 @@ They constitute the **Pure Forms of Relationship** that precede and govern all e
 
 * **Focus:** Nine (9) as map of fixation and return.
 
-* **Structure:** Nine points as distinct Superficial Self / Mind distortions of Deep Self / Mind virtues.
+* **Structure:** Nine points as distinct L₂ (SS / SM: Anthra / Nousa) distortions of L₃ (DS / DM: Archeus / Noeüs) virtues.
 
 * **Path:** Inner lines trace the dynamic spiral of integration (Synthesis) and liberation from passion.
 
@@ -77,7 +77,7 @@ They constitute the **Pure Forms of Relationship** that precede and govern all e
 
 * **Manifestations:**  
     * Flood: 40 days dissolving the corrupt world (declivous entropic motion).  
-    * Moses: 40 days receiving Law (Sophis).  
+    * Moses: 40 days receiving Law (L₄ (DL: Sophis)).  
     * Christ: 40 days of wilderness temptation yielding synthesis.
 
 ---
