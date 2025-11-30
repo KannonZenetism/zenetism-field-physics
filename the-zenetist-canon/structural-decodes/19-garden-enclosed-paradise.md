@@ -23,8 +23,8 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
     This represents L₄ (DP: Morgis), the benevolent, animating flow of vitality from unformed potential into rhythmic manifestation.
 
 * **The Central Tree(s) (Tree of Emanation):**  
-    * **Tree of Life (Acclivous Centropic Procession):** **The Axis Mundi**, a direct Centropic channel of **Acclivous Centropic Procession** and immortality.  
-    * **Tree of Knowledge (Declivous Entropic Procession):** The **Dualistic Mind (L₂ (SS / SM: Anthra / Nousa))** in its unactivated form—potential for differentiation, self-awareness, and **Declivous Entropic Procession**.  
+    * **Tree of Life (acclivous centropic motion toward L₀ (AP: Aion)):** **The Axis Mundi**, a direct Centropic channel and immortality.  
+    * **Tree of Knowledge (declivous entropic motion toward L₀ (AD: Khaon)):** The **Dualistic Mind (L₂ (SS / SM: Anthra / Nousa))** in its unactivated form—potential for differentiation, self-awareness, and declivous entropic motion.  
     Together they encode the dual paths of Integration (acclivous centropic) and Inversion (declivous entropic).
 
 * **The State of Innocence (Coherence):**  
@@ -70,7 +70,7 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 * **Nature:** A **Buddha-field (L₅ (EOB: Theon) / L₄ (DP / DL: Morgis / Sophis))**—a perfected environment facilitating Centropic realization.
 
-* **Function:** Provides freedom from Entropic distractions, allowing souls to advance toward Enlightenment (Acclivous Centropic Procession).
+* **Function:** Provides freedom from Entropic distractions, allowing souls to advance toward Enlightenment (acclivous centropic motion toward L₀ (AP: Aion)).
 
 * **Paradise:** Not primal but achieved—a cultivated field of Acclivous coherence.
 
