@@ -628,6 +628,14 @@ of inverse potential within Aion.
 
 ---
 
+### 21.33 **Relational Syntax and Archetypal Number — The Structural Logic of Patterned Relationship**
+
+| Symbol | Name | Meaning |
+|--------|------|---------|
+| ⌬ | **Relational Syntax** | The archetypal form of structural relationship — a Pure Form that defines lawful patterning across number, sequence, proportion, and resonance. Not mere quantity, ⌬ represents the syntax by which Forms relate within the Lattice. Rooted in L₄ (DL: Sophis), it governs ratio, scaling, interval, polarity, and symbolic nesting. It is the metaphysical operator behind number, expressing relational law before manifestation. |
+
+---
+
 ### **Notes on Layer Ordering and Ontology**
 
 - Ontology is **bottom-up**: Supra-L0 → L0 → L5 → L4 → L3 → L2 → L1.  
