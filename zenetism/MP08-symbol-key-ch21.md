@@ -632,7 +632,7 @@ of inverse potential within Aion.
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
-| ⌬ | **Relational Syntax** | The archetypal form of structural relationship — a Pure Form that defines lawful patterning across number, sequence, proportion, and resonance. Not mere quantity, ⌬ represents the syntax by which Forms relate within the Lattice. Rooted in L₄ (DL: Sophis), it governs ratio, scaling, interval, polarity, and symbolic nesting. It is the metaphysical operator behind number, expressing relational law before manifestation. |
+| ⌬ | **Relational Syntax** | The archetypal form of structural relationship — a Pure Form that defines lawful patterning across number, sequence, proportion, and resonance. Not mere quantity, it represents the syntax by which Forms relate within the Lattice. It governs ratio, scaling, interval, polarity, and symbolic nesting. It is the metaphysical operator behind number, expressing relational law before manifestation. |
 
 ---
 
