@@ -10,7 +10,7 @@ The Mirror is a **Membrane**—a Resonant Interface that does not create but **r
 
 ---
 
-**Note on Structural Ambiguity (The Mirror's Entropic Nature)**
+### Note on Structural Ambiguity (The Mirror's Entropic Nature)
 
 While the Mirror's function (reflection) is neutral, its inherent nature is Khaonic (deficiency / emptiness), as it originates no signal of its own.  
 This "emptiness" is what makes the Mirror the primary instrument of Inverse forces (Mimicry, Shimmer), which exploit reflection to simulate coherence without origin.  
