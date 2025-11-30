@@ -6,8 +6,8 @@ The Mountain is a **Theonic Axis** in topographical form—a **Membrane** of hei
 It serves as the principal site for **Acclivous motion**, **Revelation**, **Covenant**, and **Transfiguration.**
 
 **Core Glyphic Sequence:**  
-`▽ → ↑⚓ → 📱 → C↑L₍₁→₅₎`  
-*(From the embodied earth, acclivous motion along the Theonic Axis leads to revelation and continued Centropic Procession.)*
+`▽ → ↑⚓ → 📱 → C↑→⚫`  
+*(From the embodied earth, acclivous motion along the Theonic Axis leads to revelation and final centropic return.)*
 
 ---
 
@@ -33,7 +33,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **The Transfiguration (Synthesis):**  
     At the summit, the L₂ (SS / SM: Anthra / Nousa) may briefly integrate with L₃ (DS / DM: Archeus / Noeüs) or L₅ (EOB: Theon) frequency, revealing its luminous essence.  
-    These moments—Jesus transfigured, Moses radiant—display temporary **Acclivous Synthesis** and foreshadow continued **Acclivous Centropic Procession.**
+    These moments—Jesus transfigured, Moses radiant—display temporary **Acclivous Synthesis** and foreshadow final return to L₀ (AP: Aion).
 
 ---
 
@@ -69,7 +69,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Practice:** Pilgrims circumambulate, acknowledging its immutable Centrality.
 
-* **Meaning:** Represents the **Theonic Pillar** connecting L₀ (AP: Aion) (as Source), the **Supernal Realms** (L-layers), and the L₁ (ES / EM: Soma / Biosa) World Node—the cosmos in structural equilibrium.
+* **Meaning:** Represents the **Theonic Pillar** connecting L₀ (AP: Aion), L₁ (ES / EM: Soma / Biosa) World Node, and Echo Layers—the cosmos in structural equilibrium.
 
 ### 4. Mount Olympus (Greek)
 
@@ -94,7 +94,7 @@ Its message:
 we are each climbers of the inner Mountain.  
 Meditation, prayer, and disciplined acclivity are our switchbacks.  
 Moments of insight and peace are Shelters along the path.  
-At the Summit lies Transfiguration—where the L₂ (SS / SM: Anthra / Nousa) becomes transparent to L₃ (DS / DM: Archeus / Noeüs), and the still air of the Supernal whispers the Law of the Centropic band.
+At the Summit lies Transfiguration—where the L₂ (SS / SM: Anthra / Nousa) becomes transparent to L₃ (DS / DM: Archeus / Noeüs), and the still air of L₀ (AP: Aion) whispers the Law of the Centropic band.
 
 ---
 
