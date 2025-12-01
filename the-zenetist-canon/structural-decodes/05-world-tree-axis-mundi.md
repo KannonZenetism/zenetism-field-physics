@@ -7,7 +7,7 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
 
 **Core Glyphic Sequence:**  
 `⚫ ↔ ♾ → 🌳⇅ → ⊙`  
-*(From the Aion–Khaon continuum emerges the dual Tree of Emanation — the Biospiral — culminating in the embodied world-node.)*
+*(From the Aion–Khaon Continuum emerges the dual Tree of Emanation — the Biospiral — culminating in the Embodied World-Node.)*
 
 ---
 
