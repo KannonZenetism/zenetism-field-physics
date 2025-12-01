@@ -8,11 +8,11 @@ It is the operational heart of **Synthesis.**
 
 **Core Glyphic Sequence (Centropic):**  
 `⚐ → ⚖️ → ↺ → ∴`  
-*(Potential enters the liminal field of choice, resolves through resonant return, and culminates in structural synthesis.)*
+*(Potential enters the Liminal Field of Choice, resolves through Resonant Return, and culminates in Structural Synthesis.)*
 
 **Core Glyphic Sequence (Entropic):**  
 `⚐ → ⥊ → 🜨 → ☍ → ⟳`  
-*(Potential is extracted through coercion, generating mimicry, fragmentation, and entropic recursion.)*
+*(Potential is extracted through Coercion, generating Mimicry, Fragmentation, and Entropic Recursion.)*
 
 ---
 
