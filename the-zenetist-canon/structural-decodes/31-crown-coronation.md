@@ -2,11 +2,11 @@
 
 **Primary Structural Diagnosis:**  
 The **Recognition of Achieved Coherence and Lawful Sovereignty.**  
-The Crown represents the culmination of Centropic motion—the point at which the Superficial Self / Mind and Deep Self / Mind achieve perfect structural alignment, allowing consciousness to act as a lawful transmitter of Aionic order. It is not mere rulership but Integration: the enthronement of Coherence over Chaos within and without.
+The Crown represents the culmination of Centropic motion—the point at which the L₂ (SS / SM: Anthra / Nousa) and L₃ (DS / DM: Archeus / Noeüs) achieve perfect structural alignment, allowing consciousness to act as a lawful transmitter of Aionic order. It is not mere rulership but Integration: the enthronement of Coherence over Chaos within and without.
 
 **Core Glyphic Sequence:**  
-`⚙️ → ∴ → 👑 → ◎`  
-*(Apparent order is refined into synthesis, manifesting as lawful sovereignty and radiant coherence.)*
+`⚙️ → ∴ → 👑 → ✨◎`  
+*(Apparent order is refined into Synthesis, manifesting as lawful Sovereignty and Radiant Coherence.)*
 
 ---
 
@@ -16,15 +16,15 @@ The Crown represents the culmination of Centropic motion—the point at which th
     The structural seat of authority. It is both a literal and metaphysical platform where consciousness stabilizes. The throne is built upon Integrity (Membrane) and cannot support a dissonant occupant without collapse.
 
 * **The Crown:**  
-    The symbol of Harmonized Will (Anthra) and Wisdom (Noeüs). It sits at the summit (acclivous centropic motion), completing the vertical axis from Foundation to Apex. Each jewel represents an integrated archetype, the once-separated powers now unified.
+    The symbol of Harmonized Will (L₂ (SS: Anthra)) and Wisdom (L₃ (DM: Noeüs)). It sits at the summit (acclivous centropic motion), completing the vertical axis from Foundation to Apex. Each jewel represents an integrated archetype, the once-separated powers now unified.
 
 * **The Coronation (Ritual of Recognition):**  
-    The formal acknowledgment by Sophis or Theon that lawful authority has been attained. It is not self-bestowed; it must be witnessed by coherent intelligences, for sovereignty exists only within relational resonance.
+    The formal acknowledgment by L₄ (DL: Sophis) or L₅ (EOB: Theon) that lawful authority has been attained. It is not self-bestowed; it must be witnessed by coherent intelligences, for sovereignty exists only within relational resonance.
 
 * **The Robes and Scepter (Manifestation):**  
     Instruments of enacted law—signs that the internal state of Coherence can now govern the external world responsibly.
 
-* **The Halo (Radiant Aion):**  
+* **The Halo (Radiant L₀ (AP: Aion)):**  
     The luminous field surrounding the crowned being, representing Aionic saturation. This is the visible manifestation of the inward synthesis—the world seeing what the soul has become.
 
 ---
@@ -41,7 +41,7 @@ The Crown represents the culmination of Centropic motion—the point at which th
 
 * **Focus:** The Integration of Upper and Lower Kingdoms.
 
-* **Function:** The Red and White Crowns symbolize the unification of Dual Realms (Structured Pairs). The Pharaoh, as incarnate Theon, embodies the synthesis of Heaven and Earth, Order and Motion.
+* **Function:** The Red and White Crowns symbolize the unification of Dual Realms (Structured Pairs). The Pharaoh, as incarnate L₅ (EOB: Theon), embodies the synthesis of Heaven and Earth, Order and Motion.
 
 ### 3. The Vajra Crown (Tibetan Buddhism)
 
@@ -53,13 +53,13 @@ The Crown represents the culmination of Centropic motion—the point at which th
 
 * **Focus:** The Theonic endorsement of lawful leadership.
 
-* **Function:** The anointing with oil (Morgis) symbolizes infusion with Divine Life; the placing of the crown acknowledges the transfer of Aionic mandate. The monarch becomes a living Membrane between heaven and earth.
+* **Function:** The anointing with oil (L₄ (DP: Morgis)) symbolizes infusion with Divine Life; the placing of the crown acknowledges the transfer of Aionic mandate. The monarch becomes a living Membrane between heaven and earth.
 
 ---
 
 ## Summary: The Esoteric Meaning
 
-The Crown represents the moment consciousness becomes self-governing in harmony with the cosmic order. It is the symbol of realized integration: Will (Anthra), Wisdom (Noeüs), and Love (Morgis) in lawful alignment.
+The Crown represents the moment consciousness becomes self-governing in harmony with the cosmic order. It is the symbol of realized integration: Will (L₂ (SS: Anthra)), Wisdom (L₃ (DM: Noeüs)), and Love (L₄ (DP: Morgis)) in lawful alignment.
 
 It teaches that sovereignty is not seized but earned. The path to the Crown passes through the Forge, the Trial, and the Labyrinth. Only the one who has faced Fragmentation and emerged as Synthesis can bear it without collapse.
 
