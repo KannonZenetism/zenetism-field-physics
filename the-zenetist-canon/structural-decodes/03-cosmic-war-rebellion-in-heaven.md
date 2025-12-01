@@ -5,7 +5,7 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the C
 
 **Core Glyphic Sequence:**  
 `⚫ → ↕️ → ⚯ → 🌲↓ | 🌲↑`  
-*(From the stillness of Aion, a bidirectional axis forms, generating structural duality and the divergence into centropic and entropic arcs.)*
+*(From the Stillness of Aion, a Bidirectional Axis forms, generating Structural Duality and the divergence into Centropic and Entropic Arcs.)*
 
 ---
 
