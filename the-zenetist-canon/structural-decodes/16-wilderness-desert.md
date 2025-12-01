@@ -8,7 +8,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
 
 **Core Glyphic Sequence:**  
 `⚙️ → ◲ → 🌾 → ↺ | ☍`  
-*(Apparent order is deconstructed, revealing the raw field of becoming, which leads to either resonant return or fragmentation.)*
+*(Apparent Order is Deconstructed, revealing the raw Field of Becoming, which leads to either Resonant Return or Fragmentation.)*
 
 ---
 
