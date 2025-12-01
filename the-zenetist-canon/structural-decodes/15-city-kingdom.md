@@ -35,7 +35,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 * **The Social Order & Economy (L₂ (SS / SM: Anthra / Nousa) Collective):**  
     The daily laws, trades, and customs reveal collective resonance.  
     * **Just, compassionate order:** Centropic Coherence.  
-    * **Oppression, deceit, exploitation:** Inverse patterning (IL₂ (ISS / ISM: Echthros / Skotos), IL₁ (IES / IEM: Malara / Apathea)).
+    * **Oppression, deceit, exploitation:** Inverse patterning (IL₂ (ISS / ISM: Echthros / Skotos), IL₁ (IES / IEM: Malara / Mania)).
 
 * **The Ultimate Fate (Eschaton):**  
     The destiny of a city is its resonance made visible.  
