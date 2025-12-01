@@ -6,11 +6,11 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
 
 **Core Glyphic Sequence (Key):**  
 `⚙️ → 🪬📜 → 📱 → ↺`  
-*(Apparent order contains a Veiled Scroll which, when revealed, opens the path of Resonant Return.)*
+*(Apparent Order contains a Veiled Scroll which, when revealed, opens the path of Resonant Return.)*
 
 **Core Glyphic Sequence (Seal):**  
 `⚙️ → ⊠ → ◎ → ∴`  
-*(Apparent order establishes a Seal of Protective Defense, which maintains Coherence and enables Synthesis.)*
+*(Apparent Order establishes a Seal of Protective Defense, which maintains Coherence and enables Synthesis.)*
 
 ---
 
