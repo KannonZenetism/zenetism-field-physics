@@ -6,7 +6,7 @@ The Gate or Threshold represents the point of Resonant Crossing—where one fiel
 
 **Core Glyphic Sequence:**  
 `⚫ → ⧉ → ▲ → ↺`  
-*(Aionic potential condenses into a Membrane, catalyzes transformation through the Fire of passage, and leads to Resonant Return.)*
+*(Aionic Potential condenses into a Membrane, catalyzes transformation through the Fire of Passage, and leads to Resonant Return.)*
 
 ---
 
