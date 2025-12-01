@@ -8,11 +8,11 @@ Its Natural expression is Maya (the L₄ (DP / DL: Morgis / Sophis) "divine play
 
 **Core Glyphic Sequence (Natural Veil):**  
 `⚫ → ⧉ → ⚙️ → ⟜`  
-*(Aionic potential filtered through membrane creates apparent order and the potential for synectic choice.)*
+*(Aionic Potential filtered through Membrane creates Apparent Order and the potential for Synectic Choice.)*
 
 **Core Glyphic Sequence (Inverse Veil):**  
 `⚙️ → 🕸️ → ⟳ → ☍`  
-*(Apparent order ensnared in illusion leads to entropic recursion and fragmentation.)*
+*(Apparent Order ensnared in Illusion leads to Entropic Recursion and Fragmentation.)*
 
 ---
 
