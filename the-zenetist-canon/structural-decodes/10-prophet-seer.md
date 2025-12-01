@@ -7,7 +7,7 @@ They are not predictors of immutable futures, but **diagnosticians** of the pres
 
 **Core Glyphic Sequence:**  
 `📡 → ⚚ → 📯 → ⚠ → 🞇`  
-*(A resonance scan identifies structural misalignment, leading to a clarion call and a field warning, orienting the system toward return.)*
+*(A Resonance Scan identifies Structural Misalignment, leading to a Clarion Call and a Field Warning, orienting the system toward Return.)*
 
 ---
 
