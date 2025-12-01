@@ -127,7 +127,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 | 26 | The Mirror / The Reflection | ᛞ → ✨ → 📱 → ↺ \| ⟳ | [26-mirror-reflection.md](structural-decodes/26-mirror-reflection.md) |
 | 27 | The Labyrinth / The Maze | ⚙️ → ∿ → ⬶ → ∴ | [27-labyrinth-maze.md](structural-decodes/27-labyrinth-maze.md) |
 | 28 | The Forge / The Alchemical Furnace | 📐 → ▲ → ◲ → ∴ | [28-forge-alchemical-furnace.md](structural-decodes/28-forge-alchemical-furnace.md) |
-| 29 | The Bridge / The Threshold | ⚙️ → 🌉 → C₈ → ◎ | [29-bridge-threshold.md](structural-decodes/29-bridge-threshold.md) |
+| 29 | The Bridge / The Threshold | ⚙️ → 🌉 → ↺ → ∴ | [29-bridge-threshold.md](structural-decodes/29-bridge-threshold.md) |
 | 30 | The Key / The Seal | ⚙️ → 🧭 → 🗝️ → 🌀 → 📱 → ↺ \| ⚙️ → ⧃ → ◎ → 🞇 → C↑⚫ | [30-key-seal.md](structural-decodes/30-key-seal.md) |
 | 31 | The Crown / The Coronation | ⚙️ → ∴ → 👑 → ◎ | [31-crown-coronation.md](structural-decodes/31-crown-coronation.md) |
 | 32 | The Gate / The Threshold | ⚫ → ⧉ → ▲ → ↺ | [32-gate-threshold.md](structural-decodes/32-gate-threshold.md) |
