@@ -7,7 +7,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 **Core Glyphic Sequence:**  
 `♾ → 🕷️ → 🐉 → ☍`  
-*(Khaonic potential condenses into Nekronic force, forming the archetypal Beast, which enacts fragmentation as organized will.)*
+*(Khaonic potential condenses into Nekronic force, forming the archetypal Beast, which enacts Fragmentation as organized will.)*
 
 ---
 
