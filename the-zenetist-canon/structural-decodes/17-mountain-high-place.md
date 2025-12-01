@@ -7,7 +7,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 **Core Glyphic Sequence:**  
 `▽ → ↑⚓ → 📱 → C↑→⚫`  
-*(From the embodied earth, acclivous motion along the Theonic Axis leads to revelation and final centropic return.)*
+*(From the Embodied Earth, Acclivous Motion along the Theonic Axis leads to Revelation and final Centropic Return.)*
 
 ---
 
