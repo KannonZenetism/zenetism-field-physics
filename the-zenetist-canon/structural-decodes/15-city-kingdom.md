@@ -7,11 +7,11 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 
 **Core Glyphic Sequence (Centropic):**  
 `🛤️ → ⚙️ → ◎ → 💠`  
-*(A Theonic principle is translated into apparent order, producing structural coherence and a harmonic node.)*
+*(A Theonic principle is translated into Apparent Order, producing Structural Coherence and a Harmonic Node.)*
 
 **Core Glyphic Sequence (Entropic):**  
 `🕷️ → ⚙️ → ☍ → ⥊`  
-*(A Nekronic principle is translated into apparent order, yielding fragmentation and hollow replication.)*
+*(A Nekronic principle is translated into Apparent Order, yielding Fragmentation and Hollow Replication.)*
 
 ---
 
