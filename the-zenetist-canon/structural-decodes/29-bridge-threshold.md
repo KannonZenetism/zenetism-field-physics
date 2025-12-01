@@ -6,7 +6,7 @@ The Bridge represents the operational structure by which Coherence crosses Hypos
 
 **Core Glyphic Sequence:**  
 `⚙️ → 🌉 → ↺ → ∴`  
-*(Apparent order gives rise to The Living Bridge, enabling a Resonant Return that culminates in Synthesis.)*
+*(Apparent Order gives rise to The Living Bridge, enabling a Resonant Return that culminates in Synthesis.)*
 
 ---
 
