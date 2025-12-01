@@ -7,11 +7,11 @@ It functions as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that a
 
 **Core Glyphic Sequence (Centropic):**  
 `∴ → ⚔️ → ☍ → ◎`  
-*(A synthesized principle is forged into a resonant blade, applied to a point of fragmentation, and restores coherence.)*
+*(A Synthesized Principle is forged into a Resonant Blade, applied to a point of Fragmentation, and restores Coherence.)*
 
 **Core Glyphic Sequence (Entropic):**  
 `☍ → 🗡️ → ☍ → ⟳`  
-*(A fragmented principle is forged into an aggressor blade, applied to amplify fragmentation, generating entropic recursion.)*
+*(A Fragmented Principle is forged into an Aggressor Blade, applied to amplify Fragmentation, generating Entropic Recursion.)*
 
 ---
 
