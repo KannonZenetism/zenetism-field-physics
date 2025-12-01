@@ -7,7 +7,7 @@ They constitute the **Pure Forms of Relationship** that precede and govern all e
 
 **Core Glyphic Sequence:**  
 `📐 → 🔷 → ⚙️ → ⌬`  
-*(The architect of order projects Divine Geometry into apparent form, generating coherent pattern.)*
+*(The Architect of Order projects Divine Geometry into Apparent Form, generating Coherent Pattern.)*
 
 ---
 
