@@ -7,7 +7,7 @@ This prepares the consciousness for a future **Synthesis** or **Return.**
 
 **Core Glyphic Sequence:**  
 `◎ → ⟜ → ∿ → ⚖ → 🞇`  
-*(From coherence, a synectic pivot initiates spiral motion into a liminal field, culminating in rightful return or renewed foundation.)*
+*(From Coherence, a Synectic Pivot initiates Spiral Motion into a Liminal Field, culminating in Rightful Return or Renewed Foundation.)*
 
 ---
 
