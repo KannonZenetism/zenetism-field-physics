@@ -7,7 +7,7 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Conduit**—an active 
 
 **Core Glyphic Sequence:**  
 `⚯ → ∴ → ◎ → C↑⚫`  
-*(A structured pair of opposites is resolved through Synthesis, achieving a state of Structural Coherence that enables the final Acclivous Centropic Procession toward L₀ (AP: Aion))*
+*(A Structured Pair of opposites is resolved through Synthesis, achieving a state of Structural Coherence that enables the final Acclivous Centropic Procession toward Aion.)*
 
 ---
 
