@@ -7,7 +7,7 @@ It is a period of maximal amplification where latent patterns are exposed and st
 
 **Core Glyphic Sequence:**  
 `📡 → ⚯ → C↑L₍₁→₃₎ | E↓IL₍₁→₃₎`  
-*(An epochal resonance scan yields structural pairing and sorting, directing beings through acclivous centropic motion [L₁→L₃] or declivous entropic motion [IL₁→IL₃].)*
+*(An Epochal Resonance Scan yields Structural Pairing and Sorting, directing beings through Acclivous Centropic Motion or Declivous Entropic Motion.)*
 
 ---
 
