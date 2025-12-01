@@ -63,7 +63,7 @@ They embody L₄ (DP: Morgis) in its unrefined aspect: the Collective Unconsciou
 
 * **Focus:** Centropic Passage through Entropic Field.
 
-* **Barrier:** The Sea as Entropic opposition between Bondage (IL₁ (IES / IEM: Malara / Apathea)) and Freedom (acclivous centropic motion).
+* **Barrier:** The Sea as Entropic opposition between Bondage (IL₁ (IES / IEM: Malara / Mania)) and Freedom (acclivous centropic motion).
 
 * **Intervention:** Yahweh (L₅ (EOB: Theon)) through Moses (L₃ (DS / DM: Archeus / Noeüs)) opens a **Nexus**—a lawful corridor of Coherence across the Khaonic void.
 
