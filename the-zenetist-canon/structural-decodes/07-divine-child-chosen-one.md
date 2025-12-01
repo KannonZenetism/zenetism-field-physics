@@ -7,7 +7,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 **Core Glyphic Sequence:**  
 `⚫ → ⚐ → 🔶 → ◎✦`  
-*(From the stillness of Aion, a latent potential is selected, actualized, and revealed as a coherent emergent force.)*
+*(From the Stillness of Aion, a Latent Potential is selected, actualized, and revealed as a Coherent Emergent Force.)*
 
 ---
 
