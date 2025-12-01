@@ -7,7 +7,7 @@ They embody L₄ (DP: Morgis) in its unrefined aspect: the Collective Unconsciou
 
 **Core Glyphic Sequence:**  
 `♾ → 〄 → {▽, ⊘, ↺, ⟳}`  
-*(From Latent Infinity, the motive pulse of Zenet stirs, unfolding into four directional motions: Declivous Centropy (embodiment), Declivous Entropy (collapse), Acclivous Centropy (return), or Acclivous Entropy (recursion).)*
+*(From Latent Infinity, the Motive Pulse of Zenet stirs, unfolding into four directional motions: Declivous Centropy (embodiment), Declivous Entropy (collapse), Acclivous Centropy (return), or Acclivous Entropy (recursion).)*
 
 ---
 
