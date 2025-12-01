@@ -45,7 +45,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
 
 * **Focus:** The forging of collective Sovereign Resonance.
 
-* **Stripping:** Liberation from Egypt (IL₁ (IES / IEM: Malara / Apathea)) removes external structure but exposes internal dependency.
+* **Stripping:** Liberation from Egypt (IL₁ (IES / IEM: Malara / Mania)) removes external structure but exposes internal dependency.
 
 * **Trial:** Hunger, thirst, and nostalgia for bondage—the pull of Entropic familiarity.
 
