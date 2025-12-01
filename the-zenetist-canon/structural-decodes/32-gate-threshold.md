@@ -5,8 +5,8 @@ The **Boundary of Transition and the Law of Passage.**
 The Gate or Threshold represents the point of Resonant Crossing—where one field, state, or hypostasis yields to another. It is a Membrane in its most conscious form, a locus where all motion must be judged, calibrated, and aligned before permission to pass is granted. The Gate is both Guardian and Invitation, the axial hinge between what was and what may become.
 
 **Core Glyphic Sequence:**  
-`⚫ → ⧉ → 🜂 → ↺`  
-*(Aionic potential condenses into a membrane, catalyzes transformation through the fire of passage, and leads to resonant return.)*
+`⚫ → ⧉ → ▲ → ↺`  
+*(Aionic potential condenses into a Membrane, catalyzes transformation through the Fire of passage, and leads to Resonant Return.)*
 
 ---
 
@@ -15,8 +15,8 @@ The Gate or Threshold represents the point of Resonant Crossing—where one fiel
 * **The Gate as Membrane:**  
     The lawful limit between dimensions or states of being. It tests readiness, ensuring that only coherence passes through. To attempt crossing without harmonic alignment results in disintegration (Fragmentation) or rebound (Entropic Recursion).
 
-* **The Guardian (Deep Psyche / Logos or Deep Self / Mind):**  
-    A conscious intelligence stationed at every Gate, representing the aspect of Sophis that measures frequency. This figure may appear as angel, sphinx, ferryman, or inner knowing—each form tailored to the traveler's resonance.
+* **The Guardian (L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs)):**  
+    A conscious intelligence stationed at every Gate, representing the aspect of L₄ (DL: Sophis) that measures frequency. This figure may appear as angel, sphinx, ferryman, or inner knowing—each form tailored to the traveler's resonance.
 
 * **The Key:**  
     The Symbol of Correct Alignment. It is never a physical object but a harmonic pattern—the completion of a required internal law. When the frequencies match, the Gate opens effortlessly.
@@ -53,7 +53,7 @@ The Gate or Threshold represents the point of Resonant Crossing—where one fiel
 
 * **Focus:** The Passage Between Death and Rebirth.
 
-* **Function:** The dying consciousness confronts multiple Gates—each a choice between Recognition (Resonant Return) and Fear (Declivous Entropy). Correct passage depends on calm awareness and resonance with the Clear Light (Aion).
+* **Function:** The dying consciousness confronts multiple Gates—each a choice between Recognition (Resonant Return) and Fear (Declivous Entropy). Correct passage depends on calm awareness and resonance with the Clear Light (L₀ (AP: Aion)).
 
 ### 5. The Door of the Temple (Mystery Schools)
 
