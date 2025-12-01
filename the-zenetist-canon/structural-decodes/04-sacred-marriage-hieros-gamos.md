@@ -7,7 +7,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 **Core Glyphic Sequence:**  
 `⚯ → ⧬ → ⤈∴ → ◎`  
-*(Structured duality enters into co-emergent collaboration, emanating a new synthesis and yielding an integrated, coherent field.)*
+*(Structured Duality enters into Co-Emergent Collaboration, emanating a new Synthesis and yielding an integrated, Coherent Field.)*
 
 ---
 
