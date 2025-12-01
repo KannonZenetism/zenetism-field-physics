@@ -5,7 +5,7 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal re
 
 **Core Glyphic Sequence:**  
 `E↓→♾ → ⚫ → C↑→🛤️ | E↓→🕷️`  
-*(Entropic contraction into dispersive infinity, re-centering in Aionic stillness, from which an acclivous centropic arc toward Theon initiates; the inverse motion proceeds declivously into Nekronic collapse.)*
+*(Entropic Contraction into Dispersive Infinity, re-centering in Aionic Stillness, from which an Acclivous Centropic Arc toward Theon initiates; the Inverse Motion proceeds Declivously into Nekronic Collapse.)*
 
 ---
 
