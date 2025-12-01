@@ -35,7 +35,7 @@ The Bridge represents the operational structure by which Coherence crosses Hypos
 
 * **Focus:** The luminous rainbow bridge linking Asgard and Midgard—L₄ (DP / DL: Morgis / Sophis) interfacing with L₁ (ES / EM: Soma / Biosa).
 
-* **Function:** It burns when Entropy rises (Ragnarok), symbolizing the dissolution of lawful linkage.
+* **Function:** It burns when Entropy intensifies (Ragnarok), symbolizing the dissolution of lawful linkage.
 
 ### 2. The Cross (Christian)
 
