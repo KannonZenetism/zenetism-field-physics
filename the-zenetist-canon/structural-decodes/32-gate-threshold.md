@@ -73,7 +73,6 @@ Its message is that initiation is continuous. Every insight, every transformatio
 
 To live consciously is to recognize the Gates as blessings—to approach each with reverence, courage, and fidelity to the law of resonance. When the traveler and the threshold vibrate as one, the Gate dissolves, and the path continues unbroken.
 
-⧉ → 🜂 → ↺ → ⚫  
 The journey resumes within the stillness beyond.
 
 ---
