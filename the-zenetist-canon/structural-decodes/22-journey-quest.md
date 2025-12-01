@@ -7,7 +7,7 @@ It is **Emanation and Return** told as a linear narrative.
 
 **Core Glyphic Sequence:**  
 `🞇 → ∿ → ⧬ → ∴`  
-*(The internal return compass initiates spiral motion through collaboration, leading to synthesis.)*
+*(The Internal Return Compass initiates Spiral Motion through Co-Emergent Collaboration, leading to Synthesis.)*
 
 ---
 
