@@ -6,7 +6,7 @@ The Forge is a **L₄ (DP / DL: Morgis / Sophis) layer Motive environment**—a 
 
 **Core Glyphic Sequence:**  
 `📐 → ▲ → ◲ → ∴`  
-*(The architect of order applies the fire of transformation, leading to deconstruction and a supernal synthesis.)*
+*(The Architect of Order applies the Fire of Transformation, leading to Deconstruction and a Supernal Synthesis.)*
 
 ---
 
