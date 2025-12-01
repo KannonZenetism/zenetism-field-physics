@@ -6,7 +6,7 @@ The Crown represents the culmination of Centropic motion—the point at which th
 
 **Core Glyphic Sequence:**  
 `⚙️ → ∴ → 👑 → ✨◎`  
-*(Apparent order is refined into Synthesis, manifesting as lawful Sovereignty and Radiant Coherence.)*
+*(Apparent Order is refined into Synthesis, manifesting as Lawful Sovereignty and Radiant Coherence.)*
 
 ---
 
