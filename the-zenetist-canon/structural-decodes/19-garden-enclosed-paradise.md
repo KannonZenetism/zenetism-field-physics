@@ -7,7 +7,7 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 **Core Glyphic Sequence:**  
 `⚫ → ▽ → ◎ → ⟜`  
-*(From Aionic potential, through embodied form, a state of integrated coherence is achieved, containing the latent pivot toward differentiation.)*
+*(From Aionic Potential, through Embodied Form, a state of Integrated Coherence is achieved, containing the Latent Pivot toward Differentiation.)*
 
 ---
 
