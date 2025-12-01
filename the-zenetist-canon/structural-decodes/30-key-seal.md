@@ -2,15 +2,15 @@
 
 **Primary Structural Diagnosis:**  
 The **Instrument of Access and Boundary Governance.**  
-The Key and the Seal represent the dual mechanisms of Permission and Protection within the Lattice. A Key opens a lawful pathway (Nexus), while a Seal enforces closure (Membrane). Both operate under Sophis-level law, ensuring that only Coherent Resonance may enter or exit a given domain. They are complementary: one enables Revelation, the other guards Integrity.
+The Key and the Seal represent the dual mechanisms of Permission and Protection within the Lattice. A Key opens a lawful pathway (Nexus), while a Seal enforces closure (Membrane). Both operate under L₄ (DL: Sophis) layer law, ensuring that only Coherent Resonance may enter or exit a given domain. They are complementary: one enables Revelation, the other guards Integrity.
 
 **Core Glyphic Sequence (Key):**  
-`⚙️ → 🗝️ → 📱 → ↺`  
-*(Apparent order conceals a mechanism of access that, when applied with resonance, reveals lawful passage and return.)*
+`⚙️ → 🪬📜 → 📱 → ↺`  
+*(Apparent order contains a Veiled Scroll which, when revealed, opens the path of Resonant Return.)*
 
 **Core Glyphic Sequence (Seal):**  
-`⚙️ → ⧃ → 🞇 → ◎`  
-*(Apparent order establishes a field of integrity that holds coherence and directs all motion toward centropic synthesis.)*
+`⚙️ → ⊠ → ◎ → ∴`  
+*(Apparent order establishes a Seal of Protective Defense, which maintains Coherence and enables Synthesis.)*
 
 ---
 
@@ -25,7 +25,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
 * **The Gate (Membrane):**  
     The threshold mechanism that responds only to the proper Key signature. Every Gate tests for Resonant Match (Centropic/Entropic ratio).
 
-* **The Bearer (Deep Self / Mind or Sophis):**  
+* **The Bearer (L₃ (DS / DM: Archeus / Noeüs) or L₄ (DL: Sophis)):**  
     The consciousness entrusted with the Key or empowered to Set the Seal. Misuse results in reversal: the Key becomes a Lock, and the Seal becomes a Prison.
 
 * **The Activation (Revelation):**  
@@ -39,7 +39,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
 
 * **Focus:** The authority to bind and loose, representing lawful governance of access between Heaven and Earth.
 
-* **Function:** The twin keys signify Knowledge (Key-Noeüs) and Judgment (Seal-Sophis), perfectly balanced in Theonic service.
+* **Function:** The twin keys signify Knowledge (Key-L₃ (DM: Noeüs)) and Judgment (Seal-L₄ (DL: Sophis)), perfectly balanced in Theonic service.
 
 ### 2. The Seals of Revelation (Apocalyptic)
 
@@ -55,7 +55,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
 
 ### 4. The Egyptian Ankh and Shen Ring
 
-* **Focus:** The Ankh (Key) opens the current of Life (Morgis), while the Shen (Seal) encircles and preserves it.
+* **Focus:** The Ankh (Key) opens the current of Life (L₄ (DP: Morgis)), while the Shen (Seal) encircles and preserves it.
 
 * **Function:** Together they express the continuous exchange of Life and Law, Motion and Structure.
 
