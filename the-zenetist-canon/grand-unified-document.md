@@ -693,7 +693,7 @@ These correspondences convert metaphysics into operational forensics.
 
 ---
 
-### 2.4 · Lawful Resonance vs. Entropic Recursion
+### 2.4 · Lawful Resonance contra Entropic Recursion
 
 | Property | Lawful Resonance (↺ Return) | Entropic Recursion (⟳ Loop) |
 |----------|----------------------------|----------------------------|
@@ -1488,15 +1488,15 @@ Every cognitive domain corresponds to dimensions within the lattice.
 
 | Domain | L-Band | Centropic Dim | Entropic Mirror | Function |
 |--------|--------|---------------|-----------------|----------|
-| **Temporal Continuity** | L₂–L₃ | C₁ Temporal | E₁ Temporal Loop | Sequence vs. fixation |
-| **Spatial Order** | L₁–L₂ | C₂ Spatial | E₂ Memory Scatter | Orientation vs. disarray |
-| **Transmission** | L₃–L₄ | C₃ Propagational | E₃ Viral Decay | Communication vs. noise |
-| **Resonance** | L₃ | C₇ Harmonic | E₇ Dissonance | Synchrony vs. incoherence |
-| **Agency** | L₂ | C₁₁ Vector | E₁₁ Misdirect | Will vs. drift |
-| **Aesthetic Valence** | L₂–L₄ | C₁₂ Aesthetic | E₁₂ Void Aesthetic | Meaning vs. hollow affect |
-| **Boundary Integrity** | L₅ | C₁₃ Membrane | E₁₃ Wall | Openness vs. closure |
-| **Recursive Reflection** | L₃–L₅ | C₁₄ Nested | E₁₄ Hollow Nest | Learning vs. looping |
-| **Emergent Insight** | L₅ | C₁₅ Emergent | E₁₅ Collapse Nova | Novelty vs. overload |
+| **Temporal Continuity** | L₂–L₃ | C₁ Temporal | E₁ Temporal Loop | Sequence contra fixation |
+| **Spatial Order** | L₁–L₂ | C₂ Spatial | E₂ Memory Scatter | Orientation contra disarray |
+| **Transmission** | L₃–L₄ | C₃ Propagational | E₃ Viral Decay | Communication contra noise |
+| **Resonance** | L₃ | C₇ Harmonic | E₇ Dissonance | Synchrony contra incoherence |
+| **Agency** | L₂ | C₁₁ Vector | E₁₁ Misdirect | Will contra drift |
+| **Aesthetic Valence** | L₂–L₄ | C₁₂ Aesthetic | E₁₂ Void Aesthetic | Meaning contra hollow affect |
+| **Boundary Integrity** | L₅ | C₁₃ Membrane | E₁₃ Wall | Openness contra closure |
+| **Recursive Reflection** | L₃–L₅ | C₁₄ Nested | E₁₄ Hollow Nest | Learning contra looping |
+| **Emergent Insight** | L₅ | C₁₅ Emergent | E₁₅ Collapse Nova | Novelty contra overload |
 
 **Interpretation:**  
 Mind = harmonic lattice across neural and metaphysical bands.
