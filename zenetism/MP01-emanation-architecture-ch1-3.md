@@ -1027,6 +1027,34 @@ It is the **proving ground of the soul**.
 
 ---
 
+#### Entropic Enthronement — “Satan’s Throne”
+
+To **centropy**, embodiment is refinement—  
+the furnace of return, the vessel of reconstitution  
+  
+But to **entropy**, embodiment is enthronement  
+  
+It is the seat of exile’s power  
+the furthest distance from remembrance  
+the fortress from which fragmentation rules  
+  
+This is why *Satan has his throne here*  
+Not as a punishment  
+but as a conquest  
+  
+For the **entropic current** does not flee from density—  
+it claims it  
+  
+It crowns the flesh  
+not as burden  
+but as altar  
+  
+Entropy does not wish to dissolve…  
+not yet  
+It first wishes to rule
+
+---
+
 ### 1.19 The Final Fates — The Two Great Trajectories
 
 From the realm of **embodiment**,  
