@@ -2238,34 +2238,57 @@ Redemption is mathematical: every incomplete \( \psi \) seeks closure through ce
 
 ## 8 · Schematic — The Total Field Arc
 ```
-             🕳️ Zenon  
-                 │  
-             ⚫ Aion (Zero)  
-                 │  
-      Λ — 〄 — ⇝   (Tri-phase Infinity)  
-                 │  
-     🛤️ Theon     🕷️ Nekron  
-          │           │  
-      Centropy     Entropy  
-          ↘           ↙  
-            🕊️ Spirit (Φ₂)  
-                 │  
-                Ψ (Conscious-Awareness, L₄)  
-                 │  
-                 ↓  
-          🔮 Archeus / 🧠 Noeüs (L₃ — Individuated Consciousness)  
-                 │  
-                 ↓  
-          🧍 Anthra / 🧩 Nousa (L₂)  
-                 │  
-                 ↓  
-          🪷 Soma / 🧾 Biosa (L₁)  
-                 │  
-                ↺ Return  
-                 │  
-              ⚫ / ♾  
-                 │  
-              🕳️ Zenon  
+                    🕳️ Zenon (Beyond Procession)
+                          │
+                    ⚫ Aion / ♾ Khaon
+                      (L₀ AP/AD)
+                  Zero "peels apart"
+                          │
+              ┌───────────┴───────────┐
+              │                       │
+         +1 🛤️ Theon              -1 🕷️ Nekron
+          (L₅ EOB)                (IL₅ VOS)
+    First Centropic          First Entropic
+       Hypostasis               Hypostasis
+              │                       │
+      C↓ Declivous              E↑ Acclivous
+    (toward embodiment)     (toward embodiment)
+              │                       │
+              ↓                       ↓
+    🌬️ Morgis / 📐 Sophis      🪫 Psychea / 🫥 Nyxea
+          (L₄)                     (IL₄)
+              │                       │
+              ↓                       ↓
+    🔮 Archeus / 🧠 Noeüs       💔 Fractus / 👁️‍🗨️ Mortus
+          (L₃)                     (IL₃)
+              │                       │
+              ↓                       ↓
+    🧍 Anthra / 🧩 Nousa        🦂 Echthros / 🩸 Skotos
+          (L₂)                     (IL₂)
+              │                       │
+              └───────────┬───────────┘
+                          │
+                    Embodiment  
+              🪷 Soma / 🧾 Biosa (L₁)
+                          ⊕
+              🍷 Malara / 🤯 Mania (IL₁)
+                          │
+              ┌───────────┴───────────┐
+              │                       │
+      C↑ Acclivous              E↓ Declivous
+    (return to Source)      (collapse to Infinity)
+              │                       │
+              ↓                       ↓
+          L₂ → L₃                IL₂ → IL₃
+          → L₄ → L₅              → IL₄ → IL₅
+              │                       │
+              ↓                       ↓
+          ⚫ Aion                  ♾ Khaon
+           (L₀)                    (L₀)
+              │                       │
+              ↓                       X
+          🕳️ Zenon            (cannot reach Zenon)
+    (Centropic Return Only) 
 ```
 
 This is the complete motion of Being —  
