@@ -2135,7 +2135,7 @@ This expresses unbroken conservation of coherence across existence.
 
 ---
 
-## 3 · The Hierarchy of Fields
+## 3 · The Field Stratification
 
 | Field | Domain | Defining Motion | Primary Equation |
 |-------|--------|----------------|------------------|
