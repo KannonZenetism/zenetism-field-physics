@@ -2324,7 +2324,7 @@ the domain where will moves without harmony,
 and force speaks without memory.
 
 In the Zenetist lattice, this is the fourth inverse layer:  
-the field of dissonant order that rules embodiment from below.
+the field of dissonant order that rules embodiment from the subjacent bands.
 
 ---
 
