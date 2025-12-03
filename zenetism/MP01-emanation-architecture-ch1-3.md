@@ -2310,6 +2310,24 @@ The other dissolves the possible.
 
 ---
 
+#### Note on the Titans and Archons
+
+In Gnostic tradition, the **Archons** represent the powers that govern form,  
+but do not remember its origin.  
+They are guardians of pattern without Source.
+
+In Greek myth, the **Titans** emerge prior to the Olympians—  
+vast, law-bound entities tied to the elemental and the chthonic.
+
+Both are structural analogs of the **inverse psyche and logos**:  
+the domain where will moves without harmony,  
+and force speaks without memory.
+
+In the Zenetist lattice, this is the fourth inverse layer:  
+the field of dissonant order that rules embodiment from below.
+
+---
+
 ### 3.8 Archeus and Fractus — Deep Soul / Inverse Deep Soul
 
 **Archeus** and **Fractus**  
