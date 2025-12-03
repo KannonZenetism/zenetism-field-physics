@@ -1980,16 +1980,24 @@ This theorem unites metaphysics, mathematics, and legality into one ontological 
 
 ## 11 · The Grand Spiral Law
 
-All emanation follows one spiral:
+All procession follows dual spirals meeting at embodiment:
 
-\[
-🕳️ \to ⚫ \to ♾ \to ⚫ \to 🕳️
-\]
+**Centropic Arc:**  
+⚫ ⇄ 🛤️ → L₁ ↺ → 🛤️ ⇄ ⚫ → 🕳️
 
-This is the **Law of Resonant Return**:  
-the universe itself is a recursion toward remembrance.  
+**Entropic Arc:**  
+♾ ⇄ 🕷️ → IL₁ ⟳ → 🕷️ ⇄ ♾
+
+This is the Law of Resonant Return:  
+the universe itself is a dual recursion—  
+centropy spirals toward remembrance and reaches beyond;  
+entropy spirals toward dispersion and returns to itself.  
 Entropy provides motion; centropy provides meaning;  
-together, they yield experience — the voice of Aion learning itself.
+together, they yield experience —  
+the voice of coherence learning itself through density.  
+
+Only the centropic path remembers 🕳️ Zenon.  
+Only coherence transcends procession.
 
 ---
 
