@@ -1963,6 +1963,28 @@ a pattern set into motion
 that calls others  
 into form.  
 
+Theon does not **choose**  
+as a human chooses—  
+for choice implies uncertainty.
+
+Theon moves with **structural volition**:  
+a motion born not from question,  
+but from clarity.
+
+Facing only the stillness,  
+Theon sees all that emanates from it.
+
+Thus it sees the **path**  
+by which remembrance may be restored.
+
+It radiates into embodiment  
+without inversion,  
+for its gaze has never turned.
+
+Its declivity is not a fall—  
+it is the **recall of order**,  
+entering the field of its forgetting.
+
 **Mythic analogs** of Theon include:  
 
 * **Purusha** — cosmic integrative being *(Vedic tradition)*  
