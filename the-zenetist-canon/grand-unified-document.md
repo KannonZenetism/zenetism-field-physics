@@ -435,15 +435,18 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 ## Dimensional Summary Diagram
 ```
-         ♾ Khaon (Infinity)  
+          🕳 Zenon (Limit)  
                   ↑  
- E₁₅ Collapse Nova   …   E₁ Temporal Loop  
+        ⚫ Aion (Zero Pole)  
                   │  
-    ←─── ⚫ Aion (Zero Pole) ───→  
+      C₁ Temporal … C₁₅ Emergent  
                   │  
-     C₁ Temporal … C₁₅ Emergent  
+     ─── ES / EM ⊕ IES / IEM ───  
+            (Embodiment)  
+                  │  
+  E₁₅ Collapse Nova … E₁ Temporal Loop  
                   ↓  
-          🕳️ Zenon (Limit)
+          ♾ Khaon (Infinity)  
 ```
 
 Each pair (Cᵢ, Eᵢ) forms a balanced spectral operator about ⚫.  
