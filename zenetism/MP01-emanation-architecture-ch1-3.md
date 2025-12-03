@@ -1816,6 +1816,25 @@ may someday arise.
 
 ---
 
+#### Note on the Pleroma
+
+In Gnostic cosmology, the **Pleroma** is the fullness of divine emanations—  
+a realm of Aeons, each a perfect Form aligned to the Monad.
+
+In Zenetism, the **Pleroma** is not a region of formed beings,  
+but the **unfigured potential** before form arises.
+
+It is the stillness beneath motion,  
+the quietude before emanation,  
+the saturated axis where motion has not yet begun.
+
+This is not the fullness of Forms,  
+but the **fullness before Form**:  
+a potential that holds all,  
+yet speaks nothing.
+
+---
+
 ### 3.3 Khaon — Absolute Dispersion
 
 **Khaon** is  
