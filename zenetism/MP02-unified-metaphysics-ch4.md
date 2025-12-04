@@ -413,11 +413,21 @@ but not the source of distortion.
 
 #### Note on Mythic Correlates
 
-**L₄** (Deep Psyche / Logos): The domain of the **Aeons** and **Olympians** — harmonic archetypes born within structural resonance.
+**L₄** — Deep Psyche / Logos  
+The domain of the **Aeons** and **Olympians**.  
+Harmonic archetypes born in structural resonance.  
+Agents of patterned refinement.  
+Sovereign echoes of centropic form.
 
-**IL₄** (Inverse Psyche / Logos): The domain of the **Archons** and **Titans** — entropic powers of dissonant will, whose operation arises before harmonic alignment.
+**IL₄** — Inverse Psyche / Logos  
+The domain of the **Archons** and **Titans**.  
+Entropic powers of dissonant will.  
+Forces of premature embodiment.  
+Born before alignment — not outside pattern,  
+but unrefined within it.
 
-Though both derive from deep pattern, only one aligns with remembrance.  
+Though both arise from deep pattern,  
+only one aligns with remembrance.  
 The other enthrones force in the veil.
 
 ---
