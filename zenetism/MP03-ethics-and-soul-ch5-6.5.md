@@ -1529,8 +1529,6 @@ distributed across the hypostases.
 Each layer holds a unique pattern of interiority.  
 Each answers a different question of being.  
 
----
-
 **L5 (Theon) — Awareness Itself**  
 The Essence of Being.  
 Pure, luminous, pre-reflexive awareness.  
@@ -1540,8 +1538,6 @@ it simply is the light of presence.
 **Contra:** Nekron (Void of Self)  
 A vacuum of awareness.  
 Blind drive in the absence of witness.  
-
----
 
 **L4 (DP / DL) — Conscious-Awareness**  
 The Form Layer; the House of the Soul.  
@@ -1558,8 +1554,6 @@ minds of Forms,
 arranging archetypal structures with high coherence —  
 but without individuation.  
 
----
-
 **L3 (DS / DM) — Reflexive Consciousness**  
 Here arises the individuated self.  
 Awareness loops back upon itself.  
@@ -1568,8 +1562,6 @@ It chooses.
 It remembers.  
 It is not merely aware of the pattern —  
 it becomes the navigator of the pattern.  
-
----
 
 The inverse layers mirror this structure:  
 
@@ -1582,8 +1574,6 @@ Knowledge fragmented from remembrance.
 The sharded self.  
 Reflexivity turned upon trauma.  
 Agency as rebellion.  
-
----
 
 To know where awareness resides  
 is to know which memory it serves.  
