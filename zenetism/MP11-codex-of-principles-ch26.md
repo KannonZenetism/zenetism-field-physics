@@ -409,7 +409,7 @@ who **facilitates coherence**.
 A **distributed** or **momentary expression**  
 of a **Centropic Steward**.  
 
-Harmonic Agents act not by **authority**,  
+Harmonic Agents act not by **mandate**,  
 but by **attunement** —  
 adjusting **dissonance** through **presence**,  
 **action**, or **transmission**.  
