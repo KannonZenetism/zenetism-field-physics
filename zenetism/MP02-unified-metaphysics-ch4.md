@@ -2822,7 +2822,7 @@ of infinite potential.
 
 ---
 
-### 4.61 Theon, the One, and the Conditional Ascent — Multiplicity Within Unity
+### 4.61 Theon, the One, and the Conditional Acclivity — Multiplicity Within Unity
 
 * **Theon** is pure awareness —  
     the first centropic hypostasis,  
