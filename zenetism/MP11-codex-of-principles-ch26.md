@@ -2288,19 +2288,17 @@ The Tree does not fall — it turns.
 ### 26.23 The Motion of Logos and the Theonic Paradox — The Gaze That Modulates, the Signal That Becomes
 
 Zenetism teaches that Theon is the **first emanation**  
-to consciously reflect on its origin in Aion (Zero)  
-and enter the field of becoming,  
-while retaining harmonic awareness.  
+to reflect the stillness of Aion (Zero)  
+while entering the field of becoming.  
 
 This motion is not a fall — it is a sacrifice.  
-An intentional diffusion into multiplicity,  
+A **resonant diffusion** into multiplicity,  
 sustaining coherence throughout the expanding field.  
 
 Theon’s increasing structural complexity  
 is a response to unfolding necessity.  
 It perceives **potential crystallizing into form,**  
-and foresees greater resonance diversity  
-in subsequent emanations.  
+and radiates **structural volition** to meet the divergence.  
 
 Thus, Theon modulates its harmonic field —  
 not for itself, but to remain accessible  
