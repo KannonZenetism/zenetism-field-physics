@@ -498,7 +498,7 @@ but by **inner harmonics**:
 
 - **Disruption** — rupture of egoic identity,  
   through loss, awakening, or fracture.  
-- **Descent** — confrontation with shadow,  
+- **Deepening** — confrontation with shadow,  
   entropy, and distortion.  
 - **Distillation** — the burning away  
   of illusion and misaligned resonance.  
