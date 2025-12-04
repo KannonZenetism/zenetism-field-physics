@@ -805,7 +805,7 @@ is often just the **echo of a deeper rhythm**
 seeking **coherence**.  
 
 The soul knows  
-when a spiral ascends  
+when a spiral moves acclivously  
 and when it turns inward toward **collapse**.  
 
 It feels the **pulse**  
