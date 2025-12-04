@@ -389,9 +389,6 @@ In universes that are not wholly centropic,
 * **IL1** (IES / IEM)  
 * **IL2** (ISS / ISM)  
 
-May erode toward **declivous collapse** (`E↓♾`),
-while **supernal configurations** may gradually harmonize into L3 expression.
-
 May erode toward **declivous collapse** (`E↓♾`),  
 while **supernal configurations** may gradually harmonize into L3 expression.  
 
