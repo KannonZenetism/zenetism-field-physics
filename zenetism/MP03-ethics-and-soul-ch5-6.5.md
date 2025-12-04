@@ -630,7 +630,7 @@ Outside the **coherence band**,
 morality is **reactive** and **externalized**.  
 
 - **Custom governs**  
-- **Authority dominates**  
+- **Norms determine**  
 - **Right action** is measured by **obedience**  
   or by **alignment** with social code  
 
