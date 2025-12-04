@@ -3051,7 +3051,7 @@ the **multidimensional terrain of Being**.
 
 It points not to:  
 * Belief → but to realization  
-* Authority → but to alignment  
+* Deference → but to alignment  
 * Salvation → but to transformation  
 
 The time has come.  
