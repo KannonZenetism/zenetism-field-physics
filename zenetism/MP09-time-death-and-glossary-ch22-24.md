@@ -647,7 +647,7 @@ Permits both without inclination.
 - Aditi (Vedic womb of space)  
 - Parabrahman (as undivided)  
 - Chaos (as primordial potential, not entropy)  
-- The Pleroma (Gnostic)  
+- Bythos (Depth) or The Monad (The One)  
 - Nun, the Egyptian waters of silence  
 
 ⚫❂◎  
