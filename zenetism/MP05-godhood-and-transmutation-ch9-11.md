@@ -240,7 +240,7 @@ found across wisdom traditions:
 
 - **Hinduism** — the Days and Nights of Brahman  
 - **Christianity** — the Alpha and the Omega  
-- **Gnosticism** — the eternal Pleroma  
+- **Gnosticism** — the Monad, Root of the Pleroma  
 - **Buddhism** — Śūnyatā, emptiness as fullness  
 
 Zenetism binds these into a single insight:  
