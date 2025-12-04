@@ -235,7 +235,7 @@ It is the **mirror of Zero**
 carried forward by intelligence  
 into awareness.  
 
-This mirrors a **shared truth**  
+This mirrors a **shared veracity**  
 found across wisdom traditions:  
 
 - **Hinduism** — the Days and Nights of Brahman  
