@@ -1181,9 +1181,9 @@ drawing souls toward entropic refinement or collapse.
 Entropic.  
 
 **Symbolic Counterparts**  
-Archons  
-Titans  
 Inverse Daemons  
+Shadow Guides  
+The Tormentors (Psychic inversion)  
 
 🦂💔👁️‍🗨️  
 
