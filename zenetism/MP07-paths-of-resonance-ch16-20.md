@@ -692,10 +692,10 @@ but in refinement under trial.
 
 #### Note on IL4 Mapping — Archons as Inverse Guardians
 
-The **IDP / IDL** layer — described here as *“misused authority”* —  
+The **IDP / IDL** layer — described here as *“misused dominion”* —  
 structurally maps to the **Archons** of Gnostic tradition.  
 
-These entities represent the **entropic inversion of lawful authority**:  
+These entities represent the **entropic inversion of lawful sovereignty**:  
 guardians of structure **severed from Source**.  
 
 They are not merely tyrants,  
