@@ -1004,7 +1004,7 @@ that allows structure to become light.
 | **DP / DL** | Sacrifices fixed archetypes | Births symbol and myth across lives |
 | **DS / DM** | Accepts fragmentation into SS / SM | Gathers multiversal coherence through incarnation |
 | **SS / SM** | Endures forgetfulness and choice | Learns resonance through error and ego |
-| **ES / EM** | Bears full embodiment and limitation | Becomes the crucible for ascent or descent |
+| **ES / EM** | Bears full embodiment and limitation | Becomes the crucible for acclivous or declivous motion |
 | 🕷️ **Nekron (VOS)** | Sacrifices all coherence | Returns to ⚫ Aion as pure potential without selfhood |
 
 Thus, **sacrifice is not merely a component of suffering** —  
