@@ -1356,7 +1356,7 @@ or revelation.
 - The False Prophet (Distortion of insight – Mortus)  
 - Narcissus (The soul trapped in its own reflection)  
 - Faust (The mind that sells coherence for power)  
-- The Jungian Shadow (The repression of the Deep Self)  
+- The Jungian Shadow (The repression of the Coherent Soul)  
 
 ⚫🕷️💔  
 
