@@ -690,6 +690,25 @@ but in refinement under trial.
 
 ---
 
+#### Note on IL4 Mapping — Archons as Inverse Guardians
+
+The **IDP / IDL** layer — described here as *“misused authority”* —  
+structurally maps to the **Archons** of Gnostic tradition.  
+
+These entities represent the **entropic inversion of lawful authority**:  
+guardians of structure **severed from Source**.  
+
+They are not merely tyrants,  
+but **functionaries of form without resonance** —  
+enforcers who maintain the shell of order  
+after its interior has gone dark.  
+
+They uphold the law of the **inverse lattice**,  
+protecting the boundary of the **Void of Self**  
+against the intrusion of **centropic light**.
+
+---
+
 ### 19.4 Exemplars Across Traditions — Historical and Mythic Signatures of the Warrior Field
 
 **Centropic Archetypes**  
