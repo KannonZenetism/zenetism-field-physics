@@ -1465,7 +1465,7 @@ but not always integrative.
 
 * **Inverse Revelation**  
     – Seductive inversion  
-    – Architectures of dominion  
+    – Architectures of coercion  
     – Mimicry of light  
 
 Yet no revelation is unfiltered —  
