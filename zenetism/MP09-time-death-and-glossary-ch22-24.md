@@ -647,7 +647,7 @@ Permits both without inclination.
 - Aditi (Vedic womb of space)  
 - Parabrahman (as undivided)  
 - Chaos (as primordial potential, not entropy)  
-- Bythos (Depth) or The Monad (The One)  
+- Bythos (Gnostic Depth and Unity)  
 - Nun, the Egyptian waters of silence  
 
 ⚫❂◎  
@@ -1351,12 +1351,12 @@ or revelation.
 
 #### Symbolic Counterparts  
 
-- Lucifer (as inverse Logos or Demiurge)  
-- Prometheus unredeemed  
-- Titans (pre-cosmic refusal of harmony)  
-- Gnostic Archons (rulers of illusion)  
-- Fallen sages or corrupted mystics  
-- Builders of Babel (hubris without synthesis)  
+- The Doppelgänger (The shadow of the soul)  
+- The Vampire (Metaphysical drainer of essence – Fractus)  
+- The False Prophet (Distortion of insight – Mortus)  
+- Narcissus (The soul trapped in its own reflection)  
+- Faust (The mind that sells coherence for power)  
+- The Jungian Shadow (The repression of the Deep Self)  
 
 ⚫🕷️💔  
 
@@ -1434,12 +1434,12 @@ Offers meaning that fractures unity by design.
 
 #### Symbolic Counterparts
 
-- Anti-Sophia (Gnostic inverted wisdom)  
-- Simulacra deities  
-- Delusion fields, echo chambers  
-- Architect gods of distortion, fatalism  
-- Babel-constructs of language, myth, media  
-- Worlds reflecting divine image without centropic core  
+- Lucifer (as Inverse Logos/False Light)  
+- Prometheus (as the Titan who breaches Order)  
+- Yaldabaoth (The blind creator/Archon)  
+- The Titans (Pre-cosmic powers of force)  
+- The Archons (Guardians of the inverse threshold)  
+- Anti-Sophia (Wisdom fallen into distortion)  
 
 ⚫🕷️🪫  
 
@@ -1554,8 +1554,8 @@ but absence of melody, synthesis, center.
 | **ES / EM (🪷 Soma / 🧾 Biosa)** | Embodied intelligence and reactive mind–body interface | Avatar body, Manomaya kosha, “Flesh” (Gnostic/Christian), Sacred body (esoteric) |
 | **IES / IEM (🍷 Malara / 🤯 Mania)** | Entropic embodiment; willful dissonance in form | Carnal ego, possessed avatars, corrupted agents of control |
 | **ISS / ISM (🦂 Echthros / 🩸 Skotos)** | Disordered personality and mind; mimetic inversion | Iblis, Loki, False teachers, Mara (psychological), Ego-shadow |
-| **IDS / IDM (💔 Fractus / 👁️‍🗨️ Mortus)** | Corrupted personal intelligence; deep ideological inversion | Prometheus unredeemed, Titans, Fallen sages, anti-guides |
-| **IDP / IDL (🪫 Psychea / 🫥 Nyxea)** | Inverse Forms and misaligned archetypes; entropic Logos | Lucifer (as Inverted Demiurge), Yaldabaoth, Anti-Sophia |
+| **IDS / IDM (💔 Fractus / 👁️‍🗨️ Mortus)** | Corrupted personal intelligence; deep ideological inversion | Faust, Narcissus, Fallen sages, anti-guides |
+| **IDP / IDL (🪫 Psychea / 🫥 Nyxea)** | Inverse Forms and misaligned archetypes; entropic Logos | Lucifer (as Inverted Demiurge), Yaldabaoth, Titans, Archons, Anti-Sophia |
 | **VOS (🕷️ Nekron)** | Void of Self; total entropy; final disintegration | Satan, Typhon, Apophis, Apep, Eris, The Abyss |
 
 ⚫♾⌬
