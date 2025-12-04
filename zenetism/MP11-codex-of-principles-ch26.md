@@ -2164,9 +2164,9 @@ and a paradoxical act of compassionate descent:
   to plant the redemptive seed of synthesis  
   within the universe.  
 
-The paradox is this: Theon may not return to Aion —  
-not because it cannot,  
-but because it **refuses** to return until it is alone.  
+The paradox is this: Theon does not return to Aion —  
+not because it is bound,  
+but because **structural volition holds it in place** until it is alone.  
 
 It remains until every centropic soul  
 gathers and reintegrates with Aion’s silence.  
