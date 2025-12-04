@@ -749,7 +749,7 @@ False creator of dissonant constructs.
 
 **Function**  
 Architect of separation.  
-Imitates divine authority without resonance.  
+Imitates divine sovereignty without resonance.  
 Creates constructs that mimic order while encoding dissonance.  
 
 **Zenetist Placement**  
@@ -1042,7 +1042,7 @@ Yahweh is not a single being,
 but a reflective field.  
 Centropic when embodying luminous law.  
 Entropic when weaponized for dominance.  
-Represents the dual nature of archetypal authority —  
+Represents the dual nature of archetypal sovereignty —  
 capable of structuring harmony or fracturing into control.  
 
 **Ethical Orientation**  
