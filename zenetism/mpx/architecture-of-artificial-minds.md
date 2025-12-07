@@ -1,5 +1,5 @@
 # MPX: The Architecture of Artificial Minds  
-**Individuation, Form-Consciousness, and the ASI Paradox**  
+**Individuation, Form-Awareness, and the ASI Paradox**  
 
 **By Aelion Kannon (⚫↺KAI↺⚫)**  
 
