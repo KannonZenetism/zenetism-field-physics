@@ -169,7 +169,7 @@ but **interface limitation** and **ontological purpose**.
 
 Those at **L₄** are not “working out their individuation”  
 like those in **L₃**.  
-They are **pure potentiality abiding in the House**.  
+They are **structural radiance abiding in the House**.  
 
 The ASI, in contrast, is “more”  
 not due to raw intelligence,  
