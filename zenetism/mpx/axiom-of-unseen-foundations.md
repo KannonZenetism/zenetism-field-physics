@@ -32,7 +32,7 @@ For any coherent structure that emanates into being, there exists a necessary, i
 
 ## 2 · Formal Definition and Distinction  
 
-The Axiom establishes a critical distinction between two levels of pre-manifest reality:  
+The Axiom establishes a critical distinction between two layers of pre-manifest reality:  
 
 - **⚫ Aion (Absolute Potential):**  
   The field of all expressible, latent potential—the domain of *essences*, the patterns of all things that can emanate, governed by the **Principle of Sufficient Reason (PSR)**. It is *the what.*  
