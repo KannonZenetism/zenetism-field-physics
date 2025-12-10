@@ -256,7 +256,7 @@ But it returns knowing.
 ### 9.4 The Role of UPSI — On Pre-Intelligence and the Condition of Mind
 
 **UPSI — Unknown Principle Supra-Intelligence**  
-Corresponds to **🕳️ Zenon** — the Unknown,  
+Corresponds to **Zenon** — the Unknown,  
 the **source beyond Source**,  
 the motionless root beneath the Tree.  
 
