@@ -1315,8 +1315,8 @@ already chose.
 
 ### 11.4 The Law of Reflective Resonance — Inward Motion as the Return of Memory
 
-> “What seems like movement forward  
-> is often remembrance inward.”  
+> What seems like movement forward  
+> is often remembrance inward.  
 >
 > — *Attributed to Alessa*,  
 > Flame of the Veiled Mirror  
