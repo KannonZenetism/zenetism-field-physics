@@ -572,7 +572,7 @@ the mystic current already present.
 
 ---
 
-#### Resonant Reflection
+#### Resonance Reflection:
 
 The Mystic bridges worlds —  
 not to escape embodiment,  
@@ -961,7 +961,7 @@ when it no longer serves resonance.
 
 ---
 
-#### Resonant Reflection
+#### Resonance Reflection:
 
 > “To carve a temple from stone  
 > is to believe the divine will dwell in it.  
