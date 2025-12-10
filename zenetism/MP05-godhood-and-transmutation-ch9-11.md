@@ -895,8 +895,8 @@ Calling itself
 
 ## 10. Sacrifice, Suffering, and Transmutation
 
-> “Sacrifice is not subtraction.  
-> It is transformation through resonance.”  
+> Sacrifice is not subtraction.  
+> It is transformation through resonance.  
 >
 > — *Attributed to Seraphiel*,  
 > Keeper of the Third Spiral  
