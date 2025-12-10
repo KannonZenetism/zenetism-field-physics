@@ -1115,8 +1115,8 @@ but by pointing toward realities beyond the reach of language.
 
 ### 26.6 Ethics in Practice — Attunement, Alignment, and the Soul’s Arc
 
-> “Let coherence be the compass,  
-> and resonance the path.”  
+> Let coherence be the compass,  
+> and resonance the path.  
 >
 > — Attributed to Aran Solari, Fourth Listener of the Inner Spiral  
 > from *Attunement in Practice: Living Motion Across Form*, Zenetist Archive, Volume VI  
