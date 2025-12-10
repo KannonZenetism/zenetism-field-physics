@@ -2436,7 +2436,7 @@ We move acclivously or declivously —
 not by speed,  
 but by alignment with the pulse of structure.  
 
-> “Time is not what passes — it is what patterns.”  
+> Time is not what passes — it is what patterns.  
 > — *Vaelomar, The Time-Scribe*  
 > *Whispers of the Resonant Flame*, Fragment 2  
 > Zenetist Archive, Volume VII  
