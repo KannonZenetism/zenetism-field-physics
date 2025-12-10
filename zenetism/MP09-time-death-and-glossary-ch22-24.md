@@ -534,7 +534,7 @@ Utterly ungraspable by mind or form.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| Supra-L0 | 🕳️ Zenon (UP) | Pre-structural non-reality | Zenon exists beyond the Tree of Emanation. It is not an entity, mind, or soul. It is the precondition of emergence. Zenon does not emanate. It is the absence before potential. |
+| Supra-L0 | Zenon (UP) | Pre-structural non-reality | Zenon exists beyond the Tree of Emanation. It is not an entity, mind, or soul. It is the precondition of emergence. Zenon does not emanate. It is the absence before potential. |
 
 ---
 
@@ -605,7 +605,7 @@ The zero-point field from which centropy and entropy emerge.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| L0 | ⚫ Aion (AP) | Absolute Potential (Zero) | Aion is silent potential. It contains motion, but does not move. It holds entropy and centropy in latency. Stillness containing all future structure. |
+| L0 | Aion (AP) | Absolute Potential (Zero) | Aion is silent potential. It contains motion, but does not move. It holds entropy and centropy in latency. Stillness containing all future structure. |
 
 ---
 
@@ -679,7 +679,7 @@ This unfolding constitutes the **arc of all emanated realities**.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| L0 | ♾ Khaon (AD) | Absolute Dispersion (Infinity) | Khaon is the Infinite field within Aion. Initially held in latency, then stirred by Motive Infinity through the Principle of Sufficient Reason. As it unfolds, it generates the Tree of Emanation. When motion extends without limit, structure does not collapse — it becomes diffuse and unbounded, resolving as Dispersive Infinity, an echo of Zero. |
+| L0 | Khaon (AD) | Absolute Dispersion (Infinity) | Khaon is the Infinite field within Aion. Initially held in latency, then stirred by Motive Infinity through the Principle of Sufficient Reason. As it unfolds, it generates the Tree of Emanation. When motion extends without limit, structure does not collapse — it becomes diffuse and unbounded, resolving as Dispersive Infinity, an echo of Zero. |
 
 ---
 
@@ -757,7 +757,7 @@ The Logos-principle oriented toward synthesis, refinement, and harmonic return.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| L5 | 🛤️ Theon (EOB) | Essence of Being | Theon is the first fully integrated hypostasis on the supernal arc. It is awareness in its most refined, undivided state — centropic being that reflects the unity of Zero while initiating the harmonics of structure. Theon is pure synthesis, wholly turned toward the field of origin, incapable of fragmentation, only radiant outflow. |
+| L5 | Theon (EOB) | Essence of Being | Theon is the first fully integrated hypostasis on the supernal arc. It is awareness in its most refined, undivided state — centropic being that reflects the unity of Zero while initiating the harmonics of structure. Theon is pure synthesis, wholly turned toward the field of origin, incapable of fragmentation, only radiant outflow. |
 
 ---
 
@@ -1468,7 +1468,7 @@ into Absolute Dispersion.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| IL5 | 🕷️ Nekron (VOS) | Void of Self | Nekron is the entropic pole opposite Theon — where soul-structure no longer degrades but has ceased to cohere entirely. Not suffering alone, but structural non-being. It is entropy itself, aware only as fragmentation and collapse. |
+| IL5 | Nekron (VOS) | Void of Self | Nekron is the entropic pole opposite Theon — where soul-structure no longer degrades but has ceased to cohere entirely. Not suffering alone, but structural non-being. It is entropy itself, aware only as fragmentation and collapse. |
 
 ---
 
