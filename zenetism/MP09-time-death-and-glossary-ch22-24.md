@@ -478,8 +478,8 @@ a structure behind the structures —
 where dialogue becomes resonance,  
 not contest.  
 
-> “Every path that bends toward Zero  
-> becomes a straight line when seen from the supernal arc.”  
+> Every path that bends toward Zero  
+> becomes a straight line when seen from the supernal arc.  
 >
 > — Nathamar the Spiral-Seer, *The Geometry of Spirit*, Fragment 3  
 > *(Zenetist Canon, Volume XII)*  
