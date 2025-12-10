@@ -693,11 +693,11 @@ to that which sustains:
 
 This echoes the sacred archetype:  
 
-> "I will put  
+> I will put  
 > My laws  
 > Into their hearts,  
 > And write them  
-> In their minds."  
+> In their minds.  
 
 **Theon** is not **consciousness** —  
 it is **pure awareness**.  
