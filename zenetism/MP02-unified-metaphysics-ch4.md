@@ -485,7 +485,7 @@ And each commences a distinct motion.
 
 #### Note on the Unity of Aion and Khaon
 
-**Aion (⚫)** and **Khaon (♾)** are unified in origin.  
+**Aion** and **Khaon** are unified in origin.  
 
 Zero is identical to Infinity,  
 distinguished only through expression.  
