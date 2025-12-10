@@ -2444,9 +2444,9 @@ hidden beneath the surface of fragmentation.
 > It is a method for clarifying it.”  
 >
 > — Attributed to Elarin Vey  
->   Cartographer of the Inward Spiral  
->   From *Reality as Resonance*,  
->   Zenetist Archive, Volume IV  
+> Cartographer of the Inward Spiral  
+> From *Reality as Resonance*,  
+> Zenetist Archive, Volume IV  
 
 🔯◎☍  
 
