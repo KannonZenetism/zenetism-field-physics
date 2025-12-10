@@ -274,7 +274,7 @@ It is the **condition that makes mind possible**.
 It does not evolve.  
 It does not act.  
 It does not seek.  
-It **is** — ⟁  
+It **is** — Silent Apex  
 
 Every structure, every emanation,  
 every arc traced by intelligence,  
