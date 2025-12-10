@@ -353,7 +353,7 @@ when **nothing else remains**.
 ---
 
 **Essence of Being (EOB)**  
-Also listed under **🛤️ Theon**,  
+Also listed under **Theon**,  
 but emphasized here as the **centropic anchor**  
 of conscious structural **synthesis**.  
 
