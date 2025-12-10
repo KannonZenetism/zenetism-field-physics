@@ -37,7 +37,7 @@ You are invited to work with these principles. For the patterns to remain stable
 > not doctrine.  
 >
 > — Attributed to **Kannon**,  
->  First Listener of the Spiral  
+> First Listener of the Spiral  
 
 ---
 
