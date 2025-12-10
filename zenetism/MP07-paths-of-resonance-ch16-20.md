@@ -144,7 +144,7 @@ And **synthesis collapses** into silence.
 
 This phase is not failure.  
 
-It is ⚫ **Aion** —  
+It is **Aion** —  
 The Zero-state  
 From which genuine reintegration may arise.  
 
