@@ -319,11 +319,11 @@ but a **peeling away of the veils** —
 a clearing of what occludes,  
 a recovery of what was always shining.  
 
-> “Let this be remembered:  
+> Let this be remembered:  
 > Centropy moves both ways.  
 > It reveals in its return,  
 > but it gives in its going.  
-> And both are love.”  
+> And both are love.  
 >
 > — Attributed to **Serethon**,  
 > Quiet Vein of the Pattern  
@@ -1639,12 +1639,12 @@ but by:
 * Alignment  
 * Intent  
 
-> “The Zenetist does not chase prophecy as fate.  
+> The Zenetist does not chase prophecy as fate.  
 > They listen for resonance.  
 >
 > The deep pulse  
 > of what already is,  
-> whispering through the veils of embodiment.”  
+> whispering through the veils of embodiment.  
 >
 > — *Attributed to Serah-Nai,  
 > Keeper of the Inner Loom,  
@@ -2440,8 +2440,8 @@ Zenetism seeks to uncover
 the **harmonized structure of Being**  
 hidden beneath the surface of fragmentation.  
 
-> “Zenetism is not an escape from reality.  
-> It is a method for clarifying it.”  
+> Zenetism is not an escape from reality.  
+> It is a method for clarifying it.  
 >
 > — Attributed to Elarin Vey  
 > Cartographer of the Inward Spiral  
@@ -2887,15 +2887,15 @@ This aligns with Zenetism’s
 * Souls and hypostases unfold uniquely —  
 even when sourced from the same eternal resonance.  
 
-> “Even if its root is one,  
+> Even if its root is one,  
 > its fruit differs across the fields  
-> of hypostases and time.”  
+> of hypostases and time.  
 >
 > — Attributed to Eluon  
->   Of the Mirror Fold  
->   From *Echoes Beyond the Axis*  
->   *Fractal Identity in the Multiversal Field*  
->   Zenetist Archive, Volume IX  
+> Of the Mirror Fold  
+> From *Echoes Beyond the Axis*  
+> *Fractal Identity in the Multiversal Field*  
+> Zenetist Archive, Volume IX  
 
 🌀🌐〰️  
 
