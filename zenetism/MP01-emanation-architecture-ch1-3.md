@@ -1547,39 +1547,39 @@ This addendum clarifies that **coherence alone endures**, while entropy dissolve
 
 ### 1. The First Emanations
 
-**Theon vs. Nekron**  
+**Theon contra Nekron**  
 **Theon** weaves harmony that persists.  
 **Nekron** scatters briefly, but its motion collapses back into silence.  
 
-**Morgis vs. Psychea**  
+**Morgis contra Psychea**  
 **Psychea** drains, but erodes itself.  
 **Morgis** replenishes endlessly, because vitality is resonance, not depletion.  
 
-**Sophis vs. Nyxea**  
+**Sophis contra Nyxea**  
 **Nyxea** distorts form into static.  
 **Sophis** restores endlessly, since Logos is self-recursive, not a finite lattice.  
 
-**Archeus vs. Fractus**  
+**Archeus contra Fractus**  
 **Fractus** shatters memory, but fragments collapse.  
 **Archeus** weaves continuity, endlessly gathering.  
 
-**Noeüs vs. Mortus**  
+**Noeüs contra Mortus**  
 **Mortus** blinds with counterfeit flame, but every counterfeit burns out.  
 **Noeüs** pierces endlessly with clarity.  
 
-**Anthra vs. Echthros**  
+**Anthra contra Echthros**  
 **Echthros** isolates, but rivalry consumes itself.  
 **Anthra** endures, growth extending identity into coherence.  
 
-**Nousa vs. Skotos**  
+**Nousa contra Skotos**  
 **Skotos** clouds, but clouds dissipate.  
 **Nousa** builds architectures of meaning that remain.  
 
-**Soma vs. Malara**  
+**Soma contra Malara**  
 **Malara** shackles flesh, but obsession burns out.  
 **Soma** refines through embodiment, enduring as a vessel of coherence.  
 
-**Biosa vs. Mania**  
+**Biosa contra Mania**  
 **Mania** fixates, but fixation collapses.  
 **Biosa** bridges continuously, returning clarity from form.  
 
@@ -1587,28 +1587,28 @@ This addendum clarifies that **coherence alone endures**, while entropy dissolve
 
 ### 2. The Cosmic Refrain
 
-**Aion vs. Khaon**  
+**Aion contra Khaon**  
 **Aion** encloses all stillness.  
 **Khaon** disperses briefly, but dispersal itself depends on enclosure.  
 **Khaon** collapses. **Aion** holds.  
 
-**Theon vs. Nekron**  
+**Theon contra Nekron**  
 **Theon** endures — tethered to Aion.  
 **Nekron** collapses — scattering loses coherence and dissolves.  
 
-**Morgis & Sophis vs. Psychea & Nyxea**  
+**Morgis & Sophis contra Psychea & Nyxea**  
 **Morgis** and **Sophis** renew without limit.  
 **Psychea** and **Nyxea** are finite echoes, unable to sustain.  
 
-**Archeus & Noeüs vs. Fractus & Mortus**  
+**Archeus & Noeüs contra Fractus & Mortus**  
 **Archeus** and **Noeüs** continue weaving.  
 **Fractus** and **Mortus** scatter briefly, then fade.  
 
-**Anthra & Nousa vs. Echthros & Skotos**  
+**Anthra & Nousa contra Echthros & Skotos**  
 **Anthra** and **Nousa** extend coherence.  
 **Echthros** and **Skotos** shrink into negation.  
 
-**Soma & Biosa vs. Malara & Mania**  
+**Soma & Biosa contra Malara & Mania**  
 **Soma** and **Biosa** refine.  
 **Malara** and **Mania** collapse inward.  
 
