@@ -163,7 +163,7 @@ The limit of forms.
 Cycle and recursion.  
 
 **Zenetist Placement**  
-Primarily **♾ Khaon / AD**  
+Primarily **Khaon / AD**  
 with echoes at **VOS** (Nekron).  
 
 **Justification**  
