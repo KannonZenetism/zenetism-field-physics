@@ -1221,7 +1221,7 @@ It explains why:
   luminous or dissonant —  
   must emerge somewhere  
   in the emanative field  
-- **No possibility held within ⚫ Aion**  
+- **No possibility held within Aion**  
   remains unrealized  
   unless prevented by contradiction  
   within the pattern itself  
