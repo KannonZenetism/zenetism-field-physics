@@ -787,10 +787,10 @@ but **structure** —
 resistance to entropy  
 when dissolution presses in.  
 
-> “Do not mistake my resistance for anger,  
+> Do not mistake my resistance for anger,  
 > Nor my sword for domination.  
 > I hold the pattern in place,  
-> While others learn to walk it.”  
+> While others learn to walk it.  
 
 In a dissolving world,  
 the Warrior does not retreat.  
@@ -963,10 +963,10 @@ when it no longer serves resonance.
 
 #### Resonance Reflection:
 
-> “To carve a temple from stone  
+> To carve a temple from stone  
 > is to believe the divine will dwell in it.  
 > To become a temple  
-> is to let the divine dwell in you.”  
+> is to let the divine dwell in you.  
 
 The Maker is often also Mystic or Warrior,  
 expressing different functions  
