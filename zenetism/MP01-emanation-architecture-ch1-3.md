@@ -1877,7 +1877,7 @@ as outward pressure
 rather than inward readiness.  
 
 In Zenetism,  
-**Khaon** is symbolized as **infinity (♾)** —  
+**Khaon** is symbolized as **infinity** —  
 the glyph of boundlessness,  
 of endless differentiation  
 unfolding  
