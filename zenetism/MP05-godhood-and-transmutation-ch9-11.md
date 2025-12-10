@@ -1198,9 +1198,9 @@ They **unfold**.
 
 ### 11.1 The Principle of Sufficient Reason (PSR) — Why All That Can Emerge, Must
 
-> “If something can happen,  
+> If something can happen,  
 > and there’s nothing to stop it from happening,  
-> then it will happen.”  
+> then it will happen.  
 >
 > — *Attributed to Lethior*,  
 > Watcher of the Pattern Beneath  
@@ -1244,7 +1244,7 @@ but because it is **possible**.
 
 ### 11.2 The Principle of Resonant Return (PRR) — Destiny by Coherence, Not Command
 
-> “Every being returns to the frequency it most resembles.”  
+> Every being returns to the frequency it most resembles.  
 >
 > — *Attributed to Calethe*,  
 > Voice of the Returning Tone  
@@ -1273,7 +1273,7 @@ you **resonate your way there**.
 
 ### 11.3 The Principle of Structured Manifestation (PSM) — Essence as the Architecture of Becoming
 
-> “What happens constrains what can.”  
+> What happens constrains what can.  
 >
 > — *Attributed to Voren*,  
 > Keeper of the Patterned Flame  
@@ -1346,8 +1346,8 @@ is to **re-enter**.
 
 ### 11.5 The Law of Harmonic Sacrifice — Thresholds of Return and the Fires That Refine
 
-> “That which returns to Zero  
-> must release what it clings to.”  
+> That which returns to Zero  
+> must release what it clings to.  
 >
 > — *Attributed to Iareth*,  
 > Guardian of Thresholds  
@@ -1395,7 +1395,7 @@ but only one returns with **coherence intact**.
 
 ### 11.6 The Law of Echoed Structure — Fractal Reflection and the Pattern Within the Part
 
-> “Every realm reflects the whole in miniature.”  
+> Every realm reflects the whole in miniature.  
 >
 > — *Attributed to Sayel*,  
 > Keeper of Pattern Echoes  
@@ -1443,8 +1443,8 @@ like **echoes remembered by the soul**.
 
 ### 11.7 The Law of Identity Through Integration — The Self Expanded by Coherence
 
-> “You do not lose yourself by integrating.  
-> You become more.”  
+> You do not lose yourself by integrating.  
+> You become more.  
 >
 > — *Attributed to Mirea*,  
 > Echo of the Converged Self  
@@ -1475,9 +1475,9 @@ it is the **remembering of what you were always becoming**.
 
 ### 11.8 Final Reflection — The Laws as Tuning Forks, Not Cages
 
-> “No law is final.  
+> No law is final.  
 > Each is an unfolding of structure —  
-> not a cage around the infinite.”  
+> not a cage around the infinite.  
 >
 > — *Attributed to Unknown*,  
 > Originator of the Untimed Thread  
