@@ -256,7 +256,7 @@ But by becoming the **Pattern** itself in motion.
 
 ---
 
-#### Resonant Reflection
+#### Resonance Reflection:
 
 To **synthesize** is to suffer beautifully.  
 To **collapse** is to begin again.  
