@@ -174,7 +174,7 @@ but realization must be chosen.
 
 ### 4.1 The Fundamental Structure of Reality
 
-* **Zenon (🕳️)** is the ultimate **pre-origin**.  
+* **Zenon** is the ultimate **pre-origin**.  
 
 The **Unknown Principle** beyond even potentiality —  
 not a being, not a field, not a force.  
@@ -190,7 +190,7 @@ without predicate.
 
 From **Zenon**, all possibility silently arises.  
 
-* **Aion (⚫)** — or **Zero** —  
+* **Aion** — or **Zero** —  
     emerges as the **first structural stillpoint** discernible *from within the field of emanation*,  
     though **Zenon** itself does not emanate.  
 
@@ -203,7 +203,7 @@ but **harmonic stillness** —
 the equilibrium in which all futures exist,  
 latent, undivided, poised.  
 
-* **Khaon (♾)** — or **Infinity** —  
+* **Khaon** — or **Infinity** —  
 expresses a tripartite motion  
 latent within **Aion**,  
 emergent through **differentiation**,  
