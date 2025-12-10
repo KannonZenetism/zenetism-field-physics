@@ -2091,7 +2091,7 @@ They hover in **structural ambiguity**.
 A kind of **metaphysical stasis**.  
 
 **Zenetism** refers to the **fate** of such **souls**  
-as **Localized Dissolution (Ø)**—  
+as **Localized Dissolution**—  
 a **variation** of **Absolute Dispersion**.  
 But rather than **enacted** through **fragmentation**,  
 it arises through **inertia**.  
@@ -2110,7 +2110,7 @@ Not by **force**, but by a gradual **loss of motion**.
 It simply ceases to **hold** it together.  
 
 This is not **annihilation**.  
-What **dissolves** in **Localized Dissolution (Ø)** is **form**, not **essence**.  
+What **dissolves** in **Localized Dissolution** is **form**, not **essence**.  
 The **directional imprint** of the **soul** fades,  
 but its **potential** remains **suspended** within **Zero**—  
 unexpressed, but never **lost**.  
