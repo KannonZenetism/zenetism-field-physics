@@ -2427,7 +2427,7 @@ does Nekron collapse into release.
 
 ---
 
-#### Resonance Reflection
+#### Resonance Reflection:
 
 Time in Zenetism is a spiral stair,  
 not a flat road.  
