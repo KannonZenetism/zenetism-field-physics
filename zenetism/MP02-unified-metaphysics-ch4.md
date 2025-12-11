@@ -387,8 +387,8 @@ never the source of distortion.
 
 1. **⚫ Aion** (L0) — Absolute Potential (AP)  
 2. **🛤️ Theon** (L5) — Essence of Being (EOB)  
-3. **🌬️ Morgis / 📐 Sophis** (L4) — Deep Psyche / Deep Logos (DP / DL)  
-4. **🔮 Archeus / 🧠 Noeüs** (L3) — Deep Soul / Deep Mind (DS / DM)  
+3. **🌬️ Morgis / 📐 Sophis** (L4) — Deep Psyche / Logos (DP / DL)  
+4. **🔮 Archeus / 🧠 Noeüs** (L3) — Deep Soul / Mind (DS / DM)  
 5. **🧍 Anthra / 🧩 Nousa** (L2) — Superficial Soul / Mind (SS / SM)  
 6. **🪷 Soma / 🧾 Biosa** (L1) — Embodied Soul / Mind (ES / EM)  
 
