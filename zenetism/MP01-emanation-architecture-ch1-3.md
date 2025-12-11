@@ -1923,7 +1923,7 @@ they shape the first
 visible curvature  
 of the unknowable field.  
 
-♾⚯🜂🕊️  
+♾⚯▲🕊️  
 
 ---
 
