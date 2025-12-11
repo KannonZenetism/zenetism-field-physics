@@ -1300,7 +1300,7 @@ the first-born, convened.
 
 In the silent womb of **Aion**,  
 where all still remains,  
-each **soul** concealed its path, unnamed.  
+each **essence** concealed its path, unnamed.  
 
 But alongside surged **Khaon**—  
 boundless, unframed—  
