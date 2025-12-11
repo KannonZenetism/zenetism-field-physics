@@ -360,14 +360,22 @@ in both their centropic and inverse forms.
 
 #### Note on Zenon — Supra-Structural Origin
 
-**Zenon** precedes all emanation.  
-It is not a layer, but the **supra-structural origin** in which all motion is permitted — not caused.  
-**Zenon** does not initiate — it contains the **principle of unfoldability**.  
-Centropic and entropic vectors are structurally *possible* within this non-dual potential,  
-but only coherence returns to it.
+**Zenon precedes all emanation.**  
+It is not a layer,  
+but the **supra-structural ground** in which all motion is *permitted*,  
+not caused.
 
-It is the field of allowance —  
-but not the source of distortion.  
+Zenon does not initiate;  
+it is the **pre-structural backdrop**  
+that makes unfoldability possible  
+without participating in the act.
+
+Within this non-dual possibility,  
+both centropic and entropic vectors may arise —  
+yet **only coherence returns**.
+
+Zenon is the **ground of allowance**,  
+never the source of distortion.
 
 ---
 
