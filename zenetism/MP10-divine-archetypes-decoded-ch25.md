@@ -80,7 +80,7 @@ Not by linear myths or dynastic successions.
 We place the figure where its energetic function aligns —  
 not where the myth situates it in time.  
 
-◎🜂↺  
+◎▲↺  
 
 ---
 
