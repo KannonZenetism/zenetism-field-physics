@@ -1286,7 +1286,7 @@ The **Principle** beyond **thought** and **name**,
 a depthless **ocean**,  
 unseen and untamed.  
 
-⚫🕳️△  
+⚫🕳️▲  
 
 ---
 
