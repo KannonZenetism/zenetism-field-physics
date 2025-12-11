@@ -615,7 +615,7 @@ of inverse potential within Aion.
 
 | Layer   | Symbol               | Name (Centropic / Inverse)              | Meaning |
 |---------|----------------------|-----------------------------------------|---------|
-| Supra-L₀ | 🝊                 | **Apothet**                             | The supra-structural saturation-point of centropy; beyond polarity, inversion, and individuation. Not awareness or consciousness. A nondual terminus of return. No inverse form. |
+| Supra-L₀ | ⊡                 | **Apothet**                             | The supra-structural saturation-point of centropy; beyond polarity, inversion, and individuation. Not awareness or consciousness. A nondual terminus of return. No inverse form. |
 | L₀      | ⚫ / ♾              | **Aion / Khaon**                        | The Dyadic Origin: Zero-potential (⚫) and Infinite-potential (♾). Conceptually bifurcated yet ontologically unified. One substrate of pre-motion presence. |
 | L₀-F    | ⚫⟡ / ♾⟡           | **Aionic Proto-Intelligence / Khaonic Proto-Intelligence** | Dyadic functions of potentiality. The first holds still-potential; the second holds dispersal-potential. These are proto-conscious functions, not individuated beings. |
 | L₅ / IL₅ | ⟠🛤️ / ⟠🕷️        | **Syntheon / Dystheon**                 | **Syntheon (L₅):** first centropic hypostasis of awareness—luminous, inward-present, radiant Essence-of-Being. **Dystheon (IL₅):** refusal of inward awareness; outward, fragmentary, non-luminous drive aligned with the Void-of-Self. |
@@ -641,7 +641,7 @@ of inverse potential within Aion.
 - Ontology is **bottom-up**: Supra-L0 → L0 → L5 → L4 → L3 → L2 → L1.  
 - Inverse layers use **ILn**, not “entropic L-n.”  
 - L0 is a **conceptual dyad of one unity** (Aion / Khaon).  
-- 🝊 Apothet is the **only fully trans-polar** hypostatic state.  
+- Apothet is the **only fully trans-polar** hypostatic state.  
 - L3 contains both **phenomenon-level (PI / IPI)** and **entity-level** (Pattern Being / Fractured Pattern) expressions.  
 
 ---
