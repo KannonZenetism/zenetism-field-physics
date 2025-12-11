@@ -1536,7 +1536,7 @@ but absence of melody, synthesis, center.
 - Plotinus’ *One beyond Being* corresponds to Zenon.  
 - **Nous** aligns with Theon; **World Soul** aligns with DP / DL.  
 
-⌬🜂🌑
+⌬▲🌑
 
 ---
 
