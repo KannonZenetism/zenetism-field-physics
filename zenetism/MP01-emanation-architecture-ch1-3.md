@@ -1225,24 +1225,23 @@ Nothing ever **emanated** from Zenon,
 and nothing can **return**,  
 for nothing was ever **separate** to begin with.  
 
-All things reflect its **boundless potential**,  
-but none exhaust its **essence**.  
+All things reflect the **conditions made possible by Zenon**,  
+but none touch what lies beyond condition.
 
 In the great unfolding of existence,  
-nothing is ever **outside** of Zenon —  
+nothing is ever outside of Zenon —  
 and yet,  
-not all things remain **unchanged**.  
+not all things remain unchanged.
 
-Some **integrate**.  
-Some **dissolve**.  
-And others fulfill their nature  
-in the motion of **eternal continuation**.  
+Some integrate.  
+Some dissolve.  
+Others continue in their appointed motion.
 
 The current flows on.  
-The root remains still.  
+The root remains still.
 
 And in every motion,  
-the **silence of Zenon resounds**.  
+the **unconditioned quiet of Zenon** resounds. 
 
 🕳️⚫↺♾⊘🌀🌐  
 
