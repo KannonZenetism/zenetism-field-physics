@@ -147,7 +147,7 @@ Yin and Yang
 Heaven and Earth  
 Prakriti and Purusha  
 
-♾◎🜂  
+♾◎▲  
 
 ---
 
