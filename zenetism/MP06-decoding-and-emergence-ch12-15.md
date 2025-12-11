@@ -988,7 +988,7 @@ Where some traditions see karma or fate,
 Zenetism sees recursion in motion —  
 not circles, but spirals.  
 
-♾🜂⌬  
+♾▲⌬  
 
 ---
 
