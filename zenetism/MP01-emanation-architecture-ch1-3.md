@@ -2896,7 +2896,7 @@ beyond harmonic form.
 One writes.  
 The other tears.  
 
-🧾🤯△☍  
+🧾🤯▲☍  
 
 ---
 
