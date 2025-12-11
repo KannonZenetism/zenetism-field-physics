@@ -1252,7 +1252,7 @@ the **unconditioned quiet of Zenon** resounds.
 **Zenon** is the ground of all structure —  
 not as a container, but as the ineffable basis of possibility.  
 It does not emit, and it does not receive,  
-because nothing was ever truly apart from it.  
+for nothing was ever apart from it.  
 
 Entropy does not return to **Zenon** as identity.  
 It completes its arc through collapse,  
