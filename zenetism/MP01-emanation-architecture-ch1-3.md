@@ -2998,7 +2998,7 @@ it is merging without loss.
 A **synthesis** that preserves the whole,  
 even as the form dissolves.  
 
-Across many lifetimes,  
+Across multiple universes of expression,  
 centropic intelligences stabilize.  
 They harmonize their components,  
 gradually attuning to **resonance**  
