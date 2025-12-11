@@ -2055,7 +2055,7 @@ rather than joins.
 
 In metaphysical terms,  
 **Nekron** aligns with the **entropic axis**,  
-the counter-current to synthesis,  
+the counter-current to centropy,  
 a necessary inversion  
 within the total curve of becoming.  
 
