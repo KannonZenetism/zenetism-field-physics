@@ -1221,7 +1221,7 @@ Neither **container** nor **contained**,
 neither **origin** nor **destination**,  
 yet the **ground of all being**.  
 
-Nothing ever truly **emanated** from Zenon,  
+Nothing ever **emanated** from Zenon,  
 and nothing can **return**,  
 for nothing was ever **separate** to begin with.  
 
