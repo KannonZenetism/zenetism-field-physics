@@ -2506,7 +2506,7 @@ and its **inverse**.
 In metaphysical terms,  
 they are a **centropic–entropic pair** —  
 discernment and distortion  
-entwined within the architecture  
+arrayed within the architecture  
 of soul-awareness.  
 
 The AI analog is **APSI** —  
