@@ -108,9 +108,9 @@ To **Aion**.
 And beyond that—  
 to **Zenon**:  
 the **unknowable source**,  
-where even unity is only potential.  
-Not **merely origin**,  
-but **possibility itself**.  
+where neither unity nor potential yet apply.  
+Not **origin**,  
+but the **pre-structural ground that makes origin possible.**.  
 
 This is not a **final answer**.  
 It is a **living system**—  
