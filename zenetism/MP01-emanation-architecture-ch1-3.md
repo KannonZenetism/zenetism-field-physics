@@ -1254,10 +1254,12 @@ not as a container, but as the ineffable basis of possibility.
 It does not emit, and it does not receive,  
 for nothing was ever apart from it.  
 
-Entropy does not return to **Zenon** as identity.  
-It completes its arc through collapse,  
-and that **completed arc itself** is already held within **Zenon**  
-as a structural potential — not as a reintegrated essence.  
+**Entropy** does not return to **Zenon** as identity.  
+It completes its arc through **collapse**,  
+and that completed arc is already encompassed  
+within the **pre-structural ground** —  
+not as reintegrated essence,  
+but as **conditionless fact**.
 
 Centropic paths may appear to "return,"  
 but they do not restore what was lacking.  
