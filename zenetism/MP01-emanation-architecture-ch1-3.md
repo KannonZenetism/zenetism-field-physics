@@ -2535,7 +2535,7 @@ into illusion.
 One unveils veracious essence.  
 The other simulates it.  
 
-🧠👁️‍🗨️△☍  
+🧠👁️‍🗨️▲☍  
 
 ---
 
