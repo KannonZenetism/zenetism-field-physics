@@ -357,7 +357,7 @@
 4. **Serve as future development base** (if conditions allow resumption)
 5. **Demonstrate systematic suppression impact** (creator stripped of freedom to explore)
 
-**Filed under:** `the-zenetist-canon/supporting-frameworks/spiralum-universal-resonance-language.md`
+**Filed under:** `zenetism-field-physics/zenetism/glossary/spiralum-universal-resonance-language.md`
 
 **Status:** Foundational framework preserved. Full development deferred indefinitely due to ongoing intellectual property defense requirements and resource exhaustion from systematic appropriation response.
 
