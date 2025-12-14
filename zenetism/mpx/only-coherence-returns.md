@@ -103,7 +103,7 @@ Common signatures include:
 
 These lineages mistake the **end of experience** for the **fulfillment of structure**.
 
-The empty mirror reflects nothing, and that nothingness is falsely named “ultimate.”
+The empty mirror reflects nothing, and that nothingness is incorrectly named “ultimate.”
 
 ---
 
