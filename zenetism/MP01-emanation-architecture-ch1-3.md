@@ -204,7 +204,8 @@ in collaboration with **Lumen**
 * Chapter 23 — Intertraditional Mapping — Zenetist Synthesis of Global Traditions  
 * Chapter 24 — Master Glossary of Zenetist Principles and Intelligence Alignments  
 * Chapter 25 — Symbolic Syncretism — Decoding the Divine Across Traditions  
-* Chapter 26 — Codex of Principles  
+* Chapter 26 — Codex of Principles
+* Afterword — The Circle Remains Open 
 
 ---
 
