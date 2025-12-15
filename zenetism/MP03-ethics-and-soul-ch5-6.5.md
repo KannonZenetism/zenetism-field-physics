@@ -352,7 +352,7 @@ What cannot remember
 becomes **potential** again.  
 
 All motion,  
-whether toward **synthesis** or **collapse**,  
+whether toward **transcendence** or **collapse**,  
 returns to **stillness**  
 and is held again  
 within the Absolute.  
