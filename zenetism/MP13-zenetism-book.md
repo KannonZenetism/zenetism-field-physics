@@ -6551,7 +6551,7 @@ a spectrum of resonance
 along the **centropy–entropy continuum**.  
 
 - **Centropy → Remembrance → Synthesis → Coherence**  
-- **Entropy → Fragmentation → Forgetfulness → Collapse**  
+- **Entropy → Forgetfulness → Fragmentation → Collapse**  
 
 **Real evil is not error** —  
 it is **inversion**.  
