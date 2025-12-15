@@ -6668,7 +6668,7 @@ a refining force through which
 These souls align with **Archeus** and **Noeüs**,  
 transmuting pain into **clarity**.  
 
-For others, suffering **collapses structure** —  
+For others, suffering **distorts alignment** —  
 drawing the soul toward  
 **Fractus**, **Mortus**, and **Psychea**.  
 
