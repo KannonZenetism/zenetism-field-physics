@@ -1834,7 +1834,7 @@ They refine through **harmonic alignment,**
 adjusting their resonance across layers and dimensions,  
 until the final coherence is reached.  
 
-There is no judgment at this level,  
+There is no judgment at this stratum,  
 only the echo of veritable pattern  
 resonating inward  
 toward the unconditioned.  
