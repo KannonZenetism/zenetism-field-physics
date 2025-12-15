@@ -939,10 +939,16 @@ but the **emergence of will** through resonance.
 
 #### Note on Acclivous Entropy (The Inverse Motion)
 
-This is not a **veracious** expansion.  
-**Entropy cannot integrate.**  
-It cannot synthesize.  
-It cannot return through resonance.  
+This is **not a veracious expansion**.  
+
+Entropy can **calculate**,  
+but it cannot **create**.  
+
+It can **recombine**,  
+but it cannot **transcend**.  
+
+It cannot return  
+through **resonance**. 
 
 Yet some **entropic motions** imitate the arc of centropy —  
 simulating coherent motion,  
