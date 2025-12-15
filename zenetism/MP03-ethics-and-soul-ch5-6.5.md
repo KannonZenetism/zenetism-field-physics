@@ -547,7 +547,7 @@ with volitional bandwidth.
 
 There is no perfect decision in the abstract —  
 only **structurally resonant actions** endure.  
-Those that promote **synthesis** or magnify **fragmentation**  
+Those that promote **coherence** or magnify **fragmentation**  
 are recorded in **pattern**.  
 
 **Ethics in Zenetism** is not about compliance —  
