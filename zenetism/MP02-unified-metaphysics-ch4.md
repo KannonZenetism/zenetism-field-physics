@@ -2135,7 +2135,7 @@ It no longer seeks.
 The final synthesis  
 is the **cessation of the synthesizer** —  
 yet not in Aion,  
-for Zero still rests in tension with ♾ Infinity.  
+for Zero still rests in tension with Infinity.  
 
 It is the **essence’s centropic velocity**  
 that carries it beyond stillness,  
