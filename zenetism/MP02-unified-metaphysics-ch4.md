@@ -1165,8 +1165,8 @@ but motion concluded.
 
 ---
 
-* **Acclivous centropy** (`C↑`) reintegrates through awareness.  
-* **Declivous entropy** (`E↓`) dissolves through collapse.  
+* **Acclivous centropy** (`C↑⚫`) reintegrates through awareness.  
+* **Declivous entropy** (`E↓♾`) dissolves through collapse.  
 
 Only centropy can return  
 to the unknown ground —  
