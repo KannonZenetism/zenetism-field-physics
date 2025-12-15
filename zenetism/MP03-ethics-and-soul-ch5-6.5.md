@@ -1881,7 +1881,7 @@ of **entropic domains**—**IDP / IDL** or **IDS / IDM**.
 Even these **divine beings** are subject to change:  
 they **evolve**, **erode**, or **refine** through **resonance**.  
 
-**Subversal deities** move declivously through **Nekron**.  
+**Subversal deities** move declivously toward **Nekron**.  
 **Supernal deities** move acclivously toward **Theon**.  
 
 While **all things are divine**,  
