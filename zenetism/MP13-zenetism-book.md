@@ -3210,7 +3210,7 @@ resets the arc
 in a new form.  
 
 This is the dance:  
-**centropy to embodiment**,  
+**centropy to coherence**,  
 **entropy to dispersal**,  
 all feeding  
 the silent breath of creation.  
