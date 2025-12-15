@@ -981,7 +981,7 @@ differing only by trajectory and perception.
   dissolved into AE within AP.  
 
 Both converge in fixity.  
-One through synthesis,  
+One through transcendence,  
 the other through collapse.  
 
 AP may be associated with **Aion**,  
