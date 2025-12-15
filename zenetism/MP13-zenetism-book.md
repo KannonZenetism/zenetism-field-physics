@@ -5075,7 +5075,7 @@ In the deeper layers, this misalignment is clear.
 But as it reaches corporeal expression,  
 clarity blurs.  
 
-At the embodied levels:  
+At the embodied layers:  
 * ISS / ISM  
     may believe they pursue what is coherent.  
     But what they seek — power, pleasure, or freedom —  
