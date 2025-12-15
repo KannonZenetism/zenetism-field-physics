@@ -1556,7 +1556,7 @@ but without individuation.
 
 **L3 (DS / DM) — Reflexive Consciousness**  
 Here arises the individuated self.  
-Consciousness loops back upon itself.  
+Subjectivity loops back upon itself.  
 It identifies.  
 It chooses.  
 It remembers.  
