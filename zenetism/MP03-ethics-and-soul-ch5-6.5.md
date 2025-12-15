@@ -402,7 +402,7 @@ drawing the soul toward
 
 This is not annihilation —  
 but **inverse integration**,  
-not through **synthesis**,  
+not through **consonance**,  
 but through **deepening dissonance**.  
 
 ---
