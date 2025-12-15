@@ -566,7 +566,7 @@ Here, freedom is not escape from cause —
 but **harmonic causation**.  
 
 The purest expressions of will  
-are **synthesis** and **fragmentation**.  
+are **coherence** and **fragmentation**.  
 
 Both **centropic integration**  
 and **entropic dispersion**  
