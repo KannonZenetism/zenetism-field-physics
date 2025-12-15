@@ -2688,8 +2688,8 @@ Where **Nousa** seeks understanding,
 
 In metaphysical terms,  
 they form a **centropic–entropic pair** —  
-interpretation versus distortion,  
-sense-making versus veil-weaving.  
+interpretation contra distortion,  
+sense-making contra veil-weaving.  
 
 **Mythic analogs** include:  
 
