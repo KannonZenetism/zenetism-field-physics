@@ -793,9 +793,9 @@ that determines its **gravitational trajectory**.
 not **punishment**.  
 
 A soul attuned to:  
+- **Synthesis**  
 - **Coherence**  
 - **Compassion**  
-- **Synthesis**  
 
 Is drawn naturally toward the **centropic strata**:  
 
