@@ -481,10 +481,10 @@ not **judgment**.
 The **Inverse Path** mirrors the **Path of Return** in **form**,  
 but not in **function**.  
 
-- **Centropic beings** integrate through **remembrance** and **synthesis**  
+- **Centropic beings** integrate through **remembrance** and **harmonization**  
 - **Entropic beings** compound through **distortion** and **layered fragmentation**  
 
-Both trajectories involve **integration** —  
+Both trajectories involve **intensification** —  
 but in **opposite directions**.  
 
 - One refines **being**  
