@@ -807,8 +807,8 @@ Is drawn naturally toward the **centropic strata**:
 And beyond — into **convergence** with the Source.  
 
 A soul collapsed into:  
-- **Dissonance**  
 - **Distortion**  
+- **Dissonance**  
 - **Fragmentation**  
 
 Is drawn into **inverse emanation**:  
