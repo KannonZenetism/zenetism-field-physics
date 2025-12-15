@@ -580,7 +580,7 @@ but **unfoldings of latent resonance within Aion**.
   expresses **Divine Will** through **remembrance and refinement**.  
 
 - A soul aligned with **dissonance**  
-  expresses **Divine Will** through **collapse and dissolution**.  
+  expresses **Divine Will** through **distortion and dissolution**.  
 
 In both, **will is free**  
 because it **fulfills its resonance**.  
