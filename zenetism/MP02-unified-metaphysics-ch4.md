@@ -2436,7 +2436,7 @@ designed for direct engagement with reality.
 
 Its core dynamics —  
 * Centropy and entropy  
-* Synthesis and collapse  
+* Transcendence and collapse  
 
 unfold across the domains of embodied life:  
 * Science  
