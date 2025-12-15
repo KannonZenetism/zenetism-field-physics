@@ -209,7 +209,7 @@ In **Zenetism**, ethics is not categorical —
 it is **directional**.  
 
 - **Centropy → Synthesis → Coherence → Compassion → Harmonization**  
-- **Entropy → Fragmentation → Alienation → Collapse → Distortion**  
+- **Entropy → Fragmentation → Distortion → Alienation → Collapse**  
 
 These are not moral decrees.  
 They are **energetic trajectories**.  
