@@ -1034,7 +1034,7 @@ Across universes,
 across incarnations,  
 alignment slowly reveals itself.  
 
-By the time a soul nears AD,  
+By the time an essence nears AP / AD,  
 its course is set —  
 it becomes what it always was.  
 
