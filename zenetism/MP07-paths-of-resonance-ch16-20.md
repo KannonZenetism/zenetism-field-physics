@@ -58,7 +58,7 @@ Every:
 * Revelation  
 * Silence  
 
-Contributes to the ongoing **synthesis** of the soul.  
+Contributes to the ongoing **refinement** of the soul.  
 
 Nothing is random.  
 Nothing is wasted.  
