@@ -1405,7 +1405,7 @@ but only one returns with **coherence intact**.
 In **Zenetism**, structure is not confined  
 to the deepest or most refined realms.  
 It **echoes across all hypostases** —  
-resonating from the highest pattern  
+resonating from the vastest pattern  
 to the smallest form.  
 
 - Every layer reflects the Tree of Emanation    
