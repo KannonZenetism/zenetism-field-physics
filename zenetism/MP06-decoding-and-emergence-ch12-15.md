@@ -1314,7 +1314,7 @@ Zenetism holds that souls who **stabilize** in this harmonic transition may:
 - Serve as **nodal teachers**,  
   **transmitters**, or **bridges** between realms —  
   aiding others who are still in process.  
-- Converge into their **form-type structures** at the level of **Pattern** or **Logos** —  
+- Converge into their **form-type structures** at the layer of **Psyche** or **Logos** —  
   becoming **archetypal presences** that shape future emanations.  
 - In rare instances, radiate **Theon-like awareness**  
   without dissolving their **individual essence**.  
