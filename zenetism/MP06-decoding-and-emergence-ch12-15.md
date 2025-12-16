@@ -1109,9 +1109,6 @@ while Supra-L0 (Zenon) remains beyond the emanative process entirely.
 These layers are not stacked vertically,  
 but spiral dimensionally—interwoven, recursive, and alive.  
 
-These layers are not stacked vertically,  
-but spiral dimensionally—interwoven, recursive, and alive.  
-
 ⧞⧉∽  
 
 ---
