@@ -604,7 +604,7 @@ Through integrity and intervention,
 they embody centropic will in motion.  
 
 The Warrior appears  
-when **synthesis demands defense** —  
+when **coherence demands defense** —  
 when resonance must be anchored  
 in a hostile field.  
 
