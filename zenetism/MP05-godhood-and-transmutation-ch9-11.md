@@ -1415,7 +1415,7 @@ to the smallest form.
 - Embodied beings may intuit the whole  
   by recognizing **fractal resonance in the part**.  
 
-The structure above is **reflected within** —  
+The structure without is **reflected within** —  
 not in power,  
 but in **pattern**.  
 
