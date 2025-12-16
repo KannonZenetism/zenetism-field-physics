@@ -548,8 +548,8 @@ their own coherence.
 ### 18.6 The Mystic and the Tree — Archetypal Alignment Within the Field
 
 Mystics are not an elite order.  
-Every soul holds  
-the potential for awakening.  
+Awakening is not a status achieved,  
+but a nature remembered.  
 
 Some align more closely  
 with this trajectory:  
