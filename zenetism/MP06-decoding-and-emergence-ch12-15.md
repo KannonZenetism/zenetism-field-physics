@@ -1353,7 +1353,7 @@ Others, more deeply entangled in **fragmentation**,
 may begin to **spiral** through the **subversal arc** —  
 drifting toward **inverse structures** of soul and mind.  
 
-In **entropic universes**,  
+Outside of wholly **centropic domains**,  
 souls that **reject coherence**  
 may collapse into **subversal hypostases** —  
 not through **punishment**,  
