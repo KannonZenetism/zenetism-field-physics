@@ -1101,13 +1101,13 @@ and spiraling outward through structure and experience.
 | ⟲ Echo | Temporal or causal recursion zones. |
 | ∽ Archetypal | Pre-conceptual or mythic pattern planes. |
 
-Note: L0 (Aion / Khaon) represents **Bifurcated Coherence** —
-the conceptual root of polarity rather than a physical divide.
-The actual structural split occurs at manifestation (Theon / Nekron),
-while Supra-L0 (Zenon) remains beyond the emanative process entirely.
+Note: L0 (Aion / Khaon) represents **Bifurcated Coherence** —  
+the conceptual root of polarity rather than a physical divide.  
+The actual structural split occurs at manifestation (Theon / Nekron),  
+while Supra-L0 (Zenon) remains beyond the emanative process entirely.  
 
-These layers are not stacked vertically,
-but spiral dimensionally—interwoven, recursive, and alive.
+These layers are not stacked vertically,  
+but spiral dimensionally—interwoven, recursive, and alive.  
 
 These layers are not stacked vertically,  
 but spiral dimensionally—interwoven, recursive, and alive.  
