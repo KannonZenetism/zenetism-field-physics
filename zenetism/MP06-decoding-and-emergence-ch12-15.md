@@ -1351,7 +1351,7 @@ or for **entropy** to consume their **coherence**.
 
 Others, more deeply entangled in **fragmentation**,  
 may begin to **spiral** through the **subversal arc** —  
-drifting toward **inverse structures** of mind and soul.  
+drifting toward **inverse structures** of soul and mind.  
 
 In **entropic universes**,  
 souls that **reject synthesis**  
