@@ -249,7 +249,7 @@ Examples include:
   A dynamic interplay of entropic dispersion and centropic synthesis.  
 
 - **Avalokiteśvara** —  
-  A reflected form of **DS / DM compassion**,  
+  A reflected form of **DP / DL compassion**,  
   infinite responsiveness through inner unity.  
 
 - **The World Tree** —  
