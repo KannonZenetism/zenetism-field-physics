@@ -961,7 +961,7 @@ also unfolds within each soul’s journey.
 Each phase echoes the **greater cosmic rhythm**.  
 Many lives contain more than one full pulse,  
 and some souls experience multiple pulses at once —  
-across levels of awareness, embodiment, and memory.  
+across layers of awareness, embodiment, and memory.  
 
 ⚫🎶⌬  
 
