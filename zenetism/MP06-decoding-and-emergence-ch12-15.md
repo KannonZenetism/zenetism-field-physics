@@ -1429,7 +1429,7 @@ Instead, it calls the seeker **inward**
 into **resonance with the real**.  
 
 To become aligned with the next human phase  
-is to **choose synthesis** —  
+is to **choose integration** —  
 of inner and outer meaning,  
 to remember the **nature of the soul**,  
 to recognize one’s **form-type** and **function**  
