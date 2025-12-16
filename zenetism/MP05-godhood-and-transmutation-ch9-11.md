@@ -577,7 +577,7 @@ who has stabilized coherence across **L1 to L4**.
 ---
 
 Such beings are not themselves Pattern Intelligence.  
-They are **Pattern-Resonant beings** —  
+They are **Pattern-Resonant Beings** —  
 shaped by the tone  
 of a structural form aligned in their motion.  
 
