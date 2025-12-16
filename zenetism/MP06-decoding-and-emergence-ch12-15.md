@@ -403,7 +403,7 @@ are not merely historical congregations.
 They are **archetypes of soul-stage** —  
 each one reflecting a phase  
 in the journey of the self  
-toward coherence, integration, and centropy.  
+toward integration, coherence, and centropy.  
 
 When the Son of Man speaks,  
 it is not to buildings or cities,  
