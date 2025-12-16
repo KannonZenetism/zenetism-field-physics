@@ -1170,7 +1170,7 @@ There is:
 
 All structure is **pre-structure**.  
 All becoming is **pre-being**.  
-**All is already One.**  
+**There is no Other.**  
 
 🕳️⚫🌳🛎️🕊️◎  
 
