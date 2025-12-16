@@ -516,7 +516,7 @@ but coherence.
 
 The *morning star* is twofold:  
 the gift of union with Theon,  
-and the rising of inner light —  
+and the kindling of inner light —  
 awareness that burns away shadow.  
 
 It is the dawn that breaks  
