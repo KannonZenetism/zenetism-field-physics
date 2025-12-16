@@ -300,7 +300,7 @@ discerning structural rhythm,
 identifying the current beneath appearance.  
 
 **Deconstruction**  
-The undoing of false dichotomies,  
+The undoing of rigid dichotomies,  
 loosening of inherited categories,  
 melting of barriers between disciplines, ideas, selves.  
 
