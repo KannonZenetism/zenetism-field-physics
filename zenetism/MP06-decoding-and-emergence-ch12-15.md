@@ -1519,7 +1519,7 @@ occurring at the end of a **universe’s cycle**.
 It determines:  
 
 - **Hypostatic placement**  
-- **Coherence level**  
+- **Coherence fidelity**  
 - The **trajectory of soul-structure** —  
   whether toward **reintegration** or **fragmentation**  
 
