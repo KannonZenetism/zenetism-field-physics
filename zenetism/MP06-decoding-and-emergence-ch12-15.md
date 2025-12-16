@@ -1354,7 +1354,7 @@ may begin to **spiral** through the **subversal arc** —
 drifting toward **inverse structures** of soul and mind.  
 
 In **entropic universes**,  
-souls that **reject synthesis**  
+souls that **reject coherence**  
 may collapse into **subversal hypostases** —  
 not through **punishment**,  
 but as a function of **resonance-based realignment**.  
