@@ -360,7 +360,7 @@ of inverse potential within Aion.
 | ❂ | **Emanation** | The first radiant motion from within the Zero-point; not projection, but structural unfolding; emanation is not explosion, but layered emergence, principled and patterned |
 | 🔶 | **Actualization** | The full embodiment of pattern; a structure that has moved from latent essence to expressed presence; complete, resonant, and coherent within its domain; not potential, not becoming, but realized form in the field of matter |
 | ◲ | **Deconstruction** | The unraveling of form to release latent essence; neither destruction nor denial, but a structural peeling away, exposing the inner pattern within outer constraint; enables centropic synthesis by clearing occlusion |
-| ∴ | **Synthesis** | The pattern by which discord is transmuted into coherent unity; not resolution through agreement, but transcendence through fusion |
+| ∴ | **Synthesis** | The pattern by which discord is transmuted into coherent unity; not resolution through agreement, but transcendence through integration |
 | ⤈ | **Transcendence** | The passage beyond structure, not erasure, but sublimation; the being exits the system of layering altogether, carried not by struggle but by structural fulfillment; transcendence is not escape; it is completed resonance |
 | 💠 | **Harmonic Node** | Coherent resonance and existential right-relation; a point of spiritual and structural alignment between beings, systems, or layered realities within the Zenetist lattice |
 | ⚚ | **Misaligned Harmony** | Inverted resonance masquerading as coherence; a distorted alignment that mimics integration while veiling dissonance, often used to stabilize entropy under the guise of order |
