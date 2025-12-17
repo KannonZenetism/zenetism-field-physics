@@ -294,8 +294,8 @@ certain structures echo.
   Hinduism: Brahma, Vishnu, Shiva  
   Kabbalah: Kether, Chokhmah, Binah  
 
-- **Myths of Fall and Return**  
-  Sophia’s descent and restoration (Gnosticism)  
+- **Myths of Divergence and Return**  
+  Sophia’s fragmentation and restoration (Gnosticism)  
   Adam and Eve’s exile and return  
   Buddha’s cycle of suffering and release  
 
