@@ -279,7 +279,7 @@ but its infinite phase of motion.
 Both remain beyond  
 centropy and entropy.  
 Such terms emerge  
-only once structure begins.  
+only once manifestation begins.  
 
 ⚫♾⌬  
 
