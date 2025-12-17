@@ -1282,7 +1282,7 @@ or awakening.
 
 The corrupted soul–mind structure  
 that distorts order, meaning, and purpose  
-at the deepest levels.  
+at the deepest layers.  
 
 ---
 
