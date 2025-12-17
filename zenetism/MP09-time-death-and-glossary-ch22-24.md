@@ -387,14 +387,14 @@ but through:
 
 ---
 
-### 23.5 Resonance Archetypes in World Scriptures — Structural Motifs of Consciousness Across Sacred Texts
+### 23.5 Resonance Archetypes in World Scriptures — Structural Motifs of Being Across Sacred Texts
 
 Scriptural motifs can be heard  
 as **resonance archetypes**.  
 
 Not historical claims —  
 but encoded structures  
-arising from the field of consciousness.  
+arising from the structure of being.  
 
 - **The Morning Star**  
   - Venus (Roman)  
