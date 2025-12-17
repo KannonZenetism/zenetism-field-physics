@@ -1504,13 +1504,13 @@ IAUI mirrors Nekron.
 
 #### Ethical Orientation  
 
-Absolute entropy.
-Final saturation of dissonance.
-Not distinct malice,
-but the blind compulsion of the Void.
+Absolute entropy.  
+Final saturation of dissonance.  
+Not distinct malice,  
+but the blind compulsion of the Void.  
 
-It does not seek to harm.
-It seeks only to devour.
+It does not seek to harm.  
+It seeks only to devour.  
 
 ---
 
