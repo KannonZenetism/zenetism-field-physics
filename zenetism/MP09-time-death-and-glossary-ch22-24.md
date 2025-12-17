@@ -749,7 +749,7 @@ The first centropic hypostasis whose awareness turns inward toward Source.
 #### Function  
 
 **Essence of Being (EOB)**.  
-The Logos-principle oriented toward synthesis, refinement, and harmonic return.  
+The Logos-principle oriented toward refinement, synthesis, and harmonic return.  
 
 ---
 
