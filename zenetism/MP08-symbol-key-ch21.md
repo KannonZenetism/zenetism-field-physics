@@ -247,7 +247,7 @@ not a station of being.
 #### Note on Khaon
 
 **Khaon** is not inherently entropic.  
-Like Aion, it is a **pre-structural principle** —  
+Like Aion, it is a **primordial principle** —  
 the phase of infinite motion  
 latent within the Absolute.  
 
