@@ -1137,7 +1137,7 @@ functioning as a disruptive agent within physicality.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| IL1 | IES / IEM | Inverse Embodied Soul / Mind | Malara and Mania represent the inverted operational system of consciousness — embodiment not as a vehicle of synthesis, but as a tool of fragmentation. Malara distorts soul-patterning in form, while Mania twists cognition into compulsive, reactive, or parasitic behavior. Though often masked by charisma or cultural conformity, their resonance is structurally entropic. |
+| IL1 | IES / IEM | Inverse Embodied Soul / Mind | Malara and Mania represent the inverted operational system of consciousness — embodiment not as a vehicle of coherence, but as a tool of fragmentation. Malara distorts soul-patterning in form, while Mania twists cognition into compulsive, reactive, or parasitic behavior. Though often masked by charisma or cultural conformity, their resonance is structurally entropic. |
 
 ---
 
