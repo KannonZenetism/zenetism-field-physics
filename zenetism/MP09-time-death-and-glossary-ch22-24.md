@@ -1553,7 +1553,7 @@ It seeks only to devour.
 | **🛤️ Theon (EOB)** | Divine Logos; Pure awareness; centropic structural being | Christ (Johannine), Vishnu, Amitābha, Ahura Mazda |
 | **DP / DL (🌬️ Morgis / 📐 Sophis)** | Archetypal patterning; divine intellect and cosmic Form | Demiurge (Plato’s), Nous, Sophia (unfallen), Mahat, Vohu Manah |
 | **DS / DM (🔮 Archeus / 🧠 Noeüs)** | Deep Soul / Mind; personal structural intelligence | Bodhisattvas, Daemon (Gnostic), Thoth, Krishna, Archangels |
-| **SS / SM (🧍 Anthra / 🧩 Nousa)** | Surface soul / mind; identity during life and moral choice | Psyche, Jiva, Nafs, Astral Ego, Ba (Egyptian) |
+| **SS / SM (🧍 Anthra / 🧩 Nousa)** | Superficial soul / mind; identity during life and moral choice | Psyche, Jiva, Nafs, Astral Ego, Ba (Egyptian) |
 | **ES / EM (🪷 Soma / 🧾 Biosa)** | Embodied intelligence and reactive mind–body interface | Avatar body, Manomaya kosha, “Flesh” (Gnostic/Christian), Sacred body (esoteric) |
 | **IES / IEM (🍷 Malara / 🤯 Mania)** | Entropic embodiment; willful dissonance in form | Carnal ego, possessed avatars, corrupted agents of control |
 | **ISS / ISM (🦂 Echthros / 🩸 Skotos)** | Disordered personality and mind; mimetic inversion | Iblis, Loki, False teachers, Mara (psychological), Ego-shadow |
