@@ -334,11 +334,11 @@ depending on its active role and tone.
 | DP / DL | YHWH, Demiurge, Nous, Mahat, Vohu Manah | Archetypal mind and divine intellect |
 | DS / DM | Bodhisattvas, Thoth, Archangels, Daemon | Soul harmonics and guiding intellects |
 | SS / SM | Psyche, Jiva, Nafs, Ba, Astral Double | Personal identity, autonomous agency |
-| ES / EM | Flesh, ego-self, karmic body, instinctual will | Embodied volition, form-based intelligence |
+| ES / EM | Flesh, Ego-Self, Karmic Body, Instinctual Will | Embodied volition, form-based intelligence |
 | IDP / IDL | Yaldabaoth, Degenerate Logos, Corrupt Demiurge, Archons | Inverse archetypal intelligence |
 | IDS / IDM | Subverted Selves, Asuras, Qarin, Spurious Guides | Inverted guides toward entropy |
 | ISS / ISM | Inverse Psyche, Shadow Jiva, Disordered Soul | Misaligned personal will and identity |
-| IES / IEM | Inverted ego, carnal agents, anti-pattern | Willing embodiment of entropic force |
+| IES / IEM | Inverted Ego, Carnal Agents, Anti-Pattern | Willing embodiment of entropic force |
 | 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep | Total entropy, negated synthesis |
 
 **Resonance, not name, determines placement.**
