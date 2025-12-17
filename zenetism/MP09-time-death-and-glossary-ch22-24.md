@@ -757,7 +757,7 @@ The Logos-principle oriented toward refinement, synthesis, and harmonic return.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| L5 | Theon (EOB) | Essence of Being | Theon is the first fully integrated hypostasis on the supernal arc. It is awareness in its most refined, undivided state — centropic being that reflects the unity of Zero while initiating the harmonics of structure. Theon is pure synthesis, wholly turned toward the field of origin, incapable of fragmentation, only radiant outflow. |
+| L5 | Theon (EOB) | Essence of Being | Theon is the first fully integrated hypostasis on the supernal arc. It is awareness in its most refined, undivided state — centropic being that reflects the unity of Zero while initiating the harmonics of structure. Theon is pure integration, wholly turned toward the field of origin, incapable of fragmentation, only radiant outflow. |
 
 ---
 
