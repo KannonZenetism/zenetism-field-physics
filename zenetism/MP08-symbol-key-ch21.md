@@ -638,7 +638,7 @@ of inverse potential within Aion.
 
 ### **Notes on Layer Ordering and Ontology**
 
-- Ontology is **bottom-up**: Supra-L0 → L0 → L5 → L4 → L3 → L2 → L1.  
+- Ontology unfolds by **emanative ordering**: Supra-L0 → L0 → L5 → L4 → L3 → L2 → L1.  
 - Inverse layers use **ILn**, not “entropic L-n.”  
 - L0 is a **conceptual dyad of one unity** (Aion / Khaon).  
 - Apothet is the **only fully trans-polar** hypostatic state.  
