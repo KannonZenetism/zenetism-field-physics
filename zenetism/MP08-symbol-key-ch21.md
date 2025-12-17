@@ -374,7 +374,7 @@ of inverse potential within Aion.
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
-| ⚙️ | **Apparent Order** | Structural pattern, architecture, or mechanism that manifests underlying principles of reality at all scales; may reflect true coherence or mimicry; neutral in nature, capable of aligning with either 📐 Sophis or Inverse Logos |
+| ⚙️ | **Apparent Order** | Structural pattern, architecture, or mechanism that manifests underlying principles of reality at all scales; may reflect genuine coherence or mimicry; neutral in nature, capable of aligning with either 📐 Sophis or Inverse Logos |
 | 🔷 | **Divine Geometry** | The structural logic of the cosmos; reflects justice not as retribution, but as harmonic placement within the total emanative design |
 | 🗺️📜 | **Pattern Map** | Represents sacred texts as symbolic cartographies; metaphysical maps guiding consciousness through structured layers of reality; applied in spiritual orientation, scripture decoding, or attunement to emanative architecture |
 | 🪬📜 | **Veiled Scroll** | Denotes esoteric or initiatory texts that conceal resonant patterns beneath surface narrative; alludes to hidden transmissions or sacred knowledge shrouded in symbolic encoding |
