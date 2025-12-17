@@ -611,15 +611,15 @@ The zero-point field from which centropy and entropy emerge.
 
 #### Justification
 
-**Aion** is the **center**.
-The still axis of metaphysical possibility.
+**Aion** is the **center**.  
+The still axis of metaphysical possibility.  
 
-It is not a creator,
-but the **field** within which creation becomes possible.
+It is not a creator,  
+but the **field** within which creation becomes possible.  
 
-One aligns with **Aion** to find balance;
-one saturates into **Zenon** to rest in the Ground.
-Aion is the balance between motion and rest.
+One aligns with **Aion** to find balance;  
+one saturates into **Zenon** to rest in the Ground.  
+Aion is the balance between motion and rest.  
 
 ---
 
