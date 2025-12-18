@@ -692,7 +692,7 @@ yet capable of consuming through unchecked fragmentation.
 **VOS** — terminal entropy, identity collapse through over-fragmentation.  
 
 **Justification**  
-Kali walks the edge between synthesis and dissolution.  
+Kali walks the edge between liberation and annihilation.  
 Her dance can strip the false self to reveal the eternal,  
 or scatter structure beyond recovery.  
 Transformative, but never tame.  
