@@ -500,7 +500,7 @@ Inversion without coherence.
 **ISS / ISM** (Echthros / Skotos)  
 
 **Justification**  
-Loki is a surface-level disruptor  
+Loki is a superficial-layer disruptor  
 whose craft lies in deceit,  
 not direct force.  
 Breaks systems from within,  
