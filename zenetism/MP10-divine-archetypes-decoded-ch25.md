@@ -746,7 +746,7 @@ Shekinah
 
 **Traditional Role**  
 Blind demiurge.  
-False creator of dissonant constructs.  
+Spurious creator of dissonant constructs.  
 
 **Function**  
 Architect of separation.  
