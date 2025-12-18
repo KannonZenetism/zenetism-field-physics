@@ -1174,7 +1174,7 @@ architects of disintegration masked as initiation.
 **Justification**  
 Reflect inverse Daemons.  
 Simulate trials but fracture through distortion.  
-Exploit fear, ambition, and false clarity.  
+Exploit fear, ambition, and counterfeit coherence.  
 Test coherence by reflecting fragmentation,  
 drawing souls toward entropic refinement or collapse.  
 
