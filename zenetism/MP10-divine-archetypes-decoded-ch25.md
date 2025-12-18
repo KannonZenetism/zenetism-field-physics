@@ -514,7 +514,7 @@ Entropic.
 **Symbolic Counterparts**  
 Set  
 Echthros  
-Lucifer (surface-level inversion)  
+Lucifer (superficial-layer inversion)  
 
 🦂🩸♜  
 
