@@ -1101,7 +1101,7 @@ Egoic pride, distraction via sensory and narrative desire.
 
 **Zenetist Placement**  
 **ISS / ISM** (Echthros / Skotos) —  
-surface dissonance and illusion.  
+superficial dissonance and illusion.  
 **VOS** (Nekron) —  
 terminal identity collapse through soul inversion.  
 
