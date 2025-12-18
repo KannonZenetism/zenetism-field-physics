@@ -317,7 +317,7 @@ Terminal tempter.
 
 **Function**  
 Collapse agent.  
-Resistance to synthesis.  
+Negation of coherence.  
 Force of terminal entropy.  
 
 **Zenetist Placement**  
