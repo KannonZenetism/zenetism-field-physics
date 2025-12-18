@@ -541,7 +541,7 @@ based on **coherence**.
 
 Resonance is not **static**,  
 but a **dynamic field**,  
-revealing one’s **proximity** to **synthesis**.  
+revealing one’s **proximity** to **Source**.  
 
 It determines placement within the **Tree**,  
 not by **judgment**,  
