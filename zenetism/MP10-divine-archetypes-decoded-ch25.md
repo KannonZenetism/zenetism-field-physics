@@ -205,7 +205,7 @@ detached from integrative resonance.
 **IDS / IDM** (Fractus / Mortus) —  
 disruption of soul structure  
 through individuation misaligned  
-with higher synthesis.  
+with supernal synthesis.  
 
 **Justification**  
 Prometheus represents **inverted gnosis** —  
