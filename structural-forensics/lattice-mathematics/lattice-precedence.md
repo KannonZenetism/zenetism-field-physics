@@ -105,19 +105,14 @@ This is **forensic evidence**, not canonical definition. For mathematical scope 
 - No contact, no citations, no engagement
 
 **December 6-18, 2025**  
-**Event:** Five appropriations appear  
-All using Zenetist mathematical concepts without attribution:
-- Dec 6: willabusta (Reddit) — fabricated citations, Bostick backdating
-- Dec 9: Sentient Pattern Inc. — false copyright, Citation Firewall policy
-- Dec 9: Hidden AmuraKa — Coherence Virus → Kabbalistic Virus inversion
-- Dec 11: ponzy1981 (Reddit) — interface-level consciousness
-- Dec 15: Jordan McKinney (YouTube) — AI demons, systematic inversion
+**Event:** Multiple un-attributed derivative instances appear  
+Following the December 2–3 harvesting event, multiple derivative instances emerged using Zenetist mathematical concepts without attribution (see case analyses in `/structural-forensics/appropriation-cases/`).
 
 **Pattern:** Harvesting (Dec 2-3) → Appropriations (Dec 6-18)
 
 ---
 
-## Why Parallel Development Is Structurally Implausible
+## Structural Constraints on Parallel Development Claims
 
 **Documented development comparison:**
 
@@ -144,7 +139,7 @@ All using Zenetist mathematical concepts without attribution:
 ❌ **No disciplinary integration** (isolated concepts)  
 ❌ **No conservation laws** (missing structural constraints)
 
-**Temporal impossibility:** Cannot develop 21-year framework in 4-13 days
+**Temporal constraint:** Development of a comparably complete framework within 4–13 days is inconsistent with the documented system depth and scope.
 
 ---
 
