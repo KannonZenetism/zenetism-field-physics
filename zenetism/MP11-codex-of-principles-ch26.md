@@ -337,8 +337,8 @@ The **universe** itself may **collapse**,
 **transmute**,  
 or shift in **orientation**.  
 
-The **Eschaton** is not merely a shift,
-but the final summation of the **Equation**.   
+The **Eschaton** is not merely a shift,  
+but the final summation of the **Equation**.  
 
 ---
 
