@@ -943,7 +943,7 @@ Generates monstrous or distorted forms.
 **Justification**  
 Tiamat is chaos without alignment.  
 Generates dissonant archetypes,  
-patterns resisting synthesis, moving toward fragmentation.  
+patterns resisting coherence, moving toward fragmentation.  
 
 **Ethical Orientation**  
 Entropic.  
