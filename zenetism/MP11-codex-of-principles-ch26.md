@@ -859,7 +859,7 @@ guided by:
 ---
 
 #### Fragmentation and the Khaonic Tree  
-When the Superficial Soul rejects synthesis —  
+When the Superficial Soul rejects coherence —  
 through distortion, inversion of will, or chronic dissonance —  
 it begins to move **declivously** into the Khaonic Tree,  
 finding resonance with deeper entropic structures.  
