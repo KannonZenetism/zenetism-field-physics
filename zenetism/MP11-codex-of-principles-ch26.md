@@ -603,7 +603,7 @@ to **deep soulhood** (DS / DM), and beyond.
 
 These are not **spatial realms**,  
 but **energetic states**  
-experienced through shades of **resonance** and **fragmentation**.  
+experienced through shades of **coherence** and **fragmentation**.  
 
 ⚫♾⌬  
 
