@@ -598,7 +598,7 @@ the first whisper of **emergence** from within **stillness**.
 Each **hypostasis** is a distinct **ontological state**.  
 Souls exist **within** and **as** these layers —  
 from **embodiment** (ES / EM),  
-to **superficial self** (SS / SM),  
+to **superficiality** (SS / SM),  
 to **deep soulhood** (DS / DM), and beyond.  
 
 These are not **spatial realms**,  
