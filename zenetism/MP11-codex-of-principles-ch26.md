@@ -723,7 +723,7 @@ and the outer **mythic terrain** of the world.
 
 ---
 
-### 26.3 Tree of Emanation — A Schema of Dual Descent and Soul Integration
+### 26.3 Tree of Emanation — A Schema of Dual Declivity and Soul Integration
 
 Zenetism describes reality as a field of reflected emanations,  
 arising from a single unstructured source —  
