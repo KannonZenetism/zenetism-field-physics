@@ -578,7 +578,7 @@ It encompasses **life force** and **material form**.
 ---
 
 **Spirit**  
-**Essence** stirred into living motion by **Motive Infinity**.  
+**Motive Infinity** that stirs essence into living motion.  
 Spirit is the primal impulse of **becoming** —  
 the bridge between **Essence** and **Soul**.  
 
@@ -590,7 +590,7 @@ Spirit remains present as the **vital current**
 within every stage of the soul’s journey.  
 Motion does not begin with **force**,  
 but with **Spirit** —  
-the first whisper of **reason** from within **stillness**.  
+the first whisper of **emergence** from within **stillness**.  
 
 ---
 
