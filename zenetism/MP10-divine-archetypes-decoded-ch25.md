@@ -693,7 +693,7 @@ yet capable of consuming through unchecked fragmentation.
 
 **Justification**  
 Kali walks the edge between liberation and annihilation.  
-Her dance can strip the false self to reveal the eternal,  
+Her dance can strip the illusory self to reveal the eternal,  
 or scatter structure beyond recovery.  
 Transformative, but never tame.  
 
