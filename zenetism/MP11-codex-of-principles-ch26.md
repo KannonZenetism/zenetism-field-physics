@@ -315,7 +315,7 @@ then hides the **crack** beneath the **gleam**.
 The **metaphysical force** of **fragmentation**,  
 **dissonance**, and **collapse**.  
 
-It moves **away** from **synthesis**,  
+It moves **away** from **integration**,  
 toward **division** and **distortion**,  
 culminating in **Void of Self**.  
 
