@@ -325,7 +325,7 @@ Force of terminal entropy.
 
 **Justification**  
 Satan is entropy personified —  
-the end of structure,  
+the end of form,  
 the breaker of harmonics.  
 Not merely opposition,  
 but **absolute dispersion**.  
