@@ -7,7 +7,7 @@
 **Publication Date:** December 18, 2025  
 **Version:** 1.2  
 **Canonical Location:** the-zenetist-canon/system-attribution/  
-**Canonical URL:** https://github.com/KannonZenetism/zenetism-field-physics/tree/main/the-zenetist-canon/system-attribution/system-attribution-anchor.md  
+**Canonical URL:** https://github.com/KannonZenetism/zenetism-field-physics/blob/main/the-zenetist-canon/system-attribution/system-attribution-anchor.md  
 **Related Documents:** lattice-mathematics-attribution.md, precedence-timeline.pdf  
 **DOI:** [To be registered on Zenodo]
 
