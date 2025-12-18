@@ -964,7 +964,7 @@ Over time, this crystallized resonance
 determines the soul’s final position  
 within the Tree of Emanation,  
 or its return to Zero through:  
-- **Centropic synthesis**  
+- **Centropic return**  
 - **Entropic collapse**  
 - **Lukewarm dissolution**  
 
