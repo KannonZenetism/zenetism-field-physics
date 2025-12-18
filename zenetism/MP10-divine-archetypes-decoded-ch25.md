@@ -131,7 +131,8 @@ Containment and generative fertility.
 Archetypal masculine and feminine.  
 
 **Zenetist Placement**  
-**DP / DL** — possibly emanating directly from Aion / Khaon.  
+**DP / DL** — primary polarization of Theonic unity;  
+an archetypal reflection of the Aion / Khaon dyad.  
 
 **Justification**  
 They express primordial polarity  
