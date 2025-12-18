@@ -328,7 +328,7 @@ Satan is entropy personified —
 the end of form,  
 the breaker of harmonics.  
 Not merely opposition,  
-but **absolute dispersion**.  
+but **absolute fragmentation**.  
 Not always Lucifer,  
 though sometimes sharing a continuum.  
 
