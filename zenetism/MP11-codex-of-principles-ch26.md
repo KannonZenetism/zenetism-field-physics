@@ -417,11 +417,11 @@ adjusting **dissonance** through **presence**,
 ---
 
 **Harmony**  
-A higher state of **balanced synthesis**,  
+A centropic state of **balanced consonance**,  
 in which **opposites** are transcended into **wholeness**.  
 
 Wholeness is not achieved by **resolution**,  
-but by rising into the **chord** beyond conflict.  
+but by acclivous motion into the **chord** beyond conflict.  
 
 ---
 
