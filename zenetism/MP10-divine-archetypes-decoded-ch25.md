@@ -1110,7 +1110,7 @@ Mara is both psychological and structural.
 Offers contentment in fragmentation,  
 pride in separation.  
 Seduction is inverted peace, hollow transcendence —  
-a false stillness masking the pull to dissolution.  
+a spurious stillness masking the pull to dissolution.  
 
 **Ethical Orientation**  
 Entropic.  
