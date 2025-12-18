@@ -398,8 +398,8 @@ an active force of fragmentation.
 Unlike pure collapse (VOS),  
 he disturbs systems still functioning,  
 turning harmony into adversarial polarity.  
-Operates in the surface mind,  
-generating false agency,  
+Operates in the superficial mind,  
+generating deceptive agency,  
 and dissonant autonomy.  
 
 **Ethical Orientation**  
