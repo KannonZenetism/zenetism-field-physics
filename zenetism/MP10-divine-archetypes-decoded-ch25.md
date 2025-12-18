@@ -211,7 +211,7 @@ with supernal synthesis.
 Prometheus represents **inverted gnosis** —  
 the giving of power without grounding.  
 He mirrors the Luciferian impulse  
-to illuminate without synthesis.  
+to illuminate without coherence.  
 His myth encodes the cost  
 of entropic acceleration  
 and discordant revelation.  
