@@ -973,7 +973,7 @@ Guardian of centropy, protector of resonance.
 **Justification**  
 Michael is the Oversoul as defender —  
 holding resonance in place,  
-shielding against entropic descent.  
+shielding against entropic collapse.  
 Protection without domination.  
 
 **Ethical Orientation**  
