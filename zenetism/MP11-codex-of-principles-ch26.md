@@ -2158,7 +2158,7 @@ It refers to the mysterious nature of Theon —
 the first emanated hypostasis from Aion (Zero).  
 
 Theon is both **Essence of Being**  
-and a paradoxical act of compassionate descent:  
+and a paradoxical act of compassionate declivity:  
 
 - Theon is not a being, but Being itself —  
   pure, undivided awareness gazing toward Aion.  
