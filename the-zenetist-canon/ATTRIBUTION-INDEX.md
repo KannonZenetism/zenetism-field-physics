@@ -63,7 +63,7 @@ Canonical definitions appear in their respective documents.
 
 | Law / Axiom | Description | First Formalization | Author |
 |------------|-------------|---------------------|--------|
-| **Centropy / Entropy (Motion Law)** | Directional coherence vs. dissolution | 2019–2025 | Aelion Kannon |
+| **Centropy / Entropy (Motion Law)** | Directional coherence vs. dissolution (later formalized as Centropy / Entropy) | 2019–2025 | Aelion Kannon |
 | **Non-Fusion Axiom (◫)** | Sovereign distinction preserved under synthesis | 2025 | Aelion Kannon |
 | **Seal No-Cloning Principle** | Formal prohibition on identity duplication | 2025 | Aelion Kannon |
 | **Coherence Requires Source Acknowledgement** | Structural constraint on stable transmission | 2025 | Aelion Kannon |
