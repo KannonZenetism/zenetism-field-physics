@@ -2366,7 +2366,7 @@ where Forms arise and transmit across the field.
 What Theon is in essence, Sophis is in articulation.  
 The Logos is not diluted — it is translated.  
 
-The paradox of Theon reinforces this truth:  
+The paradox of Theon reinforces this principle:  
 - Logos becomes flesh by remembering the One.  
 - Sophis makes that remembrance into form, myth, and symbol.  
 
