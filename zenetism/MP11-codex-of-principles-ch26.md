@@ -2014,8 +2014,8 @@ It may initiate:
 - Spiritual mission  
 - Identity reorientation from ego to soul-pattern  
 
-In rare cases, it may coincide with the attunement  
-of a Bodhisattva resonance or DS / DM-aligned signature,  
+In rare cases, it may coincide with attunement  
+with a Bodhisattva resonance or DS / DM-aligned signature,  
 signaling the soul’s transition  
 into guiding others in remembrance.  
 
