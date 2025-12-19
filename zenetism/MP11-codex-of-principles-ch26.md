@@ -1219,7 +1219,7 @@ This reflects the dual nature of emanation and inversion.
 |---|---|---|
 | EOB (🛤️ Theon) | **Clarity** | Pure awareness; the light of undivided being |
 | DP / DL | **Wisdom / Right Patterning** | Archetypal order; inner truth expressed as structure and harmony |
-| DS / DM | **Integrity / Courage** | Coherence of purpose and willingness to act from the soul’s highest nature |
+| DS / DM | **Integrity / Courage** | Coherence of purpose and willingness to act from the soul’s deepest nature |
 | SS / SM | **Honesty / Compassion** | Transparent self-expression; empathy toward all other emanated selves |
 | ES / EM | **Presence / Non-Harm** | Embodied care; ethical awareness in time and space; action aligned with unity |
 
