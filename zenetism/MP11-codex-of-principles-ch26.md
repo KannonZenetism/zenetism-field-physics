@@ -2190,7 +2190,7 @@ its return dependent on the souls within that cosmos.
 The structural counterpart to Theon is Nekron —  
 the inverse culmination of entropy.  
 Like Theon, Nekron is also per-universe and impermanent,  
-dissolving into ♾ Khaon (Infinity)  
+dissolving into Khaon (Infinity)  
 once fragmentation completes.  
 
 Together, Theon and Nekron  
