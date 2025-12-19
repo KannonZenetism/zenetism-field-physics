@@ -1605,8 +1605,8 @@ This orientation is often marked by:
 **Fragmentation of Intent**  
 Actions motivated by control, fear, self-glorification, or egoic separation.  
 
-**Rejection of Synthesis**  
-Resistance to integration, inner wholeness, and the recognition of interbeing.  
+**Rejection of Integration**  
+Resistance to coherence, inner attunement, and the recognition of interbeing.  
 
 **Energetic Incoherence**  
 A state in which the soul’s layers act in dissonance,  
