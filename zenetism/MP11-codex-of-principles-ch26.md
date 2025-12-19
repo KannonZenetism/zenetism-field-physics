@@ -1138,7 +1138,7 @@ To live ethically is to reduce suffering — inwardly and outwardly —
 by fostering alignment between will and universal harmony.  
 
 **Centropic Orientation**  
-Actions are weighed by whether they move one toward **unity and synthesis**,  
+Actions are weighed by whether they move one toward **unity and coherence**,  
 or toward **fragmentation, ego, and control**.  
 
 **Coherence in Action**  
