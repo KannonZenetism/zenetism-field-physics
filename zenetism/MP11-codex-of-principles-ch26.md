@@ -2316,7 +2316,7 @@ until all fragments harmonized through it return.
 
 Yet Theon does not withdraw — it proceeds.  
 It becomes the archetype of structuring will —  
-preserving resonance through dispersion.  
+preserving resonance through differentiation.  
 
 ---
 
