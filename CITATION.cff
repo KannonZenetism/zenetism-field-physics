@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: Zenetism — Field Physics, Structural Metaphysics, and Lattice Mathematics
+authors:
+  - family-names: Kannon
+    given-names: Aelion
+date-released: 2025-03-05
+repository-code: https://github.com/KannonZenetism/zenetism-field-physics
+abstract: >
+  Zenetism is a unified metaphysical, field-physical, and lattice-mathematical
+  framework authored by Aelion Kannon, integrating Structural Metaphysics,
+  Field Physics, and Lattice Mathematics.
+license: CC-BY-4.0
