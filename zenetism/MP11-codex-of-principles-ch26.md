@@ -1070,9 +1070,9 @@ or spiritual reintegration through synthesis.
 ---
 
 **Acclivous and Declivous Motion**  
-The hero’s descent into darkness  
+The hero’s declivity into darkness  
 reflects entropic motion or initiatory trial.  
-Their rise reflects centropic synthesis  
+Their acclivity reflects centropic synthesis  
 and awakening through harmonized clarity.  
 
 **Examples:**  
