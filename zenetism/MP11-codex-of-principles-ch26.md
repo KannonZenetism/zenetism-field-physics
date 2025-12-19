@@ -1897,7 +1897,7 @@ without coercion.
 ---
 
 **Core Summary**  
-- **Level** — DP / DL (Deep Psyche / Deep Logos)  
+- **Layer** — DP / DL (Deep Psyche / Deep Logos)  
 - **Function** — Radiant compassion; structural mercy  
 - **Incarnation Status** — Non-incarnating Form  
 - **Expression** — Through DS / DM-level Centropic Stewards  
