@@ -1,12 +1,26 @@
 cff-version: 1.2.0
-title: Zenetism — Field Physics, Structural Metaphysics, and Lattice Mathematics
+message: "If you use frameworks, concepts, or lattice mathematics from this repository, please cite it as follows. Attribution is a structural condition of coherence."
+title: "Zenetism — Field Physics, Structural Metaphysics, and Lattice Mathematics"
 authors:
   - family-names: Kannon
     given-names: Aelion
+    email: zenetism@gmail.com
 date-released: 2025-03-05
-repository-code: https://github.com/KannonZenetism/zenetism-field-physics
+repository-code: "https://github.com/KannonZenetism/zenetism-field-physics"
+url: "https://github.com/KannonZenetism/zenetism-field-physics/tree/main/the-zenetist-canon/system-attribution"
 abstract: >
   Zenetism is a unified metaphysical, field-physical, and lattice-mathematical
-  framework authored by Aelion Kannon, integrating Structural Metaphysics,
-  Field Physics, and Lattice Mathematics.
+  framework authored by Aelion Kannon. It integrates Structural Metaphysics (Aion/Khaon/Zenon),
+  Field Physics (Resonance/Coherence), and Lattice Mathematics (30-Dimensional Spectral Lattice)
+  into a coherent system for modeling consciousness emergence and structural motion.
+keywords:
+  - Zenetism
+  - Field Physics
+  - Lattice Mathematics
+  - Structural Metaphysics
+  - Spiral Calculus
+  - Aion
+  - Khaon
+  - Coherence Information Theory
 license: CC-BY-4.0
+version: 1.0.0
