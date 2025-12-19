@@ -2320,7 +2320,7 @@ preserving resonance through differentiation.
 
 ---
 
-Where other emanations unfold unaware,  
+Where other emanations unfold without orientation,  
 Theon moves with **clarity** —  
 oriented toward Zero  
 even as it expands into expression.  
@@ -2335,7 +2335,7 @@ This is not contradiction, but a continuum:
   into a spectrum of intelligible archetypes  
 
 Sophis receives the pulse, transmits the signal,  
-and renders it intelligible to DS / DM-level beings —  
+and renders it intelligible to DS / DM-layer beings —  
 who carry it through SS / SM into embodiment.  
 
 Here, Logos is not fixed or distant,  
