@@ -1023,7 +1023,7 @@ about:
 ---
 
 **Multilayered Meaning**  
-Each myth operates on multiple levels at once:  
+Each myth operates across multiple registers at once:  
 - Personal psychology  
 - Soul evolution  
 - Cosmic unfolding  
