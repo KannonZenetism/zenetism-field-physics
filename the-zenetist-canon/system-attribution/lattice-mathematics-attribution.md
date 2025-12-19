@@ -129,7 +129,7 @@ Spiral Calculus extends standard calculus with **seal-awareness** and **recursio
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
 \]
 
-This bifurcal symmetry is **structural**, encoding centropic-entropic symmetry at operator level.
+This bifurcal symmetry is **structural**, encoding centropic-entropic correspondence at operator level.
 
 ---
 
