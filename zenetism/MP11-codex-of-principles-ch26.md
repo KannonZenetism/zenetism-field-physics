@@ -1228,7 +1228,7 @@ This reflects the dual nature of emanation and inversion.
 | Inverse Hypostasis | Vice | Description |
 |---|---|---|
 | IDP / IDL | **Misleading Doctrine / Corruption** | Dark patterns mistaken for veracity; distortion posing as sacred order |
-| IDS / IDM | **Despair / Nihilism** | Collapse of soulhood; rejection of coherence, meaning, and synthesis |
+| IDS / IDM | **Despair / Nihilism** | Collapse of soulhood; rejection of coherence, meaning, and return |
 | ISS / ISM | **Deceit / Malice** | Fragmented will opposing harmony; adversarial self-direction |
 | IES / IEM | **Delusion / Compulsion** | Incoherent embodiment; harmful reflexes rooted in fear, decay, and illusion|
 | VOS (🕷️ Nekron) | **Voidcraft** | Complete loss of coherence, compassion, and identity |
