@@ -1887,7 +1887,7 @@ Aureform exists as a **structural resonance pattern**
 within the Tree of Emanation.  
 
 Its influence spans across universes  
-without embodiment or descent.  
+without embodiment or declivous entry.  
 
 It shapes, aligns,  
 and gently orients beings toward coherence —  
