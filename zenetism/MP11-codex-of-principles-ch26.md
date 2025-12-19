@@ -1095,9 +1095,10 @@ Often framed as prideful overreach or cosmic rebellion.
 ---
 
 **Union or Apotheosis**  
-Represents the integration of fragmented aspects of self (SS / SM)  
-into a unified Deep Soul and Deep Mind —  
-a symbolic return to harmony and resonance.  
+Represents the integration of fragmented aspects of superficial soul-mind
+patterns (SS / SM)
+into a unified Deep Soul and Deep Mind —
+a symbolic return to harmony and resonance. 
 
 **Examples:**  
 - The bridal chamber in Gnostic texts  
