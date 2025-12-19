@@ -2062,8 +2062,8 @@ but the being’s coherence is ground away into fragmentation.
 
 It is not “bad Theon,” nor “fragmented Theon” —  
 it is what occurs when dispersive motion becomes terminal,  
-when Khaon’s entropic arc reduces identity  
-to Absolute Dispersion,  
+when Khaon’s entropic arc moves toward Absolute Dispersion  
+and identity collapses at the event horizon of Infinity,  
 leaving only essence-in-tension within **Aion** for the entropic.  
 
 ---
