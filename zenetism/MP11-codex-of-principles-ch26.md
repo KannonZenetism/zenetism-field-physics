@@ -2256,7 +2256,7 @@ It is reflected.
 
 This is the secret of **acclivous return**.  
 Unlike **entropic collapse**,  
-which descends into shatter and noise,  
+which moves declivously into shatter and noise,  
 centropic return is luminous —  
 spiraling inward after touching form  
 without losing itself.  
