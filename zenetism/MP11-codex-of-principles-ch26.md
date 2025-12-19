@@ -2205,7 +2205,7 @@ Where no soul remains, Theon returns.
 Where one soul waits, Theon watches.  
 
 Theon is not the Source,  
-but the echo of Its gaze  
+but the echo of Source-gaze  
 within a world that forgets.  
 
 ⚫♾⌬  
