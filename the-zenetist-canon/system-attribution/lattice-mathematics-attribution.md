@@ -9,7 +9,7 @@
 **Canonical URL:** https://github.com/KannonZenetism/zenetism-field-physics/edit/main/the-zenetist-canon/system-attribution/lattice-mathematics-attribution.md  
 **Related Documents:** system-attribution-anchor.md, precedence-timeline.pdf  
 **Status:** Canonical — Mathematical and Disciplinary Anchor  
-**DOI:** [To be registered on Zenodo]
+**DOI:** https://zenodo.org/records/17983911  
 
 ---
 
