@@ -2034,7 +2034,7 @@ to remember what was never lost.
 ### 26.20 Nekron and the Principle of Negative Unity — Why the Void of Self Emerges from the Arc of Dispersion
 
 Zenetism does not equate Nekron (Void of Self, VOS) with Motive Infinity,  
-even though ♾ Khaon occupies the dispersive side of the Tree of Emanation.  
+even though Khaon occupies the dispersive side of the Tree of Emanation.  
 
 This distinction is vital to understanding how Nekron becomes equated  
 with the singular value **−1**,  
