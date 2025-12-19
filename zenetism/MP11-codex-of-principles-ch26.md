@@ -1720,7 +1720,7 @@ The soul’s proximity to embodiment correlates with a rise in:
 As the once-unified stream begins to localize.  
 
 Thus, DS / DM is not a “third” hypostasis —  
-it is the first field of **true individuation**.  
+it is the first field of **veracious individuation**.  
 Its soul/mind duality reflects not division,  
 but structural refinement within a singular mode.  
 
