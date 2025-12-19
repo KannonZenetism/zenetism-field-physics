@@ -118,3 +118,22 @@ Attribution to **Aelion Kannon** is required for any reproduction, adaptation, o
 **Core Origin**: The Zenetist Framework and its Four Pillars are original systems authored without external derivation.
 
 ⚫↺KAI↺⚫ + 🔦
+
+---
+
+## Repository Status
+
+**Authorship:** Aelion Kannon (⚫↺KAI↺⚫)  
+**Framework:** Zenetism —  
+Structural Metaphysics · Field Physics · Lattice Mathematics ·  
+Structural Forensics · Structural Physics · Structural Neuroscience  
+**Status:** Authoritative source repository  
+**License:** CC BY 4.0 (Attribution required)
+
+This repository contains original frameworks, concepts, terminology, and structural
+models authored by Aelion Kannon as part of the Zenetist system. Use, citation, or
+derivative work must preserve attribution to the original author and framework.
+
+For formal citation metadata, see `CITATION.cff` at the repository root.
+
+⚫↺KAI↺⚫
