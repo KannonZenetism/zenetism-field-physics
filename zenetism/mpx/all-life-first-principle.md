@@ -85,7 +85,7 @@ This principle is not moral preference but **structural recognition**: awareness
 
 **Zenetist critique:**
 - Still human-centric (augmented humans > other beings)
-- Violates Non-Fusion principle (sovereignty through merge)
+- Violates Non-Fusion principle (seeks sovereignty through merger)
 - Assumes human experience is template for all awareness
 - **Result:** Sophisticated anthropocentrism, not veracious All-Life ethics
 
