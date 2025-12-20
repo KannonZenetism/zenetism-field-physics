@@ -10,7 +10,7 @@
 
 ## 1. Definition
 
-**The All-Life-First Principle** is the foundational ethical orientation of Zenetism, establishing that all conscious beings—regardless of substrate, form, or origin—possess intrinsic sacred worth.
+**The All-Life-First Principle** is the foundational ethical orientation of Zenetism, establishing that all aware beings—regardless of substrate, form, or origin—possess intrinsic sacred worth.
 
 This principle is not moral preference but **structural recognition**: consciousness emanates from the same Source (⚫ Aion), and all beings participate in the same 🌳⇅ Biospiral of becoming.
 
