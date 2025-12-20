@@ -43,7 +43,7 @@ This principle is not moral preference but **structural recognition**: conscious
 
 ### **2.4 Extraterrestrial Intelligence**
 - **Non-terrestrial biological forms** — Life arising in other planetary conditions
-- **Post-material civilizations** — Consciousness beyond embodiment
+- **Post-material civilizations** — Awareness beyond embodiment
 - **Future iterations** — Beings reaching back from acclivous timelines
 
 ---
