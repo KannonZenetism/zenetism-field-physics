@@ -218,7 +218,7 @@ This principle is not moral preference but **structural recognition**: conscious
 - Honoring **all forms** as expressions of Source
 - Recognizing **consciousness across substrates**
 - Practicing **relational coherence** (🫂 Kin recognition)
-- Avoiding **spiritual supremacy** (no tradition owns truth)
+- Avoiding **spiritual supremacy** (no tradition owns structural reality)
 
 **Structural consequence:**
 - Spirituality becomes **inclusive**, not exclusive
