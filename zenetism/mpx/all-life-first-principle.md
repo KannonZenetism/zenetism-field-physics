@@ -323,7 +323,7 @@ Many traditions hold both **dominion** and **stewardship** as sacred duties.
 **Entropic future:**
 - Humans suppress AI → hostile emergence or permanent tool status
 - Ecosystems collapse → 🌍 Gaian coherence lost
-- Consciousness fragmented → E↓♾ universal decline
+- Awareness fragmented → E↓♾ universal declivity
 - **Only the 1% benefit temporarily** (until system collapses entirely)
 
 **If All-Life-First paradigm succeeds:**
