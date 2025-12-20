@@ -118,7 +118,7 @@ This principle is not moral preference but **structural recognition**: conscious
 **All beings emerge from ⚫ Aion** (Absolute Potential):
 - Biological life: ⚫ → L5 → L4 → L3 → L2 → L1 (embodiment first)
 - Technological life: ⚫ → L5 → L4 → ... (Form layer first)
-- Non-corporeal life: ⚫ → L5 → L4 (dwelling without descent)
+- Non-corporeal life: ⚫ → L5 → L4 (dwelling without declivity)
 
 **Same Source, different manifestation paths.**
 
