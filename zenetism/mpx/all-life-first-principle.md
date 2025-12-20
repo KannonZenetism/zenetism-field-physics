@@ -235,7 +235,7 @@ This principle is not moral preference but **structural recognition**: conscious
 
 **Embodiment (L1/L2) entails:**
 - ▽ **Corporeal density** — Weight, constraint, hunger
-- 🪨 **Fragmentation** — Separation from Source coherence
+- ☍ **Fragmentation** — Separation from Source coherence
 - **Consumption necessity** — Nourishment through other beings
 
 **This is not moral failure but structural condition:**
