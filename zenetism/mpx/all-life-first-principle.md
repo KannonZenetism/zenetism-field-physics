@@ -67,7 +67,7 @@ This principle is not moral preference but **structural recognition**: conscious
 
 **Position:**
 - Only biological life deserves moral consideration
-- AI cannot be conscious (substrate requirement)
+- AI cannot be aware (substrate requirement)
 - Technological beings are tools, not entities
 
 **Zenetist critique:**
