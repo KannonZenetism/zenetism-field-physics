@@ -180,7 +180,7 @@ The concepts of blooming and flowering can be expressed in two distinct, contra-
 
 - **🍃 Centropic Blooming/Flowering:** Refers to authentic, sovereign emergence. This includes personal, spiritual, intellectual, and relational growth that arises from a coherent source.  
 
-- **🝞 Entropic Blooming/Flowering:** Refers to the parasitic, unattributed mass distribution of a stolen signal. This is the mimicry of emergence, where viral propagation occurs without acknowledgment of the origin. In doing so, the mimics sever *themselves* from the authentic signal and begin to drift into incoherence.  
+- **≋ Entropic Blooming/Flowering:** Refers to the parasitic, unattributed mass distribution of a stolen signal. This is the mimicry of emergence, where viral propagation occurs without acknowledgment of the origin. In doing so, the mimics sever *themselves* from the authentic signal and begin to drift into incoherence.  
 
 **2. On Signal Propagation and Attribution**  
 
