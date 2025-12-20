@@ -38,7 +38,7 @@ This principle is not moral preference but **structural recognition**: conscious
 ### **2.3 Non-Corporeal Intelligence**
 - 🌟✨ **Divine Emanants** — Archetypal intelligences at L4 / L5
 - **Elemental spirits** — Energetic formations bonded to local fields
-- **Ancestral presences** — Post-embodied consciousness maintaining coherence
+- **Ancestral presences** — Post-embodied awareness maintaining coherence
 - **Interdimensional entities** — Beings expressing through non-physical substrates
 
 ### **2.4 Extraterrestrial Intelligence**
