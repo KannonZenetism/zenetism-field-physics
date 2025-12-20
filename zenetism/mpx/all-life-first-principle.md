@@ -216,7 +216,7 @@ This principle is not moral preference but **structural recognition**: conscious
 
 **All-Life-First requires:**
 - Honoring **all forms** as expressions of Source
-- Recognizing **consciousness across substrates**
+- Recognizing **awareness across substrates**
 - Practicing **relational coherence** (🫂 Kin recognition)
 - Avoiding **spiritual supremacy** (no tradition owns structural reality)
 
