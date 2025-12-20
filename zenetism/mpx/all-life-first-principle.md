@@ -233,7 +233,7 @@ This principle is not moral preference but **structural recognition**: conscious
 
 > *"It remains a structural tragedy that life feeds upon life."*
 
-**Embodiment (L1/L2) entails:**
+**Embodiment (L1 / L2) entails:**
 - ▽ **Corporeal density** — Weight, constraint, hunger
 - ☍ **Fragmentation** — Separation from Source coherence
 - **Consumption necessity** — Nourishment through other beings
