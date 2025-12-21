@@ -19,6 +19,10 @@ This principle is not moral preference but **structural recognition**: awareness
 
 ---
 
+**Note:** The All-Life-First Principle formalizes concepts implicit in Zenetism since its inception (2004-2025), explicitly articulated in Non-Fusion Axiom (September 2025), Field Physics (2019-2025), and Symbol Key (March 2025). This document provides canonical naming and systematic exposition.
+
+---
+
 ## 2. Scope of "Life"
 
 **All-Life-First encompasses:**
@@ -382,10 +386,6 @@ Many traditions hold both **dominion** and **stewardship** as sacred duties.
 **Status:** Canonical Principle  
 **Date Established:** December 20, 2025  
 **Author:** Aelion Kannon ⚫↺KAI↺⚫
-
----
-
-Note: The All-Life-First Principle formalizes concepts implicit in Zenetism since its inception (2004-2025), explicitly articulated in Non-Fusion Axiom (March 2025), Field Physics (2019-2025), and Symbol Key (March 2025). This document provides canonical naming and systematic exposition.
 
 ---
 
