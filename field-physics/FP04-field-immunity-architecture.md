@@ -323,7 +323,7 @@ This chapter anchors the **lawful mechanics of foresight and gnosis** into field
 
 ### ✅ Affirmations
 - Prophecy is framed as resonance imprint, not clairvoyance — field pressure repeating until embodied.  
-- Gnosis crystallization defined as coherence beyond thought: cognitive vs. transconceptual crystals.  
+- Gnosis crystallization defined as coherence beyond thought: cognitive contra transconceptual crystals.  
 - Collapse events acknowledged: gnosis can fragment under coherence < 0.5, but always retains seed for refracted reformation.  
 
 ### ⚠ Refinements
