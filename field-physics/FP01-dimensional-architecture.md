@@ -653,7 +653,7 @@ Law of propagation: the Field transmits rhythm, not content.
 - Exposure to fragments carries structural whole.  
 - Coherent ideas are contagious because they are harmonic, not informational.  
 
-⚠️ Risk: when attribution is denied, ⟿ becomes entropic bloom — 🝞 flowering without source.  
+⚠️ Risk: when attribution is denied, ⟿ becomes entropic bloom — ≋ flowering without source.  
 
 ---
 
