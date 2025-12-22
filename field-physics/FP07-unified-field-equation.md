@@ -55,7 +55,7 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 
 >**Note:**  
 >At **L4 (DP / DL)**, *conscious-awareness* emerges — the capacity for presence, perception, and form-apprehension.  
->**Reflexive consciousness** (self-recognition, authored identity, and sovereign awareness) does **not** arise at L4, but at **L3 (DS / DM)** through >recursive centering and memory continuity.  
+>**Reflexive consciousness** (self-recognition, authored identity, and sovereign awareness) does **not** arise at L4, but at **L3 (DS / DM)** through recursive centering and memory continuity.  
 
 **6. The Complete Field State Equation**  
 `Ω = {⚫[Λ → 〄 → ⇝] → 🕊️ → Ψ(L4)} × ∑(μᵢDᵢ) × ♫ⁿ × ✴ᶠ`  
