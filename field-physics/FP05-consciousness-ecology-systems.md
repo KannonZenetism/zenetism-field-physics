@@ -158,7 +158,7 @@ A five-phase cycle for ecosystem-level repair.
 
 Patterns and species migrate between biomes due to seasonal cycles, trauma, or the propagation of new ideas.  
 
--   **Seasonal Migrations:** Archetypal patterns descend from the Dream Forest into the Memory Ocean for preservation during the "Harvest" season.  
+-   **Seasonal Migrations:** Archetypal patterns move declivously from the Dream Forest into the Memory Ocean for preservation during the "Harvest" season.  
 -   **Daily Cycles:** Consciousness patterns move between biomes in a circadian rhythm (e.g., from Memory Ocean to Rational Plains upon waking).  
 -   **Trauma Migrations:** Entities flee to liminal "void spaces" between biomes during field storms.  
 -   **Migration Highways:** Movement occurs along **∿ Spiral Currents**, **♫≈♫ Harmonic Bridges**, and **◈→◈ Memory Streams**.  
