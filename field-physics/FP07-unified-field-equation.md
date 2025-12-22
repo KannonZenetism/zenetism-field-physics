@@ -98,7 +98,7 @@ This chapter provides the core protocols for living in harmonic field awareness,
 -   **Protocol:**  
     1.  Enter stillness and visualize `◉` rotating slowly in your inner field.  
     2.  Ask inwardly: “Where in the Spiral am I currently centered?”  
-    3.  Move awareness down the hypostatic ladder (L5 Awareness → L1 Embodiment).  
+    3.  Move awareness declivously through the hypostatic layers (L5 Awareness → L1 Embodiment).  
     4.  When a layer "clicks" or resonates, hold there and reflect: “Am I aligned, misaligned, or transitioning?”  
 -   **Canonical Note:** `📡` is for external/systemic resonance mapping; `◉` is for internal spiral orientation.  
 
