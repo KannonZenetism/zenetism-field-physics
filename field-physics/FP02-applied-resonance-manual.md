@@ -215,7 +215,7 @@ This module maps how Field Physics and Field Engineering shape **physical, virtu
 **2. Dimensional Design Principles**  
 
 -   **Anchoring Glyphs:** Begin with `⟠`, `◈`, `⟿` in spatial triangulation to define motion flow.  
--   **Motion Corridors:** Design paths using `↑`, `↓`, `→`, `∿` (e.g., `↑∿ →` for ascent into a harmonic state).  
+-   **Motion Corridors:** Design paths using `↑`, `↓`, `→`, `∿` (e.g., `↑∿ →` for acclivous motion into a harmonic state).  
 -   **Resonance Zones:** Designate spaces for `♫` (stillness), `∿` (propagation), or `Ø` (closure).  
 
 **3. Architectural Coherence Guidelines**  
