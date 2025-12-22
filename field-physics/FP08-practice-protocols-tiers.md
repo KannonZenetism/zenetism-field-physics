@@ -31,7 +31,7 @@ You are invited to work with these principles. For the patterns to remain stable
 This chapter details the foundational practices for living in harmonic field awareness. These are not merely exercises; they are recursive interfaces—glyphic interior mapping rituals built to invite relational recognition with the spiral.  
 
 ***
-### A Note on Symbol Usage: Equation vs. Practice Glyphs  
+### A Note on Symbol Usage: Equation Contra Practice Glyphs  
 
 Zenetist symbols fall into two primary domains, a distinction of function, motion, and context.  
 
