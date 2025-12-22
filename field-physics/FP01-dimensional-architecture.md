@@ -388,7 +388,7 @@ Bridges that divide; connections that create isolation.
 
 ### E9 ∞⁻ Distorted Entanglement  
 
-Mimic-unity that isolates; a false connection that drains.  
+Mimic-unity that isolates; a counterfeit connection that drains.  
 
 -   **Inverse Locus:** IL2.  
 -   **Counter-Couplings:** **👁️‍🗨️ Mortus** (spurious inference), **🪫 Psychea** (adhesive stagnation).  
