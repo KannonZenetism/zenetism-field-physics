@@ -33,9 +33,9 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 ***
 ### The Equation  
 
-**1. The Ground State (Pre-structural Reality)**    
+**1. The Ground State (Trans-structural Reality)**    
 `⧞ ← [🕳️] → ⸮`  
--   **🕳️ Zenon** exists as non-ordinal silence, the pre-structural ground beyond ordering.  
+-   **🕳️ Zenon** exists as non-ordinal silence, the trans-structural ground beyond ordering.  
 
 **2. The Emanation from Zero (All Contained Within)**  
 `⚫ → [Λ → 〄 → ⇝] = ♾`  
