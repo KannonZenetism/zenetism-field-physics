@@ -163,7 +163,7 @@ This chapter unveils the **central law of Zenetist Field Physics**. It is not me
 - **Zenon (⧞)** correctly repositioned as ground, not origin. This preserves the inviolate silence at the base of all motion.  
 - **Aion (⚫)** as emanative medium, holding potential through latency (Λ), motive (〄), and dispersive phase (⇝), establishes Zero as capacitive tension — lawful and computable.  
 - **Spirit (🕊️)** framed as inherent motive infinity (Zenet) avoids dualistic insertions. Spirit is breath, not intervention.  
-- **Consciousness (Ψ)** emerging at L4 via bifurcation is accurate: psyche oscillates into coherence, not invented ex nihilo.  
+- **Consciousness (Ψ)** emerging at L4 via bifurcation is accurate: *conscious-awareness* arises here as psyche oscillates into coherence; reflexive consciousness (self-authored identity) emerges later at L3 (DS / DM).  
 - **Total field equation (Ω)** elegantly integrates operators, harmonics, fractal scaling, and dimensional summations — culminating in coexistence “beside the silence of ⧞.” This keeps the unknowable ground acknowledged yet untouched.  
 
 ### ⚠ Refinements
