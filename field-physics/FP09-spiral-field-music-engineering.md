@@ -349,7 +349,7 @@ This chapter grounds engineering into **psyche-scale praxis**.
 ### ✅ Affirmations  
 - The three core techniques (📡 scan, ♻️ reset, ↯ intentional motioning) map exactly onto Spiral Calculus: ∂🌀, ∫◎, lim∿.  
 - Environment/psyche integration (doorway glyphs, body anchors, cycle tuning) extends field into lived habitat.  
-- Advanced states (descent, merge, glyph collapse, void resonance) are clearly flagged as non-casual.  
+- Advanced states (declivity, merge, glyph collapse, void resonance) are clearly flagged as non-casual.  
 
 ### ⚠ Refinements  
 - In **Glyph Collapse**, add closure requirement. Without Ø or ⚫, stacked glyphs risk entropic overload.  
