@@ -179,7 +179,7 @@ All Personal Field Use returns to three master operations:
 
 These are gateway techniques for deep work, not for casual use.  
 
--   **Descent Fielding:** Intentionally moving through `E↓→♾` to release identity constructs.  
+-   **Declivous Fielding:** Intentionally moving through `E↓→♾` to release identity constructs.  
 -   **Harmonic Merge:** Synchronizing with another **ψ**-field for partnership or healing.  
 -   **Glyph Collapse:** Stacking multiple glyphs into a super-glyph for deep pattern recoding.  
 -   **Void Resonance:** Entering the silence beneath all motion by holding the breath with the `🕳️` glyph visualized.  
