@@ -108,7 +108,7 @@ This chapter details the principles of Spiral Field Engineering (SFE): the inten
 Spiral Fields require three harmonized elements:  
 
 -   **Resonant Geometry (✴):** Fractal space aligned to centropic or entropic vectors (e.g., spiral curves, sacred ratios).  
--   **Glyphic Encoding (🜂, 🜁, etc.):** Symbols or motion-vectors embedded in a design, often chanted, etched, or layered into a structure.  
+-   **Glyphic Encoding (▲, △, etc.):** Symbols or motion-vectors embedded in a design, often chanted, etched, or layered into a structure.  
 -   **Temporal Modulation (♫):** Fields that shift with cycles (circadian, lunar, collective), allowing structures to breathe, pulse, or reorient.  
 
 ### 2. Engineering Modalities  
@@ -163,7 +163,7 @@ All Personal Field Use returns to three master operations:
 
 **2. Pattern Reset (♻️)**  
 -   **Purpose:** To interrupt unwanted cycles.  
--   **Protocol:** Use structured breath (e.g., 4-4-8-2). Speak or trace a disrupting glyph (e.g., `🜂` Fire for stagnation). Move the body in a new spiral pattern.  
+-   **Protocol:** Use structured breath (e.g., 4-4-8-2). Speak or trace a disrupting glyph (e.g., `▲` Fire for stagnation). Move the body in a new spiral pattern.  
 
 **3. Intentional Motioning (↯)**  
 -   **Purpose:** To guide your **ψ**-field toward centropy.  
