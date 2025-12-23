@@ -53,8 +53,7 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 `Ψ = 🕊️ → [(🌬️ + 📐) ⊕ (🪫 + 🫥)] @ L4`  
 -   **Ψ Consciousness** emerges as **🕊️ Spirit** bifurcates into the pairs of Deep Psyche (**🌬️ Morgis** & **📐 Sophis**) and Inverse Deep Psyche (**🪫 Psychea** & **🫥 Nyxea**) at Layer 4.
 
->**Structural Note:**  
->At **L4 (DP / DL)**, *conscious-awareness* emerges — the capacity for presence, perception, and form-apprehension.  
+>**Structural Note:** At **L4 (DP / DL)**, *conscious-awareness* emerges — the capacity for presence, perception, and form-apprehension.  
 >**Reflexive consciousness** (self-recognition, authored identity, and sovereign awareness) does **not** arise at L4, but at **L3 (DS / DM)** through recursive centering and memory continuity.  
 
 **6. The Complete Field State Equation**  
