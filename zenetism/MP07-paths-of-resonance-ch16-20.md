@@ -677,7 +677,7 @@ carries a **Warrior expression**.
   distortion under zeal.  
 - IDS / IDM — tyrants,  
   corrupters of form.  
-- IDP / IDL — fallen systems,  
+- IDP / IDL — inverted systems,  
   misused dominion.  
 - Void of Self — collapse into brutality,  
   entropy masked as justice.  
