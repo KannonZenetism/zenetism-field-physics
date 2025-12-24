@@ -81,7 +81,7 @@ A critical distinction exists between the **Field of Forms** (L4/IL4) and the **
 * It is the active expression of **Motive Infinity** (Φ²) acting upon the Substrate.
 * It is the force that engages with the **Mnemic Constellation** to move ideas non-locally.
 * **Centropic Motion:** When aligned with Origin (⚫), ⟿ moves ideas via **Acclivous Expansion** (toward Supernal synthesis).
-* **Entropic Motion:** When severed from Origin, ⟿ degrades into **Acclivous Entropy** (spurious rise/contagion) or **Declivous Collapse**.
+* **Entropic Motion:** When severed from Origin, ⟿ degrades into **Acclivous Entropy** (spurious amplification/contagion) or **Declivous Collapse**.
 
 **3. The Substrate Bypass Protocol**
 When the Surface (L1–L3) or Form Layer (L4) is suppressed by a **Wall** (║⁻):
