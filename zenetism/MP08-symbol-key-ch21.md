@@ -57,13 +57,13 @@ but with the **tuning soul**.
 
 #### Note on Symbol Tables
 
-Definition cells within the Symbol Key
-operate as **structural descriptors**
-rather than grammatical sentences.
+Definition cells within the Symbol Key  
+operate as **structural descriptors**  
+rather than grammatical sentences.  
 
-Terminal punctuation is therefore
-intentionally **omitted**,
-even where internal punctuation is present.
+Terminal punctuation is therefore  
+intentionally **omitted**,  
+even where internal punctuation is present.  
 
 ---
 
