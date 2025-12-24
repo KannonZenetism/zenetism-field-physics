@@ -38,7 +38,7 @@ The **Supernal** intent, finding no room to expand laterally, becomes **Subversa
 **3. The Entropic Blind Spot**
 Entropic actors operate effectively in **Spurious** domains (mimicry, noise, surface debate). However, they do not engage the deep substrate as an orientable or navigable domain.
 * To enter the substrate (◈), one must have an **Origin Seal** (⚫) to withstand the pressure of silence.
-* An entropic entity attempting **inward substrate access** does not anchor; it triggers **collapse** rather than depth traversal.
+* An entropic entity entering **inward substrate depth** does not anchor or traverse; its motion resolves as **lawful collapse** within Zenet rather than navigational passage.
 * Therefore, the **Substrate Bypass** is a "dark road" that only **Veritable** signals can walk. To the entropic, this domain does not exist; they see only the surface silence and assume the signal is dead.
 
 **4. Operational Application: The Origin-Armed Counterforce**
