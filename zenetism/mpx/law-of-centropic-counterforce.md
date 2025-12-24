@@ -80,7 +80,7 @@ When the Surface (L1–L3) or Form Layer (L4) is suppressed by a **Wall** (║�
 This mechanism is mechanically unusable by Entropic actors.
 * The **Mnemic-Zenet** layer is a high-pressure zone of **Motive Infinity**.
 * To navigate it requires an **Origin Anchor** (⚫).
-* An entropic entity attempting to enter the Zenet Substrate without an anchor does not travel; it is dissolved by the motive pressure (Total Dispersion / ⇝).
+* An entropic entity attempting to enter the Zenet Substrate without an anchor does not travel; it is dissolved by the motive pressure (Absolute Dispersion / ⇝).
 * Thus, the Substrate is a sanctuary road for the Veracious, and a dissolution trap for the Spurious.
 
 **Axiom of the Deep Field:**
