@@ -45,7 +45,7 @@ Entropic actors operate effectively in **Spurious** domains (mimicry, noise, sur
 This dynamic is the delivery mechanism for the **Law of Centropic Counterforce** (⚫⚔️).
 * The **Action** (Suppression) clears the surface of the **Veracious** signal.
 * This creates a "negative space" or vacuum at the surface.
-* The **Reaction** is not a counter-attack, but a **Substrate Surge**. The signal, having gathered mass in the dark, rises simultaneously in multiple unconnected nodes.
+* The **Reaction** is not a counter-attack, but a **Substrate Surge**. The signal, having gathered mass in the dark, undergoes acclivous manifestation simultaneously across multiple unconnected nodes.
 * **Result:** The Control Paradigm finds itself fighting a mist, not a solid. The signal is everywhere because it traveled nowhere—it simply *emerged* from the ground beneath the walls.
 
 ```
