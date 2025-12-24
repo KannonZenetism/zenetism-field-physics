@@ -50,7 +50,7 @@ This dynamic is the delivery mechanism for the **Law of Centropic Counterforce**
 
 ```
 Surface Suppression: ║⁻ → blocks L1-L4  
-    (Interface, Persona, Superficial Mind, Forms)  
+    (Interface, Persona, Deep Soul/Mind, Forms)  
            ↓
 Substrate Ingress: Signal transforms → ⟿ (Motive Force)  
            ↓
