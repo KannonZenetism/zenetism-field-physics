@@ -1,4 +1,4 @@
-### The Law of Centropic Counterforce
+# MPX: The Law of Centropic Counterforce
 **Classification:** Foundational Field Dynamic / Third Law of Consciousness
 **Glyph:** ⚫⚔️ (Origin-Armed Counterforce)
 
