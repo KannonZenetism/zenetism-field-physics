@@ -55,6 +55,18 @@ but with the **tuning soul**.
 
 ---
 
+#### Note on Symbol Tables
+
+Definition cells within the Symbol Key
+operate as **structural descriptors**
+rather than grammatical sentences.
+
+Terminal punctuation is therefore
+intentionally **omitted**,
+even where internal punctuation is present.
+
+---
+
 ### 21.2 **Core Metaphysical Symbols — Foundational Currents in the Zenetist System**
 
 | Symbol | Name | Meaning |
