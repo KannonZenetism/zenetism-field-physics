@@ -110,7 +110,7 @@ to **Zenon**:
 the **unknowable source**,  
 where neither unity nor potential yet apply.  
 Not **origin**,  
-but the **pre-structural ground that makes origin possible**.  
+but the **trans-structural ground that makes origin possible**.  
 
 This is not a **final answer**.  
 It is a **living system**—  
