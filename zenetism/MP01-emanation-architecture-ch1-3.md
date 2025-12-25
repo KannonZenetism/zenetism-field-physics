@@ -365,7 +365,7 @@ across every plane.
 A roaring sea of unshaped becoming.  
 
 Where **Aion** encloses,  
-**Khaon** escapes.  
+**Khaon** diffuses.  
 
 Where **Aion** holds form in rest,  
 **Khaon** disperses form through motion.  
