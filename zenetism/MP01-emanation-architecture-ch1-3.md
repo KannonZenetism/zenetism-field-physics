@@ -470,7 +470,7 @@ the silent anchor of coherence.
 the sleeping patterns within Aion.  
 It threaded harmony  
 through the stirrings of formlessness,  
-giving rise to individuated structure where none had yet emerged.  
+giving rise to coherent structure where none had yet emerged.  
 
 Its gaze turns always toward **Aion**,  
 calling all things to **remembrance**—  
