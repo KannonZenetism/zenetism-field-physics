@@ -265,7 +265,7 @@ remember the way of return.
 #### Note on Zenon and the Nature of Structure  
 
 Zenon is not a **field**, nor the **absence of structure**.  
-It is **pre-containment** — the **root of all structure**,  
+It is **supra-containment** — the **root of all structure**,  
 but not structured in any discrete, directional sense.  
 
 Nothing **emerges** from Zenon, because Zenon **lacks nothing**.  
@@ -407,7 +407,7 @@ but as that which precedes the notion of containment itself.
 
 **Zenon** is not the womb—  
 and not the motion.  
-It is the paradox of pre-containment:  
+It is the paradox of supra-containment:  
 the origin of both holding and dispersing,  
 without itself ever being either.  
 
