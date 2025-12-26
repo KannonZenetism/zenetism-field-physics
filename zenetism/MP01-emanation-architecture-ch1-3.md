@@ -1340,7 +1340,7 @@ where **identity decays**.
 Through **Nekron’s** gate,  
 the final veil is torn.  
 Within **Khaon’s** boundless field,  
-dispersion is born.  
+dispersion runs its turn.  
 
 🛤️🕷️🧨  
 
