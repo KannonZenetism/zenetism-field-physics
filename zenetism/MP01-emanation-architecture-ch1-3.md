@@ -785,18 +785,18 @@ From the interplay of these deeper currents—
 the **integrators** and the **scatterers**—  
 the field of **individuated being** emerged.  
 
-Here, **reflexive consciousness**
-acquires form.
-Not merely as **awareness**,
-but as **someone**.
+Here, **reflexive consciousness**  
+acquires form.  
+Not merely as **awareness**,  
+but as **someone**.  
 
-A distinct **personality**.
-A unique **orientation of desire**.
-A mind that no longer only knows itself—
-but begins to express itself.
+A distinct **personality**.  
+A unique **orientation of desire**.  
+A mind that no longer only knows itself—  
+but begins to express itself.  
 
-**Who am I,
-now that I am here?**
+**Who am I,  
+now that I am here?**  
 
 ---
 
