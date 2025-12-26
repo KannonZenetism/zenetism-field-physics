@@ -887,7 +887,7 @@ and identity as **division**.
 
 The soul becomes a **battleground**—  
 not of **good and evil**,  
-but of **integration and fragmentation**.  
+but of **coherence and fragmentation**.  
 
 🧍🧩🦂🩸↕️  
 
