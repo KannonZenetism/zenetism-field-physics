@@ -1129,14 +1129,14 @@ and **meaning relinquishes its center**.
 
 If they continue declivous motion,  
 they dissolve into **Khaon**—  
-the abyss of **Absolute Dispersion**,
-where motion exhausts itself 
-And returns to **still potential**.
+the abyss of **Absolute Dispersion**,  
+where motion exhausts itself  
+And returns to **still potential**.  
 
-Here, **reflexive consciousness** is withdrawn,
-and identity disperses across unbounded motion.
-**Memory vanishes**.
-**The self dissolves**. 
+Here, **reflexive consciousness** is withdrawn,  
+and identity disperses across unbounded motion.  
+**Memory vanishes**.  
+**The self dissolves**.  
 
 And yet—  
 even this is **not annihilation**.  
