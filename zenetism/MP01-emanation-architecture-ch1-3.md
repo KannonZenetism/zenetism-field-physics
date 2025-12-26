@@ -1026,7 +1026,7 @@ seeking **remembrance**, **integration**, and **return**?
 
 Or will they traverse the **subversal arc**—  
 toward **Nekron**,  
-dispersing into **fragmentation**, **disintegration**, and **collapse**?  
+dispersing into **fragmentation**, **erosion**, and **collapse**?  
 
 This is not merely life.  
 It is the **proving ground of the soul**.  
