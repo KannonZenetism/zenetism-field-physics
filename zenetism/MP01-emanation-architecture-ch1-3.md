@@ -662,7 +662,10 @@ the twin pillars of **sentient experience**.
 
 This emanation marks the **interiorization of reality**—  
 a turning inward,  
-where **structure** and **vitality** spiral into the **self-aware being**.  
+where **structure** and **vitality**  
+become inwardly inhabitable,  
+preparing the conditions for **self-aware being**  
+without yet instantiating it.  
 
 ---
 
