@@ -1432,7 +1432,7 @@ drew beings to its face.
 and sought its place.  
 
 **Biosa**, the bridge,  
-drew spirit’s fire—  
+drew the soul’s fire—  
 shaped living form,  
 awakened desire.  
 
