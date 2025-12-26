@@ -656,7 +656,7 @@ the layer of **soul and form**,
 
 From the dynamic interplay of **Morgis** and **Sophis**—  
 and their inverse counterparts, **Psychea** and **Nyxea**—  
-**consciousness emerged** as a **dual emanation**:  
+**conscious-awareness emerged** as a **dual emanation**:  
 the **soul** and the **mind**,  
 the twin pillars of **sentient experience**.  
 
