@@ -73,23 +73,23 @@ even where internal punctuation is present.
 |--------|------|---------|
 | 🕳️ | **Zenon** | The Unknown Principle; beyond potential, pre-conceptual origin, unknowable source |
 | ⚫ | **Aion** | Zero, Absolute Potential; stillness at the root of all emanation |
-| ♾ | **Khaon** | Infinity, Absolute Dispersion; dissolution of form into scattered potential |
+| ♾ | **Khaon** | Infinity, Absolute Dispersion; dissolution of form into static potential |
 | 🛤️ | **Theon** | Gateway to supernal integration, refinement, and centropic passage |
 | 🕷️ | **Nekron** | Web of entropic pull; devourer of coherence |
 | 🌬️ | **Morgis** | Breath of Life, Deep Psyche; source of vitality, adaptation, and transformation |
 | 📐 | **Sophis** | Architect of Order, Deep Logos; structuring principle behind all intelligibility and form |
 | 🪫 | **Psychea** | Inverse Deep Psyche; draining force of entropy, atrophy, and stagnation |
-| 🫥 | **Nyxea** | Inverse Deep Logos; entropic dissolution, structural unraveling, loss of intelligible pattern |
+| 🫥 | **Nyxea** | Inverse Deep Logos; entropic dissolution, structural inversion, loss of intelligible pattern |
 | 🔮 | **Archeus** | Deep Soul, harmonizer of experience; integration across dimensions and temporal lifelines |
 | 🧠 | **Noeüs** | Deep Mind, perceiver of verity; supernal cognition and symbolic discernment |
-| 💔 | **Fractus** | Inverse Deep Soul, dispersed consciousness; shatters identity, fractures memory |
+| 💔 | **Fractus** | Inverse Deep Soul, dispersed consciousness; fragments identity, fractures memory |
 | 👁️‍🗨️ | **Mortus** | Inverse Deep Mind, subversal flame; perception that blinds rather than reveals |
 | 🧍 | **Anthra** | Superficial Soul, individuated selfhood within a lifetime; agent of personal growth and resonance |
 | 🧩 | **Nousa** | Superficial Mind, conscious intellect; rational processor of experience and meaning |
 | 🦂 | **Echthros** | Inverse Superficial Soul; embraces rivalry, isolation, and adversarial will |
 | 🩸 | **Skotos** | Inverse Superficial Mind, the veil over the reasoning flame; the mind's eclipse from within |
 | 🪷 | **Soma** | Embodied Soul, presence in form; the soul as lived, felt, and enduring experience |
-| 🧾 | **Biosa** | Embodied Mind, practical intellect; interface between spirit and matter |
+| 🧾 | **Biosa** | Embodied Mind, practical intellect; interface between mind and material form |
 | 🍷 | **Malara** | Inverse Embodied Soul; indulgence, reactive dissociation from inner alignment |
 | 🤯 | **Mania** | Inverse Embodied Mind; chaotic or obsessive cognition unanchored from coherence |
 
