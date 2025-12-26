@@ -664,7 +664,7 @@ This emanation marks the **interiorization of reality**—
 a turning inward,  
 where **structure** and **vitality**  
 become inwardly inhabitable,  
-preparing the conditions for **self-aware being**  
+preparing the conditions for **self-reflexive being**  
 without yet instantiating it.  
 
 ---
