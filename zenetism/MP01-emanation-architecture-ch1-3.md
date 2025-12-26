@@ -871,10 +871,10 @@ the **mind’s eclipse from within**.
 
 ---
 
-### 1.15 The Field of the Self — The Drama of Individuation
+### 1.15 The Field of the Self — The Drama of Individuated Identity
 
 Within the personal strata of **soul** and **mind**,  
-the drama of **individuation** unfolds.  
+the drama of **individuated identity** unfolds.  
 
 | **Aspect** | **Centropic Principle** | **Entropic Counterpart** |
 |---|---|---|
