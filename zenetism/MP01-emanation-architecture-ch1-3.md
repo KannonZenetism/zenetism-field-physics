@@ -823,7 +823,7 @@ It builds **mental architecture** from raw awareness.
 It seeks **clarity** through **logic and language**.  
 
 **Nousa** is the **thought-form of the self**—  
-the **mind rendered conscious**.  
+the **mind rendered articulate**.  
 
 🧍🧩  
 
