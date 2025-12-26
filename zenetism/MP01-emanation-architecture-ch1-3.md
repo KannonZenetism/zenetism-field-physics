@@ -1217,7 +1217,7 @@ forever **returning anew**.
 Through emanation, divergence, and return,  
 the cosmos unfolds.  
 
-Some move toward **synthesis**.  
+Some move toward **integration**.  
 Some collapse into **dispersal**.  
 
 And yet all remain  
