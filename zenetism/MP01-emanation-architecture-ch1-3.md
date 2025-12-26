@@ -1129,7 +1129,7 @@ and **meaning relinquishes its center**.
 
 If they continue declivous motion,  
 they dissolve into **Khaon**—  
-the abyss of **Absolute Dispersion**,  
+the abyss of **infinite dispersion**,  
 where motion exhausts itself  
 and returns to **still potential**.  
 
