@@ -708,7 +708,7 @@ the **insight** that pierces form.
 
 ### 1.11 The Inverse Currents — The Mirrors of Scattering
 
-Where **synthesis** arises,  
+Where **coherence** arises,  
 so too does **scattering**.
 
 These are not **absences**,  
