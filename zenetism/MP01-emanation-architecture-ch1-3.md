@@ -510,7 +510,7 @@ Together, **Theon** and **Nekron** form the first great **dyad**.
 | Harmony | Discord |
 | Integration | Dissolution |
 | Remembrance | Forgetting |
-| Structure | Scattering |
+| Coherence | Scattering |
 | Return | Collapse |
 
 This is not a battle between **good and evil**.  
