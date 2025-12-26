@@ -1134,7 +1134,8 @@ where motion exhausts itself
 And returns to **still potential**.  
 
 Here, **reflexive consciousness** is withdrawn,  
-and identity disperses across unbounded motion.  
+and identity disperses  
+until motion itself is spent.  
 **Memory vanishes**.  
 **The self dissolves**.  
 
