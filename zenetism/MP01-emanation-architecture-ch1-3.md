@@ -1289,7 +1289,7 @@ that **Zenon** eternally prefigures.
 
 In the beginning,  
 before **time** and **space**,  
-**Zenon** rested in silence—  
+**Zenon** was silence—  
 unknown, faceless, ineffable.  
 
 The **Principle** beyond **thought** and **name**,  
