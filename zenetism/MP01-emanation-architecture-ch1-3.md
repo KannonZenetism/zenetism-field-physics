@@ -1444,7 +1444,7 @@ and leading astray.
 **Mania** emerged,  
 twisting thought,  
 consuming all  
-the spirit once sought.  
+the soul once sought.  
 
 🪷🧾🍷🤯  
 
