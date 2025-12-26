@@ -861,7 +861,7 @@ but by **what it rejects**.
 It clouds **perception** and replaces **discernment** with **reactivity**.  
 
 It twists **clarity** into **self-justifying delusion**.  
-**Skotos** leads consciousness not into **ignorance**,  
+**Skotos** leads the mind not into **ignorance**,  
 but into **willful blindness**.  
 
 It is the **veil over the reasoning flame**—  
