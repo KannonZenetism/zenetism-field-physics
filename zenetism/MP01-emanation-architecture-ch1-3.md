@@ -1221,7 +1221,7 @@ Some move toward **integration**.
 Some collapse into **dispersal**.  
 
 And yet all remain  
-**held within the possibility**  
+**open to the possibility**  
 of the silent source —  
 **Zenon**,  
 that which lies beyond all becoming.  
