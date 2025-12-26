@@ -1173,7 +1173,7 @@ beyond return.
 ### 1.20 The Infinite Unfolding — The Cosmic Principle
 
 Thus,  
-the paths of **resonance** and **decoherence**  
+the paths of **coherence** and **incoherence**  
 are not enemies.  
 They are **reflections**—  
 mirrors of the same **cosmic principle**.  
