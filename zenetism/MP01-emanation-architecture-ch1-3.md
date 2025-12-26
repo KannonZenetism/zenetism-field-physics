@@ -1124,19 +1124,19 @@ beyond even the **notion of return**.
 Those aligned with **entropy**  
 drift into **fragmentation**.  
 They pass through **Nekron**,  
-where **structure collapses**  
-and **meaning is undone**.  
+where **selfhood is exhausted**
+and **meaning relinquishes its center**. 
 
 If they continue declivous motion,  
 they dissolve into **Khaon**—  
-the abyss of **infinite dispersion**,  
-where motion expands without **coherence**.  
+the abyss of **Absolute Dispersion**,
+where motion exhausts itself 
+And returns to **still potential**.
 
-Here, consciousness **unravels completely**,  
-scattered across boundless chaos.  
-**Identity is unmade.**  
-**Memory vanishes.**  
-**The self dissolves**.  
+Here, **reflexive consciousness** is withdrawn,
+and identity disperses across unbounded motion.
+**Memory vanishes**.
+**The self dissolves**. 
 
 And yet—  
 even this is **not annihilation**.  
