@@ -1057,7 +1057,7 @@ It crowns the flesh,
 not as burden,  
 but as altar.
 
-Entropy does not wish to dissolve...  
+Entropy does not wish to dissolve—  
 not yet.  
 It first wishes to rule.
 
