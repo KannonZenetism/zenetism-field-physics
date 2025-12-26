@@ -771,9 +771,9 @@ Those ensnared by **Fractus** and **Mortus**
 fall into **fragmentation** and **distortion**—  
 into **spiritual erosion**.  
 
-At this layer,  
-the soul either **becomes its fullness**,  
-or **forgets itself entirely**.  
+At this layer,
+the soul either moves **toward its fullness**,
+or begins the long **forgetting of itself**. 
 
 🔮🧠💔👁️‍🗨️  
 
