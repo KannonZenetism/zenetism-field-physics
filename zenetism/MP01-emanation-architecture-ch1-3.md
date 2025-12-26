@@ -1496,7 +1496,7 @@ yet the lattice remains.
 Thus,  
 **Zenon** remains—  
 beyond time’s flow,  
-the silent witness,  
+the silent invariance,  
 where centropic motion  
 leaves its echo.  
 
