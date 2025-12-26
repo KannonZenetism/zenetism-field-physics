@@ -957,7 +957,7 @@ It enables **perception**, **responsiveness**, and **precision**.
 It processes the body’s experience  
 and translates it into **conscious insight**.  
 
-**Biosa** is consciousness **immersed in time**—  
+**Biosa** is mind **immersed in time**—  
 the faculty that allows **form to become meaningful**.  
 
 ⊙🫀🕰️  
