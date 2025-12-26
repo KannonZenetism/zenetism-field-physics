@@ -1266,7 +1266,7 @@ for nothing was ever apart from it.
 **Entropy** does not return to **Zenon** as identity.  
 It completes its arc through **collapse**,  
 and that completed arc is already encompassed  
-within the **pre-structural ground** —  
+within the **supra-structural ground** —  
 not as reintegrated essence,  
 but as **conditionless fact**.
 
