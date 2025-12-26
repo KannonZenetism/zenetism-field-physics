@@ -1124,14 +1124,14 @@ beyond even the **notion of return**.
 Those aligned with **entropy**  
 drift into **fragmentation**.  
 They pass through **Nekron**,  
-where **selfhood is exhausted**
-and **meaning relinquishes its center**. 
+where **selfhood is exhausted**  
+and **meaning relinquishes its center**.  
 
 If they continue declivous motion,  
 they dissolve into **Khaon**—  
 the abyss of **Absolute Dispersion**,  
 where motion exhausts itself  
-And returns to **still potential**.  
+and returns to **still potential**.  
 
 Here, **reflexive consciousness** is withdrawn,  
 and identity disperses  
