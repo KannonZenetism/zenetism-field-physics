@@ -1099,7 +1099,7 @@ the axis of **resonance** and **structure**.
 
 From there,  
 they may return to **Aion**,  
-where **boundaries fall away**,  
+where **boundaries are reconciled**,  
 and the soul becomes **whole**  
 within the **silent fullness**  
 of the Infinite Stillness.  
