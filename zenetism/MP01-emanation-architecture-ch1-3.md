@@ -1207,7 +1207,7 @@ New patterns of being
 
 The current of emanation never ceases—  
 forever **expanding**,  
-forever **dissolving**,  
+forever **exhausting**,  
 forever **returning anew**.  
 
 ---
