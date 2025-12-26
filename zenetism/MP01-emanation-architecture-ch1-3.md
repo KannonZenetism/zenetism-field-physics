@@ -1475,7 +1475,7 @@ in shattered state.
 It moved toward **Khaon**,  
 a boundless storm,  
 where form breaks pattern,  
-and self exhausts its form.  
+and self is spent in form.  
 
 Drawn through the depths  
 of the measureless tide,  
