@@ -535,7 +535,7 @@ They unfolded as **eternal principles**:
 **structural beings**  
 encoded with the power to shape and animate.  
 
-One breathes **spirit into form**.  
+One breathes **motion into form**.  
 One inscribes the **hidden order** behind all things.  
 
 ---
