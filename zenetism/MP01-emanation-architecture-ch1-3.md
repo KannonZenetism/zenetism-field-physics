@@ -712,7 +712,7 @@ Where **coherence** arises,
 so too does **scattering**.
 
 These are not **absences**,  
-but **inversions of centropic orientation**—  
+but **inversions of supernal orientation**—  
 entropic currents moving in **subversal arcs**.  
 
 ---
