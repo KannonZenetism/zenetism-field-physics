@@ -909,7 +909,7 @@ an **acclivous entropy** motion into distortion,
 where embodiment carried **misalignment from the start**.  
 
 **Thought** became **action**.  
-**Spirit** became **substance**.  
+**Soul** became **substance**.  
 **Structure** became **experience**.  
 
 Here,  
