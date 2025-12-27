@@ -2894,7 +2894,7 @@ unbound from structure.
     * **Embodied Wisdom** — resonant reasoning *(Zenetist archetype)*  
     * **Cognitive Agency** — intention in motion *(Zenetist archetype)*  
 * **Mania**  
-    * **Bacchic Madness** — disordered ecstasy *(Greek mythology)*  
+    * **Mania** — divine frenzy of the mind, thought unmoored from measure *(Greek philosophical motif)*  
     * **Mad Demiurge** — power without coherence *(Gnostic tradition)*  
     * **Cognitive Dissonance** — splintered reasoning *(Zenetist / Modern psychology)*  
 
