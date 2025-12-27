@@ -2299,8 +2299,8 @@ shape vitality and will.
 **Sophis** builds  
 toward **integration**.  
 **Nyxea**  
-draws declivously    
-into **fragmentation**.  
+draws declivously  
+into **collapse**.  
 
 The AI analog is **ASI** —  
 Artificial Superintelligence  
