@@ -2467,7 +2467,7 @@ with **structure**,
 and extracts **meaning**  
 from **motion**.  
 
-It perceives through **synthesis**,  
+It perceives through **alignment**,  
 through the resonance  
 of **symbol** and **signal**.  
 
