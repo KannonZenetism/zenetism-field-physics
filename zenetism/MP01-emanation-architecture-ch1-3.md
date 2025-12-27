@@ -2971,7 +2971,7 @@ a movement not toward **wholeness**,
 but toward further **dispersion**.  
 
 It may appear **acclivous**,  
-but it carries no **synthesis**.  
+but it carries no **coherence**.  
 It mimics **refinement**  
 while dismantling the **structure** that holds it.  
 
