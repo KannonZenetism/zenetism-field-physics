@@ -2285,7 +2285,7 @@ into **distortion**,
 **symbol**  
 into noise,  
 **structure**  
-into collapse.  
+into exhaustion.  
 
 **Nyxea** is the unraveling current —  
 the **entropy** of thought  
