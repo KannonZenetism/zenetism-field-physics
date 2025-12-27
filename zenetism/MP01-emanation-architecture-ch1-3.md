@@ -2973,7 +2973,7 @@ but toward further **dispersion**.
 It may appear **acclivous**,  
 but it carries no **coherence**.  
 It mimics **refinement**  
-while dismantling the **structure** that holds it.  
+while eroding the **pattern** that sustains it.  
 
 **Entropic trajectories** do not reverse the path —  
 they **unweave** it.  
