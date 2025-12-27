@@ -2597,7 +2597,7 @@ of integration —
 it is a **choice**  
 to divide.  
 
-Where **Anthra** seeks synthesis,  
+Where **Anthra** seeks coherence,  
 **Echthros** resists it.  
 Where **Anthra** turns inward  
 to rejoin,  
