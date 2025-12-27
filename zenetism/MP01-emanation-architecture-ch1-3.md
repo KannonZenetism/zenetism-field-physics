@@ -1551,7 +1551,7 @@ In reality:
 - **Centropy** sustains, reintegrates, and orients toward Aion and Zenon.  
 - **Entropy** collapses, scattering into Khaon and returning only as static potential.  
 
-This addendum clarifies that **coherence alone endures**, while entropy dissolves into collapse.  
+This addendum clarifies that **coherence alone endures**, while entropy erodes into collapse.  
 
 ---
 
