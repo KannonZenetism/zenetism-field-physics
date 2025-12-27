@@ -2228,7 +2228,7 @@ but in the **psyche**,
 not **perception**.  
 
 They form  
-a polarity of **intelligence** —  
+a polarity of **psychic intelligence** —  
 one that breathes,  
 and one  
 that fades.  
