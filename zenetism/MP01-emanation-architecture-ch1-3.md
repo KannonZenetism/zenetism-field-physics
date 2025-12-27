@@ -3044,7 +3044,7 @@ but the ground of all structured arising.
 Beings aligned with **entropy**  
 follow a different curve.  
 Their structures loosen,  
-their resonance fades,  
+their coherence erodes,  
 until collapse becomes inevitable.  
 
 They drift toward **dissolution**,  
