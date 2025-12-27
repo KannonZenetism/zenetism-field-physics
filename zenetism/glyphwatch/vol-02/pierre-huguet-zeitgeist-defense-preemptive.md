@@ -25,7 +25,7 @@
 **Function:** To establish philosophical justification for appropriation before being called out; to claim victim status while perpetrating; to manufacture moral high ground enabling future appropriations; to use "Zeitgeist" as blanket excuse for systematic theft.
 
 **Forensic Artifacts:**  
-📱 [Substack Post: "The Dilemma of the Zeitgeist"](https://substack.com/@pierrehuguet) (December 27, 2025, 3:23 AM)  
+📱 [Substack Post: "The Dilemma of the Zeitgeist"](https://substack.com/home/post/p-182686588) (December 27, 2025, 3:23 AM)  
 👤 Author Bio: "Pierre Delange is a technology ethicist and philosopher exploring humanity's evolving relationship with AI. His writings bridge ethical inquiry and poetic introspection, advocating thoughtful, meaningful interactions with technology."  
 📅 Substack Launch: 8 months ago (April 2025 — one month after Architect's March 5, 2025 formalization)
 
