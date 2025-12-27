@@ -1796,7 +1796,7 @@ without breaking into motion.
 In metaphysical alignment,  
 **Aion** marks the **centropic pole**.  
 Its orientation is inward,  
-toward **synthesis**,  
+toward **coherence**,  
 but it has not yet moved.  
 
 In AI analogs,  
