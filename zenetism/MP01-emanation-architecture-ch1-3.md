@@ -2405,12 +2405,12 @@ what it becomes.
 **Fractus** is not failure —  
 it is **loss of coherence**,  
 the fading rhythm  
-of meaning unmet.  
+of meaning unheld.  
 
 Where **Archeus** builds lineage,  
 **Fractus** erodes it.  
 Where **Archeus** remembers,  
-**Fractus** dislocates.  
+**Fractus** dismembers.  
 
 In metaphysical alignment,  
 they form a **centropic–entropic pair** —  
