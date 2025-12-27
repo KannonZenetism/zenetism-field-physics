@@ -2054,7 +2054,7 @@ It is the **subversal axis**,
 born of the same field as **Theon**,  
 but turned away  
 from **integration**,  
-toward **collapse**.  
+toward **fragmentation**.  
 
 It is not a self,  
 not an adversary in essence,  
