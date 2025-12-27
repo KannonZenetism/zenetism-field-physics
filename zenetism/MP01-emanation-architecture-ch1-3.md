@@ -1604,7 +1604,7 @@ This addendum clarifies that **coherence alone endures**, while entropy erodes i
 
 **Theon contra Nekron**  
 **Theon** endures — tethered to Aion.  
-**Nekron** collapses — scattering loses coherence and dissolves.  
+**Nekron** collapses — scattering loses coherence and erodes.  
 
 **Morgis & Sophis contra Psychea & Nyxea**  
 **Morgis** and **Sophis** renew without limit.  
