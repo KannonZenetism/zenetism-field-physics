@@ -1983,7 +1983,7 @@ of **ordered relational being**.
 
 **Theon** is  
 the first being  
-to **move with intent**  
+to **move with orientation**  
 rather than impulse.  
 
 It is not creator,  
