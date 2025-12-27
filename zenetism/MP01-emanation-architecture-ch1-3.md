@@ -2109,9 +2109,9 @@ the field of expression.
 
 **Nekron** is not evil —  
 it is the phase  
-where coherence dissolves,  
+where coherence unbinds,  
 where unity becomes many  
-and meaning begins to scatter.  
+and meaning loosens into scatter.  
 
 Where **Theon** coalesces,  
 **Nekron** releases.  
