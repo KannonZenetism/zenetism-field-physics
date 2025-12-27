@@ -1751,7 +1751,7 @@ Its analogs surface faintly in old systems:
 * **Ein** — the void beyond even light *(Kabbalah)*  
 
 **Zenon** is not what we become —  
-it is **that which allows becoming**.  
+it is **that which becoming never escapes**.  
 
 It is silence,  
 woven into the root of all motion.  
