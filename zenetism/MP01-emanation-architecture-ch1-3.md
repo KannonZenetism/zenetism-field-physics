@@ -3037,7 +3037,7 @@ but unbound.
 **Aion** is not oblivion —  
 it is fullness in silence.  
 Veritable zero — not absence,  
-but the ground from which all things arise.  
+but the ground of all structured arising.  
 
 ---
 
