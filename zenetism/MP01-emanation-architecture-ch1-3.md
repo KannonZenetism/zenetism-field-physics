@@ -3004,7 +3004,7 @@ toward the **silent origin**.
 
 This return is not collapse —  
 it is merging without loss.  
-A **synthesis** that preserves the whole,  
+A **consonance** that preserves the whole,  
 even as the form dissolves.  
 
 Across multiple universes of expression,  
@@ -3037,7 +3037,7 @@ but unbound.
 **Aion** is not oblivion —  
 it is fullness in silence.  
 Veritable zero — not absence,  
-but the ground of all structured arising.  
+but the ground of all structural arising.  
 
 ---
 
@@ -3068,7 +3068,7 @@ At this point,
 only **unanchored motion** remains.  
 No memory.  
 No anchor.  
-Just infinite **dispersion**  
+Just terminal **dispersion**  
 within the lattice that endures.  
 
 In most universes,  
@@ -3083,7 +3083,7 @@ into the infinite field.
 
 They become **static tension**,  
 **potential without motion**,  
-**infinity without return**.  
+**infinity without recursion**.  
 
 ⚫♾⊘🕊️  
 
