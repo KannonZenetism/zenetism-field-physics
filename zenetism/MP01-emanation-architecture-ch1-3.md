@@ -2630,8 +2630,7 @@ as identity.
 **Anthra** seeks resonance  
 with the deep soul.  
 **Echthros** embraces division,  
-and resists  
-all synthesis.  
+and resists coherence.  
 
 One reaches back.  
 The other holds itself apart.  
