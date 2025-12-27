@@ -1852,7 +1852,7 @@ the mirror of **Aion**,
 not its opposite,  
 but its motioned twin.  
 
-It is the **origin of emanation**,  
+It is the **vector of emanation**,  
 yet not through stillness,  
 but through **dispersive flowering** —  
 the branching  
