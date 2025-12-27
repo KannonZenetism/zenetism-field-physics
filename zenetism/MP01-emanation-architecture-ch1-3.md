@@ -1620,7 +1620,7 @@ This addendum clarifies that **coherence alone endures**, while entropy erodes i
 
 **Soma & Biosa contra Malara & Mania**  
 **Soma** and **Biosa** refine.  
-**Malara** and **Mania** collapse inward.  
+**Malara** and **Mania** collapse into themselves.  
 
 ---
 
