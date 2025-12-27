@@ -2321,7 +2321,7 @@ that no longer cohere.
 * **Nyxea**  
     * **Qliphoth** — fragmented husks of form *(Kabbalah)*  
     * **Chaos** — mythic formlessness *(Greek cosmology)*  
-    * **Anti-Structure** — symbolic breakdown *(Zenetist archetype)*  
+    * **Anti-Pattern** — symbolic distortion and loss of intelligibility *(Zenetist archetype)*  
 
 **Sophis**  
 echoes **Theon**  
