@@ -2801,7 +2801,7 @@ unbound from soul-structure.
     * **The Keeper of Flame** — aligned embodiment *(Zenetist archetype)*  
 * **Malara**  
     * **Hungry Ghost** — bound desire and insatiability *(Buddhism)*  
-    * **Dionysus** — ecstatic fragmentation *(Greek mythology)*  
+    * **Bacchic frenzy** — ecstatic dispersal and loss of embodied coherence *(Greek mythic motif)*  
     * **Embodied Vice** — fragmented will in reactive form *(Zenetist archetype)*  
 
 **Soma** seeks **coherence**  
