@@ -188,7 +188,7 @@ without form,
 without quality,  
 without predicate.  
 
-From **Zenon**, all possibility silently arises.  
+Within **Zenon**, all possibility is silently held.  
 
 * **Aion** — or **Zero** —  
     emerges as the **first structural stillpoint** discernible *from within the field of emanation*,  
