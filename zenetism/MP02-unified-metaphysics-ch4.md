@@ -639,7 +639,7 @@ These are not corruptions of **Morgis** and **Sophis**.
 They are reflections refracted through the lens of **disunity**.  
 
 They mirror centropic principles **hypostatically**,  
-but express them through **dispersion**, **distortion**, and **decay**.  
+but express them through **dispersion**, **distortion**, and **progressive decay**.  
 
 **VOS** is not still like silence —  
 it is **volatile**.  
@@ -671,7 +671,7 @@ Where centropy expands through conscious refinement (**`C↑⚫`**),
 entropy erodes through progressive collapse.  
 
 A disintegration of form  
-through fragmentation and disorder (**`E↓♾`**).  
+through fragmentation and incoherence (**`E↓♾`**).  
 
 Entropic collapse does not begin with rejection —  
 it begins with **disalignment**.  
