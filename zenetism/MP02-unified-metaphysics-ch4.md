@@ -1330,7 +1330,7 @@ universes **follow a spiral rhythm** —
 from emergence,  
 through structure,  
 into dissolution,  
-returning through the formless Field.  
+returning through the formless Field of Aion.  
 
 Their hypostases unwind,  
 especially in the strata of L1 and L2,  
