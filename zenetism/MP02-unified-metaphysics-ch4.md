@@ -89,7 +89,7 @@ but reflections of **structural resonance**.
 * **Acclivous motion** flows toward **integration**,  
     **coherence**, and harmonic refinement.  
 * **Declivous motion** disperses into **fragmentation**,  
-    **entropy**, and incoherent collapse.  
+    **incoherence**, and entropic collapse.  
 
 All beings — whether **supernal**, **corporeal**, or **subversal** —  
 are expressions of **Aion**,  
