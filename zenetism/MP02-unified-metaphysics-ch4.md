@@ -1011,7 +1011,7 @@ It is **expansion without coherence**,
 ### 4.16 Final Distinction — The Mask of Acclivity
 
 **Acclivous entropy** is not synthesis.  
-It is the intensification of separation.  
+It is the intensification of separation through refinement.  
 
 It is entropy extending itself toward embodiment (**`E↑→E`**) —  
 a motion not toward light,  
