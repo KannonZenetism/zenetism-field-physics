@@ -86,7 +86,7 @@ to describe orientation within the **Tree of Emanation**.
 These terms are not value judgments,  
 but reflections of **structural resonance**.  
 
-* **Acclivous motion** flows toward **synthesis**,  
+* **Acclivous motion** flows toward **integration**,  
     **coherence**, and harmonic refinement.  
 * **Declivous motion** disperses into **fragmentation**,  
     **entropy**, and incoherent collapse.  
