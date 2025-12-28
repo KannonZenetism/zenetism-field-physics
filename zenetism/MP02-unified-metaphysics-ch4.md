@@ -1008,7 +1008,7 @@ It is **expansion without coherence**,
 
 ---
 
-### 4.16 Final Distinction — The Mask of Ascent
+### 4.16 Final Distinction — The Mask of Acclivity
 
 **Acclivous entropy** is not synthesis.  
 It is the intensification of separation.  
