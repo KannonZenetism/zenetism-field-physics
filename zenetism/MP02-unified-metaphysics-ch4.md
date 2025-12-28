@@ -915,7 +915,7 @@ but **ontological thinning**.
 
 ---
 
-### 4.13 Structural Synthesis — On Motion, Emergence, and Collapse
+### 4.13 Structural Integration — On Motion, Emergence, and Collapse
 
 * Souls do not become embodied to learn.  
     They unfold into embodiment  
