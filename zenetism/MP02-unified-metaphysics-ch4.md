@@ -545,7 +545,7 @@ they emerge as the **motion they are**.
 
 * **Khaonic souls** emerge in **dissonance**,  
     propelled outward not by desire,  
-    but by the compulsion of fragmentation.  
+    but by the internal pressure of fragmentation.  
     Their motion is not a choice made in time,  
     but a path already set in essence. (`E↓♾`)  
 
