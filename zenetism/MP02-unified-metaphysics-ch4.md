@@ -1247,7 +1247,7 @@ The centropic arc unfolds through:
 Ultimately, some souls return  
 through Theon  
 and remerge with the Field of Aion,  
-moving into the silent origin of Zenon.  
+and from there move into the silent origin of Zenon.  
 
 This is not regression —  
 it is completion.  
@@ -1297,7 +1297,7 @@ but unless the DS becomes irreversibly entropic,
 synthesis remains possible.  
 
 Fragmentation alone does not doom a soul.  
-But **persistent dispersion without recovery**  
+But **persistent disintegration without recovery**  
 may bring it to the threshold of VOS.  
 
 SS → DS ↺ or IDS  
