@@ -1071,7 +1071,7 @@ the collapse of coherence.
 
 It arises where unity is lost,  
 where integration is abandoned,  
-where motion turns inward,  
+where motion collapses inward,  
 and structure folds upon itself.  
 
 * Evil is not created.  
