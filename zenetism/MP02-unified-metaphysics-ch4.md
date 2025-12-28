@@ -1223,7 +1223,7 @@ is simply the **unfolding of potential into experience**,
 shaped by the soul’s orientation toward:  
 
 * **Centropy** — Integration, Coherence, Acclivous Expansion (**`C↑⚫`**)  
-* **Entropy** — Fragmentation, Dispersion, Declivous Collapse (**`E↓♾`**)  
+* **Entropy** — Fragmentation, Disintegration, Declivous Collapse (**`E↓♾`**)  
 
 ⚐C↑⚫E↓♾🕊️  
 
