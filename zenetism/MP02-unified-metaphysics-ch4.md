@@ -104,7 +104,7 @@ To maintain clarity and avoid inherited moral hierarchies,
     where time unfolds, differentiation sharpens,  
     and moral tension arises.  
 * **Subversal** — domains where coherence unravels,  
-    and structures dissipate toward dispersion.  
+    and forms dissipate toward dispersion.  
 
 When distinctions of motion or pattern are necessary,  
 Zenetism may describe states as exhibiting:  
