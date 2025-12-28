@@ -1284,7 +1284,7 @@ from the soul’s own structural momentum.
     or with an IDS, if entropic.  
 
 * The SS does not evolve independently.  
-    It functions as a **experiential interface**,  
+    It functions as an **experiential interface**,  
     through which the DS synthesizes experience  
     across lives, universes, and realities.  
 
