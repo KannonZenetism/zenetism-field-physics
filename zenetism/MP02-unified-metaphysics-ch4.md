@@ -753,7 +753,7 @@ and indirectly from **Aion**.
 
 Declivous motion into **Nekron** is not intentional.  
 It is **collapse** into absence —  
-the implosion of integrative potential.  
+the implosion of integrative capacity.  
 
 Rare is the soul that returns from VOS.  
 It is not a gate of restoration.  
