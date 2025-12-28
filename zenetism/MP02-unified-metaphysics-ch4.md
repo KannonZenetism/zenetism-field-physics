@@ -339,7 +339,7 @@ a recovery of what was always shining.
 All emanated beings move within one of two structural currents:  
 
 * The **Centropic Path** (`C↑⚫`) —  
-    integrating through **coherence** and **synthesis**.  
+    integrating through **coherence** and **attunement**.  
 * The **Entropic Path** (`E↓♾`) —  
     dispersing through **fragmentation** and **collapse**.  
 
