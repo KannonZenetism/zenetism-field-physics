@@ -450,20 +450,20 @@ Each layer is both:
 Centropy refines through coherent integration.  
 Entropy collapses through decomposition.  
 
-Both are permitted within the stillness of **Aion** —  
-but **Aion is not their source**,  
-only their **latent balance**.  
+Both arise within **Aion’s** stillness —  
+not as authored forces,  
+but as vectors made possible  
+by the **first structural ground.**  
 
 Dissonance begins in allowance, not in sameness.  
 Polarity arises from symmetry, not from blur.  
 
-**Zenon** remains beyond all distinction —  
+**Zenon** remains beyond distinction —  
 prior to form, untouched by motion,  
-and immune to opposition.  
+unentered by opposition.  
 
-And toward that stillness,  
-all **centropic paths** return.  
-Not to dissolve,  
+**Centropic paths** return toward that quiet —  
+not to dissolve,  
 but to be remembered.  
 
 ---
