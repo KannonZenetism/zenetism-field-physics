@@ -1152,11 +1152,9 @@ it is present wherever **resonance** remains intact.
 The self that perpetuates fragmentation  
 dissolves into dispersal.  
 And the pattern itself is reabsorbed into Aion as static latency.  
-
 Entropic beings do not return by grace —  
 they return by **ceasing to act as Being**,  
-and collapsing into static latency  
-within Aion — the field of unexpressed potential.  
+subsiding into unexpressed potential.  
 
 This is not transcendence.  
 It is containment.  
