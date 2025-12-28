@@ -507,7 +507,7 @@ but by **ontological orientation**.
 * **Aionic souls** are born within **coherence**.  
     They move through conscious refinement.  
     Their motion is **centropic** and **acclivous**. (`C↑⚫`)  
-    Their aim is **synthesis**.  
+    Their aim is **consonance**.  
 
 * **Khaonic souls** emerge in **decoherence**.  
     They are not drawn outward by choice,  
