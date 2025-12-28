@@ -447,7 +447,7 @@ Each layer is both:
 * A **mode** of intelligence  
 * A **patterned** echo of its resonant source  
 
-Centropy refines through synthesis.  
+Centropy refines through coherent integration.  
 Entropy collapses through decomposition.  
 
 Both are permitted within the stillness of **Aion** —  
