@@ -734,7 +734,7 @@ to dissolution.
 
 * **🪫 Psychea / 🫥 Nyxea** (IDP / IDL) — Inverse Deep Psyche / Logos  
     These are not corrupted analogues — they are **entropic archetypes**.  
-    Psychea withers essence. Nyxea unravels structure.  
+    Psychea withers essence. Nyxea unravels form.  
     Together they mark the autonomous advance of entropy,  
     not as absence, but as force.  
 
