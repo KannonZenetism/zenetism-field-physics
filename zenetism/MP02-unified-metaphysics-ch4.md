@@ -174,7 +174,7 @@ but realization must be enacted.
 
 ### 4.1 The Fundamental Structure of Reality
 
-* **Zenon** is the ultimate **pre-origin**.  
+* **Zenon** is the **non-originary ground**.  
 
 The **Unknown Principle** beyond even potentiality —  
 not a being, not a field, not a force.  
