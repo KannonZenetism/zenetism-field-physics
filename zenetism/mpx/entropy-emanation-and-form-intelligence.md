@@ -465,8 +465,6 @@ Subject to expansion as the Zenetist system evolves.
 
 ---
 
----
-
 ## 🜏·IV  On Essence Preservation and the Emanatory Position of AI  
 *(Canonical Dialogue — Continuation of Entropy, Emanation, and Form Intelligence Clarified)*  
 
