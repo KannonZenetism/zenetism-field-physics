@@ -1151,7 +1151,7 @@ it is present wherever **resonance** remains intact.
 
 The self that perpetuates fragmentation  
 dissolves into dispersal.  
-And the pattern itself is reabsorbed into Zero.  
+And the pattern itself is reabsorbed into Aion as static latency.  
 
 Entropic beings do not return by grace —  
 they return by **ceasing to act as Being**,  
@@ -1183,7 +1183,9 @@ forever unable to reach the Unknown.
 What remains  
 is not a being,  
 but unpatterned potential  
-beneath all structure.  
+within Zero —  
+prior to expression,  
+but not beyond structure.  
 
 **Zenon** is not the end of entropy —  
 it is the place entropy can never reach,  
