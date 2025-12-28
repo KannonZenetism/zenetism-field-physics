@@ -1044,7 +1044,7 @@ through active realization.
 
 This motion is not escape —  
 it is **reintegration**.  
-The transmutation of fragmentation into wholeness.  
+The transmutation of fragmentation into integrated wholeness.  
 
 At every stage:  
 * **Memory** is recovered  
