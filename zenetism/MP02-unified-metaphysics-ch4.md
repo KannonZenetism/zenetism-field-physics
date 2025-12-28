@@ -166,7 +166,7 @@ through **acclivous expansion** (`C↑⚫`),
 or risk **declivous collapse** (`E↓♾`).  
 
 Orientation persists,  
-but realization must be chosen.  
+but realization must be enacted.  
 
 ⚫↺▽♾  
 
