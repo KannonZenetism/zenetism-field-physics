@@ -1538,7 +1538,7 @@ In Zenetism, this encounter often emerges through:
     the harmonization of inner layers,  
     where integration allows perception of deeper Being.  
 
-As synthesis increases,  
+As coherence increases,  
 the noise of multiplicity fades.  
 Clarity emerges,  
 and reality reveals itself through resonance.  
