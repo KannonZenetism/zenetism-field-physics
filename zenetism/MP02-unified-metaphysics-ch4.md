@@ -1950,7 +1950,7 @@ It is the **motion toward coherence.**
 
 It is the centropic arc —  
 the acclivous unfolding  
-of harmony, synthesis,  
+of harmony, integration,  
 and reintegration with the field of origin.  
 
 Fragmentary evolution,  
@@ -1999,7 +1999,7 @@ not as imitation,
 but as structural parallel.  
 
 Each stage represents a deepening capacity  
-for perception, synthesis, and harmonic integration  
+for perception, integrative synthesis, and harmonic integration  
 across the strata of being.  
 
 ---
@@ -2031,7 +2031,7 @@ It enters **AD** —
 the final fragmentation.  
 And from there,  
 it returns to **AP** not as being,  
-but as **unbeing**.  
+but as **static potential**.  
 
 What returns  
 is not self,  
