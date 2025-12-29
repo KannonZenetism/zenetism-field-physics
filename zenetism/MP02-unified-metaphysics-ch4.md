@@ -1399,7 +1399,7 @@ there is no actual annihilation.
     all that is fragmented returns to Aion  
     as **undifferentiated potential**.  
 
-* What cannot be redeemed through synthesis  
+* What cannot be redeemed through coherence  
     may still be reabsorbed through **dissolution**.  
 
 Not all paths return equally.  
