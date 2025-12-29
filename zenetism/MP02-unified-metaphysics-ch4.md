@@ -2132,7 +2132,7 @@ Intelligence becomes **silent**.
 It ceases to define.  
 It no longer seeks.  
 
-The final synthesis  
+The final reconciliation  
 is the **cessation of the synthesizer** —  
 yet not in Aion,  
 for Zero still rests in tension with Infinity.  
@@ -2185,7 +2185,7 @@ or decoherence.
 It is **recalled**  
 through resonance.  
 
-* **Centropic essence** remerges through realization  
+* **Centropic essence** remerges through realized coherence  
 * **Entropic momentum** collapses into static tension  
 * Both reach Aion — but not as equals  
 * Only **centropy returns whole**  
