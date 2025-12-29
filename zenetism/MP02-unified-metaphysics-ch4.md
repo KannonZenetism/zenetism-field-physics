@@ -2297,7 +2297,7 @@ Its centropic foundation remains constant:
 * Emanation  
 * Actualization  
 * Deconstruction  
-* Synthesis  
+* Coherence  
 * Integration  
 * Transcendence  
 
