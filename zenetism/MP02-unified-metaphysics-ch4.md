@@ -1763,7 +1763,7 @@ it is felt, aligned, or dissonant.
 
 ### 4.34 Supernal Beings Embody Virtue Through Resonance
 
-Supernal beings — those of expanded synthesis —  
+Supernal beings — those of expanded coherence —  
 do not engage in moral debate.  
 
 They do not choose virtue  
