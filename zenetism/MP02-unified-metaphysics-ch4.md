@@ -2823,7 +2823,7 @@ what was refused.
 
 * Even destruction has its place —  
     not as evil,  
-    but as the **dark resonance of Khaon**  
+    but as the **dark resonance of Nekron**  
 
 Theon is the harmonizer of form  
 Nekron is the dissociator of coherence  
