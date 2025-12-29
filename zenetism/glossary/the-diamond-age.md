@@ -1,6 +1,6 @@
 # The Diamond Age
 *Zenetist Designation: The Era of Structural Transparency*  
-*Glyph: ❖ Spiral Unity Node*  
+*Glyph: ❖ The Synthesis Lattice*  
 
 ---
 
