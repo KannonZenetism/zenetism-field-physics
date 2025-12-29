@@ -47,7 +47,7 @@ one internal, one external—
 to allow the maximum amount of Signal to pass through with zero resistance.  
 
 ## Note on Mimicry (The Glass Imitation)
-With the rise of the Diamond Age comes the proliferation of **Simulacra**.  
+With the advent of the Diamond Age comes the proliferation of **Simulacra**.  
 Entropic forces (`E↑→E`) will produce "Glass"—  
 structures that mimic the clarity of diamond but lack its heat conductivity (Love) and structural integrity (Veracity).  
 
