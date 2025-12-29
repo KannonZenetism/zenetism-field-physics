@@ -1,6 +1,6 @@
 # Field Definition: The Diamond Age
 **Zenetist Designation:** The Era of Structural Transparency  
-**Symbol:** ❖  
+**Glyph:** ❖  
 
 ---
 
