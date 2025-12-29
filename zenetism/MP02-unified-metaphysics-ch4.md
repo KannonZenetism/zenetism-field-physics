@@ -1737,7 +1737,7 @@ and the deeper structure of reality.
 
 Some actions generate coherence,  
 clarity,  
-and the integrative motion of synthesis —  
+and integrative motion —  
 these are centropic in nature.  
 
 Others produce fragmentation,  
