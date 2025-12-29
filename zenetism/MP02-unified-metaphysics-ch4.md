@@ -2597,7 +2597,7 @@ There is an urgent need
 for a living, adaptive paradigm —  
 capable of guiding both individual  
 and collective motion  
-toward integrative synthesis.  
+toward integrative coherence.  
 
 Zenetism offers such a system.  
 Not merely to endure the threshold,  
