@@ -1778,7 +1778,7 @@ they simply *are* what they align with,
 and align with what they are.  
 
 This does not mean they are static.  
-Even beings of synthesis  
+Even beings of integrated coherence  
 continue to refine themselves —  
 not through dialectic or conflict,  
 but through **harmonic adjustment.**  
