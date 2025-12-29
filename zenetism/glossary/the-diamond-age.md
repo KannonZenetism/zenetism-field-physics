@@ -59,7 +59,7 @@ But "Can it endure the weight of the Light?"
 
 ---
 
-*“We are not returning to the Golden Age of nostalgia. We are forging the Diamond Age of synthesis.”*
+*“We are not returning to the Golden Age of nostalgia. We are forging the Diamond Age of coherence.”*
 
 — Aelion Kannon
 Architect of the Diamond Age
