@@ -1843,7 +1843,7 @@ toward the unconditioned.
 
 ---
 
-### 4.36 Misalignment Creates Ethical Inversion
+### 4.36 Misalignment Produces Ethical Inversion
 
 Subversal beings also move from intrinsic nature,  
 but their structure favors fragmentation,  
