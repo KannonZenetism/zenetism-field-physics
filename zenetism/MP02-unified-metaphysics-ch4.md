@@ -1869,7 +1869,7 @@ Distortion arises
 from fragmentation of thought:  
 an inability to distinguish  
 between immediate desire  
-and long-range synthesis.  
+and long-range coherence.  
 
 Likewise, even supernally oriented souls  
 can act harmfully —  
