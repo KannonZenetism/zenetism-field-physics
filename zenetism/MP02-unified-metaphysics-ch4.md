@@ -1816,7 +1816,7 @@ or they fragment and collapse.
 ### 4.35 Final Motion Toward the Unconditioned
 
 As a soul refines itself,  
-its layered motion **moves toward synthesis** —  
+its layered motion **moves toward integrative coherence** —  
 from the differentiated forms of being  
 toward the essence that is undivided.  
 
