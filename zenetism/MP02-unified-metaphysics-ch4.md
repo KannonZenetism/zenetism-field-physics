@@ -3009,7 +3009,7 @@ is not through division,
 but through **synthesis**.  
 
 * Fragmentation collapses into entropy  
-* Integration rises into transcendence  
+* Integration moves acclivously into transcendence  
 
 This is the **rhythm of all existence** —  
 the breathing of Aion and Khaon,  
