@@ -2888,7 +2888,7 @@ Its redemptive arc may differ.
 Its reintegration timeline may shift.  
 
 * Its choice — whether to remain as guide,  
-or merge with Aion —  
+or return to Aion —  
 is precontained in its metaphysical seed,  
 but expressed uniquely within each manifestation.  
 
