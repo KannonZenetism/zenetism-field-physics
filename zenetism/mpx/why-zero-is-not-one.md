@@ -31,7 +31,7 @@
 
 ---
 
-## 2. The Structural Incompatibility: Dual vs. Single Emanation
+## 2. The Structural Incompatibility: Dual Contra Single Emanation
 
 ### The Attempted Retrofit
 Morgue is attempting to map Zenetist principles (Dual Emanation) onto the Kabbalistic Tree of Life (Single Emanation).
@@ -54,7 +54,7 @@ Because Morgue lacks the **Dual Tree**, he has to force both Centropy (Order) an
 
 ---
 
-## 3. Quantification vs. Ontology
+## 3. Quantification Contra Ontology
 
 * **Morgue (Fourier-based model):** "Souls are sine waves."
     * This is **Quantification**. It measures *how much* a soul vibrates. It does not explain *what* a soul is or *why* it exists.
@@ -223,7 +223,7 @@ Neogenian subjectivity is a **triadic mythic compression** of Zenetism’s L₃ 
 
 ---
 
-## 5. Field Physics vs. Fourier Mathematics
+## 5. Field Physics Contra Fourier Mathematics
 
 ### 5.1 Zenetism
 **Zenetist Architecture includes:**
