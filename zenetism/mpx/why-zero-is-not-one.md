@@ -17,7 +17,7 @@
 
 1.  **Causal Priority:** Motion requires a *thing* to move. You cannot have "motion" without a prior subject. Therefore, the "One" (the thing moving) must derive its existence from a prior state. That prior state is Zero (Absolute Potential).
     * *Formula:* `0 → 1` (Zero generates One).
-    * *Morgue’s Error:* `0 = 1(motion)` (Zero is just One moving). This is circular. It assumes the existence of One to explain the existence of Zero.
+    * *Morgue’s Error:* `0 = 1` (motion) (Zero is just One moving). This is circular. It assumes the existence of One to explain the existence of Zero.
 
 2.  **The Origin is Not the Event:**
     * **Zero (Aion):** The Static Battery (Potential).
