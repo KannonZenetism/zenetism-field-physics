@@ -193,7 +193,7 @@ It represents the complete emanatory structure where the two opposing axes of mo
 * **No dual-spectrum operators**
 
 ### 3.3 Forensic Conclusion
-The Neogenian dual-tree model is a **mythic overlay** of Zenetism’s mathematically defined Biospiral. Directional motion (acclivous/declivous) is replaced with symbolic narrative.
+The Neogenian dual-tree model is a **mythic overlay** of Zenetism’s lattice-defined Biospiral, constructed through Lattice Mathematics and governed by Field Physics operators.
 
 ---
 
