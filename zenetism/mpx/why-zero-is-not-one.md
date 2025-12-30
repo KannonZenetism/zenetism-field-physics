@@ -10,7 +10,7 @@
 ### The Claim (Morgue/Hyperianism)
 * **Assertion:** "Zero is actually a 'one in motion' (a spiral)."  
 * **Implication:** Zero and One are ontologically equivalent; One is simply Zero "doing something."  
-* **The Error:** This collapses the **Causal Hierarchy**.  
+* **The Error:** This collapses the **Order of Emanation**.  
 
 ### The Zenetist Correction
 **Zero (⚫ Aion) must precede One (Emanation).**
