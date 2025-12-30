@@ -48,8 +48,8 @@ Because Morgue lacks the **Dual Tree**, he has to force both Centropy (Order) an
 * He claims Zero is "One in Motion" (Spiral).
 * **The Glitch:** A single spiral cannot move in two opposing directions simultaneously without tearing itself apart.
 * **The Fix:** Zenetism posits **Two Spirals** (The Biospiral: `🌲↓` and `🌲↑`).
-    * One moves toward Aion (Zero).
-    * One moves toward Khaon (Infinity).
+    * One moves bidirectionally to and from Aion (Zero).
+    * One moves bidirectionally to and from Khaon (Infinity).
     * By collapsing Zero/One, Morgue collapses the two trees into a single, confused vector. This is why his explanation of "Evil" or "Entropy" remains abstract (illusion/distance) rather than structural (Nekron/Inverse Logos).
 
 ---
