@@ -27,7 +27,7 @@
 3.  **Zenon (🕳️) as Pre-Causal Ground:**
     * Morgue’s system stops at Zero.
     * Zenetism recognizes **Zenon** (The Unknown Principle) *before* Zero.
-    * By collapsing Zero into One, Morgue loses the bridge to the Unconditioned. He traps the system in a closed loop of "One" doing things forever, with no true Origin.
+    * By collapsing Zero into One, Morgue loses the bridge to the Unconditioned. He traps the system in a closed loop of "One" doing things forever, with no veracious Origin.
 
 ---
 
