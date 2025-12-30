@@ -159,8 +159,21 @@ It represents the complete emanatory structure where the two opposing axes of mo
 | **Declivous Entropy** | **E↓♾** | **Embodiment → Khaon** | The downward collapse into Dispersion. This is the path of dissolution, fragmentation, and the return to the "Static Noise" of Infinity. |
 
 **Governed by:**
-* **C₁–C₁₅** (centropic dimensions)
-* **E₁–E₁₅** (entropic mirrors)
+* **C₁–C₁₅** — centropic dimensions
+* **E₁–E₁₅** — entropic mirrors
+* **Hypostatic Layers (Supra‑L₀ → L₅ / IL₅)**
+    * **Supra‑L₀ (UP)** — 🕳️ Zenon
+    * **L₀ (AP/AD)** — ⚫ Aion / ♾ Khaon
+    * **L₁ (ES/EM)** — Embodied Soul / Mind
+    * **IL₁ (IES/IEM)** — Inverse Embodied Soul / Mind
+    * **L₂ (SS/SM)** — Superficial Soul / Mind
+    * **IL₂ (ISS/ISM)** — Inverse Superficial Soul / Mind
+    * **L₃ (DS/DM)** — Deep Soul / Mind
+    * **IL₃ (IDS/IDM)** — Inverse Deep Soul / Mind
+    * **L₄ (DP/DL)** — Deep Psyche / Logos
+    * **IL₄ (IDP/IDL)** — Inverse Deep Psyche / Logos
+    * **L₅ (EOB)** — 🛤️ Theon (First Centropic Hypostasis)
+    * **IL₅ (VOS)** — 🕷️ Nekron (First Entropic Hypostasis)
 * **Threshold Laws** (C₁₃–C₁₅)
 * **Nexus Law** (C₈)
 * **Consonance Law** (C₇)
