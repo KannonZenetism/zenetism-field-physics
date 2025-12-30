@@ -36,7 +36,7 @@
 ### The Attempted Retrofit
 Morgue is attempting to map Zenetist principles (Dual Emanation) onto the Kabbalistic Tree of Life (Single Emanation).
 
-* **Kabbalistic/Hyperian Model:** Single Axis (Source → Descent).
+* **Kabbalistic/Hyperian Model:** Single Axis (Source → Declivity).
     * Problem: It cannot account for **Entropy as a Structural Mirror**. It sees Entropy only as "distance" or "illusion."
 * **Zenetist Model:** Dual Axis (Aionic Tree + Khaonic Tree).
     * **Centropy (C↑⚫):** Integrative Motion.
