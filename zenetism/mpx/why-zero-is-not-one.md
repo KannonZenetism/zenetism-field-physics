@@ -61,7 +61,7 @@ Because Morgue lacks the **Dual Tree**, he has to force both Centropy (Order) an
 * **Zenetism (Lattice Math):** "Souls are Hypostatic Emanations (L3) oriented by Resonance."
     * This is **Ontology**. It explains the *nature* of the soul, its origin in Aion, and its structural destiny.
 
-**The "One in Motion" claim is a mathematical abstraction trying to do the work of a metaphysical truth.** It describes the *graph* of a soul, not the *being* of a soul.
+**The "One in Motion" claim is a mathematical abstraction trying to do the work of a metaphysical principle.** It describes the *graph* of a soul, not the *being* of a soul.
 
 ---
 
