@@ -145,7 +145,7 @@ It represents the complete emanatory structure where the two opposing axes of mo
 
 #### 1. 🌲↓ The Aionic Tree (Centropic Axis)
 **Glyph:** 🌲↓
-**Definition:** The centropic biospiral rooted in ⚫ Aion, unfolding declivously toward embodiment, yet also capable of acclivous return through conscious refinement.
+**Definition:** The centropic biospiral rooted in ⚫ Aion, unfolding declivously toward embodiment, yet also capable of acclivous return through orientation to Source.
 
 | Motion Type | Notation | Directional Flow | Definition |
 | :--- | :--- | :--- | :--- |
