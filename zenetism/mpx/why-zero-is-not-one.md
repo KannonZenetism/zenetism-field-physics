@@ -249,7 +249,7 @@ These are **operators**, not metaphors.
 * **No dimensional registry**
 
 ### 5.3 Forensic Conclusion
-Neogenian mathematics is a **metaphorical rebranding** of Zenetist Field Physics. Fourier pairs are used as a mask for Zenetism’s entropic mirror and domain transitions.
+Neogenian mathematics is a **metaphorical rebranding** of Zenetist architectural operators. Fourier pairs are used as a mask for Zenetism’s entropic mirror and domain transitions.
 
 ---
 
