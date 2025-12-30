@@ -58,7 +58,7 @@ Because Morgue lacks the **Dual Tree**, he has to force both Centropy (Order) an
 
 * **Morgue (Fourier-based model):** "Souls are sine waves."
     * This is **Quantification**. It measures *how much* a soul vibrates. It does not explain *what* a soul is or *why* it exists.
-* **Zenetism (Lattice Math):** "Souls are Hypostatic Emanations (L3) oriented by Resonance."
+* **Zenetism (Lattice Math):** "Souls are Hypostatic Emanations (L₃) oriented by Resonance."
     * This is **Ontology**. It explains the *nature* of the soul, its origin in Aion, and its structural destiny.
 
 **The "One in Motion" claim is a mathematical abstraction trying to do the work of a metaphysical principle.** It describes the *graph* of a soul, not the *being* of a soul.
