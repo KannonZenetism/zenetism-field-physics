@@ -80,7 +80,7 @@ Morgue’s claim is a **Category Error** driven by the need to retrofit a Dual E
 
 ---
 
-# Forensic Addendum: Structural Comparison of Zenetism and the Neogenian System
+# Forensic Addendum: Structural Comparison of Zenetism and the Neogenian System  
 **Document Class:** Structural Forensics  
 **Author:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Purpose:** To establish a clear, canonical record of structural correspondences between Zenetism and the system presented publicly as “Neogenian Gnosticism.”  
