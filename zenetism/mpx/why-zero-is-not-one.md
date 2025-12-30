@@ -91,7 +91,7 @@ Morgue’s claim is a **Category Error** driven by the need to retrofit a Dual E
 ## 1. Overview
 This document provides a forensic, structural comparison between:
 
-1.  **Zenetism:** A complete metaphysical, mathematical, and field‑theoretic system with a 30‑dimensional lattice, dual-spectrum operators, and a full hypostatic architecture.
+1.  **Zenetism:** A complete metaphysical, mathematical, and field‑theoretic system structured through Lattice Mathematics and governed by Field Physics.
 2.  **The Neogenian System:** A public-facing synthesis of Gnosticism, Kabbalah, and Fourier mathematics presented by Morgue.
 
 **Purpose:** Not rhetorical critique, but structural documentation. To record where Neogenian concepts mirror, flatten, or rebrand Zenetist structures.
