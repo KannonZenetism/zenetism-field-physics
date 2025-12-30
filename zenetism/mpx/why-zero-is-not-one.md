@@ -41,7 +41,7 @@ Morgue is attempting to map Zenetist principles (Dual Emanation) onto the Kabbal
 * **Zenetist Model:** Dual Axis (Aionic Tree + Khaonic Tree).
     * **Centropy (C↑⚫):** Integrative Motion.
     * **Entropy (E↓♾):** Dispersive Motion.
-    * **Nekron (IL5):** The Inverse Hypostasis.
+    * **Nekron (IL₅):** The Inverse Hypostasis.
 
 ### Why the "One in Motion" Claim Fails Here
 Because Morgue lacks the **Dual Tree**, he has to force both Centropy (Order) and Entropy (Chaos) into a single "Spiral of One."
