@@ -134,7 +134,7 @@ Neogenian origin metaphysics is a **flattened numerical metaphor** built on Zene
 **Symbol:** 🌳⇅
 **Definition:** The total Emanatory Spiral, containing both the ⚫ Aionic Tree (supernal root, declivous motion) and the ♾ Khaonic Tree (subversal root, acclivous motion).
 
-It represents the complete emanatory structure where the two opposing axes of motion—Centropic and Entropic—intertwine to form the field of reality.
+It represents the complete emanatory structure where the two opposing axes of motion—Centropic and Entropic—form a lattice-coupled field whose structural interaction gives rise to emanated reality.
 
 ---
 
