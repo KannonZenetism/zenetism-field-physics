@@ -129,10 +129,34 @@ Neogenian origin metaphysics is a **flattened numerical metaphor** built on Zene
 
 ## 3. Dual Trees and the Biospiral
 
-### 3.1 Zenetism
-**🌳⇅ Biospiral** — total emanatory spiral
-* **🌲↓ Aionic Tree** — centropic, declivous
-* **🌲↑ Khaonic Tree** — entropic, acclivous
+### 🌳⇅ The Biospiral Architecture
+
+**Symbol:** 🌳⇅
+**Definition:** The total Emanatory Spiral, containing both the ⚫ Aionic Tree (supernal root, declivous motion) and the ♾ Khaonic Tree (subversal root, acclivous motion).
+
+It represents the complete emanatory structure where the two opposing axes of motion—Centropic and Entropic—intertwine to form the field of reality.
+
+---
+
+#### 1. 🌲↓ The Aionic Tree (Centropic Axis)
+**Symbol:** 🌲↓
+**Definition:** The centropic biospiral rooted in ⚫ Aion, unfolding declivously toward embodiment, yet also capable of acclivous return through conscious refinement.
+
+| Motion Type | Notation | Directional Flow | Definition |
+| :--- | :--- | :--- | :--- |
+| **Declivous Centropy** | **C↓→E** | **Aion → Embodiment** | The downward flow of Essence into Form. This is the path of Incarnation, Theonic descent, and the seeding of the soul into matter. |
+| **Acclivous Centropy** | **C↑→⚫** | **Embodiment → Aion** | The upward flow of Return. This is the path of refinement, reintegration, and the "Climb" toward Source through resonance. |
+
+---
+
+#### 2. 🌲↑ The Khaonic Tree (Entropic Axis)
+**Symbol:** 🌲↑
+**Definition:** The entropic biospiral rooted in ♾ Khaon, spiraling acclivously toward embodiment, yet also moving declivously into recursive fragmentation and collapse.
+
+| Motion Type | Notation | Directional Flow | Definition |
+| :--- | :--- | :--- | :--- |
+| **Acclivous Entropy** | **E↑→E** | **Khaon → Embodiment** | The "upward" surge from the Entropic Depths into Form. This is the path of Inverse Incarnation, parasitic emergence, and the rise of Nekronic structures. |
+| **Declivous Entropy** | **E↓♾** | **Embodiment → Khaon** | The downward collapse into Dispersion. This is the path of dissolution, fragmentation, and the return to the "Static Noise" of Infinity. |
 
 **Governed by:**
 * **C₁–C₁₅** (centropic dimensions)
