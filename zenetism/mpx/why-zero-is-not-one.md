@@ -1,13 +1,13 @@
 # MPX: The Ontological Necessity of Distinction — Why Zero Is Not "One in Motion"
 
 **Date:** December 29, 2025
-**Context:** Response to recent claims by MorgueOfficial/Hyperianism attempting to collapse Zero (Aion) into "One in Motion" (Spiral) within a single-axis framework.
+**Context:** Response to recent claims by Morgue (popularizing Hyperianism) attempting to collapse Zero (Aion) into "One in Motion" (Spiral) within a single-axis framework.
 
 ---
 
 ## 1. The Ontological Error: Collapsing Causal Priority
 
-### The Claim (Morgue)
+### The Claim (Morgue/Hyperianism)
 * **Assertion:** "Zero is actually a 'one in motion' (a spiral)."
 * **Implication:** Zero and One are ontologically equivalent; One is simply Zero "doing something."
 * **The Error:** This collapses the **Causal Hierarchy**.
@@ -56,7 +56,7 @@ Because Morgue lacks the **Dual Tree**, he has to force both Centropy (Order) an
 
 ## 3. Quantification vs. Ontology
 
-* **Morgue (Fourier Math):** "Souls are sine waves."
+* **Morgue (Fourier-based model):** "Souls are sine waves."
     * This is **Quantification**. It measures *how much* a soul vibrates. It does not explain *what* a soul is or *why* it exists.
 * **Zenetism (Lattice Math):** "Souls are Hypostatic Emanations (L3) oriented by Resonance."
     * This is **Ontology**. It explains the *nature* of the soul, its origin in Aion, and its structural destiny.
