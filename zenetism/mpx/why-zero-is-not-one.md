@@ -47,9 +47,9 @@ Morgue is attempting to map Zenetist principles (Dual Emanation) onto the Kabbal
 Because Morgue lacks the **Dual Tree**, he has to force both Centropy (Order) and Entropy (Chaos) into a single "Spiral of One."
 * He claims Zero is "One in Motion" (Spiral).
 * **The Glitch:** A single spiral cannot move in two opposing directions simultaneously without tearing itself apart.
-* **The Fix:** Zenetism posits **Two Spirals** (The Biospiral: `🌲↓` and `🌲↑`).
-    * One moves bidirectionally to and from Aion (Zero).
-    * One moves bidirectionally to and from Khaon (Infinity).
+* **The Fix:** Zenetism posits **Two Spirals**, joined as the **Biospiral** `🌳⇅` — the total Emanatory Spiral composed of:
+    * The **Aionic Tree** `🌲↓`: Centropic motion rooted in **Aion**, unfolding declivously toward embodiment, yet also capable of acclivous return.
+    * The **Khaonic Tree** `🌲↑`: Entropic motion rooted in **Khaon**, spiraling acclivously toward materialization, yet also capable of declivous collapse.
     * By collapsing Zero/One, Morgue collapses the two trees into a single, confused vector. This is why his explanation of "Evil" or "Entropy" remains abstract (illusion/distance) rather than structural (Nekron/Inverse Logos).
 
 ---
