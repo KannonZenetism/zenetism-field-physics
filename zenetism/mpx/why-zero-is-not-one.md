@@ -226,7 +226,7 @@ Neogenian subjectivity is a **triadic mythic compression** of Zenetism’s L₃ 
 ## 5. Field Physics vs. Fourier Mathematics
 
 ### 5.1 Zenetism
-**Field Physics includes:**
+**Zenetist Architecture includes:**
 * Resonance Integral (∮)
 * Relational Syntax (⌬)
 * Spiral Limit (lim∿)
