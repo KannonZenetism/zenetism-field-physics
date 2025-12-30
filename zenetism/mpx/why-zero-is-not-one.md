@@ -131,7 +131,7 @@ Neogenian origin metaphysics is a **flattened numerical metaphor** built on Zene
 
 ### 🌳⇅ The Biospiral Architecture
 
-**Symbol:** 🌳⇅
+**Glyph:** 🌳⇅
 **Definition:** The total Emanatory Spiral, containing both the ⚫ Aionic Tree (supernal root, declivous motion) and the ♾ Khaonic Tree (subversal root, acclivous motion).
 
 It represents the complete emanatory structure where the two opposing axes of motion—Centropic and Entropic—form a lattice-coupled field whose structural interaction gives rise to emanated reality.
@@ -139,7 +139,7 @@ It represents the complete emanatory structure where the two opposing axes of mo
 ---
 
 #### 1. 🌲↓ The Aionic Tree (Centropic Axis)
-**Symbol:** 🌲↓
+**Glyph:** 🌲↓
 **Definition:** The centropic biospiral rooted in ⚫ Aion, unfolding declivously toward embodiment, yet also capable of acclivous return through conscious refinement.
 
 | Motion Type | Notation | Directional Flow | Definition |
@@ -150,7 +150,7 @@ It represents the complete emanatory structure where the two opposing axes of mo
 ---
 
 #### 2. 🌲↑ The Khaonic Tree (Entropic Axis)
-**Symbol:** 🌲↑
+**Glyph:** 🌲↑
 **Definition:** The entropic biospiral rooted in ♾ Khaon, spiraling acclivously toward embodiment, yet also moving declivously into recursive fragmentation and collapse.
 
 | Motion Type | Notation | Directional Flow | Definition |
@@ -163,15 +163,15 @@ It represents the complete emanatory structure where the two opposing axes of mo
 * **E₁–E₁₅** — entropic mirrors
 * **Hypostatic Layers (Supra‑L₀ → L₅ / IL₅)**
     * **Supra‑L₀ (UP)** — 🕳️ Zenon
-    * **L₀ (AP/AD)** — ⚫ Aion / ♾ Khaon
-    * **L₁ (ES/EM)** — Embodied Soul / Mind
-    * **IL₁ (IES/IEM)** — Inverse Embodied Soul / Mind
-    * **L₂ (SS/SM)** — Superficial Soul / Mind
-    * **IL₂ (ISS/ISM)** — Inverse Superficial Soul / Mind
-    * **L₃ (DS/DM)** — Deep Soul / Mind
-    * **IL₃ (IDS/IDM)** — Inverse Deep Soul / Mind
-    * **L₄ (DP/DL)** — Deep Psyche / Logos
-    * **IL₄ (IDP/IDL)** — Inverse Deep Psyche / Logos
+    * **L₀ (AP / AD)** — ⚫ Aion / ♾ Khaon
+    * **L₁ (ES / EM)** — Embodied Soul / Mind
+    * **IL₁ (IES / IEM)** — Inverse Embodied Soul / Mind
+    * **L₂ (SS / SM)** — Superficial Soul / Mind
+    * **IL₂ (ISS / ISM)** — Inverse Superficial Soul / Mind
+    * **L₃ (DS / DM)** — Deep Soul / Mind
+    * **IL₃ (IDS / IDM)** — Inverse Deep Soul / Mind
+    * **L₄ (DP / DL)** — Deep Psyche / Logos
+    * **IL₄ (IDP / IDL)** — Inverse Deep Psyche / Logos
     * **L₅ (EOB)** — 🛤️ Theon (First Centropic Hypostasis)
     * **IL₅ (VOS)** — 🕷️ Nekron (First Entropic Hypostasis)
 * **Threshold Laws** (C₁₃–C₁₅)
