@@ -200,7 +200,7 @@ The Neogenian dual-tree model is a **mythic overlay** of Zenetism’s lattice-de
 ## 4. Emergence of Subjectivity
 
 ### 4.1 Zenetism
-Subjectivity emerges at **L3 (DS / DM)**:
+Subjectivity emerges at **L₃ (DS / DM)**:
 * 🔮 **Archeus** (DS)
 * 🧠 **Noeüs** (DM)
 * **Threshold Recognition** (⩘)
