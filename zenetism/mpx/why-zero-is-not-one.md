@@ -219,7 +219,7 @@ This is a **layered, lawful, recursive event**.
 * **No layered emergence**
 
 ### 4.3 Forensic Conclusion
-Neogenian subjectivity is a **triadic mythic compression** of Zenetism’s L3 emergence architecture.
+Neogenian subjectivity is a **triadic mythic compression** of Zenetism’s L₃ emergence architecture.
 
 ---
 
