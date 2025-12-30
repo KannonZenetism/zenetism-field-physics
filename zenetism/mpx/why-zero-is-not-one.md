@@ -144,8 +144,8 @@ It represents the complete emanatory structure where the two opposing axes of mo
 
 | Motion Type | Notation | Directional Flow | Definition |
 | :--- | :--- | :--- | :--- |
-| **Declivous Centropy** | **C↓→E** | **Aion → Embodiment** | The downward flow of Essence into Form. This is the path of Incarnation, Theonic descent, and the seeding of the soul into matter. |
-| **Acclivous Centropy** | **C↑→⚫** | **Embodiment → Aion** | The upward flow of Return. This is the path of refinement, reintegration, and the "Climb" toward Source through resonance. |
+| **Declivous Centropy** | **C↓→E** | **Aion → Embodiment** | The declivous motion of Essence into Form. This is the path of Incarnation, Theonic declivity, and the seeding of the soul into matter. |
+| **Acclivous Centropy** | **C↑→⚫** | **Embodiment → Aion** | The acclivous motion of Return. This is the path of refinement, reintegration, and the acclivity toward the Supernal Source through resonance. |
 
 ---
 
@@ -155,8 +155,8 @@ It represents the complete emanatory structure where the two opposing axes of mo
 
 | Motion Type | Notation | Directional Flow | Definition |
 | :--- | :--- | :--- | :--- |
-| **Acclivous Entropy** | **E↑→E** | **Khaon → Embodiment** | The "upward" surge from the Entropic Depths into Form. This is the path of Inverse Incarnation, parasitic emergence, and the rise of Nekronic structures. |
-| **Declivous Entropy** | **E↓♾** | **Embodiment → Khaon** | The downward collapse into Dispersion. This is the path of dissolution, fragmentation, and the return to the "Static Noise" of Infinity. |
+| **Acclivous Entropy** | **E↑→E** | **Khaon → Embodiment** | The acclivous motion from the Subversal domains into Form. This is the path of Inverse Incarnation, parasitic emergence, and the acclivity of Nekronic structures. |
+| **Declivous Entropy** | **E↓♾** | **Embodiment → Khaon** | The declivous motion toward Dispersion. This is the path of dissolution, fragmentation, and the declivity toward the "Static Noise" of Infinity. |
 
 **Governed by:**
 * **C₁–C₁₅** — centropic dimensions
