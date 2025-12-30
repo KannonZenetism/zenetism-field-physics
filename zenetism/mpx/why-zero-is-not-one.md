@@ -1,16 +1,16 @@
 # MPX: The Ontological Necessity of Distinction — Why Zero Is Not "One in Motion"
 
-**Date:** December 29, 2025
-**Context:** Response to recent claims by Morgue (popularizing Hyperianism) attempting to collapse Zero (Aion) into "One in Motion" (Spiral) within a single-axis framework.
+**Date:** December 29, 2025  
+**Context:** Response to recent claims by Morgue (popularizing Hyperianism) attempting to collapse Zero (Aion) into "One in Motion" (Spiral) within a single-axis framework.  
 
 ---
 
 ## 1. The Ontological Error: Collapsing Causal Priority
 
 ### The Claim (Morgue/Hyperianism)
-* **Assertion:** "Zero is actually a 'one in motion' (a spiral)."
-* **Implication:** Zero and One are ontologically equivalent; One is simply Zero "doing something."
-* **The Error:** This collapses the **Causal Hierarchy**.
+* **Assertion:** "Zero is actually a 'one in motion' (a spiral)."  
+* **Implication:** Zero and One are ontologically equivalent; One is simply Zero "doing something."  
+* **The Error:** This collapses the **Causal Hierarchy**.  
 
 ### The Zenetist Correction
 **Zero (⚫ Aion) must precede One (Emanation).**
