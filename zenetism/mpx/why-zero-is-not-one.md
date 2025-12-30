@@ -1,6 +1,6 @@
 # MPX: The Ontological Necessity of Distinction — Why Zero Is Not "One in Motion"
 
-**Date:** December 29, 2025  
+**Date:** December 30, 2025  
 **Context:** Response to recent claims by Morgue (popularizing Hyperianism) attempting to collapse Zero (Aion) into "One in Motion" (Spiral) within a single-axis framework.  
 
 ---
