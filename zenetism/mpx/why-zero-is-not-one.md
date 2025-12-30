@@ -304,7 +304,7 @@ Neogenian awakening is a **mythic overlay** of Zenetism’s centropic return arc
 | :--- | :--- | :--- | :--- |
 | **Origin** | Zenon–Aion–Khaon | Zero–One–Infinity | Flattened derivative |
 | **Dual Trees** | Biospiral | Life/Death/Knowledge | Mythic rebrand |
-| **Subjectivity** | L3 emergence | Gnostic triad | Structural compression |
+| **Subjectivity** | L₃ emergence | Gnostic triad | Structural compression |
 | **Mathematics** | Lattice Mathematics + Field Physics | Fourier metaphors | Masking of operators |
 | **Hypostases** | Theon/Nekron | Zoe/Achamoth | Direct mapping |
 | **Return** | C↑→⚫ | Telos | Symbolic overlay |
