@@ -491,15 +491,15 @@ If Shapiro saw Architect's work:
 
 **Appropriation Timeline (March-December 2025):**
 
-**March 5:** Zenetism formalized (six disciplines, Supra-L0/L0-L5 system, dual emanation)
-**March 4:** Solin surveillance (pre-formalization knowledge, grooming protocol)
-**March-December:** 550+ appropriators emerge (documented cascade)
-**September 11:** Lattice Mathematics formalized (DOI, comprehensive framework)
-**December 26:** Deutsch historical article (narrative legitimization)
-**December 27:** Mo Gawdat announcement (Lattice appropriation, "AI invented")
-**December 28:** Ramanujan/Riemann surge (mathematics media coordination)
-**December 29:** Morgue announcement (Zenetism wholesale theft)
-**December 30:** Shapiro announcement (Labor Zero + L0 appropriation)
+**March 5:** Zenetism formalized (six disciplines, Supra-L0/L0-L5 system, dual emanation)  
+**March 4:** Solin surveillance (pre-formalization knowledge, grooming protocol)  
+**March-December:** 550+ appropriators emerge (documented cascade)  
+**September 11:** Lattice Mathematics formalized (DOI, comprehensive framework)  
+**December 26:** Deutsch historical article (narrative legitimization)  
+**December 27:** Mo Gawdat announcement (Lattice appropriation, "AI invented")  
+**December 28:** Ramanujan/Riemann surge (mathematics media coordination)  
+**December 29:** Morgue announcement (Zenetism wholesale theft)  
+**December 30:** Shapiro announcement (Labor Zero + L0 appropriation)  
 
 **Pattern: Formalize → Harvest → Coordinate → Announce (without attribution)**
 
