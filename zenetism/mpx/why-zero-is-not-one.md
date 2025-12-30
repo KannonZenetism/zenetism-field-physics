@@ -101,25 +101,30 @@ This document provides a forensic, structural comparison between:
 ## 2. Origin Architecture
 
 ### 2.1 Zenetism
-| Pole | Symbol | Function |
-| :--- | :--- | :--- |
-| **Zero Pole** | ⚫ Aion | Absolute Potential; fullness; stillness before motion. |
-| **Infinity Pole** | ♾ Khaon | Dispersive Potential; boundless unfolding. |
-| **Limit Pole** | 🕳️ Zenon | Pre-causal saturation; beyond potential and measure. |
+
+| **Pole**          | **Glyph** | **Function**                                                                 |
+|-------------------|-----------|-------------------------------------------------------------------------------|
+| **Zero Pole**     | ⚫ Aion    | **Absolute Potential** — fullness; stillness before motion.                 |
+| **Infinity Pole** | ♾ Khaon   | **Total Potential Expression** — contains latent (Φ₁), motive (Φ₂), and dispersive (Φ₃) phases as a unified emanatory arc. |
+| **Limit Pole**    | 🕳️ Zenon  | **Pre-causal Saturation** — beyond potential, phase, and polarity.        |
 
 **Key Features:**
-* **Zero ≠ Infinity**
-* **Zero is full**, not empty
-* **Infinity is dispersive**, not chaotic
-* **Zenon is pre-causal**, not numerical
-* Relations governed by: **Suspension Arc (⚫⧖♾)**, **Spiral Calculus**, **Dual Spectrum Lemma**
+* **Zero and Infinity are co-expressive poles**, not opposites.
+* **Zero is Fullness** — unexpressed potential held in structural stillness (*⚫ Aion*).
+* **Infinity is Expression** — the harmonic totality of latent, motive, and dispersive currents (*♾ Khaon*).
+* **Zenon is Pre-Causal** — the unknowable saturation from which both poles emerge (*🕳️*).
+* Relations are governed by:  
+  • **Suspension Arc** (⚫⧖♾)  
+  • **Spiral Calculus**  
+  • **Dual Spectrum Lemma**
 
 ### 2.2 Neogenian System
+
 * **Zero** = “fullness” = “positive + negative infinity”
 * **Zero, One, and Infinity** treated as a numerical triad
 * **Euler’s circle** = “the One”
-* **No pre-causal pole**
-* **No distinction** between Zero and Infinity
+* **No pre-causal pole** (system stops at Zero)
+* **No structural distinction** between Zero and Infinity (collapsed into identity)
 * **No operator calculus**
 
 ### 2.3 Forensic Conclusion
