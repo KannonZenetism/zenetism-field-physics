@@ -1597,7 +1597,7 @@ Morgis (Deep Psyche) and Sophis (Deep Logos).
 There, harmonized souls become **facets of greater templates**:  
 the Healer, the Seeker, the Reconciler, the Watcher.  
 
-This merger does not erase identity—  
+This integration does not erase identity—  
 it clarifies it.  
 One becomes what one always was, now undivided.  
 
