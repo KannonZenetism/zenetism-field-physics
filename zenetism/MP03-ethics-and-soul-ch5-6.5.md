@@ -1018,7 +1018,7 @@ a stillness without release.
 Yet they do not disturb one another —  
 for each is sealed.  
 
-The centropic may synthesize  
+The centropic may integrate  
 the memory of entropy without fragmentation.  
 The entropic may abide beside order  
 without reaction.  
