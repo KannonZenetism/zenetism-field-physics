@@ -1172,7 +1172,7 @@ Centropic culmination retains coherence and awareness.
 Entropic culmination does not.  
 
 Thus Zenetism holds  
-that only **centropic synthesis** completes the return —  
+that only **centropic integration** completes the return —  
 and that negation alone  
 cannot cross into Zenon.  
 
