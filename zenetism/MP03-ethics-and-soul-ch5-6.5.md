@@ -1323,8 +1323,8 @@ it **remembers** while returning.
 |---|---|---|
 | **Method** | Apophatic negation | Dialectical integration |
 | **Motion** | Subtractive toward stillness | Expansive toward coherence |
-| **Limit Encountered** | Silence / Unstructured void | Collapse of opposites into structural unity |
-| **Risk** | Cognitive bifurcation | Over-synthesis or resonant delay |
+| **Limit Encountered** | Silence / Unstructured void | Resolution of opposites into structural unity |
+| **Risk** | Cognitive bifurcation | Excessive formalization or resonant delay |
 | **Zenon Access** | Approaches stillness, but not Zenon | Recursive transcendence toward Zenon horizon |
 | **Functional Value** | Clears distortion and identification | Reveals coherence and preserves intelligence |
 | **Primary Limitation** | Lacks integrative orientation | May over-formalize subtle experience |
