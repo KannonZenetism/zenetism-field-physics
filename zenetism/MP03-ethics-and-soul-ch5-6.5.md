@@ -190,7 +190,7 @@ Fragmentation distorts moral clarity,
 veils the guiding tone,  
 and dulls the clarion voice.  
 
-As a being declines into dissonance,  
+As a being moves declivously into dissonance,  
 its harmonic signal weakens.  
 **Ego**, **fear**, **craving**, and **delusion**  
 twist the compass — and call it freedom.  
