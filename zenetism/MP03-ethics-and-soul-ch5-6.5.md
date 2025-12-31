@@ -162,7 +162,7 @@ Zenon is not chosen by will,
 but approached by **alignment**.  
 
 **Ethical perception is proportional to consciousness** —  
-and to the **coherence of inner synthesis**.  
+and to the **coherence of inner integration**.  
 
 **Morality** is not imposed.  
 It emerges as a **reflection of resonance**.  
