@@ -826,7 +826,7 @@ And into further states of **dissolution**.
 
 This movement is not **imposed** —  
 it is the **revelation of structure**,  
-as being naturally **falls into place**.  
+as being naturally **settles into place**.  
 
 **Judgment is not external.**  
 It is **intrinsic** —  
@@ -1011,7 +1011,7 @@ this fixity may be felt as:
 - Coherence  
 
 For entropic resonance,  
-which inclines toward motion and individuation,  
+which orients toward motion and individuation,  
 that same fixity may be felt as static tension:  
 a stillness without release.  
 
