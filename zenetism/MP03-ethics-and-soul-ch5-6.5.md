@@ -793,7 +793,7 @@ that determines its **gravitational trajectory**.
 not **punishment**.  
 
 A soul attuned to:  
-- **Synthesis**  
+- **Integration**  
 - **Coherence**  
 - **Compassion**  
 
