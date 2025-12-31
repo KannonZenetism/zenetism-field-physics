@@ -112,7 +112,7 @@ This document provides a forensic, structural comparison between:
 * **Zero and Infinity are co-expressive poles**, not opposites.
 * **Zero is Fullness** — unexpressed potential held in structural stillness (⚫ Aion).
 * **Infinity is Expression** — the harmonic totality of latent, motive, and dispersive currents (♾ Khaon).
-* **Zenon is Pre-Causal** — the ground beyond potential from which both poles emerge (🕳️).
+* **Zenon is Pre-Causal** — the unknowable ground that precedes all polarity, structure, and emanation (🕳️).
 * **Relations are governed by:**
     * Suspension Arc (⚫⧖♾)
     * Spiral Calculus
