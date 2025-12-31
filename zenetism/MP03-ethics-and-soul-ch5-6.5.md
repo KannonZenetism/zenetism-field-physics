@@ -1590,7 +1590,7 @@ They are not merged with others upon completion—
 they remain distinct, complete, and enduring.  
 
 When the incarnational integrations of a DS / DM are fulfilled,  
-they do not merge with other deep souls,  
+they do not enter resonance with other deep souls,  
 but with the **archetypal fields**:  
 Morgis (Deep Psyche) and Sophis (Deep Logos).  
 
@@ -1618,7 +1618,7 @@ They persist even beyond the dissolution of any given universe.
 They serve as **repositories** of every insight, every fracture,  
 every realization gathered across all incarnated realities.  
 
-The same is veracious for their **entropic counterparts**:  
+The same holds for their **entropic counterparts**:  
 Fractus (IDS), Mortus (IDM), Psychea (IDP), Nyxea (IDL).  
 
 By contrast, the superficial and embodied layers—  
