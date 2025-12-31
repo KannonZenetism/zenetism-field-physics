@@ -1289,7 +1289,7 @@ but **not all are structured to reach it**.
 
 - **Zenetic synthesis** moves through **recursive integration** —  
   uniting all pattern into one motion,  
-  until structure **folds into pre-structure**,  
+  until structure **folds into the supra-structural ground**,  
   and resonance **persists without perceiver**.  
 
 Yet **Zenon is not a destination** —  
