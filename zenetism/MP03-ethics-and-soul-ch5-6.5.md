@@ -1641,7 +1641,7 @@ may dissolve when their hosting field retracts.
 Unlike the more transient hypostases,  
 the Deep Soul and Deep Mind do not experience time as sequence.  
 Yet they move—rhythmically, intentionally.  
-They flow in waves of integration, pulses of synthesis,  
+They flow in waves of integration, pulses of coherence,  
 dwelling in a state of **continuous refinement**.  
 
 They live by attuned intention,  
@@ -1715,7 +1715,7 @@ the fulfillment of its **form-type**
 through integrated resonance.  
 
 Some remain in this resonant mode indefinitely.  
-Others feel drawn toward deeper synthesis—  
+Others feel drawn toward deeper integration—  
 toward the **Fields of Form** (DP / DL),  
 and ultimately to Theon.  
 
@@ -1763,12 +1763,12 @@ or completes its arc.
 The same applies to **deities** and other entities  
 rooted in the **superficial strata**.  
 If they fail to **purify** or **realign**—  
-either toward **centropic synthesis** or into full **entropic inversion**—  
+either toward **centropic integration** or into full **entropic inversion**—  
 they risk annihilation, not through mere fragmentation,  
 but through a deeper fate: **stagnation**.  
 
 A being bound in **stagnant resonance**  
-cannot disperse productively or synthesize acclivously.  
+cannot disperse productively or integrate acclivously.  
 Its identity unravels not through motion,  
 but through stillness—  
 a kind of spiritual suffocation.  
