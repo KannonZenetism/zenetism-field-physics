@@ -305,7 +305,7 @@ This is the domain of:
 - **Inverse Deep Psyche (IDP)**  
 - **Inverse Deep Logos (IDL)**  
 
-Where intelligence no longer synthesizes —  
+Where intelligence no longer integrates —  
 but **corrupts**.  
 
 The most dangerous evil  
