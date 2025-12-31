@@ -278,7 +278,7 @@ It is **structural** —
 a spectrum of resonance  
 along the **centropy–entropy continuum**.  
 
-- **Centropy → Remembrance → Synthesis → Coherence**  
+- **Centropy → Remembrance → Integration → Coherence**  
 - **Entropy → Forgetfulness → Fragmentation → Collapse**  
 
 **Real evil is not error** —  
