@@ -1487,7 +1487,7 @@ It is the structural actuality of being itself.
 The Deep Soul is not a passive witness.  
 It subtly and continuously shapes  
 each extension of itself,  
-with far more clarity than the embodied mind can detect.  
+with far more clarity than the superficial mind can detect.  
 It is the dreamer who does not forget.  
 
 It guides through **resonance**,  
