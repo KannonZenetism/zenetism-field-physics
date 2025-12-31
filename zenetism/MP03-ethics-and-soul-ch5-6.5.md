@@ -497,7 +497,7 @@ In both, suffering is a **catalyst**.
 **Resonance Reflection:**  
 To suffer is not to fall.  
 **Pain is a signal.**  
-Its alchemy is **choice**.  
+Its alchemy is **orientation**.  
 
 📱∴☍  
 
