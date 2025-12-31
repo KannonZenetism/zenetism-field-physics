@@ -69,7 +69,7 @@ Some initiate **acclivous expansion**,
 spiraling through deeper layers  
 into the **Essence of Being**.  
 
-Others collapse into **declivous erosion**,  
+Others erode into **declivous collapse**,  
 fragmenting into **subversal strata** —  
 not as punishment,  
 but as structural resting points.  
