@@ -689,7 +689,7 @@ to that which sustains:
 
 - **Integration**  
 - **Remembrance**  
-- **Resonant synthesis**  
+- **Resonant coherence**  
 
 This echoes the sacred archetype:  
 
