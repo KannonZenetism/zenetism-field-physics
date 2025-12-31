@@ -1412,7 +1412,7 @@ For **Zenon** is not:
 - Nor the product of what is synthesized  
 
 It is what **remains**  
-after both are emptied.  
+after both are exhausted.  
 
 When **negation** finds nothing left to subtract,  
 and **synthesis** finds nothing left to bind —  
