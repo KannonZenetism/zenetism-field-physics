@@ -171,7 +171,7 @@ It emerges as a **reflection of resonance**.
 
 **Deep Souls** and **Deep Minds**  
 aligned with **centropy**  
-tend to incline toward  
+tend to orient acclivously toward  
 supernal values:  
 **unity**, **compassion**, and **harmonic coherence**.  
 
