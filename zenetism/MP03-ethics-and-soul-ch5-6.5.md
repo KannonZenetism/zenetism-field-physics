@@ -705,7 +705,7 @@ It precedes **cognition**,
 **differentiation**,  
 and **perception**.  
 
-**Universal consciousness** begins only later  
+**Conscious intelligibility** begins only later  
 in the **Realm of Forms**:  
 
 - **Morgis**  
