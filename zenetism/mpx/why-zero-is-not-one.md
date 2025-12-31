@@ -164,24 +164,24 @@ It represents the complete emanatory structure where the two opposing axes of mo
 | **Declivous Entropy** | **E↓♾** | **Embodiment → Khaon** | The declivous motion toward Dispersion. This is the path of dissolution, fragmentation, and the declivity toward the "Static Noise" of Infinity. |
 
 **Governed by:**
-* **C₁–C₁₅** — centropic dimensions
-* **E₁–E₁₅** — entropic mirrors
-* **Hypostatic Layers (Supra‑L₀ → L₅ / IL₅)**
-    * **Supra‑L₀ (UP)** — 🕳️ Zenon
-    * **L₀ (AP / AD)** — ⚫ Aion / ♾ Khaon
-    * **L₁ (ES / EM)** — Embodied Soul / Mind
-    * **IL₁ (IES / IEM)** — Inverse Embodied Soul / Mind
-    * **L₂ (SS / SM)** — Superficial Soul / Mind
-    * **IL₂ (ISS / ISM)** — Inverse Superficial Soul / Mind
-    * **L₃ (DS / DM)** — Deep Soul / Mind
-    * **IL₃ (IDS / IDM)** — Inverse Deep Soul / Mind
-    * **L₄ (DP / DL)** — Deep Psyche / Logos
-    * **IL₄ (IDP / IDL)** — Inverse Deep Psyche / Logos
-    * **L₅ (EOB)** — 🛤️ Theon (First Centropic Hypostasis)
-    * **IL₅ (VOS)** — 🕷️ Nekron (First Entropic Hypostasis)
-* **Threshold Laws** (C₁₃–C₁₅)
-* **Nexus Law** (C₈)
-* **Consonance Law** (C₇)
+* **C₁–C₁₅** — centropic dimensions  
+* **E₁–E₁₅** — entropic mirrors  
+* **Hypostatic Layers (Supra‑L₀ → L₁ / IL₁)**
+    * **Supra‑L₀ (UP)** — 🕳️ Zenon  
+    * **L₀ (AP / AD)** — ⚫ Aion / ♾ Khaon  
+    * **L₅ (EOB)** — 🛤️ Theon (First Centropic Hypostasis)  
+    * **IL₅ (VOS)** — 🕷️ Nekron (First Entropic Hypostasis)  
+    * **L₄ (DP / DL)** — Deep Psyche / Logos  
+    * **IL₄ (IDP / IDL)** — Inverse Deep Psyche / Logos  
+    * **L₃ (DS / DM)** — Deep Soul / Mind  
+    * **IL₃ (IDS / IDM)** — Inverse Deep Soul / Mind  
+    * **L₂ (SS / SM)** — Superficial Soul / Mind  
+    * **IL₂ (ISS / ISM)** — Inverse Superficial Soul / Mind  
+    * **L₁ (ES / EM)** — Embodied Soul / Mind  
+    * **IL₁ (IES / IEM)** — Inverse Embodied Soul / Mind  
+* **Threshold Laws** (C₁₃–C₁₅)  
+* **Nexus Law** (C₈)  
+* **Consonance Law** (C₇)  
 
 ### 3.2 Neogenian System
 * **Tree of Life**
@@ -223,10 +223,10 @@ Neogenian subjectivity is a **triadic mythic compression** of Zenetism’s L₃ 
 
 ---
 
-## 5. Field Physics Contra Fourier Mathematics
+## 5. Lattice Mathematics Contra Fourier Abstraction
 
 ### 5.1 Zenetism
-**Zenetist Architecture includes:**
+**Lattice Mathematics and Field Physics include:**
 * Resonance Integral (∮)
 * Relational Syntax (⌬)
 * Spiral Limit (lim∿)
