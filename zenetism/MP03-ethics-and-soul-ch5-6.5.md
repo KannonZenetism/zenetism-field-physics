@@ -565,7 +565,7 @@ with **archetypal essence**.
 Here, freedom is not escape from cause —  
 but **harmonic causation**.  
 
-The purest expressions of will  
+The fundamental expressions of will  
 are **coherence** and **fragmentation**.  
 
 Both **centropic integration**  
