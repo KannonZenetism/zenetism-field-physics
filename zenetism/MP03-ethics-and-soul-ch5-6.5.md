@@ -306,7 +306,7 @@ This is the domain of:
 - **Inverse Deep Logos (IDL)**  
 
 Where intelligence no longer integrates —  
-but **corrupts**.  
+but **distorts**.  
 
 The most dangerous evil  
 is not chaos —  
