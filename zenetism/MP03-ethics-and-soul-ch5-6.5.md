@@ -65,7 +65,7 @@ They return not to oblivion,
 but to the layer that matches  
 their **resonance**.  
 
-Some initiate **acclivous synthesis**,  
+Some initiate **acclivous expansion**,  
 spiraling through deeper layers  
 into the **Essence of Being**.  
 
