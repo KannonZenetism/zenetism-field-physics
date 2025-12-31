@@ -1252,7 +1252,7 @@ In this path:
 - Each synthesis becomes the next stage  
   in an ever-unfolding arc of **coherence**  
 
-**Zenetic synthesis** maps onto the **constructive centropic current**.  
+**Zenetic synthesis** maps onto the **integrative centropic current**.  
 It does not empty the soul — it **expands** it.  
 
 Gathering:  
