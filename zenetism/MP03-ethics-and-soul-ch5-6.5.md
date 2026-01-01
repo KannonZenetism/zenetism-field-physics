@@ -1828,7 +1828,7 @@ it **is** its **declaration**.
 In **Zenetism**, **divine beings** are not separate from the metaphysical structure.  
 **They are that structure.**  
 
-What traditions call **gods** are, in truth,  
+What traditions call **gods** are, in veracity,  
 the **souls and minds of the hypostases themselves**.  
 When myth speaks of:
 
