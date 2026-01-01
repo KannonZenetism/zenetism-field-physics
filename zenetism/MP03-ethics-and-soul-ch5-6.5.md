@@ -2104,7 +2104,7 @@ and thus begins to lose **structural coherence**.
 
 ---
 
-Over time—slowly, gently—the **soul** dissolves into **Zero**.  
+Over time—slowly, gently—the **soul** dissolves into **AP**.  
 Not by **force**, but by a gradual **loss of motion**.  
 **Motive Infinity** does not **destroy** it.  
 It simply ceases to **hold** it together.  
