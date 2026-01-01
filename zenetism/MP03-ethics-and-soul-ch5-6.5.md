@@ -2130,7 +2130,7 @@ alongside the two **primary outcomes**:
     when a **soul** stalls—  
     neither **moving** toward **integration** nor **collapse**—  
     and is gradually **reabsorbed**  
-    into the still **silence** of **Zero**.  
+    into the still **silence** of **AP**.  
 
 ---
 
