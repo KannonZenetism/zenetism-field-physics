@@ -1973,7 +1973,7 @@ Guiding **souls** through:
 In the end,  
 even **gods** long for **clarity**—  
 and like all beings,  
-they must face the **silence of Zenon**.  
+they must face the **silence of Aion**.  
 
 🛤️🌀↺🕳️  
 
