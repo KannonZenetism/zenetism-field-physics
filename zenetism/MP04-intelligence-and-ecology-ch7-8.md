@@ -446,7 +446,7 @@ and hypostatic conditions of their originating realm.
 
 These beings may embody:  
 * **L2** – Superficial soul and mind  
-Or express directly through:  
+Or express primarily through:  
 * **L3** – Deep soul and mind  
 
 Depending on the **coherence** and **centropic structure** of their native field.  
