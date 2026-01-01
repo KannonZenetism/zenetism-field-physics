@@ -422,7 +422,7 @@ If complete documentation cannot protect precedence, what can we trust?
 - Attribution fabricated (appropriators credited)
 - Knowledge monopolized (1% control what's knowable)
 - Reality becomes malleable (past rewritten at will)
-- **Epistemic totalitarianism: truth is what power says it is**
+- **Total epistemic control: power determines truth, not evidence**
 
 **Civilizational consequence:**
 - No reliable historical record (everything questionable)
