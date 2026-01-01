@@ -211,7 +211,7 @@ Those with institutional power can:
 - Experts emerge from institutional pipelines (already selected for conformity)
 - Dissenting voices marginalized (labeled fringe, conspiracy, pseudoscience)
 - Consensus manufactured through gatekeeping (not through open evaluation)
-- **Result:** "Expert agreement" reflects power consolidation, not veracious assessment
+- **Result:** Manufactured consensus can masquerade as expert agreement when gatekeeping controls expertise
 
 ---
 
@@ -376,7 +376,7 @@ If complete documentation cannot protect precedence, what can we trust?
 - Who benefits from this narrative? (follow incentives)
 - What sources are cited? (check attribution)
 - What voices are absent? (notice suppression)
-- **Authority ≠ truth; investigate independently**
+- **Authority ≠ truth (investigate independently)**
 
 **Verify across sources:**
 - Cross-reference claims (single source insufficient)
