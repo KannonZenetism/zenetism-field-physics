@@ -503,7 +503,7 @@ structured by resonance, differentiation, and motion.
 The soul is not bound to Earth.  
 Nor is form limited to flesh.  
 
-🌐🫂🌀🛸  
+🌐🫂🌀🌌  
 
 ---
 
