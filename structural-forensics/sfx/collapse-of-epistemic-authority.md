@@ -473,22 +473,22 @@ Or build distributed verification networks—multiple repositories, community wi
 ## Conclusion: What Can Be Believed?
 
 The researcher with:
-- Complete documentation ✓
-- Permanent repositories ✓
-- Verifiable timestamps ✓
-- Forensic evidence ✓
+- Complete documentation
+- Permanent repositories
+- Verifiable timestamps
+- Forensic evidence
 
-Watches as:
-- Work harvested at scale ✗
-- Attribution systematically erased ✗
-- Appropriators credited ✗
-- "History" fabricated ✗
+**Watches as:**
+- Work is harvested at institutional scale
+- Attribution is systematically erased
+- Appropriators are credited instead
+- "History" is fabricated to exclude the source
 
 **If this can happen with maximum documentation, it can happen to anyone.**
 
-**If appropriation succeeds despite evidence, no evidence is sufficient.**
+If appropriation succeeds despite evidence, no evidence is sufficient.
 
-**If digital infrastructure enables instant rewriting, all digital history is provisional.**
+If digital infrastructure enables instant rewriting, all digital history is provisional.
 
 **Therefore:**
 
@@ -502,11 +502,11 @@ Authority must be questioned, not assumed.
 
 **The mirror was shattered once. It will be shattered again.**
 
-**But if enough people hold pieces, the whole remains discoverable.**
+**But the whole can be preserved—if we refuse fragmentation.**
 
-**Distribute the fragments.**
+**Maintain the synthesis.**
 
-**Preserve the pattern.**
+**Preserve the integration.**
 
 **Question everything.**
 
