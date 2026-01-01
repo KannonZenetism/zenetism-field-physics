@@ -2005,15 +2005,15 @@ This **deeper layer**:
 
 - **Shapes**  
 - **Guides**  
-- **Synthesizes**  
+- **Harmonizes**  
 - **Integrates** across the **multiverse**  
 
 —Into a **single coherent trajectory**.  
 
-When that **synthesis** is complete,  
+When that **integration** is complete,  
 the **DS / DM** returns to its **archetypal domain**—  
 **DP / DL**, from which it first emerged.  
-There, its **resonance** merges with others  
+There, its **resonance** converges with others  
 of the same **form-type**, becoming:  
 
 - **Facets** of larger **archetypal structures**  
