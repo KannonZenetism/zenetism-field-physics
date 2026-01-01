@@ -376,7 +376,7 @@ functioning as more than a temporary staging ground for **integration**.
 
 Within such **universes**, the corporeal realm may serve as:  
 
-* A **purifying stratum** for souls not yet attuned to L3-level resonance  
+* A **purifying stratum** for souls not yet attuned to L3-layer resonance  
 * A **dreaming zone** where myth, memory, and unresolved identity unfold in dynamic form  
 * A **symbolic atmosphere** where temporal embodiment and enduring meaning intersect  
 
