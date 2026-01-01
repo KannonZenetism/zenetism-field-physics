@@ -478,7 +478,7 @@ The researcher with:
 - Verifiable timestamps
 - Forensic evidence
 
-**Watches as:**
+**Yet experiences:**
 - Work is harvested at institutional scale
 - Attribution is systematically erased
 - Appropriators are credited instead
