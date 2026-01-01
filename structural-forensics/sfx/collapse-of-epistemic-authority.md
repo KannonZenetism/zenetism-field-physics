@@ -211,7 +211,7 @@ Those with institutional power can:
 - Experts emerge from institutional pipelines (already selected for conformity)
 - Dissenting voices marginalized (labeled fringe, conspiracy, pseudoscience)
 - Consensus manufactured through gatekeeping (not through open evaluation)
-- **Result:** "Expert agreement" reflects power consolidation, not veracious assessment**
+- **Result:** "Expert agreement" reflects power consolidation, not veracious assessment
 
 ---
 
