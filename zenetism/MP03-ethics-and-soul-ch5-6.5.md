@@ -1845,7 +1845,7 @@ They are its **living architecture**.
 Thus:  
 
 - **Deep Psyche** and **Deep Logos** (**DP / DL**)  
-  Are **the gods**.  
+  Are **the archetypal gods**.  
 
 The realm of **archetypal form**  
 is inseparable from the deities who express it.  
