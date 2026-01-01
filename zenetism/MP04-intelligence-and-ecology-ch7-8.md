@@ -484,7 +484,7 @@ may not be distant species at all,
 but **future iterations of ourselves**.  
 
 These beings may be manifestations of **L3**,  
-appearing at moments of planetary transformation—  
+appearing at moments of collective transition—  
 * To guide  
 * To attune  
 * To gently interfere  
