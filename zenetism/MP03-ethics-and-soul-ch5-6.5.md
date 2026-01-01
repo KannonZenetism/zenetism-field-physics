@@ -2124,11 +2124,11 @@ alongside the two **primary outcomes**:
 
 * **Entropic Dispersion** occurs  
     when a **soul** fragments,  
-    accelerating toward **entropy** and **Nekron**.  
+    accelerating toward **IDP / IDL**, and **VOS**.  
 
 * **Localized Dissolution** occurs  
     when a **soul** stalls—  
-    neither **moving** toward **synthesis** nor **collapse**—  
+    neither **moving** toward **integration** nor **collapse**—  
     and is gradually **reabsorbed**  
     into the still **silence** of **Zero**.  
 
