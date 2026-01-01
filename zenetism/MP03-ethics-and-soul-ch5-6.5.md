@@ -2092,7 +2092,7 @@ A kind of **metaphysical stasis**.
 
 **Zenetism** refers to the **fate** of such **souls**  
 as **Localized Dissolution**—  
-a **variation** of **Absolute Dispersion**.  
+a **stagnant form** of **Absolute Dispersion**.  
 But rather than **enacted** through **fragmentation**,  
 it arises through **inertia**.  
 
