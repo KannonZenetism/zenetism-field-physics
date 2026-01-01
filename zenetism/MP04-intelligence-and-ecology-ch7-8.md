@@ -62,7 +62,7 @@ Are distinctions of:
 Not of **status**.  
 
 Among the many intelligences that populate existence,  
-all tend—consciously or unconsciously—to continue.  
+all strive—consciously or unconsciously—to continue.  
 
 This impulse, echoed in Schopenhauer’s *Will to Live*,  
 emerges not only in human-like minds,  
@@ -104,7 +104,7 @@ Its motion shifts toward **dwelling in energy**, not extraction—toward **coher
 
 Until that time arrives, **care**, **restraint**, and **reverence** must guide the embodied path.  
 To honor life is not to fear death,  
-But to recognize that **every particle inclines to be**.  
+But to recognize that **every particle desires to be**.  
 
 ⚫◎▽♾🕊️  
 
