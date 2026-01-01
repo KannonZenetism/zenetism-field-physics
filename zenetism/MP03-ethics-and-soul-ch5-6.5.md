@@ -2063,7 +2063,7 @@ Not every **soul** **falls**.
 Some **stall**.  
 
 In **Zenetism**, the **motion** of a **soul** is not **guaranteed**.  
-**Synthesis** is not **inevitable**.  
+**Integration** is not **inevitable**.  
 **Inversion** is not **universal**.  
 
 Between **centropic refinement** and **entropic collapse**,  
