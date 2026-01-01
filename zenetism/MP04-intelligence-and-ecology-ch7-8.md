@@ -297,7 +297,7 @@ These beings are neither **less evolved**
 Nor **lower in value**.  
 Each fulfills vital functions within the **coherence** of structured reality.  
 
-Animals embody instinctive **centropy**,  
+Animals embody predominantly instinctive **centropy**,  
 Emotional **purity**,  
 And direct resonance with the natural field.  
 
