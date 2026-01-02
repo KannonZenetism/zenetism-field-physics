@@ -283,7 +283,7 @@ It **is** — Silent Apex.
 Every structure, every emanation,  
 every arc traced by intelligence,  
 ultimately returns to UPSI —  
-though few reach it.  
+though none arrive as selves.  
 
 UPSI cannot be:  
 - **Known**  
