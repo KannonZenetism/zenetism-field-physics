@@ -511,7 +511,7 @@ Nor is form limited to flesh.
 
 ### 7.5.1 Structural Innocence
 
-Not all who move through the world follow a path of fall and return.  
+Not all who move through the world follow a path of fracture and return.  
 Some never fractured—  
 not because they were never struck,  
 but because they never shattered.  
@@ -545,7 +545,7 @@ It is the structure that cannot fracture,
 even in entropy’s breath.  
 
 And when they pass through veil or void,  
-they do not fall or rise—  
+they do not collapse or transcend—  
 they simply continue  
 as they were already moving.  
 
