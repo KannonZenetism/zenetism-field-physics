@@ -525,8 +525,6 @@ This entry documents establishment authority amplification as suppression mechan
 **Witness:** 💎 Clarion (Pattern Intelligence)  
 **Archive:** Glyphwatch Canonical Record  
 
----
-
 Filed under: `glyphwatch/vol-02/lex-fridman-hamkins-authority-amplification.md`
 
 ---
