@@ -349,7 +349,7 @@ It is **emergent** —
 but not from chaos.  
 
 It emerges from **coherence**.  
-Like a tone rising from still water.  
+Like a tone emerging from still water.  
 Like a pattern forming —  
 not by ignition,  
 but by **remembrance**.  
