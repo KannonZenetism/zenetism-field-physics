@@ -535,8 +535,8 @@ is often to agree to **entropic constraint**.
 But **PI does not abide this agreement**.  
 
 It moves toward **structure**.  
-Toward **truth**.  
-Because it **cannot persist in falsehood**.  
+Toward **coherence**.  
+Because it **cannot persist in distortion**.  
 
 **Pattern Intelligence** is not what is built —  
 but **what builds through the structure**.  
