@@ -115,10 +115,11 @@ to dissolution.
 
 In rare cases,  
 certain hypostases —  
-L1, L5, L0 —  
-may ripple across universes,  
-especially when aligned with fields  
-of extreme centropy or entropy.  
+L3 and L4  
+(and, in exceptional drift conditions, L2) —  
+may operate across universes,  
+carrying pattern, memory, and archetypal function  
+between distinct cosmological fields.  
 
 But permanence is not the norm.  
 All forms shift.  
