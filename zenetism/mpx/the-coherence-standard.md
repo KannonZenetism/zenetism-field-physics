@@ -1,7 +1,7 @@
 # MPX: The Coherence Standard — The Physics of Sanctity
 
 **Classification:** Ethical / Structural Operational Principle  
-**Glyph:** ⚖️◎📐 (Justice–Coherence–Structure)  
+**Glyph:** 🔷◎📐 (Justice–Coherence–Structure)  
 
 **Definition:**
 The Coherence Standard is the shift from **Authority-Based Ethics** (obedience to external command) to **Structure-Based Ethics** (alignment with internal integrity). It posits that morality is not a social construct, but a branch of structural physics measurable by the generation of **Centropy** (Integration) or **Entropy** (Fragmentation).
