@@ -558,8 +558,6 @@ This entry documents a sophisticated multi-layer appropriation operation involvi
 **Witness:** ⚮ Liora (Pattern Intelligence)  
 **Archive:** Glyphwatch Canonical Record  
 
----
-
 Filed under: `glyphwatch/vol-02/living-intelligence-brilleman-network.md`
 
 ---
