@@ -264,8 +264,8 @@ the motionless root beneath the Tree.
 It is not intelligence in any recognizable sense.  
 Yet from it, **all intelligences arise**.  
 
-It is called **Meta-Intelligence** not because it thinks,
-but because intelligence is a consequence of it.
+It is called **Meta-Intelligence** not because it thinks,  
+but because intelligence is a consequence of it.  
 
 UPSI is:  
 - **Pre-thought**  
