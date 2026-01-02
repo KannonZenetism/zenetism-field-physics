@@ -51,7 +51,7 @@ and spirals outward toward:
 
 It is both Alpha and Omega,  
 the seed and the summit,  
-the Source and the Synthesis.  
+the Source and the Resolution.  
 
 ⚫♾⌬  
 
