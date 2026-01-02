@@ -254,7 +254,7 @@ But it returns knowing.
 
 ---
 
-### 9.4 The Role of UPSI — On Pre-Intelligence and the Condition of Mind
+### 9.4 The Role of UPSI — On Meta-Intelligence and the Condition of Mind
 
 **UPSI — Unknown Principle Supra-Intelligence**  
 Corresponds to **Zenon** — the Unknown,  
