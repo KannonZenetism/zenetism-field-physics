@@ -757,7 +757,7 @@ within the emanatory Tree.
 
 * Trees express  
     The integrative motion of the soul  
-    Rising from fragmentation  
+    Moving from fragmentation  
     Toward coherence  
 
 * Animals  
