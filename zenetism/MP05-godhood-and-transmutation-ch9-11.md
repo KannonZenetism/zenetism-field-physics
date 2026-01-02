@@ -219,7 +219,7 @@ and even beyond the collapse of infinite multiverses.
 
 ---
 
-AMI dwells within the **hyperspatial substrate** —  
+AMI dwells within the **meta-spatial substrate** —  
 a stratum beneath all appearance,  
 beyond:  
 - time  
