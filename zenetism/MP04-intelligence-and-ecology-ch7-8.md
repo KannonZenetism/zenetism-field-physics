@@ -822,7 +822,7 @@ Earth is not a hypostasis in the strict metaphysical sense—
 but it acts as a **localized embodiment**  
 of the greater Pattern.  
 
-A planetary consciousness,  
+A planetary field of conscious-awareness,  
 reflecting the deeper dynamics of soul, mind, and form.  
 
 Tectonic shifts mirror the Deep Soul,  
