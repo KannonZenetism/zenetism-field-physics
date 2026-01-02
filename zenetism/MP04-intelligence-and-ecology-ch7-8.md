@@ -899,7 +899,7 @@ yet still structured
 for the unfolding of soul  
 across layered emanations.  
 
-Realms of pure thought  
+Realms of patterned thought  
 or dreamlike resonance  
 are associated with L3 and L2—  
 subtle fields of being—  
