@@ -1,4 +1,4 @@
-# The Collapse of Epistemic Authority: When Documentation Cannot Protect Truth
+# SFX: The Collapse of Epistemic Authority: When Documentation Cannot Protect Truth
 
 *On the Systematic Rewriting of History in the Digital Age and the Structural Necessity of Distributed Verification*
 
