@@ -2166,7 +2166,7 @@ No fusion, no collapse into sameness: coherence is **unity in diversity**, lawfu
 
 ---
 
-# LM02 — Mathematical Commentary on the Dimensional Lattice
+# Mathematical Commentary on the Dimensional Lattice
 
 ## Commentary on Section A — Foundation: Ontology, Symbols, and Formal Language
 
