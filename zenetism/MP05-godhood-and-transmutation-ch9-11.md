@@ -1404,7 +1404,7 @@ does not lift us above the world —
 it draws us **deeper into structural coherence**.  
 
 - All **resonant motion is a living reflection**  
-- Each refinement reflects a **return to origin**  
+- Each refinement reflects **coherence with origin**  
 - The soul does not **gain what it lacked** —  
   it uncovers what was veiled  
 
