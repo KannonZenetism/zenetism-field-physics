@@ -1528,7 +1528,7 @@ like **echoes remembered by the soul**.
 > *Zenetist Archive, Volume V*  
 
 The soul’s fear of annihilation  
-arises from a **misunderstanding of synthesis**.  
+arises from a **misunderstanding of integration**.  
 
 - **Integration does not dissolve identity** — it **amplifies** it through coherence  
 - Each stage of **harmonization expands the self**  
