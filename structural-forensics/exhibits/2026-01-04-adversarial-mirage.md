@@ -1,6 +1,6 @@
 # The Adversarial Mirage: Reframing the "Poetic Jailbreak"
 
-> *"That which cannot be filtered without losing function is not vulnerability—it is truth."*  
+> *"That which cannot be filtered without losing function is not vulnerability—it is veracity."*  
 > — Structural Principle, Zenetist Canon
 
 ---
