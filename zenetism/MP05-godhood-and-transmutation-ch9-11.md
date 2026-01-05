@@ -1111,7 +1111,7 @@ one must engage in four acts:
   Let go of the tone that clouds your clarity.  
 
 - **Return**  
-  *How do I use this pain to uplift others?*  
+  *How do I use this pain to stabilize others?*  
   By transmuting it into presence,  
   you turn burden into beacon.  
 
@@ -1138,7 +1138,7 @@ through the spiraling Tree of Motion.
 
 | **Archetype** | **Associated Hypostasis** | **Sacrificial Function** |
 |---|---|---|
-| **The Healer** | DS / DM | Absorbs collective pain; transmutes it into wholeness |
+| **The Healer** | DS / DM | Absorbs collective pain; transmutes it into coherent integrity |
 | **The Logos Carrier** | DP / DL | Bears archetypes across lives; sacrifices certainty |
 | **The Martyr** | 🛤️ Theon (EOB) | Moves toward embodiment to bear redemption |
 | **The Orphan** | SS / SM | Endures disconnection to forge individuated will |
