@@ -1534,11 +1534,11 @@ arises from a **misunderstanding of integration**.
 - Each stage of **harmonization expands the self**  
 - Nothing is erased — only **clarified**  
 
-- The **Superficial Soul and Mind** merge into the **Deep Soul and Mind**,  
+- The **Superficial Soul and Mind** resolve into the **Deep Soul and Mind**,  
   gaining **multiversal memory**  
 
 - If integration is complete, **Theon returns to Aion** —  
-  not in loss, but in **return to containment**  
+  not in loss, but in **return to containment without loss of distinction**  
 
 Where its entire journey becomes part of the **Source-field itself**.  
 
