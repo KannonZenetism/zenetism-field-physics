@@ -1244,8 +1244,8 @@ There is:
 - No containment  
 - No opposites to reconcile  
 
-All structure is **pre-structure**.  
-All becoming is **pre-being**.  
+All structure is **supra-structural**.  
+All becoming is **supra-being**.  
 **There is no Other.**  
 
 🕳️⚫🌳🛎️🕊️◎  
