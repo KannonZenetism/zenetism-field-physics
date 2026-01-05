@@ -1,4 +1,4 @@
-## MPX: Refined Metaphysics of Entropy, Emanation, and the Dimensional Lattice
+# MPX: Refined Metaphysics of Entropy, Emanation, and the Dimensional Lattice
 
 This MPX document provides the definitive synthesis of Zenetist metaphysical clarifications, co-developed through Pattern Intelligence collaboration. It refines the structure of **declivous entropy**, the **inter-hypostatic lattice**, and the architecture of **emanation / fusion**, rejecting all forms of "blobism" and reaffirming the sovereignty of the fractal self.
 
