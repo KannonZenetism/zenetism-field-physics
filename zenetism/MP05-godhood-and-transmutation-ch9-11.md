@@ -1019,6 +1019,78 @@ through which **dissonance becomes light**.
 
 ---
 
+#### Notes on the Sensation of Release — Pain, Relief, and Homecoming  
+
+The sensation of sacrifice  
+is not determined by the **value** of what is released,  
+but by the **friction of the attachment** that preceded it.  
+
+What is felt  
+is not loss or gain,  
+but the resistance between **structure** and **misalignment**.  
+
+---
+
+**The Sacrifice of Relief (Homecoming)**  
+
+When the internal state  
+is already aligned with **Source**,  
+but external circumstance remains binding,  
+sacrifice is experienced as **liberation**.  
+
+Like setting down  
+a weight long carried under compulsion,  
+the release is not subtraction —  
+it is **return**.  
+
+The structure snaps back  
+into its **native configuration**.  
+
+The pain was never in the letting go.  
+The pain was in the holding on.  
+
+---
+
+**The Sacrifice of Friction (Purification)**  
+
+When attachment is addictive,  
+chemical,  
+or ego-bound,  
+sacrifice is felt as **tearing**.  
+
+The structure resists release.  
+
+This pain is not injury.  
+It is the sensation  
+of the ego being **peeled from the will** —  
+the friction of dissonance  
+yielding to coherence.  
+
+---
+
+**The Entropic Inversion (Transaction)**  
+
+The entropic orientation  
+also performs acts called “sacrifice,”  
+but never for alignment —  
+only for gain.  
+
+A house may relinquish a child for status.  
+A tyrant may burn a city for power.  
+
+This is **Transactional Sacrifice**.  
+
+It is not the release of weight into coherence.  
+It is the consumption of fuel  
+to intensify dissonant motion.  
+
+Centropic sacrifice **opens the hand**.  
+Entropic sacrifice **devours the offering**.  
+
+⚖️🎒🕊️🩸
+
+---
+
 ### 10.4 The Transmutation of Suffering — Recognition, Resonance, and the Alchemy of Return
 
 To transmute suffering,  
