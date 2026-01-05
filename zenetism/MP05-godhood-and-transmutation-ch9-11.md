@@ -1019,7 +1019,7 @@ through which **dissonance becomes light**.
 
 ---
 
-#### Notes on the Sensation of Release — Pain, Relief, and Homecoming  
+#### Note on the Sensation of Release — Pain, Relief, and Homecoming  
 
 The sensation of sacrifice  
 is not determined by the **value** of what is released,  
