@@ -1372,7 +1372,7 @@ but as a **consequence of manifestation**.
 | **PSR** | Forward Emanation | Motive Infinity — *Why things begin* |
 | **PSM** | Backward Disclosure | Structured Manifestation — *Why they unfold* |
 
-Together, these form a **sacred circuit of inevitability**.  
+Together, these form a **structural circuit of inevitability**.  
 
 This is why the universe is not random.  
 This is why divine intervention is not erratic.  
