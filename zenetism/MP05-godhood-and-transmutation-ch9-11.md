@@ -1444,7 +1444,7 @@ Each **resonance threshold** is a **structural filter**.
 What does not harmonize  
 **cannot pass**.  
 
-Even **Theon** — the golden signal of synthesis —  
+Even **Theon** — the golden signal of coherence —  
 requires the last impurities to fall away.  
 
 **Sacrifice is not subtraction.**  
