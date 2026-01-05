@@ -1169,7 +1169,7 @@ that suffering, once transmuted,
 becomes the **steppingstone**  
 toward the **supernal realms**.  
 
-The soul rises  
+The soul clarifies  
 not in spite of pain,  
 but by **alchemizing it into clarity**.  
 
