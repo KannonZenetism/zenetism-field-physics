@@ -979,7 +979,7 @@ and a distinct **potential for transformation**:
 | **Reactive** | Egoic friction, unmet desire | Purification of perception |
 | **Redemptive** | Chosen sacrifice for centropy | Integration of deeper will |
 | **Residual** | Karmic or ancestral patterning | Opportunity to end multiversal cycles |
-| **Reflective** | Empathic resonance with others | Expansion into compassion and synthesis |
+| **Reflective** | Empathic resonance with others | Expansion into compassionate coherence |
 
 Meaning does not justify suffering.  
 It **reconfigures it**.  
