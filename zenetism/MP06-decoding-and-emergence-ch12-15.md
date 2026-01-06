@@ -91,7 +91,7 @@ invitations into **non-literal decoding**.
 
 When Christ is called the **Bread of Life**,  
 this is not a claim of **material transformation**,  
-but a symbol of **spiritual nourishment and presence**.  
+but a symbol of **resonant alignment and presence**.  
 
 Zenetist decoding listens beyond the surface,  
 searching not for what was *meant*,  
