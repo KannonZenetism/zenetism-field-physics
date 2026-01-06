@@ -38,4 +38,4 @@ In this model, the "State" is recognized as an artifact of incoherence—a mecha
 External government is the *absence* of true order, replaced by artificial constraint.  
 True order is self-sustaining, self-correcting, and requires no enforcement beyond the clarity of the pattern itself.
 
-*See also: [MPX: The Coherence Standard], [MPX: The Diamond Age]*
+*See also: https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/mpx/the-coherence-standard.md, https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glossary/the-diamond-age.md*
