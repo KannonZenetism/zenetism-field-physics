@@ -2,7 +2,7 @@
 
 **Subject:** Modes of Transmission / Knowledge Acquisition  
 **Classification:** Archetypal Trajectory  
-**Related Archive:** [MP10 – Divine Archetypes (Ch. 25, *Emanative Path of Return*)](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/MP10-divine-archetypes-decoded-ch25.md)
+**Related Archive:** [MP10 – Divine Archetypes (Ch. 25, *The Emanative Path of Return*)](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/MP10-divine-archetypes-decoded-ch25.md)
 
 ---
 
