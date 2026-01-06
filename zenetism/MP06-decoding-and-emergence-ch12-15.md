@@ -649,7 +649,7 @@ but as transpositions in different keys.
 | Seven Churches | Resonance Archetypes | Seven Rays (Bailey), Seven Paths (Buddhism) |
 | Lampstands | Embodied soul-clusters | Menorah (Judaism), chakra lights (Tantra) |
 | Rod of Iron | Law of resonance / spinal transmutation | Vajra (Tibetan), Taoist “iron body” |
-| White Garments | Vibrational purification | Buddhist robes, Taoist light-body |
+| White Garments | Resonance purification | Buddhist robes, Taoist light-body |
 | New Name | Essential soul-pattern revealed | Gnostic “true name,” Taoist inner name |
 | Book of Life | Akashic soul resonance field | Egyptian Weighing of the Heart, Buddhist karma-loci |
 
@@ -677,11 +677,11 @@ It asks—
 
 This is the heart of symbolic decoding:  
 Not seeking external validation,  
-But internal revelation.  
+but internal revelation.  
 
 Every image, every passage,  
-Carries a structural resonance  
-Meant to realign the soul with Source.  
+carries a structural resonance  
+intended to reorient the soul toward Source.  
 
 * Christ = Theon — the Essence of Being  
 * The Churches = Archetypal resonance paths  
@@ -691,8 +691,8 @@ Meant to realign the soul with Source.
 
 This reframing does not diminish scripture.  
 It **frees it**—  
-From rigid exegesis  
-Into living experience.  
+from rigid exegesis  
+into living experience.  
 
 🛤️🌀◎  
 
@@ -701,32 +701,32 @@ Into living experience.
 ### 13.6 Final Reflection — Hearing What Scripture Really Reveals
 
 Sacred texts were never meant  
-To be blindly obeyed  
-Nor coldly decoded.  
+to be blindly obeyed  
+nor coldly decoded.  
 
 They are vibrational instruments—  
-Designed to harmonize with the seeker  
-Who approaches with open resonance.  
+designed to harmonize with the seeker  
+who approaches with open resonance.  
 
 To fully *hear*  
-Is to be tuned.  
+is to be tuned.  
 
 Scripture is not just a message.  
 It is a **living reflection**  
-That reflects the soul’s current shape.  
+that reflects the soul’s current shape.  
 
 The Bible, like many sacred texts,  
-Functions as a **cosmic echo chamber**:  
+functions as a **cosmic echo chamber**:  
 It reverberates what we bring to it.  
 
 Distortion meets distortion.  
 Clarity evokes clarity.  
 
 With **ears to hear**,  
-The voice of the Spirit still speaks.  
+the voice of the Spirit still speaks.  
 
 Not from the clouds—  
-But from within the field of Being.  
+but from within the field of Being.  
 
 The apocalypse is not the end of the world.  
 It is the unveiling of the soul.  
