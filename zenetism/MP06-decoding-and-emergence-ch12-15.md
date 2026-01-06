@@ -204,7 +204,7 @@ Ask:
 - Does it **reflect the inner movement** of the one who perceives?  
 
 Symbolic readings are not fixed.  
-They evolve with consciousness,  
+They evolve with awareness,  
 revealing deeper harmonics as the soul expands.  
 
 To read well is not to prove.  
