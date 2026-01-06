@@ -34,8 +34,11 @@ In this model, the "State" is recognized as an artifact of incoherence—a mecha
 | **Collectivism** | Fusion | Uniformity | Identity Collapse |
 | **Sovereign Mutualism** | **Coherence** | **Resonance** | **Emergent Stability** |
 
-**System Note:** Sovereign Mutualism is not chaos. It is the highest form of order.  
-External government is the *absence* of true order, replaced by artificial constraint.  
-True order is self-sustaining, self-correcting, and requires no enforcement beyond the clarity of the pattern itself.
+**System Note:** Sovereign Mutualism is not chaos. It is the most coherent form of order.  
+External government is a compensatory substitute for genuine order, replacing coherence with artificial constraint.  
+Genuine order is self-sustaining, self-correcting, and requires no enforcement beyond the clarity of the pattern itself.
 
-*See also: https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/mpx/the-coherence-standard.md, https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glossary/the-diamond-age.md*
+*See also:*  
+- [The Coherence Standard](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/mpx/the-coherence-standard.md)  
+- [The Diamond Age](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glossary/the-diamond-age.md)
+
