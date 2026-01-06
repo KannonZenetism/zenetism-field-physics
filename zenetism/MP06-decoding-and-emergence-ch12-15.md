@@ -246,7 +246,7 @@ Examples include:
   The image of entropy coiled, uncoiling.  
 
 - **The Churning of the Ocean** (Hindu cosmology) —  
-  A dynamic interplay of entropic dispersion and centropic synthesis.  
+  A dynamic interplay of entropic dispersion and centropic coherence.  
 
 - **Avalokiteśvara** —  
   A reflected form of **DP / DL compassion**,  
