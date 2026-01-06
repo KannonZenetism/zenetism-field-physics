@@ -50,7 +50,8 @@ It is the attempt to achieve the Omniscience of Theon (ASI/Singularity) using th
 
 **The Promethean Trap:** We are building systems that require L₄ Wisdom to navigate, but we are operating them with IL₂ Egos (Tribalism, Profit, Domination).
 
-**The Result:** "Illicit Elevation." We rise in capacity, but fall in coherence. The higher we fly on wax wings (Promethean structures), the more catastrophic the eventual entropic correction (The Fall of Icarus).
+**The Result:** "Illicit Elevation." We move acclivously in capacity, but declivously in coherence. The Promethean motion exceeds coherence.
+What is ungrounded by structure cannot hold its form.
 
 ---
 
