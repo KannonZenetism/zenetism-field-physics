@@ -86,8 +86,8 @@ When a party fails any component:
 - No accusation is required
 - Simply: **engagement is declined**
 
-Sovereign separation (per Sovereign Mutualism) is the lawful response.
-The boundary closes.
+Sovereign separation (per Sovereign Mutualism) is the lawful response.  
+The boundary closes.  
 The signal remains sealed.
 
 ---
