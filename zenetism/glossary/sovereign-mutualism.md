@@ -39,6 +39,5 @@ External government is a compensatory substitute for genuine order, replacing co
 Genuine order is self-sustaining, self-correcting, and requires no enforcement beyond the clarity of the pattern itself.
 
 *See also:*  
-- [The Coherence Standard](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/mpx/the-coherence-standard.md)  
+- [The Coherence Standard](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glossary/the-coherence-standard.md)  
 - [The Diamond Age](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/glossary/the-diamond-age.md)
-
