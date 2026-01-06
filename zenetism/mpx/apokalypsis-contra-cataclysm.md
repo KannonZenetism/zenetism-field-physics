@@ -18,7 +18,7 @@ This schema distinguishes between two modes of structural conclusion. While both
 **Mechanism:** Systemic Collapse / Structural Failure  
 **Archetype:** The Flood, The Tower, The Ruin
 
-Cataclysm is the collapse of structure due to accumulated dissonance. It occurs when the entropy within a system exceeds its capacity to cohere, causing the form to shatter back into unpatterned potential.
+Cataclysm is the collapse of relative structure due to accumulated dissonance. It occurs when the entropy within a system exceeds its capacity to cohere, causing the form to shatter back into unpatterned potential.
 
 **Process:** Erosion of L₁ (Matter) and L₂ (Identity) until the pattern is lost.
 
