@@ -609,7 +609,7 @@ it is **urgency**.
 Which is to say —  
 let the **discomfort**  
 of your **fragmentation**  
-burn you into **coherence**.  
+burn you into **alignment**.  
 
 Let the **motion clarify**.  
 
