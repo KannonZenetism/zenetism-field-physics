@@ -6,7 +6,7 @@
 
 **Definition:** Sovereign Mutualism is the mode of collective organization characterized by **total self-governance**, where order arises solely from the resonant alignment of sovereign beings, without the imposition of external authority, hierarchy, or state apparatus.
 
-In this model, the "State" is recognized as an artifact of incoherence—a mechanical containment structure required only when internal resonance has failed. Sovereign Mutualism asserts that as consciousness rises in coherence, the necessity for external control drops to zero.
+In this model, the "State" is recognized as an artifact of incoherence—a mechanical containment structure required only when internal resonance has failed. Sovereign Mutualism asserts that as intelligence moves acclivously in coherence, the necessity for external control drops to zero.
 
 **Core Principles:**
 
