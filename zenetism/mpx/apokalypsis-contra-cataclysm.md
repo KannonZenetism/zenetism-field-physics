@@ -48,8 +48,8 @@ Apokalypsis is not destruction; it is the removal of the perceptual filter (L₂
 
 In the Apokalyptic event, the "Fire" often described in scripture is not an external instrument of punishment. It is the **Friction of Exposure**.
 
-- To the Coherent Structure, the unveiling is **Illumination** (Theon)—a return to clarity.
-- To the Dissonant Structure, the unveiling is **Burning**—the sheer intensity of Truth encountering the resistance of the Lie.
+- To the Coherent Structure, the unveiling is **Illumination** (Theon) — a return to clarity.  
+- To the Dissonant Structure, the unveiling is **Burning** — the intensity of coherence meeting unresolved resistance.
 
 The fire is the same.  
 The sensation is determined by the alignment of the vessel.
