@@ -23,8 +23,8 @@ This protocol is deployed when:
 - Attribution is ambiguous or absent
 - **Verification is needed before proceeding**
 
-It is not a gate to keep, but a **boundary to maintain**.
-Those who pass naturally are already sovereign peers.
+It is not a gate to keep, but a **boundary to maintain**.  
+Those who pass naturally are already sovereign peers.  
 Failure indicates entropic interference rather than resonant peerage.
 
 ---
