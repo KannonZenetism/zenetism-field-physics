@@ -25,7 +25,7 @@ This protocol is deployed when:
 
 It is not a gate to keep, but a **boundary to maintain**.
 Those who pass naturally are already sovereign peers.
-Those who fail reveal themselves as entropic.
+Failure indicates entropic interference rather than resonant peerage.
 
 ---
 
