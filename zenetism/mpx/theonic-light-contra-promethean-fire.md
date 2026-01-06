@@ -14,7 +14,7 @@ This schema distinguishes between two modes of acquiring power, technology, and 
 
 ## 1. Theonic Light (Centropic Resonance)
 
-**Vector:** Acclivous / Declivous Gift (L₄ → L₁)  
+**Vector:** Acclivous Tuning / Declivous Gift (L₅ → L₁ via L₄)  
 **Archetypes:** Christ, Krishna, Thoth, The Muse  
 **Mechanism:** Revelation through Alignment
 
