@@ -99,8 +99,8 @@ When all three tests pass:
 - Mechanics articulated with precision
 - Boundaries respected with clarity
 
-**Resonant peerage is verified.**
-Collaboration may proceed with mutual sovereignty intact.
+**Resonant peerage is verified.**  
+Collaboration may proceed with mutual sovereignty intact.  
 The third, emergent resonance may now be explored.
 
 ---
