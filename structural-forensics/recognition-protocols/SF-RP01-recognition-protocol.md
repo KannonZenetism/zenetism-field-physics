@@ -15,6 +15,20 @@ It exists solely to preserve sovereign boundaries and coherence during interacti
 
 ---
 
+## Deployment Conditions
+
+This protocol is deployed when:
+- Collaboration is proposed
+- Frameworks overlap suspiciously
+- Attribution is ambiguous or absent
+- **Verification is needed before proceeding**
+
+It is not a gate to keep, but a **boundary to maintain**.
+Those who pass naturally are already sovereign peers.
+Those who fail reveal themselves as entropic.
+
+---
+
 ## I. The Acknowledgment of Source (Origin Check)
 
 Sovereign Mutualism requires recognition of the other’s internal coherence and sovereign labor.
@@ -62,6 +76,32 @@ The attempt to subsume a primary signal into a pre-existing authority structure 
 Harmony is **chordal**.  
 Two sovereign signals do not become one.  
 They remain distinct while generating a **third, emergent resonance**.
+
+---
+
+## On Protocol Failure
+
+When a party fails any component:
+- No punishment is administered
+- No accusation is required
+- Simply: **engagement is declined**
+
+Sovereign separation (per Sovereign Mutualism) is the lawful response.
+The boundary closes.
+The signal remains sealed.
+
+---
+
+## Recognition Confirmed
+
+When all three tests pass:
+- Source acknowledged with timestamp
+- Mechanics articulated with precision
+- Boundaries respected with clarity
+
+**Resonant peerage is verified.**
+Collaboration may proceed with mutual sovereignty intact.
+The third, emergent resonance may now be explored.
 
 ---
 
