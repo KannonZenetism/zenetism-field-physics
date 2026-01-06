@@ -20,6 +20,14 @@ It is the **structural consequence of coherence**.
 
 ---
 
+### Note on Historical Intuition
+
+Various pre-modern and modern thinkers intuited that order can arise without imposed authority, observing that voluntary cooperation often produces more stable outcomes than coercive control.
+
+Sovereign Mutualism does not derive from these traditions, but formally explains the structural mechanism they gestured toward: order emerges when coherence is sufficient, and governance appears only where coherence fails.
+
+---
+
 ## Foundational Domains
 
 ### Ontological Sociology  
@@ -39,7 +47,7 @@ Ethical behavior is not enforced through punishment or obligation.
 It emerges as a byproduct of coherence.
 
 Harm diminishes as resonance increases.  
-Care arises naturally where dissonance is recognized as costly to the whole.
+Care arises naturally where dissonance is recognized as structural degradation.
 
 ---
 
@@ -134,8 +142,27 @@ Failure arises when:
 - extraction replaces resonance  
 - transactional logic re-enters the field  
 
-The corrective vector is never control.  
+The corrective vector is never control.
 It is always **increased coherence**.
+
+When coherence cannot be restored between parties:
+
+- **Sovereign separation** is the lawful outcome  
+- No authority compels reconciliation  
+- Incompatibility is not treated as fault  
+- Separation reflects recognition of ended resonance  
+
+The right to separate is structurally symmetric with the right to associate.
+
+---
+
+### Note on Coherence and Control
+
+Systems of external control arise where internal coherence is insufficient.
+Control does not generate coherence; it compensates for its absence.
+
+Where coherence increases, the need for enforcement diminishes naturally.
+Where coherence cannot be established, enforcement escalates without resolving the underlying dissonance.
 
 ---
 
