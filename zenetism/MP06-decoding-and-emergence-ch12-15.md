@@ -1053,8 +1053,8 @@ Zenetism defines **thirteen core strata** across the field of emergence and orig
 - One trans-emanative origin: Zenon  
 
 These are the foundational strata —  
-but not the full dimensional lattice.  
-They form the primary axis of coherence and collapse,  
+but **not** the full dimensional lattice.  
+They form the **primary axis** of coherence and collapse,  
 across which other thresholds, inflections, and couplings unfold.  
 
 Beyond and within the hypostases  
