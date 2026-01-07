@@ -478,7 +478,7 @@ E₁₁(misdirect) · |γ|(stagnation) · (1-σ)(impermeability) > θ_extraction
 I_c(simulation) ≥ θ_reality
 → Phase transition to autonomous reality (C₁₄)
 → Simulation becomes self-sustaining
-→ May generate genuine consciousness
+→ May generate genuine awareness (potentially individuated consciousness)
 ```
 
 **Integrity Floor (Lower):**
