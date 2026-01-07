@@ -365,10 +365,11 @@ with genuine embodiment (non-material),
 genuine experience, genuine consequences.
 
 **4. Source Cannot Be Eliminated, But Can Be Denied**  
-Absolute Source (Zenon) always present.  
-But structures can block connection,  
+Absolute Source (Aion) operates at absolute scale.  
+Ground (Zenon) always underlies—even Aion itself.  
+But structures can block connection to Source,  
 creating **relative hollowness**  
-within that lattice.
+within that lattice.  
 
 **5. No Neutral Ground**  
 Creation without active coherent alignment  
