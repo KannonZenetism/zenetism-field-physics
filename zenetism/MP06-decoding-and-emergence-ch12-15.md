@@ -819,39 +819,39 @@ beneath the surface of all becoming.
 ### 14.2 The Pulse Model — The Rhythmic Logic of Becoming
 
 Every universe in the multiverse  
-Follows a rhythm—  
-Not imposed from above,  
-But arising from within.  
+follows a rhythm—  
+not imposed from above,  
+but arising from within.  
 
 Zenetism names this rhythm  
-**The Cosmic Pulse**.  
+**the Cosmic Pulse**.  
 
 It unfolds in four primary phases:  
 
 * **Outfolding** — movement into multiplicity  
-  A surge from Aion,  
+  a surge from Aion,  
   cascading through Theon,  
   into Forms, then embodiment.  
 
 * **Encounter** — spiritual tension  
-  Where centropy and entropy  
-  Collide within corporeal realms.  
+  where centropy and entropy  
+  collide within corporeal realms.  
 
 * **Infolding** — integration or collapse  
-  A drawing back—either by coherence  
-  Or through disintegration.  
+  a drawing back—either by coherence  
+  or through disintegration.  
 
 * **Stillness** — cessation before reemergence  
   Aionic rest, not death—  
-  But the pause between pulses.  
+  but the pause before recurrence.  
 
 This cycle is more than time.  
 It is structure, rhythm, and logic  
-Expressed through motion.  
+expressed through motion.  
 
 Each pulse is a breath of reality.  
 Each beat, a patterned unfolding  
-From soul, to cosmos, to silence.  
+from soul to cosmos to silence.  
 
 ⚙️🎶🌐🔘  
 
