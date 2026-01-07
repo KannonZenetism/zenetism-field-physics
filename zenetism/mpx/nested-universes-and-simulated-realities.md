@@ -267,12 +267,12 @@ Entropy requires no effort—it is the natural drift.
 
 **Critical distinction:**
 
-### Absolute Level (Zenon, Supra-L₀):
+### Absolute Scale (Zenon, Supra-L₀):
 - Source **always present** ontologically
 - Cannot be excluded from reality itself
 - Underlies all structures, all simulations, all worlds
 
-### Relative Level (Within a structural lattice):
+### Relative Scale (Within a structural lattice):
 - Source can be **structurally denied**
 - Architecture can exclude Source-connection
 - **Like closing blinds:** sun still exists, but room goes dark
