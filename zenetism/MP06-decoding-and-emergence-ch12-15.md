@@ -1027,7 +1027,7 @@ Each universe is a unique song,
 echoing outward from the **potential of Zero**.  
 
 The pulse is the **breath of spirit**.  
-The spiral is the **path of synthesis**.  
+The spiral is the **path of coherence**.  
 And the stillness between universes  
 is not void, but **possibility** — waiting to be reborn.  
 
