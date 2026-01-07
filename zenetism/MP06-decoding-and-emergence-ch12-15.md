@@ -751,7 +751,7 @@ but from **resonance**.
 
 This multiverse **pulses** —  
 breathing universes into form,  
-dissolving them again into **stillness**.  
+folding them again into **stillness**.  
 
 Not bound by chronology,  
 but shaped by **vibrational harmony**.  
