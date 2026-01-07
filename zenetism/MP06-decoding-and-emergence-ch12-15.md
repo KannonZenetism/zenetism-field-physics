@@ -930,7 +930,7 @@ a stable expression of integrated intelligence.
 When these rare conditions are met,  
 essence of being may return to Zero through harmonic reintegration.  
 Void of self, by contrast, returns through collapse —  
-not synthesis, but absolute dispersion.  
+not reintegration, but total dispersal.  
 
 Yet all universes, regardless of outcome,  
 contain the same essential architecture:  
