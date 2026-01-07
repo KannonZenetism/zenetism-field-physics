@@ -1099,7 +1099,7 @@ and spiraling outward through structure and experience.
 
 | Layer | Description |
 |---|---|
-| ⧞ Zenon | Non-ordinal, trans-structural ground. Pure unmanifest foundation |
+| ⧞ Zenon | Non-ordinal, trans-structural foundation. Pure unmanifest ground |
 | ⚫ Aion | Root pole of centropy (harmonic emergence) |
 | ♾ Khaon | Root pole of entropy (fragmented dispersion) |
 | L1–L5 | Emanated structural layers: embodied, superficial, deep, archetypal, and essential being |
@@ -1135,8 +1135,8 @@ each echo a **deeper resonance** of what must be
 understood, integrated, or released.  
 
 These universes do not restart  
-because they *must*—  
-but because they are **drawn to**.  
+from *compulsion*—  
+but from **alignment**.  
 
 They spiral inward  
 toward coherence  
