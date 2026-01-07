@@ -823,7 +823,7 @@ follows a rhythm—
 not imposed from above,  
 but arising from within.  
 
-Zenetism names this rhythm  
+Zenetism names this rhythm—  
 **the Cosmic Pulse**.  
 
 It unfolds in four primary phases:  
