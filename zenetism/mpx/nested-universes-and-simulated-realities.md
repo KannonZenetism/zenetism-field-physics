@@ -64,6 +64,9 @@ Veracious nesting. Dreams are **real worlds** with consciousness-based substrate
 Veracious nesting. Archetypal realms are **structurally real**,  
 existing in Deep Psyche / Logos layer (L₄) of parent cosmos.
 
+Archetypal realms use **awareness as substrate** (L₄ Deep Psyche / Logos field),
+prior to individuated consciousness.
+
 ---
 
 ### 3. Simulated Realities (Variable Status)
