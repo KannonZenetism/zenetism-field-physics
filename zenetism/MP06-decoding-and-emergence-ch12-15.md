@@ -1045,14 +1045,17 @@ in the **field of light**.
 
 ### Supplement — Spiral Dimensionality and Recursive Worlds
 
-Zenetism defines **eleven core strata of emanation**:  
+Zenetism defines **thirteen core strata** across the field of emergence and origin:  
 
-- Five centropic layers  
-- Five entropic layers  
-- One trans-hypostatic origin: Zenon  
+- Five centropic layers (L5 to L1)  
+- Five entropic layers (IL5 to IL1)  
+- Two emanator poles: Aion and Khaon (bifurcal L0)  
+- One trans-emanative origin: Zenon  
 
-But these are not the totality of dimensionality.  
-They are foundational, not exhaustive.  
+These are the foundational strata —  
+but not the full dimensional lattice.  
+They form the primary axis of coherence and collapse,  
+across which other thresholds, inflections, and couplings unfold.  
 
 Beyond and within the hypostases  
 lie additional structural domains:  
