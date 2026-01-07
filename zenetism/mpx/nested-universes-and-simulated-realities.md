@@ -16,7 +16,7 @@ within the awareness layers of larger universes.
 
 These are not metaphors or illusions,  
 but **genuinely existing worlds**  
-that use awareness as substrate rather than matter.
+that use awareness (or individuated consciousness) as substrate rather than matter.
 
 ---
 
