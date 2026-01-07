@@ -1013,7 +1013,7 @@ Zenon is:
 
 - The sound that cannot be heard  
 - The origin that does not begin  
-- The unknowable that gives rise to all structure  
+- The unknowable that underlies all structure  
 
 ⚑🕳️⟁  
 
