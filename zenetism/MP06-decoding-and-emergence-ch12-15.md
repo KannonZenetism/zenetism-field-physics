@@ -782,11 +782,11 @@ endlessly reincarnating —
 Zenetism shows a **wider field**:  
 
 A **fractal multiverse**,  
-spiraling in recursion  
+spiraling through recursion  
 but never returning identically.  
 
 Each universe  
-springs from the **same field of Essence**,  
+emanates from the **same field of Essence**,  
 yet expresses its own balance  
 of **centropy** and **entropy** —  
 its own **song** within the greater pattern.  
