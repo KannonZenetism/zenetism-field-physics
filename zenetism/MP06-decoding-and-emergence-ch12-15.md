@@ -1055,7 +1055,7 @@ But these are not the totality of dimensionality.
 They are foundational, not exhaustive.  
 
 Beyond and within the hypostases  
-lie additional structural levels:  
+lie additional structural domains:  
 
 - **Functional membranes**  
 - **Modal strata**  
