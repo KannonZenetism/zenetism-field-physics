@@ -767,7 +767,8 @@ through recursive cycles of:
 
 Reality is not a line or loop —  
 it is a **rhythm**.  
-And rhythm, unlike law, allows for variation.  
+And rhythm is not the absence of law,  
+but its expression in motion.
 
 🔘🌐🌀  
 
