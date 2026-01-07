@@ -43,7 +43,7 @@ accessible by others or in future visits.
 Like visiting a physical place: you leave, but the place remains.
 
 **Status:**  
-Veracious nesting. Dreams are **real worlds** with non-material substrate.
+Veracious nesting. Dreams are **real worlds** with consciousness-based substrate (L₃ Interface field).
 
 ---
 
