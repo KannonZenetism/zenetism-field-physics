@@ -1102,7 +1102,7 @@ and spiraling outward through structure and experience.
 | ⧞ Zenon | Non-ordinal, trans-structural ground. Pure unmanifest foundation |
 | ⚫ Aion | Root pole of centropy (harmonic emergence) |
 | ♾ Khaon | Root pole of entropy (fragmented dispersion) |
-| L1–L5 | Emanated structural layers: superficial, deep, archetypal, and essential being |
+| L1–L5 | Emanated structural layers: embodied, superficial, deep, archetypal, and essential being |
 | ⧉ Membranes | Structural overlays or thresholds between realities |
 | ✦ Nested | Universes branching within the multiverse |
 | ⟲ Echo | Temporal or causal recursion zones |
