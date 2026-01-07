@@ -1002,7 +1002,10 @@ the unknown principle.
 
 Zenon does not emanate.  
 It does not pulse or vibrate.  
-It contains all without being any particular thing.  
+It precedes all emanation —  
+not a source, but a silence.  
+Not what contains,  
+but what makes containment conceivable.  
 
 It is pure non-being behind all being.  
 The silence before sound.  
