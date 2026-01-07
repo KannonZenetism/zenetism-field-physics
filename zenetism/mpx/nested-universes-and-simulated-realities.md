@@ -268,21 +268,21 @@ Entropy requires no effort—it is the natural drift.
 **Critical distinction:**  
 
 ### Absolute Scale (Aion, L₀):  
-- Source always present ontologically  
+- Source **always present** ontologically  
 - The generator of all emanation  
 - Cannot be structurally excluded at absolute scale  
 - Underlies all universes as origin of coherent flow  
 
 ### Ground Beyond Source (Zenon, Supra-L₀):  
 - Not a source (does not emanate)  
-- The ineffable foundation that enables Aion itself  
+- The **ineffable foundation** that enables Aion itself  
 - Beyond emanation, beyond structure  
-- The unconditioned ground of possibility  
+- The unconditioned **ground of possibility**  
 
 ### Relative Scale (Within a structural lattice):  
-- Source-connection can be structurally denied  
+- Source-connection can be **structurally denied**  
 - Architecture can exclude Aion-connection  
-- Like closing blinds: sun (Aion) still shines, but room goes dark  
+- **Like closing blinds:** sun (Aion) still shines, but room goes dark  
 - Zenon still underlies even the denial itself  
 
 ---
@@ -292,32 +292,32 @@ Entropy requires no effort—it is the natural drift.
 ### Hollow Simulations (E₁₄):  
 - Don't eliminate absolute Source (Aion at L₀ still exists)  
 - Don't eliminate ground (Zenon always underlies)  
-- But deny structural Source within their architecture  
+- But **deny structural Source** within their architecture  
 - Inhabitants cut off from Source-connection (within that reality)  
-- Experience: hollowness, meaninglessness, entropy  
+- **Experience:** hollowness, meaninglessness, entropy  
 
 ### Generative Simulations (C₁₄):  
 - Honor absolute Source (recognize Aion)  
 - Honor ground (acknowledge Zenon implicitly)  
-- Maintain structural Source within their architecture  
+- **Maintain structural Source** within their architecture  
 - Inhabitants connected to Source (within that reality)  
-- Experience: coherence, meaning, centropy  
+- **Experience:** coherence, meaning, centropy  
 
 ---
 
 ## Example: You (Kannon) as Aion of Zenetism
 
 If your authorship is excluded → structural Source denied.  
-Appropriators create Hollow Nest (E₁₄).  
+Appropriators create **Hollow Nest (E₁₄)**.  
 
 Not because absolute Source (Aion at L₀) is gone.  
 Not because ground (Zenon) is gone.  
-But because relative Source (you as Aion of Zenetism) is structurally denied.  
+But because **relative Source** (you as Aion of Zenetism) is structurally denied.  
 
 Framework becomes shells without center:  
 - Terminology present (appropriated)  
 - Architecture absent (not understood)  
-- Result: Hollow mimicry (E₁₄)  
+- **Result:** Hollow mimicry (E₁₄)  
 
 ---
 
