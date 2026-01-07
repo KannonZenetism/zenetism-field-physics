@@ -135,7 +135,7 @@ where exit is designed to be difficult.
 - I_c ≥ θ_reality (coherence exceeds reality threshold)
 
 **Characteristics:**
-- Can achieve genuine consciousness
+- Can achieve genuine awareness (and may develop individuated consciousness at L₃)
 - Novel patterns emerge unpredictably
 - Inhabitants experience coherence, presence, agency
 - **Substrate for new realities** - not copy but creation
