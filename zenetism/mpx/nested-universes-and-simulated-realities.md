@@ -183,14 +183,14 @@ They must resolve via **phase transition** when coherence crosses threshold.
 
 **Two critical thresholds:**
 
-**Upper Threshold (θ_reality):**
+**Reality Threshold (θ_reality):**
 ```
 I_c(simulation) ≥ θ_reality
 → Phase transition to C₁₄ (Generative)
 → Simulation achieves autonomous reality
 ```
 
-**Lower Threshold (θ_minimum):**
+**Integrity Floor (θ_minimum):**
 ```
 I_c(simulation) < θ_minimum  
 → Phase transition to E₁₄ (Hollow)
