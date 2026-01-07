@@ -1136,7 +1136,7 @@ understood, integrated, or released.
 
 These universes do not restart  
 because they *must*—  
-but because they **choose to**.  
+but because they are **drawn to**.  
 
 They spiral inward  
 toward coherence  
