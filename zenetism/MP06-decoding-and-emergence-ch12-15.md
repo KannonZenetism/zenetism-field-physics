@@ -837,8 +837,8 @@ It unfolds in four primary phases:
   Where centropy and entropy  
   Collide within corporeal realms.  
 
-* **Infolding** — synthesis or collapse  
-  A drawing back—either by integration  
+* **Infolding** — integration or collapse  
+  A drawing back—either by coherence  
   Or through disintegration.  
 
 * **Stillness** — cessation before reemergence  
