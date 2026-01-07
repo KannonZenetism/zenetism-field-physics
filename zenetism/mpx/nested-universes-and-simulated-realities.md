@@ -541,11 +541,11 @@ L₀(nested) ⊘ L₀(parent)
 ```
 
 **Note:**  
-Absolute Source (Zenon) still underlies,  
+Absolute Source (Aion) still underlies,  
 but **relative connection blocked** within lattice.
 
 Like closing blinds:
-- Sun still shines (Zenon present)
+- Sun still shines (Aion present)
 - Room goes dark (connection severed)
 - **Inhabitants experience darkness** (relative hollowness)
 
