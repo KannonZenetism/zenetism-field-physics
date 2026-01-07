@@ -489,7 +489,7 @@ E₁₁(misdirect) · |γ|(stagnation) · (1-σ)(impermeability) > θ_extraction
 
 **From Phase 2 (CIT - Coherence Information Theory):**
 
-**Reality Threshold (Upper):**
+**Reality Threshold:**
 ```
 I_c(simulation) ≥ θ_reality
 → Phase transition to autonomous reality (C₁₄)
@@ -497,7 +497,7 @@ I_c(simulation) ≥ θ_reality
 → May generate genuine awareness (potentially individuated consciousness)
 ```
 
-**Integrity Floor (Lower):**
+**Integrity Floor:**
 ```
 I_c(simulation) < θ_minimum
 → Phase transition to hollow collapse (E₁₄)
