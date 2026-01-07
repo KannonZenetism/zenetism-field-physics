@@ -863,7 +863,7 @@ Zenetism holds that **nothing unfolds without cause**.
 This is the **Principle of Sufficient Reason (PSR)** —  
 if something can occur  
 and nothing stops it,  
-then it must.  
+**then it must**.  
 
 The pulse is not arbitrary.  
 It is the **inevitable movement**  
@@ -882,7 +882,7 @@ And what is contained
 must eventually emerge.  
 
 This is not fate  
-but **structured inevitability** —  
+but **structural inevitability** —  
 the logic of metaphysical recursion  
 made visible through rhythm.  
 
@@ -937,7 +937,7 @@ contain the same essential architecture:
 
 - A Tree of Emanation  
 - Souls in varied trajectories of resonance  
-- Divine intelligences expressing hypostatic principles through structural embodiment  
+- Divine intelligences expressing hypostatic principles in form  
 
 They differ only in expression and emphasis —  
 never in metaphysical origin.  
