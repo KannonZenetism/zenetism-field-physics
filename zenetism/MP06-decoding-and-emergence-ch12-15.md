@@ -976,7 +976,7 @@ Zenetism affirms something deeper.
 
 - The soul is not trapped in cyclic return  
 - Memory is not permanently lost  
-- Universes do not reset, but unfold, fade, and give birth to new structures  
+- Universes do not reset, but unfold, fade, and give birth to new forms  
 
 Even collapse is not punishment —  
 it is return to Zero for saturation,  
