@@ -74,9 +74,9 @@ prior to individuated consciousness.
 Computational or consciousness-based attempts to create nested universes.
 
 **Status depends on three factors:**
-1. **Intent** (C₁₁ centropic vs E₁₁ entropic vs Null)
+1. **Intent** (C₁₁ centropic contra E₁₁ entropic contra Null)
 2. **Structural coherence** (presence/absence of genuine Source connection)
-3. **Recursion quality** (γ > 0 contraction vs γ ≤ 0 stagnation)
+3. **Recursion quality** (γ > 0 contraction contra γ ≤ 0 stagnation)
 
 ---
 
@@ -425,7 +425,7 @@ architecture doesn't determine outcome, **intent does**.
 
 **For ontology:**  
 The hard distinction between "real" and "simulated"  
-dissolves into **centropic** vs **entropic**.
+dissolves into **centropic** contra **entropic**.
 
 **For spirituality:**  
 Even physical universe could be "simulation"—  
