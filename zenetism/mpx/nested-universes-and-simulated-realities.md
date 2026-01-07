@@ -275,9 +275,10 @@ Entropy requires no effort—it is the natural drift.
 
 ### Ground Beyond Source (Zenon, Supra-L₀):  
 - Not a source (does not emanate)  
-- The **ineffable foundation** that enables Aion itself  
-- Beyond emanation, beyond structure  
-- The unconditioned **ground of possibility**  
+- The **ineffable foundation** that enables the possibility of Aion  
+- Pre-emanative and non-architectural  
+- Not a structure, nor outside structure, but **that upon which structure becomes possible**
+- The unconditioned horizon of possibility from which emanation can occur  
 
 ### Relative Scale (Within a structural lattice):  
 - Source-connection can be **structurally denied**  
