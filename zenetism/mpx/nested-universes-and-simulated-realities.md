@@ -265,7 +265,7 @@ Entropy requires no effort—it is the natural drift.
 
 ## The Source-at-Scale Principle
 
-Critical distinction:  
+**Critical distinction:**  
 
 ### Absolute Scale (Aion, L₀):  
 - Source always present ontologically  
