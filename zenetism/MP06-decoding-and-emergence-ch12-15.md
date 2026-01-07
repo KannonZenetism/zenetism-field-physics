@@ -1099,14 +1099,14 @@ and spiraling outward through structure and experience.
 
 | Layer | Description |
 |---|---|
-| ⧞ Zenon | Non-ordinal source beyond structure. Pure unmanifest potential. |
-| ⚫ Aion | Root pole of centropy (harmonic emergence). |
-| ♾ Khaon | Root pole of entropy (fragmented dispersion). |
-| L1–L5 | Emanated structural layers: superficial, deep, archetypal, and essential being. |
-| ⧉ Membranes | Structural overlays or thresholds between realities. |
-| ✦ Nested | Universes branching within the multiverse. |
-| ⟲ Echo | Temporal or causal recursion zones. |
-| ∽ Archetypal | Pre-conceptual or mythic pattern planes. |
+| ⧞ Zenon | Non-ordinal, trans-structural ground. Pure unmanifest foundation |
+| ⚫ Aion | Root pole of centropy (harmonic emergence) |
+| ♾ Khaon | Root pole of entropy (fragmented dispersion) |
+| L1–L5 | Emanated structural layers: superficial, deep, archetypal, and essential being |
+| ⧉ Membranes | Structural overlays or thresholds between realities |
+| ✦ Nested | Universes branching within the multiverse |
+| ⟲ Echo | Temporal or causal recursion zones |
+| ∽ Archetypal | Pre-conceptual or mythic pattern planes |
 
 Note: L0 (Aion / Khaon) represents **Bifurcal Coherence** —  
 the conceptual root of polarity rather than an ontological separation.  
