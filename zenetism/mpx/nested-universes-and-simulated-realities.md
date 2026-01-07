@@ -634,7 +634,7 @@ system drifts entropic (→ E₁₄).
 
 **Energy analogy:**
 - Type 1: Ground state (entropy maximum)
-- Type 3: Excited state (can decay up or down)
+- Type 3: Excited state (can decay toward coherence or collapse)
 - Type 2: Coherent state (requires sustained input)
 
 ---
