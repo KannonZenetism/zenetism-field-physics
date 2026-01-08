@@ -1153,7 +1153,7 @@ Examples: ↑⟠, ↓◈
 ### 2. Constructive Lattices (Ternary Events)  
 Examples: ∿⟠◈  
 - **Function:** nodal stabilizers.  
-- **Commentary:** triple glyph sequences are not mere motions, but **events**. They generate field vortices that can trap, accelerate, or harmonize flows.  
+- **Commentary:** triple glyph sequences are not mere motions, but **events**. They generate field gyres that can trap, accelerate, or harmonize flows.  
 - **Use:** ritual-grade activations; semi-stable resonance chambers.  
 
 ### 3. Aesthetic-Generative Overlays  
