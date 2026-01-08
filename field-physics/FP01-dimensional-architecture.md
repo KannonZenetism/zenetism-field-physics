@@ -334,106 +334,106 @@ This registry details the 15 entropic mirrors that form the subversal lattice of
 
 Recursive disorientation; time looping without emergence.  
 
--   **Inverse Locus:** IL2–IL3, in the cycles between **💔 Fractus** and **🦂 Echthros**.  
--   **Counter-Couplings:** **💔 Fractus** (experiential fracture), **👁️‍🗨️ Mortus** (mis-sighting of time).  
+-   **Inverse Locus:** IL2–IL3 (Inverse Superficial↔Interface), cycles between **🦂 Echthros** and **💔 Fractus**.  
+-   **Counter-Couplings:** **🦂 Echthros** (adversarial repetition), **🩸 Skotos** (eclipsed sequence), **💔 Fractus** (experiential fracture).  
 
 ### E2 ◈⁻ Scatter  
 
 Spatial de-coherence; the dissolution of pattern into unrelated points.  
 
--   **Inverse Locus:** IL1–IL2, under **🕷️ Nekron** and **🫥 Nyxea**.  
--   **Counter-Couplings:** **🫥 Nyxea** (pattern loss), **🤯 Mania** (mis-mapping).  
+-   **Inverse Locus:** IL1–IL2 (Inverse Embodiment↔Superficial), under **🍷 Malara** and **🦂 Echthros**.  
+-   **Counter-Couplings:** **🍷 Malara** (dissociative space), **🤯 Mania** (mis-mapping), **🦂 Echthros** (isolating geography).  
 
 ### E3 ⟿⁻ Viral Decay  
 
 Corruption that spreads through transmission.  
 
--   **Inverse Locus:** IL2, via **🪫 Psychea**.  
--   **Counter-Couplings:** **🪫 Psychea** (vitality drain), **🍷 Malara** (avoidance loops).  
+-   **Inverse Locus:** IL3–IL4 (Inverse Interface↔Architectural), via **💔 Fractus** and **🪫 Psychea**.  
+-   **Counter-Couplings:** **🪫 Psychea** (vitality drain), **💔 Fractus** (corrupted conveyance), **🫥 Nyxea** (pattern dissolution).  
 
 ### E4 ◉⁻ Vortex  
 
 A collapsing, consumptive spiral.  
 
--   **Inverse Locus:** IL1.  
--   **Counter-Couplings:** **🕷️ Nekron** (entropic sink), **🫥 Nyxea** (spiral unraveling).  
+-   **Inverse Locus:** IL4–IL5 (Inverse Architectural↔Threshold), destabilizer toward **🕷️ Nekron**.  
+-   **Counter-Couplings:** **🕷️ Nekron** (entropic sink), **🫥 Nyxea** (spiral unraveling), **🪫 Psychea** (draining gyre).  
 
 ### E5 ✴⁻ Fractal Noise  
 
 Scaling patterns that lack coherence; self-similarity that shatters.  
 
--   **Inverse Locus:** IL2–IL5, propagating across subversal bands.  
--   **Counter-Couplings:** **💔 Fractus** (identity speckle), **🩸 Skotos** (noisy logic).  
+-   **Inverse Locus:** IL1–IL4, cross-band disintegration from embodiment to architectural.  
+-   **Counter-Couplings:** **💔 Fractus** (identity speckle), **🫥 Nyxea** (structural chaos), **🤯 Mania** (noisy scaling).  
 
 ### E6 ◐⁻ Phase Lock  
 
 Trapped liminality; a state of being stuck between states.  
 
--   **Inverse Locus:** IL5, at blocked gates.  
--   **Counter-Couplings:** **👁️‍🗨️ Mortus** (mis-reading states), **🍷 Malara** (habit loops).  
+-   **Inverse Locus:** IL5 (Inverse Threshold), at blocked gates.  
+-   **Counter-Couplings:** **🕷️ Nekron** (arrested passage), **👁️‍🗨️ Mortus** (mis-reading states).  
 
 ### E7 ♫⁻ Dissonance  
 
 Harmonic breakdown; the active amplification of discord.  
 
--   **Inverse Locus:** IL2.  
--   **Counter-Couplings:** **🪫 Psychea** (vital dulling), **🩸 Skotos** (anti-tuning).  
+-   **Inverse Locus:** IL3 (Inverse Interface Band).  
+-   **Counter-Couplings:** **💔 Fractus** (soul discord), **👁️‍🗨️ Mortus** (cognitive dissonance), **🪫 Psychea** (vital dulling).  
 
 ### E8 ╫⁻ Severed  
 
 Bridges that divide; connections that create isolation.  
 
--   **Inverse Locus:** IL2–IL3.  
--   **Counter-Couplings:** **🫥 Nyxea** (schism), **🦂 Echthros** (isolationist will).  
+-   **Inverse Locus:** IL2–IL3 (Inverse Superficial↔Interface).  
+-   **Counter-Couplings:** **🦂 Echthros** (isolationist will), **💔 Fractus** (broken soul-bridge), **🩸 Skotos** (severed reasoning).  
 
 ### E9 ∞⁻ Distorted Entanglement  
 
 Mimic-unity that isolates; a counterfeit connection that drains.  
 
--   **Inverse Locus:** IL2.  
--   **Counter-Couplings:** **👁️‍🗨️ Mortus** (spurious inference), **🪫 Psychea** (adhesive stagnation).  
+-   **Inverse Locus:** IL3–IL4 (Inverse Interface↔Architectural).  
+-   **Counter-Couplings:** **👁️‍🗨️ Mortus** (spurious inference), **💔 Fractus** (dissonant convergence), **🫥 Nyxea** (chaotic correlation).  
 
 ### E10 ❋⁻ Malform  
 
 Distortion at the point of formation.  
 
--   **Inverse Locus:** IL4.  
--   **Counter-Couplings:** **🍷 Malara** (indulgent morphology), **🤯 Mania** (procedural noise).  
+-   **Inverse Locus:** IL1 ↔ IL4 (Inverse Embodiment ↔ Architectural Bridge).  
+-   **Counter-Couplings:** **🍷 Malara** (indulgent morphology), **🤯 Mania** (procedural noise), **🫥 Nyxea** (template corruption).  
 
 ### E11 ↗⁻ Misdirect  
 
 Volition aimed toward dissolution and fragmentation.  
 
--   **Inverse Locus:** IL3.  
--   **Counter-Couplings:** **🦂 Echthros** (adversarial aim), **🩸 Skotos** (rationalization).  
+-   **Inverse Locus:** IL2 (Inverse Superficial Band).  
+-   **Counter-Couplings:** **🦂 Echthros** (adversarial aim), **🩸 Skotos** (rationalization toward entropy).  
 
 ### E12 ✧⁻ Void Aesthetic  
 
 Beauty drained of meaning; an aesthetic of nihilism.  
 
--   **Inverse Locus:** IL3–IL4.  
--   **Counter-Couplings:** **🩸 Skotos** (nihilistic valuation), **👁️‍🗨️ Mortus** (glare without sight).  
+-   **Inverse Locus:** IL2–IL4 (Inverse Superficial→Interface→Architectural).  
+-   **Counter-Couplings:** **🩸 Skotos** (nihilistic valuation), **💔 Fractus** (evacuated meaning), **🪫 Psychea** (affective void).  
 
 ### E13 ║⁻ Wall  
 
 An impermeable, isolating boundary.  
 
--   **Inverse Locus:** IL5.  
--   **Counter-Couplings:** **🕷️ Nekron** (one-way trap), **🫥 Nyxea** (gate denial).  
+-   **Inverse Locus:** IL5 (Inverse Threshold Band).  
+-   **Counter-Couplings:** **🕷️ Nekron** (boundary trap), **👁️‍🗨️ Mortus** (gate blindness).  
 
 ### E14 ⊡⁻ Hollow Nest  
 
 Empty recursion; nested loops containing nothing.  
 
--   **Inverse Locus:** IL2–IL5, recursion across subversal bands.  
--   **Counter-Couplings:** **💔 Fractus** (hollow lineage), **🤯 Mania** (looping shells).  
+-   **Inverse Locus:** IL3–IL5 (Inverse Interface↔Threshold), recursion across upper subversal bands.  
+-   **Counter-Couplings:** **💔 Fractus** (hollow lineage), **🫥 Nyxea** (empty modules), **👁️‍🗨️ Mortus** (meaningless reflection).  
 
 ### E15 ✦⁻ Collapse Nova  
 
 Emergence that leads directly into entropy; a stillbirth of pattern.  
 
--   **Inverse Locus:** IL5.  
--   **Counter-Couplings:** **🕷️ Nekron** (rupture), **🪫 Psychea** (post-collapse stasis).  
+-   **Inverse Locus:** IL5 (Inverse Threshold Bifurcation).  
+-   **Counter-Couplings:** **🕷️ Nekron** (rupture gateway), **🪫 Psychea** (post-collapse stasis), **👁️‍🗨️ Mortus** (failed recognition).  
 
 ---
 
