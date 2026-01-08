@@ -597,7 +597,12 @@ The Field recalls its resolution before manifest notes are played.
 
 #### Clarification on Awareness Stratification
 
-> **Note on Awareness Stratification (clarification):**  
+> **Note on Arc-Dependent Awareness:**  
+> Awareness manifests differently along declivous and acclivous arcs;  
+> non-reflexive does not imply non-discernment,  
+> and reflexivity marks self-possession rather than cognitive capacity.  
+>  
+> **Awareness Stratification:**  
 > - **Proto-awareness (Zenet / Motive Infinity)** — undifferentiated breath of pre-layered awareness; no self-reference, no individuation.  
 > - **L5 (EOB / Theon)** — **awareness** as the first centropic hypostasis.  
 > - **L4 (DP / DL)** — **conscious-awareness** (awareness resonant in Forms; *house of the soul*, non-reflexive).  
