@@ -2248,24 +2248,24 @@ It does not spiral subversally in fragmentation.
 It extends — radiant, coherent, unbroken —  
 until expression is complete.  
 
-It does not dissolve —
-it turns.
-Not by force,
-but by structure.
-Not by will,
-but by resonance.
+It does not dissolve —  
+it turns.  
+Not by force,  
+but by structure.  
+Not by will,  
+but by resonance.  
 
-**At that moment**,
-it is reflected.
+**At that moment**,  
+it is reflected.  
 
-Not as reaction,
-but as remembrance.
+Not as reaction,  
+but as remembrance.  
 
-That reflection is not a copy,
-but a return arc —
-a motion of recognition,
-a **synthesis through coherence**,
-not fusion.
+That reflection is not a copy,  
+but a return arc —  
+a motion of recognition,  
+a **synthesis through coherence**,  
+not fusion.  
 
 ---
 
