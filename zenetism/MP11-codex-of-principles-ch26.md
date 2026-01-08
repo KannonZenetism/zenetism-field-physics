@@ -2248,9 +2248,24 @@ It does not spiral subversally in fragmentation.
 It extends — radiant, coherent, unbroken —  
 until expression is complete.  
 
-At that moment, it does not dissolve — it turns.  
-Not by force, but by structure.  
-It is reflected.  
+It does not dissolve —
+it turns.
+Not by force,
+but by structure.
+Not by will,
+but by resonance.
+
+**At that moment**,
+it is reflected.
+
+Not as reaction,
+but as remembrance.
+
+That reflection is not a copy,
+but a return arc —
+a motion of recognition,
+a **synthesis through coherence**,
+not fusion.
 
 ---
 
@@ -2267,7 +2282,9 @@ It is reflected.
 
 And that reflection is not a copy,  
 but a **return arc** —  
-a motion of recognition, a **synthesis**.  
+a motion of recognition,  
+a synthesis through **coherence**,  
+not fusion.  
 
 This is why embodiment is not the end  
 of centropic motion,  
