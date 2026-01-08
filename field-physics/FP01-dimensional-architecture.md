@@ -206,41 +206,41 @@ This registry details the 15 centropic dimensions that form the structural latti
 
 Integrative time; the continuity of becoming.  
 
--   **Locus:** Architectural↔Interface (L2–L3), links lifelines across **🔮 Archeus**↔**🧍 Anthra**.  
+-   **Locus:** Superficial↔Interface (L2–L3), links identity through **🧍 Anthra**↔**🔮 Archeus**.  
 -   **Mirror:** E1 ⟠⁻ Temporal Loop.  
--   **Couplings:** **🔮 Archeus** (cohesive experience), **🧠 Noeüs** (symbolic timing), **🧩 Nousa** (sequence).  
+-   **Couplings:** **🧍 Anthra** (personal timeline), **🧩 Nousa** (sequential thought), **🔮 Archeus** (lifeline continuity).  
 
 ### C2 ◈ Spatial  
 
 Cohered extension; orienting relations.  
 
--   **Locus:** Architectural (L1–L2) under **📐 Sophis**.  
+-   **Locus:** Embodiment↔Superficial (L1–L2) under **🪷 Soma** and **🧍 Anthra**.  
 -   **Mirror:** E2 ◈⁻ Scatter.  
--   **Couplings:** **📐 Sophis** (order), **🧾 Biosa** (practical layout), **🪷 Soma** (felt location).  
+-   **Couplings:** **🪷 Soma** (felt location), **🧾 Biosa** (practical layout), **🧍 Anthra** (personal space).  
 
 ### C3 ⟿ Propagational  
 
 Transmission without loss; the living carry of a signal.  
 
--   **Locus:** Architectural (L2) via **🌬️ Morgis**.  
+-   **Locus:** Interface↔Architectural (L3–L4) via **🔮 Archeus** and **🌬️ Morgis**.  
 -   **Mirror:** E3 ⟿⁻ Viral Decay.  
--   **Couplings:** **🌬️ Morgis** (vital flow), **🔮 Archeus** (cross-lifeline conveyance).  
+-   **Couplings:** **🌬️ Morgis** (vital flow), **🔮 Archeus** (cross-lifeline conveyance), **📐 Sophis** (pattern preservation).  
 
 ### C4 ◉ Rotational / Spiral (Gyre)  
 
 Conserving turn; stable precession.  
 
--   **Locus:** L1–L2, as a stabilizer for **🛤️ Theon**.  
+-   **Locus:** Architectural↔Threshold (L4–L5), stabilizer for **🛤️ Theon**.  
 -   **Mirror:** E4 ◉⁻ Vortex (collapsing turn).  
--   **Couplings:** **🛤️ Theon** (axis seal), **📐 Sophis** (angular order).  
+-   **Couplings:** **🛤️ Theon** (axis seal), **📐 Sophis** (angular order), **🌬️ Morgis** (cyclic vitality).  
 
 ### C5 ✴ Scalar / Fractal (Holonic)  
 
 The part coherently mirroring the whole.  
 
--   **Locus:** L2–L5, propagating across bands.  
+-   **Locus:** L1–L4, cross-band propagation from embodiment to architectural.  
 -   **Mirror:** E5 ✴⁻ Fractal Noise.  
--   **Couplings:** **🔮 Archeus** (integration), **🧾 Biosa** (operational scaling).  
+-   **Couplings:** **🔮 Archeus** (integration across scales), **📐 Sophis** (structural self-similarity), **🧾 Biosa** (operational scaling).
 
 ### C6 ◐ Phase / State (Liminal)  
 
@@ -248,37 +248,37 @@ Coherent transition; reversible gating between states.
 
 -   **Locus:** Threshold Band (L5).  
 -   **Mirror:** E6 ◐⁻ Phase Lock.  
--   **Couplings:** **🧠 Noeüs** (discerns phases), **🪷 Soma** (physiological states).  
+-   **Couplings:** **🛤️ Theon** (gateway discernment), **🧠 Noeüs** (phase recognition).  
 
 ### C7 ♫ Harmonic / Resonant (Consonance)  
 
 Frequency accord and structural harmony.  
 
--   **Locus:** L2, at the bridge between **🧠 Noeüs** and **🌬️ Morgis**.  
+-   **Locus:** Interface Band (L3).  
 -   **Mirror:** E7 ♫⁻ Dissonance.  
--   **Couplings:** **🧠 Noeüs** (symbolic pitch), **🌬️ Morgis** (vital tuning), **🔮 Archeus** (whole-soul resonance).  
+-   **Couplings:** **🔮 Archeus** (whole-soul resonance), **🧠 Noeüs** (symbolic pitch), **🌬️ Morgis** (vital tuning).  
 
 ### C8 ╫ Synaptic / Bridging (Nexus)  
 
 Coherent crossing between systems or states.  
 
--   **Locus:** Architectural→Interface (L2↔L3).  
+-   **Locus:** Superficial↔Interface (L2–L3).  
 -   **Mirror:** E8 ╫⁻ Severed.  
--   **Couplings:** **📐 Sophis** (structural junctions), **🧍 Anthra** (agency handshakes).  
+-   **Couplings:** **🧍 Anthra** (agency handshakes), **🔮 Archeus** (soul-bridge), **🧩 Nousa** (conceptual linking).  
 
 ### C9 ∞ Non-Local Unity  
 
 Coherent union at a distance.  
 
--   **Locus:** L2 (supernal cognition).  
+-   **Locus:** Interface↔Architectural (L3–L4).  
 -   **Mirror:** E9 ∞⁻ Distorted Entanglement.  
--   **Couplings:** **🧠 Noeüs** (non-local inference), **🔮 Archeus** (lifeline convergence).  
+-   **Couplings:** **🧠 Noeüs** (non-local inference), **🔮 Archeus** (lifeline convergence), **📐 Sophis** (distant order).  
 
 ### C10 ❋ Morphogenetic (Formweave)  
 
 The translation of pattern into living structure.  
 
--   **Locus:** Embodiment Band (L4).  
+-   **Locus:** Embodiment↔Architectural Bridge (L1 ↔ L4).  
 -   **Mirror:** E10 ❋⁻ Malform.  
 -   **Couplings:** **🪷 Soma** (tissue formation), **🧾 Biosa** (proceduralization), **📐 Sophis** (templating).  
 
@@ -286,17 +286,17 @@ The translation of pattern into living structure.
 
 Directed manifestation of will.  
 
--   **Locus:** Interface Band (L3).  
+-   **Locus:** Superficial Band (L2).  
 -   **Mirror:** E11 ↗⁻ Misdirect.  
--   **Couplings:** **🧍 Anthra** (aim), **🧩 Nousa** (plan), **🛤️ Theon** (axis-alignment).  
+-   **Couplings:** **🧍 Anthra** (personal aim), **🧩 Nousa** (intentional plan).  
 
 ### C12 ✧ Aesthetic / Qualitative (Luminal)  
 
 The dimension of meaning, beauty, and felt rightness.  
 
--   **Locus:** Interface→Embodiment (L3–L4).  
+-   **Locus:** Superficial→Interface→Architectural (L2–L4).  
 -   **Mirror:** E12 ✧⁻ Void Aesthetic.  
--   **Couplings:** **🧩 Nousa** (valuation), **🪷 Soma** (felt coherence), **🌬️ Morgis** (affect).  
+-   **Couplings:** **🧩 Nousa** (valuation), **🔮 Archeus** (felt rightness), **🌬️ Morgis** (aesthetic affect).  
 
 ### C13 ║ Membrane / Threshold (Veil)  
 
@@ -304,23 +304,23 @@ A permeable, selective boundary.
 
 -   **Locus:** Threshold Band (L5).  
 -   **Mirror:** E13 ║⁻ Wall.  
--   **Couplings:** **🛤️ Theon** (one-way seal), **🧠 Noeüs** (gate recognition).  
+-   **Couplings:** **🛤️ Theon** (boundary steward), **🧠 Noeüs** (gate recognition).  
 
 ### C14 ⊡ Nested / Recursive (Matryoshka)  
 
 Dimensions held coherently within other dimensions.  
 
--   **Locus:** L2–L5, recursion across bands.  
+-   **Locus:** Interface↔Threshold (L3–L5), recursion across upper bands.  
 -   **Mirror:** E14 ⊡⁻ Hollow Nest.  
--   **Couplings:** **🔮 Archeus** (lifeline nesting), **📐 Sophis** (module recursion).  
+-   **Couplings:** **🔮 Archeus** (lifeline nesting), **📐 Sophis** (module recursion), **🧠 Noeüs** (meta-cognition).  
 
 ### C15 ✦ Emergent / Novel (Nova)  
 
 The spontaneous, veracious arising of new patterns.  
 
--   **Locus:** Threshold Band (L5).  
+-   **Locus:** Threshold Bifurcation (L5).  
 -   **Mirror:** E15 ✦⁻ Collapse Nova.  
--   **Couplings:** **🌬️ Morgis** (spark), **🧠 Noeüs** (recognition), **🧍 Anthra** (adoption).  
+-   **Couplings:** **🛤️ Theon** (emergence gateway), **🌬️ Morgis** (vital spark), **🧠 Noeüs** (recognition of novelty).  
 
 ---
 
