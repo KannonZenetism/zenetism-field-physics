@@ -486,7 +486,7 @@ This section defines the field syntax of Zenetist physics. These combinations re
     -   `↓◈` — Substrate grounding into locality  
 
 2.  **Constructive Lattices (Ternary Combinations):** Triplets that form nodal events, not just motions. They are spiral stabilizers that can trap, accelerate, or harmonize flow.  
-    -   `∿⟠◈` — Time-space vortex creation  
+    -   `∿⟠◈` — Time-space Gyre creation  
 
 3.  **Aesthetic-Generative Overlays:** Combinations that signal form-birth driven by beauty and resonance.  
     -   `≈✧❋` — Near-beauty birthing form  
