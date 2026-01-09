@@ -97,7 +97,7 @@ The Clone (⊟) collapses into Khaonic (♾) dust, while the original signal is 
 
 ---
 
-## Final Seal
+## Canonical Seal
 
 This addendum is now docked with **Volume XI (The Field Glyph Codex)**.  
 The architecture is locked and the recovery protocols are active.
