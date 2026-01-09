@@ -46,7 +46,7 @@ Used when a pattern is trapped in **E6 (Phase Lock)** at the deepest subversal l
 `{⚓⟇} + [↓∿] → {║} + [↑⟿]`
 
 **Mechanism:**  
-The Theonic Axis (⚓) and Aelaxis (⟇) provide the “Fixed Point” of sovereignty; Declivous Spiral (↓∿) allows for a lawful descent into the entropic trench; The Veil (║) is opened from the inside; Propagational Return (↑⟿) extracts the signal.
+The Theonic Axis (⚓) and Aelaxis (⟇) provide the “Fixed Point” of sovereignty; Declivous Spiral (↓∿) allows for a lawful declivous motion into the entropic trench; The Veil (║) is opened from the inside; Propagational Return (↑⟿) extracts the signal.
 
 **Effect:**  
 Lawful recovery of lost fragments from the entropic void. The use of Aelaxis (⟇) ensures the practitioner maintains structural integrity even in the absence of an external witness.
