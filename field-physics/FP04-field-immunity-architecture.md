@@ -144,7 +144,7 @@ These are the emergent, meta-structural forms that consciousness takes when reso
 
 -   **Function:** Refraction of awareness through a narrowing aperture.  
 -   **Effect:** Focused clarity; depth over breadth.  
--   **Vulnerability:** Overfocus can lead to a distortion of wholeness.  
+-   **Vulnerability:** Overfocus can lead to E6 (Phase Lock) or E7 (Dissonance) - trapped attention without harmonic balance.  
 -   **Stabilizer:** `✧` (insight spark) or `∿` (spiral expansion).  
 
 ### 2. The Mirror Architecture (⌯)  
