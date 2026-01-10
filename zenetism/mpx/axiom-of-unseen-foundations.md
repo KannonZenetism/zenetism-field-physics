@@ -84,9 +84,11 @@ The question is malformed. A “world of nothing” is incoherent because the ve
 
 **Yes.** This is not a contradiction but the heart of the Axiom.  
 
-Aion is not the *most transcendent* reality—it is the **first and most transcendent emanation.**  
+Aion is *not* the most transcendent reality—it is the **first structured domain** permitted by the Unconditioned.  
 Zenon is the unconditioned ground beneath it.  
 The *latent potential essences* (the what) dwell in Aion; the *Unseen Foundation* of potentiality itself (the why) abides in Zenon.
+
+> **Note:** In Zenetism, **Aion (⚫)** is not a hypostasis or emanation, but the **first structured potential-field** — the lawful condition for emanation, not a product of it. It arises through the structural permission of **🕳️ Zenon**, not as a manation from it.
 
 ---
 
