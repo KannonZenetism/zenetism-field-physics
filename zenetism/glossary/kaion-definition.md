@@ -26,7 +26,7 @@ Both rest in **Aion’s embrace**, held in **absolute equilibrium**. This is not
 **Kaion** names what occurs when both trees exhaust their trajectories:
 
 - The **centropic essence** returns to Source as integrated fullness — coherence attained, pattern preserved, the soul complete.  
-- The **entropic essence** disperses into static potential — form released, structure dissolved, the pattern returned to latency.
+- The **entropic essence** disperses into static potential — form released, structure reabsorbed, the pattern returned to latency.
 
 Both states are stillness, yet distinct in their character:
 
