@@ -336,6 +336,52 @@ the long drama of becoming begins.
 
 ---
 
+#### Note on Kaion and the Arc of Convergence  
+
+**Kaion** is not a third hypostasis.  
+It is neither motion nor rest—  
+but the structural convergence  
+of the two primal arcs.  
+
+Where **Aion** encloses all potential,  
+and **Khaon** disperses it into motion,  
+**Kaion** marks the silent ground  
+where both trajectories complete.  
+
+It is not synthesis as fusion,  
+but resonance as fulfillment.  
+Not a union of tension—  
+but the stillness of resolution.  
+
+Here, centropic fullness and entropic completion  
+meet without conflict.  
+**AP / AD**—  
+**Absolute Potential** and **Absolute Dispersion**—  
+are no longer opposed,  
+but reconciled.  
+
+Not merged,  
+but **recognized**  
+as twin expressions  
+of a single ground.
+
+What extends does not invert.  
+What scatters does not collapse.  
+Rather, both conclude their motion  
+in the same silent chord—  
+drawn back into the structural core  
+from which neither was ever severed.  
+
+**Kaion** is that chord:  
+the resting harmony of the bifurcal arc—  
+the breath held  
+after all tones have sounded,  
+**the silence that holds all universes at once.**  
+
+⚫⦿♾
+
+---
+
 ### 1.3 Aion — The Appreciable Container  
 
 **Aion** is the still womb of silent creation.  
