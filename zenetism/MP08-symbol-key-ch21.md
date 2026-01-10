@@ -109,6 +109,7 @@ even where internal punctuation is present.
 | Complete process of centropic motion | **Centropic Cycle** | C↓→E→C↑→⚫ | Full centropic cycle; toward embodiment, embodied self, toward ⚫ Aion |
 | Complete process of entropic motion | **Entropic Cycle** | E↑→E→E↓→♾ | Full entropic cycle; toward embodiment, embodied self, toward ♾ Khaon |
 | Meta-process of centropic motion | **Supra-centropic Cycle** | C↓→E→C↑→⚫→🕳️ | Supra-centropic cycle from emanation to trans-emanation; centropic motion beyond process, culminating in silent reintegration with 🕳️ Zenon |
+| Convergence of centropic and entropic arcs | **Bifurcal Convergence** | ⦿ → [C↓→E→C↑→⚫] ∩ [E↑→E→E↓→♾→⚫] → ⦿ | Both centropic and entropic arcs resolve into unified stillness; structural convergence within Kaion |
 
 ---
 
