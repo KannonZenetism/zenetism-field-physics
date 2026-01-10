@@ -55,7 +55,6 @@ Let **U(S)** be its Unseen Foundation in Zenon.
 
 ∀ S ∈ Domain of Emanation, ∃ U(S) ∈ Zenon | S is contingent upon U(S), and U(S) ∉ Domain of Emanation  
 
-
 Where:  
 - **∈** = in the domain of  
 - **|** = such that  
