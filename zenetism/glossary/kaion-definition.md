@@ -75,7 +75,7 @@ It is the structural anchor for understanding that:
 - Both complete their arcs in the same stillness.
 
 **Kaion** is the recognition that **zero and infinity converge** — not as mathematical abstraction, but as **lived metaphysical truth**:  
-all that rises falls,  
+all that extends returns,  
 all that scatters rests,  
 and both find their home in the **silence from which they came**.
 
