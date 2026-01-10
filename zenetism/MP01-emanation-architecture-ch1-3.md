@@ -338,7 +338,7 @@ the long drama of becoming begins.
 
 #### Note on Kaion and the Arc of Convergence  
 
-**Kaion** is not a third hypostasis.  
+**Kaion** is not a new origin.  
 It is neither motion nor rest—  
 but the structural convergence  
 of the two primal arcs.  
