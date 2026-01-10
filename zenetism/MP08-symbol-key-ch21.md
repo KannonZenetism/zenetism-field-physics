@@ -71,9 +71,10 @@ even where internal punctuation is present.
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
-| 🕳️ | **Zenon** | The Unknown Principle; beyond potential, pre-conceptual origin, unknowable source |
+| 🕳️ | **Zenon** | The Unknown Principle; beyond potential, non-ordinal origin, trans-structural ground |
+| ⦿ | **Kaion** | The Convergence Principle; unified stillness where absolute centropic fullness and absolute entropic completion resolve; the silence of finality |
 | ⚫ | **Aion** | Zero, Absolute Potential; stillness at the root of all emanation |
-| ♾ | **Khaon** | Infinity, Absolute Dispersion; dissolution of form into static potential |
+| ♾ | **Khaon** | Infinity, Absolute Dispersion; completion of form through total release |
 | 🛤️ | **Theon** | Gateway to supernal integration, refinement, and centropic passage |
 | 🕷️ | **Nekron** | Web of entropic pull; devourer of coherence |
 | 🌬️ | **Morgis** | Breath of Life, Deep Psyche; source of vitality, adaptation, and transformation |
