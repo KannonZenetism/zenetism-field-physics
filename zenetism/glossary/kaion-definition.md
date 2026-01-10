@@ -93,6 +93,8 @@ Representing the dual trees converging into unified stillness.
      ↓
   ⦿ Kaion
 ```
+*The Convergence Principle holds both the pre-bifurcal silence*  
+*and the post-resolution stillness as a single, eternal ground.*  
 
 ---
 
