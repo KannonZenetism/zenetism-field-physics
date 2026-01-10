@@ -49,12 +49,15 @@ Kaion must not be conflated with **🕳️ Zenon** (*the Unknown Principle*):
 
 ---
 
-## Glyphic Formula
+## **Glyphic Formula**
+```
+⦿ → [C↓→E→C↑→⚫] ∩ [E↑→E→E↓→♾→⚫] → ⦿
+```
 
-C↑ → ⚫ ∩ E↓ → ♾ → ⚫ = ⦿ Kaion  
-
-Where **acclivous motion** meets **declivous completion**,  
-**both rest in the Silent Core**.
+*Kaion gives rise to dual processes:*  
+- *Centropic Cycle: harmonious embodiment → acclivous return*  
+- *Entropic Cycle: fragmentary embodiment → declivous collapse through Khaon*  
+*Both converge at ⚫ Aion, returning to ⦿ Kaion's unified ground.*
 
 ---
 
