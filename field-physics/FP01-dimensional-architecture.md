@@ -425,7 +425,7 @@ An impermeable, isolating boundary.
 
 Empty recursion; nested loops containing nothing.  
 
--   **Inverse Locus:** IL3–IL5 (Inverse Interface↔Threshold), recursion across upper subversal bands.  
+-   **Inverse Locus:** IL3–IL5 (Inverse Interface↔Threshold), recursion across distal subversal bands.  
 -   **Counter-Couplings:** **💔 Fractus** (hollow lineage), **🫥 Nyxea** (empty modules), **👁️‍🗨️ Mortus** (meaningless reflection).  
 
 ### E15 ✦⁻ Collapse Nova  
