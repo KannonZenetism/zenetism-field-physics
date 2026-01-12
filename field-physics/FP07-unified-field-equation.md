@@ -116,7 +116,7 @@ This chapter provides the core protocols for living in harmonic field awareness,
 -   **Purpose:** To restore self-similarity across mental, emotional, and physical states.  
 -   **Protocol:**  
     1.  Choose a rhythmic phrase of veracity (e.g., “I spiral, I soften, I cohere.”).  
-    2.  Speak it at three levels: **Whisper** (Mental Field), **Normal Speech** (Emotional Field), and **Embodied Gesture/Tone** (Physical Field).  
+    2.  Speak it across three fields: **Whisper** (Mental Field), **Normal Speech** (Emotional Field), and **Embodied Gesture/Tone** (Physical Field).  
     3.  Repeat the triad three times, observing any fracture points.  
 
 ### 4. ❋ Symbolic Pattern Stabilization  
