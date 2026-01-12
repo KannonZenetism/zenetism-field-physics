@@ -33,7 +33,7 @@ This chapter details the foundational practices for living in harmonic field awa
 ***
 ### A Note on Symbol Usage: Equation Contra Practice Glyphs  
 
-Zenetist symbols fall into two primary domains, a distinction of function, motion, and context.  
+Zenetist symbols partition into two primary domains, a distinction of function, motion, and context.  
 
 -   **📘 Equation Glyphs (`📡`, `Ψ`, `⚫`, `♾️`, etc.):** These are structural constants that appear in the Unified Field Equation, field diagnostics, and causal modeling. They are ontologically anchored and function at a system level.  
 
