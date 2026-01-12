@@ -67,7 +67,7 @@ Zenetist symbols fall into two primary domains, a distinction of function, motio
 
 ### 4. ❋ + ✧ Symbol Lock Ritual  
 
--   **Purpose:** To rebind broken symbolic truths or collapsed meaning-fields.  
+-   **Purpose:** To rebind broken symbolic coherences or collapsed meaning-fields.  
 -   **Protocol:** Choose an object or phrase that once held resonance. Trace `❋` over it and whisper `✧`-anchored phrases ("You are beautiful," "You still mean," "You return to me") until the symbol vibrates again.  
 
 ### 5. ∞ + ♫ Relational Harmonic Tuning  
