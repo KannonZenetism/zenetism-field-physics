@@ -125,7 +125,7 @@ This defines how motion operators interact with glyphs to shape dynamic field be
     -   `∿ + ◈` = the constellation spreading.  
 -   **Directional Flows `↑` / `↓`:**  
     -   `↑ + ✧` = ascending aesthetic emergence.  
-    -   `↓ + ◉` = gyre descent into a coherence chamber.  
+    -   `↓ + ◉` = declivous gyre into a coherence chamber.  
 
 > Motion is not additive—it's resonant. Glyphs don't move; the field does.  
 
