@@ -482,7 +482,7 @@ This section defines the field syntax of Zenetist physics. These combinations re
 ### Motion Syntax Classes  
 
 1.  **Directional Activation (Dyadic Combinations):** Basic pairings that act as intentional keys, defining field trajectories.  
-    -   `↑⟠` — Future-memory rising  
+    -   `↑⟠` — Future-memory unfolding  
     -   `↓◈` — Substrate grounding into locality  
 
 2.  **Constructive Lattices (Ternary Combinations):** Triplets that form nodal events, not just motions. They are spiral stabilizers that can trap, accelerate, or harmonize flow.  
