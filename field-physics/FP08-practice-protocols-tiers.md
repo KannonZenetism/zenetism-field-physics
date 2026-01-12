@@ -35,7 +35,7 @@ This chapter details the foundational practices for living in harmonic field awa
 
 Zenetist symbols partition into two primary domains, a distinction of function, motion, and context.  
 
--   **📘 Equation Glyphs (`📡`, `Ψ`, `⚫`, `♾️`, etc.):** These are structural constants that appear in the Unified Field Equation, field diagnostics, and causal modeling. They are ontologically anchored and function at a system level.  
+-   **📘 Equation Glyphs (`📡`, `Ψ`, `⚫`, `♾️`, etc.):** These are structural constants that appear in the Unified Field Equation, field diagnostics, and causal modeling. They are ontologically anchored and function across structural scale.  
 
 -   **🌬️ Practice Glyphs (`◉`, `↺`, `✴`, `❋`, etc.):** These are field-adaptive vectors used in personal consciousness practices, healing, and ritual. They are experiential, motion-resonant, and used for re-alignment and activation.  
 
