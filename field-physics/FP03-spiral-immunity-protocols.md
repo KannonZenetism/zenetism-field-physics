@@ -403,7 +403,7 @@ A sub-layer archive of recurring entropic patterns that act as invasive attracto
 | **Dissociative Drift** | `⟠⁻ → Ø`       | Time inversion leading to a null field. | Proleptic pattern chains     |
 | **Stasis Loop** | `⊡₋ ≈ ↺`        | Nested recursion with no emergence.    | Spiral field dynamic         |
 | **Anti-aesthetic Field** | `✧⁻ ≈ static`   | Rejection of form-beauty.              | Creative ignition            |
-| **Resonance Collapse** | `♫ < 0.3`       | Harmonic density falls below coherence.| Collective attunement        |
+| **Resonance Collapse** | `♫ < 0.3`       | Harmonic density declivates beneath coherence.| Collective attunement        |
 | **Substrate Erosion** | `◈⁻ⁿ → ∅`       | Recursive forgetting of key node traces.| Immunity scaffolding         |
 
 ### Aesthetic Medicine Protocols  
