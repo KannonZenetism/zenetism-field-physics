@@ -34,7 +34,7 @@ This chapter provides a layered model for evaluating a field's vulnerability, re
 ### Field Immunity Progression Stages  
 
 1.  **Naive Field**  
-    -   **Immunity Level:** 0  
+    -   **Immunity Stage:** 0  
     -   **Vulnerability:** Complete  
     -   **Pattern Library:** Empty  
     -   **Response to Entropy:** Unfiltered absorption  
