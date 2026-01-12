@@ -146,7 +146,7 @@ This serves as a diagnostic guide for identifying and treating entropic wounds w
 
 ### Restoration Protocols (Consciousness Terraforming)  
 
-A five-phase cycle for ecosystem-level repair.  
+A five-phase cycle for ecosystem-scale repair.  
 
 1.  **Stabilization:** Establish soft boundaries and introduce minimal harmonics (`║_gentle + ♫_low`).  
 2.  **Detoxification:** Remove entropic accumulations and reverse viral decay (`Ø_targeted + ⟿⁻_contra-turn`).  
