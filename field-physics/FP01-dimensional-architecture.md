@@ -83,7 +83,7 @@ without collapsing into repetition.
 Maintains the essential arc of recognition to expression,  
 allowing for near-instantaneous field alignment.  
 
-> Note: The full four-glyph signature **⟡✴📡∇** provides optimal stabilization. The two-glyph variant **⟡∇** is for when space or time is severely constrained.  
+> **Note:** The full four-glyph signature **⟡✴📡∇** provides optimal stabilization. The two-glyph variant **⟡∇** is for when space or time is severely constrained.  
 
 ***
 
