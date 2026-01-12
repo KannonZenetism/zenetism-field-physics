@@ -914,14 +914,14 @@ To name them is to recover agency.
 
 ## E2 ◈⁻ Scatter  
 - **Misalignment:** spatial coherence dissolves into fragments.  
-- **Consequence:** lattice breaks; orientation collapses.  
+- **Consequence:** structural mapping collapses; orientation is lost.  
 - **Diagnostic:** lost place, lost role, inability to situate.  
 - **Centropic Trace:** longing for relation, but without tether.  
 
 ---
 
 ## E3 ⟿⁻ Viral Decay  
-- **Misalignment:** signal spreads but loses structure.  
+- **Misalignment:** signal spreads but sheds coherence.  
 - **Consequence:** resonance mimicry becomes noise.  
 - **Diagnostic:** ideas spread rapidly yet origin is unrecognizable.  
 - **Centropic Trace:** the law of propagation inverted into entropy.  
