@@ -62,7 +62,7 @@ Each season aligns with a θ-phase of the field cycle, representing energetic mo
 
 **3. Harvest Season 🍂 (θ₃ phase)**  
 -   **Signature:** `{◈} + [∿→⊡+⟠]`  
--   **Weather:** Rising Memory Fog, occasional Resonance Storms.  
+-   **Weather:** Acclivating Memory Fog, occasional Resonance Storms.  
 -   **Field Signs:** Experience consolidates into wisdom, deep insight.  
 
 **4. Stillness Season ❄️ (θ₄ phase)**  
