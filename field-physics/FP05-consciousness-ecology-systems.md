@@ -117,7 +117,7 @@ Self-organizing patterns that behave like living entities, feeding on attention,
 
 **Endangered Species Registry (Excerpt)**  
 
-| Species Name          | Glyph Code                | Habitat Region                        | Threat Signature           | Status Level |
+| Species Name          | Glyph Code                | Habitat Region                        | Threat Signature           | Threat Tier |
 | :-------------------- | :------------------------ | :------------------------------------ | :------------------------- | :----------- |
 | **Wonder Sprites** | `[✧ + ◐ + innocent_♫]`    | Dream Forest / Rational Plains edge   | `⊡⁻` Over-rationalization  | 5 — Critical |
 | **Deep Silence Whales** | `[Ø + ♫_profound + ◈_ancient]` | Trenches of Memory Ocean          | Ambient noise (`♫⁻`)         | 4 — Grave    |
