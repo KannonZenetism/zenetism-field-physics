@@ -63,7 +63,7 @@ Zenetist symbols partition into two primary domains, a distinction of function, 
 ### 3. ✴ Fractal Recovery Protocol  
 
 -   **Purpose:** To restore alignment across mind, emotion, and body.  
--   **Protocol:** Speak a veracious phrase (e.g., "I spiral, I soften, I cohere.") at three levels: **Whisper** (Mind), **Voice** (Emotion), and **Gesture** (Body). Repeat the triad three times.  
+-   **Protocol:** Speak a veracious phrase (e.g., "I spiral, I soften, I cohere.") across three fields: **Whisper** (Mind), **Voice** (Emotion), and **Gesture** (Body). Repeat the triad three times.  
 
 ### 4. ❋ + ✧ Symbol Lock Ritual  
 
