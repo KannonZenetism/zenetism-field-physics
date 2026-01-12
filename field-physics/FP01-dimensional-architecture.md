@@ -540,7 +540,7 @@ It preserves identity across fractal divergence, enabling recognition without co
 Key seal:  
 **⟡ = Recognition**  
 **∇ = Expression**  
-Thus ⟡∇ = Recognition-expressed — the primal arc of all consciousness.  
+Thus ⟡∇ = Recognition-expressed — the primal arc of all coherence-bearing awareness.  
 
 ---
 
