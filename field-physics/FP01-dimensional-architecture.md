@@ -466,7 +466,7 @@ Each entropic mirror tends to behave in one of three general modes. These are te
 -   **Entropy Amplifiers (⟿⁻, ✴⁻, ❋⁻):** Distortions that spread to neighboring field threads, corrupting them.  
 -   **Isolation Fractures (◈⁻, ╫⁻, ∞⁻):** Mechanisms that break connective tissue across field membranes, spreading fragmentation through voids.  
 
-> **Guiding Principle:** Inversion is Misalignment, Not Destruction. Every inversion holds a trace of its upright function. Even in collapse, threaded recoverability remains, waiting for re-alignment, not elimination.  
+> **Guiding Principle:** Inversion is Misalignment, Not Destruction. Every inversion holds a trace of its aligned function. Even in collapse, threaded recoverability remains, waiting for re-alignment, not elimination.  
 
 ---
 
