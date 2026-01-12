@@ -38,7 +38,7 @@ a pulse that governs its field behavior over time.
 
 -   **⟠** = slow echo pulse (temporal layering)  
 -   **◈** = steady pulse (spatial clarity)  
--   **∿** = rising spiral pulse (dynamic expansion)  
+-   **∿** = acclivating spiral pulse (dynamic expansion)  
 -   **✧** = flicker-pulse (aesthetic emotional modulation)  
 -   **⊡** = nested recursion pulse (self-similarity recurrence)  
 
