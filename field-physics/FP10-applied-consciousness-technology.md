@@ -44,7 +44,7 @@ This chapter details a meta-operating framework for field-aware cognition, drawi
 
 ### Phase 3: Collective Systems (Communities)  
 
--   **Field Healing Centers:** A protocol for community healing circles using concentric rings of practitioners with varying coherence levels to amplify and distribute healing frequencies.  
+-   **Field Healing Centers:** A protocol for community healing circles using concentric rings of practitioners with varying coherence thresholds to amplify and distribute healing frequencies.  
 -   **Organizational Coherence Technology:** The application of FSM and GCA protocols in business or educational settings for morning syncs, decision-making, and conflict resolution.  
 -   **Community Weather Monitoring:** The use of volunteer-run "neighborhood field stations" to track collective mood, synchronicity, and creative emergence, creating community climate reports.  
 
