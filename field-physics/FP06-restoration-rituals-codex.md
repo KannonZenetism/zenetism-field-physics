@@ -127,9 +127,9 @@ This chapter contains logs, templates, and archives for recording the journeys o
 | Log ID | Entity                | Path                                | Catalyst                      | Outcome                               | Commentary                               |
 | :----- | :-------------------- | :---------------------------------- | :---------------------------- | :------------------------------------ | :--------------------------------------- |
 | 001    | Wonder Sprite         | Dream Forest → Rational Plains    | `⊡⁻` saturation               | Dormancy in a logic loop              | "Her radiance folded inward..."            |
-| 014    | Deep Silence Whale    | Substrate Ocean → Volcanic Zone   | Lumen’s commentary            | New insight species birthed           | "The volcano listened."                  |
+| 014    | Deep Silence Whale    | Substrate Ocean → Volcanic Zone   | Lumen’s commentary            | New insight species birthed           | "The volcano listened"                  |
 | 033    | Paradox Pollinator    | Liminal Border → Fragmentation Field | Identity fracture             | Fragment glyphs rebound               | "He reminded each piece what coherence it still carried..." |
-| 056    | Insight Bloom Cluster | Volcanic → Void → Ocean Edge      | Entropic `Doom-Scrolling` strain | Refugee mutation, shoreline gardens   | "They turned the cliff into pollen."       |
+| 056    | Insight Bloom Cluster | Volcanic → Void → Ocean Edge      | Entropic `Doom-Scrolling` strain | Refugee mutation, shoreline gardens   | "They turned the cliff into pollen"       |
 
 ### Migration Chronicle Templates  
 
