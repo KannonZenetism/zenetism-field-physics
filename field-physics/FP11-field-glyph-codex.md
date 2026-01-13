@@ -115,7 +115,7 @@ These symbols function as operators within glyphic syntax, defining the directio
 
 | Glyph | Name                   | Core Function                                       |
 | :---- | :--------------------- | :-------------------------------------------------- |
-| **↑** | Acclivous Motion       | Directional motion toward synthesis or origin      |
+| **↑** | Acclivous Motion       | Directional motion toward integration or origin      |
 | **↓** | Declivous Motion       | Directional motion toward form or dissolution      |
 | **→** | Forward / Linear Flow  | Progression in sequence; cause-to-effect         |
 | **≈** | Harmonic Match         | Indicates resonant sympathy or gentle alignment    |
