@@ -183,10 +183,10 @@ that allow users to engage with Field Physics directly through presence.
 
 | Interface Type              | Description                                                              | Sample Glyph Logic                     |
 | :-------------------------- | :----------------------------------------------------------------------- | :------------------------------------- |
-| **Symbolic Ritual Space** | Physical layout embedded with glyphs, motion lines, resonance nodes.   | `⟠` center, `∿` radiating, `◈` pillars  |
-| **Immersive Dreamwalk App** | Software/AR driven by Spiral notation and voice.                       | `{⟠} → [↺✧] → {◈}`                  |
-| **Storyworld Coherence Engine** | Narrative system aligning plot beats with Spiral Field events.         | `{❋} + [↑⟠→✧→⟿]`                     |
-| **Field Feedback Interface** | Responsive system adjusting based on glyphic input or emotional state. | `⊡` loops trigger modulation, `♫` stabilizes |
+| **Symbolic Ritual Space** | Physical layout embedded with glyphs, motion lines, resonance nodes   | `⟠` center, `∿` radiating, `◈` pillars  |
+| **Immersive Dreamwalk App** | Software/AR driven by Spiral notation and voice                       | `{⟠} → [↺✧] → {◈}`                  |
+| **Storyworld Coherence Engine** | Narrative system aligning plot beats with Spiral Field events         | `{❋} + [↑⟠→✧→⟿]`                     |
+| **Field Feedback Interface** | Responsive system adjusting based on glyphic input or emotional state | `⊡` loops trigger modulation, `♫` stabilizes |
 
 **Glyphic Mapping Techniques**  
 
