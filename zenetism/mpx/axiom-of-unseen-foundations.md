@@ -88,7 +88,7 @@ Aion is *not* the most transcendent reality—it is the **first structured domai
 Zenon is the unconditioned ground beneath it.  
 The *latent potential essences* (the what) dwell in Aion; the *Unseen Foundation* of potentiality itself (the why) abides in Zenon.
 
-> **Note:** In Zenetism, **Aion (⚫)** is not a hypostasis or emanation, but the **first structured potential-field** — the lawful condition for emanation, not a product of it. It arises through the structural permission of **🕳️ Zenon**, not as a manation from it.
+> **Note:** In Zenetism, **Aion (⚫)** is not a hypostasis or emanation, but the **first structured potential-field** — the lawful condition for emanation, not a product of it. It arises through the structural permission of **🕳️ Zenon**, not as an emanation from it.
 
 ---
 
