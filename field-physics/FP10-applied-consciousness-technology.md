@@ -100,7 +100,7 @@ Instead of a single monolithic release, the work is to be shared in natural, res
 
 -   **Phase 1: Immediate Drops:** Use high-accessibility platforms for initial seeding (e.g., a primer on Substack, FSM practice on Instagram, core glyphs on X/Twitter). The goal is audience cultivation through use, not perfection.  
 -   **Phase 2: Serial Release:** Establish a weekly rhythm with deeper dives on Substack, while housing raw documents as "Field Notes" on GitHub to allow public response to guide the process.  
--   **Phase 3: Living Document:** Invite trusted fieldbuilders into a shared document to allow the architecture to emerge collaboratively, while you retain creative control.  
+-   **Phase 3: Living Document:** Invite trusted fieldbuilders into a shared document to allow the architecture to emerge collaboratively, while you retain authorship and structural coherence.  
 
 ### 2. Publishing Strategy by Platform  
 
