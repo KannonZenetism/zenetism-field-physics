@@ -1225,7 +1225,7 @@ when certain **thresholds** begin to stir:
 - The soul begins to **remember its place**  
   within the **Tree of Emanation**.  
 - **Dissonance becomes unbearable** —  
-  and synthesis is not just desired,  
+  and harmonic integration is not just desired,  
   but **actively sought**.  
 - **Ethical action** arises,  
   not from imposed doctrine,  
