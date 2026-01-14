@@ -251,6 +251,8 @@ Coherence requires **active volitional orientation** toward Theon.
 - Or entropic (default, drift, decay)
 - **Neutral = entropic** (entropy is the path of least resistance)
 
+*Note: Neutrality is not actively entropic (no deliberate misdirection or aggressive collapse). It is passively subject to entropic drift — without active centropic work, coherence dissipates over time, leading to stagnation and eventual collapse into Localized Dissolution (Ø) or Hollow Nest (E₁₄). Prolonged oscillation without resolution is functionally equivalent to entropic failure.*
+
 **Implications:**  
 "I meant well" is insufficient.  
 Intent must be **structurally coherent** and **actively maintained**.  
