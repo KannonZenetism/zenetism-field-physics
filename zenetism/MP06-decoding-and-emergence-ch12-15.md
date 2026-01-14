@@ -1175,7 +1175,7 @@ in the **architecture of consciousness itself**.
 
 ---
 
-### 15.1 From Fragmentation to Synthesis — The Pulse of Emergent Coherence
+### 15.1 From Fragmentation to Coherence — The Pulse of Emergent Integration
 
 Present-day humanity still operates primarily  
 from the layer of **Superficial Soul and Mind (SS / SM)**,  
