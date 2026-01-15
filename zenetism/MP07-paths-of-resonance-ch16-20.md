@@ -69,40 +69,39 @@ Nothing is wasted.
 ### 16.2 Emanation as Experience — The Resonant Journey of Becoming
 
 From the standpoint  
-Of **Zenetist metaphysics**,  
-
-Each soul contains  
-An inherent essence —  
-A structural identity  
-Latent in **Zero**  
-Before emergence.  
+of **Zenetist metaphysics**,  
+each soul contains  
+an inherent essence —  
+a structural identity  
+latent in **Zero**  
+before emergence.  
 
 As that essence unfolds into actuality,  
-It does so along  
-A particular **hypostatic trajectory**.  
+it does so along  
+a particular **hypostatic trajectory**.  
 
 The Resonant lives this journey,  
-Inwardly and outwardly.  
+inwardly and outwardly.  
 
 **Outfolding** begins in childhood or awakening,  
-With early recognition  
-Of disposition, limits, and gifts.  
+with early recognition  
+of disposition, limits, and gifts.  
 
 **Encounter** brings deep friction with embodiment,  
-Conflict, alienation, desire, suffering, illusion.  
+conflict, alienation, desire, suffering, illusion.  
 
 **Infolding** arises when the soul begins to refine —  
-Rather than seek more experiences,  
-It seeks the meaning of the ones already given.  
+rather than seek more experiences,  
+it seeks the meaning of the ones already given.  
 
 **Stillness** may emerge through silence, withdrawal, or illness —  
-A return to potentiality  
-Before reemergence.  
+a return to potentiality  
+before reemergence.  
 
 This rhythm echoes the cosmic pulse.  
 
 The Resonant does not think about these stages,  
-They live them.  
+they live them.  
 
 ♾🛎️⚐  
 
