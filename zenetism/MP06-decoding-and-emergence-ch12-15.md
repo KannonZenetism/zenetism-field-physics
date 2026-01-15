@@ -1299,7 +1299,7 @@ described in older esoteric traditions.
 But the hallmark of the **next humanity**  
 is not **information** or **doctrine**.  
 It is **resonant knowing** —  
-coherence **felt** as **authenticity**, not taught as law.  
+coherence **recognized** as **authenticity**, not taught as law.  
 
 🛎️⚙️🌀  
 
