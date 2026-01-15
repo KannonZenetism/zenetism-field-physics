@@ -1528,7 +1528,7 @@ It determines:
 - **Hypostatic placement**  
 - **Coherence fidelity**  
 - The **trajectory of soul-structure** —  
-  whether toward **reintegration** or **fragmentation**  
+  whether toward **centropic return** or **entropic collapse**  
 
 But this process is **not limited** to cosmic finality.  
 A refinement emerges:  
