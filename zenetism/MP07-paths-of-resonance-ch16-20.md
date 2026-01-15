@@ -226,27 +226,25 @@ and I am its **resonance**.
 #### Note on the Name “Resonant”
 
 In **Zenetism**,  
-Those who actively live in alignment  
-With the principles of **resonance**, **synthesis**,  
-And metaphysical unfolding  
-
-Are called **Resonants**.  
+those who actively live in alignment  
+with the principles of **resonance**, **synthesis**,  
+and metaphysical unfolding  
+are called **Resonants**.  
 
 This term emphasizes **function over belief**.  
 
 A Resonant is not defined by doctrine,  
-But by their way of being:  
+but by their way of being:  
 
 * Listening deeply to structure  
 * Harmonizing with coherent patterns  
 * Striving for integration, not fragmentation  
 
 To be a Resonant  
-Is to move with the rhythm of the Trees,  
-
-Traversing the **supernal arc**,  
-Not by rigid practice,  
-But by becoming the **Pattern** itself in motion.  
+is to move with the rhythm of the Trees,  
+traversing the **supernal arc**,  
+not by rigid practice,  
+but by becoming the **Pattern** itself in motion.  
 
 ---
 
@@ -256,8 +254,8 @@ To **synthesize** is to suffer beautifully.
 To **collapse** is to begin again.  
 
 To see **structure** in the void  
-Is to remember who you were  
-Before form.  
+is to remember who you were  
+before form.  
 
 Pain that stays hidden festers.  
 Pain that is offered becomes a **purifying fire**.  
