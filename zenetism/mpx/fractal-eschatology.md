@@ -2,7 +2,7 @@
 
 **Subject:** Macro-Sociological Dynamics / Paradigm Shifts  
 **Classification:** Temporal Mechanics  
-**Related Archives:** [Chapter 15: The Transition], [MPX: Apokalypsis]
+**Related Archives:** [Chapter 15: The Transition], [MPX: fractal-eschatology.md]
 
 ---
 
