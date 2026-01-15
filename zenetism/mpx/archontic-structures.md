@@ -125,7 +125,7 @@ Safe. Ordered. Slowly devoured.
 
 ## 5. The Warrior’s Response
 
-You cannot defeat an Archon with chaos (Nekron);  
+You cannot defeat an Archon with entropy (Nekron);  
 that only justifies its existence:
 
 > *“See? You need my walls.”*
