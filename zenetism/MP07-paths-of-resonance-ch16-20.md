@@ -605,7 +605,7 @@ They may manifest as:
 - Activist  
 - Guardian  
 - Ethical dissenter  
-- Truth-bearer  
+- Coherence-bearer  
 - One who endures hardship  
   for the sake of coherence  
 
