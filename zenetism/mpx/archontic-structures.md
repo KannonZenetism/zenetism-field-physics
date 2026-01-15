@@ -80,7 +80,7 @@ How do you distinguish an Archon from a Guide?
 ## 5. The Warrior’s Response
 
 You cannot defeat an Archon with chaos — that only justifies its existence:  
-> *“See? You need my walls.”*
+> *See? You need my walls.*
 
 You defeat an Archon with **Higher Coherence**.
 
