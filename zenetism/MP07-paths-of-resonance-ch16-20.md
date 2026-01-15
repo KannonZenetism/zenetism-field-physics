@@ -468,7 +468,7 @@ not personalities:
   into centropic offering.  
 - **The Veiled One** —  
   appears ordinary  
-  yet carries hidden synthesis.  
+  yet carries veiled coherence.  
 - **The Cosmic Bridge** —  
   links human perception  
   to the archetypal field  
