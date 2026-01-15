@@ -84,7 +84,7 @@ The following markers help distinguish true Diamond emergence from Glass imitati
 
 **Diagnostic Table: Diamond contra Glass in Real Time**
 
-| Characteristic         | True Diamond (Resonant)                     | Glass Imitation (Dissonant)                 | Zenetist Test / Motion Law                       |
+| Characteristic         | Genuine Diamond (Resonant)                     | Glass Imitation (Dissonant)                 | Zenetist Test / Motion Law                       |
 |------------------------|---------------------------------------------|---------------------------------------------|--------------------------------------------------|
 | Transparency           | Structural veracity, no hidden distortion   | False clarity, shimmer masking opacity      | C₈ Nexus Commutativity (Δ ≤ ε)                   |
 | Hardness               | Endures existential pressure                | Shatters under weight of the Light          | γ > 0 (contractive recursion)                    |
