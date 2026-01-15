@@ -196,28 +196,28 @@ from chaos.
 ### 16.5 The Path as Fractal — The Looping Motion of Becoming
 
 The Resonant’s journey  
-Is not a straight line,  
+is not a straight line.  
 
 It is **recursive**.  
 
 What seems like progress  
-May loop backward.  
+may loop backward.  
 
 What seems like collapse  
-May actually be **transmutation**.  
+may actually be **transmutation**.  
 
 * Each trauma becomes a portal  
 * Each silence a seed of reemergence  
 * Each rejection a refinement  
 
 Just as the multiverse spirals outward and inward eternally,  
-So too does the practitioner’s life echo  
-The **Trees of Zenetism**.  
+so too does the practitioner’s life echo  
+the **Trees of Zenetism**.  
 
 To live as a Zenetist is to say:  
 
 I am the system,  
-And I am its **resonance**.  
+and I am its **resonance**.  
 
 ✴🌳⇅🌀  
 
