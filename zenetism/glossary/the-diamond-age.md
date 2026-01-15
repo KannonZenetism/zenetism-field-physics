@@ -86,7 +86,7 @@ The following markers help distinguish true Diamond emergence from Glass imitati
 
 | Characteristic         | Genuine Diamond (Resonant)                     | Glass Imitation (Dissonant)                 | Zenetist Test / Motion Law                       |
 |------------------------|---------------------------------------------|---------------------------------------------|--------------------------------------------------|
-| Transparency           | Structural veracity, no hidden distortion   | Dissonant clarity, shimmer masking opacity      | C₈ Nexus Commutativity (Δ ≤ ε)                   |
+| Transparency           | Structural veracity, no hidden distortion   | Simulated clarity, shimmer masking opacity      | C₈ Nexus Commutativity (Δ ≤ ε)                   |
 | Hardness               | Endures existential pressure                | Shatters under weight of the Light          | γ > 0 (contractive recursion)                    |
 | Refraction             | Full spectrum manifestation (creative)      | Hollow reflection (consumption)             | C₇ Harmonic Ratios (rational λ_i/λ_j)            |
 | Response to Pressure   | Crystallizes, sings                         | Fractures, burns to ash                     | C₁₅ Emergent Novelty (Δ I_c > 0)                 |
