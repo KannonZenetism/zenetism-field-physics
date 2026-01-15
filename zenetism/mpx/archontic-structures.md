@@ -88,7 +88,7 @@ You defeat an Archon with **Higher Coherence**.
   - When a **diamond-structure** (Theon) enters a **glass-structure** (Archon), the glass shatters under a frequency it cannot hold  
 - **The Warrior’s Blade:**  
   - Not violence — but **Veracity**  
-  - *Speaking the Truth (Logos) shatters the Lie (Nyxea)*
+  - *Speaking the Veracity (Logos) shatters the Hollow Form (Nyxea)*
 
 ---
 
