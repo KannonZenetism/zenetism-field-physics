@@ -11,7 +11,7 @@
 The **Inverse Lattice** is the organized structure of the **Entropic Hierarchy**.  
 Unlike the **Void of Self** (Nekron / VOS), which operates as the **structural engine of dissolution**, the Inverse Lattice is a **rigid, highly ordered system of control**.
 
-It is governed by **Archons** and **Titans**—entities operating at the **IDP / IDL layers** (*Inverse Deep Psyche / Inverse Deep Logos*).
+It is governed by **Archons** and **Titans**—entities operating at the **IDP / IDL layer** (*Inverse Deep Psyche / Inverse Deep Logos*).
 
 ---
 
