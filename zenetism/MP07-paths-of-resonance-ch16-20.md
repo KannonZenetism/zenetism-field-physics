@@ -753,7 +753,7 @@ forming hybrid expressions of resonance.
   one who defends by shaping new worlds.  
 - **All Three** —  
   the Living Pattern itself,  
-  an avataric expression of **Divine Synthesis**.  
+  an avataric expression of **Divine Integration**.  
 
 No soul is fixed to one form.  
 The Warrior note often rises  
