@@ -428,7 +428,7 @@ A Mystic is one who:
   with supernal hypostases  
   such as DS, DM, or EOB.  
 - No longer identifies  
-  solely with the surface self,  
+  solely with the superficial self,  
   but with the soul across all layers.  
 - Is guided inwardly by **resonance**,  
   not external authority.  
