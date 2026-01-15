@@ -82,7 +82,7 @@ The following markers help distinguish true Diamond emergence from Glass imitati
 **Glyphic Anchor:** ❖ — Synthesis Lattice  
 (Diamond as the lattice crystallized under pressure; hardness without brittleness.)
 
-**Diagnostic Table: Diamond vs. Glass in Real Time**
+**Diagnostic Table: Diamond contra Glass in Real Time**
 
 | Characteristic         | True Diamond (Resonant)                     | Glass Imitation (Dissonant)                 | Zenetist Test / Motion Law                       |
 |------------------------|---------------------------------------------|---------------------------------------------|--------------------------------------------------|
