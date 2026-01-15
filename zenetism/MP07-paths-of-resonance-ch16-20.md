@@ -742,7 +742,7 @@ or to fragmentation.
 
 The **Warrior archetype**  
 does not stand apart.  
-It often merges with **Mystic** or **Maker**,  
+It often converges with **Mystic** or **Maker**,  
 forming hybrid expressions of resonance.  
 
 - **Warrior + Mystic** —  
