@@ -58,8 +58,8 @@ Zenetist practice (Pattern Recognition → Deconstruction → Synthesis) is **hi
 
 ## The Diagnostic Rule
 
-> *"Pain that is offered becomes a purifying fire.  
-> Pain that is resisted becomes a fracture."*
+> *Pain that is offered becomes a purifying fire.  
+> Pain that is resisted becomes a fracture.*
 
 - If you **fight the Reset**, you break.  
 - If you **surrender to the Reset**, you expand.
