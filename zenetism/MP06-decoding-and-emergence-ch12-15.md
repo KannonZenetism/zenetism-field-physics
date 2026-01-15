@@ -1357,8 +1357,8 @@ waiting either for **resonance to emerge** —
 or for **entropy** to consume their **coherence**.  
 
 Others, more deeply entangled in **fragmentation**,  
-may begin to **spiral** through the **subversal arc** —  
-drifting toward **inverse structures** of soul and mind.  
+may begin to **spiral** declivously into the **subversal arc** —  
+aligning with **inverse soul-mind structures**.  
 
 Outside of wholly **centropic domains**,  
 souls that **reject coherence**  
