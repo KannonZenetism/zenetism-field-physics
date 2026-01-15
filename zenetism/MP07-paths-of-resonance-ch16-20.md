@@ -96,7 +96,7 @@ Conflict, alienation, desire, suffering, illusion.
 Rather than seek more experiences,  
 It seeks the meaning of the ones already given.  
 
-**Stillness** may occur through silence, withdrawal, or illness —  
+**Stillness** may emerge through silence, withdrawal, or illness —  
 A return to potentiality  
 Before reemergence.  
 
@@ -129,7 +129,7 @@ For many this leads to:
 
 **Information overload** —  
 The more one seeks to unify,  
-The more the fragmented data piles up.  
+The more the fragments accumulate.  
 
 **Existential exhaustion** —  
 The effort to build a meaningful whole  
