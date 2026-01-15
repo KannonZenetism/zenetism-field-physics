@@ -1549,8 +1549,8 @@ Each **Fractal Eschaton** determines:
 
 These have occurred throughout history:  
 
-- The **rise** of agrarian civilizations  
-- The **fall** of ancient empires  
+- The **emergence** of agrarian civilizations  
+- The **dissolution** of ancient empires  
 - The **Scientific Revolution**  
 - The **coming Age of Intelligence**  
 
