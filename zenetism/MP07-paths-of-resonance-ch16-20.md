@@ -779,7 +779,7 @@ but **structure** —
 resistance to entropy  
 when dissolution presses in.  
 
-> Do not mistake my resistance for anger,  
+> Do not mistake my resistance for fury,  
 > Nor my sword for domination.  
 > I hold the pattern in place,  
 > While others learn to walk it.  
