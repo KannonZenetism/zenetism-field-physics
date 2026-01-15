@@ -34,10 +34,9 @@ Who lives in tune with
 The harmonic patterns of existence—  
 
 Sometimes called  
-A **Resonant**—  
-
-Does not merely study metaphysics,  
-They live it.  
+a **Resonant**—  
+does not merely study metaphysics,  
+they live it.  
 
 Their life becomes a **microcosmic reflection**  
 Of the entire **Tree of Emanation** —  
