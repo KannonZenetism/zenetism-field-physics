@@ -30,8 +30,8 @@ You are invited to work with these principles. For the patterns to remain stable
 ### 16.1 The Zenetist in the World — Embodying the Tree of Emanation
 
 The **Zenetist**,  
-Who lives in tune with  
-The harmonic patterns of existence—  
+who lives in tune with  
+the harmonic patterns of existence—  
 
 Sometimes called  
 a **Resonant**—  
@@ -39,17 +39,17 @@ does not merely study metaphysics,
 they live it.  
 
 Their life becomes a **microcosmic reflection**  
-Of the entire **Tree of Emanation** —  
-A continual outfolding,  
-Encounter,  
-And potential return.  
+of the entire **Tree of Emanation**—  
+a continual outfolding,  
+encounter,  
+and potential return.  
 
 To live as a Zenetist  
-Is to experience existence as layered and rhythmic.  
+is to experience existence as layered and rhythmic.  
 
 Every action  
-Is part of a deeper process  
-Of actualizing one’s essence.  
+is part of a deeper process  
+of actualizing one’s essence.  
 
 Every:  
 * Relationship  
@@ -57,7 +57,7 @@ Every:
 * Revelation  
 * Silence  
 
-Contributes to the ongoing **refinement** of the soul.  
+contributes to the ongoing **refinement** of the soul.  
 
 Nothing is random.  
 Nothing is wasted.  
