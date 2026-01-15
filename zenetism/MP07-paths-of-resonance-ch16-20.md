@@ -110,41 +110,41 @@ they live them.
 ### 16.3 The Pain of Synthesis — The Fracture That Precedes Return
 
 **Zenetist synthesis**  
-Is not a casual task.  
+is not a casual task.  
 
 To live as a Resonant  
-Is to encounter **fragmentation** directly.  
+is to encounter **fragmentation** directly.  
 
 The drive to understand,  
-To see structure behind conflicting:  
+to see structure behind conflicting:  
 * Traditions  
 * Symbols  
 * Doctrines  
 
-Is immense.  
+is immense.  
 
 For many this leads to:  
 
 **Information overload** —  
-The more one seeks to unify,  
-The more the fragments accumulate.  
+the more one seeks to unify,  
+the more the fragments accumulate.  
 
 **Existential exhaustion** —  
-The effort to build a meaningful whole  
-From discordant parts  
-Can feel overwhelming.  
+the effort to build a meaningful whole  
+from discordant parts  
+can feel overwhelming.  
 
 **Absolute dispersion** —  
-Not just burnout,  
-But metaphysical fragmentation,  
-Where no path seems viable,  
-And **synthesis collapses** into silence.  
+not just burnout,  
+but metaphysical fragmentation,  
+where no path seems viable,  
+and **synthesis collapses** into silence.  
 
 This phase is not failure.  
 
 It is **Aion** —  
-The Zero-state  
-From which genuine reintegration may arise.  
+the Zero-state  
+from which genuine reintegration may arise.  
 
 ⚫↺∴  
 
