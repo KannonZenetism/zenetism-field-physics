@@ -426,7 +426,7 @@ A Mystic is one who:
   even when surrounded by fragmentation.  
 - Encounters direct union  
   with supernal hypostases  
-  such as Deep Soul, Deep Mind, or Theon.  
+  such as DS, DM, or EOB.  
 - No longer identifies  
   solely with the surface self,  
   but with the soul across all layers.  
