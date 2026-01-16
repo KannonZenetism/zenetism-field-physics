@@ -245,7 +245,7 @@ not a station of being.
 |----------|------------|-------------|
 | **Potential Infinity** | ♾ Khaon (Latent) | All that could be manifested or formed; pure potential |
 | **Motive Infinity** | ♾ Khaon (Motive) | The drive or force behind dispersal; potential's initiating impulse |
-| **Dispersive Infinity** | ♾ Khaon (Dispersive) | The actual scattering of structure and pattern into incoherence |
+| **Dispersive Infinity** | ♾ Khaon (Dispersive) | The actual scattering of form and pattern into incoherence |
 | **Unified Symbol** | ♾ Khaon (Absolute Dispersion) | Symbolic totality of all potential and motion |
 
 | Symbol | Phase | Function |
