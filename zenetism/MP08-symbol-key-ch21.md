@@ -100,7 +100,7 @@ even where internal punctuation is present.
 
 | Process | Name | Glyph | Meaning |
 |---------|------|-------|---------|
-| Centropic expansion toward synthesis | **Acclivous Centropy** | C↑⚫ | Rising integrative motion toward ⚫ Aion |
+| Centropic expansion toward coherence | **Acclivous Centropy** | C↑⚫ | Directed integrative motion toward ⚫ Aion |
 | Entropic collapse toward dissolution | **Declivous Entropy** | E↓♾ | Disintegrative collapse toward ♾ Khaon |
 | Centropic motion toward embodiment | **Declivous Centropy** | C↓→E | Harmonious motion into form |
 | Entropic motion into decoherent embodiment | **Acclivous Entropy** | E↑→E | Fragmentary motion into form |
