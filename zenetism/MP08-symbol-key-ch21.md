@@ -71,7 +71,7 @@ even where internal punctuation is present.
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
-| 🕳️ | **Zenon** | The Unknown Principle; beyond potential, non-ordinal origin, trans-structural ground |
+| 🕳️ | **Zenon** | The Unknown Principle; trans-structural, beyond potential, unseen ground of manifest reality. Not an emanative source, but the unapproachable root |
 | ⦿ | **Kaion** | The Convergence Principle; unified stillness where absolute centropic fullness and absolute entropic completion resolve; the silence of finality |
 | ⚫ | **Aion** | Zero, Absolute Potential; stillness at the root of all emanation |
 | ♾ | **Khaon** | Infinity, Absolute Dispersion; completion of form through total release |
