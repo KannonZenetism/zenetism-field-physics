@@ -195,7 +195,7 @@ in this volume.
 | ↕️ | **Convergence Axis** | Intersection of centropic and entropic currents (mapped to ES / EM) |
 | ⇋ | **Harmonic Feedback** | Resonance between soul layers (e.g., SS / SM ↔ DS / DM) |
 | ⬶ | **The Recursive Hinge** | Soft transition point; conceptual pivot between structural zones; temporal breath glyph used to mediate density or reentry |
-| ☯️ | **Dual Patterning** | Tensional unity of opposites; coherence emerging through contradiction; latent synthesis within ⚫ Aion |
+| ☯️ | **Dual Patterning** | Tensional unity of opposites; coherence emerging through contradiction; latent coherence within ⚫ Aion |
 
 ---
 
