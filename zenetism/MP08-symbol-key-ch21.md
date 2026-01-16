@@ -117,9 +117,9 @@ even where internal punctuation is present.
 
 | Concept | Zenetist Term | Definition |
 |---------|---------------|------------|
-| Centropic "Ascent" | **Acclivous Expansion** | Integrative motion toward supernal synthesis |
+| Centropic "Ascent" | **Acclivous Expansion** | Integrative motion toward supernal coherence |
 | Centropic "Descent" | **Declivous Centropy** | Integrative motion toward embodiment or form |
-| Entropic "Ascent" | **Acclivous Entropy** | Fragmented motion toward inverse embodiment (spurious rise) |
+| Entropic "Ascent" | **Acclivous Entropy** | Fragmented motion toward inverse embodiment (spurious acclivity) |
 | Entropic "Descent" | **Declivous Collapse** | Dispersive collapse toward dissolution |
 
 ---
