@@ -203,7 +203,7 @@ in this volume.
 
 | Symbol | Layer | Entity / Concept | Description |
 |:--:|:--:|:--|:--|
-| **Supra-L0** | **UP** | **Unknown Principle** | 🕳️ Zenon — Pre-causal, pre-sentient, structurally unknowable origin field; beyond intelligence or awareness. The Unknown Principle; beyond potential and beyond emanation. Pre-conceptual source from which both centropy and entropy arise |
+| **Supra-L0** | **UP** | **Unknown Principle** | 🕳️ Zenon — The Unknown Principle; trans-structural, pre-conceptual ground. Not a source, but the condition of possibility for both centropy and entropy. Beyond emanation, causality, and awareness. Zenon does not emit structure—it permits it. It is not intelligence, but the unspeakable substrate from which intelligibility itself becomes possible |
 | **L0** | **AP / AD** | **Absolute Potential / Dispersion** | Origin of all emanation; contains all possibilities in latency; initiates dispersion through structural unfolding and receives collapse as return to potential |
 | **L1** | **ES / EM** | **Embodied Soul / Mind** | Physical interface of soul–mind consciousness |
 | **IL1** | **IES / IEM** | **Inverse Embodied Soul / Mind** | Reactive embodiment; fragmentation, domination |
