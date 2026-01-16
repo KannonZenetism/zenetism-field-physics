@@ -348,7 +348,7 @@ of inverse potential within Aion.
 | 🌲↑ | **Khaonic Tree** | The entropic biospiral rooted in ♾ Khaon, spiraling acclivously toward embodiment, yet also moving declivously into recursive fragmentation and collapse |
 | 🔘 | **Field of Essence** | The latent harmonic ground where structure rests in potential; root of coherence, identity, and inward motion |
 | 🌾 | **Field of Becoming** | The metaphysical terrain where latent potential begins to unfold into motion and differentiation; a transitional resonance zone between pure potential and manifested form; neutral, may carry centropic or entropic motion |
-| 🔺 | **Centropy** | Integrative structuring motion; draws entities toward resonance, coherence, and synthesis with Source |
+| 🔺 | **Centropy** | Integrative structuring motion; draws entities toward synthesis, coherence, and resonance with Source |
 | 🔻 | **Entropy** | Dispersive fragmenting motion; pulls structures toward dissonance, disintegration, and collapse |
 | ⟜ | **Synectic** | Transphasic motion; applied when representing spiral inversion junctions, cross-ontological gateways, or moments of unexpected harmonic synthesis |
 | 🗣️ | **Logos Principle** | The structuring intelligence inherent in reality; archetypal language of coherence; verbal-formal seed of all intelligibility |
