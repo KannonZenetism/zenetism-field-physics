@@ -73,7 +73,7 @@ even where internal punctuation is present.
 |--------|------|---------|
 | 🕳️ | **Zenon** | The Unknown Principle; trans-structural, beyond potential, unseen ground of manifest reality. Not an emanative source, but the unapproachable root |
 | ⦿ | **Kaion** | The Convergence Principle; unified stillness where absolute centropic fullness and absolute entropic completion resolve; the silence of finality |
-| ⚫ | **Aion** | Zero, Absolute Potential; stillness at the root of all emanation |
+| ⚫ | **Aion** | Zero, Absolute Potential; stillness underpinning all emanation |
 | ♾ | **Khaon** | Infinity, Absolute Dispersion; completion of form through total release |
 | 🛤️ | **Theon** | Gateway to supernal integration, refinement, and centropic passage |
 | 🕷️ | **Nekron** | Web of entropic pull; devourer of coherence |
