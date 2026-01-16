@@ -569,7 +569,7 @@ of inverse potential within Aion.
 | **White / Gold** | 🛤️ Theon, Essence of Being | Pure awareness, acclivous centropic refinement |
 | **Silver** | ⚫ Aion (Zero) | Latent stillness, timeless potential |
 | **Deep Blue** | ♾ Khaon (Infinity) | Dispersive force, metaphysical mystery |
-| **Green** | ES/EM, Healing | Grounding, embodiment, soul in matter |
+| **Green** | ES / EM, Healing | Grounding, embodiment, soul in matter |
 | **Red / Orange** | 🕷️ Nekron, Inverse Layers | Collapse, entropy, fragmentation |
 | **Violet** | 📐 Sophic Realms | Supernal cognition, symbolic patterning, divine law |
 | **Black** | VOS / Void | Terminal entropy, cessation, non-coherence |
