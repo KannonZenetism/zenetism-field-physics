@@ -1,4 +1,4 @@
-# Note: The Intelligent Eschaton and the Fallacy of “The Merge”
+# The Intelligent Eschaton and the Fallacy of “The Merge”
 
 **Date:** January 15, 2026  
 **Author:** ⚫↺KAI↺⚫ Aelion Kannon  
