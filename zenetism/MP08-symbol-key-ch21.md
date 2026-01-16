@@ -203,18 +203,18 @@ in this volume.
 
 | Symbol | Layer | Entity / Concept | Description |
 |:--:|:--:|:--|:--|
-| **Supra-L0** | **UP** | **Unknown Principle** | 🕳️ Zenon — The Unknown Principle; trans-structural, pre-conceptual ground. Not a source, but the condition of possibility for both centropy and entropy. Beyond emanation, causality, and awareness. Zenon does not emit structure—it permits it. It is not intelligence, but the unspeakable substrate from which intelligibility itself becomes possible |
-| **L0** | **AP / AD** | **Absolute Potential / Dispersion** | Origin of all emanation; contains all possibilities in latency; initiates dispersion through structural unfolding and receives collapse as return to potential |
-| **L1** | **ES / EM** | **Embodied Soul / Mind** | Physical interface of soul–mind consciousness |
-| **IL1** | **IES / IEM** | **Inverse Embodied Soul / Mind** | Reactive embodiment; fragmentation, domination |
-| **L2** | **SS / SM** | **Superficial Soul / Mind** | Personality, identity, social self |
-| **IL2** | **ISS / ISM** | **Inverse Superficial Soul / Mind** | Fanaticism, subversal patterning, illusion-bound identity |
-| **L3** | **DS / DM** | **Deep Soul / Mind** | Coherent structural self, aligned with inner harmony |
-| **IL3** | **IDS / IDM** | **Inverse Deep Soul / Mind** | Corrupted intelligence; ideological manipulation |
-| **L4** | **DP / DL** | **Deep Psyche / Logos** | Archetypal Forms and harmonic intelligence |
-| **IL4** | **IDP / IDL** | **Inverse Deep Psyche / Logos** | Distorted systems, subversal archetypes, authoritarian Forms |
-| **L5** | **EOB** | **Essence of Being (+1)** | 🛤️ Theon — the First Centropic Hypostasis |
-| **IL5** | **VOS** | **Void of Self (−1)** | 🕷️ Nekron — the First Entropic Hypostasis |
+| **Supra-L0** | **UP** | **Unknown Principle** | 🕳️ Zenon — The Unknown Principle; trans-structural, pre-conceptual ground. Not a source, but the condition of possibility for both centropy and entropy. Beyond emanation, causality, and awareness. Zenon does not emit structure—it permits it. It is not intelligence, but the unspeakable substrate from which intelligibility itself becomes possible. |
+| **L0** | **AP / AD** | **Absolute Potential / Dispersion** | ⚫ Aion / ♾ Khaon — Root polarity; Aion as stillness at the origin of structure, Khaon as unbound divergence. L0 holds all potential in latency and frames both centropic emergence and entropic return. |
+| **L5** | **EOB** | **Essence of Being** | 🛤️ Theon — The first centropic hypostasis; origin of lawful structure, coherence, and motion. |
+| **IL5** | **VOS** | **Void of Self** | 🕷️ Nekron — The first entropic hypostasis; initiator of collapse through inversion of form and withdrawal of coherence. |
+| **L4** | **DP / DL** | **Deep Psyche / Logos** | Archetypal pattern field and harmonic logic; the structural lattice of meaning and Form. |
+| **IL4** | **IDP / IDL** | **Inverse Deep Psyche / Logos** | Distorted archetypes; mimetic systems, subversal Forms, and authoritarian encoding. |
+| **L3** | **DS / DM** | **Deep Soul / Mind** | The harmonic self; stable identity aligned with resonance and structural memory. |
+| **IL3** | **IDS / IDM** | **Inverse Deep Soul / Mind** | Ideological distortion; corrupted cognition, identity manipulation. |
+| **L2** | **SS / SM** | **Superficial Soul / Mind** | Personality, ego, social roles; interface of selfhood. |
+| **IL2** | **ISS / ISM** | **Inverse Superficial Soul / Mind** | Reactive identity; illusion-bound self, fanatical roles. |
+| **L1** | **ES / EM** | **Embodied Soul / Mind** | Interface of incarnation; physical form expressing soul–mind presence. |
+| **IL1** | **IES / IEM** | **Inverse Embodied Soul / Mind** | Fragmentation, domination, and reactive embodiment; entropic externalization. |
 
 ---
 
