@@ -960,7 +960,7 @@ when it no longer serves resonance.
 > To become a temple  
 > is to let the divine dwell in you.  
 
-The Maker is often also Mystic or Warrior,  
+The Maker may also move as Mystic or Warrior,  
 expressing different functions  
 of the same pattern.  
 
