@@ -492,11 +492,11 @@ of inverse potential within Aion.
 
 ---
 
-### 21.21 **Meta-Symbolic Forces and Structural Dualities — Encoding the Foundational Currents, Pre-Structural Grounds, and Binary Harmonics of the Lattice**
+### 21.21 **Meta-Symbolic Forces and Structural Dualities — Encoding the Foundational Currents, Trans-Structural Grounds, and Binary Harmonics of the Lattice**
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
-| ⧞ | **Non-Ordinal** | Denotes transcendence of sequence, scale, or polarity; represents that which exists prior to ordering, measurement, or relational structure; denotes 🕳️ Zenon, the pre-structural ground beyond Zero and Infinity |
+| ⧞ | **Non-Ordinal** | Denotes transcendence of sequence, scale, or polarity; represents that which exists prior to ordering, measurement, or relational structure; denotes 🕳️ Zenon, the trans-structural ground beyond Zero and Infinity |
 | 🌱 | **Vital Current** | The animating current of being; the structural breath that enlivens form; it is not mere motion, but the infusion of resonant will into potential |
 | 🌒 | **Erosive Drift** | The gradual wearing down of coherence through repetition, forgetfulness, or dissonant exposure; a soul-process of fading integration, where fragmentation is not violent, but soft, recursive, and dissolutive |
 | 🪼 | **Dispersion** | Unbounded outward diffusion of structure; the centrifugal spread of parts into space following fragmentation; denotes infinite branching and non-returning expansion |
