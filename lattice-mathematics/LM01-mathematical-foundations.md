@@ -137,23 +137,23 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### D1. Poles & Axes
 
-- ⚫ Aion (Zero) and ♾ Khaon (Infinity) at L₀  
-- 🛤️ Theon anchors centropic axis (L₁↔L₅)  
-- 🕷️ Nekron anchors entropic axis (IL₁↔IL₅)  
+- ⚫ **Aion** (Zero) and ♾ **Khaon** (Infinity) at L₀  
+- 🛤️ **Theon** anchors the centropic axis (L₀ ↔ L₅)  
+- 🕷️ **Nekron** anchors the entropic axis (IL₅ ↔ IL₁)
 
 ### D2. Banding
 
-- **Source Band:** L₀ (Aion ⚫ / Khaon ♾ / Zenon 🕳️ — AP / AD: Absolute Potential / Dispersion)  
-- **Embodiment Band:** L₁ (Soma / Biosa — ES / EM)  
-- **Superficial Band:** L₂ (Anthra / Nousa — SS / SM)  
-- **Interface Band:** L₃ (Archeus / Noeüs — Deep Soul / Deep Mind — DS / DM — reflexive consciousness)  
-- **Architectural / Archetypal Band:** L₄ (Sophis / Morgis — Deep Psyche / Logos — DP / DL — conscious-awareness, non-reflexive)  
-- **Threshold Band:** L₅ (Theon 🛤️ / Nekron 🕷️ — EOB / VOS; membranes, recursion, emergence)  
-- **Inverse Bands:** IL₁–IL₅ (IES / IEM, ISS / ISM, IDS / IDM, IDP / IDL, Nekron 🕷️)  
+- **Source Band:** Supra-L₀ / L₀ (Zenon 🕳️ / Aion ⚫ / Khaon ♾ — UP / AP / AD: Unknown Principle / Absolute Potential / Absolute Dispersion)  
+- **Threshold Band:** L₅ (Theon 🛤️ — EOB: Essence of Being)  
+- **Architectural / Archetypal Band:** L₄ (Sophis / Morgis — Deep Logos / Deep Psyche — DL / DP)  
+- **Interface Band:** L₃ (Archeus / Noeüs — Deep Soul / Deep Mind — DS / DM — reflexive coherence)  
+- **Superficial Band:** L₂ (Anthra / Nousa — Superficial Soul / Mind — SS / SM)  
+- **Embodiment Band:** L₁ (Soma / Biosa — Embodied Soul / Mind — ES / EM)  
+- **Inverse Bands:** IL₅–IL₁ (Nekron 🕷️; IDP / IDL, IDS / IDM, ISS / ISM, IES / IEM)  
 
 ### D3. Dimensional Registry (C₁–C₁₅ / E₁–E₁₅)
 
-- Each centropic dimension defined with locus, couplings, mirror mapping  
+- Each centropic dimension defined by locus, couplings, and functional role  
 - Each entropic mirror inherits locus inversely with counter-couplings  
 
 ### D4. Inlay Map (Layers × Dimensions)
@@ -162,23 +162,23 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 - **L₂ (Superficial Band):** C₁, C₂, C₃, C₅, C₇, C₈, C₉, C₁₄ ↔ E₁, E₂, E₃, E₅, E₇, E₈, E₉, E₁₄  
 - **L₃ (Interface Band):** C₁, C₈, C₁₁, C₁₂ ↔ E₁, E₈, E₁₁, E₁₂  
 - **L₄ (Architectural / Archetypal Band):** C₁₀, C₁₂, C₅ ↔ E₁₀, E₁₂, E₅  
-- **L₅ (Threshold Band):** C₆, C₁₃, C₁₄, C₁₅ ↔ E₆, E₁₃, E₁₄, E₁₅
+- **L₅ (Threshold Band):** C₆, C₁₃, C₁₄, C₁₅ ↔ E₆, E₁₃, E₁₄, E₁₅  
 
 ### D5. Interaction Laws
 
-- Consonance Law (C₇)  
-- Nexus Law (C₈)  
-- Non-Local Unity Law (C₉)  
-- Morphogenetic Law (C₁₀)  
-- Vector Integrity Law (C₁₁)  
-- Threshold Law (C₁₃–C₁₅)  
+- **Consonance Law** (C₇)  
+- **Nexus Law** (C₈)  
+- **Non-Local Unity Law** (C₉)  
+- **Morphogenetic Law** (C₁₀)  
+- **Vector Integrity Law** (C₁₁)  
+- **Threshold Law** (C₁₃–C₁₅)  
 
 ### D6. Mathematical Correspondences
 
 - **Poles:** Zero / Infinity = additive identity / asymptotic bound  
-- **Centropic dimensions:** map to operators (\( \partial/\partial t \), metrics \( g_{ij} \), Fourier, eigenvalues, fractals, bifurcations)  
+- **Centropic dimensions:** map to operators (\( \partial / \partial t \)), metrics (\( g_{ij} \)), Fourier transforms, eigenvalues, fractals, bifurcations  
 - **Entropic mirrors:** map to degenerate forms (non-convergent series, noise, singularities)  
-- **Interaction laws:** correspond to eigenvalue conditions, compatibility constraints, and boundary value problems  
+- **Interaction laws:** correspond to eigenvalue conditions, compatibility constraints, and boundary-value problems  
 
 ---
 
