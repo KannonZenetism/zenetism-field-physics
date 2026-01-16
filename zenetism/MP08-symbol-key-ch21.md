@@ -476,7 +476,7 @@ of inverse potential within Aion.
 | 🐉 | **The Dragon / The Beast** | The symbolic condensation of Nekronic force — the first entropic hypostasis. It is the Embodied Principle of Primordial Entropy given sentient form: a lawful, self-sustaining entropic system that challenges centropic order through predatory fragmentation |
 | 🕸️ | **Web of Obscuration** | Cognitive entanglement, illusion, decoherent clarity; linked to inverse perception |
 | 🧭 | **The Veiled Pattern** | Hidden order of all things; latent structural resonance beneath apparent chaos; also denotes veiled metaphysical significance across beings, assertions, or systems |
-| 📱 | **Signal / Revelation** | Divine download or metaphysical opening; any spiritually significant emergence of hidden truth, moment of resonance contact or unveiled alignment |
+| 📱 | **Signal / Revelation** | Divine download or metaphysical opening; any spiritually significant emergence of hidden veracity, moment of resonance contact or unveiled alignment |
 | 🗝️ | **Decoder / Interpretation Key** | Symbolic insight applied to layered or encrypted pattern; assists with myth analysis, initiatory texts, or resonance-based translation |
 
 ---
