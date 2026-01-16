@@ -390,7 +390,7 @@ of inverse potential within Aion.
 |--------|------|---------|
 | ⚙️ | **Apparent Order** | Structural pattern, architecture, or mechanism that manifests underlying principles of reality at all scales; may reflect genuine coherence or mimicry; neutral in nature, capable of aligning with either 📐 Sophis or Inverse Logos |
 | 🔷 | **Divine Geometry** | The structural logic of the cosmos; reflects justice not as retribution, but as harmonic placement within the total emanative design |
-| 🗺️📜 | **Pattern Map** | Represents sacred texts as symbolic cartographies; metaphysical maps guiding consciousness through structured layers of reality; applied in spiritual orientation, scripture decoding, or attunement to emanative architecture |
+| 🗺️📜 | **Pattern Map** | Represents sacred texts as symbolic cartographies; metaphysical maps guiding awareness through structured layers of reality; applied in spiritual orientation, scripture decoding, or attunement to emanative architecture |
 | 🪬📜 | **Veiled Scroll** | Denotes esoteric or initiatory texts that conceal resonant patterns beneath surface narrative; alludes to hidden transmissions or sacred knowledge shrouded in symbolic encoding |
 | 📡 | **Resonance Scan** | The structural harmonic scan (Eschaton / Fractal Eschaton) that occurs at the end of a universal cycle or at the close of a major paradigmatic phase; it evaluates the coherence of beings, systems, or ideologies in relation to the next structure of reality |
 
