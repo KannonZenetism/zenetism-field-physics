@@ -716,7 +716,7 @@ Divine wisdom.
 Emanated light misoriented into form.  
 
 **Function**  
-Archetypal intelligence of redemptive integration,  
+Archetypal intelligence of integrative return,  
 yet vulnerable to distortion through overreach.  
 
 **Zenetist Placement**  
@@ -729,7 +729,7 @@ Divine insight split, but never severed from centropic origin.
 Her myth encodes overextension’s tragedy and restoration’s beauty.  
 
 **Ethical Orientation**  
-Dual — dependent on resonance and state.  
+Dual — dependent on orientation and resonance.  
 
 **Symbolic Counterparts**  
 Isis  
@@ -751,7 +751,7 @@ Spurious creator of dissonant constructs.
 **Function**  
 Architect of separation.  
 Imitates divine sovereignty without resonance.  
-Creates constructs that mimic order while encoding dissonance.  
+Creates constructs that mimic order while encoding entropic dissonance.  
 
 **Zenetist Placement**  
 **IDP / IDL** (Psychea / Nyxea)  
@@ -791,7 +791,7 @@ Patterned light before distortion.
 **Justification**  
 The Aeons reflect Logos and Psyche in a pure, structured state.  
 Aligned with centropy across mind and soul layers.  
-Bridges between Source and manifest realms.  
+Bridges between Source and manifest layers.  
 
 **Ethical Orientation**  
 Centropic.  
@@ -855,7 +855,7 @@ Governs cycles, time, and limitation.
 Saturn is the arc of Logos turned inward —  
 structure preserving coherence becomes rigid,  
 and rigidity collapses to dispersal.  
-Measures time and the decay time brings.  
+Measures time and the decay time induces.  
 
 **Ethical Orientation**  
 Centropic → entropic.  
