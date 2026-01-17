@@ -898,7 +898,7 @@ of spiritual memory, pattern-identity, and harmonic evolution.
 
 | Layer | Zenetist Term | Structural Role | Expression |  
 |---|---|---|---|
-| L3 | DS / DM | Deep Soul / Deep Mind | Archeus and Noeüs together form the individualized centropic intelligence known as the Oversoul. They act as anchor and compass for the embodied self, integrating all experience across universes into a unified field of becoming. They do not dominate the subsequent layers, but guide and reabsorb them through harmonic synthesis |
+| L3 | DS / DM | Deep Soul / Deep Mind | Archeus and Noeüs together form the individualized centropic intelligence known as the Harmonic Self-Field. They act as anchor and compass for the embodied self, integrating all experience across universes into a unified field of becoming. They do not dominate the subsequent layers, but guide and reabsorb them through harmonic synthesis |
 
 ---
 
