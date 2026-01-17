@@ -48,7 +48,7 @@ They are **positions**:
 
 - **Centropic** or entropic  
 - **Harmonic** or fragmenting  
-- **Acclivous** toward synthesis  
+- **Acclivous** toward integration  
 - **Declivous** into dispersion  
 
 Many mythic figures and story arcs are not historical claims.  
