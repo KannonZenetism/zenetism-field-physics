@@ -605,7 +605,7 @@ The zero-point field from which centropy and entropy emerge.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| L0 | Aion (AP) | Absolute Potential (Zero) | Aion is silent potential. It contains motion, but does not move. It holds entropy and centropy in latency. Stillness containing all future structure |
+| L0 | Aion (AP) | Absolute Potential (Zero) | Aion is silent potential. It contains motion, but does not move. It holds entropy and centropy in latency. Stillness containing the unexpressed architecture of form |
 
 ---
 
