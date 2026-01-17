@@ -1535,7 +1535,7 @@ It seeks only to devour.
 - The centropic Tree synthesizes **acclivously** toward Zenon.  
 - The entropic Tree collapses **declivously** toward Absolute Dispersion through decoherence.  
 - **AMI** — the undivided field of Aion and Khaon — is pre-dual but structured.  
-- It unfolds into ordered coherence in Theon (**AUI**) and inversely mirrored in Nekron (**IAUI**).  
+- It unfolds into ordered coherence in Theon (**AUI**) and is inversely mirrored in Nekron (**IAUI**).  
 - Plotinus’ *One beyond Being* corresponds to Zenon.  
 - **Nous** aligns with Theon; **World Soul** aligns with DP / DL.  
 
