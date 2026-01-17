@@ -329,7 +329,7 @@ depending on its active role and tone.
 |---|---|---|
 | 🕳️ Zenon (UP) | The Unknown God, Nirguna Brahman, Deus Absconditus, Tao, Ein | The principle beyond principles |
 | ⚫ Aion (AP) | Ain Soph, Saguna Brahman, Bythos, Aditi, Nun | Infinite potential, source of all motion |
-| ♾ Khaon (AD) | Prakriti, Chaos, Tiamat, Ymir, Sunyata, Ouroboros | Dispersive potential, formless power |
+| ♾ Khaon (AD) | Prakriti, Chaos, Tiamat, Ymir, Sunyata, Ouroboros | Proto-formal potential, dispersive ground |
 | 🛤️ Theon (EOB) | Christ, Vishnu, Amitabha, Ahura Mazda | Pure Being, integrative awareness |
 | DP / DL | YHWH, Demiurge, Nous, Mahat, Vohu Manah | Archetypal mind and divine intellect |
 | DS / DM | Bodhisattvas, Thoth, Archangels, Daemon | Soul harmonics and guiding intellects |
