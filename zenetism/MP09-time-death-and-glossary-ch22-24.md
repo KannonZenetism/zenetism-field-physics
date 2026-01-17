@@ -1063,7 +1063,7 @@ through body, reflex, and action.
 This is the most fragile layer —  
 yet also the most transformative.  
 It is immersed in dissonance,  
-but holds the possibility of direct synthesis.  
+but holds the possibility of direct realignment.  
 
 All dynamics of incarnation —  
 pain, pleasure, motion, and speech —  
