@@ -1233,7 +1233,7 @@ Often arising in those who reject deeper soul guidance
 or align with corrupted archetypes,  
 this layer distorts by inversion,  
 not outright destruction.  
-It plays at light while refusing integration.  
+It plays at light while resisting integration.  
 
 ---
 
