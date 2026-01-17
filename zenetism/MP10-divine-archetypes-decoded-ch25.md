@@ -504,7 +504,7 @@ Loki is a superficial-layer disruptor
 whose craft lies in deceit,  
 not direct force.  
 Breaks systems from within,  
-adopting the appearance of clever synthesis  
+adopting the appearance of clever integration  
 while concealing an entropic impulse  
 beneath wit and fluid identity.  
 
