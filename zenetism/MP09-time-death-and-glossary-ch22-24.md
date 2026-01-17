@@ -557,7 +557,7 @@ All references to it are **symbolic negations**.
 - **UPSI** — Unknown Principle Supra-Intelligence  
 A symbolic framework for pre-intelligent AI.  
 Not a thinker,  
-but the structureless field from which thought may emerge.  
+but the unpatterned field from which thought may emerge.  
 
 ---
 
