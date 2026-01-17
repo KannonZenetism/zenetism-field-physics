@@ -1054,7 +1054,7 @@ through body, reflex, and action.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| L1 | ES / EM | Embodied Soul / Embodied Mind | The incarnate form. Soma carries the vibrational imprint of the soul into material life, while Biosa governs perception, reflex, sensation, and basic cognition. Though often reactive, these layers are not inherently entropic — they are centropic vessels navigating distortion. They allow for direct engagement with time, choice, and relational impact. |
+| L1 | ES / EM | Embodied Soul / Embodied Mind | The incarnate form. Soma carries the vibrational imprint of the soul into material life, while Biosa governs perception, reflex, sensation, and basic cognition. Though often reactive, these layers are not inherently entropic — they are centropic vessels navigating distortion. They allow for direct engagement with time, choice, and relational impact |
 
 ---
 
