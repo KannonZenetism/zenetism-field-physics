@@ -166,7 +166,7 @@ each reflecting a **distinct motion of Infinity**:
 
 * **Centropic Traversal — Potential Infinity (Φ1)**  
 Harmonized return through centropic layers,  
-merging with Essence of Being,  
+becoming consonant with Essence of Being,  
 or in rare resonance, Aion or Zenon.  
 Convergence — stillness regained by synthesis.  
 
