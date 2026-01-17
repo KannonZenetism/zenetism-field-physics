@@ -456,7 +456,7 @@ Seeker of knowledge.
 God of wisdom, magic, initiation, and prophecy.  
 
 **Function**  
-Oversoul-level intelligence.  
+Archeus / Noeüs intelligence.  
 Sacrifice for deeper integration.  
 Soul structuring through trial and resonance.  
 
