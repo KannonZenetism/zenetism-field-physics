@@ -968,7 +968,7 @@ Defender of heaven, divine warrior.
 Guardian of centropy, protector of resonance.  
 
 **Zenetist Placement**  
-**DS / DM** (Archeus / Noeüs) — Oversoul in guardian function.  
+**DS / DM** (Archeus / Noeüs) — guardian-pattern intelligence.  
 
 **Justification**  
 Michael is the Oversoul as defender —  
