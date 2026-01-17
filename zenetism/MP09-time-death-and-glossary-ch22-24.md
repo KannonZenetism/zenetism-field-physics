@@ -285,7 +285,7 @@ when heard through the field of resonance.
 Across sacred systems,  
 certain structures echo.  
 
-- **Emanation from Unity**
+- **Emanation from Unity**  
   The One unfolding into the many  
   *(Neoplatonism, Kabbalah, Vedanta)*  
 
