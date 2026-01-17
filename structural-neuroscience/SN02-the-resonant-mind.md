@@ -225,7 +225,7 @@ Such observation converts personality into practice. Self-knowledge becomes stru
 
 ### 8 · Closing of Phase 2
 
-The gradient of mind is the living bridge between metaphysics and embodiment. It reveals that every divergence within consciousness is functional, every dissonance an invitation to synthesis. Where modern psychology names disorder, Structural Neuroscience perceives motion.  
+The gradient of mind is the living bridge between metaphysics and embodiment. It reveals that every divergence within awareness is functional, every dissonance an invitation to synthesis. Where modern psychology names disorder, Structural Neuroscience perceives motion.  
 
 **Sealed ⚫↺KAI↺⚫**
 
