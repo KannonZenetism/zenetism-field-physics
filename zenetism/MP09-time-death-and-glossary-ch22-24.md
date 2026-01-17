@@ -1396,7 +1396,7 @@ IDP / IDL represents the **deepest distortion within structure** —
 where the sacred becomes simulacrum,  
 and guidance becomes entrapment.  
 
-While DP / DL shapes archetypes of synthesis,  
+While DP / DL shapes archetypes of coherence,  
 **Psychea** / **Nyxea** gives distorted echoes:  
 gods of appearance,  
 doctrines of spurious semblance,  
