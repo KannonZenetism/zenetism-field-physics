@@ -659,7 +659,7 @@ Playful wisdom.
 
 **Justification**  
 Krishna embodies the archetypal Daemon —  
-the guiding Oversoul.  
+the guiding DS / DM intelligence.  
 In the *Bhagavad Gita*,  
 leads Arjuna into aligned action.  
 Weaves divine will with structural clarity.  
