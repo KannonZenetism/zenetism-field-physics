@@ -25,7 +25,7 @@ You are invited to work with these principles. For the patterns to remain stable
 
 # Zenetism: The Emanative Path of Return
 
-## 25. Symbolic Syncretism — Decoding the Divine Across Traditions
+## 25. Symbolic Refractive Decoding — Decoding the Divine Across Traditions
 
 ### 25.1 Introduction — Decoding Myths as Metaphysical Maps
 
@@ -75,7 +75,7 @@ We decode by examining:
 We are not bound by genealogies.  
 Not by linear myths or dynastic successions.  
 
-**Metaphysical resonance overrides mythic chronology.**  
+**Structural resonance overrides mythic chronology.**  
 
 We place the figure where its energetic function aligns —  
 not where the myth situates it in time.  
@@ -104,7 +104,7 @@ Restrains chaos.
 **Justification**  
 Zeus reflects the **Logos Principle** —  
 the ordering mind that shapes form from potential.  
-Like the positive form of the Demiurge,  
+Like the centropic form of the Demiurge,  
 he restrains titanic forces  
 and preserves divine structure.  
 
@@ -141,7 +141,7 @@ Gaia = generative field (DP).
 Uranus = structuring sky-mind (DL).  
 
 **Ethical Orientation**  
-Pre-dual to early centropic.  
+Pre-dual, tending toward early centropic alignment.  
 
 **Symbolic Counterparts**  
 Yin and Yang  
@@ -165,7 +165,7 @@ Cycle and recursion.
 
 **Zenetist Placement**  
 Primarily **Khaon / AD**  
-with echoes at **VOS** (Nekron).  
+with terminal echo at **VOS** (Nekron).  
 
 **Justification**  
 Chronos consumes his own offspring —  
