@@ -159,7 +159,7 @@ but always by **containment**.
 
 Some spiral back through **synthesis**.  
 Others fragment until **reintegration** is indistinguishable from **collapse**.  
-None ever truly leave.  
+None ever essentially leave.  
 
 This return expresses itself through **three modes**,  
 each reflecting a **distinct motion of Infinity**:  
