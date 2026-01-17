@@ -273,7 +273,7 @@ to trace function, not only appearance.
 are seen as reflections of metaphysical motion.  
 Each tradition becomes a language of alignment.  
 
-Even contradiction may reveal unity  
+Even contradiction may reveal consonance  
 when heard through the field of resonance.  
 
 ⚫🌀↺  
