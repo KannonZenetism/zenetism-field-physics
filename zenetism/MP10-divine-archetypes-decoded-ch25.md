@@ -812,7 +812,7 @@ God of beginnings, endings, transitions, and doorways.
 
 **Function**  
 Dual-faced gatekeeper — guardian of thresholds.  
-Initiates liminal synthesis, passage between polarities.  
+Initiates liminal integration, passage between polarities.  
 
 **Zenetist Placement**  
 Boundary between Zero and Infinity —  
