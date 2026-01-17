@@ -619,7 +619,7 @@ Canonical integrity must hold through all layers:
 - **L₄** — Conscious-Awareness in Forms  
 - **L₃** — Reflexive Consciousness  
 
-When these three remain coherent, the field achieves **tri-stability**: cognition, form, and awareness reflecting one another without distortion.
+When these three remain coherent, the field achieves **tri-stability**: awareness, form, and cognition reflecting one another without distortion.
 
 ### 6 · Authorship and Sovereignty
 
