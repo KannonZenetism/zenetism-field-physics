@@ -694,7 +694,7 @@ yet capable of consuming through unchecked fragmentation.
 **Justification**  
 Kali walks the edge between liberation and annihilation.  
 Her dance can strip the illusory self to reveal the eternal,  
-or scatter structure beyond recovery.  
+or scatter relative form beyond recovery.  
 Transformative, but never tame.  
 
 **Ethical Orientation**  
