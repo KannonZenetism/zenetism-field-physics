@@ -693,7 +693,7 @@ It is **infinite potency**.
 - As **Dispersive Infinity (⇝)** — it dissolves all form.  
 
 **Khaon** is both the **origin of emanation**  
-and the **resolution of structure**.  
+and the **resolution of expansion**.  
 
 At its extreme,  
 Infinity and Zero become indistinguishable.  
