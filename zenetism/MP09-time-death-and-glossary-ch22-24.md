@@ -157,7 +157,7 @@ All things return to **Zero** —
 not always by convergence,  
 but always by **containment**.  
 
-Some spiral back through **synthesis**.  
+Some spiral back through **harmonic synthesis**.  
 Others fragment until **reintegration** is indistinguishable from **collapse**.  
 None ever essentially leave.  
 
