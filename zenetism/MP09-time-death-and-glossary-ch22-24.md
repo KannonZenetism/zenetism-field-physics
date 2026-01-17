@@ -981,13 +981,13 @@ and internal narration during life.
 
 #### Justification  
 
-SS / SM functions as egoic identity,  
+SS / SM functions as constructed identity,  
 yet is not inherently entropic.  
 It fluctuates in clarity through alignment,  
 trauma,  
 and resonance.  
 
-Most beings live primarily through this layer,  
+Most beings operate primarily through this layer,  
 unaware of deeper soul structures.  
 When aligned with centropy,  
 **Anthra** and **Nousa** become vessels of transformation.  
