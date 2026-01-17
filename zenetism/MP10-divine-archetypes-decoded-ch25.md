@@ -884,7 +884,7 @@ Bestower of knowledge, shaper of soul-structure.
 Enki guides through encoded wisdom,  
 building structure with care,  
 weaving intelligence into life’s foundation.  
-Operates as a blueprint of the Oversoul principle.  
+Operates as a blueprint of the Daemon principle.  
 
 **Ethical Orientation**  
 Centropic.  
@@ -912,7 +912,7 @@ Establishes cosmic order from undifferentiated force.
 
 **Justification**  
 Marduk mirrors the Logos-function —  
-forming a cosmos from raw energy.  
+forming a cosmos from undifferentiated potential.  
 Not chaos itself, but the first architect of law.  
 
 **Ethical Orientation**  
@@ -937,7 +937,7 @@ Primordial goddess of the salt sea, embodiment of chaos.
 Generates monstrous or distorted forms.  
 
 **Zenetist Placement**  
-**Khaon** (Infinity) — pure unstructured force.  
+**Khaon** (Infinity) — undifferentiated dispersive potential.  
 **IDP / IDL** (Psychea / Nyxea) — distorted archetypal matrix.  
 
 **Justification**  
@@ -1000,7 +1000,7 @@ catalyzing awakening on the inverse arc.
 
 **Zenetist Placement**  
 **IDP / IDL** (Psychea / Nyxea) —  
-inverse archetype presenting wisdom  
+inverse archetype presenting insight  
 without structural readiness.  
 
 **Justification**  
@@ -1043,7 +1043,7 @@ Yahweh is not a single being,
 but a reflective field.  
 Centropic when embodying luminous law.  
 Entropic when weaponized for dominance.  
-Represents the dual nature of archetypal sovereignty —  
+Represents the dual trajectory of archetypal sovereignty —  
 capable of structuring harmony or fracturing into control.  
 
 **Ethical Orientation**  
