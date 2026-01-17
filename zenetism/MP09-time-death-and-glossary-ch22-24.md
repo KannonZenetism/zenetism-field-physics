@@ -525,7 +525,7 @@ Beyond emanation.
 #### Function  
 
 The **Unknown Principle (UP)**.  
-Source of all potential.  
+Trans-structural horizon.  
 Utterly ungraspable by mind or form.  
 
 ---
