@@ -206,8 +206,8 @@ Outcome → reintegration or gentle dispersal.
 
 **ISS / ISM — Subversal Purgatory (Entropic Axis)**  
 A field for souls stalled in entropy.  
-Dull, distorted, isolated.  
-Outcome → deeper collapse or dispersal.  
+Dull, distorted, isolative.  
+Outcome → entropic recursion, collapse, or dispersal.  
 
 | Realm | Direction | Nature | Outcome |
 |---|---|---|---|
