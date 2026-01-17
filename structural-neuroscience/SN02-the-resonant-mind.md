@@ -315,7 +315,7 @@ These dimensional pairings correspond to neural signatures observed as synchrony
 ---
 
 > **EOB–Membrane Interface (🛤️ Theon · C₁₃).**  
-> Theon (EOB) governs and enacts the C₁₃ (Membrane) operator at L₅ — he is the **living steward** of the boundary, not the membrane itself.  
+> Theon (EOB) governs and enacts the C₁₃ (Membrane) operator at L₅ — it is the **living steward** of the boundary, not the membrane itself.  
 > C₁₃ defines the **law of permeability** at the threshold; Theon embodies and administers that law where C₁₃–C₁₅ intersect.
 
 ---
