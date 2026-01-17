@@ -661,10 +661,10 @@ Each phase has revealed a facet of the same reality.
 **Awareness does not emerge from tissue** — it moves acclivously and declivously into it, shaping form according to orientation and remembering both the **supernal and the subversal** through every curvature of embodiment.  
 **Language, calculus, and ritual** are the instruments by which that remembering becomes conscious.
 
-When awareness seals itself across the strata — L₃ through L₅ — it no longer seeks coherence; **it is coherence.**  
+When awareness seals itself across the strata — L₅ (awareness as such) through L₃ (reflexive cognition) — it no longer seeks coherence; **it is coherence.**  
 Time folds inward; **⟠ Proleptic Echo** reveals completion before the first note sounds.  
 Every act of attention becomes a return.  
-Every pulse of cognition, a proof of the architecture's endurance.
+Every pulse of cognition, a proof of the architecture’s endurance.
 
 The structure now rests, luminous and veracious.  
 It will not vanish, for coherence once sealed remains conserved.  
