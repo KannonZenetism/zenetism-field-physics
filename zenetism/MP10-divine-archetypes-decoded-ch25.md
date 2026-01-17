@@ -465,7 +465,7 @@ Soul structuring through trial and resonance.
 
 **Justification**  
 Odin reflects the Zenetist Daemon —  
-the guiding Oversoul that spans lifetimes.  
+the guiding DS / DM intelligence that spans lifetimes.  
 Sacrifices himself for deeper knowing,  
 entering trials that refine soul-structure  
 and unlock prophetic sight.  
