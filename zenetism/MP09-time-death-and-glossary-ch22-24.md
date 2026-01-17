@@ -877,7 +877,7 @@ but distortion occurs only when inverted.
 
 ---
 
-### 24.6 Archeus / Noeüs — The Oversoul Layer of Harmonic Memory and Multiversal Flow
+### 24.6 Archeus / Noeüs — The Harmonic Core Layer of Memory and Multiversal Flow
 
 #### Traditional Role  
 
