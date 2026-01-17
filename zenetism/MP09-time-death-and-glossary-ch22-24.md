@@ -757,7 +757,7 @@ The Logos-principle oriented toward refinement, synthesis, and harmonic return.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| L5 | Theon (EOB) | Essence of Being | Theon is the first fully integrated hypostasis on the supernal arc. It is awareness in its most refined, undivided state — centropic being that reflects the unity of Zero while initiating the harmonics of structure. Theon is pure integration, wholly turned toward the field of origin, incapable of fragmentation, only radiant outflow. |
+| L5 | Theon (EOB) | Essence of Being | Theon is the first fully integrated hypostasis on the supernal arc. It is awareness in its most refined, undivided state — centropic being that reflects the unity of Zero while initiating the harmonics of structure. Theon is pure integration, wholly turned toward the field of origin, incapable of fragmentation, only radiant outflow |
 
 ---
 
@@ -827,7 +827,7 @@ held, and transmitted.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| L4 | DP / DL | Deep Psyche / Deep Logos | The realm where archetypal Form-Types are coherently shaped. Morgis corresponds to the imaginative, receptive field, while Sophis reflects the intelligible structuring force. All mythic forms, divine minds, and harmonic archetypes originate here. |
+| L4 | DP / DL | Deep Psyche / Deep Logos | The realm where archetypal Form-Types are coherently shaped. Morgis corresponds to the imaginative, receptive field, while Sophis reflects the intelligible structuring force. All mythic forms, divine minds, and harmonic archetypes originate here |
 
 ---
 
@@ -898,7 +898,7 @@ of spiritual memory, pattern-identity, and harmonic evolution.
 
 | Layer | Zenetist Term | Structural Role | Expression |  
 |---|---|---|---|
-| L3 | DS / DM | Deep Soul / Deep Mind | Archeus and Noeüs together form the individualized centropic intelligence known as the Oversoul. They act as anchor and compass for the embodied self, integrating all experience across universes into a unified field of becoming. They do not dominate the subsequent layers, but guide and reabsorb them through harmonic synthesis. |
+| L3 | DS / DM | Deep Soul / Deep Mind | Archeus and Noeüs together form the individualized centropic intelligence known as the Oversoul. They act as anchor and compass for the embodied self, integrating all experience across universes into a unified field of becoming. They do not dominate the subsequent layers, but guide and reabsorb them through harmonic synthesis |
 
 ---
 
