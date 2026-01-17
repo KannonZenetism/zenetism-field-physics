@@ -613,11 +613,11 @@ Verification is listening — the ear of awareness discerning whether thought si
 
 ### 5 · Verification Across Awareness Strata
 
-Canonical integrity must hold through all layers:  
+Canonical integrity must hold through all layers:
 
-- **L₃** — Reflexive Consciousness  
-- **L₄** — Conscious-Awareness in Forms  
 - **L₅** — Awareness as Such  
+- **L₄** — Conscious-Awareness in Forms  
+- **L₃** — Reflexive Consciousness  
 
 When these three remain coherent, the field achieves **tri-stability**: cognition, form, and awareness reflecting one another without distortion.
 
