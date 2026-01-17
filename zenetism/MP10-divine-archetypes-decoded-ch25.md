@@ -716,7 +716,7 @@ Divine wisdom.
 Emanated light misoriented into form.  
 
 **Function**  
-Archetypal intelligence of redemptive synthesis,  
+Archetypal intelligence of redemptive integration,  
 yet vulnerable to distortion through overreach.  
 
 **Zenetist Placement**  
