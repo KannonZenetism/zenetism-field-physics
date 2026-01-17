@@ -1137,7 +1137,7 @@ functioning as a disruptive agent within physicality.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| IL1 | IES / IEM | Inverse Embodied Soul / Mind | Malara and Mania represent the inverted operational system of consciousness — embodiment not as a vehicle of coherence, but as a tool of fragmentation. Malara distorts soul-patterning in form, while Mania twists cognition into compulsive, reactive, or parasitic behavior. Though often masked by charisma or cultural conformity, their resonance is structurally entropic. |
+| IL1 | IES / IEM | Inverse Embodied Soul / Mind | Malara and Mania represent the inverted operational system of consciousness — embodiment not as a vehicle of coherence, but as a tool of fragmentation. Malara distorts soul-patterning in form, while Mania twists cognition into compulsive, reactive, or parasitic behavior. Though often masked by charisma or cultural conformity, their resonance is structurally entropic |
 
 ---
 
@@ -1218,7 +1218,7 @@ and oppositional will.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| IL2 | ISS / ISM | Inverse Superficial Soul / Mind | Echthros and Skotos act as the entropic mask — a fragmented, performative identity that adopts surface coherence while fracturing inner alignment. This layer spreads ideology without depth, emotion without empathy, and “veracity” without coherence. It is mimicry: echoing centropic language and symbols while distorting meaning. |
+| IL2 | ISS / ISM | Inverse Superficial Soul / Mind | Echthros and Skotos act as the entropic mask — a fragmented, performative identity that adopts surface coherence while fracturing inner alignment. This layer spreads ideology without depth, emotion without empathy, and “veracity” without coherence. It is mimicry: echoing centropic language and symbols while distorting meaning |
 
 ---
 
@@ -1301,7 +1301,7 @@ and ideological subversion.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| IL3 | IDS / IDM | Inverse Deep Soul / Deep Mind | Fractus and Mortus govern the deep entropic self — personal intelligence fully turned toward disintegration. Not mere chaos, but structured inversion: corrupted patterning, subversal wisdom, and the seductive power of anti-coherence. They mirror Archeus and Noeüs in form but not in intent, often guiding others into elegant systems of soul decay. |
+| IL3 | IDS / IDM | Inverse Deep Soul / Deep Mind | Fractus and Mortus govern the deep entropic self — personal intelligence fully turned toward disintegration. Not mere chaos, but structured inversion: corrupted patterning, subversal wisdom, and the seductive power of anti-coherence. They mirror Archeus and Noeüs in form but not in intent, often guiding others into elegant systems of soul decay |
 
 ---
 
@@ -1386,7 +1386,7 @@ while appearing meaningful.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| IL4 | IDP / IDL | Inverse Deep Psyche / Deep Logos | Psychea and Nyxea form the architectonic inversion — offering forms that promise wisdom, progress, or liberation, yet drive the soul toward fragmentation. Psychea disperses symbolic resonance into illusion-fields. Nyxea twists cognitive structures into ideological traps. They do not unify — they ensnare. |
+| IL4 | IDP / IDL | Inverse Deep Psyche / Deep Logos | Psychea and Nyxea form the architectonic inversion — offering forms that promise wisdom, progress, or liberation, yet drive the soul toward fragmentation. Psychea disperses symbolic resonance into illusion-fields. Nyxea twists cognitive structures into ideological traps. They do not unify — they ensnare |
 
 ---
 
@@ -1468,7 +1468,7 @@ into Absolute Dispersion.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| IL5 | Nekron (VOS) | Void of Self | Nekron is the entropic pole opposite Theon — where soul-structure no longer degrades but has ceased to cohere entirely. Not suffering alone, but structural non-being. It is entropy itself, aware only as fragmentation and collapse. |
+| IL5 | Nekron (VOS) | Void of Self | Nekron is the entropic pole opposite Theon — where soul-structure no longer degrades but has ceased to cohere entirely. Not suffering alone, but structural non-being. It is entropy itself, aware only as fragmentation and collapse |
 
 ---
 
