@@ -249,9 +249,9 @@ The full spectrum of subjectivity unfolds across five centropic strata and their
 |-------|----------------|-------------|
 | **Supra-L₀** | (UP) | Pre-Causal (Zenon 🕳️) |
 | **L₀** | (AP / AD) | Source Poles (Aion ⚫ / Khaon ♾️) |
-| **L₅** | (EOB / VOS) | Pure Awareness contra Entropic Void: luminous, pre-reflexive being mirrored by dissolution. |
-| **L₄** | (DP / DL) | Conscious-Awareness in the Form Layer: domain of archetypes and patterns, "thought thinking itself." |
-| **L₃** | (DS / DM) | Sovereign Consciousness: the reflexive, individuated, volitional "I." |
+| **L₅** | (EOB) | Pure Awareness: luminous, pre-reflexive centropic being. |
+| **L₄** | (DP / DL) | Conscious-Awareness in the Form Layer: domain of archetypes and patterns, “thought thinking itself.” |
+| **L₃** | (DS / DM) | Sovereign Consciousness: the reflexive, individuated, volitional “I.” |
 | **L₂** | (SS / SM) | Identity-Aware Consciousness: the narrative layer of personality and social identity. |
 | **L₁** | (ES / EM) | Material Consciousness: threshold of embodiment, sensory and kinetic interface. |
 
