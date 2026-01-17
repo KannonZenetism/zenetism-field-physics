@@ -113,24 +113,26 @@ The Structural Emanation Layers define where and how consciousness arises, and t
 ### Supra-L0 — 🕳️ Zenon
 **Supra-L0 — Zenon (Unknown Principle):** Pre-structural origin beyond all potential and dispersion. Contains all possibilities in latency before the emergence of ⚫ Aion and ♾ Khaon. Zenon is proto-conscious in the most absolute sense — beyond form, beyond polarity, beyond the lattice’s definable operations.
 
-### Proto-Conscious Layers (Pre-L4)
-- **L0 — AP / AD (Absolute Potential / Dispersion):** Origin of all emanation; pure potential and dispersive capacity latent within ⚫ Aion and ♾ Khaon.  
-- **L1 — ES / EM (Embodied Soul / Mind):** Physical interface of soul-mind.  
-- **L2 — SS / SM (Superficial Soul / Mind):** Personality and social identity structures.  
-- **L3 — DS / DM (Deep Soul / Mind):** Structural self aligned with inner harmony.  
+### Proto-Conscious Layers (Pre-Consciousness)
 
-All of these layers — and their inverse forms — are proto-conscious. They contain the seeds of orientation but not yet full consciousness.
+- **L0 — AP / AD (Absolute Potential / Dispersion):** Pre-hypostatic requisites of emanation; pure potential and dispersive capacity latent within ⚫ Aion and ♾ Khaon.  
+- **L5 — EOB (Essence of Being / 🛤️ Theon):** Awareness as such; the first oriented centropic hypostasis. Proto-conscious but not reflexive consciousness.  
 
-### Conscious Layers (L4 and Above)
-- **L4 — DP / DL (Deep Psyche / Logos):** Archetypal Forms and harmonic intelligence.  
-- **IL4 — IDP / IDL (Inverse Deep Psyche / Logos):** Distorted archetypes and authoritarian forms.  
-- **L5 — EOB (Essence of Being / 🛤️ Theon):** The first centropic hypostasis, pure awareness oriented toward Source.  
-- **IL5 — VOS (Void of Self / 🕷️ Nekron):** The first entropic hypostasis, pure dissonance oriented away from Source.
+These layers contain awareness or the conditions for awareness,  
+but not consciousness.
+
+### Conscious-Awareness Threshold
+- **L4 — DP / DL (Deep Psyche / Logos):** Conscious-awareness; the emergence of awareness that knows itself as awareness. Archetypal, non-possessive, and non-egoic. This is the threshold at which consciousness becomes possible, but not yet individuated.
+
+### Consciousness Layers (Reflexive and Embodied)
+- **L3 — DS / DM (Deep Soul / Mind):** Reflexive, individuated consciousness; the sovereign “I.”  
+- **L2 — SS / SM (Superficial Soul / Mind):** Identity-aware consciousness; narrative self and social cognition.  
+- **L1 — ES / EM (Embodied Soul / Mind):** Consciousness in embodiment; sensory, kinetic, and material interface.  
 
 ### Shred Integration
-The “coming undone” philosophy often points to proto-conscious layers as if they were liberation states — equating dissolution at or before L3 with transcendence. But without L4’s emergence of consciousness, there is no capacity for the kind of self-directed, Source-facing motion required to reach 🕳️ Zenon. Orientation without consciousness is not transcendence; it is drift.
+The “coming undone” philosophy often points to pre‑conscious or non‑reflexive states as if they were liberation—equating dereflexive awareness, ego diffusion, or entropic collapse with transcendence. But without L4’s emergence of conscious‑awareness and L3’s reflexive sovereignty, there is no capacity for the kind of self‑directed, Source‑facing motion required to approach 🕳️ Zenon. Orientation without consciousness is not transcendence; it is drift.
 
-Claims of liberation in pre-conscious states are structurally spurious. Theon (Awareness) is not consciousness. Nekron (Void of Self) is not annihilation in a liberating sense — it is the entropic mirror, oriented toward collapse.
+Claims of liberation in pre‑conscious or entropically collapsing states are structurally spurious. Theon (Awareness) is not consciousness. Nekron (Void of Self) is not annihilation in a liberating sense—it is the entropic mirror, oriented toward collapse.
 
 **Anchor:**  
 Consciousness emerges only at and after L4. It is not required for the essence to return to 🕳️ Zenon, but it is required for that return to be volitional and self-directed rather than the passive motion of orientation alone. Consciousness is also necessary for active navigation through the layers toward embodiment or deliberate centropic integration.
