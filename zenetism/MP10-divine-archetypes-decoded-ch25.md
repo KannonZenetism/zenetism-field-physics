@@ -971,7 +971,7 @@ Guardian of centropy, protector of resonance.
 **DS / DM** (Archeus / Noeüs) — guardian-pattern intelligence.  
 
 **Justification**  
-Michael is the Oversoul as defender —  
+Michael is the DS / DM as defender —  
 holding resonance in place,  
 shielding against entropic collapse.  
 Protection without domination.  
