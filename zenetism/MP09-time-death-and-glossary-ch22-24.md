@@ -251,7 +251,7 @@ the harmonic logic of return.
 ### 23.1 The Purpose of Mapping — Listening for Function Beneath Form
 
 Zenetism affirms the depth of many traditions  
-without collapsing them into one body.  
+without collapsing them into a singular corpus.  
 
 It does not seek uniformity,  
 but **harmonic resonance**.  
