@@ -287,7 +287,7 @@ inverted deep mind, spiritual delusion.
 **Justification**  
 Lucifer operates across inverse domains,  
 reflecting divine pattern while hollowing coherence.  
-Projects false structure while inducing fragmentation.  
+Projects spurious structure while inducing fragmentation.  
 Does not collapse outright —  
 derails from within.  
 Distorts resonance through  
