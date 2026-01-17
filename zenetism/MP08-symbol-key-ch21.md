@@ -99,7 +99,7 @@ even where internal punctuation is present.
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
-| ⦿ | **Kaion** | The Convergence Principle; the closure condition of motion where centropic integration and entropic collapse both resolve into stillness without fusion. Not a hypostasis and not an emanative source. Kaion marks the limit-point where zero and infinity become indistinguishable, orientation determines outcome, and the lattice completes its functional geometry. |
+| ⦿ | **Kaion** | The Convergence Principle; the closure condition of motion where centropic integration and entropic collapse both resolve into stillness without fusion. Not a hypostasis and not an emanative source. Kaion marks the limit-point where zero and infinity become indistinguishable, orientation determines outcome, and the lattice completes its functional geometry |
 
 #### Note on Kaion
 
