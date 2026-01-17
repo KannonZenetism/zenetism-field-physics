@@ -545,7 +545,7 @@ It does not contain pattern.
 It permits the possibility of possibility.  
 
 All emanations — even Aion and Khaon —  
-arise from its silent non-being.  
+are undergirded by its silent non-being.  
 
 **Zenon** cannot be known or approached directly.  
 All references to it are **symbolic negations**.  
