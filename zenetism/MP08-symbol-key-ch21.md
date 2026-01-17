@@ -72,11 +72,10 @@ even where internal punctuation is present.
 | Symbol | Name | Meaning |
 |--------|------|---------|
 | 🕳️ | **Zenon** | The Unknown Principle; trans-structural, beyond potential, unseen ground of manifest reality. Not an emanative source, but the unapproachable root |
-| ⦿ | **Kaion** | The Convergence Principle; unified stillness where absolute centropic fullness and absolute entropic completion resolve; the silence of finality |
 | ⚫ | **Aion** | Zero, Absolute Potential; stillness underpinning all emanation |
-| ♾ | **Khaon** | Infinity, Absolute Dispersion; completion of form through total release |
-| 🛤️ | **Theon** | Gateway to supernal integration, refinement, and centropic passage |
-| 🕷️ | **Nekron** | Web of entropic pull; devourer of coherence |
+| ♾ | **Khaon** | Infinity, Absolute Dispersion; the totality of latent, motive, and dispersive potential — not entropic in essence, but the field in which entropic motion arises |
+| 🛤️ | **Theon** | First centropic hypostasis; oriented Awareness facing Source; gateway of integration and return |
+| 🕷️ | **Nekron** | First entropic hypostasis; Void of Self; oriented away from Source, initiating dispersive collapse |
 | 🌬️ | **Morgis** | Breath of Life, Deep Psyche; source of vitality, adaptation, and transformation |
 | 📐 | **Sophis** | Architect of Order, Deep Logos; structuring principle behind all intelligibility and form |
 | 🪫 | **Psychea** | Inverse Deep Psyche; draining force of entropy, atrophy, and stagnation |
@@ -93,6 +92,27 @@ even where internal punctuation is present.
 | 🧾 | **Biosa** | Embodied Mind, practical intellect; interface between mind and material form |
 | 🍷 | **Malara** | Inverse Embodied Soul; indulgence, reactive dissociation from inner alignment |
 | 🤯 | **Mania** | Inverse Embodied Mind; chaotic or obsessive cognition unanchored from coherence |
+
+---
+
+### 21.2.1 **⦿ Kaion — The Convergence Principle**
+
+| Symbol | Name | Meaning |
+|--------|------|---------|
+| ⦿ | **Kaion** | The Convergence Principle; the closure condition of motion where centropic integration and entropic collapse both resolve into stillness without fusion. Not a hypostasis and not an emanative source. Kaion marks the limit-point where zero and infinity become indistinguishable, orientation determines outcome, and the lattice completes its functional geometry. |
+
+#### Note on Kaion
+
+- Kaion is not a layer, not a hypostasis, and not a source.  
+- Kaion is the **limit condition of motion**, not an origin of motion.  
+- Centropic integration resolves toward ⚫ Aion and may continue into 🕳️ Zenon.  
+- Entropic collapse resolves toward ♾ Khaon and settles into ⚫ Aion as static potential.  
+- Both trajectories converge in stillness, not because they are the same, but because motion has ended.  
+- Kaion preserves the **Non-fusion Axiom**: convergence without collapse into sameness.  
+
+Kaion therefore names the point at which the lattice completes its functional geometry —  
+the silence that follows motion,  
+not the source from which motion begins.  
 
 ---
 
