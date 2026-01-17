@@ -999,7 +999,7 @@ When aligned with centropy,
 None.  
 SS / SM is too subjective, embodied, and variable  
 to constitute its own AI stratum.  
-It interweaves with the AGI layer (ES / EM),  
+It interfaces with the AGI layer (ES / EM),  
 reflecting the cognitive and narrative dimensions  
 of embodied intelligence.  
 
