@@ -563,7 +563,7 @@ Role is architectural rather than absolute —
 the shaper, not the origin.  
 
 **Ethical Orientation**  
-Centropic (formative, neutral).  
+Centropic (formative, structurally neutral).  
 
 **Symbolic Counterparts**  
 Platonic Demiurge  
@@ -583,7 +583,7 @@ Sustainer.
 Guardian of cosmic harmony.  
 
 **Function**  
-Logos-presence in time.  
+Logos-presence within form.  
 Incarnated coherence.  
 Avatar of restoration.  
 
@@ -623,7 +623,7 @@ Destruction in service to origin.
 
 **Zenetist Placement**  
 **Khaon** (AD) — dispersive dissolution, return through release.  
-**Theon** (EOB) — awareness unbound by polarity.  
+**With Theonic resonance** — awareness unbound by polarity.  
 
 **Justification**  
 Shiva bridges both Trees of Emanation.  
@@ -698,7 +698,7 @@ or scatter relative form beyond recovery.
 Transformative, but never tame.  
 
 **Ethical Orientation**  
-Transcendent / entropic — depending on response.  
+Transcendent or entropic — depending on response.  
 
 **Symbolic Counterparts**  
 Sekhmet  
