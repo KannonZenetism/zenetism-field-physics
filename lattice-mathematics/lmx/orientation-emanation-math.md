@@ -1,4 +1,4 @@
-# LMX — Orientation, Emanation, and the Mathematics of the Lattice  
+# LMX: Orientation, Emanation, and the Mathematics of the Lattice  
 *An extension note for the Lattice Mathematics framework*
 
 ## Purpose
