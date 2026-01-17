@@ -1197,7 +1197,7 @@ Its inherent function is always disruptive.
 
 #### Traditional Role  
 
-The superficial self turned inward against resonance.  
+The superficial self turned inward against coherence.  
 An identity bound to illusion,  
 resisting integration while appearing functional  
 or even enlightened.  
