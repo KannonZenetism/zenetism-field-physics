@@ -359,10 +359,10 @@ Guide of soul-structured order.
 **DS / DM** (Archeus / Noeüs)  
 
 **Justification**  
-Thoth reflects deep personal intelligence —  
+Thoth reflects deep pattern intelligence —  
 the harmonic overseer of thought-pattern  
 and soul integrity.  
-Reflects the **Daemon** or Oversoul,  
+Reflects the **Daemon** or DS / DM intelligence,  
 active across lifetimes,  
 guiding integration and clarity.  
 
@@ -399,7 +399,7 @@ Unlike pure collapse (VOS),
 he disturbs systems still functioning,  
 turning harmony into adversarial polarity.  
 Operates in the superficial mind,  
-generating deceptive agency,  
+generating deceptive agency  
 and dissonant autonomy.  
 
 **Ethical Orientation**  
@@ -420,7 +420,7 @@ Loki (Norse)
 Goddess of motherhood, resurrection, healing, sacred magic.  
 
 **Function**  
-Synthesis of body and soul.  
+Integration of body and soul.  
 Restoration of harmony.  
 Devotion as integration.  
 
@@ -532,7 +532,7 @@ touching:
 
 This reflects the Zenetist insight  
 that spiritual error is not merely personal,  
-but archetypal, recursive, and structural.  
+but archetypal, recursive, and structural in origin.  
 Inversion often begins in form,  
 embeds into mind,  
 and eventually fractures the soul.  
