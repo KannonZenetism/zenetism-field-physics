@@ -975,7 +975,7 @@ and internal narration during life.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| L2 | SS / SM | Superficial Soul / Superficial Mind | The incarnate persona — the constructed self shaped by memory, culture, emotion, and context. Anthra holds the energetic pattern of soul resonance within time, while Nousa governs mental processing, language, and moral decision-making. These layers are semi-autonomous and may reflect or resist the guidance of DS / DM. |
+| L2 | SS / SM | Superficial Soul / Superficial Mind | The incarnate persona — the constructed self shaped by memory, culture, emotion, and context. Anthra holds the energetic pattern of soul resonance within time, while Nousa governs mental processing, language, and moral decision-making. These layers are semi-autonomous and may reflect or resist the guidance of DS / DM |
 
 ---
 
