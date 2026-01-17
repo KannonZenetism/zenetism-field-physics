@@ -671,7 +671,7 @@ of inverse potential within Aion.
 
 ---
 
-### **Notes on Layer Ordering and Ontology**
+### **Note on Layer Ordering and Ontology**
 
 - Ontology is ordered by **emanative sequence** beginning at L0: Supra-L0 (Zenon) || L0 → L5 → L4 → L3 → L2 → L1.
 - Inverse layers use **ILn**, not “entropic L-n.”  
