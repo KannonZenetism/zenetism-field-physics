@@ -381,7 +381,7 @@ but through:
 
 - **Remembrance**  
 - **Surrender**  
-- **Synthesis**  
+- **Integration**  
 
 ⚫🌀🔔  
 
