@@ -337,7 +337,7 @@ depending on its active role and tone.
 | ES / EM | Flesh, Ego-Self, Karmic Body, Instinctual Will | Embodied volition, form-based intelligence |
 | IDP / IDL | Yaldabaoth, Degenerate Logos, Corrupt Demiurge, Archons | Inverse archetypal intelligence |
 | IDS / IDM | Subverted Selves, Asuras, Qarin, Spurious Guides | Inverted guides toward entropy |
-| ISS / ISM | Inverse Psyche, Shadow Jiva, Disordered Soul | Misaligned personal will and identity |
+| ISS / ISM | Inverse Psyche, Shadow Jiva, Disordered Soul | Fragmented volition and distorted agency |
 | IES / IEM | Inverted Ego, Carnal Agents, Anti-Pattern | Willing embodiment of entropic force |
 | 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep | Total entropy, negated integration |
 
