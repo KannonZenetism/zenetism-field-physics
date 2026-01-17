@@ -194,7 +194,7 @@ Bringer of fire.
 Challenger of divine boundary.  
 
 **Function**  
-Illicit elevation.  
+Illicit acclivation.  
 Transmission of insight  
 without structural coherence.  
 
@@ -251,7 +251,7 @@ the **centropic Logos** —
 awareness aligned with Zero,  
 manifested in form  
 to guide reintegration.  
-He is harmonic synthesis  
+He is harmonic integration  
 and embodied remembrance.  
 
 **Ethical Orientation**  
@@ -280,7 +280,7 @@ Pride disguised as revelation.
 
 **Zenetist Placement**  
 **IDP / IDL** (Psychea / Nyxea) —  
-entropic archetypes simulating divine order.  
+entropic archetypes simulating centropic order.  
 **IDS / IDM** (Fractus / Mortus) —  
 inverted deep mind, spiritual delusion.  
 
@@ -289,7 +289,7 @@ Lucifer operates across inverse domains,
 reflecting divine pattern while hollowing coherence.  
 Projects spurious structure while inducing fragmentation.  
 Does not collapse outright —  
-derails from within.  
+derails coherence from within.  
 Distorts resonance through  
 the **illusion of coherence**.  
 
@@ -330,7 +330,7 @@ the breaker of harmonics.
 Not merely opposition,  
 but **absolute fragmentation**.  
 Not always Lucifer,  
-though sometimes sharing a continuum.  
+though sometimes contiguous in trajectory.  
 
 **Ethical Orientation**  
 Absolute entropy.  
