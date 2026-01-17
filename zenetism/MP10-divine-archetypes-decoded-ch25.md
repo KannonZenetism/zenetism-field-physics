@@ -275,7 +275,7 @@ Dawn-star of self.
 Radiant distortion.  
 
 **Function**  
-Mimetic synthesis without coherence.  
+Mimetic integration without coherence.  
 Pride disguised as revelation.  
 
 **Zenetist Placement**  
