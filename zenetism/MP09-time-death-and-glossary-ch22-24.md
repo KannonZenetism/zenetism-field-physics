@@ -534,7 +534,7 @@ Utterly ungraspable by mind or form.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| Supra-L0 | Zenon (UP) | Pre-structural non-reality | Zenon exists beyond the Tree of Emanation. It is not an entity, mind, or soul. It is the precondition of emergence. Zenon does not emanate. It is the absence before potential. |
+| Supra-L0 | Zenon (UP) | Meta-structural non-reality | Zenon exists beyond the Tree of Emanation. It is not an entity, mind, or soul. It is the precondition of emergence. Zenon does not emanate. It is the absence before potential. |
 
 ---
 
