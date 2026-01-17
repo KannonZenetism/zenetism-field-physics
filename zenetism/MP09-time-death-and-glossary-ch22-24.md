@@ -1392,9 +1392,9 @@ while appearing meaningful.
 
 #### Justification  
 
-IDP / IDL is the deepest **structural inversion**.  
-Here, the sacred becomes simulacrum,  
-guidance becomes entrapment.  
+IDP / IDL represents the **deepest distortion within structure** —  
+where the sacred becomes simulacrum,  
+and guidance becomes entrapment.  
 
 While DP / DL shapes archetypes of synthesis,  
 **Psychea** / **Nyxea** gives distorted echoes:  
