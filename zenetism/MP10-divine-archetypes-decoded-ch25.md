@@ -713,7 +713,7 @@ Saturn
 
 **Traditional Role**  
 Divine wisdom.  
-Emanated light fallen into matter.  
+Emanated light misoriented into form.  
 
 **Function**  
 Archetypal intelligence of redemptive synthesis,  
