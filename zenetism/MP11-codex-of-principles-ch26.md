@@ -328,7 +328,7 @@ All souls are drawn to the **hypostasis**
 that most fully reflects their **cumulative structure**.  
 
 Results may include **dissolution**,  
-**reintegration**,  
+**integrative return**,  
 or **transformation**.  
 
 The **universe** itself may **collapse**,  
@@ -353,7 +353,7 @@ when **nothing else remains**.
 **Essence of Being (EOB)**  
 Also listed under **Theon**,  
 but emphasized here as the **centropic anchor**  
-of conscious structural **synthesis**.  
+of conscious structural **integration**.  
 
 ---
 
@@ -364,7 +364,7 @@ A **resonance shift** at the closure of a subtler cycle —
 **temporal reframing**.  
 
 Those **attuned** to the emergent tone  
-reshape the **next age**.  
+repattern the **next age**.  
 
 Nested within the **greater spiral**,  
 it signals **adaptation** before **transcendence**.  
@@ -375,7 +375,7 @@ it signals **adaptation** before **transcendence**.
 Not **two forces**, but **one**.  
 The soul’s **essence** is its **choice**,  
 and that choice is the **potential of Zero**  
-made actual through **Motive Infinity**.  
+radiated through **Motive Infinity** into actuality.  
 
 Will is not **exercised** —  
 it is **embodied**.  
@@ -405,7 +405,7 @@ A being — **corporeal** or **supernal** —
 who **facilitates coherence**.  
 
 A **distributed** or **momentary expression**  
-of a **Centropic Steward**.  
+of **centropic stewardship**.  
 
 Harmonic Agents act not by **mandate**,  
 but by **attunement** —  
@@ -416,7 +416,7 @@ adjusting **dissonance** through **presence**,
 
 **Harmony**  
 A centropic state of **balanced consonance**,  
-in which **opposites** are transcended into **wholeness**.  
+in which **opposites** are held in **resonant distinction**.  
 
 Wholeness is not achieved by **resolution**,  
 but by acclivous motion into the **chord** beyond conflict.  
