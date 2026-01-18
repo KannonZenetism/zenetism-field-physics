@@ -224,7 +224,7 @@ When **alignment** precedes **becoming**,
 **Centropy**  
 The **force** or **orientation**  
 toward **unity**, **coherence**, **synthesis**,  
-and **reintegration** with **Source**.  
+and **integrative return** to Source.  
 
 It does **not command** —  
 it **calls**.  
@@ -245,7 +245,7 @@ and **inner essence**.
 **subject and object**, **self and other**.  
 
 It begins in **living reflection**  
-and dreams of **reunion**.  
+and orients toward **reunion**.  
 
 ---
 
@@ -279,13 +279,13 @@ The **corrupt SS / SM** —
 **psychic fragmentation** and **adversarial will**.  
 
 Its **song** distorts,  
-so what hears it cannot **harmonize**.  
+so what hears it cannot **attune**.  
 
 ---
 
 **Emanation**  
 The process by which **reality unfolds**  
-from **Aion** and **Khaon** into **multiplicity**,  
+from **Aion** and **Khaon** through **Theon** and **Nekron** into **multiplicity**,  
 through **successive stages**.  
 
 Each **veil** is **softer** than the last,  
@@ -303,7 +303,7 @@ while **concealing fragmentation**.
 Rather than **uniting** through **coherence**,  
 it **increases complexity** through **subtle division**.  
 
-A **declivity** masked as **sublimity**.  
+A **declivity** masked as **acclivity**.  
 It **polishes** the fragment,  
 then hides the **crack** beneath the **gleam**.  
 
@@ -315,7 +315,7 @@ The **metaphysical force** of **fragmentation**,
 
 It moves **away** from **integration**,  
 toward **division** and **distortion**,  
-culminating in **Void of Self**.  
+culminating in **Void of Self (Nekron)**.  
 
 Its **silence** does not **heal** —  
 it **unmakes** what would become **whole**.  
