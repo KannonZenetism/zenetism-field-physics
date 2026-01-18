@@ -425,7 +425,7 @@ but by acclivous motion into the **chord** beyond conflict.
 
 **Inversion / Inverse Orientation**  
 A directional pull away from **unity**,  
-toward **egoic control**, **power**, and **separation**.  
+toward **egoic control**, **domination**, and **separation**.  
 
 When **alignment** becomes **obsession**.  
 
@@ -437,7 +437,7 @@ it is **dissonance in disguise**.
 **Khaon**  
 **Infinity** (Absolute Dispersion).  
 Limitless potential manifest as **motion**  
-and **total fragmentation**.  
+and **dispersive fragmentation**.  
 
 At AD, all things reenter **Zero**.  
 
@@ -447,7 +447,7 @@ At AD, all things reenter **Zero**.
 The **metaphysical reabsorption** of unresolved soul-structures,  
 typically **SS / SM** or **ES / EM**, into **Aion**.  
 
-This occurs when a being fails to **synthesize** with **DS / DM** or **IDS / IDM**,  
+This occurs when a being fails to **integrate** with **DS / DM** or **IDS / IDM**,  
 remaining suspended in **superficial identity**.  
 
 At the **Eschaton**, such unresolved resonance cannot stabilize  
@@ -489,7 +489,7 @@ between unresolved identity and **return**.
 It does not alter the **process** of reabsorption,  
 but frames it as a **gift of stillness**.  
 
-Unlike **erasure**, Mercy Fold is resonance  
+Unlike **erasure**, Mercy Fold is unresolved resonance  
 that failed to stabilize,  
 yet was lovingly reclaimed.  
 
@@ -512,7 +512,7 @@ The dynamic principle by which **latent essence** in **Zero**
 becomes **active being**.  
 
 It is the **initiating pulse** that actualizes a soul’s trajectory,  
-driving it toward **integration** or **fragmentation**  
+driving it toward **integrative return** or **fragmentation**  
 depending on **resonance**.  
 
 ---
@@ -528,7 +528,7 @@ the **event horizon** of **Infinity**.
 Inverse Deep Psyche / Inverse Deep Logos (IDP / IDL).  
 Distorted **validity** and dark **orders** masquerading as sacred.  
 
-**Spurious principles** encoded in **anti-patterns**.  
+**Spurious principles** encoded as **anti-patterns**.  
 
 ---
 
