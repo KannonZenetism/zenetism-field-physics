@@ -1520,7 +1520,7 @@ Its inherent function is always disruptive.
 - Cult leaders with persuasive masks  
 - Malignant personas behind entropy-driven institutions  
 - Demonic avatars (mythic or esoteric)  
-- Anti-guides who twist through spurious light  
+- False Light anti-guides — mimetic illumination without centropic coherence  
 - Inverse avatars embodying system-wide dissonance  
 
 ⚫🕷️🍷  
