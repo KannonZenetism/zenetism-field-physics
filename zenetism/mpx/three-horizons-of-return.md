@@ -32,7 +32,7 @@ It is structural mercy.
 The tonal field of grace surrounding **Localized Dissolution**.
 
 It is the energetic orientation of reabsorption without judgment.  
-Unlike **Integration** (where the soul retains form) or **Nekron** (where coherence collapses),  
+Unlike **Integration** (where coherence is retained) or **Collapse** (where coherence fails violently),  
 the Mercy Fold is the **Soft Sleep**.
 
 It occurs when a soul — too gentle for collapse yet too unformed for integration —  
