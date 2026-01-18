@@ -87,7 +87,7 @@ without fracture and without form.
 
 Liminality is transitional, not terminal.  
 
-No being remains in a truly neutral state indefinitely. The lattice is bidirectional: motion tends toward either centropic integration or entropic drift. A being lingering at ES / EM or SS / SM (or their inverse mirrors IES / IEM, ISS / ISM) without orientation will eventually tilt — and stagnation without orientation tilts entropic.  
+No being remains in an utterly neutral state indefinitely. The lattice is bidirectional: motion tends toward either centropic integration or entropic drift. A being lingering at ES / EM or SS / SM (or their inverse mirrors IES / IEM, ISS / ISM) without orientation will eventually tilt — and stagnation without orientation tilts entropic.  
 
 **On the Lukewarm:**
 
