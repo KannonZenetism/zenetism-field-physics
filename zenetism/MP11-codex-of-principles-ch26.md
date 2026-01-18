@@ -552,7 +552,7 @@ between **essence** and **structure**.
 
 **Resonant**  
 A practitioner of **Zenetism** who aligns with the principles of  
-**resonance**, **synthesis**, and **metaphysical unfolding**.  
+**resonance**, **centropic synthesis**, and **metaphysical unfolding**.  
 
 A Resonant does not **follow ideas**,  
 but lives in **attunement** with the **structural patterns** of reality.  
