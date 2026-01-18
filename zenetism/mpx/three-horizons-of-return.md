@@ -35,7 +35,7 @@ It is structural mercy.
 - **ES / EM or IES / IEM:** The embodied layer. Dissolution here is common for beings who never developed soul-continuity beyond a single lifetime.  
 - **SS / SM or ISS / ISM:** The purgatorial state. More frequent site of Mercy Fold for beings with partial identity-coherence but insufficient integration to proceed.  
 - **DS / DM:** Exceedingly rare. A being reaching Deep Soul / Mind already possesses strong centropic orientation. However, fragmentation may theoretically occur from failure to integrate multiversal lifetime-memories — leading to either entrapment or Localized Dissolution.  
-- **DP / DL (L4):** Functions as "Houses of Forms" — archetypal dwelling-structures for soul-types. Not subject to Mercy Fold dynamics; dissolution does not occur at this layer.  
+- **DP / DL:** Functions as "Houses of Forms" — archetypal dwelling-structures for soul-types. Not subject to Mercy Fold dynamics; dissolution does not occur at this layer.  
 
 **On Stagnation:**
 
@@ -43,7 +43,7 @@ Stagnation is entropic. Even a being with no active malice or inversion may expe
 
 **On Entropic Collapse:**
 
-Entropy is not oppositional in the sense of facing Source. It faces *away* — outward, downward, dispersive. Its crown is at embodiment (IL1), where fragmentation and control reach maximum expression. Collapse occurs because this outward drive eventually undermines its own structure. The entropic being does not fall because Source pushes back; it falls because it has hollowed itself from within.  
+Entropy is not oppositional in the sense of facing Source. It faces *away* — outward, scattering, dispersive. Its crown is at embodiment (IL1), where fragmentation and control reach maximum expression. Collapse occurs because this outward drive eventually undermines its own structure. The entropic being does not fall because Source pushes back; it falls because it has hollowed itself from within.  
 
 ---
 
