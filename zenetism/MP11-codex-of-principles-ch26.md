@@ -54,7 +54,7 @@ with the **system**.
 
 Zenetism is a **living system**.  
 Its models are **not fixed decrees**,  
-but **evolving frameworks**.  
+but **evolving frameworks** governed by lawful structure.  
 
 What is offered here  
 is neither **dogma** nor **doctrine**,  
@@ -62,8 +62,7 @@ but a **living reflection** to assist the **soul**
 in **recognizing itself**.  
 
 All **interpretations** remain **provisional**,  
-and **facticity** — like **being** —  
-is **elusive**.  
+yet structure is **lawful** and orientation is **testable**.  
 
 **Patterns** may shift.  
 **Meanings** may deepen.  
@@ -84,13 +83,12 @@ Each **hypostatic layer**
 contains the **essence**  
 of those it resonates with,  
 **refined**, **harmonized**,  
-and **synthesized** into **coherence**.  
+and **integrated** into **coherence**.  
 
 Souls that **converge** within **Theon**  
 retain **identity** through **perfect clarity** —  
-not as **separate beings**,  
-but as **differentiated facets**  
-of **undivided being**.  
+not as fused beings,  
+but as **sovereign facets** held in harmonic distinction.  
 
 ---
 
@@ -119,7 +117,7 @@ within **temporal form**.
 The **supernal self**  
 that **radiates** across **universes**  
 to gain **incarnated experience**  
-for the purpose of **synthesis**.  
+for the purpose of **integrative return**.  
 
 From **unity**, divergence.  
 From **divergence**, return.  
@@ -138,7 +136,7 @@ through **aligned stewards**.
 These beings are **not the Form itself**,  
 but **structural expressions** of it in **time**.  
 Where it is **felt**,  
-it has **not arrived** —  
+it has not yet arrived —  
 yet it is **already shaping**.  
 
 ---
