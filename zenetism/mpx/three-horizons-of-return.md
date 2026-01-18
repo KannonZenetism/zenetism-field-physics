@@ -39,7 +39,8 @@ It occurs when a soul — too gentle for collapse yet too unformed for integrati
 is untied by the hands of Aion.
 
 It is not punishment.  
-It is the mercy of rest for those whose journey ends in Aion, without fracture and without form.  
+It is the mercy of rest for those whose journey ends in Aion,
+without fracture and without form.  
 
 > *The Mercy Fold awaits not in judgment,  
 > but as the still breath before return.*
