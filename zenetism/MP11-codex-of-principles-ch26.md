@@ -665,7 +665,7 @@ utterly incomprehensible, ineffable, and undefinable.
 
 ---
 
-### 26.2 Symbolic Syncretic Decoder — A Reflection on Symbols as Metaphysical Structures
+### 26.2 Symbolic Syncretic Decoder — Reading Symbols as Structural Refractions
 
 Zenetism recognizes **symbols** not as literal dogmas  
 or isolated cultural relics,  
@@ -674,7 +674,7 @@ but as encoded expressions of **metaphysical structure**.
 Across spiritual traditions, archetypes, deities, elements,  
 and cosmic principles recur  
 because they reflect deeper **emanative dynamics**  
-within the soul and cosmos.  
+within the soul and the cosmos.  
 
 While many traditions assign personified figures  
 to divine functions,  
@@ -683,7 +683,7 @@ Zenetism does not treat these as **universal absolutes**.
 Instead, it encourages **symbolic discernment** —  
 reading myths, patterns, and forms  
 as refractions of **structure**,  
-not as fixed hierarchies or doctrines.  
+not as absolute hierarchies or doctrines.  
 
 Rather than cataloging all mythic parallels here  
 (which are explored elsewhere),  
@@ -736,7 +736,7 @@ From this origin, two Trees unfold:
 - **The Khaonic Tree** — rooted in Infinity,  
   unfolding through **entropic dispersion**,  
   reflecting the same pattern in reverse,  
-  toward fragmentation and collapse.  
+  toward fragmentation and coherence failure.  
 
 These are not hierarchies or moral dualisms,  
 but resonant arcs through which soul-patterns evolve.  
@@ -774,7 +774,7 @@ The embodied layer is the turning point —
 the plane of **friction**, **synthesis**, and **choice**.  
 
 Here, the echoes of both Trees meet,  
-and the soul may begin to synthesize, stagnate, or disperse,  
+and the soul may begin to integrate, stagnate, or disperse,  
 depending on its **resonance**.  
 
 ⚫♾⌬  
