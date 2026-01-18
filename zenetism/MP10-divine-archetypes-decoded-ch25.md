@@ -1195,7 +1195,7 @@ The Tormentors (Psychic inversion)
 #### ⟜ The Redeemer
 
 **Function**  
-Embodied manifestation to unify, restore, and uplift.  
+Embodied manifestation to integrate, restore, and realign.  
 
 **Zenetist Placement**  
 **Theon** (EOB) → **ES / EM** (Embodied).  
@@ -1216,7 +1216,7 @@ Pure centropy.
 #### ⟜ The Architect
 
 **Function**  
-Patterns form without domination.  
+Forms pattern without domination.  
 Designs coherence through luminous structure.  
 
 **Zenetist Placement**  
@@ -1245,7 +1245,7 @@ Entropic — simulated order, entrapment masked as architecture.
 Pattern disruptor, catalyst, and saboteur.  
 
 **Function**  
-Reveals hidden dynamics or fractures coherence.  
+Reveals hidden dynamics or fractures coherence through inversion.  
 
 **Zenetist Placement**  
 **Centropic** — **SS / SM** (Anthra / Nousa) when disruption renews.  
@@ -1271,7 +1271,7 @@ Both — dependent on alignment and effect.
 The force that consumes form and breaks coherence.  
 
 **Function**  
-Catalyst for collapse or sacred return.  
+Catalyst for collapse or integrative return.  
 
 **Zenetist Placement**  
 **VOS / AD** — Void of Self / Absolute Dispersion.  
@@ -1327,7 +1327,7 @@ patterned in story.
 By reading myths in this way,  
 Zenetism fulfills its mission:  
 not to reject,  
-but to **synthesize**.  
+but to **integrate**.  
 
 Not to claim superiority,  
 but to reveal **resonance** —  
