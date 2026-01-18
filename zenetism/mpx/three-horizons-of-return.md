@@ -41,8 +41,8 @@ is untied by the hands of Aion.
 It is not punishment.  
 It is the mercy of rest for those not yet ready to be eternal.
 
-> *“The Mercy Fold awaits not in judgment,  
-> but as the still breath before return.”*
+> *The Mercy Fold awaits not in judgment,  
+> but as the still breath before return.*
 
 ---
 
