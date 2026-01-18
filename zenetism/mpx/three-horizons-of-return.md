@@ -97,7 +97,7 @@ The genuinely lukewarm are not without polarity — they are beings whose slight
 
 Innocence is not stagnation. A soul lacking intellectual or esoteric sophistication but possessing genuine devotion carries centropic resonance beyond the superficial strata. The heart orients where the mind cannot follow.  
 
-Theon itself is not articulated — it is Awareness facing Source, nothing more. The simplicity of the innocent saint mirrors this: purity of orientation, not complexity of understanding, is what grants hypostatic resonance. Such beings integrate at DS / DM, DP / DL, or beyond — not through articulation, but through alignment.  
+Theon itself is not articulated — it is Awareness facing Source, the first expansion of centropic realization. The simplicity of the innocent saint accords with this, not in poverty of understanding, but in purity of orientation: resonance arises from alignment, not articulation. Such beings integrate at DS / DM, DP / DL, or beyond through coherence of direction rather than complexity of structure.
 
 **On the Inverse Strata:**
 
