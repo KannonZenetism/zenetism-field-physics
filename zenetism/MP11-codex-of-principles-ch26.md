@@ -802,7 +802,7 @@ a purgatorial echo of unresolved presence
 and fractured identity.  
 
 Its nature is shaped by **centropic** or **entropic** tendencies,  
-the degree of synthesis already attained,  
+the degree of coherence already attained,  
 and alignment with deeper structural layers.  
 
 ---
