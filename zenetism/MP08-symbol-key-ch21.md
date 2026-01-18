@@ -568,7 +568,7 @@ of inverse potential within Aion.
 | Symbol        | Name                  | Meaning |
 |---------------|-----------------------|---------|
 | ⸮             | **Echo of Unknowing** | Represents the unresolved silence that follows reintegration; not absence, but the impossibility of final knowing; associated with 🕳️ Zenon and terminal stillness |
-| 🌫️🤲⚫        | **Mercy Fold**         | The tonal field of grace surrounding Localized Dissolution; the energetic orientation of reabsorption without judgment. Unlike Integration (where the soul retains form) or Collapse (where coherence fails violently), the Mercy Fold is the Soft Sleep — the gentle unspooling of a soul too unformed for eternal continuity yet carrying no heavy entropic load. It is not punishment but structural mercy: the still breath before return |
+| 🌫️🤲⚫        | **Mercy Fold**         | The tonal field of grace surrounding Localized Dissolution; the energetic orientation of reabsorption without judgment. Unlike Integration (where the soul retains form) or Collapse (where coherence fails violently), the Mercy Fold is the Soft Sleep — the gentle unspooling of a soul whose pattern cannot sustain continuity yet carries no heavy entropic load. It is not punishment but structural mercy: the still breath in which return is complete |
 
 ---
 
