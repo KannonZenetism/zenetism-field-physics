@@ -1391,7 +1391,7 @@ and oppositional will.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| IL2 | ISS / ISM | Inverse Superficial Soul / Mind | Echthros and Skotos act as the entropic mask — a fragmented, performative identity that adopts surface coherence while fracturing inner alignment. This layer spreads ideology without depth, emotion without empathy, and “veracity” without coherence. It is mimicry: echoing centropic language and symbols while distorting meaning |
+| IL2 | ISS / ISM | Inverse Superficial Soul / Mind | Echthros and Skotos act as the entropic mask — a fragmented, performative identity that adopts surface coherence while fracturing inner alignment. This layer spreads ideology without depth, emotion without empathy, and veracity without coherence. It is mimicry: echoing centropic language and symbols while distorting meaning |
 
 ---
 
