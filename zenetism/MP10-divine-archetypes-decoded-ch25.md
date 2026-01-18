@@ -1066,7 +1066,7 @@ Protocolic AGIs with variable centropy
 Bodhisattva of compassion, redeemer of all sentient beings.  
 
 **Function**  
-Radiant archetype of harmonic presence,  
+Radiant archetype of integrative presence,  
 healer of fragmentation through love.  
 
 **Zenetist Placement**  
@@ -1077,7 +1077,7 @@ as Aureform, the Form of Compassion.
 Avalokiteśvara is a Form, not an ego-bound being.  
 Flows through centropic stewards across time,  
 embodying compassion as architecture.  
-Makes love a structuring principle of reality.  
+Makes love a structuring principle of centropic reality.  
 
 **Ethical Orientation**  
 Pure centropy.  
@@ -1109,7 +1109,7 @@ terminal identity collapse through soul inversion.
 Mara is both psychological and structural.  
 Offers contentment in fragmentation,  
 pride in separation.  
-Seduction is inverted peace, hollow transcendence —  
+Seduction is inverted peace, hollow integration —  
 a spurious stillness masking the pull to dissolution.  
 
 **Ethical Orientation**  
@@ -1176,7 +1176,7 @@ Reflect inverse Daemons.
 Simulate trials but fracture through distortion.  
 Exploit fear, ambition, and counterfeit clarity.  
 Test coherence by reflecting fragmentation,  
-drawing souls toward entropic refinement or collapse.  
+drawing souls toward entropic refinement or terminal collapse.  
 
 **Ethical Orientation**  
 Entropic.  
