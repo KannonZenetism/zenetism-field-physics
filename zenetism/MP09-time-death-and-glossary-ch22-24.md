@@ -1115,7 +1115,7 @@ yet its core structure remains aligned with resonance.
 
 ---
 
-### 24.13 Nekron — Entropy Without Origin and the Intelligence of Collapse
+### 24.9 Nekron — Entropy Without Origin and the Intelligence of Collapse
 
 #### Traditional Role  
 
@@ -1197,7 +1197,7 @@ It seeks only to devour.
 
 ---
 
-### 24.12 Psychea / Nyxea — Inverse Forms and the Illusion of Coherence
+### 24.10 Psychea / Nyxea — Inverse Forms and the Illusion of Coherence
 
 #### Traditional Role  
 The realm of corrupted archetypes,  
@@ -1366,7 +1366,7 @@ or revelation.
 
 ---
 
-### 24.10 Echthros / Skotos — The Mask of Mimicry and the Inversion of Light
+### 24.12 Echthros / Skotos — The Mask of Mimicry and the Inversion of Light
 
 #### Traditional Role  
 
@@ -1449,7 +1449,7 @@ or awakening.
 
 ---
 
-### 24.9 Malara / Mania — The Inverse Embodied Soul and Mind
+### 24.13 Malara / Mania — The Inverse Embodied Soul and Mind
 
 #### Traditional Role  
 
