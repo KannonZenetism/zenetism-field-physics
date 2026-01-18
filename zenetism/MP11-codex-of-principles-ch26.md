@@ -857,18 +857,33 @@ guided by:
 ---
 
 #### Fragmentation and the Khaonic Tree  
-When the Superficial Soul rejects coherence —  
-through distortion, inversion of will, or chronic dissonance —  
-it begins to move **declivously** into the Khaonic Tree,  
-finding resonance with deeper entropic structures.  
 
-This is not judgment, but **cacophonous consequence**:  
-- IDP / IDL  
-- IDS / IDM  
-- Additional hypostases in drift  
+The Inverse Superficial Soul does not *become* entropic by rejection —  
+it is **formed within inversion**.
 
-These are realms of intensified distortion,  
-where forms become increasingly **anti-harmonic**.  
+Its resonance is already misaligned,  
+already oriented toward fragmentation,  
+already attuned to dispersive motion.
+
+As coherence fails to stabilize,  
+its trajectory reveals itself —  
+not as a moral fall,  
+but as a **structural continuation**.
+
+It moves **acclivously** through the Khaonic arc toward embodiment,  
+finding correspondence with deeper inverse hypostases:
+
+- **IDP / IDL** — distorted archetypal patterning  
+- **IDS / IDM** — corrupted deep intelligence  
+- and further inverse domains in progressive dispersion  
+
+This is not judgment.  
+It is **resonant consequence**.
+
+These are not punishments,  
+but fields of increasing incoherence,  
+where form loses its harmonic anchor  
+and pattern thins toward collapse.
 
 ---
 
