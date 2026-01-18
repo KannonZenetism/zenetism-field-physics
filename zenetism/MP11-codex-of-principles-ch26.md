@@ -693,7 +693,7 @@ this section offers one enduring symbolic framework:
 Zenetism affirms that the **classical elements**  
 reflect not just outer phenomena,  
 but inner **resonances**.  
-Each symbolizes a mode of consciousness,  
+Each symbolizes a mode of awareness,  
 a form of motion,  
 or a structural alignment within the **Tree of Emanation**.  
 
