@@ -819,7 +819,7 @@ are woven back into the larger harmonic field.
 
 Not all Superficial Souls reintegrate immediately.  
 Some remain suspended in SS / SM due to **incoherence**,  
-**unresolved trauma**, or failure to synthesize.  
+**unresolved trauma**, or failure to integrate.  
 
 This results in **stagnation** —  
 a liminal field of the superficial arc,  
