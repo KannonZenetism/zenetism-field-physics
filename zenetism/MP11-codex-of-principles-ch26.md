@@ -267,7 +267,7 @@ often positioned in **IL3 / IL4**.
 
 They **amplify dissonance** across universes.  
 Rather than **dissolving**,  
-they **reverse synthesis** —  
+they **reverse integration** —  
 **propagating incoherence**  
 through **reflected manifestations**.  
 
