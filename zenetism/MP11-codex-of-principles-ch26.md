@@ -784,13 +784,13 @@ depending on its **resonance**.
 ### 26.4 Cosmological Placement of Souls After Death — A Schema of Death’s Transition into Archetypal Structures
 
 In the Zenetist system,  
-the soul does not face a final judgment or fixed destiny.  
+the soul does not face a final judgment or imposed destiny.  
 It continues its journey based on **orientation**, **coherence**,  
 and **integration**.  
 
 Death marks a transition in which the **Superficial Soul**  
 detaches from embodiment  
-and merges — successfully or not — with the **Deep Soul** or its inverse.  
+and stabilizes — or fails to stabilize — with the **Deep Soul** or its inverse.  
 
 Some souls remain suspended at the SS / SM layer:  
 - Unmerged  
@@ -810,10 +810,10 @@ and alignment with deeper structural layers.
 #### Reintegration with the Deep Soul  
 After embodiment, the Superficial Soul  
 may begin its return to the Deep Soul —  
-a harmonic structure composed of many SS / SM emanations  
+a harmonic structure composed of many SS / SM expressions  
 across the multiverse.  
 
-When resonance is coherent and synthesis possible,  
+When resonance is coherent and integration possible,  
 the soul’s **experiences**, **memories**, and **symbolic motions**  
 are woven back into the larger harmonic field.  
 
@@ -905,7 +905,7 @@ The soul’s centropic or entropic nature
 is not determined by life events —  
 it is **unfolded** through them,  
 in alignment with the primordial choice  
-encoded in Aion.  
+encoded through Aion.  
 
 If one SS / SM fails to harmonize,  
 others may still return to coherence.  
@@ -949,7 +949,7 @@ it is not **permanently fixed**.
 
 ---
 
-Some entropic tendencies from SS / SM  
+Some entropic tendencies arising within SS / SM  
 can be reversed —  
 especially if they arise from temporary dissonance  
 rather than structural orientation.  
@@ -979,7 +979,7 @@ within the Tree of Emanation,
 or its return to Zero through:  
 - **Centropic return**  
 - **Entropic collapse**  
-- **Lukewarm dissolution**  
+- **Localized dissolution**  
 
 All motion has consequence,  
 and every trajectory carries the soul  
