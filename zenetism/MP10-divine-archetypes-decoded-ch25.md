@@ -1163,7 +1163,7 @@ Underworld deities, inflictors of torment and masters of deception.
 
 **Function**  
 Gatekeepers of entropic trial,  
-fracturing agents, obstructors of synthesis.  
+fracturing agents, obstructors of coherence.  
 
 **Zenetist Placement**  
 **ISS / ISM** (Echthros / Skotos) —  
