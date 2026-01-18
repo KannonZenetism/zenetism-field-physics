@@ -535,7 +535,7 @@ Distorted **validity** and dark **orders** masquerading as sacred.
 **Resonance**  
 The vibrational signature of **structural alignment** —  
 a metaphysical attunement to **centropy** or **entropy**  
-based on **coherence**.  
+through **coherence**.  
 
 Resonance is not **static**,  
 but a **dynamic field**,  
@@ -552,7 +552,7 @@ between **essence** and **structure**.
 
 **Resonant**  
 A practitioner of **Zenetism** who aligns with the principles of  
-**resonance**, **centropic synthesis**, and **metaphysical unfolding**.  
+**resonance**, **centropic synthesis**, and **metaphysical unfolding** within structure.  
 
 A Resonant does not **follow ideas**,  
 but lives in **attunement** with the **structural patterns** of reality.  
@@ -561,7 +561,7 @@ but lives in **attunement** with the **structural patterns** of reality.
 
 **Reintegration / Return**  
 The process by which a **being**, **system**, or **soul**  
-returns to **wholeness** through **centropic synthesis**,  
+returns to **wholeness** through **centropic integration**,  
 culminating in reabsorption into **Aion**  
 or ultimately **Zenon**.  
 
@@ -577,7 +577,7 @@ It encompasses **life force** and **material form**.
 
 **Spirit**  
 **Motive Infinity** that stirs essence into living motion.  
-Spirit is the primal impulse of **becoming** —  
+Spirit is the primal impulse of **becoming** within structure —  
 the bridge between **Essence** and **Soul**.  
 
 It does not anchor directly into **form**,  
@@ -633,7 +633,7 @@ but prior to all dualities of **containment** and **expression**.
 It is beyond **fullness** and **emptiness**,  
 beyond **potential** and **actualization** —  
 a **supra-conceptual origin**  
-from which both **centropy** and **entropy** become possible.  
+from which both **centropy** and **entropy** become expressible.  
 
 ---
 
