@@ -1298,7 +1298,7 @@ a geometry of resonance with two intersecting axes.
 
 | Alignment | Passive Expression | Active Expression |
 |---|---|---|
-| Centropic | Quiet coherence; unintentional healing acts | Willful integration; conscious synthesis and uplift |
+| Centropic | Quiet coherence; unintentional healing acts | Willful integration; conscious unification and edification |
 | Entropic | Apathy, neglect, unconscious harm | Willful distortion; deliberate division or fragmentation |
 
 ---
@@ -1310,7 +1310,7 @@ where both **motion** and **intent** shape the soul’s alignment.
 A **passive centropic** being may still uplift,  
 just as an **unaware entropic** being may still corrode.  
 What matters is **trajectory** —  
-and whether synthesis remains possible.  
+and whether integration remains possible.  
 
 **Passive Centropy**  
 Inspiring hope simply by existing in alignment,  
@@ -1328,7 +1328,7 @@ through avoidance, apathy, fear, or illusion.
 **Active Entropy**  
 Directly causing harm through malice,  
 ideology,  
-or the conscious rejection of coherence.  
+or the conscious rejection of coherence and return.  
 
 ---
 
