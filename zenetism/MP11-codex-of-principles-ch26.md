@@ -1581,10 +1581,10 @@ in any being determines its:
 - Potential  
 - Placement within the Tree of Emanation  
 
-Centropy pulls inward and upward.  
+Centropy pulls inward and acclivously.  
 It harmonizes, restores, and returns.  
 
-Entropy pushes outward and downward.  
+Entropy pushes outward and declivously.  
 It fractures, isolates, and disbands.  
 
 Yet even entropy has a role.  
@@ -1597,7 +1597,7 @@ does not negate centropy —
 it sharpens its necessity.  
 
 Each emanation carries the imprint of Theon’s clarity,  
-and is sharpened in contrast by the obscurity of VOS.  
+and is clarified by contrast with the obscurity of VOS.  
 
 The integrity of the Deep Soul finds reflection  
 in the disintegration of its inverse.  
@@ -1621,7 +1621,7 @@ and what pulls the soul toward fragmentation.
 
 Inverse orientation refers to a metaphysical tendency  
 that moves away from Aion  
-and the centropic path of unity, coherence, and reintegration.  
+and the centropic path of coherence, unity, and reintegration.  
 
 It is not inherently entropic,  
 but becomes so when expressed through:  
