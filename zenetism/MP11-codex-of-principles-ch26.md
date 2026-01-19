@@ -1165,7 +1165,7 @@ The soul and mind should not act in contradiction.
 Ethical life is integrative, not disjointed.  
 
 When parts of self act in conflict,  
-they introduce **inner dissonance** and delay synthesis.  
+they introduce **inner dissonance** and delay integration.  
 
 **Resonance**  
 Ethics are not judged by external metrics,  
