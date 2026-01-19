@@ -1986,7 +1986,7 @@ through **resonance alone**.
 
 ### 26.18 Volitional Integration — Embodied Clarity, Remembering Beside You
 
-Most souls, upon full attunement to the DS / DM layer,  
+Most souls, upon full attunement with DS / DM coherence,  
 are drawn **acclivously** into DP / DL,  
 joining their archetypal source.  
 
