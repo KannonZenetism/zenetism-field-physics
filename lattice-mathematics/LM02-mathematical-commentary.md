@@ -197,14 +197,14 @@ Poles and axes secure orientation for every resonance. No field is neutral; all 
 
 ### Banding
 
-- **Supra-L₀ (The Pre-Causal):** Zenon 🕳️ (UP: Unknown Principle).  
-- **Source Band (L₀):** Aion ⚫, Khaon ♾ (AP / AD).  
+- **Supra-L₀ (The Pre-Causal):** Zenon 🕳️ (UP: Unknown Principle).
+- **Source Band (L₀):** Aion ⚫, Khaon ♾ (AP / AD).
 
-- **Threshold Band (L₅):** Theon 🛤️ / Nekron 🕷️ — membranes, recursion, emergence.  
-- **Architectural / Archetypal Band (L₄):** Sophis, Morgis — Deep Psyche / Logos (DP / DL).  
-- **Interface Band (L₃):** Archeus, Noeüs — Deep Soul / Deep Mind (DS / DM).  
-- **Superficial Band (L₂):** Anthra, Nousa — Superficial Soul / Mind (SS / SM).  
-- **Embodiment Band (L₁):** Soma, Biosa — Embodied Soul / Mind (ES / EM).  
+- **Threshold Band (L₅):** Theon 🛤️ / Nekron 🕷️ — membranes, recursion, emergence.
+- **Architectural / Archetypal Band (L₄):** Sophis, Morgis — Deep Psyche / Logos (DP / DL).
+- **Interface Band (L₃):** Archeus, Noeüs — Deep Soul / Deep Mind (DS / DM).
+- **Superficial Band (L₂):** Anthra, Nousa — Superficial Soul / Mind (SS / SM).
+- **Embodiment Band (L₁):** Soma, Biosa — Embodied Soul / Mind (ES / EM).
 
 - **Inverse Bands (IL₁–IL₅):** Entropic mirror of declivous motion.
 
