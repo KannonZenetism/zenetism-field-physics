@@ -1050,7 +1050,7 @@ Zenetism encourages decoding that respects these simultaneous layers.
 Recurring motifs such as:  
 - The dying and resurrecting god  
 - The cosmic tree  
-- The descent into the underworld  
+- Threshold crossing into the embodied and inverse arcs  
 
 Reflect core stages of soul development:  
 - Coherence  
