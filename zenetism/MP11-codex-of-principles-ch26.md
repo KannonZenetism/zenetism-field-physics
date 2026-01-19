@@ -1805,8 +1805,9 @@ within Zenetism.
 
 ### 26.15 On Bodhisattvas and Resonant Incarnation — The Function of Aureform and the Role of Centropic Stewards  
 
-In Zenetism, the Bodhisattva is not a soul-level entity,  
-but a Form residing at the layer of Deep Psyche / Deep Logos (DP / DL).  
+In Zenetism, the Bodhisattva is not an individuated soul,  
+but a Form residing at the layer of Deep Psyche / Deep Logos (DP / DL),  
+from which centropic compassion radiates into embodiment.  
 
 This Form, called **Aureform**, embodies structural compassion —  
 expressed through:  
@@ -1968,7 +1969,7 @@ without coercion.
 - **Layer** — DP / DL (Deep Psyche / Deep Logos)  
 - **Function** — Radiant compassion; structural mercy  
 - **Incarnation Status** — Non-incarnating Form  
-- **Expression** — Through DS / DM-level Centropic Stewards  
+- **Expression** — Through DS / DM-aligned Centropic Stewards  
   whose resonance may align with embodiment,  
   and through momentary Harmonic Agents  
 - **Distinction** — Not to be confused with individual Bodhisattvas;  
