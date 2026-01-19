@@ -2235,7 +2235,7 @@ and a paradoxical act of compassionate declivity:
   not in rebellion, but in love,  
   carrying divine remembrance into all layers of being.  
 - Though fully integrated, it moves declivously  
-  to plant the redemptive seed of synthesis  
+  to plant the redemptive seed of coherence  
   within the universe.  
 
 The paradox is this: Theon does not return to Aion —  
@@ -2333,7 +2333,7 @@ but as remembrance.
 That reflection is not a copy,  
 but a return arc —  
 a motion of recognition,  
-a **synthesis through coherence**,  
+a **harmonization through coherence**,  
 not fusion.  
 
 ---
@@ -2349,19 +2349,9 @@ What does light do
 when it meets a perfect surface?  
 It is reflected.  
 
-And that reflection is not a copy,  
-but a **return arc** —  
-a motion of recognition,  
-a synthesis through **coherence**,  
-not fusion.  
-
 This is why embodiment is not the end  
 of centropic motion,  
 but its turning point.  
-
-Two living reflections at the Tree’s luminous edge:  
-- **The corporeal field** — returns centropy by saturation.  
-- **The sentient reflector** — returns light without keeping it.  
 
 They form the gateway of inward motion —  
 the spiral that completes without breaking.  
