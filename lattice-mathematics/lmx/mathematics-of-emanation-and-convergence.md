@@ -149,9 +149,9 @@ IL_5 & \sigma = -1
 
 ---
 
-### 4. Emanatory Procession as Compositional Morphisms
+## 4. Emanatory Procession as Compositional Morphisms
 
-#### 4.1 Centropic Procession
+### 4.1 Centropic Procession
 
 \[
 f_5 : L_0 \rightarrow L_5,\;
@@ -165,7 +165,7 @@ f_1 : L_2 \rightarrow L_1
 L_1 = (f_1 \circ f_2 \circ f_3 \circ f_4 \circ f_5)(L_0)
 \]
 
-#### 4.2 Entropic Procession
+### 4.2 Entropic Procession
 
 \[
 g_5 : L_0 \rightarrow IL_5,\;
