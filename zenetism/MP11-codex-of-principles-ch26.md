@@ -1055,7 +1055,7 @@ Recurring motifs such as:
 Reflect core stages of soul development:  
 - Coherence  
 - Fragmentation  
-- Synthesis  
+- Collapse  
 - Return  
 
 These are not merely narrative rhythms,  
@@ -1083,9 +1083,9 @@ or spiritual reintegration through synthesis.
 ---
 
 **Acclivous and Declivous Motion**  
-The hero’s declivity into darkness  
+The hero’s declivous motion through obscurity  
 reflects entropic motion or initiatory trial.  
-Their acclivity reflects centropic synthesis  
+Their acclivity reflects centropic integration  
 and awakening through harmonized clarity.  
 
 **Examples:**  
@@ -1095,13 +1095,13 @@ and awakening through harmonized clarity.
 
 ---
 
-**Divine Betrayal or Fall**  
+**Divine Betrayal or Inversion**  
 Marks the initiation of the inverse arc —  
-entropic forces rising into embodiment without coherence.  
+entropic forces acclivating into embodiment without coherence.  
 Often framed as prideful overreach or cosmic rebellion.  
 
 **Examples:**  
-- Lucifer’s fall from heaven  
+- Lucifer’s declivity from heaven  
 - The Nephilim in Genesis  
 - Prometheus defying the gods to give fire to humanity  
 
