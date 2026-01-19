@@ -1083,9 +1083,15 @@ or spiritual reintegration through synthesis.
 ---
 
 **Acclivous and Declivous Motion**  
-The hero’s declivous motion through obscurity  
-reflects entropic motion or initiatory trial.  
-Their acclivity reflects centropic integration  
+The hero’s **declivous motion through obscurity**  
+is not entropic in itself.  
+
+It represents **Declivous Centropy** —  
+a lawful movement into density, darkness, or the underworld  
+to confront entropic forces as an initiatory trial.  
+
+Their **acclivous return into coherence**  
+reflects centropic integration  
 and awakening through harmonized clarity.  
 
 **Examples:**  
