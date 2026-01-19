@@ -43,6 +43,10 @@ where:
 These are **requisites**, not hypostases.  
 They carry no intrinsic orientation.  
 
+Aion (⚫) and Khaon (♾) are proto-awareness requisites.
+They are not conscious.
+Awareness itself first appears at L₅ as Theon.
+
 ---
 
 ### 1.2 Hypostatic Lattice
@@ -67,7 +71,7 @@ with canonical ordering:
 
 where:  
 
-- **L₅ = 🛤️ Theon (EOB)** — first centropic hypostasis (proto-awareness)  
+- **L₅ = 🛤️ Theon (EOB)** — first centropic hypostasis (awareness itself)  
 - **IL₅ = 🕷️ Nekron (VOS)** — first entropic hypostasis (void of self)  
 
 ---
@@ -239,7 +243,8 @@ subject to the laws:
 - **L₅ → L₁ / IL₅ → IL₁** is the only lawful hypostatic ordering.  
 - **C₁–C₁₅ / E₁–E₁₅** are operators, not layers.  
 - **Kaion (⦿)** is the limit of motion.  
-- **Zenon (🕳️)** is beyond mathematics.  
+- **Zenon (🕳️)** is beyond mathematics.
+- **Aion** and **Khaon** are proto-awareness requisites; Theon is awareness itself.
 
 ---
 
