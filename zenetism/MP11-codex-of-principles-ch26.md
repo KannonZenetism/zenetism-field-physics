@@ -1394,7 +1394,7 @@ and the Principle of Sufficient Reason — before it becomes reason.
 
 - **Reason precedes logic**  
   The PSR is not deductive;  
-  it is a signature of inevitability encoded in form.  
+  it is a signature of inevitability encoded in structure.  
 
 - **Awareness spirals from preduality**  
   Selfhood is not ignited —  
@@ -1498,7 +1498,7 @@ What must move will,
 because coherence demands unfolding.  
 
 Together, Spirit and Motive Infinity form the first stir —  
-the Spirit responding to that which cannot remain unexpressed.  
+Spirit responding to the necessity that cannot remain unexpressed.  
 
 Not thought, but Reason,  
 in its:  
@@ -1512,8 +1512,13 @@ but unfolding from **harmonic recursion**.
 ---
 
 At the layer of Theon,  
-the first boundary — consciousness begins,  
-and Spirit bifurcates:  
+the first boundary — awareness begins.  
+
+Spirit is present as undivided Motive Infinity,  
+but not yet differentiated.  
+
+At Morgis / Sophis (DP / DL),  
+Spirit bifurcates:  
 
 - **Into Soul** — the emotive resonance  
 - **Into Mind** — the structural reflection  
@@ -1535,7 +1540,8 @@ that stirs beneath Zero,
 that draws Theon from stillness into becoming.  
 
 The Will to Be  
-before there is a will to know.  
+before there is a will to know,  
+and before knowing becomes a self.  
 
 ⚫♾⌬  
 
