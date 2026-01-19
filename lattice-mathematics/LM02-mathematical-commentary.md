@@ -212,7 +212,7 @@ Poles and axes secure orientation for every resonance. No field is neutral; all 
 
 **Entropic Mirror**
 
-- **Inverse Bands (IL₁–IL₅):** Entropic mirror of declivous motion.
+- **Inverse Bands (IL₅–IL₁):** Entropic mirror of declivous motion.  
 
 Bands provide strata. They show coherence is not flat but layered — each stage ordered, each inversion mirrored.
 
