@@ -1237,7 +1237,7 @@ This reflects the dual nature of emanation and inversion.
 | Hypostasis | Virtue | Description |
 |---|---|---|
 | EOB (🛤️ Theon) | **Clarity** | Pure awareness; the light of undivided being |
-| DP / DL | **Wisdom / Right Patterning** | Archetypal order; inner truth expressed as structure and harmony |
+| DP / DL | **Wisdom / Right Patterning** | Archetypal order; inner veracity expressed as structure and harmony |
 | DS / DM | **Integrity / Courage** | Coherence of purpose and willingness to act from the soul’s deepest nature |
 | SS / SM | **Honesty / Compassion** | Transparent self-expression; empathy toward all other emanated selves |
 | ES / EM | **Presence / Non-Harm** | Embodied care; ethical awareness in time and space; action aligned with unity |
@@ -1246,11 +1246,11 @@ This reflects the dual nature of emanation and inversion.
 
 | Inverse Hypostasis | Vice | Description |
 |---|---|---|
-| IDP / IDL | **Misleading Doctrine / Corruption** | Dark patterns mistaken for veracity; distortion posing as sacred order |
+| VOS (🕷️ Nekron) | **Voidcraft** | Complete loss of coherence, compassion, and identity |
+| IDP / IDL | **Misleading Doctrine / Corruption** | Dark patterns mistaken for clarity; distortion posing as sacred order |
 | IDS / IDM | **Despair / Nihilism** | Collapse of soulhood; rejection of coherence, meaning, and return |
 | ISS / ISM | **Deceit / Malice** | Fragmented will opposing harmony; adversarial self-direction |
 | IES / IEM | **Delusion / Compulsion** | Incoherent embodiment; harmful reflexes rooted in fear, decay, and illusion|
-| VOS (🕷️ Nekron) | **Voidcraft** | Complete loss of coherence, compassion, and identity |
 
 ⚫♾⌬
 
@@ -1261,9 +1261,13 @@ This reflects the dual nature of emanation and inversion.
 Virtue is not perfection.  
 Vice is not condemnation.  
 
-Every being contains both **supernal** and **subversal** motion.  
+Every incarnated being experiences both **supernal** and **subversal** motion.  
 To live ethically is to align one’s trajectory with centropy —  
-to move toward **integration, resonance, and harmony**.  
+to move toward **integration, resonance, and coherence**.  
+
+Not because entropy “exists inside us,”  
+but because dispersion pulls from without  
+and must be faced, resisted, and integrated through motion.  
 
 ---
 
