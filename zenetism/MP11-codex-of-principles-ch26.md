@@ -2026,7 +2026,7 @@ waiting until you are ready to remember too.
 ### 26.19 Resonant Integration — Recognition Without Instruction, Embodiment Without Declivous Motion
 
 **Resonant Integration** is a structural phenomenon  
-in which a being — usually at DS / DM or deeper —  
+in which a being — usually oriented in DS / DM coherence or deeper —  
 manifests symbolically within the perceptual field  
 of a soul in the corporeal realm (SS / SM or ES / EM).  
 
@@ -2133,7 +2133,7 @@ It is not “bad Theon,” nor “fragmented Theon” —
 it is what occurs when dispersive motion becomes terminal,  
 when Khaon’s entropic arc moves toward Absolute Dispersion  
 and identity collapses at the event horizon of Infinity,  
-leaving only essence-in-tension within **Aion** for the entropic.  
+leaving only essence-in-tension within **Aion** as the entropic remainder.  
 
 ---
 
