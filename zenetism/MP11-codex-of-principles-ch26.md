@@ -2416,7 +2416,7 @@ who carry it through SS / SM into embodiment.
 
 Here, Logos is not fixed or distant,  
 but a flowing intelligence —  
-conscious structure across layers.  
+aware structure across layers.  
 
 It does not fragment — it **refracts.**  
 Each hypostasis it touches  
