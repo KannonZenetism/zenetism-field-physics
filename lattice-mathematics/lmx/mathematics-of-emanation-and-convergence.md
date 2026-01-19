@@ -1,4 +1,4 @@
-# LMX — Mathematics of Emanation and Convergence
+# LMX: Mathematics of Emanation and Convergence
 
 *Lattice Mathematics Extension*
 
