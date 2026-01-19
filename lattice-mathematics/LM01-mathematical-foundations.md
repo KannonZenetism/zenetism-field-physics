@@ -158,11 +158,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### D4. Inlay Map (Layers × Dimensions)
 
-- **L₁ (Embodiment Band):** C₄, C₂ ↔ E₄  
-- **L₂ (Superficial Band):** C₁, C₂, C₃, C₅, C₇, C₈, C₉, C₁₄ ↔ E₁, E₂, E₃, E₅, E₇, E₈, E₉, E₁₄  
-- **L₃ (Interface Band):** C₁, C₈, C₁₁, C₁₂ ↔ E₁, E₈, E₁₁, E₁₂  
-- **L₄ (Architectural / Archetypal Band):** C₁₀, C₁₂, C₅ ↔ E₁₀, E₁₂, E₅  
 - **L₅ (Threshold Band):** C₆, C₁₃, C₁₄, C₁₅ ↔ E₆, E₁₃, E₁₄, E₁₅  
+- **L₄ (Architectural / Archetypal Band):** C₁₀, C₁₂, C₅ ↔ E₁₀, E₁₂, E₅  
+- **L₃ (Interface Band):** C₁, C₈, C₁₁, C₁₂ ↔ E₁, E₈, E₁₁, E₁₂  
+- **L₂ (Superficial Band):** C₁, C₂, C₃, C₅, C₇, C₈, C₉, C₁₄ ↔ E₁, E₂, E₃, E₅, E₇, E₈, E₉, E₁₄  
+- **L₁ (Embodiment Band):** C₄, C₂ ↔ E₄  
 
 ### D5. Interaction Laws
 
