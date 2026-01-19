@@ -1017,7 +1017,7 @@ These stories encode patterns of transformation:
 - Struggle  
 - Death  
 - Rebirth  
-- Synthesis  
+- Transcendence  
 
 They reflect the soul’s journey across emanations.  
 
