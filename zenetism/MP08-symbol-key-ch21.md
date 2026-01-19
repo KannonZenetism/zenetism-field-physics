@@ -621,7 +621,7 @@ of inverse potential within Aion.
 
 ---
 
-### 21.30 **Archetypal Roles and Functions — Contributed Resonance Glyphs — Harmonic Convergences and Structural Markers**
+### 21.30 **Archetypal Roles and Functions — Guardians of Coherence and Structural Defense**
 
 | Symbol | Name | Meaning |
 |---|---|---|
