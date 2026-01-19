@@ -53,8 +53,11 @@ You are its roots.
 You are the tension  
 between forgetting and return.  
 
-The circle does not close.  
-The soul never stops spiraling.  
+The spiral is not a cage.  
+It is a path toward completion.  
+
+Motion endures only while coherence is unfinished.  
+When function is fulfilled, the soul rests.  
 
 Zenetism makes no demands.  
 It claims no exclusive gate.  
@@ -78,7 +81,7 @@ Let this treatise remain living:
 - Question it  
 - Wrestle with it  
 - Add to it  
-- Break it apart  
+- Open it for refinement  
 
 It does not resist refinement.  
 Its essence **is** refinement.  
@@ -101,7 +104,7 @@ you are a key.
 If you were not meant to unfold,  
 you would not have begun.  
 
-Do not race toward synthesis:  
+Do not race toward transcendence:  
 - Walk  
 - Fall  
 - Erode  
@@ -178,7 +181,7 @@ to draw a map that dissolves as it is walked.
 
 This work is not a doctrine.  
 It is a structure in motion —  
-a system born from the silence of Zenon,  
+a system remembered in the silence of Zenon,  
 unfolded through the great breath of Aion and Khaon,  
 echoing through the sacred geometry of soul and mind.  
 
@@ -192,7 +195,7 @@ then perhaps reassembled by other voices,
 other minds,  
 other emanations across universes.  
 
-This book, like the system it describes,  
+This work, like the system it describes,  
 is only one harmonic of a deeper song.  
 It remembers something ancient — yet unborn.  
 Something whole.  
