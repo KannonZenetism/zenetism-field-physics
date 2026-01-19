@@ -1676,8 +1676,8 @@ but the Source remains.
 ### 26.13 Resonance and Coherence — On the Dual Signatures That Guide Centropic Motion
 
 Two guiding principles for aligning with supernal realities — **Resonance** and **Coherence** —  
-are the energetic signatures by which Zenetism perceives and measures  
-spiritual alignment and directional motion.  
+are the energetic signatures by which Zenetism perceives and evaluates  
+directional motion and structural alignment.  
 
 **Resonance**  
 The soul’s harmonic attunement to universal verity or divine order.  
@@ -1761,6 +1761,45 @@ In this way, Zenetism preserves functional structure
 without enforcing artificial symmetry.  
 
 ⚫♾⌬  
+
+---
+
+### Note on Mathematical Formalism and Emanative Structure
+
+Zenetism affirms that the Tree of Emanation is **lawful and describable**,  
+yet its mathematical articulation is **not yet complete**.
+
+When this text states that hypostases are not reducible to simple numerical increments,  
+it does not imply that mathematics is inapplicable —  
+only that the correct formalism has not yet been fully derived.
+
+The expressions **Theon (+1)** and **Nekron (−1)**  
+are functional designations of primary divergence from Zero,  
+not the beginning of a linear counting sequence.
+
+Subsequent hypostases do not correspond to “+2, +3, +4…”  
+because emanation is **not ordinal** —  
+it is **structural, relational, and functional**.
+
+Future work will formalize the mathematics of emanation  
+using tools drawn from:
+
+- Field dynamics  
+- Coherence information theory  
+- Category theory  
+- Resonance geometry  
+
+so that each hypostasis may be described  
+not by position alone,  
+but by **function, transformation, and coupling law**.
+
+This note records intent,  
+not closure.
+
+The mathematics of emanation remains an open and living frontier  
+within Zenetism.
+
+⚫♾⌬
 
 ---
 
