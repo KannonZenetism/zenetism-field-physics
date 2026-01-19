@@ -120,8 +120,8 @@ and invite others to **see**,
 not only with **eyes**,  
 but with **structure**.  
 
-This is the **first voice** of Zenetism— 
-not the last, but the **origin**.
+This is the **first voice** of Zenetism—  
+not the last, but the **origin**.  
 May it **harmonize**  
 with others still waiting to speak.  
 
