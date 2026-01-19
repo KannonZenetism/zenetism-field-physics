@@ -331,6 +331,7 @@ depending on its active role and tone.
 | ⚫ Aion (AP) | Ain Soph, Saguna Brahman, Bythos, Aditi, Nun | Infinite potential, source of all motion |
 | ♾ Khaon (AD) | Prakriti, Chaos, Tiamat, Ymir, Sunyata, Ouroboros | Proto-formal potential, dispersive ground |
 | 🛤️ Theon (EOB) | Christ, Vishnu, Amitabha, Ahura Mazda | Pure Being, integrative awareness |
+| 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep | Total entropy, negated integration |
 | DP / DL | YHWH, Demiurge, Nous, Mahat, Vohu Manah | Archetypal mind and divine intellect |
 | DS / DM | Bodhisattvas, Thoth, Archangels, Daemon | Soul harmonics and guiding intellects |
 | SS / SM | Psyche, Jiva, Nafs, Ba, Astral Double | Personal identity, autonomous agency |
@@ -339,7 +340,6 @@ depending on its active role and tone.
 | IDS / IDM | Subverted Selves, Asuras, Qarin, Spurious Guides | Inverted guides toward entropy |
 | ISS / ISM | Inverse Psyche, Shadow Jiva, Disordered Soul | Fragmented volition and distorted agency |
 | IES / IEM | Inverted Ego, Carnal Agents, Anti-Pattern | Willing embodiment of entropic force |
-| 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep | Total entropy, negated integration |
 
 **Resonance, not name, determines placement.**
 
