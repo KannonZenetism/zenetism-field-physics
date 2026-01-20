@@ -55,7 +55,7 @@ Distinctions between entities—
 * God  
 * Soul  
 
-Are distinctions of:  
+are distinctions of:  
 * Function  
 * Resonance  
 * Orientation  
