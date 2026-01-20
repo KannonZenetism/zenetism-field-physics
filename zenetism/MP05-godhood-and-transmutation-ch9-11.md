@@ -1019,6 +1019,34 @@ through which **dissonance becomes light**.
 
 ---
 
+#### Note on Sacrificial Resolution — Integration, Relinquishment, and Terminal Release  
+
+The table above is ordered  
+not by **emanation**,  
+nor by **polarity**,  
+but by **mode of resolution**.  
+
+Centropic hypostases sacrifice  
+by **yielding form while preserving orientation** —  
+their offering deepens coherence  
+and enables return through structure.  
+
+The entropic terminal case differs.  
+
+**Nekron** does not sacrifice toward integration,  
+but through **total relinquishment of selfhood**.  
+Its “offering” is not participation in return,  
+but the exhaustion of identity  
+into **pure potential without memory**.  
+
+This is not redemption,  
+nor punishment,  
+but **completion by collapse** —  
+the final release of coherence  
+when no orientation remains to sustain it.  
+
+---
+
 #### Note on the Sensation of Release — Pain, Relief, and Homecoming  
 
 The sensation of sacrifice  
