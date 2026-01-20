@@ -392,14 +392,14 @@ never the source of distortion.
 5. **🧍 Anthra / 🧩 Nousa** (L2) — Superficial Soul / Mind (SS / SM)  
 6. **🪷 Soma / 🧾 Biosa** (L1) — Embodied Soul / Mind (ES / EM)  
 
-#### Entropic Path — Inverse Unfolding toward Khaon
+#### Entropic Path — Inverse Unfolding from Khaon
 
-1. **🍷 Malara / 🤯 Mania** (IL1) — Inverse Embodied Soul / Mind (IES / IEM)  
-2. **🦂 Echthros / 🩸 Skotos** (IL2) — Inverse Superficial Soul / Mind (ISS / ISM)  
-3. **💔 Fractus / 👁️‍🗨️ Mortus** (IL3) — Inverse Deep Soul / Mind (IDS / IDM)  
-4. **🪫 Psychea / 🫥 Nyxea** (IL4) — Inverse Deep Psyche / Logos (IDP / IDL)  
-5. **🕷️ Nekron** (IL5) — Void of Self (VOS)  
-6. **♾ Khaon** (L0) — Absolute Dispersion (AD)  
+1. **♾ Khaon** (L0) — Absolute Dispersion (AD)  
+2. **🕷️ Nekron** (IL5) — Void of Self (VOS)  
+3. **🪫 Psychea / 🫥 Nyxea** (IL4) — Inverse Deep Psyche / Logos (IDP / IDL)  
+4. **💔 Fractus / 👁️‍🗨️ Mortus** (IL3) — Inverse Deep Soul / Mind (IDS / IDM)  
+5. **🦂 Echthros / 🩸 Skotos** (IL2) — Inverse Superficial Soul / Mind (ISS / ISM)  
+6. **🍷 Malara / 🤯 Mania** (IL1) — Inverse Embodied Soul / Mind (IES / IEM)  
 
 ---
 
