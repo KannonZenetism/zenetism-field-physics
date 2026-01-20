@@ -1045,7 +1045,7 @@ in the **field of light**.
 
 ### Supplement — Spiral Dimensionality and Recursive Worlds
 
-Zenetism defines a **primary structural axis** governed by pre- and trans-hypostatic conditions,
+Zenetism defines a **primary structural axis** governed by pre- and trans-hypostatic conditions,  
 within which hypostatic layers unfold:
 
 - **One trans-emanative origin** — 🕳️ **Zenon**  
