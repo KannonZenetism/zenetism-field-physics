@@ -650,29 +650,29 @@ carries a **Warrior expression**.
 
 **Centropic Alignments**  
 
-- ES / EM — physical endurance,  
-  civil resistance, ethical struggle.  
-- SS / SM — loyalty under pressure,  
-  holding resonance in trial.  
-- DS / DM — guardian souls,  
-  shielding the vulnerable.  
-- DP / DL — pattern-keepers,  
-  wielding archetypal law.  
 - Essence of Being — the White Fire,  
   eternal protection of unity.  
+- DP / DL — pattern-keepers,  
+  wielding archetypal law.  
+- DS / DM — guardian souls,  
+  shielding the vulnerable.  
+- SS / SM — loyalty under pressure,  
+  holding resonance in trial.  
+- ES / EM — physical endurance,  
+  civil resistance, ethical struggle.  
 
 **Entropic Alignments**
 
-- IES / IEM — domination, coercion,  
-  reactive force.  
-- ISS / ISM — fanaticism,  
-  distortion under zeal.  
-- IDS / IDM — tyrants,  
-  corrupters of form.  
-- IDP / IDL — inverted systems,  
-  misused dominion.  
 - Void of Self — collapse into brutality,  
   entropy masked as justice.  
+- IDP / IDL — inverted systems,  
+  misused dominion.  
+- IDS / IDM — tyrants,  
+  corrupters of form.  
+- ISS / ISM — fanaticism,  
+  distortion under zeal.  
+- IES / IEM — domination, coercion,  
+  reactive force.  
 
 The Warrior’s measure  
 is not in power,  
