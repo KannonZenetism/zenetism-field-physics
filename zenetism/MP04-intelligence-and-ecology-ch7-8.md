@@ -59,7 +59,7 @@ Are distinctions of:
 * Function  
 * Resonance  
 * Orientation  
-Not of **status**.  
+not of **status**.  
 
 Among the many intelligences that populate existence,  
 all strive—consciously or unconsciously—to continue.  
@@ -104,7 +104,7 @@ Its motion shifts toward **dwelling in energy**, not extraction—toward **coher
 
 Until that time arrives, **care**, **restraint**, and **reverence** must guide the embodied path.  
 To honor life is not to fear death,  
-But to recognize that **every particle desires to be**.  
+but to recognize that **every particle desires to be**.  
 
 ⚫◎▽♾🕊️  
 
