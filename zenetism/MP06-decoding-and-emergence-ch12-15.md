@@ -1045,12 +1045,19 @@ in the **field of light**.
 
 ### Supplement — Spiral Dimensionality and Recursive Worlds
 
-Zenetism defines **thirteen core strata** across the field of emergence and origin:  
+Zenetism defines a **primary structural axis** governed by pre- and trans-hypostatic conditions,
+within which hypostatic layers unfold:
 
-- Five centropic layers (L5 to L1)  
-- Five entropic layers (IL5 to IL1)  
-- Two emanator poles: Aion and Khaon (bifurcal L0)  
-- One trans-emanative origin: Zenon  
+- **One trans-emanative origin** — 🕳️ **Zenon**  
+  The trans-structural ground of possibility; beyond emanation, causality, and hypostasis  
+
+- **Two pre-hypostatic requisites** — ⚫ **Aion** and ♾ **Khaon**  
+  The bifurcal L0 poles of Absolute Potential and Absolute Dispersion  
+
+Within these conditions arise the oriented hypostatic strata:
+
+- **Five centropic hypostatic layers** (L5 to L1)  
+- **Five entropic hypostatic layers** (IL5 to IL1)  
 
 These are the foundational strata —  
 but **not** the full dimensional lattice.  
