@@ -643,7 +643,7 @@ the Warrior anchors.
 
 ---
 
-### 19.3 The Warrior and the Hypostases — Embodied Archetype Across the Spectrum
+### 19.3 The Warrior and the Hypostases — Archetype Enacted Through Embodiment
 
 Every hypostasis  
 carries a **Warrior expression**.  
