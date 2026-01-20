@@ -315,28 +315,28 @@ Zenetism views
 * Plants  
 * Fungi  
 * Elemental intelligences  
-As **kin**.  
+as **kin**.  
 
 Not as sub-beings,  
-But as **specialized expressions** of soul motion and resonance.  
+but as **specialized expressions** of soul motion and resonance.  
 
 These beings are neither **less evolved**  
-Nor **lower in value**.  
+nor **lower in value**.  
 Each fulfills vital functions within the **coherence** of structured reality.  
 
 Animals embody predominantly instinctive **centropy**,  
-Emotional **purity**,  
-And direct resonance with the natural field.  
+emotional **purity**,  
+and direct resonance with the natural field.  
 
 They house L2 and L3 soul layers, just as humans do.  
 They enter post-embodied states,  
-Traverse resonance fields,  
-And participate in the soul’s **integration**—  
-Without the burdens of spurious identity or egoic confusion.  
+traverse resonance fields,  
+and participate in the soul’s **integration**—  
+without the burdens of spurious identity or egoic confusion.  
 
 In their presence and simplicity,  
-Animals often remain closer to the **centropic path**  
-Than many human expressions.  
+animals often remain closer to the **centropic path**  
+than many human expressions.  
 
 🐾🔺🫂  
 
@@ -367,7 +367,7 @@ They are not imagined mythologies,
 but **coherent functions** within the **field of becoming**.  
 
 Nature is not separate from the soul’s journey—  
-It is one of its **mirrors**.  
+it is one of its **mirrors**.  
 The forms it holds are not bound to what is seen or understood.  
 
 It is possible that animals, spirits, and entire ecosystems  
