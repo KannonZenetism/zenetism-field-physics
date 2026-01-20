@@ -1891,8 +1891,8 @@ Some **gods** arise within **impermanent hypostases**,
 and may dissolve when their structural field retracts—  
 especially those bound to:  
 
+- **Superficial layers** (**SS / SM**)   
 - **Embodied layers** (**ES / EM**)  
-- **Superficial layers** (**SS / SM**)  
 - Or **inverse strata** that never integrate into deeper permanence  
 
 Only **deities** dwelling within:  
