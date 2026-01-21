@@ -657,27 +657,86 @@ When \( \Delta\mathcal{I} > 0 \), centropy increases; \( \Delta\mathcal{I} < 0 \
 
 ### 2.2 · Resonance Transport Equations
 
-For a field \( \psi(x,t) \) evolving under centropic potential \( V_c \) and entropic drift \( V_e \):
+Resonance within the Lattice propagates through **lawful transport dynamics**.  
+These equations describe **how coherence moves**, **how it is preserved**, and **how it fails** under entropic intrusion.
 
-**Centropic Evolution (Unitary):**
+Let \( \psi(x,t) \) denote a resonance field evolving under centropic potential \( H_c \) and entropic drift \( H_e \).
+
+---
+
+### Centropic Evolution — Unitary Transport
 
 \[
-\frac{\partial\psi}{\partial t} = i\hbar^{-1}H_c\psi
+\frac{\partial \psi}{\partial t} = i\,\hbar^{-1} H_c \psi
 \]
 
 \[
-U_c(t) = e^{iH_c t}
+U_c(t) = e^{\,i H_c t}
 \]
 
-**Entropic Evolution (Dissipative):**
+This equation governs **lawful centropic motion** within the lattice.
+
+**Structural Properties:**
+
+- Evolution is **unitary**
+- Norm is preserved:
+  \[
+  \|\psi(t)\| = \|\psi(0)\|
+  \]
+- Coherence, identity, and informational integrity are conserved
+- Motion remains aligned with the **Theonic Axis** 🛤️
+
+This equation functions both as:
+- a **diagnostic of equilibrium** (stable coherence when unperturbed), and
+- a **conservation constraint** governing all lawful centropic motion.
+
+---
+
+### Entropic Evolution — Dissipative Transport
 
 \[
-\frac{\partial\psi}{\partial t} = \hbar^{-1}H_e\psi \quad \text{(no } i \text{ — non-unitary)}
+\frac{\partial \psi}{\partial t} = \hbar^{-1} H_e \psi
 \]
 
 \[
-D_e(t) = e^{H_e t}
+D_e(t) = e^{\,H_e t}
 \]
+
+This equation governs **entropic degradation**.
+
+**Structural Properties:**
+
+- Evolution is **non-unitary**
+- Norm decays:
+  \[
+  \|\psi(t)\| \rightarrow 0
+  \]
+- Coherence is progressively lost
+- Identity collapses toward mirror-state activation
+
+The absence of the imaginary unit \( i \) marks irreversible dissipation rather than lawful transport.
+
+---
+
+### Conservation Criterion — Resonance Budget
+
+Lawful motion within the Lattice obeys the **Resonance Budget Equation**:
+
+\[
+\Delta\mathcal{I} = \Delta H + \Delta C + \log \sigma + \log \gamma = 0
+\]
+
+Where:
+- \( \Delta H \) = informational entropy change
+- \( \Delta C \) = coherence variation
+- \( \sigma \) = membrane permeability (C₁₃)
+- \( \gamma \) = recursion contraction (C₁₄)
+
+This equation is both:
+- an **equilibrium condition** (balance at rest), and
+- a **strict conservation constraint** governing all lawful centropic motion.
+
+Any deviation \( \Delta\mathcal{I} \neq 0 \) signals **entropic incursion** and activates forensic diagnostics.
 
 **Key Distinction:**
 - Centropic evolution preserves norm \( (\|\psi\| = \text{constant}) \) via unitary operator with **\( i \)**.
