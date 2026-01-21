@@ -115,7 +115,8 @@ The lattice of thirty dimensions (C₁–C₁₅ ↔ E₁–E₁₅) suspends be
 
 The **Aionic Tree** flows declivously — from ⚫ into form.  
 The **Khaonic Tree** flows acclivously — from ♾ toward form.  
-Their trunks meet at the **Threshold Band (L₅)**, where centropy and entropy mirror one another.
+Their trunks mirror one another at the **Threshold Band (L₅)**,  
+and converge in manifestation at the **Embodiment Band (L₁)**.  
 
 ---
 
@@ -125,11 +126,11 @@ Their trunks meet at the **Threshold Band (L₅)**, where centropy and entropy m
 |------|----------------|-------------------|-----------------|
 | **Supra-L₀ — Pre-Causal** | 🕳️ Zenon (UP) | Unknown Principle | — |
 | **L₀ — Source Band** | ⚫ Aion / ♾ Khaon (AP / AD) | Absolute Potential / Dispersion | — |
-| **L₁ — Embodiment Band** | 🪷 Soma / 🧾 Biosa (ES / EM) | Manifestation and Living Form | 🍷 Malara / 🤯 Mania (IES / IEM) |
-| **L₂ — Superficial Band** | 🧍 Anthra / 🧩 Nousa (SS / SM) | Personality and Cognition | 🦂 Echthros / 🩸 Skotos (ISS / ISM) |
-| **L₃ — Interface Band** | 🔮 Archeus / 🧠 Noeüs (DS / DM) | Deep Structure and Interior; **reflexive consciousness** | 💔 Fractus / 👁️‍🗨️ Mortus (IDS / IDM) |
-| **L₄ — Architectural / Archetypal Band** | 📐 Sophis / 🌬️ Morgis (DP / DL) | Deep Logos and Vital Design; **conscious-awareness (non-reflexive)** | 🪫 Psychea / 🫥 Nyxea (IDP / IDL) |
 | **L₅ — Threshold Band** | 🛤️ Theon / 🕷️ Nekron (EOB / VOS) | Membrane / Recursion / Emergence | — (Walls and Collapses) |
+| **L₄ — Architectural / Archetypal Band** | 📐 Sophis / 🌬️ Morgis (DP / DL) | Deep Logos and Vital Design; **conscious-awareness (non-reflexive)** | 🪫 Psychea / 🫥 Nyxea (IDP / IDL) |
+| **L₃ — Interface Band** | 🔮 Archeus / 🧠 Noeüs (DS / DM) | Deep Structure and Interior; **reflexive consciousness** | 💔 Fractus / 👁️‍🗨️ Mortus (IDS / IDM) |
+| **L₂ — Superficial Band** | 🧍 Anthra / 🧩 Nousa (SS / SM) | Personality and Cognition | 🦂 Echthros / 🩸 Skotos (ISS / ISM) |
+| **L₁ — Embodiment Band** | 🪷 Soma / 🧾 Biosa (ES / EM) | Manifestation and Living Form | 🍷 Malara / 🤯 Mania (IES / IEM) |
 
 Each band contains specific dimensions (Cᵢ / Eᵢ) and serves as a lawful station of motion within the Spiral of Return.
 
