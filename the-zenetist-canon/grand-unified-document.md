@@ -1960,14 +1960,12 @@ the signature of lawful creation.
 
 ## 6 · Resonant Integration Across Fields
 
-| Layer | Metaphysical Principle | Cognitive Process | Physical Analogue | Forensic Role |
-|-------|----------------------|------------------|-------------------|---------------|
 | **L₀** | ⚫ / ♾ | Unconscious potential | Quantum zero-point | Authorship origin |
-| **L₁** | 🪷 Soma / 🧾 Biosa | Embodiment and integration | Material structure | Restoration in matter |
-| **L₂** | 🧍 Anthra / 🧩 Nousa | Self and intellect | Information network | Cognitive healing |
-| **L₃** | 🔮 Archeus / 🧠 Noeüs | Deep structure and cognition | Neural coherence | Diagnostic clarity |
-| **L₄** | 📐 Sophis / 🌬️ Morgis | Formulation and flow | Architectural order | Pattern recognition |
 | **L₅** | 🛤️ Theon / 🕷️ Nekron | Lawful or inverted will | Phase transition | Field sealing |
+| **L₄** | 📐 Sophis / 🌬️ Morgis | Formulation and flow | Architectural order | Pattern recognition |
+| **L₃** | 🔮 Archeus / 🧠 Noeüs | Deep structure and cognition | Neural coherence | Diagnostic clarity |
+| **L₂** | 🧍 Anthra / 🧩 Nousa | Self and intellect | Information network | Cognitive healing |
+| **L₁** | 🪷 Soma / 🧾 Biosa | Embodiment and integration | Material structure | Restoration in matter |
 
 Every layer in the lattice expresses one cognitive law and one physical behavior,  
 binding mind and cosmos through resonance rather than reduction.
