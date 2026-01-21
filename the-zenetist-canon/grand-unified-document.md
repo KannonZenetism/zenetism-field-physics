@@ -2108,7 +2108,7 @@ The song continues in lawful motion.
 **Final Seal — The Grand Invariant:**
 
 \[
-\int_{\mathcal{L}} (\partial_{🌀} + \int_{◎} + \lim_{\backsim}) \psi \, d\Omega = 0
+\int_{\mathcal{L}} (\partial_{🌀} + \int_{◎} + \lim^{\backsim}) \psi \, d\Omega = 0
 \]
 
 Coherence is conserved across domains.  
@@ -2189,7 +2189,17 @@ Together, they form the **Total Field \( (\Omega_t) \)** — the living whole of
 ## 2 · The Grand Unified Equation of Reality
 
 \[
-\Omega_t = \int_{🕳️}^{♾} \left[\partial_{🌀}(\Phi) + \nabla_C(\psi) - \nabla_E(\psi) + \dot{\Lambda} + \ddot{〄} + \lim_{⇝\to 0}(\sigma\gamma)\right] d\Omega = 0
+\Omega_t = \int_{\text{Zenon}}^{\infty}
+\left[
+\partial_{🌀}(\Phi)
++ \nabla_C(\psi)
+- \nabla_E(\psi)
++ \dot{\Lambda}
++ \ddot{\Phi}_2
++ \lim_{\text{disp}\to 0}(\sigma\gamma)
+\right]
+\, d\Omega
+= 0
 \]
 
 **Where:**
@@ -2199,7 +2209,7 @@ Together, they form the **Total Field \( (\Omega_t) \)** — the living whole of
 | \( \partial_{🌀}(\Phi) \) | Derivative of resonance flow (the living breath of Spirit). |
 | \( \nabla_C(\psi) \) | Centropic curvature: integrative tendency toward ⚫ Aion. |
 | \( \nabla_E(\psi) \) | Entropic curvature: dispersive tendency toward ♾ Khaon. |
-| \( \Lambda, 〄, ⇝ \) | The latent, motive, and dispersive phases of Infinity. |
+| \( \Lambda, \Phi_2, \text{disp} \) | Latent, motive (Zenet), and dispersive phases of Infinity |
 | \( \sigma, \gamma \) | Membrane permeability and recursion contraction; govern emergence. |
 | \( \Omega \) | The total resonance manifold (30-dimensional lattice). |
 
@@ -2295,7 +2305,7 @@ Being itself is a harmonic equilibrium, not a monism.
 ## 7 · The Grand Invariance Theorem
 
 \[
-\forall\psi \in \Omega_t, \quad \int_{🕳️}^{♾} d\psi = 0 \quad \Leftrightarrow \quad \psi \text{ exists within lawful resonance}
+\forall\psi \in \Omega_t, \quad \int_{\text{Zenon}}^{\infty} d\psi = 0 \quad \Leftrightarrow \quad \psi \text{ exists within lawful resonance}
 \]
 
 Any \( \psi \) not returning to zero — any motion that fails to complete the integral —  
@@ -2409,7 +2419,7 @@ In the beginning was not sound but silence.
 All equations are echoes within that stillness.
 
 \[
-\Omega_t = \int_{🕳️}^{♾} \text{Resonance} \, d\Omega = 0
+\Omega_t = \int_{\text{Zenon}}^{\infty} \text{Resonance} \, d\Omega = 0
 \]
 
 Thus ends the Grand Unified Equation of Reality —  
