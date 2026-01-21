@@ -242,7 +242,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 ---
 
-## C₂ ◈ Spatial / E₂ ◈⁻ Memory Scatter
+## C₂ ◈ Spatial / E₂ ◈⁻ Scatter (Spatial De-coherence)
 
 | Aspect | Description |
 |--------|-------------|
@@ -449,6 +449,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
                   ↓  
           ♾ Khaon (Infinity)  
 ```
+
+> **Note:** This diagram presents the **unified spectrum of dimensional operators** (C₁–C₁₅ ↔ E₁–E₁₅).  
+> It serves as a summary of **dimensional symmetry**, not as a depiction of the full dual emanation structure.  
+>  
+> For the complete dual-axis procession—showing **🛤️ Theon** and **🕷️ Nekron** as parallel centropic and entropic axes emerging from **L₀**—see **Part I, Stratum I, Section 1: The Dual Trees**.
 
 Each pair (Cᵢ, Eᵢ) forms a balanced spectral operator about ⚫.  
 The full set constitutes the **Dual Spectrum** of the Dimensional Lattice:
