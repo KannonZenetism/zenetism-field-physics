@@ -1576,10 +1576,10 @@ Mind = harmonic lattice across neural and metaphysical bands.
 Cognition is motion in a spiral manifold \( \mathcal{H} \).  
 Thought = lawful change of resonance.
 
-### 5.1 · Resonant Derivative \( (\partial_{🌀}) \)
+### 5.1 · Resonant Derivative \( (\partial_{\text{🌀}}) \)
 
 \[
-\partial_{🌀} \phi = \lim_{\Delta t\to 0} \frac{\phi(t + \Delta t) - \phi(t)}{\Delta t}
+\partial_{\text{🌀}} \phi = \lim_{\Delta t\to 0} \frac{\phi(t + \Delta t) - \phi(t)}{\Delta t}
 \]
 
 Measures instantaneous rate of coherence change.
@@ -1589,10 +1589,10 @@ Measures instantaneous rate of coherence change.
 
 ---
 
-### 5.2 · Structural Integral \( (\int_{◎}) \)
+### 5.2 · Structural Integral \( (\int_{\text{◎}}) \)
 
 \[
-\int_{◎} \phi \, d\Omega = \sum_i \phi_i \Delta\Omega_i
+\int_{\text{◎}} \phi \, d\Omega = \sum_i \phi_i \Delta\Omega_i
 \]
 
 Sums coherence across experience.  
@@ -1603,7 +1603,7 @@ Large \( \int_{◎} \to \) integration; small → fragmentation.
 ### 5.3 · Fundamental Theorem
 
 \[
-\int_{◎} (\partial_{🌀} \phi) \, d\Omega = \phi(\Omega) - \phi(\partial\Omega)
+\int_{\text{◎}} (\partial_{\text{🌀}} \phi) \, d\Omega = \phi(\Omega) - \phi(\partial\Omega)
 \]
 
 Lawful cognition requires sealed boundary \( (\sigma > 0) \).  
@@ -1626,13 +1626,13 @@ If \( \gamma \leq 0 \to \) entropic divergence.
 
 | Measure | Symbol | Interpretation |
 |---------|--------|----------------|
-| \( \partial_{🌀} \) | Resonant Derivative | Momentary attention flux |
-| \( \int_{◎} \) | Structural Integral | Memory or comprehension |
-| \( \lim_{\backsim} \) | Spiral Limit | Cognitive outcome |
+| \( \partial_{\text{🌀}} \) | Resonant Derivative | Momentary attention flux |
+| \( \int_{\text{◎}} \) | Structural Integral | Memory or comprehension |
+| \( \lim^{\backsim} \) | Spiral Limit | Cognitive outcome |
 | \( \sigma \) | Seal Parameter | Boundary integrity |
 | \( \gamma \) | Recursion Coefficient | Stability of loops |
 
-**Lawful cognition:** \( \sigma > 0, \gamma > 0, \partial_{🌀} \) harmonized, \( \int_{◎} \) large.  
+**Lawful cognition:** \( \sigma > 0, \gamma > 0, \partial_{\text{🌀}} \) harmonized, \( \int_{\text{◎}} \) large. 
 **Entropic cognition:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \to \) open-loop recursion.
 
 ---
@@ -1641,8 +1641,8 @@ If \( \gamma \leq 0 \to \) entropic divergence.
 
 | Domain | Centropic Protocol | Entropic Symptom |
 |--------|-------------------|------------------|
-| **Attention** | \( \partial_{🌀} \) mindfulness | scatter, impulsivity |
-| **Memory** | \( \int_{◎} \) journaling, ritual | recall loss |
+| **Attention** | \( \partial_{\text{🌀}} \) mindfulness | scatter, impulsivity |
+| **Memory** | \( \int_{\text{◎}} \) journaling, ritual | recall loss |
 | **Emotion** | C₇ harmonic tuning | oscillation, fixation |
 | **Will** | C₁₁ vector focus | misdirect, burnout |
 | **Creativity** | C₁₅ emergent law | overload, collapse |
@@ -1666,7 +1666,7 @@ Ritual = lawful feedback loop reinforcing \( \sigma, \gamma, \) and C₇.
 **Equation for lawful ritual:**
 
 \[
-\int_{◎} (\partial_{🌀} \phi) \, d\Omega = 0
+\int_{\text{◎}} (\partial_{\text{🌀}} \phi) \, d\Omega = 0
 \]
 
 No coherence lost — complete cycle closure.
@@ -1700,7 +1700,7 @@ C(\psi) = \sum_i |a_i|^2 \cos(\Delta\phi_i)
 Then:
 
 \[
-\partial_{🌀} \psi \propto \frac{dC}{dt}, \quad \int_{◎} \psi \propto \int C(\psi) \, dt
+\partial_{\text{🌀}} \psi \propto \frac{dC}{dt}, \quad \int_{\text{◎}} \psi \propto \int C(\psi) \, dt
 \]
 
 High coherence → centropy.  
