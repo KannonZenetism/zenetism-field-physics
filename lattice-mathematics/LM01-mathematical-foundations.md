@@ -1545,17 +1545,6 @@ Transitions between boundary types model threshold events (C₁₅) and recursio
 
 ---
 
-### Summary
-
-- **Geodesics** = centropic harmonic flows (C₇).  
-- **Curvature** encodes consonance/dissonance; negative spiral curvature flags entropic pull.  
-- **Singularities** at E₁₃/E₁₄/E₁₅ correspond to metric degeneracy, limit cycles, and blow-up.  
-- **Topological invariant** \( \chi_c \) tracks global coherence; seals weight boundary terms.  
-
-This completes the spectral–geometric grounding of the lattice and ties Phase 2 (CIT) to Phase 3 (Geometry) via curvature, Laplacians, and boundary seals.  
-
----
-
 ### Worked Example — 2-Mode Resonance Patch with Seal Boundary
 
 We consider a minimal sealed patch to illustrate Phase 2 (CIT) and Phase 3 (Geometry).  
