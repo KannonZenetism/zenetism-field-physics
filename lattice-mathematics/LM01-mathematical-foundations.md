@@ -619,7 +619,7 @@ If not contractive (\( k \geq 1 \)), recursion diverges or stagnates, manifestin
 
 ---
 
-### Lemma (Dual Spectrum — Centropic/Entropic Eigenpairing)
+### Lemma (Dual Spectrum — Centropic / Entropic Eigenpairing)
 
 **Statement**  
 
