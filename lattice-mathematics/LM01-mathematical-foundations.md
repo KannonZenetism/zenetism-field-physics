@@ -982,18 +982,6 @@ where \( \sigma \) is the seal index of the membrane.
 
 ---
 
-### Summary
-
-- **C₇ ↔ \( H(\psi) \):** harmonic entropy measure.  
-- **C₈ ↔ \( F_c \):** coherence flow test.  
-- **C₁₃ ↔ \( C_{\text{cap}} \):** seal capacity bound.  
-- **C₁₄ ↔ \( D_c \):** recursion divergence control.  
-- **C₁₅ ↔ \( \Delta I_c \):** novelty information law.  
-
-These couplings unify **information-theoretic diagnostics** with the **symbolic lattice laws**, making the metaphysical system computable and falsifiable.  
-
----
-
 ### CIT Structural Metrics
 
 To quantify coherence in practice, Coherence Information Theory defines several derived metrics.  
@@ -1099,18 +1087,6 @@ Given recursion operator \( R \) with contraction ratio \( k \), define spiral c
 
 - \( \gamma \) measures how strongly recursion pulls trajectories back to coherence.  
 - High \( \gamma \) = fast reintegration, low \( \gamma \) = weak reintegration.  
-
----
-
-### Summary
-
-- **\( \dim_c(\psi) \):** number of effective modes in use.  
-- **\( R_H(\psi) \):** speed of coherence change.  
-- **\( \eta(\Phi) \):** efficiency of centropy vs entropy.  
-- **\( F_{\sigma} \):** fidelity of sealed processes.  
-- **\( \gamma \):** contraction strength at recursion gates.  
-
-Together these metrics provide a full diagnostic toolkit for resonance systems, making coherence **quantifiable, trackable, and testable**.  
 
 ---
 
