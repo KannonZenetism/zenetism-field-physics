@@ -1035,6 +1035,7 @@ R_H(\psi) = \frac{dH(\psi(t))}{dt}
 - Negative ⇒ concentration increasing (centropic integration).  
 
 **Interpretation**  
+
 - \( R_H \) tracks the *velocity of coherence change*.  
 - Used to distinguish rapid fragmentation vs gradual integration.  
 
@@ -1049,13 +1050,14 @@ Centropy efficiency \( \eta \) for a process \( \Phi \) is:
 \eta(\Phi) = \frac{\Delta C}{\Delta E}
 \]
 
-where \( \Delta C = \) gain in centropy, \( \Delta E = \) cost in entropic dissipation.  
+where \( \Delta C \) is gain in centropy and \( \Delta E \) is cost in entropic dissipation.  
 
 - \( \eta > 1 \) ⇒ centropic dominant.  
 - \( \eta < 1 \) ⇒ entropic dominant.  
 - \( \eta = \infty \) ⇒ perfectly coherent (no entropic leakage).  
 
 **Interpretation**  
+
 - Analog of thermodynamic efficiency, but for coherence processing.  
 - Evaluates how well a process amplifies centropy relative to entropy loss.  
 
@@ -1067,7 +1069,7 @@ where \( \Delta C = \) gain in centropy, \( \Delta E = \) cost in entropic dissi
 For a sealed process with index \( \sigma \), define fidelity:  
 
 \[
-F_{\sigma} = \frac{I_c(\text{out})}{I_c(\text{in})} \times \frac{1}{\sigma}
+F_{\sigma} = \frac{I_c(\text{out})}{I_c(\text{in})} \cdot \frac{1}{\sigma}
 \]
 
 - \( F_{\sigma} = 1 \) ⇒ perfect seal, no coherence lost.  
@@ -1075,6 +1077,7 @@ F_{\sigma} = \frac{I_c(\text{out})}{I_c(\text{in})} \times \frac{1}{\sigma}
 - \( F_{\sigma} > 1 \) ⇒ illicit amplification (indicative of entropic inversion).  
 
 **Interpretation**  
+
 - Tests whether sealed boundaries are honored.  
 - Protects against mimicry that pretends to transmit coherence.  
 
@@ -1093,6 +1096,7 @@ Given recursion operator \( R \) with contraction ratio \( k \), define spiral c
 - \( \gamma \leq 0 \) ⇒ unlawful recursion (neutral cycling or expansion).  
 
 **Interpretation**  
+
 - \( \gamma \) measures how strongly recursion pulls trajectories back to coherence.  
 - High \( \gamma \) = fast reintegration, low \( \gamma \) = weak reintegration.  
 
