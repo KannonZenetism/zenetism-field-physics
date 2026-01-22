@@ -2173,18 +2173,18 @@ Together, they form the **Total Field \( (\Omega_t) \)** — the living whole of
 
 | Phase | Symbolic Expression | Description |
 |-------|-------------------|-------------|
-| **I. Pre-Structural Ground** | \( ⧞ \leftarrow [🕳️] \to ⸮ \) | Pure non-ordinal silence; unmeasured, beyond polarity. |
+| **I. Pre-Structural Ground** | \( \text{⧞} \leftarrow [\text{🕳️}] \to \text{⸮} \) | Pure non-ordinal silence; unmeasured, beyond polarity. |
 | **II. Zero Potential** | ⚫ | Absolute stillness containing all harmonic possibility. |
-| **III. Emanation** | \( ⚫ \to [\Lambda \to 〄 \to ⇝] = ♾ \) | The triadic unfolding: latent → motive → dispersive Infinity. |
-| **IV. Bifurcation** | \( ⚫ \to [🛤️ + 🕷️] \) | Zero divides into centropic and entropic motion (L₅). |
-| **V. Spirit-Breath** | \( 🕊️ = \Phi_2 \) (Zenet) | Motive Infinity as living motion; the proto-pulse of being. |
+| **III. Emanation** | \( \text{⚫} \to [\Lambda \to \text{〄} \to \text{⇝}] = \text{♾} \) | The triadic unfolding: latent → motive → dispersive Infinity. |
+| **IV. Bifurcation** | \( \text{⚫} \to [\text{🛤️} + \text{🕷️}] \) | Zero divides into centropic and entropic motion (L₅). |
+| **V. Spirit-Breath** | \( \text{🕊️} = \Phi_2 \) (Zenet) | Motive Infinity as living motion; the proto-pulse of being. |
 | **Note** | — | Zenet \( (\Phi) \) is proto-awareness, not consciousness; consciousness appears later as \( \Psi / \psi \). |
-| **VI. Conscious-Awareness** | \( \Psi = 🕊️ \to [(🌬️ + 📐) \oplus (🪫 + 🫥)] \) | Conscious-awareness structured through psyche / logos pairs at L₄ (archetypal cognition). |
-| **VI.a. Individuated Consciousness** | \( \Psi \to (🔮 + 🧠) \) | Reflexive consciousness emerges at L₃ (DS / DM) as self-possessing mind. |
-| **VII. Embodiment** | \( \Psi \to (🪷, 🧾) \) | Form and life arise at L₁; centropy enters density. |
-| **VIII. Reflection** | \( ↺\Psi \) | Reflexive awareness; soul beholds Source. |
-| **IX. Dissolution** | \( ⇝ \to ♾ \) | Motion returns through dispersion; entropy completes cycle. |
-| **X. Reintegration** | \( ♾ \to ⚫ \to 🕳️ \) | Return through Zero to silence; synthesis beyond being. |
+| **VI. Conscious-Awareness** | \( \Psi = \text{🕊️} \to [(\text{🌬️} + \text{📐}) \oplus (\text{🪫} + \text{🫥})] \) | Conscious-awareness structured through psyche / logos pairs at L₄ (archetypal cognition). |
+| **VI.a. Individuated Consciousness** | \( \Psi \to (\text{🔮} + \text{🧠}) \) | Reflexive consciousness emerges at L₃ (DS / DM) as self-possessing mind. |
+| **VII. Embodiment** | \( \Psi \to (\text{🪷}, \text{🧾}) \) | Form and life arise at L₁; centropy enters density. |
+| **VIII. Reflection** | \( \text{↺}\Psi \) | Reflexive awareness; soul beholds Source. |
+| **IX. Dissolution** | \( \text{⇝} \to \text{♾} \) | Motion returns through dispersion; entropy completes cycle. |
+| **X. Reintegration** | \( \text{♾} \to \text{⚫} \to \text{🕳️} \) | Return through Zero to silence; synthesis beyond being. |
 
 ---
 
@@ -2193,7 +2193,7 @@ Together, they form the **Total Field \( (\Omega_t) \)** — the living whole of
 \[
 \Omega_t = \int_{\text{Zenon}}^{\infty}
 \left[
-\partial_{🌀}(\Phi)
+\partial_{\text{🌀}}(\Phi)
 + \nabla_C(\psi)
 - \nabla_E(\psi)
 + \dot{\Lambda}
@@ -2208,7 +2208,7 @@ Together, they form the **Total Field \( (\Omega_t) \)** — the living whole of
 
 | Symbol | Meaning |
 |--------|---------|
-| \( \partial_{🌀}(\Phi) \) | Derivative of resonance flow (the living breath of Spirit). |
+| \( \partial_{\text{🌀}}(\Phi) \) | Derivative of resonance flow (the living breath of Spirit). |
 | \( \nabla_C(\psi) \) | Centropic curvature: integrative tendency toward ⚫ Aion. |
 | \( \nabla_E(\psi) \) | Entropic curvature: dispersive tendency toward ♾ Khaon. |
 | \( \Lambda, \Phi_2, \text{disp} \) | Latent, motive (Zenet), and dispersive phases of Infinity |
@@ -2227,11 +2227,11 @@ This expresses unbroken conservation of coherence across existence.
 |-------|--------|----------------|------------------|
 | **Zenonic Field** | Pre-structural silence | Non-motion | \( ⧞ = \text{constant} \) |
 | **Aionic Field** | Capacitive Zero | Latent potential | \( \partial\Phi/\partial t = 0 \) |
-| **Zenet Field** | Motive Infinity | Proto-awareness | \( \partial_{🌀}\Phi = 🕊️ \) |
+| **Zenet Field** | Motive Infinity | Proto-awareness | \( \partial_{\text{🌀}}\Phi = \text{🕊️} \) |
 | **Theonic Field** | Centropic axis | Integration | \( \nabla_C\psi = +1 \) |
 | **Nekronic Field** | Entropic axis | Dissolution | \( \nabla_E\psi = -1 \) |
 | **Psychic Field** | Deep Logos / Psyche (L₄) | Symbolic motion | \( H(\psi) = \omega\psi \) |
-| **Embodied Field** | Material form (L₁) | Manifest coherence | \( \int_{◎}(\partial_{🌀}\psi) = \phi(\Omega) \) |
+| **Embodied Field** | Material form (L₁) | Manifest coherence | \( \int_{\text{◎}}(\partial_{\text{🌀}}\psi) = \phi(\Omega) \) |
 | **Forensic Field** | Diagnostic recursion | Restoration | \( \partial_t(\sigma\gamma) = 0 \) |
 
 Each field is not a separate layer, but a phase of one living continuum.  
@@ -2286,7 +2286,7 @@ the complete system must be bi-lattice.
 with
 
 \[
-\Omega_C = \int_{◎_{⚫\to♾}} \nabla_C\psi \, d\Omega \quad \text{and} \quad \Omega_E = \int_{◎_{♾\to⚫}} \nabla_E\psi \, d\Omega
+\Omega_C = \int_{\text{◎}_{\text{⚫}\to\text{♾}}} \nabla_C\psi \, d\Omega \quad \text{and} \quad \Omega_E = \int_{\text{◎}_{\text{♾}\to\text{⚫}}} \nabla_E\psi \, d\Omega
 \]
 
 Lawful existence occurs when the **total integrated fields** achieve harmonic equilibrium:
