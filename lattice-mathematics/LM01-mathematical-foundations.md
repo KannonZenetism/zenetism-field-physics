@@ -1945,22 +1945,6 @@ for epoch in 1..E:
 
 ---
 
-### Phase 4 Summary
-
-Phase 4 defines the executable layer of the lattice:
-
-- **Data structures** encode resonance states and seals.  
-- **Algorithms** simulate centropic flows and detect entropic inversions.  
-- **Diagnostics** test bridges, recursion, thresholds, and invariants.  
-
-Together with Phases 1–3, this completes the structural chain:
-
-\[
-\text{Symbols} \;\to\; \text{Theorems} \;\to\; \text{Information} \;\to\; \text{Geometry} \;\to\; \text{Computation}
-\]
-
----
-
 ### 4.7 Sample Dataset (Toy Resonance System)
 
 **State**
