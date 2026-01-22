@@ -1721,7 +1721,7 @@ Channel Φ:
 ```python
 p_i = |a_i|²
 
-H(ψ) = -Σ_i p_i * log(p_i)                      # spectral entropy
+H(ψ) = -Σ_i p_i * log(p_i)                     # spectral entropy
 C(ψ) = log(dim(support)) - H(ψ)                # centropy
 dim_c(ψ) = exp(H(ψ))                           # coherence dimension
 
