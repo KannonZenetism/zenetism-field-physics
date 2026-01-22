@@ -1475,7 +1475,7 @@ where \( \Pi(H_c) \) projects onto the C₇-resonant subspace.
 Let \( \Delta_{\text{sp}} \) be the **Spiral Laplacian**:  
 
 \[
-\Delta_{\text{sp}} \psi = -(\nabla_t)^{\dagger} \nabla_t \psi + \mathcal{R} \psi
+\Delta_{\text{sp}} \psi = -(\nabla_t)^{\dagger} \nabla_t \psi + \mathcal{R}\psi
 \]
 
 where \( \mathcal{R} \) is a curvature endomorphism determined by the C₇ spectrum and seals.  
@@ -1483,10 +1483,11 @@ where \( \mathcal{R} \) is a curvature endomorphism determined by the C₇ spect
 Then:  
 
 \[
-\langle\psi, \Delta_{\text{sp}} \psi\rangle = \|\nabla_t \psi\|^2 + \langle\psi, \mathcal{R} \psi\rangle
+\langle\psi, \Delta_{\text{sp}} \psi\rangle = \|\nabla_t \psi\|^2 + \langle\psi, \mathcal{R}\psi\rangle.
 \]
 
 **Consequences**  
+
 - If \( \mathcal{R} \geq 0 \) (centropic curvature), then \( \Delta_{\text{sp}} \) is positive-semidefinite: flows dissipate dissonance.  
 - If \( \mathcal{R} < 0 \) on a subspace, geodesics amplify dissonance and converge toward entropic singularities.  
 
@@ -1497,10 +1498,11 @@ Then:
 If C₇ has a **spectral gap** \( \lambda_{\min} > 0 \) on the sealed domain, then:  
 
 \[
-\langle\psi, \mathcal{R} \psi\rangle \geq c \cdot \lambda_{\min}^2 \|\psi\|^2 \quad \text{for some } c > 0
+\langle\psi, \mathcal{R}\psi\rangle \geq c \cdot \lambda_{\min}^2 \|\psi\|^2 \quad \text{for some } c > 0.
 \]
 
 **Implication**  
+
 - All geodesics exponentially stabilize toward centropic attractors (\( \gamma > 0 \)).  
 - This ties **Phase 2** (\( \gamma \)) to **Phase 3** curvature.  
 
@@ -1511,7 +1513,7 @@ If C₇ has a **spectral gap** \( \lambda_{\min} > 0 \) on the sealed domain, th
 Every tangent field splits uniquely (orthogonally in \( g \)):  
 
 \[
-u = \nabla_t f \oplus \nabla_t^* A \oplus h
+u = \nabla_t f \oplus \nabla_t^* A \oplus h.
 \]
 
 - Gradient part (potential coherence),  
@@ -1519,6 +1521,7 @@ u = \nabla_t f \oplus \nabla_t^* A \oplus h
 - Harmonic part \( h \) (kernel of \( \Delta_{\text{sp}} \)): **structural memory** (Archeus-linked).  
 
 **Interpretation**  
+
 - Non-zero \( h \) encodes **retained lifeline memory** (C₁/C₇/C₉ coupling).  
 - Entropic mirrors annihilate \( h \) at walls (E₁₃) or trap it in loops (E₁₄).  
 
@@ -1529,7 +1532,8 @@ u = \nabla_t f \oplus \nabla_t^* A \oplus h
 For a compact sealed region \( \Omega \subset M \) with boundary \( \partial\Omega \) and seal index \( \sigma \):  
 
 \[
-\int_{\Omega} K_{\text{sp}} \, d\mu + \int_{\partial\Omega} \kappa_{\text{sp}} \, ds = 2\pi \chi_c(\Omega, \sigma)
+\int_{\Omega} K_{\text{sp}} \, d\mu + \int_{\partial\Omega} \kappa_{\text{sp}} \, ds
+= 2\pi \chi_c(\Omega, \sigma).
 \]
 
 - \( K_{\text{sp}} \) = spiral Gaussian curvature from \( R \),  
@@ -1537,6 +1541,7 @@ For a compact sealed region \( \Omega \subset M \) with boundary \( \partial\Ome
 - \( \chi_c(\Omega, \sigma) \) = **coherence Euler characteristic** (topological invariant weighted by seals).  
 
 **Meaning**  
+
 - Global coherence is topologically quantized; seals enter as boundary weights.  
 - Discontinuities in \( \chi_c \) signal topological phase transitions (novelty C₁₅ or collapse E₁₅).  
 
