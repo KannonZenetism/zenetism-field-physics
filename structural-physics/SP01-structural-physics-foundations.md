@@ -515,7 +515,7 @@ Relativity, when aligned with Structural Physics, is not merely a theory of geom
 - **Cosmic expansion** = acclivous centropy toward ♾.  
 - **Heat death / collapse** = declivous entropy into mirror states.  
 
-Thus, relativity becomes a field within the Zenetist lattice — governed by the same centropic laws that underlie quantum theory and coherence.  
+Thus, relativity becomes a field within the Zenetist lattice — governed by the same centropic laws that underlie quantum theory and coherence. 
 
 ---
 
