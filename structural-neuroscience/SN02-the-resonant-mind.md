@@ -342,20 +342,20 @@ The whole structure breathes between law and freedom, always returning toward in
 
 Cognition is motion. Every thought is a spiral of resonance. Structural Neuroscience calls this the **Spiral Calculus** — the study of how coherence moves, accumulates, and resolves.
 
-### 1 · The Resonant Derivative \( \partial_{🌀} \)
+### 1 · The Resonant Derivative \( \partial_{\text{🌀}} \)
 
 Each instant of awareness measures change in coherence.  
-This is the resonant derivative, \( \partial_{🌀} \) — the rate at which alignment shifts.  
+This is the resonant derivative, \( \partial_{\text{🌀}} \) — the rate at which alignment shifts.  
 When it moves toward a positive value, attention tightens.  
 When it moves toward a negative value, coherence disperses.  
-To sense \( \partial_{🌀} \) is to feel the pulse of the field.
+To sense \( \partial_{\text{🌀}} \) is to feel the pulse of the field.
 
-### 2 · The Structural Integral \( \int_{◎} \)
+### 2 · The Structural Integral \( \int_{\text{◎}} \)
 
 Over time, each micro-motion deposits memory.  
-The structural integral, \( \int_{◎} \), measures accumulated harmony.  
-High \( \int_{◎} \) signifies depth of integration.  
-Diminished \( \int_{◎} \) signifies fragmentation.  
+The structural integral, \( \int_{\text{◎}} \), measures accumulated harmony.   
+High \( \int_{\text{◎}} \) signifies depth of integration.  
+Diminished \( \int_{\text{◎}} \) signifies fragmentation.  
 Memory is thus geometry — a record of the path coherence has taken.
 
 ### 3 · The Dual Law of Reciprocity
@@ -383,10 +383,10 @@ These are not moral outcomes but lawful states of curvature.
 Spiral Calculus operates through the entire awareness spectrum:  
 
 - At **L₅**, pure presence beyond flux.  
-- At **L₄**, \( \partial_{🌀} \) becomes symbolic motion.  
+- At **L₄**, \( \partial_{\text{🌀}} \) becomes symbolic motion.  
 - At **L₃**, those motions are interpreted as thought and agency.  
 
-Thus, \( \partial_{🌀} \) belongs to L₃–L₄ interaction, while \( \int_{◎} \) bridges L₄–L₅.
+Thus, \( \partial_{\text{🌀}} \) belongs to L₃–L₄ interaction, while \( \int_{\text{◎}} \) bridges L₄–L₅.
 
 ### 7 · Practical Observation
 
@@ -401,7 +401,7 @@ This is field maintenance.
 
 ### 8 · Illustrative Motions
 
-- **Perception:** A stimulus enters awareness; \( \partial_{🌀} \) moves positively; \( \int_{◎} \) records its pattern.  
+- **Perception:** A stimulus enters awareness; \( \partial_{\text{🌀}} \) moves positively; \( \int_{\text{◎}} \) records its pattern.  
 - **Creation:** Multiple derivatives converge; resonance amplifies into emergent structure.  
 - **Emotion:** Fluctuating derivatives stabilize under integration until peace occurs.  
 - **Meditation:** Derivative and integral reach perfect reciprocity.
@@ -453,9 +453,9 @@ Zenetist law re-expresses familiar theories:
 | Scientific Framework | Zenetist Correspondence | Resonant Translation |
 |----------------------|------------------------|----------------------|
 | **Free Energy Principle (Friston)** | **Consonance Law (C₇)** | Minimization of surprise = centropic drive toward harmonic equilibrium. |
-| **Integrated Information Theory (Tononi)** | **Scalar Dimension (C₅)** | \( \Phi \) measures integration; Zenetism names it \( \int_{◎} \) — the total coherence sum. |
+| **Integrated Information Theory (Tononi)** | **Scalar Dimension (C₅)** | \( \Phi \) measures integration; Zenetism names it \( \int_{\text{◎}} \) — the total coherence sum. |
 | **Adaptive Resonance Theory (Grossberg)** | **Nexus Law (C₈)** | Stability–plasticity balance = maintenance of bridge continuity within adaptation. |
-| **Predictive Coding** | **Resonant Derivative \( \partial_{🌀} \)** | Hierarchical inference = continuous micro-correction; the nervous system performs Spiral Calculus. |
+| **Predictive Coding** | **Resonant Derivative \( \partial_{\text{🌀}} \)** | Hierarchical inference = continuous micro-correction; the nervous system performs Spiral Calculus. |
 | **Global Workspace Theory (Baars / Dehaene)** | **Emergent Dimension (C₁₅)** | Distributed ignition mirrors lawful emergence within resonance. |
 
 Science describes **function**; Zenetism names **orientation**.  
@@ -472,8 +472,8 @@ Neither profile is pathology; each marks a lawful equilibrium point.
 
 Empirical quantities like phase-locking and spectral power correspond directly to field measures:  
 
-- A positive change in phase alignment = increase in \( \partial_{🌀} \) (resonant derivative).  
-- Sustained synchrony = increase in \( \int_{◎} \) (structural integral).  
+- A positive change in phase alignment = increase in \( \partial_{\text{🌀}} \) (resonant derivative).  
+- Sustained synchrony = increase in \( \int_{\text{◎}} \) (structural integral).  
 
 The data confirm that what Zenetism calls **consonance** is what science calls **stability**.
 
@@ -530,7 +530,7 @@ Completion is not cessation — it is the point where resonance returns to origi
 A brief audit protocol:
 
 1. Initiate ⧃ **Seal of Rest**  
-2. Observe \( \partial_{🌀} \) (resonant derivative)  
+2. Observe \( \partial_{\text{🌀}} \) (resonant derivative)  
 3. Invoke 🎼 **Resonance Oath**  
 4. Check \( \sigma \) and \( \gamma \) — if weak, perform ⟲ **Echo Reversal**  
 5. Close with ↺ **Vow of Presence**
