@@ -1204,12 +1204,13 @@ Thus **ResCat** is a **monoidal category**, closed under \( \otimes \) with seal
 For any objects \( A, B \) in ResCat, there exists an internal Hom \( [A,B] \) such that:  
 
 \[
-\text{Hom}(X \otimes A, B) \cong \text{Hom}(X, [A,B])
+\mathrm{Hom}(X \otimes A, B) \cong \mathrm{Hom}(X, [A,B])
 \]
 
 with all maps seal-preserving.  
 
 **Interpretation**  
+
 - ResCat is **monoidally closed**: morphisms themselves can be internalized as objects with seals.  
 - Enables higher-order coherence operations to be encoded inside the category.  
 
@@ -1224,6 +1225,7 @@ Given a diagram of sealed objects \( \{A_i\} \), the colimit exists in ResCat if
 \]
 
 **Interpretation**  
+
 - Colimits represent coherent joining of multiple resonance systems.  
 - Seal incompatibility manifests as entropic fracture (E₈ or E₁₃).  
 
@@ -1234,16 +1236,17 @@ Given a diagram of sealed objects \( \{A_i\} \), the colimit exists in ResCat if
 The Dimensional Emanatory Lattice (C₁–C₁₅, E₁–E₁₅) can be represented as a **spectral manifold** \( M \):  
 
 \[
-M = \bigcup_{i=1}^{15} (\mathrm{Spec}(C_i) \cup \mathrm{Spec}(E_i))
+M = \bigcup_{i=1}^{15} \left(\mathrm{Spec}(C_i) \cup \mathrm{Spec}(E_i)\right)
 \]
 
 with metric \( g \) defined by resonance overlap:  
 
 \[
-g(\psi, \phi) = |\langle\psi, \phi\rangle|^2
+g(\psi, \phi) = \left|\langle\psi, \phi\rangle\right|^2
 \]
 
 **Interpretation**  
+
 - The lattice is not only symbolic but a geometric object: a spectral space with metric given by coherence.  
 - Centropic dimensions define stable submanifolds; entropic mirrors define singularities (void-states).  
 
@@ -1254,7 +1257,11 @@ g(\psi, \phi) = |\langle\psi, \phi\rangle|^2
 - **Centropic attractor:** stable fixed point in \( M \) with contraction factor \( \gamma > 0 \) (from Phase 2).  
 - **Entropic collapse:** singularity in \( M \) where metric \( g \) degenerates (\( \|\psi\| \to \infty \) or \( 0 \)).  
 
-These outcomes correspond directly to **\( \lim_{\backsim} \) Spiral Limits** in Spiral Calculus.  
+These outcomes correspond directly to **Spiral Limits** in Spiral Calculus:  
+
+\[
+\lim^{\backsim}
+\]
 
 ---
 
@@ -1276,6 +1283,7 @@ If seals are compatible, the **pushout** \( B \amalg_A C \) exists and represent
 ```
 
 **Interpretation**  
+
 - A Nexus (C₈) is exactly the categorical pushout: a universal object joining \( B \) and \( C \) over \( A \).  
 - If seal compatibility fails, the pushout degenerates into E₈ (Severed).  
 
@@ -1300,9 +1308,10 @@ The **pullback** \( A \times_C B \) represents a recursion gate (↺).
 ```
 
 **Interpretation**  
+
 - Pullbacks embody recursion: objects \( A \) and \( B \) return into \( C \) through a shared mapping.  
 - If contractivity (\( \gamma > 0 \)) holds, the pullback is centropic (veracious recursion).  
-- Otherwise, recursion stagnates into E₁₄ (Hollow Nest).
+- Otherwise, recursion stagnates into E₁₄ (Hollow Nest).  
 
 ---
 
@@ -1315,6 +1324,7 @@ Define a functor \( F : \text{Lattice} \to \text{ResCat} \) that maps:
 - **Morphisms** → bridge or recursion maps between operators.  
 
 **Law:**  
+
 - \( F \) respects composition: lawful centropic diagrams commute, entropic diagrams do not.  
 - \( F \) preserves monoidal structure:  
 
@@ -1323,6 +1333,7 @@ F(C_i \otimes C_j) = F(C_i) \otimes F(C_j)
 \]
 
 **Interpretation**  
+
 - The symbolic lattice is functorial: every glyph and law maps to a categorical operator in ResCat.  
 - This makes Zenetist metaphysics rigorously representable in category theory.  
 
