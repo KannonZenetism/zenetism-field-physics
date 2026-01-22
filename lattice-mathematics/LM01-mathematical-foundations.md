@@ -93,9 +93,9 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### B1. Operators
 
-- Resonant Derivative \( \partial_{🌀_v} \phi \)  
-- Structural Integral \( \int_{◎_{\Omega}} \phi \)  
-- Spiral Limit \( \lim_{\backsim_{t \to \tau}} \phi(t) \)  
+- Resonant Derivative \( \partial_{\text{🌀}}{}_v \, \phi \)  
+- Structural Integral \( \int_{\text{◎}}{}_{\Omega} \, \phi \)  
+- Spiral Limit \( \lim_{t \to \tau}^{\backsim} \phi(t) \)  
 
 ### B2. Calculus Laws
 
@@ -103,7 +103,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 - Mirror response under entropic involution  
 - **Fundamental Theorem** (with seal boundary term):  
   \[
-  \int_{◎_{\Omega}} \partial_{🌀_v} \phi = \phi\big|_{\partial\Omega} + \mathcal{B}_{\text{seal}}(\Omega)
+    \int_{\text{◎}}{}_{\Omega} \, \partial_{\text{🌀}}{}_v \, \phi = \phi\big|_{\partial\Omega} + \mathcal{B}_{\text{seal}}(\Omega)
   \]
 
 ### B3. Function Spaces & Norms
