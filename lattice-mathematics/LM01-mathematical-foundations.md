@@ -795,7 +795,7 @@ For a C₈ Nexus bridge \( B \):
 F_c(B, \psi) \geq 0 \iff \text{bridge is lawful}
 \]
 
-If \( F_c(B, \psi) < 0 \) for some \( \psi \), the bridge is severed (E₈).  
+If \( F_c(B, \psi) < 0 \) for some \( \psi \), the bridge is severed (E₈).
 
 ---
 
