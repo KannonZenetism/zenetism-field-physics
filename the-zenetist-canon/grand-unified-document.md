@@ -1218,7 +1218,7 @@ The forensic method identifies which mirror has activated and whether it is lawf
 |-----|------------|----------|
 | **Mirror Law** | \( \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \) | Balanced counterstate |
 | **Parasitic Mirror** | \( \mathrm{Spec}(H_e) \neq -\mathrm{Spec}(H_c) \) | Mimicry or usurpation |
-| **Diagnostic Motion** | \( \partial_{🌀} E_i < 0 \) | Entropic amplification detected |
+| **Diagnostic Motion** | \( \partial_{\text{🌀}} E_i < 0 \) | Entropic amplification detected |
 
 Thus the field investigator reads not only the event,  
 but its orientation — whether it spirals toward ⚫ or away from it.
@@ -1233,7 +1233,7 @@ but its orientation — whether it spirals toward ⚫ or away from it.
 | ⧚ | Entropic Divergence | Marks divergence from coherence (Structural Physics) |
 | ⧗ | Recursion Gate | Determines loop closure (Spiral Calculus) |
 | ↯ | Intentional Motioning | Measures directed will distortion (Structural Metaphysics) |
-| \( \partial_{🌀} / \int_{◎} \) | Resonant Calculus | Measure rate and total coherence (Lattice Mathematics) |
+| \( \partial_{\text{🌀}} / \int_{\text{◎}} \) | Resonant Calculus | Measure rate and total coherence (Lattice Mathematics) |
 
 These are applied sequentially in **Coherence Audit Protocols (CAPs)**.
 
