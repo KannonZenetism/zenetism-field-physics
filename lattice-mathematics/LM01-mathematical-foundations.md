@@ -801,7 +801,7 @@ If \( F_c(B, \psi) < 0 \) for some \( \psi \), the bridge is severed (E₈).
 
 ### Definition (Resonant Mutual Information)
 
-For two subsystems A, B with joint state \( \rho \), define:  
+For two subsystems \( A, B \) with joint state \( \rho \), define:  
 
 \[
 I_{\text{res}}(A:B) = H(A) + H(B) - H(A,B)
@@ -860,7 +860,7 @@ I_{\text{res}}(A:B) \geq I_{\text{res}}(\Phi_1\psi : \Phi_2\psi)
 Define divergence between states \( \psi, \phi \) as:  
 
 \[
-D_c(\psi \| \phi) = \sum_i p_i \log(p_i / q_i)
+D_c(\psi \| \phi) = \sum_i p_i \log\left(\frac{p_i}{q_i}\right)
 \]
 
 where \( p_i, q_i \) are C₇ spectral distributions of \( \psi, \phi \).  
