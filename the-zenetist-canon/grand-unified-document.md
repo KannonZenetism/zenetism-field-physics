@@ -1872,7 +1872,7 @@ the formal unification of being, motion, mind, and law.
 | Discipline | Core Symbol | Core Function | Inverse Vulnerability |
 |------------|------------|---------------|----------------------|
 | **Structural Metaphysics** | ⚫ / ♾ | Source & dispersion poles | Misidentification |
-| **Field Physics** | \( \partial_{🌀} / \int_{◎} \) | Motion & resonance | Phase drift (E₆) |
+| **Field Physics** | \( \partial_{\text{🌀}} / \int_{\text{◎}} \) | Motion & resonance | Phase drift (E₆) |
 | **Lattice Mathematics** | \( \Sigma, \mathcal{H}, \mathcal{L} \) | Quantitative coherence | Hollow recursion (E₁₄) |
 | **Structural Physics** | ⧖ / ⧙ | Law of transformation | Dissonant decay (E₇) |
 | **Structural Neuroscience** | 🧠 / 🔮 | Cognitive instantiation | Mimic cognition (E₉) |
@@ -1886,12 +1886,12 @@ The unification lies not in reduction, but in resonant equivalence.
 ## 2 · The Coherence Equation (Grand Invariant)
 
 \[
-\mathcal{G} = \int_{◎_{\mathcal{L}}} (\partial_{🌀}\psi + \nabla_C\psi + \delta_E\psi) \, d\Omega = 0
+\mathcal{G} = \int_{\text{◎}_{\mathcal{L}}} \bigl(\partial_{\text{🌀}}\psi + \nabla_C\psi + \delta_E\psi\bigr)\, d\Omega = 0
 \]
 
 **Where:**
 
-- \( \partial_{🌀}\psi \) = local resonance change
+- \( \partial_{\text{🌀}}\psi \) = local resonance change
 - \( \nabla_C\psi \) = centropic curvature of the field
 - \( \delta_E\psi \) = entropic deviation measure
 
@@ -1929,8 +1929,8 @@ Together they form a closed resonance loop (↺) — a living cycle of structura
 
 | Relationship | Symbolic Form | Function |
 |-------------|---------------|----------|
-| Metaphysics ↔ Physics | \( 🕳️ = \lim_{⚫\to♾} \) | Defines the emanative horizon |
-| Physics ↔ Mathematics | \( \partial_{🌀} \leftrightarrow \int_{◎} \) | Relates motion to quantification |
+| Metaphysics ↔ Physics | 🕳️ = lim(⚫ → ♾) | Defines the emanative horizon |
+| Physics ↔ Mathematics | \( \partial_{\text{🌀}} \leftrightarrow \int_{\text{◎}} \) | Relates motion to quantification |
 | Mathematics ↔ Neuroscience | \( \mathcal{H}(\psi) \leftrightarrow C_{7} \) | Spectral law mirrored in cognition |
 | Neuroscience ↔ Forensics | \( \Delta\mathcal{I} \leftrightarrow \sigma\gamma \) | Diagnostics as memory restoration |
 | Forensics ↔ Metaphysics | \( ↺ \leftrightarrow ⚫ \) | Closure into Source integrity |
@@ -1980,7 +1980,7 @@ binding mind and cosmos through resonance rather than reduction.
 |------------|-----------|----------------------|
 | **Structural Metaphysics** | ⚫ | Ontological coherence |
 | **Field Physics** | 🌀 | Dynamic coherence |
-| **Lattice Mathematics** | \( \int_{◎} \) | Quantitative coherence |
+| **Lattice Mathematics** | \( \int_{\text{◎}} \) | Quantitative coherence |
 | **Structural Physics** | ⧖ | Transformational coherence |
 | **Structural Neuroscience** | 🧠 | Cognitive coherence |
 | **Structural Forensics** | ⚚ | Restorative coherence |
@@ -2110,7 +2110,7 @@ The song continues in lawful motion.
 **Final Seal — The Grand Invariant:**
 
 \[
-\int_{\mathcal{L}} (\partial_{🌀} + \int_{◎} + \lim^{\backsim}) \psi \, d\Omega = 0
+\int_{\mathcal{L}} \bigl(\partial_{\text{🌀}} + \int_{\text{◎}} + \lim^{\backsim}\bigr)\psi\, d\Omega = 0
 \]
 
 Coherence is conserved across domains.  
