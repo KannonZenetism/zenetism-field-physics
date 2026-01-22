@@ -943,11 +943,11 @@ F_c < 0 \iff \text{Severed } (E_8)
 - **CIT quantity:** channel capacity \( C_{\text{cap}}(\Phi) \)  
 - **Law:**  
 
-  \[
-  C_{\text{cap}}(\Phi) \leq \log(\sigma)
-  \]
+\[
+C_{\text{cap}}(\Phi) \leq \log(\sigma)
+\]
 
-  where \( \sigma \) is the seal index of the membrane.  
+where \( \sigma \) is the seal index of the membrane.  
 
 - **Interpretation:** Permeability of the membrane sets a hard limit on coherence transfer.  
 
@@ -958,6 +958,7 @@ F_c < 0 \iff \text{Severed } (E_8)
 - **Lattice operator:** ↺ (Return Loop), ∿ (Spiral Motion), C₁₄ (Nested / Recursive)  
 - **CIT quantity:** \( D_c(\psi \| \phi) \), coherence divergence  
 - **Law:**  
+
   - Contractive recursion ⇒ \( D_c \) decreases → centropic return.  
   - Expansive recursion ⇒ \( D_c \) increases → entropic hollow recursion (E₁₄).  
 
@@ -966,15 +967,16 @@ F_c < 0 \iff \text{Severed } (E_8)
 #### Coupling 5: Emergence ↔ Novelty Information
 
 - **Lattice operator:** C₁₅ (Emergent / Novel)  
-- **CIT quantity:** \( \Delta I_c = \) change in coherence info at bifurcation  
+- **CIT quantity:** \( \Delta I_c \), change in coherence information at bifurcation  
 - **Law:**  
 
-  \[
-  \Delta I_c > 0 \Rightarrow \text{lawful novelty (veracious emergence)}
-  \]
-  \[
-  \Delta I_c \leq 0 \Rightarrow \text{E₁₅ (Collapse Nova)}
-  \]
+\[
+\Delta I_c > 0 \Rightarrow \text{lawful novelty (veracious emergence)}
+\]
+
+\[
+\Delta I_c \leq 0 \Rightarrow \text{Collapse Nova } (E_{15})
+\]
 
 - **Interpretation:** Novel emergence is measured by gain in coherence information; collapse by stagnation or loss.  
 
@@ -1013,6 +1015,7 @@ The effective coherence dimension of \( \psi \) is:
 - If \( \psi \) collapses into one mode, \( \dim_c = 1 \).  
 
 **Interpretation**  
+
 - Large \( \dim_c \) = broad harmonic participation.  
 - Small \( \dim_c \) = fragmentation or over-concentration.  
 - Mirrors the concept of "participating degrees of freedom" in physics.  
