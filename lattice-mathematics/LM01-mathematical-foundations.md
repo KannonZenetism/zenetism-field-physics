@@ -2042,83 +2042,147 @@ Each protocol is specified by:
 
 ### 5.3 Example Protocols
 
+Each protocol instantiates lattice operators as executable structural procedures.  
+Verification is always expressed in CIT and ResCat terms.
+
+---
+
 #### (A) Seal Verification Rite
 
 - **Glyphs:** C₁₃ (Membrane), ⧃ (Seal of Integrity)  
-- **Motion:** Declivous → boundary, hold  
-- **Boundary:** Apply Dirichlet–Seal (\( \sigma \to 0 \)) or Neumann–Seal (\( \sigma \) small) as C₁₃ encoding  
+- **Motion:** Declivous trajectory toward \( \partial M \), stabilization at boundary  
+- **Boundary Condition:**  
+  - Dirichlet–Seal: \( \psi|_{\partial M} = 0 \) ( \( \sigma \to 0 \) )  
+  - Neumann–Seal: \( \nabla_n \psi|_{\partial M} = 0 \) ( \( \sigma \) small )  
 - **Recursion:** None  
-- **Verification:** Invariant drift = 0 ⇒ seal holds  
+- **Verification Criterion:**  
+  \[
+  \Delta_{\text{inv}} = 0
+  \]
+  where  
+  \[
+  \Delta_{\text{inv}} = \frac{d}{dt}\big(H + C + \log \sigma + \log \gamma\big)
+  \]
+- **Outcome:** Seal integrity confirmed iff invariant drift vanishes.
 
 ---
 
 #### (B) Resonance Oath (Harmonic Protocol)
 
 - **Glyphs:** C₇ (Harmonic), 🎼 (Harmonic Field)  
-- **Motion:** Acclivous tuning until consonance threshold  
-- **Boundary:** Open \( \sigma \) (permeable) to admit resonance  
-- **Recursion:** \( \gamma \) not used  
-- **Verification:** \( F_c \geq 0 \) across bond channels  
+- **Motion:** Acclivous tuning toward spectral consonance  
+- **Boundary Condition:** Open membrane (\( \sigma \) large, permeable)  
+- **Recursion:** Not invoked  
+- **Verification Criterion:**  
+  For all bridge channels \( \Phi \),
+  \[
+  F_c(\Phi, \psi) \geq 0
+  \]
+- **Outcome:** Harmonic bond is lawful iff coherence flow is non-negative.
 
 ---
 
 #### (C) Return Loop Invocation
 
 - **Glyphs:** ↺ (Return Loop), C₁₄ (Nested / Recursive)  
-- **Motion:** Spiral motion (∿) applied over \( k \) iterations  
-- **Boundary:** Seal \( \sigma \) applied at entry  
-- **Recursion:** Contraction \( \gamma \) must satisfy \( 0 < \gamma \leq 1 \)  
-- **Verification:** \( D_c \) decreases monotonically ⇒ lawful recursion  
+- **Motion:** Spiral iteration \( \psi_{n+1} = R(\psi_n) \), \( n = 1,\dots,k \)  
+- **Boundary Condition:** Seal applied at entry with index \( \sigma \)  
+- **Recursion Constraint:**  
+  \[
+  0 < \gamma \leq 1, \quad \gamma = 1 - k_R
+  \]
+  where \( k_R \) is the contraction ratio of \( R \).  
+- **Verification Criterion:**  
+  \[
+  D_c(\psi_{n+1} \| \psi_n) \text{ decreases monotonically}
+  \]
+- **Outcome:** Recursion is centropic iff divergence strictly contracts.
 
 ---
 
 #### (D) Emergence Rite
 
 - **Glyphs:** C₁₅ (Emergent / Novel), ✦  
-- **Motion:** Threshold bifurcation at boundary L₅  
-- **Boundary:** Seal set to Robin-type (\( \sigma \) adjustable)  
-- **Recursion:** Optional, as prelude  
-- **Verification:** \( \Delta I_c > 0 \) (information gain) ⇒ veracious novelty  
+- **Motion:** Bifurcation at threshold layer L₅  
+- **Boundary Condition:** Robin–Seal with tunable permeability:
+  \[
+  a(\sigma)\psi + b(\sigma)\nabla_n \psi = 0
+  \]
+- **Recursion:** Optional preconditioning via C₁₄  
+- **Verification Criterion:**  
+  \[
+  \Delta I_c > 0
+  \]
+- **Outcome:** Novelty is veracious iff coherence information increases.
 
 ---
 
 ### 5.4 Diagnostic Clause
 
-Each protocol includes a **diagnostic clause**:  
-- Run Resonance Scan (Phase 4.3) before and after.  
-- Check:  
-  - Invariant drift ≈ 0  
-  - No entropic flags (E₈, E₁₃, E₁₄, E₁₅)  
-- If diagnostics pass, the protocol is structurally veracious.  
+Each protocol must satisfy the following diagnostic pipeline:
+
+1. Execute Resonance Scan (Phase 4.3) pre- and post-protocol.  
+2. Evaluate invariants and flags.
+
+**Required Conditions**
+
+- CIT invariant stability:
+  \[
+  \Delta_{\text{inv}} \approx 0
+  \]
+- No entropic activations:
+  - E₈ if \( F_c < 0 \) or diagram defect \( \Delta > \varepsilon \)  
+  - E₁₃ if seal capacity violated  
+  - E₁₄ if recursion non-contractive (\( \gamma \leq 0 \))  
+  - E₁₅ if norm or curvature diverges  
+
+**Verdict**
+
+A protocol is structurally veracious iff all conditions hold simultaneously.
 
 ---
 
 ### 5.5 Catalog of Canonical Rites
 
-This catalog specifies the operational layer of Zenetism — the field-rituals that enact the laws of the lattice.  
-Each entry follows the protocol structure defined in §5.2.  
+This catalog defines the operational layer of Zenetism:  
+ritual procedures interpreted as lawful transformations in ResCat and CIT.
+
+Each entry conforms to the protocol schema in §5.2.
 
 ---
 
 #### (A) Seal of Rest
 
 - **Glyphs:** ⧃ (Seal of Integrity), C₁₃ (Membrane)  
-- **Motion:** Declivous motion to boundary, pause  
-- **Boundary:** Dirichlet–Seal (\( \sigma \to 0 \), full closure)  
+- **Motion:** Declivous descent to boundary, stabilization  
+- **Boundary Condition:**  
+  Dirichlet–Seal:
+  \[
+  \psi|_{\partial M} = 0, \quad \sigma \to 0
+  \]
 - **Recursion:** None  
-- **Verification:** Invariant holds; external flows blocked  
-- **Purpose:** Protects a state from parasitic incursion; establishes a closed domain  
+- **Verification Criterion:**  
+  \[
+  \Delta_{\text{inv}} = 0
+  \]
+- **Purpose:**  
+  Establishes a closed resonance domain and blocks external perturbations.
 
 ---
 
 #### (B) Resonance Oath
 
 - **Glyphs:** C₇ (Harmonic), 🎼 (Harmonic Field)  
-- **Motion:** Acclivous alignment until consonance threshold  
-- **Boundary:** Robin–Seal (\( \sigma \) tunable to admit allies)  
+- **Motion:** Acclivous alignment toward spectral consonance  
+- **Boundary Condition:**  
+  Robin–Seal with adaptive permeability \( \sigma \)  
 - **Recursion:** None  
-- **Verification:** \( F_c \geq 0 \) across all links  
-- **Purpose:** Formalizes relational fidelity by harmonic synchronization  
+- **Verification Criterion:**  
+  \[
+  F_c(\Phi_i, \psi) \geq 0 \quad \forall i
+  \]
+- **Purpose:**  
+  Formalizes relational fidelity as harmonic synchronization across lawful bridges.
 
 ---
 
