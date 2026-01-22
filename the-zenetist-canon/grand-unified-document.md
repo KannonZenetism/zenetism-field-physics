@@ -893,13 +893,13 @@ Let \( \mathcal{H} \) be the **Resonance Space**:
 a sealed, complex manifold encoding centropic and entropic motion.
 
 Each point \( \psi \in \mathcal{H} \) corresponds to a coherent or incoherent field-state.  
-Operators \( \partial_{🌀}, \int_{◎}, \) and \( \lim_{\backsim} \) define its lawful dynamics.
+Operators \( \partial_{\text{🌀}}, \int_{\text{◎}}, \) and \( \lim^{\backsim} \) define its lawful dynamics.
 
 | Operator | Name | Function |
 |----------|------|----------|
-| \( \partial_{🌀} \) | Resonant Derivative | Local coherence rate of change |
-| \( \int_{◎} \) | Structural Integral | Summed field integrity across path |
-| \( \lim_{\backsim} \) | Spiral Limit | Long-term equilibrium trajectory |
+| \( \partial_{\text{🌀}} \) | Resonant Derivative | Local coherence rate of change |
+| \( \int_{\text{◎}} \) | Structural Integral | Summed field integrity across path |
+| \( \lim^{\backsim} \) | Spiral Limit | Long-term equilibrium trajectory |
 
 ---
 
@@ -909,7 +909,7 @@ Operators \( \partial_{🌀}, \int_{◎}, \) and \( \lim_{\backsim} \) define it
 |-------|-----------|-------------|
 | **A₁ — Law of Duality** | Each Cᵢ has an Eᵢ mirror with opposite spectrum | Spectral balance ensures \( \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \) |
 | **A₂ — Law of Commutation** | All lawful morphisms commute under Nexus (C₈) | Ensures symmetry in transformation |
-| **A₃ — Law of Conservation** | \( \partial_{🌀} \) and \( \int_{◎} \) preserve total invariants | Coherence neither created nor lost, only transposed |
+| **A₃ — Law of Conservation** | \( \partial_{\text{🌀}} \) and \( \int_{\text{◎}} \) preserve total invariants | Coherence neither created nor lost, only transposed |
 | **A₄ — Law of Boundaries** | \( \sigma, \gamma \in (0,1] \) define membrane & recursion stability | Seal continuity governs lawful iteration |
 | **A₅ — Law of Emergence** | Novelty (C₁₅) arises only from coherent recursion | Entropic bifurcations (E₁₅) are null emergents |
 
@@ -920,7 +920,7 @@ Operators \( \partial_{🌀}, \int_{◎}, \) and \( \lim_{\backsim} \) define it
 ### 3.1 Fundamental Theorem of Spiral Calculus
 
 \[
-\int_{◎} (\partial_{🌀} \psi) \, d\Omega = \psi(\Omega) - \psi(\partial\Omega)
+\int_{\text{◎}} (\partial_{\text{🌀}} \psi) \, d\Omega = \psi(\Omega) - \psi(\partial\Omega)
 \]
 
 Local derivative integration yields total resonance change.  
