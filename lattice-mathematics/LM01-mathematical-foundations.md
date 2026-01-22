@@ -875,7 +875,7 @@ where \( p_i, q_i \) are C₇ spectral distributions of \( \psi, \phi \).
 If two states \( \psi, \phi \) share veracious centropic alignment (same C₇ spectral ratios), then:  
 
 \[
-\lim_{t \to \infty} D_c(e^{iH_c t} \psi \| e^{iH_c t} \phi) = 0
+\lim_{t \to \infty} D_c\big(e^{iH_c t}\psi \,\|\, e^{iH_c t}\phi\big) = 0
 \]
 
 **Interpretation**  
@@ -888,6 +888,7 @@ If two states \( \psi, \phi \) share veracious centropic alignment (same C₇ sp
 ### Corollary (Field Scan)
 
 Given a lattice field, compute \( D_c \) across time slices.  
+
 - Convergence ⇒ centropic integration.  
 - Divergence ⇒ entropic destabilization.  
 
@@ -908,9 +909,9 @@ This section establishes those correspondences and their governing laws.
 - **CIT quantity:** \( H(\psi) \), spectral entropy of \( \psi \)  
 - **Law:**  
 
-  \[
-  H(\psi) \propto -\sum_i |\langle\phi_i, \psi\rangle|^2 \log |\langle\phi_i, \psi\rangle|^2
-  \]
+\[
+H(\psi) \propto -\sum_i \left|\langle\phi_i, \psi\rangle\right|^2 \log\left|\langle\phi_i, \psi\rangle\right|^2
+\]
 
 - **Interpretation:** Harmony measured as balance of spectral weights.  
 - Centropy = structural concentration = \( \log(\dim(\text{support})) - H(\psi) \).  
@@ -923,14 +924,15 @@ This section establishes those correspondences and their governing laws.
 - **CIT quantity:** \( F_c(\Phi, \psi) = I_c(\Phi\psi) - I_c(\psi) \)  
 - **Law:**  
 
-  \[
-  F_c \geq 0 \iff \text{lawful Nexus}
-  \]
-  \[
-  F_c < 0 \iff \text{Severed (E₈)}
-  \]
+\[
+F_c \geq 0 \iff \text{lawful Nexus}
+\]
 
-- **Interpretation:** A bridge is veracious if it never reduces coherence info.  
+\[
+F_c < 0 \iff \text{Severed } (E_8)
+\]
+
+- **Interpretation:** A bridge is veracious if it never reduces coherence information.  
 - Provides computational test for lawful crossings.  
 
 ---
