@@ -139,12 +139,12 @@ Thus:
 
 Define orientation vectors:
 
-- Centropic orientation:
+- **Centropic orientation:**
   \[
-  \vec{\omega}_c : L_1 \to L_0
+  \vec{\omega}_c : L_1 \to L_5 \to L_0
   \]
 
-- Entropic orientation:
+- **Entropic orientation:**
   \[
   \vec{\omega}_e : L_1 \to IL_5 \to L_0
   \]
