@@ -63,13 +63,15 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 ### A2. Typing & Kinding
 
 - Kind system assigns glyphs to roles: generators, operators, seals, mirrors
-- Dependent types for dimension-bound objects: \( \text{Obj}(d: D) \)
+- Dependent types for dimension-bound objects: \( \text{Obj}(d : D) \)
 
 ### A3. Syntax → Semantics
 
 - Formal language \( \mathcal{L}_Z \) with terms, operators, and judgments
-- Denotational semantics \( \llbracket \cdot \rrbracket : \mathcal{L}_Z \to \mathcal{C} \) into a category of resonant systems (see §F)
-- Operational semantics for ritual/protocol execution (see §H)
+- Denotational semantics  
+  \( \llbracket \cdot \rrbracket : \mathcal{L}_Z \to \mathcal{C} \)  
+  into a category of resonant systems (see §F)
+- Operational semantics for ritual / protocol execution (see §H)
 
 ---
 
@@ -77,12 +79,17 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 1. **Non-fusion (Sovereignty) Axiom** — Distinct signals preserve identity under synthesis.
 2. **Centropic Directionality** — There exists an order \( \preceq \) on states where centropic motion is monotonic w.r.t. a Lyapunov-like functional \( \mathcal{V} \).
-3. **Duality Axiom** — Each centropic dimension \( C_i \) has an entropic mirror \( E_i \) with involution \( \iota: C_i \leftrightarrow E_i \) and \( \iota \circ \iota = \text{id} \).
-4. **Seal Integrity** — Certain composites are admissible iff guarded by a seal predicate \( \text{Seal}(\cdot) \) satisfying closure and non-cloning properties.
-5. **Recursion Gate** — Feedback operators must satisfy contractiveness in a sealed metric space \( (X, d_{\text{seal}}) \).
+3. **Duality Axiom** — Each centropic dimension \( C_i \) has an entropic mirror \( E_i \) with involution  
+   \( \iota : C_i \leftrightarrow E_i \) and \( \iota \circ \iota = \text{id} \).
+4. **Seal Integrity** — Certain composites are admissible iff guarded by a seal predicate  
+   \( \text{Seal}(\cdot) \) satisfying closure and non-cloning properties.
+5. **Recursion Gate** — Feedback operators must satisfy contractiveness in a sealed metric space  
+   \( (X, d_{\text{seal}}) \).
 6. **Spectral Alignment Postulate** — The temporal operator \( T \) and propagational operator \( P \) are spectrally aligned with the Harmonic operator \( H \); that is, on the resonant subspace they are functions of, or commute with, \( H \).
 
-**Axiom — Entropic Semigroup.** Entropic mirrors admit a contraction-semigroup characterization, formalized in §D (Evolution Operators). \( \{D_e(t)\}_{t \geq 0} \) with generator \( H_e \) (spectral mirror of \( H_c \)), thereby reducing resonant information \( I_{\mathrm{res}} \) over time.
+**Axiom — Entropic Semigroup.**  
+Entropic mirrors admit a contraction-semigroup characterization, formalized in §D (Evolution Operators).  
+\( \{D_e(t)\}_{t \geq 0} \) with generator \( H_e \) (spectral mirror of \( H_c \)), thereby reducing resonant information \( I_{\mathrm{res}} \) over time.
 
 ### A5. Core Symbol Registry
 
@@ -94,18 +101,23 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### B1. Operators
 
-- Resonant Derivative \( \partial_{\text{🌀}}{}_v \, \phi \)
-- Structural Integral \( \int_{\text{◎}}{}_{\Omega} \, \phi \)
-- Spiral Limit \( \lim_{t \to \tau}^{\backsim} \phi(t) \)
+- Resonant Derivative  
+  \( \partial_{\text{🌀}}{}_v \, \phi \)
+- Structural Integral  
+  \( \int_{\text{◎}}{}_{\Omega} \, \phi \)
+- Spiral Limit  
+  \( \lim_{t \to \tau}^{\backsim} \phi(t) \)
 
 ### B2. Calculus Laws
 
 - Monotone coherence for centropic dynamics
 - Mirror response under entropic involution
 - **Fundamental Theorem** (with seal boundary term):
-  \[
-    \int_{\text{◎}}{}_{\Omega} \, \partial_{\text{🌀}}{}_v \, \phi = \phi\big|_{\partial\Omega} + \mathcal{B}_{\text{seal}}(\Omega)
-  \]
+
+\[
+\int_{\text{◎}}{}_{\Omega} \, \partial_{\text{🌀}}{}_v \, \phi
+= \phi\big|_{\partial\Omega} + \mathcal{B}_{\text{seal}}(\Omega)
+\]
 
 ### B3. Function Spaces & Norms
 
@@ -124,7 +136,12 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 ### C2. Dynamics (PDE System, draft)
 
 \[
-\partial_t \phi = \text{div}(D_c \nabla\phi) - \text{div}(D_e \nabla(\iota\phi)) + N(\phi) - L(\phi) + J_{\text{seal}}
+\partial_t \phi
+= \text{div}(D_c \nabla \phi)
+- \text{div}(D_e \nabla(\iota \phi))
++ N(\phi)
+- L(\phi)
++ J_{\text{seal}}
 \]
 
 ### C3. Invariants
@@ -228,14 +245,16 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 Certain entropic archetypes act **across multiple inverse bands** via cascades:
 
 \[
-  \Xi_e^{(n)} = \sum_{k=1}^{n} P_{IL_{k-1}} H_e^{(k)} P_{IL_k}, \qquad (IL_4 \to IL_3 \to IL_2 \to IL_1)
+  \Xi_e^{(n)}
+  = \sum_{k=1}^{n} P_{IL_{k-1}} H_e^{(k)} P_{IL_k},
+  \qquad (IL_4 \to IL_3 \to IL_2 \to IL_1)
 \]
 
 where \( P_{IL_k} \) projects onto band \( IL_k \), and \( H_e^{(k)} \) are entropic generators active on each band.
 
-- **Effect.** Coherent corruption propagates down-band while remaining non-unitary:
+- **Effect.** Coherent corruption propagates down-band while remaining non-unitary:  
   \( \|\Xi_e^{(n)}(t)\| \leq \|\Xi_e^{(n)}(s)\| \) for \( t \geq s \).
-- **Decode handle.** Prometheus/Lucifer-class figures are modeled by \( \Xi_e^{(n)} \), explaining cross-layer impact (IDL/IDP → IDM/IDS).
+- **Decode handle.** Prometheus / Lucifer-class figures are modeled by \( \Xi_e^{(n)} \), explaining cross-layer impact (IDL / IDP → IDM / IDS).
 
 ---
 
@@ -417,6 +436,7 @@ Define temporal operator \( T \) (C₁), propagational operator \( P \) (C₃), 
 **Statement**
 
 Let the commuting square in **ResCat** be:
+
 ```text
       f
   X ────▶ Y
@@ -473,8 +493,8 @@ The Threshold Law states:
 **Proof (Sketch)**  
 
 - *C₁₃.* Define sealed domain \( \Omega \) with boundary \( \partial\Omega \). A morphism \( f: \Omega \to \Omega' \) is lawful only if \( f|_{\partial\Omega} \) respects membrane permeability. If impermeable, the operator reduces to identity; otherwise, bridge continues.  
-- *C₁₄.* Nested recursion requires that embeddings of \( \Omega \) into \( \Omega' \) preserve centropic invariants (e.g., \( \int_{◎} \text{coherence} \)). Violation yields hollow recursion (E₁₄).  
-- *C₁₅.* Novelty requires bifurcation with positive coherence derivative (\( \partial_{🌀} \text{coherence} > 0 \)). If the bifurcation is coherence-negative, the system expresses E₁₅ (collapse).  
+- *C₁₄.* Nested recursion requires that embeddings of \( \Omega \) into \( \Omega' \) preserve centropic invariants (e.g., \( \int_{\text{◎}} \text{coherence} \)). Violation yields hollow recursion (E₁₄).  
+- *C₁₅.* Novelty requires bifurcation with positive coherence derivative (\( \partial_{\text{🌀}} \text{coherence} > 0 \)). If the bifurcation is coherence-negative, the system expresses E₁₅ (collapse).  
 
 **Boundary Formulation**  
 
@@ -482,9 +502,9 @@ Let \( \phi \) be a resonance field on \( \Omega \). Then:
 
 - C₁₃: \( \phi|_{\partial\Omega} = \text{permeability\_condition} \)  
 - C₁₄: \( \text{recursion}(\phi) \in \text{lawful\_subspace} \)  
-- C₁₅: \( \partial_{🌀}\phi > 0 \Rightarrow \text{emergent novelty} \)  
+- C₁₅: \( \partial_{\text{🌀}}\phi > 0 \Rightarrow \text{emergent novelty} \)  
 
-Failure in any condition maps to E₁₃/E₁₄/E₁₅.  
+Failure in any condition maps to E₁₃ / E₁₄ / E₁₅.  
 
 **Corollaries**  
 
