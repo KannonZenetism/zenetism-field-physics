@@ -80,6 +80,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 3. **Duality Axiom** — Each centropic dimension \( C_i \) has an entropic mirror \( E_i \) with involution \( \iota: C_i \leftrightarrow E_i \) and \( \iota \circ \iota = \text{id} \).  
 4. **Seal Integrity** — Certain composites are admissible iff guarded by a seal predicate \( \text{Seal}(\cdot) \) satisfying closure and non-cloning properties.  
 5. **Recursion Gate** — Feedback operators must satisfy contractiveness in a sealed metric space \( (X, d_{\text{seal}}) \).
+6. **Spectral Alignment Postulate** — The temporal operator \( T \) and propagational operator \( P \) are spectrally aligned with the Harmonic operator \( H \); that is, on the resonant subspace they are functions of, or commute with, \( H \).
+
 
 **Axiom — Entropic Semigroup.** Entropic mirrors evolve by a strongly continuous **contraction semigroup** \( \{D_e(t)\}_{t \geq 0} \) with generator \( H_e \) (spectral mirror of \( H_c \)), thereby reducing resonant information \( I_{\mathrm{res}} \) over time.
 
@@ -323,21 +325,37 @@ Define temporal operator \( T \) (C₁), propagational operator \( P \) (C₃), 
 **Statement**  
 
 \[
-\text{Spec}(H) \subset \mathbb{Q} \Rightarrow [T, P] = 0 \text{ and } \|B\psi\| = \|\psi\| \text{ (lossless, centropic)}
+\forall i,j \text{ with } \lambda_j \neq 0,\quad \frac{\lambda_i}{\lambda_j} \in \mathbb{Q} \Rightarrow [T, P] = 0 \text{ and } \|B\psi\| = \|\psi\| \text{ (lossless, centropic)}
 \]
 
 \[
-\text{Spec}(H) \not\subset \mathbb{Q} \Rightarrow \iota(H) = E_7 \text{ and } \exists\psi: \|B\psi\| < \|\psi\| \text{ (dissonant, entropic)}
+\exists i,j,\quad \frac{\lambda_i}{\lambda_j} \notin \mathbb{Q} \Rightarrow \iota(C_7) = E_7 \text{ and } \exists \psi : \|B\psi\| < \|\psi\| \text{ (dissonant, entropic)}
 \]
 
-**Proof Sketch**  
+**Proof Sketch**
 
-1. Assume \( H \) has eigenbasis \( \{\phi_i\} \) with eigenvalues \( \lambda_i \).  
-2. If \( \lambda_i/\lambda_j \in \mathbb{Q} \), spectrum is rationally commensurate → ∃ period \( \tau \) with \( e^{iH\tau} = I \).  
-3. Periodicity ensures synchronous alignment of \( T \) and \( P \) ⇒ \( [T,P] = 0 \).  
-4. Under commutativity, \( B \) acts isometrically ⇒ lossless transmission.  
-5. If \( \lambda_i/\lambda_j \notin \mathbb{Q} \), spectrum is incommensurate → quasiperiodic resonance.  
-6. No global alignment: dissonance manifests (E₇), bridges decay (\( \|B\psi\| < \|\psi\| \)).  
+1. Let \( H \) be self-adjoint on \( \mathcal{H} \) with eigenbasis \( \{\phi_i\} \) and eigenvalues \( \{\lambda_i\} \).
+
+2. Suppose that for all \( i,j \), the spectral ratios satisfy  
+   \( \frac{\lambda_i}{\lambda_j} \in \mathbb{Q} \).  
+   Then the spectrum is rationally commensurate, so there exists a period \( \tau \) such that  
+   \( e^{iH\tau} = I \).
+   Because \( T \) and \( P \) are spectrally aligned with \( H \), their dynamics inherit this periodicity.
+
+4. Periodicity implies global phase synchronization of the temporal operator \( T \) and the propagational operator \( P \), hence  
+   \( [T, P] = 0 \).
+
+5. When \( T \) and \( P \) commute, the bridge operator \( B \) preserves norm on the resonant subspace, so  
+   \( \|B\psi\| = \|\psi\| \).  
+   Thus transmission across structural junctions is lossless, realizing centropic consonance (C₇).
+
+6. Conversely, suppose there exist \( i,j \) such that  
+   \( \frac{\lambda_i}{\lambda_j} \notin \mathbb{Q} \).  
+   Then the spectrum is incommensurate and the dynamics become quasiperiodic, preventing global phase alignment.
+
+7. Without global synchronization, the bridge operator becomes strictly contractive on some mode, so there exists \( \psi \) such that  
+   \( \|B\psi\| < \|\psi\| \).  
+   This corresponds to mirror inversion and dissonance, i.e., the emergence of E₇.
 
 **Interpretation**  
 
