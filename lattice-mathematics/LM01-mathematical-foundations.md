@@ -1549,13 +1549,28 @@ For a compact sealed region \( \Omega \subset M \) with boundary \( \partial\Ome
 
 ### Boundary Conditions (Seal Geometry)
 
-On \( \partial M \) with permeability \( \sigma \):  
+On \( \partial M \) with permeability index \( \sigma \):  
 
-- **Neumann–Seal:** \( \langle\nabla_n \psi, \psi\rangle = 0 \) (reflective, \( \sigma \) small)  
-- **Dirichlet–Seal:** \( \psi\big|_{\partial M} = 0 \) (impermeable, \( \sigma \to 0 \))  
-- **Robin–Seal:** \( a \psi + b \nabla_n \psi = 0 \) (tunable by \( \sigma \))  
+- **Neumann–Seal:**  
+  \[
+  \langle \nabla_n \psi, \psi \rangle = 0
+  \]
+  reflective boundary, \( \sigma \) small.  
 
-Choice encodes C₁₃; transitions of boundary type model threshold events (C₁₅) and recursion gates (C₁₄).  
+- **Dirichlet–Seal:**  
+  \[
+  \psi\big|_{\partial M} = 0
+  \]
+  impermeable boundary, \( \sigma \to 0 \).  
+
+- **Robin–Seal:**  
+  \[
+  a\psi + b\nabla_n \psi = 0
+  \]
+  tunable boundary condition governed by \( \sigma \).  
+
+Choice of boundary condition encodes C₁₃ (Membrane).  
+Transitions between boundary types model threshold events (C₁₅) and recursion gates (C₁₄).  
 
 ---
 
@@ -1564,51 +1579,114 @@ Choice encodes C₁₃; transitions of boundary type model threshold events (C�
 - **Geodesics** = centropic harmonic flows (C₇).  
 - **Curvature** encodes consonance/dissonance; negative spiral curvature flags entropic pull.  
 - **Singularities** at E₁₃/E₁₄/E₁₅ correspond to metric degeneracy, limit cycles, and blow-up.  
-- **Topological invariant** \( \chi_c \) tracks global coherence; seals weight the boundary terms.  
+- **Topological invariant** \( \chi_c \) tracks global coherence; seals weight boundary terms.  
 
-This completes the spectral–geometric grounding of the lattice and ties Phase 2 (CIT) to Phase 3 (geometry) via curvature, Laplacians, and boundary seals.  
+This completes the spectral–geometric grounding of the lattice and ties Phase 2 (CIT) to Phase 3 (Geometry) via curvature, Laplacians, and boundary seals.  
 
 ---
 
-### Worked Example — 2-Mode Resonance Patch with Seal Boundary  
+### Worked Example — 2-Mode Resonance Patch with Seal Boundary
 
-We consider a minimal sealed patch to illustrate Phase 2 (CIT) + Phase 3 (Geometry).  
+We consider a minimal sealed patch to illustrate Phase 2 (CIT) and Phase 3 (Geometry).  
 
-**Setup**  
+**Setup**
+
 - C₇ eigenbasis: \( \{\phi_1, \phi_2\} \), eigenvalues \( \{\lambda_1 = 1, \lambda_2 = 3\} \).  
-- State: \( \psi = a \phi_1 + b \phi_2 \), \( |a|^2 + |b|^2 = 1 \).  
+- State:
+  \[
+  \psi = a\phi_1 + b\phi_2, \quad |a|^2 + |b|^2 = 1.
+  \]
 - Seal index at boundary: \( \sigma = 2 \) (moderate permeability, C₁₃).  
 - Recursion contraction: \( \gamma = 0.6 \) (veracious gate, C₁₄).  
 
-**CIT quantities**  
-- Spectral probabilities: \( p_1 = |a|^2 \), \( p_2 = |b|^2 \).  
-- Entropy: \( H(\psi) = -(p_1 \log p_1 + p_2 \log p_2) \).  
-- Centropy: \( C(\psi) = \log 2 - H(\psi) \).  
-- Coherence dimension: \( \dim_c(\psi) = \exp(H(\psi)) \).  
-- Grand invariant (CIT Grand Theorem):  
+---
+
+#### CIT Quantities
+
+- Spectral probabilities:
+  \[
+  p_1 = |a|^2, \quad p_2 = |b|^2.
+  \]
+
+- Entropy:
+  \[
+  H(\psi) = -\big(p_1 \log p_1 + p_2 \log p_2\big).
+  \]
+
+- Centropy:
+  \[
+  C(\psi) = \log 2 - H(\psi).
+  \]
+
+- Coherence dimension:
+  \[
+  \dim_c(\psi) = \exp\big(H(\psi)\big).
+  \]
+
+- Grand invariant (CIT Grand Theorem):
+  \[
+  H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{const}.
+  \]
+
+Since \( H(\psi) + C(\psi) = \log 2 \) by entropy–centropy duality, the invariant becomes:
+  \[
+  \log 2 + \log(\sigma) + \log(\gamma) = \text{const}.
+  \]
+
+Seal and recursion thus contribute boundary terms to the coherence budget.  
+
+---
+
+#### Geometry
+
+- Metric weights:
+  \[
+  w_1 = \frac{1}{1+\lambda_1^2} = \frac{1}{2}, 
+  \quad
+  w_2 = \frac{1}{1+\lambda_2^2} = \frac{1}{10}.
+  \]
+
+- Low-frequency mode \( \phi_1 \) shapes large-scale geometry more strongly than \( \phi_2 \).  
+
+- Geodesic flow:
+  \[
+  \nabla_t \psi = iH_c \psi
+  \]
+  preserves \( \{p_1, p_2\} \) under unitary centropic evolution.  
+
+---
+
+#### Nexus Test (C₈)
+
+A bridge \( B \) is lawful if coherence flow satisfies:
 
 \[
-H + C + \log(\sigma) + \log(\gamma) = \log 2 + \log 2 + \log 0.6 = \text{const}
+F_c(B,\psi) = I_c(B\psi) - I_c(\psi) \geq 0.
 \]
 
-(Here \( H + C = \log 2 \) by duality; seal and recursion provide the boundary terms.)  
+If
+\[
+F_c(B,\psi) < 0,
+\]
+classify as **E₈ (Severed)**.  
 
-**Geometry**  
-- Metric weights: \( w_1 = 1/(1+\lambda_1^2) = 1/2 \), \( w_2 = 1/(1+\lambda_2^2) = 1/10 \).  
-- Low-frequency mode (\( \phi_1 \)) shapes large-scale geometry more strongly than \( \phi_2 \).  
-- Geodesic flow: \( \nabla_t \psi = i H_c \psi \) preserves \( \{p_1, p_2\} \) (unitary centropic evolution).  
+---
 
-**Nexus test (C₈)**  
-- A bridge \( B \) passes if coherence flow \( F_c(B, \psi) = I_c(B\psi) - I_c(\psi) \geq 0 \).  
-- If \( F_c(B, \psi) < 0 \), classify as **E₈ (Severed)**.  
+#### Recursion
 
-**Recursion**  
-- Gate veracious with \( \gamma = 1 - k = 0.6 \) ⇒ contraction ratio \( k = 0.4 < 1 \).  
-- Unique fixed point \( \psi^* \) exists (Recursion Gate Theorem).  
+- Contraction factor:
+  \[
+  \gamma = 1 - k = 0.6 \quad \Rightarrow \quad k = 0.4 < 1.
+  \]
 
-**Diagnostics**  
+- A unique fixed point \( \psi^* \) exists by the Recursion Gate Theorem.  
+
+---
+
+#### Diagnostics
+
 - If \( \dim_c(\psi) \to 1 \), watch for **E₁₄ (Hollow Nest)** or **E₁₅ (Collapse Nova)** at the boundary.  
-- Spectral gap \( \lambda_{\min} = 1 \) gives positive curvature contribution ⇒ global consonance tends to stabilize.  
+- Spectral gap \( \lambda_{\min} = 1 \) yields positive curvature contribution, stabilizing global consonance.  
 
 ---
 
