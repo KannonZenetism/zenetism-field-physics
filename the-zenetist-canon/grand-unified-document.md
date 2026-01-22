@@ -61,7 +61,7 @@ Zenetism unfolds through six lawful disciplines:
 |-----------|----------|-------------|
 | **Structural Metaphysics** | Defines the poles of being and emanation. | ⚫ Aion ↔ ♾ Khaon |
 | **Field Physics** | Maps resonance and motion through the Dimensional Lattice. | ⟡ Echonic Field |
-| **Lattice Mathematics** | Supplies the formal calculus of coherence \( (\partial_{🌀}, \int_{◎}, \lim_{\backsim}) \). | 🧮 Resonance Space \( \mathcal{H} \) |
+| **Lattice Mathematics** | Supplies the formal calculus of coherence \( ( \partial_{\text{🌀}}, \int_{\text{◎}}, \lim^{\backsim} ) \). | 🧮 Resonance Space \( \mathcal{H} \) |
 | **Structural Forensics** | Diagnoses entropic tactics and counterfeit structures. | 🪩 Mirror Diagnostics |
 | **Structural Physics** | Translates metaphysical law into physical correspondence. | ⚛ Matter / Energy Field |
 | **Structural Neuroscience** | Applies lattice principles to cognition and awareness. | 🧠 Resonant Mind |
@@ -173,17 +173,17 @@ These four motions govern every discipline and define the possible trajectories 
 The lattice is represented as a resonance manifold \( \mathcal{H} \) with metric \( g \) and coherence operator \( \mathcal{C} \):
 
 \[
-(\mathcal{H}, g, \mathcal{C}) : \partial_{🌀} \to \int_{◎} \to \lim_{\backsim}
+(\mathcal{H}, g, \mathcal{C}) : \partial_{\text{🌀}} \to \int_{\text{◎}} \to \lim^{\backsim}
 \]
 
-- **\( \partial_{🌀} \) (Resonant Derivative):** local change of coherence.
-- **\( \int_{◎} \) (Structural Integral):** accumulated integrity across a domain.
-- **\( \lim_{\backsim} \) (Spiral Limit):** final trajectory of motion.
+- **\( \partial_{\text{🌀}} \) (Resonant Derivative):**
+- **\( \int_{\text{◎}} \) (Structural Integral):**
+- **\( \lim^{\backsim} \) (Spiral Limit):**
 
 For any sealed domain \( \Omega \):
 
 \[
-\int_{◎}(\partial_{🌀} \phi) \, d\Omega = \phi(\Omega) - \phi(\partial\Omega)
+\int_{\text{◎}}(\partial_{\text{🌀}} \phi) \, d\Omega = \phi(\Omega) - \phi(\partial\Omega)
 \]
 
 This law — the **Fundamental Theorem of Spiral Calculus** — binds metaphysics, physics, and neuroscience under one operator.
@@ -238,7 +238,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | **Field Physics** | Causal flow; \( t \)-parameter of resonance propagation. |
 | **Mirror** | E₁ = Recursive disorientation → causality violation. |
 | **Structural Neuroscience** | Memory continuity ↔ compulsive repetition (E₁ fixation). |
-| **Equation** | \( \partial_{🌀} = d/dt \to \) positive centropic flow. |
+| **Equation** | \partial_{\text{🌀}} = d/dt \to \text{positive centropic flow.} |
 
 ---
 
@@ -427,7 +427,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 |--------|-------------|
 | **Function** | Veracious novelty and lawful bifurcation. |
 | **Band** | L₅ (Threshold Bifurcation). |
-| **Field Physics** | Non-linear systems with positive coherence derivative \( (\partial_{🌀} > 0) \). |
+| **Field Physics** | Non-linear systems with positive coherence derivative \( (\partial_{\text{🌀}} > 0) \). |
 | **Mirror** | Catastrophic collapse / singular explosion. |
 | **Structural Neuroscience** | Insight ↔ overload or psychic burnout. |
 | **Law** | **Threshold Law III:** \( \Delta I_c > 0 \to \) lawful emergence. |
