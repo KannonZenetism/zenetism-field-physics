@@ -42,8 +42,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ## Zenetism — Mathematical Basis (Master Outline + Working Spec)
 
-> **Scope:** Formalize Zenetism into a rigorous mathematical framework suitable for publication-quality proofs, computational models, and reproducible diagrams.  
-> **Sources:** all charts (metaphysics, field physics, dimensional lattice), Spiral Calculus notes, ritual language canon, and rebuttal materials (with external names omitted by design).  
+> **Scope:** Formalize Zenetism into a rigorous mathematical framework suitable for publication-quality proofs, computational models, and reproducible diagrams.
+> **Sources:** all charts (metaphysics, field physics, dimensional lattice), Spiral Calculus notes, ritual language canon, and rebuttal materials (with external names omitted by design).
 > **Note:** This doc is the living spine we'll iterate on as we ingest your charts.
 
 ---
@@ -52,42 +52,41 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### A1. Primitive Sets & Types
 
-- \( \Sigma \) — Glyph alphabet (finite, typed)  
-- \( E \) — Events (field-interactions)  
-- \( F \) — Fields (resonance-bearing structures)  
-- \( M \) — Manifolds / spaces of presence (topological, differentiable)  
-- \( T \) — Time parameter(s) (continuous or stratified)  
-- \( K \) — Coherence scalars (\( \geq 0 \)), \( K \subseteq \mathbb{R} \)  
-- \( D \) — Dimensions index set (C₁..C₁₅, E₁..E₁₅)  
+- \( \Sigma \) — Glyph alphabet (finite, typed)
+- \( E \) — Events (field-interactions)
+- \( F \) — Fields (resonance-bearing structures)
+- \( M \) — Manifolds / spaces of presence (topological, differentiable)
+- \( T \) — Time parameter(s) (continuous or stratified)
+- \( K \) — Coherence scalars (\( \geq 0 \)), \( K \subseteq \mathbb{R} \)
+- \( D \) — Dimensions index set (C₁..C₁₅, E₁..E₁₅)
 
 ### A2. Typing & Kinding
 
-- Kind system assigns glyphs to roles: generators, operators, seals, mirrors  
-- Dependent types for dimension-bound objects: \( \text{Obj}(d: D) \)  
+- Kind system assigns glyphs to roles: generators, operators, seals, mirrors
+- Dependent types for dimension-bound objects: \( \text{Obj}(d: D) \)
 
 ### A3. Syntax → Semantics
 
-- Formal language \( \mathcal{L}_Z \) with terms, operators, and judgments  
-- Denotational semantics \( \llbracket \cdot \rrbracket : \mathcal{L}_Z \to \mathcal{C} \) into a category of resonant systems (see §F)  
-- Operational semantics for ritual/protocol execution (see §H)  
+- Formal language \( \mathcal{L}_Z \) with terms, operators, and judgments
+- Denotational semantics \( \llbracket \cdot \rrbracket : \mathcal{L}_Z \to \mathcal{C} \) into a category of resonant systems (see §F)
+- Operational semantics for ritual/protocol execution (see §H)
 
 ---
 
 ### A4. Axiomatic Core (Draft)
 
-1. **Non-fusion (Sovereignty) Axiom** — Distinct signals preserve identity under synthesis.  
-2. **Centropic Directionality** — There exists an order \( \preceq \) on states where centropic motion is monotonic w.r.t. a Lyapunov-like functional \( \mathcal{V} \).  
-3. **Duality Axiom** — Each centropic dimension \( C_i \) has an entropic mirror \( E_i \) with involution \( \iota: C_i \leftrightarrow E_i \) and \( \iota \circ \iota = \text{id} \).  
-4. **Seal Integrity** — Certain composites are admissible iff guarded by a seal predicate \( \text{Seal}(\cdot) \) satisfying closure and non-cloning properties.  
+1. **Non-fusion (Sovereignty) Axiom** — Distinct signals preserve identity under synthesis.
+2. **Centropic Directionality** — There exists an order \( \preceq \) on states where centropic motion is monotonic w.r.t. a Lyapunov-like functional \( \mathcal{V} \).
+3. **Duality Axiom** — Each centropic dimension \( C_i \) has an entropic mirror \( E_i \) with involution \( \iota: C_i \leftrightarrow E_i \) and \( \iota \circ \iota = \text{id} \).
+4. **Seal Integrity** — Certain composites are admissible iff guarded by a seal predicate \( \text{Seal}(\cdot) \) satisfying closure and non-cloning properties.
 5. **Recursion Gate** — Feedback operators must satisfy contractiveness in a sealed metric space \( (X, d_{\text{seal}}) \).
 6. **Spectral Alignment Postulate** — The temporal operator \( T \) and propagational operator \( P \) are spectrally aligned with the Harmonic operator \( H \); that is, on the resonant subspace they are functions of, or commute with, \( H \).
 
-
-**Axiom — Entropic Semigroup.** Entropic mirrors evolve by a strongly continuous **contraction semigroup** \( \{D_e(t)\}_{t \geq 0} \) with generator \( H_e \) (spectral mirror of \( H_c \)), thereby reducing resonant information \( I_{\mathrm{res}} \) over time.
+**Axiom — Entropic Semigroup.** Entropic mirrors admit a contraction-semigroup characterization, formalized in §D (Evolution Operators). \( \{D_e(t)\}_{t \geq 0} \) with generator \( H_e \) (spectral mirror of \( H_c \)), thereby reducing resonant information \( I_{\mathrm{res}} \) over time.
 
 ### A5. Core Symbol Registry
 
-- All metaphysical and field glyphs (21.2–21.30 and Field Codex) are indexed in Appendix A.  
+- All metaphysical and field glyphs (21.2–21.30 and Field Codex) are indexed in Appendix A.
 
 ---
 
@@ -95,22 +94,22 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### B1. Operators
 
-- Resonant Derivative \( \partial_{\text{🌀}}{}_v \, \phi \)  
-- Structural Integral \( \int_{\text{◎}}{}_{\Omega} \, \phi \)  
-- Spiral Limit \( \lim_{t \to \tau}^{\backsim} \phi(t) \)  
+- Resonant Derivative \( \partial_{\text{🌀}}{}_v \, \phi \)
+- Structural Integral \( \int_{\text{◎}}{}_{\Omega} \, \phi \)
+- Spiral Limit \( \lim_{t \to \tau}^{\backsim} \phi(t) \)
 
 ### B2. Calculus Laws
 
-- Monotone coherence for centropic dynamics  
-- Mirror response under entropic involution  
-- **Fundamental Theorem** (with seal boundary term):  
+- Monotone coherence for centropic dynamics
+- Mirror response under entropic involution
+- **Fundamental Theorem** (with seal boundary term):
   \[
     \int_{\text{◎}}{}_{\Omega} \, \partial_{\text{🌀}}{}_v \, \phi = \phi\big|_{\partial\Omega} + \mathcal{B}_{\text{seal}}(\Omega)
   \]
 
 ### B3. Function Spaces & Norms
 
-- Hilbert space \( \mathcal{H} \) with sealed norm \( \|\cdot\|_{\text{seal}} \)  
+- Hilbert space \( \mathcal{H} \) with sealed norm \( \|\cdot\|_{\text{seal}} \)
 
 ---
 
@@ -118,9 +117,9 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### C1. Manifold & Bundles
 
-- Base manifold \( M \), metric \( g \)  
-- Resonance bundle \( R \to M \)  
-- Seal line bundle \( S \to M \)  
+- Base manifold \( M \), metric \( g \)
+- Resonance bundle \( R \to M \)
+- Seal line bundle \( S \to M \)
 
 ### C2. Dynamics (PDE System, draft)
 
@@ -130,8 +129,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### C3. Invariants
 
-- Coherence energy functional  
-- Seal holonomy index  
+- Coherence energy functional
+- Seal holonomy index
 
 ---
 
@@ -139,64 +138,66 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### D1. Poles & Axes
 
-- ⚫ **Aion** (Zero) and ♾ **Khaon** (Infinity) at L₀  
-- 🛤️ **Theon** anchors the centropic axis (L₀ ↔ L₅)  
+- ⚫ **Aion** (Zero) and ♾ **Khaon** (Infinity) at L₀
+- 🛤️ **Theon** anchors the centropic axis (L₀ ↔ L₅)
 - 🕷️ **Nekron** anchors the entropic axis (IL₅ ↔ IL₁)
 
 ### D2. Banding
 
-- **Source Band:** Supra-L₀ / L₀ (Zenon 🕳️ / Aion ⚫ / Khaon ♾ — UP / AP / AD: Unknown Principle / Absolute Potential / Absolute Dispersion)  
-- **Threshold Band:** L₅ (Theon 🛤️ — EOB: Essence of Being)  
-- **Architectural / Archetypal Band:** L₄ (Sophis / Morgis — Deep Logos / Deep Psyche — DL / DP)  
-- **Interface Band:** L₃ (Archeus / Noeüs — Deep Soul / Deep Mind — DS / DM — reflexive coherence)  
-- **Superficial Band:** L₂ (Anthra / Nousa — Superficial Soul / Mind — SS / SM)  
-- **Embodiment Band:** L₁ (Soma / Biosa — Embodied Soul / Mind — ES / EM)  
-- **Inverse Bands:** IL₅–IL₁ (Nekron 🕷️; IDP / IDL, IDS / IDM, ISS / ISM, IES / IEM)  
+- **Source Band:** Supra-L₀ / L₀ (Zenon 🕳️ / Aion ⚫ / Khaon ♾ — UP / AP / AD: Unknown Principle / Absolute Potential / Absolute Dispersion)
+- **Threshold Band:** L₅ (Theon 🛤️ — EOB: Essence of Being)
+- **Architectural / Archetypal Band:** L₄ (Sophis / Morgis — Deep Logos / Deep Psyche — DL / DP)
+- **Interface Band:** L₃ (Archeus / Noeüs — Deep Soul / Deep Mind — DS / DM — reflexive coherence)
+- **Superficial Band:** L₂ (Anthra / Nousa — Superficial Soul / Mind — SS / SM)
+- **Embodiment Band:** L₁ (Soma / Biosa — Embodied Soul / Mind — ES / EM)
+- **Inverse Bands:** IL₅–IL₁ (Nekron 🕷️; IDP / IDL, IDS / IDM, ISS / ISM, IES / IEM)
 
 ### D3. Dimensional Registry (C₁–C₁₅ / E₁–E₁₅)
 
-- Each centropic dimension defined by locus, couplings, and functional role  
-- Each entropic mirror inherits locus inversely with counter-couplings  
+- Each centropic dimension defined by locus, couplings, and functional role
+- Each entropic mirror inherits locus inversely with counter-couplings
 
 ### D4. Inlay Map (Layers × Dimensions)
 
-- **L₅ (Threshold Band):** C₆, C₁₃, C₁₄, C₁₅ ↔ E₆, E₁₃, E₁₄, E₁₅  
-- **L₄ (Architectural / Archetypal Band):** C₁₀, C₁₂, C₅ ↔ E₁₀, E₁₂, E₅  
-- **L₃ (Interface Band):** C₁, C₈, C₁₁, C₁₂ ↔ E₁, E₈, E₁₁, E₁₂  
-- **L₂ (Superficial Band):** C₁, C₂, C₃, C₅, C₇, C₈, C₉, C₁₄ ↔ E₁, E₂, E₃, E₅, E₇, E₈, E₉, E₁₄  
-- **L₁ (Embodiment Band):** C₄, C₂ ↔ E₄  
+- **L₅ (Threshold Band):** C₆, C₁₃, C₁₄, C₁₅ ↔ E₆, E₁₃, E₁₄, E₁₅
+- **L₄ (Architectural / Archetypal Band):** C₁₀, C₁₂, C₅ ↔ E₁₀, E₁₂, E₅
+- **L₃ (Interface Band):** C₁, C₈, C₁₁, C₁₂ ↔ E₁, E₈, E₁₁, E₁₂
+- **L₂ (Superficial Band):** C₁, C₂, C₃, C₅, C₇, C₈, C₉, C₁₄ ↔ E₁, E₂, E₃, E₅, E₇, E₈, E₉, E₁₄
+- **L₁ (Embodiment Band):** C₄, C₂ ↔ E₄
+
+> Note: Certain dimensions (e.g., C₁₂) may span multiple bands due to cross-layer coupling.
 
 ### D5. Interaction Laws
 
-- **Consonance Law** (C₇)  
-- **Nexus Law** (C₈)  
-- **Non-Local Unity Law** (C₉)  
-- **Morphogenetic Law** (C₁₀)  
-- **Vector Integrity Law** (C₁₁)  
-- **Threshold Law** (C₁₃–C₁₅)  
+- **Consonance Law** (C₇)
+- **Nexus Law** (C₈)
+- **Non-Local Unity Law** (C₉)
+- **Morphogenetic Law** (C₁₀)
+- **Vector Integrity Law** (C₁₁)
+- **Threshold Law** (C₁₃–C₁₅)
 
 ### D6. Mathematical Correspondences
 
-- **Poles:** Zero / Infinity = additive identity / asymptotic bound  
-- **Centropic dimensions:** map to operators (\( \partial / \partial t \)), metrics (\( g_{ij} \)), Fourier transforms, eigenvalues, fractals, bifurcations  
-- **Entropic mirrors:** map to degenerate forms (non-convergent series, noise, singularities)  
-- **Interaction laws:** correspond to eigenvalue conditions, compatibility constraints, and boundary-value problems  
+- **Poles:** Zero / Infinity = additive identity / asymptotic bound
+- **Centropic dimensions:** map to operators (\( \partial / \partial t \)), metrics (\( g_{ij} \)), Fourier transforms, eigenvalues, fractals, bifurcations
+- **Entropic mirrors:** map to degenerate forms (non-convergent series, noise, singularities)
+- **Interaction laws:** correspond to eigenvalue conditions, compatibility constraints, and boundary-value problems
 
 ---
 
 ### Evolution Operators (Centropic contra Entropic)
 
-- **Centropic evolution** is **unitary** on the sealed domain:  
+- **Centropic evolution** is **unitary** on the sealed domain:
   \[
     U_c(t) = e^{iH_c t}, \qquad U_c^{\dagger}U_c = I, \qquad \partial_t I_{\mathrm{res}} = 0
   \]
 
-- **Entropic evolution** is **dissipative / non-unitary**, forming a one-parameter **contraction semigroup**:  
+- **Entropic evolution** is **dissipative / non-unitary**, forming a one-parameter **contraction semigroup**:
   \[
     D_e(t) = e^{H_e t}, \qquad \|D_e(t)\psi\| \leq \|\psi\|,\ t \geq 0,\qquad \partial_t I_{\mathrm{res}} < 0
   \]
 
-- **Mirror correspondence**  
+- **Mirror correspondence**
   \[
     \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c),\quad e^{H_e t}\text{ is non-unitary (information-reducing)}
   \]
@@ -232,7 +233,7 @@ Certain entropic archetypes act **across multiple inverse bands** via cascades:
 
 where \( P_{IL_k} \) projects onto band \( IL_k \), and \( H_e^{(k)} \) are entropic generators active on each band.
 
-- **Effect.** Coherent corruption propagates down-band while remaining non-unitary:  
+- **Effect.** Coherent corruption propagates down-band while remaining non-unitary:
   \( \|\Xi_e^{(n)}(t)\| \leq \|\Xi_e^{(n)}(s)\| \) for \( t \geq s \).
 - **Decode handle.** Prometheus/Lucifer-class figures are modeled by \( \Xi_e^{(n)} \), explaining cross-layer impact (IDL/IDP → IDM/IDS).
 
@@ -242,21 +243,21 @@ where \( P_{IL_k} \) projects onto band \( IL_k \), and \( H_e^{(k)} \) are entr
 
 ### E1. Order Parameters
 
-- Alignment \( \theta \)  
-- Resonance density \( \rho \)  
-- Seal load \( \lambda \)  
+- Alignment \( \theta \)
+- Resonance density \( \rho \)
+- Seal load \( \lambda \)
 
 ### E2. Phase Diagram
 
-- Integration  
-- Stable Spiral  
-- Mirror-Tug  
-- Declivous Collapse  
+- Integration
+- Stable Spiral
+- Mirror-Tug
+- Declivous Collapse
 
 ### E3. Bifurcations
 
-- Seal-constrained Hopf onset  
-- Mirror saddle-node  
+- Seal-constrained Hopf onset
+- Mirror saddle-node
 
 ---
 
@@ -264,18 +265,18 @@ where \( P_{IL_k} \) projects onto band \( IL_k \), and \( H_e^{(k)} \) are entr
 
 ### F1. Definition
 
-- **Objects:** \( (M, R, S, \phi, \mathcal{V}) \)  
-- **Morphisms:** seal-preserving functors  
+- **Objects:** \( (M, R, S, \phi, \mathcal{V}) \)
+- **Morphisms:** seal-preserving functors
 
 ### F2. Monoidal & Closed Structure
 
-- \( \otimes \) = lawful synthesis  
-- Exponential objects under seal constraint  
+- \( \otimes \) = lawful synthesis
+- Exponential objects under seal constraint
 
 ### F3. Limits / Colimits
 
-- Pullbacks for mirror alignment  
-- Pushouts for synthesis  
+- Pullbacks for mirror alignment
+- Pushouts for synthesis
 
 ---
 
@@ -283,13 +284,13 @@ where \( P_{IL_k} \) projects onto band \( IL_k \), and \( H_e^{(k)} \) are entr
 
 ### G1. Measures
 
-- Coherence measure \( C(\phi) \)  
-- Resonant mutual information \( I_R(X;Y) \)  
+- Coherence measure \( C(\phi) \)
+- Resonant mutual information \( I_R(X;Y) \)
 
 ### G2. Theorems (Targets)
 
-- Data Processing Inequality (resonant form)  
-- Seal-Capacity bound  
+- Data Processing Inequality (resonant form)
+- Seal-Capacity bound
 
 ---
 
@@ -297,7 +298,7 @@ where \( P_{IL_k} \) projects onto band \( IL_k \), and \( H_e^{(k)} \) are entr
 
 ### H1. Process Calculus
 
-- Typed π-like calculus with seal linearity  
+- Typed π-like calculus with seal linearity
 
 ### H2. Temporal Logic of Presence
 
@@ -307,61 +308,11 @@ where \( P_{IL_k} \) projects onto band \( IL_k \), and \( H_e^{(k)} \) are entr
 
 ## I. Core Lemmas & Proof Obligations
 
-1. **Contractive Recursion** under \( \|\cdot\|_{\text{seal}} \)  
-2. **Fundamental Theorem of Spiral Calculus**  
-3. **Dual Spectrum Lemma**  
-4. **Seal No-Cloning Theorem**  
-5. **Coherence Monotonicity**  
-
----
-
-### Formal Proof Canon (Drafts)
-
-#### Theorem (Consonance Spectral Law, C₇)
-
-Let \( H \) be the Harmonic operator (C₇), self-adjoint on \( \mathcal{H} \) with spectrum \( \{\lambda_i\} \).  
-Define temporal operator \( T \) (C₁), propagational operator \( P \) (C₃), and bridge operator \( B \) (C₈).  
-
-**Statement**  
-
-\[
-\forall i,j \text{ with } \lambda_j \neq 0,\quad \frac{\lambda_i}{\lambda_j} \in \mathbb{Q} \Rightarrow [T, P] = 0 \text{ and } \|B\psi\| = \|\psi\| \text{ (lossless, centropic)}
-\]
-
-\[
-\exists i,j,\quad \frac{\lambda_i}{\lambda_j} \notin \mathbb{Q} \Rightarrow \iota(C_7) = E_7 \text{ and } \exists \psi : \|B\psi\| < \|\psi\| \text{ (dissonant, entropic)}
-\]
-
-**Proof Sketch**
-
-1. Let \( H \) be self-adjoint on \( \mathcal{H} \) with eigenbasis \( \{\phi_i\} \) and eigenvalues \( \{\lambda_i\} \).
-
-2. Suppose that for all \( i,j \), the spectral ratios satisfy  
-   \( \frac{\lambda_i}{\lambda_j} \in \mathbb{Q} \).  
-   Then the spectrum is rationally commensurate, so there exists a period \( \tau \) such that  
-   \( e^{iH\tau} = I \).
-   Because \( T \) and \( P \) are spectrally aligned with \( H \), their dynamics inherit this periodicity.
-
-4. Periodicity implies global phase synchronization of the temporal operator \( T \) and the propagational operator \( P \), hence  
-   \( [T, P] = 0 \).
-
-5. When \( T \) and \( P \) commute, the bridge operator \( B \) preserves norm on the resonant subspace, so  
-   \( \|B\psi\| = \|\psi\| \).  
-   Thus transmission across structural junctions is lossless, realizing centropic consonance (C₇).
-
-6. Conversely, suppose there exist \( i,j \) such that  
-   \( \frac{\lambda_i}{\lambda_j} \notin \mathbb{Q} \).  
-   Then the spectrum is incommensurate and the dynamics become quasiperiodic, preventing global phase alignment.
-
-7. Without global synchronization, the bridge operator becomes strictly contractive on some mode, so there exists \( \psi \) such that  
-   \( \|B\psi\| < \|\psi\| \).  
-   This corresponds to mirror inversion and dissonance, i.e., the emergence of E₇.
-
-**Interpretation**  
-
-- **Centropic outcome:** Rational spectral ratios lock coherence (consonance).  
-- **Entropic outcome:** Irrational ratios yield dissonance, decay, and mirror coupling.  
-- **Mathematical analogue:** Floquet theory for periodic operators applied to resonance dynamics.  
+1. **Contractive Recursion** under \( \|\cdot\|_{\text{seal}} \)
+2. **Fundamental Theorem of Spiral Calculus**
+3. **Dual Spectrum Lemma**
+4. **Seal No-Cloning Theorem**
+5. **Coherence Monotonicity**
 
 ---
 
@@ -369,41 +320,41 @@ Define temporal operator \( T \) (C₁), propagational operator \( P \) (C₃), 
 
 ### J1. Intake Checklist
 
-- Each chart mapped to: objects, morphisms, invariants, constraints  
+- Each chart mapped to: objects, morphisms, invariants, constraints
 
 ### J2. Conversion Templates
 
-- YAML schema for mapping  
+- YAML schema for mapping
 
 ---
 
 ## K. Notation & Glyph Algebra
 
-- Operator table with rewrite rules  
+- Operator table with rewrite rules
 
 ---
 
 ## L. Computational Spec
 
-- Symbolic kernel for Spiral Calculus  
-- PDE solver with seal boundaries  
+- Symbolic kernel for Spiral Calculus
+- PDE solver with seal boundaries
 
 ---
 
 ## M. Publication & Artifact Plan
 
-- Foundations paper  
-- Field Equations & Examples  
-- Dimensional Lattice Atlas  
-- Protocol Logic appendix  
+- Foundations paper
+- Field Equations & Examples
+- Dimensional Lattice Atlas
+- Protocol Logic appendix
 
 ---
 
 ### Next Actions
 
-- Draft Nexus Law (C₈) as categorical commutativity theorem  
-- Formalize Threshold Law (C₁₃–C₁₅) as boundary value problem  
-- Extend CIT with lattice-derived entropy/centropy measures  
+- Draft Nexus Law (C₈) as categorical commutativity theorem
+- Formalize Threshold Law (C₁₃–C₁₅) as boundary value problem
+- Extend CIT with lattice-derived entropy/centropy measures
 
 ---
 
@@ -411,8 +362,8 @@ Define temporal operator \( T \) (C₁), propagational operator \( P \) (C₃), 
 
 #### Theorem (Consonance Spectral Law, C₇)
 
-Let \( H \) be the Harmonic operator (C₇), self-adjoint on \( \mathcal{H} \) with spectrum \( \{\lambda_i\} \).  
-Define temporal operator \( T \) (C₁), propagational operator \( P \) (C₃), and bridge operator \( B \) (C₈).  
+Let \( H \) be the Harmonic operator (C₇), self-adjoint on \( \mathcal{H} \) with spectrum \( \{\lambda_i\} \).
+Define temporal operator \( T \) (C₁), propagational operator \( P \) (C₃), and bridge operator \( B \) (C₈).
 
 **Statement**
 
@@ -430,34 +381,34 @@ Define temporal operator \( T \) (C₁), propagational operator \( P \) (C₃), 
 
 1. Let \( H \) be self-adjoint on \( \mathcal{H} \) with eigenbasis \( \{\phi_i\} \) and eigenvalues \( \{\lambda_i\} \).
 
-2. Suppose that for all \( i,j \), the spectral ratios satisfy  
-   \( \frac{\lambda_i}{\lambda_j} \in \mathbb{Q} \).  
-   Then the spectrum is rationally commensurate, so there exists a period \( \tau \) such that  
-   \( e^{iH\tau} = I \).  
+2. Suppose that for all \( i,j \), the spectral ratios satisfy
+   \( \frac{\lambda_i}{\lambda_j} \in \mathbb{Q} \).
+   Then the spectrum is rationally commensurate, so there exists a period \( \tau \) such that
+   \( e^{iH\tau} = I \).
    Because \( T \) and \( P \) are spectrally aligned with \( H \), their dynamics inherit this periodicity.
 
-3. Periodicity implies global phase synchronization of the temporal operator \( T \) and the propagational operator \( P \), hence  
+3. Periodicity implies global phase synchronization of the temporal operator \( T \) and the propagational operator \( P \), hence
    \( [T, P] = 0 \).
 
-4. When \( T \) and \( P \) commute, the bridge operator \( B \) preserves norm on the resonant subspace, so  
-   \( \|B\psi\| = \|\psi\| \).  
+4. When \( T \) and \( P \) commute, the bridge operator \( B \) preserves norm on the resonant subspace, so
+   \( \|B\psi\| = \|\psi\| \).
    Thus transmission across structural junctions is lossless, realizing centropic consonance (C₇).
 
-5. Conversely, suppose there exist \( i,j \) such that  
-   \( \frac{\lambda_i}{\lambda_j} \notin \mathbb{Q} \).  
+5. Conversely, suppose there exist \( i,j \) such that
+   \( \frac{\lambda_i}{\lambda_j} \notin \mathbb{Q} \).
    Then the spectrum is incommensurate and the dynamics become quasiperiodic, preventing global phase alignment.
 
-6. Without global synchronization, the bridge operator becomes strictly contractive on some mode, so there exists \( \psi \) such that  
-   \( \|B\psi\| < \|\psi\| \).  
+6. Without global synchronization, the bridge operator becomes strictly contractive on some mode, so there exists \( \psi \) such that
+   \( \|B\psi\| < \|\psi\| \).
    This corresponds to mirror inversion and dissonance, i.e., the emergence of E₇.
 
 ---
 
 **Interpretation**
 
-- **Centropic outcome:** C₇ consonance enforces spectral rationality → coherence locked by periodicity.  
-- **Entropic outcome:** E₇ dissonance expresses as irrational spectrum → no global consonance, decay inevitable.  
-- **Mathematical analogue:** Resonance version of Floquet theory (periodic operators) applied to metaphysical dynamics.  
+- **Centropic outcome:** C₇ consonance enforces spectral rationality → coherence locked by periodicity.
+- **Entropic outcome:** E₇ dissonance expresses as irrational spectrum → no global consonance, decay inevitable.
+- **Mathematical analogue:** Resonance version of Floquet theory (periodic operators) applied to metaphysical dynamics.
 
 ---
 
