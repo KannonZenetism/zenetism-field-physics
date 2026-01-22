@@ -90,7 +90,7 @@ Zenetist thought holds that every centropic state has an entropic mirror, just a
 Mathematically:
 
 \[
-\ldots, E_3, E_2, E_1, ⚫, C_1, C_2, C_3, \ldots
+\ldots, E_3, E_2, E_1, \text{⚫}, C_1, C_2, C_3, \ldots
 \]
 
 Physically:  
