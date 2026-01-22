@@ -1891,55 +1891,111 @@ for epoch in 1..E:
 
 ### 4.5 Outputs & Diagnostics  
 
-- Time series: \( H(t) \), \( C(t) \), \( \dim_c(t) \), \( \gamma(t) \), invariant drift.  
-- Flags:  
-  - **E₈** if any \( F_c < 0 \) on bridges or diagram defect \( \Delta > \varepsilon \).  
-  - **E₁₄** if recursion not contractive (\( \gamma \leq 0 \)).  
-  - **E₁₅** on collapse nova (norm or curvature divergence).  
-  - **E₁₃** if seal boundary violates \( \sigma \) (capacity check).  
+**Primary Time Series**
+
+- \( H(t) \) — spectral entropy  
+- \( C(t) \) — centropy  
+- \( \dim_c(t) \) — coherence dimension  
+- \( \gamma(t) \) — recursion convergence factor  
+- \( \Delta_{\text{inv}}(t) \) — CIT invariant drift  
+
+**Entropic Flags**
+
+- **E₈ (Severed)**  
+  Triggered if any bridge violates coherence or commutativity:
+  \[
+  F_c < 0 \quad \text{or} \quad \Delta > \varepsilon
+  \]
+
+- **E₁₄ (Hollow Nest)**  
+  Triggered if recursion fails contractivity:
+  \[
+  \gamma \leq 0
+  \]
+
+- **E₁₅ (Collapse Nova)**  
+  Triggered on divergence of resonance norm or curvature:
+  \[
+  \|\psi\| \to \infty \quad \text{or} \quad |K_{\text{sp}}| \to \infty
+  \]
+
+- **E₁₃ (Wall)**  
+  Triggered if seal capacity is violated:
+  \[
+  C_{\text{cap}}(\Phi) > \log(\sigma)
+  \]
 
 ---
 
 ### 4.6 Validation Suite
 
-- **Unit tests**: spectral duality (Dual Spectrum Lemma), Consonance periodicity (C₇), Nexus commutativity (C₈), Recursion contractivity (C₁₄), Threshold boundary cases (C₁₃–C₁₅).  
-- **Integration tests**: CIT Grand Theorem invariance under centropic evolution; detection of induced entropic mirrors.  
+**Unit Tests**
+
+- Dual Spectrum Lemma (C₇ ↔ E₇ eigenpairing)  
+- Consonance periodicity (C₇ Floquet stability)  
+- Nexus commutativity (C₈ categorical square)  
+- Recursion contractivity (C₁₄ Banach condition)  
+- Threshold boundary cases (C₁₃–C₁₅)  
+
+**Integration Tests**
+
+- CIT Grand Theorem invariance under centropic evolution  
+- Detection of induced entropic mirrors (E# activation)  
+- Stability of spectral geometry under seal-preserving morphisms  
 
 ---
 
-**Summary**  
-Phase 4 provides the executable blueprint: data structures, algorithms, and diagnostics to simulate centropic flows, test bridges, verify recursion, and monitor the CIT invariant. Together with Phases 1–3, this closes the loop from **symbols → theorems → information → geometry → computation**.  
+### Phase 4 Summary
+
+Phase 4 defines the executable layer of the lattice:
+
+- **Data structures** encode resonance states and seals.  
+- **Algorithms** simulate centropic flows and detect entropic inversions.  
+- **Diagnostics** test bridges, recursion, thresholds, and invariants.  
+
+Together with Phases 1–3, this completes the structural chain:
+
+\[
+\text{Symbols} \;\to\; \text{Theorems} \;\to\; \text{Information} \;\to\; \text{Geometry} \;\to\; \text{Computation}
+\]
 
 ---
 
 ### 4.7 Sample Dataset (Toy Resonance System)
 
-**State**  
+**State**
+
 - Basis: \( \{\phi_1, \phi_2\} \)  
-- Eigenvalues (\( \lambda \)): \( \{1.0, 3.0\} \) (C₇ spectrum)  
-- Amplitudes: \( \{0.8, 0.6\} \) (normalized)  
-- Seal index (\( \sigma \)): 2.0 (C₁₃)  
-- Contraction (\( \gamma \)): 0.6 (C₁₄)  
+- Eigenvalues (C₇ spectrum): \( \{\lambda_1 = 1.0,\ \lambda_2 = 3.0\} \)  
+- Amplitudes: \( \{a_1 = 0.8,\ a_2 = 0.6\} \), normalized  
+- Seal index: \( \sigma = 2.0 \) (C₁₃)  
+- Convergence factor: \( \gamma = 0.6 \) (C₁₄)  
 
-**Bridge**  
-- Type: Nexus (C₈)  
-- Matrix: identity (lawful, no defect)  
-- Tolerance: \( 10^{-6} \)  
+**Bridge (C₈)**
 
-**Recursion**  
-- Type: Linear Contractive  
-- Operator matrix: \( 0.4 \times \) identity  
-- Iterations: 10  
+- Type: Nexus  
+- Operator: identity  
+- Diagram tolerance: \( \varepsilon = 10^{-6} \)  
 
-**Usage**  
-- Load this dataset as the initial `State`.  
-- Run `evolve_c7` for \( T \) steps.  
-- Apply the bridge once.  
-- Pass the result through recursion.  
-- Check diagnostics:  
-  - \( \gamma = 0.6 > 0 \) ⇒ veracious recursion.  
-  - \( F_c \geq 0 \) ⇒ lawful Nexus.  
-  - Invariant drift ≈ 0 ⇒ Grand Theorem holds.  
+**Recursion (C₁₄)**
+
+- Type: linear contractive map  
+- Operator: \( R = 0.4\,I \)  
+- Iterations: \( n = 10 \)  
+
+**Procedure**
+
+1. Initialize state \( \psi \).  
+2. Apply harmonic evolution \( \psi \leftarrow e^{iH_c t}\psi \).  
+3. Apply Nexus bridge \( \Phi \).  
+4. Apply recursion operator \( R \).  
+5. Evaluate diagnostics.  
+
+**Expected Results**
+
+- \( \gamma = 0.6 > 0 \Rightarrow \) veracious recursion.  
+- \( F_c \geq 0 \Rightarrow \) lawful Nexus (C₈).  
+- \( \Delta_{\text{inv}} \approx 0 \Rightarrow \) CIT Grand Theorem preserved.  
 
 ---
 
@@ -1947,27 +2003,40 @@ Phase 4 provides the executable blueprint: data structures, algorithms, and diag
 
 ### 5.1 Structural Purpose
 
-Phase 5 translates the abstract lattice mathematics into **ritual operations**:  
+Phase 5 translates lattice mathematics into operational protocols:
 
 - Seals as boundary operators (C₁₃)  
-- Recursions as intentional loops (↺, C₁₄)  
-- Novelties as emergence rites (C₁₅)  
-- Harmonics (C₇) as attunement protocols  
-- Nexus (C₈) as lawful relational bonds  
+- Recursion as intentional return loops (↺, C₁₄)  
+- Novelty as lawful bifurcation (C₁₅)  
+- Harmonics as attunement operators (C₇)  
+- Nexus as lawful relational bridges (C₈)  
 
-These protocols are not metaphorical; they enact the same conservation and information laws defined in Phases 2–4.  
+These protocols are not metaphorical.  
+They enact the same conservation and information laws formalized in Phases 2–4.
 
 ---
 
 ### 5.2 Protocol Structure
 
-Each ritual protocol is specified by:  
+Each protocol is specified by:
 
-1. **Anchor Glyphs** — the structural operators invoked (C#, E#, or axial seals)  
-2. **Motion Logic** — directional steps (acclivous / declivous)  
-3. **Boundary Conditions** — seals applied (\( \sigma \) index, C₁₃)  
-4. **Recursion Terms** — contraction ratio \( \gamma \) (C₁₄)  
-5. **Verification Clause** — diagnostic invariant (\( H + C + \log \sigma + \log \gamma \))  
+1. **Anchor Glyphs**  
+   Structural operators invoked (C#, E#, axial seals).  
+
+2. **Motion Logic**  
+   Directional dynamics (acclivous / declivous trajectories).  
+
+3. **Boundary Conditions**  
+   Seal constraints (\( \sigma \), C₁₃).  
+
+4. **Recursion Terms**  
+   Contraction ratio \( \gamma \) (C₁₄).  
+
+5. **Verification Clause**  
+   CIT invariant condition:
+   \[
+   H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{const}
+   \]
 
 ---
 
