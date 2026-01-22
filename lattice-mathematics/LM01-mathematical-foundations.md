@@ -1165,11 +1165,6 @@ Entropy and centropy may trade off, but seal capacity and recursion strength ens
 - **Efficiency Bound.**  
   Centropy efficiency \( \eta \) cannot exceed the invariant budget defined by this theorem.  
 
-**Summary**  
-
-The CIT Grand Theorem provides a **single formula** tying together entropy, centropy, seal permeability, and recursion.  
-It is the cornerstone of Phase 2, showing that coherence is not a vague quality but a conserved quantity in sealed systems.  
-
 ---
 
 ## Phase 3 — Advanced Geometry & Category Theory
