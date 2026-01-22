@@ -550,14 +550,18 @@ This law parallels the no-cloning theorem of quantum mechanics but is **stronger
 2. Let \( \psi_1, \psi_2 \) be two distinct sealed coherent states. By linearity:  
 
    \[
-   U(\alpha\psi_1 + \beta\psi_2) = \alpha U\psi_1 + \beta U\psi_2 = \alpha(\psi_1\otimes\psi_1) + \beta(\psi_2\otimes\psi_2)
+   U(\alpha\psi_1 + \beta\psi_2)
+   = \alpha U\psi_1 + \beta U\psi_2
+   = \alpha(\psi_1\otimes\psi_1) + \beta(\psi_2\otimes\psi_2)
    \]
 
    But also, by the cloning property, it must equal:  
 
    \[
    (\alpha\psi_1 + \beta\psi_2) \otimes (\alpha\psi_1 + \beta\psi_2)
-   = \alpha^2(\psi_1\otimes\psi_1) + \alpha\beta(\psi_1\otimes\psi_2 + \psi_2\otimes\psi_1) + \beta^2(\psi_2\otimes\psi_2)
+   = \alpha^2(\psi_1\otimes\psi_1)
+   + \alpha\beta(\psi_1\otimes\psi_2 + \psi_2\otimes\psi_1)
+   + \beta^2(\psi_2\otimes\psi_2)
    \]
 
 3. The cross-terms \( \psi_1\otimes\psi_2 \) and \( \psi_2\otimes\psi_1 \) cannot appear in the first expansion. Contradiction.  
