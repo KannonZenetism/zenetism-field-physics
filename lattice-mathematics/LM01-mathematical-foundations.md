@@ -1694,20 +1694,22 @@ classify as **E₈ (Severed)**.
 
 ### 4.1 Data Structures
 
-- **State**  
+#### State
+
 ```python
-basis: {φᵢ}           # orthonormal modes  
-lambdas: {λᵢ}         # C₇ eigenvalues  
-amplitudes: {aᵢ}      # complex, Σ|aᵢ|² = 1  
-seal_index: σ         # membrane permeability (C₁₃)  
-contraction: γ        # recursion contraction (C₁₄)  
+State:
+  basis: {φ_i}           # orthonormal eigenmodes (C₇ basis)
+  lambdas: {λ_i}         # C₇ eigenvalues
+  amplitudes: {a_i}      # complex amplitudes, Σ |a_i|² = 1
+  seal_index: σ          # membrane permeability (C₁₃)
+  contraction: γ         # recursion contraction factor (C₁₄)
 ```
 
 - **Channel / Bridge**  
 ```python
-Channel Φ:  
-  matrix: U or linear map  # seal-preserving if U* S U = S  
-  type: {NEXUS (C₈), RECURSION (C₁₄), PROPAGATION (C₃), CASCADE}  
+Channel Φ:
+  matrix: U or linear map      # seal-preserving if U* S U = S
+  type: {NEXUS (C₈), RECURSION (C₁₄), PROPAGATION (C₃), CASCADE}
   params: {...}
 ```
 
@@ -1717,61 +1719,84 @@ Channel Φ:
 
 - **Spectral projection & CIT**  
 ```python
-probs(pᵢ) = |aᵢ|²  
-H(ψ) = -Σ pᵢ log(pᵢ)  
-C(ψ) = log(dim(support)) - H(ψ)  
-dim_c(ψ) = exp(H(ψ))  
-F_c(Φ, ψ) = I_c(Φψ) - I_c(ψ)  
-D_c(ψ || φ) = Σ pᵢ log(pᵢ / qᵢ)  
+p_i = |a_i|²
+
+H(ψ) = -Σ_i p_i * log(p_i)                      # spectral entropy
+C(ψ) = log(dim(support)) - H(ψ)                # centropy
+dim_c(ψ) = exp(H(ψ))                           # coherence dimension
+
+I_c(ψ) = H(ψ)                                  # coherence information
+F_c(Φ, ψ) = I_c(Φψ) - I_c(ψ)                   # coherence flow
+
+D_c(ψ || φ) = Σ_i p_i * log(p_i / q_i)         # coherence divergence
 ```
 
 - **Geodesic / Harmonic flow (C₇)**  
 ```python
-evolve_c7(ψ, dt): ψ ← exp(i H_c dt) ψ  
+def evolve_c7(ψ, dt):
+    ψ ← exp(i * H_c * dt) @ ψ
+    return ψ
 ```
 
 - **Nexus validation (C₈)**  
 ```python
-nexus_valid(B, ψ):  
-  Δ = operator_norm(h∘f - k∘g)  # diagram defect  
-  F_c = I_c(Bψ) - I_c(ψ)         # coherence flow  
-  return (Δ ≤ ε) and (F_c ≥ 0)  
+def nexus_valid(B, ψ, ε):
+    Δ = operator_norm(h ∘ f - k ∘ g)          # categorical diagram defect
+    F = F_c(B, ψ)                             # coherence flow
+    return (Δ ≤ ε) and (F ≥ 0)
 ```
 
 - **Recursion gate (↺ / C₁₄)**  
 ```python
-recursion_step(R, ψ):  
-  ψ' = R(ψ)  
-  k = sup_{ψ1≠ψ2} ||Rψ1 - Rψ2|| / ||ψ1 - ψ2||  
-  γ = 1 - k  
-  valid = (k < 1)  # lawful if contractive  
-  return ψ', γ, valid  
+def recursion_step(R, ψ):
+    ψ_prime = R(ψ)
+
+    k = sup_{ψ1 ≠ ψ2} ||Rψ1 - Rψ2|| / ||ψ1 - ψ2||
+    γ = 1 - k
+
+    valid = (k < 1)   # lawful recursion iff contractive
+    return ψ_prime, γ, valid
 ```
 
-- **Seal boundary conditions (C₁₃)**  
-  - Dirichlet–Seal: zero out forbidden components at boundary.  
-  - Neumann–Seal: zero normal derivative on boundary modes.  
-  - Robin–Seal: blend by \( \sigma \): \( a \psi + b \nabla_n \psi = 0 \).  
+- **Seal Boundary Conditions (C₁₃, Computational Form)**  
+
+  - Dirichlet–Seal:  
+    ```python
+    ψ_boundary = 0
+    ```
+
+  - Neumann–Seal:  
+    ```python
+    ∂_n ψ_boundary = 0
+    ```
+
+  - Robin–Seal:  
+    ```python
+    a(σ) * ψ_boundary + b(σ) * ∂_n ψ_boundary = 0
+    ```
 
 - **Cascade application (\( \Xi_e \))**  
 ```python
-apply_cascade(Ξ_e, ψ, t):  
-  result = zero_state()  
-  for k in 1..n:  
-    result += P_{IL_{k-1}} · exp(H_e^{(k)} · t) · P_{IL_k} · ψ  
-  return result  
+def apply_cascade(Ξ_e, ψ, t):
+    result = zero_state()
+
+    for k in range(1, n+1):
+        result += P_IL[k-1] @ exp(H_e[k] * t) @ P_IL[k] @ ψ
+
+    return result
 ```
 
 - **Cascade validation**  
 ```python
-cascade_valid(Ξ_e, ψ):  
-  // Detect amplification as cascade descends inverse bands (IL₄ → IL₁)  
-  for k in [4, 3, 2]:  
-      upper = ∥P_{ILk} Ξ_e ψ∥  
-      lower = ∥P_{IL(k-1)} Ξ_e ψ∥  
-      if lower > upper:                      // amplitude grows downward  
-          flag "E₈/E₁₀ co-activation"  
-  return validation_result  
+def cascade_valid(Ξ_e, ψ):
+    for k in [4, 3, 2]:
+        upper = norm(P_IL[k] @ Ξ_e @ ψ)
+        lower = norm(P_IL[k-1] @ Ξ_e @ ψ)
+
+        if lower > upper:
+            flag("E₈ / E₁₀ co-activation detected")
+
+    return validation_result
 ```
 
 ---
