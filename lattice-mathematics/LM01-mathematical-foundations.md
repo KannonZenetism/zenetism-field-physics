@@ -2188,23 +2188,45 @@ Each entry conforms to the protocol schema in §5.2.
 
 #### (C) Vow of Presence
 
-- **Glyphs:** ↺ (Return Loop), C₁₄ (Recursive)  
-- **Motion:** Spiral recursion across time-steps  
-- **Boundary:** Neumann–Seal (reflection at boundary, \( \sigma \) small)  
-- **Recursion:** \( \gamma > 0 \) required  
-- **Verification:** \( D_c \) strictly decreases with iteration  
-- **Purpose:** Guarantees sustained presence by lawful recursion of coherence  
+- **Glyphs:** ↺ (Return Loop), C₁₄ (Nested / Recursive)  
+- **Motion:** Spiral recursion across discrete time-steps \( \{\psi_n\}_{n\in\mathbb{N}} \)  
+- **Boundary Condition:** Neumann–Seal at \( \partial M \):
+  \[
+  \nabla_n \psi\big|_{\partial M} = 0, \quad \sigma \ \text{small}
+  \]
+- **Recursion Constraint:**  
+  \[
+  \gamma > 0 \quad (\text{contractive recursion})
+  \]
+- **Verification Criterion:**  
+  \[
+  D_c(\psi_{n+1} \| \psi_n) < D_c(\psi_n \| \psi_{n-1}) \quad \forall n
+  \]
+- **Purpose:**  
+  Guarantees sustained presence by lawful convergence of coherence under recursive return.
 
 ---
 
 #### (D) Silent Bond
 
 - **Glyphs:** C₈ (Nexus), ╫ (Bridge)  
-- **Motion:** Declivous entry into shared field, then acclivous return  
-- **Boundary:** Robin–Seal (\( \sigma \) balanced: partial permeability)  
+- **Motion:** Declivous entry into shared resonance field, followed by acclivous return  
+- **Boundary Condition:** Robin–Seal:
+  \[
+  a(\sigma)\psi + b(\sigma)\nabla_n \psi = 0, \quad \sigma \ \text{balanced}
+  \]
 - **Recursion:** None  
-- **Verification:** \( \Delta I_c \geq 0 \); bridge audit passes  
-- **Purpose:** Establishes lawful mutuality without overt declaration; nexus by seal, not by speech  
+- **Verification Criteria:**  
+  \[
+  \Delta I_c \geq 0
+  \]
+  and bridge audit:
+  \[
+  \Delta_{\text{diag}} \leq \varepsilon
+  \]
+  where \( \Delta_{\text{diag}} = \|h\circ f - k\circ g\|_{\text{op}} \).  
+- **Purpose:**  
+  Establishes lawful mutuality without explicit declaration; nexus arises from seal-consistent coherence rather than symbolic articulation.
 
 ---
 
@@ -2212,59 +2234,109 @@ Each entry conforms to the protocol schema in §5.2.
 
 - **Glyphs:** ⟲ (Echo Layer), ↺ (Return Loop)  
 - **Motion:** Acclivous inversion through recursion gate  
-- **Boundary:** Seal set to reflective (\( \sigma \) small)  
-- **Recursion:** Contractive \( \gamma \) required  
-- **Verification:** Past entropic echo collapses; invariant returns to baseline  
-- **Purpose:** Neutralizes entropic echoes by lawful recursion; transforms memory loops  
+- **Boundary Condition:** Reflective seal:
+  \[
+  \sigma \ \text{small}, \quad \nabla_n \psi\big|_{\partial M} = 0
+  \]
+- **Recursion Constraint:**  
+  \[
+  \gamma > 0
+  \]
+- **Verification Criteria:**  
+  1. Entropic echo decay:
+     \[
+     D_c(\psi_{n+1} \| \psi^*) \to 0
+     \]
+  2. Invariant restoration:
+     \[
+     \Delta_{\text{inv}} \to 0
+     \]
+- **Purpose:**  
+  Neutralizes entropic memory loops via contractive recursion; restores lawful resonance trajectories.
 
 ---
 
 #### (F) Resonance Oath Renewal
 
-- **Glyphs:** 🎶 (Ontological Music), C₇ (Harmonic)  
-- **Motion:** Declivous-to-acclivous cycle  
-- **Boundary:** Open seal (\( \sigma > 1 \))  
+- **Glyphs:** 🎶 (Ontological Harmonic Field), C₇ (Harmonic Operator)  
+- **Motion:** Declivous-to-acclivous harmonic cycle  
+- **Boundary Condition:** Open seal:
+  \[
+  \sigma > 1
+  \]
 - **Recursion:** None  
-- **Verification:** Harmonic ratio restored to rational eigenvalues  
-- **Purpose:** Refreshes fidelity of prior vows; resets harmonic alignment  
+- **Verification Criterion:**  
+  Rational spectral alignment:
+  \[
+  \frac{\lambda_i}{\lambda_j} \in \mathbb{Q} \quad \forall i,j
+  \]
+- **Purpose:**  
+  Restores harmonic consonance across the C₇ spectrum; renews coherence of prior vows.
 
 ---
 
 #### (G) Centropic Mantra
 
-- **Glyphs:** C↑→⚫ (Final Return)  
-- **Motion:** Pure acclivous motion  
-- **Boundary:** None; directed toward ⚫ Aion  
+- **Glyphs:** C↑→⚫ (Final Return Trajectory)  
+- **Motion:** Pure acclivous evolution under centropic flow  
+- **Boundary Condition:** None (directed toward Aionic pole ⚫)  
 - **Recursion:** None  
-- **Verification:** Consonance scan detects convergence (\( \gamma \to 1 \))  
-- **Purpose:** Aligns all motion toward Source; field purification  
+- **Verification Criterion:**  
+  Convergence of spiral contraction:
+  \[
+  \gamma \to 1
+  \]
+- **Purpose:**  
+  Aligns all system trajectories toward the centropic pole; purifies resonance field orientation.
 
 ---
 
 ### 5.6 General Verification Protocol
 
-Every rite includes a **verification step**:  
-- Pre-scan: record \( H \), \( C \), \( \dim_c \), invariant  
-- Perform rite with specified glyphs, seals, and motion  
-- Post-scan: repeat diagnostics  
-- Validity confirmed if:  
-  - Invariant drift ≈ 0  
-  - \( F_c \geq 0 \) across all bridges  
-  - \( \gamma > 0 \) for any recursion  
-  - No entropic flags triggered (E₈, E₁₃, E₁₄, E₁₅)  
+Every rite is validated by the following CIT–ResCat pipeline:
+
+1. **Pre-scan:** record
+   \[
+   H(\psi),\ C(\psi),\ \dim_c(\psi),\ \Delta_{\text{inv}}
+   \]
+2. Execute protocol under specified glyphs, seals, and motion laws.
+3. **Post-scan:** recompute diagnostics.
+
+**Validity Conditions**
+
+A rite is structurally veracious iff:
+
+- CIT invariant stability:
+  \[
+  \Delta_{\text{inv}} \approx 0
+  \]
+- Bridge coherence:
+  \[
+  F_c(\Phi_i, \psi) \geq 0 \quad \forall i
+  \]
+- Recursion legality (if invoked):
+  \[
+  \gamma > 0
+  \]
+- No entropic flags activated:
+  - E₈ if \( F_c < 0 \) or \( \Delta_{\text{diag}} > \varepsilon \)
+  - E₁₃ if seal capacity violated
+  - E₁₄ if recursion non-contractive
+  - E₁₅ if norm or curvature diverges
 
 ---
 
 ### Summary
 
-Phase 5 establishes the **ritual operating system** of the lattice.  
-- **Seals (C₁₃):** regulate boundaries  
-- **Harmonics (C₇):** establish fidelity  
-- **Recursion (C₁₄):** sustains presence  
-- **Nexus (C₈):** governs lawful relations  
-- **Emergence (C₁₅):** initiates veracious novelty  
+Phase 5 formalizes ritual logic as executable lattice dynamics:
 
-Together, these protocols ensure that metaphysical operations remain lawful under the **Grand Theorem of coherence conservation**.  
+- **C₁₃ (Seals):** boundary operators regulating resonance flow  
+- **C₇ (Harmonics):** spectral coherence enforcement  
+- **C₁₄ (Recursion):** contractive return dynamics  
+- **C₈ (Nexus):** lawful categorical bridges  
+- **C₁₅ (Emergence):** information-positive bifurcation  
+
+Thus, ritual operations are mathematically constrained transformations governed by the CIT invariant and ResCat morphism laws, ensuring that metaphysical motion remains lawful under the Grand Theorem of coherence conservation.
 
 ---
 
