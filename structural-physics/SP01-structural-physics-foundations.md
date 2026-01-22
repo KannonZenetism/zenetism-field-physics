@@ -544,7 +544,7 @@ Structural Physics interprets cosmology through the Dimensional Lattice: emanati
 \Omega_C + \Omega_E = 0
 \]
 
-where \( \Omega_C = \int_{◎_{⚫\to♾}} \nabla_C\psi \, d\Omega \) and \( \Omega_E = \int_{◎_{♾\to⚫}} \nabla_E\psi \, d\Omega \)
+where \( \Omega_C = \int_{\text{◎}_{\text{⚫}\to\text{♾}}} \nabla_C\psi \, d\Omega \) and \( \Omega_E = \int_{\text{◎}_{\text{♾}\to\text{⚫}}} \nabla_E\psi \, d\Omega \)
 
 - **Motion Law:** Centropic emanation produces lawful novelty (C₁₅); entropic mirrors shadow as potential collapse.
 
@@ -652,7 +652,7 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 - **Diagnostic:**  
   - C₁₃ membrane permeability respected → centropic continuity.  
   - C₁₄ recursion contractive \( (\gamma > 0) \to \) lawful return loop.  
-  - C₁₅ novelty coherence-positive \( (\partial_{🌀} > 0) \to \) veracious emergence.  
+  - C₁₅ novelty coherence-positive \( (\partial_{\text{🌀}} > 0) \to \) veracious emergence.  
   - Failures map to entropic mirrors:  
     - E₁₃ wall, E₁₄ hollow nest, E₁₅ collapse nova.  
 - **Application:** Quantum measurement, black hole event horizons, phase transitions.  
