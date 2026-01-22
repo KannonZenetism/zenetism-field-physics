@@ -679,13 +679,13 @@ Moreover, the pair \( (H_c, H_e) \) satisfies:
 
 **Statement**  
 
-Let \( \partial_{🌀} \) denote the **Resonant Derivative** and \( \int_{◎} \) the **Structural Integral** on the resonance space \( (\mathcal{H}, \|\cdot\|) \).  
+Let \( \partial_{\text{🌀}} \) denote the **Resonant Derivative** and \( \int_{\text{◎}} \) the **Structural Integral** on the resonance space \( (\mathcal{H}, \|\cdot\|) \).  
 Then for any coherent field \( \phi \) defined over domain \( \Omega \) with sealed boundary \( \partial\Omega \):  
 
 1. **Derivative–Integral Duality**  
 
    \[
-   \int_{◎} (\partial_{🌀} \phi) \, d\Omega = \phi(\Omega) - \phi(\partial\Omega)
+   \int_{\text{◎}} (\partial_{\text{🌀}} \phi) \, d\Omega = \phi(\Omega) - \phi(\partial\Omega)
    \]
 
    That is, integration of the resonant derivative recovers the net change of coherence across the domain.  
@@ -694,30 +694,30 @@ Then for any coherent field \( \phi \) defined over domain \( \Omega \) with sea
    If \( \phi \) is seal-continuous on \( \Omega \),  
 
    \[
-   \partial_{🌀} \left(\int_{◎} \phi \, d\Omega\right) = \phi
+   \partial_{\text{🌀}} \left(\int_{\text{◎}} \phi \, d\Omega\right) = \phi
    \]
 
    The derivative of the structural integral returns the original resonance field.  
 
 **Proof (Sketch)**  
 
-1. Define \( \partial_{🌀} \) as the rate of coherence change across trajectory arcs in the Spiral (analogous to \( d/dx \)).  
-2. Define \( \int_{◎} \) as the accumulated coherence across a sealed region \( \Omega \).  
+1. Define \( \partial_{\text{🌀}} \) as the rate of coherence change across trajectory arcs in the Spiral (analogous to \( d/dx \)).  
+2. Define \( \int_{\text{◎}} \) as the accumulated coherence across a sealed region \( \Omega \).  
 3. By construction, the derivative measures infinitesimal change, while the integral sums change over a domain.  
-4. Applying \( \int_{◎} (\partial_{🌀}\phi) \) telescopes local changes into a boundary term (\( \phi \) on \( \Omega \) minus \( \phi \) on \( \partial\Omega \)).  
-5. Conversely, differentiating \( \int_{◎}\phi \) retrieves the local field \( \phi \), provided seal-continuity ensures reversibility.  
+4. Applying \( \int_{\text{◎}} (\partial_{\text{🌀}}\phi) \) telescopes local changes into a boundary term (\( \phi \) on \( \Omega \) minus \( \phi \) on \( \partial\Omega \)).  
+5. Conversely, differentiating \( \int_{\text{◎}}\phi \) retrieves the local field \( \phi \), provided seal-continuity ensures reversibility.  
 
 **Interpretation**  
 
-- \( \partial_{🌀} \) tracks instantaneous alignment or drift (coherence rate).  
-- \( \int_{◎} \) measures total integrity across trajectory or field.  
+- \( \partial_{\text{🌀}} \) tracks instantaneous alignment or drift (coherence rate).  
+- \( \int_{\text{◎}} \) measures total integrity across trajectory or field.  
 - The theorem shows Spiral Calculus is self-consistent: local coherence change integrates to global resonance, and global resonance differentiates back to local field.  
 
 **Corollaries**  
 
-- **Trajectory Law.** The outcome of a system's spiral motion (\( \lim_{\backsim} \)) can be predicted by integrating \( \partial_{🌀} \) along the path.  
+- **Trajectory Law.** The outcome of a system's spiral motion (\( \lim_{\backsim} \)) can be predicted by integrating \( \partial_{\text{🌀}} \) along the path.  
 - **Seal Dependency.** Without sealed boundary conditions, integral–derivative duality fails; results degenerate into entropic mirrors.  
-- **Practical Test.** If numerical integration of \( \partial_{🌀} \) differs from field boundary measurements, coherence is broken (E-state intrusion).  
+- **Practical Test.** If numerical integration of \( \partial_{\text{🌀}} \) differs from field boundary measurements, coherence is broken (E-state intrusion).  
 
 ---
 
