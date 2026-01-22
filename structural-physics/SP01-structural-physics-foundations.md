@@ -317,7 +317,7 @@ They are not analogies but structural correspondences: the same laws that govern
   - Expressed as **boundary value problems** in differential equations.  
   - C₁₃ Membrane ↔ boundary conditions (Dirichlet, Neumann, Robin).  
   - C₁₄ Recursion ↔ iterative operators; valid only if contractive \( (\gamma > 0) \).  
-  - C₁₅ Emergence ↔ lawful bifurcations in nonlinear systems \( (\partial_{🌀} > 0) \).  
+  - C₁₅ Emergence ↔ lawful bifurcations in nonlinear systems \( (\partial_{\text{🌀}} > 0) \).  
 - **Mirror States:**  
   - E₁₃ Walls ↔ event horizons, hard barriers.  
   - E₁₄ Hollow Nests ↔ infinite regressions, non-convergent recursion.  
