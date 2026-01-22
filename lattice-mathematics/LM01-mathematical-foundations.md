@@ -407,52 +407,53 @@ Define temporal operator \( T \) (C₁), propagational operator \( P \) (C₃), 
 
 ---
 
-*This spine now includes the first formal proof (Consonance Spectral Law). More theorems to follow.*  
+### Formal Proof Canon (Drafts)
+
+#### Theorem (Consonance Spectral Law, C₇)
+
+Let \( H \) be the Harmonic operator (C₇), self-adjoint on \( \mathcal{H} \) with spectrum \( \{\lambda_i\} \).  
+Define temporal operator \( T \) (C₁), propagational operator \( P \) (C₃), and bridge operator \( B \) (C₈).  
+
+**Statement**
+
+\[
+\forall i,j \text{ with } \lambda_j \neq 0,\quad \frac{\lambda_i}{\lambda_j} \in \mathbb{Q}
+\Rightarrow [T, P] = 0 \text{ and } \|B\psi\| = \|\psi\| \text{ (lossless, centropic)}
+\]
+
+\[
+\exists i,j \text{ with } \lambda_j \neq 0,\quad \frac{\lambda_i}{\lambda_j} \notin \mathbb{Q}
+\Rightarrow \iota(C_7) = E_7 \text{ and } \exists \psi : \|B\psi\| < \|\psi\| \text{ (dissonant, entropic)}
+\]
+
+**Proof Sketch**
+
+1. Let \( H \) be self-adjoint on \( \mathcal{H} \) with eigenbasis \( \{\phi_i\} \) and eigenvalues \( \{\lambda_i\} \).
+
+2. Suppose that for all \( i,j \), the spectral ratios satisfy  
+   \( \frac{\lambda_i}{\lambda_j} \in \mathbb{Q} \).  
+   Then the spectrum is rationally commensurate, so there exists a period \( \tau \) such that  
+   \( e^{iH\tau} = I \).  
+   Because \( T \) and \( P \) are spectrally aligned with \( H \), their dynamics inherit this periodicity.
+
+3. Periodicity implies global phase synchronization of the temporal operator \( T \) and the propagational operator \( P \), hence  
+   \( [T, P] = 0 \).
+
+4. When \( T \) and \( P \) commute, the bridge operator \( B \) preserves norm on the resonant subspace, so  
+   \( \|B\psi\| = \|\psi\| \).  
+   Thus transmission across structural junctions is lossless, realizing centropic consonance (C₇).
+
+5. Conversely, suppose there exist \( i,j \) such that  
+   \( \frac{\lambda_i}{\lambda_j} \notin \mathbb{Q} \).  
+   Then the spectrum is incommensurate and the dynamics become quasiperiodic, preventing global phase alignment.
+
+6. Without global synchronization, the bridge operator becomes strictly contractive on some mode, so there exists \( \psi \) such that  
+   \( \|B\psi\| < \|\psi\| \).  
+   This corresponds to mirror inversion and dissonance, i.e., the emergence of E₇.
 
 ---
 
-### Formalization: Consonance Law (C₇) as a Spectral Theorem
-
-**Setup**  
-
-Let \( \mathcal{H} \) be the Hilbert space of resonance signals with inner product weighted by field density.  
-
-Define operators:  
-- **T** = Temporal evolution (C₁, generator of time translations)  
-- **P** = Propagation (C₃, wave operator)  
-- **B** = Bridge operator (C₈, mapping across structural junctions)  
-- **H** = Harmonic operator (C₇), self-adjoint with discrete spectrum \( \{\lambda_i\} \)  
-
----
-
-**Law Statement (Symbolic)**  
-
-- If \( \text{Spec}(H) \subset \mathbb{Q} \) (all eigenvalue ratios rational):  
-  - \( T \) and \( P \) commute on a resonant subspace.  
-  - \( B \) is lossless: \( \|B\psi\| = \|\psi\| \).  
-
-- If \( \text{Spec}(H) \not\subset \mathbb{Q} \) (spectrum incommensurate):  
-  - Mirror inversion arises: \( \iota(H) = E_7 \) (Dissonance).  
-  - \( \exists \psi \) such that \( \|B\psi\| < \|\psi\| \).  
-
----
-
-**Proof Sketch (Draft)**  
-
-- Assume \( H \) has eigenbasis \( \{\phi_i\} \) with eigenvalues \( \lambda_i \).  
-- If \( \lambda_i / \lambda_j \in \mathbb{Q} \) for all \( i,j \):  
-  - Resonance is periodic: ∃ minimal \( \tau \) such that \( e^{iH\tau} = I \).  
-  - Periodicity ensures synchronous alignment of \( T \) and \( P \) ⇒ \( [T, P] = 0 \).  
-  - Under commutativity, \( B \) acts isometrically across subspaces (lossless transmission).  
-- If \( \lambda_i / \lambda_j \notin \mathbb{Q} \):  
-  - Spectrum is quasiperiodic → no global alignment.  
-  - Dissonance arises (E₇), \( \|B\psi\| \) decays, mirror coupling dominates.  
-
-Q.E.D. (draft form).  
-
----
-
-**Interpretation**  
+**Interpretation**
 
 - **Centropic outcome:** C₇ consonance enforces spectral rationality → coherence locked by periodicity.  
 - **Entropic outcome:** E₇ dissonance expresses as irrational spectrum → no global consonance, decay inevitable.  
@@ -460,9 +461,9 @@ Q.E.D. (draft form).
 
 ---
 
-### Theorem (Nexus Law, C₈ — Categorical Commutativity)
+#### Theorem (Nexus Law, C₈ — Categorical Commutativity)
 
-**Statement**  
+**Statement**
 
 Let the commuting square in **ResCat** be:
 ```text
