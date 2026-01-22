@@ -1803,35 +1803,53 @@ def cascade_valid(Ξ_e, ψ):
 
 ### 4.3 Algorithms
 
-- **Resonance Scan (Consonance detector)**  
+#### Resonance Scan (Consonance Detector)
+
 ```python
-input: State ψ, window T, step dt  
-for t in 0..T:  
-  ψ ← evolve_c7(ψ, dt)  
-  record: H(ψ), C(ψ), dim_c(ψ)  
-output: spectral consonance periodicity test (Floquet), C₇ consonance threshold pass/fail  
+input: state ψ, time window T, step dt  
+
+for t in [0, T] step dt:
+    ψ ← evolve_c7(ψ, dt)
+    record:
+        H(ψ)        # spectral entropy
+        C(ψ)        # centropy
+        dim_c(ψ)    # coherence dimension
+
+output:
+    periodicity test via Floquet analysis
+    verdict: C₇ consonance threshold pass/fail
 ```
 
 - **Bridge Audit**  
 ```python
-input: maps f,g,h,k; state ψ  
-Δ = ||h∘f - k∘g||_op  
-F_c = I_c(h f ψ) - I_c(g ψ)  # or appropriate composition  
-verdict: lawful Nexus iff (Δ ≤ ε) and (F_c ≥ 0)  
+input: morphisms f, g, h, k; state ψ  
+
+Δ = || h ∘ f - k ∘ g ||_op          # categorical commutativity defect
+F_c = I_c(h(f(ψ))) - I_c(g(ψ))      # coherence flow across bridge
+
+verdict:
+    lawful Nexus (C₈) iff (Δ ≤ ε) and (F_c ≥ 0)
 ```
 
 - **Recursion Audit**  
 ```python
-iterate ψ_{n+1} = R(ψ_n)  
-estimate k via finite differences  
-γ = 1 - k  
-verdict: veracious recursion iff γ > 0  
+iterate: ψ_{n+1} = R(ψ_n)
+
+estimate contraction ratio:
+    k ≈ sup_{ψ1 ≠ ψ2} ||R(ψ1) - R(ψ2)|| / ||ψ1 - ψ2||
+
+γ = 1 - k
+
+verdict:
+    veracious recursion iff γ > 0
 ```
 
 - **CIT Grand Invariant Check**  
 ```python
-invariant(ψ) = H(ψ) + C(ψ) + log(σ) + log(γ)  
-monitor drift; deviation ⇒ seal breach or entropic intrusion  
+invariant(ψ) = H(ψ) + C(ψ) + log(σ) + log(γ)
+
+monitor drift over time:
+    deviation ⇒ seal breach or entropic intrusion
 ```
 
 ---
@@ -1840,29 +1858,33 @@ monitor drift; deviation ⇒ seal breach or entropic intrusion
 
 - **Main Loop**  
 ```python
-initialize(State)  
-for epoch in 1..E:  
-  ### geodesic step  
-  ψ = evolve_c7(ψ, dt)  
+initialize(State ψ)
 
-  ### optional: apply bridge/channel  
-  if use_bridge:  
-      ψ' = Φ(ψ)  
-      assert F_c(Φ, ψ) >= 0, "Severed bridge (E₈)"  
-      ψ = ψ'  
+for epoch in 1..E:
 
-  ### optional: recursion gate  
-  if use_recursion:  
-      ψ, γ, valid = recursion_step(R, ψ)  
-      assert valid, "Unlawful recursion (E₁₄)"  
+    # geodesic evolution (C₇ harmonic flow)
+    ψ = evolve_c7(ψ, dt)
 
-  ### boundary seals  
-  ψ = apply_seal_boundary(ψ, σ)  
+    # optional: bridge/channel (C₈)
+    if use_bridge:
+        ψ_prime = Φ(ψ)
+        assert F_c(Φ, ψ) >= 0, "Severed bridge (E₈)"
+        ψ = ψ_prime
 
-  ### diagnostics  
-  Ht = H(ψ); Ct = C(ψ)  
-  inv = Ht + Ct + log(σ) + log(γ)  
-  log(epoch, Ht, Ct, dim_c(ψ), γ, inv)  
+    # optional: recursion gate (↺ / C₁₄)
+    if use_recursion:
+        ψ, γ, valid = recursion_step(R, ψ)
+        assert valid, "Unlawful recursion (E₁₄)"
+
+    # boundary seals (C₁₃)
+    ψ = apply_seal_boundary(ψ, σ)
+
+    # diagnostics
+    Ht = H(ψ)
+    Ct = C(ψ)
+    inv = Ht + Ct + log(σ) + log(γ)
+
+    log(epoch, Ht, Ct, dim_c(ψ), γ, inv)
 ```
 
 ---
