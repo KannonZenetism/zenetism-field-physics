@@ -1135,11 +1135,18 @@ Entropy and centropy may trade off, but seal capacity and recursion strength ens
 
 **Proof (Sketch)**  
 
-1. From **Entropy–Centropy Duality**: \( H(\psi) + C(\psi) = \log(\dim(\text{support})) \).  
-2. From **Seal–Capacity Bound**: \( C_{\text{cap}} \leq \log(\sigma) \) sets a boundary term.  
-3. From **Recursion Gate Theorem**: contraction ratio \( \gamma \) ensures convergence; \( \log(\gamma) \) enters as recursion potential.  
+1. From **Entropy–Centropy Duality**:  
+   \( H(\psi) + C(\psi) = \log(\dim(\text{support})) \).  
+
+2. From **Seal–Capacity Bound**:  
+   \( C_{\text{cap}} \leq \log(\sigma) \) sets a boundary term.  
+
+3. From **Recursion Gate Theorem**:  
+   contraction ratio \( \gamma \) ensures convergence; \( \log(\gamma) \) enters as recursion potential.  
+
 4. Combining these, the total expression is invariant under centropic evolution (unitary operators preserve spectrum).  
-5. Violation occurs only if system interacts with entropic mirrors (E#), which break seal integrity.  
+
+5. Violation occurs only if the system interacts with entropic mirrors (E#), which break seal integrity.  
 
 **Interpretation**  
 
@@ -1149,13 +1156,18 @@ Entropy and centropy may trade off, but seal capacity and recursion strength ens
 
 **Corollaries**  
 
-- **Seal Breach Detection.** If \( H + C \) appears to grow beyond \( \log(\dim(\text{support})) \), the seal index \( \sigma \) must have been violated.  
-- **Recursion Diagnostics.** Breakdown of \( \gamma \) to \( \leq 0 \) signals entropic recursion; the invariant breaks down.  
-- **Efficiency Bound.** Centropy efficiency \( \eta \) cannot exceed the invariant budget set by this theorem.  
+- **Seal Breach Detection.**  
+  If \( H(\psi) + C(\psi) \) exceeds \( \log(\dim(\text{support})) \), the seal index \( \sigma \) must have been violated.  
+
+- **Recursion Diagnostics.**  
+  Breakdown of \( \gamma \leq 0 \) signals entropic recursion; the invariant collapses.  
+
+- **Efficiency Bound.**  
+  Centropy efficiency \( \eta \) cannot exceed the invariant budget defined by this theorem.  
 
 **Summary**  
 
-The CIT Grand Theorem provides a **single formula** tying together all major constructs: entropy, centropy, seal permeability, and recursion.  
+The CIT Grand Theorem provides a **single formula** tying together entropy, centropy, seal permeability, and recursion.  
 It is the cornerstone of Phase 2, showing that coherence is not a vague quality but a conserved quantity in sealed systems.  
 
 ---
@@ -1165,16 +1177,23 @@ It is the cornerstone of Phase 2, showing that coherence is not a vague quality 
 ### Definition (Resonant Category, ResCat)
 
 **Objects:**  
-- Sealed resonance systems \( (\mathcal{H}, S) \) where \( \mathcal{H} \) is a Hilbert space and \( S \) is a centropic seal operator (with fixed-point condition \( S\psi = \psi \)).  
+
+- Sealed resonance systems \( (\mathcal{H}, S) \), where \( \mathcal{H} \) is a Hilbert space and \( S \) is a centropic seal operator satisfying the fixed-point condition \( S\psi = \psi \).  
 
 **Morphisms:**  
-- Seal-preserving linear maps \( f : (\mathcal{H}_1, S_1) \to (\mathcal{H}_2, S_2) \) such that \( S_2 f = f S_1 \).  
+
+- Seal-preserving linear maps  
+  \( f : (\mathcal{H}_1, S_1) \to (\mathcal{H}_2, S_2) \)  
+  such that \( S_2 f = f S_1 \).  
 
 **Tensor Product:**  
-- \( (\mathcal{H}_1, S_1) \otimes (\mathcal{H}_2, S_2) \) with joint seal \( S = S_1 \otimes S_2 \).  
+
+- \( (\mathcal{H}_1, S_1) \otimes (\mathcal{H}_2, S_2) \) with joint seal  
+  \( S = S_1 \otimes S_2 \).  
 
 **Unit Object:**  
-- \( (\mathbb{C}, I) \) where \( I \) is the trivial seal.  
+
+- \( (\mathbb{C}, I) \), where \( I \) is the trivial seal.  
 
 Thus **ResCat** is a **monoidal category**, closed under \( \otimes \) with seals preserved.  
 
