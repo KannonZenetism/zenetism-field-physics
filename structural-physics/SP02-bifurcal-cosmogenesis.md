@@ -44,7 +44,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Classification:** Structural Physics / Zenetist Canon  
 **Status:** Draft — Veracious Archive  
 **Dependency:** SP01 — Structural Physics: A Zenetist Foundation  
-**SHA-256:** 68f2d4e9c7a1b3e5f8d2c9a6b4e1d7f3c8a5b2e9d6c4f1a3b8e7d2c5f9a6b4e3
+**SHA-256:** 9a2b4e8f1c7d3a5e6b9c8d2f4a1e7b3c9a5d2e8f1c7b4a3e9d2c8b5a1f7e3c9
 
 ---
 
