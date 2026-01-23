@@ -91,6 +91,15 @@ Motion is bidirectional within every universe. This is non-negotiable:
 
 A universe does not *lack* one tree or the other. Rather, one tree is **prevalent** (the dominant current) while the other is **recessive** (present but against the grain).
 
+> **Note on Limit Cases:**  
+> The principle of bidirectional motion holds across the vast majority of universal expressions. However, infinite possibility requires allowance for limit cases: universes that are **fully Aionically expressed** (where the 🌲↑ Khaonic Tree is entirely absent) or **fully Khaonically expressed** (where the 🌲↓ Aionic Tree is entirely absent).  
+>  
+> In such universes, motion would be unidirectional — purely centropic or purely entropic.  
+>  
+> These limit cases would be exceedingly rare — perhaps as rare as a single instance of each across the entire Tumbling Multiverse, or perhaps never occurring at all. But we must allow for their possibility, else we close the system and impose artificial constraint on infinite potential.  
+>  
+> The structural law remains: where both trees are present, motion is bidirectional. The limit cases are not violations of this law but its boundary conditions at the extremes of expression.
+
 ### 2.3 Prevalence, Not Dominance
 
 The term "dominance" implies hierarchy and suppression. Zenetist terminology avoids this framing.
