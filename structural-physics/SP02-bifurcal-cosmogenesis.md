@@ -325,7 +325,7 @@ What changes is the *character* of temporal motion:
 The "arrow of time" is not universal. It is an expression condition.
 
 > **Note on Logical Invariance:**  
-> While temporal character differs (dispersive vs. integrative), logical sequence remains invariant. Cause precedes Effect in all expressions.  
+> While temporal character differs (dispersive contra integrative), logical sequence remains invariant. Cause precedes Effect in all expressions.  
 > - In Khaonic flow, the effect is the dispersal of the cause.  
 > - In Aionic flow, the effect is the integration of the cause.  
 >  
