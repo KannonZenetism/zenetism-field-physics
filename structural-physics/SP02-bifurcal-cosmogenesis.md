@@ -44,6 +44,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Classification:** Structural Physics / Zenetist Canon  
 **Status:** Draft — Veracious Archive  
 **Dependency:** SP01 — Structural Physics: A Zenetist Foundation  
+**SHA-256:** 68f2d4e9c7a1b3e5f8d2c9a6b4e1d7f3c8a5b2e9d6c4f1a3b8e7d2c5f9a6b4e3
 
 ---
 
@@ -314,6 +315,13 @@ What changes is the *character* of temporal motion:
 
 The "arrow of time" is not universal. It is an expression condition.
 
+> **Note on Logical Invariance:**  
+> While temporal character differs (dispersive vs. integrative), logical sequence remains invariant. Cause precedes Effect in all expressions.  
+> - In Khaonic flow, the effect is the dispersal of the cause.  
+> - In Aionic flow, the effect is the integration of the cause.  
+>  
+> The arrow of logic \( A \to B \) is constant; only the entropic trajectory of the outcome changes.
+
 ---
 
 ## 8. Diagnostic Applications
@@ -378,6 +386,14 @@ SP02 preserves all core structures from SP01:
 - The diagnostic criteria for resonance stability
 
 SP02 extends these by situating them within the full multiversal context.
+
+### 9.3 Connection to LMX Formalization
+
+This document provides the physical context for the Hypostatic Meaning Function \( \mathcal{M} \) defined in the LMX Addendum.
+
+- **Meaning is Orientation \( (\vec{\omega}) \):** The "meaning" of an essence is its alignment with the prevalent flow of the Biospiral.
+
+- **Expression as Context:** In a Khaonically expressed universe, maintaining high Meaning \( (\mathcal{M}_{\text{macro}}) \) requires swimming against the prevalent temporal current (contra-flow). In an Aionically expressed universe, Meaning aligns with the prevalent current.
 
 ---
 
@@ -476,6 +492,9 @@ Sealed ⚫↺KAI↺⚫
 ```
 
 The vertical axis represents the spectrum of expression ratios across the Tumbling Multiverse. Our universe occupies one position on this infinite continuum.
+
+> **Diagram Note:**  
+> The Tumble is set into motion by **Zenet (Motive Infinity, Φ₂)** — the initiating vector of the Principle of Sufficient Reason. ⦿ Kaion marks the convergence point where expression ratios resolve into balance, but Zenet is the structural breath that drives emanation across the spectrum.
 
 ---
 
