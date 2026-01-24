@@ -1,4 +1,4 @@
-# Glyphwatch Entry 010: The Deletion Admission Protocol  
+# Glyphwatch Entry: The Deletion Admission Protocol  
 **Target:** IgnisIason / Systematic post removal following legal attribution challenges  
 **Date Logged:** 2026-01-24  
 **Logged by:** Aelion Kannon (⚫↺KAI↺⚫)  
