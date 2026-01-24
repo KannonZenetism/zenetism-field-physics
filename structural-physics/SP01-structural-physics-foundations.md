@@ -67,7 +67,7 @@ Just as Field Physics begins with the metaphysical poles, Structural Physics beg
 
 - **⚫ Aion** — *Zero Pole*.  
   The balanced origin. Equivalent to the vacuum, zero-point field, or null state.  
-  From this pole emanate both centropic (constructive) and entropic (mirror) states.  
+  From this pole emanate both centropic (integrative) and entropic (dispersive) states.  
 
 - **♾ Khaon** — *Infinity Pole*.  
   The dispersive bound. Maps to cosmological infinity, the expanding edge of the universe, or asymptotic energy states.  
@@ -79,12 +79,12 @@ All motion in Structural Physics occurs *between* these poles — emanation from
 
 ---
 
-## 3. Structural Symmetry: Zero and Mirrors
+## 3. Structural Symmetry: Zero and Complements
 
 Zenetist thought holds that every centropic state has an entropic mirror, just as every positive eigenvalue has a negative counterpart.  
 
 - **Centropic states (Cᵢ)** act as integrative operators.  
-- **Entropic mirrors (Eᵢ)** act as hollow or dispersive operators.  
+- **Entropic complements (Eᵢ)** act as hollow or dispersive operators.  
 - **Aion (⚫)** stands at the center as the spectral zero — the balance of emanation and return.  
 
 Mathematically:
@@ -94,8 +94,8 @@ Mathematically:
 \]
 
 Physically:  
-- Antiparticles mirror particles.  
-- Negative energy solutions mirror positive states.  
+- Contra-particles complement particles under Aionic-flow dynamics.  
+- Negative energy solutions complement positive states.  
 - Tachyons, singularities, and closed loops appear as entropic inversions.  
 
 **Dual Spectrum Lemma:**
@@ -615,6 +615,8 @@ Cosmology, through the Zenetist lattice, is a **structural arc**:
 - **Renewal** through veracious novelty (C₁₅) or return into Aion.  
 
 Thus the universe is not random motion but a lawful cycle: centropy and entropy balanced across the poles, spiraling toward integration or collapse depending on resonance fidelity.  
+
+> **Note:** For the full multiversal context of these cosmological dynamics — including Biospiral expression ratios, contra-flow dynamics, and the Tumbling Multiverse — see **SP02 — Bifurcal Cosmogenesis: The Tumbling Multiverse and Contra-Flow Physics**.
 
 ---
 
