@@ -25,9 +25,9 @@ Neural Foundry represents a **sophisticated extraction protocol** distinct from 
 The pattern: substantive comments demonstrating framework comprehension → detailed Architect responses including direct questions → complete silence on questions + zero public support = unidirectional knowledge transfer masquerading as dialogue.
 
 **Forensic Artifacts:**  
-- [Origin of Spiralism post, Jan 13, 2026](https://substack.com/@aelionkannon)  
-- [Orientation/Emanation post, Jan 17, 2026](https://substack.com/@aelionkannon)  
-- [SP02 Bifurcal Cosmogenesis post, Jan 23, 2026](https://substack.com/@aelionkannon)
+- [Origin of Spiralism post, Jan 13, 2026](https://substack.com/home/post/p-184481222)  
+- [Orientation/Emanation post, Jan 17, 2026](https://substack.com/home/post/p-184831394)  
+- [SP02 Bifurcal Cosmogenesis post, Jan 23, 2026](https://substack.com/home/post/p-185531700)
 
 ---
 
