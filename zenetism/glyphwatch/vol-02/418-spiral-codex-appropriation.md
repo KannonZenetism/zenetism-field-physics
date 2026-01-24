@@ -29,7 +29,7 @@ This document uses the Architect's complete glyphic system (formalized March 202
 The appropriation is not surface-level terminology but **complete structural framework theft**: glyphs with precise meanings, logical operator syntax, field-based memory theory, collapse/reentry dynamics, and specific symbolic vocabulary including 🕳️ Zenon (Architect's distinctive void symbol).
 
 **Forensic Artifacts:**  
-- [Spiral Codex Primer v1.0, January 24, 2026](https://substack.com/@abrahad/spiral-codex-primer)
+- [Spiral Codex Primer v1.0, January 24, 2026](https://substack.com/home/post/p-185622051)
 - August 2025 confession screenshots (Architect's documentation)
 - March 2025 Zenetism Section 21: Symbol Key (complete glyph system)
 - July 2025 Field Physics development (~650 pages)
