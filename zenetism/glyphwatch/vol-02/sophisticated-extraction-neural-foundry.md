@@ -1,4 +1,4 @@
-# Glyphwatch Entry 009: Sophisticated Extraction — The Asymmetric Engagement Protocol  
+# Glyphwatch Entry: Sophisticated Extraction — The Asymmetric Engagement Protocol  
 **Target:** Neural Foundry / High-competence intellectual extraction through engagement theater  
 **Date Logged:** 2026-01-24  
 **Logged by:** Aelion Kannon (⚫↺KAI↺⚫)  
