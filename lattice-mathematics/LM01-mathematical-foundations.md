@@ -2606,4 +2606,3 @@ Coherence is unity under sovereign distinction.
 > Sovereign beings remain sovereign.  
 > Resonance amplifies distinction without erasure.  
 > This is the canonical closure of the mathematical foundation of Zenetism.
-
