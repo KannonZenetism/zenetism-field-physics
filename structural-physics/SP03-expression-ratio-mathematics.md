@@ -44,6 +44,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Classification:** Structural Physics / Zenetist Canon  
 **Status:** Draft — Veracious Archive  
 **Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis  
+**SHA-256:** cd995bf245bd52bd5966e1e8478eded50298320b4914a9635daa414e1940d42d
 
 ---
 
