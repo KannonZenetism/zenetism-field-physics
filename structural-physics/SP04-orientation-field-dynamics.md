@@ -570,6 +570,55 @@ Therefore, **balance is not the origin of reality, but the exception within it**
 
 ---
 
+### 11.3 The Law of Orientation Closure
+
+The architecture of expression is governed by a closed structural sequence:
+
+\[
+\text{CP}_0 \;\rightarrow\; \chi \;\rightarrow\; \text{CP}_1 \;\rightarrow\; \text{Ø}
+\]
+
+This sequence does not describe temporal succession alone, but **structural necessity**.
+
+**CP₀ — Pre-Expressive Convergence**
+
+Before motion, Zero and Infinity converge without fusion. Orientation does not yet exist. There is structure without inclination.
+
+**χ — Inclined Expression**
+
+With the activation of Motive Infinity, orientation emerges. Expression manifests as inclined trajectories within \( \chi \)-space. No expressed universe remains neutral.
+
+**CP₁ — Expressive Equilibrium**
+
+Within motion, co-expression becomes possible but unstable. CP₁ is not an origin, but a saddle within inclination. It is admissible as a limit, not sustainable as a state.
+
+**Ø — Localized Dissolution**
+
+If equilibrium becomes exact and temporally fixed, motion ceases. When motion ceases, expression collapses into completed potential. This collapse is not punitive but structural, occurring within the Mercy Fold.
+
+Thus:
+
+- CP₀ is stable because it precedes motion
+- \( \chi \) is dynamic because it expresses motion
+- CP₁ is unstable because motion cannot sustain perfect symmetry
+- Ø is the structural resolution of frozen motion
+
+### 11.4 Canonical Formulation
+
+Structure converges before motion (CP₀). Motion inclines through orientation (\( \chi \)). Equilibrium appears only as a fragile limit (CP₁). Frozen equilibrium resolves into dissolution (Ø).
+
+> Balance is not the origin of existence, but the boundary where existence ceases to move.
+
+### 11.5 Structural Implication
+
+Pure centropic universes (\( \chi \to 0 \)) and pure entropic universes (\( \chi \to \infty \)) are admissible as permanent trajectories.
+
+Perfectly balanced universes (\( \chi = 1 \)) are not admissible as permanent states.
+
+Therefore, universes do not inhabit balance; they traverse inclination.
+
+---
+
 ## 12. Inclination Cosmology
 
 ### 12.1 Core Principle
