@@ -50,7 +50,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ## 1. Introduction
 
-SP01 established the foundational mechanics of Structural Physics: the three poles, the dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Dual Spectrum Lemma governing their mirrored relationship.
+SP01 established the foundational mechanics of Structural Physics: the three poles, the dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Dual Spectrum Lemma governing their reciprocal relationship.
 
 SP02 established the multiversal context: the Tumbling Multiverse, Biospiral expression ratios, and contra-flow dynamics.
 
