@@ -341,7 +341,7 @@ Motive Infinity is:
 - The foundational current of Divine Will as motion, breath, and becoming
 - Proto-soul: an emanative impulse preceding individuated identity
 - The carrier wave of life, purpose, and return
-- Present at all scales of motion from L₀ through embodiment
+- Operative across all scales of motion
 
 ### 7.2 From Stillness to Expression
 
