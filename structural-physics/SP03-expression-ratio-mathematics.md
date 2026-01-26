@@ -412,6 +412,16 @@ From a single activation of Motive Infinity, **all possible orientations** emerg
 
 The Tumble is not random but **structurally necessary** — infinite possibility expressing through infinite orientation.
 
+### 7.4 Orientation Distribution
+
+The \( \chi \)-spectrum defines orientation, not frequency.
+
+For any expressed universe \( U \), \( \chi(U) \) specifies the inclination of motion within the Biospiral lattice, not the probability of \( U \)'s emergence.
+
+Equilibrium states \( (\chi = 1) \) and limit states \( (\chi = 0, \chi \to \infty) \) constitute boundary conditions of expression rather than typical configurations.
+
+Therefore, the set of expressed universes is characterized not by concentration around equilibrium, but by dispersion across biased orientations, in which centropic or entropic motion prevails without resolving into absolute symmetry or absolute singularity.
+
 ---
 
 ## 8. The Contra-Biospiral
