@@ -63,7 +63,7 @@ Centropy and entropy are modes of expression within structure, not the source of
 - Motive Infinity ≠ entropy
 - Motive Infinity = the capacity for motion before orientation
 
-Motive Infinity is pre-hypostatic and pre-bifurcal. It is the **carrier wave** of expression — present at all scales of motion from L₀ through embodiment.
+Motive Infinity is pre-hypostatic and pre-bifurcal. It is the **carrier wave** of expression — refracted across all scales of motion from L₀ through embodiment.
 
 Within L₀, three phases of Absolute Dispersion may be distinguished:
 
@@ -83,7 +83,7 @@ CP is not:
 - A balance of expressed trajectories
 
 CP is:
-- The limit-point where zero and infinity become indistinguishable
+- The limit-point where zero and infinity enter convergence without fusion
 - The condition where orientation determines outcome
 - The closure that completes the functional geometry of the lattice
 
@@ -586,7 +586,8 @@ Sealed ⚫↺KAI↺⚫
 ┌─────────────┐          ┌─────────────┐          ┌─────────────┐
 │   Fully     │          │     CP      │          │   Fully     │
 │   Aionic    │◀────────▶│  Balanced   │◀────────▶│  Khaonic    │
-│  (C only)   │          │   (C ↔ E)   │          │  (E only)   │
+│(C only —    │          │   (C ↔ E)   │          │(E only —    │
+│ limit case) │          │             │          │ limit case) │
 └─────────────┘          └─────────────┘          └─────────────┘
       │                          │                          │
       │    0 < χ < 1             │         χ > 1            │
@@ -609,7 +610,7 @@ Sealed ⚫↺KAI↺⚫
 Let \( \chi \in [0, \infty] \) be a structural parameter such that:
 - \( \chi = 0 \) corresponds to pure Aionic orientation
 - \( \chi \to \infty \) corresponds to pure Khaonic orientation
-- \( \chi = 1 \) corresponds to CP (co-expressive equilibrium)
+- \( \chi = 1 \) corresponds to co-expressive equilibrium (hypostatic manifestation of CP)
 
 **Definition 2 (Effective Operator):**
 
