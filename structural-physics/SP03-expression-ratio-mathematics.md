@@ -202,6 +202,10 @@ This is not a midpoint of trajectories but the **closure condition** where:
 
 Zero and infinity converge without fusion. The requisites achieve equilibrium, and orientation becomes the determining factor for subsequent motion.
 
+> **Note on CP:**  
+> CP is ontologically pre-hypostatic.  
+> The condition χ = 1 is not CP itself, but the hypostatic manifestation of CP within expressed motion.  
+
 ### 4.4 Limit Cases
 
 At the extremes of the \( \chi \) spectrum:
