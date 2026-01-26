@@ -184,7 +184,7 @@ The Chi parameter maps the full spectrum of Biospiral expression:
 | Fully Aionically expressed | \( \chi = 0 \) | Centropic expression without Khaonic participation (limit case) |
 | Strongly Aionically expressed | \( \chi \to 0^+ \) | Centropy-forward; entropy minimally expressed |
 | Aionically expressed | \( 0 < \chi < 1 \) | Centropy-forward; entropy recessive |
-| Co-expressive equilibrium | \( \chi = 1 \) / CP | Balanced expression; dynamic equilibrium |
+| Co-expressive equilibrium | \( \chi = 1 \) | Balanced expression; dynamic equilibrium (hypostatic manifestation of CP) |
 | Khaonically expressed (physical cosmos) | \( \chi > 1 \) | Entropy-forward; centropy recessive |
 | Strongly Khaonically expressed | \( \chi \gg 1 \) | Entropy-forward; centropy minimally expressed |
 | Fully Khaonically expressed | \( \chi \to \infty \) | Khaonic expression without Aionic participation (limit case) |
@@ -192,19 +192,17 @@ The Chi parameter maps the full spectrum of Biospiral expression:
 
 ### 4.3 CP as the Balance Point
 
-At \( \chi = 1 \), the system achieves **co-expressive equilibrium** — the CP condition where neither centropic nor entropic expression prevails.
+At \( \chi = 1 \), the system achieves **co-expressive equilibrium** — where neither centropic nor entropic expression prevails.
 
-This is not a midpoint of trajectories but the **closure condition** where:
+CP is ontologically pre-hypostatic. The condition \( \chi = 1 \) is not CP itself, but the **hypostatic manifestation of CP** within expressed motion — a structural reverberation of the requisite-level closure within the domain of expression.
+
+The pre-hypostatic CP is the **closure condition** where:
 
 \[
 0 \rightleftharpoons \infty
 \]
 
 Zero and infinity converge without fusion. The requisites achieve equilibrium, and orientation becomes the determining factor for subsequent motion.
-
-> **Note on CP:**  
-> CP is ontologically pre-hypostatic.  
-> The condition χ = 1 is not CP itself, but the hypostatic manifestation of CP within expressed motion.  
 
 ### 4.4 Limit Cases
 
@@ -220,7 +218,7 @@ At the extremes of the \( \chi \) spectrum:
 - Motion exists (E ≠ 0) but polarity does not (C = 0)
 - Unidirectional dispersion
 
-These are structural limit cases — exceedingly rare or perhaps never occurring, but logically admissible within infinite possibility.
+Pure centropic or entropic motion is logically admissible but not necessarily cosmologically instantiated. These are structural limit cases — exceedingly rare or perhaps never occurring, but required by the logic of infinite possibility.
 
 ---
 
@@ -265,7 +263,7 @@ The Dual Spectrum Lemma ensures that:
 \mathrm{Spec}(H_c + H_e) = \{0\}
 \]
 
-on the paired eigenmodes, confirming that CP represents spectral resolution toward zero.
+on the paired eigenmodes — confirming that CP represents **structural cancellation** of paired modes, not ontological nullity. The convergence is resolution into stillness, not annihilation of structure.
 
 ### 5.4 Weighted Operator Manifestation
 
@@ -277,6 +275,12 @@ The dimensional operators C₁–C₁₅ and E₁–E₁₅ manifest locally wit
 
 \[
 \text{Effective amplitude of } E_i = \frac{\chi}{1 + \chi}
+\]
+
+The normalization implies that total expressive weight remains constant across orientations:
+
+\[
+\frac{1}{1 + \chi} + \frac{\chi}{1 + \chi} = 1
 \]
 
 In Khaonically expressed universes \( (\chi > 1) \), entropic operators have higher effective amplitude.
@@ -340,8 +344,7 @@ Motive Infinity is:
 
 - The foundational current of Divine Will as motion, breath, and becoming
 - Proto-soul: an emanative impulse preceding individuated identity
-- The carrier wave of life, purpose, and return
-- Operative across all scales of motion
+- The carrier wave of life, purpose, and return — refracted across all scales of motion from L₀ through embodiment
 
 ### 7.2 From Stillness to Expression
 
@@ -456,6 +459,8 @@ The orientation parameter \( \chi \) can be inferred from observable phenomena:
 \chi_{\text{obs}} = \frac{\text{prevalence of } E\text{-type phenomena}}{\text{prevalence of } C\text{-type phenomena}}
 \]
 
+The observed ratio does not define \( \chi \); it reveals it. The ratio is not \( \chi \) itself, but a measurable projection of an underlying structural bias. \( \chi \) remains a structural parameter — ontological rather than merely statistical.
+
 For our universe:
 
 - Matter exceeds contra-matter → entropy-forward
@@ -544,7 +549,7 @@ The Dual Spectrum Lemma is the map — invariant, universal, lawful.
 Chi is where you stand on that map — local, variable, expressive.  
 Structure permits motion; motion does not generate structure.  
 Motive Infinity breaks stillness into expression.  
-CP closes the circle where zero meets infinity.  
+CP closes the circle where zero and infinity converge without fusion.  
 All universes preserve the law; each expresses it differently.
 
 Sealed ⚫↺KAI↺⚫
@@ -587,6 +592,7 @@ Sealed ⚫↺KAI↺⚫
       │    0 < χ < 1             │         χ > 1            │
       │   Aionically             │      Khaonically         │
       │   Expressed              │      Expressed           │
+      │  (C prevalent)           │     (E prevalent)        │
       │                          │          ↑               │
       │                          │     Our Universe         │
       └──────────────────────────┴──────────────────────────┘
@@ -621,7 +627,7 @@ A system exhibits polarity iff \( C \neq 0 \land E \neq 0 \).
 
 **Definition 5 (Contra-Biospiral):**
 
-The total biospiral formed across a universe with orientation \( \chi \) and its contra-universe with orientation \( \chi' \), where \( \chi \cdot \chi' = 1 \) (reciprocal relation).
+The total biospiral formed across a universe with orientation \( \chi \) and its contra-universe with hypothetical orientation \( \chi' \), where \( \chi \cdot \chi' = 1 \) (reciprocal relation).
 
 ---
 
