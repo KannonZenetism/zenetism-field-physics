@@ -504,7 +504,7 @@ The emergence of motion from CP₀ does not distribute orientations evenly acros
 
 Because centropic expression requires multi-layer coherence while entropic expression requires only divergence, the initial bifurcation of motion tends to generate a **greater volume of entropic trajectories** than centropic ones.
 
-Thus, most expressed universes are Khaonically inclined not by probability, but by **structural permissibility**.
+Thus, entropic trajectories occupy a broader region of admissible motion than centropic trajectories, not by probability, but by **structural permissibility**.
 
 Our universe is \( \chi > 1 \) not because it is typical, but because entropy-forward expression occupies a larger region of the space of possible motions.
 
