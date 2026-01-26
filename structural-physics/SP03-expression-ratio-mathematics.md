@@ -407,7 +407,7 @@ From a single activation of Motive Infinity, **all possible orientations** emerg
 
 - Some expressions bias toward \( \chi = 0 \) (Aionic)
 - Some expressions bias toward \( \chi \to \infty \) (Khaonic)
-- Most expressions occupy the intermediate spectrum
+- Most expressions occupy biased regions of the spectrum between centropic and entropic extremes
 - All expressions preserve the Dual Spectrum Lemma as invariant structure
 
 The Tumble is not random but **structurally necessary** — infinite possibility expressing through infinite orientation.
