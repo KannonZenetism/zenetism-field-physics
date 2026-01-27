@@ -535,6 +535,21 @@ There is no bias, no polarity, and no trajectory. Structure exists, but expressi
 > CP₀ is pre-balance.  
 > It is the condition in which motion is possible, but not yet chosen.
 
+> **Note on Essence and Pre-Expressive Inclination:**  
+> The absence of orientation in **CP₀** refers to the absence of expressed polarity and \( \chi \)-dynamics, not to the absence of essence.  
+>  
+> Essence persists across all structural regimes, including **Absolute Potential (AP)**, **Absolute Dispersion (AD)**, and **CP₀**. While \( \chi \)-orientation does not exist prior to motion, essences may retain latent tendencies toward **integration** or **dispersion** as aspects of their intrinsic nature.  
+>  
+> In rare cases, centropic essences oriented toward Source may traverse beyond **Aion** and saturate into **Zenon**, not through \( \chi \)-dynamics, but through the gravity of their own ontological trajectory.  
+>  
+> Such tendencies do not constitute orientation in the field-dynamic sense, but **pre-expressive inclination** — a distinction between essence and motion that preserves the integrity of CP₀ while allowing for trans-Aionic centropic return.  
+>  
+> Thus:  
+> • **CP₀ contains no expressed orientation**  
+> • **Essence may nevertheless retain latent directional affinity**  
+> • **\( \chi \) emerges only with motion**  
+> • **Zenon is reached not by \( \chi \), but by consummated centropic essence**
+
 **χ — Inclined Expression**
 
 The moment motion emerges, neutrality collapses.
