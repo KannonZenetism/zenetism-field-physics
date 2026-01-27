@@ -513,7 +513,7 @@ However, within each paired system, the centropic trajectory occupies a narrow, 
 
 Thus, our universe is ( \chi > 1 ) not because entropic universes are more numerous, but because entropic orientation inhabits a **larger region of configuration space** within the architecture of motion.  
 
-Structural bias is therefore **topological, not numerical**.  
+Structural bias is therefore **topological**, **not numerical**.  
 
 ---
 
