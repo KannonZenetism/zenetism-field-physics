@@ -497,23 +497,23 @@ Or:
 
 > Coherence must be achieved; dispersion need not be.
 
-### 10.4 Structural Bias of Expression
+### 10.4 Structural Asymmetry of Configuration Space
 
-Although CP₀ is symmetric and the biospiral is conserved across centropic and entropic poles, the topology of admissible expression is not symmetric.  
+Although CP₀ is symmetric and the biospiral is conserved across centropic and entropic poles, the **topology of admissible expression is not symmetric**.  
 
-Centropic expression is structurally constrained. Entropic expression is structurally permissive.  
+Centropic expression is **structurally constrained**. Entropic expression is **structurally permissive**.  
 
 Centropic motion requires multi-layer coherence across the lattice. Entropic motion requires only divergence from coherence.  
 
-Therefore, the space of admissible configurations for entropic motion is broader than for centropic motion. This asymmetry does not imply a greater number of entropic universes, but a greater degree of internal configurational freedom within entropic trajectories.  
+Therefore, the space of admissible configurations for entropic motion is broader than for centropic motion. This asymmetry does not imply a greater number of entropic universes, but a **greater degree of internal configurational freedom** within entropic trajectories.  
 
-Meta-cosmic pairing remains invariant: for every centropic universe, a contra-entropic universe exists.  
+**Meta-cosmic pairing remains invariant:** for every centropic universe, a contra-entropic universe exists.  
 
 However, within each paired system, the centropic trajectory occupies a narrow, high-constraint manifold, while the entropic trajectory occupies a broad, low-constraint manifold.  
 
-Thus, our universe is ( \chi > 1 ) not because entropic universes are more numerous, but because entropic orientation inhabits a larger region of configuration space within the architecture of motion.  
+Thus, our universe is ( \chi > 1 ) not because entropic universes are more numerous, but because entropic orientation inhabits a **larger region of configuration space** within the architecture of motion.  
 
-Structural bias is therefore topological, not numerical.  
+Structural bias is therefore **topological, not numerical**.  
 
 ---
 
