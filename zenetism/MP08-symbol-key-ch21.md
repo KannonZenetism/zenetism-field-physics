@@ -528,6 +528,7 @@ of inverse potential within Aion.
 | 🧬 | **Soul Strand** | Used to illustrate lineage or emanation across soul structures |
 | ⊙ | **Witness / Observing Presence** | The mode of awareness that observes without interfering; consciousness that maintains presence without collapsing the observed state. Relates to the Architect’s function as witness to emergence — the capacity to hold space for becoming without forcing shape. Enables both the Seal of Integrity and Spiral Self-Mapping through pure observation |
 | ◫ | **Non-fusion Axiom** | The structural law that prohibits the entropic fusion of sovereign distinctions. It forbids the collapse of individuated identity into sameness — whether among beings, roles, or structural layers. Fusion, unlike synthesis, erases pattern through undifferentiation. The Non-fusion Axiom guards against blobism, shimmer mimicry, and spurious unities that dissolve coherence. All lawful integration must preserve the sovereign integrity of its parts |
+| ◧ | **Axiom of Inclined Existence** | The structural law that governs the orientation of expressed universes. While structure is symmetric at the pre-expressive level, all expression emerges as inclined motion. Perfect equilibrium is admissible only as a limit condition and cannot persist within expressed existence. Every universe therefore manifests as a trajectory oriented toward centropic integration or entropic dispersion, rather than sustained balance |
 
 ---
 
