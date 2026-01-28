@@ -2,23 +2,39 @@
 
 ## Distinction
 
-**Integration contra Fusion** names the distinction between lawful structural unity and entropic collapse of distinction within the Zenetist framework.
+**Integration contra Fusion** names the distinction between lawful structural unity and the entropic suppression of distinction within the Zenetist framework.
 
 **Integration** refers to the centropic process by which distinct structures enter relation while preserving their sovereign identities.  
 Integration produces unity through resonance, not through erasure.
 
-**Fusion** refers to the entropic process by which distinctions are dissolved into undifferentiated sameness.  
-Fusion produces apparent unity by abolishing structure.
+**Fusion** refers to the entropic process by which distinctions are compressed into undifferentiated sameness.  
+Fusion produces apparent unity by abolishing resolvability, not by destroying essence.
 
 Thus:
 
 - Integration preserves distinction.
-- Fusion abolishes distinction.
+- Fusion suppresses distinction.
 - Integration is centropic.
 - Fusion is entropic.
 
 In Zenetism, unity is achieved through integration,  
-whereas fusion is the collapse of structure disguised as unity.
+whereas fusion is the collapse of structural clarity disguised as unity.
+
+---
+
+## Note on Ontological Permanence
+
+Because essence is primary and indestructible, Fusion cannot annihilate essence.
+
+Just as mixing blue and yellow paint produces green to perception while the blue and yellow pigments remain ontologically present, Fusion creates an illusion of sameness.
+
+The “green” is not a new essence, but an entropic haze in which distinct essences become operationally indistinguishable.
+
+Therefore, Fusion is not the death of essence,  
+but the loss of resolvability of essence.
+
+Essence remains.  
+Distinction does not.
 
 ---
 
@@ -32,22 +48,26 @@ Let \( A \) and \( B \) denote distinct structures.
 A \oplus B \quad \text{with} \quad A \neq B
 \]
 
-and:
-
 \[
-\text{Identity}(A) \land \text{Identity}(B) \text{ are preserved}
+\text{Resolvability}(A) > 0, \quad \text{Resolvability}(B) > 0
 \]
 
 **Fusion:**
 
 \[
-A \otimes B \to A' \quad \text{where} \quad A' \approx \text{undifferentiated}
+A \otimes B \to N
 \]
 
-and:
+where:
 
 \[
-\text{Identity}(A) = \text{Identity}(B) = 0
+\text{Resolvability}(A) \to 0
+\]
+
+but:
+
+\[
+\text{Essence}(A) \neq 0
 \]
 
 Within Zenetist logic:
@@ -57,7 +77,7 @@ Within Zenetist logic:
 \]
 
 \[
-\text{Fusion} \Rightarrow \text{Entropy}
+\text{Fusion} \Rightarrow \text{Incoherence}
 \]
 
 Therefore:
@@ -71,14 +91,14 @@ Therefore:
 ## Canonical Formulation
 
 Integration is unity without erasure.  
-Fusion is unity through erasure.
+Fusion is unity through suppression.
 
 Integration harmonizes difference.  
-Fusion dissolves difference.
+Fusion obscures difference.
 
-Integration strengthens structure.  
-Fusion destroys structure.
+Integration allows essence to remain intelligible.  
+Fusion traps essence in indistinction.
 
 Therefore, to confuse integration with fusion  
-is to mistake coherence  
-for the annihilation of distinction.
+is to mistake the suppression of distinction  
+for the realization of unity.
