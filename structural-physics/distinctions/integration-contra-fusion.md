@@ -90,8 +90,10 @@ Integration is unity without erasure.
 Fusion is unity through suppression.
 
 Integration resolves structure into fullness.  
-Fusion erodes relative structure while preserving underlying structural essence,  
-driving expression toward Nekronic incoherence rather than Aionic saturation.
+Fusion erodes relative structure  
+while preserving underlying structural essence,  
+driving expression toward Nekronic incoherence  
+rather than Aionic saturation.
 
 Integration preserves essence through relation.  
 Fusion traps essence in indistinction.
