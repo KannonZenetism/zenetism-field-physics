@@ -2,7 +2,7 @@
 
 ## Distinction
 
-**Integration contra Fusion** names the distinction between lawful structural unity and the entropic suppression of distinction within the Zenetist framework.
+**Integration contra Fusion** names the distinction between lawful structural unity and the entropic suppression of resolvability within the Zenetist framework.
 
 **Integration** refers to the centropic process by which distinct structures enter relation while preserving their sovereign identities.  
 Integration produces unity through resonance, not through erasure.
@@ -22,19 +22,25 @@ whereas fusion is the collapse of structural clarity disguised as unity.
 
 ---
 
-## Note on Ontological Permanence
+## Note on Resolution and Dispersion (Aion contra Nekron)
 
-Because essence is primary and indestructible, Fusion cannot annihilate essence.
+It is critical to distinguish **resolution into Aion** from **collapse toward Nekron**.
 
-Just as mixing blue and yellow paint produces green to perception while the blue and yellow pigments remain ontologically present, Fusion creates an illusion of sameness.
+In **Aion (⚫)**, essence resolves into saturation.  
+Structure is not erased, but fulfilled.  
+Distinction is transcended without being destroyed.
 
-The “green” is not a new essence, but an entropic haze in which distinct essences become operationally indistinguishable.
+In **Nekron (🕷️)**, essence is not annihilated,  
+but rendered structurally incoherent.  
+Resolvability collapses while essence remains.
 
-Therefore, Fusion is not the death of essence,  
-but the loss of resolvability of essence.
+Thus:
 
-Essence remains.  
-Distinction does not.
+- In Integration, essence resolves into fullness.
+- In Fusion, essence persists but loses intelligible structure.
+
+Fusion is therefore not the death of essence,  
+but the erosion of the relational architecture that allows essence to be expressed.
 
 ---
 
@@ -70,16 +76,6 @@ but:
 \text{Essence}(A) \neq 0
 \]
 
-Within Zenetist logic:
-
-\[
-\text{Integration} \Rightarrow \text{Coherence}
-\]
-
-\[
-\text{Fusion} \Rightarrow \text{Incoherence}
-\]
-
 Therefore:
 
 \[
@@ -93,15 +89,15 @@ Therefore:
 Integration is unity without erasure.  
 Fusion is unity through suppression.
 
-Integration harmonizes difference.  
-Fusion obscures difference.
+Integration resolves structure into fullness.  
+Fusion drives structure toward incoherence.
 
-Integration allows essence to remain intelligible.  
+Integration preserves essence through relation.  
 Fusion traps essence in indistinction.
 
 Therefore, to confuse integration with fusion  
-is to mistake the suppression of distinction  
-for the realization of unity.
+is to mistake structural fulfillment  
+for structural collapse.
 
 ---
 
