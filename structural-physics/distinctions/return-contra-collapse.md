@@ -10,8 +10,8 @@
 
 Thus:
 
-- Return preserves structure.
-- Collapse dissolves structure.
+- Return integrates relative structure.
+- Collapse dissolves relative structure.
 - Return is centropic orientation.
 - Collapse is entropic termination.
 
