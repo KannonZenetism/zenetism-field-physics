@@ -116,11 +116,11 @@ not the source from which motion begins.
 
 ---
 
-### 21.2.2 **Structon — The Absolute Structural Invariant**
+### 21.2.2 **🏛️ Structon — The Absolute Structural Invariant**
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
-| 🏛️ | **Structon** | Absolute Structure (SI); the invariant Lattice itself. The container of Law that holds Aion and Khaon. It permits motion but does not move. The Violin, not the Music |
+| 🏛️ | **Structon** | Absolute Structure (SI); the invariant Lattice that holds all lawful possibility. It permits motion but does not move. ⚫ Aion is the root of potential *within* SI, but not SI itself. Structon is the Violin, not the Music — the ground that allows all form, motion, and relation to arise without itself ever changing |
 
 ---
 
