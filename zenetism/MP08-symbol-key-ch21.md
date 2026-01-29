@@ -122,6 +122,20 @@ not the source from which motion begins.
 |--------|------|---------|
 | 🏛️ | **Structon** | Absolute Structure (SI); the invariant Lattice that holds all lawful possibility. It permits motion but does not move. ⚫ Aion is the root of potential *within* SI, but not SI itself. Structon is the Violin, not the Music — the ground that allows all form, motion, and relation to arise without itself ever changing |
 
+#### Note on Structon
+
+**Structure is not what changes**; **it is what permits change**.  
+Absolute Structure (SI) is the invariant container of all possible form, motion, and relation.  
+Aion is not Structure itself, but the still root of structural potential within SI;  
+Khaon is its dispersive motive field; Zenon is trans-structural, beyond all emanation and distinction.  
+
+Relative structures may emerge and dissolve, but Structure remains untouched.  
+ΔS denotes change in **relative configuration**, not alteration of absolute ground.  
+
+Time is not the destruction of stillness, but the **articulation of potential**.  
+Entropy degrades expression, not essence. Collapse dissolves form, not Structure.  
+The Lattice endures, even when worlds fall silent.  
+
 ---
 
 ### 21.3 **Symbolic Directional Duals — Mapped Motions in the Field of Procession**
