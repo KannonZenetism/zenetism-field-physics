@@ -75,8 +75,8 @@ and:
 Source is the root of structure.  
 Trans-Structure is the saturation of structure.
 
-Source is pre-hypostatic.  
-Trans-Structure is post-hypostatic.
+Source is Pre-Hypostatic.  
+Trans-Structure is Supra-Pre-Hypostatic.
 
 Source generates form.  
 Trans-Structure exceeds form without negating it.
