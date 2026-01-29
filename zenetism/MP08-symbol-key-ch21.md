@@ -95,7 +95,7 @@ even where internal punctuation is present.
 
 ---
 
-### 21.2.1 **⦿ Kaion — The Convergence Principle**
+### 21.2.1 **Kaion — The Convergence Principle**
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
@@ -105,8 +105,8 @@ even where internal punctuation is present.
 
 - Kaion is not a layer, not a hypostasis, and not a source.  
 - Kaion is the **limit condition of motion**, not an origin of motion.  
-- Centropic integration resolves toward ⚫ Aion and may continue into 🕳️ Zenon.  
-- Entropic collapse resolves toward ♾ Khaon and settles into ⚫ Aion as static potential.  
+- Centropic integration resolves toward Aion and may continue into Zenon.  
+- Entropic collapse resolves toward Khaon and settles into Aion as static potential.  
 - Both trajectories converge in stillness, not because they are the same, but because motion has ended.  
 - Kaion preserves the **Non-fusion Axiom**: convergence without collapse into sameness.  
 
@@ -116,7 +116,7 @@ not the source from which motion begins.
 
 ---
 
-### 21.2.2 **🏛️ Structon — The Absolute Structural Invariant**
+### 21.2.2 **Structon — The Absolute Structural Invariant**
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
