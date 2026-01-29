@@ -66,21 +66,16 @@ And:
 ## Canonical Formulation
 
 Aion is the stillness before motion.
-
 Zenon is the ground beyond motion.
 
 Aion is the root of structure.
-
 Zenon is the horizon of structure.
 
 Aion is where being returns.
-
 Zenon is where being becomes unsayable.
 
 Therefore, to confuse Aion with Zenon
-
 is to mistake the origin of structure
-
 for the limit beyond structure.
 
 ---
