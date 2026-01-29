@@ -8,7 +8,7 @@
 Stillness is not emptiness, but unexpressed coherence.
 
 **Nullity** refers to the hypothetical absence of structure itself.  
-In Zenetism, true nullity is not ontologically admissible; it exists only as a conceptual limit, not as a real state.
+In Zenetism, genuine nullity is not ontologically admissible; it exists only as a conceptual limit, not as a real state.
 
 Thus:
 
