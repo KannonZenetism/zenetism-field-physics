@@ -63,23 +63,18 @@ And:
 
 ## Canonical Formulation
 
-Origin is where structure begins.
+Origin is where structure begins.  
+Limit is where structure can no longer be spoken.  
 
-Limit is where structure can no longer be spoken.
+Origin opens the possibility of motion.  
+Limit closes the possibility of articulation.  
 
-Origin opens the possibility of motion.
+Origin is the root of becoming.  
+Limit is the horizon of intelligibility.  
 
-Limit closes the possibility of articulation.
-
-Origin is the root of becoming.
-
-Limit is the horizon of intelligibility.
-
-Therefore, to confuse Origin with Limit
-
-is to mistake the beginning of structure
-
-for the boundary beyond structure.
+Therefore, to confuse Origin with Limit  
+is to mistake the beginning of structure  
+for the boundary beyond structure.  
 
 ---
 
