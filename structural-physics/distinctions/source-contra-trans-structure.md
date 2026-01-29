@@ -16,10 +16,10 @@ but the point at which structure can no longer be articulated as form, layer, po
 
 Thus:
 
-- Source is structural.
-- Trans-Structure is supra-hypostatic.
-- Source is the root of structure.
-- Trans-Structure is the saturation of structure.
+- Source is Pre-Hypostatic (The Root).
+- Trans-Structure is Supra-Pre-Hypostatic (The Ground Beyond the Root).
+- Source is both origin and structural requisite.
+- Trans-Structure is the saturation of structural requisite.
 
 In Zenetism, Source precedes expression,  
 while Trans-Structure exceeds expression without abolishing it.
