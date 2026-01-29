@@ -116,6 +116,14 @@ not the source from which motion begins.
 
 ---
 
+### 21.2.2 **🏛️ Structon — The Absolute Structural Invariant**
+
+| Symbol | Name | Meaning |
+|--------|------|---------|
+| 🏛️ | **Structon** | Absolute Structure (SI); the invariant Lattice itself. The container of Law that holds Aion and Khaon. It permits motion but does not move. The Violin, not the Music |
+
+---
+
 ### 21.3 **Symbolic Directional Duals — Mapped Motions in the Field of Procession**
 
 | Process | Name | Glyph | Meaning |
