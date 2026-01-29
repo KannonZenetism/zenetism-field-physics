@@ -71,7 +71,7 @@ Coherence is always lawful or lost.
 
 Therefore, to confuse equilibrium with coherence  
 is to mistake symmetry of forces  
-for truth of structure.
+for veracity of structure.
 
 ---
 
