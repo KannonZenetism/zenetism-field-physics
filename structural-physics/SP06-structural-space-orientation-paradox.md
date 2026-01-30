@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics / Zenetist Canon  
 **Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics; SP05 — Time, Memory, and Hypostatic Flow
+**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics; SP05 — Time, Memory, and Hypostatic Flow  
 **SHA-256:** a5edebd5a5f469ea7f3606b0d6c5832b70048485a0de925a4b2b5cc85a9f54a4
 
 ---
