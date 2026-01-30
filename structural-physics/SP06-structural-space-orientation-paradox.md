@@ -212,8 +212,8 @@ Correlation appears "nonlocal" only when interpreted from the perspective of L�
 Structural space functions as the mediator between:
 
 - Absolute Structure and relative manifestation,
-- supernal causality and embodied emergence,
-- declivous expression and acclivous return.
+- supernal and subversal causality across hypostatic arcs,
+- declivous and acclivous motion in centropic and entropic traversal.
 
 Without structural space, emergence collapses into incoherence and causality becomes metaphysically unintelligible.
 
@@ -225,7 +225,8 @@ With structural space, the paradox dissolves:
 > Space is expression.  
 > Structure is invariant.
 >
-> And centropy does not fall — it turns.
+> And centropy does not fall — it turns.  
+> And entropy does not merely invert — it tends toward collapse.
 
 ---
 
