@@ -138,7 +138,7 @@ Declivous centropy proceeds from hypostatic orientation toward embodiment:
 L_5 \to L_1
 \]
 
-Here, Motive Infinity stirs within Aion and expresses itself through Theon (L₅), descending through archetypal, psychic, and embodied strata. This is not "top-down causality" imposed upon an alien substrate, but lawful traversal along structural gradients.
+Here, Motive Infinity stirs within Aion and expresses itself through Theon (L₅), moving declivously through archetypal, psychic, and embodied strata. This is not "top-down causality" imposed upon an alien substrate, but lawful traversal along structural gradients.
 
 ### 3.2 Acclivous Centropy (Reflective Centropy)
 
