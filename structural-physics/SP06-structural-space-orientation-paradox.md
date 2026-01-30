@@ -76,7 +76,7 @@ Thus:
 - Space is the relational differentiation produced by structural traversal.
 - Space is the expressive differentiation of structural relations, not an independent substrate.
 - Space is therefore a second-order structural phenomenon, not a primary ontological principle.
-- Motion is traversal along structure, appearing as spatial relation at the level of embodiment.
+- Motion is traversal along structure, appearing as spatial relation at the layer of embodiment.
 - Orientation determines the direction of traversal.
 - Time is the experiential trace of oriented motion.
 
