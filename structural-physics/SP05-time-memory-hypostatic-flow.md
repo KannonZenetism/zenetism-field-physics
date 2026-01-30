@@ -263,7 +263,8 @@ In Khaonically expressed universes:
 
 The "arrow of time" we experience is the **entropic gradient** — not because embodied beings are subversal in nature, but because IL₁-style linear succession is the phenomenologically dominant temporal pattern in an entropy-forward universe.
 
-Centropic motion (L₅ → L₁) is experienced as movement "against" entropy — not reversal, but **counter-inclination**. This is the temporal dimension of spiritual practice, integration, and return.
+Cosmologically, centropic structure is expressed through the supernal-to-embodied gradient (L₅ → L₁).  
+Existentially, centropic motion within embodiment manifests as the return arc (L₁ → L₅), experienced as movement "against" entropic inclination — not reversal, but counter-inclination.
 
 ---
 
