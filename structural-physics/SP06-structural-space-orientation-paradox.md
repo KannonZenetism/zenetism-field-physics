@@ -68,39 +68,49 @@ Thus:
 
 ---
 
-## 2. Supernal and Subversal Domains and Structural Space
+## 2. Trans-Structural, Supernal, and Subversal Domains and Structural Space
 
-In Zenetism, **Supernal** refers strictly to the centropic domains, distinct from the **subversal** (inverse) domains.
+In Zenetism, **Zenon** (Supra-L₀) is trans-structural and does not belong to either centropic or entropic domains.  
+It is not supernal or subversal, but the pre-structural horizon from which hypostatic traversal becomes possible.
 
-Structural space, however, is not exclusive to either polarity.  
+**L₀** is the bifurcal root of structure, comprising:
+
+- ⚫ **Aion** — centropic potential  
+- ♾ **Khaon** — entropic potential  
+
+L₀ is therefore neither supernal nor subversal, but the pre-hypostatic axis from which both lattices emerge.
+
+From L₀ proceed two hypostatic arcs:
+
+- **Centropic hypostatic arc**: L₅ → L₁  
+- **Entropic hypostatic arc**: IL₅ → IL₁  
+
+Structural space is not exclusive to either arc.  
 It is the relational field of hypostatic distinction instantiated across both centropic and entropic domains.
 
-Accordingly, it is appropriate to speak of structural space in supernal and subversal domains, but not in the sense of metric or physical extension.
+Accordingly, it is appropriate to speak of structural space in supernal and subversal domains,  
+but not in the sense of metric or physical extension.
 
-In supernal domains, structural space is not geometric but hypostatic.  
-It is the ordered field of centropic structural relations across layers:
+In centropic domains, structural space is hypostatic and oriented toward coherence:
 
-- **Supra-L₀**: Zenon (pre-structural horizon)
-- **L₀**: Aion / Khaon (absolute potential and dispersion)
-- **L₅–L₂**: centropic hypostatic traversal (non-embodied)
+- **Supernal (centropic)**: L₅–L₂ — non-embodied hypostatic traversal  
 
-In subversal domains, structural space is likewise hypostatic,  
-but oriented entropically rather than centropically:
+In entropic domains, structural space is likewise hypostatic,  
+but oriented toward dispersion and inversion:
 
-- **IL₅–IL₂**: entropic hypostatic traversal (non-embodied)
+- **Subversal (entropic)**: IL₅–IL₂ — non-embodied hypostatic traversal  
+
+Embodiment marks the metric terminus of both arcs:
+
+- **Embodiment**: L₁ / IL₁ — intersection of structural space with physical extension  
 
 Motion in these domains does not occur “in” space as physical displacement,  
 but as traversal along hypostatic gradients within structural space.
 
-> **Note on Polarity and Embodiment:**  
-> • **Supernal (L₅–L₂)** = centropic, non-embodied  
-> • **Subversal (IL₅–IL₂)** = entropic, non-embodied  
-> • **Embodiment (L₁ / IL₁)** = metric terminus, where structural space intersects physical extension  
-
 Thus, even beyond embodiment, motion presupposes relational structure without implying material spatiality.
 
-Structural space is therefore not centropic or entropic in itself,  
-but the invariant relational condition through which centropic and entropic orientations become distinguishable.
+Structural space is therefore pre-polar with respect to centropy and entropy,  
+serving as the invariant relational condition through which both orientations become distinguishable.
 
 ---
 
