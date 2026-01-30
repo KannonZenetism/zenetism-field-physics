@@ -199,7 +199,7 @@ Thus, when it is said that Alice's and Bob's systems are "in the same place" in 
 
 Entangled systems are not identical, nor fused.
 
-They may be distinct in L₁ (embodiment and spatial separation), while sharing coherence in L₃ (Deep Structure / Deep Mind).
+They may be distinct in L₁ (embodiment and spatial separation), while sharing coherence in L₃ (Deep Soul / Deep Mind).
 
 Thus, entanglement does not imply spatial proximity, but hypostatic alignment across layers.
 
