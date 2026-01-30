@@ -110,7 +110,11 @@ In Zenetism, orientation is more fundamental than time: time emerges only where 
 
 > Aion contains time as essence;  
 > \( \chi \) shapes it as direction;  
-> traversal manifests it as experience.
+> traversal manifests it as experience.  
+>  
+> No being departs from Aion in an ontological sense;  
+> procession and return name only differential orientation  
+> within an already-integrated totality.
 
 ---
 
