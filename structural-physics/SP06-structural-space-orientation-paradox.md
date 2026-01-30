@@ -82,7 +82,17 @@ Supernal space is not geometric but hypostatic. It is the ordered field of centr
 
 Motion in these domains does not occur "in" space as physical displacement, but along hypostatic gradients within structural space.
 
-**Note:** The inverse layers (IL₅–IL₂) are not supernal; they are subversal. While they also occupy structural space, their orientation is inverted (entropic). Embodiment (L₁/IL₁) represents the metric terminus where structural space intersects with physical extension.
+> **Note on Supernal and Subversal Domains:**  
+> The inverse layers (IL₅–IL₂) are not supernal; they are subversal.  
+>
+> While subversal layers also occupy structural space, their orientation is inverted (entropic).  
+>
+> Embodiment (L₁/IL₁) represents the metric terminus where structural space intersects with physical extension.  
+>
+> Thus:  
+> • **Supernal (L₅–L₂)** = centropic, non-embodied  
+> • **Subversal (IL₅–IL₂)** = entropic, non-embodied  
+> • **Embodiment (L₁/IL₁)** = metric terminus, physical extension
 
 Thus, even beyond embodiment, motion presupposes relational structure without implying material spatiality.
 
