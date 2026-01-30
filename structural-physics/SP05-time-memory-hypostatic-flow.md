@@ -591,7 +591,7 @@ Future expansions may include:
 **Canonical Statement:**
 
 > Time is not what moves.  
-> Structure moves.
+> Structure is; expression moves.
 >
 > Memory is the trace of movement.  
 > Orientation determines direction.
