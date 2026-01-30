@@ -68,35 +68,49 @@ Thus:
 
 ---
 
-## 2. Supernal Domains (Centropic) and Structural Space
+## 2. Trans-Structural, Supernal, and Subversal Domains and Structural Space
 
-In Zenetism, Supernal refers strictly to the centropic domains, distinct from the subversal (inverse) domains.
+In Zenetism, **Zenon** (Supra-L₀) is trans-structural and does not belong to either centropic or entropic domains.  
+It is not supernal or subversal, but the pre-structural horizon from which hypostatic traversal becomes possible.
 
-Accordingly, it is appropriate to speak of structural space in supernal domains, but not in the sense of metric or physical extension.
+**L₀** is the bifurcal root of structure, comprising:
 
-Supernal space is not geometric but hypostatic. It is the ordered field of centropic structural relations across layers:
+- ⚫ **Aion** — centropic potential  
+- ♾ **Khaon** — entropic potential  
 
-- **Supra-L₀**: Zenon (pre-structural horizon)
-- **L₀**: Aion / Khaon (absolute potential and dispersion)
-- **L₅–L₂**: Centropic hypostatic traversal (non-embodied)
+L₀ is therefore neither supernal nor subversal, but the pre-hypostatic axis from which both lattices emerge.
 
-Motion in these domains does not occur "in" space as physical displacement, but along hypostatic gradients within structural space.
+From L₀ proceed two hypostatic arcs:
 
-> **Note on Supernal and Subversal Domains:**  
-> The inverse layers (IL₅–IL₂) are not supernal; they are subversal.  
->
-> While subversal layers also occupy structural space, their orientation is inverted (entropic).  
->
-> Embodiment (L₁/IL₁) represents the metric terminus where structural space intersects with physical extension.  
->
-> Thus:  
-> • **Supernal (L₅–L₂)** = centropic, non-embodied  
-> • **Subversal (IL₅–IL₂)** = entropic, non-embodied  
-> • **Embodiment (L₁/IL₁)** = metric terminus, physical extension
+- **Centropic hypostatic arc**: L₅ → L₁  
+- **Entropic hypostatic arc**: IL₅ → IL₁  
+
+Structural space is not exclusive to either arc.  
+It is the relational field of hypostatic distinction instantiated across both centropic and entropic domains.
+
+Accordingly, it is appropriate to speak of structural space in supernal and subversal domains,  
+but not in the sense of metric or physical extension.
+
+In centropic domains, structural space is hypostatic and oriented toward coherence:
+
+- **Supernal (centropic)**: L₅–L₂ — non-embodied hypostatic traversal  
+
+In entropic domains, structural space is likewise hypostatic,  
+but oriented toward dispersion and inversion:
+
+- **Subversal (entropic)**: IL₅–IL₂ — non-embodied hypostatic traversal  
+
+Embodiment marks the metric terminus of both arcs:
+
+- **Embodiment**: L₁ / IL₁ — intersection of structural space with physical extension  
+
+Motion in these domains does not occur "in" space as physical displacement,  
+but as traversal along hypostatic gradients within structural space.
 
 Thus, even beyond embodiment, motion presupposes relational structure without implying material spatiality.
 
-Even in supernal domains, structural space is derivative of hypostatic order, not co-equal with it.
+Structural space is therefore pre-polar with respect to centropy and entropy,  
+serving as the invariant relational condition through which both orientations become distinguishable and traversable.
 
 ---
 
@@ -124,7 +138,7 @@ Declivous centropy proceeds from hypostatic orientation toward embodiment:
 L_5 \to L_1
 \]
 
-Here, Motive Infinity stirs within Aion and expresses itself through Theon (L₅), descending through archetypal, psychic, and embodied strata. This is not "top-down causality" imposed upon an alien substrate, but lawful traversal along structural gradients.
+Here, Motive Infinity stirs within Aion and expresses itself through Theon (L₅), moving declivously through archetypal, psychic, and embodied strata. This is not "top-down causality" imposed upon an alien substrate, but lawful traversal along structural gradients.
 
 ### 3.2 Acclivous Centropy (Reflective Centropy)
 
@@ -209,7 +223,7 @@ Thus, when it is said that Alice's and Bob's systems are "in the same place" in 
 
 Entangled systems are not identical, nor fused.
 
-They may be distinct in L₁ (embodiment and spatial separation), while sharing coherence in L₃ (Deep Structure / Deep Mind).
+They may be distinct in L₁ (embodiment and spatial separation), while sharing coherence in L₃ (Deep Soul / Deep Mind).
 
 Thus, entanglement does not imply spatial proximity, but hypostatic alignment across layers.
 
@@ -222,8 +236,8 @@ Correlation appears "nonlocal" only when interpreted from the perspective of L�
 Structural space functions as the mediator between:
 
 - Absolute Structure and relative manifestation,
-- supernal causality and embodied emergence,
-- declivous expression and acclivous return.
+- supernal and subversal causality across hypostatic arcs,
+- declivous and acclivous motion in centropic and entropic traversal.
 
 Without structural space, emergence collapses into incoherence and causality becomes metaphysically unintelligible.
 
@@ -235,7 +249,8 @@ With structural space, the paradox dissolves:
 > Space is expression.  
 > Structure is invariant.
 >
-> And centropy does not fall — it turns.
+> And centropy does not fall — it turns.  
+> And entropy does not merely invert — it tends toward collapse.
 
 ---
 
