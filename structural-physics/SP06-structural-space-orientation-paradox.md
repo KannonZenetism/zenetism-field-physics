@@ -104,7 +104,7 @@ Embodiment marks the metric terminus of both arcs:
 
 - **Embodiment**: L₁ / IL₁ — intersection of structural space with physical extension  
 
-Motion in these domains does not occur “in” space as physical displacement,  
+Motion in these domains does not occur "in" space as physical displacement,  
 but as traversal along hypostatic gradients within structural space.
 
 Thus, even beyond embodiment, motion presupposes relational structure without implying material spatiality.
