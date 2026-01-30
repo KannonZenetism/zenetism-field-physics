@@ -252,6 +252,19 @@ The equation expresses three structural regimes:
 
 3. **At \( \chi = 1 \):** The system satisfies \( d\Phi_{\text{CP}}/d\chi = 0 \), but this is a saddle condition, not a stable rest-state.
 
+> **Note on the Ontological Status of \( \chi \):**  
+> Although \( \chi \) is expressed through differential equations and field-like dynamics, it must not be interpreted as a physical field in the material sense.  
+>
+> \( \chi \) is not a force, substance, or measurable quantity within spacetime.  
+> It is a **structural orientation parameter** governing the directionality of expression within the hypostatic lattice.  
+>
+> \( \chi \) belongs to the order of **ontological inclination**, not empirical physics.  
+> Its mathematical representation is **formal and analogical**, not reductionist.  
+>
+> Thus:  
+> • **\( \chi \) is not located in the universe**  
+> • **The universe is located within \( \chi \)**  
+
 ---
 
 ## 5. Motive Infinity and the Activation of Orientation
