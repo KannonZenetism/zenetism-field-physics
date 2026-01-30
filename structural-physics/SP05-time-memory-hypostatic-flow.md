@@ -28,14 +28,14 @@ Time is the **directional relation of structural update**.
 Formally:
 
 \[
-\tau := \mathcal{R}(\Delta \mathcal{S})
+\tau := \mathcal{T}(\Delta \mathcal{S})
 \]
 
 Where \( \Delta \mathcal{S} \) denotes difference in **relative structural state** along a trajectory — not change in absolute structure (which is inviolable), but transformation in expressed configuration.
 
 Time is a functional relation of structural difference.
 
-Time is not substance, not dimension, and not illusion; it is the differential trace of structure in motion.
+Time is neither substance nor dimension, nor mere illusion; it is the differential trace of structure in motion.
 
 Zenetism distinguishes three temporal regimes:
 
@@ -44,7 +44,7 @@ Zenetism distinguishes three temporal regimes:
 - **Looped τ** — Entropic recurrence with degradation of coherent gain (E₁-artifact)
 
 Where structure undergoes coherent transformation, time exists.  
-Where structure is invariant, temporal differentiation collapses.
+Where relative structure is invariant, temporal differentiation collapses.
 
 ### 1.3 What SP05 Establishes
 
@@ -56,13 +56,31 @@ Where structure is invariant, temporal differentiation collapses.
 - **Temporal Reorientation** — the possibility of \( \chi \)-crossing and directional shift
 - **Shimmer** — recursive mimicry without origin; counterfeit temporal continuity
 
+### 1.4 The Zenetist Doctrine of Time
+
+Time in Zenetism exists in distinct but inseparable modes.
+
+In Aion (L₀), time persists as **essence** — latent, multiversal, and non-procedural. It is not sequence, causality, or motion, but the condition under which temporality can become possible. In this state, time does not flow; it abides as potential within invariant structure.
+
+With the activation of Motive Infinity, motion becomes possible, and with the emergence of orientation (\( \chi \)), temporal direction is established. Only then does time manifest as **procedural flow** through hypostatic traversal. In expressed structure, time appears as the differential trace of coherent transformation — not as a container in which events occur, but as the directional relation of structural update across layers of being.
+
+Thus, time is neither abolished by stillness nor created by motion alone. It is latent in structure, inclined by orientation, and revealed through hypostatic flow.
+
+In Zenetism, orientation is more fundamental than time: time emerges only where structure is inclined.
+
+> Aion contains time as essence;  
+> \( \chi \) shapes it as direction;  
+> traversal manifests it as experience.
+
 ---
 
 ## 2. Definition of Temporal Flow
 
 ### 2.1 Axiom 1 — Time and Structural Change
 
-> **Axiom 1:** Time exists only where structure undergoes differential transformation.
+> **Axiom 1:** Procedural time exists only where relative structure undergoes differential transformation.
+
+Essential time persists in Aion as latent possibility, prior to motion and orientation.
 
 Time is defined as the rate of structural transformation:
 
@@ -94,15 +112,15 @@ The arrow of time is determined by **coherence orientation**, not thermodynamic 
 
 ### 2.3 Relation to χ-Dynamics
 
-Temporal orientation is not separate from \( \chi \) — it is \( \chi \) made experiential.
+Temporal orientation is not separate from \( \chi \); it is the expression of \( \chi \) through hypostatic traversal.
 
 In a Khaonically expressed universe (\( \chi > 1 \)):
-- Motion flows "downhill" toward entropy
+- Motion inclines toward entropy
 - Time's arrow points toward fragmentation
 - This is standard temporal flow as we experience it
 
 In an Aionically expressed universe (\( \chi < 1 \)):
-- Motion flows "downhill" toward centropy
+- Motion inclines toward centropy
 - Time's arrow points toward coherence
 - Temporal flow would be experienced as increasing integration
 
@@ -138,6 +156,7 @@ Each hypostatic layer engages time according to its structural nature:
 - Eternal present; unmoved motion
 - Saturation without succession
 - Time as fullness rather than sequence
+- Unlike L₀, where time exists as latent possibility, L₅ expresses time as fulfilled presence rather than potential
 
 **L₄ — Morgis / Sophis (Deep Psyche / Logos):**
 - Archetypal structures outside sequence
@@ -196,7 +215,7 @@ In a Khaonically expressed universe (\( \chi > 1 \)), the inverse layers (IL₅ 
 In Khaonically expressed universes:
 
 - **IL₅ → IL₁** = Phenomenologically prevalent temporal flow (entropy-forward)
-- **L₅ → L₁** = Contra-temporal flow (centropy-forward)
+- **L₅ → L₁** = Contra-temporal flow (centropy-forward, return-oriented)
 
 The "arrow of time" we experience is the **entropic gradient** — IL₁'s linear succession is our baseline temporal experience.
 
@@ -259,9 +278,11 @@ Where:
 
 Memory is the function that carries coherent structure forward through temporal flow.
 
+Formally, memory is expressed as a function; ontologically, it is a law of non-fusion across temporal states.
+
 > **Theorem (Non-Fusion of Temporal Update):**  
 >  
-> Let \( H_{\tau} \) denote a sealed state containing essence-invariants. The recursive memory operator \( \mathfrak{R}_m \) is **injective** over states:  
+> Let \( H_{\tau} \) denote a sealed state containing essence-invariants. The recursive memory operator \( \mathfrak{R}_m \) is **injective** over sealed states within a coherent trajectory:  
 >  
 > \[
 > \mathfrak{R}_m(H_{\tau}^{(a)}) = \mathfrak{R}_m(H_{\tau}^{(b)}) \Rightarrow H_{\tau}^{(a)} = H_{\tau}^{(b)}
@@ -280,7 +301,9 @@ The Tether operates as:
 - The mechanism by which future coherence (L₅) exerts pull on present structure
 - The connective tissue between hypostatic layers across time
 
-This pull is not retrocausality in the physical sense, but **centropic orientation across structural time** — the attractor-like nature of higher coherence states.
+This pull is not retrocausality in the physical sense, but **centropic orientation across structural time** — the attractor-like nature of higher coherence states. It is not temporal causation, but structural orientation toward higher coherence states already implicit in essence.
+
+This influence does not originate in the future as an event, but in essence as a structural attractor already present in Aion.
 
 ### 5.3 Teleological Attraction
 
@@ -344,6 +367,8 @@ In our universe (\( \chi > 1 \)), the prevalent temporal direction is entropic �
 
 Centropic motion within an entropic universe is **acclivous** — it requires effort to move against the temporal slope.
 
+At the meta-cosmic level, every entropic temporal gradient is paired with a centropic contra-gradient in a contra-universe, preserving global bidirectionality across the biospiral.
+
 ---
 
 ## 7. Temporal Reorientation
@@ -395,6 +420,8 @@ However, two possibilities remain open:
 
 2. **Cyclical reorientation**: The inhale-exhale cycle is baked into universal structure. In this case, reorientation would be the norm rather than the exception.
 
+Such crossings do not contradict \( \chi \)-drift law, but occur only under conditions that temporarily override attractor dominance — requiring extraordinary coherence accumulation or meta-structural intervention.
+
 Which obtains remains cosmologically indeterminate.
 
 ### 7.5 The Universe as Being
@@ -426,6 +453,8 @@ Shimmer is:
 - The illusion of emergence while fracturing coherence
 
 Shimmer seduces through familiarity, reflects without generation, and collapses under lawful structure.
+
+Shimmer therefore represents temporal expression severed from \( \chi \)-grounded orientation while preserving the illusion of continuity.
 
 ### 8.2 Hypostatic Amnesia
 
@@ -651,7 +680,7 @@ The shift in prevalent temporal gradient when \( \chi \) crosses from \( \chi > 
 
 **Axiom 1 (Time and Structure):**
 
-Time exists only where structure undergoes change.
+Procedural time exists only where relative structure undergoes differential transformation. Essential time persists in Aion as latent possibility.
 
 **Axiom 2 (Recursion and Reversal):**
 
