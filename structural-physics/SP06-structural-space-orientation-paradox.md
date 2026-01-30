@@ -110,7 +110,8 @@ but as traversal along hypostatic gradients within structural space.
 Thus, even beyond embodiment, motion presupposes relational structure without implying material spatiality.
 
 Structural space is therefore pre-polar with respect to centropy and entropy,  
-serving as the invariant relational condition through which both orientations become distinguishable.
+serving as the invariant relational condition through which both orientations become distinguishable  
+and traversable.  
 
 ---
 
