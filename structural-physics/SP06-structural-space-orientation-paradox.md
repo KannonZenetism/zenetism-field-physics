@@ -111,7 +111,7 @@ Thus:
 ## 2. Trans-Structural, Supernal, and Subversal Domains and Structural Space
 
 In Zenetism, **Zenon** (Supra-L₀) is trans-structural and does not belong to either centropic or entropic domains.  
-It is not supernal or subversal, but the pre-structural horizon from which hypostatic traversal becomes possible.
+It is not supernal or subversal, but the trans-structural horizon from which hypostatic traversal becomes possible.
 
 **L₀** is the bifurcal root of structure, comprising:
 
