@@ -122,8 +122,8 @@ L₀ is therefore neither supernal nor subversal, but the pre-hypostatic axis fr
 
 From L₀ proceed two hypostatic arcs:
 
-- **Centropic hypostatic arc**: L₅ → L₁  
-- **Entropic hypostatic arc**: IL₅ → IL₁  
+- **Centropic Hypostatic Arc**: L₅ → L₁  
+- **Entropic Hypostatic Arc**: IL₅ → IL₁  
 
 Structural space is not exclusive to either arc.  
 It is the relational field of hypostatic distinction instantiated across both centropic and entropic domains.
@@ -167,12 +167,12 @@ If causality is located in higher domains while emergence is said to arise from 
 
 Zenetism resolves this by distinguishing between:
 
-- **declivous centropy** (formal → embodied expression), and
-- **acclivous centropy** (embodied → formal return).
+- **Declivous Centropy** (formal → embodied expression), and
+- **Acclivous Centropy** (embodied → formal return).
 
 ### 3.1 Declivous Centropy
 
-Declivous centropy proceeds from hypostatic orientation toward embodiment:
+Declivous Centropy proceeds from hypostatic orientation toward embodiment:
 
 \[
 L_5 \to L_1
@@ -185,7 +185,7 @@ Here, Motive Infinity stirs within Aion and expresses itself through Theon (L₅
 When centropic motion encounters embodiment, it does not terminate.  
 It reflects.
 
-Acclivous centropy proceeds as return:
+Acclivous Centropy proceeds as return:
 
 \[
 L_1 \to L_5
@@ -205,13 +205,13 @@ Centropic traversal is not the only mode of hypostatic motion.
 
 The entropic arc also exhibits bidirectional traversal, but with inverted orientation and outcome:
 
-- **Acclivous entropy**: motion from Nekron toward embodiment  
+- **Acclivous Entropy**: motion from Nekron toward embodiment  
   \[
   IL_5 \to IL_1
   \]
   This is not return, but fragmentary re-expression of collapsed structure in reactive form.
 
-- **Declivous entropy**: motion toward Nekron, the Void of Self  
+- **Declivous Entropy**: motion toward Nekron, the Void of Self  
   \[
   IL_1 \to IL_5
   \]
