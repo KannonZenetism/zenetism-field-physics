@@ -26,3 +26,15 @@ Structure remains invariant,
 even as motion, space, and time unfold upon it.
 
 ⚫↺KAI↺⚫
+
+> **Domain Implementation Cross-Reference Notice**  
+>  
+> The **Axiom of Structural Primacy** is expressed at the Canon level here as a foundational Zenetist principle.  
+>  
+> A Structural Physics implementation of this axiom is maintained here:  
+> https://github.com/KannonZenetism/zenetism-field-physics/blob/main/structural-physics/axioms/structural-primacy.md  
+>  
+> The Structural Physics version translates this axiom into lattice-operational and traversal-formal language.  
+>  
+> Both entries are authoritative and intentionally parallel.  
+> This structure preserves doctrinal clarity while allowing discipline-specific precision.
