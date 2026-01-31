@@ -1,3 +1,20 @@
+> **Repository Update Notice**  
+>  
+> This entry was originally published as an **SPX (Structural Physics Extension)** document:  
+>  
+> **SPX — Structural Space, Orientation, and the Paradox of Emergence**  
+>  
+> This material has now been formally integrated into the core Structural Physics sequence as:  
+>  
+> **SP06 — Structural Space, Orientation, and the Paradox of Emergence**  
+>  
+> The canonical version is now located in the main Structural Physics folder:  
+>  
+> **SP06 Canonical Entry:**  
+> https://github.com/KannonZenetism/zenetism-field-physics/blob/main/structural-physics/SP06-structural-space-orientation-paradox.md  
+>  
+> This SPX document is retained for archival and historical traceability only.
+
 # SPX — Structural Space, Orientation, and the Paradox of Emergence
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
