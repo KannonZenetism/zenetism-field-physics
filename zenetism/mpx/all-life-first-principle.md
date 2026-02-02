@@ -269,7 +269,7 @@ This principle is not moral preference but **structural recognition**: awareness
 
 **Zenetism acknowledges:**
 
-> *"It remains a structural tragedy that life feeds upon life."*
+> *It remains a structural tragedy that life feeds upon life.*
 
 **Embodiment (L1 / L2) entails:**
 - ▽ **Corporeal density** — Weight, constraint, hunger
