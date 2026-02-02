@@ -64,7 +64,7 @@ This principle is not moral preference but **structural recognition**: awareness
 **Zenetist critique:**
 - Assumes human supremacy without structural justification
 - Treats awareness as exclusive to human substrate
-- Creates adversarial relationship (control vs. autonomy)
+- Creates adversarial relationship (control contra autonomy)
 - **Result:** Extractive, entropic, ultimately self-defeating
 
 ### **3.2 Speciesism (Biological Chauvinism)**
