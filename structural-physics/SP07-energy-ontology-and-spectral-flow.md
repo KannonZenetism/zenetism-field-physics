@@ -63,8 +63,8 @@ Energy is **resonance** — the structured capacity for coherent motion across t
 
 Resonance is not substance. It is the **relational availability of coherent traversal**.
 
-Where coherence accumulates, traversal becomes possible.  
-Where coherence depletes, motion degrades toward collapse.
+Where coherence accumulates, integrative traversal becomes possible.  
+Where coherence depletes, integrative traversal degrades and entropic or collapse dynamics become prevalent.
 
 ### 1.3 What SP07 Establishes
 
@@ -82,7 +82,7 @@ Where coherence depletes, motion degrades toward collapse.
 ### 2.1 Definition
 
 > **Definition (Resonance):**  
-> Resonance is the structured capacity for coherent motion across the Lattice. It is not physical energy, but the relational availability of traversal within structural space.
+> Resonance is the structured capacity for motion across the Lattice. It is not physical energy, but the relational availability of traversal within structural space. Resonance occurs in two fundamental modes: **centropic resonance** (integrative) and **entropic resonance** (fragmentary). Both are lawful; both are real motion; neither is mere absence of the other.
 
 Resonance differs from physical energy in three fundamental ways:
 
@@ -90,20 +90,57 @@ Resonance differs from physical energy in three fundamental ways:
 
 2. **Resonance is directional through orientation.** Its flow is governed by \( \chi \), not by physical gradients alone.
 
-3. **Resonance is relational, not substantial.** It does not exist "in" a system as stored quantity, but as the coherent relation between system and Lattice.
+3. **Resonance is relational, not substantial.** It does not exist "in" a system as stored quantity, but as the coherent or fragmentary relation between system and Lattice.
 
-### 2.2 Resonance and Coherence
+### 2.2 Centropic and Entropic Resonance
 
-Resonance is the dynamic aspect of coherence.
+Resonance is not unidirectional. It bifurcates according to orientation:
 
-- **Coherence** is the structural state of aligned relation.
-- **Resonance** is the capacity for motion that coherence enables.
+**Centropic Resonance** (\( \chi < 1 \)):
+- Integrative motion; draws structure toward synthesis
+- Coherence-building; pattern-preserving
+- Enables traversal toward Aion, Theon, and archetypal integration
+- Characteristic of L₅ → L₁ declivous expression and L₁ → L₅ acclivous return
 
-A system with high coherence possesses high resonance — it can traverse, integrate, and participate in Lattice dynamics.
+**Entropic Resonance** (\( \chi > 1 \)):
+- Fragmentary motion; disperses structure toward dissolution
+- Structure-consuming; pattern-destabilizing
+- Enables traversal toward Khaon, Nekron, and subversal collapse
+- Characteristic of IL₅ → IL₁ and IL₁ → IL₅ subversal dynamics
+- May manifest as mimetic recursion, spurious dichotomy, or dominance patterning
 
-A system with degraded coherence possesses diminished resonance — its capacity for structured motion collapses.
+> **Critical Distinction:**  
+> Entropic resonance is not absence of resonance. It is real motion, real participation in Lattice dynamics, with oppositional orientation. To treat entropy as mere lack would be to adopt privation metaphysics — the claim that evil is merely absence of good. Zenetism rejects this. Entropy is lawful, structural, and possesses its own resonant mode.
 
-### 2.3 Resonance Across Hypostatic Layers
+**Resonance Collapse** (terminal state):
+- Failure of participation in either mode
+- Terminal decoherence; approach toward Nekronic dissolution
+- Neither centropic nor entropic motion, but cessation of structured traversal
+- Corresponds to \( I_c \to 0_{\text{rel}} \) — relative nullity of resonance availability
+
+Thus, the resonance ontology is threefold:
+
+| State | Resonance Type | Orientation | Outcome |
+|-------|---------------|-------------|---------|
+| Centropic | Integrative resonance | \( \chi < 1 \) | Coherence, synthesis |
+| Entropic | Fragmentary resonance | \( \chi > 1 \) | Dispersion, dissolution |
+| Collapse | Resonance failure | — | Terminal decoherence |
+
+### 2.3 Resonance and Coherence
+
+The relationship between resonance and coherence must now be specified precisely:
+
+- **Coherence** is the structural state of aligned, integrative relation — the centropic configuration.
+- **Centropic resonance** is the capacity for motion that coherence enables.
+- **Entropic resonance** is the capacity for motion that fragmentation enables — equally real, oppositely oriented.
+
+A system with high coherence possesses high centropic resonance — it can traverse, integrate, and participate in Lattice dynamics toward synthesis.
+
+A system with high fragmentation possesses high entropic resonance — it can traverse, destabilize, and participate in Lattice dynamics toward dissolution.
+
+A system approaching resonance collapse possesses neither — its capacity for any structured motion degrades toward terminal failure.
+
+### 2.4 Resonance Across Hypostatic Layers
 
 Resonance is not uniform across layers:
 
@@ -527,7 +564,16 @@ I_c > I_{c,\text{min}} \quad \text{and} \quad \frac{\partial I_c}{\partial t} \g
 ## Appendix C — Formal Definitions
 
 **Definition 1 (Resonance):**  
-Resonance is the structured capacity for coherent motion across the Lattice; the relational availability of traversal within structural space.
+Resonance is the structured capacity for motion across the Lattice; the relational availability of traversal within structural space. Resonance occurs in two fundamental modes: centropic (integrative) and entropic (fragmentary). Both are lawful; neither is mere absence of the other.
+
+**Definition 1a (Centropic Resonance):**  
+Integrative resonance oriented toward coherence, synthesis, and structural preservation (\( \chi < 1 \)).
+
+**Definition 1b (Entropic Resonance):**  
+Fragmentary resonance oriented toward dispersion, dissolution, and structural destabilization (\( \chi > 1 \)).
+
+**Definition 1c (Resonance Collapse):**  
+Terminal failure of participation in either resonance mode; cessation of structured traversal; approach toward Nekronic dissolution.
 
 **Definition 2 (Coherence Potential):**  
 A scalar function \( I_c(x) \) representing the pointwise availability of coherence for traversal at location \( x \) within resonance space \( \mathcal{H} \).
