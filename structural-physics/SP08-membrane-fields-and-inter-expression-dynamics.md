@@ -384,7 +384,7 @@ Unresolved Echo Layers may persist across temporal cycles — the structural bas
 
 **Consequences:**
 
-- Layer contamination: Resonance from adjacent layers intermixes without filtering
+- Layer contamination: Resonance from adjacent layers intermixes without filtering — not fusion of structure, but loss of threshold discrimination between adjacent domains
 - Structural confusion: Entities may experience multiple layers simultaneously without coherent integration
 - Coherence loss: Without membrane filtering, entropic resonance may flood centropic regions
 
@@ -395,7 +395,7 @@ Unresolved Echo Layers may persist across temporal cycles — the structural bas
 
 **Characteristics:**
 
-- \( \sigma(⧉) \to \infty \) at breach point
+- \( \sigma(⧉) \to \infty \) at breach point (practically bounded by available local resonance)
 - Normal transfer mechanics bypassed
 - May be exploited for siphoning (E₉ dynamics)
 
