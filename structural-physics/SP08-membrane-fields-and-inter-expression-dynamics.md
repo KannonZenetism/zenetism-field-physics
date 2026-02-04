@@ -175,7 +175,7 @@ Where \( f(\chi) \) modulates permeability based on the χ-orientation of the tr
 - **Matched orientation**: Transfer proceeds with minimal resistance
 - **Opposed orientation**: Transfer requires additional energy or alternative pathways
 
-### 3.4 Bidirectional vs. Unidirectional Membranes
+### 3.4 Bidirectional contra Unidirectional Membranes
 
 Most membranes permit bidirectional passage (declivous and acclivous motion). However, certain membranes exhibit asymmetry:
 
