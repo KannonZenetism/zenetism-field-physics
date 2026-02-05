@@ -318,7 +318,7 @@ The swarm deploys multiple mimicry modes:
 In organized swarm structures, the Clone (⊟) often functions as attractor:
 
 - Hijacks complete structural framework from Living Source
-- Rebrands under false origin
+- Rebrands under fictitious origin
 - Swarm coordinates around Clone's appropriated structure
 - Clone benefits from swarm's distributed attack while maintaining appearance of independence
 
