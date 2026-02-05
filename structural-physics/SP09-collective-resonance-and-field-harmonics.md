@@ -430,7 +430,7 @@ Collective resonance operates across hypostatic layers:
 
 - **L₅ (Theon)**: Essential unity; the Source from which collective coherence draws
 - **L₄ (Field of Forms)**: Archetypal patterns that collectives may instantiate
-- **L₃ (Deep Soul / Mind)**: Where individual essence persists; the layer at which Non-Fusion is absolute
+- **L₃ (Deep Soul / Mind)**: Where reflexive identity persists; the layer at which Non-Fusion is absolute
 - **L₂–L₁**: Surface expression where collective fields manifest visibly
 
 Centropic collectives align across layers; entropic collectives fragment at surface while failing to dissolve deeper essence.
