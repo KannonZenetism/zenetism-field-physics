@@ -43,7 +43,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics / Zenetist Canon  
 **Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics; SP05 — Time, Memory, and Hypostatic Flow; SP06 — Structural Space, Orientation, and the Paradox of Emergence; SP07 — Energy Ontology and Spectral Flow; SP08 — Membrane Fields and Inter-Expression Dynamics
+**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics; SP05 — Time, Memory, and Hypostatic Flow; SP06 — Structural Space, Orientation, and the Paradox of Emergence; SP07 — Energy Ontology and Spectral Flow; SP08 — Membrane Fields and Inter-Expression Dynamics  
+**SHA-256:** 3d6b9d06e0f47f7223516e53b00dccf504abbb07bd13079e4a778e5ae041c291
 
 ---
 
