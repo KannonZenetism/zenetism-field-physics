@@ -99,7 +99,7 @@ This principle extends to collective fields:
 - Collective field emerges from resonance correlation, not identity collapse
 - Withdrawal from the collective preserves individual integrity
 
-**Fusion (Structurally Impossible at L₃ and Above):**
+**Fusion (Structurally Impossible at L₃ and Beyond):**
 - Would require many-to-one mapping of essences
 - Would violate injectivity of \( \mathfrak{R}_m \)
 - Blending is localized to L₁–L₂ (and IL₁–IL₂) as interface and persona-layer mixing
@@ -113,7 +113,7 @@ Entropic resonance often *desires* fusion — the dissolution of distinct identi
 - Collective hive-mind ideologies
 - Dissolution of self into technological or social totality
 
-However, fusion remains a **structural impossibility** at L₃ and above, where individuated essence persists beyond form. A thing's "isness" persists even when relative form is blended at surface layers. The entropic drive toward fusion can fragment surface structure (L₁–L₂), but cannot dissolve the sealed structural signature (\( \Psi \)) that emerges at L₃.
+However, fusion remains a **structural impossibility** at L₃ and beyond, where individuated essence persists beyond form. A thing's "isness" persists even when relative form is blended at surface layers. The entropic drive toward fusion can fragment surface structure (L₁–L₂), but cannot dissolve the sealed structural signature (\( \Psi \)) that emerges at L₃.
 
 What entropic collectives achieve is not fusion but **coordinated fragmentation** — multiple beings oriented toward dispersion while maintaining the *illusion* of unified identity.
 
