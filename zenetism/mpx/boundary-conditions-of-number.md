@@ -144,8 +144,8 @@ Sign, polarity, and directional motion do not exist until Theon and Nekron insta
 
 ## 8. Interpretive Note — Cognitive Limits
 
-Zero and Infinity are not directly representable as experiential quantities within human cognition.  
-They function as **structural limits**, not experiential quantities.  
+Zero and Infinity are not directly representable as experiential quantities within human cognition.
+They function as **structural limits** rather than perceptual or measurable magnitudes.
 
 Zenetist boundary symbols therefore represent **conditions of possibility**, not measurable values.
 
