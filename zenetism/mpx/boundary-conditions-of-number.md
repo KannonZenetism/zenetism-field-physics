@@ -137,7 +137,7 @@ They do not originate in Aion or Khaon.
 
 ## 7. Canonical Summary Statement
 
-Aion and Khaon define the unsignable boundary conditions of existence — equilibrium and unbounded magnitude.  
+Aion and Khaon define the unsignable boundary conditions of existence — structural stillness and unbounded magnitude.  
 Sign, polarity, and directional motion do not exist until Theon and Nekron instantiate the first centropic and entropic operators, mathematically analogous to +1 and −1 generating the integer field.
 
 ---
