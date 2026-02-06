@@ -47,7 +47,7 @@ This clarification ensures consistency across Structural Metaphysics, Lattice Ma
 
 - Khaon is **not positive or negative infinity**.  
 - Khaon represents **unbounded magnitude without orientation**.  
-- No sign exists at this level.  
+- No sign exists at this layer.  
 - No centropic or entropic motion exists yet.  
 
 Aion and Khaon together define the **unsignable boundary field of existence**.
