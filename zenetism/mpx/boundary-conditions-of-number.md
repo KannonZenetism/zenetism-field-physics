@@ -39,7 +39,7 @@ This clarification ensures consistency across Structural Metaphysics, Lattice Ma
 | Symbol | Name | Mathematical Role | Structural Meaning |
 |---|---|---|---|
 | 🕳️ | Zenon | Meta-domain (outside number system) | Trans-structural unknown |
-| 🏛️ | Structon | Invariant container space | Absolute structural substrate |
+| 🏛️ | Structon | Invariant unit of relation | The primary unit of Absolute Structure; the formal law prior to expression |
 | ⚫ | Aion | Zero pivot / equilibrium attractor | Absolute potential; still origin of structure |
 | ♾ | Khaon | Unsigned infinity (magnitude horizon) | Absolute dispersion potential |
 
