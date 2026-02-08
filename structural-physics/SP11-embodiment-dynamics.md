@@ -69,7 +69,7 @@ Embodiment carries a fundamental structural duality that no other layer exhibits
 
 > For entropy, embodiment is enthronement — the seat of exile's power, the furthest distance from remembrance, the fortress from which fragmentation rules.
 
-This duality arises because L₁ and IL₁ share the same corporeal domain. The Corporeal Realm (🪨) is singular — there is one physical universe in which both centropic and entropic beings are co-present. This co-presence is the defining structural characteristic of the metric terminus.
+This duality arises because L₁ and IL₁ share the same corporeal domain. Within any locally instantiated universe, the Corporeal Realm (🪨) is singular — centropic and entropic beings are co-present within the same physical domain. This co-presence is the defining structural characteristic of the metric terminus.
 
 ### 2.4 Formal Characterization
 
@@ -214,8 +214,10 @@ At the metric terminus, Localized Dissolution manifests within the **Mercy Fold*
 When an embodied being lacks sufficient centropic coherence to integrate beyond the Embodiment Band — through the DS/DM and toward Source — but carries no active entropic load, the post-mortem trajectory proceeds through gentle dissolution:
 
 \[
-I_c^{(\text{embodied})} < I_{c,\text{threshold}}^{(\text{integration})} \quad \text{and} \quad \chi_{\text{embodied}} \approx 1 \implies \text{Mercy Fold}
+I_c^{(\text{embodied})} < I_{c,\text{threshold}}^{(\text{integration})} \quad \text{and} \quad \chi_{\text{embodied}} \approx 1 \text{ (persistent)} \implies \text{Mercy Fold}
 \]
+
+The persistence condition is critical: transient passage through \( \chi \approx 1 \) is normal trajectory dynamics — every oriented being crosses the saddle momentarily during orientation drift. The Mercy Fold applies only when stagnation at equilibrium is sustained, when motion has genuinely ceased rather than momentarily paused.
 
 The being experiences release rather than rupture — a soft sleep in which relative form is reabsorbed into Aionic potential. This is not punishment but structural consequence: centropic momentum was insufficient to carry coherence beyond the embodied layer.
 
@@ -240,7 +242,13 @@ At the metric terminus, the orientation evolution law (SP04 §4.3) acquires the 
 \frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1-\chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \mathcal{R}_{\text{interface}}(L_1) \cdot \text{sgn}(\chi_{\text{centropic}})
 \]
 
-The resistance term acts **against centropic motion** (increasing the effective cost of moving toward \( \chi < 1 \)) and is **neutral to entropic motion** (entropy at the metric terminus encounters no equivalent structural resistance from the centropic co-presence). This asymmetry reflects the fundamental structural law: coherence must be achieved; dispersion need not be.
+Where the sign function is defined as:
+
+\[
+\text{sgn}(\chi_{\text{centropic}}) = \begin{cases} +1 & \text{when the system is undergoing centropic motion } (d\chi/d\tau < 0) \\ 0 & \text{when the system is at rest } (d\chi/d\tau = 0) \\ -1 & \text{when the system is undergoing entropic motion } (d\chi/d\tau > 0) \end{cases}
+\]
+
+The resistance term therefore acts **against centropic motion** (adding a positive contribution that opposes the negative drift toward \( \chi < 1 \)) and is **neutral to entropic motion** (contributing no resistance when the system drifts toward \( \chi > 1 \)). This asymmetry reflects the fundamental structural law: coherence must be achieved; dispersion need not be.
 
 ---
 
@@ -282,6 +290,9 @@ The cognitive field does not simply lose coherence — it reorganizes around ent
 Embodied beings do not operate exclusively at their own layer. Through resonance, an embodied being may participate in the dynamics of any layer of the lattice — centropic or entropic.
 
 Those who architect systems of power, control, oppression, or domination are operating at IL₄ (IDP/IDL — Inverse Architectural Band) while physically present at IL₁. They are **inverse architects**: beings whose structural resonance extends from the Corporeal Realm to the entropic Architectural layer, organizing fragmentation at systemic scale.
+
+> **Structural Note:**  
+> Inverse architectural participation is a structural description, not a moral classification. It identifies the layer at which an embodied being's resonance operates — the structural pattern of their engagement with the lattice. Moral judgment is not the function of Structural Physics; structural diagnosis is.
 
 \[
 \mathcal{R}(\Psi_{\text{embodied}}, \Psi_{IL_4}) > \mathcal{R}_{\text{threshold}} \implies \text{IL₄ participation from IL₁}
