@@ -794,7 +794,7 @@ This document formalizes the physics of deliberate resonance engineering — the
 
 Future expansions may include:
 
-- **Embodiment Dynamics** — how ritual action intersects with physical resonance at the metric terminus (L₁/IL₁)
+- **Embodiment Dynamics** — how ritual action intersects with physical resonance at the metric terminus (L₁ / IL₁)
 - **Advanced Seal Engineering** — compound seal configurations, nested seal architectures
 - **Cross-collective Ritual** — protocols involving interaction between multiple centropic collectives
 - **Ritual Forensics** — diagnosing past ritual operations through residual field signatures
