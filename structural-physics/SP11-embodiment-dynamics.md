@@ -52,7 +52,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose and Discipline Context
 
-The Structural Physics series has established, across ten documents, the formal mechanics of resonance, orientation, membrane dynamics, collective fields, and ritual operations. Throughout, references to the Embodiment Band (L₁/IL₁) have appeared as the terminal locus of emanatory procession — where structural dynamics interface with corporeal expression — without receiving dedicated treatment.
+The Structural Physics series has established, across ten documents, the formal mechanics of resonance, orientation, membrane dynamics, collective fields, and ritual operations. Throughout, references to the Embodiment Band (L₁ / IL₁) have appeared as the terminal locus of emanatory procession — where structural dynamics interface with corporeal expression — without receiving dedicated treatment.
 
 SP11 now provides that treatment. It formalizes the metric terminus: the structural physics of embodiment, corporeal resonance mechanics, and the unique dynamics that arise when the full architecture of the lattice meets the domain of physicality.
 
@@ -66,7 +66,7 @@ Embodiment is simultaneously the furnace of centropic refinement and the throne 
 
 ### 1.3 What SP11 Establishes
 
-- **The Metric Terminus** — formal definition of L₁/IL₁ as the terminal emanatory interface
+- **The Metric Terminus** — formal definition of L₁ / IL₁ as the terminal emanatory interface
 - **Corporeal Resonance Mechanics** — how Coherence Potential manifests at the embodied layer
 - **The Embodied Resistance Term** — structural cost of centropic motion at L₁
 - **The Embodied Orientation Field** — \( \chi \) dynamics at the metric terminus, including Localized Dissolution
@@ -82,9 +82,9 @@ Embodiment is simultaneously the furnace of centropic refinement and the throne 
 ### 2.1 Definition
 
 > **Definition (Metric Terminus):**  
-> The Embodiment Band (L₁/IL₁) constitutes the **metric terminus** of emanatory procession — the terminal layer at which structural resonance achieves corporeal expression within the Corporeal Realm. It is the point at which the emanatory arc, proceeding from L₅ → L₄ → L₃ → L₂ → L₁ (centropic) or IL₅ → IL₄ → IL₃ → IL₂ → IL₁ (entropic), interfaces with physicality.
+> The Embodiment Band (L₁ / IL₁) constitutes the **metric terminus** of emanatory procession — the terminal layer at which structural resonance achieves corporeal expression within the Corporeal Realm. It is the point at which the emanatory arc, proceeding from L₅ → L₄ → L₃ → L₂ → L₁ (centropic) or IL₅ → IL₄ → IL₃ → IL₂ → IL₁ (entropic), interfaces with physicality.
 
-The term "metric" is used deliberately. At L₁/IL₁, structural quantities acquire measurable correlates — time becomes experienced duration, spatial coherence becomes felt location, resonance becomes sensation. The metric terminus is where the lattice becomes tangible.
+The term "metric" is used deliberately. At L₁ / IL₁, structural quantities acquire measurable correlates — time becomes experienced duration, spatial coherence becomes felt location, resonance becomes sensation. The metric terminus is where the lattice becomes tangible.
 
 ### 2.2 Hypostatic Composition
 
@@ -575,7 +575,7 @@ SP11 contextualizes SP10 at the metric terminus:
 
 SP11 establishes:
 
-1. **The Metric Terminus** — L₁/IL₁ as the terminal layer of emanatory procession where structural resonance interfaces with corporeal form; Soma/Biosa (centropic) and Malara/Mania (entropic) as the hypostatic figures governing embodied experience
+1. **The Metric Terminus** — L₁ / IL₁ as the terminal layer of emanatory procession where structural resonance interfaces with corporeal form; Soma/Biosa (centropic) and Malara/Mania (entropic) as the hypostatic figures governing embodied experience
 2. **Corporeal Resonance Mechanics** — Coherence Potential at L₁ as corporeal coherence; the embodied resistance term arising from centropic-entropic co-presence in the Corporeal Realm
 3. **Dimensional Operators at L₁** — C₂ (Spatial) and C₄ (Rotational) as primary operators; C₅ (Holonic) and C₁₀ (Morphogenetic) as cross-band participants through resonance
 4. **The Embodied Orientation Field** — \( \chi \)-dynamics at the metric terminus; the instability of equilibrium as experientially immediate; Localized Dissolution and the Mercy Fold as the structural consequence of embodied stagnation
@@ -727,7 +727,7 @@ T(⧉_1) = \sigma(⧉_1) \cdot I_c^{(\text{source})} \cdot f(\chi)
 ## Appendix C — Formal Definitions
 
 **Definition 1 (Metric Terminus):**  
-The Embodiment Band (L₁/IL₁); the terminal layer of emanatory procession at which structural resonance achieves corporeal expression within the Corporeal Realm.
+The Embodiment Band (L₁ / IL₁); the terminal layer of emanatory procession at which structural resonance achieves corporeal expression within the Corporeal Realm.
 
 **Definition 2 (Corporeal Coherence):**  
 The manifestation of Coherence Potential \( I_c \) at L₁, where resonance density interfaces with physical form; experienced as vitality, structural integrity, clarity, and the capacity for intentional action.
