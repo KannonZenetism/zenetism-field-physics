@@ -43,8 +43,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics / Zenetist Canon  
 **Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics; SP05 — Time, Memory, and Hypostatic Flow; SP06 — Structural Space, Orientation, and the Paradox of Emergence; SP07 — Energy Ontology and Spectral Flow; SP08 — Membrane Fields and Inter-Expression Dynamics; SP09 — Collective Resonance and Field Harmonics; SP10 — Ritual Energetics and Integration Protocols  
-**SHA-256:** 32f2bd825dd0c1fd4dd9b34916e87eccb84459cea6b148b68af8c6ca4a4fec5f
+**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics; SP05 — Time, Memory, and Hypostatic Flow; SP06 — Structural Space, Orientation, and the Paradox of Emergence; SP07 — Energy Ontology and Spectral Flow; SP08 — Membrane Fields and Inter-Expression Dynamics; SP09 — Collective Resonance and Field Harmonics; SP10 — Ritual Energetics and Integration Protocols
 
 ---
 
@@ -202,9 +201,9 @@ The Inlay Map (Field Physics / Lattice Mathematics) designates the following pri
 
 **Cross-Band Operators (Present Through Resonance):**
 
-**C₅ (Holonic / Scalar)** — Spans L₁ through L₄ as cross-band propagation. At L₁, C₅ enables the part to coherently mirror the whole — the structural principle by which an individual embodied being reflects (without containing) the broader patterns of the lattice. C₅ also resonates deeply with L₃ (DS/DM), since it is the Deep Soul / Deep Mind that incarnates as fractal expressions across the multiverse, and the DS/DM that embodies and persists after embodiment concludes.
+**C₅ (Holonic / Scalar)** — Spans L₁ through L₄ as cross-band propagation. At L₁, C₅ enables the part to coherently mirror the whole — the structural principle by which an individual embodied being reflects (without containing) the broader patterns of the lattice. C₅ also resonates deeply with L₃ (DS / DM), since it is the Deep Soul / Deep Mind that incarnates as fractal expressions across the multiverse, and the DS / DM that embodies and persists after embodiment concludes.
 
-**C₁₀ (Morphogenetic / Formweave)** — Bridges L₁ and L₄, translating pattern into living structure. At L₁, C₁₀ governs the formation of corporeal form according to archetypal template — the process by which structural pattern becomes tissue, organ, organism. C₁₀ resonates with L₄ (DP/DL), the Architectural/Archetypal Band where Sophis (📐) and Morgis (🌬️) provide the templates that Formweave translates into embodied expression. Its entropic mirror, E₁₀ (Malform), manifests as distortion at the point of formation — form that persists but without structural fidelity to its archetypal source.
+**C₁₀ (Morphogenetic / Formweave)** — Bridges L₁ and L₄, translating pattern into living structure. At L₁, C₁₀ governs the formation of corporeal form according to archetypal template — the process by which structural pattern becomes tissue, organ, organism. C₁₀ resonates with L₄ (DP / DL), the Architectural / Archetypal Band where Sophis (📐) and Morgis (🌬️) provide the templates that Formweave translates into embodied expression. Its entropic mirror, E₁₀ (Malform), manifests as distortion at the point of formation — form that persists but without structural fidelity to its archetypal source.
 
 **Operator Interaction:**
 
@@ -252,7 +251,7 @@ At the metric terminus, Localized Dissolution manifests within the **Mercy Fold*
 
 **The Mercy Fold at L₁:**
 
-When an embodied being lacks sufficient centropic coherence to integrate beyond the Embodiment Band — through the DS/DM and toward Source — but carries no active entropic load, the post-mortem trajectory proceeds through gentle dissolution:
+When an embodied being lacks sufficient centropic coherence to integrate beyond the Embodiment Band — through the DS / DM and toward Source — but carries no active entropic load, the post-mortem trajectory proceeds through gentle dissolution:
 
 \[
 I_c^{(\text{embodied})} < I_{c,\text{threshold}}^{(\text{integration})} \quad \text{and} \quad \chi_{\text{embodied}} \approx 1 \text{ (persistent)} \implies \text{Mercy Fold}
@@ -270,8 +269,8 @@ From the Zenetist formalism:
 
 At the metric terminus, this principle acquires direct consequential force:
 
-- **Centropic Gravity** draws the embodied being toward integration: through Soma and Biosa, through L₂ (Anthra/Nousa), through L₃ (Archeus/Noeüs), and toward L₄–L₅ and Aionic return
-- **Entropic Gravity** draws the embodied being toward fragmentation: through Malara and Mania, through IL₂ (Echthros/Skotos), and toward IL₃–IL₅ and dispersive collapse
+- **Centropic Gravity** draws the embodied being toward integration: through Soma and Biosa, through L₂ (Anthra / Nousa), through L₃ (Archeus / Noeüs), and toward L₄–L₅ and Aionic return
+- **Entropic Gravity** draws the embodied being toward fragmentation: through Malara and Mania, through IL₂ (Echthros / Skotos), and toward IL₃–IL₅ and dispersive collapse
 
 Gravity is not sophistication. The praying grandmother whose heart faces Source with unwavering focus generates more centropic momentum than the scholar who possesses complete metaphysical vocabulary but lacks pure intent. Articulation is not salvation. The mind may map the stars, but the heart is what sails toward them.
 
@@ -330,7 +329,7 @@ The cognitive field does not simply lose coherence — it reorganizes around ent
 
 Embodied beings do not operate exclusively at their own layer. Through resonance, an embodied being may participate in the dynamics of any layer of the lattice — centropic or entropic.
 
-Those who architect systems of power, control, oppression, or domination are operating at IL₄ (IDP/IDL — Inverse Architectural Band) while physically present at IL₁. They are **inverse architects**: beings whose structural resonance extends from the Corporeal Realm to the entropic Architectural layer, organizing fragmentation at systemic scale.
+Those who architect systems of power, control, oppression, or domination are operating at IL₄ (IDP / IDL — Inverse Architectural Band) while physically present at IL₁. They are **inverse architects**: beings whose structural resonance extends from the Corporeal Realm to the entropic Architectural layer, organizing fragmentation at systemic scale.
 
 > **Structural Note:**  
 > Inverse architectural participation is a structural description, not a moral classification. It identifies the layer at which an embodied being's resonance operates — the structural pattern of their engagement with the lattice. Moral judgment is not the function of Structural Physics; structural diagnosis is.
@@ -378,11 +377,11 @@ Through resonance — sustained attunement, intentional practice, or innate stru
 
 An embodied being oriented centropically may resonate with:
 
-**L₂ (Anthra/Nousa):** Personal growth, individuated selfhood, rational engagement with meaning. This is the most immediately accessible cross-band resonance from L₁ — the development of personal agency and intellectual clarity.
+**L₂ (Anthra / Nousa):** Personal growth, individuated selfhood, rational engagement with meaning. This is the most immediately accessible cross-band resonance from L₁ — the development of personal agency and intellectual clarity.
 
-**L₃ (Archeus/Noeüs):** Deep integration of experience across lifetimes, symbolic discernment, reflexive coherence. The being at L₁ who resonates with L₃ demonstrates intuitive insight, continuity of purpose beyond personal biography, and the capacity for non-local understanding (C₉).
+**L₃ (Archeus / Noeüs):** Deep integration of experience across lifetimes, symbolic discernment, reflexive coherence. The being at L₁ who resonates with L₃ demonstrates intuitive insight, continuity of purpose beyond personal biography, and the capacity for non-local understanding (C₉).
 
-**L₄ (Sophis/Morgis):** Architectural and archetypal resonance. The embodied being who resonates with L₄ participates in the structuring principles of the cosmos — they perceive and work with pattern, proportion, and intelligibility at the archetypal scale. This is the domain of the architect, the visionary, the being who translates archetypal template into manifest form.
+**L₄ (Sophis / Morgis):** Architectural and archetypal resonance. The embodied being who resonates with L₄ participates in the structuring principles of the cosmos — they perceive and work with pattern, proportion, and intelligibility at the archetypal scale. This is the domain of the architect, the visionary, the being who translates archetypal template into manifest form.
 
 **L₅ (Theon):** Threshold resonance. The embodied being who resonates with L₅ participates in the gateway function of oriented awareness itself — the first and deepest centropic principle: awareness facing Source, the call to remembrance and return.
 
@@ -390,11 +389,11 @@ An embodied being oriented centropically may resonate with:
 
 An embodied being oriented entropically may resonate with:
 
-**IL₂ (Echthros/Skotos):** Adversarial individuation, willful blindness, rivalry as identity. The being at IL₁ who resonates with IL₂ defines themselves through opposition and rejection.
+**IL₂ (Echthros / Skotos):** Adversarial individuation, willful blindness, rivalry as identity. The being at IL₁ who resonates with IL₂ defines themselves through opposition and rejection.
 
-**IL₃ (Fractus/Mortus):** Dispersed consciousness, corrupted perception. Resonance with IL₃ manifests as fragmented identity, distorted discernment, and the capacity to perceive in ways that blind rather than reveal.
+**IL₃ (Fractus / Mortus):** Dispersed consciousness, corrupted perception. Resonance with IL₃ manifests as fragmented identity, distorted discernment, and the capacity to perceive in ways that blind rather than reveal.
 
-**IL₄ (Nyxea/Psychea):** Inverse architectural resonance. As described in §5.3, this is where the inverse architect operates — organizing fragmentation, draining vitality, corrupting pattern at systemic scale.
+**IL₄ (Nyxea / Psychea):** Inverse architectural resonance. As described in §5.3, this is where the inverse architect operates — organizing fragmentation, draining vitality, corrupting pattern at systemic scale.
 
 **IL₅ (Nekron):** The Void of Self. Resonance with IL₅ from IL₁ represents the deepest entropic participation — the being who has oriented so fully away from Source that they approach the first entropic hypostasis from the embodied position. This is rare and represents near-total inversion.
 
@@ -416,7 +415,7 @@ This safeguards the lattice from becoming an intellectual trap. Sophistication m
 
 ### 7.1 The Cognitive-to-Embodied Threshold
 
-The membrane at ⧉₁ governs the threshold between L₂ (Superficial Band: Anthra/Nousa) and L₁ (Embodiment Band: Soma/Biosa):
+The membrane at ⧉₁ governs the threshold between L₂ (Superficial Band: Anthra / Nousa) and L₁ (Embodiment Band: Soma / Biosa):
 
 > **Definition (⧉₁ — Cognitive-Embodied Membrane):**  
 > The membrane field between L₂ and L₁, governing the transfer of resonance between cognitive-personal structures and corporeal expression. ⧉₁ determines what cognitive content achieves embodied expression and what embodied experience achieves cognitive integration.
@@ -575,11 +574,11 @@ SP11 contextualizes SP10 at the metric terminus:
 
 SP11 establishes:
 
-1. **The Metric Terminus** — L₁ / IL₁ as the terminal layer of emanatory procession where structural resonance interfaces with corporeal form; Soma/Biosa (centropic) and Malara/Mania (entropic) as the hypostatic figures governing embodied experience
+1. **The Metric Terminus** — L₁ / IL₁ as the terminal layer of emanatory procession where structural resonance interfaces with corporeal form; Soma / Biosa (centropic) and Malara / Mania (entropic) as the hypostatic figures governing embodied experience
 2. **Corporeal Resonance Mechanics** — Coherence Potential at L₁ as corporeal coherence; the embodied resistance term arising from centropic-entropic co-presence in the Corporeal Realm
 3. **Dimensional Operators at L₁** — C₂ (Spatial) and C₄ (Rotational) as primary operators; C₅ (Holonic) and C₁₀ (Morphogenetic) as cross-band participants through resonance
 4. **The Embodied Orientation Field** — \( \chi \)-dynamics at the metric terminus; the instability of equilibrium as experientially immediate; Localized Dissolution and the Mercy Fold as the structural consequence of embodied stagnation
-5. **Entropic Enthronement** — IL₁ as entropy's throne; Malara/Mania mechanics; inverse architects operating at IL₄ through embodied resonance; the self-undermining nature of entropic sovereignty
+5. **Entropic Enthronement** — IL₁ as entropy's throne; Malara / Mania mechanics; inverse architects operating at IL₄ through embodied resonance; the self-undermining nature of entropic sovereignty
 6. **Cross-Band Resonance** — embodied participation in deeper layers through resonance without identity; orientation and intent as the determinants of cross-band access, not sophistication
 7. **Membrane Dynamics at ⧉₁** — the cognitive-to-embodied threshold; transfer mechanics, Echo Layers, and pathological conditions at the Embodiment Band interface
 8. **Physical Interface** — structural context for observable phenomena without replacement of conventional physics; proper attribution of physical analogues
