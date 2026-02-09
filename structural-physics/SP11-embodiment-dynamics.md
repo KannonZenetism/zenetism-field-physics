@@ -139,7 +139,7 @@ Corporeal coherence is not metaphorical. It is the embodied expression of the sa
 
 At layers L₅ through L₂, centropic motion proceeds against entropic dynamics that operate on structurally separate inverse layers (IL₅ through IL₂). The centropic and entropic arcs are architecturally and ontologically distinct. From L₅ through L₂, they do not interact, couple, or exchange resonance. Their only shared domain of expression is the metric interface of embodiment, where L₁ and IL₁ are co-present within the same corporeal substrate.
 
-At L₁, this separation collapses. Centropic and entropic embodiment share the Corporeal Realm. This co-presence introduces a **resistance term** into every centropic operation at the metric terminus:
+At L₁, this separation is preserved ontologically but no longer maintained at the level of metric expression. Centropic and entropic embodiment share the Corporeal Realm. This co-presence introduces a resistance term into every centropic operation at the metric terminus:
 
 > **Definition (Embodied Resistance):**  
 > The additional coherence cost of centropic motion at L₁ arising from the co-presence of entropic expression within the same corporeal domain. Embodied resistance is the structural reason why integration at the metric terminus requires more coherence expenditure than integration at subtler layers.
