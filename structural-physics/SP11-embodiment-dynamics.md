@@ -137,7 +137,7 @@ Corporeal coherence is not metaphorical. It is the embodied expression of the sa
 
 ### 3.2 The Embodied Resistance Term
 
-At layers L₅ through L₂, centropic motion proceeds against entropic dynamics that operate on structurally separate inverse layers (IL₅ through IL₂). The centropic and entropic arcs are architecturally distinct, coupled only through cross-band dimensional operators and membrane dynamics.
+At layers L₅ through L₂, centropic motion proceeds against entropic dynamics that operate on structurally separate inverse layers (IL₅ through IL₂). The centropic and entropic arcs are architecturally and ontologically distinct. From L₅ through L₂, they do not interact, couple, or exchange resonance. Their only shared domain of expression is the metric interface of embodiment, where L₁ and IL₁ are co-present within the same corporeal substrate.
 
 At L₁, this separation collapses. Centropic and entropic embodiment share the Corporeal Realm. This co-presence introduces a **resistance term** into every centropic operation at the metric terminus:
 
