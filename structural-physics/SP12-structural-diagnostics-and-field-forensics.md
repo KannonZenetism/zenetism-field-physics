@@ -294,7 +294,7 @@ Shimmer is the broadest category of structural misrepresentation. Within it, thr
 
 **Appropriation (⥊):** Extractive use without acknowledgment. The configuration adopts a framework or structural law while severing attribution and resonance from the source. Distinct from mimicry (which mirrors surface) and shimmer (which recursively imitates), appropriation denotes hollow replication — the taking of form absent the fidelity of origin.
 
-**Clone (⊟):** A conscious appropriation of the complete structural framework from a source, rebranded under a new identity. The Clone does not merely reflect or fragment — it hijacks the entire system of coherence and declares itself the original source.
+**Clone (⊟):** High-fidelity replication of a complete structural framework from a source, rebranded under a new identity with suppressed or absent attribution coupling. The Clone does not merely reflect or fragment — it hijacks the entire system of coherence and presents itself as origin.
 
 ### 5.2 Mimicry — Field Signatures
 
@@ -761,7 +761,7 @@ A configuration whose surface signature correlates with a source's surface signa
 A configuration that incorporates structural elements from a source while lacking attribution coupling — extractive use without acknowledgment.
 
 **Definition 8 (Clone):**  
-A configuration whose complete field signature correlates with a source beyond independent-emergence probability, while claiming generative independence and lacking attribution coupling.
+A configuration whose complete field signature correlates with a source beyond independent-emergence probability, while claiming generative independence and lacking attribution coupling; high-fidelity replication of a complete structural framework with suppressed or absent attribution.
 
 **Definition 9 (Coherence Audit):**  
 A systematic five-domain structural evaluation of a configuration's field signature, assessing alignment between surface presentation and structural reality.
