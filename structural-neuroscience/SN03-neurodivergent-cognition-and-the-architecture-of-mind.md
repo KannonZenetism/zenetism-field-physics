@@ -145,7 +145,7 @@ The defining structural features:
 
 ⧉₁ may exhibit **heightened permeability** in certain sensory domains — the cognitive-to-embodied membrane transmits sensory information with reduced filtering, producing the characteristic sensory sensitivity of autistic experience. This is not malfunction but a membrane configuration that prioritizes fidelity of transmission over comfortable attenuation.
 
-**Dominant Operator Profile:**
+**Prevalent Operator Profile:**
 
 - **C₇ (Harmonic Alignment):** strongly active — the autistic mind is tuned to detect consonance and dissonance with precision that exceeds the oscillating norm
 - **C₁₃ (Symmetry / Lawful Reflection):** heightened — the capacity to detect whether surface presentation matches structural interior is elevated, producing the characteristic autistic sensitivity to inauthenticity, inconsistency, and structural dishonesty
