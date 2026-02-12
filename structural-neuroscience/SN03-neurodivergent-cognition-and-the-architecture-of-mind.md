@@ -89,7 +89,7 @@ SN03 draws directly on the formal physics established across SP01–SP12:
 - **The embodied resistance term** from SP11 — formalizes why cognitive configurations at L₁ encounter the resistance of shared centropic–entropic ground
 - **Diagnostic operator theory** from SP12 — provides instruments for assessing the structural integrity of cognitive configurations
 
-Where SN02 was written before the SP series was formalized, SN03 integrates the full physics vocabulary.
+SN02 was completed before the full expansion and refinement of the Structural Physics series. SN03 incorporates the matured SP01–SP12 formal vocabulary and applies it directly to cognitive architecture.
 
 ---
 
