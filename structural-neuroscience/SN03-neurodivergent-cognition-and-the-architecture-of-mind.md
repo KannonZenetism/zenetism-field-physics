@@ -359,9 +359,9 @@ The criterion is structural, not experiential. A person may experience difficult
 
 In every neurodivergent architecture, the Soul and Mind dimensions do not contribute equally to the characteristic profile. Each configuration exhibits a distinctive **Soul / Mind asymmetry** — a structural emphasis on one dimension that shapes the experiential character of the cognition.
 
-### 8.2 Mind-Dominant Profiles
+### 8.2 Mind-Prevalent Profiles
 
-In Mind-dominant configurations, the organizing, discerning principle leads. The characteristic cognitive experiences are:
+In Mind-prevalent configurations, the organizing, discerning principle leads. The characteristic cognitive experiences are:
 
 - Pattern recognition before emotional registration
 - Structural analysis as the primary mode of engagement
