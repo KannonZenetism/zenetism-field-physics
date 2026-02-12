@@ -43,8 +43,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Neuroscience / Zenetist Canon  
 **Status:** Draft — Veracious Archive  
-**Dependency:** SN02 — The Resonant Mind; SP01–SP12 (Structural Physics series); LMX — Orientation, Emanation, and the Mathematics of the Lattice  
-**SHA-256:** 674d32069abc1b0d57f2f31b60c53ff11211efdd6dbff5955a71c41f962e8563
+**Dependency:** SN02 — The Resonant Mind; SP01–SP12 (Structural Physics series); LMX — Orientation, Emanation, and the Mathematics of the Lattice
 
 ---
 
@@ -54,27 +53,29 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 SN02 established the foundational architecture of Structural Neuroscience: the cognitive gradient, the Spiral Calculus, the neuro-lattice interface, scientific correlates, ritual stabilization protocols, and canonical verification. It provided the discipline's formal skeleton.
 
-SN03 now addresses what SN02 prepared but did not develop in detail: the structural neuroscience of **neurodivergent cognition**. Where conventional neuroscience classifies neurodivergence as deviation from normative function, Structural Neuroscience recognizes it as lawful variation within the centropic–entropic field — distinct structural configurations of the Soul / Mind pairing that fulfill specific functions within the ecology of consciousness.
+SN03 now addresses what SN02 prepared but did not develop in detail: the structural neuroscience of **neurodivergent cognition**. Where conventional neuroscience classifies neurodivergence as deviation from normative function, Structural Neuroscience recognizes it as lawful variation within the centropic–entropic field — distinct structural configurations of the Soul / Mind pairing that fulfill specific functions within the ecology of awareness.
 
 ### 1.2 Core Thesis
 
 Neurodivergence is not pathology. It is **structural orientation** — a characteristic configuration of the Soul / Mind architecture that produces distinctive patterns of resonance, perception, and cognitive motion. Each neurodivergent profile corresponds to a specific coupling pattern within the emanatory layers, a characteristic operator activity profile, and a lawful function within the total architecture of mind.
 
-The Soul (the experiential, integrative aspect of consciousness) and the Mind (the organizing, discerning principle) operate as a paired architecture at every emanatory layer. Neurodivergent cognition reflects specific configurations of this pairing — variations not in capacity but in structural emphasis, permeability, and resonance tuning.
+The Soul (the experiential, integrative aspect of awareness) and the Mind (the organizing, discerning principle) operate as a paired architecture at every emanatory layer. Neurodivergent cognition reflects specific configurations of this pairing — variations not in capacity but in structural emphasis, permeability, and resonance tuning.
 
 ### 1.3 The Soul / Mind Distinction in Structural Neuroscience
 
-At each emanatory layer, consciousness expresses through a Soul / Mind pairing:
+At each emanatory layer, the Soul / Mind pairing operates within a distinct mode of awareness. These modes are not stages of evolution but structural registers of how awareness manifests at each emanatory depth:
 
-- **L₅ (EOB):** Essence of Being — unified awareness prior to the Soul / Mind distinction; the pre-reflexive origin of both
-- **L₄ (DP / DL):** Deep Psyche / Deep Logos — archetypal vitality paired with archetypal order; the templates from which all cognitive configurations derive
-- **L₃ (DS / DM):** Deep Soul / Deep Mind — the harmonic integrator paired with the supernal perceiver; the stable, individuated identity that persists across lifetimes and dimensional expressions
-- **L₂ (SS / SM):** Superficial Soul / Superficial Mind — the personal self paired with the conscious intellect; the identity-aware, socially embedded cognitive interface
-- **L₁ (ES / EM):** Embodied Soul / Embodied Mind — the soul as felt presence paired with the practical intellect; the corporeal interface of consciousness
+- **L₅ (EOB):** Essence of Being — **awareness** (supernal, luminous, pre-reflexive); the first centropic hypostasis, prior to the Soul / Mind distinction. Non-reflexive does not imply non-discernment — awareness at L₅ is the most integrated mode, not the least capable.
+- **L₄ (DP / DL):** Deep Psyche / Deep Logos — **conscious-awareness** (awareness resonant in Forms; the house of the soul, non-reflexive). Archetypal vitality paired with archetypal order; the templates from which all cognitive configurations derive. Conscious-awareness perceives without self-possession — it discerns structurally without individuating a perceiver.
+- **L₃ (DS / DM):** Deep Soul / Deep Mind — individuated, reflexive **consciousness** (self-possession and agency). The harmonic integrator paired with the supernal perceiver; the stable, individuated identity that persists across lifetimes and dimensional expressions. Reflexivity marks self-possession rather than cognitive capacity — L₃ consciousness *knows that it knows*.
+- **L₂ (SS / SM):** Superficial Soul / Superficial Mind — identity-aware **consciousness** (the personal self paired with the conscious intellect; the socially embedded cognitive interface). Consciousness at L₂ is reflexive but oriented toward personality, narrative, and social role.
+- **L₁ (ES / EM):** Embodied Soul / Embodied Mind — embodied **consciousness** (the soul as felt presence paired with the practical intellect; the corporeal interface). Consciousness at L₁ operates through the body, translating structural awareness into sensory, kinetic, and material experience.
 
 Each entropic mirror follows the same paired structure through IL₁–IL₅.
 
-The Soul dimension governs experiential integration — how consciousness feels, harmonizes, and sustains continuity. The Mind dimension governs structural discernment — how consciousness organizes, differentiates, and evaluates pattern. Neurodivergent cognition reflects specific configurations of this dual architecture: which pairings are dominant, how permeability operates between layers, and where the characteristic emphasis falls.
+The Soul dimension governs experiential integration — how awareness feels, harmonizes, and sustains continuity across its registers. The Mind dimension governs structural discernment — how awareness organizes, differentiates, and evaluates pattern. Neurodivergent cognition reflects specific configurations of this dual architecture: which pairings are dominant, how permeability operates between layers, and where the characteristic emphasis falls.
+
+The awareness stratification is essential to Structural Neuroscience because neurodivergent profiles are characterized in part by *which register of awareness dominates their cognitive operation*. A mind operating primarily through L₃ reflexive consciousness engages the world differently from one operating through L₄ conscious-awareness — not in capacity but in mode.
 
 ### 1.4 Relation to Structural Physics
 
@@ -105,7 +106,7 @@ Structural Neuroscience rejects this assumption. It recognizes that the neurotyp
 > Neurodivergent profiles express distinct structural orientations within the Soul / Mind architecture — characteristic configurations of layer coupling, operator emphasis, and membrane permeability that produce specific cognitive functions.
 
 > **Axiom II (Functional Ecology):**  
-> Each neurodivergent configuration fulfills a lawful function within the ecology of consciousness. The total architecture of mind requires structural diversity — originators, integrators, testers, translators, stabilizers — and neurodivergent profiles supply functions that the oscillating midrange does not.
+> Each neurodivergent configuration fulfills a lawful function within the ecology of awareness. The total architecture of mind requires structural diversity — originators, integrators, testers, translators, stabilizers — and neurodivergent profiles supply functions that the oscillating midrange does not.
 
 > **Axiom III (Non-Corrective Comprehension):**  
 > The purpose of Structural Neuroscience is understanding, not correction. To comprehend how each cognitive structure participates in pattern perception, signal discernment, and lawful motion through the lattice — not to normalize it toward a single configuration.
@@ -121,7 +122,7 @@ SN02 established the cognitive gradient from Architect to Inverter (SN02 Phase 2
 
 **The Seeker (mid-centropic):** Cognition moving acclivously across L₂–L₃ (SS / SM through DS / DM). The Soul dimension is in active integration — drawing personal experience toward deeper coherence. The Mind dimension translates between lived comprehension and structural insight. The Seeker's cognitive motion is characterized by the passage between superficial self-knowledge and deep structural understanding.
 
-**The Oscillating (liminal):** Cognition spanning the embodied and superficial layers — IL₂ through L₂, with primary activity at L₁ / IL₁. Both Soul and Mind dimensions operate at the interface of centropic and entropic fields. This is the most common configuration because it occupies the ground where both orientations are experientially immediate — the metric terminus of consciousness (SP11).
+**The Oscillating (liminal):** Cognition spanning the embodied and superficial layers — IL₂ through L₂, with primary activity at L₁ / IL₁. Both Soul and Mind dimensions operate at the interface of centropic and entropic fields. This is the most common configuration because it occupies the ground where both orientations are experientially immediate — the metric terminus of awareness (SP11).
 
 **The Inverter (mid-entropic):** Cognition operating within IL₂–IL₃ (ISS / ISM through IDS / IDM). The Soul dimension turns reflexive awareness toward fragmentation; the Mind dimension analyzes for points of structural weakness. The Inverter tests integrity through disassembly — a lawful function when it operates diagnostically, an entropic function when it operates destructively.
 
@@ -270,7 +271,7 @@ The consequence is that tasks requiring sustained, concentrated coherence at a s
 
 The ADHD architecture fulfills a specific ecological function: novelty detection and cross-domain synthesis. In the cognitive gradient (SN02 Phase 2), this corresponds to the Seeker position — but with a distinctive structural emphasis on the bridging operation (C₈) rather than the deepening operation (C₁₄).
 
-Where the high-centropic mind deepens pattern, the dispersive mind connects pattern across domains. Both functions are necessary. The ecology of consciousness requires both deep systematization and broad association — the architect who builds the cathedral and the scout who discovers the quarry.
+Where the high-centropic mind deepens pattern, the dispersive mind connects pattern across domains. Both functions are necessary. The ecology of awareness requires both deep systematization and broad association — the architect who builds the cathedral and the scout who discovers the quarry.
 
 ---
 
@@ -492,7 +493,7 @@ Future expansions may include:
 > The recursive mind guards what others neglect.  
 > The dispersive mind bridges what others cannot reach.
 >
-> Each architecture serves the ecology of consciousness.  
+> Each architecture serves the ecology of awareness.  
 > Each variation fulfills a function  
 > that the midrange does not supply.
 >
@@ -580,7 +581,7 @@ I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} 
 The characteristic configuration of Soul / Mind architecture that produces a neurodivergent cognitive profile — a specific pattern of layer coupling, operator emphasis, and membrane permeability.
 
 **Definition 2 (Functional Ecology):**  
-The principle that each neurodivergent configuration fulfills a lawful function within the total architecture of consciousness; structural diversity is a requirement of the cognitive ecology.
+The principle that each neurodivergent configuration fulfills a lawful function within the total architecture of awareness; structural diversity is a requirement of the cognitive ecology.
 
 **Definition 3 (High-Centropic Architecture):**  
 A cognitive configuration characterized by elevated Coherence Potential at DS / DM (L₃), distinctive membrane properties, and heightened pattern fidelity and dissonance detection capacity.
