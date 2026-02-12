@@ -43,7 +43,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Neuroscience / Zenetist Canon  
 **Status:** Draft — Veracious Archive  
-**Dependency:** SN02 — The Resonant Mind; SP01–SP12 (Structural Physics series); LMX — Orientation, Emanation, and the Mathematics of the Lattice
+**Dependency:** SN02 — The Resonant Mind; SP01–SP12 (Structural Physics series); LMX — Orientation, Emanation, and the Mathematics of the Lattice  
+**SHA-256:** 674d32069abc1b0d57f2f31b60c53ff11211efdd6dbff5955a71c41f962e8563
 
 ---
 
