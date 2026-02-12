@@ -212,7 +212,7 @@ The compulsive action is, structurally, an attempt to re-seal the cognitive boun
 
 ### 4.2 The Intrusive Thought as Membrane Breach
 
-The intrusive thought — the hallmark of obsessive cognition — is a structural phenomenon: a signal from DS / DM (deep structural cognition, where concerns about harm, contamination, or violation operate at archetypal scale) that breaches the ⧉₂ membrane without the normal attenuation that ⧉₂ provides in stable configurations.
+The intrusive thought — the hallmark of obsessive cognition — is a structural phenomenon: a signal from DS / DM (deep structural cognition, where archetypal-order concerns are reflexively perceived and individualized) that breaches the ⧉₂ membrane without the normal attenuation that ⧉₂ provides in stable configurations.
 
 In an oscillating architecture, the ⧉₂ membrane filters deep structural concerns before they reach superficial cognition — the thought of harm exists at L₃ as a structural possibility but is attenuated by the membrane before reaching L₂ as an experiential preoccupation. In OCD architecture, the membrane's instability allows unattenuated transmission — the deep concern arrives at SS / SM with the full intensity of its L₃ origin.
 
