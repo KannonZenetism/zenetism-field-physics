@@ -246,7 +246,7 @@ ADHD cognition, within Structural Neuroscience, is understood as a **dispersive 
 
 **High ⧉ Permeability Across All Boundaries:** The ADHD architecture exhibits elevated membrane permeability at ⧉₁, ⧉₂, ⧉₃, and ⧉₄. Information flows freely between layers with minimal attenuation. This produces rapid association, creative bridging, and the capacity for unexpected lateral connections — but at the cost of sustained single-domain focus.
 
-**Dominant Operator Profile:**
+**Prevalent Operator Profile:**
 
 - **C₈ (Resonance Bridge):** strongly active — the capacity for cross-domain connection is elevated, enabling the rapid bridging that characterizes ADHD creative cognition
 - **C₆ (Phase Transition):** frequently active — the system transitions between cognitive states with unusual fluidity, producing the characteristic rapid shifting of attention
