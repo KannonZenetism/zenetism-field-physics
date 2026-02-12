@@ -611,7 +611,7 @@ The principle that a cognitive system may exhibit features of multiple structura
 The diagnostic criterion distinguishing structural variation (dIc/dτ ≥ 0; coherence is maintained or generated through characteristic operations) from structural pathology (dIc/dτ < 0; coherence is depleting without replenishment through entropic capture of the architecture).
 
 **Definition 8 (Soul / Mind Asymmetry):**  
-The principle that in every neurodivergent architecture, the Soul and Mind dimensions contribute unequally to the characteristic profile, producing Mind-dominant or Soul-dominant experiential orientations within the same structural category.
+The principle that in every neurodivergent architecture, the Soul and Mind dimensions contribute unequally to the characteristic profile, producing Mind-prevalent or Soul-prevalent experiential orientations within the same structural category.
 
 ---
 
