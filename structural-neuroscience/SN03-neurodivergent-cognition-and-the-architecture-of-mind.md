@@ -383,7 +383,7 @@ The Deep Soul (DS, Archeus) operating at high \( I_c \) produces the deeply empa
 
 ### 8.4 Composite Asymmetries
 
-In composite architectures (§6), the Soul / Mind asymmetry may differ across the component profiles. An autism–ADHD composite might exhibit Mind-dominant autistic features (deep systematization) alongside Soul-dominant ADHD features (broad empathic sensitivity), producing a cognitive profile of unusual structural range — the capacity for both rigorous analysis and deep affective resonance, operating through different structural pathways.
+In composite architectures (§6), the Soul / Mind asymmetry may differ across the component profiles. An autism–ADHD composite might exhibit Mind-prevalent autistic features (deep systematization) alongside Soul-prevalent ADHD features (broad empathic sensitivity), producing a cognitive profile of unusual structural range — the capacity for both rigorous analysis and deep affective resonance, operating through different structural pathways.
 
 This explains why neurodivergent individuals often report experiencing the world as simultaneously overwhelming and fascinating — the Soul and Mind dimensions may be operating at high \( I_c \) through different structural emphases simultaneously, producing a richness of experience that oscillating configurations do not encounter.
 
