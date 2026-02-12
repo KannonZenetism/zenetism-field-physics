@@ -340,10 +340,11 @@ Pathology is not a property of orientation. It is a property of **generative fai
 The distinction between variation and pathology is determined by the generative function within the configuration's own operative mode:
 
 \[
-\text{Variation:} \quad \frac{dI_c}{d\tau} \geq 0 \quad \text{(coherence is maintained or generated through the configuration's characteristic operations)}
+\text{Variation:}\;\frac{dI_c}{d\tau}\geq 0\;\text{(coherence is maintained or generated through the configuration's characteristic operations)}
 \]
+
 \[
-\text{Pathology:} \quad \frac{dI_c}{d\tau} < 0 \quad \text{(coherence is depleting without replenishment — the configuration has lost its generative function)}
+\text{Pathology:}\;\frac{dI_c}{d\tau}<0\;\text{(coherence is depleting without replenishment — the configuration has lost its generative function)}
 \]
 
 This criterion applies identically to centropic and entropic configurations. A centropic architecture at DS / DM generating coherence through pattern integration is in lawful variation. An entropic architecture at IDS / IDM generating coherence through productive differentiation and structural testing is equally in lawful variation. Neither orientation is inherently closer to pathology than the other.
