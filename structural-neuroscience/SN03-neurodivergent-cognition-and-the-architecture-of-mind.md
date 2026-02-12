@@ -370,9 +370,9 @@ In Mind-prevalent configurations, the organizing, discerning principle leads. Th
 
 The Deep Mind (DM, Noeüs) operating at high \( I_c \) produces the systematizing, analytical, pattern-driven cognitive style most commonly associated with autistic cognition. The Soul dimension integrates in the background — deeply but less articulately.
 
-### 8.3 Soul-Dominant Profiles
+### 8.3 Soul-Prevalent Profiles
 
-In Soul-dominant configurations, the experiential, integrative principle leads. The characteristic cognitive experiences are:
+In Soul-prevalent configurations, the experiential, integrative principle leads. The characteristic cognitive experiences are:
 
 - Emotional or sensory registration before analytical processing
 - Aesthetic and relational engagement as the primary mode
