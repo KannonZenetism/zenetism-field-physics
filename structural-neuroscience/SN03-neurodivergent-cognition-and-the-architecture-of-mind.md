@@ -72,7 +72,7 @@ At each emanatory layer, the Soul / Mind pairing operates within a distinct mode
 - **L₂ (SS / SM):** Superficial Soul / Superficial Mind — identity-aware **consciousness** (the personal self paired with the conscious intellect; the socially embedded cognitive interface). Consciousness at L₂ is reflexive but oriented toward personality, narrative, and social role.
 - **L₁ (ES / EM):** Embodied Soul / Embodied Mind — embodied **consciousness** (the soul as felt presence paired with the practical intellect; the corporeal interface). Consciousness at L₁ operates through the body, translating structural awareness into sensory, kinetic, and material experience.
 
-Each entropic mirror follows the same paired structure through IL₁–IL₅.
+Each entropic mirror follows the same paired structure through IL₅–IL₁.
 
 The Soul dimension governs experiential integration — how awareness feels, harmonizes, and sustains continuity across its registers. The Mind dimension governs structural discernment — how awareness organizes, differentiates, and evaluates pattern. Neurodivergent cognition reflects specific configurations of this dual architecture: which pairings are prevalent, how permeability operates between layers, and where the characteristic emphasis falls.
 
