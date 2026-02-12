@@ -466,7 +466,7 @@ SN03 establishes:
 4. **Dispersive architecture (ADHD)** — broad coherence current distribution, elevated membrane permeability across all boundaries, the hyperfocus paradox as convergence under resonance, the novelty function as ecological role
 5. **Structural composition** — co-occurring profiles as composite architectures with interacting features
 6. **The variation-pathology distinction** — determined by the generative function (dIc/dτ ≥ 0 contra dIc/dτ < 0), not by experiential difficulty
-7. **Soul / Mind asymmetry** — Mind-dominant and Soul-dominant profiles producing distinct experiential characters within the same architectural category
+7. **Soul / Mind asymmetry** — Mind-prevalent and Soul-prevalent profiles producing distinct experiential characters within the same architectural category
 8. **The Orientation-Intent Principle** — architecture provides the instrument; orientation determines its function
 
 ---
