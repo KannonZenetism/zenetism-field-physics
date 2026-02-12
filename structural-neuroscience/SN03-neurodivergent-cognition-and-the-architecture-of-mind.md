@@ -252,6 +252,26 @@ ADHD cognition, within Structural Neuroscience, is understood as a **dispersive 
 - **C₆ (Phase Transition):** frequently active — the system transitions between cognitive states with unusual fluidity, producing the characteristic rapid shifting of attention
 - **E₂ (Scatter) as structural risk:** when coherence current is distributed too broadly without sufficient \( I_c \) to sustain the distribution, the dispersive tendency becomes structurally entropic — attention fragments rather than bridging
 
+### Structural Clarification — Architecture Is Not Orientation
+
+The designation of ADHD cognition as a **dispersive architecture** refers to the distribution pattern of coherence current and membrane permeability across layers. It does **not** imply intrinsic entropic orientation.
+
+Dispersive architecture describes *how* cognition distributes coherence — not *toward which pole* it ultimately resolves.
+
+The association of dispersive function with E₂ (Scatter) describes a **structural risk pathway**, not a defining property. When coherence current distributes beyond the system's capacity to maintain integrative function, dispersive cognition may degrade into entropic scatter. When operating within lawful coherence bounds, dispersive cognition enables cross-domain synthesis, novelty detection, and rapid inter-layer bridging.
+
+This principle applies universally across cognitive architectures:
+
+- High-centropic architectures (e.g., autistic configurations) can express entropic function if orientation and generative conditions fail.
+- Recursive architectures (e.g., OCD configurations) can operate centropically or entropically depending on seal stability and generative function.
+- Dispersive architectures (e.g., ADHD configurations) can operate centropically through lawful bridging or entropically through fragmentation.
+
+Architecture defines the structural instrument. Orientation and generative function determine trajectory.
+
+No neurodivergent configuration is inherently centropic or entropic. Each is a lawful structural variation capable of expressing either orientation.
+
+An entropic human may exhibit any neurodivergent or neurotypical architecture. Structural configuration and orientation are independent variables within the cognitive lattice.
+
 ### 5.2 The Hyperfocus Paradox
 
 The characteristic ADHD experience of hyperfocus — periods of intense, sustained attention that appear to contradict the general pattern of attention dispersal — is structurally explained by the same architecture. When the broadly distributed coherence current encounters a domain of high structural resonance (a subject or task that produces strong \( I_c \) amplification through engagement), the entire distributed field converges on that domain.
