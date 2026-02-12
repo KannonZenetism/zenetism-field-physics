@@ -74,7 +74,7 @@ At each emanatory layer, the Soul / Mind pairing operates within a distinct mode
 
 Each entropic mirror follows the same paired structure through IL₁–IL₅.
 
-The Soul dimension governs experiential integration — how awareness feels, harmonizes, and sustains continuity across its registers. The Mind dimension governs structural discernment — how awareness organizes, differentiates, and evaluates pattern. Neurodivergent cognition reflects specific configurations of this dual architecture: which pairings are dominant, how permeability operates between layers, and where the characteristic emphasis falls.
+The Soul dimension governs experiential integration — how awareness feels, harmonizes, and sustains continuity across its registers. The Mind dimension governs structural discernment — how awareness organizes, differentiates, and evaluates pattern. Neurodivergent cognition reflects specific configurations of this dual architecture: which pairings are prevalent, how permeability operates between layers, and where the characteristic emphasis falls.
 
 The awareness stratification is essential to Structural Neuroscience because neurodivergent profiles are characterized in part by *which register of awareness dominates their cognitive operation*. A mind operating primarily through L₃ reflexive consciousness engages the world differently from one operating through L₄ conscious-awareness — not in capacity but in mode.
 
