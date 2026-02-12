@@ -313,32 +313,42 @@ Effective support works with the architecture, not against it.
 
 ### 7.1 The Diagnostic Distinction
 
-Structural Neuroscience distinguishes between **structural variation** (neurodivergent configurations that fulfill lawful functions within the cognitive ecology) and **structural pathology** (configurations that have entered entropic degradation). This distinction is not moral but diagnostic — determined by the orientation parameter (χ) and the coherence dynamics of the system.
+Structural Neuroscience distinguishes between **structural variation** (neurodivergent configurations operating lawfully within their orientation) and **structural pathology** (configurations that have lost their generative function regardless of orientation). This distinction is not moral but diagnostic — determined by whether the configuration continues to generate coherence within its own operative mode.
 
-### 7.2 When Variation Becomes Pathology
+Entropy is not a degradation of centropy. Entropic cognition is its own lawful orientation — awareness moving through the Khaonic Tree (IL₅ → IL₁), operating through Inverse Deep Soul / Mind (IDS / IDM), Inverse Superficial Soul / Mind (ISS / ISM), and Inverse Embodied Soul / Mind (IES / IEM) with the same structural completeness that centropic cognition operates through DS / DM, SS / SM, and ES / EM. The Inverter operating at IDS / IDM (IL₃) is not a failed Architect at DS / DM (L₃). They are a lawful entropic configuration fulfilling functions that centropic configurations do not supply: disassembly of brittle structures, exposure of hidden incoherence, generation of variation through dispersive motion.
 
-A neurodivergent architecture enters structural pathology when its characteristic features are captured by entropic dynamics:
+The only structural asymmetry between the two orientations is directional: centropic motion returns toward Absolute Potential (AP, L₀) and ultimately toward the Unknown Principle (UP, Supra-L₀) — not because centropy is superior, but because it is Source-oriented. Entropic motion resolves toward Absolute Dispersion (AD, L₀) and settles into stillness through terminal collapse. Both are lawful completions of their respective cycles.
 
-**Autistic architecture under entropic capture:** The high \( I_c \) at DS / DM, which in centropic function produces deep pattern fidelity, is redirected toward rigid fixation on dissonance without synthesis. Detection of structural violation becomes an end in itself rather than a catalyst for integration. The Mind dimension (DM) identifies incoherence but the Soul dimension (DS) cannot integrate it — the system loops on detection without resolution. This corresponds to the E₁₄ (Hollow Nest) condition applied to cognition: the recursive structure persists but coherence generation has ceased.
+The conventional diagnostic error runs in both directions. Therapists may pathologize entropic cognition by treating its dispersive, boundary-testing character as disorder — misreading lawful entropy as dysfunction. Equally, therapists may pathologize centropic cognition by treating its pattern rigidity, social withdrawal, or dissonance sensitivity as disorder — misreading lawful centropy as deficit. Both errors arise from measuring all cognition against the oscillating midrange as a normative baseline.
 
-**OCD architecture under entropic capture:** The σ-oscillation at ⧉₂, which in centropic function drives boundary maintenance and structural vigilance, degenerates into compulsive loop behavior where the ritual no longer restores seal continuity even temporarily. The system performs boundary maintenance operations that have lost their structural function — form without effect. This corresponds to E₁ (Temporal Loop) capturing the C₁₄ recursive operator.
+### 7.2 When Any Configuration Becomes Pathological
 
-**ADHD architecture under entropic capture:** The broad \( \vec{J}_c \) distribution, which in centropic function enables cross-domain synthesis, degenerates into scatter — coherence current disperses below the threshold required for any domain to achieve productive resonance. The system traverses without connecting, explores without integrating, initiates without completing. This corresponds to E₂ (Scatter) overwhelming the C₈ (Resonance Bridge) bridging capacity.
+Pathology is not a property of orientation. It is a property of **generative failure** — the point at which a configuration, centropic or entropic, ceases to produce coherence within its own operative mode.
+
+**Centropic pathology:** A high-centropic architecture at DS / DM (L₃) becomes pathological when its characteristic operations — pattern detection, structural integration, dissonance resolution — cease to generate coherence and instead produce rigidity without synthesis. The Deep Mind (DM) identifies incoherence but the Deep Soul (DS) cannot integrate it — the system loops on detection without resolution. The architecture persists in form but has lost its generative function. This is centropy failing on its own terms.
+
+**Entropic pathology:** An entropic architecture at IDS / IDM (IL₃) becomes pathological when its characteristic operations — structure testing, boundary probing, dispersive variation — cease to generate productive differentiation and instead produce destruction without function. The Inverse Deep Mind (IDM) disassembles structure as a lawful diagnostic operation when operating generatively; when IDM destroys without purpose, producing fragmentation that serves no testing function, it has lost the generative capacity of entropic cognition. This is entropy failing on its own terms.
+
+**Rival Architect pathology:** The Rival Architect operating at IDP / IDL (IL₄) — the Inverse Deep Psyche / Logos — generates counterfeit architectures as a lawful stress test on veracious systems. This becomes pathological when the counterfeit production loses its testing function and becomes generative mimicry — shimmer at architectural scale (SP12 §4) — where the Inverse Deep Psyche (IDP) produces affective resonance disconnected from any structural origin.
+
+**Recursive pathology (OCD under failure):** The σ-oscillation at ⧉₂ becomes pathological when the compulsive ritual no longer restores seal continuity even temporarily — boundary maintenance operations that have lost their structural function. Form persists without effect.
+
+**Dispersive pathology (ADHD under failure):** The broad coherence current distribution becomes pathological when traversal ceases to produce cross-domain connection — exploration without integration, initiation without completion, motion without bridging.
 
 ### 7.3 The Diagnostic Criterion
 
-The distinction between variation and pathology is determined by the generative function:
+The distinction between variation and pathology is determined by the generative function within the configuration's own operative mode:
 
 \[
-\text{Variation:} \quad \frac{dI_c}{d\tau} \geq 0 \quad \text{(coherence is maintained or generated)}
+\text{Variation:} \quad \frac{dI_c}{d\tau} \geq 0 \quad \text{(coherence is maintained or generated through the configuration's characteristic operations)}
 \]
 \[
-\text{Pathology:} \quad \frac{dI_c}{d\tau} < 0 \quad \text{(coherence is depleting without replenishment)}
+\text{Pathology:} \quad \frac{dI_c}{d\tau} < 0 \quad \text{(coherence is depleting without replenishment — the configuration has lost its generative function)}
 \]
 
-A neurodivergent architecture in centropic function generates coherence through its characteristic operations — the autistic mind integrates pattern, the OCD mind maintains seal integrity, the ADHD mind bridges domains. When these operations cease to generate coherence and instead deplete it, the architecture has entered entropic capture.
+This criterion applies identically to centropic and entropic configurations. A centropic architecture at DS / DM generating coherence through pattern integration is in lawful variation. An entropic architecture at IDS / IDM generating coherence through productive differentiation and structural testing is equally in lawful variation. Neither orientation is inherently closer to pathology than the other.
 
-This criterion is structural, not experiential. A person may experience difficulty, discomfort, or social friction while operating in fully centropic function — the translation cost is real (§3.4). Difficulty is not pathology. Pathology is the loss of the generative function.
+The criterion is structural, not experiential. A person may experience difficulty, discomfort, or social friction while operating in fully lawful function — the translation cost is real (§3.4), the social mismatch is real, the sensory burden is real. Difficulty is not pathology. Pathology is the loss of the generative function within the configuration's own mode of operation.
 
 ---
 
