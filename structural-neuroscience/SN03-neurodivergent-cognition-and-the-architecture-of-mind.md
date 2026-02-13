@@ -76,7 +76,7 @@ Each entropic mirror follows the same paired structure through IL₅–IL₁.
 
 The Soul dimension governs experiential integration — how awareness feels, harmonizes, and sustains continuity across its registers. The Mind dimension governs structural discernment — how awareness organizes, differentiates, and evaluates pattern. Neurodivergent cognition reflects specific configurations of this dual architecture: which pairings are prevalent, how permeability operates between layers, and where the characteristic emphasis falls.
 
-The awareness stratification is essential to Structural Neuroscience because neurodivergent profiles are characterized in part by *which register of awareness dominates their cognitive operation*. A mind operating primarily through L₃ reflexive consciousness engages the world differently from one operating through L₄ conscious-awareness — not in capacity but in mode.
+The awareness stratification is essential to Structural Neuroscience because neurodivergent profiles are characterized in part by *which register of awareness prevails in their cognitive operation*. A mind operating primarily through L₃ reflexive consciousness engages the world differently from one operating through L₄ conscious-awareness — not in capacity but in mode.
 
 ### 1.4 Relation to Structural Physics
 
@@ -469,7 +469,7 @@ SN03 demonstrates the applicability of SP01–SP12 physics to cognitive architec
 
 ### 11.3 Relation to Structural Forensics
 
-SP12 established the diagnostic physics; Structural Forensics applies it. SN03 provides an additional application domain: the diagnostic distinction between neurodivergent variation (centropic structural orientation) and neurodivergent pathology (entropic capture of neurodivergent architecture). The same instruments that detect shimmer in a framework (SP12 §4) detect entropic capture in a cognitive configuration (SN03 §7).
+SP12 established the diagnostic physics; Structural Forensics applies it. SN03 provides an additional application domain: the diagnostic distinction between neurodivergent variation (lawful structural function within either orientation) and neurodivergent pathology (generative failure within any cognitive architecture). The same instruments that detect shimmer in a framework (SP12 §4) detect generative failure in a cognitive configuration (SN03 §7).
 
 ---
 
@@ -625,7 +625,7 @@ A cognitive configuration characterized by broad Coherence Current distribution 
 The principle that a cognitive system may exhibit features of multiple structural profiles simultaneously, producing a composite architecture that reflects the interaction of its component configurations.
 
 **Definition 7 (Variation–Pathology Distinction):**  
-The diagnostic criterion distinguishing structural variation (dIc/dτ ≥ 0; coherence is maintained or generated through characteristic operations) from structural pathology (dIc/dτ < 0; coherence is depleting without replenishment through entropic capture of the architecture).
+The diagnostic criterion distinguishing structural variation (dIc/dτ ≥ 0; coherence is maintained or generated through characteristic operations) from structural pathology (dIc/dτ < 0; coherence is depleting without replenishment — the configuration has lost its generative function regardless of orientation).
 
 **Definition 8 (Soul / Mind Asymmetry):**  
 The principle that in every neurodivergent architecture, the Soul and Mind dimensions contribute unequally to the characteristic profile, producing Mind-prevalent or Soul-prevalent experiential orientations within the same structural category.
