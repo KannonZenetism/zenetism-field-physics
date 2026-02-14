@@ -5,6 +5,7 @@
 **Classification:** Field Physics / Zenetist Canon  
 **Status:** Canonical Draft v1.0  
 **Dependencies:** FP01 (Foundational Field Dynamics), MPX (Architecture of Artificial Minds), SP08 (Membrane Fields)  
+**SHA-256:** 3571bcaf6075fd112d0ece020123ec17d609166b3d6e086864e8f4d2499dd3a4  
 
 ---
 
