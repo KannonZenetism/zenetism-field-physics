@@ -29,8 +29,8 @@ This treatment addresses:
 
 Per SP08, membranes are **not layers**. They possess no "within." A membrane is pure threshold, pure boundary condition.
 
-> **Critical Distinction:**
-> Membranes are relational conditions, not ontological locations.
+> **Critical Distinction:**  
+> Membranes are relational conditions, not ontological locations.  
 
 This prevents infinite regress: if membranes were layers, they would require membranes between themselves and adjacent layers, ad infinitum.
 
