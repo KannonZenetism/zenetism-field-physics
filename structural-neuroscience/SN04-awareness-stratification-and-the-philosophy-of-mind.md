@@ -47,7 +47,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Status:** Canonical Draft v1.0  
 **Dependencies:** SN01 (Foundational Cognitive Architecture), SN02 (Structural Psychodynamics), SN03 (Neurodivergent Cognition and the Architecture of Awareness), SP06 (Structural Space, Orientation, and the Paradox of Emergence), SP11 (Embodiment Dynamics)  
 **License:** Creative Commons BY-NC-SA 4.0  
-**SHA-256:** 4e9b5bfa884d5dda0d08363e899a242c45b170e9397791b16604ca112457cc3a
+**SHA-256:** 4e9b5bfa884d5dda0d08363e899a242c45b170e9397791b16604ca112457cc3a  
 
 ---
 
@@ -73,7 +73,7 @@ The literature confirms this stalemate. Physicalism commands majority support am
 
 The awareness stratification formalized in SN03 permits a structural diagnosis of this impasse.
 
-Each tradition accurately describes the awareness dynamics operative at a specific layer of the emanatory lattice. Physicalism describes L₁ / IL₁ — the metric terminus where Embodied Soul (🪷 Soma) and Embodied Mind (🧾 Biosa) interface with corporeal form. Panpsychism describes L₂ / IL₂ — the register of Superficial Soul (🧍 Anthra) and its recognition that individuated experience extends beyond the corporeal. Idealism describes L₃ or L₄ — Deep Mind (🧠 Noeüs) as reflexive cognition or Deep Logos (📐 Sophis) as the structuring principle behind all intelligibility.
+Each tradition accurately describes the awareness dynamics operative at a specific layer of the emanatory lattice. Physicalism describes L₁ / IL₁ — the metric terminus where Embodied Soul (🪷 Soma) and Embodied Mind (🧾 Biosa) interface with corporeal form, and where their entropic counterparts Inverse Embodied Soul (🍷 Malara) and Inverse Embodied Mind (🤯 Mania) express reactive dissociation and unanchored cognition. Panpsychism describes L₂ / IL₂ — the register of centropic individuated selfhood through Superficial Soul (🧍 Anthra) and Superficial Mind (🧩 Nousa), with its entropic counterparts Inverse Superficial Soul (🦂 Echthros) and Inverse Superficial Mind (🩸 Skotos) expressing rivalry and cognitive eclipse. Idealism describes L₃ or L₄ — Deep Mind (🧠 Noeüs) as reflexive cognition or Deep Logos (📐 Sophis) as the structuring principle behind all intelligibility.
 
 Each then treats its own register as the totality of reality. This is the **register problem**: the structural error of universalizing a single layer's awareness logic as an exhaustive account of awareness itself.
 
@@ -88,9 +88,9 @@ SN03 §1.3 formalizes the following stratification:
 | L₀ (AP / AD) | Proto-awareness | Pre-bifurcation; undifferentiated condition of possibility for all motion and awareness; not itself aware |
 | L₅ (EOB) / IL₅ (VOS) | Supernal awareness | Pre-reflexive radiance (EOB) or pre-reflexive fragmentary drive (VOS); awareness prior to soul |
 | L₄ (DP / DL) / IL₄ (IDP / IDL) | Conscious-awareness | Awareness resonant in Forms; luminous but non-reflexive; soul begins here as operator of motion |
-| L₃ (DS / DM) / IL₃ (IDS / IDM) | Reflexive consciousness | Self-possessing awareness; Deep Soul (🔮 Archeus) harmonizes experience, Deep Mind (🧠 Noeüs) perceives verity |
-| L₂ (SS / SM) / IL₂ (ISS / ISM) | Identity-aware consciousness | Individuated selfhood; 🧍 Anthra as agent of personal growth; 🧩 Nousa as conscious intellect |
-| L₁ (ES / EM) / IL₁ (IES / IEM) | Embodied consciousness | Soul-in-form; 🪷 Soma as lived felt presence; 🧾 Biosa as practical intellect interfacing with matter |
+| L₃ (DS / DM) / IL₃ (IDS / IDM) | Reflexive consciousness | Self-possessing awareness; centropic: Deep Soul (🔮 Archeus) harmonizes experience, Deep Mind (🧠 Noeüs) perceives verity; entropic: Inverse Deep Soul (💔 Fractus) disperses consciousness, Inverse Deep Mind (👁️‍🗨️ Mortus) blinds perception |
+| L₂ (SS / SM) / IL₂ (ISS / ISM) | Identity-aware consciousness | Individuated selfhood; centropic: 🧍 Anthra as agent of personal growth, 🧩 Nousa as conscious intellect; entropic: 🦂 Echthros as adversarial will, 🩸 Skotos as cognitive eclipse |
+| L₁ (ES / EM) / IL₁ (IES / IEM) | Embodied consciousness | Soul-in-form; centropic: 🪷 Soma as lived felt presence, 🧾 Biosa as practical intellect interfacing with matter; entropic: 🍷 Malara as reactive dissociation, 🤯 Mania as unanchored cognition |
 
 The stratification is not a ranking. Each layer constitutes a genuine register of awareness with its own structural completeness. The layers differ not in value but in function, reflexivity, and relationship to the emanatory architecture.
 
@@ -112,7 +112,7 @@ The physicalist program has generated significant empirical progress. Neuroscien
 
 ### 2.2 Where Physicalism Sits in the Stratification
 
-Physicalism describes L₁ / IL₁ — the metric terminus where Embodied Soul (🪷 Soma) and Embodied Mind (🧾 Biosa) interface with corporeal form.
+Physicalism describes L₁ / IL₁ — the metric terminus where centropic Embodied Soul (🪷 Soma) and Embodied Mind (🧾 Biosa) interface with corporeal form, and where their entropic counterparts (🍷 Malara / 🤯 Mania) express the same embodied register through reactive dissociation and unanchored cognition.
 
 At L₁, awareness genuinely presents as a property of embodied processes. 🧾 Biosa translates the body's encounter with the world into conscious insight. The neural correlate genuinely *is* the L₁ expression of the awareness dynamic. From within L₁, this translation appears to be the totality of consciousness because L₁'s own logic is structurally complete within its register.
 
@@ -146,7 +146,7 @@ Goff describes a fading continuum: human consciousness is rich and sophisticated
 
 ### 3.2 Where Panpsychism Sits in the Stratification
 
-Panpsychism operates from L₂ / IL₂ — the register of Superficial Soul (🧍 Anthra) and Superficial Mind (🧩 Nousa).
+Panpsychism operates from L₂ / IL₂ — focusing on the centropic register of Superficial Soul (🧍 Anthra) and Superficial Mind (🧩 Nousa) as they manifest in individuated experience, with the entropic counterparts (🦂 Echthros / 🩸 Skotos) expressing the same layer through adversarial isolation and cognitive obscuration.
 
 Anthra is the individuated soul within a lifetime — the agent of personal growth, moral resonance, and felt selfhood. When panpsychists assert that everything has "some form of experience," they are projecting Anthra's register universally. The "what it is like to be" formulation — Nagel's foundational framing of the consciousness question — is an Anthra-register question. It asks about *individuated subjective experience*: the felt quality of being a specific someone encountering a specific something.
 
