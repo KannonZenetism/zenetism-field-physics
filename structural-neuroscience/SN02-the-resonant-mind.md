@@ -38,7 +38,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# The Resonant Mind — Structural Neuroscience and the Law of Cognition  
+# SN02 — The Resonant Mind: Structural Neuroscience and the Law of Cognition  
 **Aelion Kannon**  
 *Oct 15 2025*   
 
