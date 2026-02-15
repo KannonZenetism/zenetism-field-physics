@@ -138,7 +138,7 @@ None of this invalidates physicalism within its register. The neural correlates 
 
 ### 3.1 What Panpsychism Claims
 
-Panpsychism holds that mentality is fundamental and ubiquitous. Consciousness is not a late emergence from complex physical arrangements but a basic feature of reality present in some form at every level — from human brains to fundamental particles. As Philip Goff formulates it, the fundamental building blocks of reality possess extremely rudimentary forms of conscious experience reflecting their simple nature.
+Panpsychism holds that mentality is fundamental and ubiquitous. Consciousness is not a late emergence from complex physical arrangements but a basic feature of reality present in some form at every layer — from human brains to fundamental particles. As Philip Goff formulates it, the fundamental building blocks of reality possess extremely rudimentary forms of conscious experience reflecting their simple nature.
 
 The panpsychist sees that physicalism has failed to derive consciousness from inert matter and proposes an alternative: matter was never inert. Experience goes "all the way down." The particle does not merely behave according to mathematical equations — it has an intrinsic nature, and that nature is experiential.
 
