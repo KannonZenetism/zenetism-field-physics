@@ -158,7 +158,7 @@ The panpsychist diagnosis involves a conflation across three registers:
 
 **What they observe:** Particles in motion at L₁. Physical matter (🪷 Soma / 🧾 Biosa register) behaving with lawful regularity.
 
-**What they intuit:** That something more than inert substance is involved. This intuition is veracious. Motion at L₁ is enabled by a condition that is not reducible to L₁ mechanics — Spirit (🕊️), the proto-awareness principle at L₀, which is the condition of possibility for all motion whatsoever. The old Hermetic axiom — "everything moves, everything vibrates" — is structurally sound: Spirit as Motive Infinity enables all motion across all layers.
+**What they intuit:** That something more than inert substance is involved. This intuition is veracious. Motion at L₁ is enabled by a condition that is not reducible to L₁ mechanics — Spirit (🕊️ Motive Infinity), the motive principle originating at L₀, which is the condition of possibility for all motion whatsoever. The old Hermetic axiom — "everything moves, everything vibrates" — is structurally sound: Spirit as Motive Infinity enables all motion across all layers.
 
 **What they attribute:** Individuated experience (🧍 Anthra, L₂) to particles (L₁ matter). But when pressed to specify what this "experience" consists of for a particle, panpsychists describe something that slides from Anthra (individuated selfhood) toward Soma (bare felt presence in form). Goff's "extremely rudimentary forms of conscious experience" is closer to Soma — the soul as lived, felt, and enduring — than to Anthra — the agent of personal growth and resonance.
 
@@ -195,7 +195,7 @@ The structural element the panpsychist lacks is the membrane architecture. Betwe
 
 ### 3.5 The Panpsychist Contribution
 
-Panpsychism sees something that physicalism refuses to see: that awareness is not confined to the corporeal. The intuition that matter is not inert — that motion itself implies something more than mechanical arrangement — is structurally veracious. What the lattice corrects is not the intuition but the identification. What animates motion at L₁ is not individuated experience projected downward from L₂ but the proto-awareness principle at L₀ (Spirit / Motive Infinity) whose radiative condition makes all motion possible, expressed operationally through soul from L₄ onward. Panpsychism's contribution is the refusal to accept that the metric terminus exhausts reality. Its limitation is that it universalizes one register's experience rather than recognizing the full stratification.
+Panpsychism sees something that physicalism refuses to see: that awareness is not confined to the corporeal. The intuition that matter is not inert — that motion itself implies something more than mechanical arrangement — is structurally veracious. What the lattice corrects is not the intuition but the identification. What animates motion at L₁ is not individuated experience projected downward from L₂ but Spirit (🕊️ Motive Infinity), the motive principle originating at L₀, whose radiative condition makes all motion possible, expressed operationally through soul from L₄ onward. Panpsychism's contribution is the refusal to accept that the metric terminus exhausts reality. Its limitation is that it universalizes one register's experience rather than recognizing the full stratification.
 
 ---
 
