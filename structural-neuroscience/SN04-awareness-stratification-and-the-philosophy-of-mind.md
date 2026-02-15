@@ -230,7 +230,7 @@ This explains why idealism often appears more penetrating than its rivals in dia
 
 Idealism, whether formal or reflexive, still treats a single layer as exhaustive.
 
-Formal idealism (L₄) does not account for what is supernal to DP / DL — the Essence of Being (EOB) at L₅, where awareness is pre-formal radiance rather than structured intelligibility; Absolute Potential / Absolute Dispersion (AP / AD) at L₀, where the dyadic root holds centropy and entropy in latency; the Unknown Principle (UP) at Supra-L₀, which is not a form but the condition of possibility for form itself. The Forms are not ultimate — they are themselves emanations.
+Formal idealism (L₄) does not account for what is supernal to DP / DL — the Essence of Being (EOB) at L₅, where awareness is pre-formal radiance rather than structured intelligibility; Absolute Potential / Absolute Dispersion (AP / AD) at L₀, where the dyadic root holds centropy and entropy in latency; the Unknown Principle (UP) at Supra-L₀, which is not a form but the meta-condition of form itself. The Forms are not ultimate — they are themselves emanations.
 
 Reflexive idealism (L₃) does not account for the Form-layer (L₄) from which its own reflexive capacity derives. DS / DM operates *within* the conditions of intelligibility established by DP / DL. Kastrup's "transpersonal stream" accurately describes the DS / DM field but does not explain the archetypal architecture that gives that stream its structure.
 
