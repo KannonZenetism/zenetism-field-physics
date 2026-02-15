@@ -47,6 +47,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Status:** Canonical Draft v1.0  
 **Dependencies:** SN01 (Foundational Cognitive Architecture), SN02 (Structural Psychodynamics), SN03 (Neurodivergent Cognition and the Architecture of Awareness), SP06 (Structural Space, Orientation, and the Paradox of Emergence), SP11 (Embodiment Dynamics)  
 **License:** Creative Commons BY-NC-SA 4.0  
+**SHA-256:** 4e9b5bfa884d5dda0d08363e899a242c45b170e9397791b16604ca112457cc3a
 
 ---
 
