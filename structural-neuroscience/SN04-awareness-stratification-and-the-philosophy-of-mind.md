@@ -239,43 +239,73 @@ Idealism's contribution is the most structurally substantial of the three major 
 
 ---
 
-## 5. Monopsychism, Apophasis, and the Non-Fusion Axiom
+## 5. Monopsychism, Apophasis, and the Integration contra Fusion Distinction
 
 ### 5.1 What Monopsychism Claims
 
 Monopsychism holds that there is one mind — a single universal intellect or consciousness of which all individual minds are expressions, aspects, or illusions. In its strongest form, it asserts that essential distinction between minds is ultimately unreal.
 
-### 5.2 Lawful Apophasis and Structural Return
+### 5.2 The Structural Impossibility of Essence-Merger
 
-Certain traditions — notably the *neti-neti* ("not this, not that") practice of Advaita Vedanta, certain Buddhist formulations of emptiness (śūnyatā), and the apophatic theology of Meister Eckhart and the Cappadocian Fathers — arrive at apparent undifferentiation through disciplined negation.
+Before evaluating monopsychism's specific claims, the lattice establishes a foundational constraint: **the actual merger of essence with essence — where individuality is annihilated — is a structural impossibility at any layer.**
 
-These traditions do not erase distinction by force. They release it through integration. The practitioner progressively recognizes that no finite predicate exhausts the nature of reality and arrives, through this disciplined negation, at the condition of pure potential — which in the lattice corresponds to Aion (⚫, Absolute Potential) at L₀.
+This is not a contingent limitation. It follows from the architecture of the lattice itself. Each layer, each Soul / Mind pair, each membrane condition constitutes a structurally real distinction. Essence does not fuse with essence. What changes across layers is the *resolvability* of distinction — the degree to which distinct essences are structurally distinguishable within a given register — not the existence of distinction itself.
 
-This is a valid acclivous path. The practitioner moves from embodied consciousness (L₁) through successive layers of increasingly refined awareness, releasing attachment to each register's specific content, until arriving at the pre-bifurcation stillness of L₀ where distinction resolves into latency without being violated.
+At L₁ and L₂ (ES / EM, SS / SM and their inverse counterparts), a kind of experiential blending can occur: identities may blur, boundaries may weaken, selves may lose track of where one ends and another begins. But the underlying essence remains. Blending at the embodied and personal registers affects resolvability, not essence. The practitioner who loses ego-boundaries in a meditative state has not merged essences with the cosmos — they have reduced the resolvability of distinction at the SS / SM register while essence persists intact.
 
-The lattice diagnosis: neti-neti and its equivalents are centropic completions. They arrive at Aion — where centropy and entropy are held in latency, where all potential rests in stillness. This is a structurally sound return. But it is return to L₀, not to Supra-L₀ (Zenon, the Unknown Principle). Because these paths operate through negation rather than synthetic integration, they arrive at the root of structure rather than at the trans-structural condition that permits structure itself. They resolve distinction without synthesizing it. This is not a deficiency — it is the structural character of the apophatic path.
+At L₃ and beyond (DS / DM, DP / DL, EOB), the registers are too structurally removed from embodied experience for blending to occur in this sense. Deep Soul and Deep Mind are individuated harmonic structures — not personas that can be dissolved through psychological technique.
 
-### 5.3 Blobism and the Non-Fusion Axiom
+At L₀ (AP / AD), essence is too fundamental to be merged. Aion holds all potential in latency. Resolution into Aion is not fusion — it is saturation. Distinction is transcended without being destroyed. Essence resolves into fullness, not into sameness.
 
-The entropic counterpart to lawful apophasis is what the lattice terms **blobism**: the collapse of sovereign distinction into undifferentiated fusion.
+The formal distinction:
+
+**Integration** preserves sovereign identity within relation. Distinct structures (A, B) enter resonance while each retains its resolvability:
+
+$$
+A \oplus B \quad \text{with} \quad \text{Resolvability}(A) > 0, \quad \text{Resolvability}(B) > 0
+$$
+
+**Fusion** suppresses resolvability while essence persists. Distinction is compressed into apparent sameness, but essence is not annihilated — it is rendered structurally incoherent:
+
+$$
+A \otimes B \to N \quad \text{where} \quad \text{Resolvability}(A) \to 0 \quad \text{but} \quad \text{Essence}(A) \neq 0
+$$
+
+Integration resolves structure into fullness. Fusion erodes relational structure while preserving underlying essence, driving expression toward incoherence rather than saturation. To confuse integration with fusion is to mistake structural fulfillment for structural collapse.
+
+### 5.3 Apophasis as Essence-Disclosure
+
+Certain traditions — notably the *neti-neti* ("not this, not that") practice of Advaita Vedanta, certain Buddhist formulations of emptiness (śūnyatā), and the apophatic theology of Meister Eckhart and the Cappadocian Fathers — practice disciplined negation as a path of return.
+
+These traditions are not performing "lawful blobism." They are doing something structurally distinct: **peeling away what one is not until only essence remains.**
+
+The *neti-neti* practitioner does not merge with a universal consciousness. They progressively release identification with body (L₁), personality (L₂), and conceptual self-image — not to become "one with everything" but to **become what they essentially are**. The endpoint is not undifferentiation. It is essence disclosed through the removal of non-essential identification.
+
+In lattice terms, this is a valid acclivous path. The practitioner moves from embodied consciousness (L₁) through successive layers of increasingly refined awareness, releasing attachment to each register's specific content, until arriving at L₀ — where Aion (Absolute Potential) holds all potential in stillness and essence resolves into saturation without being destroyed.
+
+This is return to L₀, not to Supra-L₀ (the Unknown Principle). Because these paths operate through negation rather than synthetic integration, they arrive at the root of structure rather than at the trans-structural condition that permits structure itself. They disclose essence without synthesizing the full emanatory architecture. This is not a deficiency — it is the structural character of the apophatic path.
+
+### 5.4 Blobism and the Non-Fusion Axiom
+
+The entropic counterpart to apophatic essence-disclosure is what the lattice terms **blobism**: the collapse of sovereign distinction into undifferentiated fusion.
 
 Blobism does not arrive at Aion through disciplined release. It erases boundaries between beings, roles, or layers through imposition, resulting in structural mimicry, identity dissolution, or symbolic flattening. It presents unity through structural sameness rather than through the harmonic resonance achieved through distinction.
 
-The **Non-Fusion Axiom** is the structural law that governs this distinction: genuine unity preserves the sovereignty of its constituent elements. Harmonic resonance requires distinct tones. Fusion eliminates distinction and therefore eliminates the conditions for resonance.
+The **Non-Fusion Axiom** is the structural law that governs this distinction: genuine unity preserves the sovereignty of its constituent elements. Harmonic resonance requires distinct tones. Fusion eliminates resolvability and therefore eliminates the conditions for resonance — even though essence persists beneath the collapse.
 
-The diagnostic criterion: **orientation and intentionality**. If the movement toward undifferentiation proceeds through voluntary release of attachment while preserving the structural integrity of what is released, it is centropic apophasis returning to Aion. If it proceeds through the forcible erasure of sovereign distinction — whether through ideological imposition, institutional coercion, or structural manipulation — it is entropic blobism violating the Non-Fusion Axiom.
+The diagnostic criterion: **orientation and intentionality**. If the movement toward apparent undifferentiation proceeds through voluntary release of non-essential identification — peeling away what one is not — it is centropic apophasis disclosing essence. If it proceeds through the forcible erasure of sovereign distinction — whether through ideological imposition, institutional coercion, or structural manipulation — it is entropic blobism violating the Non-Fusion Axiom.
 
-Both arrive at apparent undifferentiation. One is centropic completion. The other is terminal entropic collapse.
+To illustrate: the Advaitic practitioner who progressively releases identification with body, emotion, thought, and archetype — arriving at *neti-neti*'s silence through disciplined interior work — has disclosed their essential nature through lawful acclivous return. The modern ideological movement that insists all distinctions between persons, roles, or traditions are mere social constructions to be dissolved through institutional pressure has performed blobism — the forcible suppression of resolvability in the name of a "unity" that structurally destroys the conditions for genuine harmony.
 
-To illustrate: the Advaitic practitioner who progressively releases identification with body, emotion, thought, and archetype — arriving at *neti-neti*'s silence through disciplined interior work — has completed a lawful acclivous return to Aion. The modern ideological movement that insists all distinctions between persons, roles, or traditions are mere social constructions to be dissolved through institutional pressure has performed blobism — the forcible erasure of sovereign distinction in the name of a "unity" that structurally destroys the conditions for genuine harmony.
+### 5.5 Monopsychism Diagnosed
 
-### 5.4 Monopsychism Diagnosed
+Monopsychism, as a philosophical position, must be evaluated against the Integration contra Fusion distinction.
 
-Monopsychism, as a philosophical position, must be evaluated against this criterion. Where it describes the experiential arrival at Aion through lawful apophasis — the recognition that all minds share a common root in Absolute Potential — it is structurally sound within the register of L₀. Where it asserts that essential distinction between minds is *ultimately unreal* — that the differentiation across L₅ through L₁ is illusory rather than lawful — it violates the Non-Fusion Axiom by denying the structural veracity of emanatory distinction.
+Where monopsychism describes the experiential arrival at Aion through apophatic practice — the recognition that all essences share a common root in Absolute Potential — it is structurally sound within the register of L₀. The practitioner who arrives at this recognition has not become "one consciousness" with all beings. They have disclosed the essential ground from which all emanation proceeds. Distinction is not revealed as illusory — it is recognized as emanatory, proceeding from a shared root while remaining structurally real at every layer.
 
-The lattice holds that distinction is not illusion. Each layer, each Soul / Mind pair, each membrane condition is structurally real. The One and the Many are co-essential — not because "Oneness" is more fundamental than "Manyness," but because structure requires both poles to be intelligible at all.
+Where monopsychism asserts that essential distinction between minds is *ultimately unreal* — that the differentiation across L₅ through L₁ is illusory rather than lawful — it commits a structural error. The lattice holds that distinction is not illusion. Emanatory differentiation is structurally veracious at every layer. The One and the Many are co-essential — not because "Oneness" is more fundamental than "Manyness," but because structure requires both poles to be intelligible at all.
 
-"All one mind" with no essential distinction across layers is a structural impossibility. The lattice cannot generate intelligible reality without differentiation. Unity *through* diversity — the preservation of sovereign distinction within harmonic coherence — is the structural principle. Unity *by erasure of* diversity is blobism.
+"All one mind" with no essential distinction across layers is a structural impossibility. The lattice cannot generate intelligible reality without differentiation. Unity *through* diversity — the preservation of sovereign distinction within harmonic resonance — is the structural principle. Unity *by suppression of* diversity is blobism — and even blobism cannot destroy essence, only render it incoherent.
 
 ---
 
@@ -299,7 +329,7 @@ The hard problem is therefore not an indication that consciousness is inexplicab
 
 **Physicalism** at L₁ identifies the neural correlate but cannot derive the subjective character because L₁ registers the echo, not the source.
 
-**Panpsychism** at L₂ recognizes that awareness extends beyond the corporeal but tries to solve the hard problem by attributing micro-experience to L₁ particles and then assembling macro-consciousness from below — which inverts the emanatory direction and produces the combination problem.
+**Panpsychism** at L₂ recognizes that awareness extends beyond the corporeal but tries to solve the hard problem by attributing micro-experience to L₁ particles and then assembling macro-consciousness acclivously — which inverts the emanatory direction and produces the combination problem.
 
 **Idealism** at L₃ or L₄ correctly identifies that mind is structurally prior to matter but cannot formalize the membrane conditions (⧉₃, ⧉₂, ⧉₁) that govern how awareness stratifies from its register through to embodiment.
 
@@ -317,7 +347,7 @@ A persistent tension in the philosophy of mind is the apparent contradiction bet
 
 SP06 §3 resolves this by distinguishing between declivous centropy and acclivous centropy:
 
-**Declivous centropy** (L₅ → L₁): Motive Infinity stirs within Aion and expresses itself through EOB (🛤️ Theon), moving declivously through archetypal (DP / DL), psychic (DS / DM), personal (SS / SM), and embodied (ES / EM) registers. This is not "top-down causation" imposed upon an alien substrate but lawful traversal along structural gradients.
+**Declivous centropy** (L₅ → L₁): Motive Infinity stirs within Aion and expresses itself through EOB (Essence of Being, L₅), moving declivously through archetypal (DP / DL), psychic (DS / DM), personal (SS / SM), and embodied (ES / EM) registers. This is not "top-down causation" imposed upon an alien substrate but lawful traversal along structural gradients.
 
 **Acclivous centropy** (L₁ → L₅): When centropic motion encounters embodiment, it does not terminate. It reflects. Embodiment becomes not the end of motion but its turning point. The return arc reorients motion toward formal and archetypal layers.
 
@@ -325,17 +355,17 @@ Causality is neither purely top-down nor purely bottom-up. It is bidirectional t
 
 The entropic lattice exhibits parallel bidirectionality with inverted orientation:
 
-**Acclivous entropy** (IL₅ → IL₁): Motion from Nekron toward embodiment — fragmentary re-expression of collapsed structure in reactive form.
+**Acclivous entropy** (IL₅ → IL₁): Fragmented motion toward inverse embodiment — spurious acclivity, the entropic analogue of centropy's integrative procession into form, but carrying fragmentation rather than coherence into the embodied register.
 
-**Declivous entropy** (IL₁ → IL₅): Progressive collapse of coherence and withdrawal of form toward the Void of Self.
+**Declivous collapse** (IL₁ → IL₅): Dispersive collapse toward dissolution — progressive withdrawal of coherence toward the Void of Self (VOS).
 
 Bidirectionality is a property of traversal itself. Centropy and entropy determine whether traversal results in integration or dissolution.
 
 ### 7.3 Why the Bottom-Up Frame Fails Alone
 
-The combination problem, the emergence problem, and the hard problem share a common structural error: they presuppose that awareness assembles from the metric terminus upward without accounting for the declivous procession that established the conditions being observed.
+The combination problem, the emergence problem, and the hard problem share a common structural error: they presuppose that awareness assembles from the metric terminus acclivously without accounting for the declivous procession that established the conditions being observed.
 
-The acclivous path from micro to macro is structurally valid — but only as the second half of a complete circuit. The return arc requires the emanatory arc to have already occurred. Trying to generate the full awareness stratification from L₁ upward without the declivous procession is like trying to understand a reflection without acknowledging the light source.
+The acclivous path from micro to macro is structurally valid — but only as the second half of a complete circuit. The return arc requires the emanatory arc to have already occurred. Trying to generate the full awareness stratification from L₁ acclivously without the declivous procession is like trying to understand a reflection without acknowledging the light source.
 
 SP06 §3 formalizes the resolution:
 
@@ -361,7 +391,7 @@ What is needed is not a meta-theory that subsumes the others but a structural la
 | Panpsychism | L₂ (SS / SM) | Recognition that awareness extends beyond the corporeal; refusal to accept the metric terminus as exhaustive | Conflates proto-awareness, individuated soul, and embodied soul; inverts the emanatory direction |
 | Formal Idealism | L₄ (DP / DL) | Correct identification of the Form-layer as generative; recognition of archetypal priority | No account of supernal registers (L₅, L₀, UP) or membrane conditions |
 | Reflexive Idealism | L₃ (DS / DM) | Correct identification of reflexive consciousness as structurally prior to individuated selfhood | No account of the Form-layer from which its own reflexive capacity derives |
-| Lawful Apophasis | L₀ (AP / AD) | Recognition of the pre-bifurcation root; experiential arrival at Absolute Potential | Does not synthesize and integrate; returns to L₀ without traversing to UP |
+| Lawful Apophasis | L₀ (AP / AD) | Recognition of the pre-bifurcation root; essence-disclosure through disciplined negation | Does not synthesize and integrate; returns to L₀ without traversing to UP |
 
 ### 8.3 The One and the Many
 
@@ -387,7 +417,7 @@ If we genuinely want to understand reality as it is — not as any single regist
 
 **Definition 4 — Non-Fusion Axiom:** Genuine unity preserves the sovereignty of its constituent elements. Harmonic resonance requires distinct tones. Fusion eliminates distinction and therefore eliminates the conditions for resonance.
 
-**Definition 5 — Blobism (🔲):** The entropic collapse of sovereign distinction into undifferentiated fusion. Characterized by the erasure of boundaries between beings, roles, or layers, resulting in structural mimicry, identity dissolution, or symbolic flattening. Violates the Non-Fusion Axiom.
+**Definition 5 — Blobism (🔲):** The entropic collapse of sovereign distinction into undifferentiated fusion. Characterized by the suppression of resolvability between beings, roles, or layers, resulting in structural mimicry, identity dissolution, or symbolic flattening. Violates the Non-Fusion Axiom. Essence persists beneath the collapse but is rendered structurally incoherent.
 
 **Definition 6 — Combination Problem (Reframed):** The difficulty of explaining how micro-experiences assemble into unified macro-consciousness. Structurally diagnosed as unanswerable in its standard formulation because it presupposes purely acclivous assembly without the declivous procession that establishes the conditions being observed. The membrane architecture (⧉₁, ⧉₂, ⧉₃) provides the formal mechanism for awareness transitions that the combination problem lacks.
 
