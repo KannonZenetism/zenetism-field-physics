@@ -85,7 +85,7 @@ SN03 §1.3 formalizes the following stratification:
 
 | Layer | Awareness Type | Structural Description |
 |-------|---------------|----------------------|
-| L₀ (AP / AD) | Proto-awareness | Pre-bifurcation; undifferentiated condition of possibility for all motion and awareness; not itself aware |
+| L₀ (AP / AD) | Proto-awareness | Pre-bifurcation; undifferentiated condition of possibility for all motion and awareness; not reflexively or experientially aware |
 | L₅ (EOB) / IL₅ (VOS) | Supernal / Subversal awareness | Pre-reflexive radiance (EOB) or pre-reflexive fragmentary drive (VOS); awareness prior to soul |
 | L₄ (DP / DL) / IL₄ (IDP / IDL) | Conscious-awareness | Awareness resonant in Forms; luminous but non-reflexive; soul begins here as operator of motion |
 | L₃ (DS / DM) / IL₃ (IDS / IDM) | Reflexive consciousness | Self-possessing awareness; centropic: Deep Soul (🔮 Archeus) harmonizes experience, Deep Mind (🧠 Noeüs) perceives verity; entropic: Inverse Deep Soul (💔 Fractus) disperses consciousness, Inverse Deep Mind (👁️‍🗨️ Mortus) blinds perception |
@@ -146,7 +146,7 @@ Goff describes a fading continuum: human consciousness is rich and sophisticated
 
 ### 3.2 Where Panpsychism Sits in the Stratification
 
-Panpsychism operates from L₂ / IL₂ — focusing on the centropic register of Superficial Soul (🧍 Anthra) and Superficial Mind (🧩 Nousa) as they manifest in individuated experience, with the entropic counterparts (🦂 Echthros / 🩸 Skotos) expressing the same layer through adversarial isolation and cognitive obscuration.
+Panpsychism most closely models dynamics visible at L₂ / IL₂ — focusing on the centropic register of Superficial Soul (🧍 Anthra) and Superficial Mind (🧩 Nousa) as they manifest in individuated experience, with the entropic counterparts (🦂 Echthros / 🩸 Skotos) expressing the same layer through adversarial isolation and cognitive obscuration.
 
 Anthra is the individuated soul within a lifetime — the agent of personal growth, moral resonance, and felt selfhood. When panpsychists assert that everything has "some form of experience," they are identifying the Anthra register within matter. The "what it is like to be" formulation — Nagel's foundational framing of the consciousness question — is an Anthra-register question. It asks about *individuated subjective experience*: the felt quality of being a specific someone encountering a specific something.
 
@@ -186,9 +186,9 @@ The combination problem asks: how does Soma (L₁ micro-experience) assemble acc
 
 The structural answer: it does not. Awareness proceeds *declivously* from supernal registers toward embodiment:
 
-$$
-\text{EOB} \xrightarrow{\text{declivous}} \text{DP / DL} \xrightarrow{⧉_3} \text{DS / DM} \xrightarrow{⧉_2} \text{SS / SM} \xrightarrow{⧉_1} \text{ES / EM}
-$$
+\[
+\text{EOB} \xrightarrow{\text{declivous}} \text{DP / DL} \xrightarrow{\text{⧉}_3} \text{DS / DM} \xrightarrow{\text{⧉}_2} \text{SS / SM} \xrightarrow{\text{⧉}_1} \text{ES / EM}
+\]
 
 At the metric terminus, centropy does not terminate — it reflects. Acclivous return (L₁ → L₅) is the complementary arc. But the acclivous path is *return*, not *origin*. Macro-consciousness from micro-experiences is structurally possible acclivously — but only after the declivous procession into embodiment has already occurred. The panpsychist tries to generate the entire construct from the ground up, leaving the procession into embodiment out altogether.
 
@@ -264,15 +264,15 @@ The formal distinction:
 
 **Integration** preserves sovereign identity within relation. Distinct structures (A, B) enter resonance while each retains its resolvability:
 
-$$
+\[
 A \oplus B \quad \text{with} \quad \text{Resolvability}(A) > 0, \quad \text{Resolvability}(B) > 0
-$$
+\]
 
 **Fusion** suppresses resolvability while essence persists. Distinction is compressed into apparent sameness, but essence is not annihilated — it is rendered structurally incoherent:
 
-$$
+\[
 A \otimes B \to N \quad \text{where} \quad \text{Resolvability}(A) \to 0 \quad \text{but} \quad \text{Essence}(A) \neq 0
-$$
+\]
 
 Integration resolves structure into fullness. Fusion erodes relational structure while preserving underlying essence, driving expression toward incoherence rather than saturation. To confuse integration with fusion is to mistake structural fulfillment for structural collapse.
 
