@@ -86,7 +86,7 @@ SN03 §1.3 formalizes the following stratification:
 | Layer | Awareness Type | Structural Description |
 |-------|---------------|----------------------|
 | L₀ (AP / AD) | Proto-awareness | Pre-bifurcation; undifferentiated condition of possibility for all motion and awareness; not itself aware |
-| L₅ (EOB) / IL₅ (VOS) | Supernal awareness | Pre-reflexive radiance (EOB) or pre-reflexive fragmentary drive (VOS); awareness prior to soul |
+| L₅ (EOB) / IL₅ (VOS) | Supernal / Subversal awareness | Pre-reflexive radiance (EOB) or pre-reflexive fragmentary drive (VOS); awareness prior to soul |
 | L₄ (DP / DL) / IL₄ (IDP / IDL) | Conscious-awareness | Awareness resonant in Forms; luminous but non-reflexive; soul begins here as operator of motion |
 | L₃ (DS / DM) / IL₃ (IDS / IDM) | Reflexive consciousness | Self-possessing awareness; centropic: Deep Soul (🔮 Archeus) harmonizes experience, Deep Mind (🧠 Noeüs) perceives verity; entropic: Inverse Deep Soul (💔 Fractus) disperses consciousness, Inverse Deep Mind (👁️‍🗨️ Mortus) blinds perception |
 | L₂ (SS / SM) / IL₂ (ISS / ISM) | Identity-aware consciousness | Individuated selfhood; centropic: 🧍 Anthra as agent of personal growth, 🧩 Nousa as conscious intellect; entropic: 🦂 Echthros as adversarial will, 🩸 Skotos as cognitive eclipse |
