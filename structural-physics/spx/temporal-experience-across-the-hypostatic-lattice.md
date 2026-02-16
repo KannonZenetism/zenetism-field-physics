@@ -446,7 +446,7 @@ IL₁ time is time falling apart. Not the steady tick of L₁'s clock, but the c
 | L₄ | 🌬️ / 📐 | Archetypal simultude | Rhythmic recurrence | Structural ordering |
 | IL₄ | 🪫 / 🫥 | Distorted recurrence | Devitalized recurrence | Structural erosion |
 | L₃ | 🔮 / 🧠 | Integrative simultaneity | Continuity across expressions | Pattern recognition / Proleptic Echo |
-| IL₃ | 💔 / 👁️‍🗨️ | Fragmented simultaneity | Discontinuity / memory fracture | Misrecognition / false pattern |
+| IL₃ | 💔 / 👁️‍🗨️ | Fragmented simultaneity | Discontinuity / memory fracture | Misrecognition / spurious pattern |
 | L₂ | 🧍 / 🧩 | Episodic narrative | Emotional narrative | Logical sequence |
 | IL₂ | 🦂 / 🩸 | Reactive compulsion | Adversarial repetition | Rationalized recursion |
 | L₁ | 🪷 / 🧾 | Linear duration | Bodily rhythm | Procedural sequence |
