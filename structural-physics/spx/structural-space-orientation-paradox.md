@@ -15,7 +15,7 @@
 >  
 > This SPX document is retained for archival and historical traceability only.
 
-# SPX — Structural Space, Orientation, and the Paradox of Emergence
+# SPX: Structural Space, Orientation, and the Paradox of Emergence
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics / Zenetist Canon  
