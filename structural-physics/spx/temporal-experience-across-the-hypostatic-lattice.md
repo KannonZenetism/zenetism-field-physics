@@ -43,6 +43,16 @@ C₁ is the specific operator of **integrative time** — time-folding, Prolepti
 
 This explains why embodied time (L₁) feels so different from deep soul time (L₃) — they are governed by entirely different dimensional mechanisms.
 
+> **Note on Proleptic Echo and Broader Temporal Anticipation:**
+> 
+> This document identifies \( C_1 \) (⟠ Temporal) as primary at L₂–L₃, where integrative time-folding and the Proleptic Echo operate most directly. However, the principle of temporal anticipation — the capacity to sense pattern-completion before manifestation — is not strictly confined to \( C_1 \)'s native band.
+> 
+> At L₄ (🌬️ Morgis / 📐 Sophis), the architects of reality — Olympians, Aeons, the Logos of Form, and their entropic counterparts (Titans, Archons, Lucifer as mapped at IL₄) — hold Form in simultude and shape its recurrence. The morphogenetic operator ❋ (\( C_{10} \)) and the aesthetic operator ✧ (\( C_{12} \)), native to L₄, imply a form-generative relationship with temporal expression that is structurally adjacent to Proleptic Echo: not time-folding per se, but form-completion anticipation — the capacity to shape which patterns recur and how they manifest. The beings at L₄ / IL₄ do not merely inhabit archetypal time; they architecturally determine its character.
+> 
+> At L₀ (⚫ Aion / ♾ Khaon), dimensional operators do not yet operate — they exist in latency. However, Motive Infinity (\( \Phi^2 \)) exists outside sequence in L₀'s multiversal time while containing what we experience as past and present. As the source of all motion, contact with the \( \Phi^2 \) field could influence future states — not through foresight or temporal causation, but through resonance with a motion-source that already holds the temporal content we experience as sequential. \( C_1 \)'s Proleptic Echo at L₃ is the hypostatic instantiation of a principle already latent in this motive current.
+> 
+> Thus: L₀ holds temporal anticipation as latent essence (\( \Phi^2 \)) — outside sequence, containing past and present, capable of influencing future states through field-contact. L₄ expresses it as form-generative architecture (❋ / ✧). L₃ instantiates it as integrative time-folding (\( C_1 \) / ⟠). L₂ constrains it within episodic narrative. L₁ loses access to it entirely. The Proleptic Echo is \( C_1 \)'s specific operator, but the deeper principle it enacts — pattern-completion recognition — pervades the lattice in mode-appropriate forms.
+
 ### 1.3 Note on Universes and Trajectories
 
 Each universe possesses a singular trajectory — not multiple "timelines" branching within it. Where this document references access to other temporal expressions, this denotes cross-universal access via the Tumbling Multiverse model, in which universes sprout in all directions from ⚫ Aion via the medium of 🕊️ Motive Infinity. Traversal between universes is structurally possible, as is traversal between hypostatic layers (as in angel visitation, daemonic encounter, or other cross-layer phenomena).
