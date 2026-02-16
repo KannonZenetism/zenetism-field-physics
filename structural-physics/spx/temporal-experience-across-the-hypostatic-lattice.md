@@ -112,7 +112,7 @@ This is not stasis. It is **unmoved motion** — the paradox of a state that is 
 🛤️ Theon administers the operators native to the Threshold Band:
 
 - **◐ (C₆ Phase/Liminal):** Time as phase-state — the eternal present as a state of complete saturation, neither entering nor leaving. ◐ at L₅ means the phase is resolved rather than transitional; it is fullness holding itself open.
-- **║ (C₁₃ Membrane/Threshold):** 🛤️ Theon is the living steward of the membrane law (per LM01), not the membrane itself. The temporal boundary between latent time (L₀) and expressed time (L₄ and beyond) is administered by Theon. He regulates which temporal expressions may cross the threshold via the seal index \( \sigma \) and recursion contraction \( \gamma \).
+- **║ (C₁₃ Membrane/Threshold):** 🛤️ Theon is the living steward of the membrane law (per LM01), not the membrane itself. The temporal boundary between latent time (L₀) and expressed time (L₄ and beyond) is administered by Theon. Theon regulates which temporal expressions may cross the threshold via the seal index \( \sigma \) and recursion contraction \( \gamma \).
 - **⊡ (C₁₄ Nested/Recursive):** Time as recursion without sequence — all temporal expressions nested within the eternal present, lawfully contained without needing to unfold linearly.
 - **✦ (C₁₅ Emergent/Novel):** The eternal present as perpetually fresh — not stale eternity but living novelty that never exhausts itself.
 
