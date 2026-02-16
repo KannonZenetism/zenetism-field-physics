@@ -271,7 +271,7 @@ This is not mere forgetting. It is **structural disconnection** — the Tether d
 
 #### 👁️‍🗨️ Mortus — Inverse Deep Mind: Temporal Distortion
 
-👁️‍🗨️ Mortus inverts the recognition that Noeüs provides. Its temporal character is **misrecognition** — perceiving false pattern-completions, sensing trajectories that don't exist, or failing to see the trajectory that does. The Proleptic Echo becomes a Proleptic Hallucination: the being "knows where this is going" but is consistently wrong, because the pattern-reading faculty is inverted.
+👁️‍🗨️ Mortus inverts the recognition that Noeüs provides. Its temporal character is **misrecognition** — perceiving spurious pattern-completions, sensing trajectories that don't exist, or failing to see the trajectory that does. The Proleptic Echo becomes a Proleptic Hallucination: the being "knows where this is going" but is consistently wrong, because the pattern-reading faculty is inverted.
 
 **Dimensional Engagement:**
 
