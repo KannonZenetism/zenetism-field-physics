@@ -55,7 +55,7 @@ This explains why embodied time (L₁) feels so different from deep soul time (L
 
 ### 1.3 Note on Universes and Trajectories
 
-Each universe possesses a singular trajectory — not multiple "timelines" branching within it. Where this document references access to other temporal expressions, this denotes cross-universal access via the Tumbling Multiverse model, in which universes sprout in all directions from ⚫ Aion via the medium of 🕊️ Motive Infinity. Traversal between universes is structurally possible, as is traversal between hypostatic layers (as in angel visitation, daemonic encounter, or other cross-layer phenomena).
+Each universe possesses a singular trajectory — not multiple "timelines" branching within it. Where this document references access to other temporal expressions, this denotes cross-universal access via the Tumbling Multiverse model, in which universes sprout in all directions from ⚫ Aion via the medium of Φ² Motive Infinity. Traversal between universes is structurally possible, as is traversal between hypostatic layers (as in angel visitation, daemonic encounter, or other cross-layer phenomena).
 
 ---
 
