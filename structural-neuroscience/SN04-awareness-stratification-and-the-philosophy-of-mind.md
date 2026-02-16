@@ -222,7 +222,7 @@ Two distinct registers of idealism are diagnostically relevant:
 
 ### 4.3 Why Idealism Gets Closer
 
-Idealism, in both registers, situates itself closer to the generative layers of the emanatory architecture than either physicalism or panpsychism. L₄ is the layer where Forms are generated, held, and transmitted. L₃ is the layer where reflexive consciousness first emerges as a self-possessing center. Both are structurally "upstream" of the registers that physicalism and panpsychism occupy.
+Idealism, in both registers, situates itself closer to the generative layers of the emanatory architecture than either physicalism or panpsychism. L₄ is the layer of archetypal Form itself — where pattern exists in its structural completeness and from which relative forms are expressed and transmitted. L₃ is the layer where reflexive consciousness first emerges as a self-possessing center. Both are structurally "upstream" of the registers that physicalism and panpsychism occupy.
 
 This explains why idealism often appears more penetrating than its rivals in diagnosing their limitations. Formal idealism correctly identifies that physical objects (L₁) are derivative of intelligible patterns (L₄). Reflexive idealism correctly identifies that individuated selfhood (L₂) presupposes a deeper experiential field (L₃) from which it differentiates.
 
