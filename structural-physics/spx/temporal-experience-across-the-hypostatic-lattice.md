@@ -399,7 +399,7 @@ This is the most constrained temporal mode. C₁ (⟠ Temporal) is absent from L
 
 L₁ is the sparsest band: ◉ (C₄) and ◈ (C₂).
 
-- **◉ (C₄ Rotational/Gyre):** Time as conserving turn — at L₁, the spiral reduces to rotation. Day follows night follows day. The turn conserves but does not ascend. Clock time is ◉ operating at its most constrained: the circle that preserves sequence without development.
+- **◉ (C₄ Rotational/Gyre):** Time as conserving turn — at L₁, the spiral reduces to rotation. Day follows night follows day. The turn conserves but does not acclivate. Clock time is ◉ operating at its most constrained: the circle that preserves sequence without development.
 - **◈ (C₂ Spatial):** Time shaped by embodied spatial relation. Physical proximity, distance, movement through space — all modulate temporal experience at L₁.
 
 **Plain Language:**  
