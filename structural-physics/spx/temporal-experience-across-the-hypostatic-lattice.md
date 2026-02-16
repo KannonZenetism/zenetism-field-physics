@@ -281,7 +281,7 @@ This is not mere forgetting. It is **structural disconnection** — the Tether d
 - **✧⁻ (E₁₂ Void Aesthetic):** The felt wrongness of one's trajectory — the qualitative sense that something is off, but the inability to correct course.
 
 **Plain Language:**  
-IL₃ time is like being the author of a story whose chapters don't connect. You know there's supposed to be a narrative — you can almost feel it — but the pages are out of order, some are missing, and some seem to belong to a different book entirely. 💔 Fractus is the broken thread — you can't hold your own story together across its expressions. 👁️‍🗨️ Mortus is the false pattern — you think you see where the story is going, but you're reading the wrong plot. And every time you try to re-read a chapter to make sense of it, the words have shifted slightly (that's the temporal loop — revisiting without gaining clarity).
+IL₃ time is like being the author of a story whose chapters don't connect. You know there's supposed to be a narrative — you can almost feel it — but the pages are out of order, some are missing, and some seem to belong to a different book entirely. 💔 Fractus is the broken thread — you can't hold your own story together across its expressions. 👁️‍🗨️ Mortus is the spurious pattern — you think you see where the story is going, but you're reading the wrong plot. And every time you try to re-read a chapter to make sense of it, the words have shifted slightly (that's the temporal loop — revisiting without gaining clarity).
 
 ---
 
