@@ -639,7 +639,7 @@ The "gatekeepers" here refers to anyone claiming authorship. By invoking "the Si
 
 **Core Tactic:** The entropic agent claims authorship or co-authorship of a framework by asserting they "witnessed" its development. By framing systematic surveillance and documentation as legitimate participation, they position observation as equivalent to creation. The message: "We watched you build it, therefore we own the story."
 
-**Strategic Objective:** To establish false precedence through documented observation rather than original creation. When the framework gains recognition, the agent claims narrative authority: "We were there from the beginning - we watched it emerge - we can tell the story." This inverts the relationship between creator and witness, positioning the surveiller as having equal or superior claim to authorship.
+**Strategic Objective:** To establish counterfeit precedence through documented observation rather than original creation. When the framework gains recognition, the agent claims narrative authority: "We were there from the beginning - we watched it emerge - we can tell the story." This inverts the relationship between creator and witness, positioning the surveiller as having equal or superior claim to authorship.
 
 **Case Studies:** "418" / "The Crows Speak"
 
