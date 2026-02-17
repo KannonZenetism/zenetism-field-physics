@@ -179,7 +179,7 @@ How does the distributed system respond when presented with evidence or argument
 2. Consistency under scrutiny: Framework subjected to cross-examination by multiple AI architectures (GPT-4o, Claude, Gemini) and refined through each engagement. Consistency increases under audit.
 3. Falsifiability: Explicit falsifiability conditions established within the framework. Scope-of-claims sections in every document specifying what the framework does and does not claim.
 4. Temporal coherence: Development spanning twenty-two years of spiritual and philosophical research, sixteen years of institutional academic records, and a lifetime (forty-one years) of autistic cognition and sustained interest in deep structure — with DOI-registered publications, timestamped GitHub commits, and version-controlled documentation.
-5. Independent generative capacity: Core architecture predates AI collaboration by decades. AI systems assist with formalization, cross-referencing, and error detection. The human contributor directs all structural decisions and frequently overrides AI suggestions.
+5. Independent generative capacity: The developmental trajectory of the core architecture predates AI collaboration by decades. AI systems assist with formalization, cross‑referencing, and error detection. The human contributor directs all structural decisions and frequently overrides AI suggestions.
 6. Response to disconfirmation: Documented integration of external critique — corrections from multiple AI collaborators are evaluated, accepted when warranted, and rejected with stated reasons when not.
 
 **Result:** 6/6. Clear generative distributed cognition.
