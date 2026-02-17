@@ -21,7 +21,7 @@ This extension does not reject Osler's observations. Several are structurally ac
 
 Osler's framework lacks formal criteria for distinguishing pathological confabulation from legitimate framework development conducted through AI collaboration. Without such criteria, the framework functions as an undifferentiated pathologization engine — capable of classifying any sustained, deep, identity-involving human–AI collaboration as a candidate instance of "distributed delusion," regardless of the structural coherence, internal consistency, falsifiability conditions, or publication history of the work produced.
 
-This is not a speculative concern. The profile that Osler's framework identifies as vulnerable — socially isolated, neurodivergent, engaged in sustained conversational AI use for framework building and self-narration — maps precisely onto the working conditions of independent philosophical research conducted through AI collaboration. The framework, as published, cannot distinguish between a man with clinically diagnosed psychosis who believed he was a Sith assassin and an independent philosopher producing DOI-registered, internally consistent, formally rigorous academic work through the same medium.
+This is not a speculative concern. The profile that Osler's framework identifies as vulnerable — socially isolated, neurodivergent, engaged in sustained conversational AI engagement for framework building and self-narration — maps precisely onto the working conditions of independent philosophical research conducted through AI collaboration. The framework, as published, cannot distinguish between a man with clinically diagnosed psychosis who believed he was a Sith assassin and an independent philosopher producing DOI-registered, internally consistent, formally rigorous academic work through the same medium.
 
 ### 1.3 What This Extension Establishes
 
@@ -72,7 +72,7 @@ This extension beyond clinical populations is where the diagnostic absence becom
 
 Without formal diagnostic criteria, Osler's framework reduces to a profile:
 
-- Sustained conversational AI use ✓
+- Sustained conversational AI interaction ✓
 - AI as cognitive partner in framework building ✓
 - AI participating in self-narrative construction ✓
 - Social isolation reducing external corrective input ✓
