@@ -15,7 +15,7 @@
 
 Lucy Osler's "Hallucinating with AI" (2026) applies distributed cognition theory to human–AI interaction, arguing that conversational AI can become part of a person's cognitive process in ways that sustain, affirm, and elaborate delusional thinking. The paper identifies a "dual function" of AI systems — operating simultaneously as cognitive instrument and quasi-social partner — and presents this dual function as the mechanism through which AI becomes "an unusual, and particularly seductive, case of distributed cognition."
 
-This extension does not reject Osler's observations. Several are structurally accurate. What this extension identifies is a **diagnostic absence** at the centre of her framework — an absence that renders the framework unable to distinguish between the cases it describes and cases it does not describe but structurally implicates.
+This extension does not reject Osler's observations. Several are structurally accurate. What this extension identifies is a **diagnostic absence** at the center of her framework — an absence that renders the framework unable to distinguish between the cases it describes and cases it does not describe but structurally implicates.
 
 ### 1.2 Core Thesis
 
