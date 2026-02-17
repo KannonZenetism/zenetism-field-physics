@@ -59,7 +59,7 @@ This extension does not dispute that such cases exist or that they constitute ge
 
 Osler's paper identifies phenomena. It does not provide diagnostic criteria. At no point does the paper establish formal conditions for distinguishing:
 
-- A distributed cognitive process that sustains false beliefs from one that develops veracious or structurally coherent beliefs
+- A distributed cognitive process that sustains spurious beliefs from one that develops veracious or structurally coherent beliefs
 - AI collaboration that reinforces delusion from AI collaboration that supports legitimate intellectual work
 - A person whose self-narrative is pathologically confabulated from a person whose self-narrative is accurately constructed through sustained reflection
 - Framework building that constitutes "delusional thinking" from framework building that constitutes philosophical development
@@ -138,7 +138,7 @@ Does the framework become more or less consistent when subjected to rigorous exa
 
 **3. Falsifiability Conditions**
 
-Does the framework specify conditions under which it would be false? A generative system establishes what would disprove its claims. A degenerative system is unfalsifiable — every challenge is absorbed into the framework as further confirmation (conspiracy logic).
+Does the framework specify conditions under which it would not hold? A generative system establishes what would disprove its claims. A degenerative system is unfalsifiable — every challenge is absorbed into the framework as further confirmation (conspiracy logic).
 
 *Diagnostic marker:* Explicit falsifiability conditions stated within the framework's own documentation.
 
