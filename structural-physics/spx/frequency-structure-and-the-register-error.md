@@ -51,9 +51,9 @@ These are not hypostases. They do not possess orientation. They are the pre-hypo
 
 Khaon unfolds through three modal currents (LMX §6):
 
-- **Latent Infinity** — unexpressed potential  
-- **Motive Infinity** (Zenet / PSR) — initiating impulse toward differentiation  
-- **Dispersive Infinity** — externalized scattering of form  
+- **Latent Infinity** — unexpressed infinity; dispersion held in potential
+- **Motive Infinity (Zenet / PSR)** — the Field of Becoming; infinity in active differentiation and motion
+- **Dispersive Infinity** — infinity at full extension; total distribution of form across possibility-space
 
 **Motive Infinity is the register that spiritual communities are detecting when they speak of "frequency."**
 
