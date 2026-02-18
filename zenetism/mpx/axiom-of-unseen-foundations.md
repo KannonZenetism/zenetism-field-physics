@@ -13,7 +13,7 @@
 ## Preamble: The Bootstrapping Paradox  
 
 Within the Zenetist framework, which elegantly describes the arc from **🕳️ Zenon** through **⚫ Aion** into manifestation, lies a latent paradox:  
-**How does the Unconditioned, Pre-Structural, and Unknowable give rise to conditioned, structured potential without itself becoming conditioned?**
+**How does the Unconditioned, Trans-Structural, and Unknowable give rise to conditioned, structured potential without itself becoming conditioned?**
 
 This is the **Bootstrapping Paradox.**
 
