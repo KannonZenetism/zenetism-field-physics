@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics / Glossary  
 **Status:** Canonical — Veracious Archive  
-**Function:** Definitive glossary entry for the three modal currents of Khaon; supersedes all prior narrow or incomplete definitions across the corpus
+**Function:** Definitive glossary entry for the three modal currents of Khaon; supersedes all prior imprecise definitions across the corpus
 
 ---
 
@@ -21,9 +21,9 @@ Khaon unfolds through three modal currents — **Latent**, **Motive**, and **Dis
 
 ### Φ₁ — Latent Infinity (Λ)
 
-**Definition:** Unexpressed infinity; dispersion held in potential. All that could be manifested or formed; pure potential folded within ⚫ Aion. Zero's interior resonance.
+**Definition:** Unexpressed infinity; dispersion held in potential. All that could be manifested or expressed; pure potential folded within ⚫ Aion. Zero's interior resonance.
 
-Latent Infinity is the pre-motive state of Khaonic infinity — not generic Aionic potential, but specifically the dispersive capacity of Khaon prior to activation. It is infinity before it moves.
+Latent Infinity is the pre-motive state — infinite potential before it moves. At L₀, where Aion and Khaon converge (Kaion), centropic and entropic potential are not yet differentiated. Latent Infinity is simply unexpressed potential: all that could be manifested, prior to the activation that produces Motive Infinity.
 
 ---
 
@@ -45,7 +45,7 @@ Motive Infinity is not merely the initiating impulse or spark of becoming — th
 
 **Definition:** Infinity at full extension. The terminal dispersion of expression and pattern at the limit of motion, where differentiation exhausts and re-potentialization toward Aion becomes possible. Total distribution of expression across possibility-space.
 
-Dispersive Infinity is not degradation or destruction. It is motion reaching its natural limit — the point where active becoming has fully expressed and the cycle completes. Differentiation exhausts. Form distributes entirely. And in that exhaustion, the conditions for return to Latent Infinity (and thus to Aion) re-emerge.
+Dispersive Infinity is not degradation or destruction. It is motion reaching its natural limit — the point where active becoming has fully expressed and the cycle completes. Differentiation exhausts. Expression distributes entirely. And in that exhaustion, the conditions for return to Latent Infinity (and thus to Aion) re-emerge.
 
 ---
 
@@ -106,21 +106,18 @@ The invariant lattice that holds all lawful possibility. It permits motion but d
 
 ## 7. Corrigendum Notes
 
-### 7.1 Propagated Narrowings
+### 7.1 Propagated Errors
 
-The following narrowed definitions have appeared across multiple documents in the corpus. This glossary entry supersedes all such instances.
+The following imprecise definitions have appeared across multiple documents in the corpus. This glossary entry supersedes all such instances.
 
-| Term | Propagated (Narrow) | Canonical (This Entry) | Severity |
-|------|---------------------|----------------------|----------|
-| Latent Infinity | "unexpressed potential" | Unexpressed infinity; dispersion held in potential. Specifically Khaonic — not generic Aionic potential | Moderate |
-| Motive Infinity | "initiating impulse toward differentiation" | The total domain of active motion and becoming; the Field of Becoming; infinity in active differentiation and motion. Not merely initiating but sustaining | Significant |
-| Dispersive Infinity | "externalized scattering of form" | Infinity at full extension; terminal dispersion where differentiation exhausts and re-potentialization toward Aion becomes possible | Moderate |
-| Aion | "centropic potential" | Pre-directional potential; root of centropic emanation. Not centropic in itself | Moderate |
-| Khaon | "entropic potential" | Pre-directional potential; root of entropic emanation. Not entropic in itself | Moderate |
+| Term | Propagated (Error) | Error Type | Canonical (This Entry) | Severity |
+|------|---------------------|-----------|----------------------|----------|
+| Motive Infinity | "initiating impulse toward differentiation" | Narrowing — reduced the entire Field of Becoming to a momentary spark | The total domain of active motion and becoming; the Field of Becoming; infinity in active differentiation and motion. Not merely initiating but sustaining | Significant |
+| Dispersive Infinity | "externalized scattering of form" | Overstating — described an active dispersal process rather than the terminal limit where motion exhausts | Infinity at full extension; terminal dispersion where differentiation exhausts and re-potentialization toward Aion becomes possible | Moderate |
 
 ### 7.2 Scope of Propagation
 
-The Motive Infinity narrowing is the most structurally significant. Documents that treat Motive Infinity as merely the initiating spark rather than the entire Field of Becoming understate its scope. The structural relationships (Motive at L₀, pre-hypostatic, modal current of Khaon) are generally correct across the corpus; the descriptions are what narrowed.
+The Motive Infinity narrowing is the most structurally significant. Documents that treat Motive Infinity as merely the initiating spark rather than the entire Field of Becoming understate its scope. The Dispersive Infinity error runs in the opposite direction — overstating an active scattering process where the canonical definition describes a terminal limit. The structural relationships (Motive at L₀, pre-hypostatic, modal current of Khaon) are generally correct across the corpus; the descriptions are what drifted.
 
 This glossary entry serves as the canonical reference. All documents citing LMX §6 or SP02 for these definitions should be read in light of this corrigendum.
 
