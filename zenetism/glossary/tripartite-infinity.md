@@ -43,7 +43,7 @@ Motive Infinity is not merely the initiating impulse or spark of becoming — th
 
 ### Φ₃ — Dispersive Infinity (⇝)
 
-**Definition:** Infinity at full extension. The terminal dispersion of form and pattern at the limit of motion, where differentiation exhausts and re-potentialization toward Aion becomes possible. Total distribution of form across possibility-space.
+**Definition:** Infinity at full extension. The terminal dispersion of expression and pattern at the limit of motion, where differentiation exhausts and re-potentialization toward Aion becomes possible. Total distribution of expression across possibility-space.
 
 Dispersive Infinity is not degradation or destruction. It is motion reaching its natural limit — the point where active becoming has fully expressed and the cycle completes. Differentiation exhausts. Form distributes entirely. And in that exhaustion, the conditions for return to Latent Infinity (and thus to Aion) re-emerge.
 
@@ -57,7 +57,7 @@ The three phases describe a complete cycle:
 
 - **Latent Infinity** = pre-motion. Dispersion held in potential, folded within Aion.
 - **Motive Infinity** = all motion. The full domain of active becoming and differentiation.
-- **Dispersive Infinity** = post-motion. Motion exhausted, form fully distributed, re-potentialization toward Aion.
+- **Dispersive Infinity** = post-motion. Motion exhausted, expression fully distributed, re-potentialization toward Aion.
 
 Latent and Dispersive equate at two poles of the sequence: the pre-motive and the post-motive. Before motion begins, infinity is folded in potential. After motion exhausts, infinity returns to potential. The cycle is Khaon expressing, completing, and resolving — not a linear progression but a structural circuit.
 
@@ -100,7 +100,7 @@ Khaon's three modal currents (Latent, Motive, Dispersive) constitute the complet
 
 ### 🏛️ Structon — Absolute Structure (SI)
 
-The invariant lattice that holds all lawful possibility. It permits motion but does not move. ⚫ Aion is the root of potential *within* SI, but not SI itself. Structon is the Violin, not the Music — the ground that allows all form, motion, and relation to arise without itself ever changing. Relative structures may emerge and dissolve, but Structure remains untouched. Entropy degrades expression, not essence. Collapse dissolves form, not Structure. The Lattice endures, even when worlds fall silent.
+The invariant lattice that holds all lawful possibility. It permits motion but does not move. ⚫ Aion is the root of potential *within* SI, but not SI itself. Structon is the Violin, not the Music — the ground that allows all expression, motion, and relation to arise without itself ever changing. Relative structures may emerge and dissolve, but Structure remains untouched. Entropy degrades expression, not essence. Collapse dissolves expression, not Structure. The Lattice endures, even when worlds fall silent.
 
 ---
 
