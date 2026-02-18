@@ -18,9 +18,9 @@ This extension identifies the claim as a register error. It does not dispute tha
 
 ### 1.2 Core Thesis
 
-What spiritual communities call "frequency" — a motive, dynamic principle that drives the process of becoming — maps not to Zenon (the trans-structural horizon) but to **Motive Infinity** (Zenet / PSR), a **pre-hypostatic requisite** at L₀. The register error consists in conflating a pre-hypostatic initiating impulse with the trans-structural ground itself, and then concluding that structure is subordinate to or dissolved by what is actually a condition *for* structure.
+What spiritual communities call "frequency" — a motive, dynamic principle that drives the process of becoming — maps not to Zenon (the trans-structural horizon) but to **Motive Infinity** (Zenet / PSR), a **pre-hypostatic requisite** at L₀. The register error consists in conflating the pre-hypostatic Field of Becoming with the trans-structural ground itself, and then concluding that structure is subordinate to or dissolved by what is actually a condition *for* structure.
 
-Trans-structural is not non-structural. And the motive principle that stirs within the pre-hypostatic root is not beyond structure — it is the impulse that makes hypostatic traversal possible. It operates at the threshold of structure, not above it.
+Trans-structural is not non-structural. And the motive principle that stirs within the pre-hypostatic root is not beyond structure — it is the field that makes hypostatic traversal possible. It operates at the threshold of structure, not above it.
 
 ---
 
@@ -45,21 +45,21 @@ Zenon has been described as "The only actual sound / of which all worlds / are e
 L₀ is the bifurcal root of structure (SP02, LMX §6), comprising:
 
 - ⚫ **Aion** — pre-directional potential; root of centropic emanation (symbolically associated with zero)  
-- ♾ **Khaon** — pre-directional potential; root of entropic emanation (symbolically associated with infinity)
+- ♾ **Khaon** — pre-directional potential; root of entropic emanation (symbolically associated with infinity)  
 
 These are not hypostases. They do not possess orientation. They are the pre-hypostatic requisites from which oriented traversal becomes possible.
 
 Khaon unfolds through three modal currents (LMX §6):
 
-- **Latent Infinity** — unexpressed infinity; dispersion held in potential
-- **Motive Infinity (Zenet / PSR)** — the Field of Becoming; infinity in active differentiation and motion
-- **Dispersive Infinity** — infinity at full extension; total distribution of form across possibility-space
+- **Latent Infinity** — unexpressed infinity; dispersion held in potential  
+- **Motive Infinity** (Zenet / PSR) — the Field of Becoming; infinity in active differentiation and motion  
+- **Dispersive Infinity** — infinity at full extension; total distribution of form across possibility-space  
 
 **Motive Infinity is the register that spiritual communities are detecting when they speak of "frequency."**
 
-It is motive. It drives becoming. It is the initiating impulse that makes hypostatic traversal possible. It is dynamic in a sense that Zenon is not — Zenon is trans-structural stillness; Motive Infinity is the pre-hypostatic stirring that produces the conditions for structural expression.
+It is motive. It drives becoming. It is infinity in active differentiation and motion — the entire Field of Becoming, not merely an initiating spark. It is dynamic in a sense that Zenon is not — Zenon is trans-structural stillness; Motive Infinity is the pre-hypostatic field that produces the conditions for structural expression.
 
-But it is not itself within the hypostatic arc. It does not traverse. It does not operate at L₅ or below. It sits at L₀ as a modal current of Khaon — the impulse that makes traversal possible without itself being traversal.
+But it is not itself within the hypostatic arc. It does not traverse. It does not operate at L₅ or below. It sits at L₀ as a modal current of Khaon — the field that makes traversal possible without itself being traversal.
 
 ### 2.3 The Hypostatic Arc (L₅ → L₁ / IL₅ → IL₁) — Structure in Motion
 
@@ -98,20 +98,20 @@ Each step after the first contains the error.
 
 Motive Infinity (Zenet / PSR) is a pre-hypostatic requisite at L₀. It is:
 
-- **Motive** — it drives, it initiates, it stirs. This is what spiritual communities correctly detect.
+- **Motive** — it drives, it differentiates, it is all motion. This is what spiritual communities correctly detect.
 - **Pre-hypostatic** — it precedes oriented traversal but does not itself traverse. It is not within the arc.
 - **A modal current of Khaon** — it is one of three expressions of infinity at the bifurcal root, not a trans-structural principle.
-- **Not Zenon** — Zenon is trans-structural stillness, supra-containment, the unbounded basis. Zenon does not drive, stir, or initiate. It is the silent ground from which the capacity for driving, stirring, and initiating arises — but it does not perform these functions.
+- **Not Zenon** — Zenon is trans-structural stillness, supra-containment, the unbounded basis. Zenon does not drive, stir, or differentiate. It is the silent ground from which the capacity for motion arises — but it does not perform motion.
 
 The distinction:
 
 | Register | Nature | Relation to Structure |
 |----------|--------|-----------------------|
 | Zenon (Supra-L₀) | Trans-structural stillness | Structure unconfined; neither produces nor is produced by structure |
-| Motive Infinity (L₀) | Pre-hypostatic impulse | Makes structural traversal possible; threshold of structure |
+| Motive Infinity (L₀) | Pre-hypostatic Field of Becoming | Infinity in active differentiation and motion; makes structural traversal possible |
 | Hypostatic traversal (L₅–L₁) | Oriented structural motion | Motion along and within invariant structure |
 
-"Frequency" as commonly invoked maps to the middle register — the pre-hypostatic impulse — not to the trans-structural ground.
+"Frequency" as commonly invoked maps to the middle register — the pre-hypostatic Field of Becoming — not to the trans-structural ground.
 
 ---
 
@@ -209,7 +209,7 @@ The practitioner who reports that "everything is frequency" is reporting accurat
 
 The corrective placement does not invalidate spiritual practice oriented toward Motive Infinity, resonance, or coherence amplification. It clarifies the register.
 
-A practice that works with the motive principle — aligning with the initiating impulse toward differentiation, cooperating with the pre-hypostatic stirring that makes traversal possible — is working at L₀, at the threshold of structure. This is legitimate and potentially profound.
+A practice that works with the motive principle — aligning with the Field of Becoming, cooperating with the pre-hypostatic field that makes traversal possible — is working at L₀, at the threshold of structure. This is legitimate and potentially profound.
 
 But such practice is not "beyond structure." It is at the root of structure. And the distinction matters because the practitioner who believes they are dissolving structure may be enacting the dissolution of their own relative coherence — the opposite of what they intend.
 
@@ -242,7 +242,7 @@ This extension establishes:
 
 1. **The register error identified:** Spiritual communities detect a motive, dynamic principle (veracious observation) but attribute it to the trans-structural register (Zenon / UP) rather than to its correct placement as a pre-hypostatic requisite at L₀ (Motive Infinity / Zenet / PSR).
 
-2. **The three registers clarified:** Zenon (trans-structural stillness), Motive Infinity (pre-hypostatic impulse at L₀), and hypostatic traversal (oriented motion within invariant structure, L₅–L₁). "Frequency" as commonly invoked maps to the second, not the first.
+2. **The three registers clarified:** Zenon (trans-structural stillness), Motive Infinity (the pre-hypostatic Field of Becoming at L₀), and hypostatic traversal (oriented motion within invariant structure, L₅–L₁). "Frequency" as commonly invoked maps to the second, not the first.
 
 3. **Trans-structural ≠ non-structural:** Zenon is structure unconfined, not the absence of structure. Absolute Structure (Structon / SI) is invariant and cannot be dissolved. The drive to abolish structure conflates the trans-structural horizon with the dissolution of relative configuration.
 
@@ -275,7 +275,7 @@ This extension establishes:
 >
 > What stirs at the root is not beyond the lattice.  
 > It is at the threshold —  
-> the motive impulse that makes traversal possible  
+> the motive field that makes traversal possible  
 > without itself being traversal.
 >
 > To dissolve form is not to approach the Source.  
