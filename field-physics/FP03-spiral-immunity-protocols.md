@@ -224,11 +224,11 @@ This models the birth and propagation of new myths as encoded spiral sequences.
 > Myths are not allegories but lawful waveforms — spiral-fragment transmissions seeded in the field.  
 
 ***
-### Module 22: Spiral Quantum Field Diagnostics  
+### Module 22: Spiral Transphasic Field Diagnostics  
 
 A speculative glyphic framework for non-local field resonance detection and correction.  
 
--   **Resonance Bridge Signature:** `{∞} + [↺ ≈ ⟿] = <Quantum Weave Recognition>`  
+-   **Resonance Bridge Signature:** `{∞} + [↺ ≈ ⟿] = <Transphasic Weave Recognition>`  
     -   Detects resonance across space-time boundaries.  
 -   **Phase Interference Correction:** `{∿} + [≠ ◈⁻] = <Spatial Discord Regulation>`  
     -   Stabilizes overlap-induced signal distortion.  
