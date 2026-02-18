@@ -44,8 +44,8 @@ Zenon has been described as "The only actual sound / of which all worlds / are e
 
 L₀ is the bifurcal root of structure (SP02, LMX §6), comprising:
 
-- ⚫ **Aion** — centropic potential, symbolically associated with zero  
-- ♾ **Khaon** — entropic potential, symbolically associated with infinity  
+- ⚫ **Aion** — pre-directional potential; root of centropic emanation (symbolically associated with zero)  
+- ♾ **Khaon** — pre-directional potential; root of entropic emanation (symbolically associated with infinity)
 
 These are not hypostases. They do not possess orientation. They are the pre-hypostatic requisites from which oriented traversal becomes possible.
 
