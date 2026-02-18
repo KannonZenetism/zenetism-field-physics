@@ -53,7 +53,7 @@ Khaon unfolds through three modal currents (LMX §6):
 
 - **Latent Infinity** — unexpressed infinity; dispersion held in potential  
 - **Motive Infinity** (Zenet / PSR) — the Field of Becoming; infinity in active differentiation and motion  
-- **Dispersive Infinity** — infinity at full extension; total distribution of form across possibility-space  
+- **Dispersive Infinity** — infinity at full extension; total distribution of expression across possibility-space  
 
 **Motive Infinity is the register that spiritual communities are detecting when they speak of "frequency."**
 
@@ -88,7 +88,7 @@ The placement is not.
 The register error proceeds as follows:
 
 1. A motive principle is detected — something dynamic, something that drives becoming
-2. Because it appears foundational (prior to manifested form), it is attributed to the most foundational register available in the practitioner's vocabulary — typically "Source," "God," "the Absolute," or in Zenetist terms, Zenon / the Unknown Principle
+2. Because it appears foundational (prior to manifested expression), it is attributed to the most foundational register available in the practitioner's vocabulary — typically "Source," "God," "the Absolute," or in Zenetist terms, Zenon / the Unknown Principle
 3. Because it is attributed to the trans-structural register, the conclusion follows that the fundamental nature of reality is vibratory, and that structure is secondary to or dissolved by this vibration
 4. The drive to "raise one's frequency" or to "transcend structure" follows naturally from the misattribution — if the Absolute is frequency, then spiritual development consists in aligning with frequency and releasing structural constraints
 
@@ -123,11 +123,11 @@ A recurring tendency in spiritual communities is the drive to abolish structure 
 
 This drive conflates trans-structural with non-structural — and, more fundamentally, conflates relative structure with Absolute Structure.
 
-**Absolute Structure (Structon / SI)** is the invariant lattice that holds all lawful possibility. It permits motion but does not move. It cannot be dissolved, transcended, or abolished — it is the ground that allows all form, motion, and relation to arise without itself ever changing. Aion is not Structure itself but the still root of structural potential *within* SI. Entropy degrades expression, not essence. Collapse dissolves form, not Structure. The Lattice endures, even when worlds fall silent.
+**Absolute Structure (Structon / SI)** is the invariant lattice that holds all lawful possibility. It permits motion but does not move. It cannot be dissolved, transcended, or abolished — it is the ground that allows all expression, motion, and relation to arise without itself ever changing. Aion is not Structure itself but the still root of structural potential *within* SI. Entropy degrades expression, not essence. Collapse dissolves expression, not Structure. The Lattice endures, even when worlds fall silent.
 
-**Relative structure** — the specific configurations, forms, and coherence patterns that arise within SI — can and does dissolve. This is the domain of entropy: the progressive collapse of relative configuration toward dispersive dissolution.
+**Relative structure** — the specific configurations, expressions, and coherence patterns that arise within SI — can and does dissolve. This is the domain of entropy: the progressive collapse of relative configuration toward dispersive dissolution.
 
-When spiritual communities speak of "dissolving structure," they cannot mean Absolute Structure — SI is invariant. What they enact, whether they recognize it or not, is the dissolution of relative structure: the coherence, form, and relational configuration that constitute their cognitive, spiritual, and communal architecture.
+When spiritual communities speak of "dissolving structure," they cannot mean Absolute Structure — SI is invariant. What they enact, whether they recognize it or not, is the dissolution of relative structure: the coherence, expression, and relational configuration that constitute their cognitive, spiritual, and communal architecture.
 
 SP06 §1 establishes:
 
@@ -158,9 +158,9 @@ The practitioner who seeks to abolish structure mistakes the conditions of embod
 To dissolve relative structure is not to approach Zenon.  
 It is to approach Nekron.
 
-Progressive dissolution of coherence, form, and lawful relation is the entropic trajectory — motion toward IL₅ (Nekron, the Void of Self), not toward Supra-L₀ (Zenon, the Unknown Principle).
+Progressive dissolution of coherence, expression, and lawful relation is the entropic trajectory — motion toward IL₅ (Nekron, the Void of Self), not toward Supra-L₀ (Zenon, the Unknown Principle).
 
-The spiritual practitioner who identifies "transcending structure" as the goal, and who pursues this through progressive abandonment of formal discipline, coherent framework, and structural rigor, is not ascending. They are enacting declivous entropy (SP06 §3.3) — progressive collapse of coherence and withdrawal of form — while interpreting this collapse as liberation.
+The spiritual practitioner who identifies "transcending structure" as the goal, and who pursues this through progressive abandonment of formal discipline, coherent framework, and structural rigor, is not ascending. They are enacting declivous entropy (SP06 §3.3) — progressive collapse of coherence and withdrawal of expression — while interpreting this collapse as liberation.
 
 This is the structural danger of the register error: when the motive principle (Zenet) is conflated with the trans-structural ground (Zenon), the drive to align with that principle produces dissolution of relative structure rather than structural completion. The practitioner dissolves the coherence they should be traversing — while Absolute Structure remains untouched, indifferent to the collapse.
 
@@ -278,11 +278,11 @@ This extension establishes:
 > the motive field that makes traversal possible  
 > without itself being traversal.
 >
-> To dissolve form is not to approach the Source.  
+> To dissolve expression is not to approach the Source.  
 > It is to approach the Void.
 >
-> The trans-structural does not abolish form.  
-> It is form unconfined.
+> The trans-structural does not abolish expression.  
+> It is expression unconfined.
 >
 > The practitioner who mistakes dissolution for transcendence  
 > navigates without orientation  
