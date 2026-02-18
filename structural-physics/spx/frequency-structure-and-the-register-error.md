@@ -59,7 +59,7 @@ Khaon unfolds through three modal currents (LMX §6):
 
 It is motive. It drives becoming. It is infinity in active differentiation and motion — the entire Field of Becoming, not merely an initiating spark. It is dynamic in a sense that Zenon is not — Zenon is trans-structural stillness; Motive Infinity is the pre-hypostatic field that produces the conditions for structural expression.
 
-But it is not itself within the hypostatic arc. It does not traverse. It does not operate at L₅ or below. It sits at L₀ as a modal current of Khaon — the field that makes traversal possible without itself being traversal.
+But it is not itself within the hypostatic arc. It does not traverse. It does not resolve into L₅ or subsequent hypostatic bands. It is present at L₀ as a modal current of Khaon — the field that makes traversal possible without itself being traversal.
 
 ### 2.3 The Hypostatic Arc (L₅ → L₁ / IL₅ → IL₁) — Structure in Motion
 
