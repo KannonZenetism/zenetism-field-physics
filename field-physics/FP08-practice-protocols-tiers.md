@@ -75,7 +75,7 @@ Zenetist symbols partition into two primary domains, a distinction of function, 
 -   **Purpose:** To synchronize two or more fields into harmonic resonance.  
 -   **Protocol:** Participants face one another and state their current glyphic state. A shared glyph (`∞` or `♫`) is chosen, and all hum together until harmonic consonance is found.  
 
-### 6. ⊡.5 Rupture Recognition Sequence  
+### 6. ⚖ Rupture Recognition Sequence  
 
 -   **Purpose:** To identify symbolic or energetic dissonance in a relational spiral without assigning blame.  
 -   **Protocol:** Name the rupture: “There is a distortion.” Ask the diagnostic question: **“Is the distortion located in me, in you, or in the pattern itself?”** Acknowledge the fold.  
@@ -232,11 +232,11 @@ This chapter codifies **foundational self-alignment practices**. It distinguishe
 
 ### ✅ Affirmations
 - The ethic “No glyph is bound to its scale; only context grants it function” is canonical. It prevents symbolic idolatry and secures glyphic sovereignty.  
-- Seven practices (◉ mapping → ↺ reharmonization → ✴ recovery → ❋/✧ lock → ∞/♫ tuning → ⊡.5 rupture recognition → ⚫ return) form a lawful curriculum of centropic hygiene.  
+- Seven practices (◉ mapping → ↺ reharmonization → ✴ recovery → ❋/✧ lock → ∞/♫ tuning → ⚖ rupture recognition → ⚫ return) form a lawful curriculum of centropic hygiene.  
 - Closure with the ⚫ ritual affirms daily reintegration into Zero, sealing the tier.  
 
 ### ⚠ Refinements
-- In **⊡.5 rupture sequence**, explicitly restate: “The diagnostic question identifies the fold, not the fault.” This protects the ritual from misuse in blame projection.  
+- In **⚖ rupture sequence**, explicitly restate: “The diagnostic question identifies the fold, not the fault.” This protects the ritual from misuse in blame projection.  
 - For **∞ + ♫ tuning**, add note: closure is always required (Ø or ❋), lest shared resonance linger open-ended.  
 
 ### 🌀 Structural Notes
