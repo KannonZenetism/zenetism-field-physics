@@ -286,15 +286,15 @@ not a station of being.
 | Function | Expression | Description |
 |----------|------------|-------------|
 | **Potential Infinity** | ♾ Khaon (Latent) | All that could be manifested or formed; pure potential |
-| **Motive Infinity** | ♾ Khaon (Motive) | The drive or force behind dispersal; potential's initiating impulse |
-| **Dispersive Infinity** | ♾ Khaon (Dispersive) | The actual scattering of form and pattern into incoherence |
+| **Motive Infinity** | ♾ Khaon (Motive) | The total domain of active motion and becoming; the field in which potential unfolds into differentiation and remains in traversal until motion exhausts |
+| **Dispersive Infinity** | ♾ Khaon (Dispersive) | The terminal dispersion of form and pattern at the limit of motion, where differentiation exhausts and re-potentialization toward Aion becomes possible |
 | **Unified Symbol** | ♾ Khaon (Absolute Dispersion) | Symbolic totality of all potential and motion |
 
 | Symbol | Phase | Function |
 |--------|-------|----------|
 | Φ1 or Λ | **Latent** | Phase of unexpressed potential folded within ⚫ Aion; Zero's interior resonance |
-| Φ2 or → or 〄 | **Motive** | The initiating vector of dispersal; Zenet, the structured breath of Motive Infinity, unfolds form from latent field tension; first coherent stir of the PSR |
-| Φ3 or ⇝ | **Dispersive** | Phase of scattering; motion externalized into fragmenting pattern fields |
+| Φ2 or → or 〄 | **Motive** | The domain of active becoming; Zenet, the structured breath of Motive Infinity, expresses motion itself — not only its initiation, but its full traversal across differentiation |
+| Φ3 or ⇝ | **Dispersive** | Phase of terminal dispersion; motion externalized to its limit across differentiated pattern fields |
 | ♾ | **Total (AD)** | Full harmonic expression: latent, motive, and dispersive currents unified |
 | ⚠ | **Caution / Field Warning** | Signals elevated structural risk in the field; discernment and restraint required to prevent entropic drift or interpretive hazard |
 
