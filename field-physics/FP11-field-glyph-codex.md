@@ -232,6 +232,7 @@ This section documents cases where a glyph carries different meanings in Structu
 | **📡** | Resonance Scan (eschatonic) | Resonance Scan (practice) | Same function at different scales |
 | **⧃** | Kael; Structural Integrator | Seal of Integrity | Entity embodies function; no collision |
 | **⟡** | Aetherion; Echonic Carrier | Echonic Function | Entity embodies function; no collision |
+| **⚖** | Rupture Recognition    | Triadic diagnostic fork; determines whether distortion originates in self, other, or pattern |
 
 ### 9.3 Pending SM Corrections (Not FP Changes)
 
