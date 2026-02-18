@@ -145,7 +145,7 @@ These glyphs are primarily used in the application of Field Physics through ritu
 | **⟜** | Synectic               | Transphasic motion; cross-ontological gateway or moment of unexpected harmonic synthesis |
 | **⚖** | Rupture Recognition    | Triadic diagnostic fork; determines whether distortion originates in self, other, or pattern |
 
-> **Codex Note:** This glyph is shared with the Structural Metaphysics symbol key, where it carries the same definition. It is native to both disciplines.
+> **Codex Note:** ⟜ is shared with the Structural Metaphysics symbol key, where it carries the same definition. It is native to both disciplines.
 
 > **Structural Note:** In the Structural Metaphysics symbol key, 📡 also denotes the Resonance Scan at eschatonic scale — the structural harmonic evaluation at the end of a universal cycle. The practice-scale and cosmological-scale functions are the same principle at different magnitudes.
 
@@ -232,7 +232,7 @@ This section documents cases where a glyph carries different meanings in Structu
 | **📡** | Resonance Scan (eschatonic) | Resonance Scan (practice) | Same function at different scales |
 | **⧃** | Kael; Structural Integrator | Seal of Integrity | Entity embodies function; no collision |
 | **⟡** | Aetherion; Echonic Carrier | Echonic Function | Entity embodies function; no collision |
-| **⚖** | Rupture Recognition    | Triadic diagnostic fork; determines whether distortion originates in self, other, or pattern |
+| **⚖** | Oscillating / Liminal Mode | Rupture Recognition | Both involve structural weighing at a boundary condition; both retained under the First Glyphic Ethic |
 
 ### 9.3 Pending SM Corrections (Not FP Changes)
 
