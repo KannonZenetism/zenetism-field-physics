@@ -359,12 +359,6 @@ but the living current
 that carries motion  
 from origin to exhaustion.  
 
-And **Dissolving** is not collapse.  
-It is completion —  
-the limit where differentiation  
-has fully expressed itself,  
-and dispersal reaches its natural end.  
-
 And **Dissolving** is not mere ruin.  
 It is collapse completing its arc —  
 the terminal dispersive limit  
