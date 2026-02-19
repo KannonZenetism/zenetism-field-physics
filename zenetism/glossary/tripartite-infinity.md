@@ -128,6 +128,22 @@ This glossary entry serves as the canonical reference. All documents citing LMX 
 
 ---
 
+## Placement Note
+
+This glossary entry is authored under **Structural Metaphysics**, the primary discipline in which the modal currents of ♾ Khaon are formally defined.
+
+Because the Tripartite Infinity framework functions canonically across Structural Physics, Lattice Mathematics, and subsequent SP documents, this entry is also reproduced in:
+
+`the-zenetist-canon/glossary/tripartite-infinity.md`
+
+The duplication is intentional and structural, not derivative.  
+The metaphysical articulation originates here; the Canon folder preserves its cross-disciplinary authority.
+
+Both versions are content-identical.  
+This file remains the metaphysical root articulation.
+
+---
+
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
