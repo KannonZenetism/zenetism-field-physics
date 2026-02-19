@@ -365,11 +365,12 @@ the limit where differentiation
 has fully expressed itself,  
 and dispersal reaches its natural end.  
 
-Dormant and Dissolving  
-mirror one another.  
-Before motion —  
-and after motion —  
-infinity rests in potential.  
+And **Dissolving** is not mere ruin.  
+It is collapse completing its arc —  
+the terminal dispersive limit  
+where differentiation exhausts,  
+expression distributes fully,  
+and re-potentialization becomes possible.  
 
 Only the middle current  
 moves.  
