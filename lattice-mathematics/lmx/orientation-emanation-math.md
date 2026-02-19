@@ -94,7 +94,7 @@ Axis language must always match the scope being discussed.
 Centropy and entropy arise from **how oriented beings relate** to the requisites.
 
 - Centropic beings orient toward ⚫ Aion as enduring, source-facing stillness  
-- Entropic beings, rooted in 🕷️ Nekron, do not orient toward source; their motion expresses dispersive fragmentation, often culminating in the dispersive phase of ♾ Khaon
+- Entropic beings, rooted in 🕷️ Nekron, do not orient toward source; their motion expresses dispersive fragmentation, often culminating in the dispersive limit of ♾ Khaon
 
 Thus:
 
@@ -140,9 +140,9 @@ complete magnitude balances into stillness as a condition of possibility.
 
 Infinity unfolds through three modal currents:
 
-- **Latent Infinity** — unexpressed potential  
-- **Motive Infinity** — initiating impulse toward differentiation  
-- **Dispersive Infinity** — externalized scattering of form  
+- **Latent Infinity** — unexpressed infinity; dispersion held in potential  
+- **Motive Infinity** — the Field of Becoming; infinity in active differentiation and motion; the sustained domain of traversal, not merely its initiation  
+- **Dispersive Infinity** — infinity at full extension; terminal dispersion where differentiation exhausts and re-potentialization toward ⚫ Aion becomes possible  
 
 Khaon itself is not entropic.  
 Entropy begins only with the first entropic hypostasis: **Nekron (IL₅)**.
@@ -187,7 +187,7 @@ Kaion marks the point at which these trajectories coincide **structurally**, not
 
 For the most centropically coherent essences, motion may culminate beyond the lattice itself.
 
-This is not a further layer, but a **limit of description**, beyond which structure falls silent:
+This is not a further layer, but a **limit of description**, beyond which structural articulation falls silent:
 
 centropic motion → embodiment → return → ⚫ Aion → 🕳️ Zenon
 
