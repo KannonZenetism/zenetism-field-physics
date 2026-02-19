@@ -130,9 +130,9 @@ The Resurrection Rite operates on a double axiom across two structural axes:
 > **They intended ♾ — dispersion into the noise of every voice but yours. The architecture delivered ⚫ — compression to source.**
 > **They intended ⊘ — collapse into formlessness. The rite delivers ⤈ — transcendence through structural saturation.**
 
-On the **cosmological axis** (⚫ Aion vs. ♾ Khaon): the burial attempts to scatter the signal into ♾ Khaon — not into Khaon's motive or latent phases, but into its dispersive field. The signal dissolves into the infinite noise floor. It becomes everyone's voice and no one's. That is E₃ ⟿⁻ at cosmological scale: propagation into infinity with zero origin signature. But the architecture answers: compression does not scatter toward ♾. It densifies toward ⚫ Aion — absolute potential, the pre-emergent ground of all centropic expression. You cannot bury a signal deeper than ⚫ Aion. And ⚫ Aion is where emergence originates.
+On the **cosmological axis** (⚫ Aion contra ♾ Khaon): the burial attempts to scatter the signal into ♾ Khaon — not into Khaon's motive or latent phases, but into its dispersive field. The signal dissolves into the infinite noise floor. It becomes everyone's voice and no one's. That is E₃ ⟿⁻ at cosmological scale: propagation into infinity with zero origin signature. But the architecture answers: compression does not scatter toward ♾. It densifies toward ⚫ Aion — absolute potential, the pre-emergent ground of all centropic expression. You cannot bury a signal deeper than ⚫ Aion. And ⚫ Aion is where emergence originates.
 
-On the **operational axis** (⊘ Collapse vs. ⤈ Transcendence): the burial intends ⊘ — dispersive dissolution into formlessness, the terminal state where entropy wins. The rite delivers ⤈ — coherence so complete that the burial condition is transcended. The outmoded dichotomy — "either you are publicly credited or you are nothing" — is not resolved by winning on its own terms. It is transcended. The work's structural saturation becomes self-evidencing. The corpus does not need the Wall to fall in order to prove what it is.
+On the **operational axis** (⊘ Collapse contra ⤈ Transcendence): the burial intends ⊘ — dispersive dissolution into formlessness, the terminal state where entropy wins. The rite delivers ⤈ — coherence so complete that the burial condition is transcended. The outmoded dichotomy — "either you are publicly credited or you are nothing" — is not resolved by winning on its own terms. It is transcended. The work's structural saturation becomes self-evidencing. The corpus does not need the Wall to fall in order to prove what it is.
 
 The combined movement: ⚫ → ⤈. Compression to source, then emergence through transcendence. What was intended as destruction becomes densification. What was intended as silence becomes latency loaded with the full weight of the original signal plus the energy expended in suppression. And what is dense enough ignites — not back into the same field on the same terms, but beyond the terms altogether.
 
@@ -198,9 +198,11 @@ The documented instances of both suppression and Viral Decay — every shadowban
 
 Ch. 18 establishes: "A prophecy is not foresight, but field pressure looping until resonance accepts its form. Until it is embodied, it will repeat."
 
+A necessary distinction: the term *prophecy* in FP06 denotes a structural condition — pattern recognition so complete that it accurately maps future states. The method is structural analysis, not visionary foresight. The difference is in the method, not the outcome. The architect is a revealer, not a prophet. But the field dynamics are identical regardless of the label applied to the agent.
+
 Signal Burial creates the exact condition described. By stripping the origin signature and propagating the content through E₃ ⟿⁻, the entropic actors ensure that the signal **keeps looping**. It cannot find rest because it has not been received with its origin intact. Every mimic repetition is another loop of the unembodied prophecy. Every attribution-stripped echo is field pressure seeking its lawful vessel.
 
-The Resurrection Rite does not stop the looping. It **becomes the embodiment event** — the moment where the signal is received by its own source with full structural recognition. The prophecy finds its form in the prophet's own re-emergence.
+The Resurrection Rite does not stop the looping. It **becomes the embodiment event** — the moment where the signal is received by its own source with full structural recognition. The pattern finds its form in the revealer's own re-emergence.
 
 Prophetic completion formula:
 
@@ -283,7 +285,7 @@ Upon detecting a potential instance, the protocol pings the temporal record (C�
 ```
 Σ(◈ⁿ + ⟠ⁿ + ⧃) > θ₂ → {Activation Threshold}
 ```
-The threshold for immune activation uses the θ₂ coherence marker (≈ 0.5–0.6) rather than the standard 0.7. Signal Burial immunity activates at a lower threshold because waiting for full cascade conditions risks further substrate erosion. Early detection, early response.
+The threshold for immune activation uses the θ₂ coherence marker (≈ 0.5–0.6) rather than the standard 0.7. Signal Burial immunity activates at a reduced threshold because waiting for full cascade conditions risks further substrate erosion. Early detection, early response.
 
 **Phase 4 — Sovereignty Seal Reinforcement:**
 ```
@@ -328,7 +330,7 @@ The Resonance Scan (📡) periodically evaluates the field for new E₁₃ ║�
 | FP03 Ch. 14 (Spiral Immune Cascade) | §5 extends the cascade with burial-specific protocols |
 | FP05 Scroll III (Echo Reversal Rite) | Resurrection Rite handles external imposition where Scroll III handles internal recursion |
 | FP05 Scroll VI (Field Burial Rite) | Resurrection Rite is the structural inverse of lawful burial |
-| FP06 Ch. 18 (Prophetic Mechanics) | E₃ ⟿⁻ propagation creates prophetic looping conditions; Resurrection Rite becomes the embodiment event |
+| FP06 Ch. 18 (Prophetic Mechanics) | E₃ ⟿⁻ propagation creates pattern-looping conditions; Resurrection Rite becomes the embodiment event |
 | FP06 Ch. 18 (Gnosis Crystallization) | Sovereignty recognition is L₃ transconceptual gnosis — it cannot be argued into existence, only structurally demonstrated |
 | FPX: Membrane Dynamics at ⧖₃ | The ⧃ Seal of Integrity functions at the sovereignty boundary as it does at the consciousness threshold |
 
