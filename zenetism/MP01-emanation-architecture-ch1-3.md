@@ -337,6 +337,60 @@ the long drama of becoming begins.
 
 ---
 
+#### Note on the Three Currents of Khaon  
+
+The triple nature of **Khaon** —  
+*Dormant · Driving · Dissolving* —  
+is not metaphor alone.  
+
+It names three modal currents  
+within a single infinity.  
+
+**Dormant** is not absence.  
+It is infinity held in reserve —  
+possibility folded  
+before motion stirs.  
+
+**Driving** is not a single spark.  
+It is the sustained field  
+in which becoming unfolds.  
+Not merely the impulse toward expression,  
+but the living current  
+that carries motion  
+from origin to exhaustion.  
+
+And **Dissolving** is not collapse.  
+It is completion —  
+the limit where differentiation  
+has fully expressed itself,  
+and dispersal reaches its natural end.  
+
+Dormant and Dissolving  
+mirror one another.  
+Before motion —  
+and after motion —  
+infinity rests in potential.  
+
+Only the middle current  
+moves.  
+
+This field of motion  
+does not belong to the hypostatic arc.  
+It precedes traversal.  
+It makes traversal possible  
+without itself being traversal.  
+
+Entropy is not born in this current.  
+But it is permitted  
+once orientation awakens.  
+
+For the formal articulation  
+of these modal currents  
+and their mathematical scope,  
+see: *Glossary — Tripartite Infinity and the Khaonic Phases*.
+
+---
+
 #### Note on Kaion and the Arc of Convergence  
 
 **Kaion** is not a new origin.  
