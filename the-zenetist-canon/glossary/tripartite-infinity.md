@@ -128,6 +128,29 @@ This glossary entry serves as the canonical reference. All documents citing LMX 
 
 ---
 
+## Canonical Placement Note
+
+This glossary entry originates in:
+
+`zenetism/glossary/tripartite-infinity.md`
+
+under **Structural Metaphysics**.
+
+It is reproduced here in *The Zenetist Canon* because the Tripartite Infinity framework governs multiple disciplines, including:
+
+- L₀ register logic  
+- Motive Infinity placement  
+- Structural Physics applications (SPX, SP06)  
+- Lattice Mathematics clarifications (LMX §6)  
+- Hypostatic orientation discipline  
+
+Its inclusion in the Canon folder affirms its status as a cross-disciplinary invariant definition.
+
+This file is content-identical to the metaphysical source version.  
+No interpretive modification is permitted between placements.
+
+---
+
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
