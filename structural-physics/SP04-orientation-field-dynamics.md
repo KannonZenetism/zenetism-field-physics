@@ -831,7 +831,7 @@ SP04 establishes:
 3. **CP₀ as convergence topology** — pre-expressive closure, not equilibrium
 4. **CP₁ as saddle equilibrium** — within motion, not stable rest
 5. **The Zenetist Field Equation** — canonical dynamical law of orientation
-6. **Motive Infinity as initiator** — sustains and activates orientation evolution
+6. **Motive Infinity as motive field** — sustains and activates orientation evolution
 7. **The Inclination Principle** — no expressed universe is neutral
 8. **The Law of Non-Neutral Emergence** — expression is never balanced by default
 9. **Instability of Equilibrium** — \( \chi = 1 \) cannot persist without dissolution
