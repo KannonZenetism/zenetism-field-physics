@@ -384,7 +384,7 @@ Motive Infinity (Spirit) is the **motive field** of the Tumbling Multiverse — 
 Motive Infinity is:
 
 - The foundational current of Divine Will as motion, breath, and becoming
-- Proto-soul: an emanative impulse preceding individuated identity
+- Proto-soul: the pre-individuated field of becoming that precedes identity
 - The carrier wave of life, purpose, and return — refracted across all scales of motion from L₀ through embodiment
 
 ### 7.2 From Stillness to Expression
@@ -393,7 +393,7 @@ The transition from stillness to expression follows this sequence:
 
 1. **Supra-L₀** — Unknown Principle; trans-structural ground
 2. **L₀ (Latent Phase)** — Stillness within Zero; pre-motion potential
-3. **L₀ (Motive Phase)** — Motive Infinity activates; capacity for motion emerges
+3. **L₀ (Motive Phase)** — Motive Infinity activates; the total field of motion becomes operative
 4. **Bifurcation** — Motion orients into C or E (or both)
 5. **L₅ → L₁ / IL₅ → IL₁** — Hypostatic expression unfolds
 
