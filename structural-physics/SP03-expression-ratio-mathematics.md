@@ -377,9 +377,9 @@ This explains the asymmetry of spontaneous structure formation:
 
 ## 7. Motive Infinity and the Initiation of the Tumble
 
-### 7.1 Zenet as Initiating Vector
+### 7.1 Zenet as the Field of Becoming
 
-Motive Infinity (Spirit) is the **initiating vector** of the Tumbling Multiverse — the Principle of Sufficient Reason that sets emanation into motion.
+Motive Infinity (Spirit) is the **motive field** of the Tumbling Multiverse — the Principle of Sufficient Reason that sustains emanation across all motion.
 
 Motive Infinity is:
 
