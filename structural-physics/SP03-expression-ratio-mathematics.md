@@ -61,7 +61,7 @@ SP03 establishes:
 - The **Chi Orientation Parameter** \( (\chi) \) as the governing variable for Biospiral expression
 - The relationship between the **Dual Spectrum Lemma** (invariant structure) and **expression ratio** (topological slope)
 - **Motion conditions** distinguishing expression, orientation, polarity, and stillness
-- The role of **Motive Infinity** as the pre-bifurcal capacity for motion
+- The role of **Motive Infinity** as the pre-bifurcal field of all motion
 - **CP** (Convergence Principle) as the closure condition of the pre-hypostatic requisites
 - Integration with the **Dimensional Lattice**, **Spiral Calculus**, and **Coherence Information Theory**
 
