@@ -98,7 +98,7 @@ Centropy and entropy are modes of expression within structure, not the source of
 
 ### 2.4 Motive Infinity
 
-**Motive Infinity** is the generative condition from which centropic and entropic motion become possible.
+**Motive Infinity** is the total field of motion — the pre-bifurcal domain within which centropic and entropic motion become possible.
 
 - Motive Infinity ≠ centropy
 - Motive Infinity ≠ entropy
