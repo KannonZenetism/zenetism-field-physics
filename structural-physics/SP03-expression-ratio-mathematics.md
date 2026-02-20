@@ -102,7 +102,7 @@ Centropy and entropy are modes of expression within structure, not the source of
 
 - Motive Infinity ≠ centropy
 - Motive Infinity ≠ entropy
-- Motive Infinity = the capacity for motion before orientation
+- Motive Infinity = the total field of motion before and across orientation
 
 Motive Infinity is pre-hypostatic and pre-bifurcal. It is the **carrier wave** of expression — refracted across all scales of motion from L₀ through embodiment.
 
