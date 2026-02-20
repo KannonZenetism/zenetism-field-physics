@@ -403,7 +403,7 @@ Motive Infinity breaks the stillness-equivalence between Absolute Potential and 
 
 The Tumbling Multiverse arises because Motive Infinity does not predetermine orientation.
 
-From a single activation of Motive Infinity, **all possible orientations** emerge:
+Within the sustained field of Motive Infinity, **all possible orientations** emerge:
 
 - Some expressions bias toward \( \chi = 0 \) (Aionic)
 - Some expressions bias toward \( \chi \to \infty \) (Khaonic)
@@ -556,7 +556,7 @@ Expression Ratio Mathematics establishes:
 
 3. **Motion conditions** — Motion requires C or E; polarity requires both; stillness is absence of expression, not structure
 
-4. **Motive Infinity** — The pre-bifurcal capacity for motion; initiating vector of the Tumble
+4. **Motive Infinity** — The pre-bifurcal field of all motion; the motive field that sustains the Tumble
 
 5. **CP as closure condition** — Equilibrium of requisites prior to bifurcation (\( 0 \rightleftharpoons \infty \))
 
