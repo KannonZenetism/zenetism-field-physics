@@ -109,7 +109,7 @@ Motive Infinity is pre-hypostatic and pre-bifurcal. It is the **carrier wave** o
 Within L₀, three phases of Absolute Dispersion may be distinguished:
 
 - **Latent Phase** — Pre-motion potential within Zero; stillness prior to expression
-- **Motive Phase** — The generative impulse; condition from which C and E emerge
+- **Motive Phase** — The total field of active motion and becoming; the domain from which C and E emerge
 - **Dispersive Phase** — Post-motion dissolution; stillness after expression
 
 Both Latent and Dispersive phases are stillness-equivalent to Absolute Potential — distinguished only by causal placement (pre-motion contra post-motion). Only the Motive Phase breaks this stillness-equivalence and yields hypostatic expression.
