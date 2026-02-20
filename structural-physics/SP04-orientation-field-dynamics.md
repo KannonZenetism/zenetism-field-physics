@@ -228,7 +228,7 @@ The evolution of orientation is governed by:
 where:
 
 - \( \tau \) = structural time (Spiral Calculus trajectory parameter)
-- \( \mathcal{M} \) = Motive Infinity intensity (capacity for motion)
+- \( \mathcal{M} \) = Motive Infinity intensity (total field of motion)
 - \( \Lambda, \Gamma \) = structural constants determined by lattice constraints
 - \( \Phi_{\text{CP}}(\chi) \) = CP-topology potential encoding CP₀ and CP₁
 
@@ -271,7 +271,7 @@ The equation expresses three structural regimes:
 
 ### 5.1 Role of Motive Infinity
 
-**Motive Infinity** (\( \mathcal{M} \)) is the pre-bifurcal capacity for motion — the generative condition from which centropic and entropic expression become possible.
+**Motive Infinity** (\( \mathcal{M} \)) is the pre-bifurcal field of all motion — the total domain within which centropic and entropic expression become possible.
 
 - Motive Infinity ≠ centropy
 - Motive Infinity ≠ entropy
