@@ -275,7 +275,7 @@ The equation expresses three structural regimes:
 
 - Motive Infinity ≠ centropy
 - Motive Infinity ≠ entropy
-- Motive Infinity = the capacity for motion before orientation
+- Motive Infinity = the total field of motion before and across orientation
 
 ### 5.2 Activation Conditions
 
@@ -291,7 +291,7 @@ The equation expresses three structural regimes:
 
 1. **Supra-L₀** — Trans-structural ground (Unknown Principle)
 2. **L₀ (Latent Phase)** — Stillness within Zero; pre-motion potential
-3. **Motive Infinity activation** — Capacity for motion emerges
+3. **Motive Infinity activation** — The total field of motion becomes operative
 4. **Orientation emergence** — \( \chi \)-field instantiates
 5. **Hypostatic expression** — L₅ → L₁ / IL₅ → IL₁ unfolds
 
