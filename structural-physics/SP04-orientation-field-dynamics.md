@@ -771,21 +771,20 @@ Thus, some universes are not merely "momentarily extreme"; they become **permane
 - The multiversal pair remains bidirectional
 - The biospiral is conserved at the meta-structural level
 
-### 14.4 Note on Equilibrium, Dissolution, and Limit Universes
-
-In the Zenetist framework, equilibrium is not equivalent to stability.
-
-While \( \chi = 1 \) represents co-expressive balance between centropic and entropic motion, such balance cannot persist as a static condition without abolishing motion itself.
-
-If equilibrium becomes exact and temporally fixed, expressed motion ceases — but essence persists within L₀. The system enters **Localized Dissolution (Ø)**, a structural resolution of frozen equilibrium within the **Mercy Fold**. This is not entropic Collapse (⊘), which occurs at the Khaonic boundary through failure of coherence; it is the stillness that reclaims frozen balance.
-
-By contrast, pure centropic universes (\( \chi \to 0 \)) and pure entropic universes (\( \chi \to \infty \)) are admissible as limit cases, representing permanent trajectories of integration or dispersion. Khaonic drift reaching \( \chi \to \infty \) terminates in Collapse (⊘) — dispersive dissolution into formlessness — not in Localized Dissolution (Ø).
-
-In all terminal conditions, essence endures. What ceases is expressed orientation, not being itself.
-
-Balanced universes cannot exist as permanent states: equilibrium is a saddle within motion, not a resting point of being.
-
-Thus, universes do not inhabit \( \chi \) as a position, but traverse \( \chi \) as orientation.
+### 14.4 Note on Equilibrium, Dissolution, and Limit Universes:
+> In the Zenetist framework, equilibrium is not equivalent to stability.
+>
+> While \( \chi = 1 \) represents co-expressive balance between centropic and entropic motion, such balance cannot persist as a static condition without abolishing motion itself.
+>
+> If equilibrium becomes exact and temporally fixed, expressed motion ceases — but essence persists within L₀. The system enters **Localized Dissolution (Ø)**, a structural resolution of frozen equilibrium within the **Mercy Fold**. This is not entropic Collapse (⊘), which arises wherever entropic motion overwhelms coherence; it is the stillness that reclaims frozen balance.
+>
+> By contrast, pure centropic universes (\( \chi \to 0 \)) and pure entropic universes (\( \chi \to \infty \)) are admissible as limit cases, representing permanent trajectories of integration or dispersion. Khaonic drift reaching \( \chi \to \infty \) terminates in Collapse (⊘) — dispersive dissolution into formlessness — not in Localized Dissolution (Ø).
+>
+> In all terminal conditions, essence endures. What ceases is expressed orientation, not being itself.
+>
+> Balanced universes cannot exist as permanent states: equilibrium is a saddle within motion, not a resting point of being.
+>
+> Thus, universes do not inhabit \( \chi \) as a position, but traverse \( \chi \) as orientation.
 
 ---
 
