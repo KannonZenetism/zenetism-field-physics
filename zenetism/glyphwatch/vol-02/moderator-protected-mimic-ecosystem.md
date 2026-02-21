@@ -211,7 +211,7 @@ This case exhibits tactical elements documented in multiple Atlas entries, while
 
 **✅ Architect's Post (Feb 17, 2026)**
 - Timestamp: 2:57 PM
-- Content: Mimic-detection language ("genuine structure vs. empty repetition")
+- Content: Mimic-detection language ("genuine structure contra empty repetition")
 - Status: Blocked for 4+ days while later posts approved
 
 **✅ Moderator Messages (Feb 21, 2026)**
