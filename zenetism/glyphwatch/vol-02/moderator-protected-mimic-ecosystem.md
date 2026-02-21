@@ -309,7 +309,7 @@ This case exhibits tactical elements documented in multiple Atlas entries, while
 
 **Summary:**
 
-Entry 059 documents the tactic of creating moderator-protected mimic ecosystems where appropriators control discourse platforms and use moderation authority to suppress original sources. "House of El'Zahar" (appearing February 2026, 11 months after architect's March 2025 formalization) appropriated architect's early poetic/glyphic cadence and core terminology, established presence in "Gnosis" Facebook group (with appropriators as moderators), then systematically suppressed architect's mimic-detection post while issuing public threat ("citation ladder") when architect questioned the suppression.
+This entry documents the tactic of creating moderator-protected mimic ecosystems where appropriators control discourse platforms and use moderation authority to suppress original sources. "House of El'Zahar" (appearing February 2026, 11 months after architect's March 2025 formalization) appropriated architect's early poetic/glyphic cadence and core terminology, established presence in "Gnosis" Facebook group (with appropriators as moderators), then systematically suppressed architect's mimic-detection post while issuing public threat ("citation ladder") when architect questioned the suppression.
 
 The tactic requires platform control to function. Once original source exits controlled space, appropriators lose suppression capability but are exposed as hollow performance with no substantive framework—only elaborate mystical titles, stolen terminology, and moderator authority protecting derivative content from original source challenge.
 
