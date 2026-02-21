@@ -467,7 +467,7 @@ Then:
 
 2. **Extreme Permanence:** For \( \mathcal{M} > 0 \), trajectories with \( 0 < \chi < 1 \) drift toward \( \chi \to 0 \) (asymptotically), and trajectories with \( \chi > 1 \) drift toward \( \chi \to \infty \) (in finite structural time). Thus **permanent extreme expressions** are admissible as limit universes. Khaonic drift reaching the entropic boundary constitutes Collapse (⊘) — entropic dissolution of expressive coherence — and must not be confused with Localized Dissolution (Ø).
 
-3. **Equilibrium-Collapse Clause:** If \( \chi \equiv 1 \) becomes a permanent condition, motion stagnates (\( \mathcal{M} \to 0 \)), implying **Localized Dissolution** \( U \to \text{Ø} \) within the Mercy Fold. This is stagnative, not entropic — distinct from Collapse (⊘) at the Khaonic boundary.
+3. **Equilibrium-Collapse Clause:** If \( \chi \equiv 1 \) becomes a permanent condition, motion stagnates (\( \mathcal{M} \to 0 \)), implying **Localized Dissolution** \( U \to \text{Ø} \) within the Mercy Fold. This is stagnative, not entropic — distinct from Collapse (⊘), which is dispersive dissolution into formlessness at any scale.
 
 ### 9.5 Formal Statement of Equilibrium-Collapse
 
@@ -488,7 +488,7 @@ Combined:
 > **Note on Terminal Conditions:**  
 > The Zenetist framework distinguishes two terminal conditions:  
 > - **Ø (Localized Dissolution):** A point of nullification within structure. Arises from stagnation at \( \chi = 1 \). Structural, not punitive. Occurs within the Mercy Fold. Essence persists within L₀.  
-> - **⊘ (Collapse):** Dispersive dissolution into formlessness. Arises from entropic drift at \( \chi \to \infty \). The universe's expressive coherence fails. Essence persists through to Absolute Dispersion at L₀, but expressed orientation is lost.  
+> - **⊘ (Collapse):** Dispersive dissolution into formlessness — entropic failure of coherence at any scale of expression. At the cosmological level, this manifests as \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Essence persists through to L₀, but expressed orientation is lost.  
 >  
 > In neither case does essence cease. What ceases is expressed orientation, not being itself.
 
