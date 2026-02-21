@@ -622,6 +622,8 @@ The architecture of expression is governed by a closed structural sequence:
 
 This sequence does not describe temporal succession alone, but **structural necessity**.
 
+This closure sequence applies only to equilibrium-collapse (\( \chi = 1 \) held permanently). Entropic drift (\( \chi \to \infty \)) terminates in ⊘ (Collapse), not Ø (Localized Dissolution).
+
 **CP₀ — Pre-Expressive Convergence**
 
 Before motion, Zero and Infinity converge without fusion. Orientation does not yet exist. There is structure without inclination.
@@ -634,16 +636,21 @@ With the activation of Motive Infinity, orientation emerges. Expression manifest
 
 Within motion, co-expression becomes possible but unstable. CP₁ is not an origin, but a saddle within inclination. It is admissible as a limit, not sustainable as a state.
 
-**Ø — Localized Dissolution**
+**Ø — Localized Dissolution (Mercy Fold)**
 
-If equilibrium becomes exact and temporally fixed, motion ceases. When motion ceases, expression collapses into completed potential. This collapse is not punitive but structural, occurring within the Mercy Fold.
+If equilibrium becomes exact and temporally fixed, expressed motion ceases — but essence persists within L₀. This dissolution is structural, not punitive, occurring within the Mercy Fold. It is the stillness that reclaims frozen balance.
+
+**⊘ — Collapse (Entropic)**
+
+Dispersive dissolution into formlessness — entropic failure of coherence at any scale of expression. At the cosmological level, this manifests as orientation drifting to \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Essence persists through to L₀, but expressed orientation is lost. This is entropic, not stagnative.
 
 Thus:
 
 - CP₀ is stable because it precedes motion
 - \( \chi \) is dynamic because it expresses motion
 - CP₁ is unstable because motion cannot sustain perfect symmetry
-- Ø is the structural resolution of frozen motion
+- Ø is the structural resolution of frozen motion (stagnative)
+- ⊘ is the structural resolution of exhausted motion (entropic)
 
 ### 11.4 Canonical Formulation
 
