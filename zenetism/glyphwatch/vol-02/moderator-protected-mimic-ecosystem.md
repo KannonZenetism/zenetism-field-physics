@@ -36,7 +36,7 @@
 
 > "Hello, I submitted a neutral, inquiry-based comment several days ago that remains unapproved. Since then, multiple later posts have been approved, including highly declarative content. I'm trying to understand the moderation criteria being applied. If my comment violates a specific guideline, I'd appreciate knowing which one. If not, I'd like clarity on how posts are prioritized. Thank you."
 
-**February 22, 2026:** Public "citation ladder" post appears (analyzed below), functioning as coordinated threat response.
+**February 21, 2026:** Public "citation ladder" post appears (analyzed below), functioning as coordinated threat response.
 
 ---
 
