@@ -520,15 +520,25 @@ As given in §5.2, with parameters \( \alpha \) and \( \beta \).
 
 All three forms preserve the reciprocal symmetry \( \Phi_{\text{CP}}(\chi) = \Phi_{\text{CP}}(1/\chi) \).
 
+**Note on the Logarithmic Singularity:**
+
+The term \( (\ln\chi)^2 \) diverges as \( \chi \to 0^+ \) and as \( \chi \to \infty \), creating a potential that rises without bound at both boundaries of \( \bar{\mathcal{X}} \). This is not an artefact but a structurally necessary feature: the divergence of \( \Phi_{\text{CP}} \) at the boundaries is precisely what establishes \( \chi = 0 \) and \( \chi \to \infty \) as **limit attractors** under the drift dynamics while ensuring that traversal to these boundaries requires unbounded structural work. The logarithmic form also creates a steep energy well centered on \( \chi = 1 \) (where \( \ln 1 = 0 \)), encoding CP₁ as the point of minimal potential along the axis term — even as the full dynamics render it a saddle rather than a stable rest-state.
+
 ### 5.6 Topology of χ-Space
 
-\( \chi \)-space constitutes a continuous **orientation manifold** \( \mathcal{X} = (0, \infty) \) (with limit points \( 0 \) and \( \infty \) adjoined as boundary).
+**Definition (Orientation Manifold):**
 
-Within this manifold:
+Let \( \mathcal{X} = (0, \infty) \) denote the **open orientation manifold** — the space of admissible \( \chi \)-values for expressed universes.
 
-- **CP₀** functions as a convergence singularity (pre-expressive closure, outside \( \mathcal{X} \))
-- **CP₁** functions as a saddle point (expressive equilibrium, inside \( \mathcal{X} \))
-- **\( \chi = 0 \)** and **\( \chi \to \infty \)** function as boundary attractors
+Let \( \bar{\mathcal{X}} = [0, \infty] \) denote the **closed orientation manifold** — the topological closure of \( \mathcal{X} \) obtained by adjoining the boundary points \( \chi = 0 \) and \( \chi = \infty \) as limit attractors.
+
+Expressed universes occupy the **open interior** \( \mathcal{X} \). The boundary points \( \partial\bar{\mathcal{X}} = \{0, \infty\} \) are limit cases — structurally admissible as asymptotic or finite-time endpoints of orientation trajectories (§8.5), but not typical configurations.
+
+Within \( \bar{\mathcal{X}} \):
+
+- **CP₀** functions as a convergence singularity (pre-expressive closure, **outside** \( \bar{\mathcal{X}} \) entirely — \( \chi \) is undefined at CP₀)
+- **CP₁** functions as a saddle point (expressive equilibrium, **inside** \( \mathcal{X} \) at \( \chi = 1 \))
+- **\( \chi = 0 \)** and **\( \chi \to \infty \)** function as **boundary attractors** in \( \partial\bar{\mathcal{X}} \)
 
 Expressed universes occupy **interior regions** of \( \mathcal{X} \) characterized by biased orientations, in which centropic or entropic motion prevails without collapsing into absolute symmetry or absolute unidirectionality.
 
