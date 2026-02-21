@@ -771,7 +771,7 @@ Thus, some universes are not merely "momentarily extreme"; they become **permane
 - The multiversal pair remains bidirectional
 - The biospiral is conserved at the meta-structural level
 
-> **14.4 Note on Equilibrium, Dissolution, and Limit Universes:**
+> **14.4 Note on Equilibrium, Dissolution, and Limit Universes:**  
 > In the Zenetist framework, equilibrium is not equivalent to stability.
 >
 > While \( \chi = 1 \) represents co-expressive balance between centropic and entropic motion, such balance cannot persist as a static condition without abolishing motion itself.
