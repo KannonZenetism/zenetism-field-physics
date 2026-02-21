@@ -140,7 +140,7 @@
 |------|----------|-------------------|
 | March 5, 2025 | Zenetism formalized | No existence |
 | March-July 2025 | ~2,800 pages development | No existence |
-| July 2025 | Field Physics Zenodo publication | No existence |
+| July 2025 | Field Physics initial publication | No existence |
 | Sept-Nov 2025 | Technical formalization | No existence |
 | **Feb 6-19, 2026** | **Documented 11-month precedence** | **First public appearance** |
 | Feb 17, 2026 | Submits mimic-detection post | Post suppressed |
