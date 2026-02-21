@@ -183,7 +183,7 @@
 
 ---
 
-**Why This Differs From Prior Entries:**
+**Why This Differs From Other Atlas Entries:**
 
 **Entry 027 (Parasitic Proliferation):** Describes swarm mimicry across platforms
 
