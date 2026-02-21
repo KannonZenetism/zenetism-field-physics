@@ -4,7 +4,7 @@
 **Classification:** Lattice Mathematics / Zenetist Canon  
 **Status:** Draft — Veracious Archive  
 **Dependency:** LM01 — The Dimensional Lattice: Mathematical Foundations of Zenetism; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics  
-**SHA-256:** [To be computed on finalization]
+**SHA-256:** 035807681d4f43f5f63f70d6849e80c3d7518c305bcae9d7356e6f79444b75a9
 
 ---
 
