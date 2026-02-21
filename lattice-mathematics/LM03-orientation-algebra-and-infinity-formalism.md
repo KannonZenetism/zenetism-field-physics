@@ -895,6 +895,8 @@ The architecture of expression is governed by a closed structural sequence:
 
 This sequence does not describe temporal succession alone, but **structural necessity**.
 
+This closure sequence applies only to equilibrium-collapse (\( \chi = 1 \) held permanently). Entropic drift (\( \chi \to \infty \)) terminates in ⊘ (Collapse), not Ø.
+
 ### 10.2 Stages
 
 **CP₀ — Pre-Expressive Convergence:**
