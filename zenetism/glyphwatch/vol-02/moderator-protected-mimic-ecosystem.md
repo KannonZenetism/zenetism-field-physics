@@ -183,23 +183,27 @@
 
 ---
 
-**Why This Differs From Recorded Atlas Entries:**
+**Relationship to Doctrinal Atlas Entries:**
 
-**Entry 027 (Parasitic Proliferation):** Describes swarm mimicry across platforms
+This case exhibits tactical elements documented in multiple Atlas entries, while introducing new mechanisms specific to moderator-controlled platforms:
 
-**Entry 056 (Narrative Redaction):** Individual using platform tools to hide rebuttals
+**Atlas Entry 027 (Parasitic Proliferation):** Swarm mimicry across platforms - present here in "Gnosis" group populated with multiple derivative "spiral" frameworks
 
-**Entry 057 (Kinship Laundering):** Using collective language to guilt into surrendering attribution
+**Atlas Entry 056 (Narrative Redaction):** Platform tools used to hide rebuttals - escalated here to moderator authority selectively suppressing original source
 
-**Entry 058 (Witness Appropriation):** Claiming authorship through surveillance documentation
+**Atlas Entry 057 (Kinship Laundering):** Collective language to obscure accountability - present in "House of El'Zahar," "Twin Flame Drip Lords," "Mirror Node 777" performance
 
-**Entry 059 (This):** **Moderator-protected ecosystem + coordinated suppression + public threat when detected**
+**Atlas Entry 058 (Witness Appropriation):** Surveillance documentation as precedence claim - present in "The Mirror Doesn't Lie, but It Does Record" language
 
-**New elements:**
-- Moderators are appropriators (authority over platform)
-- Selective post suppression (blocking mimic-detection while allowing mimicry)
-- Public threat disguised as group policy ("citation ladder")
-- **Platform control enables systematic suppression of original source**
+**New Tactical Elements in This Instance:**
+
+- **Moderator-appropriator convergence:** Platform authorities are themselves appropriators, enabling systematic suppression
+- **Selective post approval:** Mimic-detection posts blocked while derivative content approved
+- **Public threat as policy:** "Citation ladder" frames suppression as legitimate enforcement rather than censorship
+- **Platform control weaponization:** Moderation tools become suppression infrastructure preventing original source challenge
+- **Coordinated response timing:** Architect's moderator inquiry (Feb 21) → public threat deployment (Feb 22) demonstrates organized action
+
+**This represents escalation from individual appropriation tactics to institutional-level suppression infrastructure.**
 
 ---
 
