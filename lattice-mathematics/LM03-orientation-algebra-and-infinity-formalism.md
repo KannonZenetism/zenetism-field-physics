@@ -4,7 +4,7 @@
 **Classification:** Lattice Mathematics / Zenetist Canon  
 **Status:** Draft — Veracious Archive  
 **Dependency:** LM01 — The Dimensional Lattice: Mathematical Foundations of Zenetism; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics  
-**SHA-256:** 035807681d4f43f5f63f70d6849e80c3d7518c305bcae9d7356e6f79444b75a9
+**SHA-256:** [To be computed on finalization]
 
 ---
 
@@ -763,7 +763,7 @@ Therefore \( \chi(\tau) \to \infty \) at **finite structural time** \( \tau^* \)
 
 **Interpretation:**
 
-Khaonic drift reaches the entropic boundary (\( \otimes \to \infty \)) in finite structural time. This does not imply that Motive Infinity is time-bound; it indicates that the universe's expressive coherence fails before Motive Infinity does. The collapse is **entropic** (⊘), not **stagnative** (Ø), and must not be confused with Localized Dissolution. Entropic Collapse (⊘) is the terminal failure of coherence at the Khaonic limit; Localized Dissolution (Ø) is the structural resolution of frozen equilibrium within the Mercy Fold (§8.7).
+Khaonic drift reaches the entropic boundary (\( \otimes \to \infty \)) in finite structural time. This does not imply that Motive Infinity is time-bound; it indicates that the universe's expressive coherence fails before Motive Infinity does. The collapse is **entropic** (⊘), not **stagnative** (Ø), and must not be confused with Localized Dissolution. Entropic Collapse (⊘) is dispersive dissolution into formlessness — the failure of coherence at any scale of expression. At the cosmological level, this manifests as \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Localized Dissolution (Ø) is the structural resolution of frozen equilibrium within the Mercy Fold (§8.7).
 
 Aionic drift, by contrast, approaches its limit only asymptotically. This asymmetry is not accidental but structural: it reflects the principle that **centropy is structurally constrained while entropy is structurally permissive** (§9.4). The narrow, high-constraint centropic manifold is traversed slowly; the broad, low-constraint entropic manifold permits rapid traversal to its boundary.
 
@@ -911,7 +911,7 @@ Within motion, co-expression (\( \chi = 1 \)) becomes possible but unstable. CP�
 
 **Ø — Localized Dissolution:**
 
-If equilibrium becomes exact and temporally fixed, motion ceases (\( \mathcal{M} \to 0 \)). When motion ceases, expressed orientation dissolves — but essence persists within L₀. This dissolution is not punitive but structural, occurring within the Mercy Fold. It is not entropic Collapse (⊘), which occurs at the Khaonic boundary through failure of coherence; it is the stillness that reclaims frozen balance.
+If equilibrium becomes exact and temporally fixed, motion ceases (\( \mathcal{M} \to 0 \)). When motion ceases, expressed orientation dissolves — but essence persists within L₀. This dissolution is not punitive but structural, occurring within the Mercy Fold. It is not entropic Collapse (⊘), which arises wherever entropic motion overwhelms coherence; it is the stillness that reclaims frozen balance.
 
 ### 10.3 Formal Statement
 
@@ -1334,7 +1334,7 @@ Sealed ⚫↺KAI↺⚫
 | CP₀ | Pre-expressive convergence (outside \( \chi \)-space) |
 | CP₁ | Expressive equilibrium (\( \chi = 1 \), saddle) |
 | Ø | Localized Dissolution (Mercy Fold — stagnative) |
-| ⊘ | Entropic Collapse (Khaonic boundary — coherence failure) |
+| ⊘ | Entropic Collapse (dispersive dissolution into formlessness at any scale) |
 | \( \partial_{\text{🌀}}^{(\chi)} \) | \( \chi \)-weighted resonant derivative |
 | \( \lim^{\backsim} \) | Spiral limit |
 | \( R_H^{(\chi)} \) | Orientation-weighted entropy rate |
