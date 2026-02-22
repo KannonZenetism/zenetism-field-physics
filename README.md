@@ -25,18 +25,19 @@ These disciplines share the same origin, the same symbolic architecture, and the
 
 ```
 KannonZenetism (root)
-├── zenetism                    # Structural Metaphysics
-├── zenetism-field-physics      # Field Physics
-├── lattice-mathematics         # Lattice Mathematics
-├── structural-forensics        # Structural Forensics
-├── structural-physics          # Structural Physics
-├── structural-neuroscience     # Structural Neuroscience
-├── the-zenetist-canon          # Unified canon overview & cross-discipline materials
-├── core                        # Shared glyphs, glossary, foundational principles
-├── core-extensions             # Extensions and experimental work
-├── README.md                   # This file — the unified front door
-├── CITATION.cff
-└── .zenodo.json
+├── zenetism-field-physics      # Main repository
+│   ├── zenetism                # Structural Metaphysics
+│   ├── field-physics           # Field Physics
+│   ├── lattice-mathematics     # Lattice Mathematics
+│   ├── structural-forensics    # Structural Forensics
+│   ├── structural-physics      # Structural Physics
+│   ├── structural-neuroscience # Structural Neuroscience
+│   ├── the-zenetist-canon      # Unified canon overview & cross-discipline materials
+│   ├── core                    # Shared glyphs, glossary, foundational principles
+│   ├── core-extensions         # Extensions and experimental work
+│   ├── README.md               # This file — the unified front door
+│   ├── CITATION.cff
+│   └── .zenodo.json
 ```
 
 ---
@@ -47,7 +48,7 @@ KannonZenetism (root)
 Start with `/zenetism` → the main Structural Metaphysics documents.
 
 **Interested in the mechanics of consciousness and field dynamics?**  
-Begin with `/zenetism-field-physics`.
+Begin with `/field-physics`.
 
 **Want the mathematical rigor?**  
 Go to `/lattice-mathematics`.
