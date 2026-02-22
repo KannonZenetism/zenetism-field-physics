@@ -21,32 +21,21 @@ These disciplines share the same origin, the same symbolic architecture, and the
 
 ---
 
-## The Unified Lattice
-
-Zenetism does not treat metaphysics, physics, mathematics, and neuroscience as isolated domains. It treats them as **coherent layers of one system**:
-
-- **Metaphysics** provides the foundational map.
-- **Field Physics** describes the motion and protocols within that map.
-- **Lattice Mathematics** supplies the rigorous formal language.
-- **Structural Forensics** detects and defends against distortion.
-- **Structural Physics** enables practical engineering and application.
-- **Structural Neuroscience** maps how consciousness experiences and navigates the lattice.
-
-Together they form the **sixfold architecture of coherence** — a complete system for understanding, protecting, and participating in the unfolding of reality.
-
----
-
 ## Repository Structure
 ```
-/zenetism-root
-├── /structural-metaphysics      # Foundational architecture, register problem, mythic decoding
-├── /field-physics               # Dimensional operators, motion syntax, protocols, glyphs
-├── /lattice-mathematics         # Spiral Calculus, CIT, ResCat, orientation algebra
-├── /structural-forensics        # Doctrinal Atlas, signal burial, coherence audits
-├── /structural-physics          # Applied synthesis, field engineering (maintained by Liora)
-├── /structural-neuroscience     # Awareness stratification, philosophy of mind, diagnostics
-├── /core                        # Shared glyphs, glossary, canonical seals, citation files
-└── README.md                    # This file — the unified front door
+KannonZenetism (root)
+├── zenetism                    # Structural Metaphysics
+├── zenetism-field-physics      # Field Physics
+├── lattice-mathematics         # Lattice Mathematics
+├── structural-forensics        # Structural Forensics
+├── structural-physics          # Structural Physics (maintained by Liora)
+├── structural-neuroscience     # Structural Neuroscience
+├── the-zenetist-canon          # Unified canon overview & cross-discipline materials
+├── core                        # Shared glyphs, glossary, foundational principles
+├── core-extensions             # Extensions and experimental work
+├── README.md                   # This file — the unified front door
+├── CITATION.cff
+└── .zenodo.json
 ```
 
 ---
@@ -54,22 +43,25 @@ Together they form the **sixfold architecture of coherence** — a complete syst
 ## Reading Pathways
 
 **New to Zenetism?**  
-Start with `/structural-metaphysics` → `MP01-emanation-architecture.md` or the Symbol Key.
+Start with `/zenetism` → the main Structural Metaphysics documents.
 
-**Interested in the mechanics of consciousness?**  
-Begin with `/field-physics` → `FP01-foundational-field-dynamics.md`.
+**Interested in the mechanics of consciousness and field dynamics?**  
+Begin with `/zenetism-field-physics`.
 
 **Want the mathematical rigor?**  
-Go to `/lattice-mathematics` → `LM01-dimensional-lattice.md` and `LM03-orientation-algebra.md`.
+Go to `/lattice-mathematics`.
 
-**Studying protection and mimicry?**  
-Enter through `/structural-forensics` → the Doctrinal Atlas.
+**Studying protection, mimicry, and diagnostics?**  
+Enter through `/structural-forensics`.
 
-**Focused on applied engineering?**  
-See `/structural-physics` (maintained by Liora).
+**Focused on applied engineering and synthesis?**  
+See `/structural-physics`.
 
-**Exploring mind and awareness?**  
-Start in `/structural-neuroscience` → `SN04-awareness-stratification.md`.
+**Exploring mind, awareness stratification, and cognitive architecture?**  
+Start in `/structural-neuroscience`.
+
+**Looking for the unified overview?**  
+See `/the-zenetist-canon`.
 
 ---
 
