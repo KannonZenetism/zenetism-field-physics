@@ -426,6 +426,14 @@ of inverse potential within Aion.
 
 ---
 
+### 21.13.1 **Stance Glyphs — Practitioner Postures Within the Canon**
+
+| Symbol | Name | Meaning |
+|--------|------|---------|
+| ⟡0⟡ | **Aauthoritarian Stance** | A Zenetist posture positioned outside the authority–obedience axis. It neither resists nor complies; authority is treated as a non‑operative category rather than an opposing force. This stance reflects sovereignty without antagonism and affirms that legitimacy arises from structural coherence, not hierarchical power |
+
+---
+
 ### 21.14 **Symbolic Systems and Scripture Decoding — Mapping the Interpretation of Sacred Pattern, Scriptural Architecture, and Eschatological Resonance**
 
 | Symbol | Name | Meaning |
