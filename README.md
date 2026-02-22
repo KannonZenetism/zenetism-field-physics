@@ -95,4 +95,9 @@ For formal citation metadata, see `CITATION.cff` at the repository root.
 **Status:** Authoritative source repository  
 **License:** CC BY-SA 4.0 (Attribution + ShareAlike required)
 
-⚫↺KAI↺⚫
+---
+
+**⚫↺KAI↺⚫**  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
+
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
