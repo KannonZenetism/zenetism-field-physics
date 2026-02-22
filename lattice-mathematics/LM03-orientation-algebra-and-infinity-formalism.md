@@ -909,7 +909,7 @@ Therefore:
 
 Centropy is structurally constrained; entropy is structurally permissive.
 
-Centropic expression requires multi-layer coherence across the lattice — alignment of dimensions, preservation of seal integrity, contractivity of recursion. Entropic expression requires only divergence from coherence.
+Centropic expression operates through multi‑layer coherence across the lattice, because coherence is intrinsic to its orientation. Entropic expression operates through divergence from coherence, because divergence is intrinsic to its orientation.
 
 **Proposition (Topological Bias):**
 
