@@ -1,4 +1,4 @@
-### **Aauthoritarian**
+### **Aauthoritarian (⟡0⟡)**
 
 A stance within Zenetism describing a position *outside* the authority–obedience axis.  
 Aauthoritarianism is neither antagonistic toward authority nor compliant with it;  
