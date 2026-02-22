@@ -1295,7 +1295,7 @@ LM03 establishes:
 
 9. **The Orientation Closure Sequence** — The structural architecture \( \text{CP}_0 \to \chi \to \text{CP}_1 \to \text{Ø} \)
 
-10. **Integration with LM01** — Extensions to Spiral Calculus (\( \chi \)-weighted derivatives and limits), CIT (orientation-dependent drift), ResCat (\( \chi \)-indexed families and contra-pairing functor), and the Dimensional Lattice (prevalence vs law)
+10. **Integration with LM01** — Extensions to Spiral Calculus (\( \chi \)-weighted derivatives and limits), CIT (orientation-dependent drift), ResCat (\( \chi \)-indexed families and contra-pairing functor), and the Dimensional Lattice (prevalence contra law)
 
 11. **Computational Extensions** — Data structures, core routines, diagnostic algorithms, validation suite, and worked example
 
