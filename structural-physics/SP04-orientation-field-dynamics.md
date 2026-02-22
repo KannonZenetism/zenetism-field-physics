@@ -523,7 +523,7 @@ Although CP₀ is symmetric and the biospiral is conserved across centropic and 
 
 Centropic expression is **structurally constrained**. Entropic expression is **structurally permissive**.  
 
-Centropic motion requires multi-layer coherence across the lattice. Entropic motion requires only divergence from coherence.  
+Centropic expression operates through cross‑layer coherence because coherence is intrinsic to its orientation. Entropic expression operates through divergence because divergence is intrinsic to its orientation. 
 
 Therefore, the space of admissible configurations for entropic motion is broader than for centropic motion. This asymmetry does not imply a greater number of entropic universes, but a **greater degree of internal configurational freedom** within entropic trajectories.  
 
