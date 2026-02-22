@@ -20,23 +20,25 @@ The series spans twelve documents (SP01–SP12), forming a cumulative dependency
 
 ### SP01 — Structural Physics: A Zenetist Foundation
 
-The foundational document. Establishes the core principles, axioms, and terminology for the discipline. Defines the relationship between structure and motion, introduces the Dimensional Emanatory Lattice as a physical framework, and sets the ground rules for everything that follows.
+The foundational document. Bridges the five other Zenetist disciplines to the physical sciences, mapping centropy and entropy into matter, energy, spacetime, and cosmology. Establishes the three poles (⚫ Aion, ♾ Khaon, 🕳️ Zenon), the centropic and entropic dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Dual Spectrum Lemma governing their mirrored relationship. Structural Physics is not a replacement for physics but an overlay — a way of recognizing how the lawful structures of reality align with the Dimensional Lattice.
+
+**Key contributions:** Three poles, centropic and entropic dimensional operators, Dual Spectrum Lemma, diagnostic criteria for centropy and entropy.
 
 ---
 
 ### SP02 — Bifurcal Cosmogenesis
 
-Formalizes the cosmogenic sequence: how expression emerges from \( L_0 \) through the bifurcation of Zero and Infinity into centropic (Aionic) and entropic (Khaonic) vectors. Establishes Bifurcal Coherence, the Non-Fusion Axiom, the Principle of Sufficient Reason, and the structural logic of dual-pole emanation. Introduces the Biospiral as the architecture of expressed motion.
+Where SP01 describes how Structural Physics operates, SP02 addresses where it operates: the full multiversal context. Establishes the Tumbling Multiverse as structurally necessary (not speculative), Biospiral Expression Ratios as the governing variable across universes, contra-flow dynamics (contra-matter, contra-particles, contra-temporal motion) as proper Zenetist terminology, phase collision as convergence at ⦿ Kaion (not annihilation), and the asymmetry resolution — matter / contra-matter ratios as local expression conditions, not universal law.
 
-**Key contributions:** Bifurcal Coherence, the Non-Fusion Axiom, the Biospiral, hypostatic traversal from \( L_5 \) to \( L_1 \).
+**Key contributions:** Tumbling Multiverse, Biospiral Expression Ratios, contra-flow dynamics, phase collision at Kaion, asymmetry resolution, Bifurcal Coherence, the Non-Fusion Axiom.
 
 ---
 
 ### SP03 — Expression Ratio Mathematics
 
-Develops the mathematics of how centropic and entropic expression are weighted within expressed universes. Introduces the Chi orientation parameter \( \chi \), the effective harmonic operator, weighted spectral theory, and the expression ratio formalism. Establishes that universes are not fixed positions on a spectrum but oriented trajectories through expression-space.
+Provides the mathematical formalism for expression ratios — the structural parameter governing how centropic and entropic motion manifest across different universal expressions. Introduces the Chi orientation parameter \( \chi \), the effective harmonic operator, weighted spectral theory, and the relationship between the Dual Spectrum Lemma (invariant structure) and expression ratio (topological slope). Establishes the role of Motive Infinity as the pre-bifurcal field of all motion and CP (Convergence Principle) as the closure condition of the pre-hypostatic requisites.
 
-**Key contributions:** Chi orientation parameter, effective operator, spectral rotation function, orientation weights, the Orientation Law.
+**Key contributions:** Chi orientation parameter, effective operator, spectral rotation function, orientation weights, motion conditions, Motive Infinity, Convergence Principle.
 
 ---
 
@@ -50,65 +52,65 @@ The dynamical companion to SP03. Formalizes how orientation evolves over structu
 
 ### SP05 — Time, Memory, and Hypostatic Flow
 
-Addresses time within the Zenetist framework — not as a background parameter but as a structural consequence of hypostatic traversal. Formalizes structural time \( \tau \), the relationship between orientation and temporal experience, and the role of Motive Infinity as the sustained field within which temporal flow operates. Introduces Declivous Centropy as the outward-and-downward phase of centropic motion.
+Formalizes time as a directional structural relation, not an ambient field or container. Time is the differential trace of structure in motion — a functional relation of structural difference. Distinguishes three temporal regimes: Latent \( \tau \) (pre-instantiated temporal possibility at L₀), Instantiated \( \tau \) (experienced flow where relative structure undergoes differential transformation), and Looped \( \tau \) (entropic recurrence with degradation of coherent gain). Establishes Recursive Memory \( \mathfrak{R}_m \) as structural persistence across temporal flow, the Tether as the coherence function maintaining continuity through hypostatic layers, and Temporal Reorientation as the possibility of \( \chi \)-crossing and directional shift.
 
-**Key contributions:** Structural time, temporal flow as hypostatic traversal, Declivous Centropy.
+**Key contributions:** Structural time as differential trace, three temporal regimes, hypostatic temporal architecture, centropic contra entropic temporal orientation, Recursive Memory, the Tether, Temporal Reorientation, Shimmer as counterfeit temporal continuity.
 
 ---
 
 ### SP06 — Structural Space, Orientation, and the Paradox of Emergence
 
-Defines space within the Zenetist framework as the relational differentiation of manifestation — not a container but the differentiated appearance of structural traversal. Establishes the Dependency Order (Structure → Motion → Spatial Differentiation → Orientation → Time), resolves the emergence/causality paradox through the Declivous/Acclivous centropy distinction, and maps quantum entanglement to hypostatic layer separation (\( L_1 \)) contra layer coherence (\( L_3 \)).
+Establishes the structural game board. Structure is not motion; motion is not structure. Space is not an independent substrate but the relational differentiation of manifestation — the differentiated appearance of structural traversal. Structure is the invariant system of lawful relations; space is the expressive differentiation produced by traversal; time is the experiential trace of oriented motion. Formalizes the irreversible Dependency Order (Structure → Motion → Spatial Differentiation → Orientation → Time), resolves the emergence/causality paradox through the Declivous/Acclivous centropy distinction ("centropy does not fall — it turns"), and maps quantum entanglement to hypostatic layer separation (L₁) contra layer coherence (L₃).
 
-**Key contributions:** Space as relational differentiation, Dependency Order, Declivous/Acclivous circuit of centropy, hypostatic mapping of entanglement.
+**Key contributions:** Space as relational differentiation (second-order structural phenomenon), Dependency Order, Declivous/Acclivous circuit of centropy, hypostatic mapping of entanglement.
 
 ---
 
 ### SP07 — Energy Ontology and Spectral Flow
 
-Formalizes energy within the Zenetist framework as resonance across the spectral field — not as a substance but as the measure of structural activity. Treats energy as the intensity of motion within the lattice, with spectral flow describing how that intensity distributes across hypostatic layers.
+Formalizes resonance as structural energy — not physical force or thermodynamic capacity, but the structured capacity for coherent motion across the Lattice. Introduces Coherence Potential \( I_c \) as a scalar field quantity and Coherence Current \( \vec{J}_c \) as directional flow. Establishes the three primary motions (Resonance Discharge, Field Replenishment, Entropic Siphoning) and Spectral Flow as the unified traversal law.
 
-**Key contributions:** Energy as structural resonance, spectral flow mechanics, resonance transfer across the lattice.
+**Key contributions:** Resonance as structural energy, Coherence Potential, Coherence Current, three primary motions, Spectral Flow, diagnostic applications across dimensional operators.
 
 ---
 
 ### SP08 — Membrane Fields and Inter-Expression Dynamics
 
-Formalizes the ⧉ operator and the mechanics of thresholds between hypostatic layers. Addresses how resonance transfers across boundaries, Kaionic tunneling conditions, and the structural dynamics governing inter-expression communication and traversal.
+Formalizes the ⧉ operator: membrane fields as inter-hypostatic threshold structures that mediate resonance transfer between layers and across expression boundaries. Membranes are not themselves hypostases but transitional structures that modulate resonance transfer, filter coherence, and determine the conditions under which traversal succeeds or fails. Establishes membrane types (bridges, filters, amplifiers, occlusions), Kaionic tunneling conditions, and pathological conditions including membrane collapse, occlusion, and breach.
 
-**Key contributions:** ⧉ operator formalization, threshold mechanics, Kaionic tunneling, inter-expression boundary dynamics.
+**Key contributions:** ⧉ operator formalization, transfer mechanics, membrane taxonomy, Kaionic tunneling, membrane integrity diagnostics, pathological conditions.
 
 ---
 
 ### SP09 — Collective Resonance and Field Harmonics
 
-Addresses how multiple beings generate shared coherence fields. Formalizes harmonic bridging mechanics, collective resonance dynamics, and the structural conditions under which individual coherence fields synchronize into group-level phenomena.
+Extends SP07–SP08 mechanics to collective configurations. Multiple beings can generate shared resonance fields without violating the Non-Fusion Axiom — collective resonance operates through harmonic alignment, not ontological merger. Distinct essences remain distinct; what unifies is orientation, not identity. Addresses both centropic collectives (harmonic bridging, mutual coherence amplification) and entropic collectives (swarm dynamics, Shimmer at scale, manufactured consensus).
 
-**Key contributions:** Shared coherence fields, harmonic bridging, collective resonance dynamics.
+**Key contributions:** Collective resonance theory, field generation mechanics, centropic contra entropic collectives, collective Coherence Potential, distinguishing genuine collectives from swarm mimicry.
 
 ---
 
 ### SP10 — Ritual Energetics and Integration Protocols
 
-Provides the formal treatment of field seals, integration mechanics, and the structural conditions for coherent energetic practice. Addresses siphoning countermeasures and the lawful protocols for field maintenance and restoration.
+Formalizes ritual action as directed resonance engineering — the deliberate manipulation of Coherence Potential, membrane permeability, and field orientation through structured protocol. Every veracious ritual corresponds to a measurable operation on the Lattice: a change in \( I_c \), a modification of membrane permeability \( \sigma(⧉) \), a redirection of Coherence Current \( \vec{J}_c \), or a transformation of \( \chi \). Establishes field seal taxonomy and construction mechanics, integration protocols, siphoning countermeasures, and energetic cost theory.
 
-**Key contributions:** Field seal formalization, integration mechanics, siphoning countermeasures, energetic protocol architecture.
+**Key contributions:** Ritual as directed resonance engineering, field seal formalization, integration protocols, siphoning countermeasures, energetic cost theory, ritual efficacy diagnostics.
 
 ---
 
 ### SP11 — Embodiment Dynamics
 
-Focuses on \( L_1 \) / \( IL_1 \) — the metric terminus where structural expression meets embodied manifestation. Formalizes corporeal resonance mechanics, the physical/structural intersection, and the dynamics of how hypostatic traversal resolves into embodied form.
+Formalizes the metric terminus: L₁ / IL₁ as the terminal layer of emanatory procession where structural resonance interfaces with corporeal form. At the metric terminus, centropic and entropic beings share the same corporeal domain, introducing dynamics found at no other layer — a resistance to centropic motion arising from the entropic interface, consequential immediacy to the stagnation-dissolution principle (SP04 §9), and the condition of entropy's enthronement where dispersive will achieves maximum expression through material control. Embodiment is simultaneously the furnace of centropic refinement and the throne of entropic sovereignty.
 
-**Key contributions:** Metric terminus formalization, corporeal resonance, embodiment as structural resolution.
+**Key contributions:** Metric terminus formalization, corporeal resonance mechanics, the Embodied Resistance Term, embodied \( \chi \)-dynamics, entropic enthronement, cross-band resonance, membrane dynamics at ⧉₁, physical interface without overclaiming.
 
 ---
 
 ### SP12 — Structural Diagnostics and Field Forensics
 
-The applied capstone. Develops systematic diagnostic methodologies using C/E operators, Shimmer detection protocols, coherence assessment frameworks, and field forensic techniques for identifying structural integrity, parasitic patterns, and resonance anomalies.
+The diagnostic capstone. Every structural configuration — individual, collective, institutional, doctrinal, or artifactual — produces a readable field signature: a composite profile of its Coherence Potential, Coherence Current, membrane configuration, orientation, and dimensional operator activity. Establishes the C/E operators as formal diagnostic instruments, provides the formal physics of Shimmer (recursive mimicry as a detectable field phenomenon), clone identification through derivative-source signature mismatch, and systematic coherence audit methodology. Diagnostic physics does not take sides; it reads the field.
 
-**Key contributions:** Diagnostic methodology, Shimmer detection, coherence assessment, field forensic protocols.
+**Key contributions:** Field signature theory, diagnostic operator theory, Shimmer physics, clone identification, coherence audit methodology, the Structural Forensic interface.
 
 ---
 
@@ -135,7 +137,7 @@ Each document depends on all preceding documents.
 
 ## Key Concepts
 
-**The Dimensional Emanatory Lattice** — The hypostatic layer system (\( L_5 \) through \( L_1 \) and their inversions \( IL_5 \) through \( IL_1 \)) through which expression traverses from pre-individuated source to embodied manifestation.
+**The Dimensional Emanatory Lattice** — The hypostatic layer system (L₅ through L₁ and their inversions IL₅ through IL₁) through which expression traverses from pre-individuated source to embodied manifestation.
 
 **Bifurcal Coherence** — The structural condition in which Zero and Infinity converge without fusion, enabling dual-pole emanation.
 
@@ -161,7 +163,7 @@ Each document depends on all preceding documents.
 
 **Structural Metaphysics (SM Series)** — Establishes the ontological and doctrinal framework from which Structural Physics derives its principles.
 
-**Field Physics (FP Series)** — Documents the dimensional operators (\( C_1 \)–\( C_{15} \) and \( E_1 \)–\( E_{15} \)) and their hypostatic layer assignments.
+**Field Physics (FP Series)** — Documents the dimensional operators (C₁–C₁₅ and E₁–E₁₅) and their hypostatic layer assignments.
 
 ---
 
