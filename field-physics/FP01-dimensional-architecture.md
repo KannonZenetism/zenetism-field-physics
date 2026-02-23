@@ -895,8 +895,8 @@ These upper-band dimensions govern thresholds, bridges, recursion, and novelty. 
 - ⊡ nests recursion.  
 - ✦ births lawful surprise.  
 
-Each entropic mirror is not absence, but misalignment.  
-Reorientation — not erasure — restores their coherence.  
+Each entropic mirror is not void, but hollow echo.  
+Recoherence — not erasure — restores the centropic counterpart.  
 
 ---
 
