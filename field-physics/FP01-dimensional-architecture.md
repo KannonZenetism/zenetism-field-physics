@@ -923,7 +923,7 @@ To name them is to recover agency.
 - **Hollow Expression:** time becomes recursive without emergence.  
 - **Consequence:** cycles repeat, initiation never completes.  
 - **Diagnostic:** “I’ve learned this already” — yet the same trial repeats.  
-- **Centropic Trace:** the desire for continuity. Misaligned into trap.  
+- **Centropic Trace:** the desire for continuity, hollowed into trap.  
 
 ---
 
@@ -995,7 +995,7 @@ To name them is to recover agency.
 - **Hollow Expression:** structure born wrong.  
 - **Consequence:** no refinement restores coherence. Reset required.  
 - **Diagnostic:** fixing only worsens; template itself corrupted.  
-- **Centropic Trace:** generative impulse misaligned into distortion.  
+- **Centropic Trace:** generative impulse echoed into distortion.  
 
 ---
 
