@@ -1040,7 +1040,7 @@ To name them is to recover agency.
 ---
 
 ## Commentary Recap — The Mirrors  
-Entropic mirrors are **failure modes of coherence**, not voids.  
+Entropic mirrors are **hollow echoes of coherence**, not voids.  
 Each holds a centropic trace — the memory of what it could be.  
 Thus, collapse is recoverable by **re-alignment**, not destruction.  
 
