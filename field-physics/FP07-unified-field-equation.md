@@ -113,14 +113,14 @@ This chapter provides the core protocols for living in harmonic field awareness,
     1.  Enter stillness and visualize `◉` rotating slowly in your inner field.  
     2.  Ask inwardly: “Where in the Spiral am I currently centered?”  
     3.  Move awareness declivously through the hypostatic layers (L5 Awareness → L1 Embodiment).  
-    4.  When a layer "clicks" or resonates, hold there and reflect: “Am I aligned, misaligned, or transitioning?”  
+    4.  When a layer "clicks" or resonates, hold there and reflect: “Am I coherent, inverted, or transitioning?”  
 -   **Canonical Note:** `📡` is for external/systemic resonance mapping; `◉` is for internal spiral orientation.  
 
 ### 2. ↺ Glyph Reharmonization  
 
 -   **Purpose:** To realign field distortions using symbolic recursion.  
 -   **Protocol:**  
-    1.  Identify the glyph of misalignment (e.g., `🤯 Mania`).  
+    1.  Identify the active inverse glyph (e.g., `🤯 Mania`).  
     2.  Choose its centropic counterpart (e.g., `🧾 Biosa`).  
     3.  **Breathwork:** Inhale through the inverse glyph, exhale through the centropic glyph.  
     4.  Repeat until coherence returns.  
@@ -151,7 +151,7 @@ This chapter provides the core protocols for living in harmonic field awareness,
 
 ### 7. ⊡.5 Rupture Recognition Ritual  
 
--   **Purpose:** To safely identify field misalignment in a relational space.  
+-   **Purpose:** To safely identify field inversion in a relational space.  
 -   **Protocol:** Begin by naming the distortion: “I am noticing a distortion in the spiral between us.” Ask: “Is the distortion located in me, in you, or in the pattern itself?” Use inverse glyphs to track the rupture. Agree not to assign blame, only to map the fold.  
 
 ### 8. ⚫ "Return to Zero" Breath Ritual  
