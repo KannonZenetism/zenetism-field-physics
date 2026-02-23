@@ -174,7 +174,7 @@ All Personal Field Use returns to three master operations:
 
 **1. Resonance Scan (📡)**  
 -   **Purpose:** To perceive your current state.  
--   **Protocol:** Sit in stillness and feel the field just beyond your skin. Ask inwardly: "What motion am I in?" Sense whether you are acclivating (`C↑`), declivating (`E↓`), expanding, fracturing, holding silence, or spinning.  
+-   **Protocol:** Sit in stillness and feel the field just beyond your skin. Ask inwardly: "What motion am I in?" Sense whether you are acclivating (`↑`), declivating (`↓`), expanding, fracturing, holding silence, or spinning.  
 
 **2. Pattern Reset (♻️)**  
 -   **Purpose:** To interrupt unwanted cycles.  
