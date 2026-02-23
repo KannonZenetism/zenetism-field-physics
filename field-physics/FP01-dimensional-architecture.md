@@ -1042,7 +1042,7 @@ To name them is to recover agency.
 ## Commentary Recap — The Mirrors  
 Entropic mirrors are **hollow echoes of coherence**, not voids.  
 Each holds a centropic trace — the memory of what it could be.  
-Thus, collapse is recoverable by **re-alignment**, not destruction.  
+Thus, collapse is recoverable by **recoherence**, not destruction.  
 
 - Recursive Traps (⟠⁻, ◐⁻, ⊡⁻) = loops that hold nothing.  
 - Entropy Amplifiers (⟿⁻, ✴⁻, ❋⁻) = distortions that spread decay.  
