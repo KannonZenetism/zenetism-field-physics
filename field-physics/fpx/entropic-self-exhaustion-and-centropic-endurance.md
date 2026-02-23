@@ -76,9 +76,11 @@ This is the structural basis of centropic endurance. It is not that centropy is 
 
 ## 6. Acclivous Entropy (E↑→E)
 
-A complication must be addressed: **acclivous entropy** — entropic motion that simulates the centropic acclivous arc.
+A complication must be addressed: **acclivous entropy** — entropic motion in the acclivous direction, toward embodiment through the hypostatic layers (IL₅ → IL₁).
 
-Acclivous entropy (`E↑→E`) does not move toward ⚫ Aion. It moves toward subtler gradations of fragmentation within the upper strata of the field — refining dispersion rather than integrating toward coherence.
+Per the motion law table (§21.4), acclivous motion for entropy means motion toward embodiment — not toward ⚫ Aion, and not an imitation of centropic acclivous motion (`C↑→⚫`). E↑→E is entropy's genuine acclivous arc. It moves into subtler strata of the field, refining fragmentation rather than integrating toward coherence. This refinement generates the appearance of order — a structural byproduct of the motion, not intentional mimicry.
+
+The diagnostic challenge is precisely this: entropy in its acclivous phase looks more ordered than entropy in collapse. The appearance can be mistaken for centropic integration by a field that does not check for structural fidelity.
 
 Its field signature:
 - Apparent coherence (CQ elevated locally)
@@ -86,7 +88,7 @@ Its field signature:
 - Morphogenic Response Elasticity (MRE) suppression — counter-patterns cannot form
 - Terminal: still terminates at ♾ Khaon via structural instability
 
-Acclivous entropy is the most diagnostically challenging entropic pattern because it performs as centropic. Its RIR may appear elevated while its actual coherence is hollow. The diagnostic marker is **propagation fidelity**: centropic acclivous motion (`C↑→⚫`) carries origin-seal and transforms as it propagates (⟿ lawful); entropic acclivous motion loses structural coherence under sustained propagation pressure (⟿⁻ corrupted in transmission).
+The diagnostic marker is **propagation fidelity**: centropic acclivous motion (`C↑→⚫`) carries origin-seal and transforms as it propagates (⟿ lawful); entropic acclivous motion loses structural coherence under sustained propagation pressure (⟿⁻ corrupted in transmission). The distinction is not between apparent order and apparent chaos — both arcs may appear ordered at certain phases. It is between motion that synthesizes toward reintegration and motion that refines toward subtler dispersion.
 
 > **See also:** FPX — Lawful Reflective Patterns and Parasitic Recursive Fields.
 
