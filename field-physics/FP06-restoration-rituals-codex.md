@@ -270,7 +270,7 @@ Here the text codifies **behavioral protocols** for lawful presence across field
   - Ocean = flow, not resistance.  
   - Plains = clarity, not paradox without anchor.  
   - Volcanic = witness, not taming.  
-- Migration etiquette emphasizes offering coherence before seeking refuge — correct centropic orientation.  
+- Migration etiquette emphasizes offering coherence before seeking refuge — valid centropic orientation.  
 
 ### ⚠ Refinements
 - Add codex sidebar: “Etiquette ≠ morality. It is structural hygiene.” This prevents moral misread.  
