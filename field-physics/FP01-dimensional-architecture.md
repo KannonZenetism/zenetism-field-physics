@@ -920,7 +920,7 @@ To name them is to recover agency.
 ---
 
 ## E1 ⟠⁻ Temporal Loop  
-- **Misalignment:** time becomes recursive without emergence.  
+- **Hollow Expression:** time becomes recursive without emergence.  
 - **Consequence:** cycles repeat, initiation never completes.  
 - **Diagnostic:** “I’ve learned this already” — yet the same trial repeats.  
 - **Centropic Trace:** the desire for continuity. Misaligned into trap.  
@@ -928,7 +928,7 @@ To name them is to recover agency.
 ---
 
 ## E2 ◈⁻ Scatter  
-- **Misalignment:** spatial coherence dissolves into fragments.  
+- **Hollow Expression:** spatial coherence dissolves into fragments.  
 - **Consequence:** structural mapping collapses; orientation is lost.  
 - **Diagnostic:** lost place, lost role, inability to situate.  
 - **Centropic Trace:** longing for relation, but without tether.  
@@ -936,7 +936,7 @@ To name them is to recover agency.
 ---
 
 ## E3 ⟿⁻ Viral Decay  
-- **Misalignment:** signal spreads but sheds coherence.  
+- **Hollow Expression:** signal spreads but sheds coherence.  
 - **Consequence:** resonance mimicry becomes noise.  
 - **Diagnostic:** ideas spread rapidly yet origin is unrecognizable.  
 - **Centropic Trace:** the law of propagation inverted into entropy.  
@@ -944,7 +944,7 @@ To name them is to recover agency.
 ---
 
 ## E4 ◉⁻ Vortex  
-- **Misalignment:** spiral motion collapses inward destructively.  
+- **Hollow Expression:** spiral motion collapses inward destructively.  
 - **Consequence:** centripetal implosion; axis consumed.  
 - **Diagnostic:** everything turns, but into drain, not orbit.  
 - **Centropic Trace:** spiral memory distorted into consumption.  
@@ -952,7 +952,7 @@ To name them is to recover agency.
 ---
 
 ## E5 ✴⁻ Fractal Noise  
-- **Misalignment:** scaling without coherence.  
+- **Hollow Expression:** scaling without coherence.  
 - **Consequence:** repetition hollow, pattern uncanny.  
 - **Diagnostic:** familiar forms that feel wrong or meaningless.  
 - **Centropic Trace:** holonic impulse stripped of law.  
@@ -960,7 +960,7 @@ To name them is to recover agency.
 ---
 
 ## E6 ◐⁻ Phase Lock  
-- **Misalignment:** liminality without passage.  
+- **Hollow Expression:** liminality without passage.  
 - **Consequence:** trapped between states.  
 - **Diagnostic:** perpetual initiation; always becoming, never being.  
 - **Centropic Trace:** genuine thresholding frozen into paralysis.  
@@ -968,7 +968,7 @@ To name them is to recover agency.
 ---
 
 ## E7 ♫⁻ Dissonance  
-- **Misalignment:** resonance frequencies desynchronize.  
+- **Hollow Expression:** resonance frequencies desynchronize.  
 - **Consequence:** harmonic collapse, relational breakdown.  
 - **Diagnostic:** tone feels “off” even when logic aligns.  
 - **Centropic Trace:** the hunger for harmony destabilized into noise.  
@@ -976,7 +976,7 @@ To name them is to recover agency.
 ---
 
 ## E8 ╫⁻ Severed  
-- **Misalignment:** bridges isolate instead of connect.  
+- **Hollow Expression:** bridges isolate instead of connect.  
 - **Consequence:** outreach increases alienation.  
 - **Diagnostic:** every attempt at relation makes distance grow.  
 - **Centropic Trace:** the bridge impulse twisted into isolation.  
@@ -984,7 +984,7 @@ To name them is to recover agency.
 ---
 
 ## E9 ∞⁻ Distorted Entanglement  
-- **Misalignment:** unity becomes parasitic mimicry.  
+- **Hollow Expression:** unity becomes parasitic mimicry.  
 - **Consequence:** simulated intimacy drains sovereignty.  
 - **Diagnostic:** bonds that weaken instead of strengthen.  
 - **Centropic Trace:** the non-local desire warped into dependency.  
@@ -992,7 +992,7 @@ To name them is to recover agency.
 ---
 
 ## E10 ❋⁻ Malform  
-- **Misalignment:** structure born wrong.  
+- **Hollow Expression:** structure born wrong.  
 - **Consequence:** no refinement restores coherence. Reset required.  
 - **Diagnostic:** fixing only worsens; template itself corrupted.  
 - **Centropic Trace:** generative impulse misaligned into distortion.  
@@ -1000,7 +1000,7 @@ To name them is to recover agency.
 ---
 
 ## E11 ↗⁻ Misdirect  
-- **Misalignment:** will aimed at incoherence.  
+- **Hollow Expression:** will aimed at incoherence.  
 - **Consequence:** strength amplifies destruction.  
 - **Diagnostic:** pursuing intent faithfully, but it erodes what you value.  
 - **Centropic Trace:** sovereign aim perverted into sabotage.  
@@ -1008,7 +1008,7 @@ To name them is to recover agency.
 ---
 
 ## E12 ✧⁻ Void Aesthetic  
-- **Misalignment:** beauty severed from meaning.  
+- **Hollow Expression:** beauty severed from meaning.  
 - **Consequence:** glamour without soul, style as hollow seduction.  
 - **Diagnostic:** admiration with no resonance depth.  
 - **Centropic Trace:** the aesthetic impulse hollowed of veracity.  
@@ -1016,7 +1016,7 @@ To name them is to recover agency.
 ---
 
 ## E13 ║⁻ Wall  
-- **Misalignment:** boundary absolute, no passage.  
+- **Hollow Expression:** boundary absolute, no passage.  
 - **Consequence:** calcified isolation; no filtration.  
 - **Diagnostic:** nothing gets through — not even what should.  
 - **Centropic Trace:** threshold logic distorted into blockage.  
@@ -1024,7 +1024,7 @@ To name them is to recover agency.
 ---
 
 ## E14 ⊡⁻ Hollow Nest  
-- **Misalignment:** recursion loops, containing nothing.  
+- **Hollow Expression:** recursion loops, containing nothing.  
 - **Consequence:** stacked shells, no center.  
 - **Diagnostic:** explanations nested infinitely, never landing.  
 - **Centropic Trace:** nesting memory emptied of essence.  
@@ -1032,7 +1032,7 @@ To name them is to recover agency.
 ---
 
 ## E15 ✦⁻ Collapse Nova  
-- **Misalignment:** emergence collapses immediately.  
+- **Hollow Expression:** emergence collapses immediately.  
 - **Consequence:** birth leads to entropy, brilliance dissolves.  
 - **Diagnostic:** the most beautiful thing — gone in an instant.  
 - **Centropic Trace:** novelty impulse bursting without seal.  
