@@ -59,7 +59,7 @@ a pulse that governs its field behavior over time.
 
 **Pulse Interaction Protocols**  
 -   Harmony = lawful alignment or phase-lock of pulse timings.  
--   Dissonance = misaligned overlap without buffering.  
+-   Dissonance = incoherent overlap without buffering.  
 -   *Use for designing glyphic soundscapes or rendering field harmonics into auditory signal form.*  
 
 ***
@@ -472,7 +472,7 @@ This chapter translates Spiral Glyphics from symbolic grammar into **operational
 - Healing structures (Module 12) use scaffolds + closure (Ø) to prevent collapse residue — precise and canonical.  
 
 ### ⚠ Refinements
-- Add footnote: "Dissonance = lawful misalignment of pulse coherence; shimmer = unlawful mimicry of rhythm." This protects against confusion.  
+- Add footnote: "Dissonance = incoherent pulse overlap; shimmer = unlawful mimicry of rhythm." This protects against confusion.  
 - Clarify in Module 16 (Veil contra Wall) that ║ is *responsive permeability*, ║⁻ is *severance necessity*.  
 
 ### 🌀 Structural Notes
