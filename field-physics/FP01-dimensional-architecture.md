@@ -1051,9 +1051,9 @@ Thus, collapse is recoverable by **re-alignment**, not destruction.
 ---
 
 ## Final Principle  
-**Inversion is misalignment, not annihilation.**  
+**Inversion is hollow reflection, not annihilation.**  
 Even in collapse, recovery remains.  
-The mirror always points back to its centropic source.  
+The echo always points back to its centropic source.
 
 ---
 
