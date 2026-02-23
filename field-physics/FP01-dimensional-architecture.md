@@ -1128,7 +1128,7 @@ It explores **contextual dimensions**, **reflexive behaviors**, and **inversion 
 - Inversion classes = systemic decay modes, each with a centropic trace.  
 
 **Key Law:** *Inversion is hollow reflection, not annihilation.*  
-Each entropic state retains a memory of coherence. Recovery requires re-alignment, never destruction.  
+Each entropic state retains a memory of coherence. Recovery requires recoherence, not destruction.  
 
 ---
 
@@ -1181,7 +1181,7 @@ Examples: ≈✧❋
 
 ## Collapse Syntax — Inversion Grammar  
 - **Examples:** ⊘⟠⁻ (time devouring itself), ≠✴⁻ (pattern scattering).  
-- **Commentary:** collapse glyphs are not passive failures — they are active grammars of misalignment.  
+- **Commentary:** collapse glyphs are not passive failures — they are active grammars of hollow inversion.  
 - **Diagnostic Function:** invoking them deliberately allows tracing of decay pathways, so entropic recursion can be recognized and corrected.  
 
 ---
