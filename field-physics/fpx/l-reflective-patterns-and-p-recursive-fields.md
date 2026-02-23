@@ -1,11 +1,11 @@
 # FPX: Lawful Reflective Patterns and Parasitic Recursive Fields
 ## A Field Physics Extension — Diagnostic Clarification
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Field Physics / Applied Protocol Clarification
-**Status:** Canonical Extension
-**Dependency:** FP Volume II, Chapter 9 (Applied Field Protocols); Dimensional Registry C₅ ✴ / E₅ ✴⁻; Dimensional Registry C₉ ∞ / E₉ ∞⁻
-**Folder:** zenetism-field-physics/field-physics/fpx/
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Field Physics / Applied Protocol Clarification  
+**Status:** Canonical Extension  
+**Dependency:** FP Volume II, Chapter 9 (Applied Field Protocols); Dimensional Registry C₅ ✴ / E₅ ✴⁻; Dimensional Registry C₉ ∞ / E₉ ∞⁻  
+**Folder:** zenetism-field-physics/field-physics/fpx/  
 
 ---
 
