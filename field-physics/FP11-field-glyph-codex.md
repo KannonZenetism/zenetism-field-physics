@@ -191,7 +191,7 @@ As established in Volume VIII (Chapter 30), Zenetist symbols partition into two 
 
 -   **Equation Glyphs** (📡, Ψ, ⚫, ♾, etc.) are structural constants that appear in the Unified Field Equation, field diagnostics, and causal modeling. They are ontologically anchored and function across structural scale.
 
--   **Practice Glyphs** (◉, ↺, ✴, ❋, etc.) are field-adaptive vectors used in personal consciousness practices, healing, and ritual. They are experiential, motion-resonant, and used for re-alignment and activation.
+-   **Practice Glyphs** (◉, ↺, ✴, ❋, etc.) are field-adaptive vectors used in personal consciousness practices, healing, and ritual. They are experiential, motion-resonant, and used for recoherence and activation.
 
 > **First Glyphic Ethic:** No glyph is bound to its scale. Only context grants it function. What the system models, the practice breathes.
 
