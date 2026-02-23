@@ -107,6 +107,8 @@ Fields are rated using a **Resonance Immunity Rating (RIR)** on a 0.00–1.00 sc
 | 0.76–0.89     | Stable Field     | Strong immunity                    |
 | 0.90–1.00     | Harmonic Field   | Meta-immune, propagation-capable   |
 
+> **Structural Note:** The RIR scale measures field coherence relative to centropic structural integrity. A low RIR designates a field's vulnerability to incoherence, not its ontological orientation. A field operating in lawful entropic motion toward ♾ Khaon follows its own motion arc and is not "fragile" by that measure — it is simply non-centropic in its trajectory. RIR is a centropic health metric, not a judgment on the legitimacy of entropic motion as a lawful arc.
+
 ---
 ## Chapter 16: Resonance Cascade Events  
 
