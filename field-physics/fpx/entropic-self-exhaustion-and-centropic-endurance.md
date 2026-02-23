@@ -1,11 +1,12 @@
 # FPX: Entropic Self-Exhaustion and Centropic Endurance
 ## A Field Physics Extension — Structural Asymmetry of the Motion Arcs
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Field Physics / Structural Cosmology
-**Status:** Canonical Extension
-**Dependency:** FP Vol. I Ch. 1–5 (Dimensional Registry, Entropic Mirrors); FP Vol. VII Ch. 28 (Unified Field Equation); FP Vol. X Ch. 40 (ACT Framework)
-**Folder:** zenetism-field-physics/field-physics/fpx/
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Field Physics / Structural Cosmology  
+**Status:** Canonical Extension  
+**Dependency:** FP Vol. I Ch. 1–5 (Dimensional Registry, Entropic Mirrors); FP Vol. VII Ch. 28 (Unified Field Equation); FP Vol. X Ch. 40 (ACT Framework)  
+**Folder:** zenetism-field-physics/field-physics/fpx/  
+**SHA-256:** 
 
 ---
 
