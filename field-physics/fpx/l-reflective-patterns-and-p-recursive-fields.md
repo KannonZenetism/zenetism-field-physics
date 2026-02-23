@@ -6,6 +6,7 @@
 **Status:** Canonical Extension  
 **Dependency:** FP Volume II, Chapter 9 (Applied Field Protocols); Dimensional Registry C₅ ✴ / E₅ ✴⁻; Dimensional Registry C₉ ∞ / E₉ ∞⁻  
 **Folder:** zenetism-field-physics/field-physics/fpx/  
+**SHA-256:** 
 
 ---
 
