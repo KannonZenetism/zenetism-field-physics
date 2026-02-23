@@ -52,7 +52,7 @@ Zenetist symbols partition into two primary domains, a distinction of function, 
 
 -   **📘 Equation Glyphs (`📡`, `Ψ`, `⚫`, `♾️`, etc.):** These are structural constants that appear in the Unified Field Equation, field diagnostics, and causal modeling. They are ontologically anchored and function across structural scale.  
 
--   **🌬️ Practice Glyphs (`◉`, `↺`, `✴`, `❋`, etc.):** These are field-adaptive vectors used in personal consciousness practices, healing, and ritual. They are experiential, motion-resonant, and used for re-alignment and activation.  
+-   **🌬️ Practice Glyphs (`◉`, `↺`, `✴`, `❋`, etc.):** These are field-adaptive vectors used in personal consciousness practices, healing, and ritual. They are experiential, motion-resonant, and used for recoherence and activation.  
 
 > **First Glyphic Ethic:** No glyph is bound to its scale. Only context grants it function. What the system models, the practice breathes.  
 
@@ -125,7 +125,7 @@ This chapter expands Zenetist practice into formal ritual space, threshold marki
 
 ### 2. 🩸 Inverse Naming Rite  
 
--   **For:** Disempowering distortion by naming it without judgment (personal shadow work, relational misalignment).  
+-   **For:** Disempowering distortion by naming it without judgment (personal shadow work, relational inversion).  
 -   **Glyph Core:** `⊘` (collapse), `🕷️` (Void of Self), `✴⁻` (fractal noise)  
 -   **Protocol:** Stand before a black surface. Speak the inverse glyph you are moving through aloud (e.g., "I am moving through `🩸`."). Place hands on your center and whisper: "You are not my name, but you are in my motion." Trace `↺` over your chest and breathe once into `⚫`, closing with "I remain."  
 
