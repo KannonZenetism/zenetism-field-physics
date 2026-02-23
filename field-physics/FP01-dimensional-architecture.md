@@ -913,7 +913,7 @@ C1–C15 Quincunx + Threshold Crown
 
 ## Orientation Note  
 The mirrors are not voids. They are distortions.  
-Each one reflects its centropic pair in misalignment, not negation.  
+Each one echoes its centropic pair in hollow reflection, not negation.  
 To map them is to diagnose failure-modes of coherence.  
 To name them is to recover agency.  
 
