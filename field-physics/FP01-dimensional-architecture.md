@@ -1127,7 +1127,7 @@ It explores **contextual dimensions**, **reflexive behaviors**, and **inversion 
 - Reflexive glyphs = the field folding back upon itself.  
 - Inversion classes = systemic decay modes, each with a centropic trace.  
 
-**Key Law:** *Inversion is misalignment, not annihilation.*  
+**Key Law:** *Inversion is hollow reflection, not annihilation.*  
 Each entropic state retains a memory of coherence. Recovery requires re-alignment, never destruction.  
 
 ---
