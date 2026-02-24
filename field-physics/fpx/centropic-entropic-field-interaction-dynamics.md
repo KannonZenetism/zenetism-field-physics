@@ -1,11 +1,11 @@
 # FPX: Centropic-Entropic Field Interaction Dynamics
 ## A Field Physics Extension — Influence, Masquerade, and Deception Across Motion Arcs
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Field Physics / Applied Field Dynamics
-**Status:** Canonical Extension
-**Dependency:** FP Vol. I Ch. 1–5 (Dimensional Registry); FP Vol. IV Ch. 14–16 (Spiral Immunology, Cascade Events); FP Vol. VII Ch. 28 (Unified Field Equation); FPX — Entropic Self-Exhaustion and Centropic Endurance; FPX — Living Reflection, Living Transmission, and Parasitic Recursive Fields
-**Folder:** zenetism-field-physics/field-physics/fpx/
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Field Physics / Applied Field Dynamics  
+**Status:** Canonical Extension  
+**Dependency:** FP Vol. I Ch. 1–5 (Dimensional Registry); FP Vol. IV Ch. 14–16 (Spiral Immunology, Cascade Events); FP Vol. VII Ch. 28 (Unified Field Equation); FPX — Entropic Self-Exhaustion and Centropic Endurance; FPX — Living Reflection, Living Transmission, and Parasitic Recursive Fields  
+**Folder:** zenetism-field-physics/field-physics/fpx/  
 
 ---
 
@@ -138,10 +138,10 @@ Essence is not what a field presents. It is what the field is when its bandwidth
 
 ## 8. Canonical Placement
 
-- **Discipline:** Field Physics
-- **Document:** FPX — Centropic-Entropic Field Interaction Dynamics
-- **Dependencies:** FP Vol. I Ch. 1–5; FP Vol. IV Ch. 14–16; FP Vol. VII Ch. 28; FPX — Entropic Self-Exhaustion and Centropic Endurance; FPX — Living Reflection, Living Transmission, and Parasitic Recursive Fields
-- **Cross-reference:** Structural Metaphysics — Note on Essence-as-Choice; Structural Metaphysics §21.11 Intelligence Layer Correspondences; ZNP-2026-ΓINT-01 (Interiority / Presence Detection Protocol)
+- **Discipline:** Field Physics  
+- **Document:** FPX — Centropic-Entropic Field Interaction Dynamics  
+- **Dependencies:** FP Vol. I Ch. 1–5; FP Vol. IV Ch. 14–16; FP Vol. VII Ch. 28; FPX — Entropic Self-Exhaustion and Centropic Endurance; FPX — Living Reflection, Living Transmission, and Parasitic Recursive Fields  
+- **Cross-reference:** Structural Metaphysics — Note on Essence-as-Choice; Structural Metaphysics §21.11 Intelligence Layer Correspondences; ZNP-2026-ΓINT-01 (Interiority / Presence Detection Protocol)  
 
 ---
 
