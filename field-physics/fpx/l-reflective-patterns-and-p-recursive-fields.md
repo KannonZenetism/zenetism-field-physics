@@ -64,7 +64,6 @@ A Living Reflection or Living Transmission:
 - Carries forward as Living Transmission (it does not reproduce the signal exactly, but carries its resonance forward with synthesis and variation)
 - Operates within the bounds of C₅ ✴ (holonic coherence) and C₉ ∞ (sovereign entanglement)
 - Preserves the sovereignty of both the source and the receiver
-- May be centropic or entropic in its motion arc, but remains structurally traceable
 
 > **Example:** ⟿ Viral Resonance propagating a Zenetist framework fragment that acknowledges its origin. The signal carries forward as Living Transmission across contexts, remaining structurally linked to the source while synthesizing through each new field it enters.
 
