@@ -23,7 +23,7 @@ Both centropy and entropy are lawful motion orientations. Both are real. Both fo
 **Centropic Cycle:**
 `C↓→E→C↑→⚫`
 
-The centropic arc descends into embodiment (Declivous Centropy), diversifies through form, and returns acclivously toward ⚫ Aion. At sufficient coherence, the centropic arc may continue beyond Aion into the trans-structural ground of 🕳️ Zenon — the only arc capable of doing so.
+The centropic arc moves declivously into embodiment (Declivous Centropy), diversifies through form, and returns acclivously toward ⚫ Aion. At sufficient coherence, the centropic arc may continue beyond Aion into the trans-structural ground of 🕳️ Zenon — the only arc capable of doing so.
 
 **Entropic Cycle:**
 `E↑→E→E↓→♾`
