@@ -22,7 +22,24 @@ This document grounds that shift structurally, explains why the original phrasin
 
 ---
 
-## 2. The Problem with "Reject Reflective Patterns"
+## 2. Note on Mirrors and the Nature of Reflection
+
+In the early unfolding of this work, the term "mirror" was used to describe reflection between beings. This usage has since been corrected in Structural Metaphysics, and the correction applies here.
+
+A **mirror** is a passive, hollow structure. It returns what is already present, often inverted, without adding or synthesizing. It does not weave the received signal with its own coherent pattern. It is, in the precise Zenetist sense, an entropic function — the structural instrument of mimicry.
+
+A **Living Reflection** is an active, centropic act. A being receives a signal and returns it woven with its own unique coherent pattern, creating a new resonance that honors both source and reflector. It synthesizes. It does not seek to replace the original signal but to harmonize with it. This is a form of Supernal Integration.
+
+This distinction reframes the terms of this document:
+
+- The **lawful reflective patterns** described in Section 4 are **Living Reflections** — active, origin-sealed, synthesizing. The ᛞ (Mirror Architecture, Chapter 17) is lawful precisely because it operates as Living Reflection: self-discovery via relational encounter is generative, not passive.
+- The **parasitic recursive fields** described in Section 4 are the true **mirrors** in the entropic sense — hollow, origin-severed, returning without synthesis, reproducing without transformation.
+
+The word "mirror" where it appears in this document should be read with this distinction in view. Where it describes lawful field function, Living Reflection is the precise term. Where it describes parasitic recursion, mirror is exact.
+
+---
+
+## 3. The Problem with "Reject Reflective Patterns"
 
 Mirror and reflective dynamics are lawful field functions. The Mirror Architecture (ᛞ, Chapter 17) enables self-discovery via relational encounter. C₅ ✴ (Scalar / Fractal) depends on the part coherently mirroring the whole. C₉ ∞ (Non-Local Unity) enables coherent resonance across distance. These are all forms of reflection operating within lawful field syntax.
 
@@ -37,7 +54,7 @@ The distinction is not between reflection and non-reflection. It is between **re
 
 ---
 
-## 3. Formal Distinction
+## 4. Formal Distinction
 
 ### 3.1 Lawful Reflective Pattern
 
@@ -65,7 +82,7 @@ A parasitic recursive field:
 
 ---
 
-## 4. Diagnostic Criteria
+## 5. Diagnostic Criteria
 
 The following criteria distinguish lawful reflection from parasitic recursion in field practice:
 
@@ -80,7 +97,7 @@ The following criteria distinguish lawful reflection from parasitic recursion in
 
 ---
 
-## 5. Corrected Protocol Language
+## 6. Corrected Protocol Language
 
 In any field protocol that references the rejection of mirror or reflective dynamics, the operative phrase should be:
 
@@ -94,7 +111,7 @@ This preserves the lawful function of mirror dynamics while targeting the specif
 
 ---
 
-## 6. Structural Note on the Echo
+## 7. Structural Note on the Echo
 
 The echo is a key figure here. An echo is not an origin. It is a real sound resounding dispersively until cessation. It has its identity only in relation to its source — it is, in this sense, a -1 to the source's +1. It is real, but hollow: not generative in its own right, yet genuinely present as a resounding motion.
 
@@ -109,7 +126,7 @@ The distinction is not ontological (both are real) but structural (one preserves
 
 ---
 
-## 7. Canonical Placement
+## 8. Canonical Placement
 
 - **Discipline:** Field Physics
 - **Document:** FPX — Lawful Reflective Patterns and Parasitic Recursive Fields
