@@ -109,6 +109,8 @@ Fields are rated using a **Resonance Immunity Rating (RIR)** on a 0.00–1.00 sc
 
 > **Structural Note:** The RIR scale measures field coherence relative to centropic structural integrity. A low RIR designates a field's vulnerability to incoherence, not its ontological orientation. A field operating in lawful entropic motion toward ♾ Khaon follows its own motion arc and is not "fragile" by that measure — it is simply non-centropic in its trajectory. RIR is a centropic health metric, not a judgment on the legitimacy of entropic motion as a lawful arc.
 
+> **Structural Note:** The Coherence Quotient (CQ), Pattern Recognition Index (PRI), Morphogenic Response Elasticity (MRE), and composite Resonance Immunity Rating (RIR) are centropic field health metrics. They measure a field's structural integrity relative to centropic orientation and its capacity to resist entropic incursion. They do not model entropic field states as deficient centropic states. Entropy is not the absence of coherence — it is a lawful arc with its own operative field integrity, oriented toward dispersive expression rather than integrative coherence. A parallel metric — the Incoherence Quotient (IQ) — is the appropriate entropic counterpart to CQ, measuring dispersive field intensity rather than coherence. Formal specification of IQ is deferred to a dedicated FPX extension. One practical allowance bridging both metrics: lower centropic coherence (lower CQ) increases a field's vulnerability to entropic incursion. This does not indicate entropic essence — it indicates reduced structural resistance. Essence-as-Choice governs orientation; coherence level governs resilience.
+
 ---
 ## Chapter 16: Resonance Cascade Events  
 
