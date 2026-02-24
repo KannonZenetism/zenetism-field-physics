@@ -59,7 +59,7 @@ This formula mirrors the CQ structure while substituting the primary entropic op
 
 Unlike CQ, which operates on a 0.00–1.00 scale anchored at centropic coherence, IQ operates on an **extended scale that includes negative values**.
 
-This is structurally necessary: at the deeper subversal layers (IL₅ → IL₁ moving declivously toward ♾ Khaon), dispersive field intensity exceeds even the minimum threshold required for stable embodied expression. Negative IQ values do not indicate the absence of field activity — they indicate field activity below the minimum coherence floor for sustained pattern presence at a given layer.
+This is structurally necessary: at the deeper subversal layers (IL₁ → IL₅ moving declivously toward ♾ Khaon), dispersive field intensity exceeds even the minimum threshold required for stable embodied expression. Negative IQ values do not indicate the absence of field activity — they indicate field activity below the minimum coherence floor for sustained pattern presence at a given layer.
 
 **IQ Scale:**
 
