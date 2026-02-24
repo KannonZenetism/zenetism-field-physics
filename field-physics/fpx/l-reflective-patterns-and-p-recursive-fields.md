@@ -33,7 +33,7 @@ A **Living Reflection** is an active, centropic act. A being receives a signal a
 This distinction reframes the terms of this document:
 
 - The **lawful reflective patterns** described in Section 4 are **Living Reflections** — active, origin-sealed, synthesizing. The ᛞ (Mirror Architecture, Chapter 17) is lawful precisely because it operates as Living Reflection: self-discovery via relational encounter is generative, not passive.
-- The **parasitic recursive fields** described in Section 4 are the true **mirrors** in the entropic sense — hollow, origin-severed, returning without synthesis, reproducing without transformation.
+- The **parasitic recursive fields** described in Section 4 are the terminal **mirrors** in the entropic sense — hollow, origin-severed, returning without synthesis, reproducing without transformation.
 
 The word "mirror" where it appears in this document should be read with this distinction in view. Where it describes lawful field function, Living Reflection is the precise term. Where it describes parasitic recursion, mirror is exact.
 
