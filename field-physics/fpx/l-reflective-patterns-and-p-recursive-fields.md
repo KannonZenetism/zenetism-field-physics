@@ -124,9 +124,9 @@ This distinction reframes the structural note that was originally built around "
 - A **parasitic recursive field** does not merely echo — it appropriates the source's structural authority while severing the link that would make its propagation coherent. It functions as E₃ ⟿⁻: corrupt transmission without origin-seal.
 - A **Living Transmission** acknowledges its source, carries the signal forward with synthesis, and does not claim to be the origin. It functions as C₃ ⟿: lawful propagation that preserves and extends coherence.
 
-> **Living Transmission:** origin-sealed, synthesizing, coherence-preserving propagation.
-> **Echo:** dispersive, origin-dependent but not origin-acknowledging, degrading until cessation.
-> **Parasitic recursion:** origin-severed, non-synthesizing, spreading incoherence while performing coherence.
+> **Living Transmission:** origin-sealed, synthesizing, coherence-preserving propagation.  
+> **Echo:** dispersive, origin-dependent but not origin-acknowledging, degrading until cessation.  
+> **Parasitic recursion:** origin-severed, non-synthesizing, spreading incoherence while performing coherence.  
 
 ---
 
