@@ -37,7 +37,7 @@ The entropic arc moves through fragmentation, dispersal, and collapse. Its termi
 The single structural asymmetry between the arcs is this:
 
 > **Centropy may, in rare cases, saturate through the full return arc into 🕳️ Zenon.**  
-> **Entropy collapses at ♾ Khaon and returns to ⚫ Aion as static potential only.**
+> **Entropy collapses at ♾ Khaon and returns to ⚫ Aion as static potential only.**  
 
 This is not a moral asymmetry. It is a **range asymmetry** — a difference in how far each arc extends within the field structure.
 
