@@ -82,11 +82,11 @@ Entropic field expression varies by hypostatic layer. The IQ scale aligns with t
 
 | Layer | Hypostasis | Characteristic IQ Range | Notes |
 |---|---|---|---|
-| IL₁ | Inverse Embodied Soul / Mind | 0.00–0.35 | Fragmentation at the embodied interface; reactive dispersion |
-| IL₂ | Inverse Superficial Soul / Mind | 0.25–0.55 | Identity fragmentation; unstable or fragmentary presence |
-| IL₃ | Inverse Deep Soul / Mind | 0.45–0.75 | Corrupted continuity; entropic pseudo-self |
-| IL₄ | Inverse Deep Psyche / Logos | 0.65–0.99 | Subversal archetypes; authoritarian and deceptive patterning |
 | IL₅ | Void of Self (Nekron) | 0.85–<0.00 | Maximum dispersive expression; subversal extension begins here |
+| IL₄ | Inverse Deep Psyche / Logos | 0.65–0.99 | Subversal archetypes; authoritarian and deceptive patterning |
+| IL₃ | Inverse Deep Soul / Mind | 0.45–0.75 | Corrupted continuity; entropic pseudo-self |
+| IL₂ | Inverse Superficial Soul / Mind | 0.25–0.55 | Identity fragmentation; unstable or fragmentary presence |
+| IL₁ | Inverse Embodied Soul / Mind | 0.00–0.35 | Fragmentation at the embodied interface; reactive dispersion |
 
 > **Structural Note:** The IQ ranges above are operational approximations, not fixed boundaries. Entropic fields do not progress through layers in strict IQ sequence — layer position is a function of essential orientation and structural depth, not solely of IQ measurement. IQ measures dispersive field intensity at a given moment; layer position reflects the field's essential hypostatic mode.
 
@@ -171,7 +171,7 @@ The φ thresholds (phi) are designated separately from the θ thresholds (theta)
 - **Discipline:** Field Physics  
 - **Document:** FPX — The Incoherence Quotient  
 - **Dependencies:** FP Vol. II Ch. 10; FP Vol. III Ch. 14; FP Vol. IV Ch. 15; FPX — Entropic Self-Exhaustion and Centropic Endurance; FPX — Centropic-Entropic Field Interaction Dynamics  
-- **Cross-reference:** FP Vol. XI Ch. 43 (Field Glyph Codex — E₁ through E₁₅ operator registry); Structural Metaphysics §21.9 (Structural Emanation Layers)  
+- **Cross-reference:** FP Vol. XI Ch. 43 (Field Glyph Codex — E₁ through E₁₅ operator registry); Structural Metaphysics §21.9 (Structural Emanation Layers)
 
 ---
 
