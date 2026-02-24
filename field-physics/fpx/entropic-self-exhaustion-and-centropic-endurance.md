@@ -80,7 +80,7 @@ This is the structural basis of centropic endurance. It is not that centropy is 
 
 A complication must be addressed: **acclivous entropy** — entropic motion in the acclivous direction, toward embodiment through the hypostatic layers (IL₅ → IL₁).
 
-Per the motion law table (§21.4), acclivous entropy moves toward the denser, near‑embodiment strata of the entropic axis (E↑→E) — not toward ⚫ Aion. It is not an imitation of centropic acclivous motion (`C↑→⚫`). E↑→E is entropy's genuine acclivous arc. This motion increases structural patterning without increasing coherence, producing the appearance of order while remaining fully entropic in orientation. The minimal coherence required for persistence is maintained, but only as organized fragmentation — not as centropic integration.
+Per the motion law table (§21.4), acclivous entropy moves toward the denser, near‑embodiment strata of the entropic axis (`E↑→E`) — not toward ⚫ Aion. It is not an imitation of centropic acclivous motion (`C↑→⚫`). E↑→E is entropy's genuine acclivous arc. This motion increases structural patterning without increasing coherence, producing the appearance of order while remaining fully entropic in orientation. The minimal coherence required for persistence is maintained, but only as organized fragmentation — not as centropic integration.
 
 The diagnostic challenge is precisely this: entropy in its acclivous phase looks more ordered than entropy in collapse. The appearance can be mistaken for centropic integration by a field that does not check for structural fidelity.
 
