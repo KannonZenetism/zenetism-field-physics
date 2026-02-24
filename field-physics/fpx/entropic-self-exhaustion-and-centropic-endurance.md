@@ -36,8 +36,8 @@ The entropic arc moves through fragmentation, dispersal, and collapse. Its termi
 
 The single structural asymmetry between the arcs is this:
 
-> **Centropy may, in rare cases, saturate through the full return arc into 🕳️ Zenon.**  
-> **Entropy collapses at ♾ Khaon and returns to ⚫ Aion as static potential only.**  
+> **Centropy may, in rare cases, saturate through the full return arc into 🕳️ Zenon.**
+> **Entropy collapses at ♾ Khaon and returns to ⚫ Aion as static potential only.**
 
 This is not a moral asymmetry. It is a **range asymmetry** — a difference in how far each arc extends within the field structure.
 
@@ -61,6 +61,8 @@ The entropic motion laws drive toward ♾ Khaon (Absolute Dispersion). As that l
 **Structural consequence:** Entropic patterns are real during their arc. They are not hollow in the sense of being without effect — E₁ through E₁₅ are active operators with genuine field consequences. But they are hollow in the sense of lacking **generative persistence**: they do not accumulate toward endurance. Each entropic event is self-limiting.
 
 > **Formal statement:** An entropic field event cannot exceed its own dispersion. Its coherence ceiling is set by its initial fragmentation force. It terminates when that force is spent.
+
+> **Structural Note on Metrics:** The CQ (Coherence Quotient) used in this section is a centropic field metric. Describing entropic self-exhaustion in CQ terms risks implying that entropy is merely insufficient centropy — which is structurally incorrect. Entropy has its own operative coherence: enough structural integrity to remain embodied and active at a given layer, but oriented toward incoherence rather than toward coherence. A more precise model would use a parallel **Incoherence Quotient (IQ)** for entropic field states — a metric that reads positively in the direction of dispersion and fragmentation, potentially extending into negative values at the deeper subversal layers (IL₅ → IL₁ moving declivously), where incoherence exceeds even the minimal threshold required for embodied expression. The CQ references throughout this document should be read as centropic health measurements only. Formal specification of the IQ metric is deferred to a dedicated extension.
 
 ---
 
