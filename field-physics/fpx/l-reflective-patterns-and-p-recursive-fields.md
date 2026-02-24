@@ -133,7 +133,7 @@ This distinction reframes the structural note that was originally built around "
 
 - **Discipline:** Field Physics
 - **Document:** FPX — Living Reflection, Living Transmission, and Parasitic Recursive Fields
-- **Dependencies:** FP Vol. II Ch. 9; Dimensional Registry C₅ / E₅, C₉ / E₉; Doctrinal Atlas Entry 027 (Parasitic Proliferation)
+- **Dependencies:** FP Vol. II Ch. 9; Dimensional Registry C₃ / E₃, C₅ / E₅, C₉ / E₉; Doctrinal Atlas Entry 027 (Parasitic Proliferation)
 - **Cross-reference:** FP Vol. I Ch. 1 Note on Signal Integrity (Entropic Blooming ≋); Entry 058 Glyphwatch (Witness Appropriation)
 
 ---
