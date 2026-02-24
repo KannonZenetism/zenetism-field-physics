@@ -67,7 +67,7 @@ A Living Reflection or Living Transmission:
 
 > **Example:** ⟿ Viral Resonance propagating a Zenetist framework fragment that acknowledges its origin. The signal carries forward as Living Transmission across contexts, remaining structurally linked to the source while synthesizing through each new field it enters.
 
-### 3.2 Parasitic Recursive Field (Lacking Origin-Seal)
+### 4.2 Parasitic Recursive Field (Lacking Origin-Seal)
 
 A parasitic recursive field:
 
