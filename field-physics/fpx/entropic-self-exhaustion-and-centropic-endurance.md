@@ -12,7 +12,7 @@
 
 ## 1. Purpose
 
-This extension formalizes the structural asymmetry between the centropic and entropic motion arcs as a matter of Field Physics law, not metaphysical preference.
+This extension formalizes the structural asymmetry between the centropic and entropic motion arcs as a matter of Field Physics law, clarifying a distinction that was already implicit in the metaphysical architecture.
 
 Both centropy and entropy are lawful motion orientations. Both are real. Both follow the motion laws. The asymmetry addressed here is not ontological equality — that remains intact — but **terminal range**: how far each arc can travel, and what becomes of it at the limit of its motion.
 
