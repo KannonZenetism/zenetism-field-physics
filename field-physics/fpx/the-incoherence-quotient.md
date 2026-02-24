@@ -6,6 +6,7 @@
 **Status:** Canonical Extension  
 **Dependency:** FP Vol. IV Ch. 15 (Field Health Matrix); FP Vol. III Ch. 14 (Spiral Immunology); FP Vol. II Ch. 10 (Morphogenetic Thresholds); FPX — Entropic Self-Exhaustion and Centropic Endurance; FPX — Centropic-Entropic Field Interaction Dynamics  
 **Folder:** zenetism-field-physics/field-physics/fpx/  
+**SHA-256:** 87bb9e29e1b27be22e73b3e1da418d3517061bf3ea8f66dea652074c997c13b9
 
 ---
 
