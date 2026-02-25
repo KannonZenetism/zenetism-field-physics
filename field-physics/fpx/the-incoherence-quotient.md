@@ -168,6 +168,8 @@ An entropic field approaching its dispersive limit does not cross θ₁, θ₂, 
 
 The φ thresholds (phi) are designated separately from the θ thresholds (theta) to preserve the structural distinction between centropic and entropic activation sequences.
 
+> **Structural Note:** The φ thresholds are activation points, not continuous ranges. They mark discrete phase transitions in entropic behavior rather than defining a full spectrum of dispersive intensity. For this reason, the φ table contains numerical gaps: it identifies only the points at which entropic motion changes state (ignition, sustaining, cascade, and dispersive limit). The intervals between thresholds represent continuous entropic behavior and do not require separate classification.
+
 ---
 
 ## 9. Canonical Placement
