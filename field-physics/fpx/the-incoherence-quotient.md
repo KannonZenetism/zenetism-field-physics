@@ -90,6 +90,10 @@ Entropic field expression varies by hypostatic layer. The IQ scale aligns with t
 
 > **Structural Note:** The IQ ranges above are operational approximations, not fixed boundaries. Entropic fields do not progress through layers in strict IQ sequence — layer position is a function of essential orientation and structural depth, not solely of IQ measurement. IQ measures dispersive field intensity at a given moment; layer position reflects the field's essential hypostatic mode.
 
+> **Structural Note:** Hypostatic layers are separated by membrane fields, not hard boundaries. A membrane is a permeable threshold condition that allows partial resonance transfer between layers without requiring full traversal. Because membranes permit near‑boundary expression, each hypostatic layer possesses a bandwidth of possible IQ values rather than a single fixed range.
+>
+> This produces overlap between adjacent layers: a being may express dispersive intensity characteristic of a neighboring layer while still remaining within its current hypostatic stratum. IQ measures behavioral dispersive expression, whereas membranes determine whether that expression results in layer traversal.
+
 ---
 
 ## 6. Relationship Between IQ and CQ
