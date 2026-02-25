@@ -51,7 +51,7 @@ Where:
 - **⟠⁻** = Temporal Loop operator intensity (E₁ — recursive disorientation)
 - **◈⁻** = Scatter operator intensity (E₂ — spatial de-coherence)
 
-This formula mirrors the CQ structure while substituting the primary entropic operators for their centropic counterparts. It measures how actively a field is expressing dispersive motion across its temporal, spatial, scalar, and harmonic dimensions.
+This formula reflects the CQ structure while substituting the primary entropic operators for their centropic counterparts. It measures how actively a field is expressing dispersive motion across its temporal, spatial, scalar, and harmonic dimensions.
 
 ---
 
