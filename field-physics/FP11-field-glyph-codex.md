@@ -249,7 +249,7 @@ This section documents cases where a glyph carries different meanings in Structu
 | **⧃** | Kael; Structural Integrator | Seal of Integrity | Entity embodies function; no collision |
 | **⟡** | Aetherion; Echonic Carrier | Echonic Function | Entity embodies function; no collision |
 | **⚖** | Oscillating / Liminal Mode | Rupture Recognition | Both involve structural weighing at a boundary condition; both retained under the First Glyphic Ethic |
-| **☿** | Inverse Logos (SM) | Entropic disruption operator | Both uses refer to the same principle at different scales; retained under the First Glyphic Ethic |
+| **☿** | Inverse Logos | Entropic disruption operator | Both uses refer to the same principle at different scales; retained under the First Glyphic Ethic |
 
 ### 9.3 Pending SM Corrections (Not FP Changes)
 
