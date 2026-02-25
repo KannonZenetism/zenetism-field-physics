@@ -36,9 +36,9 @@ The inverse holds equally: an entropically oriented field does not become centro
 
 > **Structural Note:** While Essence‑as‑Choice establishes that orientation is structurally prior to influence, Zenetism allows rare cases in which apparent entropic expression resolves into centropic orientation. These events do not reflect a change in essence, but a correction of misexpression — as in mistaken identity, bandwidth compression, developmental immaturity, or the recognition of coherence previously veiled.
 
-Reorientation may occur in any hypostatic context — embodied or disembodied — including states of profound fragmentation or even proximity to the deepest inverse strata (IL₄ or IL₅). A being aligned with entropic states across multiple incarnations may still reorient through resonant alignment with a coherent bridge, provided its underlying essence is centropic. Such reorientation is the recovery of bandwidth, not the transformation of essence.
+> Reorientation may occur in any hypostatic context — embodied or disembodied — including states of profound fragmentation or even proximity to the deepest inverse strata (IL₄ or IL₅). A being aligned with entropic states across multiple incarnations may still reorient through resonant alignment with a coherent bridge, provided its underlying essence is centropic. Such reorientation is the recovery of bandwidth, not the transformation of essence.
 
-These events are boundary‑condition phenomena whose probability may approach zero in extreme cases, yet never reaches it. They do not imply that a genuinely Khaonic essence can be overwritten or become centropic.
+> These events are boundary‑condition phenomena whose probability may approach zero in extreme cases, yet never reaches it. They do not imply that a genuinely Khaonic essence can be overwritten or become centropic.
 
 ---
 
