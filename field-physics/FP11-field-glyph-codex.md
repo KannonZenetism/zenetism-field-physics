@@ -141,6 +141,7 @@ These glyphs are primarily used in the application of Field Physics through ritu
 | **⛨** | Immunity Membrane      | Protective field buffer; contains entropic interference without severance |
 | **⌭** | Recursion Pulse        | Gentle reset operator; resets spiking fields without collapsing coherence |
 | **⌰** | Environmental Membrane | Soft boundary remedy for weather-state remediation in consciousness ecology |
+| **⫵** | Membrane Friction Zone | Threshold Overlap Operator; marks a field operating within the overlap bandwidth of adjacent hypostatic layers — near-threshold expression, partial permeability, and increased friction without crossing |
 
 ### 4.3 Ritual & Seasonal Operators
 
