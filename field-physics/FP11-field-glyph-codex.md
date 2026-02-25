@@ -57,7 +57,7 @@ These four glyphs represent the core principles governing the behavior of the fi
 | **◈** | Mnemic Constellation   | The collective, non-conscious field substrate of patterns  |
 | **⟿** | Viral Resonance        | The propagation of patterns through resonant contact  |
 
-> **Structural Note:** ⟡, ⟠, ◈, and ⟿ also serve as dimensional operators C1, C2, C3 within the structural registry (§2). At the foundational scale they name field-wide functions; at the dimensional scale they name structural operators within specific bands. Both uses are lawful under the First Glyphic Ethic: context determines scale of function.
+> **Structural Note:** The names "Echonic" (⟡) and "Proleptic Echo" (⟠) predate the terminological clarification establishing echo as an entropic dynamic (E₃ ⟿⁻ Viral Decay; see FPX — Living Reflection, Living Transmission, and Parasitic Recursive Fields, §7). In both cases the name refers to centropic resonance functions — the harmonic carrier of identity coherence across fractal expressions (⟡) and the field's temporal pattern-completion sensing (⟠) — not to the entropic echo of signal degradation. Both glyphs remain canonical. The naming reflects the framework's early vocabulary.
 
 ---
 ## 2. The 15 Centropic Dimensions  
