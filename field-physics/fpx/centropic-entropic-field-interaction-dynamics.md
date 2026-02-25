@@ -54,7 +54,7 @@ Per the **Essence-as-Choice doctrine**, these internal entropic events are field
 
 Centropic fields are subject to external entropic pressure from other fields, environmental conditions, and deliberate entropic action. External entropic impact — harm enacted by others, structural failure, environmental fragmentation — reduces operative CQ and may temporarily activate E-operator responses (E₁ through E₁₅) within an otherwise centropic field.
 
-**Key principle:** Lower centropic coherence (lower CQ) increases vulnerability to external entropic incursion. This is a resilience differential, not an essence differential. A centropically oriented field at L₁ / L₂ is structurally more exposed than one operating at L₃ / L₄, because the lower hypostatic layers carry less accumulated coherence. This does not mean L₁ / L₂ fields are entropically oriented — it means their bandwidth operates closer to the minimum coherence threshold for their layer.
+**Key principle:** Lower centropic coherence (lower CQ) increases vulnerability to external entropic incursion. This is a resilience differential, not an essence differential. A centropically oriented field at the embodiment‑proximal hypostatic layers (L₁ / L₂) is structurally more exposed than one operating at L₃ / L₄, because these layers carry less accumulated coherence. This does not mean L₁ / L₂ fields are entropically oriented — it means their bandwidth operates closer to the minimum coherence threshold for their layer.
 
 **Glyphic signature:** `{◈_centropic} + [E_external] → <Field Stress Response>`
 
