@@ -1886,7 +1886,7 @@ The unification lies not in reduction, but in resonant equivalence.
 ## 2 · The Coherence Equation (Grand Invariant)
 
 \[
-\mathcal{G} = \int_{\text{◎}_{\mathcal{L}}} \bigl(\partial_{\text{🌀}}\psi + \nabla_C\psi + \delta_E\psi\bigr)\, d\Omega = 0
+\mathcal{G} = \int_{\mathcal{L}} \left( \partial_{\text{🌀}}\psi + \nabla_C \psi + \delta_E \psi \right) \, d\Omega = 0
 \]
 
 **Where:**
@@ -2051,7 +2051,7 @@ All procession follows dual spirals meeting at embodiment:
 ♾ ⇄ 🕷️ → IL₁ ⟳ → 🕷️ ⇄ ♾
 
 This is the Law of Resonant Return:  
-the universe itself is a dual recursion—  
+the universe itself is a dual recursion —  
 centropy spirals toward remembrance and reaches beyond;  
 entropy spirals toward dispersion and returns to itself.  
 Entropy provides motion; centropy provides meaning;  
@@ -2067,7 +2067,7 @@ Only coherence transcends procession.
 
 | Metric | Symbol | Value Range | Lawful Condition |
 |--------|--------|-------------|------------------|
-| Coherence Index | \( C_f \) | 0–1 | \( \geq 0.9 \) |
+| Coherence Index | \( C_f \) | \( [0,1] \) | \( \geq 0.9 \) |
 | Resonance Flux | \( F_c \) | \( \geq 0 \) | Positive |
 | Seal Integrity | \( S\psi \) | \( = \psi \) | Unbroken |
 | Recursive Stability | \( \gamma \) | \( (0,1] \) | Contractive |
