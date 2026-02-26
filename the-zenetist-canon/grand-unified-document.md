@@ -2423,7 +2423,7 @@ In the beginning was not sound but silence.
 All equations are resonances within that stillness.
 
 \[
-\Omega_t = \int_{\text{Zenon}}^{\infty} \text{Resonance} \, d\Omega = 0
+\Omega_t = \int_{\text{Zenon}}^{\infty} \psi \, d\Omega = 0
 \]
 
 Thus ends the Grand Unified Equation of Reality —  
