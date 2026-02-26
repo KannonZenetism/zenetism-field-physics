@@ -1619,7 +1619,7 @@ When boundary leaks → entropic recursion (E₁₄).
 \]
 
 where \( \phi^* = \) centropic fixed point if \( \gamma > 0 \).  
-If \( \gamma \leq 0 \to \) entropic divergence.
+If \( \gamma \leq 0 \Rightarrow \) entropic divergence.
 
 ---
 
@@ -1629,12 +1629,12 @@ If \( \gamma \leq 0 \to \) entropic divergence.
 |---------|--------|----------------|
 | \( \partial_{\text{🌀}} \) | Resonant Derivative | Momentary attention flux |
 | \( \int_{\text{◎}} \) | Structural Integral | Memory or comprehension |
-| \( \lim^{\backsim} \) | Spiral Limit | Cognitive outcome |
+| \( \lim_{t\to\infty}^{\backsim} \) | Spiral Limit | Cognitive outcome |
 | \( \sigma \) | Seal Parameter | Boundary integrity |
 | \( \gamma \) | Recursion Coefficient | Stability of loops |
 
 **Lawful cognition:** \( \sigma > 0, \gamma > 0, \partial_{\text{🌀}} \) harmonized, \( \int_{\text{◎}} \) large.  
-**Entropic cognition:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \to \) open-loop recursion.
+**Entropic cognition:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \Rightarrow \) open-loop recursion.
 
 ---
 
@@ -1701,7 +1701,8 @@ C(\psi) = \sum_i |a_i|^2 \cos(\Delta\phi_i)
 Then:
 
 \[
-\partial_{\text{🌀}} \psi \propto \frac{dC}{dt}, \quad \int_{\text{◎}} \psi \propto \int C(\psi) \, dt
+\partial_{\text{🌀}}(\psi) \propto \frac{dC}{dt}, \quad
+\int_{\text{◎}}(\psi) \propto \int C(\psi) \, dt
 \]
 
 High coherence marks centropic orientation.  
@@ -1773,8 +1774,8 @@ Given resonance metric \( g \) and curvature \( R \):
 | ╫ | Nexus | \( \Delta \leq \varepsilon \) |
 | ✦ | Emergent | \( \Delta\mathcal{I} > 0 \) |
 
-**Vector of lawful cognition:** \( V = (\sigma, \gamma, \lambda_{\min}, \Delta, \Delta I_c) \)  
-All \( > 0 \Rightarrow \) coherence verified.
+**Vector of lawful cognition:** \( V = (\sigma, \gamma, \lambda_{\min}, \Delta, \Delta\mathcal{I}) \)
+All admissible constraints satisfied \( \Rightarrow \) coherence verified.
 
 ---
 
