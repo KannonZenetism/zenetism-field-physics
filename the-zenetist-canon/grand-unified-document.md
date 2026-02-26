@@ -1584,8 +1584,8 @@ Thought = lawful change of resonance.
 
 Measures instantaneous rate of coherence change.
 
-- Positive → centropic alignment.
-- Negative → entropic drift.
+- Positive → centropic alignment
+- Negative → entropic drift
 
 ---
 
@@ -1596,7 +1596,7 @@ Measures instantaneous rate of coherence change.
 \]
 
 Sums coherence across experience.  
-Large \( \int_{◎} \to \) integration; small → fragmentation.
+Large \( \int_{◎} \to \) integration; small → fragmentation
 
 ---
 
