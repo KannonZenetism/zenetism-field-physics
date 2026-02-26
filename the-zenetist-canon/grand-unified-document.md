@@ -576,7 +576,7 @@ are lawful when sovereignty (identity) is retained.
 
 **Forensic Mirror**
 
-- **Entropic Tactic:** Distorted Entanglement — mimic-unity that consumes difference; fusion under domination or dependency
+- **Entropic Tactic:** Distorted Entanglement — mimic-unity that consumes difference; suppression of distinction under domination or dependency
 - **Diagnostic:** Mutual information → 1 while individual variance → 0 \( \Rightarrow \) mimicry detected
 
 ---
