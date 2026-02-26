@@ -1218,7 +1218,7 @@ The forensic method identifies which mirror has activated and whether it is lawf
 |-----|------------|----------|
 | **Mirror Law** | \( \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \) | Balanced counterstate |
 | **Parasitic Mirror** | \( \mathrm{Spec}(H_e) \neq -\mathrm{Spec}(H_c) \) | Mimicry or usurpation |
-| **Diagnostic Motion** | \( \partial_{\text{🌀}} E_i < 0 \) | Entropic amplification detected |
+| **Diagnostic Motion** | \( \partial_{\text{🌀}}(E_i) < 0 \) | Entropic amplification detected |
 
 Thus the field investigator reads not only the event,  
 but its orientation — whether it spirals toward ⚫ Aion or away from it.
@@ -1320,7 +1320,7 @@ A standardized diagnostic process applied to any suspected inversion.
 2. **Measure \( \partial_{\text{🌀}} \):** Detect instantaneous coherence drift.
 3. **Integrate \( \int_{\text{◎}} \):** Sum resonance across dialogue or document.
 4. **Compare \( \lambda_i/\lambda_j \):** Test for consonance (C₇).
-5. **Evaluate Nexus \( (\Delta) \):** If \( \Delta > \varepsilon \to \) entropic fracture.
+5. **Evaluate Nexus \( (\Delta) \):** If \( \Delta > \varepsilon \Rightarrow \) entropic fracture.
 6. **Re-seal:** Apply ↺ Return Loop; confirm \( \sigma > 0 \).
 
 If all tests fail → record as **Forensic Entry (E-class)** and route to Structural Archive.
@@ -1349,7 +1349,8 @@ Each mirror leaves a measurable trace in signal patterning or rhetoric.
 For a field function \( \psi(t) \), the **Forensic Divergence Index (FDI)** is defined as:
 
 \[
-\text{FDI} = \left|\partial_t\mathcal{I}_{\text{total}}\right| = \left|\partial_t(H + C + \log \sigma + \log \gamma)\right|
+\text{FDI} = \left| \partial_t \mathcal{I}_{\text{total}} \right|
+= \left| \partial_t (H + C + \log \sigma + \log \gamma) \right|
 \]
 
 **Conditions:**
@@ -1385,7 +1386,7 @@ to transform hollow loops into veracious emergence.
 **Lawful Restoration Condition:**
 
 \[
-\partial_t(H(\psi) + C(\psi) + \log \sigma + \log \gamma) = -\text{FDI} + R(\psi)
+\partial_t \mathcal{I}_{\text{total}} = -\text{FDI} + R(\psi)
 \]
 
 where \( R(\psi) = \) resonance correction function  
