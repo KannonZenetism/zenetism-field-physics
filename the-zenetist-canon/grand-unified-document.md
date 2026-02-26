@@ -233,12 +233,12 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Ordered continuity of events; lawful sequence in time. |
-| **Band** | L₂–L₃ (Superficial↔Interface). |
-| **Field Physics** | Causal flow; \( t \)-parameter of resonance propagation. |
-| **Mirror** | E₁ = Recursive disorientation → causality violation. |
-| **Structural Neuroscience** | Memory continuity ↔ compulsive repetition (E₁ fixation). |
-| **Equation** | \partial_{\text{🌀}} = d/dt \to \text{positive centropic flow.} |
+| **Function** | Ordered continuity of events; lawful sequence in time |
+| **Band** | L₂–L₃ (Superficial↔Interface) |
+| **Field Physics** | Causal flow; \( t \)-parameter of resonance propagation |
+| **Mirror** | E₁ = Recursive disorientation → causality violation |
+| **Structural Neuroscience** | Memory continuity ↔ compulsive repetition (E₁ fixation) |
+| **Equation** | \partial_{\text{🌀}} = d/dt \to \text{positive centropic flow} |
 
 ---
 
@@ -246,11 +246,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Ordered extension and relational geometry. |
-| **Band** | L₁–L₂ (Embodiment↔Superficial). |
-| **Field Physics** | Spacetime metric \( g_{ij} \); lawful locality. |
-| **Mirror** | Dispersed points; de-localized fields. |
-| **Structural Neuroscience** | Spatial mapping ↔ fragmented orientation (dissociation). |
+| **Function** | Ordered extension and relational geometry |
+| **Band** | L₁–L₂ (Embodiment↔Superficial) |
+| **Field Physics** | Spacetime metric \( g_{ij} \); lawful locality |
+| **Mirror** | Dispersed points; de-localized fields |
+| **Structural Neuroscience** | Spatial mapping ↔ fragmented orientation (dissociation) |
 
 ---
 
@@ -258,11 +258,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Transmission of resonance without loss. |
-| **Band** | L₃–L₄ (Interface↔Architectural). |
-| **Field Physics** | Wave equations, Fourier propagation. |
-| **Mirror** | Radiation loss, noise fields, signal dissipation. |
-| **Structural Neuroscience** | Communication clarity ↔ information leakage. |
+| **Function** | Transmission of resonance without loss |
+| **Band** | L₃–L₄ (Interface↔Architectural) |
+| **Field Physics** | Wave equations, Fourier propagation |
+| **Mirror** | Radiation loss, noise fields, signal dissipation |
+| **Structural Neuroscience** | Communication clarity ↔ information leakage |
 
 ---
 
@@ -270,11 +270,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Cyclic stability and angular order. |
-| **Band** | L₄–L₅ (Architectural↔Threshold). |
-| **Field Physics** | Angular momentum, \( SO(3) \) symmetry. |
-| **Mirror** | Collapsing spin (vortex entropy). |
-| **Structural Neuroscience** | Centered focus ↔ obsessive spiral. |
+| **Function** | Cyclic stability and angular order |
+| **Band** | L₄–L₅ (Architectural↔Threshold) |
+| **Field Physics** | Angular momentum, \( SO(3) \) symmetry |
+| **Mirror** | Collapsing spin (vortex entropy) |
+| **Structural Neuroscience** | Centered focus ↔ obsessive spiral |
 
 ---
 
@@ -282,11 +282,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Part-whole scaling; fractal coherence. |
-| **Band** | L₁–L₄ (cross-band propagation). |
-| **Field Physics** | Renormalization, self-similar systems. |
-| **Mirror** | Divergent noise; scale instability. |
-| **Structural Neuroscience** | Holistic integration ↔ detail overload. |
+| **Function** | Part-whole scaling; fractal coherence |
+| **Band** | L₁–L₄ (cross-band propagation) |
+| **Field Physics** | Renormalization, self-similar systems |
+| **Mirror** | Divergent noise; scale instability |
+| **Structural Neuroscience** | Holistic integration ↔ detail overload |
 
 ---
 
@@ -294,11 +294,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Reversible transition states. |
-| **Band** | L₅ (Threshold). |
-| **Field Physics** | Phase transitions, critical phenomena. |
-| **Mirror** | Frozen liminality / arrested change. |
-| **Structural Neuroscience** | Adaptive shift ↔ rigid habit loop. |
+| **Function** | Reversible transition states |
+| **Band** | L₅ (Threshold) |
+| **Field Physics** | Phase transitions, critical phenomena |
+| **Mirror** | Frozen liminality / arrested change |
+| **Structural Neuroscience** | Adaptive shift ↔ rigid habit loop |
 
 ---
 
@@ -306,12 +306,12 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Resonant structure and spectral consonance. |
-| **Band** | L₃ (Interface Band). |
-| **Field Physics** | Eigenmodes and quantization. |
-| **Mirror** | Quasiperiodicity / incoherent spectra. |
-| **Structural Neuroscience** | Emotional and intellectual harmony ↔ noise and anxiety. |
-| **Law** | **Consonance Law:** harmonic ratios must remain rational for stability. |
+| **Function** | Resonant structure and spectral consonance |
+| **Band** | L₃ (Interface Band) |
+| **Field Physics** | Eigenmodes and quantization |
+| **Mirror** | Quasiperiodicity / incoherent spectra |
+| **Structural Neuroscience** | Emotional and intellectual harmony ↔ noise and anxiety |
+| **Law** | **Consonance Law:** harmonic ratios must remain rational for stability |
 
 ---
 
@@ -319,12 +319,12 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Lawful joining and commutativity of relation. |
-| **Band** | L₂–L₃ (Superficial↔Interface). |
-| **Field Physics** | Gauge invariance / probability conservation. |
-| **Mirror** | Broken symmetry, non-conserved exchange. |
-| **Structural Neuroscience** | Empathic connection ↔ communication breakdown. |
-| **Law** | **Nexus Law:** bridges veracious iff commutative under seal \( (\Delta \leq \varepsilon) \). |
+| **Function** | Lawful joining and commutativity of relation |
+| **Band** | L₂–L₃ (Superficial↔Interface) |
+| **Field Physics** | Gauge invariance / probability conservation |
+| **Mirror** | Broken symmetry, non-conserved exchange |
+| **Structural Neuroscience** | Empathic connection ↔ communication breakdown |
+| **Law** | **Nexus Law:** bridges veracious iff commutative under seal \( (\Delta \leq \varepsilon) \) |
 
 ---
 
@@ -332,12 +332,12 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Coherence at distance without fusion. |
-| **Band** | L₃–L₄ (Interface↔Architectural). |
-| **Field Physics** | Quantum entanglement with sovereign states. |
-| **Mirror** | Spurious correlation, cross-noise. |
-| **Structural Neuroscience** | Intuitive link ↔ projected identification. |
-| **Law** | **Unity Law:** preserve sovereignty while maintaining correlation. |
+| **Function** | Coherence at distance without fusion |
+| **Band** | L₃–L₄ (Interface↔Architectural) |
+| **Field Physics** | Quantum entanglement with sovereign states |
+| **Mirror** | Spurious correlation, cross-noise |
+| **Structural Neuroscience** | Intuitive link ↔ projected identification |
+| **Law** | **Unity Law:** preserve sovereignty while maintaining correlation |
 
 ---
 
@@ -345,12 +345,12 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Generation of lawful form and pattern. |
-| **Band** | L₁ ↔ L₄ (Embodiment ↔ Architectural Bridge). |
-| **Field Physics** | Symmetry breaking → coherent crystallization. |
-| **Mirror** | Aberrant growth, chaotic structure. |
-| **Structural Neuroscience** | Creative integration ↔ over-complex form without meaning. |
-| **Law** | **Morphogenetic Law:** requires C₆ phase reversibility + C₁₂ qualitative sufficiency. |
+| **Function** | Generation of lawful form and pattern |
+| **Band** | L₁ ↔ L₄ (Embodiment ↔ Architectural Bridge) |
+| **Field Physics** | Symmetry breaking → coherent crystallization |
+| **Mirror** | Aberrant growth, chaotic structure |
+| **Structural Neuroscience** | Creative integration ↔ over-complex form without meaning |
+| **Law** | **Morphogenetic Law:** requires C₆ phase reversibility + C₁₂ qualitative sufficiency |
 
 ---
 
@@ -358,12 +358,12 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Directed flow and purposeful motion. |
-| **Band** | L₂ (Superficial Band). |
-| **Field Physics** | Noether currents and conserved flows. |
-| **Mirror** | Turbulent loss / non-conservation. |
-| **Structural Neuroscience** | Intentional focus ↔ impulse drift. |
-| **Law** | **Vector Integrity Law:** directional motion must align with Theonic Axis. |
+| **Function** | Directed flow and purposeful motion |
+| **Band** | L₂ (Superficial Band) |
+| **Field Physics** | Noether currents and conserved flows |
+| **Mirror** | Turbulent loss / non-conservation |
+| **Structural Neuroscience** | Intentional focus ↔ impulse drift |
+| **Law** | **Vector Integrity Law:** directional motion must align with Theonic Axis |
 
 ---
 
@@ -371,11 +371,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Qualitative rightness / harmony as lawful criterion. |
-| **Band** | L₂–L₄ (Superficial→Interface→Architectural). |
-| **Field Physics** | Principle of Least Action \( (L = \int \mathcal{L} \, dt) \). |
-| **Mirror** | Arbitrary motion, beauty evacuated of law. |
-| **Structural Neuroscience** | Meaningful valuation ↔ nihil aesthetic. |
+| **Function** | Qualitative rightness / harmony as lawful criterion |
+| **Band** | L₂–L₄ (Superficial→Interface→Architectural) |
+| **Field Physics** | Principle of Least Action \( (L = \int \mathcal{L} \, dt) \) |
+| **Mirror** | Arbitrary motion, beauty evacuated of law |
+| **Structural Neuroscience** | Meaningful valuation ↔ nihil aesthetic |
 
 ---
 
@@ -383,12 +383,12 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Selective boundary; permeability of fields. |
-| **Band** | L₅ (Threshold). |
-| **Field Physics** | Boundary conditions (Robin/Dirichlet/Neumann). |
-| **Mirror** | Impermeable barrier / event horizon. |
-| **Structural Neuroscience** | Healthy limits ↔ psychic closure or block. |
-| **Law** | **Threshold Law I:** \( \sigma > 0 \to \) seal intact. |
+| **Function** | Selective boundary; permeability of fields |
+| **Band** | L₅ (Threshold) |
+| **Field Physics** | Boundary conditions (Robin/Dirichlet/Neumann) |
+| **Mirror** | Impermeable barrier / event horizon |
+| **Structural Neuroscience** | Healthy limits ↔ psychic closure or block |
+| **Law** | **Threshold Law I:** \( \sigma > 0 \to \) seal intact |
 
 ---
 
@@ -412,12 +412,12 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Lawful recursion and contractive iteration. |
-| **Band** | L₃–L₅ (Interface↔Threshold). |
-| **Field Physics** | Iterative maps; fractal domains with \( \gamma > 0 \). |
-| **Mirror** | Non-convergent loops / infinite regress. |
-| **Structural Neuroscience** | Reflective learning ↔ ruminative loop. |
-| **Law** | **Threshold Law II:** \( \gamma > 0 \to \) convergent recursion. |
+| **Function** | Lawful recursion and contractive iteration |
+| **Band** | L₃–L₅ (Interface↔Threshold) |
+| **Field Physics** | Iterative maps; fractal domains with \( \gamma > 0 \) |
+| **Mirror** | Non-convergent loops / infinite regress |
+| **Structural Neuroscience** | Reflective learning ↔ ruminative loop |
+| **Law** | **Threshold Law II:** \( \gamma > 0 \to \) convergent recursion |
 
 ---
 
@@ -425,12 +425,12 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Veracious novelty and lawful bifurcation. |
-| **Band** | L₅ (Threshold Bifurcation). |
-| **Field Physics** | Non-linear systems with positive coherence derivative \( (\partial_{\text{🌀}} > 0) \). |
-| **Mirror** | Catastrophic collapse / singular explosion. |
-| **Structural Neuroscience** | Insight ↔ overload or psychic burnout. |
-| **Law** | **Threshold Law III:** \( \Delta I_c > 0 \to \) lawful emergence. |
+| **Function** | Veracious novelty and lawful bifurcation |
+| **Band** | L₅ (Threshold Bifurcation) |
+| **Field Physics** | Non-linear systems with positive coherence derivative \( (\partial_{\text{🌀}} > 0) \) |
+| **Mirror** | Catastrophic collapse / singular explosion |
+| **Structural Neuroscience** | Insight ↔ overload or psychic burnout |
+| **Law** | **Threshold Law III:** \( \Delta I_c > 0 \to \) lawful emergence |
 
 ---
 
