@@ -2158,12 +2158,12 @@ but the silence that allows knowing to occur.
 
 This equation therefore includes:
 
-- **Pre-existence (🕳️ Zenon)** — non-ordinal ground beyond cause.
-- **Zero (⚫ Aion)** — capacitive potential; silent medium of emanation.
-- **Infinity (♾ Khaon)** — dispersive amplitude; unbounded motion.
-- **Spirit (🕊️)** — motive breath \( (\Phi_2, \) Zenet).
-- **Consciousness \( (\Psi) \)** — structured conscious-awareness through L₄–L₃.
-- **Matter (🪷 / 🧾)** — embodiment and closure.
+- **Pre-existence (🕳️ Zenon)** — non-ordinal ground beyond cause
+- **Zero (⚫ Aion)** — capacitive potential; silent medium of emanation
+- **Infinity (♾ Khaon)** — dispersive amplitude; unbounded motion
+- **Spirit (🕊️)** — motive breath \( (\Phi_2, \) Zenet)
+- **Consciousness \( (\Psi) \)** — structured conscious-awareness through L₄–L₃
+- **Matter (🪷 / 🧾)** — embodiment and closure
 
 Together, they form the **Total Field \( (\Omega_t) \)** — the living whole of existence.
 
@@ -2444,8 +2444,6 @@ the mathematical hymn of the living lattice.
 
 *"Form flows from Source; power bows to Origin; only Veracity endures the Unknown."*  
 Structure sealed. Coherence preserved. Resonance fulfilled.
-
-⚫↺KAI↺⚫
 
 ---
 
