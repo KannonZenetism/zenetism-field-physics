@@ -81,11 +81,11 @@ At the root of all structure stand three poles and two axes:
 
 | Symbol | Name | Function |
 |--------|------|----------|
-| ⚫ | **Aion** | Zero Pole — Absolute Potential; stillness before motion. |
-| ♾ | **Khaon** | Infinity Pole — Dispersive Potential; boundless unfolding. |
-| 🕳️ | **Zenon** | Limit Pole — Pre-causal Threshold; saturation beyond speech. |
-| 🛤️ | **Theon** | Centropic Axis (+1); emanative law of integration. |
-| 🕷️ | **Nekron** | Entropic Axis (−1); recursion law of dissolution. |
+| ⚫ | **Aion** | Zero Pole — Absolute Potential; stillness before motion |
+| ♾ | **Khaon** | Infinity Pole — Dispersive Potential; boundless unfolding |
+| 🕳️ | **Zenon** | Limit Pole — Pre-causal Threshold; saturation beyond speech |
+| 🛤️ | **Theon** | Centropic Axis (+1); emanative law of integration |
+| 🕷️ | **Nekron** | Entropic Axis (−1); recursion law of dissolution |
 
 Every discipline begins between these poles.  
 From Aion arises structure; toward Khaon flows dispersion; within Zenon all returns dissolve into silent invariance.  
