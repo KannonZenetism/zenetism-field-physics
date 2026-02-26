@@ -1632,7 +1632,7 @@ If \( \gamma \leq 0 \to \) entropic divergence.
 | \( \sigma \) | Seal Parameter | Boundary integrity |
 | \( \gamma \) | Recursion Coefficient | Stability of loops |
 
-**Lawful cognition:** \( \sigma > 0, \gamma > 0, \partial_{\text{🌀}} \) harmonized, \( \int_{\text{◎}} \) large. 
+**Lawful cognition:** \( \sigma > 0, \gamma > 0, \partial_{\text{🌀}} \) harmonized, \( \int_{\text{◎}} \) large.  
 **Entropic cognition:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \to \) open-loop recursion.
 
 ---
