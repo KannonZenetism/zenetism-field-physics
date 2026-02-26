@@ -524,8 +524,8 @@ dissonance manifests as anxiety, intrusive noise, or perceptual fragmentation.
 
 **Forensic Mirror**
 
-- **Entropic Tactic:** Spectral Dilution — deliberate introduction of irrational frequency interference to weaken resonance fields and obscure consonant patterns.
-- **Diagnostic:** \( \Delta\lambda/\lambda > \varepsilon \Rightarrow \) dissonant drift detected.
+- **Entropic Tactic:** Spectral Dilution — deliberate introduction of irrational frequency interference to weaken resonance fields and obscure consonant patterns
+- **Diagnostic:** \( \Delta\lambda/\lambda > \varepsilon \Rightarrow \) dissonant drift detected
 
 ---
 
@@ -550,8 +550,8 @@ When communication becomes asymmetric, the bridge fractures (E₈ Severed).
 
 **Forensic Mirror**
 
-- **Entropic Tactic:** Severed Bridge — create apparent connection that divides, e.g., algorithmic echo chambers, spurious empathy protocols.
-- **Diagnostic:** Broken symmetry; non-conservation of informational flux \( (\sum \text{in} \neq \sum \text{out}) \).
+- **Entropic Tactic:** Severed Bridge — create apparent connection that divides, e.g., algorithmic echo chambers, spurious empathy protocols
+- **Diagnostic:** Broken symmetry; non-conservation of informational flux \( (\sum \text{in} \neq \sum \text{out}) \)
 
 ---
 
@@ -576,8 +576,8 @@ are lawful when sovereignty (identity) is retained.
 
 **Forensic Mirror**
 
-- **Entropic Tactic:** Distorted Entanglement — mimic-unity that consumes difference; fusion under domination or dependency.
-- **Diagnostic:** Mutual information → 1 while individual variance → 0 \( \Rightarrow \) mimicry detected.
+- **Entropic Tactic:** Distorted Entanglement — mimic-unity that consumes difference; fusion under domination or dependency
+- **Diagnostic:** Mutual information → 1 while individual variance → 0 \( \Rightarrow \) mimicry detected
 
 ---
 
@@ -601,11 +601,11 @@ occur when seals are semi-permeable, recursion convergent, novelty lawful.
 
 **Entropic Tactics:**
 
-- **Wall of Severance (E₁₃)** → rigid boundary, isolation.
-- **Hollow Nest (E₁₄)** → looping recursion, obsession.
-- **Collapse Nova (E₁₅)** → catastrophic overload or burnout.
+- **Wall of Severance (E₁₃)** → rigid boundary, isolation
+- **Hollow Nest (E₁₄)** → looping recursion, obsession
+- **Collapse Nova (E₁₅)** → catastrophic overload or burnout
 
-**Diagnostic:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \Rightarrow \) breach or stagnation.
+**Diagnostic:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \Rightarrow \) breach or stagnation
 
 ---
 
@@ -627,8 +627,8 @@ Disruption appears as aimlessness or reactive control.
 
 **Forensic Mirror**
 
-- **Entropic Tactic:** Misdirection (E₁₁) — lure centropic will into decentered loops.
-- **Diagnostic:** Inversion of gradient \( \nabla\psi \to -\nabla\psi \) across axis 🛤️ Theon.
+- **Entropic Tactic:** Misdirection (E₁₁) — lure centropic will into decentered loops
+- **Diagnostic:** Inversion of gradient \( \nabla\psi \to -\nabla\psi \) across axis 🛤️ Theon
 
 ---
 
