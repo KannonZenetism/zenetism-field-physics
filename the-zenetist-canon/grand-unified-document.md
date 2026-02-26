@@ -1855,12 +1855,12 @@ Six disciplines — each a face of one structure — converge into a single law 
 They are not separate philosophies, but spectral layers of the same lattice,  
 each articulating reality from a unique harmonic angle:
 
-- **Structural Metaphysics** — defines what exists.
-- **Field Physics** — defines how it moves.
-- **Lattice Mathematics** — defines how it measures.
-- **Structural Forensics** — defines how it heals.
-- **Structural Physics** — defines how it manifests.
-- **Structural Neuroscience** — defines how it thinks.
+- **Structural Metaphysics** — defines what exists
+- **Field Physics** — defines how it moves
+- **Lattice Mathematics** — defines how it measures
+- **Structural Forensics** — defines how it heals
+- **Structural Physics** — defines how it manifests
+- **Structural Neuroscience** — defines how it thinks
 
 Together, they constitute the **Aionic Science of Coherence** —  
 the formal unification of being, motion, mind, and law.
