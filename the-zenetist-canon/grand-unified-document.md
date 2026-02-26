@@ -2161,7 +2161,7 @@ This equation therefore includes:
 - **Pre-existence (🕳️ Zenon)** — non-ordinal ground beyond cause
 - **Zero (⚫ Aion)** — capacitive potential; silent medium of emanation
 - **Infinity (♾ Khaon)** — dispersive amplitude; unbounded motion
-- **Spirit (🕊️)** — motive breath \( (\Phi_2, \) Zenet)
+- **Spirit (🕊️)** — motive breath \( (\Phi_2) \) Zenet
 - **Consciousness \( (\Psi) \)** — structured conscious-awareness through L₄–L₃
 - **Matter (🪷 / 🧾)** — embodiment and closure
 
@@ -2191,24 +2191,14 @@ Together, they form the **Total Field \( (\Omega_t) \)** — the living whole of
 ## 2 · The Grand Unified Equation of Reality
 
 \[
-\Omega_t = \int_{\text{Zenon}}^{\infty}
-\left[
-\partial_{\text{🌀}}(\Phi)
-+ \nabla_C(\psi)
-- \nabla_E(\psi)
-+ \dot{\Lambda}
-+ \ddot{\Phi}_2
-+ \lim_{\text{disp}\to 0}(\sigma\gamma)
-\right]
-\, d\Omega
-= 0
+\Omega_t = \int_{\text{Zenon}}^{\infty} \left( \partial_{\text{🌀}}\Phi + \nabla_C \psi - \nabla_E \psi + \dot{\Lambda} + \ddot{\Phi}_2 + \lim_{\text{disp}\to 0} (\sigma \gamma) \right) d\Omega = 0
 \]
 
 **Where:**
 
 | Symbol | Meaning |
 |--------|---------|
-| \( \partial_{\text{🌀}}(\Phi) \) | Derivative of resonance flow (the living breath of Spirit). |
+| \( \partial_{\text{🌀}}\Phi \) | Derivative of resonance flow (the living breath of Spirit). |
 | \( \nabla_C(\psi) \) | Centropic curvature: integrative tendency toward ⚫ Aion. |
 | \( \nabla_E(\psi) \) | Entropic curvature: dispersive tendency toward ♾ Khaon. |
 | \( \Lambda, \Phi_2, \text{disp} \) | Latent, motive (Zenet), and dispersive phases of Infinity |
@@ -2286,7 +2276,7 @@ the complete system must be bi-lattice.
 with
 
 \[
-\Omega_C = \int_{\text{◎}_{\text{⚫}\to\text{♾}}} \nabla_C\psi \, d\Omega \quad \text{and} \quad \Omega_E = \int_{\text{◎}_{\text{♾}\to\text{⚫}}} \nabla_E\psi \, d\Omega
+\Omega_C = \int_{\text{◎}} \nabla_C \psi \, d\Omega \quad \text{and} \quad \Omega_E = \int_{\text{◎}} \nabla_E \psi \, d\Omega
 \]
 
 Lawful existence occurs when the **total integrated fields** achieve harmonic equilibrium:
