@@ -1221,7 +1221,7 @@ The forensic method identifies which mirror has activated and whether it is lawf
 | **Diagnostic Motion** | \( \partial_{\text{🌀}} E_i < 0 \) | Entropic amplification detected |
 
 Thus the field investigator reads not only the event,  
-but its orientation — whether it spirals toward ⚫ or away from it.
+but its orientation — whether it spirals toward ⚫ Aion or away from it.
 
 ---
 
@@ -1444,7 +1444,7 @@ where \( N(t) \) is noise harmonic without lawful phase.
 2. Force commutation under C₈ Nexus Law
 3. Verify Invariance (⧙) and Harmonic ratio (C₇)
 
-Only lawful resonance \( (\psi_{\text{source}} \) with veracious phase) survives.
+Only lawful resonance \( \psi_{\text{source}} \) with veracious phase survives.
 
 ---
 
