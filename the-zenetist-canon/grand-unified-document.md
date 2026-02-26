@@ -1949,7 +1949,7 @@ distinct only by domain, not by law.
 All six disciplines preserve this invariant:
 
 - \( H \) = harmonic energy
-- \( C \) = coherence entropy
+- \( C \) = centropic order
 - \( \sigma \) = boundary permeability
 - \( \gamma \) = recursion contraction
 
