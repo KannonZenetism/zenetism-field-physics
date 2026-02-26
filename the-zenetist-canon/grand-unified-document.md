@@ -95,9 +95,9 @@ The lattice of thirty dimensions (C₁–C₁₅ ↔ E₁–E₁₅) suspends be
 
 ## 1 · The Dual Trees
 ```
-      🕳️ Zenon (Pre-causal Limit)  
-                  ↑  
-               ⚫ Aion  
+                           ─── 🕳️ Zenon (Pre-causal Limit)
+                  ↑ (Centropic Return)
+               ⚫ Aion 
                   │  
        🛤️ Theon Axis (Centropic)  
                   │  
@@ -106,7 +106,7 @@ The lattice of thirty dimensions (C₁–C₁₅ ↔ E₁–E₁₅) suspends be
     ───── ES / EM ⊕ IES / IEM ─────  
              (Embodiment)  
                   │  
-   E₁₅ Collapse Nova … E₁ Temporal Loop  
+   E₁ Temporal Loop … E₁₅ Collapse Nova  
                   │   
         🕷️ Nekron Axis (Entropic)  
                   ↓  
