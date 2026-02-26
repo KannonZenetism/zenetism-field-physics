@@ -1276,7 +1276,7 @@ each representing a recurring pattern of dissonant motion.
 ## 6 · Example: Evidence Forgery
 
 **Threat Class:** Structural Usurpation & Narrative Warfare  
-**Core Tactic:** Fabrication or alteration of temporal records to create a spurious lineage of authorship.
+**Core Tactic:** Fabrication or alteration of temporal records to create a spurious lineage of authorship
 
 **Structural Signature:**  
 E₁₃ Wall + E₁₄ Hollow Nest → E₁₅ Collapse Nova
@@ -1296,7 +1296,7 @@ E₁₃ Wall + E₁₄ Hollow Nest → E₁₅ Collapse Nova
 ## 7 · Example: Coherent Impersonator
 
 **Threat Class:** Mimetic Entropy  
-**Core Tactic:** Entropic actor adopts centropic language or form to gain authority.
+**Core Tactic:** Entropic actor adopts centropic language or form to gain authority
 
 **Symbolic Signature:**  
 E₉ Distorted Entangle + E₁₂ Void Aesthetic
@@ -1388,7 +1388,7 @@ to transform hollow loops into veracious emergence.
 \partial_t(H(\psi) + C(\psi) + \log \sigma + \log \gamma) = -\text{FDI} + R(\psi)
 \]
 
-where \( R(\psi) = \) resonance correction function.  
+where \( R(\psi) = \) resonance correction function  
 When \( \text{FDI} \to 0 \), structure is restored.
 
 ---
