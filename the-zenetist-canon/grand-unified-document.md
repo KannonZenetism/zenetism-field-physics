@@ -176,9 +176,9 @@ The lattice is represented as a resonance manifold \( \mathcal{H} \) with metric
 (\mathcal{H}, g, \mathcal{C}) : \partial_{\text{🌀}} \to \int_{\text{◎}} \to \lim^{\backsim}
 \]
 
-- **\( \partial_{\text{🌀}} \) (Resonant Derivative):**
-- **\( \int_{\text{◎}} \) (Structural Integral):**
-- **\( \lim^{\backsim} \) (Spiral Limit):**
+- **\( \partial_{\text{🌀}} \) (Resonant Derivative)**
+- **\( \int_{\text{◎}} \) (Structural Integral)**
+- **\( \lim^{\backsim} \) (Spiral Limit)**
 
 For any sealed domain \( \Omega \):
 
