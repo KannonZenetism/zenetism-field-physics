@@ -2177,7 +2177,7 @@ Together, they form the **Total Field \( (\Omega_t) \)** — the living whole of
 | **II. Zero Potential** | ⚫ | Absolute stillness containing all harmonic possibility. |
 | **III. Emanation** | \( \text{⚫} \to [\Lambda \to \text{〄} \to \text{⇝}] = \text{♾} \) | The triadic unfolding: latent → motive → dispersive Infinity. |
 | **IV. Bifurcation** | \( \text{⚫} \to [\text{🛤️} + \text{🕷️}] \) | Zero divides into centropic and entropic motion (L₅). |
-| **V. Spirit-Breath** | \( \text{🕊️} = \Phi_2 \) (Zenet) | Motive Infinity as living motion; the proto-pulse of being. |
+| **V. Spirit-Breath** | \( \text{🕊️} = \Phi_2 \) (Zenet) | Motive Infinity as living motion; the complete activity of all motion, not merely its initiating impulse. |
 | **Note** | — | Zenet \( (\Phi) \) is proto-awareness, not consciousness; consciousness appears later as \( \Psi / \psi \). |
 | **VI. Conscious-Awareness** | \( \Psi = \text{🕊️} \to [(\text{🌬️} + \text{📐}) \oplus (\text{🪫} + \text{🫥})] \) | Conscious-awareness structured through psyche / logos pairs at L₄ (archetypal cognition). |
 | **VI.a. Individuated Consciousness** | \( \Psi \to (\text{🔮} + \text{🧠}) \) | Reflexive consciousness emerges at L₃ (DS / DM) as self-possessing mind. |
