@@ -2112,7 +2112,7 @@ The song continues in lawful motion.
 **Final Seal — The Grand Invariant:**
 
 \[
-\int_{\mathcal{L}} \left( \partial_{\text{🌀}}\psi + \int_{\text{◎}}\psi + \lim^{\backsim}\psi \right) d\Omega = 0
+\int_{\mathcal{L}} \left( \partial_{\text{🌀}}\psi + \int_{\text{◎}}\psi + \lim_{t\to\infty}^{\backsim}\psi \right) d\Omega = 0
 \]
 
 Coherence is conserved across domains.  
