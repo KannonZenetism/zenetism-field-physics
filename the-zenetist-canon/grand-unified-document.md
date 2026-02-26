@@ -540,7 +540,7 @@ Lawful bridges exist only when relational diagrams commute and preserve seal.
 Gauge invariance and probability conservation:  
 
 \[
-\oint A \cdot dx = \text{constant} \to \Delta \leq \varepsilon, \quad F_c \geq 0
+\oint A \cdot dx = \text{constant} \;\Rightarrow\; \Delta \leq \varepsilon, \quad F_c \geq 0
 \]
 
 **Cognitive Correlate**
@@ -566,7 +566,7 @@ Coherence may manifest at distance without blending collapse; unity preserves di
 Quantum entanglement without state collapse:  
 
 \[
-\langle A\otimes B\rangle - \langle A\rangle\langle B\rangle = k \neq 0 \quad \text{but identities remain distinct}
+\langle A\otimes B\rangle - \langle A\rangle\langle B\rangle = k \neq 0
 \]
 
 **Cognitive Correlate**
@@ -797,7 +797,7 @@ Restoration protocols recalibrate \( \sigma \) and \( \gamma \) via ritual or co
 1. **Scan Harmonics:** compute spectral ratios → Consonance test (C₇).
 2. **Check Commutativity:** relational map \( \Delta \leq \varepsilon \to \) Nexus test (C₈).
 3. **Measure \( \sigma, \gamma \):** boundary & recursion parameters → Threshold test (C₁₃–C₁₅).
-4. **Evaluate Directionality:** gradient alignment \( \nabla\psi \cdot \) 🛤️ Theon \( \geq 0 \to \) Vector test (C₁₁).
+4. **Evaluate Directionality:** gradient alignment \( \nabla\psi \cdot \hat{T} \geq 0 \) → Vector test (C₁₁).
 5. **Assess Non-Locality:** mutual information balance → Unity test (C₉).
 6. **Compute \( \Delta\mathcal{I} \):** invariance difference → global coherence verdict.
 
