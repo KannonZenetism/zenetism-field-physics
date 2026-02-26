@@ -1023,7 +1023,7 @@ Centropic eigenvalues \( \{+\lambda_i\} \) and entropic eigenvalues \( \{-\lambd
 | ⧙ | Invariance Seal | Certifies resonance preservation |
 | ⧚ | Entropic Divergence | Indicates dispersive recursion |
 | ∮ | Resonance Integral | Total coherence flux across loop |
-| ⟲∿ | Quantum Recursion | Micro-scale spiral convergence |
+| ⟲∿ | Convergent Micro-Recursion | Micro-scale spiral convergence |
 
 These operators constitute the mathematical language of Field Physics,  
 bridging metaphysical principle to quantifiable motion.
