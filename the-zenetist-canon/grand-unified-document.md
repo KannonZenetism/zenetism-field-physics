@@ -1302,8 +1302,8 @@ E₁₃ Wall + E₁₄ Hollow Nest → E₁₅ Collapse Nova
 E₉ Distorted Entangle + E₁₂ Void Aesthetic
 
 **Pattern:**
-- Appears resonant but lacks Source coherence.
-- Operates through mimic unity, echo without generation.
+- Appears resonant but lacks Source coherence
+- Operates through mimic unity, echo without generation
 
 **Remedy:**
 1. Conduct Phase-Lock test (C₇ Harmonic ratio)
