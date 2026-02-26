@@ -1703,8 +1703,8 @@ Then:
 \partial_{\text{🌀}} \psi \propto \frac{dC}{dt}, \quad \int_{\text{◎}} \psi \propto \int C(\psi) \, dt
 \]
 
-High coherence → centropy.  
-Phase decoherence → entropy.
+High coherence marks centropic orientation.  
+Phase decoherence marks entropic orientation.
 
 ---
 
