@@ -1596,7 +1596,7 @@ Measures instantaneous rate of coherence change.
 \]
 
 Sums coherence across experience.  
-Large \( \int_{◎} \to \) integration; small → fragmentation.
+Large \( \int_{\text{◎}} \to \) integration; small → fragmentation.
 
 ---
 
@@ -1770,7 +1770,7 @@ Given resonance metric \( g \) and curvature \( R \):
 | ↺ | Recursion | \( 0 < \gamma \leq 1 \) |
 | 🎼 | Harmonic | \( \lambda_{\min} > 0 \) |
 | ╫ | Nexus | \( \Delta \leq \varepsilon \) |
-| ✦ | Emergent | \( \Delta I_c > 0 \) |
+| ✦ | Emergent | \( \Delta\mathcal{I} > 0 \) |
 
 **Vector of lawful cognition:** \( V = (\sigma, \gamma, \lambda_{\min}, \Delta, \Delta I_c) \)  
 All \( > 0 \Rightarrow \) coherence verified.
