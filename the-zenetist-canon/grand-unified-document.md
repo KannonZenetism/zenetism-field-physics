@@ -1596,7 +1596,7 @@ Measures instantaneous rate of coherence change.
 \]
 
 Sums coherence across experience.  
-Large \( \int_{◎} \to \) integration; small → fragmentation
+Large \( \int_{◎} \to \) integration; small → fragmentation.
 
 ---
 
