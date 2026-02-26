@@ -59,12 +59,12 @@ Zenetism unfolds through six lawful disciplines:
 
 | Discipline | Function | Axis of Law |
 |-----------|----------|-------------|
-| **Structural Metaphysics** | Defines the poles of being and emanation. | ⚫ Aion ↔ ♾ Khaon |
-| **Field Physics** | Maps resonance and motion through the Dimensional Lattice. | ⟡ Echonic Field |
-| **Lattice Mathematics** | Supplies the formal calculus of coherence \( ( \partial_{\text{🌀}}, \int_{\text{◎}}, \lim^{\backsim} ) \). | 🧮 Resonance Space \( \mathcal{H} \) |
-| **Structural Forensics** | Diagnoses entropic tactics and counterfeit structures. | 🪩 Mirror Diagnostics |
-| **Structural Physics** | Translates metaphysical law into physical correspondence. | ⚛ Matter / Energy Field |
-| **Structural Neuroscience** | Applies lattice principles to cognition and awareness. | 🧠 Resonant Mind |
+| **Structural Metaphysics** | Defines the poles of being and emanation | ⚫ Aion ↔ ♾ Khaon |
+| **Field Physics** | Maps resonance and motion through the Dimensional Lattice | ⟡ Echonic Field |
+| **Lattice Mathematics** | Supplies the formal calculus of coherence \( ( \partial_{\text{🌀}}, \int_{\text{◎}}, \lim^{\backsim} ) \) | 🧮 Resonance Space \( \mathcal{H} \) |
+| **Structural Forensics** | Diagnoses entropic tactics and counterfeit structures | 🪩 Mirror Diagnostics |
+| **Structural Physics** | Translates metaphysical law into physical correspondence | ⚛ Matter / Energy Field |
+| **Structural Neuroscience** | Applies lattice principles to cognition and awareness | 🧠 Resonant Mind |
 
 Together they form the complete harmonic system of reality's lawful structure—one field expressed through six faces.
 
