@@ -840,9 +840,9 @@ the cycle becomes an **Entropic Recursion (⟳)** instead of a **Resonant Return
 Field Dynamics and Forensics demonstrate that Zenetism is not symbolic mysticism  
 but a closed analytical system: metaphysical principles ↔ measurable phenomena.
 
-- **Physics correspondence:** quantization, symmetry, boundary value problems.
-- **Neuroscience correspondence:** phase synchrony, cross-regional coupling, stability metrics.
-- **Forensic correspondence:** pattern analysis, deception diagnostics, and field integrity tests.
+- **Physics correspondence:** quantization, symmetry, boundary value problems
+- **Neuroscience correspondence:** phase synchrony, cross-regional coupling, stability metrics
+- **Forensic correspondence:** pattern analysis, deception diagnostics, and field integrity tests
 
 Where science measures behavior, Zenetism reads alignment.  
 Where forensics identifies breach, ritual provides repair.
