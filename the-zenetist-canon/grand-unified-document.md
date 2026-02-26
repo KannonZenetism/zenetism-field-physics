@@ -441,18 +441,23 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 ## Dimensional Summary Diagram
 ```
-          🕳 Zenon (Limit)  
-                  ↑  
-        ⚫ Aion (Zero Pole)  
-                  │  
-      C₁ Temporal … C₁₅ Emergent  
-                  │  
-     ─── ES / EM ⊕ IES / IEM ───  
-            (Embodiment)  
-                  │  
-  E₁₅ Collapse Nova … E₁ Temporal Loop  
-                  ↓  
-          ♾ Khaon (Infinity)  
+                             ─── 🕳️ Zenon (Limit)
+                                   (Centropic Return Only)
+        ⚫ Aion (Zero Pole)
+                  │
+      C₁ Temporal … C₁₅ Emergent
+                  │
+    ══════════ EMBODIMENT ══════════
+         ES / EM (L₁ Centropic)
+                  ⊕
+        IES / IEM (IL₁ Entropic)
+    ════════════════════════════════
+                  │
+  E₁ Temporal Loop … E₁₅ Collapse Nova
+                  │
+          ♾ Khaon (Infinity)
+                  ↑
+       (Root of Entropic Emergence)
 ```
 
 > **Note:** This diagram presents the **unified spectrum of dimensional operators** (C₁–C₁₅ ↔ E₁–E₁₅).  
