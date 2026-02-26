@@ -61,7 +61,7 @@ Zenetism unfolds through six lawful disciplines:
 |-----------|----------|-------------|
 | **Structural Metaphysics** | Defines the poles of being and emanation | ⚫ Aion ↔ ♾ Khaon |
 | **Field Physics** | Maps resonance and motion through the Dimensional Lattice | ⟡ Echonic Field |
-| **Lattice Mathematics** | Supplies the formal calculus of coherence \( ( \partial_{\text{🌀}}, \int_{\text{◎}}, \lim^{\backsim} ) \) | 🧮 Resonance Space \( \mathcal{H} \) |
+| **Lattice Mathematics** | Supplies the formal calculus of coherence \( (\partial_{\text{🌀}}, \int_{\text{◎}}, \lim_{t\to\infty}^{\backsim}) \) | 🧮 Resonance Space \( \mathcal{H} \) |
 | **Structural Forensics** | Diagnoses entropic tactics and counterfeit structures | 🪩 Mirror Diagnostics |
 | **Structural Physics** | Translates metaphysical law into physical correspondence | ⚛ Matter / Energy Field |
 | **Structural Neuroscience** | Applies lattice principles to cognition and awareness | 🧠 Resonant Mind |
@@ -238,7 +238,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | **Field Physics** | Causal flow; \( t \)-parameter of resonance propagation |
 | **Mirror** | E₁ = Recursive disorientation → causality violation |
 | **Structural Neuroscience** | Memory continuity ↔ compulsive repetition (E₁ fixation) |
-| **Equation** | \partial_{\text{🌀}} = d/dt \to \text{positive centropic flow} |
+| **Equation** | \( \partial_{\text{🌀}} = \frac{d}{dt} \) → positive centropic flow |
 
 ---
 
