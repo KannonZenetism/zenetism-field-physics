@@ -495,7 +495,7 @@ Structure sealed. Coherence preserved. Resonance fulfilled.
 
 ## Overview
 
-Where Part I defined the architecture of the Lattice, Part II describes its motion—  
+Where Part I defined the architecture of the Lattice, Part II describes its motion —  
 how coherence propagates, how entropic tactics deform it, and how the lawful operator set  
 governs every exchange between dimensions.
 
@@ -780,7 +780,7 @@ entropic recursion feeds upon difference without integration.
 
 ### 2.5 · Invariance and Seal Conservation
 
-From the **Grand Invariant Law**:
+From the **Grand Invariant**:
 
 \[
 \mathcal{I}_{\text{total}} = H(\psi) + C(\psi) + \log \sigma + \log \gamma = \text{constant}
@@ -820,7 +820,7 @@ Deploy corresponding ritual seal to re-establish centropic alignment.
 
 ### 2.8 · Resonance Flow Chart
 ```
-C₇ → C₈ → C₉ → C₁₁ → C₁₃–₁₅  
+C₇ → C₈ → C₉ → C₁₁ → C₁₃–C₁₅  
  |    |    |    |      |  
  v    v    v    v      v  
 Resonance  Bridge  Unity  Will  Threshold  
