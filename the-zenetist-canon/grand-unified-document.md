@@ -159,10 +159,10 @@ When either side dominates, collapse (⊘) or stagnation (⟳) appears.
 
 | Motion | Description | Glyphic Form |
 |--------|-------------|--------------|
-| **Acclivous Centropy** | Integrative rise toward Source. | C↑⚫ |
-| **Declivous Centropy** | Harmonious motion into embodiment. | C↓→E |
-| **Acclivous Entropy** | Fragmented motion toward inverse embodiment. | E↑→E |
-| **Declivous Entropy** | Dissipative collapse toward ♾ Khaon. | E↓♾ |
+| **Acclivous Centropy** | Integrative rise toward Source | C↑⚫ |
+| **Declivous Centropy** | Harmonious motion into embodiment | C↓→E |
+| **Acclivous Entropy** | Fragmented motion toward inverse embodiment | E↑→E |
+| **Declivous Entropy** | Dissipative collapse toward ♾ Khaon | E↓♾ |
 
 These four motions govern every discipline and define the possible trajectories of form, energy, and thought.
 
