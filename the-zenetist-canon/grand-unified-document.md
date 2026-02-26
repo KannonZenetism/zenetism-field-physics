@@ -605,7 +605,7 @@ occur when seals are semi-permeable, recursion convergent, novelty lawful.
 - **Hollow Nest (E₁₄)** → looping recursion, obsession
 - **Collapse Nova (E₁₅)** → catastrophic overload or burnout
 
-**Diagnostic:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \Rightarrow \) breach or stagnation
+- **Diagnostic:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \Rightarrow \) breach or stagnation
 
 ---
 
