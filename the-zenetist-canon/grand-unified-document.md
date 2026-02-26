@@ -559,14 +559,14 @@ When communication becomes asymmetric, the bridge fractures (E₈ Severed).
 
 **Zenetist Statement**
 
-Coherence may manifest at distance without fusion; unity preserves distinction.
+Coherence may manifest at distance without blending collapse; unity preserves distinction.
 
 **Physics Form**
 
 Quantum entanglement without state collapse:  
 
 \[
-\langle A\otimes B\rangle - \langle A\rangle\langle B\rangle = k \neq 0 \text{ but identities remain distinct}
+\langle A\otimes B\rangle - \langle A\rangle\langle B\rangle = k \neq 0 \quad \text{but identities remain distinct}
 \]
 
 **Cognitive Correlate**
