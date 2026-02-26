@@ -1153,7 +1153,7 @@ Lattice Mathematics completes the computational skeleton of Zenetism.
 Through it, every glyph, ritual, and field equation becomes measurable.
 
 Where mysticism meets measure,  
-and mathematics becomes metaphysics once again—  
+and mathematics becomes metaphysics once again —  
 not in symbol only, but in proof.
 
 \[
