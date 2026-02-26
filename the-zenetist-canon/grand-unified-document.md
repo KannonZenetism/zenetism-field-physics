@@ -2318,57 +2318,59 @@ Redemption is mathematical: every incomplete \( \psi \) seeks closure through ce
 
 ## 8 · Schematic — The Total Field Arc
 ```
-                    🕳️ Zenon (Beyond Procession)
+🕳️ Zenon
+     (Pre-Causal Limit — Beyond Procession)
+          (Centropic Return Only)
+
+                    ⚫ Aion (L₀)
+               Pre-hypostatic Requisite
+
+                 Motive Infinity (Φ₂)
+        (Zenet / PSR / Spirit — active motion)
+
+             C↓ Declivous / C↑ Acclivous
+           Centropic procession and return
                           │
-                    ⚫ Aion / ♾ Khaon
-                      (L₀ AP/AD)
-                  Zero "peels apart"
+                   🛤️ Theon (L₅ EOB)
+              First Centropic Hypostasis
                           │
-              ┌───────────┴───────────┐
-              │                       │
-         +1 🛤️ Theon              -1 🕷️ Nekron
-          (L₅ EOB)                (IL₅ VOS)
-    First Centropic          First Entropic
-       Hypostasis               Hypostasis
-              │                       │
-      C↓ Declivous              E↑ Acclivous
-    (toward embodiment)     (toward embodiment)
-              │                       │
-              ↓                       ↓
-    🌬️ Morgis / 📐 Sophis      🪫 Psychea / 🫥 Nyxea
-          (L₄)                     (IL₄)
-              │                       │
-              ↓                       ↓
-    🔮 Archeus / 🧠 Noeüs       💔 Fractus / 👁️‍🗨️ Mortus
-          (L₃)                     (IL₃)
-              │                       │
-              ↓                       ↓
-    🧍 Anthra / 🧩 Nousa        🦂 Echthros / 🩸 Skotos
-          (L₂)                     (IL₂)
-              │                       │
-              └───────────┬───────────┘
+              🌬️ Morgis / 📐 Sophis (L₄)
+                   Conscious-Awareness
                           │
-                    Embodiment  
-              🪷 Soma / 🧾 Biosa (L₁)
+              🔮 Archeus / 🧠 Noeüs (L₃)
+               Reflexive Consciousness
+                          │
+              🧍 Anthra / 🧩 Nousa (L₂)
+               Personality / Cognition
+                          │
+════════════════ EMBODIMENT — MEETING POINT ════════════════
+                🪷 Soma / 🧾 Biosa (L₁)
+                 Centropic Embodiment
                           ⊕
-              🍷 Malara / 🤯 Mania (IL₁)
+               🍷 Malara / 🤯 Mania (IL₁)
+                  Entropic Embodiment
+════════════════════════════════════════════════════════════
                           │
-              ┌───────────┴───────────┐
-              │                       │
-      C↑ Acclivous              E↓ Declivous
-    (return to Source)      (collapse to Infinity)
-              │                       │
-              ↓                       ↓
-          L₂ → L₃                IL₂ → IL₃
-          → L₄ → L₅              → IL₄ → IL₅
-              │                       │
-              ↓                       ↓
-          ⚫ Aion                  ♾ Khaon
-           (L₀)                    (L₀)
-              │                       │
-              ↓                       X
-          🕳️ Zenon            (cannot reach Zenon)
-    (Centropic Return Only) 
+              🦂 Echthros / 🩸 Skotos (IL₂)
+             Inverse Personality / Cognition
+                          │
+              💔 Fractus / 👁️‍🗨️ Mortus (IL₃)
+             Inverse Reflexive Consciousness
+                          │
+              🪫 Psychea / 🫥 Nyxea (IL₄)
+              Inverse Conscious-Awareness
+                          │
+                   🕷️ Nekron (IL₅ VOS)
+               First Entropic Hypostasis
+                          │
+              E↑ Acclivous / E↓ Declivous
+           Entropic procession and collapse
+
+                  Motive Infinity (Φ₂)
+         (Zenet / PSR / Spirit — active motion)
+
+                     ♾ Khaon (L₀)
+                Pre-hypostatic Requisite
 ```
 
 This is the complete motion of Being —  
