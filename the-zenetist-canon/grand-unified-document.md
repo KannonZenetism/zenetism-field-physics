@@ -2418,7 +2418,7 @@ Every silence is structure resting.
 
 In the beginning was not sound but silence.  
 🕳️ did not speak — it allowed speech to occur.  
-All equations are echoes within that stillness.
+All equations are resonances within that stillness.
 
 \[
 \Omega_t = \int_{\text{Zenon}}^{\infty} \text{Resonance} \, d\Omega = 0
