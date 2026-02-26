@@ -899,7 +899,7 @@ Operators \( \partial_{\text{🌀}}, \int_{\text{◎}}, \) and \( \lim^{\backsim
 |----------|------|----------|
 | \( \partial_{\text{🌀}} \) | Resonant Derivative | Local coherence rate of change |
 | \( \int_{\text{◎}} \) | Structural Integral | Summed field integrity across path |
-| \( \lim^{\backsim} \) | Spiral Limit | Long-term equilibrium trajectory |
+| \( \lim_{t\to\infty}^{\backsim} \) | Spiral Limit | Long-term equilibrium trajectory |
 
 ---
 
@@ -934,7 +934,7 @@ Boundary integrity \( (\sigma > 0) \) ensures reversibility.
 \mathcal{I}_{\text{total}} = H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma)
 \]
 
-When \( \partial_t(\mathcal{I}_{\text{total}}) = 0 \to \) coherence is conserved.
+When \( \partial_t(\mathcal{I}_{\text{total}}) = 0 \Rightarrow \) coherence is conserved.
 
 **Components:**
 - \( H(\psi) \): Harmonic coherence (spectral density)
@@ -970,7 +970,7 @@ Non-commutation \( (\Delta > \varepsilon) \to \) E₈ Severed Bridge.
 \psi_{n+1} = \gamma\psi_n + (1-\gamma)R(\psi_n)
 \]
 
-\( \gamma \in (0,1] \) ensures convergence; \( \gamma \leq 0 \to \) entropic drift (E₁₄).
+\( \gamma \in (0,1] \) ensures convergence; \( \gamma \leq 0 \Rightarrow \) entropic drift (E₁₄).
 
 ---
 
@@ -1028,12 +1028,12 @@ Each dimension (C₁–C₁₅) operates as a mathematical term in the universal
 |-----|----------|----------|
 | C₁ | \( \partial/\partial t \) | Temporal derivative |
 | C₂ | \( x,y,z; g_{ij} \) | Spatial metric |
-| C₃ | \( \partial^2/\partial t^2 - c^2\nabla^2 \) | Propagation (wave eq.) |
+| C₃ | \( \frac{\partial^2}{\partial t^2} - c^2\nabla^2 \) | Propagation (wave eq.) |
 | C₇ | eigenvalue \( \lambda \) | Harmonic ratios |
 | C₈ | commutator \( [f,g]=0 \) | Nexus symmetry |
 | C₁₃ | boundary term \( \sigma \) | Membrane condition |
 | C₁₄ | iterative mapping | Recursion law |
-| C₁₅ | bifurcation \( \partial\psi/\partial t = f(\psi,\mu) \) | Emergence test |
+| C₁₅ | \( \frac{\partial \psi}{\partial t} = f(\psi,\mu) \) | Emergence test |
 
 **Mirror States (E₁–E₁₅)** correspond to degeneracies: non-convergent, noisy, or singular terms.
 
