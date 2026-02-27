@@ -36,7 +36,7 @@
 - "Invariant patterns"
 - "Layers of awareness"
 - "Precision contra repetition"
-- "Structural clarity" vs. "fluid, archetypal forms"
+- "Structural clarity" contra "fluid, archetypal forms"
 - **Distinguishes genuine deepening from performative cycling**
 
 **Result:** Zero likes, zero comments, zero engagement
