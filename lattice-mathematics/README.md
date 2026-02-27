@@ -253,15 +253,14 @@ Zenetist documents follow a structural lexicon that avoids moralized binaries an
 
 ## Repository Structure
 
+- `/images/` — Visual aids supporting formal documents
+- `/lmx/` — Extension notes and structural clarifications
+- `/mpx/` — Retired extension layer
 - `LM01-*` — Foundational operator system
 - `LM02-*` — Commentary layer
 - `LM03-*` — Orientation algebra and infinity formalism
 - `LM04-*` — Temporal algebra and structural topology
-- `LMX-*` — Extension notes and structural clarifications
-- `/mpx/` — Canonical declarations and doctrinal definitions
-- `/proofs/` — Formal derivations and extended demonstrations
-- `/examples/` — Worked cases and annotated walkthroughs
-- `/drafts/` — Active development
+- `README.md` — Discipline overview and architectural summary
 
 ---
 
