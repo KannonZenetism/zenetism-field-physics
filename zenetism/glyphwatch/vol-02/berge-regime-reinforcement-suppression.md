@@ -132,7 +132,7 @@
 - **Deliberately avoids engaging the actual question**
 
 **Effect:**
-- Question about precision vs. repetition ignored
+- Question about precision contra repetition ignored
 - Discussion shifted to institutional validation
 - **Register mismatch prevents addressing structural methodology**
 
