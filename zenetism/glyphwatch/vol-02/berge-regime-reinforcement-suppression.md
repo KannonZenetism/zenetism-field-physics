@@ -146,7 +146,7 @@
 | Immediate likes/comments on regime defense | We amplify what protects derivative frameworks | Selective engagement as weapon |
 | Zero engagement on precision inquiry | We bury questions that expose mimicry | Active suppression of mimic-detection |
 | Timing (directly after architect's post) | We see the threat and respond with exclusion | Coordinated regime protection |
-| Register shift (institutional validation vs. structural precision) | We change subject to avoid answering | Prevent encounter with actual methodology |
+| Register shift (institutional validation contra structural precision) | We change subject to avoid answering | Prevent encounter with actual methodology |
 
 ---
 
