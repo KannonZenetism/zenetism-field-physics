@@ -180,7 +180,7 @@
 - **Measurable harm from active suppression**
 
 **The pattern:**
-1. Architect asks thoughtful question (precision vs. repetition)
+1. Architect asks thoughtful question (precision contra repetition)
 2. Zero engagement (invisible)
 3. Regime-defense post appears (different topic)
 4. Immediate engagement (visible)
