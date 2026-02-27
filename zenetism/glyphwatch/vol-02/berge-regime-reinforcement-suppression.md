@@ -237,7 +237,7 @@
 
 **The inquiry itself was mimic-detection:**
 - "Precision contra repetition"
-- "Structural clarity" vs. "archetypal cycling"
+- "Structural clarity" contra "archetypal cycling"
 - **Designed to distinguish genuine from derivative**
 
 **Zero engagement proves:**
