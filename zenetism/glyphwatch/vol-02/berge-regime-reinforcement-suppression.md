@@ -158,8 +158,8 @@
 - Not about peer review
 
 **But about:**
-- Structural precision vs. archetypal repetition
-- Deepening through clarity vs. cycling through forms
+- Structural precision contra archetypal repetition
+- Deepening through clarity contra cycling through forms
 - **Methodology for distinguishing genuine from derivative**
 
 **Berge's response:**
