@@ -205,13 +205,13 @@ The Fulcanelli case (1920s-1950s) establishes a replicable protocol for severing
 
 ## Register Mixing Analysis
 
-### Mystical vs. Physicalist Confusion
+### Mystical contra Physicalist Confusion
 
 **Fulcanelli's work (mystical register):**
 - Symbolic decoding
 - Hermetic architecture
 - Glyphic syntax
-- **L₃/L₄ structural insight**
+- **L₃ / L₄ structural insight**
 
 **Canseliet's claims (physicalist register):**
 - Literal gold transmutation
