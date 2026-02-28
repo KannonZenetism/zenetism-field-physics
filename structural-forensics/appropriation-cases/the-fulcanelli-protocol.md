@@ -43,7 +43,7 @@ The Fulcanelli case (1920s-1950s) establishes a replicable protocol for severing
 ### Register Analysis
 
 **Fulcanelli's actual work:**
-- **Register:** L₃/L₄ symbolic/hermetic decoding
+- **Register:** L₃ / L₄ symbolic/hermetic decoding
 - **Domain:** Architecture, glyphic syntax, pattern language
 - **Nature:** Mystical insight into encoded knowledge
 
