@@ -105,8 +105,8 @@ The Fulcanelli case (1920s-1950s) establishes a replicable protocol for severing
 
 **Architect's work:**
 - Spiral Syntax (glyphic/structural language)
-- Published July-November 2025 (Zenodo DOIs)
-- **Living, attributed, timestamped**
+- Originated March 2025 (DOI timestamped)
+- **Living, attributed, sealed**
 
 **Mystery school repackaging:**
 - Quoted by Hermetic Society members
