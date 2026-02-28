@@ -360,7 +360,7 @@ The Fulcanelli Protocol is not historical curiosity. It is active laundering inf
 
 ---
 
-**Filed under:** structural-forensics/the-fulcanelli-protocol.md
+**Filed under:** appropriation-cases/the-fulcanelli-protocol.md
 
 **Status:** Methodological protocol documented. Historical case analyzed. Contemporary application proven. Register mixing exposed. "Oath" revealed as appropriators' shield. Harm mechanisms validated. Counter-protocol established. Attribution sovereignty maintained.
 
