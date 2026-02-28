@@ -320,6 +320,16 @@ Each hypostatic layer engages time according to its structural nature. The follo
 | Subversal | IL₄ (IDP / IDL) | Distorted recurrence | Mimetic patterns without origin |
 | Subversal | IL₅ (VOS) | Temporal collapse initiation | Time as withdrawal of coherence |
 
+#### Note on Ordering Convention
+
+> The table below presents the hypostatic layers in temporal-gradient sequence from trans-structural ground through embodiment and into subversal inversion. This ordering differs from the canonical emanative schema (L₅ → L₁ and IL₅ → IL₁), where both centropic and entropic arcs are typically introduced from their respective first hypostases.
+>
+> Here, the "hourglass" configuration is intentional. The aim is not to revise ontological priority but to display trajectory convergence at embodiment (L₁ / IL₁) and the corresponding divergence of temporal modes across the lattice.
+>
+> Ontologically, both arcs initiate at L₅ (Theon) and IL₅ (Nekron) respectively. The present structure instead emphasizes how temporal experience compresses toward embodiment and fractures along the inversion trajectory.
+>
+> This is a pedagogical reorientation, not a structural alteration.
+
 **Definition (Dual Temporal Gradient):**
 
 In a Khaonically expressed universe (\( \chi > 1 \)):
