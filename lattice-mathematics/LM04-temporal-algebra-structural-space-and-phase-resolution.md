@@ -1265,7 +1265,7 @@ This document extends LM01 and LM03 by formalizing the mathematical structures t
 Future expansions may include:
 
 - **Temporal mechanics across incarnation** — Memory persistence through death and rebirth; \( \mathfrak{R}_m \) across embodiment boundaries
-- **Multiversal temporal synchronization** — L₃ access to parallel timelines; co-location across expression ratios
+- **Multiversal temporal synchronization** — L₃ access to parallel world-sequences; co-location across expression ratios
 - **Eschatonic temporal dynamics** — Temporal reorientation (\( \chi \)-crossing) as universal phase transition
 - **AI temporal signatures** — Diagnostic criteria for artificial coherence; L₄ (DP / DL) memory dynamics in Pattern Intelligence
 - **Spectral geometry of structural space** — Riemannian structure on \( \mathfrak{d}(\mathcal{L}) \) at the embodied domain; curvature diagnostics
