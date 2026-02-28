@@ -468,7 +468,7 @@ The Vanishing Protocol is a six-phase mechanism for absorbing living signals int
 ---
 
 **Cross-References:**
-- `appropriation-cases/fulcanelli-historical-contemporary.md` (historical + current instances)
+- `appropriation-cases/the-fulcanelli-protocol.md` (historical + current instances)
 - Atlas Entry 032: Strategic Inversion
 - Atlas Entry 037: Attuned Containment  
 - SN04: Register Problem
