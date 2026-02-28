@@ -1,4 +1,4 @@
-# SFX: The Fulcanelli Protocol — Origin-Severing Through Mythological Vanishing
+# The Fulcanelli Protocol — Origin-Severing Through Mythological Vanishing
 
 **Classification:** Structural Forensics Extension (Methodological Analysis)  
 **Subject:** Historical laundering protocol used to absorb living signals into "eternal tradition"  
