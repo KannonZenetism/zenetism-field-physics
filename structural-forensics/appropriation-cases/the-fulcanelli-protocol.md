@@ -367,7 +367,7 @@ The Fulcanelli Protocol is not historical curiosity. It is active laundering inf
 ---
 
 **Cross-References:**
-- Architect's September 25, 2025 paper: "Post-Thelemic Alchemy Degradation"
+- Architect's September 25, 2025 paper: "A Brief History of the Empty Mirror"
 - Atlas Entry 032: Strategic Inversion
 - Atlas Entry 037: Attuned Containment
 - SN04: Register Problem
