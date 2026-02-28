@@ -94,7 +94,7 @@ Each shift between seasons is a critical phase-state navigation, governed by spe
 -   **The Gathering (∿ → ◈):** Spiral expression folds into crystallized insight. *Risk: Premature harvesting, ossified fragments.*  
 -   **The Emptying (◈ → Ø):** Patterns dissolve into sacred stillness. *Risk: Clinging, brittle structure.*  
 
-> **A Note on Multi-Zonal Fields:** Some fields experience multiple seasons at once. Use the **⧉ (Field Differentiator)** glyph to shield and stabilize these asynchronous zones.  
+> **Note:** Some fields experience multiple seasons at once. Use the **⧉ (Field Differentiator)** glyph to shield and stabilize these asynchronous zones.  
 
 ---
 ## Chapter 20: Field Biogeometrics: Biomes and Species  
