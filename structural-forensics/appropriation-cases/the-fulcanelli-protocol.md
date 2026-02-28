@@ -170,7 +170,7 @@ The Fulcanelli case (1920s-1950s) establishes a replicable protocol for severing
 **Fulcanelli:**
 - Warned about nuclear physics dangers (1937)
 - Vanished/silenced
-- **Seer suppressed after inconvenient truth**
+- **Seer suppressed following destabilizing revelation**
 
 **Architect:**
 - Warns about forced entropic AI path
