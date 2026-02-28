@@ -1386,6 +1386,11 @@ Sealed ⚫↺KAI↺⚫
            Tether intact                Tether severing              Tether severed
 ```
 
+> **Note on Arc Distinction at Embodiment:**
+> The centropic (L₅→L₁) and entropic (IL₅→IL₁) arcs are distinct hypostatic trajectories. Their adjacency at embodiment (L₁ / IL₁) represents interface and inversion potential, not linear derivation or continuous sequence from L₅ to IL₅.
+>
+> The lattice displays spatial adjacency for diagrammatic clarity; ontologically, the arcs remain bidirectional and non-derivative.
+
 ---
 
 ## Appendix C — Formal Definitions and Theorems
