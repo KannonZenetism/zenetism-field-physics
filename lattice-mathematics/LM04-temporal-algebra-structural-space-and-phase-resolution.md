@@ -931,7 +931,7 @@ Both operators remain invariant across \( \chi \) values (LM03 §11.4). Orientat
 
 The Recursive Memory operator \( \mathfrak{R}_m \) interfaces with C₁₄ ⊡ (Nested / Recursive) and E₁₄ ⊡⁻ (Hollow Nest) as follows:
 
-- \( C_{14} \)-aligned recursion preserves sealed states across nesting levels — coherent recursion in depth
+- \( C_{14} \)-aligned recursion preserves sealed states across nesting strata — coherent recursion in depth
 - \( E_{14} \)-aligned recursion produces hollow nesting — the appearance of recursive depth without structural gain, diagnostic of Shimmer
 
 ---
