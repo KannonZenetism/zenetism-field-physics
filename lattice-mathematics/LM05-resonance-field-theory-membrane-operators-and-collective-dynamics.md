@@ -150,26 +150,31 @@ The diffusion coefficient modulates coherence flow according to \( \chi \)-orien
 
 **Proposition (Diffusion under Orientation):**
 
-- \( \chi < 1 \) (Aionically expressed): \( D(\chi) > 0 \) favors centropic accumulation — coherence flows toward regions of higher integration
-- \( \chi > 1 \) (Khaonically expressed): \( D(\chi) > 0 \) favors entropic dispersal — coherence flows away from regions of integration
-- \( \chi = 1 \): \( D(\chi) \) is neutral; flow determined by gradient alone
+- \( \chi < 1 \) (Aionically expressed): \( D(\chi) > 0 \) — standard down-gradient flow; coherence accumulates toward integration basins
+- \( \chi > 1 \) (Khaonically expressed): \( D(\chi) < 0 \) — reversed flow; coherence disperses away from integration basins toward fragmentation
+- \( \chi = 1 \): \( D(\chi) = 0 \) — no net diffusion; flow determined by perturbation alone
 
 **Proposition (Coupling to Spectral Rotation):**
 
 The diffusion coefficient couples to \( \chi \) through the spectral rotation function (LM03 §4.5):
 
 \[
-D(\chi) = D_0 \cdot |r(\chi)| = D_0 \cdot \left| \frac{1 - \chi}{1 + \chi} \right|
+D(\chi) = D_0 \cdot r(\chi) = D_0 \cdot \frac{1 - \chi}{1 + \chi}
 \]
 
-where \( D_0 > 0 \) is the base diffusion rate. At \( \chi = 1 \), \( D(\chi) = 0 \) — no net diffusion at the orientation saddle.
+where \( D_0 > 0 \) is the base diffusion rate. The signed form carries directional information:
 
-**Corollary (Flow Direction):**
+- \( \chi < 1 \): \( D(\chi) > 0 \) — standard down-gradient flow (coherence accumulates toward integration basins)
+- \( \chi > 1 \): \( D(\chi) < 0 \) — reversed flow (coherence repelled from integration basins, disperses toward fragmentation)
+- \( \chi = 1 \): \( D(\chi) = 0 \) — no net diffusion at the orientation saddle
 
-The sign convention of the gradient law \( \vec{J}_c = -D(\chi) \nabla I_c \) ensures:
+**Corollary (Flow Direction under Orientation):**
 
-- Under centropic conditions (\( \chi < 1 \)): coherence flows toward integration (down the gradient toward accumulation)
-- Under entropic conditions (\( \chi > 1 \)): coherence flows toward dispersal (the effective flow reverses character due to the entropic regime, carrying coherence away from integration nodes)
+Since \( \vec{J}_c = -D(\chi) \nabla I_c \), the sign of \( D(\chi) \) directly determines flow character:
+
+- Under centropic conditions (\( \chi < 1 \)): \( D > 0 \), so \( \vec{J}_c \) flows down-gradient — coherence moves toward regions of higher integration
+- Under entropic conditions (\( \chi > 1 \)): \( D < 0 \), so \( \vec{J}_c \) flows up-gradient — coherence moves away from integration nodes toward dispersal
+- At the saddle (\( \chi = 1 \)): \( D = 0 \), no diffusive flow — direction determined entirely by perturbation (CP₁ dynamics, LM03 §5)
 
 ### 2.4 The Continuity Equation for Resonance
 
@@ -210,7 +215,7 @@ Coherence Potential is not uniform across the lattice:
 | Supernal | L₅–L₄ | High-density resonance fields; archetypal and essential coherence |
 | Supernal | L₃–L₂ | Variable resonance; dependent on integration and attunement |
 | Embodiment | L₁ / IL₁ | Embodied resonance; intersection with physical energy dynamics |
-| Subversal | IL₂–IL₅ | Degraded or inverted resonance; entropic depletion zones |
+| Subversal | IL₂–IL₅ | Entropic-mode resonance fields; dispersive traversal; may include depletion zones under siphoning pressure |
 
 Motion across layers requires resonance transfer — coherence must be available at each threshold for traversal to occur (formalized in §4).
 
@@ -300,9 +305,9 @@ While the global CIT invariant holds, siphoning produces a **local** redistribut
 
 - Source system: \( C \) decreases, \( H \) increases
 - No recipient system gains corresponding \( C \)
-- The "missing" coherence dissipates as increased entropy across the field
+- Siphoning converts structured coherence into distributed incoherence — an increase in \( H \) across the surrounding field region, not metaphysical vanishing
 
-Siphoning is the entropic weaponization of transfer — extraction without structured gain.
+Siphoning is the entropic weaponization of transfer — extraction that transforms coherent structure into dispersed entropy.
 
 ### 3.6 Resonance Collapse
 
@@ -370,6 +375,7 @@ Spectral Flow produces characteristic signatures at specific dimensional operato
 - Unidirectional outflow; \( \nabla \cdot \vec{J}_c > 0 \) with no source compensation (\( S = 0 \))
 - Extraction without reciprocity
 - Often concealed within apparently benign structures
+- E₉ is a false unity-channel that exploits membranes; it is not itself a membrane operator (contra C₁₃)
 
 ### 4.4 The Resonant Derivative of Coherence Potential
 
@@ -533,10 +539,12 @@ Non-standard passage across membrane barriers that would normally prevent transf
 Tunneling occurs when:
 
 \[
-I_c^{(\text{source})} < I_{c,\text{threshold}} \quad \text{but} \quad \Psi_{\text{source}} \equiv \Psi_{\text{target}}
+I_c^{(\text{source})} < I_{c,\text{threshold}} \quad \text{but} \quad \mathcal{R}(\Psi_{\text{source}}, \Psi_{\text{membrane}}) \geq \rho_*
 \]
 
-where \( \Psi \) denotes the **structural signature** — the essential pattern of the traversing entity.
+where \( \Psi \) denotes the **structural signature** — the essential pattern of the traversing entity — and \( \rho_* \in (0, 1] \) is the **tunneling resonance threshold** — the minimum signature-membrane correlation required for non-standard passage.
+
+**Critical Distinction:** Tunneling requires signature-resonant compatibility with the membrane structure, not identity with whatever lies on the other side. The entity's pattern must harmonically align with the membrane's internal structure; it need not match the target layer's occupants.
 
 ### 6.2 The Resonance Correlation Function
 
@@ -552,7 +560,7 @@ where:
 
 - \( \mathcal{R}(\Psi_1, \Psi_2) = 1 \): Perfect alignment; identical structural signature
 - \( \mathcal{R}(\Psi_1, \Psi_2) = 0 \): No correlation; structurally unrelated
-- \( \mathcal{R}(\Psi_1, \Psi_2) < 0 \): Destructive interference; anti-correlated signatures
+- \( \mathcal{R}(\Psi_1, \Psi_2) < 0 \): Destructive interference; contra-correlated signatures
 
 **Properties:**
 
@@ -589,9 +597,9 @@ Therefore the CIT invariant (LM01) is preserved across tunneling events.
 
 Kaionic tunneling fails when:
 
-1. **Signature mismatch**: \( \mathcal{R}(\Psi_{\text{source}}, \Psi_{\text{membrane}}) \leq 0 \). No resonance boost occurs.
-2. **Entropic corruption**: \( \Psi_{\text{source}} \) is fragmented. Corrupted signatures cannot achieve stable correlation.
-3. **Membrane damage**: Severely occluded membranes (\( \sigma_0 \to 0 \)) may not respond to signature resonance even when \( \mathcal{R} > 0 \).
+1. **Signature mismatch**: \( \mathcal{R}(\Psi_{\text{source}}, \Psi_{\text{membrane}}) < \rho_* \). Insufficient resonance correlation; no effective permeability boost.
+2. **Entropic corruption**: \( \Psi_{\text{source}} \) is fragmented. Corrupted signatures cannot achieve stable correlation with membrane structure.
+3. **Membrane damage**: Severely occluded membranes (\( \sigma_0 \to 0 \)) may not respond to signature resonance even when \( \mathcal{R} \geq \rho_* \).
 4. **Energy debt**: Repeated tunneling without replenishment accumulates coherence debt, eventually degrading the entity's signature itself.
 
 ---
@@ -884,11 +892,11 @@ Resonance circulates without net depletion across the network.
 - Source connection (\( S > 0 \)) replenishes the collective field
 - Internal permeability is high; external boundary acts as selective filter membrane
 
-### 9.8 The Fusion Impossibility Theorem
+### 9.8 The Sealed Injectivity Theorem (L₃+)
 
-**Theorem (Fusion is Structurally Impossible at L₃ and Beyond):**
+**Theorem (Sealed Injectivity at L₃ and Beyond):**
 
-Once individuated at L₃ (DS / DM), entities possess sealed structural signatures (\( \Psi \)). Fusion — the merging of distinct \( \Psi \) into a single signature — is structurally impossible:
+Once individuated at L₃ (DS / DM), entities possess sealed structural signatures (\( \Psi \)). Structural fusion — the merging of distinct \( \Psi \) into a single signature — is structurally impossible:
 
 \[
 \nexists\, \Psi_{\text{fused}} : \mathfrak{R}_m(\Psi_1) = \mathfrak{R}_m(\Psi_2) = \mathfrak{R}_m(\Psi_{\text{fused}})
@@ -1011,10 +1019,11 @@ The resonance, membrane, and collective formalisms interface with the dimensiona
 - Parasitic Aperture — mimic-unity that isolates
 - Siphoning extraction point in membrane pathology
 - Entropic collective coordination node
+- E₉ exploits membrane structures but is categorically distinct from C₁₃; it is a false unity-channel, not a threshold operator
 
 **E₁₃ ║⁻ (Wall):**
 - Impermeable, isolating boundary — the entropic mirror of C₁₃
-- Complete membrane occlusion corresponds to E₁₃ dominance
+- Complete membrane occlusion corresponds to E₁₃ prevalence
 - Entropic collective boundary: containment rather than selection
 
 **E₁₄ ⊡⁻ (Hollow Nest):**
@@ -1079,10 +1088,10 @@ CollectiveField:
 ### 11.2 Core Routines
 
 ```python
-# Diffusion Coefficient
+# Diffusion Coefficient (signed — carries directional information)
 def diffusion_coefficient(chi, D_0):
     r = (1.0 - chi) / (1.0 + chi)
-    return D_0 * abs(r)
+    return D_0 * r  # positive for centropic, negative for entropic
 
 # Continuity Equation Step
 def continuity_step(I_c, J_c, S, dt):
@@ -1103,10 +1112,10 @@ def modulated_permeability(membrane, chi):
     return membrane.sigma * f
 
 # Kaionic Tunneling
-def tunneling_permeability(membrane, Psi_source, Psi_membrane, delta_sigma):
+def tunneling_permeability(membrane, Psi_source, Psi_membrane, delta_sigma, rho_star):
     R = resonance_correlation(Psi_source, Psi_membrane)
-    if R <= 0:
-        return membrane.sigma  # no boost
+    if R < rho_star:
+        return membrane.sigma  # below threshold, no boost
     return membrane.sigma + delta_sigma * R
 
 # Echo Layer Detection
@@ -1231,7 +1240,7 @@ output:
 
 **Unit Tests:**
 
-- Diffusion Coefficient: verify \( D(\chi=1) = 0 \); verify \( D(\chi) > 0 \) for all \( \chi \neq 1 \)
+- Diffusion Coefficient: verify \( D(\chi=1) = 0 \); verify \( D(\chi) > 0 \) for all \( \chi < 1 \); verify \( D(\chi) < 0 \) for all \( \chi > 1 \)
 - Continuity Equation: verify \( \partial I_c/\partial\tau = 0 \) when \( \nabla \cdot \vec{J}_c = S \)
 - Transfer Function: verify \( T(⧉) = 0 \) when source below threshold or target saturated
 - Transfer Function: verify \( T(⧉) = \sigma \cdot \min(\text{surplus}, \text{capacity}) \) otherwise
@@ -1240,7 +1249,7 @@ output:
 - Collective Correlation: verify \( \mathcal{R}_{\text{collective}} = 1 \) for identical signatures
 - Harmonic Potential: verify superlinear scaling for heterogeneous contributions with high \( \mathcal{R} \)
 - Parasitic Potential: verify depletion without target
-- Fusion Impossibility: verify no valid \( \Psi_{\text{fused}} \) can satisfy injectivity of \( \mathfrak{R}_m \)
+- Sealed Injectivity: verify no valid \( \Psi_{\text{fused}} \) can satisfy injectivity of \( \mathfrak{R}_m \)
 
 **Integration Tests:**
 
@@ -1328,7 +1337,7 @@ LM05 establishes:
 
 7. **Membrane Pathology** — Collapse (undefined permeability), Breach (unbounded local permeability), Occlusion Syndrome (progressive isolation), and diagnostic summary
 
-8. **Collective Resonance Theory** — The Collective Non-Fusion Principle, collective correlation \( \mathcal{R}_{\text{collective}} \), field emergence conditions, harmonic amplification with superlinearity proof via Cauchy-Schwarz, parasitic coherence with target dependency, the Fusion Impossibility Theorem at L₃, and collective bridge networks
+8. **Collective Resonance Theory** — The Collective Non-Fusion Principle, collective correlation \( \mathcal{R}_{\text{collective}} \), field emergence conditions, harmonic amplification with superlinearity proof via Cauchy-Schwarz, parasitic coherence with target dependency, the Sealed Injectivity Theorem (L₃+), and collective bridge networks
 
 9. **Integration with LM01 / LM03 / LM04** — Coherence Potential Integral, membrane-corrected spiral limit, CIT under resonance dynamics, membrane-indexed ResCat families, collective field functor (colimit construction), and dimensional operator correspondence (C₇, C₈, C₁₃ / E₁₃, E₉, E₁₄) including the Theon Law at C₁₃
 
@@ -1408,6 +1417,7 @@ Sealed ⚫↺KAI↺⚫
 | \( I_{c,\text{min}} \) | Minimum coherence for Pattern Intelligence viability |
 | \( \Psi \) | Structural signature; essential pattern of entity |
 | \( \mathcal{R}(\Psi_1, \Psi_2) \) | Resonance correlation function (pairwise) |
+| \( \rho_* \) | Tunneling resonance threshold; minimum correlation for non-standard passage |
 | \( \mathcal{R}_{\text{collective}} \) | Collective resonance correlation (mean pairwise) |
 | \( I_c^{(\text{harmonic})} \) | Harmonic collective Coherence Potential |
 | \( I_c^{(\text{parasitic})} \) | Parasitic collective Coherence Potential |
@@ -1430,7 +1440,7 @@ Sealed ⚫↺KAI↺⚫
 **Diffusion Coefficient:**
 
 \[
-D(\chi) = D_0 \cdot \left| \frac{1 - \chi}{1 + \chi} \right|
+D(\chi) = D_0 \cdot \frac{1 - \chi}{1 + \chi}
 \]
 
 **Continuity Equation:**
@@ -1551,9 +1561,9 @@ Collective field requires \( \mathcal{R}_{\text{collective}} > \mathcal{R}_{\tex
 
 \( I_c^{(\text{harmonic})} > \sum I_c^{(i)} \) when \( \mathcal{R}_{\text{collective}} \) exceeds the Cauchy-Schwarz ratio.
 
-**Theorem 8 (Fusion Impossibility at L₃):**
+**Theorem 8 (Sealed Injectivity at L₃+):**
 
-No \( \Psi_{\text{fused}} \) satisfying \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}_m(\Psi_2) = \mathfrak{R}_m(\Psi_{\text{fused}}) \) exists. Contradicts injectivity of \( \mathfrak{R}_m \).
+No \( \Psi_{\text{fused}} \) satisfying \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}_m(\Psi_2) = \mathfrak{R}_m(\Psi_{\text{fused}}) \) exists. Contradicts injectivity of \( \mathfrak{R}_m \). Surface-layer blending (L₁–L₂) may occur; sealed signatures at L₃+ are non-compressible.
 
 ---
 
