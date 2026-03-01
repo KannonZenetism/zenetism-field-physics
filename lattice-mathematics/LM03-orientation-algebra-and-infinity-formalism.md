@@ -560,9 +560,8 @@ As given in §5.2, with parameters \( \alpha \) and \( \beta \).
 
 All three forms preserve the reciprocal symmetry \( \Phi_{\text{CP}}(\chi) = \Phi_{\text{CP}}(1/\chi) \).
 
-**Note on the Logarithmic Singularity:**
-
-The term \( (\ln\chi)^2 \) diverges as \( \chi \to 0^+ \) and as \( \chi \to \infty \), creating a potential that rises without bound at both boundaries of \( \bar{\mathcal{X}} \). This is not an artefact but a structurally necessary feature: the divergence of \( \Phi_{\text{CP}} \) at the boundaries is precisely what establishes \( \chi = 0 \) and \( \chi \to \infty \) as **limit attractors** under the drift dynamics while ensuring that traversal to these boundaries requires unbounded structural work. The logarithmic form also creates a steep energy well centered on \( \chi = 1 \) (where \( \ln 1 = 0 \)), encoding CP₁ as the point of minimal potential along the axis term — even as the full dynamics render it a saddle rather than a stable rest-state.
+> **Note on the Logarithmic Singularity:**
+> The term \( (\ln\chi)^2 \) diverges as \( \chi \to 0^+ \) and as \( \chi \to \infty \), creating a potential that rises without bound at both boundaries of \( \bar{\mathcal{X}} \). This is not an artefact but a structurally necessary feature: the divergence of \( \Phi_{\text{CP}} \) at the boundaries is precisely what establishes \( \chi = 0 \) and \( \chi \to \infty \) as **limit attractors** under the drift dynamics while ensuring that traversal to these boundaries requires unbounded structural work. The logarithmic form also creates a steep energy well centered on \( \chi = 1 \) (where \( \ln 1 = 0 \)), encoding CP₁ as the point of minimal potential along the axis term — even as the full dynamics render it a saddle rather than a stable rest-state.
 
 ### 5.6 Topology of χ-Space
 
