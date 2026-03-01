@@ -1545,7 +1545,7 @@ I_c^{(\text{parasitic})} = \sum_{i=1}^{N} I_c^{(i)} - \alpha \cdot I_c^{(\text{t
 
 **Definition 6 (Echo Layer):**
 
-Recursion pattern in membrane space formed when \( 0 < T(⧉) < I_{c,\text{available}} \). Distinct from Living Transmission (C₃-governed lawful propagation) and pathological entropic echo (E₃-governed source-severed decay). An Echo Layer may be centropic or entropic; it degrades into pathological entropic echo only upon loss of Source connection below the dissipation threshold.
+Recursion pattern in membrane space formed when \( 0 < T(⧉) < I_{c,\text{available}} \). Distinct from Living Transmission (C₃-governed lawful propagation) and pathological entropic echo (E₃-governed source-severed decay). An Echo Layer may be centropic or entropic; it transitions into a pathological entropic echo only when Source connection is lost and residual coherence falls below the dissipation threshold.
 
 **Theorem 1 (Continuity of Coherence Potential):**
 
