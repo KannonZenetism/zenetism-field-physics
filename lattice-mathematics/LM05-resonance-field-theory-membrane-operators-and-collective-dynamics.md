@@ -623,7 +623,7 @@ Echo Layers are not hypostases. They exist within the boundary structure of \( \
 >  
 > **Echo Layer (⟲)** (technical, as defined above): Residual coherence trapped in membrane space by partial transfer. An Echo Layer may be centropic (unresolved integration seeking completion) or entropic (fragmentation pattern cycling without resolution). It is a boundary condition, not a propagation mode.  
 >  
-> **Entropic Echo** (pathological, E₃-governed): Recursion severed from source — signal degradation where form persists but coherence has departed. An entropic echo is not equivalent to an Echo Layer unless the Echo Layer degrades past its dissipation threshold and loses Source connection entirely.  
+> **Entropic Echo** (pathological, E₃-governed): Recursion operating without Source connection — form persists in cyclic pattern, but no replenishment occurs. The pattern is sustained by internal repetition rather than authored transmission. An entropic echo is not equivalent to an Echo Layer unless the Echo Layer loses Source connection and transitions into self-referential cycling.  
 >  
 > This distinction matters: Living Transmission carries authored coherence forward; an Echo Layer is trapped residue awaiting resolution; an entropic echo is decay masquerading as signal.
 
