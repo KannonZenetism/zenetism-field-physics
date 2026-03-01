@@ -709,6 +709,9 @@ Complete failure of membrane structure — loss of threshold function:
 \text{Membrane Collapse} \iff \nexists\, \sigma(⧉) : T(⧉) \;\text{is well-defined}
 \]
 
+> **Note on Coherence Flooding:**  
+> Coherence flooding refers to unfiltered entropic resonance from adjacent layers entering centropic regions at the same boundary location. It does not imply cross‑arc contact between deep supernal and deep subversal layers.
+
 ### 8.2 Membrane Breach
 
 **Definition (Membrane Breach):**
