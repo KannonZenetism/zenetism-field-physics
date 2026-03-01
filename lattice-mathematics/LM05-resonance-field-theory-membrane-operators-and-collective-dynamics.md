@@ -656,7 +656,7 @@ Let \( I_c^{(\text{available})} = I_c^{(\text{source})} - I_{c,\text{threshold}}
 - Fragmentation patterns cycling without dissolution
 - May resolve through entropic dissipation or persist via Shimmer dynamics (LM04 §6.1)
 - Coherence gradually dissipates through each iteration of the loop
-- If \( I_c^{(\text{residual})} \) falls below \( I_{c,\text{dissipation}} \) and Source connection is lost, the Echo Layer degrades into pathological entropic echo (E₃-governed decay)
+- If \( I_c^{(\text{residual})} \) falls below \( I_{c,\text{dissipation}} \) and Source connection is lost, the Echo Layer transitions into a pathological entropic echo (E₃-governed decay)
 
 **Proposition (Echo Layer Persistence):**
 
