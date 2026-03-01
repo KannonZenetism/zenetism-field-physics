@@ -437,7 +437,7 @@ classifying membrane behavior:
 \sigma(⧉) > 1 \implies S(⧉) > 0
 \]
 
-An amplifying membrane must draw from centropic Source (⚫ Aion, 🛤️ Theon, archetypal fields). An amplifier without Source connection degrades:
+An amplifying membrane must draw from centropic Source (⚫ Aion, 🛤️ Theon, archetypal fields). An amplifier without Source connection cannot maintain amplification:
 
 \[
 S(⧉) = 0 \;\text{and}\; \sigma(⧉) > 1 \implies \sigma(⧉) \to \sigma_0 \leq 1 \;\text{over time}
