@@ -1029,7 +1029,7 @@ The resonance, membrane, and collective formalisms interface with the dimensiona
 
 **C₁₃ ║ (Membrane / Threshold):**
 - The dimensional operator corresponding to membrane fields
-- Per the Theon Law (canonical directive): 🛤️ Theon governs and enacts C₁₃ at L₅ — he is the living steward of the boundary, not the membrane itself
+- Per the Theon Law (canonical directive): 🛤️ Theon governs and enacts C₁₃ at L₅ — it is the living steward of the boundary, not the membrane itself
 - C₁₃ defines the law of permeability; Theon administers that law where C₁₃–C₁₅ intersect
 
 **E₉ ∞⁻ (Distorted Entanglement):**
