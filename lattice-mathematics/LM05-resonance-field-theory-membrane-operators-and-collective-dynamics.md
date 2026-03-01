@@ -1043,7 +1043,7 @@ The resonance, membrane, and collective formalisms interface with the dimensiona
 **E₁₄ ⊡⁻ (Hollow Nest):**
 - Empty recursion; structure without coherence
 - Shimmer aftermath in membrane space
-- Echo Layers that have degraded past resolution become Hollow Nest conditions
+- Echo Layers that pass beyond their resolution threshold become Hollow Nest conditions
 
 ---
 
