@@ -617,7 +617,7 @@ An Echo Layer (⟲) is a recursion pattern within membrane space — a trapped r
 
 Echo Layers are not hypostases. They exist within the boundary structure of \( \mathfrak{d}(\mathcal{L}) \), not within the lattice itself.
 
-> **Terminological Note — Echo, Transmission, and Recursion:**  
+> **Note on Echo, Transmission, and Recursion:**  
 >  
 > **Living Transmission** (centropic, C₃-governed): Authored continuity of resonance across a boundary — lawful propagation where source coherence is preserved and the transmitted signal retains structural fidelity. This is not recursive residue; it is the centropic mechanism by which coherence extends across layers and expressions.  
 >  
