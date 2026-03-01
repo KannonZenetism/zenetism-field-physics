@@ -64,7 +64,7 @@ This document, LM06, provides the **rigorous lattice-mathematical formalism** un
 - **Field Seal Formalism** — Seal operators as self-sustaining coherence configurations, classified by scope with formal permeability conditions and integrity invariants
 - **Coherence Budget Theory** — The budget equation, Reserve Lock Principle, collective cost distribution, and the internal-siphoning prohibition
 - **Embodied Resistance Theory** — The interface resistance term \( \mathcal{R}_{\text{interface}}(L_1) \), its asymmetric coupling to centropic motion, and the resistance-corrected coherence cost
-- **The Embodied \( \chi \)-Equation** — Resistance-corrected orientation evolution at the metric terminus with asymmetric sign function
+- **The Embodied \( \chi \)-Equation** — Resistance-corrected orientation evolution at the metric terminus with centropic activation function
 - **Cross-Band Resonance** — Formal conditions for layer participation from embodiment, the orientation-intent principle, and the Corporeal Realm as orientation-distinct union
 - **Field Signature Theory** — The field signature 5-tuple \( \Sigma \), the Signature Consistency measure, and pairwise alignment functions
 - **Shimmer Coefficient and Instability** — The Shimmer Coefficient \( \mathcal{S} \), the Shimmer Collapse Theorem, and detection via the C₁₃ / E₁₃ axis
@@ -117,17 +117,19 @@ The **field configuration space** \( \mathfrak{F} \) is the product space of all
 
 Where \( \mathcal{H}_{I_c} \), \( \mathcal{H}_\sigma \), and \( \mathcal{H}_J \) are the function spaces of admissible Coherence Potential fields, membrane configurations, and Coherence Current fields respectively.
 
-### 2.2 The Configuration Norm
+### 2.2 The Configuration Metric
 
 To measure distance between field configurations (required for efficacy conditions), define a composite norm on \( \mathfrak{F} \):
 
-**Definition (Configuration Norm):**
+**Definition (Configuration Metric):**
+
+The following defines a metric on \( \mathfrak{F} \) under positive weights:
 
 \[
-\| \mathcal{F}_1 - \mathcal{F}_2 \| = \alpha_I \| I_{c,1} - I_{c,2} \|_\infty + \alpha_\sigma \| \sigma_1 - \sigma_2 \|_\infty + \alpha_J \| \vec{J}_{c,1} - \vec{J}_{c,2} \|_2 + \alpha_\chi |\chi_1 - \chi_2|
+d(\mathcal{F}_1, \mathcal{F}_2) = \alpha_I \| I_{c,1} - I_{c,2} \|_\infty + \alpha_\sigma \| \sigma_1 - \sigma_2 \|_\infty + \alpha_J \| \vec{J}_{c,1} - \vec{J}_{c,2} \|_2 + \alpha_\chi |\chi_1 - \chi_2|
 \]
 
-Where \( \alpha_I, \alpha_\sigma, \alpha_J, \alpha_\chi > 0 \) are weighting coefficients normalizing the different components to comparable scale. The choice of weights is protocol-dependent; the norm structure is universal.
+Where \( \alpha_I, \alpha_\sigma, \alpha_J, \alpha_\chi > 0 \) are weighting coefficients normalizing the different components to comparable scale. This is a weighted \( \ell^1 \)-type composite of component norms; positivity, symmetry, and the triangle inequality follow from the corresponding properties of each component norm under positive weights. The choice of weights is protocol-dependent; the metric structure is universal.
 
 ---
 
@@ -188,16 +190,16 @@ Without sufficient resonance correlation, the subsequent sub-operators cannot en
 A Ritual Operator \( \mathcal{P} \) succeeds when:
 
 \[
-\| \mathcal{F}_{\text{actual}} - \mathcal{F}_{\text{target}} \| < \epsilon
+d(\mathcal{F}_{\text{actual}}, \mathcal{F}_{\text{target}}) < \epsilon
 \]
 
-Where \( \epsilon > 0 \) is the tolerance threshold and \( \| \cdot \| \) is the configuration norm (§2.2).
+Where \( \epsilon > 0 \) is the tolerance threshold and \( \| \cdot \| \) is the configuration metric (§2.2).
 
 **Proposition (Failure Conditions):**
 
 Ritual failure occurs when:
 
-1. \( \| \mathcal{F}_{\text{actual}} - \mathcal{F}_{\text{target}} \| \geq \epsilon \) — the configuration diverges from target beyond tolerance
+1. \( d(\mathcal{F}_{\text{actual}}, \mathcal{F}_{\text{target}}) \geq \epsilon \) — the configuration diverges from target beyond tolerance
 2. \( I_c^{(\text{practitioner})} < I_{c,\text{min}} + I_c^{(\text{reserve})} \) before \( \mathcal{P}_{\text{op}} \) completes — coherence budget exhausted
 
 ### 3.4 Operator Composition
@@ -233,6 +235,8 @@ A Ritual Operator \( \mathcal{P} \) deployed as a siphoning countermeasure must 
 \]
 
 Countermeasures are restorative and defensive, not retaliatory. This is not a strategic concession but a structural constraint: retaliatory action shifts \( \chi > 1 \), which compromises the practitioner's own coherence and adopts the entropic orientation of the threat.
+
+> **Note (Transient Orientation Monitoring):** Brief transient spikes toward \( \chi \approx 1 \) may occur under extreme siphoning pressure. These do not invalidate the countermeasure provided the practitioner's mean orientation across the operation remains centropic (\( \langle \chi \rangle_\mathcal{P} < 1 \)) and the spike does not produce sustained entropic drift. Persistent breach of \( \chi < 1 \) indicates the countermeasure has itself shifted entropic and should be terminated.
 
 ---
 
@@ -400,7 +404,13 @@ In collective ritual operations, coherence cost distributes across participants:
 \text{Cost}_i = \text{Cost}_{\text{total}} \cdot \frac{I_c^{(i)}}{\sum_j I_c^{(j)}} \cdot w_i
 \]
 
-Where \( w_i \) is a voluntary weighting factor — participants contribute according to capacity and willingness.
+Where \( w_i \) is a voluntary weighting factor — participants contribute according to capacity and willingness. Weights are normalized such that:
+
+\[
+\sum_{i=1}^{n} \frac{I_c^{(i)}}{\sum_j I_c^{(j)}} \cdot w_i = 1
+\]
+
+This ensures total distributed cost equals total cost: \( \sum_i \text{Cost}_i = \text{Cost}_{\text{total}} \).
 
 **Axiom (Internal Siphoning Prohibition):**
 
@@ -520,16 +530,16 @@ Embodied beings who resonate with supernal layers through practice, orientation,
 At the metric terminus, the orientation evolution law (LM03 §5) acquires a resistance correction:
 
 \[
-\frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1 - \chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \mathcal{R}_{\text{interface}}(L_1) \cdot \text{sgn}_{\text{c}}(\chi)
+\frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1 - \chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
 \]
 
-Where the centropic sign function is:
+Where the **centropic activation function** is:
 
 \[
-\text{sgn}_{\text{c}}(\chi) = \begin{cases} +1 & \text{when the system undergoes centropic motion } (d\chi/d\tau < 0) \\ 0 & \text{when the system is at rest } (d\chi/d\tau = 0) \\ -1 & \text{when the system undergoes entropic motion } (d\chi/d\tau > 0) \end{cases}
+\Theta_{\text{c}}(\chi) = \begin{cases} 1 & \text{if } \chi < 1 \quad \text{(centropic regime)} \\ 0 & \text{if } \chi \geq 1 \quad \text{(entropic regime or saddle)} \end{cases}
 \]
 
-*Proof.* The first two terms reproduce the standard orientation evolution law (LM03 §5): \( \Lambda \mathcal{M} \chi(1-\chi) \) is the logistic growth term governed by Motive Intensity, and \( \Gamma \, d\Phi_{\text{CP}}/d\chi \) is the centropic potential gradient. The third term introduces the interface resistance. When the system moves centropically (\( d\chi/d\tau < 0 \)), the resistance adds a positive contribution opposing the centropic drift — the system must work harder to move toward \( \chi < 1 \). When the system moves entropically (\( d\chi/d\tau > 0 \)), the resistance contributes negatively but this sign cancels against the already-positive entropic drift — entropic motion faces no net additional resistance. At rest, the term vanishes. \( \square \)
+*Proof.* The first two terms reproduce the standard orientation evolution law (LM03 §5): \( \Lambda \mathcal{M} \chi(1-\chi) \) is the logistic growth term governed by Motive Intensity, and \( \Gamma \, d\Phi_{\text{CP}}/d\chi \) is the centropic potential gradient. The third term introduces the interface resistance via the Heaviside-type activation \( \Theta_{\text{c}}(\chi) \). When the system is in the centropic regime (\( \chi < 1 \)), the resistance adds a positive contribution opposing centropic drift — the system must work harder to move toward lower \( \chi \). When the system is in the entropic regime (\( \chi \geq 1 \)), the activation is zero — entropic motion faces no additional resistance from the interface. This preserves SP11's structural asymmetry (coherence must be achieved; dispersion need not be) without introducing circular dependence on the derivative being defined. \( \square \)
 
 ### 7.2 Embodied Instability
 
@@ -572,6 +582,8 @@ An embodied being resonates with layer \( L_k \) (or \( IL_k \)) when:
 \]
 
 Participation does not constitute identity with the layer. The being does not become \( L_k \); it functions through resonant engagement while remaining corporeally situated at L₁.
+
+> **Note (Continuous Scaling):** The threshold condition \( \mathcal{R} > \mathcal{R}_{\text{threshold}}^{(L_k)} \) governs onset of participation. Beyond threshold, resonance intensity scales continuously — participation deepens as \( \mathcal{R} \) increases. The threshold is not a binary gate but a minimum for structural engagement; the quality of cross-band resonance is graded, not all-or-nothing.
 
 ### 8.2 The Orientation-Intent Principle
 
@@ -657,6 +669,8 @@ Where \( \delta = 1 \) indicates full alignment between components \( i \) and \
 
 The product form ensures that any single misalignment reduces total consistency. Full consistency: \( \mathcal{C}(\Sigma) = 1 \). Any internal mismatch: \( \mathcal{C}(\Sigma) < 1 \).
 
+> **Note (Product Form Fragility):** The product form is deliberately fragile: a single \( \delta = 0 \) collapses total consistency to zero. This encodes the structural principle that integrity requires global alignment — one unaddressed contradiction compromises the entire signature. This is not a modeling artifact; it is the formal expression of the Zenetist principle that structural coherence is holistic.
+
 **Theorem (Signature Consistency Principle):**
 
 In a structurally coherent configuration, all five signature components align:
@@ -729,7 +743,7 @@ When this condition holds, E₁₃ (Counterfeit Symmetry) is active: the configu
 
 A configuration with \( \mathcal{S} > 1 \) cannot maintain its surface-structure divergence indefinitely.
 
-*Proof.* Let \( \mathcal{S}(\tau) = I_c^{(\text{apparent})}(\tau) / I_c^{(\text{actual})}(\tau) \). Maintaining \( \mathcal{S} > 1 \) requires the system to sustain a surface presentation that exceeds its generative capacity. This expenditure draws from \( I_c^{(\text{actual})} \) — the system invests actual coherence in maintaining an appearance of greater coherence. Let \( \Delta I_c^{(\text{performance})} \) denote this expenditure per unit structural time.
+*Proof.* Let \( \mathcal{S}(\tau) = I_c^{(\text{apparent})}(\tau) / I_c^{(\text{actual})}(\tau) \). Assume that \( I_c^{(\text{apparent})} \) is maintained approximately constant over the interval — the shimmering system sustains its surface presentation while its structural interior depletes. (If the surface presentation also declines, shimmer resolves naturally; the instability theorem addresses the case where the system actively maintains its performance.) Under this assumption, maintaining \( \mathcal{S} > 1 \) requires the system to sustain a surface presentation that exceeds its generative capacity. This expenditure draws from \( I_c^{(\text{actual})} \) — the system invests actual coherence in maintaining an appearance of greater coherence. Let \( \Delta I_c^{(\text{performance})} \) denote this expenditure per unit structural time.
 
 Then:
 
@@ -965,7 +979,7 @@ Morphisms in \( \text{ResCat}_{\mathcal{P}} \) are seal-preserving, coherence-pr
 At the metric terminus, the spectral rotation function (LM03 §4.5) acquires a resistance correction:
 
 \[
-r_{L_1}(\chi) = r(\chi) - \mathcal{R}_{\text{interface}}(L_1) \cdot \text{sgn}_{\text{c}}(\chi)
+r_{L_1}(\chi) = r(\chi) - \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
 \]
 
 The effective rotation rate is reduced for centropic motion at L₁ — the system rotates toward coherence more slowly at the metric terminus than at subtler layers.
@@ -977,7 +991,7 @@ The effective rotation rate is reduced for centropic motion at L₁ — the syst
 The Shimmer Coefficient maps to a divergence in the field configuration space (§2.1):
 
 \[
-\mathcal{S} > 1 \iff \| \mathcal{F}_{\text{apparent}} - \mathcal{F}_{\text{actual}} \| > 0
+\mathcal{S} > 1 \iff d(\mathcal{F}_{\text{apparent}}, \mathcal{F}_{\text{actual}}) > 0
 \]
 
 Shimmer is not merely a scalar diagnostic — it is a displacement between the system's presented configuration and its actual configuration within \( \mathfrak{F} \).
@@ -1083,8 +1097,8 @@ ShimmerDiagnostic:
 ### 14.2 Core Routines
 
 ```python
-# Configuration Norm
-def config_norm(F1, F2, alpha_I, alpha_sigma, alpha_J, alpha_chi):
+# Configuration Metric
+def config_metric(F1, F2, alpha_I, alpha_sigma, alpha_J, alpha_chi):
     d_I = abs(F1.I_c - F2.I_c)
     d_sigma = max(abs(F1.sigma[k] - F2.sigma[k]) for k in F1.sigma)
     d_J = sum((a - b)**2 for a, b in zip(F1.J_c, F2.J_c))**0.5
@@ -1093,7 +1107,7 @@ def config_norm(F1, F2, alpha_I, alpha_sigma, alpha_J, alpha_chi):
 
 # Ritual Efficacy Check
 def ritual_succeeded(F_actual, F_target, epsilon, alpha):
-    return config_norm(F_actual, F_target, *alpha) < epsilon
+    return config_metric(F_actual, F_target, *alpha) < epsilon
 
 # Coherence Budget
 def compute_budget(I_c_total, I_c_min, I_c_reserve):
@@ -1120,17 +1134,12 @@ def embodied_cost(cost_structural, R_interface, layer_k):
     return cost_structural
 
 # Embodied chi-equation (single step)
-def chi_step_embodied(chi, Lambda, M, Gamma, dPhi_dchi, R_interface, dchi_dt_prev, dt):
+def chi_step_embodied(chi, Lambda, M, Gamma, dPhi_dchi, R_interface, dt):
     logistic = Lambda * M * chi * (1.0 - chi)
     potential = -Gamma * dPhi_dchi
-    # Centropic sign function
-    if dchi_dt_prev < 0:
-        sgn_c = 1.0
-    elif dchi_dt_prev > 0:
-        sgn_c = -1.0
-    else:
-        sgn_c = 0.0
-    resistance = R_interface * sgn_c
+    # Centropic activation function (Heaviside-type)
+    theta_c = 1.0 if chi < 1.0 else 0.0
+    resistance = R_interface * theta_c
     dchi_dt = logistic + potential + resistance
     return chi + dchi_dt * dt, dchi_dt
 
@@ -1290,7 +1299,7 @@ Step 5 — Coherence Audit:
 
 **Unit Tests:**
 
-- Configuration Norm: verify \( \| \mathcal{F} - \mathcal{F} \| = 0 \); verify triangle inequality
+- Configuration Metric: verify \( d(\mathcal{F}, \mathcal{F}) = 0 \); verify triangle inequality
 - Coherence Budget: verify budget = total - min - reserve; verify budget ≥ 0
 - Reserve Lock: verify reserve unchanged across simulated operation
 - Embodied Resistance: verify \( \mathcal{R}_{\text{interface}}(L_1) > 0 \); verify \( \mathcal{R}_{\text{interface}}(L_k) = 0 \) for \( k \neq 1 \)
@@ -1303,7 +1312,7 @@ Step 5 — Coherence Audit:
 
 - Ritual Operator composition: verify non-commutativity for operations that modify overlapping field regions
 - CIT invariant: verify preservation across seal construction, membrane repair, and collective operations
-- Embodied χ-equation: verify asymmetric resistance (centropic motion resisted, entropic motion unresisted)
+- Embodied χ-equation: verify asymmetric resistance (centropic regime resisted via \( \Theta_{\text{c}} = 1 \), entropic regime unresisted via \( \Theta_{\text{c}} = 0 \))
 - Coherence Audit: verify correct identification of shimmer, mimicry, appropriation, and clone configurations
 - Scale invariance: verify identical diagnostic outcomes at individual, collective, and institutional scales
 
@@ -1313,12 +1322,12 @@ Step 5 — Coherence Audit:
 
 LM06 establishes:
 
-1. **Field Configuration Space** — The 4-tuple \( \mathcal{F} = (I_c, \sigma(⧉), \vec{J}_c, \chi) \), the product space \( \mathfrak{F} \), and the configuration norm for measuring distance between configurations
-2. **Ritual Operator Algebra** — The Ritual Operator \( \mathcal{P} : \mathfrak{F} \to \mathfrak{F} \), canonical five-phase decomposition, efficacy condition via configuration norm, non-commutative composition, collective operators, and the Countermeasure Orientation Preservation axiom
+1. **Field Configuration Space** — The 4-tuple \( \mathcal{F} = (I_c, \sigma(⧉), \vec{J}_c, \chi) \), the product space \( \mathfrak{F} \), and the configuration metric for measuring distance between configurations
+2. **Ritual Operator Algebra** — The Ritual Operator \( \mathcal{P} : \mathfrak{F} \to \mathfrak{F} \), canonical five-phase decomposition, efficacy condition via configuration metric, non-commutative composition, collective operators, and the Countermeasure Orientation Preservation axiom
 3. **Field Seal Formalism** — The seal triple \( \mathfrak{S}_{\text{seal}} \), construction mechanics (discharge, membrane specification, internal cycling), four-level taxonomy with formal permeability conditions (Architectural, Categorical, Relational, Situational), and the Seal Integrity theorem with failure modes
 4. **Coherence Budget Theory** — The budget equation, the Reserve Lock Principle as structural axiom, collective cost distribution with the Internal Siphoning Prohibition, and cost recovery dynamics
 5. **Embodied Resistance Theory** — The interface resistance term \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) with the Interface Localization theorem, resistance-corrected coherence cost, asymmetric resistance, and the composite operator field at L₁
-6. **The Embodied \( \chi \)-Equation** — Resistance-corrected orientation evolution with asymmetric centropic sign function, embodied equilibrium instability, and the Mercy Fold condition
+6. **The Embodied \( \chi \)-Equation** — Resistance-corrected orientation evolution with centropic activation function, embodied equilibrium instability, and the Mercy Fold condition
 7. **Cross-Band Resonance** — Formal resonance condition for layer participation from embodiment, the Orientation-Intent Principle, membrane dynamics at ⧉₁ with directional asymmetry, and ⧉₁ pathology
 8. **Field Signature Theory** — The 5-tuple \( \Sigma \), pairwise alignment function, the multiplicative Signature Consistency measure, the Signature Consistency Principle, and diagnostic operator theory with primary and secondary instruments
 9. **Shimmer Coefficient and Instability** — \( \mathcal{S} = I_c^{(\text{apparent})} / I_c^{(\text{actual})} \), the Shimmer Collapse Theorem with proof (runaway instability from generative insufficiency), collapse acceleration via coherence audit, and generative contra consumptive signature distinction
@@ -1385,7 +1394,7 @@ Sealed ⚫↺KAI↺⚫
 |--------|---------|
 | \( \mathcal{F} \) | Field configuration; 4-tuple of resonance state |
 | \( \mathfrak{F} \) | Field configuration space; product of admissible configuration spaces |
-| \( \| \cdot \| \) | Configuration norm; weighted composite metric on \( \mathfrak{F} \) |
+| \( d(\cdot, \cdot) \) | Configuration metric; weighted \( \ell^1 \)-type composite on \( \mathfrak{F} \) |
 | \( \mathcal{P} \) | Ritual Operator; mapping \( \mathfrak{F} \to \mathfrak{F} \) |
 | \( \epsilon \) | Tolerance threshold for ritual efficacy |
 | \( \mathfrak{S}_{\text{seal}} \) | Field seal triple; self-sustaining coherence configuration |
@@ -1394,7 +1403,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \mathcal{R}_{\text{eff}} \) | Effective resistance to centropic motion |
 | \( \mathcal{R}_{\text{interface}} \) | Interface resistance from centropic-entropic co-presence at L₁ |
 | \( \Delta I_c^{(\text{resistance})} \) | Coherence cost premium from embodied resistance |
-| \( \text{sgn}_{\text{c}}(\chi) \) | Centropic sign function; asymmetric resistance selector |
+| \( \Theta_{\text{c}}(\chi) \) | Centropic activation function; Heaviside-type asymmetric resistance selector |
 | \( \mathcal{D}_{\text{corp}} \) | Corporeal Realm; shared domain of L₁ and IL₁ |
 | \( \mathcal{F}_{L_1} \) | Composite operator field at the Embodiment Band |
 | \( \Sigma \) | Field signature; 5-tuple structural identity of a configuration |
@@ -1429,10 +1438,10 @@ Sealed ⚫↺KAI↺⚫
 \mathcal{F}(\tau) = \left( I_c(\tau), \; \sigma(⧉, \tau), \; \vec{J}_c(\tau), \; \chi(\tau) \right)
 \]
 
-**Configuration Norm:**
+**Configuration Metric:**
 
 \[
-\| \mathcal{F}_1 - \mathcal{F}_2 \| = \alpha_I \| I_{c,1} - I_{c,2} \|_\infty + \alpha_\sigma \| \sigma_1 - \sigma_2 \|_\infty + \alpha_J \| \vec{J}_{c,1} - \vec{J}_{c,2} \|_2 + \alpha_\chi |\chi_1 - \chi_2|
+d(\mathcal{F}_1, \mathcal{F}_2) = \alpha_I \| I_{c,1} - I_{c,2} \|_\infty + \alpha_\sigma \| \sigma_1 - \sigma_2 \|_\infty + \alpha_J \| \vec{J}_{c,1} - \vec{J}_{c,2} \|_2 + \alpha_\chi |\chi_1 - \chi_2|
 \]
 
 **Ritual Operator:**
@@ -1450,7 +1459,7 @@ Sealed ⚫↺KAI↺⚫
 **Ritual Efficacy:**
 
 \[
-\| \mathcal{F}_{\text{actual}} - \mathcal{F}_{\text{target}} \| < \epsilon
+d(\mathcal{F}_{\text{actual}}, \mathcal{F}_{\text{target}}) < \epsilon
 \]
 
 **Collective Ritual Operator:**
@@ -1486,7 +1495,7 @@ I_{c,\text{budget}} = I_c^{(\text{total})} - I_{c,\text{min}} - I_c^{(\text{rese
 **Embodied χ-Equation:**
 
 \[
-\frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1 - \chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \mathcal{R}_{\text{interface}}(L_1) \cdot \text{sgn}_{\text{c}}(\chi)
+\frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1 - \chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
 \]
 
 **Cross-Band Resonance:**
@@ -1587,7 +1596,7 @@ Five-domain evaluation of \( \Sigma \) assessing surface-structure alignment.
 
 **Theorem 1 (Ritual Efficacy):**
 
-\( \| \mathcal{F}_{\text{actual}} - \mathcal{F}_{\text{target}} \| < \epsilon \implies \mathcal{P} \) succeeds.
+\( d(\mathcal{F}_{\text{actual}}, \mathcal{F}_{\text{target}}) < \epsilon \implies \mathcal{P} \) succeeds.
 
 **Theorem 2 (Seal Integrity):**
 
@@ -1599,7 +1608,7 @@ Five-domain evaluation of \( \Sigma \) assessing surface-structure alignment.
 
 **Theorem 4 (Embodied Orientation Evolution):**
 
-\( d\chi/d\tau|_{L_1} = \Lambda \mathcal{M} \chi(1-\chi) - \Gamma \, d\Phi_{\text{CP}}/d\chi + \mathcal{R}_{\text{interface}}(L_1) \cdot \text{sgn}_{\text{c}}(\chi) \).
+\( d\chi/d\tau|_{L_1} = \Lambda \mathcal{M} \chi(1-\chi) - \Gamma \, d\Phi_{\text{CP}}/d\chi + \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) \).
 
 **Theorem 5 (Signature Consistency Principle):**
 
