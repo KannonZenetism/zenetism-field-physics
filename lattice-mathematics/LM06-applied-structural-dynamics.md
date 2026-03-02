@@ -584,7 +584,8 @@ An embodied being resonates with layer \( L_k \) (or \( IL_k \)) when:
 
 Participation does not constitute identity with the layer. The being does not become \( L_k \); it functions through resonant engagement while remaining corporeally situated at L₁.
 
-> **Note (Continuous Scaling):** The threshold condition \( \mathcal{R} > \mathcal{R}_{\text{threshold}}^{(L_k)} \) governs onset of participation. Beyond threshold, resonance intensity scales continuously — participation deepens as \( \mathcal{R} \) increases. The threshold is not a binary gate but a minimum for structural engagement; the quality of cross-band resonance is graded, not all-or-nothing.
+> **Note on Continuous Scaling:**  
+> The threshold condition \( \mathcal{R} > \mathcal{R}_{\text{threshold}}^{(L_k)} \) governs onset of participation. Beyond threshold, resonance intensity scales continuously — participation deepens as \( \mathcal{R} \) increases. The threshold is not a binary gate but a minimum for structural engagement; the quality of cross-band resonance is graded, not all-or-nothing.
 
 ### 8.2 The Orientation-Intent Principle
 
