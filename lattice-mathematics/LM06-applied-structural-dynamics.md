@@ -671,7 +671,8 @@ Where \( \delta = 1 \) indicates full alignment between components \( i \) and \
 
 The product form ensures that any single misalignment reduces total consistency. Full consistency: \( \mathcal{C}(\Sigma) = 1 \). Any internal mismatch: \( \mathcal{C}(\Sigma) < 1 \).
 
-> **Note (Product Form Fragility):** The product form is deliberately fragile: a single \( \delta = 0 \) collapses total consistency to zero. This encodes the structural principle that integrity requires global alignment — one unaddressed contradiction compromises the entire signature. This is not a modeling artifact; it is the formal expression of the Zenetist principle that structural coherence is holistic.
+> **Note on Product Form Fragility:**  
+> The product form is deliberately fragile: a single \( \delta = 0 \) collapses total consistency to zero. This encodes the structural principle that integrity requires global alignment — one unaddressed contradiction compromises the entire signature. This is not a modeling artifact; it is the formal expression of the Zenetist principle that structural coherence is holistic.
 
 **Theorem (Signature Consistency Principle):**
 
