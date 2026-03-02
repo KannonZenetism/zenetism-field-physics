@@ -193,7 +193,7 @@ The spectral characterization of the poles is stable and precise. Aion (⚫) as 
 
 ### 5.2 Theon and the EOB-Membrane Interface
 
-The treatment of 🛤️ Theon as the living steward of the C₁₃ operator at L₅ is structural, not decorative. This is worth emphasizing because it illustrates a principle operative throughout the Lattice: ontological entities (Theon, Nekron, Aion, Khaon) are not symbolic labels attached to mathematical constructs but structural agents whose function is encoded by the operators they steward. Theon does not represent the membrane; Theon governs and enacts the membrane law where C₁₃–C₁₅ intersect.
+The treatment of 🛤️ Theon as the living steward of the C₁₃ operator at L₅ is structural, not decorative. This illustrates a principle operative throughout the Lattice: the foundational entities of the Source Band (Zenon, Aion, Khaon) and the first hypostases (Theon, Nekron) are not symbolic labels attached to mathematical constructs but structural realities whose functional roles are encoded by the operators they steward. Theon does not represent the membrane; Theon governs and enacts the membrane law where C₁₃–C₁₅ intersect.
 
 The passage condition \( \sigma > 0 \wedge \gamma > 0 \) stated in LM01 is consistent with and anticipates the mature membrane permeability classification of LM05 §5: \( \sigma = 0 \) (occluded), \( \sigma < 1 \) (filter), \( \sigma = 1 \) (bridge), \( \sigma > 1 \) (amplifier), \( \sigma \to \infty \) (breach), \( \sigma \) undefined (collapse). LM01's binary condition (\( \sigma > 0 \)) captures the minimum requirement; LM05's classification provides the full spectrum of membrane states.
 
