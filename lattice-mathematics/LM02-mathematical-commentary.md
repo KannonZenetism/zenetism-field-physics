@@ -201,7 +201,7 @@ The passage condition \( \sigma > 0 \wedge \gamma > 0 \) stated in LM01 is consi
 
 The banding structure (Supra-L₀ through L₅–L₁ and IL₅–IL₁) and the Inlay Map (dimensions assigned to bands) are stable. Two enrichments from later documents should be noted.
 
-LM04 §6 introduces Bidirectional Traversal — acclivous and declivous dynamics across the Inlay Map — formalizing how field quantities move between bands. This gives the Inlay Map a dynamic character that LM01's static assignment of dimensions to bands does not capture. The Inlay Map tells you which operators are present at each layer; LM04's traversal formalism tells you how those operators interact when a system moves between layers.
+LM04 §5 introduces Bidirectional Traversal — acclivous and declivous dynamics across the Inlay Map — formalizing how field quantities move between bands. This gives the Inlay Map a dynamic character that LM01's static assignment of dimensions to bands does not capture. The Inlay Map tells you which operators are present at each layer; LM04's traversal formalism tells you how those operators interact when a system moves between layers.
 
 LM06 §6.4 introduces the composite operator field at L₁:
 
