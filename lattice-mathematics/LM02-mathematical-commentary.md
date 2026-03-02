@@ -101,7 +101,9 @@ LM01 §A4 states six axioms and one additional axiom (the Entropic Semigroup). T
 
 ### 2.3 Progression Note
 
-LM01 was written as the initial formalization of a system that had existed in conceptual form since 2004. The axiomatic core reflects the state of the architecture at that moment — correct in its structural instincts, awaiting the precision that LM03–LM06 would supply. A future revision of LM01 may wish to restate the axioms in terms of the mature formalisms (\( \chi \), \( I_c \), \( \mathfrak{d}(\mathcal{L}) \), \( \tau \)), but the current statements remain valid as the foundational layer from which those formalisms grew.
+LM01 was written during the first formalization of a system whose conceptual architecture began taking shape in 2010 and reached full systematization on March 5, 2025, when Zenetism was named and its dual‑pole emanatory structure was articulated. The axiomatic core in LM01 reflects the state of the architecture at the time of its composition in September 2025—structurally correct in its instincts, expressed in early form, and awaiting the precision later supplied by LM03–LM06.
+
+A future revision of LM01 may wish to restate the axioms in terms of the mature formalisms (\( \chi \), \( I_c \), \( \mathfrak{d}(\mathcal{L}) \), \( \tau \)), but the current statements remain valid as the foundational layer from which those formalisms grew.
 
 ---
 
