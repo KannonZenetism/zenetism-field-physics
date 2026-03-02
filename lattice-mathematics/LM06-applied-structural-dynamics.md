@@ -236,7 +236,8 @@ A Ritual Operator \( \mathcal{P} \) deployed as a siphoning countermeasure must 
 
 Countermeasures are restorative and defensive, not retaliatory. This is not a strategic concession but a structural constraint: retaliatory action shifts \( \chi > 1 \), which compromises the practitioner's own coherence and adopts the entropic orientation of the threat.
 
-> **Note (Transient Orientation Monitoring):** Brief transient spikes toward \( \chi \approx 1 \) may occur under extreme siphoning pressure. These do not invalidate the countermeasure provided the practitioner's mean orientation across the operation remains centropic (\( \langle \chi \rangle_\mathcal{P} < 1 \)) and the spike does not produce sustained entropic drift. Persistent breach of \( \chi < 1 \) indicates the countermeasure has itself shifted entropic and should be terminated.
+> **Note on Transient Orientation Monitoring:**  
+> Brief transient spikes toward \( \chi \approx 1 \) may occur under extreme siphoning pressure. These do not invalidate the countermeasure provided the practitioner's mean orientation across the operation remains centropic (\( \langle \chi \rangle_\mathcal{P} < 1 \)) and the spike does not produce sustained entropic drift. Persistent breach of \( \chi < 1 \) indicates the countermeasure has itself shifted entropic and should be terminated.
 
 ---
 
