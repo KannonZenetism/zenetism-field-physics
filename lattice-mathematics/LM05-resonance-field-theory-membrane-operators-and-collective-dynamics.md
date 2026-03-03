@@ -1543,7 +1543,7 @@ I_c^{(\text{parasitic})} = \sum_{i=1}^{N} I_c^{(i)} - \alpha \cdot I_c^{(\text{t
 
 **Definition 4 (Transfer Function):**
 
-\( T(⧉) = \sigma(⧉) \cdot \min(\text{surplus}, \text{capacity}) \).
+\( T(⧉) = \sigma(⧉) \cdot \max(0, \min(\text{surplus}, \text{capacity})) \).
 
 **Definition 5 (Resonance Correlation):**
 
