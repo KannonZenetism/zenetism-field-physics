@@ -159,7 +159,7 @@ The diagnostic instruments (LM06 §9.3) read the same quantities at each layer, 
 
 The Law of Field Nutrient (LM05 §3.2) — that \( S(x, \tau) > 0 \) requires Source connection — acquires specificity through layer character:
 
-- At L₅: Source connection is direct (🛤️ Theon governs the EOB)
+- At L₅: Source connection is direct (🛤️ Theon as the EOB)
 - At L₄: Source connection is archetypal (through Form-fields aligned with ⚫ Aion)
 - At L₃–L₁: Source connection is mediated (through cross-band resonance, LM06 §8)
 
