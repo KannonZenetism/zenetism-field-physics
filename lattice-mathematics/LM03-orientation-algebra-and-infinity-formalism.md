@@ -1361,7 +1361,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \mathcal{M} \) | Motive Intensity Functional (total field of motion) |
 | \( \kappa \) | Causal placement function (\{pre, active, post\}) |
 | \( \equiv_s \) | Stillness-equivalence relation |
-| \( \chi \) | Chi orientation parameter (field variable) |
+| \( \chi \) | Structural orientation parameter |
 | \( \tau \) | Structural time (Spiral Calculus trajectory parameter) |
 | \( r(\chi) \) | Spectral rotation function: \( (1-\chi)/(1+\chi) \) |
 | \( w_C(\chi), w_E(\chi) \) | Centropic and entropic weight functions |
