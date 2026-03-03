@@ -133,7 +133,7 @@ The entropic arc carries its own field character:
 | Layer | Domain | 𝔇(I_c at IL_k) | Character |
 |-------|--------|-----------------|-----------|
 | IL₅ | VOS | Void coherence | I_c → 0; approach toward 🕷️ Nekron |
-| IL₄ | IDP / IDL | Distorted archetypal coherence | Pattern‑bearing structure inverted; mimetic form without coherence |
+| IL₄ | IDP / IDL | Distorted archetypal coherence | Mimetic pattern; pattern‑structure inverted in orientation |
 | IL₃ | IDS / IDM | Corrupted psychic coherence | Identity manipulation; ideological distortion of the deep self |
 | IL₂ | ISS / ISM | Reactive personal coherence | Fanatical or illusory self-structure; reactive identity |
 | IL₁ | IES / IEM | Fragmented corporeal coherence | Entropic embodiment; domination and dissociation within form |
