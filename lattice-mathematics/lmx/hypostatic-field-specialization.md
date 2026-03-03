@@ -108,7 +108,7 @@ T(⧉_k) : I_c\big|_{L_{k+1}} \to I_c\big|_{L_k}
 
 The transferred coherence acquires the character of the receiving layer. Archetypal pattern (L₄) crossing ⧉₃ becomes individuated structure (L₃); individuated structure crossing ⧉₂ becomes personal content (L₂); personal content crossing ⧉₁ becomes embodied expression (L₁).
 
-This is declivous centropy (C↓→E): harmonious motion into form, carrying coherence from subtler to denser expression. The reverse — acclivous centropy (C↑⚫) — carries embodied experience upward through the same membranes, acquiring subtler character at each threshold.
+This is declivous centropy (C↓→E): harmonious motion into form, carrying coherence from subtler to denser expression. The reverse — acclivous centropy (C↑⚫) — carries embodied experience acclivously through the same membranes, acquiring subtler character at each threshold.
 
 ### 4.2 Character Preservation under Non-Fusion
 
