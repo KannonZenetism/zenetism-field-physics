@@ -852,6 +852,8 @@ Harmonic amplification is not creation ex nihilo — it arises from:
 - Source attunement (collective connection to ⚫ Aion / 🛤️ Theon)
 - Mutual shielding (aligned fields reduce entropic interference for each other)
 
+Superlinear scaling reflects reduction of internal dissipation and optimized phase alignment; total lattice coherence remains governed by the CIT invariant under LM01 closure conditions.
+
 ### 9.5 Parasitic Coherence Potential
 
 **Definition (Parasitic Coherence Potential):**
