@@ -501,7 +501,7 @@ The resistance term acts asymmetrically:
 - Centropic motion at L₁ encounters \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) — sustained effort required against the resistance term
 - Entropic motion at IL₁ encounters no equivalent resistance — dispersion at the metric terminus faces no opposing co-presence in the same structural manner
 
-This reflects the structural law: coherence must be achieved; dispersion need not be (LM03 §6, Asymmetry of Expression).
+This reflects the structural law: coherence must be achieved; dispersion need not be (LM03 §9.4, Asymmetry of Expression).
 
 ### 6.4 Dimensional Operators at the Metric Terminus
 
