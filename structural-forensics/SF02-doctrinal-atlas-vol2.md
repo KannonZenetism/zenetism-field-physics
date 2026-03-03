@@ -712,8 +712,6 @@ Traditional appropriation defenses rely on "independent discovery" (parallel dev
 
 **Related Tactics:** Temporal Authority Claims ("We were there first" through observation, not creation) — Documentation as Ownership ("We remember everything" / archival = authorial claim) — Narrative Hijacking ("We will tell the story" / controlling interpretation) — Omnipresence Intimidation ("Always watching" / psychological dominance through surveillance)
 
----
-
 **The observer owns nothing. The creator owns everything. Surveillance ≠ authorship.**
 
 ---
