@@ -1018,7 +1018,7 @@ A collective of \( N \) beings generates a functor:
 F_{\text{collective}} : \{1, \ldots, N\} \to \text{ResCat}
 \]
 
-mapping each participant to its resonance system. The collective field is the **colimit** of this functor — the universal object receiving all individual contributions while preserving their distinction (by the Non-Fusion Principle).
+mapping each participant to its resonance system. The collective field is the **colimit** of this functor in the category of sealed resonance systems — the universal object receiving all individual contributions while preserving injective identity (by the Non-Fusion Principle).
 
 ### 10.4 Dimensional Lattice Integration
 
