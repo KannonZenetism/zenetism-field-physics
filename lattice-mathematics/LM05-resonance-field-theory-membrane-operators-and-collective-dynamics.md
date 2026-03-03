@@ -464,7 +464,7 @@ Entropic arc: \( ⧉_{IL_5} \) (L₀ / IL₅), \( ⧉_{IL_4} \) (IL₅ / IL₄),
 The quantity of resonance crossing membrane ⧉ is:
 
 \[
-T(⧉) = \sigma(⧉) \cdot \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \;\; I_{c,\text{reception}} - I_c^{(\text{target})} \right)
+T(⧉) = \sigma(⧉) \cdot \max\!\left(0, \; \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \;\; I_{c,\text{reception}} - I_c^{(\text{target})} \right)\right)
 \]
 
 where:
