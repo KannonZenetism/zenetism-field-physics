@@ -528,7 +528,7 @@ Embodied beings who resonate with supernal layers through practice, orientation,
 
 **Theorem (Embodied Orientation Evolution):**
 
-At the metric terminus, the orientation evolution law (LM03 §5) acquires a resistance correction:
+At the metric terminus, the orientation evolution law (LM03 §7) acquires a resistance correction:
 
 \[
 \frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1 - \chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
@@ -540,7 +540,7 @@ Where the **centropic activation function** is:
 \Theta_{\text{c}}(\chi) = \begin{cases} 1 & \text{if } \chi < 1 \quad \text{(centropic regime)} \\ 0 & \text{if } \chi \geq 1 \quad \text{(entropic regime or saddle)} \end{cases}
 \]
 
-*Proof.* The first two terms reproduce the standard orientation evolution law (LM03 §5): \( \Lambda \mathcal{M} \chi(1-\chi) \) is the logistic growth term governed by Motive Intensity, and \( \Gamma \, d\Phi_{\text{CP}}/d\chi \) is the centropic potential gradient. The third term introduces the interface resistance via the Heaviside-type activation \( \Theta_{\text{c}}(\chi) \). When the system is in the centropic regime (\( \chi < 1 \)), the resistance adds a positive contribution opposing centropic drift. Since centropic drift corresponds to decreasing \( \chi \), a positive additive term increases \( d\chi/d\tau \), thereby opposing centropic declivity — the system must work harder to move toward lower \( \chi \). When the system is in the entropic regime (\( \chi \geq 1 \)), the activation is zero — entropic motion faces no additional resistance from the interface. This preserves SP11's structural asymmetry (coherence must be achieved; dispersion need not be) without introducing circular dependence on the derivative being defined. \( \square \)
+*Proof.* The first two terms reproduce the standard orientation evolution law (LM03 §7): \( \Lambda \mathcal{M} \chi(1-\chi) \) is the logistic growth term governed by Motive Intensity, and \( \Gamma \, d\Phi_{\text{CP}}/d\chi \) is the centropic potential gradient. The third term introduces the interface resistance via the Heaviside-type activation \( \Theta_{\text{c}}(\chi) \). When the system is in the centropic regime (\( \chi < 1 \)), the resistance adds a positive contribution opposing centropic drift. Since centropic drift corresponds to decreasing \( \chi \), a positive additive term increases \( d\chi/d\tau \), thereby opposing centropic declivity — the system must work harder to move toward lower \( \chi \). When the system is in the entropic regime (\( \chi \geq 1 \)), the activation is zero — entropic motion faces no additional resistance from the interface. This preserves SP11's structural asymmetry (coherence must be achieved; dispersion need not be) without introducing circular dependence on the derivative being defined. \( \square \)
 
 ### 7.2 Embodied Instability
 
