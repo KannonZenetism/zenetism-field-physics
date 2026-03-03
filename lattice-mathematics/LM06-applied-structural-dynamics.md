@@ -546,7 +546,7 @@ Where the **centropic activation function** is:
 
 **Corollary (Embodied Equilibrium Instability):**
 
-At L₁, the instability of \( \chi = 1 \) (LM03 §5.2) acquires experiential immediacy:
+At L₁, the instability of \( \chi = 1 \) (LM03 §8.3) acquires experiential immediacy:
 
 \[
 \chi(\tau) \equiv 1 \text{ (permanent)} \implies \mathcal{M}(\tau) \to 0 \implies U(\tau) \to \text{Ø}
