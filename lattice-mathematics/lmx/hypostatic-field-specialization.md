@@ -49,6 +49,8 @@ The **character function** \( \mathfrak{C} \) assigns to each layer restriction 
 \mathfrak{C}(L_k) : Q\big|_{L_k} \mapsto \text{(ontological mode of } Q \text{ at } L_k\text{)}
 \]
 
+The character function modifies interpretation, not the governing equations; continuity, transfer, and diffusion laws remain unchanged under restriction.
+
 **Proposition (Character Table for \( I_c \)):**
 
 | Layer | Domain | 𝔇(I_c at L_k) | Character |
@@ -73,7 +75,7 @@ The same formal object — a scalar field on structural space — carries essent
 
 The mathematical field quantities of LM05 — \( I_c \), \( \vec{J}_c \), \( S \) — formalize the dynamics of motion within Φ₂. The Coherence Potential measures the local availability of structured motion; the Coherence Current measures the directional flow of that motion; the Source Term measures the generation or extraction of motive capacity.
 
-In this reading, LM05's field theory is the **mathematics of Motive Infinity at work within the Lattice**: the formal description of how the capacity for motion distributes, flows, and transforms across structural space.
+In this reading, LM05's field theory may be read as the **formal description of motion within Φ₂**: the mathematics of how the capacity for motion distributes, flows, and transforms across structural space.
 
 ### 3.2 Distinction: Mathematical Field contra Ontological Field
 
