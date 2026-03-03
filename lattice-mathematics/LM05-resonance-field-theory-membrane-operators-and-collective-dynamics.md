@@ -1472,7 +1472,7 @@ D(\chi) = D_0 \cdot \frac{1 - \chi}{1 + \chi}
 **Transfer Function:**
 
 \[
-T(⧉) = \sigma(⧉) \cdot \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \;\; I_{c,\text{reception}} - I_c^{(\text{target})} \right)
+T(⧉) = \sigma(⧉) \cdot \max\!\left(0, \; \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \;\; I_{c,\text{reception}} - I_c^{(\text{target})} \right)\right)
 \]
 
 **Orientation-Dependent Permeability:**
