@@ -693,7 +693,7 @@ For analytical clarity, consider the simplified orientation dynamics (neglecting
 \frac{d\chi}{d\tau} = \kappa \, \mathcal{M}(\tau) \, \chi(\chi - 1), \quad \kappa > 0
 \]
 
-This adopts the equivalent sign convention \( \kappa := -\Lambda \) relative to the canonical equation (§7.1), so that CP₁ appears as a repeller and the Aionic/Khaonic extremes as attractors under \( \mathcal{M} > 0 \).
+This adopts the equivalent sign convention \( \kappa := -\Lambda \) relative to the canonical equation (§7.1), so that CP₁ appears as a repeller and the Aionic–Khaonic extremes as attractors under \( \mathcal{M} > 0 \).
 
 ### 8.2 Phase Portrait Analysis
 
