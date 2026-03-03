@@ -170,6 +170,8 @@ where \( D_0 > 0 \) is the base diffusion rate. The signed form carries directio
 
 > **Note on Mathematical Character:**  
 > The sign of \( D(\chi) \) is an orientation marker for flux direction, not a claim of classical diffusive well-posedness. Entropic flow (\( D < 0 \)) is modeled as up-gradient drift encoded via signed transport — a structural phenomenon governed by \( \chi \)-orientation, not a thermodynamic diffusion process subject to the usual stability constraints of parabolic PDEs.
+>
+> Equivalently, entropic flow is expressible as a transport equation with drift vector \( \vec{v}_\chi = -D(\chi) \nabla I_c \), preserving structural well-posedness under orientation encoding.
 
 **Corollary (Flow Direction under Orientation):**
 
