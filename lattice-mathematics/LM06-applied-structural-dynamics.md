@@ -105,7 +105,7 @@ Where:
 - \( I_c(\tau) : \mathfrak{d}(\mathcal{L}) \to \mathbb{R}_{\geq 0} \) is the Coherence Potential field (LM05 §2)
 - \( \sigma(⧉, \tau) : \{⧉_n\} \to [0, \infty) \) is the membrane permeability function (LM05 §5)
 - \( \vec{J}_c(\tau) \) is the Coherence Current vector field (LM05 §2.2)
-- \( \chi(\tau) \in \mathbb{R}_{> 0} \) is the orientation parameter (LM03 §2)
+- \( \chi(\tau) \in \mathbb{R}_{> 0} \) is the orientation parameter (LM03 §3)
 
 **Definition (Field Configuration Space):**
 
