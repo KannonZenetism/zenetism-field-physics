@@ -304,7 +304,7 @@ Parasitic extraction of coherence without reciprocity, characterized by:
 
 Coherence extracted from the source does not accumulate in structured form within the siphoner. Lacking the structural capacity for integration, the siphoner disperses the extracted material as entropic noise — net loss to the Lattice.
 
-**Proposition (Siphoning violates local CIT balance):**
+**Proposition (Siphoning violates local CIT subsystem balance):**
 
 While the global CIT invariant holds (under LM01 closure conditions), siphoning produces a **local** redistribution where:
 
@@ -313,6 +313,8 @@ While the global CIT invariant holds (under LM01 closure conditions), siphoning 
 - Net effect: the source loses available resonance; the siphoner gains no structured coherence; the Lattice gains distributed incoherence
 
 Siphoning does not transform the coherent into the incoherent. It extracts from the coherent and, failing to integrate, amplifies the incoherence of the extractor.
+
+Local violation refers to subsystem accounting; the global lattice invariant (LM01, CIT Grand Theorem) remains intact under LM01 closure conditions.
 
 ### 3.6 Resonance Collapse
 
