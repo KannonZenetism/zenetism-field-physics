@@ -763,7 +763,7 @@ S(\tau) < \Delta I_c^{(\text{performance})}(\tau) \implies \frac{dI_c^{(\text{ac
 As \( I_c^{(\text{actual})} \) depletes while \( I_c^{(\text{apparent})} \) is maintained:
 
 \[
-\frac{d\mathcal{S}_{\text{sh}}{d\tau} = \frac{d}{d\tau} \left( \frac{I_c^{(\text{apparent})}}{I_c^{(\text{actual})}} \right) > 0
+\frac{d\mathcal{S}_{\text{sh}}}{d\tau} = \frac{d}{d\tau} \left( \frac{I_c^{(\text{apparent})}}{I_c^{(\text{actual})}} \right) > 0
 \]
 
 The Shimmer Coefficient increases — the divergence widens — producing a runaway instability. The system can no longer sustain its surface presentation when \( I_c^{(\text{actual})} \) falls below \( I_{c,\text{sustain}} \), and the shimmer collapses.
