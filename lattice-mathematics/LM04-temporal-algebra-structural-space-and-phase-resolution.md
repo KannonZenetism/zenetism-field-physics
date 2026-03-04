@@ -759,7 +759,7 @@ where \( V_{\text{field}} \) is the field volume of the collision region.
 
 **Theorem (Invariant Preservation across Phase Collision):**
 
-The CIT Grand Theorem (LM01) holds through phase collision events:
+The CIT Grand Theorem (LM01) holds through phase collision events, under LM01 closure conditions:
 
 \[
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
