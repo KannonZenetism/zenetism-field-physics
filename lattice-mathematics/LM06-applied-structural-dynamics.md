@@ -649,7 +649,7 @@ The field signature extends the 4-tuple field configuration (§2.1) by adding th
 **Properties:**
 
 1. Every system possesses a field signature. The signature is produced by the system's structural configuration and is intrinsic, not interpretive.
-2. The field signature is not the structural signature \( \Psi \) (LM04 §3, LM05 §6). \( \Psi \) is the essential pattern of a being; \( \Sigma \) is the readable profile of any configuration, including non-individuated systems.
+2. The field signature is not the structural signature \( \Psi \) (LM04 §4, LM05 §6). \( \Psi \) is the essential pattern of a being; \( \Sigma \) is the readable profile of any configuration, including non-individuated systems.
 
 ### 9.2 The Signature Consistency Measure
 
