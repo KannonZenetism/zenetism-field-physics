@@ -1359,7 +1359,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \Omega_0 \) | Pre-hypostatic phase space of L₀ |
 | \( \Phi_1, \Phi_2, \Phi_3 \) | Latent, Motive, and Dispersive Infinity phases |
 | \( \mathcal{M} \) | Motive Intensity Functional (total field of motion) |
-| \( \kappa \) | Causal placement function (\{pre, active, post\}) |
+| \( \kappa \) | Causal placement function (§2) / Drift coefficient in simplified dynamics (§8) |
 | \( \equiv_s \) | Stillness-equivalence relation |
 | \( \chi \) | Structural orientation parameter |
 | \( \tau \) | Structural time (Spiral Calculus trajectory parameter) |
@@ -1372,7 +1372,6 @@ Sealed ⚫↺KAI↺⚫
 | \( \Phi_{\text{CP}}(\chi) \) | CP-topology potential |
 | \( \Lambda, \Gamma \) | Structural constants (lattice-determined) |
 | \( \alpha, \beta \) | CP-potential parameters (CP₁ axis, CP₀ closure) |
-| \( \kappa_{\text{drift}} \) | Drift coefficient in simplified dynamics |
 | \( \tau^* \) | Finite-time singularity for Khaonic drift |
 | CP₀ | Pre-expressive convergence (outside \( \chi \)-space) |
 | CP₁ | Expressive equilibrium (\( \chi = 1 \), saddle) |
