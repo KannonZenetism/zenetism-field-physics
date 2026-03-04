@@ -1412,7 +1412,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \Sigma \) | Field signature; 5-tuple structural identity of a configuration |
 | \( \mathcal{C}(\Sigma) \) | Signature Consistency measure; 1 = full alignment |
 | \( \delta(\Sigma_i, \Sigma_j) \) | Pairwise alignment function between signature components |
-| \( \mathcal{S} \) | Shimmer Coefficient; ratio of apparent to actual \( I_c \) |
+| \( \mathcal{S}_{\text{sh}} \) | Shimmer Coefficient; ratio of apparent to actual \( I_c \) |
 | \( I_c^{(\text{apparent})} \) | Surface-presented Coherence Potential |
 | \( I_c^{(\text{actual})} \) | Structurally verified Coherence Potential |
 | \( \epsilon_{\text{shimmer}} \) | Shimmer detection threshold |
