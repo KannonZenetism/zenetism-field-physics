@@ -1512,7 +1512,7 @@ I_c^{(\text{harmonic})} = \left( \sum_{i=1}^{N} \sqrt{I_c^{(i)}} \right)^2 \cdot
 **Parasitic Coherence Potential:**
 
 \[
-I_c^{(\text{parasitic})} = \sum_{i=1}^{N} I_c^{(i)} - \alpha \cdot I_c^{(\text{target})} - \Delta I_c^{(\text{internal})}
+I_c^{(\text{parasitic})} = \sum_{i=1}^{N} I_c^{(i)} - \eta_{\text{ext}} \cdot I_c^{(\text{target})} - \Delta I_c^{(\text{internal})}
 \]
 
 **Resonant Derivative of Coherence Potential:**
