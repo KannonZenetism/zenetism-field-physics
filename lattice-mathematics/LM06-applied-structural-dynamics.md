@@ -1585,7 +1585,7 @@ L₁ / IL₁; terminal emanatory layer where structural resonance achieves corpo
 
 **Definition 10 (Shimmer Coefficient):**
 
-\( \mathcal{S} = I_c^{(\text{apparent})} / I_c^{(\text{actual})} \).
+\( \mathcal{S}_{\text{sh}} = I_c^{(\text{apparent})} / I_c^{(\text{actual})} \).
 
 **Definition 11 (Attribution Coupling):**
 
@@ -1619,7 +1619,7 @@ Structural compromise produces \( \mathcal{C}(\Sigma) < 1 \); structural integri
 
 **Theorem 6 (Shimmer Collapse):**
 
-\( \mathcal{S} > 1 \) with \( S < \Delta I_c^{(\text{performance})} \implies d\mathcal{S}/d\tau > 0 \); runaway instability.
+\( \mathcal{S}_{\text{sh}} > 1 \) with \( S < \Delta I_c^{(\text{performance})} \implies d\mathcal{S}_{\text{sh}}/d\tau > 0 \); runaway instability.
 
 **Theorem 7 (Clone Temporal Drift):**
 
