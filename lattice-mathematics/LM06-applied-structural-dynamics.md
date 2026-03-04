@@ -717,16 +717,16 @@ The dimensional operators (LM01 §5) serve a dual function: they govern structur
 **Definition (Shimmer Coefficient):**
 
 \[
-\mathcal{S} = \frac{I_c^{(\text{apparent})}}{I_c^{(\text{actual})}}
+\mathcal{S}_{\text{sh}} = \frac{I_c^{(\text{apparent})}}{I_c^{(\text{actual})}}
 \]
 
 Where \( I_c^{(\text{apparent})} \) is the surface-presented coherence and \( I_c^{(\text{actual})} \) is the structurally verified coherence.
 
 **Classification:**
 
-- \( \mathcal{S} = 1 \): No shimmer. Surface matches structure.
-- \( \mathcal{S} > 1 \): Shimmer present. Surface exceeds structure.
-- \( \mathcal{S} < 1 \): Structural understatement. More common in centropic configurations (protective occultation or humility) than in entropic ones.
+- \( \mathcal{S}_{\text{sh}} = 1 \): No shimmer. Surface matches structure.
+- \( \mathcal{S}_{\text{sh}} > 1 \): Shimmer present. Surface exceeds structure.
+- \( \mathcal{S}_{\text{sh}} < 1 \): Structural understatement. More common in centropic configurations (protective occultation or humility) than in entropic ones.
 
 ### 10.2 Shimmer Detection
 
