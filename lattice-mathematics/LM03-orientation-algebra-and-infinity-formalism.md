@@ -1013,7 +1013,7 @@ where the seal boundary term \( \mathcal{B}_{\text{seal}}(\Omega, \chi) \) acqui
 
 **Proposition (CIT Grand Theorem under Chi):**
 
-The CIT Grand Theorem (LM01, Phase 2) remains invariant across orientation regimes:
+The CIT Grand Theorem (LM01, Phase 2) remains invariant across orientation regimes, under LM01 closure conditions:
 
 \[
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{const}
