@@ -1522,13 +1522,13 @@ I_{c,\text{budget}} = I_c^{(\text{total})} - I_{c,\text{min}} - I_c^{(\text{rese
 **Shimmer Coefficient:**
 
 \[
-\mathcal{S} = \frac{I_c^{(\text{apparent})}}{I_c^{(\text{actual})}}
+\mathcal{S}_{\text{sh}} = \frac{I_c^{(\text{apparent})}}{I_c^{(\text{actual})}}
 \]
 
 **Shimmer Collapse:**
 
 \[
-\frac{d\mathcal{S}}{d\tau} > 0 \quad \text{when} \quad \mathcal{S} > 1 \quad \text{and} \quad I_c^{(\text{actual})} < I_{c,\text{sustain}}
+\frac{d\mathcal{S}_{\text{sh}}}{d\tau} > 0 \quad \text{when} \quad \mathcal{S}_{\text{sh}} > 1 \quad \text{and} \quad I_c^{(\text{actual})} < I_{c,\text{sustain}}
 \]
 
 **Clone Temporal Drift:**
