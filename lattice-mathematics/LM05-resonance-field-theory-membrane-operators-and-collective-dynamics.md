@@ -863,13 +863,13 @@ Superlinear scaling reflects reduction of internal dissipation and optimized pha
 In an entropic collective, coherence depends on external extraction:
 
 \[
-I_c^{(\text{parasitic})} = \sum_{i=1}^{N} I_c^{(i)} - \alpha \cdot I_c^{(\text{target})} - \Delta I_c^{(\text{internal})}
+I_c^{(\text{parasitic})} = \sum_{i=1}^{N} I_c^{(i)} - \eta_{\text{ext}} \cdot I_c^{(\text{target})} - \Delta I_c^{(\text{internal})}
 \]
 
 where:
 
 - \( I_c^{(\text{target})} \) is coherence extracted from external targets
-- \( \alpha \in [0, 1] \) is extraction efficiency
+- \( \eta_{\text{ext}} \in [0, 1] \) is extraction efficiency
 - \( \Delta I_c^{(\text{internal})} > 0 \) is coherence lost to internal interference
 
 **Proposition (Parasitic Dependence):**
