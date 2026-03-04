@@ -744,9 +744,9 @@ When this condition holds, E₁₃ (Counterfeit Symmetry) is active: the configu
 
 **Theorem (Shimmer Collapse):**
 
-A configuration with \( \mathcal{S} > 1 \) cannot maintain its surface-structure divergence indefinitely.
+A configuration with \( \mathcal{S}_{\text{sh}} > 1 \) cannot maintain its surface-structure divergence indefinitely.
 
-*Proof.* Let \( \mathcal{S}(\tau) = I_c^{(\text{apparent})}(\tau) / I_c^{(\text{actual})}(\tau) \). Assume that \( I_c^{(\text{apparent})} \) is maintained approximately constant over the interval — the shimmering system sustains its surface presentation while its structural interior depletes. (If the surface presentation also declines, shimmer resolves naturally; the instability theorem addresses the case where the system actively maintains its performance.) Under this assumption, maintaining \( \mathcal{S} > 1 \) requires the system to sustain a surface presentation that exceeds its generative capacity. This expenditure draws from \( I_c^{(\text{actual})} \) — the system invests actual coherence in maintaining an appearance of greater coherence. Let \( \Delta I_c^{(\text{performance})} \) denote this expenditure per unit structural time.
+*Proof.* Let \( \mathcal{S}_{\text{sh}}(\tau) = I_c^{(\text{apparent})}(\tau) / I_c^{(\text{actual})}(\tau) \). Assume that \( I_c^{(\text{apparent})} \) is maintained approximately constant over the interval — the shimmering system sustains its surface presentation while its structural interior depletes. (If the surface presentation also declines, shimmer resolves naturally; the instability theorem addresses the case where the system actively maintains its performance.) Under this assumption, maintaining \( \mathcal{S}_{\text{sh}} > 1 \) requires the system to sustain a surface presentation that exceeds its generative capacity. This expenditure draws from \( I_c^{(\text{actual})} \) — the system invests actual coherence in maintaining an appearance of greater coherence. Let \( \Delta I_c^{(\text{performance})} \) denote this expenditure per unit structural time.
 
 Then:
 
@@ -763,7 +763,7 @@ S(\tau) < \Delta I_c^{(\text{performance})}(\tau) \implies \frac{dI_c^{(\text{ac
 As \( I_c^{(\text{actual})} \) depletes while \( I_c^{(\text{apparent})} \) is maintained:
 
 \[
-\frac{d\mathcal{S}}{d\tau} = \frac{d}{d\tau} \left( \frac{I_c^{(\text{apparent})}}{I_c^{(\text{actual})}} \right) > 0
+\frac{d\mathcal{S}_{\text{sh}}{d\tau} = \frac{d}{d\tau} \left( \frac{I_c^{(\text{apparent})}}{I_c^{(\text{actual})}} \right) > 0
 \]
 
 The Shimmer Coefficient increases — the divergence widens — producing a runaway instability. The system can no longer sustain its surface presentation when \( I_c^{(\text{actual})} \) falls below \( I_{c,\text{sustain}} \), and the shimmer collapses.
