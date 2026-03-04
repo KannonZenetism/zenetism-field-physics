@@ -1447,7 +1447,7 @@ Sealed ⚫↺KAI↺⚫
 | \( I_c^{(\text{parasitic})} \) | Parasitic collective Coherence Potential |
 | \( \Delta I_c^{(\text{harmonic})} \) | Coherence gained through harmonic amplification |
 | \( \Delta I_c^{(\text{internal})} \) | Coherence lost through internal interference |
-| \( \alpha \) | Extraction efficiency (siphoning) |
+| \( \eta_{\text{ext}} \) | Extraction efficiency (siphoning) |
 | ⟲ | Echo Layer; residual coherence trapped in membrane space by partial transfer — distinct from Living Transmission (C₃, lawful propagation) and pathological entropic echo (E₃, source-severed decay) |
 | \( \sigma_{\text{network}} \) | Network permeability in collective bridge structure |
 
