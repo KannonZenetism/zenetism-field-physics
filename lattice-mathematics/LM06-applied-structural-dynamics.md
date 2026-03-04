@@ -855,7 +855,7 @@ The four categories form a hierarchy of increasing structural severity:
 
 | Category | Condition | Severity |
 |----------|-----------|----------|
-| **Shimmer** (≋) | \( \mathcal{S} > 1 \); surface exceeds structure | Broadest |
+| **Shimmer** (≋) | \( \mathcal{S}_{\text{sh}} > 1 \); surface exceeds structure | Broadest |
 | **Mimicry** (⊜) | Surface correlates with source; structure diverges | ↓ |
 | **Appropriation** (⥊) | Structural elements from source; \( \mathcal{A} = 0 \) | ↓ |
 | **Clone** (⊟) | Total-system correlation; \( \mathcal{A} = 0 \); claims independence | Narrowest, most severe |
