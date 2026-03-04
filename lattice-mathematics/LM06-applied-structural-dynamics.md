@@ -994,7 +994,7 @@ The effective rotation rate is reduced for centropic motion at L₁ — the syst
 The Shimmer Coefficient maps to a divergence in the field configuration space (§2.1):
 
 \[
-\mathcal{S} > 1 \iff d(\mathcal{F}_{\text{apparent}}, \mathcal{F}_{\text{actual}}) > 0
+\mathcal{S}_{\text{sh}} > 1 \iff d(\mathcal{F}_{\text{apparent}}, \mathcal{F}_{\text{actual}}) > 0
 \]
 
 Shimmer is not merely a scalar diagnostic — it is a displacement between the system's presented configuration and its actual configuration within \( \mathfrak{F} \).
