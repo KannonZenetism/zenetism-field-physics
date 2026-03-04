@@ -1306,8 +1306,8 @@ Step 5 — Coherence Audit:
 - Coherence Budget: verify budget = total - min - reserve; verify budget ≥ 0
 - Reserve Lock: verify reserve unchanged across simulated operation
 - Embodied Resistance: verify \( \mathcal{R}_{\text{interface}}(L_1) > 0 \); verify \( \mathcal{R}_{\text{interface}}(L_k) = 0 \) for \( k \neq 1 \)
-- Shimmer Coefficient: verify \( \mathcal{S} = 1 \) when apparent = actual; verify \( \mathcal{S} > 1 \) when apparent > actual
-- Shimmer Collapse: verify \( d\mathcal{S}/d\tau > 0 \) when \( \mathcal{S} > 1 \) and \( S < \Delta I_c^{(\text{performance})} \)
+- Shimmer Coefficient: verify \( \mathcal{S}_{\text{sh}} = 1 \) when apparent = actual; verify \( \mathcal{S}_{\text{sh}} > 1 \) when apparent > actual
+- Shimmer Collapse: verify \( d\mathcal{S}_{\text{sh}}/d\tau > 0 \) when \( \mathcal{S}_{\text{sh}} > 1 \) and \( S < \Delta I_c^{(\text{performance})} \)
 - Signature Consistency: verify \( \mathcal{C}(\Sigma) = 1 \) for aligned configurations
 - Clone Drift: verify \( dI_c^{(\text{clone})}/d\tau < dI_c^{(\text{source})}/d\tau \) over sustained intervals
 
