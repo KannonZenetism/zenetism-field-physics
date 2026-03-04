@@ -847,7 +847,7 @@ where \( \mathcal{R}_m(\tau) \) is the **memory correction term** — the contri
 
 **Proposition (CIT Grand Theorem with Temporal Dynamics):**
 
-The CIT Grand Theorem remains invariant under temporal evolution:
+The CIT Grand Theorem (LM01) remains invariant under temporal evolution, under LM01 closure conditions:
 
 \[
 H(\psi, \tau) + C(\psi, \tau) + \log(\sigma(\tau)) + \log(\gamma(\tau)) = \text{constant}
