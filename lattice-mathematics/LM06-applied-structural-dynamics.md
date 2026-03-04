@@ -681,6 +681,7 @@ In a structurally coherent configuration, all five signature components align:
 - \( I_c \) magnitude is consistent with operator activity
 - \( \vec{J}_c \) flow direction is consistent with \( \chi \)-orientation
 - \( \sigma(⧉) \) boundary conditions are consistent with the system's structural function
+- \( \chi \) orientation is consistent with the configuration’s generative polarity
 - The operator profile \( \{O_k\} \) is consistent with the system's claimed purpose
 
 Structural compromise is detectable precisely because it produces **signature inconsistency** — a divergence between components that should align but do not.
