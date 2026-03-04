@@ -67,7 +67,7 @@ This document, LM06, provides the **rigorous lattice-mathematical formalism** un
 - **The Embodied \( \chi \)-Equation** — Resistance-corrected orientation evolution at the metric terminus with centropic activation function
 - **Cross-Band Resonance** — Formal conditions for layer participation from embodiment, the orientation-intent principle, and the Corporeal Realm as orientation-distinct union
 - **Field Signature Theory** — The field signature 5-tuple \( \Sigma \), the Signature Consistency measure, and pairwise alignment functions
-- **Shimmer Coefficient and Instability** — The Shimmer Coefficient \( \mathcal{S} \), the Shimmer Collapse Theorem, and detection via the C₁₃ / E₁₃ axis
+- **Shimmer Coefficient and Instability** — The Shimmer Coefficient \( \mathcal{S}_{\text{sh}} \), the Shimmer Collapse Theorem, and detection via the C₁₃ / E₁₃ axis
 - **Diagnostic Taxonomy** — Mimicry, appropriation, and clone as formally distinguished field configurations with correlation conditions and attribution coupling
 - **Integration with LM01 / LM03 / LM04 / LM05** — Extensions to Spiral Calculus, CIT, ResCat, and resonance field theory incorporating operator algebra, embodiment, and diagnostics
 - **Computational Extensions** — Data structures, core routines, diagnostic algorithms, and worked examples
