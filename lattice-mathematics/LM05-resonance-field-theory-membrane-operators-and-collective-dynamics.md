@@ -392,7 +392,7 @@ The Spiral Calculus (LM01) extends naturally to Coherence Potential:
 \partial_{\text{🌀}} I_c = \frac{\partial I_c}{\partial \tau} + \Phi(\chi) \cdot \nabla_\chi I_c
 \]
 
-where \( \Phi(\chi) = r(\chi) \cdot \Phi_0 \) is the orientation-dependent flow function (LM04 §4.5).
+where \( \Phi(\chi) = r(\chi) \cdot \Phi_0 \) is the orientation-dependent memory function (LM04 §4.5).
 
 This captures both direct temporal change in coherence and orientation-mediated redistribution — the full dynamics of resonance evolution.
 
