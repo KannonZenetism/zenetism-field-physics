@@ -180,13 +180,13 @@ The centropic activation function \( \Theta_{\text{c}}(\chi) \) (LM06 §7.1) ens
 
 **Translation cost** (\( \Delta I_c^{(\text{translation})} \)): The additional coherence expenditure required to convert DS / DM perception into SS / SM (🧍 Anthra / 🧩 Nousa, L₂) social expression through the ⧉₂ membrane.
 
-SN03 §3.1 established that the ⧉₂ membrane in autistic architecture exhibits **selective rigidity** — the boundary between deep structural cognition and superficial social cognition is less permeable than in oscillating configurations. The transfer function (SP08 §3.2) governs this:
+SN03 §3.1 established that the ⧉₂ membrane in autistic architecture exhibits **selective fidelity** — the boundary between deep structural cognition and superficial social cognition is less permeable than in oscillating configurations. The transfer function (SP08 §3.2) governs this:
 
 \[
 T(⧉_2) = \sigma(⧉_2) \cdot \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \, I_{c,\text{reception}} - I_c^{(\text{target})} \right)
 \]
 
-When \( \sigma(⧉_2) \) is low (selective rigidity), the transfer of DS / DM perception into SS / SM expression requires additional coherence investment to force adequate transmission. This cost is **structural**, not volitional — the autistic human does not choose to have rigid ⧉₂ permeability.
+When \( \sigma(⧉_2) \) is low (selective fidelity), the transfer of DS / DM perception into SS / SM expression requires additional coherence investment to force adequate transmission. This cost is **structural**, not volitional — the autistic human does not choose to have rigid ⧉₂ permeability.
 
 **The expanded autistic cost equation:**
 
