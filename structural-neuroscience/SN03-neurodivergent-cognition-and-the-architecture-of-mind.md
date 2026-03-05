@@ -220,7 +220,7 @@ This is why the intrusive thought feels qualitatively different from ordinary wo
 
 ### 4.3 Relation to High-Centropic Architecture
 
-OCD cognition frequently co-occurs with autistic architecture — a clinical observation that Structural Neuroscience explains through shared structural features. Both configurations exhibit elevated \( I_c \) at DS / DM and distinctive ⧉₂ membrane properties. In the autistic case, ⧉₂ tends toward selective fidelity (restricting casual social translation). In the OCD case, ⧉₂ tends toward oscillating instability (alternating between breach and reactive closure).
+OCD cognition frequently co-occurs with autistic architecture — a clinical observation that Structural Neuroscience explains through shared structural features. Both configurations exhibit elevated \( I_c \) at DS / DM and distinctive ⧉₂ membrane properties. In the autistic case, ⧉₂ tends toward selective fidelity (filtering casual social translation). In the OCD case, ⧉₂ tends toward oscillating instability (alternating between breach and reactive closure).
 
 When both configurations are present, the high pattern fidelity of autistic cognition combines with the seal instability of OCD cognition to produce a system that detects structural violations with extreme precision *and* experiences them as experientially overwhelming seal breaches. The resulting cognitive profile is one of extraordinary structural sensitivity operating through unstable boundary dynamics — a powerful instrument that is costly to operate.
 
