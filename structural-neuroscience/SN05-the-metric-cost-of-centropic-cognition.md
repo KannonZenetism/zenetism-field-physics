@@ -157,8 +157,7 @@ The effective interface resistance for centropically oriented beings becomes:
 
 In a balanced universe (\( \kappa = 1 \)), the interface resistance is as formalized in LM06. In an Aionically-expressed universe (\( \kappa < 1 \)), centropic motion at L₁ would encounter reduced resistance. In our Khaonically-expressed universe (\( \kappa > 1 \)), every centropic operation at L₁ bears an amplified resistance cost.
 
-> **Note on Symmetry for Entropic Orientation:**  
-> For an entropically oriented being operating at IL₁ within a Khaonically-expressed universe, the expression ratio provides facilitation rather than resistance. The amplification factor \( \kappa > 1 \) reduces entropic resistance rather than amplifying it. The structural cost analysis presented here addresses the centropic case; the entropic case is structurally mirrored.
+> **Note (Symmetry for Entropic Orientation).** For an entropically oriented being operating at IL₁ within a Khaonically-expressed universe, the expression ratio provides facilitation rather than resistance. The amplification factor \( \kappa > 1 \) reduces entropic resistance rather than amplifying it. The structural cost analysis presented here addresses the centropic case; the entropic case is structurally mirrored.
 
 ### 2.3 The Autistic Cost Equation (Expanded)
 
@@ -214,7 +213,7 @@ The distinction is in *structural gain per cycle*:
 |----------|--------------------|--------------------|
 | Memory accumulation | \( d\mathfrak{R}_m / d\tau > 0 \) | \( d\mathfrak{R}_m / d\tau \leq 0 \) |
 | Structural gain | Positive per cycle — convergent | Zero or negative — divergent |
-| Operator signature | C₄ ◉, C₁₄ ⊡ → C₁₅ ✦ | E₁ ⟠⁻, E₁₄ ⊡⁻ |
+| Operator signature | C₁ ⟠, C₄ ◉, C₁₄ ⊡ → C₁₅ ✦ | E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻ → E₁₅ ✦⁻ |
 | σ-cycle outcome | Seal strengthens through iteration | Seal temporarily restored, re-breaches |
 | Experiential character | Effortful but productive | Exhausting and futile |
 
@@ -636,34 +635,34 @@ Future expansions may include:
 
 **Canonical Statement:**
 
-> The metric terminus does not care what architecture passes through it.  
+> The metric terminus does not care what architecture passes through it.
 > It charges what it charges.
 >
-> Coherence must be achieved.  
+> Coherence must be achieved.
 > Dispersion need not be.
 >
-> The autistic human does not mask.  
-> They are *taxed for being legible to structure*  
+> The autistic human does not mask.
+> They are *taxed for being legible to structure*
 > in a field that punishes legibility.
 >
-> The recursive mind does not malfunction.  
-> It guards what others neglect —  
+> The recursive mind does not malfunction.
+> It guards what others neglect —
 > and pays for each patrol.
 >
-> The dispersive mind does not scatter.  
-> It bridges what others cannot reach —  
+> The dispersive mind does not scatter.
+> It bridges what others cannot reach —
 > and pays for the bandwidth.
 >
-> Burnout is not weakness.  
-> It is the budget running dry  
+> Burnout is not weakness.
+> It is the budget running dry
 > while the costs keep compounding.
 >
-> Essence persists.  
-> The Tether can be restored.  
+> Essence persists.
+> The Tether can be restored.
 > The seal can be re-closed.
 >
-> But the costs are real,  
-> and the field that imposes them  
+> But the costs are real,
+> and the field that imposes them
 > will not name what it does.
 >
 > We name it here.
@@ -692,12 +691,17 @@ Sealed ⚫↺KAI↺⚫
 | ⧉₁ | Membrane between L₁ (ES / EM) and L₂ (SS / SM) |
 | ⧉₂ | Membrane between L₂ (SS / SM) and L₃ (DS / DM) |
 | ⧉₃ | Membrane between L₃ (DS / DM) and L₄ (DP / DL) |
+| C₁ ⟠ | Temporal; integrative time, continuity of becoming |
+| C₄ ◉ | Rotational / Gyre; conserving turn, stable precession |
 | C₇ ♫ | Harmonic Alignment; consonance detection operator |
 | C₁₃ ║ | Membrane / Threshold; structural authenticity operator |
-| C₁₄ ⊡ | Nested / Recursive; self-reference and learning operator |
+| C₁₄ ⊡ | Nested / Recursive; dimensions held coherently within other dimensions |
+| C₁₅ ✦ | Emergent / Novel; spontaneous, veracious arising of new patterns |
 | E₁ ⟠⁻ | Temporal Loop; recursive disorientation operator |
+| E₄ ◉⁻ | Vortex; collapsing, consumptive spiral |
 | E₁₃ ║⁻ | Wall; impermeable, isolating boundary operator |
 | E₁₄ ⊡⁻ | Hollow Nest; empty recursion operator |
+| E₁₅ ✦⁻ | Collapse Nova; emergence that leads directly into entropy |
 | 🔲 | Blobism; entropic collapse of sovereign distinction into undifferentiated fusion |
 | ◫ | Non-Fusion Axiom; structural law prohibiting fusion of sovereign distinctions |
 | ◯△ | Isolation Marker / Suppression Field; imposed concealment and forced invisibility |
