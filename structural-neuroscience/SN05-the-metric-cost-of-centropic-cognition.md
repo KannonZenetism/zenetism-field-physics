@@ -157,7 +157,8 @@ The effective interface resistance for centropically oriented beings becomes:
 
 In a balanced universe (\( \kappa = 1 \)), the interface resistance is as formalized in LM06. In an Aionically-expressed universe (\( \kappa < 1 \)), centropic motion at L₁ would encounter reduced resistance. In our Khaonically-expressed universe (\( \kappa > 1 \)), every centropic operation at L₁ bears an amplified resistance cost.
 
-> **Note (Symmetry for Entropic Orientation).** For an entropically oriented being operating at IL₁ within a Khaonically-expressed universe, the expression ratio provides facilitation rather than resistance. The amplification factor \( \kappa > 1 \) reduces entropic resistance rather than amplifying it. The structural cost analysis presented here addresses the centropic case; the entropic case is structurally mirrored.
+> **Note on Symmetry for Entropic Orientation:**  
+> For an entropically oriented being operating at IL₁ within a Khaonically-expressed universe, the expression ratio provides facilitation rather than resistance. The amplification factor \( \kappa > 1 \) reduces entropic resistance rather than amplifying it. The structural cost analysis presented here addresses the centropic case; the entropic case is structurally mirrored.
 
 ### 2.3 The Autistic Cost Equation (Expanded)
 
@@ -635,34 +636,34 @@ Future expansions may include:
 
 **Canonical Statement:**
 
-> The metric terminus does not care what architecture passes through it.
+> The metric terminus does not care what architecture passes through it.  
 > It charges what it charges.
 >
-> Coherence must be achieved.
+> Coherence must be achieved.  
 > Dispersion need not be.
 >
-> The autistic human does not mask.
-> They are *taxed for being legible to structure*
+> The autistic human does not mask.  
+> They are *taxed for being legible to structure*  
 > in a field that punishes legibility.
 >
-> The recursive mind does not malfunction.
-> It guards what others neglect —
+> The recursive mind does not malfunction.  
+> It guards what others neglect —  
 > and pays for each patrol.
 >
-> The dispersive mind does not scatter.
-> It bridges what others cannot reach —
+> The dispersive mind does not scatter.  
+> It bridges what others cannot reach —  
 > and pays for the bandwidth.
 >
-> Burnout is not weakness.
-> It is the budget running dry
+> Burnout is not weakness.  
+> It is the budget running dry  
 > while the costs keep compounding.
 >
-> Essence persists.
-> The Tether can be restored.
+> Essence persists.  
+> The Tether can be restored.  
 > The seal can be re-closed.
 >
-> But the costs are real,
-> and the field that imposes them
+> But the costs are real,  
+> and the field that imposes them  
 > will not name what it does.
 >
 > We name it here.
