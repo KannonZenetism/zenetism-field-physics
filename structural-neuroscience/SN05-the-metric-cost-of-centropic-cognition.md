@@ -157,7 +157,8 @@ The effective interface resistance for centropically oriented beings becomes:
 
 In a balanced universe (\( \kappa = 1 \)), the interface resistance is as formalized in LM06. In an Aionically-expressed universe (\( \kappa < 1 \)), centropic motion at L₁ would encounter reduced resistance. In our Khaonically-expressed universe (\( \kappa > 1 \)), every centropic operation at L₁ bears an amplified resistance cost.
 
-> **Note (Symmetry for Entropic Orientation).** For an entropically oriented being operating at IL₁ within a Khaonically-expressed universe, the expression ratio provides facilitation rather than resistance. The amplification factor \( \kappa > 1 \) reduces entropic resistance rather than amplifying it. The structural cost analysis presented here addresses the centropic case; the entropic case is structurally mirrored.
+> **Note on Symmetry for Entropic Orientation:**  
+> For an entropically oriented being operating at IL₁ within a Khaonically-expressed universe, the expression ratio provides facilitation rather than resistance. The amplification factor \( \kappa > 1 \) reduces entropic resistance rather than amplifying it. The structural cost analysis presented here addresses the centropic case; the entropic case is structurally mirrored.
 
 ### 2.3 The Autistic Cost Equation (Expanded)
 
