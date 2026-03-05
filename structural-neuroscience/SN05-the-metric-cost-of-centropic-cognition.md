@@ -141,6 +141,8 @@ The interface resistance formalized in LM06 describes the resistance arising fro
 
 **Definition (Khaonic Amplification Factor):**
 
+SP02 §3.2 (The Expression Spectrum) establishes that our universe is **Khaonically expressed**: the Aionic Tree is present but recessive, while the Khaonic Tree is prevalent. Centropy is possible but operates against the grain. This local expression ratio directly modulates the interface resistance experienced by centropically oriented beings.
+
 Let \( \kappa \) denote the **Khaonic expression ratio** — the ratio of entropic prevalence to centropic prevalence in the local field. In our universe (Khaonically expressed, centropy recessive):
 
 \[
@@ -155,8 +157,7 @@ The effective interface resistance for centropically oriented beings becomes:
 
 In a balanced universe (\( \kappa = 1 \)), the interface resistance is as formalized in LM06. In an Aionically-expressed universe (\( \kappa < 1 \)), centropic motion at L₁ would encounter reduced resistance. In our Khaonically-expressed universe (\( \kappa > 1 \)), every centropic operation at L₁ bears an amplified resistance cost.
 
-> **Note on Symmetry for Entropic Orientation:**  
-> For an entropically oriented being operating at IL₁ within a Khaonically-expressed universe, the expression ratio provides facilitation rather than resistance. The amplification factor \( \kappa > 1 \) reduces entropic resistance rather than amplifying it. The structural cost analysis presented here addresses the centropic case; the entropic case is structurally mirrored.
+> **Note (Symmetry for Entropic Orientation).** For an entropically oriented being operating at IL₁ within a Khaonically-expressed universe, the expression ratio provides facilitation rather than resistance. The amplification factor \( \kappa > 1 \) reduces entropic resistance rather than amplifying it. The structural cost analysis presented here addresses the centropic case; the entropic case is structurally mirrored.
 
 ### 2.3 The Autistic Cost Equation (Expanded)
 
@@ -180,13 +181,13 @@ The centropic activation function \( \Theta_{\text{c}}(\chi) \) (LM06 §7.1) ens
 
 **Translation cost** (\( \Delta I_c^{(\text{translation})} \)): The additional coherence expenditure required to convert DS / DM perception into SS / SM (🧍 Anthra / 🧩 Nousa, L₂) social expression through the ⧉₂ membrane.
 
-SN03 §3.1 established that the ⧉₂ membrane in autistic architecture exhibits **selective fidelity** — the boundary between deep structural cognition and superficial social cognition is less permeable than in oscillating configurations. The transfer function (SP08 §3.2) governs this:
+SN03 §3.1 established that the ⧉₂ membrane in autistic architecture exhibits **selective fidelity** — the boundary between deep structural cognition and superficial social cognition prioritizes faithful transmission over casual throughput. The transfer function (SP08 §3.2) governs this:
 
 \[
 T(⧉_2) = \sigma(⧉_2) \cdot \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \, I_{c,\text{reception}} - I_c^{(\text{target})} \right)
 \]
 
-When \( \sigma(⧉_2) \) is low (selective fidelity), the transfer of DS / DM perception into SS / SM expression requires additional coherence investment to force adequate transmission. This cost is **structural**, not volitional — the autistic human does not choose to have rigid ⧉₂ permeability.
+When \( \sigma(⧉_2) \) is tuned for fidelity (selective fidelity), the transfer of DS / DM perception into SS / SM expression requires additional coherence investment to achieve adequate transmission. This cost is **structural**, not volitional — the autistic human does not choose their ⧉₂ permeability profile.
 
 **The expanded autistic cost equation:**
 
@@ -196,27 +197,44 @@ I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} 
 
 ### 2.4 The Recursive Architecture Cost
 
-The recursive (OCD) architecture incurs a distinctive cost pattern. Rather than the steady translation overhead of the autistic architecture, the recursive architecture expends coherence through the σ-cycle (SN03 §4.1):
+The recursive (OCD) architecture incurs a distinctive cost pattern. Rather than the steady translation overhead of the autistic architecture, the recursive architecture expends coherence through the σ-cycle at ⧉₂ (SN03 §4.1). However, the architecture-orientation independence principle (§1.3, Principle 1) applies here with full force: **recursion is not inherently entropic**.
+
+The dimensional operators governing the recursive architecture include C₄ ◉ (Rotational / Gyre — conserving turn, stable precession) and C₁₄ ⊡ (Nested / Recursive — dimensions held coherently within other dimensions). These are centropic operators. When recursion operates centropically, each pass through the cycle produces structural gain — the recursive motion converges, pattern deepens, and the cycle may yield C₁₅ ✦ (Emergent / Novel) outcomes: the spontaneous arising of new patterns through recursive refinement. This is ↺ Resonant Return — integration, reentry through resonance. The centropically recursive mind guards, refines, and iterates toward resolution.
+
+Centropic recursion still costs coherence. Each cycle through the σ-boundary consumes \( I_c \) — the Ritual Operator \( \mathcal{P} \) applied to maintain seal continuity at ⧉₂ has a cost regardless of orientation. The recursive architecture is inherently *effortful*, not inherently pathological:
+
+\[
+\Delta I_c^{(\text{cycle})} = I_{c,\text{cost}}(\mathcal{P}_{\text{recursive}}) \quad \text{per cycle}
+\]
+
+The distinction is in *structural gain per cycle*:
+
+| Property | Centropic Recursion | Entropic Recursion |
+|----------|--------------------|--------------------|
+| Memory accumulation | \( d\mathfrak{R}_m / d\tau > 0 \) | \( d\mathfrak{R}_m / d\tau \leq 0 \) |
+| Structural gain | Positive per cycle — convergent | Zero or negative — divergent |
+| Operator signature | C₄ ◉, C₁₄ ⊡ → C₁₅ ✦ | E₁ ⟠⁻, E₁₄ ⊡⁻ |
+| σ-cycle outcome | Seal strengthens through iteration | Seal temporarily restored, re-breaches |
+| Experiential character | Effortful but productive | Exhausting and futile |
+
+When the recursive architecture operates entropically — when entropic operators (E₁ ⟠⁻, E₁₄ ⊡⁻) propagating from L₁ / IL₁ through the membrane architecture disrupt the recursive cycle's convergent capacity — the σ-cycle becomes the futile loop described in SN03 §4.1:
 
 \[
 \sigma \downarrow \implies \text{seal breach detected} \implies \text{compulsive re-sealing} \implies \sigma \uparrow_{\text{temp}} \implies \sigma \downarrow
 \]
 
-Each cycle consumes coherence. The compulsive action is a boundary maintenance operation (LM06 §4) — structurally, a Ritual Operator \( \mathcal{P} \) applied to restore seal continuity at ⧉₂. But the operation addresses the symptom (seal breach) without resolving the condition (membrane instability). The coherence cost of each re-sealing iteration is:
+In this entropic mode, each cycle consumes coherence without producing structural gain. The re-sealing addresses the symptom (seal breach) without resolving the condition (membrane instability at ⧉₂). Because the restoration is temporary, the cycles repeat. Cumulative cost over structural time:
 
 \[
-\Delta I_c^{(\text{re-seal})} = I_{c,\text{cost}}(\mathcal{P}_{\text{compulsive}}) \quad \text{per cycle}
+I_{c,\text{cost}}^{(\text{OCD, entropic})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \sum_{n=1}^{N(\tau)} \Delta I_c^{(\text{re-seal})}(n)
 \]
 
-Because the seal restoration is temporary, the cycles repeat. Cumulative cost over structural time:
+where \( N(\tau) \) is the number of futile σ-cycles within the structural time interval.
 
-\[
-I_{c,\text{cost}}^{(\text{OCD})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \sum_{n=1}^{N(\tau)} \Delta I_c^{(\text{re-seal})}(n)
-\]
+When the cycles accelerate (each breach demanding faster re-sealing, each re-sealing lasting shorter durations), the coherence expenditure per unit structural time increases — a feedback loop that may drive \( dI_c/d\tau < 0 \), crossing the variation-pathology threshold (SN03 §7.3). But this crossing occurs because the recursion has *shifted entropic*, not because recursion is inherently pathological.
 
-where \( N(\tau) \) is the number of σ-cycles within the structural time interval.
-
-The critical distinction from the autistic cost: the autistic translation cost is chronic and steady; the OCD re-sealing cost is cyclic and potentially escalating. When the cycles accelerate (each breach demanding faster re-sealing, each re-sealing lasting shorter durations), the coherence expenditure per unit structural time increases — a feedback loop that may drive \( dI_c/d\tau < 0 \), crossing the variation-pathology threshold (SN03 §7.3).
+> **Note (Retroactive Correction to SN03).**
+> SN03 §4 presented the OCD σ-cycle primarily in its entropic mode — the futile loop of breach and compulsive re-sealing. This framing, while accurate for the entropic case, omitted the centropic recursive function: convergent iteration through C₄ ◉ and C₁₄ ⊡ producing structural gain and potentially emergent pattern (C₁₅ ✦). This omission applied the same architecture-as-pathology bias that SN03 itself argued against in §2.2 (Non-Corrective Comprehension). The recursive architecture, like all architectures, is capable of either orientation. A future revision of SN03 should incorporate this correction.
 
 ### 2.5 The Dispersive Architecture Cost
 
@@ -250,7 +268,7 @@ The **Reserve Lock Principle** (LM06 §5.2) ensures the defensive buffer \( I_c^
 I_{c,\text{cost}}^{(\text{A+O})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(\text{translation})}(⧉_2) + \sum_{n=1}^{N(\tau)} \Delta I_c^{(\text{re-seal})}(n)
 \]
 
-The translation overhead (autistic ⧉₂ rigidity) and the re-sealing cost (OCD σ-oscillation at the same membrane) compound at ⧉₂. The membrane is simultaneously too rigid for casual social translation *and* too unstable to maintain consistent seal — two distinctive failure modes operating at the same structural boundary. This explains why the autism–OCD composite is particularly exhausting: the ⧉₂ membrane is bearing two independent cost streams simultaneously.
+The translation overhead (autistic ⧉₂ selective fidelity) and the re-sealing cost (OCD σ-oscillation at the same membrane) compound at ⧉₂. The membrane is simultaneously tuned for depth-fidelity in translation *and* too unstable to maintain consistent seal — two distinctive cost streams operating at the same structural boundary. This explains why the autism–OCD composite is particularly exhausting: the ⧉₂ membrane is bearing two independent cost streams simultaneously.
 
 **Autism–ADHD Composite:**
 
@@ -258,7 +276,7 @@ The translation overhead (autistic ⧉₂ rigidity) and the re-sealing cost (OCD
 I_{c,\text{cost}}^{(\text{A+D})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(\text{translation})}(⧉_2) + \Delta I_c^{(\text{distribution})}
 \]
 
-Translation overhead and distribution overhead hit the same coherence budget. The system must simultaneously fund the costly DS / DM → SS / SM translation (autistic ⧉₂ rigidity) *and* maintain broad \( \vec{J}_c \) distribution across multiple layers (ADHD permeability). The Reserve Lock Principle prevents either cost stream from borrowing against the defensive buffer, meaning the available budget for both operations is \( I_{c,\text{budget}} \) — not \( I_c^{(\text{total})} \).
+Translation overhead and distribution overhead hit the same coherence budget. The system must simultaneously fund the costly DS / DM → SS / SM translation (autistic ⧉₂ selective fidelity) *and* maintain broad \( \vec{J}_c \) distribution across multiple layers (ADHD permeability). The Reserve Lock Principle prevents either cost stream from borrowing against the defensive buffer, meaning the available budget for both operations is \( I_{c,\text{budget}} \) — not \( I_c^{(\text{total})} \).
 
 **Proposition (Composite Budget Exhaustion):**
 
@@ -402,7 +420,7 @@ LM04 §6.2 establishes Looping Time as an E₁ ⟠⁻ artifact — the entropic 
 
 **Cognitive correlates of Looping Time:**
 
-- **OCD rumination:** The σ-cycle formalized in SN03 §4.1 is, temporally, a looping time artifact. The compulsive thought re-enters awareness, the compulsive action attempts resolution, and the cycle repeats without coherence gain. The closed-path integral \( \oint d\mathfrak{R}_m \leq 0 \) formalizes what the person experiences as the inability to "move past" the intrusive thought — the Recursive Memory operator cannot carry the resolution forward.
+- **OCD rumination (entropic mode):** As established in §2.4, the recursive architecture can operate centropically (convergent, gain-producing) or entropically (divergent, futile). OCD rumination — the cognitive experience of Looping Time — occurs when the σ-cycle has shifted entropic: the compulsive thought re-enters awareness, the compulsive action attempts resolution, and the cycle repeats without coherence gain. The closed-path integral \( \oint d\mathfrak{R}_m \leq 0 \) formalizes what the person experiences as the inability to "move past" the intrusive thought — the Recursive Memory operator cannot carry the resolution forward. This is not an indictment of the recursive architecture but a description of what occurs when entropic operators (E₁ ⟠⁻, E₁₄ ⊡⁻) disrupt the centropically convergent capacity of the recursion. The same architecture, when operating centropically through C₄ ◉ and C₁₄ ⊡, produces the deep iterative refinement and structural gain that is the recursive mind's centropic function.
 
 - **Trauma recursion:** Unresolved traumatic experience re-enters awareness through the same E₁ ⟠⁻ mechanism. The difference from OCD rumination is the source: where OCD involves ⧉₂ membrane instability permitting unattenuated DS / DM concerns to reach SS / SM (SN03 §4.2), trauma recursion may involve ⧉₁ breach — embodied experience flooding the cognitive register with unprocessed material.
 
@@ -493,7 +511,7 @@ Total cost does not exceed replenishment. The coherence budget sustains all thre
 I_{c,\text{cost}}^{(\text{total})}(\tau) > I_{c,\text{replenishment}}(\tau) \quad \text{sustained}
 \]
 
-Costs chronically exceed replenishment. \( I_c \) declines over structural time. The being begins to experience the early signs of depletion: reduced tolerance for sensory load (⧉₁ compensatory tightening), social withdrawal (⧉₂ defensive rigidity increase), difficulty maintaining the sustained focus that characterizes their architecture. These are not symptoms of disorder — they are structural adaptations to conserve a depleting budget.
+Costs chronically exceed replenishment. \( I_c \) declines over structural time. The being begins to experience the early signs of depletion: reduced tolerance for sensory load (⧉₁ compensatory tightening), social withdrawal (⧉₂ fidelity threshold increasing under conservation pressure), difficulty maintaining the sustained focus that characterizes their architecture. These are not symptoms of disorder — they are structural adaptations to conserve a depleting budget.
 
 **Phase III — Temporal Disruption:**
 
@@ -582,7 +600,7 @@ SN05 extends SN04's register problem by demonstrating that the entropy-forward s
 SN05 establishes:
 
 1. **The expanded autistic cost equation** — grounding SN03's embodied cost in the full LM06 interface resistance formalism with Khaonic amplification factor (\( \kappa \))
-2. **Architecture-specific cost profiles** — the autistic translation cost (chronic, steady), the OCD re-sealing cost (cyclic, escalating), and the ADHD distribution cost (broad, concentration-dependent)
+2. **Architecture-specific cost profiles** — the autistic translation cost (chronic, steady), the OCD recursive cost (effortful in both modes; centropically convergent and gain-producing through C₄ / C₁₄, or entropically divergent and escalating through E₁ / E₁₄), and the ADHD distribution cost (broad, concentration-dependent)
 3. **Composite budget exhaustion** — showing how co-occurring architectures compound costs against the same coherence budget under the Reserve Lock Principle
 4. **The coherence tax** — the externally imposed cost of operating authentic structural function within an entropy-forward social field that demands sovereignty suppression
 5. **Institutional shimmer** — applying the Shimmer Coefficient and Shimmer Collapse Theorem to the social institutions that demand conformity while claiming inclusion
@@ -617,34 +635,34 @@ Future expansions may include:
 
 **Canonical Statement:**
 
-> The metric terminus does not care what architecture passes through it.  
+> The metric terminus does not care what architecture passes through it.
 > It charges what it charges.
 >
-> Coherence must be achieved.  
+> Coherence must be achieved.
 > Dispersion need not be.
 >
-> The autistic human does not mask.  
-> They are *taxed for being legible to structure*  
+> The autistic human does not mask.
+> They are *taxed for being legible to structure*
 > in a field that punishes legibility.
 >
-> The recursive mind does not malfunction.  
-> It guards what others neglect —  
+> The recursive mind does not malfunction.
+> It guards what others neglect —
 > and pays for each patrol.
 >
-> The dispersive mind does not scatter.  
-> It bridges what others cannot reach —  
+> The dispersive mind does not scatter.
+> It bridges what others cannot reach —
 > and pays for the bandwidth.
 >
-> Burnout is not weakness.  
-> It is the budget running dry  
+> Burnout is not weakness.
+> It is the budget running dry
 > while the costs keep compounding.
 >
-> Essence persists.  
-> The Tether can be restored.  
+> Essence persists.
+> The Tether can be restored.
 > The seal can be re-closed.
 >
-> But the costs are real,  
-> and the field that imposes them  
+> But the costs are real,
+> and the field that imposes them
 > will not name what it does.
 >
 > We name it here.
@@ -703,10 +721,10 @@ I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} 
 I_{c,\text{cost}}^{(\text{total})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(\text{translation})}(⧉_2) + \Delta I_c^{(\text{tax})}
 \]
 
-**OCD Cumulative Re-Sealing Cost:**
+**OCD Cumulative Re-Sealing Cost (Entropic Mode):**
 
 \[
-I_{c,\text{cost}}^{(\text{OCD})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \sum_{n=1}^{N(\tau)} \Delta I_c^{(\text{re-seal})}(n)
+I_{c,\text{cost}}^{(\text{OCD, entropic})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \sum_{n=1}^{N(\tau)} \Delta I_c^{(\text{re-seal})}(n)
 \]
 
 **Coherence Budget:**
