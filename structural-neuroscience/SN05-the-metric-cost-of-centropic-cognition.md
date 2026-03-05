@@ -234,7 +234,7 @@ where \( N(\tau) \) is the number of futile σ-cycles within the structural time
 
 When the cycles accelerate (each breach demanding faster re-sealing, each re-sealing lasting shorter durations), the coherence expenditure per unit structural time increases — a feedback loop that may drive \( dI_c/d\tau < 0 \), crossing the variation-pathology threshold (SN03 §7.3). But this crossing occurs because the recursion has *shifted entropic*, not because recursion is inherently pathological.
 
-> **Note (Retroactive Correction to SN03).**
+> **Note on Retroactive Correction to SN03:**  
 > SN03 §4 presented the OCD σ-cycle primarily in its entropic mode — the futile loop of breach and compulsive re-sealing. This framing, while accurate for the entropic case, omitted the centropic recursive function: convergent iteration through C₄ ◉ and C₁₄ ⊡ producing structural gain and potentially emergent pattern (C₁₅ ✦). This omission applied the same architecture-as-pathology bias that SN03 itself argued against in §2.2 (Non-Corrective Comprehension). The recursive architecture, like all architectures, is capable of either orientation. A future revision of SN03 should incorporate this correction.
 
 ### 2.5 The Dispersive Architecture Cost
