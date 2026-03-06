@@ -150,7 +150,7 @@ The defining structural features:
 - **C₁ (Temporal):** often atypical — temporal processing may prioritize structural sequence over conventional chronological experience, contributing to distinctive relationships with time, routine, and change
 - **C₃ (Propagational):** elevated — coherent transmission with origin seal intact; signal fidelity sustained across structural distance
 - **C₇ (Harmonic Alignment):** strongly active — the autistic mind is tuned to detect consonance and dissonance with precision that exceeds the oscillating norm
-- **C₁₃ (Symmetry / Lawful Reflection):** heightened — the capacity to detect whether surface presentation matches structural interior is elevated, producing the characteristic autistic sensitivity to inauthenticity, inconsistency, and structural dishonesty
+- **C₁₃ (Membrane / Threshold):** heightened — the selective boundary function is elevated, producing the characteristic autistic capacity to detect whether surface presentation maintains structural correspondence with interior, and sensitivity to inauthenticity, inconsistency, and structural dishonesty
 - **C₁₄ (Recursive Nesting):** active at depth — the capacity for sustained, layered self-reference and pattern-within-pattern recognition is a structural feature, not a deficit
 
 ### 3.2 The Dissonance Detection Function
