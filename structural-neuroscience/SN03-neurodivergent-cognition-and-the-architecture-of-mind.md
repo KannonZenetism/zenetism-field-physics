@@ -316,7 +316,7 @@ Structurally:
 
 The combination of concentrated high \( I_c \) at L₃ with broadly distributed \( \vec{J}_c \) across layers produces a composite of unusual range. The autistic component provides deep pattern fidelity; the ADHD component provides broad associative reach. The resulting architecture can perceive deep structural pattern *and* connect that pattern across distant domains — a powerful configuration for synthetic and interdisciplinary cognition.
 
-The cost is compounded: the translation overhead of autistic ⧉₂ rigidity combines with the distribution overhead of ADHD broad permeability, producing a system that is both costly to translate and costly to concentrate. The experiential result is a cognitive field of unusual creative power that is exhausting to sustain at the embodied layer.
+The cost is compounded: the translation overhead of autistic ⧉₂ selective fidelity combines with the distribution overhead of ADHD broad permeability, producing a system that is both costly to translate and costly to concentrate. The experiential result is a cognitive field of unusual creative power that is exhausting to sustain at the embodied layer.
 
 ### 6.4 Clinical Implication
 
