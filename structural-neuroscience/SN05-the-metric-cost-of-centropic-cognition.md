@@ -126,7 +126,7 @@ The Interface Localization Theorem (LM06 §6.2) establishes that interface resis
 \mathcal{R}_{\text{interface}}(L_1) > 0
 \]
 
-At L₅ through L₂, the centropic and entropic arcs are architecturally distinct — no shared domain of expression exists. At L₁ / IL₁, centropic and entropic embodiment are co-present within the same corporeal substrate. The co-presence of entropic expression creates a resistance term for any centropic operation that navigates the shared field.
+At L₅ through L₂ / IL₅ through IL₂, the centropic and entropic arcs are architecturally distinct — no shared domain of expression exists. At L₁ / IL₁, centropic and entropic embodiment are co-present within the same corporeal substrate. The co-presence of entropic expression creates a resistance term for any centropic operation that navigates the shared field.
 
 LM06 §6.3 formalizes the asymmetric nature of this resistance:
 
