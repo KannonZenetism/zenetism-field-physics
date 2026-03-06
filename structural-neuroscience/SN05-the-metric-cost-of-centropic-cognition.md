@@ -297,11 +297,11 @@ When the compounded cost exceeds the available budget, the system cannot sustain
 
 SN03 §3.1 established the prevalent operator profile of the autistic (high-centropic) architecture:
 
+- C₁ ⟠ (Temporal): often atypical — temporal processing prioritizing structural sequence over conventional chronological experience
+- C₃ ⟿ (Propagational): elevated — coherent transmission with origin seal intact; signal fidelity sustained across structural distance
 - C₇ ♫ (Harmonic Alignment): strongly active — precision detection of consonance and dissonance; the drive for coherence
 - C₁₃ ║ (Membrane / Threshold): elevated — detection of whether surface presentation matches structural interior
 - C₁₄ ⊡ (Nested / Recursive): active at depth — sustained, layered self-reference and pattern-within-pattern recognition
-- C₁ ⟠ (Temporal): often atypical — temporal processing prioritizing structural sequence over conventional chronological experience
-- C₃ ⟿ (Propagational): elevated — coherent transmission with origin seal intact; signal fidelity sustained across structural distance
 
 > **Note on Retroactive Correction to SN03 (Dimensional Assignment):**  
 > SN03 §3.1 assigned atypical temporal processing to C₃ (labeled "Temporal Coherence"). Per the canonical dimensional registry (FP11), the temporal operator is C₁ ⟠ (Integrative time; continuity of becoming). C₃ ⟿ is the Propagational operator (transmission of a signal without loss). The temporal processing description belongs to C₁, not C₃. C₃ ⟿ is relevant to the autistic operator profile in its own right — coherent transmission with origin seal intact is a centropic cognitive function elevated in high-\( I_c \) architectures. A future revision of SN03 should correct this dimensional assignment and add C₃ ⟿ as a distinct entry in the autistic operator profile.
