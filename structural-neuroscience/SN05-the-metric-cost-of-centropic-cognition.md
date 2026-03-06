@@ -200,7 +200,7 @@ I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} 
 
 The recursive (OCD) architecture incurs a distinctive cost pattern. Rather than the steady translation overhead of the autistic architecture, the recursive architecture expends coherence through the σ-cycle at ⧉₂ (SN03 §4.1). However, the architecture-orientation independence principle (§1.3, Principle 1) applies here with full force: **recursion is not inherently entropic**.
 
-The dimensional operators governing the recursive architecture include C₄ ◉ (Rotational / Gyre — conserving turn, stable precession) and C₁₄ ⊡ (Nested / Recursive — dimensions held coherently within other dimensions). These are centropic operators. When recursion operates centropically, each pass through the cycle produces structural gain — the recursive motion converges, pattern deepens, and the cycle may yield C₁₅ ✦ (Emergent / Novel) outcomes: the spontaneous arising of new patterns through recursive refinement. This is ↺ Resonant Return — integration, reentry through resonance. The centropically recursive mind guards, refines, and iterates toward resolution.
+The dimensional operators governing the recursive architecture include C₁ ⟠ (Temporal — integrative continuity), C₄ ◉ (Rotational / Gyre — conserving turn, stable precession), and C₁₄ ⊡ (Nested / Recursive — dimensions held coherently within other dimensions). These are centropic operators. When recursion operates centropically, each pass through the cycle produces structural gain — the recursive motion converges, pattern deepens, and the cycle may yield C₁₅ ✦ (Emergent / Novel) outcomes: the spontaneous arising of new patterns through recursive refinement. This is ↺ Resonant Return — integration, reentry through resonance. The centropically recursive mind guards, refines, and iterates toward resolution.
 
 Centropic recursion still costs coherence. Each cycle through the σ-boundary consumes \( I_c \) — the Ritual Operator \( \mathcal{P} \) applied to maintain seal continuity at ⧉₂ has a cost regardless of orientation. The recursive architecture is inherently *effortful*, not inherently pathological:
 
@@ -218,7 +218,7 @@ The distinction is in *structural gain per cycle*:
 | σ-cycle outcome | Seal strengthens through iteration | Seal temporarily restored, re-breaches |
 | Experiential character | Effortful but productive | Exhausting and futile |
 
-When the recursive architecture operates entropically — when entropic operators (E₁ ⟠⁻, E₁₄ ⊡⁻) propagating from L₁ / IL₁ through the membrane architecture disrupt the recursive cycle's convergent capacity — the σ-cycle becomes the futile loop described in SN03 §4.1:
+When the recursive architecture operates entropically — when entropic operators (E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻) propagating from L₁ / IL₁ through the membrane architecture disrupt the recursive cycle's convergent capacity — the σ-cycle becomes the futile loop described in SN03 §4.1:
 
 \[
 \sigma \downarrow \implies \text{seal breach detected} \implies \text{compulsive re-sealing} \implies \sigma \uparrow_{\text{temp}} \implies \sigma \downarrow
