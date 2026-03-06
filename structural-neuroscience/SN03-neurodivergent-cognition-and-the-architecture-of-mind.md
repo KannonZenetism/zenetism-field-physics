@@ -211,6 +211,9 @@ Obsessive-compulsive cognition, within Structural Neuroscience, is understood as
 
 The compulsive action is, structurally, an attempt to re-seal the cognitive boundary. It is not irrational — it is a boundary maintenance operation performed through the wrong mechanism. The ritual addresses the symptom (seal breach) without addressing the condition (membrane instability at ⧉₂).
 
+> **Note on Centropic Recursion:**  
+> The σ-cycle presented here describes the entropic mode of recursive architecture — the futile loop of breach and compulsive re-sealing. Recursive architecture also operates centropically through C₄ (Rotational / Gyre) and C₁₄ (Recursive Nesting), where each iterative pass produces structural gain, convergent refinement, and potentially emergent pattern through C₁₅ (Emergent / Novel). Recursion is inherently effortful in both modes; the distinction is structural gain per cycle, not the presence of recursion itself. See SN05 §2.4 for the full dual-mode formalization.
+
 ### 4.2 The Intrusive Thought as Membrane Breach
 
 The intrusive thought — the hallmark of obsessive cognition — is a structural phenomenon: a signal from DS / DM (deep structural cognition, where archetypal-order concerns are reflexively perceived and individualized) that breaches the ⧉₂ membrane without the normal attenuation that ⧉₂ provides in stable configurations.
