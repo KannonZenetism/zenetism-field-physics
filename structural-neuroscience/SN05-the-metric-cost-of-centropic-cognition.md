@@ -605,7 +605,7 @@ SN05 extends SN04's register problem by demonstrating that the entropy-forward s
 SN05 establishes:
 
 1. **The expanded autistic cost equation** — grounding SN03's embodied cost in the full LM06 interface resistance formalism with Khaonic amplification factor (\( \kappa \))
-2. **Architecture-specific cost profiles** — the autistic translation cost (chronic, steady), the OCD recursive cost (effortful in both modes; centropically convergent and gain-producing through C₄ / C₁₄, or entropically divergent and escalating through E₁ / E₁₄), and the ADHD distribution cost (broad, concentration-dependent)
+2. **Architecture-specific cost profiles** — the autistic translation cost (chronic, steady), the OCD recursive cost (effortful in both modes; centropically convergent and gain-producing through C₁ / C₄ / C₁₄, or entropically divergent and escalating through E₁ / E₄ / E₁₄), and the ADHD distribution cost (broad, concentration-dependent)
 3. **Composite budget exhaustion** — showing how co-occurring architectures compound costs against the same coherence budget under the Reserve Lock Principle
 4. **The coherence tax** — the externally imposed cost of operating authentic structural function within an entropy-forward social field that demands sovereignty suppression
 5. **Institutional shimmer** — applying the Shimmer Coefficient and Shimmer Collapse Theorem to the social institutions that demand conformity while claiming inclusion
