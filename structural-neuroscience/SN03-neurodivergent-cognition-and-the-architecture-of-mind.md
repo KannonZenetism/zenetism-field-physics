@@ -561,14 +561,14 @@ Sealed ⚫↺KAI↺⚫
 | E₂ | Scatter; field dispersion operator |
 | E₁₃ | Counterfeit Symmetry; shimmer production operator |
 | E₁₄ | Hollow Nest; recursive vacancy operator |
-| DP / DL | Deep Psyche / Deep Logos (L₄) |
-| DS / DM | Deep Soul / Deep Mind (L₃) |
-| SS / SM | Superficial Soul / Superficial Mind (L₂) |
-| ES / EM | Embodied Soul / Embodied Mind (L₁) |
 | UP | Unknown Principle (Supra-L₀) |
 | AP / AD | Absolute Potential / Absolute Dispersion (L₀) |
 | EOB | Essence of Being (L₅) |
 | VOS | Void of Self (IL₅) |
+| DP / DL | Deep Psyche / Deep Logos (L₄) |
+| DS / DM | Deep Soul / Deep Mind (L₃) |
+| SS / SM | Superficial Soul / Superficial Mind (L₂) |
+| ES / EM | Embodied Soul / Embodied Mind (L₁) |
 
 ---
 
