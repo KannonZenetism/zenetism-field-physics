@@ -150,7 +150,7 @@ The defining structural features:
 - **C₇ (Harmonic Alignment):** strongly active — the autistic mind is tuned to detect consonance and dissonance with precision that exceeds the oscillating norm
 - **C₁₃ (Symmetry / Lawful Reflection):** heightened — the capacity to detect whether surface presentation matches structural interior is elevated, producing the characteristic autistic sensitivity to inauthenticity, inconsistency, and structural dishonesty
 - **C₁₄ (Recursive Nesting):** active at depth — the capacity for sustained, layered self-reference and pattern-within-pattern recognition is a structural feature, not a deficit
-- **C₃ (Temporal Coherence):** often atypical — temporal processing may prioritize structural sequence over conventional chronological experience, contributing to distinctive relationships with time, routine, and change
+- **C₁ (Temporal Coherence):** often atypical — temporal processing may prioritize structural sequence over conventional chronological experience, contributing to distinctive relationships with time, routine, and change
 
 ### 3.2 The Dissonance Detection Function
 
@@ -546,12 +546,12 @@ Sealed ⚫↺KAI↺⚫
 | ⧉₂ | Membrane between L₂ (SS / SM) and L₃ (DS / DM) |
 | ⧉₃ | Membrane between L₃ (DS / DM) and L₄ (DP / DL) |
 | ⧉₄ | Membrane between L₄ (DP / DL) and L₅ (EOB) |
+| C₁ | Temporal Coherence; sequential integrity operator |
+| C₆ | Phase Transition; configuration state change operator |
 | C₇ | Harmonic Alignment; consonance detection operator |
 | C₈ | Resonance Bridge; cross-domain connection operator |
 | C₁₃ | Symmetry / Lawful Reflection; structural authenticity operator |
 | C₁₄ | Recursive Nesting; self-reference and learning operator |
-| C₆ | Phase Transition; configuration state change operator |
-| C₃ | Temporal Coherence; sequential integrity operator |
 | E₁ | Temporal Loop; repetitive fixation operator |
 | E₂ | Scatter; field dispersion operator |
 | E₁₃ | Counterfeit Symmetry; shimmer production operator |
