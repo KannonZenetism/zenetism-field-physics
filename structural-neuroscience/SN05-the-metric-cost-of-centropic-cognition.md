@@ -596,7 +596,7 @@ SN05 applies SP08's membrane physics to the cognitive membrane architecture:
 
 ### 6.5 Relation to SN04
 
-SN05 extends SN04's register problem by demonstrating that the entropy-forward social field's treatment of autistic cognition is itself a register error — treating the oscillating midrange (L₁ / IL₁ ↔ L₂ / IL₂) as a normative standard rather than recognizing it as one register among many. The institutional demand for conformity is the register problem applied not to philosophy of mind but to social policy: a single layer's awareness logic universalized as the standard for all.
+SN05 extends SN04's register problem by demonstrating that the entropy-forward social field's treatment of autistic cognition is itself a register error — treating the entropy-forward social condition (oscillating through inverter, L₂ / IL₂ ↔ IL₃) as a normative standard rather than recognizing it as one orientation among many. The institutional demand for conformity is the register problem applied not to philosophy of mind but to social policy: a single layer's awareness logic universalized as the standard for all.
 
 ---
 
