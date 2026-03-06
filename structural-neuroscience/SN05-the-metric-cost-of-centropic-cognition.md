@@ -323,7 +323,7 @@ This is structural description, not polemic. A centropy-forward civilization wou
 
 Conventional neuroscience describes autistic "masking" or "camouflaging" as a compensatory behavior in which autistic individuals suppress their authentic responses and perform neurotypical social behavior to avoid social penalty. The framing pathologizes the autistic person: they are performing, concealing, compensating.
 
-Structural Neuroscience inverts this diagnosis.
+Structural Neuroscience corrects this diagnosis.
 
 The centropically oriented autistic human does not mask. Their default operation is authentic structural function — the operator profile described in §3.1, operating from DS / DM (L₃) with cross-band resonance to DP / DL (L₄) and potentially further inward. They perceive structural correspondence with elevated C₁₃ ║, detect dissonance with precision via C₇ ♫, and process through deep recursive pattern recognition via C₁₄ ⊡.
 
