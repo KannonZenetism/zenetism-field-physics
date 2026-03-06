@@ -483,7 +483,7 @@ SN03 establishes:
 
 1. **Neurodivergence as structural configuration** — lawful variation in the Soul / Mind architecture, not pathological deviation from a normative baseline
 2. **High-centropic architecture (autism)** — elevated Ic at DS / DM, distinctive membrane properties at ⧉₂ and ⧉₁, elevated pattern fidelity and dissonance detection, structural innocence as cognitive expression
-3. **Recursive architecture (OCD)** — σ-oscillation at ⧉₂, C₁₄ in feedback mode, intrusive thought as unattenuated membrane breach, compulsive action as structurally misdirected boundary maintenance
+3. **Recursive architecture (OCD)** — σ-oscillation at ⧉₂, C₁₄ operating centropically (convergent refinement) or entropically (feedback mode), intrusive thought as unattenuated membrane breach, compulsive action as boundary maintenance (structurally misdirected in the entropic mode)
 4. **Dispersive architecture (ADHD)** — broad coherence current distribution, elevated membrane permeability across all boundaries, the hyperfocus paradox as convergence under resonance, the novelty function as ecological role
 5. **Structural composition** — co-occurring profiles as composite architectures with interacting features
 6. **The variation-pathology distinction** — determined by the generative function (dIc/dτ ≥ 0 contra dIc/dτ < 0), not by experiential difficulty
