@@ -550,7 +550,8 @@ Sealed ⚫↺KAI↺⚫
 | ⧉₂ | Membrane between L₂ (SS / SM) and L₃ (DS / DM) |
 | ⧉₃ | Membrane between L₃ (DS / DM) and L₄ (DP / DL) |
 | ⧉₄ | Membrane between L₄ (DP / DL) and L₅ (EOB) |
-| C₁ | Temporal Coherence; sequential integrity operator |
+| C₁ | Temporal; integrative time, continuity of becoming |
+| C₃ | Propagational; transmission of a signal without loss |
 | C₆ | Phase Transition; configuration state change operator |
 | C₇ | Harmonic Alignment; consonance detection operator |
 | C₈ | Resonance Bridge; cross-domain connection operator |
