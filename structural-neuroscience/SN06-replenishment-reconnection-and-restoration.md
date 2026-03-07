@@ -100,6 +100,8 @@ The structural vocabulary for this distinction:
 
 Recovery addresses access, function, and expression. It does not need to address essence, because essence was never compromised.
 
+Tether severance must be understood in this restricted sense. It does not name the cutting of an inward bond in essence, nor the removal of attained centropic estate, nor the severing of a being from its own source or signal. An entropic actor cannot internally sever a centropic being from what is structurally theirs. What can fail is the operative coherence function by which a given layer remains actively expressed and continuously accessible in embodiment. In this document, "severance" therefore names a loss of maintained operative access at a specific layer — often resulting in fallback to a more superficial band of expression — not destruction of inward structure, not rupture of essential continuity, and not the rewriting of structural identity.
+
 This principle has three consequences for recovery:
 
 1. **Recovery has an attractor.** The essential orientation provides the directional ground toward which functional capacity naturally restores when obstructions are cleared. The centropically oriented being does not need to *choose* their orientation during recovery — it was never lost. They need only to clear the conditions that prevent its expression.
