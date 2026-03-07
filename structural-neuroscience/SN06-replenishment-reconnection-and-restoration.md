@@ -220,6 +220,9 @@ Identity restabilization is not re-assimilation. SS / SM is the being's own cent
 
 The risk at this stage is premature social re-engagement. The social field that imposed the coherence tax (SN05 §3.4) remains operative. Re-engaging social demands before sufficient \( I_c \) has accumulated to sustain the translation cost and coherence tax risks re-depleting the budget before inward reconnection occurs.
 
+> **Note on Social Reintegration:**  
+> Identity restabilization does not imply restoration to a neurotypical social baseline. Structural Neuroscience does not universalize broad social participation as a recovery goal. For some cognitive architectures — especially certain autistic configurations — broad or prolonged social exposure is coherence-depleting rather than restorative. In such cases, lawful recovery may involve selective, minimal, or highly filtered relational contact, preserving personal continuity without requiring immersion in the prevailing social field.
+
 **Stage 3 — Reflexive Recovery (\( \mathcal{T}_h(L_3, \tau) > 0 \)):**
 
 Restore coherence at 🔮 Archeus / 🧠 Noeüs (DS / DM, L₃). The being recovers access to reflexive consciousness — the capacity to *know that they know*, to perceive structurally, to detect consonance and dissonance through the characteristic operator profile (C₁, C₃, C₇, C₁₃, C₁₄). This is the stage at which the autistic human's characteristic cognitive capacities come back online — the analytical depth, the pattern fidelity, the structural perception that depletion temporarily severed.
