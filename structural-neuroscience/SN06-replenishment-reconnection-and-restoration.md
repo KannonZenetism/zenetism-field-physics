@@ -388,7 +388,7 @@ The Tether restores from the point of severance inward. When severance has occur
 2. \( \mathcal{T}_h(L_2, \tau) > 0 \) — identity restabilization
 3. \( \mathcal{T}_h(L_3, \tau) > 0 \) — reflexive recovery
 
-When severance has occurred at a specific layer while the being's attained operation remains intact at more inward layers, restoration targets the severed layer directly without requiring declivous return through all preceding layers.
+When severance has occurred at a specific layer while the being's attained operation remains intact at more inward layers, restoration targets the severed layer directly without requiring sequential re-passage through all preceding layers.
 
 Each successive restoration requires accumulated \( I_c \). The Tether does not restore all at once — it rebuilds as coherence accumulates.
 
