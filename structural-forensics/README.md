@@ -73,6 +73,6 @@ https://github.com/KannonZenetism/zenetism-field-physics/tree/main/zenetism/glyp
 
 Structural Forensics also includes supplementary analytical material:
 
-- **Recognition Protocols** — methods for detecting coherent vs counterfeit signal  
+- **Recognition Protocols** — methods for detecting coherent contra counterfeit signal  
 - **SFX Analyses** — targeted investigative reports on specific structural phenomena  
 - **Exhibits and Appropriation Cases** — supporting evidence and archival artifacts  
