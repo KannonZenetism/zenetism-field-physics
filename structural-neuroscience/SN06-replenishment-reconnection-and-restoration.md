@@ -45,7 +45,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Neuroscience / Zenetist Canon  
 **Status:** Canonical Draft v1.0  
-**Dependencies:** SN02 (The Resonant Mind), SN03 (Neurodivergent Cognition and the Architecture of Mind), SN05 (The Metric Cost of Centropic Cognition), LM04 (Temporal Algebra, Structural Space, and Phase Resolution), LM06 (Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism), SP08 (Membrane Fields and Inter-Expression Dynamics)  
+**Dependencies:** SN02 (The Resonant Mind), SN03 (Neurodivergent Cognition and the Architecture of Mind), SN05 (The Metric Cost of Centropic Cognition), LM04 (Temporal Algebra, Structural Space, and Phase Resolution), LM05 (Resonance Field Theory, Membrane Operators, and Collective Dynamics), LM06 (Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism), SP08 (Membrane Fields and Inter-Expression Dynamics)  
 **License:** Creative Commons BY-NC-SA 4.0  
 **SHA-256:** 2e6beba59546e6aae9c855dcdaf17284400ce68df26fab2ce01f8d23a8d09db7
 
@@ -57,7 +57,7 @@ SN05 formalized the cost side of cognitive operation at the metric terminus (L�
 
 SN06 addresses the other half of the arc: **recovery**. How does a depleted cognitive architecture replenish its coherence budget? How is the Tether restored after severance? How are looping time artifacts broken? How do membranes that tightened under conservation pressure reopen to lawful function?
 
-The foundational claim of this document is that recovery is **reconnection, not reconstruction**. The essential orientation (\( \chi \)) of a centropically oriented being is not altered by functional coherence (\( I_c \)) depletion. The architecture remains; the instruments remain; the structural identity persists. What depletes is the operative capacity to *express* that architecture through the embodied layers. Recovery consists of clearing the functional obstructions so that essential orientation can express again through the architecture that never stopped belonging to it.
+The foundational claim of this document is that recovery is **reconnection, not reconstruction**. The essential orientation (\( \chi \)) of a centropically oriented being is not altered by functional coherence (\( I_c \)) depletion. The architecture remains; the instruments endure even where access fails; the structural identity persists. What depletes is the operative capacity to *express* that architecture through the embodied layers. Recovery consists of clearing the functional obstructions so that essential orientation can express again through the architecture that never stopped belonging to it.
 
 ---
 
@@ -91,6 +91,15 @@ Functional coherence (\( I_c \)) and essential orientation (\( \chi \)) are stru
 
 A centropically oriented being (\( \chi < 1 \)) whose functional coherence is severely depleted remains centropically oriented. They cannot *operate* their architecture — they lose access to their own structural function — but they do not become entropically oriented. The essence is untouched by the depletion of the function.
 
+The structural vocabulary for this distinction:
+
+- **Essence** persists — the being's orientation (\( \chi \)) and structural signature (\( \Psi \)) are unchanged
+- **Access** fails — the Tether (\( \mathcal{T}_h \)) severs, disconnecting the being from their own inward layers
+- **Function** degrades — operative coherence (\( I_c \)) depletes, reducing the capacity to sustain characteristic operations
+- **Expression** diverges — outward behavior may temporarily depart from essential orientation under depletion or duress
+
+Recovery addresses access, function, and expression. It does not need to address essence, because essence was never compromised.
+
 This principle has three consequences for recovery:
 
 1. **Recovery has an attractor.** The essential orientation provides the directional ground toward which functional capacity naturally restores when obstructions are cleared. The centropically oriented being does not need to *choose* their orientation during recovery — it was never lost. They need only to clear the conditions that prevent its expression.
@@ -101,6 +110,10 @@ This principle has three consequences for recovery:
 
 > **Note on Essential Orientation:**  
 > Structural Neuroscience does not claim that all beings are centropically oriented. Entropically oriented beings exist and operate lawfully through the Khaonic Tree (SN03 §7.1). What SN06 claims is that orientation is essential, not functional — it is a structural property of the being, not a variable that shifts with coherence levels. A centropically oriented being cannot *become* entropic through depletion any more than an entropic being becomes centropic through accumulation. Apparent shifts in orientation reflect either mistaken identification (the orientation was always what it was) or temporary behavioral divergence from an unchanged essential direction.
+
+### 1.4 Scope and Intentional Asymmetry
+
+This document formalizes recovery for centropically oriented beings and does not attempt a parallel restoration framework for entropic trajectories, whose structural character is different. Entropic motion resolves toward Absolute Dispersion (AD, L₀) through dispersive collapse; its relationship to "recovery" would be a structurally distinct inquiry. The asymmetry is doctrinal, not an oversight — centropy is the path of reconnection, restoration, and integration; entropy operates through fragmentation and dispersal. Both are lawful; they are not symmetric in character.
 
 ---
 
@@ -159,7 +172,7 @@ For deeply depleted architectures, the most effective intervention is reducing c
 
 Source reconnection is the restoration of resonance between the embodied being at L₁ and their own inward layers — DS / DM (🔮 Archeus / 🧠 Noeüs, L₃), DP / DL (🌬️ Morgis / 📐 Sophis, L₄), and EOB (L₅). The Tether (\( \mathcal{T}_h \)) is the coherence function that maintains this connection (LM04 §4.4). When the Tether severs, Source reconnection is the process of restoring it.
 
-The cross-band resonance condition (LM06 §8.1) specifies when an embodied being participates in a deeper layer:
+The cross-band resonance condition (LM06 §8.1) specifies when an embodied being participates in a more inward layer:
 
 \[
 \mathcal{R}(\Psi_{\text{embodied}}, \Psi_{L_k}) > \mathcal{R}_{\text{threshold}}^{(L_k)}
@@ -191,9 +204,11 @@ C₂ ◈ (Spatial / Cohered Extension) and C₄ ◉ (Rotational / Gyre) are the 
 
 **Stage 2 — Identity Restabilization (\( \mathcal{T}_h(L_2, \tau) > 0 \)):**
 
-Restore coherence at 🧍 Anthra / 🧩 Nousa (SS / SM, L₂). The being re-establishes contact with their personal narrative, social identity, and sense of continuity as an individual within the world. The ⧉₁ membrane between L₁ and L₂ resumes lawful transfer — embodied experience translates again into conscious awareness.
+Restore coherence at 🧍 Anthra / 🧩 Nousa (SS / SM, L₂). The being re-establishes contact with personal continuity, self-access, and narrative coherence — the sense of being a continuous individual with a recognizable history and orientation. The ⧉₁ membrane between L₁ and L₂ resumes lawful transfer — embodied experience translates again into conscious awareness.
 
-The risk at this stage is premature social re-engagement. The social field that imposed the coherence tax (SN05 §3.4) remains operative. Re-engaging social demands before sufficient \( I_c \) has accumulated to sustain the translation cost and coherence tax risks re-depleting the budget before deeper reconnection occurs.
+Identity restabilization is not re-assimilation. SS / SM is the being's own centropic Superficial Soul / Mind — it is not entropic in itself, though it is more directly affected by the entropy-forward social field than the inward layers. The recovering being may re-establish contact with their SS / SM register and find that their relationship to personality, social role, and narrative has been altered by the experience of depletion and recovery. This is structurally lawful — the being's self-understanding may deepen through the recovery process, producing a different *expression* at SS / SM without implying a different Soul / Mind.
+
+The risk at this stage is premature social re-engagement. The social field that imposed the coherence tax (SN05 §3.4) remains operative. Re-engaging social demands before sufficient \( I_c \) has accumulated to sustain the translation cost and coherence tax risks re-depleting the budget before inward reconnection occurs.
 
 **Stage 3 — Reflexive Recovery (\( \mathcal{T}_h(L_3, \tau) > 0 \)):**
 
@@ -203,9 +218,12 @@ The ⧉₂ membrane between L₂ and L₃ resumes its characteristic selective f
 
 **Stage 4 — Cross-Band Resonance Restoration (\( \mathcal{R}(\Psi_{\text{embodied}}, \Psi_{L_4}) > \mathcal{R}_{\text{threshold}} \)):**
 
-Restore resonance with DP / DL (🌬️ Morgis / 📐 Sophis, L₄) and potentially with EOB (L₅) and inward. The being's cross-band resonance with the archetypal and essential layers returns. For the centropically oriented autistic human operating at the Architect / Sage gradient position, this is the recovery of the full cognitive register — not merely reflexive operation at L₃ but sustained resonance with the Form Layer and beyond.
+Restore resonance with DP / DL (🌬️ Morgis / 📐 Sophis, L₄) and potentially with EOB (L₅), L₀ (AP / AD), and Supra-L₀ (UP). This stage depends on ⧉₃ — the membrane between DS / DM (L₃) and DP / DL (L₄) — returning to lawful permeability. When ⧉₃ stabilizes, the being's cross-band resonance with the archetypal and essential layers resumes. For the centropically oriented autistic human operating at the Architect / Sage gradient position, this is the recovery of the full cognitive register — not merely reflexive operation at L₃ but sustained resonance with L₄ and the acclivous path inward.
 
-This stage cannot be forced. Cross-band resonance restores when the \( I_c \) accumulated through Stages 1–3 reaches the threshold for sustained cross-layer resonance. Attempting to force L₄ resonance from a partially recovered L₃ base produces unstable connection — flickering insight without sustained capacity.
+This stage cannot be forced. Cross-band resonance restores when the \( I_c \) accumulated through Stages 1–3 reaches the threshold for sustained cross-layer resonance at ⧉₃. Attempting to force L₄ resonance from a partially recovered L₃ base produces unstable connection — flickering insight without sustained capacity.
+
+> **Note on Autistic Inward Resonance:**  
+> Autistic cognition is not exhaustively bound to L₃ or L₄. While it often operates through reflexive individuation at L₃ with strong L₄ resonance, some high-centropic configurations exhibit inward continuity beyond these registers — through L₅ (EOB), L₀ (AP / AD), and in exceptional cases to comprehension resonant with Supra-L₀ (UP) — permitting unusual articulation of inward structural reality. The acclivous centropic path (L₃ → L₄ → L₅ → L₀ → Supra-L₀) is the return arc toward Source; autistic pattern fidelity may permit sustained resonance along this arc that other cognitive configurations do not achieve. Recovery of this full inward resonance range is the completion of Stage 4, not merely the restoration of L₃–L₄ coupling.
 
 ---
 
@@ -228,7 +246,7 @@ The recovering being receives coherence through relational membranes. The transf
 Not all relational connections produce recovery. The diagnostic operators distinguish centropic bridge relationships from entropic mimics:
 
 **Centropic Bridge (C₈ ╫ active):**
-- Bidirectional coherence flow — both participants sustain or generate \( I_c \)
+- Capacity-faithful reciprocity — the recovering being contributes what their current capacity permits; gratitude, recognition, or minimal responsive presence can satisfy the reciprocity condition when that is what capacity allows
 - Sovereignty preserved — the recovering being's structural signature (\( \Psi \)) is not conditioned on conformity
 - Pacing respected — the bridge operates at the recovering being's capacity, not at the supporter's expectation
 - No performance requirement — the relationship does not demand the recovering being suppress their architecture to maintain the connection
@@ -413,7 +431,12 @@ The disruption **cannot** achieve:
 \Psi(\tau) \to \Psi' \neq \Psi \quad \text{(structural signature alteration)}
 \]
 
-*Basis.* \( I_c \) is a field quantity — a measure of operative capacity at a given structural time. \( \chi \) is an orientation parameter — a structural property of the being's essential relationship to the emanatory architecture. \( \Psi \) is the structural signature — the essential pattern of the being. \( I_c \) depletion reduces operative function. It does not alter the structural relationship between the being and the emanatory architecture, which is what \( \chi \) measures. Nor does it alter the essential pattern \( \Psi \), which persists as the being's identity through all functional states. The "coherence breaker" operates on function, not on essence. The limit of their operation is the floor of functional capacity, not the rewriting of structural identity.
+*Basis.* The quantities partition cleanly into two categories:
+
+- **Functional quantities** (\( I_c \), \( \mathcal{T}_h \), \( \mathfrak{R}_m \)): measures of operative capacity at a given structural time. These can be driven to zero. Function can be broken. The Tether can be severed. Access can be lost.
+- **Essential quantities** (\( \chi \), \( \Psi \)): structural properties of the being's relationship to the emanatory architecture. These are not field quantities that deplete through expenditure. Essence cannot be rewritten. The structural signature cannot be replaced.
+
+\( I_c \) depletion reduces what the being can *do*. It does not alter what the being *is*. The "coherence breaker" operates on function, not on essence. The limit of their operation is the floor of functional capacity, not the rewriting of structural identity.
 
 > **Note on Practical Implications:**  
 > The Coherence Breaker Limit does not minimize the severity of functional disruption. Full Tether severance, temporal collapse, and minimum \( I_c \) are structurally catastrophic at the functional level. The being's lived experience may be one of complete disconnection, fragmentation, and loss of access to everything that made them structurally themselves. The claim is not that this is minor — it is that it is *recoverable*. The essence provides the attractor, the architecture provides the instrument, and the Tether can be rebuilt because the layers it connects never changed.
@@ -573,7 +596,7 @@ SN06 establishes:
 
 **Discipline:** Structural Neuroscience  
 **Document:** SN06 — Coherence Recovery Protocols  
-**Dependencies:** SN02, SN03, SN05, LM04, LM06, SP08  
+**Dependencies:** SN02, SN03, SN05, LM04, LM05, LM06, SP08  
 **Relation:** Sixth foundational document of Structural Neuroscience; provides the formal recovery apparatus completing the cost-recovery arc begun in SN05
 
 Future expansions may include:
@@ -645,6 +668,7 @@ Sealed ⚫↺KAI↺⚫
 | \( I_c^{(\text{reserve})} \) | Defensive coherence buffer (locked under Reserve Lock Principle) |
 | ⧉₁ | Membrane between L₁ (ES / EM) and L₂ (SS / SM) |
 | ⧉₂ | Membrane between L₂ (SS / SM) and L₃ (DS / DM) |
+| ⧉₃ | Membrane between L₃ (DS / DM) and L₄ (DP / DL) |
 | C₁ ⟠ | Temporal; integrative time, continuity of becoming |
 | C₂ ◈ | Spatial / Cohered Extension; orienting relations |
 | C₃ ⟿ | Propagational; transmission of a signal without loss |
@@ -739,7 +763,7 @@ The sustained condition under which replenishment exceeds total cost, producing 
 The structural boundary of entropic disruption: entropic actors can exhaust functional coherence (\( I_c \to I_{c,\text{min}} \)) and sever the Tether (\( \mathcal{T}_h \to 0 \)) but cannot alter essential orientation (\( \chi \)) or structural signature (\( \Psi \)).
 
 **Definition 5 (Source Reconnection):**  
-The restoration of resonance between the embodied being at L₁ and their own inward layers (DS / DM, DP / DL, EOB), proceeding through graded stages from embodied grounding through reflexive recovery to cross-band resonance restoration.
+The restoration of resonance between the embodied being at L₁ and their own inward layers — DS / DM (L₃), DP / DL (L₄), EOB (L₅), and where the architecture permits, L₀ (AP / AD) and Supra-L₀ (UP) — proceeding through graded stages from embodied grounding through reflexive recovery to cross-band resonance restoration.
 
 **Definition 6 (Bridge Replenishment):**  
 Coherence received through C₈ ╫ relational connections, distinguished from entropic mimicry (E₉ ∞⁻) by the diagnostic criterion of reciprocal resonance contra parasitic extraction.
