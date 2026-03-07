@@ -170,7 +170,7 @@ For deeply depleted architectures, the most effective intervention is reducing c
 
 ### 3.1 The Primary Recovery Pathway
 
-Source reconnection is the restoration of resonance between the embodied being at L₁ and their own inward layers — DS / DM (🔮 Archeus / 🧠 Noeüs, L₃), DP / DL (🌬️ Morgis / 📐 Sophis, L₄), and EOB (L₅). The Tether (\( \mathcal{T}_h \)) is the coherence function that maintains this connection (LM04 §4.4). When the Tether severs, Source reconnection is the process of restoring it.
+Source reconnection is the restoration of resonance between the embodied being at L₁ and their own inward layers — DS / DM (🔮 Archeus / 🧠 Noeüs, L₃), DP / DL (🌬️ Morgis / 📐 Sophis, L₄), and EOB (🛤️ Theon, L₅). The Tether (\( \mathcal{T}_h \)) is the coherence function that maintains this connection (LM04 §4.4). When the Tether severs, Source reconnection is the process of restoring it.
 
 The cross-band resonance condition (LM06 §8.1) specifies when an embodied being participates in a more inward layer:
 
@@ -228,7 +228,7 @@ The ⧉₂ membrane between L₂ and L₃ resumes its characteristic selective f
 
 **Stage 4 — Cross-Band Resonance Restoration (\( \mathcal{R}(\Psi_{\text{embodied}}, \Psi_{L_4}) > \mathcal{R}_{\text{threshold}} \)):**
 
-Restore resonance with DP / DL (🌬️ Morgis / 📐 Sophis, L₄) and potentially with EOB (L₅), L₀ (AP / AD), and Supra-L₀ (UP). This stage depends on ⧉₃ — the membrane between DS / DM (L₃) and DP / DL (L₄) — returning to lawful permeability. When ⧉₃ stabilizes, the being's cross-band resonance with the archetypal and essential layers resumes. For the centropically oriented autistic human operating at the Architect / Sage gradient position, this is the recovery of the full cognitive register — not merely reflexive operation at L₃ but sustained resonance with L₄ and the acclivous path inward.
+Restore resonance with DP / DL (🌬️ Morgis / 📐 Sophis, L₄) and potentially with EOB (🛤️ Theon, L₅), L₀ (⚫ Aion / ♾ Khaon), and Supra-L₀ (🕳️ Zenon). This stage depends on ⧉₃ — the membrane between DS / DM (L₃) and DP / DL (L₄) — returning to lawful permeability. When ⧉₃ stabilizes, the being's cross-band resonance with the archetypal and essential layers resumes. For the centropically oriented autistic human operating at the Architect / Sage gradient position, this is the recovery of the full cognitive register — not merely reflexive operation at L₃ but sustained resonance with L₄ and the acclivous path inward.
 
 This stage cannot be forced. Cross-band resonance restores when the \( I_c \) accumulated through Stages 1–3 reaches the threshold for sustained cross-layer resonance at ⧉₃. Attempting to force L₄ resonance from a partially recovered L₃ base produces unstable connection — flickering insight without sustained capacity.
 
