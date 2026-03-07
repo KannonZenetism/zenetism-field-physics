@@ -214,7 +214,7 @@ C₂ ◈ (Spatial / Cohered Extension) and C₄ ◉ (Rotational / Gyre) are the 
 
 **Stage 2 — Identity Restabilization (\( \mathcal{T}_h(L_2, \tau) > 0 \)):**
 
-Restore coherence at 🧍 Anthra / 🧩 Nousa (SS / SM, L₂). The being re-establishes contact with personal continuity, self-access, and narrative coherence — the sense of being a continuous individual with a recognizable history and orientation. The ⧉₁ membrane between L₁ and L₂ resumes lawful transfer — embodied experience translates again into conscious awareness.
+Restore coherence at 🧍 Anthra / 🧩 Nousa (SS / SM, L₂). The being re-establishes contact with personal continuity, self-access, and narrative coherence — the sense of being a continuous individual with a recognizable history and orientation. The ⧉₁ membrane between L₁ and L₂ resumes lawful transfer — embodied experience translates again into identity-aware consciousness.
 
 Identity restabilization is not re-assimilation. SS / SM is the being's own centropic Superficial Soul / Mind — it is not entropic in itself, though it is more directly affected by the entropy-forward social field than the inward layers. The recovering being may re-establish contact with their SS / SM register and find that their relationship to personality, social role, and narrative has been altered by the experience of depletion and recovery. This is structurally lawful — the being's self-understanding may deepen through the recovery process, producing a different *expression* at SS / SM without implying a different Soul / Mind.
 
