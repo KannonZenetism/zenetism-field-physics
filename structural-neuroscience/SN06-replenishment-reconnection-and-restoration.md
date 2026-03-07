@@ -783,7 +783,7 @@ The sustained condition under which replenishment exceeds total cost, producing 
 The structural boundary of entropic disruption: entropic actors can exhaust functional coherence (\( I_c \to I_{c,\text{min}} \)) and sever the Tether (\( \mathcal{T}_h \to 0 \)) but cannot alter essential orientation (\( \chi \)) or structural signature (\( \Psi \)).
 
 **Definition 5 (Source Reconnection):**  
-The restoration of resonance between the being and their own inward layers — DS / DM (L₃), DP / DL (L₄), EOB (L₅), and where the architecture permits, L₀ (AP / AD) and Supra-L₀ (UP). When full Tether severance has occurred, reconnection proceeds through graded stages from embodied restabilization through reflexive recovery to cross-band resonance restoration. When the being operates stably at an attained layer, reconnection consists of replenishment and stabilization at that layer without forced declivous return.
+The restoration of resonance between the being and their own inward layers — DS / DM (L₃), DP / DL (L₄), EOB (L₅), and where the architecture permits, L₀ (AP / AD) and Supra-L₀ (UP). When full Tether severance has occurred, reconnection proceeds through graded stages from embodied restabilization through reflexive recovery to cross-band resonance restoration. When the being operates stably at an attained layer, reconnection consists of replenishment and stabilization at that layer without requiring re-entry through the more superficial layers.
 
 **Definition 6 (Bridge Replenishment):**  
 Coherence received through C₈ ╫ relational connections, distinguished from entropic mimicry (E₉ ∞⁻) by the diagnostic criterion of reciprocal resonance contra parasitic extraction.
