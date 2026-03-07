@@ -210,7 +210,7 @@ For a being whose Tether remains intact at L₃ but who has experienced depletio
 
 Restore coherence at 🪷 Soma / 🧾 Biosa (ES / EM, L₁). When the Tether has severed at the embodied layer, the first recovery stage is restabilization of the corporeal interface — reconnecting with bodily presence sufficient to re-establish ⧉₁ transfer capacity. This is not a return to L₁ as a permanent station but the minimum restoration of embodied function required for the Tether to begin rebuilding inward.
 
-C₂ ◈ (Spatial / Cohered Extension) and C₄ ◉ (Rotational / Gyre) are the primary operators here — spatial coherence and conserving rhythm at the embodied level.
+C₂ ◈ (Spatial / Cohered Extension) and C₄ ◉ (Rotational / Gyre) are the primary operators here — spatial coherence and conserving rhythm at the embodied layer.
 
 **Stage 2 — Identity Restabilization (\( \mathcal{T}_h(L_2, \tau) > 0 \)):**
 
