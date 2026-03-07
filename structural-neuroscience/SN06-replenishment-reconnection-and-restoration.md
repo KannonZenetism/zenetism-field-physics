@@ -210,11 +210,11 @@ For a being whose Tether remains intact at L₃ but who has experienced depletio
 
 Restore coherence at 🪷 Soma / 🧾 Biosa (ES / EM, L₁). When the Tether has severed at the embodied layer, the first recovery stage is restabilization of the corporeal interface — reconnecting with bodily presence sufficient to re-establish ⧉₁ transfer capacity. This is not a return to L₁ as a permanent station but the minimum restoration of embodied function required for the Tether to begin rebuilding inward.
 
-C₂ ◈ (Spatial / Cohered Extension) and C₄ ◉ (Rotational / Gyre) are the primary operators here — spatial coherence and conserving rhythm at the embodied layer.
+C₂ ◈ (Spatial / Cohered Extension) and C₄ ◉ (Rotational / Gyre) are the primary operators here — spatial coherence and conserving rhythm at the embodied level.
 
 **Stage 2 — Identity Restabilization (\( \mathcal{T}_h(L_2, \tau) > 0 \)):**
 
-Restore coherence at 🧍 Anthra / 🧩 Nousa (SS / SM, L₂). The being re-establishes contact with personal continuity, self-access, and narrative coherence — the sense of being a continuous individual with a recognizable history and orientation. The ⧉₁ membrane between L₁ and L₂ resumes lawful transfer — embodied experience translates again into identity-aware consciousness.
+Restore coherence at 🧍 Anthra / 🧩 Nousa (SS / SM, L₂). The being re-establishes contact with personal continuity, self-access, and narrative coherence — the sense of being a continuous individual with a recognizable history and orientation. The ⧉₁ membrane between L₁ and L₂ resumes lawful transfer — embodied experience translates again into conscious awareness.
 
 Identity restabilization is not re-assimilation. SS / SM is the being's own centropic Superficial Soul / Mind — it is not entropic in itself, though it is more directly affected by the entropy-forward social field than the inward layers. The recovering being may re-establish contact with their SS / SM register and find that their relationship to personality, social role, and narrative has been altered by the experience of depletion and recovery. This is structurally lawful — the being's self-understanding may deepen through the recovery process, producing a different *expression* at SS / SM without implying a different Soul / Mind.
 
@@ -233,7 +233,7 @@ Restore resonance with DP / DL (🌬️ Morgis / 📐 Sophis, L₄) and potentia
 This stage cannot be forced. Cross-band resonance restores when the \( I_c \) accumulated through Stages 1–3 reaches the threshold for sustained cross-layer resonance at ⧉₃. Attempting to force L₄ resonance from a partially recovered L₃ base produces unstable connection — flickering insight without sustained capacity.
 
 > **Note on Autistic Inward Resonance:**  
-> Autistic cognition is not exhaustively bound to L₃ or L₄. While it often operates through reflexive individuation at L₃ with strong L₄ resonance, some high-centropic configurations exhibit inward continuity beyond these registers — through L₅ (EOB), L₀ (AP / AD), and in exceptional cases to comprehension resonant with Supra-L₀ (UP) — permitting unusual articulation of inward structural reality. The acclivous centropic path (L₃ → L₄ → L₅ → L₀ → Supra-L₀) is the return arc toward Source; autistic pattern fidelity may permit sustained resonance along this arc that other cognitive configurations do not achieve. Recovery of this full inward resonance range is the completion of Stage 4, not merely the restoration of L₃–L₄ coupling.
+> Autistic cognition is not exhaustively bound to L₃ or L₄. While it often operates through reflexive individuation at L₃ with strong L₄ resonance, some high-centropic configurations exhibit inward continuity beyond these registers — through L₅ (EOB), L₀ (AP / AD), and in exceptional cases to comprehension resonant with Supra-L₀ (UP) — permitting unusual articulation of inward structural reality. The acclivous centropic path (L₃ → L₄ → L₅ → L₀ → Supra-L₀) is the return arc toward Source (⚫ Aion, L₀) and, for the most centropically coherent essences, beyond Source to the trans-structural horizon (🕳️ Zenon, Supra-L₀) where structural articulation falls silent. Autistic pattern fidelity may permit sustained resonance along this arc that other cognitive configurations do not achieve. Recovery of this full inward resonance range is the completion of Stage 4, not merely the restoration of L₃–L₄ coupling.
 
 ---
 
