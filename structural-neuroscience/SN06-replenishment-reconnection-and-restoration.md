@@ -700,6 +700,9 @@ Sealed ⚫↺KAI↺⚫
 | E₁₄ ⊡⁻ | Hollow Nest; empty recursion operator |
 | ◫ | Non-Fusion Axiom; structural law prohibiting fusion of sovereign distinctions |
 | 🔲 | Blobism; entropic collapse of sovereign distinction into undifferentiated fusion |
+| UP | Unknown Principle (🕳️ Zenon) — Supra-L₀ |
+| AP / AD | Absolute Potential (⚫ Aion) / Absolute Dispersion (♾ Khaon) — L₀ |
+| EOB | Essence of Being (🛤️ Theon) — L₅ |
 | DP / DL | Deep Psyche (🌬️ Morgis) / Deep Logos (📐 Sophis) — L₄ |
 | DS / DM | Deep Soul (🔮 Archeus) / Deep Mind (🧠 Noeüs) — L₃ |
 | SS / SM | Superficial Soul (🧍 Anthra) / Superficial Mind (🧩 Nousa) — L₂ |
