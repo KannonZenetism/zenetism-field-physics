@@ -327,7 +327,7 @@ Recovery must reopen these membranes to lawful function without overwhelming the
 
 ### 6.2 ⧉₁ Restoration (Cognitive-Embodied Membrane)
 
-The ⧉₁ membrane between ES / EM (L₁) and SS / SM (L₂) governs the translation between embodied experience and conscious awareness. Under depletion, ⧉₁ may tighten to reduce the sensory transmission load — the embodied interface filters more aggressively, producing the characteristic sensory shutdown of severe burnout (reduced sensitivity, numbness, disconnection from bodily sensation).
+The ⧉₁ membrane between ES / EM (L₁) and SS / SM (L₂) governs the translation between embodied experience and identity-aware consciousness. Under depletion, ⧉₁ may tighten to reduce the sensory transmission load — the embodied interface filters more aggressively, producing the characteristic sensory shutdown of severe burnout (reduced sensitivity, numbness, disconnection from bodily sensation).
 
 Restoration of ⧉₁ proceeds by graded re-engagement with sensory experience at a pace governed by the recovering \( I_c \) budget:
 
