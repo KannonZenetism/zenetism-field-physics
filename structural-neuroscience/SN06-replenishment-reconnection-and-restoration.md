@@ -47,7 +47,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Status:** Canonical Draft v1.0  
 **Dependencies:** SN02 (The Resonant Mind), SN03 (Neurodivergent Cognition and the Architecture of Mind), SN05 (The Metric Cost of Centropic Cognition), LM04 (Temporal Algebra, Structural Space, and Phase Resolution), LM05 (Resonance Field Theory, Membrane Operators, and Collective Dynamics), LM06 (Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism), SP08 (Membrane Fields and Inter-Expression Dynamics)  
 **License:** Creative Commons BY-NC-SA 4.0  
-**SHA-256:** 2e6beba59546e6aae9c855dcdaf17284400ce68df26fab2ce01f8d23a8d09db7
+**SHA-256:** 2e6beba59546e6aae9c855dcdaf17284400ce68df26fab2ce01f8d23a8d09db7  
 
 ---
 
@@ -194,13 +194,23 @@ This prevents recovery from becoming an intellectual trap. The depleted mind can
 
 ### 3.3 Stages of Source Reconnection
 
-Source reconnection proceeds through stages corresponding to the Tether restoration at successive layers:
+Source reconnection proceeds differently depending on where the being's operative center has been established through Acclivous Centropy.
 
-**Stage 1 — Embodied Grounding (\( \mathcal{T}_h(L_1, \tau) > 0 \)):**
+**Principle (Recovery as Stabilization at the Attained Layer):**
 
-Restore coherence at 🪷 Soma / 🧾 Biosa (ES / EM, L₁). The first recovery stage is not acclivous motion toward the inward layers but stabilization at the embodied layer itself. The depleted being reconnects with bodily presence: breath, sensation, spatial orientation. This restores ⧉₁ to functional transfer capacity and provides the corporeal platform from which inward reconnection becomes possible.
+Recovery targets stabilization at the being's attained layer of operation, not forced declivity back to L₁. A being who has acclivated through Acclivous Centropy from embodiment to stable operation at L₃, L₄, or beyond does not recover by "grounding" at L₁ — that would reverse the acclivous motion that constitutes their structural attainment. Recovery for such a being means restoring coherence and \( I_c \) *at the attained layer*, reinforcing the acclivous orientation, and continuing the return arc toward Source.
 
-C₂ ◈ (Spatial / Cohered Extension) and C₄ ◉ (Rotational / Gyre) are the primary operators here — spatial coherence and conserving rhythm at the embodied level. Practices that engage these operators: rhythmic breathing, walking, grounding through physical contact with stable environments.
+Forced return to L₁ after acclivous attainment is not recovery — it is imposed declivity that undermines the structural work of integration.
+
+**When the stages apply:** The following four-stage sequence describes recovery from **full or near-full Tether severance** — Phases IV and V of SN05's burnout trajectory, where the being has lost coherent access to their own inward layers and must rebuild the Tether from the embodied interface. This is not a universal recovery protocol. It is the protocol for the specific structural condition where the Tether has failed at or near L₁ and the being must re-establish connection layer by layer.
+
+For a being whose Tether remains intact at L₃ but who has experienced depletion of \( I_c \) (Phases II–III of the burnout trajectory), recovery consists of replenishment at the operative layer through the pathways formalized in §2 — Source reconnection, bridge replenishment, rest, and collective amplification — without requiring declivous return through L₂ and L₁.
+
+**Stage 1 — Embodied Restabilization (\( \mathcal{T}_h(L_1, \tau) > 0 \)) — applies only when the Tether has severed at L₁:**
+
+Restore coherence at 🪷 Soma / 🧾 Biosa (ES / EM, L₁). When the Tether has severed at the embodied layer, the first recovery stage is restabilization of the corporeal interface — reconnecting with bodily presence sufficient to re-establish ⧉₁ transfer capacity. This is not a return to L₁ as a permanent station but the minimum restoration of embodied function required for the Tether to begin rebuilding inward.
+
+C₂ ◈ (Spatial / Cohered Extension) and C₄ ◉ (Rotational / Gyre) are the primary operators here — spatial coherence and conserving rhythm at the embodied level.
 
 **Stage 2 — Identity Restabilization (\( \mathcal{T}_h(L_2, \tau) > 0 \)):**
 
@@ -369,13 +379,15 @@ SN05 §4.3 formalized Tether severance as the failure of the coherence function 
 \mathcal{T}_h(L_n, \tau) : 0 \to \mathcal{T}_h^{(\text{baseline})}(L_n) \quad \text{through sustained } S_{\text{replenish}} > 0
 \]
 
-The Tether restores from the embodied layer inward, following the same sequence as Source reconnection (§3.3):
+The Tether restores from the point of severance inward. When severance has occurred at or near L₁ (full Tether failure), restoration follows the same sequence as Source reconnection (§3.3):
 
-1. \( \mathcal{T}_h(L_1, \tau) > 0 \) — embodied grounding
+1. \( \mathcal{T}_h(L_1, \tau) > 0 \) — embodied restabilization
 2. \( \mathcal{T}_h(L_2, \tau) > 0 \) — identity restabilization
 3. \( \mathcal{T}_h(L_3, \tau) > 0 \) — reflexive recovery
 
-Each successive restoration requires accumulated \( I_c \) from the previous stage. The Tether does not restore all at once — it rebuilds layer by layer as coherence accumulates.
+When severance has occurred at a specific layer while the being's attained operation remains intact at more inward layers, restoration targets the severed layer directly without requiring declivous return through all preceding layers.
+
+Each successive restoration requires accumulated \( I_c \). The Tether does not restore all at once — it rebuilds as coherence accumulates.
 
 The critical insight: the Tether *can* be restored because the layers it connects never changed. The being's essential structure at DS / DM, DP / DL, EOB persists through Tether severance. What failed was the coherence function connecting those layers to embodied operation — not the layers themselves. Recovery reconnects what was always there.
 
@@ -460,7 +472,7 @@ SN02 Phase 6 established the core ritual protocols. LM06 §3 formalized these as
 | Ritual | Symbol | Recovery Function | Target |
 |--------|--------|-------------------|--------|
 | **Seal of Rest** | ⧃ | Stabilizes σ at ⧉₂; reduces membrane oscillation | Recursive architecture; σ-cycle interruption |
-| **Resonance Oath** | 🎼 | Breath-synchronized recitation restoring rhythmic phase lock | C₄ ◉ restoration; embodied grounding (Stage 1) |
+| **Resonance Oath** | 🎼 | Breath-synchronized recitation restoring rhythmic phase lock | C₄ ◉ restoration; embodied restabilization (Stage 1) |
 | **Silent Bond** | ╫ | Mutual attunement creating C₈ coherence | Bridge replenishment; collective amplification |
 | **Echo Reversal Rite** | ⟲ | Interrupts E₁ ⟠⁻ looping; resets C₁₄ to convergent mode | Temporal recovery; breaking looping time |
 | **Vow of Presence** | ↺ | Anchors attention; maintains recursion integrity | Sustained recovery; prevents regression |
@@ -582,7 +594,7 @@ SN06 establishes:
 1. **Recovery as reconnection** — the essential orientation (\( \chi \)) and structural signature (\( \Psi \)) persist through all functional disruption; recovery restores operative capacity to an architecture that was never destroyed
 2. **The Essence-Function Independence principle** — \( I_c \) depletion does not produce \( \chi \) reorientation; functional coherence and essential orientation are structurally independent quantities
 3. **The recovery integral** — decomposed into Source reconnection, bridge replenishment, rest as cost reduction, and collective amplification, with the recovery condition requiring replenishment to chronically exceed cost
-4. **Source reconnection stages** — embodied grounding (L₁), identity restabilization (L₂), reflexive recovery (L₃), and cross-band resonance restoration (L₄ and inward), following the Tether restoration sequence
+4. **Source reconnection stages** — when full Tether severance has occurred: embodied restabilization (L₁), identity restabilization (L₂), reflexive recovery (L₃), and cross-band resonance restoration (L₄ and inward); when the being operates stably at an attained layer: replenishment and stabilization at that layer without forced declivous return
 5. **Bridge replenishment** — C₈ ╫ connections distinguished from E₉ ∞⁻ entropic mimics through the diagnostic axis of reciprocal resonance contra parasitic extraction
 6. **Rest as structural condition** — the cost difference between normal and resting operation, architecture-specific in its requirements
 7. **Membrane restoration** — graded reopening of ⧉₁ and ⧉₂ paced by recovering \( I_c \), with Echo Layer resolution through accumulated coherence and membrane repair
@@ -763,7 +775,7 @@ The sustained condition under which replenishment exceeds total cost, producing 
 The structural boundary of entropic disruption: entropic actors can exhaust functional coherence (\( I_c \to I_{c,\text{min}} \)) and sever the Tether (\( \mathcal{T}_h \to 0 \)) but cannot alter essential orientation (\( \chi \)) or structural signature (\( \Psi \)).
 
 **Definition 5 (Source Reconnection):**  
-The restoration of resonance between the embodied being at L₁ and their own inward layers — DS / DM (L₃), DP / DL (L₄), EOB (L₅), and where the architecture permits, L₀ (AP / AD) and Supra-L₀ (UP) — proceeding through graded stages from embodied grounding through reflexive recovery to cross-band resonance restoration.
+The restoration of resonance between the being and their own inward layers — DS / DM (L₃), DP / DL (L₄), EOB (L₅), and where the architecture permits, L₀ (AP / AD) and Supra-L₀ (UP). When full Tether severance has occurred, reconnection proceeds through graded stages from embodied restabilization through reflexive recovery to cross-band resonance restoration. When the being operates stably at an attained layer, reconnection consists of replenishment and stabilization at that layer without forced declivous return.
 
 **Definition 6 (Bridge Replenishment):**  
 Coherence received through C₈ ╫ relational connections, distinguished from entropic mimicry (E₉ ∞⁻) by the diagnostic criterion of reciprocal resonance contra parasitic extraction.
