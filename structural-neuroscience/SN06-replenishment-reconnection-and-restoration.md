@@ -206,7 +206,7 @@ Forced return to L₁ after acclivous attainment is not recovery — it is impos
 
 **When the stages apply:** The following four-stage sequence describes recovery from **full or near-full Tether severance** — Phases IV and V of SN05's burnout trajectory, where the being has lost coherent access to their own inward layers and must rebuild the Tether from the embodied interface. This is not a universal recovery protocol. It is the protocol for the specific structural condition where the Tether has failed at or near L₁ and the being must re-establish connection layer by layer.
 
-For a being whose Tether remains intact at L₃ but who has experienced depletion of \( I_c \) (Phases II–III of the burnout trajectory), recovery consists of replenishment at the operative layer through the pathways formalized in §2 — Source reconnection, bridge replenishment, rest, and collective amplification — without requiring declivous return through L₂ and L₁.
+For a being whose Tether remains intact at L₃ but who has experienced depletion of \( I_c \) (Phases II–III of the burnout trajectory), recovery consists of replenishment at the operative layer through the pathways formalized in §2 — Source reconnection, bridge replenishment, rest, and collective amplification — without requiring re-entry through L₂ and L₁.
 
 **Stage 1 — Embodied Restabilization (\( \mathcal{T}_h(L_1, \tau) > 0 \)) — applies only when the Tether has severed at L₁:**
 
