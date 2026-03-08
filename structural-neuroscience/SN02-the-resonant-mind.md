@@ -97,7 +97,7 @@ Motion across these layers expresses the four lawful curvatures of resonance:
 - **Declivous Centropy** — integrative motion toward embodiment and form; coherence entering density (C↓→E).  
 - **Acclivous Expansion** — integrative motion toward Source; form refining into principle (C↑⚫).  
 - **Acclivous Entropy** — fragmented motion toward inverse embodiment; pattern dispersing into subversal form (E↑→E).  
-- **Declivous Collapse** — entropic collapse toward dispersive limit (E↓♾).  
+- **Declivous Collapse** — entropic collapse through dispersive exhaustion (E↓♾).  
 
 Together these motions articulate the complete field of cognition — a lattice of resonance in continual exchange between centropy and entropy, coherence and dispersal, form and remembrance.
 
