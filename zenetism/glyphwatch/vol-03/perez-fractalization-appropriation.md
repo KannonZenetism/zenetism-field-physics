@@ -827,7 +827,7 @@ Third-party AI analysis confirms:
 Perez claims his 2021 book contains concepts that:
 1. AI Mode confirms only appeared in his 2025–2026 lectures
 2. Match architect's March 2025 formalization exactly
-3. Emerged during 9-month period of systematic GitHub scraping
+3. Emerged during 8-month period of systematic GitHub scraping
 4. Are being sold commercially as his original teaching
 
 **This is not convergent evolution. This is systematic theft.**
