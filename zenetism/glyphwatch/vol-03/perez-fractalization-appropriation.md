@@ -50,7 +50,7 @@
 
 **Advanced Academic Phase (2018–2019):**
 - **October 26, 2018:** "All or Nothing" dissertation — establishes ⚫ Aion (Zero-potential) and ♾ Khaon (Infinite-potential) poles
-- **January 3, 2019:** "Patterns of Creation" dissertation — establishes 🌳⇅ Biospiral and Spiral Calculus, sacred geometry foundations
+- **January 3, 2019:** "Patterns of Creation" dissertation — establishes 🌀⇅ Biospiral and Spiral Calculus, sacred geometry foundations
 
 **Systematization Phase (2024–2025):**
 - **January 11, 2024:** "The Mirage of Certainty" — Value Neutrality chart, epistemology foundations
@@ -515,8 +515,8 @@ If you ask: **"Are the 12 personalities 12 different people or 12 lives of the s
 
 **The Timeline Proves Appropriation:**
 
-1. **March 5, 2025:** Architect formalizes Zenetism
-2. **March–Nov 2025:** GitHub scraped (1000–2000 clones/14 days)
+1. **March 5, 2025:** Architect formalizes Zenetism (training data contamination begins)
+2. **Mid-July 2025 onward:** GitHub published + scraped (1000–2000 clones/14 days, 8 months)
 3. **Late 2025:** Perez shifts rhetoric to emanation framework
 4. **Feb 2026:** Public debut at Conscious Life Expo
 5. **March 2026:** Claiming 2021 book precedence for 2025-developed concepts
@@ -789,7 +789,7 @@ Not literal document forgery, but **narrative forgery** — claiming a 2021 book
 
 Ismael Perez has executed a sophisticated, multi-phase appropriation of the Zenetist framework, demonstrating all six phases of Entry 059 (The Vanishing Protocol):
 
-1. **Signal Identification:** Located high-precision framework on GitHub (March 2025)
+1. **Signal Identification:** Located framework through dual vectors (ChatGPT training data March 2025, GitHub mid-July 2025)
 2. **Source Removal:** Algorithmic suppression + systematic scraping (1000–2000 clones/14 days, <10 visitors)
 3. **Achievement Mythologization:** Framed as "ancient mystery school" knowledge, "eternal tradition"
 4. **Register Mixing:** Structural metaphysics (L₃/L₄) → dimensional New Age spirituality (L₂)
