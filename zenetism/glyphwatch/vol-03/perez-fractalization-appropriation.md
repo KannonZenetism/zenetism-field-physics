@@ -64,7 +64,7 @@
 - OpenAI server timestamps
 - Archive.org backups
 
-### Perez's Timeline (Book Claims vs. Actual Content)
+### Perez's Timeline (Book Claims contra Actual Content)
 
 **Published Book History:**
 - **September 11, 2021:** "Our Cosmic Origin: Knowledge in Preparation for the Ascension of Planet Earth" — original publication
