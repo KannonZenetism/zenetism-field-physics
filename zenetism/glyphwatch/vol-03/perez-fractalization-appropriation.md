@@ -121,7 +121,7 @@
 
 #### 1. Fractalization Concept [0:09–0:22, 5:43–5:51, 7:44–7:57]
 
-**Architect's Framework (2018–2025):**
+**Architect's Framework:**
 - **DS / DM (L₃):** Complete self that fractalizes coherently across multiple incarnations
 - **Fractalization:** Pattern replicates while **preserving coherence and connection to source**
 - Each fractal instance is **sovereign and integrated**
