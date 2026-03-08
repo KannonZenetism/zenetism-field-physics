@@ -255,7 +255,7 @@ The full spectrum of subjectivity unfolds across five centropic strata and their
 | **L₁** | (ES / EM) | Material Consciousness: threshold of embodiment, sensory and kinetic interface. |
 
 Each has an inverse (IL₁–IL₅).  
-Together they form the full spiral: centropy moving by declivous centropy (C↓→E) from pure awareness into individuated consciousness and form, and entropy moving by acclivous entropy (E↑→E) toward fragmented reflection.
+Together they form the full spiral: centropy moving by declivous centropy (C↓→E) from pure awareness into individuated consciousness and form, and entropy moving by acclivous entropy (E↑→E) from dispersive root toward inverse embodiment and fragmented reflection.
 
 ### 3 · Cognition as Layer Coupling
 
