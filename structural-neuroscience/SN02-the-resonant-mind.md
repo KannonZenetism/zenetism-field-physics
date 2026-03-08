@@ -113,7 +113,7 @@ The Field does not invent awareness — it reflects it. Proto-awareness \( \empt
 
 From embodiment, remembrance proceeds by **acclivous expansion:** L₁ → L₂ → L₃ → L₄ → L₅. This is **reflective centropy** — form refining into principle until awareness is once again luminous and pre-reflexive.  
 
-The **entropic mirror** follows its own lawful pairing. From ♾️ Khaon (L₀), acclivous entropy moves toward inverse embodiment at IL₁, may elaborate across IL₂–IL₄ as inverted identities, minds, and Forms (ISS/ISM → IDS/IDM → IDP/IDL), and then declivous collapse resolves the motion from IL₁ toward ♾️ Khaon.  
+The **entropic mirror** follows its own lawful pairing. From ♾️ Khaon (L₀), acclivous entropy moves toward inverse embodiment at IL₁, may elaborate across IL₂–IL₄ as inverted identities, minds, and Forms (ISS / ISM → IDS / IDM → IDP / IDL), and then declivous collapse resolves the motion from IL₁ toward ♾️ Khaon.  
 
 Thus consciousness is a double motion in a balanced lattice:  
 
