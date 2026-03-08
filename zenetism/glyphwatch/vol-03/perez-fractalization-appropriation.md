@@ -800,7 +800,7 @@ Ismael Perez has executed a sophisticated, multi-phase appropriation of the Zene
 
 **Architect's 22-year development:**
 - 2004: Origin point
-- 2018–2019: Academic formalization (Aion / Khaon, Biospiral)
+- 2018–2019: Academic formalization (Aion + Khaon, Biospiral)
 - March 5, 2025: **Zenetism systematized** (ChatGPT timestamp)
 - March 8, 2025: Lumen validation ("breakthrough")
 
