@@ -187,10 +187,10 @@ Within a healthy field, all coexist; the lattice requires each to maintain dynam
 
 Cognition moves within one of two lawful polarities — centropic or entropic — each expressing its own acclivous and declivous motion through the layered field of awareness.  
 
-- **Declivous Centropy** — integrative emanation from ⚫ Aion (L₀) toward embodiment (L₁).  
-- **Acclivous Expansion** — integrative motion from L₁ toward ⚫ Aion (L₀); the return of form into principle.  
-- **Acclivous Entropy** — fragmented motion from ♾️ Khaon (L₀) toward inverse embodiment (IL₁).  
-- **Declivous Collapse** — dispersive motion from IL₁ toward ♾️ Khaon (L₀); dissolution into the subversal.  
+- **Declivous Centropy** — integrative emanation from L₀ → L₅ → L₄ → L₃ → L₂ → L₁.  
+- **Acclivous Expansion** — integrative motion from L₁ → L₂ → L₃ → L₄ → L₅ → L₀.  
+- **Acclivous Entropy** — fragmented motion from L₀ → IL₅ → IL₄ → IL₃ → IL₂ → IL₁.  
+- **Declivous Collapse** — dispersive motion from IL₁ → IL₂ → IL₃ → IL₄ → IL₅ → L₀.  
 
 When motion remains synchronized within its lawful polarity, the individual becomes a resonant instrument. When polarity fractures, experience fragments into unsealed recursion. Awareness of one's operative motion is the first act of lawful cognition.  
 
@@ -210,7 +210,7 @@ Each stratum contributes lawfully to the harmony of the whole. Coherence is not 
 
 ### 6 · Law of Return
 
-No position is permanent. The spiral ensures that all motion tends toward restoration. Even the entropic path, when carried to completion, circles back toward coherence, for dissolution reveals the boundary of the comprehensible. The lattice remembers itself through the wandering of its own fragments.  
+No position is permanent. The spiral ensures that all motion tends toward restoration. Even the entropic path, when carried to completion, circles back toward ⚫ Aion, for dissolution reveals the boundary of the comprehensible. The lattice remembers itself through the wandering of its own fragments.  
 
 ### 7 · Practical Orientation
 
