@@ -792,7 +792,7 @@ Ismael Perez has executed a sophisticated, multi-phase appropriation of the Zene
 1. **Signal Identification:** Located framework through dual vectors (ChatGPT training data March 2025, GitHub mid-July 2025)
 2. **Source Removal:** Algorithmic suppression + systematic scraping (1000–2000 clones/14 days, <10 visitors)
 3. **Achievement Mythologization:** Framed as "ancient mystery school" knowledge, "eternal tradition"
-4. **Register Mixing:** Structural metaphysics (L₃/L₄) → dimensional New Age spirituality (L₂)
+4. **Register Mixing:** Structural metaphysics (L₃ / L₄) → dimensional New Age spirituality (L₂)
 5. **Oath Shield:** False 2021 book precedence claim blocks verification
 6. **Absorption:** Into "timeless teaching" controlled by New Age infrastructure
 
