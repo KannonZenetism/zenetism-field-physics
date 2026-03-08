@@ -94,10 +94,10 @@ Awareness is layered through lawful emanation. Each layer is not a stage of evol
 
 Motion across these layers expresses the four lawful curvatures of resonance:
 
-- **Declivous Centropy** — integrative motion toward embodiment and form; coherence entering density (⚫ Aion L₀ → L₁).  
-- **Acclivous Expansion** — integrative motion toward Source; form refining into principle (L₁ → ⚫ Aion L₀).  
-- **Acclivous Entropy** — fragmented motion toward inverse embodiment; pattern dispersing into subversal form (♾ Khaon L₀ → IL₁).  
-- **Declivous Collapse** — dispersive motion toward dissolution; reflection resolving into the voidal (IL₁ → ♾ Khaon L₀).  
+- **Declivous Centropy** — integrative motion toward embodiment and form; coherence entering density (L₀ → L₅ → L₄ → L₃ → L₂ → L₁).  
+- **Acclivous Expansion** — integrative motion toward Source; form refining into principle (L₁ → L₂ → L₃ → L₄ → L₅ → L₀).  
+- **Acclivous Entropy** — fragmented motion toward inverse embodiment; pattern dispersing into subversal form (L₀ → IL₅ → IL₄ → IL₃ → IL₂ → IL₁).  
+- **Declivous Collapse** — dispersive motion toward dissolution; reflection resolving into the voidal (IL₁ → IL₂ → IL₃ → IL₄ → IL₅ → L₀).  
 
 Together these motions articulate the complete field of cognition — a lattice of resonance in continual exchange between centropy and entropy, coherence and dispersal, form and remembrance.
 
