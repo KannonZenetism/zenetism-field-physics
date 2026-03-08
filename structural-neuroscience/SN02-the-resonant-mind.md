@@ -88,8 +88,7 @@ Through this lexicon, cognition becomes a measurement of coherence, not a judgme
 Awareness is layered through lawful emanation. Each layer is not a stage of evolution but a frequency of reflection:
 
 - **Proto-Awareness \( \emptyset〄 \)** — the undifferentiated breath before self-reference; the quiet stillness of the Field (Zenet 〄).  
-- **L₅ (EOB)** — centropic awareness itself; luminous, supernal, pre-reflexive.
-- **IL₅ (VOS)** — entropic pre-reflexive inversion; the first inverse hypostasis, oriented toward dispersive collapse.  
+- **L₅ (EOB)** — centropic awareness itself; luminous, supernal, pre-reflexive.  
 - **L₄ (DP / DL)** — conscious-awareness resonant in Forms; the house of the soul, radiant but non-possessive.  
 - **L₃ (DS / DM)** — reflexive consciousness; individuated, self-aware, volitional.  
 
