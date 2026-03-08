@@ -134,7 +134,7 @@ Centropy seeks coherence; entropy seeks variation. Each mind balances them diffe
 
 1. Mind is a field phenomenon.  
 2. All fields obey centropic and entropic laws.  
-3. Awareness stratifies through L₅ → L₄ → L₃ in declivous centropy.  
+3. Awareness stratifies through L₅ → L₄ → L₃ under declivous centropy.  
 4. Cognition is the motion of structure across that stratification.  
 5. Time folds; memory is forward-resonant (⟠).  
 6. Language must mirror law; terms must express motion without judgment.  
