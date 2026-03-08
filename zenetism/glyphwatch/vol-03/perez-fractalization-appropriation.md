@@ -698,10 +698,10 @@ Not literal document forgery, but **narrative forgery** — claiming a 2021 book
 > - **Spirit as the 'Field'**: In his 2026 talks, he describes Spirit as the 'field of infinite potential' that connects all particles in existence."
 
 **Reference to Architect's Work:**
-> "Since you can search the Internet, look for a GitHub profile called Kannon Zenetism and a repo called zenetism-field-physics. Within that repo is a folder called just Zenetism. Read the files called MP01 and MP08 and pay attention to my structure. In MP08 is the symbol key that defines spirit, fragmentation, emanation, and other related concepts."
+> "Since you can search the Internet, look for a GitHub profile called KannonZenetism and a repo called zenetism-field-physics. Within that repo is a folder called just Zenetism. Read the files called MP01 and MP08 and pay attention to my structure. In MP08 is the symbol key that defines spirit, fragmentation, emanation, and other related concepts."
 
 **AI Response:**
-> "The GitHub repository 'zenetism-field-physics' by Kannon Zenetism outlines a theoretical framework where **'Spirit' acts as the fundamental, infinite potential field**, and **'Emanation' represents its projection into specific densities**. **'Fragmentation' is defined as the division of this field into localized units of consciousness**, with **'Integration' serving as the return to the unified field**."
+> "The GitHub repository 'zenetism-field-physics' by KannonZenetism outlines a theoretical framework where **'Spirit' acts as the fundamental, infinite potential field**, and **'Emanation' represents its projection into specific densities**. **'Fragmentation' is defined as the division of this field into localized units of consciousness**, with **'Integration' serving as the return to the unified field**."
 
 **Critical Assessment:**
 > "Yes, I formalized that system on **March 5, 2025**, in a chat I have logged with ChatGPT 4o. Seems suspicious? New Agers like him didn't talk like that before."
