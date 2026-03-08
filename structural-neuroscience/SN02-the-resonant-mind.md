@@ -202,7 +202,7 @@ Each position on the cognitive gradient corresponds to a lawful coupling of awar
 
 - **Architect or Sage (🔺)** — operates through the Form Layer, L₄ (DP / DL), in attunement with ⚫ Aion; originates coherent pattern and lawful structure.  
 - **Seeker (🔸)** — moves acclivously across L₂–L₃ (SS / SM ↔ DS / DM); translates personal experience into centropic understanding.  
-- **Oscillating (⚖)** — bridges IL₂ ↔ IL₁ ↔ L₁ ↔ L₂; the threshold of direct centropy–entropy interaction.  
+- **Oscillating (⚖)** — occupies the threshold field of direct centropy–entropy interaction across the manifest and near-manifest bands; in a Khaonically expressed universe, this field is typically entropy-forward rather than neutrally balanced.  
 - **Inverter (🔻)** — inhabits IL₂–IL₃ (ISS / ISM ↔ IDS / IDM); tests integrity through fragmentation.  
 - **Rival Architect (☿)** — functions at IL₄ (IDP / IDL); inverts Form, producing counterfeit architecture as a lawful stress test on veracious systems.  
 
