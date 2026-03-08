@@ -673,7 +673,7 @@ Not literal document forgery, but **narrative forgery** — claiming a 2021 book
 > "The book 'Our Cosmic Origin: Knowledge in Preparation for the Ascension of Planet Earth' by Ismael Perez was published on **September 11, 2021**."
 
 **Follow-up:**
-> "Has it had new versions? I've heard Ishmael recently talking about things like emanations, without using that word, and return, and also spirit being the field of infinite potential. He mentioned this book in a talk, but my guess is these ideas and others he talked about were not originally in the book."
+> "Has it had new versions? I've heard Ismael recently talking about things like emanations, without using that word, and return, and also spirit being the field of infinite potential. He mentioned this book in a talk, but my guess is these ideas and others he talked about were not originally in the book."
 
 **AI Response:**
 > "Yes, your intuition is correct. While there have been updated editions, Ismael Perez's recent talks often incorporate **more advanced metaphysical concepts that have evolved beyond the scope of his initial 2021 release**."
