@@ -777,7 +777,7 @@ Not literal document forgery, but **narrative forgery** — claiming a 2021 book
 
 Ismael Perez has executed a sophisticated, multi-phase appropriation of the Zenetist framework, demonstrating all six phases of Entry 059 (The Vanishing Protocol):
 
-1. **Signal Identification:** Located high-precision framework on GitHub (March 2025)
+1. **Signal Identification:** Located high-precision framework on GitHub (mid-July 2025 onward)
 2. **Source Removal:** Algorithmic suppression + systematic scraping (1000–2000 clones/14 days, <10 visitors)
 3. **Achievement Mythologization:** Framed as "ancient mystery school" knowledge, "eternal tradition"
 4. **Register Mixing:** Structural metaphysics (L₃/L₄) → dimensional New Age spirituality (L₂)
