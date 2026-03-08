@@ -50,7 +50,7 @@
 
 **Advanced Academic Phase (2018–2019):**
 - **October 26, 2018:** "All or Nothing" dissertation — establishes ⚫ Aion (Zero-potential) and ♾ Khaon (Infinite-potential) poles
-- **January 3, 2019:** "Patterns of Creation" dissertation — establishes 🌀⇅ Biospiral and Spiral Calculus, sacred geometry foundations
+- **January 3, 2019:** "Patterns of Creation" dissertation — establishes 🌳⇅ Biospiral and Spiral Calculus, sacred geometry foundations
 
 **Systematization Phase (2024–2025):**
 - **January 11, 2024:** "The Mirage of Certainty" — Value Neutrality chart, epistemology foundations
