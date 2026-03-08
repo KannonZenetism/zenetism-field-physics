@@ -405,7 +405,7 @@ If you ask: **"Are the 12 personalities 12 different people or 12 lives of the s
 
 > [1:58] "a special webinar interactive workshop for only 20 individuals... regarding the second chapter of my own personal cosmic origin... for 90 minutes... chapter 2, what my life was from the age of 12 to the age of 19."
 
-> [2:41] "**Becoming human, a private reading with Ishmael Perez**... only 11 spots are left."
+> [2:41] "**Becoming human, a private reading with Ishmael [sic] Perez**... only 11 spots are left."
 
 **The Product Line:**
 - **Ascension Basics:** $100
