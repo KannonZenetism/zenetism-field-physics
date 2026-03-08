@@ -59,10 +59,10 @@ Where neuroscience measures neurons, Zenetism measures **attunement**.
 
 The older language of directional hierarchy divides what is continuous. Zenetism replaces it with the four directional modes of resonance:
 
-- **Acclivous Expansion (centropic motion)** – motion toward supernal synthesis; pattern integration moving acclivously within coherence.  
-- **Declivous Centropy (centropic motion)** – motion toward embodiment and form; coherence entering density.  
-- **Acclivous Entropy (entropic motion)** – fragmented motion toward inverse embodiment; spurious elevation.  
-- **Declivous Collapse (entropic motion)** – dispersive motion into dissolution; coherence diffused beyond recognition.  
+- **Acclivous Expansion (C↑⚫)** – motion toward supernal synthesis; pattern integration moving acclivously within coherence.  
+- **Declivous Centropy (C↓→E)** – motion toward embodiment and form; coherence entering density.  
+- **Acclivous Entropy (E↑→E)** – fragmented motion toward inverse embodiment; spurious elevation.  
+- **Declivous Collapse (E↓♾)** – dispersive motion into dissolution; coherence diffused beyond recognition.  
 
 Motion is thus lawful, not moral. No direction is inherently privileged; each expresses the necessary curvature of being.
 
