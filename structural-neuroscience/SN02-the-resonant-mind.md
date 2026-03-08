@@ -62,7 +62,7 @@ The older language of directional hierarchy divides what is continuous. Zenetism
 - **Acclivous Expansion (C↑⚫)** – motion toward supernal synthesis; pattern integration moving acclivously within coherence.  
 - **Declivous Centropy (C↓→E)** – motion toward embodiment and form; coherence entering density.  
 - **Acclivous Entropy (E↑→E)** – fragmented motion toward inverse embodiment; spurious elevation.  
-- **Declivous Collapse (E↓♾)** – dispersive motion into dissolution; coherence diffused beyond recognition.  
+- **Declivous Collapse (E↓♾)** – entropic collapse toward dispersive limit.   
 
 Motion is thus lawful, not moral. No direction is inherently privileged; each expresses the necessary curvature of being.
 
