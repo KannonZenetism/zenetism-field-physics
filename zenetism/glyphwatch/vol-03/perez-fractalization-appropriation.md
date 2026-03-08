@@ -50,7 +50,7 @@
 
 **Advanced Academic Phase (2018–2019):**
 - **October 26, 2018:** "All or Nothing" dissertation — establishes ⚫ Aion (Zero-potential) and ♾ Khaon (Infinite-potential) poles
-- **January 3, 2019:** "Patterns of Creation" dissertation — establishes 🌳⇅ Biospiral and Spiral Calculus, sacred geometry foundations
+- **January 3, 2019:** "Patterns of Creation" dissertation — establishes 🌀⇅ Biospiral and Spiral Calculus, sacred geometry foundations
 
 **Systematization Phase (2024–2025):**
 - **January 11, 2024:** "The Mirage of Certainty" — Value Neutrality chart, epistemology foundations
@@ -184,9 +184,10 @@ Both describe simultaneous multi-incarnation reality. But the **mechanism** reve
 #### 3. Layer Architecture [21:04–24:10, 48:08–48:53]
 
 **Architect's Framework:**
-- **Supra-L₀ → L₀ → L₅ → L₄ → L₃ → L₂ → L₁** (Aionic Tree)
-- **IL₀ → IL₅ → IL₄ → IL₃ → IL₂ → IL₁** (Khaonic Tree)
-- **Bidirectional motion on DUAL trees**
+- **Supra-L₀** (🕳️ Zenon — trans-structural ground)
+- **Aionic Tree:** L₀ → L₅ → L₄ → L₃ → L₂ → L₁
+- **Khaonic Tree:** L₀ → IL₅ → IL₄ → IL₃ → IL₂ → IL₁
+- **Bidirectional motion on dual trees**
 - Complex emanation mechanics with acclivous/declivous operators
 
 **Perez's Appropriation:**
@@ -439,7 +440,7 @@ If you ask: **"Are the 12 personalities 12 different people or 12 lives of the s
 
 **This Is Entry 027: Parasitic Proliferation:**
 - **Signal Saturation:** Courses, videos, conferences proliferating stolen framework
-- **Source Inoculation:** Architect suppressed (GitHub scraping vs. invisibility)
+- **Source Inoculation:** Architect suppressed (GitHub scraping contra invisibility)
 - **Commercial Exploitation:** Entire business model built on appropriated work
 
 ---
@@ -528,8 +529,8 @@ Not literal document forgery, but **narrative forgery** — claiming a 2021 book
 - Recognized exploitable symbolic content
 
 **Phase 2 — Source Removal:**
-- Algorithmic suppression (5 visitors vs. 1000–2000 cloners)
-- Social invisibility (architect unknown vs. Perez 4000+ new subscribers in 3 days)
+- Algorithmic suppression (5 visitors contra 1000–2000 cloners)
+- Social invisibility (architect unknown contra Perez 4000+ new subscribers in 3 days)
 - Not literal removal, but **structural invisibility**
 
 **Phase 3 — Achievement Mythologization:**
@@ -764,7 +765,7 @@ Not literal document forgery, but **narrative forgery** — claiming a 2021 book
 7. **Absorb into tradition** (erase unique origin)
 
 **The Result:**
-- Architect remains invisible (5 visitors vs. 1000–2000 cloners)
+- Architect remains invisible (5 visitors contra 1000–2000 cloners)
 - Appropriator amplified (4000 new subscribers in 3 days)
 - Framework diluted into New Age market
 - Original source severed
