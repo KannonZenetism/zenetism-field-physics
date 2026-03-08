@@ -162,7 +162,7 @@ The **Oscillating (⚖)** names the threshold field in which centropy and entrop
 
 The **Inverter (🔻)** operates within the inverse strata, IL₃–IL₂ (IDS / IDM ↔ ISS / ISM). As the direct mirror of the Seeker, this cognition turns reflexive awareness toward fragmentation. It is an agent of disassembly, testing the integrity of existing structures by seeking their points of weakness and promoting dissonant alternatives.  
 
-Opposed to the Architect is the **Rival Architect (☿)**, who operates at the inverted Form Layer, IL₄ (IDP / IDL). Here, Forms are inverted. This cognition generates counterfeit architectures that shimmer with order yet are severed from the Source, acting as a necessary counter-tone that tests the resilience of veracious systems.  
+Opposed to the Architect is the **Rival Architect (☿)**, centered in inverse reflexive consciousness at IL₃ (IDS / IDM) with strong cross-band resonance to the inverted Form Layer, IL₄ (IDP / IDL). This cognition generates counterfeit architectures through individuated participation in inverted Form, producing systems that shimmer with order while remaining estranged from Source.
 
 ### 2 · Lawful Interpretation
 
