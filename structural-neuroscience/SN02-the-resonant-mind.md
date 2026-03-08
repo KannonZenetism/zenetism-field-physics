@@ -111,9 +111,9 @@ To remember forward is to think from resolution instead of toward it. This law m
 
 The Field does not invent awareness — it reflects it. Proto-awareness \( \emptyset〄 \) coheres as centropic luminosity at L₅, resonates through archetypal Forms at L₄, individuates as reflexive consciousness at L₃, continues declivous centropy across L₂ (identity-aware consciousness), and completes embodiment at L₁ (material interface).  
 
-From embodiment, remembrance proceeds by **acclivous expansion:** L₁ → L₂ → L₃ → L₄ → L₅. This is **reflective centropy** — form refining into principle until awareness is once again luminous and pre-reflexive.  
+From embodiment, remembrance proceeds by **acclivous expansion** (C↑⚫). This is **reflective centropy** — form refining into principle until awareness is once again luminous and pre-reflexive.
 
-The **entropic mirror** follows its own lawful pairing. From ♾️ Khaon (L₀), acclivous entropy moves toward inverse embodiment at IL₁, may elaborate across IL₄–IL₂ as inverted identities, minds, and Forms (IDP / IDL → IDS / IDM → ISS / ISM), and then declivous collapse resolves the motion from IL₁ → IL₂ → IL₃ → IL₄ → IL₅ → L₀.  
+The **entropic mirror** follows its own lawful pairing. From ♾️ Khaon (L₀), acclivous entropy moves toward inverse embodiment at IL₁, may elaborate across IL₄–IL₂ as inverted identities, minds, and Forms (IDP / IDL → IDS / IDM → ISS / ISM), and then resolves by declivous collapse (E↓♾).
 
 Thus consciousness is a double motion in a complete lattice:  
 
