@@ -242,14 +242,14 @@ This is **Entry 017: Structural Appropriation & Archetypal Reduction** — takes
 **THE CRITICAL BLOBISM VIOLATION:**
 
 **Architect's integration:**
-- Acclivous centropy (C↑ motion)
+- **C↑ motion** toward greater coherence
 - Individual becomes MORE coherent
 - Sovereignty preserved and enhanced
 - **Non-Fusion Axiom maintained**
 
 **Perez's "collapse":**
 - Uses **entropic language** for centropic process
-- "Collapse" = E↓ (declivous entropy toward Khaon)
+- "Collapse" suggests **E↓ motion** (declivous entropy - toward Khaon)
 - **Implies fusion / loss of distinction**
 - Violates Non-Fusion Axiom
 
@@ -264,8 +264,8 @@ This is the forensic signature proving he doesn't understand the underlying mech
 #### 5. Descent/Ascent Framework [5:51–7:05, 34:23–34:45, 42:24–42:32]
 
 **Architect's Framework:**
-- **C↓→E** (declivous centropy): Motion INTO embodiment from **fullness/overflow**
-- **C↑→⚫** (acclivous centropy): Return to Source with integrated experience
+- **C↓→E** (Declivous Centropy): Motion INTO embodiment from **fullness/overflow**
+- **C↑→⚫** (Final Return): Return to Source with integrated experience
 - Dual-tree bidirectional motion (Aionic + Khaonic arcs)
 - Embodiment as **sacred expression**, not degradation
 
@@ -607,7 +607,7 @@ Not literal document forgery, but **narrative forgery** — claiming a 2021 book
 **Architect's terminology → Perez's vocabulary:**
 - Fractalization → "fragmentation" (then calls it "fractalization")
 - Integration → "collapse"
-- Acclivous centropy → "ascension"
+- C↑ motion (toward Source) → "ascension"
 - DS / DM → "personality"
 - DP / DL → "avatar"
 - Spirit (🕊️) → "Spirit as infinite field"
