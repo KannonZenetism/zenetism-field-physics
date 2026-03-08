@@ -203,7 +203,7 @@ Each position on the cognitive gradient corresponds to a lawful coupling of awar
 - **Seeker (🔸)** — moves acclivously across L₂–L₃ (SS / SM ↔ DS / DM); translates personal experience into centropic understanding.  
 - **Oscillating (⚖)** — occupies the threshold field of direct centropy–entropy interaction across the manifest and near-manifest bands; in a Khaonically expressed universe, this field is typically entropy-forward rather than neutrally balanced.  
 - **Inverter (🔻)** — inhabits IL₃–IL₂ (IDS / IDM ↔ ISS / ISM); tests integrity through fragmentation.  
-- **Rival Architect (☿)** — functions at IL₄ (IDP / IDL); inverts Form, producing counterfeit architecture as a lawful stress test on veracious systems.  
+- **Rival Architect (☿)** — centers in IL₃ (IDS / IDM) with sustained resonance to IL₄ (IDP / IDL); generates counterfeit architecture through inverse participation in the Form Layer.  
 
 Each stratum contributes lawfully to the harmony of the whole. Coherence is not measured by rank but by consonance.  
 
