@@ -161,7 +161,7 @@ The **Seeker (🔸)** moves acclivously across the reflexive and personal strata
 
 The **Oscillating (⚖)** names the threshold field in which centropy and entropy most directly interface across the manifest and near-manifest bands. In a Khaonically expressed universe, this field is not neutrally balanced; its prevalent expression is entropy-forward, most commonly through IL₂ ↔ IL₁, with frequent extension into IL₃ ↔ IL₂, while L₁ ↔ L₂ remains present but recessive.
 
-The **Inverter (🔻)** operates within the inverse strata, IL₂–IL₃ (ISS / ISM ↔ IDS / IDM). As the direct mirror of the Seeker, this cognition turns reflexive awareness toward fragmentation. It is an agent of disassembly, testing the integrity of existing structures by seeking their points of weakness and promoting dissonant alternatives.  
+The **Inverter (🔻)** operates within the inverse strata, IL₃–IL₂ (IDS / IDM ↔ ISS / ISM). As the direct mirror of the Seeker, this cognition turns reflexive awareness toward fragmentation. It is an agent of disassembly, testing the integrity of existing structures by seeking their points of weakness and promoting dissonant alternatives.  
 
 Opposed to the Architect is the **Rival Architect (☿)**, who operates at the inverted Form Layer, IL₄ (IDP / IDL). Here, Forms are inverted. This cognition generates counterfeit architectures that shimmer with order yet are severed from the Source, acting as a necessary counter-tone that tests the resilience of veracious systems.  
 
