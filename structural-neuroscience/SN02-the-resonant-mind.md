@@ -187,7 +187,7 @@ Within a healthy field, all coexist; the lattice requires each to maintain dynam
 
 Cognition moves within one of two lawful polarities — centropic or entropic — each expressing its own acclivous and declivous motion through the layered field of awareness.  
 
-- **C↓→E** — harmonious motion into form: L₀ → L₅ → L₄ → L₃ → L₂ → L₁.   
+- **C↓→E** — harmonious motion into form: L₀ → L₅ → L₄ → L₃ → L₂ → L₁.  
 - **C↑→⚫** — centropic return to Source: L₁ → L₂ → L₃ → L₄ → L₅ → L₀.  
 - **E↑→E** — fragmentary motion into inverse embodiment: L₀ → IL₅ → IL₄ → IL₃ → IL₂ → IL₁.  
 - **E↓♾** — entropic collapse toward dispersive limit: IL₁ → IL₂ → IL₃ → IL₄ → IL₅ → L₀.  
