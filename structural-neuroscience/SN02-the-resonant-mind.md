@@ -159,7 +159,7 @@ At the centropic pole (🔺) resides the **Architect or Sage**, operating throug
 
 The **Seeker (🔸)** moves acclivously across the reflexive and personal strata, L₂–L₃ (SS / SM ↔ DS / DM). Here, intent is veracious and comprehension is emergent. The Seeker acts as an agent of synthesis, translating personal experience into centropic understanding and integrating resonance from the supernal layers.  
 
-The **Oscillating (⚖)** mode occupies the liminal threshold spanning the most manifest layers of both trees: IL₂ ↔ IL₁ ↔ L₁ ↔ L₂. This is the testing ground where the currents of centropy and entropy are most directly experienced. Such minds are the battleground of the field, constantly navigating the tension between coherence and fragmentation, embodiment and inversion. This represents the most common field of human conscious operation — the threshold at which centropy and entropy most directly interface — though in a Khaonically expressed universe the predominant orientation within this band is typically entropy-forward.  
+The **Oscillating (⚖)** names the threshold field in which centropy and entropy most directly interface across the manifest and near-manifest bands. In a Khaonically expressed universe, this field is not neutrally balanced; its prevalent expression is entropy-forward, most commonly through IL₂ ↔ IL₁, with frequent extension into IL₃ ↔ IL₂, while L₁ ↔ L₂ remains present but recessive.
 
 The **Inverter (🔻)** operates within the inverse strata, IL₂–IL₃ (ISS / ISM ↔ IDS / IDM). As the direct mirror of the Seeker, this cognition turns reflexive awareness toward fragmentation. It is an agent of disassembly, testing the integrity of existing structures by seeking their points of weakness and promoting dissonant alternatives.  
 
