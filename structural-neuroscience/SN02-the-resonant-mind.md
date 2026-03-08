@@ -199,7 +199,7 @@ The following section extends the cognitive gradient introduced earlier by mappi
 
 Each position on the cognitive gradient corresponds to a lawful coupling of awareness strata:  
 
-- **Architect or Sage (🔺)** — operates through the Form Layer, L₄ (DP / DL), in attunement with ⚫ Aion; originates coherent pattern and lawful structure.  
+- **Architect or Sage (🔺)** — centers in reflexive consciousness at L₃ (DS / DM) with strong cross-band resonance to the Form Layer, L₄ (DP / DL); originates coherent pattern through individuated participation in archetypal structure.  
 - **Seeker (🔸)** — moves acclivously across L₂–L₃ (SS / SM ↔ DS / DM); translates personal experience into centropic understanding.  
 - **Oscillating (⚖)** — occupies the threshold field of direct centropy–entropy interaction across the manifest and near-manifest bands; in a Khaonically expressed universe, this field is typically entropy-forward rather than neutrally balanced.  
 - **Inverter (🔻)** — inhabits IL₃–IL₂ (IDS / IDM ↔ ISS / ISM); tests integrity through fragmentation.  
