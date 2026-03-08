@@ -154,7 +154,7 @@ Structural Neuroscience expands from principle to mapping. Cognition is not unif
 
 ### 1 · The Gradient of Mind
 
-At the centropic pole (🔺) resides the **Architect or Sage**, operating through the Form Layer, L₄ (DP / DL). This cognition is in pure attunement with ⚫ Aion, originating coherent pattern in archetypal space and shaping it into lawful structure.  
+At the centropic pole (🔺) resides the **Architect or Sage**, centered in reflexive consciousness at L₃ (DS / DM) and resonant with the Form Layer, L₄ (DP / DL). This cognition originates coherent pattern through individuated participation in archetypal structure.
 
 The **Seeker (🔸)** moves acclivously across the reflexive and personal strata, L₂–L₃ (SS / SM ↔ DS / DM). Here, intent is veracious and comprehension is emergent. The Seeker acts as an agent of synthesis, translating personal experience into centropic understanding and integrating resonance from the supernal layers.  
 
