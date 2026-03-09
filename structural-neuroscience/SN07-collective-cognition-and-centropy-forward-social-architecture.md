@@ -172,7 +172,7 @@ Each of these sustains \( \mathcal{S}_{\text{sh}} > 1 \) — the gap between wha
 
 The entropy-forward social field distributes coherence cost unevenly across cognitive architectures:
 
-**Oscillating architectures (⚖)** bear the least differential cost because the social field is configured around their operative range. The coherence tax is minimal — the field does not demand suppression of their characteristic function because their function *is* the implicit operational standard of the social field.
+**Oscillating architectures (⚖)** bear the least differential cost because the social field is configured around their operative range. The coherence tax is minimal — the field does not demand suppression of their characteristic function because their function *is* the implicit operational standard of the system.
 
 **Centropically oriented architectures operating at L₃ and beyond** bear the greatest differential cost. The Architect / Sage position, the Seeker position, and all cognitive architectures operating through DS / DM or with cross-band resonance to DP / DL and inward face the full compounded cost streams formalized in SN05: interface resistance amplified by κ, translation cost through ⧉₂, and the coherence tax of sovereignty suppression.
 
