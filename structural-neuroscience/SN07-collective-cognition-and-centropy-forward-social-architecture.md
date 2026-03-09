@@ -107,7 +107,7 @@ The social field configuration is a genuine instance of the field configuration 
 
 The social field's aggregate orientation \( \chi_{\text{social}} \) is not the arithmetic mean of its participants' orientations. It is determined by the *operative architecture* of the social field — the structural conditions that govern interaction, exchange, and power distribution within it.
 
-A social field may contain centropically oriented individuals while operating entropically at the collective level. This is the standard condition of the entropy-forward civilization: many centropically oriented beings participating in institutions whose structural architecture is entropic. The individual's orientation does not override the field's operative character. The field imposes its cost streams (SN05 §3) regardless of the orientation of the individuals within it.
+A social field may contain centropically oriented individuals while the social field itself remains entropically configured. This is the standard condition of the entropy-forward civilization: many centropically oriented beings participating in institutions whose structural architecture is entropic. The individual's orientation does not override the field's operative character. The field imposes its cost streams (SN05 §3) regardless of the orientation of the individuals within it.
 
 **Proposition (Field-Individual Orientation Divergence):**
 
