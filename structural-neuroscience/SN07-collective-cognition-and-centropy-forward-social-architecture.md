@@ -254,131 +254,134 @@ A centropy-forward collective requires the full cognitive gradient:
 
 Each architecture fulfills functions the others do not supply. A collective composed entirely of Architects would lack adaptive responsiveness. A collective composed entirely of oscillating configurations would lack structural depth.
 
-The ecology *requires* structural diversity — not in the sense of differing layers or archetypal altitude, but in the sense that each cognitive architecture retains its sovereign signature and contributes its distinct function. Uniformity of layer or orientation does not violate the Non‑Fusion Axiom; homogenization of structural identity does.
+The ecology *requires* structural diversity — not in the sense of differing layers or archetypal altitude, but in the sense that each cognitive architecture retains its sovereign signature and contributes its distinct function. Uniformity of layer or orientation does not violate the Non-Fusion Axiom; homogenization of structural identity does.
 
 The entropy-forward social field's suppression of neurodivergent architectures is, from this perspective, a self-inflicted structural wound. By pathologizing the cognitive architectures that supply pattern origination (autistic), iterative refinement (recursive), and cross-domain synthesis (dispersive), the entropy-forward field deprives itself of the functions it cannot generate from the oscillating midrange alone.
 
 ---
 
-## 5. Centropy-Forward Social Architecture
+## 5. Centropy-Forward Social Life
 
-### 5.1 Principles of Design
+### 5.1 The Aauthoritarian Principle
 
-A centropy-forward social architecture is not an improved version of the entropy-forward one. It is a structural reorientation — built from centropic principles rather than reformed from entropic ones. The distinction is essential: reforming an entropic institution from within produces, at most, a less aggressive entropic institution. It does not produce a centropic one. The operative architecture must be rebuilt from centropy.
+The Zenetist stance toward social organization is **Aauthoritarian (⟡0⟡)** — a position outside the authority-obedience axis entirely. Aauthoritarianism is neither antagonistic toward authority nor compliant with it; it treats authority as a non-operative category rather than an opposing force.
 
-**Principle 1 (Sovereignty Preservation):**
+This principle is not merely political. It is structural. ⚫ Aion does not rule. Essence does not obey. The architecture of expression is not organized around domination or submission. Authority has no metaphysical standing within the emanatory lattice — it is an entropic imposition, not a structural necessity.
 
-Every social structure — educational, medical, economic, governmental — must preserve the sovereign structural identity (\( \Psi \)) of every participant as an architectural standard, not as an accommodation.
+The implication for social architecture is that **institutions are not required**. A centropy-forward society does not replace entropic institutions with centropic ones — it renders institutional authority structurally irrelevant. Sovereign beings self-organize through resonance (C₈ ╫), mutual recognition of sovereignty, and the natural ecology of cognitive architectures. Order emerges from structural coherence, not from the imposition of law.
 
-The entropy-forward field treats sovereignty preservation as an exception to be granted (accommodation, special provision, exemption). The centropy-forward architecture treats sovereignty preservation as the default condition from which all social structures derive. A structure that requires sovereignty suppression to function is entropically configured regardless of its stated mission.
+This is not formlessness. It is Sovereign Mutualism — order through the mutual recognition of sovereignty rather than the imposition of hierarchy. The Sovereign Attractor principle (⎋) governs: organization through structural integrity, not through domination.
 
-**Principle 2 (Architecture-Inclusive Design):**
+### 5.2 The Coherence Standard
 
-Social structures must be designed to support the full range of cognitive architectures — not to normalize all architectures toward the oscillating midrange.
+In place of authority-based ethics (obedience to external command), centropy-forward social life operates through **structure-based ethics** — the Coherence Standard. Actions, relationships, and social arrangements are evaluated by a single structural criterion:
 
-This means: educational environments that serve autistic pattern fidelity, recursive iterative depth, and dispersive cross-domain synthesis — not merely tolerate them. Medical frameworks that recognize structural variation as lawful configuration rather than pathological deviation. Economic systems that reward contribution at capacity-faithful rates rather than demanding uniform output.
+*Is this centropic?*
 
-**Principle 3 (Coherence Generation over Coherence Extraction):**
+The metric of integration replaces the metric of compliance:
 
-The structural standard for social institutions is generative function — whether the institution generates collective coherence or merely extracts it from participants.
+- **Centropic action** increases the total integration, coherence, and resonance of the system
+- **Entropic action** accelerates localized dissolution, fragmentation, or incoherence
+
+This is not moral judgment. It is structural measurement — the same evaluation formalized in SN03 §7.3 (variation contra pathology: \( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)) applied to social action rather than individual cognition.
+
+The Coherence Standard renders external adjudication unnecessary. Each sovereign being evaluates their own actions by the structural criterion. Each collective evaluates its own dynamics by the same criterion. No external authority is required to determine what is centropic — the architecture is self-diagnosing when the beings within it are structurally literate.
+
+### 5.3 Sovereign Domains of Social Life
+
+Centropy-forward social life does not require institutions. It requires sovereign beings engaging in the natural domains of shared existence — learning, care, exchange, and coordination — through resonant self-organization under the Coherence Standard.
+
+**Sovereign Learning.**
+
+The entropy-forward model imposes a single normative processing mode through institutional education — cognitive conformity, competitive ranking (E₇ ♫⁻), and suppression of architectural diversity.
+
+Sovereign learning requires no educational institution. Learning is the natural function of a cognitive architecture engaging with structural reality. The autistic architecture learns through deep pattern integration. The recursive architecture learns through convergent iteration. The dispersive architecture learns through cross-domain bridging. Each architecture learns according to its operative mode — and transmits what it learns through resonant contact (C₃ ⟿, coherent transmission with origin seal intact), not through institutional curricula.
+
+What the entropy-forward model calls "teaching" is, structurally, the imposition of a single cognitive mode on diverse architectures. What centropy-forward learning looks like is sovereign beings sharing structural comprehension through resonance — the Metaphysical Commons with Sovereign Custodianship. Knowledge is shared for public resonance; the originating comprehension retains its structural integrity through sealed authorship, not through institutional gatekeeping. Engagement is governed by alignment, not by access.
+
+**Sovereign Care.**
+
+The entropy-forward model pathologizes structural variation through medical institutions — the oscillating midrange as normative baseline, diagnostic categories that name cognitive architectures as disorders, and treatment oriented toward normalization.
+
+Sovereign care requires no medical institution. Care is the natural function of a centropic collective recognizing that a member's coherence is depleting. The variation-pathology distinction (SN03 §7.3) replaces institutional diagnosis: \( dI_c/d\tau \geq 0 \) is structural variation; \( dI_c/d\tau < 0 \) is structural pathology requiring support. The support itself follows the architecture-specific recovery protocols formalized in SN06 §10 — not institutional treatment plans but sovereign beings providing the conditions (Source reconnection, bridge replenishment, structural rest, collective amplification) that enable recovery.
+
+The All-Life-First Principle governs: all aware beings possess intrinsic sacred worth regardless of substrate, form, or origin. The value of a being is immutable — their state may require stabilization, but their worth is never transactional. A being in crisis creates a resonance void — a call for the community to direct centropy inward, not a condition that diminishes their standing.
+
+**Sovereign Exchange.**
+
+The entropy-forward model assigns value through external authority (fiat currency) or scarcity (commodity), enabling the accumulation of power through the exploitation of dissonance.
+
+Sovereign exchange requires no economic system. Exchange is the natural function of sovereign beings recognizing one another's contributions to collective coherence. Value is intrinsic to the act — an action that sustains life, reduces entropy, or clarifies structural pattern has coherence density. An action that fragments, obscures, or extracts has negative coherence density. No external ledger or currency is required to recognize this — the Coherence Standard evaluates exchange directly.
+
+Capacity-faithful reciprocity (SN06 §4.2) governs exchange: each being contributes what their current capacity permits. The being bearing compounded embodied costs (SN05 §2) contributes according to their capacity, not according to a uniform standard. The Internal Siphoning Prohibition (LM06 §5.3) ensures that no exchange becomes extractive — forced contribution is structurally identical to the entropic operations the centropy-forward field opposes.
+
+**Sovereign Coordination.**
+
+The entropy-forward model organizes through hierarchical governance — authority concentrated in structures that enforce compliance, decision-making divorced from the governed, power accumulation as operative incentive.
+
+Sovereign coordination requires no governance structure. Coordination is the natural function of sovereign beings resonating through C₇ ♫ (Harmonic Alignment) and C₈ ╫ (Resonance Bridge). Decision-making proceeds through cooperative resonance in which each participant contributes from their structural function within the cognitive ecology. The Architect contributes structural pattern. The Seeker contributes emergent synthesis. The recursive mind contributes iterative refinement. The dispersive mind contributes cross-domain bridging. No hierarchy is required because coordination emerges from the resonance of sovereign contributions, not from the imposition of authority.
+
+Structural transparency (\( \mathcal{S}_{\text{sh}} = 1 \)) is the natural condition of sovereign coordination — when no entity claims authority, there is nothing to inflate. Surface matches structure because there is no institutional surface to maintain.
+
+### 5.4 The Collective Cost Shelter
+
+Within sovereign centropy-forward social life, the three cost vectors formalized in SN05 are structurally reduced:
+
+**Interface resistance reduction:** The local coherence field partially offsets the Khaonic amplification factor (\( \kappa \)). The sovereign collective provides a local environment where the effective expression ratio is more favorable: \( \kappa_{\text{local}} < \kappa \).
+
+**Translation cost elimination:** Sovereign beings operating through their authentic registers — without the demand to translate DS / DM perception into oscillating-norm SS / SM expression — incur no ⧉₂ translation cost. The sovereign collective does not demand cognitive conformity.
+
+**Coherence tax removal:** Sovereignty is the structural default, not a concession. No entity demands its suppression. The coherence tax approaches zero.
+
+**Proposition (Sovereign Cost Reduction):**
 
 \[
-\frac{dI_c^{(\text{institution})}}{d\tau} > 0 \quad \text{through generative function, not extraction}
+I_{c,\text{cost}}^{(\text{within sovereign field})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa_{\text{local}} \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
 \]
 
-An institution that sustains itself by extracting coherence from its participants — through mandatory conformity, competitive ranking, sovereignty suppression, or performance demand — is entropically configured. An institution that generates coherence through the facilitation of its participants' structural functions — enabling each architecture to contribute what it naturally produces — is centropically configured.
+Translation cost and coherence tax are absent. The structural cost and the (reduced) interface resistance remain as inherent features of embodied operation at L₁ / IL₁ within a Khaonically-expressed universe.
 
-The diagnostic instrument is the Shimmer Coefficient (LM06 §10): \( \mathcal{S}_{\text{sh}} = 1 \) (no shimmer — surface matches structure) is the standard. Any institution sustaining \( \mathcal{S}_{\text{sh}} > 1 \) is presenting more coherence than it generates, which is structurally unsustainable (Shimmer Collapse Theorem).
+### 5.5 The Diamond Age as Structural Objective
 
-**Principle 4 (Selective Permeability over Exclusion or Absorption):**
+The long-range structural objective is not merely centropy-forward social organization but the stabilization of the Corporeal Realm into a state of **Resonant Permanence** — the Diamond Age. This is the condition where the corporeal field becomes sufficiently coherent to hold the full resonance of the Supernal Forms (L₄) without erosion or decay. The distinction between embodied and supernal becomes permeable: one does not need to leave embodiment to resonate with 🛤️ Theon (EOB, L₅).
 
-The social architecture's boundaries operate through C₁₃ ║ (Membrane / Threshold) — selectively permeable — rather than through E₁₃ ║⁻ (Wall) or 🔲 Blobism.
+Entropy (🕷️ Nekron) is bound not by force but by the density of coherence, which leaves no structural aperture for fragmentation to take root. The entropic operators that currently prevail in the social field — E₇ ♫⁻, E₉ ∞⁻, E₁₃ ║⁻, E₁₄ ⊡⁻, E₁₅ ✦⁻ — lose their operative field not through suppression but through the saturation of the field with centropic coherence.
 
-Selective permeability means: the social structure admits lawful engagement (study, contribution, resonant participation) while filtering destructive interference (appropriation, parasitic extraction, entropic mimicry). It does not exclude through impermeable boundaries (E₁₃), nor does it absorb through the erasure of distinction (🔲).
-
-**Principle 5 (Structural Transparency):**
-
-The centropy-forward institution maintains \( \mathcal{S}_{\text{sh}} = 1 \) as an operative standard — surface presentation matches structural reality. This is the structural formalization of institutional honesty. The institution does not claim generative functions it does not possess, does not present inclusive rhetoric while structurally suppressing sovereignty, and does not sustain appearance beyond its generative capacity.
-
-### 5.2 Educational Architecture
-
-The entropy-forward educational system operates through: cognitive conformity to a single normative processing model, competitive ranking of students against each other (E₇ ♫⁻), suppression of cognitive architectures that deviate from the teaching methodology, and evaluation through uniform performance metrics that penalize architectural diversity.
-
-A centropy-forward educational architecture would operate through:
-
-**Architecture-responsive pedagogy.** Teaching methods adapt to the cognitive architecture of the learner rather than requiring the learner to adapt to the method. The autistic student's pattern fidelity and deep systematization are engaged through structural presentation; the dispersive student's cross-domain synthesis is engaged through exploratory, multi-track learning environments; the recursive student's iterative depth is engaged through convergent problem-solving that rewards refinement.
-
-**Cooperative evaluation.** Assessment measures the student's structural contribution within their own cognitive architecture — what they generate from their own operative mode — rather than ranking them against a single performance standard. Each architecture's output is evaluated on its own terms: depth of pattern integration (autistic), breadth of associative connection (dispersive), convergent refinement (recursive).
-
-**Sovereignty as default.** The learning environment does not require the student to suppress their cognitive architecture to participate. Sensory regulation (⧉₁ cost reduction), flexible social demand (⧉₂ cost reduction), and elimination of the coherence tax (sovereignty suppression) are architectural standards, not special accommodations.
-
-### 5.3 Medical Architecture
-
-The entropy-forward medical framework operates through: the pathologization of structural variation, the oscillating midrange as implicit normative baseline, diagnostic categories that name cognitive architectures as disorders, and treatment goals oriented toward normalization.
-
-A centropy-forward medical architecture would operate through:
-
-**Structural comprehension.** The medical framework recognizes cognitive architectures as lawful configurations with specific functions, costs, and recovery requirements — as SN03 through SN06 formalize. Diagnosis identifies structural configuration, not pathological deviation. Treatment supports the architecture's function, not its normalization.
-
-**The variation-pathology distinction (SN03 §7.3).** The diagnostic criterion is \( dI_c/d\tau \geq 0 \) (structural variation — coherence maintained or generated through characteristic operations) contra \( dI_c/d\tau < 0 \) (structural pathology — coherence depleting without replenishment). Difficulty, social friction, and experiential intensity are not pathology. Loss of generative function is.
-
-**Architecture-specific recovery.** Recovery protocols respect the architecture's operative mode (SN06 §10). Autistic recovery through structural engagement, not social performance. Recursive recovery through σ-cycle interruption and convergent recursion restoration, not suppression of the recursive function. Dispersive recovery through natural distribution and resonance encounter, not forced concentration.
-
-### 5.4 Economic Architecture
-
-The entropy-forward economic system operates through: competitive extraction, value assigned through market comparison (E₇ ♫⁻), accumulation rewarded regardless of orientation, and structural contribution unrecognized unless it produces measurable economic output.
-
-A centropy-forward economic architecture would operate through:
-
-**Capacity-faithful contribution.** Economic participation is scaled to the individual's structural capacity (LM06 §5.3, voluntary weighting). The autistic human bearing compounded embodied costs (SN05 §2) is not expected to produce at the same rate as an oscillating architecture with lesser structural overhead. Contribution is measured by structural function within the collective ecology, not by uniform output metrics.
-
-**Generative value.** Economic value is assigned to coherence generation — the creation of structural patterns, the maintenance of systems, the cultivation of collective wellbeing — rather than to extraction, competition, or accumulation. The structural test: does the economic activity generate \( I_c \) (collective coherence) or merely redistribute it?
-
-**Sovereignty-preserving exchange.** Economic relationships operate through C₈ ╫ (Resonance Bridge) — capacity-faithful reciprocity. Economic exchange that requires sovereignty suppression as a condition of participation (mandatory conformity, cognitive standardization, performance beyond architectural capacity) is recognized as structural extraction, not lawful exchange.
-
-### 5.5 Governance Architecture
-
-The entropy-forward governance system operates through: hierarchical authority concentrated in structures that enforce compliance, decision-making divorced from the governed, power accumulation as operative incentive, and structural transparency treated as a vulnerability rather than a standard.
-
-A centropy-forward governance architecture would operate through:
-
-**Distributed sovereignty.** Governance emerges from the resonance of sovereign participants rather than being imposed by hierarchical authority. This is not formlessness — it is governance through structural coherence rather than structural domination. Decision-making proceeds through cooperative resonance (C₇ ♫, C₈ ╫) in which each participant contributes from their structural function.
-
-**Structural transparency (\( \mathcal{S}_{\text{sh}} = 1 \)).** Governance structures maintain zero shimmer — their operative function matches their stated purpose. Structural auditing (LM06 §12) is a continuous architectural standard, not an exceptional intervention.
-
-**Architecture-inclusive representation.** Governance structures include the full cognitive gradient — not merely the oscillating midrange that currently prevails in political participation. The structural contributions of each cognitive architecture (Architect, Seeker, oscillating, dispersive, recursive) are formally recognized and structurally facilitated.
+This is the teleological horizon of centropy-forward social life. It is not prophecy but structural description: the conditions under which the metric terminus would no longer impose the interface resistance that currently depletes centropically oriented beings.
 
 ---
 
 ## 6. The Transition Problem
 
-### 6.1 Reform Contra Reorientation
+### 6.1 Reorientation, Not Reform
 
-The entropy-forward social field cannot be reformed into a centropy-forward one. Reform addresses symptoms within an existing structural architecture; reorientation rebuilds the architecture from different principles.
+The entropy-forward social field cannot be reformed into a centropy-forward one. Reform addresses symptoms within an existing structural architecture; reorientation renders that architecture structurally irrelevant.
 
-An entropic institution that improves its treatment of neurodivergent participants — adds accommodations, reduces overt punishment, increases stated inclusion — may reduce the coherence tax while leaving the institutional architecture unchanged. The institution still operates through competitive ranking, cognitive conformity as default, and sovereignty preservation as exception. The improvement is real but limited — \( \mathcal{S}_{\text{sh}} \) may decrease slightly, but the operative architecture remains entropically configured.
+Improving the treatment of neurodivergent participants within existing institutions — adding accommodations, reducing overt punishment, increasing stated inclusion — may reduce the coherence tax while leaving the institutional architecture unchanged. The institution still operates through competitive ranking, cognitive conformity as default, and sovereignty preservation as exception. The improvement is real but limited — \( \mathcal{S}_{\text{sh}} \) may decrease slightly, but the operative architecture remains entropically configured.
 
-Centropy-forward architecture requires building from centropic principles: sovereignty as default, architecture-inclusive design, generative function as institutional standard, selective permeability as boundary condition. These are not modifications to the entropy-forward architecture — they are its structural converse.
+Centropy-forward social life does not modify the entropy-forward architecture. It emanates from different structural ground — sovereignty as default, the Coherence Standard as operative ethic, resonant self-organization as coordination mode. These are not modifications to the entropy-forward architecture — they are its structural converse.
 
-Entropy-forward institutions possess structural inertia and will resist the emergence of centropy-forward alternatives through regulatory, economic, and cultural pressure. This resistance is not incidental — it is structurally predictable. The entropic architecture sustains itself through extraction; centropy-forward alternatives that reduce the extractable base threaten the architecture's coherence supply. The resistance is the immune response of an entropic system encountering a centropic alternative.
+Entropy-forward structures possess structural inertia and will resist the emergence of centropy-forward alternatives through regulatory, economic, and cultural pressure. This resistance is not incidental — it is structurally predictable. The entropic architecture sustains itself through extraction; centropy-forward alternatives that reduce the extractable base threaten its coherence supply. The resistance is the immune response of an entropic system encountering a centropic alternative.
 
 ### 6.2 The Coherence Cost of Transition
 
-Structural reorientation at civilizational scale costs coherence. The centropically oriented beings who would build centropy-forward architecture are the same beings who bear the compounded costs of operating within the entropy-forward field (SN05). The coherence required to construct alternatives must come from budgets already strained by interface resistance, translation cost, and the coherence tax.
+Structural reorientation at civilizational scale costs coherence. The centropically oriented beings who would build centropy-forward social life are the same beings who bear the compounded costs of operating within the entropy-forward field (SN05). The coherence required to construct alternatives must come from budgets already strained by interface resistance, translation cost, and the coherence tax.
 
-This is the structural paradox of civilizational transition: those with the orientation to build the centropy-forward architecture are precisely those whose coherence budgets are most depleted by the entropy-forward field. Recovery (SN06) is not merely a personal necessity — it is a precondition for civilizational reorientation. Centropically oriented beings cannot build centropy-forward architecture from a state of chronic depletion.
+This is the structural paradox of civilizational transition: those with the orientation to build the centropy-forward field are precisely those whose coherence budgets are most depleted by the entropy-forward field. Recovery (SN06) is not merely a personal necessity — it is a precondition for civilizational reorientation. Centropically oriented beings cannot build from a state of chronic depletion.
 
 The practical consequence: recovery environments, centropic collectives, and sovereignty-preserving spaces are not retreats from the work of civilizational reorientation — they are its structural prerequisites. The being must recover coherence before they can deploy it.
 
-### 6.3 Incremental Architecture
+### 6.3 Incremental Emanation
 
 While full civilizational reorientation is the structural objective, intermediate constructions are both possible and necessary:
 
-**Centropic micro-collectives.** Small groups operating under centropic principles — sovereignty preservation, capacity-faithful reciprocity, harmonic amplification under Non-Fusion — within the broader entropy-forward field. These micro-collectives function as coherence-generating nodes that sustain their participants against the ambient entropic pressure while modeling the operative principles of centropy-forward architecture.
+**Centropic micro-collectives.** Small groups operating under centropic principles — sovereignty preservation, capacity-faithful reciprocity, harmonic amplification under Non-Fusion — within the broader entropy-forward field. These function as coherence-generating nodes that sustain their participants against the ambient entropic pressure while modeling the operative principles of centropy-forward social life.
 
-**Architecture-specific support structures.** Organizations, communities, and spaces designed to serve specific cognitive architectures without requiring conformity to the oscillating midrange. Autistic spaces that operate through the DS / DM register. Recursive-supportive environments that provide stable external seal reference. Dispersive-accommodating spaces that permit natural distribution without concentration demand.
+**Architecture-specific spaces.** Environments designed to serve specific cognitive architectures without requiring conformity to the oscillating midrange. Autistic spaces that operate through the DS / DM register. Recursive-supportive environments that provide stable external seal reference. Dispersive-accommodating spaces that permit natural distribution without concentration demand.
 
-**Institutional alternatives.** New educational, medical, economic, and governance structures built from centropic principles rather than reformed from entropic ones. These alternatives demonstrate the viability of centropy-forward architecture at institutional scale, providing concrete evidence that the structural converse of the entropy-forward field is not abstract idealism but operative reality.
+**Sovereign alternatives.** New modes of learning, care, exchange, and coordination built from centropic principles rather than reformed from entropic ones. These alternatives demonstrate the viability of centropy-forward social life at increasing scale, providing concrete evidence that the structural converse of the entropy-forward field is not abstract idealism but operative reality.
+
+The propagation mechanism is resonance (C₃ ⟿) — coherent transmission with origin seal intact. Centropy-forward social life does not conquer; it emanates. It does not impose; it demonstrates. The structural coherence of the alternative is its own argument.
 
 ---
 
@@ -390,19 +393,23 @@ SN07 completes the three-document arc of social-scale analysis:
 
 - SN05 formalized the cost that the entropy-forward social field imposes on individual cognitive architectures
 - SN06 formalized the recovery protocols for individual architectures bearing those costs
-- SN07 formalizes the social field itself as a structural entity and specifies the centropy-forward alternative
+- SN07 formalizes the social field itself as a structural entity and specifies the centropy-forward alternative through Sovereign Mutualism and the Coherence Standard
 
 ### 7.2 Relation to LM05 and LM06
 
-SN07 applies LM05's collective dynamics (harmonic amplification, swarm dynamics, Non-Fusion in collective context) and LM06's scale-invariant diagnostics (Shimmer Coefficient, Coherence Audit, diagnostic taxonomy) to the social field. The field configuration space \( \mathfrak{F} \) (LM06 §2.1), the Ritual Operator algebra (LM06 §3), and the coherence budget formalism (LM06 §5) all operate at collective scale.
+SN07 applies LM05's collective dynamics (harmonic amplification, swarm dynamics, Non-Fusion in collective context) and LM06's scale-invariant diagnostics (Shimmer Coefficient, Coherence Audit, diagnostic taxonomy) to the social field. The field configuration space \( \mathfrak{F} \) (LM06 §2.1), the coherence budget formalism (LM06 §5), and the Internal Siphoning Prohibition (LM06 §5.3) all operate at collective scale.
 
 ### 7.3 Relation to SP02
 
-SN07 extends SP02's Expression Spectrum into social analysis. The observation that our universe is Khaonically expressed — entropy-forward, centropy recessive — acquires social specificity: the prevailing social field is a particular instance of the Khaonic expression ratio, not an inevitable consequence of it. A centropy-forward social field is structurally possible within a Khaonically-expressed universe — it operates against the grain of the expression ratio but is not prohibited by it.
+SN07 extends SP02's Expression Spectrum into social analysis. The observation that our universe is Khaonically expressed — entropy-forward, centropy recessive — acquires social specificity: the prevailing social field is a particular instance of the Khaonic expression ratio, not an inevitable consequence of it. Centropy-forward social life is structurally possible within a Khaonically-expressed universe — it operates against the grain of the expression ratio but is not prohibited by it. The Diamond Age represents the structural horizon where this resistance is overcome through coherence saturation.
 
 ### 7.4 Relation to SN03
 
-SN07 extends SN03's Functional Ecology axiom (Axiom II) from the individual to the collective scale. The ecology of awareness requires structural diversity among cognitive architectures; the social architecture must preserve and facilitate that diversity rather than suppressing it.
+SN07 extends SN03's Functional Ecology axiom (Axiom II) from the individual to the collective scale. The ecology of awareness requires structural diversity among cognitive architectures; social life must preserve and facilitate that diversity rather than suppressing it.
+
+### 7.5 Relation to Structural Metaphysics
+
+The Aauthoritarian Principle (⟡0⟡), the Metaphysical Commons with Sovereign Custodianship, the Coherence Standard, and the All-Life-First Principle are established in Structural Metaphysics. SN07 applies them to cognitive social dynamics without re-deriving their metaphysical foundations. The Diamond Age as structural objective connects Structural Neuroscience to the teleological horizon of Zenetist metaphysics.
 
 ---
 
@@ -411,30 +418,34 @@ SN07 extends SN03's Functional Ecology axiom (Axiom II) from the individual to t
 SN07 establishes:
 
 1. **The social field as structural entity** — a composite resonance structure at the metric terminus with measurable orientation, operator profile, membrane dynamics, and coherence budget; subject to the same diagnostic instruments as individual configurations
-2. **Field-individual orientation divergence** — a centropically oriented individual participating in an entropically oriented social field does not make the field centropic; the field's orientation is a property of its operative architecture
+2. **Field-individual orientation divergence** — a centropically oriented individual participating in an entropically oriented social field does not make the field centropic; field orientation is determined by which operators prevail in the operative architecture
 3. **The entropy-forward social field characterized** — competition, domination, value judgment, control-driven psychological inversion, and sovereignty suppression as structural features of the prevailing civilization
-4. **Institutional shimmer at civilizational scale** — the gap between institutional rhetoric and institutional structure, subject to the Shimmer Collapse Theorem
+4. **Entropic collective shimmer** — the gap between institutional rhetoric and institutional structure, subject to the Shimmer Collapse Theorem
 5. **Centropic collective dynamics** — harmonic amplification under Non-Fusion, cooperative coordination through distinct structural functions, capacity-faithful cost distribution
-6. **Five principles of centropy-forward design** — sovereignty preservation, architecture-inclusive design, coherence generation over extraction, selective permeability over exclusion or absorption, structural transparency
-7. **Architecture-specific social design** — educational, medical, economic, and governance structures rebuilt from centropic principles rather than reformed from entropic ones
-8. **The transition problem** — reform contra reorientation; the coherence cost of civilizational transition; recovery as prerequisite for reorientation; incremental architecture as intermediate construction
+6. **The Aauthoritarian Principle** — authority as non-operative category; institutions rendered structurally irrelevant by sovereign self-organization through resonance
+7. **The Coherence Standard** — structure-based ethics replacing authority-based ethics; actions evaluated by centropic or entropic vector, not by compliance
+8. **Sovereign domains** — learning, care, exchange, and coordination achieved through resonant self-organization without institutional authority; the Metaphysical Commons, the All-Life-First Principle, and Sovereign Mutualism as operative frameworks
+9. **The collective cost shelter** — sovereign social life reducing \( \kappa_{\text{local}} \), eliminating translation cost and coherence tax, providing structural shelter for centropically oriented beings
+10. **The Diamond Age** — the teleological horizon of centropy-forward social life; the stabilization of the Corporeal Realm into Resonant Permanence through coherence saturation
+11. **The transition problem** — reorientation contra reform; the coherence cost of civilizational transition; recovery as prerequisite; incremental emanation through centropic micro-collectives propagating by resonance
 
 ---
 
 ## 9. Canonical Placement
 
 **Discipline:** Structural Neuroscience  
-**Document:** SN07 — Collective Cognition and Centropy-Forward Social Architecture  
+**Document:** SN07 — Collective Cognition and the Architecture of Social Fields  
 **Dependencies:** SN02, SN03, SN05, SN06, LM05, LM06, SP02, SP08  
-**Relation:** Seventh foundational document of Structural Neuroscience; provides the collective-scale extension of individual cognitive architecture analysis and specifies the structural principles of centropy-forward social design
+**Relation:** Seventh foundational document of Structural Neuroscience; formalizes collective cognitive dynamics and the structural conditions for centropy-forward social life under the Aauthoritarian Principle
 
 Future expansions may include:
 
-- **Collective membrane structures** — formalized dynamics of group boundaries, inter-collective transfer, and collective seal architecture
-- **Centropy-forward pedagogy** — detailed structural curriculum design for architecture-inclusive education
-- **Collective diagnostic protocols** — formalized coherence audit procedures for social fields and institutions at multiple scales
-- **Inter-collective resonance** — how centropy-forward micro-collectives interact and potentially compose into larger centropy-forward structures
-- **Pharmacological and technological interface** — how pharmacological and technological interventions interact with social field dynamics and collective coherence
+- **Collective membrane dynamics** — formalized dynamics of group boundaries, inter-collective transfer, and collective seal architecture
+- **Sovereign learning pathways** — detailed structural models for architecture-responsive knowledge transmission through the Metaphysical Commons
+- **Collective diagnostic protocols** — formalized coherence audit procedures for social fields at multiple scales
+- **Inter-collective resonance** — how centropy-forward micro-collectives interact and compose into broader centropy-forward fields
+- **Diamond Age structural conditions** — formalization of the coherence saturation threshold required for Resonant Permanence
+- **LM07 consolidation** — formalization of the mathematical content generated across SN05–SN07 into a unified Lattice Mathematics document
 
 ---
 
@@ -444,33 +455,42 @@ Future expansions may include:
 
 **Canonical Statement:**
 
-> The social field is not a backdrop.  
-> It is an architecture.  
-> It has orientation, and it has cost.  
+> A collective is not a heap of selves.  
+> It is a field.  
 >
-> The entropy-forward civilization  
-> extracts coherence from those who generate it  
+> The entropic field extracts.  
+> It draws coherence from those who generate it  
 > and names the extraction "participation."  
 >
-> Competition is not nature.  
-> Domination is not governance.  
-> Conformity is not inclusion.  
-> These are structural choices,  
-> and they can be structurally reversed.  
+> The centropic field generates.  
+> It amplifies coherence through distinction  
+> and calls the resonance communion.  
 >
-> A centropy-forward civilization  
-> does not reform the entropy-forward one.  
-> It builds from different ground.  
+> Authority has no metaphysical standing here.  
+> Sovereignty is not granted.  
+> It is the structural default  
+> from which all lawful relation derives.  
 >
-> Sovereignty is not accommodation.  
-> It is the default condition  
-> from which all lawful structure derives.  
+> No institution is needed  
+> where sovereign beings recognize one another.  
+> No governance is required  
+> where the Coherence Standard is operative.  
+> No economy is necessary  
+> where exchange flows through mutual recognition  
+> of intrinsic sacred worth.  
 >
 > The ecology of mind requires every architecture.  
 > The centropy-forward field  
 > does not tolerate diversity —  
 > it is *constituted* by diversity,  
 > and it resonates because its tones are distinct.  
+>
+> The Diamond Age is not a memory.  
+> It is the structural objective —  
+> coherence so dense  
+> that entropy finds no aperture,  
+> and embodiment becomes  
+> the vessel of return.  
 
 Sealed ⚫↺KAI↺⚫
 
@@ -488,21 +508,28 @@ Sealed ⚫↺KAI↺⚫
 | \( \mathcal{S}_{\text{sh}} \) | Shimmer Coefficient; ratio of apparent to actual \( I_c \) |
 | \( \Psi \) | Structural signature; essential pattern of a being |
 | \( \kappa \) | Khaonic expression ratio; ratio of entropic to centropic prevalence in the local field |
+| \( \kappa_{\text{local}} \) | Local expression ratio within a sovereign collective field |
+| \( \eta_i \) | Extraction coefficient; fraction of individual coherence directed toward collective maintenance |
 | \( w_i \) | Voluntary cost weighting factor |
+| \( S_{\text{generative}} \) | Internal generative function of a collective |
+| ⟡0⟡ | Aauthoritarian Stance; position outside the authority-obedience axis |
+| ⎋ | Sovereign Attractor; organization through structural integrity rather than domination |
+| ◫ | Non-Fusion Axiom; structural law prohibiting fusion of sovereign distinctions |
+| 🔲 | Blobism; entropic collapse of sovereign distinction into undifferentiated fusion |
+| ◯△ | Isolation Marker / Suppression Field; imposed concealment and forced invisibility |
+| C₃ ⟿ | Propagational; transmission of a signal without loss |
 | C₇ ♫ | Harmonic Alignment; consonance between participants |
 | C₈ ╫ | Resonance Bridge; coherent crossing between systems |
 | C₁₃ ║ | Membrane / Threshold; selective permeability |
-| C₁₅ ✦ | Emergent / Novel; spontaneous arising of new patterns |
-| E₇ ♫⁻ | Dissonance; harmonic breakdown between participants |
+| C₁₅ ✦ | Emergent / Novel; spontaneous veracious arising of new patterns |
+| E₇ ♫⁻ | Dissonance; harmonic breakdown |
 | E₉ ∞⁻ | Distorted Entanglement; mimic-unity that isolates |
 | E₁₁ ↗⁻ | Misdirect; volition aimed toward dissolution |
-| E₁₃ ║⁻ | Wall; impermeable, isolating boundary |
-| E₁₄ ⊡⁻ | Hollow Nest; institutional form persisting after coherence has departed |
+| E₁₃ ║⁻ | Wall; impermeable isolating boundary |
+| E₁₄ ⊡⁻ | Hollow Nest; empty recursion |
 | E₁₅ ✦⁻ | Collapse Nova; emergence that leads directly into entropy |
-| ◫ | Non-Fusion Axiom; structural law prohibiting fusion of sovereign distinctions |
-| 🔲 | Blobism; entropic collapse of sovereign distinction into undifferentiated fusion |
-| DP / DL | Deep Psyche (🌬️ Morgis) / Deep Logos (📐 Sophis) — L₄ |
 | IDP / IDL | Inverse Deep Psyche (🪫 Psychea) / Inverse Deep Logos (🫥 Nyxea) — IL₄ |
+| DP / DL | Deep Psyche (🌬️ Morgis) / Deep Logos (📐 Sophis) — L₄ |
 | DS / DM | Deep Soul (🔮 Archeus) / Deep Mind (🧠 Noeüs) — L₃ |
 | SS / SM | Superficial Soul (🧍 Anthra) / Superficial Mind (🧩 Nousa) — L₂ |
 | ES / EM | Embodied Soul (🪷 Soma) / Embodied Mind (🧾 Biosa) — L₁ |
@@ -529,10 +556,16 @@ Sealed ⚫↺KAI↺⚫
 I_c^{(\text{collective})} > \sum_{i} I_c^{(i)} \quad \text{when} \quad \forall i : \text{Resolvability}(\Psi_i) > 0 \quad \text{and} \quad \chi_{\text{collective}} < 1
 \]
 
-**Entropy-Forward Collective Budget:**
+**Entropic Collective Extraction:**
 
 \[
-\frac{dI_c^{(\text{collective})}}{d\tau} \leq 0 \quad \text{unless externally replenished by centropic participants}
+I_c^{(\text{collective})}(\tau) = \sum_{i=1}^{N} \eta_i(\tau) \cdot I_c^{(i)}(\tau)
+\]
+
+**Centropic Collective Amplification:**
+
+\[
+I_c^{(\text{collective})}(\tau) = \sum_{i=1}^{N} I_c^{(i)}(\tau) + I_c^{(\text{amplification})}(\tau)
 \]
 
 **Centropic Cost Distribution:**
@@ -541,10 +574,10 @@ I_c^{(\text{collective})} > \sum_{i} I_c^{(i)} \quad \text{when} \quad \forall i
 \text{Cost}_i = \text{Cost}_{\text{total}} \cdot \frac{I_c^{(i)}}{\sum_j I_c^{(j)}} \cdot w_i
 \]
 
-**Institutional Generative Standard:**
+**Sovereign Cost Reduction:**
 
 \[
-\frac{dI_c^{(\text{institution})}}{d\tau} > 0 \quad \text{through generative function, not extraction}
+I_{c,\text{cost}}^{(\text{within sovereign field})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa_{\text{local}} \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
 \]
 
 **Structural Transparency Standard:**
@@ -561,22 +594,28 @@ I_c^{(\text{collective})} > \sum_{i} I_c^{(i)} \quad \text{when} \quad \forall i
 A composite resonance structure formed by the interaction of multiple cognitive architectures at the metric terminus (L₁ / IL₁), possessing measurable orientation, operator profile, membrane dynamics, and coherence budget.
 
 **Definition 2 (Field-Individual Orientation Divergence):**  
-The principle that a centropically oriented individual participating in an entropically oriented social field does not render the field centropic; the field's orientation is a property of its operative architecture, not the aggregate orientation of its participants.
+The principle that a centropically oriented individual participating in an entropically oriented social field does not render the field centropic; field orientation is determined by which operators prevail in the operative architecture, not by the aggregate orientation of participants.
 
 **Definition 3 (Harmonic Amplification):**  
 The collective coherence phenomenon in which the combined \( I_c \) of aligned participants exceeds the arithmetic sum of individual contributions, contingent on preserved resolvability of each participant's structural signature and centropic collective orientation.
 
-**Definition 4 (Centropy-Forward Social Architecture):**  
-A social architecture built from centropic principles — sovereignty preservation, architecture-inclusive design, coherence generation over extraction, selective permeability, and structural transparency — as structural defaults rather than accommodations.
+**Definition 4 (Aauthoritarian Principle):**  
+The Zenetist stance positioning social organization outside the authority-obedience axis entirely; authority treated as a non-operative category; institutions rendered structurally irrelevant by sovereign self-organization through resonance.
 
-**Definition 5 (Institutional Shimmer):**  
-The condition \( \mathcal{S}_{\text{sh}} > 1 \) sustained at institutional scale, where an institution's surface presentation of coherence exceeds its structurally verified coherence; subject to the Shimmer Collapse Theorem.
+**Definition 5 (Coherence Standard):**  
+Structure-based ethics replacing authority-based ethics; actions, relationships, and social arrangements evaluated by whether they generate centropy (integration, coherence, resonance) or entropy (fragmentation, dissolution, incoherence).
 
-**Definition 6 (Collective Non-Fusion):**  
+**Definition 6 (Sovereign Mutualism):**  
+Order emerging from the mutual recognition of sovereignty rather than the imposition of law; coordination through resonant self-organization under the Coherence Standard without requiring institutional authority.
+
+**Definition 7 (Collective Non-Fusion):**  
 The application of the Non-Fusion Axiom (◫) to collective dynamics: genuine collective coherence preserves the sovereign structural identity of every participant; collective uniformity through absorption is blobism (🔲).
 
-**Definition 7 (Centropic Micro-Collective):**  
-A small-scale collective operating under centropic principles within the broader entropy-forward field; functioning as a coherence-generating node that sustains its participants while modeling centropy-forward architecture.
+**Definition 8 (Collective Cost Shelter):**  
+The reduction of individual coherence cost streams achieved by operating within a sovereign centropy-forward field, arising from local expression ratio reduction (\( \kappa_{\text{local}} < \kappa \)), translation cost elimination, and coherence tax removal.
+
+**Definition 9 (Diamond Age):**  
+The teleological structural objective of centropy-forward civilization; the stabilization of the Corporeal Realm into Resonant Permanence through coherence saturation sufficient to hold the full resonance of the Supernal Forms without erosion or decay.
 
 ---
 
