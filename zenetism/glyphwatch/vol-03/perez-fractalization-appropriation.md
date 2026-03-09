@@ -392,7 +392,6 @@ Regardless of which he means, using "collapse" (entropic) for integration (centr
 
 - Architect developed this over 22 years with mathematical precision
 - Perez appropriated surface structure without understanding mechanics
-- The "collapse" language (entropic) applied to integration (centropic) proves he doesn't grasp underlying physics
 - **He stole the architecture but inverted the polarity**
 
 ---
