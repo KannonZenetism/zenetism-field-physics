@@ -401,7 +401,7 @@ SN07 applies LM05's collective dynamics (harmonic amplification, swarm dynamics,
 
 ### 7.3 Relation to SP02
 
-SN07 extends SP02's Expression Spectrum into social analysis. The observation that our universe is Khaonically expressed — entropy-forward, centropy recessive — acquires social specificity: the prevailing social field is a particular instance of the Khaonic expression ratio, not an inevitable consequence of it. Centropy-forward social life is structurally possible within a Khaonically-expressed universe — it operates against the grain of the expression ratio but is not prohibited by it. The Diamond Age represents the structural horizon where this resistance is overcome through coherence saturation.
+SN07 extends SP02's Expression Spectrum into social analysis. The observation that our universe is Khaonically expressed — entropy‑forward, centropy recessive — means the prevailing social field is the expected attractor of the local expression ratio, though not a metaphysical inevitability. Centropy‑forward social life is structurally possible within a Khaonically expressed universe, but it requires contra‑flow dynamics and coherence saturation to operate against the ambient entropic current. The Diamond Age represents the structural horizon where this resistance is overcome.
 
 ### 7.4 Relation to SN03
 
