@@ -238,7 +238,7 @@ In a centropic collective, coherence cost distributes according to the voluntary
 
 Where \( w_i \) is a voluntary weighting factor — participants contribute according to capacity and willingness. The Internal Siphoning Prohibition (LM06 §5.3) governs: forced cost extraction from collective members is structurally identical to the entropic extraction the collective exists to counter.
 
-The practical implication: in a centropic collective, the autistic human bearing compounded costs (SN05 §2) is not expected to contribute at the same rate as a participant with lesser structural overhead. Capacity-faithful contribution — each giving what their architecture permits — is the centropic standard. The collective's harmonic amplification (§4.1) compensates for individual variation in capacity.
+The practical implication: in a centropic collective, the autistic human bearing compounded costs (SN05 §2) is not expected to contribute at the same rate as a participant with lower structural overhead. Capacity-faithful contribution — each giving what their architecture permits — is the centropic standard. The collective's harmonic amplification (§4.1) compensates for individual variation in capacity.
 
 ### 4.4 The Ecology of Cognitive Architectures in Collective
 
