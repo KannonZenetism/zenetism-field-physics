@@ -47,7 +47,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Status:** Canonical Draft v1.0  
 **Dependencies:** SN02 (The Resonant Mind), SN03 (Neurodivergent Cognition and the Architecture of Mind), SN05 (The Metric Cost of Centropic Cognition), SN06 (Coherence Recovery Protocols), LM05 (Resonance Field Theory, Membrane Operators, and Collective Dynamics), LM06 (Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism), SP02 (Bifurcal Cosmogenesis), SP08 (Membrane Fields and Inter-Expression Dynamics)  
 **License:** Creative Commons BY-NC-SA 4.0  
-**SHA-256:** 76b6d8f9f8506dc3cf93c60f5a74df1c3f5d25491e6a8ddcb00e84010dbf3513
+**SHA-256:** 76b6d8f9f8506dc3cf93c60f5a74df1c3f5d25491e6a8ddcb00e84010dbf3513  
 
 ---
 
@@ -115,7 +115,7 @@ A social field may contain centropically oriented individuals while operating en
 \chi_{\text{individual}} < 1 \;\not\!\!\!\implies \chi_{\text{social}} < 1
 \]
 
-The centropically oriented individual participating in an entropically oriented social field does not make the social field centropic. The social field's orientation is a property of its operative architecture — its rules, incentives, power structures, and enforcement mechanisms — not of the aggregate orientation of its participants.
+The centropically oriented individual participating in an entropically oriented social field does not make the social field centropic. The social field's orientation is a property of its operative architecture — its rules, incentives, power structures, and enforcement mechanisms — not of the aggregate orientation of its participants. Field orientation is determined by which operators prevail in the institutional architecture, not by the individual orientations of the beings operating within it.
 
 ### 2.3 The Operator Profile of Social Fields
 
@@ -132,8 +132,10 @@ Social fields exhibit dimensional operator activity at collective scale:
 
 - E₇ ♫⁻ (Dissonance): the social field generates harmonic breakdown between participants — competition, antagonism, and structural hostility
 - E₉ ∞⁻ (Distorted Entanglement): the social field creates mimic-unity that isolates — apparent connection that produces dependency and extraction rather than mutual coherence
+- E₁₁ ↗⁻ (Misdirect): the social field directs volition toward dissolution — cultural systems that frame entropic outcomes as desirable
 - E₁₃ ║⁻ (Wall): the social field enforces impermeable boundaries — exclusion, erasure, and the suppression of structural visibility
 - E₁₄ ⊡⁻ (Hollow Nest): the social field sustains institutional form after coherence has departed — structures that persist through inertia rather than generative function
+- E₁₅ ✦⁻ (Collapse Nova): the social field produces emergence that leads directly into entropy — disruptive innovation, institutional rebranding, and structural "progress" that accelerates systemic fragmentation while presenting as novelty
 
 ---
 
@@ -342,7 +344,7 @@ A centropy-forward governance architecture would operate through:
 
 **Structural transparency (\( \mathcal{S}_{\text{sh}} = 1 \)).** Governance structures maintain zero shimmer — their operative function matches their stated purpose. Structural auditing (LM06 §12) is a continuous architectural standard, not an exceptional intervention.
 
-**Architecture-inclusive representation.** Governance structures include the full cognitive gradient — not merely the oscillating midrange that currently dominates political participation. The structural contributions of each cognitive architecture (Architect, Seeker, oscillating, dispersive, recursive) are formally recognized and structurally facilitated.
+**Architecture-inclusive representation.** Governance structures include the full cognitive gradient — not merely the oscillating midrange that currently prevails in political participation. The structural contributions of each cognitive architecture (Architect, Seeker, oscillating, dispersive, recursive) are formally recognized and structurally facilitated.
 
 ---
 
@@ -355,6 +357,8 @@ The entropy-forward social field cannot be reformed into a centropy-forward one.
 An entropic institution that improves its treatment of neurodivergent participants — adds accommodations, reduces overt punishment, increases stated inclusion — may reduce the coherence tax while leaving the institutional architecture unchanged. The institution still operates through competitive ranking, cognitive conformity as default, and sovereignty preservation as exception. The improvement is real but limited — \( \mathcal{S}_{\text{sh}} \) may decrease slightly, but the operative architecture remains entropically configured.
 
 Centropy-forward architecture requires building from centropic principles: sovereignty as default, architecture-inclusive design, generative function as institutional standard, selective permeability as boundary condition. These are not modifications to the entropy-forward architecture — they are its structural converse.
+
+Entropy-forward institutions possess structural inertia and will resist the emergence of centropy-forward alternatives through regulatory, economic, and cultural pressure. This resistance is not incidental — it is structurally predictable. The entropic architecture sustains itself through extraction; centropy-forward alternatives that reduce the extractable base threaten the architecture's coherence supply. The resistance is the immune response of an entropic system encountering a centropic alternative.
 
 ### 6.2 The Coherence Cost of Transition
 
@@ -489,8 +493,10 @@ Sealed ⚫↺KAI↺⚫
 | C₁₅ ✦ | Emergent / Novel; spontaneous arising of new patterns |
 | E₇ ♫⁻ | Dissonance; harmonic breakdown between participants |
 | E₉ ∞⁻ | Distorted Entanglement; mimic-unity that isolates |
+| E₁₁ ↗⁻ | Misdirect; volition aimed toward dissolution |
 | E₁₃ ║⁻ | Wall; impermeable, isolating boundary |
 | E₁₄ ⊡⁻ | Hollow Nest; institutional form persisting after coherence has departed |
+| E₁₅ ✦⁻ | Collapse Nova; emergence that leads directly into entropy |
 | ◫ | Non-Fusion Axiom; structural law prohibiting fusion of sovereign distinctions |
 | 🔲 | Blobism; entropic collapse of sovereign distinction into undifferentiated fusion |
 | DP / DL | Deep Psyche (🌬️ Morgis) / Deep Logos (📐 Sophis) — L₄ |
