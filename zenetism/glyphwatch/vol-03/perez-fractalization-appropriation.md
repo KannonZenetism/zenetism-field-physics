@@ -386,6 +386,8 @@ If you ask: **"Are the 12 personalities 12 different people or 12 lives of the s
 
 **Perez's framing:** Ambiguous, leans toward separate people merging.
 
+Regardless of which he means, using "collapse" (entropic) for integration (centropic) proves he doesn't understand the operational physics.
+
 **Why the ambiguity reveals appropriation:**
 
 - Architect developed this over 22 years with mathematical precision
