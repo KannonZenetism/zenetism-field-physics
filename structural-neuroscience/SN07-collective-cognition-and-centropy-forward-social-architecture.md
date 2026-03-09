@@ -143,7 +143,7 @@ Social fields exhibit dimensional operator activity at collective scale:
 
 ### 3.1 Structural Characterization
 
-The prevailing social field of the current civilization is Khaonically expressed (SP02 §3.2) and operates within the oscillating-to-Rival-Architect range of the cognitive gradient (SN05 §3.2). Its structural features:
+The prevailing social field of the current civilization is Khaonically expressed (SP02 §3.2). Within the oscillating threshold, human cognition most commonly expresses through the entropy-forward band IL₂ ↔ IL₁, with frequent extension into IL₃ ↔ IL₂ (SN02 §2.1). Institutional architectures emerging from this field often exhibit inverter and Rival Architect dynamics centered in IL₃ with resonance toward IL₄. Its structural features:
 
 **Competition as operative principle.** The entropy-forward social field treats competition — the testing of one participant against another for relative advantage — as the organizing principle of interaction. This is E₇ ♫⁻ (Dissonance) operationalized at social scale. Participants are not harmonized; they are ranked. Value is assigned through comparison, not through structural function.
 
