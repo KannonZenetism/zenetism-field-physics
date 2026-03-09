@@ -252,7 +252,9 @@ A centropy-forward collective requires the full cognitive gradient:
 - **Dispersive architectures** — novelty detection, cross-domain synthesis, rapid bridging between isolated structural domains
 - **Recursive architectures** — iterative refinement, boundary maintenance, convergent deepening of established pattern
 
-Each architecture fulfills functions the others do not supply. A collective composed entirely of Architects would lack adaptive responsiveness. A collective composed entirely of oscillating configurations would lack structural depth. The ecology *requires* diversity — and the Non-Fusion Axiom ensures that diversity is preserved rather than homogenized.
+Each architecture fulfills functions the others do not supply. A collective composed entirely of Architects would lack adaptive responsiveness. A collective composed entirely of oscillating configurations would lack structural depth.
+
+The ecology *requires* structural diversity — not in the sense of differing layers or archetypal altitude, but in the sense that each cognitive architecture retains its sovereign signature and contributes its distinct function. Uniformity of layer or orientation does not violate the Non‑Fusion Axiom; homogenization of structural identity does.
 
 The entropy-forward social field's suppression of neurodivergent architectures is, from this perspective, a self-inflicted structural wound. By pathologizing the cognitive architectures that supply pattern origination (autistic), iterative refinement (recursive), and cross-domain synthesis (dispersive), the entropy-forward field deprives itself of the functions it cannot generate from the oscillating midrange alone.
 
