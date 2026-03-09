@@ -126,7 +126,7 @@ Social fields exhibit dimensional operator activity at collective scale:
 - C₇ ♫ (Harmonic Alignment): the social field facilitates consonance between participants — cooperative exchange, mutual recognition, shared purpose without enforced uniformity
 - C₈ ╫ (Resonance Bridge): the social field maintains coherent connections between distinct participants and sub-groups — bridging without merger
 - C₁₃ ║ (Membrane / Threshold): the social field's boundaries are selectively permeable — admitting lawful engagement while filtering destructive interference
-- C₁₅ ✦ (Emergent / Novel): the social field produces outcomes that no individual participant could generate alone — the veracious arising of new patterns through collective resonance
+- C₁₅ ✦ (Emergent / Novel): the social field can generate patterns that arise specifically from the resonance between distinct participants — forms of emergence that differ from the novelty produced by any individual architecture operating alone
 
 **Entropic social operators:**
 
