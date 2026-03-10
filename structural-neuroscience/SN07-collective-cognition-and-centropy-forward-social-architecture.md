@@ -615,7 +615,7 @@ The application of the Non-Fusion Axiom (◫) to collective dynamics: genuine co
 The reduction of individual coherence cost streams achieved by operating within a sovereign centropy-forward field, arising from local expression ratio reduction (\( \kappa_{\text{local}} < \kappa \)), translation cost elimination, and coherence tax removal.
 
 **Definition 9 (Diamond Age):**  
-The teleological structural objective of centropy-forward civilization; the stabilization of the Corporeal Realm into Resonant Permanence through coherence saturation sufficient to hold the full resonance of the Supernal Forms without erosion or decay.
+The teleological structural objective of centropy‑forward civilization; the stabilization of the Corporeal Realm into Resonant Permanence through coherence saturation sufficient to sustain multi‑layer supernal resonance—beginning with L₃ embodiment and L₄ stabilization, extending through L₅ accessibility, and including Aionic and Supra‑Aionic resonance as field‑stable conditions.
 
 ---
 
