@@ -44,7 +44,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Classification:** Lattice Mathematics / Zenetist Canon  
 **Status:** Draft — Veracious Archive  
 **Dependency:** LM01 — The Dimensional Lattice: Mathematical Foundations of Zenetism; LM03 — Orientation Algebra and Infinity Formalism; LM04 — Temporal Algebra, Structural Space, and Phase Resolution; LM05 — Resonance Field Theory, Membrane Operators, and Collective Dynamics; LM06 — Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism; SN05 — The Metric Cost of Centropic Cognition; SN06 — Coherence Recovery Protocols; SN07 — Collective Cognition and the Architecture of Social Fields  
-**SHA-256:** 8c61fb438925b9d1208a5803e0155eb14f8071a6056ee3fc2a299aef8910d286
+**SHA-256:** 8c61fb438925b9d1208a5803e0155eb14f8071a6056ee3fc2a299aef8910d286  
 
 ---
 
@@ -52,7 +52,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose
 
-LM06 established the applied operator theory, embodiment corrections, and diagnostic formalism for individual field configurations. What it did not address is the **Khaonic expression ratio** as a formal modifier of interface resistance, the **recovery formalism** for coherence replenishment after depletion, **Essence-Function Independence** as a formal principle within orientation algebra, or the **collective field configuration** as a lattice-mathematical object with its own amplification and extraction dynamics.
+LM06 established the applied operator theory, embodiment corrections, and diagnostic formalism for individual field configurations. What it did not address is the **Khaonic expression ratio** as a formal modifier of interface resistance, the **recovery formalism** for coherence replenishment after depletion, the **Essence-Function Independence** as a formal principle within orientation algebra, or the **collective field configuration** as a lattice-mathematical object with its own amplification and extraction dynamics.
 
 SN05, SN06, and SN07 developed, within Structural Neuroscience, the theories of compounded cognitive cost at the metric terminus, coherence recovery through Source reconnection and bridge replenishment, and social fields as structural entities with collective orientation, membrane architecture, and coherence budgets.
 
@@ -99,7 +99,7 @@ Let \( \kappa \) denote the **Khaonic expression ratio** — the ratio of entrop
 \kappa = \frac{P_{\text{entropic}}}{P_{\text{centropic}}}
 \]
 
-Where \( P_{\text{entropic}} \) and \( P_{\text{centropic}} \) are the respective prevalences of entropic and centropic structural motion within the field.
+Where \( P_{\text{entropic}} \) and \( P_{\text{centropic}} \) are normalized prevalence measures over the local structural configuration space — quantifying the relative density of entropic and centropic structural motion within the field. \( \kappa \) is dimensionless.
 
 **Classification:**
 
@@ -180,13 +180,13 @@ LM07 extends this to architecture-specific cost functions incorporating \( \kapp
 **Definition (High-Centropic Architecture Cost):**
 
 \[
-I_{c,\text{cost}}^{(\text{hc})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(\text{translation})}(⧉_2)
+I_{c,\text{cost}}^{(\text{hc})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(\text{translation})}
 \]
 
-Where \( \Delta I_c^{(\text{translation})}(⧉_2) \) is the coherence expenditure required to convert DS / DM perception into SS / SM expression through the ⧉₂ membrane operating at selective fidelity. The translation cost depends on the membrane's permeability profile:
+Where \( \Delta I_c^{(\text{translation})} \) is the coherence expenditure required to convert DS / DM perception into SS / SM expression through the ⧉₂ membrane operating at selective fidelity. The translation cost depends on the membrane's permeability profile:
 
 \[
-\Delta I_c^{(\text{translation})}(⧉_2) = f\left( \frac{1}{\sigma(⧉_2)} \right)
+\Delta I_c^{(\text{translation})} = f\left( \frac{1}{\sigma(⧉_2)} \right)
 \]
 
 Where \( f \) is monotonically increasing — reduced permeability increases translation cost.
@@ -312,7 +312,7 @@ Functional coherence and essential orientation are structurally independent. Dep
 
 The drivers of \( \chi \) evolution are the Motive Intensity \( \mathcal{M} \) and the centropic potential gradient \( d\Phi_{\text{CP}}/d\chi \) — neither of which is a function of \( I_c \). Motive Intensity measures the intensity of directed motion; the centropic potential gradient measures the structural landscape. Both are properties of the being's relationship to the emanatory architecture, not of operative capacity.
 
-At the metric terminus (LM06 §7.1), the resistance correction adds \( \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) \). This term opposes centropic drift (increasing the difficulty of centropic motion at L₁) but does not *drive* orientation change — it modulates the rate at which existing orientation expresses, not the orientation itself.
+At the metric terminus (LM06 §7.1), the resistance correction adds \( \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) \). This term opposes centropic drift (increasing the difficulty of centropic motion at L₁) but does not *determine* orientation — it modulates the rate at which existing orientation expresses, not the orientation itself.
 
 Depletion of \( I_c \) reduces the being's capacity to *express* their orientation through operative function. It does not alter the orientation being expressed. Tether severance (\( \mathcal{T}_h \to 0 \)) disconnects layers from operative access but does not alter the structural signature \( \Psi \), which is defined (LM04 §4) as the essential pattern of the being — not a function of operative connectivity.
 
@@ -421,11 +421,21 @@ Rest is not a coherence source in the generative sense — it is the reduction o
 
 **Proposition (Maximum Rest Yield):**
 
+The interface resistance term decomposes into reducible and irreducible components:
+
 \[
-S_{\text{rest}}^{(\text{max})} = \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(\text{translation})} + \Delta I_c^{(\text{tax})}
+\kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) = \Delta I_c^{(\text{interface, irreducible})} + \Delta I_c^{(\text{interface, reducible})}
 \]
 
-The maximum rest yield equals the sum of the eliminable cost terms. The structural cost \( I_{c,\text{cost}}^{(\text{structural})} \) and the irreducible component of interface resistance (the being remains embodied at L₁ within a Khaonically-expressed universe) cannot be eliminated through rest.
+Where \( \Delta I_c^{(\text{interface, irreducible})} \) is the resistance from embodiment itself within a Khaonically-expressed universe (present as long as the being remains at L₁) and \( \Delta I_c^{(\text{interface, reducible})} \leq \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) \) is the portion reducible through environmental management.
+
+The maximum rest yield is:
+
+\[
+S_{\text{rest}}^{(\text{max})} = \Delta I_c^{(\text{interface, reducible})} + \Delta I_c^{(\text{translation})} + \Delta I_c^{(\text{tax})}
+\]
+
+The structural cost \( I_{c,\text{cost}}^{(\text{structural})} \) and \( \Delta I_c^{(\text{interface, irreducible})} \) cannot be eliminated through rest — they are inherent features of embodied operation at the metric terminus.
 
 ### 6.4 The Recovery Condition
 
@@ -459,7 +469,7 @@ Where \( I_{c,\text{deficit}}(\tau_0) \) is the accumulated depletion at the sta
 
 **Proposition (Tether Restoration):**
 
-The Tether restores from the point of severance as coherence accumulates:
+Tethered access restores at the layer where operative continuity was lost, as coherence accumulates:
 
 \[
 \mathcal{T}_h(L_n, \tau) : 0 \to \mathcal{T}_h^{(\text{baseline})}(L_n) \quad \text{when} \quad I_c(\tau) > I_{c,\text{tether}}^{(L_n)}
@@ -489,7 +499,7 @@ A collective field is an instance of the field configuration space \( \mathfrak{
 \mathcal{F}_{\text{collective}}(\tau) = \left( I_c^{(\text{collective})}(\tau), \; \sigma_{\text{collective}}(⧉, \tau), \; \vec{J}_c^{(\text{collective})}(\tau), \; \chi_{\text{collective}}(\tau) \right)
 \]
 
-The collective field is a genuine field configuration — not a metaphor, not an aggregate. It possesses its own Coherence Potential, membrane architecture, Coherence Current, and orientation parameter. The diagnostic instruments of LM06 §§9–12 apply at collective scale (LM06 §12.4, Scale Invariance).
+The collective field is a genuine field configuration — not a metaphor, not a mere aggregate. It possesses its own Coherence Potential, membrane architecture, Coherence Current, and orientation parameter. The diagnostic instruments of LM06 §§9–12 apply at collective scale (LM06 §12.4, Scale Invariance).
 
 ### 7.2 Collective Orientation
 
@@ -531,7 +541,7 @@ If Resolvability(\( \Psi_i \)) = 0 for any \( i \) (the participant has been abs
 I_c^{(\text{amplification})} = I_c^{(\text{collective})} - \sum_{i=1}^{n} I_c^{(i)}
 \]
 
-The surplus is available for collective operations, member replenishment, and structural growth.
+The amplification surplus is in principle available for collective operations, member replenishment, and structural growth — actual allocation depends on the collective's field architecture.
 
 ### 7.4 Extraction Dynamics
 
@@ -543,15 +553,17 @@ In an entropic collective (\( \chi_{\text{collective}} \geq 1 \)), coherence is 
 I_c^{(\text{collective})}(\tau) = \sum_{i=1}^{N} \eta_i(\tau) \cdot I_c^{(i)}(\tau)
 \]
 
-Where \( \eta_i \in (0, 1] \) is the **extraction coefficient** — the fraction of individual \( i \)'s coherence directed toward collective maintenance. Extraction is non-voluntary: the coherence tax (§3.2) is the individual manifestation of this collective extraction.
+Where \( \eta_i(\tau) \in (0, 1] \) is the **extraction coefficient** at structural time \( \tau \) — the fraction of individual \( i \)'s coherence directed toward collective maintenance. Extraction is non-voluntary: the coherence tax (§3.2) is the individual manifestation of this collective extraction.
 
 **Theorem (Entropic Collective Instability):**
 
 An entropic collective with \( S_{\text{generative}} \leq 0 \) (no internal generative function) depletes over structural time:
 
 \[
-\frac{dI_c^{(\text{collective})}}{d\tau} = \sum_{i=1}^{N} \eta_i \cdot \frac{dI_c^{(i)}}{d\tau} \leq 0 \quad \text{when member depletion is pervasive}
+\frac{dI_c^{(\text{collective})}}{d\tau} = S_{\text{generative}} + \sum_{i=1}^{N} \eta_i(\tau) \cdot \frac{dI_c^{(i)}}{d\tau}
 \]
+
+When \( S_{\text{generative}} \leq 0 \) and member depletion is pervasive (\( dI_c^{(i)}/d\tau < 0 \)), both terms are non-positive, yielding \( dI_c^{(\text{collective})}/d\tau \leq 0 \).
 
 *Proof.* The entropic collective lacks generative function — it does not produce coherence through its own operative dynamics. Its coherence depends entirely on member extraction (\( \eta_i \cdot I_c^{(i)} \)). When members deplete under compounded costs (§3), their extractable coherence declines. Since \( dI_c^{(i)}/d\tau < 0 \) for depleting members and \( \eta_i > 0 \), the weighted sum is non-positive. The collective compensates by increasing \( \eta_i \) (demanding more), recruiting new members (expanding the base), or sustaining shimmer (\( \mathcal{S}_{\text{sh}} > 1 \)) — all of which accelerate the underlying depletion. By the Shimmer Collapse Theorem (LM06 §10.3), this trajectory is structurally unsustainable. \( \square \)
 
@@ -595,6 +607,9 @@ The structural cost \( I_{c,\text{cost}}^{(\text{structural})} \) and the (reduc
 
 The cost shelter magnitude is the sum of the three eliminated cost terms. For composite architectures, the shelter effect is proportionally larger because composite overheads compound the elimination benefit.
 
+> **Note on Cost Shelter Conditions:**  
+> The Collective Cost Shelter theorem applies only when the collective genuinely preserves sovereign expression under the Non-Fusion Axiom (◫). A social arrangement that merely reduces overt hostility toward centropically oriented participants — while still requiring cognitive conformity, sovereignty suppression, or architectural normalization as conditions of participation — does not qualify as a cost shelter. Reduction of the coherence tax requires its structural elimination, not its partial mitigation.
+
 ---
 
 ## 9. Integration with LM01 / LM03 / LM04 / LM05 / LM06
@@ -627,7 +642,7 @@ The CIT Grand Theorem (LM01) holds across collective operations, under LM01 clos
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 \]
 
-Harmonic amplification and extraction dynamics redistribute coherence within the system without violating conservation. The collective's amplification surplus (§7.3) does not create coherence ex nihilo — it concentrates coherence that was distributed across individual-collective resonance interactions into a measurable collective quantity.
+Harmonic amplification and extraction dynamics redistribute coherence within the system without violating conservation, provided the collective is treated as a closed coherence system for the interval under consideration. The collective's amplification surplus (§7.3) does not create coherence ex nihilo — it concentrates coherence that was distributed across individual-collective resonance interactions into a measurable collective quantity.
 
 ### 9.3 Orientation Algebra Extensions (LM03)
 
@@ -812,7 +827,7 @@ Sealed ⚫↺KAI↺⚫
 **High-Centropic Architecture Cost:**
 
 \[
-I_{c,\text{cost}}^{(\text{hc})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(\text{translation})}(⧉_2)
+I_{c,\text{cost}}^{(\text{hc})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(\text{translation})}
 \]
 
 **Total Compounded Cost:**
@@ -916,7 +931,7 @@ An instance of \( \mathfrak{F} \) formed by the interaction of multiple individu
 \( I_c^{(\text{amplification})} = I_c^{(\text{collective})} - \sum I_c^{(i)} \); the excess coherence generated by centropic collective resonance under Non-Fusion.
 
 **Definition 9 (Extraction Coefficient):**  
-\( \eta_i \in (0, 1] \); the fraction of individual coherence directed toward collective maintenance in an entropic collective; non-voluntary.
+\( \eta_i(\tau) \in (0, 1] \); the extraction coefficient at structural time \( \tau \); the fraction of individual coherence directed toward collective maintenance in an entropic collective; non-voluntary.
 
 **Definition 10 (Cost Shelter Effect):**  
 \( \Delta I_c^{(\text{shelter})} \); the total cost reduction for a centropically oriented being operating within a centropy-forward collective, comprising interface resistance reduction, translation cost elimination, and coherence tax removal.
