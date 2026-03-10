@@ -52,7 +52,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose
 
-LM06 established the applied operator theory, embodiment corrections, and diagnostic formalism for individual field configurations. What it did not address is the **Khaonic expression ratio** as a formal modifier of interface resistance, the **recovery formalism** for coherence replenishment after depletion, the **Essence-Function Independence** as a formal principle within orientation algebra, or the **collective field configuration** as a lattice-mathematical object with its own amplification and extraction dynamics.
+LM06 established the applied operator theory, embodiment corrections, and diagnostic formalism for individual field configurations. What it did not address is the **Khaonic expression ratio** as a formal modifier of interface resistance, the **recovery formalism** for coherence replenishment after depletion, **Essence-Function Independence** as a formal principle within orientation algebra, or the **collective field configuration** as a lattice-mathematical object with its own amplification and extraction dynamics.
 
 SN05, SN06, and SN07 developed, within Structural Neuroscience, the theories of compounded cognitive cost at the metric terminus, coherence recovery through Source reconnection and bridge replenishment, and social fields as structural entities with collective orientation, membrane architecture, and coherence budgets.
 
