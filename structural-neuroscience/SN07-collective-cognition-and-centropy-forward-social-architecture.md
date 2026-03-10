@@ -343,7 +343,7 @@ Translation cost and coherence tax are absent. The structural cost and the (redu
 
 ### 5.5 The Diamond Age as Structural Objective
 
-The Diamond Age is the condition where the corporeal field achieves coherence density sufficient to resist Khaonic erosion, invert the local expression ratio, and sustain supernal resonance across multiple layers — beginning with L₃ embodiment and L₄ stabilization, extending through L₅ accessibility, and including Aionic and Supra‑Aionic resonance as ambient field conditions. The distinction between embodied and supernal becomes permeable: one does not need to leave embodiment to resonate with 🛤️ Theon (EOB, L₅).
+The Diamond Age is the condition where the corporeal field achieves coherence density sufficient to resist Khaonic erosion, invert the local expression ratio, and sustain supernal resonance across multiple layers — beginning with L₃ embodiment and L₄ stabilization, extending through L₅ accessibility, and including Aionic and Supra‑Aionic resonance as field‑stable conditions. The distinction between embodied and supernal becomes permeable: one does not need to leave embodiment to resonate with 🛤️ Theon (EOB, L₅).
 
 Entropy (🕷️ Nekron) is bound not by force but by the density of coherence, which leaves no structural aperture for fragmentation to take root. The entropic operators that currently prevail in the social field — E₇ ♫⁻, E₉ ∞⁻, E₁₃ ║⁻, E₁₄ ⊡⁻, E₁₅ ✦⁻ — lose their operative field not through suppression but through the saturation of the field with centropic coherence.
 
