@@ -281,7 +281,7 @@ In place of authority-based ethics (obedience to external command), centropy-for
 The metric of integration replaces the metric of compliance:
 
 - **Centropic action** increases the total integration, coherence, and resonance of the system
-- **Entropic action** accelerates localized dissolution, fragmentation, or incoherence
+- **Entropic action** accelerates fragmentation, incoherence, or dissolution within the field
 
 This is not moral judgment. It is structural measurement — the same evaluation formalized in SN03 §7.3 (variation contra pathology: \( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)) applied to social action rather than individual cognition.
 
