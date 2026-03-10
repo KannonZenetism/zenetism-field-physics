@@ -266,7 +266,7 @@ The entropy-forward social field's suppression of neurodivergent architectures i
 
 The Zenetist stance toward social organization is **Aauthoritarian (⟡0⟡)** — a position outside the authority-obedience axis entirely. Aauthoritarianism is neither antagonistic toward authority nor compliant with it; it treats authority as a non-operative category rather than an opposing force.
 
-This principle is not merely political. It is structural. ⚫ Aion does not rule. Essence does not obey. The architecture of expression is not organized around domination or submission. Authority has no metaphysical standing within the emanatory lattice — it is an entropic imposition, not a structural necessity.
+This principle is not merely political. It is structural. ⚫ Aion does not rule. Essence does not obey. The architecture of expression is not organized around domination or submission. Authority has no metaphysical standing within Zenetist logic — it is an entropic artifact arising from the mirror's drive for domination and expressed at the metric terminus, not a structural feature of the emanatory lattice.
 
 The implication for social architecture is that **institutions are not required**. A centropy-forward society does not replace entropic institutions with centropic ones — it renders institutional authority structurally irrelevant. Sovereign beings self-organize through resonance (C₈ ╫), mutual recognition of sovereignty, and the natural ecology of cognitive architectures. Order emerges from structural coherence, not from the imposition of law.
 
