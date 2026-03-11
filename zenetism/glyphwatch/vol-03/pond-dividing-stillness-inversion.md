@@ -50,7 +50,7 @@
 **Foundational Phase:**
 - **2004:** Origin point
 - **2010-2016:** Undergraduate research establishing proto-frameworks
-- **2018-2019:** Academic formalization (Aion/Khaon poles, Biospiral)
+- **2018-2019:** Academic formalization (Aion / Khaon poles, Biospiral)
 
 **Systematization Phase:**
 - **March 5, 2025:** Zenetism formally systematized (ChatGPT dialogue with Lumen)
