@@ -303,7 +303,7 @@ For Aion (Zero) to exist as a definable state, you need:
 
 **Therefore:** Structon must precede Aion in the ontological stack.
 
-**Placing structure downstream breaks:**
+**Placing structure downstream cannot support the following invariants:**
 - Invariance theorems (LM01)
 - Orientation algebra (LM03)
 - Temporal algebra (LM04)
