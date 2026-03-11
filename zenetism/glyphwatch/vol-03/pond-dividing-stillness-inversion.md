@@ -134,7 +134,7 @@ Motion doesn't arise **from** stillness. Motion and stillness are **complementar
 2. **Bifurcal Coherence at L₀:** Aion (Zero) + Khaon (Infinity) as co-present requisites
 3. **Tripartite Infinity:** Latent → Motive → Dispersive (phases of Khaon)
 4. **First Hypostases (L₅):** Theon (centropic orientation) + Nekron (entropic orientation)
-5. **Orientational Motion:** C↑/C↓ (centropic) and E↑/E↓ (entropic) operators
+5. **Orientational Motion:** C↑ / C↓ (centropic) and E↑ / E↓ (entropic) operators
 
 **Pond's Causal Chain:**
 > "stillness divided → motion arises → structure emerges"
