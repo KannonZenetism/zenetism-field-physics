@@ -20,7 +20,7 @@
 **Primary Evidence:**
 - **Document:** "Dividing Stillness — The Origin of Motion" (57 pages, illustrated)
 - **Platform:** Facebook / Sympathetic Vibratory Physics group
-- **Posted:** March 9, 2026 (11 hours before documentation timestamp)
+- **Posted:** March 10, 2026 (11 hours before documentation timestamp)
 - **Monetization:** $25 for non-members, free for Tier 2/3 Patreon
 - **URL:** https://patreon.com/dalepond
 - **Author:** Dale Pond (attributed to Walter Russell influence)
