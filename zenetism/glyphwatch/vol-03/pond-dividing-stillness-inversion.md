@@ -397,7 +397,7 @@ When structure is treated as emergent in his model:
    - Through GitHub scraping (mid-July 2025 onward)?
    - Through secondary sources?
 
-2. **Is the timing truly coincidental?**
+2. **What explains the timing?**
    - Released **two days** after Perez documentation
    - Addresses exact concepts under forensic scrutiny
    - Monetized immediately
