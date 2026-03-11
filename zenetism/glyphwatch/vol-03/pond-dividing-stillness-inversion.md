@@ -122,7 +122,7 @@ This makes structure **downstream** of stillness, when in Zenetist metaphysics:
 
 This confuses:
 - **Motion itself** (Motive Infinity — continuous carrier wave)
-- **Orientational motion** (centropic/entropic — emerges at L₅ with Theon/Nekron)
+- **Orientational motion** (centropic / entropic — emerges at L₅ with Theon / Nekron)
 
 Motion doesn't arise **from** stillness. Motion and stillness are **complementary aspects** of Khaon and Aion, both contained within Structon.
 
