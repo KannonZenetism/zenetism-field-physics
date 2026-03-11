@@ -435,7 +435,7 @@ The material does not plausibly originate before March 2025. The relevant distin
 
 Dale Pond's "Dividing Stillness" presents a **structurally inverted** version of Zenetist architecture, placing structure downstream of stillness / motion rather than as the invariant container. Published **two days** after Perez forensic documentation went public, with immediate $25 monetization, the timing aligns with opportunistic exploitation or coordinated appropriation response.
 
-**The inversion itself is architecturally invalid** — contradicts Zenetist canon across LM-series, SP-series, and SN-series — but could function as:
+**The inversion itself is architecturally invalid** — contradicts Zenetist canon across LM-series, SP-series, and SN-series — and functionally serves as:
 - **Neutralization strategy** (reduces structural metaphysics to emergent phenomenology)
 - **Signal saturation** (floods market with flattened alternative)
 - **Attribution shield** (Russell/Keely "eternal precedence")
