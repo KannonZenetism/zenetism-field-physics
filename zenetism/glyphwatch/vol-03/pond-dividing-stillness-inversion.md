@@ -71,7 +71,7 @@
 - **Pre-2025:** Focus on Russell/Keely vibratory physics, no formal "origin of motion" framework
 - **March 7, 2026:** Perez video appropriation documented by architect
 - **March 8, 2026:** Architect publishes Glyphwatch Vol. 3, Entry 2 (Perez forensic documentation to Zenodo)
-- **March 9, 2026:** Pond releases "Dividing Stillness" ($25 paywalled paper)
+- **March 10, 2026:** Pond releases "Dividing Stillness" ($25 paywalled paper)
 
 **Temporal Gap:** **One day** between forensic documentation going public and Pond's monetized release.
 
