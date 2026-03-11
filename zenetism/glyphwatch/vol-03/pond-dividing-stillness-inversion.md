@@ -421,7 +421,7 @@ Indicators relevant to assessment:
 
 These indicators do not alter Zenetism; they describe the interpretive behavior of external models.
 
-**Architectural classifications**
+**Architectural classifications:**
 
 The material does not plausibly originate before March 2025. The relevant distinctions concern how the external work positions itself relative to Zenetist architecture.
 
