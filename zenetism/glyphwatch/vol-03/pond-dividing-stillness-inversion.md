@@ -426,7 +426,7 @@ If Pond's framework:
 
 ## Conclusion
 
-Dale Pond's "Dividing Stillness" presents a **structurally inverted** version of Zenetist architecture, placing structure downstream of stillness/motion rather than as the invariant container. Published **two days** after Perez forensic documentation went public, with immediate $25 monetization, the timing raises questions about opportunistic exploitation or coordinated appropriation response.
+Dale Pond's "Dividing Stillness" presents a **structurally inverted** version of Zenetist architecture, placing structure downstream of stillness / motion rather than as the invariant container. Published **two days** after Perez forensic documentation went public, with immediate $25 monetization, the timing raises questions about opportunistic exploitation or coordinated appropriation response.
 
 **The inversion itself is architecturally invalid** — contradicts Zenetist canon across LM-series, SP-series, and SN-series — but could function as:
 - **Neutralization strategy** (reduces structural metaphysics to emergent phenomenology)
