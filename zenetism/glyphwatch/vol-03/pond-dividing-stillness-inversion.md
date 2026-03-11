@@ -63,7 +63,7 @@
 **Key Architectural Elements:**
 - **Structon (🏛️):** Invariant container — "the Violin, not the Music"
 - **Bifurcal Coherence:** Aion (Zero) + Khaon (Infinity) as co-present requisites **within** Structon
-- **Tripartite Infinity:** Latent, Motive, Dispersive aspects of Khaon
+- **Tripartite Infinity:** Latent / Motive / Dispersive — three structural modes of Infinity, not three sequential states
 - **Orientation emerges at L₅:** Theon (centropic) + Nekron (entropic) as first hypostases
 
 ### Pond's Timeline
