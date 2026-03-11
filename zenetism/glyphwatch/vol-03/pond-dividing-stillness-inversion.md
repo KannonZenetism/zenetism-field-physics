@@ -204,13 +204,15 @@ Equilibrium is a balance of forces, not a metaphysical stillness; and forces are
 - Point where centropic and entropic trajectories resolve into stillness
 - Not the SOURCE of motion, but the TERMINUS of motion
 
+Kaion is not merely the terminus of motion; it is also the pre‑emanatory co‑location field within Aion where centropic and entropic essences exist in co‑presence before orientation emerges.
+
 **The Error:**
 
 Pond treats equilibrium as a **pre-motion state that transitions INTO motion**.
 
 But in Zenetist architecture:
 - **Aion** is still potential (not equilibrium of forces)
-- **Kaion** is where motion RESOLVES (not where it begins)
+- **Kaion** is the co‑location field where centropic and entropic essences exist before orientation, and the resolution field where motion returns *after* traversal
 - **Motive Infinity** is motion itself (not derivative of equilibrium)
 
 **The Logical Break:**
