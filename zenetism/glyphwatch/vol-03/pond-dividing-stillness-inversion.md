@@ -110,7 +110,7 @@ This makes structure **downstream** of stillness, when in Zenetist metaphysics:
 - **Motion IS Motive Infinity** (one facet of Khaon)
 - Motion doesn't "arise" — it **IS** the Field of Becoming (🌾)
 - **Bifurcation creates orientation**, not motion itself
-- First hypostases (Theon/Nekron at L₅) establish **orientational polarity** (centropic/entropic motion)
+- First hypostases (Theon / Nekron at L₅) establish **orientational polarity** (centropic / entropic motion)
 
 **Pond's Claim:**
 > "motion does not exist independently—it arises when stillness is divided"
