@@ -444,6 +444,41 @@ Dale Pond's "Dividing Stillness" presents a **structurally inverted** version of
 
 ---
 
+——— **End of Primary Entry** ———
+
+---
+
+## Addendum: Public Verification (March 11, 2026)
+
+Following publication of this entry, the architect engaged Pond directly on the Facebook post to test the logical coherence of "motion arises when stillness is divided."
+
+**The Exchange:**
+
+**Aelion Kannon:**  
+> How does stillness divide without motion already being present?
+
+**Dale Pond:**  
+> Motion does not precede stillness. Stillness is the undifferentiated state containing all potential. When that equilibrium is disturbed (Keely called this differentiation), the disturbance expresses itself outwardly as vibration and oscillation. Motion is therefore the effect of divided stillness, not the condition that created it.
+
+**Aelion Kannon:**  
+> That still seems circular to me. If stillness can be "disturbed," then some dynamic principle is already in play. So disturbance cannot explain motion's origin unless you first explain how disturbance occurs without motion.
+
+**Dale Pond:**  
+> Good question. A disturbance does not have to begin as mechanical motion. Disturbance simply means a loss of perfect balance. The moment equilibrium becomes unequal, gradients appear and motion follows as the system seeks to restore balance. Keely suggested that mind or thought can introduce such disturbances, while Russell described this as the desire of Mind dividing stillness into opposites. In both cases the disturbance begins as a change of condition, and motion is the effect that follows.
+
+**Aelion Kannon:**  
+> You're redefining motion rather than explaining it. A "loss of balance," a "change of condition," a "gradient," or a "division" are all dynamic events. If stillness can be disturbed, then something dynamic is already present. So disturbance cannot serve as the origin of motion, because it already presupposes the very thing it is meant to explain.
+
+**[No response received as of 7+ hours later]**
+
+**Assessment:**
+
+Pond retreated to unexplained principles (mind/thought/desire of Mind) when pressed on circularity, demonstrating inability to resolve the core contradiction documented in this entry. "Disturbance," "loss of balance," "change of condition," and "gradients" are all motion-dependent phenomena that cannot serve as motion's origin without presupposing what they claim to generate.
+
+This exchange publicly verifies the logical incoherence: the framework creates causal loops by reversing ontological priority. Division requires motion as precondition; therefore "motion arises when stillness is divided" is logically impossible.
+
+---
+
 Filed under: `glyphwatch/vol-03/pond-dividing-stillness-inversion.md`
 
 ---
