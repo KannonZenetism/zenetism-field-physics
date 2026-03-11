@@ -141,7 +141,7 @@ Motion doesn't arise **from** stillness. Motion and stillness are **complementar
 **Pond's Causal Chain:**
 > "stillness divided → motion arises → structure emerges"
 
-**Why This Breaks Zenetist Architecture:**
+**Why His Model Cannot Generate These Invariants:**
 
 - Places **potential before structure** (Aion before Structon)
 - Makes **structure emergent** (contradicts SI invariance)
