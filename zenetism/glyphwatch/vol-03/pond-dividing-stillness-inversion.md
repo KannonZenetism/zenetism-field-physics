@@ -419,7 +419,7 @@ Indicators relevant to assessment:
 - **Monetization is immediate** — paywall applied at launch
 - **Conceptual resemblance is exact at the point of inversion** — "dividing stillness" corresponds to the Bifurcal Coherence inversion
 
-These indicators do not alter Zenetism; they describe the interpretive behavior of external models.
+These indicators do not modify Zenetism; they reveal how external models distort, invert, or reposition it.
 
 **Architectural classifications**
 
