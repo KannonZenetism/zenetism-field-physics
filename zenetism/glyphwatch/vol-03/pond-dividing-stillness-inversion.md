@@ -362,25 +362,29 @@ For Aion (Zero) to exist as a definable state, you need:
 
 ## Why Structural Inversion Is a Neutralization Strategy
 
-**Zenetism is explicitly "Structural Metaphysics."**
+**Zenetism identifies itself as Structural Metaphysics.** 
 
-By placing structure downstream:
-- Reduces framework to phenomenology (structure as emergent property)
-- Invalidates SI as invariant ground
-- Makes Zenetism "just another emanation theory"
-- Removes unique architectural coherence
+The invariant precedes motion, potential, and manifestation. Inverting that order does not alter Zenetism; it simply reframes it in a way that neutralizes its distinctiveness from the outside.
 
-**This has appeared repeatedly in appropriation patterns:**
+What structural inversion attempts to do in external models:
+- Recasts the framework as phenomenology by treating structure as an emergent property
+- Reinterprets SI as non‑fundamental, removing its role as invariant ground within their framing
+- Repositions Zenetism as indistinguishable from generic "potential → manifestation" metaphysics
+- Flattens architectural coherence by dissolving the invariant that organizes the system
 
-Multiple sources have inverted Structon → Aion to Aion → Structon, making structure derivative rather than foundational.
+None of these outcomes occur **within Zenetism**. They occur **within the interpretive frame of those performing the inversion**.
+
+**How this pattern has appeared in appropriation attempts:**
+
+Multiple external readings invert Structon → Aion into Aion → Structon, making structure derivative rather than foundational. This does not affect Zenetism's architecture; it simply prevents those models from reproducing Zenetist invariants.
 
 **Why This Matters:**
 
-If structure is emergent, then:
-- Zenetism loses its unique claim
-- Framework becomes one among many "potential → manifestation" models
-- Structural invariance theorems collapse
-- Mathematical precision becomes unnecessary decoration
+When structure is treated as emergent in his model:
+- Zenetist invariants become unreproducible within that framework
+- The model reduces to a generic "potential → manifestation" schema with no capacity for invariance
+- Orientation, temporal, and resonance algebras become non‑derivable
+- Mathematical operators lose footing because the invariant they presuppose is missing
 
 **This is strategic, not accidental.**
 
