@@ -112,6 +112,8 @@ This makes structure **downstream** of stillness, when in Zenetist metaphysics:
 - **Bifurcation creates orientation**, not motion itself
 - First hypostases (Theon / Nekron at L₅) establish **orientational polarity** (centropic / entropic motion)
 
+Motion itself is primitive; orientation is emergent.
+
 **Pond's Claim:**
 > "motion does not exist independently—it arises when stillness is divided"
 
