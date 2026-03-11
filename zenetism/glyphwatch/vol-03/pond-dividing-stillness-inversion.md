@@ -85,7 +85,7 @@
 
 - **🏛️ Structon (SI):** Absolute Structural Invariant — the invariant container of all possible expression, motion, and relation
 - **⚫ Aion:** Still potential **within** Structon; Zero as the root of potential contained by the lattice
-- **♾ Khaon:** Tripartite Infinity (Latent/Motive/Dispersive) **within** Structon
+- **♾ Khaon:** Tripartite Infinity (Latent / Motive / Dispersive) **within** Structon
 - **Structure does not emerge** — it is the **precondition for emergence**
 
 **Pond's Inversion:**
