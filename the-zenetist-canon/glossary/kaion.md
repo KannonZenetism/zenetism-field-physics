@@ -22,8 +22,8 @@ Kaion therefore bookends manifestation: **the co‑presence before differentiati
 
 By defining Kaion as both origin and resolution, the Zenetist framework establishes that motion is not an “addition” to reality, but an unfolding of what was already present.
 
-- **Bifurcation** is the separation of essences from the Kaionic Center into directed vectors (centropic and entropic).  
-- **Integration** is the return of those vectors to the Kaionic Center, restoring co‑presence without fusion.
+- **Differentiation** is the emergence of centropic and entropic essences from the Kaionic Center into distinct potentials, which only become oriented at Theon and Nekron.  
+- **Integration** is the return of those potentials to the Kaionic Center, restoring co‑presence without fusion.
 
 Essence does not change; only its **orientation** does.
 
