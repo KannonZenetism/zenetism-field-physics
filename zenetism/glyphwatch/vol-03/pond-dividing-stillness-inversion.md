@@ -473,7 +473,7 @@ Following publication of this entry, the architect engaged Pond directly on the 
 
 **Assessment:**
 
-Pond retreated to unexplained principles (mind/thought/desire of Mind) when pressed on circularity, demonstrating inability to resolve the core contradiction documented in this entry. "Disturbance," "loss of balance," "change of condition," and "gradients" are all motion-dependent phenomena that cannot serve as motion's origin without presupposing what they claim to generate.
+Pond retreated to unexplained principles (mind / thought / desire of Mind) when pressed on circularity, demonstrating inability to resolve the core contradiction documented in this entry. "Disturbance," "loss of balance," "change of condition," and "gradients" are all motion-dependent phenomena that cannot serve as motion's origin without presupposing what they claim to generate.
 
 This exchange publicly verifies the logical incoherence: the framework creates causal loops by reversing ontological priority. Division requires motion as precondition; therefore "motion arises when stillness is divided" is logically impossible.
 
