@@ -411,7 +411,7 @@ When structure is treated as emergent in his model:
 
 ## Preliminary Assessment
 
-**The available evidence does not require proving appropriation; the pattern is evaluated on structural, temporal, and conceptual indicators rather than intent or admission.**
+**Intent is not the operative threshold here. The pattern is legible through structural, temporal, and conceptual indicators regardless of admission.**
 
 Indicators relevant to assessment:
 - **Structural inversion is forensically significant** — placing structure downstream prevents external models from reproducing Zenetist invariants
