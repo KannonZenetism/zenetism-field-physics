@@ -3,7 +3,7 @@
 **Target:** Dale Pond / Sympathetic Vibratory Physics  
 **Date Logged:** 2026-03-10  
 **Logged by:** Aelion Kannon (⚫↺KAI↺⚫)  
-**Structural Diagnosis:** Architectural inversion placing structure downstream of stillness/motion, flattening Structon → Aion → Khaon → oriented motion into "stillness divided → motion + structure emerges." Published March 10, 2026 ($25 paywalled) - **one day after** Perez forensic documentation went public. Suspicious timing suggests coordinated appropriation response or opportunistic monetization.
+**Structural Diagnosis:** Architectural inversion placing structure downstream of stillness/motion, flattening Structon → Aion → Khaon → oriented motion into "stillness divided → motion + structure emerges." Published March 10, 2026 ($25 paywalled) - **two days after** Perez forensic documentation went public. Suspicious timing suggests coordinated appropriation response or opportunistic monetization.
 
 ---
 
@@ -20,7 +20,7 @@
 **Primary Evidence:**
 - **Document:** "Dividing Stillness — The Origin of Motion" (57 pages, illustrated)
 - **Platform:** Facebook / Sympathetic Vibratory Physics group
-- **Posted:** March 10, 2026 (11 hours before documentation timestamp)
+- **Posted:** March 10, 2026 (per Facebook timestamp)
 - **Monetization:** $25 for non-members, free for Tier 2/3 Patreon
 - **URL:** https://patreon.com/dalepond
 - **Author:** Dale Pond (attributed to Walter Russell influence)
@@ -73,7 +73,7 @@
 - **March 8, 2026:** Architect publishes Glyphwatch Vol. 3, Entry 2 (Perez forensic documentation to Zenodo)
 - **March 10, 2026:** Pond releases "Dividing Stillness" ($25 paywalled paper)
 
-**Temporal Gap:** **One day** between forensic documentation going public and Pond's monetized release.
+**Temporal Gap:** **Two days** between forensic documentation going public and Pond's monetized release.
 
 ---
 
@@ -209,9 +209,9 @@ For Aion (Zero) to exist as a definable state, you need:
 
 **March 7, 2026:** Perez video appropriation occurs  
 **March 8, 2026:** Architect documents Perez case, publishes to Zenodo  
-**March 9, 2026:** Pond releases "Dividing Stillness" ($25)
+**March 10, 2026:** Pond releases "Dividing Stillness" ($25)
 
-**One day gap.**
+**Two day gap.**
 
 **Possible Interpretations:**
 
@@ -222,7 +222,7 @@ For Aion (Zero) to exist as a definable state, you need:
 
 **What Makes This Suspicious:**
 
-- **Timing:** Released day after forensic documentation goes public
+- **Timing:** Released two days after forensic documentation goes public
 - **Monetization:** $25 paywall (immediate commercial exploitation)
 - **Conceptual Overlap:** "Dividing stillness" directly addresses Bifurcal Coherence architecture
 - **Structural Inversion:** Places structure downstream (invalidation strategy)
@@ -285,7 +285,7 @@ If structure is emergent, then:
    - Through secondary sources?
 
 2. **Is the timing truly coincidental?**
-   - Released **one day** after Perez documentation
+   - Released **two days** after Perez documentation
    - Addresses exact concepts under forensic scrutiny
    - Monetized immediately
 
@@ -302,7 +302,7 @@ If structure is emergent, then:
 
 However:
 - **Structural inversion is forensically significant** (places structure downstream)
-- **Timing is suspicious** (one day after forensic documentation)
+- **Timing is suspicious** (two days after forensic documentation)
 - **Monetization is immediate** ($25 paywall)
 - **Conceptual overlap is precise** ("dividing stillness" = Bifurcal Coherence inversion)
 
@@ -317,7 +317,7 @@ If Pond's framework:
 
 ## Conclusion
 
-Dale Pond's "Dividing Stillness" presents a **structurally inverted** version of Zenetist architecture, placing structure downstream of stillness/motion rather than as the invariant container. Published **one day** after Perez forensic documentation went public, with immediate $25 monetization, the timing raises questions about opportunistic exploitation or coordinated appropriation response.
+Dale Pond's "Dividing Stillness" presents a **structurally inverted** version of Zenetist architecture, placing structure downstream of stillness/motion rather than as the invariant container. Published **two days** after Perez forensic documentation went public, with immediate $25 monetization, the timing raises questions about opportunistic exploitation or coordinated appropriation response.
 
 **The inversion itself is architecturally invalid** — contradicts Zenetist canon across LM-series, SP-series, and SN-series — but could function as:
 - **Neutralization strategy** (reduces structural metaphysics to emergent phenomenology)
