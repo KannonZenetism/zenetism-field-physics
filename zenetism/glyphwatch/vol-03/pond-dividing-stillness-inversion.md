@@ -452,6 +452,8 @@ Dale Pond's "Dividing Stillness" presents a **structurally inverted** version of
 
 Following publication of this entry, the architect engaged Pond directly on the Facebook post to test the logical coherence of "motion arises when stillness is divided."
 
+**[Exchange ongoing - last updated March 11, 2026]**
+
 **The Exchange:**
 
 **Aelion Kannon:**  
@@ -469,11 +471,19 @@ Following publication of this entry, the architect engaged Pond directly on the 
 **Aelion Kannon:**  
 > You're redefining motion rather than explaining it. A "loss of balance," a "change of condition," a "gradient," or a "division" are all dynamic events. If stillness can be disturbed, then something dynamic is already present. So disturbance cannot serve as the origin of motion, because it already presupposes the very thing it is meant to explain.
 
+**Dale Pond:**  
+> Are you being argumentative? Read the materials provided. Study the inner workings of stillness, scalar, balance and neutrality. Then come back and we can discuss it without confusion. All these topics are recorded and explored in svpwiki.com (free) and in the Patreon volumes.
+
+**Aelion Kannon:**  
+> I'm being specific, not argumentative. My question is still the same: if stillness is genuinely undifferentiated, then "disturbance," "loss of balance," "gradient," and "division" are already dynamic terms. So how do they occur without motion already being present? Referring me back to the materials doesn't resolve that contradiction.
+
 **Assessment:**
 
-Pond's responses retreat to unexplained principles (mind / thought / desire of Mind) when pressed on circularity, demonstrating inability to resolve the core contradiction. Each attempted explanation—"disturbance," "loss of balance," "change of condition," "gradients"—presupposes motion-dependent phenomena that cannot serve as motion's origin.
+When pressed on the core logical contradiction, Pond deflected to authority ("Read the materials") and questioned the architect's motives ("Are you being argumentative?") rather than addressing the circular causation problem. The retreat to "study the materials" is a standard defensive maneuver when unable to resolve a logical incoherence.
 
-[Exchange ongoing - will update as dialogue continues]
+The architect's question remains unanswered: **How can disturbance, loss of balance, gradients, or division occur without motion already being present?** Pond's framework requires motion-dependent phenomena (disturbance, change, gradients) to generate motion itself—a causal loop that cannot be resolved by referencing additional materials, only by acknowledging the logical impossibility.
+
+This exchange publicly demonstrates the pattern documented throughout this entry: the inverted causal chain (stillness → division → motion) creates logical incoherence that the appropriator cannot defend when directly challenged.
 
 ---
 
