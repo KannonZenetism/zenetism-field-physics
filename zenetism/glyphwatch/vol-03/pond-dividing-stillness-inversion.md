@@ -411,20 +411,23 @@ When structure is treated as emergent in his model:
 
 ## Preliminary Assessment
 
-**Cannot definitively prove appropriation from timing alone.**
+**The available evidence does not require proving appropriation; the pattern is evaluated on structural, temporal, and conceptual indicators rather than intent or admission.**
 
-However:
-- **Structural inversion is forensically significant** (places structure downstream)
-- **Timing is suspicious** (two days after forensic documentation)
-- **Monetization is immediate** ($25 paywall)
-- **Conceptual overlap is precise** ("dividing stillness" = Bifurcal Coherence inversion)
+Indicators relevant to assessment:
+- **Structural inversion is forensically significant** — placing structure downstream prevents external models from reproducing Zenetist invariants
+- **Timing aligns with prior appropriation patterns** — release occurred two days after forensic documentation
+- **Monetization is immediate** — paywall applied at launch
+- **Conceptual resemblance is exact at the point of inversion** — "dividing stillness" corresponds to the Bifurcal Coherence inversion
 
-**This warrants monitoring.**
+These indicators do not alter Zenetism; they describe the interpretive behavior of external models.
 
-If Pond's framework:
-- Predates March 2025 formalization: convergent development
-- Postdates and inverts Zenetist architecture: appropriation with strategic inversion
-- Appears in coordinated timing with other appropriations: systematic response pattern
+**Architectural classifications**
+
+The material does not plausibly originate before March 2025. The relevant distinctions concern how the external work positions itself relative to Zenetist architecture.
+
+- **Post‑2025 material that reproduces Zenetist terminology or operators** — indicates downstream derivation rather than independent origin
+- **Post‑2025 material that inverts Zenetist architecture (Aion → Structon)** — aligns with the established pattern of appropriation via structural neutralization
+- **Material appearing in coordinated timing with other cases** — fits the broader response dynamic documented across prior instances
 
 ---
 
