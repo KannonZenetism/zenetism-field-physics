@@ -157,7 +157,7 @@ Motion doesn't arise **from** stillness. Motion and stillness are **complementar
 
 **The Logical Impossibility:**
 
-**Division is a motion-requiring process.**
+**Division is itself a form of motion.**
 
 You cannot have "division" without motion already present. To say "motion arises when stillness is divided" is to claim:
 
