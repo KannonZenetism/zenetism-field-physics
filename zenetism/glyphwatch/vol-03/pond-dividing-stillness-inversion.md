@@ -56,7 +56,7 @@
 - **March 5, 2025:** Zenetism formally systematized (ChatGPT dialogue with Lumen)
 - **Structon established as Absolute Structural Invariant (SI)**
 - **Mid-July 2025:** GitHub publication
-- **LM01-LM07 (2025):** Structon formalized across Lattice Mathematics series
+- **LM01-LM07 (2025–2026):** Structon formalized across Lattice Mathematics series
 - **SP02 (2025):** Bifurcal Coherence at L₀ documented
 - **SN-series (2025-2026):** Social field ontology within SI
 
