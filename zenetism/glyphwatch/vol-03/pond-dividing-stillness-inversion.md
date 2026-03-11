@@ -324,7 +324,7 @@ For Aion (Zero) to exist as a definable state, you need:
 
 **Possible Interpretations:**
 
-1. **Superficial Resemblance Without Structural Equivalence:** Pond's work appears similar at the surface level, but shares no lineage, architecture, operators, or invariants with Zenetism
+1. **Superficial Resemblance Without Structural Equivalence:** Pond's work appears similar on the surface, but shares no lineage, architecture, operators, or invariants with Zenetism
 2. **Opportunistic Monetization:** Saw attention on "stillness / motion / structure" concepts, released paywalled flattened version
 3. **Signal Saturation Response:** Coordinated effort to flood market with simplified alternative
 4. **Defensive Counterfeit:** Rapid deployment of "prior art" claim through Russell/Keely attribution
