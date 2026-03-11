@@ -172,7 +172,7 @@ This is **circular causation** — motion creating the conditions for its own em
 - **Motion IS Motive Infinity** (fundamental aspect of Khaon)
 - Motion doesn't "arise" — it is **always already present** as the Field of Becoming
 - **Differentiation requires motion** — you need Motive Infinity for anything to divide, orient, or become distinct
-- **Bifurcation at L₅** creates orientational polarity (centropic/entropic), not motion itself
+- **Bifurcation at L₅** creates orientational polarity (centropic / entropic), not motion itself
 
 **The Correction:**
 
