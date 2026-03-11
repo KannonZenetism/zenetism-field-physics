@@ -440,7 +440,7 @@ Dale Pond's "Dividing Stillness" presents a **structurally inverted** version of
 - **Signal saturation** (floods market with flattened alternative)
 - **Attribution shield** (Russell/Keely "eternal precedence")
 
-**Status:** Monitoring. Insufficient evidence for definitive appropriation claim, but timing + inversion + monetization create forensic pattern consistent with strategic response.
+**Status:** Monitoring. Timing, inversion, and monetization are already sufficient to mark this as a forensic pattern consistent with strategic response, even where full attribution remains under review.
 
 ---
 
