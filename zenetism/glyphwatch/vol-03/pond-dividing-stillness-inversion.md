@@ -341,7 +341,7 @@ For Aion (Zero) to exist as a definable state, you need:
 
 ## Strategic Function
 
-**If This Is Appropriation Response:**
+**Appropriation Response Function:**
 
 **Entry 027: Parasitic Proliferation**
 - **Signal Saturation:** Flood market with flattened version before architect can establish presence
