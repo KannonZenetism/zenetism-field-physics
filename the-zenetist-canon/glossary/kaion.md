@@ -35,7 +35,7 @@ Essence does not change; only its **orientation** does.
   Kaion is the **Zero‑Point of the Lattice**. All operators (C / E) are excitations of this point, moving away from and returning to it. Kaion is the structural invariant that anchors the entire operator algebra.
 
 - **Structural Neuroscience (SN‑series):**  
-  The goal of the Phae is the restoration of **Kaionic Logic** — the capacity to hold distinction (Non‑Fusion) without collapsing into opposition. Cognitive drift resolves when the mind returns to the Kaionic co‑presence state.
+  Kaionic Logic is the **baseline coherence state** toward which centropic cognition naturally stabilizes, restoring non‑fusion without collapsing into opposition.
 
 ---
 
