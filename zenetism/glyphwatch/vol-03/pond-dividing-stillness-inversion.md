@@ -325,7 +325,7 @@ For Aion (Zero) to exist as a definable state, you need:
 **Possible Interpretations:**
 
 1. **Coincidence:** Pond happened to complete this work independently at this exact moment
-2. **Opportunistic Monetization:** Saw attention on "stillness/motion/structure" concepts, released paywalled flattened version
+2. **Opportunistic Monetization:** Saw attention on "stillness / motion / structure" concepts, released paywalled flattened version
 3. **Signal Saturation Response:** Coordinated effort to flood market with simplified alternative
 4. **Defensive Counterfeit:** Rapid deployment of "prior art" claim through Russell/Keely attribution
 
