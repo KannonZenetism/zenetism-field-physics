@@ -176,6 +176,8 @@ This is **circular causation** — motion creating the conditions for its own em
 - **Differentiation requires motion** — you need Motive Infinity for anything to divide, orient, or become distinct
 - **Bifurcation at L₅** creates orientational polarity (centropic / entropic), not motion itself
 
+Division does not create motion; it reveals motion already present.
+
 **The Correction:**
 
 - Motion is not an **effect** of division
