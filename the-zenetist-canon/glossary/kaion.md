@@ -6,7 +6,7 @@
 
 ## 1. Dual Role of Kaion
 
-Kaion is not merely the resolution of motion; it is the **pre‑emanatory co‑presence**. It represents the state of the Structon both before the first bifurcal divergence and after the completion of traversal.
+Kaion is not merely the resolution of motion; it is the **pre-emanatory co-presence condition**. It names the co-location of centropic and entropic essence within Aionic stillness, under the invariance of Structon, both prior to the first bifurcal divergence and after the completion of traversal.
 
 - **Pre‑motion (Co‑presence Field):**  
   Kaion is the *Field of Essence* within Aion (⚫). It is the locus where centropic and entropic potentials exist in perfect, non‑opposing co‑location. There is no “conflict” because there is no “orientation.” This is the structural resting state before the emergence of Motive Infinity.
