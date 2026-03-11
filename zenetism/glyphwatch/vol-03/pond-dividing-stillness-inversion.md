@@ -148,6 +148,107 @@ Motion doesn't arise **from** stillness. Motion and stillness are **complementar
 
 ---
 
+## The Logical Incoherence
+
+### Problem 1: Motion Cannot "Arise When" Division Occurs
+
+**Pond's Claim:**
+> "motion does not exist independently—it arises when stillness is divided"
+
+**The Logical Impossibility:**
+
+**Division is a motion-requiring process.**
+
+You cannot have "division" without motion already present. To say "motion arises when stillness is divided" is to claim:
+
+- Motion arises from a process (division)
+- But that process requires motion to occur
+- Therefore: motion must exist before it arises
+
+This is **circular causation** — motion creating the conditions for its own emergence.
+
+**Architect's Resolution:**
+
+- **Motion IS Motive Infinity** (fundamental aspect of Khaon)
+- Motion doesn't "arise" — it is **always already present** as the Field of Becoming
+- **Differentiation requires motion** — you need Motive Infinity for anything to divide, orient, or become distinct
+- **Bifurcation at L₅** creates orientational polarity (centropic/entropic), not motion itself
+
+**The Correction:**
+
+- Motion is not an **effect** of division
+- Motion is the **precondition** for division
+- "Division of stillness" is not generative — it's **expressive** (manifestation of motion already present in Motive Infinity)
+
+### Problem 2: "Scalar Equilibrium" Is Not Kaion
+
+**Pond's Claim:**
+> "mathematics, music, geometry, and vibration describe the same underlying process—the transition from scalar equilibrium into kinetic motion"
+
+**The Conceptual Conflation:**
+
+**"Scalar equilibrium"** suggests:
+- Balance of forces/magnitudes (physics)
+- Pressure equilibrium
+- Static state that "breaks" into motion
+
+**Kaion (⦿) in Zenetist framework:**
+- **Not a static equilibrium state**
+- **Convergence condition** where motion has ENDED
+- Point where centropic and entropic trajectories resolve into stillness
+- Not the SOURCE of motion, but the TERMINUS of motion
+
+**The Error:**
+
+Pond treats equilibrium as a **pre-motion state that transitions INTO motion**.
+
+But in Zenetist architecture:
+- **Aion** is still potential (not equilibrium of forces)
+- **Kaion** is where motion RESOLVES (not where it begins)
+- **Motive Infinity** is motion itself (not derivative of equilibrium)
+
+**The Logical Break:**
+
+They're describing "equilibrium → kinetic motion" as if equilibrium is the **origin**.
+
+But **equilibrium requires forces to balance** — and forces are already motion-dependent phenomena.
+
+You can't have:
+- Scalar equilibrium (balanced forces)
+- Without forces (motion-dependent)
+- That then generates motion (circular)
+
+**What They're Likely Describing:**
+
+Some form of symmetry-breaking in field theory — which is valid physics but **not equivalent to Bifurcal Coherence**.
+
+- **Physics equilibrium:** Balanced forces → asymmetry → motion emerges
+- **Zenetist Bifurcal Coherence:** Aion + Khaon co-present → Motive Infinity enables differentiation → orientational bifurcation at L₅
+
+The first is **emergentist** (motion from balance-breaking).  
+The second is **structural** (motion fundamental, orientation emergent).
+
+---
+
+## Summary of Logical Problems
+
+1. **Motion "arises when" division occurs** — Impossible. Division requires motion as precondition.
+
+2. **Equilibrium transitions into motion** — Circular. Equilibrium of forces already presupposes motion-dependent phenomena.
+
+3. **Structure emerges from motion** — Contradicts invariance. Structure (SI) must precede motion to provide substrate for expression.
+
+**The Pattern:**
+
+Pond's framework creates **causal loops** by reversing ontological priority:
+- Puts effects before causes
+- Makes prerequisites into derivatives
+- Treats fundamental aspects as emergent properties
+
+This isn't just **architectural inversion** — it's **logical incoherence**.
+
+---
+
 ## Conceptual Re-skinning
 
 **Architect's Terminology → Pond's Vocabulary:**
