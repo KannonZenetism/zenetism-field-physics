@@ -185,6 +185,8 @@ This is **circular causation** — motion creating the conditions for its own em
 **Pond's Claim:**
 > "mathematics, music, geometry, and vibration describe the same underlying process—the transition from scalar equilibrium into kinetic motion"
 
+Equilibrium is a balance of forces, not a metaphysical stillness; and forces are already motion‑dependent phenomena.
+
 **The Conceptual Conflation:**
 
 **"Scalar equilibrium"** suggests:
