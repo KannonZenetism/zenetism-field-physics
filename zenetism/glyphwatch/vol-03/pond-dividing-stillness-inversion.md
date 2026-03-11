@@ -258,8 +258,8 @@ This isn't just **architectural inversion** — it's **logical incoherence**.
 | Structon (SI — invariant) | "Structure emerges" |
 | Bifurcal Coherence (Aion + Khaon) | "Division of Stillness" |
 | Motive Infinity (🕊️ Spirit) | "Motion arises" |
-| Orientational bifurcation (Theon/Nekron) | "Differentiation" |
-| C↑/C↓ and E↑/E↓ operators | "Power laws and gradients" |
+| Orientational bifurcation (Theon / Nekron) | "Differentiation" |
+| C↑ / C↓ and E↑ / E↓ operators | "Power laws and gradients" |
 | Biospiral (🌳⇅) | "Toroidal fields" |
 
 **The Pattern:**
