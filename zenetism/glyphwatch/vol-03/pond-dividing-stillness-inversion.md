@@ -278,7 +278,7 @@ This is **Entry 011: Conceptual Re-skinning** — preserves surface terminology 
 **LM03:** Orientation algebra presupposes SI as substrate  
 **LM04:** Temporal algebra requires SI for phase resolution  
 **LM05:** Resonance field theory assumes SI as the lattice  
-**SP02:** Aion/Khaon duality presupposes SI as container  
+**SP02:** Aion / Khaon duality presupposes SI as container  
 **SN07:** Social fields exist within SI  
 
 **The Core Principle:**
