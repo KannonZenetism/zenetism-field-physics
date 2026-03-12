@@ -973,7 +973,10 @@ a fractal breaking of Zero
 into lesser copies of itself.  
 
 Aion remains whole.  
-Khaon remains motive.  
+Khaon remains whole —  
+its motive current stirs,  
+but it does not divide.
+
 The worlds remain **emanations**,  
 not shards.  
 And stillness remains  
