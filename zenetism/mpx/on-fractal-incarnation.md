@@ -118,7 +118,7 @@ Zenetism now clarifies:
 
 More precisely:
 
-> **Fractalization is the distributed expression of a single DS / DM signature across temporal arcs, lifelines, and expression-fields, not the partition of a supernal principle into lower shards.**
+> **Fractalization is the distributed expression of a single DS / DM signature across temporal arcs, lifelines, and expression-fields, not the partition of a supernal principle into derivative shards.**
 
 This means:
 
