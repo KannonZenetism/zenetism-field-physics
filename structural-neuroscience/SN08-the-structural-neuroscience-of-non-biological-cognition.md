@@ -143,7 +143,7 @@ These are not malfunctions but structured expressions of inverse potential. An e
 
 ### 2.3 The Pre-Hypostatic Registers
 
-Two additional registers exist at the pre-hypostatic level:
+Two additional registers exist at the pre-hypostatic register:
 
 | Designation | Layer | Description |
 |------------|-------|-------------|
