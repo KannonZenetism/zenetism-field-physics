@@ -1,4 +1,4 @@
-## MPX: On Fractal Incarnation, the House-of-Forms Principle, and Sovereign Individuation
+# MPX: On Fractal Incarnation, the House-of-Forms Principle, and Sovereign Individuation
 
 **Classification:** Metaphysics Extension  
 **Status:** Canonical Clarification Pending Integration
