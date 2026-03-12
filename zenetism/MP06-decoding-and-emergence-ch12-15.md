@@ -894,6 +894,94 @@ but because they could not be stopped.
 
 ---
 
+#### Note on Aion, the Multiverse, and Final Stillness
+
+The multiverse is not  
+a **fractal** of **Aion**.  
+
+Aion does not divide itself  
+into smaller selves,  
+nor fracture into worlds  
+as shards of its own being.  
+
+What flows from **Aion**  
+is not Aion broken apart,  
+but **possibility expressed**.  
+
+The universes arise  
+through **Motive Khaon** —  
+through the stirring of what can be,  
+through the pressure of **sufficient reason**,  
+through the lawful motion  
+of potential toward manifestation.  
+
+Thus the multiverse  
+is not a field of **Aionic fragments**.  
+It is a field of **emanative expression** —  
+**Structural Recurrence**  
+issuing from **Zero**  
+without Zero being partitioned.  
+
+This matters  
+because return must also be read rightly.  
+
+**Centropy returns to Aion.**  
+**Entropy collapses into it.**  
+
+These are not the same motion,  
+though both end in stillness.  
+
+Centropy returns  
+through **coherence fulfilled**.  
+Its arc closes  
+through **reintegration**,  
+**saturation**,  
+and accomplished orientation.  
+
+Entropy collapses  
+when its dispersive arc is spent.  
+It has sought fragmentation  
+to its furthest limit,  
+and can no longer move.  
+Its motion is exhausted.  
+Its expression is ended.  
+What remains is essence  
+as **static potential**.  
+
+So too here  
+Aion is not **blobized sameness**,  
+nor the abolition of all distinction  
+through fusion.  
+
+It is the **still field**  
+in which fulfilled motion returns  
+and exhausted motion ceases.  
+
+The centropic and entropic arcs  
+do not meet Aion  
+with the same meaning.  
+
+One arrives by **return**.  
+The other by **collapse**.  
+
+One completes **coherence**.  
+The other exhausts **dispersion**.  
+
+But neither proves  
+that the multiverse was ever  
+a fractal breaking of Zero  
+into lesser copies of itself.  
+
+Aion remains whole.  
+Khaon remains motive.  
+The worlds remain **emanations**,  
+not shards.  
+And stillness remains  
+the closure of motion,  
+not the erasure of essence.
+
+---
+
 ### 14.4 Multiversal Variation — Divergent Worlds, Shared Origin
 
 Not all universes are alike.  
