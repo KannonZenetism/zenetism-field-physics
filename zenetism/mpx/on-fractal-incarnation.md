@@ -236,11 +236,11 @@ It seeks lawful placement.
 
 ---
 
-## 8. Echo, Articulation, Resonance, Instantiation
+## 8. Structural Recurrence, Articulation, Resonance, Instantiation
 
 To stabilize terminology, Zenetism now distinguishes the following:
 
-### Echo
+### Structural Recurrence
 
 A patterned recurrence across layers or systems without numerical identity.
 
