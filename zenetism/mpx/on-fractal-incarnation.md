@@ -336,7 +336,7 @@ Where earlier writing spoke loosely of:
 
 the refined interpretation should generally move toward:
 
-- **echo**
+- **structural recurrence**
 - **articulation**
 - **resonance**
 - **structural correspondence**
