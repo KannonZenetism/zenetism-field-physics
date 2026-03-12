@@ -29,7 +29,7 @@ The problem is that it treats the individuated being as a divisible extension of
 
 If accepted, such a doctrine would imply that **L₃ individuation is provisional only**, and that the being’s apparent sovereignty is destined for abolition within a larger identity. Under that logic, acclivous motion would no longer perfect the self. It would erase the self through supernal absorption.
 
-This is not lawful **Acclivious Centropy**.  
+This is not lawful **Acclivous Centropy**.  
 It is counterfeit fulfillment through identity-loss.
 
 ---
