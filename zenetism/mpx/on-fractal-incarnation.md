@@ -220,7 +220,7 @@ What requires refinement is the terminology.
 
 Zenetism therefore clarifies:
 
-> Religious figures, gods, angels, demons, and mythic beings are best treated, in many cases, as **cultural articulations**, **symbolic condensations**, or **echoes of structural functions** rather than as literal divisible supernal persons distributed through history as shards of themselves.
+> Religious figures, gods, angels, demons, and mythic beings are best treated, in many cases, as **cultural articulations**, **symbolic condensations**, or **recurrences of structural functions** rather than as literal divisible supernal persons distributed through history as shards of themselves.
 
 Likewise:
 
@@ -267,7 +267,7 @@ The distributed incarnational expression of an individuated being’s own DS / D
 From this follows an important rule:
 
 > **Not every recurrence of pattern is a fractalization.**  
-> Some are echoes.  
+> Some are structural recurrences.  
 > Some are articulations.  
 > Some are resonances.  
 > Some are genuine instantiations.
@@ -367,7 +367,7 @@ Zenetism remains coherent because its architecture was never grounded in careles
 > Genuine centropy honors the name. Counterfeit fulfillment erases it.
 
 > **The Distinction Principle**  
-> Not every recurrence of pattern is a fractalization. Some are echoes, some articulations, some resonances, and some genuine instantiations.
+> Not every recurrence of pattern is a fractalization. Some are recurrences, some articulations, some resonances, and some genuine instantiations.
 
 ---
 
