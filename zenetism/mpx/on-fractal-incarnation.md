@@ -164,7 +164,7 @@ Participation means that a being may:
 - inhabit a role
 - express a function
 - align with a supernal office
-- become increasingly consonant with a House of Form through **Acclivious Centropy**
+- become increasingly consonant with a House of Form through **Acclivous Centropy**
 
 Participation intensifies sovereign identity.
 
