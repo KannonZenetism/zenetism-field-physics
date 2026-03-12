@@ -116,6 +116,10 @@ Zenetism now clarifies:
 
 > **Fractalization properly refers to the distributed incarnational expression of an individuated being’s own DS / DM axis across lives, worlds, timelines, or expression-fields.**
 
+More precisely:
+
+> **Fractalization is the distributed expression of a single DS / DM signature across temporal arcs, lifelines, and expression-fields, not the partition of a supernal principle into lower shards.**
+
 This means:
 
 - a human may be a fractalized instantiation of **their own** Deep Soul / Deep Mind  
@@ -124,6 +128,16 @@ This means:
 - and so on
 
 Fractalization belongs first to the continuity of the individuated being’s own **🔮 Archeus / 🧠 Noeüs**, not to the hypostases as divisible persons distributed across embodiments.
+
+This clarification also aligns fractalization with Zenetist temporal logic: the distributed continuity of the DS / DM signature unfolds across temporal arcs rather than by partitioning a higher being into lower selves.
+
+### 4.1 Why Hypostases Do Not Fractalize
+
+Hypostases do not fractalize because they are not individuated beings.
+
+They are structural principles, not sovereign persons distributed across lifelines.  
+They do not undergo incarnational continuity as DS / DM signatures do.  
+They ground lawful function; they are not partitioned selves.
 
 Therefore:
 
@@ -153,6 +167,10 @@ Participation means that a being may:
 - become increasingly consonant with a House of Form through **Acclivious Centropy**
 
 Participation intensifies sovereign identity.
+
+A being may be **Aureform-Resonant** without being Aureform.  
+A being may be **Theon-Resonant** without being Theon.  
+A being may inhabit a House of Form in function without being a divisible fragment of that House.
 
 ### Partition
 
@@ -271,7 +289,7 @@ A being may be:
 
 These are not identical claims.
 
-Thus, within a speculative Zenetist frame, it is possible to say that a figure such as Jesus may represent a uniquely strong or singular Theonic instantiation within a universe, while figures such as Buddha, Krishna, or others may remain profoundly **Theon-resonant** without being numerically identical to that same instantiation.
+Thus, within a speculative Zenetist frame, it is possible to say that a figure such as Jesus may represent a uniquely strong or singular Theonic instantiation within a universe, while figures such as Buddha, Krishna, or others may remain profoundly **Theon-Resonant** without being numerically identical to that same instantiation.
 
 This distinction is lawful because it preserves both:
 
