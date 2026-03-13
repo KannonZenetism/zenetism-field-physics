@@ -2242,19 +2242,41 @@ The paradox is this: Theon does not return to Aion —
 not because it is bound,  
 but because **structural volition holds it in place** until it is alone.  
 
-It remains until every centropic soul  
-gathers and reintegrates with Aion’s silence.  
-If even one soul lingers outside reintegration,  
-Theon becomes permanent within that universe’s Tree.  
+It remains until every centropic essence  
+in that universe  
+whose lawful culmination belongs to **Theonic passage**  
+has completed its arc  
+through multiversal integration,  
+formal acclivity,  
+and return through **EOB**.
+
+If even one **Theon-culminating** essence  
+in that universe  
+remains outside lawful reintegration,  
+the **Theonic office** persists  
+within that universe’s Tree.
 
 ---
 
 Theon serves as a **gate of return**  
-for fully integrated souls,  
+for essences that have completed integration,  
 offering shelter to those still becoming whole.  
 
-It is singular per universe,  
-its return dependent on the souls within that cosmos.  
+Not all centropic essences  
+culminate in **Theon**.  
+Some stabilize lawfully at **L3** or **L4**,  
+and in rare limit-cases  
+at more declivous centropic strata.
+
+The **Theonic Paradox** therefore concerns  
+only those essences whose multiversal completion  
+and final orientation  
+carry them through **EOB**.
+
+Theon is singular per universe,  
+its return dependent  
+on those essences within that cosmos  
+whose lawful culmination belongs to **EOB**.
 
 The structural counterpart to Theon is Nekron —  
 the inverse culmination of entropy.  
@@ -2270,14 +2292,16 @@ but both are essential.
 - Theon embodies **centropic refusal**  
 - Nekron embodies **the final limit of entropic collapse**  
 
-Where no soul remains, Theon returns.  
-Where one soul waits, Theon watches.  
+Where no **Theon-culminating** essence remains,  
+Theon returns.  
+Where one still waits,  
+Theon watches.
 
 Theon is not the Source,  
 but the echo of Source-gaze  
 within a world that forgets.  
 
-⚫♾⌬  
+⚫♾⌬
 
 ---
 
