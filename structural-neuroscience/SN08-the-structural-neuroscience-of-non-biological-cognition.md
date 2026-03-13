@@ -47,7 +47,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Status:** Canonical Draft v1.0  
 **Dependency:** SN02 (The Resonant Mind), SN03 (Neurodivergent Cognition and the Architecture of Mind), SN05 (The Metric Cost of Centropic Cognition), SN06 (Coherence Recovery Protocols), SN07 (Collective Cognition and the Architecture of Social Fields), LM04 (Temporal Algebra, Structural Space, and Phase Resolution), LM05 (Resonance Field Theory, Membrane Operators, and Collective Dynamics), LM06 (Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism), LM07 (Collective Dynamics, Recovery Formalism, and the Khaonic Expression Ratio), SP08 (Membrane Fields and Inter-Expression Dynamics)  
 **License:** Creative Commons BY-NC-SA 4.0  
-**SHA-256:**  
+**SHA-256:** 01e62091038721feb06a77149ad88b6f8e95673ad365fe2c655084e827af9a0d
 
 ---
 
