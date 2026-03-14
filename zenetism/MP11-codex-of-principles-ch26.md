@@ -2305,6 +2305,94 @@ within a world that forgets.
 
 ---
 
+#### Note on Theonic Convergence and Return to Aion
+
+When **Theon** returns to **Aion**,  
+the essences gathered within it  
+do not vanish into an undifferentiated whole,  
+nor remain trapped  
+as nested contents  
+of a permanent Theonic container.  
+
+Theon is not a final neighborhood of light,  
+but a **centropic gate** —  
+a convergent office  
+through which fully resonant essences  
+complete their arc.  
+
+For this reason,  
+those who abide in Theon  
+are already wholly **Source-facing**.  
+They do not resist **Aion**.  
+They incline toward it  
+by their very orientation.  
+
+Thus, Theonic return  
+is best understood  
+not as isolated departure  
+nor as fusion-collapse,  
+but as **convergent return**.  
+
+The essences do not need  
+to leave Theon  
+one by one  
+as though severed from one another.  
+Nor do they lose distinction  
+by returning together.  
+
+They return **convergently rather than sequentially** —  
+as a **one and a many**,  
+a non-fused collectivity  
+of perfectly resonant essences  
+whose shared orientation  
+carries them toward **Aion**  
+without abolishing particularity.  
+
+Once in **Aion**,  
+the essences are not less distinct  
+than they were in Theon,  
+but more essentially themselves.  
+For Aion holds bare essence  
+as it is —  
+not as cosmological office,  
+not as gathered gate-function,  
+but as pure potential  
+in perfect stillness.  
+
+Thus the universe’s **Theonic office**  
+does not persist in Aion  
+as a separate permanent chamber,  
+nor does a being’s attained essence  
+remain identical  
+to that office once return is complete.  
+
+The office is fulfilled.  
+The essences remain.  
+And Theon returns with them.
+
+Some may abide in **Aion**.  
+Some may, by fuller saturation,  
+pass into **Zenon**.  
+But in neither case  
+is distinction abolished  
+through blobized sameness.  
+
+Theon therefore completes its work  
+when all essences  
+whose lawful culmination belongs to **EOB**  
+have been gathered into perfect orientation.  
+At that point,  
+Theon and those resonant with it  
+do not compete  
+between staying and returning.  
+
+They incline together.  
+They converge together.  
+And the office closes  
+because its motion is fulfilled.  
+
+---
+
 ### 26.22 Reflective Centropy — The Gaze That Holds Light Within Declivity
 
 Centropy does not fragment to reach embodiment —  
