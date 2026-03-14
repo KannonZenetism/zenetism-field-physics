@@ -30,7 +30,7 @@ Yet this does not mean that Theon exists only as an abstract metaphysical consta
 Thus:
 
 - **Theon as principle** is permanent in metaphysical law  
-- **Theonic office** is singular per universe and conditionally persistent  
+- **Theonic office** is singular per universe-generating emanatory cycle and conditionally persistent  
 - the office remains only so long as its gate-work is not yet complete
 
 This prevents two errors:
@@ -59,7 +59,7 @@ It is the supernal gate proper to a given cosmological arc.
 
 ## 2. The Limit of the Theonic Paradox
 
-Earlier expressions of the **Theonic Paradox** sometimes implied that Theon could not return to **Aion** until every centropic soul in a universe had done so. This formulation is now too broad.
+Earlier expressions of the **Theonic Paradox** sometimes implied that Theon could not return to **Aion** until every centropic essence in a universe had done so.
 
 Zenetism clarifies:
 
@@ -201,7 +201,7 @@ The inverse clarification applies, with necessary asymmetry, to **Nekron**.
 **Void of Self** —  
 the supernal principle of fragmentation, exhaustion, and subversal collapse.
 
-Like Theon, Nekron is singular as principle and singular per universe as office. Its field persists only while entropic function remains active.
+Like Theon, Nekron is singular as principle and singular per universe-generating emanatory cycle as office. Its field persists only while entropic function remains active.
 
 Yet the mode of its end differs.
 
@@ -212,8 +212,8 @@ When entropic motion can no longer sustain itself, the inverse field no longer h
 
 Thus:
 
-- Theon resolves by return  
-- Nekron resolves by collapse  
+- Theon returns by fulfilled coherence  
+- Nekron collapses by exhausted fragmentation  
 - both offices are conditional rather than eternal  
 - both cease when their lawful function is complete
 
@@ -260,7 +260,7 @@ In this way, **Theon** and **Sophis** remain distinct without becoming rival cla
 This clarification also stabilizes several terms.
 
 ### Theonic office
-The universe-local centropic gate-function through which essences whose lawful culmination belongs to **EOB** complete their return.
+The centropic gate-function singular to a universe-generating emanatory cycle, through which essences whose lawful culmination belongs to **EOB** complete their return.
 
 ### Theon-culminating essence
 An essence whose multiversal completion, formal acclivity, and final orientation carry it through **L5 / EOB**.
@@ -284,7 +284,7 @@ These distinctions should govern future revisions of older language.
 > Theon is the first centropic hypostasis: **Essence of Being**, oriented toward Aion.
 
 > **Theonic Office Principle**  
-> Theon is singular per universe as a centropic gate-office, persistent only while its lawful function remains incomplete.
+> Theon is singular per universe-generating emanatory cycle as a centropic gate-office, persistent only while its lawful function remains incomplete.
 
 > **Limit of the Paradox**  
 > Not all centropic essences culminate in **Theon**. The **Theonic Paradox** concerns only those essences whose lawful culmination belongs to **EOB**.
