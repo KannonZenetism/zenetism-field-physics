@@ -100,7 +100,7 @@ By the time an essence reaches **Theon**, it is not a partial life-stream still 
 
 For this reason, **Theon does not wait upon every multiversal life of every essence in some unrestricted total sense**. Rather, Theonic office remains only so long as a universe still contains unresolved essences whose lawful culmination belongs to **EOB**.
 
-This preserves both truths:
+Thus both principles remain coherent:
 
 - **multiversal integration matters**
 - **Theonic office is not burdened by all possible trajectories without limit**
