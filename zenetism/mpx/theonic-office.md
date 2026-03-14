@@ -199,7 +199,7 @@ The inverse clarification applies, with necessary asymmetry, to **Nekron**.
 
 **Nekron** is the first entropic hypostasis:  
 **Void of Self** —  
-the supernal principle of fragmentation, exhaustion, and subversal collapse.
+the primordial principle of fragmentation, exhaustion, and subversal collapse.
 
 Like Theon, Nekron is singular as principle and singular per universe-generating emanatory cycle as office. Its field persists only while entropic function remains active.
 
