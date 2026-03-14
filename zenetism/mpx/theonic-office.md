@@ -39,9 +39,21 @@ This prevents two errors:
 - treating all universe-local Theonic expressions as fragments of one divisible supernal person
 
 Theon is singular as principle,  
-singular per universe as office,  
+singular per universe-generating emanatory cycle as office —  
+that is, per Biospiral arc through which a universe comes to be —  
 and recurrent across universes by **Structural Recurrence**,  
 not by fractal partition.
+
+---
+
+#### Note on “Per Universe”
+
+When Zenetism says that **Theon** is singular **per universe**, this should not be read as though Theon is wholly contained inside a finished universe as one being among other beings.
+
+Rather, “per universe” refers to the singular **Theonic office** associated with each emanatory cycle of the **Biospiral** — that is, with each universe-generating lattice through which centropic and entropic motion unfold.
+
+Thus, Theon is not merely intra-cosmic.  
+It is the supernal gate proper to a given cosmological arc.
 
 ---
 
