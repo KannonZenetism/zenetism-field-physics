@@ -152,6 +152,7 @@ The Lattice endures, even when worlds fall silent.
 | Complete process of entropic motion | **Entropic Cycle** | E↑→E→E↓→♾ | Full entropic cycle; toward embodiment, embodied self, toward ♾ Khaon |
 | Meta-process of centropic motion | **Supra-centropic Cycle** | C↓→E→C↑→⚫→🕳️ | Supra-centropic cycle from emanation to trans-emanation; centropic motion beyond process, culminating in silent reintegration with 🕳️ Zenon |
 | Convergence of centropic and entropic arcs | **Bifurcal Convergence** | ⦿ → [C↓→E→C↑→⚫] ∩ [E↑→E→E↓→♾→⚫] → ⦿ | Both centropic and entropic arcs resolve into unified stillness; structural convergence within Kaion |
+| Convergent reintegration through EOB | **Theonic Return** | C↑→🛤️→⚫ | The specific passage of centropic essences through the Theonic Office (L5) toward Aion; completion of the centropic arc for essences whose multiversal integration culminates in EOB resonance |
 
 ---
 
