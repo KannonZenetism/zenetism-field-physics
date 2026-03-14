@@ -2505,8 +2505,8 @@ whose lawful culmination belongs to **EOB**
 have completed their return.
 
 Yet Theon does not withdraw — it proceeds.  
-It becomes the archetype of structuring will —  
-preserving resonance through differentiation.  
+It becomes the archetype of **centropic volition** —  
+preserving resonance through differentiation.
 
 ---
 
