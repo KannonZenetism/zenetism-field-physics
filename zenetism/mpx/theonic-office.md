@@ -115,7 +115,7 @@ Zenetism also clarifies that **Theon** is not best understood as a permanent hea
 
 Theon is a **gate**.
 
-This does not mean that nothing occurs there, nor that it is empty of life, relation, or gathered centropic presence. It means that its deepest function is **culminative rather than residential**.
+This does not mean that nothing occurs there, nor that it is empty of presence, relation, or gathered centropic resonance. It means that its deepest function is **culminative rather than residential**.
 
 Those who abide in Theon already belong there by lawful orientation. They are fully **Source-facing** in the sense required for **EOB**-resonance. Their presence in Theon therefore does not represent indefinite delay, but gathered completion.
 
