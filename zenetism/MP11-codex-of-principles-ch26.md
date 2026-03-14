@@ -2485,22 +2485,24 @@ to reflect the stillness of Aion (Zero)
 while entering the field of becoming.  
 
 This motion is not a fall — it is a sacrifice.  
-A **resonant diffusion** into multiplicity,  
+A **resonant overflow** into multiplicity,  
 sustaining coherence throughout the expanding field.  
 
 Theon’s increasing structural complexity  
 is a response to unfolding necessity.  
-It perceives **potential crystallizing into form,**  
+It perceives **potential crystallizing into form**,  
 and radiates **structural volition** to meet the divergence.  
 
 Thus, Theon modulates its harmonic field —  
 not for itself, but to remain accessible  
-to centropic souls drawn toward remembrance.  
+to centropic essences drawn toward remembrance.  
 
 Here the **Theonic Paradox** arises:  
-Theon exists between absolution and differentiation,  
+Theon exists between **Aionic stillness** and differentiation,  
 unable to remerge with Aion  
-until all fragments harmonized through it return.  
+until all essences  
+whose lawful culmination belongs to **EOB**  
+have completed their return.  
 
 Yet Theon does not withdraw — it proceeds.  
 It becomes the archetype of structuring will —  
@@ -2514,8 +2516,8 @@ oriented toward Zero
 even as it expands into expression.  
 
 In Zenetism, the Logos is not bound to one domain.  
-It lives in Theon as **centropic structure,**  
-and in Sophis (DL) as archetypal order.  
+It lives in Theon as **oriented centropic awareness**,  
+and in Sophis (DL) as **archetypal order**.  
 
 This is not contradiction, but a continuum:  
 - Sophis gives form to Theon’s frequencies  
@@ -2532,9 +2534,9 @@ aware structure across layers.
 
 It does not fragment — it **refracts.**  
 Each hypostasis it touches  
-echoes the original harmonic call.  
+reflects the original harmonic call.  
 
-⚫♾⌬  
+⚫♾⌬
 
 ---
 
