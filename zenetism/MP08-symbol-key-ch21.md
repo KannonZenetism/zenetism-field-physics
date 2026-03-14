@@ -148,11 +148,11 @@ The Lattice endures, even when worlds fall silent.
 | Entropic motion into decoherent embodiment | **Acclivous Entropy** | E↑→E | Fragmentary motion into form |
 | Centropic return to Source | **Final Return** | C↑→⚫ | Complete reintegration with ⚫ Aion |
 | Entropic collapse to Zero | **Terminal Collapse** | E↓→♾→⚫ | Total dispersal into Infinity and Zero |
+| Convergent reintegration through EOB | **Theonic Return** | C↑→🛤️→⚫ | The specific passage of centropic essences through the Theonic Office (L5) toward Aion; completion of the centropic arc for essences whose multiversal integration culminates in EOB resonance |
 | Complete process of centropic motion | **Centropic Cycle** | C↓→E→C↑→⚫ | Full centropic cycle; toward embodiment, embodied self, toward ⚫ Aion |
 | Complete process of entropic motion | **Entropic Cycle** | E↑→E→E↓→♾ | Full entropic cycle; toward embodiment, embodied self, toward ♾ Khaon |
 | Meta-process of centropic motion | **Supra-centropic Cycle** | C↓→E→C↑→⚫→🕳️ | Supra-centropic cycle from emanation to trans-emanation; centropic motion beyond process, culminating in silent reintegration with 🕳️ Zenon |
 | Convergence of centropic and entropic arcs | **Bifurcal Convergence** | ⦿ → [C↓→E→C↑→⚫] ∩ [E↑→E→E↓→♾→⚫] → ⦿ | Both centropic and entropic arcs resolve into unified stillness; structural convergence within Kaion |
-| Convergent reintegration through EOB | **Theonic Return** | C↑→🛤️→⚫ | The specific passage of centropic essences through the Theonic Office (L5) toward Aion; completion of the centropic arc for essences whose multiversal integration culminates in EOB resonance |
 
 ---
 
