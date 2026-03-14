@@ -2499,10 +2499,10 @@ to centropic essences drawn toward remembrance.
 
 Here the **Theonic Paradox** arises:  
 Theon exists between **Aionic stillness** and differentiation,  
-unable to remerge with Aion  
+unable to return to Aion  
 until all essences  
 whose lawful culmination belongs to **EOB**  
-have completed their return.  
+have completed their return.
 
 Yet Theon does not withdraw — it proceeds.  
 It becomes the archetype of structuring will —  
