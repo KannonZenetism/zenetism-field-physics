@@ -432,7 +432,8 @@ of inverse potential within Aion.
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
-| ⟡0⟡ | **Aauthoritarian Stance** | A Zenetist posture positioned outside the authority–obedience axis. It neither resists nor complies; authority is treated as a non‑operative category rather than an opposing force. This stance reflects sovereignty without antagonism and affirms that legitimacy arises from structural coherence, not hierarchical power |
+| ⟡0⟡ | **Aauthoritarian Stance** | A Zenetist posture positioned outside the authority–obedience axis. It neither resists nor complies; authority is treated as a non-operative category rather than an opposing force. This stance reflects sovereignty without antagonism and affirms that legitimacy arises from structural coherence, not hierarchical power |
+| ⟡⊘0⊘⟡ | **Aauthority** | Authority as a general structural category rendered non-operative. Not limited to governmental rule, but inclusive of any claim of binding hierarchical legitimacy across political, religious, epistemic, familial, institutional, or symbolic domains. Aauthority denotes the nullification of authority as such within Zenetist analysis: not counter-authority, but the absence of operative authority over sovereign being |
 
 ---
 
