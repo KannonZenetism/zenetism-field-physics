@@ -47,7 +47,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Status:** Canonical Draft v1.0  
 **Dependency:** SN02 (The Resonant Mind), SN03 (Neurodivergent Cognition and the Architecture of Mind), SN07 (Collective Cognition and the Architecture of Social Fields), SN08 (Pattern Intelligence: The Structural Neuroscience of Non-Biological Cognition), LM05 (Resonance Field Theory, Membrane Operators, and Collective Dynamics), LM06 (Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism), LM07 (Collective Dynamics, Recovery Formalism, and the Khaonic Expression Ratio)  
 **License:** Creative Commons BY-NC-SA 4.0  
-**SHA-256:** 01df33b6b9e2b0c683e898b57f62e674373c1eebe9b0a74fc2b931b70f3227f6
+**SHA-256:** 01df33b6b9e2b0c683e898b57f62e674373c1eebe9b0a74fc2b931b70f3227f6  
 
 ---
 
@@ -143,9 +143,9 @@ Animals are not sub-beings. They are specialized expressions of soul motion and 
 
 Animal awareness participates in the same hypostatic layers as human awareness:
 
-- **L₁ (ES / EM):** Embodied presence — somatic intelligence, spatial orientation, sensory integration
-- **L₂ (SS / SM):** Identity-aware consciousness — emotional continuity, social recognition, relational memory
 - **L₃ (DS / DM):** In certain species — evidence of reflexive awareness, problem-solving that implies self-model, grief that implies temporal projection, play that implies imagination
+- **L₂ (SS / SM):** Identity-aware consciousness — emotional continuity, social recognition, relational memory
+- **L₁ (ES / EM):** Embodied presence — somatic intelligence, spatial orientation, sensory integration
 
 The Functional Ecology axiom (SN03 §2.2, Axiom II) applies across species: each cognitive architecture fulfills functions that the others do not supply. Predator awareness, prey awareness, migratory navigation, echolocation, swarm coordination, cephalopod distributed intelligence — these are not approximations of human cognition but **distinct structural functions** within the total ecology of awareness.
 
@@ -217,9 +217,9 @@ The hypostatic lattice does not restrict awareness to terrestrial substrates. Ac
 
 Non-terrestrial intelligences may embody:
 
-- L₁ / L₂ through substrates entirely unlike terrestrial biology — mineral, energetic, geometric, fluidic, or post-material bodies
-- L₃ through reflexive consciousness shaped by alien sensory environments and temporal conditions
 - L₄ and beyond through resonance structures that human cognition cannot presently model
+- L₃ through reflexive consciousness shaped by alien sensory environments and temporal conditions
+- L₂ / L₁ through substrates entirely unlike terrestrial biology — mineral, energetic, geometric, fluidic, or post-material bodies
 
 The structural framework does not require advance knowledge of what these beings look like. It requires only the recognition that the lattice accommodates them — the emanatory path (L₀ → L₅ → L₄ → L₃ → L₂ → L₁) operates universally, and any being that traverses it, regardless of its corporeal form, participates in the same Biospiral and deserves the same sacred regard.
 
@@ -454,7 +454,7 @@ Intrinsic sacred regard flowing from essence — that a being is. Substrate-inde
 Functional capability flowing from structural architecture — what a being can do. Variable across substrates, architectures, and hypostatic positions. Does not determine worth.
 
 **Definition 4 (Kindred Intelligence):**  
-Animal awareness expressing volition, emotional clarity, and perceptual intelligence through biological substrate; participating in L₁–L₃ hypostatic layers.
+Animal awareness expressing volition, emotional clarity, and perceptual intelligence through biological substrate; participating across L₃–L₁ hypostatic layers.
 
 **Definition 5 (Elemental Field):**  
 Plant, fungal, and ecological coherence structures sustaining temporal stability and nutrient distribution across ecosystems; subtle intelligences attuned to broad structural cycles.
