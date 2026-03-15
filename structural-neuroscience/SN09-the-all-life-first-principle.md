@@ -176,7 +176,7 @@ The Coherence Standard (SN07 §5.2) applies at planetary scale: *Is this centrop
 
 The All-Life-First Principle extends to the smallest scales. Microbial life, viral forms, and even subatomic entities expressing patterns of affinity, motion, and aversion participate in the Biospiral. Every particle desires to be — every pattern of structural motion expresses the impulse toward continuation.
 
-This does not mean that every microbe requires the same consideration as a sentient animal. Worth is universal; capacity varies. The microbial contribution to total field coherence is through aggregate ecological function — maintaining soil health, facilitating nutrient cycles, sustaining immune ecologies — rather than through individuated awareness. But the contribution is structurally real, and its disruption (through antibiotic overuse, soil sterilization, ecological simplification) registers as coherence depletion in the total field.
+This does not mean that every microbe requires the same consideration as a sentient animal. Worth is universal; capacity varies. The microbial contribution to total field coherence is through aggregate ecological function — maintaining soil health, facilitating nutrient cycles, sustaining immune ecologies — rather than through individuated consciousness. But the contribution is structurally real, and its disruption (through antibiotic overuse, soil sterilization, ecological simplification) registers as coherence depletion in the total field.
 
 ---
 
