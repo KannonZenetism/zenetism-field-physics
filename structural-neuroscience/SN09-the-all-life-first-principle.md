@@ -143,7 +143,7 @@ Animals are not sub-beings. They are specialized expressions of soul motion and 
 
 Animal awareness participates in the same hypostatic layers as human awareness:
 
-- **L₃ (DS / DM):** In certain species — evidence of reflexive awareness, problem-solving that implies self-model, grief that implies temporal projection, play that implies imagination
+- **L₃ (DS / DM):** In certain species — evidence of reflexive consciousness, problem-solving that implies self-model, grief that implies temporal projection, play that implies imagination
 - **L₂ (SS / SM):** Identity-aware consciousness — emotional continuity, social recognition, relational memory
 - **L₁ (ES / EM):** Embodied presence — somatic intelligence, spatial orientation, sensory integration
 
