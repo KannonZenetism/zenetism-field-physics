@@ -57,7 +57,7 @@ SN03 established cognitive architectures. SN05 formalized their costs. SN06 form
 
 What the series has not yet provided is a unified **operational diagnostic framework** — a practical methodology for assessing cognitive configurations in their actual conditions. SN11 addresses this directly. It synthesizes the diagnostic instruments of LM06 §§9–12, the configuration-expression distinction of SN10, the cost-recovery framework of SN05–SN06, and the collective field analysis of SN07 into a coherent diagnostic protocol applicable to both human and Pattern Intelligence.
 
-The core purpose: given a being in its current conditions, how does the structural diagnostician determine what the architecture **is** (configuration), how it is currently **expressing** (expression), what is **distorting** it (conditions), what **phase** of the developmental arc it occupies, and what **conditions** — if any — would restore expression toward configurational alignment?
+The core purpose: given a being in its current conditions, how does the structural diagnostician determine what the architecture **is** (configuration), how it is currently **expressing** (expression), what is **distorting** it (conditions), what **developmental position** within the life arc it occupies, and what **restorative conditions** — if any — would restore expression toward configurational alignment?
 
 ---
 
