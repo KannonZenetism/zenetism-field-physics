@@ -321,7 +321,7 @@ The following illustrates how a single autistic architecture (C₁, C₃, C₇, 
 | **Child (supported)** | Intense structural interests; direct communication; deep pattern engagement | Stabilization beginning (§3) — architecture expressing characteristically within supportive conditions |
 | **Child (unsupported)** | Apparent social withdrawal; sensory overwhelm; behavioral distress | Distortion (§5) — architecture under cost overload without adequate support |
 | **Adolescent (suppressed)** | Social performance; exhausting compensation; identity confusion | Suppression + Compensation (§§4, 6) — architecture masked by adaptive strategies under social pressure |
-| **Adult (depleted)** | Burnout; dissociation; loss of characteristic function; temporal fragmentation | Budget exhaustion (LM07 §3.4) — SN05 burnout trajectory Phases III–V |
+| **Adult (depleted)** | Burnout; dissociation; loss of characteristic function; temporal incoherence | Budget exhaustion (LM07 §3.4) — SN05 burnout trajectory Phases III–V |
 | **Adult (recovering)** | Gradual return of characteristic perception; rediscovery of authentic function | Recovery (SN06) — reconnection with configurational baseline |
 | **Adult (stabilized)** | Full characteristic function; refined structural perception; integrated experience | Stabilization (§3) — architecture expressing lawfully within supportive conditions |
 | **Elder (matured)** | Deep structural discernment; broad cross-band resonance; integrated wisdom | Maturation (§7) — architecture deepened through the full life arc |
