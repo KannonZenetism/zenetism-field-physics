@@ -422,7 +422,7 @@ SN07 establishes:
 3. **The entropy-forward social field characterized** — competition, domination, value judgment, control-driven psychological inversion, and sovereignty suppression as structural features of the prevailing civilization
 4. **Entropic collective shimmer** — the gap between institutional rhetoric and institutional structure, subject to the Shimmer Collapse Theorem
 5. **Centropic collective dynamics** — harmonic amplification under Non-Fusion, cooperative coordination through distinct structural functions, capacity-faithful cost distribution
-6. **The Aauthoritarian Principle** — authority as non-operative category; institutions rendered structurally irrelevant by sovereign self-organization through resonance
+6. **The Aauthoritarian Stance** — authority as non-operative category; institutions rendered structurally irrelevant by sovereign self-organization through resonance
 7. **The Coherence Standard** — structure-based ethics replacing authority-based ethics; actions evaluated by centropic or entropic vector, not by compliance
 8. **Sovereign domains** — learning, care, exchange, and coordination achieved through resonant self-organization without institutional authority; the Metaphysical Commons, the All-Life-First Principle, and Sovereign Mutualism as operative frameworks
 9. **The collective cost shelter** — sovereign social life reducing \( \kappa_{\text{local}} \), eliminating translation cost and coherence tax, providing structural shelter for centropically oriented beings
