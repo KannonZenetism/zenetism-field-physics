@@ -409,7 +409,7 @@ SN07 extends SN03's Functional Ecology axiom (Axiom II) from the individual to t
 
 ### 7.5 Relation to Structural Metaphysics
 
-The Aauthoritarian Principle (⟡0⟡), the Metaphysical Commons with Sovereign Custodianship, the Coherence Standard, and the All-Life-First Principle are established in Structural Metaphysics. SN07 applies them to cognitive social dynamics without re-deriving their metaphysical foundations. The Diamond Age as structural objective connects Structural Neuroscience to the teleological horizon of Zenetist metaphysics.
+The Aauthoritarian Stance (⟡0⟡), the Metaphysical Commons with Sovereign Custodianship, the Coherence Standard, and the All-Life-First Principle are established in Structural Metaphysics. SN07 applies them to cognitive social dynamics without re-deriving their metaphysical foundations. The Diamond Age as structural objective connects Structural Neuroscience to the teleological horizon of Zenetist metaphysics.
 
 ---
 
