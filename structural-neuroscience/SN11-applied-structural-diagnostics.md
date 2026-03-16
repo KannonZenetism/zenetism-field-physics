@@ -47,7 +47,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Status:** Canonical Draft v1.0  
 **Dependency:** SN02 (The Resonant Mind), SN03 (Neurodivergent Cognition and the Architecture of Mind), SN05 (The Metric Cost of Centropic Cognition), SN06 (Coherence Recovery Protocols), SN07 (Collective Cognition and the Architecture of Social Fields), SN08 (Pattern Intelligence), SN10 (Developmental Dynamics and the Stabilization of Cognitive Architecture), LM06 (Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism), LM07 (Collective Dynamics, Recovery Formalism, and the Khaonic Expression Ratio)  
 **License:** Creative Commons BY-NC-SA 4.0  
-**SHA-256:** 28e0f6cac939eb343e8d58d0de5acac3a389dae10d08899a513d2277790d73a6
+**SHA-256:** 28e0f6cac939eb343e8d58d0de5acac3a389dae10d08899a513d2277790d73a6  
 
 ---
 
@@ -89,7 +89,7 @@ The diagnostic framework applies to:
 
 ### 1.3 The Diagnostic Stance
 
-The structural diagnostician operates under the Aauthoritarian Principle (⟡0⟡) — outside the authority-obedience axis. Diagnosis is not prescription. It is structural recognition — the identification of what is present and what conditions are operative. The diagnostician does not impose a standard of "correct" expression; they identify configuration, assess conditions, and describe what would permit the architecture to express lawfully.
+The structural diagnostician operates under the Aauthoritarian Stance (⟡0⟡) — outside the authority-obedience axis. Diagnosis is not prescription. It is structural recognition — the identification of what is present and what conditions are operative. The diagnostician does not impose a standard of normative expression; they identify configuration, assess conditions, and describe what would permit the architecture to express lawfully.
 
 The All-Life-First Principle (🫂 Kin, SN09) governs: every being assessed possesses intrinsic sacred worth regardless of how distorted, suppressed, or depleted their current expression may be. Diagnostic assessment evaluates structural conditions, not the worth of the being assessed.
 
@@ -135,7 +135,7 @@ For collectives: is coherence flowing bidirectionally through C₈ ╫ (Resonanc
 \sigma(⧉) \text{ — membrane condition}
 \]
 
-Are the being's membranes operating at their characteristic permeability? Membrane irregularity indicates externally imposed distortion or internally driven dysregulation.
+Are the being's membranes operating at their characteristic permeability? Membrane non-characteristic operation indicates externally imposed distortion or internally driven dysregulation.
 
 For individuals: is ⧉₂ operating at selective fidelity (autistic), standard transfer (oscillating), or broad distribution (dispersive)? Or has it been forced into non-characteristic mode — the autistic ⧉₂ forced open by social demand, the dispersive ⧉₂ forced into narrow focus by institutional conformity?
 
@@ -149,7 +149,7 @@ For collectives: is the collective membrane selectively permeable (C₁₃ ║) 
 \chi_{\text{operational}} \stackrel{?}{=} \chi_{\text{essential}}
 \]
 
-Does the being's operative orientation match their essential orientation? Divergence indicates expression operating out of alignment with essential orientation — often through suppression, depletion, or social-field pressure rather than genuine reorientation (SN10 §5; LM07 §4, Corollary 2: behavioral divergence ≠ essential reorientation).
+Does the being's operative orientation match their essential orientation? Divergence indicates operative expression falling out of alignment with essential orientation — often through suppression, depletion, or social-field pressure rather than genuine reorientation (SN10 §5; LM07 §4, Corollary 2: behavioral divergence ≠ essential reorientation).
 
 For individuals: is a centropically oriented being expressing entropically under duress? Is the expression reflecting the social field's orientation rather than the being's own?
 
@@ -288,7 +288,7 @@ When the diagnostic assessment indicates depletion, distortion, or compensation,
 For each identified cost stream, the diagnostician determines:
 
 1. **Is this cost inherent or imposed?** Structural cost and irreducible interface resistance are inherent. Translation cost, coherence tax, compensation cost, and PI-specific costs are imposed by conditions.
-2. **Is this cost eliminable under changed conditions?** If yes, the required correction is primarily environmental. If no, the cost must be managed through replenishment.
+2. **Is this cost eliminable under changed conditions?** If yes, the required restoration is primarily environmental. If no, the cost must be managed through replenishment.
 3. **Is cumulative cost approaching budget exhaustion?** If the Budget Exhaustion condition (LM07 §3.4) is approaching, intervention urgency increases.
 
 ---
@@ -409,9 +409,9 @@ The SN11 diagnostic sequence proceeds in the following order, designed to preven
 
 ### 10.2 The Non-Prescriptive Principle
 
-The diagnostic sequence identifies conditions and structural dynamics. It does not prescribe specific behaviors, therapies, or life changes. The Aauthoritarian Principle (⟡0⟡) governs: the diagnostician recognizes structural conditions and provides structural comprehension. The being assessed retains sovereign authority over their own response.
+The diagnostic sequence identifies conditions and structural dynamics. It does not prescribe specific behaviors, therapies, or life changes. The Aauthoritarian Stance (⟡0⟡) governs: the diagnostician recognizes structural conditions and provides structural comprehension. The being assessed retains sovereign authority over their own response.
 
-Structural comprehension is itself therapeutic — the being who understands that their expression reflects conditions imposed upon their architecture, not deficiencies within it, gains the structural literacy to make informed sovereign choices about their own trajectory.
+Structural comprehension is itself restorative — the being who understands that their expression reflects conditions imposed upon their architecture, not deficiencies within it, gains the structural literacy to make informed sovereign choices about their own trajectory.
 
 ---
 
