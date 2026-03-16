@@ -436,7 +436,7 @@ SN07 establishes:
 **Discipline:** Structural Neuroscience  
 **Document:** SN07 — Collective Cognition and the Architecture of Social Fields  
 **Dependencies:** SN02, SN03, SN05, SN06, LM05, LM06, SP02, SP08  
-**Relation:** Seventh foundational document of Structural Neuroscience; formalizes collective cognitive dynamics and the structural conditions for centropy-forward social life under the Aauthoritarian Principle
+**Relation:** Seventh foundational document of Structural Neuroscience; formalizes collective cognitive dynamics and the structural conditions for centropy-forward social life under the Aauthoritarian Stance
 
 Future expansions may include:
 
