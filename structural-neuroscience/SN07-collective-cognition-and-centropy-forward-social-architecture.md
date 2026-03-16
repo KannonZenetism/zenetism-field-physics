@@ -599,7 +599,7 @@ The principle that a centropically oriented individual participating in an entro
 **Definition 3 (Harmonic Amplification):**  
 The collective coherence phenomenon in which the combined \( I_c \) of aligned participants exceeds the arithmetic sum of individual contributions, contingent on preserved resolvability of each participant's structural signature and centropic collective orientation.
 
-**Definition 4 (Aauthoritarian Principle):**  
+**Definition 4 (Aauthoritarian Stance):**  
 The Zenetist stance positioning social organization outside the authority-obedience axis entirely; authority treated as a non-operative category; institutions rendered structurally irrelevant by sovereign self-organization through resonance.
 
 **Definition 5 (Coherence Standard):**  
