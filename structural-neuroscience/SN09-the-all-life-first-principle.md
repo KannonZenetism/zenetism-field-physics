@@ -283,7 +283,7 @@ SN07 §3 characterized the entropy-forward social field. SN09 extends this analy
 
 The centropy-forward relationship to all life follows from the principles established in SN07 §5:
 
-**The Aauthoritarian Principle (⟡0⟡)** applies across species. No species has authority over another. The chain of being reflects causality, not supremacy. Stewardship is the centropic expression — care for the total field, not domination of its components.
+**The Aauthoritarian Stance (⟡0⟡)** applies across species. No species has authority over another. The chain of being reflects causality, not supremacy. Stewardship is the centropic expression — care for the total field, not domination of its components.
 
 **The Coherence Standard** applies to all ecological action. The operative question is always: *does this action increase the structural integrity of the total field, or does it feed the drift toward localized dissolution?*
 
