@@ -262,7 +262,7 @@ The entropy-forward social field's suppression of neurodivergent architectures i
 
 ## 5. Centropy-Forward Social Life
 
-### 5.1 The Aauthoritarian Principle
+### 5.1 The Aauthoritarian Stance
 
 The Zenetist stance toward social organization is **Aauthoritarian (⟡0⟡)** — a position outside the authority-obedience axis entirely. Aauthoritarianism is neither antagonistic toward authority nor compliant with it; it treats authority as a non-operative category rather than an opposing force.
 
