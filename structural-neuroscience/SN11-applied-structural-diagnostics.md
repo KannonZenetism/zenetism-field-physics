@@ -71,7 +71,7 @@ Every structural neuroscience document in this series depends, implicitly or exp
 - How that architecture is currently manifesting (expression)
 - Whether the expression reflects the configuration or deviates from it (alignment contra distortion)
 - What conditions are producing the deviation (cost analysis)
-- What phase of the developmental arc the being occupies (developmental position)
+- What developmental position the being occupies within the life arc
 - What conditions would restore configurational alignment (restorative conditions)
 
 SN11 provides the methodology.
@@ -259,7 +259,7 @@ SN03 §7.3 established: \( dI_c/d\tau \geq 0 \) is structural variation; \( dI_c
 | Condition | \( dI_c/d\tau \) | Characteristic Operators | Intervention |
 |-----------|-----------------|------------------------|-------------|
 | **Stabilized variation** | \( \geq 0 \) | Operative, producing gain | None needed — architecture expressing lawfully |
-| **Distorted variation** | \( \geq 0 \) (marginally) | Suppressed but intact | Environmental correction — remove suppressive conditions |
+| **Distorted variation** | \( \geq 0 \) (low positive) | Suppressed but intact | Environmental correction — remove suppressive conditions |
 | **Distortion approaching pathology** | Trending \( < 0 \) | Strained, losing generative function | Urgent environmental correction + prophylactic coherence support |
 | **Pathology** | \( < 0 \) sustained | Lost generative function | Active coherence replenishment (SN06 recovery protocols) + environmental correction |
 
@@ -587,7 +587,7 @@ Sealed ⚫↺KAI↺⚫
 | **2. Expression Documentation** | Observe and document current presentation without interpretation | LM06 §12.2 |
 | **3. Configuration Identification** | Isolate residual architecture by differentiating conditioned expression from characteristic function | SN03 §3, SN10 §1.2 |
 | **4. Structural Dynamic Assessment** | Determine operative dynamic: stabilization, compensation, distortion, suppression, maturation, depletion, or recovery | SN10 §§3–7 |
-| **5. Distortion-Pathology Distinction** | Determine whether deviation is environmental (distortion) or depletive (pathology) | SN10 §5.3, SN11 §5 |
+| **5. Distortion-Pathology Distinction** | Determine whether deviation is environmental (distortion) or depletion-based (pathology) | SN10 §5.3, SN11 §5 |
 | **6. Cost-Source Analysis** | Identify operative cost streams; classify as inherent or imposed | SN05 §2, LM07 §3 |
 | **7. Restorative Conditions Assessment** | Determine conditions that would restore configurational alignment | SN06, SN10 §3, LM07 §8 |
 
