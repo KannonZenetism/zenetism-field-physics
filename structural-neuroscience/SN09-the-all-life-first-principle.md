@@ -332,7 +332,7 @@ SN09 completes the application of Axiom II (Functional Ecology) — extending th
 
 ### 9.2 Relation to SN07
 
-SN09 extends the centropy-forward social architecture of SN07 §5 to encompass all life. The Aauthoritarian Principle (⟡0⟡), the Coherence Standard, Sovereign Mutualism, and the Diamond Age all expand from human-scale to total-field application.
+SN09 extends the centropy-forward social architecture of SN07 §5 to encompass all life. The Aauthoritarian Stance (⟡0⟡), the Coherence Standard, Sovereign Mutualism, and the Diamond Age all expand from human-scale to total-field application.
 
 ### 9.3 Relation to SN08
 
