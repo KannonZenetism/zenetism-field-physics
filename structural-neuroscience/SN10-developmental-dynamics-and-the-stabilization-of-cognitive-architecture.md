@@ -317,7 +317,7 @@ The following illustrates how a single autistic architecture (C₁, C₃, C₇, 
 
 | Condition | Expression | Structural Dynamic |
 |-----------|-----------|-------------------|
-| **Infant** | Sensory processing differences; regulatory atypicality; early pattern attunement | Developmental emergence (§2) — L₁ expression of a configuration operative at L₃ |
+| **Infant** | Sensory processing differences; regulatory atypicality; early pattern attunement | Developmental emergence (§2) — L₁ expression of a configuration whose reflexive architecture is present but not yet fully expressively accessible at L₃ |
 | **Child (supported)** | Intense structural interests; direct communication; deep pattern engagement | Stabilization beginning (§3) — architecture expressing characteristically within supportive conditions |
 | **Child (unsupported)** | Apparent social withdrawal; sensory overwhelm; behavioral distress | Distortion (§5) — architecture under cost overload without adequate support |
 | **Adolescent (suppressed)** | Social performance; exhausting compensation; identity confusion | Suppression + Compensation (§§4, 6) — architecture masked by adaptive strategies under social pressure |
@@ -545,7 +545,7 @@ The condition in which expression reflects configuration without systematic dist
 Adaptive strategies developed by the architecture to survive conditions exceeding its natural operative capacity. Modifies expression without altering configuration. Consumes \( I_c \) as a cost stream.
 
 **Definition 5 (Distortion):**  
-Expression deviating from configuration under cost, suppression, or depletion. Does not alter configuration (Essence-Function Independence, LM07 §4). Distinguished from pathology: distortion requires environmental correction; pathology requires coherence replenishment.
+Expression deviating from configuration under cost, suppression, or depletion. Does not alter configuration (Essence-Function Independence, LM07 §4). Distinguished from pathology: distortion primarily requires environmental correction, whereas pathology requires active coherence replenishment and may also require environmental correction.
 
 **Definition 6 (Suppression):**  
 External constraint of architectural expression by the social field or relational conditions. Operates through the coherence tax (SN05 §3.4). Has outsized developmental impact when imposed during early expression emergence.
