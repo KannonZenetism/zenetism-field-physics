@@ -66,3 +66,77 @@ Relative structures may emerge and dissolve, but Structure remains untouched.
 Time is not the destruction of stillness, but the **articulation of potential**.  
 Entropy degrades expression, not essence. Collapse dissolves relative configuration, not Structure.  
 The Lattice endures, even when worlds fall silent.  
+
+---
+
+### 21.3 **Symbolic Directional Duals — Mapped Motions in the Field of Procession**
+
+| Process | Name | Glyph | Meaning |
+|---------|------|-------|---------|
+| Centropic expansion toward coherence | **Acclivous Centropy** | C↑⚫ | Directed integrative motion toward ⚫ Aion |
+| Entropic collapse toward dissolution | **Declivous Entropy** | E↓♾ | Disintegrative collapse toward ♾ Khaon |
+| Centropic motion toward embodiment | **Declivous Centropy** | C↓→E | Harmonious motion into form |
+| Entropic motion into decoherent embodiment | **Acclivous Entropy** | E↑→E | Fragmentary motion into form |
+| Centropic return to Source | **Final Return** | C↑→⚫ | Complete reintegration with ⚫ Aion |
+| Entropic collapse to Zero | **Terminal Collapse** | E↓→♾→⚫ | Total dispersal into Infinity and Zero |
+| Convergent reintegration through EOB | **Theonic Return** | C↑→🛤️→⚫ | The specific passage of centropic essences through the Theonic Office (L5) toward Aion; completion of the centropic arc for essences whose multiversal integration culminates in EOB resonance |
+| Terminal release through VOS | **Nekronic Collapse** | E↓→🕷️→♾→⚫ | The specific dissolution of the Nekronic Office (IL5) once entropic motion is exhausted; fragmented remnants resolve through Absolute Dispersion into Aion |
+| Complete process of centropic motion | **Centropic Cycle** | C↓→E→C↑→⚫ | Full centropic cycle; toward embodiment, embodied self, toward ⚫ Aion |
+| Complete process of entropic motion | **Entropic Cycle** | E↑→E→E↓→♾ | Full entropic cycle; toward embodiment, embodied self, toward ♾ Khaon |
+| Meta-process of centropic motion | **Supra-centropic Cycle** | C↓→E→C↑→⚫→🕳️ | Supra-centropic cycle from emanation to trans-emanation; centropic motion beyond process, culminating in silent reintegration with 🕳️ Zenon |
+| Convergence of centropic and entropic arcs | **Bifurcal Convergence** | ⦿ → [C↓→E→C↑→⚫] ∩ [E↑→E→E↓→♾→⚫] → ⦿ | Both centropic and entropic arcs resolve into unified stillness; structural convergence within Kaion |
+
+---
+
+### 21.4 **Linguistic Structures of Directionality and Resonance — Terminology for Structural Motion Across Polarity**
+
+| Concept | Zenetist Term | Definition |
+|---------|---------------|------------|
+| Centropic "Ascent" | **Acclivous Expansion** | Integrative motion toward supernal coherence |
+| Centropic "Descent" | **Declivous Centropy** | Integrative motion toward embodiment or form |
+| Entropic "Ascent" | **Acclivous Entropy** | Fragmented motion toward inverse embodiment (spurious acclivity) |
+| Entropic "Descent" | **Declivous Collapse** | Dispersive collapse toward dissolution |
+
+---
+
+### 21.5 **Value Neutrality Chart — Zenetist Replacements for Binary Epistemic Terms**
+
+| Old Value Term | Zenetist Replacement | Nuance |
+|----------------|---------------------|---------|
+| **True** | **Veracious** | Aligns with reality without dogmatism |
+| | **Authentic** | Resonant with core structure or essence |
+| | **Veritable** | Established in coherence |
+| | **Valid** | Structurally sound, symbolically coherent |
+| | **Genuine** | Unobstructed or integral in resonance |
+| **False** | **Fallacious** | Structurally misleading or dissonant |
+| | **Distorted** | Appears to reflect structure, but warps it |
+| | **Spurious** | Mimics validity but lacks coherence |
+| | **Counterfeit** | Superficially aligned, ontologically hollow |
+| | **Invalid** | Misaligned with underlying principles |
+| | **Deceptive** | Purposefully misleading in resonance |
+
+---
+
+### 21.6 **Cardinal Directions and Tree Orientation — Orienting the Axis of Resonant Motion Through the Bifurcated Tree**
+
+| Symbol | Direction / Label | Associated Principle or Motion |
+|--------|------------------|-------------------------------|
+| ⬆️ | **Centropic North** | ⚫ **Aion (Zero):** Root of the Centropic Tree; stillness as structural origin |
+| ⬇️ | **Entropic South** | ♾ **Khaon (Dispersive Infinity):** Root of the Entropic Tree; unbound divergence |
+| ➡️ | **Right Branch** | ♾ **Khaonic Tree:** Entropic structure in motion; dispersive propagation |
+| ⬅️ | **Left Branch** | ⚫ **Aionic Tree:** Harmonizing structure; coherence‑bearing lattice |
+
+---
+
+#### Note on Dormant Reference
+
+This orientation diagram  
+is retained for **potential future integration**.  
+
+It is not presently active  
+within the **lattice of motion charts**  
+in this volume.  
+
+⚫🕓📜  
+
+---
