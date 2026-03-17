@@ -1,3 +1,15 @@
+# Structural Physics Glyph Charts  
+## Extracted Canonical Registry
+
+**Source Text:** *Zenetist Structural Physics*  
+**Purpose:** Consolidated chart archive for canonical lookup, operator continuity, and disciplined cross-reference
+
+> This registry gathers the chart material of the Structural Physics documents into a single reference file  
+> while preserving the originating texts as the canonical source of full exposition.  
+> Numbering is retained where possible for continuity across the Zenetist archive.
+
+---
+
 ### 21.31 **Structural Physics Glyphs — Operators of Lawful Suspension, Recursion, and Integration**
 
 | Symbol | Name | Meaning |
