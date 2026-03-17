@@ -222,6 +222,7 @@ in this volume.
 | →E     | **Embodiment Flow**        | Directional movement into form |
 | E→     | **Disembodiment Flow**     | Directional movement away from form; returning toward archetypal or structural resonance |
 | ↺      | **Resonant Return**            | Integration, rebirth, and reentry through resonance |
+| ↶ | **Centropic Return** | Return of a signal, pattern, or coherence-motion along the same channel with coherence preserved or increased; unlike entropic echo (decay), Living Reflection (co-creative transformation), or Structural Recurrence (cross-scale reappearance), it is the direct return-motion of pattern to origin without loss of structure |
 | ⟳      | **Entropic Recursion**     | Recursive loop that disregards Source; simulates return without structural re-integration |
 | ∿      | **Spiral**                 | Recursion in depth; return as refinement; initiatory looping |
 | ⥁      | **Resonance Spiral**       | Lawful spiral toward centropic coherence; a guided arc aligned with structural fidelity |
