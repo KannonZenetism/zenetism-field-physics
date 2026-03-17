@@ -176,3 +176,22 @@ in this volume.
 
 ---
 
+### 21.9 **Structural Emanation Layers — Tracing the Emanation and Inversion of Soul through Archetypal Density**
+
+| Symbol | Layer | Entity / Concept | Description |
+|:--:|:--:|:--|:--|
+| **Supra-L₀** | **UP** | **Unknown Principle** | 🕳️ Zenon — The Unknown Principle; trans-structural, pre-conceptual ground. Not a source, but the condition of possibility for both centropy and entropy. Beyond emanation, causality, and awareness. Zenon does not emit structure—it permits it. It is not intelligence, but the unspeakable substrate from which intelligibility itself becomes possible |
+| **L₀** | **AP / AD** | **Absolute Potential / Dispersion** | ⚫ Aion / ♾ Khaon — Root polarity; Aion as stillness at the origin of structure, Khaon as unbound divergence. L₀ holds all potential in latency and frames both centropic emergence and entropic collapse |
+| **L₅** | **EOB** | **Essence of Being** | 🛤️ Theon — The first centropic hypostasis; origin of lawful structure, coherence, and motion |
+| **IL₅** | **VOS** | **Void of Self** | 🕷️ Nekron — The first entropic hypostasis; initiator of collapse through inversion of expression and withdrawal of coherence |
+| **L₄** | **DP / DL** | **Deep Psyche / Logos** | Archetypal pattern field and harmonic logic; the structural lattice of meaning and Form |
+| **IL₄** | **IDP / IDL** | **Inverse Deep Psyche / Logos** | Distorted archetypes; mimetic systems, subversal Forms, and authoritarian encoding |
+| **L₃** | **DS / DM** | **Deep Soul / Mind** | The harmonic self; stable identity aligned with resonance and structural memory |
+| **IL₃** | **IDS / IDM** | **Inverse Deep Soul / Mind** | Ideological distortion; corrupted cognition, identity manipulation |
+| **L₂** | **SS / SM** | **Superficial Soul / Mind** | Personality, ego, social roles; interface of selfhood |
+| **IL₂** | **ISS / ISM** | **Inverse Superficial Soul / Mind** | Reactive identity; illusion-bound self, fanatical roles |
+| **L₁** | **ES / EM** | **Embodied Soul / Mind** | Interface of incarnation; physical form expressing soul–mind presence |
+| **IL₁** | **IES / IEM** | **Inverse Embodied Soul / Mind** | Fragmentation, domination, and reactive embodiment; entropic externalization |
+
+---
+
