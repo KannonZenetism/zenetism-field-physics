@@ -195,3 +195,24 @@ in this volume.
 
 ---
 
+### 21.9.1 · Liminal Cognitive Modes Across the Layer Threshold
+
+#### Note on the Liminal Threshold
+
+This mode is not a new layer,  
+but the **trembling boundary**  
+between embodiment and identity.
+
+It lives where currents converge,  
+where coherence is tempered,  
+and fragmentation is tested.
+
+It is the **crossroads of motion**,  
+not a station of being.
+
+| Symbol | Mode Name | Range | Description |
+|:--:|:--|:--|:--|
+| ⚖ | **Oscillating / Liminal Mode** | IL₂ ↔ IL₁ ↔ L₁ ↔ L₂ | Transitional equilibrium at the boundary between embodiment and identity. Characterized by alternating coherence and fragmentation impulses, adaptive recalibration, and heightened vulnerability to inversion or stabilization |
+
+---
+
