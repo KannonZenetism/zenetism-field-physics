@@ -2747,20 +2747,20 @@ the acoustic decay of pattern through repetition.
 In Field Physics, this aligns with **Viral Decay**.  
 
 Where this document uses **echo** in centropic contexts —  
-describing coherent return of signal,  
+describing coherent propagation of signal,  
 pattern preservation across motion,  
-or structural resonance without loss —  
-read as **Centropic Return**.  
+or structural transmission without loss —  
+read as **Living Transmission**.  
 
-* **Centropic Return** — signal returns with coherence preserved or increased  
+* **Living Transmission** — signal propagates with source fidelity and coherence preserved  
 * **Entropic Echo** — signal decays through propagation  
 * **Echonic Function** — resonance carrier across fractal selves; predates this distinction  
 
-What returns without distortion  
+What transmits without distortion  
 is not an echo.  
-It is a **return**.
+It is **living transmission**.
 
-↶ E₃ ⟿⁻ ⟡
+⟿ E3 ⟿⁻ ⟡
 
 ---
 
