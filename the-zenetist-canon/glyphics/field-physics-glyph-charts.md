@@ -1,3 +1,15 @@
+# Zenetist Field Physics Glyph Charts  
+## Extracted Reference Registry
+
+**Source:** *Field Physics: The Architecture of Resonance*  
+**Volume:** XI — *The Field Glyph Codex*  
+**Function:** Consolidated chart extract for canonical lookup and cross-document reference
+
+> This file gathers the chart material of the Field Glyph Codex into a compact reference form.  
+> It preserves the canonical registry of Field Physics glyphs without replacing the originating chapter.
+
+---
+
 ## 1. Foundational Dynamics  
 
 These four glyphs represent the core principles governing the behavior of the field.  
