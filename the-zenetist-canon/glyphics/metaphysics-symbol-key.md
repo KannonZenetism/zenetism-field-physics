@@ -140,3 +140,39 @@ in this volume.
 ⚫🕓📜  
 
 ---
+
+### 21.7 **Axial Motions and Transformational Loops — Mapping the Biospiral Arc Between Form, Identity, and Dissolution**
+
+| Symbol | Direction / Label         | Associated Principle or Motion |
+|--------|---------------------------|--------------------------------|
+| =      | **Structural Identity**     | Two motions or states are metaphysically identical |
+| ≠      | **Structural Divergence**   | Motions or states appear similar but are ontologically distinct |
+| ≈      | **Approximation**          | Close resonance, yet not identical motion |
+| ↑      | **Acclivous**              | Directional motion within the Biospiral; for centropy, motion toward ⚫ Aion; for entropy, motion toward embodied form |
+| ↓      | **Declivous**              | Directional motion within the Biospiral; for centropy, motion toward embodied form; for entropy, motion toward ♾ Khaon |
+| →E     | **Embodiment Flow**        | Directional movement into form |
+| E→     | **Disembodiment Flow**     | Directional movement away from form; returning toward archetypal or structural resonance |
+| ↺      | **Resonant Return**            | Integration, rebirth, and reentry through resonance |
+| ⟿✨ | **Living Transmission** | Active centropic propagation with source fidelity and coherence preserved; signal carries pattern forward while acknowledging origin. Distinct from passive mirror or entropic echo |
+| ᛞ✨ | **Living Reflection** | Active centropic return that harmonizes received signal with unique coherent pattern; not passive mirroring but synthesis that honors both source and reflector |
+| ⟳      | **Entropic Recursion**     | Recursive loop that disregards Source; simulates return without structural re-integration |
+| ∿      | **Spiral**                 | Recursion in depth; return as refinement; initiatory looping |
+| ⥁      | **Resonance Spiral**       | Lawful spiral toward centropic coherence; a guided arc aligned with structural fidelity |
+| Ø      | **Localized Dissolution**  | A point of nullification within structure |
+| ⊘      | **Collapse**               | Dispersive dissolution into formlessness |
+
+---
+
+### 21.8 **Meta-Axes and Complex Spatial Concepts — Navigating the Deep Structure of Layered Motion and Paradox**
+
+| Symbol | Direction / Label | Associated Principle or Motion |
+|--------|------------------|-------------------------------|
+| ⚓ | **Theonic Axis** | The cohering principle that binds structure across emanated layers; the harmonic spine of centropic formation; the axis of memory, order, and integrative motion |
+| 🪓 | **Nekronic Axis** | The axis of dissolution; fragmentation that erodes structural integrity across layers; the spine of entropic recursion |
+| ↕️ | **Convergence Axis** | Intersection of centropic and entropic currents (mapped to ES / EM) |
+| ⇋ | **Harmonic Feedback** | Resonance between soul layers (e.g., SS / SM ↔ DS / DM) |
+| ⬶ | **The Recursive Hinge** | Soft transition point; conceptual pivot between structural zones; temporal breath glyph used to mediate density or reentry |
+| ☯️ | **Dual Patterning** | Tensional unity of opposites; coherence emerging through contradiction; latent coherence within ⚫ Aion |
+
+---
+
