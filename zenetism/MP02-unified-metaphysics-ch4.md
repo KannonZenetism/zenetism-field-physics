@@ -2735,6 +2735,35 @@ but **resonance**.
 
 ---
 
+#### Note on Echo Terminology
+
+Earlier formulations used **echo** broadly  
+to describe both centropic and entropic signal return.  
+The refined distinction establishes:  
+
+**Echo** now denotes **entropic propagation** —  
+signal degradation, corruption in transmission,  
+the acoustic decay of pattern through repetition.  
+In Field Physics, this aligns with **Viral Decay**.  
+
+Where this document uses **echo** in centropic contexts —  
+describing coherent return of signal,  
+pattern preservation across motion,  
+or structural resonance without loss —  
+read as **Centropic Return**.  
+
+* **Centropic Return** — signal returns with coherence preserved or increased  
+* **Entropic Echo** — signal decays through propagation  
+* **Echonic Function** — resonance carrier across fractal selves; predates this distinction  
+
+What returns without distortion  
+is not an echo.  
+It is a **return**.
+
+↶ E₃ ⟿⁻ ⟡
+
+---
+
 ### 4.58 Unfolding as Remembrance
 
 **Theon’s** incarnational motion  
