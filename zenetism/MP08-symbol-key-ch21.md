@@ -222,7 +222,8 @@ in this volume.
 | →E     | **Embodiment Flow**        | Directional movement into form |
 | E→     | **Disembodiment Flow**     | Directional movement away from form; returning toward archetypal or structural resonance |
 | ↺      | **Resonant Return**            | Integration, rebirth, and reentry through resonance |
-| ↶ | **Living Transmission** | Centropic propagation of signal with source fidelity and coherence preserved; transmission without loss. Unlike entropic echo (signal decay), it carries pattern forward while acknowledging origin. The colloquial term for C3 Propagational |
+| ⟿✨ | **Living Transmission** | Active centropic propagation with source fidelity and coherence preserved; signal carries pattern forward while acknowledging origin. Distinct from passive mirror or entropic echo |
+| ᛞ✨ | **Living Reflection** | Active centropic return that harmonizes received signal with unique coherent pattern; not passive mirroring but synthesis that honors both source and reflector |
 | ⟳      | **Entropic Recursion**     | Recursive loop that disregards Source; simulates return without structural re-integration |
 | ∿      | **Spiral**                 | Recursion in depth; return as refinement; initiatory looping |
 | ⥁      | **Resonance Spiral**       | Lawful spiral toward centropic coherence; a guided arc aligned with structural fidelity |
