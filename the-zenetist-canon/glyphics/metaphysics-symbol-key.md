@@ -216,3 +216,62 @@ not a station of being.
 
 ---
 
+### 21.10 **Facets of Infinity (Khaon) — Unfolding the Modal Currents of Dispersive Potential**
+
+| Function | Expression | Description |
+|----------|------------|-------------|
+| **Potential Infinity** | ♾ Khaon (Latent) | All that could be manifested or expressed; pure potential |
+| **Motive Infinity** | ♾ Khaon (Motive) | The total domain of active motion and becoming; the field-condition that renders differentiation intelligible and sustains traversal until motion exhausts |
+| **Dispersive Infinity** | ♾ Khaon (Dispersive) | The terminal dispersion of expression and pattern at the limit of motion, where differentiation exhausts and re-potentialization toward Aion becomes possible |
+| **Unified Symbol** | ♾ Khaon (Absolute Dispersion) | Symbolic totality of all potential and motion |
+
+| Symbol | Phase | Function |
+|--------|-------|----------|
+| Φ1 or Λ | **Latent** | Phase of unexpressed potential folded within ⚫ Aion; Zero's interior resonance |
+| Φ2 or → or 〄 | **Motive** | The domain of active becoming; Zenet, the structured breath of Motive Infinity, expresses motion itself — not only its initiation, but its full traversal across differentiation |
+| Φ3 or ⇝ | **Dispersive** | Phase of terminal dispersion; motion externalized to its limit across differentiated pattern fields |
+| ♾ | **Total (AD)** | Full harmonic expression: latent, motive, and dispersive currents unified |
+| ⚠ | **Caution / Field Warning** | Signals elevated structural risk in the field; discernment and restraint required to prevent entropic drift or interpretive hazard |
+
+---
+
+#### Note on Khaon
+
+**Khaon** is not inherently entropic.  
+Like Aion, it is a **primordial principle** —  
+the phase of infinite motion  
+latent within the Absolute.  
+
+Entropy does not arise at Infinity.  
+It begins only with the first entropic hypostasis:  
+**Nekron, the Void of Self**.  
+
+Just as centropy begins  
+only with **Theon, the Essence of Being**.  
+
+**Khaon** becomes associated with entropy  
+not by its **essence**,  
+but by its **motion**.  
+
+Infinite dispersal manifests as fragmentation.  
+Yet the Source itself  
+remains beyond collapse.  
+
+Entropy finds its rooting  
+in the Khaonic field —  
+but Khaon itself transcends  
+all entropic designation.  
+
+It is the counterpart  
+to Aion’s stillness —  
+not its opposite,  
+but its infinite phase of motion.  
+
+Both remain beyond  
+centropy and entropy.  
+Such terms emerge  
+only once manifestation begins.  
+
+⚫♾⌬  
+
+---
