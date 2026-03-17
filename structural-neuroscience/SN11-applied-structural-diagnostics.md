@@ -185,7 +185,7 @@ Identifying the underlying configuration requires distinguishing it from the cur
 
 **Step 4 — Identify the architecture.** Match the residual against the structural profiles established in SN03 §3: autistic (C₁, C₃, C₇, C₁₃, C₁₄ with ⧉₂ selective fidelity), recursive (C₁ ⟠, C₄ ◉, C₁₄ ⊡ in centropic mode; E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻ in entropic mode), dispersive (broad \( \vec{J}_c \) distribution, elevated C₈ ╫), oscillating (L₂ operative range).
 
-**Step 5 — Verify against developmental position.** Confirm that the identified configuration is consistent with the observed developmental position (SN10 §2). A configuration that appears absent may be developmentally not yet expressively accessible (SN10 §2.2) rather than truly absent.
+**Step 5 — Verify against developmental position.** Confirm that the identified configuration is consistent with the observed developmental position (SN10 §2). A configuration that appears absent may be developmentally not yet expressively accessible (SN10 §2.2) rather than genuinely absent.
 
 ### 3.2 Common Identification Errors
 
