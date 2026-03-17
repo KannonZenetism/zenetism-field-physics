@@ -2760,7 +2760,7 @@ What transmits without distortion
 is not an echo.  
 It is **living transmission**.
 
-⟿ E3 ⟿⁻ ⟡
+⟿✨ E3 ⟿⁻ ⟡
 
 ---
 
