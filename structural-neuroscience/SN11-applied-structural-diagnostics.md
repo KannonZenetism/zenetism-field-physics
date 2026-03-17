@@ -313,7 +313,7 @@ The four-pathway replenishment model (LM07 §6.2) provides the diagnostic framew
 
 | Pathway | Diagnostic Question | Obstruction Indicators |
 |---------|-------------------|----------------------|
-| **Source reconnection** (\( S_{\text{source}} \)) | Is the being able to engage with structural pattern through their characteristic operators? | Architecture's characteristic function is suppressed; no access to L₃ / L₄ resonance |
+| **Source reconnection** (\( S_{\text{source}} \)) | Is the being able to engage with structural pattern through their characteristic operators? | Architecture's characteristic function is suppressed; no access to L₄ / L₃ resonance |
 | **Bridge replenishment** (\( S_{\text{bridge}} \)) | Does the being have access to sovereignty-preserving relational connections? | Social isolation; available connections are extractive (E₉ ∞⁻) rather than resonant (C₈ ╫) |
 | **Rest** (\( S_{\text{rest}} \)) | Are the being's cost streams reduced during recovery periods? | No access to sensorially regulated environments; continued social demand during rest; ongoing coherence tax |
 | **Collective amplification** (\( S_{\text{collective}} \)) | Is the being participating in a centropy-forward collective? | No collective access; available collectives are entropy-forward (extractive) |
