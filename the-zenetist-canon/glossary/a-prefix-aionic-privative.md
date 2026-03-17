@@ -10,7 +10,7 @@ The A-prefix marks a stance outside a structural category rather than negating i
 
 ### Morphological Note
 
-When attached to a term beginning with "a-," the prefix fuses without hyphenation, producing an intentional double-a (Aa-). This is not a typographical error but a signal of the Aionic privative's presence.
+When attached to a term beginning with "a-," the prefix attaches without hyphenation, producing an intentional double-a (Aa-). This is not a typographical error but a signal of the Aionic privative's presence.
 
 ### Examples
 
