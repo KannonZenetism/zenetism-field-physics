@@ -2021,7 +2021,7 @@ This **deeper layer**:
 - **Harmonizes**  
 - **Integrates** across fields of expression  
 
-—Into a **single coherent trajectory**.  
+— into a **single coherent trajectory**.  
 
 When that **integration** is complete,  
 the **DS / DM** returns to its **archetypal domain**—  
