@@ -128,6 +128,12 @@ These glyphs are primarily used in the application of Field Physics through ritu
 | **⟜** | Synectic               | Transphasic motion; cross-ontological gateway or moment of unexpected harmonic synthesis |
 | **⚖** | Rupture Recognition    | Triadic diagnostic fork; determines whether distortion originates in self, other, or pattern |
 
+> **Codex Note:** ⟜ is shared with the Structural Metaphysics symbol key, where it carries the same definition. It is native to both disciplines. ⫵ is the dynamic state that ⧉ (Field Differentiator) is designed to stabilize when multiple zones are active simultaneously — ⫵ names the condition, ⧉ is the operative response.
+
+> **Structural Note:** In the Structural Metaphysics symbol key, 📡 also denotes the Resonance Scan at eschatonic scale — the structural harmonic evaluation at the end of a universal cycle. The practice-scale and cosmological-scale functions are the same principle at different magnitudes.
+
+> **Structural Note:** In the Structural Metaphysics symbol key, ⚖ denotes Oscillating / Liminal Mode — transitional equilibrium characterized by alternating coherence and fragmentation impulses. In Field Physics practice, it denotes the triadic rupture diagnostic. Both functions involve structural weighing at a boundary condition. Both are retained under the First Glyphic Ethic.
+
 ---
 
 ## 5. Motion & Relational Operators  
