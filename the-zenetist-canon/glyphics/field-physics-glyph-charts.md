@@ -77,6 +77,8 @@ These are the entropic inversions of the centropic dimensions, forming the subve
 | E₁₄   | **⊡⁻** | Hollow Nest             | Empty recursion                          |
 | E₁₅   | **✦⁻** | Collapse Nova           | Emergence that leads directly into entropy |
 
+> **Structural Note:** E₅ ✴⁻ (Fractal Noise) retains the earlier term "fractal" as the entropic mirror of C₅ ✴ (Scalar / Fractal). Here "fractal" does not denote lawful Structural Recurrence (⧉∥⧉), but the appearance of scaling pattern without coherence, fidelity, or lawful part-whole relation. The name is retained for continuity.
+
 ---
 
 ## 4. Core Practice & Engineering Glyphs
