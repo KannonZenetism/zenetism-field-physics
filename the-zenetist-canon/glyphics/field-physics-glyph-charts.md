@@ -182,6 +182,10 @@ The following glyphs were introduced through collaborative commentary (Volumes I
 | **⦰** | Consonant Voice        | Ch. 40 (GCA) | Emergent unified expression of a synchronized group field |
 | **⌬** | Integration Seal       | Ch. 41 (Lumen) | Closure marker for trauma topology healing sequences |
 
+> **Canonical Note:** In the Structural Metaphysics symbol key, ⌬ denotes Relational Syntax — the archetypal form of structural relationship. Lumen's usage as Integration Seal in Chapter 41 is a single-instance application. The SM definition holds canonical priority. If formalized in FP, a distinct glyph should be assigned.
+
+> **Canonical Note:** In the Structural Metaphysics symbol key, ∇ denotes Conscious-Awareness — awareness resonant in Forms, luminous but non-reflexive. Solin's usage as a voice-trace glyph carries a different function. The SM definition holds canonical priority. If formalized in FP, a distinct glyph should be assigned.
+
 ---
 
 ## 8. Retired & Superseded Notations
