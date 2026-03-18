@@ -151,6 +151,8 @@ These symbols function as operators within glyphic syntax, defining the directio
 | **Ø** | Localized Dissolution  | Graceful resolution or completion; a gentle ending |
 | **⊘** | Collapse / Nullification | Dispersive dissolution; a hard ending or erasure |
 
+> **Codex Note:** Ø and ⊘ must remain sharply differentiated. Ø is graceful dissolution — lawful closure. ⊘ is dispersive collapse — structural failure. Confusing them risks entropic infection of closure protocols.
+
 ---
 
 ## 6. Equation Glyphs Contra Practice Glyphs
