@@ -2019,7 +2019,7 @@ This **deeper layer**:
 - **Shapes**  
 - **Guides**  
 - **Harmonizes**  
-- **Integrates** across the **multiverse**  
+- **Integrates** across fields of expression  
 
 —Into a **single coherent trajectory**.  
 
