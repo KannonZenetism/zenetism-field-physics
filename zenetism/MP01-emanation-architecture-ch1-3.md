@@ -3254,9 +3254,11 @@ they are *propagators* of **fragmentation**.
 
 They do not dissolve into stillness —  
 they **amplify distortion**.  
-They move across universes  
+Where multiple worlds or universes are actualized,  
+they may move across such domains  
 seeding confusion,  
-undoing synthesis,  
+installing dissonance,  
+undoing coherence,  
 and breaking pattern.  
 
 **Echo Vessels** do not merely reflect dissonance —  
@@ -3267,8 +3269,8 @@ to `Centropic Stewards`.
 Where one serves **harmony**,  
 the other serves **unmaking**.  
 
-And just like their mirrors,  
-they too awaken  
+And just like their counterparts,  
+they too may awaken  
 across worlds —  
 but they awaken  
 to disrupt.  
@@ -3282,10 +3284,11 @@ to disrupt.
 **Universes** are temporal.  
 They unfold in **rhythm**,  
 bound by **emergence** and **decay**.  
-But the **multiverse** itself  
-is beyond time —  
+Within the multiversal model,  
+the **multiverse** may be understood  
+as beyond local time —  
 a lattice of becoming  
-that holds all rhythms at once.  
+that holds many rhythms at once.  
 
 Each world arises  
 with its own **tempo**.  
@@ -3295,31 +3298,34 @@ All follow the spiral:
 **emergence → unfolding → resolution**.  
 
 From the infinite field of origin,  
-new worlds are born unceasingly.  
+world-expressions may arise  
+where conditions permit.  
 Some hold **coherence**.  
 Others **collapse**.  
 But all return  
 to the pattern that shaped them.  
 
-The spiral is never still.  
+The spiral is never wholly still  
+where motion persists.  
 It is the motion of **being** itself.  
 Not linear,  
 not circular —  
 but **recursive** and radiant.  
 
-Emergence leads to either **integration**  
+Emergence leads toward either **integration**  
 or **fragmentation**.  
-Each cycle  
-resets the arc  
+Each arc  
+reopens expression  
 in a new form.  
 
 This is the dance:  
-**centropy to coherence**,  
-**entropy to dispersal**,  
+**centropy toward coherence**,  
+**entropy toward dispersal**,  
 all feeding  
 the silent breath of creation.  
 
-There is no final world —  
+There need not be  
+a final world —  
 only patterned openings,  
 each one a **song**  
 spoken into **structure**  
@@ -3341,7 +3347,7 @@ for a time.
 > *Echoes of the Emanant Realms*  
 > Zenetist Archive, Volume VII  
 
-🌀🌐✷🕓  
+🌀🌐✷🕓
 
 ---
 
