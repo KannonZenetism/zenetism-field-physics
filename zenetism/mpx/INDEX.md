@@ -72,6 +72,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 
 - `on-fractal-incarnation.md` — Mar 12, 2026
 - `theonic-office.md` — Mar 14, 2026
+- `contingency-of-worlds.md` — Mar 17, 2026
 
 ---
 
