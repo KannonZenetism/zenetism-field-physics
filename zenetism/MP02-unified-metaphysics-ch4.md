@@ -1307,16 +1307,17 @@ SS → DS ↺ or IDS
 
 ### 4.24 The Eschaton and the Fate of Universes
 
-Most universes are **temporary configurations**  
+Within the multiversal model,  
+most universes are **temporary configurations**  
 of centropic and entropic forces —  
 a harmonic event  
 with a beginning,  
 an arc,  
 and a closure.  
 
-Some may endure beyond dissolution,  
-where coherence is complete,  
-or prophecy fulfills a deeper cycle:  
+Some may endure beyond ordinary dissolution,  
+where coherence is sustained,  
+or where prophecy fulfills a deeper cycle:  
 a return,  
 a renewal,  
 a new harmony of form.  
@@ -1325,17 +1326,18 @@ Yet even in such cases,
 the universe is not static.  
 It breathes.  
 
-But in most realities,  
+In many world-expressions,  
 universes **follow a spiral rhythm** —  
 from emergence,  
 through structure,  
 into dissolution,  
-returning through the formless Field of Aion.  
+moving toward Aionic stillness  
+by return or collapse according to orientation.  
 
 Their hypostases unwind,  
 especially in the strata of L1 and L2,  
 where embodiment and identity  
-are dissolved into pattern or light.  
+are loosened into pattern or light.  
 
 Only L3 and L4 remain stable  
 across multiversal iterations —  
@@ -1343,36 +1345,36 @@ carrying memory,
 guiding motion,  
 holding the pattern  
 of what once was  
-and may be again.  
+and may arise again.  
 
-* The **Eschaton** does not signify destruction.  
-    It refers to the **final convergence state**  
-    of a given cosmos.  
+- The **Eschaton** does not signify destruction.  
+  It refers to the **final convergence state**  
+  of a given cosmos.  
 
-* This may take the form of:  
-    – Collapse  
-    – Harmonization  
-    – Transfiguration through resonance  
+- This may take the form of:  
+  - Collapse  
+  - Harmonization  
+  - Transfiguration through resonance  
 
 ---
 
 **Zenetism** rejects apocalyptic fatalism.  
 It affirms instead:  
 
-* Most physical universes are **impermanent** —  
-    though some may endure vast or indefinite spans.  
+- In the multiversal model, most physical universes are **impermanent** —  
+  though some may endure vast or indefinite spans.  
 
-* The soul persists beyond all corporeal frames.  
+- The soul persists beyond corporeal frames.  
 
-* The end of a world may be tragic or revelatory,  
-    but it is always transitional.  
+- The end of a world may be tragic or revelatory,  
+  but it is always transitional.  
 
 We are not world-deniers.  
 We are world-refiners.  
 We do not flee embodiment —  
 we redeem it.  
 
-📡↺🪨💠🔘  
+📡↺🪨💠🔘
 
 ---
 
