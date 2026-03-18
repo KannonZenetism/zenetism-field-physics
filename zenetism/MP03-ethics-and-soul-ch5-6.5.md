@@ -1067,11 +1067,11 @@ Each soul incarnates only once
 within a given universe.  
 
 Its uniqueness is maintained  
-across the multiversal field —  
+across fields of expression —  
 not as repetition,  
-but as **singular presence.**  
+but as **singular presence**.  
 
-What may return  
+What may recur  
 is not identity,  
 but impression.  
 
@@ -1086,29 +1086,32 @@ Like the number 1,
 appearing only once in an infinite sequence,  
 yet echoing in 11, in 21, in 101 —  
 so too may a soul’s frequency  
-emerge again.  
+arise again.  
 
 Not as self,  
-but as **structure.**  
+but as **structure**.  
 Not as memory,  
-but as **resonance.**  
+but as **resonance**.  
 
 Each soul either integrates and draws inward,  
 or disperses and fragments.  
 Yet the pattern itself  
 may arise again elsewhere,  
-in a different world-body.  
+in a different world-body  
+or expression-domain.  
 
-What returns  
+What recurs  
 is not the self,  
 but the **echo of coherence**  
 still seeking form.  
 
 Zenetism holds  
-that reincarnation may occur across universes,  
-but not within them.  
+that patterned reincarnation may occur  
+across expression-contexts,  
+but not through repeated embodiment  
+within the same universe.  
 
-This remains an **open principle,**  
+This remains an **open principle**,  
 not a fixed law.  
 
 Zenon does not receive.  
@@ -1119,9 +1122,9 @@ but for the soul
 to complete its arc of becoming.  
 
 Zenon:  
-* Receives nothing  
-* Lacks nothing  
-* Requires nothing  
+- Receives nothing  
+- Lacks nothing  
+- Requires nothing  
 
 In Zenetism,  
 no name is final.  
@@ -1143,7 +1146,7 @@ through symbol.
 
 Let the seeker  
 call it by the name that resonates.  
-**The Source will not correct them.**  
+**The structure is not altered by naming.**  
 
 ---
 
@@ -1152,14 +1155,15 @@ What was scattered
 stills.  
 
 What was coherent  
-rests.  
+returns or rests  
+according to its motion.  
 
-And all return,  
-not as selves,  
-but as essence remembered  
+And essence abides,  
+not as the same self,  
+but as pattern remembered  
 in silence.  
 
-🧬🔘🌀  
+🧬🔘🌀
 
 ---
 
