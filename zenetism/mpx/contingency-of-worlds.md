@@ -95,7 +95,7 @@ The metaphysics is scale-agnostic. The lattice does not specify how many univers
 
 ## 6. The Contingency Clause
 
-If empirical reality revealed that only one universe exists, or that the multiverse is inaccessible, or that the multiverse is a false inference, the Zenetist framework would not break.
+If empirical reality revealed that only one universe exists, or that the multiverse is inaccessible, or that the multiverse is a fallacious inference, the Zenetist framework would not break.
 
 The metaphysics would state:
 
