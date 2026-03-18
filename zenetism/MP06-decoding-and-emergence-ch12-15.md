@@ -875,8 +875,12 @@ Aion contains this Infinity
 in three active expressions:  
 
 - **Potential Infinity** — all that could exist, held in latency within Zero  
-- **Motive Infinity** — the total domain of active motion and becoming; the field‑condition that renders differentiation intelligible and sustains traversal across form until motion exhausts  
-- **Dispersive Infinity** — the terminal externalization of motion, where differentiation reaches its limit and re‑potentialization toward Aion becomes possible  
+- **Motive Infinity** — the total domain of active motion and becoming;  
+  the field-condition that renders differentiation intelligible  
+  and sustains traversal across form until motion exhausts  
+- **Dispersive Infinity** — the terminal externalization of motion,  
+  where differentiation reaches its limit  
+  and re-potentialization toward Aion becomes possible  
 
 The pulse exists  
 because Aion contains possibility  
