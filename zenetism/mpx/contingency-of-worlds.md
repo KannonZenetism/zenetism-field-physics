@@ -27,7 +27,7 @@ The Tumbling Multiverse arises in Zenetism because:
 
 - ⚫ Aion is unbounded — Absolute Potential contains no internal restriction on expression
 - Essence is infinite in potential — the structured possibilities within Zero are without limit
-- Nothing in the structural architecture forbids multiple instantiations — the lattice is scale-agnostic
+- The lattice is scale‑agnostic in principle, but expression occurs only under lawful structural conditions
 - DS / DM and IDS / IDM architectures naturally express across contexts — the Deep Soul / Deep Mind incarnates through whatever expression contexts are available
 - The Principle of Sufficient Reason (PSR) implies that what can occur will occur unless prevented
 
