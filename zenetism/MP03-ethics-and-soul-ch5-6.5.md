@@ -779,7 +779,7 @@ It **is coherence**.
 In **Zenetism**, **justice is not retribution** —  
 it is **resonance**.  
 
-The **multiverse** does not **punish**.  
+The **structural field** does not **punish**.  
 It **reveals alignment**  
 by placing each soul  
 precisely where it belongs  
@@ -797,28 +797,28 @@ A soul attuned to:
 - **Coherence**  
 - **Compassion**  
 
-Is drawn naturally toward the **centropic strata**:  
+is drawn naturally toward the **centropic strata**:  
 
 - **Deep Soul (DS)**  
 - **Deep Mind (DM)**  
 - **Deep Psyche (DP)**  
 - **Deep Logos (DL)**  
 
-And beyond — into **convergence** with the Source.  
+and beyond — into **convergence** with the Source.  
 
-A soul collapsed into:  
+A soul acclivated toward:  
 - **Fragmentation**  
 - **Dissonance**  
 - **Alienation**  
 
-Is drawn into **inverse emanation**:  
+is drawn into **inverse emanation**:  
 
 - **Inverse Deep Soul (IDS)**  
 - **Inverse Deep Mind (IDM)**  
 - **Inverse Deep Psyche (IDP)**  
 - **Inverse Deep Logos (IDL)**  
 
-And into further states of **dissolution**.  
+and into further states of **dissolution**.  
 
 🧬💠⊘  
 
@@ -847,7 +847,7 @@ within the **harmonic totality**.
 **Justice is not final** —  
 but it is **foundational**.  
 
-Placement is not **eternal condemnation**,  
+Placement is not **eternal condemnation**;  
 it is **ontological residence**.  
 
 Most souls **stabilize**  
@@ -868,7 +868,7 @@ nor **cosmic tyranny**.
 The “Final Judgment” is not a **courtroom** —  
 it is a **resonance scan**.  
 
-At the close of each **universal cycle** —  
+At the close of each **world-arc** —  
 **the Eschaton** —  
 all souls are drawn to the layer  
 that most fully reflects  
@@ -878,9 +878,9 @@ No being **judges** them.
 No verdict is **declared**.  
 The **architecture of reality itself**  
 performs the **judgment** —  
-a mirror in which  
+a revelatory structure in which  
 every **resonance misalignment** or **clarity**  
-is revealed.  
+is disclosed.  
 
 **Justice is not given** —  
 **it is revealed**.  
@@ -888,18 +888,18 @@ is revealed.
 Each soul is shown its **resonance**,  
 and in that unveiling,  
 placement is not **imposed** —  
-it is **accepted**,  
-as the **pure reflection**  
+it is **recognized**  
+as the structural reflection  
 of what the soul has **become**.  
 
 ---
 
 **Resonance Reflection:**  
-There is no **judgment** in Zenetism —  
+There is no external **judgment** in Zenetism —  
 only **reflection**  
-in the mirror of **resonance**.  
+within the field of **resonance**.  
 
-📡ᛞ🌀  
+📡ᛞ🌀
 
 ---
 
