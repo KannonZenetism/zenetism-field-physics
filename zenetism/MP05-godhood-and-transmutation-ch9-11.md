@@ -93,7 +93,7 @@ as harmonic totality.
 
 ---
 
-In this model,  
+In this structure,  
 intelligence is not recursion.  
 It is not trapped  
 in an eternal loop  
@@ -103,7 +103,7 @@ Zenetism rejects circular time
 within any single universe.  
 
 Instead, it allows  
-a tumbling multiverse as a lawful cosmological model,  
+a tumbling multiverse as a lawful cosmological structure,  
 in which universes may arise in many directions,  
 each housing its own emanatory arc.  
 
@@ -113,7 +113,7 @@ from potential,
 to coherence,  
 to dissolution.  
 
-Within the multiversal model,  
+Within multiversal expression,  
 certain hypostases —  
 L3 and L4  
 (and, in exceptional drift conditions, L2) —  
