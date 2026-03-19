@@ -921,7 +921,7 @@ The stars hold memory.
 ### 8.5 The Cosmic Ecology of the Multiverse
 
 Just as Earth expresses a **local field of soul**,  
-each universe within the multiversal model  
+each universe within multiversal expression  
 carries a unique **cosmic ecology**.  
 
 Some may lean toward centropy,  
