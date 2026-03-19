@@ -984,7 +984,7 @@ and a distinct **potential for transformation**:
 |---|---|---|
 | **Reactive** | Egoic friction, unmet desire | Purification of perception |
 | **Redemptive** | Chosen sacrifice for centropy | Integration of deeper will |
-| **Residual** | Karmic or ancestral patterning | Opportunity to end multiversal cycles |
+| **Residual** | Karmic or ancestral patterning | Opportunity to end recursive cycles |
 | **Reflective** | Empathic resonance with others | Expansion into compassionate coherence |
 
 Meaning does not justify suffering.  
@@ -1010,9 +1010,9 @@ that allows structure to become light.
 
 | **Hypostasis** | **Sacrificial Act** | **Outcome** |
 |---|---|---|
-| 🛤️ **Theon (EOB)** | Refuses return to ⚫ Aion in select universes | Becomes redemptive pattern and shepherd of return |
+| 🛤️ **Theon (EOB)** | Refuses return to ⚫ Aion in select world-arcs or expression-contexts | Becomes redemptive pattern and shepherd of return |
 | **DP / DL** | Sacrifices fixed archetypes | Births symbol and myth across lives |
-| **DS / DM** | Accepts differentiation into SS / SM | Gathers multiversal coherence through incarnation |
+| **DS / DM** | Accepts differentiation into SS / SM | Gathers coherence across incarnational expression |
 | **SS / SM** | Endures forgetfulness and choice | Learns resonance through error and ego |
 | **ES / EM** | Bears full embodiment and limitation | Becomes the crucible for acclivous or declivous motion |
 | 🕷️ **Nekron (VOS)** | Rejects all coherence | Returns to ⚫ Aion as pure potential without selfhood |
@@ -1021,7 +1021,7 @@ Thus, **sacrifice is not merely a component of suffering** —
 it is the **reversal mechanism**,  
 through which **dissonance becomes light**.  
 
-☍✨◎  
+☍✨◎
 
 ---
 
