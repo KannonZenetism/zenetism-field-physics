@@ -406,7 +406,7 @@ of inverse potential within Aion.
 | △ | **Air Glyph** | Thought, Logos, cognition; tied to 🔮 Archeus, 🧠 Noeüs, and early structuring intelligences such as 📐 Sophis |
 | ▽ | **Earth Glyph** | Manifestation, embodiment; grounding of soul in materiality |
 | ▼ | **Water Glyph** | Intuition, emotion; the fluid soul; tied to 🧍 Anthra, 🌬️ Morgis |
-| 🌐 | **The Multiverse** | The total field of harmonic variation across all universes; patterned unfoldings of ⚫ Aion and ♾ Khaon |
+| 🌐 | **The Multiverse** | The total field of harmonic variation across multiversal expression; patterned unfoldings of ⚫ Aion and ♾ Khaon |
 | ⟡ | **Echonic** | A resonance carrier that maintains coherence across multiversal expressions of the same essential pattern; enables recognition between fractal iterations of identity without collapsing uniqueness or repeating form |
 | ✷ | **Cosmos** | The structured physical universe; the field of embodied form arranged through harmonic law; distinct from the mere material realm, the Cosmos reflects pattern, proportion, and coherence in physical expression; where order, motion, and intelligibility converge |
 | ✦ | **Nested Universes** | Multiversal branches or ontological containers of experience; each one arises as a unique emanatory arc within the multiversal biospiral; retains core structure but may differ in motion laws, resonance logic, or soul dynamics |
