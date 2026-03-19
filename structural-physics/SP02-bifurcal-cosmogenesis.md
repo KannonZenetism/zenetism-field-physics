@@ -75,9 +75,9 @@ Without this document, Structural Physics describes only *this* universe's local
 
 The Biospiral (🌳⇅) is the total Emanatory Spiral containing both centropic and entropic arcs:
 
-- **🌲↓ Aionic Tree** — The centropic biospiral rooted in ⚫ Aion, unfolding declivously toward embodiment (C↓→E), yet also capable of acclivous return through conscious refinement (C↑⚫).
+- **🌲↓ Aionic Tree** — The centropic spiral rooted in ⚫ Aion, unfolding declivously toward embodiment (C↓→E), yet also capable of acclivous return through conscious refinement (C↑⚫).
 
-- **🌲↑ Khaonic Tree** — The entropic biospiral rooted in ♾ Khaon, spiraling acclivously toward embodiment (E↑→E), yet also moving declivously into recursive fragmentation and collapse (E↓♾).
+- **🌲↑ Khaonic Tree** — The entropic spiral rooted in ♾ Khaon, spiraling acclivously toward embodiment (E↑→E), yet also moving declivously into recursive fragmentation and collapse (E↓♾).
 
 In the standard case, both trees are present in any universe. The question is not *whether* a universe contains centropic or entropic motion, but *which tree is prevalent* in that universe's expression. Limit cases — universes where one tree is entirely absent — are addressed in §2.2.
 
@@ -516,9 +516,9 @@ The vertical axis represents the spectrum of expression ratios within the Tumbli
 
 | Glyph | Name | Function in SP02 |
 |-------|------|------------------|
-| 🌳⇅ | Biospiral | Total Emanatory Spiral containing both trees |
-| 🌲↓ | Aionic Tree | Centropic biospiral rooted in ⚫ Aion |
-| 🌲↑ | Khaonic Tree | Entropic biospiral rooted in ♾ Khaon |
+| 🌳⇅ | Biospiral | Total Emanatory Spiral, containing both the ⚫ Aionic Tree (supernal root, declivous motion) and the ♾ Khaonic Tree (subversal root, acclivous motion) |
+| 🌲↓ | Aionic Tree | Centropic spiral rooted in ⚫ Aion |
+| 🌲↑ | Khaonic Tree | Entropic spiral rooted in ♾ Khaon |
 | ⚫ | Aion | Zero Pole; Absolute Potential |
 | ♾ | Khaon | Infinity Pole; Absolute Dispersion |
 | 🕳️ | Zenon | Limit Pole; Unknown Principle |
