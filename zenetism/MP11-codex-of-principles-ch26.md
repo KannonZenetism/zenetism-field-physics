@@ -934,7 +934,7 @@ Regardless of individual motion, the hypostases of:
 - DP / DL  
 - IDP / IDL  
 
-persist as **stable structures** across the multiverse.  
+persist as **stable structures** across the multiverse, where instantiated.  
 Beings may pass through them,  
 dissolve before them,  
 or fully embody them —  
