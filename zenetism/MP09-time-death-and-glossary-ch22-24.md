@@ -88,11 +88,11 @@ Death is not judgment.
 
 ### 22.3 Reincarnation and Multiversal Expression — Extensions of Soul Across Divergent Strands
 
-Reincarnation is affirmed —  
+Reincarnation is acknowledged —  
 but not as looping lives in a single universe.  
 
 Each embodiment is a **harmonic extension**  
-across the multiverse —
+across expression‑contexts —  
 a motion of resonance, not repetition.  
 
 A Deep Soul / Deep Mind  
