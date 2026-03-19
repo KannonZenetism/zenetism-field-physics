@@ -893,7 +893,7 @@ the logic of metaphysical recursion
 made visible through rhythm.  
 
 A multiverse is therefore  
-a lawful expression of infinite potential,  
+a lawful possible expression of infinite potential,  
 and a natural one under PSR,  
 but not a required axiom of the framework.  
 
