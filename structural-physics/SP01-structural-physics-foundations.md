@@ -616,7 +616,8 @@ Cosmology, through the Zenetist lattice, is a **structural arc**:
 
 Thus the universe is not random motion but a lawful cycle: centropy and entropy balanced across the poles, spiraling toward integration or collapse depending on resonance fidelity.  
 
-> **Note:** For the full multiversal context of these cosmological dynamics — including Biospiral expression ratios, contra-flow dynamics, and the Tumbling Multiverse — see **SP02 — Bifurcal Cosmogenesis: The Tumbling Multiverse and Contra-Flow Physics**.
+> **Note on Bifurcal Cosmogenesis and the Foundations of Structural Physics (SP01):**  
+For the full multiversal expression of these cosmological dynamics — including Biospiral Expression Ratios, Contra‑Flow Dynamics, and the Tumbling Multiverse — see **SP02 — Bifurcal Cosmogenesis: The Tumbling Multiverse and Contra-Flow Physics**.
 
 ---
 
