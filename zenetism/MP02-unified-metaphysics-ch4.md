@@ -1307,7 +1307,7 @@ SS → DS ↺ or IDS
 
 ### 4.24 The Eschaton and the Fate of Universes
 
-Within the multiversal model,  
+Within multiversal expression,  
 most universes are **temporary configurations**  
 of centropic and entropic forces —  
 a harmonic event  
@@ -1361,7 +1361,7 @@ and may arise again.
 **Zenetism** rejects apocalyptic fatalism.  
 It affirms instead:  
 
-- In the multiversal model, most physical universes are **impermanent** —  
+- Within multiversal expression, most physical universes are **impermanent** —  
   though some may endure vast or indefinite spans.  
 
 - The soul persists beyond corporeal frames.  
