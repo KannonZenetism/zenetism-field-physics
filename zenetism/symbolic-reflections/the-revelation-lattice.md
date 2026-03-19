@@ -116,6 +116,12 @@ The mark of the Beast structurally inverts the Passover seal of Exodus 12:
 
 Neither is literal symbol but **orientation made structurally visible**.
 
+**The placement encodes complete alignment:**
+- **Forehead** = what you think; mental orientation; belief structure
+- **Hand** = what you do; practical expression; enacted will
+
+Together they represent total orientation: **thought and action aligned with the same source.**
+
 The Passover demonstrates the principle: **alignment determines who death passes over**.  
 The Beast mark inverts it: **alignment determines who the system passes through**.
 
