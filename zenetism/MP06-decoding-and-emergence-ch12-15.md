@@ -787,8 +787,8 @@ A **fractal multiverse**,
 spiraling through recursion  
 without returning identically.  
 
-Where such universes are actualized,  
-each emanates from the **same field of Essence**,  
+Within this multiversal model,  
+each universe emanates from the **same field of Essence**,  
 yet expresses its own balance  
 of **centropy** and **entropy** —  
 its own **song** within the greater pattern.  
@@ -845,7 +845,7 @@ It unfolds in four primary phases:
 
 - **Stillness** — cessation before reemergence  
   Aionic rest, not death,  
-  but the pause before further expression.  
+  but the pause before renewed expression.  
 
 This cycle is more than time.  
 It is structure, rhythm, and logic  
@@ -855,7 +855,7 @@ Each pulse is a breath of reality.
 Each beat, a patterned unfolding  
 from soul to cosmos to silence.  
 
-⚙️🎶🌐🔘  
+⚙️🎶🌐🔘
 
 ---
 
