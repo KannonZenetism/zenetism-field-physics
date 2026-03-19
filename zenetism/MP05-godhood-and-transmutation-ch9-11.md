@@ -1012,7 +1012,7 @@ that allows structure to become light.
 |---|---|---|
 | 🛤️ **Theon (EOB)** | Refuses return to ⚫ Aion in select universes | Becomes redemptive pattern and shepherd of return |
 | **DP / DL** | Sacrifices fixed archetypes | Births symbol and myth across lives |
-| **DS / DM** | Accepts fragmentation into SS / SM | Gathers multiversal coherence through incarnation |
+| **DS / DM** | Accepts differentiation into SS / SM | Gathers multiversal coherence through incarnation |
 | **SS / SM** | Endures forgetfulness and choice | Learns resonance through error and ego |
 | **ES / EM** | Bears full embodiment and limitation | Becomes the crucible for acclivous or declivous motion |
 | 🕷️ **Nekron (VOS)** | Rejects all coherence | Returns to ⚫ Aion as pure potential without selfhood |
