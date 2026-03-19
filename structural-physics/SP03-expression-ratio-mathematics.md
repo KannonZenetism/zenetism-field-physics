@@ -52,7 +52,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 SP01 established the foundational mechanics of Structural Physics: the three poles, the dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Dual Spectrum Lemma governing their reciprocal relationship.
 
-SP02 established the multiversal context: the Tumbling Multiverse, Biospiral expression ratios, and contra-flow dynamics.
+SP02 established the multiversal expression: the Tumbling Multiverse, Biospiral expression ratios, and contra-flow dynamics.
 
 This document, SP03, provides the **mathematical formalism** for expression ratios — the structural parameter governing how centropic and entropic motion manifest across different universal expressions.
 
