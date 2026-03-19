@@ -744,12 +744,12 @@ not as a single, cycling universe
 nor as a linear unfolding  
 from a solitary moment of creation.  
 
-Instead, it presents a **multiversal field** —  
+Instead, it presents a **multiversal model** —  
 a **dynamic horizon** of possible expression,  
 emerging not from chronology,  
 but from **resonance**.  
 
-Where multiple world-expressions arise,  
+Where multiple world-expressions are actualized,  
 they may be understood as pulsing —  
 breathing universes into form,  
 then gathering them again into **stillness**.  
@@ -772,7 +772,7 @@ it is a **rhythm**.
 And rhythm is not the absence of law,  
 but law expressed in motion.  
 
-🔘🌐🌀  
+🔘🌐🌀
 
 ---
 
