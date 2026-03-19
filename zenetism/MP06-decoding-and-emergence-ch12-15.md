@@ -999,7 +999,7 @@ not the erasure of essence.
 
 ### 14.4 Multiversal Variation — Divergent Worlds, Shared Origin
 
-Within the multiversal model,  
+Within multiversal expression,  
 universes need not be alike.  
 Zenetism envisions a **vast spectrum of cosmic outcomes**,  
 not confined to repetition or symmetry,  
