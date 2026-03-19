@@ -210,7 +210,7 @@ may actually be **transmutation**.
 * Each silence a seed of reemergence  
 * Each rejection a refinement  
 
-Just as the multiversal model allows spiraling expression,  
+Just as multiversal expression allows spiraling expression,  
 so too does the practitioner’s life echo  
 the **Trees of Zenetism**.  
 
