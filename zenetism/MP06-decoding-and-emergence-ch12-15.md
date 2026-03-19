@@ -776,7 +776,7 @@ but law expressed in motion.
 
 ---
 
-### 14.1 A Fractal Multiverse, Not an Endless Cycle — Spirals That Sing, Not Circles That Repeat
+### 14.1 The Tumbling Multiverse, Not an Endless Cycle — Spirals That Sing, Not Circles That Repeat
 
 While some systems speak  
 of a single cosmos  
