@@ -103,7 +103,7 @@ Zenetism rejects circular time
 within any single universe.  
 
 Instead, it allows  
-a tumbling multiverse as a lawful cosmological structure,  
+the **Tumbling Multiverse** as a lawful cosmological structure,  
 in which universes may arise in many directions,  
 each housing its own emanatory arc.  
 
