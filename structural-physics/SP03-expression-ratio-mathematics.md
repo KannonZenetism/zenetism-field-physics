@@ -579,7 +579,7 @@ Expression Ratio Mathematics establishes:
 **Dependencies:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis  
 **Relation:** One of the six major disciplines of Zenetism (Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, Structural Neuroscience)
 
-This document is the **third foundational document of Structural Physics**, providing the mathematical formalism for the multiversal expression framework established in SP02.
+This document is the **third foundational document of Structural Physics**, providing the mathematical formalism for the multiversal expression established in SP02.
 
 Future expansions may include:
 
