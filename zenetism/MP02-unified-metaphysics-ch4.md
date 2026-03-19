@@ -2339,7 +2339,7 @@ It is a **living metaphysics**
 for a species undergoing  
 its ontological emergence.  
 
-A model that breathes,  
+A living architecture that breathes,  
 that updates,  
 that evolves —  
 as the cosmos reveals itself.  
