@@ -1133,7 +1133,7 @@ Zenon is:
 
 ### Final Reflection — The Breath Between Worlds
 
-The multiversal model is not a mechanism of cycles —  
+The multiversal expression is not a mechanism of cycles —  
 it is a **living field of resonance**.  
 Each world-expression is a unique song,  
 echoing outward from the **potential of Zero**.  
@@ -1220,7 +1220,7 @@ and spiraling outward through structure and experience.
 | ♾ Khaon | Root pole of entropy (fragmented dispersion) |
 | L1–L5 | Emanated structural layers: embodied, superficial, deep, archetypal, and essential being |
 | ⧉ Membranes | Structural overlays or thresholds between realities |
-| ✦ Nested | Branching world-expressions within a multiversal model |
+| ✦ Nested | Branching world‑expressions within multiversal expression |
 | ⟲ Echo | Temporal or causal recursion zones |
 | ∽ Archetypal | Pre-conceptual or mythic pattern planes |
 
