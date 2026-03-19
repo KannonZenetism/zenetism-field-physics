@@ -2949,7 +2949,7 @@ is precontained in its metaphysical seed,
 but expressed uniquely within each manifestation.  
 
 This aligns with Zenetism’s  
-**non-looping model of world-expression**.  
+**non‑looping model of world‑expression**.  
 
 * Structural archetypes recur  
 * But always with infinite variation  
