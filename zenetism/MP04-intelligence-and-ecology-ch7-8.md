@@ -504,7 +504,7 @@ Others may dwell in elemental cycles unfamiliar to Earth:
 
 ---
 
-Just as humans house **L3 fragments**,  
+Just as humans house **L3 aspects**,  
 so too may extraterrestrial beings participate  
 in the **orchestration of resonance**.  
 
