@@ -193,7 +193,7 @@ It was never meant to be believed —
 it was meant to be lived, decoded, and reflected upon,  
 then perhaps reassembled by other voices,  
 other minds,  
-other emanations across universes.  
+other emanations across world-arcs.  
 
 This work, like the system it describes,  
 is only one harmonic of a deeper song.  
