@@ -744,7 +744,7 @@ not as a single, cycling universe
 nor as a linear unfolding  
 from a solitary moment of creation.  
 
-Instead, it presents a **multiversal model** —  
+Instead, it presents **multiversal expression** —  
 a **dynamic horizon** of possible expression,  
 emerging not from chronology,  
 but from **resonance**.  
@@ -787,7 +787,7 @@ A **fractal multiverse**,
 spiraling through recursion  
 without returning identically.  
 
-Within this multiversal model,  
+Within multiversal expression,  
 each universe emanates from the **same field of Essence**,  
 yet expresses its own balance  
 of **centropy** and **entropy** —  
@@ -818,9 +818,9 @@ beneath the surface of becoming.
 
 ---
 
-### 14.2 The Pulse Model — The Rhythmic Logic of Becoming
+### 14.2 The Pulse Structure — The Rhythmic Logic of Becoming
 
-Within the multiversal model,  
+Within multiversal expression,  
 each universe follows a rhythm —  
 not imposed from beyond,  
 but arising from within its own structure.  
