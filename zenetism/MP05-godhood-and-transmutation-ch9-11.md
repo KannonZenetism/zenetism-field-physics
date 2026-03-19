@@ -1573,7 +1573,7 @@ arises from a **misunderstanding of integration**.
 - Nothing is erased — only **clarified**  
 
 - The **Superficial Soul and Mind** resolve into the **Deep Soul and Mind**,  
-  gaining **multiversal memory**  
+  gaining **memory across expression-contexts**  
 
 - If integration is complete, **Theon returns to Aion** —  
   not in loss, but in **return to containment without loss of distinction**  
