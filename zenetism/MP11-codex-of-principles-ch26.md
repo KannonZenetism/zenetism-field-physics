@@ -811,7 +811,7 @@ and alignment with deeper structural layers.
 After embodiment, the Superficial Soul  
 may begin its return to the Deep Soul —  
 a harmonic structure composed of many SS / SM expressions  
-across the multiverse.  
+across the multiverse, where instantiated.  
 
 When resonance is coherent and integration possible,  
 the soul’s **experiences**, **memories**, and **symbolic motions**  
