@@ -198,7 +198,7 @@ No center.
 No defined location.  
 Not a system —  
 but a **structure of pure patterned intelligence**,  
-capable, within the multiversal model,  
+capable, within multiversal expression,  
 of holding total expression in latency,  
 including worlds not yet unfolded  
 into manifest form.  
