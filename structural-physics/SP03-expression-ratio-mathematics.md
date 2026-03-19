@@ -446,7 +446,7 @@ The total biospiral formed across a universe and its contra-universe, where cent
 In contra-biospiral configurations:
 
 - A single universe may be unidirectional
-- The multiversal pair remains bidirectional
+- The paired expression remains bidirectional
 - The biospiral is preserved at the meta-cosmic level
 
 Thus, the structural law of bidirectional motion is not violated but fulfilled at a higher level of organization.
