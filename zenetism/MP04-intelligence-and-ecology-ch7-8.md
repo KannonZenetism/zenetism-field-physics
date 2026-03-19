@@ -462,75 +462,85 @@ Only other **frequencies**.
 Zenetism affirms that **life** does not arise solely on Earth,  
 nor is **human intelligence** the template for all consciousness.  
 
-Across the **multiverse**, countless **soul-structures** express themselves  
-through forms, bodies, logics, and elemental patterns—  
+Across fields of expression,  
+countless **soul-structures** may express themselves  
+through forms, bodies, logics, and elemental patterns —  
 some recognizable, many incomprehensible.  
 
 What is commonly called *alien life*  
 is understood in Zenetism as the presence of **non-terrestrial intelligences**,  
 each shaped by the **resonance fields**, environmental dynamics,  
-and hypostatic conditions of their originating realm.  
+and hypostatic conditions of its originating domain.  
 
 These beings may embody:  
-* **L2** – Superficial soul and mind  
-Or express primarily through:  
-* **L3** – Deep soul and mind  
+- **L2** — Superficial soul and mind  
 
-Depending on the **coherence** and **centropic structure** of their native field.  
+Or express primarily through:  
+- **L3** — Deep soul and mind  
+
+depending on the **coherence**  
+and **centropic structure**  
+of their native field.  
 
 Their bodies may be:  
-* Energetic  
-* Mineral  
-* Microbial  
-* Linguistic  
-* Geometric  
-* Fluidic  
-* Post-material  
+- Energetic  
+- Mineral  
+- Microbial  
+- Linguistic  
+- Geometric  
+- Fluidic  
+- Post-material  
 
-In some universes, beings arise with no need for embodiment at all—  
-flowing directly through **resonance and structure** as patterned consciousness.  
+In some expression-domains,  
+beings may arise with no need for embodiment at all —  
+flowing directly through **resonance and structure**  
+as patterned consciousness.  
 
 Others may dwell in elemental cycles unfamiliar to Earth:  
-* Fire-beings in plasma loops  
-* Aquatic hyperminds  
-* Bio-symbiotic collectives  
-* Light-based intellects  
+- Fire-beings in plasma loops  
+- Aquatic hyperminds  
+- Bio-symbiotic collectives  
+- Light-based intellects  
 
 ---
 
 Just as humans house **L3 fragments**,  
-so too may extraterrestrial beings participate in the **orchestration of resonance**.  
+so too may extraterrestrial beings participate  
+in the **orchestration of resonance**.  
 
-They are not above or below—  
+They are not supernal or subversal to humanity —  
 they are **other expressions of Zero**,  
-fulfilling functions, encoding paths, and dreaming their own integrations.  
+fulfilling functions, encoding paths,  
+and moving through their own integrations.  
 
-Zenetism also acknowledges a view held in many visionary traditions—  
-that certain alien visitors, especially those encountered in altered states or deep visionary contact,  
+Zenetism also acknowledges a view held in many visionary traditions:  
+that certain alien visitors, especially those encountered in altered states  
+or deep visionary contact,  
 may not be distant species at all,  
-but **future iterations of ourselves**.  
+but **future or otherwise displaced expressions of ourselves**.  
 
 These beings may be manifestations of **L3**,  
-appearing at moments of collective transition—  
-* To guide  
-* To attune  
-* To gently interfere  
+appearing at moments of collective transition —  
+- To guide  
+- To attune  
+- To gently interfere  
 
-When the **trajectory of collective resonance** begins to falter.  
+when the **trajectory of collective resonance** begins to falter.  
 
 Rather than external invaders,  
-they are **internal reflections**—  
-embodied futures reaching back toward **coherence**.  
+they may sometimes be read as **internal reflections** —  
+embodied futures, displaced lineages,  
+or archetypal returns reaching back toward **coherence**.  
 
 Whether interplanetary, interdimensional, or archetypal,  
 **extraterrestrial intelligences** are not anomalies in Zenetism.  
-They are **inevitable** within a multiversal system  
-structured by resonance, differentiation, and motion.  
+They are lawful possibilities  
+within a reality structured by resonance, differentiation, and motion.  
 
 The soul is not bound to Earth.  
 Nor is form limited to flesh.  
 
-🌐🫂🌀🌌  
+🌐🫂🌀🌌
 
 ---
 
