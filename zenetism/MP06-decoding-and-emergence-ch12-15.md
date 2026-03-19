@@ -1090,7 +1090,7 @@ Even collapse is not punishment —
 it is return to Zero for saturation,  
 a renewal through dissolution.  
 
-This model offers a **vision of expansion**,  
+This structure offers a **vision of expansion**,  
 a possible multiversal field  
 of **evolving harmony**.  
 
