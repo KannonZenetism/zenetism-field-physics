@@ -783,7 +783,7 @@ of a single cosmos
 endlessly recurring —  
 Zenetism allows a **wider field**:  
 
-A **fractal multiverse**,  
+A **tumbling multiverse**,  
 spiraling through recursion  
 without returning identically.  
 
