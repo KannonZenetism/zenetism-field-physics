@@ -3220,7 +3220,7 @@ but many choose to remain
 at their harmonic layer  
 to assist in the unfolding of others.  
 
-They incarnate across many worlds.  
+They incarnate across worlds within expressions that permit it.  
 They awaken in key lifetimes  
 to heal, to teach,  
 or to catalyze awakening.  
@@ -3284,7 +3284,7 @@ to disrupt.
 **Universes** are temporal.  
 They unfold in **rhythm**,  
 bound by **emergence** and **decay**.  
-Within the multiversal model,  
+Within the multiversal structure,  
 the **multiverse** may be understood  
 as beyond local time —  
 a lattice of becoming  
