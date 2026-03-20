@@ -118,7 +118,7 @@ Yahweh's "chosen people" doctrine = **particularization incompatible with L₅**
 
 2. **Zenetist Bifurcal:** OT conflates L₀/L₄ without specifying poles; NT clarifies L₅ Theon distinct from both substrate and architect
 
-3. **Gnostic:** OT Yahweh = IL₄ Demiurge masquerading as source; NT reveals true L₅ Father beyond the false architect
+3. **Gnostic:** OT Yahweh = IL₄ Demiurge masquerading as source; NT reveals authentic L₅ Father beyond the counterfeit architect
 
 **Textual evidence supports either bifurcal or Gnostic reading over unified deity.**
 
