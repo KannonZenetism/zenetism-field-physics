@@ -430,7 +430,7 @@ Therefore, the set of expressed universes is characterized not by concentration 
 
 In most universal expressions, bidirectionality occurs **within** a single universe — both C and E are present, with one prevalent and one recessive.
 
-However, in fully Aionic or fully Khaonic limit cases, bidirectionality occurs **across paired contra-universes**:
+However, in fully Aionic or fully Khaonic limit cases, bidirectionality is structurally entailed **across paired contra-universes**:
 
 - A fully Aionic universe (C only) pairs with a fully Khaonic contra-universe (E only)
 - Together they form a complete biospiral
