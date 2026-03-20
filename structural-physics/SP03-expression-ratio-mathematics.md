@@ -410,7 +410,7 @@ Within the sustained field of Motive Infinity, **all possible orientations** eme
 - Most expressions occupy biased regions of the spectrum between centropic and entropic extremes
 - All expressions preserve the Dual Spectrum Lemma as invariant structure
 
-The Tumble is not random but **structurally necessary** — infinite possibility expressing through infinite orientation.
+The Tumble is not random but **structurally anticipated** — infinite possibility expressing through infinite orientation.
 
 ### 7.4 Orientation Distribution
 
