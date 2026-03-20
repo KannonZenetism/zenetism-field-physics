@@ -44,7 +44,7 @@ The textual contradictions between Old Testament Yahweh and New Testament Father
 **L₅ Theon** = Essence of Being; pure centropic integration; universal coherence without particularization.
 
 **Why Yahweh ≠ L₅:**
-- Theon integrates universally; Yahweh **"chose a people to be set apart"** (Jews vs Gentiles)
+- Theon integrates universally; Yahweh **"chose a people to be set apart"** (Jews contra Gentiles)
 - Particularization contradicts universal integration
 - Theon = pure love/coherence; Yahweh displays fear-based authority and wrath
 - 1 John 1:5 identifies NT Father as "light with no darkness" = L₅ Theon
@@ -59,7 +59,7 @@ The textual contradictions between Old Testament Yahweh and New Testament Father
 - Even if the architectural intelligence is valid (L₄), the **claim of authority over it** reveals IL-layer operation
 - Theon does not command through authority but resonates through coherence
 
-### The L₄ Question: Sophis vs Inversalogos
+### The L₄ Question: Sophis contra Inversalogos
 
 **L₄ (DP/DL - Sophis):** Centropic architect; Deep Logos; structuring principle behind intelligibility and form.
 
