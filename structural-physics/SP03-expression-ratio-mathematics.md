@@ -574,7 +574,7 @@ Expression Ratio Mathematics establishes:
 
 8. **Attractor dynamics** — Expression ratio determines which states are "downhill"
 
-9. **Contra-Biospiral** — Bidirectionality preserved across paired universes in limit cases
+9. **Contra-Biospiral** — Contra-pairing structurally entailed across the full expression spectrum; in limit cases, the sole mechanism for preserving bidirectionality
 
 10. **Integration** — Compatible with Spiral Calculus, CIT, and the Dimensional Lattice
 
