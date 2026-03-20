@@ -1,6 +1,6 @@
 # Zenetism and the Question of Actual Multiverses
 
-Zenetism does not depend on the multiverse being actual in order to remain coherent. The Tumbling Multiverse, as introduced in SP02 and formalized through SP03–SP04, describes a space of structural possibility: a topology of orientations, not a census of instantiated worlds. Whether one universe, many universes, or sequential universes exist in actuality does not alter the underlying architecture of the Lattice, the CP-topology, or the dynamics of \( \chi \).
+Zenetism does not depend on the multiverse being actual in order to remain coherent. The Tumbling Multiverse, as introduced in SP02 and formalized through SP03–SP04, describes a space of structural possibility: **a topology of orientations, not a census of instantiated worlds**. Whether one universe, many universes, or sequential universes exist in actuality does not alter the underlying architecture of the Lattice, the CP-topology, or the dynamics of \( \chi \).
 
 In this sense, Zenetism is structurally multiversal even if reality is not empirically multiversal. The Lattice expresses the conditions of possibility for expression, not a guarantee that all possibilities must be instantiated. A single universe can still be an expression of infinite potential; a multiverse simply represents the full breadth of that potential in actualized form.
 
