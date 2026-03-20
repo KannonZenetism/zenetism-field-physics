@@ -1,4 +1,4 @@
-#### Methodological Note: Necessity contra Probability in Multiversal Emergence
+## Axiom of Necessity contra Probability in Multiversal Emergence
 
 Earlier formulations claimed the multiverse as logically necessary given Zero / Infinity mathematical equivalence and the Principle of Sufficient Reason. This has been refined:
 
