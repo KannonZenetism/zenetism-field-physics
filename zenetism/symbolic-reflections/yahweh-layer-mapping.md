@@ -61,9 +61,9 @@ The textual contradictions between Old Testament Yahweh and New Testament Father
 
 ### The L₄ Question: Sophis contra Inversalogos
 
-**L₄ (DP/DL - Sophis):** Centropic architect; Deep Logos; structuring principle behind intelligibility and form.
+**L₄ (DL - Sophis):** Centropic architect; Deep Logos; structuring principle behind intelligibility and form.
 
-**IL₄ (IDP/IDL - Inversalogos/Nyxea):** False architect; authoritarian forms masquerading as ultimate source; the Demiurge.
+**IL₄ (IDL - Nyxea):** Entropic architect; authoritarian forms masquerading as ultimate source; the Demiurge.
 
 **If Yahweh = L₄ Sophis (centropic reading):**
 - Structuring intelligence, order-giver
