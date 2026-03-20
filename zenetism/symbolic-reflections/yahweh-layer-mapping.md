@@ -8,15 +8,15 @@ The textual contradictions between Old Testament Yahweh and New Testament Father
 
 ## Biblical Contradictions Requiring Explanation
 
-**Bifurcal vs Unipolar:**
+**Bifurcal contra Unipolar:**
 - Isaiah 45:7: "I form the light and create darkness, I bring prosperity and create disaster"
 - 1 John 1:5: "God is light; in him there is no darkness at all"
 
-**Fear-Based vs Love-Based:**
+**Fear-Based contra Love-Based:**
 - OT emphasis: "The fear of the Lord is the beginning of wisdom"
 - NT emphasis: "Perfect love casts out fear" (1 John 4:18)
 
-**War God vs Beast:**
+**War God contra Beast:**
 - Exodus 15:3: "The LORD is a man of war"
 - Revelation 13:4: "Who is able to make war with him?" (Beast worship)
 
