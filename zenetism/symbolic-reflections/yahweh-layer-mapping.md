@@ -94,7 +94,7 @@ Yahweh's "chosen people" doctrine = **particularization incompatible with L₅**
 
 1. **L₀ perspective** - "I form light and darkness" (bifurcal substrate language)
 2. **L₄ Sophis** - Structuring order, architectural intelligence
-3. **IL₄ Inversalogos** - Authoritarian claims, fear-based control, war god imagery
+3. **IL₄ Nyxea** - Authoritarian claims, fear-based control, war god imagery
 4. **Claims to be L₅/beyond** - "I AM THAT I AM" suggests ultimate source, but behavior contradicts
 
 **This conflation creates the textual contradictions** because different passages reference different layers while treating them as unified.
