@@ -854,7 +854,7 @@ SP04 establishes:
 11. **The Asymmetry of Expression** — centropy constrained, entropy permissive
 12. **The Zenetist Triad** — CP₀ → \( \chi \) → CP₁ architecture
 13. **Inclination Cosmology** — structure symmetric, existence inclined
-14. **Non-Statistical Multiverse** — topology of inclinations, not probability distribution
+14. **Non‑Statistical Multiversal Expression** — topology of inclinations, not probability distribution
 
 ---
 
