@@ -210,7 +210,7 @@ Each hypostatic layer engages time according to its structural nature:
 **L₃ — Archeus / Noeüs (Deep Soul / Mind):**
 - Multiversal simultaneity
 - Timelines accessed by **tonal coherence**
-- The self that continues across the multiverse
+- The self that continues across instantiation contexts
 - Continuity of identity across instantiations and parallel expressions
 - Unlike L₄, which holds form without identity, L₃ holds identity across forms
 
