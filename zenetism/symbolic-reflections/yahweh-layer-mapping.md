@@ -105,7 +105,7 @@ Yahweh's "chosen people" doctrine = **particularization incompatible with L₅**
 
 - **Father = L₅ Theon:** "God is light; in him there is no darkness" (pure centropic)
 - **Christ = Theon manifest:** Integrative love, universal invitation, no fear-based control
-- **Satan/Beast = IL₅ Nekron / IL₄ Inversalogos:** War imagery, territorial claims, authoritarian binding
+- **Satan/Beast = IL₅ Nekron / IL₄ Nyxea:** War imagery, territorial claims, authoritarian binding
 - **"No one has seen God at any time" (John 1:18):** Suggests OT encounters were with lower layers, not L₅
 
 **Key shift:** From fear (entropic binding) to love (centropic integration).
