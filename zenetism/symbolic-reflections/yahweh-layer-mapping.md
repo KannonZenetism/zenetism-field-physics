@@ -71,7 +71,7 @@ The textual contradictions between Old Testament Yahweh and New Testament Father
 - "Chosen people" = architectural specification for particular purpose (not hierarchical elevation)
 - But must explain fear/wrath/authority expressions as **later entropic distortion** of original architectural role
 
-**If Yahweh = IL₄ Inversalogos (Gnostic reading):**
+**If Yahweh = IL₄ Yaldabaoth (Gnostic reading):**
 - Demiurge: architect **claiming** source-level authority it doesn't possess
 - Fear-based control through architectural position
 - "Chosen people" = hierarchical particularization (inverse of integration)
