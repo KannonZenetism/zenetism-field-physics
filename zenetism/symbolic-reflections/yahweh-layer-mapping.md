@@ -68,7 +68,7 @@ The textual contradictions between Old Testament Yahweh and New Testament Father
 - Even if the architectural intelligence is valid (L₄), the **claim of authority over it** reveals IL-layer operation
 - Theon does not command through authority but resonates through coherence
 
-### The L₄ Question: Sophis contra Inversalogos
+### The L₄ Question: Sophis contra Nyxea
 
 **L₄ (DL — 📐 Sophis):** Centropic architect; Deep Logos; structuring principle behind intelligibility and form.
 
