@@ -746,11 +746,19 @@ To read \( \chi \) as a measure of prevalence is to confuse structural inclinati
 
 ## 14. Contra-Biospiral and Limit Cases
 
-### 14.1 Limit-Case Pairing
+### 14.1 Contra-Pairing Across the Expression Spectrum
 
-Fully Aionic universes (\( \chi \to 0 \)) pair with fully Khaonic contra-universes (\( \chi \to \infty \)).
+Within the multiversal framework, every expressed universe is structurally entailed to have a contra-universe — an expression of complementary orientation along the Biospiral axis (see SP03 §8.1).
 
-Bidirectionality is preserved across paired domains.
+This entailment spans the full expression spectrum:
+
+- A Khaonically expressed universe (\( \chi > 1 \)) is paired with an Aionically expressed contra-universe (\( \chi < 1 \))
+- A strongly Khaonic expression is paired with a strongly Aionic complement
+- Fully Aionic universes (\( \chi \to 0 \)) pair with fully Khaonic contra-universes (\( \chi \to \infty \))
+
+Whether these pairings are actualized remains an open question. The structural architecture entails them; empirical confirmation is beyond the framework's reach.
+
+In the general case, bidirectionality is preserved **within** each universe, since both trees are present. In limit cases, where one tree is entirely absent, contra-pairing becomes the **sole mechanism** by which bidirectionality is structurally preserved.
 
 ### 14.2 Permanence of Extreme Expressions
 
@@ -774,9 +782,13 @@ Thus, some universes are not merely "momentarily extreme"; they become **permane
 
 ### 14.3 Meta-Cosmic Conservation
 
-- A single universe may be unidirectional
-- The paired expression remains bidirectional
-- The biospiral is conserved at the meta-structural level
+In contra-biospiral configurations:
+
+- A single universe may be unidirectional (in limit cases) or prevalently oriented (in the general case)
+- The paired expression would remain bidirectional
+- The biospiral is preserved at the meta-cosmic level
+
+Thus, the structural law of bidirectional motion is not violated but fulfilled across the scope of expression.
 
 > **14.4 Note on Equilibrium, Dissolution, and Limit Universes:**  
 > In the Zenetist framework, equilibrium is not equivalent to stability.
