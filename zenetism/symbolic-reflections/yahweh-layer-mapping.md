@@ -37,7 +37,7 @@ The textual contradictions between Old Testament Yahweh and New Testament Father
 **Why Yahweh ≠ L₀:**
 - L₀ holds potential; Yahweh **acts from polarity** ("man of war")
 - L₀ is pre-oriented; Yahweh displays oriented behavior
-- Isaiah 45:7 might **speak from L₀ perspective** ("I create light and darkness") but the entity's actions reveal lower-layer operation
+- Isaiah 45:7 might **speak from L₀ perspective** ("I create light and darkness") but the entity's actions reveal subsequent-layer operation
 
 ### Yahweh Cannot Be L₅ (Theon - Pure Centropic Source)
 
