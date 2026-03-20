@@ -100,7 +100,7 @@ may project multiple Superficial expressions
 across divergent worlds.  
 
 The Deep Soul functions as a harmonic filter,  
-assigning trajectories across universes  
+assigning trajectories across expression contexts  
 where time flows at different rates.  
 
 ---
