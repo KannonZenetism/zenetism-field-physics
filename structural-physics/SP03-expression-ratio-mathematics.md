@@ -426,30 +426,38 @@ Therefore, the set of expressed universes is characterized not by concentration 
 
 ## 8. The Contra-Biospiral
 
-### 8.1 Bidirectionality Across Paired Universes
+### 8.1 Contra-Pairing as General Structural Entailment
+
+Within the multiversal framework, every expressed universe is structurally entailed to have a contra-universe — an expression of complementary orientation along the Biospiral axis.
+
+A Khaonically expressed universe (\( \chi > 1 \)) is paired with an Aionically expressed contra-universe (\( \chi < 1 \)). A strongly Khaonic expression is paired with a strongly Aionic complement. This is the general principle: contra-pairing spans the full expression spectrum, not only its extremes.
+
+Whether these pairings are actualized remains an open question. The structural architecture entails them; empirical confirmation is beyond the framework's reach.
+
+### 8.2 The Special Case of Limit-Case Pairing
 
 In most universal expressions, bidirectionality occurs **within** a single universe — both C and E are present, with one prevalent and one recessive.
 
-However, in fully Aionic or fully Khaonic limit cases, bidirectionality is structurally entailed **across paired contra-universes**:
+In fully Aionic or fully Khaonic limit cases, however, one tree is entirely absent. Bidirectionality within a single universe is therefore impossible. In these cases, contra-pairing becomes the **sole mechanism** by which bidirectionality is structurally preserved:
 
 - A fully Aionic universe (C only) pairs with a fully Khaonic contra-universe (E only)
-- Together they form a complete biospiral
+- Together they would form a complete biospiral
 
-### 8.2 Definition
+### 8.3 Definition
 
 **Contra-Biospiral:**
 
-The total biospiral formed across a universe and its contra-universe, where centropy and entropy are distributed across distinct cosmic domains rather than co-present within a single domain.
+The total biospiral formed across a universe and its contra-universe, where centropy and entropy are distributed across distinct cosmic domains rather than co-present within a single domain. The Contra-Biospiral describes the general structural entailment of complementary pairing, with special significance in limit cases where it is the only means of preserving bidirectional motion.
 
-### 8.3 Structural Preservation
+### 8.4 Structural Preservation
 
 In contra-biospiral configurations:
 
-- A single universe may be unidirectional
+- A single universe may be unidirectional (in limit cases) or prevalently oriented (in the general case)
 - The paired expression would remain bidirectional
 - The biospiral is preserved at the meta-cosmic level
 
-Thus, the structural law of bidirectional motion is not violated but fulfilled at a higher level of organization.
+Thus, the structural law of bidirectional motion is not violated but fulfilled across the scope of expression.
 
 ---
 
