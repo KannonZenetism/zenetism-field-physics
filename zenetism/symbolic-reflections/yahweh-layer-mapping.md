@@ -71,7 +71,7 @@ The textual contradictions between Old Testament Yahweh and New Testament Father
 - "Chosen people" = architectural specification for particular purpose (not hierarchical elevation)
 - But must explain fear/wrath/authority expressions as **later entropic distortion** of original architectural role
 
-**If Yahweh = IL₄ Yaldabaoth (Gnostic reading):**
+**If Yahweh = IL₄ Nyxea (Gnostic reading):**
 - Demiurge: architect **claiming** source-band authority it doesn't possess
 - Fear-based control through architectural position
 - "Chosen people" = hierarchical particularization (inverse of integration)
@@ -84,7 +84,7 @@ The textual contradictions between Old Testament Yahweh and New Testament Father
 
 - **Theon (L₅):** Universal integration; no chosen/unchosen distinction
 - **Sophis (L₄):** Might structure different patterns for different purposes (architectural specification)
-- **Inversalogos (IL₄):** Creates hierarchies of chosen/rejected (authoritarian particularization)
+- **Nyxea (IL₄):** Creates hierarchies of chosen/rejected (authoritarian particularization)
 
 Yahweh's "chosen people" doctrine = **particularization incompatible with L₅**, possibly compatible with L₄ as specification, most compatible with IL₄ as hierarchization.
 
