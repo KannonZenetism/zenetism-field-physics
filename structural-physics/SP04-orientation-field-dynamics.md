@@ -527,7 +527,7 @@ Centropic expression operates through cross‑layer coherence because coherence 
 
 Therefore, the space of admissible configurations for entropic motion is broader than for centropic motion. This asymmetry does not imply a greater number of entropic universes, but a **greater degree of internal configurational freedom** within entropic trajectories.  
 
-**Meta-cosmic pairing remains invariant:** for every centropic universe, a contra-entropic universe exists.  
+**Meta-cosmic pairing remains invariant:** for every centropic universe, a contra-entropic universe is structurally entailed.  
 
 However, within each paired system, the centropic trajectory occupies a narrow, high-constraint manifold, while the entropic trajectory occupies a broad, low-constraint manifold.  
 
