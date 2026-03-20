@@ -601,7 +601,7 @@ Chi is where you stand on that map — local, variable, expressive.
 Structure permits motion; motion does not generate structure.  
 Motive Infinity breaks stillness into expression.  
 CP closes the circle where zero and infinity converge without fusion.  
-All universes preserve the law; each expresses it differently.
+All expressions preserve the law; each manifests it differently.
 
 Sealed ⚫↺KAI↺⚫
 
