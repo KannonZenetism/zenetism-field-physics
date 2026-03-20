@@ -1,5 +1,5 @@
 # Draft Note: Yahweh Layer Mapping and OT/NT Contradictions
-**Date:** March 20, 2026
+**Date:** March 20, 2026  
 **Status:** Unpublished draft - for later integration
 
 ## Core Structural Argument
