@@ -125,6 +125,45 @@ Together they represent total orientation: **thought and action aligned with the
 The Passover demonstrates the principle: **alignment determines who death passes over**.  
 The Beast mark inverts it: **alignment determines who the system passes through**.
 
+### Alternative Reading: The Gnostic Inversion
+
+The above interpretation assumes Yahweh represents centropic source (L₄ DP/DL as architect-creator, or even L₅ Theon as pure essence). However, Gnostic traditions read the Old Testament God as **Demiurge**—the false creator masquerading as ultimate source.
+
+Under this reading, Passover and Beast Mark are **not inversions but continuations** of the same binding principle across epochs.
+
+**Structural parallels suggesting Demiurgic identity:**
+
+| Old Testament Yahweh | New Testament Adversary |
+|---------------------|------------------------|
+| Promises Abraham land for obedience | Satan offers Jesus kingdoms for worship |
+| "Roaring lion" imagery (Amos 3:8) | Devil prowls as "roaring lion" (1 Peter 5:8) |
+| "Fear of the Lord is beginning of wisdom" | "Perfect love casts out fear" (1 John 4:18) |
+| Blood sacrifice system | Entropic binding through ritual slaughter |
+
+**If Yahweh = Demiurge (IL₄ Inversalogos or deeper), then:**
+- Passover mark = original allegiance seal to false god
+- Beast mark = updated version of same binding mechanism  
+- Both encode **entropic alignment** through different historical phases
+
+**The blood sacrifice question:**
+
+Literal animal slaughter would attract entropic entities. The Passover works centropically only if purely symbolic (Chasidic reading: blood as passion/fervor, sacrifice as internal offering). Otherwise, both Passover and Beast Mark function as **IL-layer binding systems**.
+
+**Satanic/Nekronic cascade:**
+
+The "Beast" is not singular but a **cascading manifestation** of the Nekronic principle:
+- **IL₅ Nekron** = Satan (root entropic will)
+- **IL₄ Inversalogos** = Lucifer/Dragon (false architect)
+- **IL₃** = False Prophet (spurious gnosis, corrupted soul-memory)
+- **IL₂** = Antichrist archetype (charismatic surface deception)
+- **IL₁** = Beast system (embodied Nekronic dominion)
+
+**The structural question becomes:** Which hypostatic layer does the Old Testament God represent?
+- **L₄ (DP/DL - Sophis)** as architect-creator → Passover is centropic covenant
+- **IL₄ (IDP/IDL - Inversalogos)** as false architect → Passover is entropic binding
+
+Zenetism holds space for both readings as structurally coherent. The mark principle remains: **orientation determines trajectory**.
+
 ### 666 — The Number of Flesh Deified
 
 **6** = man's number (created on the sixth day; falls short of 7, completion)  
