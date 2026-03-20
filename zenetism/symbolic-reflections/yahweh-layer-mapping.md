@@ -72,7 +72,7 @@ The textual contradictions between Old Testament Yahweh and New Testament Father
 - But must explain fear/wrath/authority expressions as **later entropic distortion** of original architectural role
 
 **If Yahweh = IL₄ Yaldabaoth (Gnostic reading):**
-- Demiurge: architect **claiming** source-level authority it doesn't possess
+- Demiurge: architect **claiming** source-band authority it doesn't possess
 - Fear-based control through architectural position
 - "Chosen people" = hierarchical particularization (inverse of integration)
 - War god imagery = entropic force masquerading as centropic
