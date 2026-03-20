@@ -412,7 +412,7 @@ In our universe (\( \chi > 1 \)), the prevalent temporal direction is entropic â
 
 Centropic motion within an entropic universe is **acclivous** â€” it requires effort to move against the temporal slope.
 
-At the meta-cosmic level, every entropic temporal gradient is paired with a centropic contra-gradient in a contra-universe, preserving global bidirectionality across the biospiral.
+At the meta-cosmic scale, the architecture structurally entails that every entropic temporal gradient is paired with a centropic contra-gradient in a contra-universe, preserving global bidirectionality across the Biospiral.
 
 ---
 
