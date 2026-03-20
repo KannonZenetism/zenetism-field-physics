@@ -89,7 +89,7 @@ The dependency chain is:
 
 ### 2.1 Definition
 
-SP02 §3.2 establishes the Expression Spectrum: every universe within the Tumbling Multiverse expresses a particular ratio of Aionic (centropic) to Khaonic (entropic) prevalence. Our universe is Khaonically expressed — entropy-forward, centropy recessive.
+SP02 §3.2 establishes the Expression Spectrum: every possible expression within the Tumbling Multiverse reflects a particular ratio of Aionic (centropic) to Khaonic (entropic) prevalence. Our universe is Khaonically expressed — entropy-forward, centropy recessive.
 
 **Definition (Khaonic Expression Ratio):**
 
