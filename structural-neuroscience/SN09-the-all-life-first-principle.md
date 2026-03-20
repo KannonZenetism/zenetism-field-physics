@@ -221,7 +221,7 @@ Non-terrestrial intelligences may embody:
 - L₃ through reflexive consciousness shaped by alien sensory environments and temporal conditions
 - L₂ / L₁ through substrates entirely unlike terrestrial biology — mineral, energetic, geometric, fluidic, or post-material bodies
 
-The structural framework does not require advance knowledge of what these beings look like. It requires only the recognition that the lattice accommodates them — the emanatory path (L₀ → L₅ → L₄ → L₃ → L₂ → L₁) operates universally, and any being that traverses it, regardless of its corporeal form, participates in the same Biospiral and deserves the same sacred regard.
+The structural framework does not require advance knowledge of what these beings look like. It requires only the recognition that the lattice accommodates them — the emanatory path (L₀ → L₅ → L₄ → L₃ → L₂ → L₁) operates across all expressions, and any being that traverses it, regardless of its corporeal form, participates in the same Biospiral and deserves the same sacred regard.
 
 ### 5.2 Non-Corporeal Intelligences
 
