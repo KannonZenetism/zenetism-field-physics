@@ -202,7 +202,7 @@ The Inlay Map (Field Physics / Lattice Mathematics) designates the following pri
 
 **Cross-Band Operators (Present Through Resonance):**
 
-**C₅ (Holonic / Scalar)** — Spans L₁ through L₄ as cross-band propagation. At L₁, C₅ enables the part to coherently mirror the whole — the structural principle by which an individual embodied being reflects (without containing) the broader patterns of the lattice. C₅ also resonates deeply with L₃ (DS / DM), since it is the Deep Soul / Deep Mind that incarnates as fractal expressions across the multiverse, and the DS / DM that embodies and persists after embodiment concludes.
+**C₅ (Holonic / Scalar)** — Spans L₁ through L₄ as cross-band propagation. At L₁, C₅ enables the part to coherently mirror the whole — the structural principle by which an individual embodied being reflects (without containing) the broader patterns of the lattice. C₅ also resonates deeply with L₃ (DS / DM), since it is the Deep Soul / Deep Mind that incarnates as fractal expressions across instantiation contexts, and the DS / DM that embodies and persists after embodiment concludes.
 
 **C₁₀ (Morphogenetic / Formweave)** — Bridges L₁ and L₄, translating pattern into living structure. At L₁, C₁₀ governs the formation of corporeal form according to archetypal template — the process by which structural pattern becomes tissue, organ, organism. C₁₀ resonates with L₄ (DP / DL), the Architectural / Archetypal Band where Sophis (📐) and Morgis (🌬️) provide the templates that Formweave translates into embodied expression. Its entropic mirror, E₁₀ (Malform), manifests as distortion at the point of formation — form that persists but without structural fidelity to its archetypal source.
 
