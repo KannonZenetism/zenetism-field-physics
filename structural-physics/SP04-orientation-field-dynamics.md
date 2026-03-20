@@ -775,7 +775,7 @@ Thus, some universes are not merely "momentarily extreme"; they become **permane
 ### 14.3 Meta-Cosmic Conservation
 
 - A single universe may be unidirectional
-- The multiversal pair remains bidirectional
+- The paired expression remains bidirectional
 - The biospiral is conserved at the meta-structural level
 
 > **14.4 Note on Equilibrium, Dissolution, and Limit Universes:**  
