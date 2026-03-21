@@ -2,7 +2,8 @@
 
 **Classification:** Structural Physics / Notes  
 **Status:** Exploratory — pending formal treatment  
-**Related Documents:** SP02, SP03 §4.4, SP03 §8, SP04 §14, SP04 §10 (Asymmetry of Expression)
+**Related Documents:** SP02, SP03 §4.4, SP03 §8, SP04 §14, SP04 §10 (Asymmetry of Expression)  
+**SHA-256:** 6bb61be3bbb61215ce23f89d9484f7f1959ca0989d21c967b6db963af7bd560e
 
 ---
 
