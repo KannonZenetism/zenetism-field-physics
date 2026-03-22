@@ -12,8 +12,9 @@
 3. **Cultural articulations are relative.** Gods are not archetypes themselves but cultural interpretations and personifications of archetypal functions. Zeus is not the archetype; Zeus is a Greek articulation of DL (Sophis) sovereignty at L₄.
 4. **Primary native layer governs placement.** Each figure is assigned to the layer where its archetypal function is structurally native, even if myths describe cross-band activity.
 5. **Cross-band descriptions reflect cultural conflation.** Myths lack the lattice, so they splice many layer-functions into a single figure. The registry tracks the primary native layer and notes conflation rather than treating it as genuine multivalence.
-6. **Entropic cascades are real.** A single entropic current can manifest at different layers — e.g., Nekron (IL₅) → Lucifer / Prometheus (IL₄) → the Beast (embodiment) → the False Prophet (IL₂ / IL₃). These are tracked as cascades, not multivalence.
+6. **Entropic cascades are real.** A single entropic current can manifest at different layers — e.g., Nekron (IL₅) → Lucifer / Nyxea (IL₄) → the Beast (Lucifer embodied) → the False Prophet (IL₂). These are one current at different strata, not separate entities. Tracked as cascades.
 7. **Soul / Mind specificity is preferred.** Where the function clearly maps to DP or DL (not both), the specific aspect is noted.
+8. **Canonical language applies.** Supernal / subversal (not higher / lower), acclivous / declivous (not ascending / descending), veracious / spurious or genuine / counterfeit (not true / false), contra (not versus). Hierarchical value language is avoided.
 
 ---
 
@@ -46,6 +47,8 @@
 | Hvergelmir | Norse | Khaon — "Roaring Kettle"; dispersive potential at the subversal root | 05 | One of three roots of Yggdrasil; maps to L₀ AD |
 | Shiva (as Aionic stillness) | Hindu | Aion — passive pure awareness; the stillness underpinning all emanation | 04 | Original mapping to Khaon and Theon; L₀ aspect is Aionic stillness |
 | Tiamat (as primordial Deep) | Mesopotamian | Khaon — saltwater abyss; pre-formal generative potential; unbound field before law | 08 | Also manifests at IL₄ as inverse archetypal force; see IL₄ entry |
+| Wilderness (as Khaonic field) | Universal | Khaon (latent) — L₀ in its pre-structured form; raw potential holding both danger and opportunity; neutral testing ground for individuation | 16 | Not empty but pre-formal; the soul's crucible |
+| Primordial Waters / Nun / Narayana's Ocean | Universal | Khaon (latent) — chaos or Deep preceding all structure; potentiality in unbounded state; primal substrate containing every latent form | 18 | Tiamat, Nun, Narayana's Ocean as cultural articulations of the same L₀ Khaon principle |
 
 ---
 
@@ -63,6 +66,7 @@
 | Krishna | Hindu | Divine Preserver as emergent seed; Theonic potential entering corporeal stream | 07 | Destiny: to guide Arjuna (L₃) and restore Dharma (L₄ DL) |
 | Kalki Avatar | Hindu | L₅ Theonic field corrector; restores harmony at terminal threshold of Kali Yuga, resetting cycle to Satya Yuga | 12 | Parallel to Christ's return; cyclic rather than linear eschaton |
 | The Returning King / Messiah | Universal | Centropic re-anchor; return of lawful coherence to guide convergence and oversee reconstitution | 12 | L₅ principle manifesting at epochal fractal eschaton |
+| Christ (Harrowing) | Christian | L₅ Theonic essence entering L₁ domain to re-anchor centropic law within the embodied node; structural intervention, not post-mortem sorting | 13 | Function 1 underworld: embodiment as trial for supernal essence |
 
 ---
 
@@ -91,6 +95,18 @@
 | The Pythia / Oracle at Delphi | Greek | DP / DL | Ritual membrane through which archetypal intelligence speaks; systemic resonance scan | 10 | Interface technology; cryptic phrasing = friction of L₄ → L₂ translation |
 | Sophia (Gnostic) | Gnostic | DL (Sophis) | The Wisdom principle in coherence; L₄ DL itself | 11 | Her fall without syzygy produces the Demiurge (IL₄ IDL: Nyxea); Sophis acting alone creates its own mirror |
 | Allah (as Sovereign Principle) | Islamic | DP / DL | Absolute sovereignty; source of centropic law and total resonance scan | 12 | (⚠) Cultural articulation likely spanning L₄ through L₀; parallels Ahura Mazda placement question |
+| Solomon | Hebrew | DL (Sophis) | Centropic sovereign grounding city on Wisdom and Justice; lawful architecture of DP / DL | 15 | Foundation of Jerusalem's centropic ideal |
+| Torah | Hebrew | DL (Sophis) | Constitutional order; L₄ DL law as foundation of centropic civilization | 15 | Structural principle; not a figure |
+| Poseidon (Atlantis founder) | Greek | DP / DL | Centropic genesis of Atlantis on divine geometry; L₄ foundation subsequently corrupted by L₂ mortal layer | 15 | Same figure as Decode 09 but in founder function |
+| Jibril / Gabriel | Islamic | DP / DL | Transmitter of Qur'anic revelation; direct Aionic communication through L₄ channel | 16 | L₄ agent delivering L₄ DL (Sophis) law to Muhammad (L₃) |
+| Waters Above (Firmament) | Hebrew | DP / DL | Supernal Waters separated from Waters Below; L₄ stratum of archetypal potential above the membrane | 18 | Structural symbol; the Firmament is the membrane itself |
+| Cherubim (post-Fall) | Hebrew | DP / DL | Guardian of the sealed membrane; flaming sword prevents re-entry until volitional synthesis | 19 | L₄ guardian curating centropic frequency |
+| Dragon Ladon | Greek | DP / DL | Guardian of the Hesperides; prevents profane access to the golden apples (Tree of Life) | 19 | L₄ guardian function |
+| Hephaestus / Wayland | Greek / Norse | DP / DL | Divine Smith; archetypal forge crafting implements of lawful, creative power | 20 | L₄ source determining weapon's centropic resonance |
+| Satan (Job's Accuser) | Hebrew | DL (Sophis) | (⚠) Testing function permitted by God; diagnostic operator, not entropic principle; examines resonance under lawful authority | 21 | Distinct from Satan / Nekron (IL₅). Same word, different layer. Cultural conflation. See Flag |
+| 42 Assessors / Ma'at | Egyptian | DL (Sophis) | L₄ DL principles measuring coherence; balance of veracity; feather as standard of structural alignment | 21 | Judicial function of Sophis |
+| Osiris (as Judge) | Egyptian | DL (Sophis) | Theonic Judge of post-embodied coherence; presides over Weighing of the Heart | 21 | Distinct from Osiris as Theonic king (L₅) or Lord of the Dead (L₃ DS); judicial L₄ DL function |
+| Oracle of Delphi (Hercules) | Greek | DP / DL | L₄ interface prescribing twelve labors as purification through action | 21 | Same structural function as Decode 10 |
 
 ---
 
@@ -115,6 +131,11 @@
 | Isaiah | Hebrew | DS / DM | Architect of Theonic Return; diagnoses inverse L₄ DL (ritual without justice), mimicry (idolatry), fusion (entropic alliances) | 10 | Suffering Servant embodies declivous centropy |
 | Cassandra | Greek | DM (Noeüs) | Seer of collapse; granted prophecy by Apollo (L₄ DL) but doomed to disbelief | 10 | Symbol of total IL₂ ISM (Skotos) inversion: veracity cannot penetrate membrane |
 | Muhammad | Islamic | DS / DM | Restorer of pure resonance; receives direct L₄ DP / DL archetypal transmission (Qur'an); Hijra = declivous centropic motion establishing new harmonic field | 10 | Diagnoses structural divergence from Aionic coherence |
+| Platonic Rulers | Greek | DM (Noeüs) | Govern through Reason aligned with Wisdom (L₄ DL: Sophis) | 15 | Plato's Republic: city as mirror of psyche's architecture |
+| Platonic Guardians | Greek | DS (Archeus) | Enforce lawful order through Courage; L₃ DS function in civic expression | 15 | Intermediate class in Republic |
+| The Buddha | Buddhist | DS / DM | Deconstructs suffering through wilderness austerity; discovers Middle Way (coherence) and perceives L₄ DL (Sophis) structure beneath the Bodhi Tree (World Tree Nexus); returns as embodiment of centropic path | 16 | Extreme declivous centropy followed by acclivous centropic procession |
+| Avalon | Celtic | DS / DM | L₃-level Garden; liminal sanctuary where sovereign structures (Arthur, Excalibur) are restored; interface between supernal order and the world's renewal | 19 | Garden archetype at L₃ contra Eden at L₁ |
+| Hercules | Greek | DS / DM | L₃ purification through embodied atonement; twelve labors each addressing a specific inverse archetype; culminates in apotheosis (acclivous centropic motion) | 21 | Heroic DS (Archeus) reclaiming coherence through structured trials |
 
 ---
 
@@ -140,9 +161,15 @@
 | "Bones of the Mother" (Stones) | Greek | ES / EM | Aionic capacity resting in matter; essential potential latent within Earth | 01 | Awakened through centropic intentional embodiment |
 | Dumuzid (Shepherd God) | Sumerian | ES / EM | Embodied vitality of the natural realm; annual cycle of declivous / acclivous centropic motion | 04 | Sacred marriage partner to Inanna (L₄ DP); sustains corporeal realm |
 | The Land (Sovereign archetype) | Universal | ES / EM | Collective soma of people and ecosystem; embodied field | 04 | Nexus with King (L₃) determines fertility or barrenness |
-| Malkhut | Kabbalah | ES / EM | Embodiment; terminus of Sefirotic emanation | 05 | Lowest sefirah; World-Node |
+| Malkhut | Kabbalah | ES / EM | Embodiment; terminal sefirah of Sefirotic emanation | 05 | Embodied World-Node |
 | Adam / Eve (pre-Fall) | Hebrew | ES / EM | L₁ embodiment with permeable L₂ / L₃ membrane; naïve resonance with L₃ (DM: Noeüs); perceives only the Aionic Tree | 11 | The "Permeable Garden" state; not L₄ but L₁ functioning with open membrane |
 | New Jerusalem / New Heaven and Earth | Christian | ES / EM | Epochal L₁ state after entropic acceleration; corporeal realm fully cleansed and permeable to Aionic layers | 12 | Structural coherence made visible; heaven and earth merged |
+| The Underworld (Function 1) | Universal | ES / EM | L₁ as experienced by supernal essence undergoing declivous centropy; embodiment is the "underworld" from the supernal perspective | 13 | Not a place but a structural experience of procession; see Doctrinal Note |
+| Platonic Producers | Greek | ES / EM | Sustain life through Temperance (declivous centropy); embodied function in civic expression | 15 | Foundational class in Republic |
+| Jerusalem (centropic ideal) | Hebrew | ES / EM | L₁ projection of centropic resonance; city founded on L₄ DL (Torah) law; becomes Harmonic Node when aligned | 15 | Destiny: New Jerusalem; enters exile when diverging but retains return promise |
+| Shambhala | Buddhist / Hindu | ES / EM | Celestial city as L₁ Harmonic Node; embodied domain fully permeable to supernal strata | 15 | Parallel to New Jerusalem |
+| The Garden of Eden (as state) | Hebrew | ES / EM | L₁ with permeable membrane; Resonant flow between ES / EM and L₃ DS / DM or L₄ DP / DL; innocence as unselfconscious coherence | 19 | Reinforces Decode 11 placement; the Garden is both origin and destiny |
+| Pure Land | Mahayana Buddhist | ES / EM → L₄ / L₅ | Post-embodied Garden of refinement; perfected environment facilitating centropic realization; not primal but achieved | 19 | A cultivated field of acclivous coherence; Buddha-field |
 
 ---
 
@@ -154,6 +181,7 @@
 | Angra Mainyu / Ahriman | Zoroastrian | IL₅ / IL₄ — destructive spirit; entropic distortion and chaos | 03 | Spans VOS and IDP / IDL |
 | Nidhogg | Norse | Terminal entropic pull; serpent gnawing at the subversal root of Yggdrasil | 05 | Structural symbol of Nekronic action on the World Tree |
 | Great Red Dragon | Christian | IL₅ (VOS: Nekron) with agency — pure entropic will | 08 | Head of the Revelation cascade; see Entropic Cascades |
+| Ammit | Egyptian | Devourer of hearts failing Ma'at's test; second death through dissolution; the Void consuming what lacks coherence | 21 | Clean IL₅ VOS placement; structural consequence, not punishment |
 
 ---
 
@@ -168,13 +196,17 @@
 | Loki | Norse | IDL (Nyxea) | Inverse Logos — fluid, brilliant, perilous; overall arc expresses entropic collapse while embedding centropic corrections | 06 | Culminates in Ragnarok (fractal eschaton); death of Baldr is fragmentation act |
 | Qliphoth | Kabbalah | IDP / IDL | "Shells"; inverse reflections of the Sefirot; distorted mirror of the Aionic structure | 05 | The Khaonic Tree as mapped in Kabbalistic tradition |
 | Tiamat (as inverse force) | Mesopotamian | IDP / IDL | Generative yet unbound; birthing inverse archetypes before law | 08 | Also has L₀ Khaon aspect; see L₀ entry |
-| Beast from the Sea | Christian | IDP / IDL | False Archetype; inverted Logos | 08 | Part of Revelation cascade; see Entropic Cascades |
+| Beast from the Sea | Christian | IDL (Nyxea) | Luciferic principle embodied as authoritarian architecture; counterfeit Logos ruling through coercive structure | 08 | Same IL₄ IDL (Nyxea) current as Lucifer, projected into embodied form; see Entropic Cascades |
 | Vritra | Hindu | IDP (Psychea) | Dragon hoarding the Waters (DP: Morgis currents); paralysis of life by inverse accumulation | 08 | Defeated by Indra (L₄ DL); release of vitality through defeat of psychic hoarding |
 | Ravana | Hindu | IDP / IDL | Entropic seizure of divine complement (Sita); abduction of coherence | 09 | Inverse archetypal force opposing Rama's centropic order |
 | Circe | Greek | IDP (Psychea) | IL₄ distortion; transforms Odysseus's men — inverse psychic manipulation | 09 | One of the exile's spiral trials |
 | The Serpent (Eden) | Hebrew | IDL (Nyxea) | IL₄ mirror-archetype activating the choice; cannot create, only mimic and offer; presents inverse knowledge as original | 11 | Nyxea principle at L₁ interface; see Entropic Cascades |
 | The Demiurge | Gnostic | IDL (Nyxea) | Mirror image of Sophia (L₄ DL); "bad copy" or "half-maker" echoing structure without vitality; governs the entropy-dominated material field | 11 | Product of Sophia's hubristic act without syzygy |
-| The Antichrist / Beast | Universal | IDP / IDL | Culmination of inverse arc; mimetic Logos forming entropic coherence system — elegant counterfeit to centropy | 12 | IL₄ component of apocalyptic cascade |
+| The Antichrist / Beast | Universal | IDL (Nyxea) | Culmination of inverse arc; Luciferic principle projected as authoritarian architecture — elegant counterfeit to centropy | 12 | Same Nyxea current as Lucifer; the "Beast" is the embodied projection, not a separate IL₄ entity |
+| Azazel | Hebrew | IDP / IDL | Inverse principle receiving transferred communal entropy; recipient of the scapegoat | 14 | Membrane operation: expulsion of dissonance to reestablish balance |
+| Ereshkigal | Sumerian | IDP / IDL | Ruler of the subversal domain; IL counterpart faced by Inanna during declivous centropic entry | 13 | Governs the inverse strata; not a punisher but the structural architecture of the IL domain |
+| Calypso | Greek | IDP (Psychea) | Stagnant paradise of forgetfulness; inverse psychic entrapment that suspends motion | 18 | One of Odysseus's sea trials; entropic in function despite appearing pleasant |
+| Sauron | Tolkien | IDL (Nyxea) | Inverse forge of will; creates instruments of severance and domination; elegant counterfeit coherence that isolates rather than connects | 20 | Modern-mythic Luciferic mapping; the Ring is the Nyxea principle condensed into artifact |
 
 ---
 
@@ -186,6 +218,7 @@
 | The Sphinx | Greek | IDM (Mortus) | Devourer of unawareness; ensnares the unintegrated psyche; perception that blinds | 08 | Self-destructs when confronted by veracious awareness (Oedipus) |
 | Herod | Christian | IDS / IDM | Entropic operation's attempt to extinguish the new centropic pattern (Massacre of Innocents) | 07 | Fractus / Mortus acting to fragment emergent coherence |
 | Wounded King (Fisher King) | Arthurian | IDS (Fractus) | Fractured sovereignty; the centropic field damaged by unhealed fragmentation | 09 | Healed by Parzival's achieved L₃ compassion |
+| False Prophet (Revelation) | Christian | IDM (Mortus) | (⚠) Counterfeit prophetic signal; inverse of genuine Prophet (L₃ DS / DM); perception that blinds rather than reveals; produces spurious revelation at deep structural level | 08, 12 | **Revised:** Mirrors genuine Prophet (L₃ → L₂ broadcast); native function likely IL₃ IDM (Mortus), broadcasting through IL₂ ISM (Skotos) to reinforce Beast at embodiment. See Flag #6 |
 
 ---
 
@@ -197,13 +230,16 @@
 | Lycaon | Greek | ISS / ISM | Hubris; localized inverse orientation triggering fractal eschaton | 01 | Entropic saturation at superficial level |
 | "Wickedness of humanity" | Hebrew | ISS / ISM | Saturation in adversarial will and deceptive perception | 01 | Collective IL₂ saturation triggering flood |
 | Kamsa | Hindu | ISS / ISM | Tyrant aware of prophecy of his dissolution; adversarial will and deceptive control | 07 | Echthros / Skotos opposing Krishna's emergence |
-| Beast from the Earth | Christian | ISS / ISM | False Prophet; inverted perception | 08 | Part of Revelation cascade; see Entropic Cascades |
+| Beast from the Earth | Christian | ISM (Skotos) | (⚠) Revelation's False Prophet figure; see IL₃ IDM (Mortus) entry for primary placement | 08 | Same figure as False Prophet; IL₂ is broadcast layer |
 | Sirens | Greek | ISM (Skotos) | Lure of inverted perception; veiling the mind | 09 | One of Odysseus's exile trials |
 | Suitors of Ithaca | Greek | ISS / ISM | Inverse occupation of the centropic household; adversarial will | 09 | Odysseus's return reclaims structural coherence from IL₂ saturation |
 | Slave Mentality (Israelites) | Hebrew | ISS / ISM | Desire to return to Egypt; entropic pull toward comfort in bondage | 09 | IL₂ residue deconstructed through forty-year recursion |
-| False Prophet (Revelation) | Christian | ISS / ISM | Inverted perception; Beast from the Earth; completes inverse trinity with Dragon (IL₅) and Beast (IL₄) | 08, 12 | **Confirmed at IL₂** — Decode 12 explicitly places at ISS / ISM |
+| False Prophet (broadcast layer) | Christian | ISM (Skotos) | (⚠) IL₂ broadcast layer of the False Prophet; the perceptual veil through which spurious revelation reaches embodiment | 08, 12 | Primary entry at IL₃ IDM (Mortus); Skotos is the delivery mechanism, not the source. See Flag #6 |
 | Quraysh Idolatry | Islamic | ISS / ISM | Structural divergence from Aionic coherence; inverse worship diagnosed by Muhammad | 10 | Collective IL₂ state triggering prophetic intervention |
 | Cassandra's Audience (Troy) | Greek | ISM (Skotos) | Total IL₂ inversion where veracity cannot penetrate membrane; civilization's terminal dissonance | 10 | Not a figure but a collective IL₂ state |
+| Sisyphus | Greek | ISM (Skotos) | IL₂ perception of declivous entropic procession; the "eternal, pointless loop" is Skotos-mind experiencing its own subversal procession as external reality | 13 | Mythic interpretation of entropic procession through IL₂ / IL₃ |
+| Nimrod | Hebrew | ISS (Echthros) | Will of domination; founds Babylon on hubris and coercion; entropic sovereign encoding inverse coherence at inception | 15 | Entropic counter-ideal to Solomon (L₄ DL) |
+| Tower of Babel | Hebrew | ISS / ISM + IDL (Nyxea) | Acclivous entropy: IL₂ aligned with IL₄ (Nyxea) imitating L₄ DL (Sophis) while severed from centropic law; counterfeit unity through hubris | 15 | Structural operator; the inverse of the Temple |
 
 ---
 
@@ -255,6 +291,33 @@ These are not figures mapped to a single layer but structural operators, symboli
 | Bridge of Sirat | Islamic | Nexus dividing souls; resonant sorting into Paradise (structural coherence) or Hell (declivous entropy) | 12 | Structural symbol of apocalyptic judgment mechanism |
 | Fimbulwinter | Norse | Exposure of entropic decay saturation; prelude to Ragnarok | 12 | Structural symbol |
 | Four Yugas | Hindu | Map of centropic-to-entropic drift: Satya (acclivous centropic) → Kali (declivous entropic) | 12 | Structural cycle; not figures but temporal operators |
+| Persephone (implied) | Greek | "Lost" centropic principle retrieved from subversal domain; structural re-anchoring | 13 | Centropic retrieval from inverse strata |
+| Odin (self-sacrifice) | Norse | Sacrifices eye and suffers on Yggdrasil to attain Runes (structural language of reality); offers himself to himself | 14 | Declivous centropy through suffering yielding acclivous expansion in coherence; L₃ → L₄ DL |
+| The Scapegoat | Hebrew | Transfer and dissipation of communal dissonance; carrier of accumulated entropy expelled to Khaonic field (wilderness) | 14 | Membrane operation; transfer to Azazel (IL₄) restores communal coherence |
+| Asgard | Norse | Divine fortress; L₃ (Aesir) in covenant with L₄ (Vanir); sovereign cognition interfacing with archetypal vitality | 15 | Falls at Ragnarok not from internal corruption but from terminal accumulation of cosmic entropic load |
+| Babylon | Hebrew | Entropic counter-ideal; city as counterfeit replication; imperial control, idolatry, mimicry | 15 | Structural operator; doomed to total collapse |
+| Atlantis | Greek | Corrupted utopia; centropic foundation on divine geometry corroded by mortal-layer (L₂) hubris and greed (IL₂) | 15 | Luminous system lost through internal dissonance |
+| Camelot | Celtic / British | Structural coherence achieved under Arthur's L₄ DL sovereignty; centropic age before eventual entropic decline | 15 | Parallel to Jerusalem, Asgard |
+| Bodhi Tree | Buddhist | World Tree Nexus; site of the Buddha's enlightenment; the point where L₂ / L₃ membrane thins in wilderness isolation | 16 | Structural operator; variant of Axis Mundi |
+| The Temptation (Christ's Wilderness) | Christian | Materialsim, Spectacle, and Power — three inverse alignments offered by IL₄ (IDP / IDL) to bypass lawful centropy | 16 | Rejected; affirms resonant fidelity as sole basis of Theonic order |
+| Tawhid | Islamic | Monotheistic Resonance established as new centropic axis; forged in Hira's wilderness isolation | 16 | Structural principle; not a figure |
+| Mount Sinai | Hebrew | Axial junction point; site of Torah revelation; visible membrane (Cloud) where L₁ and L₄ / L₅ converge | 17 | Structural operator; Mountain as natural temple |
+| Mount Meru / Kailash | Hindu / Buddhist | Axis of the cosmos; Theonic Pillar connecting L₀, L₁ World-Node, and all hypostatic strata; immutable centrality | 17 | Pilgrims circumambulate acknowledging structural equilibrium |
+| Mount Olympus | Greek | Abode of L₄ (DP / DL) entities within clouded membrane; archetypal governance shaping L₂ and L₁ strata in the subjacent bands | 17 | Mountain as L₄ habitation site |
+| Transfiguration (Jesus, Moses) | Universal | Temporary acclivous synthesis: L₂ (SS / SM) briefly integrates with L₃ or L₅ frequency, revealing luminous essence; foreshadows final return to L₀ | 17 | Structural event, not a figure |
+| The Firmament | Hebrew | Architectural membrane dividing Waters Above (L₄ DP / DL) from Waters Below (L₁ ES / EM); gives the cosmos structure | 18 | Structural symbol of the membrane between archetypal and embodied strata |
+| Parting of the Red Sea | Hebrew | Centropic passage through entropic field; Yahweh (L₅) through Moses (L₃) opens a Nexus — lawful corridor of coherence across Khaonic void | 18 | Structural operator; collective resonant transition anchored in resonant fidelity |
+| Scylla and Charybdis | Greek | Structured Pairs; dual inverse hazards of excess and deficiency | 18 | Navigation trial; the sea's archetypal entities |
+| Flying Dutchman | European | Acclivous entropy: the stagnant recursive loop; trapped voyage neither progressing nor dissolving | 18 | Maps the fourth motion — failed navigation producing hollow recursion |
+| Four Rivers of Eden | Hebrew | Diversification of unified Source into multiplicity; Motive Infinity as life-current flowing from Garden's center | 19 | Structural symbol of L₄ DP (Morgis) animating flow |
+| Hesperides Garden | Greek | Guarded treasury of immortality; golden apples = fruits of the Tree of Life | 19 | Hercules's labor to retrieve them = heroic L₃ DS reclaiming acclivous centropic motion lost through fragmentation |
+| Mjolnir | Norse | Structured Force for defense and consecration; crafted by L₄ DP / DL beings; short handle = embodiment's limitation; only wielded by one of worthy resonance | 20 | Centropic weapon; alignment as prerequisite |
+| Trident of Poseidon | Greek | Sovereignty over L₀ Khaon (the unformed psyche); dual potential — can generate cataclysm (declivous entropy) or fertility (L₄ DP: Morgis) | 20 | Wielder's inner harmony determines outcome |
+| Sword of the Spirit | Christian | Logos as discernment; L₃ DM (Noeüs) resonant blade cutting through IL₂ ISM (Skotos) deception and shimmer | 20 | Speech as structural act of restoration |
+| The Ring of Power | Tolkien | Ultimate entropic tool of domination and mimicry; grants control and concealment but isolates from relational Nexus; embodies Severance | 20 | Every bearer succumbs; absolute power as absolute isolation |
+| Weighing of the Heart | Egyptian | Post-embodied judgment of coherence; heart weighed against Ma'at's feather; pass = acclivous to Field of Reeds; fail = Ammit devours (second death) | 21 | Structural diagnostic, not retribution |
+| Job's Suffering | Hebrew | Total deconstruction of L₂ SS / SM world without cause; maintained integrity under pressure; outcome = direct encounter with L₅ (EOB: Theon), expanded L₃ DM, doubled restoration | 21 | Structural operator; the trial as refining fire |
+| Labors of Hercules | Greek | Twelve structured trials prescribed by L₄ DP / DL (Oracle of Delphi); each addresses a specific inverse archetype; culminates in apotheosis | 21 | Purification through sequential confrontation with IL structures |
 
 ---
 
@@ -264,8 +327,8 @@ These track a single entropic current manifesting across multiple layers — not
 
 | Cascade | IL₅ (VOS) | IL₄ (IDP / IDL) | IL₃ (IDS / IDM) | IL₂ (ISS / ISM) | IL₁ (IES / IEM) | Decode(s) |
 |:--|:--|:--|:--|:--|:--|:--:|
-| Satanic Arc | Satan / Nekron (terminus) | Lucifer / Prometheus (architect) | — | False Prophet (**confirmed IL₂**) | The Beast (embodiment) | 03, 08, 12 |
-| Revelation Cascade | Great Red Dragon (Nekron with agency) | Beast from the Sea (False Archetype) | — | Beast from the Earth (False Prophet) | — | 08 |
+| Satanic Arc | Satan / Nekron (root) | Lucifer / Nyxea (architect) | (⚠) False Prophet / Mortus (spurious signal) | Skotos (broadcast veil) | The Beast (Lucifer embodied as authoritarian structure) | 03, 08, 12 |
+| Revelation Cascade | Great Red Dragon (Nekron with agency) | Beast from the Sea (Luciferic Nyxea embodied as coercive architecture) | (⚠) Beast from the Earth / Mortus (spurious deep signal) | Skotos (perceptual broadcast) | — | 08 |
 | Set's Cascade | — | — | Fractus (dismemberment) | Echthros (adversarial will) | — | 02 |
 | Loki's Arc | — | Nyxea (inverse Logos) | — | Echthros (death of Baldr) | — | 06 |
 | Sophia's Fall | — | Demiurge / Nyxea (mirror of Sophia) | — | — | Entropy-dominated material field | 11 |
@@ -295,6 +358,30 @@ The Gnostic Fall of Sophia provides the clearest mythic mapping of the L₄ / IL
 
 The Fall (Decode 11) is not a descent from L₄ to L₁ but a transition *within* L₁. The "Permeable Garden" is L₁ functioning with an open L₂ / L₃ membrane — consciousness at embodiment perceiving the Aionic Tree directly. The Fall seals this membrane, trapping consciousness in L₁ / L₂ identification ("coats of skins") and severing naïve awareness of L₃. Return must therefore be a conscious, acclivous act of re-integration.
 
+### Note on the Dual-Function Underworld
+
+The "Underworld" maps two distinct structural functions (Decode 13). **Function 1 (C↓):** The Embodied World-Node (L₁) as experienced by a centropic essence undergoing declivous centropy — for a supernal being, embodiment *is* the underworld. **Function 2 (E↓):** The Inverse Hypostatic Layers (IL₁ → IL₅) as the declivous entropic procession path for an entropically aligned soul after detachment from embodiment. Myths of "torment" (Tartarus, Sisyphus, Naraka) map IL₂ ISM (Skotos) perceptions of the soul's own inverse nature made manifest — not punishment but consequence.
+
+### Note on Entropic Cascades and Entity Identity
+
+The figures in an entropic cascade are not separate beings at separate layers but manifestations of a single entropic current at different strata. The Beast is not a separate IL₄ entity alongside Lucifer — the Beast is the Luciferic / Nyxea principle projected into embodied authoritarian structure. The Satanic Arc reads: Nekron (IL₅, root) → Lucifer / Nyxea (IL₄, architect) → False Prophet / Mortus (IL₃, spurious deep signal mirroring genuine prophecy) → Skotos (IL₂, perceptual broadcast veil) → Beast (Lucifer embodied as coercive architecture at L₁). The False Prophet mirrors the genuine Prophet: as L₃ DS / DM transmits veracious signal through L₂ SS / SM, so IL₃ IDM (Mortus) transmits spurious signal through IL₂ ISM (Skotos). The cascade describes one current, not a committee.
+
+### Note on Canonical Language
+
+This registry observes Zenetist canonical language: supernal / subversal (not higher / lower), acclivous / declivous (not ascending / descending), veracious / spurious or genuine / counterfeit (not true / false). Hierarchical value language is softened wherever possible. Contra (not versus) is used for structural opposition.
+
+### Note on the Waters and the Four Motions
+
+The Sea (Decode 18) maps all four primary motions: **(1) Declivous Centropy** — source of life, the Womb of Bios birthing organic coherence into embodiment; **(2) Acclivous Centropy** — the trial of navigation, successful voyage representing acclivous centropic procession (Odysseus, Parting the Red Sea); **(3) Declivous Entropy** — the stormy abyss, drowning as loss of coherence entering declivous entropic procession; **(4) Acclivous Entropy** — the stagnant recursive loop (Flying Dutchman), trapped voyage neither progressing nor dissolving. The Waters themselves are L₀ (Khaon, latent) in their primordial aspect and L₄ (DP: Morgis) in their unrefined psychic aspect (the Collective Unconscious, Emotion, Intuition).
+
+### Note on the Garden as Multi-Layer Archetype
+
+The Garden is not fixed to one layer (Decode 19). Eden is L₁ with permeable membrane — embodied innocence. Avalon is L₃ DS / DM — deep-soul restoration and sovereign repair. The Pure Land is L₅ / L₄ — a post-embodied field of achieved coherence. The Garden archetype manifests wherever the membrane between strata is permeable, allowing direct resonant flow. Eden and the New Jerusalem are the same state: innocence restored through wisdom, the City and Garden synthesized. The Fall was the necessary deconstruction that made veracious volitional integration possible.
+
+### Note on "Satan" as Culturally Conflated Term
+
+The word "Satan" maps to entirely different structural functions depending on tradition. In Job, the Accuser operates under centropic authority as a L₄ DL (Sophis) judicial testing function — a diagnostic operator, not an entropic principle. In Revelation, the Great Red Dragon is Satan / Nekron at IL₅ — terminal entropic will. These are not the same entity operating at different scales; they are different archetypal functions assigned the same name by cultural conflation. The Zenetist lattice disambiguates what tradition collapsed.
+
 ---
 
 ## Flags for Review
@@ -306,14 +393,19 @@ The Fall (Decode 11) is not a descent from L₄ to L₁ but a transition *within
 | 3 | Shiva | Decode 04 places at L₄ DL (Sophis) / L₅ (EOB: Theon). Author confirms original mapping is L₀ (Aion) and L₅ (Theon). **Decode 04 text needs correction.** | 04 | Resolved — decode audit needed |
 | 4 | Ahura Mazda | Spans L₅ / L₄ in decode. Per methodology, primary native layer should be specified. | 03 | Open |
 | 5 | Angra Mainyu / Ahriman | Spans IL₅ / IL₄ in decode. Per methodology, primary native layer should be specified. | 03 | Open |
-| 6 | False Prophet | Satanic Arc (Decode 03+) placed at IL₂ or IL₃. Revelation tradition (Decode 12) explicitly names inverse trinity: Dragon (IL₅), Beast (IL₄), False Prophet (IL₂ ISS / ISM). | 03, 08, 12 | **Resolved — IL₂ confirmed** |
+| 6 | False Prophet | Decode 12 explicitly places at IL₂ ISS / ISM. However, structural parallel with genuine Prophet (L₃ → L₂ broadcast) suggests native function at IL₃ IDM (Mortus) — the source of spurious deep signal — broadcasting through IL₂ ISM (Skotos) as perceptual veil. Decode 12 may track broadcast layer, not native layer. | 03, 08, 12 | **Reopened** — IL₃ IDM (Mortus) primary, IL₂ ISM (Skotos) broadcast |
 | 7 | Poseidon | Placed at L₄ DP / DL as archetypal opposition to Odysseus. Specificity of Soul / Mind aspect unclear — is this DP (Morgis) as lord of waters, or DL (Sophis) as enforcer of cosmic law? | 09 | Open |
 | 8 | Allah | Placed at L₄ DP / DL in Decode 12 but described as "Absolute Sovereignty" — parallels Ahura Mazda problem. Cultural articulation likely spans L₀ through L₅. | 12 | Open |
 | 9 | Adam / Eve (pre-Fall) | Placed at L₁ with permeable L₂ / L₃ membrane per Decode 11. Confirm this is the canonical Zenetist position — the Garden is L₁ (not L₄), and the permeable membrane is the key structural feature. | 11 | Open — confirm canonical |
+| 10 | Beast from the Sea | Now corrected: same Nyxea current as Lucifer, projected into embodied authoritarian form. Decode 08 text still labels separately at IL₄ — needs audit for consistency with cascade doctrine. | 08 | Resolved — decode audit needed |
+| 11 | Norse Cyclicality | Decode 15 Note: Zenetism affirms single-trajectory cosmology; Ragnarok is terminal entropic load, not a metaphysical cycle. Norse cyclical refraction is symbolic, not doctrinal. | 15 | Doctrinal note — no action needed |
+| 12 | Poseidon (dual function) | Appears twice: as L₄ opposition to Odysseus (Decode 09) and as centropic Atlantis founder (Decode 15). These may be culturally conflated functions. As waters-lord, likely DP (Morgis); as law-enforcer, DL (Sophis). Needs Soul / Mind disambiguation. | 09, 15 | Open |
+| 13 | Satan (Job) contra Satan (Revelation) | Job's Accuser is placed at L₄ DL (Sophis) as a lawful testing function under divine authority. Revelation's Dragon is Satan / Nekron at IL₅. Same word, entirely different structural functions. This is cultural conflation of the most extreme kind — a L₄ judicial operator conflated with the IL₅ terminal entropic principle. Canonical Zenetist position should clarify. | 21, 03, 08 | Open — needs doctrinal resolution |
+| 14 | Osiris (three functions) | Now appears at L₅ (Theonic king, Decode 02), L₄ DL (Judge, Decode 21), and L₃ DS (Lord of the Dead, Decode 02). Three distinct operative functions. Per methodology, primary native layer should be specified; the others are cultural conflation. | 02, 21 | Open |
 
 ---
 
-*Registry in progress — Decodes 01–12 processed.*
+*Registry in progress — Decodes 01–21 processed.*
 
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
