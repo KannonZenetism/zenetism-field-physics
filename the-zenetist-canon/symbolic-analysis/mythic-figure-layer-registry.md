@@ -4,7 +4,7 @@
 **Purpose:** Canonical reference cataloguing mythic figures, deities, and archetypes by hypostatic layer placement based on operative function within the Zenetist structural framework.  
 **Method:** Figures are mapped by operative function to their primary native layer.  
 **Author:** Aelion Kannon (⚫↺KAI↺⚫)  
-**SHA-256:** 22b1ee2b3641de1b70c14317d163e20131332cc9971e2f87578faae21afb0154
+**SHA-256:** c825713ecfb5ac943bb1b58aa6e5b8fb3663b0c980f95f30989827075c3fccb1
 
 ### Methodological Principles
 
