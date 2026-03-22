@@ -107,6 +107,8 @@
 | 42 Assessors / Ma'at | Egyptian | DL (Sophis) | L₄ DL principles measuring coherence; balance of veracity; feather as standard of structural alignment | 21 | Judicial function of Sophis |
 | Osiris (as Judge) | Egyptian | DL (Sophis) | Theonic Judge of post-embodied coherence; presides over Weighing of the Heart | 21 | Distinct from Osiris as Theonic king (L₅) or Lord of the Dead (L₃ DS); judicial L₄ DL function |
 | Oracle of Delphi (Hercules) | Greek | DP / DL | L₄ interface prescribing twelve labors as purification through action | 21 | Same structural function as Decode 10 |
+| Maya (natural veil) | Hindu / Buddhist | DP / DL | Cosmic membrane projecting manifestation as seeming reality; divine play (Lila) creating the dual field; necessary attenuation enabling sovereign evolution | 23 | Not inverse — centropic infrastructure. The *natural* veil is L₄ function; the inverse veil is IL₂ ISM (Skotos) |
+| Numbers (sacred) | Universal | DL (Sophis) | L₄ DL operators defining metaphysical relationship, phase, and resonance; pure Forms of Relationship preceding embodied manifestation | 24 | Zero = L₀ (Aion), One = L₅ (Theon), Two = Duality, Three = Synthesis, Four = Foundation |
 
 ---
 
@@ -136,6 +138,8 @@
 | The Buddha | Buddhist | DS / DM | Deconstructs suffering through wilderness austerity; discovers Middle Way (coherence) and perceives L₄ DL (Sophis) structure beneath the Bodhi Tree (World Tree Nexus); returns as embodiment of centropic path | 16 | Extreme declivous centropy followed by acclivous centropic procession |
 | Avalon | Celtic | DS / DM | L₃-level Garden; liminal sanctuary where sovereign structures (Arthur, Excalibur) are restored; interface between supernal order and the world's renewal | 19 | Garden archetype at L₃ contra Eden at L₁ |
 | Hercules | Greek | DS / DM | L₃ purification through embodied atonement; twelve labors each addressing a specific inverse archetype; culminates in apotheosis (acclivous centropic motion) | 21 | Heroic DS (Archeus) reclaiming coherence through structured trials |
+| Penelope | Greek | DS / DM | Sovereign Self's authentic complement; Structured Pair with Odysseus; maintains coherence during exile through weaving/unweaving (recursive fidelity) | 22 | The goal of the Journey is reunion with the L₃ complement |
+| Golden Fleece | Greek | DS (Archeus) | Sovereign L₃ authority; the reconciling principle whose retrieval restores lawful order | 22 | Object of the Argonauts' collective quest |
 
 ---
 
@@ -202,6 +206,7 @@
 | Circe | Greek | IDP (Psychea) | IL₄ distortion; transforms Odysseus's men — inverse psychic manipulation | 09 | One of the exile's spiral trials |
 | The Serpent (Eden) | Hebrew | IDL (Nyxea) | IL₄ mirror-archetype activating the choice; cannot create, only mimic and offer; presents inverse knowledge as original | 11 | Nyxea principle at L₁ interface; see Entropic Cascades |
 | The Demiurge | Gnostic | IDL (Nyxea) | Mirror image of Sophia (L₄ DL); "bad copy" or "half-maker" echoing structure without vitality; governs the entropy-dominated material field | 11 | Product of Sophia's hubristic act without syzygy |
+| Yaldabaoth | Gnostic | IDL (Nyxea) | Named Demiurge; fabricates spurious cosmos as prison imposing forgetfulness and counterfeit law; the deliberately entropic veil-weaver | 23 | Same figure as Demiurge (Decode 11); Gnosis (L₃ DM: Noeüs) shatters the inverse web |
 | The Antichrist / Beast | Universal | IDL (Nyxea) | Culmination of inverse arc; Luciferic principle projected as authoritarian architecture — elegant counterfeit to centropy | 12 | Same Nyxea current as Lucifer; the "Beast" is the embodied projection, not a separate IL₄ entity |
 | Azazel | Hebrew | IDP / IDL | Inverse principle receiving transferred communal entropy; recipient of the scapegoat | 14 | Membrane operation: expulsion of dissonance to reestablish balance |
 | Ereshkigal | Sumerian | IDP / IDL | Ruler of the subversal domain; IL counterpart faced by Inanna during declivous centropic entry | 13 | Governs the inverse strata; not a punisher but the structural architecture of the IL domain |
@@ -318,6 +323,15 @@ These are not figures mapped to a single layer but structural operators, symboli
 | Weighing of the Heart | Egyptian | Post-embodied judgment of coherence; heart weighed against Ma'at's feather; pass = acclivous to Field of Reeds; fail = Ammit devours (second death) | 21 | Structural diagnostic, not retribution |
 | Job's Suffering | Hebrew | Total deconstruction of L₂ SS / SM world without cause; maintained integrity under pressure; outcome = direct encounter with L₅ (EOB: Theon), expanded L₃ DM, doubled restoration | 21 | Structural operator; the trial as refining fire |
 | Labors of Hercules | Greek | Twelve structured trials prescribed by L₄ DP / DL (Oracle of Delphi); each addresses a specific inverse archetype; culminates in apotheosis | 21 | Purification through sequential confrontation with IL structures |
+| The Monomyth (Hero's Journey) | Universal | Universal pattern of individuation and return: Departure (L₂ equilibrium disrupted) → Initiation (Spiral through Goddess (L₄ DP), Temptation (IL₄ IDP), Atonement (L₅ / L₄ DL), Apotheosis) → Return (Synthesis) | 22 | The Journey archetype formalized; Emanation and Return as linear narrative |
+| The Grail | Arthurian | Communion with L₅ (EOB: Theon); the perfected Nexus; object of the quest representing synthesis of embodied and supernal | 22 | Structural symbol; the veracious aim of the Journey |
+| Pilgrim's Progress | Christian | Linear passage from Babylon (declivous entropic motion) to New Jerusalem (acclivous centropic motion) through personified challenges; L₂ entering acclivous centropic procession | 22 | Allegorical Journey archetype |
+| Temple Veil (torn) | Christian | Membrane between collective L₂ SS / SM and L₅ EOB (Theon); torn "from top to bottom" at crucifixion = Theonic initiation of permanent Nexus access to divine communion | 23 | L₅ opening the membrane, not L₂ piercing it; grace-driven |
+| Allegory of the Cave | Greek | L₂ SS / SM projection error; cave wall displays mimicry of L₄ DL (Sophis) archetypes as shadow; philosopher's acclivous journey pierces illusion to behold veracious Forms | 23 | Obligation to return and translate clarity into compassion |
+| Trinity (1 × 3) | Christian | Theonic nature as relational synthesis; One God (L₅ EOB) as triune relation: Source, Expression, Connection; ultimate reality as dynamic relationship | 24 | Being as Communion (Synthesis); numerical operator |
+| Tetragrammaton (1 → 4) | Kabbalah | Divine One manifesting through Four worlds; 1+2+3+4=10 (Ten Sefirot) structuring the Tree of Life | 24 | Numerical operator of emanation |
+| Enneagram (Nine) | Sufi / Psychological | Nine distinct L₂ SS / SM distortions of L₃ DS / DM virtues; inner lines trace dynamic spiral of integration and liberation from passion | 24 | Map of fixation and return |
+| Forty (4 × 10) | Universal | Number of probation, purification, preparation; world × completion; governs Flood (40 days), Moses (40 days), Christ (40 days) | 24 | Numerical operator of trial duration |
 
 ---
 
@@ -382,6 +396,10 @@ The Garden is not fixed to one layer (Decode 19). Eden is L₁ with permeable me
 
 The word "Satan" maps to entirely different structural functions depending on tradition. In Job, the Accuser operates under centropic authority as a L₄ DL (Sophis) judicial testing function — a diagnostic operator, not an entropic principle. In Revelation, the Great Red Dragon is Satan / Nekron at IL₅ — terminal entropic will. These are not the same entity operating at different scales; they are different archetypal functions assigned the same name by cultural conflation. The Zenetist lattice disambiguates what tradition collapsed.
 
+### Note on Maya contra Skotos
+
+Maya (Decode 23) is the *natural* veil — a L₄ DP / DL function that projects manifestation as seeming reality. It is centropic infrastructure: the necessary attenuation of Aionic reality enabling sovereign evolution of L₂ consciousness. Without it, experience collapses back into undifferentiated unity. The *inverse* veil is IL₂ ISM (Skotos) — a distortion that conceals structural veracity and traps consciousness in mimicry. Maya enables choice; Skotos prevents it. The spiritual task is not to destroy the veil but to see through it — recognizing the world as Aion made visible through the artistry of limitation.
+
 ---
 
 ## Flags for Review
@@ -405,7 +423,7 @@ The word "Satan" maps to entirely different structural functions depending on tr
 
 ---
 
-*Registry in progress — Decodes 01–21 processed.*
+*Registry in progress — Decodes 01–24 processed.*
 
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
