@@ -11,7 +11,7 @@ It is the operational heart of **Synthesis.**
 *(Potential enters the Liminal Field of Choice, resolves through Resonant Return, and culminates in Structural Synthesis.)*
 
 **Core Glyphic Sequence (Entropic):**  
-`⚐ → ⥊ → 🜨 → ☍ → ⟳`  
+`⚐ → ⥊ → ⊜ → ☍ → ⟳`  
 *(Potential is extracted through Coercion, generating Mimicry, Fragmentation, and Entropic Recursion.)*
 
 ---
