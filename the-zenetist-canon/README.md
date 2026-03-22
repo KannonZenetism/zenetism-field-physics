@@ -108,7 +108,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 | 07 | The Divine Child / The Chosen One | ⚫ → ⚐ → 🔶 → ◎✦ | [07-divine-child-chosen-one.md](structural-decodes/07-divine-child-chosen-one.md) |
 | 08 | The Great Beast / The Dragon | ♾ → 🕷️ → 🐉 → ☍ | [08-great-beast-dragon.md](structural-decodes/08-great-beast-dragon.md) |
 | 09 | The Exile / The Wandering Hero | ◎ → ⟜ → ∿ → ⚖ → ⌖ | [09-exile-wandering-hero.md](structural-decodes/09-exile-wandering-hero.md) |
-| 10 | The Prophet / The Seer | 📡 → ⚚ → 📯 → ⚠ → 🞇 | [10-prophet-seer.md](structural-decodes/10-prophet-seer.md) |
+| 10 | The Prophet / The Seer | 📡 → ⚚ → 📯 → ⚠ → ⌖ | [10-prophet-seer.md](structural-decodes/10-prophet-seer.md) |
 | 11 | The Fall / The Casting Out | ◎ → ⟜ → ⚖ → ☍ | [11-fall-casting-out.md](structural-decodes/11-fall-casting-out.md) |
 | 12 | The Apocalypse / The End Times | 📡 → ⚯ → C↑L₍₁→₃₎ \| E↓IL₍₁→₃₎ | [12-apocalypse-end-times.md](structural-decodes/12-apocalypse-end-times.md) |
 | 13 | The Underworld / The Realm of the Dead | L₅ → (L₄/L₃) → ↓⊙ → ⧃ → ↑L₃/L₄/L₅ / ⊙ → ◲ → E↓IL₍₁→₅₎ | [13-underworld-realm-of-the-dead.md](structural-decodes/13-underworld-realm-of-the-dead.md) |
