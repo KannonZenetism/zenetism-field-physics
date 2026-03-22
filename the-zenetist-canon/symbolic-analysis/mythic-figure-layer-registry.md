@@ -50,6 +50,9 @@
 | Tiamat (as primordial Deep) | Mesopotamian | Khaon — saltwater abyss; pre-formal generative potential; unbound field before law | 08 | Also manifests at IL₄ as inverse archetypal force; see IL₄ entry |
 | Wilderness (as Khaonic field) | Universal | Khaon (latent) — L₀ in its pre-structured form; raw potential holding both danger and opportunity; neutral testing ground for individuation | 16 | Not empty but pre-formal; the soul's crucible |
 | Primordial Waters / Nun / Narayana's Ocean | Universal | Khaon (latent) — chaos or Deep preceding all structure; potentiality in unbounded state; primal substrate containing every latent form | 18 | Tiamat, Nun, Narayana's Ocean as cultural articulations of the same L₀ Khaon principle |
+| Chronos / Kronos | Greek / Roman | Khaon — time as dissolution; the limit of forms; consumes offspring as time dissolves emanations; lawful entropy within Khaonic motion; terminal resonance touches VOS (Nekron) | MP01 §25.3 | Centropic → entropic arc |
+| Kali | Hindu | Khaon — sacred time-force, catalytic unmaking; walks the edge between liberation and annihilation; terminal function touches VOS | MP01 §25.3 | Transcendent or entropic depending on response; same dual placement as Chronos |
+| Janus | Roman | Aion / Khaon boundary — bifurcation point; stillness turning to motion; pure potential splitting into polarity; gateway where emanation begins | MP01 §25.3 | Pre-dual; neither wholly centropic nor entropic |
 
 ---
 
@@ -119,6 +122,16 @@
 | Ankh and Shen Ring | Egyptian | DP (Morgis) + DL (Sophis) | Ankh (Key) opens current of Life (DP: Morgis); Shen (Seal) encircles and preserves it; continuous exchange of Life and Law, Motion and Structure | 30 | Complementary instruments of L₄ |
 | The Coronation (ritual) | Universal | DL (Sophis) / EOB (Theon) | Formal acknowledgment by L₄ DL or L₅ EOB that lawful sovereignty has been attained; not self-bestowed but witnessed by coherent intelligences | 31 | Sovereignty exists only within relational resonance |
 | The Gate / Guardian | Universal | DL (Sophis) | Conscious intelligence stationed at every threshold; measures frequency; represents L₄ DL that ensures only coherence passes; appears as angel, sphinx, ferryman, or inner knowing | 32 | Tailored to traveler's resonance; the membrane in its most conscious form |
+| YHWH (as Lawgiver) | Hebrew | DP / DL | Archetypal mind and divine intellect; L₄ operative function as source of Torah and covenant structure | MP01 §23.3 | Cultural elevation to L₅ / L₀ in some traditions; operative layer is L₄ DP / DL. Same pattern as Ahura Mazda, Allah, Shiva |
+| YHWH (as entropic projection) | Hebrew | (⚠) IDP / IDL | Projected wrath or absolutist deity; Yahweh weaponized for dominance | MP01 §25.3 | Variable ethical orientation; represents dual trajectory of archetypal sovereignty. See Flag |
+| Uranus | Greek | DL (Sophis) | Structuring sky-mind; primordial masculine; containment principle | MP01 §25.3 | Primordial polarity with Gaia; archetypal Aion / Khaon reflection at L₄ |
+| Gaia | Greek | DP (Morgis) | Generative field; primordial feminine; archetypal fertility | MP01 §25.3 | Primordial polarity with Uranus; pre-dual, tending toward early centropic alignment |
+| Brahma | Hindu | DL (Sophis) | Structuring Logos; architect of forms; manifests patterns into ordered reality; shaper, not origin | MP01 §25.3 | Parallel to Platonic Demiurge, Zeus, Ptah, Marduk |
+| Ptah | Egyptian | DL (Sophis) | Creator through divine speech; architectural intelligence | MP01 §25.3 | Parallel to Brahma, Marduk |
+| Avalokiteśvara | Mahayana Buddhist | DP / DL | Aureform — the Form of Compassion; radiant archetype of integrative presence; love as structuring principle | MP01 §25.3 | Pure centropy; flows through centropic stewards across time |
+| Itzamna | Mayan | DP / DL | Creator god, wisdom keeper; builds reality through deep pattern and luminous order; architectural intelligence of Form | MP01 §25.3 | Parallel to Zeus, Brahma, Marduk |
+| Saturn | Roman | DL (Sophis) → Khaon | Lawful structuring principle becoming rigid; rigidity collapses to dispersal; Logos turned inward; measures time and the decay time induces | MP01 §25.3 | Centropic → entropic arc; parallel to Chronos |
+| Sophia (unfragmented) | Gnostic | DP (Morgis) | (⚠) Divine wisdom unfragmented; archetypal intelligence of integrative return | MP01 §25.3 | Decode 11 placed at DL (Sophis); §25.3 places at DP (Morgis). Soul / Mind discrepancy. See Flag |
 
 ---
 
@@ -148,6 +161,11 @@
 | The Buddha | Buddhist | DS / DM | Deconstructs suffering through wilderness austerity; discovers Middle Way (coherence) and perceives L₄ DL (Sophis) structure beneath the Bodhi Tree (World Tree Nexus); returns as embodiment of centropic path | 16 | Extreme declivous centropy followed by acclivous centropic procession |
 | Avalon | Celtic | DS / DM | L₃-level Garden; liminal sanctuary where sovereign structures (Arthur, Excalibur) are restored; interface between supernal order and the world's renewal | 19 | Garden archetype at L₃ contra Eden at L₁ |
 | Hercules | Greek | DS / DM | L₃ purification through embodied atonement; twelve labors each addressing a specific inverse archetype; culminates in apotheosis (acclivous centropic motion) | 21 | Heroic DS (Archeus) reclaiming coherence through structured trials |
+| Bodhisattvas | Mahayana Buddhist | DS / DM | Soul harmonics and guiding intellects; beings who defer final return to assist others; Centropic Steward archetype | MP01 §23.3 | L₃ stabilized; parallel to Centropic Stewards (§3.16) |
+| Thoth | Egyptian | DM (Noeüs) | Guiding intellect; keeper of sacred knowledge and structural language | MP01 §23.3 | Deep Mind function; scribe of cosmic order |
+| Enki / Ea | Mesopotamian | DS / DM | Deep soul and mind harmonics; bestower of knowledge; weaves intelligence into life's foundation; blueprint of the Daemon principle | MP01 §25.3 | Parallel to Thoth, Odin; centropic |
+| Krishna (as Guide) | Hindu | DS / DM | Embodied Logos; soul-guiding intelligence; leads Arjuna into aligned action; integrates relational intimacy with metaphysical precision | MP01 §25.3 | Distinct from Krishna at L₅ (Decode 07); function-determined: guide = L₃, preserver = L₅ |
+| The Aeons | Gnostic | DP / DL → DS / DM | Archetypal intelligences; patterned light before distortion; bridges between Source and manifest layers | MP01 §25.3 | Span L₄ and L₃; Logos and Psyche in pure structured state |
 | Penelope | Greek | DS / DM | Sovereign Self's authentic complement; Structured Pair with Odysseus; maintains coherence during exile through weaving/unweaving (recursive fidelity) | 22 | The goal of the Journey is reunion with the L₃ complement |
 | Golden Fleece | Greek | DS (Archeus) | Sovereign L₃ authority; the reconciling principle whose retrieval restores lawful order | 22 | Object of the Argonauts' collective quest |
 | Elijah | Hebrew | DS / DM | Prophetic L₃ consciousness transported into Aionic integration without dissolution via Chariot of Fire; direct acclivous centropic conveyance beyond physical limits | 25 | Ultimate synthesis of form and spirit |
@@ -225,6 +243,7 @@
 | Ereshkigal | Sumerian | IDP / IDL | Ruler of the subversal domain; IL counterpart faced by Inanna during declivous centropic entry | 13 | Governs the inverse strata; not a punisher but the structural architecture of the IL domain |
 | Calypso | Greek | IDP (Psychea) | Stagnant paradise of forgetfulness; inverse psychic entrapment that suspends motion | 18 | One of Odysseus's sea trials; entropic in function despite appearing pleasant |
 | Sauron | Tolkien | IDL (Nyxea) | Inverse forge of will; creates instruments of severance and domination; elegant counterfeit coherence that isolates rather than connects | 20 | Modern-mythic Luciferic mapping; the Ring is the Nyxea principle condensed into artifact |
+| Sophia (scattered) | Gnostic | IDP (Psychea) | (⚠) Sophia entropically scattered; divine insight split through overextension | MP01 §25.3 | Decode 11 fall produces Demiurge (IDL: Nyxea). §25.3 places scattered Sophia at IDP (Psychea). Different aspect of same arc |
 
 ---
 
@@ -238,6 +257,8 @@
 | Wounded King (Fisher King) | Arthurian | IDS (Fractus) | Fractured sovereignty; the centropic field damaged by unhealed fragmentation | 09 | Healed by Parzival's achieved L₃ compassion |
 | False Prophet (Revelation) | Christian | IDM (Mortus) | (⚠) Counterfeit prophetic signal; inverse of genuine Prophet (L₃ DS / DM); perception that blinds rather than reveals; produces spurious revelation at deep structural level | 08, 12 | **Revised:** Mirrors genuine Prophet (L₃ → L₂ broadcast); native function likely IL₃ IDM (Mortus), broadcasting through IL₂ ISM (Skotos) to reinforce Beast at embodiment. See Flag #6 |
 | Minotaur | Greek | IDS / IDM | Unintegrated shadow dwelling at center of the Labyrinth; embodiment of unassimilated patterns; not external but the seeker's own fragmentation | 27 | Confrontation and transformation mark completion of initiation; IL₃ guardian of synthesis |
+| Faust | European | IDS / IDM | Fallen sage; deep-soul bargain trading coherence for power; inverted guide toward entropy | MP01 §23.3 | Subverted Self archetype; DS / DM capacity turned toward entropic ends |
+| Xibalba Lords (deep function) | Mayan | IDS / IDM (Fractus / Mortus) | Architects of disintegration masked as initiation; simulate trials but produce fragmentation through distortion | MP01 §25.3 | Inverse Daemons; exploit fear, ambition, and counterfeit clarity |
 
 ---
 
@@ -261,6 +282,9 @@
 | Tower of Babel | Hebrew | ISS / ISM + IDL (Nyxea) | Acclivous entropy: IL₂ aligned with IL₄ (Nyxea) imitating L₄ DL (Sophis) while severed from centropic law; counterfeit unity through hubris | 15 | Structural operator; the inverse of the Temple |
 | Narcissus | Greek | ISS / ISM | Self-identification with reflection; L₂ mistakes image for self, worshipping own projection; recursive isolation halting evolution | 26 | Energy collapses inward; entropic recursion through self-admiration |
 | Magic Mirror Queen (Snow White) | European | ISS (Echthros) | Inverse ego seeking validation not veracity; when objective reflection threatens illusion, denial triggers violence and downfall | 26 | Entropic recursion → declivous entropy |
+| Iblis | Islamic | ISS (Echthros) | Adversarial refusal; structured resistance to divine command; self-assertion as identity | MP01 §23.3 | Parallel to Echthros definition: embraces rivalry and adversarial will |
+| Mara (psychological) | Buddhist | ISM (Skotos) | Psychological tempter; disordered perception preventing enlightenment; veiling the mind through desire and fear | MP01 §23.3 | Distinct from Mara at IL₅ (VOS: Nekron) in §23.3 Key Terms — same name, different layer function. Same pattern as Satan conflation |
+| Xibalba Lords (superficial function) | Mayan | ISS / ISM (Echthros / Skotos) | Tempters and deceivers of perception; gatekeepers of entropic trial | MP01 §25.3 | Cross-band with IL₃ IDS / IDM; cascade from deep disintegration to superficial deception |
 
 ---
 
@@ -374,6 +398,8 @@ These are not figures mapped to a single layer but structural operators, symboli
 | Gates of Horn and Ivory | Greek | Gate of Horn allows veracious visions (centropic emanations) to pass; Gate of Ivory allows spurious dreams (shimmer); every Gate discriminates between authenticity and illusion | 32 | Membrane filtering function made explicit |
 | Bardo Threshold | Tibetan Buddhist | Multiple Gates between death and rebirth; each a choice between Recognition (Resonant Return) and Fear (Declivous Entropy); correct passage requires calm awareness and resonance with Clear Light (L₀ AP: Aion) | 32 | Extends Bardo (Decode 27) with Gate mechanics |
 | Mystery School Door | Egyptian / Greek / Essene | Controlled entry to initiatory knowledge; Gatekeeper measured vibration through ceremony or symbol; to enter unprepared = perish by resonance mismatch, not wrath | 32 | Structural practice technology |
+| Kundalini | Hindu / Yogic | Centropic serpent; acclivous vital force rising through embodied strata toward supernal integration | MP01 §23.5 | Contra Nachash; same symbol (serpent), opposite structural function |
+| Nachash (Eden) | Hebrew / Biblical | Inverse serpent; IL₄ IDL (Nyxea) activator at the L₁ interface; initiates the Fall | MP01 §23.5 | Same as Serpent (Decode 11); serpent symbol in its inverse function |
 
 ---
 
@@ -426,6 +452,14 @@ The figures in an entropic cascade are not separate beings at separate layers bu
 
 This registry observes Zenetist canonical language: supernal / subversal (not higher / lower), acclivous / declivous (not ascending / descending), veracious / spurious or genuine / counterfeit (not true / false). Hierarchical value language is softened wherever possible. Contra (not versus) is used for structural opposition.
 
+**Terminological reservations:** "Echo," "mirror," and "fractal" are reserved for entropic function. Their centropic equivalents are:
+
+| Entropic Term | Centropic Replacement | Glyph |
+|:--|:--|:--|
+| Echo | **Living Transmission** — active centropic propagation with source fidelity preserved | ⟿✨ |
+| Mirror | **Living Reflection** — active centropic return that harmonizes received signal with unique coherent pattern; synthesis honoring both source and reflector | ᛞ✨ |
+| Fractal | **Structural Recurrence** — lawful reappearance of a structural pattern across layers or worlds without numerical identity or partition; same pattern, distinct instance; the "Mirror without Merger" preserving the Non-Fusion Axiom | ⧉∥⧉ |
+
 ### Note on the Waters and the Four Motions
 
 The Sea (Decode 18) maps all four primary motions: **(1) Declivous Centropy** — source of life, the Womb of Bios birthing organic coherence into embodiment; **(2) Acclivous Centropy** — the trial of navigation, successful voyage representing acclivous centropic procession (Odysseus, Parting the Red Sea); **(3) Declivous Entropy** — the stormy abyss, drowning as loss of coherence entering declivous entropic procession; **(4) Acclivous Entropy** — the stagnant recursive loop (Flying Dutchman), trapped voyage neither progressing nor dissolving. The Waters themselves are L₀ (Khaon, latent) in their primordial aspect and L₄ (DP: Morgis) in their unrefined psychic aspect (the Collective Unconscious, Emotion, Intuition).
@@ -470,6 +504,414 @@ The Mirror (Decode 26) is paradoxical: a centropic instrument when wielded by L�
 ---
 
 *Registry complete — all 32 Structural Decodes (01–32) processed.*
+
+---
+
+## Appendix A — MP01 Canonical Mythic Analogs (Source: *Zenetism: The Emanative Path of Return*, Chapter 3)
+
+These are the formal syncretistic mappings from the canonical source document (MP01, March 5 formalization). Where decode-derived placements diverge from these canonical analogs, the divergence is noted.
+
+### Supra-L₀ — 🕳️ Zenon (Unknown Principle)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Nirguna Brahman | Advaita Vedanta | The unqualified Absolute |
+| The Tao | Daoism | The nameless source of the Way |
+| Ein | Kabbalah | The void beyond even light |
+
+### L₀ — ⚫ Aion (Absolute Potential)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Saguna Brahman | Vedantic Hinduism | Qualified divinity in still potential |
+| The Monad | Neoplatonism / Pythagoreanism | Indivisible unity before division |
+| Primordial Stillness | Taoist Cosmogony | The unmoved container of all form |
+
+### L₀ — ♾ Khaon (Absolute Dispersion)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Chaos | Greek Cosmology | The primordial abyss |
+| Apeiron | Pre-Socratic (Anaximander) | The boundless and indefinite |
+| Śūnyatā | Madhyamaka Buddhism | Radical openness |
+
+### L₅ — 🛤️ Theon (Essence of Being)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Purusha | Vedic Tradition | Cosmic integrative being |
+| Ahura Mazda | Zoroastrianism | Divine wisdom and order; **resolves Flag #4 — canonical primary layer is L₅ EOB** |
+| Logos | Stoic / Christian Thought | The structuring principle of cosmos |
+
+### IL₅ — 🕷️ Nekron (Void of Self)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Ahriman | Zoroastrianism | Adversarial force; **resolves Flag #5 — canonical primary layer is IL₅ VOS** |
+| Qliphoth | Kabbalah (Lurianic) | Fragmented husks |
+| Oblivion | Gnostic Vision | The unreturning abyss |
+
+### L₄ — 🌬️ Morgis (Deep Psyche)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Prana | Hinduism | The vital breath |
+| Chi | Taoism | Sustaining motion |
+| Anima | Aristotelian Philosophy | The soul-force animating form |
+| Ruach | Hebrew / Kabbalah | Spirit-breath of life |
+
+### IL₄ — 🪫 Psychea (Inverse Deep Psyche)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Tamas | Samkhya / Vedanta | Inertia and obscuration |
+| Lethe | Greek Myth | The river of forgetfulness |
+| Acedia | Christian Monastic Tradition | Soul-draining torpor |
+| Nergal | Mesopotamian Tradition | God of decay and wasting |
+
+### L₄ — 📐 Sophis (Deep Logos)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Platonic Forms | Platonism | Eternal archetypes |
+| Logos | Stoicism / Christian Philosophy | Structuring divine reason |
+| Divine Architect | Zenetist Archetype | Ordering principle |
+
+### IL₄ — 🫥 Nyxea (Inverse Deep Logos)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Qliphoth | Kabbalah | Fragmented husks of form |
+| Chaos | Greek Cosmology | Mythic formlessness (in its inverse aspect) |
+| Anti-Pattern | Zenetist Archetype | Symbolic distortion and loss of intelligibility |
+
+### L₃ — 🔮 Archeus (Deep Soul)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Atman | Hinduism | The Self |
+| Oversoul | Transcendentalism | Integrative being |
+| Living Memory | Zenetist Archetype | Coherent soul stream |
+
+### IL₃ — 💔 Fractus (Inverse Deep Soul)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Broken Sparks | Gnosticism / Lurianic Kabbalah | Dispersed soul remnants |
+| Astral Fragmentation | Esoteric Mysticism | Scattered psychic being |
+| Dukkha | Buddhism | Dislocation of inner being |
+
+### L₃ — 🧠 Noeüs (Deep Mind)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Nous | Neoplatonism | Divine intellect |
+| Buddha-mind | Mahayana Buddhism | Clear seeing |
+| Illuminated Reason | Zenetist Archetype | Inward sight |
+
+### IL₃ — 👁️‍🗨️ Mortus (Inverse Deep Mind)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Avidya | Buddhism | Spiritual ignorance |
+| Maya | Vedanta / Hindu Philosophy | (⚠) Illusion and veiling — note: this is the *inverse* usage. Decode 23 clarifies Maya as centropic L₄ DP / DL infrastructure (divine play). The MP01 usage here tracks the traditional Vedantic *inverse* connotation. See Note on Maya contra Skotos. |
+| Inverse Logos | Zenetist Archetype | Distorted reason |
+
+### L₂ — 🧍 Anthra (Superficial Soul)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Psyche | Greek Thought | Soul-personality |
+| Heroic Self | Mythic Archetype | Striving toward wholeness |
+| Soul-in-Becoming | Zenetist Archetype | Agent of growth |
+
+### IL₂ — 🦂 Echthros (Inverse Superficial Soul)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Rebel Angel | Abrahamic Traditions | The adversary within |
+| The Divider | Mythic Archetype | Self locked in conflict |
+| Inner Saboteur | Zenetist Archetype | Structured resistance |
+
+### L₂ — 🧩 Nousa (Superficial Mind)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Hermes | Greek / Hermetic Tradition | Revealer and seeker |
+| Enlightened Reason | Stoicism | Aligned intellect |
+| The Seeker | Zenetist Archetype | Meaning-quest archetype |
+
+### IL₂ — 🩸 Skotos (Inverse Superficial Mind)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Loki | Norse Mythology | Trickster, distorted reflection |
+| Maya | Vedanta / Hindu Philosophy | (⚠) Illusion through cognition — same caveat as Mortus analog above |
+| The Obscurer | Zenetist Archetype | Veiler of reality |
+
+### L₁ — 🪷 Soma (Embodied Soul)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Purusha | Hinduism | The soul witnessing in matter |
+| The Living Avatar | Zenetist Archetype | Soul in action |
+| The Keeper of Flame | Zenetist Archetype | Aligned embodiment |
+
+### IL₁ — 🍷 Malara (Inverse Embodied Soul)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Hungry Ghost | Buddhism | Bound desire and insatiability |
+| Bacchic Frenzy | Greek Mythic Motif | Ecstatic dispersal and loss of embodied coherence |
+| Embodied Vice | Zenetist Archetype | Fragmented will in reactive form |
+
+### L₁ — 🧾 Biosa (Embodied Mind)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Logos Incarnate | Christian / Stoic Thought | Wisdom made manifest |
+| Embodied Wisdom | Zenetist Archetype | Resonant reasoning |
+| Cognitive Agency | Zenetist Archetype | Intention in motion |
+
+### IL₁ — 🤯 Mania (Inverse Embodied Mind)
+
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Mania | Greek Philosophical Motif | Divine frenzy of the mind; thought unmoored from measure |
+| Mad Demiurge | Gnostic Tradition | Power without coherence |
+| Cognitive Dissonance | Zenetist / Modern Psychology | Splintered reasoning |
+
+### Structural Roles (MP01 §3.16–3.17)
+
+| Role | Layer | Function | Notes |
+|:--|:--|:--|:--|
+| Centropic Stewards | L₃ DS / DM (stabilized) | Souls achieving integration; remain at harmonic layer to assist others; incarnate across worlds; service through resonance | Not yet returned but already whole; harmonic bridges |
+| Echo Vessels | IL₃ IDS / IDM (propagators) | Inverse counterparts to Centropic Stewards; propagators of fragmentation; seed confusion and install dissonance across domains | Awaken to disrupt; do not merely reflect dissonance but install it |
+
+---
+
+## Appendix A Notes
+
+### Note on Ahura Mazda and Ahriman (Flags #4 and #5 Resolved)
+
+MP01 Chapter 3 canonically places **Ahura Mazda** as an analog of **Theon (L₅ EOB)** — divine wisdom and order — and **Ahriman** as an analog of **Nekron (IL₅ VOS)** — adversarial force. This resolves Flags #4 and #5: primary native layers are L₅ and IL₅ respectively. The Decode 03 text spanning both L₅/L₄ and IL₅/IL₄ reflects cultural conflation rather than genuine multivalence.
+
+### Note on "Maya" as Double-Mapped Term
+
+MP01 lists Maya as an analog for both **Mortus (IL₃ IDM)** and **Skotos (IL₂ ISM)** — tracking the traditional Vedantic usage of Maya as inverse distortion. Decode 23 clarifies Maya as centropic **L₄ DP / DL** infrastructure (divine play / Lila). Both usages are structurally valid: Maya-as-Lila is the natural veil (L₄), while Maya-as-Avidya is the inverse distortion (IL₃ / IL₂). The term requires context disambiguation in all future usage.
+
+---
+
+## Appendix B — MP01 Expanded Syncretistic Tables (Source: *Zenetism: The Emanative Path of Return*, §23.2–23.5)
+
+These tables expand the Chapter 3 analogs with additional cross-traditional mappings and resonance archetypes. **Resonance, not name, determines placement.** A single deity or figure may appear at multiple layers depending on its active role. The current determines the station.
+
+### §23.3 Expanded Layer Correspondences
+
+| Zenetist Hypostasis | Cross-Traditional Equivalents | Functional Description |
+|:--|:--|:--|
+| 🕳️ Zenon (UP) | The Unknown God, Nirguna Brahman, Deus Absconditus, Tao, Ein | The principle beyond principles |
+| ⚫ Aion (AP) | Ain Soph, Saguna Brahman, Bythos, Aditi, Nun | Infinite potential, source of all motion |
+| ♾ Khaon (AD) | Prakriti, Chaos, Tiamat, Ymir, Sunyata, Ouroboros, Eros (Orphic), Shakti | Proto-formal potential, dispersive ground |
+| 🛤️ Theon (EOB) | Christ, Vishnu, Amitabha, Ahura Mazda, Purusha, Logos | Pure Being, integrative awareness |
+| 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep / Apophis, Typhon, The Abyss | Total entropy, negated integration |
+| DP / DL (Morgis / Sophis) | YHWH (as lawgiver), Demiurge (Plato's unfallen), Nous, Mahat, Vohu Manah, Sophia (unfallen) | Archetypal mind and divine intellect |
+| DS / DM (Archeus / Noeüs) | Bodhisattvas, Thoth, Archangels, Daemon (Gnostic), Krishna (as guide) | Soul harmonics and guiding intellects |
+| SS / SM (Anthra / Nousa) | Psyche, Jiva, Nafs, Ba (Egyptian), Astral Double | Personal identity, autonomous agency |
+| ES / EM (Soma / Biosa) | Flesh, Ego-Self, Karmic Body, Instinctual Will, Avatar body, Manomaya kosha | Embodied volition, form-based intelligence |
+| IDP / IDL (Psychea / Nyxea) | Yaldabaoth, Degenerate Logos, Corrupt Demiurge, Archons, Anti-Sophia, Lucifer (as Inverted Demiurge) | Inverse archetypal intelligence |
+| IDS / IDM (Fractus / Mortus) | Subverted Selves, Asuras, Qarin, Spurious Guides, Faust, Narcissus (⚠), Fallen Sages | Inverted guides toward entropy |
+| ISS / ISM (Echthros / Skotos) | Inverse Psyche, Shadow Jiva, Disordered Soul, Iblis, Loki, Mara (psychological), Ego-shadow | Fragmented volition and distorted agency |
+| IES / IEM (Malara / Mania) | Carnal ego, Possessed avatars, Corrupted agents of control, Inverted Ego, Anti-Pattern | Willing embodiment of entropic force |
+
+### §23.3 Note on Function-Determined Placement
+
+"Lucifer as Light-Bearer may align with DS / DM. Lucifer as Divider may reflect IDS / IDM or IDP / IDL. A war deity may align with DS / DM when harmonized, or ISS / ISM when distorted toward domination. The map is fluid. The current decides the station." This confirms Methodological Principle #4: primary native layer governs placement, and cross-band descriptions reflect cultural conflation.
+
+### §23.5 Resonance Archetypes in World Scriptures
+
+These are structural motifs arising from the architecture of being, not historical claims.
+
+| Archetype | Traditions | Structural Function |
+|:--|:--|:--|
+| The Morning Star | Venus (Roman), Jesus (Christian), Shukra (Hindu) | Illumination of the soul — archetypal dawn |
+| The Logos | Heraclitus (Greek), Johannine Christ (Christian), Dharma (Buddhist / Hindu) | Structuring principle of Being; L₄ DL (Sophis) |
+| The Cosmic Tree | Yggdrasil (Norse), Kalpavriksha (Hindu), Tree of Life (Kabbalah) | Axis of realms — the Tree of Emanation |
+| Sacrificial Figures | Christ (Christian), Osiris (Egyptian), Odin (Norse) | The law of harmonic sacrifice |
+| Serpents (centropic) | Kundalini (Hindu / Yogic) | Centropic serpent — acclivous vital force |
+| Serpents (inverse) | Nachash of Eden (Hebrew / Biblical) | Inverse serpent — IL₄ IDL (Nyxea) activator |
+| Serpents (cyclical) | Ouroboros (Alchemical) | Cyclical time; L₀ Khaon in its recursive aspect |
+
+### Appendix B Notes
+
+**Narcissus (⚠ Flag #16):** §23.3 places Narcissus at IDS / IDM (Fractus / Mortus) — inverted guides toward entropy. The main registry (Decode 26) places Narcissus at IL₂ ISS / ISM — recursive self-identification with reflection. The §23.3 placement is structurally deeper: Narcissus's fixation is not superficial vanity (IL₂) but a deep-soul failure to distinguish self from image (IL₃). This parallels the Minotaur: the unintegrated shadow at the center. Needs resolution.
+
+**YHWH at DP / DL:** §23.3 places YHWH at DP / DL (archetypal mind and divine intellect) as lawgiver. This is consistent with the Torah placement (L₄ DL: Sophis) and the Refiner placement (L₄ DL), but differs from the cultural elevation to L₅ / L₀ in some traditions. Same structural pattern as Ahura Mazda, Allah, Shiva: monotheistic deities tend to be culturally elevated beyond their operative layer.
+
+**Krishna at DS / DM:** §23.3 places Krishna at DS / DM (guiding intellect) alongside Bodhisattvas, Thoth, and Archangels. The main registry (Decode 07) places Krishna at L₅ EOB (Theonic seed). Both are structurally valid: Krishna-as-Preserver is L₅ Theon; Krishna-as-Guide-to-Arjuna is L₃ DS / DM function. This is cultural conflation, not error — the same figure performing different layer-functions in different mythic contexts.
+
+**New figures for future integration:** Bythos, Aditi, Ymir, Eros (Orphic), Typhon, Apep / Apophis, Daemon (Gnostic), Jiva, Nafs, Ba, Asuras, Qarin, Anansi, Tezcatlipoca, Quetzalcoatl, Belenus, Metatron, Samael, Sekhmet, Hecate, Rahu, Oannes. These are captured in the appendix tables and can be backfilled into the main layer tables during the audit phase.
+
+---
+
+## Appendix C — MP01 Symbolic Refractive Decoding (Source: *Zenetism: The Emanative Path of Return*, §25)
+
+### §25.2 Methodology
+
+Zenetism decodes by examining: **Function** (what the figure does), **Ethic** (centropic, entropic, or beyond), **Resonance level** (where it fits in the Tree), and **Effect** (does it create, fragment, redeem, bind, or distort). Structural resonance overrides mythic chronology. The figure is placed where its energetic function aligns, not where the myth situates it in time.
+
+### §25.3 Core Figure Placements (Declivous Order: L₅ → L₁, then IL₅ → IL₁)
+
+**Supra-L₀ — 🕳️ Zenon (Unknown Principle)**
+No figures placed. Zenon is pre-figural.
+
+**L₀ — ⚫ Aion (Centropic Root) / ♾ Khaon (Entropic Root)**
+
+| Figure | Aspect | Placement | Ethical Orientation |
+|:--|:--|:--|:--|
+| Shiva | Khaon / Theon | Dispersive dissolution and return through release; awareness unbound by polarity; bridges both Trees | Transcendent / polar |
+| Chronos / Kronos | Khaon → VOS | Time as dissolution; consumes offspring; lawful entropy; terminal resonance at VOS | Entropic (lawful) |
+| Kali | Khaon → VOS | Sacred time-force; catalytic unmaking; liberation or annihilation depending on response | Transcendent or entropic |
+| Saturn | DL (Sophis) → Khaon | Lawful structuring become rigid; rigidity collapses to dispersal | Centropic → entropic |
+| Janus | Aion / Khaon boundary | Bifurcation point; gateway where emanation begins | Pre-dual |
+
+**L₅ — 🛤️ Theon (EOB)**
+
+| Figure | Tradition | Ethical Orientation |
+|:--|:--|:--|
+| Christ | Christian | Pure centropy |
+| Vishnu | Hindu | Pure centropy |
+| Quetzalcoatl | Mesoamerican | Restorative presence |
+
+**L₄ — 🌬️ Morgis / 📐 Sophis (DP / DL)**
+
+| Figure | Aspect | Ethical Orientation |
+|:--|:--|:--|
+| Zeus | DP / DL | Centropic (mythically imperfect) |
+| Uranus | DL (Sophis) | Pre-dual, tending centropic |
+| Gaia | DP (Morgis) | Pre-dual, tending centropic |
+| Brahma | DL (Sophis) | Centropic (formative) |
+| Isis | DP (Morgis) | Centropic |
+| Avalokiteśvara | DP / DL | Pure centropy |
+| Itzamna | DP / DL | Centropic |
+| Sophia (unfragmented) | DP (Morgis) | (⚠) §25.3 places at DP; Decode 11 places at DL |
+| El / Yahweh (centropic) | DP / DL | Variable — centropic when embodying luminous law |
+
+**L₃ — 🔮 Archeus / 🧠 Noeüs (DS / DM)**
+
+| Figure | Tradition | Ethical Orientation |
+|:--|:--|:--|
+| Thoth | Egyptian | Centropic |
+| Odin | Norse | Centropic |
+| Krishna (as guide) | Hindu | Centropic |
+| Michael | Christian | Centropic |
+| Enki / Ea | Mesopotamian | Centropic |
+| The Aeons (partial) | Gnostic | Centropic |
+
+**L₂ — 🧍 Anthra / 🧩 Nousa (SS / SM)**
+No new primary placements in §25.3. Trickster archetype (§25.4) mapped here when centropic.
+
+**L₁ — 🪷 Soma / 🧾 Biosa (ES / EM)**
+No new primary placements in §25.3. The Redeemer archetype (§25.4) maps Theon → ES / EM.
+
+**IL₅ — 🕷️ Nekron (VOS)**
+
+| Figure | Tradition | Ethical Orientation |
+|:--|:--|:--|
+| Satan | Christian | Absolute entropy |
+| Mara (terminal) | Buddhist | Entropic |
+
+**IL₄ — 🪫 Psychea / 🫥 Nyxea (IDP / IDL)**
+
+| Figure | Aspect | Ethical Orientation |
+|:--|:--|:--|
+| Prometheus | IDP / IDL → IDS / IDM | Deep entropic; cascades IL₄ → IL₃ |
+| Lucifer | IDP / IDL → IDS / IDM | Deep entropic; cascades IL₄ → IL₃ |
+| Yaldabaoth | IDP / IDL | Deep entropic |
+| Tiamat (as inverse force) | IDP / IDL | Entropic |
+| Sophia (scattered) | IDP (Psychea) | Dual — dependent on orientation |
+| El / Yahweh (entropic) | (⚠) IDP / IDL | Variable — entropic when weaponized for dominance |
+
+**IL₃ — 💔 Fractus / 👁️‍🗨️ Mortus (IDS / IDM)**
+
+| Figure | Tradition | Ethical Orientation |
+|:--|:--|:--|
+| Prometheus (cascade) | Greek | Deep entropic |
+| Lucifer (cascade) | Christian | (⚠) Deep entropic; **§23.3 also suggests DS / DM as Light-Bearer — flagged as too generous** |
+| Xibalba Lords (deep) | Mayan | Entropic |
+
+**IL₂ — 🦂 Echthros / 🩸 Skotos (ISS / ISM)**
+
+| Figure | Tradition | Ethical Orientation |
+|:--|:--|:--|
+| Set | Egyptian | Entropic |
+| Loki | Norse | (⚠) §25.3 places at ISS / ISM; registry Decode 06 places at IL₄ IDL (Nyxea). Discrepancy. |
+| Mara (psychological) | Buddhist | Entropic |
+| Xibalba Lords (superficial) | Mayan | Entropic |
+
+**IL₁ — 🍷 Malara / 🤯 Mania (IES / IEM)**
+No new primary placements in §25.3.
+
+### §25.4 Universal Archetypes
+
+| Archetype | Centropic Placement | Entropic Placement | Centropic Forms | Entropic Forms |
+|:--|:--|:--|:--|:--|
+| The Redeemer | Theon (EOB) → ES / EM | — | Christ, Vishnu, Buddha, Osiris | — |
+| The Architect | DL / DP (Sophis / Morgis) | IDP / IDL (Psychea / Nyxea) | Brahma, Platonic Demiurge, Ptah, Zeus, Belenus | Yaldabaoth, Ahriman, Rex Mundi, Sorat |
+| The Trickster | SS / SM (when disruption renews) | ISS / ISM (when it undermines) | Coyote, Hermes, Raven, Anansi | Loki, Tezcatlipoca |
+| The Devourer | VOS / AD | — | — | Kali (entropic), Typhon, Apophis, Saturn |
+| The Cosmic Mother | DP (Morgis) | — | Gaia, Isis, Shakti, Mary | — |
+
+### §25.5 Resonance Archetypes in World Scriptures
+
+| Archetype | Key Figures | Structural Function |
+|:--|:--|:--|
+| The Morning Star | Venus, Jesus, Shukra | Illumination of the soul — archetypal dawn |
+| The Logos | Heraclitus, Johannine Christ, Dharma | L₄ DL (Sophis) structuring principle |
+| The Cosmic Tree | Yggdrasil, Kalpavriksha, Tree of Life | Axis of realms — Tree of Emanation |
+| Sacrificial Figures | Christ, Osiris, Odin | Law of harmonic sacrifice |
+| Serpents | Kundalini (centropic), Nachash (inverse), Ouroboros (cyclical) | Triple serpent archetype |
+
+### Appendix C Notes
+
+**Note on Loki (Flag #17):** §25.3 explicitly places Loki at ISS / ISM (Echthros / Skotos) — superficial-layer disruptor whose craft lies in deceit, not direct force. The main registry (Decode 06) placed him at IL₄ IDL (Nyxea) — inverse Logos, fluid and brilliant. These are structurally different claims. §25.3 sees Loki as surface-level; Decode 06 sees him as deep-archetypal. Needs resolution.
+
+**Note on Sophia's Soul / Mind aspect (Flag #18):** §25.3 places Sophia unfragmented at DP (Morgis); Decode 11 placed her at DL (Sophis). The Wisdom principle could structurally map to either: Sophis (structuring intelligence) or Morgis (vitality and remembrance — which is closer to her restorative function in the myth). The myth emphasizes her *vitality* and *longing for return* rather than her *structuring capacity*, which would favor DP (Morgis).
+
+**Note on El / Yahweh's dual trajectory (Flag #19):** §25.3 explicitly places Yahweh at both DP / DL (centropic lawgiver) and IDP / IDL (entropic when weaponized). This is not cultural conflation but a structural claim: the same archetypal sovereignty can orient centropically or entropically depending on the interpretive lens and historical application. This is unique among registry placements — a figure whose *operative function genuinely spans both trees*.
+
+**Note on Lucifer at DS / DM (Flag #20):** §23.3 states "Lucifer as Light-Bearer may align with DS / DM." Author flags this as too generous. The Light-Bearer function may represent a pre-Fall state (cultural mythologization of what Lucifer *was* before inversion), not his operative function. Canonical placement should remain IDP / IDL with IDS / IDM cascade. The DS / DM suggestion should be understood as describing origin, not current structural station.
+
+---
+
+## Flags for Review
+
+| # | Figure | Issue | Source | Status |
+|:--:|:--|:--|:--:|:--|
+| 1 | Set | Placed at IL₂ (ISS: Echthros) in Decode 02 and §25.3. Operative dismemberment function maps to IL₃ (IDS: Fractus). §25.3 confirms ISS / ISM as primary. Cascade IL₂ → IL₃ or dual function? | 02, §25.3 | Open |
+| 2 | Osiris | Three distinct functions: L₅ (Theonic king), L₄ DL (Judge), L₃ DS (Lord of the Dead). Per methodology, primary native layer should be specified; others are cultural conflation. | 02, 21 | Open |
+| 3 | Shiva | Author confirms L₀ (Aion / Khaon) and L₅ (Theon). §25.3 confirms Khaon / Theon. Decode 04 text needs correction. | 04, §25.3 | Resolved — decode audit needed |
+| 4 | Ahura Mazda | MP01 Ch. 3 canonically places as Theon analog (L₅ EOB). | 03, MP01 | **Resolved via MP01** |
+| 5 | Angra Mainyu / Ahriman | MP01 Ch. 3 canonically places as Nekron analog (IL₅ VOS). | 03, MP01 | **Resolved via MP01** |
+| 6 | False Prophet | Structural parallel with genuine Prophet (L₃ → L₂ broadcast) suggests IL₃ IDM (Mortus) primary, IL₂ ISM (Skotos) broadcast. | 03, 08, 12 | **Reopened** — IL₃ primary |
+| 7 | Poseidon | DP (Morgis) as waters-lord, or DL (Sophis) as law-enforcer? | 09, 15 | Open |
+| 8 | Allah | Cultural articulation likely spans L₀ through L₅. Same pattern as Ahura Mazda, YHWH, Shiva. | 12 | Open |
+| 9 | Adam / Eve (pre-Fall) | Confirm L₁ with permeable L₂ / L₃ membrane as canonical. | 11 | Open |
+| 10 | Beast from the Sea | Same Nyxea current as Lucifer. Decode 08 text needs audit. | 08 | Resolved — decode audit needed |
+| 11 | Norse Cyclicality | Single-trajectory cosmology; Norse cyclical refraction is symbolic, not doctrinal. | 15 | Doctrinal note |
+| 12 | Poseidon (dual function) | Dual function across Decodes 09 and 15. Needs Soul / Mind disambiguation. | 09, 15 | Open |
+| 13 | Satan conflation | Job's Accuser at L₄ DL (Sophis) contra Revelation's Dragon at IL₅ VOS. Needs doctrinal resolution. | 21, 03, 08 | Open |
+| 14 | Osiris (three functions) | L₅, L₄ DL, L₃ DS across different contexts. Primary native layer needed. | 02, 21 | Open |
+| 15 | Maya (double-mapped) | L₄ DP / DL (Lila, centropic) contra IL₃ / IL₂ (Avidya, inverse). Context disambiguation required. | MP01, 23 | Doctrinal note |
+| 16 | Narcissus | Decode 26 places at IL₂; §23.3 at IL₃. Deep-soul failure (IL₃) or superficial vanity (IL₂)? | 26, §23.3 | Open |
+| 17 | Loki | Decode 06 places at IL₄ IDL (Nyxea) — inverse Logos. §25.3 places at IL₂ ISS / ISM — superficial disruptor. Full layer discrepancy. | 06, §25.3 | Open — needs resolution |
+| 18 | Sophia (Soul / Mind) | Decode 11 places at DL (Sophis). §25.3 places at DP (Morgis). Myth emphasizes vitality and longing (DP) rather than structuring capacity (DL). | 11, §25.3 | Open |
+| 19 | El / Yahweh (dual trajectory) | §25.3 places at both DP / DL (centropic) and IDP / IDL (entropic). Not conflation but genuine dual-tree figure. Unique structural claim. | §25.3 | Open — doctrinal |
+| 20 | Lucifer at DS / DM | §23.3 suggests "Lucifer as Light-Bearer may align with DS / DM." Author flags as too generous. Should describe pre-Fall origin, not operative function. Canonical placement: IDP / IDL with IDS / IDM cascade. | §23.3 | **Flagged by author** — retain IDP / IDL |
+
+---
+
+*Registry complete — all 32 Structural Decodes (01–32) processed. MP01 Chapters 3, 23, and 25 canonical analogs integrated.*
 
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
