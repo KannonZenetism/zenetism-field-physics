@@ -519,7 +519,7 @@ not simply free or determined.
 It exists along a **spectrum of volitional resonance**.  
 
 What we call “free will”  
-is a **fractal expression**  
+is a **distributed expression**  
 of the **Divine Impulse** within **Aion**,  
 unfolding through form, embodiment,  
 and one’s place in the **spiral of emanation**.  
