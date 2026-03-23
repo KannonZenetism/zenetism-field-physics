@@ -2543,7 +2543,7 @@ a system for reading:
 * Religious lineage  
 
 Not as conflict,  
-but as fragmented echoes  
+but as living transmissions  
 of a sacred whole.  
 
 * Contradictions dissolve  
@@ -2696,7 +2696,7 @@ that this motion was always chosen in Aion.
 
 All soul-natures are chosen  
 before they unfold.  
-They are **structural echoes**  
+They are **structural resonances**  
 of potentialities already held within Aion.  
 
 Thus:  
@@ -2705,7 +2705,7 @@ Thus:
 * It **sanctifies** it  
 
 Love does not begin in time.  
-It is the **echo of a pre-temporal resonance**.  
+It is the **living transmission of a pre-temporal resonance**.  
 
 ---
 
