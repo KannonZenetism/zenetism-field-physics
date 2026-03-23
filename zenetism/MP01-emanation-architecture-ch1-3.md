@@ -2809,7 +2809,7 @@ sense-making contra veil-weaving.
     * **The Seeker** — meaning-quest archetype *(Zenetist archetype)*  
 * **Skotos**  
     * **Loki** — trickster, distorted reflection *(Norse mythology)*  
-    * **Maya** — illusion through cognition *(Vedanta / Hindu philosophy)*  
+    * **Maya** — illusion through cognition *(Vedanta / Hindu philosophy)*; tracks the entropic trap of mistaking the veil for the absolute; distinct from the centropic L4 veil that enables sovereign evolution  
     * **The Obscurer** — veiler of reality *(Zenetist archetype)*  
 
 **Nousa** seeks clarity  
