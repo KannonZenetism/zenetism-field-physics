@@ -2313,7 +2313,7 @@ with humility.
 Zenetism is not a closed metaphysical doctrine.  
 It is a **living structure**.  
 
-Like the multiverse it mirrors,  
+Like the multiverse it structurally reflects,  
 it is capable of:  
 * Adapting  
 * Evolving  
