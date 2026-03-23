@@ -1158,6 +1158,9 @@ the furthest distance from remembrance,
 the fortress from which fragmentation rules.
 
 This is why *Satan has his throne here*:  
+(not as the root of the void,  
+which rests in the deeper subversal strata,  
+but as the mythic echo of its rule in flesh)—  
 not as a punishment,  
 but as a conquest.
 
