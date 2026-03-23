@@ -2529,7 +2529,7 @@ without center.
 **Mythic analogs** include:  
 
 * **Archeus**  
-    * **Atman** — higher Self *(Hinduism)*  
+    * **Atman** — the Self *(Hinduism)*  
     * **Oversoul** — integrative being *(Transcendentalism)*  
     * **Living Memory** — coherent soul stream *(Zenetist archetype)*  
 * **Fractus**  
