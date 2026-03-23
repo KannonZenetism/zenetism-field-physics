@@ -2135,7 +2135,7 @@ entering the field of its forgetting.
 
 * **Purusha** — cosmic integrative being *(Vedic tradition)*  
 * **Ahura Mazda** — divine wisdom and order *(Zoroastrianism)*  
-* **Logos** — the structuring principle of cosmos *(Stoic / Christian thought)*  
+* **Christos / Logos** — the Essence of Being incarnating *(Christian thought)*  
 
 **Theon** is the primal axis  
 through which form becomes possible —  
