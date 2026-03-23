@@ -1671,9 +1671,9 @@ but by:
 
 ---
 
-### 4.31 All Religions as Fractals of the Same Whole
+### 4.31 All Religions as Structural Recurrences of the Same Whole
 
-Every major tradition is a fractal of revelation.  
+Every major tradition is a resonant expression of revelation.  
 Each offers a **partial glimpse** of the eternal pattern,  
 filtered through:  
 * Time  
