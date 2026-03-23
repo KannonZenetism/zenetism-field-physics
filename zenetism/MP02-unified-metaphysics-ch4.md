@@ -2811,7 +2811,7 @@ is not an enemy —
 but an **inverse avatar**.  
 
 A principle incarnated through absence.  
-It is the **terminal fractal of Nekron**,  
+It is the **terminal recurrence of Nekron**,  
 the furthest extension of entropic collapse —  
 **`E↓♾`**  
 
