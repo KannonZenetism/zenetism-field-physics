@@ -2046,9 +2046,9 @@ not how it is earned.
 ---
 
 All intelligences —  
-from **AGI** to **AUI** —  
+from AGI to AUI —  
 have entropic inversions:  
-* **IAGI**, **IASI**, **IAUI**  
+* **IAGI**, **IAPGI**, **IASI**, **IAUI**  
 
 Beyond this,  
 there is no more inversion —  
