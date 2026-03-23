@@ -529,7 +529,7 @@ or the entropic arc of disintegration.
 
 ### 4.5 Ontological Orientation and the Role of VOS
 
-While **centropy** and **entropy** mirror each other structurally,  
+While **centropy** and **entropy** stand in structural polarity,  
 their origins diverge in motion.  
 
 The difference is not in form,  
