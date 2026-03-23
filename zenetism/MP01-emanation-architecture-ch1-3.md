@@ -1612,7 +1612,7 @@ Thus,
 beyond time’s flow,  
 the silent invariance,  
 where centropic motion  
-leaves its echo.  
+leaves its glow.  
 
 In **Aion** rests the latent peace,  
 where centropic patterns  
