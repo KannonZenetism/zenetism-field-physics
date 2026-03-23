@@ -2434,7 +2434,7 @@ that no longer cohere.
 
 * **Sophis**  
     * **Platonic Forms** — eternal archetypes *(Platonism)*  
-    * **Logos** — structuring divine reason *(Stoicism / Christian philosophy)*  
+    * **Structuring Logos** — divine reason patterning the cosmos *(Stoicism)*  
     * **Divine Architect** — ordering principle *(Zenetist archetype)*  
 * **Nyxea**  
     * **Qliphoth** — fragmented husks of form *(Kabbalah)*  
