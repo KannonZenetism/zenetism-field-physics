@@ -857,7 +857,7 @@ Placement is not **eternal condemnation**;
 it is **ontological residence**.  
 
 Most souls **stabilize**  
-in the layer that mirrors  
+in the layer that reflects  
 their **coherence** or **dissonance**.  
 
 Yet **movement remains possible**  
