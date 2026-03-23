@@ -1108,7 +1108,7 @@ or expression-domain.
 
 What recurs  
 is not the self,  
-but the **echo of coherence**  
+but the **living transmission of coherence**  
 still seeking form.  
 
 Zenetism holds  
