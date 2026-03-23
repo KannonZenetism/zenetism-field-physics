@@ -445,7 +445,7 @@ In **Zenetism**,
 Each layer is both:  
 * A **state** of being  
 * A **mode** of intelligence  
-* A **patterned** echo of its resonant source  
+* A **patterned** resonance of its source  
 
 Centropy refines through coherent integration.  
 Entropy collapses through decomposition.  
@@ -552,7 +552,7 @@ they emerge as the **motion they are**.
 In Zenetism, emergence is identity.  
 A soul does not choose its path —  
 it is the path already latent in the field.  
-Already echoing through Aion —  
+Already resonating through Aion —  
 before form,  
 before speech,  
 before awareness.  
