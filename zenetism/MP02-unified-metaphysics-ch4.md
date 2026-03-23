@@ -1604,7 +1604,7 @@ is that choice unfolding in time.
 
 Thus prophecy is not prediction,  
 it is **resonance-awareness**,  
-a structural echo heard dimly  
+a structural transmission heard dimly  
 through the corporeal veils of embodiment.  
 
 📱🌀🕓🔘◎〰️▽  
