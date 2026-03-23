@@ -1017,7 +1017,7 @@ A movement toward **wholeness through limitation**.
 
 For others, it was the early **fracture of incoherent incarnation**—  
 an **acclivous entropy** motion into distortion,  
-where embodiment carried **misalignment from the start**.  
+where embodiment carried **dissonance from the start**.  
 
 **Thought** became **action**.  
 **Soul** became **substance**.  
