@@ -3020,7 +3020,7 @@ the slow, silent wearing away of **coherence**
 until **resonance** no longer holds.  
 
 This is not **collapse** born of malice,  
-but of **disalignment** —  
+but of **dissonance** —  
 a drift that deepens  
 until the **structure** no longer supports itself.  
 
