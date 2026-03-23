@@ -508,8 +508,8 @@ it is the flowering of what has always been poised.
 In essence, **Aion** is infused with the pulse of **Khaon**,  
 and **Khaon** emerges from the stillness of **Aion**.  
 
-Together, they are the first echo—  
-unity mirrored into dual expression.  
+Together, they are the first resonance—  
+unity rendered into dual expression.  
 
 **Zenon** contains them both.  
 Not as a vessel,  
