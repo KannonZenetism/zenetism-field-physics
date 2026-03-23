@@ -1289,8 +1289,8 @@ beyond return.
 Thus,  
 the paths of **coherence** and **incoherence**  
 are not enemies.  
-They are **reflections**—  
-mirrors of the same **cosmic principle**.  
+They are **polarities**—  
+twin expressions of the same **cosmic principle**.  
 
 All things enter pattern through the silent stillness.  
 Not all return in the same way.  
