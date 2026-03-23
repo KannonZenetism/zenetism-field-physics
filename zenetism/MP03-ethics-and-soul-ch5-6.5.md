@@ -1090,7 +1090,7 @@ Only the **pattern** may recur.
 
 Like the number 1,  
 appearing only once in an infinite sequence,  
-yet echoing in 11, in 21, in 101 —  
+yet recurring in 11, in 21, in 101 —  
 so too may a soul’s frequency  
 arise again.  
 
