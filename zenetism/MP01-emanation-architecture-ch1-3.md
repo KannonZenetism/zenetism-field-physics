@@ -2655,7 +2655,7 @@ The other simulates it.
 ### 3.10 Anthra and Echthros — Superficial Soul / Inverse Superficial Soul
 
 **Anthra** and **Echthros**  
-are the mirrors of individuation —  
+are the twin currents of individuation —  
 not merely **personality**,  
 but the **soul-in-motion**  
 through embodiment.  
