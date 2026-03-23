@@ -697,7 +697,7 @@ to that which sustains:
 - **Remembrance**  
 - **Resonant coherence**  
 
-This echoes the sacred archetype:  
+This resonates with the sacred archetype:  
 
 > I will put  
 > My laws  
