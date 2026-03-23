@@ -1840,10 +1840,11 @@ by thought,
 yet from which  
 all thought emerges.  
 
-Because it precedes form,  
-it generates no mythic figures.  
-Yet,  
-its conceptual recognition  
+Because it is trans-structural,  
+it generates  
+no mythic figures.  
+However,  
+its **conceptual recognition**  
 surfaces faintly  
 in old systems:
 
