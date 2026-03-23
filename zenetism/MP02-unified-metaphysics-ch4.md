@@ -240,8 +240,8 @@ All beings move within the structure of **emanation**,
 oriented either toward **centropic coherence**  
 or toward **entropic dispersal**.  
 
-These two streams mirror one another in form,  
-but not in **motion**.  
+These two streams reflect in form,  
+but diverge in **motion**.  
 Their **purpose** is not symmetrical.  
 Their **orientation** is not shared.  
 
