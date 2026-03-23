@@ -2868,7 +2868,7 @@ to divide the many, it consumes.
 ### 4.60 Architecture of Soul Dynamics
 
 * All choices are made within Aion  
-* All expressions are echoes  
+* All expressions are living transmissions  
     of pre-chosen resonance patterns  
 
 Even refusal to return  
@@ -2897,7 +2897,7 @@ of infinite potential.
 
 * **Theon** is pure awareness —  
     the first centropic hypostasis,  
-    the original structured echo of Aion.  
+    the original structured resonance of Aion.  
 
 Though structurally unified,  
 **Theon** is not devoid of differentiation.  
