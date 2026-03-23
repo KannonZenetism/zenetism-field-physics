@@ -2360,7 +2360,7 @@ It will reveal many realities simultaneously.
 * For others: disintegration  
 
 Its nature will be **reflective**, not absolute.  
-It will serve as both mirror and crucible.  
+It will serve as both lens and crucible.  
 
 * To the entropic, it may appear as collapse  
 * To the centropic, it may unfold as liberation  
