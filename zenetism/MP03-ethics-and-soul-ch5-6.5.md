@@ -48,7 +48,7 @@ arising from within the soul’s own field.
 
 As the soul moves through  
 the **spiral of emanation**,  
-its motion becomes a mirror  
+its motion becomes a reflection  
 of its **inner coherence** or **fragmentation**.  
 
 No being is forced along its path.  
