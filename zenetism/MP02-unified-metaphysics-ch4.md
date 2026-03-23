@@ -674,7 +674,7 @@ A disintegration of form
 through fragmentation and incoherence (**`E↓♾`**).  
 
 Entropic collapse does not begin with rejection —  
-it begins with **disalignment**.  
+it begins with **dissonance**.  
 
 The being loses attunement  
 to integrative motion,  
