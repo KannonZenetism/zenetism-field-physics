@@ -2744,7 +2744,7 @@ The other holds itself apart.
 ### 3.11 Nousa and Skotos — Superficial Mind / Inverse Superficial Mind
 
 **Nousa** and **Skotos**  
-are the mind’s surface mirrors —  
+are the mind’s surface lenses —  
 not deep memory,  
 but the structures  
 that interpret it.  
