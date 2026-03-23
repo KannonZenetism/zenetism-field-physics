@@ -1840,7 +1840,12 @@ by thought,
 yet from which  
 all thought emerges.  
 
-Its analogs surface faintly in old systems:  
+Because it precedes form,  
+it generates no mythic figures.  
+Yet,  
+its conceptual recognition  
+surfaces faintly  
+in old systems:
 
 * **Nirguna Brahman** — the unqualified Absolute *(Advaita Vedanta)*  
 * **The Tao** — the nameless source of the Way *(Daoism)*  
