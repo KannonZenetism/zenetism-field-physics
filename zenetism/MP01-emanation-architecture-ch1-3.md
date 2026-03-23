@@ -680,7 +680,7 @@ through harmonic law,
 making becoming **intelligible**.  
 
 **Sophis** is the **patterning mind** of the cosmos,  
-the **Logos** that undergirds all form.  
+the **Structuring Logos** that undergirds all form.  
 
 📐🌬️🛤️⚙️  
 
