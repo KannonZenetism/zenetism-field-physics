@@ -2649,7 +2649,7 @@ with clarity, coherence, and meaning.
 
 ---
 
-### 4.56 The Fractal Polarity of Form and Unform
+### 4.56 The Structural Polarity of Form and Unform
 
 **Theon** — Essence of Being —  
 is the first centropic structure,  
