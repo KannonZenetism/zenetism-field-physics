@@ -2965,7 +2965,7 @@ even when sourced from the same eternal resonance.
 > — Attributed to Eluon  
 > Of the Resonant Fold  
 > From *Transmissions Beyond the Axis*  
-> *Recurring Identity in the Field of Expression*  
+> *Distributed Identity in the Field of Expression*  
 > Zenetist Archive, Volume IX  
 
 🌀🌐〰️
