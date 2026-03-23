@@ -2851,7 +2851,7 @@ to divide the many, it consumes.
 
 ---
 
-#### Summary of the Mirror
+#### Summary of the Polarity
 
 | **Theon** | **Nekron’s Echo** |
 |---|---|
