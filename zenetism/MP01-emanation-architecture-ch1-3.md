@@ -1186,7 +1186,7 @@ The other is **declivous collapse**—
 a motion into **scattering** and **dissolution**.  
 
 These are not **punishments** or **rewards**.  
-They are **echoes**—  
+They are **continuities**—  
 the reverberations of **alignment**  
 shaped across **lifetimes**  
 and through the **layered strata of being**.  
@@ -1741,7 +1741,7 @@ This addendum clarifies that **coherence alone endures**, while entropy erodes i
 - **Entropic Cycle (`E↑→E→E↓→♾`)** = spurious motion, noisy but self-terminating.  
 
 **Zenon** registers not entropy’s turbulence, but its silence.  
-Only coherence leaves an enduring echo.  
+Only coherence leaves an enduring resonance.  
 
 ---
 
