@@ -3012,7 +3012,7 @@ unbound from structure.
     * **Cognitive Agency** — intention in motion *(Zenetist archetype)*  
 * **Mania**  
     * **Mania** — divine frenzy of the mind, thought unmoored from measure *(Greek philosophical motif)*  
-    * **Mad Demiurge** — power without coherence *(Gnostic tradition)*  
+    * **Babel** — the collapse of collective cognitive coherence *(Hebrew mythic motif)*  
     * **Cognitive Dissonance** — splintered reasoning *(Zenetist / Modern psychology)*  
 
 **Biosa** grounds **cognition**  
