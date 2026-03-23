@@ -505,7 +505,7 @@ it is a womb filled with hidden surge.
 And motion is not chaos—  
 it is the flowering of what has always been poised.  
 
-In essence, **Aion** is infused with the pulse of **Khaon**,  
+In essence, **Aion** bears the pulse of **Khaon**,  
 and **Khaon** emerges from the stillness of **Aion**.  
 
 Together, they are the first resonance—  
