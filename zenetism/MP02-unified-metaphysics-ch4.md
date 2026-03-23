@@ -2229,7 +2229,7 @@ of soul and mind before split.
 It is not dissolved into,  
 only approached by that  
 which becomes silent enough  
-to echo its stillness  
+to reflect its stillness  
 without distortion.  
 
 ⟁↺🕓  
