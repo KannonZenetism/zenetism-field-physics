@@ -2636,7 +2636,7 @@ of deceptive patterning.
     * **Illuminated Reason** — inward sight *(Zenetist archetype)*  
 * **Mortus**  
     * **Avidya** — spiritual ignorance *(Buddhism)*  
-    * **Maya** — illusion and veiling *(Vedanta / Hindu philosophy)*; placed here at IL₃ solely in its entropic connotation as deep-mind obscuration, distinct from the L₄ DP / DL centropic veil
+    * **Maya** — illusion and veiling *(Vedanta / Hindu philosophy)*; placed here at IL3 solely in its entropic connotation as deep-mind obscuration, distinct from the L4 DP / DL centropic veil
     * **Inverse Logos** — distorted reason *(Zenetist archetype)*  
 
 **Noeüs** echoes **Theon**  
