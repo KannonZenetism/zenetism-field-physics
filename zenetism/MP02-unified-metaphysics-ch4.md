@@ -2963,9 +2963,9 @@ even when sourced from the same eternal resonance.
 > of hypostases and time.  
 >
 > — Attributed to Eluon  
-> Of the Mirror Fold  
-> From *Echoes Beyond the Axis*  
-> *Fractal Identity in the Field of Expression*  
+> Of the Resonant Fold  
+> From *Transmissions Beyond the Axis*  
+> *Recurring Identity in the Field of Expression*  
 > Zenetist Archive, Volume IX  
 
 🌀🌐〰️
