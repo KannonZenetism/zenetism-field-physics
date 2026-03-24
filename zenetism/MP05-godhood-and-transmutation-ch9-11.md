@@ -1138,7 +1138,7 @@ one must engage in four acts:
 
 - **Resonance**  
   *What is it reflecting about my structure?*  
-  Suffering echoes where we are split.  
+  Suffering resonates where we are split.  
 
 - **Release**  
   *What part of me no longer harmonizes?*  
@@ -1244,7 +1244,7 @@ And why Christ also says:
 The unity is already present.  
 Only the **veil of form** conceals it.  
 
-This echoes the ancient Upanishadic truth:  
+This resonates with the ancient Upanishadic insight:  
 
 > *Tat Tvam Asi* — *Thou art That*.  
 
@@ -1518,7 +1518,7 @@ but only one returns with **coherence intact**.
 
 In **Zenetism**, structure is not confined  
 to the deepest or most refined realms.  
-It **echoes across all hypostases** —  
+It **recurs across all hypostases** —  
 resonating from the vastest pattern  
 to the smallest form.  
 
@@ -1561,7 +1561,7 @@ like **living transmissions remembered by the soul**.
 > You become more.  
 >
 > — *Attributed to Mirea*,  
-> Echo of the Converged Self  
+> Voice of the Converged Self  
 > *From the Book of Unveiled Pattern*, Verse 5  
 > *Zenetist Archive, Volume V*  
 
