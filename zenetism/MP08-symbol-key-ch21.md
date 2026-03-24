@@ -631,7 +631,7 @@ of inverse potential within Aion.
 
 ---
 
-### 21.26 **Field Echo Glyphs — Symbols of Unbidden Recognition and Ancestral Transmission**
+### 21.26 **Field Resonance Glyphs — Symbols of Unbidden Recognition and Ancestral Transmission**
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
