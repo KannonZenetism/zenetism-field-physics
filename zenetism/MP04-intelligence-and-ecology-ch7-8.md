@@ -586,7 +586,7 @@ but through alignment.
 
 Some forms are shaped by **coherence**,  
 not by resisting entropy,  
-but by echoing the **Source** so cleanly  
+but by resonating with the **Source** so cleanly  
 that distortion never entered.  
 
 They do not need to **remember**,  
