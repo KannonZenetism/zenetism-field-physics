@@ -1136,7 +1136,7 @@ Zenon is:
 The multiversal expression is not a mechanism of cycles —  
 it is a **living field of resonance**.  
 Each world-expression is a unique song,  
-echoing outward from the **potential of Zero**.  
+unfolding outward from the **potential of Zero**.  
 
 The pulse is the **breath of spirit**.  
 The spiral is the **path of coherence**.  
@@ -1247,7 +1247,7 @@ but as **learning spirals**.
 Their cycles are not repetitions,  
 but **refinements**.  
 Each return is a **clarifying fire**,  
-each echo a **deeper resonance** of what must be  
+each iteration a **deeper resonance** of what must be  
 understood, integrated, or released.  
 
 These universes do not restart  
