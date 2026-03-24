@@ -889,7 +889,7 @@ of the greater Pattern.
 A planetary field of conscious-awareness,  
 reflecting the deeper dynamics of soul, mind, and form.  
 
-Tectonic shifts mirror the Deep Soul,  
+Tectonic shifts structurally reflect the Deep Soul,  
 reconfiguring its hidden strata.  
 The seasons express the cycle of embodiment,  
 release, and return.  
