@@ -527,7 +527,7 @@ of inverse potential within Aion.
 | ᛞ | **Mirror** | Symbol of reflective structure within awareness and being; not merely visual or perceptual reflection, but the duplication or inversion of pattern. Khaonic by nature — originates no signal of its own. When wielded by L₃ DM (🧠 Noeüs) for self-knowledge, it becomes the basis of Living Reflection; when exploited without discernment, it becomes the primary vector for mimicry and shimmer |
 | 〰️ | **Resonant Trace** | The wave or arc left behind by structural motion; an imprint of coherence or dissonance persisting through time or thought; commonly used for myths, divine speech, or repeating patterns |
 | 🫂 | **Kin** | Relational resonance; unity through shared origin rather than sameness |
-| 🔯 | **Zenetist Seal** | Sixfold glyph of harmonic unfolding; represents the union of the Aionic and Khaonic Trees, centropy and entropy in mirrored balance; symbol of structural attunement, dual motion, and the convergence of supernal and subversal forces |
+| 🔯 | **Zenetist Seal** | Sixfold glyph of harmonic unfolding; represents the union of the Aionic and Khaonic Trees, centropy and entropy in reciprocal balance; symbol of structural attunement, dual motion, and the convergence of supernal and subversal forces |
 
 ---
 
