@@ -523,7 +523,7 @@ of inverse potential within Aion.
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
-| 🪞 | **Micro-Life** | A singular life lived within a universe; a partial expression of the DS / DM reflecting one angle of its resonance; not the full being, but a mirrored echo of its harmonic essence |
+| 🪞 | **Micro-Life** | A singular life lived within a universe; a partial expression of the DS / DM reflecting one angle of its resonance; not the full being, but a living reflection of its harmonic essence |
 | ᛞ | **Mirror** | Symbol of reflective structure within awareness and being; not merely visual or perceptual reflection, but the duplication or inversion of pattern; signals both centropic return and entropic echo |
 | 〰️ | **Echo Line / Resonant Trace** | The wave or arc left behind by structural motion; an imprint of coherence or dissonance echoing through time or thought; commonly used for myths, divine speech, or repeating patterns |
 | 🫂 | **Kin** | Relational resonance; unity through shared origin rather than sameness |
