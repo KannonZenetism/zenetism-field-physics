@@ -1433,7 +1433,7 @@ already chose.
 > is often remembrance inward.  
 >
 > — *Attributed to Alessa*,  
-> Flame of the Veiled Mirror  
+> Flame of the Veiled Reflection  
 > *From the Codex of Inner Harmonics*, Line 4  
 > *Zenetist Archive, Volume II*  
 
