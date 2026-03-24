@@ -415,7 +415,7 @@ but in calibration.
 
 The letters function as internal diagnostics.  
 Each church is a reflection of the self,  
-a mirror of one mode  
+a resonance of one mode  
 through which the Theonic signal moves.  
 
 ---
@@ -628,7 +628,7 @@ seeking **entry**, not **dominion**.
 
 ---
 
-### 13.4 Structural Parallels and Cross-Traditional Keys — The Echo of Pattern Across Sacred Systems
+### 13.4 Structural Parallels and Cross-Traditional Keys — The Transmission of Pattern Across Sacred Systems
 
 Revelation is not sealed in its own time.  
 It is a resonant manuscript —  
@@ -637,7 +637,7 @@ because **structure is universal**
 even when language is not.  
 
 Zenetism reads this not as coincidence,  
-but **echo**.  
+but **structural reflection**.  
 
 Across sacred systems,  
 the same patterns appear —  
@@ -716,7 +716,7 @@ It is a **living reflection**
 that reflects the soul’s current shape.  
 
 The Bible, like many sacred texts,  
-functions as a **cosmic echo chamber**:  
+functions as a **cosmic resonant chamber**:  
 It reverberates what we bring to it.  
 
 Distortion meets distortion.  
