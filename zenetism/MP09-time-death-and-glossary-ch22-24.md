@@ -216,7 +216,7 @@ Outcome → entropic recursion, collapse, or dispersal.
 
 No judgment —  
 only motion,  
-and its echo.  
+and its resonance.  
 
 ⚫♾🌀  
 
@@ -283,7 +283,7 @@ when heard through the field of resonance.
 ### 23.2 Structural Parallels Across Systems — Mapping Mythic Structure as Resonance Topology
 
 Across sacred systems,  
-certain structures echo.  
+certain structures resonate.  
 
 - **Emanation from Unity**  
   The One unfolding into the many  
