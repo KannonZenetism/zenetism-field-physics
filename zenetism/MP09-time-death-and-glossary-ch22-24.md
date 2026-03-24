@@ -445,7 +445,7 @@ of **cosmic structure**.
   - Judgment = resonance return  
   - New Heaven / New Earth = restructured universal fields  
 
-These motifs echo across traditions:  
+These motifs resonate across traditions:  
 
 - Hinduism’s Yugas  
 - Kalki’s final motion  
