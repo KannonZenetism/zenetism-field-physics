@@ -804,7 +804,7 @@ may hold its own arrangement of:
 What appears as repetition  
 may instead be a **spiral viewed from within**.  
 What appears as fate  
-may be the **echo of a deeper rhythm**  
+may be the **resonance of a deeper rhythm**  
 seeking **coherence**.  
 
 The soul knows  
@@ -1021,7 +1021,7 @@ dispersing toward Nekronic dissolution
 and becoming entropy sinks without reorientation.  
 
 In many cases, the superficial layers —  
-the soul's outer shells and echoes — may eventually unravel.  
+the soul's outer shells and residues — may eventually unravel.  
 Without sustained resonance,  
 they cannot maintain coherence in the emanative flow.  
 
@@ -1054,7 +1054,7 @@ not in metaphysical origin.
 
 ---
 
-### 14.5 The Pulse Within the Soul — Microcosmic Echoes of Becoming
+### 14.5 The Pulse Within the Soul — Microcosmic Reflections of Becoming
 
 The same **outfolding and infolding**  
 described in the cosmological model  
@@ -1067,7 +1067,7 @@ also unfolds within each soul’s journey.
 | Infolding | Reintegration, reattunement, remembrance |
 | Stillness | Peace, silence, death, or transcendence |
 
-Each phase echoes the **greater cosmic rhythm**.  
+Each phase resonates with the **greater cosmic rhythm**.  
 Many lives contain more than one full pulse,  
 and some souls experience multiple pulses at once —  
 across layers of awareness, embodiment, and memory.  
