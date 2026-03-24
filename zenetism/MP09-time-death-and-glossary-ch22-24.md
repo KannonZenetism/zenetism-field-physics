@@ -344,7 +344,8 @@ depending on its active role and tone.
 **Resonance, not name, determines placement.**
 
 For example:  
-- Lucifer as Light-Bearer may align with DS / DM (reflecting a pre-Fall origin and supernal structural capacity, not his subversal operative function).  
+- Lucifer as Light-Bearer may align with DS / DM  
+  (reflecting a pre-Fall origin and supernal structural capacity, not his subversal operative function).  
 - Lucifer as Divider may reflect IDS / IDM or IDP / IDL.  
 
 A war deity may align with DS / DM when harmonized,  
@@ -402,14 +403,14 @@ arising from the structure of being.
   - Shukra (Hindu)  
   *Illumination of the soul — archetypal dawn*  
 
-- **The Logos (Theonic Resonance)**  
-  - Johannine Christ (Christian)  
+- **The Logos (Theonic Resonance)**  
+  - Johannine Christ (Christian)  
   *Mapping to L5 (Essence of Being): The integrating resonance and Pure Being.*  
 
-- **The Logos (Archetypal Structure)**  
-  - Heraclitus’ Logos (Greek)  
-  - Dharma (Buddhist / Hindu)  
-  *Mapping to L4 (DP / DL): The structuring laws and archetypal logic of form.*
+- **The Logos (Archetypal Structure)**  
+  - Heraclitus’ Logos (Greek)  
+  - Dharma (Buddhist / Hindu)  
+  *Mapping to L4 (DP / DL): The structuring laws and archetypal logic of form.*  
 
 - **The Cosmic Tree**  
   - Yggdrasil (Norse)  
