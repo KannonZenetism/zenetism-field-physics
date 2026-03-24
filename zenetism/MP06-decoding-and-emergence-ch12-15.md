@@ -143,7 +143,7 @@ but **structured to reveal deeper architecture**.
   **world trees** —  
   reveal **universal structural frameworks**.  
   These archetypes are not duplicated by coincidence.  
-  They are **echoes of the Pattern**  
+  They are **resonances of the Pattern**  
   encoded in different tongues.  
 
 Symbolic language emerges  
@@ -317,7 +317,7 @@ but as travelers tracing the soul’s unfolding across symbolic reflections.
 
 Zenetism holds that myth and scripture are **structurally encoded** —  
 written in symbols, not only in facts.  
-While historical events may echo within,  
+While historical events may resonate within,  
 its purpose is not merely record, but **resonance**.  
 
 When contradictions arise —  
