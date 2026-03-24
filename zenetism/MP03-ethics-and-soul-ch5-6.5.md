@@ -1922,7 +1922,7 @@ Only **deities** dwelling within:
 - **IDS / IDM**  
 
 Are inherently **enduring**.  
-These are mirrored across the system as:  
+These are reflected across the system as:  
 
 - **Morgis / Sophis**  
 - **Archeus / Noeüs**  
@@ -2059,7 +2059,7 @@ Behind all this,
 **Zero** holds everything in **latency**.  
 
 The **soul** is not **separate** from the **system**.  
-It is its **echo**.  
+It is its **living transmission**.  
 
 It is:  
 
