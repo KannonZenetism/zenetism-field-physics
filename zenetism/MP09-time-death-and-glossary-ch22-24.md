@@ -344,10 +344,13 @@ depending on its active role and tone.
 **Resonance, not name, determines placement.**
 
 For example:  
-- Lucifer as Light-Bearer may align with DS / DM  
-  (reflecting a pre-Fall origin and supernal structural capacity,  
-  not his subversal operative function).  
-- Lucifer as Divider may reflect IDS / IDM or IDP / IDL.  
+- Lucifer as Light-Bearer reflects a pre-Fall origin —  
+  the structural capacity he possessed before inversion,  
+  not his subversal operative function.  
+  His canonical placement is IDP / IDL (Psychea / Nyxea)  
+  with an IDS / IDM (Fractus / Mortus) cascade.  
+- Lucifer as Divider operates across these inverse layers,  
+  architecting fragmentation and mimicry.  
 
 A war deity may align with DS / DM when harmonized,  
 or ISS / ISM when distorted toward domination.  
