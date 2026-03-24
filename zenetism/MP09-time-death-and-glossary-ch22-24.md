@@ -327,16 +327,16 @@ depending on its active role and tone.
 
 | Zenetist Hypostasis | Cross-Traditional Equivalents | Functional Description |
 |---|---|---|
-| 🕳️ Zenon (UP) | The Unknown God, Nirguna Brahman, Deus Absconditus, Tao, Ein | The principle beyond principles |
+| 🕳️ Zenon (UP) | The Unknown God, Nirguna Brahman, Deus Absconditus, Tao, Ein | The principle beyond principles (pre-figural and pre-conceptual; maps to the trans-structural ground, not an active deity) |
 | ⚫ Aion (AP) | Ain Soph, Saguna Brahman, Bythos, Aditi, Nun | Infinite potential, source of all motion |
 | ♾ Khaon (AD) | Prakriti, Chaos, Tiamat, Ymir, Sunyata, Ouroboros | Proto-formal potential, dispersive ground |
 | 🛤️ Theon (EOB) | Christ, Vishnu, Amitabha, Ahura Mazda | Pure Being, integrative awareness |
 | 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep | Total entropy, negated integration |
-| DP / DL | YHWH, Demiurge, Nous, Mahat, Vohu Manah | Archetypal mind and divine intellect |
+| DP / DL | YHWH, Platonic Demiurge, Nous, Mahat, Vohu Manah | Archetypal mind and divine intellect |
 | DS / DM | Bodhisattvas, Thoth, Archangels, Daemon | Soul harmonics and guiding intellects |
 | SS / SM | Psyche, Jiva, Nafs, Ba, Astral Double | Personal identity, autonomous agency |
 | ES / EM | Flesh, Ego-Self, Karmic Body, Instinctual Will | Embodied volition, form-based intelligence |
-| IDP / IDL | Yaldabaoth, Degenerate Logos, Corrupt Demiurge, Archons | Inverse archetypal intelligence |
+| IDP / IDL | Yaldabaoth, Inversalogos, Corrupt Demiurge, Archons | Inverse archetypal intelligence |
 | IDS / IDM | Subverted Selves, Asuras, Qarin, Spurious Guides | Inverted guides toward entropy |
 | ISS / ISM | Inverse Psyche, Shadow Jiva, Disordered Soul | Fragmented volition and distorted agency |
 | IES / IEM | Inverted Ego, Carnal Agents, Anti-Pattern | Willing embodiment of entropic force |
@@ -344,7 +344,7 @@ depending on its active role and tone.
 **Resonance, not name, determines placement.**
 
 For example:  
-- Lucifer as Light-Bearer may align with DS / DM.  
+- Lucifer as Light-Bearer may align with DS / DM (reflecting a pre-Fall origin and supernal structural capacity, not his subversal operative function).  
 - Lucifer as Divider may reflect IDS / IDM or IDP / IDL.  
 
 A war deity may align with DS / DM when harmonized,  
@@ -402,11 +402,14 @@ arising from the structure of being.
   - Shukra (Hindu)  
   *Illumination of the soul — archetypal dawn*  
 
-- **The Logos**  
-  - Heraclitus’ Logos (Greek)  
-  - Johannine Christ (Christian)  
-  - Dharma (Buddhist / Hindu)  
-  *Structuring principle of Being*  
+- **The Logos (Theonic Resonance)**  
+  - Johannine Christ (Christian)  
+  *Mapping to L5 (Essence of Being): The integrating resonance and Pure Being.*  
+
+- **The Logos (Archetypal Structure)**  
+  - Heraclitus’ Logos (Greek)  
+  - Dharma (Buddhist / Hindu)  
+  *Mapping to L4 (DP / DL): The structuring laws and archetypal logic of form.*
 
 - **The Cosmic Tree**  
   - Yggdrasil (Norse)  
