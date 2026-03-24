@@ -404,13 +404,15 @@ arising from the structure of being.
   *Illumination of the soul — archetypal dawn*  
 
 - **The Logos (Theonic Resonance)**  
-  - Johannine Christ (Christian)  
-  *Mapping to L5 (Essence of Being): The integrating resonance and Pure Being.*  
+  - Johannine Christ (Christian)  
+  - L5 Theon (Zenetist)
+  *The integrating resonance and Pure Being*  
 
 - **The Logos (Archetypal Structure)**  
-  - Heraclitus’ Logos (Greek)  
-  - Dharma (Buddhist / Hindu)  
-  *Mapping to L4 (DP / DL): The structuring laws and archetypal logic of form.*  
+  - Heraclitus' Logos (Greek)  
+  - Dharma (Buddhist / Hindu)  
+  - L4 Sophis (Zenetist)
+  *The structuring laws and archetypal logic of form*  
 
 - **The Cosmic Tree**  
   - Yggdrasil (Norse)  
@@ -427,7 +429,7 @@ arising from the structure of being.
 - **Serpents**  
   - Kundalini (Hindu / Yogic, centropic)  
   - Nachash of Eden (Hebrew / Biblical, inverse)  
-  - Ouroboros (Alchemical, cyclical time)  
+  - Ouroboros (Alchemical, cyclical time)
 
 These symbols reappear  
 because they emerge from **structure itself**.  
