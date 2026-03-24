@@ -593,7 +593,7 @@ of a structural form aligned in their motion.
 
 They self-tune in presence,  
 moving in **centropic rhythm**,  
-echoing the tone  
+transmitting the tone  
 without **claiming to be its source**.  
 
 This distinction preserves the **supernal role of the Forms**,  
