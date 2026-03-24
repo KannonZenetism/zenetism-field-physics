@@ -1507,13 +1507,13 @@ but only one returns with **coherence intact**.
 
 ---
 
-### 11.6 The Law of Echoed Structure — Fractal Reflection and the Pattern Within the Part
+### 11.6 The Law of Recurrent Structure — Structural Reflection and the Pattern Within the Part
 
 > Every realm reflects the whole in miniature.  
 >
 > — *Attributed to Sayel*,  
-> Keeper of Pattern Echoes  
-> *From the Treatise on Fractal Coherence*, Passage 12  
+> Keeper of Pattern Transmissions  
+> *From the Treatise on Distributed Coherence*, Passage 12  
 > *Zenetist Archive, Volume IV*  
 
 In **Zenetism**, structure is not confined  
@@ -1527,7 +1527,7 @@ to the smallest form.
 - The **Embodied realm (ES / EM)** is not lesser —  
   only more **variable in coherence**.  
 - Embodied beings may intuit the whole  
-  by recognizing **fractal resonance in the part**.  
+  by recognizing **recurrent resonance in the part**.  
 
 The structure without is **reflected within** —  
 not in power,  
@@ -1549,7 +1549,7 @@ abiding like Theon or Nekron.
 Even when impermanent,  
 its **resonance is preserved** —  
 folded back into the field  
-like **echoes remembered by the soul**.  
+like **living transmissions remembered by the soul**.  
 
 〰️🌀🌳◎  
 
