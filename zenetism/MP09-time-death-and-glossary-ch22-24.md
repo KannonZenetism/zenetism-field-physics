@@ -336,7 +336,7 @@ depending on its active role and tone.
 | DS / DM | Bodhisattvas, Thoth, Archangels, Daemon | Soul harmonics and guiding intellects |
 | SS / SM | Psyche, Jiva, Nafs, Ba, Astral Double | Personal identity, autonomous agency |
 | ES / EM | Flesh, Ego-Self, Karmic Body, Instinctual Will | Embodied volition, form-based intelligence |
-| IDP / IDL | Yaldabaoth, Inversalogos, Corrupt Demiurge, Archons | Inverse archetypal intelligence |
+| IDP / IDL | Yaldabaoth, Degenerate Logos, Corrupt Demiurge, Archons | Inverse archetypal intelligence |
 | IDS / IDM | Subverted Selves, Asuras, Qarin, Spurious Guides | Inverted guides toward entropy |
 | ISS / ISM | Inverse Psyche, Shadow Jiva, Disordered Soul | Fragmented volition and distorted agency |
 | IES / IEM | Inverted Ego, Carnal Agents, Anti-Pattern | Willing embodiment of entropic force |
