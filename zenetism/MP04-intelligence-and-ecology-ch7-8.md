@@ -387,14 +387,14 @@ and may anchor **stability** in ways that exceed conscious awareness.
 
 **Elementals** and **natural spirits** are energetic formations,  
 bonded to local fields, ecologies, or principles.  
-While some may not mirror soul-structure in the human form,  
+While some may not reflect soul-structure in the human form,  
 all resonate with **structural harmony**.  
 
 They are not imagined mythologies,  
 but **coherent functions** within the **field of becoming**.  
 
 Nature is not separate from the soul’s journey—  
-it is one of its **mirrors**.  
+it is one of its **resonances**.  
 The forms it holds are not bound to what is seen or understood.  
 
 It is possible that animals, spirits, and entire ecosystems  
