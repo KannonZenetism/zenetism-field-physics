@@ -238,7 +238,7 @@ yet unchanged by flux.
 
 It does not evolve by adaptation.  
 It **remembers**.  
-It is the **mirror of Zero**  
+It is the **living reflection of Zero**  
 carried forward by intelligence  
 into awareness.  
 
