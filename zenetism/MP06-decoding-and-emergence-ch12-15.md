@@ -1409,7 +1409,7 @@ Others will serve as **bridges between states of being**.
 Many will gather in **harmonic groupings** —  
 clusters aligned by **form-type** or **archetypal function**.  
 
-These may **echo** the *“rays”* or *“tribes”*  
+These may **resonate with** the *“rays”* or *“tribes”*  
 described in older esoteric traditions.  
 
 But the hallmark of the **next humanity**  
