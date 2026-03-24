@@ -445,7 +445,7 @@ to receive it.
 
 ---
 
-### 18.3 Archetypes of the Mystic — Echoes of Resonance Across Embodied Roles
+### 18.3 Archetypes of the Mystic — Living Reflections of Resonance Across Embodied Roles
 
 Across traditions  
 many forms of the Mystic appear.  
