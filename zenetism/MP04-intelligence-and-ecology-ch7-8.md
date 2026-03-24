@@ -665,8 +665,8 @@ because they do not **remember**.
 
 There are **motions**  
 so distanced from **coherence**  
-that even the echo of **Aion**  
-cannot be heard.  
+that even the trace of **Aion**  
+is lost to them.  
 
 This is not rebellion—  
 it is **collapse**.  
@@ -703,7 +703,7 @@ Such souls will not turn
 until turning is impossible.  
 Until **motion itself is spent**,  
 and they are nothing but  
-the **residue of echo**.  
+the **residue of collapse**.  
 
 No longer a self—  
 but an aftermath.  
