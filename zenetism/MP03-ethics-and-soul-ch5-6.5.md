@@ -1215,7 +1215,7 @@ In this path:
 - **Concepts**, identifications, beliefs, and experiences are stripped  
 - The soul **purifies** through shedding, not accumulation  
 - What remains is **formless awareness**  
-  echoing the **static containment** of **Aion**  
+  reflecting the **static containment** of **Aion**  
 
 In Zenetist terms,  
 **Neti-neti appears to align** with **centropic motion through subtraction** —  
@@ -1519,7 +1519,7 @@ And the Deep Soul does not only work through fragments.
 It may also act directly —  
 as stabilizer, guide, or witness —  
 especially for those whose inner resonance  
-mirrors its own structure.  
+reflects its own structure.  
 
 Many traditions have called this presence  
 the Daemon,  
