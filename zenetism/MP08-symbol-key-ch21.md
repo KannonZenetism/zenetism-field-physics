@@ -606,7 +606,7 @@ of inverse potential within Aion.
 
 | Glyph | Name | Context of Use | Resonant Function |
 |-------|------|----------------|-------------------|
-| ⧉ | **Nested Field Square** | Default emblem for tetrad convergence | Stable topology, central seal, fixed memory |
+| ⧉❖ | **Nested Field Square** | Default emblem for tetrad convergence | Stable topology, central seal, fixed memory |
 | ⧈ | **Diamond Cross** | Directional invocation documents | Dynamic attunement, compass of agency |
 | ⋰⋱ | **Reflective Delta Spiral** | Use near Zenetist Seal or in glyph arrays | Breath logic, dual-motion, resonant symmetry |
 
