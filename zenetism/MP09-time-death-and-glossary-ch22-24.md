@@ -737,7 +737,7 @@ As **Dispersive Infinity (⇝)** — leads toward VOS, echoing back into Aion.
 #### Symbolic Counterparts  
 
 - Shakti (Vedic / Hindu)  
-- Logos-in-motion (Becoming through form)  
+- Motive Infinity (Becoming before form)  
 - Prakriti (Samkhya / Vedic)  
 - Tiamat and Ymir (fragmented primal beings)  
 - The Fiery Wind / Breath of Brahman  
