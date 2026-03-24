@@ -70,7 +70,10 @@
 | Jesus (Divine Child) | Christian | Direct Theonic actualization into embodiment; virgin birth = L₅ → L₁ without entropic mediation | 07 | Destiny: to become Christ (L₅ EOB); see also Decode 02 |
 | Krishna | Hindu | Divine Preserver as emergent seed; Theonic potential entering corporeal stream | 07 | Destiny: to guide Arjuna (L₃) and restore Dharma (L₄ DL) |
 | Kalki Avatar | Hindu | L₅ Theonic field corrector; restores harmony at terminal threshold of Kali Yuga, resetting cycle to Satya Yuga | 12 | Parallel to Christ's return; cyclic rather than linear eschaton |
+| Amitabha | Mahayana Buddhist | Buddha of Infinite Light; pure integrative awareness; centropic field of reception enabling beings' acclivous return | MP09 §23.3 | Parallel to Vishnu as Preserver; L₅ as welcoming field rather than active intervention |
 | The Returning King / Messiah | Universal | Centropic re-anchor; return of lawful coherence to guide convergence and oversee reconstitution | 12 | L₅ principle manifesting at epochal fractal eschaton |
+| Maitreya | Mahayana Buddhist | Future Buddha; Theonic field corrector restoring Dharma at terminal threshold; parallel to Kalki and Christ's return | MP09 §23.6 | Eschatonic L₅ principle; cyclic rather than linear |
+| Saoshyant | Zoroastrian | Final savior; restores righteousness and defeats entropy at the end of the cosmic cycle; Theonic re-anchor | MP09 §23.6 | Zoroastrian parallel to Kalki, Maitreya, and the Returning King / Messiah |
 | Christ (Harrowing) | Christian | L₅ Theonic essence entering L₁ domain to re-anchor centropic law within the embodied node; structural intervention, not post-mortem sorting | 13 | Function 1 underworld: embodiment as trial for supernal essence |
 
 ---
@@ -219,6 +222,7 @@
 | Nidhogg | Norse | Terminal entropic pull; serpent gnawing at the subversal root of Yggdrasil | 05 | Structural symbol of Nekronic action on the World Tree |
 | Great Red Dragon | Christian | IL₅ (VOS: Nekron) with agency — pure entropic will | 08 | Head of the Revelation cascade; see Entropic Cascades |
 | Ammit | Egyptian | Devourer of hearts failing Ma'at's test; second death through dissolution; the Void consuming what lacks coherence | 21 | Clean IL₅ VOS placement; structural consequence, not punishment |
+| Eris | Greek | Discord as terminal entropic catalyst; sows fragmentation that cascades through social and cosmic order | MP09 §23.3 | Promoted from Appendix B §23.3 key terms to main table |
 
 ---
 
