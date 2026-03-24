@@ -2676,7 +2676,7 @@ a singular act of presence
 structured within unstructured potential.  
 
 * **Theon** is the first supernal hypostasis —  
-    the pure Logos emerging  
+    the Orienting Logos emerging  
     from the stillness of Aion,  
     catalyzed by the motion of Khaon.  
 
