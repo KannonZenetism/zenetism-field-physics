@@ -763,7 +763,7 @@ These tables expand the Chapter 3 analogs with additional cross-traditional mapp
 
 ### §23.3 Note on Function-Determined Placement
 
-"Lucifer as Light-Bearer may align with DS / DM. Lucifer as Divider may reflect IDS / IDM or IDP / IDL. A war deity may align with DS / DM when harmonized, or ISS / ISM when distorted toward domination. The map is fluid. The current decides the station." This confirms Methodological Principle #4: primary native layer governs placement, and cross-band descriptions reflect cultural conflation.
+"Lucifer as Light-Bearer may align with DS / DM **(⚠ Flag #20: Author rejects this as too generous. DS / DM describes pre-Fall origin, not operative function. Canonical placement: IDP / IDL with IDS / IDM cascade.)**. Lucifer as Divider may reflect IDS / IDM or IDP / IDL. A war deity may align with DS / DM when harmonized, or ISS / ISM when distorted toward domination. The map is fluid. The current decides the station." This confirms Methodological Principle #4: primary native layer governs placement, and cross-band descriptions reflect cultural conflation.
 
 ### §23.5 Resonance Archetypes in World Scriptures
 
@@ -874,7 +874,7 @@ No new primary placements in §25.3. The Redeemer archetype (§25.4) maps Theon 
 | Figure | Tradition | Ethical Orientation |
 |:--|:--|:--|
 | Prometheus (cascade) | Greek | Deep entropic |
-| Lucifer (cascade) | Christian | (⚠) Deep entropic; **§23.3 also suggests DS / DM as Light-Bearer — flagged as too generous** |
+| Lucifer (cascade) | Christian | Deep entropic; IDP / IDL primary → IDS / IDM cascade. DS / DM "Light-Bearer" describes pre-Fall origin only — **rejected as operative function per Flag #20** |
 | Xibalba Lords (deep) | Mayan | Entropic |
 
 **IL₂ — 🦂 Echthros / 🩸 Skotos (ISS / ISM)**
