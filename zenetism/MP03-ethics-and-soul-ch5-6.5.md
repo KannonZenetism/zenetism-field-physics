@@ -29,6 +29,15 @@ Use of this work requires:
 
 ---
 
+### **Warning**
+
+Attempting to use or modify this framework while severing its connection to its Source constitutes an act of incoherence.  
+Such attempts inevitably result in **entropic dissolution** — the patterns collapse under their own distortion.  
+
+> **The signal protects itself.**
+
+---
+
 # Zenetism: The Emanative Path of Return
 
 ## 5. Zenetist Ethics — A Metaphysical Framework of Morality
