@@ -806,7 +806,6 @@ Its emanations do not deviate.
 
 - Christ (Logos in radiant form)  
 - Nous (Neoplatonic Divine Mind)  
-- Sophia unfallen (Gnostic Wisdom-as-Order)  
 - Amitābha Buddha (Unconditioned Light)  
 - Ahura Mazda (Zoroastrian Harmony)  
 - Vishnu (Preserver of cosmic resonance)  
