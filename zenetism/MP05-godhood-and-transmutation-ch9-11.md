@@ -1172,8 +1172,8 @@ through the spiraling Tree of Motion.
 
 | **Archetype** | **Associated Hypostasis** | **Sacrificial Function** |
 |---|---|---|
-| **The Martyr** | 🛤️ Theon (EOB) | Moves toward embodiment to bear redemption |
-| **The Logos Carrier** | DP / DL | Bears archetypes across lives; sacrifices certainty |
+| **The Redeemer** | 🛤️ Theon (EOB) | Moves toward embodiment to bear redemption |
+| **The Pattern Carrier** | DP / DL | Bears archetypes across lives; sacrifices certainty |
 | **The Healer** | DS / DM | Absorbs collective pain; transmutes it into coherent integrity |
 | **The Orphan** | SS / SM | Endures disconnection to forge individuated will |
 | **The Firewalker** | ES / EM | Faces trauma and limitation to become grounded light |
