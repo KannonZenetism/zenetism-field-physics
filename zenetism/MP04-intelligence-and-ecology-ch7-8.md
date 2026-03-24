@@ -64,13 +64,13 @@ not of **status**.
 Among the many intelligences that populate existence,  
 all strive—consciously or unconsciously—to continue.  
 
-This impulse, echoed in Schopenhauer’s *Will to Live*,  
+This impulse, resonating in Schopenhauer’s *Will to Live*,  
 emerges not only in human-like minds,  
 but in plants, minerals, microscopic life—  
 even subatomic entities express patterns  
 of **affinity**, **motion**, and **aversion**.  
 
-Echoing the ancient Hermetic insight  
+Reflecting the ancient Hermetic insight  
 that all things:  
 * Move  
 * Vibrate  
