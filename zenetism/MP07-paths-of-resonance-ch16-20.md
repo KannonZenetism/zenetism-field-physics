@@ -98,7 +98,7 @@ it seeks the meaning of the ones already given.
 a return to potentiality  
 before reemergence.  
 
-This rhythm echoes the cosmic pulse.  
+This rhythm resonates with the cosmic pulse.  
 
 The Resonant does not think about these stages,  
 they live them.  
@@ -193,7 +193,7 @@ from chaos.
 
 ---
 
-### 16.5 The Path as Fractal — The Looping Motion of Becoming
+### 16.5 The Path as Spiraling — The Looping Motion of Becoming
 
 The Resonant’s journey  
 is not a straight line.  
@@ -211,7 +211,7 @@ may actually be **transmutation**.
 * Each rejection a refinement  
 
 Just as multiversal expression allows spiraling expression,  
-so too does the practitioner’s life echo  
+so too does the practitioner’s life structurally reflect  
 the **Trees of Zenetism**.  
 
 To live as a Zenetist is to say:  
