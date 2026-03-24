@@ -2655,7 +2655,7 @@ of deceptive patterning.
 * **Mortus**  
     * **Avidya** — spiritual ignorance *(Buddhism)*  
     * **Maya** — illusion and veiling *(Vedanta / Hindu philosophy)*; placed here at IL3 solely in its entropic connotation as deep-mind obscuration, distinct from the L4 DP / DL centropic veil
-    * **Inverse Logos** — distorted reason *(Zenetist archetype)*  
+    * **Spurious Perception** — distorted reason *(Zenetist archetype)*  
 
 **Noeüs** echoes **Theon**  
 through symbolic discernment.  
@@ -3010,7 +3010,7 @@ unbound from structure.
 **Mythic analogs** include:  
 
 * **Biosa**  
-    * **Logos Incarnate** — wisdom made manifest *(Christian / Stoic thought)*  
+    * **Christos Incarnate** — the Orienting Logos made flesh *(Christian thought)*  
     * **Embodied Wisdom** — resonant reasoning *(Zenetist archetype)*  
     * **Cognitive Agency** — intention in motion *(Zenetist archetype)*  
 * **Mania**  
