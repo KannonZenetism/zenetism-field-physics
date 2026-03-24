@@ -735,7 +735,7 @@ naming.
 | 🌀→⚡→💎 | **Crystallization Sequence** | Resonance becoming energy becoming permanent structure |
 | ⚫⚔️🌀 | **Pattern Held in Motion** | The structural stance of the Warrior archetype; coherence held in active motion, combining origin, structure, and resonance for entropic deterrence |
 | 🕳️⟵⚫⟶♾ | **Complete Motion Arc** | The full movement from Unknown through Zero to Infinity |
-| 📯◐🔔◑📯 | **Clarion Echo Pattern** | Call, partial reception, resonance, partial fade, return |
+| 📯◐🔔◑📯 | **Clarion Resonance Pattern** | Call, partial reception, resonance, partial fade, return |
 
 ---
 
