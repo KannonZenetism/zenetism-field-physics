@@ -345,7 +345,8 @@ depending on its active role and tone.
 
 For example:  
 - Lucifer as Light-Bearer may align with DS / DM  
-  (reflecting a pre-Fall origin and supernal structural capacity, not his subversal operative function).  
+  (reflecting a pre-Fall origin and supernal structural capacity,  
+  not his subversal operative function).  
 - Lucifer as Divider may reflect IDS / IDM or IDP / IDL.  
 
 A war deity may align with DS / DM when harmonized,  
