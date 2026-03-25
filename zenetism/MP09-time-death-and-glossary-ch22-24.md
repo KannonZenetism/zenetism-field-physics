@@ -656,7 +656,6 @@ Permits both without inclination.
 - Ain Soph (Kabbalah)  
 - Aditi (Vedic womb of space)  
 - Parabrahman (as undivided)  
-- Chaos (as primordial potential, not entropy)  
 - Bythos (Gnostic Depth and Unity)  
 - Nun, the Egyptian waters of silence  
 
