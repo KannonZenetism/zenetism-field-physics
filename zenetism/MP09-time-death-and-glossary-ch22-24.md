@@ -1568,6 +1568,31 @@ Its inherent function is always disruptive.
 
 ---
 
+#### Note on the Neoplatonic Dyad  
+
+History often perceives metaphysical function  
+while misjudging structural architecture.  
+
+The Neoplatonists correctly identified  
+the structuring intellect (*Nous*)  
+and the animating current (*World Soul*).  
+
+Yet they mapped them as a vertical sequence —  
+two distinct steps upon the emanative stair.  
+
+In the Zenetist lattice,  
+they form a **horizontal dyad**.  
+
+**Sophis (DL)** and **Morgis (DP)** are not sequential hypostases,  
+but the dual expression of a single stratum (L4).  
+
+The ancients saw the Mind-Soul bifurcation clearly.  
+But lacking the geometry of the dyad,  
+they strung it across the vertical axis.  
+Zenetism folds it back into the single plane of Form.
+
+---
+
 ### Key Structural Terms
 
 | Zenetist Term | Meaning / Role | Possible Mythic Figures |
