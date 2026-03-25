@@ -1111,9 +1111,12 @@ Makes love a structuring principle of centropic reality.
 Pure centropy.  
 
 **Symbolic Counterparts**  
-Christ (Heart Logos)  
-Sophia (redeemed)  
-Archeus (as vessel)  
+Christ (Orienting Logos)  
+Sophia unfallen (DP: Morgis)  
+Maitreya (world‑renewing compassion)
+
+*Avalokiteśvara’s compassionate declivity expresses through L3 stewards; 
+Archeus functions here as a vessel of transmission, not a counterpart.*
 
 🌬️📐💠  
 
