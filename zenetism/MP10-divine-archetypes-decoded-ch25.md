@@ -534,21 +534,25 @@ Yaldabaoth (blind architect)
 #### Note on the Archetypal Nature of Spiritual Error
 
 Figures like **Prometheus** and **Lucifer**  
-are not confined to a single layer of the inverse tree.  
-They move vertically through the entropic arc,  
-touching:  
+do not traverse layers as beings.  
+The entropic current they represent  
+touches multiple strata of the inverse tree,  
+including:
 
-- The inverse realm of forms (**IDP / IDL**)  
-- The inverse deep mind (**IDS / IDM**)  
+- The Inverse Logos of form (IDP / IDL)  
+- The inverse deep mind (IDS / IDM)  
 
-This reflects the Zenetist insight  
-that spiritual error is not merely personal,  
+Mythic tradition assigns a single name  
+to the full span of this current,  
+even though its function shifts at each layer.  
+Spiritual error is not merely personal,  
 but archetypal, recursive, and structural in origin.  
-Inversion often begins in form,  
-embeds into mind,  
-and eventually fractures the soul.  
+The current begins in form (IL4),  
+embeds into mind (IL3),  
+and fractures the soul  
+through its surface manifestations (IL2 / IL1).  
 
-♜🪫💔  
+🪫💔☍  
 
 ---
 
