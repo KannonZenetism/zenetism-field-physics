@@ -893,7 +893,7 @@ but distortion occurs only when inverted.
 - Uranus and Gaia (Heaven / Earth structuring)  
 - Nous (Neoplatonic Divine Mind)  
 - Binah / Chokhmah (dual poles of Divine Mind)  
-- Sophia unfallen (Gnostic order)  
+- Sophia unfallen (Gnostic Wisdom-as-Vitality)  
 - Logos (pre-incarnate structuring force)  
 - Hiranyagarbha (Golden Womb of Vedic creation)  
 
