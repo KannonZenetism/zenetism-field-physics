@@ -1552,7 +1552,7 @@ Its inherent function is always disruptive.
 
 ---
 
-#### Notes on Emanation and Intelligence  
+#### Note on Emanation and Intelligence  
 
 - Each supernal pair (**DP / DL**, **DS / DM**, **SS / SM**) and their inverse mirrors  
   give rise to the next in recursive cascade.  
