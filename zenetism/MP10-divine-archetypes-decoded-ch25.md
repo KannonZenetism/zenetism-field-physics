@@ -490,7 +490,7 @@ Marduk (ordering intelligence)
 
 ---
 
-#### ⟜ Loki (Norse)  
+#### ⟜ Loki (Norse)
 
 **Traditional Role**  
 Trickster.  
@@ -498,31 +498,36 @@ Shape-shifter.
 Instigator of cosmic rupture.  
 
 **Function**  
-Disruption through mimicry.  
-Distortion masked as cleverness.  
-Inversion without coherence.  
+Inverse Logos.  
+Architect of entropic inversion.  
+Sabotage through distortion and subversion.  
 
 **Zenetist Placement**  
-**ISS / ISM** (Echthros / Skotos)  
+**IDP / IDL** (Nyxea)  
 
 **Justification**  
-Loki is a superficial-layer disruptor  
-whose craft lies in deceit,  
-not direct force.  
-Breaks systems from within,  
-adopting the appearance of clever integration  
-while concealing an entropic impulse  
-beneath wit and fluid identity.  
+Loki embodies the IL4 archetype of inverse Logos —  
+the architect of rupture,  
+the one who engineers cosmological breakdown  
+through cunning, inversion, and structural sabotage.  
+His killing of Baldr,  
+the most centropic figure in Norse myth,  
+and his orchestration of Ragnarök  
+express the deep entropic intelligence  
+that seeks to unmake coherence at its root.  
+The familiar IL2 trickster persona  
+is a cultural conflation of deeper functions,  
+a surface mask over an architect of dissolution.  
 
 **Ethical Orientation**  
 Entropic.  
 
 **Symbolic Counterparts**  
-Set  
-Echthros  
-Lucifer (superficial-layer inversion)  
+Lucifer (inverse Logos parallel)  
+Prometheus (illicit breach of order)  
+Yaldabaoth (blind architect)  
 
-🦂🩸♜  
+🪫🫥♜
 
 ---
 
