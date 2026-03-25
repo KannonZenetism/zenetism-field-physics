@@ -1113,7 +1113,7 @@ Pure centropy.
 **Symbolic Counterparts**  
 Christ (Orienting Logos)  
 Sophia unfallen (DP: Morgis)  
-Maitreya (world‑renewing compassion)
+Isis (restorative integration)  
 
 *Avalokiteśvara’s compassionate declivity expresses through L3 stewards; 
 Archeus functions here as a vessel of transmission, not a counterpart.*
