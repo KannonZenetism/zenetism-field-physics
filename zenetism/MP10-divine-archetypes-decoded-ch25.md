@@ -114,7 +114,7 @@ Centropic (though mythically imperfect).
 **Symbolic Counterparts**  
 Brahma  
 Demiurge (positive form)  
-Chesed or Tiphareth (Kabbalah)  
+Chesed / Gevurah (dual poles of L4 sovereignty)  
 
 ⚫◎⌬  
 
