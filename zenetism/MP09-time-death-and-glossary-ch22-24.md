@@ -1211,7 +1211,7 @@ It seeks only to devour.
 - Satan (negation beyond rebellion)  
 - Typhon (primordial devouring)  
 - Apophis (endless unmaking)  
-- The Abyss (Da’ath unbalanced)  
+- Da’ath Unbalanced (the sefiratic void)  
 - Inverse Nirvana (dissolution without return)  
 - Black hole (metaphysical analogue)  
 
