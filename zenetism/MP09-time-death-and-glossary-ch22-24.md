@@ -874,6 +874,7 @@ but distortion occurs only when inverted.
 #### Symbolic Counterparts  
 
 - Demiurge (as divine architect, not fallen)  
+- Uranus and Gaia (Heaven / Earth structuring)  
 - Nous (Neoplatonic Divine Mind)  
 - Binah / Chokhmah (dual poles of Divine Mind)  
 - Sophia unfallen (Gnostic order)  
