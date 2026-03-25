@@ -102,7 +102,7 @@ Restrains chaos.
 **DP / DL** (Morgis / Sophis)  
 
 **Justification**  
-Zeus reflects the **Logos Principle** —  
+Zeus reflects the **Structuring Logos Principle** —  
 the ordering mind that shapes form from potential.  
 Like the centropic form of the Demiurge,  
 he restrains titanic forces  
