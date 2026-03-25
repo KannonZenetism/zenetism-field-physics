@@ -54,6 +54,8 @@
 | Primordial Waters / Nun / Narayana's Ocean | Universal | Khaon (latent) — chaos or Deep preceding all structure; potentiality in unbounded state; primal substrate containing every latent form | 18 | Tiamat, Nun, Narayana's Ocean as cultural articulations of the same L₀ Khaon principle |
 | Chronos / Kronos | Greek / Roman | Khaon — time as dissolution; the limit of forms; consumes offspring as time dissolves emanations; lawful entropy within Khaonic motion; terminal resonance touches VOS (Nekron) | MP01 §25.3 | Centropic → entropic arc |
 | Kali | Hindu | Khaon — sacred time-force, catalytic unmaking; walks the edge between liberation and annihilation; terminal function touches VOS | MP01 §25.3 | Transcendent or entropic depending on response; same dual placement as Chronos |
+| Yama | Hindu | Khaon / VOS resonance — lord of death and dissolution; time-force governing the threshold of form's exhaustion | MP10 §25.3 | Also has judicial function (judging the dead) = L₄ DL cultural conflation; listed here for dissolution function |
+| Mahakala | Tibetan Buddhist | Khaon / VOS resonance — wrathful time-deity; protector of Dharma through destructive function; dissolution as service to coherence | MP10 §25.3 | Protector function is centropic (DL structural correction); time-dissolution function is Khaonic |
 | Janus | Roman | Aion / Khaon boundary — bifurcation point; stillness turning to motion; pure potential splitting into polarity; gateway where emanation begins | MP01 §25.3 | Pre-dual; neither wholly centropic nor entropic |
 
 ---
@@ -134,11 +136,14 @@
 | Avalokiteśvara | Mahayana Buddhist | DP / DL | Aureform — the Form of Compassion; radiant archetype of integrative presence; love as structuring principle | MP01 §25.3 | Pure centropy; flows through centropic stewards across time |
 | Itzamna | Mayan | DP / DL | Creator god, wisdom keeper; builds reality through deep pattern and luminous order; architectural intelligence of Form | MP01 §25.3 | Parallel to Zeus, Brahma, Marduk |
 | Hiranyagarbha | Vedic / Hindu | DP / DL | Golden Womb of creation; the luminous egg from which structured cosmos emerges; archetypal generative intelligence | MP09 §24.5 | Parallel to Brahma, Ptah, Marduk |
-| Saturn | Roman | DL (Sophis) → Khaon | Lawful structuring principle becoming rigid; rigidity collapses to dispersal; Logos turned inward; measures time and the decay time induces | MP01 §25.3 | Centropic → entropic arc; parallel to Chronos |
 | Sophia (unfragmented) | Gnostic | DP (Morgis) | **Resolved.** Though named "Wisdom," her catalyst is longing, generative push, and vitality without her syzygy. DP gave the generative push; IDL then reflected and claimed it as its own (the Demiurge). | MP01 §25.3 | Supports entropic mirror framing: DP generates, IDL co-opts |
 | Adam Kadmon (Genesis 1) | Kabbalah / Hebrew | DP / DL | The Archetypal Blueprint of humanity in the Field of Forms; perfect structural template before physical embodiment | MP01, Gemini | Distinct from Eden Adam (L₁). Genesis 1 creation = L₄ archetype; Genesis 2 creation = L₁ instantiation |
 | Odin | Norse | DP / DL | Archetypal sovereign; seeker of structural knowledge; sacrifice for wisdom (Runes = L₄ DL structural language); wayfinder through pattern recognition | 03, 14, §25.3 | **Moved from L₃ to L₄.** L₃ function (individuated will, self-possession) is conflation; parallels Olympians at L₄. L₃ natively may be better filled by Heimdall or Tyr |
 | The Aesir | Norse | DP / DL | Gods of sovereignty and cosmic order; parallel to Olympians at L₄ | 03 | **Moved from L₃ to L₄.** Decode 03 originally placed at L₃ DS (Archeus); revised per structural parallel with Olympians |
+| Hades | Greek | DL (Sophis) | Sovereign governance of the dissolution domain; lawful order maintained within the realm of entropy; mystagogue, not jailer | MP10 §25.3 | Operative function is L₄ DL; jurisdiction is Khaonic. Governor ≠ governed domain. Parallel to Osiris-as-Judge and Satan-of-Job diagnostic function |
+| Elohim | Hebrew | DP / DL | The divine plurality as archetypal intelligences; collective expression of L₄ patterning function | MP10 §25.3 | Parallel to Aeons (Gnostic) |
+| Belenus | Celtic | DL (Sophis) | Solar creative deity; structuring light and generative order | MP10 §25.3 | Listed in §25.4 Architect archetype |
+| Shekinah | Kabbalah | DP (Morgis) | The divine feminine indwelling presence; vitality of the divine within creation | MP10 §25.3 | Sophia symbolic counterpart |
 
 ---
 
@@ -169,9 +174,11 @@
 | Hercules | Greek | DS / DM | L₃ purification through embodied atonement; twelve labors each addressing a specific inverse archetype; culminates in apotheosis (acclivous centropic motion) | 21 | Heroic DS (Archeus) reclaiming coherence through structured trials |
 | Bodhisattvas | Mahayana Buddhist | DS / DM | Soul harmonics and guiding intellects; beings who defer final return to assist others; Centropic Steward archetype | MP01 §23.3 | L₃ stabilized; parallel to Centropic Stewards (§3.16) |
 | Thoth | Egyptian | DM (Noeüs) | Guiding intellect; keeper of sacred knowledge and structural language | MP01 §23.3 | Deep Mind function; scribe of cosmic order |
+| Hermes Trismegistus | Hermetic | DM (Noeüs) | Thrice-great synthesizer of wisdom traditions; keeper of initiatory knowledge and structural language spanning traditions | MP10 §25.3 | Primary function is deep-mind keeper; also invoked as liminal / threshold figure (Janus parallel) |
 | Enki / Ea | Mesopotamian | DS / DM | Deep soul and mind harmonics; bestower of knowledge; weaves intelligence into life's foundation; blueprint of the Daemon principle | MP01 §25.3 | Parallel to Thoth, Odin; centropic |
+| Oannes | Mesopotamian | DS / DM | Fish-sage who brings civilization from the sea; wisdom-bestowing guide | MP10 §25.3 | Enki symbolic counterpart |
 | Krishna (as Guide) | Hindu | DS / DM | Embodied Logos; soul-guiding intelligence; leads Arjuna into aligned action; integrates relational intimacy with metaphysical precision | MP01 §25.3 | Distinct from Krishna at L₅ (Decode 07); function-determined: guide = L₃, preserver = L₅ |
-| The Aeons | Gnostic | DP / DL → DS / DM | Archetypal intelligences; patterned light before distortion; bridges between Source and manifest layers | MP01 §25.3 | Span L₄ and L₃; Logos and Psyche in pure structured state |
+| The Aeons | Gnostic | DP / DL | Archetypal intelligences; patterned light before distortion; pure Forms in the Pleroma. Any apparent L₃ guiding function reflects L₃ figures channeling L₄ archetypes, not the Aeons themselves operating at L₃ | MP01 §25.3 | **Corrected:** DS / DM span removed. Aeons are L₄ only |
 | Penelope | Greek | DS / DM | Sovereign Self's authentic complement; Structured Pair with Odysseus; maintains coherence during exile through weaving/unweaving (recursive fidelity) | 22 | The goal of the Journey is reunion with the L₃ complement |
 | Golden Fleece | Greek | DS (Archeus) | Sovereign L₃ authority; the reconciling principle whose retrieval restores lawful order | 22 | Object of the Argonauts' collective quest |
 | Elijah | Hebrew | DS / DM | Prophetic L₃ consciousness transported into Aionic integration without dissolution via Chariot of Fire; direct acclivous centropic conveyance beyond physical limits | 25 | Ultimate synthesis of form and spirit |
@@ -189,6 +196,7 @@
 | Parzival (pre-transformation) | Arthurian | SS / SM | Innocent knight whose silence at Grail Castle reveals deficit of L₃ empathy | 09 | Origin at L₂; transforms through exile to L₃ |
 | Pandora | Greek | SS / SM | Curiosity-driven opening releasing entropic forces; internal L₂ drive activating the mirror | 11 | Only Hope remains — centropic potential hidden within embodiment |
 | Phaethon | Greek | SS / SM | Unskilled L₂ seizing L₄ DP / DL power prematurely; nearly destroys the world through unintegrated ambition | 25 | Contra Helios (L₄ DL) who maintains cosmic order through skilled integration |
+| Icarus | Greek | SS / SM | Unskilled L₂ seizing L₄ power without integration; hubristic overreach through unearned elevation | MP10 §25.3 | Parallel to Phaethon; originally listed under Prometheus at IL₄ but relocated to L₂ per structural function |
 | Theseus | Greek | SS / SM | L₂ descending into the Labyrinth to face the Minotaur (IL₃ IDS / IDM); confrontation and transformation of the shadow marks completion of initiation | 27 | Guided by Ariadne's Thread (L₄ DP / DL Nexus) |
 
 ---
@@ -251,6 +259,11 @@
 | Calypso | Greek | IDP (Psychea) | Stagnant paradise of forgetfulness; inverse psychic entrapment that suspends motion | 18 | One of Odysseus's sea trials; entropic in function despite appearing pleasant |
 | Sauron | Tolkien | IDL (Nyxea) | Inverse forge of will; creates instruments of severance and domination; elegant counterfeit coherence that isolates rather than connects | 20 | Modern-mythic Luciferic mapping; the Ring is the Nyxea principle condensed into artifact |
 | Sophia (scattered) | Gnostic | IDP (Psychea) | (⚠) Sophia entropically scattered; divine insight split through overextension | MP01 §25.3 | Decode 11 fall produces Demiurge (IDL: Nyxea). §25.3 places scattered Sophia at IDP (Psychea). Different aspect of same arc |
+| Saturn / Kronos | Greek / Roman | IDP / IDL | **Reclassified from L₄ DL.** Titan; inverse archetypal order; time-as-dissolution consuming its own emanations; terminal resonance at Khaon (AD) | MP10 §25.3 | Leader of the Titans = IL₄ by framework logic. Entropic orientation. Parallel to Chronos at L₀ Khaon |
+| Samael | Kabbalah | IDL (Nyxea) | Angel of death and adversary; inverse archetypal intelligence; "poison of God" | MP10 §25.3 | Lucifer symbolic counterpart |
+| Leviathan | Biblical | IDP / IDL | Primordial sea-monster of chaos; inverse archetypal force; Khaonic resonance with IL₄ operative function | MP10 §25.3 | Parallel to Tiamat |
+| Sorat | Anthroposophy | IDL (Nyxea) | Sun-demon; entropic architect; anti-Christ principle in Steiner's framework | MP10 §25.4 | Listed in Architect archetype (entropic) |
+| Rahu | Hindu | IDP / IDL | Shadow planet / eclipse demon; obscuration of light as inverse archetypal function | MP10 §25.3 | Serpent symbolic counterpart |
 
 ---
 
@@ -258,7 +271,7 @@
 
 | Figure | Tradition | Aspect | Function | Decode | Notes |
 |:--|:--|:--|:--|:--:|:--|
-| Set | Egyptian | IDS (Fractus) | **Entropic cascade from IL₂.** Adversarial will (ISS: Echthros) cascading to dismemberment (IDS: Fractus). Dismemberment of Osiris is the defining act of Fractus — fragments identity | 02, §25.3 | **Resolved:** IL₂ Echthros → IL₃ Fractus cascade confirmed. §25.3 gives ISS / ISM as primary surface; operative dismemberment function cascades to IL₃ |
+| Set | Egyptian | IDS (Fractus) | IL₃ Fractus function culturally assigned to Set (IL₂ ISS primary); the dismemberment act exceeds Set's native layer and reflects mythic conflation | 02, §25.3 | **Reclassified:** Not cascade but cultural conflation. Dismemberment is an IL₃ act attributed to an IL₂ figure by mythmakers |
 | The Sphinx | Greek | IDM (Mortus) | Devourer of unawareness; ensnares the unintegrated psyche; perception that blinds | 08 | Self-destructs when confronted by veracious awareness (Oedipus) |
 | Herod | Christian | IDS / IDM | Entropic operation's attempt to extinguish the new centropic pattern (Massacre of Innocents) | 07 | Fractus / Mortus acting to fragment emergent coherence |
 | Wounded King (Fisher King) | Arthurian | IDS (Fractus) | Fractured sovereignty; the centropic field damaged by unhealed fragmentation | 09 | Healed by Parzival's achieved L₃ compassion |
@@ -273,7 +286,7 @@
 
 | Figure | Tradition | Aspect | Function | Decode | Notes |
 |:--|:--|:--|:--|:--:|:--|
-| Set | Egyptian | ISS (Echthros) | **Primary surface.** Adversarial will contra Osiris; conscious disruptor turning harmony into adversarial polarity | 02, §25.3 | **Resolved:** ISS (Echthros) primary surface → cascades to IL₃ IDS (Fractus) in operative dismemberment function |
+| Set | Egyptian | ISS (Echthros) | **Primary native layer.** Adversarial will contra Osiris; conscious disruptor turning harmony into adversarial polarity; deceptive agency and dissonant autonomy | 02, §25.3 | IL₃ dismemberment is cultural conflation, not Set's native function |
 | Lycaon | Greek | ISS / ISM | Hubris; localized inverse orientation triggering fractal eschaton | 01 | Entropic saturation at superficial level |
 | "Wickedness of humanity" | Hebrew | ISS / ISM | Saturation in adversarial will and deceptive perception | 01 | Collective IL₂ saturation triggering flood |
 | Kamsa | Hindu | ISS / ISM | Tyrant aware of prophecy of his dissolution; adversarial will and deceptive control | 07 | Echthros / Skotos opposing Krishna's emergence |
@@ -292,6 +305,7 @@
 | Iblis | Islamic | ISS (Echthros) | Adversarial refusal; structured resistance to divine command; self-assertion as identity | MP01 §23.3 | Parallel to Echthros definition: embraces rivalry and adversarial will |
 | Mara (psychological) | Buddhist | ISM (Skotos) | Psychological tempter; disordered perception preventing enlightenment; veiling the mind through desire and fear | MP01 §23.3 | Distinct from Mara at IL₅ (VOS: Nekron) in §23.3 Key Terms — same name, different layer function. Same pattern as Satan conflation |
 | Xibalba Lords (superficial function) | Mayan | ISS / ISM (Echthros / Skotos) | Tempters and deceivers of perception; gatekeepers of entropic trial | MP01 §25.3 | Cross-band with IL₃ IDS / IDM; cascade from deep disintegration to superficial deception |
+| Tezcatlipoca | Aztec | ISS / ISM | Smoking mirror god; entropic trickster; surface-level disruption through deception and conflict | MP10 §25.4 | Listed in Trickster archetype (entropic) |
 
 ---
 
@@ -428,7 +442,7 @@ A cascade is when a single current manifests across layers lawfully — same ess
 |:--|:--|:--|:--|:--|:--|:--:|
 | Satanic Arc | Satan / Nekron (root) | Lucifer / Nyxea (architect) | False Prophet / Mortus (spurious signal) | Skotos (broadcast veil) | **The Beast** (embodied authoritarian system) | 03, 08, 12 |
 | Revelation Cascade | Great Red Dragon (Nekron with agency) | Luciferic Nyxea (coercive architecture) | Beast from the Earth / Mortus (spurious deep signal) | Skotos (perceptual broadcast) | **Beast from the Sea** (embodied authoritarian system) | 08 |
-| Set's Cascade | — | — | Fractus (dismemberment) | Echthros (adversarial will — primary surface) | — | 02, §25.3 |
+| ~~Set's Cascade~~ | **Reclassified as cultural conflation, not cascade.** Set at IL₂ (adversarial will) and the dismemberment of Osiris at IL₃ (Fractus function) are different layer-functions assigned to the same name by Egyptian mythmakers. Conflation per Principle #8. | | | | 02, §25.3 |
 | ~~Loki's Arc~~ | **Reclassified as cultural conflation, not cascade.** Loki at IL₄ (inverse Logos, architect of Ragnarök) and Loki at IL₂ (trickster) are different functions assigned to the same name. A cascade is the same current at different strata; this is different functions = conflation per Principle #8. Canonical placement: IL₄ IDL (Nyxea). | | | | 06 |
 | Sophia's Fall | — | Demiurge / Nyxea (inverse of Sophia) | — | — | Entropy-dominated material field | 11 |
 | Eden Cascade | — | Serpent / Nyxea (activator) | — | Echthros / Skotos (dualistic perception) | Malara / Mania ("coats of skins"; carnal identification) | 11 |
@@ -522,13 +536,32 @@ The Mirror (Decode 26) is paradoxical: a centropic instrument when wielded by L�
 
 Plotinus' Nous maps to **L₄ DL (Sophis)** — the structuring intellect that patterns reality into intelligible form. Plotinus' World Soul (Psyche tou Pantos) maps to **L₄ DP (Morgis)** — the animating vital current that infuses structure with life. The Neoplatonists perceived the dual-strata function of L₄ and articulated it as two distinct hypostases. Zenetism recognizes this as an accurate but culturally separated observation of the Morgis / Sophis dyad operating as a single architectural layer with twin aspects. Nous should not be mapped to L₃ Noeüs (despite the etymological resemblance) or to L₅ Theon — it is structuring intellect, not orienting essence.
 
+### Note on Cascade contra Conflation (Expanded)
+
+A **cascade** is when a single entropic or centropic current manifests across layers lawfully — same essence, different operative strata, often with different names at each station (e.g., Dragon → Lucifer → False Prophet → Skotos → Beast). **Conflation** is when mythmakers assign a single name to different layer-functions because they perceived the broader current but lacked the lattice to parse which layer was doing what (e.g., Loki at IL₄ and IL₂; Set at IL₂ and IL₃). **Currents cascade; entities do not.** Names get stretched across functional boundaries by cultural compression. The test: do the functions at different layers share the same structural essence (cascade), or are they genuinely different operations assigned the same label (conflation)?
+
+### Note on Soul / Mind Specificity (Methodological)
+
+Methodological Principle #9 states that Soul / Mind specificity is preferred. Where a figure's function clearly maps to DP or DL (not both), the specific aspect should be noted. This applies across all layers: Isis = DP (Morgis) specifically, not generic "DP / DL." Zeus = DL (Sophis) specifically. Future audit passes should systematically apply this principle to entries currently listed as generic "DP / DL," "DS / DM," etc.
+
+### Note on Logos Disambiguation
+
+All bare "Logos" references should be qualified by layer:
+
+| Layer | Qualified Term | Function |
+|:--|:--|:--|
+| L₅ (EOB: Theon) | **Orienting Logos** | Coherence as direction |
+| L₄ (DL: Sophis) | **Structuring Logos** | Coherence as pattern |
+| L₁ (ES / EM) | **Christos Incarnate** or **Embodied Reason** | Not bare "Logos Incarnate" |
+| IL₄ (IDL: Nyxea) | **Inverse Logos** | Structural mimicry without coherence |
+
 ---
 
 ## Flags for Review
 
 | # | Figure | Issue | Decode | Status |
 |:--:|:--|:--|:--:|:--|
-| 1 | Set | Placed at IL₂ (ISS: Echthros) in decode text, but operative dismemberment function maps to IL₃ (IDS: Fractus). Cascade IL₂ → IL₃, or primary IL₃? | 02 | Open |
+| 1 | Set | **Reclassified from cascade to cultural conflation.** IL₂ ISS (Echthros) is primary native layer. IL₃ dismemberment is mythic layer-stretching. | 02 | **Resolved — cultural conflation** |
 | 2 | Osiris | Called "Theonic king" (L₅ EOB) pre-dismemberment, but post-resurrection function as Lord of the Dead maps to L₃ (DS: Archeus). Primary native layer likely L₃ with Theonic qualities as cultural elevation? | 02 | Open |
 | 3 | Shiva | Decode 04 places at L₄ DL (Sophis) / L₅ (EOB: Theon). Author confirms original mapping is L₀ (Aion) and L₅ (Theon). **Decode 04 text needs correction.** | 04 | Resolved — decode audit needed |
 | 4 | Ahura Mazda | Spans L₅ / L₄ in decode. Per methodology, primary native layer should be specified. | 03 | Open |
@@ -759,7 +792,7 @@ These tables expand the Chapter 3 analogs with additional cross-traditional mapp
 | ⚫ Aion (AP) | Ain Soph, Saguna Brahman, Bythos, Aditi, Nun | Infinite potential, source of all motion |
 | ♾ Khaon (AD) | Prakriti, Chaos, Tiamat, Ymir, Sunyata, Ouroboros, Eros (Orphic), Shakti | Proto-formal potential, dispersive ground |
 | 🛤️ Theon (EOB) | Christ, Vishnu, Amitabha, Ahura Mazda, Purusha, Logos | Pure Being, integrative awareness |
-| 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep / Apophis, Typhon, The Abyss | Total entropy, negated integration |
+| 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep / Apophis, Typhon, Oblivion | Total entropy, negated integration |
 | DP / DL (Morgis / Sophis) | YHWH (as lawgiver), Demiurge (Plato's unfallen), Nous, Mahat, Vohu Manah, Sophia (unfallen) | Archetypal mind and divine intellect |
 | DS / DM (Archeus / Noeüs) | Bodhisattvas, Thoth, Archangels, Daemon (Gnostic), Krishna (as guide) | Soul harmonics and guiding intellects |
 | SS / SM (Anthra / Nousa) | Psyche, Jiva, Nafs, Ba (Egyptian), Astral Double | Personal identity, autonomous agency |
@@ -795,7 +828,7 @@ These are structural motifs arising from the architecture of being, not historic
 
 **Krishna at DS / DM:** §23.3 places Krishna at DS / DM (guiding intellect) alongside Bodhisattvas, Thoth, and Archangels. The main registry (Decode 07) places Krishna at L₅ EOB (Theonic seed). Both are structurally valid: Krishna-as-Preserver is L₅ Theon; Krishna-as-Guide-to-Arjuna is L₃ DS / DM function. This is cultural conflation, not error — the same figure performing different layer-functions in different mythic contexts.
 
-**New figures for future integration:** Bythos, Aditi, Ymir, Eros (Orphic), Typhon, Apep / Apophis, Daemon (Gnostic), Jiva, Nafs, Ba, Asuras, Qarin, Anansi, Tezcatlipoca, Quetzalcoatl, Belenus, Metatron, Samael, Sekhmet, Hecate, Rahu, Oannes. These are captured in the appendix tables and can be backfilled into the main layer tables during the audit phase.
+**New figures for future integration:** Bythos, Aditi, Ymir, Eros (Orphic), Typhon, Apep / Apophis, Daemon (Gnostic), Jiva, Nafs, Ba, Asuras, Qarin, Anansi, Quetzalcoatl, Metatron, Sekhmet, Hecate. These are captured in the appendix tables and can be backfilled into the main layer tables during the audit phase.
 
 ---
 
@@ -817,7 +850,7 @@ No figures placed. Zenon is pre-figural.
 | Shiva | Khaon / Theon | Dispersive dissolution and return through release; awareness unbound by polarity; bridges both Trees | Transcendent / polar |
 | Chronos / Kronos | Khaon → VOS | Time as dissolution; consumes offspring; lawful entropy; terminal resonance at VOS | Entropic (lawful) |
 | Kali | Khaon → VOS | Sacred time-force; catalytic unmaking; liberation or annihilation depending on response | Transcendent or entropic |
-| Saturn | DL (Sophis) → Khaon | Lawful structuring become rigid; rigidity collapses to dispersal | Centropic → entropic |
+| Saturn / Kronos | IDP / IDL → Khaon | **Reclassified.** Titan; inverse archetypal order; time-as-dissolution consuming emanations; terminal resonance at Khaon | Entropic |
 | Janus | Aion / Khaon boundary | Bifurcation point; gateway where emanation begins | Pre-dual |
 
 **L₅ — 🛤️ Theon (EOB)**
@@ -933,7 +966,7 @@ No new primary placements in §25.3.
 
 | # | Figure | Issue | Source | Status |
 |:--:|:--|:--|:--:|:--|
-| 1 | Set | IL₂ ISS (Echthros) primary surface → IL₃ IDS (Fractus) cascade. | 02, §25.3 | **Resolved — cascade confirmed** |
+| 1 | Set | **Reclassified from cascade to cultural conflation.** IL₂ ISS (Echthros) primary native layer. IL₃ dismemberment (Fractus) culturally assigned by Egyptian mythmakers; exceeds Set's native layer. | 02, §25.3, MP10 | **Resolved — cultural conflation** |
 | 2 | Osiris | L₄ DL primary → L₃ DS centropic cascade. L₅ is cultural elevation. Dismemberment = particularization. | 02, 21 | **Resolved — centropic cascade** |
 | 3 | Shiva | L₀ (Aion / Khaon) and L₅ (Theon). Decode 04 text needs correction. | 04, §25.3 | **Resolved** — decode audit needed |
 | 4 | Ahura Mazda | L₅ EOB primary per MP01. | 03, MP01 | **Resolved** |
