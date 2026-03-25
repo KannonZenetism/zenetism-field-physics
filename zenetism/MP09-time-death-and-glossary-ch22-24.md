@@ -658,6 +658,9 @@ Permits both without inclination.
 - Parabrahman (as undivided)  
 - Bythos (Gnostic Depth and Unity)  
 - Nun, the Egyptian waters of silence  
+- The Pleroma (as pre-formal fullness,  
+  not a region of formed Aeons —  
+  see Doctrinal Note)  
 
 ⚫❂◎  
 
