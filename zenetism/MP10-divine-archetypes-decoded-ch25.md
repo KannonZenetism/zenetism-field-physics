@@ -165,7 +165,7 @@ Cycle and recursion.
 
 **Zenetist Placement**  
 Primarily **Khaon / AD**  
-with terminal echo at **VOS** (Nekron).  
+with terminal resonance at **VOS** (Nekron).  
 
 **Justification**  
 Chronos consumes his own offspring —  
