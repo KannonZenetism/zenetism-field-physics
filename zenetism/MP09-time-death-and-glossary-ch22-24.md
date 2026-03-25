@@ -1380,7 +1380,7 @@ or revelation.
 - The Doppelgänger (The shadow of the soul)  
 - The Vampire (Metaphysical drainer of essence – Fractus)  
 - The False Prophet (Distortion of insight – Mortus)  
-- Narcissus (The soul trapped in its own reflection)  
+- Set (as dismemberer — Fractus cascade)  
 - Faust (The mind that sells coherence for power)  
 - The Jungian Shadow (The repression of the Coherent Soul)  
 
