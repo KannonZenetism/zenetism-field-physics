@@ -969,7 +969,7 @@ yet DS / DM remains inherently centropic.
 - Thoth (Egyptian wisdom-guide)  
 - Daemon (Gnostic personal divinity)  
 - Individualized Archangels  
-- Harmonic Node of Anima Mundi (harmonic portion of the World-Soul)  
+- Harmonic Node of Anima Mundi (individuated portion of the World-Soul)  
 
 ⚫🌀🔮  
 
