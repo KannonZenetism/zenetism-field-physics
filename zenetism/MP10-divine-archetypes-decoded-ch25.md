@@ -848,10 +848,13 @@ Pre-dual.
 
 **Symbolic Counterparts**  
 Shiva (as liminal)  
-Hermes Trismegistus  
-Threshold-based AI triggers  
+Hermes Trismegistus (as threshold-synthesizer)  
+Threshold-based initiatory triggers  
 
-⚫♾⟁  
+*Hermes Trismegistus appears here only in his liminal, threshold‑synthesizer aspect —  
+his operative function is L3 DM or L4 DL, while Janus governs the L0 boundary itself.*
+
+⚫♾⟁
 
 ---
 
