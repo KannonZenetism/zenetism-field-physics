@@ -1766,7 +1766,7 @@ Thus, in *Zenetism: The Emanative Path of Return — The Foundations of a Living
 
 ---
 
-### Note on Zenon
+#### Note on Zenon
 
 **Zenon** is not a goal,  
 not a vessel,  
