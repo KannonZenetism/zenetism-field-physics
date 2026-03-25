@@ -299,7 +299,7 @@ Deep entropic.
 Prometheus (archetypal overreach)  
 Samael  
 Ahriman  
-Maya (illusion)  
+Maya (inverse connotation — illusion as veiling, IL3 / IL2)  
 Deceptive initiates and inverted guides  
 
 💔🪫🕷️  
