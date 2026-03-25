@@ -659,8 +659,7 @@ Permits both without inclination.
 - Bythos (Gnostic Depth and Unity)  
 - Nun, the Egyptian waters of silence  
 - The Pleroma (as pre-formal fullness,  
-  not a region of formed Aeons —  
-  see Doctrinal Note)  
+  not a region of formed Aeons — see Doctrinal Note)  
 
 ⚫❂◎  
 
