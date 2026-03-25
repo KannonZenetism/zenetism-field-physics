@@ -506,7 +506,7 @@ Sabotage through distortion and subversion.
 **IDP / IDL** (Nyxea)  
 
 **Justification**  
-Loki embodies the IL4 archetype of inverse Logos —  
+Loki embodies the IL4 archetype of Inverse Logos —  
 the architect of rupture,  
 the one who engineers cosmological breakdown  
 through cunning, inversion, and structural sabotage.  
