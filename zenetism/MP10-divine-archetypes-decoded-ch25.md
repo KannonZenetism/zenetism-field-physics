@@ -852,7 +852,7 @@ Hermes Trismegistus (as threshold-synthesizer)
 Threshold-based initiatory triggers  
 
 *Hermes Trismegistus appears here only in his liminal, threshold‑synthesizer aspect —  
-his operative function is L3 DM or L4 DL, while Janus governs the L0 boundary itself.*
+his operative function is L4 DL or L3 DM, while Janus governs the L0 boundary itself.*
 
 ⚫♾⟁
 
