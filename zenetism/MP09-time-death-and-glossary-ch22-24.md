@@ -820,7 +820,9 @@ Its emanations do not deviate.
 - Christ (Logos in radiant form)  
 - Amitābha Buddha (Unconditioned Light)  
 - Ahura Mazda (Zoroastrian Harmony)  
-- Vishnu (Preserver of cosmic resonance)  
+- Vishnu (Preserver of cosmic resonance)
+- Tiferet (Kabbalistic axis of harmonic integration)  
+- Dharmakaya (Reality Body of pure, luminous awareness)
 
 ⚫⬖🔔  
 
