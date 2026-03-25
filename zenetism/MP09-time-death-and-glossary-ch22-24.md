@@ -688,7 +688,7 @@ This unfolding constitutes the **arc of all emanated realities**.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| L0 | Khaon (AD) | Absolute Dispersion (Infinity) | Khaon is the Infinite field within Aion. Initially held in latency, then stirred by Motive Infinity through the Principle of Sufficient Reason. As it unfolds, it generates the Tree of Emanation. When motion extends without limit, structure does not collapse — it becomes diffuse and unbounded, resolving as Dispersive Infinity, an echo of Zero |
+| L0 | Khaon (AD) | Absolute Dispersion (Infinity) | Khaon is the Infinite field within Aion. Initially held in latency, then stirred by Motive Infinity through the Principle of Sufficient Reason. As it unfolds, it generates the Tree of Emanation. When motion extends without limit, structure does not collapse — it becomes diffuse and unbounded, resolving as Dispersive Infinity, a dispersive complement to Zero |
 
 ---
 
@@ -725,11 +725,22 @@ it reflects the **Khaonic field**.
 #### Ethical Orientation  
 
 - **Pre-dual** at origin.  
-- **Post-dual** in expression.  
+- **Post-dual** in expression.
 
-As **Latent Infinity (Φ1)** — pre-dual silence embedded in Aion.  
-As **Motive Infinity (→)** — generates both centropy and entropy.  
-As **Dispersive Infinity (⇝)** — leads toward VOS, echoing back into Aion.  
+#### The Three Aspects of Infinity
+
+**Latent Infinity (Φ¹)** — Pre-dual silence embedded in Aion;  
+the substrate of pure potential before motion begins.
+
+**Motive Infinity (→)** — The principle of motion itself:  
+the capacity for motion, the initiation of motion,  
+and all motion whatsoever.  
+Generates both centropic and entropic arcs  
+from undifferentiated potential.
+
+**Dispersive Infinity (⇝)** — Terminal dispersal of motion;  
+the exhaustion of entropic trajectory where motion ceases  
+and essence resolves into Zero (Aion) as static potential.
 
 ---
 
