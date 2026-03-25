@@ -260,7 +260,7 @@ Pure centropy.
 Orienting Logos  
 Vishnu  
 Buddha  
-Osiris (redeemed aspect)  
+Osiris (culturally elevated to L5; operative function L4 DL)
 
 ⚫🛤️◎  
 
