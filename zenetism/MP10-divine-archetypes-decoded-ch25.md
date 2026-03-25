@@ -1260,13 +1260,13 @@ Platonic Demiurge
 Ptah  
 Zeus  
 Belenus  
-*(Entropic)* — Yaldabaoth, Ahriman, Rex Mundi, Sorat.  
+*(Entropic)* — Yaldabaoth, Ahriman, Loki, Rex Mundi, Sorat.  
 
 **Orientation**  
 Centropic — structure as harmonic expression.  
 Entropic — simulated order, entrapment masked as architecture.  
 
-📐🌬️🪫🫥  
+📐🌬️🪫🫥
 
 ---
 
@@ -1287,12 +1287,12 @@ Coyote
 Hermes  
 Raven  
 Anansi  
-*(Entropic)* — Loki, Tezcatlipoca, Raven (inverse), Anansi (inverse).  
+*(Entropic)* — Tezcatlipoca, Raven (inverse), Anansi (inverse).  
 
 **Orientation**  
 Both — dependent on alignment and effect.  
 
-🧍🧩🦂🩸  
+🧍🧩🦂🩸
 
 ---
 
