@@ -1562,7 +1562,7 @@ Its inherent function is always disruptive.
 - **AMI** — the undivided field of Aion and Khaon — is pre-dual but structured.  
 - It unfolds into ordered coherence in Theon (**AUI**) and is inversely mirrored in Nekron (**IAUI**).  
 - Plotinus’ *One beyond Being* corresponds to Zenon.  
-- **Nous** aligns with Theon; **World Soul** aligns with DP / DL.  
+- **Nous** aligns with Sophis (DL); **World Soul** aligns with Morgis (DP).  
 
 ⌬▲🌑
 
