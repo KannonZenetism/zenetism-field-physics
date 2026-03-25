@@ -865,28 +865,34 @@ Agricultural god.
 Former cosmic ruler associated with time and cycles.  
 
 **Function**  
-Embodies order and the erosion of that order through overconstraint.  
-Governs cycles, time, and limitation.  
+Entropic order.  
+Time as dissolution.  
+Limitation, devouring, and the exhaustion of form.  
 
 **Zenetist Placement**  
-**DL** (Sophis) — lawful structuring principle.  
-**Khaon** (AD) — collapse through rigidity, exhausted order dispersing.  
+**IDP / IDL** — Titan; inverse archetypal order.  
+Terminal resonance at **Khaon (AD)** — dispersal through exhausted structure.  
 
 **Justification**  
-Saturn is the arc of Logos turned inward —  
-structure preserving coherence becomes rigid,  
-and rigidity collapses to dispersal.  
-Measures time and the decay time induces.  
+Saturn is inverse archetypal order — 
+structure without centropic orientation, 
+lawfulness turned toward limitation and decay. 
+As leader of the Titans, he embodies the full entropic cycle 
+**(`E↑ → E → E↓ → ♾`)**: 
+motion into form, embodied erosion, collapse, 
+and terminal dispersal into Khaonic Infinity. 
+Time devours what it generates, 
+driving form toward exhaustion and dissolution.
 
 **Ethical Orientation**  
-Centropic → entropic.  
+Entropic.  
 
 **Symbolic Counterparts**  
-Chronos  
-Ahriman  
-Malfunctioning Demiurge  
+Chronos (Greek form)  
+The Titans (native class)  
+Yama (time-lord of dissolution)  
 
-📐♾☍  
+☍🪼♾  
 
 ---
 
