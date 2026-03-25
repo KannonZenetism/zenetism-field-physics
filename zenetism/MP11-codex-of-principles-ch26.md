@@ -1765,7 +1765,7 @@ without enforcing artificial symmetry.
 
 ---
 
-### Note on Mathematical Formalism and Emanative Structure
+#### Note on Mathematical Formalism and Emanative Structure
 
 Zenetism affirms that the Tree of Emanation is **lawful and describable**,  
 yet its mathematical articulation is **not yet complete**.
