@@ -25,6 +25,8 @@
 
 | Abbreviation | Meaning |
 |:--|:--|
+| AP / AD | Absolute Potential / Dispersion (L₀: Aion / Khaon) |
+| EOB | Essence of Being (L₅) |
 | DP | Deep Psyche (Soul aspect of L₄) |
 | DL | Deep Logos (Mind aspect of L₄) |
 | DS | Deep Soul (Soul aspect of L₃) |
@@ -33,10 +35,8 @@
 | SM | Superficial Mind (Mind aspect of L₂) |
 | ES | Embodied Soul (Soul aspect of L₁) |
 | EM | Embodied Mind (Mind aspect of L₁) |
-| IDP–IEM | Inverse counterparts (IL₄–IL₁) |
-| EOB | Essence of Being (L₅) |
 | VOS | Void of Self (IL₅) |
-| AP / AD | Absolute Potential / Dispersion (L₀: Aion / Khaon) |
+| IDP–IEM | Inverse counterparts (IL₄–IL₁) |
 | (⚠) | Placement flagged for review |
 
 ---
