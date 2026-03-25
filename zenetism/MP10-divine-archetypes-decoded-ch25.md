@@ -1115,7 +1115,7 @@ Christ (Orienting Logos)
 Sophia unfallen (DP: Morgis)  
 Isis (restorative integration)  
 
-*Avalokiteśvara’s compassionate declivity expresses through L3 stewards; 
+*Avalokiteśvara’s compassionate declivity expresses through L3 stewards;  
 Archeus functions here as a vessel of transmission, not a counterpart.*
 
 🌬️📐💠  
