@@ -1313,7 +1313,7 @@ Centropic / Creative.
 
 ---
 
-### Note on Resonant Principles and Allegorical Maps
+#### Note on Resonant Principles and Allegorical Maps
 
 Each god or figure is not a separate being,  
 but a **resonant archetype** —  
