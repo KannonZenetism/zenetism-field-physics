@@ -750,7 +750,7 @@ and essence resolves into Zero (Aion) as static potential.
 #### Symbolic Counterparts  
 
 - Shakti (Vedic / Hindu)  
-- Motive Infinity (Becoming before form)  
+- Chaos (Greek / Hesiodic gaping void)  
 - Prakriti (Samkhya / Vedic)  
 - Tiamat and Ymir (fragmented primal beings)  
 - The Fiery Wind / Breath of Brahman  
