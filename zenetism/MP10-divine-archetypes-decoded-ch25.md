@@ -221,9 +221,8 @@ Deep entropic.
 
 **Symbolic Counterparts**  
 Lucifer  
-Icarus  
-Cain (archetypal)  
 Disruptive Archons  
+The Illicit Innovator (Functional Type)  
 
 💔🪫🕷️  
 
