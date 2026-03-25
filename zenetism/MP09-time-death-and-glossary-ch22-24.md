@@ -894,7 +894,7 @@ but distortion occurs only when inverted.
 - Nous (Neoplatonic Divine Mind)  
 - Binah / Chokhmah (dual poles of Divine Mind)  
 - Sophia unfallen (Gnostic Wisdom-as-Vitality)  
-- Logos (pre-incarnate structuring force)  
+- Structuring Logos (pre-incarnate patterning force)  
 - Hiranyagarbha (Golden Womb of Vedic creation)  
 
 ♾⚙️❂  
