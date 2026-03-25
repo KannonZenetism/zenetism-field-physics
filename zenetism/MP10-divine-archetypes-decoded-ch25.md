@@ -654,6 +654,9 @@ Dionysus (ecstatic breakdown)
 Mahakala (cosmic dissolution)  
 Hades (mystagogue, not jailer)  
 
+*Hades appears here only as sovereign of the dissolution domain —  
+his operative function is L4 DL, while his jurisdiction is Khaonic.*
+
 ♾🛤️⌬  
 
 ---
