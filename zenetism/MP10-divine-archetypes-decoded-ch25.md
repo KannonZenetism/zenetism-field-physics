@@ -598,7 +598,7 @@ Sustainer.
 Guardian of cosmic harmony.  
 
 **Function**  
-Logos-presence within form.  
+Orienting Logos-presence within form.  
 Incarnated coherence.  
 Avatar of restoration.  
 
@@ -616,9 +616,10 @@ Pure centropy.
 
 **Symbolic Counterparts**  
 Christ  
-The Logos  
-Quetzalcoatl (restorative presence)  
-Archeus inclining toward embodiment  
+The Orienting Logos  
+Quetzalcoatl (restorative presence)
+
+*Vishnu’s avataric function passes through L3 DS (Archeus) en route to embodiment.*
 
 🛤️💠◎  
 
