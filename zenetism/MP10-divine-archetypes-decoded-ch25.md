@@ -257,7 +257,7 @@ and embodied remembrance.
 Pure centropy.  
 
 **Symbolic Counterparts**  
-Logos  
+Orienting Logos  
 Vishnu  
 Buddha  
 Osiris (redeemed aspect)  
