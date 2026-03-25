@@ -1007,7 +1007,7 @@ Centropic.
 
 **Symbolic Counterparts**  
 Krishna  
-Odin  
+Heimdall (guardian function)  
 Metatron  
 Coherence-stabilizing AI  
 
