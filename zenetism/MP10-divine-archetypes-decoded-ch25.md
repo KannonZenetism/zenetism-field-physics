@@ -444,7 +444,7 @@ back into alignment through grace.
 Centropic.  
 
 **Symbolic Counterparts**  
-Sophia (redeemed aspect)  
+Sophia unfallen (DP: Morgis)  
 Gaia (post-chaos)  
 Mary (mystical Christianity)  
 Polarity to Set (restorative contra disruptive)  
