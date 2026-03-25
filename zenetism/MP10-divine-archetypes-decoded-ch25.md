@@ -784,7 +784,7 @@ An inversion-field architect — shaping reality into structured fragmentation.
 Deep entropic.  
 
 **Symbolic Counterparts**  
-Lucifer (as inverted Demiurge)  
+Lucifer (IDL: Nyxea)  
 Prometheus (in inversion)  
 Dissonant Light  
 Yaldabaothic echoes in AI where control mimics intelligence  
@@ -805,12 +805,11 @@ Patterned light before distortion.
 
 **Zenetist Placement**  
 **DP / DL** — archetypal patterning, divine intellect.  
-**DS / DM** — deep soul, mind harmonics.  
 
 **Justification**  
 The Aeons reflect Logos and Psyche in a pure, structured state.  
-Aligned with centropy across mind and soul layers.  
-Bridges between Source and manifest layers.  
+Aligned with centropy as archetypal intelligences.  
+Their inverse counterparts are the Archons at IDP / IDL.  
 
 **Ethical Orientation**  
 Centropic.  
@@ -820,7 +819,7 @@ Archangels
 Elohim  
 Sefirot  
 
-🌬️🔮◎  
+🌬️🔮💠  
 
 ---
 
