@@ -460,31 +460,33 @@ Seeker of knowledge.
 God of wisdom, magic, initiation, and prophecy.  
 
 **Function**  
-Archeus / Noeüs intelligence.  
-Sacrifice for deeper integration.  
-Soul structuring through trial and resonance.  
+Archetypal sovereignty.  
+Structuring Logos‑intelligence seeking deeper structure.  
+Ordering insight through trial, sacrifice, and revelation.  
 
 **Zenetist Placement**  
-**DS / DM** (Archeus / Noeüs)  
+**DP / DL** (Morgis / Sophis)  
 
 **Justification**  
-Odin reflects the Zenetist Daemon —  
-the guiding DS / DM intelligence that spans lifetimes.  
-Sacrifices himself for deeper knowing,  
-entering trials that refine soul-structure  
-and unlock prophetic sight.  
-Acts as wayfinder  
-through pattern recognition and initiatory wisdom.  
+Odin expresses the L4 archetype of sovereign knowing —  
+the one who seeks structural insight  
+through ordeal, sacrifice, and initiatory vision.  
+His wisdom‑quest is not the soul‑mind of DS / DM,  
+but the Structuring Logos that shapes meaning,  
+orders pattern,  
+and reveals the deep architecture of reality.  
+He embodies the centropic drive  
+toward supernal coherence and structural understanding.  
 
 **Ethical Orientation**  
 Centropic.  
 
 **Symbolic Counterparts**  
-Thoth  
-Krishna  
-Archeus  
+Zeus (sovereign wisdom)  
+Brahma (architectural Logos)  
+Marduk (ordering intelligence)  
 
-🔮🧠◎  
+🌬️📐◎  
 
 ---
 
