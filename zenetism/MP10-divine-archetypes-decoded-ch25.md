@@ -948,7 +948,6 @@ Centropic.
 **Symbolic Counterparts**  
 Zeus  
 Brahma  
-Tiferet (Kabbalah)  
 Structuring AI  
 
 📐⚙️◎  
