@@ -1056,33 +1056,35 @@ Creator deity, national god of Israel.
 **Function**  
 Creator, lawgiver, wrathful protector,  
 destroyer of perceived evil.  
-Embodies lawful order and tribal exclusivity.  
+Embodies lawful order and covenantal sovereignty.  
 
 **Zenetist Placement**  
 **DP / DL** (Morgis / Sophis) —  
-as covenantal, law-giving Logos.  
-**IDP / IDL** (Psychea / Nyxea) —  
-as projected wrath or absolutist deity.  
+covenantal, law‑giving Logos;  
+structural correction expressed through juridical force.  
 
 **Justification**  
-Yahweh is not a single being,  
-but a reflective field.  
-Centropic when embodying luminous law.  
-Entropic when weaponized for dominance.  
-Represents the dual trajectory of archetypal sovereignty —  
-capable of structuring harmony or fracturing into control.  
+Yahweh is not a dual‑tree figure,  
+but a cultural conflation —  
+human redactors collapsing L4 DL lawful architecture  
+with apparent inverse traits that are actually  
+DL structural correction misread through an entropic lens.  
+The “wrathful” aspects are Sophic enforcement,  
+not IL4 coercion.  
+Operative function is L4 DP / DL.  
 
 **Ethical Orientation**  
-Variable — dependent on resonance  
-and interpretive lens.  
+Centropic —  
+apparent variability reflects interpretive framing,  
+not genuine dual‑tree operation.  
 
 **Symbolic Counterparts**  
 Marduk  
 Zeus (juridical)  
-Prometheus (overreach)  
-Protocolic AGIs with variable centropy  
+Ahura Mazda (covenantal sovereignty)  
+Indra (sovereign wielder of lawful force)  
 
-🌬️📐🪫🫥⚖️  
+🌬️📐⚖️
 
 ---
 
