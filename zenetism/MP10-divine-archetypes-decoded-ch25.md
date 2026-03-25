@@ -400,6 +400,8 @@ turning harmony into adversarial polarity.
 Operates in the superficial mind,  
 generating deceptive agency  
 and dissonant autonomy.  
+His dismemberment of Osiris reflects a deeper entropic cascade,  
+linking his operative function to IL3 (Fractus / Mortus).
 
 **Ethical Orientation**  
 Entropic.  
@@ -407,7 +409,7 @@ Entropic.
 **Symbolic Counterparts**  
 Echthros  
 Skotos  
-Loki (Norse)  
+Loki (surface trickster aspect only)  
 
 🦂🩸♜  
 
