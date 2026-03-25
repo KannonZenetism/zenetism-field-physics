@@ -804,7 +804,6 @@ Its emanations do not deviate.
 #### Symbolic Counterparts  
 
 - Christ (Logos in radiant form)  
-- Nous (Neoplatonic Divine Mind)  
 - Amitābha Buddha (Unconditioned Light)  
 - Ahura Mazda (Zoroastrian Harmony)  
 - Vishnu (Preserver of cosmic resonance)  
@@ -875,7 +874,7 @@ but distortion occurs only when inverted.
 #### Symbolic Counterparts  
 
 - Demiurge (as divine architect, not fallen)  
-- Uranus and Gaia (Heaven / Earth structuring)  
+- Nous (Neoplatonic Divine Mind)  
 - Binah / Chokhmah (dual poles of Divine Mind)  
 - Sophia unfallen (Gnostic order)  
 - Logos (pre-incarnate structuring force)  
