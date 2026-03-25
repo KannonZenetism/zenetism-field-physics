@@ -410,7 +410,9 @@ Entropic.
 **Symbolic Counterparts**  
 Echthros  
 Skotos  
-Loki (surface trickster aspect only)  
+Loki (surface trickster aspect only)
+
+*IL2 trickster attribution reflects cultural conflation of deeper functions.*
 
 🦂🩸♜  
 
