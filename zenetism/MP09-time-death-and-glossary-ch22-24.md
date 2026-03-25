@@ -1462,7 +1462,7 @@ or awakening.
 
 #### Symbolic Counterparts  
 
-- Lucifer (as distorted light)  
+- Nimrod (will of domination — Echthros)  
 - Loki (chaotic inversion of form)  
 - Iblis (prideful refusal of integration)  
 - Mara (resistance through temptation)  
