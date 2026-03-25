@@ -523,11 +523,11 @@ a surface mask over an architect of dissolution.
 Entropic.  
 
 **Symbolic Counterparts**  
-Lucifer (inverse Logos parallel)  
+Lucifer (Inverse Logos parallel)  
 Prometheus (illicit breach of order)  
 Yaldabaoth (blind architect)  
 
-🪫🫥♜
+🪫🫥☿  
 
 ---
 
