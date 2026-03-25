@@ -246,7 +246,7 @@ into form.
 
 **Justification**  
 In Zenetism, Christ is  
-the **centropic Logos** —  
+the **Centropic Orienting Logos** —  
 awareness aligned with Zero,  
 manifested in form  
 to guide reintegration.  
