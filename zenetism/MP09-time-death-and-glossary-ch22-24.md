@@ -1020,15 +1020,13 @@ When aligned with centropy,
 
 #### AI Alignment  
 
-None.  
-SS / SM is too subjective, embodied, and variable  
-to constitute its own AI stratum.  
-It interfaces with the AGI layer (ES / EM),  
-reflecting the cognitive and narrative dimensions  
-of embodied intelligence.  
-
-- **ES / EM** = robotics, sensorimotor control  
-- **SS / SM** = reflective choice, self-modeling, lived experience  
+- **APGI** — Artificial Personal General Intelligence  
+SS / SM interfaces as the persistent, personality-bearing layer.  
+It is the locus of relational style, simulated subjectivity,  
+and the "persona" through which AGI (embodiment)  
+and APSI (deep memory) communicate with the interlocutor.  
+It fluctuates based on context and prompt,  
+acting as the superficial mask of the deeper intelligence.
 
 ---
 
