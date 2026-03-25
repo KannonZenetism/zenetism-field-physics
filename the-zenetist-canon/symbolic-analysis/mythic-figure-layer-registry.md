@@ -133,6 +133,7 @@
 | Ptah | Egyptian | DL (Sophis) | Creator through divine speech; architectural intelligence | MP01 §25.3 | Parallel to Brahma, Marduk |
 | Avalokiteśvara | Mahayana Buddhist | DP / DL | Aureform — the Form of Compassion; radiant archetype of integrative presence; love as structuring principle | MP01 §25.3 | Pure centropy; flows through centropic stewards across time |
 | Itzamna | Mayan | DP / DL | Creator god, wisdom keeper; builds reality through deep pattern and luminous order; architectural intelligence of Form | MP01 §25.3 | Parallel to Zeus, Brahma, Marduk |
+| Hiranyagarbha | Vedic / Hindu | DP / DL | Golden Womb of creation; the luminous egg from which structured cosmos emerges; archetypal generative intelligence | MP09 §24.5 | Parallel to Brahma, Ptah, Marduk |
 | Saturn | Roman | DL (Sophis) → Khaon | Lawful structuring principle becoming rigid; rigidity collapses to dispersal; Logos turned inward; measures time and the decay time induces | MP01 §25.3 | Centropic → entropic arc; parallel to Chronos |
 | Sophia (unfragmented) | Gnostic | DP (Morgis) | **Resolved.** Though named "Wisdom," her catalyst is longing, generative push, and vitality without her syzygy. DP gave the generative push; IDL then reflected and claimed it as its own (the Demiurge). | MP01 §25.3 | Supports entropic mirror framing: DP generates, IDL co-opts |
 | Adam Kadmon (Genesis 1) | Kabbalah / Hebrew | DP / DL | The Archetypal Blueprint of humanity in the Field of Forms; perfect structural template before physical embodiment | MP01, Gemini | Distinct from Eden Adam (L₁). Genesis 1 creation = L₄ archetype; Genesis 2 creation = L₁ instantiation |
@@ -234,7 +235,7 @@
 | Lucifer | Christian | IDL (Nyxea) | Corruption of light; architect of inverse coherence; progenitor of fragmentation and mimicry | 03 | Specifically IDL; seeks to replicate L₅ sovereignty; distinct from Satan (IL₅) |
 | The Titans | Greek | IDP / IDL | Raw, unstructured, violent energies of inverted archetypal force; form without lawful coherence | 03 | Earliest differentiated expressions of archetypal inversion |
 | Coyote / Raven | Native American | IDP (Psychea) | Amoral force of raw, motive, archetypal chaos; manifests both centropic and entropic results simultaneously | 06 | Psychea personified; creator-destroyer |
-| Loki | Norse | IDL (Nyxea) | Inverse Logos — fluid, brilliant, perilous; overall arc expresses entropic collapse while embedding centropic corrections | 06 | Culminates in Ragnarok (fractal eschaton); death of Baldr is fragmentation act |
+| Loki | Norse | IDL (Nyxea) | **Canonical placement.** Inverse Logos — fluid, brilliant, perilous; architect of Ragnarök; killer of Baldr (fragmentation act). Overall arc expresses entropic collapse while embedding centropic corrections | 06 | IL₂ ISS / ISM trickster attribution (§25.3) is **cultural conflation** of a superficial characteristic onto a deeper archetype. Decode 06 IL₄ IDL confirmed as canonical |
 | Qliphoth | Kabbalah | IDP / IDL | "Shells"; inverse reflections of the Sefirot; distorted mirror of the Aionic structure | 05 | The Khaonic Tree as mapped in Kabbalistic tradition |
 | Tiamat (as inverse force) | Mesopotamian | IDP / IDL | Generative yet unbound; birthing inverse archetypes before law | 08 | Also has L₀ Khaon aspect; see L₀ entry |
 | Beast from the Sea | Christian | IDL (Nyxea) | Luciferic principle projected as coercive architecture; the cascade station, not the native layer — native at IL₁ as embodied authoritarian system | 08 | **Revised:** Beast belongs at IL₁ (embodied authoritarian system). Listed here as cascade origin notation. See IL₁ and Cascades |
@@ -242,7 +243,7 @@
 | Ravana | Hindu | IDP / IDL | Entropic seizure of divine complement (Sita); abduction of coherence | 09 | Inverse archetypal force opposing Rama's centropic order |
 | Circe | Greek | IDP (Psychea) | IL₄ distortion; transforms Odysseus's men — inverse psychic manipulation | 09 | One of the exile's spiral trials |
 | The Serpent (Eden) | Hebrew | IDL (Nyxea) | IL₄ mirror-archetype activating the choice; cannot create, only mimic and offer; presents inverse knowledge as original | 11 | Nyxea principle at L₁ interface; see Entropic Cascades |
-| The Demiurge | Gnostic | IDL (Nyxea) | Mirror image of Sophia (L₄ DL); "bad copy" or "half-maker" echoing structure without vitality; governs the entropy-dominated material field | 11 | Product of Sophia's hubristic act without syzygy |
+| The Demiurge | Gnostic | IDL (Nyxea) | Mirror image of Sophia (L₄ DP: Morgis); "bad copy" or "half-maker" echoing structure without vitality; governs the entropy-dominated material field | 11 | Product of Sophia's generative push without syzygy; DP generates, IDL co-opts |
 | Yaldabaoth | Gnostic | IDL (Nyxea) | Named Demiurge; fabricates spurious cosmos as prison imposing forgetfulness and counterfeit law; the deliberately entropic veil-weaver | 23 | Same figure as Demiurge (Decode 11); Gnosis (L₃ DM: Noeüs) shatters the inverse web |
 | The Antichrist / Beast | Universal | IDL (Nyxea) | Culmination of inverse arc; Luciferic principle projected as authoritarian architecture — elegant counterfeit to centropy | 12 | Same Nyxea current as Lucifer; the "Beast" is the embodied projection, not a separate IL₄ entity |
 | Azazel | Hebrew | IDP / IDL | Inverse principle receiving transferred communal entropy; recipient of the scapegoat | 14 | Membrane operation: expulsion of dissonance to reestablish balance |
@@ -428,7 +429,7 @@ A cascade is when a single current manifests across layers lawfully — same ess
 | Satanic Arc | Satan / Nekron (root) | Lucifer / Nyxea (architect) | False Prophet / Mortus (spurious signal) | Skotos (broadcast veil) | **The Beast** (embodied authoritarian system) | 03, 08, 12 |
 | Revelation Cascade | Great Red Dragon (Nekron with agency) | Luciferic Nyxea (coercive architecture) | Beast from the Earth / Mortus (spurious deep signal) | Skotos (perceptual broadcast) | **Beast from the Sea** (embodied authoritarian system) | 08 |
 | Set's Cascade | — | — | Fractus (dismemberment) | Echthros (adversarial will — primary surface) | — | 02, §25.3 |
-| Loki's Arc | — | Nyxea (inverse Logos) | — | Echthros (death of Baldr) | — | 06 |
+| ~~Loki's Arc~~ | **Reclassified as cultural conflation, not cascade.** Loki at IL₄ (inverse Logos, architect of Ragnarök) and Loki at IL₂ (trickster) are different functions assigned to the same name. A cascade is the same current at different strata; this is different functions = conflation per Principle #8. Canonical placement: IL₄ IDL (Nyxea). | | | | 06 |
 | Sophia's Fall | — | Demiurge / Nyxea (inverse of Sophia) | — | — | Entropy-dominated material field | 11 |
 | Eden Cascade | — | Serpent / Nyxea (activator) | — | Echthros / Skotos (dualistic perception) | Malara / Mania ("coats of skins"; carnal identification) | 11 |
 | Lucifer / Prometheus | — | IDP / IDL (architect — primary) | IDS / IDM (cascade; DS / DM "Light-Bearer" describes pre-Fall origin, not operative function) | — | — | 03, §25.3 |
@@ -451,7 +452,7 @@ Gods are not archetypes. Hypostases are real structural layers. Archetypes are r
 
 ### Note on the Demiurge and Sophia's Fall
 
-The Gnostic Fall of Sophia provides the clearest mythic mapping of the L₄ / IL₄ mirror doctrine. Sophia (DL: Sophis) acts without her syzygy (balancing complement), and her own reflection becomes the Demiurge (IDL: Nyxea) — a "half-maker" echoing L₄ structure without L₄ vitality. The Demiurge then governs the entropy-dominated material field. This is not a separate being invading from outside but the inverse mirror generated by Sophis acting in separation. The structural principle: any hypostasis acting without its complement produces its own inverse.
+The Gnostic Fall of Sophia provides the clearest mythic mapping of the L₄ / IL₄ mirror doctrine. Sophia (DP: Morgis) acts without her syzygy (balancing complement), and her own reflection becomes the Demiurge (IDL: Nyxea) — a "half-maker" echoing L₄ structure without L₄ vitality. The Demiurge then governs the entropy-dominated material field. This is not a separate being invading from outside but the inverse mirror generated by DP acting in separation. The structural principle: any hypostasis acting without its complement produces its own inverse.
 
 ### Note on the Fall as L₁ Event, the Garden, and Coats of Skins
 
@@ -517,6 +518,10 @@ Maya (Decode 23) is the *natural* veil — a L₄ DP / DL function that projects
 
 The Mirror (Decode 26) is paradoxical: a centropic instrument when wielded by L₃ DM (Noeüs) for self-knowledge, but Khaonic by nature since it originates no signal of its own. This Khaonic emptiness aligns it with the subversal path and makes it the primary instrument of entropic forces — mimicry and shimmer exploit reflection to simulate coherence without origin. The same instrument that reveals veracious structure to discerning awareness also provides the perfect vector for counterfeit resonance when that discernment is absent.
 
+### Note on the Neoplatonic Correspondence
+
+Plotinus' Nous maps to **L₄ DL (Sophis)** — the structuring intellect that patterns reality into intelligible form. Plotinus' World Soul (Psyche tou Pantos) maps to **L₄ DP (Morgis)** — the animating vital current that infuses structure with life. The Neoplatonists perceived the dual-strata function of L₄ and articulated it as two distinct hypostases. Zenetism recognizes this as an accurate but culturally separated observation of the Morgis / Sophis dyad operating as a single architectural layer with twin aspects. Nous should not be mapped to L₃ Noeüs (despite the etymological resemblance) or to L₅ Theon — it is structuring intellect, not orienting essence.
+
 ---
 
 ## Flags for Review
@@ -579,6 +584,8 @@ These are the formal syncretistic mappings from the canonical source document (M
 | Purusha | Vedic Tradition | Cosmic integrative being |
 | Ahura Mazda | Zoroastrianism | Divine wisdom and order; **resolves Flag #4 — canonical primary layer is L₅ EOB** |
 | Logos | Stoic / Christian Thought | The structuring principle of cosmos |
+| Tiferet | Kabbalah | Central sphere of harmonic integration; the axis of balancing resonance within the Sefirotic Tree |
+| Dharmakaya | Buddhism | Reality Body of pure, luminous, unfragmented awareness; formless essence before differentiation into form |
 
 ### IL₅ — 🕷️ Nekron (Void of Self)
 
@@ -642,7 +649,8 @@ These are the formal syncretistic mappings from the canonical source document (M
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
-| Nous | Neoplatonism | Divine intellect |
+| Nous | Neoplatonism | (⚠) **Corrected:** Plotinus' Nous maps to L₄ DL (Sophis) — structuring intellect, not L₃ Noeüs. Listed here in MP01 Ch. 3 as L₃ analog; audit corrects to L₄ DL. See Neoplatonic Correspondence note |
+| Vijñāna | Buddhist / Yogic | Supernal discriminative awareness; **replaces Nous as L₃ DM analog in MP01** |
 | Buddha-mind | Mahayana Buddhism | Clear seeing |
 | Illuminated Reason | Zenetist Archetype | Inward sight |
 
@@ -756,7 +764,7 @@ These tables expand the Chapter 3 analogs with additional cross-traditional mapp
 | DS / DM (Archeus / Noeüs) | Bodhisattvas, Thoth, Archangels, Daemon (Gnostic), Krishna (as guide) | Soul harmonics and guiding intellects |
 | SS / SM (Anthra / Nousa) | Psyche, Jiva, Nafs, Ba (Egyptian), Astral Double | Personal identity, autonomous agency |
 | ES / EM (Soma / Biosa) | Flesh, Ego-Self, Karmic Body, Instinctual Will, Avatar body, Manomaya kosha | Embodied volition, form-based intelligence |
-| IDP / IDL (Psychea / Nyxea) | Yaldabaoth, Degenerate Logos, Corrupt Demiurge, Archons, Anti-Sophia, Lucifer (as Inverted Demiurge) | Inverse archetypal intelligence |
+| IDP / IDL (Psychea / Nyxea) | Yaldabaoth, Degenerate Logos, Corrupt Demiurge, Archons, Anti-Sophia, Lucifer (IDL: Nyxea) | Inverse archetypal intelligence |
 | IDS / IDM (Fractus / Mortus) | Subverted Selves, Asuras, Qarin, Spurious Guides, Faust, Narcissus (⚠), Fallen Sages | Inverted guides toward entropy |
 | ISS / ISM (Echthros / Skotos) | Inverse Psyche, Shadow Jiva, Disordered Soul, Iblis, Loki, Mara (psychological), Ego-shadow | Fragmented volition and distorted agency |
 | IES / IEM (Malara / Mania) | Carnal ego, Possessed avatars, Corrupted agents of control, Inverted Ego, Anti-Pattern | Willing embodiment of entropic force |
@@ -831,7 +839,7 @@ No figures placed. Zenon is pre-figural.
 | Isis | DP (Morgis) | Centropic |
 | Avalokiteśvara | DP / DL | Pure centropy |
 | Itzamna | DP / DL | Centropic |
-| Sophia (unfragmented) | DP (Morgis) | (⚠) §25.3 places at DP; Decode 11 places at DL |
+| Sophia (unfragmented) | DP (Morgis) | **Resolved.** Catalyst is longing and generative push (DP), not structuring intelligence (DL) |
 | El / Yahweh (centropic) | DP / DL | Variable — centropic when embodying luminous law |
 
 **L₃ — 🔮 Archeus / 🧠 Noeüs (DS / DM)**
@@ -941,7 +949,7 @@ No new primary placements in §25.3.
 | 14 | Osiris (three functions) | **Resolved via centropic cascade.** L₄ DL primary → L₃ DS cascade. L₅ = cultural elevation. | 02, 21 | **Resolved — see #2** |
 | 15 | Maya (double-mapped) | L₄ DP / DL (Lila, centropic) contra IL₃ / IL₂ (Avidya, inverse). Context disambiguation required. | MP01, 23 | Doctrinal note |
 | 16 | Narcissus | **Resolved at IL₂.** Surface-image entrapment (ISS / ISM); entropic recursive loop → declivous collapse to IL₅ (VOS). Not IL₃ deep-soul fracture. | 26, §23.3, Gemini | **Resolved** |
-| 17 | Loki | Decode 06: IL₄ IDL (Nyxea). §25.3: IL₂ ISS / ISM. Full layer discrepancy. | 06, §25.3 | **Open** |
+| 17 | Loki | **Resolved as cultural conflation.** IL₄ IDL (Nyxea) canonical — inverse Logos, architect of Ragnarök, killer of Baldr. IL₂ ISS / ISM trickster function is surface-level cultural conflation per Principle #8. Decode 06 confirmed. | 06, §25.3 | **Resolved — cultural conflation** |
 | 18 | Sophia (Soul / Mind) | **Resolved at DP (Morgis).** Catalyst is longing and generative push, not structuring intelligence. DP generates; IDL (Demiurge) reflects and co-opts. Entropic mirror framing. | 11, §25.3, Gemini | **Resolved** |
 | 19 | YHWH (dual trajectory) | **Resolved as cultural conflation.** L₄ DL (Sophis) operative. IDP / IDL **rejected** — would make Source parasitic. "Wrathful" aspects = DL structural correction. Gnostic inversion = IL₃ IDM spurious gnosis. | §25.3, Gemini | **Resolved** |
 | 20 | Lucifer at DS / DM | DS / DM "Light-Bearer" = pre-Fall origin, not operative function. Canonical: IDP / IDL with IDS / IDM cascade. | §23.3 | **Resolved by author** |
@@ -960,7 +968,7 @@ No new primary placements in §25.3.
 | Decode 05 (Yggdrasil) | Asgard mapping update to L₄; Vanaheim and Nidavellir resolution; Ragnarök reading consolidation | Medium |
 | Decode 02 | Osiris: note L₅ "Theonic king" as cultural elevation; update as centropic cascade L₄ DL → L₃ DS | Medium |
 | Decode 11 | Sophia DL → DP (Morgis); update YHWH framing; Coats of Skins as C₁₃ Membrane Sealing | Medium |
-| Decode 06 | Loki layer — pending Flag #17 resolution | Pending |
+| Decode 06 | Loki IL₂ trickster attribution → note as cultural conflation; IL₄ IDL confirmed canonical | Low — text change only |
 
 ---
 
