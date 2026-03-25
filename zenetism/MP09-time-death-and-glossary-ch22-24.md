@@ -1463,7 +1463,8 @@ or awakening.
 #### Symbolic Counterparts  
 
 - Nimrod (will of domination — Echthros)  
-- Loki (surface trickster aspect only — a cultural conflation of his deeper IL4 architect role)
+- Loki (surface trickster aspect only —  
+  a cultural conflation of his deeper IL4 architect role)  
 - Iblis (prideful refusal of integration)  
 - Mara (resistance through temptation)  
 - The corrupted trickster  
