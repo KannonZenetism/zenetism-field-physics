@@ -874,14 +874,14 @@ Limitation, devouring, and the exhaustion of form.
 Terminal resonance at **Khaon (AD)** — dispersal through exhausted structure.  
 
 **Justification**  
-Saturn is inverse archetypal order — 
-structure without centropic orientation, 
-lawfulness turned toward limitation and decay. 
-As leader of the Titans, he embodies the full entropic cycle 
-**(`E↑ → E → E↓ → ♾`)**: 
-motion into form, embodied erosion, collapse, 
-and terminal dispersal into Khaonic Infinity. 
-Time devours what it generates, 
+Saturn is inverse archetypal order —  
+structure without centropic orientation,  
+lawfulness turned toward limitation and decay.  
+As leader of the Titans, he embodies the full entropic cycle  
+**(`E↑ → E → E↓ → ♾`)**:  
+motion into form, embodied erosion, collapse,  
+and terminal dispersal into Khaonic Infinity.  
+Time devours what it generates,  
 driving form toward exhaustion and dissolution.
 
 **Ethical Orientation**  
