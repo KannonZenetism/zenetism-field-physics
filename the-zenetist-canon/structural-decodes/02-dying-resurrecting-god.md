@@ -39,7 +39,7 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
 ### 1. Osiris (Egyptian)
 
 * **Focus:** Fragmentation and Reintegration.  
-    Osiris, the Theonic king (order, centropic), is dismembered by Set (IL₂ (ISS / ISM: Echthros / Skotos)).
+    Osiris, the sovereign judge (L₄ (DL: Sophis)), culturally styled as a Theonic king, is fragmented through the Fractus function (IL₃ (IDS: Fractus)) — an act culturally assigned to Set (IL₂ (ISS / ISM: Echthros / Skotos))
 
 * **Dismemberment:** The defining act of IL₃ (IDS: Fractus).
 
