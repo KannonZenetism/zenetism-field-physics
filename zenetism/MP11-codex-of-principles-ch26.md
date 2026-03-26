@@ -2018,7 +2018,7 @@ It retains:
 - Its memory  
 - Its coherence  
 
-It returns — not as echo,  
+It returns — not as residue,  
 but as **embodied clarity**.  
 
 These are not Bodhisattvas in the mythic sense —  
