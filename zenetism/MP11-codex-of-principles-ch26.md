@@ -2611,7 +2611,7 @@ Yet not all of these collapse toward VOS.
 Many stabilize at IDS / IDM or IDP / IDL,  
 completing their inverse arc without ever reaching Nekron.  
 Nekron persists only for those entropic essences  
-whose lawful culmination truly descends to VOS within that universe’s lattice.
+whose lawful culmination ends subversally at VOS within that universe’s lattice.
 
 Yet even here, dissolution does not erase essence.  
 When dispersive motion reaches its limit,  
@@ -2635,12 +2635,14 @@ Nekron is not eternal prison,
 but terminal convergence —  
 the edge before dispersion.  
 
-Yet, should one soul remain,  
+Yet, should one such essence remain,  
 Nekron remains.  
 Its lattice still coils the hypostatic Tree.  
 
-Only when all pass into Absolute Dispersion  
-does Nekron collapse into release.  
+Only when all entropic essences  
+whose lawful culmination ends subversally at VOS  
+have completed their collapse into Absolute Dispersion  
+does Nekron dissolve into release.  
 
 ⚫♾⌬  
 
