@@ -764,6 +764,7 @@ These are the formal syncretistic mappings from the canonical source document (M
 | Role | Layer | Function | Notes |
 |:--|:--|:--|:--|
 | Centropic Stewards | L₃ DS / DM (stabilized) | Souls achieving integration; remain at harmonic layer to assist others; incarnate across worlds; service through resonance | Not yet returned but already whole; harmonic bridges |
+| Ascended Masters | L₃ DS / DM expression of L₄ DP / DL Form-Type (Aureform) | Esoteric term Zenetism reframes, not adopts. Functional analog to Centropic Stewards. Integrated beings radiating centropic coherence through multiversal expression. Not Theonic avatars, not deities. | MP11 §26.15. Cultural elevation to L₅ or Supra-L₀ follows the same inflation pattern as Ahura Mazda, YHWH, Shiva |
 | Echo Vessels | IL₃ IDS / IDM (propagators) | Inverse counterparts to Centropic Stewards; propagators of fragmentation; seed confusion and install dissonance across domains | Awaken to disrupt; do not merely reflect dissonance but install it |
 
 ---
@@ -958,7 +959,33 @@ No new primary placements in §25.3.
 
 **Note on El / Yahweh's dual trajectory (Flag #19):** §25.3 explicitly places Yahweh at both DP / DL (centropic lawgiver) and IDP / IDL (entropic when weaponized). This is not cultural conflation but a structural claim: the same archetypal sovereignty can orient centropically or entropically depending on the interpretive lens and historical application. This is unique among registry placements — a figure whose *operative function genuinely spans both trees*.
 
-**Note on Lucifer at DS / DM (Flag #20):** §23.3 states "Lucifer as Light-Bearer may align with DS / DM." Author flags this as too generous. The Light-Bearer function may represent a pre-Fall state (cultural mythologization of what Lucifer *was* before inversion), not his operative function. Canonical placement should remain IDP / IDL with IDS / IDM cascade. The DS / DM suggestion should be understood as describing origin, not current structural station.
+**Note on Lucifer at DS / DM (Flag #20):** §23.3 states "Lucifer as Light-Bearer may align with DS / DM." Author flags this as too generous. The Light-Bearer function may represent a pre-Fall state (cultural mythologization of what Lucifer *was* before inversion), not his operative function. Canonical placement should remain IDP / IDL with IDS / IDM cascade. The DS / DM suggestion should be understood as describing origin, not current structural station. Note: "Lucifer's declivity from heaven" is incorrect Zenetist language — use "Lucifer's entropic inversion and resulting fragmentation." "From heaven" implies a centropic starting point, contradicting Flag #20's resolution.
+
+---
+
+## Appendix D — Symbolic Manifestation Archetypes (Source: MP11 §26.19)
+
+**Purpose:** Figures invoked not as structural placements but as cultural forms through which resonance encounters manifest perceptually. The shape of the encounter is determined by the practitioner's cultural conditioning, not by the figure's structural function. These figures already have structural placements in the main registry tables. Their appearance here documents a different function: how archetypal Forms appear perceptually during resonance encounters. This does NOT create a second placement.
+
+| Name | Tradition | Symbolic Function | Structural Placement (main registry) |
+|:--|:--|:--|:--|
+| Christ | Christian | Resonance-form encountered during centropic experience | L₅ EOB (Theon) |
+| Sophia | Gnostic / Platonic | Resonance-form of wisdom-longing | L₄ DP (Morgis) unfragmented |
+| Avalokiteśvara | Buddhist | Resonance-form of compassion | L₄ DP / DL (Aureform) |
+| Apollo | Greek | Resonance-form of structuring clarity | L₄ DL (Sophis) |
+
+**Critical distinction:** Perceptual encounter ≠ structural identity. A practitioner seeing "Christ" during meditation is perceiving L₅ Theonic resonance through a Christian cultural filter. The structure is the same; the symbolic clothing is relative.
+
+---
+
+### Note on Bidirectional Arcs
+
+Neither the centropic nor the entropic arc is unidirectional. Both have acclivous and declivous phases:
+- **Centropic traversal:** L₀ ↔ L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁
+- **Entropic traversal:** L₀ ↔ IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁
+- **Terminal expression summary:** L₀ ↔ L₁ (centropic) / L₀ ↔ IL₁ (entropic)
+
+This should be kept in mind when reviewing any entry that describes a figure's motion as purely one-directional. Declivous centropy (C↓→E) into embodiment and acclivous centropy (C↑⚫) toward Aion are two phases of the same centropic current, not separate phenomena.
 
 ---
 
@@ -993,19 +1020,62 @@ No new primary placements in §25.3.
 
 ## Documents Needing Decode Audit
 
-| Document | Issue | Priority |
-|:--|:--|:--|
-| Decode 04 | Shiva placement correction (L₀ / L₅, not L₄ DL) | High |
-| Decode 08 | Beast placement to IL₁; Dragon / Beast cascade distinction; remove separate IL₄ Beast entity | High |
-| Decode 03 | Aesir / Odin layer update to L₄; Asgard mapping update; add Heimdall at L₃ | High |
-| Decode 05 (Yggdrasil) | Asgard mapping update to L₄; Vanaheim and Nidavellir resolution; Ragnarök reading consolidation | Medium |
-| Decode 02 | Osiris: note L₅ "Theonic king" as cultural elevation; update as centropic cascade L₄ DL → L₃ DS | Medium |
-| Decode 11 | Sophia DL → DP (Morgis); update YHWH framing; Coats of Skins as C₁₃ Membrane Sealing | Medium |
-| Decode 06 | Loki IL₂ trickster attribution → note as cultural conflation; IL₄ IDL confirmed canonical | Low — text change only |
+### Decode 02 — Osiris, Set, Christ
+- Osiris: Note L₅ "Theonic king" as cultural elevation; update primary as centropic cascade L₄ DL → L₃ DS
+- Set: Update from "cascade" to "cultural conflation" — IL₂ ISS primary; dismemberment is IL₃ Fractus culturally assigned
+- Verify Christ cascade language consistent with registry
+- **Priority:** Medium
+
+### Decode 03 — Aesir, Odin, Ahura Mazda, Ahriman
+- Aesir / Odin: Layer update from L₃ DS to L₄ DP / DL
+- Asgard: Mapping update from L₃ to L₄ (parallel to Olympus)
+- Add Heimdall at L₃ DS / DM as native Norse figure
+- Verify Ahura Mazda at L₅ EOB, Ahriman at IL₅ VOS
+- **Priority:** High
+
+### Decode 04 — Shiva
+- Shiva placement correction: L₀ (Aion / Khaon) and L₅ (Theon), NOT L₄ DL
+- Verify Shakti at L₄ DP (Morgis)
+- **Priority:** High
+
+### Decode 05 — Yggdrasil, Norse Cosmology
+- Asgard mapping update to L₄ (with Aesir move)
+- Vanaheim and Nidavellir resolution if applicable
+- Ragnarök reading consolidation with single-trajectory cosmology
+- Verify Keter at L₀ Aion, Malkhut at L₁ ES / EM
+- **Priority:** Medium
+
+### Decode 06 — Loki, Trickster Figures
+- Loki: Primary native layer confirmed IL₄ IDL (Nyxea)
+- Remove or reclassify any "cascade" language as cultural conflation
+- IL₂ trickster function noted as cultural conflation per Principle #8
+- Verify Eshu / Elegua at L₄ DL (Sophis), Hermes / Mercury as structural operator
+- **Priority:** Low — text change only
+
+### Decode 08 — Beast, Dragon, Revelation Figures
+- Beast placement: IL₁ IES / IEM (embodied authoritarian system), NOT IL₄
+- Dragon (Great Red Dragon): IL₅ VOS (Nekron) — distinct from Beast
+- Dragon ≠ Beast: cascade (genuine), not identity. Dragon = Beast is conflation
+- Remove separate IL₄ Beast entity if present
+- Verify Marduk at L₄ DL, Indra at L₄ DL, Oedipus at L₂ SS / SM
+- **Priority:** High
+
+### Decode 11 — Sophia, Eden, YHWH, Serpent
+- Sophia: Update from DL to DP (Morgis) per Flag #18
+- YHWH: Remove any IDP / IDL placement per Flag #19; operative function is L₄ DP / DL
+- Coats of Skins: Verify as C₁₃ Membrane Sealing
+- Adam / Eve (Eden): Verify L₁ ES / EM with permeable membrane
+- Adam Kadmon (Genesis 1): Verify L₄ DP / DL
+- Serpent: Verify IL₄ IDL (Nyxea)
+- **Priority:** Medium
+
+### MP Source Document Corrections
+- **MP10 §25.3:** Odin (DS / DM → DP / DL), Loki (ISS / ISM → IDP / IDL + conflation note), YHWH (remove IDP / IDL), Saturn (DL → IDP / IDL)
+- **MP11:** Lucifer "declivity from heaven" → "entropic inversion and resulting fragmentation"
 
 ---
 
-*Registry complete — all 32 Structural Decodes (01–32) processed. MP01 Chapters 3, 23, and 25 canonical analogs integrated. Cross-conversation resolutions (including Gemini collaboration) applied.*
+*Registry complete — all 32 Structural Decodes (01–32) processed. MP01 Chapters 3, 23, and 25; MP09; MP10; and MP11 canonical material integrated. Cross-conversation resolutions (including Gemini collaboration) applied.*
 
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
