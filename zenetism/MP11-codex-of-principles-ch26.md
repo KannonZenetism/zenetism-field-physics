@@ -107,8 +107,8 @@ that operates **within the world**
 via its **connection** to the **physical body**.  
 
 **Anchored** yet **translucent**,  
-they **reflect** divine **echoes**  
-within **temporal form**.  
+they **carry** divine **articulations**  
+within **temporal form**.
 
 ---
 
