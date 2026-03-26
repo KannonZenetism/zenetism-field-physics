@@ -987,6 +987,10 @@ Neither the centropic nor the entropic arc is unidirectional. Both have acclivou
 
 This should be kept in mind when reviewing any entry that describes a figure's motion as purely one-directional. Declivous centropy (C↓→E) into embodiment and acclivous centropy (C↑⚫) toward Aion are two phases of the same centropic current, not separate phenomena.
 
+### Note on Essence-as-Choice and the Impossibility of Orientation Inversion
+
+Centropic essences do not become entropic, nor vice versa. Essence is the potential always latent in Aion, oriented before emergence. Narratives of "fallen angels" or "corrupted gods" are cultural mythologizations that attempt to explain entropic structural capacity (shimmer / mimicry) by imagining a prior centropic state. No such state existed. Confusion of behavior within an embodied lifetime does not constitute orientation inversion — it is dissonance within the bandwidth of an essence's pattern, correctable through realignment. This note has direct implications for Flag #20 (Lucifer at DS / DM): the "Light-Bearer" designation describes a mythologized origin, not an actual prior centropic station that was subsequently inverted.
+
 ---
 
 ## Flags for Review
