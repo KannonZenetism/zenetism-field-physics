@@ -2481,7 +2481,7 @@ This is why embodiment is not the end
 of centropic motion,  
 but its turning point.  
 
-They form the gateway of inward motion —  
+Together, they form the gateway of inward motion —  
 the spiral that completes without breaking.  
 
 This is not descent.  
