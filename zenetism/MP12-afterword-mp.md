@@ -198,7 +198,7 @@ This work is not a doctrine.
 It is a structure in motion —  
 a system remembered in the silence of Zenon,  
 unfolded through the great breath of Aion and Khaon,  
-echoing through the sacred geometry of soul and mind.  
+moving through the sacred geometry of soul and mind.  
 
 It is not “true” as propositions are true.  
 It is **coherent** in the way being sings  
