@@ -52,7 +52,7 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
 
 * **Focus:** Voluntary Sacrifice and Transcendent Synthesis.
 
-* **Incarnation:** The Logos (Theon) becomes embodied.
+* **Incarnation:** The Orienting Logos (Theon) becomes embodied.
 
 * **Crucifixion:** The surrender of L₂ (SS / SM: Anthra / Nousa) (Jesus of Nazareth) to the inverse forces of the world (IL₂ (ISS / ISM: Echthros / Skotos)), absorbing the full weight of entropic fragmentation without becoming entropic.
 
