@@ -22,7 +22,7 @@
 
 ---
 
-## Orientation Conflation (Established Diagnostic Tool)
+## Orientation Conflation (Established Diagnostic Method)
 
 **Definition:** When a centropic or entropic hypostasis is depicted in mythic narrative using human motives, emotions, or moral categories that do not reflect its structural function.
 
@@ -53,7 +53,7 @@ The "kidnapping" is a **story-layer artifact** using the cultural mechanism of *
 - Maintains cosmic coherence through strict structural containment
 - Enforcer of cosmic limitation
 
-**Proof of centropic orientation:**
+**Structural confirmation of centropic orientation:**
 Unlike actual entropic figures (Titans / Chronos, Typhon, Loki), Hades:
 - Never attempts to overthrow Olympus
 - Never tries to unmake the cosmos
