@@ -186,7 +186,7 @@ which are temporary enactments
 of centropic resonance in beings  
 not fully integrated.  
 
-The Steward’s **resonance** may echo  
+The Steward’s **resonance** may extend  
 across **multiple universes** and **embodiments**,  
 but remains oriented through the **supernal arc**,  
 never absorbed into collapse.  
