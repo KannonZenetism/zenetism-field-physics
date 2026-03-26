@@ -54,7 +54,7 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the C
 * **Focus:** Mythologized Radiance and Inverse Sovereignty.  
     Lucifer ("Light-Bearer") does not reflect a genuine pre-inversion centropic state.  
     Per Essence-as-Choice, entropic essences do not originate centropically.  
-    The so-called light-bearing capacity is Nyxea’s structural mimicry of luminous authority—an inverse simulation of L₄ radiance, not the remnant of an unfallen condition.  
+    The so-called light-bearing capacity is Nyxea’s structural mimicry of luminous coherence—an inverse simulation of L₄ radiance, not the remnant of an unfallen condition.  
     This reflects IL₄ (IDL: Nyxea) attempting to replicate L₅ (EOB: Theon) sovereignty.
 
 * **Michael (L₃ (DS / DM: Archeus / Noeüs)):** The Deep Soul / Deep Mind principle acting as the Resonant Blade of centropic integrity, enforcing the seal of lawful order.
