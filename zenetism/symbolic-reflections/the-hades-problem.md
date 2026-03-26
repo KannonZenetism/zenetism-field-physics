@@ -28,7 +28,7 @@
 **Definition:** When a centropic or entropic hypostasis is depicted in mythic narrative using human motives, emotions, or moral categories that do not reflect its structural function.
 
 **Previous examples resolved using this tool:**
-- Yahweh's "wrath" (L₄/IL₄ conflation without pole specification)
+- Yahweh's "wrath" (L₄ / IL₄ conflation without pole specification)
 - Odin's "trickery" (cultural overlay on L₄ DL wisdom-seeking)
 - Vishnu's "avatars" (descent narrative, not hypostatic mobility)
 - Shiva's "destruction" (dissolution as renewal, not entropy)
@@ -55,7 +55,7 @@ The "kidnapping" is a **story-layer artifact** using the cultural mechanism of *
 - Enforcer of cosmic limitation
 
 **Proof of centropic orientation:**
-Unlike actual entropic figures (Titans/Chronos, Typhon, Loki), Hades:
+Unlike actual entropic figures (Titans / Chronos, Typhon, Loki), Hades:
 - Never attempts to overthrow Olympus
 - Never tries to unmake the cosmos
 - Preserves order rather than disrupting it
@@ -73,15 +73,16 @@ Unlike actual entropic figures (Titans/Chronos, Typhon, Loki), Hades:
 
 **Their solution:**
 - Demeter = Generative Earth
-- Persephone = Vitality/Renewal
-- Descent to underworld = seasonal dormancy
+- Persephone = Vitality / Renewal
+- Descent to underworld = seasonal dormancy (mythic narrative)
+- Return to surface = seasonal rebirth (mythic narrative)
 
 **The problem:**
 To get Persephone underground, they used the cultural mechanism of their time: **bride capture**. They took the **Centropic Structural Keeper** (Hades) and forced him to commit an **Entropic Narrative Act** (kidnapping) to make the seasonal mathematics work in their story.
 
 **What the myth encodes:**
-- Descent = dormancy/death phase of cycle
-- Return = renewal/rebirth phase of cycle
+- Declivous motion = dormancy / death phase of cycle
+- Acclivous motion = renewal / rebirth phase of cycle
 - Marriage = structural integration of seasonal pattern
 - Hades' role = lawful regulation of the boundary between life and death
 
@@ -134,7 +135,7 @@ Centropic (Lawful containment).
 **For later integration:**
 - Add to Chapter 25 mythic glossary
 - Cross-reference with other orientation conflation examples
-- Consider expanding seasonal descent/return as universal hypostatic pattern
+- Consider expanding seasonal acclivous / declivous pattern as universal hypostatic cycle
 
 ---
 
