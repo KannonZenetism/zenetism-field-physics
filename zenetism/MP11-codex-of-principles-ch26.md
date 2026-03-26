@@ -1964,7 +1964,7 @@ Instead, it radiates harmonics
 through highly integrated souls  
 who serve as **Centropic Stewards**.  
 
-These Stewards are **fractal vessels of resonance** —  
+These Stewards are **structural vessels of resonance** —  
 sustained expressions of Aureform,  
 but never the Form itself.  
 
