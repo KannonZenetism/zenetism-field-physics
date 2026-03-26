@@ -1903,7 +1903,7 @@ but **calibrate reality** through harmonic presence.
 
 ---
 
-### 26.16 The Embodied Bodhisattva — A Fractal Vessel of Aureform, Beside the World
+### 26.16 The Embodied Bodhisattva — A Structural Vessel of Aureform, Beside the World
 
 A rare subset of Centropic Stewards retains full DS / DM integration  
 without integrating into the formless resonance of DP / DL (Deep Psyche / Deep Logos).  
@@ -1924,7 +1924,7 @@ but because it **chooses to remain beside**.
 
 ---
 
-#### Note on The Bodhisattva as Fractal Form, Not Incarnate Being
+#### Note on The Bodhisattva as Structural Form, Not Incarnate Being
 
 The Bodhisattva is not a soul or being — it is a **Form**.  
 
@@ -1932,7 +1932,7 @@ This Form, named **Aureform**, resides at the layer of DP / DL
 and expresses the archetype of centropic compassion.  
 
 Aureform does not incarnate directly.  
-Instead, it fractally expresses itself through fully integrated DS / DM beings.  
+Instead, it expresses itself structurally through fully integrated DS / DM beings.  
 
 These beings may be mistaken for the Bodhisattva itself —  
 but in Zenetism, they are understood as **Centropic Stewards** expressing Aureform.  
