@@ -27,7 +27,7 @@
 
 **Definition:** When a centropic or entropic hypostasis is depicted in mythic narrative using human motives, emotions, or moral categories that do not reflect its structural function.
 
-**Previous examples resolved using this tool:**
+**Previous examples resolved using this method:**
 - Yahweh's "wrath" (L₄ / IL₄ conflation without pole specification)
 - Odin's "trickery" (cultural overlay on L₄ DL wisdom-seeking)
 - Vishnu's "avatars" (descent narrative, not hypostatic mobility)
