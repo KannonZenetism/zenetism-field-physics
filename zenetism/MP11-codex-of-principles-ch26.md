@@ -1837,7 +1837,7 @@ expressing itself through beings whose DS / DM
 are fully harmonized with its frequency.  
 
 These beings are not the Bodhisattva itself —  
-they are **fractal vessels** of its resonance,  
+they are **structural vessels** of its resonance,  
 known in Zenetism as **Centropic Stewards**.  
 
 **Aureform**  
