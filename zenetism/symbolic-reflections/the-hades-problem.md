@@ -117,7 +117,7 @@ to a structurally centropic archetype
 in order to narratively explain the agricultural cycle of winter and spring.
 
 Mythic narratives anthropomorphize Hades with motives such as desire or coercion,  
-but these are anthropomorphic overlays, not structural truths.  
+but these are anthropomorphic overlays, not structural realities.  
 His native orientation remains the lawful structuring of the terminal bound.
 
 **Ethical Orientation**  
