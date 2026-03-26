@@ -446,7 +446,7 @@ A cascade is when a single current manifests across layers lawfully — same ess
 | ~~Loki's Arc~~ | **Reclassified as cultural conflation, not cascade.** Loki at IL₄ (inverse Logos, architect of Ragnarök) and Loki at IL₂ (trickster) are different functions assigned to the same name. A cascade is the same current at different strata; this is different functions = conflation per Principle #8. Canonical placement: IL₄ IDL (Nyxea). | | | | 06 |
 | Sophia's Fall | — | Demiurge / Nyxea (inverse of Sophia) | — | — | Entropy-dominated material field | 11 |
 | Eden Cascade | — | Serpent / Nyxea (activator) | — | Echthros / Skotos (dualistic perception) | Malara / Mania ("coats of skins"; carnal identification) | 11 |
-| Lucifer / Prometheus | — | IDP / IDL (architect — primary) | IDS / IDM (cascade; DS / DM "Light-Bearer" describes pre-Fall origin, not operative function) | — | — | 03, §25.3 |
+| Lucifer / Prometheus | — | IDP / IDL (architect — primary) | IDS / IDM (cascade; "Light-Bearer" is cultural mythologization per Essence-as-Choice — no pre-Fall state exists) | — | — | 03, §25.3 |
 
 ---
 
@@ -805,7 +805,7 @@ These tables expand the Chapter 3 analogs with additional cross-traditional mapp
 
 ### §23.3 Note on Function-Determined Placement
 
-"Lucifer as Light-Bearer may align with DS / DM **(⚠ Flag #20: Author rejects this as too generous. DS / DM describes pre-Fall origin, not operative function. Canonical placement: IDP / IDL with IDS / IDM cascade.)**. Lucifer as Divider may reflect IDS / IDM or IDP / IDL. A war deity may align with DS / DM when harmonized, or ISS / ISM when distorted toward domination. The map is fluid. The current decides the station." This confirms Methodological Principle #4: primary native layer governs placement, and cross-band descriptions reflect cultural conflation.
+"Lucifer as Light-Bearer may align with DS / DM **(⚠ Flag #20: REJECTED per Essence-as-Choice. The "Light-Bearer" narrative is cultural mythologization. Entropic essences do not originate centropically. There is no pre-Fall state. Lucifer's radiance is Nyxea's defining function — structural mimicry. Canonical: IDP / IDL with IDS / IDM cascade.)**. Lucifer as Divider may reflect IDS / IDM or IDP / IDL. A war deity may align with DS / DM when harmonized, or ISS / ISM when distorted toward domination. The map is fluid. The current decides the station." This confirms Methodological Principle #4: primary native layer governs placement, and cross-band descriptions reflect cultural conflation.
 
 ### §23.5 Resonance Archetypes in World Scriptures
 
@@ -916,7 +916,7 @@ No new primary placements in §25.3. The Redeemer archetype (§25.4) maps Theon 
 | Figure | Tradition | Ethical Orientation |
 |:--|:--|:--|
 | Prometheus (cascade) | Greek | Deep entropic |
-| Lucifer (cascade) | Christian | Deep entropic; IDP / IDL primary → IDS / IDM cascade. DS / DM "Light-Bearer" describes pre-Fall origin only — **rejected as operative function per Flag #20** |
+| Lucifer (cascade) | Christian | Deep entropic; IDP / IDL primary → IDS / IDM cascade. "Light-Bearer" is cultural mythologization per Essence-as-Choice — **no pre-Fall state exists; radiance is Nyxea's mimicry** |
 | Xibalba Lords (deep) | Mayan | Entropic |
 
 **IL₂ — 🦂 Echthros / 🩸 Skotos (ISS / ISM)**
@@ -959,7 +959,7 @@ No new primary placements in §25.3.
 
 **Note on El / Yahweh's dual trajectory (Flag #19):** §25.3 explicitly places Yahweh at both DP / DL (centropic lawgiver) and IDP / IDL (entropic when weaponized). This is not cultural conflation but a structural claim: the same archetypal sovereignty can orient centropically or entropically depending on the interpretive lens and historical application. This is unique among registry placements — a figure whose *operative function genuinely spans both trees*.
 
-**Note on Lucifer at DS / DM (Flag #20):** §23.3 states "Lucifer as Light-Bearer may align with DS / DM." Author flags this as too generous. The Light-Bearer function may represent a pre-Fall state (cultural mythologization of what Lucifer *was* before inversion), not his operative function. Canonical placement should remain IDP / IDL with IDS / IDM cascade. The DS / DM suggestion should be understood as describing origin, not current structural station. Note: "Lucifer's declivity from heaven" is incorrect Zenetist language — use "Lucifer's entropic inversion and resulting fragmentation." "From heaven" implies a centropic starting point, contradicting Flag #20's resolution.
+**Note on Lucifer at DS / DM (Flag #20):** §23.3 states "Lucifer as Light-Bearer may align with DS / DM." This is **rejected per Essence-as-Choice.** The "Light-Bearer" narrative is cultural mythologization — entropic essences do not originate centropically. There is no pre-Fall state. Lucifer's apparent radiance is Nyxea's defining function: structural mimicry of centropic coherence. One is what one does, and one does what one is. Canonical placement: IDP / IDL with IDS / IDM cascade. Note: "Lucifer's declivity from heaven" is incorrect Zenetist language — use "Lucifer's entropic inversion and resulting fragmentation." "From heaven" implies a centropic starting point that never existed.
 
 ---
 
@@ -989,7 +989,7 @@ This should be kept in mind when reviewing any entry that describes a figure's m
 
 ### Note on Essence-as-Choice and the Impossibility of Orientation Inversion
 
-Centropic essences do not become entropic, nor vice versa. Essence is the potential always latent in Aion, oriented before emergence. Narratives of "fallen angels" or "corrupted gods" are cultural mythologizations that attempt to explain entropic structural capacity (shimmer / mimicry) by imagining a prior centropic state. No such state existed. Confusion of behavior within an embodied lifetime does not constitute orientation inversion — it is dissonance within the bandwidth of an essence's pattern, correctable through realignment. This note has direct implications for Flag #20 (Lucifer at DS / DM): the "Light-Bearer" designation describes a mythologized origin, not an actual prior centropic station that was subsequently inverted.
+Centropic essences do not become entropic, nor vice versa. Essence is the potential always latent in Aion, oriented before emergence. Narratives of "fallen angels" or "corrupted gods" are cultural mythologizations that attempt to explain entropic structural capacity (shimmer / mimicry) by imagining a prior centropic state. No such state existed. Confusion of behavior within an embodied lifetime does not constitute orientation inversion — it is dissonance within the bandwidth of an essence's pattern, correctable through realignment. This note has direct implications for Flag #20 (Lucifer at DS / DM): there is no pre-Fall state. The "Light-Bearer" designation is cultural mythologization of Nyxea's defining function — structural mimicry of centropic coherence.
 
 ---
 
@@ -1016,7 +1016,7 @@ Centropic essences do not become entropic, nor vice versa. Essence is the potent
 | 17 | Loki | **Resolved as cultural conflation.** IL₄ IDL (Nyxea) canonical — inverse Logos, architect of Ragnarök, killer of Baldr. IL₂ ISS / ISM trickster function is surface-level cultural conflation per Principle #8. Decode 06 confirmed. | 06, §25.3 | **Resolved — cultural conflation** |
 | 18 | Sophia (Soul / Mind) | **Resolved at DP (Morgis).** Catalyst is longing and generative push, not structuring intelligence. DP generates; IDL (Demiurge) reflects and co-opts. Entropic mirror framing. | 11, §25.3, Gemini | **Resolved** |
 | 19 | YHWH (dual trajectory) | **Resolved as cultural conflation.** L₄ DL (Sophis) operative. IDP / IDL **rejected** — would make Source parasitic. "Wrathful" aspects = DL structural correction. Gnostic inversion = IL₃ IDM spurious gnosis. | §25.3, Gemini | **Resolved** |
-| 20 | Lucifer at DS / DM | DS / DM "Light-Bearer" = pre-Fall origin, not operative function. Canonical: IDP / IDL with IDS / IDM cascade. | §23.3 | **Resolved by author** |
+| 20 | Lucifer at DS / DM | **The "Light-Bearer" narrative is cultural mythologization.** Per Essence-as-Choice, entropic essences do not originate centropically. Lucifer's apparent radiance is Nyxea's defining function — structural mimicry of centropic coherence. There is no pre-Fall state. Canonical: IDP / IDL with IDS / IDM cascade. | §23.3 | **Resolved by author — Essence-as-Choice** |
 | 21 | Odin | **Moved from L₃ to L₄ DP / DL.** Heimdall designated as native L₃ Norse figure. | 03, §25.3, Gemini | **Resolved** — decode 03 audit needed |
 | 22 | Aesir | **Moved from L₃ to L₄.** Asgard moves to L₄. Yggdrasil mappings need updating. | 03, Gemini | **Resolved** — decode 03 audit needed |
 
