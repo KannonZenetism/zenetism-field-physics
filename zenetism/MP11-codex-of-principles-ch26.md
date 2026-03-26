@@ -1697,7 +1697,7 @@ directional motion and structural alignment.
 
 **Resonance**  
 The soul’s harmonic attunement to universal verity or divine order.  
-It is the subtle echo of Source within one’s being —  
+It is the subtle trace of Source within one’s being —  
 a vibration that signals alignment with supernal patterning.  
 
 **Coherence**  
