@@ -1043,7 +1043,7 @@ They reflect the soul’s journey across emanations.
 Myths are not measured by factual accuracy,  
 but by the **symbolic resonance** they carry.  
 
-Every figure, place, and event echoes a deeper pattern  
+Every figure, place, and event refracts a deeper pattern  
 about:  
 - The soul  
 - The cosmos  
