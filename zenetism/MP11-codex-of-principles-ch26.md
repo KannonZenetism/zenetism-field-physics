@@ -1903,15 +1903,15 @@ but **calibrate reality** through harmonic presence.
 
 ---
 
-### 26.16 The Embodied Bodhisattva — A Structural Vessel of Aureform, Beside the World
+### 26.16 The Embodied Steward — Known in Mythic Language as a Bodhisattva
 
 A rare subset of Centropic Stewards retains full DS / DM integration  
-without integrating into the formless resonance of DP / DL (Deep Psyche / Deep Logos).  
+without dissolving into the formless resonance of DP / DL.  
 
-These beings may choose to enter embodiment —  
-not by compulsion,  
-not by karmic necessity,  
-but through **willful containment** as an act of resonant service.  
+When such a Steward chooses embodiment,  
+mythic traditions describe them as **embodied Bodhisattvas** —  
+not because the Bodhisattva Form incarnates,  
+but because the Steward carries its resonance into form.  
 
 Their return is not redemptive in the avataric sense.  
 They do not restructure reality — they remain within it,  
@@ -1938,7 +1938,7 @@ These beings may be mistaken for the Bodhisattva itself —
 but in Zenetism, they are understood as **Centropic Stewards** expressing Aureform.  
 
 Just as SS / SM beings are expressions of DS / DM,  
-these rare incarnates are living reflections of the pattern of Aureform within embodied life.  
+these rare incarnates are structurally attuned carriers of Aureform within embodied life.  
 
 They are not hierarchically above —  
 they are structurally attuned.  
