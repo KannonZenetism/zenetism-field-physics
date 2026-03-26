@@ -1123,7 +1123,7 @@ entropic forces acclivating into embodiment without coherence.
 Often framed as prideful overreach or cosmic rebellion.  
 
 **Examples:**  
-- Lucifer’s declivity from heaven  
+- Lucifer’s entropic inversion and resulting fragmentation  
 - The Nephilim in Genesis  
 - Prometheus defying the gods to give fire to humanity  
 
