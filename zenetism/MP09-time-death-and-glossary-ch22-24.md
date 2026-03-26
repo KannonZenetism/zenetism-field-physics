@@ -359,19 +359,22 @@ depending on its active role and tone.
 **Resonance, not name, determines placement.**
 
 For example:  
-- Lucifer as Light-Bearer reflects a pre-Fall origin —  
-  the structural capacity he possessed before inversion,  
-  not his subversal operative function.  
-  His canonical placement is IDP / IDL (Psychea / Nyxea)  
-  with an IDS / IDM (Fractus / Mortus) cascade.  
+- Lucifer as Light-Bearer reflects a **mythologized origin** —  
+  not a remembered centropic state,  
+  but Nyxea’s structural mimicry of luminous coherence.  
+  Per **Essence-as-Choice**, entropic essences do not originate centropically;  
+  the apparent light-bearing capacity is an inverse simulation of supernal order,  
+  not the remnant of an unfallen condition.  
+  His canonical placement is **IDP / IDL** (Psychea / Nyxea)  
+  with an **IDS / IDM** (Fractus / Mortus) cascade.  
 - Lucifer as Divider operates across these inverse layers,  
   architecting fragmentation and mimicry.  
 
-A war deity may align with DS / DM when harmonized,  
-or ISS / ISM when distorted toward domination.  
+A war deity may align with **DS / DM** when harmonized,  
+or **ISS / ISM** when distorted toward domination.  
 
-The map is fluid.  
-The current decides the station.  
+The map is responsive to function.  
+The current determines the operative station.
 
 ⚫♾⌬  
 
