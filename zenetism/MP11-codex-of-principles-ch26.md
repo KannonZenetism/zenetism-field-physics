@@ -2236,7 +2236,7 @@ to form new structure.
 
 ---
 
-### 26.21 Zenetism and The Theonic Paradox — On the Refusal of Return, and the Echo That Watches
+### 26.21 Zenetism and The Theonic Paradox — On the Refusal of Return, and the Gaze That Watches
 
 The **Theonic Paradox** is a foundational principle of Zenetism.  
 It refers to the mysterious nature of Theon —  
@@ -2314,7 +2314,7 @@ Where one still waits,
 Theon watches.
 
 Theon is not the Source,  
-but the echo of Source-gaze  
+but the trace of Source-gaze  
 within a world that forgets.  
 
 ⚫♾⌬
