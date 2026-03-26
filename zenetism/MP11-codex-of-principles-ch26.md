@@ -2586,19 +2586,19 @@ The paradox of Theon reinforces this principle:
 
 ### 26.25 The Nekronic Paradox — When the Grinder Empties
 
-As Theon may remerge with Aion  
-when all centropic souls unify,  
+As Theon may return to Aion  
+when all centropic essences unify,  
 its inverse must also dissolve.  
 
 This is the **Nekronic Paradox**.  
 
-If all souls in Nekron (Void of Self)  
+If all essences in Nekron (Void of Self)  
 fully fragment and disperse into Khaon,  
 Nekron itself collapses.  
 
 Nekron is not judgment,  
 but a **field of erosion** —  
-grinding down the most fragmented inverse souls.  
+grinding down the most fragmented inverse essences.  
 
 Over time, even these remnants are worn away,  
 their unique identity ground to nothing,  
