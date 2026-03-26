@@ -80,8 +80,8 @@ Unlike actual entropic figures (Titans / Chronos, Typhon, Loki), Hades:
 To get Persephone underground, they used the cultural mechanism of their time: **bride capture**. They took the **Centropic Structural Keeper** (Hades) and forced him to commit an **Entropic Narrative Act** (kidnapping) to make the seasonal mathematics work in their story.
 
 **What the myth encodes:**
-- Declivous motion = dormancy / death phase of cycle
-- Acclivous motion = renewal / rebirth phase of cycle
+- Declivous motion = dormancy phase of cycle (narrative)
+- Acclivous motion = renewal phase of cycle (narrative)
 - Marriage = structural integration of seasonal pattern
 - Hades' role = lawful regulation of the boundary between life and death
 
@@ -117,7 +117,7 @@ in order to narratively explain the agricultural cycle of winter and spring.
 
 Mythic narratives anthropomorphize Hades with motives such as desire or coercion,  
 but these are anthropomorphic overlays, not structural realities.  
-His native orientation remains the lawful structuring of the terminal bound.
+His native orientation remains the lawful structuring of the terminal boundary.
 
 **Ethical Orientation**  
 Centropic (Lawful containment).
