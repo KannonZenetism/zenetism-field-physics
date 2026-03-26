@@ -773,7 +773,7 @@ where transformation becomes possible.
 The embodied layer is the turning point —  
 the plane of **friction**, **synthesis**, and **choice**.  
 
-Here, the echoes of both Trees meet,  
+Here, the currents of both Trees meet,  
 and the soul may begin to integrate, stagnate, or disperse,  
 depending on its **resonance**.  
 
