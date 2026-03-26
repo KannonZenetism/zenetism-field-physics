@@ -1,6 +1,6 @@
 # Draft Note: Orientation Conflation and the Hades Problem
 **Date:** March 26, 2026  
-**Status:** Unpublished interpretation note — for canon integration  
+**Status:** Draft for canon integration  
 **Source:** Clarified through AI‑collaborative dialogue  
 
 ---
