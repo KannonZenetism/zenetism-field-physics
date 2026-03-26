@@ -798,8 +798,8 @@ Some souls remain suspended at the SS / SM layer:
 - Adrift  
 
 This is the **liminal arc** of lingering awareness —  
-a purgatorial echo of unresolved presence  
-and fractured identity.  
+a purgatorial residue of unresolved presence  
+and unsettled identity.  
 
 Its nature is shaped by **centropic** or **entropic** tendencies,  
 the degree of coherence already attained,  
