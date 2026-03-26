@@ -187,6 +187,48 @@ Yama (Hindu lord of death and dissolution)
 
 ---
 
+#### ⟜ Hades (Greek)
+
+**Traditional Role**  
+Lord of the Underworld.  
+Keeper of the dead.  
+God of unseen wealth.
+
+**Function**  
+Structural containment.  
+Guardian of the terminal boundary.  
+Enforcer of cosmic limitation.
+
+**Zenetist Placement**  
+**L4 DL (Sophis)** — threshold of **Khaon**.
+
+**Justification**  
+Hades preserves cosmic law through lawful containment.  
+He prevents entropic cross-contamination between life and death.  
+His mythic “abduction” of Persephone is a cultural orientation conflation —  
+a narrative device encoding seasonal dormancy and renewal.  
+The myth assigns an entropic act to a centropic figure  
+to explain agricultural cycles using bride-capture symbolism.
+
+Mythic narratives anthropomorphize Hades with motives such as desire or coercion,  
+but these are overlays, not structural realities.  
+His native orientation remains the lawful structuring of the terminal boundary.
+
+**Ethical Orientation**  
+Centropic (Lawful containment).
+
+**Symbolic Counterparts**  
+- Osiris (as judge, not reborn)  
+- Yama (lawful adjudicator)  
+- Anubis (threshold guardian)
+
+*Parallel to Osiris-as-Judge and the Accuser in Job —  
+figures whose jurisdiction touches entropic domains without themselves being entropic.*
+
+📐⚖️⚫
+
+---
+
 #### ⟜ Prometheus (Greek)  
 
 **Traditional Role**  
