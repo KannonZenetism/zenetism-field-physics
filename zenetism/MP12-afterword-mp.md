@@ -137,7 +137,7 @@ it becomes it.
 
 From the ineffable stillness of Zenon  
 to the breath of your present moment —  
-you are the echo of possibility.  
+you are the trace of possibility.  
 You are the choice that chose itself.  
 
 Unfold accordingly.  
