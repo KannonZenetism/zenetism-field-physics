@@ -1542,10 +1542,10 @@ Spirit bifurcates:
 Not a fall,  
 but a divergence of potential —  
 a hypostatic divergence seeded in Spirit,  
-echoed in Soul and Mind.  
+expressed in Soul and Mind.  
 
 What we call motion in time and form  
-is the echo of that first stir:  
+is the unfolding of that first stir:  
 - Soul moves as experience  
 - Mind moves as pattern  
 - Embodiment channels both into what is felt and known  
