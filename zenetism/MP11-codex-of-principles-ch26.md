@@ -2607,7 +2607,11 @@ until they are drawn into Absolute Dispersion.
 Most universes keep some entropic residue —  
 essences caught in dispersive tension,  
 unwilling to release into coherence.  
-Thus Nekron persists in most Trees.  
+Yet not all of these collapse toward VOS.  
+Many stabilize at IDS / IDM or IDP / IDL,  
+completing their inverse arc without ever reaching Nekron.  
+Nekron persists only for those entropic essences  
+whose lawful culmination truly descends to VOS within that universe’s lattice.
 
 Yet even here, dissolution does not erase essence.  
 When dispersive motion reaches its limit,  
