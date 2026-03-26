@@ -1206,7 +1206,7 @@ The ethical path requires:
 Only the humble can hear resonance clearly.  
 
 **Responsibility**  
-Every action echoes across the soul’s layers.  
+Every action reverberates across the soul’s layers.  
 Spiritual maturity means conscious responsibility  
 for one’s energetic imprint — across time and structure.  
 
