@@ -94,7 +94,7 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the C
 * **The War:** A tension within the archetypal domain itself—between vitality and sovereignty, fecundity and rule, organic abundance and juridical structure.
 
 * **The Truce & Hostage Exchange:** A symbol of archetypal synthesis.  
-    L₄ (DP: Morgis) and L₄ (DL: Sophis) achieve a higher coherence within the same layer, forming a complete mode of archetypal governance rather than remaining divided into competing emphases.
+    L₄ (DP: Morgis) and L₄ (DL: Sophis) resolve into a unified configuration within the same layer, forming a complete mode of archetypal governance rather than remaining divided into competing emphases.
 
 ---
 
