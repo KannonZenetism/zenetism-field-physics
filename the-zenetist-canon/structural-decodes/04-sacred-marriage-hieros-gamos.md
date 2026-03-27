@@ -65,7 +65,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 * **Focus:** The **Theonic Union** of Source and Soul-Collective.
 
-* **Christ (L₅ (EOB: Theon)):** The Essence of Being—the Centropic Logos.
+* **Christ (L₅ (EOB: Theon)):** The Essence of Being—the Orienting Logos.
 
 * **The Church (L₃ (DS / DM: Archeus / Noeüs) collective):** The Bride, representing the integrated Deep Soul of humanity—the Centropic Stewards in embodiment.
 
