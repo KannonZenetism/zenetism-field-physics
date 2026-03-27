@@ -107,7 +107,7 @@ But this remains individually achieved integration, not illicitly distributed co
 At the archetypal layer, it dramatizes the operational distinction between the centropic and entropic trees as though one faction had been expelled from the other.  
 But at a deeper layer, it may also reflect a misreading of emanative differentiation itself: the distinct procession of centropic and entropic essences from **L₀ (AP / AD: Aion / Khaon)** is reimagined as an expulsion narrative within **L₄ (DP / DL: Morgis / Sophis)**.
 
-*Thus the myth confuses the layer of structural distinction with the layer of symbolic dramatization: what belongs to pre-emanative bifurcation is retold as a war among Forms.*
+*Thus the myth confuses the layer of structural distinction with the layer of symbolic dramatization: what belongs to the bifurcal differentiation of emanation is retold as a war among Forms.*
 
 ---
 
