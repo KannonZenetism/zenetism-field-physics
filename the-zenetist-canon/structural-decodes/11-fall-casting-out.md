@@ -73,7 +73,7 @@ This Sealing of the L₂/L₃ Membrane marks the genesis of L₂ (SS / SM: Anthr
 
 * **Focus:** The veracious mapping of the L₄/IL₄ Mirror Doctrine.
 
-* **State:** Sophia (the L₄ (DL: Sophis) principle, "Wisdom") in coherence.
+* **State:** Sophia (the L₄ (DP: Morgis) principle) in coherence.
 
 * **Transgression:** Sophia acts in hubris (separation, mimicry) without her syzygy (her balancing complement).
 
