@@ -208,7 +208,7 @@ L₄ itself remains a centropic domain — not a battlefield. Its purity is main
 
 The war persists because the tension between Coherence and Fragmentation recurs at every embodied moment — from the personal to the civilizational. Its teaching: consciousness at the meeting point is the field of engagement. "Heaven" and "Hell" are not destinations but archetypal sources whose influence converges in the embodied field, where discernment determines alignment.
 
-The war was not an event. It is the ongoing structural condition of embodied existence within a dual-tree cosmos.
+The war was not an event. It is the ongoing structural condition of embodied existence within the bifurcated Biospiral.
 
 ---
 
