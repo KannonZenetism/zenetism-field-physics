@@ -88,7 +88,7 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the C
 * **The Vanir (L₄ (DP: Morgis)):** Gods of vitality, fecundity, magic, and deep natural harmony.  
     They represent the Morgic pole of the archetypal field.
 
-* **The Aesir (L₄ (DP / DL: Morgis / Sophis)):** Gods of sovereignty, law, order, and structured archetypal governance.  
+* **(L₄ (DL: Sophis)):** Gods of sovereignty, law, order, and structured archetypal governance.  
     Odin belongs here as a sovereign L₄ figure, not as L₃ (DS / DM: Archeus / Noeüs).
 
 * **The War:** A tension within the archetypal domain itself—between vitality and sovereignty, fecundity and rule, organic abundance and juridical structure.
