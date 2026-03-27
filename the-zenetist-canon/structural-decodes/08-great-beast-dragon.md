@@ -6,16 +6,18 @@ The Beast is not a mere monster—it is the symbolic condensation of **Khaonic f
 It represents a vast, self-sustaining distortion: a **lawful entropic system** that challenges the centropic order through **predatory coherence** rather than chaos.
 
 **Core Glyphic Sequence:**  
-`♾ → 🕷️ → 🐉 → ☍`  
-*(Khaonic potential condenses into Nekronic force, forming the archetypal Beast, which enacts Fragmentation as organized will.)*
+`🕷️ → 🐉 → ☍`  
+*(Nekronic force condenses into the archetypal Beast, which enacts Fragmentation as organized will.)*
 
 ---
 
 ## Universal Structural Analysis
 
-* **Primordial and Chaotic (Khaon):**  
-    The Beast emerges from the **pre-formal Khaonic field**, often described as ancient, abyssal, or pre-cosmic.  
-    It embodies **Tiamat, Leviathan, or the Deep**, representing the unbound potential that resists L₄ (DL: Sophis) structuring.
+* **Primordial and Abyssal (Nekronic Origin):**  
+    The Beast cascades from **IL₅ (VOS: Nekron)**—the first entropic hypostasis.  
+    Myths describe it as ancient, abyssal, or pre-cosmic because the entropic tree is rooted in **L₀ (AD: Khaon)**, though Khaon itself is pre-dual, not entropic.  
+    This sense of primordial depth reflects entropy's terminal collapse: as relative structure erodes and can no longer sustain its dissonant configuration, the entropic arc does not integrate into Aionic stillness, but collapses into **Absolute Dispersion**.  
+    The Beast's apparent "ancientness" is therefore a cultural articulation of that deep structural condition, not literal emergence from the Khaonic field.
 
 * **Coherently Destructive (IL₄ (IDP / IDL: Psychea / Nyxea)):**  
     Unlike random disorder, the Beast operates with will and pattern.  
