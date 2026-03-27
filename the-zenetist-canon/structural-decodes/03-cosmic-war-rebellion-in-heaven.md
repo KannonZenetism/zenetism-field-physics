@@ -125,7 +125,7 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the C
 
 The Cosmic War narrates the emergence of archetypal structural conflict within relative reality.
 
-It describes the differentiation of the Trees of Emanation at the Archetypal level—the point at which centropic and entropic trajectories become manifest as opposed structural currents within the lattice.
+It describes the differentiation of the Trees of Emanation at the Archetypal layer—the point at which centropic and entropic trajectories become manifest as opposed structural currents within the lattice.
 
 The "rebels" are not merely villains in a moral drama, but structural necessities: the inverse pole against which centropic coherence defines and refines itself.
 
