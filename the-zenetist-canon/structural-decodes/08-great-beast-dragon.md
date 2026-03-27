@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Embodied Principle of Primordial Entropy.**  
-The Beast is not a mere monster—it is the symbolic condensation of **Khaonic force, inverse coherence,** and the **Entropic Pull** given sentient form.  
+The Beast is not a mere monster—it is the symbolic condensation of **Nekronic force, inverse coherence,** and the **Entropic Pull** given sentient form.  
 It represents a vast, self-sustaining distortion: a **lawful entropic system** that challenges the centropic order through **predatory coherence** rather than chaos.
 
 **Core Glyphic Sequence:**  
