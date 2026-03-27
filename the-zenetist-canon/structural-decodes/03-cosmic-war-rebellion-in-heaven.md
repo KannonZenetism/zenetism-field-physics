@@ -25,7 +25,7 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the C
 ---
 
 * **The Rebels / The Archons (IL₄ (IDP / IDL: Psychea / Nyxea)):**
-    * The inverse archetypal intelligences (Archons) formed by the inversion of the L₄ Aeonic field. This is the "Prideful One" or "Rebel" principle.
+    * The inverse archetypal intelligences (Archons) are the entropic mirrors of the L₄ Aeonic field, arising as its structural inversions rather than its creations. This is the "Prideful One" or "Rebel" principle.
     * Not an external adversary, but the inverse archetypal pole emerging through structural divergence.
     * The so-called "sin" is Hubris—not moral error, but a structural misalignment: the belief that a fragment can replicate or supersede the whole, violating the Non-Fusion Axiom and seeking Blobism.
 
