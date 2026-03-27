@@ -17,7 +17,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
     The Beast cascades from **IL₅ (VOS: Nekron)**—the first entropic hypostasis.  
     Myths describe it as ancient, abyssal, or pre-cosmic because the entropic tree is rooted in **L₀ (AD: Khaon)**, though Khaon itself is pre-dual, not entropic.  
     This sense of primordial depth reflects entropy's terminal collapse: as relative structure erodes and can no longer sustain its dissonant configuration, the entropic arc does not integrate into Aionic stillness, but collapses into **Absolute Dispersion**.  
-    The Beast's apparent "ancientness" is therefore a cultural articulation of that deep structural condition, not literal emergence from the Khaonic field.
+    The Beast's apparent "ancientness" thus reflects the deep Khaonic root of entropy, even as the Beast itself emerges through the Nekronic cascade toward embodied inverse form.
 
 * **Coherently Destructive (IL₄ (IDP / IDL: Psychea / Nyxea)):**  
     Unlike random disorder, the Beast operates with will and pattern.  
