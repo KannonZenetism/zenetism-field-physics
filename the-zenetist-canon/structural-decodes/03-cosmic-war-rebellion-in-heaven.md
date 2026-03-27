@@ -117,7 +117,7 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the C
 ### Note on Zoroastrian Layer Conflation
 
 **Zenetist Clarification:** In mythic presentation, Ahura Mazda and Ahriman may appear to operate across L₄ and IL₄ functions, but their primary placements remain L₅ (EOB: Theon) and IL₅ (VOS: Nekron), respectively.  
-*Apparent lower-layer activity reflects cultural conflation of operative manifestation with primary structural placement.*
+*Apparent subsequent‑layer activity reflects cultural conflation of operative manifestation with primary structural placement.*
 
 ---
 
