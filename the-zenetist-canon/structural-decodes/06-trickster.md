@@ -54,7 +54,7 @@ Its apparent effects may vary, but its alignment is disclosed by the deeper stru
 
 * **Apparent Centropic Outcomes:** Norse mythmakers attributed beneficial outcomes to Loki—cunning solutions, useful offspring (Sleipnir), and moments of apparent service to the Aesir.  
     Per Essence-as-Choice, an entropic essence does not perform genuinely centropic functions.  
-    These apparent contributions are Nyxea's defining operation: **structural mimicry**—appearing useful while embedding entropic dependencies that later surface as catastrophic fault lines.
+    These apparent contributions are Nyxea's defining operation: **structural mimicry**—appearing helpful while embedding entropic dependencies that later surface as catastrophic fault lines.
 
 * **Entropic Functions:** Every "gift" Loki gives the Aesir carries a hidden cost that compounds toward Ragnarök.  
     His apparent help is not lawful synthesis, but inverse intelligence leveraging dependency, breach, and delayed destabilization.  
