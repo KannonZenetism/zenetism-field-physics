@@ -49,9 +49,11 @@ But this is not war in any anthropomorphic sense.
 It is structural awareness of an unresolved cycle — the archetypal equivalent of a field sensing distortion at its periphery without being invaded by it.
 
 This awareness must be distinguished from distributed individuated awareness.  
-Each sovereign essence that traverses L₄ on the emanatory path to embodiment inhabits a **House of Form** — a structural configuration within the archetypal realm — but does not share the Form's awareness as a collective pool.  
-The Form is not a mind shared among all its inhabitants; it is the architecture through which individual essences are shaped on their way to embodiment.  
-Centropic essences that have completed the return arc and reintegrated through L₃ and L₄ may possess a more refined awareness of the archetypal field — but this is individually achieved integration, not illicitly distributed cognition.
+Each sovereign essence that traverses L₄ on the emanatory path to embodiment inhabits a **House of Forms** — a structural configuration within the archetypal realm — but does not share the Form's awareness as a collective pool.  
+The Form is not a mind shared among all its inhabitants, yet neither is it a mute container.  
+It is a stable mode of **conscious-awareness** proper to L₄ — an architectonic intelligence that patterns reality without moving declivously toward embodiment or crystallizing into reflexive L₃ selfhood.  
+Individual essences are shaped through it on their way to embodiment, while centropic essences that have completed the return arc and reintegrated through L₃ and L₄ may attain a more refined awareness of the archetypal field.  
+But this remains individually achieved integration, not illicitly distributed cognition.
 
 ---
 
