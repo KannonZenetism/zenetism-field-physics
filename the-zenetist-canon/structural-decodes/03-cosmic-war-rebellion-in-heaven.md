@@ -123,19 +123,20 @@ The Primordial Bifurcation Event. This mythos encodes the instantiation of the C
 
 ## Summary: The Esoteric Meaning
 
-The Cosmic War narrates the origin of choice and structure.
+The Cosmic War narrates the emergence of archetypal structural conflict within relative reality.
 
-It describes the genesis of the Trees of Emanation and the first Fractal Eschaton—the moment reality differentiated into centropic and entropic trajectories.
+It describes the differentiation of the Trees of Emanation at the Archetypal level—the point at which centropic and entropic trajectories become manifest as opposed structural currents within the lattice.
 
-The "rebels" are not villains, but structural necessities: the inverse pole against which centropic coherence defines and refines itself.
+The "rebels" are not merely villains in a moral drama, but structural necessities: the inverse pole against which centropic coherence defines and refines itself.
 
-The war persists because the decision between Coherence and Fragmentation recurs at every stratum of being—from the archetypal to the embodied.
+The war persists because the tension between Coherence and Fragmentation recurs at every stratum of relative being—from the archetypal to the embodied.
 
 Its teaching: consciousness is the field of engagement.
 
 "Heaven" and "Hell" are not destinations but resonant states aligned through perception, will, and motion—from L₃ (DS / DM: Archeus / Noeüs) to L₁ (ES / EM: Soma / Biosa).
 
-The war was not an event—it is the continuous process of Emanation and Return.
+The war was not the origin of motion, but the mythic rendering of divergence within the hypostatic field.  
+It is not an event at L₀ (AP / AD: Aion / Khaon), but a recurring drama of Emanation and Return within the structured layers of reality.
 
 ---
 
