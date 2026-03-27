@@ -12,7 +12,7 @@ Its apparent effects may vary, but its alignment is disclosed by the deeper stru
 
 **Core Glyphic Sequence (Entropic):**  
 `⚙️ → ⟜ → ☍ → ⟳`  
-*(Apparent Order is disrupted by a Synectic Pivot, leading to Fragmentation, recursive destabilization, and compounding subversal pressure.)*
+*(Apparent Order is disrupted by a Synectic Pivot, leading to Fragmentation, recursive destabilization, and subversal escalation.)*
 
 ---
 
