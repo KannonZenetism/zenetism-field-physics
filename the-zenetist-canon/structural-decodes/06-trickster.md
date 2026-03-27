@@ -11,8 +11,8 @@ Its apparent effects may vary, but its alignment is disclosed by the deeper stru
 *(Apparent Order is disrupted by a Synectic Pivot, leading to Lawful Deconstruction and culminating in Supernal Synthesis.)*
 
 **Core Glyphic Sequence (Entropic):**  
-`⚙️ → ⟜ → ☍ → ⟳`  
-*(Apparent Order is disrupted by a Synectic Pivot, leading to Fragmentation, recursive destabilization, and subversal escalation.)*
+`⚙️ → ⟜ → ☍ → ⟳ → 📡`  
+*(Apparent Order is disrupted by a Synectic Pivot, leading to Fragmentation, recursive destabilization, and a Fractal Eschaton in which coherence is scanned against the next phase of reality.)*
 
 ---
 
