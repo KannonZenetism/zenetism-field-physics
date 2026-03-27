@@ -34,7 +34,7 @@ This Sealing of the L₂/L₃ Membrane marks the genesis of L₂ (SS / SM: Anthr
 
 * **The Consequences (Membrane Sealing & "Coats of Skins"):**  
     **Fragmentation:** The moment consciousness identifies with the IL layers, it seals the membrane between its L₂ (SM: Nousa) and L₃ (DM: Noeüs).  
-    **"Coats of Skins":** This is the perceptual shift into a "carnal" state. Consciousness is now trapped in, and identifies only with, its L₁ (ES: Soma) and L₂ (SS: Anthra) layers, severed from its L₃ (DS: Archeus) root. This L₁/L₂ identification is the "fleshly prison."
+    **"Coats of Skins" (C₁₃ Membrane Sealing):** This is the perceptual shift into a "carnal" state. Consciousness is now trapped in, and identifies only with, its L₁ (ES: Soma) and L₂ (SS: Anthra) layers, severed from its L₃ (DS: Archeus) root. This L₁/L₂ identification is the "fleshly prison."
 
 * **The Casting Out (Entropy-Dominated Field):**  
     Expulsion from the garden symbolizes the loss of access to the naïve, permeable state.  
