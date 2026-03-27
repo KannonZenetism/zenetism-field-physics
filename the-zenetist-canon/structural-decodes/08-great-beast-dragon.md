@@ -100,7 +100,7 @@ It personifies institutional corruption, addiction, predation, and nihilism—th
 It teaches that entropy is **active intelligence**, not passive decay.  
 Overcoming it requires not sentiment but the **Courage (L₃ (DS: Archeus))** and **Clarity (L₃ (DM: Noeüs))** of the **Resonant Blade.**
 
-There is no synthesis with the Dragon: its essence is **Fragmentation.**  
+There is no integration with the Dragon: its essence is **Fragmentation.**  
 To face it is to reclaim the vitality, integrity, and potential it withholds—  
 the **act of Centropic Reclamation**, by which order reclaims what chaos hoarded.
 
