@@ -131,9 +131,18 @@ But at a deeper layer, it may also reflect a misreading of emanative differentia
 
 ### Note on Lucifer and Satan
 
-**Zenetist Clarification:** Lucifer and Satan are not the same principle.  
-Lucifer is the initiator of the inverse archetypal realm at IL₄ (IDL: Nyxea), whereas Satan is the terminal state of absolute collapse at IL₅ (VOS: Nekron).  
-The Luciferian arc trends declivously toward Satanic termination, but the initiatory principle of Mimicry and the terminal principle of Void are structurally distinct.
+**Zenetist Clarification:** Lucifer and Satan are not different principles, but different layer-expressions of the same entropic principle.  
+**Satan** names the principle at **IL₅ (VOS: Nekron)**, while **Lucifer** names its archetypal expression at **IL₄ (IDL: Nyxea)**.  
+They are therefore not identical as figures, yet they are continuous as principle.  
+
+The motion is bidirectional.  
+In acclivious entropic motion toward embodiment, the Nekronic principle expresses itself as Luciferic archetypal Mimicry.  
+In declivous collapse, the Luciferian expression resolves back into Satanic termination at **IL₅ (VOS: Nekron)**.  
+
+Thus Lucifer is not other than Satan in principle,  
+but Satan refracted through the archetypal layer.  
+The distinction is one of structural station and expressive mode,  
+not of underlying entropic essence.
 
 ---
 
