@@ -136,7 +136,7 @@ But at a deeper layer, it may also reflect a misreading of emanative differentia
 They are therefore not identical as figures, yet they are continuous as principle.  
 
 The motion is bidirectional.  
-In acclivious entropic motion toward embodiment, the Nekronic principle expresses itself as Luciferic archetypal Mimicry.  
+In acclivous entropic motion toward embodiment, the Nekronic principle expresses itself as Luciferic archetypal Mimicry.  
 In declivous collapse, the Luciferian expression resolves back into Satanic termination at **IL₅ (VOS: Nekron)**.  
 
 Thus Lucifer is not other than Satan in principle,  
