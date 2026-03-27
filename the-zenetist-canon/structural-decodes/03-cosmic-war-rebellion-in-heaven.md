@@ -16,7 +16,7 @@ The opposition is real — but its theatre is embodiment, not the archetypal dom
 ### Note on L₀ Bifurcal Coherence
 
 This decode does not describe the L₀ (AP / AD: Aion / Khaon) bifurcation.  
-L₀ is **Bifurcal Coherence** — the pre-dual unity of Absolute Potential and Absolute Dispersion.  
+L₀ is **Bifurcal Coherence** — the pre-dual unity of Absolute Potential and Absolute Dispersion.
 It is not a war, not a tension, and not a conflict.  
 The separation of Aion and Khaon is not an event within emanated reality but the structural precondition of emanation itself, resolved through Motive Infinity and the Principle of Sufficient Reason.  
 The "Cosmic War" myths narrate something experienced within emanated reality — not the origin of **SI: Structon**, nor the pre-emanative conditions of **L₀ (AP / AD: Aion / Khaon)**.
