@@ -67,7 +67,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
     What originates as Luciferic architecture (IL₄ (IDL: Nyxea)) and passes through false signal and perceptual broadcast becomes institutionalized in the corporeal field as tribute-demanding, violence-backed control.
 
 * **The Full Inverse Cascade:** Dragon (IL₅ (VOS: Nekron)) → Luciferic Architecture (IL₄ (IDL: Nyxea)) → False Prophet (IL₃ (IDM: Mortus)) → Skotos Broadcast (IL₂ (ISM: Skotos)) → Beast from the Sea (IL₁ (IES / IEM: Malara / Mania)).  
-    Revelation thus presents not a single monster, but the complete descent of entropic will through the inverse tree into embodied empire.
+    Revelation thus presents not a single monster, but the complete declivity of entropic will through the inverse tree into embodied empire.
 
 * **The War in Heaven:** Mythically renders the enduring challenge of entropic force within emanation, while structurally revealing the full inverse cascade by which Nekronic will seeks embodiment.
 
