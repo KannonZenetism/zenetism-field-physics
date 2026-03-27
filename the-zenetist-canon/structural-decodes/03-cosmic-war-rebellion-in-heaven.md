@@ -91,7 +91,7 @@ But this remains individually achieved integration, not illicitly distributed co
     Myths describe the centropic forces "expelling" the rebels from heaven.  
     Structurally, there was no expulsion — the entropic archetypes were never in the centropic realm to begin with.  
     The "casting out" is the mythic dramatization of the structural fact that the two trees are operationally distinct.  
-    The centropic guardian principle (such as Michael at L₃ (DS / DM: Archeus / Noeüs)) represents the lawful boundary that prevents entropic influence from being mistaken for centropic authority — a boundary maintained through discernment, not through battle.
+    The centropic guardian principle (such as Michael at L₃ (DS / DM: Archeus / Noeüs)) represents the lawful boundary that prevents entropic influence from being mistaken for centropic coherence — a boundary maintained through discernment, not through battle.
 
 * **The New Domains:**  
     * **The Centropic Archetypes:** Remain the Aionic Tree, coherence undisturbed.  
