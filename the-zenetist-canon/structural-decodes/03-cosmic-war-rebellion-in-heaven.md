@@ -204,7 +204,7 @@ The centropic Forms at L₄ and the inverse Forms at IL₄ do not directly conta
 
 Mythmakers, experiencing this structural opposition through embodied consciousness, projected the conflict onto the archetypal layer and narrated it as a "War in Heaven." The war is real as structural opposition. The battlefield is embodiment. The attribution to "heaven" is cultural projection born of the embodied mind's need to explain why opposed currents exist.
 
-L₄ itself remains a centropic domain — not a battlefield. Its purity is maintained because it does not directly contact the inverse archetypal layer. The "rebels" were never in heaven to begin with; they are the independently emanated inverse pole whose structural mimicry of centropic authority led mythmakers to imagine a shared origin and a dramatic separation.
+L₄ itself remains a centropic domain — not a battlefield. Its purity is maintained because it does not directly contact the inverse archetypal layer. The "rebels" were never in heaven to begin with; they are the independently emanated inverse pole whose structural mimicry of centropic coherence led mythmakers to imagine a shared origin and a dramatic separation.
 
 The war persists because the tension between Coherence and Fragmentation recurs at every embodied moment — from the personal to the civilizational. Its teaching: consciousness at the meeting point is the field of engagement. "Heaven" and "Hell" are not destinations but archetypal sources whose influence converges in the embodied field, where discernment determines alignment.
 
