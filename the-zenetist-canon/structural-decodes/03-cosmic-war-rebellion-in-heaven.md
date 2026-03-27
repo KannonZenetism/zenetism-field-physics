@@ -83,7 +83,7 @@ But this remains individually achieved integration, not illicitly distributed co
 
 * **The Cause of "Rebellion":**  
     Expressed mythically as "desire for a throne," "refusal to bow," or "claiming equality with Source."  
-    Structurally, this is the Mimicry of Theonic authority or the Shimmer of Sophic creativity detached from Aionic resonance.  
+    Structurally, this is the Mimicry of Theonic coherence or the Shimmer of Sophic creativity detached from Aionic resonance.  
     It is the Structuring Logos Principle inverted into its mirror form — Nyxea replicating the pattern of Sophis without its centropic ground.  
     The mythic narrative of rebellion is the embodied experience of this mimicry rendered as story.
 
