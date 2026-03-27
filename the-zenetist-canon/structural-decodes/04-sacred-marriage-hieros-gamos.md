@@ -40,7 +40,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 * **Shiva (L₀ (AP: Aion) / L₅ (EOB: Theon)):** The Aionic stillness underpinning all emanation; the first centropic hypostasis oriented toward Source.
 
-* **Shakti (L₄ (DP: Morgis)):** The active, dynamic energy—the Khaonic motion that animates all manifestation.
+* **Shakti (L₄ (DP: Morgis)):** The archetypal vitality that animates all manifestation.
 
 * **The Union:** The entire cosmos is their eternal **Hieros Gamos.**  
     Without Shakti, Shiva is inert; without Shiva, Shakti is chaotic.  
