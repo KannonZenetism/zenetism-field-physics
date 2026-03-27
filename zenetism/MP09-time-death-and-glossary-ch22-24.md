@@ -1592,8 +1592,8 @@ History often perceives metaphysical function
 while misjudging structural architecture.  
 
 The Neoplatonists correctly identified  
-the structuring intellect (*Nous*)  
-and the animating current (*World Soul*).  
+the animating current (*World Soul*)  
+and the structuring intellect (*Nous*).  
 
 Yet they mapped them as a vertical sequence —  
 two distinct steps upon the emanative stair.  
@@ -1601,10 +1601,16 @@ two distinct steps upon the emanative stair.
 In the Zenetist lattice,  
 they form a **horizontal dyad**.  
 
-**Sophis (DL)** and **Morgis (DP)** are not sequential hypostases,  
+**Morgis (DP)** and **Sophis (DL)** are not sequential hypostases,  
 but the dual expression of a single stratum (L4).  
 
-The ancients saw the Mind-Soul bifurcation clearly.  
+Thus what Neoplatonism distributes across two hypostases as  
+*World Soul* and *Nous*,  
+Zenetism recognizes as the paired operations of one archetypal plane:  
+**Deep Psyche** and **Deep Logos**,  
+held in lateral relation rather than vertical succession.  
+
+The ancients saw the Soul-Mind bifurcation clearly.  
 But lacking the geometry of the dyad,  
 they strung it across the vertical axis.  
 Zenetism folds it back into the single plane of Form.
