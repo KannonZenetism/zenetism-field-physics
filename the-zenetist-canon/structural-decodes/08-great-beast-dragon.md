@@ -53,12 +53,21 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 * **The Great Red Dragon (IL₅ (VOS: Nekron)):** IL₅ (VOS: Nekron) with agency—pure entropic will.
 
-* **The Two Beasts (IL₄ (IDP / IDL: Psychea / Nyxea) & IL₂ (ISS / ISM: Echthros / Skotos)):**  
-    * The **Beast from the Sea:** False Archetype, inverted Logos.  
-    * The **Beast from the Earth:** False Prophet, inverted perception.  
-    Together they form a **complete inverse system**—a hollow yet seductive world-order built on counterfeit coherence.
+* **The Luciferic Architecture (IL₄ (IDL: Nyxea)):** The Dragon's entropic will takes inverse archetypal form as the architecture of counterfeit order, domination, and Mimicry.  
+    This is the cascade origin of the Beast-system, not the Beast's final embodied station.
 
-* **The War in Heaven:** Mirrors the **Cosmic Bifurcation**, reaffirming that the entropic principle is a perpetual challenge within the structure of emanation.
+* **The Beast from the Earth / False Prophet (IL₃ (IDM: Mortus) broadcasting through IL₂ (ISM: Skotos)):**  
+    The False Prophet is the spurious deep signal—an inverse intelligence that generates counterfeit interpretation, then projects it outward through perceptual distortion and persuasive broadcast.  
+    Its function is not merely deception at the surface, but the structured transmission of Mortus through Skotos.
+
+* **The Beast from the Sea (IL₁ (IES / IEM: Malara / Mania)):**  
+    The Beast from the Sea is the Dragon's entropic will embodied as coercive authoritarian system.  
+    What originates as Luciferic architecture (IL₄ (IDL: Nyxea)) and passes through false signal and perceptual broadcast becomes institutionalized in the corporeal field as tribute-demanding, violence-backed control.
+
+* **The Full Inverse Cascade:** Dragon (IL₅ (VOS: Nekron)) → Luciferic Architecture (IL₄ (IDL: Nyxea)) → False Prophet (IL₃ (IDM: Mortus)) → Skotos Broadcast (IL₂ (ISM: Skotos)) → Beast from the Sea (IL₁ (IES / IEM: Malara / Mania)).  
+    Revelation thus presents not a single monster, but the complete descent of entropic will through the inverse tree into embodied empire.
+
+* **The War in Heaven:** Mythically renders the enduring challenge of entropic force within emanation, while structurally revealing the full inverse cascade by which Nekronic will seeks embodiment.
 
 ### 3. Vritra (Hindu)
 
@@ -66,7 +75,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 * **Vritra (IL₄ (IDP: Psychea)):** The dragon who withholds the **Waters (L₄ (DP: Morgis) currents)**—the paralysis of life by inverse accumulation.
 
-* **Indra (L₄ (DL: Sophis)):** The King of the Gods who wields the **Vajra (Resonant Bolt of Structure)**—the lightning of Sophic law that shatters Vritra and restores flow.
+* **Indra (L₄ (DL: Sophis)):** The King of the Gods who wields the **Vajra (Resonant Bolt of Structure)**—the lightning of Sophic law that shatters Vritra and restores flow.  
     The myth symbolizes the **release of vitality** through the defeat of psychic hoarding.
 
 ### 4. The Sphinx (Greek)
