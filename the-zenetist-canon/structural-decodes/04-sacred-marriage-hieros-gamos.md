@@ -38,7 +38,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 * **Focus:** The union of **Consciousness and Energy.**
 
-* **Shiva (L₄ (DL: Sophis) / L₅ (EOB: Theon)):** The passive, pure awareness—the Aionic stillness that structures existence.
+* **Shiva (L₀ (AP: Aion) / L₅ (EOB: Theon)):** The passive, pure awareness—the Aionic stillness that structures existence.
 
 * **Shakti (L₄ (DP: Morgis)):** The active, dynamic energy—the Khaonic motion that animates all manifestation.
 
