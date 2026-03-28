@@ -35,7 +35,7 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal re
 
 * **Focus:** The moral arc of Inverse Orientation. The "wickedness of humanity" refers to saturation in IL₂ (ISS / ISM: Echthros / Skotos)—adversarial will and deceptive perception.
 
-* **Noah:** A **Centropic** Steward—the embodied L₃ (DS / DM: Archeus / Noeüs) anchor, "resonant in his generations," meaning he maintained coherence and resonance within an entropic field.
+* **Noah:** A **Centropic** Steward—an embodied anchor of L₃ (DS / DM: Archeus / Noeüs) coherence, "resonant in his generations," meaning he maintained centropic alignment within an entropic field.
 
 * **The Raven and the Dove:** The Raven (black, scavenging) departs and does not return—it signifies the entropic remnant cast outward into dissipation, unable to sustain coherence through dissolution. The Dove (white, gentle) returns with an olive leaf, symbolizing the Harmonic Agent discovering the first signs of new **centropic** life and guiding the next movement.
 
