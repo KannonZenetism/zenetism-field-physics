@@ -53,7 +53,7 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal re
 
 ### 4. Greek (Deucalion)
 
-* **Focus:** **Declivous Centropy** within a specific lineage. The flood addresses the hubris of Lycaon (IL₂ (ISS / ISM: Echthros / Skotos))—a localized Fractal Eschaton.
+* **Focus:** A localized Fractal Eschaton triggered by inverse orientation within a specific lineage. The flood addresses the hubris of Lycaon (IL₂ (ISS / ISM: Echthros / Skotos))—an entropic distortion requiring structural correction.
 
 * **"Bones of the Mother" (Stones):** Symbolize the Essential Potential latent within Earth—the Aionic capacity resting in matter, awakened through a **centropic**, intentional act of embodiment.
 
