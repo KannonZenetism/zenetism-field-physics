@@ -57,7 +57,7 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
 
 ### 2. Christ (Christian)
 
-* **Focus:** Voluntary Sacrifice and Transcendent Synthesis.
+* **Focus:** Voluntary Sacrifice and Harmonic Reconstitution.
 
 * **Incarnation:** The Orienting Logos (Theon) becomes embodied.
 
