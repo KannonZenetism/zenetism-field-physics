@@ -110,7 +110,7 @@ The Dying and Resurrecting God encodes the blueprint of the soul's trajectory.
 
 Embodiment is a temporary condition within a grander Centropic Cycle, not a terminus.
 
-The dissolution phase is not failure but the essential Deconstruction wherein transient form is relinquished, allowing the eternal essence (L₃ (DS / DM: Archeus / Noeüs)) to be fully revealed and its coherence demonstrated.
+The dissolution phase is not failure but the essential Deconstruction wherein transient form is relinquished, allowing the core centropic self (L₃ (DS / DM: Archeus / Noeüs)) to be fully revealed and its coherence demonstrated.
 
 The archetype affirms that Entropic forces, though formidable, cannot annihilate centropic essence.
 
