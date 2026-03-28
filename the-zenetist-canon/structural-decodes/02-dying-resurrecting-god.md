@@ -94,7 +94,7 @@ The dissolution phase is not failure but the essential Deconstruction wherein tr
 
 The archetype affirms that Entropic forces, though formidable, cannot annihilate centropic essence.
 
-The path to Aion necessarily traverses the trial of Khaon.
+The centropic return arc necessarily traverses the trial of Khaon.
 
 Its message is one of structural assurance: what appears as defeat is, within lawful architecture, the very precondition for a more enduring synthesis.
 
