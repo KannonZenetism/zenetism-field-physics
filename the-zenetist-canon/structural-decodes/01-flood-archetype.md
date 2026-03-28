@@ -4,8 +4,8 @@
 A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal resonance scan and recalibration at the close of a major soul-cycle or civilization paradigm. It is the intense, **declivous** dissolution of an entropic formation that has become irredeemably inverted, creating the Aionic stillness necessary for a new, **centropic** emanation.
 
 **Core Glyphic Sequence:**  
-`E↓→♾ → ⚫ → C↑→🛤️ | E↓→🕷️`  
-*(Entropic Contraction into Dispersive Infinity, re-centering in Aionic Stillness, from which an Acclivous Centropic Arc toward Theon initiates; the Inverse Motion proceeds Declivously into Nekronic Collapse.)*
+`📐⚖↯ → ⊘ → E↑→E→E↓→♾ → ⚫ → C↓→E ⊕ E↑→E → ⊙ → ◎ / ☍` 
+*(A Sophic corrective decree initiates the dissolution of an irredeemably inverted formation. Entropic motion exhausts itself into dispersive collapse, followed by Aionic stillness. From this reset, both centropic and entropic trajectories reopen toward renewed embodiment, generating a new world-node that may stabilize in coherence or dissonance.)*
 
 ---
 
