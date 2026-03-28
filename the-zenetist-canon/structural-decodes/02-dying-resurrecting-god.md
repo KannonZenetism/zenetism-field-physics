@@ -22,8 +22,8 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
 * **The Motion into Embodiment:** A voluntary declivous centropic act of a centropic principle entering the Corporeal Realm (L₁ (ES / EM: Soma / Biosa)).  
     This is not a fall, but a natural emanation of structural compassion—the centropic movement that radiates coherence into the embodied field to stabilize what is fragmented.
 
-* **The Symbolic Dissolution:** The confrontation with entropic and inverse forces. It is not merely physical cessation, but the dissolution of the surface identity-structure (L₂ (SS / SM: Anthra / Nousa)).  
-    The god is fragmented, dismembered, or consumed—symbolizing the apparent triumph of Fragmentation (IL₃ (IDS / IDM: Fractus / Mortus), IL₂ (ISS / ISM: Echthros / Skotos)) and the Void of Self.  
+* **The Symbolic Dissolution:** The confrontation with entropic force as mediated through the inverse strata. It is not merely physical cessation, but the dissolution of the surface identity-structure (L₂ (SS / SM: Anthra / Nousa)).  
+    The god is fragmented, dismembered, or consumed—symbolizing the apparent triumph of **IL₃ (IDS / IDM: Fractus / Mortus)** and **IL₂ (ISS / ISM: Echthros / Skotos)** under the shadow of the Void of Self.  
     This marks the necessary Deconstruction of form to release latent essence.
 
 * **The Sojourn in the Underworld:**  
