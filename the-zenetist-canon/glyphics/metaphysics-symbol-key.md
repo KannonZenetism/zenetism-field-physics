@@ -402,6 +402,7 @@ of inverse potential within Aion.
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
+| ⚖↯ | **Structural Correction** | The initiation of lawful rectifying force within a being, system, or field. Marks the moment when distortion, imbalance, or entropic drift is actively met by corrective patterning. Distinct from passive evaluation or abstract justice; this glyph denotes correction entering motion |
 | 🧲     | **Resonant Gravity** | The attractive force of coherence across structure; a metaphysical pull exerted by centropic fields, archetypal forms, or harmonic alignment |
 | ⎋     | **Sovereign Attractor** | No rulers, only fields that draw coherence by structural integrity; a lawful centropic pull that organizes without domination |
 | 🧨     | **Entropic Pull** | A chaotic attractor field driven by disruption, egoic inertia, and fragmental recursion; a dispersive magnetism toward collapse that mimics gravity in reverse, feeding on the dissolution of coherent structure and accelerating fragmentation across systems |
