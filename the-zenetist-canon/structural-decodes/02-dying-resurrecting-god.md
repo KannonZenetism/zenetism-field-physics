@@ -19,8 +19,8 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
 
 ## Universal Structural Analysis
 
-* **The Motion into Embodiment:** A voluntary declivous centropic act of a Theonic principle entering the Corporeal Realm (L₁ (ES / EM: Soma / Biosa)).  
-    This is not a fall, but a natural emanation of structural compassion—the Theonic movement that radiates coherence into the embodied field to stabilize what is fragmented.
+* **The Motion into Embodiment:** A voluntary declivous centropic act of a centropic principle entering the Corporeal Realm (L₁ (ES / EM: Soma / Biosa)).  
+    This is not a fall, but a natural emanation of structural compassion—the centropic movement that radiates coherence into the embodied field to stabilize what is fragmented.
 
 * **The Symbolic Dissolution:** The confrontation with entropic and inverse forces. It is not merely physical cessation, but the dissolution of the surface identity-structure (L₂ (SS / SM: Anthra / Nousa)).  
     The god is fragmented, dismembered, or consumed—symbolizing the apparent triumph of Fragmentation (IL₃ (IDS / IDM: Fractus / Mortus), IL₂ (ISS / ISM: Echthros / Skotos)) and the Void of Self.  
