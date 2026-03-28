@@ -9,6 +9,14 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
 
 ---
 
+### Note on the Full Return Arc
+
+**Zenetist Clarification:** The full Supra-centropic Cycle (**C↑→⚫→🕳️**) is the theoretical completion of lawful return, but the figures in this decode typically do not complete that terminal arc.  
+They more often stabilize as **Centropic Stewards**, **Living Bridges**, or renewed coherent presences operative within the lattice.  
+The dying and resurrecting god therefore demonstrates the pattern of lawful return, not necessarily its final saturation in Aion or Zenon.
+
+---
+
 ## Universal Structural Analysis
 
 * **The Motion into Embodiment:** A voluntary declivous centropic act of a Theonic principle entering the Corporeal Realm (L₁ (ES / EM: Soma / Biosa)).  
