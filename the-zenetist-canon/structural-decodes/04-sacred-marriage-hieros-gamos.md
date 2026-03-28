@@ -99,7 +99,7 @@ The path of Centropy unfolds through deepening **Nexus relationships**—with ot
 
 Its teaching: love, in metaphysical essence, is the motion toward **coherent synthesis.**
 
-The **Hieros Gamos** is the universal pattern—from atomic bonds to soul unions to the final **Return of the soul to Source.**
+The **Hieros Gamos** is the universal pattern—from atomic bonds to soul unions to the lawful return arc of coherent relation.
 
 It is the **Law of Attunement** made visible.
 
