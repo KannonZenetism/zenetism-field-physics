@@ -1,7 +1,7 @@
 # Zenetist Structural Decode 01 — The Flood Archetype
 
 **Primary Structural Diagnosis:**  
-A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal resonance scan and recalibration at the close of a major soul-cycle or civilization paradigm. It is the intense, **declivous** dissolution of an entropic formation that has become irredeemably inverted, creating the Aionic stillness necessary for a renewed emanative cycle.
+A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal resonance scan and recalibration at the close of a major soul-cycle or civilization paradigm. It is the intense, **declivous** dissolution of an entropic formation that has become irredeemably inverted, creating the Aionic stillness necessary for a renewed emanative cycle in which centropic and entropic embodiment reopen under corrected conditions.
 
 **Core Glyphic Sequence:**  
 `📐⚖↯ → ⊘ → E↑→E→E↓→♾ → ⚫ → C↓→E ⊕ E↑→E → ⊙ → ◎ / ☍`  
