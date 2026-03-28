@@ -5,7 +5,7 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal re
 
 **Core Glyphic Sequence:**  
 `📐⚖↯ → ⊘ → E↑→E→E↓→♾ → ⚫ → C↓→E ⊕ E↑→E → ⊙ → ◎ / ☍`  
-*(A Sophic corrective decree initiates the dissolution of an structurally irrecoverable formation. Entropic motion exhausts into dispersive collapse, followed by Aionic stillness. From this reset, both centropic and entropic trajectories reopen toward renewed embodiment, generating a new world-node that may stabilize in coherence or dissonance.)*
+*(A Sophic corrective decree initiates the dissolution of a structurally irrecoverable formation. Entropic motion exhausts into dispersive collapse, followed by Aionic stillness. From this reset, both centropic and entropic trajectories reopen toward renewed embodiment, generating a new world-node that may stabilize in coherence or dissonance.)*
 
 ---
 
