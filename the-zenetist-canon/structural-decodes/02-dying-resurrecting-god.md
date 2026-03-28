@@ -116,7 +116,7 @@ The archetype affirms that Entropic forces, though formidable, cannot annihilate
 
 The centropic return arc necessarily traverses the trial of Khaon.
 
-Its message is one of structural assurance: what appears as defeat is, within lawful architecture, the very precondition for a more enduring synthesis.
+Its message is one of structural assurance: what appears as defeat is, within lawful architecture, the very precondition for a more enduring integration.
 
 To follow this pattern is to enact the Sovereign Attractor within consciousness itself.
 
