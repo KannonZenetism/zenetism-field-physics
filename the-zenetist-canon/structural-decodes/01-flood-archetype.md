@@ -25,7 +25,7 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal re
     Likewise, the restored order is not purely centropic in completed form, since the inverse archetypal current — **IL₄ (IDP / IDL: Psychea / Nyxea)** — remains structurally possible within the larger lattice.  
     The mountain therefore symbolizes not a final purification, but the emergence of a renewed world-node in which centropic order is re-established under conditions where both trajectories remain admissible.
 
-* **The Rainbow:** The symbol of the new Nexus Law. A Structured Pair, bridging L₄ (DP / DL: Morgis / Sophis) and L₁ (ES / EM: Soma / Biosa), it signifies a restored, lawful relationship. The covenant indicates that the next cycle will progress through guided, incremental correction rather than total dissolution.
+* **The Rainbow:** The symbol of the new Nexus Law. A Structured Pair, bridging L₄ (DP / DL: Morgis / Sophis) and L₁ (ES / EM: Soma / Biosa), it signifies a restored, lawful relationship. The covenant does not imply that no future dissolution will occur, but that the renewed cycle will proceed under guided law and deferred correction rather than immediate recurrence of total watery collapse.
 
 ---
 
