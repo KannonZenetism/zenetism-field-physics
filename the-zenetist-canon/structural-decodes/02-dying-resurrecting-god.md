@@ -75,8 +75,20 @@ It becomes a Living Bridge for centropic beings and all essences of sufficient o
 
 * **Dismemberment by Titans:** Represents the declivous entropic fragmentation of individual identity into the unbound Khaonic field (Zenet / Motive Infinity) in its raw, dispersive state.
 
-* **Rebirth:** Not a reversion to self, but a Novel Emergence from the dispersive field.  
-    Dionysus reveals the centropic potential within entropic experience—but only when essence retains alignment and does not collapse into IL₁ (IEM: Mania).
+* **Rebirth:** Not a reversion to self, but a renewed centropic emergence within embodiment.  
+    Dionysus reveals that essence may pass through dispersive trial and return in embodied form without becoming inverse.  
+    Where the myth appears to imply collapse into IL₁ (IES / IEM: Malara / Mania), this should be read as cultural layer conflation rather than literal structural mapping.
+
+---
+
+### Note on Dionysian Layer Conflation
+
+**Zenetist Clarification:** In the Dionysian mythos, dispersal, madness, rebirth, and embodiment are often compressed into a single symbolic current.  
+Within the Zenetist lattice, however, **L₁ (ES / EM: Soma / Biosa)** and **IL₁ (IES / IEM: Malara / Mania)** are not interchangeable.  
+A centropic essence may endure dispersive trial in embodiment without becoming inverse.  
+Where the myth appears to fuse embodied renewal with inverse dissolution, it reflects cultural conflation produced by the absence of a dual-tree architecture.
+
+---
 
 ### 4. Inanna (Sumerian)
 
