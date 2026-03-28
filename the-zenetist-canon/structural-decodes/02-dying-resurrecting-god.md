@@ -63,7 +63,7 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
 
 * **Crucifixion:** The surrender of L₂ (SS / SM: Anthra / Nousa) (Jesus of Nazareth) to the inverse forces of the world (IL₂ (ISS / ISM: Echthros / Skotos)), absorbing the full weight of entropic fragmentation without becoming entropic.
 
-* **Harrowing of the Underworld:** The Theonic essence liberates those entrapped in embodied occlusion and inverse states during the sojourn.
+* **Harrowing of the Underworld:** The Theonic essence liberates those entrapped in embodied occlusion or under inverse influence during the sojourn.
 
 * **Resurrection:** The L₂ (SS / SM: Anthra / Nousa) experience is synthesized within L₃ (DS / DM: Archeus / Noeüs) (Risen Christ), demonstrating the restoration of centropic coherence within the entropic condition. It becomes a Living Bridge for all beings.
 
