@@ -19,7 +19,11 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal re
 
 * **The Saved Beings (Pairs of Animals):** The preserved Soul Strands—the complete archetypal spectrum of embodied experience at L₁ (ES / EM: Soma / Biosa) in a purified, harmonized state. They are symbolic templates for **centropic** life, maintained through the **entropic** collapse so they can be re-emanated free from prior distortions.
 
-* **The Mountain of Landing:** The Embodied World-Node of the new cycle. The first stable ground emerging from the Khaonic waters marks the re-establishment of the Morgic layer (L₄ (DP: Morgis)) and the Sophic layer (L₄ (DL: Sophis))—the renewed corporeal domain founded on coherent law.
+* **The Mountain of Landing:** The Embodied World-Node of the renewed cycle.  
+    The first stable ground emerging after the Flood does not mark the absolute beginning of emanation, but the re-establishment of ordered world-structure within the new phase.  
+    In mythic focus, this appears primarily through **L₄ (DP / DL: Morgis / Sophis)** as the renewed archetypal patterning of vitality and law; yet the embodied domain itself belongs to **L₁ (ES / EM: Soma / Biosa)**, with the inverse possibility of **IL₁ (IES / IEM: Malara / Mania)** still latent within the reopened cycle.  
+    Likewise, the restored order is not purely centropic in completed form, since the inverse archetypal current — **IL₄ (IDP / IDL: Psychea / Nyxea)** — remains structurally possible within the larger lattice.  
+    The mountain therefore symbolizes not a final purification, but the emergence of a renewed world-node in which centropic order is re-established under conditions where both trajectories remain admissible.
 
 * **The Rainbow:** The symbol of the new Nexus Law. A Structured Pair, bridging L₄ (DP / DL: Morgis / Sophis) and L₁ (ES / EM: Soma / Biosa), it signifies a restored, lawful relationship. The covenant indicates that the next cycle will progress through guided, incremental correction rather than total dissolution.
 
