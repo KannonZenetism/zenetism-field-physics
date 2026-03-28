@@ -1,13 +1,13 @@
 # Zenetist Structural Decode 04 — The Sacred Marriage (Hieros Gamos)
 
 **Primary Structural Diagnosis:**  
-The Archetype of **Harmonic Synthesis.**  
+The Archetype of **Transcendent Synthesis.**  
 This mythos encodes the lawful and resonant union of **complementary metaphysical principles**, resulting in the emergence of a new, coherent whole.  
 It is the operational mechanism of **Centropic Synthesis** at every layer of the lattice—from the Archetypal to the Embodied.
 
 **Core Glyphic Sequence:**  
 `⚯ → ⧬ → ⤈∴ → ◎`  
-*(Structured Duality enters into Co-Emergent Collaboration, emanating a new Synthesis and yielding an integrated, Coherent Field.)*
+*(Structured Duality enters into Co-Emergent Collaboration, culminating in Transcendent Synthesis and yielding an integrated Coherent Field.)*
 
 ---
 
