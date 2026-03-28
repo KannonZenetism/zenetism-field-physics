@@ -11,7 +11,7 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal re
 
 ## Universal Structural Analysis
 
-* **The Waters:** Symbolize the unbound, supra-formal potential of Khaon (AD). They are not entropic in essence, but represent the neutral, infinite **Field of Becoming** through which essence traverses and into which expressed configuration may dissolve. The Field of Becoming is pre-orientational: it is not itself centropic or entropic. In the Flood archetype, the waters function as the medium through which **Declivous Entropy** acts upon an irredeemably inverted formation.
+* **The Waters:** Symbolize the unbound, supra-formal potential of L₀ (AD: Khaon). They are not entropic in essence, but represent the neutral, infinite **Field of Becoming** through which essence traverses and into which expressed configuration may dissolve. The Field of Becoming is pre-orientational: it is not itself centropic or entropic. In the Flood archetype, the waters function as the medium through which **Declivous Entropy** acts upon an irredeemably inverted formation.
 
 * **The Divine Decree to Recalibrate:** The action of L₄ (DP / DL: Morgis / Sophis). It is not retribution, but the enforcement of harmonic law. The current embodied field (L₁ and L₂ layers) has become saturated with Inverse Orientation—specifically IL₁ (IES / IEM: Malara / Mania) and IL₂ (ISS / ISM: Echthros / Skotos). The structural integrity of the experiential plane is destabilized; the decree emerges as the system's recognition that sustaining the dissonant configuration now exceeds its lawful capacity for coherence.
 
