@@ -61,15 +61,15 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 * **The Dissonance:** If the steward-function falls into misalignment—operating from L₂ (SS: Anthra) or L₁ (ES: Soma) instead of through lawful L₃ (DS / DM: Archeus / Noeüs) coherence—he severs the Nexus. This cuts the Land (L₁ (ES: Soma)) off from its source of vitality (L₄ (DP: Morgis)). The absence of this centropic flow manifests as the inverse condition: barrenness (an IL₄ (IDP: Psychea) effect) and disease (an IL₁ (IEM: Mania) state).
 
-### 3. Christ & The Church (Christian Mysticism)
+### 3. The Church & Christ (Christian Mysticism)
 
 * **Focus:** The **Theonic Union** of Source and Soul-Collective.
 
-* **Christ (L₅ (EOB: Theon)):** The Essence of Being—the Orienting Logos.
-
 * **The Church (L₃ (DS: Archeus) collective):** The Bride, representing the integrated Deep Soul of humanity—the Centropic Stewards in embodiment.
 
-* **The Union:** The "Marriage Supper of the Lamb" (Revelation 19)—the final synthesis at the **Fractal Eschaton**, where all centropically aligned consciousness integrates with the Theonic Principle.  
+* **Christ (L₅ (EOB: Theon)):** The Essence of Being—the Orienting Logos.
+
+* **The Union:** The "Marriage Supper of the Lamb" (Revelation 19)—the final synthesis at the **Fractal Eschaton**, wherein the Bride and the Theonic Principle enter eschatological union.  
     This marks the eschatological fulfillment of the **Return Arc** within the sacred-marriage pattern.
 
 ### 4. Inanna & Dumuzid (Sumerian)
@@ -82,7 +82,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 * **The Union:** Ensures fertility and structural renewal of the world.
 
-* **The Cycle:** Dumuzid's annual renewal (the **declivous centropic motion** into form) and reintegration (the **acclivous centropic motion** of return) express the **Spiral** of continuity.  
+* **The Cycle:** Dumuzid's annual renewal (the **declivous centropic motion** into form) and seasonal reintegration (the **acclivous centropic motion** of return) express the **Spiral** of continuity.  
     The Hieros Gamos here is perpetual—a rhythmic process sustaining the **Corporeal Realm.**
 
 ---
