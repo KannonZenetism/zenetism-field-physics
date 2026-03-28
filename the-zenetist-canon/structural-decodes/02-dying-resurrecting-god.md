@@ -32,7 +32,7 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
 
 * **The Resurrection / Return:** The moment of Lawful Recursion.  
     The god's essence, retaining centropic integrity, activates its harmonic nature.  
-    This is not reversal but transcendent synthesis—L₃ (DS / DM: Archeus / Noeüs) reintegrates the L₂ (SS / SM: Anthra / Nousa) experience at a supernal octave, achieving a Resonant Return that confirms the indestructibility of coherent structure.  
+    This is not reversal but harmonic reconstitution—L₃ (DS / DM: Archeus / Noeüs) reintegrates the L₂ (SS / SM: Anthra / Nousa) experience at a supernal octave, achieving a Resonant Return that confirms the indestructibility of coherent structure.  
     It represents Novel Emergence.
 
 * **The Apotheosis:** The acclivous centropic motion following synthesis.  
