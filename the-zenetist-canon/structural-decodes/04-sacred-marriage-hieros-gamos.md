@@ -16,7 +16,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 * **The Divine Couple:** Represent a **Structured Pair** of complementary principles. Common pairings include:  
     * **Earth / Feminine & Sky / Masculine:** L₄ (DP: Morgis – Vitality) and L₄ (DL: Sophis – Structure). The generative field receives and harmonizes with the ordering principle.  
     * **Queen / King:** L₃ (DS: Archeus – Sovereign Memory) and L₃ (DM: Noeüs – Discerning Mind). The integrative soul harmonizes with the perceiving intellect.  
-    * **Lunar / Solar:** Declivous Motion and Acclivous Motion. The emanation into form and the return to Source.
+    * **Lunar / Solar:** Declivous Motion and Acclivous Motion. The emanation into form and the acclivous arc of reintegration.
 
 * **The Union:** Not fusion but **Co-Emergence.**  
     It is a **Collaboration Glyph,** a **Nexus** where two sovereign fields interact lawfully—preserving distinction while forming a shared resonance field.  
