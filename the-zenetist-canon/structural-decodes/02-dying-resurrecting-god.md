@@ -65,7 +65,7 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
 
 * **Harrowing of the Underworld:** The Theonic essence liberates those entrapped in embodied occlusion or under inverse influence during the sojourn.
 
-* **Resurrection:** The L₂ (SS / SM: Anthra / Nousa) experience is reintegrated within L₃ (DS / DM: Archeus / Noeüs) (Risen Christ), demonstrating the restoration of centropic coherence within the entropic condition.
+* **Resurrection:** The L₂ (SS / SM: Anthra / Nousa) experience is reintegrated within L₃ (DS / DM: Archeus / Noeüs) (Risen Christ), demonstrating the restoration of centropic coherence within the entropic condition.  
 It becomes a Living Bridge for centropic beings and all essences of sufficient orientation, but not for entropic essences themselves.
 
 ### 3. Dionysus (Greek)
