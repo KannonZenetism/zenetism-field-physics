@@ -52,14 +52,14 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 * **Focus:** **Sovereign Resonance** with the embodied field.
 
-* **The King (L₃ (DM: Noeüs)):** The discerning mind within temporal coherence; when aligned with L₃ (DS: Archeus), he functions as a **Centropic Steward** whose inner coherence determines outer harmony.
+* **The King (L₃ (DM: Noeüs)):** The discerning mind within temporal order; when joined lawfully to L₃ (DS: Archeus), he becomes the visible seat of the **Centropic Steward**, whose inner coherence determines outer harmony.
 
 * **The Land (L₁ (ES: Soma)):** The embodied field—the collective soma of people and ecosystem.
 
 * **The Union:** A just, fertile reign wherein the king's inner structure aligns with the field.  
     "As above, so below" becomes an operational law.
 
-* **The Dissonance:** If the king (L₃ (DM: Noeüs)) falls into misalignment—operating from L₂ (SS: Anthra) or L₁ (ES: Soma) instead of his proper L₃ (DM: Noeüs) station—he severs the Nexus. This cuts the Land (L₁ (ES: Soma)) off from its source of vitality (L₄ (DP: Morgis)). The absence of this centropic flow manifests as the inverse condition: barrenness (an IL₄ (IDP: Psychea) effect) and disease (an IL₁ (IEM: Mania) state).
+* **The Dissonance:** If the steward-function falls into misalignment—operating from L₂ (SS: Anthra) or L₁ (ES: Soma) instead of through lawful L₃ (DS / DM: Archeus / Noeüs) coherence—he severs the Nexus. This cuts the Land (L₁ (ES: Soma)) off from its source of vitality (L₄ (DP: Morgis)). The absence of this centropic flow manifests as the inverse condition: barrenness (an IL₄ (IDP: Psychea) effect) and disease (an IL₁ (IEM: Mania) state).
 
 ### 3. Christ & The Church (Christian Mysticism)
 
