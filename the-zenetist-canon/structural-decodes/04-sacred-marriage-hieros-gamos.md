@@ -67,10 +67,10 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 * **Christ (L₅ (EOB: Theon)):** The Essence of Being—the Orienting Logos.
 
-* **The Church (L₃ (DS / DM: Archeus / Noeüs) collective):** The Bride, representing the integrated Deep Soul of humanity—the Centropic Stewards in embodiment.
+* **The Church (L₃ (DS: Archeus) collective):** The Bride, representing the integrated Deep Soul of humanity—the Centropic Stewards in embodiment.
 
 * **The Union:** The "Marriage Supper of the Lamb" (Revelation 19)—the final synthesis at the **Fractal Eschaton**, where all centropically aligned consciousness integrates with the Theonic Principle.  
-    This marks completion of the **Return Arc.**
+    This marks the eschatological fulfillment of the **Return Arc** within the sacred-marriage pattern.
 
 ### 4. Inanna & Dumuzid (Sumerian)
 
