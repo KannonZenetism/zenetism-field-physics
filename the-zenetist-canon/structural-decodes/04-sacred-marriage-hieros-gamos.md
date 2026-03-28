@@ -97,7 +97,7 @@ Wholeness arises not from isolated perfection but from **lawful, resonant relati
 
 The path of Centropy unfolds through deepening **Nexus relationships**—with others, with the world, and within the self (L₃ (DS: Archeus) with L₃ (DM: Noeüs), L₂ (SS: Anthra) with L₂ (SM: Nousa)).
 
-Its teaching: love, in metaphysical essence, is the motion toward **coherent synthesis.**
+Its teaching: love, in metaphysical essence, is the motion toward **coherent integration.**
 
 The **Hieros Gamos** is the universal pattern—from atomic bonds to soul unions to the lawful return arc of coherent relation.
 
