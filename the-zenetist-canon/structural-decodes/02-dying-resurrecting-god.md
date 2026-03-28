@@ -1,7 +1,7 @@
 # Zenetist Structural Decode 02 — The Dying and Resurrecting God
 
 **Primary Structural Diagnosis:**  
-The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cycle, demonstrating the path of lawful motion into embodiment, symbolic dissolution through entropic trial, and resonant return to a synthesized coherence. It is the master pattern of Synthesis.
+The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cycle, demonstrating the path of lawful motion into embodiment, symbolic dissolution through entropic trial, and resonant return to an integrated coherence. It is the master pattern of Harmonic Integration.
 
 **Core Glyphic Sequence:**  
 `C↓→E → ☍ → ↺ → C↑→◎`  
