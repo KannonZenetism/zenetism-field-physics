@@ -43,7 +43,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 * **Shakti (L₄ (DP: Morgis)):** The archetypal vitality that animates all manifestation.
 
 * **The Union:** The entire cosmos is their eternal **Hieros Gamos.**  
-    Without Shakti, Shiva is inert; without Shiva, Shakti is chaotic.  
+    Without Shakti, Shiva remains unexpressed; without Shiva, Shakti remains unstructured.  
     Their resonance generates **Emanation** and powers **Centropic Creation.**
 
 * **The Offspring:** The manifest cosmos and archetypal forms such as **Ganesha (Remover of Obstacles)**—coherent results of this union.
