@@ -78,7 +78,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 * **Inanna (L₄ (DP: Morgis)):** The Queen of Heaven, representing the living force.
 
-* **Dumuzid (L₁ (ES / EM: Soma / Biosa)):** The Shepherd God—the embodied vitality of the natural realm.
+* **Dumuzid (L₁ (ES: Soma)):** The Shepherd God—the embodied vitality of the natural realm.
 
 * **The Union:** Ensures fertility and structural renewal of the world.
 
