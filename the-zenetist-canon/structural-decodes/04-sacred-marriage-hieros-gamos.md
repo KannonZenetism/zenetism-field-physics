@@ -54,7 +54,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 * **The King (L₃ (DM: Noeüs)):** The discerning mind within temporal coherence; when aligned with L₃ (DS: Archeus), he functions as a **Centropic Steward** whose inner coherence determines outer harmony.
 
-* **The Land (L₁ (ES / EM: Soma / Biosa)):** The embodied field—the collective soma of people and ecosystem.
+* **The Land (L₁ (ES: Soma)):** The embodied field—the collective soma of people and ecosystem.
 
 * **The Union:** A just, fertile reign wherein the king's inner structure aligns with the field.  
     "As above, so below" becomes an operational law.
