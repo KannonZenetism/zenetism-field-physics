@@ -8,7 +8,7 @@ Mythmakers, experiencing this opposition through the embodied field, projected t
 The opposition is real — but its theatre is embodiment, not the archetypal domain.
 
 **Core Glyphic Sequence:**  
-`🌬️📐 ⊕ 🪫🫥 → 🪷🧾 / 🍷🤯 → ⚖⟂ → ≠ → 🌲↓ ⊕ 🌲↑`  
+`🌬️📐 ⊕ 🪫🫥 → L₁ / IL₁ → ⚖⟂ → ≠ → 🌲↓ ⊕ 🌲↑`  
 *(Centropic Archetypal Form (DP / DL) and Inverse Archetypal Form (IDP / IDL), independently emanated, enter contact through the Embodied Meeting Point, generating structural friction at the liminal interface and separating into distinct trajectories that reverberate back through both trees.)*
 
 ---
