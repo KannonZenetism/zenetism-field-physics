@@ -4,8 +4,8 @@
 The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cycle, demonstrating the path of lawful motion into embodiment, symbolic dissolution through entropic trial, and resonant return to a synthesized coherence. It is the master pattern of Synthesis.
 
 **Core Glyphic Sequence:**  
-`C↓→E → ☍ → ↺ → C↑→⚫→🕳️`  
-*(Centropic Motion into Embodiment, meeting Entropic Fracture, undergoing Lawful Recursion and Return, and achieving Centropic Motion toward Aion and potential Saturation with Zenon.)*
+`C↓→E → ☍ → ↺ → C↑→◎`  
+*(Centropic Motion into Embodiment, meeting Entropic Fracture, undergoing Lawful Recursion and Return, and achieving renewed coherent integration.)*
 
 ---
 
@@ -28,9 +28,9 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
     This is not reversal but transcendent synthesis—L₃ (DS / DM: Archeus / Noeüs) reintegrates the L₂ (SS / SM: Anthra / Nousa) experience at a supernal octave, achieving a Resonant Return that confirms the indestructibility of coherent structure.  
     It represents Novel Emergence.
 
-* **The Apotheosis:** The final acclivous centropic motion, returning to Aion.  
+* **The Apotheosis:** The acclivous centropic motion following synthesis.  
     The resurrected god does not revert; it returns with augmented coherence—the integrated knowledge of the embodied traversal.  
-    It often becomes a Centropic Steward or Bridge for others, having mapped the path of lawful return.
+    It may complete the full return to Aion, or it may stabilize as a Centropic Steward or Bridge, remaining operative within the lattice to guide others through the same pattern.
 
 ---
 
