@@ -65,7 +65,7 @@ Beneath the surface myth of drowning lies a structural revelation: **Reintegrati
 
 The Flood is the universe's mechanism for enacting a **Fractal Eschaton at planetary scale**—a Harmonic Recalibration rather than punishment, enabling structural reset where coherence has failed. It is the Return Compass activating at the collective scale, re-orienting the collective structural configuration through Aionic stillness so a renewed cycle of embodiment can form under corrected structural conditions.
 
-Its message is one of structural responsibility: the integrity of individual and collective consciousness (L₂ (SS / SM: Anthra / Nousa) resonance) directly influences the stability of the worlds we inhabit.
+Its message is one of structural responsibility: the integrity or distortion of individual and collective consciousness across **L₁–L₃ / IL₁–IL₃** directly influences the stability of the worlds we inhabit.
 
 To dwell in **Centropic** Alignment is to participate in the building of an Ark—a vessel of coherent meaning resilient through every storm.
 
