@@ -52,7 +52,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 * **Focus:** **Sovereign Resonance** with the embodied field.
 
-* **The King (L₃ (DS / DM: Archeus / Noeüs)):** The **Centropic Steward** or Harmonic Agent within temporal authority; his internal coherence determines outer harmony.
+* **The King (L₃ (DM: Noeüs)):** The discerning mind within temporal coherence; when aligned with L₃ (DS: Archeus), he functions as a **Centropic Steward** whose inner coherence determines outer harmony.
 
 * **The Land (L₁ (ES / EM: Soma / Biosa)):** The embodied field—the collective soma of people and ecosystem.
 
