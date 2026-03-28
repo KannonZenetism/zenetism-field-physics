@@ -56,7 +56,7 @@ Mythostructural Forensics operates under Structural Forensics, but applies analy
 - `☍` Entropic Dissolution  
 - `⚯` Nexus Bridge  
 - `∿` Spiral Motion  
-- `🞇` Return Compass  
+- `⌖` Return Compass  
 - `C↓ / C↑ / E↓ / E↑` — Directional Motion  
 - `DP / DL / DS / DM / SS / SM / ES / EM` — Field Layers  
 - `IDS / IDM / ISS / ISM` — Inverse Hypostatic Conditions  
