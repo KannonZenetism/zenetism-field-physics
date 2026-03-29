@@ -28,7 +28,7 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
 
 * **The Sojourn in the Underworld:** The immersion within the single embodied underworld domain where centropic and inverse pressures meet through form.  
     It is the state in which a centropic principle abides within embodied density (through lawful Declivous Centropy) while confronting inverse influence mediated through the embodied field rather than through direct contact with the inverse hypostatic layers.  
-    In this condition, L₂ (SS / SM: Anthra / Nousa) undergoes deconstruction or stripping, allowing the core essence to be tested, clarified, and disentangled from its contingent configurations.
+    In this condition, L₂ (SS / SM: Anthra / Nousa) undergoes deconstruction, stripping, or dismembering pressure, allowing the core essence to be tested, clarified, and disentangled from its contingent configurations.
 
 * **The Resurrection / Return:** The moment of Lawful Recursion.  
     The god's essence, retaining centropic integrity, activates its harmonic nature.  
