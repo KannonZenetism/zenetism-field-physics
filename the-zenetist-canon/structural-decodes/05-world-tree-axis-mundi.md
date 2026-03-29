@@ -18,7 +18,7 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
     * This supernal root is the unmanifest, coherent source from which the entire centropic lattice (the Aionic Tree) emanates.
 
 * **The Subversal Root (Khaonic Tree):**  
-    * The entropic tree is rooted in L₀ (AD: Khaon)—Latent Infinity (the latent potential aspect of the L₀ field).  
+    * The entropic tree is rooted in **L₀ (AD: Khaon)**—the dispersive pole of the L₀ field, whose latent, motive, and dispersive modalities ground the Khaonic arc.  
     * This subversal root is the unmanifest, dispersive source from which the entire entropic lattice (the Khaonic Tree) emanates.
 
 * **The Aionic Trunk (Centropic Arc):**  
