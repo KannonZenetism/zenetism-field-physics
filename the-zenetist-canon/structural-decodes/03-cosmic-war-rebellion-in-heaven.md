@@ -121,7 +121,7 @@ But at a deeper layer, it may also reflect a misreading of emanative differentia
     The apparent light-bearing capacity is Nyxea's structural mimicry of luminous coherence — an inverse simulation of L₄ radiance, not the remnant of an unfallen condition.  
     This reflects IL₄ (IDL: Nyxea) replicating the appearance of L₅ (EOB: Theon) sovereignty.
 
-* **Michael (L₃ (DS / DM: Archeus / Noeüs)):** The Deep Soul / Deep Mind principle acting as the Resonant Blade of centropic integrity — the discernment that distinguishes veracious centropic coherence from its inverse simulation.
+* **Michael (L₃ (DM: Noeüs)):** The discerning mind acting as the Resonant Blade of centropic integrity — the power that distinguishes veracious centropic coherence from its inverse simulation.
 
 * **The "Fall":** Not a literal descent from a centropic state, but the mythic rendering of the structural fact that entropic archetypes operate independently from origin.  
     Lucifer is the architect of inverse coherence — the progenitor of Fragmentation and Mimicry.  
