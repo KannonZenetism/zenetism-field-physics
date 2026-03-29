@@ -55,7 +55,7 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
 
 * **Nidhogg (IL₅ (VOS: Nekron)):** The serpent at the subversal root—symbol of the terminal **Entropic Pull** (Nekron) acting upon structure.
 
-* **Ratatoskr (L₂ / IL₂ (SS / SM / ISS / ISM: Anthra / Nousa / Echthros / Skotos)):** The squirrel running the trunk, representing Superficial Mind (L₂ / IL₂) chatter. It is a **Trickster/Mediator**, carrying messages between the supernal pole (the Eagle, L₅ (EOB: Theon)) and the subversal pole (Nidhogg, IL₅ (VOS: Nekron)).
+* **Ratatoskr (IL₂ (ISM: Skotos)):** The squirrel running the trunk, distorting signal between the supernal pole (the Eagle, L₅ (EOB: Theon)) and the subversal pole (Nidhogg, IL₅ (VOS: Nekron)), stirring dissonance under the apparent guise of mediation. The attribution of a neutral communicative function (L₂ (SM: Nousa)) is a cultural conflation of his surface role with his operative effect.
 
 ### 2. The Sefirotic Tree (Kabbalah)
 
