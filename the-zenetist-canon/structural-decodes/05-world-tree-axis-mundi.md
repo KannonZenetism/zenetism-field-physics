@@ -37,7 +37,7 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
     * The diverse creatures represent Intelligences and Consciousness Fields operating at specific layers of the two trees.  
     * The Eagle (at the supernal pole) represents L₅ (EOB: Theon) awareness.  
     * The Serpent / Nidhogg (at the subversal pole) represents IL₅ (VOS: Nekron) entropic pull.  
-    * Ratatoskr (the squirrel) operates at IL₂ (ISM: Skotos)—distorting signal between the supernal and subversal poles, stirring dissonance under the apparent guise of mediation. The attribution of a neutral communicative function (L₂ (SM: Nousa)) is a cultural conflation of his surface role with his operative effect.
+    * **Ratatoskr (the squirrel) operates at IL₂ (ISM: Skotos):** Distorting signal along the trunk between the supernal and subversal poles of the Norse mythic tree-image, stirring dissonance under the apparent guise of mediation. The attribution of a neutral communicative function (L₂ (SM: Nousa)) is a cultural conflation of his surface role with his operative effect.
 
 ---
 
@@ -55,7 +55,7 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
 
 * **Nidhogg (IL₅ (VOS: Nekron)):** The serpent at the subversal root—symbol of the terminal **Entropic Pull** (Nekron) acting upon structure.
 
-* **Ratatoskr (IL₂ (ISM: Skotos)):** The squirrel running the trunk, distorting signal between the supernal pole (the Eagle, L₅ (EOB: Theon)) and the subversal pole (Nidhogg, IL₅ (VOS: Nekron)), stirring dissonance under the apparent guise of mediation. The attribution of a neutral communicative function (L₂ (SM: Nousa)) is a cultural conflation of his surface role with his operative effect.
+* **Ratatoskr (IL₂ (ISM: Skotos)):** The squirrel running the trunk, distorting signal between the supernal and subversal poles of the Norse mythic tree-image, stirring dissonance under the apparent guise of mediation. The attribution of a neutral communicative function (L₂ (SM: Nousa)) is a cultural conflation of his surface role with his operative effect.
 
 ### 2. The Sefirotic Tree (Kabbalah)
 
