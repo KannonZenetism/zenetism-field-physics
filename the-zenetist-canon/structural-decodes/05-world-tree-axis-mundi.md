@@ -105,6 +105,9 @@ The Zenetist **Biospiral** is not a restatement of existing esoteric models, but
 * **Tree of Knowledge:** The **Entropic path of Fragmentation** through dualistic perception.  
     Consuming its fruit activates L₂ (SS / SM: Anthra / Nousa) in a separated state (IL₂ (ISS / ISM: Echthros / Skotos)), casting consciousness into the **Khaonic Tree** of dual labor and decay.
 
+* **The Biospiral:** The Tree of Life and the Tree of Knowledge are not two separate ontologies, but two orientational paths within the single emanatory structure of the **Biospiral**.  
+    Genesis presents them as a paired threshold at the embodied node, where consciousness is confronted with the centropic and entropic trajectories of the greater lattice.
+
 * **The Garden:** The embodied node where this **fundamental orientation** is presented to consciousness.
 
 ---
