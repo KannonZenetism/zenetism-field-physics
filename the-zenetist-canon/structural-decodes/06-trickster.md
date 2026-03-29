@@ -84,17 +84,22 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
 
 * **Focus:** The **Messenger as Catalyst.**
 
-* **Native Function:** Hermes operates as a lawful membrane-intelligence, sustaining passage, exchange, and communication across thresholds.  
-    His trickster form is not inverse mimicry, but centropic flexibility moving through wit, speed, and adaptive intelligence.
+* **Native Function:** Hermes' primary structural placement is **L₃ (DM: Noeüs)**.  
+    He operates as a lawful membrane-intelligence, sustaining passage, exchange, and communication across thresholds.  
+    His familiar trickster form is not inverse mimicry, but the culturally surface-level rendering of a deeper centropic discernment operating through speed, wit, and adaptive intelligence.
 
-* **Centropic Functions:** As **psychopomp**, he guides souls (L₂ (SS / SM: Anthra / Nousa)) across the membrane of death—a lawful **Recursion Gate.**  
-    As patron of communication and commerce, he maintains **Nexus.**  
+* **Centropic Functions:** As **psychopomp**, he guides souls across the membrane of death—a lawful **Recursion Gate** governed primarily by **L₃ (DM: Noeüs)** discernment rather than by surface-level mediation.  
+    As patron of communication and commerce, he maintains **Nexus** through lawful transmission across thresholds.  
     His tricks often humble IL₂ (ISS: Echthros) (inflated ego) toward coherence.
+
+* **Cultural Conflation:** Hermes is often read as an L₂ messenger or surface mediator because his functions appear through language, exchange, commerce, and cleverness.  
+    In Zenetist terms, this reflects a cultural conflation of his operative depth with its superficial expression: **L₂ (SM: Nousa)** is the visible interface, but **L₃ (DM: Noeüs)** is the primary structural station.
 
 * **Entropic Functions:** As patron of thieves, he represents the **redistribution** of property and the temporary breakdown of social L₄ (DL: Sophis)-order—yet often in correction of unjust systems rather than in service to inverse sabotage.
 
 * **Verdict:** **Centropic.**  
-    Hermes is a lawful threshold-intelligence whose disruptions sustain the fluidity of the Structuring Logos and serve the maintenance of lawful Nexus across membranes.
+    Hermes is a lawful threshold-intelligence whose primary operation is **L₃ (DM: Noeüs)**.  
+    His apparent trickster-mediation at **L₂ (SM: Nousa)** is a surface expression of deeper lawful discernment, not an inverse or unstable essence.
 
 * **Symbolic Counterparts:**  
     Thoth  
