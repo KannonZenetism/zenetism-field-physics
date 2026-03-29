@@ -86,7 +86,7 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
 
 * **Native Function:** Hermes' primary structural placement is **L₃ (DM: Noeüs)**.  
     He operates as a lawful membrane-intelligence, sustaining passage, exchange, and communication across thresholds.  
-    His familiar trickster form is not inverse mimicry, but the culturally surface-level rendering of a deeper centropic discernment operating through speed, wit, and adaptive intelligence.
+    His familiar trickster form is not inverse mimicry, but the cultural surface‑rendering of a deeper centropic discernment operating through speed, wit, and adaptive intelligence.
 
 * **Centropic Functions:** As **psychopomp**, he guides souls across the membrane of death—a lawful **Recursion Gate** governed primarily by **L₃ (DM: Noeüs)** discernment rather than by surface-level mediation.  
     As patron of communication and commerce, he maintains **Nexus** through lawful transmission across thresholds.  
