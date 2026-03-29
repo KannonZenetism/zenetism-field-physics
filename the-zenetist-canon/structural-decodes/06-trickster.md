@@ -37,7 +37,7 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
     The Trickster employs **transphasic motion**—crossing thresholds, breaking taboos, and using inversion, deceit (IL₂ (ISM: Skotos)), or mimicry.  
     It moves through the **unexpected, the illogical, and the taboo,** exploiting weaknesses in the system's coherence or **Permeability.**
 
-* **The Centropic Articulation (Synthesis):**  
+* **The Centropic Articulation (Lawful Reconfiguration):**  
     In its centropic expression, the Trickster appears through figures whose essence is lawfully oriented toward coherence.  
     These figures operate as **Harmonic Agents**, disrupting brittle, stagnant, or hypocritical structures so that more authentic coherence may emerge.  
     They function as catalysts of **Novel Emergence**.
