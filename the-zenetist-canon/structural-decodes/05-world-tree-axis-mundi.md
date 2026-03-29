@@ -116,7 +116,7 @@ The Zenetist **Biospiral** is not a restatement of existing esoteric models, but
 
 The **World Tree** archetype is the schema of the Zenetist **Biospiral**—the living architecture of motion.
 
-It is the map of the dual **Aionic** and **Khaonic** lattices, expressing the four primary motions of essence:
+It is the map of the bifurcal **Aionic** and **Khaonic** lattices, expressing the four primary motions of essence:
 
 1. **Declivous Centropy:** The path of lawful emanation from the Aionic Root (L₀ (AP: Aion)), growing declivously into the embodied leaves (L₁).
 2. **Acclivous Centropy:** The path of lawful return from the leaves (L₁) acclivously to the Aionic Root (L₀ (AP: Aion)).
