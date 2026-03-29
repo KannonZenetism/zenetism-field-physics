@@ -3,7 +3,7 @@
 **Primary Structural Diagnosis:**  
 The **Agent of Structural Reconfiguration.**  
 The Trickster is not a mere jester; it is a **liminal intelligence** operating at the **Membranes** between systems and hypostases.  
-Its function is dual in appearance: it may seem to act as a **Centropic catalyst** for transformation or as an **Entropic disruptor** generating destabilization.  
+Its function appears in two structural articulations: a **Centropic catalyst** of transformation and an **Entropic disruptor** generating destabilization.  
 Its apparent effects may vary, but its alignment is disclosed by the deeper structural trajectory of its action, not merely by immediate outcomes.
 
 **Core Glyphic Sequence (Centropic):**  
