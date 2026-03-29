@@ -156,7 +156,7 @@ The **Trickster** is not a single moral type, but a **liminal intelligence** ope
 Its apparent effects may vary, but its true alignment is disclosed by the deeper structural trajectory it produces across the lattice.
 
 In centropic expression, the Trickster functions as a **catalyst of lawful reconfiguration**.  
-It breaks rigidity, exposes stagnation, and opens the way for more coherent synthesis.
+It breaks rigidity, exposes stagnation, and opens the way for more coherent integration.
 
 In entropic expression, the Trickster becomes an **agent of fragmentation, mimicry, and recursion**.  
 It appears adaptive, liberating, or beneficial at the surface, while embedding distortions that compound into instability.
