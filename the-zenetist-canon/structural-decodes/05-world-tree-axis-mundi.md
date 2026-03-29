@@ -6,8 +6,8 @@ This archetype directly symbolizes the **Zenetist lattice** itself—a living ma
 It functions as the conduit for **resonant motion** between all hypostatic layers.
 
 **Core Glyphic Sequence:**  
-`⚫ ↔ ♾ → 🌳⇅ → ⊙`  
-*(From the Aion–Khaon Continuum emerges the dual Tree of Emanation — the Biospiral — culminating in the Embodied World-Node.)*
+`⚫ ↔ ♾ → 🕊️ → 🌳⇅ → ⊙`  
+*(From the bifurcal polarity of Aion and Khaon, Spirit stirs the motion of emanation, unfolding the dual Tree of Emanation — the Biospiral — toward the Embodied World-Node.)*
 
 ---
 
