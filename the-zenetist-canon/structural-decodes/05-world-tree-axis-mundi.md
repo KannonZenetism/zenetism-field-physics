@@ -37,7 +37,7 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
     * The diverse creatures represent Intelligences and Consciousness Fields operating at specific layers of the two trees.  
     * The Eagle (at the supernal pole) represents L₅ (EOB: Theon) awareness.  
     * The Serpent / Nidhogg (at the subversal pole) represents IL₅ (VOS: Nekron) entropic pull.  
-    * Ratatoskr (the squirrel) represents the L₂ / IL₂ (SM / ISM: Nousa / Skotos) chatter, mediating between the layers.
+    * Ratatoskr (the squirrel) operates at **IL₂ (ISM: Skotos)**—distorting signal between the supernal and subversal poles, stirring dissonance under the apparent guise of mediation. The attribution of a neutral communicative function (**L₂ (SM: Nousa)**) is a cultural conflation of his surface role with his operative effect.
 
 ---
 
