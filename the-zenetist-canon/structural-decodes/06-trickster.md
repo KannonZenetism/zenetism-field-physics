@@ -8,11 +8,11 @@ Though the archetype appears in both centropic and entropic forms, each specific
 
 **Core Glyphic Sequence (Centropic):**  
 `🔺 → ⚙️ → ⟜ → ◲ → ∴`  
-*(Centropic structuring motion enters Apparent Order, which is disrupted by a Synectic Pivot, leading to Lawful Deconstruction and culminating in Transcendent Synthesis.)*
+*(Centropic motion engages Apparent Order, which is disrupted by a Synectic Pivot, leading to Lawful Deconstruction and culminating in Transcendent Synthesis.)*
 
 **Core Glyphic Sequence (Entropic):**  
 `🔻 → ⚙️ → ⟜ → ☍ → ⟳ → 📡`  
-*(Entropic fragmenting motion enters Apparent Order, which is disrupted by a Synectic Pivot, leading to Fragmentation, recursive destabilization, and a Fractal Eschaton in which coherence is scanned against the next phase of reality.)*
+*(Entropic motion engages Apparent Order, which is disrupted by a Synectic Pivot, leading to Fragmentation, recursive destabilization, and an entropically precipitated Fractal Eschaton in which coherence is scanned against the next phase of reality.)*
 
 ---
 
