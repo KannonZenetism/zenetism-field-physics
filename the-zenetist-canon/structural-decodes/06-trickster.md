@@ -16,6 +16,17 @@ Its apparent effects may vary, but its alignment is disclosed by the deeper stru
 
 ---
 
+### Note on the Trickster as Pattern-Class
+
+**Zenetist Clarification:** The Trickster archetype manifests through both centropic and entropic cultural articulations.  
+These are not two possible outcomes for the same figure, but two distinct classes of figure sharing a common functional pattern: membrane disruption, threshold crossing, and structural reconfiguration.  
+Per Essence-as-Choice, each specific articulation follows one trajectory, not both.  
+The centropic sequence applies to figures such as Hermes and Eshu, whose essence is centropically oriented.  
+The entropic sequence applies to figures such as Loki and Coyote, whose essence is entropically oriented.  
+The apparent duality belongs to the archetype as a pattern-class, not to any individual figure within it.
+
+---
+
 ## Universal Structural Analysis
 
 * **The Domain (Apparent Order):**  
