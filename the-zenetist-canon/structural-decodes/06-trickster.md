@@ -37,18 +37,18 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
     The Trickster employs **transphasic motion**—crossing thresholds, breaking taboos, and using inversion, deceit (IL₂ (ISM: Skotos)), or mimicry.  
     It moves through the **unexpected, the illogical, and the taboo,** exploiting weaknesses in the system's coherence or **Permeability.**
 
-* **The Centropic Outcome (Synthesis):**  
-    When the structure targeted is brittle, stagnant, or hypocritical, the Trickster's disruption becomes a **Harmonic Agent.**  
-    It **Deconstructs** rigid forms, allowing a more authentic, fluid coherence to emerge.  
-    It functions as a **Catalyst for Novel Emergence.**
+* **The Centropic Articulation (Synthesis):**  
+    In its centropic expression, the Trickster appears through figures whose essence is lawfully oriented toward coherence.  
+    These figures disrupt brittle, stagnant, or hypocritical structures as **Harmonic Agents**, deconstructing rigidity so that more authentic coherence may emerge.  
+    They function as catalysts of **Novel Emergence**.
 
-* **The Entropic Outcome (Fragmentation and Recursion):**  
-    When the target is coherent and life-supporting—or when the Trickster acts from self-interest—the disruption breeds **dissonance.**  
-    It fractures **Nexus** bonds, amplifies IL₂ (ISS: Echthros) (hostility), and produces **Hollow Recursion**—systems spinning without advancement.
+* **The Entropic Articulation (Fragmentation and Recursion):**  
+    In its entropic expression, the Trickster appears through figures whose essence is oriented toward disruption, mimicry, and destabilization.  
+    These figures breed **dissonance**, fracture **Nexus** bonds, amplify IL₂ (ISS: Echthros) hostility, and produce **Hollow Recursion**—systems spinning without advancement.
 
 * **The Liminal Nature (The Recursive Hinge):**  
-    The Trickster resides at **thresholds, crossroads, and membranes.**  
-    It embodies the **Recursive Hinge**—the pivotal locus where one structural state can flip into another.
+    In both articulations, the Trickster resides at **thresholds, crossroads, and membranes**.  
+    It embodies the **Recursive Hinge**—the pivotal locus where one structural state is tested, reconfigured, clarified, or destabilized depending on the essence of the figure through whom the archetype is expressed.
 
 ---
 
