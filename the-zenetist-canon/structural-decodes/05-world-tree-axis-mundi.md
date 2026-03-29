@@ -34,7 +34,7 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
     * This is the World-Node—the plane of interaction, choice, and structural friction where the two arcs become fully manifest.
 
 * **The Inhabiting Beings:**  
-    * The diverse creatures represent Intelligences and Consciousness Fields operating at specific layers (nodes) of the two trees.  
+    * The diverse creatures represent Intelligences and Consciousness Fields operating at specific layers of the two trees.  
     * The Eagle (at the supernal pole) represents L₅ (EOB: Theon) awareness.  
     * The Serpent / Nidhogg (at the subversal pole) represents IL₅ (VOS: Nekron) entropic pull.  
     * Ratatoskr (the squirrel) represents the L₂ / IL₂ (SM / ISM: Nousa / Skotos) chatter, mediating between the layers.
