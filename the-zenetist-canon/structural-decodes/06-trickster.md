@@ -7,7 +7,7 @@ Its function appears in two structural articulations: a **Centropic catalyst** o
 Though the archetype appears in both centropic and entropic forms, each specific figure is disclosed by the deeper structural trajectory of its action, not merely by surface role or immediate outcome.
 
 **Core Glyphic Sequence (Centropic):**  
-`🔺 → ⚙️ → ⟜ → ◲ → ∴`  
+`🔺 → ⚙️ → ⟜ → ◲ → ⤈∴`  
 *(Centropic motion engages Apparent Order, which is disrupted by a Synectic Pivot, leading to Lawful Deconstruction and culminating in Transcendent Synthesis.)*
 
 **Core Glyphic Sequence (Entropic):**  
