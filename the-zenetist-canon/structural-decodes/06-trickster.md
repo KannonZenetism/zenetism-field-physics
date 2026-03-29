@@ -61,7 +61,7 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
 * **Native Function:** Loki's primary structural placement is **IL₄ (IDL: Nyxea)**.  
     He is the Inverse Logos principle: fluid, brilliant, and perilous.  
     His defining acts are cosmological in weight: the killing of **Baldr** (the most centropically radiant figure in Norse myth) and the engineering of **Ragnarök (Fractal Eschaton)**.  
-    These are not surface tricks but the work of an inverse archetypal architect dismantling centropic structure from within.
+    These are not surface tricks but the work of an inverse archetypal architect whose influence, mediated through the embodied interface, destabilizes relative centropic order over time.
 
 * **Apparent Centropic Outcomes:** Norse mythmakers attributed beneficial outcomes to Loki—cunning solutions, useful offspring (Sleipnir), and moments of apparent service to the Aesir.  
     Per Essence-as-Choice, an entropic essence does not perform genuinely centropic functions.  
