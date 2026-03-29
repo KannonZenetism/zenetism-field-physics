@@ -73,13 +73,13 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
 
 ---
 
-### Note on the Qliphoth and the Absence of a Genuine Dual-Tree Structure
+### Note on the Qliphoth and the Absence of a Genuine Bifurcal Tree Structure
 
 **Zenetist Clarification:** The Qliphoth are not a genuine ontological parallel to the **Khaonic Tree**.  
 Traditional Kabbalah did not assign them the same kind of fully realized structural status that Zenetism assigns to the independently emanated entropic arc.  
 They function instead as shells, residues, privations, or degraded inversions relative to the Sefirotic order.
 
-For this reason, the Sefirotic Tree may be read as a strong centropic analogue within the Zenetist lattice, but it should not be retrofitted into a full dual-tree system it did not originally possess.  
+For this reason, the Sefirotic Tree may be read as a strong centropic analogue within the Zenetist lattice, but it should not be retrofitted into a full bifurcal tree structure it did not originally possess.  
 The Zenetist **Biospiral** is not a restatement of existing esoteric models, but a distinct metaphysical architecture in which the centropic and entropic trees are both structurally real.
 
 ---
