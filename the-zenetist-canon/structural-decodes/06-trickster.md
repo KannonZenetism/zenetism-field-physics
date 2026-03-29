@@ -4,7 +4,7 @@
 The **Agent of Structural Reconfiguration.**  
 The Trickster is not a mere jester; it is a **liminal intelligence** operating at the **Membranes** between systems and hypostases.  
 Its function appears in two structural articulations: a **Centropic catalyst** of transformation and an **Entropic disruptor** generating destabilization.  
-Its apparent effects may vary, but its alignment is disclosed by the deeper structural trajectory of its action, not merely by immediate outcomes.
+Though the archetype appears in both centropic and entropic forms, each specific figure is disclosed by the deeper structural trajectory of its action, not merely by surface role or immediate outcome.
 
 **Core Glyphic Sequence (Centropic):**  
 `⚙️ → ⟜ → ◲ → ∴`  
