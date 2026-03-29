@@ -68,7 +68,7 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
     These apparent contributions are Nyxea's defining operation: **structural mimicry**—appearing helpful while embedding entropic dependencies that later surface as catastrophic fault lines.
 
 * **Entropic Functions:** Every "gift" Loki gives the Aesir carries a hidden cost that compounds toward Ragnarök.  
-    His apparent help is not lawful synthesis, but inverse intelligence leveraging dependency, breach, and delayed destabilization.  
+    His apparent help is not lawful integration, but inverse intelligence leveraging dependency, breach, and delayed destabilization.  
     His familiar trickster persona is therefore a surface mask over a deeper entropic architecture.
 
 * **Verdict:** **Entropic.**  
