@@ -48,9 +48,9 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
 * **Focus:** The Tree as a **Living, Suffering System.**
 
 * **The Three Roots:**  
-    * **Urdhr (Well of Fate – L₄ (DP / DL: Morgis / Sophis)):** Archetypal law.  
-    * **Mimir (Well of Wisdom – L₃ (DS / DM: Archeus / Noeüs)):** Deep intelligence.  
-    * **Hvergelmir (Roaring Kettle – L₀ (Khaon)):** Dispersive potential.  
+    * **Urdhr (Well of Fate – L₄ (DL: Sophis)):** Archetypal law.  
+    * **Mimir (Well of Wisdom – L₃ (DM: Noeüs)):** Deep intelligence.  
+    * **Hvergelmir (Roaring Kettle – L₀ (AD: Khaon)):** Dispersive potential.  
     * Together, they map the Tree's connection to **Law, Intelligence, and Potential.**
 
 * **Nidhogg (IL₅ (VOS: Nekron)):** The serpent at the subversal root—symbol of the terminal **Entropic Pull** (Nekron) acting upon structure.
