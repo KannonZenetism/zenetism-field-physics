@@ -39,7 +39,7 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
 
 * **The Centropic Articulation (Synthesis):**  
     In its centropic expression, the Trickster appears through figures whose essence is lawfully oriented toward coherence.  
-    These figures disrupt brittle, stagnant, or hypocritical structures as **Harmonic Agents**, deconstructing rigidity so that more authentic coherence may emerge.  
+    These figures operate as **Harmonic Agents**, disrupting brittle, stagnant, or hypocritical structures so that more authentic coherence may emerge.  
     They function as catalysts of **Novel Emergence**.
 
 * **The Entropic Articulation (Fragmentation and Recursion):**  
