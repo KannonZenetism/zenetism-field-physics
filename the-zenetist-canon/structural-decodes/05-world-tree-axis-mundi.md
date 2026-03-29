@@ -123,7 +123,7 @@ It is the map of the bifurcal **Aionic** and **Khaonic** lattices, expressing th
 3. **Acclivous Entropy:** The path of inverse manifestation from the Khaonic Root (L₀ (Khaon)), growing acclivously into the embodied leaves (IL₁).
 4. **Declivous Entropy:** The path of structural collapse from the leaves (IL₁) declivously to the Khaonic Root (L₀ (Khaon)).
 
-Every being occupies a **specific Node** on this bifurcal structure; resonance determines both **position** and **direction.**
+Every being occupies a **specific station** on this bifurcal structure; resonance determines both **position** and **direction.**
 
 The **Biospiral** is the ultimate map of motion, manifestation, and return.
 
