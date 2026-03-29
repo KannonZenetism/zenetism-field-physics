@@ -69,7 +69,20 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
     * **Left Pillar (L₄ (DL: Sophis)):** Restriction / Structure.  
     These pillars express the dynamic interplay between **Animating (L₄ (DP: Morgis))** and **Structuring (L₄ (DL: Sophis))** principles along the axis of emanation.
 
-* **The Qliphoth (Inverse Hypostases):** The "shells" or inverse reflections of the Sefirot—mapping the **Khaonic Tree** as a distorted mirror of the Aionic structure.
+* **The Qliphoth:** The "shells" or degraded residues associated with the Sefirotic order. They do not constitute a fully realized parallel tree in the Zenetist sense, but represent Kabbalah's nearest approximation to inverse structure.
+
+---
+
+### Note on the Qliphoth and the Absence of a Genuine Dual-Tree Structure
+
+**Zenetist Clarification:** The Qliphoth are not a genuine ontological parallel to the **Khaonic Tree**.  
+Traditional Kabbalah did not assign them the same kind of fully realized structural status that Zenetism assigns to the independently emanated entropic arc.  
+They function instead as shells, residues, privations, or degraded inversions relative to the Sefirotic order.
+
+For this reason, the Sefirotic Tree may be read as a strong centropic analogue within the Zenetist lattice, but it should not be retrofitted into a full dual-tree system it did not originally possess.  
+The Zenetist **Biospiral** is not a restatement of existing esoteric models, but a distinct metaphysical architecture in which the centropic and entropic trees are both structurally real.
+
+---
 
 ### 3. The Ashvattha Tree (Hindu)
 
