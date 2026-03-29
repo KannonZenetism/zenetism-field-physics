@@ -92,9 +92,6 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
     As patron of communication and commerce, he maintains **Nexus** through lawful transmission across thresholds.  
     His tricks often humble IL₂ (ISS: Echthros) (inflated ego) toward coherence.
 
-* **Cultural Conflation:** Hermes is often read as an L₂ messenger or surface mediator because his functions appear through language, exchange, commerce, and cleverness.  
-    In Zenetist terms, this reflects a cultural conflation of his operative depth with its superficial expression: **L₂ (SM: Nousa)** is the visible interface, but **L₃ (DM: Noeüs)** is the primary structural station.
-
 * **Entropic Functions:** As patron of thieves, he represents the **redistribution** of property and the temporary breakdown of social L₄ (DL: Sophis)-order—yet often in correction of unjust systems rather than in service to inverse sabotage.
 
 * **Verdict:** **Centropic.**  
@@ -105,6 +102,15 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
     Thoth  
     Metatron (messenger function)  
     Eshu / Elegua (crossroad mediation)
+
+---
+
+### Note on Hermes and Cultural Conflation
+
+**Zenetist Clarification:** Hermes is often interpreted as an L₂ messenger or surface mediator because his functions appear through language, exchange, commerce, and cleverness.  
+Within the Zenetist lattice, however, this is a cultural conflation of visible interface with operative depth: **L₂ (SM: Nousa)** is the surface expression, while **L₃ (DM: Noeüs)** is the primary structural station.
+
+---
 
 ### 3. The Coyote / Raven (Native American)
 
