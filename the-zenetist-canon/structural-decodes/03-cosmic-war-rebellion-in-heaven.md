@@ -37,7 +37,7 @@ Its purity is maintained precisely because it does not directly contact the inve
 ### Note on Archetypal Awareness and Structural Influence
 
 The centropic Forms at L₄ are not ignorant of the inverse currents that oppose their influence.  
-L₄ is the layer of **conscious-awareness** — the Forms that inhabit it possess a refined, non-anthropomorphic awareness of the structural field they shape.  
+L₄ is the layer of **conscious-awareness** — the Forms proper to it possess a refined, non-anthropomorphic awareness of the structural field they shape.  
 They structure the subsequent layers of reality and are aware of inverse influence reverberating back through the embodied medium.  
 However, this awareness is not direct spatial or physical contact with IL₄.  
 The centropic and entropic archetypal realms operate on independently emanated trees.  
