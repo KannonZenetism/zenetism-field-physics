@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Structural Spine of Emanation.**  
-This archetype directly symbolizes the **Zenetist lattice** itself—a living map that connects all states of being, from the **Unmanifest (Zenon)** to the **Fully Embodied (L₁ (ES / EM: Soma / Biosa)).**  
+This archetype directly symbolizes the **Zenetist lattice** itself—a living map that connects all states of being, from the **Aionic Root (L₀ (AP: Aion))** to the **Fully Embodied (L₁ (ES / EM: Soma / Biosa)).**  
 It functions as the conduit for **resonant motion** between all hypostatic layers.
 
 **Core Glyphic Sequence:**  
