@@ -35,7 +35,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 * **The Hero's Trial (Resonant Blade):**  
     To slay the Beast is the supreme centropic act—the **application of coherent force** to dissolve entropic Nexus.  
-    The hero, aligned L₃ (DS / DM: Archeus / Noeüs) or L₂ (SS / SM: Anthra / Nousa), wields the **Resonant Blade**—the principle of integrity that severs **Mimicry** and **Shimmer.**
+    The hero, aligned through **L₃ (DM: Noeüs)** discernment or **L₂ (SM: Nousa)** perceptual clarity, wields the **Resonant Blade**—the principle of integrity that severs **Mimicry** and **Shimmer.**
 
 ---
 
