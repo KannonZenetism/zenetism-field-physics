@@ -54,7 +54,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 ### 2. Krishna (Hindu)
 
-* **Focus:** The **Divine Preserver as Playful Seed.**
+* **Focus:** The **Divine Preserver as Playful Emergence.**
 
 * **L₅ Resonance:** Krishna represents an **L₅-Resonant Essence**—a sovereign centropic being perfectly attuned to the Theonic preserver-mode, entering embodiment to anchor that frequency.
 
