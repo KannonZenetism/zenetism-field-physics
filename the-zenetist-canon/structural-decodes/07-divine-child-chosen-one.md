@@ -46,7 +46,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Herod's Massacre (IL₃ (IDS: Fractus)):** Entropic operation's attempt to extinguish the new centropic pattern.
 
-* **Flight to Egypt:** Preservation of the seed through lawful concealment.
+* **Flight to Egypt:** Preservation of the Emergent Coherence through lawful concealment.
 
 * **Hidden Life:** Integration into embodiment through ordinary existence.
 
