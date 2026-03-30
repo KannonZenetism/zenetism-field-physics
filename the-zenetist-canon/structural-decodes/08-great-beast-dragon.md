@@ -70,7 +70,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 * **The Full Inverse Cascade:** Dragon (IL₅ (VOS: Nekron)) → Luciferic Architecture (IL₄ (IDL: Nyxea)) → False Prophet (IL₃ (IDM: Mortus)) → Skotos Broadcast (IL₂ (ISM: Skotos)) → Beast from the Sea (IL₁ (IES / IEM: Malara / Mania)).  
     Revelation thus presents not a single monster, but the complete declivity of entropic will through the inverse tree into embodied empire.
 
-* **The War in Heaven:** Mythically renders the enduring challenge of entropic force within emanation, while structurally revealing the full inverse cascade by which Nekronic will seeks embodiment.
+* **The War in Heaven:** Mythically renders the structural friction at L₁ / IL₁ — the only domain where centropic and entropic currents meet — whose reverberations are projected acclivously as a celestial battle, while structurally revealing the inverse cascade by which Nekronic will seeks embodiment.
 
 ---
 
