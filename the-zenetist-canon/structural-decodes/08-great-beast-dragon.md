@@ -72,6 +72,23 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 * **The War in Heaven:** Mythically renders the enduring challenge of entropic force within emanation, while structurally revealing the full inverse cascade by which Nekronic will seeks embodiment.
 
+---
+
+### Note on Cascade Manifestation
+
+**Zenetist Clarification:** Some mythic complexes do not represent conflation, but **cascade manifestation** — the same structural principle moving declivously through multiple layers and assuming different names or forms at each station.  
+In such cases, the figures are not separate native placements arbitrarily grouped together, nor a single name carrying unrelated functions.  
+They are successive articulations of one principle as it moves from archetypal origin toward embodied manifestation.
+
+The Dragon–Beast complex in Revelation is interpreted this way.  
+What appears mythically as multiple adversarial figures is structurally a single **Nekronic cascade**:  
+**IL₅ (VOS: Nekron)** → **IL₄ (IDL: Nyxea)** → **IL₃ (IDM: Mortus)** → **IL₂ (ISM: Skotos)** → **IL₁ (IES / IEM: Malara / Mania)**.
+
+The task of the registry is therefore not to flatten these into one undifferentiated symbol,  
+but to distinguish each station of manifestation while preserving the continuity of the declivating principle.
+
+---
+
 ### 3. Vritra (Hindu)
 
 * **Focus:** The **Hoarder of Vitality.**
