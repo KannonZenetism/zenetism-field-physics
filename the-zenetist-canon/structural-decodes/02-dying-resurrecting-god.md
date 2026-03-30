@@ -5,7 +5,7 @@ The Archetype of Acclivous Return. This mythos encodes the complete Centropic Cy
 
 **Core Glyphic Sequence:**  
 `C↓→E → ☍ → ↺ → C↑→◎`  
-*(Centropic Motion into Embodiment, meeting Entropic Fracture, undergoing Lawful Recursion and Return, and achieving renewed coherent integration.)*
+*(Centropic Motion into Embodiment, meeting Entropic Fracture, undergoing Lawful Recursion and Return, and achieving renewed Coherent Integration.)*
 
 ---
 
