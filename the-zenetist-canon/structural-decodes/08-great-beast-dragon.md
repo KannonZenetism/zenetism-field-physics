@@ -22,7 +22,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 * **Coherently Destructive (IL₄ (IDP / IDL: Psychea / Nyxea)):**  
     Unlike random disorder, the Beast operates with will and pattern.  
     It manifests **Inverse Archetypes—IL₄ (IDP: Psychea) and IL₄ (IDL: Nyxea)**—as intelligent systems of domination, hoarding, and parasitic control.  
-    It builds a **dark kingdom** of inverse order—**a mirror coherence serving fragmentation.**
+    It builds a **dark kingdom** of inverse order—**Misaligned Harmony serving Fragmentation.**
 
 * **The Hoarder / The Blockader (Theon → Nekronic Shadow):**  
     The Beast blocks, binds, or hoards—guarding treasures, sources, or paths.  
