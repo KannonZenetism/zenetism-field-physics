@@ -56,7 +56,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Focus:** The **Divine Preserver as Playful Seed.**
 
-* **Theonic Origin:** Krishna is an **L₅ (EOB: Theon)** emanation in playful-preserver mode, entering embodiment as a centropic seed.
+* **Theonic Origin:** Krishna is **L₅ (EOB: Theon)** in playful-preserver mode, entering embodiment as a centropic seed.
 
 * **Prophesied Threat:** **Kamsa (IL₂ (ISS: Echthros))**—tyrant aware of the prophecy of his dissolution.
 
@@ -64,7 +64,18 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Latent Power:** Slaying of demons reflects effortless neutralization of **Inverse forces** by **pure centropic resonance.**
 
-* **Destiny:** To guide **Arjuna (L₃ (DS / DM: Archeus / Noeüs))** and restore **Dharma (L₄ (DL: Sophis)).**
+* **Destiny:** To guide **Arjuna** and restore **Dharma (L₄ (DL: Sophis)).**
+
+---
+
+### Note on Krishna and Structural Conflation
+
+**Zenetist Clarification:** Krishna's mythic presentation compresses more than one structural function under a single name.  
+His origin in this decode belongs to **L₅ (EOB: Theon)** as the Divine Preserver entering embodiment as centropic seed.  
+His operative guiding function in later narrative, however, maps to **L₃ (DS / DM: Archeus / Noeüs)** as lawful counsel, discernment, and soul-guidance.  
+The same name therefore spans more than one structural station through cultural conflation of origin-function and operative manifestation.
+
+---
 
 ### 3. Moses (Hebrew)
 
