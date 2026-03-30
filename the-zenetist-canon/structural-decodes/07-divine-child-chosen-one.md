@@ -20,7 +20,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **The Threat and the Sanctuary (Entropic Pull → Seal):**  
     The old or inverse order—symbolized by an entropic or stagnant ruler—responds to the incoming novelty with aggression.  
-    Preservation in secrecy (wilderness, exile, humble dwelling) enacts the **Seal of Integrity**, shielding the centropic seed until it stabilizes.
+    Preservation in secrecy (wilderness, exile, humble dwelling) enacts the **Seal of Integrity**, shielding the centropic emergence until it stabilizes.
 
 * **The Humble Origins (Earth):**  
     The child matures in obscurity or poverty, symbolizing **connection to the fundamental substratum** and L₁ (ES: Soma).  
