@@ -44,7 +44,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Virgin Birth:** Direct actualization from L₅ (EOB: Theon) into L₁ (ES / EM: Soma / Biosa).
 
-* **Herod's Massacre (IL₃ (IDS / IDM: Fractus / Mortus)):** Entropic operation's attempt to extinguish the new centropic pattern.
+* **Herod's Massacre IL₃ (IDS: Fractus):** Entropic operation's attempt to extinguish the new centropic pattern.
 
 * **Flight to Egypt:** Preservation of the seed through lawful concealment.
 
