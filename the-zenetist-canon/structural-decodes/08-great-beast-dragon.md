@@ -45,7 +45,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 * **Focus:** **Primordial Chaos contra Logos of Order.**
 
-* **Tiamat (Khaon / IL₄ (IDP / IDL: Psychea / Nyxea)):** The saltwater abyss, generative yet unbound, birthing **Inverse Archetypes** before law.
+* **Tiamat (Khaon / IL₄ (IDP: Psychea)):** The saltwater abyss, generative yet unbound, birthing **Inverse Archetypes** before law.
 
 * **Marduk (L₄ (DL: Sophis)):** The structuring Logos who seizes the **Tablets of Destiny**, subduing chaos without annihilating it—**Cosmic Order** emerging from containment of dispersion.
 
@@ -84,9 +84,9 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 * **Focus:** The **Devourer of Unawareness.**
 
-* **The Sphinx (IL₃ (IDS / IDM: Fractus / Mortus)):** Hybrid beast that devours those failing its riddle—symbol of IL₃ (IDM: Mortus) ensnaring the unintegrated psyche.
+* **(IL₃ (IDM: Mortus)):** Hybrid beast that devours those failing its riddle—symbol of IL₃ (IDM: Mortus) ensnaring the unintegrated psyche.
 
-* **Oedipus (L₂ (SS / SM: Anthra / Nousa) attaining L₃ (DS / DM: Archeus / Noeüs) insight):**  
+* **Oedipus (L₂ (SM: Nousa) attaining L₃ (DM: Noeüs) insight):**  
     By answering the riddle ("Human"), he achieves **centropic self-recognition.**  
     The Sphinx's self-destruction marks the collapse of IL₃ (IDS / IDM: Fractus / Mortus) when confronted by **Veracious awareness.**
 
