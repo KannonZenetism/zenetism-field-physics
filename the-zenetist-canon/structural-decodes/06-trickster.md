@@ -90,7 +90,7 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
 
 * **Centropic Functions:** As **psychopomp**, he guides souls across the membrane of death—a lawful **Recursion Gate** governed primarily by **L₃ (DM: Noeüs)** discernment rather than by phenomenal mediation.  
     As patron of communication and commerce, he maintains **Nexus** through lawful transmission across thresholds.  
-    His tricks often humble IL₂ (ISS: Echthros) (inflated ego) toward coherence.
+    His tricks often place IL₂ (ISS: Echthros) adversarial will under conditions that reveal its structural misalignment.
 
 * **Entropic Functions:** As patron of thieves, he represents the **redistribution** of property and the temporary breakdown of social L₄ (DL: Sophis)-order—yet often in correction of unjust systems rather than in service to inverse sabotage.
 
