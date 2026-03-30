@@ -92,7 +92,9 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
     As patron of communication and commerce, he maintains **Nexus** through lawful transmission across thresholds.  
     His tricks often place IL₂ (ISS: Echthros) adversarial will under conditions that reveal its structural misalignment.
 
-* **Entropic Functions:** As patron of thieves, he represents the **redistribution** of property and the temporary breakdown of social L₄ (DL: Sophis)-order—yet often in correction of unjust systems rather than in service to inverse sabotage.
+* **Entropic Functions:** As patron of thieves, he represents the **redistribution** of property and the temporary disruption of prevailing social order.  
+    Yet this order is not necessarily lawful **L₄ (DL: Sophis)** structure; it is often already conditioned by **IL₄ (IDL: Nyxea)** distortion.  
+    His apparent transgressions may therefore function less as sabotage of centropic law than as membrane-actions exposing the instability of already compromised systems.
 
 * **Verdict:** **Centropic.**  
     Hermes is a lawful threshold-intelligence whose primary operation is **L₃ (DM: Noeüs)**.  
