@@ -79,7 +79,7 @@ The conflation here is therefore not an erroneous connection, but an undifferent
 
 ### 3. Moses (Hebrew)
 
-* **Focus:** The **Liberator Seed preserved by the Oppressor.**
+* **Focus:** The **Liberator Emergence preserved by the Oppressor.**
 
 * **The Decree:** Pharaoh's command to destroy the male infants—an act of **entropic control.**
 
