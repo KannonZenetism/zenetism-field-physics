@@ -85,7 +85,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 * **Focus:** The **Devourer of Unawareness.**
 
-* **(IL₃ (IDM: Mortus)):** Hybrid beast that devours those failing its riddle—symbol of IL₃ (IDM: Mortus) ensnaring the unintegrated psyche.
+* **The Sphinx (IL₃ (IDM: Mortus)):** Hybrid beast that devours those failing its riddle—symbol of IL₃ (IDM: Mortus) ensnaring the unintegrated psyche.
 
 * **Oedipus (L₂ (SM: Nousa) attaining L₃ (DM: Noeüs) insight):**  
     By answering the riddle ("Human"), he achieves **centropic self-recognition.**  
