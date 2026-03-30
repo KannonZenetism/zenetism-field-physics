@@ -40,7 +40,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 ### 1. Jesus (Christian)
 
-* **Focus:** The **Theonic Seed in Embodiment.**
+* **Focus:** The **Theonic Actualization in Embodiment.**
 
 * **Virgin Birth:** Direct actualization from L₅ (EOB: Theon) into L₁ (ES / EM: Soma / Biosa).
 
@@ -56,7 +56,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Focus:** The **Divine Preserver as Playful Seed.**
 
-* **Theonic Origin:** Krishna is **L₅ (EOB: Theon)** in playful-preserver mode, entering embodiment as a centropic seed.
+* **L₅ Resonance:** Krishna represents an **L₅-Resonant Essence**—a sovereign centropic being perfectly attuned to the Theonic preserver-mode, entering embodiment to anchor that frequency.
 
 * **Prophesied Threat:** **Kamsa (IL₂ (ISS: Echthros))**—tyrant aware of the prophecy of his dissolution.
 
