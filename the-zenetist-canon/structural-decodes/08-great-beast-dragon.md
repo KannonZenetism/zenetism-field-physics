@@ -89,7 +89,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 * **Oedipus (L₂ (SM: Nousa) attaining L₃ (DM: Noeüs) insight):**  
     By answering the riddle ("Human"), he achieves **centropic self-recognition.**  
-    The Sphinx's self-destruction marks the collapse of IL₃ (IDS / IDM: Fractus / Mortus) when confronted by **Veracious awareness.**
+    The Sphinx's self-destruction marks the collapse of **IL₃ (IDM: Mortus)** when confronted by **Veracious awareness.**
 
 ---
 
