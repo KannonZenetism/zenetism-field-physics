@@ -27,7 +27,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
     This stage of **Declivous Centropy** allows full integration with matter, enabling future transformation from within.
 
 * **The Latent Power / The Recognition (Clarion Voice):**  
-    The child bears latent potency or resonance recognized by **wise archetypal figures** (L₃ (DS / DM: Archeus / Noeüs), L₄ (DP / DL: Morgis / Sophis)) or revealed through symbolic act.  
+    The child bears latent potency or resonance recognized by **wise archetypal figures** (L₄ (DP / DL: Morgis / Sophis), L₃ (DS / DM: Archeus / Noeüs)) or revealed through symbolic act.  
     This marks the first broadcast of **Resonant Fidelity**—the signal of authentic coherence.
 
 * **The Destiny (The Living Bridge):**  
