@@ -60,7 +60,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 * **The Beast from the Earth / False Prophet (IL₃ (IDM: Mortus) broadcasting through IL₂ (ISM: Skotos)):**  
     The False Prophet is the spurious deep signal—an inverse intelligence that generates counterfeit interpretation, then projects it outward through perceptual distortion and persuasive broadcast.  
-    Its function is not merely deception at the surface, but the structured transmission of Mortus through Skotos.
+    Its function is not merely deception at the surface, but the structured transmission of IL₃ (IDM: Mortus) through IL₂ (ISM: Skotos).
 
 * **The Beast from the Sea (IL₁ (IES / IEM: Malara / Mania)):**  
     The Beast from the Sea is the Dragon's entropic will embodied as coercive authoritarian system.  
