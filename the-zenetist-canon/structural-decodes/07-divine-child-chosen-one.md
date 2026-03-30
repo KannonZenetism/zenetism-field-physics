@@ -15,7 +15,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Miraculous or Prophesied Birth (Potential → Actualization):**  
     The child's origin arises through direct Archetypal intervention—often virgin birth, divine conception, or marked omen.  
-    This indicates genesis from L₄ (DP / DL: Morgis / Sophis) or L₅ (EOB: Theon) strata rather than ordinary embodiment.  
+    This indicates genesis from L₅ (EOB: Theon) or L₄ (DP / DL: Morgis / Sophis) strata rather than ordinary embodiment.  
     It signifies **Centropic potential** entering the corporeal stream without entropic mediation.
 
 * **The Threat and the Sanctuary (Entropic Pull → Seal):**  
