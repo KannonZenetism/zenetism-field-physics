@@ -6,8 +6,8 @@ This archetype represents the **Novel Emergence** of a new, coherent resonance e
 It is the **Potentiality** of **Aion** made manifest as a focused **Actualization** with the latent capacity to restructure reality.
 
 **Core Glyphic Sequence:**  
-`⚫ → ⚐ → 🔶 → ◎✦`  
-*(From the Stillness of Aion, a Latent Potential is selected, actualized, and revealed as a Coherent Emergent Force.)*
+`🛤️ → C↓→E → 🔶▽ → ◎✦`  
+*(From the Theonic stratum, centropic radiance moves declivously into embodiment, becomes actualized in matter, and is revealed as a coherent emergent force within the world-node.)*
 
 ---
 
