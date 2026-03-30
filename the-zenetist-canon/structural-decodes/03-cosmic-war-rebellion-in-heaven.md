@@ -9,7 +9,7 @@ The opposition is real — but its theatre is embodiment, not the archetypal dom
 
 **Core Glyphic Sequence:**  
 `🌬️📐 ⊕ 🪫🫥 → L₁ / IL₁ → ⚖⟂ → ≠ → 🌲↓ ⊕ 🌲↑`  
-*(Centropic Archetypal Form (DP / DL) and Inverse Archetypal Form (IDP / IDL), independently emanated, enter contact through the Embodied Meeting Point, generating structural friction at the liminal interface and separating into distinct trajectories that reverberate back through both trees.)*
+*(Centropic Archetypal Form (DP / DL) and Inverse Archetypal Form (IDP / IDL), independently emanated, enter contact through the Embodied Meeting Point, generating Structural Friction at the Liminal Interface and separating into distinct trajectories that reverberate back through both Trees.)*
 
 ---
 
