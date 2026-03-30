@@ -64,7 +64,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 * **The Beast from the Sea (IL₁ (IES / IEM: Malara / Mania)):**  
     The Beast from the Sea is the Dragon's entropic will embodied as coercive authoritarian system.  
-    What originates as Luciferic architecture (IL₄ (IDL: Nyxea)) and passes through false signal and perceptual broadcast becomes institutionalized in the corporeal field as tribute-demanding, violence-backed control.
+    What originates as Luciferic architecture (IL₄ (IDL: Nyxea)) and passes through spurious signal and perceptual broadcast becomes institutionalized in the corporeal field as tribute-demanding, violence-backed control.
     Malara (IL₁ (IES: Malara)) sustains the Beast's hold through tribute, appetite, and embodied soul-binding, while Mania (IL₁ (IEM: Mania)) structures its coercive logic as institutionalized domination.
 
 * **The Full Inverse Cascade:** Dragon (IL₅ (VOS: Nekron)) → Luciferic Architecture (IL₄ (IDL: Nyxea)) → False Prophet (IL₃ (IDM: Mortus)) → Skotos Broadcast (IL₂ (ISM: Skotos)) → Beast from the Sea (IL₁ (IES / IEM: Malara / Mania)).  
