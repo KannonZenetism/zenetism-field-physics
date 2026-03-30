@@ -7,7 +7,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 **Core Glyphic Sequence:**  
 `🛤️ → C↓→E → 🔶▽ → ◎✦`  
-*(From the Theonic stratum, centropic radiance moves declivously into embodiment, becomes actualized in matter, and is revealed as a coherent emergent force within the world-node.)*
+*(From the Theonic stratum, Centropic Radiance moves declivously into Embodiment, is Actualized in Matter, and appears within the World-Node as a Coherent Emergent Force.)*
 
 ---
 
