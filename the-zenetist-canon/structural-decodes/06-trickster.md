@@ -166,7 +166,7 @@ Within the Zenetist lattice, however, this is a cultural conflation of visible i
 ## Summary: The Esoteric Meaning
 
 The **Trickster** is not a single moral type, but a **liminal intelligence** operating at membranes, thresholds, and recursive hinges.  
-Its apparent effects may vary, but its true alignment is disclosed by the deeper structural trajectory it produces across the lattice.
+Its apparent effects may vary, but its veracious alignment is disclosed by the deeper structural trajectory it produces across the lattice.
 
 In centropic expression, the Trickster functions as a **catalyst of lawful reconfiguration**.  
 It breaks rigidity, exposes stagnation, and opens the way for more coherent integration.
