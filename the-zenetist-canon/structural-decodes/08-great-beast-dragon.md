@@ -103,7 +103,7 @@ Overcoming it requires not sentiment but the **Courage (L₃ (DS: Archeus))** an
 
 There is no integration with the Dragon: its essence is **Fragmentation.**  
 To face it is to reclaim the vitality, integrity, and potential it withholds—  
-the **act of Centropic Reclamation**, by which order reclaims what chaos hoarded.
+the **act of Centropic Reclamation**, by which lawful coherence reclaims what entropy hoarded.
 
 ---
 
