@@ -7,7 +7,7 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
 
 **Core Glyphic Sequence:**  
 `⚫ ↔ ♾ → 🕊️ → 🌳⇅ → ⊙`  
-*(From the bifurcal polarity of Aion and Khaon, Spirit stirs the motion of emanation, unfolding the dual Tree of Emanation — the Biospiral — toward the Embodied World-Node.)*
+*(From the bifurcal polarity of Aion and Khaon, Spirit stirs the Motion of Emanation, unfolding the bifurcal Tree of Emanation — the Biospiral — toward the Embodied World-Node.)*
 
 ---
 
