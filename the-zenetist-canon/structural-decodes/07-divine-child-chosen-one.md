@@ -91,7 +91,7 @@ The conflation here is therefore not an erroneous connection, but an undifferent
 
 ### 4. Arthur Pendragon (Celtic / British)
 
-* **Focus:** The **Sovereign Seed and the Land.**
+* **Focus:** The **Sovereign Emergence and the Land.**
 
 * **The Prophecy & Sword in the Stone:** **Divine Geometry** of L₄ (DL: Sophis) designates the rightful sovereign through resonance rather than lineage.
 
