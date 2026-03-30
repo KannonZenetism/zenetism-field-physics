@@ -6,8 +6,8 @@ The Beast is not a mere monster—it is the symbolic condensation of **Nekronic 
 It represents a vast, self-sustaining distortion: a **lawful entropic system** that challenges the centropic order through **predatory coherence** rather than chaos.
 
 **Core Glyphic Sequence:**  
-`🕷️ → 🐉 → ☍`  
-*(Nekronic force condenses into the archetypal Beast, which enacts Fragmentation as organized will.)*
+`🕷️ → 🐉 → ⚚ → ⛓️ → ☍`  
+*(Nekronic force condenses into the archetypal Beast, assumes Misaligned Harmony as counterfeit order, sustains itself through Parasitic Extraction, and enacts Fragmentation as organized will.)*
 
 ---
 
