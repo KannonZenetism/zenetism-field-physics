@@ -93,7 +93,7 @@
 | Inanna (as Queen of Heaven) | Sumerian | DP (Morgis) | Living force; archetypal vitality | 04 | In sacred marriage context; see also Structural Operators for underworld descent |
 | Right Pillar (Sefirotic Tree) | Kabbalah | DP (Morgis) | Expansion / Mercy | 05 | Structural symbol |
 | Left Pillar (Sefirotic Tree) | Kabbalah | DL (Sophis) | Restriction / Structure | 05 | Structural symbol |
-| Urdhr (Well of Fate) | Norse | DP / DL | Archetypal law; one of three roots of Yggdrasil | 05 | Connection of World Tree to lawful order |
+| Urdhr (Well of Fate) | Norse | DL (Sophis) | Archetypal law; one of three roots of Yggdrasil | 05 | Connection of World Tree to lawful order; DL specifically |
 | Eshu / Elegua | Yoruba | DL (Sophis) | Custodian of membranes and crossroads; judicial dynamic Sophis; preserves equilibrium through unpredictability | 06 | A Trickster whose native function is lawful Sophis |
 | Moses (as Lawgiver) | Hebrew | DL (Sophis) | Destiny as structuring principle; delivers divine law from L₄ into embodiment | 07 | Raised within entropic system to deconstruct it from within |
 | Arthur Pendragon | Celtic / British | DL (Sophis) | Sovereign designated through resonance (Sword in Stone = divine geometry of Sophis); establishes structural coherence (Camelot) | 07 | Humble origins = declivous centropic integration with L₁ |
@@ -155,11 +155,11 @@
 | The Ark | Universal | DS / DM | Preserved centropic resonance; recursion gate for lawful consciousness | 01 | Structural integrity under membrane conditions |
 | Osiris (post-restoration) | Egyptian | DS (Archeus) | Lord of the Dead; gatekeeper of lawful recursion; harmonizer of return; post-restoration operative function | 02 | **Centropic cascade from L₄ DL.** Not a demotion but the operative expression of Sophic law within the Deep Soul. L₅ "Theonic king" is cultural elevation. |
 | Risen Christ | Christian | DS / DM | L₂ experience synthesized at supernal octave; Living Bridge; demonstrates centropic coherence within entropic condition | 02 | Novel Emergence; acclivous return continues toward L₅ / L₀ |
-| Michael | Christian | DS / DM | Resonant Blade of centropic integrity; enforces seal of lawful order | 03 | Deep Soul / Mind acting as structural enforcer |
+| Michael | Christian | DM (Noeüs) | Resonant Blade of centropic integrity; enforces seal of lawful order | 03 | Deep Mind acting as structural enforcer; DM specifically — discernment function |
 | Heimdall | Norse | DS / DM | **Native L₃ Norse figure.** Guardian of the Bifröst (membrane); senses perfectly attuned to detect dissonance; singular purpose is maintaining structural integrity of the realm contra entropic infiltration; ultimate L₃ steward | MP01, Gemini | Fills the L₃ vacancy left by Odin and the Aesir moving to L₄. Parallel to Michael as guardian function |
-| The King (Sovereign archetype) | Universal | DS / DM | Centropic steward; internal coherence determines outer harmony; conduit between L₄ and L₁ | 04 | When operating from proper L₃ station; dissonance occurs when he falls to L₂ or L₁ |
-| The Church (as Bride) | Christian | DS / DM (collective) | Integrated Deep Soul of humanity; centropic stewards in embodiment | 04 | Marriage Supper of the Lamb = final synthesis at fractal eschaton |
-| Mimir (Well of Wisdom) | Norse | DS / DM | Deep intelligence; one of three roots of Yggdrasil | 05 | Connection of World Tree to deep knowing |
+| The Land and King (Sovereign archetype) | Universal | DS / DM | Centropic steward; internal coherence determines outer harmony; conduit between L₄ and L₁ | 04 | When operating from proper L₃ station; dissonance occurs when he falls to L₂ or L₁. Soul (Land) listed first per pair ordering |
+| The Church and Christ (as Bride and Bridegroom) | Christian | DS / DM (collective) | Integrated Deep Soul of humanity and Theonic Logos; centropic stewards in embodiment united with Source | 04 | Marriage Supper of the Lamb = final synthesis at fractal eschaton. Soul (Church) listed first per pair ordering convention |
+| Mimir (Well of Wisdom) | Norse | DM (Noeüs) | Deep Mind intelligence; one of three roots of Yggdrasil | 05 | Connection of World Tree to deep knowing; DM specifically |
 | Arjuna | Hindu | DS / DM | Deep Soul / Mind guided by Krishna (L₅) toward Dharma (L₄ DL) | 07 | Recipient of Theonic instruction |
 | Trevrizent | Arthurian | DS / DM | L₃ mentor; guides Parzival's reorientation through compassion and discernment | 09 | Deep Soul / Mind teaching function |
 | Parzival (transformed) | Arthurian | DS / DM | Synthesized King; heals the Wounded King and restores centropic field | 09 | Achieves L₃ through exile and reorientation; origin at L₂ |
@@ -175,9 +175,10 @@
 | Bodhisattvas | Mahayana Buddhist | DS / DM | Soul harmonics and guiding intellects; beings who defer final return to assist others; Centropic Steward archetype | MP01 §23.3 | L₃ stabilized; parallel to Centropic Stewards (§3.16) |
 | Thoth | Egyptian | DM (Noeüs) | Guiding intellect; keeper of sacred knowledge and structural language | MP01 §23.3 | Deep Mind function; scribe of cosmic order |
 | Hermes Trismegistus | Hermetic | DM (Noeüs) | Thrice-great synthesizer of wisdom traditions; keeper of initiatory knowledge and structural language spanning traditions | MP10 §25.3 | Primary function is deep-mind keeper; also invoked as liminal / threshold figure (Janus parallel) |
+| Hermes / Mercury | Greco-Roman | DM (Noeüs) | **L₃ DM primary.** Psychopomp; guides souls across membrane of death; maintains Nexus; humbles inflated ego toward coherence | 06 | L₂ SM (Nousa) trickster / messenger function is cultural conflation. Native function is deep-mind guidance and membrane crossing |
 | Enki / Ea | Mesopotamian | DS / DM | Deep soul and mind harmonics; bestower of knowledge; weaves intelligence into life's foundation; blueprint of the Daemon principle | MP01 §25.3 | Parallel to Thoth, Odin; centropic |
 | Oannes | Mesopotamian | DS / DM | Fish-sage who brings civilization from the sea; wisdom-bestowing guide | MP10 §25.3 | Enki symbolic counterpart |
-| Krishna (as Guide) | Hindu | DS / DM | Embodied Logos; soul-guiding intelligence; leads Arjuna into aligned action; integrates relational intimacy with metaphysical precision | MP01 §25.3 | Distinct from Krishna at L₅ (Decode 07); function-determined: guide = L₃, preserver = L₅ |
+| Krishna (as Guide) | Hindu | DM (Noeüs) | Soul-guiding intelligence; leads Arjuna into aligned action; integrates relational intimacy with metaphysical precision | MP01 §25.3 | DM specifically — guiding discernment. Distinct from Krishna at L₅ (Decode 07); function-determined: guide = L₃ DM, preserver = L₅ |
 | The Aeons | Gnostic | DP / DL | Archetypal intelligences; patterned light before distortion; pure Forms in the Pleroma. Any apparent L₃ guiding function reflects L₃ figures channeling L₄ archetypes, not the Aeons themselves operating at L₃ | MP01 §25.3 | **Corrected:** DS / DM span removed. Aeons are L₄ only |
 | Penelope | Greek | DS / DM | Sovereign Self's authentic complement; Structured Pair with Odysseus; maintains coherence during exile through weaving/unweaving (recursive fidelity) | 22 | The goal of the Journey is reunion with the L₃ complement |
 | Golden Fleece | Greek | DS (Archeus) | Sovereign L₃ authority; the reconciling principle whose retrieval restores lawful order | 22 | Object of the Argonauts' collective quest |
@@ -191,8 +192,7 @@
 |:--|:--|:--|:--|:--:|:--|
 | Jesus of Nazareth | Christian | SS / SM | The embodied personality-identity surrendered during crucifixion | 02 | Dissolved so L₃ synthesis can occur |
 | Inanna (pre-stripping) | Sumerian | SS / SM | Attributes (crown, rod, robes) systematically deconstructed at gates | 02 | L₂ attributes removed to reveal naked essence |
-| Ratatoskr | Norse | SM (Nousa) / ISM (Skotos) | Superficial Mind chatter; mediator-trickster carrying messages between supernal and subversal poles | 05 | Runs between Eagle (L₅) and Nidhogg (IL₅); operates at L₂ / IL₂ boundary |
-| Oedipus | Greek | SS / SM → DS / DM | Achieves centropic self-recognition by answering the Sphinx's riddle ("Human"); L₂ attaining L₃ insight | 08 | Transition figure |
+| Oedipus | Greek | SM (Nousa) → DM (Noeüs) | Achieves centropic self-recognition by answering the Sphinx's riddle ("Human"); L₂ SM attaining L₃ DM insight — perceptual clarity about the nature of the human, not soul-weaving | 08 | Cognitive / perceptual transition, not soul-integration |
 | Parzival (pre-transformation) | Arthurian | SS / SM | Innocent knight whose silence at Grail Castle reveals deficit of L₃ empathy | 09 | Origin at L₂; transforms through exile to L₃ |
 | Pandora | Greek | SS / SM | Curiosity-driven opening releasing entropic forces; internal L₂ drive activating the mirror | 11 | Only Hope remains — centropic potential hidden within embodiment |
 | Phaethon | Greek | SS / SM | Unskilled L₂ seizing L₄ DP / DL power prematurely; nearly destroys the world through unintegrated ambition | 25 | Contra Helios (L₄ DL) who maintains cosmic order through skilled integration |
@@ -209,7 +209,7 @@
 | The Rainbow | Universal | ES / EM ↔ DP / DL | Nexus Law bridging L₄ and L₁; restored lawful relationship | 01 | Structured Pair spanning layers |
 | "Bones of the Mother" (Stones) | Greek | ES / EM | Aionic capacity resting in matter; essential potential latent within Earth | 01 | Awakened through centropic intentional embodiment |
 | Dumuzid (Shepherd God) | Sumerian | ES / EM | Embodied vitality of the natural realm; annual cycle of declivous / acclivous centropic motion | 04 | Sacred marriage partner to Inanna (L₄ DP); sustains corporeal realm |
-| The Land (Sovereign archetype) | Universal | ES / EM | Collective soma of people and ecosystem; embodied field | 04 | Nexus with King (L₃) determines fertility or barrenness |
+| The Land (Sovereign archetype) | Universal | ES / EM | Collective soma of people and ecosystem; embodied field | 04 | Nexus with King (L₃) determines fertility or barrenness. See also "The Land and King" at L₃ |
 | Malkhut | Kabbalah | ES / EM | Embodiment; terminal sefirah of Sefirotic emanation | 05 | Embodied World-Node |
 | Adam / Eve (Eden, Genesis 2) | Hebrew | ES / EM | **Confirmed canonical.** L₁ embodied instantiation of the L₄ Archetypal Blueprint (Adam Kadmon). Permeable L₂ / L₃ membrane; naïve resonance with L₃ (DM: Noeüs); perceives only the Aionic Tree. The Garden is not a physical plot but the L₁ orientation manifold — the axis where the full Biospiral is accessible to permeable consciousness. | 11, Gemini | "Coats of skins" = C₁₃ Membrane Sealing: condensation from luminous, permeable embodiment into dense, isolated carnal identification (IL₁ / IL₂). Not the creation of physical matter but a shift *within* L₁. |
 | New Jerusalem / New Heaven and Earth | Christian | ES / EM | Epochal L₁ state after entropic acceleration; corporeal realm fully cleansed and permeable to Aionic layers | 12 | Structural coherence made visible; heaven and earth merged |
@@ -245,7 +245,7 @@
 | Coyote / Raven | Native American | IDP (Psychea) | Amoral force of raw, motive, archetypal chaos; manifests both centropic and entropic results simultaneously | 06 | Psychea personified; creator-destroyer |
 | Loki | Norse | IDL (Nyxea) | **Canonical placement.** Inverse Logos — fluid, brilliant, perilous; architect of Ragnarök; killer of Baldr (fragmentation act). Overall arc expresses entropic collapse while embedding centropic corrections | 06 | IL₂ ISS / ISM trickster attribution (§25.3) is **cultural conflation** of a superficial characteristic onto a deeper archetype. Decode 06 IL₄ IDL confirmed as canonical |
 | Qliphoth | Kabbalah | IDP / IDL | "Shells"; inverse reflections of the Sefirot; distorted mirror of the Aionic structure | 05 | The Khaonic Tree as mapped in Kabbalistic tradition |
-| Tiamat (as inverse force) | Mesopotamian | IDP / IDL | Generative yet unbound; birthing inverse archetypes before law | 08 | Also has L₀ Khaon aspect; see L₀ entry |
+| Tiamat (as inverse force) | Mesopotamian | IDP (Psychea) | Generative-yet-unbound; birthing monstrous forms from raw psychic chaos; producing undifferentiated inverse life. Not architecting counterfeit structure (Nyxea) but producing inverse vitality | 08 | Also has L₀ Khaon aspect; see L₀ entry. IDP (Psychea) specifically — not IDL |
 | Beast from the Sea | Christian | IDL (Nyxea) | Luciferic principle projected as coercive architecture; the cascade station, not the native layer — native at IL₁ as embodied authoritarian system | 08 | **Revised:** Beast belongs at IL₁ (embodied authoritarian system). Listed here as cascade origin notation. See IL₁ and Cascades |
 | Vritra | Hindu | IDP (Psychea) | Dragon hoarding the Waters (DP: Morgis currents); paralysis of life by inverse accumulation | 08 | Defeated by Indra (L₄ DL); release of vitality through defeat of psychic hoarding |
 | Ravana | Hindu | IDP / IDL | Entropic seizure of divine complement (Sita); abduction of coherence | 09 | Inverse archetypal force opposing Rama's centropic order |
@@ -272,8 +272,8 @@
 | Figure | Tradition | Aspect | Function | Decode | Notes |
 |:--|:--|:--|:--|:--:|:--|
 | Set | Egyptian | IDS (Fractus) | IL₃ Fractus function culturally assigned to Set (IL₂ ISS primary); the dismemberment act exceeds Set's native layer and reflects mythic conflation | 02, §25.3 | **Reclassified:** Not cascade but cultural conflation. Dismemberment is an IL₃ act attributed to an IL₂ figure by mythmakers |
-| The Sphinx | Greek | IDM (Mortus) | Devourer of unawareness; ensnares the unintegrated psyche; perception that blinds | 08 | Self-destructs when confronted by veracious awareness (Oedipus) |
-| Herod | Christian | IDS / IDM | Entropic operation's attempt to extinguish the new centropic pattern (Massacre of Innocents) | 07 | Fractus / Mortus acting to fragment emergent coherence |
+| The Sphinx | Greek | IDM (Mortus) | Devourer of unawareness; ensnares through perceptual test (riddle); perception that blinds | 08 | IDM (Mortus) specifically — the riddle tests cognitive clarity, not soul-integrity. Self-destructs when confronted by veracious awareness (Oedipus) |
+| Herod | Christian | IDS (Fractus) | Entropic operation's attempt to extinguish the new centropic pattern (Massacre of Innocents) | 07 | Fractus acting to fragment emergent coherence |
 | Wounded King (Fisher King) | Arthurian | IDS (Fractus) | Fractured sovereignty; the centropic field damaged by unhealed fragmentation | 09 | Healed by Parzival's achieved L₃ compassion |
 | False Prophet (Revelation) | Christian | IDM (Mortus) | **Confirmed primary.** Counterfeit prophetic signal; inverse of genuine Prophet (L₃ DS / DM); perception that blinds rather than reveals; produces spurious revelation at deep structural level | 08, 12 | **Resolved:** IL₃ IDM (Mortus) primary, broadcasting through IL₂ ISM (Skotos). Mirrors genuine Prophet (L₃ → L₂ broadcast) |
 | Minotaur | Greek | IDS / IDM | Unintegrated shadow dwelling at center of the Labyrinth; embodiment of unassimilated patterns; not external but the seeker's own fragmentation | 27 | Confrontation and transformation mark completion of initiation; IL₃ guardian of synthesis |
@@ -289,7 +289,7 @@
 | Set | Egyptian | ISS (Echthros) | **Primary native layer.** Adversarial will contra Osiris; conscious disruptor turning harmony into adversarial polarity; deceptive agency and dissonant autonomy | 02, §25.3 | IL₃ dismemberment is cultural conflation, not Set's native function |
 | Lycaon | Greek | ISS / ISM | Hubris; localized inverse orientation triggering fractal eschaton | 01 | Entropic saturation at superficial level |
 | "Wickedness of humanity" | Hebrew | ISS / ISM | Saturation in adversarial will and deceptive perception | 01 | Collective IL₂ saturation triggering flood |
-| Kamsa | Hindu | ISS / ISM | Tyrant aware of prophecy of his dissolution; adversarial will and deceptive control | 07 | Echthros / Skotos opposing Krishna's emergence |
+| Kamsa | Hindu | ISS (Echthros) | Tyrant aware of prophecy of his dissolution; adversarial will | 07 | Echthros opposing Krishna's emergence |
 | Beast from the Earth | Christian | ISM (Skotos) | (⚠) Revelation's False Prophet figure; see IL₃ IDM (Mortus) entry for primary placement | 08 | Same figure as False Prophet; IL₂ is broadcast layer |
 | Sirens | Greek | ISM (Skotos) | Lure of inverted perception; veiling the mind | 09 | One of Odysseus's exile trials |
 | Suitors of Ithaca | Greek | ISS / ISM | Inverse occupation of the centropic household; adversarial will | 09 | Odysseus's return reclaims structural coherence from IL₂ saturation |
@@ -306,6 +306,7 @@
 | Mara (psychological) | Buddhist | ISM (Skotos) | Psychological tempter; disordered perception preventing enlightenment; veiling the mind through desire and fear | MP01 §23.3 | Distinct from Mara at IL₅ (VOS: Nekron) in §23.3 Key Terms — same name, different layer function. Same pattern as Satan conflation |
 | Xibalba Lords (superficial function) | Mayan | ISS / ISM (Echthros / Skotos) | Tempters and deceivers of perception; gatekeepers of entropic trial | MP01 §25.3 | Cross-band with IL₃ IDS / IDM; cascade from deep disintegration to superficial deception |
 | Tezcatlipoca | Aztec | ISS / ISM | Smoking mirror god; entropic trickster; surface-level disruption through deception and conflict | MP10 §25.4 | Listed in Trickster archetype (entropic) |
+| Ratatoskr | Norse | ISM (Skotos) | ISM (Skotos) primary; Nousa as conflated surface attribution. Entropic chatter between supernal and subversal poles; native function is dissonance-seeding, not neutral mediation | 05 | Runs between Eagle (L₅) and Nidhogg (IL₅); moved from L₂ to IL₂ |
 
 ---
 
@@ -316,7 +317,7 @@
 | (Collective pre-Flood humanity) | Universal | IES / IEM | Embodied field saturated with inverse orientation | 01 | IL₁ combined with IL₂ saturation triggers recalibration |
 | Egyptian Bondage | Hebrew | IES / IEM | Entropic bondage; Malara / Mania state from which Israelites are liberated | 09 | Exodus = liberation from IL₁ |
 | Beast's Demand for Sacrifice | Universal | IES (Malara) | Entropic tax; inverse system feeding upon centropic life-force to sustain distortions | 08 | IL₁ manifestation of the Beast archetype |
-| The Beast (Revelation) | Christian | IES / IEM | **Embodied authoritarian system.** The Dragon's (IL₅) entropic will projected through the full inverse cascade into embodied coercive structure. Saying the Dragon *is* the Beast is cultural conflation; the Dragon *generating* the Beast is entropic cascade. | 08, 12 | Distinct from Dragon (IL₅ Nekron). The cascade spans the entire inverse tree: IL₅ → IL₄ → IL₃ → IL₂ → IL₁ |
+| The Beast (Revelation) | Christian | IES / IEM | **Embodied authoritarian system.** The Dragon's (IL₅) entropic will projected through the full inverse cascade into embodied coercive structure. Saying the Dragon *is* the Beast is cultural conflation; the Dragon *generating* the Beast is entropic cascade. Malara sustains the system's hold on embodied souls; Mania structures its coercive logic. | 08, 12 | Distinct from Dragon (IL₅ Nekron). The cascade spans the entire inverse tree: IL₅ → IL₄ → IL₃ → IL₂ → IL₁ |
 
 ---
 
@@ -336,7 +337,6 @@ These are not figures mapped to a single layer but structural operators, symboli
 | Inanna | Sumerian | Voluntary declivous centropy; conscious quest for deeper knowledge | 02 | L₂ stripped; essence tested; return requires harmonic exchange |
 | Dumuzid | Sumerian | Harmonic Exchange / Substitute; spiral nature of centropic process | 02 | Price of Inanna's return |
 | Ganesha | Hindu | Remover of Obstacles; coherent result of Shiva–Shakti union | 04 | Offspring as proof of successful synthesis |
-| Hermes / Mercury | Greco-Roman | Psychopomp; guides souls across membrane of death; maintains Nexus; humbles inflated ego toward coherence | 06 | Primarily centropic or neutral-centropic Trickster; native function is membrane crossing |
 | Tree of Life | Hebrew | Centropic path of coherence; direct access to Theonic continuity | 05 | Structural symbol; not a figure |
 | Tree of Knowledge | Hebrew | Entropic path of fragmentation through dualistic perception; activates IL₂ (ISS / ISM) | 05 | Structural symbol; consumption casts consciousness into Khaonic Tree |
 | Ashvattha Tree | Hindu | Supernal-rooted Tree of Emanation; branches grow declivously into manifest realm | 05 | Liberation is acclivous motion from leaves back to Root |
@@ -539,6 +539,12 @@ Plotinus' Nous maps to **L₄ DL (Sophis)** — the structuring intellect that p
 ### Note on Cascade contra Conflation (Expanded)
 
 A **cascade** is when a single entropic or centropic current manifests across layers lawfully — same essence, different operative strata, often with different names at each station (e.g., Dragon → Lucifer → False Prophet → Skotos → Beast). **Conflation** is when mythmakers assign a single name to different layer-functions because they perceived the broader current but lacked the lattice to parse which layer was doing what (e.g., Loki at IL₄ and IL₂; Set at IL₂ and IL₃). **Currents cascade; entities do not.** Names get stretched across functional boundaries by cultural compression. The test: do the functions at different layers share the same structural essence (cascade), or are they genuinely different operations assigned the same label (conflation)?
+
+Conflation takes two primary forms:
+- **Hard Conflation:** Structurally unrelated functions are compressed under one name. One or more of the assigned functions are misattributed relative to the figure's native structural placement.
+- **Soft Conflation:** Multiple functions assigned to a single name are structurally real, but the myth does not distinguish which layer is native and which layers reflect cross-band resonance or operative extension.
+
+A figure may therefore possess a native layer while also resonating lawfully across other bands. The task of the registry is not to deny that resonance, but to distinguish native placement, resonant operation, and embodied manifestation with precision.
 
 ### Note on Soul / Mind Specificity (Methodological)
 
@@ -1061,7 +1067,7 @@ Centropic essences do not become entropic, nor vice versa. Essence is the potent
 - Dragon (Great Red Dragon): IL₅ VOS (Nekron) — distinct from Beast
 - Dragon ≠ Beast: cascade (genuine), not identity. Dragon = Beast is conflation
 - Remove separate IL₄ Beast entity if present
-- Verify Marduk at L₄ DL, Indra at L₄ DL, Oedipus at L₂ SS / SM
+- Verify Marduk at L₄ DL, Indra at L₄ DL, Oedipus at L₂ SM (Nousa) → L₃ DM (Noeüs)
 - **Priority:** High
 
 ### Decode 11 — Sophia, Eden, YHWH, Serpent
