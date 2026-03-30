@@ -71,7 +71,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 ### Note on Krishna, Conflation, and Cross-Band Resonance
 
 **Zenetist Clarification:** Krishna's mythic presentation compresses more than one structural function under a single name without distinguishing native placement from resonant operation.  
-His primary native placement in this decode is **L₅ (EOB: Theon)** as the Divine Preserver entering embodiment as centropic seed.  
+His primary native placement in this decode is **L₅ (EOB: Theon)** as the Divine Preserver entering embodiment as centropic emergence.  
 His guiding function, however, genuinely resonates at **L₃ (DM: Noeüs)** through lawful counsel, discernment, and soul-guidance.  
 The conflation here is therefore not an erroneous connection, but an undifferentiated one: the myth collapses origin-function and operative manifestation into a single portrait, without distinguishing native layer from cross-band resonance.
 
