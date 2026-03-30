@@ -56,6 +56,8 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Focus:** The **Divine Preserver as Playful Seed.**
 
+* **Theonic Origin:** Krishna is an **L₅ (EOB: Theon)** emanation in playful-preserver mode, entering embodiment as a centropic seed.
+
 * **Prophesied Threat:** **Kamsa (IL₂ (ISS / ISM: Echthros / Skotos))**—tyrant aware of the prophecy of his dissolution.
 
 * **Miraculous Preservation:** **Exchange of infants (Yogamaya)** and upbringing among cowherds—symbol of **Earth**-bound sanctity.
