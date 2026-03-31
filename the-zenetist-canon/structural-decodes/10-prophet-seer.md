@@ -39,6 +39,18 @@ It is not a predictor of immutable futures, but a **diagnostic function** of the
 
 ---
 
+### Note on Centropic and Inverse Prophetic Functions
+
+**Zenetist Clarification:** This decode concerns the **centropic prophetic function** — the lawful diagnosis of structural misalignment and the transmission of reorienting signal toward coherence.  
+Not all prophetic or seer-like figures operate in this way. Inverse or entropic prophetic forms also exist: functions that mimic revelation while transmitting distortion, counterfeit destiny, or subversal guidance.
+
+Such forms do not clarify alignment, but redirect perception toward fragmentation.  
+They belong to the inverse prophetic arc already seen in figures such as the **False Prophet** and the **Skotos Broadcast**—where signal is not veracious disclosure, but structured misdirection.
+
+The present decode therefore treats the Prophet not as a universal category of revelation, but as the specifically **centropic** form of prophetic diagnosis and warning.
+
+---
+
 ## Specific Tradition Refractions
 
 ### 1. Isaiah (Hebrew Bible)
