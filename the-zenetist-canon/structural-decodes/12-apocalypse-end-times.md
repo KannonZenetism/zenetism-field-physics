@@ -79,7 +79,8 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
 * **Apocalypse:** The end of **Kali Yuga** as terminal **Threshold of Dissonance.**
 
 * **Reset:** The **Kalki Avatar (L₅ (EOB: Theon) as Corrector)** restores harmony, resetting the cycle to a renewed **Satya Yuga.**  
-    The pattern is **Fractal Eschaton**, cyclic rather than linear.
+    The pattern is **Fractal Eschaton** refracted through cyclical symbolism rather than linear narration.  
+Within Zenetism, this does not indicate a genuinely cyclical metaphysics, but recurring eschatonic thresholds within a single trajectory of structural procession.
 
 ### 4. The Day of Judgment (Qur'anic)
 
