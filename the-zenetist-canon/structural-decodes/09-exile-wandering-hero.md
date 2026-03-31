@@ -44,7 +44,7 @@ This prepares the consciousness for a future **Synthesis** or **Return.**
 
 * **Focus:** Master of adaptation and the long return.
 
-* **Cause:** The Trojan War (massive Centropic/Entropic conflict) and **Poseidon's** opposition (L₄ (DP: Morgis)).
+* **Cause:** The Trojan War (massive Centropic/Entropic conflict) and **Poseidon's** opposition (**L₄ (DP: Morgis)** layer).
 
 * **Wandering:** A spiral of trials—**Cyclops (Primitive Entropy), Circe (IL₄ (IDP: Psychea) distortion), Sirens (IL₂ (ISM: Skotos) lure)**—each deconstructing his identity.
 
