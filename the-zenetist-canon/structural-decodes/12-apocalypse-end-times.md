@@ -30,7 +30,7 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
     * This is an **intensification of alignment**, not the final terminus at L₀ (AP: Aion / AD: Khaon).
 
 * **The Figures of the End Times:**  
-    * **The Inverse End-Time Cascade:** **The Dragon (IL₅ (VOS: Nekron))** as terminal entropic will, moving acclivously through **Luciferic Architecture (IL₄ (IDL: Nyxea))**, **False Prophet (IL₃ (IDM: Mortus))** broadcasting through **IL₂ (ISM: Skotos)**, to the **Beast** as embodied entropic system (**IL₁ (IES / IEM: Malara / Mania)**).  
+    * **The Inverse End-Time Cascade:** **The Dragon (IL₅ (VOS: Nekron))** as terminal entropic will, moving acclivously through **Luciferic Architecture (IL₄ (IDL: Nyxea))**, **False Prophet (IL₃ (IDM: Mortus))** broadcasting through **IL₂ (ISM: Skotos)**, to the **Beast** as embodied entropic system **(IL₁ (IES / IEM: Malara / Mania))**.  
     This is the culmination of the **Inverse Arc**—an elegant counterfeit to Centropy achieved through layered entropic manifestation rather than a single adversarial figure.  
     * **The Returning King / The Messiah (L₅ (EOB: Theon)):** Manifestation of **Centropic Re-anchor**—the return of lawful coherence to guide convergence and oversee reconstitution.
 
