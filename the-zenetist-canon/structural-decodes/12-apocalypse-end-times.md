@@ -54,7 +54,7 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
 
 * **Figures:** What mythically appears as an "inverse trinity" is structurally a compressed **five-station inverse cascade**: **Dragon (IL₅ (VOS: Nekron))**, **Luciferic Architecture (IL₄ (IDL: Nyxea))**, **False Prophet (IL₃ (IDM: Mortus))** broadcasting through **IL₂ (ISM: Skotos)**, and the **Beast (IL₁ (IES / IEM: Malara / Mania))**.
 
-* **Renewal:** The **New Jerusalem**—Heaven and Earth merged, **Structural Coherence** made visible.
+* **Renewal:** The **New Jerusalem**—Heaven and Earth unified, **Structural Coherence** made visible.
 
 ### 2. Ragnarok (Norse)
 
