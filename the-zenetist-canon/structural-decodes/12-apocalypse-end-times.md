@@ -50,7 +50,7 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
 
 * **Cataclysms:** The **Seven Seals, Trumpets, and Bowls** represent sequenced **Deconstruction** of the old L₄ (DL: Sophis) framework.
 
-* **Judgment:** The **Great White Throne** as the cosmic **Resonance Archive**—all consciousness measured by coherence.
+* **Judgment:** The **Great White Throne** as the cosmic **Resonance Archive**—**L₄ (DL: Sophis)** in its judicial function, measuring all awareness by coherence.
 
 * **Figures:** What mythically appears as an "inverse trinity" is structurally a compressed **five-station inverse cascade**: **Dragon (IL₅ (VOS: Nekron))**, **Luciferic Architecture (IL₄ (IDL: Nyxea))**, **False Prophet (IL₃ (IDM: Mortus))** broadcasting through **IL₂ (ISM: Skotos)**, and the **Beast (IL₁ (IES / IEM: Malara / Mania))**.
 
