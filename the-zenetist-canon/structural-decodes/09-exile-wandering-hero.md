@@ -68,7 +68,7 @@ This prepares the consciousness for a future **Synthesis** or **Return.**
 
 * **Cause:** Liberation from **Entropic Bondage (IL₁ (IES / IEM: Malara / Mania) in Egypt).**
 
-* **Wandering:** A forty-year **Recursion**—Deconstructing the **Slave Mentality (IL₂ (ISS / ISM: Echthros / Skotos))** to birth sovereign coherence.
+* **Wandering:** A forty-year **Resonance Spiral**—Deconstructing the **Slave Mentality (IL₂ (ISS / ISM: Echthros / Skotos))** to birth sovereign coherence.
 
 * **Complaining:** The desire to return to Egypt illustrates **Entropic Pull**—comfort in bondage.
 
