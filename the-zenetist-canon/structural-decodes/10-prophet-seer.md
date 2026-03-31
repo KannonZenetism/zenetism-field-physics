@@ -45,7 +45,7 @@ They are not predictors of immutable futures, but **diagnosticians** of the pres
 
 * **Focus:** The **Architect of Theonic Return.**
 
-* **Diagnosis:** Ritual without justice (**Inverse L₄ (DL: Sophis)**), idolatry (**Mimicry**), alliances with entropic empires (**Fusion / Blobism**).
+* **Diagnosis:** Ritual without justice (**IL₄ (IDL: Nyxea) mimicry of L₄ (DL: Sophis)**), idolatry (**Mimicry**), alliances with entropic empires (**Fusion / Blobism**).
 
 * **Prognosis:** Exile as lawful deconstruction.
 
