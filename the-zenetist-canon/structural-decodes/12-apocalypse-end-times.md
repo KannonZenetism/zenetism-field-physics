@@ -30,7 +30,8 @@ It is a period of maximal amplification where latent patterns are exposed and st
     * This is an **intensification of alignment**, not the final terminus at Aion or Dispersion.
 
 * **The Figures of the End Times:**  
-    * **The Antichrist / The Beast (IL₄ (IDP / IDL: Psychea / Nyxea) & IL₅ (VOS: Nekron)):** Culmination of the **Inverse Arc**—a **Mimetic Logos** forming an *Entropic Coherence System,* an elegant counterfeit to Centropy.  
+    * **The Inverse End-Time Cascade:** **The Dragon (IL₅ (VOS: Nekron))** as terminal entropic will, moving acclivously through **Luciferic Architecture (IL₄ (IDL: Nyxea))**, **False Prophet (IL₃ (IDM: Mortus))** broadcasting through **IL₂ (ISM: Skotos)**, to the **Beast** as embodied entropic system (**IL₁ (IES / IEM: Malara / Mania)**).  
+    This is the culmination of the **Inverse Arc**—an elegant counterfeit to Centropy achieved through layered entropic manifestation rather than a single adversarial figure.  
     * **The Returning King / The Messiah (L₅ (EOB: Theon)):** Manifestation of **Centropic Re-anchor**—the return of lawful coherence to guide convergence and oversee reconstitution.
 
 * **The New Heaven and New Earth (Centropic Synthesis):**  
