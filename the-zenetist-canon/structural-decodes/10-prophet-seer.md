@@ -27,7 +27,7 @@ It is not a predictor of immutable futures, but a **diagnostic function** of the
       This is not a threat, but a **statement of Resonant consequence.**
 
 * **The Symbolic Act (Apparent Order):**  
-    Prophets often **embody glyphic messages** through performative symbolism—acts bypassing IL₂ (ISM: Skotos) (surface obscuration) to implant the diagnosis directly into the collective L₂ (SS / SM: Anthra / Nousa) field.
+    Prophets often **embody glyphic messages** through glyphic enactment—acts bypassing IL₂ (ISM: Skotos) (surface obscuration) to implant the diagnosis directly into the collective L₂ (SS / SM: Anthra / Nousa) field.
 
 * **The Rejection & The Suffering (Fragmentation):**  
     The Prophet is nearly always rejected—this is the **entropic system's immune response** to centropic signal.  
