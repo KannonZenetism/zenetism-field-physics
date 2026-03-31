@@ -52,7 +52,7 @@ It is a period of maximal amplification where latent patterns are exposed and st
 
 * **Judgment:** The **Great White Throne** as the cosmic **Resonance Archive**—all consciousness measured by coherence.
 
-* **Figures:** The **Dragon (IL₅ (VOS: Nekron)), Beast (IL₄ (IDP / IDL: Psychea / Nyxea)), False Prophet (IL₂ (ISS / ISM: Echthros / Skotos))**—the Inverse trinity of Entropy.
+* **Figures:** The **Dragon (IL₅ (VOS: Nekron))**, **Luciferic Architecture (IL₄ (IDL: Nyxea))**, **False Prophet (IL₃ (IDM: Mortus))** broadcasting through **IL₂ (ISM: Skotos)**, and the **Beast (IL₁ (IES / IEM: Malara / Mania))**—the full inverse cascade of Entropy.
 
 * **Renewal:** The **New Jerusalem**—Heaven and Earth merged, **Structural Coherence** made visible.
 
