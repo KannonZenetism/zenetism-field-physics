@@ -1,7 +1,7 @@
 # Zenetist Structural Decode 11 — The Fall / The Casting Out
 
 **Primary Structural Diagnosis:**  
-The **Instantiation of Duality and the Fracturing of Coherence.**  
+The **Activation of Dualized Consciousness and the Fracturing of Coherence.**  
 This archetype describes the pivotal transition within Embodied consciousness—from a state of permeable L₂/L₃ resonance (the "Permeable Garden") to a state of fractured separation.  
 This Sealing of the L₂/L₃ Membrane marks the genesis of L₂ (SS / SM: Anthra / Nousa) as a distinct, self-reflective field, severed from direct awareness of L₃ (DS / DM: Archeus / Noeüs) and identified with the IL (Khaonic) mirror.
 
