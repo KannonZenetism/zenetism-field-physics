@@ -58,7 +58,7 @@ This prepares the consciousness for a future **Synthesis** or **Return.**
 
 * **Wandering:** He converts wilderness into a **centropic microcosm**, gathering allies like **Hanuman (Harmonic Agent).**
 
-* **The Theft of Sita:** The **Entropic Seizure** of his divine complement by **Ravana (IL₄ (IDP / IDL: Psychea / Nyxea))** mirrors the cosmic abduction of coherence.
+* **The Theft of Sita:** The **Entropic Seizure** of his divine complement by **Ravana (IL₄ (IDP: Psychea))** mirrors the cosmic abduction of coherence.
 
 * **Return:** Triumph restores a **Golden Age (Structural Coherence)**—the centropic pattern validated through exile.
 
