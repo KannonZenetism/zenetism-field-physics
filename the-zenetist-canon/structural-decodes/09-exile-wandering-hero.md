@@ -55,7 +55,7 @@ The present decode therefore treats exile not as a universal category, but as a 
 
 * **Focus:** Master of adaptation and the long return.
 
-* **Cause:** The Trojan War (massive Centropic/Entropic conflict) and **Poseidon's** opposition (**L₄ (DP: Morgis)** layer).
+* **Cause:** The Trojan War (massive Centropic / Entropic conflict) and **Poseidon's** opposition (**L₄ (DP: Morgis)** layer).
 
 * **Wandering:** A spiral of trials—**Cyclops (Primitive Entropy), Circe (IL₄ (IDP: Psychea) distortion), Sirens (IL₂ (ISM: Skotos) lure)**—each deconstructing his identity.
 
