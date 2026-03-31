@@ -82,7 +82,7 @@ The "renewal" represents **Novel Emergence** from residual **Aionic potential**,
 
 * **Focus:** The **Gradual Entropic Drift** and **Cyclical Reset.**
 
-* **Process:** Four **Yugas** map the decline from **Satya (acclivous centropic)** to **Kali (declivous entropic)**—increasing dissonance and loss of resonance awareness.
+* **Process:** Four **Yugas** map the declivity from **Satya (acclivous centropic)** to **Kali (declivous entropic)**—increasing dissonance and loss of resonance awareness.
 
 * **Apocalypse:** The end of **Kali Yuga** as terminal **Threshold of Dissonance.**
 
