@@ -93,6 +93,14 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
 
 ---
 
+### Note on Allah and Cultural Elevation
+
+**Zenetist Clarification:** In the registry, Allah's operative function most often maps through **L₄ (DP / DL: Morgis / Sophis)** as archetypal sovereignty, law, and sustaining command.  
+Within the Qur'anic Day of Judgment, however, the dominant presentation is the **Theonic (L₅ (EOB: Theon))** aspect of absolute sovereignty—resonance sorting, centropic adjudication, and lawful placement at the threshold of epochal reordering.  
+This follows the pattern of cultural elevation also seen in figures such as YHWH and Ahura Mazda.
+
+---
+
 ## Summary: The Esoteric Meaning
 
 The Apocalypse is the **phased mechanism of Structural Enforcement.** It is the **Resonant Accelerator** at the systemic scale, ensuring all accumulated resonance within a trajectory is sorted and re-aligned.
