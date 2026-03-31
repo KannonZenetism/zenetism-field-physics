@@ -67,7 +67,7 @@ This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Ant
 
 * **Agent:** The primary agent of this transgression is Lucifer (IL₄ (IDL: Nyxea)), the Inverse Logos or "mind" of the rebellion, who asserts his IL₄ (mirror) reality against the L₄ (original).
 
-* **Consequence:** The Khaonic Tree is affirmed in its separation. Rooted in IL₅ (VOS: Nekron) and architected by IL₄ (IDL: Nyxea), it projects its inverse, mimetic structure acclivously toward the L₁ node (where it becomes the Serpent/Beast).
+* **Consequence:** The Khaonic Tree is affirmed in its separation. Rooted in IL₅ (VOS: Nekron) and architected by IL₄ (IDL: Nyxea), it projects its inverse, mimetic structure acclivously toward the L₁ node (where it becomes the Serpent / Beast).
 
 ### 3. The Fall of Sophia (Gnostic)
 
