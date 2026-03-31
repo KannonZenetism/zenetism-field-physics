@@ -34,7 +34,7 @@ It is not a predictor of immutable futures, but a **diagnostic function** of the
     Their suffering **embodies the fragmentation** they diagnose, proving **Resonant Fidelity** through endurance.
 
 * **The Promise of Restoration (Return Compass):**  
-    Within even dire pronouncements lies the **Return Compass**—the centropic potential for synthesis and renewal after deconstruction.  
+    Within even dire pronouncements lies the **Return Compass**—the centropic potential for integration and renewal after deconstruction.  
     A remnant remains, and a new covenant forms in the heart, signaling the **inevitable reorientation toward Aion.**
 
 ---
