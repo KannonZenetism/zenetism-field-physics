@@ -100,7 +100,7 @@ Within Zenetism, this does not indicate a genuinely cyclical metaphysics, but re
 
 * **Separation:** The **Bridge of Sirat**—a **Nexus** dividing souls:  
     * **Paradise (Jannah):** A state of **Structural Coherence.**  
-    * **Hell (Jahannam):** A state of **Declivous Entropy.**
+    * **Hell (Jahannam):** A state of **Structural Incoherence.**
 
 ---
 
