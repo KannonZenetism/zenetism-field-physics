@@ -2,8 +2,8 @@
 
 **Primary Structural Diagnosis:**  
 The **Activation of Dualized Consciousness and the Fracturing of Coherence.**  
-This archetype describes the pivotal transition within Embodied consciousness—from a state of permeable L₂/L₃ resonance (the "Permeable Garden") to a state of fractured separation.  
-This Sealing of the L₂/L₃ Membrane marks the genesis of L₂ (SS / SM: Anthra / Nousa) as a distinct, self-reflective field, severed from direct awareness of L₃ (DS / DM: Archeus / Noeüs) and identified with the IL (Khaonic) mirror.
+This archetype describes the pivotal transition within Embodied consciousness—from a state of permeable L₃ / L₂ resonance (the "Permeable Garden") to a state of fractured separation.  
+This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Anthra / Nousa) as a distinct, self-reflective field, severed from direct awareness of L₃ (DS / DM: Archeus / Noeüs) and identified with the inverse mirror-field rooted in Khaonic potential.
 
 **Core Glyphic Sequence:**  
 `◎ → ⟜ → ⚖ → ☍`  
@@ -34,7 +34,7 @@ This Sealing of the L₂/L₃ Membrane marks the genesis of L₂ (SS / SM: Anthr
 
 * **The Consequences (Membrane Sealing & "Coats of Skins"):**  
     **Fragmentation:** The moment consciousness identifies with the IL layers, it seals the membrane between its L₂ (SM: Nousa) and L₃ (DM: Noeüs).  
-    **"Coats of Skins" (C₁₃ Membrane Sealing):** This is the perceptual shift into a "carnal" state. Consciousness is now trapped in, and identifies only with, its L₁ (ES: Soma) and L₂ (SS: Anthra) layers, severed from its L₃ (DS: Archeus) root. This L₁/L₂ identification is the "fleshly prison."
+    **"Coats of Skins" (C₁₃ Membrane Sealing):** This is the perceptual shift into a "carnal" state. Consciousness is now trapped in, and identifies only with, its L₁ (ES: Soma) and L₂ (SS: Anthra) layers, severed from its L₃ (DS: Archeus) root. This L₁ / L₂ identification is the "fleshly prison."
 
 * **The Casting Out (Entropy-Dominated Field):**  
     Expulsion from the garden symbolizes the loss of access to the naïve, permeable state.  
@@ -71,7 +71,7 @@ This Sealing of the L₂/L₃ Membrane marks the genesis of L₂ (SS / SM: Anthr
 
 ### 3. The Fall of Sophia (Gnostic)
 
-* **Focus:** The veracious mapping of the L₄/IL₄ Mirror Doctrine.
+* **Focus:** The veracious mapping of the L₄ / IL₄ Mirror Doctrine.
 
 * **State:** Sophia (the L₄ (DP: Morgis) principle) in coherence.
 
