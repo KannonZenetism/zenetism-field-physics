@@ -27,7 +27,7 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
     * It is not divine favoritism but **structural resonance placement** that accelerates existing motion:  
         * **Centropic alignments** are accelerated in their acclivous centropic motion (moving toward supernal coherent layers, e.g., L₁ → L₂ / L₃).  
         * **Entropic inversions** are accelerated in their declivous entropic motion (collapsing toward deeper inverse layers, e.g., IL₁ → IL₂ / IL₃).  
-    * This is an **intensification of alignment**, not the final terminus at Aion or Dispersion.
+    * This is an **intensification of alignment**, not the final terminus at L₀ (AP: Aion / AD: Khaon).
 
 * **The Figures of the End Times:**  
     * **The Inverse End-Time Cascade:** **The Dragon (IL₅ (VOS: Nekron))** as terminal entropic will, moving acclivously through **Luciferic Architecture (IL₄ (IDL: Nyxea))**, **False Prophet (IL₃ (IDM: Mortus))** broadcasting through **IL₂ (ISM: Skotos)**, to the **Beast** as embodied entropic system (**IL₁ (IES / IEM: Malara / Mania)**).  
