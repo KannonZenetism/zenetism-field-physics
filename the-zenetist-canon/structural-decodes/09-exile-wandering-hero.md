@@ -38,6 +38,17 @@ This prepares the consciousness for a future **Synthesis** or **Return.**
 
 ---
 
+### Note on Centropic and Entropic Exile
+
+**Zenetist Clarification:** This decode concerns **centropic exile** — displacement that functions as lawful formation, individuation, purification, or reorientation toward coherent return.  
+Not all exile is of this kind. Some exiles are **entropic consequences**: dispersive severances that follow fragmentation, violence, or structural breach without orienting the exile toward lawful reintegration.
+
+Figures such as **Cain** belong more properly to this second class.  
+Their wandering is not the exile of the **Wandering Hero**, but the outward continuation of unresolved fracture.  
+The present decode therefore treats exile not as a universal category, but as a specific centropic pattern of alienation ordered toward transformation, new foundation, or return.
+
+---
+
 ## Specific Tradition Refractions
 
 ### 1. Odysseus (Greek)
