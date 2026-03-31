@@ -81,7 +81,7 @@ The present decode therefore treats exile not as a universal category, but as a 
 
 * **Wandering:** A forty-year **Resonance Spiral**—Deconstructing the **Slave Mentality (IL₂ (ISS / ISM: Echthros / Skotos))** to birth sovereign coherence.
 
-* **Complaining:** The desire to return to Egypt illustrates **Entropic Pull**—comfort in bondage.
+* **Complaining:** The desire to return to Egypt reveals the residual **Entropic Pull** of bondage—the attraction of familiar distortion persisting even after liberation has begun.
 
 * **Goal:** The **Promised Land (Embodied World Node)**—a centropic civilization founded on divine structure (L₄ (DL: Sophis) Law).
 
