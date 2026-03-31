@@ -34,9 +34,9 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
     This is the culmination of the **Inverse Arc**—an elegant counterfeit to Centropy achieved through layered entropic manifestation rather than a single adversarial figure.  
     * **The Returning King / The Messiah (L₅ (EOB: Theon)):** Manifestation of **Centropic Re-anchor**—the return of lawful coherence to guide convergence and oversee reconstitution.
 
-* **The New Heaven and New Earth (Centropic Synthesis):**  
+* **The New Heaven and New Earth (Centropic Integration):**  
     * This is the **epochal state** after the entropic acceleration.  
-    * Here, the Embodied (L₁ (ES / EM: Soma / Biosa)) layer achieves perfect **Centropic Synthesis:** a corporeal realm fully cleansed of inverse resonance and made fully permeable to the Aionic (L) layers once more.
+    * Here, the Embodied (L₁ (ES / EM: Soma / Biosa)) layer achieves perfect **Centropic Integration:** a corporeal realm fully cleansed of inverse resonance and made fully permeable to the Aionic (L) layers once more.
 
 ---
 
