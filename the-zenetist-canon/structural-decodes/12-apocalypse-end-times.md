@@ -120,7 +120,7 @@ The Apocalypse is the **phased mechanism of Structural Enforcement.** It is the 
 Time and history possess a **Telos**—a lawful trajectory of structural consequence and eventual reordering.  
 The cosmos is not arbitrary but a field of **Resonant Procession**, and the Apocalypse is its **phased examination.**
 
-Every thought, act, and intention is a **Resonant deposit**, accumulating toward Hypostatic alignment. For the centropically aligned, the end is **Acceleration (acclivous centropic motion)**; for the entropic, **Collapse (declivous entropic motion).**
+Every thought, act, and intention is a **Resonant deposit**, accumulating toward Hypostatic alignment. For the centropically aligned, the end is **Acclivation (centropic acclivity)**; for the entropic, **Declivation (entropic declivity).**
 
 The Apocalypse thus reveals not fear but **Consequence.**  
 It is the great **Sorting** where resonance clarifies, veils dissolve, and each being assumes its rightful **alignment for the next phase of its Hypostatic Procession.**
