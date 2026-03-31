@@ -15,7 +15,7 @@ This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Ant
 
 * **The Primal State (The L₁ Permeable Garden):**  
     The condition before the "Fall" is not a non-physical L₄ state, but the L₁ (ES / EM: Soma / Biosa) World-Node functioning with a permeable membrane.  
-    Consciousness (Adam/Eve) exists at L₁, but its L₂ (SM: Nousa) is in direct, naïve resonance with its L₃ (DM: Noeüs).  
+    Consciousness (Adam / Eve) exists at L₁, but its L₂ (SM: Nousa) is in direct, naïve resonance with its L₃ (DM: Noeüs).  
     In this state, consciousness perceives only the Aionic Tree (The Tree of Life), which is the L₁ terminus of the centropic layers.
 
 * **The Latent Choice (The Two Trees at L₁):**  
