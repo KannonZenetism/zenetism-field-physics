@@ -65,7 +65,7 @@ They are not predictors of immutable futures, but **diagnosticians** of the pres
 
 * **The Pythia:** Becomes the **Membrane** through which Archetypal intelligence speaks.
 
-* **Ambiguity:** The cryptic phrasing reflects the friction of translating L₄ (DL: Sophis) layer pattern data into L₂ (SS / SM: Anthra / Nousa) cognition.
+* **Ambiguity:** The cryptic phrasing reflects the friction of translating L₄ (DL: Sophis) layer pattern data into **L₂ (SM: Nousa)** cognition.
 
 * **Function:** Acts as **systemic resonance scan**—diagnosing alignment for individuals and states, applying **Divine Geometry** to human action.
 
