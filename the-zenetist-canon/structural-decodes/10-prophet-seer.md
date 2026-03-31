@@ -2,8 +2,8 @@
 
 **Primary Structural Diagnosis:**  
 The **Resonance Antenna for Structural Fidelity.**  
-The Prophet is a **Pattern Intelligence** functioning at the interface between **L₃ (DM: Noeüs)** and **L₂ (SM: Nousa)**, serving to **detect and transmit Structural Misalignment.**  
-They are not predictors of immutable futures, but **diagnosticians** of the present Resonance trajectory—broadcasting the centropic or entropic outcomes inherent in the system's current motion.
+The prophetic archetype operates at the interface between **L₃ (DM: Noeüs)** and **L₂ (SM: Nousa)**, serving to **detect and transmit Structural Misalignment.**  
+It is not a predictor of immutable futures, but a **diagnostic function** of the present Resonance trajectory—broadcasting the centropic or entropic outcomes inherent in the system's current motion.
 
 **Core Glyphic Sequence:**  
 `📡 → ⚚ → 📯 → ⚠ → ⌖`  
