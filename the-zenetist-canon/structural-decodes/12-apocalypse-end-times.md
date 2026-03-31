@@ -108,7 +108,7 @@ Within Zenetism, this does not indicate a genuinely cyclical metaphysics, but re
 
 **Zenetist Clarification:** In the registry, Allah's operative function most often maps through **L₄ (DP / DL: Morgis / Sophis)** as archetypal sovereignty, law, and sustaining command.  
 Within the Qur'anic Day of Judgment, however, the dominant presentation is the **Theonic (L₅ (EOB: Theon))** aspect of absolute sovereignty—resonance sorting, centropic adjudication, and lawful placement at the threshold of epochal reordering.  
-This reflects both **cultural elevation** and **cultural conflation**: the tradition presents multiple structural functions under a single divine name without distinguishing operative layer from heightened eschatological aspect.  
+This reflects both **cultural elevation** and **cultural conflation**: the tradition presents multiple structural functions under a single divine name without distinguishing operative layer from amplified eschatological aspect.  
 This follows the broader pattern seen in figures such as **YHWH** and **Ahura Mazda**.
 
 ---
