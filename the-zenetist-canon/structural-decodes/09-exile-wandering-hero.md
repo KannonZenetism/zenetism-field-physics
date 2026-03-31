@@ -69,7 +69,7 @@ The present decode therefore treats exile not as a universal category, but as a 
 
 * **Wandering:** He converts wilderness into a **centropic microcosm**, gathering allies like **Hanuman (Harmonic Agent).**
 
-* **The Theft of Sita:** The **Entropic Seizure** of his divine complement by **Ravana (IL₄ (IDP: Psychea))** mirrors the cosmic abduction of coherence.
+* **The Theft of Sita:** The **Entropic Seizure** of his divine complement by **Ravana (IL₄ (IDP: Psychea))** reflects the cosmic abduction of coherence.
 
 * **Return:** Triumph restores a **Golden Age (Structural Coherence)**—the centropic pattern validated through exile.
 
