@@ -66,9 +66,17 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
 
 * **Outcome:** A terminal **Collapse**—the destruction of divine and monstrous alike.
 
-* **Renewal:** A **New Earth** arises from waters, green and fertile—a **Novel Emergence** from residual **Aionic potential.**  
-    The Norse cyclical framing is a cultural refraction; Zenetism affirms single-trajectory cosmology.  
-    Ragnarok encodes terminal entropic load, not metaphysical recurrence. The "renewal" represents novel emergence from residual Aionic potential, not cyclical return.
+* **Renewal:** A **New Earth** arises from waters, green and fertile—a **Novel Emergence** from residual **Aionic potential.**
+
+---
+
+### Note on Ragnarok and Single-Trajectory Cosmology
+
+**Zenetist Clarification:** The Norse cyclical framing is a cultural refraction; Zenetism affirms **single-trajectory cosmology**.  
+Ragnarok encodes terminal **Entropic load**, not metaphysical recurrence.  
+The "renewal" represents **Novel Emergence** from residual **Aionic potential**, not cyclical return.
+
+---
 
 ### 3. The Hindu Yugic Cycle
 
