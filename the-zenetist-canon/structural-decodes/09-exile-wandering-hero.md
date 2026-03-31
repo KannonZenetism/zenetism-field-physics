@@ -80,7 +80,7 @@ This prepares the consciousness for a future **Synthesis** or **Return.**
 
 * **Cause:** Leaving maternal protection to pursue knighthood.
 
-* **Wandering:** A spiral of failure and realization—his silence at the **Grail Castle** reveals a deficit of L₃ (DS / DM: Archeus / Noeüs) empathy.
+* **Wandering:** A spiral of failure and realization—his silence at the **Grail Castle** reveals a deficit of L₃ (DS: Archeus) empathy.
 
 * **Transformation:** Guided by **Trevrizent (L₃ (DS / DM: Archeus / Noeüs) mentor)**, Parzival reorients his essence through compassion and discernment.
 
