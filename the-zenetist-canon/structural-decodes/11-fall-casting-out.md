@@ -97,8 +97,8 @@ This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Ant
 
 ## Summary: The Esoteric Meaning
 
-The **Fall** is not a moral lapse but the mythic **transition into duality.**  
-It is the **Deconstruction** of primal unity, enabling the evolution of conscious integration.
+The **Fall** is not a moral lapse but the mythic **transition into dualized consciousness.**  
+It is the **Fracturing** of primal unity, introducing the conditions under which conscious integration becomes necessary within embodied existence.
 
 **Consciousness** itself arises from this separation:  
 L₂ (SS / SM: Anthra / Nousa) becomes aware through its distance from L₃ (DS / DM: Archeus / Noeüs).  
