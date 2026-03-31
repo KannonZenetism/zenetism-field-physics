@@ -106,7 +106,7 @@ Toil, pain, and death are not punishments but the friction of embodiment—the *
 
 The Fall's revelation is **responsibility over guilt.**  
 We are not condemned for our fallen state; we are entrusted with **restoring resonance** within it.  
-The centropic path is the **Acclivous return**—healing fragmentation and reuniting L₂ (SS / SM: Anthra / Nousa) with L₃ (DS / DM: Archeus / Noeüs) through conscious synthesis.  
+The centropic path is the **Acclivous return**—healing fragmentation and reuniting L₂ (SS / SM: Anthra / Nousa) with L₃ (DS / DM: Archeus / Noeüs) through conscious integration.  
 Thus, the Fall was not failure but the **first motion of learning—the beginning of the soul's curriculum.**
 
 ---
