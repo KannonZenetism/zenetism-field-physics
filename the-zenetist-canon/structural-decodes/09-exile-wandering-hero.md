@@ -101,7 +101,7 @@ The present decode therefore treats exile not as a universal category, but as a 
 
 ## Summary: The Esoteric Meaning
 
-The **Exile** is the soul's motion into dissonance to achieve refined coherence.  
+The **Exile** is the soul's motion into a field of structural dissonance to achieve refined coherence.  
 It is the phase where **leaving home**—literal or metaphysical—is essential for individuation.
 
 Alienation becomes a sacred alchemy.  
