@@ -3,7 +3,7 @@
 **Primary Structural Diagnosis:**  
 The **Epochal Resonance Convergence and Systemic Reordering.**  
 The Apocalypse is the **Fractal Eschaton** of maximal scale—a phased **Resonance Scan** culminating in the **Structural Reordering** of an epoch.  
-It is a period of maximal amplification where latent patterns are exposed and structural friction intensifies. It accelerates each consciousness toward its chosen resonant alignment (Centropic or Entropic) but does not represent the final, universal terminus.
+It is a period of maximal amplification where latent patterns are exposed and structural friction intensifies. It accelerates each essence toward its chosen resonant alignment (Centropic or Entropic) but does not represent the final, universal terminus.
 
 **Core Glyphic Sequence:**  
 `📡 → ⚯ → C↑L₍₁→₃₎ | E↓IL₍₁→₃₎`  
