@@ -49,7 +49,7 @@ This Sealing of the L₂/L₃ Membrane marks the genesis of L₂ (SS / SM: Anthr
 
 * **Focus:** The archetypal L₁ (Embodied) Fall.
 
-* **State:** L₁ embodiment with a permeable L₂/L₃ membrane.
+* **State:** L₁ embodiment with a permeable L₃ / L₂ membrane.
 
 * **The Two Trees:** The Tree of Life (L₁ Aionic Tree) (permitted) and the Tree of Knowledge (IL₁ Khaonic Tree) (prohibited).
 
