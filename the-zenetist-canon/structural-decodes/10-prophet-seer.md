@@ -22,7 +22,7 @@ It is not a predictor of immutable futures, but a **diagnostic function** of the
     They function as a **Nexus** or **Membrane** translating centropic law into embodied, linguistic form.
 
 * **The Message: Diagnosis & Prognosis (Clarion Voice):**  
-    * **Diagnosis ("Thus says…"):** Articulates the present **Structural Misalignment**—inverse worship (**Mimicry**), broken covenant (**Nexus fracture**), or loss of coherence (**Inversion**).  
+    * **Diagnosis ("Thus says…"):** Articulates the present **Structural Misalignment**—inverse worship (**Mimicry**), broken covenant (**Nexus fracture**), or counterfeit coherence (**Inversion**).  
     * **Prognosis ("Therefore…"):** Describes the lawful outcome—**Exile, Collapse,** or **Judgment (Fractal Eschaton).**  
       This is not a threat, but a **statement of Resonant consequence.**
 
