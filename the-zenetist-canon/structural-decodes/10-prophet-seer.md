@@ -14,7 +14,7 @@ It is not a predictor of immutable futures, but a **diagnostic function** of the
 ## Universal Structural Analysis
 
 * **The Call & The Reluctance (Resonance Scan):**  
-    The Prophet is often reluctant—expressing L₂ (SS / SM: Anthra / Nousa) hesitation to act as conduit for L₃ (DS / DM: Archeus / Noeüs) or L₄ (DP / DL: Morgis / Sophis) transmissions.  
+    The Prophet is often reluctant—expressing L₂ (SS / SM: Anthra / Nousa) hesitation to act as conduit for L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs) transmissions.  
     The "call" is a **Resonance Scan** identifying a vessel capable of bearing high-coherence data.
 
 * **The Source of Revelation (L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs)):**  
