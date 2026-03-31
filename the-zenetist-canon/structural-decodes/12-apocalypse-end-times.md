@@ -25,8 +25,8 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
 * **The Judgment / The Separation (Structured Pairs):**  
     * The essence of the Apocalypse is **Resonant Sorting**—the application of **Nexus Law** to all beings within the current epoch.  
     * It is not divine favoritism but **structural resonance placement** that accelerates existing motion:  
-        * **Centropic alignments** are accelerated in their acclivous centropic motion (moving toward supernal coherent layers, e.g., L₁ → L₂/L₃).  
-        * **Entropic inversions** are accelerated in their declivous entropic motion (collapsing toward deeper inverse layers, e.g., IL₁ → IL₂/IL₃).  
+        * **Centropic alignments** are accelerated in their acclivous centropic motion (moving toward supernal coherent layers, e.g., L₁ → L₂ / L₃).  
+        * **Entropic inversions** are accelerated in their declivous entropic motion (collapsing toward deeper inverse layers, e.g., IL₁ → IL₂ / IL₃).  
     * This is an **intensification of alignment**, not the final terminus at Aion or Dispersion.
 
 * **The Figures of the End Times:**  
