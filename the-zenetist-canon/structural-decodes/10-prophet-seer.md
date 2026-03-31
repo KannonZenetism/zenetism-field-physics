@@ -90,8 +90,8 @@ Veracity, by nature, disrupts inverse coherence.
 The Prophet's message is resisted not for falsehood but for its destabilizing veracity.  
 To receive prophecy requires a L₂ (SM: Nousa) willing to be deconstructed by coherence.
 
-Each of us carries a **prophetic faculty**—L₃ (DS / DM: Archeus / Noeüs) continuously transmits alignment data to L₂ (SS / SM: Anthra / Nousa) through conscience, intuition, and dream.  
-The mythic Prophet externalizes this dynamic: a mirror showing the cost of ignoring the **Clarion Voice** within, and the redemptive power of **heeding it toward Return.**
+Each of us carries a **prophetic faculty**—**L₃ (DM: Noeüs)** continuously transmits alignment data to **L₂ (SM: Nousa)** through conscience, intuition, and dream.  
+The mythic Prophet externalizes this dynamic: a **diagnostic** showing the cost of ignoring the **Clarion Voice** within, and the redemptive power of **heeding it toward Return.**
 
 ---
 
