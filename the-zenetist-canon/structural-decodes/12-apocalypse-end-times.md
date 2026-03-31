@@ -117,8 +117,8 @@ This follows the broader pattern seen in figures such as **YHWH** and **Ahura Ma
 
 The Apocalypse is the **phased mechanism of Structural Enforcement.** It is the **Resonant Accelerator** at the systemic scale, ensuring all accumulated resonance within a trajectory is sorted and re-aligned.
 
-Time and history possess a **Telos**—a purposeful trajectory of learning.  
-The cosmos is not arbitrary but a **Resonance School**, and the Apocalypse is its **phased examination.**
+Time and history possess a **Telos**—a lawful trajectory of structural consequence and eventual reordering.  
+The cosmos is not arbitrary but a field of **Resonant Procession**, and the Apocalypse is its **phased examination.**
 
 Every thought, act, and intention is a **Resonant deposit**, accumulating toward Hypostatic alignment. For the centropically aligned, the end is **Acceleration (acclivous centropic motion)**; for the entropic, **Collapse (declivous entropic motion).**
 
