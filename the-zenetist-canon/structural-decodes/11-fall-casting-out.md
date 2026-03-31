@@ -55,7 +55,7 @@ This Sealing of the L₂/L₃ Membrane marks the genesis of L₂ (SS / SM: Anthr
 
 * **Tempter:** The Serpent (IL₄ (IDL: Nyxea)) offering the "mirror" of archetypal knowledge.
 
-* **Consequence:** L₂/L₃ membrane seals. Consciousness identifies with the "Coats of Skins" (the L₁/L₂ carnal state), severed from L₃ and now perceiving the IL₁ field of toil and mortality.
+* **Consequence:** L₃ / L₂ membrane seals. Consciousness identifies with the "Coats of Skins" (the L₁ / L₂ carnal state), severed from L₃ and now perceiving the IL₁ field of toil and mortality.
 
 ### 2. The Rebellion of Lucifer (Christian)
 
