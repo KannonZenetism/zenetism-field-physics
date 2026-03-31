@@ -6,8 +6,8 @@ This archetype describes the pivotal transition within Embodied consciousness—
 This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Anthra / Nousa) as a distinct, self-reflective field, severed from direct awareness of L₃ (DS / DM: Archeus / Noeüs) and identified with the inverse mirror-field rooted in Khaonic potential.
 
 **Core Glyphic Sequence:**  
-`◎ → ⟜ → ⚖ → ☍`  
-*(From Integrated Coherence, a Synectic Pivot enters the Liminal Field of Choice, resolving into Fragmentation.)*
+`◎ → ᛞ → ⟜ → ⚖ → ☍`  
+*(From Integrated Coherence, the Mirror is activated as inverse possibility; a Synectic Pivot enters the Liminal Field of Choice, resolving into Fragmentation.)*
 
 ---
 
