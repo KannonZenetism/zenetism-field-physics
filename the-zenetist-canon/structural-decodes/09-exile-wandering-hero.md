@@ -16,7 +16,7 @@ This prepares the consciousness for a future **Synthesis** or **Return.**
 * **The Cause of Exile (Structural Divergence):**  
     Exile arises from **Structural Divergence** between the individual's resonance and their environment (family, tribe, kingdom).  
     * **Crime:** A centropic impulse violates a provisional or entropic law.  
-    * **Prophecy:** A **Fractal Eschaton** foresight orchestrated by L₄ (DL: Sophis) to ensure destiny.  
+    * **Prophecy:** A **Fractal Eschaton** foresight orchestrated by **L₄ (DL: Sophis)** to ensure destiny.  
     * **Usurpation:** The rightful centropic heir displaced by **Inverse forces (IL₂ (ISS: Echthros))**, forced into wilderness.
 
 * **The Liminal Landscape (Field of Becoming):**  
