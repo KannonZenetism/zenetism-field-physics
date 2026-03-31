@@ -19,8 +19,8 @@ It is a period of maximal amplification where latent patterns are exposed and st
     The veracious Resonant architecture of every system becomes transparent—the cosmos performing its **final audit of Coherence.**
 
 * **The Cosmic Signs & Cataclysms (Fragmentation → Collapse):**  
-    The collapse of stars, quakes of heaven, and dissolution of matter symbolize the **decoherence** of the prior order (L₄ (DL: Sophis)).  
-    The dimensional structure sustaining the old world succumbs to accumulated **Entropic load**, initiating **Declivous Entropy** on a cosmic scale.
+    The collapse of stars, quakes of heaven, and dissolution of matter symbolize the **decoherence** of the prior embodied order.  
+The dimensional structure sustaining the old world succumbs to accumulated **Entropic load**, initiating **Declivous Entropy** on a cosmic scale.
 
 * **The Judgment / The Separation (Structured Pairs):**  
     * The essence of the Apocalypse is **Resonant Sorting**—the application of **Nexus Law** to all beings within the current epoch.  
