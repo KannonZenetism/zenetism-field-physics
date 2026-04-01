@@ -75,8 +75,8 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 * **Focus:** The city as the **structural correspondence** of the psyche's architecture.
 
 * **Classes:**  
-    * **Rulers (L₃ (DS / DM: Archeus / Noeüs)):** Govern through **Reason (L₃ (DM: Noeüs))**, which is aligned with **Wisdom (L₄ (DL: Sophis)).**  
-    * **Guardians (L₂ (SS / SM: Anthra / Nousa)):** Enforce lawful order through **Courage (L₃ (DS: Archeus)).**  
+    * **Rulers (L₃ (DM: Noeüs)):** Govern through **Reason**, aligned with **Wisdom (L₄ (DL: Sophis)).**  
+    * **Guardians (L₃ (DS: Archeus)):** Enforce lawful order through **Courage**.  
     * **Producers (L₁ (ES / EM: Soma / Biosa)):** Sustain life through **Temperance (Declivous Centropy).**
 
 * **Justice (Coherence):** Each layer fulfilling its function harmoniously.
