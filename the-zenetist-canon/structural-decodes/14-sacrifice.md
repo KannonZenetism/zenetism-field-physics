@@ -8,7 +8,7 @@ It is the operational heart of **Synthesis.**
 
 **Core Glyphic Sequence (Centropic):**  
 `⚐ → ⚖️ → ↺ → ∴`  
-*(Potential enters the Liminal Field of Choice, resolves through Resonant Return, and culminates in Structural Synthesis.)*
+*(Potential enters the Liminal Field of voluntary surrender, resolves through Resonant Return, and culminates in Structural Synthesis.)*
 
 **Core Glyphic Sequence (Entropic):**  
 `⚐ → ⥊ → ⊜ → ☍ → ⟳`  
