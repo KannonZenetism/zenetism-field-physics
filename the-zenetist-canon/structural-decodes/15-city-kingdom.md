@@ -72,7 +72,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 
 ### 3. The Platonic Republic (City as Soul)
 
-* **Focus:** The city as mirror of the **psyche's architecture.**
+* **Focus:** The city as the **structural correspondence** of the psyche's architecture.
 
 * **Classes:**  
     * **Rulers (L₃ (DS / DM: Archeus / Noeüs)):** Govern through **Reason (L₃ (DM: Noeüs))**, which is aligned with **Wisdom (L₄ (DL: Sophis)).**  
