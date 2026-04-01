@@ -129,7 +129,7 @@ we are always sacrificing—our time, energy, attention, and will.
 Whether those offerings serve **Centropic (coherent)** or **Entropic (fragmenting)** ends determines our Resonant trajectory.
 
 The ultimate sacrifice is the surrender of **L₂ (SS / SM: Anthra / Nousa)** to **L₃ (DS / DM: Archeus / Noeüs)**—not the destruction of self, but its clarification through coherence—the precise mechanism of the **Acclivous Return.**  
-Through it, structure renews, coherence expands, and the cosmos continues its endless act of becoming.
+Through it, structure renews, coherence expands, and the cosmos continues its persistent act of becoming.
 
 ---
 
