@@ -46,6 +46,14 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 
 ---
 
+### Note on Acclivous and Declivous Entropic Procession
+
+**Zenetist Clarification:** The declivous procession described here does not originate at death.  
+An entropic essence first arrives at embodiment through **Acclivous Entropy (E↑→E)**, traversing the inverse arc toward IL₁.  
+Death does not create the entropic trajectory; it resumes it in reverse, as a declivous procession through the Subversal layers.
+
+---
+
 ## Specific Tradition Refractions
 
 ### 1. Christ & Inanna's Declivous Entry (Function 1: Embodiment)
