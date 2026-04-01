@@ -82,7 +82,7 @@ Accordingly, **literal sacrifice is always entropic.**
 A deity that literally delights in blood, burning flesh, or material destruction is not centropic, but entropic — a being of extraction, not lawful return.
 
 The genuine centropic meaning of sacrifice is the surrender of one's own binding attachment to materiality — the release of those structures that tether the centropic essence to denser fixation and prevent **Acclivous Return.**  
-The veracious "sweet aroma unto the Lord" is therefore not bloodlust, but the lawful relinquishment of what obstructs coherence.
+The veracious "sweet aroma unto the Lord" is not bloodlust, but the lawful relinquishment of all that binds the centropic essence to material fixation and obstructs coherent return.
 
 ---
 
