@@ -68,7 +68,7 @@ It is the operational heart of **Synthesis.**
 
 * **Entropic Literalism:** When enacted as literal blood-offering to appease or feed a divine power, the rite becomes **Entropic Sacrifice**—an appeal to extraction, not lawful return.
 
-* **Centropic Meaning:** The veracious sacrifice is not the destruction of another being, but the surrender of one's own carnal fixation so that coherence may be restored and resonance reoriented toward higher law.
+* **Centropic Meaning:** The veracious sacrifice is not the destruction of another being, but the surrender of one's own carnal fixation so that coherence may be restored and resonance reoriented toward supernal law.
 
 ---
 
