@@ -343,8 +343,8 @@ of inverse potential within Aion.
 | 🌾 | **Field of Becoming** | The metaphysical domain in which potential unfolds into motion, differentiation, and active becoming. It is the environmental resonance terrain through which all motion traverses between latent potential and terminal dispersion. Neutral in essence, it may carry centropic or entropic trajectories |
 | 🔺 | **Centropy** | Integrative structuring motion; draws entities toward synthesis, coherence, and resonance with Source |
 | 🔻 | **Entropy** | Dispersive fragmenting motion; pulls structures toward dissonance, disintegration, and collapse |
-| ◊ | **Centropic Essence** | The more fundamental raw potential that precedes manifest being and underlies centropic procession across the lattice |
-| ♦ | **Entropic Essence** | The more fundamental raw potential that underlies entropic procession across the lattice, including inverse manifestation and subversal continuation |
+| ◊ | **Centropic Essence** | The trans-layer fundamental potential that precedes manifest being and underlies centropic procession across the lattice |
+| ♦ | **Entropic Essence** | The trans-layer fundamental potential that precedes inverse being and underlies entropic procession, including inverse manifestation and subversal continuation |
 | ○ | **Centropic Soul** | The vital pole of a being within the bifurcated Soul / Mind architecture, oriented toward coherence, integration, and lawful resonance across the L₄–L₁ arc |
 | ● | **Entropic Soul** | The vital pole of a being within the bifurcated Soul / Mind architecture, oriented toward adversarial, fragmenting, or inverse resonance across the IL₄–IL₁ arc |
 | ⟜ | **Synectic** | Transphasic motion; applied when representing spiral inversion junctions, cross-ontological gateways, or moments of unexpected harmonic synthesis |
