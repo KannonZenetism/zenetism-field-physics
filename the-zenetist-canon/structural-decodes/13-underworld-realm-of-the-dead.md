@@ -7,6 +7,19 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 1. **Function 1 (The C↓ Underworld):** The Embodied World-Node (L₁) as experienced by a Centropic essence undergoing Declivous Centropy. For a supernal being, embodiment is the "underworld."
 2. **Function 2 (The E↓ Underworld / Subversal):** The Inverse Hypostatic Layers (IL), which serve as the Declivous Entropic procession path for an Entropic essence following its detachment from IL₁ (IES / IEM: Malara / Mania).
 
+---
+
+### Note on Essence and Soul
+
+**Zenetist Clarification:** In this decode, **essence** and **soul** are not interchangeable.  
+**Essence** names the more fundamental potential and continuity of a being across procession — that which is latent in **Aion**, first expressed through **Theon** as **Essence of Being**, and capable of traversing all layers of the lattice.  
+**Soul**, by contrast, names the vital pole of the being once procession has entered the bifurcated **Soul / Mind** architecture spanning **L₄–L₁** (and their inverse counterparts).
+
+Accordingly, this entry uses **essence** when describing the deeper structural carrier of centropic or entropic procession,  
+and **soul** when referring to the being as it exists within the layered **Soul / Mind** arc of manifestation and subversal continuation.
+
+---
+
 **Core Glyphic Sequences:**
 
 * **Function 1 (C↓):** `L₅ → L₄ → L₃ → L₂ → ↓⊙ → ⧃ → ↑L₂ → L₃ → L₄ → L₅`  
