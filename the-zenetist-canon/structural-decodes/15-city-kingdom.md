@@ -52,7 +52,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny structurally
     * **Foundation:** Built on **Zion**, locus of Theonic election.  
     * **Temple:** Central **Nexus** for Yahweh—the living conduit of L₄ (DL: Sophis) Law.  
     * **Law:** Torah (L₄ (DL: Sophis)) as constitutional order.  
-    * **Fate:** When aligned, becomes the **City of Peace (Coherence)**; when diverging, enters **Exile (declivous entropic motion)** yet retains the **Return promise (Resonant Return)** as the **New Jerusalem.**
+    * **Fate:** When aligned, becomes the **City of Peace (Coherence)**; when collective resonance diverges, its embodied order is given over to entropic domination through **Exile**, yet the **Return promise (Resonant Return)** remains as the **New Jerusalem.**
 
 * **Babylon (Entropic Counter-Ideal):**  
     * **Foundation:** By **Nimrod (IL₂ (ISS: Echthros))**—a will of domination.  
