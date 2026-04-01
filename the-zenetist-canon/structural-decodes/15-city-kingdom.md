@@ -64,7 +64,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny mirror the *
 
 * **Focus:** The Corrupted Utopia.
 
-* **Foundation:** Initiated by **Poseidon (L₄ (DP / DL: Morgis / Sophis))**—a Centropic genesis on divine geometry.
+* **Foundation:** Initiated by **Poseidon (L₄ (DP: Morgis))**—a centropic genesis grounded in archetypal vitality.
 
 * **Declivous Motion:** The rulers' **Divine Nature (L₃ (DS / DM: Archeus / Noeüs))** is not corrupted directly; rather, its expression is misapplied or distorted by the mortal layer (L₂ (SS / SM: Anthra / Nousa)), generating the shadow-forms of **Hubris and Greed (IL₂ (ISS / ISM: Echthros / Skotos)).**
 
