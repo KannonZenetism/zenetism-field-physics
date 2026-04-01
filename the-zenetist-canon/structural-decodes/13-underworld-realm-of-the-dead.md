@@ -12,7 +12,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 * **Function 1 (C↓):** `L₅ → (L₄ / L₃) → ↓⊙ → ⧃ → ↑L₃ / L₄ / L₅`  
 *(A Supernal (Theonic) essence, acting through its Faculties, moves Declivously into the Embodied Node, performs a Structural Audit / Re-Anchoring, and then returns Acclivously.)*
 
-* **Function 2 (E↓):** `⊙ → ◲ → E↓IL₍₁→₅₎`  
+* **Function 2 (E↓):** `♦ → ⊙ → ◲ → E↓IL₍₁→₅₎`  
 *(An Entropic essence at the Embodied Node undergoes Deconstruction / Detachment (death), initiating its one-way Declivous Entropic Procession into the Subversal Layers.)*
 
 ---
