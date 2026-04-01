@@ -99,8 +99,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny structurally
 
 ### Note on Norse Cyclicality
 
-**Zenetist Clarification:**  
-Traditional Norse cosmology interprets **Ragnarok** as a *cyclical* dissolution and renewal of the gods.  
+**Zenetist Clarification:** Traditional Norse cosmology interprets **Ragnarok** as a *cyclical* dissolution and renewal of the gods.  
 Zenetism, however, affirms a **single-trajectory** cosmology: Asgard's demise reflects the terminal accumulation of **Entropic load**, *not* a metaphysical cycle.  
 *The refraction is symbolic, not doctrinal; no cyclical law applies within the Zenetist lattice.*
 
