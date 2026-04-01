@@ -68,7 +68,7 @@ Death does not create the entropic trajectory; it resumes it in reverse, as a de
 
 * **Focus:** A distorted map of the Declivous Entropic path.
 
-* **Sisyphus (Tartarus):** A mythic interpretation of Declivous Entropic Procession. The "eternal, pointless loop" is the IL₂ (ISM: Skotos) mind's perception of its linear, declivous procession into the IL₂/IL₃ layers of mirrored, hollow reality.
+* **Sisyphus (Tartarus):** A mythic interpretation of Declivous Entropic Procession. The "eternal, pointless loop" is the IL₂ (ISM: Skotos) mind's perception of its linear, declivous procession into the IL₂ / IL₃ layers of mirrored, hollow reality.
 
 * **The Geography:** Tartarus represents the deeper IL layers where entropic souls experience recursive deconstruction as they proceed declivously through IL₂ → IL₃ → IL₄ → IL₅.
 
