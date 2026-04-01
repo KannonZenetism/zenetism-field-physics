@@ -122,7 +122,7 @@ Sacrifice is the **universal exchange protocol** that enables transformation at 
 To **gain**, something must be **released**; to **create**, something must be **transmuted.**  
 It is the **antidote to Hoarding and Stagnation**, the motion that keeps resonance in lawful circulation.
 
-The **seed dies to become the plant**, the **ego dissolves to reveal the soul**, and **L₅ (EOB: Theon) moves declivously** to redeem embodiment.
+Acclivous motion is not self‑erasure, but **self‑clarification.**
 
 Its instruction is simple yet profound:  
 we are always sacrificing—our time, energy, attention, and will.  
