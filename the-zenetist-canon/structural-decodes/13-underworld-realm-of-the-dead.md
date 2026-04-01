@@ -9,7 +9,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 
 **Core Glyphic Sequences:**
 
-* **Function 1 (C↓):** `L₅ → (L₄ / L₃) → ↓⊙ → ⧃ → ↑L₃ / L₄ / L₅`  
+* **Function 1 (C↓):** `L₅ → L₄ → L₃ → L₂ → ↓⊙ → ⧃ → ↑L₂ → L₃ → L₄ → L₅`  
 *(A Supernal (Theonic) essence, acting through its Faculties, moves Declivously into the Embodied Node, performs a Structural Audit / Re-Anchoring, and then returns Acclivously.)*
 
 * **Function 2 (E↓):** `♦⊙ → ◲ → E↓IL₍₁→₅₎`  
