@@ -59,13 +59,16 @@ It is the operational heart of **Synthesis.**
 
 * **Focus:** Symbolic Substitution and Energetic Reciprocity.
 
-* **Offering:** The **Animal**, embodiment of **Carnal Nature (L₁ (ES / EM: Soma / Biosa))** and **Vital Force (L₄ (DP: Morgis)).**
+* **Offering:** The **Animal** serves in ancient ritual language as a symbolic figure of **Carnal Nature** and embodied vitality, not as a metaphysical reduction of animal being to **L₁ (ES / EM: Soma / Biosa)** alone.  
+    Its ritual use reflects a cultural shorthand in which instinctive and embodied life were treated as emblems of subjacent nature requiring surrender.
 
-* **Centropic Intention:** Restoration of Resonance with the Divine through acknowledgment of L₄ (DL: Sophis) Law and surrender of subjacent nature.
+* **Symbolic Intention:** In its centropic reading, the rite encodes the surrender of binding attachment to embodiment, instinct, and fixation—the relinquishment of those densified identifications that obstruct **Acclivous Return.**
 
-* **Symbolism:** The animal's **blood (Vitality)** purifies, its **smoke** rises as a vehicle of intention toward **Supernal Realms.**
+* **Ancient Framing:** The animal's **blood (Vitality)** and rising **smoke** symbolized the release of life-force and intention toward **Supernal Realms**, using imagery accessible to the common understanding of the time.
 
-* **Entropic Inversion:** When devoid of sincerity, the act devolves into **Empty Mimicry**—an attempt to manipulate the divine rather than harmonize with it.
+* **Entropic Literalism:** When enacted as literal blood-offering to appease or feed a divine power, the rite becomes **Entropic Sacrifice**—an appeal to extraction, not lawful return.
+
+* **Centropic Meaning:** The veracious sacrifice is not the destruction of another being, but the surrender of one's own carnal fixation so that coherence may be restored and resonance reoriented toward higher law.
 
 ---
 
