@@ -110,7 +110,7 @@ Zenetism, however, affirms a **single-trajectory** cosmology: Asgard's demise re
 The **City** is the **outer architecture of inner resonance**—the body politic of a collective soul.  
 Its **foundations** are its metaphysical axioms; its **walls**, the integrity of its boundaries; its **temple** is the locus of its orienting coherence—the alignment of its collective resonance toward its governing principle.
 
-It reveals that **societies are spiritual organisms**: their art, laws, and economies are **Resonant technologies** shaping consciousness itself.  
+It reveals that **societies are structural organisms**: their art, laws, and economies are **Resonant technologies** shaping consciousness itself.  
 A civilization worshipping **Mimicry** and **Hubris (Acclivous Entropy)** constructs its own **Babel**—a monument to collapse.
 
 The teaching is simple:  
