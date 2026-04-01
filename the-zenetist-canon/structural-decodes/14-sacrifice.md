@@ -29,7 +29,7 @@ It is the operational heart of **Synthesis.**
 
 * **The Act of Surrender:**  
     The **Volitional release** of the offering creates a **Vacuum of Potential**, a **Receptive Field** that allows lawful transformation.  
-    Sacrifice performed without **Free Will** lacks resonance and fails to transmute energy.
+    Sacrifice performed under **Coercion** lacks resonance and fails to transmute energy.
 
 * **The Recipient & The Transformation:**  
     * **Centropic:** The offering moves acclivously through L₄ (DP / DL: Morgis / Sophis) or L₅ (EOB: Theon), returning as **Blessing**, **Rain**, **Renewal**, or **Resurrection**—a **Synthesis** of supernal coherence.  
