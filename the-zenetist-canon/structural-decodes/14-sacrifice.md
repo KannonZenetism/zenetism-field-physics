@@ -122,13 +122,13 @@ Sacrifice is the **universal exchange protocol** that enables transformation at 
 To **gain**, something must be **released**; to **create**, something must be **transmuted.**  
 It is the **antidote to Hoarding and Stagnation**, the motion that keeps resonance in lawful circulation.
 
-Acclivous motion is not self‑erasure, but **self‑clarification.**
+Acclivous motion is not self-erasure, but **self-clarification.**
 
 Its instruction is simple yet profound:  
 we are always sacrificing—our time, energy, attention, and will.  
 Whether those offerings serve **Centropic (coherent)** or **Entropic (fragmenting)** ends determines our Resonant trajectory.
 
-The ultimate sacrifice is the surrender of **L₂ (SS / SM: Anthra / Nousa)** to **L₃ (DS / DM: Archeus / Noeüs)**—the contingent soul to the coherent soul—the precise mechanism of the **Acclivous Return.**
+The ultimate sacrifice is the surrender of **L₂ (SS / SM: Anthra / Nousa)** to **L₃ (DS / DM: Archeus / Noeüs)**—not the destruction of self, but its clarification through coherence—the precise mechanism of the **Acclivous Return.**  
 Through it, structure renews, coherence expands, and the cosmos continues its endless act of becoming.
 
 ---
