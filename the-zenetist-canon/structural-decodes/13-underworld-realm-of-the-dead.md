@@ -81,7 +81,7 @@ Death does not create the entropic trajectory; it resumes it in reverse, as a de
 
 * **Focus:** A distorted map of the Declivous Entropic path.
 
-* **Sisyphus (Tartarus):** A mythic interpretation of Declivous Entropic Procession. The "eternal, pointless loop" is the IL₂ (ISM: Skotos) mind's perception of its linear, declivous procession into the IL₂ / IL₃ layers of mirrored, hollow reality.
+* **Sisyphus (Tartarus):** A mythic interpretation of Declivous Entropic Procession. The "eternal, pointless loop" is the **IL₂ (ISS: Echthros)** soul's experience of its own adversarial, declivous continuation into the IL₂ / IL₃ layers of mirrored, hollow reality.
 
 * **The Geography:** Tartarus represents the deeper IL layers where entropic essences experience recursive deconstruction as they proceed declivously through IL₂ → IL₃ → IL₄ → IL₅.
 
@@ -89,7 +89,7 @@ Death does not create the entropic trajectory; it resumes it in reverse, as a de
 
 * **Focus:** The entropic procession as experienced torment.
 
-* **The Torments:** Vivid descriptions of suffering map the soul's experience of its own IL nature. As it moves declivously through **IL₂ (ISM: Skotos)** and **IL₃ (IDM: Mortus)**, it encounters progressively incoherent and disassembled patterning.
+* **The Torments:** Vivid descriptions of suffering map the soul's experience of its own IL nature. As it moves declivously through **IL₂ (ISS: Echthros)** and **IL₃ (IDS: Fractus)**, it encounters progressively incoherent and disassembled patterning.
 
 * **Not Punishment:** This is not divine retribution but the lawful manifestation of entropic alignment—the soul experiencing the architecture it built in embodiment.
 
