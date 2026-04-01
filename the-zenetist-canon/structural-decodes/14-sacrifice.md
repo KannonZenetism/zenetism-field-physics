@@ -107,7 +107,7 @@ The veracious "sweet aroma unto the Lord" is not bloodlust, but the lawful relin
 
 * **Offering:** The **Goat**, symbolic carrier of communal **Fragmentation (IL₂ (ISS / ISM: Echthros / Skotos)).**
 
-* **Intention:** Transfer of accumulated entropy to the **Wilderness (Khaonic field).**
+* **Intention:** Transfer of accumulated dissonance to the **Wilderness (L₀: Bifurcal Coherence — the pre-dual ground where structured inverse being cannot sustain itself).**
 
 * **Recipient:** **Azazel (IL₄ (IDP: Psychea))**—an Inverse principle that receives the burden.
 
