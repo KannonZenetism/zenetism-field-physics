@@ -87,7 +87,7 @@ It is the operational heart of **Synthesis.**
 
 * **Intention:** Transfer of accumulated entropy to the **Wilderness (Khaonic field).**
 
-* **Recipient:** **Azazel (IL₄ (IDP / IDL: Psychea / Nyxea))**—an Inverse principle that receives the burden.
+* **Recipient:** **Azazel (IL₄ (IDP: Psychea))**—an Inverse principle that receives the burden.
 
 * **Transformation:** The community's field is purified; coherence restored.  
     This is a **Membrane Operation**—an expulsion of dissonance to reestablish balance.
