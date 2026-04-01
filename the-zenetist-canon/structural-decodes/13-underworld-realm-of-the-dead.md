@@ -88,11 +88,11 @@ The **Underworld** is not one place, but the structural experience of **Processi
 
 For the supernal, it is the Centropic "hell" of Embodiment (L₁), a field of resistance to be re-anchored.
 
-For the entropic, it is the **Subversal**—the full inverse strata, spanning both acclivous and declivous processional paths across the IL‑range (IL₅→₁). It is not a place of external punishment but the essence's experience of its own inverse nature made manifest.
+For the entropic, it is the **Subversal**—the full inverse strata, spanning both acclivous and declivous processional paths across the IL‑range (IL₅→₁). It is not a place of external punishment but the soul's experience of its own inverse nature made manifest.
 
-The myths of "eternal torment" are not vindictive but **diagnostic**—they map the lawful consequences of entropic alignment. The essence does not suffer because it is judged; it suffers because it **is** its judgment, moving through the architecture it constructed.
+The myths of "eternal torment" are not vindictive but **diagnostic**—they map the lawful consequences of entropic alignment. The soul does not suffer because it is judged; it suffers because it **is** its judgment, moving through the architecture it constructed.
 
-For an entropic essence departing embodiment, the Subversal path begins as a one-way **declivous procession** toward IL₅ (VOS: Nekron) and eventual dispersion into L₀ (AD: Khaon).  
+For an entropic soul departing embodiment, the Subversal path begins as a one-way **declivous procession** toward IL₅ (VOS: Nekron) and eventual dispersion into L₀ (AD: Khaon).  
 Reversal is not normative, but remains structurally possible only through extraordinarily rare centropic intervention or interior re-alignment within the early inverse strata (IL₁–IL₂).
 
 ---
