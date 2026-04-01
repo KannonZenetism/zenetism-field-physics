@@ -87,7 +87,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny structurally
 
 * **Focus:** The Divine Fortress amid chaos.
 
-* **Foundation:** Established by the **Aesir (L₄ (DL: Sophis))** in covenant with the **Vanir (L₄ (DP: Morgis))** after their war—**sovereign law** entering stable synthesis with **vital reciprocity** within the same layer.
+* **Foundation:** Established by the **Aesir (L₄ (DL: Sophis))** in covenant with the **Vanir (L₄ (DP: Morgis))** after their war—**sovereign law** entering stable integration with **vital reciprocity** within the same layer.
 
 * **Governance:** The **Aesir** hold the axis of **sovereign law (L₄ (DL: Sophis))**; the **Vanir** infuse **vital reciprocity (L₄ (DP: Morgis))**—a stable **Nexus** in which structuring intelligence aligns with archetypal vitality.
 
