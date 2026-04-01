@@ -72,7 +72,7 @@ Death does not create the entropic trajectory; it resumes it in reverse, as a de
 
 * **The Geography:** Tartarus represents the deeper IL layers where entropic souls experience recursive deconstruction as they proceed declivously through IL₂ → IL₃ → IL₄ → IL₅.
 
-### 3. Naraka (Hindu/Buddhist Hell)
+### 3. Naraka (Hindu / Buddhist Hell)
 
 * **Focus:** The entropic procession as experienced torment.
 
