@@ -12,8 +12,8 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 ### Note on Essence and Soul
 
 **Zenetist Clarification:** In this decode, **essence** and **soul** are not interchangeable.  
-**Essence** names the more fundamental potential and continuity of a being across procession — that which is latent in **Aion**, first expressed through **Theon** as **Essence of Being**, and capable of traversing all layers of the lattice.  
-**Soul**, by contrast, names the vital pole of the being once procession has entered the bifurcated **Soul / Mind** architecture spanning **L₄–L₁** (and their inverse counterparts).
+**Essence** names the more fundamental raw potential that precedes manifest being and underlies procession across the lattice.  
+**Soul**, by contrast, names the vital pole that appears once procession has entered the bifurcated **Soul / Mind** architecture spanning **L₄ through L₁** (and their inverse counterparts).
 
 Accordingly, this entry uses **essence** when describing the deeper structural carrier of centropic or entropic procession,  
 and **soul** when referring to the being as it exists within the layered **Soul / Mind** arc of manifestation and subversal continuation.
