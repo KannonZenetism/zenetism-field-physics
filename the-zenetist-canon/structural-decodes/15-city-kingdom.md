@@ -115,7 +115,7 @@ A civilization worshipping **Mimicry** and **Hubris (Acclivous Entropy)** constr
 
 The teaching is simple:  
 the **Kingdom of God** is not elsewhere—it is the **state of structural coherence** manifesting wherever Theonic law orders both the individual and the collective field.  
-To seek the **Holy City** is to harmonize inner and outer architecture, creating a **Harmonic Node** where Heaven (L₅ (EOB: Theon)) and Earth (L₁ (ES / EM: Soma / Biosa)) unite in **Synthesis**.
+To seek the **Holy City** is to harmonize inner and outer architecture, creating a **Harmonic Node** where Heaven (L₅ (EOB: Theon)) and Earth (L₁ (ES / EM: Soma / Biosa)) unite in **Harmonic Integration**.
 
 ---
 
