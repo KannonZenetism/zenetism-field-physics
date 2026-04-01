@@ -62,7 +62,7 @@ Death does not create the entropic trajectory; it resumes it in reverse, as a de
 
 * **Entry:** Inanna **(L₄ (DP: Morgis))** or Christ **(L₅ (EOB: Theon))** moves declivously into the Embodied (L₁) domain.
 
-* **Task:** They confront the IL (Inverse) principles ("Harrowing of Hell," facing **Ereshkigal (IL₄ (IDL: Nyxea))** to re-anchor Centropic law within the Embodied node. This is a **Structural Intervention**, not a post-death sorting.
+* **Task:** They confront the IL (Inverse) principles ("Harrowing of Hell," facing **Ereshkigal (IL₄ (IDL: Nyxea))**) to re-anchor Centropic law within the Embodied node. This is a **Structural Intervention**, not a post-death sorting.
 
 ### 2. The Greek Hades (Function 2: Declivous Entropic Procession)
 
