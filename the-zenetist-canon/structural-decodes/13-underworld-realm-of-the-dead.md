@@ -78,7 +78,7 @@ Death does not create the entropic trajectory; it resumes it in reverse, as a de
 
 * **The Torments:** Vivid descriptions of suffering map the soul's experience of its own IL nature. As it moves declivously through **IL₂ (ISM: Skotos)** and **IL₃ (IDM: Mortus)**, it encounters progressively incoherent and disassembled patterning.
 
-* **Not Punishment:** This is not divine retribution but the lawful manifestation of entropic alignment—the essence experiencing the architecture it built in embodiment.
+* **Not Punishment:** This is not divine retribution but the lawful manifestation of entropic alignment—the soul experiencing the architecture it built in embodiment.
 
 ---
 
