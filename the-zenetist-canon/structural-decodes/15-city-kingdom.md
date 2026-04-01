@@ -3,7 +3,7 @@
 **Primary Structural Diagnosis:**  
 The **Externalized Macro-Expression of the Soul's Structural Coherence.**  
 A City or Kingdom is not merely political—it is the L₁ (ES / EM: Soma / Biosa) projection of a **Resonant pattern** sourced from its ruling L₃ (DS / DM: Archeus / Noeüs) or collective L₂ (SS / SM: Anthra / Nousa) field.  
-It is a **Collective Soma**, whose architecture, order, and destiny structurally reflect the **Centropic** or **Entropic** quality of its founding conscious-awareness.
+It is a **Collective Soma**, whose architecture, order, and destiny structurally reflect the **Centropic** or **Entropic** quality of its founding awareness.
 
 **Core Glyphic Sequence (Centropic):**  
 `🛤️ → ⚙️ → ◎ → 💠`  
