@@ -68,7 +68,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 
 * **Focus:** The entropic procession as experienced torment.
 
-* **The Torments:** Vivid descriptions of suffering map the soul's experience of its own IL nature. As it moves declivously through IL₂ (ISS / ISM: Echthros / Skotos) and IL₃ (IDS / IDM: Fractus / Mortus), it encounters increasingly fragmented and hollow reflections of coherence.
+* **The Torments:** Vivid descriptions of suffering map the soul's experience of its own IL nature. As it moves declivously through **IL₂ (ISM: Skotos)** and **IL₃ (IDM: Mortus)**, it encounters increasingly fragmented and hollow reflections of coherence.
 
 * **Not Punishment:** This is not divine retribution but the lawful manifestation of entropic alignment—the soul experiencing the architecture it built in embodiment.
 
