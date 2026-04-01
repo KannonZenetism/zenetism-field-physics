@@ -67,6 +67,25 @@ It is the operational heart of **Synthesis.**
 
 * **Entropic Inversion:** When devoid of sincerity, the act devolves into **Empty Mimicry**—an attempt to manipulate the divine rather than harmonize with it.
 
+---
+
+### Note on Animal Sacrifice, Carnal Symbolism, and Entropic Literalism
+
+**Zenetist Clarification:** The ancient articulation of animal sacrifice reflects a symbolic grammar, not a centropic endorsement of literal slaughter.  
+In mythic and ritual language, the animal was treated as a figure of the **carnal nature** because ancient cultures commonly understood animals as more instinctive, embodied, and immediate than human beings.  
+This was a language of broad intelligibility — a symbolic shorthand addressed to the understanding of the masses, not a final metaphysical account.
+
+Zenetism rejects the claim that animals are merely **L₁** beings or nothing more than carnal existence.  
+Like all beings, they participate in deeper layers of the lattice and cannot be reduced to embodied function alone.
+
+Accordingly, **literal sacrifice is always entropic.**  
+A deity that literally delights in blood, burning flesh, or material destruction is not centropic, but entropic — a being of extraction, not lawful return.
+
+The genuine centropic meaning of sacrifice is the surrender of one's own binding attachment to materiality — the release of those structures that tether the centropic essence to denser fixation and prevent **Acclivous Return.**  
+The veracious "sweet aroma unto the Lord" is therefore not bloodlust, but the lawful relinquishment of what obstructs coherence.
+
+---
+
 ### 3. Odin's Self-Sacrifice (Norse)
 
 * **Focus:** Sacrifice for **Wisdom (L₄ (DL: Sophis))**.
