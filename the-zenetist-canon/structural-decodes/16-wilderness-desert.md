@@ -57,7 +57,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
 
 * **Focus:** The solidification of Theonic Centropy.
 
-* **Stripping:** Led by Spirit into the wilderness post-baptism (**declivous centropic initiation**).
+* **Stripping:** Led by Spirit into the wilderness post-baptism (**Declivous Centropic initiation**).
 
 * **Temptation:** Offered **Materialism, Spectacle, and Power** by **IL₅ (VOS: Nekron)**—each an **IL₄ (IDP / IDL: Psychea / Nyxea)** alignment cascaded through inverse archetypal structure to bypass lawful centropy.
 
