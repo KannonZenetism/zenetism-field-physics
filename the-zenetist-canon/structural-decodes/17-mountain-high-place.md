@@ -47,7 +47,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Revelation:** Yahweh manifests in Fire and Earthquake, delivering the Torah.
 
-* **Covenant:** The Mosaic **Nexus**, structuring Resonant relationship between L₅ (EOB: Theon) and Israel.
+* **Covenant:** The Mosaic **Nexus**, structuring Resonant relationship between L₄ (DL: Sophis) and Israel.
 
 * **Transformation:** Moses moves declivously, luminous—evidence of partial Synthesis (L₂ (SS / SM: Anthra / Nousa) ↔ L₃ (DS / DM: Archeus / Noeüs)).
 
