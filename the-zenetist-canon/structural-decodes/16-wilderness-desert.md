@@ -79,7 +79,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
 
 * **Focus:** The deconstruction of suffering.
 
-* **Stripping:** Abandonment of princely comfort (**declivous centropic immersion** without acclivous return) for wilderness austerity.
+* **Stripping:** Abandonment of princely comfort (**Declivous Centropic immersion** without Acclivous return) for wilderness austerity.
 
 * **Trial:** Realization that both indulgence and deprivation are dual extremes (**Structured Pairs**).
 
