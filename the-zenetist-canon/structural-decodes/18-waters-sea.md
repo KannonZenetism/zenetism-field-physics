@@ -7,7 +7,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 
 **Core Glyphic Sequence:**  
 `♾ → 〄 → {▽, ⊘, ↺, ⟳}`  
-*(From Latent Infinity, the Motive Pulse of Zenet stirs, unfolding into four directional motions: Declivous Centropy (embodiment), Declivous Entropy (collapse), Acclivous Centropy (return), or Acclivous Entropy (recursion).)*
+*(From Khaonic Potential, the total field of Motive Infinity activates, unfolding into four directional motions: Declivous Centropy (embodiment), Declivous Entropy (collapse), Acclivous Centropy (return), or Acclivous Entropy (recursion).)*
 
 ---
 
