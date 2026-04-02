@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Metaphysical Crucible of Individuation and Resonance Purification.**  
-The Wilderness is not an empty wasteland—it is a **Field of Becoming** defined by **Khaonic potential** and **Aionic stillness**.  
+The Wilderness is not an empty wasteland—it is a **Field of Becoming** defined by **L₀ (Bifurcal Coherence)**—the pre-dual ground of Aionic stillness and Khaonic potential in undifferentiated latency.  
 Free from Apparent Order, it forms the **Membrane** between Civilization (L₂ (SS / SM: Anthra / Nousa) collective) and Source (L₃ (DS / DM: Archeus / Noeüs)).  
 It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integration.**
 
