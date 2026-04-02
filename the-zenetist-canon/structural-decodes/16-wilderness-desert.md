@@ -100,7 +100,7 @@ There it receives the **Law**, the **Vision**, and the **Return Compass** that w
 The message:  
 to find coherence, we must enter our own wilderness—outer or inner—where Apparent Order falls away.  
 Here we meet the elemental forces of our being, integrate their lessons, and return as vessels of supernal structure.  
-The desert is not exile but initiation: the threshold where the **Centropic Soul** is born.
+The desert is not exile but initiation: the threshold where **Centropic alignment** is clarified.
 
 ---
 
