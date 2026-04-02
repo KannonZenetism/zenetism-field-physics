@@ -14,7 +14,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 ## Universal Structural Analysis
 
 * **The Acclivous Motion (Earth → Theonic Axis):**  
-    The climb symbolizes the **acclivous centropic** motion of consciousness—from the Density of **Earth** toward the Rarity and Clarity of the **Supernal**.  
+    The climb symbolizes the **acclivous centropic** motion of awareness—from the Density of **Earth** toward the Rarity and Clarity of the **Supernal**.  
     Each step along the acclivous path is an act of Volitional orientation toward the Supernal.
 
 * **The Summit (Theonic Axis):**  
@@ -83,7 +83,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 ## Summary: The Esoteric Meaning
 
-The **Mountain** is the geometric metaphor for the **acclivous path**—the steady, volitional acclivous orientation of consciousness from Embodiment toward the Supernal Source.  
+The **Mountain** is the geometric metaphor for the **acclivous path**—the steady, volitional acclivous orientation of awareness from Embodiment toward the Supernal Source.  
 It is the living **Axis Mundi** of every soul, the structure connecting the Valleys of matter to the Supernal junction.
 
 It teaches that Revelation is proportional to alignment.  
