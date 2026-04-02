@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Metaphysical Crucible of Individuation and Resonance Purification.**  
-The Wilderness is not an empty wasteland—it is a **Root‑Structural Crucible** defined by **L₀ (Bifurcal Coherence)**—the pre-dual ground where Aionic stillness and Khaonic motion coexist prior to centropic or entropic activation.  
+The Wilderness is not an empty wasteland—it is a **Root‑Structural Crucible** defined by **L₀ (Bifurcal Coherence)**—the root-structural ground where Aionic stillness and Khaonic motion coexist prior to centropic or entropic activation.  
 Free from Apparent Order, it forms the **Membrane** between Civilization (L₂ (SS / SM: Anthra / Nousa) collective) and Source (L₃ (DS / DM: Archeus / Noeüs)).  
 It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integration.**
 
