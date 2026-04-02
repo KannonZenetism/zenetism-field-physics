@@ -94,7 +94,7 @@ Its message:
 we are each climbers of the inner Mountain.  
 Meditation, prayer, and disciplined acclivity are our switchbacks.  
 Moments of insight and peace are Shelters along the path.  
-At the Summit lies Transfiguration—where the L₂ (SS / SM: Anthra / Nousa) becomes transparent to L₃ (DS / DM: Archeus / Noeüs), and the still air of L₀ (AP: Aion) whispers the Law of the Centropic band.
+At the Summit lies Transfiguration—where the L₂ (SS / SM: Anthra / Nousa) becomes transparent to L₃ (DS / DM: Archeus / Noeüs), and L₄ (DL: Sophis) whispers the Law of the Centropic band in the stillness of the Supernal junction.
 
 ---
 
