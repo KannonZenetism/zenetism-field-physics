@@ -87,7 +87,7 @@ The **Mountain** is the geometric metaphor for the **acclivous path**—the stea
 It is the living **Axis Mundi** of every soul, the structure connecting the Valleys of matter to the Supernal junction.
 
 It teaches that Revelation is proportional to alignment.  
-Law moves declivously upon those who climb acclivously, for altitude is both physical and moral geometry.  
+Law moves declivously upon those who climb acclivously, for orientation is both physical and moral geometry.  
 The **Covenant** is always made beyond the plains of distraction.
 
 Its message:  
