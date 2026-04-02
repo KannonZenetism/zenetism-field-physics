@@ -84,7 +84,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 
 ## Summary: The Esoteric Meaning
 
-The **Waters** represent the formless ground from which all worlds, beings, and ideas arise and into which they dissolve.  
+The **Waters** represent the primordial field from which worlds, beings, and ideas emerge into form and toward which relative structures may dissolve.  
 They are both **Origin** and **Oblivion**, **Womb** and **Tomb**—the vast field of **Potential** awaiting coherent shaping.
 
 They teach that to live is to sail: to traverse the unbounded Psyche with a Vessel of selfhood strong enough to withstand its tides.  
