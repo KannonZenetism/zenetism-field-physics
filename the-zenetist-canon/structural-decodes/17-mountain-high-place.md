@@ -86,7 +86,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 The **Mountain** is the geometric metaphor for the **acclivous path**—the steady, volitional acclivous orientation of consciousness from Embodiment toward the Supernal Source.  
 It is the living **Axis Mundi** of every soul, the structure connecting the Valleys of matter to the Supernal junction.
 
-It teaches that Revelation is proportional to elevation.  
+It teaches that Revelation is proportional to alignment.  
 Law moves declivously upon those who climb acclivously, for altitude is both physical and moral geometry.  
 The **Covenant** is always made above the plains of distraction.
 
