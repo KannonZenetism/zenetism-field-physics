@@ -1,9 +1,9 @@
 # Zenetist Structural Decode 18 — The Waters / The Sea
 
 **Primary Structural Diagnosis:**  
-The **Primordial Field of Root‑Structural Potential and Motive Infinity.**  
-The Waters symbolize **L₀ (Bifurcal Coherence)** in its primarily Khaonic expression—Dispersive potential is mobilized by Motive Infinity, though the Aionic stillness of the root‑structural ground underlies even the Deep.  
-They embody L₄ (DP: Morgis) in their unrefined aspect: the Collective Unconscious, Emotion, Intuition, and the Source of Life itself.
+The **Primordial Field of Root-Structural Potential and Motive Infinity.**  
+The Waters symbolize **L₀ (Bifurcal Coherence)** in its primarily Khaonic expression—Dispersive potential mobilized through Motive Infinity, while the Aionic stillness of the root-structural ground remains latent beneath the Deep.  
+They are the primal substrate containing every latent form and embody **L₄ (DP: Morgis)** in its unrefined aspect: the Collective Unconscious, Emotion, Intuition, and the Source of Life itself.
 
 **Core Glyphic Sequence:**  
 `♾ → 〄 → {▽, ⊘, ↺, ⟳}`  
