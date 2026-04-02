@@ -19,9 +19,9 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
     This is a Deconstruction of the Superficial Soul—reducing it to its Essential resonance.
 
 * **The Encounter with Raw Potential (Bifurcal Coherence):**  
-    The Wilderness is **L₀ (Bifurcal Coherence)**—the pre-dual, root‑structural ground.  
-    It holds both danger (Entropic predators, scarcity) and opportunity (Revelation, renewal).  
-    Its neutrality—neither centropically nor entropically activated—makes it the perfect testing ground for genuine individuation.
+    The Wilderness is **L₀ (Bifurcal Coherence)**—the root-structural ground where neither centropic nor entropic motion has yet activated.  
+    It holds both danger (entropic predators, scarcity) and opportunity (revelation, renewal).  
+    Its neutrality makes it the perfect testing ground for genuine individuation.
 
 * **The Trial & The Temptation (Entropic Pull):**  
     Here the **Tempter (IL₅ (VOS: Nekron))** confronts the seeker through **IL₄ (IDP / IDL: Psychea / Nyxea)** instruments—shortcuts to power or comfort that bypass lawful centropy.  
