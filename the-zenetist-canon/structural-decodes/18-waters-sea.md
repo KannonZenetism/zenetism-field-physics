@@ -43,7 +43,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 
 ### 1. The Cosmic Waters of Genesis
 
-* **Focus:** The Pre-Structured Field of All Potential.
+* **Focus:** The Root‑Structural Field of All Potential.
 
 * **State:** "Darkness upon the face of the deep."
 
