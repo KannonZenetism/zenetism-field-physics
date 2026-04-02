@@ -19,7 +19,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 
 * **The Stirring / The Breath (Zenet / Motive Infinity):**  
     The first motion within stillness—the Wind or Word that glides over the face of the deep.  
-    This represents not only the initiating pulse of Emanation but the total field of active motion—Motive Infinity as the sustained domain of becoming through which all traversal, differentiation, and bifurcation proceed until motion exhausts into Dispersive Infinity.
+    This symbolizes **Motive Infinity**—not merely the initiating pulse of Emanation, but the total field of motion through which all traversal, differentiation, and bifurcation occur until motion exhausts into **Dispersive Infinity**.
 
 * **The Separation of Waters (Structured Pairs):**  
     The Waters Above (Supernal — L₄ (DP / DL: Morgis / Sophis)) are divided from the Waters Below (Embodied — L₁ (ES / EM: Soma / Biosa)).  
