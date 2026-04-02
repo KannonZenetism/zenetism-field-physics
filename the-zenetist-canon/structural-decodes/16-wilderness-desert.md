@@ -18,10 +18,10 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
     Entry into the Wilderness requires abandoning the constructed identities and comforts of the City (L₂ (SS / SM: Anthra / Nousa) collective).  
     This is a Deconstruction of the Superficial Soul—reducing it to its Essential resonance.
 
-* **The Encounter with Raw Potential (Field of Becoming):**  
-    The Wilderness is **L₀ (Bifurcal Coherence)** in its latent, root‑structural form.  
+* **The Encounter with Raw Potential (Bifurcal Coherence):**  
+    The Wilderness is **L₀ (Bifurcal Coherence)**—the pre-dual, root‑structural ground.  
     It holds both danger (Entropic predators, scarcity) and opportunity (Revelation, renewal).  
-    Its neutrality makes it the perfect testing ground for genuine individuation.
+    Its neutrality—neither centropically nor entropically activated—makes it the perfect testing ground for genuine individuation.
 
 * **The Trial & The Temptation (Entropic Pull):**  
     Here the **Tempter (IL₄ (IDP / IDL: Psychea / Nyxea))** confronts the seeker, offering shortcuts to power or comfort that bypass lawful Centropy.  
