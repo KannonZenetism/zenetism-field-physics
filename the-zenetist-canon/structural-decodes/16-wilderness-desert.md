@@ -24,7 +24,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
     Its neutrality—neither centropically nor entropically activated—makes it the perfect testing ground for genuine individuation.
 
 * **The Trial & The Temptation (Entropic Pull):**  
-    Here the **Tempter (IL₄ (IDP / IDL: Psychea / Nyxea))** confronts the seeker, offering shortcuts to power or comfort that bypass lawful Centropy.  
+    Here the **Tempter (IL₅ (VOS: Nekron))** confronts the seeker through **IL₄ (IDP / IDL: Psychea / Nyxea)** instruments—shortcuts to power or comfort that bypass lawful centropy.  
     These temptations—security, power, and validation—test the sovereignty of the emerging Attractor.
 
 * **The Revelation & The Guide (Signal / Revelation):**  
