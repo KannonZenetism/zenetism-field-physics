@@ -23,7 +23,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **The Revelation:**  
     The Mountain is the archetypal site of **Theophany**—Divine disclosure.  
-    Here, consciousness receives data from supernal hypostases, ranging from L₃ (DM: Noeüs) insight to direct L₅ (EOB: Theon) manifestation.
+    Here, awareness receives data from supernal hypostases, ranging from L₃ (DM: Noeüs) insight to direct L₅ (EOB: Theon) manifestation.
     Fire, cloud, and silence each represent forms of **Revelatory Frequency.**
 
 * **The Covenant / The Law (Nexus):**  
