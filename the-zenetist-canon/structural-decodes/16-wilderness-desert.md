@@ -49,7 +49,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
 
 * **Trial:** Hunger, thirst, and nostalgia for bondage—the pull of Entropic familiarity.
 
-* **Revelation:** The Law (L₄ (DL: Sophis)) revealed at Sinai, Yahweh manifesting as Theonic presence.
+* **Revelation:** The Law (**L₄ (DL: Sophis)**) is revealed at Sinai, Yahweh manifesting **L₄ (DL: Sophis) law through supernal theophany.**
 
 * **Forging:** The 40-year Recursion purges the Slave Mentality, enabling entry into a new L₁ (ES / EM: Soma / Biosa) World Node (Promised Land).
 
