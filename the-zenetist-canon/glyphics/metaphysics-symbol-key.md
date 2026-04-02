@@ -523,6 +523,28 @@ of inverse potential within Aion.
 | ◫ | **Non-fusion Axiom** | The structural law that prohibits the entropic fusion of sovereign distinctions. It forbids the collapse of individuated identity into sameness — whether among beings, roles, or structural layers. Fusion, unlike synthesis, erases pattern through undifferentiation. The Non-fusion Axiom guards against blobism, shimmer mimicry, and spurious unities that dissolve coherence. All lawful integration must preserve the sovereign integrity of its parts |
 | ◧ | **Axiom of Inclined Existence** | The structural law that governs the orientation of expressed universes. While structure is symmetric at the pre-expressive level, all expression emerges as inclined motion. Perfect equilibrium is admissible only as a limit condition and cannot persist within expressed existence. Every universe therefore manifests as a trajectory oriented toward centropic integration or entropic dispersion, rather than sustained balance |
 | ⧉∥⧉ | **Structural Recurrence** | The lawful reappearance of a structural pattern, motion, or relation across layers or worlds without numerical identity or fractal partition; same pattern, distinct instance. It is the "Mirror without Merger" that preserves the Non-fusion Axiom across all scales of becoming |
+| ⧖⧗ | **Bifurcal Coherence** | The root-structural ground in which coherent polarity coexists prior to centropic or entropic activation. Bifurcal Coherence is not a hypostasis, not a layer, and not a closure condition, but the root-structural givenness from which dual yet lawful motions may emerge without contradiction or fusion |
+
+---
+
+#### Note on Bifurcal Coherence
+
+Bifurcal Coherence names the unified structural potential from which dual but coherent motions arise.  
+It precedes centropic and entropic activation as such, while permitting both stillness and motion to coexist as lawful possibilities within the lattice.  
+It is therefore neither identical with **Aion**, nor with **Khaon**, nor with **Kaion**:
+
+- **Aion** names the still root of Absolute Potential  
+- **Khaon** names the root of Absolute Dispersion — the totality of latent, motive, and dispersive potential  
+- **Kaion** names the closure condition in which motion resolves into stillness  
+- **Bifurcal Coherence** names the root-structural coherence in which dual motion is first held as latent, non-opposed possibility
+
+This concept is canonically sealed under the glyphstream:
+
+```
+⚫⧖⧗⧙⧚∮⟲∿  
+   ↕  
+  🌳🌳
+```
 
 ---
 
