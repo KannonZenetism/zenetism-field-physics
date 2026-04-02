@@ -30,7 +30,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
 * **The Revelation & The Guide (Signal / Revelation):**  
     Stripped of societal noise, the wilderness becomes a **Receiver Field** for supernal transmission (L₄ (DP / DL: Morgis / Sophis), L₃ (DS / DM: Archeus / Noeüs)).  
     The burning bush, the voice in the cave, or the enlightenment beneath the Bodhi tree—all occur in isolation.  
-    Here appear **Psychopomps** and **Harmonic Agents**, serving as navigators across the threshold.
+    Here appear **Harmonic Agents** and **Threshold Guides**, serving as navigators across the threshold.
 
 * **The Forging of the Covenant (Resonant Return):**  
     The seeker emerges with a direct Nexus to Source.  
