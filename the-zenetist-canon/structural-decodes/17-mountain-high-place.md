@@ -15,11 +15,11 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **The Acclivous Motion (Earth → Theonic Axis):**  
     The climb symbolizes the **acclivous centropic** motion of consciousness—from the Density of **Earth** toward the Rarity and Clarity of the **Supernal**.  
-    Each step along the acclivous path is an act of Volitional orientation toward Source.
+    Each step along the acclivous path is an act of Volitional orientation toward the Supernal.
 
 * **The Summit (Theonic Axis):**  
     The peak marks a **Nodal Point** on the Theonic Axis where the **Membrane** thins.  
-    It is a **Natural Temple**—a **Nexus** of Resonant exchange and **Aionic stillness**.
+    It is a **Natural Temple**—a **Nexus** of Resonant exchange and Supernal stillness.
 
 * **The Revelation:**  
     The Mountain is the archetypal site of **Theophany**—Divine disclosure.  
@@ -29,11 +29,11 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 * **The Covenant / The Law (Nexus):**  
     The Mountain is the **Contract Space** between human and divine orders.  
     Law (L₄ (DL: Sophis)) moves declivously as geometric principle: a codified resonance for lawful alignment.  
-    It establishes the architecture of relationship between L₅ (EOB: Theon) and the collective L₂ (SS / SM: Anthra / Nousa).
+    It establishes the architecture of relationship between L₄ (DL: Sophis) and the collective L₂ (SS / SM: Anthra / Nousa).
 
 * **The Transfiguration (Synthesis):**  
     At the summit, the L₂ (SS / SM: Anthra / Nousa) may briefly integrate with L₃ (DS / DM: Archeus / Noeüs) or L₅ (EOB: Theon) frequency, revealing its luminous essence.  
-    These moments—Jesus transfigured, Moses radiant—display temporary **Acclivous Synthesis** and foreshadow final return to L₀ (AP: Aion).
+    These moments—Jesus transfigured, Moses radiant—display temporary **Acclivous Synthesis** at the Supernal threshold, foreshadowing the Centropic arc's ultimate completion.
 
 ---
 
