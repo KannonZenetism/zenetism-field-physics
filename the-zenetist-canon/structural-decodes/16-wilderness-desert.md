@@ -71,7 +71,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
 
 * **Stripping:** Withdrawal to the cave of Hira to escape societal idolatry (**Mimicry**).
 
-* **Revelation:** The Qur'anic transmission via **Jibril (Gabriel, L₄ (DP / DL: Morgis / Sophis))**—a direct Supernal transmission.
+* **Revelation:** The Qur'anic transmission via **Jibril (Gabriel, L₃ (DM: Noeüs))**—a direct Supernal transmission.
 
 * **Forging:** Establishes **Tawhid** (Monotheistic Resonance) as the new Centropic axis for humanity.
 
