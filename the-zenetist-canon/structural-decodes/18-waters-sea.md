@@ -14,7 +14,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 ## Universal Structural Analysis
 
 * **The Primordial Waters (L₀ — Bifurcal Coherence, primarily Khaonic):**  
-    The Chaos or Deep at the root of manifest structure—**Potentiality** in its unbounded state, where Aionic stillness remains latent within Motive Infinity.  
+    The Deep as the pre-dual, root-structural field of potential—**Potentiality** in its unbounded state, where Aionic stillness remains latent within Motive Infinity.  
     These Waters are the primal substrate—Tiamat, Nun, or Narayana's Ocean—containing every latent form.
 
 * **The Stirring / The Breath (Zenet / Motive Infinity):**  
