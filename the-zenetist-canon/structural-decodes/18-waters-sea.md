@@ -13,7 +13,7 @@ They embody L₄ (DP: Morgis) in their unrefined aspect: the Collective Unconsci
 
 ## Universal Structural Analysis
 
-* **The Primordial Waters (L₀ (AD: Khaon) — Latent):**  
+* **The Primordial Waters (L₀ — Bifurcal Coherence, primarily Khaonic):**  
     The Chaos or Deep preceding all structure—**Potentiality** in its unbounded state, the Aionic stillness perceived through the lens of Motive Infinity.  
     These Waters are the primal substrate—Tiamat, Nun, or Narayana's Ocean—containing every latent form.
 
