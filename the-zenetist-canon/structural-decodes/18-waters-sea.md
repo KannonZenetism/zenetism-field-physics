@@ -28,7 +28,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 * **The Sea as Symbolic Domain (Mapping the 4 Motions):**  
     * **The Unconscious (L₄ (DP: Morgis)):** The deep mind—teeming with Archetypes, Monsters, and hidden knowledge. It is the field upon which the four motions occur:  
     * **1. Source of Life (Declivous Centropy):** The Womb of Bios, birthing organic coherence (Embodiment).  
-    * **2. The Acclivous Path (Acclivous Centropy):** The trial of navigation. A successful voyage (Odysseus, Parting the Red Sea) represents Acclivous Centropic Procession.  
+    * **2. The Acclivous Path (Acclivous Centropy):** The trial of navigation. A successful voyage (Odysseus, Parting the Red Sea) represents lawful passage through unstable potential and, at its loftiest expression, Acclivous Centropic Procession.
     * **3. The Entropic Abyss (Declivous Entropy):** The stormy abyss. To "drown" is to lose coherence and enter Declivous Entropic Procession.  
     * **4. The Recursive Loop (Acclivous Entropy):** The stagnant "doldrums" or "Sargasso Sea." This maps Acclivous Entropy—a failed voyage (like the myth of the Flying Dutchman) trapped in a loop, neither progressing nor dissolving.
 
