@@ -57,7 +57,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Approach:** Jesus reenacts the Sinai archetype, climbing to speak.
 
-* **Revelation:** Delivers the Beatitudes—L₄ (DL: Sophis) refined through Compassion.
+* **Revelation:** Delivers the Beatitudes—L₄ (DL: Sophis) Law refined through L₄ (DP: Morgis) Compassion.
 
 * **Covenant:** The "Law of the Heart" inaugurates the **Kingdom of Heaven** as an **acclivous centropic** state.
 
