@@ -55,7 +55,7 @@ They embody L₄ (DP: Morgis) in their unrefined aspect: the Collective Unconsci
 
 * **Focus:** The Khaonic Reset.
 
-* **Mechanism:** The Waters dissolve corrupted structure, returning it to Latent Potential.
+* **Mechanism:** The Waters dissolve corrupted relative structure through Dispersive motion, returning it to Latent Potential for a new Centropic phase.
 
 * **Purpose:** To cleanse systemic Entropy, enabling a new Centropic phase.
 
