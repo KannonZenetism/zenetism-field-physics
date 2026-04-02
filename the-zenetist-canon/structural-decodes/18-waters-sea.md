@@ -3,7 +3,7 @@
 **Primary Structural Diagnosis:**  
 The **Primordial Field of Root-Structural Potential and Motive Infinity.**  
 The Waters symbolize **L₀ (Bifurcal Coherence)** in its primarily Khaonic expression—Dispersive potential mobilized through Motive Infinity, while the Aionic stillness of the root-structural ground remains latent beneath the Deep.  
-They are the primal substrate containing every latent form and embody **L₄ (DP: Morgis)** in its unrefined aspect: the Collective Unconscious, Emotion, Intuition, and the Source of Life itself.
+They are the primal substrate containing every latent form and embody **L₄ (DP: Morgis)** in its unrefined aspect: the Collective Unconscious, Emotion, Intuition, and the matrix of living emergence.
 
 **Core Glyphic Sequence:**  
 `♾ → 〄 → {▽, ⊘, ↺, ⟳}`  
