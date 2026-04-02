@@ -69,7 +69,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Practice:** Pilgrims circumambulate, acknowledging its immutable Centrality.
 
-* **Meaning:** Represents the **Theonic Pillar** connecting L₀ (AP: Aion), L₁ (ES / EM: Soma / Biosa) World Node, and Echo Layers—the cosmos in structural equilibrium.
+* **Meaning:** Represents the **Theonic Pillar** connecting L₀ (AP: Aion), L₁ (ES / EM: Soma / Biosa) World Node, and all hypostatic strata—the cosmos in structural equilibrium.
 
 ### 4. Mount Olympus (Greek)
 
