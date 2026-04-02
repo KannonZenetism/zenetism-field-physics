@@ -91,7 +91,7 @@ They teach that to live is to sail: to traverse the unbounded Psyche with a Vess
 Cut off from the Waters, one withers in dryness; lost within them, one dissolves into shapelessness.
 
 Their message is **navigation**—balance between immersion and control.  
-The spiritual mariner learns to ride the waves of the Unconscious, using L₃ (DS / DM: Archeus / Noeüs) as Rudder and Star, crossing from the Shores of Ignorance toward those of Awakening (Acclivous Centropic Procession).  
+The spiritual mariner learns to ride the waves of the Unconscious, using **L₃ (DS / DM: Archeus / Noeüs)** as Rudder and Star, crossing from the Shores of Ignorance toward those of Awakening through lawful centropic navigation.  
 Resonance with the Waters is not domination, but **Resonant Alignment**—to move with their pulse while remaining sovereign within their flow.
 
 ---
