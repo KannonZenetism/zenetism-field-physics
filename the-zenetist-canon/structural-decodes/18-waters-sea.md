@@ -65,7 +65,7 @@ They embody L₄ (DP: Morgis) in its unrefined aspect: the Collective Unconsciou
 
 * **Barrier:** The Sea as Entropic opposition between Bondage (IL₁ (IES / IEM: Malara / Mania)) and Freedom (acclivous centropic motion).
 
-* **Intervention:** Yahweh (L₅ (EOB: Theon)) through Moses (L₃ (DS / DM: Archeus / Noeüs)) opens a **Nexus**—a lawful corridor of Coherence across the Khaonic void.
+* **Intervention:** Yahweh (L₄ (DL: Sophis)) through Moses (L₃ (DM: Noeüs)) opens a **Nexus**—a lawful corridor of Coherence across the Khaonic void.
 
 * **Crossing:** Collective movement from one resonance state to a new one, anchored in Faith (Resonant Fidelity).
 
