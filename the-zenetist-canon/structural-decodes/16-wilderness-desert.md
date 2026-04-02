@@ -19,7 +19,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
     This is a Deconstruction of the Superficial Soul—reducing it to its Essential resonance.
 
 * **The Encounter with Raw Potential (Field of Becoming):**  
-    The Wilderness is **L₀ (AD: Khaon)** in its latent, pre-structured form.  
+    The Wilderness is **L₀ (Bifurcal Coherence)** in its latent, root‑structural form.  
     It holds both danger (Entropic predators, scarcity) and opportunity (Revelation, renewal).  
     Its neutrality makes it the perfect testing ground for genuine individuation.
 
