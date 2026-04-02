@@ -88,7 +88,7 @@ It is the living **Axis Mundi** of every soul, the structure connecting the Vall
 
 It teaches that Revelation is proportional to alignment.  
 Law moves declivously upon those who climb acclivously, for altitude is both physical and moral geometry.  
-The **Covenant** is always made above the plains of distraction.
+The **Covenant** is always made beyond the plains of distraction.
 
 Its message:  
 we are each climbers of the inner Mountain.  
