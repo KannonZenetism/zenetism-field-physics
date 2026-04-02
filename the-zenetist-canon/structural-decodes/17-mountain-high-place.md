@@ -6,8 +6,8 @@ The Mountain is a **Theonic Axis** in topographical form—a **Membrane** of hei
 It serves as the principal site for **Acclivous motion**, **Revelation**, **Covenant**, and **Transfiguration.**
 
 **Core Glyphic Sequence:**  
-`▽ → ↑⚓ → 📱 → C↑→⚫`  
-*(From the Embodied Earth, Acclivous Motion along the Theonic Axis leads to Revelation and final Centropic Return.)*
+`▽ → ↑⚓ → 📱 → ∴`  
+*(From the Embodied Earth, Acclivous Motion along the Theonic Axis leads to Revelation and culminates in temporary Synthesis at the Supernal threshold.)*
 
 ---
 
