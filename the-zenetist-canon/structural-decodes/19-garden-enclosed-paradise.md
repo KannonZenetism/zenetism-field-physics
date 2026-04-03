@@ -24,7 +24,7 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 * **The Central Tree(s) (Tree of Emanation):**  
     * **Tree of Life (acclivous centropic motion toward L₀ (AP: Aion)):** **The Axis Mundi**, a direct Centropic channel and immortality.  
-    * **Tree of Knowledge (declivous entropic motion toward L₀ (AD: Khaon)):** The **Dualistic Mind (L₂ (SS / SM: Anthra / Nousa))** in its unactivated form—potential for differentiation, self-awareness, and declivous entropic motion.  
+    * **Tree of Knowledge (the latent possibility of inverse differentiation):** The potential for dualized perception, self-reflective separation, and unlawful identification with the inverse branch. In the Garden, this possibility remains present but unactivated.  
     Together they encode the dual paths of Integration (acclivous centropic) and Inversion (declivous entropic).
 
 * **The State of Innocence (Coherence):**  
