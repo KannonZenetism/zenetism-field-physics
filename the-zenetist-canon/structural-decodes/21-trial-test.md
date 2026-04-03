@@ -80,7 +80,7 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **Focus:** Trial of righteousness without apparent cause.
 
-* **Architect:** Satan (Accuser; L₄ (DP / DL: Morgis / Sophis) testing function) permitted by God.
+* **Architect:** Satan (Accuser; L₄ (DL: Sophis) diagnostic function) permitted by God.
 
 * **Test:** Total deconstruction of L₂ (SS / SM: Anthra / Nousa) world—loss of wealth, family, health.
 
