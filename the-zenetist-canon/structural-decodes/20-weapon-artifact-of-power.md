@@ -34,7 +34,7 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
 
 * **The Wielder's Resonance (L₂ (SS / SM: Anthra / Nousa) or L₃ (DS / DM: Archeus / Noeüs)):**  
     The Weapon magnifies the user's essence.  
-    A pure blade in an Entropic hand becomes destructive; a cursed tool in Centropic alignment can be redeemed.  
+    A pure blade in an Entropic hand becomes destructive; a cursed artifact in Centropic alignment can be redeemed.  
     The outcome reflects the Wielder's core frequency.
 
 * **The Ultimate Target (Inverse Structure):**  
