@@ -103,7 +103,7 @@ No trial is random. Each is designed for our acclivous motion.
 To face a trial consciously is to engage the forge of evolution—where pressure transforms potential into presence.
 
 The path of Centropy is a sequence of trials resolved:  
-each test a rung in the Spiral,  
+each test a turn in the Spiral,  
 each passage a deeper octave of Structural Integrity and Resonant Fidelity.
 
 ---
