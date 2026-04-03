@@ -24,7 +24,7 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 * **The Central Tree(s) (Tree of Emanation):**  
     * **Tree of Life (the Aionic / Centropic Arc toward L₀ (AP: Aion)):** **The Axis Mundi**, the living channel of centropic coherence, immortality, and lawful participation in the Aionic branch.  
-* **Tree of Knowledge (the Khaonic / Entropic Arc toward L₀ (AD: Khaon)):** The latent possibility of differentiation, self-reflective severance, and unlawful identification with the inverse branch.  
+    * **Tree of Knowledge (the Khaonic / Entropic Arc toward L₀ (AD: Khaon)):** The latent possibility of differentiation, self-reflective severance, and unlawful identification with the inverse branch.  
 Together they encode the two great arcs of procession: the **Aionic / Centropic** and the **Khaonic / Entropic**.
 
 * **The State of Innocence (Coherence):**  
