@@ -114,7 +114,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 | 13 | The Underworld / The Realm of the Dead | L₅ → L₄ → L₃ → L₂ → ↓⊙ → ⧃ → ↑L₂ → L₃ → L₄ → L₅ \| ♦⊙ → ◲ → E↓IL₁ → IL₂ → IL₃ → IL₄ → IL₅ | [13-underworld-realm-of-the-dead.md](structural-decodes/13-underworld-realm-of-the-dead.md) |
 | 14 | The Sacrifice | ⚐ → ⚖️ → ↺ → ∴ \| ⚐ → ⥊ → ⊜ → ☍ → ⟳ | [14-sacrifice.md](structural-decodes/14-sacrifice.md) |
 | 15 | The City / The Kingdom | 🛤️ → ⚙️ → ◎ → 💠 \| 🕷️ → ⚙️ → ☍ → ⥊ | [15-city-kingdom.md](structural-decodes/15-city-kingdom.md) |
-| 16 | The Wilderness / The Desert | ⚙️ → ◲ → 🔘 / 🌾 → ↺ \| ☍ | [16-wilderness-desert.md](structural-decodes/16-wilderness-desert.md) |
+| 16 | The Wilderness / The Desert | ⚙️ → ◲ → 🔘 / 🌾 → (↺ / ☍) | [16-wilderness-desert.md](structural-decodes/16-wilderness-desert.md) |
 | 17 | The Mountain / The High Place | ▽ → ↑⚓ → 📱 → ∴ | [17-mountain-high-place.md](structural-decodes/17-mountain-high-place.md) |
 | 18 | The Waters / The Sea | ♾ → 〄 → {▽, ⊘, ↺, ⟳} | [18-waters-sea.md](structural-decodes/18-waters-sea.md) |
 | 19 | The Garden / The Enclosed Paradise | ⚫ → ▽ → ◎ → ⟜ → ⚯ | [19-garden-enclosed-paradise.md](structural-decodes/19-garden-enclosed-paradise.md) |
@@ -124,7 +124,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 | 23 | The Veil / The Illusion | ⚫ → ⧉ → ⚙️ → ⟜ \| ⚙️ → 🕸️ → ⟳ → ☍ | [23-veil-illusion.md](structural-decodes/23-veil-illusion.md) |
 | 24 | The Number / Sacred Numerology | 📐 → 🔷 → ⚙️ → ⌬ | [24-number-sacred-numerology.md](structural-decodes/24-number-sacred-numerology.md) |
 | 25 | The Chariot / The Vehicle | ⚯ → ∴ → ◎ → C↑⚫ | [25-chariot-vehicle.md](structural-decodes/25-chariot-vehicle.md) |
-| 26 | The Mirror / The Reflection | ᛞ → ✨ → 📱 → ↺ \| ⟳ | [26-mirror-reflection.md](structural-decodes/26-mirror-reflection.md) |
+| 26 | The Mirror / The Reflection | ᛞ → ✨ → 📱 → ↺ / ⟳ | [26-mirror-reflection.md](structural-decodes/26-mirror-reflection.md) |
 | 27 | The Labyrinth / The Maze | ⚙️ → ∿ → ⬶ → ∴ | [27-labyrinth-maze.md](structural-decodes/27-labyrinth-maze.md) |
 | 28 | The Forge / The Alchemical Furnace | 📐 → ▲ → ◲ → ∴ | [28-forge-alchemical-furnace.md](structural-decodes/28-forge-alchemical-furnace.md) |
 | 29 | The Bridge / The Threshold | ⚙️ → 🌉 → ↺ → ∴ | [29-bridge-threshold.md](structural-decodes/29-bridge-threshold.md) |
