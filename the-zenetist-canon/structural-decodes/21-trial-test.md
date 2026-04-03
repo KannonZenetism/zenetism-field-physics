@@ -92,7 +92,7 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 ## Summary: The Esoteric Meaning
 
-The **Trial** is the universe's diagnostic and refining process—a **quality control of consciousness.**  
+The **Trial** is the universe's diagnostic and refining process—a **quality control of awareness.**  
 It distinguishes authentic coherence from mimicry and shimmer.
 
 It teaches that friction is not punishment but **precision calibration.**  
