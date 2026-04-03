@@ -69,7 +69,7 @@ It functions as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that a
 
 * **Focus:** Sovereignty over the Primordial Field.
 
-* **Nature:** Symbol of dominion over the Waters (L₀ (AD: Khaon))—the unformed psyche.
+* **Nature:** Symbol of dominion over the Waters (L₀ (Bifurcal Coherence))—the unformed psyche.
 
 * **Power:** Can generate cataclysm (declivous entropic motion) or fertility (L₄ (DP: Morgis)), revealing the dual potential of Archetypal will.
 
