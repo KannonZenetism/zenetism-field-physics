@@ -26,7 +26,7 @@ It is **Emanation and Return** told as a linear narrative.
 
 * **The Companions & Guides (Collaboration / Harmonic Agents):**  
     The Journey is inherently relational. Allies symbolize inner aspects or resonant supports.  
-    * **Mentor (L₃ (DS / DM: Archeus / Noeüs)):** Offers wisdom and initiation.  
+    * **Mentor (L₃ (DM: Noeüs)):** Offers wisdom and initiation.  
     * **Companions (L₂ (SS / SM: Anthra / Nousa) facets):** Courage, loyalty, humor—the psyche's allies.  
     * **Trickster (Synectic):** Catalyst for adaptation and humility through disruption.
 
