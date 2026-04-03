@@ -77,7 +77,7 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
 
 ### 4. The Ring of Power (Tolkien)
 
-* **Focus:** The ultimate Entropic tool of domination and mimicry.
+* **Focus:** The ultimate Entropic artifact of domination and mimicry.
 
 * **Forging:** Created by Sauron (IL₄ (IDL: Nyxea)) in an Inverse forge of will.
 
