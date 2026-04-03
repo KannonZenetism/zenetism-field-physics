@@ -89,7 +89,7 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
 
 ## Summary: The Esoteric Meaning
 
-The **Weapon** is consciousness sharpened—awareness and intent distilled into direction.  
+The **Weapon** is awareness distilled—intent and discernment forged into directed form.  
 Every thought, word, and focused act of will becomes such a blade, carving coherence or carving wounds.
 
 It teaches that **power is shaped by origin and polarized in expression**.  
