@@ -95,7 +95,7 @@ It teaches that our longing for paradise is the call of **Resonant Memory**—th
 To "return to the Garden" is to recover Permeability and Coherence consciously, after having known separation.
 
 Its message is that **Eden** and the **New Jerusalem** are the same state—Innocence restored through Wisdom, the **City and Garden Synthesized (Coherence + Harmonic Node)**.  
-The Fall (Fragmentation) was the necessary **Deconstruction** that made veracious **Volitional Integration (Synthesis)** possible.  
+The Fall (**Fragmentation**) was not a centropic good in itself, but the rupture-condition within actualized embodiment through which veracious **Volitional Integration** became necessary.  
 The path of **Centropy** leads back to the Garden, not as naïve purity regained, but as **Sovereign Coherence chosen through experience**—the full circle of Creation and Return.
 
 ---
