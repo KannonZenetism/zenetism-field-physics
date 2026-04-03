@@ -80,7 +80,7 @@ It is **Emanation and Return** told as a linear narrative.
 
 * **Focus:** Collective quest for the reconciling principle.
 
-* **Goal:** The Golden Fleece—sovereign L₃ (DS / DM: Archeus / Noeüs) authority.
+* **Goal:** The Golden Fleece—sovereign L₃ (DS: Archeus) coherence.
 
 * **Crew:** Diverse archetypal strengths forming harmonic collaboration.
 
