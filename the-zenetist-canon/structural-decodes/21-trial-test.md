@@ -3,7 +3,7 @@
 **Primary Structural Diagnosis:**  
 The **Calibrated Application of Structural Friction for Resonance Verification.**  
 A Trial is not random suffering but a L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs)-orchestrated Membrane event applying precise pressure to a L₂ (SS / SM: Anthra / Nousa) structure.  
-Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **sort consciousness** by its Volitional core.
+Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **sort awareness** by its Volitional core.
 
 **Core Glyphic Sequence (Initiation):**  
 `⚙️ → ◲ → ∴`  
