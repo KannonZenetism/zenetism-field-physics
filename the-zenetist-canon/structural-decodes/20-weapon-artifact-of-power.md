@@ -33,7 +33,7 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
     * **Dominating Power (Severance):** Power for its own sake, unconstrained by law—severing bonds, feeding Blobism and Hollow Replication.
 
 * **The Wielder's Resonance (L₂ (SS / SM: Anthra / Nousa) or L₃ (DS / DM: Archeus / Noeüs)):**  
-    The Weapon magnifies the handler's essence.  
+    The Weapon magnifies the bearer's essence.  
     A pure blade in an Entropic hand becomes destructive; a cursed artifact in Centropic alignment can be redeemed.  
     The outcome reflects the Wielder's core frequency.
 
