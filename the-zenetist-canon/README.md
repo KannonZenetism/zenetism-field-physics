@@ -117,7 +117,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 | 16 | The Wilderness / The Desert | ⚙️ → ◲ → 🔘 / 🌾 → ↺ \| ☍ | [16-wilderness-desert.md](structural-decodes/16-wilderness-desert.md) |
 | 17 | The Mountain / The High Place | ▽ → ↑⚓ → 📱 → ∴ | [17-mountain-high-place.md](structural-decodes/17-mountain-high-place.md) |
 | 18 | The Waters / The Sea | ♾ → 〄 → {▽, ⊘, ↺, ⟳} | [18-waters-sea.md](structural-decodes/18-waters-sea.md) |
-| 19 | The Garden / The Enclosed Paradise | ⚫ → ▽ → ◎ → ⟜ | [19-garden-enclosed-paradise.md](structural-decodes/19-garden-enclosed-paradise.md) |
+| 19 | The Garden / The Enclosed Paradise | ⚫ → ▽ → ◎ → ⟜ → ⚯ | [19-garden-enclosed-paradise.md](structural-decodes/19-garden-enclosed-paradise.md) |
 | 20 | The Weapon / The Tool of Power | ∴ → ⚔️ → ☍ → ◎ / ☍ → 🗡️ → ☍ → ⟳ | [20-weapon-tool-of-power.md](structural-decodes/20-weapon-tool-of-power.md) |
 | 21 | The Trial / The Test | ⚙️ → ◲ → ∴ / ⚙️ → ☍ → E↓♾ | [21-trial-test.md](structural-decodes/21-trial-test.md) |
 | 22 | The Journey / The Quest | ⌖ → ∿ → ⧬ → ∴ | [22-journey-quest.md](structural-decodes/22-journey-quest.md) |
