@@ -50,7 +50,7 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 * **Trees:** Present the primal choice—abide within the Aionic arc of Centropic coherence or pursue the Khaonic arc of Entropic differentiation.
 
-* **State:** Naked and unashamed (Coherence), in naïve Resonance with L₃ (DM: Noeüs), perceiving the Aionic Tree without mediation.
+* **State:** Naked and unashamed (Coherence), in direct Resonance with L₃ (DM: Noeüs), perceiving the Aionic Tree without mediation.
 
 * **Guardian:** Cherubim (L₄ (DP / DL: Morgis / Sophis)) with a flaming sword post-Fall—symbol of the sealed **Membrane**, guarding re-entry until Volitional Synthesis.
 
