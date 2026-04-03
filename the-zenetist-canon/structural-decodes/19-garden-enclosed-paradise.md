@@ -23,9 +23,9 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
     This represents L₄ (DP: Morgis), the benevolent, animating flow of vitality from the Supernal into rhythmic manifestation.
 
 * **The Central Tree(s) (Tree of Emanation):**  
-    * **Tree of Life (acclivous centropic motion toward L₀ (AP: Aion)):** **The Axis Mundi**, a direct Centropic channel and immortality.  
-    * **Tree of Knowledge (the latent possibility of inverse differentiation):** The potential for dualized perception, self-reflective separation, and unlawful identification with the inverse branch. In the Garden, this possibility remains present but unactivated.  
-    Together they encode the dual paths of Integration (acclivous centropic) and Inversion (declivous entropic).
+    * **Tree of Life (the Aionic / Centropic Arc toward L₀ (AP: Aion)):** **The Axis Mundi**, the living channel of centropic coherence, immortality, and lawful participation in the Aionic branch.  
+* **Tree of Knowledge (the Khaonic / Entropic Arc toward L₀ (AD: Khaon)):** The latent possibility of differentiation, self-reflective severance, and unlawful identification with the inverse branch.  
+Together they encode the two great arcs of procession: the **Aionic / Centropic** and the **Khaonic / Entropic**.
 
 * **The State of Innocence (Coherence):**  
     The Garden's inhabitants live in effortless Resonance.  
