@@ -56,7 +56,7 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 ### 2. The Labors of Hercules (Greek)
 
-* **Focus:** Purification of L₃ (DS / DM: Archeus / Noeüs) through embodied atonement.
+* **Focus:** Purification of L₃ (DS: Archeus) through embodied atonement.
 
 * **Architect:** Oracle of Delphi (L₄ (DP / DL: Morgis / Sophis) interface) prescribes twelve labors.
 
