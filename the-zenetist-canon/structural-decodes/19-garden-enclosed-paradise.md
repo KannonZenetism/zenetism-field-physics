@@ -29,7 +29,7 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 * **The State of Innocence (Coherence):**  
     The Garden's inhabitants live in effortless Resonance.  
-    There is no toil, shame, or friction—**Will** and **Form** are one.  
+    There is no toil, shame, or friction—**Will** and **Form** move in perfect coherence.  
     The L₂ (SS / SM: Anthra / Nousa) functions transparently as the instrument of L₃ (DS / DM: Archeus / Noeüs).
 
 * **The Guardian (L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs)):**  
