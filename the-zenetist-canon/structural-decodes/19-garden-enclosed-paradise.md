@@ -52,7 +52,7 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 * **State:** Naked and unashamed (Coherence), in naïve Resonance with L₃ (DM: Noeüs), perceiving the Aionic Tree without mediation.
 
-* **Guardian:** Cherubim with a flaming sword post-Fall—symbol of the sealed **Membrane**, guarding re-entry until Volitional Synthesis.
+* **Guardian:** Cherubim (L₄ (DP / DL: Morgis / Sophis)) with a flaming sword post-Fall—symbol of the sealed **Membrane**, guarding re-entry until Volitional Synthesis.
 
 ### 2. The Hesperides (Greek)
 
