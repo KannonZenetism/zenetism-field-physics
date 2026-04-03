@@ -28,7 +28,8 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
     * Compassion contra Judgment — choosing connection over division.
 
 * **The Role of Volition (L₂ (SS: Anthra)):**  
-    The trial's axis is free will. The outcome is not fixed; the L₂ (SS / SM: Anthra / Nousa)'s **choice under pressure** reveals its veracious resonance.
+    The trial's axis is **volitional alignment under pressure**.  
+    Its outcome discloses, rather than invents, the L₂ (SS / SM: Anthra / Nousa)'s veracious resonance.
 
 * **The Suffering / Friction (Deconstruction):**  
     The pressure of trial erodes pride (IL₂ (ISS: Echthros)), fear (IL₂ (ISM: Skotos)), and attachment (IL₁ (IES: Malara)).  
