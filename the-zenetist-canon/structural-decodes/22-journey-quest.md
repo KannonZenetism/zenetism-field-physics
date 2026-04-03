@@ -21,7 +21,7 @@ It is **Emanation and Return** told as a linear narrative.
     The route mirrors the soul's layered architecture:  
     * **Forests / Wilderness (L₄ (DP: Morgis)):** The Unconscious—instinct, archetype, and latent danger.  
     * **Mountains (acclivous centropic Axis):** The climb of revelation and perspective.  
-    * **Rivers / Oceans (L₀ (AD: Khaon)):** Emotional and psychic crossings into unknown depths.  
+    * **Rivers / Oceans (L₀ — primordial depth):** Emotional and psychic crossings into unknown depths.  
     * **Crossroads (The Recursive Hinge):** Critical hinges of volition where trajectories diverge.
 
 * **The Companions & Guides (Collaboration / Harmonic Agents):**  
