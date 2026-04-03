@@ -19,7 +19,7 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **The Architect of the Trial (L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs)):**  
     * **Divine Test:** A Supernal intelligence (God, gods) structures a trial to promote growth or reveal character.  
-    * **Karmic Echo:** The L₂ (SS / SM: Anthra / Nousa) meets its own unintegrated patterns—a **Recursion Gate** for resolution.
+    * **Karmic Return:** The L₂ (SS / SM: Anthra / Nousa) meets its own unintegrated patterns—a **Recursion Gate** for resolution.
 
 * **The Nature of the Challenge (Structured Pairs):**  
     Every trial presents a polarity—forcing conscious selection between Centropy and Entropy:  
