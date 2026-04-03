@@ -18,9 +18,9 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
     This symbolizes a **Sovereign field of Coherent Resonance**, self-contained and guarded from Entropic incursion.  
     It is a **Localized Aion**, a miniature reflection of Source coherence within material form.
 
-* **The Source of Water (L₀ (AD: Khaon) — Motive):**  
-    A spring, fountain, or river issues from the Garden's center—**Motive Infinity** as life-current.  
-    This represents L₄ (DP: Morgis), the benevolent, animating flow of vitality from unformed potential into rhythmic manifestation.
+* **The Source of Water (L₄ (DP: Morgis) — Vitality):**  
+    A spring, fountain, or river issues from the Garden's center—Morgic life-current animating the enclosed field through the pulse of Motive Infinity.  
+    This represents L₄ (DP: Morgis), the benevolent, animating flow of vitality from the Supernal into rhythmic manifestation.
 
 * **The Central Tree(s) (Tree of Emanation):**  
     * **Tree of Life (acclivous centropic motion toward L₀ (AP: Aion)):** **The Axis Mundi**, a direct Centropic channel and immortality.  
