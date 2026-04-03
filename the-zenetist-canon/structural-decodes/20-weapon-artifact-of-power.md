@@ -96,10 +96,10 @@ It teaches that **power is shaped by origin and polarized in expression**.
 Knowledge and intention form the forge; alignment determines the edge.
 
 Its message is responsibility:  
-We are each smiths, tempering the tools of our lives.  
+We are each smiths, tempering the artifacts of our lives.  
 Every belief and word we wield is a potential sword—one that can defend, discern, or divide.  
-The Centropic path is to craft the **Resonant Blade**—a tool of clarity and compassion that cuts through illusion to restore order.  
-The Entropic path is to forge the **Aggressor Blade**—a tool of ego and control that multiplies fragmentation.
+The Centropic path is to craft the **Resonant Blade**—an artifact of clarity and compassion that cuts through illusion to restore order.  
+The Entropic path is to forge the **Aggressor Blade**—an artifact of ego and control that multiplies fragmentation.
 
 The veracious warrior of Resonance wields discernment, not domination.  
 Their weapon serves not conquest, but **Restoration (Coherence)**—the cutting of deception so veracity may breathe again.
