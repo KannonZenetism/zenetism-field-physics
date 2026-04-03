@@ -57,7 +57,7 @@ It is **Emanation and Return** told as a linear narrative.
 
 * **Focus:** The long return to Sovereign selfhood.
 
-* **Goal:** Ithaca and Penelope—Sovereign Self (L₃ (DS / DM: Archeus / Noeüs)) and authentic complement (Structured Pairs).
+* **Goal:** Ithaca and Penelope—Sovereign Self's authentic complement (L₃ (DS: Archeus)) and Structured Pair.
 
 * **Path:** The Sea (Collective Psyche) as Spiral trial-field.  
     * Cyclops: brute, unintegrated L₂ (SS / SM: Anthra / Nousa).  
