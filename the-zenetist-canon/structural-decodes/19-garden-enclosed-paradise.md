@@ -16,7 +16,7 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 * **The Enclosure (Seal of Integrity):**  
     The Garden is a **Bounded space**—a walled garden, island, or sacred grove.  
     This symbolizes a **Sovereign field of Coherent Resonance**, self-contained and guarded from Entropic incursion.  
-    It is a **Localized Aion**, a miniature expression of Source coherence within material form.
+    It is a localized expression of **Aionic coherence** within material form.
 
 * **The Source of Water (L₄ (DP: Morgis) — Vitality):**  
     A spring, fountain, or river issues from the Garden's center—Morgic life-current animating the enclosed field through the pulse of Motive Infinity.  
