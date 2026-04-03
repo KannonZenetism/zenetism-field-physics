@@ -31,7 +31,7 @@ It is **Emanation and Return** told as a linear narrative.
     * **Trickster (Synectic):** Catalyst for adaptation and humility through disruption.
 
 * **The Ordeals & The Antagonists (Fragmentation Forces):**  
-    Obstacles externalize inner Inverse patterns—dragons (IL₄ (IDP / IDL: Psychea / Nyxea)), tyrants (IL₂ (ISS / ISM: Echthros / Skotos)), tempters (IL₂ (ISM: Skotos)).  
+    Obstacles externalize inner Inverse patterns—dragons (IL₄ (IDP / IDL: Psychea / Nyxea)), tyrants (IL₂ (ISS: Echthros)), tempters (IL₂ (ISM: Skotos)).  
     Each ordeal tests and refines a distinct quality of resonance.
 
 * **The Goal (Elixir / Grail / Home):**  
