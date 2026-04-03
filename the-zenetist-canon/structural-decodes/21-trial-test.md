@@ -46,7 +46,7 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **Focus:** Verification of Theonic alignment.
 
-* **Architect:** The Spirit leads Jesus into wilderness; Satan (IL₄ / IL₅ (IDP / IDL / VOS: Psychea / Nyxea / Nekron)) serves as examiner.
+* **Architect:** The Spirit leads Jesus into wilderness; the Tempter (IL₄ (IDP / IDL: Psychea / Nyxea)) serves as examiner, mythically named "Satan" through cultural conflation with the terminal entropic principle.
 
 * **Tests:** Material security, spectacle, and dominion—each an Inverse shortcut.
 
