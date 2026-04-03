@@ -92,7 +92,7 @@ It functions as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that a
 The **Weapon** is consciousness sharpened—awareness and intent distilled into direction.  
 Every thought, word, and focused act of will becomes such a blade, carving coherence or carving wounds.
 
-It teaches that **power is neutral in seed but polarized in expression**.  
+It teaches that **power is shaped by origin and polarized in expression**.  
 Knowledge and intention form the forge; alignment determines the edge.
 
 Its message is responsibility:  
