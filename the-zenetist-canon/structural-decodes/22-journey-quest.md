@@ -24,6 +24,15 @@ It is **Emanation and Return** told as a linear narrative.
     * **Rivers / Oceans (L₀ — primordial depth):** Emotional and psychic crossings into unknown depths.  
     * **Crossroads (The Recursive Hinge):** Critical hinges of volition where trajectories diverge.
 
+---
+
+### Note on Forests and the Archetypal Field
+
+**Zenetist Clarification:** "Forests" in this decode denote the L₄ (DP: Morgis) archetypal field — the vital, generative stratum populated by latent archetypes and instinctual patterns. This is distinct from the Wilderness as root-structural crucible (L₀ (Bifurcal Coherence)) in Decode 16.  
+The Jungian term "Unconscious" is a cultural approximation; L₄ is properly conscious-awareness, though aspects of the Morgic field in declivity may remain unperceived by subjacent layers until acclivous return activates recognition.
+
+---
+
 * **The Companions & Guides (Collaboration / Harmonic Agents):**  
     The Journey is inherently relational. Allies symbolize inner aspects or resonant supports.  
     * **Mentor (L₃ (DM: Noeüs)):** Offers wisdom and initiation.  
