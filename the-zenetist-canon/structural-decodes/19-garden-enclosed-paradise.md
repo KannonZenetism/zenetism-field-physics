@@ -82,7 +82,7 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 * **Function:** A liminal sanctuary where Sovereign structures (King Arthur, Excalibur) are restored.
 
-* **Nature:** A L₃ (DS / DM: Archeus / Noeüs)-level Garden—interface between Supernal order and the world's renewal.
+* **Nature:** A L₃ (DS / DM: Archeus / Noeüs)-layer Garden—interface between Supernal order and the world's renewal.
 
 ---
 
