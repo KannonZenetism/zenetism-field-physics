@@ -60,7 +60,7 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 * **The Garden:** Orchard of golden apples—the fruits of the **Tree of Life**.
 
-* **Guardian:** The Dragon Ladon, a L₄ (DP / DL: Morgis / Sophis) guardian preventing profane access.
+* **Guardian:** The Dragon Ladon, a L₄ (DP: Morgis) guardian preventing profane access.
 
 * **Theft:** Hercules' labor to retrieve the apples mirrors the **Heroic L₃ (DS: Archeus)** reclaiming immortality (acclivous centropic motion) lost through Fragmentation.
 
