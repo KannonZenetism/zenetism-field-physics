@@ -101,7 +101,7 @@ Each challenge is a lawful opportunity for revelation and refinement, co-authore
 
 Its message: **radical responsibility.**  
 Not every trial is intelligible from within the moment, yet each confronts us with the question of alignment under pressure.  
-To face a trial consciously is to engage the forge of evolution—where pressure transforms potential into presence.
+To face a trial deliberately is to enter the forge of verification—where pressure discloses whether potential will resolve into coherence or fracture.
 
 The path of Centropy is a sequence of trials resolved:  
 each test a turn in the Spiral,  
