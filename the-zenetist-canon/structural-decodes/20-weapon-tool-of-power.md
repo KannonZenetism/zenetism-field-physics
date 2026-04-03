@@ -102,7 +102,7 @@ The Centropic path is to craft the **Resonant Blade**—a tool of clarity and co
 The Entropic path is to forge the **Aggressor Blade**—a tool of ego and control that multiplies fragmentation.
 
 The veracious warrior of Resonance wields discernment, not domination.  
-Their weapon serves not conquest, but **Restoration (Coherence)**—the cutting of falsehood so veracity may breathe again.
+Their weapon serves not conquest, but **Restoration (Coherence)**—the cutting of deception so veracity may breathe again.
 
 ---
 
