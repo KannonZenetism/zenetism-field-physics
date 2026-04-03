@@ -1,4 +1,4 @@
-# Zenetist Structural Decode 20 — The Weapon / The Tool of Power
+# Zenetist Structural Decode 20 — The Weapon / The Artifact of Power
 
 **Primary Structural Diagnosis:**  
 The **Concentrated Instrument of Volitional Resonance.**  
