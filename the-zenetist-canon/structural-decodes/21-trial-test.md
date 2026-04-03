@@ -33,7 +33,7 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **The Suffering / Friction (Deconstruction):**  
     The pressure of trial erodes pride (IL₂ (ISS: Echthros)), fear (IL₂ (ISM: Skotos)), and attachment (IL₁ (IES: Malara)).  
-    This is the refining fire—painful yet necessary for reconfiguration.
+    This is the refining fire—painful, and within actualized embodiment often operative in reconfiguration.
 
 * **The Outcome (Synthesis or Declivous Entropy):**  
     * **Initiation (Synthesis):** Passing the test results in synthesis—expanded wisdom (L₃ (DM: Noeüs)), strength (L₃ (DS: Archeus)), or new capacity (Resonant Blade).  
