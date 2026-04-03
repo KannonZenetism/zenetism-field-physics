@@ -7,7 +7,7 @@ Free from Apparent Order, it forms the **Membrane** between Civilization (L₂ (
 It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integration.**
 
 **Core Glyphic Sequence:**  
-`⚙️ → ◲ → 🔘 / 🌾 → ↺ | ☍`  
+`⚙️ → ◲ → 🔘 / 🌾 → (↺ / ☍)`  
 *(Apparent Order is Deconstructed, revealing the raw root-structural ground, which leads to either Resonant Return or Fragmentation.)*
 
 ---
