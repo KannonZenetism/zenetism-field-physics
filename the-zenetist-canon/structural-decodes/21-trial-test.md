@@ -68,7 +68,7 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **Focus:** Post-embodied judgment of coherence.
 
-* **Architect:** Osiris (Theonic Judge) and 42 Assessors (L₄ (DL: Sophis) principles).
+* **Architect:** Osiris (L₄ (DL: Sophis) Sovereign Judge) and 42 Assessors (L₄ (DL: Sophis) principles).
 
 * **Test:** The heart weighed against Ma'at's feather (balance of veracity).
 
