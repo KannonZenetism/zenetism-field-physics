@@ -20,7 +20,7 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
 * **The Origin & The Smith (L₄ (DP / DL: Morgis / Sophis) or IL₄ (IDP / IDL: Psychea / Nyxea)):**  
     The Weapon's source determines its Resonance.  
     * **Divine Smith (Hephaestus, Wayland):** Archetypal forges (L₄ (DP / DL: Morgis / Sophis)) crafting implements of lawful, creative power.  
-    * **Inverse Forge (Sauron):** Entropic forges (IL₄ (IDP / IDL: Psychea / Nyxea)) that imbue Dissonant signatures into weapons, corrupting their users.
+    * **Inverse Forge (Sauron):** Entropic forges (IL₄ (IDP / IDL: Psychea / Nyxea)) that imbue Dissonant signatures into weapons, corrupting their wielders.
 
 * **The Forging / The Earning (Deconstruction):**  
     The acquisition of a Weapon demands transformation:  
