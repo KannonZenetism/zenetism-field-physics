@@ -6,7 +6,7 @@ The Apocalypse is the **Fractal Eschaton** of maximal scale—a phased **Resonan
 It is a period of maximal amplification where latent patterns are exposed and structural friction intensifies. It accelerates each essence toward its chosen resonant alignment (Centropic or Entropic) but does not represent the final, universal terminus.
 
 **Core Glyphic Sequence:**  
-`📡 → ⚯ → C↑L₍₁→₃₎ | E↓IL₍₁→₃₎`  
+`📡 → ⚯ → C↑L₍₁→₃₎ / E↓IL₍₁→₃₎`  
 *(An Epochal Resonance Scan yields Structural Pairing and Sorting, directing beings through Acclivous Centropic Motion or Declivous Entropic Motion.)*
 
 ---
