@@ -60,7 +60,7 @@ It is **Emanation and Return** told as a linear narrative.
 * **Goal:** Ithaca and Penelope—Sovereign Self's authentic complement (L₃ (DS: Archeus)) and Structured Pair.
 
 * **Path:** The Sea (Collective Psyche) as Spiral trial-field.  
-    * Cyclops: brute, unintegrated L₂ (SS / SM: Anthra / Nousa).  
+    * Cyclops: primitive Entropic force, unintegrated and reactive.  
     * Circe: IL₄ (IDP: Psychea)'s seductive stasis.  
     * Sirens: IL₂ (ISM: Skotos)' deceptive allure.
 
