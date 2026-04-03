@@ -29,7 +29,7 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
     * **Theft (Extraction):** Illicit power-taking that binds the wielder to Inverse consequence.
 
 * **The Nature of the Power (Nexus or Severance):**  
-    * **Lawful Power (Nexus):** Operates under L₄ (DL: Sophis)-layer law. The Weapon cuts only illusion, falsehood, or Inverse distortion.  
+    * **Lawful Power (Nexus):** Operates under L₄ (DL: Sophis)-layer law. The Weapon cuts only illusion, deception, or Inverse distortion.  
     * **Dominating Power (Severance):** Power for its own sake, unconstrained by law—severing bonds, feeding Blobism and Hollow Replication.
 
 * **The Wielder's Resonance (L₂ (SS / SM: Anthra / Nousa) or L₃ (DS / DM: Archeus / Noeüs)):**  
