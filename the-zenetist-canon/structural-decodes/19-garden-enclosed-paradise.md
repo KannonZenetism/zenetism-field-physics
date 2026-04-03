@@ -48,7 +48,7 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 * **Rivers:** Four streams flow outward, symbolizing the diversification of unified Source into multiplicity.
 
-* **Trees:** Present the primal choice—abide in Theonic life (acclivous centropic) or pursue Inverse knowledge (declivous entropic).
+* **Trees:** Present the primal choice—abide within the Aionic arc of Centropic coherence or pursue the Khaonic arc of Entropic differentiation.
 
 * **State:** Naked and unashamed (Coherence), in naïve Resonance with L₃ (DM: Noeüs), perceiving the Aionic Tree without mediation.
 
