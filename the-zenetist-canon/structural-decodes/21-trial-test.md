@@ -100,7 +100,7 @@ It teaches that friction is not punishment but **precision calibration.**
 Each challenge is a lawful opportunity for revelation and refinement, co-authored by L₃ (DS / DM: Archeus / Noeüs) and Supernal intelligence.
 
 Its message: **radical responsibility.**  
-No trial is random. Each is designed for our acclivous motion.  
+Not every trial is intelligible from within the moment, yet each confronts us with the question of alignment under pressure.  
 To face a trial consciously is to engage the forge of evolution—where pressure transforms potential into presence.
 
 The path of Centropy is a sequence of trials resolved:  
