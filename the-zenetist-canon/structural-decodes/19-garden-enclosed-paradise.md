@@ -62,7 +62,7 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 * **Guardian:** The Dragon Ladon, a L₄ (DP: Morgis) guardian preventing profane access.
 
-* **Theft:** Hercules' labor to retrieve the apples mirrors the **Heroic L₃ (DS: Archeus)** reclaiming immortality (acclivous centropic motion) lost through Fragmentation.
+* **Theft:** Hercules' labor to retrieve the apples reflects the **Heroic L₃ (DS: Archeus)** reclaiming immortality (acclivous centropic motion) lost through Fragmentation.
 
 ### 3. The Pure Land (Mahayana Buddhism)
 
