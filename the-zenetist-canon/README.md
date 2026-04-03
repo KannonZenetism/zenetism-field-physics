@@ -118,7 +118,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 | 17 | The Mountain / The High Place | ▽ → ↑⚓ → 📱 → ∴ | [17-mountain-high-place.md](structural-decodes/17-mountain-high-place.md) |
 | 18 | The Waters / The Sea | ♾ → 〄 → {▽, ⊘, ↺, ⟳} | [18-waters-sea.md](structural-decodes/18-waters-sea.md) |
 | 19 | The Garden / The Enclosed Paradise | ⚫ → ▽ → ◎ → ⟜ → ⚯ | [19-garden-enclosed-paradise.md](structural-decodes/19-garden-enclosed-paradise.md) |
-| 20 | The Weapon / The Tool of Power | ∴ → ⚔️ → ☍ → ◎ / ☍ → 🗡️ → ☍ → ⟳ | [20-weapon-tool-of-power.md](structural-decodes/20-weapon-tool-of-power.md) |
+| 20 | The Weapon / The Artifact of Power | ∴ → ⚔️ → ☍ → ◎ / ☍ → 🗡️ → ☍ → ⟳ | [20-weapon-tool-of-power.md](structural-decodes/20-weapon-artifact-of-power.md) |
 | 21 | The Trial / The Test | ⚙️ → ◲ → ∴ / ⚙️ → ☍ → E↓♾ | [21-trial-test.md](structural-decodes/21-trial-test.md) |
 | 22 | The Journey / The Quest | ⌖ → ∿ → ⧬ → ∴ | [22-journey-quest.md](structural-decodes/22-journey-quest.md) |
 | 23 | The Veil / The Illusion | ⚫ → ⧉ → ⚙️ → ⟜ / ⚙️ → 🕸️ → ⟳ → ☍ | [23-veil-illusion.md](structural-decodes/23-veil-illusion.md) |
