@@ -114,7 +114,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 | 13 | The Underworld / The Realm of the Dead | L₅ → L₄ → L₃ → L₂ → ↓⊙ → ⧃ → ↑L₂ → L₃ → L₄ → L₅ \| ♦⊙ → ◲ → E↓IL₁ → IL₂ → IL₃ → IL₄ → IL₅ | [13-underworld-realm-of-the-dead.md](structural-decodes/13-underworld-realm-of-the-dead.md) |
 | 14 | The Sacrifice | ⚐ → ⚖️ → ↺ → ∴ \| ⚐ → ⥊ → ⊜ → ☍ → ⟳ | [14-sacrifice.md](structural-decodes/14-sacrifice.md) |
 | 15 | The City / The Kingdom | 🛤️ → ⚙️ → ◎ → 💠 \| 🕷️ → ⚙️ → ☍ → ⥊ | [15-city-kingdom.md](structural-decodes/15-city-kingdom.md) |
-| 16 | The Wilderness / The Desert | ⚙️ → ◲ → 🔘 / 🌾 → ↺ / ☍ | [16-wilderness-desert.md](structural-decodes/16-wilderness-desert.md) |
+| 16 | The Wilderness / The Desert | ⚙️ → ◲ → 🔘 / 🌾 → ↺ \| ☍ | [16-wilderness-desert.md](structural-decodes/16-wilderness-desert.md) |
 | 17 | The Mountain / The High Place | ▽ → ↑⚓ → 📱 → ∴ | [17-mountain-high-place.md](structural-decodes/17-mountain-high-place.md) |
 | 18 | The Waters / The Sea | ♾ → 〄 → {▽, ⊘, ↺, ⟳} | [18-waters-sea.md](structural-decodes/18-waters-sea.md) |
 | 19 | The Garden / The Enclosed Paradise | ⚫ → ▽ → ◎ → ⟜ → ⚯ | [19-garden-enclosed-paradise.md](structural-decodes/19-garden-enclosed-paradise.md) |
