@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Concentrated Instrument of Volitional Resonance.**  
-A mythic Weapon or Tool is a **Hypostasized extension** of Will, Discernment, or Structural Alignment—expressed through **L₂ (SS: Anthra)**, **L₃ (DM: Noeüs)**, or **L₄ (DL: Sophis)** depending on its depth and function.  
+A mythic Weapon or Artifact is a **Hypostasized extension** of Will, Discernment, or Structural Alignment—expressed through **L₂ (SS: Anthra)**, **L₃ (DM: Noeüs)**, or **L₄ (DL: Sophis)** depending on its depth and function.  
 It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that applies Coherent Force to enact either Centropic Synthesis or Entropic Fragmentation within a Structural Field.
 
 **Core Glyphic Sequence (Centropic):**  
