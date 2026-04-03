@@ -6,8 +6,8 @@ The Garden represents a **Corporeal Realm** where the **Membrane** between the L
 It is a state of **Innocence (Coherence)**—unselfconscious coherence before the Fragmentation that introduced self-reflective duality.
 
 **Core Glyphic Sequence:**  
-`⚫ → ▽ → ◎ → ⟜`  
-*(From Aionic Potential, through Embodied Form, a state of Integrated Coherence is achieved, containing the Latent Pivot toward Differentiation.)*
+`⚫ → ▽ → ◎ → ⟜ → ⚯`  
+*(From Aionic Potential, through Embodied Form, a state of Integrated Coherence is achieved, containing the Transphasic Pivot through which the Structured Pairs of Centropic and Entropic procession become possible.)*
 
 ---
 
