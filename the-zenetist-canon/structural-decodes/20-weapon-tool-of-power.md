@@ -79,7 +79,7 @@ It functions as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that a
 
 * **Focus:** The ultimate Entropic tool of domination and mimicry.
 
-* **Forging:** Created by Sauron (IL₄ (IDP / IDL: Psychea / Nyxea)) in an Inverse forge of will.
+* **Forging:** Created by Sauron (IL₄ (IDL: Nyxea)) in an Inverse forge of will.
 
 * **Power:** Grants control and concealment, but isolates the bearer from Relational Nexus.
 
