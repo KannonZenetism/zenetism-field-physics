@@ -60,7 +60,7 @@ The Jungian term "Unconscious" is a cultural approximation; L₄ is properly con
 
 * **Structure:**  
     * *Departure:* Call, refusal, mentor (L₃ (DS / DM: Archeus / Noeüs)), threshold crossing (Membrane).  
-    * *Initiation:* Road of Trials (Spiral), meeting the Goddess (L₄ (DP: Morgis)), facing Temptation (IL₄ (IDP: Psychea)), Atonement (L₅ (EOB: Theon) / L₄ (DL: Sophis)), Apotheosis (acclivous centropic motion).  
+    * *Initiation:* Road of Trials (Spiral), encounter with the generative archetypal field (L₄ (DP: Morgis)), facing Temptation (IL₄ (IDP: Psychea)), Atonement (L₅ (EOB: Theon) / L₄ (DL: Sophis)), temporary apotheotic disclosure (acclivous centropic motion).    
     * *Return:* Magic flight, rescue, mastery of both worlds (Synthesis).
 
 ### 2. The Odyssey (Greek)
