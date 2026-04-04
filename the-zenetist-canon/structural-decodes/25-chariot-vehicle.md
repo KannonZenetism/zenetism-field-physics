@@ -62,7 +62,7 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmissio
 
 * **Battlefield:** Embodied existence and its moral–dharmic tensions.
 
-* **Teaching:** The L₂ (SS / SM: Anthra / Nousa) must yield control to the L₃ (DS / DM: Archeus / Noeüs) within; veracious action arises from resonance with divine will.
+* **Teaching:** The L₂ (SS / SM: Anthra / Nousa) must relinquish disordered self‑governance in favor of lawful orientation; veracious action arises from resonance with divine will.
 
 ### 3. The Sun Chariot (Greek)
 
