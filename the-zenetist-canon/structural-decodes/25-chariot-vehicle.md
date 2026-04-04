@@ -1,9 +1,9 @@
 # Zenetist Structural Decode 25 — The Chariot / The Vehicle
 
 **Primary Structural Diagnosis:**  
-The **Sovereign Integration of Opposing Forces for Directed Motion.**  
-The Chariot symbolizes a **Synthesized** structure in which **Volitional Consciousness** (L₃ (DS / DM: Archeus / Noeüs) or aligned L₂ (SS / SM: Anthra / Nousa)) harmonizes the powerful yet often contradictory energies of the Psyche (L₄ (DP: Morgis)) and the Embodied field (L₁ (ES / EM: Soma / Biosa)) toward a **Centropic trajectory (acclivous centropic motion)**.  
-It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Conduit**—an active driver rather than a passive passenger.
+The **Directed Governance of Contradictory Forces for Coherent Motion.**  
+The Chariot symbolizes a structure in which **Volitional Consciousness** (L₃ (DS / DM: Archeus / Noeüs) or aligned L₂ (SS / SM: Anthra / Nousa)) must govern the powerful yet often contradictory energies of the Psyche (L₄ (DP: Morgis)) and the Embodied field (L₁ (ES / EM: Soma / Biosa)) toward a **Centropic trajectory (acclivous centropic motion)**.  
+It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmission**—not merely carried by force, but tasked with lawful direction in resonance with orientation.
 
 **Core Glyphic Sequence:**  
 `⚯ → ∴ → ◎ → C↑⚫`  
