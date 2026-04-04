@@ -2,9 +2,9 @@
 
 **Primary Structural Diagnosis:**  
 The **Metaphysical Interface of Permeability and Perceptual Limitation.**  
-The Veil is a **Membrane** or **Resonance Filter** moderating awareness between hypostatic layers.  
-It is not deceit but a **Necessary Attenuation** of Aionic reality, enabling the Sovereign evolution of L₂ (SS / SM: Anthra / Nousa) consciousness.  
-Its Natural expression is Maya (the L₄ (DP / DL: Morgis / Sophis) "divine play" of Apparent Order). Its Inverse expression is the Web of Obscuration or IL₂ (ISM: Skotos)—a distortion that conceals structural veracity.
+The Veil is a **Membrane** or **Resonance Filter** moderating awareness, transmission, and perceptual access across hypostatic strata.  
+It is not deceit but a **Lawful Attenuation** of reality in manifestation, enabling bounded perception, individuation, and differentiated participation within L₂ (SS / SM: Anthra / Nousa).  
+Its natural expression appears in traditions of mediated manifestation, sacred appearance, or cosmic seeming; its inverse expression appears as obscuration, mimicry, or IL₂ (ISM: Skotos)-layer distortion that conceals structural veracity.
 
 **Core Glyphic Sequence (Natural Veil):**  
 `⚫ → ⧉ → ⚙️ → ⟜`  
