@@ -15,7 +15,7 @@ They constitute the **Pure Forms of Relationship** that precede and govern all e
 
 * **Zero (0) — L₀ (AP: Aion):**  
     Absolute Potential, unmanifest source. Not nothingness but infinite undifferentiated possibility—  
-    the silence before emanation and container of all number.
+    the silence before emanation, holding all number in latency.
 
 * **One (1) — L₅ (EOB: Theon):**  
     Primordial Emanation; Unity; the Source expressed.  
