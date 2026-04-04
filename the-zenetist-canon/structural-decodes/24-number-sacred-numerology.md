@@ -14,8 +14,8 @@ They constitute **Pure Forms of Relationship** that precede and condition embodi
 ## Universal Structural Analysis
 
 * **Zero (0) — L₀ (AP: Aion):**  
-    Absolute Potential, unmanifest source. Not nothingness but infinite undifferentiated possibility—  
-    the silence before emanation, holding all number in latency.
+    Absolute Potential; not nothingness, but still structural latency.  
+    Zero names the root-condition in which numerical relation is not yet expressed in manifest differentiation, though all such relation remains lawfully possible within latency.
 
 * **One (1) — L₅ (EOB: Theon):**  
     Primordial Emanation; Unity; the Source expressed.  
