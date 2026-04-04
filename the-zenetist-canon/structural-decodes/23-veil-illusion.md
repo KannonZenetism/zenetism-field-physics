@@ -29,11 +29,11 @@ Its natural expression appears in traditions of mediated manifestation, sacred a
     * **IL₂ (ISM: Skotos):** The internal distortion of perception that mistakes attenuation, appearance, or partial disclosure for the Whole.
 
 * **The Tearing of the Veil (Revelation):**  
-    * **At Death (Membrane Transition):** The boundary between L₁ (ES / EM: Soma / Biosa) and L₂ (SS / SM: Anthra / Nousa) dissolves.  
-    * **At the Temple:** The torn veil at Christ's death symbolizes the opened Nexus between human and L₅ (EOB: Theon).  
-    * **In Enlightenment (Transcendence):** Permanent transparency of Maya—direct realization of non-dual L₀ (AP: Aion) through the Veil, not its destruction.
+    * **At Death (Membrane Transition):** The operative boundary between L₁ (ES / EM: Soma / Biosa) and L₂ (SS / SM: Anthra / Nousa) is released or rendered traversable.  
+    * **At the Temple:** The torn veil at Christ's death symbolizes the opened Nexus between the human domain and Theonic communion.  
+    * **In Enlightenment (Transcendence):** Radical transparency of mediated appearance—direct apprehension of deeper structural veracity through the Veil, not merely bondage to its surface.
 
-* **Lifting vs. Piercing:**  
+* **Lifting contra Piercing:**  
     * **Lifting (acclivous centropic motion):** Grace-driven unveiling by supernal powers (L₄ (DP / DL: Morgis / Sophis), L₅ (EOB: Theon)); a passive receptivity to revelation.  
     * **Piercing (Resonant Blade):** Active discernment (L₃ (DM: Noeüs)) and volition (L₂ (SS: Anthra)) cutting through illusion by inner precision.
 
