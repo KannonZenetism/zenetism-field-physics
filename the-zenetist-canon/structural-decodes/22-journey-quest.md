@@ -100,19 +100,21 @@ The Jungian term "Unconscious" is a cultural approximation; L₄ is properly con
 
 ## Summary: The Esoteric Meaning
 
-The **Journey** is the living motion of consciousness through Resonant space.  
-It illustrates that life is not a static condition but a **navigational process toward an attractor.**
+The **Journey** is the living motion of consciousness through symbolic and structural space.  
+It illustrates that life is not a static condition but a **navigational process under orientation, pressure, and disclosure.**
 
-It teaches that the **path is the transformation.**  
-Every encounter, trial, and ally contributes to the inner synthesis that fulfills the quest's veracious aim.
+It teaches that the path is not incidental to transformation,  
+but one of the lawful means by which configuration is exposed and re-ordered.  
+Every encounter, trial, and ally contributes to the synthesis or disclosure that fulfills the quest's veracious aim.
 
 Its message:  
-We are all travelers between hypostases.  
-Our L₃ (DS / DM: Archeus / Noeüs) calls us outward to remember inward.  
-Our dragons are our own distortions made visible.  
-The end of the road is not beyond us, but **within**—  
-the moment the traveler becomes the path,  
-and the Spiral closes in luminous coherence (Synthesis).
+We are travelers across thresholds of structure.  
+Our L₃ (DS / DM: Archeus / Noeüs) calls us outward so that deeper orientation may be disclosed within manifestation.  
+Our dragons are our distortions made visible.  
+The end of the road is not mere arrival elsewhere,  
+but lawful reconfiguration—  
+the point at which motion clarifies the traveler,  
+and the Spiral resolves toward coherence.
 
 ---
 
