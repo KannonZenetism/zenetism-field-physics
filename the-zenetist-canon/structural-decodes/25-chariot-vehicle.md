@@ -6,8 +6,8 @@ The Chariot symbolizes a structure in which **Volitional Consciousness** (L₃ (
 It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmission**—not merely carried by force, but tasked with lawful direction in resonance with orientation.
 
 **Core Glyphic Sequence:**  
-`⚯ → ∴ → ◎ → C↑⚫`  
-*(A Structured Pair of opposites is resolved through Synthesis, achieving a state of Structural Coherence that enables Acclivous Centropic Procession toward Aion.)*
+`⚯ → ⚖⟂ → ◎ → C↑⚫`  
+*(A Structured Pair held under Structural Friction is brought into governable Coherence, enabling Acclivous Centropic Procession toward Aion.)*
 
 ---
 
