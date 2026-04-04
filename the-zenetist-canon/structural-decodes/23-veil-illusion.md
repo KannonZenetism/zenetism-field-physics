@@ -26,7 +26,7 @@ Its natural expression appears in traditions of mediated manifestation, sacred a
 * **Substance of Illusion (Web of Obscuration):**  
     * **Mimicry:** Spurious coherence—forms simulating Centropy but devoid of resonance.  
     * **Shimmer:** Recursive echoes feigning depth or origin.  
-    * **IL₂ (ISM: Skotos):** The internal distortion of perception that mistakes the Veil for the Whole.
+    * **IL₂ (ISM: Skotos):** The internal distortion of perception that mistakes attenuation, appearance, or partial disclosure for the Whole.
 
 * **The Tearing of the Veil (Revelation):**  
     * **At Death (Membrane Transition):** The boundary between L₁ (ES / EM: Soma / Biosa) and L₂ (SS / SM: Anthra / Nousa) dissolves.  
