@@ -42,7 +42,7 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Conduit**—an active 
 
 * **Focus:** The soul as a chariot of winged horses.
 
-* **Charioteer:** Rational principle (L₃ (DS / DM: Archeus / Noeüs)).
+* **Charioteer:** Rational principle (L₃ (DM: Noeüs)).
 
 * **Horses:**  
     * Noble: disciplined, courageous impulse (positive L₂ (SS: Anthra)).  
@@ -54,7 +54,7 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Conduit**—an active 
 
 * **Focus:** The immutable witness within the field of action.
 
-* **Charioteer:** Krishna (L₅ (EOB: Theon) / L₃ (DS / DM: Archeus / Noeüs)).
+* **Charioteer:** Krishna (L₅ (EOB: Theon) in origin; operative guiding function L₃ (DM: Noeüs)).
 
 * **Warrior:** Arjuna (L₂ (SS / SM: Anthra / Nousa)).
 
@@ -70,7 +70,7 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Conduit**—an active 
 
 * **Helios:** The skilled charioteer maintaining cosmic order (L₄ (DL: Sophis)).
 
-* **Phaethon:** The unskilled son (L₂ (SS / SM: Anthra / Nousa)) who seizes L₄ (DP / DL: Morgis / Sophis) power prematurely, nearly destroying the world—symbol of unintegrated ambition.
+* **Phaethon:** The unskilled son (L₂ (SS / SM: Anthra / Nousa)) who seizes L₄ (DL: Sophis) power prematurely, nearly destroying the world—symbol of unintegrated ambition.
 
 ### 4. Elijah's Chariot of Fire (Hebrew)
 
@@ -78,7 +78,7 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Conduit**—an active 
 
 * **Nature:** Fire as pure centropic conveyance beyond physical limits.
 
-* **Function:** Transports Elijah (prophetic L₃ (DS / DM: Archeus / Noeüs) consciousness) directly into Aionic integration without dissolution—ultimate synthesis of form and spirit.
+* **Function:** Transports Elijah (prophetic L₃ (DM: Noeüs) awareness) directly into Aionic integration without dissolution—ultimate Synthesis of form and spirit.
 
 ---
 
