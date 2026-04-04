@@ -24,15 +24,15 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmissio
 
 * **The Chariot (Integrated L₂ (SS / SM: Anthra / Nousa)):**  
     The vessel that contains and channels psychic and vital energy.  
-    Represents a purified and integrated personality capable of transmitting supernal directive purpose.
+    Represents a sufficiently ordered and integrated personality capable of transmitting supernal directive purpose.
 
 * **The Reins & The Whip (L₃ (DM: Noeüs) & L₂ (SS: Anthra)):**  
     * **Reins (L₃ (DM: Noeüs)):** The guiding discernment that steers motion with precision.  
     * **Whip (L₂ (SS: Anthra)):** The activating will that initiates and sustains forward movement.
 
 * **The Path & Destination (acclivous centropic motion):**  
-    The vehicle is always moving toward a goal—battle, pilgrimage, acclivous motion.  
-    Symbolizes the **directed** nature of Centropic motion: the intentional journey toward greater coherence.
+    The vehicle is ordered toward a goal—battle, pilgrimage, ordeal, or acclivous motion.  
+    Symbolizes the **directed** nature of Centropic motion: not drift, but governed trajectory toward greater coherence.
 
 ---
 
