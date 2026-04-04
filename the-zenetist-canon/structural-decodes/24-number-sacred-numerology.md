@@ -26,8 +26,8 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
     Establishes the minimal condition for Structured Pairs, directional tension, and complementary or opposing relation.
 
 * **Three (3) — Synthesis:**  
-    Resolution of duality; emergent harmony that transcends and includes.  
-    Archetype of creativity, balance, and manifest form—the minimal stable structure.
+    Resolution of Duality; emergent Harmony that transcends and includes.  
+    Archetype of Creativity, Balance, and Synthesis—the minimal stable relational structure.
 
 * **Four (4) — Foundation:**  
     Embodiment and law.  
