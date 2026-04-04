@@ -6,8 +6,8 @@ The Journey expresses the **Spiral** of consciousness (L₂ (SS / SM: Anthra / N
 It is the **narrativized arc of departure, passage, ordeal, and return or reconfiguration**.
 
 **Core Glyphic Sequence:**  
-`⌖ → ∿ → ⧬ → ∴`  
-*(The Internal Return Compass initiates Spiral Motion through Co-Emergent Collaboration, leading to Synthesis.)*
+`⚖⟂ → ∿ → ◲ → ∴`  
+*(Structural Friction initiates Spiral Motion through ordeal and unveiling, leading toward Synthesis.)*
 
 ---
 
