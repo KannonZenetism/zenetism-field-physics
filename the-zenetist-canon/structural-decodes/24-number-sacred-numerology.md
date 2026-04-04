@@ -19,7 +19,7 @@ They constitute the **Pure Forms of Relationship** that precede and govern all e
 
 * **One (1) — L₅ (EOB: Theon):**  
     Primordial Emanation; Unity; the Source expressed.  
-    Symbol of Centropic origin, Sovereign consciousness, and axial being.
+    Symbol of Centropic origin, Sovereign awareness, and axial being.
 
 * **Two (2) — Duality:**  
     First Division creating relational polarity.  
