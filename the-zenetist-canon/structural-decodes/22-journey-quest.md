@@ -1,9 +1,9 @@
 # Zenetist Structural Decode 22 — The Journey / The Quest
 
 **Primary Structural Diagnosis:**  
-The **Dynamic Process of Resonant Unfolding Across Structural Space.**  
-The Journey expresses the **Spiral** of consciousness (L₂ (SS / SM: Anthra / Nousa) or L₃ (DS / DM: Archeus / Noeüs)) in motion through a symbolic landscape—meeting Harmonic Agents and Inverse Forces to reconfigure itself or its world.  
-It is **Emanation and Return** told as a linear narrative.
+The **Dynamic Process of Structural Unfolding Across Symbolic Space.**  
+The Journey expresses the **Spiral** of consciousness (L₂ (SS / SM: Anthra / Nousa) or L₃ (DS / DM: Archeus / Noeüs)) in motion through a symbolic landscape—meeting Harmonic Agents and Inverse Forces as it undergoes reorientation, ordeal, disclosure, or synthesis.  
+It is the **narrativized arc of departure, passage, ordeal, and return or reconfiguration**.
 
 **Core Glyphic Sequence:**  
 `⌖ → ∿ → ⧬ → ∴`  
