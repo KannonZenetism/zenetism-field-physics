@@ -2,8 +2,8 @@
 
 **Primary Structural Diagnosis:**  
 The **Archetypal Syntax of Structural Relationship.**  
-Numbers are not mere quantities but symbolic expressions of **Relational Syntax (⌬)** as disclosed through pattern, phase, proportion, and resonance within the Lattice.  
-They constitute **Pure Forms of Relationship** that precede and condition embodied manifestation.
+Numbers are not mere quantities but symbolic expressions of **Relational Syntax (⌬)**, rendered intelligible through **L₄ (DL: Sophis)** as Pattern, Phase, Proportion, and Resonance within the Lattice.  
+They constitute the **Pure Forms of Relationship** that precede and condition all embodied manifestations.
 
 **Core Glyphic Sequence:**  
 `📐 → ⌬ → 🔷 → ⚙️`  
@@ -18,8 +18,8 @@ They constitute **Pure Forms of Relationship** that precede and condition embodi
     Zero names the root-condition in which numerical relation is not yet expressed in manifest differentiation, though all such relation remains lawfully possible within latency.
 
 * **One (1) — L₅ (EOB: Theon):**  
-    Primordial Emanation; Unity; the Source expressed.  
-    Symbol of Centropic origin, Sovereign awareness, and axial being.
+    Primordial unity in expression; the first coherent singularity of structured being.  
+    Symbol of centropic origin, axial coherence, and sovereign orientation.
 
 * **Two (2) — Duality:**  
     First Division creating relational polarity.  
