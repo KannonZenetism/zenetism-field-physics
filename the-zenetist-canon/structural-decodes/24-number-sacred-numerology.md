@@ -26,8 +26,8 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
     Symbol of the Soul / Mind bifurcation, the Morgic / Sophic split, and the emergence of paired differentiation within the Lattice.
 
 * **Three (3) — Synthesis:**  
-    Resolution of Duality; emergent Harmony that transcends and includes.  
-    Archetype of Creativity, Balance, and Synthesis—the minimal stable relational structure.
+    Resolution of Bifurcation; emergent Harmony that transcends and includes.  
+    Archetype of Creativity, Balance, and Synthesis—the first triadic completion of differentiated relation.
 
 * **Four (4) — Foundation:**  
     Embodiment and law.  
