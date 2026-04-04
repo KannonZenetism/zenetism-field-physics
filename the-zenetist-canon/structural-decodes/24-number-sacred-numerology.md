@@ -71,14 +71,14 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
 
 ### 4. The Forty (40) Days and Nights (Biblical)
 
-* **Focus:** Number of probation, purification, and preparation.
+* **Focus:** Number of Probation, Purification, and Preparation.
 
 * **Formula:** 4 × 10 = 40 — world × completion.
 
 * **Manifestations:**  
     * Flood: 40 days dissolving the corrupt world (declivous entropic motion).  
     * Moses: 40 days receiving Law (L₄ (DL: Sophis)).  
-    * Christ: 40 days of wilderness temptation yielding synthesis.
+    * Christ: 40 days of Wilderness temptation yielding disclosed Alignment and tested Coherence.
 
 ---
 
