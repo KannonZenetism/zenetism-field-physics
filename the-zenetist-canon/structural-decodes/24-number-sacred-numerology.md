@@ -71,7 +71,7 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
 
 ### 4. The Forty (40) Days and Nights (Biblical)
 
-* **Focus:** Number of Probation, Purification, and Preparation.
+* **Focus:** Number of Testing, Purification, and Preparation.
 
 * **Formula:** 4 × 10 = 40 — world × completion.
 
