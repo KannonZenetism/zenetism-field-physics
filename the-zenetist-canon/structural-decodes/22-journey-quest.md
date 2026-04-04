@@ -35,7 +35,7 @@ The Jungian term "Unconscious" is a cultural approximation; L₄ is properly con
 ---
 
 * **The Companions & Guides (Collaboration / Harmonic Agents):**  
-    The Journey is inherently relational. Allies symbolize inner aspects or resonant supports.  
+    The Journey is often relational. Allies may symbolize inner aspects, resonant supports, or lawful external aid.  
     * **Mentor (L₃ (DM: Noeüs)):** Offers wisdom and initiation.  
     * **Companions (L₂ (SS / SM: Anthra / Nousa) facets):** Courage, loyalty, humor—the psyche's allies.  
     * **Trickster (Synectic):** Catalyst for adaptation and humility through disruption.
