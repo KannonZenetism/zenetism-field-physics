@@ -47,8 +47,8 @@ The Jungian term "Unconscious" is a cultural approximation; L₄ is properly con
 * **The Goal (Elixir / Grail / Home):**  
     The object sought is a **Symbol of Synthesis:**  
     * **Elixir:** Healing coherence that restores collective order.  
-    * **Grail:** Communion with L₅ (EOB: Theon); the perfected Nexus.  
-    * **Home (L₁ (ES / EM: Soma / Biosa) World Node):** The sovereign, embodied self—transformed and integrated.
+    * **Grail:** Communion with L₅ (EOB: Theon); a vessel of perfected or supernal coherence.  
+    * **Home (L₁ (ES / EM: Soma / Biosa) World Node):** The sovereign, embodied self restored under transformed alignment.
 
 ---
 
