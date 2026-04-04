@@ -82,7 +82,7 @@ The Jungian term "Unconscious" is a cultural approximation; L₄ is properly con
 
 * **Goal:** The Celestial City (Coherence).
 
-* **Path:** From Babylon (declivous entropic motion) to New Jerusalem (acclivous centropic motion), through personified challenges.
+* **Path:** From Babylon (Entropic City) to New Jerusalem (Centropic Coherence), through personified challenges.
 
 * **Outcome:** The burden released; L₂ (SS / SM: Anthra / Nousa) enters Acclivous Centropic Procession.
 
