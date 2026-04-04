@@ -34,8 +34,8 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
     Represents stability, the cross or square, the world of order and material realization.
 
 * **Seven (7) — Resonant Return:**  
-    Cycle of completion and spiritual refinement.  
-    Integrates Divine (3) with Material (4); governs initiatory sequences, planetary harmonics, and rhythmic restoration.
+    Cycle of Completion and Resonant Refinement.  
+    Integrates Divine (3) with Material (4); governs Initiatory Sequences, Planetary Harmonics, and Rhythmic Restoration.
 
 * **Twelve (12) — Cosmic Order:**  
     The number of total archetypal expression across time-space.  
