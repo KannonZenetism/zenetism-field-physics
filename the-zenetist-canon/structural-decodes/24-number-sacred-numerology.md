@@ -22,8 +22,8 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
     Symbol of Centropic origin, Sovereign Awareness, and Axial Being.
 
 * **Two (2) — Duality:**  
-    First Division creating relational polarity.  
-    Establishes the Centropic–Entropic axis, Subject–Object consciousness, and all structured pairs.
+    First Division creating Relational Polarity.  
+    Establishes the minimal condition for Structured Pairs, directional tension, and complementary or opposing relation.
 
 * **Three (3) — Synthesis:**  
     Resolution of duality; emergent harmony that transcends and includes.  
