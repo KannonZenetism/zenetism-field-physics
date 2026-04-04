@@ -42,7 +42,7 @@ The Jungian term "Unconscious" is a cultural approximation; L₄ is properly con
 
 * **The Ordeals & The Antagonists (Fragmentation Forces):**  
     Obstacles externalize inner Inverse patterns—dragons (IL₄ (IDP / IDL: Psychea / Nyxea)), tyrants (IL₂ (ISS: Echthros)), tempters (IL₂ (ISM: Skotos)).  
-    Each ordeal tests and refines a distinct quality of resonance.
+    Each ordeal discloses, pressures, or reorders a distinct quality of resonance.
 
 * **The Goal (Elixir / Grail / Home):**  
     The object sought is a **Symbol of Synthesis:**  
