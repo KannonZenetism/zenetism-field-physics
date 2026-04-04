@@ -7,7 +7,7 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
 
 **Core Glyphic Sequence:**  
 `📐 → ⌬ → 🔷 → ⚙️`  
-*(The Architect of Order discloses Relational Syntax as Divine Geometry, which appears in manifested pattern as Apparent Order.)*
+*(The Architect of Order discloses Relational Syntax as Divine Geometry, which appears in manifestation as Apparent Order.)*
 
 ---
 
