@@ -28,8 +28,8 @@ It is **Emanation and Return** told as a linear narrative.
 
 ### Note on Forests and the Archetypal Field
 
-**Zenetist Clarification:** "Forests" in this decode denote the L₄ (DP: Morgis) archetypal field — the vital, generative stratum populated by latent archetypes and instinctual patterns. This is distinct from the Wilderness as root-structural crucible (L₀ (Bifurcal Coherence)) in Decode 16.  
-The Jungian term "Unconscious" is a cultural approximation; L₄ is properly conscious‑awareness, though souls within the Morgic field in declivity do not possess reflexive awareness of the individuated operations of subjacent layers; such perception only becomes possible upon acclivous return, and even then without access to personal experience.
+**Zenetist Clarification:** "Forests" in this decode denote the L₄ (DP: Morgis) archetypal field—the vital, generative stratum populated by archetypes and instinctual patterns. This is distinct from the Wilderness as root-structural crucible (L₀ (Bifurcal Coherence)) in Decode 16.  
+The Jungian term "Unconscious" is a cultural approximation; L₄ is properly conscious-awareness, though the operative cognition within the layer carries nuance depending on whether the souls inhabiting it are in acclivous or declivous motion.
 
 ---
 
