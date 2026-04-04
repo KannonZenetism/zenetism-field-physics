@@ -15,7 +15,7 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmissio
 
 * **The Charioteer (L₃ (DS / DM: Archeus / Noeüs) or Aligned L₂ (SS / SM: Anthra / Nousa)):**  
     The directing intelligence and sovereign self holding the **reins (Apparent Order)** of control and setting the **path (Return Compass)**.  
-    Without this integrative pilot, the vehicle becomes inert or chaotic.
+    Without this governing function, the vehicle becomes divided, inert, or chaotic.
 
 * **The Horses / Beasts of Burden (L₄ (DP: Morgis) / L₁ (ES / EM: Soma / Biosa)):**  
     The motive forces—instinct, emotion, vitality, and desire.  
