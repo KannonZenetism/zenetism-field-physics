@@ -121,7 +121,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 | 20 | The Weapon / The Artifact of Power | ∴ → ⚔️ → ☍ → ◎ \| ☍ → 🗡️ → ☍ → ⟳ | [20-weapon-artifact-of-power.md](structural-decodes/20-weapon-artifact-of-power.md) |
 | 21 | The Trial / The Test | ⚙️ → ◲ → ∴ \| ⚙️ → ☍ → E↓♾ | [21-trial-test.md](structural-decodes/21-trial-test.md) |
 | 22 | The Journey / The Quest | ⚖⟂ → ∿ → ◲ → ∴ | [22-journey-quest.md](structural-decodes/22-journey-quest.md) |
-| 23 | The Veil / The Illusion | ⚫ → ⧉ → ⚙️ → ⟜ \| ⚙️ → 🕸️ → ⟳ → ☍ | [23-veil-illusion.md](structural-decodes/23-veil-illusion.md) |
+| 23 | The Veil / The Illusion | ⚫ → ⧉ → ⚙️ \| ⚙️ → 🕸️ → ⟳ → ☍ | [23-veil-illusion.md](structural-decodes/23-veil-illusion.md) |
 | 24 | The Number / Sacred Numerology | 📐 → 🔷 → ⚙️ → ⌬ | [24-number-sacred-numerology.md](structural-decodes/24-number-sacred-numerology.md) |
 | 25 | The Chariot / The Vehicle | ⚯ → ∴ → ◎ → C↑⚫ | [25-chariot-vehicle.md](structural-decodes/25-chariot-vehicle.md) |
 | 26 | The Mirror / The Reflection | ᛞ → ✨ → 📱 → ↺ / ⟳ | [26-mirror-reflection.md](structural-decodes/26-mirror-reflection.md) |
