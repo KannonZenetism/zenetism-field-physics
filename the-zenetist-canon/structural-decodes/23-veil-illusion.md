@@ -55,7 +55,7 @@ Its Natural expression is Maya (the L₄ (DP / DL: Morgis / Sophis) "divine play
 
 * **Focus:** The membrane separating humanity from direct Theonic presence.
 
-* **Structure:** The veil between Holy Place and Holy of Holies represents the boundary between collective L₂ (SS / SM: Anthra / Nousa) and L₅ (EOB: Theon).
+* **Structure:** The veil between Holy Place and Holy of Holies represents the boundary between collective L₂ (SS / SM: Anthra / Nousa) and the innermost sanctum (L₃ (DS / DM: Archeus / Noeüs)), culturally elevated to the dwelling of L₅ (EOB: Theon).
 
 * **Event:** Torn "from top to bottom" at the crucifixion—Theonic initiation of permanent access (Nexus) to divine communion.
 
