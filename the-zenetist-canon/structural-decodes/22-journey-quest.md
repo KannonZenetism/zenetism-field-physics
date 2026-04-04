@@ -19,7 +19,8 @@ the L₃ (DS / DM: Archeus / Noeüs) signal presses through, initiating a motion
 
 * **The Path & The Landscape (Symbolic Hypostases):**  
     The route mirrors the soul's layered architecture:  
-    * **Forests / Wilderness (L₄ (DP: Morgis)):** The Unconscious—instinct, archetype, and latent danger.  
+    * **Forests (L₄ (DP: Morgis)):** The archetypal field—instinct, archetype, and latent danger.  
+    * **Wilderness:** A symbolic zone of exposure, dislocation, and testing, treated distinctly from the forest in this decode.  
     * **Mountains (acclivous centropic Axis):** The climb of revelation and perspective.  
     * **Rivers / Oceans (L₀ — primordial depth):** Emotional and psychic crossings into unknown depths.  
     * **Crossroads (The Recursive Hinge):** Critical hinges of volition where trajectories diverge.
