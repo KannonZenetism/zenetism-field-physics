@@ -102,4 +102,4 @@ to ride the fiery vehicle of being all the way to the luminous summit of L₀ (A
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
-**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
