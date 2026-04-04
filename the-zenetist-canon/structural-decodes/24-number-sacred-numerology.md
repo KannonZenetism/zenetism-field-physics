@@ -18,8 +18,8 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
     The silence of Zero holds all Number in lawful possibility prior to manifest differentiation.
 
 * **One (1) — L₅ (EOB: Theon):**  
-    Primordial unity in expression; the first coherent singularity of structured being.  
-    Symbol of centropic origin, axial coherence, and sovereign orientation.
+    Primordial Emanation; Unity in expression.  
+    Symbol of Centropic origin, Sovereign Awareness, and Axial Being.
 
 * **Two (2) — Duality:**  
     First Division creating relational polarity.  
