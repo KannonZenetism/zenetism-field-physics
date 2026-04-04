@@ -89,7 +89,7 @@ They reveal that existence is structured not only by things, but by the ways thi
 Unity (1), Bifurcation (2), Synthesis (3), and Foundation (4) are therefore not mere counts, but Archetypal Forms of Relation.
 
 They teach that mythic and lived processes unfold through recurring Numerical Patterns:  
-Singularity (1), Tension (2), Mediation (3), Embodiment (4), Rhythmic Completion (7), and Ordered Fullness (12).
+Singularity (1), Bifurcation (2), Synthesis (3), Embodiment (4), Rhythmic Completion (7), and Ordered Fullness (12).
 
 **The path of Centropy** is conscious Alignment with lawful Relation—  
 not submission to quantity,  
