@@ -51,7 +51,7 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
 
 * **Formula:** 1 × 3 = 3 — the One God (L₅ (EOB: Theon)) as triune relation: Father (Source), Son (Expression), Spirit (Connection).
 
-* **Meaning:** Ultimate reality is not static unity but dynamic relationship—Being as Communion (Synthesis).
+* **Meaning:** Ultimate Reality is not static Unity but Dynamic Relationship—Being as Communion (Synthesis).
 
 ### 2. The Tetragrammaton & Ten Sefirot (Kabbalah)
 
