@@ -84,18 +84,19 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmissio
 
 ## Summary: The Esoteric Meaning
 
-The Chariot represents **self-mastery through synthesis.**  
-It is the conscious alignment of body, psyche, and will under the direction of Sovereign Intelligence.
+The Chariot represents **governed motion through coherence.**  
+It is the ordered alignment of psyche, embodiment, and will under the direction of Sovereign Intelligence.
 
-It teaches that **power itself is neutral; fragmentation is the peril.**  
-Instincts and emotions are not to be suppressed but **trained and directed** by discernment (L₃ (DM: Noeüs)) and will (L₂ (SS: Anthra)).
+It teaches that motive force without governance becomes deviation, division, or fragmentation.  
+Instincts and emotions are not simply suppressed, but ordered, trained, and directed by discernment (L₃ (DM: Noeüs)) and will (L₂ (SS: Anthra)).
 
 Its message is the **discipline of navigation:**  
-we are each the charioteer of our own energies.  
+we are not merely carried by our forces,  
+but tasked with governing them.  
 Our lives are the vehicle, our passions the horses, our attention the reins.  
-Through continual refinement, we transform from being dragged by divided forces into Sovereign Navigators moving purposefully along the Path of Return (acclivous centropic motion).  
-The ultimate goal is resonance of motion itself—  
-to ride the fiery vehicle of being all the way to the luminous summit of L₀ (AP: Aion).
+Through continual ordering, we move from divided propulsion toward lawful trajectory along the Path of Return (acclivous centropic motion).  
+The goal is not domination for its own sake,  
+but coherent motion under right direction.
 
 ---
 
