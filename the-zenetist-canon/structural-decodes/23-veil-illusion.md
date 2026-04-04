@@ -45,11 +45,11 @@ Its natural expression appears in traditions of mediated manifestation, sacred a
 
 * **Focus:** The cosmic illusion of separateness.
 
-* **Nature:** A L₄ (DP / DL: Morgis / Sophis) function projecting Manifestation (Apparent Order) as seeming reality; divine play (Lila) creating the dual field.
+* **Nature:** A tradition-specific account of manifestation as sacred appearance or seeming reality; culturally aligned here with Apparent Order and mediated disclosure.
 
-* **Purpose:** To host the drama of evolution and liberation.
+* **Function:** To sustain differentiated participation within a world of appearance, attenuation, and partial knowing.
 
-* **Goal:** Recognition of Brahman (L₀ (AP: Aion)) as the sole reality—release from the cyclic illusion (Entropic Recursion).
+* **Goal:** Recognition that apparent separateness is not ultimate—release from bondage to cyclic illusion and distorted identification.
 
 ### 2. The Temple Veil (Hebrew / Christian)
 
