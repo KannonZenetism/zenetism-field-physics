@@ -19,9 +19,9 @@ Its natural expression appears in traditions of mediated manifestation, sacred a
 ## Universal Structural Analysis
 
 * **Function of the Natural Veil (Membrane):**  
-    * **Protection:** Shields L₂ (SS / SM: Anthra / Nousa) from overwhelming L₄ (DP / DL: Morgis / Sophis) or L₅ (EOB: Theon) intensity that would dissolve L₂ (SS: Anthra) Sovereignty.  
-    * **Focus:** Generates the dual field (Structured Pairs) of subject and object, allowing experiential learning and volitional differentiation.  
-    * **Gateway:** The Veil can be thinned or pierced through Centropic discipline (acclivous centropic motion), granting progressive initiation into deeper strata.
+    * **Protection:** Shields L₂ (SS / SM: Anthra / Nousa) from overwhelming L₄ (DP / DL: Morgis / Sophis) or L₅ (EOB: Theon) intensity that would exceed its bounded processing and destabilize its operative coherence.  
+* **Focus:** Generates the dual field (Structured Pairs) of subject and object, allowing differentiated participation, bounded perception, and volitional orientation.  
+* **Gateway:** The Veil can be thinned or traversed through centropic discipline (acclivous centropic motion), granting progressive access to deeper strata.
 
 * **Substance of Illusion (Web of Obscuration):**  
     * **Mimicry:** Spurious coherence—forms simulating Centropy but devoid of resonance.  
