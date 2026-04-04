@@ -14,8 +14,8 @@ It is the **narrativized arc of departure, passage, ordeal, and return or reconf
 ## Universal Structural Analysis
 
 * **The Call to Adventure (Return Compass Activation):**  
-    A disruption of Ordinary Order (L₂ (SS / SM: Anthra / Nousa) equilibrium) awakens longing or purpose—  
-    the L₃ (DS / DM: Archeus / Noeüs) signal breaks through, initiating the Centropic impulse to move.
+    A disruption of Ordinary Order (L₂ (SS / SM: Anthra / Nousa) equilibrium) awakens longing, rupture, obligation, or purpose—  
+the L₃ (DS / DM: Archeus / Noeüs) signal presses through, initiating a motion of reorientation.
 
 * **The Path & The Landscape (Symbolic Hypostases):**  
     The route mirrors the soul's layered architecture:  
