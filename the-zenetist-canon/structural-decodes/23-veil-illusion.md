@@ -19,7 +19,7 @@ Its Natural expression is Maya (the L₄ (DP / DL: Morgis / Sophis) "divine play
 ## Universal Structural Analysis
 
 * **Function of the Natural Veil (Membrane):**  
-    * **Protection:** Shields L₂ (SS / SM: Anthra / Nousa) from overwhelming L₄ (DP / DL: Morgis / Sophis) or L₅ (EOB: Theon) intensity that would dissolve Sovereignty.  
+    * **Protection:** Shields L₂ (SS / SM: Anthra / Nousa) from overwhelming L₄ (DP / DL: Morgis / Sophis) or L₅ (EOB: Theon) intensity that would dissolve L₂ (SS: Anthra) Sovereignty.  
     * **Focus:** Generates the dual field (Structured Pairs) of subject and object, allowing experiential learning and volitional differentiation.  
     * **Gateway:** The Veil can be thinned or pierced through Centropic discipline (acclivous centropic motion), granting progressive initiation into deeper strata.
 
