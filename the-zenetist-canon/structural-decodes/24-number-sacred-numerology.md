@@ -59,7 +59,7 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
 
 * **Tetragrammaton (YHWH):** The Divine One manifesting through Four worlds—1 → 4.
 
-* **Ten Sefirot:** The tenfold unfolding (1+2+3+4=10) structuring the Tree of Life; archetypal numerical descent from Ain Sof into cosmos.
+* **Ten Sefirot:** The tenfold unfolding (1+2+3+4=10) structuring the Tree of Life; an Archetypal Numerical Declivity from Ain Sof into Cosmos.
 
 ### 3. The Enneagram (Sufi / Psychological)
 
