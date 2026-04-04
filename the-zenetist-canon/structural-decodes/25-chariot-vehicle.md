@@ -19,8 +19,8 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmissio
 
 * **The Horses / Beasts of Burden (L₄ (DP: Morgis) / L₁ (ES / EM: Soma / Biosa)):**  
     The motive forces—instinct, emotion, vitality, and desire.  
-    * **Aligned (Synthesis):** Their energies harmonize into propulsion guided by coherent will.  
-    * **Opposed (Fragmentation):** They pull against each other, producing stasis or collapse.
+    * **Aligned (Coherence):** Their energies become governable propulsion under coherent will.  
+    * **Opposed (Fragmentation):** They pull against each other, producing deviation, stasis, or collapse.
 
 * **The Chariot (Integrated L₂ (SS / SM: Anthra / Nousa)):**  
     The vessel that contains and channels psychic and vital energy.  
