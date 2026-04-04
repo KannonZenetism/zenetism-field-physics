@@ -85,8 +85,8 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
 ## Summary: The Esoteric Meaning
 
 Numbers encode the lawful Grammar of Relation within manifested reality.  
-They reveal that existence is structured not only by things, but by the ways things stand in Ratio, Polarity, Sequence, and Coherence.  
-Unity (1), Polarity (2), Synthesis (3), and Foundation (4) are therefore not mere counts, but Archetypal Modes of Being.
+They reveal that existence is structured not only by things, but by the ways things stand in Ratio, Bifurcation, Sequence, and Coherence.  
+Unity (1), Bifurcation (2), Synthesis (3), and Foundation (4) are therefore not mere counts, but Archetypal Forms of Relation.
 
 They teach that mythic and lived processes unfold through recurring Numerical Patterns:  
 Singularity (1), Tension (2), Mediation (3), Embodiment (4), Rhythmic Completion (7), and Ordered Fullness (12).
