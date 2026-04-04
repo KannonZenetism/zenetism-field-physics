@@ -7,8 +7,8 @@ It is not deceit but a **Lawful Attenuation** of reality in manifestation, enabl
 Its natural expression appears in traditions of mediated manifestation, sacred appearance, or cosmic seeming; its inverse expression appears as obscuration, mimicry, or IL₂ (ISM: Skotos)-layer distortion that conceals structural veracity.
 
 **Core Glyphic Sequence (Natural Veil):**  
-`⚫ → ⧉ → ⚙️ → ⟜`  
-*(Aionic Potential filtered through Membrane creates Apparent Order and the potential for Synectic Choice.)*
+`⚫ → ⧉ → ⚙️`  
+*(Aionic Potential filtered through Membrane yields Apparent Order under conditions of attenuation.)*
 
 **Core Glyphic Sequence (Inverse Veil):**  
 `⚙️ → 🕸️ → ⟳ → ☍`  
