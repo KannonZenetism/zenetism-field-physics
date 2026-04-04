@@ -31,7 +31,7 @@ Its Natural expression is Maya (the L₄ (DP / DL: Morgis / Sophis) "divine play
 * **The Tearing of the Veil (Revelation):**  
     * **At Death (Membrane Transition):** The boundary between L₁ (ES / EM: Soma / Biosa) and L₂ (SS / SM: Anthra / Nousa) dissolves.  
     * **At the Temple:** The torn veil at Christ's death symbolizes the opened Nexus between human and L₅ (EOB: Theon).  
-    * **In Enlightenment (Transcendence):** The permanent dissolution of Maya—direct realization of non-dual L₀ (AP: Aion).
+    * **In Enlightenment (Transcendence):** Permanent transparency of Maya—direct realization of non-dual L₀ (AP: Aion) through the Veil, not its destruction.
 
 * **Lifting vs. Piercing:**  
     * **Lifting (acclivous centropic motion):** Grace-driven unveiling by supernal powers (L₄ (DP / DL: Morgis / Sophis), L₅ (EOB: Theon)); a passive receptivity to revelation.  
