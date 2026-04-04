@@ -83,17 +83,17 @@ Its natural expression appears in traditions of mediated manifestation, sacred a
 
 ## Summary: The Esoteric Meaning
 
-The **Veil** is both **curriculum and constraint.**  
-It enables choice, perception, and individuation within the attenuated field of form.  
-Without it, experience would collapse back into undifferentiated unity, abolishing Sovereign development.
+The **Veil** is both **interface and limit.**  
+It enables perception, individuation, and bounded participation within the attenuated field of form.  
+Without it, differentiated experience would be overrun by intensities not yet lawfully held at the ordinary threshold.
 
-It teaches that perception is a translation, not the source itself.  
-Our awareness engages filtered symbols of L₀ (AP: Aion), learning their syntax until transparency is achieved.
+It teaches that perception is mediated, not self-grounding.  
+Awareness receives filtered appearances, partial disclosures, and symbolic forms rather than unattenuated totality.
 
-Its message is of **discernment through compassion.**  
-Illusion (Web of Obscuration) is penetrable, not absolute.  
-Through stillness (L₀ (AP: Aion)), insight (L₃ (DM: Noeüs)), and harmonic action (Harmonic Node), we thin the membrane and perceive the Apparent (Apparent Order) as sacred display rather than confinement.  
-The spiritual task is not to destroy the Veil, but to see **through** it—recognizing the world as L₀ (AP: Aion) made visible through the artistry of limitation.
+Its message is one of **discernment, humility, and lawful unveiling.**  
+Illusion (Web of Obscuration) is penetrable, not ultimate.  
+Through stillness, insight, and harmonic action, the membrane may become increasingly transparent, and Apparent Order may be perceived not as final reality, but as mediated display.  
+The spiritual task is not to destroy the Veil, but to see through attenuation without mistaking either appearance or obscuration for the Whole.
 
 ---
 
