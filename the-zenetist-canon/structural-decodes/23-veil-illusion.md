@@ -34,8 +34,8 @@ Its natural expression appears in traditions of mediated manifestation, sacred a
     * **In Enlightenment (Transcendence):** Radical transparency of mediated appearance—direct apprehension of deeper structural veracity through the Veil, not merely bondage to its surface.
 
 * **Lifting contra Piercing:**  
-    * **Lifting (acclivous centropic motion):** Grace-driven unveiling by supernal powers (L₄ (DP / DL: Morgis / Sophis), L₅ (EOB: Theon)); a passive receptivity to revelation.  
-    * **Piercing (Resonant Blade):** Active discernment (L₃ (DM: Noeüs)) and volition (L₂ (SS: Anthra)) cutting through illusion by inner precision.
+    * **Lifting (acclivous centropic motion):** Grace-driven unveiling by supernal powers (L₄ (DP / DL: Morgis / Sophis), L₅ (EOB: Theon)); receptive disclosure granted from beyond the ordinary threshold.  
+    * **Piercing (Resonant Blade):** Active discernment (L₃ (DM: Noeüs)) and volitional precision (L₂ (SS: Anthra)) cutting through illusion by lawful inner clarity.
 
 ---
 
