@@ -76,9 +76,9 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmissio
 
 * **Focus:** Vehicle of acclivous motion.
 
-* **Nature:** Fire as pure centropic conveyance beyond physical limits.
+* **Nature:** A fiery vehicle of supernatural translation, purification, and threshold passage beyond ordinary embodied limit.
 
-* **Function:** Transports Elijah (prophetic L₃ (DM: Noeüs) awareness) directly into Aionic integration without dissolution—ultimate Synthesis of form and spirit.
+* **Function:** Transports Elijah (prophetic L₃ (DM: Noeüs) awareness) through an exceptional vertical passage without ordinary dissolution; symbol of radical transition, not a general template of final return.
 
 ---
 
