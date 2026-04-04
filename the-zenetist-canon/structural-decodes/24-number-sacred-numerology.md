@@ -21,9 +21,9 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
     Primordial Emanation; Unity in expression.  
     Symbol of Centropic origin, Sovereign Awareness, and Axial Being.
 
-* **Two (2) — Duality:**  
-    First Division creating Relational Polarity.  
-    Establishes the minimal condition for Structured Pairs, directional tension, and complementary or opposing relation.
+* **Two (2) — Bifurcation:**  
+    First manifest division within structured relation, not the primordial polarity itself.  
+    Symbol of the Soul / Mind bifurcation, the Morgic / Sophic split, and the emergence of paired differentiation within the Lattice.
 
 * **Three (3) — Synthesis:**  
     Resolution of Duality; emergent Harmony that transcends and includes.  
