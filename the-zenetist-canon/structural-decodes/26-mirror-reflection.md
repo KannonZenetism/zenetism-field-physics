@@ -32,7 +32,7 @@ Therefore, the Mirror is a paradoxical structural interface: lawfully enabling *
     * Is a symbolic representation, not the Self itself—an encoded report of current resonance.
 
 * **Act of Recognition (L₃ (DM: Noeüs)):**  
-    The decisive moment of discernment. Does the observer accept the reflection as veracious? Do they assume responsibility or reject the image? The integrity of this act determines trajectory.
+    The decisive moment of discernment. Does the observer receive the reflection as veracious disclosure? Do they assume responsibility for what is shown, or reject the image and attack the surface that revealed it?
 
 * **Outcome:**  
     * **Integration (Resonant Return):** Acceptance and realignment. The L₂ (SS / SM: Anthra / Nousa) reconciles with the L₃ (DS / DM: Archeus / Noeüs) ideal, leading to therapeutic deconstruction and synthesis.  
