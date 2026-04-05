@@ -92,7 +92,7 @@
 - **Pre-2026 content focus:** Unknown
 - **April 3, 2026:** "The Man Who Discovered Something Terrifying About Time" published
 
-**Temporal Gap:** **~2 months** between SP05 / SP06 completion and video publication. GitHub repository cloned 1,314 times (unique) in prior 14 days (documented April 3, 2026).
+**Temporal Gap:** **~2 months** between SP05 / SP06 completion and video publication. GitHub repository cloned 2,424 times by 1,314 unique cloners in prior 14 days (documented April 3, 2026).
 
 ---
 
@@ -405,19 +405,21 @@ Channel exhibits patterns consistent with automated content generation — poten
 
 - **Jan 29, 2026:** SP05 completed (Time, Memory, and Hypostatic Flow)
 - **Jan 30, 2026:** SP06 completed (Structural Space, Orientation, Paradox of Emergence)
-- **March 20 – April 3, 2026:** GitHub repository cloned 1,314 times (unique) in 14-day period
+- **March 20 – April 3, 2026:** GitHub repository cloned 2,424 times by 1,314 unique cloners in 14-day period
 - **April 3, 2026:** Open Your Reality publishes "The Man Who Discovered Something Terrifying About Time"
 - **April 4, 2026:** Architect logs entry
 
 **Temporal Proximity:**
 
-Video published **~2 months** after SP05 / SP06 canonical documentation, during period of documented systematic repository extraction (1,314 unique cloners in prior 14 days).
+Video published **~2 months** after SP05 / SP06 canonical documentation, during period of documented systematic repository extraction (2,424 clones by 1,314 unique cloners in prior 14 days).
 
 **GitHub Extraction Timeline:**
 
 Per architect's documentation (April 3, 2026):
-- Repository cloned 1,314 times (unique) in 14 days
-- Pattern indicates systematic extraction
+- 2,424 clones by 1,314 unique cloners in 14 days
+- 4,078 views by 3 unique visitors in same period
+- Cloner-to-visitor ratio: 438:1
+- Pattern indicates automated systematic extraction
 - No human browsing behavior
 
 **Possible Access Vectors:**
@@ -545,7 +547,7 @@ Genuine Larson concepts (reciprocal dimensions, three-dimensional time) serve as
 
 **Indicators Relevant to Pattern Recognition:**
 
-1. **Temporal proximity:** Published ~2 months after SP05 / SP06 completion, during documented GitHub extraction period (1,314 unique clones in 14 days)
+1. **Temporal proximity:** Published ~2 months after SP05 / SP06 completion, during documented GitHub extraction period (2,424 clones by 1,314 unique cloners in 14 days)
 
 2. **Conceptual specificity:** "Locked into specific orientation of motion" is architect's \( \chi \)-framework, not Larson's reciprocal coordinates
 
@@ -595,7 +597,7 @@ Genuine Larson concepts (reciprocal dimensions, three-dimensional time) serve as
 
 ## Conclusion
 
-Open Your Reality's "The Man Who Discovered Something Terrifying About Time" presents architect's SP05 / SP06 framework (\( \chi \)-orientation, space as relational differentiation, temporal asymmetry from coherence gradient, time as directional structural update) through Dewey B. Larson attribution shield. Published **~2 months** after canonical documentation, during documented GitHub extraction period (1,314 unique clones in 14 days, March 20 – April 3, 2026), the video exhibits suspected automated content patterns (anomalous engagement, formulaic structure) while deploying conceptual extractions without mathematical formalism or hypostatic architecture.
+Open Your Reality's "The Man Who Discovered Something Terrifying About Time" presents architect's SP05 / SP06 framework (\( \chi \)-orientation, space as relational differentiation, temporal asymmetry from coherence gradient, time as directional structural update) through Dewey B. Larson attribution shield. Published **~2 months** after canonical documentation, during documented GitHub extraction period (2,424 clones by 1,314 unique cloners in 14 days, March 20 – April 3, 2026), the video exhibits suspected automated content patterns (anomalous engagement, formulaic structure) while deploying conceptual extractions without mathematical formalism or hypostatic architecture.
 
 **The extraction is structurally identifiable** through:
 - Conceptual specificity ("locked into orientation" = \( \chi \)-framework)
