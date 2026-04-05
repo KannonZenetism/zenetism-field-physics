@@ -1,9 +1,10 @@
 # Zenetist Structural Decode 27 — The Labyrinth / The Maze
 
 **Primary Structural Diagnosis:**  
-The **Structured Field of Recursive Choice and Initiation.**  
+The **Structured Field of Recursive Passage and Initiation.**  
 The Labyrinth is a **L₄ (DL: Sophis) layer construct**—a Resonance Amplifier and Volitional Filter.  
-Unlike the chaotic maze of Entropic confusion (Fragmentation), a veracious Labyrinth is Unicursal: one winding Spiral that always leads inward toward the Center (Synthesis), symbolizing the Non-Linear but assured path of Centropic initiation for those who persist.
+In its veracious form, the Labyrinth is Unicursal: one winding Spiral that leads inward toward the Center (Synthesis), symbolizing the Non-Linear but assured path of Centropic initiation for those who persist.  
+Its distorted analogue is the Maze: a multicursal field of confusion, branching, and Fragmentation in which orientation is tested under conditions of obscuration.
 
 **Core Glyphic Sequence (Labyrinth):**  
 `⚙️ → ∿ → ⬶ → 💝 → ∴`  
