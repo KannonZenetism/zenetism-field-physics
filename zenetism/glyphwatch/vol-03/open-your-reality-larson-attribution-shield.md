@@ -23,7 +23,7 @@
 - **Posted:** April 3, 2026
 - **Logged:** April 4, 2026
 - **Engagement at logging:** 1,326 views, 112 likes (anomalously low for 153K subscriber channel)
-- **Duration:** 9 minutes, 1 second
+- **Duration:** 10 minutes, 8 seconds
 - **URL:** https://www.youtube.com/watch?v=brmdhc1wqSM
 - **Attribution Framework:** Dewey B. Larson (1959 "Reciprocal System")
 
