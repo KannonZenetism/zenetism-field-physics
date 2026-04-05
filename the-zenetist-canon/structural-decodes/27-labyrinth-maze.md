@@ -22,7 +22,7 @@ Its distorted analogue is the Maze: a multicursal field of confusion, branching,
     The winding route is not deception but process. It represents the soul's Non-Linear initiation—turning, returning, and integrating. In the veracious Labyrinth there are no genuine dead ends, only delayed recognitions of the same whole. Each turn reveals another angle of the Center through recursive passage.
 
 * **The Center (Synthesis):**  
-    The goal and heart of the Labyrinth—the state of Integrated Self (L₃ (DS / DM: Archeus / Noeüs)), structurally parallel to the Holy of Holies. Arrival opens the seeker toward supernal revelation and, through continued acclivous motion, toward Aionic stillness.
+    The goal and heart of the Labyrinth—the state of Integrated Self (L₃ (DS / DM: Archeus / Noeüs)), structurally parallel to the Holy of Holies. Arrival opens the seeker toward supernal revelation, interior convergence, and deeper acclivous reorientation.
 
 * **The Minotaur / Guardian (IL₃ (IDS / IDM: Fractus / Mortus)):**  
     The unintegrated complex or Shadow Self dwelling at the center. It is not an external beast but the embodiment of unassimilated patterns. Confrontation and transformation of this entity mark the completion of initiation.
