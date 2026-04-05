@@ -86,17 +86,17 @@ Therefore, the Mirror is a paradoxical structural interface: lawfully enabling *
 
 ## Summary: The Esoteric Meaning
 
-The Mirror embodies the **law of feedback.**  
-Reality itself is a multifaceted mirror, continuously reflecting our Resonant condition.  
-Perception of conflict or harmony outside corresponds to the same within; every relationship is a reflective lesson in coherence.
+The Mirror embodies the **law of reflective disclosure.**  
+Reality often functions as a multifaceted mirror, revealing Correspondence, Distortion, or unresolved Pattern through relation and encounter.  
+Perception of conflict or harmony outside may disclose the same within, though reflection always requires discernment.
 
 It teaches **radical self-honesty.**  
-To advance spiritually, one must continually gaze into the mirror of experience, discerning distortion without defense or delusion. Shimmer and self-justification obscure clarity; courage (L₃ (DS: Archeus)) and will (L₂ (SS: Anthra)) restore it.
+To advance in coherence, one must repeatedly face the mirror of experience, discerning distortion without defense, vanity, or delusion. Shimmer and self-justification obscure clarity; courage (L₃ (DS: Archeus)) and will (L₂ (SS: Anthra)) restore lawful response.
 
 Its message:  
-We cannot evade our own pattern. The task is to **see clearly, integrate wholly, and act lawfully.**  
-When purified, consciousness itself becomes a mirror—transparent, luminous, and still—reflecting Aionic coherence without distortion.  
-In that perfected reflection, others behold their own divine resonance, and the world recognizes itself as light seen veraciously.
+We cannot evade our own Pattern. The task is to **see clearly, integrate lawfully, and act in coherence.**  
+When disciplined by discernment, consciousness may become increasingly transparent—less a generator of counterfeit image, more a surface capable of faithful reflection.  
+In such clarified reflection, others may behold not Source itself, but a more veracious correspondence to their own condition and possibility.
 
 ---
 
