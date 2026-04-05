@@ -19,7 +19,7 @@ Its distorted analogue is the Maze: a multicursal field of confusion, branching,
 ## Universal Structural Analysis
 
 * **The Path (Spiral):**  
-    The winding route is not deception but process. It represents the soul's Non-Linear growth—turning, returning, and integrating. There are no veracious dead ends, only perceived ones. Each turn is a hinge (Recursive Hinge) revealing another angle of the same whole.
+    The winding route is not deception but process. It represents the soul's Non-Linear initiation—turning, returning, and integrating. In the veracious Labyrinth there are no genuine dead ends, only delayed recognitions of the same whole. Each turn reveals another angle of the Center through recursive passage.
 
 * **The Center (Synthesis):**  
     The goal and heart of the Labyrinth—the state of Integrated Self (L₃ (DS / DM: Archeus / Noeüs)), structurally parallel to the Holy of Holies. Arrival opens the seeker toward supernal revelation and, through continued acclivous motion, toward Aionic stillness.
