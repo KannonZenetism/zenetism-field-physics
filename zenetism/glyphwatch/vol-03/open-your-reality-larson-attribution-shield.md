@@ -250,7 +250,7 @@ This claim is **veracious attribution to Larson**. However, the video's broader 
 Each hypostatic layer engages time according to its structural nature:
 
 - **Supra-L₀ (Zenon):** Beyond time
-- **L₀ (Aion / Khaon):** All universes latent in potential
+- **L₀ (Aion):** All universes latent in potential
 - **L₅ (Theon):** Eternal present; saturation without succession
 - **L₄ (Morgis / Sophis):** Archetypal simultude; outside sequence
 - **L₃ (Archeus / Noeüs):** Multiversal simultaneity; tonal coherence access
@@ -262,7 +262,7 @@ Each hypostatic layer engages time according to its structural nature:
 
 **Temporal Modes:**
 - **Supra-L₀:** Trans-temporal
-- **L₀:** Latent temporal possibility
+- **L₀ (Aion):** Latent temporal possibility
 - **L₅:** Eternal present (saturation)
 - **L₄:** Archetypal simultude
 - **L₃:** Multiversal simultaneity
