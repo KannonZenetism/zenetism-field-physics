@@ -59,7 +59,7 @@ Its distorted analogue is the Maze: a multicursal field of confusion, branching,
 
 * **Center:** The Rose or Cross—union with Divine coherence.
 
-* **Return:** The outward walk manifests the renewed vibration within daily life.
+* **Return:** The outward walk manifests renewed coherence within daily life.
 
 ### 3. The Bardo (Tibetan Buddhism)
 
