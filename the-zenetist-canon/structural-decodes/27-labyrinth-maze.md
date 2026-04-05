@@ -47,7 +47,7 @@ Its distorted analogue is the Maze: a multicursal field of confusion, branching,
 
 * **Thread:** Ariadne (L₄ (DP: Morgis) guide) offers the connective principle ensuring safe emergence.
 
-* **Meaning:** Integration of the Shadow and conscious return mark the soul's first great synthesis.
+* **Meaning:** Confrontation with the Shadow and conscious return mark a major initiatory integration within the soul's path.
 
 ### 2. Cathedral Labyrinths (Medieval Christian)
 
