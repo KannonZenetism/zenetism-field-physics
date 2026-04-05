@@ -25,7 +25,7 @@ The Forge is a **L₄ (DP / DL: Morgis / Sophis)-layer Motive environment**—a 
 * **The Smith / Alchemist (L₃ (DS / DM: Archeus / Noeüs) or L₄ (DP / DL: Morgis / Sophis)):**  
     The directing intelligence of the operation.  
     * **Internal Smith:** The individual's own L₃ (DS / DM: Archeus / Noeüs) forging inner alignment.  
-    * **External Smith:** Divine, Archetypal, or Karmic forces orchestrating trials that serve the same end.
+    * **External Smith:** Divine, Archetypal, or situational forces applying pressures that may serve the same transmutative end.
 
 * **The Transmutation (Synthesis):**  
     The successful refinement of form. The base substance becomes Gold—the Alchemical Sun. The L₂ (SS / SM: Anthra / Nousa) becomes radiant with L₃ (DS / DM: Archeus / Noeüs) coherence, embodying Luminous Will and resilient Equanimity (Coherence).
