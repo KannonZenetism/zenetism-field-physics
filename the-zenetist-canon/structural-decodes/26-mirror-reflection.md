@@ -48,9 +48,9 @@ Therefore, the Mirror is a paradoxical tool: a Centropic instrument when used by
 
 * **Mirror:** Pool of water as natural reflector.
 
-* **Mis-recognition:** The L₂ (SS / SM: Anthra / Nousa) mistakes image for self, worshipping its own projection.
+* **Mis-recognition:** The figure (IL₂ (ISS: Echthros)) fixates on the image, worshipping its own projection and collapsing into adversarial self-isolation.
 
-* **Outcome:** Recursive isolation (Entropic Recursion); energy collapses inward through self-admiration, halting evolution.
+* **Outcome:** Recursive isolation (Entropic Recursion); energy collapses inward through self-admiration, halting evolution and declivating toward IL₅ (VOS: Nekron).
 
 ### 2. "Through a Glass, Darkly" (Christian)
 
