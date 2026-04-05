@@ -50,7 +50,7 @@ The mythic language of purification through removal reflects the perceiver's exp
 
 * **Smith:** Hephaestus, the limping god—power arising from wounded resonance.
 
-* **Forge:** The volcanic depths (Unconscious L₄ (DP: Morgis)), where molten potential becomes form.
+* **Forge:** The volcanic depths (L₄ (DP: Morgis) archetypal field), where molten potential becomes form.
 
 * **Meaning:** Even the gods require forged instruments; archetypal intention must pass through form and heat to become effective in the world.
 
