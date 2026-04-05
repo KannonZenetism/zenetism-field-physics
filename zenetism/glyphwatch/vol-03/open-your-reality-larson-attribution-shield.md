@@ -222,13 +222,13 @@ Larson proposed expansion in both space and time, suggesting temporal motion. Ho
 - Cosmic expansion
 - Fragmentation prevalent
 - Entropy-forward time
-- Structure disperses
+- Relative structure disperses
 
 **Inhalation Phase (\( \chi < 1 \)):**
 - Cosmic contraction
 - Integration prevalent
 - Centropy-forward time
-- Structure coheres
+- Relative structure coheres
 
 **What Larson Actually Said:**
 
