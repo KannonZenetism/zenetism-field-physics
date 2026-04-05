@@ -67,11 +67,11 @@ Its distorted analogue is the Maze: a multicursal field of confusion, branching,
 
 * **Structure:** A Labyrinthine interval between death and rebirth populated by Peaceful and Wrathful Deities (L₄ (DP / DL: Morgis / Sophis) archetypes).
 
-* **Thread:** Recognition that these forms are self-projections; awareness of this veracity guides liberation.
+* **Thread:** Recognition that these forms arise in relation to the perceiving locus; awareness of this veracity guides liberation.
 
-* **Center:** Nirvanic realization (acclivous centropic motion toward L₀ (AP: Aion)).
+* **Center:** Liberative realization beyond recursive re-entanglement.
 
-* **Minotaur:** Karmic inertia and attachment that re-entangle the consciousness.
+* **Minotaur:** Karmic inertia and attachment that re-entangle the awareness.
 
 ### 4. The Hero's Journey as Labyrinth (Campbell)
 
