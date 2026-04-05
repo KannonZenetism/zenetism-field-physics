@@ -20,7 +20,7 @@ The Forge is a **L₄ (DP / DL: Morgis / Sophis) layer Motive environment**—a 
     * **Anvil (L₄ (DL: Sophis) – Law):** The unyielding foundation that receives and defines the blows. Together they enact transformation: energy applied against immutable law to shape emergent form.
 
 * **The Base Metal (Unrefined Self):**  
-    The raw, fragmented, or inverted state of the psyche—dense with potential yet veiled by impurity. It is the ore containing both Gold (Essence) and Slag (Inertia).
+    The raw, fragmented, or misaligned state of the psyche—dense with potential yet obscured by incoherence. It is the ore containing Gold (Essence) yet held in conditions of fragmentation that the Forge resolves.
 
 * **The Smith / Alchemist (L₃ (DS / DM: Archeus / Noeüs) or L₄ (DP / DL: Morgis / Sophis)):**  
     The directing intelligence of the operation.  
