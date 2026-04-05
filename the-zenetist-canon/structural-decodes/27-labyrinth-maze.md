@@ -69,7 +69,7 @@ Its distorted analogue is the Maze: a multicursal field of confusion, branching,
 
 * **Thread:** Recognition that these forms arise in relation to the perceiving locus; awareness of this veracity guides liberation.
 
-* **Center:** Liberative realization beyond recursive re-entanglement.
+* **Center:** Liberative realization — acclivous centropic motion toward L₀ (AP: Aion).
 
 * **Minotaur:** Karmic inertia and attachment that re-entangle the awareness.
 
