@@ -34,7 +34,7 @@ The Forge is a **L₄ (DP / DL: Morgis / Sophis) layer Motive environment**—a 
 
 ### Note on the Fire and Entropic "Removal"
 
-**Zenetist Clarification:** The language of "burning away" inverse patterning (IL₁, IL₂, IL₃) is a mythic convention, not a structural description. The centropic being does not contain entropic material embedded within it that requires extraction. What the being carries are fragmented, dissonant, or misaligned centropic patterns — aspects of wholeness that entropy has separated under pressure.
+**Zenetist Clarification:** The language of "burning away" inverse patterning (IL₃, IL₂, IL₁) is a mythic convention, not a structural description. The centropic being does not contain entropic material embedded within it that requires extraction. What the being carries are fragmented, dissonant, or misaligned centropic patterns — aspects of wholeness that entropy has separated under pressure.
 
 The Fire's structural function is the recovery and reintegration of those patterns into their native coherence within the centropic arc. "Dross" in the Zenetist reading is not entropic essence lodged within the soul, but the condition of fragmentation itself — the gaps, misalignments, and incoherences left by entropic pressure upon centropic structure.
 
