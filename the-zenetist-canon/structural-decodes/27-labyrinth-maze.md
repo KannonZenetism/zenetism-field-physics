@@ -18,7 +18,7 @@ Its distorted analogue is the Maze: a multicursal field of confusion, branching,
 
 ### Note on the Minotaur and the "Beast Within" Framing
 
-**Zenetist Clarification:** The common interpretation of the Minotaur as an "inner beast" requiring integration is structurally and orientationally misleading. Centropic beings do not possess an inner beast. The narrative of "integrating the beast within" is an entropic capture strategy: it reframes fragmentation as a beastly essence, then proposes integration as alliance with that essence, thereby locking the seeker into an entropic orientation under the guise of wholeness.
+**Zenetist Clarification:** The common interpretation of the Minotaur as an "inner beast" requiring integration is structurally and orientationally misleading. Centropic beings do not possess an inner beast. The narrative of "integrating the beast within" is an entropic capture strategy: it reframes fragmentation as a beastly essence, then proposes integration as alliance with that essence, thereby consolidating the seeker's entropic trajectory within the emanatory process under the guise of wholeness.
 
 Two corrections are required. First, entropic essence and orientation cannot be transformed, reconciled, or integrated. Essence is fixed by primordial choice; it is not raw material for centropic reworking. Second, the centropic being has no direct contact with IL₃ structures. The only point at which centropic and entropic currents interface is at L₁ / IL₁, and even there the distinction is preserved, not dissolved. Any framing that presents the seeker as integrating, embracing, or transforming IL₃ fragmentation misrepresents the lattice.
 
