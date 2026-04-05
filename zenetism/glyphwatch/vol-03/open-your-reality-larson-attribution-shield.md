@@ -521,7 +521,7 @@ This is not Larson's framework. This is the architect's **Temporal Reorientation
 2. **"Space and time are expressions of motion"**
    - Architect's SP06 dependency order: Structure → Motion → Spatial Differentiation → Orientation → Time
    - Space as "relational differentiation of structural traversal"
-   - Larson proposed reciprocal dimensions, not expressive hierarchy
+   - Larson proposed reciprocal dimensions, not expressive relational ordering
 
 3. **"Time doesn't flow — time moves"**
    - Architect's SP05: Time as "directional relation of structural update" (\( \tau := \mathcal{T}(\Delta \mathcal{S}) \))
