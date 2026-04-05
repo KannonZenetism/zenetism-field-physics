@@ -125,7 +125,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 | 24 | The Number / Sacred Numerology | 📐 → ⌬ → 🔷 → ⚙️ | [24-number-sacred-numerology.md](structural-decodes/24-number-sacred-numerology.md) |
 | 25 | The Chariot / The Vehicle | ⚯ → ⚖⟂ → ◎ → C↑⚫ | [25-chariot-vehicle.md](structural-decodes/25-chariot-vehicle.md) |
 | 26 | The Mirror / The Reflection | ᛞ → ✨ → 📱 → ↺ / ⟳ | [26-mirror-reflection.md](structural-decodes/26-mirror-reflection.md) |
-| 27 | The Labyrinth / The Maze | ⚙️ → ∿ → ⬶ → ∴ | [27-labyrinth-maze.md](structural-decodes/27-labyrinth-maze.md) |
+| 27 | The Labyrinth / The Maze | ⚙️ → ∿ → ⬶ → 💝 → ∴ \| ⚙️ → 🕸️ → ⟳ → ☍ | [27-labyrinth-maze.md](structural-decodes/27-labyrinth-maze.md) |
 | 28 | The Forge / The Alchemical Furnace | 📐 → ▲ → ◲ → ∴ | [28-forge-alchemical-furnace.md](structural-decodes/28-forge-alchemical-furnace.md) |
 | 29 | The Bridge / The Threshold | ⚙️ → 🌉 → ↺ → ∴ | [29-bridge-threshold.md](structural-decodes/29-bridge-threshold.md) |
 | 30 | The Key / The Seal | ⚙️ → 🪬📜 → 📱 → ↺ \| ⚙️ → ⊠ → ◎ → ∴ | [30-key-seal.md](structural-decodes/30-key-seal.md) |
