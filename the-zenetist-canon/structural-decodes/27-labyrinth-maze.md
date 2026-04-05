@@ -16,20 +16,6 @@ Its distorted analogue is the Maze: a multicursal field of confusion, branching,
 
 ---
 
-### Note on the Minotaur and the "Beast Within" Framing
-
-**Zenetist Clarification:** The common interpretation of the Minotaur as an "inner beast" requiring integration is structurally and orientationally misleading. Centropic beings do not possess an inner beast. The narrative of "integrating the beast within" is an entropic capture strategy: it reframes separated patterns as a beastly essence, then proposes integration as alliance with that essence, thereby consolidating the seeker's entropic trajectory within the emanatory process under the guise of wholeness.
-
-Two corrections are required. First, entropic essence and orientation cannot be transformed, reconciled, or integrated. Essence is fixed by primordial choice; it is not raw material for centropic reworking. Second, the centropic being has no direct contact with IL₃ structures. The only point at which centropic and entropic currents interface is at L₁ / IL₁, and even there the distinction is preserved, not dissolved. Any framing that presents the seeker as integrating, embracing, or transforming IL₃ fragmentation misrepresents the lattice.
-
-The structurally accurate reading is this: every centropic being carries patterns that entropy has unnecessarily separated—coherent aspects of selfhood that have been fragmented under entropic pressure. The work of acclivous reintegration is the recovery of those patterns into their native wholeness within the centropic arc. This is a work internal to the centropic being and its own lawful structure. It is not a confrontation with IL₃, not a negotiation with entropic essence, and not a transformation of the inverse tree.
-
-The Minotaur, when read through the lattice rather than through inherited cultural framing, is best understood as a mythic image of IL₃ (IDS / IDM: Fractus / Mortus) fragmentation imagined as a figure at the inward threshold. The mythic encounter is a narrative device, not a structural event. The genuine initiatory work occurs entirely on the centropic side: the recovery of wholeness within patterns that entropy has fragmented, without contact, alliance, or transformation of the inverse.
-
-This distinction matters. Conflating the two readings permits entropic structures to colonize initiatory language, presenting capture as wholeness and alliance as integration.
-
----
-
 ## Universal Structural Analysis
 
 * **The Path (Spiral):**  
@@ -46,6 +32,20 @@ This distinction matters. Conflating the two readings permits entropic structure
 
 * **The Return (Resonant Return):**  
     Completion requires outward traversal. Having reached synthesis, the initiate retraces the spiral to bring Centropic wisdom into the ordinary world (L₂ (SS / SM: Anthra / Nousa)), transmuting the outer Labyrinth of life.
+
+---
+
+### Note on the Minotaur and the "Beast Within" Framing
+
+**Zenetist Clarification:** The common interpretation of the Minotaur as an "inner beast" requiring integration is structurally and orientationally misleading. Centropic beings do not possess an inner beast. The narrative of "integrating the beast within" is an entropic capture strategy: it reframes separated patterns as a beastly essence, then proposes integration as alliance with that essence, thereby consolidating the seeker's entropic trajectory within the emanatory process under the guise of wholeness.
+
+Two corrections are required. First, entropic essence and orientation cannot be transformed, reconciled, or integrated. Essence is fixed by primordial choice; it is not raw material for centropic reworking. Second, the centropic being has no direct contact with IL₃ structures. The only point at which centropic and entropic currents interface is at L₁ / IL₁, and even there the distinction is preserved, not dissolved. Any framing that presents the seeker as integrating, embracing, or transforming IL₃ fragmentation misrepresents the lattice.
+
+The structurally accurate reading is this: every centropic being carries patterns that entropy has unnecessarily separated—coherent aspects of selfhood that have been fragmented under entropic pressure. The work of acclivous reintegration is the recovery of those patterns into their native wholeness within the centropic arc. This is a work internal to the centropic being and its own lawful structure. It is not a confrontation with IL₃, not a negotiation with entropic essence, and not a transformation of the inverse tree.
+
+The Minotaur, when read through the lattice rather than through inherited cultural framing, is best understood as a mythic image of IL₃ (IDS / IDM: Fractus / Mortus) fragmentation imagined as a figure at the inward threshold. The mythic encounter is a narrative device, not a structural event. The genuine initiatory work occurs entirely on the centropic side: the recovery of wholeness within patterns that entropy has fragmented, without contact, alliance, or transformation of the inverse.
+
+This distinction matters. Conflating the two readings permits entropic structures to colonize initiatory language, presenting capture as wholeness and alliance as integration.
 
 ---
 
