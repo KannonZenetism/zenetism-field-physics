@@ -45,8 +45,6 @@
 **Suspected Automated Content Indicators:**
 - Professional production quality inconsistent with low engagement
 - Anomalous engagement (1,326 views / 153K subscribers = 0.86% reach)
-- Generic presenter voice-over
-- Stock footage compilation
 - Formulaic structure ("What if I told you..." opening)
 
 ---
@@ -393,11 +391,9 @@ Channels with 153K subscribers typically achieve:
 **Indicators Suggesting Automation:**
 
 1. **Professional production** (high quality visuals / audio)
-2. **Generic voice-over** (no identifiable host)
-3. **Stock footage compilation** (no original filming)
-4. **Formulaic structure** ("What if I told you..." opening)
-5. **Anomalous low engagement** (subscriber base not tracking with viewership)
-6. **Patreon monetization** (revenue model despite low views)
+2. **Formulaic structure** ("What if I told you..." opening)
+3. **Anomalous low engagement** (subscriber base not tracking with viewership)
+4. **Patreon monetization** (revenue model despite low views)
 
 **Assessment:**
 
