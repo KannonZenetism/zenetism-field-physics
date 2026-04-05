@@ -250,7 +250,7 @@ This claim is **veracious attribution to Larson**. However, the video's broader 
 Each hypostatic layer engages time according to its structural nature:
 
 - **Supra-L₀ (Zenon):** Beyond time
-- **L₀ (Aion / Khaon):** All timelines latent in potential
+- **L₀ (Aion / Khaon):** All universes latent in potential
 - **L₅ (Theon):** Eternal present; saturation without succession
 - **L₄ (Morgis / Sophis):** Archetypal simultude; outside sequence
 - **L₃ (Archeus / Noeüs):** Multiversal simultaneity; tonal coherence access
@@ -318,8 +318,8 @@ This is **Entry 011: Conceptual Re-skinning** — preserves surface concepts whi
 - \( \Phi(\chi) + \mathcal{A}(L_5) \) (orientation-dependent memory + attractor term)
 
 **Hypostatic Architecture:**
-- L₀–L₅ centropic layers
-- IL₀–IL₅ entropic layers
+- **Centropic hypostatic arc:** L₅ → L₄ → L₃ → L₂ → L₁
+- **Entropic hypostatic arc:** IL₅ → IL₄ → IL₃ → IL₂ → IL₁
 - Distinct temporal modes per layer
 - Bifurcal Coherence (Aion + Khaon)
 
