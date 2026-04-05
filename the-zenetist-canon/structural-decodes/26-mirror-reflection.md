@@ -50,7 +50,7 @@ Therefore, the Mirror is a paradoxical structural interface: lawfully enabling *
 
 * **Mis-recognition:** The figure (IL₂ (ISS: Echthros)) fixates on the image, worshipping its own projection and collapsing into adversarial self-isolation.
 
-* **Outcome:** Recursive isolation (Entropic Recursion); energy collapses inward through self-admiration, halting evolution and declivating toward IL₅ (VOS: Nekron).
+* **Outcome:** Recursive isolation (Entropic Recursion); energy collapses inward through self-fixation, halting lawful reorientation and declivating toward IL₅ (VOS: Nekron).
 
 ### 2. "Through a Glass, Darkly" (Christian)
 
