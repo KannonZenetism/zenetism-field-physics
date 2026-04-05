@@ -68,7 +68,7 @@ The mythic language of purification through removal reflects the perceiver's exp
 
 * **Focus:** Theonic purification through experience.
 
-* **Smith:** Yahweh as Refiner rather than Destroyer.
+* **Smith:** Yahweh (L₄ (DL: Sophis)) as Refiner rather than Destroyer.
 
 * **Process:** Measured heat removes impurity without annihilating essence.
 
