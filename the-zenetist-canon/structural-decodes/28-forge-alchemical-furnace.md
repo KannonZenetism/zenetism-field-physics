@@ -88,13 +88,13 @@ The mythic language of purification through removal reflects the perceiver's exp
 
 ## Summary: The Esoteric Meaning
 
-The Forge is the sacred answer to suffering: **pain as precise calibration.**  
-Transformation demands heat, impact, and endurance. Every trial is a strike of the Hammer against the Anvil of Law.
+The Forge is an Archetype of transformation under Pressure.  
+It names those conditions in which Heat, Impact, and Endurance expose incoherence and make lawful reintegration possible.
 
-It teaches that we are not undone by pressure but shaped by it. The Fire of crisis and loss is not hostility but refinement. The blows of circumstance temper the Soul's resonance into strength and clarity.
+It teaches that pressure does not automatically destroy structure; under the right conditions, it can clarify, temper, and re-order it. The Fire of crisis and loss is not always hostility, but neither is it automatically refinement; its meaning depends on whether fragmentation hardens into collapse or is brought toward coherence.
 
-Its message is participation and trust: we are simultaneously **Smith and Metal.**  
-We must place ourselves upon the Anvil of honesty (L₃ (DM: Noeüs)), let experience supply the Flame, and guide our own reshaping with disciplined Will (L₂ (SS: Anthra)). Through cooperation with the supernal Smith (L₄ (DP / DL: Morgis / Sophis)), the incoherent ore of being becomes an instrument of luminous precision—**a masterpiece of coherence forged within the Aionic fire.**
+Its message is participation and disciplined response: we are at times **Smith and Metal.**  
+We must place ourselves upon the Anvil of honesty (L₃ (DM: Noeüs)), endure the Pressure that reveals distortion, and guide our reshaping with disciplined Will (L₂ (SS: Anthra)). Through cooperation with lawful structure, the incoherent ore of being may become an instrument of luminous precision—**a work of coherence forged through Trial-Fire and Reintegration.**
 
 ---
 
