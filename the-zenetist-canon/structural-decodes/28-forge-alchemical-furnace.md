@@ -91,7 +91,7 @@ The mythic language of purification through removal reflects the perceiver's exp
 The Forge is an Archetype of transformation under Pressure.  
 It names those conditions in which Heat, Impact, and Endurance expose incoherence and make lawful reintegration possible.
 
-It teaches that pressure does not automatically destroy structure; under the right conditions, it can clarify, temper, and re-order it. The Fire of crisis and loss is not always hostility, but neither is it automatically refinement; its meaning depends on whether fragmentation hardens into collapse or is brought toward coherence.
+It teaches that pressure does not automatically destroy relative structure; under the right conditions, it can clarify, temper, and re-order it. The Fire of crisis and loss is not always hostility, but neither is it automatically refinement; its meaning depends on whether fragmentation hardens into collapse or is brought toward coherence.
 
 Its message is participation and disciplined response: we are at times **Smith and Metal.**  
 We must place ourselves upon the Anvil of honesty (L₃ (DM: Noeüs)), endure the Pressure that reveals distortion, and guide our reshaping with disciplined Will (L₂ (SS: Anthra)). Through cooperation with lawful structure, the incoherent ore of being may become an instrument of luminous precision—**a work of coherence forged through Trial-Fire and Reintegration.**
