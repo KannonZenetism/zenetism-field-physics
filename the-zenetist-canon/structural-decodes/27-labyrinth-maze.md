@@ -57,7 +57,7 @@ This distinction matters. Conflating the two readings permits entropic structure
 
 * **Architect:** Daedalus (L₄ (DL: Sophis))—divine intelligence crafting the initiatory geometry.
 
-* **Hero:** Theseus (L₂ (SS / SM: Anthra / Nousa)) enters the Labyrinth to face the Minotaur (IL₃ (IDS / IDM: Fractus / Mortus)), a mirror of his own unmastered instincts.
+* **Hero:** Theseus (L₂ (SS / SM: Anthra / Nousa)) enters the Labyrinth to face the Minotaur (IL₃ (IDS / IDM: Fractus / Mortus)), a mirror of his own fragmented centropic patterns (often misidentified as a "bestial" nature).
 
 * **Thread:** Ariadne (L₄ (DP: Morgis) guide) offers the connective principle ensuring safe emergence.
 
