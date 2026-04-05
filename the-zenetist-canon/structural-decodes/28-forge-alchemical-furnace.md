@@ -62,7 +62,7 @@ The mythic language of purification through removal reflects the perceiver's exp
     1. **Nigredo (Deconstruction):** Dissolution and confrontation with shadow.  
     2. **Albedo (Seal):** Purification and reflective awareness.  
     3. **Citrinitas (Synthesis):** Integration of solar intelligence (L₃ (DS / DM: Archeus / Noeüs) awakening).  
-    4. **Rubedo (Coherence):** Final synthesis—the Philosopher's Stone, consciousness capable of transforming reality itself.
+    4. **Rubedo (Coherence):** Final synthesis—the Philosopher's Stone, consciousness capable of lawful transformative influence.
 
 ### 3. The Refiner's Fire (Biblical)
 
