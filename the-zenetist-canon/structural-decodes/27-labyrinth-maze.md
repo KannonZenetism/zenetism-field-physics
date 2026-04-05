@@ -40,7 +40,7 @@ Unlike the chaotic maze of Entropic confusion (Fragmentation), a veracious Labyr
 
 * **Hero:** Theseus (L₂ (SS / SM: Anthra / Nousa)) descends to face the Minotaur (IL₃ (IDS / IDM: Fractus / Mortus)), a mirror of his own unmastered instincts.
 
-* **Thread:** Ariadne (L₄ (DP / DL: Morgis / Sophis) guide) offers the connective principle ensuring safe emergence.
+* **Thread:** Ariadne (L₄ (DP: Morgis) guide) offers the connective principle ensuring safe emergence.
 
 * **Meaning:** Integration of the Shadow and conscious return mark the soul's first great synthesis.
 
