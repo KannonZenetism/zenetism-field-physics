@@ -35,8 +35,8 @@ Therefore, the Mirror is a paradoxical structural interface: lawfully enabling *
     The decisive moment of discernment. Does the observer receive the reflection as veracious disclosure? Do they assume responsibility for what is shown, or reject the image and attack the surface that revealed it?
 
 * **Outcome:**  
-    * **Integration (Resonant Return):** Acceptance and realignment. The L₂ (SS / SM: Anthra / Nousa) reconciles with the L₃ (DS / DM: Archeus / Noeüs) ideal, leading to therapeutic deconstruction and synthesis.  
-    * **Rejection (Entropic Recursion):** Denial or fixation on the image; blame cast on the mirror itself. This initiates entropic recursion—repetition without growth.
+    * **Integration (Resonant Return):** Acceptance and realignment. The L₂ (SS / SM: Anthra / Nousa) receives corrective disclosure from the L₃ (DS / DM: Archeus / Noeüs) ideal, leading to deconstruction and synthesis.  
+    * **Rejection (Entropic Recursion):** Denial or fixation on the image; blame cast on the mirror itself. This initiates Entropic Recursion—repetition without lawful reorientation.
 
 ---
 
