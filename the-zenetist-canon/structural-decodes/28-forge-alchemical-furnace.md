@@ -59,7 +59,7 @@ The mythic language of purification through removal reflects the perceiver's exp
 * **Focus:** Psyche as Metallurgical Process.
 
 * **Stages:**  
-    1. **Nigredo (Deconstruction):** Dissolution and confrontation with shadow.  
+    1. **Nigredo (Deconstruction):** Dissolution and confrontation with fragmented patterning.  
     2. **Albedo (Seal):** Purification and reflective awareness.  
     3. **Citrinitas (Synthesis):** Integration of solar intelligence (L₃ (DS / DM: Archeus / Noeüs) awakening).  
     4. **Rubedo (Coherence):** Final synthesis—the Philosopher's Stone, consciousness capable of lawful transformative influence.
