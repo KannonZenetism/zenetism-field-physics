@@ -76,7 +76,7 @@ Therefore, the Mirror is a paradoxical structural interface: lawfully enabling *
 
 * **Focus:** Reflection of desire rather than structure.
 
-* **Mirror:** Reveals L₄ (DP: Morgis)-level longing, not factual coherence.
+* **Mirror:** Reveals L₄ (DP: Morgis)-layer longing, not factual coherence.
 
 * **Function:** Diagnostic of motivation and attachment.
 
