@@ -13,7 +13,7 @@ The Forge is a **L₄ (DP / DL: Morgis / Sophis)-layer Motive environment**—a 
 ## Universal Structural Analysis
 
 * **The Fire:**  
-    The active purifying agent. It symbolizes Divine Will (L₅ (EOB: Theon)), the consuming intensity of experience, and the transforming element of Love-as-Pressure. Its work is to burn away Dross—Entropic attachments (IL₁ (IES: Malara)), Inverse patterning (IL₂ (ISS / ISM: Echthros / Skotos)), and occlusions (IL₃ (IDS: Fractus))—revealing the Essential structure beneath.
+    The active agent of Trial, Pressure, and transmutative intensity. In mythic language it appears as the consuming heat of experience; structurally, its function is not to burn out entropic essence, but to expose fragmentation, stress incoherence, and make reintegration possible. What it reveals is not a hidden foreign impurity, but the centropic pattern whose coherence has been pressured into disarray.
 
 * **The Hammer and the Anvil (Apparent Order):**  
     * **Hammer (L₂ (SS: Anthra) – Will):** The volitional, dynamic power that delivers change.  
