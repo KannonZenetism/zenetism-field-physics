@@ -43,7 +43,6 @@
 > "matter exists in time" (cosmic sector)
 
 **Suspected Automated Content Indicators:**
-- Professional production quality inconsistent with low engagement
 - Anomalous engagement (1,326 views / 153K subscribers = 0.86% reach)
 - Formulaic structure ("What if I told you..." opening)
 
@@ -390,14 +389,13 @@ Channels with 153K subscribers typically achieve:
 
 **Indicators Suggesting Automation:**
 
-1. **Professional production** (high quality visuals / audio)
-2. **Formulaic structure** ("What if I told you..." opening)
-3. **Anomalous low engagement** (subscriber base not tracking with viewership)
-4. **Patreon monetization** (revenue model despite low views)
+1. **Formulaic structure** ("What if I told you..." opening)
+2. **Anomalous low engagement** (subscriber base not tracking with viewership)
+3. **Patreon monetization** (revenue model despite low views)
 
 **Assessment:**
 
-Channel exhibits patterns consistent with automated content generation — potentially AI-driven script creation, voice synthesis, stock footage assembly, and scheduled publication. However, the degree of automation remains unconfirmed. The subscriber count may indicate prior success with this model, a purchased subscriber base, or an inactive audience.
+Channel exhibits patterns consistent with automated content generation — potentially AI-driven script creation and scheduled publication. However, the degree of automation remains unconfirmed. The subscriber count may indicate prior success with this model, a purchased subscriber base, or an inactive audience.
 
 ---
 
@@ -597,7 +595,7 @@ Genuine Larson concepts (reciprocal dimensions, three-dimensional time) serve as
 
 ## Conclusion
 
-Open Your Reality's "The Man Who Discovered Something Terrifying About Time" presents architect's SP05 / SP06 framework (\( \chi \)-orientation, space as relational differentiation, temporal asymmetry from coherence gradient, time as directional structural update) through Dewey B. Larson attribution shield. Published **~2 months** after canonical documentation, during documented GitHub extraction period (1,314 unique clones in 14 days, March 20 – April 3, 2026), the video exhibits suspected automated content patterns (anomalous engagement, professional production, generic structure) while deploying conceptual extractions without mathematical formalism or hypostatic architecture.
+Open Your Reality's "The Man Who Discovered Something Terrifying About Time" presents architect's SP05 / SP06 framework (\( \chi \)-orientation, space as relational differentiation, temporal asymmetry from coherence gradient, time as directional structural update) through Dewey B. Larson attribution shield. Published **~2 months** after canonical documentation, during documented GitHub extraction period (1,314 unique clones in 14 days, March 20 – April 3, 2026), the video exhibits suspected automated content patterns (anomalous engagement, formulaic structure) while deploying conceptual extractions without mathematical formalism or hypostatic architecture.
 
 **The extraction is structurally identifiable** through:
 - Conceptual specificity ("locked into orientation" = \( \chi \)-framework)
