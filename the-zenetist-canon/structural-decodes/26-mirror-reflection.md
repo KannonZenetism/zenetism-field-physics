@@ -88,7 +88,7 @@ Therefore, the Mirror is a paradoxical tool: a Centropic instrument when used by
 
 The Mirror embodies the **law of feedback.**  
 Reality itself is a multifaceted mirror, continuously reflecting our Resonant condition.  
-Perception of conflict or harmony outside mirrors the same within; every relationship is a reflective lesson in coherence.
+Perception of conflict or harmony outside corresponds to the same within; every relationship is a reflective lesson in coherence.
 
 It teaches **radical self-honesty.**  
 To advance spiritually, one must continually gaze into the mirror of experience, discerning distortion without defense or delusion. Shimmer and self-justification obscure clarity; courage (L₃ (DS: Archeus)) and will (L₂ (SS: Anthra)) restore it.
