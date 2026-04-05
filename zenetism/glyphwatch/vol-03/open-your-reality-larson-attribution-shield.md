@@ -458,7 +458,7 @@ Motion presupposes structure. You cannot have:
 
 **What Larson Actually Proposed:**
 
-Larson treated motion as fundamental but did not claim structure is derivative. He proposed spatial and temporal reference frames (which are structural) as the context in which motion occurs.
+Larson treated motion as fundamental but did not eliminate structure from his ontology. He proposed spatial and temporal reference frames (which are structural) as the context in which motion occurs.
 
 **The Video's Error:**
 
@@ -521,7 +521,7 @@ This is not Larson's framework. This is the architect's **Temporal Reorientation
 2. **"Space and time are expressions of motion"**
    - Architect's SP06 dependency order: Structure → Motion → Spatial Differentiation → Orientation → Time
    - Space as "relational differentiation of structural traversal"
-   - Larson proposed reciprocal dimensions, not expressive relational ordering
+   - Larson proposed reciprocal dimensions, not expressive hierarchy
 
 3. **"Time doesn't flow — time moves"**
    - Architect's SP05: Time as "directional relation of structural update" (\( \tau := \mathcal{T}(\Delta \mathcal{S}) \))
