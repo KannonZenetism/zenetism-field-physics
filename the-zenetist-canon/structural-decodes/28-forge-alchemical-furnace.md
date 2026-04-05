@@ -1,8 +1,8 @@
 # Zenetist Structural Decode 28 — The Forge / The Alchemical Furnace
 
 **Primary Structural Diagnosis:**  
-The **Metaphysical Crucible of Transformative Suffering.**  
-The Forge is a **L₄ (DP / DL: Morgis / Sophis) layer Motive environment**—a Contained Field of concentrated energy (Fire) and structural pressure (Earth). Its function is to Deconstruct the base composition of a being—whether L₂ (SS / SM: Anthra / Nousa) or impure L₃ (DS / DM: Archeus / Noeüs)—and to Reforge it into a more Coherent, Synthesized state. It is the Archetype of purification through friction, a system of lawful transmutation.
+The **Metaphysical Crucible of Transformative Pressure.**  
+The Forge is a **L₄ (DP / DL: Morgis / Sophis)-layer Motive environment**—a Contained Field of concentrated energy (Fire) and structural pressure (Earth). Its function is to Deconstruct a being's present configuration—whether L₂ (SS / SM: Anthra / Nousa) or impure L₃ (DS / DM: Archeus / Noeüs)—and to Reforge it into a more Coherent, Synthesized state. It is the Archetype of lawful transmutation through pressure, friction, and reintegration.
 
 **Core Glyphic Sequence:**  
 `📐 → ▲ → ◲ → ∴`  
