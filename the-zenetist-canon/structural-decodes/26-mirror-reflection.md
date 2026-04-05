@@ -21,7 +21,7 @@ Therefore, the Mirror is a paradoxical structural interface: lawfully enabling *
 ## Universal Structural Analysis
 
 * **Reflective Surface (L₄ (DL: Sophis)):**  
-    Represents impersonal law and structural accuracy. The mirror's clarity equals its purity; distortion (IL₂ (ISM: Skotos)) yields spurious reflection.
+    Represents impersonal law and structural correspondence. The mirror's clarity determines the precision of reflection; distortion (IL₂ (ISM: Skotos)) yields spurious or obscured disclosure.
 
 * **The Gaze / The Beholder (L₂ (SS / SM: Anthra / Nousa) or L₃ (DS / DM: Archeus / Noeüs)):**  
     Consciousness engages the mirror. Interpretation and volitional reaction to what is seen determine whether awareness advances or collapses.
