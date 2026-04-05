@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Structured Field of Recursive Passage and Initiation.**  
-The Labyrinth is a **L₄ (DL: Sophis) layer construct**—a Resonance Amplifier and Volitional Filter.  
+The Labyrinth is a **L₄ (DL: Sophis)-layer construct**—a Resonance Amplifier and Volitional Filter.  
 In its veracious form, the Labyrinth is Unicursal: one winding Spiral that leads inward toward the Center (Synthesis), symbolizing the Non-Linear but assured path of Centropic initiation for those who persist.  
 Its distorted analogue is the Maze: a multicursal field of confusion, branching, and Fragmentation in which orientation is tested under conditions of obscuration.
 
