@@ -70,7 +70,7 @@ The mythic language of purification through removal reflects the perceiver's exp
 
 * **Smith:** Yahweh (L₄ (DL: Sophis)) as Refiner rather than Destroyer.
 
-* **Process:** Measured heat removes impurity without annihilating essence.
+* **Process:** Measured heat exposes fragmentation and restores coherence without annihilating essence.
 
 * **Result:** A people or soul capable of Resonant Offering (acclivous centropic motion).
 
