@@ -16,16 +16,16 @@ The Gate or Threshold represents the point of Resonant Crossing—where one fiel
     The lawful limit between dimensions or states of being. It tests readiness, ensuring that only what matches the lawful Pattern passes through. To attempt crossing without harmonic alignment results in disintegration (Fragmentation), refusal, or rebound (Entropic Recursion).
 
 * **The Guardian (L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs)):**  
-    A coherent intelligence stationed at every Gate, representing the lawful measuring of frequency. This figure may appear as angel, sphinx, ferryman, or inner knowing—each form tailored to the traveler's resonance and the layer at which the Gate operates.
+    A coherent intelligence or measuring function often stationed at a Gate, representing the lawful calibration of passage. This figure may appear as angel, sphinx, ferryman, or inner knowing—each form tailored to the traveler's resonance and the layer at which the Gate operates.
 
 * **The Key:**  
-    The Symbol of Correct Alignment. It is never a physical object but a harmonic pattern—the completion of a required internal law. When the frequencies match, the Gate opens effortlessly.
+    The Symbol of Correct Alignment. It is not reducible to a physical object, but signifies a harmonic pattern—the completion of a required internal law. When the frequencies match, the Gate opens effortlessly.
 
 * **The Fire of Passage:**  
-    The transmutative friction between old and new states. It exposes and resolves residual fragmentation, ensuring that what crosses the threshold carries lawful coherence forward.
+    The transmutative friction that may arise between old and new states. It exposes residual fragmentation and tests whether what crosses the threshold can carry lawful coherence forward.
 
-* **The Step Beyond (Resonant Return):**  
-    Entry into a new field, hypostasis, or epoch of consciousness. The Gate marks both ending and beginning; it is a symbol of cyclic continuity, not finality.
+* **The Step Beyond (Lawful Passage):**  
+    Entry into a new field, hypostasis, or epoch of consciousness. The Gate marks both ending and beginning; it is a symbol of calibrated continuity, not finality.
 
 ---
 
