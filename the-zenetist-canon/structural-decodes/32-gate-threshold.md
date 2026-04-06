@@ -22,7 +22,7 @@ The Gate or Threshold represents the point of Resonant Crossing—where one fiel
     The Symbol of Correct Alignment. It is never a physical object but a harmonic pattern—the completion of a required internal law. When the frequencies match, the Gate opens effortlessly.
 
 * **The Fire of Passage:**  
-    The purgative friction between old and new states. It annihilates residual dissonance, ensuring that only purified structure crosses the threshold.
+    The transmutative friction between old and new states. It exposes and resolves residual fragmentation, ensuring that what crosses the threshold carries lawful coherence forward.
 
 * **The Step Beyond (Resonant Return):**  
     Entry into a new field, hypostasis, or epoch of consciousness. The Gate marks both ending and beginning; it is a symbol of cyclic continuity, not finality.
