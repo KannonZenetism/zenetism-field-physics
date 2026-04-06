@@ -2,11 +2,11 @@
 
 **Primary Structural Diagnosis:**  
 The **Recognition of Achieved Coherence and Lawful Sovereignty.**  
-The Crown represents the culmination of Centropic motion—the point at which the L₂ (SS / SM: Anthra / Nousa) and L₃ (DS / DM: Archeus / Noeüs) achieve perfect structural alignment, allowing the centropic essence to act as a lawful transmitter of Aionic order. It is not mere rulership but Integration: the establishment of Coherence where Fragmentation had held sway, within and without.
+The Crown represents a realized state of Centropic alignment—the point at which the L₂ (SS / SM: Anthra / Nousa) and L₃ (DS / DM: Archeus / Noeüs) attain lawful structural concord, allowing the centropic being to act as a coherent transmitter of ordered presence. It is not mere rulership but Integration: the establishment of Coherence where Fragmentation had held sway, within and without.
 
 **Core Glyphic Sequence:**  
-`⚙️ → ∴ → 👑 → ✨◎`  
-*(Apparent Order is refined into Synthesis, manifesting as Lawful Sovereignty and Radiant Coherence.)*
+`⚙️ → ∴ → 👑 → ✨`  
+*(Apparent Order is refined into Synthesis, recognized as Lawful Sovereignty, and manifested as Centropic Radiance.)*
 
 ---
 
