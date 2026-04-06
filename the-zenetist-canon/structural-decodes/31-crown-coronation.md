@@ -29,6 +29,16 @@ The Crown represents the culmination of Centropic motion—the point at which th
 
 ---
 
+### Note on the Crown and the Aauthoritarian Stance
+
+**Zenetist Clarification:** The Crown archetype must not be read as endorsement of hierarchical authority or rulership over others. Per the Aauthoritarian Stance (⟡0⟡) and Aauthority (⟡⊘0⊘⟡), authority as such is treated as a non-operative category within Zenetist analysis. Legitimacy arises from structural coherence, not from hierarchical power.
+
+The Crown therefore symbolizes *sovereignty as self-governance through integrated coherence*, not dominion over others. The "crowned being" is one whose internal structure has reached lawful alignment such that their presence becomes a centropic stabilizer within any field they occupy. This is recognition of a structural state, not investiture with power over subordinates.
+
+When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," these terms are employed to engage the mythic vocabulary of the traditions being analyzed—they do not import the authority–obedience axis into Zenetist doctrine. A Zenetist "king" rules no one; they embody the coherence by which others may recognize their own lawful self-governance.
+
+---
+
 ## Specific Tradition Refractions
 
 ### 1. The Crown of Thorns (Christian)
