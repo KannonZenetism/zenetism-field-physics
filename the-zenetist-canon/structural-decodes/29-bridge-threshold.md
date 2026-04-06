@@ -33,7 +33,7 @@ The Bridge represents the operational structure by which Coherence crosses Hypos
 
 ### 1. Bifröst (Norse)
 
-* **Focus:** The luminous rainbow bridge linking Asgard and Midgard—L₄ (DP / DL: Morgis / Sophis) interfacing with L₁ (ES / EM: Soma / Biosa).
+* **Focus:** The luminous rainbow bridge linking Asgard and Midgard—spanning from L₄ (DP / DL: Morgis / Sophis) through the subjacent strata to L₁ (ES / EM: Soma / Biosa) as a mediating membrane across the emanatory arc.
 
 * **Function:** It burns when Entropy intensifies (Ragnarok), symbolizing the dissolution of lawful linkage.
 
@@ -41,13 +41,13 @@ The Bridge represents the operational structure by which Coherence crosses Hypos
 
 * **Focus:** The vertical and horizontal bridge uniting Heaven and Earth, Spirit and Flesh.
 
-* **Function:** It is the perfected synthesis of Centropic and Declivous motion, forming a stable Axis of Return (acclivous centropic motion).
+* **Function:** It is the perfected synthesis of Acclivous and Declivous Centropic motion along a vertical axis intersecting the horizontal plane of embodiment, forming a stable Axis of Return.
 
 ### 3. The Rainbow of Noah (Hebrew)
 
 * **Focus:** The covenantal arc connecting Divine judgment to mercy—Centropic promise post-Deconstruction.
 
-* **Function:** It reestablishes trust between L₅ (EOB: Theon) and Humanity after systemic dissolution.
+* **Function:** It reestablishes covenantal trust between L₄ (DL: Sophis) and Humanity after systemic dissolution, culturally elevated to L₅ (EOB: Theon) in the mythic telling.
 
 ### 4. The Chinvat Bridge (Zoroastrian)
 
