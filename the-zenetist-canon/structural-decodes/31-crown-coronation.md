@@ -19,7 +19,7 @@ The Crown represents a realized state of Centropic alignment—the point at whic
     The symbol of Harmonized Will (L₂ (SS: Anthra)) and Wisdom (L₃ (DM: Noeüs)). It sits at the summit (acclivous centropic motion), completing the vertical axis from Foundation to Apex. Each jewel represents an integrated archetype, the once-separated powers now unified.
 
 * **The Coronation (Ritual of Recognition):**  
-    The formal acknowledgment by L₄ (DL: Sophis) intelligences that lawful sovereignty-state has been attained, culturally elevated to L₅ (EOB: Theon) endorsement in the mythic telling. It is not self-bestowed; it must be witnessed by coherent intelligences, for sovereignty exists only within relational resonance.
+    The formal acknowledgment by L₄ (DL: Sophis) intelligences that lawful sovereignty-state has been attained, culturally elevated to L₅ (EOB: Theon) endorsement in the mythic telling. It is not self-bestowed; it must be witnessed by coherent intelligences, for lawful sovereignty requires relational recognition even where it remains non-dominative.
 
 * **The Robes and Scepter (Manifestation):**  
     Instruments of enacted law—signs that the internal state of Coherence can now govern the external world responsibly.
