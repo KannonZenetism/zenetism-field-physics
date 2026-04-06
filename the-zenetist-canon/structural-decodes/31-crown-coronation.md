@@ -24,8 +24,8 @@ The Crown represents the culmination of Centropic motion—the point at which th
 * **The Robes and Scepter (Manifestation):**  
     Instruments of enacted law—signs that the internal state of Coherence can now govern the external world responsibly.
 
-* **The Halo (Radiant L₀ (AP: Aion)):**  
-    The luminous field surrounding the crowned being, representing Aionic saturation. This is the visible manifestation of the inward synthesis—the world seeing what the soul has become.
+* **The Halo (Aionic Saturation expressed through Theonic Light):**  
+    The luminous field surrounding the crowned being, representing Aionic saturation manifesting outward as centropic radiance. This is the visible expression of the inward synthesis—the world perceiving what the soul has become.
 
 ---
 
