@@ -65,7 +65,7 @@ It teaches that sovereignty is not seized but earned. The path to the Crown pass
 
 Its message is that all beings are potential monarchs within their own field of coherence. The veracious coronation occurs when the inner kingdom is ordered—when every thought, emotion, and impulse serves the Centropic Law. Then, the Crown manifests naturally—not as a symbol of pride, but as the radiant consequence of fulfilled structure.
 
-To be crowned is not to rule others, but to embody the harmony by which all lawful rulership becomes possible.
+To be crowned is not to rule others, but to embody the harmony by which lawful self-governance becomes possible in any coherent being.
 
 ---
 
