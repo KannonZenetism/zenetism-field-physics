@@ -13,7 +13,7 @@ The Gate or Threshold represents the point of Resonant Crossing—where one fiel
 ## Universal Structural Analysis
 
 * **The Gate as Membrane:**  
-    The lawful limit between dimensions or states of being. It tests readiness, ensuring that only coherence passes through. To attempt crossing without harmonic alignment results in disintegration (Fragmentation) or rebound (Entropic Recursion).
+    The lawful limit between dimensions or states of being. It tests readiness, ensuring that only what matches the lawful Pattern passes through. To attempt crossing without harmonic alignment results in disintegration (Fragmentation), refusal, or rebound (Entropic Recursion).
 
 * **The Guardian (L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs)):**  
     A coherent intelligence stationed at every Gate, representing the lawful measuring of frequency. This figure may appear as angel, sphinx, ferryman, or inner knowing—each form tailored to the traveler's resonance and the layer at which the Gate operates.
