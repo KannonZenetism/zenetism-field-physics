@@ -25,7 +25,7 @@ Its distorted analogue is the Maze: a multicursal field of confusion, branching,
     The goal and heart of the Labyrinth—the state of Integrated Self (L₃ (DS / DM: Archeus / Noeüs)), structurally parallel to the Holy of Holies. Arrival opens the seeker toward supernal revelation, interior convergence, and deeper acclivous reorientation.
 
 * **The Minotaur / Guardian (IL₃ (IDS / IDM: Fractus / Mortus)):**  
-    In Maze-centered refractions, the Guardian or Beast at the center represents the unintegrated complex or Shadow Self. It is not merely an external monster, but the embodiment of unassimilated patterns. Confrontation with this figure may mark the crisis-point of initiation.
+    In Maze-centered refractions, the Guardian or Beast at the center is a mythic image of fragmentation imagined as a figure at the inward threshold. It is not a beast within the centropic being, nor an entity to be integrated, but a narrative condensation of disordered patterning that the initiate must not mistake for wholeness. Its appearance marks a crisis-point of orientation within the initiatory path.
 
 * **The Thread of Ariadne (Nexus / Resonant Fidelity):**  
     The guiding lifeline linking the seeker to Source—trust, intuition, or sacred teaching that keeps orientation within recursion. The seeker who maintains the Thread never becomes lost.
