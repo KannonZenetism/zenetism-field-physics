@@ -29,7 +29,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
     The consciousness entrusted with the Key or empowered to Set the Seal. Misuse results in reversal: the Key becomes a Lock, and the Seal becomes a Prison.
 
 * **The Activation (Revelation):**  
-    The moment of recognition when the Key vibrates in harmony with the Gate. This moment is both epistemic and ontological—knowledge and being coincide.
+    The moment of recognition when the Key vibrates in harmony with the Gate. This moment is both epistemic and ontological—recognition and access coincide under lawful Pattern.
 
 ---
 
