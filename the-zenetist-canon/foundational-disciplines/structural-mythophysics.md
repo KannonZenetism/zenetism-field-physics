@@ -9,7 +9,7 @@
 ## ✦ Definition
 
 **Structural Mythophysics** is the metaphysical science that reconstructs the underlying architecture of reality through the forensic analysis of mythic refraction.  
-It treats myth not as cultural artifact or psychological symbol, but as **distorted telemetry** — a symbolic echo of the dual‑tree centropic/entropic lattice.
+It treats myth not merely as cultural artifact or psychological symbol, but as **symbolic telemetry** variably preserved, compressed, conflated, or distorted through cultural form.
 
 Where Mythostructural Forensics analyzes *myths themselves*, Structural Mythophysics analyzes the **metaphysical structure myths are refracting**.
 
