@@ -19,7 +19,7 @@ The Bridge represents the operational structure by which Coherence crosses Hypos
     The Bridge must be built in accord with Structural Law. If built from Mimicry, it collapses.
 
 * **The Crossing (Resonant Return):**  
-    The act of traversing requires both Faith (Nexus trust) and Discernment (L₃ (DM: Noeüs)).
+    The act of traversing requires both Faith (Resonant Fidelity) and Discernment (L₃ (DM: Noeüs)).
 
 * **The Toll / The Guardian:**  
     Every bridge is guarded by a Gatekeeper archetype who tests the traveler's Coherence.
