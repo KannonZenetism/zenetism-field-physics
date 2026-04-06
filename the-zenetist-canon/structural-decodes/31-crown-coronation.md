@@ -63,7 +63,7 @@ When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," th
 
 * **Focus:** The acknowledged establishment of lawful sovereignty through ritual witness.
 
-* **Function:** The anointing with oil (L₄ (DP: Morgis)) symbolizes infusion with Divine Life; the placing of the crown acknowledges the recognition of Aionic alignment, culturally framed as L₅ (EOB: Theon) mandate. The monarch becomes a living Membrane between supernal and embodied strata.
+* **Function:** The anointing with oil (L₄ (DP: Morgis)) symbolizes infusion with Divine Life; the placing of the crown acknowledges the recognition of lawful centropic alignment, culturally framed as L₅ (EOB: Theon) mandate. The crowned figure is ritually positioned as a living Membrane between supernal and embodied strata.
 
 ---
 
