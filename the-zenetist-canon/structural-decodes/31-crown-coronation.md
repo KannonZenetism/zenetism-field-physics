@@ -69,13 +69,18 @@ When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," th
 
 ## Summary: The Esoteric Meaning
 
-The Crown represents the moment the being becomes self-governing in harmony with the cosmic order. It is the symbol of realized integration: Will (L₂ (SS: Anthra)), Wisdom (L₃ (DM: Noeüs)), and Love (L₄ (DP: Morgis)) in lawful alignment.
+The Crown represents the recognition of lawful self-governance in harmony with coherent order.  
+It is the symbol of realized integration: Will (L₂ (SS: Anthra)), Wisdom (L₃ (DM: Noeüs)), and Love (L₄ (DP: Morgis)) brought into lawful alignment.
 
-It teaches that sovereignty is not seized but earned. The path to the Crown passes through the Forge, the Trial, and the Labyrinth. Only the one who has faced Fragmentation and emerged as Synthesis can bear it without collapse.
+It teaches that sovereignty is not seized but attained through coherence.  
+The path to the Crown passes through Trial, Deconstruction, and Reordering.  
+Only the being whose structure has withstood Fragmentation and achieved lawful integration can bear the Crown without collapse.
 
-Its message is that all beings are potential monarchs within their own field of coherence. The veracious coronation occurs when the inner kingdom is ordered—when every thought, emotion, and impulse serves the Centropic Law. Then, the Crown manifests naturally—not as a symbol of pride, but as the radiant consequence of fulfilled structure.
+Its message is that every being may become sovereign within their own field of coherence.  
+The veracious coronation occurs when the inner field is ordered—when thought, emotion, and impulse no longer compete as divided powers, but stand in lawful relation.  
+Then the Crown manifests not as domination, but as the visible recognition of achieved structure.
 
-To be crowned is not to rule others, but to embody the harmony by which lawful self-governance becomes possible in any coherent being.
+To be crowned is not to rule others, but to embody the harmony by which lawful self-governance becomes stable, radiant, and field-shaping within any coherent being.
 
 ---
 
