@@ -57,7 +57,7 @@ When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," th
 
 * **Focus:** The Manifestation of Enlightened Awareness.
 
-* **Function:** The crown worn by high lamas represents the Five Wisdoms—each jewel a conquered Klesha (Inverse pattern) transmuted into Centropic awareness. It signifies the attainment of Dharmic sovereignty, resonance over perception itself.
+* **Function:** The crown worn by high lamas represents the Five Wisdoms—each jewel signifying a Klesha-pattern lawfully reoriented into Centropic awareness. It signifies the attainment of Dharmic sovereignty, coherence within perception itself.
 
 ### 4. The Coronation of Kings (Western Rite)
 
