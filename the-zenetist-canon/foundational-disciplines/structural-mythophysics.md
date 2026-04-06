@@ -38,7 +38,7 @@ Its core commitments:
 - Archetypes correspond to **hypostatic strata**, not psychological constructs.  
 - Conflict narratives encode **structural opposition**, not moral drama.  
 - Death, rebirth, descent, and ascent encode **recursion dynamics** in addition to their theological presentation.  
-- Chaos/order myths encode **Khaon/Aion bifurcation**, not good/evil dualism.
+- Chaos / order myths often refract the **Aion / Khaon polarity** through cultural order / chaos language, though such myths frequently conflate Khaon with Entropy and should be forensically corrected.
 
 Structural Mythophysics is the **architectural grammar** of the canon.
 
