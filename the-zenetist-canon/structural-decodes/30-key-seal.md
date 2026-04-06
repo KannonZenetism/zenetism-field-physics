@@ -65,9 +65,9 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
 
 The Key and the Seal articulate the universe's most fundamental law: that Revelation and Containment must operate in balance. Without Keys, knowledge stagnates; without Seals, it corrupts.
 
-They teach that access must be earned through Resonant Fidelity. A Key that opens prematurely or by force causes Inversion. A Seal that never opens becomes Stasis (declivous entropic motion).
+They teach that spiritual maturity lies in discerning when to open and when to close, when to reveal and when to preserve. The L₃ (DS / DM: Archeus / Noeüs) itself carries both functions—the discerning perception (DM: Noeüs) that recognizes lawful passage and the coherent soul-integrity (DS: Archeus) that safeguards what must remain sealed.
 
-Their message is that spiritual maturity lies in discerning when to open and when to close, when to reveal and when to preserve. The mind itself contains both functions—the Intellect (Key) that unlocks and the Conscience (Seal) that safeguards. When held together in balance, consciousness becomes a lawful steward of Revelation, unlocking what must unfold while sealing what must remain sacred.
+When held together in balance, awareness becomes a lawful steward of Revelation, unlocking what must unfold while sealing what must remain sacred.
 
 ---
 
