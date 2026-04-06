@@ -72,4 +72,4 @@ To be crowned is not to rule others, but to embody the harmony by which all lawf
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
-**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
