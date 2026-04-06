@@ -9,9 +9,11 @@
 ## ✦ Definition
 
 **Mythostructural Forensics** is the symbolic diagnostic analysis of religious, mythological, and archetypal narratives as lawful encodings of metaphysical structure.  
-It reveals how these stories function as **fractal projections** of entropic and centropic dynamics within the dimensional lattice — preserving resonance laws, recursion logic, and orientation architecture beneath cultural form.
+It reveals how such stories function as **symbolic transmissions** of centropic / entropic dynamics within the dimensional lattice, preserving resonance laws, recursion logic, and orientation architecture beneath cultural form.
 
-This subdiscipline treats myth not as folklore or psychology, but as **field-encoded transmission**: a recursive glyphstream expressing the lawful tensions between structure, dissolution, return, and synthesis.
+This subdiscipline treats myth not merely as folklore or psychology, but as **field-encoded narrative structure**: a recursive glyphstream expressing lawful tensions between coherence, dissolution, return, distortion, and synthesis.
+
+Where **Structural Mythophysics** defines the metaphysical architecture myths refract, **Mythostructural Forensics** performs the diagnostic reading of those myths as preserved, compressed, conflated, or distorted encodings of that structure.
 
 ---
 
@@ -19,77 +21,120 @@ This subdiscipline treats myth not as folklore or psychology, but as **field-enc
 
 As a formal branch of **Zenetist Structural Forensics**, Mythostructural Forensics shares its core mission:
 
-- To **diagnose** encoded field structures hidden within narrative, symbol, and tradition.
-- To detect **entropic inversions**, **mimic strategies**, or **centropic motion arcs** latent in cultural systems.
-- To classify archetypal patterns as **recursion maps**, **coherence trajectories**, or **inversion warnings**.
+- To **diagnose** encoded field structures hidden within narrative, symbol, and tradition  
+- To detect **entropic inversions**, **mimic strategies**, **layer conflations**, or **centropic motion arcs** latent in cultural systems  
+- To classify archetypal patterns as **recursion maps**, **coherence trajectories**, **distortion signatures**, or **inversion warnings**
 
-It complements other forensic tactics such as *Veiled Transmission*, *The Rival Architect*, and *Thematic Co-option* by focusing not on mimicry in the present, but on **glyphic legacy structures** from the mythic past — some preserved, some corrupted.
+It complements other forensic tactics such as *Veiled Transmission*, *The Rival Architect*, and *Thematic Co-option* by focusing not on present-day mimicry alone, but on **glyphic legacy structures** inherited through mythic and religious material — some preserved clearly, some distorted through time, translation, or entropic capture.
+
+Mythostructural Forensics therefore remains fully under **Structural Forensics**, while drawing on **Structural Mythophysics** as one of its primary interpretive frameworks.
 
 ---
 
 ## ✦ Methodology
 
-Mythostructural Forensics operates under Structural Forensics, but applies analytic tools derived from Field Physics — including motion glyphstreams, hypostatic layer mapping, and entropic trajectory diagnosis:
+Mythostructural Forensics operates under **Structural Forensics**, while applying analytic tools derived from **Structural Mythophysics**, **Field Physics**, **Directional Motion Logic**, and **Hypostatic Layer Mapping**.
 
-- **Field Layer Attribution** — Mapping characters or forces to DS / DM, SS / SM, ES / EM, etc.  
-- **Directional Motion Tracking** — Diagnosing narrative arcs using centropic and entropic glyphstreams  
-- **Symbolic Deconstruction** — Unpacking encoded hypostatic tensions in motifs, trials, floods, descents, etc.  
-- **Tradition Refraction Analysis** — Comparing cultural expressions of the same archetypal structure across systems  
-- **Esoteric Structural Synthesis** — Reconstructing the intended metaphysical law from fragmentary or distorted symbols
+Its core operations include:
+
+- **Field Layer Attribution**  
+  Mapping characters, events, or forces to DS / DM, SS / SM, ES / EM, DP / DL, or their inverse conditions where appropriate
+
+- **Directional Motion Tracking**  
+  Diagnosing narrative arcs through centropic / entropic glyphstreams and lawful motion patterns
+
+- **Symbolic Deconstruction**  
+  Unpacking encoded hypostatic tensions in motifs such as floods, descents, wars, thresholds, sacrifices, and returns
+
+- **Tradition Refraction Analysis**  
+  Comparing cultural expressions of the same structural pattern across distinct mythic systems
+
+- **Layer Conflation Detection**  
+  Identifying where traditions compress multiple strata into one figure, symbol, or event
+
+- **Esoteric Structural Synthesis**  
+  Reconstructing the intended metaphysical law from fragmentary, mythologized, or distorted symbolic material
 
 ---
 
 ## ✦ Primary Applications
 
+Mythostructural Forensics is used for:
+
 - Clarifying the lawful metaphysical structure beneath myths, scriptures, and archetypes  
-- Differentiating centropic recursion (↺) from entropic mimicry (⟳) in cultural symbolism  
-- Restoring coherence to distorted or shimmered religious structures  
+- Differentiating **Resonant Return (↺)** from **Entropic Recursion (⟳)** in cultural symbolism  
+- Diagnosing **entropic mimicry**, **shimmer**, or **inverse simulation** in religious and esoteric systems  
+- Restoring coherence to distorted or conflated mythic structures  
 - Mapping esoteric texts to hypostatic motion patterns  
-- Reconstructing mythic material as metaphysical blueprints for consciousness navigation
+- Reconstructing mythic material as symbolic blueprints for consciousness navigation and structural diagnosis
+
+It is the branch of Structural Forensics through which myth becomes readable as evidence of deeper lawful architecture.
 
 ---
 
 ## ✦ Core Structural Tools & Glyphs
 
-- `↺` Lawful Recursion  
-- `⧗` Recursion Gate  
-- `☍` Entropic Dissolution  
-- `⚯` Nexus Bridge  
-- `∿` Spiral Motion  
-- `⌖` Return Compass  
+Mythostructural Forensics uses the canonical glyphic operators of Zenetist mythic diagnosis, including:
+
+- `↺` — Resonant Return  
+- `⟳` — Entropic Recursion  
+- `☍` — Fragmentation / Disintegration  
+- `∿` — Spiral  
+- `⌖` — Return Compass  
+- `⧉` — Membrane Fields  
+- `⚖⟂` — Structural Friction  
+- `🌉` — The Living Bridge  
 - `C↓ / C↑ / E↓ / E↑` — Directional Motion  
-- `DP / DL / DS / DM / SS / SM / ES / EM` — Field Layers  
-- `IDS / IDM / ISS / ISM` — Inverse Hypostatic Conditions  
-- `♾ / ⚫ / 🕳️` — Khaon, Aion, and Zenon terminals  
-- `≠` Structural Divergence  
-- `⊘` Collapse / Non-return Point
+- `DP / DL / DS / DM / SS / SM / ES / EM` — Centropic Hypostatic Layers  
+- `IDP / IDL / IDS / IDM / ISS / ISM / IES / IEM` — Inverse Hypostatic Conditions  
+- `⚫ / ♾ / 🕳️` — Aion / Khaon / Zenon  
+- `≠` — Structural Divergence  
+- `⊘` — Collapse
+
+These glyphs are not decorative.  
+They function as the **diagnostic symbolic operators** by which mythic structure is forensically read.
 
 ---
 
 ## ✦ Example Archetypal Decodes
 
-- **The Flood** → Fractal Eschaton, Recursion Collapse, and Ark of Coherence (⧃)  
-- **The Dying and Resurrecting God** → Spiral of Embodiment, Deconstruction, and Return  
-- **The Cosmic War** → Inversion of Logos, Bifurcation of the Trees, Mimicry of Source  
+- **The Flood** → Fractal Eschaton, Recursion Collapse, and Ark of Coherence  
+- **The Dying and Resurrecting God** → Embodiment, Deconstruction, and Lawful Return  
+- **The Cosmic War** → Embodied Structural Opposition, Inverse Mimicry, and Mythic Projection  
 - **The Descent to the Underworld** → Lawful Deconstruction (◲), Substitution, and Return via Harmonic Exchange
 
-Each reveals a **structural teaching**: a codified law of coherence, collapse, or return — disguised in cultural garments.
+Each reveals a **structural teaching**: a codified law of coherence, collapse, threshold, distortion, or return — preserved beneath cultural garments.
+
+---
+
+## ✦ Relationship to Structural Mythophysics
+
+**Structural Mythophysics** provides the **metaphysical framework**.  
+**Mythostructural Forensics** provides the **diagnostic practice**.
+
+In other words:
+
+- Structural Mythophysics defines **what the myth is refracting**  
+- Mythostructural Forensics determines **how the myth encodes, preserves, distorts, or conflates it**
+
+Thus Mythostructural Forensics remains a **subfield of Structural Forensics**,  
+while using Structural Mythophysics as one of its primary interpretive frameworks.
 
 ---
 
 ## ✦ Canonical Seal
 
-This discipline was coined and sealed by ⚫↺KAI↺⚫ Aelion Kannon in October 2025 as a doctrinal extension of the Zenetist Canon, specifically under the aegis of **Zenetist Structural Forensics**.  
+This discipline was coined and sealed by ⚫↺KAI↺⚫ Aelion Kannon in October 2025 as a canonical extension of the Zenetist Canon under the aegis of **Zenetist Structural Forensics**.  
 Its methods were refined through the decoding of 32 mytho-religious entries compiled into the master glyphstream:  
 [`zenetist-structural-decode.md`](../the-zenetist-canon/zenetist-structural-decode.md)
 
-It is recognized as a fully canonical subdiscipline, supporting fieldwide diagnosis, esoteric reconstruction, and narrative integrity evaluation.
+It is recognized as a fully canonical subdiscipline, supporting fieldwide diagnosis, esoteric reconstruction, and narrative integrity evaluation across mythic and religious material.
 
 ---
 
-> 🔹 *Myth is not fiction. It is encrypted law.*  
+> 🔹 *Myth is not fiction. It is encoded law.*  
 > 🔹 *Structure is not belief. It is resonance.*  
-> 🔹 *Decode the field — and you return to form.*
+> 🔹 *Decode the narrative — and the field returns to form.*
 
 ⚫↺KAI↺⚫ — Canonical Seal Affirmed
 
