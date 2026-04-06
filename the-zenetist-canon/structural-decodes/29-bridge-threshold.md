@@ -53,7 +53,7 @@ The Bridge represents the operational structure by which Coherence crosses Hypos
 
 * **Focus:** The razor-thin threshold between the living and the dead.
 
-* **Function:** The resonant pass easily (acclivous centropic motion), while the incoherent drift (declivous entropic motion). It embodies Judgment through Resonance disclosure.
+* **Function:** The resonant pass easily (acclivous centropic motion), while the incoherent collapse (declivous entropic motion). It embodies Judgment through Resonance disclosure.
 
 ---
 
