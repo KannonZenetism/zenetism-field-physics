@@ -3,7 +3,7 @@
 **Primary Structural Diagnosis:**  
 The **Embodied Experience of Archetypal Opposition.**  
 This mythos encodes the structural opposition between centropic (L₄ DP / DL: Morgis / Sophis) and entropic (IL₄ IDP / IDL: Psychea / Nyxea) archetypal currents as experienced through the embodied medium.  
-These currents emanate independently from their respective roots — Aion and Khaon — and converge only at the L₁ / IL₁ meeting point.  
+These currents emanate independently through the Aionic and Khaonic arcs and converge only at the L₁ / IL₁ meeting point.  
 Mythmakers, experiencing this opposition through the embodied field, projected the conflict onto the archetypal layer itself, narrating it as a war "in heaven."  
 The opposition is real — but its theatre is embodiment, not the archetypal domain.
 
