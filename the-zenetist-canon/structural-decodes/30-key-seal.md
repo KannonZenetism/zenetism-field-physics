@@ -26,7 +26,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
     The threshold mechanism that responds only to the proper Key signature. Every Gate tests for Resonant Match, admitting only those whose coherence accords with its lawful pattern.
 
 * **The Bearer (L₃ (DS / DM: Archeus / Noeüs) or L₄ (DL: Sophis)):**  
-    The consciousness entrusted with the Key or empowered to Set the Seal. Misuse results in reversal: the Key becomes a Lock, and the Seal becomes a Prison.
+    The awareness entrusted with the Key or empowered to Set the Seal. Misuse results in reversal: the Key becomes a Lock, and the Seal becomes a Prison.
 
 * **The Activation (Revelation):**  
     The moment of recognition when the Key vibrates in harmony with the Gate. This moment is both epistemic and ontological—recognition and access coincide under lawful Pattern.
