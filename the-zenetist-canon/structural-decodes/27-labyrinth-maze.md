@@ -107,7 +107,7 @@ The Labyrinth is **cosmic architecture for revelation through persistence.**
 In its veracious form, it assures that a path to the Center exists, even when the route is winding and non-linear.  
 The Maze, by contrast, names the condition in which orientation is obscured, branching multiplies, and fragmentation threatens fidelity.
 
-It teaches that the path is **Spiral, not linear.** Each recursion may dissolve illusion, expose distortion, or deepen recognition. The Thread is the faithful remembrance of Source; the Guardian or Minotaur is the figure encountered when unresolved fragmentation occupies the inward threshold.
+It teaches that the path is **Spiral, not linear.** Each recursion may dissolve illusion, expose distortion, or deepen recognition. The Thread is the faithful remembrance of Source; the Guardian or Minotaur is the mythic figure by which unresolved fragmentation is imagined at the inward threshold.
 
 Its message: **Hold the Thread.**  
 Walk deliberately, preserve Resonant Fidelity, and continue inward until the Center is disclosed.  
