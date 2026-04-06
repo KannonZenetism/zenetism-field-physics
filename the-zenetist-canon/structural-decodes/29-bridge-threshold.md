@@ -5,8 +5,8 @@ The **Lawful Channel of Transition Between Domains.**
 The Bridge represents the operational structure by which Coherence crosses Hypostatic boundaries. It is not a metaphor for fusion, but a calibrated Membrane Pathway that preserves distinction while enabling Resonant exchange between realities, beings, or states.
 
 **Core Glyphic Sequence:**  
-`⚙️ → 🌉 → ↺ → ∴`  
-*(Apparent Order gives rise to The Living Bridge, enabling a Resonant Return that culminates in Synthesis.)*
+`⧉ → 🌉 → 💝 → ↺`  
+*(A Membrane Field gives rise to The Living Bridge; Resonant Fidelity preserves distinction and enables lawful Return across the threshold.)*
 
 ---
 
