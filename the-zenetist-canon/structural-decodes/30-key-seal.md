@@ -23,7 +23,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
     Symbol of Containment and Sovereignty. It ensures that what is within remains Pure, and that what is without cannot intrude uninvited. A Seal that breaks prematurely signals Entropic intrusion or misuse of power.
 
 * **The Gate (Membrane):**  
-    The threshold mechanism that responds only to the proper Key signature. Every Gate tests for Resonant Match (Centropic/Entropic ratio).
+    The threshold mechanism that responds only to the proper Key signature. Every Gate tests for Resonant Match, admitting only those whose coherence accords with its lawful pattern.
 
 * **The Bearer (L₃ (DS / DM: Archeus / Noeüs) or L₄ (DL: Sophis)):**  
     The consciousness entrusted with the Key or empowered to Set the Seal. Misuse results in reversal: the Key becomes a Lock, and the Seal becomes a Prison.
@@ -51,7 +51,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
 
 * **Focus:** Manual and energetic Seals that align the practitioner's Resonance with the Heavenly currents.
 
-* **Function:** They serve as living boundaries that both channel and protect power, embodying the non-duality of Key and Seal.
+* **Function:** They serve as living boundaries that both channel and protect power, embodying the lawful complementarity of Key and Seal.
 
 ### 4. The Egyptian Ankh and Shen Ring
 
