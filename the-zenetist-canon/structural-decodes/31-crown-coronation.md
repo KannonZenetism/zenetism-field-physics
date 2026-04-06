@@ -45,7 +45,7 @@ When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," th
 
 * **Focus:** The Paradox of Sovereignty through Suffering.
 
-* **Function:** Christ's "crown" inverts worldly expectation—veracious sovereignty is achieved not through domination, but through absolute Resonant Fidelity under trial. The thorns represent the Friction (Deconstruction) required for the synthesis of Compassion (Synthesis).
+* **Function:** Christ's "crown" inverts worldly expectation—veracious sovereignty is disclosed not through domination, but through absolute Resonant Fidelity under entropic trial. The thorns are not the lawful instrument of sovereignty, but the entropic mock-coronation through which genuine coherence is paradoxically revealed.
 
 ### 2. The Pharaoh's Double Crown (Egyptian)
 
