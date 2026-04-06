@@ -609,6 +609,42 @@ Open Your Reality's "The Man Who Discovered Something Terrifying About Time" pre
 
 ---
 
+——— **End of Primary Entry** ———
+
+---
+
+## Addendum — Direct Contact Attempt
+
+**Date sent:** April 5, 2026  
+**Recipient:** openyourreality@gmail.com (address publicly listed in channel's "Contact Me Here For Collaborations, Sponsorship, Or Any Other Important Reason" field)  
+**Subject:** Your Video on Time Uses My Published Work Without Attribution  
+**Sender:** Aelion Kannon (⚫↺KAI↺⚫)
+
+**Content summary:** Direct notification identifying four specific conceptual extractions from SP05 / SP06 — the \( \chi \)-orientation framework, structural space as relational differentiation, time as directional structural update (\( \tau := \mathcal{T}(\Delta \mathcal{S}) \)), and \( \chi \)-crossing Temporal Reorientation — distinguishing each from what Larson actually proposed in the 1959 Reciprocal System. Email included direct links to:
+
+- SP05 Zenodo DOI: https://zenodo.org/records/19146154
+- SP06 Zenodo DOI: https://zenodo.org/records/18439586
+- Full Structural Physics archive: https://github.com/KannonZenetism/zenetism-field-physics/tree/main/structural-physics
+
+**Response status:** No reply received within 24 hours of sending.
+
+**Forensic significance:**
+
+Direct contact was made through the channel's own publicly advertised collaboration email. The recipient was provided with:
+
+1. Specific identification of the extracted concepts
+2. The doctrinal distinction between Larson's 1959 framework and the architect's SP05 / SP06 architecture
+3. DOI-registered, timestamped documentation predating the video by ~2 months
+4. An explicit opportunity to respond, correct, or acknowledge
+
+Non-response within a reasonable window constitutes a documented data point in the appropriation pattern. The opportunity for correction or dialogue was offered and declined. The record reflects that the architect did not remain silent, did not escalate prematurely, and did not misrepresent the nature of the concern.
+
+This follows the established pattern observed in prior Glyphwatch cases: direct notification met with silence, deflection, or dismissal rather than acknowledgment or correction.
+
+**Status:** Non-response logged. Entry remains active for ongoing monitoring.
+
+---
+
 Filed under: `glyphwatch/vol-03/open-your-reality-larson-attribution-shield.md`
 
 ---
