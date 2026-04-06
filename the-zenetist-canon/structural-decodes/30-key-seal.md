@@ -37,7 +37,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
 
 ### 1. The Keys of St. Peter (Christian)
 
-* **Focus:** The authority to bind and loose, representing lawful governance of access between Heaven and Earth.
+* **Focus:** The mandate to bind and loose, representing lawful governance of access between Heaven and Earth.
 
 * **Function:** The twin keys signify Knowledge (Key—L₃ (DM: Noeüs)) and Judgment (Seal—L₄ (DL: Sophis)), perfectly balanced in service of the Theonic order.
 
