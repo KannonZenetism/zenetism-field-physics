@@ -21,8 +21,8 @@ It is the discipline that:
 - reconstructs **recursion arcs**,  
 - and reveals the **dual‑tree architecture** encoded beneath cultural narrative.
 
-Structural Mythophysics is the **physics engine**;  
-Mythostructural Forensics is the **diagnostic toolkit** built on top of it.
+Structural Mythophysics provides the **architectural grammar** of mythic structure;  
+Mythostructural Forensics is the **diagnostic practice** that applies that grammar within Zenetist Structural Forensics.
 
 ---
 
