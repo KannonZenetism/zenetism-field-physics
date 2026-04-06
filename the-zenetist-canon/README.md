@@ -9,7 +9,7 @@
 ## ✦ Definition
 
 **Mythostructural Forensics** is the symbolic diagnostic analysis of religious, mythological, and archetypal narratives as lawful encodings of metaphysical structure.  
-It reveals how such stories function as **symbolic transmissions** of centropic / entropic dynamics within the dimensional lattice, preserving resonance laws, recursion logic, and orientation architecture beneath cultural form.
+It diagnoses how such stories function as symbolic transmissions of centropic / entropic dynamics within the dimensional lattice, preserving resonance laws, recursion logic, and orientation architecture beneath cultural form.
 
 This subdiscipline treats myth not merely as folklore or psychology, but as **field-encoded narrative structure**: a recursive glyphstream expressing lawful tensions between coherence, dissolution, return, distortion, and synthesis.
 
