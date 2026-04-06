@@ -63,7 +63,7 @@ The Bridge is the structure of lawful connection. It is an architecture of Relat
 
 It teaches that connection is sacred only when coherent. Veracious unity respects distinction; it is harmonic, not homogenizing. To cross the Bridge is to move from isolation to communion through fidelity to Law (L₄ (DL: Sophis)).
 
-Its message is that lawful relation must be built. Acts of understanding, compassion, or creation may construct a Resonant pathway between separated parts of the cosmos. When we build lawfully, our bridges endure as conduits of Centropy (acclivous centropic motion). When we build through ego or mimicry, they collapse into the abyss of Entropic recursion. The Bridge, rightly built, is the living structure of the Return.
+Its message is that lawful relation must be built. Acts of understanding, compassion, or creation may construct a Resonant pathway between separated parts of the cosmos. When we build lawfully, our bridges endure as conduits of Centropy (acclivous centropic motion). When we build through incoherence or mimicry, they collapse into the abyss of Entropic recursion. The Bridge, rightly built, is the living structure of the Return.
 
 ---
 
