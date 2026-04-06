@@ -100,7 +100,7 @@ Where the myth appears to fuse embodied renewal with inverse dissolution, it ref
 
 * **Dissolution and Suspension:** The Sojourn in Entropic Stasis.
 
-* **Rescue and Exchange:** Requires a Substitute (Dumuzid). This nuance establishes that lawful return often carries a Harmonic Exchange, defining the Spiral nature of all centropic processes.
+* **Rescue and Exchange:** Requires a Substitute (Dumuzid). This nuance establishes that lawful return often carries a Harmonic Exchange, revealing the Spiral nature of certain centropic return processes.
 
 ---
 
