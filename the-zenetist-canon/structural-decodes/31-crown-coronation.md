@@ -13,7 +13,7 @@ The Crown represents the culmination of Centropic motion—the point at which th
 ## Universal Structural Analysis
 
 * **The Throne (Foundation):**  
-    The structural seat of authority. It is both a literal and metaphysical platform where the centropic essence stabilizes. The throne is built upon Integrity (Membrane) and cannot support a dissonant occupant without collapse.
+    The structural seat of lawful self-governance. It is both a literal and metaphysical platform where the centropic essence stabilizes. The throne is built upon Integrity (Membrane) and cannot support a dissonant occupant without collapse.
 
 * **The Crown:**  
     The symbol of Harmonized Will (L₂ (SS: Anthra)) and Wisdom (L₃ (DM: Noeüs)). It sits at the summit (acclivous centropic motion), completing the vertical axis from Foundation to Apex. Each jewel represents an integrated archetype, the once-separated powers now unified.
