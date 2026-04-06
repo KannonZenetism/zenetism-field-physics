@@ -28,8 +28,8 @@ Mythostructural Forensics is the **diagnostic toolkit** built on top of it.
 
 ## ✦ Disciplinary Alignment
 
-Structural Mythophysics is a **root discipline** of the Zenetist Canon.  
-It provides the metaphysical framework that all other subfields — including Mythostructural Forensics — rely upon.
+Structural Mythophysics is a **foundational interpretive framework** for mythic decoding within the Zenetist Canon.
+It provides the metaphysical grammar used by Mythostructural Forensics to reconstruct the structures myths refract, compress, preserve, or distort.
 
 Its core commitments:
 
