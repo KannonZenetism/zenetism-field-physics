@@ -65,7 +65,7 @@ The Gate or Threshold represents the point of Resonant Crossing—where one fiel
 
 ## Summary: The Esoteric Meaning
 
-The Gate is the universal law of transition. It ensures that movement between states occurs only when structure can endure the next frequency. It is the guardian of coherence, preventing the chaos of unfiltered motion.
+The Gate is the universal law of transition. It ensures that movement between states occurs only when structure can endure the next frequency. It is the guardian of coherence, preventing fragmentation under unfiltered motion.
 
 It teaches that thresholds are sacred—not obstacles, but calibrations. Every moment of growth, death, or revelation is preceded by a Gate that tests readiness. Resistance, fear, or impatience cannot open it; only alignment can.
 
