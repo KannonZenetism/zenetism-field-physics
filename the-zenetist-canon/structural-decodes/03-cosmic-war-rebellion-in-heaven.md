@@ -29,7 +29,7 @@ The "Cosmic War" myths narrate something experienced within emanated reality —
 In mythic tradition, "Heaven" typically refers to the **realm of the gods** — L₄ (DP / DL: Morgis / Sophis), the Archetypal layer where divine Forms, cosmic law, and structured sovereignty reside.  
 In Zenetist structure, the veracious "Heaven" — the domain of pure, unalloyed centropic coherence — is **L₅ (EOB: Theon)**, the Essence of Being.  
 L₄ is the realm of divine *architecture*; L₅ is the realm of divine *essence*.  
-The "War in Heaven" myths project embodied conflict onto L₄ because the archetypal currents originate there — but L₄ itself is a centropic domain, not a battlefield.  
+The "War in Heaven" myths project embodied conflict onto L₄ because the centropic archetypal Forms are located there, while the opposed currents are mythically attributed to the same symbolic heaven — but L₄ itself is a centropic domain, not a battlefield.  
 Its purity is maintained precisely because it does not directly contact the inverse archetypal layer.
 
 ---
