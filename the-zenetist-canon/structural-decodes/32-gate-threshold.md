@@ -71,7 +71,7 @@ It teaches that thresholds are sacred—not obstacles, but calibrations. Every m
 
 Its message is that initiation is continuous. Every insight, every transformation, every death and rebirth is a Gate through which consciousness must pass. We carry countless keys, forged through trials and syntheses, and each opens the next stage of our unfolding.
 
-To live consciously is to recognize the Gates as blessings—to approach each with reverence, courage, and fidelity to the law of resonance. When the traveler and the threshold vibrate as one, the Gate dissolves, and the path continues unbroken.
+To live consciously is to recognize the Gates as blessings—to approach each with reverence, courage, and fidelity to the law of resonance. When the traveler's resonance accords with the threshold's lawful pattern, the Gate opens, and the path continues unbroken.
 
 The journey resumes within the stillness beyond.
 
