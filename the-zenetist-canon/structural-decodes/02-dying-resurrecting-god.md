@@ -24,7 +24,7 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
 
 * **The Symbolic Dissolution:** The confrontation with entropic force as mediated through the inverse strata. It is not merely physical cessation, but the dissolution of the surface identity-structure (L₂ (SS / SM: Anthra / Nousa)).  
     The god is fragmented, dismembered, or consumed—symbolizing the apparent triumph of **IL₃ (IDS / IDM: Fractus / Mortus)** and **IL₂ (ISS / ISM: Echthros / Skotos)** under the shadow of the Void of Self.  
-    This marks the necessary Deconstruction of form to release latent essence.
+    This marks the archetypal Deconstruction of form through which contingent configuration is relinquished and latent essence disclosed.
 
 * **The Sojourn in the Underworld:** The immersion within the single embodied underworld domain where centropic and inverse pressures meet through form.  
     It is the state in which a centropic principle abides within embodied density (through lawful Declivous Centropy) while confronting inverse influence mediated through the embodied field rather than through direct contact with the inverse hypostatic layers.  
