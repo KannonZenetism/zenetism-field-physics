@@ -65,7 +65,8 @@ Its core methodological operations include:
   Distinguishing centropic emanation from entropic origin without collapsing the two into a single mythic field.
 
 - **Layer Conflation Correction**  
-  Identifying where a tradition compresses multiple strata into one symbol, figure, or event.
+  Identifying where a tradition compresses multiple strata into one symbol, figure, or event.  
+  Where Mythostructural Forensics detects conflation within the narrative artifact, Structural Mythophysics provides the architectural basis by which that conflation is corrected.
 
 - **Recursion Arc Reconstruction**  
   Mapping descent, dissolution, deconstruction, and return to lawful motion within the lattice.
