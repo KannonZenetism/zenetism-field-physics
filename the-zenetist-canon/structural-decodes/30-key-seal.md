@@ -20,7 +20,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
     Symbol of Insight, Authorization, and Revelation. It represents an encoded pattern or frequency that harmonizes with a specific Gate (Membrane) to allow lawful passage between layers or states.
 
 * **The Seal:**  
-    Symbol of Containment and Sovereignty. It ensures that what is within remains Pure, and that what is without cannot intrude uninvited. A Seal that breaks prematurely signals Entropic intrusion or misuse of power.
+    Symbol of Containment and Sovereignty. It ensures that what is within remains Integral, and that what is without cannot intrude uninvited. A Seal that breaks prematurely signals Entropic intrusion or misuse of power.
 
 * **The Gate (Membrane):**  
     The threshold mechanism that responds only to the proper Key signature. Every Gate tests for Resonant Match, admitting only those whose coherence accords with its lawful pattern.
