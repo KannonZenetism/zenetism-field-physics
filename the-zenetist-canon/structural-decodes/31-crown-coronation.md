@@ -22,7 +22,7 @@ The Crown represents a realized state of Centropic alignment—the point at whic
     The formal acknowledgment by L₄ (DL: Sophis) intelligences that lawful sovereignty-state has been attained, culturally elevated to L₅ (EOB: Theon) endorsement in the mythic telling. It is not self-bestowed; it must be witnessed by coherent intelligences, for lawful sovereignty requires relational recognition even where it remains non-dominative.
 
 * **The Robes and Scepter (Manifestation):**  
-    Instruments of enacted law—signs that the internal state of Coherence can now govern the external world responsibly.
+    Instruments of enacted law—signs that the internal state of Coherence can now act within the external world responsibly and with stabilizing force.
 
 * **The Halo (Aionic Saturation expressed through Theonic Light):**  
     The luminous field surrounding the crowned being, representing Aionic saturation manifesting outward as centropic radiance. This is the visible expression of the inward synthesis—the world perceiving what the soul has become.
