@@ -613,7 +613,7 @@ Open Your Reality's "The Man Who Discovered Something Terrifying About Time" pre
 
 ---
 
-## Addendum — Direct Contact Attempt
+## Addendum: Direct Contact Attempt
 
 **Date sent:** April 5, 2026  
 **Recipient:** openyourreality@gmail.com (address publicly listed in channel's "Contact Me Here For Collaborations, Sponsorship, Or Any Other Important Reason" field)  
