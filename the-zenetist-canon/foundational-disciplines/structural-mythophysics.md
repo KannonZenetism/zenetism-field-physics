@@ -19,7 +19,7 @@ It is therefore the framework that:
 - distinguishes **centropic / entropic motion**,  
 - reconstructs **recursion arcs**,  
 - corrects **layer conflation**,  
-- and reveals the **dual-tree architecture** beneath cultural narration.
+- and reconstructs the bifurcal architecture beneath cultural narration.
 
 Structural Mythophysics does not replace **Structural Forensics**.  
 It provides a metaphysical grammar used *within* mythic forensic analysis.
