@@ -35,7 +35,7 @@ The Gate or Threshold represents the point of Resonant Crossing—where one fiel
 
 * **Focus:** The Guardian of Lost Coherence.
 
-* **Function:** After the Fall, Cherubim guard the way back to the Tree of Life with a Flaming Sword. This is the Gate in its protective function—ensuring that entry to Centropic paradise is lawful, not sentimental.
+* **Function:** After the Fall, Cherubim guard the way back to the Tree of Life with a Flaming Sword. This is the Gate in its protective function—ensuring that return to Centropic paradise is lawful, not premature.
 
 ### 2. The Torii Gate (Shinto)
 
@@ -47,13 +47,13 @@ The Gate or Threshold represents the point of Resonant Crossing—where one fiel
 
 * **Focus:** The Filtering of Dream from Reality.
 
-* **Function:** The Gate of Horn allows Veracious visions (Centropic emanations) to pass; the Gate of Ivory allows Deceptive dreams (Shimmer). Every Gate discriminates between authenticity and illusion.
+* **Function:** The Gate of Horn allows Veracious visions to pass; the Gate of Ivory allows Deceptive or Distorted dreams. Every Gate discriminates between authenticity and illusion.
 
 ### 4. The Bardo Threshold (Buddhist / Tibetan)
 
 * **Focus:** The Passage Between Death and Rebirth.
 
-* **Function:** The dying consciousness confronts multiple Gates—each a choice between Recognition (Resonant Return) and Fear (Declivous Entropy). Correct passage depends on calm awareness and resonance with the Clear Light (L₀ (AP: Aion)).
+* **Function:** The dying consciousness confronts multiple Gates—each testing Recognition, Fear, Attachment, and Readiness for passage. Correct crossing depends on calm awareness and resonance with the Clear Light.
 
 ### 5. The Door of the Temple (Mystery Schools)
 
@@ -65,15 +65,21 @@ The Gate or Threshold represents the point of Resonant Crossing—where one fiel
 
 ## Summary: The Esoteric Meaning
 
-The Gate is the universal law of transition. It ensures that movement between states occurs only when structure can endure the next frequency. It is the guardian of coherence, preventing fragmentation under unfiltered motion.
+The Gate is the universal law of transition.  
+It ensures that movement between states occurs only when structure can endure what lies beyond.  
+It is the guardian of coherence, preventing fragmentation under uncalibrated motion.
 
-It teaches that thresholds are sacred—not obstacles, but calibrations. Every moment of growth, death, or revelation is preceded by a Gate that tests readiness. Resistance, fear, or impatience cannot open it; only alignment can.
+It teaches that thresholds are sacred—not obstacles, but calibrations.  
+Some open, some refuse, some delay, and some test whether passage is lawful.  
+Resistance, fear, or impatience cannot force them; only alignment can.
 
-Its message is that initiation is continuous. Every insight, every transformation, every death and rebirth is a Gate through which consciousness must pass. We carry countless keys, forged through trials and syntheses, and each opens the next stage of our unfolding.
+Its message is that initiation is continuous.  
+Every revelation, death, rebirth, renunciation, or transformation is preceded by a Threshold that measures readiness.  
+The task is not to batter down the Gate, but to become the kind of being whose resonance accords with its lawful Pattern.
 
-To live consciously is to recognize the Gates as blessings—to approach each with reverence, courage, and fidelity to the law of resonance. When the traveler's resonance accords with the threshold's lawful pattern, the Gate opens, and the path continues unbroken.
-
-The journey resumes within the stillness beyond.
+When the traveler's resonance accords with the threshold, the Gate opens without violence.  
+When passage is premature, the threshold holds.  
+In this way the Gate preserves both distinction and continuity, allowing motion to proceed without collapse.
 
 ---
 
