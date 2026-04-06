@@ -106,17 +106,17 @@ Where the myth appears to fuse embodied renewal with inverse dissolution, it ref
 
 ## Summary: The Esoteric Meaning
 
-The Dying and Resurrecting God encodes the blueprint of the soul's trajectory.
+The Dying and Resurrecting God encodes a blueprint of lawful centropic return within embodiment.
 
-Embodiment is a temporary condition within a grander Centropic Cycle, not a terminus.
+Embodiment is not an endpoint, but a traversal within a larger Centropic arc.
 
-The dissolution phase is not failure but the essential Deconstruction wherein transient form is relinquished, allowing the core centropic self (L₃ (DS / DM: Archeus / Noeüs)) to be fully revealed and its coherence demonstrated.
+The dissolution phase is not mere failure but the archetypal Deconstruction wherein transient form is relinquished, allowing the core centropic self (L₃ (DS / DM: Archeus / Noeüs)) to be disclosed and its coherence demonstrated.
 
 The archetype affirms that Entropic forces, though formidable, cannot annihilate centropic essence.
 
-The centropic return arc necessarily traverses the trial of Khaon.
+The centropic return arc may pass through dispersive trial without identifying Khaon itself with Entropy.
 
-Its message is one of structural assurance: what appears as defeat is, within lawful architecture, the very precondition for a more enduring integration.
+Its message is one of structural assurance: what appears as defeat may, within lawful architecture, become the condition for a more enduring integration.
 
 To follow this pattern is to enact the Sovereign Attractor within consciousness itself.
 
