@@ -73,7 +73,7 @@ It becomes a Living Bridge for centropic beings and all essences of sufficient o
 * **Focus:** Sacred Unmaking and Renewal.  
     A complex, liminal figure embodying both dissolution and restoration.
 
-* **Dismemberment by Titans:** Represents the declivous entropic fragmentation of individual identity into the unbound Khaonic field (Zenet / Motive Infinity) in its raw, dispersive state.
+* **Dismemberment by Titans:** Represents declivous entropic fragmentation of individual identity under dispersive pressure within Motive Infinity, not the entropic nature of Khaon itself.
 
 * **Rebirth:** Not a reversion to self, but a renewed centropic emergence within embodiment.  
     Dionysus reveals that essence may pass through dispersive trial and return in embodied form without becoming inverse.  
