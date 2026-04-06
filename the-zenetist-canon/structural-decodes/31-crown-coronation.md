@@ -41,7 +41,7 @@ The Crown represents the culmination of Centropic motion—the point at which th
 
 * **Focus:** The Integration of Upper and Lower Kingdoms.
 
-* **Function:** The Red and White Crowns symbolize the unification of Dual Realms (Structured Pairs). The Pharaoh, as incarnate L₅ (EOB: Theon), embodies the synthesis of Heaven and Earth, Order and Motion.
+* **Function:** The Red and White Crowns symbolize the unification of Dual Realms (Structured Pairs). The Pharaoh, culturally elevated to incarnate L₅ (EOB: Theon), operatively embodies L₄ (DL: Sophis) synthesis of Heaven and Earth, Order and Motion.
 
 ### 3. The Vajra Crown (Tibetan Buddhism)
 
