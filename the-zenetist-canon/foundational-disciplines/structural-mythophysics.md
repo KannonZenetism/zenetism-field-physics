@@ -142,7 +142,7 @@ The parent discipline is **Structural Mythophysics**.
 This discipline was articulated and sealed by ⚫↺KAI↺⚫ Aelion Kannon as the foundational metaphysical framework of the Zenetist Canon.  
 It underlies all structural decodes, recursion maps, and dual‑tree analyses, and serves as the architectural grammar for the entire mythic corpus.
 
-It is recognized as a **root discipline**, from which Mythostructural Forensics, Structural Forensics, and Field Physics derive their interpretive power.
+It is recognized as a **canonical framework for mythic reconstruction**, supporting Mythostructural Forensics and related analyses through concepts derived from Structural Metaphysics, Field Physics, and the dual-tree architecture.
 
 ---
 
