@@ -51,7 +51,7 @@ Its core operations include:
 
 - **Layer Conflation Detection**  
   Identifying where traditions compress multiple strata into one figure, symbol, or event  
-  This detection is completed through Structural Mythophysics, which supplies the uncompromised lattice structure by which the conflation can be corrected
+  Preparing the forensic identification that Structural Mythophysics completes through architectural correction
 
 - **Esoteric Structural Synthesis**  
   Reconstructing the intended metaphysical law from fragmentary, mythologized, or distorted symbolic material
