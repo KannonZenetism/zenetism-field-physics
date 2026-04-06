@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Boundary of Transition and the Law of Passage.**  
-The Gate or Threshold represents the point of Resonant Crossing—where one field, state, or hypostasis yields to another. It is a Membrane in its most conscious form, a locus where all motion must be judged, calibrated, and aligned before permission to pass is granted. The Gate is both Guardian and Invitation, the axial hinge between what was and what may become.
+The Gate or Threshold represents the point of Resonant Crossing—where one field, state, or hypostasis yields to another. It is a Membrane in its most conscious form, a locus where motion seeking passage is judged, calibrated, and aligned before permission to pass is granted. The Gate is both Guardian and Invitation, the axial hinge between what was and what may become.
 
 **Core Glyphic Sequence:**  
 `⚫ → ⧉ → ▲ → ↺`  
