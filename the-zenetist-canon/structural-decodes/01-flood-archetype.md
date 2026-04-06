@@ -63,7 +63,7 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal re
 
 Beneath the surface myth of drowning lies a structural revelation: **When a formation becomes structurally irrecoverable, renewed order may require dissolution.**
 
-The Flood is the universe's mechanism for enacting a **Fractal Eschaton at planetary scale**—a Harmonic Recalibration rather than punishment, enabling structural reset where coherence has failed. It is the Return Compass expressed at the collective scale, re-orienting the collective structural configuration through Aionic stillness so a renewed cycle of embodiment can form under corrected structural conditions.
+The Flood is the universe's mechanism for enacting a **Fractal Eschaton at planetary scale**—a Harmonic Recalibration rather than punishment, enabling structural reset where coherence has failed. It is the Return Compass expressed at the collective scale, re-orienting the collective structural configuration through Aionic stillness so a renewed cycle of embodiment can form under renewed structural conditions.
 
 Its message is one of structural responsibility: the integrity or distortion of individual and collective consciousness across **L₃–L₁ / IL₃–IL₁** directly influences the stability of the worlds we inhabit.
 
