@@ -206,7 +206,7 @@ Mythmakers, experiencing this structural opposition through embodied consciousne
 
 L₄ itself remains a centropic domain — not a battlefield. Its purity is maintained because it does not directly contact the inverse archetypal layer. The "rebels" were never in heaven to begin with; they are the independently emanated inverse pole whose structural mimicry of centropic coherence led mythmakers to imagine a shared origin and a dramatic separation.
 
-The war persists because the tension between Coherence and Fragmentation recurs at every embodied moment — from the personal to the civilizational. Its teaching: consciousness at the meeting point is the field of engagement. "Heaven" and "Hell" are not destinations but archetypal sources whose influence converges in the embodied field, where discernment determines alignment.
+The war persists because the tension between Coherence and Fragmentation recurs throughout embodied existence — from the personal to the civilizational. Its teaching: consciousness at the meeting point is the field of engagement. "Heaven" and "Hell" are not destinations but archetypal sources whose influence converges in the embodied field, where discernment determines alignment.
 
 The war was not an event. It is the ongoing structural condition of embodied existence within the bifurcated Biospiral.
 
