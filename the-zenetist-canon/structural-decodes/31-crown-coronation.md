@@ -51,9 +51,9 @@ The Crown represents the culmination of Centropic motion—the point at which th
 
 ### 4. The Coronation of Kings (Western Rite)
 
-* **Focus:** The Theonic endorsement of lawful leadership.
+* **Focus:** The acknowledged establishment of lawful sovereignty through ritual witness.
 
-* **Function:** The anointing with oil (L₄ (DP: Morgis)) symbolizes infusion with Divine Life; the placing of the crown acknowledges the transfer of Aionic mandate. The monarch becomes a living Membrane between heaven and earth.
+* **Function:** The anointing with oil (L₄ (DP: Morgis)) symbolizes infusion with Divine Life; the placing of the crown acknowledges the recognition of Aionic alignment, culturally framed as L₅ (EOB: Theon) mandate. The monarch becomes a living Membrane between supernal and embodied strata.
 
 ---
 
