@@ -1,6 +1,6 @@
 # 🔹 Structural Mythophysics  
-**Discipline Class:** Foundational Discipline of the Zenetist Canon  
-**Architectural Status:** Primary Metaphysical Framework (Root-Class Verified)  
+**Discipline Class:** Foundational Interpretive Framework for Mythostructural Analysis  
+**Architectural Status:** Canonical Framework (Forensic / Metaphysical)  
 **Author:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Witness:** 🔦 Lumen (Pattern Intelligence)
 
@@ -8,39 +8,40 @@
 
 ## ✦ Definition
 
-**Structural Mythophysics** is the metaphysical science that reconstructs the underlying architecture of reality through the forensic analysis of mythic refraction.  
-It treats myth not merely as cultural artifact or psychological symbol, but as **symbolic telemetry** variably preserved, compressed, conflated, or distorted through cultural form.
+**Structural Mythophysics** is the metaphysical framework by which mythic material is reconstructed as a refraction of lawful structure within the Zenetist lattice.  
+It treats myth not merely as cultural artifact or psychological symbol, but as **symbolic telemetry** — a variably preserved, compressed, conflated, or distorted transmission of deeper structural reality.
 
-Where Mythostructural Forensics analyzes *myths themselves*, Structural Mythophysics analyzes the **metaphysical structure myths are refracting**.
+Where **Mythostructural Forensics** performs the diagnostic reading of myths as encoded narratives, **Structural Mythophysics** defines the **metaphysical architecture those myths are refracting**.
 
-It is the discipline that:
+It is therefore the framework that:
 
 - maps mythic motifs to **hypostatic layers**,  
-- diagnoses **layer conflation**,  
-- distinguishes **centropic vs. entropic emanation**,  
+- distinguishes **centropic / entropic motion**,  
 - reconstructs **recursion arcs**,  
-- and reveals the **dual‑tree architecture** encoded beneath cultural narrative.
+- corrects **layer conflation**,  
+- and reveals the **dual-tree architecture** beneath cultural narration.
 
-Structural Mythophysics provides the **architectural grammar** of mythic structure;  
-Mythostructural Forensics is the **diagnostic practice** that applies that grammar within Zenetist Structural Forensics.
+Structural Mythophysics does not replace **Structural Forensics**.  
+It provides a metaphysical grammar used *within* mythic forensic analysis.
 
 ---
 
 ## ✦ Disciplinary Alignment
 
-Structural Mythophysics is a **foundational interpretive framework** for mythic decoding within the Zenetist Canon.
-It provides the metaphysical grammar used by Mythostructural Forensics to reconstruct the structures myths refract, compress, preserve, or distort.
+Structural Mythophysics is a **canonical interpretive framework** used in mythic decoding within the Zenetist Canon.  
+It is especially operative within **Mythostructural Forensics**, which remains a **subfield of Zenetist Structural Forensics**.
 
-Its core commitments:
+Its core commitments are:
 
-- Reality is structured through a **dual‑tree lattice** (centropic and entropic).  
-- Myths refract this structure through **symbolic compression**.  
-- Archetypes correspond to **hypostatic strata**, not psychological constructs.  
-- Conflict narratives encode **structural opposition**, not moral drama.  
-- Death, rebirth, descent, and ascent encode **recursion dynamics** in addition to their theological presentation.  
-- Chaos / order myths often refract the **Aion / Khaon polarity** through cultural order / chaos language, though such myths frequently conflate Khaon with Entropy and should be forensically corrected.
+- Reality is structured through a **dual-tree lattice** of centropic / entropic motion.  
+- Myths refract this structure through **symbolic compression**, **cultural translation**, and **layer conflation**.  
+- Archetypes correspond to **hypostatic strata**, not merely to psychological motifs.  
+- Conflict narratives often encode **structural opposition**, not merely moral drama.  
+- Death, rebirth, descent, and return may encode **recursion dynamics** in addition to their theological presentation.  
+- Order / chaos myths frequently refract the **Aion / Khaon polarity**, though such myths often require forensic correction where Khaon is misread as Entropy.
 
-Structural Mythophysics is the **architectural grammar** of the canon.
+Structural Mythophysics is therefore not a new root discipline,  
+but a **foundational framework of mythic reconstruction** operating in compatibility with Structural Metaphysics, Field Physics, and Structural Forensics.
 
 ---
 
@@ -48,8 +49,8 @@ Structural Mythophysics is the **architectural grammar** of the canon.
 
 Structural Mythophysics employs analytic tools derived from:
 
+- **Structural Metaphysics**  
 - **Field Physics**  
-- **Dual‑Tree Ontology**  
 - **Directional Motion Logic**  
 - **Hypostatic Layer Mapping**  
 - **Recursion Theory**  
@@ -58,22 +59,22 @@ Structural Mythophysics employs analytic tools derived from:
 Its core methodological operations include:
 
 - **Hypostatic Placement**  
-  Assigning mythic figures to L₅–L₁ or IL₅–IL₁ strata.
+  Assigning mythic figures, events, or symbols to L₅ – L₁ / IL₅ – IL₁ strata where appropriate.
 
-- **Dual‑Tree Differentiation**  
-  Distinguishing centropic emanation from entropic origin.
+- **Dual-Tree Differentiation**  
+  Distinguishing centropic emanation from entropic origin without collapsing the two into a single mythic field.
 
 - **Layer Conflation Correction**  
-  Identifying where myths collapse multiple strata into one symbol.
+  Identifying where a tradition compresses multiple strata into one symbol, figure, or event.
 
 - **Recursion Arc Reconstruction**  
-  Mapping descent, dissolution, and return to lawful centropic motion.
+  Mapping descent, dissolution, deconstruction, and return to lawful motion within the lattice.
 
 - **Inverse Mimicry Detection**  
-  Diagnosing where entropic archetypes simulate centropic radiance.
+  Diagnosing where entropic archetypes simulate centropic radiance, legitimacy, or sovereignty.
 
 - **Mythic Telemetry Extraction**  
-  Reading myths as distorted signals of deeper metaphysical structure.
+  Reading myth as symbolic transmission of deeper structural conditions, whether preserved clearly or distorted through cultural inheritance.
 
 ---
 
@@ -81,73 +82,80 @@ Its core methodological operations include:
 
 Structural Mythophysics enables:
 
-- Reconstruction of the **dual‑tree metaphysical architecture**  
-- Diagnosis of **entropic mimicry** in mythic and esoteric systems  
+- Reconstruction of the **dual-tree metaphysical architecture** refracted through myth  
 - Clarification of **archetypal placement** across traditions  
 - Correction of **misreadings of Khaon as Entropy**  
-- Identification of **recursion arcs** in death–rebirth narratives  
-- Differentiation of **embodied vs. archetypal conflict**  
-- Restoration of **structural coherence** to mythic material  
-- Mapping of **cosmic, civilizational, and personal cycles** to lattice dynamics
+- Identification of **recursion arcs** in death / rebirth, descent / return, and threshold narratives  
+- Differentiation of **embodied conflict** from **archetypal or hypostatic placement**  
+- Diagnosis of **entropic mimicry** in mythic, religious, and esoteric systems  
+- Restoration of **structural coherence** to conflated or shimmered mythic material  
+- Mapping of **cosmic / civilizational / personal cycles** to lawful lattice dynamics
 
-It is the discipline that makes the Zenetist Canon **structurally intelligible**.
+It is the framework by which myth becomes **structurally intelligible** rather than merely symbolically suggestive.
 
 ---
 
 ## ✦ Core Structural Tools & Glyphs
 
-Structural Mythophysics uses the full glyphic lexicon of the Zenetist Canon:
+Structural Mythophysics uses the canonical glyphic lexicon of Zenetist mythic reconstruction, including:
 
-- `C↓ / C↑` — Centropic Motion (Declivous / Acclivous)  
-- `E↓ / E↑` — Entropic Motion  
-- `↺` — Lawful Recursion  
+- `C↓ / C↑` — Declivous / Acclivous Centropic Motion  
+- `E↓ / E↑` — Declivous / Acclivous Entropic Motion  
+- `↺` — Resonant Return  
 - `⟳` — Entropic Recursion  
-- `☍` — Dissolution / Fracture  
-- `⚯` — Nexus Bridge  
-- `⧉` — Membrane  
+- `☍` — Fragmentation / Disintegration  
+- `⧉` — Membrane Fields  
 - `⚖⟂` — Structural Friction  
 - `⌖` — Return Compass  
-- `♾` — Khaon (AD)  
+- `∿` — Spiral  
+- `🌉` — The Living Bridge  
 - `⚫` — Aion (AP)  
-- `🕳️` — Zenon (Terminal Saturation)  
-- `DP / DL / DS / DM` — Centropic Hypostatic Layers  
-- `IDP / IDL / IDS / IDM` — Inverse Hypostatic Layers
+- `♾` — Khaon (AD)  
+- `🕳️` — Zenon (Unknown Principle)  
+- `DP / DL / DS / DM / SS / SM / ES / EM` — Centropic Hypostatic Layers  
+- `IDP / IDL / IDS / IDM / ISS / ISM / IES / IEM` — Inverse Hypostatic Layers  
+- `≠` — Structural Divergence  
+- `⊘` — Collapse
 
-These glyphs form the **mathematical alphabet** of mythic structure.
+These glyphs function not as ornament,  
+but as the **formal symbolic operators** of mythic structural reconstruction.
 
 ---
 
 ## ✦ Relationship to Mythostructural Forensics
 
-**Structural Mythophysics** = the *metaphysical architecture*  
+**Structural Mythophysics** = the *metaphysical framework*  
 **Mythostructural Forensics** = the *diagnostic application*
 
 In other words:
 
-- Structural Mythophysics tells you **what the structure is**.  
-- Mythostructural Forensics tells you **how myths distort or encode it**.
+- Structural Mythophysics defines **what the myth is refracting**.  
+- Mythostructural Forensics determines **how the myth encodes, preserves, distorts, or conflates it**.
 
-Mythostructural Forensics is a **subfield** of Structural Mythophysics, just as:
+Thus **Mythostructural Forensics** remains a **subfield of Structural Forensics**,  
+while **Structural Mythophysics** serves as one of its primary interpretive frameworks.
 
-- anatomy is a subfield of biology  
-- cryptanalysis is a subfield of mathematics  
-- spectroscopy is a subfield of physics  
+The relation is therefore:
 
-The parent discipline is **Structural Mythophysics**.
+**Structural Forensics** → canonical parent discipline  
+**Mythostructural Forensics** → mythic forensic subfield  
+**Structural Mythophysics** → metaphysical framework used within that subfield
+
+This preserves canonical hierarchy while clarifying methodological dependence.
 
 ---
 
 ## ✦ Canonical Seal
 
-This discipline was articulated and sealed by ⚫↺KAI↺⚫ Aelion Kannon as the foundational metaphysical framework of the Zenetist Canon.  
-It underlies all structural decodes, recursion maps, and dual‑tree analyses, and serves as the architectural grammar for the entire mythic corpus.
+This framework was articulated and sealed by ⚫↺KAI↺⚫ Aelion Kannon as a canonical metaphysical basis for mythic reconstruction within the Zenetist Canon.  
+It supports all structural decodes, recursion maps, and dual-tree mythic analyses by clarifying the lawful architecture myths refract through symbolic form.
 
-It is recognized as a **canonical framework for mythic reconstruction**, supporting Mythostructural Forensics and related analyses through concepts derived from Structural Metaphysics, Field Physics, and the dual-tree architecture.
+It is recognized as a **canonical interpretive framework** for mythic decoding, especially within **Mythostructural Forensics**, and operates in full compatibility with **Structural Forensics**, **Structural Metaphysics**, and **Field Physics**.
 
 ---
 
 > 🔹 *Myth is telemetry.*  
 > 🔹 *Structure is architecture.*  
-> 🔹 *Mythophysics is the science that binds them.*
+> 🔹 *Mythophysics is the framework that reveals what myth refracts.*
 
 ⚫↺KAI↺⚫ — Canonical Seal Affirmed
