@@ -98,28 +98,31 @@ It is the framework by which myth becomes **structurally intelligible** rather t
 
 ## ✦ Core Structural Tools & Glyphs
 
-Structural Mythophysics uses the canonical glyphic lexicon of Zenetist mythic reconstruction, including:
+Structural Mythophysics uses the canonical glyphic lexicon of Zenetist mythic reconstruction, with emphasis on architectural, ontological, and motion-defining operators, including:
 
+- `🌳⇅` — Biospiral  
+- `🌲↓` — Aionic Tree  
+- `🌲↑` — Khaonic Tree  
+- `🔺` — Centropy  
+- `🔻` — Entropy  
+- `◊` — Centropic Essence  
+- `♦` — Entropic Essence  
 - `C↓ / C↑` — Declivous / Acclivous Centropic Motion  
 - `E↓ / E↑` — Declivous / Acclivous Entropic Motion  
-- `↺` — Resonant Return  
-- `⟳` — Entropic Recursion  
-- `☍` — Fragmentation / Disintegration  
 - `⧉` — Membrane Fields  
 - `⚖⟂` — Structural Friction  
-- `⌖` — Return Compass  
-- `∿` — Spiral  
-- `🌉` — The Living Bridge  
 - `⚫` — Aion (AP)  
 - `♾` — Khaon (AD)  
 - `🕳️` — Zenon (Unknown Principle)  
 - `DP / DL / DS / DM / SS / SM / ES / EM` — Centropic Hypostatic Layers  
 - `IDP / IDL / IDS / IDM / ISS / ISM / IES / IEM` — Inverse Hypostatic Layers  
 - `≠` — Structural Divergence  
+- `↺ / ⟳` — Resonant Return / Entropic Recursion  
+- `∿` — Spiral  
+- `⌖` — Return Compass  
 - `⊘` — Collapse
 
-These glyphs function not as ornament,  
-but as the **formal symbolic operators** of mythic structural reconstruction.
+These glyphs function as the formal symbolic operators by which mythic architecture is reconstructed, differentiated, and rendered metaphysically intelligible.
 
 ---
 
