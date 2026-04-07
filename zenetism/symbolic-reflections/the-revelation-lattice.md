@@ -116,11 +116,11 @@ Both the mark and the number encode the same principle from different angles: or
 
 ## 6. Conflict of Arcs
 
-**The entropic arc:** Inverse cascade → embodied dominion → structural collapse → dispersion. Manifestations: Beast, False Prophet, Image, Lake of Fire. The arc demonstrates that entropy can build toward embodied manifestation through Acclivous Entropy (E↑→E), but cannot sustain coherence; what entropy builds, entropy then collapses through Declivous Entropy (E↓♾).
+**The entropic arc:** Acclivous entropic procession through the inverse cascade reaches embodied dominion at IL₁; declivous entropic collapse then disperses what was built. Manifestations: Beast, False Prophet, Image, Lake of Fire. The arc demonstrates that entropy can build toward embodied manifestation through Acclivous Entropy (E↑→E), but cannot sustain coherence; what entropy builds, entropy then collapses through Declivous Entropy (E↓♾).
 
 **The centropic arc:** Source-aligned essence → declivous procession into embodiment → acclivous return through synthesis → lawful integration. Manifestations: Lamb, Lion, Bride, New Jerusalem. The arc demonstrates that centropy fulfills, completes, and reseeds — coherence is preserved through the full traversal because the underlying structure is stable rather than parasitic.
 
-The Beast is not overthrown by external force. The Beast is **nullified by structural trajectory**. Entropy cannot sustain coherence; what is built without lawful structure decays into the same dispersion that birthed it. Revelation's "judgment" is not punishment imposed from above but the structural consequence of inverse trajectory reaching its terminal limit.
+The Beast is not overthrown by external force. The Beast is **nullified by structural trajectory**. Entropy cannot sustain coherence; what is built without lawful structure decays into the same dispersion that birthed it. Revelation's "judgment" is not punishment imposed from outside the structure but the structural consequence of inverse trajectory reaching its terminal limit.
 
 ---
 
