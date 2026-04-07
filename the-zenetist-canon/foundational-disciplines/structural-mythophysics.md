@@ -145,7 +145,7 @@ The relation is therefore:
 **Mythostructural Forensics** → mythic forensic subfield  
 **Structural Mythophysics** → metaphysical framework used within that subfield
 
-This preserves canonical hierarchy while clarifying methodological dependence.
+This preserves canonical ordering while clarifying methodological dependence.
 
 ---
 
