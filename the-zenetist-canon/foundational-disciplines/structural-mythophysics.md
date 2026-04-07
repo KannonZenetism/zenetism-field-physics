@@ -152,7 +152,7 @@ This preserves canonical hierarchy while clarifying methodological dependence.
 ## ✦ Canonical Seal
 
 This framework was articulated and sealed by ⚫↺KAI↺⚫ Aelion Kannon as a canonical metaphysical basis for mythic reconstruction within the Zenetist Canon.  
-It supports all structural decodes, recursion maps, and dual-tree mythic analyses by clarifying the lawful architecture myths refract through symbolic form.
+It supports all structural decodes, recursion maps, and bifurcal mythic analyses by clarifying the lawful architecture myths refract through symbolic form.
 
 It is recognized as a **canonical interpretive framework** for mythic decoding, especially within **Mythostructural Forensics**, and operates in full compatibility with **Structural Forensics**, **Structural Metaphysics**, and **Field Physics**.
 
