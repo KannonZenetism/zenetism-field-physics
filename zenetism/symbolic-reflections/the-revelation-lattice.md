@@ -54,7 +54,7 @@ The False Prophet operates at IL₃ as the source of spurious deep signal, broad
 
 ---
 
-## 4. The Lamb and the Lion — Christos in Dual Centropic Phase
+## 4. The Lamb and the Lion — Christos in Complementary Centropic Phases
 
 Christos manifests in two complementary centropic phases:
 
