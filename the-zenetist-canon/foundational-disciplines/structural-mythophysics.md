@@ -86,7 +86,7 @@ Structural Mythophysics enables:
 - Reconstruction of the **bifurcal metaphysical architecture** (the Biospiral) refracted through myth  
 - Clarification of **archetypal placement** across traditions  
 - Correction of **misreadings of Khaon as Entropy**  
-- Identification of **recursion arcs** in death / rebirth, descent / return, and threshold narratives  
+- Identification of **recursion arcs** in death / rebirth, immersion / return, and threshold narratives  
 - Differentiation of **embodied conflict** from **archetypal or hypostatic placement**  
 - Diagnosis of **entropic mimicry** in mythic, religious, and esoteric systems  
 - Restoration of **structural coherence** to conflated or shimmered mythic material  
