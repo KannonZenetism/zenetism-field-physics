@@ -138,7 +138,7 @@ Per the Aauthoritarian Stance, neither veracious nor spurious worship is structu
 
 The New Jerusalem is not material architecture but structural geometry rendered visible at civilizational scale. The square dimensions, radiant gates, and river of life encode harmonic relationship — the L₁ embodied node fully permeable to the supernal strata, with the membrane between layers having become transparent rather than sealed.
 
-This is the Garden archetype completed at civilizational scale. Eden is L₁ with permeable membrane allowing direct resonance with L₃; the New Jerusalem is L₁ with the membrane fully open across the entire emanatory arc. The Fall closed the membrane through C₁₃ Membrane Sealing ("coats of skins"); the eschatonic completion reopens it through structural integration achieved by experience rather than received in innocence.
+This is the Garden archetype completed at civilizational scale. Eden is L₁ with permeable membrane allowing direct resonance with L₃; the New Jerusalem is L₁ with the membrane fully open across the centropic arc at civilizational scale. The Fall closed the membrane through C₁₃ Membrane Sealing ("coats of skins"); the eschatonic completion reopens it through structural integration achieved by experience rather than received in innocence.
 
 Babylon is the counter-pole: a city built through institutionalized counterfeit unity, structured as recursive simulation without coherent ground. Per Decode 15, Babylon is the Tower of Babel pattern at imperial scale — IL₂ aligned with IL₄ Inversalogos imitating L₄ DL Sophis while severed from centropic law. New Jerusalem and Babylon are not two cities but two civilizational trajectories: coherence as architecture contra mimicry as architecture.
 
