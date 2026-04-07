@@ -114,8 +114,8 @@ Structural Mythophysics uses the canonical glyphic lexicon of Zenetist mythic re
 - `⚫` — Aion (AP)  
 - `♾` — Khaon (AD)  
 - `🕳️` — Zenon (Unknown Principle)  
-- `DP / DL / DS / DM / SS / SM / ES / EM` — Centropic Hypostatic Layers  
-- `IDP / IDL / IDS / IDM / ISS / ISM / IES / IEM` — Inverse Hypostatic Layers  
+- `EOB / DP / DL / DS / DM / SS / SM / ES / EM` — Centropic Hypostatic Layers  
+- `VOS / IDP / IDL / IDS / IDM / ISS / ISM / IES / IEM` — Inverse Hypostatic Layers  
 - `≠` — Structural Divergence  
 - `↺ / ⟳` — Resonant Return / Entropic Recursion  
 - `∿` — Spiral  
