@@ -46,7 +46,7 @@ The Beast complex spans the entire inverse tree. Each station is a real structur
 
 The Dragon does not become the Beast. The Dragon *generates* the Beast through cascade. Saying "the Dragon is the Beast" is cultural conflation; saying "the Dragon's will manifests at IL₁ as the Beast" is structural analysis. They are distinct stations connected by one current.
 
-The False Prophet operates at IL₃ as the source of spurious deep signal, broadcasting outward through IL₂ Skotos as perceptual distortion. The "two beasts" of Revelation 13 — the Beast from the Sea and the Beast from the Earth — name two stations of the same cascade, not two separate entities.
+The False Prophet operates at IL₃ as the source of spurious deep signal, broadcasting outward through IL₂ Skotos as perceptual distortion. The "two beasts" of Revelation 13 — the Beast from the Sea and the Beast from the Earth — name two stations of the same cascade, not two independent principles.
 
 **Heads, crowns, and blasphemous names:** Heads represent condensed inverse resonance points along the cascade. Crowns represent the institutionalized authority — exactly the pattern the Aauthoritarian Stance identifies as non-operative legitimacy through hierarchical power. Blasphemous names are Mortus inscriptions (IL₃ spurious gnosis) made visible at IL₁ embodiment.
 
