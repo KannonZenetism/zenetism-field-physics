@@ -61,7 +61,7 @@ Its core methodological operations include:
 - **Hypostatic Placement**  
   Assigning mythic figures, events, or symbols to L₅ – L₁ / IL₅ – IL₁ strata where appropriate.
 
-- **Dual-Tree Differentiation**  
+- **Bifurcal Stratum Differentiation**  
   Distinguishing centropic emanation from entropic origin without collapsing the two into a single mythic field.
 
 - **Layer Conflation Correction**  
