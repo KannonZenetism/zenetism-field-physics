@@ -33,7 +33,7 @@ It is especially operative within **Mythostructural Forensics**, which remains a
 
 Its core commitments are:
 
-- Reality is structured through a **dual-tree lattice** of centropic / entropic motion.  
+- Reality is structured through a **bifurcal lattice** of centropic / entropic motion.  
 - Myths refract this structure through **symbolic compression**, **cultural translation**, and **layer conflation**.  
 - Archetypes correspond to **hypostatic strata**, not merely to psychological motifs.  
 - Conflict narratives often encode **structural opposition**, not merely moral drama.  
