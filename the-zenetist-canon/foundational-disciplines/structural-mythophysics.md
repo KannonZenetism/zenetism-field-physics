@@ -69,7 +69,7 @@ Its core methodological operations include:
   Where Mythostructural Forensics detects conflation within the narrative artifact, Structural Mythophysics provides the architectural basis by which that conflation is corrected.
 
 - **Recursion Arc Reconstruction**  
-  Mapping descent, dissolution, deconstruction, and return to lawful motion within the lattice.
+  Mapping stratum-crossing (descent), dissolution, deconstruction, and return to lawful motion within the lattice.
 
 - **Inverse Mimicry Detection**  
   Diagnosing where entropic archetypes simulate centropic radiance, legitimacy, or sovereignty.
