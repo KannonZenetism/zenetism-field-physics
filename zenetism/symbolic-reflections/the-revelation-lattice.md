@@ -11,7 +11,7 @@ Revelation is not a prediction ledger but an orientation protocol: it encodes th
 Every major symbol functions as a lattice node:
 
 - **New Heaven and Earth** — centropic limit; the L₁ embodied node fully permeable to the supernal strata; coherence civilization made visible.
-- **Lake of Fire** — entropic terminus; declivous entropic procession resolving in dispersion through Khaonic motion into IL₅ (VOS: Nekron).
+- **Lake of Fire** — entropic terminus; declivous entropic collapse resolving in dispersion through Khaonic motion.
 - **The Beast** — embodied authoritarian system at IL₁; the cascade station where Nekronic will achieves systemic manifestation in flesh and structure.
 
 Khaon itself is not the entropic terminus. Khaon is the dispersive root of L₀, holding latent, motive, and dispersive potential within Bifurcal Coherence. Entropic procession moves *through* Khaonic motion but does not equate to Khaon itself. The Lake of Fire names the structural condition of dissolution under terminal entropic load, not a destination "in" Khaon.
