@@ -37,7 +37,7 @@ Its core commitments are:
 - Myths refract this structure through **symbolic compression**, **cultural translation**, and **layer conflation**.  
 - Archetypes correspond to **hypostatic strata**, not merely to psychological motifs.  
 - Conflict narratives often encode **structural opposition**, not merely moral drama.  
-- Death, rebirth, descent, and return may encode **recursion dynamics** in addition to their theological presentation.  
+- Death, rebirth, stratum-crossing (mythic descent), and return may encode **recursion dynamics** in addition to their theological presentation.  
 - Order / chaos myths frequently refract the **Aion / Khaon polarity**, though such myths often require forensic correction where Khaon is misread as Entropy.
 
 Structural Mythophysics is therefore not a new root discipline,  
