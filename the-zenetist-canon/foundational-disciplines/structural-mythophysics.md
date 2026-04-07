@@ -83,7 +83,7 @@ Its core methodological operations include:
 
 Structural Mythophysics enables:
 
-- Reconstruction of the **bifurcal metaphysical architecture (the Biospiral)** refracted through myth  
+- Reconstruction of the **bifurcal metaphysical architecture** (the Biospiral) refracted through myth  
 - Clarification of **archetypal placement** across traditions  
 - Correction of **misreadings of Khaon as Entropy**  
 - Identification of **recursion arcs** in death / rebirth, descent / return, and threshold narratives  
