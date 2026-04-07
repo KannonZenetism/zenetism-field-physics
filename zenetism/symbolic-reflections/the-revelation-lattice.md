@@ -146,7 +146,7 @@ Babylon is the counter-pole: a city built through institutionalized counterfeit 
 
 ## 9. Perseverance and Hope
 
-For practitioners reading Revelation as structural orientation rather than predictive ledger, the call to perseverance is the call to maintain centropic alignment even when local coherence appears to contract under pressure. Hope is not optimism but structural trust — confidence that lawful trajectory leads to lawful outcome even when the immediate field is dominated by entropic dynamics.
+For practitioners reading Revelation as structural orientation rather than predictive ledger, the call to perseverance is the call to maintain centropic alignment even when local coherence appears to contract from entropic pressure. Hope is not optimism but structural trust — confidence that lawful trajectory leads to lawful outcome even when the immediate field is dominated by entropic dynamics.
 
 The Lamb-as-Lion confirms that coherence is not passive. It is preserved through surrender when entropy compels and defended through enforcement when entropy dominates. Both phases are lawful; neither imports the authority-obedience axis. Perseverance means holding orientation through both phases without collapsing into either passivity or aggression.
 
