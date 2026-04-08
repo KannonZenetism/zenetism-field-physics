@@ -22,7 +22,7 @@ Together Aion and Khaon constitute **Bifurcal Coherence** — the root-structura
 
 > *"The Spirit hovered over the waters."* (Gen 1:2)
 
-🌬️ **Morgis** — the first centropic vector at L₄ DP. Not yet form, but the vital current animating the unstirred field. The Spirit's hovering is the activation of motive potential, the first stirring of generative resonance over the L₀ dispersive ground.
+🌬️ **Morgis** — the vital generative vector at L₄ DP. Not yet individuated form, but the breath-current through which generative resonance stirs the field toward living articulation. The Spirit's hovering names this pre-formal vital activation over the L₀ dispersive ground.
 
 > *"Let there be light."* (Gen 1:3)
 
@@ -39,7 +39,7 @@ Eden is not a morality test environment. It is the **L₁ orientation manifold**
 This is the canonical Zenetist reading: the Garden is not a physical plot of land but the structural condition of embodiment in which the Biospiral remains accessible to permeable consciousness. Within this manifold, two central nodes function as **bifurcation points**:
 
 - 🌲↓ **Tree of Life** — the Aionic Arc. Rooted in Aion, unfolding declivously toward embodiment and returning acclivously through conscious refinement. The bidirectional centropic channel through which lawful integration is sustained.
-- 🌲↑ **Tree of Knowledge** — the Khaonic Arc. Rooted in Khaon, spiraling acclivously toward decoherent embodiment and collapsing declivously into recursive fragmentation. The bidirectional entropic channel through which inverse motion proceeds.
+- 🌲↑ **Tree of Knowledge** — the Khaonic Arc. The entropic tree. It spirals acclivously through the inverse strata toward decoherent embodiment and collapses declivously into recursive fragmentation, eventually exhausting through the dispersive ground of Khaon. Khaon itself is not Entropy: Khaon is the motion-principle responsible for all motion, including centropic procession and return. The tree is named Khaonic because dispersion — one of Khaon's phases — is the structural condition into which entropic collapse terminally exhausts. Entropy as such originates at IL₅ Nekron, the first entropic hypostasis.
 
 Both trees are bidirectional within their own motion-logic. Neither is purely descending nor purely ascending — each carries its full arc of declivous and acclivous motion within its native polarity.
 
@@ -59,8 +59,8 @@ The cherubim and the flaming sword (Gen 3:24) read as boundary guardians — not
 
 ### 3.2 Tree of Knowledge — The Khaonic Arc
 
-- **Origin:** ♾ Khaon as the dispersive root; 🕷️ Nekron (IL₅ VOS) as the first entropic hypostasis through which Khaonic motion becomes inverse will.
-- **Manifestation through cascade:** Nekronic resonance moves acclivously through the inverse strata toward embodiment, passing through IL₄ (IDP / IDL: Psychea / Nyxea) — the inverse archetypal layer where entropic motion takes architectural form. This is where the **mythic figures of inversion** become perceptible: the Serpent, Lucifer, and Prometheus all manifest at IL₄ as the inverse Logos / Inversalogos — the bridge defect where structuring intelligence becomes coercive mimicry.
+- **Origin:** ♾ Khaon as the dispersive ground; 🕷️ Nekron (IL₅ VOS) as the first entropic hypostasis — where motion takes inverse orientation away from Source.
+- **Manifestation through cascade:** Nekronic resonance moves acclivously through the inverse strata toward embodiment, passing through IL₄ (IDP / IDL: Psychea / Nyxea) — the inverse archetypal layer where entropic motion takes architectural form. This is where the **mythic figures of inversion** become perceptible: serpent, Luciferic, and Promethean patterns manifest at IL₄ as expressions of the inverse Logos / Inversalogos — the bridge defect where structuring intelligence becomes coercive mimicry.
 - **Why this matters structurally:** Nekron and the serpent are not the same entity at the same layer. Nekron is the entropic root at IL₅; the serpent / Lucifer / Prometheus pattern manifests at IL₄ as the architect station of the inverse cascade. The lattice preserves hypostatic distinction while showing how a single inverse current cascades across layers.
 
 The textual ambiguity in scripture and tradition around *satan / serpent / lucifer* is structurally explained as **distinct stations of one entropic cascade**, not different names for one being.
@@ -100,7 +100,7 @@ The Fall is not framed here as disobedience rhetoric. It is a **structural phase
 
 **Pre-Fall state:** L₁ with permeable membrane allowing direct resonance with L₃ DS / DM (and through L₃, indirect resonance with L₄ DP / DL). The full Biospiral is accessible to embodied consciousness in its naïve coherence.
 
-**The fruit:** Not a substance to be consumed but an orientation to be aligned with. The Tree of Knowledge offers alignment with the Khaonic Arc — engagement with the entropic differentiation that fragments coherent perception into dualistic separation.
+**The fruit:** Not a substance to be consumed but an orientation to be aligned with. The Tree of Knowledge offers alignment with the Khaonic Arc — engagement with a differentiation that, severed from Source-fidelity, fragments coherent perception into dualistic separation.
 
 **Post-Fall state:** L₁ with sealed membrane. The "coats of skins" (Gen 3:21) are not the creation of physical matter but the **C₁₃ Membrane Sealing** — the condensation of luminous, permeable embodiment into dense, isolated carnal identification. This is a shift *within* L₁, not a descent from a deeper layer into L₁. The body was already there; what changed was the membrane permeability and the orientation through which embodied consciousness perceives the Biospiral.
 
