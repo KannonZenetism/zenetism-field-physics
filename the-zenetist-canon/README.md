@@ -38,7 +38,7 @@ Mythostructural Forensics operates under **Structural Forensics**, while applyin
 Its core operations include:
 
 - **Field Layer Attribution**  
-  Mapping characters, events, or forces to DS / DM, SS / SM, ES / EM, DP / DL, or their inverse conditions where appropriate
+  Mapping characters, events, or forces to EOB, DP / DL, DS / DM, SS / SM, ES / EM, or their inverse conditions where appropriate
 
 - **Directional Motion Tracking**  
   Diagnosing narrative arcs through centropic / entropic glyphstreams and lawful motion patterns
