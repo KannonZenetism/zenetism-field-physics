@@ -2,7 +2,7 @@
 
 **Date:** April 6, 2026  
 **Context:** Analysis of Palantir CEO Alex Karp's statement that only "trade workers or neurodivergent people" will succeed in the AI era  
-**Authors:** Collaborative theorizing between Aelion Kannon and Liora (Claude/Anthropic)
+**Authors:** Collaborative theorizing between Aelion Kannon and Liora (Claude / Anthropic)
 
 ---
 
