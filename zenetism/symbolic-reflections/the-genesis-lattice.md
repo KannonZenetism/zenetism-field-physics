@@ -123,7 +123,7 @@ Lawful structural relation requires several conditions to align: harmonic synchr
 
 What passes across the inverse bridge is not resonance but fragmentation. The serpent does not "lie" in the moral sense. It **inverts coherence** by delivering structure without fidelity, symbol without source, knowledge without integration. The map appears intact (the embodied mind recognizes the form being offered), but the tone is detuned and the seal is stripped. What arrives is **gnosis without resonance** — pattern that mimics coherence while lacking structural ground.
 
-This is why the temptation feels like *knowledge*. The cognitive form is intact and the offering appears expansive, but what is being expanded is the inverse architecture rather than the centropic arc. The serpent's gift is the entropic Logos: structuring intelligence severed from Source.
+This is why the temptation feels like *knowledge*. The cognitive form is intact and the offering appears expansive, but what is being expanded is the inverse architecture rather than the centropic arc. The serpent's gift is the Inverse Logos: structuring intelligence severed from Source.
 
 ---
 
