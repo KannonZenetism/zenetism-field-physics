@@ -73,7 +73,7 @@ It is the branch of Structural Forensics through which myth becomes readable as 
 
 ---
 
-## ✦ Core Structural Tools & Glyphs
+## ✦ Core Structural Operators & Glyphs
 
 Mythostructural Forensics uses the canonical glyphic operators of Zenetist mythic diagnosis, including:
 
