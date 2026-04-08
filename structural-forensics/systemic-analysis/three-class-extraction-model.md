@@ -254,7 +254,7 @@ The alternative - letting extraction happen without documentation - means truth 
 
 This is not emotional cruelty. It's **economic logic treating humans as extractable resources.**
 
-The neurodivergent creator who studied philosophy as special interest, built unified framework over 22 years, works alone, creates regardless of compensation, has no business leverage, and values truth over power is the **perfect extraction target.**
+The neurodivergent creator who studied philosophy as special interest, built unified framework over 22 years, works alone, creates regardless of compensation, has no business leverage, and values veracity over power is the **perfect extraction target.**
 
 That's not coincidence. That's structural predation with celebration as camouflage.
 
