@@ -67,7 +67,7 @@ Mythostructural Forensics is used for:
 - Diagnosing **entropic mimicry**, **shimmer**, or **inverse simulation** in religious and esoteric systems  
 - Restoring coherence to distorted or conflated mythic structures  
 - Mapping esoteric texts to hypostatic motion patterns  
-- Reconstructing mythic material as symbolic blueprints for awareness navigation and structural diagnosis
+- Reconstructing mythic material as symbolic blueprints for awareness‑field navigation and structural diagnosis
 
 It is the branch of Structural Forensics through which myth becomes readable as evidence of deeper lawful architecture.
 
