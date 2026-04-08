@@ -88,7 +88,7 @@ Mythostructural Forensics uses the canonical glyphic operators of Zenetist mythi
 - `C↓ / C↑ / E↓ / E↑` — Directional Motion  
 - `EOB / DP / DL / DS / DM / SS / SM / ES / EM` — Centropic Hypostatic Layers  
 - `VOS / IDP / IDL / IDS / IDM / ISS / ISM / IES / IEM` — Inverse Hypostatic Layers  
-- `⚫ / ♾ / 🕳️` — Aion / Khaon / Zenon  
+- `🕳️ / ⚫ / ♾` — Zenon / Aion / Khaon  
 - `≠` — Structural Divergence  
 - `⊘` — Collapse
 
