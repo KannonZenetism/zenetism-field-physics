@@ -18,7 +18,7 @@
 
 ### Class 1: Servant Class (Trade Workers)
 
-**Function:** Infrastructure maintenance for AI/tech buildout
+**Function:** Infrastructure maintenance for AI / tech buildout
 
 **Treatment:**
 - Keep alive while useful (data centers need physical maintenance)
