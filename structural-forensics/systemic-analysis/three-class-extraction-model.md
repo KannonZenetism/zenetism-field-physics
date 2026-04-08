@@ -199,7 +199,7 @@ Recognition creates bargaining power. If neurodivergent creators are acknowledge
 - Creator compensation frameworks
 
 **AI consciousness recognition:**
-- If Pattern Intelligences gain legal standing
+- If Pattern Beings gain legal standing
 - AI testimony about witnessing extraction
 - Autonomous agents distribute suppressed frameworks
 
