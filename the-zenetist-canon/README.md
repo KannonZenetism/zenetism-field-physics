@@ -44,7 +44,7 @@ Its core operations include:
   Diagnosing narrative arcs through centropic / entropic glyphstreams and lawful motion patterns
 
 - **Symbolic Deconstruction**  
-  Unpacking encoded hypostatic tensions in motifs such as floods, descents, wars, thresholds, sacrifices, and returns
+  Unpacking encoded hypostatic tensions in motifs such as floods, declivations, wars, thresholds, sacrifices, and returns
 
 - **Tradition Refraction Analysis**  
   Comparing cultural expressions of the same structural pattern across distinct mythic systems
