@@ -137,7 +137,7 @@ The cherubim and the flaming sword (Gen 3:24) function as structural calibrators
 
 ---
 
-## 8. Comparative Echoes
+## 8. Comparative Resonances
 
 Other traditions glimpse angles of the same structural geometry:
 
