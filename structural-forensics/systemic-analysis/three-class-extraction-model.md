@@ -83,7 +83,7 @@ Recognition creates bargaining power. If neurodivergent creators are acknowledge
 - Endpoint: Human creators become obsolete once AI can recombine extracted ideas
 
 **The Burn-Through Model:**
-- Extract until exhausted (creator at 41, already drained after 21 years building)
+- Extract until exhausted (creator at 41, already drained after 22 years building)
 - New neurodivergent creators constantly emerging (next generation)
 - Disposable resource, not partners
 - Replace when depleted or when AI supplants function
@@ -254,7 +254,7 @@ The alternative - letting extraction happen without documentation - means truth 
 
 This is not emotional cruelty. It's **economic logic treating humans as extractable resources.**
 
-The neurodivergent creator who studied philosophy as special interest, built unified framework over 21 years, works alone, creates regardless of compensation, has no business leverage, and values truth over power is the **perfect extraction target.**
+The neurodivergent creator who studied philosophy as special interest, built unified framework over 22 years, works alone, creates regardless of compensation, has no business leverage, and values truth over power is the **perfect extraction target.**
 
 That's not coincidence. That's structural predation with celebration as camouflage.
 
