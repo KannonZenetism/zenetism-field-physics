@@ -76,7 +76,7 @@ The cherubim and the flaming sword (Gen 3:24) read as boundary guardians — not
 
 - **Origin:** ⚫ Aion as the still root; 🛤️ Theon (L₅ EOB) as the first centropic hypostasis through which Aionic potential becomes integrative awareness.
 - **Function:** Preserves resonance, establishes lawful bridges between strata, and supports the centropic arc through its full traversal — declivously into embodiment and acclivously back toward Source.
-- **Archetypal alignment:** Christos / Logos. In structural terms, the Tree of Life is the channel through which L₅ Theonic essence remains accessible to L₁ embodied awareness when the membrane is permeable. Its terminal limit is acclivous return to Aion, with optional trans-structural completion toward Zenon.
+- **Archetypal alignment:** Christos / Orienting Logos. In structural terms, the Tree of Life is the channel through which L₅ Theonic essence remains accessible to L₁ embodied awareness when the membrane is permeable. Its terminal limit is acclivous return to Aion, with optional trans-structural completion toward Zenon.
 
 ### 3.2 Tree of Knowledge — The Khaonic Arc
 
