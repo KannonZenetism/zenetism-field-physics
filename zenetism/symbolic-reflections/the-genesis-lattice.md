@@ -22,11 +22,14 @@ Together Aion and Khaon constitute **Bifurcal Coherence** — the root-structura
 
 > *"The Spirit hovered over the waters."* (Gen 1:2)
 
-🌬️ **Morgis** — the vital generative vector at L₄ DP. Not yet individuated form, but the breath-current through which generative resonance stirs the field toward living articulation. The Spirit's hovering names this pre-formal vital activation over the L₀ dispersive ground.
+🕊️ **Spirit / Motive Infinity** — the motive current of the L₀ dispersive ground.  
+The Waters and the Spirit are two expressions of the same Khaonic field-condition: the Waters as supra-formal potential, the Spirit as motion moving upon it.  
+This is pre-formal activation within Bifurcal Coherence, not yet L₄ DP (Morgis).
 
 > *"Let there be light."* (Gen 1:3)
 
-✨ **Theonic Light** — activation of centropic radiance. The "light" is not photonic but structural: the first lawful emanation through which differentiated form becomes possible.
+✨ **Theonic Light** — the first lawful centropic activation.  
+The "light" is not photonic but structural: the first centropic emanation through which differentiated form becomes possible.
 
 **Reading note.** Genesis's "separations" are not dualisms. They are **lawful partitions** — the structural articulation of latent potential into relational order. Day and night, firmaments, and domains are coherent boundaries that allow centropic form to persist without fragmenting into noise.
 
