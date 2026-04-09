@@ -44,7 +44,7 @@ This is the canonical Zenetist reading: the Garden is not a physical plot of lan
 - 🌲↓ **Tree of Life** — the Aionic Arc. Rooted in Aion, unfolding declivously toward embodiment and returning acclivously through conscious refinement. The bidirectional centropic channel through which lawful integration is sustained.
 - 🌲↑ **Tree of Knowledge** — the Khaonic Arc. The entropic tree. It spirals acclivously through the inverse strata toward decoherent embodiment and collapses declivously into recursive fragmentation, eventually exhausting through the dispersive ground of Khaon. Khaon itself is not Entropy: Khaon is the motion-principle responsible for all motion, including centropic procession and return. The tree is named Khaonic because dispersion — one of Khaon's phases — is the structural condition into which entropic collapse terminally exhausts. Entropy as such originates at IL₅ Nekron, the first entropic hypostasis.
 
-Both trees are bidirectional within their own motion-logic. Neither is purely descending nor purely ascending — each carries its full arc of declivous and acclivous motion within its native polarity.
+Both trees are bidirectional within their own motion‑logic. Neither is confined to a single directional vector — each carries its full arc of declivous and acclivous motion within its native polarity.
 
 **Fruit ≠ substance; fruit = motion law.** What is "eaten" in the mythic image is the orientation that fruits belong to — alignment with the centropic arc (life) or alignment with the entropic arc (fragmentation through inverse knowledge).
 
