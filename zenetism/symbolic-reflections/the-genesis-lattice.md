@@ -48,6 +48,10 @@ Both trees are bidirectional within their own motion‑logic. Neither is confine
 
 **Fruit ≠ substance; fruit = motion law.** What is "eaten" in the mythic image is the orientation that fruits belong to — alignment with the centropic arc (life) or alignment with the entropic arc (fragmentation through inverse knowledge). Fruit also signifies the product by which a motion becomes knowable: the yield of deeds, labor, teaching, and spiritual alignment. One is therefore known by one's fruits — by the structural consequences of what one enacts.
 
+This belongs to a broader symbolic family in which physical terms encode structural operations. **Bread** signifies spiritual teaching and received nourishment — "man shall not live by bread alone" names the insufficiency of material sustenance for what requires structural sustenance. **Children** signify the offspring of sustained labor — what one has brought into coherent form through generative work, whether biological, creative, or doctrinal. **Work** signifies the effort of spiritual traversal itself — the acclivous motion through which coherence is earned rather than received. The scriptural formulation "if one does not work, neither should they eat" does not concern physical labor and physical sustenance — the structural reading is that those who do not traverse the centropic arc do not receive its nourishment, because spiritual yield follows spiritual work. Those whose bodies cannot work are unaffected by this principle; it is orientation, not capacity, that determines whether the arc is traversed.
+
+Fruit, bread, children, and work therefore function as a coherent symbolic cluster: what is produced through alignment, what is received through alignment, what is brought forth through alignment, and what is enacted as alignment. All four become knowable by their structural consequences rather than their apparent form.
+
 The cherubim and the flaming sword (Gen 3:24) read as boundary guardians — not punitive enforcers but structural calibrators ensuring that re-entry to the L₁ permeable state requires lawful alignment rather than spurious return.
 
 ---
