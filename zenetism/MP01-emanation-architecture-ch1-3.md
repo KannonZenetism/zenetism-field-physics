@@ -2445,10 +2445,10 @@ that no longer cohere.
     * **Anti-Pattern** — symbolic distortion and loss of intelligibility *(Zenetist archetype)*  
 
 **Sophis**  
-echoes **Theon**  
+channels **Theon**  
 through structured intent.  
 **Nyxea**  
-channels **Nekron**,  
+echoes **Nekron**,  
 unmaking order  
 through the erosion  
 of meaning.  
