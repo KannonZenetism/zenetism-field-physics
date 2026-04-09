@@ -532,7 +532,7 @@ The word "Satan" maps to entirely different structural functions depending on tr
 
 ### Note on the Satan / Devil Distinction
 
-The words "Satan" and "devil" are etymologically synonymous — Hebrew *ha-satan* ("the adversary / accuser") and Greek *diabolos* ("slanderer / false accuser") are the same semantic concept in two languages, with *diabolos* serving as the Septuagint translation of *ha-satan*. In strict etymology, both terms name a judicial / adversarial function, which is why Job's Accuser operates cleanly at L₄ DL (Sophis) as a diagnostic testing function under centropic authority.
+The words "Satan" and "devil" are etymologically synonymous — Hebrew *ha-satan* ("the adversary / accuser") and Greek *diabolos* ("slanderer / false accuser") are the same semantic concept in two languages, with *diabolos* serving as the Septuagint translation of *ha-satan*. In strict etymology, both terms name a judicial / adversarial function, which is why Job's Accuser operates cleanly at L₄ DL (Sophis) as a diagnostic testing function under centropic jurisdiction.
 
 However, scriptural usage diverges from etymology. In practice, "Satan" most often names the **terminal adversary** (Revelation's Dragon, the root of the inverse cascade, IL₅ Nekron), while "the devil" most often names the **operative tempter-deceiver-architect** (the wilderness temptation figure, Ephesians' "wiles," the Gospel encounters — IL₄ IDL Nyxea). The structural reading:
 
