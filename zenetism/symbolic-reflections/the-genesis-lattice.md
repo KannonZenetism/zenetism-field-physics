@@ -23,8 +23,9 @@ Together Aion and Khaon constitute **Bifurcal Coherence** — the root-structura
 > *"The Spirit hovered over the waters."* (Gen 1:2)
 
 🕊️ **Spirit / Motive Infinity** — the motive current of the L₀ dispersive ground.  
-The Waters and the Spirit are two expressions of the same Khaonic field-condition: the Waters as supra-formal potential, the Spirit as motion moving upon it.  
-This is pre-formal activation within Bifurcal Coherence, not yet L₄ DP (Morgis).
+The Waters and the Spirit are two expressions of the same Khaonic field-condition: the Waters as supra-formal potential, the Spirit as motion moving upon it. This is pre-formal activation within Bifurcal Coherence at the cosmogonic origin.
+
+The Waters as a broader mythic symbol also carry L₄ DP (Morgis) resonance — the archetypal vital current of feeling, intuition, and unrefined psychic flow — but the Gen 1:2 Waters specifically belong to the L₀ field-condition before any L₄ archetypal articulation has occurred. The same word therefore names two distinct structural strata depending on context, and only attention to function discriminates between them.
 
 > *"Let there be light."* (Gen 1:3)
 
