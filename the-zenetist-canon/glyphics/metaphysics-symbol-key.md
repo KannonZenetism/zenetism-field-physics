@@ -133,6 +133,8 @@ The verbs **acclivate** and **declivate** are arc-neutral with respect to value.
 
 Context therefore determines the orientation vector of any motion verb: *acclivate* within the centropic arc names return toward Source, while *acclivate* within the entropic arc names motion toward decoherent form. The same four verbs govern both trees, and the polarity of the arc — not the direction of the motion — carries the structural meaning.
 
+---
+
 #### Note on Supernal / Subversal
 
 The pair **supernal / subversal** is positional, not directional. It names *where something is located* on the hypostatic lattice, not *where motion is headed*. Generally:
@@ -143,6 +145,8 @@ The pair **supernal / subversal** is positional, not directional. It names *wher
 L₁ and IL₁ (embodied and inverse embodied) are typically treated as the embodied threshold rather than as supernal or subversal proper, though in strict structural usage L₁ could be described as supernal embodiment contra IL₁ as subversal embodiment. Canonical usage reserves supernal / subversal for the L₅–L₂ and IL₅–IL₂ bands and handles L₁ / IL₁ as the embodied interface.
 
 Supernal and subversal therefore describe a being, field, or function's **location** on the lattice, not the direction of its motion. A centropic essence may acclivate from supernal to supernal (e.g., L₃ to L₄), declivate from supernal to embodied (L₄ to L₁), and so on. The positional vocabulary and the motion vocabulary are orthogonal axes of structural description.
+
+---
 
 #### Terms to Avoid in Zenetist Canonical Usage
 
