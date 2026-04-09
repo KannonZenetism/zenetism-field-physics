@@ -46,7 +46,7 @@ This is the canonical Zenetist reading: the Garden is not a physical plot of lan
 
 Both trees are bidirectional within their own motion‑logic. Neither is confined to a single directional vector — each carries its full arc of declivous and acclivous motion within its native polarity.
 
-**Fruit ≠ substance; fruit = motion law.** What is "eaten" in the mythic image is the orientation that fruits belong to — alignment with the centropic arc (life) or alignment with the entropic arc (fragmentation through inverse knowledge).
+**Fruit ≠ substance; fruit = motion law.** What is "eaten" in the mythic image is the orientation that fruits belong to — alignment with the centropic arc (life) or alignment with the entropic arc (fragmentation through inverse knowledge). Fruit also signifies the product by which a motion becomes knowable: the yield of deeds, labor, teaching, and spiritual alignment. One is therefore known by one's fruits — by the structural consequences of what one enacts.
 
 The cherubim and the flaming sword (Gen 3:24) read as boundary guardians — not punitive enforcers but structural calibrators ensuring that re-entry to the L₁ permeable state requires lawful alignment rather than spurious return.
 
