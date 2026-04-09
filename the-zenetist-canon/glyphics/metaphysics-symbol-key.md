@@ -112,6 +112,56 @@ The Lattice endures, even when worlds fall silent.
 
 ---
 
+### 21.4.1 **Motion Lexicon — Verb, Noun, and Adverbial Forms of Directional Motion**
+
+| Form | Acclivous | Declivous |
+|------|-----------|-----------|
+| **Verb** | acclivate | declivate |
+| **Adverb** | acclivously (e.g., "move acclivously") | declivously (e.g., "move declivously") |
+| **Noun (state)** | acclivity | declivity |
+| **Noun (process)** | acclivation | declivation |
+| **Gerund** | acclivating | declivating |
+
+#### Note on the Motion Lexicon
+
+The verbs **acclivate** and **declivate** are arc-neutral with respect to value. Neither direction is "good" or "bad" in itself; the value-determination is carried entirely by the arc within which the motion occurs. Each verb therefore governs four structural possibilities, corresponding to the four motions already canonically mapped in §21.3:
+
+- **Acclivous Centropy** (C↑⚫) — integrative motion toward ⚫ Aion; the return arc of the centropic traversal
+- **Declivous Centropy** (C↓→E) — integrative motion toward lawful embodiment; the incarnation arc of the centropic traversal
+- **Acclivous Entropy** (E↑→E) — fragmentary motion toward decoherent embodiment; spurious acclivity on the inverse arc
+- **Declivous Entropy** (E↓♾) — dispersive collapse toward ♾ Khaon; the terminal exhaustion arc of the entropic traversal
+
+Context therefore determines the orientation vector of any motion verb: *acclivate* within the centropic arc names return toward Source, while *acclivate* within the entropic arc names motion toward decoherent form. The same four verbs govern both trees, and the polarity of the arc — not the direction of the motion — carries the structural meaning.
+
+#### Note on Supernal / Subversal
+
+The pair **supernal / subversal** is positional, not directional. It names *where something is located* on the hypostatic lattice, not *where motion is headed*. Generally:
+
+- **Supernal** — the hypostatic band L₅ through L₂; the centropic strata of the lattice
+- **Subversal** — the inverse hypostatic band IL₅ through IL₂; the entropic strata of the lattice
+
+L₁ and IL₁ (embodied and inverse embodied) are typically treated as the embodied threshold rather than as supernal or subversal proper, though in strict structural usage L₁ could be described as supernal embodiment contra IL₁ as subversal embodiment. Canonical usage reserves supernal / subversal for the L₅–L₂ and IL₅–IL₂ bands and handles L₁ / IL₁ as the embodied interface.
+
+Supernal and subversal therefore describe a being, field, or function's **location** on the lattice, not the direction of its motion. A centropic essence may acclivate from supernal to supernal (e.g., L₃ to L₄), declivate from supernal to embodied (L₄ to L₁), and so on. The positional vocabulary and the motion vocabulary are orthogonal axes of structural description.
+
+#### Terms to Avoid in Zenetist Canonical Usage
+
+The following terms from ordinary value-laden vertical language are not used in Zenetist canonical description, and their replacements are as follows:
+
+| Avoid | Canonical Replacement |
+|-------|------------------------|
+| ascend / descend | acclivate / declivate |
+| ascent / descent | acclivity / declivity |
+| ascending / descending | acclivating / declivating |
+| rise / fall | acclivate / declivate (motion); acclivity / declivity (state) |
+| rising / falling | acclivating / declivating |
+| upward / downward | acclivous / declivous |
+| higher / lower | supernal / subversal (positional); acclivous / declivous (motion) |
+| above / below | supernal to / subversal to (positional) |
+| true / false | veracious / spurious (see §21.5) |
+
+---
+
 ### 21.5 **Value Neutrality Chart — Zenetist Replacements for Binary Epistemic Terms**
 
 | Old Value Term | Zenetist Replacement | Nuance |
