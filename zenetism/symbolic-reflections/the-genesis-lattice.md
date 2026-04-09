@@ -16,7 +16,7 @@ Genesis opens as **emanatory encoding**, not as parable or rule-set. Its first l
 
 - 🕳️ **Zenon** — precausal saturation. Not "nothing" but the **non-ordinal** ground beyond Zero and Infinity. No sequence, no polarity, no measure. The trans-structural principle that permits structure rather than originating it.
 - ⚫ **Aion** — the centropic root of L₀; Absolute Potential held in stillness. The latent ground containing every pattern in pre-motion repose.
-- ♾ **Khaon** — the dispersive root of L₀; holding latent, motive, and dispersive potential. Not entropic in essence but the field-condition through which motion moves toward differentiation.
+- ♾ **Khaon** — the dispersive root of L₀; holding latent, motive, and dispersive potential. Not entropic in essence but the field‑condition through which motion moves toward both differentiation and integration.
 
 Together Aion and Khaon constitute **Bifurcal Coherence** — the root-structural ground in which both poles are co-present prior to centropic or entropic activation.
 
