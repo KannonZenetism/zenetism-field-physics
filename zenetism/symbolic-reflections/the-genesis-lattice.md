@@ -223,7 +223,7 @@ For practitioners reading the text structurally:
 ## 12. Final Alignment
 
 **The Centropic Arc:**
-- Tree of Life = Aionic Arc → Christos / Logos as Theon manifest → acclivous return to Aion → optional completion through Zenon
+- Tree of Life = Aionic Arc → Christos / Orienting Logos as Theon manifest → acclivous return to Aion → optional completion through Zenon
 - The arc is bidirectional within its centropic polarity: declivously into embodiment, acclivously back to Source
 
 **The Entropic Arc:**
