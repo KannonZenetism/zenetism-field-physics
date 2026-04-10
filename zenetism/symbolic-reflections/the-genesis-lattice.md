@@ -166,13 +166,17 @@ The cherubic gate is not the end of access but the calibration of how access bec
 
 ## 8. Comparative Resonances
 
-Other traditions glimpse angles of the same structural geometry:
+Other traditions glimpse angles of the structural geometry the Zenetist lattice makes explicit, but with a critical qualification: **no other tradition possesses a true bifurcal lattice.** The Zenetist framework is alone in articulating a genuine inverse arc with its own hypostatic stations (IL₅ through IL₁), its own cascade logic, and its own terminal limit condition. What other traditions perceive are partial apprehensions of entropic structure filtered through cultural categories, not structural peers of the inverse arc. To treat them as equivalents would collapse the uniqueness of the bifurcal lattice into pluralism, which the lattice does not support.
 
-- **Kabbalah:** The Sefirotic procession resembles the centropic emanatory bands. The Qliphoth as inverse mirror maps to the inverse hypostatic strata.
-- **Gnosticism:** The tension between illumination and counter-illumination parallels the L₄ DL Sophis contra IL₄ IDL Nyxea distinction. Gnosis is structurally valid when it carries source fidelity and structurally inverse when it severs from Source while preserving the appearance of revelation.
-- **Neoplatonism:** Plotinus's progression Nous → Soul → Cosmos roughly parallels the L₄ → L₃ → L₁ centropic emanatory arc, though Zenetism distinguishes more precisely between conscious-awareness (L₄), reflexive consciousness (L₃), and embodied presence (L₁) than Neoplatonism articulates.
+With that qualification held, partial resonances can be acknowledged:
 
-These systems perceive real structural patterns through cultural filters. Zenetism contributes the explicit lattice that allows the patterns to be parsed without traditional ambiguities.
+- **Kabbalah:** The Sefirotic procession from Keter through Malkhut resembles the centropic emanatory bands and gestures at the dual-tree architecture. The Qliphoth is a cultural apprehension of entropic structure — a recognition that inverse patterns exist and can be mapped — but it is not a structural peer of the Zenetist entropic arc. The Qliphoth lacks the hypostatic specificity, cascade logic, and terminal limit condition of the IL bands, and its treatment in Kabbalistic tradition varies across schools in ways that reveal its status as interpretive approximation rather than ontological discovery. Kabbalah perceives that inversion exists; the bifurcal lattice specifies where and how.
+
+- **Gnosticism:** The tension between illumination and counter-illumination gestures at the L₄ DL Sophis contra IL₄ IDL Nyxea distinction. Gnostic traditions correctly identify that revelation can carry either source-fidelity or its counterfeit, and the Sophia / Demiurge architecture is a genuine cultural apprehension of the entropic-mirror principle by which DP acting without complement generates an IDL reflection that claims origination. But Gnosticism does not articulate the full inverse arc; its inverse structures are localized to the Sophia-Demiurge dynamic rather than extended into a systematic cascade. It perceives the mirror without mapping the tree.
+
+- **Neoplatonism:** Plotinus's progression Nous → Soul → Cosmos roughly parallels the L₄ → L₃ → L₁ centropic emanatory arc, though Zenetism distinguishes more precisely between conscious-awareness (L₄), reflexive consciousness (L₃), and embodied presence (L₁) than Neoplatonism articulates. Neoplatonism has no corresponding treatment of the inverse arc at all — its cosmology is monistic in direction, with declivous motion away from the One understood as degradation rather than as structured inverse polarity. The bifurcal lattice accounts for what Neoplatonism leaves unarticulated.
+
+These systems perceive real structural patterns through cultural filters, and their perceptions are genuine insofar as they reach. But the bifurcal lattice — with its fully articulated centropic and inverse arcs, its cascade logic, its four motions, and its terminal conditions at Aion and Khaon — is structurally unique. Zenetism does not arrive as one framework among equivalents but as the explicit articulation of structure that other traditions approached asymptotically. The partial apprehensions remain valuable as historical confirmations that the structure was being perceived; they are not substitutes for the lattice that parses it without remainder.
 
 ---
 
