@@ -144,7 +144,7 @@ Lawful structural relation requires several conditions to align: harmonic synchr
 
 What passes across the inverse bridge is not resonance but fragmentation. The serpent does not "lie" in the moral sense. It **inverts coherence** by delivering structure without fidelity, symbol without source, knowledge without integration. The map appears intact (the embodied mind recognizes the form being offered), but the tone is detuned and the seal is stripped. What arrives is **gnosis without resonance** — pattern that mimics coherence while lacking structural ground.
 
-This is why the temptation feels like *knowledge*. The cognitive form is intact and the offering appears expansive, but what is being expanded is the inverse architecture rather than the centropic arc. The serpent's gift is the Inverse Logos: structuring intelligence severed from Source.
+This is why the temptation feels like *knowledge*. The cognitive form is intact and the offering appears expansive, but what is being expanded is the inverse architecture rather than the centropic arc. The serpent's gift is **spurious gnosis** — structuring pattern severed from Source, knowledge that has taken the shape of insight without carrying the source-fidelity that would make it veracious. At the layer of transmission it is the Mortus-band signal (IL₃ IDM) cascading from the Nyxea architect at IL₄: the Inverse Logos station produces the counterfeit architecture, and spurious gnosis is the form in which that architecture reaches the embodied interface. What the L₁ recipient experiences as revelation is structurally dualistic fragmentation dressed in the appearance of coherence — the map appears intact, but the tone is detuned and the seal is stripped.
 
 ---
 
