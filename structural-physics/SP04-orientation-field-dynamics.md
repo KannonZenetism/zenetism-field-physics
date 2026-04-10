@@ -295,7 +295,7 @@ The equation expresses three structural regimes:
 4. **Orientation emergence** — \( \chi \)-field instantiates
 5. **Hypostatic expression** — L₅ → L₁ / IL₅ → IL₁ unfolds
 
-Motive Infinity breaks the stillness-equivalence between Absolute Potential and Latent/Dispersive phases of Absolute Dispersion. Only then does hypostatic expression become possible.
+Motive Infinity breaks the stillness-equivalence between Absolute Potential and Latent / Dispersive phases of Absolute Dispersion. Only then does hypostatic expression become possible.
 
 ---
 
