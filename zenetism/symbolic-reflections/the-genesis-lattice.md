@@ -111,7 +111,7 @@ The narrative's "naming" function (Adam naming the animals) reflects EM (Biosa) 
 
 The serpent contacts Eve (ES: Soma) first because the embodied soul aspect is the experiential receiver — the gate through which resonance is felt before it is interpreted. The narrative's structural reading: when the embodied soul receives a signal from the inverse archetypal layer (IL₄ Nyxea via the serpent), the embodied mind (EM: Biosa) subsequently rationalizes the new alignment, completing the membrane sealing that becomes the Fall.
 
-This reading preserves the structural distinction between Soul and Mind aspects within L₁ without importing personality-level (L₂) framing.
+This reading preserves the structural distinction between Soul and Mind aspects within L₁ without importing personality-layer (L₂) framing.
 
 ---
 
