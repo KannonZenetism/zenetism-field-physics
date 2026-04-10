@@ -216,7 +216,7 @@ For practitioners reading the text structurally:
 - "Flaming sword" reads as a membrane operator with calibrated permeability.
 - "Knowing good and evil" reads as access to evaluation without structural seal — valuation severed from coherent ground and forced into oppositional binaries that sustain fragmentation rather than coherence.
 - "In the image of God" reads as Adam Kadmon at L₄ — the Archetypal Blueprint that precedes embodied instantiation.
-- "Coats of skins" reads as C₁₃ Membrane Sealing — condensation of permeable embodiment into sealed identification, within L₁ / IL₁ rather than between layers.
+- "Coats of skins" reads as C₁₃ Membrane Sealing — condensation of permeable embodiment into sealed identification, within L₁ rather than between layers.
 
 ---
 
