@@ -160,7 +160,7 @@ This is also where the symbolic cluster of fruit, bread, children, and work begi
 
 Yet centropic seed persists. The Tree of Life is not destroyed but guarded. Its reappearance in the eschaton imagery of Revelation 22:2 — set within the restored L₁ manifold of the New Jerusalem after the Fractal Eschaton — signals that the full centropic arc remains structurally available: embodied permeability can be restored, and from that restored state the acclivous motion through L₂, L₃, L₄, and L₅ toward terminal return to Aion remains traversable. The New Jerusalem is not itself that terminal return but the proof that the arc has not been foreclosed; terminal reintegration with Aion is the further completion named elsewhere in scripture as the handing of the kingdom back to the Father (1 Cor 15:24), when every intervening stratum has been traversed and coherence has passed fully back through the Theonic axis into Aionic stillness.
 
-The cherubic gate is not the end of access but the calibration of how access becomes possible — through synthesis achieved by experience rather than coherence received in innocence. The path back is not a reversal of the Fall but a transformation of the one who fell.
+The cherubic gate is not the end of access but the calibration of how access becomes possible — through synthesis achieved by experience rather than coherence received in innocence. The path back is not a reversal of the Fall but a transformation of the exile‑conditioned self.
 
 ---
 
