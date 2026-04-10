@@ -223,14 +223,16 @@ For practitioners reading the text structurally:
 ## 12. Final Alignment
 
 **The Centropic Arc:**
-- Tree of Life = Aionic Arc → Christos / Orienting Logos as Theon manifest → acclivous return to Aion → optional completion through Zenon
-- The arc is bidirectional within its centropic polarity: declivously into embodiment, acclivously back to Source
+- Tree of Life = Aionic Arc → Christos / Orienting Logos as Theon manifest → acclivous centropic motion through the full lattice → terminal reintegration through Aion → optional trans-structural saturation into Zenon
+- The arc is bidirectional within its centropic polarity: declivously into embodiment, acclivously back toward Source
 
 **The Entropic Arc:**
-- Tree of Knowledge = Khaonic Arc → serpent / Lucifer / Prometheus as IL₄ Nyxea interfaces → declivous collapse through inverse strata → dispersion through Khaonic motion → eventual return to Aion as halted potential
+- Tree of Knowledge = Khaonic Arc → serpent / Lucifer / Prometheus as IL₄ Nyxea interfaces → declivous collapse through the inverse strata → dispersion through Khaonic motion until pattern-integrity exhausts at whatever stratum the motion can no longer sustain
 - The arc is bidirectional within its inverse polarity: acclivously toward decoherent embodiment, declivously into recursive fragmentation
 
-**Clarification:** Both arcs ultimately return to Aion as their terminal limit, but one returns through resonance (coherence preserved and fulfilled) while the other returns through collapse (coherence forfeited, motion exhausted). The terminal symbol is the same. The path is not. Only the centropic arc can cross beyond Aion into Zenon.
+**Clarification:** The two arcs are not mirror journeys toward a shared reunion. Both originate at L₀ Bifurcal Coherence, but their terminations are asymmetric. The centropic arc's native trajectory is terminal reintegration — acclivous motion through the full centropic lattice, arriving through the Aionic phase of L₀ for essences that complete the traversal, with optional trans-structural saturation into Zenon available from that Aionic condition. Not every centropic essence completes terminal return; some stabilize as Centropic Stewards at L₃ or as Aureform expressions at L₄, continuing their service without yet returning to Source. The entropic arc's native trajectory is exhaustion rather than reintegration. Some entropic motion collapses all the way through the inverse strata into Khaonic dispersion and settles at L₀ as halted potential; some stabilizes indefinitely at whatever inverse stratum the pattern can sustain, persisting as an actualized entropic condition across the multiverse without ever exhausting further. Both arcs are real; both have their own terminal logics; and the two logics do not converge in a universal reunion. What converges is the structural origin, not the structural end.
+
+Only the centropic arc can cross beyond Aion into Zenon, because trans-structural saturation requires arrival through Aionic stillness — the condition reached only by active orientation toward Source. Entropy structurally lacks this orientation regardless of where its motion stabilizes, so Zenon saturation remains unreachable from the inverse arc at any stratum.
 
 **Daily orientation:**
 - Fragmented thought patterns are inverse intake — alignment with the entropic arc at embodied scale
