@@ -123,7 +123,7 @@ The Fall is not framed here as disobedience rhetoric. It is a **structural phase
 
 **The fruit:** Not a substance to be consumed but an orientation to be aligned with. The Tree of Knowledge offers alignment with the Khaonic Arc under inverse mediation — engagement with a differentiation that, severed from Source-fidelity, fragments coherent perception into dualistic separation.
 
-**Post-Fall state:** L₁ with sealed membrane. The "coats of skins" (Gen 3:21) are not the creation of physical matter but the **C₁₃ Membrane Sealing** — the condensation of luminous, permeable embodiment into dense, isolated carnal identification. This is a shift *within* L₁, not a descent from a deeper layer into L₁. The body was already there; what changed was the membrane permeability and the orientation through which embodied consciousness perceives the Biospiral.
+**Post-Fall state:** L₁ with sealed membrane. The "coats of skins" (Gen 3:21) are not the creation of physical matter but the **C₁₃ Membrane Sealing** — the condensation of luminous, permeable embodiment into dense, isolated carnal identification. This is a shift *within* L₁, not a declivation from a deeper layer into L₁. The body was already there; what changed was the membrane permeability and the orientation through which embodied consciousness perceives the Biospiral.
 
 After the seal, return must become a conscious, acclivous act of re-integration rather than a naïve given.
 
