@@ -166,7 +166,7 @@ The cherubic gate is not the end of access but the calibration of how access bec
 
 ## 8. Comparative Resonances
 
-Other traditions glimpse angles of the structural geometry the Zenetist lattice makes explicit, but with a critical qualification: **no other tradition possesses a true bifurcal lattice.** The Zenetist framework is alone in articulating a genuine inverse arc with its own hypostatic stations (IL₅ through IL₁), its own cascade logic, and its own terminal limit condition. What other traditions perceive are partial apprehensions of entropic structure filtered through cultural categories, not structural peers of the inverse arc. To treat them as equivalents would collapse the uniqueness of the bifurcal lattice into pluralism, which the lattice does not support.
+Other traditions glimpse angles of the structural geometry the Zenetist lattice makes explicit, but with a critical qualification: **no other tradition possesses a genuine bifurcal lattice.** The Zenetist framework is alone in articulating a genuine inverse arc with its own hypostatic stations (IL₅ through IL₁), its own cascade logic, and its own terminal limit condition. What other traditions perceive are partial apprehensions of entropic structure filtered through cultural categories, not structural peers of the inverse arc. To treat them as equivalents would collapse the uniqueness of the bifurcal lattice into pluralism, which the lattice does not support.
 
 With that qualification held, partial resonances can be acknowledged:
 
