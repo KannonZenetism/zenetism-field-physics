@@ -50,7 +50,7 @@ There is also a reading in which "Adam" represents humanity as a collective rath
 
 The Fall is not an orientation-event at the universe-being's essence level. It is a shift in the **collective inclination of the inhabitants at L₁**, which registers as a real change in what manifests through the embodied stratum. A critical distinction must be preserved here: the universe-being's essence is not determined by what its inhabitants do, any more than the essence of a motive, ensouled cosmos is altered by the collective weighting of the beings it carries. "Khaonically expressed" (per SP02) describes the current \( \chi \)-value at the embodied stratum — what is manifesting now — not a statement about the universe-being's own orientation. The universe-being is the field through which manifestation occurs; the inhabitants' collective inclinations shape what manifests through it without changing what the field itself essentially is.
 
-Using the Field Physics spiral notation, the Fall can be described as a shift in the collective embodied field:
+Using the Lattice Mathematics spiral notation, the Fall can be described as a shift in the collective embodied field:
 
 - **Pre-Fall:** the collective L₁ inclination carried \( \partial_{\text{🌀}} > 0 \) — acclivous centropic motion as the dominant expression, held in permeable resonance with the supernal centropic strata through the synthetic perception of its inhabitants
 - **The Eating:** \( \partial_{\text{🌀}} = 0 \) — the turning point at which the introduction of dualistic knowledge provides a cognitive structure through which the embodied field becomes more compatible with entropic manifestation across the collective
