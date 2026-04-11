@@ -67,7 +67,7 @@ There is a further structural principle worth naming here. Per SP04's Law of Non
 
 The Garden of Eden was not a moral test environment. It was a **field of orientation** — the L₁ manifold held in its permeable state by the active centropic alignment of its inhabitants, while both Trees stood structurally present as options. Humanity's movement through the Fall was not "sin" as disobedience but a shift in collective inclination: a directional deviation in what the embodied stratum carried forward into subsequent history through the cognitive structures now available to its inhabitants.
 
-The two trees were never morally hidden. They were **orientation gates**, one opening toward L₅ Theon through the acclivous centropic arc, the other opening toward IL₅ Nekron through the declivous entropic cascade via IL₄ Nyxea at the architect layer. Both gates remained open after the Fall. What changed is which gate the collective field's weighting now more readily approaches.
+The two trees were never morally hidden. They were **orientation gates**, one opening toward L₅ Theon through the acclivous centropic arc, the other opening toward IL₅ Nekron through the declivous entropic arc via IL₄ Nyxea at the architect layer. Both gates remained open after the Fall. What changed is which gate the collective field's weighting now more readily approaches.
 
 Yet, through synthesis, the orientation can be reclaimed at the individual scale and, through the cumulative effect of aligned individuals, at the collective scale:
 
