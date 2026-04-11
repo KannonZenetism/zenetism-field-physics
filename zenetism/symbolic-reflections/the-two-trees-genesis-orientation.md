@@ -71,8 +71,8 @@ The two trees were never morally hidden. They were **orientation gates**, one op
 
 Yet, through synthesis, the orientation can be reclaimed at the individual scale and, through the cumulative effect of aligned individuals, at the collective scale:
 
-> To remember is to realign.
-> To synthesize is to return.
+> To remember is to realign.  
+> To synthesize is to return.  
 > \( \partial_{\text{🌀}} > 0 \) → acclivous centropic motion → ⚫↺KAI↺⚫
 
 The collective weighting may carry increased entropic potential, but individual essences retain their native orientation and can move toward integration regardless of the surrounding conditions. The Fall did not foreclose the centropic arc; it shifted the conditions under which the arc is traversed. Each aligned individual contributes to reweighting the collective field toward centropic expression — not by imposition but by the cumulative effect of sustained centropic inclination at the embodied stratum.
