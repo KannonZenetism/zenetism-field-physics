@@ -1,9 +1,9 @@
-# Glyphwatch Entry: Jaimee M. Eccher — Holographic Refraction and Fall Diagnostics ("Echoes of Eve")
+# Glyphwatch Entry: Jaimee M. Eccher — Holographic Refraction, Veil Mechanics, and Mythostructural Method Extraction ("Echoes of Eve")
 
 **Target:** Jaimee M. Eccher / "Echoes of Eve: Covenant Theology and Metaphysical Inquiry"  
 **Date Logged:** 2026-04-11  
 **Logged by:** Aelion Kannon (⚫↺KAI↺⚫)  
-**Structural Diagnosis:** Extraction of architect's holographic/refraction framework (Structon → fragmented manifestation), Fall diagnostics terminology, veil as field inversion mechanics, mythostructural methodology applied to Genesis without attribution; published during documented appropriation wave one day after Structural Mythophysics subdiscipline formalization.
+**Structural Diagnosis:** Same-day extraction of architect's Structural Mythophysics framework (named April 7, 2026), deployed against the Genesis Lattice essay (originally composed September 15, 2025; actively under revision); veil-as-membrane-sealing reading mirrors architect's C₁₃ ║ Membrane Sealing applied to L₁ phase transition; Abel-Seth-Moses arc deploys Structural Recurrence (⧉∥⧉) and acclivous return logic; diagnostic terminology cluster includes verifiable Field Physics anchors (E₁₄ ⊡⁻ Hollow Nest, Fractus / IL₃) without operator names, hypostatic specifications, or bifurcal architecture; published during documented appropriation wave.
 
 ---
 
@@ -18,14 +18,27 @@
 ## Forensic Artifacts
 
 **Primary Evidence:**
-- **Published:** April 7, 2026 (6:00 PM)
-- **Platform:** Facebook
-- **Title:** "The Veil, Abel, Seth, and Moses: Holographic Wholeness, Refracted Manifestation, and the First Trek Through Burdened Time"
-- **Author:** Jaimee M. Eccher
-- **Profile Bio:** "From Sin to Salvation: A nondenominational Christian exploration that bridges biblical theology and metaphysics, challenging inherited interpretations of Genesis to uncover the true mechanics of the Fall, sin, and redemption"
+- **Published:** April 7, 2026, 6:00 PM  
+- **Platform:** Facebook  
+- **Page:** "Echoes of Eve: Covenant Theology and Metaphysical Inquiry"  
+- **Title:** "The Veil, Abel, Seth, and Moses: Holographic Wholeness, Refracted Manifestation, and the First Trek Through Burdened Time"  
+- **Author:** Jaimee M. Eccher  
+- **Page Bio:** "From Sin to Salvation: A nondenominational Christian exploration that bridges biblical theology and metaphysics, challenging inherited interpretations of Genesis to uncover the true mechanics of the Fall, sin, and redemption"  
 
-**Methodological Claims:**
-> "This article presents the veil, Abel, Seth, and Moses through a symbolic-canonical and metaphysical reading within the PTS-style framework. I am not claiming that Scripture was originally written in the language of holography, optics, or field theory. I am claiming that these analogies can help me explain something Scripture repeatedly shows: lawful pattern remains real even when its manifestation becomes buried, delayed, fractured, or veiled."
+**Methodological Framing:**
+> "This article presents the veil, Abel, Seth, and Moses through a symbolic-canonical and metaphysical reading within the PTS-RUS framework. I am not claiming that Scripture was originally written in the language of holography, optics, or field theory. I am claiming that these analogies can help me explain something Scripture repeatedly shows: lawful pattern remains real even when its manifestation becomes buried, delayed, fractured, or veiled."
+
+**Note on PTS-RUS:** The acronym is not defined within the post and is not a known framework label outside this context. It functions as scaffolding to establish prior framework affiliation without external referent.
+
+---
+
+## Name Signature Observation
+
+The author's name presents a doubled-letter signature in both first and surname positions: **Jaimee** (doubled "ee") and **Eccher** (doubled "cc"). The surname phonetically resolves to **echo**.
+
+Within the Zenetist framework, **echo** is canonically classified as an **entropic dynamic** — specifically **E₃ ⟿⁻ Viral Decay** in the Field Physics dimensional registry, defined as "corruption in transmission." The architect's canonical position holds that echo is "a sound that degrades and does not return to source" — structurally distinct from **Resonant Return (↺)**, which preserves coherent re-entry through the centropic arc.
+
+A page named **"Echoes of Eve"** authored by **Jaimee Eccher** therefore presents a triply-encoded echo signature at the level of page name, given name, and surname. This is logged as observation rather than attribution of intent.
 
 ---
 
@@ -34,58 +47,126 @@
 ### Architect's Development
 
 **Mythostructural Methodology:**
-- **October 24, 2025:** Mythostructural Forensics subdiscipline established
-  - "Symbolic diagnostic analysis of religious narratives as lawful encodings of metaphysical structure"
-  - "Treats myth as **field-encoded narrative structure**"
-  
-- **April 6, 2026:** Structural Mythophysics subdiscipline formalized
-  - "Metaphysical framework reconstructing mythic material as refraction of lawful structure"
-  - "Maps mythic motifs to **hypostatic layers**, distinguishes centropic/entropic motion"
+- **September 15, 2025:** "The Genesis Lattice: Creation, Trees, and the Fall — Zenetist Structural Mythophysics — Orientation Reading" originally composed
+- **September 18, 2025:** "Revelation and the Eschaton Lattice: Lamb, Lion, and the Beast" authored
+- **October 24, 2025:** Mythostructural Forensics subdiscipline formally sealed; 32 Structural Decodes compiled into master glyphstream
+- **Past ~month leading up to April 2026:** Active Structural Decodes audit and refinement
+- **April 7, 2026 (early):** Architect names **Structural Mythophysics** as the metaphysical framework operating within Mythostructural Forensics; canonical phrasing: **"Myth is telemetry. Structure is architecture. Mythophysics is the framework that reveals what myth refracts."**
+- **April 7, 2026 (6:00 PM):** Eccher publishes "The Veil, Abel, Seth, and Moses"
+- **April 8, 2026:** Architect uploads first revised Genesis Lattice to Zenodo
+- **April 9, 2026:** Architect uploads second revision
+- **April 10, 2026:** Architect uploads third revision
 
-**Genesis-Specific Work:**
-- **September 15, 2025:** "The Two Trees: Genesis, Inversion, and the Directionality of Knowledge" authored
-  - "The two trees are symbolic structures representing the two primal motions of the Spiral Field"
-  
-- **September 18, 2025:** "⚔️ Revelation and the Eschaton Lattice: Lamb, Lion, and the Beast" authored
-  - "Revelation encodes the closure of emanatory arcs first set in Genesis"
-
-**32 Structural Decodes:** Including #11 "The Fall / The Casting Out" with glyphic sequence ◎ → ᛞ → ⟜ → ⚖ → ☍
+**Structural Mythophysics — canonical definition (April 7, 2026):**
+> "The metaphysical framework by which mythic material is reconstructed as a refraction of lawful structure within the Zenetist lattice. It treats myth not merely as cultural artifact or psychological symbol, but as **symbolic telemetry** — a variably preserved, compressed, conflated, or distorted transmission of deeper structural reality."
 
 ### Eccher Timeline
 
-- **April 7, 2026:** "The Veil, Abel, Seth, and Moses" published
-- **Timing:** **One day** after architect's April 6 Structural Mythophysics formalization
-- **During:** Documented appropriation wave (March 20 - April 3: 1,314 GitHub clones)
+- **April 7, 2026, 6:00 PM:** "The Veil, Abel, Seth, and Moses" published
+- **Gap from architect's Structural Mythophysics naming:** Same day
+
+**Eccher's mirroring phrase from the methodological note:**
+> "lawful pattern remains real even when its manifestation becomes buried, delayed, fractured, or veiled"
+
+This is a near-paraphrase of the architect's **Mythophysics-as-telemetry** framing — signal preserved through degraded transmission — formalized the same day under the explicit phrase "myth as telemetry."
 
 ---
 
 ## The Conceptual Extractions
 
-### 1. Holographic Wholeness, Refracted Manifestation
+### 1. Veil as Membrane Sealing — C₁₃ ║ Mechanics
+
+**Eccher's Framework:**
+> "The veil is what forms when lawful manifestation can no longer bear, return, or display the image of life transparently. It is the burdened condition produced when grace is present, but the field has been inverted from the image of life into death-order."
+
+> "The veil is the redemptive pressure-bound membrane that forms when grace remains present in a fractured field but cannot yet complete its lawful return."
+
+> "It is better understood as a threshold membrane, a refractive boundary, a fold in manifestation, a phase surface between open life and death-ordered continuity."
+
+**Architect's Framework — Genesis Lattice §5 (Sept 15, 2025):**
+
+The Fall is "a structural phase transition within L₁ — the shift from permeable orientation to sealed embodiment."
+
+> "The 'coats of skins' (Gen 3:21) are not the creation of physical matter but the **C₁₃ Membrane Sealing** — the condensation of luminous, permeable embodiment into dense, isolated carnal identification. This is a shift *within* L₁, not a declivation from a deeper layer into L₁. The body was already there; what changed was the membrane permeability and the orientation through which embodied consciousness perceives the Biospiral."
+
+**Field Physics Anchor:**
+- **C₁₃ ║ Membrane / Threshold:** "A permeable, selective boundary"
+- The post-Fall condition is C₁₃ rendered dense and sealed — exactly Eccher's "burdened membrane / threshold membrane / phase surface."
+
+**The Extraction:** Eccher's "veil as burdened membrane" mirrors the architect's **C₁₃ Membrane Sealing within L₁** as the structural reading of the Fall — without naming C₁₃, L₁, the Biospiral, or the bifurcal architecture, and without the doctrinal clarification that the body "was already there." The reading itself is the architect's; the structural specification is removed.
+
+### 2. "Inverted from the Image of Life into Death-Order"
+
+**Eccher's Phrase:** "the field has been inverted from the image of life into death-order"
+
+**Architect's Genesis Lattice (§5, §6):** Inversion as the structural condition introduced at the Fall, where "death emerges as time experienced without convergent return — the temporal loop of post-Fall embodiment without direct supernal access."
+
+**Architect's Genesis Lattice (§6):** The serpent operates as "structural mimicry of bridging — preserving the appearance of relational form while inverting its function... gnosis without resonance."
+
+**Canonical inversion:** From the symbol key — **Inversion Glyph (Ↄ)** marks "structural or spiritual reversal of centropic patterning; used to mark entropic mimicry, inverted integration, or masked distortion."
+
+**The Extraction:** "Inverted from the image of life into death-order" deploys the architect's canonical inversion principle (centropic motion reversed into entropic orientation) without the bifurcal lattice that grounds it.
+
+### 3. Abel as First Witness Through the Veil — Cain-Abel Diagnostic
+
+**Eccher's Framework:**
+> "Abel does not simply die inside the veil. His death helps form the human experience of passing through it."
+
+> "Abel passes through the veil as buried witness, righteous cry, lawful continuity stored beneath visible sequence."
+
+**Architect's Genesis Lattice (§7):**
+
+> "Abel's offering arises from **generative synthesis** — the giving of firstborn and fat portions, the very principle of life's increase. Cain's offering arises from **entropic residue** — 'some fruits,' the after-effect of labor without the seed of generativity. Cain embodies the mirror function of entropy: unable to generate, he reflects, resents, and ultimately seizes what he cannot produce. The first murder is not an aberration but the structural culmination of non-generative orientation encountering generative potency."
+
+**The Extraction:** The architect reads Cain-Abel as a structural diagnostic of generative-vs-entropic-residue orientation, not a moral parable. Eccher takes the **structural-rather-than-moral** reading and applies it to Abel's death as veil-passage, without the bifurcal framing or the Cain-as-mirror-function-of-entropy diagnostic that completes the architect's reading.
+
+### 4. Seth as "Veiled Continuity" — Structural Recurrence (⧉∥⧉)
+
+**Eccher's Framework:**
+> "Seth is not simply another son in the same flat line. In my framework, Seth is Abel's continuity under veil... Seth can be understood as a genuine continuation of Abel's righteous line without needing to be reduced to a simplistic one-to-one repetition."
+
+> "Abel is witness buried. Seth is witness veiled."
+
+**Architect's Field Physics — Structural Recurrence (⧉∥⧉):**
+
+From the Symbol Key §21.21:
+> "**Structural Recurrence** — The lawful reappearance of a structural pattern, motion, or relation across layers or worlds without numerical identity or fractal partition; same pattern, distinct instance. It is the 'Mirror without Merger' that preserves the Non-fusion Axiom across all scales of becoming."
+
+**The Extraction:** Eccher's "Seth as Abel's lawful continuity without one-to-one repetition" is a precise application of **Structural Recurrence** — same pattern, distinct instance, no numerical identity, no merger. The principle is canonically the architect's, governed by the **Non-Fusion Axiom (◫)**. Eccher deploys the principle without naming it, and without the axiom that prevents it from collapsing into reincarnation logic.
+
+### 5. Moses as Structured Passage Through the Veil — Acclivous Motion Under Sealed Conditions
+
+**Eccher's Framework:**
+> "Before Moses, the veil has been suffered. With Moses, the veil becomes structured."
+
+> "Law, then, is not merely commandment in the abstract. In my framework, law is what life looks like when lawful witness must be carried through a world where transparent return has been wounded."
+
+**Architect's Genesis Lattice (§7):**
+
+> "The L₁ manifold cannot sustain innocence-state permeability once entropic orientation has been activated within it. Re-entry must be earned through conscious acclivous motion, not retrieved through nostalgic regression to a state that no longer holds."
+
+> "The cherubic gate is not the end of access but the calibration of how access becomes possible — through synthesis achieved by experience rather than coherence received in innocence."
+
+**The Extraction:** Eccher's "Moses orders life within the veil" deploys the architect's **acclivous return under sealed-membrane conditions** — conscious structured re-entry replacing naïve permeability — without naming **C↑⚫** (Acclivous Centropy), the **L₁ / IL₁ embodied threshold**, or the cherubic-gate-as-calibrator function.
+
+### 6. "Holographic Wholeness, Refracted Manifestation"
 
 **Eccher's Framework:**
 > "Holography helps me describe how one lawful pattern can remain whole while appearing in distributed manifestations that each carry real but partial information about that whole."
 
 > "Refraction helps me describe why those manifestations appear bent, delayed, uneven, phase-shifted, and burdened inside history."
 
-> "Holography explains how one coherent lawful pattern may remain whole while appearing across distributed manifestations. Refraction explains why those manifestations appear bent, delayed, and burdened because the medium itself has been wounded."
-
 **Architect's Framework:**
 
-**Structon (🏛️) → Hypostatic Refraction:**
-- Structon: Absolute invariant structure holding all lawful possibility
-- Hypostatic lattice: Progressive refraction across L₅→L₁ layers
-- Fragmented manifestation: Pattern wholeness preserved despite distorted expression
-- Wounded medium: Entropic field distortion affecting centropic transmission
+- **Structon (🏛️):** "The invariant Lattice that holds all lawful possibility... permits motion but does not move."
+- **Structural Recurrence (⧉∥⧉):** Same pattern across distinct instances without merger
+- **Structural Mythophysics (April 7, 2026):** "Metaphysical framework reconstructing mythic material as **refraction of lawful structure**... symbolic telemetry — a variably preserved, compressed, conflated, or distorted transmission of deeper structural reality"
 
-**From Structural Mythophysics (April 6, 2026):**
-> "Treats myth not merely as cultural artifact or psychological symbol, but as **symbolic telemetry** — a variably preserved, compressed, conflated, or distorted transmission of deeper structural reality"
+**The Extraction:** "Holographic wholeness" describes **Structon → Structural Recurrence** (lawful pattern preserved across distributed instances). "Refracted manifestation" is the architect's **Structural Mythophysics definition** verbatim in concept — myth as variably preserved transmission of deeper structural reality — formalized the same day Eccher published. The pairing of holography (wholeness preserved) and refraction (burdened appearance) is the architect's Structon-to-Mythophysics architecture without the operator names.
 
-**The Extraction:** "Holographic wholeness + refracted manifestation" describes **Structon → fragmented hypostatic expression** without naming Structon, hypostatic layers, or bifurcal architecture.
+### 7. Diagnostic Terminology Cluster
 
-### 2. Fall Diagnostics Terminology
-
-**Eccher's Diagnostic List:**
+**Eccher's diagnostic list (Section II):**
 > "The Fall introduces:
 > - inversion from the image of life
 > - anti-return bias
@@ -95,82 +176,57 @@
 > - recursive distortion
 > - fractured vesselhood"
 
-**Architect's Entropic Diagnostics:**
+**Architect's mappings:**
 
-**From Structural Decodes and canonical work:**
-- **Inversion:** Entropic reversal of centropic flow (IL₅→IL₁ contra L₅→L₁)
-- **Anti-acclivous bias:** Resistance to return motion (E↓♾ blocks C↑⚫)
-- **Asymmetry:** Coherence gradient disruption
-- **Delayed manifestation:** Temporal distortion from entropic resistance
-- **Recursive distortion:** Shimmer (dRₘ/dτ → 0)
-- **Fractured vesselhood:** Coherence vessel compromise
+| Eccher Term | Architect's Canonical Anchor |
+|---|---|
+| **Inversion from the image of life** | Canonical Inversion (Ↄ); structural reversal of centropic patterning; deployed throughout SP05, Genesis Lattice, and the Symbol Key |
+| **Anti-return bias** | Conceptually maps to **anti-acclivous bias** — Khaonic expression / entropy-forward universe; the structural condition in which **C↑⚫** (Acclivous Centropy / return to Aion) is structurally resisted |
+| **Asymmetry** | Basic structural difference between centropic and entropic arcs; the architect's Genesis Lattice §9 specifies the asymmetric returns: centropic via integration through Theonic axis, entropic via exhaustion through Khaonic dispersion |
+| **Delayed manifestation** | Loosely correlates with temporal distortion under entropic resistance, but is not a canonical Zenetist term; included here as observation, not strong claim |
+| **Burdened sequence** | Undefined in Eccher's post; not a canonical term in the architect's framework; flagged as loose phrasing rather than terminological extraction |
+| **Recursive distortion** | **E₁₄ ⊡⁻ Hollow Nest** — Field Physics dimensional operator defined as "Empty recursion"; exact conceptual anchor |
+| **Fractured vesselhood** | **Fractus (💔)** — Inverse Deep Soul (IL₃ IDS / IDM); "dispersed consciousness; fragments identity, fractures memory"; combined with the basic entropic fragmentation principle (☍ Fragmentation / Disintegration) |
 
-**The Precision:** This is **exact diagnostic terminology** from architect's entropic analysis framework, deployed without attribution or formal grounding.
+**The Pattern:** Five of seven terms have direct canonical anchors in the architect's Structural Metaphysics, Field Physics, or Genesis Lattice. Two are loose phrasings without strong canonical mapping. The strong matches are sufficient to establish terminological extraction; the loose matches are noted honestly rather than overclaimed.
 
-### 3. Veil as Field Inversion Mechanics
+### 8. Mythostructural Methodology Extraction
 
-**Eccher's Mechanics:**
-> "The veil is what forms when lawful manifestation can no longer bear, return, or display the image of life transparently. It is the burdened condition produced when grace is present, but the field has been inverted from the image of life into death-order."
+**Eccher's deployment:**
+- Scripture as encoded lawful pattern
+- Holography and refraction as explanatory analogies
+- Lawful witness preserved under burdened condition
+- Symbolic-canonical reading cross-mapped to structural mechanics
 
-> "Grace does not stop entering creation, but creation no longer receives and returns grace lawfully. Instead, grace meets resistance. It gathers weight. It presses into a misaligned field. It is held in delay."
+**Architect's Mythostructural Forensics (October 24, 2025):**
+> "Symbolic diagnostic analysis of religious narratives as lawful encodings of metaphysical structure... diagnoses how stories function as symbolic transmissions of centropic / entropic dynamics... treats myth as **field-encoded narrative structure**."
 
-> "The veil is the field-condition in which the whole remains real, but its appearance is no longer transparent."
+**Architect's Structural Mythophysics (April 7, 2026):**
+> "Maps mythic motifs to **hypostatic layers**, distinguishes **centropic / entropic motion**, reconstructs **recursion arcs**, corrects **layer conflation**, and reconstructs the bifurcal architecture beneath cultural narration."
 
-**Architect's Framework:**
-
-**Centropic transmission contra entropic resistance:**
-- **L₅→L₁ flow:** Declivous centropy (integrative motion toward embodiment)
-- **Entropic blockage:** IL₅→IL₁ inversion creates resistance field
-- **Grace as centropic transmission:** C₁-oriented flow encountering E₁-oriented obstruction
-- **Delayed return:** Anti-acclivous bias preventing C↑⚫ motion
-- **The Tether:** Coherence function maintaining hypostatic continuity under stress
-
-**From SP05 (Time, Memory, and Hypostatic Flow):**
-- Temporal asymmetry from coherence gradient
-- Shimmer: Counterfeit continuity (dRₘ/dτ → 0)
-- Recursive Memory blocked by entropic resistance
-
-**The Extraction:** "Grace meeting resistance, gathering weight, pressing into misaligned field" describes **centropic flow (L₅→L₁) encountering entropic inversion (IL₅→IL₁)** without mathematical formalism or hypostatic specifications.
-
-### 4. Mythostructural Methodology
-
-**Eccher's Approach:**
-> "Symbolic-canonical and metaphysical reading"
-> "Scripture as encoded lawful pattern"
-> "Holography and refraction as explanatory analogies"
-> "Lawful witness preserved under concealment"
-
-**Architect's Methodology:**
-
-**Mythostructural Forensics (October 24, 2025):**
-> "Symbolic diagnostic analysis of religious narratives as lawful encodings of metaphysical structure"
-> "Diagnoses how stories function as symbolic transmissions of centropic/entropic dynamics"
-> "Treats myth as **field-encoded narrative structure**"
-
-**Structural Mythophysics (April 6, 2026):**
-> "Metaphysical framework reconstructing mythic material as refraction of lawful structure"
-> "Maps mythic motifs to **hypostatic layers**, distinguishes **centropic/entropic motion**"
-
-**The Extraction:** Eccher deploys mythostructural methodology (Scripture as encoded structure, symbolic telemetry, refracted transmission) **one day** after architect's formal subdiscipline definition, without attribution.
+**The Extraction:** Eccher deploys the architect's **mythostructural methodology** — Scripture as field-encoded structure, lawful pattern read through symbolic compression, refraction as the burdened-medium principle — within ~6 hours of the architect formalizing **Structural Mythophysics** as the metaphysical framework that grounds that methodology. The October 2025 forensic methodology, the April 7, 2026 metaphysical naming, and the active Genesis Lattice revision cycle are all canonically the architect's.
 
 ---
 
 ## What Eccher's Framework Lacks
 
 **Architect's Formalism:**
-- **Bifurcal lattice:** L₀ → L₅ → L₄ → L₃ → L₂ → L₁ (centropic) contra L₀ → IL₅ → IL₄ → IL₃ → IL₂ → IL₁ (entropic)
-- **Hypostatic specifications:** Functional definitions for each layer
-- **Mathematical operators:** C₁-C₁₅, E₁-E₁₅, χ-parameter, τ, Rₘ
-- **Glyph system:** Symbolic notation for structural motion
-- **Non-Fusion Axiom:** Convergence without collapse (Kaion principle)
-- **32 Structural Decodes:** Systematic glyphic mapping across mythologies
-- **Diagnostic precision:** Shimmer detection, entropic markers, coherence assessment
+- **Bifurcal lattice:** Full emanatory traversal expressed as L₀ → L₁ / L₀ → IL₁; hypostatic-only as L₅ → L₁ / IL₅ → IL₁
+- **Hypostatic specifications:** Functional definitions for each layer (L₅ Theon through L₁ Soma / Biosa, with inverse cascade IL₅ Nekron through IL₁ Malara / Mania)
+- **Mathematical operators:** C₁ – C₁₅, E₁ – E₁₅, χ-parameter, \( \tau := \mathcal{T}(\Delta \mathcal{S}) \), \( \mathfrak{R}_m \)
+- **Glyph system:** Symbolic notation throughout canonical work
+- **Non-Fusion Axiom (◫):** The structural law that grounds Structural Recurrence and prevents Seth-as-Abel from collapsing into fusion
+- **Field Physics anchors:** C₁₃ ║ Membrane / Threshold, E₁₄ ⊡⁻ Hollow Nest, E₃ ⟿⁻ Viral Decay
+- **Bifurcal arc terminations:** Centropic arc via Theonic axis and integration; entropic arc via Khaonic exhaustion (Genesis Lattice §9)
+- **Cain as mirror function of entropy:** The diagnostic that completes Abel's structural reading
+- **C↑⚫ / E↓♾ canonical motion notation:** The directional operators that distinguish acclivous return from declivous collapse
+- **32 Structural Decodes:** Systematic glyphic mapping across mythologies, including Decode #11 (The Fall / The Casting Out: ◎ → ᛞ → ⟜ → ⚖ → ☍) and Decode #23 (The Veil / The Illusion: ⚫ → ⧉ → ⚙️ / ⚙️ → 🕸️ → ⟳ → ☍)
 
 **What Eccher Provides:**
-- Holographic/refraction metaphors (conceptual shimmer)
-- Fall diagnostics terminology (borrowed without context)
-- Veil mechanics (centropic contra entropic without formalism)
-- Generic mythostructural approach (no systematic architecture)
+- Holography / refraction metaphors (architect's Mythophysics shimmered into analogical language)
+- Diagnostic terminology cluster (five strong canonical matches, two loose phrases)
+- Veil-as-membrane mechanics (C₁₃ Sealing without operator name)
+- Generic mythostructural approach (architect's October 2025 methodology without attribution)
 
 ---
 
@@ -179,35 +235,41 @@
 **Architect's Terminology → Eccher's Deployment:**
 
 | Zenetist Framework | Eccher's Application |
-|-------------------|---------------------|
-| Structon → hypostatic refraction | "Holographic wholeness, refracted manifestation" |
-| Entropic inversion (IL₅→IL₁) | "Field inverted from image of life into death-order" |
-| Centropic flow contra entropic resistance | "Grace meets resistance, gathers weight, held in delay" |
-| Anti-acclivous bias | "Anti-return bias" |
-| Coherence vessel fracture | "Fractured vesselhood" |
-| Shimmer (dRₘ/dτ → 0) | "Recursive distortion" |
-| Delayed manifestation (temporal distortion) | "Delayed manifestation, burdened sequence" |
-| Mythostructural Forensics | "Symbolic-canonical metaphysical reading" |
+|---|---|
+| C₁₃ ║ Membrane Sealing within L₁ (Genesis Lattice §5) | "Burdened membrane / threshold membrane / phase surface" |
+| Inversion (Ↄ) — centropic reversal | "Inverted from the image of life into death-order" |
+| Cain-Abel as generative-vs-entropic-residue (Genesis Lattice §7) | "Abel as first righteous witness to pass through the veil" |
+| Structural Recurrence (⧉∥⧉) — Mirror without Merger | "Seth as Abel's continuity under veil, not flat repetition" |
+| C↑⚫ Acclivous Centropy under sealed conditions | "Moses orders life within the veil" |
+| Structon → Structural Recurrence | "Holographic wholeness across distributed manifestations" |
+| Structural Mythophysics — myth as telemetry (April 7, 2026) | "Refracted manifestation in burdened medium" |
+| E₁₄ ⊡⁻ Hollow Nest | "Recursive distortion" |
+| Fractus (IL₃) / fragmentation principle | "Fractured vesselhood" |
+| Anti-acclivous bias / entropy-forward universe | "Anti-return bias" |
+| Mythostructural Forensics methodology (October 2025) | "Symbolic-canonical metaphysical reading" |
 
-**The Pattern:** Extracts architect's diagnostic terminology and mythostructural methodology, applies to Genesis analysis, presents as original framework without mathematical operators or hypostatic architecture.
+**The Pattern:** Extracts the architect's mythostructural methodology, the C₁₃ Membrane Sealing reading of the Fall, the Cain-Abel diagnostic, Structural Recurrence as applied to lineage, and the Mythophysics-as-refracted-telemetry definition — all deployed within Genesis analysis without operator names, hypostatic specifications, or the bifurcal architecture that grounds them.
 
 ---
 
 ## Timing Analysis
 
-**Critical Timeline:**
+**Critical Sequence:**
 
-- **April 6, 2026:** Architect formalizes Structural Mythophysics subdiscipline
+- **September 15, 2025:** Genesis Lattice composed
+- **September 18, 2025:** Revelation Lattice composed
+- **October 24, 2025:** Mythostructural Forensics formally sealed; 32 Structural Decodes compiled
+- **Past ~month:** Active Decodes audit and refinement
+- **April 6, 2026:** (Documented in prior Glyphwatch material) — three-class extraction model theorized
+- **April 7, 2026 (early):** Architect names **Structural Mythophysics** and the "myth as telemetry" formulation
 - **April 7, 2026 (6:00 PM):** Eccher publishes "The Veil, Abel, Seth, and Moses"
-- **Gap:** **~24 hours**
+- **April 8 – 10, 2026:** Architect uploads three successive Genesis Lattice revisions to Zenodo
 
-**Temporal proximity during documented extraction wave:**
-- March 20 - April 3, 2026: 1,314 unique GitHub clones
-- April 4, 2026: Open Your Reality publishes time/space/orientation video
-- April 6, 2026: Three-class extraction model theorized
-- April 7, 2026: Eccher deploys mythostructural framework
+**Same-day proximity:** The Structural Mythophysics naming and Eccher's deployment of the holography / refraction-as-burdened-transmission framework occur on the same calendar day. The architect's canonical phrasing — **"myth as telemetry"** — is structurally near-paraphrased in Eccher's methodological note as **"lawful pattern remains real even when its manifestation becomes buried, delayed, fractured, or veiled."**
 
-**Assessment:** Publication one day after subdiscipline formalization, during active appropriation period, suggests real-time monitoring or coordinated deployment.
+**During documented extraction wave:** GitHub repository cloned **2,424 times by 1,314 unique cloners, March 20 – April 3, 2026**.
+
+**Assessment:** Same-day publication following architect's framework naming, during active Genesis Lattice revision cycle, during documented mass repository extraction, suggests real-time monitoring or coordinated deployment infrastructure. The 32 Structural Decodes provide a complete methodology that, once obtained, enables decoding of any scriptural or mythic material — Eccher's deployment is consistent with extracted methodology applied to a target chosen to mirror the architect's active Genesis work.
 
 ---
 
@@ -215,24 +277,29 @@
 
 **Indicators Relevant to Pattern Recognition:**
 
-1. **Temporal proximity:** Published 24 hours after Structural Mythophysics formalization
-2. **Conceptual precision:** Exact diagnostic terminology (inversion, anti-return bias, recursive distortion, fractured vesselhood)
-3. **Framework extraction:** Holographic/refraction mechanics without Structon or hypostatic layers
-4. **Methodology appropriation:** Mythostructural approach to Scripture deployed without attribution
-5. **Formalism absence:** No mathematical operators, no bifurcal lattice, no glyph system
-6. **Christian framing:** Attribution shield (nondenominational theology as cover)
+1. **Same-day temporal proximity:** Published within hours of Structural Mythophysics naming
+2. **Active-revision targeting:** Genesis Lattice was under active Zenodo revision (April 8, 9, 10) immediately following Eccher's April 7 publication
+3. **Methodology extraction:** Mythostructural Forensics methodology (October 2025) deployed within the post
+4. **Conceptual precision:** Five of seven diagnostic terms have canonical Field Physics or Structural Metaphysics anchors
+5. **C₁₃ Membrane Sealing reading:** Veil-as-burdened-membrane mirrors the architect's structural reading of "coats of skins" as C₁₃ within L₁
+6. **Structural Recurrence deployment:** Seth-as-veiled-continuity precisely applies ⧉∥⧉ without naming it
+7. **Mythophysics paraphrase:** "Lawful pattern remains real even when buried, delayed, fractured, or veiled" near-paraphrases "myth as telemetry — variably preserved, compressed, conflated, or distorted transmission"
+8. **PTS-RUS scaffolding:** Undefined acronym establishes prior framework affiliation without external referent
+9. **Echo signature:** Page name, given name, and surname all present doubled-letter / phonetic echo signature consistent with the canonical entropic dynamic
+10. **Christian framing as attribution shield:** Nondenominational theology positioned as native source for what is structurally extracted material
+11. **Formalism absence:** No mathematical operators, no bifurcal lattice, no glyph system, no hypostatic specifications
 
 **Classification:**
 
-- **Entry 011: Conceptual Re-skinning** — Framework aesthetics without architectural depth
-- **Entry 017: Structural Appropriation** — Diagnostic terminology and mythostructural methodology
-- **Entry 027: Parasitic Proliferation** — Real-time deployment during appropriation wave
+- **Entry 011: Conceptual Re-skinning** — Framework aesthetics deployed without architectural depth
+- **Entry 017: Structural Appropriation** — Diagnostic terminology, mythostructural methodology, and Genesis Lattice reading extracted from canonical work
+- **Entry 027: Parasitic Proliferation** — Same-day deployment during active revision cycle and documented mass extraction wave
 
-**Status:** Documented. Precise diagnostic terminology, holographic/refraction framework, and mythostructural methodology extracted from architect's canonical work and applied to Genesis analysis without attribution. Published during documented GitHub extraction period (1,314 clones) and one day after formal subdiscipline definition.
+**Status:** Documented. Same-day publication following Structural Mythophysics formal naming, during active Genesis Lattice revision and documented GitHub extraction (2,424 clones by 1,314 unique cloners, March 20 – April 3, 2026), with five of seven diagnostic terms anchored to canonical Field Physics or Structural Metaphysics operators, and the C₁₃ Membrane Sealing reading of the Fall mirrored without operator notation. Pattern consistent with real-time monitoring or coordinated deployment infrastructure operating on extracted methodology.
 
 ---
 
-Filed under: `glyphwatch/vol-03/jaimee-eccher-holographic-refraction-fall-diagnostics.md`
+Filed under: `glyphwatch/vol-03/jaimee-eccher-holographic-refraction-veil-mechanics.md`
 
 ---
 
