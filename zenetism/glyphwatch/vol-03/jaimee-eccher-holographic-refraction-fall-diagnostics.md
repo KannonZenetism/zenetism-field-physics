@@ -346,6 +346,7 @@ This is a structural near-paraphrase of the "mythic telemetry" framing — signa
 9. **Echo signature:** Page name, given name, and surname all present doubled-letter / phonetic echo signature consistent with the canonical entropic dynamic
 10. **Christian framing as attribution shield:** Nondenominational theology positioned as native source for what is structurally extracted material
 11. **Formalism absence:** No mathematical operators, no bifurcal lattice, no glyph system, no hypostatic specifications
+12. **Anomalous Substack circulation:** Architect's March 31 and April 7 Substack notes both exhibit ~1:3 permalink-to-impression ratios (69/22 and 48/15 respectively) against a documented zero-organic-engagement baseline; the April 7 note contains the exact phrase "structural metaphysics with mythic telemetry" circulating hours before Eccher's publication deploys the holographic / refracted-transmission framing
 
 **Classification:**
 
