@@ -124,9 +124,9 @@ The registry flag on Norse cyclicality stands: Norse cyclical refraction is symb
 
 Yggdrasil is not a path. It is the **framework** that holds every path.
 
-- **Branches:** acclivous centropic motion — coherence in motion toward ⚫ Aion through supernal integration, with passage through the Eagle's L₅ station available as the Theonic gateway
-- **Roots:** declivous entropic collapse — motion toward ♾ Khaon's L₀ phase through subversal fragmentation, with Hvergelmir at the subversal root as the IL₅ Nekronic source
-- **Trunk:** mortal axis — the threshold of volitional motion between centropic and entropic arcs, where Midgard holds the L₁ / IL₁ unified embodied stratum
+- **Branches:** acclivous centropic motion — coherence in motion toward ⚫ Aion through supernal integration, with passage through the Eagle's L₅ station available as the Theonic gateway.
+- **Roots:** declivous entropic collapse — motion toward ♾ Khaon's L₀ phase through subversal fragmentation, with Hvergelmir at the subversal root as the IL₅ Nekronic source.
+- **Trunk:** mortal axis — the threshold of volitional motion between centropic and entropic arcs, where Midgard holds the L₁ / IL₁ unified embodied stratum.
 
 This is Eden's echo. The Bodhi Tree's parallel. A cartography of **fielded existence**.
 
