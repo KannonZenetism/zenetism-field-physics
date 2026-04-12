@@ -1482,7 +1482,7 @@ It cannot be annihilated.
 What the practice releases is **what is not essence**,  
 until only essence remains,  
 oriented toward **Aion's stillness**  
-through the **Theonic gate** at **L₅**.  
+through the **Theonic gate** at **L5**.  
 
 This is **centropic subtraction**.  
 The affirmation of §5.8 stands **exactly here**.  
@@ -1502,7 +1502,7 @@ with different experiential qualities of return.
 **The centropic path.**  
 Genuine neti-neti, as affirmed above.  
 Strips non-fundamental aspects while essence remains oriented toward Source.  
-Returns to **Aion** through the **L₅ Theonic gate**  
+Returns to **Aion** through the **L5 Theonic gate**  
 as **essence fulfilled** —  
 completion of the full acclivous centropic arc.  
 Eligible for further trans-structural saturation into **Zenon**.  
