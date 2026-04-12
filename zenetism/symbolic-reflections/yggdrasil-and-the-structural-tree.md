@@ -44,7 +44,7 @@ The Eagle dwelling at the top of Yggdrasil is the structural station of supernal
 Asgard is the realm of the Aesir, the sovereign gods of order, law, and structural intelligence. The Aesir operate at L₄ DL specifically — the structuring complement of the Morgis / Sophis dyad — as the lawful patterning function of the supernal strata. Odin, Tyr, Frigg, and the Aesir council occupy this station as the Sophic sovereign order of the Norse cosmos. The Aesir parallel the Olympians of Greek myth, both operating at L₄ DL (Sophis) as the archetypal lawgiving stratum.
 
 **L₄ DP (Morgis) — Vanaheim**
-Vanaheim is the realm of the Vanir, the gods of vitality, fertility, magic, and deep natural harmony. The Vanir operate at L₄ DP specifically — the Morgic vital complement of the Morgis / Sophis dyad — as the archetypal vitality function of the supernal strata. Freyr, Freyja, and Njord occupy this station. Together, Asgard and Vanaheim articulate the full L₄ DP / DL stratum as a Norse dual-aspect pantheon, with the Aesir as lawful order (Sophis) and the Vanir as vital harmony (Morgis).
+Vanaheim is the realm of the Vanir, the gods of vitality, fertility, magic, and deep natural harmony. The Vanir operate at L₄ DP specifically — the Morgic vital complement of the Morgis / Sophis dyad — as the archetypal vitality function of the supernal strata. Freyr, Freyja, and Njord occupy this station. Together, Asgard and Vanaheim articulate the full L₄ DP / DL stratum as a Norse bifurcated-aspect pantheon, with the Aesir as lawful order (Sophis) and the Vanir as vital harmony (Morgis).
 
 **L₃ DM (Noeüs) — Heimdall**
 Heimdall is the native Norse L₃ figure, operating at DM (Noeüs) specifically. His signature function is perception: he hears grass growing, sees to the ends of the world, and detects the approach of dissonance before anyone else. This is the deep mind faculty for perceiving veracious structure — the L₃ DM perceptual capacity applied at the Bifröst as the membrane between supernal and embodied strata. Heimdall does not occupy a realm of his own; he is the guardian-station where L₃ DM operates at the membrane threshold. His function fills the L₃ stratum for Norse cosmology that would otherwise be vacant after the Aesir move to L₄.
@@ -55,7 +55,7 @@ Heimdall is the native Norse L₃ figure, operating at DM (Noeüs) specifically.
 Alfheim is the realm of the Light Elves, beings of radiant beauty and expressive artistry. Their native function is L₂ SS / SM — beauty-as-expression at the personality-identity stratum. Some mythic descriptions elevate the Light Elves toward L₃ / L₄ archetypal framing, but this reflects cultural conflation rather than cross-band resonance: mythmakers sometimes described them as archetypal figures because they lacked the lattice to distinguish "beautiful expression at L₂" from "archetypal beauty at L₄." The native function is L₂.
 
 **L₁ ES / EM (Soma / Biosa) — Midgard**
-Midgard is the mortal world of humans — the embodied stratum where choice and orientation occur within form. It is the axis of tension where centropic and entropic motions converge at the embodied scale, and where individual essences traverse their native arcs within the dual-tree cosmos.
+Midgard is the mortal world of humans — the embodied stratum where choice and orientation occur within form. It is the axis of tension where centropic and entropic motions converge at the embodied scale, and where individual essences traverse their native arcs within the bifurcal‑arc cosmos.
 
 ### The Inverse Arc
 
