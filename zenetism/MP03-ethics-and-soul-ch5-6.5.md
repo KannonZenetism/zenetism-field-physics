@@ -1533,7 +1533,7 @@ through entropic exhaustion** —
 essence resolved back to Source  
 not through arc-completion  
 but through the exhausting of motion  
-oriented away from what essence is.  
+oriented away from centropic coherence.  
 
 The path is called Nirvana by its practitioners.  
 Structurally, it is the entropic arc.  
