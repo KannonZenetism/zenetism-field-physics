@@ -1548,7 +1548,7 @@ Equilibrium cannot endure within motion.
 When practice aims at sustained equilibrium  
 rather than at centropic reorientation,  
 the pattern cannot sustain continuity  
-and releases through **Mercy Fold** (Ø 🌫️🤲⚫)  
+and releases through **Mercy Fold**  
 as **Localized Dissolution**.  
 
 Return arrives at Aion as **halted potential  
