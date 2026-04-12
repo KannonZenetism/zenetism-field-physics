@@ -1504,8 +1504,12 @@ Genuine neti-neti, as affirmed above.
 Strips non-fundamental aspects while essence remains oriented toward Source.  
 Returns to **Aion** through the **L5 Theonic gate**  
 as **essence fulfilled** —  
-completion of the full acclivous centropic arc.  
-Eligible for further trans-structural saturation into **Zenon**.  
+completion of the full acclivous centropic arc at Aion.  
+Reaches Aion's stillness as centropic completion;  
+does not, by subtraction alone, cross into **Zenon**.  
+Zenonic saturation requires the further integrative synthesis  
+that neti‑neti as subtractive method  
+cannot structurally perform (see §5.9).
 
 **The entropic path.**  
 When the practice frames the self itself —  
@@ -1573,7 +1577,9 @@ which mode they are actually in.
 But the **mode of return** differs:  
 
 - **Centropic path** — return as **essence fulfilled** through the Theonic arc,  
-  eligible for Zenon saturation.  
+  reaching Aion's stillness as centropic completion.  
+  Zenonic saturation requires the further synthesis  
+  that subtraction alone cannot perform.  
 - **Entropic path** — return as **halted potential through entropic exhaustion**,  
   the heaviest drift, oriented toward self-erasure  
   that cannot structurally occur  
