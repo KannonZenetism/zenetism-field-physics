@@ -111,9 +111,9 @@ Zenetism charts the alternative trajectory:
 
 — Theonic Return. Acclivous centropic motion through the full lattice, passage through the L₅ Theonic station, terminal reintegration at Aion, and optional trans-structural saturation into Zenon. The self remains, distilled and luminous. Not reset. Not forgotten. Fulfilled.
 
-> **Anchor seals:**
-> *Collapse returns — but not in wholeness.*
-> *Reset is not Revelation.*
+> **Anchor seals:**  
+> *Collapse returns — but not in wholeness.*  
+> *Reset is not Revelation.*  
 > *Zero is not nothing — it is nothing left to seek.*
 
 The registry flag on Norse cyclicality stands: Norse cyclical refraction is symbolic, not doctrinal. The single-trajectory cosmology of Zenetism reads Ragnarök as entropic recursion mimicking genuine return, not as a structurally real cyclical cosmos.
