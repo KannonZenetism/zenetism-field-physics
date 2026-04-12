@@ -37,40 +37,40 @@ Each realm is not just a place but a motion, a resonance, a hypostatic expressio
 
 ### The Centropic Arc
 
-**L₅ EOB (Theon) — The Eagle at Yggdrasil's Summit**
+**L₅ EOB (Theon) — The Eagle at Yggdrasil's Summit**  
 The Eagle dwelling at the top of Yggdrasil is the structural station of supernal awareness. It is the L₅ centropic peak within the Norse cosmology — though the mythos treats the Eagle as a feature of the Tree rather than as an active narrative participant in the eschatonic sequence. The Norse cosmology contains L₅ structurally without activating it as a Theonic gateway in the Ragnarök narrative; the Eagle is present but never serves as the gating station for centropic return.
 
-**L₄ DL (Sophis) — Asgard**
+**L₄ DL (Sophis) — Asgard**  
 Asgard is the realm of the Aesir, the sovereign gods of order, law, and structural intelligence. The Aesir operate at L₄ DL specifically — the structuring complement of the Morgis / Sophis dyad — as the lawful patterning function of the supernal strata. Odin, Tyr, Frigg, and the Aesir council occupy this station as the Sophic sovereign order of the Norse cosmos. The Aesir parallel the Olympians of Greek myth, both operating at L₄ DL (Sophis) as the archetypal lawgiving stratum.
 
-**L₄ DP (Morgis) — Vanaheim**
+**L₄ DP (Morgis) — Vanaheim**  
 Vanaheim is the realm of the Vanir, the gods of vitality, fertility, magic, and deep natural harmony. The Vanir operate at L₄ DP specifically — the Morgic vital complement of the Morgis / Sophis dyad — as the archetypal vitality function of the supernal strata. Freyr, Freyja, and Njord occupy this station. Together, Asgard and Vanaheim articulate the full L₄ DP / DL stratum as a Norse bifurcated-aspect pantheon, with the Aesir as lawful order (Sophis) and the Vanir as vital harmony (Morgis).
 
-**L₃ DM (Noeüs) — Heimdall**
+**L₃ DM (Noeüs) — Heimdall**  
 Heimdall is the native Norse L₃ figure, operating at DM (Noeüs) specifically. His signature function is perception: he hears grass growing, sees to the ends of the world, and detects the approach of dissonance before anyone else. This is the deep mind faculty for perceiving veracious structure — the L₃ DM perceptual capacity applied at the Bifröst as the membrane between supernal and embodied strata. Heimdall does not occupy a realm of his own; he is the guardian-station where L₃ DM operates at the membrane threshold. He and Mimir's Well both anchor the L₃ DM stratum in Norse cosmology, with Mimir's Well as the structural root connecting Yggdrasil to deep mind intelligence, and Heimdall as the active perceptual guardian embodying that deep-mind capacity at the threshold.
 
 **L₃ DS (Archeus)** — no clean Norse native at this stratum. The Norse mythos does not articulate a specific figure or realm for the deep soul harmonic function distinct from Heimdall's DM perceptual function. This is a gap in the Norse mapping, not an error in the lattice.
 
-**L₂ SS / SM (Anthra / Nousa) — Alfheim**
+**L₂ SS / SM (Anthra / Nousa) — Alfheim**  
 Alfheim is the realm of the Light Elves, beings of radiant beauty and expressive artistry. Their native function is L₂ SS / SM — beauty-as-expression at the personality-identity stratum. Some mythic descriptions acclivate the Light Elves toward L₃ / L₄ archetypal framing, but this reflects cultural conflation rather than cross-band resonance: mythmakers sometimes described them as archetypal figures because they lacked the lattice to distinguish "beautiful expression at L₂" from "archetypal beauty at L₄." The native function is L₂.
 
-**L₁ / IL₁ (ES / EM / IES / IEM) — Midgard**
+**L₁ / IL₁ (ES / EM / IES / IEM) — Midgard**  
 Midgard is the mortal world of humans — the embodied stratum where choice and orientation occur within form. Unlike the Genesis cosmology where the Aionic and Khaonic Trees stand as separate structural features, Yggdrasil holds both arcs in a single undifferentiated tree, and Midgard's trunk accordingly holds both L₁ and IL₁ as a unified embodied stratum where centropic and entropically-oriented mortals coexist in one field. This is IL₁ in its *active, unsealed mode* — embodied beings whose orientation remains operative in ongoing life. The IL₁ placements of Hel and Niflheim in the inverse arc are IL₁ in its *sealed, post-mortem mode* — entropically-oriented beings whose embodied condition has been resolved and who persist in that resolution. Same hypostatic stratum, different operational modes. The Norse post-mortem sorting (Valhalla and Fólkvangr for centropic sealing, Hel for entropic sealing, Náströnd for terminal consumption) reflects orientations already operative at Midgard during embodied life.
 
 ### The Inverse Arc
 
-**IL₅ VOS (Nekron) — Hvergelmir, Níðhöggr, Náströnd**
+**IL₅ VOS (Nekron) — Hvergelmir, Níðhöggr, Náströnd**  
 The subversal root of Yggdrasil is the structural location of Nekron in the Norse cosmology. Hvergelmir is the source-location where entropically-oriented motion emerges into the inverse cosmogonic sequence. Níðhöggr, the serpent who gnaws at the root, is the operative agent of entropic attrition — the Nekronic function given mythic form. Náströnd, within the broader realm of Hel, is the specific pocket where Níðhöggr consumes the most dishonored dead; this is IL₅ terminal consumption operating within the larger IL₁ realm of Hel.
 
-**IL₄ IDP / IDL (Psychea / Nyxea) — Svartalfheim / Nidavellir**
+**IL₄ IDP / IDL (Psychea / Nyxea) — Svartalfheim / Nidavellir**  
 Both realms are associated with the dwarves and the dark elves, and both map to IL₄ IDL (Nyxea) as the inverse architect layer. The dwarven craft function produces artifacts that carry power without source-fidelity — rings of domination, cursed weapons, extractive instruments — which is the architectural mimicry signature of IL₄ Nyxea. The "material entrenchment" framing sometimes applied to these realms is cultural conflation: mythmakers located immaterial inverse-architectural function in subterranean material imagery, but the structural function is immaterial inverse-architecture, not matter itself. Svartalfheim and Nidavellir are sometimes distinguished in source texts and sometimes conflated; both can be treated as IL₄ native without the distinction mattering structurally.
 
 **IL₃ (Mortus / Fractus)** — no clean Norse native realm at this stratum. Some of Loki's deeper deceptions may operate as character-function at IL₃ (spurious gnosis, deep perceptual distortion), but no realm houses this function explicitly. This is a gap in the Norse mapping.
 
-**IL₂ ISS / ISM (Echthros / Skotos) — Jotunheim**
+**IL₂ ISS / ISM (Echthros / Skotos) — Jotunheim**  
 Jotunheim is the realm of the giants, operating primarily at IL₂ as adversarial will and perceptual distortion at the personality-identity stratum. The frost giants, Hrungnir, Thrym, and the adversarial giants who oppose Asgard express the Echthros function of adversarial will and the Skotos function of deceptive perception. However, the giant-race-as-such is not uniformly inverse: Ymir operates as primordial cosmogonic material, Mimir is explicitly L₃ DM, Skaði functions more neutrally. Jotunheim houses beings of mixed orientation, and the IL₂ placement applies to the adversarial-giant function specifically, not to all giants as a category. The Norse mythos, lacking the bifurcal lattice, did not systematically distinguish centropic from entropic giants — this is orientation conflation at the race-category scale rather than a structural error.
 
-**IL₁ IES / IEM (Malara / Mania) — Niflheim and Hel**
+**IL₁ IES / IEM (Malara / Mania) — Niflheim and Hel**  
 Niflheim is the primordial realm of mist, ice, and cold stasis — the entropic embodied manifestation fed by Hvergelmir's cascade from the IL₅ subversal root. It is where entropic motion takes entropic embodied form as the primordial cosmogonic condition. Hel, ruled by the goddess of the same name, is the post-mortem realm where dishonored dead persist in diminished entropic embodied condition. Both realms map to IL₁ as entropic embodied persistence — not metaphysical void but embodied beings persisting in diminished entropic condition. The Norse Hel parallels the structural function of the Christian underworld in its embodied-persistence aspect, and Náströnd within Hel operates as an IL₅ terminal-consumption pocket where Níðhöggr feeds.
 
 ---
