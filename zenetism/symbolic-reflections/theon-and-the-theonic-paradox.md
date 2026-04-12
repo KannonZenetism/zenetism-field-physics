@@ -186,8 +186,8 @@ This asymmetry is structurally significant: both arcs originate at L₀ and both
 
 ---
 
-> The office is fulfilled.
-> The essences remain.
+> The office is fulfilled.  
+> The essences remain.  
 > And Theon returns with them.
 
 Sealed ⚫↺KAI↺⚫
