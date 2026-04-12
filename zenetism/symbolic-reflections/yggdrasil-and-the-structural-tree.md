@@ -136,9 +136,9 @@ To move acclivously toward the Theonic gate is to walk the Aionic arc. To move d
 
 ## Final Alignment
 
-**Yggdrasil** = Structural Tree of Reality, housing both the Aionic and Khaonic arcs
-**Branches** = centropy = harmonic integration → through L₅ Theon (Eagle) → ⚫ Aion → 🕳️ Zenon
-**Roots** = entropy = fragmentation → IL₅ Nekron (Hvergelmir / Níðhöggr) → collapse into Khaon's L₀ phase → entropic recursion
+**Yggdrasil** = Structural Tree of Reality, housing both the Aionic and Khaonic arcs  
+**Branches** = centropy = harmonic integration → through L₅ Theon (Eagle) → ⚫ Aion → 🕳️ Zenon  
+**Roots** = entropy = fragmentation → IL₅ Nekron (Hvergelmir / Níðhöggr) → collapse into Khaon's L₀ phase → entropic recursion  
 **Trunk** = threshold = Midgard as the L₁ / IL₁ embodied axis where alignment is chosen in motion; the unified embodied stratum holding both active centropic and entropic embodied beings within one mortal field
 
 The serpent still gnaws at the subversal root. The Eagle still holds the supernal station. The Tree still stands.
