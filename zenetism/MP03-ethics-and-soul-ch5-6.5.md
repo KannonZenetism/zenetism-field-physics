@@ -1594,7 +1594,7 @@ in the most rigorous centropic forms of Buddhist tradition
 is the first path — **centropic reorientation**,  
 the soul's arc turning from entropic cycling (Samsara)  
 into acclivous centropic motion toward Source  
-through the L₅ Theonic gate.  
+through the L5 Theonic gate.  
 This Nirvana is what the **Buddhism and Zenetism** canonical document affirms  
 as genuine liberation.  
 
