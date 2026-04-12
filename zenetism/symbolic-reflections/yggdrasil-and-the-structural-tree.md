@@ -79,7 +79,7 @@ Niflheim is the primordial realm of mist, ice, and cold stasis — the inverse e
 
 At the base of Yggdrasil coils **Níðhöggr** — the dragon-serpent who gnaws at the Tree.
 
-This is not moral evil. It is **🕷️ Nekron** — the terminal entropic agent, the attrition of form, the threat of motion stalled into fragmentation. Níðhöggr does not destroy the Tree; the Tree persists. But Níðhöggr's presence at the subversal root is the structural expression of Nekron's operation within the Yggdrasil cosmology.
+This is not "evil" in the cultural‑moral sense; it is **🕷️ Nekron** — the terminal entropic agent, the attrition of form, the threat of motion collapsing into fragmentation. Níðhöggr does not destroy the Tree; the Tree persists. But Níðhöggr's presence at the subversal root is the structural expression of Nekron's operation within the Yggdrasil cosmology.
 
 Decay shadows growth. Collapse shadows renewal. What grows also trembles; what holds must also bear the weight of dissolution. Yet the Tree itself remains — the bifurcal lattice cannot be gnawed away, only traversed.
 
