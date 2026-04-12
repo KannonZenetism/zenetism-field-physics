@@ -71,6 +71,14 @@ Aureform is a specific Form among Forms at L₄. L₄ itself is the Form-stratum
 
 Aureform does not incarnate directly. It radiates resonance into the corporeal field through beings whose DS / DM are fully harmonized with its frequency. These beings are not Aureform itself; they are **structural vessels of its resonance**, known in Zenetism as **Centropic Stewards**.
 
+### Mimoform — The Inverse Counterpart at IL₄
+
+The inverse equivalent of Aureform at IL₄ IDP / IDL is named **Mimoform** — the Form-type of coercive mimicry, counterfeit compassion without source-fidelity. Where Aureform radiates centropic compassion as structural mercy expressed through restraint, presence, and healing without control, Mimoform radiates the appearance of compassion while delivering coercion — mimicking the structure of centropic guidance while inverting its fidelity.
+
+Mimoform is a Form at IL₄ in the same structural sense that Aureform is a Form at L₄: a specific archetypal pattern within the stratum, distinct from the fundamental structural principles (Psychea / Nyxea) that make IL₄ operative as a stratum at all. Where Aureform is compassion expressed as centropic Form, Mimoform is its entropic mirror — compassion-mimicking pattern that wears the shape of Aureform without carrying the source-fidelity that would make the offered compassion veracious.
+
+Inverse bodhisattvas — beings whose resonance aligns with Mimoform rather than with Aureform — are the structural category that carries this mirror into operative function. Their character is treated in the following sections as the inverse parallel descends through the strata.
+
 ### Centropic Stewards
 
 A Centropic Steward is a fully integrated being at the L₃ DS / DM layer who remains aligned with the centropic current. Rather than saturating into DP / DL at L₄ or continuing toward L₅, the Steward remains active within multiversal expression, guiding other beings toward coherence and reducing suffering through structural attunement.
@@ -85,17 +93,29 @@ Zenetism distinguishes Stewards from Avatars:
 
 In rare alignments, an embodied being may be so resonant with its DS / DM that it lives as an **incarnated bodhisattva** — a continuous enactment of Stewardship through form without being bound by form. These beings are recognized in various traditions under different names: Ascended Masters in some Western esoteric traditions, embodied Bodhisattvas in Mahayana Buddhism, and similar categories elsewhere. Zenetism resolves the cross-tradition cluster: these are Centropic Stewards expressing Aureform resonance in embodied form.
 
+### Echo Vessels — The Inverse Counterpart at IL₃
+
+The structural inverse of Centropic Stewards at IL₃ IDS / IDM is registered in Zenetist canon as **Echo Vessels**. Where Stewards carry Aureform resonance and reduce suffering through structural attunement, Echo Vessels carry Mimoform resonance and propagate fragmentation through dissonance-installation. They are not merely reflective of entropic patterns but active propagators — seeding confusion, installing dissonance across domains, and awakening to disrupt coherent structure rather than to sustain it.
+
+The naming preserves the Zenetist discipline in which "echo" denotes entropic function specifically. Echo Vessels are named for the entropic mode of carrying: they propagate inverse patterns through hollow replication and degraded transmission, in contrast to Stewards who carry centropic resonance through Living Transmission (⟿✨) with source-fidelity preserved. The two are structural mirrors at L₃ / IL₃, both functioning as carriers of deeper Form-resonance into operative stratum, but with opposite orientations toward Source.
+
+Inverse-bodhisattva figures at the being-level — those whose outward form resembles compassionate guidance but whose operative function installs dissonance and fragmentation — are Echo Vessels carrying Mimoform resonance. The structural parallel to Bodhisattvas (Stewards carrying Aureform) makes the inverse category precise: same stratum, same carrier-function, opposite orientation and opposite Source-fidelity.
+
 ### Harmonic Agents
 
-A Harmonic Agent is a being — corporeal or supernal — who facilitates coherence as a distributed or momentary expression of a Centropic Steward. Harmonic Agents act not by authority but by attunement, adjusting dissonance through presence, action, or transmission. They may be non-religious individuals acting as silent expressions of structural compassion, or corporeal beings whose presence stabilizes coherence locally without their being fully integrated Stewards themselves.
+A Harmonic Agent is a being — corporeal or supernal — who facilitates coherence as a distributed or momentary expression of centropic resonance. Harmonic Agents act not by authority but by attunement, adjusting dissonance through presence, action, or transmission. They may be non-religious individuals acting as silent expressions of structural compassion, or corporeal beings whose presence stabilizes coherence locally without their being fully integrated Stewards themselves.
+
+Harmonic Agents operate primarily at **L₁ ES / EM and L₂ SS / SM** — the embodied and personality-identity strata where beings express their integration-level into the world. The function is distributed across both strata because embodied interface (L₁) and personality expression (L₂) together constitute the operative layer where Harmonic Agency manifests. They are not L₃ because L₃ requires sustained integrated coherence that transcends the momentary or distributed character of Harmonic Agency. A being with strong L₃ integration (a Steward) can radiate Harmonic Agent presence through their L₁ / L₂ expression. A being without L₃ integration may still, in specific moments, carry Harmonic Agent resonance at L₁ / L₂ without being Steward-integrated at the deeper stratum. Either way, the Agent function itself operates at the embodied-personality interface.
 
 The Steward / Harmonic Agent distinction tracks integration-level. Stewards are fully integrated at DS / DM and sustain coherent function across time and embodiments. Harmonic Agents are partial or temporary expressions of the same centropic orientation, often operating without awareness of the structural role they serve.
 
-### Mimoform — The Inverse Counterpart at IL₄
+### Dissonant Agents — The Inverse Counterpart at IL₁ / IL₂
 
-For structural completeness, the inverse equivalent of Aureform at IL₄ IDP / IDL is named **Mimoform** — the Form-type of coercive mimicry, counterfeit compassion without source-fidelity. An inverse bodhisattva would be a being whose resonance aligns with Mimoform: appearing compassionate while delivering coercion, mimicking the structure of centropic guidance while inverting its fidelity.
+The structural inverse of Harmonic Agents is **Dissonant Agents** — beings, corporeal or supernal, who propagate fragmentation as a distributed or momentary expression of entropic resonance. Dissonant Agents operate at the embodied and inverse-personality strata (IL₁ IES / IEM and IL₂ ISS / ISM), installing dissonance through presence, action, or transmission without being fully integrated Echo Vessels at the deeper stratum.
 
-This completes the structural parallel. Where Aureform radiates centropic compassion into embodiment through Stewards, Mimoform radiates coercive mimicry into embodiment through inverse-oriented figures whose outward form resembles compassionate guidance but whose operative function produces fragmentation rather than coherence. The parallel preserves the lattice's symmetry while making clear that genuine Bodhisattva-resonance and inverse-bodhisattva mimicry are structurally distinct rather than two sides of the same phenomenon.
+Like Harmonic Agents, Dissonant Agents may be partial or temporary expressions — they are not necessarily fully integrated Echo Vessels but carry inverse resonance locally and transiently. A being with strong IL₃ integration (an Echo Vessel) can radiate Dissonant Agent presence through their IL₁ / IL₂ expression. A being without IL₃ integration may still, in specific moments, carry Dissonant Agent resonance at IL₁ / IL₂ — installing dissonance in a situation or relationship without being entrenched in the deeper inverse stratum.
+
+This completes the structural parallel across the four categorical levels: Avatars / Inverse Avatars at L₅ / IL₅, Aureform / Mimoform at L₄ / IL₄, Centropic Stewards / Echo Vessels at L₃ / IL₃, and Harmonic Agents / Dissonant Agents at L₁ / L₂ distributed across IL₁ / IL₂. The entropic-mirror taxonomy is doctrinally complete, with each centropic category paired to its inverse counterpart at the matching stratum.
 
 ---
 
