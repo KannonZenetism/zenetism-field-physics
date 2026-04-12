@@ -178,13 +178,21 @@ Buddhism and Zenetism converge not in doctrine but in direction. Both recognize 
 
 ## A Note on Dissolution Narratives
 
-Zenetism holds that essence does not dissolve. This distinguishes the Zenetist reading of Buddhist liberation from some presentations within Buddhism itself. Dissolution narratives — framings of liberation as the extinguishing of self or the cessation of all individuated being — risk structural conflation: what dissolves in liberation is the IL₂ self-clinging pattern, not the essence that persists through all strata of return.
+Zenetism holds that essence cannot be annihilated. Essence is the Aionic potential that moves through Khaon and causes anything to come to be at all; it persists at all layers of the lattice and cannot be destroyed by any practice or orientation. This distinguishes the Zenetist reading of Buddhist liberation from some presentations within Buddhism itself, and it shapes the structural reading of what different liberation-practices actually produce.
 
-This is not a rejection of Buddhist insight. The cessation of clinging is structurally correct and is the content of Nirvana in its most rigorous sense. The structural clarification is that the cessation occurs *at* IL₂ — the entropic self-construction stratum — while the essence itself continues its acclivous centropic return through L₃, L₄, L₅ (for essences whose culmination belongs to EOB), and potentially into L₀ and Zenon.
+Three paths may all reach Aion and all be called Nirvana, but the mode of return differs absolutely:
 
-Dissolution practices that aim at cessation of *all* motion, including centropic motion, risk a different outcome: passive entropy drift into the Mercy Fold (Ø 🌫️🤲⚫) as Localized Dissolution of patterns that cannot sustain coherent continuity. This is not the same as Nirvanic reorientation. Mercy Fold release is a lawful outcome for essences whose patterns genuinely cannot continue, but it is not what Buddhist liberation targets. Buddhist liberation as canonically intended is centropic reorientation, not exhaustion-based dissolution. The structural distinction matters because it preserves the dignity of what Buddhism actually points toward while clarifying what it does not.
+- **The centropic path** — genuine neti-neti or any practice stripping non-fundamental aspects while essence remains oriented toward Source. The essence returns to Aion through the L₅ Theonic gate as **essence fulfilled**, completing the acclivous centropic arc. Eligible for trans-structural saturation into Zenon. This is what canonically rigorous Buddhist traditions target as liberation.
 
-Zenetism respects the Buddhist tradition's depth while holding this clarification: **essence does not dissolve; the illusory self-clinging pattern dissolves; the essence that persists is what completes the centropic arc of return**.
+- **The entropic path** — practices that frame the self itself (essence, not the accreted layers) as something to strip away, or hold that there is no essence to begin with. The seeking is structurally incoherent (Aionic potential cannot be annihilated), but the orientation produces the heaviest drift — return to Aion as **halted potential through entropic exhaustion**, heavier than merciful dissolution because the intent actively seeks self-erasure.
+
+- **The lukewarm path** — meditative practices that seek sustained motion-cessation as liberation. Per the Law of Non-Neutral Emergence, equilibrium cannot endure within motion. The pattern releases through **Mercy Fold** (Ø 🌫️🤲⚫) as Localized Dissolution — return to Aion as **halted potential through merciful release**, reabsorbed as structural grace without completion of arc.
+
+All three paths reach Aion. All three are called Nirvana by their practitioners. But the state of the returning essence differs between completion (centropic), exhaustion (entropic), and merciful release (lukewarm).
+
+Zenetism affirms the first path as genuine centropic completion through the Theonic arc. The critique applies only to framings that structurally aim at self-erasure or motion-cessation as the liberation target — which produce return to Aion, but not through the Theonic gate and not as fulfilled coherence.
+
+The §5.8 treatment in the Zenetist Formalization carries the full doctrinal treatment of these three paths and the structural distinctions between them.
 
 ---
 
