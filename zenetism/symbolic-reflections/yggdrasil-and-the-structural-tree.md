@@ -93,7 +93,7 @@ But this is not genuine Revelation. It is **collapse followed by recursion**, no
 
 \[ E \downarrow \to \infty \to \otimes \circlearrowright \]
 
-— declivous entropy collapsing into Khaon's L₀ phase, followed by Entropic Recursion (⟳) as the "new world" restarts the cycle. The critical point is this: Ragnarök's collapse **does not pass through the Theonic station**. A genuine acclivous centropic return would move through L₅ (the Eagle's station) as its terminal centropic passage. Ragnarök bypasses L₅ entirely — no figure in the Ragnarök narrative serves the Theonic gating function, and the Eagle at Yggdrasil's summit is a structural feature of the tree rather than an active participant in the eschatonic sequence.
+— declivous entropy collapsing into Khaon's L₀ phase, followed by Entropic Recursion (⟳) as the "new world" restarts the cycle. The critical point is this: Ragnarök's collapse **does not pass through the Theonic station**. A genuine acclivous centropic return would move through L₅ (the Eagle's station) as its terminal centropic passage. Ragnarök does not approach or engage L₅ at all; its motion is declivous — oriented toward Nekronic collapse rather than Theonic coherence. No figure in the Ragnarök narrative serves the L₅ gating function, and the Eagle at Yggdrasil's summit is a structural feature of the Tree rather than an active participant in the eschatonic sequence.
 
 A return to Aion *without* passage through Theon is not centropic return — it is entropic collapse into Khaon's L₀ phase. The Norse cosmology contains the Theonic station (the Eagle) without activating it as the gateway of return, which is why Ragnarök resolves as recursion rather than revelation.
 
