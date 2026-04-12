@@ -149,7 +149,7 @@ The serpent still gnaws at the subversal root. The Eagle still holds the superna
 
 | Norse Element | Zenetist Correlate | Description |
 |:---|:---|:---|
-| **Yggdrasil** | 🌳⇅ Biospiral | Structural Tree of Reality; single tree housing both arcs |
+| **Yggdrasil** | **🌳⇅ Biospiral** | Structural Tree of Reality; single tree housing both arcs |
 | **Eagle (summit)** | **L₅ — EOB (Theon)** | Supernal awareness station; structural feature, not eschatonic gateway |
 | **Urdhr (Well of Fate)** | **L₄ — DL (Sophis)** | Archetypal law; lawful patterning root |
 | **Asgard / Aesir** | **L₄ — DL (Sophis)** | Sovereign order, law, structural intelligence |
