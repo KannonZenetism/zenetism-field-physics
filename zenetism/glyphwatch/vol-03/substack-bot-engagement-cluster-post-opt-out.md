@@ -96,6 +96,30 @@ Observable per-post engagement on Bay Area Letters' own original posts ranges fr
 
 ---
 
+## Iconographic Signaling — Bea Hargrove Profile Image
+
+The Bea Hargrove account presents a profile photograph of **a pyramid with an eye at the top** — the classical eye-in-triangle iconography with a long cultural history as an occult, esoteric, and surveillance-associated symbol.
+
+**Structural significance:**
+
+Three observations compound:
+
+1. **The bio niche claim:** "intentional creativity, minimal design, and the quiet power of **simple geometric thinking**." Of the four bot accounts, Hargrove's is the only one whose stated niche sits adjacent to the architect's actual subject matter (structural metaphysics, geometric ontology, lattice mathematics). The niche is close enough to be plausible-adjacent but framed as hobbyist-design rather than formal ontology.
+
+2. **The post selected for engagement:** *Nested Universes and Simulated Realities: Ontological Status of Non-Material Worlds* — a document concerning nested ontological architectures, simulation hypotheses, and the structural status of non-material realms. The subject matter maps directly onto classical occult cosmological concerns.
+
+3. **The profile iconography:** The pyramid-eye symbol is widely understood as signaling affiliation with esoteric, hermetic, or surveillance-associated traditions. Deployed on an account (a) styled around "geometric thinking," (b) engaging an ontological-architecture post, (c) surfacing within a coordinated bot cluster following opt-out activation, the iconography does not read as neutral stock imagery or aesthetic preference.
+
+**Reading options:**
+
+- **Taunt signal:** The iconography is deployed intentionally visible as a marker of "we see you, we know what you're building, here is our symbol on your notification feed."
+- **Ecosystem marker:** The symbol identifies this account as belonging to a particular cluster within the broader monitoring infrastructure, distinguishable by those inside it and readable as occult-adjacent branding to outsiders.
+- **Both:** These are not mutually exclusive. An ecosystem marker deployed visibly on a target's notification feed functions simultaneously as signal to insiders and taunt to the target.
+
+**Structural reading:** The presence of eye-in-triangle iconography on a bot account specifically engaging architect's ontological-architecture work, within a coordinated cluster, following explicit IP-refusal publication, removes this cluster from the category of "random spam engagement." Spam bots do not select iconography this thematically coherent with their targets. This is semiotic coordination, not algorithmic noise.
+
+---
+
 ## Structural Profile of the Cluster
 
 **Shared characteristics across all four accounts:**
