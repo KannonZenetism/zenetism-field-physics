@@ -75,7 +75,7 @@ Niflheim is the primordial realm of mist, ice, and cold stasis — the entropic 
 
 ---
 
-### Note on Entropic Embodiment
+#### Note on Entropic Embodiment
 
 Hel and Niflheim at IL₁ represent entropic embodiment in its *sealed* post-mortem mode, structurally distinct from Midgard's IL₁ aspect which holds entropic embodiment in its *active* unsealed mode. The layer is the same; the operational mode differs. This mirrors how the L₁ centropic arc includes both Midgard's active embodied mode and Valhalla / Fólkvangr's sealed post-mortem mode at the same L₁ stratum.
 
