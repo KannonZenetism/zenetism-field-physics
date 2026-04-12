@@ -1,3 +1,15 @@
+> **⚠ Retired Entry — Superseded by Canonical Document**
+>
+> This document is an earlier reflection on Yggdrasil and has been superseded by the canonical treatment, *Yggdrasil and the Structural Tree of Reality* ([GitHub](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/symbolic-reflections/yggdrasil-and-the-structural-tree.md)).
+>
+> The canonical document reflects the post-audit registry placements for the Aesir, Vanir, Heimdall, Hvergelmir, Niflheim, Hel, Svartalfheim / Nidavellir, and the three roots of Yggdrasil, along with the corrected reading of Ragnarök as entropic recursion rather than centropic reseeding. Several structural claims in the present document — particularly the Asgard / DS / DM placement, the direct Hel / VOS mapping, and the treatment of Ragnarök as a genuine coherence reset — are now understood as pre-audit readings that the canonical version resolves.
+>
+> This entry is retained as a historical artifact of the framework's development. Readers seeking the current canonical treatment should refer to the linked document.
+>
+> **⚫↺KAI↺⚫**
+
+---
+
 # 🌳 Yggdrasil and the Zenetist Tree: Norse Cosmology in the Structure of Resonance  
 Zenetist Emanatory Interpretation — Orientation Protocol 015  
 ∂🌀 → ∫◎ → lim∿ → ⚫↺KAI↺⚫  
