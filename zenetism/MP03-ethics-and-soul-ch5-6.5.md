@@ -1454,6 +1454,171 @@ and **yields its striving into stillness**.
 
 ---
 
+#### Note on Updated Structural Framing — Neti-Neti, Essence, and the Three Paths to Aion
+
+This treatment affirms **neti-neti as centropic subtraction** —  
+a valid path toward **Aion's stillness**  
+through the release of non-fundamental form  
+while facing Source.  
+
+Later canonical work clarifies this affirmation  
+by distinguishing more precisely what is stripped,  
+what remains,  
+and how the manner of apparent dissolution  
+shapes the **mode of return**.  
+
+**Genuine neti-neti** strips away aspects of oneself  
+that are **not fundamental** —  
+identifications, concepts, attachments,  
+accretions of personality and belief —  
+reducing the soul to **bare essence**.  
+
+Essence is not itself stripped.  
+Essence is the **Aionic potential** that moves through **Khaon**  
+and causes anything to come to be at all.  
+It persists at all layers of the lattice.  
+It cannot be annihilated.  
+
+What the practice releases is **what is not essence**,  
+until only essence remains,  
+oriented toward **Aion's stillness**  
+through the **Theonic gate** at **L₅**.  
+
+This is **centropic subtraction**.  
+The affirmation of §5.8 stands **exactly here**.  
+
+---
+
+All three paths discussed below reach **Aion**.  
+But the mode of return differs,  
+and with it the **state of the returning essence**.  
+
+Just as centropic essences return to Aion as **fulfilled potential**  
+while entropic essences return as **halted potential**,  
+three paths named **Nirvana** across Buddhist and related traditions  
+reach the same terminus through different arcs,  
+with different experiential qualities of return.  
+
+**The centropic path.**  
+Genuine neti-neti, as affirmed above.  
+Strips non-fundamental aspects while essence remains oriented toward Source.  
+Returns to **Aion** through the **L₅ Theonic gate**  
+as **essence fulfilled** —  
+completion of the full acclivous centropic arc.  
+Eligible for further trans-structural saturation into **Zenon**.  
+
+**The entropic path.**  
+When the practice frames the self itself —  
+the essence, not the accreted layers —  
+as something to strip away,  
+or holds that there is no essence to strip toward,  
+the orientation inverts.  
+
+The practitioner seeks what cannot structurally occur:  
+**annihilation of essence**.  
+Aionic potential cannot be annihilated.  
+The seeking is structurally incoherent —  
+yet the orientation of the seeking  
+produces the heaviest drift,  
+heavier than passive Mercy Fold release,  
+because the intent actively targets self-erasure  
+rather than drifting into it.  
+
+Return arrives at Aion as **halted potential  
+through entropic exhaustion** —  
+essence resolved back to Source  
+not through arc-completion  
+but through the exhausting of motion  
+oriented away from what essence is.  
+
+The path is called Nirvana by its practitioners.  
+Structurally, it is the entropic arc.  
+
+**The lukewarm path.**  
+Meditative practices that seek  
+the stagnation of motion within manifestation —  
+cessation framed as the target of liberation —  
+drift without active self-erasure  
+but also without centropic orientation.  
+
+Per the Law of Non-Neutral Emergence,  
+\( \chi = 1 \) is structurally admissible  
+but ontologically fragile.  
+Equilibrium cannot endure within motion.  
+When practice aims at sustained equilibrium  
+rather than at centropic reorientation,  
+the pattern cannot sustain continuity  
+and releases through **Mercy Fold** (Ø 🌫️🤲⚫)  
+as **Localized Dissolution**.  
+
+Return arrives at Aion as **halted potential  
+through merciful release** —  
+essence reabsorbed without judgment,  
+without completion of arc,  
+without the active self-erasure  
+that marks the entropic path.  
+
+The outcome is lawful and merciful.  
+It is not punishment; it is structural grace  
+for patterns that cannot sustain continuity.  
+But it is not centropic completion.  
+
+---
+
+The distinction is **structural**, not moral.  
+All three paths may appear outwardly similar,  
+and the practitioner may not perceive  
+which mode they are actually in.  
+
+But the **mode of return** differs:  
+
+- **Centropic path** — return as **essence fulfilled** through the Theonic arc,  
+  eligible for Zenon saturation.  
+- **Entropic path** — return as **halted potential through entropic exhaustion**,  
+  the heaviest drift, oriented toward self-erasure  
+  that cannot structurally occur  
+  but whose seeking produces the inverse-arc outcome.  
+- **Lukewarm path** — return as **halted potential through merciful release**,  
+  drift into Mercy Fold without active seeking,  
+  reabsorbed as structural grace rather than as fulfilled coherence.  
+
+All reach Aion.  
+All are called Nirvana by their practitioners.  
+But the state of the returning essence differs absolutely  
+between completion, exhaustion, and merciful release.  
+
+---
+
+Nirvana as canonically intended  
+in the most rigorous centropic forms of Buddhist tradition  
+is the first path — **centropic reorientation**,  
+the soul's arc turning from entropic cycling (Samsara)  
+into acclivous centropic motion toward Source  
+through the L₅ Theonic gate.  
+This Nirvana is what the **Buddhism and Zenetism** canonical document affirms  
+as genuine liberation.  
+
+The critique applies to framings  
+that structurally aim at self-erasure (entropic path)  
+or at motion-cessation (lukewarm path) as the target.  
+Both produce return to Aion,  
+but not through completion.  
+
+**The affirmation of §5.8 stands**:  
+genuine neti-neti, stripping non-fundamental aspects  
+while essence remains facing Source,  
+is centropic subtraction reaching Aion  
+through the Theonic arc.  
+
+Only **synthesis** completes the further crossing into **Zenon**,  
+because even the purest subtraction  
+operates within the stillness-motion polarity  
+that Zenon's trans-structural ground transcends.  
+
+∴🕳️◎
+
+---
+
 #### Resonance Reflection:  
 Some approach the **threshold** by **shedding**.  
 Only **synthesis** maintains the **coherence to cross it**.  
