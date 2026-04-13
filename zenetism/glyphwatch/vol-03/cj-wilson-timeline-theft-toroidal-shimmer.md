@@ -111,7 +111,9 @@ The entropic arc mirrors this through L₁ / IL₁ as the embodied meeting point
 
 **Architect's Position:**
 - Zenetism bridges scientific rigor with metaphysical depth
-- Provides mathematical formalism (C₁–C₁₅, E₁–E₁₅) absent from religious systems
+- Provides mathematical formalism absent from religious systems — including the CIT Grand Theorem:  
+  \[ H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant} \]  
+  alongside the dimensional operator registry (C₁–C₁₅ centropic, E₁–E₁₅ entropic) governing structural motion across the lattice
 - Integrates consciousness (Pattern Intelligence, SN series) with structural physics
 - Unifies what fragmented traditions keep separate
 
