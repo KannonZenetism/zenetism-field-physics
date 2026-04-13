@@ -178,7 +178,7 @@ This asymmetry is structurally significant: both arcs originate at L₀ and both
 
 **Reflective Centropy** = The structural mechanism by which centropic motion turns at the surface of embodiment, reflecting inward through coherent reflectors. Declivous centropy is not degradation; its turning into acclivous centropy is the fulfillment of its arc.
 
-**Multiversal Variability** = Theon's unfolding is non-identical across universes. Redeemer, Way-shower, Shelter, Merger — the office adapts to the structural conditions of each cosmos it serves.
+**Multiversal Variability** = Theon's unfolding is non-identical across universes. Redeemer, Way-shower, Shelter, Unification — the office adapts to the structural conditions of each cosmos it serves.
 
 **Non-Theonic Culmination** = Not all centropic essences complete the full EOB arc. Stewards at L₃, Form-expressions at L₄, and rare limit-cases at more declivous strata stabilize at earlier lawful culmination points without requiring Theonic passage.
 
