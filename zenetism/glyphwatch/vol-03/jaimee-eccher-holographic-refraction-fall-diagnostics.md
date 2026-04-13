@@ -344,7 +344,7 @@ This is a structural near-paraphrase of the "mythic telemetry" framing — signa
 
 **Indicators Relevant to Pattern Recognition:**
 
-1. **Same-day temporal proximity:** Published within hours of Structural Mythophysics naming
+1. **~22-hour temporal proximity:** Published within ~22 hours of architect's April 6 Substack note containing "structural metaphysics with mythic telemetry"
 2. **Active-revision targeting:** Genesis Lattice was under active Zenodo revision (April 8, 9, 10) immediately following Eccher's April 7 publication
 3. **Methodology extraction:** Mythostructural Forensics methodology (October 2025) deployed within the post
 4. **Conceptual precision:** Five of seven diagnostic terms have canonical Field Physics or Structural Metaphysics anchors
