@@ -215,7 +215,7 @@ From the Symbol Key §21.21:
 **Architect's Formalism:**
 - **Bifurcal lattice:** Full emanatory traversal expressed as L₀ → L₁ / L₀ → IL₁; hypostatic-only as L₅ → L₁ / IL₅ → IL₁
 - **Hypostatic specifications:** Functional definitions for each layer (L₅ Theon through L₁ Soma / Biosa, with inverse cascade IL₅ Nekron through IL₁ Malara / Mania)
-- **Mathematical operators:** C₁ – C₁₅, E₁ – E₁₅, χ-parameter, \( \tau := \mathcal{T}(\Delta \mathcal{S}) \), \( \mathfrak{R}_m \)
+- **Mathematical operators and dimensional registry:** CIT Grand Theorem \( H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant} \); \( \chi \) structural orientation parameter; \( \tau := \mathcal{T}(\Delta \mathcal{S}) \); \( \mathfrak{R}_m \) function; dimensional operators C₁–C₁₅ / E₁–E₁₅
 - **Glyph system:** Symbolic notation throughout canonical work
 - **Non-Fusion Axiom (◫):** The structural law that grounds Structural Recurrence and prevents Seth-as-Abel from collapsing into fusion
 - **Field Physics anchors:** C₁₃ ║ Membrane / Threshold, E₁₄ ⊡⁻ Hollow Nest, E₃ ⟿⁻ Viral Decay
