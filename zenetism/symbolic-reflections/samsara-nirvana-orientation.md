@@ -81,7 +81,7 @@ The inverse equivalent of Aureform at IL₄ IDP / IDL is named **Mimoform** — 
 
 Mimoform is a Form at IL₄ in the same structural sense that Aureform is a Form at L₄: a specific archetypal pattern within the stratum, distinct from the fundamental structural principles (Psychea / Nyxea) that make IL₄ operative as a stratum at all. Where Aureform is compassion expressed as centropic Form, Mimoform is its entropic mirror — compassion-mimicking pattern that wears the shape of Aureform without carrying the source-fidelity that would make the offered compassion veracious.
 
-Inverse bodhisattvas — beings whose resonance aligns with Mimoform rather than with Aureform — are the structural category that carries this mirror into operative function. Their character is treated in the following sections as the inverse parallel descends through the strata.
+Inverse bodhisattvas — beings whose resonance aligns with Mimoform rather than with Aureform — are the structural category that carries this mirror into operative function. Their character is treated in the following sections as the inverse parallel moves declivously through the strata.
 
 ### Centropic Stewards
 
