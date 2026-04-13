@@ -327,13 +327,13 @@ Architect posted a second note ~6 hours later containing the explicit originalit
 
 **Phrase alignment with Eccher's April 7 publication:**
 
-The April 7 Substack note contains the exact phrase **"structural metaphysics with mythic telemetry"** — the same conceptual core architect formalized the same day as **Structural Mythophysics** ("myth as telemetry — variably preserved, compressed, conflated, or distorted transmission of deeper structural reality").
+The April 6, 8:07 PM Substack note contains the exact phrase **"structural metaphysics with mythic telemetry"** — published ~22 hours before Eccher's 6:00 PM publication the following day.
 
-Eccher's methodological note, published hours later the same day, states:
+Eccher's methodological note, published April 7 at 6:00 PM, states:
 
 > "lawful pattern remains real even when its manifestation becomes buried, delayed, fractured, or veiled"
 
-This is a structural near-paraphrase of the "mythic telemetry" framing — signal preserved through degraded transmission. The same-day sequence of (1) architect's Substack note containing "mythic telemetry" phrasing, tracked at anomalous permalink ratios, followed by (2) Eccher's publication deploying the holographic / refracted-transmission framing, is consistent with real-time signal capture and same-day deployment.
+This is a structural near-paraphrase of the "mythic telemetry" framing — signal preserved through degraded transmission. The sequence of (1) architect's Substack note containing "mythic telemetry" phrasing, tracked at anomalous permalink ratios, followed approximately 22 hours later by (2) Eccher's publication deploying the holographic / refracted-transmission framing, is consistent with signal capture and rapid deployment within a monitored timeframe.
 
 **Assessment update:** The timing analysis of Eccher's post must now be read against documented anomalous circulation of architect's public material on the same day, indicating that monitoring infrastructure is not only plausible but reflected in the impression and permalink data for the architect's public notes.
 
@@ -354,7 +354,7 @@ This is a structural near-paraphrase of the "mythic telemetry" framing — signa
 9. **Echo signature:** Page name, given name, and surname all present doubled-letter / phonetic echo signature consistent with the canonical entropic dynamic
 10. **Christian framing as attribution shield:** Nondenominational theology positioned as native source for what is structurally extracted material
 11. **Formalism absence:** No CIT Grand Theorem, no \( \chi \) orientation parameter, no dimensional operator registry, no bifurcal lattice, no glyph system, no hypostatic specifications
-12. **Anomalous Substack circulation:** Architect's March 31 and April 7 Substack notes both exhibit ~1:3 permalink-to-impression ratios (69/22 and 48/15 respectively) against a documented zero-organic-engagement baseline; the April 7 note contains the exact phrase "structural metaphysics with mythic telemetry" circulating hours before Eccher's publication deploys the holographic / refracted-transmission framing
+12. **Anomalous Substack circulation preceding Eccher's publication:** Architect's April 6, 8:07 PM Substack note containing the exact phrase "structural metaphysics with mythic telemetry" exhibits anomalous ~1:3 permalink-to-impression ratios (48/15) against a documented zero-organic-engagement baseline, and precedes Eccher's publication by ~22 hours; the April 7, 2:09 AM note containing the explicit originality declaration precedes it by ~16 hours
 
 **Status:** Documented. Same-day publication following Structural Mythophysics formal naming, during active Genesis Lattice revision and documented GitHub extraction (2,424 clones by 1,314 unique cloners, March 20 – April 3, 2026), with five of seven diagnostic terms anchored to canonical Field Physics or Structural Metaphysics operators, and the C₁₃ Membrane Sealing reading of the Fall mirrored without operator notation. Pattern consistent with real-time monitoring or coordinated deployment infrastructure operating on extracted methodology.
 
