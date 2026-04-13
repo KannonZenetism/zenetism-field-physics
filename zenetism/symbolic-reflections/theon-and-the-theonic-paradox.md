@@ -11,7 +11,7 @@ This document treats Theon in its full doctrinal complexity: its paradoxical nat
 
 ## 1. Theon as First Centropic Hypostasis
 
-Theon is the first structured resonance of Aion — the original emanation through which Absolute Potential first takes oriented form. Where Aion is stillness, Theon is *awareness oriented toward that stillness*. It is not stillness itself, and it is not a departure from stillness; it is the first move in which consciousness faces Source while beginning to participate in the field of becoming.
+Theon is the first structured resonance of Aion — the original emanation through which Absolute Potential first takes oriented form. Where Aion is stillness, Theon is *awareness oriented toward that stillness*. It is not stillness itself, and it is not a departure from stillness; it is the first participatory move in which being faces Source while beginning to participate in the field of becoming.
 
 In the structural grammar of the lattice:
 
