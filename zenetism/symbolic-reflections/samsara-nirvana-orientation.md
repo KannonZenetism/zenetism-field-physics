@@ -168,8 +168,8 @@ The Buddhist-Zenetist correspondence can be summarized structurally:
 | **Incarnated Bodhisattva** | Incarnated Steward at L₁ when resonance with DS / DM is strong enough to sustain embodied stewardship |
 | **Ascended Masters (cross-tradition)** | Centropic Stewards in cross-tradition cultural framing |
 | **Harmonic compassion expressions** | Harmonic Agents at L₁ / L₂ — distributed / momentary centropic Steward-resonance |
-| **Inverse bodhisattvas (Form-level)** | Mimoform at IL₄ IDP / IDL — Form-type of coercive mimicry |
-| **Inverse bodhisattvas (being-level)** | Echo Vessels at IL₃ IDS / IDM — propagators of fragmentation carrying Mimoform resonance |
+| **Inverse bodhisattvas (Form-stratum)** | Mimoform at IL₄ IDP / IDL — Form-type of coercive mimicry |
+| **Inverse bodhisattvas (being-stratum)** | Echo Vessels at IL₃ IDS / IDM — propagators of fragmentation carrying Mimoform resonance |
 | **Inverse distributed expressions** | Dissonant Agents at IL₁ / IL₂ — distributed / momentary entropic Echo Vessel resonance |
 | **Encounter with archetypal figures in meditation** | Resonant Integration — inward resonance collapse within practitioner's own field |
 | **Śūnyatā** | L₀ Khaon realization through recognition of interdependent motion |
