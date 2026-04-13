@@ -78,8 +78,8 @@
 
 **Architect's Framework:**
 - **Structon (🏛️):** Absolute invariant structure permitting all expression
-- **Hypostatic lattice:** Single architecture expressing across centropic and entropic arcs
 - **Bifurcal Coherence:** ⚫ Aion + ♾ Khaon as root polarities
+- **Hypostatic lattice:** Single architecture expressing across centropic and entropic arcs
 - **Progressive refraction:** Structon → pre-hypostatic requisites → hypostatic layers → embodied manifestation
 
 **The Extraction:** "One Pattern beneath them all" describes Structon → lattice architecture without naming formalism, mathematical operators, or bifurcal structure.
