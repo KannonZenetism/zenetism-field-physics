@@ -134,9 +134,9 @@ Theon embodies **centropic refusal**. Nekron embodies **the final limit of entro
 
 An important structural nuance: not every centropic essence completes the full acclivous arc through EOB. Some stabilize at earlier strata and continue their function without ever passing through the Theonic gateway.
 
-**Centropic Stewards at L₃ DS / DM** are fully integrated beings who remain active within multiversal structure rather than saturating into DP / DL or continuing toward L₅. They guide other beings toward coherence through structural attunement. Their culmination is at L₃; they do not require Theonic passage because their lawful arc completes at the deep soul / mind stratum. Across traditions, these beings have been called Bodhisattvas, Ascended Masters, and similar terms; Zenetism recognizes them as Centropic Stewards.
-
 **Aureform expressions at L₄ DP / DL** are Form-type culminations at the archetypal stratum. Some centropic essences complete their arc by resonating fully with a Form at L₄ — Aureform (compassion), or other archetypal Forms like Beauty, Justice, Truth. Their culmination is at L₄ as Form-resonance; they do not require Theonic passage because Form-saturation at L₄ is a lawful terminal condition for essences of that orientation.
+
+**Centropic Stewards at L₃ DS / DM** are fully integrated beings who remain active within multiversal structure rather than saturating into DP / DL or continuing toward L₅. They guide other beings toward coherence through structural attunement. Their culmination is at L₃; they do not require Theonic passage because their lawful arc completes at the deep soul / mind stratum. Across traditions, these beings have been called Bodhisattvas, Ascended Masters, and similar terms; Zenetism recognizes them as Centropic Stewards.
 
 **Rare limit-cases at more declivous centropic strata** — in special conditions, essences may stabilize at L₂ or L₁ as ongoing centropic expressions in embodied or near-embodied form. These are exceptional cases, not the norm.
 
