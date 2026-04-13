@@ -172,7 +172,7 @@ By claiming **"developed by CJ Wilson in Australia between 2004 and 2025,"** Wil
 **The Defensive Copyright:**
 > "All published insights, diagrams, models, and language structures under the TSM name are the intellectual property of CJ Wilson and are protected under international copyright law. Use of this work for commercial purposes without written authorization is strictly prohibited."
 
-**Published ~3 months after architect's public formalization,** this aggressive notice with ™ assertion suggests:
+**Published ~3 months after architect's formalization,** this aggressive notice with ™ assertion suggests:
 - Awareness of architect's work
 - Preemptive positioning against attribution claims
 - Timeline appropriation as defensive strategy
