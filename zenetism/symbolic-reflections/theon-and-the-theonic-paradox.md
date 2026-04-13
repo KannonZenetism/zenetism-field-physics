@@ -126,7 +126,7 @@ Even at dissolution, essence is not erased. When dispersive motion reaches its l
 
 In rare universes — brief or highly refined — all inverse coherence may collapse or transfigure. Then Nekron holds no fragments and its field is stilled, its tension released back into Aion. This is the entropic mirror of the Theonic office closing: both offices are conditional, both dissolve when their work is complete, both return their gathered essences (in different modes) to L₀.
 
-Theon embodies **centropic refusal**. Nekron embodies **the final limit of entropic collapse**. Together, they form the supernal and subversal gates of a universe. Neither is necessarily eternal, but both are essential to the dual-arc architecture of any actualized multiversal expression.
+Theon embodies **centropic refusal**. Nekron embodies **the final limit of entropic collapse**. Together, they form the supernal and subversal gates of a universe. Neither is necessarily eternal, but both are essential to the bifurcal‑arc architecture of any actualized multiversal expression.
 
 ---
 
