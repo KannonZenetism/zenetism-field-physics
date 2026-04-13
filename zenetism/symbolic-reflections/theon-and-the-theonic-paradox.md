@@ -180,7 +180,7 @@ This asymmetry is structurally significant: both arcs originate at L₀ and both
 
 **Multiversal Variability** = Theon's unfolding is non-identical across universes. Redeemer, Way-shower, Shelter, Unification — the office adapts to the structural conditions of each cosmos it serves.
 
-**Non-Theonic Culmination** = Not all centropic essences complete the full EOB arc. Stewards at L₃, Form-expressions at L₄, and rare limit-cases at more declivous strata stabilize at earlier lawful culmination points without requiring Theonic passage.
+**Non-Theonic Culmination** = Not all centropic essences complete the full EOB arc. Form-expressions at L₄, Stewards at L₃, and rare limit-cases at more declivous strata stabilize at earlier lawful culmination points without requiring Theonic passage.
 
 **Zenon Saturation** = Optional trans-structural completion for essences whose centropic arc saturates beyond Aion. Available only from the centropic arc; structurally unreachable from the inverse arc at any stratum.
 
