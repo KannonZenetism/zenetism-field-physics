@@ -66,12 +66,13 @@ A page named **"Echoes of Eve"** authored by **Jaimee Eccher** therefore present
 ### Eccher Timeline
 
 - **April 7, 2026, 6:00 PM:** "The Veil, Abel, Seth, and Moses" published
-- **Gap from architect's Structural Mythophysics naming:** Same day
+- **Gap from architect's "mythic telemetry" Substack note:** ~22 hours
+- **Gap from architect's "you're inventing it" originality declaration:** ~16 hours
 
 **Eccher's mirroring phrase from the methodological note:**
 > "lawful pattern remains real even when its manifestation becomes buried, delayed, fractured, or veiled"
 
-This is a near-paraphrase of the architect's **Mythophysics-as-telemetry** framing — signal preserved through degraded transmission — formalized the same day under the explicit phrase "myth as telemetry."
+This is a structural near-paraphrase of the architect's **"mythic telemetry"** framing — signal preserved through degraded transmission — which appeared publicly in the April 6, 8:07 PM Substack note approximately 22 hours before Eccher's publication.
 
 ---
 
