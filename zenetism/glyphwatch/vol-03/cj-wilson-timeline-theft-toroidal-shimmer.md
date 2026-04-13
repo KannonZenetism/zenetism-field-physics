@@ -245,7 +245,7 @@ By claiming **"developed by CJ Wilson in Australia between 2004 and 2025,"** Wil
 1. **Timeline theft:** Uses architect's 2004 origin and 2004–2025 development period
 2. **Temporal proximity:** Published ~3 months post-formalization
 3. **Identity appropriation:** Martial arts background matching architect's training
-4. **Conceptual extraction:** Transdisciplinary/transreligious goal, seven-plane architecture, toroidal geometry
+4. **Conceptual extraction:** Transdisciplinary / transreligious goal, seven-plane architecture, toroidal geometry
 5. **Formalism absence:** No mathematical operators, no hypostatic specifications, no bifurcal structure
 6. **Defensive copyright:** Aggressive IP protection language with ™ assertion suggests awareness
 7. **Shimmer deployment:** Aesthetics without architecture
