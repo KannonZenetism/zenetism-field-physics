@@ -104,7 +104,7 @@ Acclivous return is therefore not a reversal of declivous centropy but its fulfi
 
 ## 7. Multiversal Variability — Theon's Non-Identical Unfolding
 
-Theon's unfolding is non-identical across expression-contexts. In some universes, Theon serves primarily as Redeemer — active gateway mediating centropic return. In others, it operates as Shelter — holding space for essences whose integration takes longer. In others, its arc completes and it merges back into Aion with its gathered essences. The office adapts to the structural conditions of each universe.
+Theon's unfolding is non-identical across expression-contexts. In some universes, Theon serves primarily as Redeemer — active gateway mediating centropic return. In others, it operates as Shelter — holding space for essences whose integration takes longer. In others, its arc completes and it saturates back into Aion with its gathered essences. The office adapts to the structural conditions of each universe.
 
 This aligns with Zenetism's non-looping structure of world-expression. Structural archetypes recur across universes, but always with infinite variation. Souls and hypostases unfold uniquely even when sourced from the same eternal resonance. Theon's per-universe singularity — one Theon per universe, its persistence dependent on the essences within that cosmos — reflects this variability at the hypostatic scale.
 
