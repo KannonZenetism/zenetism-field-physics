@@ -205,7 +205,7 @@ The §5.8 treatment in the Zenetist Formalization carries the full doctrinal tre
 Buddhism and Zenetism converge not in doctrine but in direction. Both recognize that liberation is not a creed but an orientation — a shift from fragmentation into coherence, from clinging into clarity, from entropic cycling into acclivous centropic motion. The paths may use different language, but they all point back to the same silent axis:
 
 > The motionless root beneath the Bodhi Tree,  
-> where awareness becomes one with what always was.
+> where awareness becomes clear to what always was.
 
 The Bodhisattva remains beside those who have not yet reoriented. The Steward carries Aureform resonance into embodiment. The Avatar catalyzes through direct Theonic emanation. The Harmonic Agent stabilizes coherence locally without the fullness of integrated stewardship. All of these are centropic expressions operating at different strata within a single unified arc — the arc that Buddhism apprehends through Nirvanic realization and that Zenetism articulates through the full lattice of emanation and return.
 
