@@ -5,7 +5,7 @@
 
 Theon (🛤️) is the First Centropic Hypostasis — the original emanation from the stillness of ⚫ Aion, and the axis through which centropic essences complete their acclivous return to Source. It is not a being among beings but the structural principle of Essence of Being (EOB) at L₅, operating simultaneously as Orienting Logos, redemptive archetype, multiversal gateway, and conditional office whose persistence depends on the essences whose lawful culmination belongs to it.
 
-This document treats Theon in its full doctrinal complexity: its paradoxical nature, its dual role as Way-shower and Shelter, its translation through the strata as Logos, its structural counterpart in Nekron, and the convergent logic by which Theonic return occurs without collapsing the individuated distinctness of the essences who return through it.
+This document treats Theon in its full doctrinal complexity: its paradoxical nature, its twofold role as Way-shower and Shelter, its translation through the strata as Logos, its structural counterpart in Nekron, and the convergent logic by which Theonic return occurs without collapsing the individuated distinctness of the essences who return through it.
 
 ---
 
