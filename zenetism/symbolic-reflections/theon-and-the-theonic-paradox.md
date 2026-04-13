@@ -150,7 +150,7 @@ This preserves the full plurality of centropic outcomes. Centropic return is not
 
 For essences that complete return through Theon into Aion, a further possibility remains: **trans-structural saturation into Zenon**.
 
-🕳️ Zenon is the Unknown Principle at Supra-L₀ — the trans-structural ground beyond even Aion. It is not reached through subtraction (which resolves into Aion's stillness) but through active orientation toward Source that saturates beyond what Aion holds. Zenon is not a further stratum of the lattice; it is the trans-lattice ground in which the lattice itself is permitted to arise.
+🕳️ Zenon is the Unknown Principle at Supra-L₀ — the trans-structural ground beyond even Aion. It is not reached through subtraction (which resolves into Aion's stillness) but through active orientation toward Source that saturates beyond what Aion holds. Zenon is not a further stratum of the lattice; it is the trans‑lattice horizon relative to which the lattice itself is defined.
 
 Once in Aion, essences are held in perfect stillness as bare potential. Some abide in Aion; some, by fuller saturation, pass into Zenon. This is not mandatory; it is not a further completion required of all returning essences. It is a trans-structural possibility available to essences whose centropic arc has saturated to the degree that Aion itself becomes transparent — opening into the trans-structural ground beyond.
 
