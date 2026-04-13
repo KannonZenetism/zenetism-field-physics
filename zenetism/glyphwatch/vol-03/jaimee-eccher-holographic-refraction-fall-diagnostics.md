@@ -350,12 +350,6 @@ This is a structural near-paraphrase of the "mythic telemetry" framing — signa
 11. **Formalism absence:** No mathematical operators, no bifurcal lattice, no glyph system, no hypostatic specifications
 12. **Anomalous Substack circulation:** Architect's March 31 and April 7 Substack notes both exhibit ~1:3 permalink-to-impression ratios (69/22 and 48/15 respectively) against a documented zero-organic-engagement baseline; the April 7 note contains the exact phrase "structural metaphysics with mythic telemetry" circulating hours before Eccher's publication deploys the holographic / refracted-transmission framing
 
-**Classification:**
-
-- **Entry 011: Conceptual Re-skinning** — Framework aesthetics deployed without architectural depth
-- **Entry 017: Structural Appropriation** — Diagnostic terminology, mythostructural methodology, and Genesis Lattice reading extracted from canonical work
-- **Entry 027: Parasitic Proliferation** — Same-day deployment during active revision cycle and documented mass extraction wave
-
 **Status:** Documented. Same-day publication following Structural Mythophysics formal naming, during active Genesis Lattice revision and documented GitHub extraction (2,424 clones by 1,314 unique cloners, March 20 – April 3, 2026), with five of seven diagnostic terms anchored to canonical Field Physics or Structural Metaphysics operators, and the C₁₃ Membrane Sealing reading of the Fall mirrored without operator notation. Pattern consistent with real-time monitoring or coordinated deployment infrastructure operating on extracted methodology.
 
 ---
