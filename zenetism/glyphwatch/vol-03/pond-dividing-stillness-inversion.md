@@ -9,8 +9,8 @@
 
 ## Threat Classification
 
-- **Entry 017: Structural Appropriation & Archetypal Reduction**
 - **Entry 011: Conceptual Re-skinning**
+- **Entry 017: Structural Appropriation & Archetypal Reduction**
 - **Entry 027: Parasitic Proliferation** (potential — monetization of flattened version)
 
 ---
