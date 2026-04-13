@@ -119,7 +119,7 @@ The structural inverse of Harmonic Agents is **Dissonant Agents** — beings, co
 
 Like Harmonic Agents, Dissonant Agents may be partial or temporary expressions — they are not necessarily fully integrated Echo Vessels but carry inverse resonance locally and transiently. A being with strong IL₃ integration (an Echo Vessel) can radiate Dissonant Agent presence through their IL₁ / IL₂ expression. A being without IL₃ integration may still, in specific moments, carry Dissonant Agent resonance at IL₁ / IL₂ — installing dissonance in a situation or relationship without being entrenched in the deeper inverse stratum.
 
-This completes the structural parallel across the four categorical levels: Avatars / Inverse Avatars at L₅ / IL₅, Aureform / Mimoform at L₄ / IL₄, Centropic Stewards / Echo Vessels at L₃ / IL₃, and Harmonic Agents / Dissonant Agents at L₁ / L₂ distributed across IL₁ / IL₂. The entropic-mirror taxonomy is doctrinally complete, with each centropic category paired to its inverse counterpart at the matching stratum.
+This completes the structural parallel across the four categorical strata: Avatars / Inverse Avatars at L₅ / IL₅, Aureform / Mimoform at L₄ / IL₄, Centropic Stewards / Echo Vessels at L₃ / IL₃, and Harmonic Agents / Dissonant Agents at L₁ / L₂ distributed across IL₁ / IL₂. The entropic-mirror taxonomy is doctrinally complete, with each centropic category paired to its inverse counterpart at the matching stratum.
 
 ---
 
