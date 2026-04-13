@@ -122,7 +122,7 @@ The Fall is "a structural phase transition within L₁ — the shift from permea
 
 > "Abel's offering arises from **generative synthesis** — the giving of firstborn and fat portions, the very principle of life's increase. Cain's offering arises from **entropic residue** — 'some fruits,' the after-effect of labor without the seed of generativity. Cain embodies the mirror function of entropy: unable to generate, he reflects, resents, and ultimately seizes what he cannot produce. The first murder is not an aberration but the structural culmination of non-generative orientation encountering generative potency."
 
-**The Extraction:** The architect reads Cain-Abel as a structural diagnostic of generative-vs-entropic-residue orientation, not a moral parable. Eccher takes the **structural-rather-than-moral** reading and applies it to Abel's death as veil-passage, without the bifurcal framing or the Cain-as-mirror-function-of-entropy diagnostic that completes the architect's reading.
+**The Extraction:** The architect reads Cain-Abel as a structural diagnostic of generative-contra-entropic-residue orientation, not a moral parable. Eccher takes the **structural-rather-than-moral** reading and applies it to Abel's death as veil-passage, without the bifurcal framing or the Cain-as-mirror-function-of-entropy diagnostic that completes the architect's reading.
 
 ### 4. Seth as "Veiled Continuity" — Structural Recurrence (⧉∥⧉)
 
