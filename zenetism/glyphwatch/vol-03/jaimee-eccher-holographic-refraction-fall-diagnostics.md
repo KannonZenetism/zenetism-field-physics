@@ -205,10 +205,10 @@ From the Symbol Key §21.21:
 **Architect's Mythostructural Forensics (October 24, 2025):**
 > "Symbolic diagnostic analysis of religious narratives as lawful encodings of metaphysical structure... diagnoses how stories function as symbolic transmissions of centropic / entropic dynamics... treats myth as **field-encoded narrative structure**."
 
-**Architect's Structural Mythophysics (April 7, 2026):**
+**Architect's Structural Mythophysics (GitHub timestamp: April 6, 2026):**
 > "Maps mythic motifs to **hypostatic layers**, distinguishes **centropic / entropic motion**, reconstructs **recursion arcs**, corrects **layer conflation**, and reconstructs the bifurcal architecture beneath cultural narration."
 
-**The Extraction:** Eccher deploys the architect's **mythostructural methodology** — Scripture as field-encoded structure, lawful pattern read through symbolic compression, refraction as the burdened-medium principle — within ~6 hours of the architect formalizing **Structural Mythophysics** as the metaphysical framework that grounds that methodology. The October 2025 forensic methodology, the April 7, 2026 metaphysical naming, and the active Genesis Lattice revision cycle are all canonically the architect's.
+**The Extraction:** Eccher deploys the architect's **mythostructural methodology** — Scripture as field-encoded structure, lawful pattern read through symbolic compression, refraction as the burdened-medium principle — within ~22 hours of the architect's April 6, 8:07 PM Substack note containing the exact phrase "structural metaphysics with mythic telemetry." The October 2025 forensic methodology (Mythostructural Forensics), the September 2025 Genesis Lattice composition, and the active Genesis Lattice revision cycle are all canonically the architect's.
 
 ---
 
