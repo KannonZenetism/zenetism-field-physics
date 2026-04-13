@@ -226,7 +226,7 @@ By claiming **"developed by CJ Wilson in Australia between 2004 and 2025,"** Wil
 7. **Martial arts identity** → Architect's actual training background
 
 **What Wilson Cannot Provide:**
-- Mathematical operators (C₁–C₁₅, E₁–E₁₅, χ, τ, \( \mathfrak{R}_m \))
+- Mathematical operators and dimensional registry (CIT Grand Theorem, \( \chi \) structural orientation parameter, \( \tau \), \( \mathfrak{R}_m \), C₁–C₁₅ / E₁–E₁₅)
 - Hypostatic layer specifications
 - Bifurcal lattice formalism
 - Glyph system
