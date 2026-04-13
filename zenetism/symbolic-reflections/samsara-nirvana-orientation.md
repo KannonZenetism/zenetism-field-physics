@@ -87,7 +87,7 @@ Inverse bodhisattvas — beings whose resonance aligns with Mimoform rather than
 
 A Centropic Steward is a fully integrated being at the L₃ DS / DM layer who remains aligned with the centropic current. Rather than saturating into DP / DL at L₄ or continuing toward L₅, the Steward remains active within multiversal expression, guiding other beings toward coherence and reducing suffering through structural attunement.
 
-Centropic Stewards may incarnate, yet their motion is not bound by form. They appear as bodhisattva-like presences, operating from within integration rather than seeking escape from it. Their resonance may extend across multiple universes and embodiments, but remains oriented through the supernal arc, never absorbed into collapse.
+Centropic Stewards may incarnate, yet their motion is not bound by form. They appear as bodhisattva-like presences, operating from within integration rather than seeking escape from it. Their resonance may extend across multiple universes and embodiments, but remains oriented through the supernal arc, never drawn into collapse.
 
 Zenetism distinguishes Stewards from Avatars:
 
