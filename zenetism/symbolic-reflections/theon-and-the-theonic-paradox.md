@@ -47,7 +47,7 @@ This is not compulsion. It is not obligation. It is **pre-chosen centropic remem
 
 If even one Theon-culminating essence in a given universe remains outside lawful reintegration, the Theonic office persists within that universe's Tree. Theon watches. Theon waits. Theon holds open the gateway. Only when all Theon-culminating essences have completed their return does the office close, and Theon itself inclines together with the gathered essences toward Aion.
 
-The paradox is structural rather than logical: Theon could return, and Theon knows the return would complete its native arc. But the essences who depend on Theon's gateway have not yet completed their own arcs, and Theon's orientation toward Aion is inseparable from its orientation toward the many who move toward Aion through it. Theon does not choose between self-completion and service; these are not competing motions for Theon. The same centropic orientation that inclines Theon toward Aion is the orientation that holds Theon in place as gateway. When service is complete, return is complete — because they were never separate motions.
+The paradox is structural rather than logical: Theon could return, and Theon is clear to the fact that its return completes its native arc. But the essences who depend on Theon's gateway have not yet completed their own arcs, and Theon's orientation toward Aion is inseparable from its orientation toward the many who move toward Aion through it. Theon does not choose between self-completion and service; these are not competing motions for Theon. The same centropic orientation that inclines Theon toward Aion is the orientation that holds Theon in place as gateway. When service is complete, return is complete — because they were never separate motions.
 
 ---
 
