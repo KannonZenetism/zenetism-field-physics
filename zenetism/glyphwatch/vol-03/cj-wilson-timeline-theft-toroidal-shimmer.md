@@ -93,7 +93,7 @@
 The Total Field Arc contains seven centropic planes when properly counted:
 
 1. **Supra-L₀ — 🕳️ Zenon** (Pre-Causal Limit; centropic return terminus)
-2. **L₀ — ⚫ Aion** (Pre-hypostatic Requisite; Motive Infinity)
+2. **L₀ — ⚫ Aion / ♾ Khaon** (Absolute Potential / Absolute Dispersion)
 3. **L₅ — 🛤️ Theon** (First Centropic Hypostasis / Essence of Being)
 4. **L₄ — 🌬️ Morgis / 📐 Sophis** (Conscious-Awareness)
 5. **L₃ — 🔮 Archeus / 🧠 Noeüs** (Reflexive Consciousness)
