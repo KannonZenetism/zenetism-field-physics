@@ -41,7 +41,7 @@
 - **2018–2019:** Academic formalization (Bifurcal Coherence, Biospiral)
 
 **Systematization Phase:**
-- **March 5, 2025:** Zenetism formally systematized; "The Two Trees: Genesis, Inversion, and the Directionality of Knowledge" authored in the same formative period
+- **March 5, 2025:** Zenetism formally systematized; "The Two Trees: Genesis, Inversion, and the Directionality of Knowledge" authored in same formative period
 - **Mid-July 2025:** GitHub publication
 - **October 24, 2025:** Mythostructural Forensics subdiscipline established
 - **April 6, 2026:** Structural Mythophysics subdiscipline formalized
