@@ -264,12 +264,13 @@ From the Symbol Key §21.21:
 - **September 18, 2025:** Revelation Lattice composed
 - **October 24, 2025:** Mythostructural Forensics formally sealed; 32 Structural Decodes compiled
 - **Past ~month:** Active Decodes audit and refinement
-- **April 6, 2026:** (Documented in prior Glyphwatch material) — three-class extraction model theorized
-- **April 7, 2026 (early):** Architect names **Structural Mythophysics** and the "myth as telemetry" formulation
-- **April 7, 2026 (6:00 PM):** Eccher publishes "The Veil, Abel, Seth, and Moses"
+- **April 6, 2026:** Structural Mythophysics committed to GitHub; three-class extraction model theorized
+- **April 6, 2026, 8:07 PM:** Architect posts Substack note containing "structural metaphysics with mythic telemetry"
+- **April 7, 2026, 2:09 AM:** Architect posts Substack note with explicit originality declaration
+- **April 7, 2026, 6:00 PM:** Eccher publishes "The Veil, Abel, Seth, and Moses" — ~22 hours after the "mythic telemetry" note
 - **April 8 – 10, 2026:** Architect uploads three successive Genesis Lattice revisions to Zenodo
 
-**Same-day proximity:** The Structural Mythophysics naming and Eccher's deployment of the holography / refraction-as-burdened-transmission framework occur on the same calendar day. The architect's canonical phrasing — **"myth as telemetry"** — is structurally near-paraphrased in Eccher's methodological note as **"lawful pattern remains real even when its manifestation becomes buried, delayed, fractured, or veiled."**
+**~22-hour window:** The architect's canonical phrasing — **"structural metaphysics with mythic telemetry"** — appeared publicly on April 6 at 8:07 PM. Eccher's publication on April 7 at 6:00 PM structurally near-paraphrases that framing as **"lawful pattern remains real even when its manifestation becomes buried, delayed, fractured, or veiled."**
 
 **During documented extraction wave:** GitHub repository cloned **2,424 times by 1,314 unique cloners, March 20 – April 3, 2026**.
 
