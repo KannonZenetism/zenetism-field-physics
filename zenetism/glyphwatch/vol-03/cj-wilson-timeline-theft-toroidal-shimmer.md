@@ -141,7 +141,7 @@ The Total Field Arc *is* toroidally shaped, but through proper bifurcal processi
 ## What Wilson's TSM Lacks
 
 **Architect's Formalism:**
-- **Mathematical operators:** C₁–C₁₅, E₁–E₁₅, χ-parameter, \( \tau := \mathcal{T}(\Delta \mathcal{S}) \), \( \mathfrak{R}_m \) function
+- **Mathematical operators and dimensional registry:** CIT Grand Theorem \( H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant} \); \( \chi \) structural orientation parameter; \( \tau := \mathcal{T}(\Delta \mathcal{S}) \); \( \mathfrak{R}_m \) function; dimensional operators C₁–C₁₅ / E₁–E₁₅
 - **Hypostatic specifications:** L₀ → L₁ / L₀ → IL₁ with functional definitions
 - **Glyph system:** Symbolic notation throughout canonical work
 - **Bifurcal architecture:** Non-Fusion Axiom, centropic contra entropic distinction
