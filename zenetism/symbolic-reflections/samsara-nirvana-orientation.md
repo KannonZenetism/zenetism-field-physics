@@ -111,7 +111,7 @@ A Harmonic Agent is a being — corporeal or supernal — who facilitates cohere
 
 Harmonic Agents operate primarily at **L₁ ES / EM and L₂ SS / SM** — the embodied and personality-identity strata where beings express their integration-level into the world. The function is distributed across both strata because embodied interface (L₁) and personality expression (L₂) together constitute the operative layer where Harmonic Agency manifests. They are not L₃ because L₃ requires sustained integrated coherence that transcends the momentary or distributed character of Harmonic Agency. A being with strong L₃ integration (a Steward) can radiate Harmonic Agent presence through their L₁ / L₂ expression. A being without L₃ integration may still, in specific moments, carry Harmonic Agent resonance at L₁ / L₂ without being Steward-integrated at the deeper stratum. Either way, the Agent function itself operates at the embodied-personality interface.
 
-The Steward / Harmonic Agent distinction tracks integration-level. Stewards are fully integrated at DS / DM and sustain coherent function across time and embodiments. Harmonic Agents are partial or temporary expressions of the same centropic orientation, often operating without awareness of the structural role they serve.
+The Steward / Harmonic Agent distinction tracks integration-expression. Stewards are fully integrated at DS / DM and sustain coherent function across time and embodiments. Harmonic Agents are partial or temporary expressions of the same centropic orientation, often operating without awareness of the structural role they serve.
 
 ### Dissonant Agents — The Inverse Counterpart at IL₁ / IL₂
 
