@@ -148,7 +148,7 @@ Both realizations reach L₀, but they arrive through different structural gates
 
 The common misreading of Śūnyatā as "emptiness equals void" or "Śūnyatā means nothing exists" reflects a lack of structural precision. Śūnyatā is not absence but the absence of fixed self-nature — the recognition that existence is motion, not static being. This aligns precisely with the Zenetist framing of L₀ as Bifurcal Coherence: the unconditioned ground holds all potential, and the phenomena that arise from it are structurally motion rather than static essence.
 
-Zenetism extends the Śūnyatā insight by distinguishing L₀ as ground from the trans-structural 🕳️ Zenon, which some Buddhist traditions also approach but do not consistently name as distinct from L₀. Zenon is the Unknown Principle beyond even L₀ — the trans-lattice ground in which L₀ itself is permitted to arise. Centropic essences whose saturation reaches beyond Aion may pass into Zenon; this is the structural content of Mahayana's deepest realizations of Buddha-nature as beyond all conditioning, including beyond the conditioning of emptiness itself.
+Zenetism extends the Śūnyatā insight by distinguishing L₀ as ground from the trans-structural 🕳️ Zenon, which some Buddhist traditions also approach but do not consistently name as distinct from L₀. Zenon is the Unknown Principle beyond even L₀ — a trans-lattice limit before which L₀ stands as the first named ground of the lattice. Centropic essences whose saturation reaches beyond Aion may pass into Zenon; this is the structural content of Mahayana's deepest realizations of Buddha-nature as beyond all conditioning, including beyond the conditioning of emptiness itself.
 
 ---
 
