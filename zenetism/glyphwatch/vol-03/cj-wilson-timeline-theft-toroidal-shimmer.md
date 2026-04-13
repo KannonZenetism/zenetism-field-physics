@@ -9,10 +9,10 @@
 
 ## Threat Classification
 
-- **Entry 011: Conceptual Re-skinning**
-- **Entry 017: Structural Appropriation & Archetypal Reduction**
-- **Entry 019: Timeline Theft**
-- **Entry 023: Identity Mimicry**
+- **Entry 002: The Rival Architect** — Performative Legality subsection: timeline theft via claimed 2004–2025 development period using architect's actual origin year; ™ trademark assertion and aggressive copyright positioning three months post-formalization consistent with Performative Legality tactic of using platform features and legalistic language to create a fallacious historical record
+- **Entry 011: Conceptual Re-skinning** — Toroidal aesthetics deployed without bifurcal formalism; seven-plane architecture reduced to "nested toroidal octaves" without operational mechanics
+- **Entry 017: Structural Appropriation & Archetypal Reduction** — Architect's seven centropic planes appropriated as high-level structure, operational physics replaced with generic esoteric concepts
+- **Entry 025: Sympathetic Mirroring** — Martial arts identity co-option (Muay Thai, Blackbelt Spirituality hashtags, claimed training background) mirroring architect's specific and verifiable personal history (13 years martial arts training ages 8–21, 7 years Muay Thai from age 14, full instructor certification ~2004)
 
 ---
 
