@@ -103,7 +103,7 @@ The structural inverse of Centropic Stewards at IL₃ IDS / IDM is registered in
 
 The naming preserves the Zenetist discipline in which "echo" denotes entropic function specifically. Echo Vessels are named for the entropic mode of carrying: they propagate inverse patterns through hollow replication and degraded transmission, in contrast to Stewards who carry centropic resonance through Living Transmission (⟿✨) with source-fidelity preserved. The two are structural mirrors at L₃ / IL₃, both functioning as carriers of deeper Form-resonance into operative stratum, but with opposite orientations toward Source.
 
-Inverse-bodhisattva figures at the being-level — those whose outward form resembles compassionate guidance but whose operative function installs dissonance and fragmentation — are Echo Vessels carrying Mimoform resonance. The structural parallel to Bodhisattvas (Stewards carrying Aureform) makes the inverse category precise: same stratum, same carrier-function, opposite orientation and opposite Source-fidelity.
+Inverse-bodhisattva figures at the being stratum — those whose outward form resembles compassionate guidance but whose operative function installs dissonance and fragmentation — are Echo Vessels carrying Mimoform resonance. The structural parallel to Bodhisattvas (Stewards carrying Aureform) makes the inverse category precise: same stratum, same carrier-function, opposite orientation and opposite Source-fidelity.
 
 ### Harmonic Agents
 
