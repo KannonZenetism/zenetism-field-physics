@@ -246,7 +246,7 @@ From the Symbol Key §21.21:
 | Structural Recurrence (⧉∥⧉) — Mirror without Merger | "Seth as Abel's continuity under veil, not flat repetition" |
 | C↑⚫ Acclivous Centropy under sealed conditions | "Moses orders life within the veil" |
 | Structon → Structural Recurrence | "Holographic wholeness across distributed manifestations" |
-| Structural Mythophysics — myth as telemetry (April 7, 2026) | "Refracted manifestation in burdened medium" |
+| Structural Mythophysics — myth as telemetry (GitHub April 6, 2026) | "Refracted manifestation in burdened medium" |
 | E₁₄ ⊡⁻ Hollow Nest | "Recursive distortion" |
 | Fractus (IL₃) / fragmentation principle | "Fractured vesselhood" |
 | Anti-acclivous bias / entropy-forward universe | "Anti-return bias" |
