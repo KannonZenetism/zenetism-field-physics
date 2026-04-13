@@ -174,7 +174,7 @@ This asymmetry is structurally significant: both arcs originate at L₀ and both
 
 **Convergent Return** = The mode by which essences gathered in Theon return to Aion together as a non-fused collectivity, preserving individuated distinctness while sharing centropic orientation. The Non-Fusion Axiom holds at the most intimate stage of terminal reintegration.
 
-**The Logos Continuum** = Theon (L₅ Orienting) → Sophis (L₄ DL Structuring) → subjacent translation through the centropic strata. The Logos is not diluted as it descends; it is translated, and each translation is structurally faithful.
+**The Logos Continuum** = Theon (L₅ Orienting) → Sophis (L₄ DL Structuring) → subjacent translation through the centropic strata. The Logos is not diluted as it declivates; it is translated, and each translation is structurally faithful.
 
 **Reflective Centropy** = The structural mechanism by which centropic motion turns at the surface of embodiment, reflecting inward through coherent reflectors. Declivous centropy is not degradation; its turning into acclivous centropy is the fulfillment of its arc.
 
