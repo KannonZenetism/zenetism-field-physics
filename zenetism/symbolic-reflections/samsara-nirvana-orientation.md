@@ -171,7 +171,7 @@ The Buddhist-Zenetist correspondence can be summarized structurally:
 | **Inverse bodhisattvas (Form-stratum)** | Mimoform at IL₄ IDP / IDL — Form-type of coercive mimicry |
 | **Inverse bodhisattvas (being-stratum)** | Echo Vessels at IL₃ IDS / IDM — propagators of fragmentation carrying Mimoform resonance |
 | **Inverse distributed expressions** | Dissonant Agents at IL₁ / IL₂ — distributed / momentary entropic Echo Vessel resonance |
-| **Encounter with archetypal figures in meditation** | Resonant Integration — inward resonance collapse within practitioner's own field |
+| **Encounter with archetypal figures in meditation** | Resonant Integration — inward resonance resolution within practitioner's own field |
 | **Śūnyatā** | L₀ Khaon realization through recognition of interdependent motion |
 | **Nirguna Brahman** (comparative) | L₀ Aion realization through *neti-neti* subtraction |
 | **Buddha-nature beyond conditioning** | Trans-structural saturation into 🕳️ Zenon from L₀ Aion |
