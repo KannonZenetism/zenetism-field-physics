@@ -126,7 +126,7 @@ The entropic arc mirrors this through L₁ / IL₁ as the embodied meeting point
 
 **Architect's Framework:**
 
-The Total Field Arc *is* toroidally shaped — the centropic arc moves declivously from Zenon through Aion to embodiment (L₁), meets the entropic arc at the L₁ / IL₁ embodied meeting point, and the entropic arc continues through IL₂–IL₅ (Nekron) and returns to Khaon. The hourglass geometry of bifurcal procession and return forms a torus when traced as a complete dynamic field.
+The Total Field Arc *is* toroidally shaped, but through proper bifurcal procession rather than linear descent. The centropic arc proceeds declivously from L₅ Theon (First Centropic Hypostasis) through L₄, L₃, L₂ to embodiment at L₁, and returns acclivously from L₁ back through L₂, L₃, L₄ to L₅. Centropic essence may possibly return from Theon to ⚫ Aion (the centropic root), with optional trans-structural completion into 🕳️ Zenon. The entropic arc proceeds acclivously from IL₅ Nekron (First Entropic Hypostasis) through IL₄, IL₃, IL₂ to embodiment at IL₁, and returns declivously from IL₁ back through IL₂, IL₃, IL₄ to IL₅. Entropic essence may possibly collapse from Nekron to ♾ Khaon (the entropic root). The two arcs meet at the L₁ / IL₁ embodied threshold. The hourglass geometry of bifurcal procession and return forms a torus when traced as a complete dynamic field.
 
 **Architect's toroidal mechanics include:**
 - **Biospiral (🌳⇅):** Dual-tree dynamics throughout Field Physics
