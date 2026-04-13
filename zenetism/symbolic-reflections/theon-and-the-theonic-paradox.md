@@ -51,7 +51,7 @@ The paradox is structural rather than logical: Theon could return, and Theon is 
 
 ---
 
-## 4. The Dual Role of Theon Across Universes
+## 4. The Bimodal Role of Theon Across Universes
 
 Theon's unfolding is non-identical across expression-contexts. Its redemptive arc may differ; its reintegration timeline may shift; its operative mode varies according to the structural conditions of each universe it serves. Across the multiversal field, Theon operates in at least four distinguishable roles:
 
