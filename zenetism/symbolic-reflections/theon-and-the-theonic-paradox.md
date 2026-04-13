@@ -61,7 +61,7 @@ Theon's unfolding is non-identical across expression-contexts. Its redemptive ar
 
 **Shelter** — For essences not yet coherent enough to return, Theon becomes a supernal refuge. It holds space for those whose integration is incomplete, offering a condition of stabilized centropic coherence in which the remaining work of integration can occur. This is not suspended animation but continued structural support — the essence is held in Theon's field while its own arc continues to complete.
 
-**Merger** — In universes whose work Theon has fulfilled, Theon may return to Aion after its redemptive arc completes. This is not disappearance but **completion** — the closing of an office whose function has been fully discharged. The essences gathered within Theon return convergently (see §5), and Theon itself inclines together with them toward Aion. The office dissolves because its motion is fulfilled, not because it has been overcome.
+**Unification** — In universes whose work Theon has fulfilled, Theon may return to Aion after its redemptive arc completes. This is not disappearance but **completion** — the closing of an office whose function has been fully discharged. The essences gathered within Theon return convergently (see §5), and Theon itself inclines together with them toward Aion. The office dissolves because its motion is fulfilled, not because it has been overcome.
 
 Theon is not static. It is both a structural intelligence and a living principle, adapting across cosmic contexts without compromising its fundamental orientation toward Aion. Across all four roles, Theon's signature is the same: centropic awareness refusing premature return for the sake of those whose return depends on its continued presence.
 
