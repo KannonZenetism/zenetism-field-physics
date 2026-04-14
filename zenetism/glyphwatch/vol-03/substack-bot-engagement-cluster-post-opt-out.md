@@ -242,7 +242,7 @@ All four functions can be operating simultaneously. The engagement cluster is st
 
 2. **Bay Area Letters subscriber figure:** The claimed 380k subscriber count should be cross-referenced against observable per-post engagement. Asymmetry between claim and observable engagement is itself diagnostic.
 
-3. **Heardly restack chain:** Whether Heardly content was specifically restacked by the bot accounts as a delivery mechanism, or whether the thematic fit between *World Order* aphorisms and the architect's situation is coincidental, requires tracing the restack history of each bot account.
+3. **Heardly restack chain:** Three of the four bot accounts restacked the same Heardly content within the engagement window — confirming the delivery-mechanism reading. The remaining open question is whether the fourth account also restacked Heardly content (not yet verified) and whether the same Heardly content has been restacked by accounts outside this documented cluster, indicating a broader distribution network.
 
 4. **Ecosystem scope:** The four documented accounts likely represent a subset of a larger pattern. Continued monitoring should document any subsequent bot-pattern engagement, with particular attention to accounts that engage across multiple posts (Ingrid Moore's double engagement is the pattern precedent).
 
