@@ -47,7 +47,6 @@
 |:--|:--|:--|:--:|:--|
 | The Waters (Flood) | Universal | Khaon — unbound supra-formal potential; the neutral infinite field from which form emerges and to which it returns | 01 | Not entropic in essence; becomes instrument of declivous entropy in dissonant state |
 | Keter | Kabbalah | Aion — the crown; supernal root of the Sefirotic Tree | 05 | Maps to AP (Aion) as origin of emanation |
-| Hvergelmir | Norse | Khaon — "Roaring Kettle"; dispersive potential at the subversal root | 05 | One of three roots of Yggdrasil; maps to L₀ AD |
 | Shiva (as Aionic stillness) | Hindu | Aion — passive pure awareness; the stillness underpinning all emanation | 04 | Original mapping to Khaon and Theon; L₀ aspect is Aionic stillness |
 | Tiamat (as primordial Deep) | Mesopotamian | Khaon — saltwater abyss; pre-formal generative potential; unbound field before law | 08 | Also manifests at IL₄ as inverse archetypal force; see IL₄ entry |
 | Wilderness | Universal | **L₀ (Bifurcal Coherence)** — pre-dual, pre-structural ground where Aionic stillness and Khaonic motion coexist prior to centropic or entropic activation. Neutral testing ground, crucible, dispersal field for expelled dissonance | 16 | **Reclassified from "Khaon (latent)" to Bifurcal Coherence.** Distinct from Forest (L₄ DP). Same word "wilderness" carries different structural meanings in Decode 16 (this entry) and Decode 22 (Forest as archetypal field) |
