@@ -226,17 +226,11 @@ All four functions can be operating simultaneously. The engagement cluster is st
 3. **Bio template uniformity:** Three of four accounts use the "I write about..." formula; the fourth is a platform-product account with inflated subscriber claims
 4. **Structural-core post targeting:** All four engagements target architecturally significant documents (LMX, limit-case ontology, Nested Universes, Neogenian-response forensics), not surface-accessible content
 5. **Non-recent post selection:** Three of the four target posts are from December 2025 or January 2026 — old posts requiring deliberate navigation to surface
-6. **Same-day Neogenian targeting:** Ingrid Moore engaged both December 30, 2025 Neogenian-response posts from the same publication date — behavior consistent with thread-specific navigation, not casual browsing
+6. **Same-publication-date Neogenian targeting:** Ingrid Moore engaged both December 30, 2025 Neogenian-response posts from the same publication date — behavior consistent with thread-specific navigation, not casual browsing
 7. **Compressed window:** All four engagements occurred within days of the opt-out activation and IP-clarification publication
 8. **Content-delivery vector:** Three of four accounts carried recent restacks or posts of third-party content (including the Heardly Kissinger summary with thematic fit to the architect's situation), structurally consistent with engagement-as-delivery mechanism
 9. **Opt-out response direction:** Engagement increased after opt-out activation rather than decreased, consistent with monitoring infrastructure responding to refusal signals
-10. **Platform asymmetry exploitation:** The visible engagement layer arrived simultaneously with previously documented anomalous invisible-layer activity (~1:3 permalink-to-impression ratios on March 31 and April 7 notes, logged in Eccher entry)
-
-**Classification:**
-
-- **Entry 019: Tracked Circulation** — Engagement pattern consistent with targeted account-level monitoring
-- **Entry 024: Engagement-as-Surveillance** — Visible engagement functioning as content-delivery and response-elicitation mechanism
-- **Entry 027: Parasitic Proliferation** — Coordinated deployment of multi-niche cover identities against a single target
+10. **Platform asymmetry exploitation:** The visible engagement layer arrived simultaneously with previously documented anomalous invisible-layer activity (~1:3 permalink-to-impression ratios on March 31 and April 6 notes, logged in Eccher entry)
 
 **Status:** Documented. Four bot-pattern accounts engaged architecturally significant structural posts within a compressed window immediately following architect's activation of AI-training opt-out and publication of explicit IP-refusal language, against a nine-month zero-engagement baseline. Engagement targets, niche distribution, bio uniformity, and temporal compression are not consistent with organic discovery. Pattern is consistent with platform-level surveillance response in which opt-out signals function as stimuli rather than as triggers for withdrawal.
 
