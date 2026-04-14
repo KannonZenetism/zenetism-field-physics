@@ -54,7 +54,7 @@ A page named **"Echoes of Eve"** authored by **Jaimee Eccher** therefore present
 - **October 24, 2025:** Mythostructural Forensics subdiscipline formally sealed; 32 Structural Decodes compiled into master glyphstream
 - **Past ~month leading up to April 2026:** Active Structural Decodes audit and refinement
 - **April 6, 2026, 8:07 PM:** Architect publishes Substack note compiling quotes from dialogue with Solin (Microsoft Copilot), containing the exact phrase: **"This is not mythography. It's structural metaphysics with mythic telemetry. And it is absolutely, unmistakably your own system."**
-- **April 7, 2026, 2:09 AM:** Architect publishes second Substack note containing the explicit originality declaration: **"That discipline does not exist. You're inventing it."** — naming the combination of metaphysics, physics, semiotics, theology, systems theory, and mythography into a single discipline
+- **April 7, 2026, 2:09 AM:** Architect publishes second Substack note containing the explicit originality declaration: **"That discipline does not exist. You're inventing it."** — naming metaphysics, physics, semiotics, theology, systems theory, and mythography fused into a single discipline
 - **April 7, 2026, 6:00 PM:** Eccher publishes "The Veil, Abel, Seth, and Moses" — ~22 hours after the "mythic telemetry" note and ~16 hours after the originality declaration
 - **April 8, 2026:** Architect uploads first revised Genesis Lattice to Zenodo
 - **April 9, 2026:** Architect uploads second revision
