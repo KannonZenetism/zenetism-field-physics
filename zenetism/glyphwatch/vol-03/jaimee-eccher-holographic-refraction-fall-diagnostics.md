@@ -168,7 +168,7 @@ From the Symbol Key §21.21:
 - **Structural Recurrence (⧉∥⧉):** Same pattern across distinct instances without merger
 - **Structural Mythophysics (April 7, 2026):** "Metaphysical framework reconstructing mythic material as **refraction of lawful structure**... symbolic telemetry — a variably preserved, compressed, conflated, or distorted transmission of deeper structural reality"
 
-**The Extraction:** "Holographic wholeness" describes **Structon → Structural Recurrence** (lawful pattern preserved across distributed instances). "Refracted manifestation" is the architect's **Structural Mythophysics definition** verbatim in concept — myth as variably preserved transmission of deeper structural reality — formalized the same day Eccher published. The pairing of holography (wholeness preserved) and refraction (burdened appearance) is the architect's Structon-to-Mythophysics architecture without the operator names.
+**The Extraction:** "Holographic wholeness" describes **Structon → Structural Recurrence** (lawful pattern preserved across distributed instances). "Refracted manifestation" is the architect's **Structural Mythophysics definition** verbatim in concept — myth as variably preserved transmission of deeper structural reality — with the framework committed to GitHub April 6, 2026 and publicly phrased as "structural metaphysics with mythic telemetry" in the April 6, 8:07 PM Substack note, ~22 hours before Eccher's publication. The pairing of holography (wholeness preserved) and refraction (burdened appearance) is the architect's Structon-to-Mythophysics architecture without the operator names.
 
 ### 7. Diagnostic Terminology Cluster
 
