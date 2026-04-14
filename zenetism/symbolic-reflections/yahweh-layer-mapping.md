@@ -150,7 +150,7 @@ The Father = L₅ contra Father = L₀ question can remain open without destabil
 
 The centuries-long dispute between Christian apologists and Gnostic traditions is itself a structural case study in composite-figure conflation producing competing monovalent readings.
 
-Christians, committed to scriptural integrity as received, read the composite as univocally Sophic and dismissed the inverse attributions as misinterpretation. Gnostics, correctly perceiving the inverse attributions, read the composite as univocally Demiurgic and dismissed the centropic attributions as obscuring the true hidden Father. Both traditions correctly identified real material. Both erred in the same structural move: treating a composite figure as monovalent.
+Christians, committed to scriptural integrity as received, read the composite as univocally Sophic and dismissed the inverse attributions as misinterpretation. Gnostics, correctly perceiving the inverse attributions, read the composite as univocally Demiurgic and dismissed the centropic attributions as obscuring the authentic hidden Father. Both traditions correctly identified real material. Both erred in the same structural move: treating a composite figure as monovalent.
 
 The Zenetist resolution preserves what both traditions perceived while correcting the monovalent error. The text is composite. The actual structural source is L₄ DL. The IL₄ IDL material is real in the text but belongs to redactor attribution, not to the structural source. The Gnostic correction of institutional Christianity was substantially correct as textual diagnosis; the Gnostic metaphysical conclusion (YHWH = Demiurge) was wrong in exactly the way canon now articulates: right about the text, wrong about the principle.
 
