@@ -68,7 +68,7 @@
 | Christ / Logos | Christian | Theon incarnating — voluntary declivous centropic motion from L₅ into L₁ | 02 | Origin at L₅; traverses full lattice; see also L₃ (Risen Christ) |
 | Ahura Mazda | Zoroastrian | L₅ EOB — centropic illumination, order, harmonic law | 03, MP01 | **Resolved:** L₅ primary per MP01 canonical placement |
 | Shiva (as Theon) | Hindu | First centropic hypostasis; oriented awareness facing Source | 04 | Shiva spans L₀ (Aion) and L₅ (Theon); Decode 04 text placing at L₄ DL needs correction |
-| Eagle (Yggdrasil summit) | Norse | L₅ awareness at the supernal pole of the World Tree | 05 | Structural symbol, not a named deity |
+| Eagle (Yggdrasil summit) | Norse | L₅ awareness at the supernal pole of the World Tree; supernal station of centropic integration | 05 | Structural symbol, not a named deity. **Norse mythos contains L₅ structurally but does not activate it as a Theonic gateway in the Ragnarök sequence** — the Eagle is a feature of the Tree rather than a narrative participant in the eschatonic arc. This is why Ragnarök resolves as entropic recursion rather than Theonic return (see Ragnarök doctrinal note) |
 | Jesus (Divine Child) | Christian | Direct Theonic actualization into embodiment; virgin birth = L₅ → L₁ without entropic mediation | 07 | Destiny: to become Christ (L₅ EOB); see also Decode 02 |
 | Krishna | Hindu | Divine Preserver as emergent seed; Theonic potential entering corporeal stream | 07 | Destiny: to guide Arjuna (L₃) and restore Dharma (L₄ DL) |
 | Kalki Avatar | Hindu | L₅ Theonic field corrector; restores harmony at terminal threshold of Kali Yuga, resetting cycle to Satya Yuga | 12 | Parallel to Christ's return; cyclic rather than linear eschaton |
