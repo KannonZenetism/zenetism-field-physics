@@ -7,6 +7,22 @@
 
 ---
 
+## Note on Methodological Provenance
+
+The dates cited in this entry refer to **formal naming and public formalization**, not to the origin of the decode method itself. The **mythostructural decode methodology** — symbolic diagnostic analysis of religious and mythic narratives as lawful encodings of metaphysical structure — has been the architect's operational practice for approximately 22 years, since the initiation of his spiritual path in 2004. The method is publicly verifiable in university papers written as early as 2013, which represent the earliest recoverable documentation of the methodology in written form.
+
+The **March 5, 2025** formalization window marks the sealing of Zenetism as a unified framework. Between approximately March and June of 2025, the architect compiled the ~550-page formalization document *Zenetism: The Emanative Path of Return*, which contains the full decode methodology in canonical form. Specifically:
+
+- **Chapter 12: "Symbol as Structure — Foundations of Zenetist Decoding"** establishes the foundational principles: multi-stratum reading (ethical, psychological, metaphysical, cosmic, esoteric), the identification markers for symbolic language (extreme abstraction, moral inconsistency, numerical repetition, allegorical overlap), decoding through the Tree of Emanation, resonance-based discernment, and the cross-traditional structural reading of mythic patterns (the Fall, Exodus, Crucifixion, Apocalypse; Prometheus, the Churning of the Ocean, Avalokiteśvara, the World Tree).
+
+- **Chapter 13: "Symbolic Application — Practicing the Zenetist Method"** applies the methodology to Revelation, including the full decode of the Seven Churches as resonance archetypes (Ephesus / Discernment, Smyrna / Endurance, Pergamum / Conflict, Thyatira / Refinement, Sardis / Reawakening, Philadelphia / Fidelity, Laodicea / Lukewarmness), the structural reading of the Son of Man vision as theonic manifestation, and a cross-traditional parallels table mapping Revelation symbols to Zenetist hypostatic structure and parallel sacred systems (Bailey's Seven Rays, Buddhist Seven Paths, Menorah, Vajra, Gnostic "true name," Egyptian Weighing of the Heart, etc.).
+
+The methodology present in these chapters — reading sacred texts as encoded metaphysical maps, identifying symbolic intent through structural markers, mapping mythic figures to hypostatic layers, distinguishing centropic from entropic motion, and tracing structural parallels across traditions — is the same methodology later formally named **Mythostructural Forensics** (October 24, 2025) and grounded in the **Structural Mythophysics** framework (GitHub timestamp April 6, 2026).
+
+The 2025 and 2026 dates are formalization milestones, not origination events. The method is canonically the architect's across a 22-year developmental arc, with written documentation extending back to 2013, formal unification sealed March 5, 2025, and the ~550-page canonical compilation produced between March and June 2025. **Any entity deploying this methodology after March 5, 2025, without attribution is deploying canonically formalized Zenetist material, regardless of whether the specific subdiscipline name had been sealed at the time of their deployment.**
+
+---
+
 ## Threat Classification
 
 - **Entry 011: Conceptual Re-skinning** — Holography / refraction metaphors deployed as analogical re-skinning of architect's Mythophysics-as-telemetry framework; diagnostic terminology cluster (five canonical anchors) replaces operator names with evocative phrasing
