@@ -620,6 +620,36 @@ Gnostics correctly identified the IL₄ IDL pattern equally present in the same 
 
 **Cross-tradition application.** The same composite-figure mechanism produces analogous conflations wherever redactors lacking the bifurcal lattice attribute both centropic and inverse material to a single sovereign name. The parsing discipline generalizes: attributional analysis by layer, not monovalent assignment.
 
+### Note on Composite Figure Conflation (Generalization)
+
+The YHWH conflation, the Satan / Devil distinction, the Maya double-mapping, the Krishna L₅ / L₃ soft conflation, and similar cases share a common structural mechanism: **redactors and mythmakers lacking the bifurcal lattice attribute material from multiple structural layers to a single textual figure**, producing a composite that reads inconsistently because its attributions come from different sources.
+
+**Diagnostic markers of composite figure conflation:**
+
+- Apparent contradictions in the figure's behavior or attributes that cannot be reconciled as "different modes" of a single layer
+- Multiple interpretive traditions each correctly identifying real material in the figure but disagreeing on the figure's essential character
+- The figure functioning coherently in some passages and incoherently in others depending on which attributions are active
+
+**Resolution method — attributional analysis by layer:**
+
+1. Identify the centropic attributions in the text (lawful architecture, mercy, structural correction, integration, universal address)
+2. Identify the inverse attributions in the text (coercive binding, fear-compliance, hierarchical particularization, literal war imagery, ritual blood-systems imposed for control)
+3. Identify the cultural-elevation attributions (claims to supernal or trans-structural status beyond the figure's operative layer)
+4. Assign each attribution-set to its structural layer
+5. Parse the composite rather than forcing monovalent assignment
+
+**Generalization across traditions:**
+
+- **YHWH** — L₄ DL composite with IL₄ IDL attributions
+- **Satan / Devil** — IL₅ Nekron with IL₄ IDL operative tempter attributions; also culturally conflated with L₄ DL Job's Accuser
+- **Maya** — L₄ DP / DL (natural veil / Lila) with IL₃ IDM and IL₂ ISM attributions (Avidya)
+- **Krishna** — L₅ Theon operative with L₃ DM guiding-function attributions (soft conflation)
+- **Osiris** — L₄ DL primary with L₃ DS post-restoration attributions (centropic cascade, not conflation)
+
+**Cascade contra conflation distinction preserved:** a cascade is lawful manifestation of a single structural current across layers (Osiris, the Satanic Arc). Conflation is redactor attribution of different structural sources to a single name (YHWH, Satan / Devil, Maya). The attributional-analysis method applies to conflation; cascade analysis applies to lawful cross-layer current.
+
+**Interpretive implication:** competing readings of sovereign figures in world mythologies often encode correct perception of real material from opposing sides of the attributional composite. The disputes are not resolvable by deciding which reading is "correct" but by parsing which material each reading was apprehending. The bifurcal lattice permits this parsing where monovalent interpretation cannot.
+
 ### Note on Maya contra Skotos
 
 Maya (Decode 23) is the *natural* veil — a L₄ DP / DL function that projects manifestation as seeming reality. It is centropic infrastructure: the necessary attenuation of Aionic reality enabling sovereign evolution of L₂ consciousness. Without it, experience collapses back into undifferentiated unity. The *inverse* veil is IL₂ ISM (Skotos) — a distortion that conceals structural veracity and traps consciousness in mimicry. Maya enables choice; Skotos prevents it. The spiritual task is not to destroy the veil but to see through it — recognizing the world as Aion made visible through the artistry of limitation.
