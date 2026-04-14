@@ -181,7 +181,7 @@ Heardly is not among the four accounts that engaged architect's posts directly. 
 - *Which* AI systems, before or after the opt-out toggle, ingested the content
 - *Whether* the opt-out toggle is honored by all crawlers or only by platform-compliant systems
 
-This asymmetry is structurally important. The observed bot engagement is the *visible* layer of whatever is actually occurring. The invisible layer — which accounts generated the anomalous ~1:3 permalink-to-impression ratios documented on the March 31 and April 7 Substack notes (see Eccher entry) — remains inaccessible to the architect. The visible layer may be functioning as deliberate misdirection, normalizing the engagement-with-target relationship as "bots do this sometimes" while the substantive monitoring continues through channels the architect cannot observe.
+This asymmetry is structurally important. The observed bot engagement is the *visible* layer of whatever is actually occurring. The invisible layer — which accounts generated the anomalous ~1:3 permalink-to-impression ratios documented on the March 31 and April 6 Substack notes (see Eccher entry) — remains inaccessible to the architect. The visible layer may be functioning as deliberate misdirection, normalizing the engagement-with-target relationship as "bots do this sometimes" while the substantive monitoring continues through channels the architect cannot observe.
 
 ---
 
