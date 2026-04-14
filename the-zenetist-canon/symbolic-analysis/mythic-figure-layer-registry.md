@@ -501,6 +501,18 @@ The Fall (Decode 11) is not a descent from L₄ to L₁ but a transition *within
 
 The "Underworld" maps two distinct structural functions (Decode 13). **Function 1 (C↓):** The Embodied World-Node (L₁) as experienced by a centropic essence undergoing declivous centropy — for a supernal being, embodiment *is* the underworld. **Function 2 (E↓):** The Inverse Hypostatic Layers (IL₁ → IL₅) as the declivous entropic procession path for an entropically aligned soul after detachment from embodiment. Myths of "torment" (Tartarus, Sisyphus, Naraka) map IL₂ ISM (Skotos) perceptions of the soul's own inverse nature made manifest — not punishment but consequence.
 
+### Note on Active vs Sealed Embodied Modes (L₁ / IL₁)
+
+The L₁ and IL₁ strata each operate in two distinct modes: an *active / unsealed* mode where embodied orientation remains operative in ongoing life, and a *sealed / post-mortem* mode where embodied condition has been resolved and beings persist in that resolution. **The hypostatic layer is the same; the operational mode differs.**
+
+**Active / unsealed mode:** embodied beings whose orientation remains in motion — choice and realignment remain possible. Midgard in Norse cosmology holds both L₁ and IL₁ in this mode as a unified embodied stratum where centropic and entropically-oriented mortals coexist in one field.
+
+**Sealed / post-mortem mode:** embodied condition resolved; persistence in the orientation already operative at the moment of sealing. Valhalla and Fólkvangr hold L₁ in sealed centropic mode. Hel and Niflheim hold IL₁ in sealed entropic mode. Náströnd operates as an IL₅ terminal-consumption pocket nested within the IL₁ sealed realm of Hel.
+
+The Norse post-mortem sorting — Valhalla / Fólkvangr for centropic sealing, Hel for entropic sealing, Náströnd for terminal consumption — reflects orientations already operative during embodied life rather than imposing fresh judgment. This parallels the Dual-Function Underworld structural logic: the "underworld" is not a place but a structural experience of the embodied stratum operating in specific modes, and the sorting after embodiment reflects the orientation the being carried through life.
+
+**Application beyond Norse:** this mode distinction applies wherever a mythos differentiates embodied life from post-mortem persistence at the same hypostatic layer. It resolves the apparent paradox of placing realms of the dead at IL₁ (the embodied inverse stratum) rather than at deeper IL layers — the post-mortem realm is still embodied persistence, just sealed rather than active.
+
 ### Note on Cascades, Entity Identity, and the Cascade / Conflation Distinction
 
 **Cascade** is when a single current manifests across layers lawfully — same essence, different operative strata. **Conflation** is when overlap breaks structural logic — different functions assigned to the same name by cultural compression. Cascade preserves structural coherence; conflation obscures it.
