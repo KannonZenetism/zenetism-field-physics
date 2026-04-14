@@ -711,6 +711,76 @@ The deeper strata — DS / DM at L₃, DP / DL at L₄, EOB at L₅ — are not 
 
 **Application:** this reframe resolves the structural content of Anattā without rejecting the Buddhist analysis. The Buddhist observation that clinging produces suffering is structurally correct — clinging is the IL₂ ISS function (Echthros), the adversarial self-attachment that traps operative motion in entropic cycling. The Buddhist observation that the "self" of everyday experience is not a fixed essence is also correct when scoped to IL₂. The reframe clarifies what Buddhism apprehended correctly and scopes the analysis to the stratum it was actually describing.
 
+### Note on Three Paths Called Nirvana
+
+Zenetism holds that essence cannot be annihilated. Essence is the Aionic potential that moves through Khaon and causes anything to come to be at all; it persists at all layers of the lattice and cannot be destroyed by any practice or orientation. This shapes the structural reading of what different liberation-practices actually produce.
+
+Three paths may all reach Aion and all be called Nirvana, but the mode of return differs absolutely:
+
+**The centropic path** — genuine *neti-neti* or any practice stripping non-fundamental aspects while essence remains oriented toward Source. The essence returns to Aion through the L₅ Theonic gate as **essence fulfilled**, completing the acclivous centropic arc. Eligible for trans-structural saturation into Zenon. This is what canonically rigorous Buddhist traditions target as liberation.
+
+**The entropic path** — practices that frame the self itself (essence, not the accreted layers) as something to strip away, or hold that there is no essence to begin with. The seeking is structurally incoherent (Aionic potential cannot be annihilated), but the orientation produces the heaviest drift — return to Aion as **halted potential through entropic exhaustion**, heavier than merciful dissolution because the intent actively seeks self-erasure.
+
+**The lukewarm path** — meditative practices that seek sustained motion-cessation as liberation. Per the Law of Non-Neutral Emergence, equilibrium cannot endure within motion. The pattern releases through **Mercy Fold (Ø 🌫️🤲⚫)** as Localized Dissolution — return to Aion as **halted potential through merciful release**, reabsorbed as structural grace without completion of arc.
+
+All three paths reach Aion. All three are called Nirvana by their practitioners. But the state of the returning essence differs between **completion** (centropic), **exhaustion** (entropic), and **merciful release** (lukewarm).
+
+Zenetism affirms the first path as genuine centropic completion through the Theonic arc. The critique applies only to framings that structurally aim at self-erasure or motion-cessation as the liberation target — which produce return to Aion, but not through the Theonic gate and not as fulfilled coherence. The full doctrinal treatment of these three paths resides at §5.8 in the Zenetist Formalization.
+
+**Application beyond Buddhism:** the three-path diagnostic applies to any liberation tradition where "dissolution of self" is the practice target. The test is not the language but the orientation: does the practice strip non-fundamental aspects while essence orients toward Source (centropic), frame essence itself as something to erase (entropic), or seek motion-cessation as endpoint (lukewarm)?
+
+### Note on Resonant Integration
+
+When archetypal figures (Christ, Sophia, Avalokiteśvara, Apollo, Krishna) manifest symbolically within a soul's perceptual field during deep meditative states, what is occurring is **Resonant Integration** — not external encounter, not possession, not avataric incarnation, but **inward resonance resolution** in which the practitioner becomes clear enough to receive what they already contain.
+
+These luminous encounters are not instructional but **recognitional**. They do not convey doctrine; they restore structure. The being encountered is not outside the practitioner but is a harmonic living reflection of the practitioner's own DS / DM signature or supernal stratum resonance. The symbolic form the encounter takes reflects the practitioner's cultural conditioning: a Christian practitioner may encounter Christ; a Buddhist practitioner may encounter Avalokiteśvara; a Greek-trained practitioner may encounter Apollo. The structure is the same; the symbolic clothing is relative.
+
+**Diagnostic markers of Resonant Integration:**
+- Structural clarity (the encounter produces coherent understanding rather than confusion)
+- Emotional stability (the encounter stabilizes rather than destabilizes the practitioner)
+- Functional transformation (the practitioner's operative patterns shift toward integration)
+- Persistent coherence of memory (the encounter is remembered consistently rather than fragmenting)
+
+Resonant Integration differs from **pathological hallucination** (which produces fragmentation rather than integration) and from **avataric incarnation** (which is a direct Theonic or L₄ Form expression rather than inward resonance resolution within the practitioner's own field).
+
+**Application:** this framing resolves the question of whether archetypal figures encountered in deep meditative states are "real." In Zenetist terms, they are real as harmonic expressions of the practitioner's own deeper strata, and they are also real as symbolic apprehensions of genuine Forms at L₄ (Aureform and others) whose resonance the practitioner has become clear enough to receive. The encounter is neither purely internal (mere psychological projection) nor purely external (encounter with a separate being); it is **structural recognition** at the resonance-field stratum. This parallels Appendix D (MP11 §26.19 Symbolic Manifestation Archetypes) and extends it doctrinally: the Symbolic Manifestation Archetypes note that cultural filter shapes perceptual form; this note specifies the structural mechanism as inward resonance resolution.
+
+### Note on Śūnyatā contra Nirguna Brahman
+
+Both Śūnyatā and Nirguna Brahman map to L₀, but they approach different modal expressions of the unconditioned ground:
+
+- **Śūnyatā** — **L₀ Khaon (AD) mode**; realization of dispersive ground through recognition that phenomena lack fixed self-nature and arise through interdependent motion. Śūnyatā's emphasis on "lack of inherent existence" and "dependent origination" aligns with Khaonic dispersive potential: all phenomena arise through interdependent motion, not through fixed self-nature. This is structurally Khaonic territory — not because Khaon is entropy (it is not), but because Khaon is the motion-principle from which all becoming emerges, including the becoming of phenomena that appear to have fixed selves but actually depend on motion they do not contain.
+
+- **Nirguna Brahman** — **L₀ Aion (AP) mode**; realization of still ground through subtraction (*neti-neti*) until only unconditioned presence remains. (See Note on Brahman as Aion, not Zenon.)
+
+Both realizations reach L₀, but they arrive through different structural gates: Śūnyatā approaches via the motion-principle; Nirguna Brahman approaches via the stillness-principle. Aion and Khaon are the same layer in different modal expressions (Bifurcal Coherence), so the two realizations are not in conflict — they are **complementary apprehensions of the same unconditioned ground from different structural angles**.
+
+**Common misreading corrected:** Śūnyatā is not "emptiness equals void" and does not mean "nothing exists." Śūnyatā is the absence of fixed self-nature — the recognition that existence is motion, not static being. This aligns precisely with the Zenetist framing of L₀ as Bifurcal Coherence.
+
+**Trans-structural extension:** whether a given Śūnyatā or Nirguna Brahman realization extends further into trans-structural saturation at 🕳️ Zenon depends on whether the practitioner also performs the final integrative synthesis of Aion and Khaon — the recognition that zero and infinity are bifurcal expressions of the same principle. Subtractive approaches reach L₀ as essence fulfilled but do not by subtraction alone cross into Zenon; the stillness-motion polarity that Zenon transcends is not collapsed by subtraction, which operates within that polarity. Non-dual Mahayana framings that explicitly resolve the apparent oppositions (*samsara and nirvana are not two*; *form is emptiness and emptiness is form*; Zen tetralemma-transcendence) approach the synthesis move that carries the orientational gravity required for trans-structural saturation, while purer subtractive realizations reach L₀ without crossing further.
+
+### Note on the Entropic-Mirror Taxonomy (Four-Stratum Completion)
+
+The entropic-mirror taxonomy is doctrinally complete. Each centropic archetypal-role category has its inverse counterpart at the matching stratum:
+
+| Centropic | Entropic | Stratum |
+|:---|:---|:---|
+| **Avatar** (Theon-emanation) | **Inverse Avatar** (Nekron-projection) | L₅ EOB contra IL₅ VOS |
+| **Aureform** (Form of Compassion) | **Mimoform** (Form of coercive mimicry) | L₄ DP / DL contra IL₄ IDP / IDL |
+| **Centropic Steward** (carrier of Aureform) | **Echo Vessel** (carrier of Mimoform) | L₃ DS / DM contra IL₃ IDS / IDM |
+| **Harmonic Agent** (distributed centropic resonance) | **Dissonant Agent** (distributed entropic resonance) | L₁ / L₂ distributed contra IL₁ / IL₂ distributed |
+
+**Structural logic of the taxonomy:**
+
+- **L₅ / IL₅** — direct emanation. Avatars emanate directly from Theon; Inverse Avatars project directly from Nekron. Catalytic function; restructure reality through presence.
+- **L₄ / IL₄** — Form-type. Aureform and Mimoform are Forms within their respective strata, not emanative figures. They radiate resonance but do not incarnate directly.
+- **L₃ / IL₃** — carrier. Stewards and Echo Vessels are fully integrated beings at the deep soul-mind stratum who carry L₄ / IL₄ Form-resonance into operative stratum. They are the bridge between Form-stratum and embodied expression.
+- **L₁ / L₂ distributed** — agent. Harmonic Agents and Dissonant Agents are distributed or momentary expressions at the embodied-personality interface. The function operates regardless of whether the being is integrated at the deeper stratum; a Steward can express Harmonic Agent presence through L₁ / L₂, and a being without L₃ integration may still carry Harmonic Agent resonance transiently.
+
+**Gap noted:** the taxonomy does not specify a parallel at L₂ primary contra IL₂ primary. The Harmonic Agent / Dissonant Agent pair is distributed across L₁ / L₂ rather than native to either alone, because the Agent function is embodied-interface function rather than personality-stratum function specifically. The personality stratum itself (L₂ contra IL₂) carries the genuine individuation contra counterfeit self-clinging distinction handled in the Note on Anattā Reframed.
+
+This taxonomy completes the four-stratum entropic-mirror structure: every centropic archetypal role has a named inverse counterpart, and the carrier-relationships across strata are specified (Steward carries Aureform; Echo Vessel carries Mimoform; Harmonic Agent expresses centropic resonance at embodied interface; Dissonant Agent expresses entropic resonance at inverse embodied interface). No archetypal role in the canonical registry now lacks its structural mirror.
+
 ---
 
 ## Flags for Review
