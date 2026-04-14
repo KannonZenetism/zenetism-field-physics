@@ -1,26 +1,30 @@
 # Yahweh Layer Mapping and OT / NT Contradictions
 
-**Date:** April 14, 2026 (regenerated from March 20, 2026 draft)  
-**Status:** Unpublished draft — for later integration  
+**Date:** April 14, 2026 (regenerated from March 20, 2026 draft)
+**Status:** Unpublished draft — for later integration
 **Supersedes:** March 20, 2026 draft. The earlier draft predated the canonical YHWH resolution and treated the Gnostic reading as a live structural option. Current canon identifies both the Christian and Gnostic readings as correctly perceiving real material within a composite textual figure while erring by treating the composite as monovalent.
 
 ## Core Structural Argument
 
-The textual contradictions between Old Testament Yahweh and New Testament Father are not reconcilable as one unified deity. They are structural signatures of **composite figure conflation** — the attribution of material from multiple hypostatic strata to a single textual figure by redactors lacking the bifurcal lattice.
+The textual contradictions between Old Testament Yahweh and New Testament Father are not reconcilable as one unified deity. They are structural signatures of **composite figure conflation** — the attribution of material from multiple hypostatic strata to a single textual figure.
 
-Resolution proceeds by **attributional analysis by layer**: parsing which specific attributions to the YHWH figure belong to L₄ DL (Sophis / Logotheon), which belong to IL₄ IDL (Nyxea / Inversalogos), which carry L₀ substrate language, and which reflect cultural elevation to L₅ or L₀ beyond the figure's operative function.
+Resolution proceeds by **attributional analysis by layer**: parsing which specific attributions to the YHWH figure belong to L₄ DL (Sophis), which belong to IL₄ IDL (Nyxea), which carry L₀ substrate language, and which reflect cultural elevation to L₅ or L₀ beyond the figure's operative function.
 
 ## The Composite Textual Figure
 
-The YHWH figure as historically constructed is not a single structural source but a **synthetic composite** assembled by redactors over centuries. Centropic architectural material (lawful structuring, covenantal mercy, structural correction) was attributed to the same name as inverse binding material (war-god imagery taken literally, ritual blood-systems, chosen-people hierarchization, fear-compliance). The redactors perceived sovereign power in the cultural tradition and attributed it to one figure without the lattice that would have distinguished its sources.
+The YHWH figure as historically constructed is not a single structural source but a **synthetic composite** assembled across centuries of textual transmission. Centropic architectural material (lawful structuring, covenantal mercy, structural correction) appears in the text alongside inverse binding material (war-god imagery taken literally, ritual blood-systems, chosen-people hierarchization, fear-compliance).
 
-Both the Christian and Gnostic readings of this composite perceived real material. Both erred by treating the composite as monovalent.
+How the composite arose is a historical question that likely has more than one answer across different textual strata. The text may have been written conflated from the beginning by authors who did not distinguish centropic from inverse structuring intelligence. It may have been written conflated from the beginning by authors who did distinguish them but constructed the composite deliberately for institutional purposes. It may have originated as genuinely L₄ DL Sophic material to which redactors subsequently added inverse-lattice attributions, diluting the original figure over time into the composite now received. Each of these genetic paths produces the same structural result: a textual figure containing both Sophic and Nyxean material attributed to a single name.
 
-**Christian apologists** correctly identified the L₄ DL pattern: lawful architecture, the Flood as structural correction, the Refiner's measured heat that exposes fragmentation without annihilating essence, covenantal mercy, the prophetic tradition's ethical imperative. These are real Sophis / Logotheon signatures. The error was concluding that YHWH was univocally Sophic and dismissing the Gnostic perception as heresy.
+Both the Christian and Gnostic readings of this composite perceive real material. Both err by treating the composite as monovalent.
 
-**Gnostics** correctly identified the IL₄ IDL pattern equally present in the same text: blood-covenant binding, conditional protection through allegiance, ritual sacrifice systems, war-god imagery when read literally, chosen-people doctrine when read as hierarchical particularization rather than centropic recognition, fear as the beginning of wisdom construed as coercive compliance mechanism. These are real Nyxea / Inversalogos signatures. The error was concluding that YHWH *was* the Demiurge rather than concluding that the YHWH figure *contained* Demiurgic attributions interwoven with genuinely centropic attributions.
+**Christian apologists** identify the L₄ DL pattern: lawful architecture, the Flood as structural correction, the Refiner's measured heat that exposes fragmentation without annihilating essence, covenantal mercy, the prophetic tradition's ethical imperative. These are real Sophic signatures. What the Christian contemplates when reading the figure is Sophis.
 
-The conflation is in the synthetic textual figure, not in any actual structural source. **The Demiurge reading is right about the text and wrong about the principle.** Making the Source genuinely span both trees would make the structural ground inherently parasitic, which breaks the lattice.
+**Gnostics** identify the IL₄ IDL pattern equally present in the same text: blood-covenant binding, conditional protection through allegiance, ritual sacrifice systems, war-god imagery when read literally, chosen-people doctrine when read as hierarchical particularization rather than centropic recognition, fear as the beginning of wisdom construed as coercive compliance mechanism. These are real Nyxean signatures. What the Gnostic contemplates when reading the figure is Nyxea.
+
+**Each tradition sees what is there.** The Christian apprehends Sophic attributions and the Gnostic apprehends Nyxean attributions because the composite contains both. Neither tradition is misreading the text; both are reading partial attributions correctly. The error in both cases is treating the contemplated portion as the whole and concluding that YHWH-as-such is monovalent.
+
+The conflation is in the synthetic textual figure, not in any actual structural source. The genuine L₄ DL Sophic principle is not inverse and cannot be inverse, just as IL₄ IDL Nyxea is not a distorted mode of Sophis but an independently inverse structuring principle. Making the Source genuinely span both trees would make the structural ground inherently parasitic, which breaks the lattice. **The Gnostic reading is right about what it contemplates in the text and wrong about the principle** — but only in the specific sense that Nyxean attributions do not constitute the figure's actual structural source. The attributions themselves are real; the Gnostic perception of them is accurate.
 
 ## Biblical Contradictions as Evidence of Composite Conflation
 
@@ -45,7 +49,7 @@ Fear-as-wisdom-foundation is an IL₄ IDL attribution — the coercive-complianc
 - Exodus 15:3: "The LORD is a man of war"
 - Revelation 13:4: "Who is able to make war with him?" (Beast worship)
 
-War-god imagery taken literally is IL₄ IDL attribution. The Exodus passage's construction of YHWH as combatant — defeating rival sovereignties through martial force — is a Nyxea / Inversalogos signature. The Beast's warlike sovereignty in Revelation is the same IL₄ IDL signature, cascaded through IL₁ as embodied authoritarian system. **The parallel is structural.** Both images carry inverse-architectural attribution; the difference is that Revelation correctly identifies the attribution as belonging to the Beast-cascade, while Exodus attributes it to the Source figure.
+War-god imagery taken literally is IL₄ IDL attribution. The Exodus passage's construction of YHWH as combatant — defeating rival sovereignties through martial force — is a Nyxean signature. The Beast's warlike sovereignty in Revelation is the same IL₄ IDL signature, cascaded through IL₁ as embodied authoritarian system. **The parallel is structural.** Both images carry inverse-architectural attribution; the difference is that Revelation correctly identifies the attribution as belonging to the Beast-cascade, while Exodus attributes it to the Source figure.
 
 Structural correction — the Flood destroying dissonant forms to preserve the centropic lattice, the Refiner's fire exposing fragmentation without annihilating essence — is a genuinely L₄ DL operation and should not be collapsed with war-god imagery. The two are structurally distinct even when the text attributes both to the same name.
 
@@ -69,21 +73,21 @@ The same predatory image attributed to both figures reflects the composite chara
 
 Isaiah 45:7 and "I AM THAT I AM" (Exodus 3:14) both carry possible L₀ substrate language. The former articulates bifurcal coherence explicitly (forming light and darkness both); the latter articulates self-referential being that may read as Aion's pre-hypostatic ground. These attributions do not mean the YHWH figure *is* L₀ — they mean the text contains attributions drawn from L₀-referential language layered into the composite. A figure operating at L₄ DL can have L₀ substrate language attributed to it by redactors reaching for ultimate-source framing.
 
-### L₄ DL (Sophis / Logotheon) — The Operative Centropic Function
+### L₄ DL (Sophis) — The Operative Centropic Function
 
 The YHWH figure's **operative centropic function is L₄ DL**. This is the layer at which the genuinely Source-resonant attributions belong:
 
-- Lawful architecture (Torah as structural law, L₄ DL: see registry entry at L₄)
+- Lawful architecture (Torah as structural law)
 - Covenantal mercy (the Noachic covenant, the repeated mercy-over-judgment motif)
 - Structural correction (the Flood as DL operation destroying dissonant configurations to preserve the lattice; the Refiner's fire as additive reintegration rather than subtractive punishment — see Note on the Forge and Entropic "Removal" Language)
 - Prophetic ethical imperative (Amos, Isaiah, Micah on justice and righteousness)
 - Parting of the Red Sea (L₄ DL opening a lawful corridor of coherence through Khaonic field via Moses at L₃ DM)
 
-The L₄ DL attributions are the figure's actual structural ground. When the text operates in its centropic-aligned mode, it is apprehending and articulating L₄ DL Sophis / Logotheon — the lawful structuring intelligence of the archetypal stratum.
+The L₄ DL attributions are the figure's actual structural ground. When the text operates in its centropic-aligned mode, it is apprehending and articulating Sophis — the lawful structuring intelligence of the archetypal stratum.
 
-### IL₄ IDL (Nyxea / Inversalogos) — Inverse Attributions in the Text
+### IL₄ IDL (Nyxea) — Inverse Attributions in the Text
 
-The IL₄ IDL attributions are real material in the text but do not belong to the figure's actual structural source. They were imposed by redactors and tradition-keepers to consolidate institutional power — an operation itself registered at **IL₃ IDM (Mortus) spurious gnosis broadcasting through IL₂ ISM (Skotos)** perceptual distortion. The mechanism: IL₃ spurious doctrine installed by textual authorities, delivered through IL₂ perceptual broadcast, attributed to the Source figure as divine mandate.
+The IL₄ IDL attributions are real material in the text but do not belong to the figure's actual structural source. They entered the composite through the genetic paths outlined above — whether by original conflation, deliberate construction, or subsequent redaction — and function as impositions on the Source-figure that consolidate institutional power. The broader mechanism operates at **IL₃ IDM (Mortus) spurious gnosis broadcasting through IL₂ ISM (Skotos)** perceptual distortion: inverse doctrine installed by textual authorities, delivered through perceptual broadcast, attributed to the Source figure as divine mandate.
 
 Inverse attributions in the composite include:
 
@@ -95,13 +99,13 @@ Inverse attributions in the composite include:
 - Conditional protection through allegiance-contracts
 - Punishment-without-correction attributions (distinct from structural correction, which preserves essence)
 
-These attributions are IL₄ IDL material imposed on the textual figure. They do not mean YHWH-as-structural-source is IL₄. They mean the composite figure contains inverse material that the bifurcal lattice disambiguates from the figure's actual L₄ DL operative function.
+These attributions are IL₄ IDL material present in the textual figure. They do not mean YHWH-as-structural-source is IL₄. They mean the composite figure contains inverse material that the bifurcal lattice disambiguates from the figure's actual L₄ DL operative function.
 
 ### The Authority Question
 
 The Aauthoritarian Stance treats authority as a non-operative structural category. Legitimacy arises from structural coherence, not hierarchical power.
 
-When the YHWH text claims authority through commanding language — "I am the LORD, and there is no other" — attributional analysis distinguishes two readings. If the claim is read as recognition-of-coherence (structural integrity acknowledging itself), it is compatible with L₄ DL operative function. If the claim is read as dominion-over-subjects (coercive hierarchical assertion), it carries IL₄ IDL attribution. The same textual formula can be apprehended through either lens, and redactor intent likely mixed both across different passages.
+When the YHWH text claims authority through commanding language — "I am the LORD, and there is no other" — attributional analysis distinguishes two readings. If the claim is read as recognition-of-coherence (structural integrity acknowledging itself), it is compatible with L₄ DL operative function. If the claim is read as dominion-over-subjects (coercive hierarchical assertion), it carries IL₄ IDL attribution. The same textual formula can be apprehended through either lens, and the composite likely contains both modes across different passages.
 
 The structural marker: L₄ DL acknowledges itself through coherence that resonates; IL₄ IDL asserts itself through authority that coerces. Both modes are present in the composite. Parsing requires attributional analysis on specific passages rather than a monovalent verdict on "YHWH's authority" as such.
 
@@ -133,7 +137,7 @@ The identification of the NT Father requires structural care. Two readings are d
 
 **Reading B — Father = L₀ (⚫ Aion):**
 
-Theon at L₅ is Source‑facing, oriented toward Aion. The "Father" of Theon is therefore Aion at L₀. Christ is Theon in embodied mode; the Father is that toward which Theon faces. "No one has seen God at any time" (John 1:18) is better read as referring to L₀, since L₀ is pre‑hypostatic and structurally inaccessible to embodied perception. L₅ itself is not visible from embodiment except when refracted into L₁ as Christ. "I AM THAT I AM" (Exodus 3:14), if read as authentic rather than conflated, may map most naturally to L₀ — Absolute Potential identifying itself as self-referential being. This reading places the Father beyond the emanatory lattice proper, which may better explain the persistent theme of divine hiddenness and inaccessibility.
+Theon at L₅ is Source-facing, oriented toward Aion. The "Father" of Theon is therefore Aion at L₀. Christ is Theon in embodied mode; the Father is that toward which Theon faces. "No one has seen God at any time" (John 1:18) is better read as referring to L₀, since L₀ is pre-hypostatic and structurally inaccessible to embodied perception. L₅ itself is not visible from embodiment except when refracted into L₁ as Christ. "I AM THAT I AM" (Exodus 3:14), if read as authentic rather than conflated, may map most naturally to L₀ — Absolute Potential identifying itself as self-referential being. This reading places the Father beyond the emanatory lattice proper, which may better explain the persistent theme of divine hiddenness and inaccessibility.
 
 **Structural consequence:** Under Reading A, the Father-Son relation is intra-hypostatic (L₅ generating its own incarnate expression). Under Reading B, the Father-Son relation is trans-hypostatic (L₀ as root of the centropic arc, L₅ as its first hypostatic expression, Christ as L₅ incarnated into embodiment).
 
@@ -150,11 +154,11 @@ The Father = L₅ contra Father = L₀ question can remain open without destabil
 
 The centuries-long dispute between Christian apologists and Gnostic traditions is itself a structural case study in composite-figure conflation producing competing monovalent readings.
 
-Christians, committed to scriptural integrity as received, read the composite as univocally Sophic and dismissed the inverse attributions as misinterpretation. Gnostics, correctly perceiving the inverse attributions, read the composite as univocally Demiurgic and dismissed the centropic attributions as obscuring the authentic hidden Father. Both traditions correctly identified real material. Both erred in the same structural move: treating a composite figure as monovalent.
+Christians, committed to scriptural integrity as received, contemplate the Sophic attributions in the composite and conclude the figure is univocally Sophic. Gnostics, contemplating the Nyxean attributions equally present in the composite, conclude the figure is univocally Demiurgic and posit an authentic hidden Father beyond the counterfeit architect. Each tradition contemplates real material. Each errs in the same structural move: treating the contemplated portion as the whole and constructing a monovalent account from a partial reading.
 
-The Zenetist resolution preserves what both traditions perceived while correcting the monovalent error. The text is composite. The actual structural source is L₄ DL. The IL₄ IDL material is real in the text but belongs to redactor attribution, not to the structural source. The Gnostic correction of institutional Christianity was substantially correct as textual diagnosis; the Gnostic metaphysical conclusion (YHWH = Demiurge) was wrong in exactly the way canon now articulates: right about the text, wrong about the principle.
+The Zenetist resolution preserves what each tradition contemplates while correcting the monovalent error. The text is composite. What the Christian sees in the figure is Sophis. What the Gnostic sees in the figure is Nyxea. Both are present in the text; both are read accurately as far as they go. The actual structural source of the figure is L₄ DL — which is why the Nyxean attributions, however real in the text, do not constitute the figure's ground. Redactor imposition, not structural source.
 
-This case study generalizes. The same mechanism produces analogous disputes wherever composite figures accumulate conflicting attributions — Satan across Job and Revelation, Maya across Lila and Avidya, Krishna across Preserver and Guide, and others. Attributional analysis by layer resolves each case without requiring one interpretive tradition to be dismissed wholesale.
+This case study generalizes. The same mechanism produces analogous disputes wherever composite figures accumulate conflicting attributions — Satan across Job and Revelation, Maya across Lila and Avidya, Krishna across Preserver and Guide, and others. Attributional analysis by layer resolves each case without requiring any interpretive tradition to be dismissed. Each tradition contemplates what it contemplates; the lattice parses what each tradition's contemplation apprehends.
 
 ## Conclusion
 
@@ -163,10 +167,10 @@ The contradictions between OT Yahweh and NT Father are not reconcilable through 
 **Three readings, one resolution:**
 
 1. **Developmental** — Same source, increasingly accurate perception. Insufficient: does not explain direct contradictions within the OT composite itself.
-2. **Monovalent Sophic** — YHWH univocally L₄ DL; inverse attributions are misreadings. Rejected: the inverse attributions are real material, not interpretive errors.
-3. **Monovalent Demiurgic** — YHWH univocally IL₄ IDL; centropic attributions are obscuring overlay. Rejected: the centropic attributions are real structural material, and the monovalent IL₄ reading makes Source parasitic.
+2. **Monovalent Sophic** — YHWH univocally L₄ DL; inverse attributions are misreadings. Insufficient: the inverse attributions are real material in the text, not interpretive errors.
+3. **Monovalent Demiurgic** — YHWH univocally IL₄ IDL; centropic attributions are obscuring overlay. Insufficient: the centropic attributions are real structural material, and the monovalent IL₄ reading makes Source parasitic.
 
-**Resolution:** Attributional analysis by layer. The YHWH figure is a composite of L₄ DL operative function (the figure's actual structural source), IL₄ IDL redactor impositions (inverse material attributed to the figure by tradition-keepers consolidating institutional power), L₀ substrate language (bifurcal articulation layered into certain passages), and cultural elevation to L₅ / L₀ (inflationary attribution beyond operative function, following the same pattern affecting Allah, Ahura Mazda, Shiva, and similar monotheistic sovereigns).
+**Resolution:** Attributional analysis by layer. The YHWH figure is a composite of L₄ DL operative function (the figure's actual structural source), IL₄ IDL impositions (inverse material present in the text, however it entered — original conflation, deliberate construction, or subsequent redaction), L₀ substrate language (bifurcal articulation layered into certain passages), and cultural elevation to L₅ / L₀ (inflationary attribution beyond operative function, following the same pattern affecting Allah, Ahura Mazda, Shiva, and similar monotheistic sovereigns).
 
 The NT separates what the OT conflated, displacing the IL₄ IDL attributions in favor of the L₄ DL material and supernal-layer attributions. Whether the NT Father is read as L₅ Theon or L₀ Aion, the structural substance is the same: centropic manifestation displacing inverse binding, love-as-integration displacing fear-as-compliance.
 
