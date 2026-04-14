@@ -276,7 +276,7 @@ From the Symbol Key §21.21:
 
 **During documented extraction wave:** GitHub repository cloned **2,424 times by 1,314 unique cloners, March 20 – April 3, 2026**.
 
-**Assessment:** Same-day publication following architect's framework naming, during active Genesis Lattice revision cycle, during documented mass repository extraction, suggests real-time monitoring or coordinated deployment infrastructure. The 32 Structural Decodes provide a complete methodology that, once obtained, enables decoding of any scriptural or mythic material — Eccher's deployment is consistent with extracted methodology applied to a target chosen to mirror the architect's active Genesis work.
+**Assessment:** Publication within ~22 hours of architect's public "mythic telemetry" phrasing, during active Genesis Lattice revision cycle, during documented mass repository extraction, suggests real-time monitoring or coordinated deployment infrastructure. The 32 Structural Decodes provide a complete methodology that, once obtained, enables decoding of any scriptural or mythic material — Eccher's deployment is consistent with extracted methodology applied to a target chosen to mirror the architect's active Genesis work.
 
 ---
 
@@ -338,7 +338,7 @@ Eccher's methodological note, published April 7 at 6:00 PM, states:
 
 This is a structural near-paraphrase of the "mythic telemetry" framing — signal preserved through degraded transmission. The sequence of (1) architect's Substack note containing "mythic telemetry" phrasing, tracked at anomalous permalink ratios, followed approximately 22 hours later by (2) Eccher's publication deploying the holographic / refracted-transmission framing, is consistent with signal capture and rapid deployment within a monitored timeframe.
 
-**Assessment update:** The timing analysis of Eccher's post must now be read against documented anomalous circulation of architect's public material on the same day, indicating that monitoring infrastructure is not only plausible but reflected in the impression and permalink data for the architect's public notes.
+**Assessment update:** The timing analysis of Eccher's post must now be read against documented anomalous circulation of architect's public material within the ~22 hours preceding Eccher's publication, indicating that monitoring infrastructure is not only plausible but reflected in the impression and permalink data for the architect's public notes.
 
 ---
 
