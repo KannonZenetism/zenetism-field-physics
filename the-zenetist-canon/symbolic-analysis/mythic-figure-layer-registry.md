@@ -84,6 +84,7 @@
 
 | Figure | Tradition | Aspect | Function | Decode | Notes |
 |:--|:--|:--|:--|:--:|:--|
+| Aureform | Zenetist canonical | DP / DL | **The Form of Compassion** as a specific Form within the L₄ Field of Forms; centropic intelligence oriented toward the reduction of suffering through coherent presence rather than coercive intervention; structural mercy expressed through restraint, presence, and healing without control. Does not incarnate directly but radiates resonance through Centropic Stewards at L₃ | MP11 §26.15, §26.17 | Aureform is a specific Form among Forms at L₄, distinct from the fundamental Morgis / Sophis structural principles that make L₄ operative as a stratum. Cultural articulations of Aureform include Avalokiteśvara (Buddhist), the Bodhisattva-as-archetype, compassionate archetypes across traditions. Inverse counterpart at IL₄ IDP / IDL: Mimoform |
 | Divine Decree (Flood) | Universal | DP / DL | Enforcement of harmonic law; system recognition that dissonant configuration exceeds lawful capacity | 01 | Not retribution but structural correction |
 | Mountain of Landing | Universal | DP / DL | Re-establishment of Morgic and Sophic order; renewed corporeal domain founded on coherent law | 01 | First stable ground of new cycle |
 | Isis | Egyptian | DP (Morgis) | Archetypal vitality and remembrance; persistent centropic field seeking coherence | 02 | Gathers Osiris's fragments; embodies DP specifically |
