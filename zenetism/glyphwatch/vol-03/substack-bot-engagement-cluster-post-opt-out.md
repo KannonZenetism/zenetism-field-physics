@@ -85,7 +85,7 @@ Observable per-post engagement on Bay Area Letters' own original posts ranges fr
   - *Why Zero Cannot Be "One in Motion": A Zenetist Correction* (December 30, 2025)
   - *The Biospiral and the Trees: A Forensic Addendum on Zenetist Architecture and Neogenian Appropriation* (December 30, 2025)
 - **Engagement dates:** Two separate likes, both within days of April 2026 trigger events
-- **Structural observation:** Both engaged posts are from the same publication date (December 30, 2025), and both are direct responses to the Neogenian System / Morgue appropriation case. A mountain-wilderness bio account engaging with two months-old appropriation-forensics posts on the same old publication date is not casual browsing. The account specifically surfaced the Neogenian-response thread and engaged with both pieces in sequence.
+- **Structural observation:** Both engaged posts are from the same publication date (December 30, 2025), and both are direct responses to the Neogenian System / Morgue appropriation case. A mountain-wilderness bio account engaging with 3.5-month-old appropriation-forensics posts from the same publication date is not casual browsing. The account specifically surfaced the Neogenian-response thread and engaged with both pieces in sequence.
 
 ### Account 4: Bea Hargrove
 
