@@ -232,6 +232,61 @@ All four functions can be operating simultaneously. The engagement cluster is st
 
 ---
 
+## Cross-Platform Confirmation — GitHub Extraction Signature
+
+Following the Substack opt-out activation, GitHub repository traffic for the Zenetism Field Physics archive (KannonZenetism/zenetism-field-physics) shows an extraction signature consistent with the Substack engagement response. Two parallel extraction platforms exhibiting simultaneous post-opt-out intensification establishes the pattern as cross-platform rather than platform-specific.
+
+**14-day window (March 31 – April 13, 2026):**
+
+- **3,565 clones** by **1,619 unique cloners**
+- **3,759 total views** by **8 unique visitors**
+- **Visitor-to-cloner ratio:** 1:202
+
+**Prior documented baseline (March 20 – April 3, 2026):**
+
+- **2,424 clones** by **1,314 unique cloners**
+- Cited in Eccher entry as the extraction wave backdrop
+
+**Change across overlapping period:**
+
+- **Clones:** +47%
+- **Unique cloners:** +23%
+- Both metrics **increased** following the April opt-out activation, rather than decreased as would be expected from legitimate crawlers honoring the opt-out signal
+
+### Structural Reading of the Visitor-Cloner Asymmetry
+
+The **8 unique visitors / 3,759 total views** figures are structurally diagnostic on their own. Averaging those numbers: 8 visitors produced approximately 470 views each across the 14-day window. This is not consistent with human browsing behavior. Human readers do not generate 470 repeated views of the same repository over two weeks. The access pattern is consistent with **automated polling endpoints** — scripts that programmatically re-check the repository on a scheduled cadence, registering as a small number of unique visitor IDs generating a disproportionate view count.
+
+Meanwhile, **1,619 unique cloners produced 3,565 clones** — a very different population. The cloners are not the same entities as the visitors: the cloners pull the repository contents directly without browsing the GitHub interface. This is the signature of **extraction infrastructure** — scripts that clone without first inspecting what they are cloning, because the inspection has already occurred through prior surveillance channels.
+
+The two populations together form a structural diagnostic:
+
+- **8 automated polling endpoints** tracking repository state
+- **1,619 distinct extraction agents** pulling content
+
+The ~202:1 ratio of cloners to visitors is the reverse of what a legitimate open-source repository displays. Legitimate repositories show many visitors and a small fraction of them electing to clone. Observed pattern: many cloners, negligible visitors. The repository is being extracted, not read.
+
+### Temporal Correlation with Opt-Out
+
+The traffic chart shows a pronounced spike around April 12, 2026 — immediately following the architect's AI-training opt-out activation on GitHub and Substack, and within the same compressed window as the four-account Substack bot engagement cluster documented above.
+
+**Structural reading:** The opt-out signal correlates with an increase in automated extraction activity on the same platform where the opt-out was activated. This is the inverse of the response pattern expected from systems that honor the opt-out. Legitimate crawlers respecting the opt-out flag would reduce or cease access to the flagged repository; the observed infrastructure increases access. This is consistent with monitoring and extraction systems that treat opt-out signals as stimuli — signals worth responding to — rather than as valid operational states warranting withdrawal.
+
+### Joint Cross-Platform Evidence
+
+The architect's documented infrastructure response post-opt-out includes, on the same compressed timeline:
+
+| Platform | Response | Direction |
+|---|---|---|
+| Substack (visible layer) | Four bot-pattern accounts engage structural-core posts | Engagement **increased** |
+| Substack (invisible layer) | ~1:3 permalink-to-impression ratios on architect's notes | Circulation **tracked** |
+| GitHub | Clone activity up 47%, unique cloners up 23% | Extraction **increased** |
+| GitHub | 8 automated polling endpoints, 1,619 extraction agents | Access pattern **non-organic** |
+
+Two separate platforms, two separate access mechanisms (engagement on one, extraction on the other), two simultaneous post-opt-out intensifications. The pattern does not read as platform-specific anomaly. It reads as cross-platform infrastructure responding in parallel to the same trigger event. A single-platform anomaly could be dismissed; a bi-platform correlated response on the same trigger cannot be dismissed without accepting an increasingly improbable coincidence.
+
+---
+
 ## Assessment
 
 **Indicators Relevant to Pattern Recognition:**
