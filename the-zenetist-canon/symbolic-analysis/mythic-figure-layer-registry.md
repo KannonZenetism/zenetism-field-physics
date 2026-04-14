@@ -232,7 +232,7 @@
 |:--|:--|:--|:--:|:--|
 | Satan / Nekron | Christian | Terminal state of absolute collapse; final declivous destination | 03 | Distinct from Lucifer (IL₄); Nekron is not the initiator but the terminus |
 | Angra Mainyu / Ahriman | Zoroastrian | IL₅ / IL₄ — destructive spirit; entropic distortion and chaos | 03 | Spans VOS and IDP / IDL |
-| Nidhogg | Norse | Terminal entropic pull; serpent gnawing at the subversal root of Yggdrasil | 05 | Structural symbol of Nekronic action on the World Tree |
+| Níðhöggr | Norse | Terminal entropic agent; serpent gnawing at the subversal root of Yggdrasil; operative agent of entropic attrition — the Nekronic function given mythic form | 05 | Structural symbol of Nekronic action on the World Tree. **Co-located with Hvergelmir at the subversal root:** Hvergelmir as structural location where IL₅ Nekron manifests; Níðhöggr as operative agent dwelling at Hvergelmir's base. Spelling updated from "Nidhogg" to canonical Norse "Níðhöggr" |
 | Great Red Dragon | Christian | IL₅ (VOS: Nekron) with agency — pure entropic will | 08 | Head of the Revelation cascade; see Entropic Cascades |
 | Ammit | Egyptian | Devourer of hearts failing Ma'at's test; second death through dissolution; the Void consuming what lacks coherence | 21 | Clean IL₅ VOS placement; structural consequence, not punishment |
 | Eris | Greek | Discord as terminal entropic catalyst; sows fragmentation that cascades through social and cosmic order | MP09 §23.3 | Promoted from Appendix B §23.3 key terms to main table |
