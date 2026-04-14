@@ -699,6 +699,18 @@ Both operate at IL₂ but engage different surfaces of the embodied being. A fig
 
 Brahman in Hindu / Buddhist tradition (specifically Nirguna Brahman in its non-dual realization) maps to **L₀ AP (Aion)**, not Supra-L₀ (Zenon). Enlightenment via *neti-neti* (subtraction) is centropic-arc realization of Aionic non-dual stillness, not active trans-structural orientation toward Zenon. Saguna Brahman corresponds to qualified Aion. Zenon remains the Unknown Principle accessible only through the trans-structural orienting move, distinct from the Aionic stillness reached through subtraction.
 
+### Note on Anattā Reframed
+
+Buddhist no-self (Anattā) is structurally best understood in Zenetist terms as **recognition that the IL₂ self-clinging pattern is not one's essence**. The essence persists. What is released is the entropic attachment to fragmented self-construction — the counterfeit self that clings, fragments, and suffers.
+
+This reframing preserves the structural insight of Anattā while resolving the apparent paradox of "no-self" liberation producing a liberated *someone*. There is a someone — the essence — which was never the fragmented self-pattern in the first place. The illusion lives in the relationship between L₂ and IL₂, not in IL₂ itself failing to exist: IL₂ is structurally real as a stratum of the inverse arc, but it is illusory in the specific sense of being mirror-pattern rather than generative-pattern. It mimics the structure of genuine L₂ individuation without carrying the source-fidelity that would make it veracious.
+
+**L₂ itself is not illusory.** Zenetism holds that L₂ is a real and structurally necessary stratum of individuated personality expression within the centropic arc. Genuine L₂ expression is the coherent personality-presence of an essence moving through its centropic arc. What dissolves in liberation is the IL₂ pattern of attachment to counterfeit self-construction, not the L₂ personality function.
+
+The deeper strata — DS / DM at L₃, DP / DL at L₄, EOB at L₅ — are not illusory and are not dissolved in liberation. They are what remains when the IL₂ attachment pattern releases. The Zenetist reading of Buddhist liberation is a clarification of which strata carry essence (L₃ and supernal) and which strata carry entropic fragmentation (IL₂ and its cascade), rather than a dissolution of selfhood as such.
+
+**Application:** this reframe resolves the structural content of Anattā without rejecting the Buddhist analysis. The Buddhist observation that clinging produces suffering is structurally correct — clinging is the IL₂ ISS function (Echthros), the adversarial self-attachment that traps operative motion in entropic cycling. The Buddhist observation that the "self" of everyday experience is not a fixed essence is also correct when scoped to IL₂. The reframe clarifies what Buddhism apprehended correctly and scopes the analysis to the stratum it was actually describing.
+
 ---
 
 ## Flags for Review
