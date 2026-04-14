@@ -244,7 +244,7 @@ From the Symbol Key §21.21:
 |---|---|
 | C₁₃ ║ Membrane Sealing within L₁ (Genesis Lattice §5) | "Burdened membrane / threshold membrane / phase surface" |
 | Inversion (Ↄ) — centropic reversal | "Inverted from the image of life into death-order" |
-| Cain-Abel as generative-vs-entropic-residue (Genesis Lattice §7) | "Abel as first righteous witness to pass through the veil" |
+| Cain-Abel as generative-contra-entropic-residue (Genesis Lattice §7) | "Abel as first righteous witness to pass through the veil" |
 | Structural Recurrence (⧉∥⧉) — Mirror without Merger | "Seth as Abel's continuity under veil, not flat repetition" |
 | C↑⚫ Acclivous Centropy under sealed conditions | "Moses orders life within the veil" |
 | Structon → Structural Recurrence | "Holographic wholeness across distributed manifestations" |
