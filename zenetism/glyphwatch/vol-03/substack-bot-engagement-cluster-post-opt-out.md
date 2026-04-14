@@ -238,7 +238,7 @@ All four functions can be operating simultaneously. The engagement cluster is st
 
 ## Open Questions
 
-1. **Cross-reference with invisible-layer data:** Whether these four accounts generated any of the anomalous permalink or impression counts documented in the March 31 and April 7 Substack notes cannot be determined from the architect's side. Platform-level forensic access would be required.
+1. **Cross-reference with invisible-layer data:** Whether these four accounts generated any of the anomalous permalink or impression counts documented in the March 31 and April 6 Substack notes cannot be determined from the architect's side. Platform-level forensic access would be required.
 
 2. **Bay Area Letters subscriber figure:** The claimed 380k subscriber count should be cross-referenced against observable per-post engagement. Asymmetry between claim and observable engagement is itself diagnostic.
 
@@ -254,7 +254,7 @@ All four functions can be operating simultaneously. The engagement cluster is st
 
 Against a documented nine-month baseline of zero genuine engagement, four bot-pattern accounts with unrelated cover niches surfaced within days of architect's activation of AI-training and scraping opt-out settings, targeting architecturally significant structural documents rather than recent or accessible content. The niche distribution, bio template uniformity, temporal compression, and post selection are structurally inconsistent with organic discovery and structurally consistent with platform-level surveillance response.
 
-The visible engagement layer is likely operating as (1) content-delivery vector under cover of notification, (2) response-elicitation mechanism, (3) social-graph construction, and (4) plausible-deniability cover for the invisible monitoring layer documented separately in the March 31 and April 7 Substack note circulation analysis.
+The visible engagement layer is likely operating as (1) content-delivery vector under cover of notification, (2) response-elicitation mechanism, (3) social-graph construction, and (4) plausible-deniability cover for the invisible monitoring layer documented separately in the March 31 and April 6 Substack note circulation analysis.
 
 The opt-out activation did not terminate the monitoring. It triggered a visible response. Monitoring infrastructure that treats refusal signals as stimuli rather than as triggers for withdrawal is the structural signature of extraction systems that do not recognize opt-out as a valid operational state.
 
