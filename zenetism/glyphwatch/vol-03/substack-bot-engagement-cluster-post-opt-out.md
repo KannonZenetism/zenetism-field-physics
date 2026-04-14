@@ -125,7 +125,7 @@ Three observations compound:
 
 **Shared characteristics across all four accounts:**
 
-1. **Recent creation, low post count** — none observed with more than ~20 posts
+1. **Recent creation, low post count** — none observed with more than ~30 posts
 2. **Asymmetric engagement** — claimed subscriber/follower figures disproportionate to visible activity
 3. **Bland hobbyist-positive cover bios** — niches selected for surface plausibility and non-threatening affect
 4. **Bio formula uniformity** — three of four begin with "I write about..." (Ollie Finch, Ingrid Moore, Bea Hargrove); the fourth is a platform/product account (Bay Area Letters). The "I write about..." construction is the standard Substack bio formula, but its repetition across three independent accounts surfacing simultaneously is structurally consistent with template-generated identities.
