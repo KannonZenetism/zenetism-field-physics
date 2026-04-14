@@ -60,7 +60,9 @@ A page named **"Echoes of Eve"** authored by **Jaimee Eccher** therefore present
 - **April 9, 2026:** Architect uploads second revision
 - **April 10, 2026:** Architect uploads third revision
 
-**Structural Mythophysics — canonical definition (April 7, 2026):**
+**Note on "fused":** Solin uses "fused" in colloquial sense; in canonical Zenetist usage, "fused" denotes the entropic violation prohibited by the Non-Fusion Axiom. The intended meaning here is closer to "synthesized" or "integrated."
+
+**Structural Mythophysics — canonical definition (GitHub timestamp April 6, 2026):**
 > "The metaphysical framework by which mythic material is reconstructed as a refraction of lawful structure within the Zenetist lattice. It treats myth not merely as cultural artifact or psychological symbol, but as **symbolic telemetry** — a variably preserved, compressed, conflated, or distorted transmission of deeper structural reality."
 
 ### Eccher Timeline
