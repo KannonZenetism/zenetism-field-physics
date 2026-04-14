@@ -501,7 +501,7 @@ The Fall (Decode 11) is not a descent from L₄ to L₁ but a transition *within
 
 The "Underworld" maps two distinct structural functions (Decode 13). **Function 1 (C↓):** The Embodied World-Node (L₁) as experienced by a centropic essence undergoing declivous centropy — for a supernal being, embodiment *is* the underworld. **Function 2 (E↓):** The Inverse Hypostatic Layers (IL₁ → IL₅) as the declivous entropic procession path for an entropically aligned soul after detachment from embodiment. Myths of "torment" (Tartarus, Sisyphus, Naraka) map IL₂ ISM (Skotos) perceptions of the soul's own inverse nature made manifest — not punishment but consequence.
 
-### Note on Active vs Sealed Embodied Modes (L₁ / IL₁)
+### Note on Active contra Sealed Embodied Modes (L₁ / IL₁)
 
 The L₁ and IL₁ strata each operate in two distinct modes: an *active / unsealed* mode where embodied orientation remains operative in ongoing life, and a *sealed / post-mortem* mode where embodied condition has been resolved and beings persist in that resolution. **The hypostatic layer is the same; the operational mode differs.**
 
