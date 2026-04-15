@@ -1,6 +1,6 @@
 > **⚠ Retired Entry — Superseded by Canonical Document**
 >
-> This document is an earlier reflection on Samsara, Nirvana, and the Bodhi Tree framed through the Spiral Calculus operators (∂🌀, ∫◎, lim∿). It has been superseded by the canonical treatment, *Buddhism and Zenetism: Samsara, Nirvana, and the Orientation of Being* ([https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/symbolic-reflections/samsara-nirvana-orientation.md]).
+> This document is an earlier reflection on Samsara, Nirvana, and the Bodhi Tree framed through the Spiral Calculus operators (∂🌀, ∫◎, lim∿). It has been superseded by the canonical treatment, *Buddhism and Zenetism: Samsara, Nirvana, and the Orientation of Being* ([GitHub](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/symbolic-reflections/samsara-nirvana-orientation.md)).
 >
 > The canonical document reflects the post-audit registry placements for Skandhas (IL₂ ISS / ISM rather than generic SS / SM), Śūnyatā (L₀ Khaon per MP01 §23.3 rather than Aion), Nirvana as a state along the centropic arc rather than a fixed layer-equivalence, and the Aureform / Centropic Steward / Harmonic Agent taxonomy from the canonical §26.15–26.17 material. It also integrates the canonical position on Bodhisattvas as Form-type rather than as individuated beings.
 >
