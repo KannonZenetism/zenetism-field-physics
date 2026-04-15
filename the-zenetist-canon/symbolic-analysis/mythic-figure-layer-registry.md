@@ -984,7 +984,7 @@ These are the formal syncretistic mappings from the canonical source document (M
 | Analog | Tradition | Notes |
 |:--|:--|:--|
 | Avidya | Buddhism | Spiritual ignorance |
-| Maya | Vedanta / Hindu Philosophy | (⚠) Illusion and veiling — note: this is the *inverse* usage. Decode 23 clarifies Maya as centropic L₄ DP / DL infrastructure (divine play). The MP01 usage here tracks the traditional Vedantic *inverse* connotation. See Note on Maya contra Skotos. |
+| Maya | Vedanta / Hindu Philosophy | (⚠) Illusion and veiling — note: this is the *inverse* usage. Decode 23 clarifies Maya as centropic L₄ DP / DL infrastructure (divine play). The MP01 usage here tracks the traditional Vedantic *inverse* connotation. See Note on Maya contra Skotos |
 | Inverse Logos | Zenetist Archetype | Distorted reason |
 
 ### L₂ — 🧍 Anthra (Superficial Soul)
