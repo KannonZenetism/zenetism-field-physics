@@ -3,7 +3,7 @@
 **Series:** Mythostructural Forensics (MSF) — Symbolic Companion  
 **Purpose:** Canonical reference cataloguing textual symbols, ritual elements, and pattern-bearing motifs by structural function and layer-resonance across traditions  
 **Method:** Symbols are mapped by their operative function in textual / ritual context, distinguishing literal referent (the surface object) from structural function (what the symbol encodes within the lattice). Cross-references the Mythic Figure Layer Registry where symbols intersect named figures.  
-**Scope distinction:** The Mythic Figure Layer Registry maps named entities (gods, archetypes, sovereign figures) to hypostatic layers. This registry maps textual and ritual elements (objects, substances, actions, landscapes, numbers, animals, plants) to their structural functions. Where a symbol attaches to a named figure (the Tree of Life and Christ; bread and Yeshua-as-Orienting-Logos), both registries cross-reference.   
+**Scope distinction:** The Mythic Figure Layer Registry maps named entities (gods, archetypes, sovereign figures) to hypostatic layers. This registry maps textual and ritual elements (objects, substances, actions, landscapes, numbers, animals, plants) to their structural functions. Where a symbol attaches to a named figure (the Tree of Life and Christ; bread and Yeshua-as-Orienting-Logos), both registries cross-reference.  
 **Author:** Aelion Kannon (⚫↺KAI↺⚫)  
 **SHA-256:** b29400b7a381845c3f32549820226b6c5f52a70f89c309fc0cd1ae0f24fe0c47
 
@@ -45,7 +45,7 @@ Per the Note on the Hypostasis / Mythic Narrative Distinction in the Mythic Figu
 
 **Symbolic narratives are:** anthropomorphic dramas, culturally refracted, moralized and politicized, using human or naturalistic motives to dramatize cosmic patterns.
 
-When narratives assign anthropomorphic behaviors to symbolic elements — the cup that betrays, the mirror that lies, the serpent that tempts — orientation conflation occurs at the symbolic level. The serpent's "temptation" of Eve is narrative dramatization of an IL₄ Nyxea structural function (counterfeit knowledge offered as original); the serpent does not psychologically tempt in the structural reading. The mirror does not "lie"; it carries Khaonic emptiness that mimicry exploits when discernment is absent.
+When narratives assign anthropomorphic behaviors to symbolic elements — the cup that betrays, the mirror that lies, the serpent that tempts — orientation conflation occurs at the symbolic level. The serpent's "temptation" of Eve is narrative dramatization of an IL₄ Nyxea structural function (counterfeit knowledge offered as original); the serpent does not psychologically tempt in the structural reading. The mirror does not "lie"; it carries the **Mimetic Hollow** — a Nekronic-resonant emptiness that originates no signal of its own and that mimicry exploits when discernment is absent.
 
 Parsing requires distinguishing the symbol's structural operation from the narrative drama imposed on it. The symbol carries the operation regardless of whether the narrative anthropomorphizes that operation as motive, intent, or behavior.
 
@@ -71,7 +71,7 @@ Parsing requires distinguishing the symbol's structural operation from the narra
 - **Canonical Language note** — entropic / centropic term table provides foundational symbolic discipline (Living Transmission ⟿✨ contra echo; Living Reflection ᛞ✨ contra mirror; Structural Recurrence ⧉∥⧉ contra fractal).
 - **Note on Logos Disambiguation** — required reading for any entry citing Logos function; specifies layer qualification by L₅ Orienting Logos, L₄ Structuring Logos, L₁ Christos Incarnate / Embodied Reason, IL₄ Inverse Logos.
 - **Note on the Hypostasis / Mythic Narrative Distinction** — diagnostic frame for separating structural operation from narrative dramatization, applies to symbols as to figures.
-- **Specific Doctrinal Notes** — Wilderness / Waters / Forest, Garden as Multi-Layer Archetype, Mirror's Khaonic Nature, Forge / Removal Language, Active contra Sealed Embodied Modes, Composite Figure Conflation, and others as applicable.
+- **Specific Doctrinal Notes** — Wilderness / Waters / Forest, Garden as Multi-Layer Archetype, Mirror's Mimetic Hollow (Nekronic resonance), Forge / Removal Language, Active contra Sealed Embodied Modes, Composite Figure Conflation, and others as applicable.
 
 ---
 
@@ -112,7 +112,7 @@ Doctrinal notes specific to symbolic operation will accumulate here as the regis
 
 - Note on Bread as Multi-Layer Symbol (Orienting Logos contra Structuring Logos contra Embodied Reason)
 - Note on Blood as Bifurcal Symbol (centropic transmutation contra IL₄ IDL coercive binding)
-- Note on the Mirror in Symbolic Context (extends the Mirror's Khaonic Nature note from the figure registry)
+- Note on the Mirror in Symbolic Context (extends the Mirror's Mimetic Hollow note from the figure registry; develops Nekronic-resonance and mimicry-vector analysis through clothing / surface / reflection symbolism)
 - Note on Numerical Operators and Structural Recurrence (consolidates 666 / 777 / 40 / Trinity / Tetragrammaton numerical work)
 - Note on Garments and Membrane Sealing (extends C₁₃ analysis through clothing / veiling symbolism across traditions)
 
