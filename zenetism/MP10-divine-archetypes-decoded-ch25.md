@@ -213,7 +213,9 @@ Guardian of the terminal boundary between form and dissolution.
 Enforcer of cosmic limitation.
 
 **Zenetist Placement**  
-**L₄ DL (Sophis)** with Khaonic jurisdiction. Governor ≠ governed domain.
+**L₄ DL (Sophis)**  
+with Khaonic jurisdiction.  
+Governor ≠ governed domain.
 
 **Justification**  
 Structurally, Hades is a centropic preserver of cosmic law operating at L₄ DL (Sophis),  
