@@ -205,37 +205,42 @@ Yama (Hindu lord of death and dissolution)
 #### ⟜ Hades (Greek)
 
 **Traditional Role**  
-Lord of the Underworld.  
-Keeper of the dead.  
-God of unseen wealth.
+Lord of the Underworld, keeper of the dead, god of unseen wealth.
 
 **Function**  
 Structural containment.  
-Guardian of the terminal boundary.  
+Guardian of the terminal boundary between form and dissolution.  
 Enforcer of cosmic limitation.
 
 **Zenetist Placement**  
-**L4 DL (Sophis)** — threshold of **Khaon**.
+**L₄ DL (Sophis)** with Khaonic jurisdiction. Governor ≠ governed domain.
 
 **Justification**  
-Hades preserves cosmic law through lawful containment.  
-He prevents entropic cross-contamination between life and death.  
-His mythic “abduction” of Persephone is a cultural orientation conflation —  
-a narrative device encoding seasonal dormancy and renewal.  
-The myth assigns an entropic act to a centropic figure  
-to explain agricultural cycles using bride-capture symbolism.
+Structurally, Hades is a centropic preserver of cosmic law operating at L₄ DL (Sophis),  
+with jurisdiction over the Khaonic dissolution domain.  
+The structural distinction matters: governor and governed domain are not the same.  
+A lawful steward of an entropic territory is not himself entropic —  
+he is the centropic intelligence that prevents the territory from contaminating what lies outside it.  
+Hades does not seek to unmake reality; he maintains the strict boundary  
+that prevents the entropic cross‑contamination of the living and the dead.
+
+His most famous myth — the abduction of Persephone —  
+is a **cultural orientation conflation**.  
+The mythmakers assigned an entropic, disruptive act (forced descent)  
+to a structurally centropic archetype  
+in order to narratively explain the agricultural cycle of winter and spring.
 
 Mythic narratives anthropomorphize Hades with motives such as desire or coercion,  
-but these are overlays, not structural realities.  
+but these are anthropomorphic overlays, not structural realities.  
 His native orientation remains the lawful structuring of the terminal boundary.
 
 **Ethical Orientation**  
 Centropic (Lawful containment).
 
 **Symbolic Counterparts**  
-- Osiris (as judge, not reborn)  
-- Yama (lawful adjudicator)  
-- Anubis (threshold guardian)
+- Osiris (as lord of the dead)  
+- Yama (as lawful judge, distinct from dissolution)  
+- Anubis (guardian of the threshold)
 
 *Parallel to Osiris-as-Judge and the Accuser in Job —  
 figures whose jurisdiction touches entropic domains without themselves being entropic.*
