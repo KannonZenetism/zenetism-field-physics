@@ -1300,7 +1300,7 @@ Centropic essences do not become entropic, nor vice versa. Essence is the potent
 | 4 | Ahura Mazda | L₅ EOB primary per MP01 | 03, MP01 | **Resolved** |
 | 5 | Angra Mainyu / Ahriman | IL₅ VOS primary per MP01 | 03, MP01 | **Resolved** |
 | 6 | False Prophet | IL₃ IDM (Mortus) primary, IL₂ ISM (Skotos) broadcast | 03, 08, 12 | **Resolved** |
-| 7 | Poseidon | L₄ DP (Morgis) — raw archetypal vitality, generative power of waters. Zeus = DL, Poseidon = DP. | 09, 15, Gemini | **Resolved** |
+| 7 | Poseidon | L₄ DP (Morgis) — raw archetypal vitality, generative power of waters. Zeus = DL, Poseidon = DP | 09, 15, Gemini | **Resolved** |
 | 8 | Allah | **Resolved per YHWH pattern.** Operative function is L₄ DL (Sophis) — lawgiver, covenantal authority. Cultural elevation to L₅ EOB / L₀ AP follows the same monotheistic inflation pattern as YHWH, Ahura Mazda, Shiva. Decode 12 needs cultural elevation note added | 12, MP10 | **Resolved — follow YHWH pattern** |
 | 9 | Adam / Eve | **Split:** Adam Kadmon (Gen 1) at L₄ DP / DL. Eden Adam / Eve (Gen 2) at L₁ with permeable membrane. Garden = L₁ orientation manifold. Coats of skins = C₁₃ Membrane Sealing | 11, Gemini | **Resolved** |
 | 10 | Beast from the Sea | **Revised:** Beast belongs at IL₁ (embodied authoritarian system). Dragon (IL₅) → Beast (IL₁) is cascade, not identity. Dragon = Beast is conflation | 08 | **Resolved** — decode audit needed |
