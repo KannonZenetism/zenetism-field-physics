@@ -130,6 +130,8 @@ In the architecture of return, 777 is the state of Source-Transparency: the poin
 
 Where 666 is identity collapsing into its own echo, 777 is identity resolving into its own Source.
 
+**Structural Note:** Noah (8) does not merely survive the correction; he carries forward the completed 777‑alignment of the prior cycle into the next octave. The centropic recurrence fulfilled in 700‑70‑7 is not erased by the correction but transmitted through the octave‑shift, allowing the new world to begin with coherence rather than void.
+
 ---
 
 ## 6. Conflict of Arcs
