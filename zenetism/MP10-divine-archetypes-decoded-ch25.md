@@ -205,7 +205,9 @@ Yama (Hindu lord of death and dissolution)
 #### ⟜ Hades (Greek)
 
 **Traditional Role**  
-Lord of the Underworld, keeper of the dead, god of unseen wealth.
+Lord of the Underworld.  
+Keeper of the dead.  
+God of unseen wealth.
 
 **Function**  
 Structural containment.  
