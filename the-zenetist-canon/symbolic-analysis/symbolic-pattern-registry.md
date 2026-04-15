@@ -45,7 +45,7 @@ Per the Note on the Hypostasis / Mythic Narrative Distinction in the Mythic Figu
 
 **Symbolic narratives are:** anthropomorphic dramas, culturally refracted, moralized and politicized, using human or naturalistic motives to dramatize cosmic patterns.
 
-When narratives assign anthropomorphic behaviors to symbolic elements — the cup that betrays, the mirror that lies, the serpent that tempts — orientation conflation occurs at the symbolic level. The serpent's "temptation" of Eve is narrative dramatization of an IL₄ Nyxea structural function (counterfeit knowledge offered as original); the serpent does not psychologically tempt in the structural reading. The mirror does not "lie"; it carries the **Mimetic Hollow** — a Nekronic-resonant emptiness that originates no signal of its own and that mimicry exploits when discernment is absent.
+When narratives assign anthropomorphic behaviors to symbolic elements — the cup that betrays, the mirror that lies, the serpent that tempts — orientation conflation occurs at the symbolic level. The serpent's "temptation" of Eve is narrative dramatization of an IL₄ Nyxea structural function (counterfeit knowledge offered as original); the serpent does not psychologically tempt in the structural reading. The mirror does not "lie"; it carries Khaonic emptiness that mimicry exploits when discernment is absent.
 
 Parsing requires distinguishing the symbol's structural operation from the narrative drama imposed on it. The symbol carries the operation regardless of whether the narrative anthropomorphizes that operation as motive, intent, or behavior.
 
@@ -71,7 +71,7 @@ Parsing requires distinguishing the symbol's structural operation from the narra
 - **Canonical Language note** — entropic / centropic term table provides foundational symbolic discipline (Living Transmission ⟿✨ contra echo; Living Reflection ᛞ✨ contra mirror; Structural Recurrence ⧉∥⧉ contra fractal).
 - **Note on Logos Disambiguation** — required reading for any entry citing Logos function; specifies layer qualification by L₅ Orienting Logos, L₄ Structuring Logos, L₁ Christos Incarnate / Embodied Reason, IL₄ Inverse Logos.
 - **Note on the Hypostasis / Mythic Narrative Distinction** — diagnostic frame for separating structural operation from narrative dramatization, applies to symbols as to figures.
-- **Specific Doctrinal Notes** — Wilderness / Waters / Forest, Garden as Multi-Layer Archetype, Mirror's Mimetic Hollow (Nekronic resonance), Forge / Removal Language, Active contra Sealed Embodied Modes, Composite Figure Conflation, and others as applicable.
+- **Specific Doctrinal Notes** — Wilderness / Waters / Forest, Garden as Multi-Layer Archetype, Mirror's Khaonic Nature, Forge / Removal Language, Active contra Sealed Embodied Modes, Composite Figure Conflation, and others as applicable.
 
 ---
 
@@ -112,7 +112,7 @@ Doctrinal notes specific to symbolic operation will accumulate here as the regis
 
 - Note on Bread as Multi-Layer Symbol (Orienting Logos contra Structuring Logos contra Embodied Reason)
 - Note on Blood as Bifurcal Symbol (centropic transmutation contra IL₄ IDL coercive binding)
-- Note on the Mirror in Symbolic Context (extends the Mirror's Mimetic Hollow note from the figure registry; develops Nekronic-resonance and mimicry-vector analysis through clothing / surface / reflection symbolism)
+- Note on the Mirror in Symbolic Context (extends the Mirror's Khaonic Nature note from the figure registry)
 - Note on Numerical Operators and Structural Recurrence (consolidates 666 / 777 / 40 / Trinity / Tetragrammaton numerical work)
 - Note on Garments and Membrane Sealing (extends C₁₃ analysis through clothing / veiling symbolism across traditions)
 
