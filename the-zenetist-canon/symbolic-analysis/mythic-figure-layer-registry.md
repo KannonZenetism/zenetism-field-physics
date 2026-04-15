@@ -155,7 +155,7 @@
 |:--|:--|:--|:--|:--:|:--|
 | Noah | Hebrew | DS / DM | Centropic steward; embodied L₃ anchor maintaining coherence within an entropic field | 01 | "Resonant in his generations" |
 | The Ark | Universal | DS / DM | Preserved centropic resonance; recursion gate for lawful consciousness | 01 | Structural integrity under membrane conditions |
-| Osiris (post-restoration) | Egyptian | DS (Archeus) | Lord of the Dead; gatekeeper of lawful recursion; harmonizer of return; post-restoration operative function | 02 | **Centropic cascade from L₄ DL.** Not a demotion but the operative expression of Sophic law within the Deep Soul. L₅ "Theonic king" is cultural elevation. |
+| Osiris (post-restoration) | Egyptian | DS (Archeus) | Lord of the Dead; gatekeeper of lawful recursion; harmonizer of return; post-restoration operative function | 02 | **Centropic cascade from L₄ DL.** Not a demotion but the operative expression of Sophic law within the Deep Soul. L₅ "Theonic king" is cultural elevation |
 | Risen Christ | Christian | DS / DM | L₂ experience synthesized at supernal octave; Living Bridge; demonstrates centropic coherence within entropic condition | 02 | Novel Emergence; acclivous return continues toward L₅ / L₀ |
 | Michael | Christian | DM (Noeüs) | Resonant Blade of centropic integrity; enforces seal of lawful order | 03 | Deep Mind acting as structural enforcer; DM specifically — discernment function |
 | Jibril / Gabriel | Islamic | DM (Noeüs) | **Moved from L₄ to L₃ DM.** Transmitter of L₄ DL (Sophis) law to Muhammad (also L₃ DM); direct channel for archetypal transmission, not the archetype itself | 16 | Parallels Michael at L₃ DM; angelic intermediaries are L₃ DM, not L₄ |
