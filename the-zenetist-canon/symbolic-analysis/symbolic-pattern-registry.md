@@ -1,7 +1,7 @@
 # Symbolic Pattern Registry
-**Series:** Mythostructural Forensics (MSF) — Symbolic Companion
-**Purpose:** Canonical reference cataloguing textual symbols, ritual elements, and pattern-bearing motifs by structural function and layer-resonance across traditions
-**Method:** Symbols are mapped by their operative function in textual / ritual context, distinguishing literal referent (the surface object) from structural function (what the symbol encodes within the lattice). Cross-references the Mythic Figure Layer Registry where symbols intersect named figures.
+**Series:** Mythostructural Forensics (MSF) — Symbolic Companion  
+**Purpose:** Canonical reference cataloguing textual symbols, ritual elements, and pattern-bearing motifs by structural function and layer-resonance across traditions  
+**Method:** Symbols are mapped by their operative function in textual / ritual context, distinguishing literal referent (the surface object) from structural function (what the symbol encodes within the lattice). Cross-references the Mythic Figure Layer Registry where symbols intersect named figures.  
 **Scope distinction:** The Mythic Figure Layer Registry maps named entities (gods, archetypes, sovereign figures) to hypostatic layers. This registry maps textual and ritual elements (objects, substances, actions, landscapes, numbers, animals, plants) to their structural functions. Where a symbol attaches to a named figure (the Tree of Life and Christ; bread and Yeshua-as-Logos), both registries cross-reference.
 
 ## Methodological Principles
