@@ -242,9 +242,15 @@ His native orientation remains the lawful structuring of the terminal boundary.
 Centropic (Lawful containment).
 
 **Symbolic Counterparts**  
-- Osiris (as lord of the dead)  
-- Yama (as lawful judge, distinct from dissolution)  
-- Anubis (guardian of the threshold)
+Osiris (as lord of the dead — L₄ DL judicial function  
+in the centropic cascade to L₃ DS post‑restoration  
+operative function)  
+Yama (the judicial‑function aspect specifically;  
+Yama is a composite figure whose primary registry  
+placement is at L₀ Khaon / VOS resonance for the  
+dissolution‑time function, with the judicial aspect  
+as the relevant counterpart to Hades)  
+Anubis (guardian of the threshold)
 
 *Parallel to Osiris-as-Judge and the Accuser in Job —  
 figures whose jurisdiction touches entropic domains without themselves being entropic.*
