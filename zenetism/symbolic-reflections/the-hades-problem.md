@@ -29,11 +29,11 @@
 When a centropic or entropic hypostasis is depicted in mythic narrative using human motives, emotions, or moral categories that do not reflect its structural function.
 
 **Previous examples resolved using this method:**
-- Yahweh’s “wrath” (L₄ / IL₄ conflation without pole specification)  
-- Odin’s “trickery” (cultural overlay on L₄ DL wisdom‑seeking)  
-- Vishnu’s “avatars” (descent narrative, not hypostatic mobility)  
-- Shiva’s “destruction” (dissolution as renewal, not entropy)  
-- Set’s “chaos” (boundary‑testing, not malice)  
+- Yahweh as composite figure (L₄ DL Sophic attributions and IL₄ IDL Nyxean attributions present in the same textual figure; structural source not historically determinable, conflation itself is what is)  
+- Odin's "trickery" (cultural overlay on L₄ DL wisdom‑seeking)  
+- Vishnu's "avatars" (descent narrative, not hypostatic mobility)  
+- Shiva's "destruction" (dissolution as renewal, not entropy)  
+- Set's dismemberment of Osiris (cultural attribution of IL₃ Fractus function to a figure whose native layer is IL₂ ISS Echthros adversarial will; the dismemberment exceeds Set's native layer, attributional conflation across IL strata)
 
 ---
 
