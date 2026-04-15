@@ -98,7 +98,9 @@ They took the **centropic structural keeper** (Hades) and forced him to commit a
 #### ⟜ Hades (Greek)
 
 **Traditional Role**  
-Lord of the Underworld, keeper of the dead, god of unseen wealth.
+Lord of the Underworld.  
+Keeper of the dead.  
+God of unseen wealth.
 
 **Function**  
 Structural containment.  
@@ -106,7 +108,9 @@ Guardian of the terminal boundary between form and dissolution.
 Enforcer of cosmic limitation.
 
 **Zenetist Placement**  
-**L₄ DL (Sophis)** with Khaonic jurisdiction. Governor ≠ governed domain.
+**L₄ DL (Sophis)**  
+with Khaonic jurisdiction.  
+Governor ≠ governed domain.
 
 **Justification**  
 Structurally, Hades is a centropic preserver of cosmic law operating at L₄ DL (Sophis),  
@@ -134,6 +138,9 @@ Centropic (Lawful containment).
 - Osiris (as lord of the dead)  
 - Yama (as lawful judge, distinct from dissolution)  
 - Anubis (guardian of the threshold)
+
+*Parallel to Osiris-as-Judge and the Accuser in Job —  
+figures whose jurisdiction touches entropic domains without themselves being entropic.*
 
 📐⚖️⚫
 
