@@ -109,9 +109,7 @@ Enforcer of cosmic limitation.
 **L₄ DL (Sophis)** with Khaonic jurisdiction. Governor ≠ governed domain.
 
 **Justification**  
-Structurally, Hades is a centropic preserver of cosmic law.  
-He does not seek to unmake reality; rather, he maintains the strict boundary  
-that prevents the entropic cross‑contamination of the living and the dead.
+Structurally, Hades is a centropic preserver of cosmic law operating at L₄ DL (Sophis), with jurisdiction over the Khaonic dissolution domain. The structural distinction matters: governor and governed domain are not the same. A lawful steward of an entropic territory is not himself entropic — he is the centropic intelligence that prevents the territory from contaminating what lies outside it. Hades does not seek to unmake reality; he maintains the strict boundary that prevents the entropic cross-contamination of the living and the dead.
 
 His most famous myth — the abduction of Persephone —  
 is a **cultural orientation conflation**.  
