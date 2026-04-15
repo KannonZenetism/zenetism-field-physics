@@ -650,6 +650,43 @@ The YHWH conflation, the Satan / Devil distinction, the Maya double-mapping, the
 
 **Interpretive implication:** competing readings of sovereign figures in world mythologies often encode correct perception of real material from opposing sides of the attributional composite. The disputes are not resolvable by deciding which reading is "correct" but by parsing which material each reading was apprehending. The bifurcal lattice permits this parsing where monovalent interpretation cannot.
 
+### Note on the Hypostasis / Mythic Narrative Distinction
+
+A foundational diagnostic frame for all figure-analysis work in the registry: **hypostatic placement and mythic narrative behavior are structurally different categories**, and conflating them produces interpretive errors that the bifurcal lattice exists to resolve.
+
+**Hypostases are:**
+- Structural functions
+- Non-anthropomorphic
+- Non-psychological
+- Non-narrative
+
+**Myths are:**
+- Anthropomorphic dramas
+- Culturally refracted
+- Moralized and politicized
+- Using human motives to explain cosmic patterns
+
+When myths assign human behaviors to structural principles — desire, malice, jealousy, kidnapping, betrayal, vengeance, courtship, deception — **orientation conflation** occurs. The mythmakers reach for the cultural mechanisms available to them (bride capture, war, royal succession, family drama) to narrate cosmic patterns that have no anthropomorphic content at the structural level. The narrative behavior becomes attributed to the hypostatic figure, and subsequent interpreters then treat the narrative behavior as evidence of the figure's structural orientation. It is not.
+
+**The diagnostic question:** does the figure's narrative behavior reflect the structural function it occupies, or does the narrative behavior reflect cultural mechanisms imposed on the structural function for narrative purposes?
+
+**Diagnostic markers separating structural function from narrative imposition:**
+
+- **Structural function is consistent across cultural articulations.** A figure occupying L₄ DL across multiple traditions will exhibit lawful structuring intelligence in all of them, however the local mythology dramatizes it. A figure whose narrative behavior varies wildly across traditions while occupying the same structural function is being narratively imposed upon by each tradition.
+- **Structural function is internally coherent.** A genuinely centropic figure does not, at the structural level, perform entropically catalytic acts. When the narrative requires such an act (Hades kidnapping Persephone, Yahweh commanding genocide, Odin betraying his oaths), the act is narrative imposition, not structural behavior.
+- **Structural function is non-psychological.** Hypostases do not have motives. They have functions. When a narrative requires a motive (Hades wants a bride, Yahweh is jealous, Loki is bored), the motive is anthropomorphic overlay supplying the narrative with causal logic the structural function does not contain.
+
+**Application examples:**
+
+- **Hades** at L₄ DL with Khaonic jurisdiction is the lawful guardian of the boundary between form and dissolution. The Persephone narrative uses the cultural mechanism of bride capture to dramatize the agricultural cycle (declivous motion as dormancy, acclivous motion as renewal, marriage as structural integration of the seasonal pattern). The kidnapping is narrative; the boundary-keeping is structural.
+- **Set** at IL₂ ISS (Echthros) is adversarial will. The dismemberment of Osiris is an IL₃ Fractus function attributed to him by Egyptian mythmakers; the act exceeds his native layer. The narrative attribution is mythological imposition; the adversarial-will function is structural.
+- **Odin** at L₄ DL is the structuring sovereign of the Aesir. His sacrifice for the Runes (acquisition of structural language) is structural function. His narrative trickery is anthropomorphic overlay drawing on the Norse tradition's love of cunning protagonists; the trickery does not reflect his structural orientation.
+- **YHWH** as composite textual figure contains both L₄ DL Sophic attributions and IL₄ IDL Nyxean attributions. The wrath narratives, war-god imagery, and chosen-people hierarchization are not evidence that the structural source is IL₄; they are evidence that the textual figure is composite. (See Note on YHWH as Cultural Conflation of the Dual Trees.)
+
+**Limit case:** the diagnostic frame does not always permit clean resolution. Some figures are conflated to the degree that the structural source cannot be reliably reconstructed from the narrative material, and the responsible move is to register the conflation itself as the analytical finding rather than to assert a structural source the evidence cannot support. The YHWH composite is one such case: the conflation is structurally certain; the original structural source (whether L₄ DL, original conflation without distinction, deliberate construction, or other) is historically underdetermined. Honesty about this limit is itself a doctrinal commitment.
+
+**Why this matters for the registry:** the registry's central operation is parsing structural placement from narrative behavior. Without this distinction, every mythic figure becomes a tangle of irreconcilable contradictions; with it, the contradictions become diagnostic signatures pointing to where narrative imposition occurs. The diagnostic frame is the methodology that makes the registry possible.
+
 ### Note on Maya contra Skotos
 
 Maya (Decode 23) is the *natural* veil — a L₄ DP / DL function that projects manifestation as seeming reality. It is centropic infrastructure: the necessary attenuation of Aionic reality enabling sovereign evolution of L₂ consciousness. Without it, experience collapses back into undifferentiated unity. The *inverse* veil is IL₂ ISM (Skotos) — a distortion that conceals structural veracity and traps consciousness in mimicry. Maya enables choice; Skotos prevents it. The spiritual task is not to destroy the veil but to see through it — recognizing the world as Aion made visible through the artistry of limitation.
