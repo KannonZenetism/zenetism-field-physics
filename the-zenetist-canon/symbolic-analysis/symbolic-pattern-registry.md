@@ -12,6 +12,24 @@
 4. **Symbols can be centropic, entropic, or bifurcal depending on operative context.** Blood symbolizes life-force in some contexts, ritual binding in others, structural correction in others. Context determines orientation.
 5. **Cascade and conflation principles apply to symbols as to figures.** A single symbolic current can manifest across layers (centropic cascade) or be culturally compressed across structurally distinct functions (conflation).
 
+## Symbolic Operators contra Symbolic Carriers
+
+A symbol is not the object itself but the structural operation it performs.  
+The object is the carrier; the operation is the operator.
+
+Bread carries Logos-nourishment.  
+Water carries purification.  
+Oil carries consecration.  
+Blood carries entropic life-force or covenant-binding depending on context.
+
+The registry maps operators, not carriers.
+
+A single carrier can host multiple operators depending on textual or ritual context.  
+A single operator can appear through multiple carriers across traditions.
+
+This distinction prevents symbolic conflation and preserves the Non-Fusion Axiom:  
+same pattern, distinct instance; recurrence without merger.
+
 ## Registry Sections (proposed)
 
 - Substances (bread, wine, blood, water, oil, salt, milk, honey)
