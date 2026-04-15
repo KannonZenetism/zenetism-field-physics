@@ -124,11 +124,13 @@ Where 666 represents Entropic Degradation (a failure of coherence that loses pow
 70 (Meso): Completion of the individuated arc.  
 7 (Micro): Completion of the embodied gesture.
 
-This is Structural Recurrence across scales: the same centropic pattern instantiated at every magnitude without distortion. Unlike the Beast’s number, which reverberates into fragmentation, the triadic seven stabilizes. It is the signature of an essence that has accounted for itself at every layer of the lattice.
+This is **Structural Recurrence (⧉∥⧉)** across scales: the same centropic pattern instantiated at every magnitude without distortion. Per the canonical language note, Structural Recurrence is the centropic counterpart to "fractal" — lawful reappearance of a structural pattern across layers or worlds without numerical identity or partition; same pattern, distinct instance; the "Mirror without Merger" preserving the Non-Fusion Axiom. Unlike the Beast's number, which reverberates into fragmentation, the triadic seven stabilizes. It is the signature of an essence that has accounted for itself at every layer of the lattice.
 
 In the architecture of return, 777 is the state of Source-Transparency: the point where the complexity of the many (700) has been refined into the simplicity of the one (7), prepared to pass through the Theonic gateway and into the stillness of Aion.
 
 Where 666 is identity collapsing into its own echo, 777 is identity resolving into its own Source.
+
+**Structural asymmetry of the contra-pair:** 666 and 777 are structurally symmetric (entropic recursion contra centropic completion, triadic at three orders of magnitude) but temporally asymmetric. 666 appears as ongoing operative motion — the Beast system institutionalizing the misdirect in present time, reverberating because it cannot complete. 777 appears as terminal completion — Lamech's centropic arc reaching its terminus before Structural Correction. The asymmetry is itself diagnostic: entropic patterns persist in time because they cannot resolve; centropic patterns terminate in time because they can. Recursion is the signature of a pattern that has nowhere to arrive; completion is the signature of a pattern that has arrived.
 
 **Structural Note:** Noah (8) does not merely survive the correction; he carries forward the completed 777‑alignment of the prior cycle into the next octave. The centropic recurrence fulfilled in 700‑70‑7 is not erased by the correction but transmitted through the octave‑shift, allowing the new world to begin with coherence rather than void.
 
