@@ -197,7 +197,7 @@ Human cognition operates across three fundamental architectures, each optimizing
 
 ---
 
-## Distinction: Soft Entropy vs. Predatory Behavior
+## Distinction: Soft Entropy contra Predatory Behavior
 
 ### Initial Framework Limitation
 
