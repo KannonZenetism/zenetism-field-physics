@@ -199,22 +199,37 @@ Human cognition operates across three fundamental architectures, each optimizing
 
 ## Distinction: Soft Entropy contra Predatory Behavior
 
-### Initial Framework Limitation
+### Framework Nuance on Entropy and Moral Accountability
 
-Early Zenetist ethical framework treated entropic behavior as **directional motion without moral judgment** (E₁₄ Hollow Nest / Empty Recursion as degradation through iteration, not evil).
+Zenetist ethical framework distinguishes three levels of entropic behavior:
 
-**This adequately describes:**
+1. **Entropy as motion** (structural directionality, E₁₄ Hollow Nest / Empty Recursion)
+2. **Unintentional entropic harm** (negative outcomes without awareness or malice)
+3. **Intentional entropic harm** (deliberate harm with full awareness - malice)
+
+The framework intentionally avoided traditional moral language ("good/evil," "right/wrong") to demonstrate that **motion laws are structural principles baked into reality itself**, not subjective preferences. This approach bypasses religious and philosophical debates about morality by showing coherence and fragmentation as observable directional phenomena.
+
+**However, this structural approach does not provide a "free pass" for predatory behavior.**
+
+While moral perceptions are relative—neurovenators may view their predatory actions as justified or even favorable—**the harm they cause to others crosses a threshold that makes such behavior unacceptable regardless of the perpetrator's justification**.
+
+The distinction is not about subjective moral judgment but about **observable harm with awareness**:
+
+**Adequately described by motion-based framework:**
 - Unconscious drift (people not examining assumptions)
 - Systemic capture (people caught in structures they don't understand)
 - Ignorance (people who genuinely don't know better)
+- Unintentional harm (negative outcomes without awareness)
 
-**This inadequately describes:**
+**Requires accountability beyond motion description:**
 - **Intentional suppression** (deleting evidence when confronted)
 - **Predatory extraction** (systematic harvesting while isolating sources)
 - **Deliberate poisoning** (creating derivatives to delegitimize categories)
 - **Strategic harm** (choosing to harm with full awareness of alternatives)
 
-### Refined Distinction
+**The threshold: When one's actions cause demonstrable harm to others, claiming moral relativity or structural neutrality becomes an evasion of accountability, not a principled stance.**
+
+### Operational Distinction: Drift contra Predation
 
 **Entropic drift:** Motion without awareness, natural degradation, unconscious fragmentation
 
@@ -246,7 +261,7 @@ This distinguishes:
 
 Both produce suffering. But the second involves **agency with awareness**, which creates moral responsibility that unconscious drift does not.
 
-### Structural vs. Individual Evil
+### Structural contra Individual Evil
 
 **Individual level:** Neurovenator cognition in single actors
 
