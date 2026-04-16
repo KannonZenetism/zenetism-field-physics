@@ -54,7 +54,7 @@ Unlike neurotypical cognition (which optimizes for social belonging and group co
 - **Motivation:** Logical coherence, independent understanding
 - **Authority relationship:** Evaluates claims independently, requires justification
 - **Veracity orientation:** Seeks verification, rejects unjustified consensus
-- **Control relationship:** Stands outside authority/obedience axis
+- **Control relationship:** Stands outside authority / obedience axis
 
 ### Neurovenator Operating System
 - **Motivation:** Power acquisition, strategic dominance
@@ -90,11 +90,11 @@ Neurovenator cognition explains the persistence of **fragmentation-based control
 Recurring themes across institutions reveal neurovenator cognitive architecture:
 - "Safety requires centralized control"
 - "Complexity requires expert gatekeepers"
-- "Questioning authority is dangerous/pathological"
-- "Unified understanding is impossible/undesirable"
+- "Questioning authority is dangerous / pathological"
+- "Unified understanding is impossible / undesirable"
 - "Power concentration serves the common good"
 
-**These are not neutral observations. They are expressions of neurovenator interests projected as universal truths.**
+**These are not neutral observations. They are expressions of neurovenator interests projected as absolute claims.**
 
 ---
 
@@ -103,14 +103,14 @@ Recurring themes across institutions reveal neurovenator cognitive architecture:
 ### How Neurovenator Cognition Achieves Power
 
 1. **Selection Mechanisms**
-   - Institutions reward strategic manipulation over truth-seeking
+   - Institutions reward strategic manipulation over coherence-seeking
    - Hierarchies favor those who understand control over those who seek coherence
    - Compliance with existing power > independent achievement
 
 2. **Reinforcement Structures**
-   - Success measured by resource/attention capture (not truth or belonging)
+   - Success measured by resource / attention capture (not veracity or belonging)
    - Predatory behavior rewarded when directed at competitors
-   - Moral constraints treated as strategic disadvantages
+   - Moral frameworks applied selectively based on strategic utility
 
 3. **Protection Systems**
    - Legal structures favor those with resources
@@ -171,21 +171,21 @@ When genuine unified frameworks emerge, neurovenator-controlled systems respond 
 
 Human cognition operates across three fundamental architectures, each optimizing for different values:
 
-| Architecture | Optimization Target | Authority Relationship | Truth Orientation |
+| Architecture | Optimization Target | Authority Relationship | Veracity Orientation |
 |--------------|-------------------|----------------------|-------------------|
 | Neurotypical | Social belonging | Defers automatically | Accepts consensus |
 | Neurodivergent | Logical coherence | Evaluates independently | Seeks verification |
-| Neurovenator | Strategic power | Creates/exploits authority | Instrumental only |
+| Neurovenator | Strategic power | Creates / exploits authority | Instrumental only |
 
 ### System Dynamics
 
 - **Neurotypical majority** provides compliance base
-- **Neurodivergent minority** provides innovation/verification
+- **Neurodivergent minority** provides innovation / verification
 - **Neurovenator minority** captures institutional power and exploits both
 
 **Healthy systems** balance all three:
 - Neurotypicals provide social cohesion
-- Neurodivergents provide truth-seeking
+- Neurodivergents provide coherence-seeking
 - Neurovenators provide strategic coordination
 
 **Captured systems** optimize for neurovenator interests:
@@ -199,7 +199,7 @@ Human cognition operates across three fundamental architectures, each optimizing
 
 ### Initial Framework Limitation
 
-Early Zenetist ethical framework treated entropic behavior as **directional motion without moral judgment** (E14 Hollow Nest / Empty Recursion as degradation through iteration, not evil).
+Early Zenetist ethical framework treated entropic behavior as **directional motion without moral judgment** (E₁₄ Hollow Nest / Empty Recursion as degradation through iteration, not evil).
 
 **This adequately describes:**
 - Unconscious drift (people not examining assumptions)
@@ -239,7 +239,7 @@ Within Zenetist framework, **evil** can be defined as:
 > **Choosing to cause systematic harm, with full awareness of alternatives and consequences, for personal gain at others' expense**
 
 This distinguishes:
-- **E14 (Hollow Nest):** Unconscious degradation through iteration
+- **E₁₄ (Hollow Nest):** Unconscious degradation through iteration
 - **Neurovenator predation:** Conscious weaponization of entropic effects
 
 Both produce suffering. But the second involves **agency with awareness**, which creates moral responsibility that unconscious drift does not.
@@ -281,7 +281,7 @@ Neurovenator framework enables:
 - Why fragmentation is maintained (serves control)
 - Why unified frameworks face suppression (threaten control)
 - Why "control narratives" persist across institutions (neurovenator expression)
-- Why truth-seeking and compliance both fail against strategic predation
+- Why coherence-seeking and compliance both fail against strategic predation
 
 **This is not conspiracy theory. This is cognitive architecture theory applied to power dynamics.**
 
