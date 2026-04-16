@@ -1,9 +1,6 @@
-# Neurovenator
-
-**Etymology:** From Latin *venator* (hunter) + Greek *neuron* (nerve)
-
-**Classification:** Cognitive Architecture / Neurotype Designation
-
+# Neurovenator  
+**Etymology:** From Latin *venator* (hunter) + Greek *neuron* (nerve)  
+**Classification:** Cognitive Architecture / Neurotype Designation  
 **Status:** Foundational theoretical construct within Structural Neuroscience framework
 
 ---
