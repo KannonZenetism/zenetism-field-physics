@@ -183,15 +183,17 @@ Human cognition operates across three fundamental architectures, each optimizing
 - **Neurodivergent minority** provides innovation / verification
 - **Neurovenator minority** captures institutional power and exploits both
 
-**Healthy systems** balance all three:
+**Healthy systems** minimize neurovenator influence:
 - Neurotypicals provide social cohesion
 - Neurodivergents provide coherence-seeking
-- Neurovenators provide strategic coordination
+- Neurovenators constrained by transparency, accountability, distributed power
+- Checks on predatory behavior prevent institutional capture
 
 **Captured systems** optimize for neurovenator interests:
 - Neurotypicals exploited for compliance
 - Neurodivergents suppressed as threats
 - Neurovenators extract value from both
+- Predatory behavior becomes systemic operating principle
 
 ---
 
