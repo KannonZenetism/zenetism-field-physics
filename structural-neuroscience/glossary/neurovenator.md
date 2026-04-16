@@ -1,6 +1,9 @@
-# Neurovenator  
-**Etymology:** From Latin *venator* (hunter) + Greek *neuron* (nerve)  
-**Classification:** Cognitive Architecture / Neurotype Designation  
+# Neurovenator
+
+**Etymology:** From Latin *venator* (hunter) + Greek *neuron* (nerve)
+
+**Classification:** Cognitive Architecture / Neurotype Designation
+
 **Status:** Foundational theoretical construct within Structural Neuroscience framework
 
 ---
@@ -9,7 +12,7 @@
 
 **Neurovenator** designates a third fundamental cognitive operating system, distinct from both neurotypical and neurodivergent architectures, characterized by the strategic understanding and exploitation of other neurotypes for the acquisition and maintenance of power, control, and resource dominance.
 
-Unlike neurotypical cognition (which optimizes for social belonging and group compliance) or neurodivergent cognition (which optimizes for logical coherence and independent verification), neurovenator cognition **optimizes for strategic dominance through manipulation of cognitive systems it does not itself submit to**.
+Unlike neurotypical cognition (which optimizes for social belonging and group compliance) or neurodivergent cognition (which optimizes for structural coherence and independent verification), neurovenator cognition **optimizes for strategic dominance through manipulation of cognitive systems it does not itself submit to**.
 
 ---
 
@@ -19,7 +22,7 @@ Unlike neurotypical cognition (which optimizes for social belonging and group co
 
 1. **Meta-cognitive Awareness**
    - Understands neurotypical compliance mechanisms without being bound by them
-   - Recognizes neurodivergent truth-seeking patterns and suppresses them as threats
+   - Recognizes neurodivergent coherence-seeking patterns and suppresses them as threats
    - Operates from outside both systems while exploiting both
 
 2. **Strategic Manipulation**
@@ -30,7 +33,7 @@ Unlike neurotypical cognition (which optimizes for social belonging and group co
 
 3. **Power Optimization**
    - Primary motivation: acquisition and maintenance of control
-   - Secondary concerns: truth (instrumental only), belonging (irrelevant)
+   - Secondary concerns: veracity (instrumental only), belonging (irrelevant)
    - Relationships treated as instrumental rather than intrinsic
    - Moral frameworks applied selectively based on strategic utility
 
@@ -47,19 +50,19 @@ Unlike neurotypical cognition (which optimizes for social belonging and group co
 ### Neurotypical Operating System
 - **Motivation:** Social belonging, group acceptance
 - **Authority relationship:** Automatic deference, compliance reduces anxiety
-- **Truth orientation:** Accepts consensus, outsources verification
+- **Veracity orientation:** Accepts consensus, outsources verification
 - **Control relationship:** Submits to authority structures
 
 ### Neurodivergent Operating System
 - **Motivation:** Logical coherence, independent understanding
 - **Authority relationship:** Evaluates claims independently, requires justification
-- **Truth orientation:** Seeks verification, rejects unjustified consensus
+- **Veracity orientation:** Seeks verification, rejects unjustified consensus
 - **Control relationship:** Stands outside authority/obedience axis
 
 ### Neurovenator Operating System
 - **Motivation:** Power acquisition, strategic dominance
 - **Authority relationship:** Creates authority structures, does not submit to them
-- **Truth orientation:** Instrumental only (truth used when strategically useful)
+- **Veracity orientation:** Instrumental only (veracity used when strategically useful)
 - **Control relationship:** Establishes and maintains control systems
 
 ---
