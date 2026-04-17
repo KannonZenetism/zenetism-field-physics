@@ -298,7 +298,7 @@ Neurovenator framework enables:
 - Why fragmentation is maintained (serves control)
 - Why unified frameworks face suppression (threaten control)
 - Why "control narratives" persist across institutions (neurovenator expression)
-- Why coherence-seeking and compliance both fail against strategic predation
+- Why coherence‑seeking and compliance are not optimized for strategic predation
 
 **This is not conspiracy theory. This is cognitive architecture theory applied to power dynamics.**
 
