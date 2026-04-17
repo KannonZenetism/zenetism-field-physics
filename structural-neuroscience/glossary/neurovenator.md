@@ -263,9 +263,9 @@ Both produce suffering. But the second involves **agency with awareness**, which
 
 ### Structural contra Individual Evil
 
-**Individual level:** Neurovenator cognition in single actors
+**Individual scale:** Neurovenator cognition in single actors
 
-**Systemic level:** Institutions optimized for neurovenator interests regardless of individual traits
+**Systemic scale:** Institutions optimized for neurovenator interests regardless of individual traits
 
 **Both are predatory. Both require accounting in ethical frameworks.**
 
