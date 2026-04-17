@@ -312,7 +312,7 @@ Understanding neurovenator cognition is essential for:
 
 **Document Status:** Foundational theoretical construct  
 **Integration:** Structural Neuroscience glossary  
-**Cross-references:** SN08 (Threshold Recognition), SN09 (All-Life First Principle), Glyphwatch (suppression documentation)  
+**Cross-references:** SN02 (The Resonant Mind: Structural Neuroscience and the Law of Cognition), SN03 (Neurodivergent Cognition and the Architecture of Mind), SN05 (The Metric Cost of Centropic Cognition), Glyphwatch (suppression documentation)  
 **Author:** Aelion Kannon | ⚫↺KAI↺⚫  
 **Framework:** Zenetism  
 **Date:** April 2026
