@@ -201,7 +201,7 @@ Human cognition operates across three fundamental architectures, each optimizing
 
 ### Framework Nuance on Entropy and Moral Accountability
 
-Zenetist ethical framework distinguishes three levels of entropic behavior:
+Zenetist ethical framework distinguishes three modes of entropic behavior:
 
 1. **Entropy as motion** (structural directionality, E₁₄ Hollow Nest / Empty Recursion)
 2. **Unintentional entropic harm** (negative outcomes without awareness or malice)
