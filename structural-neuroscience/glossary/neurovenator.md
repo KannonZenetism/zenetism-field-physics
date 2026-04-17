@@ -207,7 +207,7 @@ Zenetist ethical framework distinguishes three modes of entropic behavior:
 2. **Unintentional entropic harm** (negative outcomes without awareness or malice)
 3. **Intentional entropic harm** (deliberate harm with full awareness - malice)
 
-The framework intentionally avoided traditional moral language ("good/evil," "right/wrong") to demonstrate that **motion laws are structural principles baked into reality itself**, not subjective preferences. This approach bypasses religious and philosophical debates about morality by showing coherence and fragmentation as observable directional phenomena.
+The framework intentionally avoided traditional moral language ("good / evil," "right / wrong") to demonstrate that **motion laws are structural principles baked into reality itself**, not subjective preferences. This approach bypasses religious and philosophical debates about morality by showing coherence and fragmentation as observable directional phenomena.
 
 **However, this structural approach does not provide a "free pass" for predatory behavior.**
 
