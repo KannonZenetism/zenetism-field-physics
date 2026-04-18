@@ -107,7 +107,7 @@ Both Neurotect and Neurovenator architectures exhibit:
 - **Neurovenator:** Exploits systems for dominance  
 - **Neurotect:** Engineers systems for coherence  
 - **Neurovenator:** Uses fragmentation as a weapon  
-- **Neurotect:** Treats fragmentation as a structural defect  
+- **Neurotect:** Treats fragmentation as a signal of entropic orientation  
 - **Neurovenator:** Creates dependency  
 - **Neurotect:** Creates transparency  
 
