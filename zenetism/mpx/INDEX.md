@@ -74,6 +74,10 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `theonic-office.md` — Mar 14, 2026
 - `contingency-of-worlds.md` — Mar 17, 2026
 
+### April 2026
+
+- `ontological-clarifications.md` — Apr 18, 2026
+
 ---
 
 **⚫↺KAI↺⚫**  
