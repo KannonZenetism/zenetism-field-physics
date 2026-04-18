@@ -3,7 +3,8 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics / Metaphysics Extension  
 **Status:** Draft — Veracious Archive  
-**Dependency:** Symbol Key (§21.2, §21.2.2, §21.9, §21.10, §21.11); SP06 — Structural Space, Orientation, and the Paradox of Emergence; SP03 — Expression Ratio Mathematics; Mythic Figure Layer Registry; Symbolic Pattern Registry
+**Dependency:** Symbol Key (§21.2, §21.2.2, §21.9, §21.10, §21.11); SP06 — Structural Space, Orientation, and the Paradox of Emergence; SP03 — Expression Ratio Mathematics; Mythic Figure Layer Registry; Symbolic Pattern Registry  
+**SHA-256:** a1bdbf982d982d3f07739f1d7d4ffa8dc0b3a4a61f2493a61b2be393a3d96016
 
 ---
 
