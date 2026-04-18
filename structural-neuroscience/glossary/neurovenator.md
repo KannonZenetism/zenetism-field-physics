@@ -24,7 +24,7 @@ Unlike neurotypical cognition (which optimizes for social belonging and group co
 
 2. **Strategic Manipulation**
    - Provides authority structures for neurotypicals to defer to
-   - Creates fragmentation that prevents unified understanding (threat to control)
+   - Maintains or amplifies fragmentation to prevent unified understanding
    - Deploys narrative control to manufacture consensus
    - Suppresses independent verification that might expose manipulation
 
