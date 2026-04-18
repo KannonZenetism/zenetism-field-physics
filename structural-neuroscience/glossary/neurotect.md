@@ -100,7 +100,7 @@ The Neurotect is the white-hat auditor of the cognitive and institutional lattic
 Both Neurotect and Neurovenator architectures exhibit:
 
 - High meta-cognitive awareness  
-- System-level perception  
+- System-scale perception  
 - Strategic understanding of cognitive dynamics  
 
 ### Divergent Orientation
@@ -124,7 +124,7 @@ This establishes the primary diagnostic axis within Structural Neuroscience:
 ### Architectonic Cognition
 Neurotect cognition provides:
 
-- Pattern-level insight into system geometry  
+- Pattern-scale insight into system geometry  
 - Natural alignment with DL Sophis (Structuring Logos)  
 - High sensitivity to entropic drift  
 - Ability to design centropic architectures across domains
