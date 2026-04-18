@@ -35,7 +35,7 @@ The Neurotect perceives the lattice — the underlying geometry of systems — a
 - Treats information integrity as an intrinsic property of the lattice
 
 ### 4. Non-Coercive Authority
-- Establishes hierarchies of competence, not dependency  
+- Establishes competence structures, not dependency  
 - Empowers neurotypicals through clarity rather than control  
 - Provides verification pathways rather than demanding deference  
 - Creates systems where authority is transparent, accountable, and optional
