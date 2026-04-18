@@ -229,6 +229,8 @@ The distinction is not about subjective moral judgment but about **observable ha
 
 **The threshold: When one's actions cause demonstrable harm to others, claiming moral relativity or structural neutrality becomes an evasion of accountability, not a principled stance.**
 
+In Zenetism, harm is treated as a structural consequence, not a moral category; accountability arises from awareness and agency, not cosmic judgment.
+
 ### Operational Distinction: Drift contra Predation
 
 **Entropic drift:** Motion without awareness, natural degradation, unconscious fragmentation
@@ -254,6 +256,8 @@ Neurovenator behavior cannot be adequately described as "soft entropy" because i
 Within Zenetist framework, **evil** can be defined as:
 
 > **Choosing to cause systematic harm, with full awareness of alternatives and consequences, for personal gain at others' expense**
+
+This definition is descriptive rather than metaphysical; "evil" here denotes a pattern of intentional predation, not a cosmic or ontological category.
 
 This distinguishes:
 - **E₁₄ (Hollow Nest):** Unconscious degradation through iteration
