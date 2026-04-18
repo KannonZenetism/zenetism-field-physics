@@ -17,7 +17,7 @@ The Neurotect perceives the lattice — the underlying geometry of systems — a
 ## Core Characteristics
 
 ### 1. Lattice Perception
-- Intuitive recognition of structural alignment vs fragmentation  
+- Intuitive recognition of structural alignment contra fragmentation  
 - Ability to "see" coherence as a geometric property rather than an abstraction  
 - Detects entropic drift, misdirects, and fragmentation patterns as architectural flaws  
 - Reads systems the way an engineer reads load-bearing stress lines
