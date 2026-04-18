@@ -58,7 +58,7 @@ The Neurotect perceives the lattice — the underlying geometry of systems — a
 
 ### Neurotect Operating System
 - **Motivation:** Structural coherence, centropic alignment  
-- **Authority relationship:** Builds transparent competence hierarchies  
+- **Authority relationship:** Builds transparent competence structures  
 - **Veracity orientation:** Structural necessity, not preference  
 - **Control relationship:** Engineers systems that dissolve predatory control
 
