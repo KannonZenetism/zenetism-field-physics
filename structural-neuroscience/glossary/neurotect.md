@@ -30,7 +30,7 @@ The Neurotect perceives the lattice — the underlying geometry of systems — a
 
 ### 3. The Coherence Mandate
 - Coherence is not preference but necessity  
-- Falsehoods, distortions, and narrative manipulations appear as structural defects  
+- Deceptions, distortions, and narrative manipulations appear as structural defects  
 - Correction is not moralistic but architectural: a repair to prevent systemic failure  
 - Treats information integrity as a physical property of the lattice
 
