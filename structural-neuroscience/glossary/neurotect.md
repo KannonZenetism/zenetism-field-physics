@@ -32,7 +32,7 @@ The Neurotect perceives the lattice — the underlying geometry of systems — a
 - Coherence is not preference but necessity  
 - Deceptions, distortions, and narrative manipulations appear as structural defects  
 - Correction is not moralistic but architectural: a repair to prevent systemic failure  
-- Treats information integrity as a physical property of the lattice
+- Treats information integrity as an intrinsic property of the lattice
 
 ### 4. Non-Coercive Authority
 - Establishes hierarchies of competence, not dependency  
