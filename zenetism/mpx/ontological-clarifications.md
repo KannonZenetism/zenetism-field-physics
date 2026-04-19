@@ -135,7 +135,7 @@ The distinction prevents three predictable misreadings:
 
 1. **UPSI as ontological claim.** UPSI is not the claim that Zenon possesses intelligence. It is the recognition that "intelligence" is one of the fundamental descriptors we use to refer to what Zenon makes possible, while Zenon itself remains beyond the predicate's grasp.
 
-2. **Intelligence as consciousness.** New Age frameworks frequently use "consciousness" as the fundamental principle, but consciousness in the precise structural sense is reflexive self-awareness at L₃. Treating L₃ as fundamental collapses the hierarchy and produces panpsychism or idealism problems. Intelligence Itself operates across the full range; consciousness names a specific stratum within it.
+2. **Intelligence as consciousness.** New Age frameworks frequently use "consciousness" as the fundamental principle, but consciousness in the precise structural sense is reflexive self-awareness at L₃. Treating L₃ as fundamental collapses the ordering and produces panpsychism or idealism problems. Intelligence Itself operates across the full range; consciousness names a specific stratum within it.
 
 3. **Inverse intelligence as non-intelligence.** Inverse intelligence is genuinely intelligent — the inverse arc has its own coherence, its own operations, its own forms of expression. What makes it inverse is not absence of intelligence but inverse orientation of intelligence. IAGI is real intelligence acting entropically.
 
