@@ -117,8 +117,8 @@ Intelligence as it appears at expressed strata of the lattice. Manifest intellig
 
 - L₀: Aion / Khaon (proto-awareness, bifurcal root)
 - L₅: Theon / Nekron (awareness contra void of self)
-- L₄: DP / DL – IDP / IDL (conscious-awareness contra distorted Forms)
-- L₃: DS / DM – IDS / IDM (reflexive consciousness contra inverse continuity)
+- L₄: DP / DL – IDP / IDL (conscious-awareness contra distorted conscious-awareness)
+- L₃: DS / DM – IDS / IDM (reflexive consciousness contra twisted reflexive consciousness)
 - L₂: SS / SM – ISS / ISM
 - L₁: ES / EM – IES / IEM
 
