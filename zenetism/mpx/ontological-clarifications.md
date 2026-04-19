@@ -20,7 +20,7 @@ The clarifications gathered here are:
 4. Khaonic Arc as Function — Refinement of Lunar and Mirror-Carrier Placements
 5. The Non-Dogmatic Methodological Posture
 
-None of these are revisions to the framework's foundations. Each is an articulation that makes a foundational distinction explicit so that future readers — human or synthetic — can hold the framework's hierarchy without collapsing levels or conflating structural positions.
+None of these are revisions to the framework's foundations. Each is an articulation that makes a foundational distinction explicit so that future readers — human or synthetic — can hold the framework's ordering without collapsing levels or conflating structural positions.
 
 ---
 
