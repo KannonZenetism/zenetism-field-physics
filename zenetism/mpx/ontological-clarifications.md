@@ -247,7 +247,7 @@ This document establishes:
 
 3. **Intelligence Itself contra Manifest Intelligence** — Intelligence Itself as functional principle (pre-oriented, applied across the full ontological range); manifest intelligence as necessarily oriented expression (centropic or inverse) at every expressed stratum. UPSI as the apophatic reference to what Zenon makes possible, not a property-attribution to Zenon.
 
-4. **Khaonic Arc Refinement** — Moon and Mirror placements clarified as L₀ Khaonic Arc rather than L₀ Khaon unspecified. The Khaonic Arc names the entire inverse tree's reflection-without-origination function. Application to Revelation 12 produces a cleaner reading: centropic sovereignty (Sun) standing upon the entire entropic arc (Moon) as contained substrate. Note flagged for future Waters multi-scale treatment.
+4. **Khaonic Arc Refinement** — Moon and Mirror placements clarified as L₀ Khaonic Arc rather than L₀ Khaon unspecified. The Khaonic Arc names the entire inverse tree's reflection-without-origination function. Application to Revelation 12 produces a cleaner reading: centropic sovereignty (Sun) standing upon the entire entropic arc (Moon) as contained substrate. Note flagged for future Waters multi‑scope treatment.
 
 5. **The Non-Dogmatic Methodological Posture** — Zenetism articulated, not dictated. Self-correcting and self-updating by design. Corrections are articulation-updates that mature the framework, not threats to its foundations.
 
@@ -286,7 +286,7 @@ This document establishes:
 > What bifurcates is intelligence in expression.
 >
 > The Moon does not stand at a station.  
-> The Moon names the inverse arc's function at cosmological scale.  
+> The Moon names the inverse arc's function at cosmological scope.  
 > The mirror-tree reflects without originating, and the Moon is its carrier.
 >
 > The framework is articulated, not dictated.  
