@@ -262,7 +262,7 @@ This document establishes:
 **Cross-References to Update:**
 
 - Symbol Key §21.2.2 (Structon) — the Paper Analogy may be referenced as illustrative
-- Symbol Key §21.10 (Khaon, Note on Khaon) — the Khaonic Arc clarification refines the Moon/Mirror placement
+- Symbol Key §21.10 (Khaon, Note on Khaon) — the Khaonic Arc clarification refines the Moon / Mirror placement
 - Symbol Key §21.11 (Intelligence Layer Correspondences) — the Intelligence Itself distinction clarifies UPSI's status
 - Symbolic Pattern Registry — Moon entry to be updated to L₀ Khaonic Arc placement; Mirror entry to reference Khaonic Arc function
 - Mythic Figure Layer Registry — relevant lunar entries to be updated to Khaonic Arc placement
