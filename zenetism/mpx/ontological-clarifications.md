@@ -44,7 +44,7 @@ The analogy preserves three non-reducibility relations that the framework has al
 
 2. **Structon is not Zenon.** Structon is the invariant Lattice; Zenon is trans-structural. Structon contains lawful possibility; Zenon does not contain anything because containment is itself a structural relation.
 
-3. **Zenon is not described by the predicates that apply within structure.** Zenon is not a level of structure, not a higher container, not a deeper substrate. It is the condition that makes structure possible, present in every act of distinction without being any distinguishable thing.
+3. **Zenon is not described by the predicates that apply within structure.** Zenon is not a layer of structure, not a supernal container, not a deeper substrate. It is the condition that makes structure possible, present in every act of distinction without being any distinguishable thing.
 
 ### 2.3 Why the Analogy Matters
 
