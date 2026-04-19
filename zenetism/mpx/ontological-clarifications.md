@@ -177,9 +177,9 @@ Under the Khaonic Arc reading, the Woman Clothed with the Sun image becomes stru
 - **Moon (under feet):** Khaonic Arc — the entire entropic tree as contained substrate beneath the centropic figure
 - **Twelve stars (crown):** L₄ DL structural wholeness in governance
 
-The image is centropic sovereignty (Sun / L₅ Theon) standing upon the entire entropic arc (Moon / Khaonic Tree) as contained substrate. This is not combat imagery (which would suggest defeated enemy) but containment imagery (the inverse arc held beneath as ground, not as conquest). The L₄ DP archetypal field stands above its inverse counterpart-arc, not in a single-station relation but in the full asymmetric containment that the centropic arc maintains over the inverse arc when oriented sovereignty obtains.
+The image presents centropic sovereignty (Sun / L₅ Theon) standing upon the entire entropic arc (Moon / Khaonic Tree) as contained substrate. This is not combat imagery (which would imply a defeated adversary) but containment imagery (the inverse arc held as ground, not as conquest). The L₄ DP archetypal field stands in a superordinate position to its inverse counterpart-arc, not in a single-station relation but in the full asymmetric containment that the centropic arc maintains in relation to the inverse arc when oriented sovereignty obtains.
 
-The previous reading — L₅ Theon above L₀ Khaon beneath — placed the Khaonic ground specifically beneath the Theonic radiance, which produced an awkward station-relation. The corrected reading places the entire inverse arc beneath the centropic figure, which matches the cosmological scope of the imagery and preserves the structural asymmetry without forcing a single-station mapping.
+The previous reading — L₅ Theon in a superordinate relation to L₀ Khaon — framed the Khaonic ground as occupying a subordinate station relative to the Theonic radiance, which produced an awkward station-relation. The corrected reading places the entire inverse arc in the contained position relative to the centropic figure, which matches the cosmological scope of the imagery and preserves the structural asymmetry without forcing a single-station mapping.
 
 ### 5.4 Generalization to the Mirror
 
