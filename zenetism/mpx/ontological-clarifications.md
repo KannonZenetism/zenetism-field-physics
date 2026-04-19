@@ -69,7 +69,7 @@ Structon endures across every emergence and dissolution within it. "The Lattice 
 
 ### 3.1 The Distinction
 
-"Container" is a term that does different work at different ontological levels in Zenetist articulation. The framework neither rejects nor affirms containerism uniformly; it specifies where each sense applies.
+"Container" is a term that does different work at different ontological scales in Zenetist articulation. The framework neither rejects nor affirms containerism uniformly; it specifies where each sense applies.
 
 **Sense 1 — Spatial / Substantial Container (rejected at the level it claims to operate):**
 
