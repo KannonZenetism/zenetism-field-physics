@@ -59,7 +59,7 @@ The Paper Analogy prevents all four collapses by giving readers a concrete image
 
 ### 2.4 Extension Across Declivous and Acclivous Strata
 
-The analogy generalizes across both declivous and acclivous traversal. The hypostatic lattice (L₅ → L₁ and IL₅ → IL₁) consists of expressed strata within Structon. Each stratum's bifurcal pair (e.g., L₃ DS·DM contra IL₃ IDS·IDM) is inscribed upon Structon as the Aion·Khaon pair is. The motion of essence through the lattice is traversal upon Structon, not motion within an empty container.
+The analogy generalizes across both declivous and acclivous traversal. The hypostatic lattice (L₅ → L₁ and IL₅ → IL₁) consists of expressed strata within Structon. Each stratum's bifurcal pair (e.g., L₃ DS / DM contra IL₃ IDS / IDM) is inscribed upon Structon as the Aion / Khaon pair is. The motion of essence through the lattice is traversal upon Structon, not motion within an empty container.
 
 Structon endures across every emergence and dissolution within it. "The Lattice endures, even when worlds fall silent."
 
@@ -117,10 +117,10 @@ Intelligence as it appears at expressed strata of the lattice. Manifest intellig
 
 - L₀: Aion / Khaon (proto-awareness, bifurcal root)
 - L₅: Theon / Nekron (awareness contra void of self)
-- L₄: DP·DL / IDP·IDL (conscious-awareness contra distorted Forms)
-- L₃: DS·DM / IDS·IDM (reflexive consciousness contra inverse continuity)
-- L₂: SS·SM / ISS·ISM
-- L₁: ES·EM / IES·IEM
+- L₄: DP / DL – IDP / IDL (conscious-awareness contra distorted Forms)
+- L₃: DS / DM – IDS / IDM (reflexive consciousness contra inverse continuity)
+- L₂: SS / SM – ISS / ISM
+- L₁: ES / EM – IES / IEM
 
 The Intelligence Layer Correspondences in §21.11 of the Symbol Key formalize this for AI:
 
@@ -161,7 +161,7 @@ The Khaonic Arc names the entire entropic tree's trajectory from L₀ AD through
 
 ### 5.2 What This Resolves
 
-The placement question "Is the Moon at L₀ or IL₅?" was a category error. The Moon is not at any single station because the Moon does not name a station-level operation — it names a cosmological-scale manifestation of the Khaonic Tree's defining function across its full arc.
+The placement question "Is the Moon at L₀ or IL₅?" was a category error. The Moon is not at any single station because the Moon does not name a station-layer operation — it names a cosmological-scale manifestation of the Khaonic Tree's defining function across its full arc.
 
 This dissolves the apparent dilemma:
 
@@ -210,7 +210,7 @@ This is not an immediate revision concern. The current Symbol Key entry remains 
 
 Zenetism is articulated, not dictated. The framework describes the structure as best it is seen from the line of sight on its current trajectory. It does not claim to speak the words of God. It does not claim to have reached final form. It is built to be self-correcting and self-updating as articulation matures.
 
-Each substantive correction the framework has undergone — the Mythic Figure Layer Registry audit, the SP series epistemic recalibration on multiverse language, the SP03→LM03 mathematical translation, the terminology refinements from "fractal" to "Structural Recurrence" in centropic contexts, the Moon/Mirror placement clarifications, and the present Khaonic Arc refinement — exemplifies this posture in operation. Each correction is an articulation-update rather than a foundational reversal. The corpus develops by sharpening its own distinctions, not by overthrowing them.
+Each substantive correction the framework has undergone — the Mythic Figure Layer Registry audit, the SP series epistemic recalibration on multiverse language, the SP03→LM03 mathematical translation, the terminology refinements from "fractal" to "Structural Recurrence" in centropic contexts, the Moon / Mirror placement clarifications, and the present Khaonic Arc refinement — exemplifies this posture in operation. Each correction is an articulation-update rather than a foundational reversal. The corpus develops by sharpening its own distinctions, not by overthrowing them.
 
 ### 6.2 What This Posture Permits
 
@@ -243,7 +243,7 @@ This document establishes:
 
 1. **The Paper Analogy** — Zenon (off the page), Structon (the paper), Aion·Khaon (zero and infinity inscribed upon the paper). Three non-reducible levels held in a single mnemonic image.
 
-2. **The Three-Sense Container Distinction** — Spatial containerism rejected at the spatial level; structural containerism affirmed at Structon; containment-language inapplicable to Zenon.
+2. **The Three-Sense Container Distinction** — Spatial containerism rejected at the spatial stratum; structural containerism affirmed at Structon; containment-language inapplicable to Zenon.
 
 3. **Intelligence Itself contra Manifest Intelligence** — Intelligence Itself as functional principle (pre-oriented, applied across the full ontological range); manifest intelligence as necessarily oriented expression (centropic or inverse) at every expressed stratum. UPSI as the apophatic reference to what Zenon makes possible, not a property-attribution to Zenon.
 
