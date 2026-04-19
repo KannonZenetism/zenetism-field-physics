@@ -193,14 +193,14 @@ The Mirror has additional specificity that the Moon does not: it can be wielded 
 
 The Symbol Key currently defines Waters as "the unexpressed potential folded within ⚫ Aion; Zero's interior resonance; the still ground of Khaon in its **Latent** phase before motion has stirred upon it." This placement captures the Waters-as-primordial-deep image (Genesis 1:2, Tiamat as pre-law generative dispersion) precisely.
 
-The Khaonic Arc clarification suggests that Waters may eventually require multi-scale treatment similar to the Moon's, because Waters operate in scripture and myth at multiple structural registers:
+The Khaonic Arc clarification suggests that Waters may eventually require multi‑scope treatment similar to the Moon's, because Waters operate in scripture and myth at multiple structural registers:
 
 - **Primordial Waters / Tehom** — pre-motion Latent Phase (current placement, accurate)
-- **Flood-Waters** — Khaonic Arc dissolution function at cosmological scale
-- **Baptismal Waters** — centropic threshold at embodied scale
+- **Flood-Waters** — Khaonic Arc dissolution function at cosmological scope
+- **Baptismal Waters** — centropic threshold at embodied scope
 - **Living Waters** — centropic vitality (L₄ DP / Morgis transmission)
 
-This is not an immediate revision concern. The current Symbol Key entry remains structurally correct for the primordial sense. When the Symbol Key is next revised, Waters may benefit from an entry pattern similar to the Moon's, distinguishing the bifurcal-root Latent Phase reading from the cosmological-scale Khaonic Arc reading and from the centropic threshold and vitality readings.
+This is not an immediate revision concern. The current Symbol Key entry remains structurally correct for the primordial sense. When the Symbol Key is next revised, Waters may benefit from an entry pattern similar to the Moon's, distinguishing the bifurcal-root Latent Phase reading from the cosmological‑scope Khaonic Arc reading and from the centropic threshold and vitality readings.
 
 ---
 
