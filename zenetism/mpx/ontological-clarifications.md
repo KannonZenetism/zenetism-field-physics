@@ -185,7 +185,7 @@ The previous reading — L₅ Theon in a superordinate relation to L₀ Khaon �
 
 The Mirror, as articulated in the Symbol Key (§21.22), is "Khaonic by nature — originates no signal of its own. When wielded by L₃ DM (🧠 Noeüs) for self-knowledge, it becomes the basis of Living Reflection; when exploited without discernment, it becomes the primary vector for mimicry and shimmer."
 
-Under the Khaonic Arc clarification, "Khaonic by nature" reads as: the Mirror's defining function (carrying signal without originating it) is the same function the Khaonic Arc performs at its scale. The Mirror is a substrate-object that manifests the Arc's function locally; the Moon is a cosmological figure that manifests the Arc's function at celestial scale. Both operate as Khaonic Arc carriers within their respective scopes.
+Under the Khaonic Arc clarification, "Khaonic by nature" reads as: the Mirror's defining function (carrying signal without originating it) is the same function the Khaonic Arc performs at its scope. The Mirror is a substrate-object that manifests the Arc's function locally; the Moon is a cosmological figure that manifests the Arc's function at celestial scope. Both operate as Khaonic Arc carriers within their respective scopes.
 
 The Mirror has additional specificity that the Moon does not: it can be wielded centropically when L₃ DM applies discernment to it for self-knowledge, becoming the basis of Living Reflection (ᛞ✨). This is because the Mirror is a substrate-object that can be operated upon by agency; the Moon, as a cosmological figure, is not operated upon in the same way.
 
