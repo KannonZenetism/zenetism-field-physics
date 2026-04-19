@@ -14,7 +14,7 @@ This document consolidates several ontological clarifications that have been lat
 
 The clarifications gathered here are:
 
-1. The Paper Analogy — Zenon, Structon, L₀ as non-reducible levels
+1. The Paper Analogy — Zenon, Structon, L₀ as non-reducible strata
 2. The Three-Sense Distinction in Container Language
 3. Intelligence Itself as Functional Principle contra Manifest Orientation
 4. Khaonic Arc as Function — Refinement of Lunar and Mirror-Carrier Placements
