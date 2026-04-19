@@ -77,7 +77,7 @@ Newtonian containerism treats space as a substantival container within which bod
 
 **Sense 2 — Structural Invariant Container (affirmed at the structural stratum):**
 
-Structon is the container of lawful possibility. "Absolute Structure (SI) is the invariant container of all possible expression, motion, and relation." This is not a spatial container and not a substantial container — it is the invariant Lattice that holds all lawful possibility, the condition that makes distinction, motion, and orientation possible. At the structural level, Structon does the containing-work, but the containing is logical-structural, not material-spatial.
+Structon is the container of lawful possibility. "Absolute Structure (SI) is the invariant container of all possible expression, motion, and relation." This is not a spatial container and not a substantial container — it is the invariant Lattice that holds all lawful possibility, the condition that makes distinction, motion, and orientation possible. At the structural stratum, Structon does the containing-work, but the containing is logical-structural, not material-spatial.
 
 **Sense 3 — No Container Applicable (Zenon):**
 
