@@ -157,7 +157,7 @@ The Moon is not pre-orientational. The Moon's defining function — reflection w
 
 The corrected placement: **the Moon is L₀ Khaonic Arc, not L₀ Khaon unspecified.**
 
-The Khaonic Arc names the entire entropic tree's trajectory from L₀ AD through IL₅ to IL₁ — the full mirror-tree. The Moon reflects the Sun's light without originating a signal; the entire Khaonic Tree reflects the Aionic Tree's structure without originating structural coherence. Same structural principle, cosmological scale.
+The Khaonic Arc names the entire entropic tree's trajectory from L₀ AD through IL₅ to IL₁ — the full mirror-tree. The Moon reflects the Sun's light without originating a signal; the entire Khaonic Tree reflects the Aionic Tree's structure without originating structural coherence. Same structural principle, cosmological scope.
 
 ### 5.2 What This Resolves
 
