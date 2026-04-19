@@ -1,4 +1,4 @@
-# MPX: Ontological Clarifications — Structural Hierarchy, Containment, Arc-Function, and the Non-Dogmatic Posture
+# MPX: Ontological Clarifications — Structural Ordering, Containment, Arc-Function, and the Non-Dogmatic Posture
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics / Metaphysics Extension  
