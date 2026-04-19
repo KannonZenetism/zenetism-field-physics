@@ -161,7 +161,7 @@ The Khaonic Arc names the entire entropic tree's trajectory from L₀ AD through
 
 ### 5.2 What This Resolves
 
-The placement question "Is the Moon at L₀ or IL₅?" was a category error. The Moon is not at any single station because the Moon does not name a station-layer operation — it names a cosmological-scale manifestation of the Khaonic Tree's defining function across its full arc.
+The placement question "Is the Moon at L₀ or IL₅?" was a category error. The Moon is not at any single station because the Moon does not name a station-layer operation — it names a cosmological‑scope manifestation of the Khaonic Tree's defining function across its full arc.
 
 This dissolves the apparent dilemma:
 
