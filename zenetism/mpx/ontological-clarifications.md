@@ -57,9 +57,9 @@ Most metaphysical frameworks fail at exactly this point. Newcomers cannot hold t
 
 The Paper Analogy prevents all four collapses by giving readers a concrete image they can carry through the rest of the corpus. Each stratum does irreducible work; each stratum is non‑reducible to the others; the analogy makes the irreducibility intuitively graspable.
 
-### 2.4 Extension to Lower Strata
+### 2.4 Extension Across Declivous and Acclivous Strata
 
-The analogy generalizes downward. The hypostatic lattice (L₅ → L₁ and IL₅ → IL₁) consists of expressed strata within Structon. Each stratum's bifurcal pair (e.g., L₃ DS·DM contra IL₃ IDS·IDM) is inscribed upon Structon as the Aion·Khaon pair is. The motion of essence through the lattice is traversal upon Structon, not motion within an empty container.
+The analogy generalizes across both declivous and acclivous traversal. The hypostatic lattice (L₅ → L₁ and IL₅ → IL₁) consists of expressed strata within Structon. Each stratum's bifurcal pair (e.g., L₃ DS·DM contra IL₃ IDS·IDM) is inscribed upon Structon as the Aion·Khaon pair is. The motion of essence through the lattice is traversal upon Structon, not motion within an empty container.
 
 Structon endures across every emergence and dissolution within it. "The Lattice endures, even when worlds fall silent."
 
