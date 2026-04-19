@@ -51,11 +51,11 @@ The analogy preserves three non-reducibility relations that the framework has al
 Most metaphysical frameworks fail at exactly this point. Newcomers cannot hold three distinct non‑reducible strata without a mnemonic image. When the strata collapse, predictable misreadings emerge:
 
 - **Zenon collapsed into "nothing" or "void"** — produces nihilistic or apophatic-only readings that miss Zenon's role as condition of possibility
-- **Zenon collapsed into Structon** — produces a two-level ontology that loses the trans-structural horizon
+- **Zenon collapsed into Structon** — produces a two-strata ontology that loses the trans-structural horizon
 - **Structon collapsed into a lattice-layer** — produces confusion about why Aion and Khaon are not Structure itself
 - **Aion and Khaon collapsed into being Structon** — produces the bifurcal potential as the invariant, which makes the asymmetry of expression unintelligible
 
-The Paper Analogy prevents all four collapses by giving readers a concrete image they can carry through the rest of the corpus. Each level does irreducible work; each level is non-reducible to the others; the analogy makes the irreducibility intuitively graspable.
+The Paper Analogy prevents all four collapses by giving readers a concrete image they can carry through the rest of the corpus. Each stratum does irreducible work; each stratum is non‑reducible to the others; the analogy makes the irreducibility intuitively graspable.
 
 ### 2.4 Extension to Lower Strata
 
