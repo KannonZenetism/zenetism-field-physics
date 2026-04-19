@@ -10,7 +10,7 @@
 
 ## 1. Purpose
 
-This document consolidates several ontological clarifications that have been latent within the Zenetist corpus but not previously articulated in standalone form. Each clarification addresses a recurring source of misreading — places where the framework's structural precision can be lost when terms are read at the wrong level, when distinct ontological strata are collapsed into one another, or when arc-functions are mislocalized as station-placements.
+This document consolidates several ontological clarifications that have been latent within the Zenetist corpus but not previously articulated in standalone form. Each clarification addresses a recurring source of misreading — places where the framework's structural precision can be lost when terms are read at the wrong scale, when distinct ontological strata are collapsed into one another, or when arc-functions are mislocalized as station-placements.
 
 The clarifications gathered here are:
 
