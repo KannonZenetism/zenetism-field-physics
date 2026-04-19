@@ -71,7 +71,7 @@ Structon endures across every emergence and dissolution within it. "The Lattice 
 
 "Container" is a term that does different work at different ontological scales in Zenetist articulation. The framework neither rejects nor affirms containerism uniformly; it specifies where each sense applies.
 
-**Sense 1 — Spatial / Substantial Container (rejected at the level it claims to operate):**
+**Sense 1 — Spatial / Substantial Container (rejected at the register it claims to operate):**
 
 Newtonian containerism treats space as a substantival container within which bodies move. Zenetism rejects this at the spatial level. Space is "the relational differentiation produced by structural traversal" (SP06 §1.1), not a substance, not a domain in which structure resides, not an independent ontological principle. At the spatial level, no container exists in the substantival sense.
 
