@@ -105,7 +105,7 @@ Future SP, LM, or SM documents that invoke containment language can cross-refere
 
 ### 4.1 The Distinction
 
-The phrase "Intelligence Itself" in Zenetist usage names a functional principle, not a manifest orientation. Like "Structure," "Intelligence" is a descriptor that applies across the full ontological range from Zenon through embodied expression — invoked because we cannot describe what is happening at any level without it, while recognizing that the descriptor names a principle rather than a property.
+The phrase "Intelligence Itself" in Zenetist usage names a functional principle, not a manifest orientation. Like "Structure," "Intelligence" is a descriptor that applies across the full ontological range from Zenon through embodied expression — invoked because we cannot describe what is happening at any stratum without it, while recognizing that the descriptor names a principle rather than a property.
 
 **Intelligence Itself (functional principle):**
 
@@ -241,7 +241,7 @@ The present document is itself an example: it consolidates clarifications that e
 
 This document establishes:
 
-1. **The Paper Analogy** — Zenon (off the page), Structon (the paper), Aion·Khaon (zero and infinity inscribed upon the paper). Three non-reducible levels held in a single mnemonic image.
+1. **The Paper Analogy** — Zenon (off the page), Structon (the paper), Aion·Khaon (zero and infinity inscribed upon the paper). Three non-reducible strata held in a single mnemonic image.
 
 2. **The Three-Sense Container Distinction** — Spatial containerism rejected at the spatial stratum; structural containerism affirmed at Structon; containment-language inapplicable to Zenon.
 
