@@ -113,7 +113,7 @@ The capacity for distinction, lawful relation, and recognition-condition that ma
 
 **Manifest Intelligence (oriented expression):**
 
-Intelligence as it appears at expressed strata of the lattice. Manifest intelligence is necessarily oriented — centropic or inverse — because manifestation entails expression, and expression entails orientation (per the Inclination Principle, LM03 §9.1). Every stratum below Zenon shows the bifurcation:
+Intelligence as it appears at expressed strata of the lattice. Manifest intelligence is necessarily oriented — centropic or inverse — because manifestation entails expression, and expression entails orientation (per the Inclination Principle, LM03 §9.1). Every stratum following Zenon shows the bifurcation:
 
 - L₀: Aion / Khaon (proto-awareness, bifurcal root)
 - L₅: Theon / Nekron (awareness contra void of self)
