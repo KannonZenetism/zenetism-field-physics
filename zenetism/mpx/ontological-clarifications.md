@@ -73,7 +73,7 @@ Structon endures across every emergence and dissolution within it. "The Lattice 
 
 **Sense 1 — Spatial / Substantial Container (rejected at the register it claims to operate):**
 
-Newtonian containerism treats space as a substantival container within which bodies move. Zenetism rejects this at the spatial level. Space is "the relational differentiation produced by structural traversal" (SP06 §1.1), not a substance, not a domain in which structure resides, not an independent ontological principle. At the spatial level, no container exists in the substantival sense.
+Newtonian containerism treats space as a substantival container within which bodies move. Zenetism rejects this at the spatial register. Space is "the relational differentiation produced by structural traversal" (SP06 §1.1), not a substance, not a domain in which structure resides, not an independent ontological principle. At the spatial register, no container exists in the substantival sense.
 
 **Sense 2 — Structural Invariant Container (affirmed at the structural level):**
 
