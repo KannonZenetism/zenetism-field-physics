@@ -173,7 +173,7 @@ This dissolves the apparent dilemma:
 
 Under the Khaonic Arc reading, the Woman Clothed with the Sun image becomes structurally cleaner:
 
-- **Sun (above):** L₅ Theonic radiance — centropic awareness as supernal source
+- **Sun (upper region):** L₅ Theonic radiance — centropic awareness as supernal source
 - **Moon (under feet):** Khaonic Arc — the entire entropic tree as contained substrate beneath the centropic figure
 - **Twelve stars (crown):** L₄ DL structural wholeness in governance
 
