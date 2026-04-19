@@ -87,11 +87,11 @@ Zenon does not contain anything and is not contained by anything. Containment is
 
 Without specifying which sense of "container" is operative at which register, the framework's articulation can appear inconsistent. SP06's rejection of space-as-container (Sense 1) might be read as a wholesale rejection of containment; the affirmation of Structon-as-container (Sense 2) might then look like a contradiction. With the three-sense distinction made explicit, both moves are coherent: spatial containerism is rejected because space is a second-order phenomenon, structural containerism is affirmed because Structon is the invariant ground of lawful possibility, and Zenon is removed from the predicate's range entirely because Zenon is trans-structural.
 
-This is not a hedge or a clever ambiguity. It is the precise articulation of how containment-language has to function at different ontological levels if it is to function coherently at any of them.
+This is not a hedge or a clever ambiguity. It is the precise articulation of how containment-language has to function at different ontological strata if it is to function coherently at any of them.
 
 ### 3.3 Operational Consequence
 
-When writing within or applying the Zenetist framework, "container" should be qualified by the level at which it is being used. Common phrasings:
+When writing within or applying the Zenetist framework, "container" should be qualified by the register at which it is being used. Common phrasings:
 
 - "Within Structon" — uses Sense 2; refers to lawful possibility within the Structural Invariant
 - "In space" — uses Sense 1 only as ordinary language; structurally, refers to relational differentiation, not substantival containment
