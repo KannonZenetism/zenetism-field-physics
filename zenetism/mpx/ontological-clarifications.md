@@ -52,7 +52,7 @@ Most metaphysical frameworks fail at exactly this point. Newcomers cannot hold t
 
 - **Zenon collapsed into "nothing" or "void"** — produces nihilistic or apophatic-only readings that miss Zenon's role as condition of possibility
 - **Zenon collapsed into Structon** — produces a two-strata ontology that loses the trans-structural horizon
-- **Structon collapsed into a lattice-layer** — produces confusion about why Aion and Khaon are not Structure itself
+- **Structon collapsed into a lattice-layer** — produces confusion about why Aion and Khaon are not Structure Itself
 - **Aion and Khaon collapsed into being Structon** — produces the bifurcal potential as the invariant, which makes the asymmetry of expression unintelligible
 
 The Paper Analogy prevents all four collapses by giving readers a concrete image they can carry through the rest of the corpus. Each stratum does irreducible work; each stratum is non‑reducible to the others; the analogy makes the irreducibility intuitively graspable.
