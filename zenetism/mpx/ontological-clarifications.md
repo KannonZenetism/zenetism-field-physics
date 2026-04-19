@@ -75,7 +75,7 @@ Structon endures across every emergence and dissolution within it. "The Lattice 
 
 Newtonian containerism treats space as a substantival container within which bodies move. Zenetism rejects this at the spatial register. Space is "the relational differentiation produced by structural traversal" (SP06 §1.1), not a substance, not a domain in which structure resides, not an independent ontological principle. At the spatial register, no container exists in the substantival sense.
 
-**Sense 2 — Structural Invariant Container (affirmed at the structural level):**
+**Sense 2 — Structural Invariant Container (affirmed at the structural stratum):**
 
 Structon is the container of lawful possibility. "Absolute Structure (SI) is the invariant container of all possible expression, motion, and relation." This is not a spatial container and not a substantial container — it is the invariant Lattice that holds all lawful possibility, the condition that makes distinction, motion, and orientation possible. At the structural level, Structon does the containing-work, but the containing is logical-structural, not material-spatial.
 
