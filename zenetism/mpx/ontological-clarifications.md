@@ -48,7 +48,7 @@ The analogy preserves three non-reducibility relations that the framework has al
 
 ### 2.3 Why the Analogy Matters
 
-Most metaphysical frameworks fail at exactly this point. Newcomers cannot hold three distinct non-reducible levels without a mnemonic image. When the levels collapse, predictable misreadings emerge:
+Most metaphysical frameworks fail at exactly this point. Newcomers cannot hold three distinct non‑reducible strata without a mnemonic image. When the strata collapse, predictable misreadings emerge:
 
 - **Zenon collapsed into "nothing" or "void"** — produces nihilistic or apophatic-only readings that miss Zenon's role as condition of possibility
 - **Zenon collapsed into Structon** — produces a two-level ontology that loses the trans-structural horizon
