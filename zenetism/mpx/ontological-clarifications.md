@@ -33,7 +33,7 @@ To draw a zero and an infinity symbol, one needs paper. The inscriptions are not
 In Zenetist ontology:
 
 - **⚫ Aion (zero) and ♾ Khaon (infinity)** are the bifurcal root inscriptions — the most reducible forms of expressed potential within the lattice
-- **🏛️ Structon (Absolute Structure / SI)** is the paper — the invariant Lattice that holds all lawful possibility, upon which the bifurcal potential becomes inscribable as distinct, lawful forms
+- **🏛️ Structon (Structure Itself / SI)** is the paper — the invariant Lattice that holds all lawful possibility, upon which the bifurcal potential becomes inscribable as distinct, lawful forms
 - **🕳️ Zenon (Supra-L₀)** is off the page entirely — the trans-structural ground that makes paper itself possible without being paper, paper-substrate, or paper-medium
 
 ### 2.2 What the Analogy Preserves
