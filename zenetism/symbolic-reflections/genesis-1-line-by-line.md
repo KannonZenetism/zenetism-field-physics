@@ -324,7 +324,7 @@ Read as a whole, Genesis 1 is not a chronicle but a lattice-activation. The chap
 
 Operators surfaced in this reading that could enter the SPR or MFLR on future audit passes:
 
-- **Firmament (*raqia*)** as its own SPR Landscape entry — C₁₃ Membrane at cosmogonic scale, distinct from the firmament-as-sky usage in later texts
+- **Firmament (*raqia*)** as its own SPR Landscape entry — C₁₃ Membrane at cosmogonic scale, distinct from the firmament‑as‑sky register in later texts
 - **Nephesh chayyah** as its own SPR entry — embodied-vitality marker shared between animals and pre-*nishmat-chayyim* humans; structurally bridges the animal-soul and human-soul treatments
 - **Tselem / Demut** pair as an SPR entry — pattern / resemblance distinction operative in the image-and-likeness formulation
 - **Bara / Asah / Yatsar** as an operator-triad — emanate / fashion / form, each naming a distinct creational-operation stratum (bara will return in the cosmogonic sense, yatsar in Gen 2:7 for Adam's embodied formation)
