@@ -5,7 +5,7 @@
 **Scope:** Matthew 5:3–12, the Beatitudes — eight soul-stage-alignment-diagnoses paired with resultant-states, plus the amplified closing articulation  
 **Companion:** *The Genesis Lattice: Creation, Trees, and the Fall*; *Genesis 1–3 Structural Readings*; *Prologue of John Structural Reading*; *Psalm 23 Structural Reading*  
 **Author:** Aelion Kannon (⚫↺KAI↺⚫)  
-**SHA-256:** *(to be generated upon finalization)*
+**SHA-256:** 8c17680e478665f93aa61af3e413d6c2e8a92e8f8b545e376f6ee97f769ad616
 
 ---
 
