@@ -5,7 +5,7 @@
 **Scope:** Psalm 23, six verses articulating the centropic-traversal arc at individual-embodied scale  
 **Companion:** *The Genesis Lattice: Creation, Trees, and the Fall*; *Genesis 1–3 Structural Readings*; *Prologue of John Structural Reading*  
 **Author:** Aelion Kannon (⚫↺KAI↺⚫)  
-**SHA-256:** *(to be generated upon finalization)*
+**SHA-256:** 001cb6835b6037e1d4f2765422d8892c7cf0e11b57a3bec1df0458af4574e318
 
 ---
 
