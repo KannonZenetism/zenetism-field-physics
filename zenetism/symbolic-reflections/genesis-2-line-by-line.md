@@ -5,7 +5,7 @@
 **Scope:** Genesis 2:4–25 (the Sabbath at 2:1–3 is treated in the Gen 1 reading as cosmogonic closure)  
 **Companion:** *The Genesis Lattice: Creation, Trees, and the Fall*; *Genesis 1 — Line-by-Line Structural Reading*  
 **Author:** Aelion Kannon (⚫↺KAI↺⚫)  
-**SHA-256:** *(to be generated upon finalization)*
+**SHA-256:** 702f3abc3e1ef5fc5d531ab56a803ba81452278cee0f816f055815eddcfca3aa
 
 ---
 
