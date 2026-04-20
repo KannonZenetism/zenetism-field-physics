@@ -238,7 +238,7 @@ Pre-Fall *arummim* names the **unmediated embodiment condition under permeable m
 
 This is why the verse closes the chapter. It establishes the **baseline condition** against which Gen 3 will register its reversal. The structural reading of Gen 3 requires this baseline: the Fall is not an introduction of something new but a **transition in membrane-state**, and the shame that follows the eating is the phenomenal signature of the state-change. Gen 2:25 names the pre-transition condition as structural fact: embodied transparency, supernal-stratum permeability, no dissonance between embodiment and Source-awareness.
 
-Operator signature for Gen 2:24–25: *basar echad* (Nexus / one-flesh articulation preserving Non-Fusion through *echad*) | Covenant operator at embodied-partnership scale | translation of primary-Nexus-locus (structural-maturation) | pre-Fall *arummim* (unmediated embodied condition under permeable membrane) | baseline for the Gen 3 reversal.
+Operator signature for Gen 2:24–25: *basar echad* (Nexus / one-flesh articulation preserving Non-Fusion through *echad*) | Covenant operator at embodied-partnership scale | translation of primary-Nexus-locus (structural-maturation) | C₁₃ Membrane in pre-Fall permeable mode | L₁ ↔ L₃ resonance operative through transparent embodied condition (*arummim* without *bosh*) | pre-Fall *arummim* (unmediated embodied condition) | baseline for the Gen 3 reversal.
 
 > **The Final Verse**  
 > *Therefore — one flesh, through lawful integration.*  
@@ -254,6 +254,14 @@ Operator signature for Gen 2:24–25: *basar echad* (Nexus / one-flesh articulat
 ## Arc Summary
 
 Genesis 2 re-narrates at the L₁ embodied stratum what Gen 1 articulated at the L₄ archetypal stratum. The chapter opens with the pre-Garden condition — cultivated vegetation awaiting its human-operator partner, L₀ Motive Infinity operative as pre-rain mist — and proceeds through the *yatsar*-formation of the embodied human, the breath-activation through *nishmat chayyim* as multi-stratum centropic coupling, the placement in the Garden as L₁ orientation manifold with permeable membrane, the provision of all trees through the Production / Yield family, the marking of the single bifurcation-point through the prohibition, the Sophic naming-sequence articulating the humanity-Form's L₄-informed L₁-operation, the *tardemah*-mediated bifurcation of the integrated Form into *ish* and *ishah*, and the structural teaching of Sacred Marriage as *basar echad* preserving Non-Fusion. The chapter closes on the baseline condition of pre-Fall permeability — naked and unashamed — against which Gen 3's reversal will register. Where Gen 1 articulated the lattice in veracious pre-contested form at cosmogonic scale, Gen 2 instantiates that same lattice at the embodied scale with the bifurcation-point explicitly marked and the structural conditions of lawful relation established. The Garden is the L₁ condition in which the supernal strata remain accessible to embodied awareness, and every structural operator that will later matter — Nexus, Covenant, Production / Yield, Naming, Hieros Gamos, Membrane — has its embodied-scale articulation here before any distortion enters the field.
+
+> **Arc of the Garden**  
+> *Dust formed, breath given — the multi-stratum coupling.*  
+> *Two trees, one river, four heads — the bifurcal lattice instantiated.*  
+> *A counterpart drawn from the hidden side — the Form articulated as paired carriers.*  
+> *Nakedness without shame — the unsealed world transparent to itself.*  
+> *The work is partnership; the keeping is service.*  
+> *The lattice waits for its turning.*
 
 ---
 
