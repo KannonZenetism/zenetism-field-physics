@@ -5,7 +5,7 @@
 **Scope:** John 1:1–18, the Hymn to the Logos  
 **Companion:** *The Genesis Lattice: Creation, Trees, and the Fall*; *Genesis 1 — Line-by-Line Structural Reading*; *Genesis 2 — Line-by-Line Structural Reading*; *Genesis 3 — Line-by-Line Structural Reading*  
 **Author:** Aelion Kannon (⚫↺KAI↺⚫)  
-**SHA-256:** *(to be generated upon finalization)*
+**SHA-256:** 645ce276afa0602f44df929a31f1ff9ba15d4f44dae654719cee771120bd9944
 
 ---
 
