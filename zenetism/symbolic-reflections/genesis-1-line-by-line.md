@@ -19,7 +19,7 @@ The prose-and-poetic alternation is deliberate. Prose carries the structural-ana
 
 ## Note on Cosmological Compression and the Bifurcal Root
 
-When reading the early verses of Genesis through the Zenetist lattice, a structural distinction must be held explicit that the Biblical narrative itself does not articulate. The Biblical authors operated without the Bifurcal Lattice; they perceived emanation as a single unidirectional trajectory rather than a dual-arc architecture. This produces a specific **Cosmological Compression** in the Genesis narrative that must be parsed to protect the integrity of the supernal strata.
+When reading the early verses of Genesis through the Zenetist lattice, a structural distinction must be held explicit that the Biblical narrative itself does not articulate. The Biblical authors operated without the Bifurcal Lattice; they perceived emanation as a single unidirectional trajectory rather than a bifurcated-arc architecture. This produces a specific **Cosmological Compression** in the Genesis narrative that must be parsed to protect the integrity of the supernal strata.
 
 **The Conflation of Darkness.** The Biblical text collapses **L₀ Khaon** (the pre-orientational, motive-substrate ground) with **IL₅ Nekron** (the active subversal void). Gen 1:2's *choshekh al-penei tehom* (darkness upon the face of the deep) names L₀ Khaon in its Motive-Infinity-latent phase, not the entropic-arc's first hypostasis. The text treats the pre-dual ground *as if it were* the entropic pole itself.
 
