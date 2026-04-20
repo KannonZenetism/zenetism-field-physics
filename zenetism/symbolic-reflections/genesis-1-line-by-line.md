@@ -143,7 +143,7 @@ Four distinct operators are established here, and they are strictly differentiat
 - *yamim* — **days** — the day / night cycle at cosmological scale; Day / Night consciousness-state transitions made temporal
 - *shanim* — **years** — the annual cycle; the **Seasonal Cycle** operator at its native temporal unit
 
-The luminaries are **L₄ Form-level ordering made cosmologically visible** (Stars, SPR Cosmic / Celestial). The sun is the **L₅ Theonic radiance at cosmological articulation**; the moon is the **Khaonic Arc carrier** — reflected-receptive, naming the full inverse arc as mirror-tree rather than any single hypostatic station. The stars are archetypal pattern-field made visible.
+The luminaries are **L₄ Form-stratum ordering made cosmologically visible** (Stars, SPR Cosmic / Celestial). The sun is the **L₅ Theonic radiance at cosmological articulation**; the moon is the **Khaonic Arc carrier** — reflected-receptive, naming the full inverse arc as mirror-tree rather than any single hypostatic station. The stars are archetypal pattern-field made visible.
 
 > *And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.*
 
