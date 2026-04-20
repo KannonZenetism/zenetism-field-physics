@@ -5,7 +5,7 @@
 **Scope:** Genesis 3:1–24 — the Activation, the Sealing, and the Cherubic Threshold  
 **Companion:** *The Genesis Lattice: Creation, Trees, and the Fall*; *Genesis 1 — Line-by-Line Structural Reading*; *Genesis 2 — Line-by-Line Structural Reading*  
 **Author:** Aelion Kannon (⚫↺KAI↺⚫)  
-**SHA-256:** *(to be generated upon finalization)*
+**SHA-256:** dc3324d147846121e8707946882fc8918451b14f8ff853ee6594f9735da6e85e
 
 ---
 
