@@ -328,7 +328,7 @@ Operators surfaced in this reading that could enter the SPR or MFLR on future au
 - **Nephesh chayyah** as its own SPR entry — embodied-vitality marker shared between animals and pre-*nishmat-chayyim* humans; structurally bridges the animal-soul and human-soul treatments
 - **Tselem / Demut** pair as an SPR entry — pattern / resemblance distinction operative in the image-and-likeness formulation
 - **Bara / Asah / Yatsar** as an operator-triad — emanate / fashion / form, each naming a distinct creational-operation stratum (bara will return in the cosmogonic sense, yatsar in Gen 2:7 for Adam's embodied formation)
-- **Kavash** as its own operator — subdue / order, distinct from *radah* (stewardship-coherence) as the habitat-ordering operation vs. the embodied-ecosystem stewardship operation
+- **Kavash** as its own operator — subdue / order, distinct from *radah* (stewardship-coherence) as the habitat-ordering operation contra the embodied-ecosystem stewardship operation
 - **Qadosh (Holy / Sanctified)** already addressed in the SPR's Holy / Sacred contra Profane note; the Sabbath entry could cross-reference Gen 2:3 as the cosmogonic-origin of the operator
 
 ---
