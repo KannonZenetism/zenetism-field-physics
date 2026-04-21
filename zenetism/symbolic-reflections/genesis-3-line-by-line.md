@@ -47,7 +47,7 @@ Operator signature for Gen 3:1: *arum* / *arummim* wordplay activated (linguisti
 > *Not declivated from elsewhere — native to the bifurcation.*  
 > *It addresses the soul-aspect first, the experiential gate.*  
 > *The provision is reframed as restriction.*  
-> *The relational guidance becomes Aauthoritarian rule.*  
+> *The relational guidance becomes authoritarian rule.*  
 > *The hinge begins to swing.*
 
 ---
