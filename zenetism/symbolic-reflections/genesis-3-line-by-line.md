@@ -44,7 +44,7 @@ Operator signature for Gen 3:1: *arum* / *arummim* wordplay activated (linguisti
 > **The Serpent Speaks**  
 > *The naked and the cunning share a root.*  
 > *The inverse activator stands within the Garden's own field.*  
-> *Not descended from elsewhere — native to the bifurcation.*  
+> *Not declivated from elsewhere — native to the bifurcation.*  
 > *It addresses the soul-aspect first, the experiential gate.*  
 > *The provision is reframed as restriction.*  
 > *The relational guidance becomes Aauthoritarian rule.*  
