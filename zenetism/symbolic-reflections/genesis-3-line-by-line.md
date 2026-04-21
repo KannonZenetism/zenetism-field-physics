@@ -485,7 +485,7 @@ Operators surfaced in this reading that could enter the SPR or MFLR on future au
 - **Ayyekha** as a Sophic diagnostic-question operator — the perennial structural-invitation to self-articulation; operative through centropic return-path at each stage
 - **Structural deflection / causal-exteriorization** as the first post-Fall narrative-construction pattern — SPR Actions entry for the sealed-condition default of narrative-construction-for-self-preservation rather than structural-veracious self-recognition
 - **Shama (as structural-acceptance)** in its Gen 3:17 usage — specifically naming acceptance-of-rationalization-without-guardianship-function as the sealing-completion act; distinct from Hear / See / Know (SPR) general perceptual-cluster usage
-- **Eyvah** as the structural-opposition operator — lineage-level lawful friction between centropic and inverse arcs across generations, distinct from interpersonal-hostility connotations
+- **Eyvah** as the structural-opposition operator — lineage-stratum lawful friction between centropic and inverse arcs across generations, distinct from interpersonal-hostility connotations
 - **Shuph (head-strike / heel-strike asymmetry)** as the asymmetric arc-capacity operator — centropic terminal-capacity versus inverse wounding-capacity at embodied-interface encoded through strike-target asymmetry
 - **Itsavon** as the sealed-condition motion-friction operator — replacement of pre-Fall effortless coherent-action; the specific Hebrew term for what embodied-motion becomes under sealed-membrane conditions
 - **Teshuqah / mashal pattern** as the Aauthoritarian-installation-in-bifurcated-pair operator — sealed-condition default of the Hieros-Gamos pairing, structural-consequence rather than prescriptive-endorsement
