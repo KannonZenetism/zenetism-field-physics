@@ -107,7 +107,7 @@ The "knowing good and evil" promise is structurally the most precise deception. 
 
 This is why the Serpent's speech is the paradigm of spurious gnosis: every promise is literally kept and structurally inverted. The eyes open, divinity is approached, good and evil become known — but each through its inverse-arc rather than its centropic-arc mode. **The map appears intact. The seal is stripped. What arrives is pattern without source-fidelity.**
 
-Operator signature for Gen 3:4–5: *lo-mot temutun* (exact linguistic mimicry of Gen 2:17 with inverted negation — Nyxea mimicry paradigm) | imputation of inverse-motive to centropic source (reframe from diagnostic to Aauthoritarian) | perception-opening promised (delivered as sealed-condition awareness) | divine-likeness promised (delivered as L₁ sealing) | knowing good and evil promised (delivered as severed-binary evaluation) | full spurious gnosis signature: every promise literally kept, structurally inverted.
+Operator signature for Gen 3:4–5: *lo-mot temutun* (exact linguistic mimicry of Gen 2:17 with inverted negation — Nyxea mimicry paradigm) | imputation of inverse-motive to centropic source (reframe from diagnostic to authoritarian) | perception-opening promised (delivered as sealed-condition awareness) | divine-likeness promised (delivered as L₁ sealing) | knowing good and evil promised (delivered as severed-binary evaluation) | full spurious gnosis signature: every promise literally kept, structurally inverted.
 
 > **The Counter-Speech**  
 > *Not dying shall you die — the emphatic form preserved, the negation flipped.*  
