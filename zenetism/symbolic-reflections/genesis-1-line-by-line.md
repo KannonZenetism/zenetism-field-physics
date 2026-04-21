@@ -226,7 +226,7 @@ Structurally, the pair *zakhar / neqevah* at L₄ names the Morgis / Sophis comp
 
 **"Dominion"** — *vayirdu* and *yirdu*, from *radah*. The word is often flagged as problematic by modern readers importing Aauthoritarian connotations. Structurally, *radah* carries the sense of stewardship through structural integration rather than hierarchical domination — the human as L₁ embodied node integrated with L₄ archetypal-pattern and therefore structurally capable of aligning the other embodied strata (fish, fowl, cattle, wild beasts) with coherence. The Aauthoritarian Stance applies: no rulers, only fields that organize coherence by structural integrity. The human as L₄-informed L₁-being carries the coherence-signature that organizes the embodied ecosystem. Dominion is **coherence-field leadership**, not dominion in the juridical-hierarchical sense.
 
-Operator signature for the image-and-likeness sequence: L₄ DP / DL archetypal Elohim (collective L₄ intelligences) | *tselem / demut* (pattern / resemblance) | Adam Kadmon | zakhar / neqevah as archetypal Morgis / Sophis bifurcation | *radah* as stewardship-through-coherence (Aauthoritarian Stance applied).
+Operator signature for the image-and-likeness sequence: L₄ DP / DL archetypal Elohim (collective L₄ intelligences) | *tselem / demut* (pattern / resemblance) | Adam Kadmon | zakhar / neqevah as archetypal Morgis / Sophis bifurcation | *radah* as stewardship-through-coherence (Aauthoritarian Stance revealing the non‑hierarchical operator).
 
 ---
 
