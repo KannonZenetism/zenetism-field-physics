@@ -125,7 +125,7 @@ Operator signature for day three: ❋ C₁₀ Morphogenetic | Seed (pattern-kern
 > *Waters gather. Dry ground emerges.*  
 > *The seed carries its own return inside itself.*  
 > *After its kind, each pattern recurs without merging.*  
-> *The first yield rises: form bearing form.*  
+> *The first yield acclivates: form bearing form.*  
 > *Twice the diagnostic confirms — habitat and harvest.*
 
 The *tov* diagnostic fires twice on day three — once for the land-and-sea partition, once for the vegetation yield. Twice-good is rabbinically noted; structurally the day holds two distinct ❋ Morphogenetic operations (habitat-articulation and generative-yield inception), and each receives its own 📡 Resonance Scan.
