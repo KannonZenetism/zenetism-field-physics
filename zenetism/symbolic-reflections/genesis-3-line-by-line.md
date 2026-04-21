@@ -322,13 +322,13 @@ The childbearing articulation specifically names the **most operator-dense insta
 
 *Yimshal-bakh* — "he shall rule / dominate you." The verb *mashal* is the same verb used at Gen 1:18 for the luminaries "ruling" the day and night — which the Gen 1 reading handled as *coherence-field-organization-by-representation* per the Aauthoritarian Stance, not hierarchical-domination. But here the context is specifically the post-Fall consequence, and the Aauthoritarian frame cannot be automatically imported from the cosmological context.
 
-Structural reading: verse 16b names the **installation of the Aauthoritarian axis into the previously-Hieros-Gamos relation**. Pre-Fall, the *ish / ishah* pairing operated as Sacred Marriage — two sovereign fields in lawful Co-Emergent relation preserving Non-Fusion (*basar echad* through *echad* integration rather than fusion-collapse). Post-Fall, under sealed-membrane conditions, the pairing's structural-complementarity now registers as **asymmetric-structural-tension**: the ES-aspect's *teshuqah* (attraction-toward) meeting the EM-aspect's *mashal* (coherence-field-organization) under sealed conditions produces the Aauthoritarian-axis pattern — the pattern the Aauthoritarian Stance (⟡0⟡) diagnoses as non-operative when read structurally.
+Structural reading: verse 16b names the **installation of the authoritarian axis into the previously-Hieros-Gamos relation**. Pre-Fall, the *ish / ishah* pairing operated as Sacred Marriage — two sovereign fields in lawful Co-Emergent relation preserving Non-Fusion (*basar echad* through *echad* integration rather than fusion-collapse). Post-Fall, under sealed-membrane conditions, the pairing's structural-complementarity now registers as **asymmetric-structural-tension**: the ES-aspect's *teshuqah* (attraction-toward) meeting the EM-aspect's *mashal* (coherence-field-organization) under sealed conditions produces the authoritarian-axis pattern — the pattern the Aauthoritarian Stance (⟡0⟡) diagnoses as non-operative when read structurally.
 
 The verse names structural consequence, not prescriptive endorsement. What Gen 3:16b articulates is **the sealed condition's default pattern** — the way the bifurcated-pair relationship organizes under post-seal friction when the pre-Fall Hieros Gamos conditions no longer hold. It does not prescribe that the pattern should continue; it names the structural-default that emerges when the permeable condition is lost. The centropic return-path makes this pattern non-operative (the Aauthoritarian Stance is itself the recovery of the pre-Fall Hieros Gamos operative condition), but under the sealed default the pattern installs.
 
 This reading is structurally consistent with the Aauthoritarian Stance doctrine and with the Non-Fusion Axiom. The Aauthoritarian Stance does not prescribe dominion; it names authority as non-operative. The sealed-condition default is therefore a **structural-pathology**, not a structural-endorsement, and the centropic return-path restores the Hieros Gamos operation in which the *teshuqah / mashal* pattern becomes non-operative because the permeable condition no longer generates the sealed-friction that produced it.
 
-Operator signature for Gen 3:16: *itsavon* (friction of embodied motion under sealed conditions, replacing pre-Fall effortless coherent-action) | childbearing as most operator-dense Production / Yield point becoming most acute friction-register | *teshuqah / mashal* pattern as sealed-condition default installing Aauthoritarian-axis into previously-Hieros-Gamos relation | structural consequence not prescriptive endorsement | Aauthoritarian Stance (⟡0⟡) as the recovery mode through which the sealed-default becomes non-operative.
+Operator signature for Gen 3:16: *itsavon* (friction of embodied motion under sealed conditions, replacing pre-Fall effortless coherent-action) | childbearing as most operator-dense Production / Yield point becoming most acute friction-register | *teshuqah / mashal* pattern as sealed-condition default installing authoritarian-axis into previously-Hieros-Gamos relation | structural consequence not prescriptive endorsement | Aauthoritarian Stance (⟡0⟡) as the recovery mode through which the sealed-default becomes non-operative.
 
 > **The Woman's Consequence**  
 > *Multiplying the multiplication — the certainty of structural friction.*  
@@ -337,7 +337,7 @@ Operator signature for Gen 3:16: *itsavon* (friction of embodied motion under se
 > *Desire and rule — the sealed-default of the bifurcated pair.*  
 > *The Hieros Gamos operation sealed under asymmetric tension.*  
 > *This is what the sealed condition installs.*  
-> *Not endorsement. Diagnosis. The Aauthoritarian frame made default.*  
+> *Not endorsement. Diagnosis. The authoritarian frame made default.*  
 > *The return-path restores what the seal displaced.*
 
 ---
