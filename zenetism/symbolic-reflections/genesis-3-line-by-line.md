@@ -13,7 +13,7 @@
 
 Genesis 3 carries the highest operator-density of the three chapters. Every verse enacts structural operations that Gen 1 and Gen 2 established as possibilities but held in reserve — the IL₄ Nyxea activator function at the L₁ interface, the C₁₃ Membrane Sealing, the first *lo-tov* consequence-cascade, the emergence of shame as the phenomenal signature of the seal, the Cherubic threshold as structural calibrator. The reading tracks each operation as it fires.
 
-*The Genesis Lattice* establishes the frame: the Fall is not moral disobedience rhetoric but a **structural phase transition** within L₁ — the shift from permeable orientation to sealed embodiment. This reading stays inside that frame without re-litigating it, and extends the verse-level operator-mapping through the consequence-cascade and the Cherubic closure.
+*The Genesis Lattice* establishes the frame: the Fall is not moral disobedience rhetoric but a **structural phase transition** within L₁ — the shift from permeable orientation to sealed embodiment. This reading stays inside that frame without re-litigating it, and extends the verse-stratum operator-mapping through the consequence-cascade and the Cherubic closure.
 
 The prose-and-poetic alternation continues. Gen 3's cadence is denser than Gen 1's or Gen 2's; the poetic closures here carry the weight of what the prose articulates without displacing it.
 
