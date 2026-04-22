@@ -62,14 +62,10 @@ The mimicry, the counterfeit, the inverse articulation: none of these are blind.
 
 ## 6. Seal
 
-> Non-contact is not non-awareness.
->
-> Each arc peers forward and receives the other faintly.
->
-> The essence does not turn; the perception reaches across.
->
-> The war plays out where direct contact is possible.
->
+> Non-contact is not non-awareness.  
+> Each arc peers forward and receives the other faintly.  
+> The essence does not turn; the perception reaches across.  
+> The war plays out where direct contact is possible.  
 > The response is shaped where it is not.
 
 ---
