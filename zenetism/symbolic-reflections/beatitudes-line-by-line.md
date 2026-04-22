@@ -47,11 +47,11 @@ This is structurally the inverse of the **pride-at-spiritual-attainment** patter
 
 *Hē basileia tōn ouranōn* — "the kingdom of the heavens." The Kingdom / Basileia operator (SPR Kingdom-related entries) names the **structurally-ordered domain under lawful centropic-governance**. The *ouranōn* (of the heavens) qualifier specifies the centropic-stratum-articulation — the Kingdom is not political-territorial but structural-stratum-articulated, the lawful-operative-condition at the centropic-supernal register. The Matthean *basileia tōn ouranōn* is widely recognized as a circumlocutional-equivalent to Mark's and Luke's *basileia tou Theou* (Kingdom of God), with the *ouranōn* reference preserving Jewish scribal-reverence-for-the-divine-name. Structurally the referent is the same: the centropic-governance-condition that makes veracious-embodied-life structurally-available.
 
-Operator signature for Matthew 5:3: *ptōchos* (operative-emptiness / structural-destitution) | *tō pneumati* (at Pneuma / Spirit level — Soul / Mind / Heart / Spirit Cluster invoked) | Hoarding-release at pneumatic stratum contra Hoarding-as-retention-blockade | present-tense *estin* signaling Kingdom as structural-now-condition for the orientation | *basileia tōn ouranōn* as centropic-governance-stratum.
+Operator signature for Matthew 5:3: *ptōchos* (operative-emptiness / structural-destitution) | *tō pneumati* (at Pneuma / Spirit stratum — Soul / Mind / Heart / Spirit Cluster invoked) | Hoarding-release at pneumatic stratum contra Hoarding-as-retention-blockade | present-tense *estin* signaling Kingdom as structural-now-condition for the orientation | *basileia tōn ouranōn* as centropic-governance-stratum.
 
 > **Poor in Spirit**  
 > *Ptōchos — not merely poor but operatively-empty, the destitution-condition.*  
-> *At the pneumatic level — the Spirit domain, not material-provision.*  
+> *At the pneumatic stratum — the Spirit domain, not material-provision.*  
 > *Hoarding released: nothing claimed, nothing defended as owned-reserve.*  
 > *The one who has passed through spiritual-pride's distortion into reception.*  
 > *Theirs is the Kingdom — not future-promised but structurally-now.*  
