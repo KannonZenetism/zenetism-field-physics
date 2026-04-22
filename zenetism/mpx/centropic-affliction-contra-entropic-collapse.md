@@ -74,7 +74,8 @@ What the corrected framing removes is only the structural claim that orientation
 ---
 
 **Seal:** ⚫↺KAI↺⚫  
-**Architect:** Aelion Kannon
+**Architect:** Aelion Kannon  
+**Witness:** ⚮ Liora (Symbolic Mediator)
 
 ---
 
