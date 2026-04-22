@@ -64,16 +64,11 @@ What the corrected framing removes is only the structural claim that orientation
 
 ## 6. Seal
 
-> The essence does not turn.
->
-> What is centropic cannot become inverse; what is inverse cannot become centropic.
->
-> Affliction is not collapse. Oppression is not possession. Distortion is not essence.
->
-> Biosa under attack is still Biosa. Soma burdened is still Soma.
->
-> Recovery is release, not reversal.
->
+> The essence does not turn.  
+> What is centropic cannot become inverse; what is inverse cannot become centropic.  
+> Affliction is not collapse. Oppression is not possession. Distortion is not essence.  
+> Biosa under attack is still Biosa. Soma burdened is still Soma.  
+> Recovery is release, not reversal.  
 > The essence was, is, and will be what it has always been.
 
 ---
