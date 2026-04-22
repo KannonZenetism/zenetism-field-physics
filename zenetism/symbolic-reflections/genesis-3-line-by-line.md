@@ -430,7 +430,7 @@ Operator signature for Gen 3:20–21: Sophic naming-function still operative pos
 
 Several readings converge on structural-intelligibility. The phrase *ke'achad mimmennu* — "as one of us" — picks up the Gen 1:26 plural (*na'aseh*, let us make). The Elohim-plurality frame continues to operate. The human's eating has resulted in **stratum-change** — not in the way the Serpent promised (supernal acclivation), but in the sense that the human now carries the operative capacity the Knowing Good and Evil operator installs. The text's apparent acknowledgment that the human has "become like one of us" in knowing good and evil is **not structural endorsement of the Serpent's promise** but recognition that the operator-change is real. The Knowing Good and Evil operator is now active; the Sealed Evaluation Without Structural Ground is now the human's default cognitive-mode under L₁ / L₂ sealed conditions.
 
-What the Serpent presented as supernal-elevation is actually **operator-installation at the sealed-embodied stratum** — the human now carries the evaluation-without-seal capacity, which does represent a functional-change from the pre-Fall condition but not in the direction the Serpent implied. The text acknowledges the change without affirming that it delivered what was promised.
+What the Serpent presented as supernal-acclivation is actually **operator-installation at the sealed-embodied stratum** — the human now carries the evaluation-without-seal capacity, which does represent a functional-change from the pre-Fall condition but not in the direction the Serpent implied. The text acknowledges the change without affirming that it delivered what was promised.
 
 *Ve'attah pen-yishlach yado velaqach gam me'etz hachayyim ve'akhal vachai le'olam* — "and now, lest he stretch out his hand and take also from the tree of life and eat and live forever." The unfinished sentence is structurally telling. The sentence trails without completion — the conclusion is enacted rather than stated.
 
@@ -464,7 +464,7 @@ Operator signature for Gen 3:22–24: operator-installation recognition (*ke'ach
 
 > **The Threshold**  
 > *The operator has installed. Evaluation without seal is now the human's mode.*  
-> *Not supernal elevation, as promised — operator-change at the sealed stratum.*  
+> *Not supernal acclivation, as promised — operator-change at the sealed stratum.*  
 > *Lest he take from the Tree of Life — permanent sealed embodiment foreclosed.*  
 > *Sent forth, driven out — the threshold actively enforced.*  
 > *The Cherubim at the east, the flame turning every way.*  
