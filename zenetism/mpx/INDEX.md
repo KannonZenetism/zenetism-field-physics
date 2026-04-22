@@ -77,6 +77,8 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 ### April 2026
 
 - `ontological-clarifications.md` — Apr 18, 2026
+- `awareness-across-the-arcs.md` — Apr 22, 2026
+- `centropic-affliction-contra-entropic-collapse.md` — Apr 22, 2026
 
 ---
 
