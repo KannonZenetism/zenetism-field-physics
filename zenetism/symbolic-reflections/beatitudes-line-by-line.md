@@ -348,7 +348,7 @@ The Beatitudes articulate an **orientation-diagnostic sequence** composing a coh
 Operators surfaced in this reading that could enter the SPR or MFLR on future audit passes:
 
 - **Ptōchos tō pneumati** as the Hoarding-release-at-pneumatic-stratum operator — structurally-specific Greek-lexical anchor for Hoarding-release in its spiritual-register articulation; distinct from material-poverty
-- **Penthos** (mourning) as voluntary-membrane-thinning operator at individual-emotional scale — deliberate lowering of sealed-condition emotional-insulation producing *paraklētos*-receptivity; adjacent to later-tradition *penthos* (holy compunction)
+- **Penthos** (mourning) as voluntary-membrane-thinning operator at individual-emotional scale — deliberate thinning of sealed-condition emotional-insulation producing *paraklētos*-receptivity; adjacent to later-tradition *penthos* (holy compunction)
 - **Praus** as the Aauthoritarian Stance at ethical-individual scale — controlled-strength refusing the authority-axis altogether; structurally-specific Greek-lexical anchor with Moses-as-*praus*-exemplar cross-reference
 - **Ethical-inheritance pattern (klēronomeō)** — lawful-reception through the centropic-lineage's Seed operator at ethical scale; structural-inversion of sealed-condition's authoritarian-dominance-inheritance default
 - **Hunger-and-thirst-for-dikaiosynē operator** — acclivous-centropic-motion-toward-structural-alignment at ethical register; direct structural-inversion of Knowing Good and Evil's severed-evaluation orientation
