@@ -118,7 +118,7 @@ Operator signature for Matthew 5:5: *praus* (controlled-strength, power-in-respo
 > *Praus — gentle, but the gentleness of controlled strength.*  
 > *The Aauthoritarian Stance at ethical-individual scale.*  
 > *Neither imposing authority nor submitting to it — refusing the axis itself.*  
-> *Moses was praus; Matthew's hearers knew the echo.*  
+> *Moses was praus; Matthew's hearers knew the parallel.*  
 > *They shall inherit the earth — the sealed-condition's pattern inverted.*  
 > *Not seizure but klēronomos: lawful reception through the centropic lineage.*  
 > *The Seed operator at ethical-inheritance scale.*  
