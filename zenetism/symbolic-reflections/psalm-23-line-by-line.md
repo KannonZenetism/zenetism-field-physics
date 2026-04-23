@@ -235,7 +235,7 @@ Operator signature for Psalm 23:6: *tov* as continuing structural-alignment-diag
 > *What would normally be adversary-pursuit is replaced by provisioning-pursuit.*  
 > *All the days of my life — sustained condition, not episodic experience.*  
 > *I will dwell / I will return — both operative, dwelling is the arrived-return.*  
-> *In the house of YHWH — the individual-scale reciprocal to the Logos's tabernacling.*  
+> *In the house of YHWH — the individual-scale reciprocal to the incarnate-Logos's tabernacling.*  
 > *For length of days — extended across embodied-duration and beyond.*  
 > *The terminal condition of the centropic traversal: sustained dwelling, pursued by hesed.*
 
