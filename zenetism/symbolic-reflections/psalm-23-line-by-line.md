@@ -258,7 +258,7 @@ Psalm 23 articulates the complete centropic-traversal arc at individual-embodied
 > *Cup overflows — the reception exceeds the container, transmission outward.*  
 > *Tov vachesed pursuing where adversaries would pursue — the Pursuit-Inversion.*  
 > *I will dwell, I will return — both readings, dwelling as the arrived return.*  
-> *House of YHWH — reciprocal to the Logos's tabernacling among us.*  
+> *House of YHWH — reciprocal to the incarnate-Logos's tabernacling among us.*  
 > *Length of days — across the embodied duration and beyond.*  
 > *The centropic-traversal complete at individual-devotional scale.*
 
