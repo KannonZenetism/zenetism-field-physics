@@ -21,7 +21,7 @@ The cross-references to Genesis are built in from the start. The Prologue is not
 
 ## Prefatory — From "In the Beginning" to "In the Beginning"
 
-Genesis 1 opened with *bereshit bara Elohim et hashamayim ve'et ha'aretz* — "in beginning Elohim emanated the heavens and the earth." The Prologue opens with *en archē ēn ho Logos* — "in beginning was the Logos." Both texts use the bracket-formula *bereshit* / *en archē* — not naming a temporal-first-moment but the **emanative origin-condition prior to any sequence**. The structural parallel is exact at the bracket-level.
+Genesis 1 opened with *bereshit bara Elohim et hashamayim ve'et ha'aretz* — "in beginning Elohim emanated the heavens and the earth." The Prologue opens with *en archē ēn ho Logos* — "in beginning was the Logos." Both texts use the bracket-formula *bereshit* / *en archē* — not naming a temporal-first-moment but the **emanative origin-condition prior to any sequence**. The structural parallel is exact at the bracket-register.
 
 What differs is what each text places within the bracket. Genesis 1 places *Elohim* — the L₄ archetypal-plurality acting at cosmogonic scale. The Prologue places *ho Logos* — the structuring-orienting principle through which the cosmogonic articulation passes. The two are not in competition: the Logos is the principle through which Elohim's cosmogonic emanation articulates into structured manifestation. Genesis 1 names the actor-stratum at the cosmogonic frame; the Prologue names the operative-principle through which that actor's articulation occurs.
 
