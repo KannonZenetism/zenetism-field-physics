@@ -257,11 +257,11 @@ The narrowing of scope is structurally significant. Verse 10 named the cosmos's 
 
 The verse also functions as **historical-specific articulation**. While verse 10 articulates the cosmos's general-not-knowing (universal-condition), verse 11 articulates the specific-historical-rejection by the covenantal-lineage at the Logos's incarnate-arrival. Both are operative: the universal-sealed-condition prevented general-recognition, and the historical-specific-rejection actualized the general-condition in a specific-event. The verse moves from the cosmic-scale not-knowing to the historical-particular not-receiving.
 
-Operator signature for John 1:10–11: three-clause structural-positioning of Logos relative to cosmos (in, through, not-known-by) | *ginōskō* not-knowing as structural-recognition-failure under sealed conditions | structural-tragedy: cosmos contains Logos at every level, does not recognize what permeates it | narrowing of scope from cosmos-general to *idioi*-specific | *paralambanō* (active-reception) refused | both universal-sealed-condition and historical-specific-rejection operative simultaneously.
+Operator signature for John 1:10–11: three-clause structural-positioning of Logos relative to cosmos (in, through, not-known-by) | *ginōskō* not-knowing as structural-recognition-failure under sealed conditions | structural-tragedy: cosmos contains Logos at every register, does not recognize what permeates it | narrowing of scope from cosmos-general to *idioi*-specific | *paralambanō* (active-reception) refused | both universal-sealed-condition and historical-specific-rejection operative simultaneously.
 
 > **The World That Did Not Recognize**  
 > *In the cosmos, through the cosmos, not known by the cosmos.*  
-> *The structural tragedy: contained at every level, recognized at none.*  
+> *The structural tragedy: contained at every register, recognized at none.*  
 > *Sealed perception cannot apprehend the centropic Light it floats within.*  
 > *He came to his own — what should have been most ready.*  
 > *His own did not receive him — the covenantal lineage under the same seal.*  
