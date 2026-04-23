@@ -335,7 +335,7 @@ The Beatitudes articulate an **orientation-diagnostic sequence** composing a coh
 > *Hungering and thirsting for dikaiosynē — acclivous receptivity at ethical register.*  
 > *Eleēmones — chesed and rachamim enacted at interpersonal stratum.*  
 > *Katharos at the kardia — structurally undivided operative-orientation.*  
-> *Eirēnopoios — Reconciliation-operation, the Logos's operation at individual scale.*  
+> *Eirēnopoios — Reconciliation-operation, the incarnate-Logos's operation at individual scale.*  
 > *Dediōgmenos — sustained centropic alignment under inverse-arc opposition.*  
 > *And the direct address: you are the Prophetic lineage under sealed-world pushback.*  
 > *The Kingdom is now, estin, present-operative.*  
