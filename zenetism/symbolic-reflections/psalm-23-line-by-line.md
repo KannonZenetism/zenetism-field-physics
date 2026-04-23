@@ -250,7 +250,7 @@ Psalm 23 articulates the complete centropic-traversal arc at individual-embodied
 > *Pastures and waters, Sabbath installed by governance rather than striving.*  
 > *The nephesh turned back to its veracious condition — not transformed but recognized.*  
 > *Paths already-worn by lawful traversal, the centropic geometry already-there.*  
-> *Valley of death-shadow — the descent required within the acclivous arc.*  
+> *Valley of death-shadow — the declivation required within the acclivous arc.*  
 > *Immadi — the structural Emmanuel, presence co-located with threat.*  
 > *Rod against the predator-interface, staff along ma'aglei tsedeq.*  
 > *Table prepared before adversaries, the reception in their facing presence.*  
