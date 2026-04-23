@@ -45,7 +45,7 @@ Operator signature for Psalm 23:1: Shepherd operator (Governor contra Governed D
 
 > **The Shepherd**  
 > *YHWH my shepherd — the centropic-governor over the embodied domain.*  
-> *Not Aauthoritarian ruler but lawful-coherence steward.*  
+> *Not authoritarian ruler but lawful-coherence steward.*  
 > *The Logos Continuum articulated at individual-governance scale.*  
 > *I shall not lack — the traversal-provisions arrive in operative-measure.*  
 > *The diagnostic of relation, not the guarantee of abundance.*
