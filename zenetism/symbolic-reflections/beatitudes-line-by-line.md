@@ -248,7 +248,7 @@ Operator signature for Matthew 5:9: *eirēnopoioi* (active-operational-agents in
 > **The Peacemakers**  
 > *Eirēnopoioi — makers of eirēnē, shalom, coherent-complementarity.*  
 > *Not passive peace-lovers but active-operational-agents of reconciliation.*  
-> *Reconciliation at interpersonal scale what the Logos performs at cosmic-historical scale.*  
+> *Reconciliation at interpersonal scale what the incarnate-Logos performs at cosmic-historical scale.*  
 > *They shall be called sons of God.*  
 > *Structural-kinship recognized, not self-claimed.*  
 > *The Father's reconciliation-operation articulated at individual-scale.*  
