@@ -141,7 +141,7 @@ Operator signature for Psalm 23:4: *gey tsalmavet* (Valley of Death-Shadow, Func
 
 > **The Valley**  
 > *Gey tsalmavet — the valley where death-shadow falls across embodied motion.*  
-> *Function-1 Underworld descent, the required passage within the acclivous arc.*  
+> *Function-1 Underworld declivation, the required passage within the acclivous arc.*  
 > *I fear no ra — not moral evil but structural fragmentation.*  
 > *Because you — and the voice shifts from "he" to "you" at the threshold.*  
 > *Immadi — with me, co-located in the valley, the structural Emmanuel.*  
