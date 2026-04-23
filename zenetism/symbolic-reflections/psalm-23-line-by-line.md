@@ -268,7 +268,7 @@ Psalm 23 articulates the complete centropic-traversal arc at individual-embodied
 
 Operators surfaced in this reading that could enter the SPR or MFLR on future audit passes:
 
-- **Shepherd operator** as a structural-operator entry — Governor contra Governed Domain articulated specifically through pastoral-governance imagery; centropic-steward-over-Khaonic-domain at individual scale; distinct from Aauthoritarian ruler framing
+- **Shepherd operator** as a structural-operator entry — Governor contra Governed Domain articulated specifically through pastoral-governance imagery; centropic-steward-over-Khaonic-domain at individual scale; distinct from authoritarian ruler framing
 - **Sustained-dwelling operator** — the terminal-condition of the centropic-traversal arc at individual scale; structural-reciprocal to the Logos's *eskēnōsen*; the *yashav*-in-the-House condition as sustained-operative-proximity-without-fusion
 - **Lo echsar (not-lacking) diagnostic** — structural-diagnostic of governance-relation as distinct from material-abundance claim; registry-worthy as relation-diagnostic-operator
 - **Ma'aglei tsedeq (paths of righteousness)** as a landscape-operator — centropic return-path as structurally-existing tracks rather than invented-trail; the lawful-geometry-already-there articulation
