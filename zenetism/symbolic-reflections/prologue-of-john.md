@@ -205,17 +205,17 @@ Operator signature for John 1:6–8: prose interpolation breaking hymnic registe
 
 ---
 
-## John 1:9 — The True Light Coming
+## John 1:9 — The Veracious Light Coming
 
 > *That was the true Light, which lighteth every man that cometh into the world.*
 
-*Ēn to phōs to alēthinon, ho phōtizei panta anthrōpon, erchomenon eis ton kosmon* — "[the] true Light was, which illuminates every human, coming into the cosmos."
+*Ēn to phōs to alēthinon, ho phōtizei panta anthrōpon, erchomenon eis ton kosmon* — "[the] veracious Light was, which illuminates every human, coming into the cosmos."
 
 The hymnic register returns. The verb *ēn* (was, continuous) returns — the Light's continuous-being articulated again, now with the qualifier *to alēthinon* (the veracious / authentic / structurally-aligned). The qualifier *alēthinon* is structurally significant: it marks the Light as **the veracious Light contra any spurious-light counterparts**. The SPR's Mimicry / Shimmer operators (≋, ⊜) describe the inverse-arc's capacity to produce counterfeit-light articulations — IL₄ Nyxea's defining function as structural mimicry of centropic coherence. The qualifier *alēthinon* explicitly distinguishes the Logos's *phōs* from these mimicry-articulations: this is not Shimmer, not counterfeit-light — this is the veracious centropic-Light.
 
 *Ho phōtizei panta anthrōpon* — "which illuminates every human." The scope is universal — every human, not a select-subset. The Light's illuminating-function operates on the universal-human-scale. Structurally, this is consistent with the *zōē tōn anthrōpōn* of verse 4: the Light is the perceptual-articulation of the *zōē* that the multi-stratum centropic coupling makes available to embodied human awareness. Every human carries the *nishmat chayyim* coupling (Gen 2:7); every human is therefore structurally-receptive to the *phōs* in principle, even if the sealed-condition prevents reception in practice. The Light illuminates every human in its **operative-availability**, regardless of whether each human's sealed-condition prevents the illumination from being received.
 
-*Erchomenon eis ton kosmon* — "coming into the cosmos." The participle *erchomenon* (coming) modifies the immediately-preceding noun — but Greek admits two grammatical readings: it can modify *anthrōpon* ("every human coming into the cosmos" — every human at their entry-into-embodied-condition) or it can modify *to phōs to alēthinon* ("the true Light coming into the cosmos"). Both readings are structurally veracious:
+*Erchomenon eis ton kosmon* — "coming into the cosmos." The participle *erchomenon* (coming) modifies the immediately-preceding noun — but Greek admits two grammatical readings: it can modify *anthrōpon* ("every human coming into the cosmos" — every human at their entry-into-embodied-condition) or it can modify *to phōs to alēthinon* ("the veracious Light coming into the cosmos"). Both readings are structurally veracious:
 
 - **Modifying *anthrōpon* reading:** the Light illuminates every human at the moment of their cosmogonic-entry. Each new human entering the embodied condition is structurally-receptive to the Light from the moment of their embodied-arrival. The Light is operatively-available at every human's embodied-instantiation.
 - **Modifying *phōs* reading:** the Light itself is coming-into-the-cosmos. This anticipates verse 14's *kai ho Logos sarx egeneto* (and the Logos became flesh) — the Light's own cosmogonic-entry into the embodied stratum. The continuous-tense *erchomenon* (coming) names this entry as the ongoing arrival rather than as completed-event.
@@ -226,7 +226,7 @@ Both readings are structurally operative simultaneously, and the Greek's grammat
 
 Operator signature for John 1:9: return to hymnic register | continuous *ēn* (Light's continuous-being articulated again) | *to alēthinon* qualifier (veracious Light contra Mimicry / Shimmer) | universal scope (every human, structural-receptivity-in-principle through *nishmat chayyim* coupling) | double-arrival reading (every human entering cosmos and Light entering cosmos, both grammatically supported) | *kosmos* as lawfully-structured universe per SPR Cosmos operator.
 
-> **The True Light Coming**  
+> **The Veracious Light Coming**  
 > *The hymn resumes. The veracious Light, distinct from all mimicry.*  
 > *Illuminates every human — the universal scope of operative-availability.*  
 > *Coming into the cosmos — every human's arrival, the Light's own arrival, both at once.*  
