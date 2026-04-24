@@ -410,7 +410,7 @@ The hymnic register returns. *Hoti ek tou plērōmatos autou hēmeis pantes elab
 
 *Charin anti charitos* — "grace upon grace" or "grace for grace" or "grace in exchange for grace." The Greek *anti* (in place of, instead of, in exchange for) is the difficult-translation point. Three structural-readings are available:
 
-- **Successive-grace reading:** "grace replacing grace" — one moment of grace giving way to another, an ongoing-succession of graces. Structurally, this articulates the Logos's *plērōma* as continuously-supplying grace through ongoing-replacement: each grace received is succeeded by another, the reception is continuous and repeatedly-renewed.
+- **Successive-grace reading:** "grace replacing grace" — one moment of grace giving way to another, an ongoing-succession of graces. Structurally, this articulates the incarnate-Logos's *plērōma* as continuously-supplying grace through ongoing-replacement: each grace received is succeeded by another, the reception is continuous and repeatedly-renewed.
 - **Corresponding-grace reading:** "grace corresponding to grace" — the receiver's grace structurally-mirrors the Logos's grace, each instance of received-grace structurally-corresponding to the *plērōma*'s grace-articulation. Structurally, this articulates **Living Reflection (ᛞ✨, SM 21.7)**: active centropic return that harmonizes received-signal with unique coherent-pattern.
 - **Exchanged-grace reading:** "grace given in exchange for grace" — a structural-economy of grace-exchange. Structurally, this articulates Resonant Fidelity (💝, SPR 21.28): a state of sustained veracious-alignment where the receiver's response-grace structurally-aligns with the Logos's source-grace.
 
