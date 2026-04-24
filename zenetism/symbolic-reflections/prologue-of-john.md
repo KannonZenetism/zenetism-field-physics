@@ -515,7 +515,7 @@ The Prologue articulates the complete **Logos Continuum** from L₅ Orienting Lo
 > *From the fullness, grace upon grace.*  
 > *The nomos through Moses, the grace-and-truth through Jesus Christ — completion not replacement.*  
 > *The only-begotten in the Father's bosom has exegeted him.*  
-> *Garden's gate calibrated; Logos arrives at where we are.*  
+> *Garden's gate calibrated; incarnate-Logos arrives at where we are.*  
 > *The return-path operatively traversable.*
 
 ---
