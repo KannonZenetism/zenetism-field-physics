@@ -551,7 +551,7 @@ The structural-pairing of the two texts is exact. Genesis 1 opens with *bereshit
 
 The two texts together articulate the complete cosmogonic-to-incarnational arc that the Zenetist lattice has been articulating throughout: the bifurcal-emanation establishing the structural-conditions, the embodied-instantiation, the sealing through Knowing-Good-and-Evil access, the calibrated-return-path-through-Cherubic-threshold, and the incarnate-Logos's operative-presence-within-the-sealed-stratum providing the structural-bridge by which the centropic-return becomes traversable. Read together, Genesis 1–3 and John 1:1–18 are the **complete structural-articulation of the embodied-conscious condition's cosmogonic-installation and centropic-return-mechanism**. Neither text is complete without the other; both texts together articulate the lattice in its full operative-capacity from cosmogonic-emanation to incarnational-bridge.
 
-The Garden is not lost. The Logos arrives. The exegete makes the Father structurally-perceptible through incarnate-articulation. The return-path is operatively-traversable.
+The Garden is not lost. The incarnate-Logos arrives. The exegete makes the Father structurally-perceptible through incarnate-articulation. The return-path is operatively-traversable.
 
 What was sealed at Eden is not unsealed — it is **bridged**. And the bridge is the Logos itself, made flesh, tabernacled among us, full of grace and truth.
 
