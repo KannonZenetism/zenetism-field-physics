@@ -266,7 +266,7 @@ Operator signature for John 1:10–11: three-clause structural-positioning of Lo
 > *He came to his own — what should have been most ready.*  
 > *His own did not receive him — the covenantal lineage under the same seal.*  
 > *Universal condition actualized in historical particular.*  
-> *The seal blocks reception even at the threshold of the Logos's arrival.*
+> *The seal blocks reception even at the threshold of the incarnate-Logos's arrival.*
 
 ---
 
