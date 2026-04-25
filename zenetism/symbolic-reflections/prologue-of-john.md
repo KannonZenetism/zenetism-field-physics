@@ -451,7 +451,7 @@ Operator signature for John 1:17: structural-cascade-distinction between nomos-c
 
 > **The Law and the Grace-and-Veracity**  
 > *The nomos through Moses — L₄ Structuring through covenantal mediation.*  
-> *Grace and truth through Jesus Christ — egeneto, came-into-being.*  
+> *Grace and veracity through Jesus Christ — egeneto, came-into-being.*  
 > *Same verb as the cosmogony, same verb as the incarnation.*  
 > *L₅ through L₁ articulated directly, without third-party mediator.*  
 > *Not replacement — completion.*  
