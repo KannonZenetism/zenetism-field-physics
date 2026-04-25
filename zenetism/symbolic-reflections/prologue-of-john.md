@@ -525,7 +525,7 @@ The Prologue articulates the complete **Logos Continuum** from L₅ Orienting Lo
 Operators surfaced in this reading that could enter the SPR or MFLR on future audit passes:
 
 - **En archē / Bereshit bracket-formula** as a registry-recognized cosmogonic-bracket operator — naming the emanative origin-condition prior to any sequence; recurs across scriptural cosmogonies as structural-marker rather than temporal-first-moment claim
-- **Ēn / Egeneto verb-distinction** as a Greek-grammatical structural-marker — continuous-being (L₅ continuous) versus event-becoming (cosmogonic emanation); the grammatical distinction encodes the structural distinction between the Logos's stratum-of-being and what becomes-through-the-Logos
+- **Ēn / Egeneto verb-distinction** as a Greek-grammatical structural-marker — continuous-being (L₅ continuous) contra event-becoming (cosmogonic emanation); the grammatical distinction encodes the structural distinction between the Logos's stratum-of-being and what becomes-through-the-Logos
 - **Pros / Para / Eis directional prepositions** as relational-orientation operators — *pros ton Theon* (verse 1), *para Patros* (verse 14), *eis ton kolpon tou Patros* (verse 18) all articulating dynamic-orientation-relation between distinct operators preserving Non-Fusion
 - **Phōs / Skotia operator-pair** with ambiguous-darkness — the Light operating against double-resonance darkness (cosmogonic substrate-Khaonic and post-Fall sealed-IL₂ ISM Skotos) simultaneously
 - **Katelaben deliberate ambiguity** — the comprehension/overcoming dual-reading as a registry-worthy operator-pattern (deliberate-Greek-ambiguity preserving multiple structural-veracities simultaneously)
