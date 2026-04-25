@@ -379,8 +379,8 @@ The prose interpolation returns again, now articulating John's specific testimon
 The verse contains a structural-paradox in temporal-language that the Greek's verb-structure resolves precisely:
 
 - *Ho opisō mou erchomenos* — "the one coming after me" — temporal-sequence in incarnate-historical-time: the Logos's incarnate-arrival follows John's incarnate-arrival in chronological sequence.
-- *Emprosthen mou gegonen* — "has come-to-be-ahead-of me" — perfect-tense gegonen: structural-status of being-ahead is now-completed-and-operative. In structural-rank, the Logos is ahead-of John.
-- *Hoti prōtos mou ēn* — "because he was before me" — imperfect-tense ēn: continuous-pre-existence-being, the L₅ continuous-being from verse 1 invoked as the structural-grounding for the rank-ahead.
+- *Emprosthen mou gegonen* — "has come-to-be-ahead-of me" — perfect-tense gegonen: structural-status of being-ahead is now-completed-and-operative. In structural-precedence, the Logos is ahead-of John.
+- *Hoti prōtos mou ēn* — "because he was before me" — imperfect-tense ēn: continuous-pre-existence-being, the L₅ continuous-being from verse 1 invoked as the structural-grounding for the precedence-ahead.
 
 The structural-claim: the Logos's chronological-arrival-after-John is reconciled with the Logos's structural-rank-ahead-of-John through the Logos's *prōtos mou ēn* — the Logos's continuous pre-incarnate L₅ being precedes John's incarnate-being. John's chronological-priority in incarnate-time does not establish structural-rank-priority; the Logos's L₅-continuous-being precedes any incarnate-time-sequence and therefore carries structural-rank-priority regardless of incarnate-time-order.
 
