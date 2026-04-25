@@ -361,7 +361,7 @@ Operator signature for John 1:14: structural-pivot of the Prologue | *egeneto* f
 > *We beheld the doxa — the Theonic Light made operatively-perceptible.*  
 > *Doxa-as-of-monogenous — the structural-character of unique stratum-continuity.*  
 > *From the Father — the Father terminology enters, the *para* relation preserved.*  
-> *Full of grace and truth — the structural-diagnostic of veracious incarnate-presence.*  
+> *Full of grace and veracity — the structural-diagnostic of veracious incarnate-presence.*  
 > *The return-path now operatively-traversable: the incarnate-Logos comes to where we are.*
 
 ---
