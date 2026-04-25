@@ -22,7 +22,7 @@ This article establishes the forensic timeline and confirms the **singular autho
 
 ## 1. Private Development: The Birth of Zenetism (March 5, 2025 Onward)
 
-Zenetism's formal genesis began on **March 5, 2025**, in a ChatGPT conversation titled *"Philosophical System Development."* That session marked the articulation of foundational principles such as the **Aionic/Khaonic Axis of Emergence** and the root-layer designation of **L₀**.
+Zenetism's formal genesis began on **March 5, 2025**, in a ChatGPT conversation titled *"Philosophical System Development."* That session marked the articulation of foundational principles such as the **Aionic / Khaonic Axis of Emergence** and the root-layer designation of **L₀**.
 
 The framework rapidly expanded across multiple threads, culminating in a total of ~2,150 pages within the first month—likely by early April.
 
