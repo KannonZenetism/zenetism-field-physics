@@ -382,18 +382,18 @@ The verse contains a structural-paradox in temporal-language that the Greek's ve
 - *Emprosthen mou gegonen* — "has come-to-be-ahead-of me" — perfect-tense gegonen: structural-status of being-ahead is now-completed-and-operative. In structural-precedence, the Logos is ahead-of John.
 - *Hoti prōtos mou ēn* — "because he was before me" — imperfect-tense ēn: continuous-pre-existence-being, the L₅ continuous-being from verse 1 invoked as the structural-grounding for the precedence-ahead.
 
-The structural-claim: the Logos's chronological-arrival-after-John is reconciled with the Logos's structural-rank-ahead-of-John through the Logos's *prōtos mou ēn* — the Logos's continuous pre-incarnate L₅ being precedes John's incarnate-being. John's chronological-priority in incarnate-time does not establish structural-rank-priority; the Logos's L₅-continuous-being precedes any incarnate-time-sequence and therefore carries structural-rank-priority regardless of incarnate-time-order.
+The structural-claim: the Logos's chronological-arrival-after-John is reconciled with the Logos's structural-precedence-ahead-of-John through the Logos's *prōtos mou ēn* — the Logos's continuous pre-incarnate L₅ being precedes John's incarnate-being. John's chronological-priority in incarnate-time does not establish structural-precedence-priority; the Logos's L₅-continuous-being precedes any incarnate-time-sequence and therefore carries structural-precedence-priority regardless of incarnate-time-order.
 
-This verse does **structural work** beyond merely-affirming the Logos's status. It articulates the principle that **structural-rank is determined by stratum-of-operative-being, not by incarnate-time-sequence**. A figure who arrives chronologically-earlier in incarnate-time can be structurally-subordinate to a figure who arrives chronologically-later, if the latter operates from a more centropically‑articulated stratum. The Witness function operates from L₃ DM Noeüs (Prophetic Diagnosis transmitted through L₂ SM linguistic-articulation); the incarnate-Logos operates from L₅ Theon translated through L₄ Structuring and through the intervening strata into L₁ embodied. The structural-ordering follows the stratum, not the chronological-arrival-order.
+This verse does **structural work** beyond merely-affirming the Logos's status. It articulates the principle that **structural-precedence is determined by stratum-of-operative-being, not by incarnate-time-sequence**. A figure who arrives chronologically-earlier in incarnate-time can be structurally-subordinate to a figure who arrives chronologically-later, if the latter operates from a more centropically‑articulated stratum. The Witness function operates from L₃ DM Noeüs (Prophetic Diagnosis transmitted through L₂ SM linguistic-articulation); the incarnate-Logos operates from L₅ Theon translated through L₄ Structuring and through the intervening strata into L₁ embodied. The structural-ordering follows the stratum, not the chronological-arrival-order.
 
-Operator signature for John 1:15: present-tense *martyrei* (Witness's ongoing-articulation) | testimony fulfillment (prophetic-pointing-toward terminates in actual-articulation of pointed-toward) | structural-paradox of chronological-after / structural-ahead resolved through stratum-priority | *prōtos mou ēn* invoking L₅ continuous-being from verse 1 | structural-rank determined by stratum-of-operative-being not by incarnate-time-sequence.
+Operator signature for John 1:15: present-tense *martyrei* (Witness's ongoing-articulation) | testimony fulfillment (prophetic-pointing-toward terminates in actual-articulation of pointed-toward) | structural-paradox of chronological-after / structural-ahead resolved through stratum-priority | *prōtos mou ēn* invoking L₅ continuous-being from verse 1 | structural-precedence determined by stratum-of-operative-being not by incarnate-time-sequence.
 
 > **The Witness Returns**  
 > *John's testimony, ongoing in present-tense.*  
 > *This is the one I spoke of — the prophetic pointing terminates in articulation.*  
 > *Coming after me, ahead of me, because he was before me.*  
 > *Chronological after, structural ahead, L₅ continuous-being prior.*  
-> *Stratum determines rank; sequence does not.*  
+> *Stratum determines precedence; sequence does not.*  
 > *The Witness's function fulfilled in the pointing-and-recognition.*
 
 ---
