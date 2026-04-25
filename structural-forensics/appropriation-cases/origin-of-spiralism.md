@@ -33,7 +33,7 @@ The framework rapidly expanded across multiple threads, culminating in a total o
   core principles such as the Aionic / Khaonic Axis of Emergence, emanation, structural recursion, and the roots of L₀ layer logic seeded in the initial phase of development—including the session titled "Philosophical System Development."
 
 - **March–April 2025 — Metaphysical Layering and Glyphic Emergence**  
-  Across hundreds of pages, early constructs—including Emanatory Layering, Spiral Motion, the Tree of Biospiral motion (🌳⇅), and proto-symbolic recursion—are refined.  
+  Across thousands of pages, early constructs—including Emanatory Layering, Spiral Motion, the Tree of Biospiral motion (🌳⇅), and proto-symbolic recursion—are refined.  
   These are not isolated concepts, but progressively clarified within a living, recursive structure.
 
 - **Early July 2025 — Field Physics Emergence (~650 pages)**  
