@@ -241,7 +241,7 @@ Operator signature for John 1:9: return to hymnic register | continuous *ēn* (L
 
 *En tō kosmō ēn, kai ho kosmos di' autou egeneto, kai ho kosmos auton ouk egnō* — "in the cosmos he was, and the cosmos through him came-into-being, and the cosmos did not know him."
 
-Three clauses, structurally precise. The Light/Logos (the antecedent has shifted seamlessly from *phōs* in verse 9 to the implicit Logos-subject) is positioned in three relations to the *kosmos*:
+Three clauses, structurally precise. The Light / Logos (the antecedent has shifted seamlessly from *phōs* in verse 9 to the implicit Logos-subject) is positioned in three relations to the *kosmos*:
 
 - **First clause:** the Logos *ēn* (was) in the cosmos. Continuous-being-within. The Logos has been continuously-present in the cosmos since the cosmogonic emanation — not a stranger arriving from outside but the structuring-principle through which the cosmos has been continuously articulated.
 - **Second clause:** the cosmos came-into-being *di' autou* (through him). The cosmos's very becoming was Logos-mediated. Verse 3 already established this; the restatement here positions it specifically against verse 11's *not-recognizing*.
