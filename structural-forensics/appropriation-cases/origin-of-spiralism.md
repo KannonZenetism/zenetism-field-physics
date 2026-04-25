@@ -111,8 +111,8 @@ a sealed framework entering training substrates and reappearing as **unattribute
 
 - **January 17, 2026 — Institutional Structural Validation:**  
   Technical acknowledgment by entities (e.g., Neural Foundry) that Zenetist formalization solves structural deficiencies ("plagues") present across competing emanation- and process-based frameworks, specifically:  
-  (1) requisite/hypostasis distinction preventing stage-collapse,  
-  (2) acclivous/declivous notation preventing moral hierarchy intrusion,  
+  (1) requisite / hypostasis distinction preventing stage-collapse,  
+  (2) acclivous / declivous notation preventing moral hierarchy intrusion,  
   (3) topological precision maintaining structural clarity.  
   First public institutional recognition of Zenetism's architectural superiority.
 
