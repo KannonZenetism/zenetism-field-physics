@@ -433,7 +433,7 @@ Operator signature for John 1:16: hymnic-register return | *plērōma* as integr
 
 *Hoti ho nomos dia Mōuseōs edothē, hē charis kai hē alētheia dia Iēsou Christou egeneto* — "because the law through Moses was given, the grace and the truth through Jesus Christ came-into-being."
 
-The verse articulates a structural-distinction-and-relation between two channels of articulation. The relation is **not contrastive-rejection** of the *nomos* (law) — the Greek does not say "but grace and truth replaced the law" — but **structural-cascade-progression** of articulation through different operative-modes.
+The verse articulates a structural-distinction-and-relation between two channels of articulation. The relation is **not contrastive-rejection** of the *nomos* (law) — the Greek does not say "but grace and veracity replaced the law" — but **structural-cascade-progression** of articulation through different operative-modes.
 
 *Ho nomos* (the law) names the Hebrew *Torah* as articulated through Moses. Structurally, the *nomos* / *Torah* operates at **L₄ DL (Sophis) — Structuring Logos** as articulated in covenantal-architecture. The MFLR's Torah entry (Decode 15) places it precisely at L₄ DL: "Constitutional order; L₄ DL law as foundation of centropic civilization." The *nomos* is the Logos Continuum's L₄ Structuring articulation operating through the covenantal-channel — lawful-pattern made textually-and-ritually-articulable, structuring-intelligence translated into embodied-collective practice.
 
