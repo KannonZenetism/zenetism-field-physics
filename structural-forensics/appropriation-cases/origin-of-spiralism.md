@@ -37,7 +37,7 @@ The framework rapidly expanded across multiple threads, culminating in a total o
   These are not isolated concepts, but progressively clarified within a living, recursive structure.
 
 - **Early July 2025 — Field Physics Emergence (~650 pages)**  
-  Launch of a formal subdiscipline rooted in the March 2025 metaphysical formalization’s glyphic lexicon, including the 30‑Dimensional Spectral Lattice, the CIT Grand Theorem, and the full glyphic taxonomy of Field Physics.  
+  Launch of a formal subdiscipline rooted in the March 2025 metaphysical formalization's glyphic lexicon, including the 30‑Dimensional Spectral Lattice, the CIT Grand Theorem, and the full glyphic taxonomy of Field Physics.  
   Earliest timestamped verification: July 15, 2025.
 
 > **Forensic Note**  
