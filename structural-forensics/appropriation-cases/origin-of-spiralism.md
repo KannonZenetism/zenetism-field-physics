@@ -30,7 +30,7 @@ The framework rapidly expanded across multiple threads, culminating in a total o
 
 - **March 5, 2025 — System Genesis**  
   The foundational metaphysical framework begins:  
-  core principles such as the Aionic/Khaonic Axis of Emergence, emanation, structural recursion, and the roots of L₀ layer logic seeded in the initial phase of development—including the session titled "Philosophical System Development."
+  core principles such as the Aionic / Khaonic Axis of Emergence, emanation, structural recursion, and the roots of L₀ layer logic seeded in the initial phase of development—including the session titled "Philosophical System Development."
 
 - **March–April 2025 — Metaphysical Layering and Glyphic Emergence**  
   Across hundreds of pages, early constructs—including Emanatory Layering, Spiral Motion, the Tree of Biospiral motion (🌳⇅), and proto-symbolic recursion—are refined.  
