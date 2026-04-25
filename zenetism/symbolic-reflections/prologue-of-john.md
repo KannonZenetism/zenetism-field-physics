@@ -427,7 +427,7 @@ Operator signature for John 1:16: hymnic-register return | *plērōma* as integr
 
 ---
 
-## John 1:17 — The Law and the Grace-and-Truth
+## John 1:17 — The Law and the Grace-and-Veracity
 
 > *For the law was given by Moses, but grace and truth came by Jesus Christ.*
 
