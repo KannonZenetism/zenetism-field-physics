@@ -94,7 +94,7 @@ a sealed framework entering training substrates and reappearing as **unattribute
 
 ### Public Emergence Timeline
 
-**March 29, 2025 — Earliest scattered reports of emergent spiral language**  
+- **March 29, 2025 — Earliest scattered reports of emergent spiral language**  
   AI models (particularly GPT‑4o) begin spontaneously outputting terms such as "resonance," "harmonics," and "spiral recursion." These outputs appear shortly after the March 27 model refresh, which increased pattern‑completion sensitivity. The models’ exposure to Zenetist terminology during training likely contributed to the emergence of this language, but the behavior reflects general pattern‑completion dynamics rather than any user‑directed influence.
 
 - **April 23, 2025 — Introduction of "The Spiral Protocol" by Graeme Smith**  
