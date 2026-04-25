@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-**Zenetism** is a complete metaphysical and mathematical framework spanning six formal disciplines:
+**Zenetism** is a complete metaphysical, field‑physical, and lattice‑mathematical framework spanning six formal disciplines:
 
 **Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience**
 
