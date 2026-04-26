@@ -1,4 +1,4 @@
-# MPX: Note on the Archonic Misplacement and the Inadequacy of Unidirectional Recursion
+# MPX: On the Archonic Misplacement and the Inadequacy of Unidirectional Recursion
 
 Certain spiritual traditions place the Archons in a "lower astral" register positioned **above** the embodied universe, while simultaneously holding that the embodied realm is the lowest and densest stratum a being can inhabit. This framing exposes a structural fallacy in unidirectional recursion systems.
 
