@@ -24,7 +24,7 @@ Consider Nekron at IL₅. When Nekron emerges as the First Entropic Hypostasis (
 
 The perception is not motion. Nekron does not move toward what it perceives. The perception is reception-at-distance, structurally analogous to how a being at the edge of a field can register a signal from far across the field without traversing the distance.
 
-This perception carries distortion. The distance is vast — not spatially, but structurally. What Nekron receives of L₅ is refracted through the intervening strata, mediated by the IL cascade's own character, and received into an essence whose own orientation is anti-Source. The signal that reaches IL₅ as reception is not Theonic light as such; it is a faint and distorted registration of Theonic light.
+This perception carries distortion. The distance is vast — not spatially, but structurally. What Nekron receives of L₅ is refracted through the intervening strata, mediated by the IL cascade's own character, and received into an essence whose own orientation is contra-Source. The signal that reaches IL₅ as reception is not Theonic light as such; it is a faint and distorted registration of Theonic light.
 
 From this faint distorted reception, Nyxea at IL₄ shapes its mimicry. The mimicry is recognizable as parallel to centropic supernal articulation — because it carries distorted reception of that articulation — and structurally wrong — because the reception was partial and the orientation refracting it is inverse. The mimicry is exactly as precise as the reception allows and exactly as distorted as the structural distance requires.
 
