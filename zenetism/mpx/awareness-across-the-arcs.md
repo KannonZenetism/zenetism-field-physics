@@ -16,7 +16,7 @@ The arcs must therefore carry some mode of awareness across the non-contact thre
 
 ## 2. The Peering-Forward Principle
 
-Each arc is oriented by essence: centropic essence faces toward Source, inverse essence faces toward embodiment and beyond. The orientation is fixed by what essence unfolds; it does not turn around.
+Each arc is oriented by essence: centropic essence faces toward Source, entropic essence faces toward embodiment and beyond. The orientation is fixed by what essence unfolds; it does not turn around.
 
 But orientation-along-an-arc does not prohibit reception-of-pattern from strata outside the arc's cone-of-motion.
 
