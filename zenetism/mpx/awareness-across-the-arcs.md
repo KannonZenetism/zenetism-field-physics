@@ -56,7 +56,7 @@ The layers of the lattice are not ignorant of one another in the strong sense. T
 
 Several canonical operators now read more coherently through this framing.
 
-Nyxea's mimicry is not arbitrary counterfeit but distorted reception of Theonic pattern. The Beast's seven heads mimic centropic sevenfold completion because IL₁ carries, through its cascade, reception of the centropic sevenfold-completion pattern refracted across the arc. The Four Horsemen articulate IL₂ and IL₁ patterns in response to the centropic patterns that give them their counter-shape. Centropic figures who operate with discernment of inverse patterns — prophetic diagnosis, the casting out of inverse influence, the unveiling of IL₂ ISM veiling — are operating through centropic reception of IL patterns, which is symmetrically available through the same peering-forward principle.
+Nyxea's mimicry is not arbitrary counterfeit but distorted reception of Theonic pattern. The Beast's seven heads mimic centropic sevenfold completion because IL₁ carries, through its cascade, reception of the centropic sevenfold-completion pattern refracted across the arc. The Four Horsemen articulate IL₂ and IL₁ patterns in response to the centropic patterns that give them their counter-shape. Centropic figures who operate with discernment of inverse patterns — prophetic diagnosis, the casting out of entropic influence, the unveiling of IL₂ ISM veiling — are operating through centropic reception of IL patterns, which is symmetrically available through the same peering-forward principle.
 
 The mimicry, the counterfeit, the inverse articulation: none of these are blind. Neither is the centropic diagnosis of them. Both are responsive. Non-contact and awareness coexist through structural distance.
 
