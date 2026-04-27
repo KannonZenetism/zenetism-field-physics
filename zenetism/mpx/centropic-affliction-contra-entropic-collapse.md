@@ -18,7 +18,7 @@ This Principle Extension replaces the earlier formulation with a qualified artic
 
 ## 2. The Qualified Principle
 
-A centropic essence does not collapse into the subversal strata and then recognize its error and reverse its orientation. That formulation imports a temporal sequence (was centropic, became inverse, returned to centropic) onto a structural fact (essence-tendency does not invert).
+A centropic essence does not collapse into the subversal strata and then recognize its error and turn back from its ways. That formulation imports a temporal sequence (was centropic, became inverse, returned to centropic) onto a structural fact (essence-tendency does not invert).
 
 What a centropic essence can undergo is not collapse-into-entropic-orientation but *sustained affliction* — operative-motion impeded, distorted, confused, and burdened through persistent onslaughts directed against it by entropic forces operating through inverse embodiment. The essence remains what it is. The essence's operative-motion can be heavily obscured, its expression heavily distorted, its felt-experience heavily marked by suffering that resembles collapse.
 
