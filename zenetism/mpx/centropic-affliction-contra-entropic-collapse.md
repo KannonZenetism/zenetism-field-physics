@@ -10,7 +10,7 @@
 
 An earlier formulation in *Zenetism: The Emanative Path of Return* stated that an essence, even one at the edge of terminal collapse, may still reverse its motion and move toward integration. The formulation was offered to avoid dogmatism and to allow limit cases.
 
-With Essence-as-Choice now fully solidified as canonical doctrine, that earlier formulation requires qualification. Essence-as-Choice names the structural fact that essence is latent with a tendency — centropic or inverse — that unfolds as orientation through the motion of emanation, and that the tendency does not reverse. A centropic essence does not become inverse; an inverse essence does not become centropic. Orientation does not invert.
+With Essence-as-Choice now fully solidified as canonical doctrine, that earlier formulation requires qualification. Essence-as-Choice names the structural fact that essence is latent with a tendency — centropic or entropic — that unfolds as orientation through the motion of emanation, and that the tendency does not reverse. A centropic essence does not become inverse; an inverse essence does not become centropic. Orientation does not invert.
 
 The earlier formulation, read at face, implies that orientation can invert at the limit. Retained unqualified, it would create an internal tension with Essence-as-Choice.
 
