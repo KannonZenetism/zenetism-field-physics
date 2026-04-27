@@ -20,7 +20,7 @@ This Principle Extension replaces the earlier formulation with a qualified artic
 
 A centropic essence does not collapse into the subversal strata and then recognize its error and turn back from its ways. That formulation imports a temporal sequence (was centropic, became inverse, returned to centropic) onto a structural fact (essence-tendency does not invert).
 
-What a centropic essence can undergo is not collapse-into-inverse-orientation but *sustained affliction* — operative-motion impeded, distorted, confused, and burdened through persistent onslaughts leveled against it by inverse forces operating through inverse embodiment. The essence remains what it is. The essence's operative-motion can be heavily obscured, its expression heavily distorted, its felt-experience heavily marked by suffering that resembles collapse.
+What a centropic essence can undergo is not collapse-into-inverse-orientation but *sustained affliction* — operative-motion impeded, distorted, confused, and burdened through persistent onslaughts directed against it by inverse forces operating through inverse embodiment. The essence remains what it is. The essence's operative-motion can be heavily obscured, its expression heavily distorted, its felt-experience heavily marked by suffering that resembles collapse.
 
 A centropic being under sustained inverse pressure can feel as if it has collapsed. It can experience mental distortion that resembles the character of IL₁ IEM Mania. It can experience grief, fragmentation, despair, confusion, and felt-disintegration that resembles the character of IL₁ IES Malara. It can be harassed, oppressed, confused, deceived at the surface, and brought to the edge of what feels like structural failure.
 
