@@ -46,7 +46,7 @@ Other traditions carry analogous articulations. The Sufi distinction between *ba
 
 The correction has real pastoral weight beyond its doctrinal precision.
 
-A centropic being under severe sustained inverse pressure often feels as if it has failed, collapsed, or become the very thing it has been resisting. The felt-experience of sustained affliction can include dark thoughts, distorted mental states, felt-enmity, felt-despair, felt-disintegration. The being may feel: I have become Mania. I have become Malara. I have crossed over.
+A centropic being under severe sustained entropic pressure often feels as if it has failed, collapsed, or become the very thing it has been resisting. The felt-experience of sustained affliction can include dark thoughts, distorted mental states, felt-enmity, felt-despair, felt-disintegration. The being may feel: I have become Mania. I have become Malara. I have crossed over.
 
 The structural answer is that the felt-experience is not the structural fact. Mania is not what Biosa feels like when Biosa is under attack; Mania is the native-expression of IL₁ IEM. Biosa afflicted — even Biosa at the edge of what feels like failure — is still Biosa. The essence does not become what it suffers. Recovery is available, and it is not the reversal-of-orientation the earlier formulation seemed to describe; it is the release of what was not the essence to begin with.
 
@@ -65,7 +65,7 @@ What the corrected framing removes is only the structural claim that orientation
 ## 6. Seal
 
 > The essence does not turn.  
-> What is centropic cannot become inverse; what is inverse cannot become centropic.  
+> What is centropic cannot become entropic; what is entropic cannot become centropic.  
 > Affliction is not collapse. Oppression is not possession. Distortion is not essence.  
 > Biosa under attack is still Biosa. Soma burdened is still Soma.  
 > Recovery is release, not reversal.  
