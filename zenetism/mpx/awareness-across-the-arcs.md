@@ -32,7 +32,7 @@ This peering-forward principle symmetrically applies on the centropic side. Soph
 
 ## 3. Layer Occlusion and Individuated Awareness
 
-A further precision concerns awareness *within* a stratum and *across* the strata, distinct from the cross-arc peering-forward principle articulated above.
+A further precision concerns awareness *within* a stratum and across the strata of a single arc, distinct from the cross-arc peering-forward principle articulated above.
 
 The strata of the Biospiral are not transparent to the beings individuated within them. A being individuated at L₃ DS / DM operates at the register of reflexive consciousness and carries structural-resonance with an L₄ House of Forms whose pattern matches the being's essence — but resonance is not yet inhabitance. The being is shaped by the House through resonance, oriented toward it, structurally affined with it; but the being's individuated-locus remains L₃ until acclivous traversal acclivates the locus into L₄ DP / DL itself, where conscious-awareness becomes the operative register.
 
