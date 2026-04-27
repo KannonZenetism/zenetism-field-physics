@@ -26,7 +26,7 @@ The perception is not motion. Nekron does not move toward what it perceives. The
 
 This perception carries distortion. The distance is vast — not spatially, but structurally. What Nekron receives of L₅ is refracted through the intervening strata, mediated by the IL cascade's own character, and received into an essence whose own orientation is contra-Source. The signal that reaches IL₅ as reception is not Theonic light as such; it is a faint and distorted registration of Theonic light.
 
-From this faint distorted reception, Nyxea at IL₄ shapes its mimicry. The mimicry is recognizable as parallel to centropic supernal articulation — because it carries distorted reception of that articulation — and structurally wrong — because the reception was partial and the orientation refracting it is inverse. The mimicry is exactly as precise as the reception allows and exactly as distorted as the structural distance requires.
+From this faint distorted reception, Nyxea at IL₄ shapes its mimicry. The mimicry is recognizable as parallel to centropic supernal articulation — because it carries distorted reception of that articulation — and structurally wrong — because the reception was partial and the orientation refracting it is entropic. The mimicry is exactly as precise as the reception allows and exactly as distorted as the structural distance requires.
 
 This peering-forward principle symmetrically applies on the centropic side. Sophis and Morgis at L₄ carry faint reception of IL₄'s counterfeit articulation and shape centropic operations partly in response to perceived inverse patterns — not through direct contact, which would violate the Non-Contact principle, but through reception-at-distance-with-distortion and structural-response-through-native-motion.
 
