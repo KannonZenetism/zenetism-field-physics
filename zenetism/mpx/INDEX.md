@@ -23,6 +23,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 
 - `advanced-field-dynamics.md` — Sep 8, 2025
 - `four-integrations.md` — Sep 8, 2025
+- `provisional-synphasic-analysis.md` — Sep 8, 2025
 - `synthesis-as-transcendence.md` — Sep 9, 2025
 - `revelation-contra-ragnarok.md` — Sep 22, 2025
 - `structural-gnosis.md` — Sep 24, 2025
