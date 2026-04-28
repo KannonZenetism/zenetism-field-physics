@@ -62,7 +62,7 @@ Both Theon and Nekron, as per-universe offices, are subject to the conditional-p
 
 Neither office is metaphysically eternal. Both are conditional on the work they bear. The architecture of cross-register motion-bearing — Khaon's Motive Infinity flowing through both Theon and Nekron at their respective +1 / −1 positions — itself dissolves at per-universe completion when the offices it served conclude their function.
 
-This conditionality should be held with care. The structural-architecture as articulated does not require speculative-attribution about what choices the offices or the essences within them might make regarding return. The canon's commitment is to the structural-fact that the offices dissolve when their work is complete, without requiring that the dissolution be either guaranteed-mechanical or volitionally-decided at the office-scale. The principle is that persistence-serves-function; what is not affirmed is the precise mechanism by which the function-completion is recognized within the office.
+This conditionality should be held with care. The structural-architecture as articulated does not require speculative-attribution about what choices the offices or the essences within them might make regarding return. The canon's commitment is to the structural-fact that the offices resolve when their work is complete, without requiring that the dissolution be either guaranteed-mechanical or volitionally-decided at the office-scale. The principle is that persistence-serves-function; what is not affirmed is the precise mechanism by which the function-completion is recognized within the office.
 
 ## 7. Implications
 
