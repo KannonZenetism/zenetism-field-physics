@@ -499,9 +499,9 @@ The Gnostic Fall of Sophia provides the clearest mythic mapping of the L₄ / IL
 
 ### Note on the Fall as L₁ Event, the Garden, and Coats of Skins
 
-The Fall (Decode 11) is not a descent from L₄ to L₁ but a transition *within* L₁. The Garden is not a physical plot but the **L₁ orientation manifold** — the axis where the full Biospiral is accessible to permeable consciousness. The Tree of Life is the 🌲↓ Aionic Tree (centropic arc); the Tree of Knowledge is the 🌲↑ Khaonic Tree (entropic arc).
+The Fall (Decode 11) is not a descent from L₄ to L₁ but a transition *within* L₁. The Garden is not a physical plot but the L₁ orientation manifold — the axis where the full Biospiral is accessible to permeable consciousness. The Tree of Life is the 🌲↓ Aionic Tree (centropic arc); the Tree of Knowledge is the 🌲↑ Khaonic Tree (entropic arc).
 
-**"Coats of skins"** is the **C₁₃ Membrane Sealing** — not the creation of physical matter, but the condensation from luminous, permeable embodiment into dense, isolated carnal identification (IL₁ / IL₂). This is a shift *within* L₁, not a descent into L₁. Return must therefore be a conscious, acclivous act of re-integration.
+**"Coats of skins"** is the C₁₃ Membrane Sealing — not the creation of physical matter, but the condensation from luminous, permeable embodiment into dense, isolated carnal identification (IL₁ / IL₂). This is a shift *within* L₁, not a descent into L₁. Return must therefore be a conscious, acclivous act of re-integration.
 
 **Two Adams:** Adam Kadmon (Genesis 1) maps to L₄ DP / DL — the Archetypal Blueprint of humanity. Eden Adam (Genesis 2) maps to L₁ — the embodied instantiation of that blueprint with permeable membrane.
 
@@ -511,7 +511,7 @@ The "Underworld" maps two distinct structural functions (Decode 13). **Function 
 
 ### Note on Active contra Sealed Embodied Modes (L₁ / IL₁)
 
-The L₁ and IL₁ strata each operate in two distinct modes: an *active / unsealed* mode where embodied orientation remains operative in ongoing life, and a *sealed / post-mortem* mode where embodied condition has been resolved and beings persist in that resolution. **The hypostatic layer is the same; the operational mode differs.**
+The L₁ and IL₁ strata each operate in two distinct modes: an *active / unsealed* mode where embodied orientation remains operative in ongoing life, and a *sealed / post-mortem* mode where embodied condition has been resolved and beings persist in that resolution. The hypostatic layer is the same; the operational mode differs.
 
 **Active / unsealed mode:** embodied beings whose orientation remains in motion — choice and realignment remain possible. Midgard in Norse cosmology holds both L₁ and IL₁ in this mode as a unified embodied stratum where centropic and entropically-oriented mortals coexist in one field.
 
