@@ -1328,9 +1328,9 @@ Centropic essences do not become entropic, nor vice versa. Essence is the potent
 - **Priority:** Medium
 
 ### Decode 03 — Aesir, Odin, Ahura Mazda, Ahriman
-- Aesir / Odin: Layer update from L₃ DS to L₄ DP / DL
-- Asgard: Mapping update from L₃ to L₄ (parallel to Olympus)
-- Add Heimdall at L₃ DS / DM as native Norse figure
+- Aesir / Odin: Layer update from L₃ DS to **L₄ DL (Sophis)** specifically per Yggdrasil canonical mapping
+- Asgard: Mapping update from L₃ to **L₄ DL** (parallel to Olympus)
+- Add Heimdall at **L₃ DM (Noeüs)** as native Norse figure
 - Verify Ahura Mazda at L₅ EOB, Ahriman at IL₅ VOS
 - **Priority:** High
 
