@@ -80,6 +80,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `awareness-across-the-arcs.md` — Apr 22, 2026
 - `centropic-affliction-contra-entropic-collapse.md` — Apr 22, 2026
 - `archonic-misplacement.md` — Apr 25, 2026
+- `theon-spirit-and-bifurcation.md` — Apr 28, 2026
 
 ---
 
