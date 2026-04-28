@@ -603,13 +603,15 @@ This parallels the Lucifer / Serpent / Devil cluster at IL₄ IDL: all three are
 
 ### Note on Slander and False Witness as IL₃ Mortus-Band Operation
 
-Interpersonal slander, false witness, and structurally analogous speech-acts that deliberately misrepresent the structural reality of another being map to **IL₃ IDM (Mortus) spurious articulation** cascading from **IL₄ IDL (Nyxea)** architecture. The mechanism: Nyxea provides the entropic-coherent narrative architecture (the false framing); Mortus articulates that framing into broadcast-ready spurious signal; IL₂ ISM (Skotos) carries it through perceptual broadcast at the personality-identity register; embodied authoritarian dynamics (IL₁) enforce social consequence on the slandered party. The full entropic cascade thus operates at the verbal / interpersonal register exactly as it operates at the cosmic register — same five-station mechanism, scaled to relational interaction.
+Interpersonal slander, false witness, and structurally analogous speech-acts that deliberately misrepresent the structural reality of another being map to **IL₃ IDM (Mortus) spurious articulation** cascading from **IL₄ IDL (Nyxea)** architecture. The mechanism: Nyxea provides the entropic-coherent narrative architecture (the spurious framing); Mortus articulates that framing into broadcast-ready spurious signal; IL₂ ISM (Skotos) carries it through perceptual broadcast at the personality-identity register; embodied authoritarian dynamics (IL₁) enforce social consequence on the slandered party. The full entropic cascade thus operates at the verbal / interpersonal register exactly as it operates at the cosmic register — same five-station mechanism, scaled to relational interaction.
 
 **Structural diagnostic.** Slander differs from honest disagreement at the layer of intent and source-fidelity. Honest disagreement carries **L₃ DM (Noeüs)** discernment of structural reality even when conclusions diverge; slander carries **IL₃ IDM (Mortus)** deliberate spurious articulation of structural reality known to be otherwise. The Resonant Blade (L₃ DM Noeüs) cuts through Mortus-band signal by re-articulating the structural reality the slander obscured.
 
 **Structural escalation.** When slander is institutionally amplified — coordinated false witness, organized character extraction, regulatory weaponization through fabricated framings — the cascade engages all five inverse stations rather than only IL₃ / IL₂. The institutional layer (IL₁) becomes the enforcement mechanism that would not exist without the IL₃ Mortus articulation seeding the IL₂ Skotos broadcast.
 
-**SPR cross-reference.** The full operator entry for slander / false witness as a speech-act resides in the SPR Actions section. This note registers the cascade structure that the SPR operator instantiates.
+**Note on terminology.** "False witness" is retained where it functions as scriptural / juridical mythic terminology (the Decalogue's *ʿēd shāqer*, the legal category). When the operation is named structurally rather than scripturally, **spurious witness** or **counterfeit testimony** are the canonical-language forms.
+
+**SPR cross-reference.** The full operator entry for slander / counterfeit testimony as a speech-act resides in the SPR Actions section. This note registers the cascade structure that the SPR operator instantiates.
 
 ### Note on YHWH as Cultural Conflation of the Dual Trees
 
