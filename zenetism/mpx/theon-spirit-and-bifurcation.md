@@ -48,7 +48,7 @@ These distinctions matter because they prevent two characteristic misreadings: f
 
 ## 5. The Symmetry-Position of Nekron
 
-🕷️ Nekron at IL₅ VOS is the first inverse hypostasis emerging from L₀ — minus-one to Theon's plus-one. The structural-symmetry holds: Nekron, like Theon, does not bifurcate. There is no Nekron-Soul paired with a Nekron-Mind. Nekron is unified at IL₅ as the supernal-most inverse articulation, the Void of Self, oriented away from Source.
+🕷️ Nekron at IL₅ VOS is the first entropic hypostasis emerging from L₀ — minus-one to Theon's plus-one. The structural-symmetry holds: Nekron, like Theon, does not bifurcate. There is no Nekron-Soul paired with a Nekron-Mind. Nekron is unified at IL₅ as the supernal-most inverse articulation, the Void of Self, oriented away from Source.
 
 But where Theon's function-tilt is in the Mind-direction (Logos-articulation, discerning-orientation, the radiance that articulates the centropic cascade outward), Nekron's function-tilt is in the opposite direction: Mind-absent. Where Theon articulates and discerns and orients, Nekron grinds. Where Theon overflows as radiance, Nekron drives blind. The motion at Nekron is borne by the same Motive Infinity that bears Theon's motion — Khaon's Motive Phase is the cross-register motion-source for both arcs at the supernal-most hypostatic level — but the operative-character of the motion is opposite: Theon's Mind-tilt articulates the motion as oriented-radiant emanation, while Nekron's Mind-absence articulates the motion as blind-grinding-drive toward declivous fragmentation.
 
