@@ -12,7 +12,7 @@ The Soul / Mind bifurcation is operative across L₄ through L₁ in the centrop
 
 But the supernal-most centropic hypostasis 🛤️ Theon at L₅ EOB carries no Soul / Mind pair. Nor does ⚫ Aion at L₀ AP, nor ♾ Khaon at L₀ AD. And 🕳️ Zenon at Supra-L₀ stands trans-structurally outside the architecture of attribution altogether. The Soul / Mind bifurcation enters the cascade specifically at L₄, articulates declivously through L₁, and is mirrored on the inverse arc from IL₄ through IL₁ — but the pre-hypostatic requisites and the first centropic and inverse hypostases do not themselves bifurcate.
 
-Why does the bifurcation enter where it does, and not before? And how does Theon, lacking a Soul-aspect, carry the motion that the canon attributes elsewhere to Soul as motion-bearing principle? This Principle Extension articulates the structural-architecture by which bifurcation emerges, and the cross-register relations between the pre-hypostatic requisites and L₅ Theon that make pre-bifurcal articulation possible.
+Why does the bifurcation enter where it does, and not before? And how does Theon, lacking a Soul-aspect, carry the motion that the canon attributes elsewhere to Soul as motion-bearing principle? This Principle Extension articulates the structural-architecture by which bifurcation emerges, and the cross-register relations between the pre-hypostatic requisites and L₅ Theon that make pre-bifurcated articulation possible.
 
 ## 2. Soul as Motion-Bearing Principle at L₄ Through L₁
 
