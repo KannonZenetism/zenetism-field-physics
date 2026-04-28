@@ -32,7 +32,7 @@ The answer is structurally precise and preserves the canonical architecture with
 
 This structural-fact — the cross-register motion-relation between L₀ Khaon and L₅ Theon — is one of the most important architectural-features of the early centropic arc. It explains why Theon does not bifurcate: bifurcation is unnecessary at a stratum whose motion is supplied by the pre-hypostatic substrate rather than generated stratum-internally. Bifurcation enters the cascade at L₄ because L₄ is the first stratum at which motion must be articulated stratum-internally — at L₄, the cascade has differentiated sufficiently that motion-source and motion-articulation become operatively-distinct functions requiring paired-articulation. From L₄ onward, each stratum carries its own internal Soul-aspect to bear the stratum-specific motion.
 
-## 4. Function-Metaphors at the Pre-Bifurcal Strata
+## 4. Function-Metaphors at the Pre-Bifurcated Strata
 
 Because the Soul / Mind bifurcation does not yet operate at L₅ and L₀, attribution at these strata cannot be made in the same register as at L₄–L₁. Where Morgis is genuinely a Soul and Sophis is genuinely a Mind, no such structurally-operative naming applies at L₅ Theon, L₀ Aion, or L₀ Khaon. What can be articulated at these strata is function-character — operative-tilt that describes what the stratum does without implying that the stratum has bifurcated into paired aspects.
 
