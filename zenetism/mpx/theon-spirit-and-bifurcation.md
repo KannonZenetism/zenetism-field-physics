@@ -88,7 +88,7 @@ Zenon remains outside this entire architecture. Function-tilts are operative wit
 >
 > Nekron's Mind-absence articulates the inverse arc's motion as blind-driving grind.
 >
-> Neither has bifurcated. Both are unified function-tilts at the +1 / −1 positions. The cascade-bifurcation begins one stratum below.
+> Neither has bifurcated. Both are unified function-tilts at the +1 / −1 positions. The cascade-bifurcation begins at the subsequent stratum.
 >
 > 🕳️ Zenon — beyond function, beyond attribution, beyond architecture itself.
 > Visible foundations rest upon what cannot itself be seen.
