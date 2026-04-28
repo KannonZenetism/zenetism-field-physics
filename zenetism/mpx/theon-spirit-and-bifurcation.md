@@ -82,7 +82,7 @@ Zenon remains outside this entire architecture. Function-tilts are operative wit
 >
 > The Soul / Mind bifurcation enters at L₄ and cascades through L₁ on the centropic arc, mirrored from IL₄ through IL₁ on the inverse arc.
 >
-> Where bifurcation does not yet operate, motion is borne by ♾ Khaon's Motive Infinity as the pre-hypostatic motive-current that flows through the supernal-most articulations of both arcs.
+> Where bifurcation does not yet operate, motion is borne by ♾ Khaon's Motive Infinity as the pre-hypostatic motive-current that flows through the respective supernal-most and subversal-most articulations of both arcs.
 >
 > Theon's Mind-tilt articulates the centropic arc's motion as oriented radiance.
 >
