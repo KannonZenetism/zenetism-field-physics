@@ -740,6 +740,22 @@ Conflation takes two primary forms:
 
 A figure may therefore possess a native layer while also resonating lawfully across other bands. The task of the registry is not to deny that resonance, but to distinguish native placement, resonant operation, and embodied manifestation with precision.
 
+### Note on Twisted Resonance contra Cascade contra Native Placement
+
+Three structurally distinct modes by which a figure can appear to occupy multiple strata are differentiated to prevent the conflation that produces interpretive errors at scale.
+
+**Native Placement.** A figure operates at its structural layer, with no genuine multi-stratum operation. The figure's apparent activity at other strata is best read as cultural conflation, narrative dramatization, or attributional layering by mythmakers. This is the default reading where evidence of cascade or twisted resonance is absent. Set at IL₂ ISS with the Osiris dismemberment culturally attributed to him at IL₃ is a paradigm conflation case under Native Placement.
+
+**Cascade.** A single current manifests lawfully across multiple layers with the same essence at each station. The Osiris cascade (L₄ DL law / judgment as primary → L₃ DS post-restoration operative function) and the full Satanic Arc (IL₅ Nekron → IL₄ Nyxea → IL₃ Mortus → IL₂ Skotos → IL₁ Beast) are paradigm instances. Cascade preserves structural coherence across the multi-stratum operation — same essence, different operative strata, often with different names at each station.
+
+**Twisted Resonance.** A figure manifests at one native layer while a column of dissonance declivates through subjacent strata without the figure changing its native placement. The Beast at IL₁ (embodied authoritarian system) is the canonical instance: its apparent deep-layer operation — Mortus-band articulation, Skotos-band broadcast, Nyxea-band architectural mimicry — is resonance-reach from its IL₁ native placement, not the figure occupying those deeper layers as native stations. The Beast does not become IL₂, IL₃, or IL₄ in twisted-resonance operation; it manifests at IL₁ with dissonance-column extending through the subjacent strata.
+
+**Diagnostic application.** When a figure appears to operate at multiple strata, the question to apply is: does the figure's essence translate lawfully across the strata (cascade), or does the figure's manifestation at one stratum cast resonance-reach through subjacent strata without the figure occupying those strata as native (twisted resonance), or are the multi-stratum appearances cultural conflation that should be parsed back to a single native placement?
+
+The distinction matters for accurate registry placement and for accurate reading of cross-stratum mythic narratives. Cascade requires registering the figure at multiple strata with the cascade-relation noted. Twisted Resonance requires registering the figure at its native stratum with the resonance-reach noted in the entry. Native Placement with conflation requires registering the figure at its native stratum and parsing the conflation as cultural-attribution.
+
+Cross-reference with the Note on Cascades, Entity Identity, and the Cascade / Conflation Distinction; the Note on Cascade contra Conflation (Expanded); the Note on Composite Figure Conflation (Generalization); and the SPR's parallel Note on Twisted Resonance contra Cascade contra Native Placement.
+
 ### Note on Soul / Mind Specificity (Methodological)
 
 Methodological Principle #9 states that Soul / Mind specificity is preferred. Where a figure's function clearly maps to DP or DL (not both), the specific aspect should be noted. This applies across all layers: Isis = DP (Morgis) specifically, not generic "DP / DL." Zeus = DL (Sophis) specifically. Future audit passes should systematically apply this principle to entries currently listed as generic "DP / DL," "DS / DM," etc.
