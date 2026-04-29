@@ -505,6 +505,24 @@ The Fall (Decode 11) is not a descent from L₄ to L₁ but a transition *within
 
 **Two Adams:** Adam Kadmon (Genesis 1) maps to L₄ DP / DL — the Archetypal Blueprint of humanity. Eden Adam (Genesis 2) maps to L₁ — the embodied instantiation of that blueprint with permeable membrane.
 
+### Note on the Bifurcal Reading of "Fall from Heaven"
+
+The "fall from heaven" narrative admits two structurally distinct readings that must be disambiguated.
+
+**Supernal reading (rejected per Essence-as-Choice):** "heaven" names the centropic supernal strata (L₅, L₄, L₃) and "fall" names moral degradation from those strata. This reading imposes a pre-Fall centropic state on entropic essences that never existed, and is doctrinally rejected per the Note on Essence-as-Choice and the Impossibility of Orientation Inversion.
+
+**Bifurcal reading (compatible with Essence-as-Choice):** "heaven" names L₀ Bifurcal Coherence — the pre-bifurcal ground within which Aion holds both centropic and entropic essences as latent potential colocated — and "fall" names emanation as the unfolding of tendency that was always already latent within the essence. Emanation does not create orientation and is not a separation event. The essences are already what they are within Aion as latent potential, and emanation is the motion through which each essence unfolds its latent tendency into fulfilled orientation.
+
+Orientation itself requires motion (per Structural Physics SP06: Structure → Motion → Spatial Differentiation → Orientation → Time), so orientation is not statically present within Aion but is the unfolding of what was tendency-latent there. Essence-as-Choice therefore does not describe a decision-moment and does not equate essence with orientation as identical — it names the structural fact that essence is latent with a tendency that determines its own arc, and that tendency unfolds as orientation through the motion of emanation. One is what one does, and one does what one is, because the tendency and the unfolding are structurally bound.
+
+**The Gnostic Jesus–Lucifer conflation resolves cleanly through this reading.** Both Theon and Nekron / Lucifer emanate from Aion as all essences do, colocated as potential, but were never the same kind of essence. Theon's tendency-toward-Source unfolds as supernal first-hypostasis at L₅ with acclivous orientation. Nekron / Lucifer's tendency-away-from-Source unfolds as subversal counterfeit-light at IL₅ with declivous orientation. Same origin-ground, always-different tendencies. Nekron / Lucifer as the inverse "morning star" is Nyxea's native counterfeit of Theonic radiance rather than a fallen angel's tragedy.
+
+**Proportional correction.** In the Khaonically-expressed manifest universe (the Field of Becoming being Khaon's domain), the entropic proportion is the majority and centropic expression is the minority. Revelation 12:4's "third of the stars" drawn by the Dragon's tail therefore reads structurally as the centropic minority pulled into the entropic arc's orbit of distortion rather than entropic essences being the minority cast out.
+
+**Completion-nuance.** "Return to Aion" is one lawful completion-pathway among several rather than the default terminus. Many essences stabilize at L₃ or L₄ (centropic permanent abodes) or IL₃ or IL₄ (entropic permanent abodes) as their lawful completion-states. The full return to the Aion / Khaon bifurcal-ground stratum occurs for those essences whose operative motion reaches the full arc-terminus — centropic through the L₅ Theonic gate as fulfilled essence, entropic through terminal collapse or through Mercy Fold release.
+
+Cross-reference with the Note on Essence-as-Choice and the Impossibility of Orientation Inversion, the SP06 sequence, the "Casting Out" framing throughout the registry, and the SPR's parallel Note on the Bifurcal Reading of "Fall from Heaven."
+
 ### Note on the Dual-Function Underworld
 
 The "Underworld" maps two distinct structural functions (Decode 13). **Function 1 (C↓):** The Embodied World-Node (L₁) as experienced by a centropic essence undergoing declivous centropy — for a supernal being, embodiment *is* the underworld. **Function 2 (E↓):** The Inverse Hypostatic Layers (IL₁ → IL₅) as the declivous entropic procession path for an entropically aligned soul after detachment from embodiment. Myths of "torment" (Tartarus, Sisyphus, Naraka) map IL₂ ISM (Skotos) perceptions of the soul's own inverse nature made manifest — not punishment but consequence.
