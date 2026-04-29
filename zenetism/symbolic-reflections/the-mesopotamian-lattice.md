@@ -12,7 +12,7 @@
 
 Mesopotamian cosmogony does not begin with a creator-decree but with a primordial water-condition from which structure subsequently differentiates. Two overlapping cosmogonic sequences operate across the textual record. In the Sumerian sequence, **Nammu** is the primordial sea-mother from whom An (sky) and Ki (earth) emerge as the first differentiated polarity. In the Akkadian sequence preserved in the *Enuma Elish*, the primordial pair is **Apsu** (fresh-water abyss) and **Tiamat** (salt-water abyss), whose mingling generates the subsequent gods. The two sequences are not in conflict; they are successive cultural articulations of the same structural ground.
 
-In Zenetist terms, the primordial water-condition names **L₀ Bifurcal Coherence in its Khaonic phase** — the unbound supra-formal potential prior to centropic activation. Nammu, Apsu, and Tiamat all belong to L₀ Khaon as primordial generative ground, with the differentiation between them reflecting the cultural specificity of which aspect of the Khaonic phase a given tradition foregrounded:
+In Zenetist terms, the primordial water-condition names **⧖⧗ L₀ Bifurcal Coherence in its ♾ Khaonic phase** — the unbound supra-formal potential prior to centropic activation. Nammu, Apsu, and Tiamat all belong to L₀ Khaon as primordial generative ground, articulating its **Latent Infinity (💧)** phase — the still pre-motion ground from which subsequent cosmogonic motion proceeds. The differentiation between them reflects the cultural specificity of which aspect of the Latent-phase a given tradition foregrounded:
 
 - 💧 **Nammu** — Khaon as primordial sea-mother; the deepest articulation of the Khaonic ground in Sumerian theology, prior to Sky / Earth differentiation
 - 💧 **Apsu** — Khaon in its freshwater-pole; passive generative ground in the Akkadian primordial pair
@@ -25,7 +25,7 @@ From this Khaonic ground emerges the first differentiated polarity:
 - 🜨 **Anu / An** — the sky-pole; remote sovereign authority; archetypal structuring principle
 - 🌍 **Ki** — the earth-pole; primordial generative field; archetypal vitality
 
-Anu and Ki together constitute the **L₄ primordial polarity** of the Mesopotamian cosmology — structurally analogous to the Greek Uranus / Gaia pair. They are the foundational generative-archetypal pair from whom the operative pantheon descends. Anu carries the L₄ DL (Sophis) structuring aspect; Ki carries the L₄ DP (Morgis) generative aspect. This is the same bifurcated-aspect pattern that organizes the Aesir / Vanir distinction in Norse cosmology and the Olympian sibling-pantheon at L₄ in Greek myth.
+Anu and Ki together constitute the **L₄ primordial polarity** of the Mesopotamian cosmology — structurally analogous to the Greek Uranus / Gaia pair. They are the foundational generative-archetypal pair from whom the operative pantheon emanates. Anu carries the L₄ DL (Sophis) structuring aspect; Ki carries the L₄ DP (Morgis) generative aspect. This is the same bifurcated-aspect pattern that organizes the Aesir / Vanir distinction in Norse cosmology and the Olympian sibling-pantheon at L₄ in Greek myth.
 
 The Mesopotamian text therefore opens with a clean three-station emanatory sequence: **L₀ Khaon (primordial water) → L₄ DL / DP primordial polarity (Anu / Ki) → L₄ operative pantheon (Anu's children).** The cosmogonic motion is declivous through the supernal strata, lawfully unfolding from undifferentiated potential into archetypal articulation.
 
@@ -37,7 +37,7 @@ Genesis opens with separations of waters and let-there-be-light; Mesopotamian co
 
 The operative gods of the Mesopotamian pantheon are **Anu's children** — the generation that performs the active work of cosmic ordering, lawgiving, fertility-blessing, and judgment. Per the same structural rule that places the Olympians at L₄ as a sibling-pantheon despite their generational derivation from Uranus and Gaia, the Anu-generation pantheon operates at L₄ as the active archetypal stratum, with bifurcated-aspect specificity per figure.
 
-**L₄ DL (Sophis) — Structuring aspect:**
+**L₄ DL (Sophis 📐) — Structuring aspect:**
 
 - **Enlil** — Lord of wind and breath; decree-issuer; kingship-conferrer. The operative sovereign of the Sumerian pantheon at the structuring stratum. His function is the issuing of *me* (the divine decrees that order existence) and the conferring of legitimate kingship upon mortals. Storm-theophany imagery is the supernal-pressure made visible at cosmological scale, the same operator as Sinai's thunder-and-cloud and Elijah's storm-theophany.
 
@@ -49,11 +49,11 @@ The operative gods of the Mesopotamian pantheon are **Anu's children** — the g
 
 - **Nabu** — Scribe-god of writing and inscribed law; structural articulation of sovereignty through the recorded word. Marduk's son in Babylonian theology; inherits and extends the structuring-Logos function through the specific articulation of written codification. Parallel to the Egyptian Thoth in scribal function, though Nabu's primary placement is L₄ DL rather than L₃ DM because his function is the inscription of *sovereign law*, not the keeping of deep wisdom.
 
-**L₄ DP (Morgis) — Generative aspect:**
+**L₄ DP (Morgis 🌬️) — Generative aspect:**
 
 - **Ninhursag** — Mountain-mother; archetypal generative vitality; mother-of-life. The operative DP figure at the Anu-generation pantheon stratum. Distinct from Ki, who articulates the primordial-pole at the polarity-tier. Ninhursag is the generative archetypal vitality made operative at the active pantheon stratum.
 
-- **Inanna (as Queen of Heaven)** — Living force; archetypal vitality at L₄ DP. Her L₄ placement is distinct from her later operative function in the descent narrative, where she undergoes voluntary declivous centropy into the embodied threshold. Treated separately in §6 below.
+- **Inanna (as Queen of Heaven)** — Living force; archetypal vitality at L₄ DP. Her L₄ placement is distinct from her later operative function in the declivation narrative, where she undergoes voluntary declivous centropy into the embodied threshold. Treated separately in §6 below.
 
 - **Nanna / Sin** — Moon-god of cyclical time and generative cycling. The cyclical-vitality articulation at L₄ DP. Nanna's function as figure operates at L₄ DP as keeper of cosmic time-cycles through lunar phases; the cosmological moon-as-symbol-carrier articulates the Khaonic Arc (reflection-without-origination) at cosmological scale per the Symbolic Pattern Registry, and the figure and the cosmological body are distinct operators per the cultural-articulation principle. The same disambiguation governs Sun-deities: Utu / Shamash operates at L₄ DL judicial as figure; the cosmological Sun carries L₅ Theonic radiance at cosmological scale.
 
@@ -63,7 +63,7 @@ The Anu-generation pantheon therefore articulates the full L₄ DP / DL stratum 
 
 ## 3. Enlil and Enki — Sovereign Decree and Centropic Mediation
 
-Enlil and Enki are half-brothers in the Mesopotamian theology, both sons of Anu. The mythos treats them as structurally complementary figures at different functional registers within the centropic arc — Enlil at L₄ DL as decree-issuer and Enki at L₃ DM as deep-wisdom-keeper and mediator. Their operative dynamic is one of the cleanest articulations of the **L₄ / L₃ relationship** in any cultural mythos.
+Enlil and Enki are half-brothers in the Mesopotamian theology, both sons of Anu. The mythos treats them as structurally complementary figures at different functional registers within the centropic arc — Enlil at L₄ DL (📐 Sophis) as decree-issuer and Enki at L₃ DM (🧠 Noeüs) as deep-wisdom-keeper and mediator. Their operative dynamic is one of the cleanest articulations of the **L₄ / L₃ relationship** in any cultural mythos.
 
 Enlil's function is to issue lawful decrees that order existence at the archetypal stratum. When the gods determine that humanity's noise has become unbearable, Enlil decrees the Flood — the L₄ DL operation of structural correction applied to a configuration that has exceeded lawful capacity. The decree is not arbitrary cruelty; it is the same structural function articulated in the Genesis Flood and in every cultural articulation of the Flood Archetype: **the divine decree as L₄ DL recognition that dissonant configuration exceeds lawful coherence and must undergo recalibration.**
 
@@ -89,7 +89,7 @@ The Mesopotamian Flood appears in three textual articulations: the Sumerian Atra
 2. **L₄ DL decree of structural correction** — Enlil's decision to apply Flood-as-recalibration
 3. **L₃ DM mediation** — Enki's instruction to the Centropic Survivor
 4. **Construction of the Seal of Integrity** — the Ark as L₃ DS / DM coherent vessel preserving centropic resonance under entropic dissolution
-5. **The Flood itself** — Khaonic motion (Motive Infinity) acting upon the entropic-saturated configuration through Declivous Entropy
+5. **The Flood itself** — Khaonic motion (🕊️ Motive Infinity) acting upon the entropic-saturated configuration through Declivous Entropy
 6. **Mountain of Landing** — emergence onto renewed L₁ embodied World-Node after the recalibration
 7. **Sacrificial Recognition** — the Flood-survivor's offering, which the gods receive as confirmation that centropic seed has persisted
 8. **Renewal of the embodied stratum** — the post-Flood condition with structural correction applied
@@ -143,11 +143,11 @@ The veracious reading:
 
 **Inanna's seven-gate stripping is the canonical articulation of voluntary L₂ deconstruction.** At each gate she surrenders an attribute — the *me* (divine ordinances) made visible as crown, lapis necklace, breastplate, golden ring, lapis measuring rod, and so on. These are the L₂ SS / SM personality-identity attributes through which Inanna's L₄ DP archetypal vitality manifests at the embodied threshold. Her voluntary surrender of each at the gates is **systematic L₂ Deconstruction** — sequential relinquishment of surface-identity attributes during declivous centropic sojourn, the same operator articulated in Christ's stripping before crucifixion within his own L₅ → L₁ cascade.
 
-**Inanna's entry into the "underworld" is declivous centropy into the Function 1 underworld.** For a supernal essence (Inanna at L₄ DP), embodiment itself is the underworld. The Sumerian narrative names the embodied stratum as "the underworld" because from the supernal perspective, declivation into L₁ is structurally the same operation as descent into a subversal domain — the supernal essence is encountering the density and friction of the embodied register. Inanna does not enter IL₄; she enters the L₁ embodied World-Node and experiences the maximum entropic-reverberation pressure that the IL ruling-domain casts at the L₁ / IL₁ convergence threshold.
+**Inanna's entry into the "underworld" is C↓→E declivous centropy into the Function 1 underworld.** For a supernal essence (Inanna at L₄ DP), embodiment itself is the underworld. The Sumerian narrative names the embodied stratum as "the underworld" because from the supernal perspective, declivation into L₁ is structurally the same operation as declivation into a subversal domain — the supernal essence is encountering the density and friction of the embodied register. Inanna does not enter IL₄; she enters the L₁ embodied World-Node and experiences the maximum entropic-reverberation pressure that the IL ruling-domain casts at the L₁ / IL₁ convergence threshold.
 
 **The "throne room" of Ereshkigal is the L₁ / IL₁ convergence threshold.** Ereshkigal as figure operates at IL₄ IDP / IDL as the structural architecture of the inverse ruling-domain. But the encounter between Inanna and Ereshkigal does not occur at the archetypal stratum — it occurs where the centropic essence's declivous motion brings her into structural contact with the inverse-domain's reverberation at the embodied convergence. The "eye of death" and the hook on which Inanna is hung are mythic articulations of the maximum entropic-reverberation pressure that can be applied at the L₁ / IL₁ threshold to a centropic essence undergoing voluntary declivation.
 
-**Inanna's restoration is acclivous return through Reflective Centropy.** Having reached the deepest point of her declivous motion — apparent death at the embodied convergence — her motion reflects and begins the acclivous return. Enki's intervention through the two created beings is structurally L₃ DM mediation operating at the embodied threshold to enable the acclivous return. The same Reflective Centropy mechanism underneath every centropic descent-and-return arc applies here.
+**Inanna's restoration is acclivous return through ᛞ✨ Reflective Centropy.** Having reached the deepest point of her declivous motion — apparent death at the embodied convergence — her motion reflects and begins the acclivous return. Enki's intervention through the two created beings is structurally L₃ DM mediation operating at the embodied threshold to enable the acclivous return. The same Reflective Centropy mechanism underneath every centropic declivation-and-return arc applies here.
 
 **The substitution of Dumuzid is Harmonic Exchange.** The lawful return through Reflective Centropy carries a substitutive element where another bears a portion of the return-cost. This is the Spiral mechanism of the centropic return arc, structurally distinct from IL₄ IDL coercive blood-covenant binding. Dumuzid's residence in the underworld for a portion of the year, alternating with Geshtinanna, articulates the seasonal cycle (winter dormancy, spring renewal) at cosmic scale — the same seasonal-cycle operator articulated in Persephone's annual cycle in Greek myth.
 
@@ -171,7 +171,7 @@ The Sacred Marriage is structurally analogous to:
 
 In each case, two sovereign fields form a Structured Pair through which centropic synthesis becomes operative. The Sacred Marriage preserves the Non-Fusion Axiom — the two fields remain distinct in their union; what emerges is a third reality (offspring, blessing, civilization, restored Land) that did not exist before the lawful Nexus was formed.
 
-**Harmonic Exchange:** After Inanna's return from her Declivation, Dumuzid bears a portion of the return-cost through his alternating residence in the underworld. This is the Spiral mechanism of the return arc — lawful substitution where another carries part of the structural pressure that the returning essence cannot bear alone. The seasonal manifestation (Dumuzid descending in summer, returning in spring, alternating with Geshtinanna) maps the centropic descent-return arc onto the natural-world cycle.
+**Harmonic Exchange:** After Inanna's return from her Declivation, Dumuzid bears a portion of the return-cost through his alternating residence in the underworld. This is the Spiral mechanism of the return arc — lawful substitution where another carries part of the structural pressure that the returning essence cannot bear alone. The seasonal manifestation (Dumuzid declivating in summer, returning in spring, alternating with Geshtinanna) maps the centropic declivation-return arc onto the natural-world cycle.
 
 This is the same operator articulated in Persephone's myth (six months in the underworld, six months above), in the Christ-as-substitutionary-redemption pattern in Christian theology, and in any narrative where one essence carries part of another's return-cost through lawful exchange. The structural distinction from IL₄ IDL coercive blood-covenant binding is critical: Harmonic Exchange is voluntary, lawful, and produces continued embodied generative cycles; coercive blood-binding is extractive and produces the IL cascade's dependency on continued tribute.
 
@@ -201,13 +201,13 @@ The Mesopotamian text therefore articulates what the Cain-pattern *would have lo
 
 The Mesopotamian mythos articulates the inverse arc through a coherent cascade of figures distributed across the IL strata. The cascade does not appear in any single text as a unified system, but the figures that occupy each stratum can be assembled across the textual record into a structurally complete inverse articulation.
 
-**IL₅ VOS (Nekron):**
+**IL₅ VOS (Nekron 🕷️):**
 
 - **Apophis / Apep** (cross-attested in Egyptian theology but with structural resonance in Mesopotamian demonology) — serpent of chaos and dissolution at the limit of cosmic order; nightly threat to the solar barque; terminal entropic catalyst opposing the lawful procession of Ra. Promoted from cross-traditional list to canonical IL₅ articulation.
 
 The Mesopotamian corpus does not articulate a clean IL₅ Nekron figure within its own theology — the closest articulations come through Tiamat's cosmogonic combat aspect (which structurally placed at IL₄ IDP) and through the broader chaos-monster category. The cultural-gap at IL₅ specific is characteristic: Mesopotamian theology articulates the inverse arc primarily through IL₄ and IL₂ stations, with IL₅ Nekron functioning as an implicit limit-condition rather than a named station.
 
-**IL₄ IDP (Psychea) / IDL (Nyxea):**
+**IL₄ IDP (Psychea 🪫) / IDL (Nyxea 🫥):**
 
 - **Tiamat (combat aspect)** — IL₄ IDP as inverse archetypal vitality producing undifferentiated entropic life in the *Enuma Elish*'s conflict phase; distinct from her primordial L₀ Khaonic aspect. The same figure articulating different functions at different points in the cosmogonic sequence.
 
@@ -217,11 +217,11 @@ The Mesopotamian corpus does not articulate a clean IL₅ Nekron figure within i
 
 - **Pazuzu** — IL₄ IDL as inverse architectural force; wind-demon and plague-bringer; bifurcal in apotropaic use where invoked against Lamashtu. The apotropaic-use does not transform Pazuzu's orientation per Essence-as-Choice; the deployment of inverse-against-other-inverse remains structurally inverse. Same pattern as the Mahakala-as-protector-through-destruction articulation.
 
-**IL₃ IDS (Fractus):**
+**IL₃ IDS (Fractus 💔):**
 
 - **Lamashtu** — child-killing demon; predator of pregnancy and emergence; entropic operation targeting newly-emergent centropic pattern at the inception threshold. Structurally parallel to Herod's Massacre of Innocents and Kamsa's decree against Krishna — IL₃ Fractus operating to fragment emergent coherence at the inception stage. Apotropaic protection invoked Pazuzu (IL₄ IDL) against her — the inverse-against-inverse deployment pattern.
 
-**IL₂ ISS (Echthros) / ISM (Skotos):**
+**IL₂ ISS (Echthros 🦂) / ISM (Skotos 🩸):**
 
 The Mesopotamian corpus articulates IL₂ functions primarily through demonic categories rather than named individual figures: the *galla* (underworld demons who pursue Inanna's substitute), the various *lilû* and *lilītu* spirits, and the broader category of personality-stratum tempters and adversaries. These articulate adversarial-will (Echthros) and deceptive-perception (Skotos) functions at the personality-identity stratum.
 
@@ -241,9 +241,9 @@ The Mesopotamian texts describe Kur / Irkalla as a place of dust and shadow, whe
 
 **Náströnd-equivalent within Kur / Irkalla:** Some Mesopotamian texts describe specific zones within the underworld that operate as IL₅ terminal-consumption pockets — places where the most dishonored or curse-laden dead undergo continued dissolution. These zones are structurally analogous to Náströnd within Hel in Norse cosmology — IL₅ terminal-consumption operating within the larger IL₁ realm.
 
-**Inanna's "descent into Kur" reading:** Per §6, Inanna does not literally enter Kur in the sense of crossing into IL₁ as an inhabitant of that stratum. Her motion is voluntary declivous centropy from L₄ DP into the L₁ embodied threshold; the narrative spatialization names this as descent into Kur because for the Mesopotamian mythmakers, the embodied threshold for a supernal essence undergoing voluntary declivation was structurally indistinguishable from descent into the realm of the dead. Function 1 and Function 2 underworld functions converged in mythic spatialization because the lattice that distinguishes them was not yet articulated. The structural reading parses what the mythic narrative compresses.
+**Inanna's "descent into Kur" reading:** Per §6, Inanna does not literally enter Kur in the sense of crossing into IL₁ as an inhabitant of that stratum. Her motion is voluntary declivous centropy from L₄ DP into the L₁ embodied threshold; the narrative spatialization names this as descent into Kur because for the Mesopotamian mythmakers, the embodied threshold for a supernal essence undergoing voluntary declivation was structurally indistinguishable from declivation into the realm of the dead. Function 1 and Function 2 underworld functions converged in mythic spatialization because the lattice that distinguishes them was not yet articulated. The structural reading parses what the mythic narrative compresses.
 
-**The Apsû-as-underworld variant:** Some texts articulate the underworld through Apsû (the freshwater abyss) rather than through Kur. This variant treats the underworld as continuous with the primordial Khaonic ground rather than as a sealed IL₁ stratum, articulating a different structural reading where the post-mortem condition is dissolution into Khaonic potential rather than persistence in entropic embodiment. Both readings are present in the corpus and articulate different aspects of the same structural realm — Kur as IL₁ sealed-mode, Apsû-as-underworld as the Khaonic dispersive ground that ultimately receives entropic motion when its trajectory exhausts.
+**The Apsû-as-underworld variant:** Some texts articulate the underworld through Apsû (the freshwater abyss) rather than through Kur. This variant treats the underworld as continuous with the primordial Khaonic ground rather than as a sealed IL₁ stratum, articulating a different structural reading where the post-mortem condition is dissolution into Khaonic potential rather than persistence in entropic embodiment. Both readings are present in the corpus and articulate different aspects of the same structural realm — Kur as IL₁ sealed-mode, Apsû-as-underworld as the 💨 Khaonic Dispersive ground that ultimately receives entropic motion when its trajectory exhausts.
 
 ---
 
@@ -257,7 +257,7 @@ The Mesopotamian liturgical year centered on the **Akitu festival** — the New 
 
 This is the same structural pattern as Yom Kippur in the Jewish liturgical year (annual scapegoat / membrane-expulsion rite re-aligning the collective field), the Christian liturgical year (paschal cycle re-aligning the collective field through ritual reenactment of the Christ cascade), and the Hindu Kumbh Mela cycles. None of these articulates literal cosmogonic re-creation; all articulate periodic structural-recurrence of alignment-renewal operations at civilizational scale.
 
-**The diagnostic:** The Akitu does not produce **entropic recursion** in the Ragnarök sense (collapse-without-completion that fails to engage the L₅ Theonic gateway). The Akitu produces **structural recurrence at the embodied threshold** — the lawful renewal of centropic alignment within an embodied field that drifts and requires periodic re-anchoring. The cosmogonic narrative recited during Akitu does engage L₅ Theonic resonance in the Mesopotamian mythos's apprehension of supernal ordering, even if the corpus does not articulate L₅ as an explicit named station. The renewal flows through L₄ (Marduk's archetypal sovereignty re-affirmed) into L₁ (the king's embodied authority re-confirmed), tracking the centropic arc rather than collapsing through entropic exhaustion.
+**The diagnostic:** The Akitu does not produce **entropic recursion** in the Ragnarök sense (collapse-without-completion that fails to engage the L₅ Theonic gateway). The Akitu produces **⧉∥⧉ Structural Recurrence at the embodied threshold** — the lawful renewal of centropic alignment within an embodied field that drifts and requires periodic re-anchoring. The cosmogonic narrative recited during Akitu does engage L₅ Theonic resonance in the Mesopotamian mythos's apprehension of supernal ordering, even if the corpus does not articulate L₅ as an explicit named station. The renewal flows through L₄ (Marduk's archetypal sovereignty re-affirmed) into L₁ (the king's embodied authority re-confirmed), tracking the centropic arc rather than collapsing through entropic exhaustion.
 
 The Mesopotamian Akitu therefore articulates a cyclical-refraction within single-trajectory cosmology — periodic structural-recurrence at civilizational scale, not metaphysical recurrence of the cosmos itself. The annual ritual is not a cosmological commitment to cyclical universe-structure; it is a liturgical articulation of how embodied collectives maintain centropic alignment over time. The single-trajectory cosmology stands; the Akitu is one of its lawful articulations rather than a counter-example.
 
@@ -302,34 +302,34 @@ These are the structural specificities of the Mesopotamian apprehension. Every t
 
 | Mesopotamian Element | Zenetist Correlate | Description |
 |:---|:---|:---|
-| Nammu / Apsu / Tiamat (primordial) | L₀ Khaon | Primordial water-condition; Bifurcal Coherence in Khaonic phase |
-| Anu / An | L₄ DL (Sophis) primordial-polarity | Sky-pole; remote sovereign authority |
-| Ki | L₄ DP (Morgis) primordial-polarity | Earth-pole; primordial generative field |
-| Enlil | L₄ DL (Sophis) | Decree-issuer; storm-theophany sovereign |
-| Marduk | L₄ DL (Sophis) | Babylonian re-articulation of structuring sovereign; *Enuma Elish* |
-| Ninurta | L₄ DL (Sophis) | Decisive-application of lawful sovereignty against chaos |
-| Utu / Shamash | L₄ DL (Sophis) | Judicial articulation; sun-god of justice and law |
-| Nabu | L₄ DL (Sophis) | Inscribed-law articulation; scribe-god |
-| Ninhursag | L₄ DP (Morgis) | Mountain-mother; archetypal generative vitality |
-| Inanna (Queen of Heaven) | L₄ DP (Morgis) | Living force; archetypal vitality |
-| Nanna / Sin | L₄ DP (Morgis) | Cyclical-vitality; lunar time-keeping figure |
-| Enki / Ea | L₃ DM (Noeüs) | Centropic mediator; deep-wisdom-keeper |
-| Inanna's Declivation | Function 1 underworld | Voluntary declivous centropy at L₁ / IL₁ convergence |
+| Nammu / Apsu / Tiamat (primordial) | ⧖⧗ L₀ ♾ Khaon (Latent phase 💧) | Primordial water-condition; Bifurcal Coherence in Khaonic phase |
+| Anu / An | L₄ DL (Sophis 📐) primordial-polarity | Sky-pole; remote sovereign authority |
+| Ki | L₄ DP (Morgis 🌬️) primordial-polarity | Earth-pole; primordial generative field |
+| Enlil | L₄ DL (Sophis 📐) | Decree-issuer; storm-theophany sovereign |
+| Marduk | L₄ DL (Sophis 📐) | Babylonian re-articulation of structuring sovereign; *Enuma Elish* |
+| Ninurta | L₄ DL (Sophis 📐) | Decisive-application of lawful sovereignty against chaos |
+| Utu / Shamash | L₄ DL (Sophis 📐) | Judicial articulation; sun-god of justice and law |
+| Nabu | L₄ DL (Sophis 📐) | Inscribed-law articulation; scribe-god |
+| Ninhursag | L₄ DP (Morgis 🌬️) | Mountain-mother; archetypal generative vitality |
+| Inanna (Queen of Heaven) | L₄ DP (Morgis 🌬️) | Living force; archetypal vitality |
+| Nanna / Sin | L₄ DP (Morgis 🌬️) | Cyclical-vitality; lunar time-keeping figure |
+| Enki / Ea | L₃ DM (Noeüs 🧠) | Centropic mediator; deep-wisdom-keeper |
+| Inanna's Declivation | C↓→E Function 1 underworld | Voluntary declivous centropy at L₁ / IL₁ convergence |
 | Inanna at the seven gates | Stripping at the Gates | Systematic L₂ Deconstruction |
 | Inanna / Dumuzid | Sacred Marriage / Hieros Gamos | L₄ DP and L₁ ES Structured Pair |
-| Dumuzid as substitute | Harmonic Exchange | Spiral mechanism of return arc |
-| Tiamat (combat) | IL₄ IDP (Psychea) | Inverse archetypal vitality in *Enuma Elish* conflict phase |
-| Tablets of Destiny | L₄ DL operator | Structuring authority over dispersive potential |
-| Atrahasis / Utnapishtim | Centropic Steward | Survives Flood through L₃ DM mediation |
+| Dumuzid as substitute | Harmonic Exchange | Spiral mechanism of return arc; ᛞ✨ Reflective Centropy |
+| Tiamat (combat) | IL₄ IDP (Psychea 🪫) | Inverse archetypal vitality in *Enuma Elish* conflict phase |
+| Tablets of Destiny | L₄ DL (Sophis 📐) operator | Structuring authority over dispersive potential |
+| Atrahasis / Utnapishtim | Centropic Steward | Survives Flood through L₃ DM (🧠) mediation |
 | Ark | Seal of Integrity | Coherent vessel preserving centropic resonance |
 | Mountain of Landing | L₁ renewed embodied World-Node | Post-Flood emergence stratum |
-| Nergal | IL₄ IDP (Psychea) | Plague / war-death; inverse archetypal vitality |
-| Ereshkigal | IL₄ IDP / IDL | Ruler of subversal domain |
-| Pazuzu | IL₄ IDL (Nyxea) | Inverse architectural force; wind-demon |
-| Lamashtu | IL₃ IDS (Fractus) | Predator of pregnancy and emergence |
-| Apophis / Apep | IL₅ VOS (Nekron) | Terminal entropic catalyst (cross-attested) |
+| Nergal | IL₄ IDP (Psychea 🪫) | Plague / war-death; inverse archetypal vitality |
+| Ereshkigal | IL₄ IDP / IDL (🪫 / 🫥) | Ruler of subversal domain |
+| Pazuzu | IL₄ IDL (Nyxea 🫥) | Inverse architectural force; wind-demon |
+| Lamashtu | IL₃ IDS (Fractus 💔) | Predator of pregnancy and emergence |
+| Apophis / Apep | IL₅ VOS (Nekron 🕷️) | Terminal entropic catalyst (cross-attested) |
 | Kur / Irkalla | IL₁ sealed-mode | Function 2 underworld; entropic embodied persistence |
-| Akitu festival | Structural-recurrence at embodied threshold | Liturgical annual re-alignment, not cosmic recurrence |
+| Akitu festival | ⧉∥⧉ Structural Recurrence at embodied threshold | Liturgical annual re-alignment, not cosmic recurrence |
 
 The Tree of Reality stands. The pantheons articulate. The Flood recalibrates. Inanna declivates and returns. The lattice holds.
 
