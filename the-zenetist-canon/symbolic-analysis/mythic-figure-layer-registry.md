@@ -251,6 +251,7 @@
 | Great Red Dragon | Christian | IL₅ (VOS: Nekron) with agency — pure entropic will | 08 | Head of the Revelation cascade; see Entropic Cascades |
 | Ammit | Egyptian | Devourer of hearts failing Ma'at's test; second death through dissolution; the Void consuming what lacks coherence | 21 | Clean IL₅ VOS placement; structural consequence, not punishment |
 | Eris | Greek | Discord as terminal entropic catalyst; sows fragmentation that cascades through social and cosmic order | MP09 §23.3 | Promoted from Appendix B §23.3 key terms to main table |
+| Apophis / Apep | Egyptian | Serpent of chaos and dissolution at the limit of cosmic order; nightly threat to the solar barque; terminal entropic catalyst opposing the lawful procession of Ra | MP01 §23.3, Egyptian theology | Promoted from Appendix B §23.3 cross-traditional list to main IL₅ table. Parallel to Eris in catalyst-function and to Tiamat in primordial-chaos aspect, but distinct from both — Apep is the sustained adversarial threat at the limit of cosmic coherence rather than primordial-ground (Tiamat) or social-discord catalyst (Eris) |
 
 ---
 
