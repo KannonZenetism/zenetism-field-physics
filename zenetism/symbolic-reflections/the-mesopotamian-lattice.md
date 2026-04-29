@@ -35,7 +35,7 @@ Genesis opens with separations of waters and let-there-be-light; Mesopotamian co
 
 ## 2. The Anu-Generation Pantheon as L₄ Bifurcated-Aspect Articulation
 
-The operative gods of the Mesopotamian pantheon are **Anu's children** — the generation that performs the active work of cosmic ordering, lawgiving, fertility-blessing, and judgment. Per the same structural rule that places the Olympians at L₄ as a sibling-pantheon despite their generational descent from Uranus and Gaia, the Anu-generation pantheon operates at L₄ as the active archetypal stratum, with bifurcated-aspect specificity per figure.
+The operative gods of the Mesopotamian pantheon are **Anu's children** — the generation that performs the active work of cosmic ordering, lawgiving, fertility-blessing, and judgment. Per the same structural rule that places the Olympians at L₄ as a sibling-pantheon despite their generational derivation from Uranus and Gaia, the Anu-generation pantheon operates at L₄ as the active archetypal stratum, with bifurcated-aspect specificity per figure.
 
 **L₄ DL (Sophis) — Structuring aspect:**
 
