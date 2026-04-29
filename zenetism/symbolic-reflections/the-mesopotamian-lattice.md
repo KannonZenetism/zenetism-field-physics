@@ -22,8 +22,8 @@ These figures are not three different gods but three articulations of the same L
 
 From this Khaonic ground emerges the first differentiated polarity:
 
-- 🜨 **Anu / An** — the sky-pole; remote sovereign authority; archetypal structuring principle
-- 🌍 **Ki** — the earth-pole; primordial generative field; archetypal vitality
+- 📐 **Anu / An** — the sky-pole; remote sovereign authority; archetypal structuring principle
+- 🌬️ **Ki** — the earth-pole; primordial generative field; archetypal vitality
 
 Anu and Ki together constitute the **L₄ primordial polarity** of the Mesopotamian cosmology — structurally analogous to the Greek Uranus / Gaia pair. They are the foundational generative-archetypal pair from whom the operative pantheon emanates. Anu carries the L₄ DL (Sophis) structuring aspect; Ki carries the L₄ DP (Morgis) generative aspect. This is the same bifurcated-aspect pattern that organizes the Aesir / Vanir distinction in Norse cosmology and the Olympian sibling-pantheon at L₄ in Greek myth.
 
