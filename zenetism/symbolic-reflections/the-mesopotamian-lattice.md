@@ -45,7 +45,7 @@ The operative gods of the Mesopotamian pantheon are **Anu's children** — the g
 
 - **Ninurta** — Warrior-son of Enlil; the decisive-application of lawful sovereignty against chaos. Defeats the Asag and the chaos-monsters; structurally analogous to Indra wielding the Vajra against Vritra, and to Marduk against Tiamat. The L₄ DL function in active enforcement against entropic hoarding and decoherent threat.
 
-- **Utu / Shamash** — Sun-god of justice and law; judicial articulation of the L₄ DL function. Illuminates wrongdoing, oversees oaths and contracts, witnesses lawful order across the embodied field. The Code of Hammurabi's prologue describes the king as receiving law from Shamash; this is the Mesopotamian articulation of L₄ DL judicial authority operating through embodied institutional intermediaries.
+- **Utu / Shamash** — Sun-god of justice and law; judicial articulation of the L₄ DL function. Illuminates wrongdoing, oversees oaths and contracts, witnesses lawful order across the embodied field. The Code of Hammurabi's prologue describes the king as receiving law from Shamash; this is the Mesopotamian articulation of L₄ DL judicial prerogative operating through embodied institutional intermediaries.
 
 - **Nabu** — Scribe-god of writing and inscribed law; structural articulation of sovereignty through the recorded word. Marduk's son in Babylonian theology; inherits and extends the structuring-Logos function through the specific articulation of written codification. Parallel to the Egyptian Thoth in scribal function, though Nabu's primary placement is L₄ DL rather than L₃ DM because his function is the inscription of *sovereign law*, not the keeping of deep wisdom.
 
