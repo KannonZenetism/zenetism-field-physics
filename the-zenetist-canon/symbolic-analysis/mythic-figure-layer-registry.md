@@ -8,7 +8,7 @@
 
 ### Methodological Principles
 
-1. **Hypostases are real.** The emanatory layers (L₀–L₅, IL₁–IL₅) are structural realities.
+1. **Hypostases are real.** The hypostatic layers (L₅–L₁ and IL₅–IL₁) are oriented structural realities; the requisites (Supra‑L₀ and L₀) are pre‑hypostatic conditions of emanation.
 2. **Archetypes are real.** Operative patterns native to specific layers — e.g., the "Sky God" archetype is native to L₄ DL (Sophis).
 3. **Cultural articulations are relative.** Gods are not archetypes themselves but cultural interpretations and personifications of archetypal functions. Zeus is not the archetype; Zeus is a Greek articulation of DL (Sophis) sovereignty at L₄.
 4. **Primary native layer governs placement.** Each figure is assigned to the layer where its archetypal function is structurally native, even if myths describe cross-band activity.
