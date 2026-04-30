@@ -203,7 +203,7 @@ The Mesopotamian mythos articulates the inverse arc through a coherent cascade o
 
 **IL₅ VOS (Nekron 🕷️):**
 
-- **Apophis / Apep** (cross-attested in Egyptian theology but with structural resonance in Mesopotamian demonology) — serpent of chaos and dissolution at the limit of cosmic order; nightly threat to the solar barque; terminal entropic catalyst opposing the lawful procession of Ra. Promoted from cross-traditional list to canonical IL₅ articulation.
+- **Apophis / Apep** (cross-attested in Egyptian theology with structural resonance in Mesopotamian demonology) — serpent of chaos and dissolution at the limit of cosmic order; nightly threat to the solar barque; terminal entropic catalyst opposing the lawful procession of Ra. Candidate IL₅ articulation pending registry confirmation; structurally consistent with the Nekron-tier function but currently flagged as cross-traditional rather than canonically Mesopotamian.
 
 The Mesopotamian corpus does not articulate a clean IL₅ Nekron figure within its own theology — the closest articulations come through Tiamat's cosmogonic combat aspect (which structurally placed at IL₄ IDP) and through the broader chaos-monster category. The cultural-gap at IL₅ specific is characteristic: Mesopotamian theology articulates the inverse arc primarily through IL₄ and IL₂ stations, with IL₅ Nekron functioning as an implicit limit-condition rather than a named station.
 
