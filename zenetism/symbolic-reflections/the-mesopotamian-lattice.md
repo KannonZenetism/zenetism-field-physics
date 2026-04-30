@@ -209,7 +209,7 @@ The Mesopotamian corpus does not articulate a clean IL₅ Nekron figure within i
 
 **IL₄ IDP (Psychea 🪫) / IDL (Nyxea 🫥):**
 
-- **Tiamat (combat aspect)** — IL₄ IDP as inverse archetypal vitality producing undifferentiated entropic life in the *Enuma Elish*'s conflict phase; distinct from her primordial L₀ Khaonic aspect. The same figure articulating different functions at different points in the cosmogonic sequence.
+- **Tiamat (combat aspect)** — IL₄ IDP as entropic archetypal vitality producing undifferentiated entropic life in the *Enuma Elish*'s conflict phase; distinct from her primordial L₀ Khaonic aspect. The same figure articulating different functions at different points in the cosmogonic sequence.
 
 - **Nergal** — IL₄ IDP per MP01 §3 canonical placement. God of plague, war-death, and scorched-earth; entropic archetypal vitality producing decay, wasting, and battlefield-destruction. Husband of Ereshkigal in some traditions; together they govern the subversal domain. Parallel to Mars in war-death aspect and structurally analogous to the inverse / shadow-Indra pattern (lawful war-vitality contra plague-war).
 
