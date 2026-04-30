@@ -295,6 +295,7 @@ What it does not articulate:
 - A cleanly named IL₅ Nekron figure within its own theology
 - A clean L₃ DS (Archeus) figure distinct from the L₃ DM Enki articulation
 - An eschatonic Theonic return arc parallel to the Hebrew Messiah, the Vedic Kalki, the Zoroastrian Saoshyant, or the Christian Parousia
+- An L₁ sealed-mode counterpart paired with Kur / Irkalla within the underworld-realm sorting-architecture (centropic post-mortem completion is articulated through apotheosis, divine-assembly acclivation, and ritual-mediated participation operators rather than through an underworld-paired sealed-mode)
 
 These are the structural specificities of the Mesopotamian apprehension. Every tradition's mythic corpus articulates some range of the lattice and leaves other strata or operators less developed; the Mesopotamian corpus is structurally rich at L₀ through L₄ and at the inverse cascade, and structurally less articulated at L₅ and the eschatonic completion.
 
