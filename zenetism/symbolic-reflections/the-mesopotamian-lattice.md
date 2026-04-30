@@ -112,7 +112,7 @@ The **Ark as Seal of Integrity** is the same operator across both traditions: a 
 
 ## 5. The Enuma Elish — Marduk, Tiamat, and the Tablets of Destiny
 
-The Babylonian *Enuma Elish* is the most structurally explicit cosmogonic combat narrative in the Mesopotamian corpus. Its sequence: Tiamat, primordial saltwater chaos, becomes hostile to the younger gods after the slaying of her consort Apsu. She generates monsters and threatens to overwhelm the divine order. Marduk volunteers to confront her, demands sovereign authority as the price of his service, defeats Tiamat in combat, splits her body to form the heavens and the earth, and seizes the **Tablets of Destiny** from her champion Kingu.
+The Babylonian *Enuma Elish* is the most structurally explicit cosmogonic combat narrative in the Mesopotamian corpus. Its sequence: Tiamat, primordial saltwater chaos, becomes hostile to the younger gods after the slaying of her consort Apsu. She generates monsters and threatens to overwhelm the divine order. Marduk volunteers to confront her, demands architectural primacy as the price of his service, defeats Tiamat in combat, splits her body to form the heavens and the earth, and seizes the **Tablets of Destiny** from her champion Kingu.
 
 The structural reading parses cleanly:
 
