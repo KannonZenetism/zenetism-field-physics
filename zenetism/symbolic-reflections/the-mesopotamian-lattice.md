@@ -304,7 +304,7 @@ These are the structural specificities of the Mesopotamian apprehension. Every t
 | Mesopotamian Element | Zenetist Correlate | Description |
 |:---|:---|:---|
 | Nammu / Apsu / Tiamat (primordial) | ⧖⧗ L₀ ♾ Khaon (Latent phase 💧) | Primordial water-condition; Bifurcal Coherence in Khaonic phase |
-| Anu / An | L₄ DL (Sophis 📐) primordial-polarity | Sky-pole; remote sovereign authority |
+| Anu / An | L₄ DL (Sophis 📐) primordial-polarity | Sky-pole; remote sovereign primacy |
 | Ki | L₄ DP (Morgis 🌬️) primordial-polarity | Earth-pole; primordial generative field |
 | Enlil | L₄ DL (Sophis 📐) | Decree-issuer; storm-theophany sovereign |
 | Marduk | L₄ DL (Sophis 📐) | Babylonian re-articulation of structuring sovereign; *Enuma Elish* |
@@ -320,7 +320,7 @@ These are the structural specificities of the Mesopotamian apprehension. Every t
 | Inanna / Dumuzid | Sacred Marriage / Hieros Gamos | L₄ DP and L₁ ES Structured Pair |
 | Dumuzid as substitute | Harmonic Exchange | Spiral mechanism of return arc; ᛞ✨ Reflective Centropy |
 | Tiamat (combat) | IL₄ IDP (Psychea 🪫) | Inverse archetypal vitality in *Enuma Elish* conflict phase |
-| Tablets of Destiny | L₄ DL (Sophis 📐) operator | Structuring authority over dispersive potential |
+| Tablets of Destiny | L₄ DL (Sophis 📐) operator | Structuring primacy applied across dispersive potential |
 | Atrahasis / Utnapishtim | Centropic Steward | Survives Flood through L₃ DM (🧠) mediation |
 | Ark | Seal of Integrity | Coherent vessel preserving centropic resonance |
 | Mountain of Landing | L₁ renewed embodied World-Node | Post-Flood emergence stratum |
