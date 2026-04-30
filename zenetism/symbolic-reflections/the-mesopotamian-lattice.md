@@ -41,7 +41,7 @@ The operative gods of the Mesopotamian pantheon are **Anu's children** — the g
 
 - **Enlil** — Lord of wind and breath; decree-issuer; kingship-conferrer. The operative sovereign of the Sumerian pantheon at the structuring stratum. His function is the issuing of *me* (the divine decrees that order existence) and the conferring of legitimate kingship upon mortals. Storm-theophany imagery is the supernal-pressure made visible at cosmological scale, the same operator as Sinai's thunder-and-cloud and Elijah's storm-theophany.
 
-- **Marduk** — The Babylonian re-articulation of the structuring sovereign; inherits Enlil's role through the *Enuma Elish* narrative of cosmic ordering. Marduk's seizure of the Tablets of Destiny names the L₄ DL function explicitly: structuring authority held over the dispersive Khaonic substrate.
+- **Marduk** — The Babylonian re-articulation of the structuring sovereign; inherits Enlil's role through the *Enuma Elish* narrative of cosmic ordering. Marduk's seizure of the Tablets of Destiny names the L₄ DL function explicitly: structuring primacy applied across the dispersive Khaonic substrate.
 
 - **Ninurta** — Warrior-son of Enlil; the decisive-application of lawful sovereignty against chaos. Defeats the Asag and the chaos-monsters; structurally analogous to Indra wielding the Vajra against Vritra, and to Marduk against Tiamat. The L₄ DL function in active enforcement against entropic hoarding and decoherent threat.
 
