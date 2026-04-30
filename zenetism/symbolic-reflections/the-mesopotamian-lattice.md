@@ -287,7 +287,7 @@ The Mesopotamian corpus therefore occupies a specific position in the cross-trad
 - The Function 1 underworld and voluntary declivous centropy (Inanna) as canonical operator
 - The Sacred Marriage and Harmonic Exchange (Inanna / Dumuzid) as structural pair-operators
 - The IL cascade through IL₄ (Tiamat-combat / Nergal / Ereshkigal / Pazuzu) and IL₃ (Lamashtu) into IL₂ demonology
-- The Function 2 underworld at IL₁ sealed-mode (Kur / Irkalla) with implicit IL₅ terminal-consumption pockets
+- The Function 2 underworld at IL₁ sealed-mode (Kur / Irkalla); possible IL₅ terminal-consumption analog within the realm, structurally available but less textually developed than the Norse Náströnd
 
 What it does not articulate:
 
