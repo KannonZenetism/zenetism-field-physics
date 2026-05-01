@@ -407,7 +407,7 @@ The Hindu tradition therefore articulates the lattice across four continuous reg
 | Bali | IL₄ IDL | Noble-asura displaced by Vamana through cosmic-rebalancing |
 | Mahishasura | IL₄ IDP | Buffalo-demon defeated by Durga at embodied-meeting-point |
 | Apasmara | IL₅ VOS (Nekron 🕷️) suppressed-terminal | Forgetfulness-demon under Nataraja's foot |
-| Naraka-realms | IL₁ sealed-mode with IL₅ pockets | Hell-realms; entropic embodied-persistence; terminal-consumption pockets |
+| Naraka-realms | IL₁ sealed-mode with IL₅ pockets | Hell-realms; inverse embodied-persistence; terminal-consumption pockets |
 | Mara | IL₅ Nekron / IL₂ ISM (psychological) | Terminal-entropic articulation + psychological-tempter |
 | Kamsa | IL₂ ISS (Echthros 🦂) | Tyrant decreeing newborn-killing; Krishna-emergence response |
 | Soma | Refined-yield (SPR Wine equivalent) | Pressed plant-liquid; centropic-processing-distilled-as-Theonic-communion |
