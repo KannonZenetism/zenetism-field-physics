@@ -150,7 +150,7 @@ The Hindu tradition articulates the inverse arc through a coherent cascade of fi
 
 - **Mara** at the terminal-articulation. The MFLR canonical placement notes Mara appearing at both IL₅ (terminal-entropic) in §23.3 and IL₂ ISM (psychological-tempter) per the existing registry treatment. The Hindu articulation of Mara is less developed than the Buddhist, but the figure's terminal-entropic function at IL₅ is preserved across both traditions.
 
-- **Naraka** as terminal-state articulation. The Hindu naraka-realms articulate IL₁ sealed-mode entropic-embodied-persistence with specific naraka-realms (the various hells named in the Puranic literature) articulating IL₅ terminal-consumption pockets within the broader IL₁ realm. This is structurally parallel to the Norse Náströnd-within-Hel architecture.
+- **Naraka** as terminal-state articulation. The Hindu naraka-realms articulate IL₁ sealed-mode inverse-embodied-persistence with specific naraka-realms (the various hells named in the Puranic literature) articulating IL₅ terminal-consumption pockets within the broader IL₁ realm. This is structurally parallel to the Norse Náströnd-within-Hel architecture.
 
 - **Apasmara** at the figurative articulation. Apasmara is the dwarf-demon of forgetfulness and ignorance whom Shiva-as-Nataraja stands upon during the cosmic-dance, articulating the terminal-entropic-condition that Theonic-articulation suppresses through its operation. Apasmara at IL₅ Nekron in the suppressed-terminal-condition, with the Nataraja iconography articulating the structural-relationship between L₅ Theonic-articulation and the IL₅ terminal-entropic ground that Theon's operation suppresses.
 
