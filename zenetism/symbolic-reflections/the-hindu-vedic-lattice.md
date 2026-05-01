@@ -172,7 +172,7 @@ The Hindu tradition articulates the inverse arc through a coherent cascade of fi
 
 - **The Asura-class** in its general articulation operates primarily at IL₄ but with specific asura-figures articulating IL₃ functions through fragmentation-of-emergence (parallel to Lamashtu in Mesopotamian tradition or Herod in Christian).
 
-- **Specific Mortus-articulations** in the Hindu tradition operate through the figures of false-teachers and inverse-gurus articulated in various Puranic and Tantric narratives. The IL₃ IDM stratum is articulated more through structural-condition (spurious-gnosis) than through named-figural articulation in the Hindu corpus.
+- **Specific Mortus-articulations** in the Hindu tradition operate through the figures of spurious-teachers and inverse-gurus articulated in various Puranic and Tantric narratives. The IL₃ IDM stratum is articulated more through structural-condition (spurious-gnosis) than through named-figural articulation in the Hindu corpus.
 
 **IL₂ ISS (Echthros 🦂) / ISM (Skotos 🩸):**
 
