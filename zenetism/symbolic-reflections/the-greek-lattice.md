@@ -352,7 +352,7 @@ The Greek tradition therefore articulates the lattice across three continuous re
 | Heracles's apotheosis | Centropic-completion-pathway bypass | Acclivation to L₄ archetypal-pantheon stratum |
 | Typhon | IL₅ VOS (Nekron 🕷️) | Primordial-entropy through predatory coherence |
 | Eris | IL₅ VOS (Nekron 🕷️) | Discord as terminal-entropic-catalyst |
-| Prometheus | IL₄ IDL (Nyxea 🫥) | Inverse-architect of unauthorized provisioning |
+| Prometheus | IL₄ IDL (Nyxea 🫥) | Inverse-architect of spurious provisioning |
 | Circe | IL₄ IDP (Psychea 🪫) | Inverse psychic manipulation; transformative-distortion |
 | Calypso | IL₄ IDP (Psychea 🪫) | Stagnant paradise of forgetfulness; pleasant-stasis |
 | The Sphinx | IL₃ IDM (Mortus 👁️‍🗨️) | Devourer through perceptual test |
