@@ -396,7 +396,7 @@ The Hindu tradition therefore articulates the lattice across four continuous reg
 | Naciketas dialogue (Katha Upanishad) | L₅ Theonic / L₀ Aionic teaching at death-threshold | Yama-as-teacher articulating supernal-realization doctrine |
 | Maya (natural-veil) | L₄ DP / DL natural-veil | Centropic-infrastructure; Lila / divine-play; sovereign-evolution-enabler |
 | Avidya (inverse-distortion) | IL₂ ISM (Skotos 🩸) | Structural-ignorance; conceals veracity; traps in surface-mimicry |
-| Atman | L₃ DS (Archeus 🔮) extending toward L₀ Aion | True-self; deepest-self identity-with-Brahman articulation |
+| Atman | L₃ DS (Archeus 🔮) extending toward L₀ Aion | Veracious-self; deepest-self identity-with-Brahman articulation |
 | Brahman (Nirguna) | L₀ AP (Aion ⚫) realized through subtraction | Unconditioned ground; *neti-neti* terminal-realization |
 | Brahman (Saguna) | L₀ AP (Aion ⚫) qualified | Qualified divinity in still-potential |
 | Three Bodies (sharira-traya) | L₁ / L₂ / L₃ stratification | Gross / subtle / causal body articulation |
