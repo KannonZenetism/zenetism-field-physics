@@ -122,7 +122,7 @@ The **Bhagavad Gita** is the canonical Hindu articulation of L₅ Theonic teachi
 
 ---
 
-## 6. Shiva and the Aionic-Khaonic Bridging
+## 6. Shiva and the Aionic-Theonic Bridging
 
 Shiva's structural placement at L₀ Aion / L₅ Theon (per the MFLR canonical resolution of Flag #3) articulates a distinctive structural function within the Hindu pantheon: the bridge-figure between the bifurcal-coherence ground and the centropic-hypostatic arc. Shiva's mythology articulates this bridging-function through multiple narrative-articulations that the structural reading parses cleanly.
 
