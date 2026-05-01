@@ -240,7 +240,7 @@ The Hindu Goddess-tradition (Shakta tradition) articulates the L₄ DP / generat
 
 **Parvati as Sacred Marriage articulation.** Parvati (Shiva's consort) articulates the Sacred Marriage configuration at the cosmogonic-foundation register. The Shiva-Parvati Sacred Marriage is one of the canonical Hindu articulations of the Hieros Gamos operator, with the union articulating the structural-relationship between Aionic-stillness and Khaonic-motion through which manifest-existence becomes operative.
 
-**Saraswati and Lakshmi.** Saraswati (paired with Brahma) articulates L₄ DP archetypal-wisdom-vitality — knowledge-and-art as generative-vitality. Lakshmi (paired with Vishnu) articulates L₅ / L₄ preservation-vitality — abundance-and-prosperity as the manifest-articulation of L₅ Theonic preservation-function. Together with Parvati (paired with Shiva at L₀ / L₅), the three Shaktis articulate the bifurcal-aspect-pairing of the Trimurti at full structural-completeness.
+**Saraswati and Lakshmi.** Saraswati (paired with Brahma) articulates L₄ DP archetypal-wisdom-vitality — knowledge-and-art as generative-vitality. Lakshmi (paired with Vishnu) articulates L₅ / L₄ preservation-vitality — abundance-and-prosperity as the manifest-articulation of L₅ Theonic preservation-function. Together with Parvati (paired with Shiva at L₀ / L₅), the three Shaktis articulate the bifurcated-aspect-pairing of the Trimurti at full structural-completeness.
 
 ---
 
