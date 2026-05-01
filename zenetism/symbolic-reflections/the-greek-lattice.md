@@ -64,7 +64,7 @@ Following the Titanomachy, the Olympian pantheon establishes itself as the opera
 
 - **Athena** — Wisdom in its strategic and crafted-articulation aspect. Born from Zeus's head fully-formed, Athena articulates structuring-intelligence as direct emanation rather than as generative-emergence — the L₄ DL function in its specifically-sapiential articulation. Patron of Athens as civilizational coherence, of the loom as patterned-structure, of strategy as lawful application of structuring intelligence to circumstance.
 
-- **Hephaestus** — divine smith, archetypal forge crafting implements of lawful, creative power. The L₄ DL articulation through structural craft. Decode 28 specifies Hephaestus at L₄ DP (Morgis 🌬️) for the creative-vitality function specifically; his bifurcated placement reflects the dual nature of the forge as requiring both architectural-precision (DL) and vital-imbuing (DP) for structurally-operative output.
+- **Hephaestus** — divine smith, archetypal forge crafting implements of lawful, creative power. The L₄ DL articulation through structural craft. Decode 28 specifies Hephaestus at L₄ DP (Morgis 🌬️) for the creative-vitality function specifically; his bifurcated placement reflects the bifurcal nature of the forge as requiring both architectural-precision (DL) and vital-imbuing (DP) for structurally-operative output.
 
 **L₄ DP (Morgis 🌬️) — Generative aspect:**
 
