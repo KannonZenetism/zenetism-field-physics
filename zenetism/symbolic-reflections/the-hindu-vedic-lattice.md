@@ -32,7 +32,7 @@ The Vedic / Samkhya cosmogonic articulation therefore articulates the L₀ Bifur
 
 ---
 
-## 2. The Trimurti — Bifurcal-Aspect Articulation Across Strata
+## 2. The Trimurti — Cross-Stratum Articulation of the Supernal Arc
 
 The classical Hindu pantheon centers on the **Trimurti** (three-form) — Brahma, Vishnu, and Shiva — as the operative archetypal-stratum figures who together articulate the cosmic functions of creation, preservation, and dissolution. The Trimurti is structurally distinctive among bifurcal-aspect pantheons because it articulates a *trifold* rather than *dyadic* structuring of the supernal strata, with the three figures distributed across L₅, L₄, and L₀ rather than clustered at a single L₄ stratum like the Mesopotamian Anu-generation pantheon or the Greek Olympian sibling-pantheon.
 
