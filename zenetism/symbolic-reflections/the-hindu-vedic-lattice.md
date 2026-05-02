@@ -417,7 +417,7 @@ The Hindu tradition therefore articulates the lattice across four continuous reg
 | Sacred Marriage (Shiva-Shakti / Shiva-Parvati) | Hieros Gamos at cosmogonic register | Aionic-stillness paired with Khaonic-motion-as-vitality |
 | Lingam | Axis-mundi articulation | Vertical-axis (Aionic) on yoni-base (Khaonic); union-iconography |
 | Nataraja | L₅ Theon active cosmic-dance | Five articulations: srishti / sthiti / samhara / tirobhava / anugraha |
-| Mahakala | L₄ DL Khaonic-domain Governor | Wrathful time-deity; protector-of-Dharma through destruction-function |
+| Mahakala | L₀ Khaon / IL₅ resonance | Wrathful time-deity; protector-of-Dharma through destruction-function; centropic-essence preserved per Essence-as-Choice |
 | Bhakti-yoga | Personal-initiate articulation (Love operator) | Devotional-orientation toward L₅ Theonic-figure |
 | Navadha-bhakti (nine articulations) | Progressive structural-orientation deepening | Shravana through atma-nivedana |
 | Advaita Vedanta (Shankara) | L₀ Aionic-mode realization through subtraction | Atman-Brahman non-dual identity; *neti-neti* realization-pathway |
