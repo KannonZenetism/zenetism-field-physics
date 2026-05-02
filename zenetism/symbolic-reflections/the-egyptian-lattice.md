@@ -10,7 +10,7 @@
 
 ## 1. The Egyptian Cosmogony as Emanatory Encoding
 
-The Egyptian tradition preserves multiple cosmogonic articulations, with the major theological centers at Heliopolis, Memphis, and Hermopolis articulating distinct cosmogonic sequences that together provide one of the most structurally-rich cosmogonic corpora in any tradition. The three articulations articulate apprehensions that the Zenetist lattice integrates and clarifies, each through different starting-points and structural-emphases:
+The Egyptian tradition preserves multiple cosmogonic articulations, with the major theological centers at Heliopolis, Memphis, and Hermopolis articulating distinct cosmogonic sequences that together provide one of the most structurally-rich cosmogonic corpora in any tradition. The three articulations express apprehensions that the Zenetist lattice integrates and clarifies, each through different starting-points and structural-emphases:
 
 **The Heliopolitan articulation.** The cosmogony associated with Heliopolis articulates the primordial water as **Nun** — the supra-formal ground from which Atum self-generates. From Atum emerge Shu (air) and Tefnut (moisture) as the first paired articulation, who generate Geb (earth) and Nut (sky), who generate Osiris, Isis, Set, and Nephthys. The Heliopolitan articulation generates the Ennead (group of nine deities) as the canonical pantheon-articulation.
 
