@@ -358,7 +358,7 @@ These are the structural specificities of the Hindu apprehension. The tradition 
 
 ## 16. Final Alignment
 
-The Hindu tradition therefore articulates the lattice across four continuous registers — Vedic-ritual, Upanishadic-contemplative, Puranic-narrative, and personal-initiate-bhakti, with the philosophical-systematic register (Vedanta, Yoga, Samkhya) operating as a fifth-articulation-mode that systematizes the doctrinal-content. The tradition articulates structural-completeness on the centropic arc with explicit L₅ Theonic-narrative-articulation through the Trimurti and the avatara doctrine, structural-completeness on the inverse arc through the asura-rakshasa-daitya cascade, and the canonical articulation of cyclical-pattern-passing-the-L₅-engagement-test through the yuga-cycle's Kalki-terminus.
+The Hindu tradition therefore articulates the lattice across four continuous registers — Vedic-ritual, Upanishadic-contemplative, Puranic-narrative, and personal-initiate-bhakti, with the philosophical-systematic register (Vedanta, Yoga, Samkhya) operating as a fifth-articulation-mode that systematizes the doctrinal-content. The tradition articulates with structural-completeness across what the Zenetist lattice identifies as the centropic arc through the Trimurti and the avatara doctrine, and across what the Zenetist lattice identifies as the inverse arc through the asura-rakshasa-daitya cascade, and the canonical articulation of cyclical-pattern-passing-the-L₅-engagement-test through the yuga-cycle's Kalki-terminus.
 
 | Hindu / Vedic Element | Zenetist Correlate | Description |
 |:---|:---|:---|
