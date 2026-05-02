@@ -300,7 +300,7 @@ The Greek tradition's continuous articulation from cosmogonic narrative through 
 
 What the Greek tradition does not articulate:
 
-- **A clean L₅ Theonic-gateway figure within the mythic register.** Zeus operates at L₄ DL and is sometimes culturally-elevated to L₅ in mythic articulation (parallel to the YHWH cultural elevation pattern), but the Greek mythic register does not articulate L₅ as a distinct narrative station. The Neoplatonist philosophical articulation reaches L₅ through Plotinus's One, but this is philosophical-systematization rather than mythic-narrative articulation.
+**A clean figure that the Zenetist lattice would map to L₅ Theonic-gateway within the mythic register.** Zeus operates at L₄ DL and is sometimes culturally-elevated to L₅ in mythic articulation (parallel to the YHWH cultural elevation pattern), but the Greek mythic register does not articulate a figure the Zenetist lattice would map to L₅ as a distinct narrative station. The Neoplatonist philosophical articulation reaches what the Zenetist lattice identifies as L₅ through Plotinus's One, but this is philosophical-systematization rather than mythic-narrative articulation.
 
 - **A systematic eschatonic Theonic-return arc.** The Greek tradition does not articulate the eschatonic-return pattern that Vedic (Kalki), Zoroastrian (Saoshyant), and Christian (Parousia) traditions articulate. The Mystery-school tradition articulates centropic-completion at the personal-initiate scale; the philosophical tradition articulates mystical-acclivation at the individual-philosopher scale; but neither articulates a systematic eschatonic-pattern at civilizational or cosmic scale.
 
