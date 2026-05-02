@@ -210,7 +210,7 @@ The Greek tradition articulates the inverse arc through a coherent cascade of fi
 
 ## 9. The Hades-Domain as Paired Sealed-Mode Architecture
 
-Where the Mesopotamian system articulates the underworld as IL₁-only sealed-mode without a paired L₁-sealed-mode counterpart within the underworld-realm-architecture, the Greek system articulates Hades-domain as a paired sealed-mode architecture with explicit sorting-by-orientation operating within a single underworld-realm-architecture.
+Where the Mesopotamian post-mortem articulation maps to IL₁-only sealed-mode under the Zenetist lattice without a paired L₁-sealed-mode counterpart within the underworld-realm-architecture, the Greek Hades-domain articulation maps to a paired sealed-mode architecture under the Zenetist lattice, with explicit sorting-by-orientation operating within a single underworld-realm-architecture in the Greek tradition's own articulation.
 
 **The structural architecture:**
 
