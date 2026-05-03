@@ -323,7 +323,7 @@ These are the structural specificities of the Mesopotamian apprehension. Every t
 | Tablets of Destiny | L₄ DL (Sophis 📐) operator | Structuring primacy applied across dispersive potential |
 | Atrahasis / Utnapishtim | Centropic Steward | Survives Flood through L₃ DM (🧠) mediation |
 | Ark | Seal of Integrity | Coherent vessel preserving centropic resonance |
-| Mountain of Landing | L₁ renewed embodied World-Node | Post-Flood emergence stratum |
+| Mountain of Landing | L₁ / IL₁ renewed embodied World-Node | Post-Flood emergence stratum |
 | Nergal | IL₄ IDP (Psychea 🪫) | Plague / war-death; inverse archetypal vitality |
 | Ereshkigal | IL₄ IDP / IDL (🪫 / 🫥) | Architectural-operator of subversal domain |
 | Pazuzu | IL₄ IDL (Nyxea 🫥) | Inverse architectural force; wind-demon |
