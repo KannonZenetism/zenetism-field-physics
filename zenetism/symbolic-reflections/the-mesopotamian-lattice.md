@@ -165,7 +165,7 @@ The Inanna-Dumuzid relationship articulates two distinct centropic operators at 
 
 The Sacred Marriage is structurally analogous to:
 - Shiva (L₀ / L₅) and Shakti (L₄ DP) in Hindu cosmology
-- Christ (L₅) and the Church in Christian eschatology — the Bride at L₄ DP / DL as the sealed-coherence-field archetypal blueprint, engaged by sovereign centropic beings as they traverse L₃ DS / DM individuation toward participation in the Sacred Marriage across L₄ and L₅
+- Christ (L₅) and the Church in Christian eschatology — the bi-stratum Bride at L₄ DP / DL archetypal-blueprint composed of sovereign centropic beings at L₃ DS / DM individuation, traversing toward participation in the Sacred Marriage across L₄ and L₅
 - Land and King in the universal sovereignty archetype
 - Earth and Sky as primordial archetypal pair (Anu / Ki, Uranus / Gaia)
 
