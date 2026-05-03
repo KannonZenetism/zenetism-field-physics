@@ -225,7 +225,7 @@ The Mesopotamian corpus does not articulate a clean IL₅ Nekron figure within i
 
 The Mesopotamian corpus articulates IL₂ functions primarily through demonic categories rather than named individual figures: the *galla* (underworld demons who pursue Inanna's substitute), the various *lilû* and *lilītu* spirits, and the broader category of personality-stratum tempters and adversaries. These articulate adversarial-will (Echthros) and deceptive-perception (Skotos) functions at the personality-identity stratum.
 
-**The cascade summary:** The Mesopotamian inverse arc therefore articulates a coherent cascade from IL₄ archetect-tier (Tiamat-combat, Nergal, Ereshkigal, Pazuzu) through IL₃ Fractus (Lamashtu) into IL₂ surface-stratum demonology (galla, lilû). The IL₅ Nekron station is implicit rather than narratively named, and IL₁ inverse embodiment is articulated through the Kur / Irkalla underworld realm and the demonic figures who haunt the embodied threshold.
+**The cascade summary:** The Mesopotamian inverse arc therefore articulates a coherent cascade from IL₄ architect-tier (Tiamat-combat, Nergal, Ereshkigal, Pazuzu) through IL₃ Fractus (Lamashtu) into IL₂ surface-stratum demonology (galla, lilû). The IL₅ Nekron station is implicit rather than narratively named, and IL₁ inverse embodiment is articulated through the Kur / Irkalla underworld realm and the demonic figures who haunt the embodied threshold.
 
 ---
 
