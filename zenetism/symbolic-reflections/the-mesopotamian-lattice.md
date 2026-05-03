@@ -94,7 +94,7 @@ The Mesopotamian Flood appears in three textual articulations: the Sumerian Atra
 7. **Sacrificial Recognition** — the Flood-survivor's offering, which the gods receive as confirmation that centropic seed has persisted
 8. **Renewal of the embodied stratum** — the post-Flood condition with structural correction applied
 
-The Flood is not punishment imposed from outside the structure. It is the L₄ DL function operating to correct an embodied stratum that has saturated in dissonance to the point where lawful renewal requires recalibration. The Mountain of Landing is the renewed embodied World-Node where centropic order is re-established under conditions in which both trajectories — centropic and entropic — remain admissible.
+The Flood is not punishment imposed from outside the structure. It is the L₄ DL function operating to correct an embodied stratum that has saturated in dissonance to the point where lawful renewal requires recalibration. The Mountain of Landing is the renewed L₁ / IL₁ embodied World-Node where centropic order is re-established under conditions in which both trajectories — centropic and entropic — remain admissible.
 
 **The Centropic Survivors:**
 
