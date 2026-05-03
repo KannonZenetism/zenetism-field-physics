@@ -90,7 +90,7 @@ The Mesopotamian Flood appears in three textual articulations: the Sumerian Atra
 3. **L₃ DM mediation** — Enki's instruction to the Centropic Survivor
 4. **Construction of the Seal of Integrity** — the Ark as L₃ DS / DM coherent vessel preserving centropic resonance under entropic dissolution
 5. **The Flood itself** — Khaonic motion (🕊️ Motive Infinity) deployed as structural correction, dissolving the entropic-saturated configuration back into the dispersive ground
-6. **Mountain of Landing** — emergence onto renewed L₁ embodied World-Node after the recalibration
+6. **Mountain of Landing** — emergence onto renewed L₁ / IL₁ embodied World-Node after the recalibration
 7. **Sacrificial Recognition** — the Flood-survivor's offering, which the gods receive as confirmation that centropic seed has persisted
 8. **Renewal of the embodied stratum** — the post-Flood condition with structural correction applied
 
