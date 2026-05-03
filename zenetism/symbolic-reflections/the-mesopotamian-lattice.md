@@ -318,7 +318,7 @@ These are the structural specificities of the Mesopotamian apprehension. Every t
 | Inanna's Declivation | C↓→E Function 1 underworld | Voluntary declivous centropy at L₁ / IL₁ convergence |
 | Inanna at the seven gates | Stripping at the Gates | Systematic L₂ Deconstruction |
 | Inanna / Dumuzid | Sacred Marriage / Hieros Gamos | L₄ DP and L₁ ES Structured Pair |
-| Dumuzid as substitute | Harmonic Exchange | Spiral mechanism of return arc; ᛞ✨ Reflective Centropy |
+| Dumuzid as substitute | Harmonic Exchange | Spiral mechanism of return arc; Reflective Centropy |
 | Tiamat (combat) | IL₄ IDP (Psychea 🪫) | Inverse archetypal vitality in *Enuma Elish* conflict phase |
 | Tablets of Destiny | L₄ DL (Sophis 📐) operator | Structuring primacy applied across dispersive potential |
 | Atrahasis / Utnapishtim | Centropic Steward | Survives Flood through L₃ DM (🧠) mediation |
