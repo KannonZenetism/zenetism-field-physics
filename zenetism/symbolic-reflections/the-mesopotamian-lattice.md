@@ -203,9 +203,9 @@ The Mesopotamian mythos articulates the inverse arc through a coherent cascade o
 
 **IL₅ VOS (Nekron 🕷️):**
 
-- **Apophis / Apep** (cross-attested in Egyptian theology with structural resonance in Mesopotamian demonology) — serpent of chaos and dissolution at the limit of cosmic order; nightly threat to the solar barque; terminal entropic catalyst opposing the lawful procession of Ra. Canonically registered at IL₅ in the MFLR as an Egyptian articulation with structural resonance in Mesopotamian demonology; the Mesopotamian corpus does not articulate a clean IL₅ Nekron figure within its own theology, and Apophis / Apep registers at IL₅ from the broader cross-traditional record rather than as a canonically Mesopotamian figure.
+- **Apophis / Apep** (cross-attested in Egyptian theology with structural resonance in Mesopotamian demonology) — serpent of chaos and dissolution at the limit of cosmic order; nightly threat to the solar barque; terminal entropic catalyst opposing the lawful procession of Ra. Canonically registered at IL₅ in the MFLR as an Egyptian articulation; registers at IL₅ for the Mesopotamian context from the broader cross-traditional record rather than as a canonically Mesopotamian figure.
 
-The Mesopotamian corpus does not articulate a clean IL₅ Nekron figure within its own theology — the closest articulations come through Tiamat's cosmogonic combat aspect (which structurally placed at IL₄ IDP) and through the broader chaos-monster category. The cultural-gap at IL₅ specific is characteristic: Mesopotamian theology articulates the inverse arc primarily through IL₄ and IL₂ stations, with IL₅ Nekron functioning as an implicit limit-condition rather than a named station.
+The Mesopotamian corpus does not articulate a clean IL₅ Nekron figure within its own theology — the closest articulations come through Tiamat's cosmogonic combat aspect (which structurally places at IL₄ IDP) and through the broader chaos-monster category. The cultural-gap at IL₅ is characteristic: Mesopotamian theology articulates the inverse arc primarily through IL₄ and IL₂ stations, with IL₅ Nekron functioning as an implicit limit-condition rather than a named station.
 
 **IL₄ IDP (Psychea 🪫) / IDL (Nyxea 🫥):**
 
