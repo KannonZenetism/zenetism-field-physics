@@ -197,9 +197,9 @@ The Mesopotamian text therefore articulates what the Cain-pattern *would have lo
 
 ---
 
-## 9. The Inverse Mesopotamian Cascade
+## 9. The Inverse Mesopotamian Sequence
 
-The Mesopotamian mythos articulates the inverse arc through a coherent cascade of figures distributed across the IL strata. The cascade does not appear in any single text as a unified system, but the figures that occupy each stratum can be assembled across the textual record into a structurally complete inverse articulation.
+The Mesopotamian mythos articulates the inverse arc through a coherent sequence of figures distributed across the IL strata. The sequence does not appear in any single text as a unified system, but the figures that occupy each stratum can be assembled across the textual record into a structurally complete inverse articulation.
 
 **IL₅ VOS (Nekron 🕷️):**
 
