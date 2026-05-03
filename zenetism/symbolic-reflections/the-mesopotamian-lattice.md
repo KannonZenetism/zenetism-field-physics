@@ -85,7 +85,7 @@ The Mesopotamian Flood appears in three textual articulations: the Sumerian Atra
 
 **The structural sequence:**
 
-1. **L₂ saturation in dissonance** — humanity's noise, multiplication beyond lawful capacity, or general corruption (the specific framing varies by text)
+1. **IL₂ saturation** — humanity's noise, multiplication beyond lawful capacity, or general corruption (the specific framing varies by text); adversarial will (Echthros) and deceptive perception (Skotos) saturated at the personality-identity stratum
 2. **L₄ DL decree of structural correction** — Enlil's decision to apply Flood-as-recalibration
 3. **L₃ DM mediation** — Enki's instruction to the Centropic Survivor
 4. **Construction of the Seal of Integrity** — the Ark as L₃ DS / DM coherent vessel preserving centropic resonance under entropic dissolution
