@@ -129,7 +129,7 @@ The structural reading parses cleanly:
 - **Stations of the gods** — the lawful distribution of archetypal functions across the pantheon, fixing the Mesopotamian L₄ structure
 - **Humanity from Kingu's blood** — embodied existence at L₁ generated from the inverse-aligned material (Kingu's IL₂ ISS blood) but oriented through Marduk's lawful pattern; humans as the embodied stratum where centropic and entropic potentials converge in active operation, requiring ritual service (centropic orientation through worship) to maintain alignment
 
-The *Enuma Elish* therefore articulates the full cosmogonic sequence from L₀ Khaonic primordial through L₄ structuring containment to L₁ embodied manifestation — a structurally coherent emanatory map encoded in the form of cosmogonic combat narrative.
+The *Enuma Elish* therefore articulates the full cosmogonic sequence from L₀ Khaonic primordial through L₄ structuring containment to L₁ / IL₁ embodied manifestation — a structurally coherent emanatory map encoded in the form of cosmogonic combat narrative.
 
 ---
 
