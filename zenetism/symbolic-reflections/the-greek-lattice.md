@@ -198,7 +198,7 @@ The Greek tradition articulates the inverse arc through a coherent cascade of fi
 
 - **The Suitors of Ithaca** — ISS / ISM as inverse occupation of the centropic household; adversarial will at the personality-identity register operating against the lawful sovereignty of the absent Odysseus. Their slaughter upon Odysseus's return articulates the lawful structural-restoration of the centropic-sovereign-household.
 
-- **Phaethon and Icarus** — both at L₂ SS / SM as unskilled L₂ seizing L₄ power without integration; hubristic overreach through unearned elevation. Distinct from the IL placements in that Phaethon and Icarus are not entropically-aligned figures but L₂ figures whose inadequate-integration produces structural collapse. The narratives articulate the consequence-of-mismatch between L₂ capacity and L₄-sourced power, rather than the operations of inverse essences.
+- **Phaethon and Icarus** — both at L₂ SS / SM as unskilled L₂ seizing L₄ power without integration; hubristic overreach through unearned acclivation. Distinct from the IL placements in that Phaethon and Icarus are not entropically-aligned figures but L₂ figures whose inadequate-integration produces structural collapse. The narratives articulate the consequence-of-mismatch between L₂ capacity and L₄-sourced power, rather than the operations of inverse essences.
 
 - **Narcissus** — IL₂ ISS (Echthros) per the registry's resolution (Flag #16). Surface-image entrapment leading to declivous collapse into IL₅ VOS. Trapped by surface perception and mimicry; entropic recursive loop staring at reflection starves coherence.
 
