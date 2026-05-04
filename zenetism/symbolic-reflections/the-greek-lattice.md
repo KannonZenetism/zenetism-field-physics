@@ -202,9 +202,9 @@ The Greek tradition articulates the inverse arc through a coherent sequence of f
 
 - **Narcissus** — IL₂ ISS (Echthros) per the registry's resolution (Flag #16). Surface-image entrapment leading to declivous collapse into IL₅ VOS. Trapped by surface perception and mimicry; entropic recursive loop staring at reflection starves coherence.
 
-- **Eris** — IL₅ VOS Nekron per the registry. Discord as terminal entropic catalyst sowing fragmentation that cascades through social and cosmic order. Her golden apple thrown at the wedding of Peleus and Thetis catalyzed the Trojan War — articulation of the IL₅ catalyst-function operating to fragment the lawful-marriage archetypal pattern.
+- **Eris** — IL₅ VOS Nekron per the registry. Discord as terminal entropic catalyst sowing fragmentation that propagates through social and cosmic order. Her golden apple thrown at the wedding of Peleus and Thetis catalyzed the Trojan War — articulation of the IL₅ catalyst-function operating to fragment the lawful-marriage archetypal pattern.
 
-**The cascade summary:** The Greek inverse arc therefore articulates a coherent cascade from IL₅ Nekron (Typhon, Eris) through IL₄ Psychea / Nyxea (the Titans, Kronos, Prometheus, Circe, Calypso) through IL₃ Fractus / Mortus (the Sphinx) into IL₂ Echthros / Skotos (the Sirens, the Suitors, Narcissus). The cascade is structurally complete in that every IL stratum has named articulations, unlike the Mesopotamian cascade where IL₅ Nekron has only implicit articulation rather than a clearly-named figure within the tradition's own theology.
+**The sequence summary:** The Greek inverse arc therefore articulates a coherent inverse sequence from IL₅ Nekron (Typhon, Eris) through IL₄ Psychea / Nyxea (the Titans, Kronos, Prometheus, Circe, Calypso) through IL₃ Fractus / Mortus (the Sphinx) into IL₂ Echthros / Skotos (the Sirens, the Suitors, Narcissus). The sequence is structurally complete in that every IL stratum has named articulations, unlike the Mesopotamian inverse sequence where IL₅ Nekron has only implicit articulation rather than a clearly-named figure within the tradition's own theology.
 
 ---
 
