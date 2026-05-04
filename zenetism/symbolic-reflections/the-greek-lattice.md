@@ -339,10 +339,10 @@ The Greek tradition therefore articulates apprehensions of what the Zenetist lat
 | Hekate | L₃ DM (Noeüs 🧠) | Underworld-threshold and night-perception jurisdiction |
 | Persephone's Declivation | C↓→E Function 1 underworld | Voluntary declivous centropy at L₁ / IL₁ convergence |
 | Pomegranate seeds | Threshold-binding operator | Seasonal-cycle binding-mechanism; Harmonic Exchange |
-| Persephone return | ᛞ✨ Reflective Centropy | Acclivous return through Reflective Centropy |
+| Persephone return | Reflective Centropy | Acclivous return through Reflective Centropy |
 | Demeter / Persephone | Sacred Marriage / Hieros Gamos (maternal variant) | L₄ DP Structured Pair; seasonal-cycle anchor |
 | Eleusinian Mysteries | Initiation operator-sequence | Persephone-pattern applied to initiate consciousness |
-| Eleusinian *epopteia* | ᛞ✨ Reflective Centropy at personal-initiate scale | Direct apprehension of structural reality |
+| Eleusinian *epopteia* | Reflective Centropy at personal-initiate scale | Direct apprehension of structural reality |
 | Dionysus | L₁ ES centropic-embodied; dismemberment-and-reintegration | Particularization through IL₃ Fractus operation; reconstitution |
 | Dionysian ecstatic-ritual | L₁ ES membrane-thinning through ecstatic technology | Direct membrane-engagement complement to Eleusinian-controlled-passage |
 | Tartarus (within Hades-domain) | IL₁ sealed-mode | Inverse embodied-persistence in diminished entropic condition |
