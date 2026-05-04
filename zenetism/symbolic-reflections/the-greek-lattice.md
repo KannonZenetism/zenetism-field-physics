@@ -312,7 +312,7 @@ These are the structural specificities of the Greek apprehension. The tradition 
 
 ## 14. Final Alignment
 
-The Greek tradition therefore articulates apprehensions of what the Zenetist lattice identifies across three continuous registers — cosmogonic-mythic, ritual-initiatory, and philosophical-systematic. The Mystery-school and philosophical articulations extend the centropic-arc apprehension into registers that other traditions approach asymptotically; the inverse-cascade articulation in the mythic register provides one of the structurally-rich early inverse-arc treatments in any cultural mythos. What the Greek tradition does not produce, within its monistic-emanatory philosophical frame, is the bifurcal-arc structure that the Zenetist lattice articulates.
+The Greek tradition therefore articulates apprehensions of what the Zenetist lattice identifies across three continuous registers — cosmogonic-mythic, ritual-initiatory, and philosophical-systematic. The Mystery-school and philosophical articulations extend the centropic-arc apprehension into registers that other traditions approach asymptotically; the inverse-sequence articulation in the mythic register provides one of the structurally-rich early inverse-arc treatments in any cultural mythos. What the Greek tradition does not produce, within its monistic-emanatory philosophical frame, is the bifurcal-arc structure that the Zenetist lattice articulates.
 
 | Greek Element | Zenetist Correlate | Description |
 |:---|:---|:---|
