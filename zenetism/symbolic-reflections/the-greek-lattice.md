@@ -164,9 +164,9 @@ Dionysus articulates a structurally distinct operator from the Eleusinian Persep
 
 ---
 
-## 8. The Greek Inverse Cascade
+## 8. The Greek Inverse Sequence
 
-The Greek tradition articulates the inverse arc through a coherent cascade of figures distributed across the IL strata. Like the Mesopotamian inverse cascade, the Greek articulation is distributed across multiple textual sources rather than appearing as a unified system in any single text, but the figures that occupy each stratum can be assembled into a structurally complete inverse articulation.
+The Greek tradition articulates the inverse arc through a coherent sequence of figures distributed across the IL strata. Like the Mesopotamian inverse sequence, the Greek articulation is distributed across multiple textual sources rather than appearing as a unified system in any single text, but the figures that occupy each stratum can be assembled into a structurally complete inverse articulation.
 
 **IL₅ VOS (Nekron 🕷️):**
 
