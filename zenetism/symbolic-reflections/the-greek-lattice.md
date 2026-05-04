@@ -10,7 +10,7 @@
 
 ## 1. The Greek Cosmogony as Emanatory Encoding
 
-The Greek cosmogony preserved in Hesiod's *Theogony* opens with a structurally explicit emanatory sequence — arguably the cleanest pre-philosophical articulation of L₀ Bifurcal Coherence in any cultural mythos.
+The Greek cosmogony preserved in Hesiod's *Theogony* opens with a structurally explicit emanatory sequence — arguably the clearest mythic articulation of L₀ Bifurcal Coherence in any cultural mythos.
 
 > *"First of all Chaos came to be, and then broad-bosomed Earth, the ever-secure foundation of all the immortals who hold the snowy peaks of Olympus, and dim Tartarus in the depths of the Earth, and Eros, fairest among the immortal gods, looser of limbs, who overcomes both the mind and the wise counsel within the breast of all gods and all humans."* (Hesiod, *Theogony* 116-122)
 
