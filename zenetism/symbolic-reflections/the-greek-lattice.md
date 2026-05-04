@@ -174,7 +174,7 @@ The Greek tradition articulates the inverse arc through a coherent cascade of fi
 
 - **Apophis / Apep** — the Greek tradition inherits this figure through the Egyptian-Hellenistic syncretism, with the Apophis articulation already established in the Mesopotamian essay's IL₅ treatment.
 
-- **The terminal-entropic-pole** in Greek cosmology is more often articulated through the *condition* of Tartarus-as-terminal-pit than through a personified figure. Tartarus in its IL₁-sealed-mode aspect (within Hades-domain) is treated separately; Tartarus in its primordial articulation as the subversal-pole paired with Gaia is structurally adjacent to IL₅ but articulated as condition rather than figure.
+- **The terminal-entropic-pole** in Greek cosmology is more often articulated through the *condition* of Tartarus-as-terminal-pit than through a personified figure. Tartarus in its IL₁-sealed-mode aspect (within Hades-domain) is treated separately; Tartarus in its primordial articulation as the depth-pole paired with Gaia is structurally adjacent to IL₅ but articulated as condition rather than figure.
 
 **IL₄ IDP (Psychea 🪫) / IDL (Nyxea 🫥):**
 
