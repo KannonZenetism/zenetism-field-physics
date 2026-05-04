@@ -268,7 +268,7 @@ The Greek philosophical tradition — Plato in the fourth century BCE, the Middl
 
 ## 12. The Greek Cyclical Refraction — Four Ages and Single-Trajectory Cosmology
 
-Hesiod's *Works and Days* articulates a temporal-cycle of human existence through the **Four Ages** (some accounts include a fifth, the Heroic Age, between Bronze and Iron): the Golden Age of perfect harmony under Kronos's rule, the Silver Age of declining excellence, the Bronze Age of warlike strife, and the Iron Age of present human suffering. The sequence articulates a temporal-pattern of progressive declination from initial perfection toward present-day fragmentation.
+Hesiod's *Works and Days* articulates a temporal-cycle of human existence through the **Four Ages** (some accounts include a fifth, the Heroic Age, between Bronze and Iron): the Golden Age of perfect harmony in the era of Kronos, the Silver Age of declining excellence, the Bronze Age of warlike strife, and the Iron Age of present human suffering. The sequence articulates a temporal-pattern of progressive declination from initial perfection toward present-day fragmentation.
 
 **The cyclical reading.** Read literally, the Four Ages suggest a cyclical cosmology where the Iron Age will eventually exhaust into a renewed Golden Age, with the cycle repeating indefinitely. Some Greek and Roman articulations of the Four Ages do read the sequence as cyclical-eternal-return, aligning Greek cosmology with apparently-cyclical traditions like Norse Ragnarök and Hindu yuga-cycles.
 
