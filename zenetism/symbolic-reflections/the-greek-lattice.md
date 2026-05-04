@@ -319,7 +319,7 @@ The Greek tradition therefore articulates apprehensions of what the Zenetist lat
 | Chaos | ⧖⧗ L₀ ♾ Khaon (Latent phase 💧) | Primordial open-condition; Bifurcal Coherence in Khaonic phase |
 | Eros (primordial) | 🕊️ Motive Infinity | Activating-current at the cosmogonic threshold |
 | Gaia (primordial-pole) | L₄ DP (Morgis 🌬️) primordial-polarity | Earth-pole; primordial generative field |
-| Tartarus (primordial-pole) | IL₅ VOS (Nekron 🕷️) primordial-articulation | Subversal-pole at cosmogonic threshold |
+| Tartarus (primordial-pole) | IL₅ VOS (Nekron 🕷️) primordial-articulation | Depth-pole at cosmogonic threshold |
 | Uranus | L₄ DL (Sophis 📐) primordial-polarity | Sky-pole; primordial structuring primacy |
 | Chronos | L₀ Khaon Dispersive Infinity articulation | Greek cultural articulation of time-as-dissolution-function; personified-figural articulation of Khaon's Dispersive Infinity phase, structurally distinct from Kronos despite cultural-conflation in the Greek and later Latin-Hellenistic tradition |
 | Kronos / Saturn (Titan-leader) | IL₄ IDP / IDL (🪫 / 🫥) | Inverse archetypal order; consumer of his own offspring; Kronos as Greek Titan-leader, Saturn as Roman cultural-equivalent at the same IL₄ stratum |
