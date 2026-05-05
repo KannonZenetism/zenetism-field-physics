@@ -166,7 +166,7 @@ The Hindu tradition articulates the inverse arc through a coherent cascade of fi
 
 - **Bali** at IL₄ IDL. The asura-emperor who occupies the cosmic-stratum-distribution and is displaced by Vamana's three-step crossing. The Bali narrative is structurally distinctive in that Bali is articulated as a noble-asura whose displacement is performed honorably; this articulates the distinction between asura-as-inverse-archetypal-figure and asura-as-villain-figure that the Hindu tradition preserves more explicitly than other inverse-cascade articulations.
 
-- **Mahishasura** at IL₄ IDP. The buffalo-demon defeated by the goddess Durga, articulating IL₄ IDP at the warrior-confrontation register. Durga's defeat of Mahishasura is one of the canonical Goddess-tradition narratives, with Durga as L₄ DP (Shakti-articulation) defeating IL₄ IDP through direct combat at the embodied-stratum register where the Non-Contact principle permits archetypal-stratum-figures to engage.
+- **Mahishasura** at IL₄ IDP. The buffalo-demon defeated by the goddess Durga, articulating IL₄ IDP at the warrior-confrontation register. Durga's defeat of Mahishasura is one of the canonical Goddess-tradition narratives, with Durga as L₄ DP (Shakti-articulation) defeating IL₄ IDP through direct combat at the L₁ / IL₁ embodied-stratum register where the Non-Contact principle permits archetypal-stratum-figures to engage.
 
 **IL₃ IDS (Fractus 💔) / IDM (Mortus 👁️‍🗨️):**
 
