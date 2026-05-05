@@ -144,7 +144,7 @@ Shiva's structural-complexity makes him one of the most fully-articulated bridge
 
 ## 7. The Hindu Inverse Distribution
 
-The Hindu tradition articulates the inverse arc through a coherent distribution of figures and categories distributed across the IL strata. The cascade is structurally distinctive in its organization through three principal categories — *asuras* (anti-gods), *rakshasas* (flesh-eating demons), and *daityas / danavas* (children of Diti and Danu, articulating inverse-archetypal-stratum lineages).
+The Hindu tradition articulates the inverse arc through a coherent taxonomy of figures and categories distributed across the IL strata. The cascade is structurally distinctive in its organization through three principal categories — *asuras* (anti-gods), *rakshasas* (flesh-eating demons), and *daityas / danavas* (children of Diti and Danu, articulating inverse-archetypal-stratum lineages).
 
 **IL₅ VOS (Nekron 🕷️):**
 
