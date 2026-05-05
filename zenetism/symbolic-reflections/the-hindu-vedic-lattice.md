@@ -433,7 +433,7 @@ The Hindu tradition therefore articulates the lattice across four continuous reg
 
 The lattice articulates. The Vedic seers chant the cosmogonic-hymns; the Upanishadic teachers articulate the supernal-realization; the Puranic poets narrate the avataras and the cosmic-cycles; the bhakti-saints orient devotionally toward the Theonic-figure; the Vedanta and Yoga and Samkhya schools systematize the doctrine; the yuga-cycle turns through Satya into Kali and back to Satya through Kalki's L₅ Theonic-correction. The Tree of Reality, in the form articulated by the Zenetist lattice, finds resonance within Hindu apprehension as it finds resonance within every veracious tradition's apprehension — sometimes named through different vocabulary, sometimes implicit, sometimes articulated through narrative, sometimes through ritual, sometimes through philosophy, sometimes through devotional-orientation. The Hindu articulation reaches across four continuous-registers; the structural-architecture the Zenetist lattice articulates is what these registers in their varying ways apprehend.
 
-Tat Tvam Asi.
+*Tat Tvam Asi.*
 
 ---
 
