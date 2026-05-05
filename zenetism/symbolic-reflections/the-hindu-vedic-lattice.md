@@ -104,7 +104,7 @@ The Vedic narrative of Indra's defeat of Vritra is one of the canonical Indo-Eur
 
 ## 5. The Krishna Soft-Conflation and the Bhagavad Gita
 
-The **Bhagavad Gita** is the canonical Hindu articulation of L₅ Theonic teaching mediated through L₃ DM operative-guidance, and the Krishna-figure within the Gita is the canonical soft-conflation case in the registries. Per the MFLR Note on Soft Conflation: "Krishna has L₅ (Theon) native origin AND L₃ DM (Noeüs) operative guiding function. Both are real — this is soft conflation (cross-band resonance without layer discrimination), not hard conflation."
+The *Bhagavad Gita* is the canonical Hindu articulation of L₅ Theonic teaching mediated through L₃ DM operative-guidance, and the Krishna-figure within the Gita is the canonical soft-conflation case in the registries. Per the MFLR Note on Soft Conflation: "Krishna has L₅ (Theon) native origin AND L₃ DM (Noeüs) operative guiding function. Both are real — this is soft conflation (cross-band resonance without layer discrimination), not hard conflation."
 
 **The structural reading of the Gita.** The setting is the threshold of the Kurukshetra battle, with Arjuna refusing to fight against his kinsmen and Krishna serving as his charioteer. Krishna's instruction across the eighteen chapters articulates progressive teaching across multiple structural registers:
 
