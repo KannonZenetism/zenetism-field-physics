@@ -383,7 +383,7 @@ The Hindu tradition therefore articulates the lattice across four continuous reg
 | Varaha (Boar avatara) | L₅ EOB (Theon 🛤️) recovery-of-Earth | Cosmic-order-recovery against IL₄ disturbance |
 | Narasimha (Man-Lion avatara) | L₅ EOB (Theon 🛤️) creative-form-disruption | Bypasses inverse-archetypal-configuration through structural-creativity |
 | Vamana (Dwarf avatara) | L₅ EOB (Theon 🛤️) cosmic-balance-restoration | Three-step cosmic-stratum-rebalancing |
-| Parashurama (axe-wielder avatara) | L₅ EOB (Theon 🛤️) L₂-stratum-correction | Warrior-function against ruling-class corruption |
+| Parashurama (axe-wielder avatara) | L₅ EOB (Theon 🛤️) L₂ kshatriya-class correction | Warrior-function against accumulated IL₂ corruption |
 | Rama | L₅ EOB (Theon 🛤️) embodied-sovereign | L₅ Theonic-embodiment as sovereign-king |
 | Krishna | L₅ EOB (Theon 🛤️) + L₃ DM (Noeüs 🧠) operative cascade | Soft-conflation: Theonic native + operative-guidance function |
 | Vishvarupa (universal-form revelation) | L₅ Theonic direct-disclosure | Bhagavad Gita ch. 11; supernal-disclosure at membrane-thinning threshold |
