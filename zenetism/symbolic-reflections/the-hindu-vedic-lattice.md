@@ -70,7 +70,7 @@ The classical articulation enumerates ten avataras of Vishnu (the Dashavatara), 
 
 **Vamana (the Dwarf) — Theonic re-establishment of cosmic-balance.** Vamana's three-step crossing of the cosmos to displace the asura Bali articulates L₅ Theonic re-balancing of the cosmic-stratum-distribution against inverse-occupation.
 
-**Parashurama (the axe-wielder) — Theonic warrior-function against L₂-stratum corruption.** Parashurama's annihilation of corrupted kshatriya-rulers articulates L₅ Theonic intervention at the L₂ ruling-class register against accumulated corruption.
+**Parashurama (the axe-wielder) — Theonic warrior-function against L₂-stratum corruption.** Parashurama's annihilation of corrupted kshatriya-rulers articulates L₅ Theonic intervention at the L₂ kshatriya-class register against accumulated IL₂ corruption.
 
 **Rama — L₅ Theonic articulation as embodied-sovereign.** Rama operates as canonical L₅ Theonic embodiment in sovereign-king form, with the *Ramayana* articulating the structural narrative of Theonic intervention against inverse-archetypal-occupation (Ravana's seizure of Sita). The MFLR places Rama at the Structural Operators register as "Exile as lawful duty; converts wilderness into centropic microcosm" — articulating the journey-figure dimension of Rama's narrative. Structurally, Rama articulates L₅ Theon as preserver-of-cosmic-Dharma at embodied scale.
 
