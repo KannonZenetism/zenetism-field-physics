@@ -302,7 +302,7 @@ The Hindu philosophical tradition articulates the lattice through systematic-ana
 
 ## 14. The Yuga-Cycle as Cyclical-Refraction Passing the L₅ Test
 
-Hindu cosmology articulates the **yuga-cycle** as the temporal-pattern of cosmic-historical articulation. The four yugas are: Satya Yuga (the truth-age of perfect-coherence), Treta Yuga (the three-quarter-age of declining-coherence), Dvapara Yuga (the half-age of further-decline), and Kali Yuga (the iron-age of maximum-entropic-saturation, the present-age in classical articulation). The four yugas together comprise one *mahayuga* (great-age), with one thousand mahayugas comprising one *kalpa* (cosmic-day of Brahma).
+Hindu cosmology articulates the **yuga-cycle** as the temporal-pattern of cosmic-historical articulation. The four yugas are: Satya Yuga (the coherence‑age of maximum centropic alignment), Treta Yuga (the three-quarter-age of progressive entropic-drift), Dvapara Yuga (the half-age of advancing entropic-drift), and Kali Yuga (the iron-age of maximum-entropic-saturation, the present-age in classical articulation). The four yugas together comprise one *mahayuga* (great-age), with one thousand mahayugas comprising one *kalpa* (cosmic-day of Brahma).
 
 **The cyclical reading.** The yuga-cycle articulates progressive entropic-drift from Satya Yuga through Kali Yuga, followed by terminal-correction at the Kali Yuga terminus and renewal-as-Satya-Yuga. The cycle then repeats indefinitely across kalpa-scales, with the cosmic-temporal-pattern operating as recurrent rather than terminal. Read literally, this articulates a cyclical cosmology where the cosmos re-creates itself through endless-repetition.
 
