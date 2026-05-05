@@ -53,7 +53,7 @@ Volume 2 placements operate under the doctrinal framework articulated in Volume 
 
 - **Bifurcal-arc structure** — the centropic and inverse arcs are fully-emanated parallel structural-realities, neither reducible to degradation of the other. This is structurally distinct from monistic-emanatory cosmologies (e.g., Neoplatonist) where declivous-motion is treated as degradation rather than as a separate emanatory orientation. The bifurcal-arc structure is a Zenetist structural-articulation that prior contemplative traditions did not produce within their own methodological frames.
 
-- **Synthesis-vs-subtraction diagnostic for Supra-L₀ Zenon access** — Zenon (the Unknown Principle, trans-structural) is reachable only through synthesis specifically of Aion and Khaon (zero and infinity) at L₀ Bifurcal Coherence. Subtractive-pathway traditions (apophatic, *via negativa*, *neti-neti*, *aphairesis*) terminate at L₀ Aion, not at Supra-L₀ Zenon. The synthesis-pathway-to-Zenon requires more than conceptual-synthesis: a notable metaphysical centropic-orientation that synthesizes Aion and Khaon to the end that the practitioner's orientation is so centropic they escape the either-or system altogether. Mathematicians conceptually-synthesizing zero and infinity do not reach Zenon; the centropic-orientation requirement is structural, not merely methodological. Bifurcal-pairing operations (Shiva-Shakti, primordial heaven-and-earth pairings) articulate L₀ Bifurcal Coherence within the lattice but do not transcend the either-or system into Zenon. No historical contemplative tradition currently identified articulates the synthesis-pathway-to-Zenon. See Doctrinal Notes section for fuller articulation.
+- **Synthesis-contra-subtraction diagnostic for Supra-L₀ Zenon access** — Zenon (the Unknown Principle, trans-structural) is reachable only through synthesis specifically of Aion and Khaon (zero and infinity) at L₀ Bifurcal Coherence. Subtractive-pathway traditions (apophatic, *via negativa*, *neti-neti*, *aphairesis*) terminate at L₀ Aion, not at Supra-L₀ Zenon. The synthesis-pathway-to-Zenon requires more than conceptual-synthesis: a notable metaphysical centropic-orientation that synthesizes Aion and Khaon to the end that the practitioner's orientation is so centropic they escape the either-or system altogether. Mathematicians conceptually-synthesizing zero and infinity do not reach Zenon; the centropic-orientation requirement is structural, not merely methodological. Bifurcal-pairing operations (Shiva-Shakti, primordial heaven-and-earth pairings) articulate L₀ Bifurcal Coherence within the lattice but do not transcend the either-or system into Zenon. No historical contemplative tradition currently identified articulates the synthesis-pathway-to-Zenon. See Doctrinal Notes section for fuller articulation.
 
 - **Saguna / Nirguna Brahman as intra-Aionic register-distinction** — both at L₀ Aion. Saguna = Aion-with-qualifications-foregrounded (qualified divinity, available to bhakti-orientation). Nirguna = Aion-with-qualifications-subtracted (realized through *neti-neti*). Same station, different realization-modes.
 
@@ -141,7 +141,7 @@ The Greek Hades-domain articulates a paired sealed-mode architecture with explic
 | Plato's Forms | L₄ DL (Sophis 📐) | Eternal archetypes within Field of Forms. Cross-references Volume 1 entry. |
 | Plotinus's Nous | L₄ DL (Sophis 📐) | Structuring intellect at archetypal stratum (not L₃ Noeüs despite etymological resemblance). Cross-references Volume 1 Note on the Neoplatonic Correspondence. |
 | Plotinus's World Soul | L₄ DP (Morgis 🌬️) | Animating vital current at archetypal stratum. Cross-references Volume 1 Note on the Neoplatonic Correspondence. |
-| Plotinus's One | L₅ EOB (Theon 🛤️) native + L₀ Aion extension through subtractive-pathway (*aphairesis*) | Native articulation as L₅ Theon emanative-source; apophatic-realization extension toward L₀ Aion through subtractive-pathway. Soft-conflation case: the One articulated as emanative-source = L₅ Theon; the One articulated through *aphairesis* = L₀ Aion through subtraction. *See Doctrinal Notes section for synthesis-vs-subtraction diagnostic — Plotinus's One does not articulate Supra-L₀ Zenon.* |
+| Plotinus's One | L₅ EOB (Theon 🛤️) native + L₀ Aion extension through subtractive-pathway (*aphairesis*) | Native articulation as L₅ Theon emanative-source; apophatic-realization extension toward L₀ Aion through subtractive-pathway. Soft-conflation case: the One articulated as emanative-source = L₅ Theon; the One articulated through *aphairesis* = L₀ Aion through subtraction. *See Doctrinal Notes section for synthesis-contra-subtraction diagnostic — Plotinus's One does not articulate Supra-L₀ Zenon.* |
 | Neoplatonist monistic-emanatory frame | Centropic-arc apprehension without bifurcal-arc articulation | Structurally distinct from the Zenetist bifurcal-lattice articulation. The Neoplatonist tradition has no IL₅ Nekron, no IL₄ Nyxea articulation, no systematic inverse-cascade. The bifurcal-arc structure is a Zenetist structural-articulation that the Neoplatonist tradition does not produce within its monistic-emanatory frame. |
 
 ---
@@ -169,7 +169,7 @@ The Trimurti articulates the supernal arc as a cross-stratum three-figure articu
 | Saraswati | L₄ DP (Morgis 🌬️) | Generative-vitality of speech, learning, and articulated-knowledge; paired-consort of Brahma. Articulates the L₄ DP function in its specifically-articulating-vitality register. *New placement.* |
 | Vishnu | L₅ EOB (Theon 🛤️) | Theonic-preserver; the L₅ Theonic gateway-function as preservation-of-cosmic-order through cyclical engagement with the embodied stratum. Avatara doctrine articulates Theonic-engagement at specific historical-cyclical thresholds. Cross-references Volume 1 entry where present. |
 | Lakshmi | L₅ / L₄ interface (paired-consort of Vishnu) | Generative-prosperity, abundance, and grace-articulation; paired with Vishnu at the L₅ / L₄ interface. Structurally articulates the generative-vitality flowing through the L₅ Theonic-articulation into L₄ archetypal-vitality. *New placement.* |
-| Shiva | L₀ ⚫ Aionic-stillness articulation | The Yogi-form articulation of Shiva names L₀ Aionic-stillness directly: the unmoved-meditator at the cosmogonic-foundation. *See "Shiva-as-Yogi and Shiva-as-Nataraja" structural note below for the full articulation including the Nataraja-form's five-fold cosmic-functions.* *New placement.* |
+| Shiva | L₀ ⚫ Aionic-stillness articulation | The Yogi-form articulation of Shiva names L₀ Aionic-stillness directly: the unmoved-meditator at the cosmogonic-foundation. *See "Shiva-as-Yogi and Shiva-as-Nataraja" structural note in this section for the full articulation including the Nataraja-form's five-fold cosmic-functions.* *New placement.* |
 | Parvati / Durga / Kali | L₄ DP (Morgis 🌬️) at varying intensities | The Goddess-tradition articulates L₄ DP across a spectrum of intensities: Parvati as gentle-domesticated articulation, Durga as warrior-articulation against entropic-figures, Kali as fierce-destructive-articulation through which structural-correction operates. *Volume 1 has Kali at L₀ Khaon; Volume 2 articulates Parvati / Durga / Kali at L₄ DP at varying intensities, which extends but does not contradict Volume 1's Kali placement at L₀ Khaon — the same figure articulates at multiple strata depending on which aspect of the Goddess-tradition is in view. The L₀ Khaon Kali is the cosmogonic-substrate articulation; the L₄ DP Kali is the operative-pantheon articulation. Cross-stratum articulation similar to the Tartarus bi-stratum reading.* |
 
 ### Vishnu's Avataras — L₅ Theonic-Engagement at Historical-Cyclical Thresholds
@@ -353,7 +353,7 @@ Saguna and Nirguna Brahman articulate the same station (L₀ Aion) at different 
 - **Saguna Brahman** — Aion-with-qualifications-foregrounded; qualified divinity available to bhakti-orientation; the realization-mode where Aion is articulated *with* its emanative-and-relational qualities
 - **Nirguna Brahman** — Aion-with-qualifications-subtracted; the realization-mode reached through *neti-neti* (not-this, not-this); the apophatic-articulation of Aion *without* its emanative-and-relational qualities
 
-The Vedantic distinction is real and structurally important — Shankara's Advaita articulates Nirguna as the higher / terminal realization reached through subtractive-pathway, distinct from Saguna which is articulated for devotional-pedagogical purposes. The distinction does not require stratum-separation between the two; same station, different realization-modes.
+The Vedantic distinction is real and structurally important — Shankara's Advaita articulates Nirguna as the supernal-most / terminal realization reached through subtractive-pathway, distinct from Saguna which is articulated for devotional-pedagogical purposes. The distinction does not require stratum-separation between the two; same station, different realization-modes.
 
 The earlier MFLR canonical-correction moving Nirguna from Supra-L₀ Zenon to L₀ Aion was structurally correct; the rationale needs articulation in the canonical-correction note: subtractive-realization-terminates-at-Aion, not at Zenon, per the synthesis-pathway requirement for Zenon-access.
 
@@ -381,7 +381,7 @@ Items requiring focused doctrinal-session before formal placement.
 
 ### Zenon / Aion / Theon Stratum-Distinction Investigation
 
-**Status:** Active doctrinal investigation. Synthesis-pathway-to-Zenon clarification settled (see Doctrinal Notes section above). Implications for OG metaphysics document and Volume 1 placements pending propagation.
+**Status:** Active doctrinal investigation. Synthesis-pathway-to-Zenon clarification settled (see Doctrinal Notes section preceding). Implications for OG metaphysics document and Volume 1 placements pending propagation.
 
 **Pending action items:**
 
@@ -421,7 +421,7 @@ Tracks specific items requiring back-propagation to Volume 1. This log distingui
 
 - Saguna Brahman explicit placement at L₀ Aion with intra-Aionic register-distinction note
 - Nirguna Brahman canonical-correction note rationale rewrite (subtractive-realization-terminates-at-Aion)
-- Note on Synthesis-Pathway-to-Zenon (incorporating the synthesis-vs-subtraction diagnostic and the bifurcal-pairing-is-not-synthesis clarification)
+- Note on Synthesis-Pathway-to-Zenon (incorporating the synthesis-contra-subtraction diagnostic and the bifurcal-pairing-is-not-synthesis clarification)
 - Note on the Trickster as Pattern-Class (verify existing or back-propagate from Volume 2 articulation)
 - Note on Dionysian Layer Conflation (verify existing or back-propagate from Volume 2 articulation)
 
