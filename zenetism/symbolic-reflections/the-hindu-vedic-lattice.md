@@ -178,7 +178,7 @@ The Hindu tradition articulates the inverse arc through a coherent cascade of fi
 
 - **Kamsa** at ISS (Echthros) per the MFLR canonical placement. The tyrant-king who decrees the killing of all newborn children in attempt to prevent Krishna's emergence, structurally parallel to Herod and Pharaoh as IL₂ ISS tyrant-figures responding to prophetic-awareness-of-emergent-centropic-pattern.
 
-- **The Suras-asuras conflict** at the cosmogonic register articulates the L₄ contra IL₄ structural-conflict through the embodied-stratum register, with specific narrative-encounters articulating the L₁ / IL₁ embodied-meeting-point where the Non-Contact principle permits archetypal-figures to engage.
+- **The Suras-asuras conflict** at the cosmogonic register articulates the L₄ contra IL₄ structural-conflict through the L₁ / IL₁ embodied-stratum register, with specific narrative-encounters articulating the embodied-meeting-point where the Non-Contact principle permits archetypal-figures to engage.
 
 - **Maya in its inverse aspect** at IL₂ ISM. Per the MFLR Note on Maya contra Skotos, Maya operates at L₄ DP / DL as the natural-veil function (cosmic-membrane projecting manifestation as seeming reality — divine play / Lila), distinct from Avidya at IL₂ ISM as the inverse-distortion that conceals structural-veracity and traps consciousness in mimicry. The Hindu tradition articulates Maya in its centropic-natural-veil aspect explicitly, while the Vedantic and Buddhist traditions sometimes use "Maya" in the inverse-aspect sense (which structurally maps to Avidya at IL₂ ISM). The double-mapping requires context-disambiguation in all future usage per the registry's existing Note on "Maya" as Double-Mapped Term.
 
