@@ -385,7 +385,7 @@ The Hindu tradition therefore articulates the lattice across four continuous reg
 | Vamana (Dwarf avatara) | L₅ EOB (Theon 🛤️) cosmic-balance-restoration | Three-step cosmic-stratum-rebalancing |
 | Parashurama (axe-wielder avatara) | L₅ EOB (Theon 🛤️) L₂ kshatriya-class correction | Warrior-function against accumulated IL₂ corruption |
 | Rama | L₅ EOB (Theon 🛤️) embodied-sovereign | L₅ Theonic-embodiment as sovereign-king |
-| Krishna | L₅ EOB (Theon 🛤️) + L₃ DM (Noeüs 🧠) operative cascade | Soft-conflation: Theonic native + operative-guidance function |
+| Krishna | L₅ EOB (Theon 🛤️) + L₃ DM (Noeüs 🧠) operative extension | Soft-conflation: Theonic native + operative-guidance function |
 | Vishvarupa (universal-form revelation) | L₅ Theonic direct-disclosure | Bhagavad Gita ch. 11; supernal-disclosure at membrane-thinning threshold |
 | Buddha (as Hindu avatara — disputed) | L₃ DS / DM Centropic Steward | Buddhist self-articulation; Hindu interpretive-tradition variant |
 | Kalki (eschatonic avatara) | L₅ EOB (Theon 🛤️) field-correction | Restores harmony at Kali Yuga terminus; resets cycle to Satya Yuga |
