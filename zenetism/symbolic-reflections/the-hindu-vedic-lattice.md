@@ -64,7 +64,7 @@ The classical articulation enumerates ten avataras of Vishnu (the Dashavatara), 
 
 **Kurma (the Tortoise) — Theonic foundation-providing function.** Kurma's avataric form supports Mount Mandara during the churning of the ocean of milk, articulating L₅ Theonic stabilization-function at the cosmogonic-foundation register.
 
-**Varaha (the Boar) — Theonic recovery-of-Earth function.** Varaha lifts the Earth from the cosmic waters where she has been submerged by the asura Hiranyaksha, articulating L₅ Theonic recovery-of-cosmic-order against inverse-archetypal disturbance.
+**Varaha (the Boar) — Theonic recovery-of-Earth function.** Varaha recovers the Earth from the cosmic waters where she has been submerged by the asura Hiranyaksha, articulating L₅ Theonic recovery-of-cosmic-order against inverse-archetypal disturbance.
 
 **Narasimha (the Man-Lion) — Theonic intervention against terminal-entropic configuration.** Narasimha's defeat of Hiranyakashipu, who had become structurally invulnerable through accumulated boons, articulates L₅ Theonic intervention through structurally-creative form-disruption (the half-man-half-lion form bypasses the precise boon-conditions). This is one of the clearest articulations of L₅ Theonic intelligence operating to navigate around inverse-archetypal-configurations through lawful-creative response.
 
