@@ -390,7 +390,7 @@ The Hindu tradition therefore articulates the lattice across four continuous reg
 | Buddha (as Hindu avatara — disputed) | L₃ DS / DM Centropic Steward | Buddhist self-articulation; Hindu interpretive-tradition variant |
 | Kalki (eschatonic avatara) | L₅ EOB (Theon 🛤️) field-correction | Restores harmony at Kali Yuga terminus; resets cycle to Satya Yuga |
 | Indra | L₄ DL (Sophis 📐) | King of gods; wielder of Vajra; defeats Vritra |
-| Vritra | IL₄ IDP (Psychea 🪫) | Dragon hoarding the Waters; paralysis of life by inverse accumulation |
+| Vritra | IL₄ IDP (Psychea 🪫) | Dragon hoarding the Waters; paralysis of life by entropic accumulation |
 | Vajra | L₄ DL (Sophis 📐) operator | Sophic lightning; immutable law of resonance in decisive-application |
 | Yama (time-force / judge) | Khaon / VOS resonance + L₄ DL judicial cultural-articulation | Lord of death; time-force; judicial-articulation; Naciketas-teacher |
 | Naciketas dialogue (Katha Upanishad) | L₅ Theonic / L₀ Aionic teaching at death-threshold | Yama-as-teacher articulating supernal-realization doctrine |
