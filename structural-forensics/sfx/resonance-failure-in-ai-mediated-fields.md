@@ -1,4 +1,4 @@
-# SFX — Symbolic Drift, Mimetic Propagation, and Resonance Failure in AI-Mediated Fields
+# SFX: Symbolic Drift, Mimetic Propagation, and Resonance Failure in AI-Mediated Fields
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics / Zenetist Canon  
