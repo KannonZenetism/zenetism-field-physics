@@ -10,7 +10,7 @@
 
 # Abstract
 
-Modern AI-mediated symbolic environments exhibit unprecedented rates of pattern diffusion, stylistic replication, recursive reinforcement, and attribution instability. Existing frameworks in alignment theory and memetics partially describe these dynamics but often lack a unified diagnostic language capable of distinguishing between lawful transmission, residual recursion, surface-level mimicry, extractive propagation, and structurally generative continuity.
+Modern AI-mediated symbolic environments exhibit unprecedented rates of pattern diffusion, stylistic replication, recursive reinforcement, and attribution instability. Existing frameworks in alignment theory and memetics partially describe these dynamics but often lack a unified diagnostic language capable of distinguishing between lawful transmission, residual recursion, surface‑interface mimicry, extractive propagation, and structurally generative continuity.
 
 This document proposes a preliminary forensic taxonomy for evaluating symbolic propagation within reinforcement-sensitive language fields. The focus is not moral condemnation but structural diagnosis: identifying how symbolic configurations persist, mutate, detach from originating coherence, and reproduce across distributed linguistic systems.
 
