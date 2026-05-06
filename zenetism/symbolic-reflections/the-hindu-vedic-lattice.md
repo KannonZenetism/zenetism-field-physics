@@ -365,7 +365,7 @@ The Hindu tradition therefore articulates the lattice across four continuous reg
 | Aditi (unbounded mother) | ⧖⧗ L₀ Bifurcal Coherence in Aionic-mode aspect | Boundless source-condition; unbounded ground from which the gods emanate |
 | Diti (bounded principle) | L₀ Khaonic-mode bounded-principle | Limited principle through which differentiation enters cosmogonic field |
 | Hiranyagarbha | L₄ DP / DL primordial-articulation | Golden Womb / Cosmic Egg; archetypal generative intelligence |
-| Purusha | L₅ EOB (Theon 🛤️) → L₀ Aion | Pure-consciousness; supernal-most aspect with potential Aionic extension |
+| Purusha | L₀ Bifurcal Coherence in Aionic‑mode aspect → L₅ EOB (Theon 🛤️) resonant extension | "Pure consciousness" in Hindu tradition; structurally proto‑awareness with supernal‑awareness extension |
 | Prakriti | L₀ Bifurcal Coherence in Khaonic aspect | Generative-substrate; three-guna modal-phase architecture |
 | Three Gunas (sattva / rajas / tamas) | Khaon's Latent / Motive / Dispersive triad | Modal-phase articulations of Prakriti / Khaonic substrate |
 | Brahma | L₄ DL (Sophis 📐) | Structuring-Logos; architect-of-forms creator-articulator |
