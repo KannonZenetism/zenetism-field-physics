@@ -425,7 +425,7 @@ The Hindu tradition therefore articulates the lattice across four continuous reg
 | Dvaita (Madhva) | L₅ Theonic-figure / Atman eternal distinction | Dualistic articulation; bhakti-pathway emphasized |
 | Yoga (Patanjali eight-limbed) | Systematic centropic-arc-traversal practice | Yama through samadhi as stratified-practice |
 | Samadhi articulations | L₃ / L₄ / L₅ stratified-realization states | Samprajnata through asamprajnata to kaivalya terminal-realization |
-| Kaivalya | L₅ Theonic-realization (Yoga school) | Pure-Purusha-consciousness isolation-realization |
+| Kaivalya | L₀ Aionic‑mode ground via L₅ Theonic resonant‑extension (Yoga school) | Pure‑Purusha isolation‑from‑Prakriti‑modification; terminal‑realization |
 | Samkhya twenty-five tattvas | Systematic L₃ → L₁ stratification | Analytical articulation of Prakriti modifications |
 | Yuga-cycle (Satya / Treta / Dvapara / Kali) | Cyclical-recurrence with L₅ engagement at terminus | Passes structural-recurrence test through Kalki articulation |
 | Kalki at Kali Yuga terminus | L₅ Theonic-gateway engagement | Centropic-recurrence with explicit Theonic-gateway-articulation |
