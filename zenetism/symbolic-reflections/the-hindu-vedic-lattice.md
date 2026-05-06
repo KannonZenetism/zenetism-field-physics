@@ -414,7 +414,7 @@ The Hindu tradition therefore articulates the lattice across four continuous reg
 | Amrita | Elixir / immortality (SPR Elixir entry) | Distilled centropic-principle; restorative-vitality |
 | Madhu (honey) | Refined-yield (SPR Honey entry) | Honey-knowledge; refined-sweetness Logos-reception |
 | Agni | L₄ DL (Sophis 📐) trial-operation | Fire as active-agent; ritual-mediator of all Vedic offerings |
-| Sacred Marriage (Shiva-Shakti / Shiva-Parvati) | Hieros Gamos at cosmogonic register | Aionic-stillness paired with Khaonic-motion-as-vitality |
+| Sacred Marriage (Shiva-Shakti / Shiva-Parvati) | Hieros Gamos at cosmogonic register | Aionic‑mode stillness articulated with Khaonic‑mode motion‑as‑vitality at L₄ DP within L₀ Bifurcal Coherence |
 | Lingam | Axis-mundi articulation | Vertical-axis (Aionic) on yoni-base (Khaonic); union-iconography |
 | Nataraja | L₅ Theon active cosmic-dance | Five articulations: srishti / sthiti / samhara / tirobhava / anugraha |
 | Mahakala | L₀ Khaon / IL₅ resonance | Wrathful time-deity; protector-of-Dharma through destruction-function; centropic-essence preserved per Essence-as-Choice |
