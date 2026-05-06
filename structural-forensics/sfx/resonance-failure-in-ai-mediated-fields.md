@@ -50,7 +50,7 @@ The propagated symbol retains surface recognizability while losing contextual pl
 ## Diagnostic Signature
 
 - recursive symbolic recurrence
-- declining contextual necessity
+- diminishing contextual necessity
 - motif persistence after semantic exhaustion
 - reinforcement-dependent reappearance
 
