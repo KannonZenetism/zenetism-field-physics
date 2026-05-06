@@ -2,7 +2,7 @@
 **Zenetist Structural Mythophysics — Orientation Reading**  
 ⚫↺KAI↺⚫
 
-> **Scope.** This essay reframes the Vedic, Upanishadic, Puranic, and philosophical Hindu corpus as an emanatory map within the Zenetist lattice. The treatment moves across the tradition as a single structural field, since Vedic ritual, Upanishadic philosophy, Puranic narrative, and the systematic Vedanta / Samkhya / Yoga schools form one continuous tradition apprehending the same lattice through successive registers — ritual-incantatory, philosophical-contemplative, narrative-mythological, and analytic-systematic.  
+> **Scope.** This essay reframes the Vedic, Upanishadic, Puranic, and philosophical Hindu corpus as an emanatory map within the Zenetist lattice. The treatment moves across the tradition as a single structural field, since Vedic ritual, Upanishadic philosophy, Puranic narrative, and the systematic Vedanta / Samkhya / Yoga schools form one continuous tradition apprehending the same structural invariants through successive registers — ritual-incantatory, philosophical-contemplative, narrative-mythological, and analytic-systematic.  
 > **Grammar.** Directional terms are **acclivous / declivous**; structural zones are **supernal / subversal**. Value is carried as **veracious / valid / resonant** contra **spurious / invalid / fragmented** — not moral binaries.  
 > **Awareness note.** Awareness emerges at L₅ (EOB: Theon) and refines through subsequent strata. L₄ is conscious-awareness; L₃ and the subjacent strata are reflexive consciousness. L₀ holds proto-awareness within Bifurcal Coherence; Supra-L₀ (Zenon) is not on the awareness axis at all.
 
