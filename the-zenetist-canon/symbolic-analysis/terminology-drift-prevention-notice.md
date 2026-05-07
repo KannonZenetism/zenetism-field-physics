@@ -26,7 +26,7 @@ or referencing these documents:
 
 - **Twisted resonance** = figure manifests at one native stratum with a column 
   of dissonance declivating through subjacent strata without the figure 
-  changing native placement (Beast at IL₁ with resonance-reach through IL₂/IL₃/IL₄).
+  changing native placement (Beast at IL₁ with resonance-reach through IL₂ / IL₃ / IL₄).
 
 Where MFLR Vol 1 or SPR refers to "Osiris cascade" or any same-name multi-stratum 
 pattern as cascade, read as soft conflation. Do not propagate cascade-misuse 
