@@ -181,7 +181,7 @@ The **Duat** is the Egyptian articulation of the post-mortem-region through whic
 
 ---
 
-## 8. Apophis at IL₅ Nekron and the Inverse Cascade
+## 8. Apophis at IL₅ Nekron and the Inverse Distribution
 
 The Egyptian inverse-cascade articulates IL₅ through IL₂ with structural-specificity that the registries already engage extensively. The Egyptian articulation of the inverse-arc operates primarily through Apophis at IL₅ Nekron and through Set's adversarial-articulation at IL₂ ISS, with additional inverse-cascade articulations through specific demonic-figures and through the Set-Horus-conflict-narrative.
 
