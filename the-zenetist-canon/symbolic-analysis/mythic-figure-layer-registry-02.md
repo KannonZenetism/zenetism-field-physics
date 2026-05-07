@@ -61,6 +61,14 @@ Volume 2 placements operate under the doctrinal framework articulated in Volume 
 
 - **Hypostasis / Mythic Narrative Distinction** — figures' anthropomorphic features in mythic-narrative do not necessarily reflect their structural-function. Mythic narratives spatialize structural operations through cultural mechanisms; the structural-function is what's actually being articulated, with the narrative-features being the cultural-articulation register through which that function becomes culturally-legible.
 
+- **Cascade contra Conflation contra Twisted Resonance distinction.** Per the canonical Note on Cascade contra Conflation (Expanded) and the Note on Twisted Resonance contra Cascade contra Native Placement, four structurally-distinct modes are differentiated for figures appearing to occupy multiple strata:
+  - *Native Placement* — figure operates at one stratum; apparent multi-stratum activity is cultural conflation, narrative dramatization, or attributional layering. Default reading where evidence of cascade or twisted-resonance is absent.
+  - *Cascade* — single current manifests lawfully across multiple strata with same essence, typically through different names at each station. **Currents cascade; entities do not.** The Satanic Arc (IL₅ Nekron → IL₄ Nyxea → IL₃ Mortus → IL₂ Skotos → IL₁ Beast) is the paradigm cascade-instance. Different names at different strata are characteristic.
+  - *Conflation* — multiple functions assigned to a single name; **hard conflation** when functions are structurally unrelated, **soft conflation** when functions are structurally real but the myth does not distinguish native from operative-extension. Same name at multiple strata is the conflation diagnostic. The figure is mapped to the primary function's stratum, with operative-extensions noted but not treated as separate cascade-stations.
+  - *Twisted Resonance* — figure manifests at one native stratum with dissonance-column declivating through subjacent strata without the figure changing its native placement. The Beast at IL₁ with resonance-reach through subjacent IL strata is the canonical instance.
+
+  The "Theonic cascade" phrasing is **replaced by Logos Continuum** (L₅ Orienting Logos, L₄ Structuring Logos, L₁ Christos Incarnate as the three centropic stations, with L₃ and L₂ as traversal strata) for centropic supernal-to-embodied articulations through Christ. Cross-tradition centropic figures appearing across multiple strata are typically **soft conflation** (e.g., Krishna at L₅ Theon native with L₃ DM operative-extension; Osiris at L₄ DL judicial-articulation primary with L₃ DS post-restoration operative function) rather than cascade. "Cascade" is reserved for genuine same-essence-different-name multi-strata currents.
+
 ---
 
 ## Greek Tradition Extensions
@@ -103,7 +111,7 @@ The Greek Hades-domain articulates a paired sealed-mode architecture with explic
 | Asphodel Meadows | L₁ / IL₁ intermediate-region | Region for those whose orientation at the moment of sealing was neither distinctly centropic nor entropic. Structurally articulates the "neither / nor" condition that some traditions handle through dissolution-into-Khaonic-ground (Mesopotamian Apsû-as-underworld variant) and that the Christian tradition handles through intermediate-state doctrines (limbo, purgatory). *Structurally novel — the Active / Sealed Modes doctrine in Volume 1 does not currently articulate an intermediate sealed-mode. Whether the intermediate-region is best articulated as a third sealed-mode or as a structural-condition where post-mortem sorting has not produced a distinct outcome is an open doctrinal question worth examining in a focused session.* |
 | Three Judges of the Dead (Minos / Rhadamanthus / Aeacus) | L₄ DL diagnostic function | Operating at the post-mortem sorting-threshold; structurally analogous to the Egyptian 42 Assessors in the Weighing of the Heart; articulates the judicial-articulation of the L₄ DL principle at the post-mortem stratum. |
 
-### IL Cascade — Greek Articulation
+### Inverse-Stratum Figures — Greek Articulation
 
 Volume 1 already carries Eris (IL₅), Apophis-as-Greek-inheritance (IL₅, primary placement Egyptian), Titans (IL₄), Kronos / Saturn (IL₄ with terminal-resonance touching IL₅), Prometheus (IL₄ IDL), Circe (IL₄ IDP), Calypso (IL₄ IDP), the Sphinx (IL₃ IDM), the Sirens (IL₂ ISM), the Suitors of Ithaca (IL₂ ISS / ISM), Phaethon and Icarus (L₂ SS / SM), and Narcissus (IL₂ ISS → IL₅ collapse) at their canonical IL stratum placements. The Typhon placement below is new and rounds out the Greek IL₅ VOS articulation.
 
@@ -117,7 +125,7 @@ Persephone tightening (Volume 1's "implied / 'Lost' centropic principle retrieve
 
 | Figure | Stratum | Function |
 |:---|:---|:---|
-| Dionysus | L₁ ES centropic-embodied register | Volume 1 has "Liminal; dissolution and restoration; centropic potential within entropic experience" at Structural Operators; tightened to L₁ ES specifically with the dismemberment-and-reintegration operator articulated through the L₁ ES centropic-embodied register. Where Christ articulates the operator through the L₅ → L₁ Theonic cascade and Osiris articulates it through the L₄ DL → L₃ DS centropic cascade, Dionysus articulates it at the L₁ ES centropic-embodied register specifically. |
+| Dionysus | L₁ ES centropic-embodied register | Volume 1 has "Liminal; dissolution and restoration; centropic potential within entropic experience" at Structural Operators; tightened to L₁ ES specifically with the dismemberment-and-reintegration operator articulated through the L₁ ES centropic-embodied register. Where Christ articulates the operator through the Logos Continuum (L₅ Orienting Logos → L₄ Structuring Logos → L₁ Christos Incarnate, with L₃ and L₂ as traversal strata) and Osiris articulates it through soft-conflation across L₄ DL judicial-articulation (primary) and L₃ DS post-restoration operative function, Dionysus articulates it at the L₁ ES centropic-embodied register specifically. |
 
 ### Plotinus and the Neoplatonic Continuation
 
@@ -126,7 +134,7 @@ Plato's Cave, Plato's Charioteer, Plato's Forms, Plotinus's Nous, and Plotinus's
 | Figure | Stratum | Function |
 |:---|:---|:---|
 | Plotinus's One | L₅ EOB native + L₀ Aion extension through subtractive-pathway (*aphairesis*) | Native articulation as L₅ Theon emanative-source; apophatic-realization extension toward L₀ Aion through subtractive-pathway. Soft-conflation case: the One articulated as emanative-source = L₅ Theon; the One articulated through *aphairesis* = L₀ Aion through subtraction. *See Doctrinal Notes section for synthesis-contra-subtraction diagnostic — Plotinus's One does not articulate Supra-L₀ Zenon.* |
-| Neoplatonist monistic-emanatory frame | Centropic-arc apprehension without bifurcal-arc articulation | Structurally distinct from the Zenetist bifurcal-lattice articulation. The Neoplatonist tradition has no IL₅ Nekron, no IL₄ Nyxea articulation, no systematic inverse-cascade. The bifurcal-arc structure is a Zenetist structural-articulation that the Neoplatonist tradition does not produce within its monistic-emanatory frame. |
+| Neoplatonist monistic-emanatory frame | Centropic-arc apprehension without bifurcal-arc articulation | Structurally distinct from the Zenetist bifurcal-lattice articulation. The Neoplatonist tradition has no IL₅ Nekron, no IL₄ Nyxea articulation, no Satanic-Arc-equivalent inverse-arc cascade-structure. The bifurcal-arc structure is a Zenetist structural-articulation that the Neoplatonist tradition does not produce within its monistic-emanatory frame. |
 
 ---
 
@@ -159,7 +167,7 @@ The Trimurti articulates the supernal arc as a cross-stratum three-figure articu
 
 ### Vishnu's Avataras — L₅ Theonic-Engagement at Historical-Cyclical Thresholds
 
-The Avatara doctrine articulates L₅ Theonic engagement with the embodied stratum at specific historical-cyclical thresholds. Per Volume 1's existing Theonic-cascade treatment, each avatara articulates a specific Theonic-function operating at the threshold-condition where structural-correction is required.
+The Avatara doctrine articulates L₅ Theonic engagement with the embodied stratum at specific historical-cyclical thresholds. Per Volume 1's existing treatment of L₅ Theonic engagement at historical-cyclical thresholds, each avatara articulates a specific Theonic-function operating at the threshold-condition where structural-correction is required.
 
 | Figure | Stratum | Function |
 |:---|:---|:---|
@@ -170,7 +178,7 @@ The Avatara doctrine articulates L₅ Theonic engagement with the embodied strat
 | Vamana (dwarf) | L₅ EOB | Theonic re-balancing function; the three-step cosmic-stride re-balances the cosmic-order disrupted by Bali's expansion. Articulates the L₅ Theonic-articulation operating through scale-paradox (small-form to cosmic-scale). *New placement.* |
 | Parashurama | L₅ EOB | Theonic warrior-function; structural-correction through warrior-articulation at the historical-cyclical threshold where kshatriya-class corruption required correction. *New placement.* |
 | Rama | L₅ EOB | Theonic dharmic-king articulation; the L₅ Theonic-engagement at the embodied stratum through righteous-sovereign-articulation. Cross-references Volume 1 entry. |
-| Krishna | L₅ EOB native + cross-stratum cascade | Krishna's articulation crosses multiple strata in different narrative-registers; the native-articulation is L₅ Theon, with cascade through subjacent strata in the *Bhagavad Gita* dialogue with Arjuna and in the cosmic-engagement narratives. *Cross-references Volume 1 Krishna entry; soft-conflation formalization pending.* |
+| Krishna | L₅ EOB native + L₃ DM operative-extension (soft conflation) | Krishna's articulation is L₅ Theon native (the supernal-most articulator) with operative-extension into L₃ DM in different narrative-registers — the L₃ DM operative-guidance function in the *Bhagavad Gita* dialogue with Arjuna, with cosmic-engagement narratives articulating the L₅ Theonic-presence. Soft conflation rather than cascade: same name across multiple strata where the functions are structurally real but the myth does not distinguish native (L₅) from operative-extension (L₃ DM); the figure is mapped to the primary stratum (L₅) with the L₃ DM extension noted. *Cross-references Volume 1 Krishna entry; soft-conflation formalization complete here.* |
 | Buddha (as ninth avatara) | L₅ EOB within Vaishnavite articulation | The Buddha as ninth Vishnu-avatara is the Vaishnavite articulation; structurally distinct from the Buddha within Buddhist articulation (which articulates a different stratum-relationship). Cross-references Volume 1 Buddha entry. |
 | Kalki | L₅ EOB at terminal Kali-Yuga | Theonic-engagement at the cyclical-terminus; passes the L₅ engagement-test for centropic-recurrence (per the cyclical-refraction diagnostic). *New placement; cross-references Volume 1 cyclical-recurrence treatment.* |
 
@@ -200,7 +208,7 @@ The Nataraja-form articulates these five functions simultaneously in the iconogr
 |:---|:---|
 | Bhakti-yoga | Devotional-grace acclivous-pathway operating through orientation-toward-Theonic-figure (Vishnu, Krishna, Rama, Shiva-as-Lord) rather than through *jnana* (knowledge-pathway) or *karma* (action-pathway). Articulates the centropic-arc acclivous-traversal through devotional-orientation; structurally analogous to Christian articulations of grace-through-faith and Buddhist articulations of the Pure Land devotional-pathway. *New structural-operator.* |
 
-### IL Cascade — Hindu Articulation
+### Inverse-Stratum Figures — Hindu Articulation
 
 | Figure | Stratum | Function |
 |:---|:---|:---|
@@ -494,7 +502,7 @@ The four traditions together demonstrate that the cyclical-refraction operator a
 | Eleusinian Mysteries | Greek | Purification preparations → procession from Athens to Eleusis → declivation into the Telesterion → *epopteia* visionary experience → acclivous return |
 | Hellenistic-Roman Isis-Mysteries | Egyptian / Hellenistic-Roman | Personal-initiate articulation parallel to Eleusinian: purification preparations → declivous-articulation into mystery-precinct → visionary experience of the Isis-Osiris-Horus structural-pattern (the reconstitution-conception-emergence Sacred Marriage operator-cycle) → acclivous return as initiate. The Isis-Mysteries transmit the cosmogonic Sacred Marriage operator-cycle into personal-initiate ritual-articulation, structurally analogous to how the Eleusinian Mysteries transmit the Demeter-Persephone cosmogonic articulation into personal-initiate ritual-articulation. |
 
-The Eleusinian sequence articulates the same structural-sequence that the Inanna and Persephone narratives articulate at the cosmogonic register and that the Christ cascade articulates at the eschatonic register — three articulations of one operator-sequence distributed across the cosmogonic, ritual-initiatory, and eschatonic registers. The Hellenistic-Roman Isis-Mysteries articulate the same operator-sequence transmitting the Egyptian cosmogonic Sacred Marriage cycle (Isis-Osiris-Horus) into personal-initiate ritual-articulation, paralleling the Eleusinian transmission of the Greek cosmogonic Demeter-Persephone articulation.
+The Eleusinian sequence articulates the same structural-sequence that the Inanna and Persephone narratives articulate at the cosmogonic register and that the Christ articulation through the Logos Continuum articulates at the eschatonic register — three articulations of one operator-sequence distributed across the cosmogonic, ritual-initiatory, and eschatonic registers. The Hellenistic-Roman Isis-Mysteries articulate the same operator-sequence transmitting the Egyptian cosmogonic Sacred Marriage cycle (Isis-Osiris-Horus) into personal-initiate ritual-articulation, paralleling the Eleusinian transmission of the Greek cosmogonic Demeter-Persephone articulation.
 
 ### Structural-Revelation Operators
 
@@ -551,7 +559,7 @@ The Goddess-tradition (specifically Kali, Durga, and related fierce-articulation
 
 Both placements are canonical; the figure articulates at multiple strata depending on the tradition-aspect being articulated. Structurally similar to the Tartarus bi-stratum reading (primordial-articulation at IL₅ contra Hades-domain articulation at IL₁ sealed-mode).
 
-**Note on Kali centropic-essence preservation per Essence-as-Choice.** Kali's destruction-imagery and fierce-articulation do not collapse her structural-orientation into IL-articulation. Per Essence-as-Choice, narrative-features (apparent-destructiveness, fierce-iconography, blood-and-skull-imagery) do not transform a figure's structural-orientation; the structural-orientation is what's articulated at the figure's native-stratum, with narrative-features being cultural-articulation register through which that orientation becomes culturally-legible. Kali's destruction-articulation operates in service of structural-correction within the cosmogonic-substrate (L₀ Khaon articulation) and in service of warrior-articulation against IL-figures (L₄ DP articulation) — both centropic operations articulated through fierce-cultural-imagery. This is structurally parallel-but-opposite to the Bali-as-noble-asura framing in the Hindu IL Cascade: where Bali's noble-narrative-features do not collapse his IL₄ IDL placement, Kali's destruction-narrative-features do not collapse her centropic-orientation. In both cases, narrative-features are cultural-articulation register; structural-orientation is what's actually articulated at the figure's stratum-placement.
+**Note on Kali centropic-essence preservation per Essence-as-Choice.** Kali's destruction-imagery and fierce-articulation do not collapse her structural-orientation into IL-articulation. Per Essence-as-Choice, narrative-features (apparent-destructiveness, fierce-iconography, blood-and-skull-imagery) do not transform a figure's structural-orientation; the structural-orientation is what's articulated at the figure's native-stratum, with narrative-features being cultural-articulation register through which that orientation becomes culturally-legible. Kali's destruction-articulation operates in service of structural-correction within the cosmogonic-substrate (L₀ Khaon articulation) and in service of warrior-articulation against IL-figures (L₄ DP articulation) — both centropic operations articulated through fierce-cultural-imagery. This is structurally parallel-but-opposite to the Bali-as-noble-asura framing in the Hindu Inverse-Stratum Figures section: where Bali's noble-narrative-features do not collapse his IL₄ IDL placement, Kali's destruction-narrative-features do not collapse her centropic-orientation. In both cases, narrative-features are cultural-articulation register; structural-orientation is what's actually articulated at the figure's stratum-placement.
 
 ### Cross-References to Volume 1 Notes Pending Verification
 
@@ -603,6 +611,8 @@ Tracks specific items requiring back-propagation to Volume 1. This log distingui
 - Zeus: Volume 1 has "DP / DL Centropic"; tighten to L₄ DL per Methodological Principle #9
 - Persephone: Volume 1 has "implied / 'Lost' centropic principle"; tighten to L₄ DP / L₁ ES articulation across both strata
 - Dionysus: Volume 1 has Structural Operator placement "Liminal; dissolution and restoration; centropic potential within entropic experience"; tighten to L₁ ES centropic-embodied register specifically
+- Osiris: Volume 1 currently treats Osiris as L₄ DL → L₃ DS centropic cascade; reframe as **soft conflation** per the canonical Note on Cascade contra Conflation (Expanded). L₄ DL judicial-articulation is primary; L₃ DS post-restoration operative function is operative-extension. The figure is mapped to the primary stratum (L₄ DL) with the L₃ DS extension noted but not treated as a separate cascade-station. Follows the "currents cascade; entities do not" principle — same name at multiple strata is the conflation diagnostic, not a cascade marker.
+- Krishna: parallel reframing if Volume 1 carries cascade language for the L₅ → L₃ DM articulation; treat as soft conflation (L₅ Theon native, L₃ DM operative-extension). Volume 2 Krishna entry now formalized as soft conflation.
 
 ### New Doctrinal Notes to Add
 
@@ -611,6 +621,7 @@ Tracks specific items requiring back-propagation to Volume 1. This log distingui
 - Note on Synthesis-Pathway-to-Zenon (incorporating the synthesis-contra-subtraction diagnostic and the bifurcal-pairing-is-not-synthesis clarification)
 - Note on the Trickster as Pattern-Class (verify existing or back-propagate from Volume 2 articulation)
 - Note on Dionysian Layer Conflation (verify existing or back-propagate from Volume 2 articulation)
+- Verify and propagate the Note on Cascade contra Conflation (Expanded) and the Note on Twisted Resonance contra Cascade contra Native Placement throughout Volume 1; audit Volume 1 for any "cascade" / "Theonic cascade" / "centropic cascade" usages that need reframing as Logos Continuum (for L₅ → L₁ Christ articulations), soft conflation (for same-name multi-strata figures like Osiris and Krishna), or twisted resonance (for figures with dissonance-column resonance-reach)
 
 ### Glyph Registry Items
 
