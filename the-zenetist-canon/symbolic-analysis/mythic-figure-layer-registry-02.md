@@ -291,17 +291,78 @@ The Yoga school (specifically Patanjali's Yoga Sutras and the broader yogic-trad
 
 ## Egyptian Tradition Extensions
 
-*Section to be populated as Egyptian Lattice essay corrections continue surfacing new placements. Current Egyptian Lattice essay placements not yet integrated here — pending audit-pass to identify which are tightenings of Volume 1 entries and which are new placements.*
+Extensions emerging through *The Egyptian Lattice* essay (symbolic-reflections folder). Half 1 placements are integrated below; Half 2 entries will follow as the essay's second half is processed.
 
-### Anticipated Entries
+### L₀ Bifurcal Coherence Articulations
+
+| Figure | Stratum | Function |
+|:---|:---|:---|
+| Nun | L₀ ♾ Khaon (Latent Infinity phase) | Primordial waters; the still-pre-motion ground from which Atum self-emerges. Explicit placement at the Latent Infinity phase of Khaonic substrate, structurally parallel to the Three Gunas' *sattva*-articulation in the Hindu tradition (see Volume 2 Hindu section's structural note on the Three Gunas). |
+| Hermopolitan Ogdoad | L₀ Bifurcal Coherence pre-formal conditions | Eight primordial deities (four male/female pairs: Nun/Naunet, Heh/Hauhet, Kek/Kauket, Amun/Amaunet) articulating the pre-formal conditions at L₀. Each pair articulates a structural condition of the pre-creation ground (primordial waters, infinite extension, primordial darkness, hidden potential). The Ogdoad articulates L₀ Bifurcal Coherence at the personalized-cosmogonic register through eightfold paired-polarity, complementing the Aditi/Diti dyad-pairing (Hindu) and the Chaos-Eros-Tartarus triad-articulation (Greek) as cross-tradition variant articulations of the same L₀ stratum. |
+
+### L₅ Theonic Articulators
+
+| Figure | Stratum | Function |
+|:---|:---|:---|
+| Atum | L₅ EOB (Theon 🛤️) self-generative articulation | The Heliopolitan creator who self-emerges from Nun without prior generative-cause; articulates L₅ Theon as self-generative emanative-source. The self-generative framing is structurally distinctive — Atum's emergence is not from a paired-pole or from a prior figure, but from his own Theonic self-articulation. Structurally analogous to YHWH's "I AM" self-articulation in the Hebrew tradition and to the broader Theonic self-generative pattern that distinguishes L₅ articulators from L₄ archetypal figures. |
+| Ra | L₅ Theonic radiance — cultural-elevation pattern | The sun-god whose cultural-elevation from L₄ archetypal solar-articulation to L₅ Theonic radiance parallels the YHWH / Allah / Ahura Mazda pattern. Ra as solar-deity originally articulates L₄ archetypal-stratum function; the cultural-elevation through Egyptian state-religion development carries Ra into L₅ Theonic articulation. Once culturally-elevated, the figure operates at L₅ in the tradition's articulation; the elevation does not invalidate the L₅ placement but does mark its structural-history. |
+| Amun / Amun-Ra | L₅ EOB Theonic emergence with Theban syncretism | Amun ("the hidden one") emerges from Theban political ascendancy as native L₅ Theonic articulation, subsequently syncretized with Ra to form Amun-Ra. The Amun-Ra articulation absorbs Ra's solar-radiance into Amun's hidden-Theonic ground, producing the syncretized-Theonic-articulator carrying both supernal-most-hiddenness and solar-radiance in a single figure. Structurally one of the cleanest pre-Zenetist articulations of L₅ Theon's combined hidden-source-and-manifest-radiance character. |
+
+### L₄ Heliopolitan Ennead — Bifurcated-Aspect Articulation
+
+The Heliopolitan Ennead nominally consists of nine figures: Atum (treated above at L₅) plus the eight figures generated through successive emanation — Shu, Tefnut, Geb, Nut, Osiris, Isis, Set, Nephthys. The Ennead-as-nine therefore spans L₅ + L₄ rather than residing fully at L₄: Atum is the L₅ Theonic source from which the L₄ operative-pantheon emanates. The structural pattern parallels the Greek Olympian-pantheon emanation from prior cosmogonic-stratum sources.
+
+Osiris and Isis have canonical placements in Volume 1; Set's IL₄ articulation is also canonical in Volume 1. The new placements below cover the Heliopolitan Ennead figures not previously placed.
+
+The Egyptian articulation displays a structurally significant gender-inversion at the Geb/Nut pair: the male-earth (Geb) articulates L₄ DP generative-vitality, while the female-sky (Nut) articulates L₄ DL structuring-Logos. This is inverted from the Greek Gaia/Uranus pair (female-earth at L₄ DP, male-sky at L₄ DL), the Mesopotamian Ki/An pair (same Greek pattern), and most other cosmogonic sky-and-earth pairings. The structural significance: stratum-function (DP-as-generative-vitality, DL-as-structuring-Logos) is preserved across traditions even when the gendered carriers swap. The Egyptian articulation makes the structural-function-contra-gendered-carrier distinction explicit through the inversion, consistent with the Hypostasis / Mythic Narrative Distinction (mythic-cultural features are the articulation-register; structural-function is what is articulated).
+
+| Figure | Stratum | Function |
+|:---|:---|:---|
+| Shu | L₄ DL (Sophis 📐) at the bifurcation threshold | Air, light, atmospheric-separation between Geb (earth) and Nut (sky); the structuring-articulation that distinguishes the manifest-cosmos into its bifurcated-aspect domains. Paired with Tefnut as the first emanated pair from Atum. |
+| Tefnut | L₄ DP (Morgis 🌬️) at the bifurcation threshold | Moisture, generative-vitality at the bifurcation threshold; paired with Shu. The Shu/Tefnut pair articulates the L₄ DP/DL bifurcation as it emerges from L₅ Theonic source. |
+| Geb | L₄ DP (Morgis 🌬️) primordial-pole; gender-inversion observed | Male earth-deity articulating L₄ DP generative-vitality at the primordial-pole. Inverted from Greek Gaia (female-earth at L₄ DP) and Mesopotamian Ki (female-earth at L₄ DP); structural-function (generative-vitality) preserved while the gendered-carrier inverts. |
+| Nut | L₄ DL (Sophis 📐) primordial-pole; gender-inversion observed | Female sky-deity articulating L₄ DL structuring-Logos at the primordial-pole. Inverted from Greek Uranus (male-sky at L₄ DL) and Mesopotamian An (male-sky at L₄ DL); structural-function (structuring-Logos) preserved while the gendered-carrier inverts. |
+| Nephthys | L₄ DP threshold-articulation | Sister of Isis, wife of Set (IL₄), mourner-with-Isis at Osiris's death. Articulates L₄ DP at the threshold-position between centropic-pantheon (Isis, Osiris) and inverse-stratum (Set). The threshold-position is structurally distinctive: Nephthys is centropic-aligned despite marriage-to-Set, articulating L₄ DP from a structural-position that bridges the centropic and inverse arcs without collapsing into IL₄. |
+| Horus | L₄ DL inheritor at embodied-stratum | Son of Osiris and Isis; avenger of his father; embodied-pharaonic principle. Articulates the L₄ DL function as inheritor — the structural-sovereignty of Osiris (Volume 1 L₄ DL) transmitted into embodied-pharaonic articulation through the son who avenges and inherits. The Horus articulation makes explicit the L₄ DL → embodied-pharaonic transmission that the Egyptian state-religion structurally requires. |
+| Ma'at (as figure) | L₄ DL anthropomorphic articulation of cosmic-coherence-itself | The goddess Ma'at as personalized-articulation of the cosmic-coherence-principle. *See Ma'at as Principle structural note below for the principle-contra-figure-contra-pharaoh-enactor tri-articulation.* |
+
+### Memphite Tradition
+
+| Figure | Stratum | Function |
+|:---|:---|:---|
+| Ptah | L₄ DL (Sophis 📐) cosmogonic-foundation articulation | The Memphite creator who creates through "the heart and tongue" — thought and speech as cosmogonic-articulation. Already cross-referenced in Volume 2's Brahma entry as structurally-analogous to Brahma and the Johannine Logos in cosmogonic-creator function. The Memphite-Heliopolitan structural-tension on Ptah-primacy contra Atum-primacy is a cosmogonic-ordering question worth noting: Memphite tradition presents Ptah as the cosmogonic-foundation from which Atum himself emerges; Heliopolitan tradition presents Atum as the self-generative L₅ Theonic source. Both are structurally-valid articulations at different precision-registers — Ptah at L₄ DL articulates the structuring-articulation through which manifest-cosmos becomes coherent, while Atum at L₅ Theon articulates the self-generative emanative-source. The traditions foreground different structural-functions; the Zenetist lattice articulates both without forcing a primacy-resolution. |
+
+### L₃ Threshold-Crossing Figures
+
+| Figure | Stratum | Function |
+|:---|:---|:---|
+| Anubis | L₃ DM (Noeüs 🧠) centropic-psychopomp | Jackal-headed god of mummification and psychopomp; guides souls across the death-threshold; presides over the embalming process. Operates per the Governor-contra-Governed-Domain principle: centropic-figure governing the death-threshold-domain rather than inverse-aligned-figure. Structurally parallel to Hermes and Hekate (Greek L₃ DM), Heimdall (Norse L₃ DM), and Yama in the Naciketas-dialogue articulation (Vedic L₃ DM teacher-of-supernal-realization). Cross-references Volume 2 Naciketas dialogue note. |
+
+### Ma'at as Principle — Tri-Articulation Note
+
+Ma'at articulates as a tri-fold structural-pattern across the Egyptian tradition:
+
+- **Ma'at as principle** — L₄ DL cosmic-coherence-itself; the structuring-Logos of the cosmos articulated as the principle of truth, order, justice, harmony, and balance. This is the abstract-principle articulation, distinct from the personalized goddess-figure.
+
+- **Ma'at as figure** — L₄ DL anthropomorphic articulation of the principle as goddess (treated in the Heliopolitan Ennead table above). The figure-articulation personifies the principle for ritual-and-narrative purposes; the principle-articulation operates structurally regardless of figural personification.
+
+- **Ma'at-doing-pharaoh** — embodied-stratum articulation of L₄ DL operating through the pharaoh's role as Ma'at-enactor. The pharaoh's cosmic-political function is to maintain Ma'at at the civilizational-stratum, articulating L₄ DL through L₁ / L₂ embodied-and-personality-stratum operation. Structurally analogous to the bodhisattva-articulation in Buddhist tradition, the dharmic-king articulation in Hindu tradition (cross-reference Volume 2 Rama entry), and the Davidic-king articulation in Hebrew tradition: embodied-figure operating supernal-stratum-function through embodied-stratum agency.
+
+### Ma'at-Isfet Polarity as Centropic-Arc-Contra-Inverse-Arc Principle
+
+The Egyptian articulation of Ma'at (truth, order, harmony) contra isfet (chaos, disorder, falsehood) articulates the centropic-arc-contra-inverse-arc principle through Egyptian terminology with structural-explicitness rare among traditions. Ma'at articulates the centropic arc as a positive-coherent principle (the cosmic-order to be maintained); isfet articulates the inverse arc as a positive-disordering principle (the chaos-tendency to be resisted). The polarity is not asymmetric (centropic-as-real, inverse-as-mere-absence) but structurally bifurcal — both Ma'at and isfet are operative principles within the cosmic-articulation, with the Egyptian state-religion's central function being the maintenance of Ma'at against isfet's structurally-real operation. This is one of the cleanest pre-Zenetist articulations of the bifurcal-arc principle in any tradition's terminology, predating the Zoroastrian asha/druj articulation that subsequently makes the same structural-distinction.
+
+### Egyptian Post-Mortem Judgment-Architecture (Routing Note)
+
+The Egyptian post-mortem judgment-architecture as a structural-locus pattern — comprising the Hall of Two Truths, the weighing-of-the-heart against Ma'at's feather, and the Field of Reeds (Aaru / Sekhet-Aaru) as L₁ sealed-mode centropic post-mortem-condition — is articulated in the Symbolic Pattern Registry (SPR), not duplicated here. The Field of Reeds is the L₁ sealed-mode counterpart to Ammit-consumption at IL₅ Nekron (Volume 1), parallel to Greek Elysium and Christian articulations of post-mortem-flourishing-condition; the Hall of Two Truths is the post-mortem-judgment-locus parallel to other cross-tradition judgment-locus patterns. Anubis at L₃ DM (L₃ Threshold-Crossing Figures table above) is the principal MFLR-side figural articulation operating within this architecture.
+
+The 42 Assessors as figural-collective remain an open question — they may warrant MFLR placement parallel to the Greek Three Judges of the Dead (L₄ DL diagnostic function) rather than SPR routing. Deferring resolution pending Half 2 review.
+
+### Remaining Anticipated Entries
 
 - Hermetic Corpus articulations (Hermes Trismegistus at L₃ DM cross-tradition synthesizer)
 - "As above so below" structural-correspondence framing (unidirectional vertical-correspondence within monistic-emanatory frame, structurally distinct from bifurcal-correspondence)
-- Memphite-Heliopolitan structural-tension on Ptah-primacy (cosmogonic-ordering question)
 - Bi-Stratum Bride doctrine consistency in Sacred Marriage list
-- Ennead bifurcated-aspect-pantheon articulation
-- Field of Reeds at L₁ sealed-mode counterpart to Ammit-consumption at IL₅
-- Anubis at L₃ DM Governor-contra-Governed-Domain articulation
 
 ---
 
