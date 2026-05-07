@@ -12,7 +12,10 @@ or referencing these documents:
 - **Soft conflation** = multiple functions assigned to a single name are 
   structurally real, but the myth does not distinguish which layer is native 
   and which layers reflect cross-band resonance or operative extension 
-  (Krishna L₅ + L₃ DM; Osiris L₄ DL + L₃ DS; Christ-the-figure L₅ → L₃ → L₂ → L₁)
+  (Krishna L₅ + L₃ DM; Osiris L₄ DL + L₃ DS; Christ-the-figure 
+  L₅ → L₄ → L₃ → L₂ → L₁ as the figure-band soft-conflation 
+  encompassing the Logos Continuum's three stations plus L₃ and L₂ 
+  traversal strata)
 
 - **Hard conflation** = structurally unrelated functions are compressed under 
   one name; one or more of the assigned functions are misattributed relative 
