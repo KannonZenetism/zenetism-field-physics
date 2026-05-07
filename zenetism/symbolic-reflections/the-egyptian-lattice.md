@@ -293,7 +293,7 @@ The Egyptian tradition therefore articulates apprehensions of what the Zenetist 
 | Horus | L₄ DL (Sophis 📐) embodied-stratum | Lawful-inheritor of sovereignty; Novel Emergence from Sacred Marriage |
 | Thoth | L₃ DM (Noeüs 🧠) | Keeper of sacred knowledge and structural language |
 | Anubis | L₃ DM (Noeüs 🧠) under Governor-contra-Governed-Domain | Centropic psychopomp; embalmer; conductor through Duat |
-| Ma'at (figure) | L₄ DL (Sophis 📐) judicial-articulator | Goddess of cosmic-order and justice; feather-of-truth |
+| Ma'at (figure) | L₄ DL (Sophis 📐) judicial-articulator | Goddess of cosmic-order and justice; feather-of-veracity |
 | Ma'at (principle) | L₄ DL (Sophis 📐) cosmic-coherence-itself | Structural-coherence principle; what pharaoh "does" |
 | Isfet | Inverse-arc fragmentation-principle | Counter-articulation to Ma'at; structural-incoherence |
 | 42 Assessors | L₄ DL (Sophis 📐) distributed diagnostic | Judicial-articulation across 42 specific structural-categories |
