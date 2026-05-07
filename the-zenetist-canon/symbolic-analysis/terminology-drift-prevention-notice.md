@@ -16,7 +16,7 @@ or referencing these documents:
   structurally real, but the myth does not distinguish which layer is native 
   and which layers reflect cross-band resonance or operative extension. All 
   functions occupy the same arc (Krishna L₅ + L₃ DM; Osiris L₄ DL + L₃ DS; 
-  Christ-the-figure L₅ → L₄ → L₃ → L₂ → L₁ as the figure-level soft-conflation 
+  Christ-the-figure L₅ → L₄ → L₃ → L₂ → L₁ as the figure-band soft-conflation 
   encompassing the Logos Continuum's three stations plus L₃ and L₂ traversal 
   strata).
 
