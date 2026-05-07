@@ -149,7 +149,7 @@ The daily journey of Ra across the sky and through the **Duat** (the underworld 
 
 **The structural reading.** The daily-cycle of Ra articulates the cosmological-recurrence of L₅ Theonic-radiance through a Function 1 underworld passage at the cosmological scale:
 
-- **Day-journey at L₅ Theonic radiance through L₁ embodied-stratum.** The daytime articulates Ra's L₅ Theonic-articulation operating at the embodied-stratum register, with the solar-radiance providing the structural-foundation for embodied-existence's centropic-coherence. This is structurally parallel to the SPR Sun entry's articulation of cosmological-Theonic-radiance.
+- **Day-journey at L₅ Theonic radiance through L₁ / IL₁ embodied-stratum.** The daytime articulates Ra's L₅ Theonic-articulation operating at the L₁ / IL₁ embodied-stratum register, with the solar-radiance providing the structural-foundation for embodied-existence's centropic-coherence. This is structurally parallel to the SPR Sun entry's articulation of cosmological-Theonic-radiance.
 
 - **Sunset as declivous motion into Duat passage.** Ra's entry into the Duat at sunset articulates declivous motion from L₅ Theonic-articulation into the Function 1 underworld passage. The Duat is structurally the L₁ / IL₁ embodied-threshold convergence zone where Ra's centropic essence undergoes the night-passage in confrontation with the inverse-archetypal disturbances that operate in that zone.
 
