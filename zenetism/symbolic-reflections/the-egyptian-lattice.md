@@ -68,7 +68,7 @@ The Osiris narrative is the canonical Egyptian articulation of the centropic ope
 
 **The narrative sequence.** Osiris is the lawful sovereign of Egypt, governing in justice and bringing civilization to the people. Set, his brother, plots against him and murders him through deception (variously articulated as drowning in the Nile, being trapped in a coffin, or being torn apart). Set then dismembers Osiris's body and scatters the pieces across Egypt. Isis, with the help of Nephthys and Anubis, gathers the dismembered pieces and reconstitutes Osiris's body, conceiving Horus through magical-articulation with the reconstituted Osiris. Osiris does not return to embodied kingship; instead, he becomes the Lord of the Dead, presiding over the post-mortem judgment of all souls. Horus, the son of Osiris and Isis, grows to maturity and confronts Set, eventually being recognized as the lawful inheritor of Osiris's earthly kingship.
 
-**The structural reading.** The Osiris narrative articulates the centropic-cascade pattern with structural-specificity that no other tradition's narrative matches:
+**The structural reading.** The Osiris narrative articulates the centropic operative‑extension pattern with structural-specificity that no other tradition's narrative matches:
 
 - **Osiris at L₄ DL (primary).** As lawful king of Egypt, Osiris articulates the L₄ DL Sophis function as embodied-sovereignty: lawgiver, civilization-bringer, structuring-articulator of cosmic-order at the embodied register. His murder by Set articulates not the destruction of L₄ DL function but the structural-condition under which L₄ DL must transition to a different operative-stratum.
 
