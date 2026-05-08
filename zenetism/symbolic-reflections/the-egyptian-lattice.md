@@ -284,8 +284,8 @@ The Egyptian tradition therefore articulates apprehensions of what the Zenetist 
 | Ogdoad (Hermopolitan) | L₀ Bifurcal Coherence bifurcal-pair articulations | Eight primordial deities as bifurcal-pair articulations |
 | Ra (solar Theonic radiance) | L₅ EOB (Theon 🛤️) cosmological-articulation | Solar-Theonic function with cultural-elevation pattern |
 | Amun / Amun-Ra | L₅ EOB (Theon 🛤️) hidden / supreme | Theban supreme-deity composite |
-| Osiris (lawful king) | L₄ DL (Sophis 📐) → L₃ DS (Archeus 🔮) cascade | Centropic cascade primary articulation |
-| Osiris (Lord of the Dead) | L₃ DS (Archeus 🔮) post-restoration | Post-cascade operative-stratum articulation |
+| Osiris (lawful king) | L₄ DL (Sophis 📐) → L₃ DS (Archeus 🔮) operative‑extension | Centropic operative‑extension primary articulation |
+| Osiris (Lord of the Dead) | L₃ DS (Archeus 🔮) post-restoration | Post‑extension operative‑stratum articulation |
 | Isis | L₄ DP (Morgis 🌬️) | Archetypal vitality and remembrance; reconstitution-articulator |
 | Set (adversarial-will primary) | IL₂ ISS (Echthros 🦂) | Adversarial will against Osiris; conscious disruptor |
 | Set (dismemberment-act, conflated) | IL₃ IDS (Fractus 💔) cultural-conflation | Dismemberment exceeds Set's native-layer; mythic-imposition |
