@@ -10,10 +10,11 @@ or referencing these documents:
   False Prophet / Mortus (IL₃) → Skotos broadcast (IL₂) → Beast / embodied 
   authoritarian system (IL₁). Satan is the cultural articulation of Nekron 
   (Entropy Itself) at IL₅, and the inverse-arc tradition produced figures 
-  mapping entropy's articulation through every subjacent stratum. Theon 
-  (Centropy Itself) equally pervades every centropic stratum, but no cultural 
-  tradition produced a parallel figural cascade for the centropic arc; the 
-  Logos articulates as continuum rather than cascade.
+  mapping entropy's articulation through every subjacent stratum. Centropy 
+  pervades every centropic stratum, but Centropy Itself (Theon) is the L₅ 
+  supernal hypostasis rather than a multi-stratum figure. No cultural tradition 
+  produced a parallel figural cascade for the centropic arc; the centropic 
+  articulation appears instead as the Logos Continuum.
 
 - **Continuum** = single principle-name with stratum-specific qualifiers. 
   Paradigm: the Logos Continuum — Orienting Logos (L₅) / Structuring Logos (L₄) / 
