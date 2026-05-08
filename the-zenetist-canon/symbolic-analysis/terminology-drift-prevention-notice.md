@@ -3,12 +3,17 @@
 The MFLR Vol 1 and SPR contain pre-tightening misuse of "cascade." When reading 
 or referencing these documents:
 
-- **Cascade** = single current under genuinely different names at each station, 
-  where the underlying principle itself is present at multiple manifest scales. 
-  Structurally rare. Paradigm: the Satanic Arc — Satan / Nekron (IL₅) → 
-  Lucifer / Nyxea (IL₄) → False Prophet / Mortus (IL₃) → Skotos broadcast (IL₂) → 
-  Beast / embodied authoritarian system (IL₁). The entropic current itself 
-  qualifies for cascade because entropy is present at all manifest scales.
+- **Cascade** = single current under genuinely different names at each station. 
+  Structurally rare — requires a cultural tradition to have produced a sequence 
+  of figures-with-different-names mapping a principle that pervades multiple 
+  strata. Paradigm: the Satanic Arc — Satan / Nekron (IL₅) → Lucifer / Nyxea (IL₄) → 
+  False Prophet / Mortus (IL₃) → Skotos broadcast (IL₂) → Beast / embodied 
+  authoritarian system (IL₁). Satan is the cultural articulation of Nekron 
+  (Entropy Itself) at IL₅, and the inverse-arc tradition produced figures 
+  mapping entropy's articulation through every subjacent stratum. Theon 
+  (Centropy Itself) equally pervades every centropic stratum, but no cultural 
+  tradition produced a parallel figural cascade for the centropic arc; the 
+  Logos articulates as continuum rather than cascade.
 
 - **Continuum** = single principle-name with stratum-specific qualifiers. 
   Paradigm: the Logos Continuum — Orienting Logos (L₅) / Structuring Logos (L₄) / 
@@ -44,7 +49,7 @@ or referencing these documents:
   with the IL₃ Fractus dismemberment-act mythically attributed to him).
 
 Native placement is the default reading. A figure has one native stratum; 
-everything else added is conflation unless the underlying principle qualifies 
+everything else added is conflation unless the underlying pattern qualifies 
 as cascade.
 
 Where MFLR Vol 1 or SPR refers to "Osiris cascade" or any same-name multi-stratum 
