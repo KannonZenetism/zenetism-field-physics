@@ -62,9 +62,9 @@ The Egyptian pantheon at L₄ therefore articulates the bifurcated-aspect stratu
 
 ---
 
-## 3. The Osiris Cascade — Centropic Cascade Articulation
+## 3. The Osiris Soft‑Conflation — Centropic Operative‑Extension Articulation
 
-The Osiris narrative is the canonical Egyptian articulation of the centropic-cascade operator: same essence operating lawfully across two strata through structural-extension. Per the MFLR canonical placement, Osiris articulates L₄ DL (Sophis) primary native-layer with cascade to L₃ DS (Archeus) post-restoration operative function. This is one of the canonical centropic-cascade examples in the registries, structurally parallel to (though distinct from) the Christ cascade (L₅ → L₃ → L₂ → L₁ across the full traversal).
+The Osiris narrative is the canonical Egyptian articulation of the centropic operative‑extension operator: multiple structurally real operations compressed under one figure‑name. Per the MFLR canonical placement, Osiris articulates L₄ DL (Sophis) primary native-layer with operative extension to L₃ DS (Archeus) post-restoration operative function. This is one of the canonical centropic soft‑conflation examples in the registries, structurally parallel to (though distinct from) the Christ continuum (L₅ → L₃ → L₂ → L₁ across the full traversal).
 
 **The narrative sequence.** Osiris is the lawful sovereign of Egypt, governing in justice and bringing civilization to the people. Set, his brother, plots against him and murders him through deception (variously articulated as drowning in the Nile, being trapped in a coffin, or being torn apart). Set then dismembers Osiris's body and scatters the pieces across Egypt. Isis, with the help of Nephthys and Anubis, gathers the dismembered pieces and reconstitutes Osiris's body, conceiving Horus through magical-articulation with the reconstituted Osiris. Osiris does not return to embodied kingship; instead, he becomes the Lord of the Dead, presiding over the post-mortem judgment of all souls. Horus, the son of Osiris and Isis, grows to maturity and confronts Set, eventually being recognized as the lawful inheritor of Osiris's earthly kingship.
 
