@@ -303,7 +303,7 @@ The Egyptian tradition therefore articulates apprehensions of what the Zenetist 
 | Akhu (transfigured-dead) | L₁ sealed-mode centropic-completed | Post-Field-of-Reeds articulation; ritual-mediated continuity |
 | Duat | Function 1 underworld passage-region | Post-mortem-passage region; not sealed-mode but threshold |
 | Twelve hours of the night | Systematic Duat-passage articulations | Each hour with specific guardians, knowledge, structural-tests |
-| Apophis / Apep | IL₅ VOS (Nekron 🕷️) | Serpent of chaos; daily threat to solar barque; anti-Ma'at |
+| Apophis / Apep | IL₅ VOS (Nekron 🕷️) | Serpent of chaos; daily threat to solar barque; anti-Ra at supernal band; indirect anti-Ma'at through IL₄ Isfet relation |
 | Apophis-Ra daily combat | Cosmological-recurrence articulation | Daily structural-recurrence of centropic-radiance suppressing IL₅ |
 | Ra's daily journey | Cosmological Function 1 underworld cycle | Diurnal articulation of centropic-recurrence pattern |
 | Solar barque | L₅ Theonic-radiance vehicle | Cosmological-vehicle for Ra's daily journey |
