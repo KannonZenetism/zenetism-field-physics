@@ -295,7 +295,7 @@ The Egyptian tradition therefore articulates apprehensions of what the Zenetist 
 | Anubis | L₃ DM (Noeüs 🧠) under Governor-contra-Governed-Domain | Centropic psychopomp; embalmer; conductor through Duat |
 | Ma'at (figure) | L₄ DL (Sophis 📐) judicial-articulator | Goddess of cosmic-order and justice; feather-of-veracity |
 | Ma'at (principle) | L₄ DL (Sophis 📐) cosmic-coherence-itself | Structural-coherence principle; what pharaoh "does" |
-| Isfet | Inverse-arc fragmentation-principle | Counter-articulation to Ma'at; structural-incoherence |
+| Isfet | IL₄ IDL inverse-structuring-principle | Counter-articulation to Ma'at at the cosmic-ordering-band; inverse-structuring-fragmentation principle |
 | 42 Assessors | L₄ DL (Sophis 📐) distributed diagnostic | Judicial-articulation across 42 specific structural-categories |
 | Negative Confession | L₂ articulated-declaration of structural-orientation | Deceased's freedom-from-misalignment articulation |
 | Ammit (devourer) | IL₅ VOS (Nekron 🕷️) terminal-consumption | Second-death through dissolution; clean IL₅ placement |
