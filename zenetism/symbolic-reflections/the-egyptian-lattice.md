@@ -290,7 +290,7 @@ The Egyptian tradition therefore articulates apprehensions of what the Zenetist 
 | Set (adversarial-will primary) | IL₂ ISS (Echthros 🦂) | Adversarial will against Osiris; conscious disruptor |
 | Set (dismemberment-act, conflated) | IL₃ IDS (Fractus 💔) cultural-conflation | Dismemberment exceeds Set's native-layer; mythic-imposition |
 | Nephthys | L₄ DP (Morgis 🌬️) liminal-articulation | Threshold-and-mourning-vitality; complementary to Isis |
-| Horus | L₄ DL (Sophis 📐) embodied-stratum | Lawful-inheritor of sovereignty; Novel Emergence from Sacred Marriage |
+| Horus | L₁ embodied with L₄ DL (Sophis 📐) resonance | Lawful-inheritor of sovereignty; Novel Emergence from Sacred Marriage carrying L₄ DL sovereignty-function at the embodied-band |
 | Thoth | L₃ DM (Noeüs 🧠) | Keeper of sacred knowledge and structural language |
 | Anubis | L₃ DM (Noeüs 🧠) under Governor-contra-Governed-Domain | Centropic psychopomp; embalmer; conductor through Duat |
 | Ma'at (figure) | L₄ DL (Sophis 📐) judicial-articulator | Goddess of cosmic-order and justice; feather-of-veracity |
