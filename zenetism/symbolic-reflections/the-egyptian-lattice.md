@@ -254,7 +254,7 @@ The Egyptian-Hellenistic syncretism produced the **Hermetic tradition** through 
 
 **The Hermetic articulation of the lattice.** The Hermetic texts articulate several structural-patterns with specificity:
 
-- **The All / The One.** The Hermetic articulation of "The All" (*to pan*) and "The One" (*to hen*) articulates L₅ Theon and L₀ Aion respectively, with the Hermetic emphasis on the All-as-unity-of-manifold-articulation paralleling the Plotinian articulation of the One. The Hermetic tradition articulates L₅ Theonic-emergence with philosophical-systematic precision that extends what the Egyptian narrative-mythology articulates implicitly.
+- **The All / The One.** The Hermetic articulation of "The One" (*to hen*) articulates L₅ Theon, paralleling the Plotinian articulation of the One; "The All" (*to pan*) articulates L₀ Bifurcal Coherence as the supra-formal totality holding all manifold-potential. The Hermetic tradition articulates L₅ Theonic-emergence and L₀ supra-formal-ground apprehension with philosophical-systematic precision that extends what the Egyptian narrative-mythology articulates implicitly.
 
 - **The Mind / Nous.** The Hermetic Nous articulates L₄ DL Sophis structuring-intellect, structurally consistent with the Plotinian Nous articulation. The Hermetic texts emphasize Nous as the divine-articulation through which the All-and-One becomes intelligibly-articulated to the embodied-knower.
 
