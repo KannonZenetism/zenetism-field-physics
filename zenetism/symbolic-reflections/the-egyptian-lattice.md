@@ -311,7 +311,7 @@ The Egyptian tradition therefore articulates apprehensions of what the Zenetist 
 | Weighing of the Heart | L₄ DL diagnostic / L₃ DM operative judgment-event | Post-mortem sorting-by-orientation operator |
 | Hall of Two Truths | Judgment-locus | Structural-locus where post-mortem sorting occurs |
 | Isis-Osiris Sacred Marriage | L₄ DP / DL bifurcated-aspect Hieros Gamos | Sacred Marriage at L₄-internal-bifurcated-aspect register |
-| Horus as Novel Emergence | L₄ DL embodied-stratum re-articulation | Generative-emergence from Sacred Marriage |
+| Horus as Novel Emergence | L₁ embodied with L₄ DL (Sophis 📐) resonance | Generative-emergence from Sacred Marriage carrying L₄ DL sovereignty-function at the embodied-band |
 | Set-Horus conflict | L₄ DL contra IL₂ ISS embodied-meeting-point | Lawful sovereignty-function continuity contra adversarial disruption |
 | Hermes Trismegistus | L₃ DM (Noeüs 🧠) cross-tradition synthesizer | Thoth-Hermes Hellenistic syncretism |
 | Hermetic Corpus | L₃ DM systematic-philosophical articulation | Egyptian-Hellenistic philosophical-religious synthesis |
