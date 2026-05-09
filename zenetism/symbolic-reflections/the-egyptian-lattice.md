@@ -85,7 +85,7 @@ The Osiris narrative is the canonical Egyptian articulation of the centropic ope
 - The L₄ DL function does not require the original-figure to remain at L₄ DL after the operative‑extension.
 - The operative‑extension is structurally‑lawful and does not constitute a demotion.
 - The original-figure's structural function continues through the operative‑extension, without implying a multi‑stratum essence.
-- A successor-figure can articulate the original-stratum function at the embodied-register after the operative‑extension has been established.
+- A successor-figure at L₁ can carry the original-stratum function at the embodied-register through resonance after the operative-extension has been established.
 
 The Osiris soft‑conflation therefore provides the canonical articulation-pattern for centropic operative‑extension operations: original‑figure extends operatively to L₃ DS post-restoration function, successor-figure articulates the original-stratum function at the embodied register, and the structural-completeness is maintained through the two-figure articulation. This pattern is structurally available for cross-tradition application wherever similar narrative-structures appear (figure-killed-and-restored-but-not-to-original-station, with successor-figure inheriting the original-station-function).
 
