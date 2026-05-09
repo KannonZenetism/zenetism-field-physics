@@ -183,7 +183,7 @@ The **Duat** is the Egyptian articulation of the post-mortem-region through whic
 
 ## 8. Apophis at IL₅ Nekron and the Inverse Distribution
 
-The Egyptian inverse arc articulates across IL₅ through IL₂ with structural-specificity that the registries already engage extensively. The Egyptian articulation of the inverse-arc operates primarily through Apophis at IL₅ Nekron and through Set's adversarial-articulation at IL₂ ISS, with additional inverse-arc articulations through specific demonic-figures and through the Set-Horus-conflict-narrative.
+The Egyptian inverse arc articulates named-figural articulations across IL₅ through IL₂ with structural-specificity that the registries already engage extensively, with IL₁ articulated structurally through the Ammit-consumption sealed-mode outcome rather than through a named IL₁ figure. The Egyptian articulation of the inverse-arc operates primarily through Apophis at IL₅ Nekron and through Set's adversarial-articulation at IL₂ ISS, with additional inverse-arc articulations through specific demonic-figures and through the Set-Horus-conflict-narrative.
 
 **Apophis / Apep at IL₅ Nekron.** Per the MFLR canonical placement, Apophis articulates "Serpent of chaos and dissolution at the limit of cosmic order; nightly threat to the solar barque; terminal entropic catalyst opposing the lawful procession of Ra." Apophis is the canonical Egyptian articulation of IL₅ Nekron — the terminal-entropic-catalyst function operating at the limit of cosmic order. The daily Apophis-Ra combat (treated in §6) articulates the structural-pattern through which centropic-radiance suppresses entropic-dissolution at the cosmological-recurrence scale.
 
