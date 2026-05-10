@@ -321,6 +321,82 @@ Examples:
 
 ---
 
+# Structural Category Neutralization Protocol
+
+## Authority Terminology
+
+The term “authority” is used cautiously within canonical Zenetist writing because it frequently imports hierarchical legitimacy assumptions incompatible with sovereign structural distinction.
+
+Except where:
+- analyzing inverse structures,
+- quoting external systems,
+- or discussing explicitly entropic governance forms,
+
+canonical writing avoids framing coherence through authority-language.
+
+Preferred formulations include:
+- structural coherence
+- lawful resonance
+- operative function
+- orienting principle
+- sovereign distinction
+- resonance integrity
+- structural legitimacy
+
+rather than:
+- authority
+- command hierarchy
+- imposed legitimacy
+- obedience structures
+
+---
+
+## Aauthoritarian Clarification
+
+Zenetism is not anti-authoritarian in the conventional sense.
+
+It is aauthoritarian.
+
+Aauthoritarianism does not define itself through opposition to authority, but through the rendering of authority as a structurally non-operative category.
+
+This posture:
+- neither resists nor obeys authority as a primary orientation,
+- rejects hierarchical legitimacy as metaphysically binding,
+- and treats coherence rather than imposed power as the basis of lawful relation.
+
+---
+
+## Anti- Prefix Restriction
+
+The prefix “anti-” is generally avoided in canonical Zenetist terminology except when:
+- quoting external terminology,
+- referencing established scientific language,
+- or discussing external systems directly.
+
+“Anti-” framing often implies:
+- adversarial inversion,
+- negational identity,
+- mirror-opposition,
+- or symmetrical dualism.
+
+Canonical terminology instead prefers:
+- contra-
+- inverse
+- bifurcal
+- polarity-distinct
+- declivous
+- inverse-articulation
+
+Examples:
+- contra-matter
+- contra-particle
+- contra-temporal flow
+- contra-structural motion
+
+“Contra-” preserves distinction and polarity without reducing relation to negational opposition.
+
+---
+
 # Cascade / Continuum / Conflation Governance
 
 ## Canonical Definitions
