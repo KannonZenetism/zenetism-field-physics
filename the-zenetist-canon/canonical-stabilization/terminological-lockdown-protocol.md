@@ -364,6 +364,8 @@ This posture:
 - rejects hierarchical legitimacy as metaphysically binding,
 - and treats coherence rather than imposed power as the basis of lawful relation.
 
+The doubled “a” is intentional and does not denote intensification. It marks structural removal from the authority–opposition axis itself rather than opposition to authority.
+
 ---
 
 ## Anti- Prefix Restriction
