@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Linguistic Governance Layer  
 **Status:** Active Canonical Reference  
-**Function:** Master compositional authority layer governing terminology, directional language, metaphysical consistency, symbolic distinction, and anti-drift stabilization across all Zenetist disciplines.
+**Function:** Master compositional administration layer governing terminology, directional language, metaphysical consistency, symbolic distinction, and anti-drift stabilization across all Zenetist disciplines.
 
 ---
 
