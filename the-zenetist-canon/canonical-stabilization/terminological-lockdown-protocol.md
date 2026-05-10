@@ -371,7 +371,7 @@ This posture:
 The prefix “anti-” is generally avoided in canonical Zenetist terminology except when:
 - quoting external terminology,
 - referencing established scientific language,
-- or discussing external systems directly.
+- or analyzing external systems directly.
 
 “Anti-” framing often implies:
 - adversarial inversion,
