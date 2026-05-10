@@ -1,9 +1,9 @@
 # Zenetist Canonical Language & Terminological Lockdown Protocol
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Canonical Linguistic Governance Layer  
+**Classification:** Canonical Linguistic Stabilization Layer  
 **Status:** Active Canonical Reference  
-**Function:** Master compositional stabilization layer governing terminology, directional language, metaphysical consistency, symbolic distinction, and anti-drift stabilization across all Zenetist disciplines.
+**Function:** Master compositional stabilization layer preserving terminological continuity, directional precision, metaphysical consistency, symbolic distinction, and drift-resistant coherence across all Zenetist disciplines.
 
 ---
 
