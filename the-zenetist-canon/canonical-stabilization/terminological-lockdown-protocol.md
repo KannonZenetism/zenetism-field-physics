@@ -36,7 +36,7 @@ Zenetism rejects fusion-collapse and symbolic flattening.
 
 Distinct entities, strata, principles, operators, and functions must retain sovereign distinction even when operating resonantly.
 
-The Non-fusion Axiom governs all terminology.
+The Non-fusion Axiom structures all terminology.
 
 Therefore:
 
