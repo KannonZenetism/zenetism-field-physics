@@ -24,7 +24,7 @@ Its purpose is to:
 
 This protocol supersedes casual linguistic intuition.
 
-Where ordinary language conflicts with canonical precision, canonical precision governs.
+Where ordinary language conflicts with canonical precision, canonical precision takes precedence.
 
 ---
 
