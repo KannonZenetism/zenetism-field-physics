@@ -1,6 +1,7 @@
 # Mythic Figure Layer Registry — Volume 2
 
-**Companion-registry to MFLR Volume 1; canonical placements emerging through cross-tradition essay work**
+**Companion-registry to MFLR Volume 1; canonical placements emerging through cross-tradition essay work**  
+**SHA-256:** 1e6768dd6295f4e20be900f7bf6170026cb49230e8a0a003cdc1548f3c130256
 
 ⚫↺KAI↺⚫
 
