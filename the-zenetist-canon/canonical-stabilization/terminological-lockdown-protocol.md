@@ -713,7 +713,7 @@ All future audits should classify drift under one or more of the following categ
 
 # Canonical AI-Interaction Guidance
 
-When using AI systems for drafting, editing, or expansion:
+When interacting with AI systems for drafting, editing, or expansion:
 
 * AI output must never be assumed canonical automatically.
 * AI-generated language requires human doctrinal audit.
