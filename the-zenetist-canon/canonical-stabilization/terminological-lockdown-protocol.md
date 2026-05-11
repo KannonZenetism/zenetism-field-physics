@@ -541,7 +541,7 @@ The conflation occurs in cultural compression of multiple functions onto one fig
 
 Centropic and inverse attributions become compressed onto one figure-name.
 
-This produces structural dissonance because bifurcal operators cannot be aspects of one unified principle.
+This produces structural dissonance because bifurcated operators cannot be aspects of one unified principle.
 
 Paradigm:
 
