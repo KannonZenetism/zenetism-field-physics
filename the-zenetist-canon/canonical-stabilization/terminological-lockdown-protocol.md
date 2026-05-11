@@ -267,7 +267,7 @@ Avoid inherited hierarchical language unless explicitly required by external quo
 The following categories frequently introduce conceptual drift:
 
 * hierarchy
-* transcend (in the fusion‑coded sense)
+* transcend / transcendence (when used to imply fusion‑collapse or dissolution)
 * higher self
 * merge
 * union
