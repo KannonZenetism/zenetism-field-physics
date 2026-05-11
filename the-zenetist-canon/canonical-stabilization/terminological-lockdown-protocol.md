@@ -563,25 +563,29 @@ Paradigm:
 
 ---
 
-## Cascade Misuse Restriction
+## Cascade Terminology Clarification
 
-Earlier corpus material contains pre-tightening misuse of “cascade.”
+Earlier corpus material contains pre-tightening cascade drift.
 
 Same-name multi-stratum operation is generally not cascade.
 
-Where earlier files refer to:
+Where earlier files contain:
 
 * “Osiris cascade,”
-* or equivalent same-name multi-stratum patterns,
+* or equivalent same-name multi-stratum formulations,
 
-read as:
+the pattern should generally be interpreted as:
 
 * soft conflation,
 * continuum,
 * resonance extension,
 * or native-placement with attributional layering.
 
-Do not propagate cascade misuse into future canonical work.
+Future canonical articulation should preserve the distinction between:
+- lawful cascade,
+- continuum,
+- conflation,
+- and resonance extension.
 
 ---
 
