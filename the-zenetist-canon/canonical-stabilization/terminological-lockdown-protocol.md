@@ -563,7 +563,7 @@ Paradigm:
 
 ---
 
-## Cascade Terminology Clarification
+### Cascade Terminology Clarification
 
 Earlier corpus material contains pre-tightening cascade drift.
 
