@@ -654,6 +654,38 @@ Avoid language implying:
 
 ---
 
+## Instrumentalist Language Restriction
+
+Canonical Zenetist articulation avoids unnecessary instrumentalist framing where relational, structural, or resonant terminology is more precise.
+
+Terms such as:
+- use,
+- utility,
+- leverage,
+- optimization,
+- deployment,
+- exploitation,
+- or resource extraction
+
+may unintentionally reduce:
+- coherence into instrumentality,
+- relation into utility,
+- or meaning into operational value.
+
+Where structurally appropriate, preferred formulations include:
+- articulation
+- resonance
+- participation
+- continuity
+- structural relation
+- lawful operation
+- orientational function
+- compositional expression
+
+Instrumentalist terminology is not universally prohibited, particularly within technical or analytical contexts, but should not unconsciously replace structurally relational language.
+
+---
+
 # Audit Categories
 
 All future audits should classify drift under one or more of the following categories:
