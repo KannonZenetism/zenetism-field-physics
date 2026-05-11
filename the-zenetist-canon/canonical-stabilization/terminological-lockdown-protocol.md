@@ -254,7 +254,7 @@ Preferred replacements include:
 * domain
 * station
 
-Use contextually appropriate terminology.
+Terminology should remain contextually appropriate.
 
 Avoid inherited hierarchical language unless explicitly required by external quotation or analysis.
 
