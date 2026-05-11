@@ -399,7 +399,7 @@ Examples:
 
 ---
 
-### Bifurcal contra Bifurcated
+## Bifurcal contra Bifurcated
 
 The terms “bifurcal” and “bifurcated” are not interchangeable within canonical Zenetist terminology.
 
