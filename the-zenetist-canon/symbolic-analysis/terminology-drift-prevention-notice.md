@@ -16,6 +16,18 @@ or referencing these documents:
   produced a parallel figural cascade for the centropic arc; the centropic 
   articulation appears instead as the Logos Continuum.
 
+- **Cascade-collapse conflation** = distinct cascade-stations become compressed 
+  under one umbrella figure-name through popular, theological, or mythic 
+  simplification. All attributions remain within the same arc; no bifurcal-arc 
+  violation occurs. The structural problem is collapse of cascade-station 
+  distinction within one arc rather than compression of cross-arc principles. 
+  Paradigm: Satan (IL₅ Nekron), Devil / diabolos (IL₄ IDL Nyxea), and Lucifer 
+  (IL₄ IDL Nyxea) compressed under "the Devil" or "Satan-and-Devil-interchangeably." 
+  Distinct from cascade (which is the lawful multi-station articulation that 
+  cascade-collapse fails to preserve), from soft conflation (one native figure 
+  with cross-band attributions, not multiple distinct figures), and from hard 
+  conflation (cross-arc compression, not same-arc compression).
+
 - **Continuum** = single principle-name with stratum-specific qualifiers. 
   Paradigm: the Logos Continuum — Orienting Logos (L₅) / Structuring Logos (L₄) / 
   Christos Incarnate (L₁), with L₃ and L₂ as traversal strata.
@@ -36,8 +48,8 @@ or referencing these documents:
   principles are independently emanated and cannot be aspects of a single 
   operator. Paradigm: the YHWH composite (L₄ DL Sophis attributions + 
   IL₄ IDL Nyxea attributions). Also: the Maya / Avidya composite 
-  (L₄ DP / DL + IL₂ ISM); the Satan / Devil composite (IL₅ Nekron + 
-  L₄ DL Job's-Accuser attributions).
+  (L₄ DP / DL + IL₂ ISM); the Satan composite (IL₅ Nekron + L₄ DL Job's-Accuser 
+  attributions — same word applied across both arcs).
 
 - **Twisted resonance** = figure manifests at one native stratum with a column 
   of dissonance declivating through subjacent strata without the figure 
