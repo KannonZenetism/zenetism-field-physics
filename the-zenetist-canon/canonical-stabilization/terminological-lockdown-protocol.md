@@ -325,7 +325,7 @@ Examples:
 
 ## Authority Terminology
 
-The term “authority” is used cautiously within canonical Zenetist writing because it frequently imports hierarchical legitimacy assumptions incompatible with sovereign structural distinction.
+The term “authority” appears cautiously within canonical Zenetist terminology because it frequently carries hierarchical legitimacy assumptions incompatible with sovereign structural distinction.
 
 Except where:
 - analyzing inverse structures,
