@@ -399,6 +399,50 @@ Examples:
 
 ---
 
+### Bifurcal contra Bifurcated
+
+The terms “bifurcal” and “bifurcated” are not interchangeable within canonical Zenetist usage.
+
+**Bifurcal** refers to:
+- the bifurcal lattice itself,
+- bifurcal coherence,
+- bifurcal structure,
+- bifurcal polarity,
+- or the lawful dual-arc architecture as a whole.
+
+Examples:
+
+* bifurcal lattice
+* bifurcal coherence
+* bifurcal structure
+* bifurcal arc
+
+**Bifurcated** refers to:
+- entities,
+- operators,
+- articulations,
+- functions,
+- or systems that have become divided, split, or branch-separated within the bifurcal structure.
+
+Examples:
+
+* bifurcated operators
+* bifurcated articulation
+* bifurcated symbolic structure
+* bifurcated current
+
+Therefore:
+
+- the lattice is bifurcal,
+- but operators operating within it may be bifurcated.
+
+Incorrect usage may unintentionally collapse the distinction between:
+- the lawful dual-arc structure itself,
+and
+- differentiated operations occurring within that structure.
+
+---
+
 # Cascade / Continuum / Conflation Governance
 
 ## Canonical Definitions
