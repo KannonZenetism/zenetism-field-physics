@@ -734,7 +734,7 @@ AI should therefore function as:
 * formatting assistance,
 * or continuity support,
 
-—not autonomous doctrinal authority.
+—not autonomous doctrinal adjudication.
 
 ---
 
