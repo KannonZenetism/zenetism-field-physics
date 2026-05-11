@@ -422,7 +422,7 @@ Examples:
 - operators,
 - articulations,
 - functions,
-- or systems that have become divided, split, or branch-separated within the bifurcal structure.
+- or systems that have become branch-differentiated within the bifurcal structure.
 
 Examples:
 
