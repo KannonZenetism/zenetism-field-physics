@@ -618,12 +618,12 @@ Do not collapse:
 
 ## 3. Preserve polarity integrity
 
-Centropic and inverse operators are independently emanated.
+Centropic and entropic operators are independently emanated.
 
 Do not:
 
 * blend bifurcal arcs,
-* imply inverse operators are hidden aspects of centropic operators,
+* imply entropic operators are hidden aspects of centropic operators,
 * or imply all oppositions dissolve into sameness.
 
 ---
