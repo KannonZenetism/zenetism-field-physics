@@ -143,8 +143,7 @@ Context determines whether motion is:
 * entropic,
 * integrative,
 * fragmentary,
-* lawful,
-* or inverse.
+* or lawful.
 
 Therefore:
 
