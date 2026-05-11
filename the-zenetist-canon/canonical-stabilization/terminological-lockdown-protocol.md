@@ -558,7 +558,7 @@ The figure does not change native placement.
 
 Paradigm:
 
-* Beast at IL₁ with inverse resonance-column extending declivously through subjacent inverse strata.
+* Beast at IL₁ with entropic resonance-column extending declivously through subjacent inverse strata.
 
 ---
 
