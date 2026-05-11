@@ -479,7 +479,7 @@ Paradigm:
 * Skotos broadcast
 * Beast
 
-Different names. Same underlying inverse current.
+Different names. Same underlying entropic current.
 
 ---
 
