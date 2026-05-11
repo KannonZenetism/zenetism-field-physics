@@ -506,7 +506,7 @@ Cascade-collapse conflation is structurally distinct from:
 
 - **Cascade** — lawful multi-station articulation under distinct names
 - **Soft conflation** — coherent cross-stratum attribution on one native figure
-- **Hard conflation** — compression of centropic and inverse operators into one figure-composite
+- **Hard conflation** — compression of centropic and entropic operators into one figure-composite
 
 Cascade-collapse conflation is therefore not lawful cascade itself, but the collapse of cascade-recognition through symbolic compression.
 
