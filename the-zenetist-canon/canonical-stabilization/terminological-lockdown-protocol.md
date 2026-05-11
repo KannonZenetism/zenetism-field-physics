@@ -474,7 +474,7 @@ Paradigm:
 
 * YHWH composite
 * Maya / Avidya composite
-* Satan / Devil composite
+* Satan composite (L₄ DL Job's-Accuser + IL₅ Nekron)
 
 ---
 
