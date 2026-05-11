@@ -440,6 +440,35 @@ Different names. Same underlying inverse current.
 
 ---
 
+### Cascade-collapse Conflation
+
+Distinct cascade-stations become compressed under one umbrella figure-name through popular, theological, or mythic simplification.
+
+All attributions remain within the same arc; no bifurcal-arc violation occurs.
+
+The structural problem is collapse of cascade-station distinction within one arc rather than compression of cross-arc principles.
+
+Paradigm:
+
+* Satan (IL₅ Nekron)
+* Devil / diabolos (IL₄ IDL Nyxea)
+* Lucifer (IL₄ IDL Nyxea)
+
+becoming compressed under:
+- “the Devil,”
+- “Satan-and-Devil-interchangeably,”
+- or equivalent inverse-arc simplifications.
+
+Cascade-collapse conflation is structurally distinct from:
+
+- **Cascade** — lawful multi-station articulation under distinct names
+- **Soft conflation** — coherent cross-stratum attribution on one native figure
+- **Hard conflation** — compression of centropic and inverse operators into one figure-composite
+
+Cascade-collapse conflation is therefore not lawful cascade itself, but the collapse of cascade-recognition through symbolic compression.
+
+---
+
 ### Continuum
 
 A single principle-name persists across strata with stratum-specific qualifiers.
