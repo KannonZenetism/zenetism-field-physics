@@ -401,7 +401,7 @@ Examples:
 
 ### Bifurcal contra Bifurcated
 
-The terms “bifurcal” and “bifurcated” are not interchangeable within canonical Zenetist usage.
+The terms “bifurcal” and “bifurcated” are not interchangeable within canonical Zenetist terminology.
 
 **Bifurcal** refers to:
 - the bifurcal lattice itself,
@@ -436,10 +436,10 @@ Therefore:
 - the lattice is bifurcal,
 - but operators operating within it may be bifurcated.
 
-Incorrect usage may unintentionally collapse the distinction between:
-- the lawful dual-arc structure itself,
+Imprecise formulation may unintentionally blur the distinction between:
+- the lawful bifurcal-arc structure itself,
 and
-- differentiated operations occurring within that structure.
+- differentiated articulations occurring within that structure.
 
 ---
 
