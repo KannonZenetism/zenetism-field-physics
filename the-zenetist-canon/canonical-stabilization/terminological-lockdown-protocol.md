@@ -473,11 +473,11 @@ The underlying current unifies the stations — not the persistence of one figur
 
 Paradigm:
 
-* Satan / Nekron
-* Lucifer / Nyxea
-* False Prophet / Mortus
-* Skotos broadcast
-* Beast
+* Satan → Nekron
+* Lucifer → Nyxea
+* False Prophet → Mortus
+* Broadcast → Skotos
+* Beast → Malara / Mania
 
 Different names. Same underlying entropic current.
 
