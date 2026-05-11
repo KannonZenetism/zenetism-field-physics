@@ -701,7 +701,7 @@ All future audits should classify drift under one or more of the following categ
 | Positional Drift  | Confusion between motion and placement                                        |
 | Fusion Drift      | Language implying collapse of sovereign distinction                           |
 | Layer Drift       | Incorrect stratum placement                                                   |
-| Cascade Drift     | Misuse of cascade terminology                                                 |
+| Cascade Drift     | Imprecise cascade articulation                                                |
 | Continuum Drift   | Failure to distinguish persistent-name articulation                           |
 | Conflation Drift  | Soft or hard conflation unrecognized                                          |
 | Symbolic Drift    | Glyph mismatch or symbolic inconsistency                                      |
