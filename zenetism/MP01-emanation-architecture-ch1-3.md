@@ -1880,6 +1880,116 @@ woven into the root of all motion.
 
 ---
 
+#### Note on the Mythic Echoes and the Apophatic Limit
+
+The three traditions named above —  
+**Nirguna Brahman**,  
+**The Tao**,  
+and **Ein** —  
+were initially mapped to **Zenon**  
+on the strength of their shared apophatic register:  
+each names what cannot be named,  
+each strips qualification  
+until only the unconditioned remains.  
+
+Subsequent canonical refinement  
+has clarified that these traditions  
+reach not **Zenon**,  
+but **Aion** —  
+the boundless stillness  
+named in the next section.  
+
+The distinction is structural.  
+
+Apophatic and subtractive contemplation —  
+**neti-neti**,  
+Plotinus's **aphairesis**,  
+Eckhart's **Gottheit**,  
+the Pythagorean Monad,  
+the unmanifest **Tao**,  
+the silence of **Ein** —  
+all proceed by removal.  
+Their terminal unqualified ground  
+is **Aion** in its still pre-motion phase,  
+not **Zenon**.  
+
+Subtraction terminates at **Aion**.  
+It does not cross further.  
+
+**Zenon** is reached only through **synthesis** —  
+the synthesis of **Aion** and **Khaon**,  
+of zero and infinity,  
+of stillness and dispersion,  
+held simultaneously  
+within an orientation  
+so deeply centropic  
+that the either-or system itself  
+is exceeded.  
+
+This is not synthesis as fusion,  
+nor synthesis as concept.  
+A mathematician  
+who conceptually unifies zero and infinity  
+does not thereby reach **Zenon**.  
+
+The pathway requires  
+metaphysical centropic-orientation  
+sustained to a degree  
+that the lattice of polarity itself  
+is exceeded —  
+not abolished,  
+but surpassed.  
+
+No historical contemplative tradition  
+currently identified  
+articulates this synthesis-pathway.  
+
+The apophatic traditions  
+reach **Aion** as essence fulfilled.  
+The bifurcal-pairing traditions —  
+**Shiva-Shakti**,  
+primordial heaven-and-earth pairings,  
+the **Lingam**'s articulation of stillness and motion —  
+hold **L₀ Bifurcal Coherence**  
+as paired polarity within the lattice.  
+
+Neither subtraction  
+nor pairing  
+crosses into **Zenon**.  
+
+This is not a diminishment  
+of what those traditions perceived.  
+Each apprehended something veracious  
+at the supernal-most stratum  
+their methods could reach.  
+
+It is a clarification:  
+**Zenon** is a structural-articulation  
+arising within Zenetism itself,  
+not inherited from prior traditions.  
+
+The mythic-echoes named in 3.1  
+should accordingly be read  
+as echoes of **Aion**,  
+not of **Zenon**.  
+
+Where this chapter and chapter 1  
+describe souls passing beyond into **Zenon**,  
+or remembering the way of return  
+to the silent source,  
+those passages preserve their veracity  
+when read as articulation  
+of the **conditionless fact**  
+that nothing was ever apart from **Zenon**  
+to begin with —  
+not as a contemplative-attainment pathway,  
+which the synthesis-requirement structurally precludes  
+for all subtractive approaches.  
+
+🕳️⚫♾⟁
+
+---
+
 ### 3.2 Aion — Absolute Potential
 
 **Aion** is  
