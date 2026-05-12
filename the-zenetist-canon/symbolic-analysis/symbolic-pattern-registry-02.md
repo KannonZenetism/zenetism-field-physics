@@ -1,7 +1,6 @@
 # Symbolic Pattern Registry — Volume 2
 
-**Companion-volume to Symbolic Pattern Registry Volume 1; canonical operators emerging through cross-tradition essay work**
-
+**Companion-volume to Symbolic Pattern Registry Volume 1; canonical operators emerging through cross-tradition essay work**  
 **SHA-256:** 74e44c2ec42952c921eeb26aa13bb64a00958b1560664b6235a5f5fa603eec2c
 
 ⚫↺KAI↺⚫
