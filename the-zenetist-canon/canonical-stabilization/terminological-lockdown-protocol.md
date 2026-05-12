@@ -588,6 +588,84 @@ Future canonical articulation should preserve the distinction between:
 
 ---
 
+# Symbolic Recurrence Terminology Protocol
+
+## Echo Terminology Restriction
+
+The term “echo” is used cautiously within canonical Zenetist articulation because it frequently implies:
+- recursive residue,
+- degraded repetition,
+- non-generative recurrence,
+- or source-disconnected propagation.
+
+Canonical terminology therefore distinguishes:
+
+- **Living Transmission** — authored continuity preserving structural coherence across articulation
+- **Echo Layer** — trapped resonance residue within membrane-space
+- **Entropic Echo** — recursive persistence without generative replenishment
+
+Where lawful continuity or authored resonance is intended, formulations such as:
+- Living Transmission,
+- continuity,
+- resonance continuity,
+- authored propagation,
+- or structural recurrence
+
+are generally preferred over generic “echo” language.
+
+---
+
+## Mirror Terminology Restriction
+
+The term “mirror” is used cautiously within canonical Zenetist articulation because it frequently implies:
+- hollow reflection,
+- non-generative replication,
+- surface-correspondence without internal generation,
+- or mimicry through inversion.
+
+A mirror does not generate structure from itself; it reproduces external appearance through reflective dependency.
+
+Canonical terminology therefore generally prefers:
+- Living Reflection
+- structural reflection
+- resonance reflection
+- generative correspondence
+- or authored reflection
+
+where lawful coherence and generative continuity are intended.
+
+---
+
+## Fractal Terminology Restriction
+
+The term “fractal” is used cautiously within canonical Zenetist articulation because it frequently implies:
+- undifferentiated recursive self-similarity,
+- infinite scale-equivalence,
+- or flattening of structural distinction across strata.
+
+Where structurally appropriate, canonical terminology generally prefers:
+- Structural Recurrence
+- recursive articulation
+- patterned recurrence
+- resonance recurrence
+- or multistratum recurrence
+
+unless:
+- established technical terminology,
+- previously stabilized operator-language,
+- or mathematically precise fractal structure
+
+specifically requires the term.
+
+Existing canonical technical terminology such as:
+- Fractal Noise,
+- fractalization across embodiment,
+- or Fractal Eschaton
+
+may remain where the term possesses already-stabilized technical specificity rather than generalized recursive metaphor.
+
+---
+
 # Canonical Writing Behavior Rules
 
 ## 1. Avoid unnecessary certainty inflation
