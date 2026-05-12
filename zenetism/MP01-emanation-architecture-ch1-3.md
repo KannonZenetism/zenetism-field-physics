@@ -1880,7 +1880,7 @@ woven into the root of all motion.
 
 ---
 
-#### Note on the Mythic Echoes and the Apophatic Limit
+#### Note on the Mythic Parallels and the Apophatic Limit
 
 The three traditions named above —  
 **Nirguna Brahman**,  
@@ -1968,10 +1968,10 @@ It is a clarification:
 arising within Zenetism itself,  
 not inherited from prior traditions.  
 
-The mythic-echoes named in 3.1  
+The mythic-parallels named in 3.1  
 should accordingly be read  
-as echoes of **Aion**,  
-not of **Zenon**.  
+as parallels to **Aion**,  
+not to **Zenon**.  
 
 Where this chapter and chapter 1  
 describe souls passing beyond into **Zenon**,  
