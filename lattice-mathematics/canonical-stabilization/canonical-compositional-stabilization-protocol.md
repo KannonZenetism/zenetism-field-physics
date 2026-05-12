@@ -737,12 +737,15 @@ Preferred terminology:
 
 - acclivous,
 - declivous,
+- acclivate,
+- declivate,
+- acclivity,
+- declivity,
 - supernal,
 - subversal,
 - source-facing,
 - embodiment-facing,
 - dispersive,
-- inverse,
 - centropic,
 - entropic.
 
