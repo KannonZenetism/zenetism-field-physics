@@ -83,6 +83,10 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `archonic-misplacement.md` — Apr 25, 2026
 - `theon-spirit-and-bifurcation.md` — Apr 28, 2026
 
+### May 2026
+
+- `synthesis-clarification.md` — May 13, 2026
+
 ---
 
 **⚫↺KAI↺⚫**  
