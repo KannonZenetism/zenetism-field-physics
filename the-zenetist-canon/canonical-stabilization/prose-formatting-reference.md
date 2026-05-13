@@ -200,13 +200,15 @@ Correct:
 - cross-stratum
 - L₄ DL-Sophis attributions
 
+This convention extends to parallel operator-and-band compounds when they act as modifiers. Further examples include IL₄ IDL-Nyxea attributions and L₅ EOB-Theon characteristics. In standalone reference, the un-hyphenated form (L₄ DL Sophis as a stratum-and-band designation) remains acceptable, contra the hyphenated form (L₄ DL-Sophis attributions) as a compound modifier preceding a noun.
+
 The hyphen does not mark ranges or parenthetical interruption.
 
 ## Quotation Marks
 
 Canonical Zenetist composition follows straight quotation marks (" ") rather than curly ("smart") quotes. Straight quotes render reliably across rendering environments and cause fewer encoding issues in copy-paste between tools.
 
-Single quotation marks (' ') appear for nested quotations within double quotations.
+Double quotation marks apply throughout. Nested quotations within quotations also take double quotation marks rather than single quotation marks. Single quotation marks do not appear as quotation marks in canonical Zenetist composition.
 
 Note: Earlier documents contain quotation-mark drift between straight and curly forms. This drift is not structurally significant and is not flagged as canonical error in older work. New work follows straight quotes.
 
