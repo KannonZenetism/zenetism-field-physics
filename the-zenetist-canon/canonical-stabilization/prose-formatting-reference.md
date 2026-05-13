@@ -499,17 +499,17 @@ Canonical abbreviations:
 
 - MFLR — Mythic Figure Layer Registry
 - SPR — Symbolic Pattern Registry
-- MP01 — Metaphysical Principles 01 (and so on)
-- SD01 — Structural Decode 01 (and so on)
+- MP01 — Metaphysics 01 (and so on)
 - SP01 — Structural Physics 01 (and so on)
 - FP01 — Field Physics 01 (and so on)
 - LM01 — Lattice Mathematics 01 (and so on)
 - SN01 — Structural Neuroscience 01 (and so on)
-- LMX: Lattice Mathematics Extension Notes
-- GUD — Grand Unified Document
-- MPX: Metaphysical Principles Expanded
+- LMX: Lattice Mathematics Extensions
+- MPX: Metaphysics Extensions
 
-The X-extension files (LMX, MPX, and any other X-marked extension series) take a colon separator rather than an em dash in their canonical reference form. Standard discipline-and-number abbreviations and named-document abbreviations take the em dash separator.
+The X-extension files (LMX, MPX, and any other X-marked extension series) take a colon separator rather than an em dash in their canonical reference form. Standard discipline-and-number abbreviations and named-registry abbreviations take the em dash separator.
+
+Structural decodes do not follow a prefix-abbreviation pattern; they are numbered files (01, 02, 03, and so on) within the structural-decodes folder. The Grand Unified Document similarly does not take an abbreviation; the canonical filename is `grand-unified-document.md`.
 
 Full document titles, when introduced, appear in italics:
 
