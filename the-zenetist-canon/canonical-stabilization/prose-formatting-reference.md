@@ -92,7 +92,7 @@ For foundational atlases, principal registries, and series-anchoring documents, 
 
 ### SHA-256 Inclusion
 
-The SHA-256 hash is reserved for foundational works, principal registries, and other documents where forensic timestamping serves canonical-integrity purposes. It is not required for every document. Current canonical practice includes the hash on Structural Forensics foundations, Lattice Mathematics foundations, the MFLR, the SPR, and selected major standalone documents.
+The SHA-256 hash is reserved for foundational works, principal registries, and other documents where forensic timestamping serves canonical-integrity purposes. It is not required for every document. Current canonical practice includes the hash on Structural Physics foundations, Lattice Mathematics foundations, the Mythic Figure Layer Registry (MFLR), the Symbolic Pattern Registry (SPR), and selected major standalone documents.
 
 ## Original Signal Preamble
 
