@@ -343,7 +343,7 @@ This reflects that dimensional operators do not follow an emanation sequence; th
 
 ## Informal Usage
 
-In informal discussion or descriptive prose where the writer is articulating a sequence from an embodied vantage (e.g., describing motion between L₂ and L₃ from the L₁ perspective), the conventional flexibility allows either order. Static lists, formal articulations, and canonical registry entries should follow the canonical descending hypostatic convention.
+In informal articulation or descriptive prose where the writer is articulating a sequence from an embodied vantage (e.g., describing motion between L₂ and L₃ from the L₁ perspective), the conventional flexibility allows either order. Static lists, formal articulations, and canonical registry entries should follow the canonical descending hypostatic convention.
 
 ---
 
