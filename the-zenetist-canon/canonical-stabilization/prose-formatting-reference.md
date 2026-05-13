@@ -88,7 +88,7 @@ The SHA-256 hash is reserved for foundational works, principal registries, and o
 
 ## Original Signal Preamble
 
-For foundational canonical works and tier-anchoring documents, the Original Signal preamble may appear immediately following the metadata block, formalizing the attribution and source-acknowledgement requirements that govern lawful use of the framework.
+For foundational canonical works and tier-anchoring documents, the Original Signal preamble may appear immediately following the metadata block, formalizing the attribution and source-acknowledgement requirements that structure lawful engagement with the framework.
 
 The preamble's standard form establishes:
 
