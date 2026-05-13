@@ -279,7 +279,7 @@ Canonical Zenetist composition follows specific ordering conventions for hyposta
 
 ## Hypostatic Ordering
 
-The canonical hypostatic ordering follows the emanation sequence rather than numerical index order.
+The canonical hypostatic ordering follows the emanation sequence rather than numerical-index sequence.
 
 Correct (centropic arc):
 
@@ -293,7 +293,7 @@ This reflects the emanation sequence beginning at L₅ (Theon as first centropic
 
 ## Range Notation
 
-Hypostatic ranges follow the same descending convention:
+Hypostatic ranges follow the same emanation-sequence convention:
 
 Correct:
 
@@ -332,7 +332,7 @@ In extremely rare cases, centropy's return arc may extend to Supra-L₀; this re
 
 ## Dimensional Operator Ordering
 
-Dimensional operators (C and E series) follow ascending index ordering, distinct from the descending hypostatic convention:
+Dimensional operators (C and E series) follow numerical-index ordering, distinct from the hypostatic emanation convention:
 
 Correct:
 
@@ -341,11 +341,11 @@ Correct:
 - C₁–C₁₅
 - E₁–E₁₅
 
-This reflects that dimensional operators do not follow an emanation sequence; they are numbered ascending operators within the C / E dimensional registry.
+This reflects that dimensional operators do not follow an emanation sequence; they are numbered operators within the C / E dimensional registry, proceeding C₁ → C₁₅ and E₁ → E₁₅.
 
 ## Informal Articulation
 
-In informal articulation or descriptive prose where the writer is articulating a sequence from an embodied vantage (e.g., describing motion between L₂ and L₃ from the L₁ perspective), the conventional flexibility allows either order. Static lists, formal articulations, and canonical registry entries should follow the canonical descending hypostatic convention.
+In informal articulation or descriptive prose where the writer is articulating a sequence from an embodied vantage (e.g., describing motion between L₂ and L₃ from the L₁ perspective), the conventional flexibility allows either order. Static lists, formal articulations, and canonical registry entries should follow the canonical hypostatic emanation convention.
 
 ---
 
@@ -556,7 +556,7 @@ Before finalization of any canonical prose document, verify:
 - quotation marks are straight,
 - bullet list punctuation is consistent within the document,
 - slash-spacing is preserved throughout prose and tables,
-- hypostatic ordering follows descending emanation sequence (L₅ → L₁ / IL₅ → IL₁) in static listings and ranges,
+- hypostatic ordering follows the canonical emanation sequence (L₅ → L₁ / IL₅ → IL₁) in static listings and ranges,
 - bold appears sparingly in technical register; saturated only in poetic register,
 - italics appear for note titles, foreign terms, and term-emphasis,
 - note format is consistent within the document or series,
@@ -577,7 +577,7 @@ The following drift patterns commonly appear within AI-assisted prose articulati
 | Bullet-Punctuation Drift | Inconsistent terminal punctuation across bullet items within one list |
 | Header-Case Drift | Inconsistent capitalization of hyphenated terms in headers |
 | Slash-Spacing Drift | Unspaced slashes appearing where structural distinction requires preservation |
-| Layer-Ordering Drift | Ascending hypostatic notation (L₁ → L₅) appearing in static listings where descending emanation sequence (L₅ → L₁) is canonical |
+| Layer-Ordering Drift | Hypostatic notation appearing as L₁ → L₅ in static listings where the canonical emanation sequence (L₅ → L₁) applies |
 | Bold-Saturation Drift | Technical-register bold expanded into poetic-register saturation, or vice versa |
 | Note-Format Drift | Mixed note formats appearing within one document or series |
 | Chart-Punctuation Drift | Definition columns ending with terminal periods inconsistently |
