@@ -170,7 +170,7 @@ Incorrect:
 - The signal—once stabilized—propagates lawfully.
 - Coherence requires Source acknowledgement—this is the fundamental metaphysical law.
 
-The em dash character (—) is used directly rather than double or triple hyphens (-- / ---).
+The em dash character (—) appears directly rather than as double or triple hyphens (-- / ---).
 
 ## En Dashes
 
@@ -200,7 +200,7 @@ Correct:
 - cross-stratum
 - L₄ DL Sophis attributions
 
-The hyphen is not used for ranges or parenthetical interruption.
+The hyphen does not mark ranges or parenthetical interruption.
 
 ## Quotation Marks
 
@@ -287,7 +287,7 @@ Correct (inverse arc):
 
 - IL₅ → IL₄ → IL₃ → IL₂ → IL₁
 
-This reflects the emanation sequence beginning at L₅ (Theon as first centropic hypostasis) and proceeding through subsequent strata to L₁ (embodied). The L₁ → L₅ sequence describes the acclivous return arc rather than the emanation sequence and is generally not used for static listings.
+This reflects the emanation sequence beginning at L₅ (Theon as first centropic hypostasis) and proceeding through subsequent strata to L₁ (embodied). The L₁ → L₅ sequence describes the acclivous return arc rather than the emanation sequence and does not generally appear in static listings.
 
 ## Range Notation
 
@@ -407,7 +407,7 @@ In-text annotations or notes embedded within a section may take the block-quote 
 
 The colon after the bolded note-title introduces the body that follows within the same block-quote container. The body may include inline mathematical notation, bold emphasis, italics, bulleted items, and multiple paragraphs, all preserved within the block-quote structure.
 
-The `> **Structural Note:**` variant (used in selected Field Physics articulations) is a permissible alternative within registers where the explicit "Structural Note" framing serves the note's diagnostic function.
+The `> **Structural Note:**` variant (appearing in selected Field Physics articulations) is a permissible alternative within registers where the explicit "Structural Note" framing serves the note's diagnostic function.
 
 ## Note Consistency Within Series
 
@@ -445,7 +445,7 @@ Canonical tables follow left-aligned column structure:
 | Entry | Entry | Entry |
 ````
 
-Right-aligned and center-aligned columns are reserved for numerical or formatting-specific use cases.
+Right-aligned and center-aligned columns are reserved for numerical or formatting-specific contexts.
 
 ## Slash Spacing in Table Cells
 
@@ -533,8 +533,8 @@ The following formatting choices are intentionally not pinned at the protocol le
 
 - bullet (`-`) contra numbered list selection,
 - subsection nesting depth (within the `#` / `##` / `###` structure),
-- exact phrasing of cross-references (beyond the abbreviation / italics conventions above),
-- footnote conventions where used,
+- exact phrasing of cross-references (beyond the abbreviation / italics conventions specified here),
+- footnote conventions where present,
 - exact table column-width and spacing (beyond left-alignment and slash-spacing),
 - placement of structural notes (in-text, end-of-section, end-of-document).
 
@@ -577,7 +577,7 @@ The following drift patterns commonly appear within AI-assisted prose articulati
 | Slash-Spacing Drift | Unspaced slashes appearing where structural distinction requires preservation |
 | Layer-Ordering Drift | Ascending hypostatic notation (L₁ → L₅) appearing in static listings where descending emanation sequence (L₅ → L₁) is canonical |
 | Bold-Saturation Drift | Technical-register bold expanded into poetic-register saturation, or vice versa |
-| Note-Format Drift | Mixed note-format usage within one document or series |
+| Note-Format Drift | Mixed note formats appearing within one document or series |
 | Chart-Punctuation Drift | Definition columns ending with terminal periods inconsistently |
 | Horizontal-Rule Drift | Excessive rule placement fragmenting document rhythm |
 | Italics-Quote Drift | Note titles appearing in quotation marks rather than italics |
