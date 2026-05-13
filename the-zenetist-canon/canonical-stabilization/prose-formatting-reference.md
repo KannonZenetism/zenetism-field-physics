@@ -341,7 +341,7 @@ Correct:
 
 This reflects that dimensional operators do not follow an emanation sequence; they are numbered ascending operators within the C / E dimensional registry.
 
-## Informal Usage
+## Informal Articulation
 
 In informal articulation or descriptive prose where the writer is articulating a sequence from an embodied vantage (e.g., describing motion between L₂ and L₃ from the L₁ perspective), the conventional flexibility allows either order. Static lists, formal articulations, and canonical registry entries should follow the canonical descending hypostatic convention.
 
@@ -361,7 +361,7 @@ Bold appears sparingly in technical prose. Over-application erodes its term-intr
 
 ## Bold in Poetic Register
 
-The poetic register employs bold-saturation as a compositional feature, with multiple bolded terms per stanza serving structural and rhythmic functions. This is part of the register's expressive form and is not governed by the technical-register sparing-use rule.
+The poetic register employs bold-saturation as a compositional feature, with multiple bolded terms per stanza serving structural and rhythmic functions. This is part of the register's expressive form and operates apart from the technical-register sparing-bold rule.
 
 Note: drift in early poetic documents — variable bold density, inconsistent bold placement — was largely introduced through tool reformatting rather than authorial intent. Where the drift can be identified as accidental, canonical bold-pattern restoration is appropriate; where time does not permit, the drift remains as an artifact of the transmission history.
 
@@ -411,7 +411,7 @@ The `> **Structural Note:**` variant (used in selected Field Physics articulatio
 
 ## Note Consistency Within Series
 
-Note format may vary across the corpus, but within a single document or multi-part series, the format should remain stable. Mixing `### Note on [Topic]` and `> **Note on [Topic]:**` patterns within one work is permissible only where the formats serve structurally distinct functions (e.g., major doctrinal notes positioned as primary structural elements versus brief annotations embedded within a section).
+Note format may vary across the corpus, but within a single document or multi-part series, the format should remain stable. Mixing `### Note on [Topic]` and `> **Note on [Topic]:**` patterns within one work is permissible only where the formats serve structurally distinct functions (e.g., major doctrinal notes positioned as primary structural elements contra brief annotations embedded within a section).
 
 ---
 
@@ -456,7 +456,7 @@ Incorrect: DP/DL
 
 ---
 
-# Horizontal Rule Usage
+# Horizontal Rule Placement
 
 Horizontal rules (`---`) mark major boundaries within a document. They are reserved for:
 
@@ -469,7 +469,7 @@ Horizontal rules do not appear between every subsection within a section. Excess
 
 ---
 
-# Code Block Usage
+# Code Block Placement
 
 Code blocks are reserved for:
 
@@ -495,9 +495,11 @@ Canonical abbreviations:
 - FP01 — Field Physics 01 (and so on)
 - LM01 — Lattice Mathematics 01 (and so on)
 - SN01 — Structural Neuroscience 01 (and so on)
-- LMX — Hypostatic Field Specialization
+- LMX: Lattice Mathematics Extension Notes
 - GUD — Grand Unified Document
-- MPX — Metaphysical Principles Expanded
+- MPX: Metaphysical Principles Expanded
+
+The X-extension files (LMX, MPX, and any other X-marked extension series) take a colon separator rather than an em dash in their canonical reference form. Standard discipline-and-number abbreviations and named-document abbreviations take the em dash separator.
 
 Full document titles, when introduced, appear in italics:
 
@@ -511,7 +513,7 @@ Note titles within prose cross-references take italics rather than quotation mar
 
 # Poetic Register Note
 
-The early canonical Zenetist work was composed in a poetic register with distinct compositional features that do not govern the technical register. The poetic register's expressive features include:
+The early canonical Zenetist work was composed in a poetic register with distinct compositional features that remain distinct from the technical register. The poetic register's expressive features include:
 
 - bold-saturation across multiple terms per stanza,
 - staggered line-breaks creating verse rhythm,
@@ -529,8 +531,8 @@ New poetic work may adopt the early register, develop new registers, or remain i
 
 The following formatting choices are intentionally not pinned at the protocol level and remain individual-document judgment calls:
 
-- bullet (`-`) versus numbered list selection,
-- subsection nesting depth (within the `#` / `##` / `###` hierarchy),
+- bullet (`-`) contra numbered list selection,
+- subsection nesting depth (within the `#` / `##` / `###` structure),
 - exact phrasing of cross-references (beyond the abbreviation / italics conventions above),
 - footnote conventions where used,
 - exact table column-width and spacing (beyond left-alignment and slash-spacing),
