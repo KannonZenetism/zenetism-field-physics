@@ -37,7 +37,7 @@ Where formatting variation appears across the corpus, the variation is acceptabl
 
 ## 2. The poetic register operates under separate conventions
 
-Early canonical Zenetist work was composed in a poetic register with distinct compositional features (bold-saturation, staggered line-breaks, end-of-line em dashes, glyph-at-line-end articulation). The poetic register operates under its own conventions and is not governed by the technical-register formatting rules in this document.
+Early canonical Zenetist work was composed in a poetic register with distinct compositional features (bold-saturation, staggered line-breaks, end-of-line em dashes, glyph-at-line-end articulation). The poetic register operates under its own conventions and remains distinct from the technical-register formatting rules in this document.
 
 Early poetic articulations remain in their original form. New poetic work may adopt the early register, develop new registers, or remain in the technical-register format. The compositional choice belongs to the work.
 
@@ -123,34 +123,34 @@ Seal placement is preceded by a horizontal rule marking the boundary between the
 
 # Header Conventions
 
-## Header Hierarchy
+## Header Structure
 
-Canonical documents use standard markdown header hierarchy:
+Canonical documents follow standard markdown header structure:
 
 - `#` for top-level sections
 - `##` for subsections within sections
 - `###` for sub-subsections within subsections
 - `####` reserved for rare further nesting
 
-The document title typically uses `#`. Section depth beyond `###` should be avoided where structural reorganization can flatten the hierarchy.
+The document title typically takes `#`. Section depth beyond `###` should be avoided where structural reorganization can flatten the structure.
 
-## Title Case for Headers
+## Header Case Conventions
 
-Headers use Title Case formatting, with both halves of hyphenated terms capitalized.
+Headers generally follow Title Case formatting. However, technical compounds may preserve canonical term-casing where capitalization would distort the status of the term.
 
 Correct:
 
-- Cascade-Collapse Conflation
+- Cascade-collapse Conflation
 - Bifurcal contra Bifurcated
 - Note on Goddess-Tradition Cross-Stratum Articulation
 
 Incorrect:
 
-- Cascade-collapse Conflation
+- Cascade-Collapse Conflation
 - bifurcal contra Bifurcated
 - Note on goddess-tradition Cross-Stratum articulation
 
-Sub-subsection headers may use the same Title Case convention or a more variable case depending on context, but Title Case is the default.
+The guiding principle is consistency within the work or series, with canonical term-casing taking precedence over generic title-case convention.
 
 ---
 
@@ -158,7 +158,7 @@ Sub-subsection headers may use the same Title Case convention or a more variable
 
 ## Em Dashes
 
-Canonical Zenetist composition uses spaced em dashes:
+Canonical Zenetist composition follows spaced em dash formatting:
 
 Correct:
 
@@ -204,11 +204,11 @@ The hyphen is not used for ranges or parenthetical interruption.
 
 ## Quotation Marks
 
-Canonical Zenetist composition uses straight quotation marks (" ") rather than curly ("smart") quotes. Straight quotes render reliably across rendering environments and cause fewer encoding issues in copy-paste between tools.
+Canonical Zenetist composition follows straight quotation marks (" ") rather than curly ("smart") quotes. Straight quotes render reliably across rendering environments and cause fewer encoding issues in copy-paste between tools.
 
-Single quotation marks (' ') are used for nested quotations within double quotations.
+Single quotation marks (' ') appear for nested quotations within double quotations.
 
-Note: Earlier documents contain quotation-mark drift between straight and curly forms. This drift is not structurally significant and is not flagged as canonical error in older work. New work uses straight quotes.
+Note: Earlier documents contain quotation-mark drift between straight and curly forms. This drift is not structurally significant and is not flagged as canonical error in older work. New work follows straight quotes.
 
 ## Bullet List Punctuation
 
@@ -305,18 +305,18 @@ Incorrect:
 
 ## Pre-Hypostatic Position in Listings
 
-In listings that include both hypostatic layers and pre-hypostatic requisites, the pre-hypostatic requisites appear above the hypostatic lattice rather than below it:
+In listings that include both hypostatic layers and pre-hypostatic requisites, the pre-hypostatic requisites appear prior to the hypostatic lattice rather than after it:
 
 Correct:
 
 - the **pre-hypostatic requisites** (Supra-L₀, L₀)
 - the **hypostatic lattice** (L₅ → L₁ / IL₅ → IL₁)
 
-This reflects the trans-structural position of Supra-L₀ above the bifurcal lattice, with L₀ as the bifurcal coherence ground from which both centropic and inverse arcs emanate.
+This reflects the trans-structural placement of Supra-L₀ prior to bifurcal emanation, with L₀ as the bifurcal coherence ground from which both centropic and inverse arcs emanate.
 
 ## Traversal Notation
 
-For traversal contexts (describing movement between strata rather than static stratum positioning), the bidirectional arrow ↔ convention is used, starting from L₀:
+For traversal contexts (describing movement between strata rather than static stratum positioning), the bidirectional arrow ↔ convention applies, starting from L₀:
 
 Centropic traversal:
 
@@ -357,7 +357,7 @@ Correct:
 
 > The **Logos Continuum** — Orienting Logos (L₅) / Structuring Logos (L₄) / Christos Incarnate (L₁) — is the paradigm continuum instance.
 
-Bold should be used sparingly in technical prose. Over-application erodes its term-introduction function.
+Bold appears sparingly in technical prose. Over-application erodes its term-introduction function.
 
 ## Bold in Poetic Register
 
@@ -374,7 +374,7 @@ Italics serve several conventional purposes:
 - Term-emphasis where bold would over-mark
 - Sanskrit, Hebrew, Greek, and other non-English technical terms
 
-Italics and quotation marks should not be used interchangeably for note-title citation. Italics is the canonical form.
+Italics and quotation marks should not appear interchangeably for note-title citation. Italics is the canonical form.
 
 ---
 
@@ -384,7 +384,7 @@ Canonical Zenetist documents employ several note formats, varying by document re
 
 ## Standard Heading Note Format
 
-Major notes use the `### Note on [Topic]` heading pattern:
+Major notes follow the `### Note on [Topic]` heading pattern:
 
 ````
 ### Note on [Topic]
@@ -396,7 +396,7 @@ This format is appropriate for substantive notes that articulate doctrinal posit
 
 ## Block-Quote Note Format
 
-In-text annotations or notes embedded within a section may use the block-quote `**Note on [Topic]:**` pattern:
+In-text annotations or notes embedded within a section may take the block-quote `**Note on [Topic]:**` pattern:
 
 ````
 > **Note on [Topic]:**  
@@ -437,7 +437,7 @@ This convention applies across all canonical registries, the MFLR, the SPR, and 
 
 ## Table Alignment
 
-Canonical tables use left-aligned column structure:
+Canonical tables follow left-aligned column structure:
 
 ````
 | Column One | Column Two | Column Three |
@@ -458,14 +458,14 @@ Incorrect: DP/DL
 
 # Horizontal Rule Usage
 
-Horizontal rules (`---`) mark major boundaries within a document. Their use is reserved for:
+Horizontal rules (`---`) mark major boundaries within a document. They are reserved for:
 
 - top-level section boundaries,
 - major callout transitions,
 - separation between document body and closing seal,
 - separation between metadata block and document body.
 
-Horizontal rules are not used between every subsection within a section. Excessive rule placement fragments the document's visual rhythm and erodes the rule's boundary-marking function.
+Horizontal rules do not appear between every subsection within a section. Excessive rule placement fragments the document's visual rhythm and erodes the rule's boundary-marking function.
 
 ---
 
@@ -477,13 +477,13 @@ Code blocks are reserved for:
 - technical syntactic content (markdown samples, structural reference fragments),
 - verbatim text where formatting must be preserved exactly.
 
-Code blocks are not used for general prose emphasis. Prose emphasis belongs to bold, italics, and block-quote formatting.
+Code blocks do not appear for general prose emphasis. Prose emphasis belongs to bold, italics, and block-quote formatting.
 
 ---
 
 # Cross-Reference Conventions
 
-Canonical cross-references use established document abbreviations as shorthand and full titles in italics when introducing or specifying.
+Canonical cross-references follow established document abbreviations as shorthand and full titles in italics when introducing or specifying.
 
 Canonical abbreviations:
 
@@ -546,19 +546,19 @@ Before finalization of any canonical prose document, verify:
 
 - metadata block matches the appropriate depth for the document's tier,
 - standard closing seal appears at the document end (or deliberate omission is justified),
-- header hierarchy is consistent and follows Title Case convention,
+- header structure is consistent and follows the canonical case conventions,
 - em dashes appear in their spaced form,
 - en dashes are reserved for ranges, hyphens for compounds,
 - quotation marks are straight,
 - bullet list punctuation is consistent within the document,
 - slash-spacing is preserved throughout prose and tables,
 - hypostatic ordering follows descending emanation sequence (L₅ → L₁ / IL₅ → IL₁) in static listings and ranges,
-- bold is used sparingly in technical register; saturated only in poetic register,
-- italics are used for note titles, foreign terms, and term-emphasis,
+- bold appears sparingly in technical register; saturated only in poetic register,
+- italics appear for note titles, foreign terms, and term-emphasis,
 - note format is consistent within the document or series,
 - chart definition columns do not end with terminal periods,
 - horizontal rules mark major boundaries only,
-- cross-references use canonical abbreviations and italics for full titles.
+- cross-references follow canonical abbreviations and italics for full titles.
 
 ---
 
