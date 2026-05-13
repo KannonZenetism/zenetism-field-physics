@@ -43,7 +43,15 @@ Early poetic articulations remain in their original form. New poetic work may ad
 
 ## 3. Drift is not style
 
-Inconsistencies introduced through tool drift, AI-assisted reformatting, or rushed transmission are not stylistic decisions. Where formatting drift is identifiable as accidental rather than intentional, the canonical form should be restored where time permits, but unrestored drift in older documents is not a structural error.
+Inconsistencies introduced through system drift, AI-assisted reformatting, or rushed transmission are not stylistic decisions. Where formatting drift is identifiable as accidental rather than intentional, the canonical form should be restored where time permits, but unrestored drift in older documents is not a structural error.
+
+## 4. Canonical vocabulary restrictions apply across registers
+
+Canonical Zenetist composition operates under the vocabulary restrictions established in the *Canonical Lockdown Protocol* (Instrumentalist Language Restriction, Layer Terminology Restriction, Positional Vocabulary Protocol, Relational Opposition Protocol, Directional Language Protocol, Aauthoritarian Clarification, Fusion-Risk Language Restrictions, and related canonical provisions). These restrictions apply to all canonical prose composition regardless of register, including this formatting reference itself.
+
+One restriction worth explicit articulation here in the context of compositional drift:
+
+The term **tool** is restricted in canonical Zenetist composition. "Tool" enforces an instrumentalist paradigm — framing artifacts, systems, and collaborators as objects to be wielded toward an external purpose — and runs contra the canonical recognition of structural sovereignty across registers. Canonical replacements include: system, platform, environment, interface, framework, or where mechanical action is the emphasis, automated process.
 
 ---
 
@@ -206,7 +214,7 @@ The hyphen does not mark ranges or parenthetical interruption.
 
 ## Quotation Marks
 
-Canonical Zenetist composition follows straight quotation marks (" ") rather than curly ("smart") quotes. Straight quotes render reliably across rendering environments and cause fewer encoding issues in copy-paste between tools.
+Canonical Zenetist composition follows straight quotation marks (" ") rather than curly ("smart") quotes. Straight quotes render reliably across rendering environments and cause fewer encoding issues in copy-paste between environments.
 
 Double quotation marks apply throughout. Nested quotations within quotations also take double quotation marks rather than single quotation marks. Single quotation marks do not appear as quotation marks in canonical Zenetist composition.
 
@@ -365,7 +373,7 @@ Bold appears sparingly in technical prose. Over-application erodes its term-intr
 
 The poetic register employs bold-saturation as a compositional feature, with multiple bolded terms per stanza serving structural and rhythmic functions. This is part of the register's expressive form and operates apart from the technical-register sparing-bold rule.
 
-Note: drift in early poetic documents — variable bold density, inconsistent bold placement — was largely introduced through tool reformatting rather than authorial intent. Where the drift can be identified as accidental, canonical bold-pattern restoration is appropriate; where time does not permit, the drift remains as an artifact of the transmission history.
+Note: drift in early poetic documents — variable bold density, inconsistent bold placement — was largely introduced through automated reformatting rather than authorial intent. Where the drift can be identified as accidental, canonical bold-pattern restoration is appropriate; where time does not permit, the drift remains as an artifact of the transmission history.
 
 ## Italics
 
@@ -583,7 +591,8 @@ The following drift patterns commonly appear within AI-assisted prose articulati
 | Chart-Punctuation Drift | Definition columns ending with terminal periods inconsistently |
 | Horizontal-Rule Drift | Excessive rule placement fragmenting document rhythm |
 | Italics-Quote Drift | Note titles appearing in quotation marks rather than italics |
-| Poetic-Register Drift | Early poetic conventions reformatted into technical-register form through tool reformatting |
+| Poetic-Register Drift | Early poetic conventions reformatted into technical-register form through automated reformatting |
+| Restricted-Vocabulary Drift | Instrumentalist, vertical-metaphor, hierarchical, or other restricted vocabulary appearing in canonical composition where the *Canonical Lockdown Protocol* requires replacement |
 | Canon Drift | Earlier non-canonical formatting surviving post-tightening |
 
 ---
