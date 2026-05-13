@@ -279,7 +279,7 @@ Canonical Zenetist composition follows specific ordering conventions for hyposta
 
 ## Hypostatic Ordering
 
-The canonical hypostatic ordering follows the emanation sequence rather than index-ascending sequence.
+The canonical hypostatic ordering follows the emanation sequence rather than numerical index order.
 
 Correct (centropic arc):
 
