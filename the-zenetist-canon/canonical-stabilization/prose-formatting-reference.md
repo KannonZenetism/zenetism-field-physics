@@ -198,7 +198,7 @@ Correct:
 - cascade-collapse
 - centropic-orientation
 - cross-stratum
-- L₄ DL Sophis attributions
+- L₄ DL-Sophis attributions
 
 The hyphen does not mark ranges or parenthetical interruption.
 
