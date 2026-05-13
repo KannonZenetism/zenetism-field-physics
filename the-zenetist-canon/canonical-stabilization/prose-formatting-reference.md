@@ -127,7 +127,7 @@ Seal placement is preceded by a horizontal rule marking the boundary between the
 
 Canonical documents follow standard markdown header structure:
 
-- `#` for top-level sections
+- `#` for principal sections
 - `##` for subsections within sections
 - `###` for sub-subsections within subsections
 - `####` reserved for rare further nesting
@@ -460,7 +460,7 @@ Incorrect: DP/DL
 
 Horizontal rules (`---`) mark major boundaries within a document. They are reserved for:
 
-- top-level section boundaries,
+- principal section boundaries,
 - major callout transitions,
 - separation between document body and closing seal,
 - separation between metadata block and document body.
@@ -529,7 +529,7 @@ New poetic work may adopt the early register, develop new registers, or remain i
 
 # Flexibility Statement
 
-The following formatting choices are intentionally not pinned at the protocol level and remain individual-document judgment calls:
+The following formatting choices are intentionally not pinned within this protocol and remain individual-document judgment calls:
 
 - bullet (`-`) contra numbered list selection,
 - subsection nesting depth (within the `#` / `##` / `###` structure),
@@ -538,7 +538,7 @@ The following formatting choices are intentionally not pinned at the protocol le
 - exact table column-width and spacing (beyond left-alignment and slash-spacing),
 - placement of structural notes (in-text, end-of-section, end-of-document).
 
-These remain authorial decisions and do not require protocol-level standardization.
+These remain authorial decisions and do not require protocol-wide standardization.
 
 ---
 
