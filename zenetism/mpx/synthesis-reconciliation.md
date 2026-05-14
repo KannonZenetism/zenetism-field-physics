@@ -1,4 +1,4 @@
-# MPX: Synthesis
+# MPX: Synthesis — Reconciliation Through Lawful Distinction
 
 In Zenetist usage, synthesis does not mean fusion, blending, identity-collapse, or dissolution into sameness.
 
