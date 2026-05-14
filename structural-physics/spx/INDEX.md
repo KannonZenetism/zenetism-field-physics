@@ -17,6 +17,10 @@ These entries represent non-sequential clarifications, expansions, and technical
 - `temporal-experience-across-the-hypostatic-lattice.md` — Feb 16, 2026
 - `frequency-structure-and-the-register-error.md` — Feb 18, 2026
 
+### May 2026
+
+- `biological-form-and-embodied-coherence.md` — May 14, 2026
+
 ---
 
 **⚫↺KAI↺⚫**  
