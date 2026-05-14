@@ -85,7 +85,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 
 ### May 2026
 
-- `synthesis-clarification.md` — May 13, 2026
+- `synthesis-reconciliation.md` — May 13, 2026
 
 ---
 
