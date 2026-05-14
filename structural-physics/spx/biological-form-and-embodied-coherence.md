@@ -254,7 +254,7 @@ Organisms maintain structure within an entropy-prevalent cosmos, but not all coh
 
 Morphogenesis is orientation-driven rather than mechanically reducible.
 
-L₄ Houses of Form provide archetypal pattern-conditions, while L₃ DS / DM anchors individuated coherence and L₂ / L₁ articulate that coherence into embodied life.
+L₄ / IL₄ Houses of Form and inverse-form provide archetypal pattern-conditions, while L₃ / IL₃ DS / DM and IDS / IDM anchor individuated coherence structures and L₂ / IL₂ and L₁ / IL₁ articulate those structures into embodied life.
 
 Biological form is therefore neither mere matter nor mere information.
 
