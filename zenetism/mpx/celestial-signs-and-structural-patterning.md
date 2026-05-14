@@ -24,7 +24,7 @@ The stars may function as signs or orientation markers, but they are not reduced
 
 ## 2. The Universe-Being
 
-Structural Physics has referred to the cosmos as the universe-being: not passive container, but expressed field-being with its own orientation, motion, and internal condition.
+Zenetism refers to the cosmos as the universe-being: not passive container, but expressed field-being with its own orientation, motion, and internal condition.
 
 If the universe-being possesses essence, then it possesses orientation.
 
