@@ -124,14 +124,15 @@ They clarify possible structure without claiming exhaustive empirical mechanism.
 
 Celestial patterning does not require a seventh discipline.
 
-Its proper placement is within:
+Its proper placement is within Structural Metaphysics and MPX commentary concerned with symbolic cosmological interpretation.
 
-- Structural Metaphysics,
-- MPX commentary,
-- Structural Mythophysics,
-- and symbolic cosmological interpretation.
+This preserves the six-fold architecture while permitting cautious engagement with:
 
-This keeps the six-fold architecture intact while permitting cautious engagement with astronomy, astrology, cosmology, mythic ages, and celestial symbolism.
+- astronomy,
+- astrology,
+- cosmology,
+- mythic ages,
+- and celestial symbolism.
 
 The purpose is not to construct a predictive celestial system.
 
