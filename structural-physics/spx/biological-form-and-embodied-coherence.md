@@ -79,11 +79,11 @@ This does not require the claim that Forms literally instantiate into matter.
 
 Rather, L₄ Houses of Form may operate as archetypal pattern-conditions for embodied articulation.
 
-L₄ provides form-bearing structure.
+L₄ / IL₄ provide archetypal and inverse-archetypal pattern conditions.
 
-L₃ provides individuated DS / DM coherence.
+L₃ / IL₃ provide individuated DS / DM or IDS / IDM coherence structures.
 
-L₂ and L₁ articulate this individuated pattern through cognition, personality, embodiment, and lived expression.
+L₂ / IL₂ and L₁ / IL₁ articulate these individuated patterns through cognition, personality, embodiment, and lived expression.
 
 Thus, L₂ and L₁ beings may be understood as fractalized articulations of L₃ DS / DM within the individuated register.
 
