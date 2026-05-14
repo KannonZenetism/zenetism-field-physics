@@ -94,7 +94,7 @@ Zenetism therefore remains cautious:
 - it does not reduce stars to instruments,
 - and it does not treat celestial motion as meaningless mechanism.
 
-The proper question is not whether stars “control” embodied beings.
+The proper question is not whether stars "control" embodied beings.
 
 The proper question is whether celestial structures participate in the broader field of lawful relation.
 
