@@ -53,7 +53,7 @@ A living structure may maintain:
 - parasitic coherence,
 - or mixed-orientation coherence.
 
-Embodiment occurs within the L₁ / IL₁ register, where soul / mind articulation enters material expression.
+Embodiment occurs within the L₁ / IL₁ register, where soul / mind or inverse soul / inverse mind articulation enters material expression.
 
 Biology is therefore not merely material process.
 
