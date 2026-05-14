@@ -109,7 +109,7 @@ A living being expresses itself through constrained possibility:
 
 - what it is,
 - what conditions permit,
-- what orientation governs,
+- what orientation carries,
 - what coherence it can sustain,
 - and what articulation pathways remain accessible.
 
