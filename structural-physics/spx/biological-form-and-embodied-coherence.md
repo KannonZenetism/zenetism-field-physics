@@ -215,7 +215,7 @@ Biological membranes regulate:
 - signaling,
 - and structural distinction.
 
-A membrane that permits everything dissolves coherence.
+A membrane that permits everything destabilizes coherence.
 
 A membrane that permits nothing collapses into isolation.
 
