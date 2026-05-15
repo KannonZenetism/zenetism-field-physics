@@ -164,9 +164,13 @@ Several dimensional operators are especially relevant to biological articulation
 | Operator | Function |
 |---|---|
 | C₁₀ ❋ | Morphogenetic / Formweave — translation of pattern into living structure |
+| E₁₀ ❋⁻ | Malform — distortion at the point of formation |
 | C₁₃ ║ | Membrane / Threshold — selective biological boundaries and permeability |
+| E₁₃ ║⁻ | Wall — impermeable isolation and severed exchange |
 | C₁₄ ⊡ | Nested / Recursive — lawful nested organization within living systems |
+| E₁₄ ⊡⁻ | Hollow Nest — recursive structure lacking generative coherence |
 | C₁₅ ✦ | Emergent / Novel — veracious emergence of new structural articulation |
+| E₁₅ ✦⁻ | Collapse Nova — emergence leading directly toward fragmentation |
 
 These operators participate across biological systems through:
 
@@ -177,14 +181,17 @@ These operators participate across biological systems through:
 - perception thresholds,
 - and organism-environment exchange.
 
-Yet each centropic operator possesses an entropic mirror.
+Biological articulation may therefore stabilize through either centropic or entropic orientation.
 
-Biological systems may therefore also articulate:
+Living systems may express:
 
+- coherent morphogenesis,
 - malformation,
+- lawful permeability,
 - impermeable isolation,
+- generative recursion,
 - hollow recursion,
-- parasitic reinforcement,
+- veracious emergence,
 - or emergence leading directly toward fragmentation.
 
 Life is not exempt from bifurcal polarity.
@@ -194,6 +201,8 @@ Life is not exempt from bifurcal polarity.
 ## 7. Membrane Dynamics and Living Structure
 
 C₁₃ ║ Membrane / Threshold is especially significant within biological articulation.
+
+Its entropic counterpart, E₁₃ ║⁻ Wall, names the collapse of lawful permeability into impermeable isolation, severed exchange, or defensive enclosure detached from generative relation.
 
 Organisms persist through selective permeability.
 
