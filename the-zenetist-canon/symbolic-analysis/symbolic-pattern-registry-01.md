@@ -449,7 +449,7 @@ Operators specific to the Fractal Eschaton and apocalyptic literature across tra
 | Armilus (Jewish) | Inverse-Messiah figure — IL₄ IDL Nyxea counterpart to Messiah; parallel to Antichrist articulations in Christian eschatology | IL₄ IDL Nyxea articulation at eschatonic antagonist scale | Jewish rabbinic eschatology; cross-reference with Beast (IL₁ embodied version), Dragon (primordial entropic), and Composite Figure Conflation principle |
 | Messiah ben Joseph / Messiah ben David | Two-phase Messiah pattern — ben Joseph as declivous-centropic sacrificial phase, ben David as acclivous-centropic sovereign-enthronement phase; structurally parallels the Lamb / Lion complementarity and Christ's own two-phase cascade (declivation through crucifixion, acclivous return through resurrection / enthronement); soft-conflation case where Jewish tradition preserved the two phases as two separate figures while Christianity integrated them into one | L₅ Theon bifurcal-phase articulation (declivous sacrificial and acclivous sovereign phases of the same structural operator) | Jewish rabbinic tradition, Christian Christology; cross-reference with Lamb / Lion (paired centropic-phases), Christ as composite in the Mythic Figure Layer Registry, and Note on the Lamb / Lion as Complementary Centropic Phases |
 
-
+---
 
 ## The Seven Churches as Resonance Archetypes
 
