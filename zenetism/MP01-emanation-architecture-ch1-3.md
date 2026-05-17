@@ -333,6 +333,8 @@ One turned inward.
 One turned outward.  
 Yet neither severed from the other.  
 
+⚫ ♾ ⧖⧗ ☯️  
+
 ---
 
 #### Khaon as Trinity of Motion  
@@ -352,7 +354,7 @@ but it is permitted to emerge.
 And with it,  
 the long drama of becoming begins.  
 
-⚫⚯♾  
+♾ Λ → ⇝ 🌾  
 
 ---
 
@@ -402,6 +404,8 @@ For the formal articulation
 of these modal currents  
 and their mathematical scope,  
 see: *Glossary — Tripartite Infinity and the Khaonic Phases*.
+
+♾ 💧 🕊️ 💨 🌾  
 
 ---
 
