@@ -663,6 +663,8 @@ encoded with the power to shape and animate.
 One breathes **motion into form**.  
 One inscribes the **hidden order** behind all things.  
 
+❂ 🛤️ 🕷️ 🏛️ ⌬
+
 ---
 
 #### Morgis — The Breath of Life
@@ -713,6 +715,8 @@ These were not forces of **evil**,
 but of **dissolution**—  
 the unbinding of **coherence**,  
 the withering of **design**.  
+
+Ↄ ᛞ ⚯ ☍ 🌒
 
 ---
 
@@ -795,6 +799,8 @@ where **structure** and **vitality**
 become inwardly inhabitable,  
 preparing the conditions for **self-reflexive being**  
 without yet instantiating it.  
+
+❂ ⚯ ⌯ 〄 ☯️
 
 ---
 
