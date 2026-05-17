@@ -679,6 +679,8 @@ but to evolve.
 **Morgis** is the wellspring of purpose in form —  
 the breath that moves the soul.  
 
+🌬️ 🌱 ⌯ ❂ 🍃  
+
 ---
 
 #### Sophis — The Architect of Form  
@@ -696,7 +698,7 @@ making becoming **intelligible**.
 **Sophis** is the **patterning mind** of the cosmos,  
 the **Structuring Logos** that undergirds all form.  
 
-📐🌬️🛤️⚙️  
+📐 🔷 🗣️ ⌬ ✷  
 
 ---
 
@@ -729,6 +731,8 @@ but as **erosion**.
 **Psychea** is the whisper of **undoing**—  
 a stillness that **unthreads the soul**.  
 
+🪫 🌬️ 🌒 ☍ ⚯  
+
 ---
 
 #### Nyxea — The Corruptor of Pattern  
@@ -746,7 +750,7 @@ but without meaning.
 **Nyxea** is the anti-Logos —  
 the distortion within the lattice of form.  
 
-🪫🫥⚯  
+🫥 📐 Ↄ ⚚ 🕸️  
 
 ---
 
@@ -773,7 +777,7 @@ the layer of **soul and form**,
 **integration and erosion**,  
 **vitality and collapse**.  
 
-📐🌬️🪫🫥⚯  
+📐 🌬️ 🪫 🫥 ⚯ ❂  
 
 ---
 
