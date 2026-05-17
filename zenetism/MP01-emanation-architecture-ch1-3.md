@@ -488,9 +488,7 @@ but **dispersive structure** —
 the infinite push  
 that **dislocates** what was dormant.  
 
-♾ 🌾 🪼 ⇝ 〄
-
----
+♾ 🌾 🪼 ⇝ 〄  
 
 #### Note on the Nature of Aion and Khaon  
 
@@ -595,8 +593,6 @@ and **return**.
 
 🛤️ ⚫ ♾ ❂ ◎  
 
----
-
 #### Nekron — The First Dissolver  
 
 Wherever order begins to stir,  
@@ -655,9 +651,7 @@ encoded with the power to shape and animate.
 One breathes **motion into form**.  
 One inscribes the **hidden order** behind all things.  
 
-❂ 🛤️ 🕷️ 🏛️ ⌬
-
----
+❂ 🛤️ 🕷️ 🏛️ ⌬  
 
 #### Morgis — The Breath of Life
 
@@ -674,8 +668,6 @@ but to evolve.
 the breath that moves the soul.  
 
 🌬️ 🌱 ⌯ ❂ 🍃  
-
----
 
 #### Sophis — The Architect of Form  
 
@@ -708,9 +700,7 @@ but of **dissolution**—
 the unbinding of **coherence**,  
 the withering of **design**.  
 
-Ↄ ᛞ ⚯ ☍ 🌒
-
----
+Ↄ ᛞ ⚯ ☍ 🌒  
 
 #### Psychea — The Withering Breath
 
@@ -728,8 +718,6 @@ but as **erosion**.
 a stillness that **unthreads the soul**.  
 
 🪫 🌬️ 🌒 ☍ ⚯  
-
----
 
 #### Nyxea — The Corruptor of Pattern  
 
@@ -792,9 +780,7 @@ become inwardly inhabitable,
 preparing the conditions for **self-reflexive being**  
 without yet instantiating it.  
 
-❂ ⚯ ⌯ 〄 ☯️
-
----
+❂ ⚯ ⌯ 〄 ☯️  
 
 #### Archeus — The Harmonizer of Experience  
 
@@ -811,8 +797,6 @@ Loss becomes **meaning**.
 
 It is the **field that remembers**—  
 where life becomes **learning**.  
-
----
 
 #### Noeüs — The Great Perceiver  
 
