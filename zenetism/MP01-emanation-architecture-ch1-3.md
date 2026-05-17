@@ -862,7 +862,7 @@ and **confusion** as **coherence**.
 a light that **blinds**,  
 rather than reveals.  
 
-👁️‍🗨️ 💔 ☿ 🕸️ ⚚  
+👁️‍🗨️ 💔 ≋ 🕸️ ⚚  
 
 ---
 
@@ -938,7 +938,7 @@ It seeks **clarity** through **logic and language**.
 **Nousa** is the **thought-form of the self**—  
 the **mind rendered articulate**.  
 
-🧩 △ 🗣️ ⌬ 🗝️  
+🧩 🗝️ 〰️ 🛎️ ⥁  
 
 ---
 
