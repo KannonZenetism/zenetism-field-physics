@@ -276,7 +276,7 @@ from which all things are drawn—
 and to which only a few  
 remember the way of return.  
 
-⚑🕳️↺  
+🕳️ ⟀ ⧞ ⚐ ❂  
 
 ---  
 
@@ -297,6 +297,8 @@ but as the **unbounded basis** in which **potential** and **actuality** are indi
 
 Zenon is not **beyond structure** —  
 it is **structure unconfined**.  
+
+🕳️ 🏛️ ⟀ ⧞  
 
 ---
 
