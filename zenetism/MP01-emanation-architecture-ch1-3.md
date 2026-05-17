@@ -333,8 +333,6 @@ Yet neither severed from the other.
 
 ⚫ ♾ ⧖⧗ ☯️  
 
----
-
 #### Khaon as Trinity of Motion  
 
 **Khaon** expresses a triple nature:  
@@ -353,8 +351,6 @@ And with it,
 the long drama of becoming begins.  
 
 ♾ Λ → ⇝ 🌾  
-
----
 
 #### Note on the Three Currents of Khaon  
 
@@ -404,8 +400,6 @@ and their mathematical scope,
 see: *Glossary — Tripartite Infinity and the Khaonic Phases*.
 
 ♾ 💧 🕊️ 💨 🌾  
-
----
 
 #### Note on Kaion and the Arc of Convergence  
 
