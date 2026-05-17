@@ -911,7 +911,7 @@ but begins to express itself.
 **Who am I,  
 now that I am here?**  
 
-❂ ⩘ ◉⊙ ✴ ⟜  
+❂ ◉⊙ ⟜ 〄 ⚯  
 
 #### Anthra — The Spark of Individual Essence
 
@@ -925,7 +925,7 @@ the “I” that strives.
 It is the **living current**,  
 the **interface between essence and identity**.  
 
-🧍 ▼ 🌱 ✴ ⥁  
+🧍 ▼ 🌱 🌹 ⥁  
 
 #### Nousa — The Reasoning Flame
 
