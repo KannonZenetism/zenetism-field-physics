@@ -278,8 +278,6 @@ remember the way of return.
 
 🕳️ ⟀ ⧞ ⚐ ❂  
 
----  
-
 #### Note on Zenon and the Nature of Structure  
 
 Zenon is not a **field**, nor the **absence of structure**.  
