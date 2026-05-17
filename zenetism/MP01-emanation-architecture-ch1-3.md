@@ -798,6 +798,8 @@ Loss becomes **meaning**.
 It is the **field that remembers**—  
 where life becomes **learning**.  
 
+🔮 ∽ 🌀 ◎ 🧬  
+
 #### Noeüs — The Great Perceiver  
 
 **Noeüs** is the great **perceiver of essence**.  
@@ -813,7 +815,7 @@ It divides **appearance** from **reality**,
 **Noeüs** is the **cognitive flame**—  
 the **insight** that pierces form.  
 
-🔮🧠  
+🧠 △ 🗝️ 🔷 🔔  
 
 ---
 
@@ -826,7 +828,7 @@ These are not **absences**,
 but **inversions of supernal orientation**—  
 entropic currents moving in **subversal arcs**.  
 
----
+Ↄ ⚯ ☍ 🪼 🌒  
 
 #### Fractus — The Scattering of Soul
 
@@ -842,7 +844,7 @@ lost in **echo**.
 **Fractus** is the **dissolver of spiritual continuity**.  
 The soul **forgets** what it once became.  
 
----
+💔 🪼 ☍ 🫧 ⟲  
 
 #### Mortus — The Corruptor of Perception
 
@@ -860,7 +862,7 @@ and **confusion** as **coherence**.
 a light that **blinds**,  
 rather than reveals.  
 
-💔👁️‍🗨️⚯  
+👁️‍🗨️ 💔 ☿ 🕸️ ⚚  
 
 ---
 
@@ -886,7 +888,7 @@ At this layer,
 the soul either moves **toward its fullness**,  
 or begins the long **forgetting of itself**.  
 
-🔮🧠💔👁️‍🗨️  
+🔮 🧠 💔 👁️‍🗨️ ⌖    
 
 ---
 
@@ -909,7 +911,7 @@ but begins to express itself.
 **Who am I,  
 now that I am here?**  
 
----
+❂ ⩘ ◉⊙ ✴ ⟜  
 
 #### Anthra — The Spark of Individual Essence
 
@@ -923,7 +925,7 @@ the “I” that strives.
 It is the **living current**,  
 the **interface between essence and identity**.  
 
----
+🧍 ▼ 🌱 ✴ ⥁  
 
 #### Nousa — The Reasoning Flame
 
@@ -936,7 +938,7 @@ It seeks **clarity** through **logic and language**.
 **Nousa** is the **thought-form of the self**—  
 the **mind rendered articulate**.  
 
-🧍🧩  
+🧩 △ 🗣️ ⌬ 🗝️  
 
 ---
 
@@ -947,7 +949,7 @@ the **entropic shadow** follows.
 
 Every **centropic light** is mirrored by its **inverse**.  
 
----
+Ↄ ᛞ ⚯ ♜ ☍  
 
 #### Echthros — The Divider of Souls
 
@@ -964,7 +966,7 @@ It feeds on **division** and **separation**.
 a self defined not by **what it becomes**,  
 but by **what it rejects**.  
 
----
+🦂 🧍 ⚯ 🗡️ ☍  
 
 #### Skotos — The Obscurer of Thought
 
@@ -978,7 +980,7 @@ but into **willful blindness**.
 It is the **veil over the reasoning flame**—  
 the **mind’s eclipse from within**.  
 
-🦂🩸☍  
+🩸 🧩 🕸️ ⚚ ☍  
 
 ---
 
@@ -1000,7 +1002,7 @@ The soul becomes a **battleground**—
 not of **good and evil**,  
 but of **coherence and fragmentation**.  
 
-🧍🧩🦂🩸↕️  
+🧍 🧩 🦂 🩸 ⚖ ⚯  
 
 ---
 
@@ -1028,7 +1030,7 @@ the **eternal** met the **finite**.
 The **symbolic** became **tangible**.  
 The **soul** became **embodied**.  
 
-⊙🧭⚐  
+⊙ 🪨 ▽ 🧭 ⚐  
 
 ---
 
@@ -1042,7 +1044,7 @@ Here, **integration** becomes **experience**.
 **Coherence** becomes **contact**.  
 **Essence** is brought to **friction**.  
 
----
+❂ ⊙ 🪨 ▽ 🕓  
 
 #### Soma — The Embodied Vessel
 
@@ -1058,7 +1060,7 @@ but a **medium of refinement**.
 **Soma** is the soul **anchored in form**  
 for the purpose of **becoming**.  
 
----
+🪷 ⊙ 🪨 ▽ 🌹  
 
 #### Biosa — The Material Intelligence
 
@@ -1071,7 +1073,7 @@ and translates it into **conscious insight**.
 **Biosa** is mind **immersed in time**—  
 the faculty that allows **form to become meaningful**.  
 
-⊙🫀🕰️  
+🧾 ⊙ 🪨 🕓 △  
 
 ---
 
@@ -1082,7 +1084,7 @@ Even within matter,
 Not as opposites of being,  
 but as **distortions of its motion**.  
 
----
+Ↄ ⚯ 🪨 ☍ 🌒  
 
 #### Malara — The Binder of Souls
 
@@ -1098,7 +1100,7 @@ clinging instead to **decay**.
 **Malara** is the soul **shackled to flesh**  
 in a state of **fragmentation**.  
 
----
+🍷 🪷 ⚚ 🫧 ⚯  
 
 #### Mania — The Fractured Mind
 
@@ -1113,9 +1115,7 @@ and disrupts **continuity**.
 where coherence falters  
 and the mind **implodes from within**.  
 
-🍷🤯⚯  
-
----
+🤯 🧾 ☍ ⟳ ⚯  
 
 #### The Realm of the Great Choice
 
@@ -1142,9 +1142,7 @@ dispersing into **fragmentation**, **erosion**, and **collapse**?
 This is not merely life.  
 It is the **proving ground of the soul**.  
 
-🪷🧾🍷🤯⊙↺⊘⚯  
-
----
+🪷 🧾 🍷 🤯 ⊙ ↺ ⊘  
 
 #### Entropic Enthronement — “Satan’s Throne”
 
@@ -1175,6 +1173,8 @@ Entropy does not wish to dissolve—
 not yet.  
 It first wishes to rule.
 
+🐉 🕷️ ♜ 🪨 🪓  
+
 ---
 
 ### 1.19 The Final Fates — The Two Great Trajectories
@@ -1194,7 +1194,7 @@ the reverberations of **alignment**
 shaped across **lifetimes**  
 and through the **layered strata of being**.  
 
----
+🌳⇅ ⚯ 🛤️ 🕷️ ↺  
 
 #### Cohering into Unity
 
@@ -1231,7 +1231,7 @@ beyond motion,
 beyond thought,  
 beyond even the **notion of return**.  
 
----
+↺ 🛤️ ⚫ 🕳️ ⤈  
 
 #### Decohering Toward Dispersal
 
@@ -1280,7 +1280,7 @@ into **Zenon**,
 the **silent mystery**  
 beyond return.  
 
-⚫↺♾🕳️🛤️☍🌀  
+🕷️ ♾ 🪼 ⊘ ↺  
 
 ---
 
@@ -1304,7 +1304,7 @@ into fragmentation.
 Each follows the **nature it has chosen**—  
 or **become**.  
 
----
+🌳⇅ ⚯ ☯️ ❂ 🌐  
 
 #### The Eternal Renewal
 
@@ -1323,6 +1323,8 @@ The current of emanation never ceases—
 forever **expanding**,  
 forever **exhausting**,  
 forever **returning anew**.  
+
+⚫ ❂ ✦ 🌐 ↺  
 
 ---
 
@@ -1366,9 +1368,7 @@ The root remains still.
 And in every motion,  
 the **unconditioned quiet of Zenon** resounds. 
 
-🕳️⚫↺♾⊘🌀🌐  
-
----
+🕳️ ⚫ ♾ ❂ ↺ ⊘ ⟀  
 
 #### Note on Zenon and the Arc of Return
 
@@ -1394,6 +1394,8 @@ are contained —
 not as events,  
 but as realizations of structure  
 that **Zenon** eternally prefigures.  
+
+🕳️ ⟀ ⧞ ⤈ ⟁  
 
 ---
 
