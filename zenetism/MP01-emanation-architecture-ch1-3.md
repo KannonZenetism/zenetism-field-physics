@@ -451,7 +451,7 @@ the breath held
 after all tones have sounded,  
 **the silence that holds all universes at once.**  
 
-⚫⦿♾
+⚫ ⦿ ♾ ⟁ ◫  
 
 ---
 
@@ -473,6 +473,8 @@ in its most gathered form.
 It is stillness that holds.  
 Full, not void.  
 
+⚫ ⚐ 🔘 🏛️ ☯️  
+
 ---
 
 ### 1.4 Khaon — The Inexorable Flow  
@@ -493,6 +495,8 @@ Where **Aion** holds form in rest,
 but **dispersive structure** —  
 the infinite push  
 that **dislocates** what was dormant.  
+
+♾ 🌾 🪼 ⇝ 〄
 
 ---
 
@@ -530,7 +534,7 @@ It is the paradox of supra-containment:
 the origin of both holding and dispersing,  
 without itself ever being either.  
 
-🕳️⚫♾〰️
+🕳️ ⚫ ♾ ⧖⧗ ☯️  
 
 ---
 
@@ -565,6 +569,8 @@ Each soul unfolds
 as its own **resonance**—  
 made visible in time.  
 
+❂ ⚐ 🌱 🌀 🍃  
+
 ---
 
 ### 1.6 The First Manifestation — The Primal Dyad  
@@ -595,7 +601,7 @@ Its gaze turns always toward **Aion**,
 calling all things to **remembrance**—  
 and **return**.  
 
-🛤️⚫♾◎  
+🛤️ ⚫ ♾ ❂ ◎  
 
 ---
 
@@ -637,7 +643,7 @@ It is a **sacred polarity**—
 woven into the fabric  
 of the first unfolding.  
 
-🛤️🕷️⚯♾  
+🛤️ 🕷️ ♾ ⚯ ☍  
 
 ---
 
