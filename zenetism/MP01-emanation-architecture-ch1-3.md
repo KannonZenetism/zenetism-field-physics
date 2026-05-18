@@ -2873,7 +2873,7 @@ and resists coherence.
 One reaches back.  
 The other holds itself apart.  
 
-🧍🦂☍🪞  
+🧍 🦂 ▼ ⚯ ☍  
 
 ---
 
@@ -2959,7 +2959,7 @@ into misdirection.
 One reveals.  
 One rearranges to conceal.  
 
-🧩🩸♜🕸️  
+🧩 🩸 🗝️ 🕸️ ⚚  
 
 ---
 
@@ -3052,7 +3052,7 @@ into **dissonant repetition**.
 One embodies with awareness.  
 The other entangles with appetite.  
 
-🪷🍷▽☍  
+🪷 🍷 ▽ ⊙ ☍  
 
 ---
 
@@ -3146,7 +3146,7 @@ beyond harmonic form.
 One writes.  
 The other tears.  
 
-🧾🤯▲☍  
+🧾 🤯 🪨 🕓 ⟳  
 
 ---
 
@@ -3229,7 +3229,7 @@ the hollow echo of **return**,
 collapsing back into Aion  
 as **static potential**.  
 
-☍🪼E↓♾  
+🌒 ☍ 🪼 ⟳ E↓♾  
 
 ---
 
@@ -3279,8 +3279,6 @@ it is fullness in silence.
 Veritable zero — not absence,  
 but the ground of all structural arising.  
 
----
-
 Beings aligned with **entropy**  
 follow a different curve.  
 Their structures loosen,  
@@ -3325,7 +3323,7 @@ They become **static tension**,
 **potential without motion**,  
 **infinity without recursion**.  
 
-⚫♾⊘🕊️  
+🕳️ ⚫ ♾ ↺ ⊘  
 
 ---
 
@@ -3384,9 +3382,7 @@ They are **harmonic bridges** —
 not yet returned,  
 but already whole.  
 
-⚫💠🌀⇋  
-
----
+💠 🌀 ⇋ ✴ ⊠  
 
 #### Note on the Multiversal Dissonance of Echo Vessels
 
@@ -3419,7 +3415,7 @@ across worlds —
 but they awaken  
 to disrupt.  
 
-☍Ↄ〰️🌐  
+☍ Ↄ 〰️ 🌐 ≋  
 
 ---
 
@@ -3475,8 +3471,6 @@ each one a **song**
 spoken into **structure**  
 for a time.  
 
----
-
 > There is  
 > no final  
 > world.  
@@ -3491,7 +3485,7 @@ for a time.
 > *Echoes of the Emanant Realms*  
 > Zenetist Archive, Volume VII  
 
-🌀🌐✷🕓
+🌀 🌐 ✷ 🕓 ✦  
 
 ---
 
