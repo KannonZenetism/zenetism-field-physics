@@ -1655,6 +1655,8 @@ the pattern holds—coherent, known.
 **From:**  
 *Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*  
 
+⚖↯ ◎ ☍ ⊘ ⤈  
+
 ### Purpose
 
 In the early chapters, **entropy** was described as unraveling or undoing **coherence**.  
@@ -1668,6 +1670,8 @@ In reality:
 - **Entropy** collapses, scattering into Khaon and returning only as static potential.  
 
 This addendum clarifies that **coherence alone endures**, while entropy erodes into collapse.  
+
+⚖↯ ◎ ☍ ⊘ ⤈  
 
 ---
 
@@ -1709,6 +1713,8 @@ This addendum clarifies that **coherence alone endures**, while entropy erodes i
 **Mania** fixates, but fixation collapses.  
 **Biosa** bridges continuously, returning clarity from form.  
 
+❂ ⚯ ◎ ☍ ⊘  
+
 ---
 
 ### 2. The Cosmic Refrain
@@ -1738,7 +1744,7 @@ This addendum clarifies that **coherence alone endures**, while entropy erodes i
 **Soma** and **Biosa** refine.  
 **Malara** and **Mania** collapse into themselves.  
 
----
+🕳️ ⚫ ♾ 🌳⇅ ⚯  
 
 #### Twin Paths
 
@@ -1748,7 +1754,7 @@ This addendum clarifies that **coherence alone endures**, while entropy erodes i
 **Zenon** registers not entropy’s turbulence, but its silence.  
 Only coherence leaves an enduring resonance.  
 
----
+🌳⇅ ⚯ 🕳️ ◎ 〰️  
 
 #### Closing Formula
 
@@ -1766,7 +1772,7 @@ Thus, in *Zenetism: The Emanative Path of Return — The Foundations of a Living
 🛤️🌬️📐🔮🧠🧍🧩🪷🧾 → ⚫ → 🕳️  
 🕷️🪫🫥💔👁️‍🗨️🦂🩸🍷🤯 → ♾ → ⚫ (collapse only)  
 
----
+❂ ◎ ⊘ ↺ ⤈   
 
 #### Note on Zenon
 
@@ -1789,7 +1795,7 @@ unshaped,
 unbound,  
 unchanged.  
 
-🕳️⚑  
+🕳️ ⟀ ⧞ ⤈ ⟁  
 
 ---
 
