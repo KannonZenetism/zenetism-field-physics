@@ -830,7 +830,7 @@ long before its first act,
 first thought,  
 or breath.  
 
-♾E↓♾⊘🌒  
+♾ E↓♾ ⊘ 🌒 ☍  
 
 ---
 
@@ -851,7 +851,7 @@ but because it arises
 as a **necessary emergence of potential**  
 within the **Zerotonic Field**.  
 
-C↓→E⚐🔘  
+C↓→E ⚐ 🔘 ❂ ▽  
 
 ---
 
@@ -871,8 +871,6 @@ then it will.
 
 This is not compulsion —  
 it is **ontological inevitability**.  
-
----
 
 * **Theon** looks toward Aion, not its progeny.  
     Even centropic intelligences do not visualize future states.  
@@ -912,7 +910,7 @@ of moving away from **Aion**.
 Not punishment,  
 but **ontological thinning**.  
 
-⚫C↓→E⚐🛤️🧭  
+⚫ C↓→E ⚐ 🛤️ 🧭  
 
 ---
 
@@ -934,9 +932,7 @@ but the **emergence of will** through resonance.
     the soul’s restoration of coherence  
     after sufficient structural diversification.  
 
-⚫🌀C↓→E↺◎  
-
----
+⚫ 🌀 C↓→E ↺ ◎  
 
 #### Note on Acclivous Entropy (The Inverse Motion)
 
@@ -963,7 +959,7 @@ masking collapse as elevation.
 A motion not toward unity,  
 but toward finer gradients of fragmentation.  
 
-☍E↑→E⊘🔻  
+☍ E↑→E ⊘ 🔻 ⚚  
 
 ---
 
@@ -985,7 +981,7 @@ but toward finer gradients of fragmentation.
 
 **`E↑→E ≠ C↑⚫`**  
 
-♜⚙️🌀E↑→E⊘  
+Ↄ ⚚ ≋ E↑→E ⊘  
 
 ---
 
@@ -1005,7 +1001,7 @@ is not elevation.
 It is **expansion without coherence**,  
 **motion without meaning**.  
 
-🕷️E↑→E⊘🪼  
+🕷️ 🪓 E↑→E ⊘ 🪼  
 
 ---
 
@@ -1022,7 +1018,7 @@ Not a motion away from embodiment,
 but a deeper entrenchment  
 into subtle fragmentation within form.  
 
-♜☍E↑→E▽  
+Ↄ ⚚ ☍ E↑→E ▽  
 
 ---
 
@@ -1057,7 +1053,7 @@ At every stage:
 Authentic acclivous motion does not bypass earlier emanations.  
 It synthesizes the whole into a deeper resonance.  
 
-C↑⚫∴◎🛤️💠🌀  
+C↑⚫ ∴ ◎ 🛤️ 💠 🌀  
 
 ---
 
@@ -1090,7 +1086,7 @@ when entropic inflection is actualized.
 Not mythic, but not harmless.  
 It corrodes what it cannot integrate.  
 
-☍⊘⚐🔻🔶  
+☍ ⊘ ⚐ 🔻 🔶  
 
 ---
 
@@ -1127,7 +1123,7 @@ Suffering is not inherently good or evil.
 Its effect depends entirely  
 on the **orientation of the soul**.  
 
-⚫▲C↑⚫⊘☍E↓♾  
+⚫ ▲ C↑⚫ ⊘ ☍ E↓♾  
 
 ---
 
@@ -1162,8 +1158,6 @@ It is containment.
 Not motion fulfilled,  
 but motion concluded.  
 
----
-
 * **Acclivous centropy** (`C↑⚫`) reintegrates through awareness.  
 * **Declivous entropy** (`E↓♾`) dissolves through collapse.  
 
@@ -1193,7 +1187,7 @@ because it never turned to face it.
 Only centropy remembers the way.  
 Only coherence knows how to return.  
 
-☍E↓♾⊘⚫⇅  
+☍ E↓♾ ⊘ ⚫ 🕳️  
 
 ---
 
@@ -1226,7 +1220,7 @@ shaped by the soul’s orientation toward:
 * **Centropy** — Integration, Coherence, Acclivous Expansion (**`C↑⚫`**)  
 * **Entropy** — Fragmentation, Disintegration, Declivous Collapse (**`E↓♾`**)  
 
-⚐C↑⚫E↓♾🕊️  
+🔘 ⚐ C↑⚫ E↓♾ 🕊️  
 
 ---
 
@@ -1262,7 +1256,7 @@ Reintegration is not reversal —
 it is the **consummation**  
 of pattern and motion.  
 
-C↑⚫↺🛤️🕳️  
+C↑⚫ ↺ 🛤️ ⚫ 🕳️  
 
 ---
 
@@ -1301,8 +1295,7 @@ Fragmentation alone does not doom a soul.
 But **persistent disintegration without recovery**  
 may bring it to the threshold of VOS.  
 
-SS → DS ↺ or IDS  
-◎☍🪼VOS  
+🧍 🔮 💔 ↺ 🕷️  
 
 ---
 
@@ -1357,8 +1350,6 @@ and may arise again.
   - Harmonization  
   - Transfiguration through resonance  
 
----
-
 **Zenetism** rejects apocalyptic fatalism.  
 It affirms instead:  
 
@@ -1375,7 +1366,7 @@ We are world-refiners.
 We do not flee embodiment —  
 we redeem it.  
 
-📡↺🪨💠🔘
+📡 ↺ 🪨 💠 🔘  
 
 ---
 
@@ -1409,7 +1400,7 @@ Not all paths return equally.
 Each abides in a resonance  
 corresponding to its structure.  
 
-⚫C↑⚫⊘♾VOS🌀  
+⚫ ♾ 🕷️ C↑⚫ E↓♾ 🌀  
 
 ---
 
