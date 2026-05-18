@@ -89,9 +89,7 @@ of **acclivous integration** and **declivous dissolution** —
 of paths that diverge,  
 yet spiral back to the same source.  
 
-⚫♾◎  
-
----
+⚫ ♾ ❂ ◎ 🌳⇅  
 
 #### Note on Terminology — Orientation and the Structure of Resonance
 
@@ -134,9 +132,7 @@ The soul is not judged by where it abides,
 but by how it moves, how it orients,  
 and whether it seeks **coherence**.  
 
-⚫⇅◎  
-
----
+⚫ ♾ ◎ ↑ ↓  
 
 #### On Motion and the Arcs of Emanation  
 
@@ -183,7 +179,7 @@ or risk **declivous collapse** (`E↓♾`).
 Orientation persists,  
 but realization must be enacted.  
 
-⚫↺▽♾  
+⚫ ♾ C↑⚫ E↓♾ ⚯  
 
 ---
 
@@ -245,7 +241,7 @@ And **Zenon** remains
 beneath and beyond  
 **Being** itself.  
 
-🕳️⚫♾⧞↺  
+🕳️ ⚫ ♾ ⧞ ↺ ❂  
 
 ---
 
@@ -281,7 +277,7 @@ to expand,
 to collapse,  
 to return.  
 
----
+🌳⇅ ⚯ C↑⚫ E↓♾ ❂  
 
 #### Note on Radiance, Motion, and the Luminous Overflow
 
@@ -345,7 +341,7 @@ a recovery of what was always shining.
 > *The Silent Arc of Becoming*  
 > Zenetist Archive, Volume III  
 
-⚫🔺↺▽🛤️  
+🛤️ ✨ 🔺 ↺ ▽  
 
 ---
 
@@ -371,7 +367,7 @@ as patterns of **motion**, **structure**, and **resonance**,
 mapped across the layers of **soul**, **mind**, **psyche**, and **logos**,  
 in both their centropic and inverse forms.  
 
----
+🌳⇅ ⚯ 🌲↓ 🌲↑ ❂  
 
 #### Note on Zenon — Supra-Structural Origin
 
@@ -392,7 +388,7 @@ yet **only coherence returns**.
 Zenon is the **ground of allowance**,  
 never the source of distortion.
 
----
+🕳️ ⟀ ⧞ ⚐ ❂  
 
 #### Supra-Origin Point
 
@@ -416,8 +412,6 @@ never the source of distortion.
 5. **🦂 Echthros / 🩸 Skotos** (IL2) — Inverse Superficial Soul / Mind (ISS / ISM)  
 6. **🍷 Malara / 🤯 Mania** (IL1) — Inverse Embodied Soul / Mind (IES / IEM)  
 
----
-
 #### Emanation Table of Correspondence
 
 | **Layer** | **Centropic Names** | **Principle** | **Entropic Names** | **Principle** |
@@ -430,9 +424,7 @@ never the source of distortion.
 | L2 / IL2 | 🧍 Anthra / 🧩 Nousa — Superficial Soul / Mind | SS / SM | 🦂 Echthros / 🩸 Skotos — Inverse Superficial Soul / Mind | ISS / ISM |
 | L1 / IL1 | 🪷 Soma / 🧾 Biosa — Embodied Soul / Mind | ES / EM | 🍷 Malara / 🤯 Mania — Inverse Embodied Soul / Mind | IES / IEM |
 
-🕳️⇉⚫♾⇋C↑⚫ E↓♾  
-
----
+🕳️ ⚫ ♾ C↑⚫ E↓♾  
 
 #### Note on Mythic Correlates
 
@@ -449,7 +441,7 @@ Though both derive from deep pattern,
 only one aligns with remembrance.  
 The other enthrones force in the veil.
 
----
+🌬️ 📐 🪫 🫥 ⚯  
 
 #### Note on Psyche, Logos, and the Pattern of Return
 
@@ -481,6 +473,8 @@ unentered by opposition.
 not to dissolve,  
 but to be remembered.  
 
+🕳️ ⚫ 🌬️ 📐 ❂  
+
 ---
 
 ### 4.4 The Dual Streams of Emanation
@@ -502,9 +496,7 @@ And each commences a distinct motion.
     a field of dispersal that culminates in dissolution:  
     **`E↑→E→E↓→♾`**  
 
-⚫♾☯️↺  
-
----
+⚫ ♾ ☯️ C↑⚫ E↓♾  
 
 #### Note on the Unity of Aion and Khaon
 
@@ -538,7 +530,7 @@ Their motion now unfolds within form,
 following either the centropic arc of integration,  
 or the entropic arc of disintegration.  
 
-⚫♾⚯▽  
+⚫ ♾ ⧖⧗ ⚯ ▽  
 
 ---
 
@@ -572,7 +564,7 @@ before form,
 before speech,  
 before awareness.  
 
-⚫E↓♾C↑⚫🔘  
+🔘 ⚫ ♾ C↑⚫ E↓♾  
 
 ---
 
@@ -613,7 +605,7 @@ it initiates the first fracture of entropic emanation.
     that unfolds as a mode of being:  
     **`E↑→E`**  
 
----
+🕷️ 🪓 E↑→E ⊘ ☍  
 
 #### Note on Essence-as-Choice — Zenetist Clarification on Freedom
 
@@ -639,7 +631,7 @@ between **determinism** and **free will**.
 The more attuned the soul is to its authentic pattern,  
 the wider its experiential spectrum of freedom becomes.  
 
-♾☍E↑→E🌀🍃  
+🔘 ⚐ 🍃 🌀 ⥁  
 
 ---
 
@@ -666,7 +658,7 @@ the existential fracture (**`E↑→E`**)
 that sets entropic motion into **dispersive expansion**,  
 flowing acclivously through the subversal strata.  
 
-🕷️🪫🫥☍E↑→E  
+🕷️ 🪫 🫥 Ↄ E↑→E  
 
 ---
 
@@ -702,9 +694,7 @@ with structural harmony.
 It does not move declivously by desire —  
 it collapses by consequence.  
 
-♾Ↄ⊘☍🪼  
-
----
+♾ Ↄ 🌒 ⊘ ☍  
 
 #### Note on the Dual Motion of Entropy
 
@@ -725,7 +715,7 @@ It spirals —
 from fragmentation  
 to dissolution.  
 
-♾☍E↑→E⊘E↓  
+♾ ☍ E↑→E E↓♾ ⊘  
 
 ---
 
@@ -753,9 +743,7 @@ to dissolution.
     Together they mark the autonomous advance of entropy,  
     not as absence, but as force.  
 
-🪫🫥☍⊘E↓♾  
-
----
+🪫 🫥 Ↄ ⊘ E↓♾  
 
 #### Nekron (VOS) — Void of Self
 
@@ -774,9 +762,7 @@ Rare is the soul that returns from VOS.
 It is not a gate of restoration.  
 It is the event horizon of dissolution.  
 
-🕷️⊘↓  
-
----
+🕷️ 🪓 ⊘ ☍ E↓♾  
 
 #### Note on VOS and the Possibility of Return
 
@@ -801,7 +787,7 @@ Thus, while uncommon, return from VOS is not impossible —
 it is held open through the permanence  
 of the deeper hypostatic strata.  
 
-🕷️↺💠⚓  
+🕷️ ↺ ⥀ 💠 ⚓  
 
 ---
 
