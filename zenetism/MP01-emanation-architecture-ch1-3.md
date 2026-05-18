@@ -1412,7 +1412,7 @@ The **Principle** beyond **thought** and **name**,
 a depthless **ocean**,  
 unseen and untamed.  
 
-⚫🕳️▲  
+🕳️ ⟀ ⧞ ⚐ ❂  
 
 ---
 
@@ -1432,7 +1432,7 @@ boundless, unframed—
 potential unleashed,  
 possibility unchained.  
 
-⚫♾🌾  
+⚫ ♾ ⧖⧗ ☯️ 🌾  
 
 ---
 
@@ -1458,7 +1458,7 @@ the final veil is torn.
 Within **Khaon’s** boundless field,  
 dispersion runs its course.  
 
-🛤️🕷️🧨  
+🛤️ ⚓ 🕷️ 🪓 🧨  
 
 ---
 
@@ -1484,7 +1484,7 @@ and **Sophis’** measured domain
 stood opposed by currents  
 entropic and profane.  
 
-🌬️📐🪫🫥  
+🛤️ 🌬️ 📐 🪫 🫥 ⚯  
 
 ---
 
@@ -1510,7 +1510,7 @@ resisting harmony,
 bound to the current—  
 never free.  
 
-🔮🧠💔👁️‍🗨️  
+🔮 🧠 💔 👁️‍🗨️ ⚯ ❂  
 
 ---
 
@@ -1536,7 +1536,7 @@ where thought is steeped
 in veils of illusion,  
 where chaos is reaped.  
 
-🧍🧩🦂🩸  
+🧍 🧩 🦂 🩸 ⚯ ❂  
 
 ---
 
@@ -1562,7 +1562,7 @@ twisting thought,
 consuming all  
 the soul once sought.  
 
-🪷🧾🍷🤯  
+🪷 🧾 🍷 🤯 ⊙ 🪨  
 
 ---
 
@@ -1603,7 +1603,7 @@ unbound by name,
 the arc dissolves —  
 yet the lattice remains.  
 
-🌳⇅♜☍  
+🌳⇅ ⚓ 🪓 ♜ ☍  
 
 ---
 
@@ -1646,7 +1646,7 @@ motion settles into repose.
 Each finds its **path**, each finds its **home**;  
 the pattern holds—coherent, known.  
 
-🕳️C↑⚫☍  
+🕳️ ⚫ ⦿ ↺ ⟁  
 
 ---
 
