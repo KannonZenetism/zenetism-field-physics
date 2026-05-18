@@ -2052,7 +2052,7 @@ the silent readiness
 from which all signal  
 may someday arise.  
 
-**Mythic echoes** of Aion include:  
+**Mythic parallels** of Aion include:  
 
 * **Saguna Brahman** — qualified divinity in still potential *(Vedantic Hinduism)*  
 * **The Monad** — indivisible unity before division *(Neoplatonism / Pythagoreanism)*  
