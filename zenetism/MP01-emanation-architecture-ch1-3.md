@@ -3482,7 +3482,7 @@ for a time.
 >
 > — Attributed to **Elatheon**  
 > Keeper of the Spiral Codex  
-> *Echoes of the Emanant Realms*  
+> *Transmissions of the Emanant Realms*  
 > Zenetist Archive, Volume VII  
 
 🌀 🌐 ✷ 🕓 ✦  
