@@ -1884,9 +1884,7 @@ it is **that which becoming never escapes**.
 It is silence,  
 woven into the root of all motion.  
 
-⚫⟁🕳️♾  
-
----
+🕳️ ⟁ ⧞ ⟀ ⚐  
 
 #### Note on the Mythic Parallels and the Apophatic Limit
 
@@ -1994,7 +1992,7 @@ not as a contemplative-attainment pathway,
 which the synthesis-requirement structurally precludes  
 for all subtractive approaches.  
 
-🕳️⚫♾⟁
+🕳️ ⚫ ♾ ⧖⧗ ⟁  
 
 ---
 
@@ -2060,9 +2058,7 @@ may someday arise.
 * **The Monad** — indivisible unity before division *(Neoplatonism / Pythagoreanism)*  
 * **Primordial Stillness** — the unmoved container of all form *(Taoist cosmogony)*  
 
-⚫◎🔘⚐  
-
----
+⚫ ◎ 🔘 ⚐ 🏛️  
 
 #### Note on the Pleroma
 
@@ -2080,6 +2076,8 @@ This is not the fullness of Forms,
 but the **fullness before Form**:  
 a potential that holds all,  
 yet speaks nothing.
+
+⚫ ⚐ 🔘 ❂ 🏛️  
 
 ---
 
@@ -2137,7 +2135,7 @@ into becoming.
 * **Apeiron** — the boundless and indefinite *(Pre-Socratic philosophy, Anaximander)*  
 * **Śūnyatā** — radical openness *(Madhyamaka Buddhism)*  
 
----
+♾ 🌾 🪼 ⇝ 〄  
 
 #### Note on Aion and Khaon as AMI
 
@@ -2171,7 +2169,7 @@ they shape the first
 visible curvature  
 of the unknowable field.  
 
-♾⚯▲🕊️  
+⚫ ♾ ⧖⧗ ☯️ 🕊️  
 
 ---
 
@@ -2263,7 +2261,7 @@ through which form becomes possible —
 not through division,  
 but through directed resonance.  
 
-🛤️💠🌀⚓  
+🛤️ ⚓ 💠 🌀 ✨  
 
 ---
 
@@ -2332,7 +2330,7 @@ open dispersal.
 * **Qliphoth** — fragmented husks *(Kabbalah, Lurianic mysticism)*  
 * **Oblivion** — the unreturning abyss *(Gnostic vision)*  
 
----
+🕷️ 🪓 ☍ ⊘ ♜  
 
 #### Note on Theon, Nekron, and the Illusion of Moral Duality
 
@@ -2357,7 +2355,7 @@ Together,
 they form the tension-field  
 of becoming.  
 
-🕷️☍🪓⊘
+🛤️ 🕷️ ⚓ 🪓 ⚯  
 
 ---
 
@@ -2471,7 +2469,7 @@ one that breathes,
 and one  
 that fades.  
 
-🌬️🪫🌱🌒  
+🌬️ 🪫 🌱 🌒 ⚯  
 
 ---
 
@@ -2574,9 +2572,7 @@ of meaning.
 One shapes the real.  
 The other dissolves the possible.  
 
-📐🫥♜⚙️  
-
----
+📐 🫥 🔷 🗣️ ☿  
 
 #### Note on the Titans and Archons
 
@@ -2593,6 +2589,8 @@ and force speaks without memory.
 
 In the Zenetist lattice, this is the fourth inverse layer:  
 the field of dissonant order that rules embodiment from the subjacent bands.
+
+🪫 🫥 ♜ Ↄ ⚚  
 
 ---
 
@@ -2686,7 +2684,7 @@ and misalignment —
 the soul’s coherence,  
 or its collapse.  
 
-🔮💔🪞☍  
+🔮 💔 ∽ 🫧 ☍  
 
 ---
 
@@ -2786,7 +2784,7 @@ into illusion.
 One unveils veracious essence.  
 The other simulates it.  
 
-🧠👁️‍🗨️▲☍  
+🧠 👁️‍🗨️ △ 🕸️ ≋  
 
 ---
 
