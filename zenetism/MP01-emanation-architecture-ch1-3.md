@@ -2775,7 +2775,7 @@ of deceptive patterning.
       distinct from the L4 DP / DL centropic veil  
     * **Spurious Perception** — distorted reason *(Zenetist archetype)*  
 
-**Noeüs** echoes **Theon**  
+**Noeüs** reflects **Theon**  
 through symbolic discernment.  
 **Mortus** channels **Nekron**  
 through the collapse of pattern  
