@@ -171,7 +171,7 @@ Diagnostic signatures:
 
 **C₆ (Phase Transition / Threshold Passage) — Configuration Stability Diagnostic:**
 
-C₆ governs structural phase transitions — the passage from one stable configuration to another. As a diagnostic instrument, C₆ reads whether a configuration is genuinely stable, artificially stabilized, or in transition.
+C₆ governs structural phase transitions — the passage from one sustained configuration to another. As a diagnostic instrument, C₆ reads whether a configuration is genuinely stable, artificially stabilized, or in transition.
 
 Diagnostic signatures:
 
