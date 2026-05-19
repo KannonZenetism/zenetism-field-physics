@@ -253,7 +253,7 @@ This is not annihilation but **spectral resolution** — the return to ⚫ Aion 
 
 ### 5.4 Energy Release as Resonance Discharge
 
-The energy released in phase collision is not destruction-energy. It is **resonance discharge** — the structural tension between complementary flows releasing as the system resolves toward equilibrium.
+The energy released in phase collision is not destruction-energy. It is **resonance discharge** — the structural tension between complementary flows releasing as the system resolves toward ⦿ Kaion convergence.
 
 This aligns with the CIT Grand Theorem:
 
