@@ -107,6 +107,23 @@ Physically:
 The eigenvalue spectra of centropic and entropic operators are mirrored about zero.  
 This symmetry ensures that the lattice is not dispersive chaos, but a balanced system: emanation from Aion, mirrored by return to Aion.
 
+> **Note on Balance, Reciprocity, and Equilibrium:**  
+> In SP01, the term **balance** refers primarily to **structural reciprocity**: the polarity relation between centropic and entropic operators around ⚫ Aion as spectral zero.
+>
+> This should not be confused with \( \chi = 1 \) equilibrium within manifest orientation. Aion is not a moving midpoint between centropy and entropy, nor is it a state of enacted orientational neutrality.
+>
+> Aion belongs to the L₀ Source Band as Absolute Potential. Khaon belongs to the same band as Absolute Dispersion. Their relation establishes bifurcal coherence before manifest \( \chi \)-orientation begins.
+>
+> Thus, balance in this foundational sense means **pre-orientational reciprocity**, not dynamic stabilization, not expression-ratio neutrality, and not frozen equilibrium.
+>
+> Later Structural Physics documents distinguish these more precisely:
+>
+> - **Structural reciprocity** — polarity relation around Aion as spectral zero  
+> - **Expression-ratio balance** — co-expression where neither tree prevails  
+> - **Dynamic stabilization** — maintained poise through ongoing correction  
+> - **Strict equilibrium** — \( \chi = 1 \), a fragile saddle within motion  
+> - **Kaion convergence** — the limit condition where motion resolves into stillness without fusion  
+
 ---
 
 ## 4. Mapping Centropic Dimensions (C₁–C₁₅) to Physics
