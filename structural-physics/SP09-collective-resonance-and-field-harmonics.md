@@ -428,7 +428,7 @@ Diagnostic protocol:
 
 Collective resonance operates across hypostatic layers:
 
-- **L₅ (Theon)**: Essential unity; the Source from which collective coherence draws
+- **L₅ (Theon)**: Essential coherence; the Source from which collective resonance draws
 - **L₄ (Field of Forms)**: Archetypal patterns that collectives may instantiate
 - **L₃ (Deep Soul / Mind)**: Where reflexive identity persists; the layer at which Non-Fusion is absolute
 - **L₂–L₁**: Surface expression where collective fields manifest visibly
