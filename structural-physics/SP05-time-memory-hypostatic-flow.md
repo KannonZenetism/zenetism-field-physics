@@ -557,7 +557,7 @@ The CIT framework extends to temporal dynamics:
 H(\psi, \tau) + C(\psi, \tau) + \log(\sigma) + \log(\gamma) = \text{constant}
 \]
 
-Where temporal evolution preserves the coherence-entropy balance while redistributing between terms according to \( \chi \)-orientation.
+Where temporal evolution preserves the coherence-entropy invariant while redistributing between terms according to \( \chi \)-orientation.
 
 ### 9.3 Dimensional Operators
 
