@@ -145,7 +145,7 @@ Each document depends on all preceding documents.
 
 **Motive Infinity (\( \mathcal{M} \))** — The total field of active motion and becoming. Pre-bifurcal: it is not centropy and not entropy, but the sustained field within which both operate.
 
-**\( \text{CP}_0 \) and \( \text{CP}_1 \)** — Two distinct convergence conditions. \( \text{CP}_0 \) is pre-expressive convergence (stable, outside \( \chi \)-space). \( \text{CP}_1 \) is expressive equilibrium (unstable saddle within \( \chi \)-space at \( \chi = 1 \)).
+**\( \text{CP}_0 \) and \( \text{CP}_1 \)** — Two distinct convergence conditions. \( \text{CP}_0 \) is pre-expressive convergence, outside \( \chi \)-space. \( \text{CP}_1 \) is co-expressive equilibrium, an unstable saddle within \( \chi \)-space at \( \chi = 1 \).
 
 **Localized Dissolution (Ø)** — A point of nullification within structure. Stagnative, not entropic. Arises from fixed \( \chi = 1 \) equilibrium, where enacted orientation ceases. Occurs within the Mercy Fold. Essence persists.
 
