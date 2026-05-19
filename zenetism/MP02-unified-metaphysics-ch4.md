@@ -2661,7 +2661,7 @@ but the **potential for multiplicity**.
 This awareness is not cognition.  
 It is **pure resonance** —  
 a harmonic intuition  
-that opposites will unfold  
+that polarity-distinct motions will unfold  
 even from a non-dual origin.  
 
 Even love can only choose  
