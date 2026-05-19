@@ -60,7 +60,7 @@ SP09 now addresses **collective resonance** — how multiple beings generate sha
 
 Multiple beings can generate shared resonance fields without violating the Non-Fusion axiom.
 
-Collective resonance operates through **harmonic alignment**, not ontological merger. Distinct essences remain distinct; what unifies is orientation, not identity.
+Collective resonance operates through **harmonic alignment**, not ontological merger. Distinct essences remain distinct; what aligns is orientation, not identity.
 
 This principle applies to both centropic collectives (integrative alignment) and entropic collectives (coordinated fragmentation). The difference lies not in the mechanism but in the orientation.
 
