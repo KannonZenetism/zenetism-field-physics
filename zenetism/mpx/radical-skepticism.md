@@ -8,6 +8,10 @@ All perception is mediated through interpretive structure, and every interpretiv
 
 For this reason, Zenetism maintains that there is always adequate reason to doubt not only perception, but also the conclusions derived from perception — including the belief that one has fully transcended illusion or mediation.
 
+> **Note:**  
+> A refined canonical definition of this concept is maintained within the Zenetist glossary archive.  
+> This MPX entry is preserved as the original developmental and provenance-layer formulation.
+
 ---
 
 ## The Problem of Perception
