@@ -433,7 +433,7 @@ Membrane health can be assessed through spectral diagnostics:
 
 | Condition | \( \sigma(⧉) \) | \( T(⧉) \) | \( \nabla \cdot \vec{J}_c \) | Signature |
 |-----------|----------------|-----------|---------------------------|-----------|
-| Healthy Bridge | ≈ 1 | Lossless / reciprocal | ≈ 0 | C₈ |
+| Healthy Bridge | ≈ 1 | Reciprocal | ≈ 0 | C₈ |
 | Filter Active | < 1, selective | Partial | ≈ 0 | — |
 | Amplifier Active | > 1 | Enhanced | < 0 (source draw) | — |
 | Partial Occlusion | < 0.5 | Reduced | Variable | E₁₄ precursor |
