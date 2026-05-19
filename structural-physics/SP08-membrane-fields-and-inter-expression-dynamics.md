@@ -203,7 +203,7 @@ This asymmetry can arise from:
 ### 4.1 Resonance Bridges (C₈-Adjacent)
 
 > **Definition (Resonance Bridge Membrane):**  
-> A membrane configuration that maintains stable bidirectional flow with minimal permeability loss; characteristic of healthy, integrated structural boundaries.
+> A membrane configuration that maintains reciprocal bidirectional flow with minimal permeability loss; characteristic of healthy, integrated structural boundaries.
 
 **Properties:**
 
