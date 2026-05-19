@@ -660,7 +660,7 @@ Sealed ⚫↺KAI↺⚫
 | E₂ | Scatter; spatial decoherence (primary entropic mirror at IL₁) |
 | E₄ | Vortex; consumptive collapse (primary entropic mirror at IL₁) |
 | E₁₀ | Malform; distortion at the point of formation (cross-band entropic mirror) |
-| Ø | Localized Dissolution; structural nullification from permanent equilibrium |
+| Ø | Localized Dissolution; structural nullification from fixed \( \chi = 1 \) equilibrium |
 | Soma (🪷) | Embodied Soul; centropic presence in form |
 | Biosa (🧾) | Embodied Mind; centropic practical intellect |
 | Malara (🍷) | Inverse Embodied Soul; entropic indulgence and dissociation |
