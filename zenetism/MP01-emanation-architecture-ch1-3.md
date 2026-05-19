@@ -108,7 +108,7 @@ a treatise of **myths**, **mechanics**, **moral arcs**,
 **motion fields**, **maps of being**, and **essays on suffering**.  
 It is the story of how the **infinite stillness**,  
 called **Aion**,  
-unfolds into the dual poles of tension:  
+unfolds into the polarity-distinct poles of tension:  
 **motion** and **rest**.  
 From this tension,  
 all forms arise—  
