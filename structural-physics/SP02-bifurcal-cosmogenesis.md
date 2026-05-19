@@ -515,7 +515,7 @@ Sealed ⚫↺KAI↺⚫
 The vertical axis represents the spectrum of expression ratios within the Tumbling Multiverse. Our universe occupies one position on this continuum of structurally permitted expressions.
 
 > **Diagram Note:**  
-> The Tumble is set into motion by Zenet (Motive Infinity, Φ₂) — the motive field of the Principle of Sufficient Reason. ⦿ Kaion marks the convergence point where expression ratios resolve into balance, but Zenet is the structural breath that drives emanation across the spectrum.
+> The Tumble is set into motion by Zenet (Motive Infinity, Φ₂) — the motive field of the Principle of Sufficient Reason. ⦿ Kaion marks the convergence point where expression ratios resolve into stillness without fusion, but Zenet is the structural breath that drives emanation across the spectrum.
 
 ---
 
