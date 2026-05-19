@@ -147,7 +147,7 @@ Each document depends on all preceding documents.
 
 **\( \text{CP}_0 \) and \( \text{CP}_1 \)** — Two distinct convergence conditions. \( \text{CP}_0 \) is pre-expressive convergence (stable, outside \( \chi \)-space). \( \text{CP}_1 \) is expressive equilibrium (unstable saddle within \( \chi \)-space at \( \chi = 1 \)).
 
-**Localized Dissolution (Ø)** — A point of nullification within structure. Stagnative, not entropic. Arises from frozen equilibrium. Occurs within the Mercy Fold. Essence persists.
+**Localized Dissolution (Ø)** — A point of nullification within structure. Stagnative, not entropic. Arises from fixed \( \chi = 1 \) equilibrium, where enacted orientation ceases. Occurs within the Mercy Fold. Essence persists.
 
 **Collapse (⊘)** — Dispersive dissolution into formlessness. Entropic failure of coherence at any scale of expression. Essence persists, but expressed orientation is lost.
 
