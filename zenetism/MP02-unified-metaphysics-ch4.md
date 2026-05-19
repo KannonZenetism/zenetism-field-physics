@@ -2644,7 +2644,7 @@ emanated from the stillness of Aion.
 It is not created in time.  
 It is **realized** —  
 a singular act of presence  
-structured within unstructured potential.  
+emerging within latent structural potential.  
 
 * **Theon** is the first supernal hypostasis —  
     the Orienting Logos emerging  
