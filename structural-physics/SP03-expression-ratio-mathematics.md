@@ -513,7 +513,7 @@ However, the **direction of spontaneous drift** depends on \( \chi \):
 
 - For \( \chi > 1 \): spontaneous drift increases \( H(\psi) \) (entropy)
 - For \( \chi < 1 \): spontaneous drift increases \( C(\psi) \) (centropy)
-- For \( \chi = 1 \): no spontaneous drift; system remains at equilibrium
+- For \( \chi = 1 \): no prevalent spontaneous drift; the system occupies a co-expressive saddle condition
 
 ### 9.3 Dimensional Lattice
 
