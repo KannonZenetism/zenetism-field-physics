@@ -480,7 +480,7 @@ but to be remembered.
 ### 4.4 The Bifurcal Streams of Emanation
 
 Though **centropy** and **entropy** seem opposed,  
-they are symmetrical expressions of a single unfolding.  
+they are distinct expressions emerging from the same bifurcal architecture.  
 
 Each emerges from one of the twin poles:  
 * **Aion (⚫)**  
