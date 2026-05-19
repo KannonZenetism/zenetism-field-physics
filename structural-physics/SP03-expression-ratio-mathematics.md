@@ -233,17 +233,37 @@ The Chi parameter maps the full spectrum of Biospiral expression:
 
 ### 4.3 CP and the Co-Expressive Coordinate
 
-At \( \chi = 1 \), the system achieves **co-expressive equilibrium** — where neither centropic nor entropic expression prevails.
+At \( \chi = 1 \), the system reaches **co-expressive balance** — the ratio-condition in which neither centropic nor entropic expression prevails.
 
-CP is ontologically pre-hypostatic. The condition \( \chi = 1 \) is not CP itself, but the **hypostatic manifestation of CP** within expressed motion — a structural reverberation of the requisite-level closure within the domain of expression.
+This condition is not CP itself.
 
-The pre-hypostatic CP is the **closure condition** where:
+CP is ontologically pre-hypostatic: the closure condition of the requisites where zero and infinity enter convergence without fusion. It belongs to the L₀ / pre-hypostatic structure of bifurcal coherence, not to manifest oriented motion.
+
+The condition \( \chi = 1 \) is therefore best understood as the **co-expressive coordinate** within \( \chi \)-space: the expressed ratio that corresponds analogically to CP symmetry, without being identical to CP.
+
+The pre-hypostatic CP is the closure condition where:
 
 \[
 0 \rightleftharpoons \infty
 \]
 
-Zero and infinity converge without fusion. The requisites achieve equilibrium, and orientation becomes the determining factor for subsequent motion.
+Zero and infinity converge without fusion. This convergence establishes the structural condition under which orientation may subsequently emerge, but it is not itself an enacted orientational state.
+
+> **Note on Balance, Dynamic Stabilization, and Equilibrium:**  
+> In this document, **balance** must be read according to structural context.
+>
+> **Co-expressive balance** refers to the ratio-condition \( \chi = 1 \), where centropic and entropic expression are equally weighted.
+>
+> This is not the same as **dynamic stabilization**, where a moving system maintains poise through continual correction, adjustment, and enacted orientation. A body remaining upright while moving is not in strict equilibrium; it is stabilizing itself through motion.
+>
+> Nor is \( \chi = 1 \) identical with **CP / Kaion**. CP names the pre-hypostatic convergence condition of zero and infinity without fusion. \( \chi = 1 \) names the corresponding co-expressive coordinate within oriented expression.
+>
+> Thus:
+>
+> - **CP / Kaion** = convergence condition prior to, or at the limit of, motion  
+> - **\( \chi = 1 \)** = co-expressive ratio within \( \chi \)-space  
+> - **Dynamic stabilization** = maintained poise through ongoing orientation  
+> - **Frozen equilibrium** = fixed balance in which enacted orientation ceases  
 
 ### 4.4 Limit Cases
 
