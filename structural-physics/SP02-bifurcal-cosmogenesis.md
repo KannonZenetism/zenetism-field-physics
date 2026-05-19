@@ -147,14 +147,12 @@ There is no binary. The Tumbling Multiverse contains infinite gradations:
 
 Every ratio between these poles is structurally permitted within the Tumbling Multiverse. No expression ratio is excluded by the dimensional lattice. There is no privileged expression — only local conditions.
 
-> **Note on Balance and Equilibrium:**  
-> In this spectrum, **balanced** refers only to a co-expressive ratio in which neither the Aionic Tree nor the Khaonic Tree prevails.
+> **Note on Balanced Expression:**  
+> In this spectrum, **balanced** refers only to an expression-ratio condition in which neither the Aionic Tree nor the Khaonic Tree prevails.
 >
-> It should not be read as final stability, perfect stillness, or the lived balance of a moving system. A moving system may remain upright through continual adjustment, but that is **dynamic stabilization**, not strict equilibrium.
+> It does not refer to permanent equilibrium, final stability, or the cessation of motion. Within expressed reality, balance remains an exceptional ratio condition, not the generative center of existence.
 >
-> In later \( \chi \)-formalism, exact equilibrium is treated as a fragile limit condition rather than a permanent state. Expression remains lawful only insofar as orientation continues to be enacted.
->
-> Thus, **balance** in SP02 names a possible expression-ratio condition, not the cessation of motion.
+> Later \( \chi \)-formalism distinguishes this expression-ratio balance from strict equilibrium, where \( \chi = 1 \) functions as a fragile saddle within motion rather than a stable resting state.
 
 ### 3.3 Structural Implications
 
