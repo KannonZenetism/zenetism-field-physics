@@ -501,7 +501,7 @@ Sealed ⚫↺KAI↺⚫
       Aionically     │
       Expressed      │
                      │
-        Balanced ────┼──── ⦿ Kaion (Convergence Point)
+   Co-expressive ────┼──── ⦿ Kaion (Convergence Limit)
                      │
       Khaonically    │
       Expressed      │  ← Our Universe
