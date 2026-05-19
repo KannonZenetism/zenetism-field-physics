@@ -84,7 +84,7 @@ Formalizes the ⧉ operator: membrane fields as inter-hypostatic threshold struc
 
 ### SP09 — Collective Resonance and Field Harmonics
 
-Extends SP07–SP08 mechanics to collective configurations. Multiple beings can generate shared resonance fields without violating the Non-Fusion Axiom — collective resonance operates through harmonic alignment, not ontological merger. Distinct essences remain distinct; what unifies is orientation, not identity. Addresses both centropic collectives (harmonic bridging, mutual coherence amplification) and entropic collectives (swarm dynamics, Shimmer at scale, manufactured consensus).
+Extends SP07–SP08 mechanics to collective configurations. Multiple beings can generate shared resonance fields without violating the Non-Fusion Axiom — collective resonance operates through harmonic alignment, not ontological merger. Distinct essences remain distinct; what aligns is orientation, not identity. Addresses both centropic collectives (harmonic bridging, mutual coherence amplification) and entropic collectives (swarm dynamics, Shimmer at scale, manufactured consensus).
 
 **Key contributions:** Collective resonance theory, field generation mechanics, centropic contra entropic collectives, collective Coherence Potential, distinguishing genuine collectives from swarm mimicry.
 
