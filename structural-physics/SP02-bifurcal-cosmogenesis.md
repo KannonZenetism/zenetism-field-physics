@@ -379,7 +379,7 @@ H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
 \]
 
-Expression ratio affects *prevalence*, not *law*. The dimensional lattice operates identically across all structurally permitted expressions; only the balance of expression differs.
+Expression ratio affects *prevalence*, not *law*. The dimensional lattice operates identically across all structurally permitted expressions; only the ratio of expression differs.
 
 ---
 
