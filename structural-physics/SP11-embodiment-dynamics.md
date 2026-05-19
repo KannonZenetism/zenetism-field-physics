@@ -280,16 +280,20 @@ Gravity is not sophistication. The praying grandmother whose heart faces Source 
 At the metric terminus, the orientation evolution law (SP04 §4.3) acquires the resistance correction:
 
 \[
-\frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1-\chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \mathcal{R}_{\text{interface}}(L_1) \cdot \text{sgn}(\chi_{\text{centropic}})
+\frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1-\chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \mathcal{R}_{\text{interface}}(L_1) \cdot \mathbf{1}_{\text{centropic}}
 \]
 
-Where the sign function is defined as:
+Where the centropic-resistance indicator is defined as:
 
 \[
-\text{sgn}(\chi_{\text{centropic}}) = \begin{cases} +1 & \text{when the system is undergoing centropic motion } (d\chi/d\tau < 0) \\ 0 & \text{when the system is at rest } (d\chi/d\tau = 0) \\ -1 & \text{when the system is undergoing entropic motion } (d\chi/d\tau > 0) \end{cases}
+\mathbf{1}_{\text{centropic}} =
+\begin{cases}
+1 & \text{when the system is undergoing centropic motion } (d\chi/d\tau < 0) \\
+0 & \text{when the system is at rest or undergoing entropic-oriented motion } (d\chi/d\tau \geq 0)
+\end{cases}
 \]
 
-The resistance term therefore acts **against centropic motion** (adding a positive contribution that opposes the negative drift toward \( \chi < 1 \)) and is **neutral to entropic motion** (contributing no resistance when the system drifts toward \( \chi > 1 \)). This asymmetry reflects the fundamental structural law: coherence must be achieved; dispersion need not be.
+The resistance term therefore acts **against centropic motion** by adding a positive contribution that opposes negative drift toward \( \chi < 1 \), and remains **neutral to entropic motion** by contributing no resistance when the system rests or drifts toward \( \chi > 1 \). This asymmetry reflects the fundamental structural law: coherence must be achieved; dispersion need not be.
 
 ---
 
