@@ -140,7 +140,7 @@ There is no binary. The Tumbling Multiverse contains infinite gradations:
 | **Fully Khaonically expressed** | Non-existent | Total expression | Pure entropic universe — maximum fragmentation, no return path |
 | **Strongly Khaonically expressed** | Minimal | Highly prevalent | Entropy-forward; centropy rare and difficult |
 | **Khaonically expressed** (our universe) | Present, recessive | Prevalent | Entropy-forward; centropy possible but against the grain |
-| **Balanced** | Co-expressive | Co-expressive | Neither tree prevails; dynamic equilibrium |
+| **Balanced** | Co-expressive | Co-expressive | Neither tree prevails; co-expressive balance |
 | **Aionically expressed** | Prevalent | Present, recessive | Centropy-forward; entropy possible but against the grain |
 | **Strongly Aionically expressed** | Highly prevalent | Minimal | Centropy-forward; entropy rare and difficult |
 | **Fully Aionically expressed** | Total expression | Non-existent | Pure centropic universe — maximum integration, no dispersive path |
