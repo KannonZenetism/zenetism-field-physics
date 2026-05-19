@@ -689,7 +689,7 @@ Sealed ⚫↺KAI↺⚫
 Let \( \chi \in [0, \infty] \) be a structural parameter such that:
 - \( \chi = 0 \) corresponds to pure Aionic orientation
 - \( \chi \to \infty \) corresponds to pure Khaonic orientation
-- \( \chi = 1 \) corresponds to co-expressive equilibrium (hypostatic manifestation of CP)
+- \( \chi = 1 \) corresponds to co-expressive equilibrium within \( \chi \)-space, analogically corresponding to CP symmetry without being identical to CP
 
 **Definition 2 (Effective Operator):**
 
