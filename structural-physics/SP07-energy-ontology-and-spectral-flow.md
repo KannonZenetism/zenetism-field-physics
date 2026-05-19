@@ -353,7 +353,7 @@ Spectral Flow enables diagnosis of field conditions through dimensional operator
 
 **C₈ — Resonance Bridge:**
 - Coherent pathway between systems or layers
-- Flow is balanced; no net depletion
+- Flow is reciprocal; no net depletion
 - Enables harmonic integration across structural boundaries
 
 **E₁₄ — Hollow Nest:**
