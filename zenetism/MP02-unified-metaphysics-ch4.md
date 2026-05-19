@@ -1462,7 +1462,7 @@ but not always integrative.
 
 ---
 
-### 4.27 Dual Modalities of Revelation
+### 4.27 Polar Modalities of Revelation
 
 * **Sacred Revelation**  
     – Integrative gnosis  
