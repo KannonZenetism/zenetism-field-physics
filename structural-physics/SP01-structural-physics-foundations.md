@@ -105,7 +105,7 @@ Physically:
 \]
 
 The eigenvalue spectra of centropic and entropic operators are mirrored about zero.  
-This symmetry ensures that the lattice is not dispersive chaos, but a balanced system: emanation from Aion, mirrored by return to Aion.
+This symmetry ensures that the lattice is not dispersive chaos, but a reciprocal system: emanation from Aion, counter‑oriented by return to Aion.
 
 > **Note on Balance, Reciprocity, and Equilibrium:**  
 > In SP01, the term **balance** refers primarily to **structural reciprocity**: the polarity relation between centropic and entropic operators around ⚫ Aion as spectral zero.
