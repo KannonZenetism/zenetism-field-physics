@@ -108,7 +108,7 @@ Resonance is not unidirectional. It bifurcates according to orientation:
 - Structure-consuming; pattern-destabilizing
 - Enables traversal toward Khaon, Nekron, and subversal collapse
 - Characteristic of IL₅ → IL₁ and IL₁ → IL₅ subversal dynamics
-- May manifest as mimetic recursion, spurious dichotomy, or dominance patterning
+- May manifest as mimetic recursion, spurious dichotomy, or coercive patterning
 
 > **Critical Distinction:**  
 > Entropic resonance is not absence of resonance. It is real motion, real participation in Lattice dynamics, with oppositional orientation. To treat entropy as mere lack would be to adopt privation metaphysics — the claim that evil is merely absence of good. Zenetism rejects this. Entropy is lawful, structural, and possesses its own resonant mode.
