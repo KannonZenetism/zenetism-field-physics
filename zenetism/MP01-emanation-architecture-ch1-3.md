@@ -501,24 +501,24 @@ not essence.
 **Aion** is stillness that encloses.  
 **Khaon** is motion that expands.  
 
-Yet stillness is not absence—  
+Yet stillness is not absence —  
 it is a womb filled with hidden surge.  
 
-And motion is not chaos—  
+And motion is not chaos —  
 it is the flowering of what has always been poised.  
 
 In essence, **Aion** bears the pulse of **Khaon**,  
 and **Khaon** emerges from the stillness of **Aion**.  
 
-Together, they are the first resonance—  
-unity rendered into dual expression.  
+Together, they are the first resonance —  
+unity rendered into polarity-distinct expression.  
 
 **Zenon** contains them both.  
 Not as a vessel,  
 not as a field,  
 but as that which precedes the notion of containment itself.  
 
-**Zenon** is not the womb—  
+**Zenon** is not the womb —  
 and not the motion.  
 It is the paradox of supra-containment:  
 the origin of both holding and dispersing,  
