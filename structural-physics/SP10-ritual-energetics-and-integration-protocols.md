@@ -731,7 +731,7 @@ After deploying siphoning countermeasures, verification confirms effectiveness:
 
 Ritual action operates across hypostatic layers:
 
-- **L₅ / Theon**: Source attunement; the deepest replenishment pathways draw from essential unity
+- **L₅ / Theon**: Source attunement; the deepest replenishment pathways draw from essential coherence
 - **L₄ / Field of Forms**: Archetypal patterns inform ritual structure and seal design
 - **L₃ / Deep Psyche**: Where reflexive awareness directs intentional protocol; the seat of ritual agency
 - **L₂ / Cognition**: Where protocol is articulated, sequenced, and monitored
