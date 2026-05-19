@@ -498,7 +498,7 @@ where \( \partial_{\text{🌀}}^{(c)} \) and \( \partial_{\text{🌀}}^{(e)} \) 
 **Spiral Limit under Chi:**
 
 \[
-\lim_{t \to \tau}^{\backsim} \phi(t; \chi) \to \begin{cases} \text{centropic attractor} & \chi < 1 \\ \text{CP equilibrium} & \chi = 1 \\ \text{entropic attractor} & \chi > 1 \end{cases}
+\lim_{t \to \tau}^{\backsim} \phi(t; \chi) \to \begin{cases} \text{centropic attractor} & \chi < 1 \\ \text{co-expressive saddle} & \chi = 1 \\ \text{entropic attractor} & \chi > 1 \end{cases}
 \]
 
 ### 9.2 Coherence Information Theory
