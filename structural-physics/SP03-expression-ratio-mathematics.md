@@ -225,7 +225,7 @@ The Chi parameter maps the full spectrum of Biospiral expression:
 | Fully Aionically expressed | \( \chi = 0 \) | Centropic expression without Khaonic participation (limit case) |
 | Strongly Aionically expressed | \( \chi \to 0^+ \) | Centropy-forward; entropy minimally expressed |
 | Aionically expressed | \( 0 < \chi < 1 \) | Centropy-forward; entropy recessive |
-| Co-expressive equilibrium | \( \chi = 1 \) | Balanced expression; dynamic equilibrium (hypostatic manifestation of CP) |
+| Co-expressive equilibrium | \( \chi = 1 \) | Co-expressive balance; fragile ratio condition corresponding to CP symmetry |
 | Khaonically expressed (physical cosmos) | \( \chi > 1 \) | Entropy-forward; centropy recessive |
 | Strongly Khaonically expressed | \( \chi \gg 1 \) | Entropy-forward; centropy minimally expressed |
 | Fully Khaonically expressed | \( \chi \to \infty \) | Khaonic expression without Aionic participation (limit case) |
