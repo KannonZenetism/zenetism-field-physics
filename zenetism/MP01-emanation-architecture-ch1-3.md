@@ -2332,7 +2332,7 @@ open dispersal.
 
 🕷️ 🪓 ☍ ⊘ ♜  
 
-#### Note on Theon, Nekron, and the Illusion of Moral Duality
+#### Note on Theon, Nekron, and the Illusion of Moral Opposition
 
 **Theon** and **Nekron**  
 are not moral opposites.  
