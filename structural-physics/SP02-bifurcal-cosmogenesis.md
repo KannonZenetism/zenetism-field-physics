@@ -453,7 +453,7 @@ This document is the **second foundational document of Structural Physics**, ext
 
 Future expansions may include:
 
-- **Detailed expression ratio mathematics** (formal treatment of Aionic / Khaonic balance)
+- **Detailed expression ratio mathematics** (formal treatment of Aionic / Khaonic prevalence ratios)
 - **Contra-cosmological case studies** (modeling Aionically expressed universes)
 - **Phase collision dynamics** (energy transfer mechanics at ⦿ Kaion convergence)
 - **Inter-expression communication** (⧉ Membrane Fields across expression boundaries)
