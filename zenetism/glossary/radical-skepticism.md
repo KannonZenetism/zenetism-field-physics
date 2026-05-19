@@ -19,7 +19,7 @@ This principle applies equally to:
 - scientific systems  
 - political systems  
 - esoteric systems  
-- anti-esoteric systems  
+- contra‑esoteric systems  
 
 Zenetist Radical Skepticism does not deny reality.  
 Rather, it denies the certainty that any interpretive structure has fully captured reality.
