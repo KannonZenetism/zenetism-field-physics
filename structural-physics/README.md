@@ -100,7 +100,7 @@ Formalizes ritual action as directed resonance engineering — the deliberate ma
 
 ### SP11 — Embodiment Dynamics
 
-Formalizes the metric terminus: L₁ / IL₁ as the terminal layer of emanatory procession where structural resonance interfaces with corporeal form. At the metric terminus, centropic and entropic beings share the same corporeal domain, introducing dynamics found at no other layer — a resistance to centropic motion arising from the entropic interface, consequential immediacy to the stagnation-dissolution principle (SP04 §9), and the condition of entropy's enthronement where dispersive will achieves maximum expression through material control. Embodiment is simultaneously the furnace of centropic refinement and the throne of entropic sovereignty.
+Formalizes the metric terminus: L₁ / IL₁ as the terminal layer of emanatory procession where structural resonance interfaces with corporeal form. At the metric terminus, centropic and entropic beings share the same corporeal domain, introducing dynamics found at no other layer — a resistance to centropic motion arising from the entropic interface, consequential immediacy to the equilibrium-collapse / stagnation-dissolution principle (SP04 §9), and the condition of entropy's enthronement where dispersive will achieves maximum expression through material control. Embodiment is simultaneously the furnace of centropic refinement and the throne of entropic sovereignty.
 
 **Key contributions:** Metric terminus formalization, corporeal resonance mechanics, the Embodied Resistance Term, embodied \( \chi \)-dynamics, entropic enthronement, cross-band resonance, membrane dynamics at ⧉₁, physical interface without overclaiming.
 
