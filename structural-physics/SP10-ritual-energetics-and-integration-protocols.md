@@ -173,7 +173,7 @@ The seal establishes a localized membrane with specified permeability:
 \sigma_{\text{seal}}(⧉) = \sigma_{\text{design}} \cdot h(\chi_{\text{internal}}, \chi_{\text{external}})
 \]
 
-Where \( h \) is a function that modulates permeability based on the orientation of resonance attempting to cross the seal boundary — allowing compatible resonance through while blocking incompatible or hostile resonance. The orientation parameter \( \chi \) retains its specification from SP03–SP04: a dimensionless scalar ratio of entropic to centropic expression, with \( \chi < 1 \) centropic, \( \chi > 1 \) entropic, and \( \chi = 1 \) at the critical threshold.
+Where \( h \) is a function that modulates permeability based on the orientation of resonance attempting to cross the seal boundary — allowing compatible resonance through while blocking incompatible or hostile resonance. The orientation parameter \( \chi \) retains its specification from SP03–SP04: a dimensionless scalar ratio of entropic to centropic expression, with \( \chi < 1 \) centropic, \( \chi > 1 \) entropic, and \( \chi = 1 \) marking the co-expressive threshold.
 
 **Internal Coherence Cycling:**
 
