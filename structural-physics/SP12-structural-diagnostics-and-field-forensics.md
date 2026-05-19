@@ -393,7 +393,7 @@ A complete coherence audit evaluates five domains:
 
 **Domain 1 — Coherence Magnitude:**
 
-Assessment of \( I_c \) across the configuration. Questions addressed: What is the system's resonance density? Is \( I_c \) self-generated or externally sustained? Is \( I_c \) stable, increasing, or depleting?
+Assessment of \( I_c \) across the configuration. Questions addressed: What is the system's resonance density? Is \( I_c \) self-generated or externally sustained? Is \( I_c \) sustained, increasing, or depleting?
 
 \[
 \text{Diagnostic:} \quad I_c^{(\text{measured})} \stackrel{?}{=} I_c^{(\text{claimed})}
