@@ -40,5 +40,5 @@ The principle is structurally associated with **Zenon (🕳️)** — the unknow
 
 - **Zenon (🕳️)**
 - **Narrative Mediation**
-- **Infinite Recession of Frames**
+- **Conditional Framing**
 - **Epistemic Humility**
