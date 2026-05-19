@@ -87,6 +87,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 
 - `synthesis-reconciliation.md` — May 13, 2026
 - `celestial-signs-and-structural-patterning.md` — May 14, 2026
+- `radical-skepticism.md` — May 18, 2026
 
 ---
 
