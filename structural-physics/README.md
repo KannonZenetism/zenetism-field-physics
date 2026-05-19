@@ -28,7 +28,7 @@ The foundational document. Bridges the five other Zenetist disciplines to the ph
 
 ### SP02 — Bifurcal Cosmogenesis
 
-Where SP01 describes how Structural Physics operates, SP02 addresses where it operates: the full multiversal context. Establishes the Tumbling Multiverse as structurally anticipated, not axiomatic, Biospiral Expression Ratios as the governing variable across universes, contra-flow dynamics (contra-matter, contra-particles, contra-temporal motion) as proper Zenetist terminology, phase collision as convergence at ⦿ Kaion (not annihilation), and the asymmetry resolution — matter / contra-matter ratios as local expression conditions, not universal law.
+Where SP01 describes how Structural Physics operates, SP02 addresses where it operates: the full multiversal context. Establishes the Tumbling Multiverse as structurally anticipated (not axiomatic), Biospiral Expression Ratios as the governing variable across universes, contra-flow dynamics (contra-matter, contra-particles, contra-temporal motion) as proper Zenetist terminology, phase collision as convergence at ⦿ Kaion (not annihilation), and the asymmetry resolution — matter / contra-matter ratios as local expression conditions, not universal law.
 
 **Key contributions:** Tumbling Multiverse, Biospiral Expression Ratios, contra-flow dynamics, phase collision at Kaion, asymmetry resolution, Bifurcal Coherence, the Non-Fusion Axiom.
 
