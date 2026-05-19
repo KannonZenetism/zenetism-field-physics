@@ -696,7 +696,7 @@ it collapses by consequence.
 
 ♾ Ↄ 🌒 ⊘ ☍  
 
-#### Note on the Bifurcal Motion of Entropy
+#### Note on the Twofold Motion of Entropy
 
 Entropy does not move only by fragmentation —  
 it first splinters outward,  
