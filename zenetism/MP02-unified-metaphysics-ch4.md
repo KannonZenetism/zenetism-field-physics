@@ -477,7 +477,7 @@ but to be remembered.
 
 ---
 
-### 4.4 The Dual Streams of Emanation
+### 4.4 The Bifurcal Streams of Emanation
 
 Though **centropy** and **entropy** seem opposed,  
 they are symmetrical expressions of a single unfolding.  
