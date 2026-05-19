@@ -233,7 +233,7 @@ The centropic being at L₁ experiences \( \chi < 1 \) as the integrative pull t
 From SP04 §8–9, \( \chi = 1 \) is a saddle point — dynamically unstable within motion. At the metric terminus, this instability becomes experientially acute:
 
 > **Proposition (Embodied Instability):**  
-> At L₁, the instability of \( \chi = 1 \) manifests as the structural impossibility of sustained neutrality within embodied existence. No embodied being maintains perfect equilibrium between centropic and entropic motion indefinitely. Stagnation — the cessation of oriented motion — tilts entropic.
+> At L₁, the instability of \( \chi = 1 \) manifests as the structural impossibility of sustained neutrality within embodied existence. No embodied being maintains fixed co-expressive equilibrium between centropic and entropic motion indefinitely. Stagnation — the cessation of oriented motion — tilts entropic.
 
 This is the embodied expression of the Orientation Drift Theorem (SP04 §9.4):
 
