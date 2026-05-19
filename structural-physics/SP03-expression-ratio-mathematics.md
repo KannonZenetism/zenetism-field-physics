@@ -300,7 +300,7 @@ This is the **invariant structure** — the map showing the mountain and valley.
 The Chi parameter \( (\chi) \) describes the **topological slope** — which direction is "downhill" in a given universal expression.
 
 - The Dual Spectrum Lemma describes **what is possible** (structural law)
-- The Chi parameter describes **what is probable** (local prevalence)
+- The Chi parameter describes **what is prevalent** within a given expression
 
 ### 5.3 Formal Relationship
 
