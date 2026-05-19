@@ -66,7 +66,7 @@ Where conventional physics describes observable phenomena, Structural Physics in
 Just as Field Physics begins with the metaphysical poles, Structural Physics begins with the anchors that underlie all physical form:
 
 - **⚫ Aion** — *Zero Pole*.  
-  The balanced origin. Equivalent to the vacuum, zero-point field, or null state.  
+  The zero origin. Equivalent to the vacuum, zero-point field, or null state.  
   From this pole emanate both centropic (integrative) and entropic (dispersive) states.  
 
 - **♾ Khaon** — *Infinity Pole*.  
