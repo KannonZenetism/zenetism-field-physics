@@ -32,7 +32,7 @@ The question is therefore not merely whether a belief is persuasive, but whether
 
 Human societies organize themselves through narratives.  
 
-These narratives may contain partial truths, symbolic insights, practical functions, or genuine observations, yet they remain interpretive constructions rather than direct access to ontology itself.
+These narratives may contain partial verities, symbolic insights, practical functions, or genuine observations, yet they remain interpretive constructions rather than direct access to ontology itself.
 
 This applies equally to:
 
