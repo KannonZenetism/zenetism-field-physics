@@ -85,7 +85,7 @@ Zenetist thought holds that every centropic state has an entropic mirror, just a
 
 - **Centropic states (Cᵢ)** act as integrative operators.  
 - **Entropic complements (Eᵢ)** act as hollow or dispersive operators.  
-- **Aion (⚫)** stands at the center as the spectral zero — the balance of emanation and return.  
+- **Aion (⚫)** stands as the spectral zero — the reference point around which emanation and return are reciprocally arrayed.  
 
 Mathematically:
 
