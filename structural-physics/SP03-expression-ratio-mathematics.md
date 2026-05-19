@@ -231,7 +231,7 @@ The Chi parameter maps the full spectrum of Biospiral expression:
 | Fully Khaonically expressed | \( \chi \to \infty \) | Khaonic expression without Aionic participation (limit case) |
 | Non-bifurcated expression | \( \chi \) undefined | Systems not instantiating the L₀ bifurcation |
 
-### 4.3 CP as the Balance Point
+### 4.3 CP and the Co-Expressive Coordinate
 
 At \( \chi = 1 \), the system achieves **co-expressive equilibrium** — where neither centropic nor entropic expression prevails.
 
