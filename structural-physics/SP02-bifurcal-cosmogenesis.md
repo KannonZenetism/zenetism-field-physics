@@ -467,7 +467,7 @@ Future expansions may include:
 **Closing Statement:**  
 The cosmos may not be one universe but infinite expressions of the same structural law.  
 Centropy and entropy spiral through every permitted ratio, from fully Aionic to fully Khaonic.  
-What appears as asymmetry here is balance elsewhere — if elsewhere exists.  
+What appears as asymmetry here may be co-expression elsewhere — if elsewhere exists.  
 What appears as annihilation is convergence.  
 The Tumbling Multiverse anticipates all possibilities — and Structural Physics reads them all.
 
