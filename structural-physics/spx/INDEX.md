@@ -20,6 +20,9 @@ These entries represent non-sequential clarifications, expansions, and technical
 ### May 2026
 
 - `biological-form-and-embodied-coherence.md` — May 14, 2026
+- `structural-anticipation-contra-empirical-necessity.md` — May 19, 2026
+- `structural-empirical-interface.md` — May 19, 2026
+- `balance-reciprocity-equilibrium-and-dynamic-stabilization.md` — May 19, 2026
 
 ---
 
