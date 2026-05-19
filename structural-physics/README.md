@@ -38,7 +38,7 @@ Where SP01 describes how Structural Physics operates, SP02 addresses where it op
 
 Provides the mathematical formalism for expression ratios — the structural parameter governing how centropic and entropic motion manifest across different universal expressions. Introduces the Chi orientation parameter \( \chi \), the effective harmonic operator, weighted spectral theory, and the relationship between the Dual Spectrum Lemma (invariant structure) and expression ratio (topological slope). Establishes the role of Motive Infinity as the pre-bifurcal field of all motion and CP (Convergence Principle) as the closure condition of the pre-hypostatic requisites.
 
-**Key contributions:** Chi orientation parameter, effective operator, spectral rotation function, orientation weights, motion conditions, Motive Infinity, Convergence Principle.
+**Key contributions:** Chi orientation parameter, effective operator, orientation weights, motion conditions, Motive Infinity, Convergence Principle.
 
 ---
 
