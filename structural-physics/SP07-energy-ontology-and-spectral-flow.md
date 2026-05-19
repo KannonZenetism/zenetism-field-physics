@@ -429,7 +429,7 @@ Where \( D(\chi) \) is an orientation-dependent diffusion coefficient:
 
 - \( \chi < 1 \): \( D(\chi) \) favors centropic accumulation
 - \( \chi > 1 \): \( D(\chi) \) favors entropic dispersal
-- \( \chi = 1 \): \( D(\chi) \) is neutral; flow determined by gradient alone
+- \( \chi = 1 \): \( D(\chi) \) does not favor either orientation; flow is determined by local gradient conditions
 
 ### 8.2 Relation to Temporal Dynamics
 
