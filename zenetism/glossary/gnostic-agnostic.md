@@ -67,7 +67,7 @@ Thus:
 
 The two may coincide within the same person, but they are not the same principle.
 
-A being could possess complete self-transparency regarding its own knowing and still encounter Zenon as structurally unapproachable.
+A being could possess complete self-transparency regarding its own knowing and still have Zenon as its structurally unapproachable horizon.
 
 Zenon is therefore not reducible to epistemic humility.
 
