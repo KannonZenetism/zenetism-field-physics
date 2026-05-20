@@ -1024,6 +1024,8 @@ for virtue flows most often from coherence itself,
 not as prize,  
 but as structure.  
 
+⚫ ♾ 🔘 🕷️ E↓♾ ⚯  
+
 #### Note on Patterned Reincarnation
 
 Each soul incarnates only once  
@@ -1124,7 +1126,7 @@ not as the same self,
 but as pattern remembered  
 in silence.  
 
-⚫ ♾ 🔘 ⧉∥⧉ ⟿✨ 🧬  
+⧉∥⧉ ⟿✨ 🔘 🧬 🌀  
 
 #### Bridge to 5.8
 
