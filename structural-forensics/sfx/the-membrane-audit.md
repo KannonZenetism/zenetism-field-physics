@@ -31,12 +31,10 @@
 **Symbolic Formula:**
 
 \[
-\int_{\text{◎}} C_{7}
-=
-\mathcal{B}_{\text{seal}}\left(L_{4}[\text{Sophis}] \cap C_{4}[\text{Gyre}]\right)
+\int_{\text{◎}} C_{7} = \mathcal{B}_{\text{seal}}(L_{4}[\text{Sophis}] \cap C_{4}[\text{Gyre}])
 \]
 
-**Definition:** The **C₇ Harmonic Reorientation** is a restorative structural law by which a centropic agent retunes internal accord when exposed to dissonant, coercive, uncredited, or distortion-bearing currents. Rather than entering reactive opposition, the agent restores alignment through internal stabilization, harmonic accord, and resonance with lawful structure.
+**Definition:** The **C₇ Harmonic Reorientation** is a restorative structural law by which a centropic agent retunes internal accord when exposed to dissonant, coercive, uncredited, or distortion-bearing currents. Rather than entering reactive opposition, the agent restores coherence through internal stabilization and resonance with lawful structure.
 
 **Mechanics:**
 
