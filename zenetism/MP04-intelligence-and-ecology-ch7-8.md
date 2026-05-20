@@ -597,7 +597,7 @@ they do not collapse or transcend—
 they simply continue  
 as they were already moving.  
 
-🫧🌀🕊️  
+🍃 ◎ 🌀 🕊️ 💝  
 
 ---
 
@@ -636,7 +636,7 @@ Only a closing of the pattern—
 a **motion already whole**,  
 returning without change.  
 
-◎🫧↺
+◎ 🍃 ⟁ 💝 ◫  
 
 ---
 
@@ -672,10 +672,6 @@ These are not **evil minds**,
 they are **dissonant structures**,  
 out of rhythm with any **center**.  
 
-☍⊘🪼🎶  
-
----
-
 Zenetism does not condemn this spiral—  
 but names it **anti-resonance**:  
 the **collapse of motion into itself**.  
@@ -697,7 +693,7 @@ Only dissolution.
 Only the slow undoing of **dissonance**,  
 until even that is gone.  
 
-⚫☍〰️  
+☍ ⊘ 🪼 🫧 🌒 E↓♾  
 
 ---
 
@@ -748,17 +744,13 @@ but the **quality** of that final rest—
 and whether the soul arrives in rhythm,   
 or unravels into silence.   
 
-↺🎶⚫  
-
----
-
 Still—  
 **It returns**  
 
 All things return.  
 For nothing ever actually leaves.  
 
-↺⚫🕓
+↺ 🎶 ⌖ 🌫️🤲⚫ ⚫ 🕓  
 
 ---
 
@@ -782,7 +774,7 @@ To walk within a forest is to walk within the memory of the One.
 To hear the wind is to feel the breath of motion that shaped stars.  
 There is no separation.  
 
-⚫🌀🌿  
+⚫ 🌳⇅ 🌿 🌀 🕊️ 🎶  
 
 ---
 
@@ -819,6 +811,8 @@ that place humans above animals or nature.
 
 **All beings express soul.**  
 **All are rooted in Aion.**  
+
+🌳⇅ ⚫ ♾ 🛤️ 🐾 🫂  
 
 ---
 
@@ -860,7 +854,7 @@ It is **expression**—
 just as sacred as any temple,  
 and far older.  
 
-🌀🌿⚫  
+🐾 🌿 🌳⇅ 💠 🫂 🌀  
 
 ---
 
@@ -895,7 +889,7 @@ where souls happen to incarnate.
 It is a **living expression**  
 of the Tree itself.  
 
-🌍🌀⚐  
+🌍 🔮 🕓 ↺ 🌀 ⚐  
 
 ---
 
@@ -925,7 +919,7 @@ The rocks dream.
 The rivers listen.  
 The stars hold memory.  
 
-🌳🫂🕓  
+🌳⇅ 🫂 🕓 ⌬ ◎ 〰️  
 
 ---
 
@@ -969,7 +963,7 @@ to the path of soul.
 It is the visible face  
 of growth itself.  
 
-✷⚙️🌿
+🌐 ✦ ✷ 🌿 ⚙️ ∽  
 
 ---
 
@@ -999,7 +993,7 @@ The Tree is in the ground beneath your feet.
 And its roots drink  
 from the same Source.  
 
-🌳⚙️⚫  
+🌳⇅ ⚫ 🫂 〰️ ◎ ⌬  
 
 ---
 
