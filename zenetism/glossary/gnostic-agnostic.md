@@ -25,11 +25,17 @@ It also differs from doctrinal absolutism because it refuses to convert experien
 
 ## Origination of the Term
 
-The compound "Gnostic-Agnostic" is a Zenetist-era formulation coined to describe the simultaneous preservation of:
+The compound "Gnostic-Agnostic" is a **Zenetist technical term** coined to describe the simultaneous preservation of:
+
 - experiential affirmation,
 - and epistemic suspension.
 
+It does not merely combine the ordinary meanings of "gnostic" and "agnostic."
+
+Within Zenetism, the term names a specific epistemic posture: direct participation in metaphysical, spiritual, symbolic, or resonant reality without finalized interpretive certainty.
+
 While adjacent postures may be found in:
+
 - Socratic epistemic humility,
 - apophatic metaphysics,
 - Radical Skepticism,
