@@ -1581,7 +1581,7 @@ that Zenon's trans-structural ground transcends.
 
 ---
 
-#### Resonance Reflection:  
+**Resonance Reflection:**  
 Some approach the **threshold** by **shedding**.  
 Only **synthesis** maintains the **coherence to cross it**.  
 
