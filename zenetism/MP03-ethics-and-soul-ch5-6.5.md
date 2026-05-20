@@ -1321,7 +1321,7 @@ not choosing one over the other,
 but **recognizing their fundamental unity**.  
 
 This recognition cannot emerge from **negation alone**,  
-for **negation** still operates within **duality**  
+for **negation** still operates within **bifurcation**  
 (this/not-this, form/formless, motion/stillness).  
 
 The final approach to **Zenon** requires **synthesis** —  
