@@ -139,7 +139,7 @@ Let us follow that unfolding.
 ### 5.1 Morality Is Relative to Consciousness
 
 **Morality does not originate in Zenon.**  
-Zenon lies beyond all dualities —  
+Zenon lies beyond all bifurcations —  
 beyond coherence and dissonance,  
 integration and collapse,  
 good and evil.  
