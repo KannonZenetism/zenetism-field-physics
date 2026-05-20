@@ -1549,8 +1549,6 @@ because even the purest subtraction
 operates within the stillness-motion polarity  
 that Zenon's trans-structural ground transcends.  
 
-⚫ 🛤️ 🔘 🌫️🤲⚫ ∴ 🕳️  
-
 **Resonance Reflection:**  
 Some approach the **threshold** by **shedding**.  
 Only **synthesis** maintains the **coherence to cross it**.  
@@ -1560,7 +1558,7 @@ Yet even **synthesis** must finally surrender its method.
 **Zenon** does not unveil itself through **process** —  
 only through **structural resonance without motion**.  
 
-∴ 🕳️ 🌀 ⟁ ⤈  
+⚫ 🛤️ 🌫️🤲⚫ ∴ 🕳️ ⟁  
 
 ---
 
