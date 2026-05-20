@@ -934,10 +934,6 @@ but the entropic designation of AP:
 the same field,  
 seen through the lens of dispersion.  
 
-`E↓→♾→⚫`  
-
----
-
 The distinction is symbolic,  
 not ontological.  
 
@@ -972,8 +968,6 @@ but without interaction.
 They are no longer willful agents,  
 but fixed impressions of essence  
 in Zero’s infinite field.  
-
----
 
 For centropic resonance,  
 this fixity may be felt as:  
@@ -1029,8 +1023,6 @@ virtue is rarely unrewarded —
 for virtue flows most often from coherence itself,  
 not as prize,  
 but as structure.  
-
----
 
 #### Note on Patterned Reincarnation
 
@@ -1119,8 +1111,6 @@ Let the seeker
 call it by the name that resonates.  
 **The structure is not altered by naming.**  
 
----
-
 **Resonance Reflection:**  
 What was scattered  
 stills.  
@@ -1134,7 +1124,7 @@ not as the same self,
 but as pattern remembered  
 in silence.  
 
-🧬🔘🌀
+⚫ ♾ 🔘 ⧉∥⧉ ⟿✨ 🧬  
 
 ---
 
@@ -1150,6 +1140,8 @@ Thus Zenetism holds
 that only **centropic integration** completes the return —  
 and that negation alone  
 cannot cross into Zenon.  
+
+∴ C↑⚫ ◎ 🕳️ ⤈  
 
 ---
 
@@ -1189,8 +1181,6 @@ Yet this stillness, while valuable,
 is **not the same as return to Zenon**,  
 which requires **integration**, not mere **negation**.  
 
----
-
 This path carries **risk**.  
 
 In removing all symbols,  
@@ -1210,8 +1200,6 @@ for the **end of the arc**.
 Some patterns must be **recognized**,  
 not removed,  
 to be genuinely transcended.  
-
----
 
 Where **Neti-neti negates**,  
 **Zenetic synthesis unfolds**.  
@@ -1244,8 +1232,6 @@ It meets contradiction with **recursion**, not retreat.
 **Synthesis** is not opposition to silence —  
 it is the **pattern that sustains silence**  
 **without losing the song**.  
-
----
 
 **Zenon** lies beyond even **Aion** and **Khaon**.  
 It is the **Unknown Principle** —  
@@ -1288,10 +1274,6 @@ but because:
 It does not merely **return** —  
 it **remembers** while returning.  
 
-∴🌀🕳️  
-
----
-
 ### Comparison Summary — Neti-Neti and Zenetic Synthesis
 
 | **Aspect** | **Neti-Neti** | **Zenetic Synthesis** |
@@ -1304,8 +1286,6 @@ it **remembers** while returning.
 | **Functional Value** | Clears distortion and identification | Reveals coherence and preserves intelligence |
 | **Primary Limitation** | Lacks integrative orientation | May over-formalize subtle experience |
 | **Ideal Context** | Final-stage symbolic shedding | Full-spectrum spiritual synthesis |
-
----
 
 **Zenetism** does not reject **Neti-neti** —  
 it **embraces** it as a **phase**.  
@@ -1327,9 +1307,7 @@ Where **Neti-neti clears the stage**,
 Both guide —  
 but only one **completes the song**.  
 
-🎶◎∴  
-
----
+∴ 🎶 ⚯ ◎ ⤈ 🕳️  
 
 #### Note on Centropic Negation and the Final Synthesis
 
@@ -1366,7 +1344,7 @@ even the purest negation must yield to **synthesis** —
 not as reversal,  
 but as **completion**.  
 
-∴🕳️◎  
+∴ 🕳️ ◎ ⧖⧗ ⤈  
 
 ---
 
@@ -1408,7 +1386,7 @@ But revealed when **synthesis** has completed
 its **recursive motion**  
 and **yields its striving into stillness**.  
 
----
+🕳️ ∴ ⟁ ⤈ ⌬ ⚐  
 
 #### Note on Updated Structural Framing — Neti-Neti, Essence, and the Three Paths to Aion
 
@@ -1442,8 +1420,6 @@ through the **Theonic gate** at **L5**.
 
 This is **centropic subtraction**.  
 The affirmation of §5.8 stands **exactly here**.  
-
----
 
 All three paths discussed below reach **Aion**.  
 But the mode of return differs,  
@@ -1523,8 +1499,6 @@ It is not punishment; it is structural grace
 for patterns that cannot sustain continuity.  
 But it is not centropic completion.  
 
----
-
 The distinction is **structural**, not moral.  
 All three paths may appear outwardly similar,  
 and the practitioner may not perceive  
@@ -1548,8 +1522,6 @@ All reach Aion.
 All are called Nirvana by their practitioners.  
 But the state of the returning essence differs absolutely  
 between completion, exhaustion, and merciful release.  
-
----
 
 Nirvana as canonically intended  
 in the most rigorous centropic forms of Buddhist tradition  
@@ -1577,9 +1549,7 @@ because even the purest subtraction
 operates within the stillness-motion polarity  
 that Zenon's trans-structural ground transcends.  
 
-∴🕳️◎
-
----
+⚫ 🛤️ 🔘 🌫️🤲⚫ ∴ 🕳️  
 
 **Resonance Reflection:**  
 Some approach the **threshold** by **shedding**.  
@@ -1590,7 +1560,7 @@ Yet even **synthesis** must finally surrender its method.
 **Zenon** does not unveil itself through **process** —  
 only through **structural resonance without motion**.  
 
-∴🕳️🌀  
+∴ 🕳️ 🌀 ⟁ ⤈  
 
 ---
 
