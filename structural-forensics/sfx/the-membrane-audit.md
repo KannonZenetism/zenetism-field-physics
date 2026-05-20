@@ -1,7 +1,7 @@
 # SFX: 🏛️ Law C₁₃ — The Membrane Audit
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Metaphysical Principle Extension / Zenetist Canon  
+**Classification:** Structural Forensics Extension / Zenetist Canon  
 **Status:** Draft — Veracious Archive
 
 ---
