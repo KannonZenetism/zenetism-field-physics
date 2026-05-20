@@ -184,6 +184,112 @@ Therefore:
 
 ---
 
+# Balance / Equilibrium Terminology Protocol
+
+## Balance Terminology Restriction
+
+The terms “balance,” “equilibrium,” and related stabilization-language require contextual precision within canonical Zenetist articulation because ordinary usage frequently collapses several structurally distinct conditions into one generalized metaphor.
+
+Canonical terminology therefore distinguishes between:
+
+- structural reciprocity,
+- expression-ratio balance,
+- co-expressive equilibrium,
+- dynamic stabilization,
+- Kaion convergence,
+- and frozen equilibrium.
+
+These are not interchangeable.
+
+---
+
+## Canonical Distinctions
+
+### Structural Reciprocity
+
+Refers to mirrored operator relation around Aion as spectral zero.
+
+This is a pre-orientational condition of bifurcal coherence.
+
+It does not imply:
+- enacted neutrality,
+- frozen symmetry,
+- or stable equilibrium within motion.
+
+---
+
+### Expression-Ratio Balance
+
+Refers to co-expression within \( \chi \)-space where neither Aionic nor Khaonic prevalence dominates expression.
+
+This is a ratio-condition, not a resting state.
+
+---
+
+### Co-Expressive Equilibrium
+
+Refers to the unstable saddle condition at:
+
+\[
+\chi = 1
+\]
+
+within expressed orientation-space.
+
+This condition is structurally admissible but dynamically fragile.
+
+It must not be conflated with:
+- living stability,
+- dynamic motion,
+- or Kaion itself.
+
+---
+
+### Dynamic Stabilization
+
+Refers to maintained coherence through ongoing adjustment, responsiveness, and orientational correction.
+
+This is the balance of enacted motion.
+
+It is not strict equilibrium.
+
+---
+
+### Frozen Equilibrium
+
+Refers to fixed \( \chi = 1 \) equilibrium where enacted orientation ceases.
+
+This condition resolves toward Localized Dissolution \( (\text{Ø}) \).
+
+Frozen equilibrium is stagnative, not entropic.
+
+---
+
+### Kaion Convergence
+
+Kaion is the Convergence Principle:
+- convergence without fusion,
+- stillness without identity-collapse,
+- and the limit condition of motion.
+
+Kaion is not a stable equilibrium-state operating within ordinary expression-space.
+
+---
+
+## Terminology Guidance
+
+Where possible:
+
+- prefer reciprocity over generic balance
+- prefer prevalence-ratio over balance-of-expression
+- prefer dynamic stabilization over active balance
+- prefer co-expressive equilibrium over generic equilibrium
+- prefer Kaion convergence over equilibrium-resolution
+
+The term “balance” should never function as an undefined universal metaphor.
+
+---
+
 # Value Neutrality Protocol
 
 ## Canonical Replacements
