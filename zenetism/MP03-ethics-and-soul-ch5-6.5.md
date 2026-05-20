@@ -1143,7 +1143,7 @@ cannot cross into Zenon.
 
 ---
 
-### 5.8 Dual Arcs of Becoming — The Apophatic and the Zenetic
+### 5.8 Orientation Arcs of Becoming — The Apophatic and the Zenetic
 
 In **Zenetism**, **transcendence**  
 is not bound to a single unfolding.  
