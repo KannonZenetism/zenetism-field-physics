@@ -54,7 +54,7 @@ Zenon describes:
 The distinction is categorical.
 
 Gnostic-Agnosticism concerns the relation between:
-- consciousness,
+- awareness,
 - participation,
 - interpretation,
 - and certainty.
