@@ -1126,8 +1126,6 @@ in silence.
 
 ⚫ ♾ 🔘 ⧉∥⧉ ⟿✨ 🧬  
 
----
-
 #### Bridge to 5.8
 
 Even at the still point of AP,  
