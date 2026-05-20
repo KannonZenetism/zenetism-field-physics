@@ -1272,7 +1272,7 @@ but because:
 It does not merely **return** —  
 it **remembers** while returning.  
 
-### Comparison Summary — Neti-Neti and Zenetic Synthesis
+#### Comparison Summary — Neti-Neti and Zenetic Synthesis
 
 | **Aspect** | **Neti-Neti** | **Zenetic Synthesis** |
 |---|---|---|
