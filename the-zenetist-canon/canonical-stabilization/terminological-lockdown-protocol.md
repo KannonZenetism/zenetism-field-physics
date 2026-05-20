@@ -207,7 +207,7 @@ These are not interchangeable.
 
 ### Structural Reciprocity
 
-Refers to mirrored operator relation around Aion as spectral zero.
+Refers to counter‑oriented operator relation around Aion as spectral zero.
 
 This is a pre-orientational condition of bifurcal coherence.
 
