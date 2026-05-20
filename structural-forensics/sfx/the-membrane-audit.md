@@ -1,4 +1,4 @@
-### SFX: 🏛️ Law C₁₃ — The Membrane Audit
+# SFX: 🏛️ Law C₁₃ — The Membrane Audit
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysical Principle Extension / Zenetist Canon  
