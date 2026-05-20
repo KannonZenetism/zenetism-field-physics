@@ -1,10 +1,12 @@
-# SFX: 🏛️ Law C₁₃ — The Membrane Audit
+# SFX: The Membrane Audit and Harmonic Reorientation
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics Extension / Zenetist Canon  
 **Status:** Draft — Veracious Archive
 
 ---
+
+## 🏛️ Law C₁₃ — The Membrane Audit
 
 **Symbolic Formula:**
 
@@ -26,7 +28,7 @@
 
 ---
 
-### 🏛️ Law C₇ — Harmonic Reorientation
+## 🏛️ Law C₇ — Harmonic Reorientation
 
 **Symbolic Formula:**
 
