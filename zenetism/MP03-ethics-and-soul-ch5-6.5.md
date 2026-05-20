@@ -1399,7 +1399,7 @@ what remains,
 and how the manner of apparent dissolution  
 shapes the **mode of return**.  
 
-**Genuine neti-neti** strips away aspects of oneself  
+**Genuine Neti-neti** strips away aspects of oneself  
 that are **not fundamental** —  
 identifications, concepts, attachments,  
 accretions of personality and belief —  
@@ -1430,7 +1430,7 @@ reach the same terminus through different arcs,
 with different experiential qualities of return.  
 
 **The centropic path.**  
-Genuine neti-neti, as affirmed above.  
+Genuine Neti-neti, as affirmed above.  
 Strips non-fundamental aspects while essence remains oriented toward Source.  
 Returns to **Aion** through the **L5 Theonic gate**  
 as **essence fulfilled** —  
@@ -1438,7 +1438,7 @@ completion of the full acclivous centropic arc at Aion.
 Reaches Aion's stillness as centropic completion;  
 does not, by subtraction alone, cross into **Zenon**.  
 Zenonic saturation requires the further integrative synthesis  
-that neti‑neti as subtractive method  
+that Neti-neti as subtractive method  
 cannot structurally perform (see §5.9).
 
 **The entropic path.**  
@@ -1537,7 +1537,7 @@ Both produce return to Aion,
 but not through completion.  
 
 **The affirmation of §5.8 stands**:  
-genuine neti-neti, stripping non-fundamental aspects  
+genuine Neti-neti, stripping non-fundamental aspects  
 while essence remains facing Source,  
 is centropic subtraction reaching Aion  
 through the Theonic arc.  
