@@ -1961,7 +1961,7 @@ They are its **living architecture**.
 Thus:  
 
 - **Deep Psyche** and **Deep Logos** (**DP / DL**)  
-  Are **the archetypal gods**.  
+  are **the archetypal gods**.  
 
 The realm of **archetypal form**  
 is inseparable from the deities who express it.  
@@ -2005,7 +2005,7 @@ Some **gods** arise within **impermanent hypostases**,
 and may dissolve when their structural field retracts—  
 especially those bound to:  
 
-- **Superficial layers** (**SS / SM**)   
+- **Superficial layers** (**SS / SM**)  
 - **Embodied layers** (**ES / EM**)  
 - Or **inverse strata** that never integrate into deeper permanence  
 
