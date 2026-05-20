@@ -77,7 +77,7 @@ It is a metaphysical condition of the architecture of being itself.
 
 ## Agnostic-Gnostic
 
-The inverse formulation, "Agnostic-Gnostic," emphasizes opacity within the knower's own relation to knowing.
+The contra‑formulation, "Agnostic-Gnostic," emphasizes opacity within the knower's own relation to knowing.
 
 This formulation recognizes that:
 - meaningful resonance may be present,
