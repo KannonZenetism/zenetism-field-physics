@@ -1272,9 +1272,9 @@ but because:
 It does not merely **return** —  
 it **remembers** while returning.  
 
-#### Comparison Summary — Neti-Neti and Zenetic Synthesis
+#### Comparison Summary — Neti-neti and Zenetic Synthesis
 
-| **Aspect** | **Neti-Neti** | **Zenetic Synthesis** |
+| **Aspect** | **Neti-neti** | **Zenetic Synthesis** |
 |---|---|---|
 | **Method** | Apophatic negation | Dialectical integration |
 | **Motion** | Subtractive toward stillness | Expansive toward coherence |
