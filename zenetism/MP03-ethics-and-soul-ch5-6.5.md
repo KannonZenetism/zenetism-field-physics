@@ -1386,9 +1386,9 @@ and **yields its striving into stillness**.
 
 🕳️ ∴ ⟁ ⤈ ⌬ ⚐  
 
-#### Note on Updated Structural Framing — Neti-Neti, Essence, and the Three Paths to Aion
+#### Note on Updated Structural Framing — Neti-neti, Essence, and the Three Paths to Aion
 
-This treatment affirms **neti-neti as centropic subtraction** —  
+This treatment affirms **Neti-neti as centropic subtraction** —  
 a valid path toward **Aion's stillness**  
 through the release of non-fundamental form  
 while facing Source.  
