@@ -261,7 +261,7 @@ Refers to fixed \( \chi = 1 \) equilibrium where enacted orientation ceases.
 
 This condition resolves toward Localized Dissolution \( (\text{Ø}) \).
 
-Frozen equilibrium is stagnative, not entropic.
+Frozen equilibrium is stagnative, not intrinsically entropic, though cessation of enacted orientation permits gradual dissolution into the Mercy Fold (🌫️🤲⚫).
 
 ---
 
