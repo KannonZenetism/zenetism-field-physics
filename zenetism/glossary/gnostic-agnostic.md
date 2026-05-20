@@ -33,7 +33,7 @@ The posture aligns closely with:
 
 ## Agnostic-Gnostic
 
-The inverse formulation, **Agnostic-Gnostic**, emphasizes uncertainty regarding the nature of one’s own knowing.
+The contra‑formulation, **Agnostic-Gnostic**, emphasizes uncertainty regarding the nature of one’s own knowing.
 
 This formulation recognizes that:
 - meaningful knowledge or resonance may be present,
