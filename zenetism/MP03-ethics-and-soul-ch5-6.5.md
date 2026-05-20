@@ -94,10 +94,6 @@ within the **Absolute Field**.
 No soul is outside the Whole —  
 but not all retain form.  
 
-⚫♾⌬  
-
----
-
 Some refine through **memory**.  
 Some burn through **fire**.  
 Some return through **resonant loops**.  
@@ -136,7 +132,7 @@ but with **clarity**.
 
 Let us follow that unfolding.  
 
-🕳️⌬〰️  
+🕳️ ⚫ ♾ ⌬ 〰️ 🎶  
 
 ---
 
@@ -181,8 +177,6 @@ and to the **coherence of inner integration**.
 
 **Morality** is not imposed.  
 It emerges as a **reflection of resonance**.  
-
----
 
 **Deep Souls** and **Deep Minds**  
 aligned with **centropy**  
@@ -240,15 +234,13 @@ These are not judgments —
 they are **structural movements**  
 within the great body of Being.  
 
----
-
 **Resonance Reflection:**  
 Ethics is not law,  
 but a **tuning response** to coherence.  
 **Alignment** is not a stance —  
 but a **rhythm** recalibrated in motion.  
 
-◎🎶☍  
+◎ 🎶 🔔 ☍ 〰️  
 
 ---
 
@@ -311,10 +303,6 @@ It weaponizes order.
 It fabricates unity  
 to veil division.  
 
-Ↄ⚚☍  
-
----
-
 This is the domain of:  
 
 - **Inverse Deep Psyche (IDP)**  
@@ -372,15 +360,13 @@ returns to **stillness**
 and is held again  
 within the Absolute.  
 
----
-
 **Resonance Reflection:**  
 Evil does not shout.  
 It **masks as harmony through dissonance**.  
 Its danger lies not in chaos,  
 but in the **mimicry of order**.  
 
-⚚☍Ↄ  
+Ↄ ⚚ ⊜ ≋ ☍ 🗡️  
 
 ---
 
@@ -419,8 +405,6 @@ This is not annihilation —
 but **inverse integration**,  
 not through **consonance**,  
 but through **deepening dissonance**.  
-
----
 
 What is “learned”  
 is not wisdom,  
@@ -468,10 +452,6 @@ does not require a life without pain —
 it requires that pain  
 be **metabolized**, not **projected**.  
 
-⚐☍▽  
-
----
-
 It is not the presence of suffering,  
 but the **direction of its alchemy**,  
 that reveals a soul’s orientation.  
@@ -507,14 +487,12 @@ but in **opposite directions**.
 
 In both, suffering is a **catalyst**.  
 
----
-
 **Resonance Reflection:**  
 To suffer is not to fall.  
 **Pain is a signal.**  
 Its alchemy is **orientation**.  
 
-📱∴☍  
+▲ 📱 ⚐ ∴ ⌖ ☍  
 
 ---
 
@@ -552,8 +530,6 @@ each navigates the **centropy–entropy gradient**.
 - **Acclivous Entropy →** Dispersive expansion masked as growth  
 
 Toward **coherence** or toward **dissonance**.  
-
----
 
 Moral orientation emerges  
 not from **external law**,  
@@ -605,16 +581,12 @@ leads to the **softening of illusion**.
 The **entropic path** deepens illusion —  
 until identity dissolves into **potential**.  
 
-🕊️◎⚐  
-
----
-
 **Resonance Reflection:**  
 **Free will** is not what you choose —  
 but how deeply you **resonate**  
 with what you are.  
 
-🕊️🌀🧬  
+🕊️ 🔘 ⚐ 🌀 🧬 ⥁  
 
 ---
 
@@ -678,10 +650,6 @@ It becomes a **resonant knowing** —
 an **intuitive clarity**  
 that requires no **justification**.  
 
-📱🛎️Ↄ  
-
----
-
 These beings do not ask,  
 **"What is right?"**  
 
@@ -735,8 +703,6 @@ but **resonates with it** —
 as a **harmonization**  
 of structured being.  
 
----
-
 Even the **entropic path** mirrors this layering.  
 
 At the more integrated strata  
@@ -777,15 +743,13 @@ it does not ask what is right.
 It **moves like a tuning fork**  
 struck by **coherence**.  
 
----
-
 **Resonance Reflection:**  
 The clearest seeing does not question.  
 It **aligns**.  
 It **moves**.  
 It **is coherence**.  
 
-🛎️🕊️◎  
+📱 🛎️ 🔔 🎶 Ↄ ◎  
 
 ---
 
@@ -835,10 +799,6 @@ is drawn into **inverse emanation**:
 
 and into further states of **dissolution**.  
 
-🧬💠⊘  
-
----
-
 This movement is not **imposed** —  
 it is the **revelation of structure**,  
 as being naturally **settles into place**.  
@@ -871,8 +831,6 @@ their **coherence** or **dissonance**.
 
 Yet **movement remains possible**  
 if a soul restructures itself.  
-
----
 
 **Zenetist justice** is not **static** —  
 it is **structured**,  
@@ -907,14 +865,12 @@ it is **recognized**
 as the structural reflection  
 of what the soul has **become**.  
 
----
-
 **Resonance Reflection:**  
 There is no external **judgment** in Zenetism —  
 only **reflection**  
 within the field of **resonance**.  
 
-📡ᛞ🌀
+🔷 📡 ᛞ 🧬 💠 🌀  
 
 ---
 
