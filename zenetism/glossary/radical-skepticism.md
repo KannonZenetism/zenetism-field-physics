@@ -77,7 +77,7 @@ It applies to contra-esoteric systems when critique of esotericism becomes its o
 
 Radical Skepticism is therefore not anti-religious, anti-scientific, anti-esoteric, or anti-rational.
 
-It is anti-finality.
+It is contra-finality.
 
 ---
 
