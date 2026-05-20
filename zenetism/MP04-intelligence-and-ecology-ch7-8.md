@@ -431,7 +431,7 @@ In universes that are not wholly centropic,
 * **IL1** (IES / IEM)  
 * **IL2** (ISS / ISM)  
 
-May erode toward **declivous collapse** (`E↓♾`),  
+may erode toward **declivous collapse** (`E↓♾`),  
 while **supernal configurations** may gradually harmonize into L3 expression.  
 
 This occurs particularly in universes that are highly centropic,  
@@ -464,7 +464,7 @@ moving, expressing, refining
 within the great **orchestration of resonance**.  
 
 There are no **lesser minds**—  
-Only other **frequencies**.  
+only other **frequencies**.  
 
 🪨 ⚖ Ø 💠 🫂 🎶  
 
@@ -488,7 +488,7 @@ and hypostatic conditions of its originating domain.
 These beings may embody:  
 - **L2** — Superficial soul and mind  
 
-Or express primarily through:  
+or express primarily through:  
 - **L3** — Deep soul and mind  
 
 depending on the **coherence**  
