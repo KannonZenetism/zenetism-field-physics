@@ -1503,7 +1503,7 @@ It **recurs across all hypostases** —
 resonating from the vastest pattern  
 to the smallest form.  
 
-- Every layer reflects the Tree of Emanation    
+- Every layer reflects the Tree of Emanation  
   through **structural resonance**.  
 - The **Embodied realm (ES / EM)** is not lesser —  
   only more **variable in coherence**.  
