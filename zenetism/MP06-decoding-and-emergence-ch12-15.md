@@ -488,7 +488,7 @@ but crystallized through it.
 “Where Satan’s throne is…”  
 
 This is the archetype of the embattled soul —  
-one positioned in duality,  
+one positioned in bifurcation,  
 surrounded by distortion,  
 and still called to **hold resonance**.  
 
