@@ -30,6 +30,8 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 ### May 2026
 
 - `resonance-failure-in-ai-mediated-fields.md` — May 6, 2026
+- `membrane-audit-and-harmonic-reorientation.md` — May 20, 2026
+- `liminal-phase-transition-and-synaptic-bridging.md` May 21, 2026
 
 ---
 
