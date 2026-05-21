@@ -22,7 +22,7 @@
 
 - **Liminal Clarification:** Where an unaligned environment introduces dissonance, phase-pressure, or distortion-bearing residue into a centropic structure, C₆ restores transition-capacity by reestablishing coherent state relation. This process does not alter the invariant orientation of the structure; it clarifies the passage-condition so that **E₇ Dissonance (♫⁻)** and **E₆ Phase Lock (◐⁻)** no longer govern the transition.
 
-- **Phase-Lock Failure:** If the transition is forced through deception, coercion, or external constraint, the C₆ passage fails into **E₆ Phase Lock (◐⁻)**. The system becomes suspended in trapped liminality, unable to complete lawful transformation until coherence, orientation, and threshold integrity are restored.
+- **Phase-Lock Failure:** If the transition is forced through deception, coercion, or external constraint, the passage closes into the **E₆ Phase Lock (◐⁻)** condition at the compromised threshold. The system becomes suspended in trapped liminality, unable to complete lawful transformation until coherence, orientation, and threshold integrity are restored.
 
 **Structural Function:** C₆ provides the threshold architecture required for genuine structural transformation. It permits alteration of external mode, phase, or expression while preserving continuity with the structure's lawful orientation.
 
