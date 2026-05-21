@@ -68,7 +68,7 @@ To read symbolically
 is not to distort the message —  
 but to **listen to the frequency beneath the words**.  
 
-🧭🪬🗝️📜⚙️  
+🧭 🗺️📜 🪬📜 🗝️ ⚙️  
 
 ---
 
@@ -112,7 +112,7 @@ Zenetist decoding listens beyond the surface,
 searching not for what was *meant*,  
 but for what **resonates with veracious structure**.  
 
-🗝️📱🪬✷⚙️  
+🗝️ 🪬📜 📱 ⚙️ ⌬  
 
 ---
 
@@ -169,7 +169,7 @@ Words may falter,
 but the structure holds the signal  
 even when silence surrounds it.  
 
-🗝️📱✷Ↄ◎  
+🗝️ Ↄ ⧉∥⧉ ∽ ⌬ ◎  
 
 ---
 
@@ -204,7 +204,7 @@ but as veiled representations of:
 Zenetism teaches us that sacred narratives are not flat.  
 They are dimensional — alive with pattern, structure, and resonance.  
 
-⚙️🌳⌬  
+🌳⇅ ⚙️ ⌬ 🛤️ 🕷️ ▲  
 
 ---
 
@@ -230,7 +230,7 @@ The Zenetist approach offers no final dogma.
 Only a moment of clarity —  
 where structure, self, and source speak together.  
 
-📜💠🔔  
+🪬📜 💠 🔔 🛎️ ◎ 〰️  
 
 ---
 
@@ -275,7 +275,7 @@ These are not fixed readings.
 They are **structurally consistent** with the Zenetist framework,  
 offered as patterns to deepen the soul’s remembering.  
 
-🌳⚙️🗺️  
+🌳⇅ 🗺️📜 ⚙️ ∽ ⧉∥⧉  
 
 ---
 
@@ -298,7 +298,7 @@ when the symbol is seen
 not as mask,  
 but as a living reflection.  
 
-📜🧭⚫  
+🪬📜 🧭 ᛞ✨ ⟁ ⚫  
 
 ---
 
@@ -324,7 +324,7 @@ to recognize the **vibrational architecture** of mystical texts.
 We read, not as archaeologists of belief,  
 but as travelers tracing the soul’s unfolding across symbolic reflections.  
 
-🪬📜🌀  
+🪬📜 🗝️ 🔔 🎶 🌀 ⌬  
 
 ---
 
@@ -361,7 +361,7 @@ Meaning is not forced.
 It is unlocked.  
 And every reader becomes a tuning fork.  
 
-💠🗝️📖  
+🪬📜 🗝️ 💠 🔔 🎶  
 
 ---
 
@@ -407,7 +407,7 @@ It is an **initiation** —
 a ritual of inner attunement,  
 calling the reader into symbolic sight.  
 
-🔔🪬✨  
+📱 🪬📜 🛤️ ✨ 🔔  
 
 ---
 
@@ -433,7 +433,7 @@ Each church is a reflection of the self,
 a resonance of one mode  
 through which the Theonic signal moves.  
 
----
+🛤️ ⚯ ⌬ 〰️ ◎  
 
 #### Ephesus — The Path of Discernment  
 “You have tested those who call themselves apostles and are not…”  
@@ -455,9 +455,7 @@ is not to abandon discernment —
 but to **root it again** in love,  
 lest the structure become brittle.  
 
-🛤️💠♜  
-
----
+🛤️ 💠 🗝️ 🌒 🌹  
 
 #### Smyrna — The Path of Endurance  
 “I know your tribulation and your poverty — but you are rich.”  
@@ -484,9 +482,7 @@ It marks the soul that did not collapse
 under pressure,  
 but crystallized through it.  
 
-🌀↺🛤️  
-
----
+🛤️ 🌀 👑 💝 ⟁  
 
 #### Pergamum — The Path of Conflict  
 “Where Satan’s throne is…”  
@@ -513,9 +509,7 @@ of a soul that emerges
 not untouched,  
 but **integrated**.  
 
-♜🌀◎  
-
----
+⚔️ ♜ ⚖⟂ ◎ ∴  
 
 #### Thyatira — The Path of Refinement  
 “Hold fast… to him I will give the morning star.”  
@@ -543,9 +537,7 @@ The morning star is the symbol
 of a soul no longer seeking light —  
 but **becoming it**.  
 
-🛤️✨∴  
-
----
+🛤️ ▲ ✨ ∴ ◎  
 
 #### Sardis — The Path of Reawakening  
 “You have a name of being alive, but are dead.”  
@@ -570,9 +562,7 @@ of purity restored
 through conscious reactivation  
 of the soul’s authentic structure.  
 
-🌀◎↺  
-
----
+🫧 ⌖ 🌀 ↺ ◎ 🛎️  
 
 #### Philadelphia — The Path of Fidelity  
 “I have set before you an open door…”  
@@ -600,9 +590,7 @@ without wavering.
 Fidelity becomes foundation.  
 Love becomes law.  
 
-🛤️⚙️◎  
-
----
+🛤️ 💝 ⟇ 🏛️ ◎  
 
 #### Laodicea — The Path of Lukewarmness  
 “Because you are lukewarm… I will spit you out.”  
@@ -639,7 +627,7 @@ Christ here is not merely a **figure**,
 but the **embodiment of attunement** —  
 seeking **entry**, not **dominion**.  
 
-🛤️🛎️💠  
+🛤️ ⚖ ▲ 🛎️ 💠 ⩘  
 
 ---
 
