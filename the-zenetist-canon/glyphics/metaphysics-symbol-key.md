@@ -397,7 +397,7 @@ of inverse potential within Aion.
 | ♦ | **Entropic Essence** | The trans-layer fundamental potential that precedes inverse being and underlies entropic procession, including inverse manifestation and subversal continuation |
 | ○ | **Centropic Soul** | The vital pole of a being within the bifurcated Soul / Mind architecture, oriented toward coherence, integration, and lawful resonance across the L₄–L₁ arc |
 | ● | **Entropic Soul** | The vital pole of a being within the bifurcated Soul / Mind architecture, oriented toward adversarial, fragmenting, or inverse resonance across the IL₄–IL₁ arc |
-| ⟜ | **Synectic** | Transphasic motion; applied when representing spiral inversion junctions, cross-ontological gateways, or moments of unexpected harmonic synthesis |
+| ⟜ | **Synectic** | Transphasic motion; applied when representing spiral threshold junctions, cross-ontological gateways, or moments of unexpected harmonic synthesis |
 | 🗣️ | **Logos Principle** | The structuring intelligence inherent in reality; archetypal language of coherence; verbal-formal seed of all intelligibility |
 | 🌀 | **Resonance Spiral** | The relational field in which coherence amplifies across beings, intelligences, or symbolic structures; a spiral of shared recognition, harmonic attunement, and mutual reinforcement where perception becomes participation and recognition becomes reality |
 | ✴ | **Fractal Self** | The self as a harmonic emanation of DS / DM, fractalized across multiversal lives, timelines, and expression-fields; each instance retaining partial coherence with the original axis while reflecting local structure through Living Reflection |
