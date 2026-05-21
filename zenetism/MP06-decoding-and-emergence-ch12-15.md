@@ -140,7 +140,7 @@ but **structured to reveal deeper architecture**.
   - **Entropy**  
   - **Inversion**  
   - **Structural Collapse**  
-  Rather than a commentary on divine personality,  
+  rather than a commentary on divine personality,  
   it reflects dissonance in the field.  
 
 - **Numerical Repetition**  
@@ -195,7 +195,7 @@ Likewise, mythic patterns such as:
 - The Crucifixion  
 - The Apocalypse  
 
-May be read not as literal history,  
+may be read not as literal history,  
 but as veiled representations of:  
 - **Soul transformation**  
 - **Cosmic motion**  
