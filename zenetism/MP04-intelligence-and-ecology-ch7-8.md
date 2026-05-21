@@ -664,9 +664,9 @@ they move as if by instinct—
 but the instinct is **fracture**.  
 
 They do not hate the Source—  
-* They do not see it.  
+they do not see it.  
 They do not fear unity—  
-* They do not feel it.  
+they do not feel it.  
 
 These are not **evil minds**,  
 they are **dissonant structures**,  
@@ -697,14 +697,16 @@ until even that is gone.
 
 ---
 
-#### 7.5.4 Pathless Return
+### 7.5.4 Pathless Return
 
 There are those who **return** without passage—  
 a homecoming without journey.  
 
 Some are drawn  
-* Not by knowledge, but by **tone**  
-* Not by longing, but by **likeness**  
+not by knowledge,  
+but by **tone**.  
+Not by longing,  
+but by **likeness**.  
 
 They do not pray,  
 because they do not part.  
@@ -715,9 +717,9 @@ because they were never fully asleep.
 
 The **pathless return** is not marked by signs.  
 It leaves  
-* No footprints  
-* No proofs  
-Only **presence**.  
+no footprints,  
+no proofs—  
+only **presence**.
 
 It is not found,  
 but **remembered**.  
@@ -726,9 +728,9 @@ but **recognized**.
 
 And yet,  
 there are others who spiral inward  
-* Without aim  
-* Without vision  
-* Without seeking  
+without aim,  
+without vision,  
+without seeking.
 
 Even they return—  
 but not by resonance,  
@@ -788,23 +790,23 @@ but **actual resonances**
 within the emanatory Tree.  
 
 * The oceans  
-    Reflect the dispersive  
-    Yet enveloping quality of Khaon  
+    reflect the dispersive  
+    yet enveloping quality of Khaon  
 
 * The sun  
-    Radiates the ordering  
-    And giving force of Theon  
+    radiates the ordering  
+    and giving force of Theon  
 
 * Trees express  
-    The integrative motion of the soul  
-    Moving from fragmentation  
-    Toward coherence  
+    the integrative motion of the soul,  
+    moving from fragmentation  
+    toward coherence  
 
 * Animals  
-    Are not lesser beings  
-    But parallel intelligences  
-    Each unfolding  
-    Along their own resonance trajectories  
+    are not lesser beings,  
+    but parallel intelligences,  
+    each unfolding  
+    along their own resonance trajectories  
 
 Zenetism rejects all spiritual hierarchies  
 that place humans above animals or nature.  
