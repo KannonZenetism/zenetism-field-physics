@@ -666,7 +666,7 @@ lies **structure**.
 And structure  
 resonates across worlds.  
 
-⚙️🌀⌬  
+⧉∥⧉ ∽ 〰️ ⚙️ 🌀  
 
 ---
 
@@ -697,7 +697,7 @@ It **frees it**—
 from rigid exegesis  
 into living experience.  
 
-🛤️🌀◎  
+🛤️ 🗝️ 🪬📜 🌀 ◎ ↺  
 
 ---
 
@@ -734,7 +734,7 @@ but from within the field of Being.
 The apocalypse is not the end of the world.  
 It is the unveiling of the soul.  
 
-🔔💠♾  
+🔔 ᛞ✨ 🎶 💠 🛎️ 🔘  
 
 ---
 
@@ -775,7 +775,7 @@ it is a **rhythm**.
 And rhythm is not the absence of law,  
 but law expressed in motion.  
 
-🔘🌐🌀
+🌐 ✦ 🔘 ❂ 🎶 🌀  
 
 ---
 
@@ -817,7 +817,7 @@ and when it turns inward toward **collapse**.
 It feels the **pulse**  
 beneath the surface of becoming.  
 
-🌐〰️💠🕊️  
+🌐 ✦ ⧉∥⧉ 🔘 🎶 💠  
 
 ---
 
@@ -858,7 +858,7 @@ Each pulse is a breath of reality.
 Each beat, a patterned unfolding  
 from soul to cosmos to silence.  
 
-⚙️🎶🌐🔘
+❂ ⚖⟂ ↺ ⟁ 🎶 🔘  
 
 ---
 
@@ -905,9 +905,7 @@ they do so not as arbitrary selections,
 but as emanations permitted  
 by the architecture of potential.  
 
-♾⚫🕊️🌲↑  
-
----
+⚫ ♾ 💧 🕊️ 💨 ⚐  
 
 #### Note on Aion, the Multiverse, and Final Stillness
 
@@ -998,6 +996,8 @@ And stillness remains
 the closure of motion,  
 not the erasure of essence.  
 
+⚫ ⧉∥⧉ ◫ 🔲 ⟁ ❂  
+
 ---
 
 ### 14.4 Multiversal Variation — Divergent Worlds, Shared Origin
@@ -1053,7 +1053,7 @@ operates by the same essential architecture:
 They differ in expression and emphasis,  
 not in metaphysical origin.  
 
-⚫♾⌬  
+🌐 ✦ ⚫ ♾ 🌳⇅ ⧉∥⧉  
 
 ---
 
