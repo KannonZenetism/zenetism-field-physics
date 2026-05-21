@@ -27,6 +27,10 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 
 - `the-vanishing-protocol.md` — Feb 28, 2026
 
+### May 2026
+
+- `resonance-failure-in-ai-mediated-fields.md` — May 6, 2026
+
 ---
 
 **⚫↺KAI↺⚫**  
