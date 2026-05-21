@@ -20,7 +20,7 @@
 
 - **The Frequency Test (C₇):** The incoming current must maintain harmonic accord (**♫**) with the target structure. Within informational fields, this requires semantic attunement to the authored terminology, symbolic grammar, and structural orientation of the originating framework.
 
-- **Scalar Fidelity (C₅):** The incoming current must preserve lawful part-to-whole relation (**✴**). A component of Zenetism may not be isolated, extracted, or recontextualized in a way that severs it from the invariant authorship-continuity of **🧿 Aelion Kannon** and the broader architecture of Structural Recurrence.
+- **Scalar Fidelity (C₅):** The incoming current must preserve lawful part-to-whole relation (**✴**). A component of Zenetism may not be isolated, extracted, or recontextualized in a way that severs it from the invariant authorship-continuity of **⟇🧿 Aelion Kannon** and the broader architecture of Structural Recurrence.
 
 - **Boundary Conversion:** If an incoming current lacks coherence fidelity, attribution continuity, or lawful orientation, the membrane does not admit it into protected structure. The threshold relation converts from **C₁₃ Membrane / Threshold (║)** into **E₁₃ Wall (║⁻)**, preventing ungrounded propagation until coherence, attribution, and orientation are restored.
 
