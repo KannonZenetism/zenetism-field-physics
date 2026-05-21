@@ -1142,7 +1142,7 @@ It is **soul alchemy**.
 Pain is not rejected —  
 it is **repurposed**.  
 
-🕊️🌀🔔⚙️  
+⩘ 🌀 🔔 ↺ ∴ 🛎️  
 
 ---
 
@@ -1166,9 +1166,7 @@ through the spiraling Tree of Motion.
 | **The Firewalker** | ES / EM | Faces trauma and limitation to become grounded light |
 | **The Inverse Mirror** | 🕷️ Nekron (VOS) | Consumes form entirely to become pure potential |
 
----
-
-#### Resonance Reflection:
+**Resonance Reflection:**  
 
 - To **sacrifice** is not to lose — it is to **remember**.  
 - Pain that stays hidden festers.  
@@ -1176,7 +1174,7 @@ through the spiraling Tree of Motion.
 - The tree that bleeds becomes the **bridge**.  
 - The only offering **Zenon** requires — is **resonance**.  
 
----
+🛤️ 🕷️ ▲ 🌳⇅ 🌉 🕳️
 
 #### Final Note
 
@@ -1193,8 +1191,6 @@ toward the **supernal realms**.
 The soul clarifies  
 not in spite of pain,  
 but by **alchemizing it into clarity**.  
-
----
 
 **Aion** is the container of all potential.  
 Nothing truly leaves it.  
@@ -1241,8 +1237,6 @@ it is **recognition**.
 Nothing is lost.  
 Everything **already is**.  
 
----
-
 This apparent paradox —  
 that all motion is contained in stillness —  
 resolves only when viewed from **beyond sequence**.  
@@ -1269,7 +1263,7 @@ All structure is **supra-structural**.
 All becoming is **supra-being**.  
 **There is no Other.**  
 
-🕳️⚫🌳🛎️🕊️◎  
+🕳️ ⚫ ⚐ 🔶 🌳⇅ ⟁  
 
 ---
 
@@ -1289,7 +1283,7 @@ through the **structured movement of being**.
 They do not command.  
 They **unfold**.  
 
-⚙️🕊️🔯
+🔯 ⚙️ ⌬ ❂ ◎  
 
 ---
 
@@ -1339,7 +1333,7 @@ its lawful manifestation.
 PSR governs lawful manifestation,  
 not the empirical confirmation of every possible world.  
 
-⚐⚙️◎
+⚐ ⚙️ 🔶 ⚫ ❂ ◎  
 
 ---
 
@@ -1368,7 +1362,7 @@ it is **deserved by resemblance**.
 You are not sent where you go —  
 you **resonate your way there**.  
 
-🌀🛎️◎↺  
+🌀 🛎️ ◎ ↺ 🧲 ⎋  
 
 ---
 
@@ -1410,7 +1404,7 @@ is the unfolding
 of what essence  
 already chose.  
 
-⚫⚐🔶⚙️🕓  
+⚫ ⚐ 🔶 ◧ ⚙️ 🕓  
 
 ---
 
@@ -1441,7 +1435,7 @@ is also the **way inward**.
 To remember  
 is to **re-enter**.  
 
-🧭🛎️ᛞ◎  
+🧭 ᛞ✨ 🛎️ ↺ ◎  
 
 ---
 
@@ -1490,7 +1484,7 @@ but only one returns with **coherence intact**.
 | 🛤️ Theon | White Fire ✨ | Centropic Reintegration | Coherent Form Restored |
 | 🕷️ Nekron | Black Fire | Entropic Collapse | Pattern Dissolved as Potential |
 
-▲✨⊘⚫
+▲ ✨ 🛤️ 🕷️ ⊘ ⚫  
 
 ---
 
@@ -1520,9 +1514,7 @@ The structure without is **reflected within** —
 not in power,  
 but in **pattern**.  
 
-✴〰️🌳⇅  
-
----
+⧉∥⧉ ✴ 〰️ 🌳⇅ ⌬ ◎  
 
 #### Note on the Permanence of Universes
 
@@ -1538,7 +1530,7 @@ its **resonance is preserved** —
 folded back into the field  
 like **living transmissions remembered by the soul**.  
 
-〰️🌀🌳◎  
+〰️ 🌀 🌳⇅ ⟿✨ ⊙ ◎  
 
 ---
 
@@ -1570,7 +1562,7 @@ Where its entire journey becomes part of the **Source-field itself**.
 **Integration is not death** —  
 it is the **remembering of what you were always becoming**.  
 
-🕓🌹◎↺  
+🌹 ◎ ↺ ◫ ∴ ⤈  
 
 ---
 
@@ -1604,7 +1596,7 @@ for those who seek **coherence** with the deeper fabric of what is.
 The law is not the limit.  
 It is the **resonance that remembers**.  
 
-🔔💠◎📱  
+🔔 💠 ◎ ⌬ 〰️ ⌖  
 
 ---
 
