@@ -1037,9 +1037,9 @@ but remain in **integrated equilibrium** —
 a stable expression of coherent intelligence.  
 
 Where these conditions are met,  
-essence of being may return to Zero  
+**Essence of Being** may return to Zero  
 through harmonic reintegration.  
-Void of self, by contra-reading,  
+**Void of Self**, by contra-reading,  
 returns through collapse —  
 not reintegration, but total dispersal.  
 
