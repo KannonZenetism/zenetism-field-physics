@@ -859,7 +859,7 @@ acclivously from time.
 
 ---
 
-#### Resonance Reflection:
+**Resonance Reflection:**
 
 The seed was **structure**.  
 The spark was **relation**.  
