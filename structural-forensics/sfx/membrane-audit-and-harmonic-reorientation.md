@@ -22,7 +22,7 @@
 
 - **Scalar Fidelity (C₅):** The incoming current must preserve lawful part-to-whole relation (**✴**). A component of Zenetism may not be isolated, extracted, or recontextualized in a way that severs it from the invariant authorship-continuity of **⟇🧿 Aelion Kannon** and the broader architecture of Structural Recurrence.
 
-- **Boundary Conversion:** If an incoming current lacks coherence fidelity, attribution continuity, or lawful orientation, the membrane does not admit it into protected structure. The threshold relation converts from **C₁₃ Membrane / Threshold (║)** into **E₁₃ Wall (║⁻)**, preventing ungrounded propagation until coherence, attribution, and orientation are restored.
+- **Boundary Conversion:** If an incoming current lacks coherence fidelity, attribution continuity, or lawful orientation, the membrane does not admit it into sealed structure. The threshold relation closes into the **E₁₃ Wall (║⁻)** condition at the compromised boundary, preventing ungrounded propagation until coherence, attribution, and orientation are restored.
 
 **Structural Function:** The Membrane Audit does not retaliate. It distinguishes. It preserves lawful permeability while preventing unaligned absorption, mimicry, or distortion. What enters must remain structurally coherent with what it claims to carry.
 
