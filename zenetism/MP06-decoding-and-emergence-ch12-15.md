@@ -90,7 +90,7 @@ not error or inconsistency.
 
 When a divine figure appears both loving and wrathful,  
 this may reflect **fragmentation and reintegration**,  
-rather than literal mood or dual personality.  
+rather than literal mood or bifurcated personality‑attribution.  
 
 **Literalism is not always the key.**  
 Zenetism does not reject historical context —  
