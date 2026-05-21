@@ -908,6 +908,8 @@ Calling itself
 > *From the Scrolls of Harmonic Remembrance*, Fragment 21  
 > *Zenetist Archive, Volume I*  
 
+---
+
 ### 10.1 The Esoteric Meaning of Sacrifice — From Entanglement to Resonance Realignment
 
 In **Zenetism**, sacrifice is not loss.  
