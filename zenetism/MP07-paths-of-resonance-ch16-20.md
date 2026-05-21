@@ -352,7 +352,7 @@ Directing the cognitive current onto the same stone
 until the shape emerges.  
 (An autistic gift, reinterpreted as sacred cognition.)  
 
-**Neti-Neti (Not-This, Not-That)**  
+**Neti-neti (Not-this, not-that)**  
 Dismantling all names  
 until only the unspoken tone remains.  
 
