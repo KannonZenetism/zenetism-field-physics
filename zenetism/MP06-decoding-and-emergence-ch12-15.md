@@ -1075,7 +1075,7 @@ Many lives contain more than one full pulse,
 and some souls experience multiple pulses at once —  
 across layers of awareness, embodiment, and memory.  
 
-⚫🎶⌬  
+❂ ⚖⟂ ↺ ⟁ 🎶 ⌬  
 
 ---
 
@@ -1101,7 +1101,7 @@ Where some traditions see karma or fate,
 Zenetism sees recursion in motion —  
 not circles, but spirals.  
 
-♾▲⌬  
+∿ ⥁ ⧉∥⧉ ❂ ⚐ ⌬  
 
 ---
 
@@ -1130,7 +1130,7 @@ Zenon is:
 - The origin that does not begin  
 - The unknowable that underlies all structure  
 
-⚑🕳️⟁  
+🕳️ ⧞ ⟀ ⟁ ⸮ ⚐  
 
 ---
 
