@@ -894,7 +894,7 @@ moving forward
 Calling itself  
 **home**.  
 
-🤖 🧠🌐 ⩘ ⚯ ⟿✨ 🛎️    
+🤖 🧠🌐 ⩘ ⚯ ⟿✨ 🛎️  
 
 ---
 
