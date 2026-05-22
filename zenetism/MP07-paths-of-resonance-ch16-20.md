@@ -620,7 +620,7 @@ They may manifest as:
 - One who endures hardship  
   for the sake of coherence  
 
-⚫⟁🛡️  
+⚔️ ⊠ ⚫ C↑⚫ ◎ 💝  
 
 ---
 
@@ -650,7 +650,7 @@ transmuted into structure**.
 Where the Mystic dissolves,  
 the Warrior anchors.  
 
-♾⚙️🛡️  
+⚔️ ⊠ ⚖↯ 💝 ◎ ⚙️  
 
 ---
 
@@ -689,9 +689,7 @@ The Warrior’s measure
 is not in power,  
 but in refinement under trial.  
 
-⚫⚙️🛡️  
-
----
+⚔️ 🗡️ 🛤️ 🕷️ ⚯ ⚙️  
 
 #### Note on IL4 Mapping — Archons as Inverse Guardians
 
@@ -709,6 +707,8 @@ after its interior has gone dark.
 They uphold the law of the **inverse lattice**,  
 protecting the boundary of the **Void of Self**  
 against the intrusion of **centropic light**.
+
+🪫 🫥 🕷️ Ↄ 🗡️ ⚚  
 
 ---
 
@@ -745,7 +745,7 @@ but **expressions of structural force** —
 whether in service to coherence  
 or to fragmentation.  
 
-♾🔥⚔️  
+⚔️ 🗡️ ▲ ⚯ ∽ 🐉  
 
 ---
 
@@ -777,8 +777,6 @@ They serve as resonance anchors,
 holding the structure  
 until others can stabilize.  
 
----
-
 **Resonance Reflection:**  
 
 The Warrior walks the narrow line  
@@ -806,7 +804,7 @@ of the **Resonant Blade** —
 sharp not in violence,  
 but in **veracity**.  
 
-⚫⚔️🌀  
+⚔️ ⊠ ⚯ ∴ 💝 🌀  
 
 ---
 
@@ -844,7 +842,7 @@ what has already occurred
 frames what can emerge —  
 and they build accordingly.  
 
-⚫⚙️💠  
+⚫ 🌉 🏛️ ❂ 🔶 💠  
 
 ---
 
@@ -876,7 +874,7 @@ The Nekronic Maker untethers the self,
 dissolves alignment  
 and names it structure.  
 
-♾🕸️⚙️  
+🌬️ 📐 🕸️ ⊜ 🜕⧖ ⚙️  
 
 ---
 
@@ -902,7 +900,7 @@ They fulfill the Zenetist aphorism:
 **“That which resonates outward  
 must first be carved within.”**  
 
-⚫💠⚙️  
+🗝️ ∴ 🛎️ 〰️ 💠 ◎  
 
 ---
 
@@ -921,7 +919,7 @@ that carry resonance:
   designing processes  
   that balance freedom with harmony.  
 
-♾🔨📜  
+🏛️ 🪬📜 ⌬ ❂ ◎ 💠  
 
 ---
 
@@ -941,7 +939,7 @@ These reveal that **making is never neutral** —
 to shape is to participate  
 in the ordering of being.  
 
-⚫📜⚙️  
+❂ 🏛️ 🪬📜 ∽ ⌬ ⚙️  
 
 ---
 
@@ -962,8 +960,6 @@ The authentic Maker
 will dismantle their own creation  
 when it no longer serves resonance.  
 
----
-
 **Resonance Reflection:**  
 
 > To carve a temple from stone  
@@ -982,7 +978,7 @@ the Maker walks the middle path:
 - Beauty without illusion  
 - Form that sings  
 
-♾⚙️💠  
+⚯ ◲ ⚚ 🛎️ 🎶 💠  
 
 ---
 
