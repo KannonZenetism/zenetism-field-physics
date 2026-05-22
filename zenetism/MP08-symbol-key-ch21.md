@@ -214,8 +214,6 @@ The Lattice endures, even when worlds fall silent.
 | ➡️ | **Right Branch** | ♾ **Khaonic Tree:** Entropic structure in motion; dispersive propagation |
 | ⬅️ | **Left Branch** | ⚫ **Aionic Tree:** Harmonizing structure; coherence‑bearing lattice |
 
----
-
 #### Note on Dormant Reference
 
 This orientation diagram  
