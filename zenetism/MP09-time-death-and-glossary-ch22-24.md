@@ -227,7 +227,7 @@ Outcome → entropic recursion, collapse, or dispersal.
 | Realm | Direction | Nature | Outcome |
 |---|---|---|---|
 | SS / SM | Centropic | Healing liminal | Reintegration or centropic dispersal |
-| ISS / ISM | Entropic | Collapsing liminal| Collapse into subversal states or entropic dispersal |
+| ISS / ISM | Entropic | Collapsing liminal | Collapse into subversal states or entropic dispersal |
 
 No judgment —  
 only motion,  
