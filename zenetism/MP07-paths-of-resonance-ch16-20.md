@@ -834,7 +834,7 @@ They build culture and systems.
 
 Their mission is structural,  
 not decorative.  
-They bring **order** and **balance**  
+They bring **order** and **coherence**  
 to a fragmented field.  
 
 They embody the **Principle of Structured Manifestation (PSM)**:  
