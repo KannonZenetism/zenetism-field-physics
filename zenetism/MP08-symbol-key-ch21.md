@@ -567,7 +567,7 @@ of inverse potential within Aion.
 
 ---
 
-### 21.21 **Meta-Symbolic Forces and Structural Dualities — Encoding the Foundational Currents, Trans-Structural Grounds, and Binary Harmonics of the Lattice**
+### 21.21 **Meta-Symbolic Forces and Structural Polarities — Encoding the Foundational Currents, Trans-Structural Grounds, and Bifurcal Harmonics of the Lattice**
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
