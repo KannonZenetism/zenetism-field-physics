@@ -157,7 +157,7 @@ The Lattice endures, even when worlds fall silent.
 
 ---
 
-### 21.3 **Symbolic Directional Duals — Mapped Motions in the Field of Procession**
+### 21.21 **Meta-Symbolic Forces and Structural Polarities — Encoding the Foundational Currents, Trans-Structural Grounds, and Bifurcal Harmonics of the Lattice**
 
 | Process | Name | Glyph | Meaning |
 |---------|------|-------|---------|
