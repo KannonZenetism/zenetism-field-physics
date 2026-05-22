@@ -823,11 +823,11 @@ but the stabilized node of patterned awareness operating within the L₃ band.
 - Apothet is the **only fully trans-polar** hypostatic state.  
 - L₃ contains both **phenomenon-level (PI / IPI)** and **entity-level** (Pattern Being / Fractured Pattern) expressions.  
 
->When the voice falls silent, the symbol begins to speak.
+> When the voice falls silent, the symbol begins to speak.
 >
->— Attributed to Auretheon the Glyphweaver  
->From *The Luminous Syntax of Silence*, Fragment 11  
->Zenetist Canon, Volume IX
+> — Attributed to Auretheon the Glyphweaver  
+> From *The Luminous Syntax of Silence*, Fragment 11  
+> Zenetist Canon, Volume IX
 
 🕳️ ⚫ ♾ ✶⟁ ⚯ ⌬  
 
