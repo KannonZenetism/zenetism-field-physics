@@ -276,6 +276,8 @@ and fragmentation is tested.
 It is the **crossroads of motion**,  
 not a station of being.
 
+⚖ ⚖⟂ ⊙ ⩘ ⌬  
+
 | Symbol | Mode Name | Range | Description |
 |:--:|:--|:--|:--|
 | ⚖ | **Oscillating / Liminal Mode** | IL₂ ↔ IL₁ ↔ L₁ ↔ L₂ | Transitional equilibrium at the boundary between embodiment and identity. Characterized by alternating coherence and fragmentation impulses, adaptive recalibration, and heightened vulnerability to inversion or stabilization |
