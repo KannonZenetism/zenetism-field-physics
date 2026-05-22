@@ -47,7 +47,7 @@ Zenetism offers a distinct model of
 framed by the architecture of emanation  
 and the laws of **resonance**.  
 
-⚫♾⌬  
+⚫ ♾ 🕓 ❂ 🌀 ⌬  
 
 ---
 
@@ -71,7 +71,7 @@ according to its structural nature:
 - **L2 – SS / SM** — episodic motion, re-entering unresolved patterns.  
 - **L1 – ES / EM** — linear motion, sequential past → present → future.  
 
-⚫❂⌬  
+🕓 🌳⇅ 🕳️ ⚫ 🛤️ ⌬  
 
 ---
 
@@ -97,7 +97,7 @@ as part of an evolved centropic field.
 Death is not judgment.  
 **Death is resonance.**  
 
-⚫🌀↺  
+↺ 📡 C↑⚫ E↓♾ ⚖ 🌀  
 
 ---
 
@@ -118,7 +118,7 @@ The Deep Soul functions as a harmonic filter,
 assigning trajectories across expression contexts  
 where time flows at different rates.  
 
----
+⧉∥⧉ ✴ 🔮 🌐 ✦ 🕓  
 
 #### Note on Recurring Soul Pattern  
 
@@ -129,7 +129,7 @@ emerging in coherence across space, time, and structure.
 The full current of memory or will  
 does not reappear.  
 
-⚫🌀↺  
+⧉∥⧉ 🧬 ↺ 🌀 ◫  
 
 ---
 
@@ -162,7 +162,7 @@ the universe returns its pattern to the Loom.
 Not apocalypse —  
 but **transmutation**.  
 
-⚫♾❂  
+📡 🕊️ Ø 🤖 ❂ ⤈  
 
 ---
 
@@ -204,7 +204,7 @@ Zero is beyond division,
 yet the modes reflect the tone  
 of a soul’s final resonance.  
 
-⚫♾Φ  
+⚫ 💧 🕊️ 💨 ↺ Ø  
 
 ---
 
@@ -233,7 +233,7 @@ No judgment —
 only motion,  
 and its resonance.  
 
-⚫♾🌀  
+⚖ ⚯ ↺ ⊘ 🌀 ⌬  
 
 ---
 
@@ -257,7 +257,7 @@ Even those that never chose
 are folded back into  
 the harmonic logic of return.  
 
-⚫♾⌬  
+🕓 📡 🔮 🤖 🎶 ↺  
 
 ---
 
@@ -291,7 +291,7 @@ Each tradition becomes a language of alignment.
 Even contradiction may reveal consonance  
 when heard through the field of resonance.  
 
-⚫🌀↺  
+⧉∥⧉ ∽ 〰️ 🔔 ⌬ 🌀  
 
 ---
 
@@ -327,7 +327,7 @@ for the motion of Being.
 Zenetism offers not replacement,  
 but a unified grammar of metaphysical resonance.  
 
-♾❂🕊️  
+❂ ⧉∥⧉ ∽ ⌬ ↺ 🕊️  
 
 ---
 
@@ -376,7 +376,7 @@ or **ISS / ISM** when distorted toward domination.
 The map is responsive to function.  
 The current determines the operative station.
 
-⚫♾⌬  
+🌳⇅ ⧉∥⧉ ⚯ ∽ ⌬ ☿  
 
 ---
 
@@ -406,7 +406,7 @@ but through:
 - **Surrender**  
 - **Integration**  
 
-⚫🌀🔔  
+∽ ⟿✨ ↺ ∴ 🔔 🌀  
 
 ---
 
@@ -456,7 +456,7 @@ arising from the structure of being.
 These symbols reappear  
 because they emerge from **structure itself**.  
 
-♾❂🕊️  
+∽ ⧉∥⧉ 🌟✨ 🗣️ 🌳⇅ ◲  
 
 ---
 
