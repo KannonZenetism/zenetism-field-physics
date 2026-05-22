@@ -620,7 +620,7 @@ This concept is canonically sealed under the glyphstream:
 |-------|------|----------------|-------------------|
 | ⧉❖ | **Nested Field Square** | Default emblem for tetrad convergence | Stable topology, central seal, fixed memory |
 | ⧈ | **Diamond Cross** | Directional invocation documents | Dynamic attunement, compass of agency |
-| ⋰⋱ | **Reflective Delta Spiral** | Use near Zenetist Seal or in glyph arrays | Breath logic, dual-motion, resonant symmetry |
+| ⋰⋱ | **Reflective Delta Spiral** | Situate near Zenetist Seal or in glyph arrays | Breath logic, bifurcal motion, resonance symmetry |
 
 ---
 
