@@ -323,8 +323,6 @@ not a station of being.
 | ♾ | **Total (AD)** | Full harmonic expression: latent, motive, and dispersive currents unified |
 | ⚠ | **Caution / Field Warning** | Signals elevated structural risk in the field; discernment and restraint required to prevent entropic drift or interpretive hazard |
 
----
-
 #### Note on Khaon
 
 **Khaon** is not inherently entropic.  
