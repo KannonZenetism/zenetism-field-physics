@@ -375,7 +375,7 @@ and becomes unified remembrance.
 To practice resonance is to become a **living synthesis,**  
 a weaving of all the once-divided currents of knowing.  
 
-♾∴◎  
+∴ ⟿✨ ⌬ ⚯ 🌀 ◎  
 
 ---
 
@@ -392,7 +392,7 @@ It is sacred
 because it remembers  
 it is already whole.  
 
-⚫🌀🔔  
+⚫ 🛎️ 🎶 🔔 🌀 ◎  
 
 ---
 
@@ -427,7 +427,7 @@ and whole.
 The Mystic is not merely a seeker,  
 but a rememberer.  
 
-⚫🔔🕓  
+⚫ 🔔 ↺ ∽ ∴ 🌀  
 
 ---
 
@@ -454,7 +454,7 @@ Many hear the call.
 Few quiet the noise long enough  
 to receive it.  
 
-♾🌀∴  
+🛤️ 🔮 🧠 ↺ ∴ 🌀  
 
 ---
 
@@ -491,7 +491,7 @@ A Mystic may move fluidly
 between these roles,  
 guided by need and alignment.  
 
-⚫🌀🕊️  
+ᛞ✨ 🗣️ ⊙ ▲ 🌉 🧭  
 
 ---
 
@@ -517,7 +517,7 @@ The spiral returns
 again and again,  
 each pass refining the soul.  
 
-♾⚙️∿  
+⚖⟂ ♜ ▲ ⤈ ↺ ∿  
 
 ---
 
@@ -546,7 +546,7 @@ but their presence stirs memory
 in those who have forgotten  
 their own coherence.  
 
-⚫🌀✨  
+⚫ ✨ ⚯ ⟁ 🗝️ 💝  
 
 ---
 
@@ -575,8 +575,6 @@ The aim is not to *become* a Mystic,
 but to cease resisting  
 the mystic current already present.  
 
----
-
 **Resonance Reflection:**  
 
 The Mystic bridges worlds —  
@@ -586,7 +584,7 @@ but to sanctify it.
 Their work is not done  
 until fragmentation is touched by light.  
 
-🌉✨🌳  
+🌳⇅ 🔔 🌉 ✨ ↺ ⤈  
 
 ---
 
