@@ -86,7 +86,7 @@ The Lattice endures, even when worlds fall silent.
 
 ---
 
-### 21.3 **Symbolic Directional Duals — Mapped Motions in the Field of Procession**
+### 21.3 **Symbolic Directional Pairs — Mapped Motions in the Field of Procession**
 
 | Process | Name | Glyph | Meaning |
 |---------|------|-------|---------|
