@@ -58,6 +58,8 @@ Kaion therefore names the point at which the lattice completes its functional ge
 the silence that follows motion,  
 not the source from which motion begins.  
 
+⦿ ◫ C↑⚫ E↓♾ ⚫ ⟁  
+
 ---
 
 ### 21.2.2 **Structon — The Absolute Structural Invariant**
@@ -79,6 +81,8 @@ Relative structures may emerge and dissolve, but Structure remains untouched.
 Time is not the destruction of stillness, but the **articulation of potential**.  
 Entropy degrades expression, not essence. Collapse dissolves relative configuration, not Structure.  
 The Lattice endures, even when worlds fall silent.  
+
+🏛️ 🕳️ ⚫ ♾ ⌬ ⟁  
 
 ---
 
