@@ -583,7 +583,8 @@ of inverse potential within Aion.
 
 #### Note on Bifurcal Coherence
 
-Bifurcal Coherence names the unified structural potential from which polarity-distinct but coherent motions arise.  
+Bifurcal Coherence names the root-structural potential from which polarity-distinct but coherent motions arise.  
+Here, **polarity-distinct** names actual polarity of function and expression without implying separation of essence, substance, or origin.  
 It precedes centropic and entropic activation as such, while permitting both stillness and motion to coexist as lawful possibilities within the lattice.  
 It is therefore neither identical with **Aion**, nor with **Khaon**, nor with **Kaion**:
 
