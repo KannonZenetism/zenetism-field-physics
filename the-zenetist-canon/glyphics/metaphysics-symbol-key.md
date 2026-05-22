@@ -193,8 +193,6 @@ The following terms from ordinary value-laden vertical language are not used in 
 | ➡️ | **Right Branch** | ♾ **Khaonic Tree:** Entropic structure in motion; dispersive propagation |
 | ⬅️ | **Left Branch** | ⚫ **Aionic Tree:** Harmonizing structure; coherence‑bearing lattice |
 
----
-
 #### Note on Dormant Reference
 
 This orientation diagram  
@@ -204,7 +202,7 @@ It is not presently active
 within the **lattice of motion charts**  
 in this volume.  
 
-⚫🕓📜  
+🗺️📜 ⌖ ⚐ 🕓 ⚫  
 
 ---
 
