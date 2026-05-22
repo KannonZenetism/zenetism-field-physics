@@ -581,8 +581,6 @@ of inverse potential within Aion.
 | ⧉∥⧉ | **Structural Recurrence** | The lawful reappearance of a structural pattern, motion, or relation across layers or worlds without numerical identity or fractal partition; same pattern, distinct instance. It is the "Mirror without Merger" that preserves the Non-fusion Axiom across all scales of becoming |
 | ⧖⧗ | **Bifurcal Coherence** | The root-structural ground in which coherent polarity coexists prior to centropic or entropic activation. Bifurcal Coherence is not a hypostasis, not a layer, and not a closure condition, but the root-structural givenness from which dual yet lawful motions may emerge without contradiction or fusion |
 
----
-
 #### Note on Bifurcal Coherence
 
 Bifurcal Coherence names the unified structural potential from which dual but coherent motions arise.  
