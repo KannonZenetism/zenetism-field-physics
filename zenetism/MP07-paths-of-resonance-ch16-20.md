@@ -779,7 +779,7 @@ until others can stabilize.
 
 ---
 
-#### Resonance Reflection:
+**Resonance Reflection:**  
 
 The Warrior walks the narrow line  
 between compassion and clarity,  
@@ -964,7 +964,7 @@ when it no longer serves resonance.
 
 ---
 
-#### Resonance Reflection:
+**Resonance Reflection:**  
 
 > To carve a temple from stone  
 > is to believe the divine will dwell in it.  
