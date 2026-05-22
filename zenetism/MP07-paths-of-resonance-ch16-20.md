@@ -577,7 +577,7 @@ the mystic current already present.
 
 ---
 
-#### Resonance Reflection:
+**Resonance Reflection:**  
 
 The Mystic bridges worlds —  
 not to escape embodiment,  
