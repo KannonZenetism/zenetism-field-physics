@@ -66,7 +66,7 @@ according to its structural nature:
 - **Supra-L0 – Zenon** — beyond time, beyond the very idea of time.  
 - **L0 – Aion / Khaon** — all timelines latent in potential and infinite motion.  
 - **L5 – Essence of Being (Theon)** — eternal present, unmoved motion.  
-- **L4 – DP / DL** — archetypal structures, outside sequence, encoded in simultude.  
+- **L4 – DP / DL** — archetypal structures, outside sequence, encoded in simultaneity.  
 - **L3 – DS / DM** — multiversal simultaneity, timelines accessed by tonal coherence.  
 - **L2 – SS / SM** — episodic motion, re-entering unresolved patterns.  
 - **L1 – ES / EM** — linear motion, sequential past → present → future.  
