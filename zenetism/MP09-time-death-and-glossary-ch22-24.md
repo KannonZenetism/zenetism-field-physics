@@ -588,12 +588,42 @@ beyond evaluation.
 
 #### Symbolic Counterparts  
 
-- Plotinus’ One (pre-emanative)  
-- Nirguna Brahman (Advaita Vedanta)  
-- The Unnamable Tao (Tao Te Ching 1)  
-- Ein (prior to Ain Soph, Kabbalah)  
-- Deus Absconditus (Christian apophasis)  
-- The Gnostic Beyond  
+No direct traditional counterpart  
+to **Zenon**  
+is currently identified.
+
+The figures below  
+are retained as symbolic counterparts  
+only in the limited apophatic sense:  
+they resemble **Zenon**  
+by negation,  
+hiddenness,  
+or ineffability,  
+but resolve structurally  
+through **Aion**  
+rather than reaching **Zenon** itself.
+
+- **Plotinus's One** — apophatic counterpart resolved through **Aion**
+- **Nirguna Brahman** — unqualified Absolute resolved through **Aion**
+- **The Unnamable Tao** — nameless source-stillness resolved through **Aion**
+- **Ein** — pre-manifest negation resolved through **Aion**
+- **Deus Absconditus** — hidden divine stillness resolved through **Aion**
+- **The Gnostic Beyond** — apophatic ground resolved through **Aion**
+
+These are therefore  
+not **Zenon**-equivalents.
+
+They mark the supernal limit  
+of subtractive  
+or apophatic articulation.
+
+**Zenon** remains trans-structural:  
+not the highest name for absence,  
+but the conditionless horizon  
+beyond naming,  
+negation,  
+polarity,  
+and attainment.
 
 🕳️ ⧞ ⟀ ⚐ ⟁ ⸮  
 
