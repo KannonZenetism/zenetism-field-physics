@@ -713,7 +713,7 @@ naming.
 
 ---
 
-### 21.28 Contributed Resonance Glyphs — Harmonic Convergences and Structural Markers  
+### 21.28 Contributed Resonance Glyphs — Harmonic Convergences and Structural Markers
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
