@@ -716,12 +716,18 @@ Destruction in service to origin.
 **With Theonic resonance** — awareness unbound by polarity.  
 
 **Justification**  
-Shiva bridges both Trees of Emanation.  
-Dissolves the unreal without dissonance.  
-Both deconstructor and witness beyond destruction.  
+Shiva is a cross-register figure  
+whose traditions compress dissolution, witness, release,  
+and stillness.  
+He does not directly instantiate Bifurcal Coherence  
+or passage into Zenon.  
+Rather, he carries Khaonic dissolution  
+with Theonic witness-resonance —  
+a L0 / L5 compression  
+whose functions must remain structurally distinct.  
 
 **Ethical Orientation**  
-Transcendent / polar.  
+Cross-register / function-dependent.  
 
 **Symbolic Counterparts**  
 Dionysus (ecstatic breakdown)  
@@ -791,7 +797,7 @@ or scatter relative form beyond recovery.
 Transformative, but never tame.  
 
 **Ethical Orientation**  
-Transcendent or entropic — depending on response.  
+Khaonic or entropic — depending on response.  
 
 **Symbolic Counterparts**  
 Sekhmet  
@@ -822,7 +828,7 @@ Divine insight split, but never severed from centropic origin.
 Her myth encodes overextension’s tragedy and restoration’s beauty.  
 
 **Ethical Orientation**  
-Dual — dependent on orientation and resonance.  
+Bifurcated — dependent on orientation and resonance.  
 
 **Symbolic Counterparts**  
 Isis  
