@@ -84,7 +84,7 @@ We decode by examining:
 
 - **Function** — what the figure *does*  
 - **Ethic** — centropic, entropic, or beyond  
-- **Resonance level** — where it fits in the Tree  
+- **Resonance stratum** — where it fits in the Tree  
 - **Effect** — does it create, fragment, redeem, bind, or distort  
 
 We are not bound by genealogies.  
