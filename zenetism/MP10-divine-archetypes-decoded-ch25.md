@@ -1399,7 +1399,7 @@ Apophis
 Saturn  
 
 **Orientation**  
-Entropic or Transcendent — depending on response.  
+Entropic or transcendent — depending on response.  
 
 🕷️ 🐉 🪼 ☍ E↓♾ ♾  
 
@@ -1423,7 +1423,7 @@ Shakti
 Mary  
 
 **Orientation**  
-Centropic / Creative.  
+Centropic / creative.  
 
 🌬️ ⚐ 🔘 🌹 🍃 💠  
 
