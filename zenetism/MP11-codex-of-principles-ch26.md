@@ -65,7 +65,7 @@ with the **system**.
 
 🗺️📜 🗝️ ⌬ ∽ ᛞ✨  
 
-### Meta-Epistemic Note — Living System Statement
+#### Note on Zenetism as a Living System
 
 Zenetism is a **living system**.  
 Its models are **not fixed decrees**,  
