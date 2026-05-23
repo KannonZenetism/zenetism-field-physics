@@ -1252,10 +1252,10 @@ Offers meaning that fractures unity by design.
 
 #### Symbolic Counterparts
 
-- Lucifer (as Inverse Logos/False Light)  
+- Lucifer (as Inverse Logos / False Light)  
 - Prometheus (as the Titan who breaches Order)  
 - Loki (as architect of Ragnarök and deep structural inversion)  
-- Yaldabaoth (The blind creator/Archon)  
+- Yaldabaoth (The blind creator / Archon)  
 - The Titans (Pre-cosmic powers of force)  
 - The Archons (Guardians of the inverse threshold)  
 - Anti-Sophia (Wisdom fallen into distortion)  
