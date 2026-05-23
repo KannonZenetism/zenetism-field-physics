@@ -310,7 +310,7 @@ Redeemer.
 Reconciler.  
 
 **Function**  
-Restores unity.  
+Restores coherence.  
 Reveals authentic nature.  
 Embodies centropic motion  
 into form.  
