@@ -388,6 +388,8 @@ negation,
 polarity,  
 and attainment.  
 
+🕳️ ⧞ ⟀ ⟁ ⸮ ⚫  
+
 **Resonance, not name, determines placement.**
 
 For example:  
