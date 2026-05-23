@@ -340,9 +340,9 @@ A single deity or figure
 may appear at multiple layers  
 depending on its active role and tone.  
 
-| Zenetist Hypostasis | Cross-Traditional Equivalents | Functional Description |
+| Zenetist Hypostasis | Cross-Traditional Resonances | Functional Description |
 |---|---|---|
-| 🕳️ Zenon (UP) | The Unknown God, Nirguna Brahman, Deus Absconditus, Tao, Ein | The principle beyond principles (pre-figural and pre-conceptual; maps to the trans-structural ground, not an active deity) |
+| 🕳️ Zenon (UP) | No direct equivalent identified; apophatic resonance-markers include the Unknown God, Nirguna Brahman, Deus Absconditus, Tao, Ein | The principle beyond principles; trans-structural ground beyond figure, concept, polarity, and emanation |
 | ⚫ Aion (AP) | Ain Soph, Saguna Brahman, Bythos, Aditi, Nun | Infinite potential, source of all motion |
 | ♾ Khaon (AD) | Prakriti, Chaos, Tiamat, Ymir, Sunyata, Ouroboros | Proto-formal potential, dispersive ground |
 | 🛤️ Theon (EOB) | Christ, Vishnu, Amitabha, Ahura Mazda | Pure Being, integrative awareness |
@@ -355,6 +355,38 @@ depending on its active role and tone.
 | IDS / IDM | Subverted Selves, Asuras, Qarin, Spurious Guides | Inverted guides toward entropy |
 | ISS / ISM | Inverse Psyche, Shadow Jiva, Disordered Soul | Fragmented volition and distorted agency |
 | IES / IEM | Inverted Ego, Carnal Agents, Anti-Pattern | Willing embodiment of entropic force |
+
+#### Note on Zenon and Apophatic Resonance
+
+The **Zenon** row  
+is retained as an apophatic resonance-marker,  
+not as a list of direct counterparts.  
+
+No direct traditional equivalent  
+to **Zenon**  
+is currently identified.  
+
+Figures such as **Nirguna Brahman**,  
+**Tao**,  
+**Ein**,  
+and **Deus Absconditus**  
+appear adjacent to **Zenon**  
+by negation,  
+hiddenness,  
+or ineffability.  
+
+Yet their terminal ground  
+resolves structurally through **Aion**,  
+not **Zenon**.  
+
+They therefore mark  
+the Aionic limit  
+of apophatic articulation,  
+rather than the trans-structural horizon  
+beyond naming,  
+negation,  
+polarity,  
+and attainment.  
 
 **Resonance, not name, determines placement.**
 
