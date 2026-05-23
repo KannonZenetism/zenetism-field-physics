@@ -1483,7 +1483,7 @@ Its inherent function is always disruptive.
 - Mind is the **eye of the soul** — it grants structure to what the soul seeks.  
 - The centropic Tree synthesizes **acclivously** toward Zenon.  
 - The entropic Tree collapses **declivously** toward Absolute Dispersion through decoherence.  
-- **AMI** — the undivided field of Aion and Khaon — is pre-dual but structured.  
+- **AMI** — the undivided field of Aion and Khaon — is pre-bifurcated but structured.  
 - It unfolds into ordered coherence in Theon (**AUI**) and is inversely mirrored in Nekron (**IAUI**).  
 - Plotinus’ *One beyond Being* corresponds to Zenon.  
 - **Nous** aligns with Sophis (DL); **World Soul** aligns with Morgis (DP).  
@@ -1506,7 +1506,7 @@ In the Zenetist lattice,
 they form a **horizontal dyad**.  
 
 **Morgis (DP)** and **Sophis (DL)** are not sequential hypostases,  
-but the dual expression of a single stratum (L4).  
+but the paired expression of a single stratum (L4).  
 
 Thus what Neoplatonism distributes across two hypostases as  
 *World Soul* and *Nous*,  
