@@ -65,6 +65,8 @@ with the **system**.
 
 🗺️📜 🗝️ ⌬ ∽ ᛞ✨  
 
+---
+
 ### Meta-Epistemic Note — Living System Statement
 
 Zenetism is a **living system**.  
