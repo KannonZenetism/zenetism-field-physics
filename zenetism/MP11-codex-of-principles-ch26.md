@@ -698,6 +698,8 @@ Each symbolizes a mode of awareness,
 a form of motion,  
 or a structural alignment within the **Tree of Emanation**.  
 
+🪬📜 ⧉∥⧉ ∽ 🌳⇅ ⌬  
+
 **Archetypal Element Matrix**
 
 | Element | Direction | Color | Principle |
