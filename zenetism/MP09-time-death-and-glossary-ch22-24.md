@@ -779,7 +779,7 @@ it reflects the **Khaonic field**.
 
 #### The Three Aspects of Infinity
 
-**Latent Infinity (Φ¹)** — Pre-dual silence embedded in Aion;  
+**Latent Infinity (Φ¹)** — Pre-bifurcated silence embedded in Aion;  
 the substrate of pure potential before motion begins.
 
 **Motive Infinity (→)** — The principle of motion itself:  
@@ -913,7 +913,7 @@ but distortion occurs only when inverted.
 - Demiurge (as divine architect, not fallen)  
 - Uranus and Gaia (Heaven / Earth structuring)  
 - Nous (Neoplatonic Divine Mind)  
-- Binah / Chokhmah (dual poles of Divine Mind)  
+- Binah / Chokhmah (bifurcated poles of Divine Mind)  
 - Sophia unfallen (Gnostic Wisdom-as-Vitality)  
 - Structuring Logos (pre-incarnate patterning force)  
 - Hiranyagarbha (Golden Womb of Vedic creation)  
