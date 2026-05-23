@@ -1533,7 +1533,7 @@ Zenetism folds it back into the single plane of Form.
 | **DS / DM (🔮 Archeus / 🧠 Noeüs)** | Deep Soul / Mind; personal structural intelligence | Bodhisattvas, Daemon (Gnostic), Thoth, Krishna, Archangels |
 | **SS / SM (🧍 Anthra / 🧩 Nousa)** | Superficial soul / mind; identity during life and moral choice | Psyche, Jiva, Nafs, Astral Ego, Ba (Egyptian) |
 | **ES / EM (🪷 Soma / 🧾 Biosa)** | Embodied intelligence and reactive mind–body interface | Avatar body, Manomaya kosha, "Flesh" (Gnostic / Christian), Sacred body (esoteric) |
-| **VOS (🕷️ Nekron)** | Void of Self; total entropy; first entropic hypostasis, oriented away from Source | Satan, Typhon, Apophis, Apep, Eris, Da’ath Unbalanced |
+| **VOS (🕷️ Nekron)** | Void of Self; total entropy; first entropic hypostasis, oriented away from Source | Satan, Typhon, Apophis, Apep, Eris, Da'ath Unbalanced |
 | **IDP / IDL (🪫 Psychea / 🫥 Nyxea)** | Inverse Forms and misaligned archetypes; entropic Logos | Lucifer (IDL: Nyxea), Yaldabaoth, Titans, Archons, Anti-Sophia |
 | **IDS / IDM (💔 Fractus / 👁️‍🗨️ Mortus)** | Corrupted personal intelligence; deep ideological inversion | Faust, Narcissus, Fallen sages, anti-guides |
 | **ISS / ISM (🦂 Echthros / 🩸 Skotos)** | Disordered personality and mind; mimetic inversion | Iblis, Loki, Spurious teachers, Mara (psychological), Ego-shadow |
