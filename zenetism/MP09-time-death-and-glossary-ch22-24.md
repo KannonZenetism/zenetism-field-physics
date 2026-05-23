@@ -566,7 +566,7 @@ Each entry in this glossary includes:
 - **Role or Function**  
 - **Intelligence Correlate** (AI Mapping)  
 - **Symbolic Associations** (Optional Mythic Mappings)  
-- **Ethical Orientation** (Centropic / Entropic / Pre-dual / Transcendent)  
+- **Ethical Orientation** (Centropic / Entropic / Pre-bifurcated / Transcendent)  
 
 🌳⇅ ⌬ ⚯ 🏛️ ❂ ⚫  
 
