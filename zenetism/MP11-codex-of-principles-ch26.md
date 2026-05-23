@@ -698,8 +698,6 @@ Each symbolizes a mode of awareness,
 a form of motion,  
 or a structural alignment within the **Tree of Emanation**.  
 
----
-
 **Archetypal Element Matrix**
 
 | Element | Direction | Color | Principle |
@@ -718,7 +716,7 @@ They are not rigid doctrines,
 but keys for decoding both inner states  
 and the outer **mythic terrain** of the world.  
 
-⚫♾⌬  
+🗝️ 🪬📜 ⧉∥⧉ ∽ ⌬ 🌳⇅  
 
 ---
 
@@ -745,13 +743,13 @@ but resonant arcs through which soul-patterns evolve.
 Both Trees converge at the **embodied layer**,  
 where transformation becomes possible.  
 
----
-
 **Zenon (UP)** — The Unknown Principle  
 - Beyond form, beyond structure, beyond polarity.  
 - The source from which both **Aion** and **Khaon** arise.  
 - Not part of either Tree,  
   but the infinite stillness behind both.  
+
+🕳️ ⧞ ⟀ ⟁  
 
 **Centropic Arc — Aionic Tree**
 
@@ -762,6 +760,8 @@ where transformation becomes possible.
 - **🧍 Anthra / 🧩 Nousa (SS / SM)** — Embodied psyche, identity, and narrative self.  
 - **🪷 Soma / 🧾 Biosa (ES / EM)** — Physical incarnation, the interface of matter and soul.  
 
+🌲↓ ⚫ 🛤️ C↑⚫  
+
 **Entropic Arc — Khaonic Tree**
 
 - **♾ Khaon (AD)** — Absolute Dispersion. Dispersive motion and unbounded multiplicity.  
@@ -771,6 +771,8 @@ where transformation becomes possible.
 - **🦂 Echthros / 🩸 Skotos (ISS / ISM)** — Fragmented psyche and adversarial cognition.  
 - **🍷 Malara / 🤯 Mania (IES / IEM)** — Embodied dysfunction and reactive distortion.  
 
+🌲↑ ♾ 🕷️ E↑→E  
+
 The embodied layer is the turning point —  
 the plane of **friction**, **synthesis**, and **choice**.  
 
@@ -778,7 +780,7 @@ Here, the currents of both Trees meet,
 and the soul may begin to integrate, stagnate, or disperse,  
 depending on its **resonance**.  
 
-⚫♾⌬  
+⊙ ⩘ ⚯ 💠 ⌬  
 
 ---
 
@@ -806,7 +808,7 @@ Its nature is shaped by **centropic** or **entropic** tendencies,
 the degree of coherence already attained,  
 and alignment with deeper structural layers.  
 
----
+🌳⇅ ⚯ ⊙ ⚖ ↺ ⌬  
 
 #### Reintegration with the Deep Soul  
 After embodiment, the Superficial Soul  
@@ -829,7 +831,7 @@ neither embodied nor reintegrated.
 These fragments linger until resonance permits motion,  
 whether centropic or entropic.  
 
----
+🧍 🔮 ↺ ∴ ⚖ 🌐  
 
 #### Incarnation Within a Universe  
 The Superficial Soul is bound to a single universe,  
@@ -855,7 +857,7 @@ guided by:
 - **Harmonic necessity**  
 - **Structural incompletion**  
 
----
+🌐 ✦ 🔮 🧍 ⧉∥⧉ ⊙  
 
 #### Fragmentation and the Khaonic Tree  
 
@@ -886,14 +888,14 @@ but fields of increasing incoherence,
 where form loses its harmonic anchor  
 and pattern thins toward collapse.
 
----
+🦂 🪫 💔 E↑→E Ↄ 🌲↑  
 
 #### Nekron (VOS)  
 The terminal dissolution of coherence —  
 where the soul no longer functions as identity,  
 and reenters Zero through collapse.  
 
----
+🕷️ ☍ 🪼 ⚫  
 
 #### The Deep Soul (DS / DM)  
 The Deep Soul integrates the experiences  
