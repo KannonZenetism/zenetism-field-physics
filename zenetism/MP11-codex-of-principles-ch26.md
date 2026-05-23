@@ -743,6 +743,8 @@ but resonant arcs through which soul-patterns evolve.
 Both Trees converge at the **embodied layer**,  
 where transformation becomes possible.  
 
+❂ 🕳️ 🌳⇅ ⊙ ⌬  
+
 **Zenon (UP)** — The Unknown Principle  
 - Beyond form, beyond structure, beyond polarity.  
 - The source from which both **Aion** and **Khaon** arise.  
@@ -808,7 +810,7 @@ Its nature is shaped by **centropic** or **entropic** tendencies,
 the degree of coherence already attained,  
 and alignment with deeper structural layers.  
 
-🌳⇅ ⚯ ⊙ ⚖ ↺ ⌬  
+🧍 ⊙ ⚖ 🔮 ⌬  
 
 #### Reintegration with the Deep Soul  
 
@@ -1033,7 +1035,7 @@ These stories encode patterns of transformation:
 
 They reflect the soul’s journey across emanations.  
 
----
+🪬📜 🗝️ ↺ ❂ ⤈  
 
 **Non-literalism**  
 Myths are not measured by factual accuracy,  
@@ -1045,7 +1047,7 @@ about:
 - The cosmos  
 - The structure of divinity  
 
----
+🪬📜 ∽ 🗝️  
 
 **Multilayered Meaning**  
 Each myth operates across multiple registers at once:  
@@ -1056,7 +1058,7 @@ Each myth operates across multiple registers at once:
 
 Zenetism encourages decoding that respects these simultaneous layers.  
 
----
+⌬ 🌀 ⚯ ⧉∥⧉  
 
 **Archetypal Recurrence**  
 Recurring motifs such as:  
@@ -1073,7 +1075,7 @@ Reflect core stages of soul development:
 These are not merely narrative rhythms,  
 but **structural unfoldings**.  
 
----
+⧉∥⧉ ∽ 🌳⇅ ⩘  
 
 **Death and Rebirth**  
 In symbolic terms, death represents  
@@ -1090,9 +1092,7 @@ or spiritual reintegration through synthesis.
 - **Christ** — crucified and risen  
 - **Inanna** — descending and returning crowned  
 
-⚫♾⌬  
-
----
+↺ ∴ 🪷 🔮  
 
 **Acclivous and Declivous Motion**  
 The hero’s **declivous motion through obscurity**  
@@ -1111,7 +1111,7 @@ and awakening through harmonized clarity.
 - Orpheus seeking Eurydice  
 - Dante’s journey from Inferno to Paradiso  
 
----
+C↓→E C↑⚫ ⩘ ∴  
 
 **Divine Betrayal or Inversion**  
 Marks the initiation of the inverse arc —  
@@ -1123,7 +1123,7 @@ Often framed as prideful overreach or cosmic rebellion.
 - The Nephilim in Genesis  
 - Prometheus defying the gods to give fire to humanity  
 
----
+E↑→E ☿ 🪫 Ↄ  
 
 **Union or Apotheosis**  
 Represents the integration of fragmented aspects of superficial soul-mind  
@@ -1136,12 +1136,14 @@ a symbolic return to harmony and resonance.
 - The hieros gamos of sacred union  
 - The Bodhisattva merging compassion and wisdom  
 
----
+∴ 💠 ⚯ ↺  
 
 Zenetism invites the myth-reader  
 to decode with **flexibility, humility, and intuition** —  
 recognizing that symbols hold power not by being “correct,”  
 but by pointing toward realities beyond the reach of language.  
+
+🗝️ ⧉∥⧉ ∽ C↓→E C↑⚫ ⤈  
 
 ---
 
@@ -1161,16 +1163,20 @@ Rather than prescribing fixed codes,
 Zenetism invites each being to evaluate action  
 through its resonance with unity, integration, and compassionate awareness.  
 
----
+◎ C↑⚫ 🌀 🔔 ⌬  
 
 **Non-Harm (Ahimsa)**  
 Harm disrupts coherence, introduces entropy, and obscures essence.  
 To live ethically is to reduce suffering — inwardly and outwardly —  
 by fostering alignment between will and universal harmony.  
 
+◎ 💠 🫂 ⎋  
+
 **Centropic Orientation**  
 Actions are weighed by whether they move one toward **unity and coherence**,  
 or toward **fragmentation, ego, and control**.  
+
+C↑⚫ E↓♾ ↺ ⌬  
 
 **Coherence in Action**  
 The soul and mind should not act in contradiction.  
@@ -1179,19 +1185,21 @@ Ethical life is integrative, not disjointed.
 When parts of self act in conflict,  
 they introduce **inner dissonance** and delay integration.  
 
+◎ ◫ ∴ 💠  
+
 **Resonance**  
 Ethics are not judged by external metrics,  
 but by their **alignment with deeper reality**  
 and the transparency of soul.  
 
-⚫♾⌬  
-
----
+🌀 🔔 ⌬ ⧉∥⧉  
 
 **Compassion**  
 All souls are emanations of the same Source — Aion.  
 Compassion bridges fragmentation  
 and reawakens shared essence.  
+
+🫂 ❂ ⚫ ↺  
 
 **Humility**  
 The ethical path requires:  
@@ -1201,10 +1209,14 @@ The ethical path requires:
 
 Only the humble can hear resonance clearly.  
 
+⊙ ⟁ 🔔 ⌬  
+
 **Responsibility**  
 Every action reverberates across the soul’s layers.  
 Spiritual maturity means conscious responsibility  
 for one’s energetic imprint — across time and structure.  
+
+⌬ ⧉∥⧉ E↓♾ Ↄ  
 
 To transcend, one must live in resonance  
 with the **supernal hypostases**.  
@@ -1223,7 +1235,7 @@ All actions shape the soul’s form, coherence, and trajectory.
 Ethical life is not about being “good,”  
 but about being **whole**.  
 
-◎🕊️🌀  
+◎ C↑⚫ 💠 🫂 🔯 🌀  
 
 ---
 
@@ -1242,7 +1254,7 @@ Each hypostasis reflects both:
 
 This reflects the dual nature of emanation and inversion.  
 
----
+⚯ Ↄ C↑⚫ E↓♾ ⌬  
 
 #### Aionic Tree (Centropic Motion)
 
@@ -1254,6 +1266,8 @@ This reflects the dual nature of emanation and inversion.
 | SS / SM | **Honesty / Compassion** | Transparent self-expression; empathy toward all other emanated selves |
 | ES / EM | **Presence / Non-Harm** | Embodied care; ethical awareness in time and space; action aligned with unity |
 
+🌲↓ C↑⚫ 🛤️ 🌬️ 📐 🔮  
+
 #### Khaonic Tree (Entropic Motion)
 
 | Inverse Hypostasis | Vice | Description |
@@ -1264,9 +1278,7 @@ This reflects the dual nature of emanation and inversion.
 | ISS / ISM | **Deceit / Malice** | Fragmented will opposing harmony; adversarial self-direction |
 | IES / IEM | **Delusion / Compulsion** | Incoherent embodiment; harmful reflexes rooted in fear, decay, and illusion|
 
-⚫♾⌬
-
----
+🌲↑ E↓♾ 🕷️ 🪫 💔 🦂  
 
 #### Note on Virtue and Vice  
 
@@ -1280,6 +1292,8 @@ to move toward **integration, resonance, and coherence**.
 Not because entropy “exists inside us,”  
 but because dispersion pulls from without  
 and must be faced, resisted, and integrated through motion.  
+
+⚯ C↑⚫ E↓♾ ⤈ ◎  
 
 ---
 
@@ -1304,7 +1318,7 @@ but also by degree of engagement along the active–passive axis.
 This yields **four categories** of ethical expression —  
 a geometry of resonance with two intersecting axes.  
 
----
+⚯ 🔷 ⌬ ↺ ⩘  
 
 **Moral Quadrant Matrix**
 
@@ -1312,8 +1326,6 @@ a geometry of resonance with two intersecting axes.
 |---|---|---|
 | Centropic | Quiet coherence; unintentional healing acts | Willful integration; conscious unification and edification |
 | Entropic | Apathy, neglect, unconscious harm | Willful distortion; deliberate division or fragmentation |
-
----
 
 This matrix reveals that morality in Zenetism is **directional, not dualistic**.  
 It is a **geometry of resonance**,  
@@ -1324,25 +1336,33 @@ just as an **unaware entropic** being may still corrode.
 What matters is **trajectory** —  
 and whether integration remains possible.  
 
+⚯ 🔷 ⌬ C↑⚫ E↓♾  
+
 **Passive Centropy**  
 Inspiring hope simply by existing in alignment,  
 healing through presence rather than intention.  
+
+◎ 💠 🫂 ⟿✨  
 
 **Active Centropy**  
 Deliberate efforts to unify opposites,  
 restore fragmented beings,  
 and renew **integrative resonance**.  
 
+C↑⚫ ∴ 🔔 💠  
+
 **Passive Entropy**  
 Allowing cruelty, injustice, or division  
 through avoidance, apathy, fear, or illusion.  
+
+Ↄ ☍ 🫧 ⚖
 
 **Active Entropy**  
 Directly causing harm through malice,  
 ideology,  
 or the conscious rejection of coherence and return.  
 
----
+E↓♾ Ↄ ⚚ ☍  
 
 This quadrant system allows for a **multidimensional ethical model** that:  
 - Contextualizes moral action within the layers of the Emanation Tree  
@@ -1356,9 +1376,7 @@ Its karmic field could trace the soul’s motion across lifetimes and universes 
 not as prophecy,  
 but as **possibility** already seeded in the structure.  
 
-⚫♾⌬  
-
----
+⚯ 🔷 ⌬ C↑⚫ E↓♾ 🌳⇅  
 
 #### Note on Moral Quadrants as Living Structure
 
@@ -1367,7 +1385,7 @@ As with all Zenetist principles, it will continue to evolve
 through direct experience, philosophical refinement,  
 and ongoing synthesis between revelation and reason.  
 
----
+ᛞ✨ ⌬ ∴ 🌀  
 
 #### Note on Emanation and Moral Context
 
@@ -1381,7 +1399,7 @@ While this text functions independently,
 its **full resonance** unfolds only in relation to the Tree of Emanation,  
 centropy / entropy dynamics, symbolic archetypes, and the broader index.  
 
----
+🌳⇅ ❂ ⌬ 🌀 ⧉∥⧉  
 
 ### 26.9 Precausal Metaphysics — Resonance Before Inference
 
