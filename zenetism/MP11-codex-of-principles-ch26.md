@@ -1401,6 +1401,8 @@ centropy / entropy dynamics, symbolic archetypes, and the broader index.
 
 🌳⇅ ❂ ⌬ 🌀 ⧉∥⧉  
 
+---
+
 ### 26.9 Precausal Metaphysics — Resonance Before Inference
 
 Before motion, there is **coherence** —  
