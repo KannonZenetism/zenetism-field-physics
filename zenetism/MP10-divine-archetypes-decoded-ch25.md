@@ -129,7 +129,7 @@ Centropic (though mythically imperfect).
 **Symbolic Counterparts**  
 Brahma  
 Demiurge (positive form)  
-Chesed / Gevurah (dual poles of L4 sovereignty)  
+Chesed / Gevurah (polarity-distinct poles of L4 sovereignty)  
 
 ⚫◎⌬  
 
@@ -146,8 +146,10 @@ Containment and generative fertility.
 Archetypal masculine and feminine.  
 
 **Zenetist Placement**  
-**DP / DL** — primary polarization of Theonic unity;  
-an archetypal reflection of the Aion / Khaon dyad.  
+**DP / DL** — archetypal sky / earth polarity;  
+a cross-stratum cosmogonic pairing  
+that symbolically resembles stillness / motion polarity  
+without directly mapping to **Aion / Khaon**.  
 
 **Justification**  
 They express primordial polarity  
@@ -156,7 +158,7 @@ Gaia = generative field (DP).
 Uranus = structuring sky-mind (DL).  
 
 **Ethical Orientation**  
-Pre-dual, tending toward early centropic alignment.  
+Pre-ethical, tending toward early centropic alignment.  
 
 **Symbolic Counterparts**  
 Yin and Yang  
