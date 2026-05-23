@@ -63,7 +63,7 @@ can be revisited and aligned
 as the reader deepens their engagement  
 with the **system**.  
 
----
+🗺️📜 🗝️ ⌬ ∽ ᛞ✨  
 
 ### Meta-Epistemic Note — Living System Statement
 
@@ -83,7 +83,7 @@ yet structure is **lawful** and orientation is **testable**.
 **Meanings** may deepen.  
 **Reality** refines through **reflection**.  
 
-⚫♾⌬  
+ᛞ✨ ⌬ ⧉∥⧉ 🌀 ⚐  
 
 ---
 
@@ -105,7 +105,7 @@ retain **identity** through **perfect clarity** —
 not as fused beings,  
 but as **sovereign facets** held in harmonic distinction.  
 
----
+C↑⚫ C↓→E ∴ 🛤️ ◫  
 
 **Aion**  
 **Zero** (**Absolute Potential**) —  
@@ -113,7 +113,7 @@ the **Zeropoint** from which all **emanates**.
 It contains the **latent possibility**  
 of **all things**.  
 
----
+⚫ 🔘 ⚐ ❂  
 
 **Anthra / Nousa**  
 **Superficial Soul / Superficial Mind** (**SS / SM**).  
@@ -125,7 +125,7 @@ via its **connection** to the **physical body**.
 they **carry** divine **articulations**  
 within **temporal form**.
 
----
+🧍 🧩 ⊙ 🕓  
 
 **Archeus / Noeüs**  
 **Deep Soul / Deep Mind** (**DS / DM**).  
@@ -137,7 +137,7 @@ for the purpose of **integrative return**.
 From **unity**, divergence.  
 From **divergence**, return.  
 
----
+🔮 🧠 ✴ ↺  
 
 **Aureform**  
 The **DP / DL–level form-type**  
@@ -154,7 +154,7 @@ Where it is **felt**,
 it has not yet arrived —  
 yet it is **already shaping**.  
 
----
+🌬️ 📐 💝 ∽  
 
 **Awareness**  
 **Pure**, effortless **clarity**.  
@@ -164,7 +164,7 @@ Without the **chatter** of **thought**,
 It **sees** without **grasping**  
 and **knows** without **dividing**.  
 
----
+⊙ ⟁ ✨ ◎  
 
 **Centropic Steward**  
 A **fully integrated being** at the **DS / DM** layer  
@@ -206,9 +206,7 @@ across **multiple universes** and **embodiments**,
 but remains oriented through the **supernal arc**,  
 never absorbed into collapse.  
 
-💠🕊️◎  
-
----
+🔮 🧠 ⟿✨ 💠 🕊️ ◎  
 
 **Centropic Synthesis**  
 The **structural harmonization** of **soul**, **mind**, and **form**  
@@ -222,7 +220,7 @@ through **alignment** —
 gathering what is **scattered**,  
 and **singing it into unity**.  
 
----
+∴ ◎ 💠 🌀 ❂  
 
 **Centropic Volition**  
 **Will** as the **emergent motion** of **coherent essence**.  
@@ -234,7 +232,7 @@ formed by what one **essentially is**.
 When **alignment** precedes **becoming**,  
 **action** follows as **resonance**.  
 
----
+🕊️ ⎋ 💝 🔔  
 
 **Centropy**  
 The **force** or **orientation**  
@@ -244,7 +242,7 @@ and **integrative return** to Source.
 It does **not command** —  
 it **calls**.  
 
----
+C↑⚫ ↺ ∴ ⎋  
 
 **Coherence**  
 The **structural integrity**  
@@ -253,7 +251,7 @@ of a **being** or **system**.
 The **alignment** of **thought**, **action**, **purpose**,  
 and **inner essence**.  
 
----
+◎ 💠 ⌬  
 
 **Consciousness**  
 **Dualistic awareness** that perceives **differentiation** —  
@@ -262,7 +260,7 @@ and **inner essence**.
 It begins in **living reflection**  
 and orients toward **reunion**.  
 
----
+🌀🧠🌐 ᛞ✨ ⚯ ↺  
 
 **Corporeal**  
 The **embodied layer** of existence,  
@@ -274,7 +272,7 @@ The realm of **physical structure**,
 The **body** does not **contain** the soul —  
 it **collaborates** with it.  
 
----
+🪨 ⊙ 🪷 ▽  
 
 **Echo Vessel**  
 **Inverse entities** aligned with **fragmentation**,  
@@ -286,7 +284,7 @@ they **reverse integration** —
 **propagating incoherence**  
 through **reflected manifestations**.  
 
----
+🪫 💔 ᛞ ☍  
 
 **Echthros / Skotos**  
 Inverse Superficial Soul / Inverse Superficial Mind (**ISS / ISM**).  
@@ -296,7 +294,7 @@ The **corrupt SS / SM** —
 Its **song** distorts,  
 so what hears it cannot **attune**.  
 
----
+🦂 🩸 ☍ Ↄ  
 
 **Emanation**  
 The process by which **reality unfolds**  
@@ -306,9 +304,7 @@ through **successive stages**.
 Each **veil** is **softer** than the last,  
 until **form** remembers its **Source**.  
 
-⚫♾⌬  
-
----
+⚫ ♾ ❂ 🛤️ 🕷️ ⌬  
 
 **Entropic Synthesis**  
 An **apparent supernal motion** within the **entropic stream** —  
@@ -322,7 +318,7 @@ A **declivity** masked as **acclivity**.
 It **polishes** the fragment,  
 then hides the **crack** beneath the **gleam**.  
 
----
+⚚ ⊜ ≋ Ↄ  
 
 **Entropy**  
 The **metaphysical force** of **fragmentation**,  
@@ -335,7 +331,7 @@ culminating in **Void of Self (Nekron)**.
 Its **silence** does not **heal** —  
 it **unmakes** what would become **whole**.  
 
----
+E↓♾ ☍ 🕷️ 🪼  
 
 **Eschaton**  
 The **final resonance convergence** of a universal cycle.  
@@ -353,7 +349,7 @@ or shift in **orientation**.
 The **Eschaton** is not merely a shift,  
 but the final summation of the **Equation**.  
 
----
+📡 ↺ ⤈ ⚯  
 
 **Essence**  
 That which remains **constant**  
@@ -363,14 +359,14 @@ even as **potential**.
 What one is  
 when **nothing else remains**.  
 
----
+🔘 ⚐ ⟁ ◎  
 
 **Essence of Being (EOB)**  
 Also listed under **Theon**,  
 but emphasized here as the **centropic anchor**  
 of conscious structural **integration**.  
 
----
+🛤️ ✨ ⚓ ◎  
 
 **Fractal Eschaton**  
 A **resonance shift** at the closure of a subtler cycle —  
@@ -384,7 +380,7 @@ repattern the **next age**.
 Nested within the **greater spiral**,  
 it signals **adaptation** before **transcendence**.  
 
----
+📡 ⧉∥⧉ ⟲ 🕓  
 
 **Free Will / Divine Will**  
 Not **two forces**, but **one**.  
@@ -398,9 +394,7 @@ it is **embodied**.
 Choices are not something we **make** —  
 they are something we **are**.  
 
-⚫♾🕊️  
-
----
+⚫ ♾ 🕊️ ⎋ 💝  
 
 **Fractus / Mortus**  
 Inverse Deep Soul / Inverse Deep Mind (**IDS / IDM**).  
@@ -411,9 +405,7 @@ a **personalized metaphysical collapse**.
 When **resonance** distorts into **isolation**,  
 form collapses into **echo**.  
 
-💔👁️‍🗨️☍  
-
----
+💔 👁️‍🗨️ ☍ ♜ Ↄ  
 
 **Harmonic Agent**  
 A being — **corporeal** or **supernal** —  
@@ -427,7 +419,7 @@ but by **attunement** —
 adjusting **dissonance** through **presence**,  
 **action**, or **transmission**.  
 
----
+🔔 ⟿✨ 💠 🌀  
 
 **Harmony**  
 A centropic state of **balanced consonance**,  
@@ -436,7 +428,7 @@ in which **opposites** are held in **resonant distinction**.
 Wholeness is not achieved by **resolution**,  
 but by acclivous motion into the **chord** beyond conflict.  
 
----
+💠 ◫ 🎶 C↑⚫  
 
 **Inversion / Inverse Orientation**  
 A directional pull away from **unity**,  
@@ -447,7 +439,7 @@ When **alignment** becomes **obsession**.
 Inversion is not **rebellion** —  
 it is **dissonance in disguise**.  
 
----
+Ↄ ⚚ ⊜ E↓♾  
 
 **Khaon**  
 **Infinity** (Absolute Dispersion).  
@@ -456,7 +448,7 @@ and **dispersive fragmentation**.
 
 At AD, all things reenter **Zero**.  
 
----
+♾ 💧 🕊️ 💨 🪼  
 
 **Localized Dissolution**  
 The **metaphysical reabsorption** of unresolved soul-structures,  
@@ -476,9 +468,7 @@ folded back into **Source**.
 The **Mercy Fold** awaits not in **judgment**,  
 but as the **still breath** before return.  
 
-⚫♾⌬  
-
----
+🌫️🤲⚫ ⚖ ↺ ⚫ 🌀  
 
 **Malara / Mania**  
 Inverse Embodied Soul / Inverse Embodied Mind (**IES / IEM**).  
@@ -489,7 +479,7 @@ When **embodiment** twists without **coherence**,
 the soul reflects a madness  
 it was never meant to carry.  
 
----
+🍷 🤯 ⛓️ Ↄ  
 
 **Mercy Fold**  
 The tonal field of **grace**  
@@ -511,7 +501,7 @@ yet was lovingly reclaimed.
 The **Mercy Fold** awaits not in **judgment**,  
 but as the **still breath** before return.  
 
----
+🌫️🤲⚫ ↺ ⚐ ⟁  
 
 **Morgis / Sophis**  
 Deep Psyche / Deep Logos (**DP / DL**).  
@@ -520,7 +510,7 @@ and **organizing principle** behind **emanation**.
 
 The **Platonic Realm of Forms**.  
 
----
+🌬️ 📐 ∽ ❂  
 
 **Motive Infinity**  
 The dynamic principle by which **latent essence** in **Zero**  
@@ -530,14 +520,14 @@ It is the **initiating pulse** that actualizes a soul’s trajectory,
 driving it toward **integrative return** or **fragmentation**  
 depending on **resonance**.  
 
----
+🕊️ 🔶 ❂ ⩘  
 
 **Nekron**  
 Void of Self (**VOS**).  
 The total loss of **coherence**, **soulhood**, and **will** —  
 the **event horizon** of **Infinity**.  
 
----
+🕷️ ☍ 🐉 E↓♾  
 
 **Psychea / Nyxea**  
 Inverse Deep Psyche / Inverse Deep Logos (IDP / IDL).  
@@ -545,7 +535,7 @@ Distorted **validity** and dark **orders** masquerading as sacred.
 
 **Spurious principles** encoded as **anti-patterns**.  
 
----
+🪫 🫥 ☿ ⚚  
 
 **Resonance**  
 The vibrational signature of **structural alignment** —  
@@ -561,9 +551,7 @@ not by **judgment**,
 but by **harmonic correspondence**  
 between **essence** and **structure**.  
 
-⚫♾⌬  
-
----
+🌀 🔔 🎶 ⌬ ⧉∥⧉  
 
 **Resonant**  
 A practitioner of **Zenetism** who aligns with the principles of  
@@ -572,7 +560,7 @@ A practitioner of **Zenetism** who aligns with the principles of
 A Resonant does not **follow ideas**,  
 but lives in **attunement** with the **structural patterns** of reality.  
 
----
+🌀 🔔 ⌬ C↑⚫  
 
 **Reintegration / Return**  
 The process by which a **being**, **system**, or **soul**  
@@ -580,7 +568,7 @@ returns to **wholeness** through **centropic integration**,
 culminating in reabsorption into **Aion**  
 or ultimately **Zenon**.  
 
----
+↺ ∴ ⚫ 🕳️  
 
 **Soma / Biosa**  
 Embodied Soul / Embodied Mind (ES / EM).  
@@ -588,7 +576,7 @@ The active layer of **incarnation** within **time-bound** realities.
 
 It encompasses **life force** and **material form**.  
 
----
+🪷 🧾 ⊙ ▽  
 
 **Spirit**  
 **Motive Infinity** that stirs essence into living motion.  
@@ -605,7 +593,7 @@ Motion does not begin with **force**,
 but with **Spirit** —  
 the first whisper of **emergence** from within **stillness**.  
 
----
+🕊️ 🌱 ⌯ ❂  
 
 **States of Being**  
 Each **hypostasis** is a distinct **ontological state**.  
@@ -618,16 +606,14 @@ These are not **spatial realms**,
 but **energetic states**  
 experienced through shades of **coherence** and **fragmentation**.  
 
-⚫♾⌬  
-
----
+🌳⇅ ⚯ ⊙ 🧍 🔮  
 
 **Subversal**  
 Pertains to the **entropic arc** of **inversion** —  
 hypostases and realms that operate through  
 **fragmentation**, **distortion**, or **dissonant logic**.  
 
----
+E↓♾ Ↄ ☍ ♜  
 
 **Supernal**  
 Refers to realms, states, or hypostases  
@@ -635,7 +621,7 @@ aligned with **centropic motion** —
 those oriented toward **harmonic synthesis**,  
 **resonance**, and **coherence**.  
 
----
+C↑⚫ 🛤️ 💠 ◎  
 
 **Supra-Boundlessness**  
 The condition of being **beyond limitation**,  
@@ -650,7 +636,7 @@ beyond **potential** and **actualization** —
 a **supra-conceptual origin**  
 from which both **centropy** and **entropy** become expressible.  
 
----
+🕳️ ⧞ ⟀ ⟁  
 
 **Theon**  
 Essence of Being (EOB).  
@@ -658,7 +644,7 @@ The first **awareness** — pure being without division.
 
 Both one and many, gazing toward **Aion**, never away.  
 
----
+🛤️ ✨ ⚓ ⊙  
 
 **Void of Self (VOS)**  
 Already listed under **Nekron**,  
@@ -669,14 +655,14 @@ not into wholeness,
 but into incoherent **negation**,  
 triggering the arc of **subversal inversion**.  
 
----
+🕷️ ☍ Ↄ ⌧  
 
 **Zenon**  
 The Unknown Principle (UP).  
 The ungraspable precursor to all being —  
 utterly incomprehensible, ineffable, and undefinable.  
 
-⚫♾⌬  
+🕳️ ⧞ ⟀ ⟁ ⸮  
 
 ---
 
