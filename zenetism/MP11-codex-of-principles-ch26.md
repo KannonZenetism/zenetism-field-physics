@@ -811,6 +811,7 @@ and alignment with deeper structural layers.
 🌳⇅ ⚯ ⊙ ⚖ ↺ ⌬  
 
 #### Reintegration with the Deep Soul  
+
 After embodiment, the Superficial Soul  
 may begin its return to the Deep Soul —  
 a harmonic structure composed of many SS / SM expressions  
@@ -834,6 +835,7 @@ whether centropic or entropic.
 🧍 🔮 ↺ ∴ ⚖ 🌐  
 
 #### Incarnation Within a Universe  
+
 The Superficial Soul is bound to a single universe,  
 but not to embodiment itself.  
 
@@ -891,6 +893,7 @@ and pattern thins toward collapse.
 🦂 🪫 💔 E↑→E Ↄ 🌲↑  
 
 #### Nekron (VOS)  
+
 The terminal dissolution of coherence —  
 where the soul no longer functions as identity,  
 and reenters Zero through collapse.  
@@ -898,6 +901,7 @@ and reenters Zero through collapse.
 🕷️ ☍ 🪼 ⚫  
 
 #### The Deep Soul (DS / DM)  
+
 The Deep Soul integrates the experiences  
 of many Superficial Souls (SS / SM).  
 Each SS / SM fragment incarnates within a single universe,  
@@ -916,9 +920,9 @@ The DS / DM remains intact
 unless fragmentation across its emanated network  
 becomes predominant.  
 
-⚫♾⌬  
+🔮 🧠 🧠🌐 ✴ ⧉∥⧉ ⚫  
 
----
+#### Inverse Convergence and Stable Hypostases  
 
 In some cases, the Superficial Soul  
 may shift toward its inverse counterpart (IDS / IDM)  
@@ -951,7 +955,9 @@ Though a soul’s fundamental nature
 tends to remain stable across its multiversal unfoldings,  
 it is not **permanently fixed**.  
 
----
+🦂 💔 ⚯ 🌐 🌳⇅  
+
+#### Reversibility and Hidden Stagnation  
 
 Some entropic tendencies arising within SS / SM  
 can be reversed —  
@@ -966,7 +972,9 @@ Conversely, what appears as success
 may collapse inward if the soul ceases to evolve.  
 Subtle stagnation may hide within polished surfaces.  
 
----
+⧉∥⧉ ⚖ ↺ ⚚  
+
+#### Motion and Crystallized Resonance  
 
 Zenetism emphasizes **motion above all** —  
 either toward **coherence, integration, and return** to Aion,  
@@ -989,9 +997,7 @@ All motion has consequence,
 and every trajectory carries the soul  
 closer to its resting state in the cosmic field.  
 
-⚫♾⌬  
-
----
+C↑⚫ E↓♾ 🌫️🤲⚫ ↺ ⊘ ⌬  
 
 #### Note on Death as Resonant Transition
 
@@ -1007,6 +1013,8 @@ The Tree of Emanation serves
 not only as a map of the cosmos,  
 but as a **living reflection of the soul’s directionality** —  
 its movement into coherence or collapse.  
+
+↺ 📡 🌳⇅ ᛞ✨ ⌬  
 
 ---
 
