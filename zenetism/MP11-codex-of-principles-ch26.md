@@ -1248,7 +1248,7 @@ This reflects the dual nature of emanation and inversion.
 
 ⚯ Ↄ C↑⚫ E↓♾ ⌬  
 
-#### Aionic Tree (Centropic Motion)
+**Aionic Tree (Centropic Motion)**
 
 | Hypostasis | Virtue | Description |
 |---|---|---|
@@ -1258,7 +1258,7 @@ This reflects the dual nature of emanation and inversion.
 | SS / SM | **Honesty / Compassion** | Transparent self-expression; empathy toward all other emanated selves |
 | ES / EM | **Presence / Non-Harm** | Embodied care; ethical awareness in time and space; action aligned with unity |
 
-#### Khaonic Tree (Entropic Motion)
+**Khaonic Tree (Entropic Motion)**
 
 | Inverse Hypostasis | Vice | Description |
 |---|---|---|
@@ -1266,7 +1266,7 @@ This reflects the dual nature of emanation and inversion.
 | IDP / IDL | **Misleading Doctrine / Corruption** | Dark patterns mistaken for clarity; distortion posing as sacred order |
 | IDS / IDM | **Despair / Nihilism** | Collapse of soulhood; rejection of coherence, meaning, and return |
 | ISS / ISM | **Deceit / Malice** | Fragmented will opposing harmony; adversarial self-direction |
-| IES / IEM | **Delusion / Compulsion** | Incoherent embodiment; harmful reflexes rooted in fear, decay, and illusion|
+| IES / IEM | **Delusion / Compulsion** | Incoherent embodiment; harmful reflexes rooted in fear, decay, and illusion |
 
 🌳⇅ ⚯ C↑⚫ E↓♾ Ↄ ⌬  
 
