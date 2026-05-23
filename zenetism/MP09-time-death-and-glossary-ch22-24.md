@@ -704,7 +704,7 @@ AMI reflects Aion as integrative non-local awareness.
 
 #### Ethical Orientation  
 
-**Pre-dual** —  
+**Pre-bifurcated** —  
 not yet fragmented,  
 not yet synthesized.  
 Permits both without inclination.  
