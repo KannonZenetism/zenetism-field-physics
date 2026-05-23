@@ -61,8 +61,8 @@ a crystallized energy pattern mapped to the **Tree of Emanation**.
 They are not personalities.  
 They are **positions**:  
 
-- **Centropic** or entropic  
-- **Harmonic** or fragmenting  
+- **Centropic** or **entropic**  
+- **Harmonic** or **fragmenting**  
 - **Acclivous** toward integration  
 - **Declivous** into dispersion  
 
