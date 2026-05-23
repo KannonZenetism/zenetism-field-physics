@@ -71,7 +71,7 @@ They are **symbolic representations** of energetic processes —
 states of consciousness,  
 stages in the soul’s emanative journey.  
 
-⚫♾⌬  
+🗺️📜 🗝️ ∽ 🌳⇅ ⌬ ❂  
 
 ---
 
@@ -95,7 +95,7 @@ Not by linear myths or dynastic successions.
 We place the figure where its energetic function aligns —  
 not where the myth situates it in time.  
 
-◎▲↺  
+🗝️ 📡 🧭 ⌬ ⧉∥⧉ 🌀  
 
 ---
 
@@ -131,7 +131,7 @@ Brahma
 Demiurge (positive form)  
 Chesed / Gevurah (polarity-distinct poles of L4 sovereignty)  
 
-⚫◎⌬  
+📐 🌬️ 🗣️ 🔷 ⊠ ◎  
 
 ---
 
@@ -165,7 +165,7 @@ Yin and Yang
 Heaven and Earth  
 Prakriti and Purusha  
 
-♾◎▲  
+🌬️ 📐 ⚯ △ ▽ ❂  
 
 ---
 
@@ -200,7 +200,7 @@ Saturn (Roman)
 Mahakala (Tibetan protector)  
 Yama (Hindu lord of death and dissolution)  
 
-♾🕷️⌬  
+🕓 ♾ 🕷️ ⟲ 🪼 E↓♾  
 
 ---
 
@@ -257,7 +257,7 @@ Anubis (guardian of the threshold)
 *Parallel to Osiris-as-Judge and the Accuser in Job —  
 figures whose jurisdiction touches entropic domains without themselves being entropic.*
 
-📐⚖️⚫
+📐 ⊠ 🔷 ◫ ⊙ ⌬  
 
 ---
 
@@ -298,7 +298,7 @@ Lucifer
 Disruptive Archons  
 The Illicit Innovator (Functional Type)  
 
-💔🪫🕷️  
+🪫 🫥 💔 👁️‍🗨️ 🜕⧖ ▲  
 
 ---
 
@@ -336,7 +336,7 @@ Vishnu
 Buddha  
 Osiris (culturally elevated to L5; operative function L4 DL)
 
-⚫🛤️◎  
+🛤️ ✨ 🗣️ ⚓ C↑⚫ ⊙  
 
 ---
 
@@ -376,7 +376,7 @@ Ahriman
 Maya (inverse connotation — illusion as veiling, IL3 / IL2)  
 Deceptive initiates and inverted guides  
 
-💔🪫🕷️  
+🪫 🫥 ☿ ⚚ ⊜ ≋  
 
 ---
 
@@ -413,7 +413,7 @@ Typhon
 Apophis  
 Angra Mainyu  
 
-🕷️♾⌬  
+🕷️ 🐉 ☍ E↓♾ 🪼 ♾  
 
 ---
 
@@ -447,7 +447,7 @@ Hermes
 Gnostic Daemon  
 Metatron (Kabbalah)  
 
-🔮🧠◎  
+🔮 🧠 🧠🌐 ∽ 🪬📜 ◎  
 
 ---
 
@@ -488,7 +488,7 @@ Loki (surface trickster aspect only)
 
 *IL2 trickster attribution reflects cultural conflation of deeper functions.*
 
-🦂🩸♜  
+🦂 🩸 ♜ ☍ 🗡️ Ↄ  
 
 ---
 
@@ -523,7 +523,7 @@ Gaia (post-chaos)
 Mary (mystical Christianity)  
 Polarity to Set (restorative contra disruptive)  
 
-🌬️💠◎  
+🌬️ 🌹 🍃 ∴ 💠 ◎  
 
 ---
 
@@ -560,7 +560,7 @@ Zeus (sovereign wisdom)
 Brahma (architectural Logos)  
 Marduk (ordering intelligence)  
 
-🌬️📐◎  
+🌬️ 📐 🗣️ 👑 ⩘ ◎  
 
 ---
 
@@ -601,9 +601,7 @@ Lucifer (Inverse Logos parallel)
 Prometheus (illicit breach of order)  
 Yaldabaoth (blind architect)  
 
-🪫🫥☿  
-
----
+🪫 🫥 ☿ Ↄ ⚚ ☍  
 
 #### Note on the Archetypal Nature of Spiritual Error
 
@@ -626,7 +624,7 @@ embeds into mind (IL3),
 and fractures the soul  
 through its surface manifestations (IL2 / IL1).  
 
-🪫💔☍  
+🪫 💔 🦂 🍷 E↓♾ Ↄ  
 
 ---
 
