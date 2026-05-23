@@ -909,25 +909,32 @@ Sefirot
 God of beginnings, endings, transitions, and doorways.  
 
 **Function**  
-Dual-faced gatekeeper — guardian of thresholds.  
-Initiates liminal integration, passage between polarities.  
+Threshold guardian.  
+Liminal passage-marker.  
+Symbolic mediator of beginnings, endings,  
+and transition between states.  
 
 **Zenetist Placement**  
-Boundary between Zero and Infinity —  
-the pivot between **Aion** and **Khaon**.  
+Symbolic resonance with the Aion / Khaon threshold —  
+not a literal hypostatic identity.  
+Janus marks the threshold-image  
+of transition between stillness and motion.  
 
 **Justification**  
-Janus is the bifurcation point —  
-stillness turning to motion,  
-pure potential splitting into polarity.  
-Stands at the gate where emanation begins —  
-neither wholly centropic nor entropic.  
+Janus symbolizes threshold-consciousness:  
+the gate where one state yields to another.  
+He may resemble the boundary-language  
+of Zero and Infinity,  
+but he does not directly instantiate  
+L0 Bifurcal Coherence.  
+He is a mythic marker of transition,  
+not the structural ground itself.  
 
 **Ethical Orientation**  
-Pre-dual.  
+Threshold-neutral.  
 
 **Symbolic Counterparts**  
-Shiva (as liminal)  
+Shiva (liminal aspect only; not direct Bifurcal Coherence)  
 Hermes Trismegistus (as threshold-synthesizer)  
 Threshold-based initiatory triggers  
 
@@ -1144,7 +1151,7 @@ covenantal, law‑giving Logos;
 structural correction expressed through juridical force.  
 
 **Justification**  
-Yahweh is not a dual‑tree figure,  
+Yahweh is not a bifurcal-arc figure,  
 but a cultural conflation —  
 human redactors collapsing L4 DL lawful architecture  
 with apparent inverse traits that are actually  
@@ -1156,7 +1163,7 @@ Operative function is L4 DP / DL.
 **Ethical Orientation**  
 Centropic —  
 apparent variability reflects interpretive framing,  
-not genuine dual‑tree operation.  
+not genuine bifurcal-arc operation.  
 
 **Symbolic Counterparts**  
 Marduk  
