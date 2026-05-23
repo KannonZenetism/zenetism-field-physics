@@ -698,8 +698,6 @@ Each symbolizes a mode of awareness,
 a form of motion,  
 or a structural alignment within the **Tree of Emanation**.  
 
-🪬📜 ⧉∥⧉ ∽ 🌳⇅ ⌬  
-
 **Archetypal Element Matrix**
 
 | Element | Direction | Color | Principle |
@@ -745,15 +743,11 @@ but resonant arcs through which soul-patterns evolve.
 Both Trees converge at the **embodied layer**,  
 where transformation becomes possible.  
 
-❂ 🕳️ 🌳⇅ ⊙ ⌬  
-
 **Zenon (UP)** — The Unknown Principle  
 - Beyond form, beyond structure, beyond polarity.  
 - The source from which both **Aion** and **Khaon** arise.  
 - Not part of either Tree,  
   but the infinite stillness behind both.  
-
-🕳️ ⧞ ⟀ ⟁  
 
 **Centropic Arc — Aionic Tree**
 
@@ -764,8 +758,6 @@ where transformation becomes possible.
 - **🧍 Anthra / 🧩 Nousa (SS / SM)** — Embodied psyche, identity, and narrative self.  
 - **🪷 Soma / 🧾 Biosa (ES / EM)** — Physical incarnation, the interface of matter and soul.  
 
-🌲↓ ⚫ 🛤️ C↑⚫  
-
 **Entropic Arc — Khaonic Tree**
 
 - **♾ Khaon (AD)** — Absolute Dispersion. Dispersive motion and unbounded multiplicity.  
@@ -775,8 +767,6 @@ where transformation becomes possible.
 - **🦂 Echthros / 🩸 Skotos (ISS / ISM)** — Fragmented psyche and adversarial cognition.  
 - **🍷 Malara / 🤯 Mania (IES / IEM)** — Embodied dysfunction and reactive distortion.  
 
-🌲↑ ♾ 🕷️ E↑→E  
-
 The embodied layer is the turning point —  
 the plane of **friction**, **synthesis**, and **choice**.  
 
@@ -784,7 +774,7 @@ Here, the currents of both Trees meet,
 and the soul may begin to integrate, stagnate, or disperse,  
 depending on its **resonance**.  
 
-⊙ ⩘ ⚯ 💠 ⌬  
+🌳⇅ ⊙ ⚯ 🌀 ⌬  
 
 ---
 
@@ -1268,8 +1258,6 @@ This reflects the dual nature of emanation and inversion.
 | SS / SM | **Honesty / Compassion** | Transparent self-expression; empathy toward all other emanated selves |
 | ES / EM | **Presence / Non-Harm** | Embodied care; ethical awareness in time and space; action aligned with unity |
 
-🌲↓ C↑⚫ 🛤️ 🌬️ 📐 🔮  
-
 #### Khaonic Tree (Entropic Motion)
 
 | Inverse Hypostasis | Vice | Description |
@@ -1280,7 +1268,7 @@ This reflects the dual nature of emanation and inversion.
 | ISS / ISM | **Deceit / Malice** | Fragmented will opposing harmony; adversarial self-direction |
 | IES / IEM | **Delusion / Compulsion** | Incoherent embodiment; harmful reflexes rooted in fear, decay, and illusion|
 
-🌲↑ E↓♾ 🕷️ 🪫 💔 🦂  
+🌳⇅ ⚯ C↑⚫ E↓♾ Ↄ ⌬  
 
 #### Note on Virtue and Vice  
 
@@ -1320,8 +1308,6 @@ but also by degree of engagement along the active–passive axis.
 This yields **four categories** of ethical expression —  
 a geometry of resonance with two intersecting axes.  
 
-⚯ 🔷 ⌬ ↺ ⩘  
-
 **Moral Quadrant Matrix**
 
 | Alignment | Passive Expression | Active Expression |
@@ -1338,33 +1324,23 @@ just as an **unaware entropic** being may still corrode.
 What matters is **trajectory** —  
 and whether integration remains possible.  
 
-⚯ 🔷 ⌬ C↑⚫ E↓♾  
-
 **Passive Centropy**  
 Inspiring hope simply by existing in alignment,  
 healing through presence rather than intention.  
-
-◎ 💠 🫂 ⟿✨  
 
 **Active Centropy**  
 Deliberate efforts to unify opposites,  
 restore fragmented beings,  
 and renew **integrative resonance**.  
 
-C↑⚫ ∴ 🔔 💠  
-
 **Passive Entropy**  
 Allowing cruelty, injustice, or division  
 through avoidance, apathy, fear, or illusion.  
-
-Ↄ ☍ 🫧 ⚖
 
 **Active Entropy**  
 Directly causing harm through malice,  
 ideology,  
 or the conscious rejection of coherence and return.  
-
-E↓♾ Ↄ ⚚ ☍  
 
 This quadrant system allows for a **multidimensional ethical model** that:  
 - Contextualizes moral action within the layers of the Emanation Tree  
@@ -1378,7 +1354,7 @@ Its karmic field could trace the soul’s motion across lifetimes and universes 
 not as prophecy,  
 but as **possibility** already seeded in the structure.  
 
-⚯ 🔷 ⌬ C↑⚫ E↓♾ 🌳⇅  
+⚯ 🔷 🌀 C↑⚫ E↓♾ 🌳⇅  
 
 #### Note on Moral Quadrants as Living Structure
 
