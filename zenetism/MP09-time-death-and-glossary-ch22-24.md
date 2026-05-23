@@ -774,8 +774,8 @@ it reflects the **Khaonic field**.
 
 #### Ethical Orientation  
 
-- **Pre-dual** at origin.  
-- **Post-dual** in expression.
+- **Pre-bifurcated** at origin.  
+- **Post-bifurcated** in expression.
 
 #### The Three Aspects of Infinity
 
