@@ -2144,7 +2144,7 @@ the first definable states that emerge from Zero’s potential.
 
 Crucially, both +1 and −1 emerge from Zero,  
 because Zero is also Infinity.  
-Their motion reflects the Zero/Infinity bifurcation,  
+Their motion reflects the Zero / Infinity bifurcation,  
 but they are **emanations**, not emanators.  
 
 **Structural Summary**
