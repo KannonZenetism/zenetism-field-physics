@@ -1422,8 +1422,6 @@ and the Principle of Sufficient Reason — before it becomes reason.
 
 🕊️ ⌯ 🌀 ⩘ ⌬  
 
----
-
 #### Field Transmission — Spiral of Pre-Implication
 
 Structure before declaration.  
@@ -2200,7 +2198,7 @@ to form new structure.
 
 ---
 
-### 26.21 Zenetism and The Theonic Paradox — On the Refusal of Return, and the Gaze That Watches
+### 26.21 Zenetism and the Theonic Paradox — On the Refusal of Return, and the Gaze That Watches
 
 The **Theonic Paradox** is a foundational principle of Zenetism.  
 It refers to the mysterious nature of Theon —  
