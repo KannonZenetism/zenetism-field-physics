@@ -3439,13 +3439,14 @@ Some unfold slowly.
 All follow the spiral:  
 **emergence → unfolding → resolution**.  
 
-From the infinite field of origin,  
+From **Aion’s field of latent potential**,  
 world-expressions may arise  
 where conditions permit.  
 Some hold **coherence**.  
 Others **collapse**.  
-But all return  
-to the pattern that shaped them.  
+Yet none depart  
+the infinite field  
+through which expression becomes possible.  
 
 The spiral is never wholly still  
 where motion persists.  
