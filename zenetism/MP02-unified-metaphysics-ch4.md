@@ -185,7 +185,8 @@ but realization must be enacted.
 
 ### 4.1 The Fundamental Structure of Reality
 
-* **Zenon** is the **non-originary ground**.  
+* **Zenon** is the **non-originary ground** —  
+  not origin, but the condition by which origin becomes conceivable.  
 
 The **Unknown Principle** beyond even potentiality —  
 not a being, not a field, not a force.  
