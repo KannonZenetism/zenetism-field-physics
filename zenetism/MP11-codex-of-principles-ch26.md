@@ -1246,8 +1246,6 @@ Each hypostasis reflects both:
 
 This reflects the bifurcated nature of emanation and inversion.  
 
-⚯ Ↄ C↑⚫ E↓♾ ⌬  
-
 **Aionic Tree (Centropic Motion)**
 
 | Hypostasis | Virtue | Description |
