@@ -1244,7 +1244,7 @@ Each hypostasis reflects both:
 - A **virtue** when aligned  
 - A **vice** when inverted  
 
-This reflects the dual nature of emanation and inversion.  
+This reflects the bifurcated nature of emanation and inversion.  
 
 ⚯ Ↄ C↑⚫ E↓♾ ⌬  
 
