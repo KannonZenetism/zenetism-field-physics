@@ -3331,7 +3331,8 @@ They become **static tension**,
 ### 3.16 Intermediate Continuance — The Path of the Steward
 
 Many souls  
-do not fully reintegrate with the origin.   
+do not fully reintegrate with **Aion**,  
+the still root of Absolute Potential.  
 Nor do they dissolve  
 into **dispersive infinity**.  
 
