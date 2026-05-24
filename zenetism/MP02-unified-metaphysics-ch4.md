@@ -2670,7 +2670,8 @@ This awareness is not cognition.
 It is **pure resonance** —  
 a harmonic intuition  
 that polarity-distinct motions will unfold  
-even from a non-dual origin.  
+from **Aion’s still potential**,  
+under the catalytic motion of **Khaon**.  
 
 Even love can only choose  
 what it has already remembered.  
