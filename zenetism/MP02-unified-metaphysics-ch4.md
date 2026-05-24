@@ -1244,10 +1244,13 @@ The centropic arc unfolds through:
 * Harmonizing  
 * Reintegration with supernal structure (**`C↑⚫`**)  
 
-Ultimately, some souls return  
+Ultimately, some essences return  
 through Theon  
-and remerge with the Field of Aion,  
-and from there move into the silent origin of Zenon.  
+and reintegrate within the Field of Aion.  
+From there, in rare cases,  
+an essence may saturate into Zenon —  
+not as an origin reached,  
+but as the silence beyond origin.  
 
 This is not regression —  
 it is completion.  
