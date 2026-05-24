@@ -477,10 +477,10 @@ but to be remembered.
 
 ---
 
-### 4.4 The Bifurcal Streams of Emanation
+### 4.4 The Twofold Streams of Emanation
 
 Though **centropy** and **entropy** seem opposed,  
-they are distinct expressions emerging from the same bifurcal architecture.  
+they are distinct expressions emerging from the same origin‑architecture.  
 
 Each emerges from one of the twin poles:  
 * **Aion (⚫)**  
