@@ -2986,7 +2986,7 @@ it is the **continuance of divine will through love**.
 
 This is not self-denial.  
 It is self-extension —  
-the conscious embodiment  
+the aware enactment  
 of centropic patience.  
 
 Remaining as shelter  
