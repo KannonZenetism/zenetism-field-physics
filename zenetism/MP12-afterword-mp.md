@@ -40,7 +40,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 # Zenetism: The Emanative Path of Return
 
-### Afterword — The Circle Remains Open
+## Afterword — The Circle Remains Open
 
 Zenetism begins in stillness —  
 not with commandment,  
