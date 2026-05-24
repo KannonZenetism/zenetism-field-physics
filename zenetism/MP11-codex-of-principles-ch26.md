@@ -1402,7 +1402,7 @@ and the Principle of Sufficient Reason — before it becomes reason.
   The PSR is not deductive;  
   it is a signature of inevitability encoded in structure.  
 
-- **Awareness spirals from preduality**  
+- **Awareness spirals from pre‑bifurcation**  
   Selfhood is not ignited —  
   it is tuned by tensions that predate perception.  
 
