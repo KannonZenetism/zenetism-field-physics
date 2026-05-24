@@ -1531,7 +1531,7 @@ Zenetism folds it back into the single plane of Form.
 | **🛤️ Theon (EOB)** | First centropic hypostasis; the genuine "One"; integrative awareness and Orienting Logos | Plotinus' One, Christ as Orienting Logos, Vishnu, Amitābha, Ahura Mazda |
 | **DP / DL (🌬️ Morgis / 📐 Sophis)** | Archetypal patterning; divine intellect and cosmic Form | Shakti, Demiurge (Plato's), Nous, Sophia unfallen (DP: Morgis), Mahat, Vohu Manah |
 | **DS / DM (🔮 Archeus / 🧠 Noeüs)** | Deep Soul / Mind; personal structural intelligence | Bodhisattvas, Daemon (Gnostic), Thoth, Krishna, Archangels |
-| **SS / SM (🧍 Anthra / 🧩 Nousa)** | Superficial soul / mind; identity during life and moral choice | Psyche, Jiva, Nafs, Astral Ego, Ba (Egyptian) |
+| **SS / SM (🧍 Anthra / 🧩 Nousa)** | Superficial Soul / Mind; identity during life and moral choice | Psyche, Jiva, Nafs, Astral Ego, Ba (Egyptian) |
 | **ES / EM (🪷 Soma / 🧾 Biosa)** | Embodied intelligence and reactive mind-body interface | Avatar body, Manomaya kosha, "Flesh" (Gnostic / Christian), Sacred body (esoteric) |
 | **VOS (🕷️ Nekron)** | Void of Self; total entropy; first entropic hypostasis, oriented away from Source | Satan, Typhon, Apophis, Apep, Eris, Da'ath Unbalanced |
 | **IDP / IDL (🪫 Psychea / 🫥 Nyxea)** | Inverse Forms and misaligned archetypes; entropic Logos | Lucifer (IDL: Nyxea), Yaldabaoth, Titans, Archons, Anti-Sophia |
