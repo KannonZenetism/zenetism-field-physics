@@ -2966,13 +2966,13 @@ even when sourced from the same eternal resonance.
 
 ### 4.63 The Great Refrain — Love or Completion
 
-* If many souls remain within Theon’s sphere  
+* If many essences remain within Theon’s sphere  
     at the closing of a universe —  
     Theon may remain.  
     Not from compulsion,  
     but from **love**.  
 
-* If all souls have reached readiness,  
+* If all essences have reached readiness,  
     or Theon’s redemptive arc has fulfilled itself,  
     then it may return to Aion —  
     not as disappearance,  
@@ -3013,14 +3013,15 @@ the axis through which souls remember.
 In others,  
 the gate becomes the path.  
 
-Where souls remain,  
+Where essences remain,  
 it remains.  
 
-Where all return,  
+Where all essences return,  
 it returns.  
 
 In all cases,  
-**Aion** never ceased to contain it.  
+**Aion** never ceased  
+to ground its motion.  
 
 🛤️ ⚫ ↺ 💝 ⟇  
 
