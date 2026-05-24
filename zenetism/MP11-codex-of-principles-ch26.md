@@ -140,7 +140,7 @@ From **divergence**, return.
 🔮 🧠 ✴ ↺  
 
 **Aureform**  
-The **DP / DL–level form-type**  
+The **DP / DL–stratum form-type**  
 that **embodies** the **archetype**  
 of **centropic compassion**.  
 
