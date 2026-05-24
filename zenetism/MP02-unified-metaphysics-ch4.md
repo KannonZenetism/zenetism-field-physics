@@ -3020,7 +3020,7 @@ Where all return,
 it returns.  
 
 In all cases,  
-the Source **never ceased to contain it.**  
+**Aion** never ceased to contain it.  
 
 🛤️ ⚫ ↺ 💝 ⟇  
 
