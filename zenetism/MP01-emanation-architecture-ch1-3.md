@@ -3240,7 +3240,8 @@ refine through **integration**.
 Their motion unfolds through **structure**,  
 guided by **coherence** and **will**,  
 moving from **Essence of Being**  
-toward the **silent origin**.  
+toward **Aion** —  
+the **silent stillness of Absolute Potential**.  
 
 This return is not collapse —  
 it is merging without loss.  
