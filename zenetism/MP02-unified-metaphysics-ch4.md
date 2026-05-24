@@ -370,15 +370,15 @@ in both their centropic and inverse forms.
 
 🌳⇅ ⚯ 🌲↓ 🌲↑ ❂  
 
-#### Note on Zenon — Supra-Structural Origin
+#### Note on Zenon — Trans-Structural Ground of Allowance
 
 **Zenon precedes all emanation.**  
 It is not a layer,  
-but the **supra-structural ground** in which all motion is *permitted*,  
+but the **trans-structural ground** in which all motion is *permitted*,  
 not caused.
 
 Zenon does not initiate;  
-it is the **pre-structural backdrop**  
+it is the **non-originary ground**  
 that makes unfoldability possible  
 without participating in the act.
 
@@ -391,7 +391,7 @@ never the source of distortion.
 
 🕳️ ⟀ ⧞ ⚐ ❂  
 
-#### Supra-Origin Point
+#### Supra-L0 Reference Point
 
 * **🕳️ Zenon** (Supra-L0) — The Unknown Principle (UP)  
 
