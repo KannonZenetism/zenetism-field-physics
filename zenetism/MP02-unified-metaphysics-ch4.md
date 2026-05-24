@@ -373,8 +373,10 @@ in both their centropic and inverse forms.
 #### Note on Zenon — Trans-Structural Ground of Allowance
 
 **Zenon precedes all emanation.**  
-It is not a layer,  
-but the **trans-structural ground** in which all motion is *permitted*,  
+Though designated **Supra-L0**,  
+it is not a hypostatic layer,  
+but the **trans-structural ground**  
+in which all motion is **permitted**,  
 not caused.
 
 Zenon does not initiate;  
@@ -382,9 +384,11 @@ it is the **non-originary ground**
 that makes unfoldability possible  
 without participating in the act.
 
-Within this non-dual possibility,  
-both centropic and entropic vectors may arise —  
-yet **only coherence returns**.
+Under this trans-structural allowance,  
+both centropic and entropic vectors  
+become possible —  
+yet only coherence can orient  
+toward saturation beyond the lattice.
 
 Zenon is the **ground of allowance**,  
 never the source of distortion.
