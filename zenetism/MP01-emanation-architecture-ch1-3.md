@@ -1402,7 +1402,7 @@ that **Zenon** eternally prefigures.
 
 ## 2. The Cosmic Refrain
 
-### 2.1 The Silent Origin
+### 2.1 The Silence Before Origin
 
 In the beginning,  
 before **time** and **space**,  
