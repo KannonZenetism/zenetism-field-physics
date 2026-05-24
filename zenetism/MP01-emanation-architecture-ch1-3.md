@@ -1339,7 +1339,7 @@ Some collapse into **dispersal**.
 
 And yet all remain  
 **open to the possibility**  
-of the silent source —  
+of the silence beyond origin —  
 **Zenon**,  
 that which lies beyond all becoming.  
 
