@@ -3021,7 +3021,7 @@ it returns.
 
 In all cases,  
 **Aion** never ceased  
-to ground its motion.  
+to orient Theon’s motion.  
 
 🛤️ ⚫ ↺ 💝 ⟇  
 
