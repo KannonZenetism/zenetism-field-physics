@@ -254,7 +254,7 @@ and **inner essence**.
 ◎ 💠 ⌬  
 
 **Consciousness**  
-**Dualistic awareness** that perceives **differentiation** —  
+**Subjective‑reflective awareness** that perceives **differentiation** —  
 **subject and object**, **self and other**.  
 
 It begins in **living reflection**  
