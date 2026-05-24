@@ -629,7 +629,7 @@ structure, measure, or even the potential for such things.
 
 Refers to the nature of **Zenon** —  
 not infinite in a **quantitative** sense,  
-but prior to all dualities of **containment** and **expression**.  
+but prior to all bifurcations of **containment** and **expression**.  
 
 It is beyond **fullness** and **emptiness**,  
 beyond **potential** and **actualization** —  
