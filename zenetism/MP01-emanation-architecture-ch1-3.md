@@ -1850,12 +1850,11 @@ that it no longer resembles
 knowing at all.  
 
 **Zenon** is  
-the **silent origin**,  
+the **silence before origin**,  
 the **unseen eschaton**,  
-the **non-ordinal root**  
-of every possibility  
-that ever was  
-or ever will be.  
+the **non-ordinal ground**  
+by which possibility itself  
+becomes conceivable.  
 
 It does not give rise —  
 it simply **is**.  
