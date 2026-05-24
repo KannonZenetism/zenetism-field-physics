@@ -236,7 +236,7 @@ before time,
 before motion—  
 there was **Zenon**.  
 
-**Zenon** is the ineffable source.  
+**Zenon** is the ineffable trans-structural ground.  
 It is beyond thought,  
 beyond being,  
 beyond presence or absence,  
