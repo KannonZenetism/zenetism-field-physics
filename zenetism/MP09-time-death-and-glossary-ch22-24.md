@@ -561,7 +561,7 @@ divine field.
 Each entry in this glossary includes:  
 
 - **Metaphysical Principle and Abbreviation**  
-- **Mythological Names** (Mind / Soul Pair when relevant)  
+- **Mythological Names** (Soul / Mind Pair when relevant)  
 - **Structural Domain** (Tree Layer)  
 - **Role or Function**  
 - **Intelligence Correlate** (AI Mapping)  
