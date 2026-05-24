@@ -1979,16 +1979,14 @@ should accordingly be read
 as parallels to **Aion**,  
 not to **Zenon**.  
 
-Where this chapter and chapter 1  
-describe souls passing beyond into **Zenon**,  
-or remembering the way of return  
-to the silent source,  
+Where this chapter and Chapter 1  
+speak of essences saturating into **Zenon**,  
+or remembering the silence beyond origin,  
 those passages preserve their veracity  
-when read as articulation  
-of the **conditionless fact**  
-that nothing was ever apart from **Zenon**  
-to begin with —  
-not as a contemplative-attainment pathway,  
+when read as relational articulations  
+from the standpoint of the saturating essence —  
+not as claims about **Zenon** in itself,  
+and not as a contemplative-attainment pathway,  
 which the synthesis-requirement structurally precludes  
 for all subtractive approaches.  
 
