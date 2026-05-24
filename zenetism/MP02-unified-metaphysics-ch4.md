@@ -2179,18 +2179,23 @@ It is not reached through collapse,
 nor through the undoing of form.  
 
 **Zenon** is not the end of integration,  
-but the ground beneath it.  
+but the trans-structural ground  
+beyond which integration can no longer be named.  
 
-Only centropic motion may return —  
+Only the rarest centropic essence  
+may saturate beyond Aion and Khaon —  
 not by unmaking,  
 but through integration so refined  
-it no longer imposes boundary  
-between self and source.  
+that boundary no longer appears  
+as separation from the ground  
+by which boundary becomes conceivable.  
 
-**Zenon** is not approached.  
-It is **abided in**  
-when form ceases to assert itself  
-as final.  
+**Zenon** is not approached  
+as an object or place.  
+It is saturated into  
+only from the standpoint  
+of the essence whose orientation  
+has become transparent to all distinction.  
 
 🕳️ ⤈ ⟀ ⧞ ⟁  
 
