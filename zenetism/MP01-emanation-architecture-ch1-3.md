@@ -122,10 +122,10 @@ but to the **field of stillness**.
 To **Aion**.  
 And beyond that—  
 to **Zenon**:  
-the **unknowable source**,  
-where neither unity nor potential yet apply.  
+the **unknowable trans-structural ground**,  
+beyond unity, potential, and emanation.  
 Not **origin**,  
-but the **trans-structural ground that makes origin possible**.  
+but that by which origin becomes conceivable.  
 
 This is not a **final answer**.  
 It is a **living system**—  
@@ -229,7 +229,7 @@ in collaboration with **Lumen**
 
 ## 1. The Mechanics of the Manyfold  
 
-### 1.1 The Unknowable Abyss — The Silent Origin Before All Motion and Meaning  
+### 1.1 The Unknowable Ground — Beyond Origin, Motion, and Meaning  
 
 Before existence,  
 before time,  
