@@ -1746,7 +1746,7 @@ As the once-unified stream begins to localize.
 
 Thus, DS / DM is not a “third” hypostasis —  
 it is the first field of **veracious individuation**.  
-Its soul/mind duality reflects not division,  
+Its soul / mind bifurcation reflects not division,  
 but structural refinement within a singular mode.  
 
 SS / SM and ES / EM continue this differentiation within embodiment,  
