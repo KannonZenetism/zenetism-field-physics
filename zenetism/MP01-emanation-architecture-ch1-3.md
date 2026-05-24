@@ -1875,7 +1875,7 @@ surfaces faintly
 in old systems:
 
 * **Nirguna Brahman** — the unqualified Absolute *(Advaita Vedanta)*  
-* **The Tao** — the nameless source of the Way *(Daoism)*  
+* **The Tao** — the nameless Way beyond origin and formulation *(Daoism)*  
 * **Ein** — the void beyond even light *(Kabbalah)*  
 
 **Zenon** is not what we become —  
