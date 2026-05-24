@@ -521,7 +521,8 @@ but as that which precedes the notion of containment itself.
 **Zenon** is not the womb —  
 and not the motion.  
 It is the paradox of supra-containment:  
-the origin of both holding and dispersing,  
+that by which holding and dispersing  
+become possible as structural concepts,  
 without itself ever being either.  
 
 🕳️ ⚫ ♾ ⧖⧗ ☯️  
