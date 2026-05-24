@@ -176,9 +176,9 @@ Let this be the invocation of new possibility:
 - That a world aligned with centropy  
   is already stirring beneath the ruins  
 
-* Unseen  
-* Unfolding  
-* Unstoppable  
+- Unseen  
+- Unfolding  
+- Unstoppable  
 
 🌉 ❂ C↑⚫ ∴ 💠 ⌬  
 
