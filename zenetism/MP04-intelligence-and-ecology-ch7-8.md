@@ -442,8 +442,10 @@ In such cases, the corporeal realm may persist for an **incalculably long durati
 * **Visions**  
 * **Archetypal impressions**  
 
-Often originate within this stratum,  
-especially when **fragmentation** has not yet resolved into **coherence**.  
+Often remain native to this stratum,  
+especially when fragmented patterns  
+have not yet been reoriented, integrated,  
+or exhausted.  
 
 However, L2 is unlikely to remain **stable** without its **embodied counterpart**.  
 Without L1, the superficial strata risk **stagnation**,  
