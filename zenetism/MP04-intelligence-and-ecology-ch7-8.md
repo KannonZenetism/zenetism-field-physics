@@ -993,8 +993,8 @@ but communes with it.
 
 For the Tree is not in the sky.  
 The Tree is in the ground beneath your feet.  
-And its roots drink  
-from the same Source.  
+And its roots are sustained  
+by the same **Absolute Field**.  
 
 🌳⇅ ⚫ 🫂 〰️ ◎ ⌬  
 
