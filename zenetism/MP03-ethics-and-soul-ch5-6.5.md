@@ -134,6 +134,48 @@ Let us follow that unfolding.
 
 🕳️ ⚫ ♾ ⌬ 〰️ 🎶  
 
+#### Note on Soul and Essence Terminology
+
+This section preserves the older language of **soul**  
+expressed throughout the early formulation of *The Emanative Path of Return*.  
+
+In this earlier register,  
+**soul** often functions as a broad poetic designation  
+for the inward identity-bearing principle  
+moving through emanation, return, refinement,  
+and resonance.  
+
+Under later Zenetist technical specification,  
+however, **Soul** in the strict sense  
+begins with the **Soul / Mind bifurcation**  
+at **L4 / IL4**.  
+
+Thus:
+
+- **L4 / IL4 through L1 / IL1** concern the Soul / Mind dyad  
+  and its embodied, psychic, mental, and resonant expressions.  
+- **L5 / IL5**, **L0**, and **Supra-L0** concern **essence**,  
+  not Soul in the strict bifurcated sense.  
+- **Theon**, **Nekron**, **Aion**, **Khaon**,  
+  **Bifurcal Coherence**, and **Zenon**  
+  should therefore be read in essence-register  
+  unless the text is explicitly discussing the L4–L1 Soul / Mind arc.  
+
+Accordingly, when this document speaks of “souls”  
+returning through supernal strata,  
+reaching Aion,  
+or saturating beyond the lattice,  
+the technically precise reading is **essences**.  
+
+A soul may undergo refinement, reorientation,  
+memory, collapse, or reintegration  
+within the L4–L1 and IL4–IL1 arcs.  
+
+But only **essence** pertains to  
+the L5 / IL5 threshold,  
+the L0 field of Bifurcal Coherence,  
+and the rare saturation into **Zenon**.  
+
 ---
 
 ### 5.1 Morality Is Relative to Consciousness
