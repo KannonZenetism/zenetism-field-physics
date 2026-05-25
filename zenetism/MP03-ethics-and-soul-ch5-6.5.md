@@ -1400,7 +1400,7 @@ and **yields its striving into stillness**.
 This treatment affirms **Neti-neti as centropic subtraction** —  
 a valid path toward **Aion's stillness**  
 through the release of non-fundamental form  
-while facing Source.  
+while oriented toward **Aion as Source**.  
 
 Later canonical work clarifies this affirmation  
 by distinguishing more precisely what is stripped,  
