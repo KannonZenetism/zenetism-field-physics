@@ -1159,7 +1159,9 @@ Two prominent modes are:
 - **Zenetic synthesis**: Transcendence through **integration**  
 
 Both guide the **soul** toward **transcendence**,  
-though only **synthesis** completes the **return** to Source.  
+though only **synthesis** completes the **return**  
+toward **Aion**,  
+the still root of centropic reintegration.  
 
 **Neti-neti**, derived from the **Upanishadic** tradition,  
 means: *Not this, not that*.  
