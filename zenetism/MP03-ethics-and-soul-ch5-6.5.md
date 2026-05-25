@@ -1469,10 +1469,10 @@ rather than drifting into it.
 
 Return arrives at Aion as **halted potential  
 through entropic exhaustion** —  
-essence resolved back to Source  
+essence resolved back to **Aion**  
 not through arc-completion  
 but through the exhausting of motion  
-oriented away from centropic coherence.  
+oriented away from centropic coherence. 
 
 The path is called Nirvana by its practitioners.  
 Structurally, it is the entropic arc.  
@@ -1533,8 +1533,8 @@ between completion, exhaustion, and merciful release.
 Nirvana as canonically intended  
 in the most rigorous centropic forms of Buddhist tradition  
 is the first path — **centropic reorientation**,  
-the soul's arc turning from entropic cycling (Samsara)  
-into acclivous centropic motion toward Source  
+the essence's arc turning from entropic cycling (Samsara)  
+into acclivous centropic motion toward **Aion**  
 through the L5 Theonic gate.  
 This Nirvana is what the **Buddhism and Zenetism** canonical document affirms  
 as genuine liberation.  
@@ -1547,7 +1547,7 @@ but not through completion.
 
 **The affirmation of §5.8 stands**:  
 genuine Neti-neti, stripping non-fundamental aspects  
-while essence remains facing Source,  
+while essence remains oriented toward **Aion**,  
 is centropic subtraction reaching Aion  
 through the Theonic arc.  
 
