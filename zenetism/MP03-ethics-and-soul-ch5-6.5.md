@@ -161,9 +161,9 @@ not judgment.
 
 **Entropy**, even when collapsed  
 into static tension within **Aion**,  
-does not return to Zenon.  
+does not move toward saturation into Zenon.  
 Though present at the stillpoint’s edge,  
-it does not look to Source.  
+it does not orient toward **Aion**.  
 
 It remains locked in unresolved tension —  
 a force that seeks to fragment outward,  
