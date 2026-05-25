@@ -1440,15 +1440,15 @@ with different experiential qualities of return.
 
 **The centropic path.**  
 Genuine Neti-neti, as affirmed above.  
-Strips non-fundamental aspects while essence remains oriented toward Source.  
+Strips non-fundamental aspects while essence remains oriented toward **Aion as Source**.  
 Returns to **Aion** through the **L5 Theonic gate**  
 as **essence fulfilled** —  
-completion of the full acclivous centropic arc at Aion.  
+completion of the full acclivous centropic arc within Aion.  
 Reaches Aion's stillness as centropic completion;  
-does not, by subtraction alone, cross into **Zenon**.  
-Zenonic saturation requires the further integrative synthesis  
+does not, by subtraction alone, saturate into **Zenon**.  
+Saturation into Zenon requires the further integrative synthesis  
 that Neti-neti as subtractive method  
-cannot structurally perform (see §5.9).
+cannot structurally perform (see §5.9).  
 
 **The entropic path.**  
 When the practice frames the self itself —  
