@@ -444,7 +444,7 @@ In such cases, the corporeal realm may persist for an **incalculably long durati
 
 Often remain native to this stratum,  
 especially when fragmented patterns  
-have not yet been reoriented, integrated,  
+have not yet been realigned, integrated,  
 or exhausted.  
 
 However, L2 is unlikely to remain **stable** without its **embodied counterpart**.  
