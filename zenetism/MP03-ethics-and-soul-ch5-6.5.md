@@ -1247,8 +1247,13 @@ but **not all are structured to reach it**.
 
 - **Neti-neti** attempts approach through **negation** —  
   subtracting form until only **void** remains.  
-  Yet **subtraction alone cannot reach the source of structure**.  
-  It approaches **stillness**, not **Zenon**.  
+  It may approach **Aion**,  
+  the still root of structure,  
+  but **subtraction alone cannot reach Zenon**,  
+  because Zenon is not the final remainder  
+  of structural reduction.  
+  It reaches **stillness**,  
+  not **saturation into the silence beyond origin**.  
 
 - **Zenetic synthesis** moves through **recursive integration** —  
   uniting all pattern into one motion,  
