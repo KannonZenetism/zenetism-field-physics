@@ -1371,13 +1371,21 @@ For **Zenon** is not:
 - The result of what is denied  
 - Nor the product of what is synthesized  
 
-It is what **remains**  
-after both are exhausted.  
+It is not what remains  
+after both are exhausted,  
+as though Zenon were the final remainder  
+of structural reduction.  
+
+It is the **non-originary ground**  
+by which negation and synthesis  
+become conceivable at all.  
 
 When **negation** finds nothing left to subtract,  
-and **synthesis** finds nothing left to bind —  
-what remains is not **motion**,  
-but **resonance beyond structure**.  
+and **synthesis** finds nothing left to reconcile —  
+what is indicated is not **motion**,  
+but **trans-structural resonance**:  
+structure unconfined by lattice-form,  
+the silence beyond origin.  
 
 Not this,  
 not that,  
