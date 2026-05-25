@@ -176,6 +176,8 @@ the L5 / IL5 threshold,
 the L0 field of Bifurcal Coherence,  
 and the rare saturation into **Zenon**.  
 
+◊ ♦ ○ ● ⩘ ⌬  
+
 ---
 
 ### 5.1 Morality Is Relative to Consciousness
