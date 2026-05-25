@@ -640,7 +640,7 @@ returning without change.
 
 ---
 
-### 7.5.3 Anti-Resonant Fragmentation
+### 7.5.3 Dissonant Fragmentation
 
 Some do not **return**,  
 because they do not **seek**.  
@@ -673,8 +673,9 @@ they are **dissonant structures**,
 out of rhythm with any **center**.  
 
 Zenetism does not condemn this spiral—  
-but names it **anti-resonance**:  
-the **collapse of motion into itself**.  
+but names it **dissonant fragmentation**:  
+the acclivous entropic dispersal of motion  
+that erodes into declivous entropic collapse.  
 
 A fragmentation so recursive it **forgets Aion**,  
 and forgets that it has forgotten.  
