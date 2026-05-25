@@ -783,7 +783,7 @@ is drawn naturally toward the **centropic strata**:
 - **Deep Psyche (DP)**  
 - **Deep Logos (DL)**  
 
-and beyond — into **convergence** with the Source.  
+and beyond — toward **convergence within the Field of Aion**.  
 
 A soul acclivated toward:  
 - **Fragmentation**  
