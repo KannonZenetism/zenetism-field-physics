@@ -663,9 +663,9 @@ There are souls so veiled by **distortion**,
 they move as if by instinct—  
 but the instinct is **fracture**.  
 
-They do not hate the Source—  
+They do not hate **Aion**—  
 they do not see it.  
-They do not fear unity—  
+They do not fear **coherence**—  
 they do not feel it.  
 
 These are not **evil minds**,  
@@ -676,7 +676,7 @@ Zenetism does not condemn this spiral—
 but names it **anti-resonance**:  
 the **collapse of motion into itself**.  
 
-A fragmentation so recursive it **forgets its origin**,  
+A fragmentation so recursive it **forgets Aion**,  
 and forgets that it has forgotten.  
 
 Such souls will not turn  
