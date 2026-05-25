@@ -485,7 +485,7 @@ some recognizable, many incomprehensible.
 What is commonly called *alien life*  
 is understood in Zenetism as the presence of **non-terrestrial intelligences**,  
 each shaped by the **resonance fields**, environmental dynamics,  
-and hypostatic conditions of its originating domain.  
+and hypostatic conditions of its native domain.  
 
 These beings may embody:  
 - **L2** — Superficial soul and mind  
