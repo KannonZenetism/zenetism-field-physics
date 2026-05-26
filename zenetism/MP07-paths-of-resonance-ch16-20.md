@@ -697,7 +697,7 @@ The **IDP / IDL** layer — described here as *“misused dominion”* —
 structurally maps to the **Archons** of Gnostic tradition.  
 
 These entities represent the **entropic inversion of lawful sovereignty**:  
-guardians of structure **severed from Source**.  
+guardians of structure **severed from Aionic orientation**.  
 
 They are not merely tyrants,  
 but **functionaries of form without resonance** —  
