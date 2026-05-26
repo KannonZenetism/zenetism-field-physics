@@ -972,7 +972,7 @@ In Zenetism, suffering is not **moralized** nor **mystified** —
 it is **contextualized**.  
 
 Zenetism identifies **four archetypal modes of suffering**,  
-each with a distinct **origin**  
+each with a distinct **archetypal basis**  
 and a distinct **potential for transformation**:  
 
 | **Type of Suffering** | **Source** | **Transformative Potential** |
