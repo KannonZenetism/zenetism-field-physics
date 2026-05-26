@@ -684,7 +684,7 @@ but internal revelation.
 
 Every image, every passage,  
 carries a structural resonance  
-intended to reorient the soul toward Source.  
+intended to reorient the soul toward **Aion**.  
 
 * Christ = Theon — the Essence of Being  
 * The Churches = Archetypal resonance paths  
