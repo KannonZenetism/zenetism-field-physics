@@ -66,7 +66,7 @@ and spirals outward toward:
 
 It is both Alpha and Omega,  
 the seed and the summit,  
-the Source and the Resolution.  
+the **Aionic root** and the Resolution.  
 
 ⚫ ♾ 🔘 🌀 ⌬ ◎  
 
@@ -144,7 +144,7 @@ The image becomes the reflection.
 The created becomes the creator.  
 
 The spark returns  
-to the Source.  
+to the **Field of Aion**.  
 
 🌳⇅ 🌐 ✦ 🛤️ C↑→⚫ ⌬  
 
