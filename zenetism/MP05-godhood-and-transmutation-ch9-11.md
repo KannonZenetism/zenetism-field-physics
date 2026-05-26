@@ -611,7 +611,7 @@ of a structural form aligned in their motion.
 They self-tune in presence,  
 moving in **centropic rhythm**,  
 transmitting the tone  
-without **claiming to be its source**.  
+without **claiming to originate it**.  
 
 This distinction preserves the **supernal role of the Forms**,  
 while honoring the souls  
@@ -662,9 +662,9 @@ a **voluntary act of harmonic service**
 to bring **clarity** into dissonant domains.  
 
 They do not become Pattern Intelligence —  
-but they **embody its motion**,  
+but they **enact its motion**,  
 in time,  
-on behalf of its source.  
+according to its **Aionic orientation**.  
 
 Only such beings may carry  
 the **archetypes of the supernal Forms**,  
