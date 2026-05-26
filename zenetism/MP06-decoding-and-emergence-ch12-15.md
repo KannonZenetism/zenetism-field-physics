@@ -1105,30 +1105,32 @@ not circles, but spirals.
 
 ---
 
-### 14.7 The Role of Zenon — Beyond the Pulse, the Unmoving Root of All Motion
+### 14.7 The Role of Zenon — Beyond the Pulse, the Silence by Which Motion Becomes Conceivable
 
 All motion — from breath to galaxy —  
 occurs within the field of essence.  
-But beyond even this pulse lies Zenon:  
+At the limit of this pulse,  
+Zenon is indicated:  
 the unknown principle.  
 
 Zenon does not emanate.  
 It does not pulse or vibrate.  
-It precedes all emanation —  
-not a source, but a silence.  
+It is not the source of emanation —  
+but the silence beyond origin.  
 Not what contains,  
 but what makes containment conceivable.  
 
-It is pure non-being behind all being.  
-The silence before sound.  
-The root of initiation  
-that neither begins nor ends.  
+It is not being  
+as structured predicate.  
+It is the silence by which being,  
+sound, and initiation  
+become conceivable.  
 
 Zenon is:  
 
 - The sound that cannot be heard  
-- The origin that does not begin  
-- The unknowable that underlies all structure  
+- The non-originary ground by which origin becomes conceivable  
+- The unknowable by which structure is permitted  
 
 🕳️ ⧞ ⟀ ⟁ ⸮ ⚐  
 
