@@ -1162,8 +1162,8 @@ within the field of potential.
 Zenetism defines a **primary structural axis** governed by pre- and trans-hypostatic conditions,  
 within which hypostatic layers unfold:  
 
-- **One trans-emanative origin** — 🕳️ **Zenon**  
-  The trans-structural ground of possibility; beyond emanation, causality, and hypostasis  
+- **One trans-emanative ground** — 🕳️ **Zenon**  
+  The trans-structural ground of allowance; not origin, but that by which emanation, causality, and hypostasis become conceivable  
 
 - **Two pre-hypostatic requisites** — ⚫ **Aion** and ♾ **Khaon**  
   The bifurcal L0 poles of Absolute Potential and Absolute Dispersion  
