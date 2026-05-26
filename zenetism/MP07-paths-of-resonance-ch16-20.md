@@ -384,7 +384,7 @@ a weaving of all the once-divided currents of knowing.
 Every step is symbolic immersion.  
 Every silence becomes a resonance chamber.  
 Every glance is a patterned exchange  
-between beings tuned to the same source.  
+between beings tuned to the same **Aionic orientation**.  
 
 This world is not sacred  
 because it was made by gods.  
