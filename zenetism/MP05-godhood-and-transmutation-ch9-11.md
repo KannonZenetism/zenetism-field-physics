@@ -1075,7 +1075,7 @@ but the resistance between **structure** and **misalignment**.
 **The Sacrifice of Relief (Homecoming)**  
 
 When the internal state  
-is already aligned with **Source**,  
+is already aligned with **Aion**,  
 but external circumstance remains binding,  
 sacrifice is experienced as **liberation**.  
 
