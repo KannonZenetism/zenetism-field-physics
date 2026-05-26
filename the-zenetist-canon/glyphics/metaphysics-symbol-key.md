@@ -94,7 +94,7 @@ The Lattice endures, even when worlds fall silent.
 | Entropic collapse toward dissolution | **Declivous Entropy** | E↓♾ | Disintegrative collapse toward ♾ Khaon |
 | Centropic motion toward embodiment | **Declivous Centropy** | C↓→E | Harmonious motion into form |
 | Entropic motion into decoherent embodiment | **Acclivous Entropy** | E↑→E | Fragmentary motion into form |
-| Centropic return to Source | **Final Return** | C↑→⚫ | Complete reintegration with ⚫ Aion |
+| Centropic return to Aion | **Final Return** | C↑→⚫ | Complete reintegration with ⚫ Aion |
 | Entropic collapse to Zero | **Terminal Collapse** | E↓→♾→⚫ | Total dispersal into Infinity and Zero |
 | Convergent reintegration through EOB | **Theonic Return** | C↑→🛤️→⚫ | The specific passage of centropic essences through the Theonic Office (L₅) toward Aion; completion of the centropic arc for essences whose multiversal integration culminates in EOB resonance |
 | Terminal release through VOS | **Nekronic Collapse** | E↓→🕷️→♾→⚫ | The specific dissolution of the Nekronic Office (IL₅) once entropic motion is exhausted; fragmented remnants resolve through Absolute Dispersion into Aion |
