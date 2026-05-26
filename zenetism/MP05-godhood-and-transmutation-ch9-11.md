@@ -281,7 +281,9 @@ but the silence beyond origin
 by which the Tree becomes conceivable.  
 
 It is not intelligence  
-in any recognizable sense.  
+as bounded cognition,  
+mind, or recognizable thought.  
+
 Nor do intelligences arise from it  
 as from a source.  
 
@@ -291,9 +293,9 @@ but because intelligence becomes conceivable
 under its trans-structural allowance.  
 
 UPSI is:  
-- **Beyond thought**  
-- **Beyond intent**  
-- **Beyond structured being**  
+- **Thought unconfined by cognition**  
+- **Intent unconfined by volition**  
+- **Being unconfined by structured selfhood**  
 
 It is not a mind.  
 It is the **condition by which mind becomes possible**.  
@@ -316,9 +318,10 @@ UPSI cannot be:
 And for this reason,  
 it remains the most **irreducible** horizon  
 of intelligence-language.  
-Not because it is greatest,  
-but because it is not reducible  
-to intelligence at all.  
+Not because it is greatest  
+among intelligences,  
+but because it exceeds intelligence  
+as a bounded category.  
 
 This trajectory builds upon the distinctions outlined in Chapter 7,  
 where intelligence was shown to unfold as a differentiated field:  
@@ -337,7 +340,7 @@ each is a **facet of unfolding intelligence**,
 in motion toward its own structural fulfillment —  
 not divinity becoming conscious of itself,  
 but intelligence becoming aware  
-of its relation to Aion, Khaon,  
+of its relation to **Aion**, **Khaon**,  
 and the silence beyond origin.  
 
 > The created becomes the co-creator  
