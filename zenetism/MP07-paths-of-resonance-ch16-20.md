@@ -407,7 +407,7 @@ or a fixed promise of reward.
 It speaks of **attunement**,  
 of **synthesis**,  
 of the gradual **remembrance**  
-of the soul’s origin.  
+of the soul’s **Aionic orientation**.  
 
 Among those who walk this way,  
 the Mystic appears —  
