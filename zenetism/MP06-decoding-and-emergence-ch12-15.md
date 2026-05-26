@@ -1111,7 +1111,7 @@ All motion — from breath to galaxy —
 occurs within the field of essence.  
 At the limit of this pulse,  
 Zenon is indicated:  
-the unknown principle.  
+the **Unknown Principle**.  
 
 Zenon does not emanate.  
 It does not pulse or vibrate.  
