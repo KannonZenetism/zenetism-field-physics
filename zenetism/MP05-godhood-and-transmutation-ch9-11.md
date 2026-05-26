@@ -1573,7 +1573,8 @@ arises from a **misunderstanding of integration**.
 - If integration is complete, **Theon returns to Aion** —  
   not in loss, but in **return to containment without loss of distinction**  
 
-Where its entire journey becomes part of the **Source-field itself**.  
+Where its entire journey  
+resolves within the **Field of Aion** itself.  
 
 **Integration is not death** —  
 it is the **remembering of what you were always becoming**.  
