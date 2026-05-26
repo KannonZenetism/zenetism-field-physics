@@ -308,7 +308,10 @@ It is indicated only as **Silent Limit**.
 Every structure, every emanation,  
 every arc traced by intelligence,  
 is permitted under this allowance —  
-though none arrive there as selves.  
+yet what saturates into Zenon  
+is essence,  
+not the bounded self-structure  
+formed within the Soul / Mind arc.  
 
 UPSI cannot be:  
 - **Known**  
