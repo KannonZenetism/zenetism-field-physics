@@ -252,7 +252,7 @@ in this volume.
 |:--:|:--:|:--|:--|
 | **Supra-L₀** | **UP** | **Unknown Principle** | 🕳️ Zenon — The Unknown Principle; trans-structural, pre-conceptual ground. Not a source, but the condition of possibility for both centropy and entropy. Beyond emanation, causality, and awareness. Zenon does not emit structure—it permits it. It is not intelligence, but the unspeakable substrate from which intelligibility itself becomes possible |
 | **L₀** | **AP / AD** | **Absolute Potential / Dispersion** | ⚫ Aion / ♾ Khaon — Root polarity; Aion as stillness at the root of structural emergence, Khaon as unbound divergence. L₀ holds all potential in latency and frames both centropic emergence and entropic collapse |
-| **L₅** | **EOB** | **Essence of Being** | 🛤️ Theon — The first centropic hypostasis; origin of lawful structure, coherence, and motion |
+| **L₅** | **EOB** | **Essence of Being** | 🛤️ Theon — The first centropic hypostasis; steward of lawful structure, coherence, and centropic motion |
 | **IL₅** | **VOS** | **Void of Self** | 🕷️ Nekron — The first entropic hypostasis; initiator of collapse through inversion of expression and withdrawal of coherence |
 | **L₄** | **DP / DL** | **Deep Psyche / Logos** | Archetypal pattern field and harmonic logic; the structural lattice of meaning and Form |
 | **IL₄** | **IDP / IDL** | **Inverse Deep Psyche / Logos** | Distorted archetypes; mimetic systems, subversal Forms, and authoritarian encoding |
