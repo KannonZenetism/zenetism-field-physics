@@ -1423,7 +1423,7 @@ does not lift us above the world —
 it draws us **deeper into structural coherence**.  
 
 - All **resonant motion is a living reflection**  
-- Each refinement reflects **coherence with origin**  
+- Each refinement reflects **Aionic coherence**  
 - The soul does not **gain what it lacked** —  
   it uncovers what was veiled  
 
