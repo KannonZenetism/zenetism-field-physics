@@ -228,7 +228,7 @@ in the dialogue between symbol and seer.
 
 The Zenetist approach offers no final dogma.  
 Only a moment of clarity —  
-where structure, self, and source speak together.  
+where structure, self, and **Aion** speak together.  
 
 🪬📜 💠 🔔 🛎️ ◎ 〰️  
 
