@@ -1494,7 +1494,7 @@ or continue along **paths of entropy**,
 depending on their **motion** and **alignment**.  
 
 Zenetism affirms:  
-All beings are **divine in origin** —  
+All beings bear an **Aionic trace** —  
 but not all **forms** are **eternal**.  
 
 What cannot **harmonize**  
