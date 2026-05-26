@@ -954,7 +954,7 @@ To open or to close?
 
 Even sacred work  
 can become idolatry  
-if mistaken for the Source.  
+if mistaken for **Aion itself**.  
 
 The authentic Maker  
 will dismantle their own creation  
