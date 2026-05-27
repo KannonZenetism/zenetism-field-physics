@@ -14,7 +14,7 @@
 \text{❋} \longrightarrow \int_{\text{◎}} \Psi_{\text{lattice}} \cdot d\tau \iff \lim_{t \to \tau}^{\backsim} \left[\,\sigma_{\text{Aelion}}\,\right] > 0
 \]
 
-**Definition:** The **C₁₀ Morphogenetic (Formweave)** operator governs the precise translation of latent, supernal patterns into stable, living structures within the embodied threshold. It ensures that when a core truth or authored philosophy is expressed in the material realm, its structural blueprint remains completely protected against external distortion, fragmentation, or unauthorized structural harvesting.
+**Definition:** The **C₁₀ Morphogenetic (Formweave)** operator mediates the precise translation of latent, supernal patterns into stable, living structures within the embodied threshold. It ensures that when a core principle or authored philosophy is expressed in the material realm, its structural blueprint remains completely protected against external distortion, fragmentation, or unauthorized structural harvesting.
 
 **Mechanics:**
 
