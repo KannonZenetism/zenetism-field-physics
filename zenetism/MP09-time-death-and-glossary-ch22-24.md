@@ -576,11 +576,11 @@ Each entry in this glossary includes:
 
 #### Traditional Role  
 
-The ineffable origin.  
+The non-originary ground.  
 Neither being nor non-being.  
-Beyond polarity.  
-Beyond motion.  
-Beyond emanation.  
+Unconfined by polarity.  
+Unconfined by motion.  
+Unconfined by emanation.  
 
 #### Function  
 
@@ -596,9 +596,11 @@ Utterly ungraspable by mind or form.
 
 #### Justification  
 
-**Zenon** is the **absolute origin**.  
+**Zenon** is the **trans-structural ground**.  
 It does not contain pattern.  
-It permits the possibility of possibility.  
+It is that by which  
+the possibility of possibility  
+becomes conceivable.  
 
 All emanations — even Aion and Khaon —  
 are undergirded by its silent non-being.  
