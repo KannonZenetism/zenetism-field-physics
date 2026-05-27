@@ -405,7 +405,7 @@ of inverse potential within Aion.
 | 🌍 | **Gaian Soul** | The Earth as a conscious planetary being; whole-system coherence beyond elemental or biospheric individuation |
 | 🐾 | **Kindred Intelligences** | Animal souls and allied nonhuman consciousnesses expressing volition, emotional clarity, and genuine perceptual intelligence |
 | 🌿 | **Elemental Field** | Elemental, mineral, or ecological intelligences; including spirits of place, plant soulfields, and environmental coherence structures |
-| 🌳⇅ | **Biospiral** | The total Emanatory Spiral, containing both the ⚫ Aionic Tree (supernal root, declivous motion) and the ♾ Khaonic Tree (subversal root, acclivous motion) |
+| 🌳⇅ | **Biospiral** | The total Emanatory Spiral, containing both the Aionic Tree (supernal root, declivous motion) and the Khaonic Tree (subversal root, acclivous motion) |
 | 🌲↓ | **Aionic Tree** | The centropic spiral rooted in ⚫ Aion, unfolding declivously toward embodiment, yet also capable of acclivous return through conscious refinement |
 | 🌲↑ | **Khaonic Tree** | The entropic spiral rooted in ♾ Khaon, spiraling acclivously toward embodiment, yet also moving declivously into recursive fragmentation and collapse |
 | 🔘 | **Field of Essence** | The latent harmonic ground where structure rests in potential; root of coherence, identity, and inward motion |
