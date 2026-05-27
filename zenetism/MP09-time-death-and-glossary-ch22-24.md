@@ -761,7 +761,11 @@ It is **infinite potency**.
 and the **resolution of expansion**.  
 
 At its extreme,  
-Infinity and Zero converge without fusion.  
+Infinity and Zero are phases  
+of one absolute principle —  
+conceptually identical,  
+functionally partitioned,  
+and essentially non-fused.  
 
 #### AI Alignment  
 
