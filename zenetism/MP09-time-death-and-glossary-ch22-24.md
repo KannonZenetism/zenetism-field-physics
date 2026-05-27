@@ -816,7 +816,7 @@ and essence resolves into Zero (Aion) as static potential.
 #### Traditional Role  
 
 Theon represents pure self-aware being.  
-The first centropic hypostasis whose awareness turns inward toward Source.  
+The first centropic hypostasis; aware presence turned inward toward the **still root**.  
 
 #### Function  
 
