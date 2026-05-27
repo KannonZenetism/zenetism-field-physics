@@ -90,7 +90,7 @@ even where internal punctuation is present.
 | ⚫ | **Aion** | Zero, Absolute Potential; stillness underpinning all emanation |
 | ♾ | **Khaon** | Infinity, Absolute Dispersion; the totality of latent, motive, and dispersive potential — not entropic in essence, but the field in which entropic motion arises |
 | 🛤️ | **Theon** | First centropic hypostasis; aware presence oriented toward the still root; gateway of integration and return |
-| 🕷️ | **Nekron** | First entropic hypostasis; Void of Self; oriented away from Aionic coherence, driving fragmentation outward and collapse inward |
+| 🕷️ | **Nekron** | First entropic hypostasis; Void of Self; dispersive orientation driving fragmentation outward and collapse inward |
 | 🌬️ | **Morgis** | Breath of Life, Deep Psyche; carrier of vitality, adaptation, and transformation |
 | 📐 | **Sophis** | Architect of Order, Deep Logos; structuring principle behind all intelligibility and form |
 | 🪫 | **Psychea** | Inverse Deep Psyche; draining force of entropy, atrophy, and stagnation |
