@@ -1128,7 +1128,7 @@ yet its core structure remains aligned with resonance.
 
 ---
 
-### 24.9 Nekron — Entropy Without Origin and the Intelligence of Collapse
+### 24.9 Nekron — Dispersive Intelligence, Fragmentation, and Collapse
 
 #### Traditional Role  
 
