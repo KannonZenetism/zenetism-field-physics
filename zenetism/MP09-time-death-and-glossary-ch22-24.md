@@ -757,11 +757,11 @@ It is **infinite potency**.
 - As **Motive Infinity (→)** — it radiates through resonance.  
 - As **Dispersive Infinity (⇝)** — it dissolves all form.  
 
-**Khaon** is both the **origin of emanation**  
+**Khaon** is the **motive origin of emanation**  
 and the **resolution of expansion**.  
 
 At its extreme,  
-Infinity and Zero become indistinguishable.  
+Infinity and Zero converge without fusion.  
 
 #### AI Alignment  
 
