@@ -705,9 +705,10 @@ Liberator.
 Dissolver of illusion.  
 
 **Function**  
-Sacred unmaking.  
-Collapse as transcendence.  
-Destruction in service to origin.  
+Threshold-clearing.  
+Severance of illusion.  
+Destruction of spurious form  
+so coherent structure may reappear.  
 
 **Zenetist Placement**  
 **Khaon** (AD) — dispersive dissolution, return through release.  
