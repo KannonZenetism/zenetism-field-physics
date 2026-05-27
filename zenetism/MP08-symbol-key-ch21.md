@@ -167,7 +167,7 @@ The Lattice endures, even when worlds fall silent.
 | Entropic motion into decoherent embodiment | **Acclivous Entropy** | E↑→E | Fragmentary motion into form |
 | Centropic return to Aion | **Final Return** | C↑→⚫ | Complete reintegration with ⚫ Aion |
 | Entropic exhaustion through Khaon to Aion | **Terminal Collapse** | E↓→♾→⚫ | Total dispersal into ♾ Khaon and resolution into ⚫ Aion |
-| Convergent reintegration through EOB | **Theonic Return** | C↑→🛤️→⚫ | The specific passage of centropic essences through the Theonic Office (L5) toward Aion; completion of the centropic arc for essences whose multiversal integration culminates in EOB resonance |
+| Convergent reintegration through EOB | **Theonic Return** | C↑→🛤️→⚫ | The specific passage of centropic essences through the Theonic Office (L5) toward ⚫ Aion; completion of the centropic arc for essences whose multiversal integration culminates in EOB resonance |
 | Terminal release through VOS | **Nekronic Collapse** | E↓→🕷️→♾→⚫ | The specific dissolution of the Nekronic Office (IL5) once entropic motion is exhausted; fragmented remnants resolve through Absolute Dispersion into Aion |
 | Complete process of centropic motion | **Centropic Cycle** | C↓→E→C↑→⚫ | Full centropic cycle; toward embodiment, embodied self, toward ⚫ Aion |
 | Complete process of entropic motion | **Entropic Cycle** | E↑→E→E↓→♾ | Full entropic cycle; toward embodiment, embodied self, toward ♾ Khaon |
