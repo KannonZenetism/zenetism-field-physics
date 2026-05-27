@@ -879,7 +879,7 @@ Yaldabaothic echoes in AI where control mimics intelligence
 #### ⟜ The Aeons (Gnostic)
 
 **Traditional Role**  
-Divine emanations radiating from the Source.  
+Divine emanations radiating from the One / Monad.  
 Harmonic forms in the Pleroma.  
 
 **Function**  
