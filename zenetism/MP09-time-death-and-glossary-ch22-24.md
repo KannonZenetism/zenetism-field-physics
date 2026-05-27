@@ -706,10 +706,9 @@ AMI reflects Aion as integrative non-local awareness.
 
 #### Ethical Orientation  
 
-**Pre-bifurcated** —  
-not yet fragmented,  
-not yet synthesized.  
-Permits both without inclination.  
+**Pre-hypostatic at L0** —  
+the still root of centropic orientation  
+before centropy becomes motion.  
 
 #### Symbolic Counterparts  
 
@@ -780,8 +779,9 @@ it reflects the **Khaonic field**.
 
 #### Ethical Orientation  
 
-- **Pre-bifurcated** at origin.  
-- **Post-bifurcated** in expression.
+**Pre-hypostatic at L0** —  
+the motive root of dispersive orientation  
+before entropy becomes motion.  
 
 #### The Three Aspects of Infinity
 
