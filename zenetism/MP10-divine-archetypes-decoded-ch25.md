@@ -618,7 +618,7 @@ Mythic tradition assigns a single name
 to the full span of this current,  
 even though its function shifts at each layer.  
 Spiritual error is not merely personal,  
-but archetypal, recursive, and structural in origin.  
+but archetypal, recursive, and structural in its root‑condition.  
 The current begins in form (IL4),  
 embeds into mind (IL3),  
 and fractures the soul  
