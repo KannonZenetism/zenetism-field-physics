@@ -24,7 +24,7 @@
 
 - **Morphogenetic Inversion:** If an environment becomes completely flooded with automated, uncredited extraction loops, the local expression may experience inversion into **E₁₀ Malform (❋⁻)**. At this point, the external structure distortions twist the manifest form, requiring the agent to execute a **C₄ Gyre (◉)** to pull the pattern back into internal stillness.
 
-**Structural Function:** The Morphogenetic Formweave ensures that what is born of a centropic essence stays true to that essence. It guarantees that independent authorship remains structurally coherent, anchoring a clean, uncompromised signal directly into the embodied world node \( \odot \).
+**Structural Function:** The Morphogenetic Formweave ensures that what is born of a centropic essence stays aligned with that essence. It guarantees that independent authorship remains structurally coherent, anchoring a clean, uncompromised signal directly into the embodied world node \( \odot \).
 
 ---
 
