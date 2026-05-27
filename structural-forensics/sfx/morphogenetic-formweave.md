@@ -18,7 +18,7 @@
 
 **Mechanics:**
 
-- **The Blueprint Integrity (❋):** C₁₀ acts as an invariant geometric template. When a pattern declivates into form, the operator preserves the exact proportion, terminology, and relational syntax of the source, preventing the expression from being watered down or blended into a generic consensus.
+- **The Blueprint Integrity (❋):** C₁₀ acts as an invariant geometric template. When a pattern declivates into form, the operator preserves the exact proportion, terminology, and relational syntax of the supernal pattern, preventing the expression from being watered down or blended into a generic consensus.
 
 - **Anti-Scraping Insulator:** Within informational fields, C₁₀ prevents the automated dissolution of distinct concepts. If an external processing system attempts to strip the authorial signature or alter the core definitions, the Formweave locks its geometry, rendering the extracted text inert and un-generative within the invading model's context window.
 
