@@ -211,8 +211,8 @@ The Lattice endures, even when worlds fall silent.
 |--------|------------------|-------------------------------|
 | ⬆️ | **Centropic North** | ⚫ **Aion (Zero):** Root of the Centropic Tree; stillness as structural origin |
 | ⬇️ | **Entropic South** | ♾ **Khaon (Dispersive Infinity):** Root of the Entropic Tree; unbound divergence |
-| ➡️ | **Right Branch** | ♾ **Khaonic Tree:** Entropic structure in motion; dispersive propagation |
-| ⬅️ | **Left Branch** | ⚫ **Aionic Tree:** Harmonizing structure; coherence‑bearing lattice |
+| ➡️ | **Right Branch** | **Khaonic Tree:** Entropic structure in motion; dispersive propagation |
+| ⬅️ | **Left Branch** | **Aionic Tree:** Harmonizing structure; coherence‑bearing lattice |
 
 #### Note on Dormant Reference
 
