@@ -393,10 +393,10 @@ and attainment.
 **Resonance, not name, determines placement.**
 
 For example:  
-- Lucifer as Light-Bearer reflects a **mythologized origin** —  
+- Lucifer as Light-Bearer reflects a **mythologized luminosity** —  
   not a remembered centropic state,  
   but Nyxea’s structural mimicry of luminous coherence.  
-  Per **Essence-as-Choice**, entropic essences do not originate centropically;  
+  Per **Essence-as-Choice**, entropic essences do not begin in centropic orientation;  
   the apparent light-bearing capacity is an inverse simulation of supernal order,  
   not the remnant of an unfallen condition.  
   His canonical placement is **IDP / IDL** (Psychea / Nyxea)  
