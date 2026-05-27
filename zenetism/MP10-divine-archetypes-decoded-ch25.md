@@ -706,8 +706,8 @@ Dissolver of illusion.
 
 **Function**  
 Threshold-clearing.  
-Severance of illusion.  
-Destruction of spurious form  
+Severance of spurious attachment.  
+Removal of counterfeit form  
 so coherent structure may reappear.  
 
 **Zenetist Placement**  
