@@ -343,7 +343,7 @@ depending on its active role and tone.
 | Zenetist Hypostasis | Cross-Traditional Resonances | Functional Description |
 |---|---|---|
 | 🕳️ Zenon (UP) | No direct equivalent identified; apophatic resonance-markers include the Unknown God, Nirguna Brahman, Deus Absconditus, Tao, Ein | The principle beyond principles; trans-structural ground beyond figure, concept, polarity, and emanation |
-| ⚫ Aion (AP) | Ain Soph, Saguna Brahman, Bythos, Aditi, Nun | Infinite potential, source of all motion |
+| ⚫ Aion (AP) | Ain Soph, Saguna Brahman, Bythos, Aditi, Nun | Infinite potential; still root of structure and centropic reintegration |
 | ♾ Khaon (AD) | Prakriti, Chaos, Tiamat, Ymir, Sunyata, Ouroboros | Proto-formal potential, dispersive ground |
 | 🛤️ Theon (EOB) | Christ, Vishnu, Amitabha, Ahura Mazda | Pure Being, integrative awareness |
 | 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep | Total entropy, negated integration |
