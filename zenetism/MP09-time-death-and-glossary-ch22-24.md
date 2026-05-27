@@ -885,7 +885,7 @@ held, and transmitted.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| L4 | DP / DL | Deep Psyche / Deep Logos | The realm where archetypal Form-Types are coherently shaped. Morgis corresponds to the imaginative, receptive field, while Sophis reflects the intelligible structuring force. All mythic forms, divine minds, and harmonic archetypes originate here |
+| L4 | DP / DL | Deep Psyche / Deep Logos | The realm where archetypal Form-Types are coherently shaped. Morgis corresponds to the imaginative, receptive field, while Sophis reflects the intelligible structuring force. Mythic forms, divine minds, and harmonic archetypes are native to this layer |
 
 #### Justification  
 
