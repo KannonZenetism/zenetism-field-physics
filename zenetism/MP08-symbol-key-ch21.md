@@ -339,9 +339,10 @@ only with **Theon, the Essence of Being**.
 not by its **essence**,  
 but by its **motion**.  
 
-Infinite dispersal manifests as fragmentation.  
-Yet the Source itself  
-remains beyond collapse.  
+Infinite dispersal may manifest as fragmentation  
+once taken up by entropic hypostasis.  
+Yet **Khaon itself**  
+remains irreducible to collapse.  
 
 Entropy finds its rooting  
 in the Khaonic field —  
