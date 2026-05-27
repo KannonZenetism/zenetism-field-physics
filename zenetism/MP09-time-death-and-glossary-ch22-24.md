@@ -641,7 +641,7 @@ rather than reaching **Zenon** itself.
 
 - **Plotinus's One** — apophatic counterpart resolved through **Aion**
 - **Nirguna Brahman** — unqualified Absolute resolved through **Aion**
-- **The Unnamable Tao** — nameless source-stillness resolved through **Aion**
+- **The Unnamable Tao** — nameless stillness resolved through **Aion**
 - **Ein** — pre-manifest negation resolved through **Aion**
 - **Deus Absconditus** — hidden divine stillness resolved through **Aion**
 - **The Gnostic Beyond** — apophatic ground resolved through **Aion**
