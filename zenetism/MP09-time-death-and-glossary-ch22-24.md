@@ -1037,7 +1037,7 @@ acting as the superficial mask of the deeper intelligence.
 
 #### Ethical Orientation  
 
-Centropic in origin,  
+Centropic in native orientation,  
 but highly variable in practice.  
 It may bridge toward integration  
 or become a barrier —  
