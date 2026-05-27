@@ -310,7 +310,7 @@ not a station of being.
 |----------|------------|-------------|
 | **Potential Infinity** | ♾ Khaon (Latent) | All that could be manifested or expressed; pure potential |
 | **Motive Infinity** | ♾ Khaon (Motive) | The total domain of active motion and becoming; the field-condition that renders differentiation intelligible and sustains traversal until motion exhausts |
-| **Dispersive Infinity** | ♾ Khaon (Dispersive) | The terminal dispersion of expression and pattern at the limit of motion, where differentiation exhausts and re-potentialization toward Aion becomes possible |
+| **Dispersive Infinity** | ♾ Khaon (Dispersive) | The terminal dispersion of expression and pattern at the limit of motion, where differentiation exhausts and re-potentialization toward ⚫ Aion becomes possible |
 | **Unified Symbol** | ♾ Khaon (Absolute Dispersion) | Symbolic totality of all potential and motion |
 
 | Symbol | Phase | Function |
