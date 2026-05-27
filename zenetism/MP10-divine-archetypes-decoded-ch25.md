@@ -822,9 +822,12 @@ yet vulnerable to distortion through overreach.
 **IDP** (Psychea) — Sophia entropically scattered.  
 
 **Justification**  
-Sophia embodies the arc of inversion and return.  
-Divine insight split, but never severed from centropic origin.  
-Her myth encodes overextension’s tragedy and restoration’s beauty.  
+Sophia embodies the arc of declivity and acclivity.  
+Divine insight overextends from Theonic radiance  
+into vulnerable form,  
+yet retains its orientation toward the still root.  
+Her myth encodes the tragedy of misdirected emanation  
+and the beauty of restored coherence.  
 
 **Ethical Orientation**  
 Bifurcated — dependent on orientation and resonance.  
