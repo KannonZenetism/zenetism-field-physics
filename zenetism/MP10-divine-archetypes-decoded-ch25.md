@@ -644,10 +644,11 @@ Structure through divine thought.
 **Justification**  
 Brahma embodies the structuring Logos —  
 architect of forms.  
-Manifests patterns into ordered reality,  
-yet is not the primal source.  
-Role is architectural rather than absolute —  
-the shaper, not the origin.  
+Patterns are ordered through intelligible design  
+within the Form layer.  
+His role is architectural rather than absolute —  
+the shaper of form,  
+not the ground of being.  
 
 **Ethical Orientation**  
 Centropic (formative, structurally neutral).  
