@@ -2380,8 +2380,9 @@ because its motion is fulfilled.
 
 Centropy does not fragment to reach embodiment —  
 unlike entropy, it does not dissolve into its field.  
-It radiates from Source as luminant overflow,  
-integrative but limited in scope.  
+It radiates as **Theonic overflow**,  
+oriented by the still root,  
+integrative without dispersive loss.  
 
 When it reaches the final surface,  
 embodiment is not its goal,  
