@@ -1559,10 +1559,11 @@ Zenetism defines the universe as governed by
 two fundamental directional forces:  
 
 **Centropy**  
-The movement toward **coherence, unity, reintegration**,  
-and alignment with the Source — Aion.  
-It is the organizing impulse behind growth,  
-synthesis, and the **acclivous motion** of the soul across hypostases.  
+The movement toward **coherence, synthesis, reintegration**,  
+and alignment with **Aion**.  
+It is the organizing motion behind growth,  
+refinement, and the **acclivous return**  
+of essence through the centropic hypostases.  
 
 **Entropy**  
 The movement toward **fragmentation, chaos, dispersion**,  
