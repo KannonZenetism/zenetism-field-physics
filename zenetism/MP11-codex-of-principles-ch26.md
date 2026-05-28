@@ -1983,7 +1983,8 @@ through **resonance alone**.
 
 Most souls, upon full attunement with DS / DM coherence,  
 are drawn **acclivously** into DP / DL,  
-joining their archetypal source.  
+where their archetypal pattern  
+is held in coherent form.  
 
 Their individual expression dissolves  
 into the Field of Forms.  
