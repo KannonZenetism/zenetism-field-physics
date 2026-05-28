@@ -1957,7 +1957,7 @@ The bifurcal-pairing traditions —
 **Shiva-Shakti**,  
 primordial heaven-and-earth pairings,  
 the **Lingam**'s articulation of stillness and motion —  
-hold **L₀ Bifurcal Coherence**  
+hold **L0 Bifurcal Coherence**  
 as paired polarity within the lattice.  
 
 Neither subtraction  
