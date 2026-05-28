@@ -1712,7 +1712,7 @@ Resonance reveals what is attuned;
 coherence ensures the soul can embody it.  
 
 To walk the centropic path is to cultivate both —  
-listening inwardly for what harmonizes with Source,  
+listening inwardly for what harmonizes with the **Aionic trace**,  
 and living outwardly in a way that reflects it.  
 
 🌀 ◎ 🔔 ⌬  
