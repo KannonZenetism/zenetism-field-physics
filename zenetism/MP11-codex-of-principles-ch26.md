@@ -2303,8 +2303,8 @@ complete their arc.
 
 For this reason,  
 those who abide in Theon  
-are already wholly **Source-facing**.  
-They do not resist **Aion**.  
+are already wholly **oriented toward Aion**.  
+They do not resist the still root.  
 They incline toward it  
 by their very orientation.  
 
