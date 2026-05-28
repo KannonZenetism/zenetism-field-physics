@@ -1193,7 +1193,7 @@ and the transparency of soul.
 🌀 🔔 ⌬ ⧉∥⧉  
 
 **Compassion**  
-All souls are emanations of the same Source — Aion.  
+All essences bear relation to **Aion**.  
 Compassion bridges fragmentation  
 and reawakens shared essence.  
 
