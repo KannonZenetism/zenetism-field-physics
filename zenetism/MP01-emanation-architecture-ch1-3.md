@@ -2811,7 +2811,7 @@ It is the face of becoming —
 resonant,  
 wounded,  
 yet turned inward  
-to remember its source.  
+to remember its deeper pattern.  
 
 **Echthros**,  
 by contrast,  
