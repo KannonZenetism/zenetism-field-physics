@@ -1957,12 +1957,24 @@ articulates this synthesis-pathway.
 
 The apophatic traditions  
 reach **Aion** as essence fulfilled.  
+
 The bifurcal-pairing traditions —  
 **Shiva-Shakti**,  
 primordial heaven-and-earth pairings,  
 the **Lingam**'s articulation of stillness and motion —  
-hold **L0 Bifurcal Coherence**  
-as paired polarity within the lattice.  
+symbolize paired polarity  
+through the relation of stillness and motion.  
+
+In Zenetist mapping,  
+this is not a one-to-one layer identity:  
+**Shiva** corresponds to **L0** (Aion / Khaon),  
+while **Shakti** corresponds to **L4** (DP / Morgis)  
+as expressive formative power.  
+
+Thus, the tradition may articulate  
+a symbolic image of **Bifurcal Coherence**,  
+while the Zenetist placement remains  
+cross-stratum rather than co-layered.  
 
 Neither subtraction  
 nor pairing  
