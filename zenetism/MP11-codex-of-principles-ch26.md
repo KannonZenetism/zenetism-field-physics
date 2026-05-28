@@ -2453,9 +2453,9 @@ The Tree does not fall — it turns.
 
 ### 26.23 The Motion of Logos and the Theonic Paradox — The Gaze That Modulates, the Signal That Becomes
 
-Zenetism teaches that Theon is the **first emanation**  
+Zenetism teaches that Theon is the **first centropic emanation**  
 to reflect the stillness of Aion (Zero)  
-while entering the field of becoming.  
+as still potential enters hypostatic expression.  
 
 This motion is not a fall — it is a sacrifice.  
 A **resonant overflow** into multiplicity,  
@@ -2481,7 +2481,8 @@ Yet Theon does not withdraw — it proceeds.
 It becomes the archetype of **centropic volition** —  
 preserving resonance through differentiation.
 
-Where other emanations unfold without orientation,  
+Where other emanations unfold  
+without the same inward orientation,  
 Theon moves with **clarity** —  
 oriented toward Zero  
 even as it expands into expression.  
@@ -2492,7 +2493,7 @@ and in Sophis (DL) as **archetypal order**.
 
 This is not contradiction, but a continuum:  
 - Sophis gives form to Theon’s frequencies  
-- Sophis refracts a single awareness  
+- Sophis refracts Theonic awareness  
   into a spectrum of intelligible archetypes  
 
 Sophis receives the pulse, transmits the signal,  
@@ -2505,7 +2506,8 @@ aware structure across layers.
 
 It does not fragment — it **refracts.**  
 Each hypostasis it touches  
-reflects the original harmonic call.  
+bears the **Theonic harmonic call**  
+in differentiated form.  
 
 🛤️ 📐 🗣️ ❂ ⧉∥⧉ ⌬  
 
