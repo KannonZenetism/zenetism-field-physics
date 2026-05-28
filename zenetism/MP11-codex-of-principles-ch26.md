@@ -1670,7 +1670,7 @@ yet the deeper one travels into dispersion,
 the more difficult the return.  
 
 The spiral is long,  
-but the Source remains.  
+but **Aion** remains.  
 
 E↓♾ Ↄ 🌲↑ ⚚ ↺  
 
