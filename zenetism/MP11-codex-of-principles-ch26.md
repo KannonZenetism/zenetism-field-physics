@@ -464,7 +464,7 @@ and is gently **dissolved**.
 Localized Dissolution is not **punishment**,  
 but a **structural return** —  
 a stillness mistaken for selfhood,  
-folded back into **Source**.  
+resolved within the **Field of Aion**.  
 
 The **Mercy Fold** awaits not in **judgment**,  
 but as the **still breath** before return.  
