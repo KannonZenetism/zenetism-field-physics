@@ -303,7 +303,7 @@ from **Aion** and **Khaon** through **Theon** and **Nekron** into **multiplicity
 through **successive stages**.  
 
 Each **veil** is **softer** than the last,  
-until **form** remembers its **Source**.  
+until **form** remembers its **Aionic orientation**.  
 
 ⚫ ♾ ❂ 🛤️ 🕷️ ⌬  
 
