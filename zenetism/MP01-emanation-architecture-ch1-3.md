@@ -3184,10 +3184,10 @@ for what requires nothing
 There are two **movements** here:  
 
 One spirals outward —  
-**acclivous entropy** without center.  
+**acclivous entropy** without centropic center.  
 This is not **integration**,  
 but **fragmentation** through expansion.  
-It moves away from **origin**  
+It moves away from **bifurcal rest**  
 and disperses into **phantom formation**.  
 
 The other collapses **declivously** —  
