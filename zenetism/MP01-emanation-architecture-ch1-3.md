@@ -1095,8 +1095,8 @@ It binds the soul to **obsession** and **impermanence**.
 The body ceases to be a **vessel**  
 and becomes an **idol**.  
 
-The soul forgets its source,  
-clinging instead to **decay**.  
+The soul turns from return,  
+binding itself instead to **decay**.  
 
 **Malara** is the soul **shackled to flesh**  
 in a state of **fragmentation**.  
