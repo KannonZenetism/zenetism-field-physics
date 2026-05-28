@@ -235,9 +235,10 @@ When **alignment** precedes **becoming**,
 🕊️ ⎋ 💝 🔔  
 
 **Centropy**  
-The **force** or **orientation**  
-toward **unity**, **coherence**, **synthesis**,  
-and **integrative return** to Source.  
+The **structuring motion** or **orientation**  
+toward **coherence**, **synthesis**,  
+resonant integration,  
+and return toward the **still root**.  
 
 It does **not command** —  
 it **calls**.  
