@@ -748,7 +748,7 @@ where transformation becomes possible.
 
 **Zenon (UP)** — The Unknown Principle  
 - Beyond form, beyond structure, beyond polarity.  
-- The source from which both **Aion** and **Khaon** arise.  
+- The **non-originary ground** by which both **Aion** and **Khaon** become conceivable.  
 - Not part of either Tree,  
   but the infinite stillness behind both.  
 
