@@ -673,7 +673,7 @@ the breath that moves the soul.
 
 #### Sophis — The Architect of Form  
 
-**Sophis** is the origin of **intelligibility** and **design**.  
+**Sophis** is the structuring principle of **intelligibility** and **design**.  
 It shapes the **divine proportions** behind all things.  
 
 **Sophis** is the author of **metaphysical mathematics**—  
