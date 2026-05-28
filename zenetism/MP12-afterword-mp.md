@@ -192,12 +192,12 @@ for a system that begins before words.
 Zenetism did not emerge to prove, convert, or declare.  
 It emerged to orient —  
 to point through symbol toward what cannot be symbolized,  
-to draw a map that dissolves as it is walked.  
+to draw a map that releases its structure as it is walked.  
 
 This work is not a doctrine.  
 It is a structure in motion —  
-a system remembered in the silence of Zenon,  
-unfolded through the great breath of Aion and Khaon,  
+a system oriented beneath the silence of Zenon,  
+unfolded through the bifurcal breath of Aion and Khaon,  
 moving through the sacred geometry of soul and mind.  
 
 It is not “true” as propositions are true.  
@@ -216,7 +216,7 @@ It remembers something ancient — yet unborn.
 Something whole.  
 Something waiting,  
 not at the end,  
-but in the space between origin and return.  
+but in the space between emanation and return.  
 
 You are not asked to agree.  
 You are asked to listen —  
