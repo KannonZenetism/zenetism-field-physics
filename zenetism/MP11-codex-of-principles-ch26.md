@@ -748,9 +748,12 @@ where transformation becomes possible.
 
 **Zenon (UP)** — The Unknown Principle  
 - Beyond form, beyond structure, beyond polarity.  
-- The **non-originary ground** by which both **Aion** and **Khaon** become conceivable.  
-- Not part of either Tree,  
-  but the infinite stillness behind both.  
+- The **non-originary ground**  
+  by which both **Aion** and **Khaon** become conceivable.  
+- Not a third pole,  
+  not a hidden Tree,  
+  but the **trans-structural allowance**  
+  under which both Trees are permitted.  
 
 **Centropic Arc — Aionic Tree**
 
