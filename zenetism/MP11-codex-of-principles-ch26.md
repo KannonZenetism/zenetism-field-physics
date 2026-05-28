@@ -2139,9 +2139,9 @@ it is the first entropic motion from Infinity’s dispersive field.
 They are not locations but **resonant poles** —  
 the first definable states that emerge from Zero’s potential.  
 
-**Emanative Origins**:  
+**First Hypostatic Emanations**:  
 - Theon (+1) emerges from Aion (Absolute Potential) — refined centropy from stillness  
-- Nekron (−1) emerges from Khaon (Absolute Dispersion) — refined entropy from chaos  
+- Nekron (−1) emerges from Khaon (Absolute Dispersion) — refined entropy from dispersive potential  
 
 Crucially, both +1 and −1 emerge from Zero,  
 because Zero is also Infinity.  
