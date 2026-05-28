@@ -372,7 +372,8 @@ in which becoming unfolds.
 Not merely the impulse toward expression,  
 but the living current  
 that carries motion  
-from origin to exhaustion.  
+from latent potential  
+to exhaustion.  
 
 And **Dissolving** is not mere ruin.  
 It is collapse completing its arc —  
