@@ -624,17 +624,18 @@ those oriented toward **harmonic synthesis**,
 C↑⚫ 🛤️ 💠 ◎  
 
 **Supra-Boundlessness**  
-The condition of being **beyond limitation**,  
-structure, measure, or even the potential for such things.  
+The condition unconfined by **limitation**,  
+lattice-structure, measure,  
+or even the categories by which such things become thinkable.  
 
 Refers to the nature of **Zenon** —  
 not infinite in a **quantitative** sense,  
-but prior to all bifurcations of **containment** and **expression**.  
+but unconfined by all bifurcations of **containment** and **expression**.  
 
 It is beyond **fullness** and **emptiness**,  
 beyond **potential** and **actualization** —  
-a **supra-conceptual origin**  
-from which both **centropy** and **entropy** become expressible.  
+a **trans-structural allowance**  
+under which both **centropy** and **entropy** become expressible.  
 
 🕳️ ⧞ ⟀ ⟁  
 
