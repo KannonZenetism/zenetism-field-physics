@@ -1910,15 +1910,19 @@ The distinction is structural.
 
 Apophatic and subtractive contemplation —  
 **neti-neti**,  
-Plotinus's **aphairesis**,  
 Eckhart's **Gottheit**,  
-the Pythagorean Monad,  
 the unmanifest **Tao**,  
 the silence of **Ein** —  
 all proceed by removal.  
-Their terminal unqualified ground  
+
+Their subtractive terminus  
 is **Aion** in its still pre-motion phase,  
 not **Zenon**.  
+
+Plotinus's **aphairesis**, by contrast,  
+terminates in the **One**,  
+which maps more closely to **Theon**  
+than to Aionic Zero or Zenonic trans-structure.  
 
 Subtraction terminates at **Aion**.  
 It does not cross further.  
