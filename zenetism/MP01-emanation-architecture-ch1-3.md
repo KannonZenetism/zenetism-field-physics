@@ -676,7 +676,7 @@ the breath that moves the soul.
 **Sophis** is the structuring principle of **intelligibility** and **design**.  
 It shapes the **divine proportions** behind all things.  
 
-**Sophis** is the author of **metaphysical mathematics** —  
+**Sophis** is the author of **metaphysical mathematics**—  
 the silent harmonies that give reality its spine.  
 
 It crafts **form and symbol**  
