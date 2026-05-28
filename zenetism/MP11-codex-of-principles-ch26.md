@@ -724,10 +724,10 @@ and the outer **mythic terrain** of the world.
 ### 26.3 Tree of Emanation — A Schema of Twofold Declivity and Soul Integration
 
 Zenetism describes reality as a field of reflected emanations,  
-arising from a single unstructured source —  
+made conceivable under a single trans-structural allowance —  
 **Zenon**, the Unknown Principle.  
 
-From this origin, two Trees unfold:  
+Under this allowance, two Trees unfold:  
 
 - **The Aionic Tree** — rooted in Zero,  
   moving through **centropic stages**,  
