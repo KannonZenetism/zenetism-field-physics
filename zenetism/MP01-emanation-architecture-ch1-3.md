@@ -2575,8 +2575,8 @@ The other dissolves the possible.
 #### Note on the Titans and Archons
 
 In Gnostic tradition, the **Archons** represent the powers that govern form,  
-but do not remember its origin.  
-They are guardians of pattern without Source.
+but do not remember its Pleromatic root.  
+They are guardians of pattern without Pleromatic remembrance.  
 
 In Greek myth, the **Titans** emerge prior to the Olympians—  
 vast, law-bound entities tied to the elemental and the chthonic.
