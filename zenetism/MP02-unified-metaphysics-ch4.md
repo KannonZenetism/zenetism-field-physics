@@ -318,7 +318,8 @@ but because they are luminous by inheritance.
 They do not push downward —  
 they shine forward,  
 until the light becomes clothed in matter,  
-until the voice forgets its source.  
+until the voice is veiled  
+within embodied form.  
 
 The soul in embodiment is not fallen —  
 it is **cloaked**.  
