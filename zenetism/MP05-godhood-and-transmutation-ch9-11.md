@@ -991,7 +991,7 @@ Zenetism identifies **four archetypal modes of suffering**,
 each with a distinct **structural basis**  
 and a distinct **potential for transformation**:  
 
-| **Type of Suffering** | **Source** | **Transformative Potential** |
+| **Type of Suffering** | **Structural Basis** | **Transformative Potential** |
 |---|---|---|
 | **Reactive** | Egoic friction, unmet desire | Purification of perception |
 | **Redemptive** | Chosen sacrifice for centropy | Integration of deeper will |
