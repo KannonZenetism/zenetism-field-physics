@@ -542,7 +542,7 @@ or the entropic arc of disintegration.
 ### 4.5 Ontological Orientation and the Role of VOS
 
 While **centropy** and **entropy** stand in structural polarity,  
-their origins diverge in motion.  
+their hypostatic motions diverge in expression.  
 
 The difference is not in form,  
 but in **directional essence**.  
