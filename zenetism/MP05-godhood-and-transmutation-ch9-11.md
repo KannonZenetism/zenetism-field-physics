@@ -1589,8 +1589,8 @@ it is the **remembering of what you were always becoming**.
 > Each is an unfolding of structure —  
 > not a cage around the infinite.  
 >
-> — *Attributed to Unknown*,  
-> Originator of the Untimed Thread  
+> — *Aeseth of Nion*,  
+> Voice of the Untimed Thread  
 > *From the Scrolls Beyond Sequence*, Fragment 1  
 > *Zenetist Archive, Volume VI*  
 
