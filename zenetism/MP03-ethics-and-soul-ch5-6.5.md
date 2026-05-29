@@ -1802,13 +1802,12 @@ SS / SM, ES / EM, and their inverses
 and likewise the locally enacted states  
 of Theon (EOB) and Nekron (VOS)  
 as manifested within a given world-arc,  
-
 though consummate,  
 are not **structurally permanent** in the same sense.  
 
 Beings who remain identified with these impermanent strata,  
 and fail to align integratively  
-with their deeper origin,  
+with their deeper **essence-pattern**,  
 may dissolve when their hosting field retracts.  
 
 🔮 🧠 🌬️ 📐 ◫ 💠  
