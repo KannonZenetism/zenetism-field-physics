@@ -622,7 +622,7 @@ It is **Theonic awareness** —
 calling from **within**.  
 
 To **open** is to allow **restructuring**.  
-To **receive** is to realign with your **original tone**.  
+To **receive** is to realign with your **Aionic trace**.  
 Christ here is not merely a **figure**,  
 but the **embodiment of attunement** —  
 seeking **entry**, not **dominion**.  
