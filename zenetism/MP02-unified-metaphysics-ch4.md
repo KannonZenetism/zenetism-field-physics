@@ -2877,13 +2877,24 @@ to divide the many, it consumes.
 
 The figure described here  
 is not **Nekron** itself  
-at the hypostatic layer (**L5 / IL5**).  
+at the entropic hypostatic layer (**IL5**).  
 
 **Nekron** is the first entropic hypostasis:  
 the **Void of Self**,  
 blind structural compulsion,  
 driving fragmentation outward  
 and collapse inward.  
+
+This blindness is not innocence.  
+It names privation,  
+not absolution.  
+
+As Entropy Itself,  
+Nekron encompasses both  
+unwilled tragedy  
+and willed antagonism —  
+collapse by accident,  
+and collapse enacted through intent.  
 
 **Nekron’s Echo** is the inverse avatar —  
 the embodied expression  
@@ -2892,8 +2903,8 @@ carried into form
 through the entropic arc.  
 
 It is what the hypostatic principle becomes  
-when enacted through incarnation,  
-and therefore its antagonism  
+when enacted through incarnation.  
+Therefore its antagonism  
 is not excused  
 as mere blindness, mechanism,  
 or compulsion.  
