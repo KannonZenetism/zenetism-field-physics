@@ -1198,7 +1198,7 @@ The blind compulsion
 of the Void of Self.  
 
 This blindness is not innocence.  
-It names the Void,  
+It names entropic occlusion,  
 not neutrality,  
 not absolution.  
 
