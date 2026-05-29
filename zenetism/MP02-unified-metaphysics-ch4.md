@@ -1951,7 +1951,7 @@ It is the **motion toward coherence.**
 It is the centropic arc —  
 the acclivous unfolding  
 of harmony, integration,  
-and reintegration with the field of origin.  
+and reintegration within the **Field of Aion**.  
 
 Fragmentary evolution,  
 by contrast, is the **declivous collapse**  
