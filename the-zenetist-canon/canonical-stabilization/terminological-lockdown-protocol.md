@@ -184,6 +184,192 @@ Therefore:
 
 ---
 
+# Soul / Essence Terminology Protocol
+
+## Soul Terminology Restriction
+
+The term **soul** requires technical precision within canonical Zenetist articulation.
+
+Earlier corpus material, especially early Structural Metaphysics material, may contain **soul** as a broad poetic designation for the inward identity-bearing principle moving through emanation, refinement, resonance, return, or dissolution.
+
+This legacy register remains intelligible as pre-tightening language.
+
+However, within strict canonical specification, **Soul** begins only with the **Soul / Mind bifurcation** at **L₄ / IL₄**.
+
+Therefore, **soul** must not function as the default designation for all identity-bearing reality across the entire lattice.
+
+---
+
+## Canonical Distinction
+
+### Essence
+
+**Essence** refers to the pre-Soul identity-bearing principle operative before the Soul / Mind dyad becomes structurally differentiated.
+
+Essence pertains to:
+
+- **Supra-L₀** / Zenon saturation-language
+- **L₀** / Bifurcal Coherence
+- **L₅** / Theon
+- **IL₅** / Nekron
+- Aion-facing return prior to Soul / Mind bifurcation
+- Khaonic or Nekronic motion prior to inverse Soul / Mind bifurcation
+
+Essence is not a generic abstraction.
+
+It names what a being most fundamentally is before the Soul / Mind dyad appears.
+
+---
+
+### Soul
+
+**Soul** in the strict technical sense begins at **L₄ / IL₄**, where the Soul / Mind dyad becomes operative.
+
+Soul pertains to:
+
+- **L₄ / IL₄** through **L₁ / IL₁**
+- DP / DL and IDP / IDL
+- DS / DM and IDS / IDM
+- SS / SM and ISS / ISM
+- ES / EM and IES / IEM
+
+Soul-language is appropriate when discussing:
+
+- psychic structure
+- embodied identity
+- Soul / Mind dynamics
+- memory and refinement within the L₄–L₁ arc
+- inverse Soul / Mind distortion within the IL₄–IL₁ arc
+- incarnation, embodiment, personality, experience, and post-bifurcation identity
+
+---
+
+## Layer-Register Rule
+
+Apply **essence-language** when the passage concerns:
+
+- **Aion**
+- **Khaon**
+- **Theon**
+- **Nekron**
+- **Bifurcal Coherence**
+- **Zenon**
+- **Supra-L₀**
+- **L₀**
+- **L₅ / IL₅**
+- saturation into Zenon
+- return through Theon
+- terminal entropic exhaustion through Nekron
+- pre-Soul identity-bearing structure
+
+Apply **soul-language** when the passage concerns:
+
+- **L₄ / IL₄** through **L₁ / IL₁**
+- Soul / Mind bifurcation
+- embodied or psychic identity
+- memory, refinement, distortion, or collapse within the Soul / Mind arcs
+- post-bifurcation individuation
+- incarnate or locally expressed selfhood
+
+---
+
+## Zenon Restriction
+
+Avoid:
+
+- souls saturate into Zenon
+- souls return to Zenon
+- souls enter Zenon
+- souls pass into Zenon
+
+Preferred:
+
+- essences saturate into Zenon
+- essence may saturate into Zenon
+- saturation into Zenon pertains to essence, not Soul
+- Zenon functions as destination-language only relative to essence
+
+Zenon is not a hypostatic layer, not a container, and not a destination in itself.
+
+Therefore, Soul-language should not attach to Zenonic saturation except when explicitly discussing legacy wording or correcting earlier terminology.
+
+---
+
+## Aion / Theon / Nekron Restriction
+
+Avoid:
+
+- souls return to Aion
+- souls reintegrate into Aion
+- souls pass through Theon at L₅
+- souls collapse through Nekron at IL₅
+
+Preferred:
+
+- essences return to Aion
+- essences reintegrate within the Field of Aion
+- essences pass through the Theonic threshold
+- essence-register motion pertains to L₅ / IL₅
+- Soul-language applies only after the Soul / Mind dyad appears at L₄ / IL₄
+
+A soul may undergo refinement, memory, distortion, collapse, or reintegration within the L₄–L₁ and IL₄–IL₁ arcs.
+
+Essence, not Soul, pertains to the L₅ / IL₅ threshold, the L₀ field of Bifurcal Coherence, and rare saturation into Zenon.
+
+---
+
+## Legacy Corpus Clarification
+
+Earlier Zenetist documents may contain **soul** in a broad poetic register.
+
+Where early texts speak of “souls” returning through supernal strata, reaching Aion, passing through Theon, collapsing through Nekron, or saturating beyond the lattice, the technically precise reading is **essences** unless the passage explicitly concerns the **L₄–L₁** or **IL₄–IL₁** Soul / Mind arc.
+
+Legacy wording does not automatically require universal replacement.
+
+However, future canonical articulation should preserve the technical distinction between:
+
+- **essence** as pre-Soul identity-bearing principle
+- **Soul** as post-bifurcation identity-bearing structure within the Soul / Mind dyad
+
+---
+
+## Audit Guidance
+
+When auditing older materials, replace **soul** with **essence** only when the register clearly concerns:
+
+- **Supra-L₀**
+- **L₀**
+- **L₅ / IL₅**
+- Aion
+- Khaon
+- Theon
+- Nekron
+- Bifurcal Coherence
+- Zenon
+- saturation beyond the lattice
+- return to Aion
+- terminal entropic exhaustion into Absolute Dispersion
+
+Do not overcorrect every occurrence of **soul**.
+
+Soul-language remains valid where the passage concerns:
+
+- embodied beings
+- psychic identity
+- Soul / Mind pairing
+- incarnate memory
+- DS / DM, SS / SM, or ES / EM dynamics
+- inverse Soul / Mind structures
+- post-bifurcation selfhood
+
+The audit question should be:
+
+> Is this passage operating in essence-register or Soul / Mind register?
+
+Terminology should align with the register.
+
+---
+
 # Balance / Equilibrium Terminology Protocol
 
 ## Balance Terminology Restriction
