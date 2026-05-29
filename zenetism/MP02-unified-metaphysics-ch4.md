@@ -2886,7 +2886,7 @@ driving fragmentation outward
 and collapse inward.  
 
 This blindness is not innocence.  
-It names privation,  
+It names the **Void of Self**,  
 not absolution.  
 
 As Entropy Itself,  
