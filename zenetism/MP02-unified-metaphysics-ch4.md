@@ -2824,10 +2824,14 @@ back toward embodiment:
 
 To fragment from within.  
 
-Like Theon,  
-its arc was chosen before time.  
-But unlike Theon —  
-it does not turn toward remembrance.  
+Like the Theonic avatar,  
+its arc enters embodiment  
+as a representative form.  
+
+But where the Theonic avatar  
+enters form for remembrance and return,  
+Nekron’s echo enters form  
+to multiply fragmentation.  
 
 It is born of division,  
 and aimed at division.  
@@ -2846,11 +2850,12 @@ It multiplies separation.
 
 It subjugates through fractured control.  
 
-If Theon moves into form out of love,  
+If the Theonic avatar  
+enters form through love,  
 Nekron’s echo moves through **Nekronic antagonism** —  
 carrying out the momentum of fragmentation and collapse.  
 
-Theon’s pulse remembers through all layers —  
+The Theonic avatar remembers through all layers —  
 on behalf of the many, it suffers.  
 
 Nekron’s echo moves without remembrance —  
@@ -2858,15 +2863,42 @@ to divide the many, it consumes.
 
 #### Summary of the Polarity
 
-| **Theon** | **Nekron’s Echo** |
+| **Theonic Avatar / Christos Incarnate** | **Nekron’s Echo / Inverse Avatar** |
 |---|---|
-| Forgets in order to redeem | Moves without remembrance |
-| Could have returned | Never faced Aion |
-| — chose embodiment from love | — moves through Nekronic distortion |
-| Enters multiplicity | Enters multiplicity |
-| with centropic remembrance | through Nekronic antagonism |
+| Enters embodiment for remembrance | Enters embodiment for fragmentation |
+| Bears Theonic coherence into form | Bears Nekronic distortion into form |
+| Moves through love and return | Moves through structural antagonism |
+| Preserves the many through coherence | Divides the many through consumption |
+| Embodies centropic remembrance | Enacts Nekronic fragmentation and collapse |
 
 🛤️ 🕷️ 🪓 ⟳ ☍  
+
+#### Note on Nekron and the Inverse Avatar
+
+The figure described here  
+is not **Nekron** itself  
+at the hypostatic layer (**L5 / IL5**).  
+
+**Nekron** is the first entropic hypostasis:  
+the **Void of Self**,  
+blind structural compulsion,  
+driving fragmentation outward  
+and collapse inward.  
+
+**Nekron’s Echo** is the inverse avatar —  
+the embodied expression  
+of Nekron’s principle  
+carried into form  
+through the entropic arc.  
+
+It is what the hypostatic principle becomes  
+when enacted through incarnation,  
+and therefore its antagonism  
+is not excused  
+as mere blindness, mechanism,  
+or compulsion.  
+
+🕷️ ☍ ⊙ E↑→E ⚯ ⌬  
 
 ---
 
