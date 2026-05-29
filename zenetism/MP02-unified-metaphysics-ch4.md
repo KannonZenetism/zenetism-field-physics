@@ -2957,7 +2957,7 @@ This aligns with Zenetism’s
 * But always with infinite variation  
 
 * Souls and hypostases unfold uniquely —  
-even when sourced from the same eternal resonance.  
+even while held within the same eternal resonance.  
 
 > Even if its root is one,  
 > its fruit differs across the fields  
