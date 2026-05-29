@@ -549,7 +549,7 @@ while resonance has faded.
 The Sardian soul must **awaken** —  
 not through fear,  
 but by remembering  
-its original tone.  
+its Aionic trace.  
 
 The call is not condemnation,  
 but return.  
