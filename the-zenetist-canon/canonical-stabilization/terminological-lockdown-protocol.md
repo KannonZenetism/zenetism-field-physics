@@ -1206,6 +1206,7 @@ All future audits should classify drift under one or more of the following categ
 | Linguistic Drift  | Non-canonical wording or inherited terminology                                |
 | Directional Drift | Vertical or hierarchical language replacing canonical motion terminology      |
 | Positional Drift  | Confusion between motion and placement                                        |
+| Essence / Soul Drift | Application of “soul” where the passage technically concerns essence-register strata such as L₅ / IL₅, L₀, Supra-L₀, Aion, Khaon, Theon, Nekron, Bifurcal Coherence, or Zenon |
 | Fusion Drift      | Language implying collapse of sovereign distinction                           |
 | Layer Drift       | Incorrect stratum placement                                                   |
 | Cascade Drift     | Imprecise cascade articulation                                                |
