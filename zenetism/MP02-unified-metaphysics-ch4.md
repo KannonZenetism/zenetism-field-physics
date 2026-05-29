@@ -1098,14 +1098,18 @@ It corrodes what it cannot integrate.
 
 ### 4.19 The Function of Suffering
 
-Suffering is the **felt experience of disunity**.  
+Suffering is the **felt experience of dissonance**.  
 
 It arises when a being’s awareness  
-becomes divided from Source.  
+becomes divided within itself,  
+losing orientation toward deeper coherence.  
 
 It occurs when Archeus and Noeüs  
-are buried beneath the strata  
-of embodiment or entropy.  
+fail to transmit cleanly  
+through embodied strata,  
+or when inverse structures  
+simulate their function  
+through entropic distortion.  
 
 And yet —  
 suffering plays a **catalytic role**  
