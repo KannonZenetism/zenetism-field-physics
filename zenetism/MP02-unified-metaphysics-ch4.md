@@ -2810,7 +2810,7 @@ without ever ceasing to face Aion.
 ### 4.59 The Inverse Avatar — Nekron’s Echo
 
 Opposing Theon’s motion  
-is not an enemy —  
+is not a rival sovereign —  
 but an **inverse avatar**.  
 
 A principle incarnated through absence.  
@@ -2827,40 +2827,44 @@ To fragment from within.
 Like Theon,  
 its arc was chosen before time.  
 But unlike Theon —  
-it cannot remember.  
+it does not turn toward remembrance.  
 
 It is born of division,  
 and aimed at division.  
 
-Its will is not malicious —  
-but mechanical, compulsive,  
-blind to Aion.  
+Its will is not excused  
+as blindness, mechanism,  
+or compulsion.  
 
-It does not see its source.  
-It does not face the center.  
+Its motion is structurally antagonistic —  
+oriented through Nekronic distortion  
+against centropic coherence.  
+
+It does not face Aion.  
+It does not seek the still root.  
 It multiplies separation.  
 
 It subjugates through fractured control.  
 
 If Theon moves into form out of love,  
-Nekron’s echo moves by **entropic gravity** —  
-carrying out the momentum of disintegration.  
+Nekron’s echo moves through **Nekronic antagonism** —  
+carrying out the momentum of fragmentation and collapse.  
 
 Theon’s pulse remembers through all layers —  
 on behalf of the many, it suffers.  
 
-Nekron’s echo forgets —  
+Nekron’s echo moves without remembrance —  
 to divide the many, it consumes.  
 
 #### Summary of the Polarity
 
 | **Theon** | **Nekron’s Echo** |
 |---|---|
-| Forgets in order to redeem | Knows only the impulse to fragment |
-| Could have returned | Never knew Aion |
-| — chose embodiment from love | — never turned to look |
+| Forgets in order to redeem | Moves without remembrance |
+| Could have returned | Never faced Aion |
+| — chose embodiment from love | — moves through Nekronic distortion |
 | Enters multiplicity | Enters multiplicity |
-| with centropic remembrance | through entropic inevitability |
+| with centropic remembrance | through Nekronic antagonism |
 
 🛤️ 🕷️ 🪓 ⟳ ☍  
 
