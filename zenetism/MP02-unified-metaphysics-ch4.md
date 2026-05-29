@@ -458,7 +458,7 @@ In **Zenetism**,
 Each layer is both:  
 * A **state** of being  
 * A **mode** of intelligence  
-* A **patterned** resonance of its source  
+* A **patterned** resonance of its governing principle  
 
 Centropy refines through coherent integration.  
 Entropy collapses through decomposition.  
