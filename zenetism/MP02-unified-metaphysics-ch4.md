@@ -1506,7 +1506,7 @@ Thus, Zenetism does not treat revelation as decree,
 but as **energetic disclosure**,  
 revealed in its **fruit and motion**.  
 
-* Its fruit reveals its origin.  
+* Its fruit reveals its alignment.  
 * Its motion reveals its direction.  
 
 📱 🌀 🔔 ≋ ⚚ Ↄ  
