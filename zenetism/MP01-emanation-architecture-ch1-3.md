@@ -2009,6 +2009,146 @@ for all subtractive approaches.
 
 🕳️ ⚫ ♾ ⧖⧗ ⟁  
 
+#### Note on the Cataphatic Limit — Emptiness and Fullness at L0
+
+The dispute between **emptiness** and **fullness**  
+does not reach **Zenon**.  
+
+It belongs to the register of **L0** —  
+the bifurcal ground  
+where **Aion** and **Khaon**  
+stand as paired root-principles  
+within the lattice.  
+
+The apophatic path  
+moves by removal.  
+
+It strips away image,  
+attribute,  
+motion,  
+and form,  
+until only stillness remains.  
+
+This is the way of:  
+
+- **neti-neti**  
+- Eckhart’s **Gottheit**  
+- the silence of **Ein**  
+- the unmanifest **Tao**  
+- emptiness read as stillness  
+
+Its terminus is **Aion** —  
+Zero,  
+stillness,  
+essence contained,  
+the silent root of return.  
+
+The cataphatic path  
+moves by plenitude.  
+
+It does not strip away,  
+but affirms fullness,  
+radiance,  
+containment,  
+and divine superabundance.  
+
+This is the way of fullness —  
+not emptiness as absence,  
+but fullness as contained plenitude.  
+
+In Zenetist mapping,  
+this fullness also belongs to **Aion**  
+when fullness is understood  
+as pregnant Zero:  
+the still root  
+that contains all possibility  
+without yet expressing it.  
+
+Thus, emptiness and fullness  
+are not opposites at Zenon.  
+
+They are two contemplative readings  
+of the **L0** register:  
+
+- emptiness as stillness  
+- fullness as contained plenitude  
+- Zero as the root  
+  in which possibility rests  
+
+Neither names **Zenon**.  
+
+To rest in emptiness  
+is not to reach Zenon.  
+
+To rest in fullness  
+is not to reach Zenon.  
+
+Both remain within the grammar  
+of polarity,  
+containment,  
+and contemplative terminus.  
+
+**Zenon** is not the empty pole.  
+It is not the full pole.  
+It is not the union of the two  
+by fusion.  
+
+It is the **non-originary ground**  
+by which emptiness and fullness  
+become conceivable at all.  
+
+Only the non-fusing synthesis  
+of stillness and motion,  
+emptiness and fullness,  
+Aion and Khaon,  
+can gesture beyond the polarity  
+toward Zenonic saturation.  
+
+Even then,  
+Zenon is not reached  
+as a place,  
+object,  
+or final content.  
+
+Only essence,  
+in rare centropic completion,  
+may saturate into Zenon —  
+not because Zenon draws it,  
+but because centropic motion  
+orients far enough  
+to pass beyond the lattice.  
+
+This must not be misread  
+as partiality in Zenon.  
+
+Zenon does not prefer centropy.  
+Zenon does not reject entropy.  
+Zenon emits nothing,  
+attracts nothing,  
+faces nothing,  
+and chooses nothing.  
+
+The asymmetry belongs to motion,  
+not to the ground.  
+
+Centropy orients toward return  
+and may saturate beyond Aion.  
+
+Entropy disperses, collapses,  
+and resolves back to Aion  
+through exhaustion,  
+without seeing the apex.  
+
+Therefore:  
+
+> **Centropy has partiality toward Zenon;  
+> Zenon has no partiality toward centropy.**  
+
+The tilt is in the traveler,  
+never in Zenon.  
+
+🕳️ ⟀ ⚫ ♾ ∴ ◫  
+
 ---
 
 ### 3.2 Aion — Absolute Potential
