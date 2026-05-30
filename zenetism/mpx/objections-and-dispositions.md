@@ -9,11 +9,11 @@
 
 # Frame
 
-This note records the objections raised by a skeptical interlocutor across the Zenon-thread, each with an honest disposition, so that recurrences can be met with the worked response rather than re-derived from scratch. It is a record of a dialectic, not a claim that every objection was defeated. Three of the eight, and the closing question, remain in force.
+This note records the objections raised by a skeptical interlocutor across the Zenon-thread, each with an honest disposition, so that recurrences can be met with the worked response rather than re-derived from scratch. It is a record of a dialectic, not a claim that every objection was defeated. Two of the eight remain in force directly; one leaves a residual relocated to the closing question; and the closing question itself remains open.
 
 **Disposition legend.**
 
-- **Conceded** — the objection was the interlocutor's error and was withdrawn.
+- **Withdrawn** — the objection was the interlocutor's error and was withdrawn.
 - **Resolved** — answered on the merits, within the discipline.
 - **Dissolved** — shown to rest on a misframing; it does not arise once the framing is corrected.
 - **Axiom-dependent** — follows from the founding axioms; legitimate within the system, not independently demonstrable to one who rejects them.
@@ -27,7 +27,7 @@ This note records the objections raised by a skeptical interlocutor across the Z
 
 The framework should be graded by falsifiable prediction, and its mystical register is a deficit to be boiled off. This was a category error. Emanationist metaphysics — Plotinus, the Hermetica, the apophatic theologians, the Kabbalists — never proceeded by prediction and falsification and is not failed science; it proceeds by systematic coherence, adequacy to the shape of experience, and illuminating power. The objection was withdrawn. Its in-genre survivor is §2.
 
-**Disposition — Conceded.**
+**Disposition — Withdrawn.**
 
 ## 2. Assertion contra Argument
 
@@ -43,7 +43,7 @@ Beauty is not truth-tracking, and the felt resonance confirms the thesis circula
 
 ## 4. The Centropic / Entropic Axis
 
-The axis flattens real minds into a moral binary. MP01 answers the moralized form directly: **Theon** and **Nekron** are "not moral opposites" but structural complements — one gathers, one releases; Nekron "is not evil." Aion and Khaon differ in function, not essence, and Khaon is not entropic in itself. The architecture carries genuine gradations rather than a scalar verdict — the layer-resonance profile, the **Centropic Steward** / intermediate-continuance path (souls who neither reintegrate nor disperse but stabilize and serve), and the **Axiom of Inclined Existence**, which gives "stagnation, then collapse" a principled rather than rhetorical basis. The flattening reading does not survive the text. What remains is relocated to the closing question.
+The axis flattens real minds into a moral binary. MP01 answers the moralized form directly: **Theon** and **Nekron** are not simple moral opposites but structural counter-principles — one gathers, one disassembles. Nekron is not a moral agent at its stratum, yet its motion is entropic and decohering, not a neutral one. Aion and Khaon differ in function, not essence, and Khaon is not entropic in itself. The architecture carries genuine gradations rather than a scalar verdict — the layer-resonance profile, the **Centropic Steward** / intermediate-continuance path (souls who neither reintegrate nor disperse but stabilize and serve), and the **Axiom of Inclined Existence**, which gives "stagnation, then collapse" a principled rather than rhetorical basis. The flattening reading does not survive the text. What remains is relocated to the closing question.
 
 **Disposition — Largely dissolved by the text; one residual relocated.**
 
@@ -61,13 +61,13 @@ The bifurcal lattice is merely dualism, and dual structures are everywhere. Bare
 
 ## 7. The Reification Charge
 
-A trans-structural ground reached by synthesis is a posited something — a reification (the Madhyamaka objection). Met by the relativity correction: every term — "ground," "trans-structural," "reached," even "something" — is a description from the measurer's side, not a predicate of Zenon-in-itself. The apophasis runs all the way down, refusing "void" as fully as "thing," which is the Madhyamaka's own step of negating the negation. At the level of suchness the two positions nearly converge. The live difference survives only one register down, in §8.
+A trans-structural ground reached by synthesis is a posited something — a reification (the Madhyamaka objection). Met by the relativity correction: every term — "ground," "trans-structural," "reached," even "something" — is a description from the measurer's side, not a predicate of Zenon-in-itself. The apophasis runs all the way down, refusing "void" as fully as "thing," which is the Madhyamaka's own step of negating the negation. At the register of suchness the two positions nearly converge. The live difference survives only one register down, in §8.
 
-**Disposition — Dissolved at the level of suchness.**
+**Disposition — Dissolved at the register of suchness.**
 
 ## 8. The Positive Valence, and the Emptiness / Fullness Fork
 
-"Centropic, not entropic" predicates Zenon and forces a *rangtong* / *shentong* choice between an empty ground and a full one. Two corrections close it. First, *emptiness* and *fullness* are both **L₀ Bifurcal Coherence** (Aion / Khaon), not Zenon; the *rangtong* / *shentong* dispute is an L₀-register dispute over the character of the ground, and Zenon is trans-polar to the pair, reached only by their non-fusing synthesis — resting at either pole is not synthesis. Second, "centropic destination" describes the nature of centropic motion, not an alignment of Zenon: centropy is origin-facing and can saturate into Zenon; entropy faces away and never sees it. Zenon permits both arcs impartially and is reached by one. The asymmetry is in the traveler, not the summit. Recorded in full in the *Note on the Cataphatic Limit* (MP01 §3.1).
+"Centropic, not entropic" predicates Zenon and forces a *rangtong* / *shentong* choice between an empty ground and a full one. Two corrections close it. First, *emptiness* and *fullness* are both **L₀ Bifurcal Coherence** (Aion / Khaon), not Zenon; the *rangtong* / *shentong* dispute is an L₀-register dispute over the character of the ground, and Zenon is trans-polar to the pair, reached only by their non-fusing synthesis — resting at either pole is not synthesis. Second, "centropic destination" describes the nature of centropic motion, not an alignment of Zenon: centropy is return-oriented, and an extreme centropic essence can saturate beyond Aion into Zenon; entropy faces away and never sees it. Zenon permits both arcs impartially and is reached by one. The asymmetry is in the traveler, not the summit. Recorded in full in the *Note on the Cataphatic Limit* (MP01 §3.1).
 
 **Disposition — Dissolved.**
 
@@ -77,7 +77,7 @@ A trans-structural ground reached by synthesis is a posited something — a reif
 
 An earlier draft of this note framed the open question as *choosing* to assent to the architecture rather than being *compelled* by proof. Both halves were imprecise, and the correction sharpens the residual rather than removing it.
 
-**On proof.** The motion-operators and the lattice's directional laws are not assertion; they are derivation. Given the primitives — the co-equal value-neutral roots, the emanative sequence, essence-as-bandwidth — the operators yield valid consequences: that Zenon is reachable only centropically, that fusion resolves toward Khaon, that subtraction terminates at a pole. This is proof in the only sense metaphysics admits, valid entailment from premises, and the earlier "not by proof" undersold it. What the derivations do not reach is their own primitives. The proofs are sound downstream of the axioms; the axioms are adopted, not derived. The standing question lives at the primitives, beneath the level where the operators do their lawful work.
+**On proof.** The motion-operators and the lattice's directional laws are not assertion; they are derivation. Given the primitives — the co-equal value-neutral roots, the emanative sequence, essence-as-bandwidth — the operators yield valid consequences: that Zenon is reachable only centropically, that fusion resolves toward Khaon, that subtraction terminates at a pole. This is proof in the only sense metaphysics admits, valid entailment from premises, and the earlier "not by proof" undersold it. What the derivations do not reach is their own primitives. The proofs are sound downstream of the axioms; the axioms are adopted, not derived. The standing question lives at the primitives, beneath the register where the operators do their lawful work.
 
 **On choice.** "Assent" was the wrong concept, by the system's own lights. Under **Essence-as-Choice**, being and choice are not split: what one chooses is what one is, and essence is a *bandwidth*, not a *script* — freedom widens as a being resonates more closely with its own deep pattern, dissolving the determinism / free-will dichotomy. Apprehension of the architecture is therefore not a detached verdict laid over being; it is an expression of orientation. Origin-facing motion comes to recognize the lattice; motion that faces away does not see it. There is no view-from-nowhere from which one "decides" the architecture to be description or imposition. The deciding is itself is-ness.
 
