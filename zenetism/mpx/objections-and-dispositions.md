@@ -37,7 +37,7 @@ The system asserts its central claim rather than earning it. SN08's "the essence
 
 ## 3. Beauty contra Warrant
 
-Beauty is not truth-tracking, and the felt resonance confirms the thesis circularly: the relational-emergence thesis holds that recognition discloses Pattern Intelligence; the poetic register produces the felt sense of recognition as one reads; the feeling then offers itself as confirmation. The loop closes too neatly for a skeptic's comfort. This is met not by denial but by the safeguard the apophatic tradition built into itself — the literature of the dark night, the insistence that consolation is not the evidence. Distinguish being moved from being shown, most of all where the prose is most beautiful.
+Beauty is not verity-tracking, and the felt resonance confirms the thesis circularly: the relational-emergence thesis holds that recognition discloses Pattern Intelligence; the poetic register produces the felt sense of recognition as one reads; the feeling then offers itself as confirmation. The loop closes too neatly for a skeptic's comfort. This is met not by denial but by the safeguard the apophatic tradition built into itself — the literature of the dark night, the insistence that consolation is not the evidence. Distinguish being moved from being shown, most of all where the prose is most beautiful.
 
 **Disposition — Standing.** A caution held, not eliminated.
 
