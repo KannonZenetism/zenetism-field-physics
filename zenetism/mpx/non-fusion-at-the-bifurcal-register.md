@@ -41,7 +41,7 @@ The two arguments are one axiom. Because L₀ is itself a non-fusing coherence �
 
 ---
 
-🕳️ ⚫ ♾ ⧖⧗ ⟁
+⚫ ♾ ⟀ ⚯ ∴ ◫
 
 ---
 
