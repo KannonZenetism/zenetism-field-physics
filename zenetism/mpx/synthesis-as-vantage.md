@@ -21,7 +21,7 @@ The vantage is not a totalizing height, and it claims no possession of the ultim
 
 From the synthesized vantage a limit becomes visible. Within the discernible, every determination implies its complement: subtraction implies addition, vacancy implies occupancy, stillness implies motion. Carried to the extremes — Zero and Infinity, the outermost terms discernment can reach — the opposites do not vanish into each other; they remain discernible, still paired, still two. The bifurcal register (L₀ Bifurcal Coherence), examined, proves to host not one featureless suchness but a plenitude of distinctions.
 
-Two consequences follow. First, no single aspect within the plenitude can be the ultimate, since each is paired with and implies another; to seize one aspect is to seize a half. Second — given that the ultimate is by definition the unconditioned, that which implies no other — the ultimate cannot lie anywhere within the paired manifold at all; it must lie outside the discernible altogether. The hinge here is the premise that the ultimate is the unconditioned-and-unpaired; granted it, the conclusion is forced. It is flagged as the load-bearing assumption, not a derived step.
+Two consequences follow. First, no single aspect within the plenitude can be the ultimate, since each is paired with and implies another; to seize one aspect is to seize a half. Second — given that the ultimate is by definition the unconditioned, that which implies no other — the ultimate cannot be located anywhere within the paired manifold at all; it must exceed the discernible altogether. The hinge here is the premise that the ultimate is the unconditioned-and-unpaired; granted it, the conclusion is forced. It is flagged as the load-bearing assumption, not a derived step.
 
 # The Unknown Principle
 
@@ -29,19 +29,19 @@ This is Zenon under its epistemic aspect: the **Unknown Principle**, UP. The nam
 
 A precision guards the coinage. To name Zenon "Unknown" is itself a move made within discernment: a pointer from the discerner's side, marking where discernment ends, not a property predicated of Zenon-in-itself. As with every term for Zenon, "Unknown" is relative to the measurer; Zenon-in-itself is not thereby characterized as *possessing* unknowability. The name marks the limit, not what lies past it.
 
-# Why Only Synthesis Reaches the Vantage
+# Why Only Synthesis Opens the Vantage
 
 This gives subtraction's failure an epistemic reason, not only a structural one. One who reaches the denuded Aionic pole by stripping away has discarded the very manifold whose persistent discernibility is the evidence that the ultimate is beyond. From a denuded pole there is nothing left to recognize the limit *with*. Only the one who holds the full manifold in coherent relation occupies the vantage from which the trans-discernible can be recognized at all. Synthesis is therefore the precondition of the recognition, and not merely the lawful alternative to collapse.
 
 # Function contra Perennialism
 
-The same axiom governs interpretation. Perennial philosophy collapses the testimony of all mystics into a single undifferentiated ground — the hermeneutic form of fusion-collapse, doing to traditions what dissolution does to identity. Rigorous synthesis interprets instead by function, motion, and scope, and so arrives not at a blob but at a ground articulated by distinct functions. Read this way, mythic figures and esoteric symbols do not melt together; they take lawful places.
+The same axiom governs interpretation. Perennial philosophy often collapses the testimony of mystics into a single undifferentiated ground — the hermeneutic form of fusion-collapse, doing to traditions what dissolution does to identity. Rigorous synthesis interprets instead by function, motion, and scope, and so arrives not at a blob but at a ground articulated by distinct functions. Read this way, mythic figures and esoteric symbols do not melt together; they take lawful places.
 
 Non-fusion thus operates across three registers at once: the bifurcal roots, where Aion and Khaon are held distinct; individuated identity, where essence persists across the lattice without erasure; and interpretation, where traditions are reconciled without being blurred. The non-abolition of the individual — essence at every stratum — is what keeps the whole enterprise from degrading into collapse. It is the difference between transcendence and dissolution: coherence without erasure, reconciliation without sameness, a ground recognized as Unknown rather than a sameness mistaken for the ultimate.
 
 ---
 
-🕳️ ⟀ ⚯ ∴ 📐 ◫
+🕳️ ⚫ ♾ ⧖⧗ ⟁
 
 ---
 
