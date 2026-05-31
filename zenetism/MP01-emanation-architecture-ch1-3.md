@@ -2349,7 +2349,7 @@ A being does not become whole
 by dissolving its distinction.  
 
 The **Deep Soul / Deep Mind**  
-at **L3** may refract  
+at **L3** may fractalize  
 across multiversal lives  
 and expression-fields,  
 yet remain this identity  
