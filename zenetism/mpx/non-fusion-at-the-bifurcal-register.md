@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Companion to the *Note on the Cataphatic Limit*  
 **Status:** Draft for Review  
-**Dependency:** MP01 §3.1, *Note on the Cataphatic Limit*, Non-Fusion Axiom, Essence-as-Choice, Khaon Phase Distinctions (Latent / Motive / Dispersive), Zenetist Symbol Key  
+**Dependency:** MP01 §3.1, *Note on the Cataphatic Limit*, Non-Fusion Axiom, Essence-as-Choice, Khaon Phase Distinctions (Latent / Motive / Dispersive), Structon (SI, 21.2.2), Zenetist Symbol Key  
 
 ---
 
@@ -29,7 +29,7 @@ This supplies the positive content behind the rule that Zenon is reached by synt
 
 The structure carries an ancient signature. The puzzle, in the lineage of Plato's *Parmenides*, is that "All is One" undoes itself in the saying: to assert that all is one is already to hold two — *all* and *one* — so all things cannot collapse into one thing without remainder. This is a paradox, and paradoxes of this kind are not obstacles to be denied but hinge-points to be reconciled. The reconciliation is not the collapse of the two into a featureless sameness; it is the holding of them in non-fusing coherence. Passing through the reconciled paradox is the threshold to the trans-polar.
 
-A precision follows. The held manifold is not itself Zenon. **Zenon** is trans-polar to the pair and to all the determinations; it is reached *through* the reconciliation, not identified *with* it. To equate Zenon with the fully-held manifold would make Zenon a plenum — a maximal Khaonic fullness — which it is not. Zenon is rather the non-originary ground by which emptiness and fullness become conceivable at all. The synthesis is the operation at L₀; Zenon is the trans-polar result.
+A precision follows. The held manifold is not itself Zenon. **Zenon** is trans-polar to the pair and to all the determinations; it is reached *through* the reconciliation, not identified *with* it. To equate Zenon with the fully-held manifold would make Zenon a plenum — a maximal Khaonic fullness — which it is not. The polarity is inscribed on **Structon** — absolute structure, the invariant sheet the whole lattice is drawn upon rather than a node within it — which is what lets emptiness and fullness be drawn as distinctions at all; and Zenon is the trans-structural ground that makes even that sheet possible. The synthesis is the operation at L₀; Zenon is the trans-polar result.
 
 # The Same Axiom at the Register of Identity
 
@@ -45,13 +45,15 @@ This conserves the individual twice over. The essence is never annihilated, beca
 
 The entropic terminus therefore disperses coherence, not essence. Fragmentation scatters the structured expression; the potential-to-be returns to the womb intact and distinct. The path that *tries* to abolish the self — to erase the very essence of being anything at all — is an entropic orientation chasing a structurally unavailable end, since the essence it would erase is exactly the part that cannot be erased.
 
+Beneath even this lies the reason the essence cannot be erased: it is inscribed on absolute structure — **Structon**, the invariant sheet the whole lattice is drawn upon, which permits all expression without itself changing. Relative structures emerge and dissolve; ΔS is change in configuration, never alteration of the absolute ground. To erase an essence one would have to erase the sheet, and to erase the sheet is to reach nonexistence — unavailable, since the attempt presupposes the very structure it would undo. The negation traditions that seek to erase the self are seeking to erase structure, but only relative structure yields; absolute structure endures, and the essence written upon it endures with it. Absolute structure fills a role so near to raw intelligence that the two work as one underpinning — not awareness or consciousness, which are emanated within the lattice, but the lawful intelligibility that makes traversal possible at all.
+
 From this the sovereignty of the individual follows, with a precision that makes it more than consolation. What is inviolable is the essence-as-potential, the distinct 1 — not the expressed self, which can be dominated, fragmented, or erased from the earth. The architecture does not deny that a being can be harmed; it locates harm at the register of coherence and expression while holding the essence beyond any other's reach. No external force — overpowering, dictation, erasure — touches the latent value held in absolute distinction within Aion. Personal sovereignty is therefore inseparable from acclivous centropy: the integrative orientation is the one that realizes the indestructible 1, while the orientation that spends itself trying to erase it only fragments its own coherence.
 
 *Comparative note, optional:* the nearest Western structure is Hegel's pure Being and pure Nothing — the same in their indeterminacy, yet absolutely distinct, their movement resolving as Becoming. The Zenetist difference is decisive: *Aufhebung* preserves the moments only by cancelling their independence and lifting them into a higher term, whereas non-fusion preserves them without cancellation. The coherence is held, not sublated.
 
 ---
 
-⚫ ♾ ⟀ ⚯ ∴ ◫
+🕳️ ⚫ ♾ ⧖⧗ ⟁
 
 ---
 
