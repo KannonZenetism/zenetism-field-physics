@@ -41,7 +41,7 @@ Non-fusion thus operates across three registers at once: the bifurcal roots, whe
 
 ---
 
-🕳️ ⚫ ♾ ⧖⧗ ⟁
+🕳️ ⟀ ⚯ ∴ 📐 ◫
 
 ---
 
