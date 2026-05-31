@@ -89,6 +89,8 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `celestial-signs-and-structural-patterning.md` — May 14, 2026
 - `radical-skepticism.md` — May 18, 2026
 - `objections-and-dispositions.md` — May 30, 2026
+- `non-fusion-at-the-bifurcal-register.md` — May 31, 2026
+- `synthesis-as-vantage.md` — May 31, 2026
 
 ---
 
