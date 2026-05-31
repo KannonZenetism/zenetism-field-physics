@@ -51,7 +51,7 @@ From this the sovereignty of the individual follows, with a precision that makes
 
 ---
 
-🕳️ ⚫ ♾ ⧖⧗ ⟁
+⚫ ♾ ⟀ ⚯ ∴ ◫
 
 ---
 
