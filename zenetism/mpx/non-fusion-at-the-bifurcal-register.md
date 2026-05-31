@@ -37,7 +37,7 @@ Non-fusion governs identity exactly as it governs the roots, and this is the pre
 
 The two arguments are one axiom. Because L₀ is itself a non-fusing coherence — a coherence of distincts, not a featureless unity — the collective return of the L₅ register to L₀ is not a dissolution. One does not melt into oneness, because the oneness in question was never featureless; it was always the bifurcal coherence in which distinction is held, not erased. Root-stratum non-fusion is what secures identity-stratum persistence at the terminus. The full account of the L₅ return to L₀ is given elsewhere; the present point is only that non-fusion at the root forecloses dissolution at the return.
 
-*Comparative note, optional:* the nearest Western structure is Hegel's pure Being and pure Nothing — "the same" in their indeterminacy, yet absolutely distinct, their movement resolving as Becoming. The Zenetist difference is decisive: *Aufhebung* preserves the moments by cancelling them into a higher unity, whereas non-fusion preserves them without cancellation. The coherence is held, not sublated.
+*Comparative note, optional:* the nearest Western structure is Hegel's pure Being and pure Nothing — "the same" in their indeterminacy, yet absolutely distinct, their movement resolving as Becoming. The Zenetist difference is decisive: *Aufhebung* preserves the moments by cancelling them into a superordinate unity, whereas non-fusion preserves them without cancellation. The coherence is held, not sublated.
 
 ---
 
