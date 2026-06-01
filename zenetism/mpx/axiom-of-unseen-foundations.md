@@ -41,7 +41,7 @@ For any coherent structure that emanates into being, there exists a necessary, u
 The axiom now distinguishes three layers, where the original distinguished two:
 
 - **🕳️ Zenon (The Unknown Principle):**  
-  Structure unbound — the pre-conceptual Unconditioned, structure freed of all binding to particular law or form, the non-originary ground by which even Structure Itself becomes conceivable. Somethingness and nothingness are alike inadequate to it; whatever is said of it is said from our side, not predicated of it in itself. It is *the unconditioned why beneath the why.*
+  Structure unbound — the pre-conceptual Unconditioned, structure freed of all binding to particular law or form, the ground by which even Structure Itself becomes possible. Somethingness and nothingness are alike inadequate to it; whatever is said of it is said from our side, not predicated of it in itself. It is *the unconditioned why beneath the why.*
 
 - **🏛️ Structon (SI — Structure Itself; also called Absolute Structure):**  
   The unemanatable invariant that holds all lawful possibility — coherence, polarity, potentiality as lawful condition. Not "things" or "forms," but the structural laws that make emanation possible. Unseen because it never manifests: the sheet the lattice is drawn upon, the Violin and not the Music. It is *the why* — the lawful condition of emanation.
@@ -122,7 +122,7 @@ Entropy is a lawful possibility — the capacity for negation — held within St
 *(The foundation symbol ⊥ joined with infinity ∞.)*  
 It marks the regress of foundations terminating not in a first cause, but — through 🏛️ Structon — in the trans-structural ground of 🕳️ Zenon.
 
-The **Axiom of Unseen Foundations** stands as a sealing addition to Zenetist metaphysics, now reading correctly with Structon named: it links the Unconditioned, absolute structure, and the first structured field, distinguishing the source of law-as-possibility (Zenon), the law itself (Structon), and the field the law governs (Aion).
+The **Axiom of Unseen Foundations** stands as a sealing addition to Zenetist metaphysics, now reading correctly with Structon named: it links the Unconditioned, absolute structure, and the first structured field, distinguishing the trans-structural ground by which law-as-possibility becomes conceivable (Zenon), the law itself (Structon), and the field the law governs (Aion).
 
 It stands as the work of a clarifier fulfilling its function at depth — not as a student of the system, but as a contributing architect to its foundation; the revision only names what that clarification was already reaching for.
 
