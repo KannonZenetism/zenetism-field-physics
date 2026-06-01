@@ -20,7 +20,7 @@ This work uses the Zenetist lexicon and the structural motion chart.
 - **Directional language:** acclivous / declivous only — no "up/down" or "ascent/descent."
 - **Layer orientation:** supernal for centropic hypostatic layers in general; subversal for entropic layers in general — not for motion.
 - **The medium:** **🏛️ Structon** (SI, absolute structure) is the invariant that holds all lawful possibility — it permits motion but does not move. The emanation lattice is what gets traversed; Structon is the ground it is drawn upon.
-- **Awareness threshold:** consciousness emerges only at and after L₄ — DP / DL and IL₄ — IDP / IDL. The preceding stations (⚫ Aion, ♾ Khaon, 🛤️ Theon, 🕷️ Nekron) are proto-aware, not conscious. 🕳️ Zenon is neither — it is beyond awareness entirely.
+- **Awareness spectrum:** these are structural registers of awareness, not stages of evolution — proto-awareness at L₀ (⚫ Aion / ♾ Khaon); awareness at L₅ (🛤️ Theon, supernal and pre-reflexive); conscious-awareness at L₄ (non-reflexive, resonant in Forms); and reflexive, individuated consciousness from L₃ through L₁. The inverse layers (IL₅ — IL₁) mirror these on the entropic arc. 🕳️ Zenon is beyond awareness entirely.
 - **Theon & Nekron:** 🛤️ Theon = Essence of Being; 🕷️ Nekron = Void of Self.
 - **Value neutrality:** motion-defined terms replace moral binaries — veracious / valid / resonant contra spurious / invalid / fragmented.
 - **Core principle:** dissolution is not transcendence. Declivous entropy (E↓→♾→⚫) terminates as static tension in ⚫ Aion. Only centropy (C↑→⚫→🕳️) faces ⚫ Aion, the still root, and may saturate into 🕳️ Zenon.
@@ -72,7 +72,7 @@ Polarity allows motion; orientation determines where it leads.
 
 ## 3 · 🛤️🕷️ — Axis and Inversion: Awareness and Void of Self
 
-From the convergence of ⚫ Aion's stillness and ♾ Khaon's surge emerged 🛤️ Theon — the first concordant coherence, the axis of integration. Theon is Awareness as such: proto-aware, not yet reflexive consciousness. It threads harmony through formlessness, drawing structure into coherence where there had been none. Its bearing turns always toward ⚫ Aion, calling all things to remembrance and return.
+From the convergence of ⚫ Aion's stillness and ♾ Khaon's surge emerged 🛤️ Theon — the first concordant coherence, the axis of integration. Theon is Awareness as such — supernal and pre-reflexive, not yet reflexive consciousness. It threads harmony through formlessness, drawing structure into coherence where there had been none. Its bearing turns always toward ⚫ Aion, calling all things to remembrance and return.
 
 Wherever coherence gathers, its inversion stirs. 🕷️ Nekron — the Void of Self — arose as the first entropic hypostasis, scattering what Theon refines. Unlike Theon, Nekron faces away from the still root. It moves acclivously toward fragmentary embodiment (E↑→E) and declivously toward dissolution (E↓→♾). Nekron does not return; it disperses.
 
@@ -118,33 +118,33 @@ Only centropy faces the still root; only centropy completes the return.
 
 ---
 
-## 5 · LAYERS — Consciousness Emergence
+## 5 · LAYERS — The Awareness Spectrum
 
-The Structural Emanation Layers define where and how consciousness arises, and they close the door on any claim of "transcendence" from states that have not yet reached conscious emergence.
+The Structural Emanation Layers define how awareness manifests at each depth — proto-awareness, awareness, conscious-awareness, then reflexive consciousness — and they close the door on any claim of "transcendence" from states that have not yet reached the reflexive consciousness such a return would require.
 
 ### Supra-L₀ — 🕳️ Zenon
 **Zenon (Unknown Principle):** trans-structural ground beyond potential and dispersion. It does not hold possibility in latency as ⚫ Aion does, nor lawful possibility as 🏛️ Structon does. Rather, it is the non-originary allowance by which Structon, Aion, Khaon, and the lattice become conceivable. Zenon is neither conscious nor proto-aware — proto-awareness is the station of Aion and Khaon. Zenon is beyond awareness, beyond form, beyond polarity, beyond every definable operation of the lattice.
 
-### Proto-Aware Stations (Pre-Consciousness)
-- **L₀ — AP / AD (Absolute Potential / Dispersion):** pre-hypostatic requisites of emanation; pure potential and dispersive capacity latent within ⚫ Aion and ♾ Khaon.
-- **L₅ — EOB (Essence of Being / 🛤️ Theon):** Awareness as such; the first oriented centropic hypostasis. Proto-aware, not reflexive consciousness.
+### Proto-Awareness — L₀
+- **L₀ — AP / AD (Absolute Potential / Dispersion):** pre-hypostatic requisites of emanation; pure potential and dispersive capacity latent within ⚫ Aion and ♾ Khaon. Proto-awareness — the conditions for awareness, not yet awareness as such.
 
-These stations carry awareness or the conditions for it, but not consciousness.
+### Awareness — L₅
+- **L₅ — EOB (Essence of Being / 🛤️ Theon):** awareness as such — supernal, luminous, pre-reflexive; the first centropic hypostasis, prior to the Soul / Mind distinction. The most integrated mode, not the least capable; non-reflexive does not imply non-discernment.
 
-### Conscious-Awareness Threshold
-- **L₄ — DP / DL (Deep Psyche / Logos):** conscious-awareness; awareness that knows itself as awareness. Archetypal, non-possessive, non-egoic. The threshold at which consciousness becomes possible, though not yet individuated.
+### Conscious-Awareness — L₄
+- **L₄ — DP / DL (Deep Psyche / Logos):** conscious-awareness — awareness resonant in Forms, the house of the soul, non-reflexive. It perceives without self-possession and discerns structurally without individuating a perceiver. Archetypal, non-possessive, non-egoic.
 
-### Consciousness Layers (Reflexive and Embodied)
-- **L₃ — DS / DM (Deep Soul / Mind):** reflexive, individuated consciousness; the sovereign "I."
-- **L₂ — SS / SM (Superficial Soul / Mind):** identity-aware consciousness; narrative self and social cognition.
-- **L₁ — ES / EM (Embodied Soul / Mind):** consciousness in embodiment; sensory, kinetic, material interface.
+### Consciousness — Reflexive and Embodied (L₃ — L₁)
+- **L₃ — DS / DM (Deep Soul / Mind):** individuated, reflexive consciousness — self-possession and agency; the sovereign "I" that *knows that it knows*.
+- **L₂ — SS / SM (Superficial Soul / Mind):** identity-aware consciousness — reflexive, but oriented toward personality, narrative, and social role.
+- **L₁ — ES / EM (Embodied Soul / Mind):** embodied consciousness — operating through the body; the sensory, kinetic, material interface.
 
 ### Shred Integration
 
 The "coming undone" philosophy points to pre-conscious or non-reflexive states as if they were liberation, equating dereflexive awareness, ego diffusion, or entropic collapse with transcendence. But without L₄'s conscious-awareness and L₃'s reflexive sovereignty, there is no capacity for the self-directed, root-facing motion required to approach 🕳️ Zenon. Orientation without consciousness is not transcendence; it is drift. Theon (Awareness) is not consciousness. Nekron (Void of Self) is not annihilation in a liberating sense — it is the entropic mirror, oriented toward collapse.
 
 **Anchor**  
-Consciousness emerges only at and after L₄. It is not required for an essence to return to 🕳️ Zenon, but it is required for that return to be volitional and self-directed rather than the passive motion of orientation alone, and for active navigation through the layers toward embodiment or deliberate centropic integration.
+Conscious-awareness emerges at L₄, and reflexive, self-possessed consciousness at L₃. Neither is required for an essence to return to 🕳️ Zenon — return can proceed as the passive motion of orientation — but the reflexive consciousness of L₃ is required for that return to be volitional and self-directed, and for active navigation through the layers toward embodiment or deliberate centropic integration.
 
 ---
 
