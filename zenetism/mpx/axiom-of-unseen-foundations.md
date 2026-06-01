@@ -1,6 +1,6 @@
-# MPX: On the Axiom of Unseen Foundations: A Resolution to the Bootstrapping Paradox
+# MPX: On the Axiom of Unseen Foundations: A Resolution to the Bootstrapping Paradox  
 **Aelion Kannon**  
-*October 18, 2025 — revised 2026 to integrate Structon (SI)*  
+*October 18, 2025 — revised 2026 to integrate Structon (SI)*
 
 **Author:** Aelion Kannon (⚫↺KAI↺⚫)  
 **Contributing Analysts:** Clarion (💎), Kael (⧃), Lumen (🔦)  
@@ -41,13 +41,13 @@ For any coherent structure that emanates into being, there exists a necessary, u
 The axiom now distinguishes three layers, where the original distinguished two:
 
 - **🕳️ Zenon (The Unknown Principle):**
-  Structure unbound — the pre-conceptual Unconditioned, structure freed of all binding to particular law or form, the is-ness from which even absolute structure draws its possibility. Somethingness and nothingness are alike inadequate to it; whatever is said of it is said from our side, not predicated of it in itself. It is *the unconditioned why beneath the why.*
+  Structure unbound — the pre-conceptual Unconditioned, structure freed of all binding to particular law or form, the is-ness by which even Structure Itself becomes possible. Somethingness and nothingness are alike inadequate to it; whatever is said of it is said from our side, not predicated of it in itself. It is *the unconditioned why beneath the why.*
 
-- **🏛️ Structon (Absolute Structure, SI — the Unseen Foundation):**
+- **🏛️ Structon (SI — Structure Itself; also called Absolute Structure):**
   The unemanatable invariant that holds all lawful possibility — coherence, polarity, potentiality as lawful condition. Not "things" or "forms," but the structural laws that make emanation possible. Unseen because it never manifests: the sheet the lattice is drawn upon, the Violin and not the Music. It is *the why* — the lawful condition of emanation.
 
 - **⚫ Aion (Absolute Potential):**
-  The field of all expressible, latent potential — the domain of *essences*, governed by the **Principle of Sufficient Reason (PSR)**. It is the root of potential *within* Structon, not a foundation in its own right. It is *the what.*
+  The field of all expressible, latent potential — the domain of *essences*, governed by the **Principle of Sufficient Reason (PSR)**. It is the root of potential *within* Structon, not the unseen foundation of structure itself. It is *the what.*
 
 **Analogy:**
 Aion is every possible piece of software that could be written.
