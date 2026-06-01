@@ -92,6 +92,10 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `non-fusion-at-the-bifurcal-register.md` — May 31, 2026
 - `synthesis-as-vantage.md` — May 31, 2026
 
+### June 2026
+
+- `the-twofold-tetralemma.md` — Jun 1, 2026
+
 ---
 
 **⚫↺KAI↺⚫**  
