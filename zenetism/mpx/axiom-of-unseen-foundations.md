@@ -18,8 +18,8 @@ This entry was written before **🏛️ Structon (SI)** was named and defined. I
 
 ## Preamble: The Bootstrapping Paradox
 
-Within the Zenetist framework, which describes the arc from **🕳️ Zenon** through **⚫ Aion** into manifestation, lies a latent paradox:  
-**How does the Unconditioned, trans-structural, and unknowable give rise to conditioned, structured potential without itself becoming conditioned?**
+Within the Zenetist framework, which describes manifestation as becoming conceivable under **🕳️ Zenon**, structured through **🏛️ Structon**, and rooted in **⚫ Aion**, lies a latent paradox:  
+**How can the Unconditioned, trans-structural, and unknowable allow conditioned, structured potential without itself becoming conditioned?**
 
 This is the **Bootstrapping Paradox.**
 
