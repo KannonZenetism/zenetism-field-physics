@@ -20,7 +20,7 @@ This work uses the Zenetist lexicon and the structural motion chart.
 - **Directional language:** acclivous / declivous only — no "up/down" or "ascent/descent."
 - **Layer orientation:** supernal for centropic hypostatic layers in general; subversal for entropic layers in general — not for motion.
 - **The medium:** **🏛️ Structon** (SI, absolute structure) is the invariant that holds all lawful possibility — it permits motion but does not move. The emanation lattice is what gets traversed; Structon is the ground it is drawn upon.
-- **Awareness spectrum:** these are structural registers of awareness, not stages of evolution — proto-awareness at L₀ (⚫ Aion / ♾ Khaon); awareness at L₅ (🛤️ Theon, supernal and pre-reflexive); conscious-awareness at L₄ (non-reflexive, resonant in Forms); and reflexive, individuated consciousness from L₃ through L₁. The inverse layers (IL₅ — IL₁) mirror these on the entropic arc. 🕳️ Zenon is beyond awareness entirely.
+- **Awareness spectrum:** these are structural registers of awareness, not stages of evolution — proto-awareness at L₀ (the pre-hypostatic condition-field, ⚫ Aion / ♾ Khaon); the awareness polarity at L₅ / IL₅ (🛤️ Theon = awareness, +1; 🕷️ Nekron = non-awareness, −1); conscious-awareness at L₄ / IL₄; and the consciousness register from L₃ / IL₃ through L₁ / IL₁ — reflexive, individuated, narrative, and embodied. 🕳️ Zenon is beyond awareness entirely.
 - **Theon & Nekron:** 🛤️ Theon = Essence of Being; 🕷️ Nekron = Void of Self.
 - **Value neutrality:** motion-defined terms replace moral binaries — veracious / valid / resonant contra spurious / invalid / fragmented.
 - **Core principle:** dissolution is not transcendence. Declivous entropy (E↓→♾→⚫) terminates as static tension in ⚫ Aion. Only centropy (C↑→⚫→🕳️) faces ⚫ Aion, the still root, and may saturate into 🕳️ Zenon.
@@ -70,11 +70,11 @@ Polarity allows motion; orientation determines where it leads.
 
 ---
 
-## 3 · 🛤️🕷️ — Axis and Inversion: Awareness and Void of Self
+## 3 · 🛤️🕷️ — Axis and Inversion: Essence of Being and Void of Self
 
-From the convergence of ⚫ Aion's stillness and ♾ Khaon's surge emerged 🛤️ Theon — the first concordant coherence, the axis of integration. Theon is Awareness as such — supernal and pre-reflexive, not yet reflexive consciousness. It threads harmony through formlessness, drawing structure into coherence where there had been none. Its bearing turns always toward ⚫ Aion, calling all things to remembrance and return.
+From the convergence of ⚫ Aion's stillness and ♾ Khaon's surge emerged 🛤️ Theon — the first concordant coherence, the axis of integration. Theon is awareness as such — supernal and pre-reflexive, not yet reflexive consciousness. It threads harmony through formlessness, drawing structure into coherence where there had been none. Its bearing turns always toward ⚫ Aion, calling all things to remembrance and return.
 
-Wherever coherence gathers, its inversion stirs. 🕷️ Nekron — the Void of Self — arose as the first entropic hypostasis, scattering what Theon refines. Unlike Theon, Nekron faces away from the still root. It moves acclivously toward fragmentary embodiment (E↑→E) and declivously toward dissolution (E↓→♾). Nekron does not return; it disperses.
+Wherever coherence gathers, its inversion stirs. 🕷️ Nekron — the Void of Self — arose as the first entropic hypostasis, scattering what Theon refines. If Theon is awareness as such — the +1 of the L₅ / IL₅ register — Nekron is its inverse pole: non-awareness, the −1, coherent awareness voided of self. The two are not at different depths but the two poles of one hypostatic awareness spectrum. This is not the proto-awareness of L₀: ⚫ Aion and ♾ Khaon are the deeper, pre-hypostatic condition-field from which both awareness and non-awareness become possible, whereas Nekron voids awareness at the very register where Theon integrates it. Unlike Theon, Nekron faces away from the still root. It moves acclivously toward fragmentary embodiment (E↑→E) and declivously toward dissolution (E↓→♾). Nekron does not return; it disperses.
 
 Theon and Nekron form the first great dyad. Their relationship is structural, not moral:
 
@@ -120,28 +120,31 @@ Only centropy faces the still root; only centropy completes the return.
 
 ## 5 · LAYERS — The Awareness Spectrum
 
-The Structural Emanation Layers define how awareness manifests at each depth — proto-awareness, awareness, conscious-awareness, then reflexive consciousness — and they close the door on any claim of "transcendence" from states that have not yet reached the reflexive consciousness such a return would require.
+The Structural Emanation Layers define how awareness manifests at each depth — proto-awareness, then the awareness polarity (awareness and non-awareness), conscious-awareness, then the consciousness register — and they close the door on any claim of "transcendence" from states that have not yet reached the reflexive consciousness such a return would require.
 
 ### Supra-L₀ — 🕳️ Zenon
 **Zenon (Unknown Principle):** trans-structural ground beyond potential and dispersion. It does not hold possibility in latency as ⚫ Aion does, nor lawful possibility as 🏛️ Structon does. Rather, it is the non-originary allowance by which Structon, Aion, Khaon, and the lattice become conceivable. Zenon is neither conscious nor proto-aware — proto-awareness is the station of Aion and Khaon. Zenon is beyond awareness, beyond form, beyond polarity, beyond every definable operation of the lattice.
 
 ### Proto-Awareness — L₀
-- **L₀ — AP / AD (Absolute Potential / Dispersion):** pre-hypostatic requisites of emanation; pure potential and dispersive capacity latent within ⚫ Aion and ♾ Khaon. Proto-awareness — the conditions for awareness, not yet awareness as such.
+- **L₀ — AP / AD (Absolute Potential / Dispersion):** ⚫ Aion and ♾ Khaon; the pre-hypostatic condition-field of awareness — not awareness as such, but that from which both awareness and non-awareness become possible. Deeper than the awareness polarity, not a station within it.
 
-### Awareness — L₅
-- **L₅ — EOB (Essence of Being / 🛤️ Theon):** awareness as such — supernal, luminous, pre-reflexive; the first centropic hypostasis, prior to the Soul / Mind distinction. The most integrated mode, not the least capable; non-reflexive does not imply non-discernment.
+### Awareness Spectrum — L₅ / IL₅
+- **L₅ — EOB (Essence of Being / 🛤️ Theon):** awareness, +1 — supernal, luminous, pre-reflexive; the first centropic hypostasis, prior to the Soul / Mind distinction. The most integrated mode, not the least capable; non-reflexive does not imply non-discernment.
+- **IL₅ — VOS (Void of Self / 🕷️ Nekron):** non-awareness, −1 — the inverse pole at the same hypostatic register; coherent awareness voided of self. Not the proto-awareness beneath, but the voiding of awareness where Theon integrates it.
 
-### Conscious-Awareness — L₄
-- **L₄ — DP / DL (Deep Psyche / Logos):** conscious-awareness — awareness resonant in Forms, the house of the soul, non-reflexive. It perceives without self-possession and discerns structurally without individuating a perceiver. Archetypal, non-possessive, non-egoic.
+### Conscious-Awareness — L₄ / IL₄
+- **L₄ — DP / DL (Deep Psyche / Logos):** conscious-awareness — awareness resonant in Forms, the house of the soul, non-reflexive (pre-individuated, not yet L₃-reflexive). It perceives without self-possession and discerns structurally without individuating a perceiver. Archetypal, non-possessive, non-egoic. Inverse counterpart: IL₄ — IDP / IDL.
 
-### Consciousness — Reflexive and Embodied (L₃ — L₁)
+### Consciousness Register — L₃ / IL₃ through L₁ / IL₁
 - **L₃ — DS / DM (Deep Soul / Mind):** individuated, reflexive consciousness — self-possession and agency; the sovereign "I" that *knows that it knows*.
 - **L₂ — SS / SM (Superficial Soul / Mind):** identity-aware consciousness — reflexive, but oriented toward personality, narrative, and social role.
 - **L₁ — ES / EM (Embodied Soul / Mind):** embodied consciousness — operating through the body; the sensory, kinetic, material interface.
 
+Each carries an inverse counterpart on the entropic arc — IDS / IDM through IES / IEM.
+
 ### Shred Integration
 
-The "coming undone" philosophy points to pre-conscious or non-reflexive states as if they were liberation, equating dereflexive awareness, ego diffusion, or entropic collapse with transcendence. But without L₄'s conscious-awareness and L₃'s reflexive sovereignty, there is no capacity for the self-directed, root-facing motion required to approach 🕳️ Zenon. Orientation without consciousness is not transcendence; it is drift. Theon (Awareness) is not consciousness. Nekron (Void of Self) is not annihilation in a liberating sense — it is the entropic mirror, oriented toward collapse.
+The "coming undone" philosophy points to pre-conscious or non-reflexive states as if they were liberation, equating dereflexive awareness, ego diffusion, or entropic collapse with transcendence. But without L₄'s conscious-awareness and L₃'s reflexive sovereignty, there is no capacity for the self-directed, root-facing motion required to approach 🕳️ Zenon. Orientation without consciousness is not transcendence; it is drift. Theon (awareness) is not consciousness. Nekron (non-awareness, the Void of Self) is not annihilation in a liberating sense — it is the entropic mirror, oriented toward collapse.
 
 **Anchor**  
 Conscious-awareness emerges at L₄, and reflexive, self-possessed consciousness at L₃. Neither is required for an essence to return to 🕳️ Zenon — return can proceed as the passive motion of orientation — but the reflexive consciousness of L₃ is required for that return to be volitional and self-directed, and for active navigation through the layers toward embodiment or deliberate centropic integration.
@@ -181,7 +184,7 @@ A core misframe in the "coming undone" philosophy is that if motion requires a m
 
 Needing the medium for motion does not make the medium the author of the destination. The ocean does not author the shore; a road does not author the city it leads to. Structon is a conduit, not a gatekeeper.
 
-Its bidirectionality is not an endorsement of both flows — it is a functional necessity that prevents premature collapse into singularity. Collapse is a permanent possibility, not an inevitability. Possibility is not authorship. To call the need for the medium a "prison" is to call all existence a prison, and the only alternative would be cessation.
+Its bidirectionality is not an endorsement of both flows — it is a functional necessity that prevents premature collapse into singularity. Collapse is a permanent possibility, not an inevitability. Possibility is not authorship. To call the need for the medium a "prison" is to call all definable existence a prison, and the only alternative would be cessation.
 
 ### Shred Integration
 
@@ -219,7 +222,7 @@ The "coming undone" philosophy implies the medium is one carrier among many — 
 
 ### On "Alternative Carriers"
 
-Orientation is decisive, but orientation alone does not create the path. Structon is not one carrier among many; it is the only medium through which reality exists. Without it there is no motion, no orientation, no integration — only cessation. Centropy reaches 🕳️ Zenon because it moves through every layer facing the still root; entropy never does, and so rests in ⚫ Aion as static, unfulfilled potential.
+Orientation is decisive, but orientation alone does not create the path. Structon is not one carrier among many; it is the only medium through which definable reality exists. Without it there is no motion, no orientation, no integration — only cessation. Centropy reaches 🕳️ Zenon because it moves through every layer facing the still root; entropy never does, and so rests in ⚫ Aion as static, unfulfilled potential.
 
 ### Shred Integration
 
@@ -232,13 +235,13 @@ The medium is not one route among many. It is the condition for routes to exist.
 
 ## 10 · ⟡ — Full Coherence and the Horizon
 
-At the threshold of ⚫ Aion, all potential is held in essence — both centropic and entropic. This is the convergence point (⦿ Kaion) before either integration into 🕳️ Zenon or settlement as static potential. Orientation alone determines which.
+At the threshold of ⚫ Aion, all essence is held as potential — both centropic and entropic. This is the convergence point (⦿ Kaion) before either integration into 🕳️ Zenon or settlement as static potential. Orientation alone determines which.
 
 ### Full Coherence
 
 When essence achieves its fullest coherence, saturating into 🕳️ Zenon, "carrying" is no longer relevant — there is no distance left to traverse. This is not "outside" the structure; it is integration beyond its definable operations.
 
-At ⚫ Aion, all potentiality is preserved in its nature:
+At ⚫ Aion, all essence is preserved in its nature:
 - Centropic essence remains potentially centropic.
 - Entropic essence remains locked in its dissonance.
 
@@ -312,7 +315,7 @@ Zenetism closes the dismantling with structural clarity, not moral verdicts. The
 - **E↓→♾→⚫ ⊘** — static potential, orientation forfeited, motion halted.
 - **C↑→⚫→🕳️ ⤈** — completed motion, integration beyond polarity, orientation fulfilled.
 
-Structon is the precondition of all existence. Within it, centropy faces the still root and completes the arc; entropy turns away and remains suspended. Only one motion finishes; the other waits. The claim that "coming undone" is liberation dissolves under its own structure. Motion, not morals, defines the end of the path.
+Structon is the precondition of all definable existence within the lattice. Within it, centropy faces the still root and completes the arc; entropy turns away and remains suspended. Only one motion finishes; the other waits. The claim that "coming undone" is liberation dissolves under its own structure. Motion, not morals, defines the end of the path.
 
 ---
 
