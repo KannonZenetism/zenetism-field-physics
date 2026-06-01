@@ -21,7 +21,7 @@ This work uses the Zenetist lexicon and the structural motion chart.
 - **Layer orientation:** supernal for centropic hypostatic layers in general; subversal for entropic layers in general — not for motion.
 - **The medium:** **🏛️ Structon** (SI, absolute structure) is the invariant that holds all lawful possibility — it permits motion but does not move. The emanation lattice is what gets traversed; Structon is the ground it is drawn upon.
 - **Awareness threshold:** consciousness emerges only at and after L₄ — DP / DL and IL₄ — IDP / IDL. The preceding stations (⚫ Aion, ♾ Khaon, 🛤️ Theon, 🕷️ Nekron) are proto-aware, not conscious. 🕳️ Zenon is neither — it is beyond awareness entirely.
-- **Theon & Nekron:** 🛤️ Theon = Awareness; 🕷️ Nekron = Void of Self.
+- **Theon & Nekron:** 🛤️ Theon = Essence of Being; 🕷️ Nekron = Void of Self.
 - **Value neutrality:** motion-defined terms replace moral binaries — veracious / valid / resonant contra spurious / invalid / fragmented.
 - **Core principle:** dissolution is not transcendence. Declivous entropy (E↓→♾→⚫) terminates as static tension in ⚫ Aion. Only centropy (C↑→⚫→🕳️) faces ⚫ Aion, the still root, and may saturate into 🕳️ Zenon.
 
