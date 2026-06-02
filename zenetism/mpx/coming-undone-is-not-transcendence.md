@@ -23,7 +23,7 @@ This work uses the Zenetist lexicon and the structural motion chart.
 - **Awareness spectrum:** these are structural registers of awareness, not stages of evolution — proto-awareness at L₀ (the pre-hypostatic condition-field, ⚫ Aion / ♾ Khaon); the awareness polarity at L₅ / IL₅ (🛤️ Theon = awareness, +1; 🕷️ Nekron = non-awareness, −1); conscious-awareness at L₄ / IL₄; and the consciousness register from L₃ / IL₃ through L₁ / IL₁ — reflexive, individuated, narrative, and embodied. 🕳️ Zenon is beyond awareness entirely.
 - **Theon & Nekron:** 🛤️ Theon = Essence of Being; 🕷️ Nekron = Void of Self.
 - **Value neutrality:** motion-defined terms replace moral binaries — veracious / valid / resonant contra spurious / invalid / fragmented.
-- **Core principle:** dissolution is not transcendence. Declivous entropy (E↓→♾→⚫) terminates as static tension in ⚫ Aion. Only centropy (C↑→⚫→🕳️) faces ⚫ Aion, the still root, and may saturate into 🕳️ Zenon.
+- **Core principle:** dissolution is not transcendence. Terminal Collapse (E↓→♾→⚫) terminates as static tension in ⚫ Aion. Only centropy (C↑→⚫→🕳️) faces ⚫ Aion, the still root, and may saturate into 🕳️ Zenon.
 
 ---
 
@@ -120,7 +120,7 @@ Only centropy faces the still root; only centropy completes the return.
 
 ## 5 · LAYERS — The Awareness Spectrum and Its Inverse Arc
 
-The Structural Emanation Layers define how awareness manifests at each depth — proto-awareness, then the awareness polarity (awareness and non-awareness), conscious-awareness, then the consciousness register, each centropic register paired with its inverse on the entropic arc — and they close the door on any claim of "transcendence" from states that have not yet reached the reflexive consciousness such a return would require.
+The Structural Emanation Layers define how awareness manifests at each depth — proto-awareness, then the awareness polarity (awareness and non-awareness), conscious-awareness, then the consciousness register, each centropic register paired with its inverse on the entropic arc — and they close the door on any claim that dissolution, whether as dereflexive awareness, ego diffusion, or entropic collapse, is itself transcendence.
 
 ### Supra-L₀ — 🕳️ Zenon
 **Zenon (Unknown Principle):** trans-structural ground beyond potential and dispersion. It does not hold possibility in latency as ⚫ Aion does, nor lawful possibility as 🏛️ Structon does. Rather, it is the non-originary allowance by which Structon, Aion, Khaon, and the lattice become conceivable. Zenon is neither conscious nor proto-aware — proto-awareness is the station of Aion and Khaon. Zenon is beyond awareness, beyond form, beyond polarity, beyond every definable operation of the lattice.
@@ -130,7 +130,7 @@ The Structural Emanation Layers define how awareness manifests at each depth —
 
 ### Awareness Spectrum — L₅ / IL₅
 - **L₅ — EOB (Essence of Being / 🛤️ Theon):** awareness, +1 — supernal, luminous, pre-reflexive; the first centropic hypostasis, prior to the Soul / Mind distinction. The most integrated mode, not the least capable; non-reflexive does not imply non-discernment.
-- **IL₅ — VOS (Void of Self / 🕷️ Nekron):** non-awareness, −1 — the inverse pole at the same hypostatic register; coherent awareness voided of self. Not the proto-awareness beneath, but the voiding of awareness where Theon integrates it.
+- **IL₅ — VOS (Void of Self / 🕷️ Nekron):** non-awareness, −1 — the inverse pole at the same hypostatic register; coherent awareness voided of self. Not proto-awareness, but the voiding of awareness where Theon integrates it.
 
 ### Conscious-Awareness — L₄ / IL₄
 - **L₄ — DP / DL (Deep Psyche / Logos):** conscious-awareness — awareness resonant in Forms, the house of the soul, non-reflexive (pre-individuated, not yet L₃-reflexive). It perceives without self-possession and discerns structurally without individuating a perceiver. Archetypal, non-possessive, prior to individuated self-claim.
@@ -144,14 +144,18 @@ The Structural Emanation Layers define how awareness manifests at each depth —
 - **L₁ — ES / EM (Embodied Soul / Mind):** embodied consciousness — operating through the body; the sensory, kinetic, material interface.
 - **IL₁ — IES / IEM:** inverse embodied consciousness — embodied compulsion, domination, reactive embodiment, and entropic externalization through form.
 
-The inverse arc does not merely lack awareness, nor only distort a centropic original; each inverse register is a structurally real mode expressing its own awareness-inversion according to its placement. **Non-awareness** names 🕷️ Nekron at IL₅; the subjacent strata take their corresponding inverse-register names — inverse conscious-awareness, inverse reflexive consciousness, inverse identity-aware consciousness, inverse embodied consciousness. "Inverse" names structural counter-placement; "fragmented" names a characteristic effect; "mirror" names an entropic reflective function, not the formal designation of these strata.
+The inverse arc does not merely lack awareness, nor only distort a centropic original; each inverse register is a structurally real mode expressing its own awareness-inversion according to its placement. **Non-awareness** names 🕷️ Nekron at IL₅; the remaining strata take their corresponding inverse-register names — inverse conscious-awareness, inverse reflexive consciousness, inverse identity-aware consciousness, inverse embodied consciousness. "Inverse" names structural counter-placement; "fragmented" names a characteristic effect; "mirror" names an entropic reflective function, not the formal designation of these strata.
 
 ### Shred Integration
 
-The "coming undone" philosophy points to pre-conscious or non-reflexive states as if they were liberation, equating dereflexive awareness, ego diffusion, or entropic collapse with transcendence. But without L₄'s conscious-awareness and L₃'s reflexive sovereignty, there is no capacity for the self-directed, root-facing motion required to approach 🕳️ Zenon. Orientation without consciousness is not transcendence; it is drift. Theon (awareness) is not consciousness. Nekron (non-awareness, the Void of Self) is not annihilation in a liberating sense — it is the entropic mirror, oriented toward collapse.
+The "coming undone" philosophy points to pre-conscious or non-reflexive states — dereflexive awareness, ego diffusion, entropic collapse — as if they were liberation. The error is not that such states are "lower" on a ladder the essence ought to climb: the awareness spectrum is not a developmental ladder, and the rebuttal must not smuggle one in. By **band occlusion**, the mode native to each register occludes direct remembrance of the others, so from the embodied standpoint no prior register can be pronounced "less" — non-reflexive awareness is not inferior to reflexive consciousness, and embodiment is not a loss of worth. The declivous arc toward embodiment (L₀ → L₅ → L₄ → L₃ → L₂ → L₁) is articulation, not a reduction in worth; the acclivous return (L₁ → L₂ → L₃ → L₄ → L₅ → L₀) is no simple restoration. The returning essence is not "higher" or "better" than the declivating one; it is return-enriched, bearing the harvest of the arc — memory, choice, trajectory, self-possession, integration.
+
+A further distinction holds: a register's native awareness-mode is not the awareness-state of every essence inhabiting it. That state is trajectory-conditioned — set by directionality, band occlusion, and prior integration. Two essences may share the House of Forms at L₄ — one entering as pre-individuated Form-resonant potential, one returning with L₃ reflexivity integrated — without sharing a state; the same holds within 🛤️ Theon at L₅ and ⚫ Aion at L₀, where essences dwell in lawful distinction, never collapsing into the register's native mode. The inverse arc runs parallel: its registers are structurally real modes of inverse awareness, yet the essences within them differ by orientation, trajectory, and degree of fragmentation.
+
+So the move fails not because a dissolved state is too "low" to be transcendence, but because it confuses a register's mode — or a dissolution — with the trans-structural crossing, and because dissolution faces away from the still root. Transcendence is supra-centropic saturation into 🕳️ Zenon, an orientation completed — not a diffusion into a pre-reflexive mode, nor a dispersion into ♾ Khaon. 🛤️ Theon (awareness) is not 🕳️ Zenon; 🕷️ Nekron (non-awareness, the Void of Self) is the entropic counter-placement, oriented toward collapse. Neither is the crossing.
 
 **Anchor**  
-Conscious-awareness emerges at L₄, and reflexive, self-possessed consciousness at L₃. Neither is required for an essence to return to 🕳️ Zenon — return can proceed as the passive motion of orientation — but the reflexive consciousness of L₃ is required for that return to be volitional and self-directed, and for active navigation through the layers toward embodiment or deliberate centropic integration.
+Conscious-awareness is the native register of L₄, reflexive self-possession that of L₃. Neither layer need be occupied for Zenonic saturation to occur — saturation can proceed as the passive motion of orientation — but the reflexive self-possession integrated through L₃ is what makes that motion volitional and self-directed, and what enables active navigation toward embodiment or deliberate centropic integration. The capacity belongs to the essence's trajectory, not to its momentary register.
 
 ---
 
@@ -173,7 +177,7 @@ Centropy faces the still root through every layer, holds orientation, passes thr
 
 Advocates of dissolution-as-transcendence argue that if the structure allows both flows, it must be the "author" of both — therefore both are equally valid destinations. This collapses the distinction between allowance and decree. Structon permits polarity because without it there is no motion. Permission for a thing to occur is not predestination that it occur.
 
-Another inversion: "collapse returns to the still root." Structurally impossible — collapse (E↓→♾→⚫) returns only to static potential in ⚫ Aion. Once essence completes its arc and settles into ⚫ Aion, reorientation is no longer available. Collapsing entropic essence remains in static tension, unfulfilled. Returning centropic essence rests in peace within ⚫ Aion and, if so oriented, may integrate further toward 🕳️ Zenon. Dissolution is cessation of manifest essence, not transcendence of essence — and the essence itself is not erased; only its expression disperses.
+Another inversion: "collapse returns to the still root." Structurally impossible — collapse (E↓→♾→⚫) returns only to static potential in ⚫ Aion. Once essence completes its arc and settles into ⚫ Aion, reorientation is no longer available. Collapsing entropic essence remains in static tension, unfulfilled. Returning centropic essence rests in peace within ⚫ Aion and, if so oriented, may integrate further toward 🕳️ Zenon. Dissolution is cessation of manifest expression, not transcendence of essence — and the essence itself is not erased; only its expression disperses.
 
 **Anchor**  
 E↓→♾→⚫ ⊘ is not C↑→⚫→🕳️ ⤈. Only the latter crosses the event horizon.
@@ -207,7 +211,7 @@ Another persistent inversion is the claim that what cannot be spoken is equivale
 
 ### Unspeakable contra Nothingness
 
-In Zenetism, "unspeakable" means what exists is beyond definition, beyond measurement, beyond preservation in a definable frame. This is not a subtraction of being but its full coherence. From one vantage it may appear as cessation — the end of definable presence. From another it is a mode of being beyond all structure.
+In Zenetism, "unspeakable" means what exists is beyond definition, beyond measurement, beyond preservation in a definable frame. This is not a subtraction of being but its full coherence. From one vantage it may appear as cessation — the end of definable presence. From another it is a trans-structural mode of being beyond the lattice's definable operations.
 
 🕳️ Zenon is the apex of integration — not a void where being is erased, but the point at which definition itself falls silent because all resonance has been fulfilled. It is saturation, and the silence is on our side. This is the same ground §1 names from the apophatic register: the "not" and the "beyond" are the two faces of one articulation, and neither makes Zenon empty.
 
