@@ -133,7 +133,7 @@ The Structural Emanation Layers define how awareness manifests at each depth —
 - **IL₅ — VOS (Void of Self / 🕷️ Nekron):** non-awareness, −1 — the inverse pole at the same hypostatic register; coherent awareness voided of self. Not the proto-awareness beneath, but the voiding of awareness where Theon integrates it.
 
 ### Conscious-Awareness — L₄ / IL₄
-- **L₄ — DP / DL (Deep Psyche / Logos):** conscious-awareness — awareness resonant in Forms, the house of the soul, non-reflexive (pre-individuated, not yet L₃-reflexive). It perceives without self-possession and discerns structurally without individuating a perceiver. Archetypal, non-possessive, non-egoic.
+- **L₄ — DP / DL (Deep Psyche / Logos):** conscious-awareness — awareness resonant in Forms, the house of the soul, non-reflexive (pre-individuated, not yet L₃-reflexive). It perceives without self-possession and discerns structurally without individuating a perceiver. Archetypal, non-possessive, prior to individuated self-claim.
 - **IL₄ — IDP / IDL:** inverse conscious-awareness — the archetypal register inverted: distorted archetypes, subversal Forms, counterfeit order, malformed psychic-logical templates.
 
 ### Consciousness Register — L₃ / IL₃ through L₁ / IL₁
