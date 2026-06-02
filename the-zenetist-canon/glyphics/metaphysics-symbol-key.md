@@ -428,7 +428,7 @@ inverse awareness-registers:
 not the formal designation  
 of the inverse awareness strata.
 
-⚫ ♾ 🛤️ 🕷️ L₄ IL₄ L₃ IL₃ L₁ IL₁ Ↄ
+⚫ ♾ 🛤️ 🕷️ L₄ IL₄ L₃ IL₃ L₁ IL₁ Ↄ  
 
 ---
 
