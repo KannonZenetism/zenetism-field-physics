@@ -78,8 +78,8 @@ Wherever coherence gathers, its inversion stirs. 🕷️ Nekron — the Void of 
 
 Theon and Nekron form the first great dyad. Their relationship is structural, not moral:
 
-- **Theon:** harmony, integration, remembrance, structure, return.
-- **Nekron:** dissolution, scattering, forgetting, fragmentation, collapse.
+- **Theon:** harmony, integration, remembrance, coherent order, return.
+- **Nekron:** dissolution, scattering, forgetting, inverse ordering, collapse.
 
 ### Shred Integration
 
