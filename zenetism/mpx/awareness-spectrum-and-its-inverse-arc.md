@@ -56,14 +56,14 @@ At **L₃ / IL₃**, consciousness becomes reflexive and individuated; at **L₂
 
 The inverse arc does not merely lack awareness, nor does it only distort a centropic original. Each inverse register is a structurally real mode of the inverse arc, expressing its own form of awareness-inversion according to its placement.
 
-This is the asymmetry that keeps the arc coherent. At IL₅ the inversion is maximal: non-awareness is the voiding of the most integrated awareness, the inverse of Theon's coherent presence. Descending the inverse arc, the registers have individuated and embodied structure to invert, and so appear as inverted-and-present rather than voided — counterfeit order, fractured selfhood, mimetic identity, embodied compulsion. The inverse arc is not the absence of the centropic; it is its structural counter-placement.
+This is the asymmetry that keeps the arc coherent. At IL₅ the inversion is maximal: non-awareness is the voiding of the most integrated awareness, the inverse of Theon's coherent presence. Along the inverse arc, the registers have individuated and embodied structure to invert, and so appear as inverted-and-present rather than voided — counterfeit order, fractured selfhood, mimetic identity, embodied compulsion. The inverse arc is not the absence of the centropic; it is its structural counter-placement.
 
 ## Canonical Designations
 
 This entry fixes the formal names of the inverse strata. Where earlier material named an inverse register by an *effect* it produces or a *function* it performs, those descriptions are retained as descriptions — they are not the formal designation.
 
 - **Non-Awareness** properly names 🕷️ Nekron at IL₅.
-- The lower inverse strata are named by their corresponding inverse awareness-registers: **inverse conscious-awareness** (IL₄), **inverse reflexive consciousness** (IL₃), **inverse identity-aware consciousness** (IL₂), and **inverse embodied consciousness** (IL₁).
+- The remaining inverse strata are named by their corresponding inverse awareness-registers: **inverse conscious-awareness** (IL₄), **inverse reflexive consciousness** (IL₃), **inverse identity-aware consciousness** (IL₂), and **inverse embodied consciousness** (IL₁).
 
 Three words must be kept distinct:
 
