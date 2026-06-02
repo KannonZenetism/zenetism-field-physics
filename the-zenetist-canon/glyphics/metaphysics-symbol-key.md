@@ -101,7 +101,7 @@ The Lattice endures, even when worlds fall silent.
 | Terminal release through VOS | **Nekronic Collapse** | E↓→🕷️→♾→⚫ | The specific dissolution of the Nekronic Office (IL₅) once entropic motion is exhausted; fragmented remnants resolve through Absolute Dispersion into ⚫ Aion |
 | Complete process of centropic motion | **Centropic Cycle** | C↓→E→C↑→⚫ | Full centropic cycle; toward embodiment, embodied self, toward ⚫ Aion |
 | Complete process of entropic motion | **Entropic Cycle** | E↑→E→E↓→♾ | Full entropic cycle; toward embodiment, embodied self, toward ♾ Khaon |
-| Meta-process of centropic motion | **Supra-centropic Cycle** | C↓→E→C↑→⚫→🕳️ | Supra-centropic cycle from emanation to trans-emanation; centropic motion beyond process, culminating in silent reintegration with 🕳️ Zenon |
+| Meta-process of centropic motion | **Supra-centropic Cycle** | C↓→E→C↑→⚫→🕳️ | Supra-centropic cycle from emanation to trans-emanation; centropic motion beyond process, culminating in Zenonic saturation |
 | Convergence of centropic and entropic arcs | **Bifurcal Convergence** | ⦿ → [C↓→E→C↑→⚫] ∩ [E↑→E→E↓→♾→⚫] → ⦿ | Both centropic and entropic arcs resolve into unified stillness; structural convergence within Kaion |
 
 ---
