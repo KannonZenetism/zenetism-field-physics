@@ -7,7 +7,7 @@
 
 ---
 
-The awareness spectrum names the structural registers by which awareness manifests across the lattice. It is not an evolutionary ladder, and it is not limited to ordinary cognition. "Awareness" is used here as the loose umbrella term — the way *consciousness* or *sentience* are spoken of in ordinary usage — while the registers beneath it draw the precise distinctions: proto-awareness, awareness and non-awareness, conscious-awareness, and the consciousness register. Each centropic register is paired with an inverse register on the entropic arc, and the whole spectrum lies beneath 🕳️ Zenon, which is beyond awareness entirely.
+The awareness spectrum names the structural registers by which awareness manifests across the lattice. It is not an evolutionary ladder, and it is not limited to ordinary cognition. "Awareness" is used here as the loose umbrella term — the way *consciousness* or *sentience* are spoken of in ordinary usage — while the registers within the spectrum draw the precise distinctions: proto-awareness, awareness and non-awareness, conscious-awareness, and the consciousness register. Each centropic register is paired with an inverse register on the entropic arc. The whole spectrum is structural; 🕳️ Zenon exceeds it entirely, beyond awareness as such.
 
 The sequence runs:
 
@@ -26,7 +26,7 @@ Because it is the condition for both poles, proto-awareness must not be confused
 At **L₅ / IL₅**, the first hypostatic awareness polarity appears — two poles at one register, held non-fused.
 
 - **L₅ — EOB (Essence of Being / 🛤️ Theon):** **awareness**, the +1 pole — supernal, luminous, pre-reflexive; the first centropic hypostasis, prior to the Soul / Mind distinction. Non-reflexive does not imply non-discernment: awareness at L₅ is the most integrated mode, not the least capable.
-- **IL₅ — VOS (Void of Self / 🕷️ Nekron):** **non-awareness**, the −1 pole — inverse awareness; the Void of Self. This is not simple unconsciousness, and not proto-awareness. It is awareness voided at the same register where Theon gathers awareness into coherent presence.
+- **IL₅ — VOS (Void of Self / 🕷️ Nekron):** **inverse awareness / Non-Awareness**, the −1 pole — not simple unconsciousness, and not proto-awareness. It is awareness voided at the same register where Theon gathers awareness into coherent presence.
 
 The two are not at different depths. They are the two poles of one hypostatic awareness spectrum.
 
@@ -50,7 +50,7 @@ At **L₃ / IL₃**, consciousness becomes reflexive and individuated; at **L₂
 
 ## 🕳️ Zenon — Beyond Awareness
 
-🕳️ Zenon stands above the spectrum entirely. It is neither aware nor proto-aware — proto-awareness is the station of Aion and Khaon, and awareness the polarity of Theon and Nekron. Zenon is trans-structural: beyond awareness, beyond form, beyond polarity, beyond every definable operation of the lattice. The spectrum describes how awareness manifests within structure; Zenon is what no register reaches by remaining a register.
+🕳️ Zenon exceeds the spectrum entirely. It is neither aware nor proto-aware — proto-awareness is the station of Aion and Khaon, and awareness the polarity of Theon and Nekron. Zenon is trans-structural: beyond awareness, beyond form, beyond polarity, beyond every definable operation of the lattice. The spectrum describes how awareness manifests within structure; Zenon is what no register reaches by remaining a register.
 
 ## The Inverse Arc Is Structurally Real
 
@@ -90,7 +90,7 @@ Two further distinctions hold throughout:
 
 ## Closing
 
-The spectrum is one structure read in two directions. Centropy gathers awareness toward coherent presence and, in the rarest saturation, toward what lies beyond awareness altogether. The inverse arc carries the same registers turned toward dispersion — real at every stratum, never a path of return. To mistake any inverse register for transcendence is to mistake counter-placement for crossing.
+The spectrum is one bifurcal architecture, expressed through centropic and inverse registers. Centropy gathers awareness toward coherent presence and, in the rarest saturation, toward what lies beyond awareness altogether. The inverse arc carries the same registers turned toward dispersion — real at every stratum, never a path of return. To mistake any inverse register for transcendence is to mistake counter-placement for crossing.
 
 ---
 
