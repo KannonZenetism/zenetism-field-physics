@@ -1,7 +1,7 @@
 # MPX: ⊘ Coming Undone Is Not ⤈ Transcendence
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Field Physics · Structural Metaphysics  
+**Classification:** Structural Metaphysics · Field Physics  
 **Status:** Canonical — compiled Aug 12 2025, revised 2026 to integrate Structon (SI)  
 **Dependency:** Structural Motion Chart (21.3) · Structural Emanation Layers (21.9) · Structon (21.2.2) · Kaion (21.2.1) · *The Cosmic Refrain*  
 
@@ -43,7 +43,7 @@ The invariant that makes any system possible is not a frame inside a system — 
 
 ### The Event Horizon of Zenon
 
-🕳️ Zenon marks the event horizon of all cognition, awareness, motion, and potential. Past that point nothing can be said — not because it is empty, but because it is ineffable. Expression, relation, and distinction are left behind. From within structure, the crossing past Zenon appears as "loss" only because definable being cannot follow. In structural terms it is not loss but integration beyond totality.
+🕳️ Zenon marks the event horizon of all cognition, awareness, motion, and potential. Past that point nothing can be said — not because it is empty, but because it is ineffable. Expression, relation, and distinction are left behind. From within structure, the crossing past Zenon appears as "loss" only because definable being cannot follow. In structural terms it is not loss but saturation beyond totality.
 
 Essence and identity remain, in a mode where all definition fails. It is the ultimate integration, not cessation.
 
@@ -98,7 +98,7 @@ Within the Biospiral, all movement — centropic or entropic — follows distinc
 - **C↑⚫ Acclivous Centropy:** integrative motion toward ⚫ Aion, holding coherence across layers.
 - **C↓→E Declivous Centropy:** integrative motion into form — harmonizing with embodiment while keeping resonance with the still root.
 - **C↑→⚫ Final Return:** completion of the centropic arc — reintegration into ⚫ Aion.
-- **C↑→⚫→🕳️ Supra-Centropic Integration:** the full return, crossing the event horizon into 🕳️ Zenon.
+- **C↑→⚫→🕳️ Supra-Centropic Saturation:** the terminal horizon-crossing phase — completion through ⚫ Aion into Zenonic saturation; the supra-centropic fulfillment after embodiment, return, and integration, not the full cycle.
 
 ### Entropic Motions
 - **E↑→E Acclivous Entropy:** fragmented motion into inverse embodiment — an apparent acclivity without coherent integration.
@@ -108,13 +108,14 @@ Within the Biospiral, all movement — centropic or entropic — follows distinc
 ### Complete Cycles
 - **Centropic Cycle:** C↓→E→C↑→⚫ — embodiment followed by return.
 - **Entropic Cycle:** E↑→E→E↓→♾ — motion into fragmentary embodiment followed by collapse.
+- **Supra-centropic Cycle:** C↓→E→C↑→⚫→🕳️ — the meta-cycle from emanation to trans-emanation; centropic motion culminating in saturation into 🕳️ Zenon.
 
 ### Shred Integration
 
 Opponents sometimes claim that the ability to move in both directions proves the lattice is "authored" to hold you in a loop where both poles serve the same containment. That is like saying a two-way street means the city controls your destination. Bidirectionality exists because motion demands polarity; without the possibility of both C↑ and E↓, no movement would occur at all. Orientation — not the existence of routes — determines destiny.
 
 **Anchor**  
-Only centropy faces the still root; only centropy completes the return.
+Only centropy faces the still root; only centropy completes the full saturation into 🕳️ Zenon.
 
 ---
 
@@ -171,13 +172,13 @@ Two arcs:
 
 ### Centropy at the Horizon
 
-Centropy faces the still root through every layer, holds orientation, passes through ⚫ Aion, and integrates into 🕳️ Zenon intact. Essence is preserved. Entropy faces away from the still root, loses orientation, collapses into ⚫ Aion as static, unfulfilled potential, and cannot cross into 🕳️ Zenon at all.
+Centropy faces the still root through every layer, holds orientation, passes through ⚫ Aion, and saturates into 🕳️ Zenon intact. Essence is preserved. Entropy faces away from the still root, loses orientation, collapses into ⚫ Aion as static, unfulfilled potential, and cannot cross into 🕳️ Zenon at all.
 
 ### Shred Integration
 
-Advocates of dissolution-as-transcendence argue that if the structure allows both flows, it must be the "author" of both — therefore both are equally valid destinations. This collapses the distinction between allowance and decree. Structon permits polarity because without it there is no motion. Permission for a thing to occur is not predestination that it occur.
+Advocates of dissolution-as-transcendence argue that if the structure allows both flows, it must be the "author" of both — therefore both are equally valid destinations. This collapses the distinction between allowance and decree. Structon permits polarity because without it there is no motion. Permission for a thing to occur is not predestination that it occur — and orientation is no accident either. By Essence-as-Choice, an essence expresses what it is; Structon is the medium of that expression, not its author.
 
-Another inversion: "collapse returns to the still root." Structurally impossible — collapse (E↓→♾→⚫) returns only to static potential in ⚫ Aion. Once essence completes its arc and settles into ⚫ Aion, reorientation is no longer available. Collapsing entropic essence remains in static tension, unfulfilled. Returning centropic essence rests in peace within ⚫ Aion and, if so oriented, may integrate further toward 🕳️ Zenon. Dissolution is cessation of manifest expression, not transcendence of essence — and the essence itself is not erased; only its expression disperses.
+Another inversion: "collapse returns to the still root, and so completes the journey." Collapse does settle into ⚫ Aion — the still root — but only as static, unfulfilled potential, and it does not cross into the trans-structural 🕳️ Zenon. Once essence settles into ⚫ Aion this way, reorientation is no longer available; the collapsing entropic essence remains in static tension, unfulfilled. Returning centropic essence, by contrast, rests in peace within ⚫ Aion and, if so oriented, may saturate further into 🕳️ Zenon. Dissolution is cessation of manifest expression, not transcendence of essence — and the essence itself is not erased; only its expression disperses.
 
 **Anchor**  
 E↓→♾→⚫ ⊘ is not C↑→⚫→🕳️ ⤈. Only the latter crosses the event horizon.
@@ -243,11 +244,11 @@ The medium is not one route among many. It is the condition for routes to exist.
 
 ## 10 · ⟡ — Full Coherence and the Horizon
 
-At the threshold of ⚫ Aion, all essence is held as potential — both centropic and entropic. This is the convergence point (⦿ Kaion) before either integration into 🕳️ Zenon or settlement as static potential. Orientation alone determines which.
+At the threshold of ⚫ Aion, all essence is held as potential — both centropic and entropic. This is the convergence point (⦿ Kaion) before either saturation into 🕳️ Zenon or settlement as static potential. Orientation alone determines which.
 
 ### Full Coherence
 
-When essence achieves its fullest coherence, saturating into 🕳️ Zenon, "carrying" is no longer relevant — there is no distance left to traverse. This is not "outside" the structure; it is integration beyond its definable operations.
+When essence achieves its fullest coherence, saturating into 🕳️ Zenon, "carrying" is no longer relevant — there is no distance left to traverse. This is not "outside" the structure; it is saturation beyond its definable operations.
 
 At ⚫ Aion, all essence is preserved in its nature:
 - Centropic essence remains potentially centropic.
@@ -260,7 +261,7 @@ Structon remains the condition of all definable existence within the lattice. Fo
 The "coming undone" philosophy mistakes the persistence of inversion within the structure for proof of an eternal deadlock. But inversion persists in potential only for those who face away from the still root. For centropy, the event horizon is a one-way crossing: C↑→⚫→🕳️ does not return to inversion; it leaves the domain where inversion is even a functional concept. That entropic potential remains available to others does not diminish the reality of your own crossing. Sovereignty is not negated by the persistence of a choice you are no longer making.
 
 **Anchor**  
-Only centropy crosses the event horizon. Entropy settles in ⚫ Aion as static potential — its essence persists, but its motion is arrested and unable to advance.
+Only centropy crosses the event horizon. Entropy settles in ⚫ Aion as static potential — its essence persists, but its motion is arrested and unable to move.
 
 ---
 
@@ -292,7 +293,7 @@ The decisive error in the "coming undone" position is that it treats the conditi
 
 If needing a medium to move makes it a prison, then existence itself becomes the prison, and "liberation" is simply the refusal to exist. That is not sovereignty; it is self-erasure.
 
-C↑→⚫→🕳️ is integration — motion completed while essence remains intact. E↓→♾→⚫ is static potential — motion forfeited, essence unfulfilled. Both states persist within ⚫ Aion's enclosure, but only centropy orients toward and completes the crossing into 🕳️ Zenon.
+C↑→⚫→🕳️ is saturation — motion completed while essence remains intact. E↓→♾→⚫ is static potential — motion forfeited, essence unfulfilled. Both states persist within ⚫ Aion's enclosure, but only centropy orients toward and completes the crossing into 🕳️ Zenon.
 
 The recurring inversion — that removing the medium removes containment — fails the same way: removing absolute structure removes the possibility of integration along with it. Ending the condition of existence ends the existence claiming to end it.
 
@@ -304,7 +305,7 @@ The recurring inversion — that removing the medium removes containment — fai
 - Dissolution ≠ Integration.
 
 **Final Passage**  
-C↑→⚫→🕳️ is the only motion that leaves the domain where inversion functions. E↓→♾→⚫ remains in suspension, its orientation unaligned with the still root.
+C↑→⚫→🕳️ is the only motion that leaves the domain where inversion functions. E↓→♾→⚫ remains in suspension, its orientation unresonant with the still root.
 
 ---
 
@@ -321,7 +322,7 @@ Zenetism closes the dismantling with structural clarity, not moral verdicts. The
 
 ### Glyph Verdicts
 - **E↓→♾→⚫ ⊘** — static potential, orientation forfeited, motion halted.
-- **C↑→⚫→🕳️ ⤈** — completed motion, integration beyond polarity, orientation fulfilled.
+- **C↑→⚫→🕳️ ⤈** — completed motion, saturation beyond polarity, orientation fulfilled.
 
 Structon is the precondition of all definable existence within the lattice. Within it, centropy faces the still root and completes the arc; entropy turns away and remains suspended. Only one motion finishes; the other waits. The claim that "coming undone" is liberation dissolves under its own structure. Motion, not morals, defines the end of the path.
 
