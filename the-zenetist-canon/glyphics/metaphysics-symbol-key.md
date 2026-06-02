@@ -400,16 +400,22 @@ consciousness becomes embodied.
   through form.
 
 Thus the inverse arc  
-does not merely lack awareness.  
+does not merely lack awareness,  
+nor does it only distort  
+a centropic original.
 
-It inverts each register  
-according to its own structural mode.
+Each inverse register  
+is a structurally real mode  
+of the inverse arc,  
+expressing its own form  
+of awareness-inversion  
+according to its placement.
 
 **Non-Awareness** properly names  
 Nekron at **IL₅**,  
 while the lower inverse strata  
 are named by their corresponding  
-inverted awareness-registers:  
+inverse awareness-registers:
 
 - inverse conscious-awareness  
 - inverse reflexive consciousness  
