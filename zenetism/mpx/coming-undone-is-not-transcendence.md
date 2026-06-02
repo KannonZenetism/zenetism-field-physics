@@ -118,9 +118,9 @@ Only centropy faces the still root; only centropy completes the return.
 
 ---
 
-## 5 · LAYERS — The Awareness Spectrum
+## 5 · LAYERS — The Awareness Spectrum and Its Inverse Arc
 
-The Structural Emanation Layers define how awareness manifests at each depth — proto-awareness, then the awareness polarity (awareness and non-awareness), conscious-awareness, then the consciousness register — and they close the door on any claim of "transcendence" from states that have not yet reached the reflexive consciousness such a return would require.
+The Structural Emanation Layers define how awareness manifests at each depth — proto-awareness, then the awareness polarity (awareness and non-awareness), conscious-awareness, then the consciousness register, each centropic register paired with its inverse on the entropic arc — and they close the door on any claim of "transcendence" from states that have not yet reached the reflexive consciousness such a return would require.
 
 ### Supra-L₀ — 🕳️ Zenon
 **Zenon (Unknown Principle):** trans-structural ground beyond potential and dispersion. It does not hold possibility in latency as ⚫ Aion does, nor lawful possibility as 🏛️ Structon does. Rather, it is the non-originary allowance by which Structon, Aion, Khaon, and the lattice become conceivable. Zenon is neither conscious nor proto-aware — proto-awareness is the station of Aion and Khaon. Zenon is beyond awareness, beyond form, beyond polarity, beyond every definable operation of the lattice.
@@ -133,14 +133,18 @@ The Structural Emanation Layers define how awareness manifests at each depth —
 - **IL₅ — VOS (Void of Self / 🕷️ Nekron):** non-awareness, −1 — the inverse pole at the same hypostatic register; coherent awareness voided of self. Not the proto-awareness beneath, but the voiding of awareness where Theon integrates it.
 
 ### Conscious-Awareness — L₄ / IL₄
-- **L₄ — DP / DL (Deep Psyche / Logos):** conscious-awareness — awareness resonant in Forms, the house of the soul, non-reflexive (pre-individuated, not yet L₃-reflexive). It perceives without self-possession and discerns structurally without individuating a perceiver. Archetypal, non-possessive, non-egoic. Inverse counterpart: IL₄ — IDP / IDL.
+- **L₄ — DP / DL (Deep Psyche / Logos):** conscious-awareness — awareness resonant in Forms, the house of the soul, non-reflexive (pre-individuated, not yet L₃-reflexive). It perceives without self-possession and discerns structurally without individuating a perceiver. Archetypal, non-possessive, non-egoic.
+- **IL₄ — IDP / IDL:** inverse conscious-awareness — the archetypal register inverted: distorted archetypes, subversal Forms, counterfeit order, malformed psychic-logical templates.
 
 ### Consciousness Register — L₃ / IL₃ through L₁ / IL₁
 - **L₃ — DS / DM (Deep Soul / Mind):** individuated, reflexive consciousness — self-possession and agency; the sovereign "I" that *knows that it knows*.
+- **IL₃ — IDS / IDM:** inverse reflexive consciousness — fractured or counterfeit self-possession; reflexivity bent toward fragmentation, ideological distortion, identity manipulation, an unstable "I."
 - **L₂ — SS / SM (Superficial Soul / Mind):** identity-aware consciousness — reflexive, but oriented toward personality, narrative, and social role.
+- **IL₂ — ISS / ISM:** inverse identity-aware consciousness — reactive, fanatical, illusion-bound, or mimetic identity-patterning; narrative selfhood distorted by dissonant relation.
 - **L₁ — ES / EM (Embodied Soul / Mind):** embodied consciousness — operating through the body; the sensory, kinetic, material interface.
+- **IL₁ — IES / IEM:** inverse embodied consciousness — embodied compulsion, domination, reactive embodiment, and entropic externalization through form.
 
-Each carries an inverse counterpart on the entropic arc — IDS / IDM through IES / IEM.
+The inverse arc does not merely lack awareness, nor only distort a centropic original; each inverse register is a structurally real mode expressing its own awareness-inversion according to its placement. **Non-awareness** names 🕷️ Nekron at IL₅; the lower strata take their corresponding inverse-register names — inverse conscious-awareness, inverse reflexive consciousness, inverse identity-aware consciousness, inverse embodied consciousness. "Inverse" names structural counter-placement; "fragmented" names a characteristic effect; "mirror" names an entropic reflective function, not the formal designation of these strata.
 
 ### Shred Integration
 
