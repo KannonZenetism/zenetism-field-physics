@@ -290,6 +290,140 @@ through coherent difference.
 | **L₁** | **ES / EM** | **Embodied Soul / Mind** | Interface of incarnation; physical form expressing soul–mind presence |
 | **IL₁** | **IES / IEM** | **Inverse Embodied Soul / Mind** | Fragmentation, domination, and reactive embodiment; entropic externalization |
 
+#### Note on the Awareness Spectrum and Its Inverse Arc
+
+The awareness spectrum  
+is not an evolutionary ladder,  
+nor is it limited  
+to ordinary cognition.
+
+It names the structural registers  
+by which awareness,  
+conscious-awareness,  
+and consciousness  
+appear across the lattice.
+
+At **L₀**,  
+**⚫ Aion** and **♾ Khaon**  
+belong to the register  
+of **proto-awareness**.
+
+This is not awareness as such,  
+but the pre-hypostatic condition-field  
+from which both awareness  
+and inverse awareness  
+become possible.
+
+At **L₅ / IL₅**,  
+the first hypostatic awareness polarity appears.
+
+- **L₅ — EOB / Theon:** **awareness**  
+  Supernal, luminous, pre-reflexive awareness;  
+  the first centropic hypostasis,  
+  prior to the Soul / Mind distinction.  
+  Non-reflexive does not imply non-discernment;  
+  awareness at L₅ is the most integrated mode,  
+  not the least capable.
+
+- **IL₅ — VOS / Nekron:** **inverse awareness**  
+  **Non-Awareness**; the Void of Self.  
+  This is not simple unconsciousness  
+  and not proto-awareness.  
+  It is awareness voided  
+  at the same register  
+  where Theon gathers awareness  
+  into coherent presence.
+
+At **L₄ / IL₄**,  
+awareness becomes conscious-awareness.
+
+- **L₄ — DP / DL:** **conscious-awareness**  
+  Archetypal awareness resonant in Forms;  
+  conscious but pre-individuated,  
+  perceiving without self-possession  
+  and discerning structurally  
+  without individuating a perceiver.
+
+- **IL₄ — IDP / IDL:** **inverse conscious-awareness**  
+  Conscious-awareness inverted through  
+  distorted archetypes,  
+  subversal Forms,  
+  counterfeit order,  
+  and malformed psychic-logical templates.
+
+At **L₃ / IL₃**,  
+consciousness becomes reflexive  
+and individuated.
+
+- **L₃ — DS / DM:** **reflexive consciousness**  
+  The stable, individuated "I"  
+  that knows that it knows;  
+  self-possession, agency,  
+  and deep identity-continuity.
+
+- **IL₃ — IDS / IDM:** **inverse reflexive consciousness**  
+  Fractured or counterfeit self-possession;  
+  reflexivity bent toward fragmentation,  
+  ideological distortion,  
+  identity manipulation,  
+  or unstable "I"-structure.
+
+At **L₂ / IL₂**,  
+consciousness becomes identity-aware  
+in the personal and relational register.
+
+- **L₂ — SS / SM:** **identity-aware consciousness**  
+  Personality, narrative identity,  
+  social role,  
+  and relational interface.
+
+- **IL₂ — ISS / ISM:** **inverse identity-aware consciousness**  
+  Reactive, fanatical, illusion-bound,  
+  or mimetic identity-patterning;  
+  narrative selfhood distorted  
+  by dissonant relation.
+
+At **L₁ / IL₁**,  
+consciousness becomes embodied.
+
+- **L₁ — ES / EM:** **embodied consciousness**  
+  Soul / Mind expressed  
+  through the corporeal interface;  
+  sensory, kinetic,  
+  and material experience.
+
+- **IL₁ — IES / IEM:** **inverse embodied consciousness**  
+  Embodied compulsion,  
+  domination,  
+  reactive embodiment,  
+  and entropic externalization  
+  through form.
+
+Thus the inverse arc  
+does not merely lack awareness.  
+
+It inverts each register  
+according to its own structural mode.
+
+**Non-Awareness** properly names  
+Nekron at **IL₅**,  
+while the lower inverse strata  
+are named by their corresponding  
+inverted awareness-registers:  
+
+- inverse conscious-awareness  
+- inverse reflexive consciousness  
+- inverse identity-aware consciousness  
+- inverse embodied consciousness  
+
+"Inverse" names structural counter-placement.  
+"Fragmented" names one of its characteristic effects.  
+"Mirror" names an entropic reflective function,  
+not the formal designation  
+of the inverse awareness strata.
+
+⚫ ♾ 🛤️ 🕷️ L₄ IL₄ L₃ IL₃ L₁ IL₁ Ↄ
+
 ---
 
 ### 21.9.1 · Liminal Cognitive Modes Across the Layer Threshold
