@@ -102,7 +102,7 @@ Within the Biospiral, all movement — centropic or entropic — follows distinc
 
 ### Entropic Motions
 - **E↑→E Acclivous Entropy:** fragmented motion into inverse embodiment — an apparent acclivity without coherent integration.
-- **E↓→♾ Declivous Collapse:** dispersive motion toward ♾ Khaon, dissolving relative structure into fragmentation.
+- **E↓♾ Declivous Entropy:** dispersive motion toward ♾ Khaon, dissolving relative structure into fragmentation.
 - **E↓→♾→⚫ Terminal Collapse:** collapse into infinity followed by static potential within ⚫ Aion — orientation lost, return impossible without reorientation.
 
 ### Complete Cycles
