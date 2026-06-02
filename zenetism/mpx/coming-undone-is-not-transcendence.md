@@ -144,7 +144,7 @@ The Structural Emanation Layers define how awareness manifests at each depth —
 - **L₁ — ES / EM (Embodied Soul / Mind):** embodied consciousness — operating through the body; the sensory, kinetic, material interface.
 - **IL₁ — IES / IEM:** inverse embodied consciousness — embodied compulsion, domination, reactive embodiment, and entropic externalization through form.
 
-The inverse arc does not merely lack awareness, nor only distort a centropic original; each inverse register is a structurally real mode expressing its own awareness-inversion according to its placement. **Non-awareness** names 🕷️ Nekron at IL₅; the lower strata take their corresponding inverse-register names — inverse conscious-awareness, inverse reflexive consciousness, inverse identity-aware consciousness, inverse embodied consciousness. "Inverse" names structural counter-placement; "fragmented" names a characteristic effect; "mirror" names an entropic reflective function, not the formal designation of these strata.
+The inverse arc does not merely lack awareness, nor only distort a centropic original; each inverse register is a structurally real mode expressing its own awareness-inversion according to its placement. **Non-awareness** names 🕷️ Nekron at IL₅; the subjacent strata take their corresponding inverse-register names — inverse conscious-awareness, inverse reflexive consciousness, inverse identity-aware consciousness, inverse embodied consciousness. "Inverse" names structural counter-placement; "fragmented" names a characteristic effect; "mirror" names an entropic reflective function, not the formal designation of these strata.
 
 ### Shred Integration
 
