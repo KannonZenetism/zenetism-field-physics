@@ -39,9 +39,9 @@ None of the three is a synonym for another. Synthesis is not fusion; integration
 
 ## How the Sequence Maps
 
-- **The bifurcal manifold.** ⚫ Aion and ♾ Khaon, held non-fused, are synthesized at L₀ Bifurcal Coherence (synthesis); their lawful relation is the coherent bifurcal manifold (integration); and at terminal coherence that manifold opens onto Supra-L₀ — 🕳️ Zenon (saturation). Zenonic saturation is reached through this synthesis, never through subtraction
+- **The bifurcal manifold.** The ⚫ Aion / ♾ Khaon polarity is held in non-fusing synthesis at L₀ Bifurcal Coherence (synthesis); its lawful relation is the coherent bifurcal manifold (integration); and at terminal coherence that manifold permits saturation into Supra-L₀ — 🕳️ Zenon. Zenonic saturation is reached through this synthesis, never through subtraction
 - **Motion.** Acclivous integration runs through ⚫ Aion: Final Return (C↑→⚫) is reintegration with the still root. Supra-Centropic Saturation (C↑→⚫→🕳️) carries that integration through ⚫ Aion into Zenonic saturation — the terminal horizon-crossing phase
-- **Return contra saturation.** Return is reintegration with ⚫ Aion, a coherence held within structure. Saturation passes beyond into 🕳️ Zenon. Return is not saturation, and saturation is not return — the first rests at the still root; the second crosses the event horizon
+- **Return contra saturation.** Return is reintegration with ⚫ Aion, a coherence held within structure. Saturation passes through the still root into 🕳️ Zenon. Return is not saturation, and saturation is not return — the first rests at the still root; the second crosses the event horizon
 
 ## Lexical Lock
 
