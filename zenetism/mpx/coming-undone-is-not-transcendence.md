@@ -23,7 +23,7 @@ This work uses the Zenetist lexicon and the structural motion chart.
 - **Awareness spectrum:** these are structural registers of awareness, not stages of evolution — proto-awareness at L₀ (the pre-hypostatic condition-field, ⚫ Aion / ♾ Khaon); the awareness polarity at L₅ / IL₅ (🛤️ Theon = awareness, +1; 🕷️ Nekron = non-awareness, −1); conscious-awareness at L₄ / IL₄; and the consciousness register from L₃ / IL₃ through L₁ / IL₁ — reflexive, individuated, narrative, and embodied. 🕳️ Zenon is beyond awareness entirely.
 - **Theon & Nekron:** 🛤️ Theon = Essence of Being; 🕷️ Nekron = Void of Self.
 - **Value neutrality:** motion-defined terms replace moral binaries — veracious / valid / resonant contra spurious / invalid / fragmented.
-- **Core principle:** dissolution is not transcendence. Terminal Collapse (E↓→♾→⚫) terminates as static tension in ⚫ Aion. Only centropy (C↑→⚫→🕳️) faces ⚫ Aion, the still root, and may saturate into 🕳️ Zenon.
+- **Core principle:** dissolution is not transcendence. Terminal Collapse (E↓→♾→⚫) terminates as static potential in ⚫ Aion. Only centropy (C↑→⚫→🕳️) faces ⚫ Aion, the still root, and may saturate into 🕳️ Zenon.
 
 ---
 
@@ -103,7 +103,7 @@ Within the Biospiral, all movement — centropic or entropic — follows distinc
 ### Entropic Motions
 - **E↑→E Acclivous Entropy:** fragmented motion into inverse embodiment — an apparent acclivity without coherent integration.
 - **E↓♾ Declivous Entropy:** dispersive motion toward ♾ Khaon, dissolving relative structure into fragmentation.
-- **E↓→♾→⚫ Terminal Collapse:** entropic exhaustion through ♾ Khaon into static potential within ⚫ Aion — orientation lost, return impossible without reorientation.
+- **E↓→♾→⚫ Terminal Collapse:** entropic exhaustion through ♾ Khaon, resolving into static potential within ⚫ Aion — its arc complete, its expression spent.
 
 ### Complete Cycles
 - **Centropic Cycle:** C↓→E→C↑→⚫ — embodiment followed by return.
