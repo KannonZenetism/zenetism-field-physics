@@ -197,7 +197,7 @@ Its bidirectionality is not an endorsement of both flows — it is a functional 
 
 ### Shred Integration
 
-The "landlord" metaphor smuggles human concepts of authority into the trans-structural ground ⧞. A landlord exerts will, extracts rent, enforces occupancy. Structon does none of these. It does not grant passage — it *is* passage. It defines the condition of motion, not the terms of its use.
+The "landlord" metaphor smuggles human concepts of authority into the medium itself. A landlord exerts will, extracts rent, enforces occupancy. Structon does none of these. It does not grant passage — it *is* passage. It is the medium of motion's traversal, not the terms of its use.
 
 Sovereignty is determined by orientation. Face the still root and nothing in the structure blocks the crossing; turn away and nothing forces a return. Calling that impartiality "jurisdiction" confuses condition with command.
 
@@ -235,7 +235,7 @@ Orientation is decisive, but orientation alone does not create the path. Structo
 
 ### Shred Integration
 
-Remove the medium that makes motion possible and motion itself ends. "Alternative carriers" are a conceptual illusion born of mistaking emanated frameworks — such as the cosmic laws within a given universe — for the structural ground. Those frameworks can be replaced; Structon cannot. It is the non-ordinal ⧞ condition for any framework to exist at all. The "coming undone" position treats the existence of inversion within the structure as proof the whole thing is compromised and must be abolished. But abolishing absolute structure abolishes the possibility of centropic motion — and reaches not liberation but nonexistence, which the attempt cannot reach, since the attempt presupposes the structure it would undo.
+Remove the medium that makes motion possible and motion itself ends. "Alternative carriers" are a conceptual illusion born of mistaking emanated frameworks — such as the cosmic laws within a given universe — for the structural ground. Those frameworks can be replaced; Structon cannot. It is the precondition for any framework to exist at all. The "coming undone" position treats the existence of inversion within the structure as proof the whole thing is compromised and must be abolished. But abolishing absolute structure abolishes the possibility of centropic motion — and reaches not liberation but nonexistence, which the attempt cannot reach, since the attempt presupposes the structure it would undo.
 
 **Anchor**  
 The medium is not one route among many. It is the condition for routes to exist.
@@ -254,7 +254,7 @@ At ⚫ Aion, all essence is preserved in its nature:
 - Centropic essence remains potentially centropic.
 - Entropic essence remains locked in its dissonance.
 
-Structon remains the condition of all definable existence within the lattice. For essence spoken of as saturating into Zenon, Structon is not a governing medium beyond the crossing; it is the structural condition by which such a crossing can be described from within the lattice.
+Structon remains the condition for any definable expression, including the lattice. For essence spoken of as saturating into Zenon, Structon is not a governing medium beyond the crossing; it is the structural condition by which such a crossing can be described from within the lattice.
 
 ### Shred Integration
 
@@ -311,7 +311,7 @@ C↑→⚫→🕳️ is the only motion that leaves the domain where inversion f
 
 ## 13 · ⟡ — Final Summary Seals
 
-Zenetism closes the dismantling with structural clarity, not moral verdicts. The polarity between centropy and entropy is functional, not adversarial. Structon is the condition for all motion, not its owner. Dissolution does not and cannot equal integration, because the two motions face in opposite directions, with opposite structural destinies.
+Zenetism closes the dismantling with structural clarity, not moral verdicts. The polarity between centropy and entropy is functional, not adversarial. Structon is the conduit for motion, not its owner. Dissolution does not and cannot equal integration, because the two motions face in opposite directions, with opposite structural destinies.
 
 ### Summary Seals
 - **Medium ≠ Landlord:** the conduit for motion is not an authority over its outcome.
