@@ -97,7 +97,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `the-twofold-tetralemma.md` — Jun 1, 2026
 - `awareness-spectrum-and-its-inverse-arc.md` — Jun 2, 2026
 - `synthesis-integration-saturation.md` — Jun 2, 2026
-- `emptiness-luminosity-and-the-bifurcal-limit.md` — Jun 2, 2026
+- `emptiness-luminosity-and-the-bifurcal-limit.md` — Jun 3, 2026
 
 ---
 
