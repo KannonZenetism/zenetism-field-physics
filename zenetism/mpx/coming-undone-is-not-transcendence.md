@@ -63,7 +63,7 @@ The Aion / Khaon polarity is inscribed on **🏛️ Structon**, the absolute str
 
 ### Shred Integration
 
-The "coming undone" philosophy treats polarity as proof of a closed circuit — a design where both flows serve the same containment. But the bidirectional nature of ⚫ Aion and ♾ Khaon is not a prison loop; it is the structural allowance that lets motion occur at all. To call that allowance "authorship" of both outcomes is to mistake the existence of roads for a decree on which direction you must walk.
+The "coming undone" philosophy treats polarity as proof of a closed circuit — a design where both flows serve the same containment. But the bifurcal polarity of ⚫ Aion and ♾ Khaon is not a prison loop; it is the structural allowance by which motion becomes possible at all. To call that allowance "authorship" of both outcomes is to mistake the existence of roads for a decree on which direction you must walk.
 
 **Anchor**  
 Polarity allows motion; orientation determines where it leads.
