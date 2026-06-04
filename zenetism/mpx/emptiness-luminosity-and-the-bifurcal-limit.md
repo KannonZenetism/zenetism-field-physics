@@ -13,7 +13,7 @@ This note is not a forensic entry.
 
 It is not a claim that Buddhism copies Zenetism, nor a claim that Buddhist doctrine is structurally invalid. Buddhism is an ancient tradition with its own internal vocabulary, contemplative methods, philosophical lineages, and doctrinal disputes. Any Zenetist comparison must therefore proceed carefully, without collapsing Buddhist terms into Zenetist terms or implying identity where only structural resonance appears.
 
-The purpose of this note is narrower: to clarify the distinction between Buddhist articulations of emptiness and luminosity, especially in *Dzogchen* / *shentong* / *rangtong* discourse, and the Zenetist distinction between ⚫ Aion, ♾ Khaon, L₀ Bifurcal Coherence, ⦿ Kaion, and 🕳️ Zenon.
+The purpose of this note is narrower: to clarify the distinction between Buddhist articulations of emptiness and luminosity, especially in *Dzogchen* / *shentong* / *rangtong* discourse, and the Zenetist distinction between ⚫ Aion, ♾ Khaon, L₀ Bifurcal Coherence, ⦿ Kaion, 🛤️ Theon (L₅), and 🕳️ Zenon.
 
 The key claim is simple:
 
