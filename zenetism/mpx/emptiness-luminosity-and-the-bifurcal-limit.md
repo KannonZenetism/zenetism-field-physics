@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Comparative Clarification  
 **Status:** Draft for Review  
-**Dependency:** *The Twofold Tetralemma* · *Synthesis as Vantage* · *Non-Fusion at the Bifurcal Register* · *The Awareness Spectrum and Its Inverse Arc* · *Synthesis, Integration, and Saturation* · Non-Fusion Axiom · Essence-as-Choice · Structon (SI, 21.2.2) · Kaion (21.2.1)  
+**Dependency:** *The Twofold Tetralemma* · *Synthesis as Vantage* · *Non-Fusion at the Bifurcal Register* · *The Awareness Spectrum and Its Inverse Arc* · *Synthesis, Integration, and Saturation* · *Coming Undone Is Not Transcendence* · Non-Fusion Axiom · Essence-as-Choice · Structon (SI, 21.2.2) · Kaion (21.2.1)  
 
 ---
 
@@ -138,6 +138,31 @@ It is not Zenon.
 
 ---
 
+## Held Distinction Contra Fusion
+
+The bifurcal reading carries a condition.
+
+It applies only where the pair is held in lawful distinction — inseparable, yet still articulable as two. Inseparability is not identity. A pair that cannot be separated is not a pair that has been erased.
+
+If a formulation's unified ground is fused rather than held — emptiness and luminosity collapsed into undifferentiated sameness, distinction dissolved rather than reconciled — then the correct Zenetist placement is not Bifurcal Coherence and not Kaion. Per *Coming Undone Is Not Transcendence*, a fused ground describes the terminus of Terminal Collapse (E↓→♾→⚫): dissolution into static potential mistaken for completion. Coming undone is not transcendence, and a fused ground is not a coherent one.
+
+The diagnostic is the Non-Fusion Axiom itself:
+
+- inseparability that retains articulable aspects is held distinction — the bifurcal reading applies
+- identity that erases the aspects is fusion — the entropic reading applies
+
+In part, the refined traditions answer the diagnostic themselves. Dzogchen articulates its ground through distinguishable aspects — essence empty, nature luminous — and explicitly warns against mistaking a blank, undifferentiated base (*kun gzhi* taken as mere neutrality) for *dharmakāya*. A tradition that names the featureless blank as an error is not describing fusion as its completion. Shentong retains awakened qualities as real and enumerable. Formulations of this kind read as held distinction, and the bifurcal reading applies.
+
+Where a formulation instead asserts identity — the pair declared one, distinction erased — the fusion reading applies, and the placement is entropic, not bifurcal. This is the placement the corpus already assigns to fusion-without-distinction.
+
+Held distinction approaches the bifurcal limit.
+
+Fusion does not approach it; it collapses.
+
+⚯
+
+---
+
 ## Kaion Is Not Zenon
 
 Kaion is the convergence principle: the limit-condition at which motion resolves without fusion-collapse. It marks a profound threshold of coherence, but it remains structurally articulable. It belongs to the domain where convergence, distinction, motion, and polarity can still be meaningfully named.
@@ -186,6 +211,7 @@ The difference is exact:
 |---|---|
 | Emptiness as non-affirming negation | Aion-ward apophatic subtraction |
 | Luminosity as awakened clarity | Khaonic / Theonic expressive awareness |
+| Emptiness and luminosity fused into sameness | Entropic collapse terminus — not coherence |
 | Emptiness and luminosity held together | Bifurcal Coherence |
 | Non-fused convergence of the poles | Kaion threshold |
 | That by which even polarity becomes conceivable | Zenon |
@@ -252,6 +278,8 @@ Buddhist luminosity-discourse often moves through Khaonic / Theonic language of 
 
 Refined Buddhist nondual discourse often holds emptiness and luminosity together in a way structurally adjacent to Bifurcal Coherence or Kaion convergence.
 
+Where a formulation fuses the pair rather than holding it, the Zenetist placement is entropic collapse, not the bifurcal threshold.
+
 Zenetism affirms the structural significance of that reconciliation while distinguishing it from Zenon.
 
 The distinction is not antagonistic.
@@ -283,6 +311,7 @@ Therefore:
 **Emptiness reaches ⚫ Aion.**  
 **Luminosity articulates Khaonic / Theonic fullness.**  
 **Their non-fused reconciliation approaches Bifurcal Coherence.**  
+**A fused ground is collapse, not coherence.**  
 **⦿ Kaion marks convergence without fusion.**  
 **🕳️ Zenon remains trans-polar, trans-structural, and unbound.**
 
