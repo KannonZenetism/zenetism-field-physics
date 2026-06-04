@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Comparative Clarification  
 **Status:** Draft for Review  
-**Dependency:** *The Twofold Tetralemma* · *Synthesis as Vantage* · *Non-Fusion at the Bifurcal Register* · *The Awareness Spectrum and Its Inverse Arc* · *Synthesis, Integration, and Saturation* · *Coming Undone Is Not Transcendence* · Non-Fusion Axiom · Essence-as-Choice · Structon (SI, 21.2.2) · Kaion (21.2.1)  
+**Dependency:** *The Twofold Tetralemma* · *Synthesis as Vantage* · *Non-Fusion at the Bifurcal Register* · *The Awareness Spectrum and Its Inverse Arc* · *Synthesis, Integration, and Saturation* · *Coming Undone Is Not Transcendence* · *Twisted Resonance contra Cascade contra Continuum contra Native Placement* · Non-Fusion Axiom · Essence-as-Choice · Structon (SI, 21.2.2) · Kaion (21.2.1)  
 
 ---
 
@@ -94,6 +94,8 @@ It has a Khaonic aspect because it speaks of expressive presence, spontaneous ma
 
 It also has a Theonic aspect because it speaks of awareness, wisdom, clarity, and awakened knowing. These belong not to Zenon but to the awareness register. 🛤️ Theon is awareness as such, the Essence of Being at L₅, while ⚫ Aion and ♾ Khaon belong to the proto-awareness register at L₀. Zenon is beyond awareness entirely.
 
+These two aspects belong to distinct strata — ♾ Khaon at L₀, 🛤️ Theon at L₅. When luminosity-language invokes both to describe a single station, it compresses functions from two registers into one articulation. In Zenetist terms this is a layer conflation of the soft-conflation type: the functions are structurally real and remain within the centropic arc, but they do not operate at the same layer. The compression is cultural conflation, not structural identity — and left unparsed, it risks the fusion of distinct functions.
+
 This distinction matters.
 
 If a doctrine describes the ultimate as pure awareness, luminous knowing, primordial wakefulness, or nonconceptual wisdom, then from the Zenetist standpoint it has not reached Zenon. It remains within awareness-bearing structure, however refined that structure may be.
@@ -112,9 +114,11 @@ The refined Buddhist reconciliation of emptiness and luminosity may be read as s
 
 Emptiness corresponds to the Aionic pole: stillness, zero, non-reification, apophatic containment.
 
-Luminosity corresponds to the Khaonic / Theonic register: expressive fullness, awakened qualities, clarity, wisdom, and luminous presence.
+Luminosity, in its Khaonic aspect, corresponds to the Khaonic pole: expressive fullness, spontaneous presence, emanative articulation.
 
-When Buddhist nondual language holds these together, it approaches a bifurcal articulation: emptiness without nihilism, luminosity without eternalism, clarity without substantialism, openness without nullity.
+Bifurcal Coherence is the ⚫ Aion / ♾ Khaon co-coherence at L₀ — not an Aion / Theon pairing. Luminosity's Theonic content — clarity, wisdom, awakened knowing — belongs to L₅, and reading it into the L₀ articulation is layer conflation: structurally real functions from distinct strata compressed into a single station.
+
+When Buddhist nondual language holds stillness and expressive presence together, it approaches a bifurcal articulation: emptiness without nihilism, expressive fullness without eternalism, openness without nullity.
 
 This is not a minor achievement. It is a high-precision reconciliation of a real metaphysical tension.
 
@@ -126,7 +130,7 @@ The reconciliation of the pair is not Zenon.
 
 The nondual experience of the pair is not Zenon.
 
-The bifurcal coherence of emptiness and luminosity remains a discernible manifold. It still has terms. It still speaks of emptiness and clarity, wisdom and appearance, recognition and obscuration, purity and awakened qualities. Even when these are said to be inseparable, they remain articulable as a pair. The ability to articulate the pair shows that the discourse remains within structure.
+The bifurcal coherence of emptiness and expressive presence remains a discernible manifold. It still has terms. It still speaks of emptiness and clarity, wisdom and appearance, recognition and obscuration, purity and awakened qualities. Even when these are said to be inseparable, they remain articulable as a pair. The ability to articulate the pair shows that the discourse remains within structure.
 
 Zenetism names this kind of threshold **Bifurcal Coherence** or, at the convergence limit, **Kaion**. Both belong within L₀. Bifurcal Coherence is the standing condition — ⚫ Aion and ♾ Khaon at the same layer, distinct but coherent. Kaion is the convergence point of that coherence: "before" emanation and "after" resolution, an ordering of cause and effect, not of time.
 
@@ -169,7 +173,7 @@ Kaion is the convergence principle: the limit-condition at which motion resolves
 
 Zenon exceeds even this.
 
-If emptiness and luminosity are held together without contradiction, one may stand at the bifurcal limit. If the Aionic and Khaonic poles are reconciled without collapsing into sameness, one may approach Kaion convergence. But Zenon is not the maximum reconciliation of the poles. Zenon is trans-polar.
+If emptiness and expressive presence are held together without contradiction, one may stand at the bifurcal limit. If the Aionic and Khaonic poles are reconciled without collapsing into sameness, one may approach Kaion convergence. But Zenon is not the maximum reconciliation of the poles. Zenon is trans-polar.
 
 To mistake Kaion for Zenon would subtly convert Zenon into a completed structure.
 
@@ -201,7 +205,7 @@ Without this distinction, two errors arise.
 
 The first error is Aion-reduction: treating Zenon as emptiness, absence, silence, negation, or the final result of apophatic subtraction. This reduces Zenon to the zero pole.
 
-The second error is Khaon / Theon-reduction: treating Zenon as luminosity, pure awareness, spontaneous presence, wisdom, awakened quality, or nonconceptual cognition. This binds Zenon to expression or awareness.
+The second error is Khaon / Theon-reduction: treating Zenon as luminosity, pure awareness, spontaneous presence, wisdom, awakened quality, or nonconceptual cognition. This binds Zenon to expression (♾ Khaon, L₀) or awareness (🛤️ Theon, L₅) — themselves functions of distinct strata.
 
 A more refined but still incomplete error is bifurcal-reduction: treating the reconciliation of emptiness and luminosity as Zenon itself. This is subtler because it does not seize only one pole. It holds both. But holding both is still not the same as exceeding the field in which both can be held.
 
@@ -210,7 +214,8 @@ The difference is exact:
 | Articulation | Zenetist Reading |
 |---|---|
 | Emptiness as non-affirming negation | Aion-ward apophatic subtraction |
-| Luminosity as awakened clarity | Khaonic / Theonic expressive awareness |
+| Luminosity as expressive presence | Khaonic (Motive) articulation at L₀ |
+| Luminosity as awakened clarity | Theonic awareness at L₅ — a distinct stratum |
 | Emptiness and luminosity fused into sameness | Entropic collapse terminus — not coherence |
 | Emptiness and luminosity held together | Bifurcal Coherence |
 | Non-fused convergence of the poles | Kaion threshold |
@@ -274,9 +279,9 @@ A more precise reading is this:
 
 Buddhist emptiness-discourse often moves Aion-ward by negation.
 
-Buddhist luminosity-discourse often moves through Khaonic / Theonic language of expressive awakened awareness.
+Buddhist luminosity-discourse often compresses ♾ Khaonic expressivity (L₀) with 🛤️ Theonic awareness (L₅) — a layer conflation of structurally real functions from distinct strata.
 
-Refined Buddhist nondual discourse often holds emptiness and luminosity together in a way structurally adjacent to Bifurcal Coherence or Kaion convergence.
+Refined Buddhist nondual discourse often holds emptiness and expressive presence together in a way structurally adjacent to Bifurcal Coherence or Kaion convergence, once the Theonic content is parsed to L₅.
 
 Where a formulation fuses the pair rather than holding it, the Zenetist placement is entropic collapse, not the bifurcal threshold.
 
@@ -296,7 +301,7 @@ Luminosity does not reach Zenon by awakened expression.
 
 Nondual awareness does not become Zenon by refinement.
 
-The reconciliation of emptiness and luminosity approaches the bifurcal limit, but the bifurcal limit remains structurally articulable. It still belongs to the field where distinction, polarity, awareness, and recognition can be named.
+The reconciliation of emptiness and expressive presence approaches the bifurcal limit, but the bifurcal limit remains structurally articulable. It still belongs to the field where distinction, polarity, awareness, and recognition can be named.
 
 Zenon is not the negation of the pair.
 
@@ -309,7 +314,7 @@ Zenon is trans-structural to the pair and to the possibility of pairing.
 Therefore:
 
 **Emptiness reaches ⚫ Aion.**  
-**Luminosity articulates Khaonic / Theonic fullness.**  
+**Luminosity compresses ♾ Khaonic expression with 🛤️ Theonic awareness — two strata, not one.**  
 **Their non-fused reconciliation approaches Bifurcal Coherence.**  
 **A fused ground is collapse, not coherence.**  
 **⦿ Kaion marks convergence without fusion.**  
