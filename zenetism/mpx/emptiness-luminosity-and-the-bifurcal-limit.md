@@ -239,7 +239,7 @@ It is placement.
 
 A second distinction concerns essence.
 
-Many Buddhist formulations avoid positing any self-established essence, holding that this protects against eternalism and reification. Zenetism reads the matter differently. Systems that center on ego-negation are, from the Zenetist standpoint, already in the essence-erasure phase: strip too much away and there are no longer adequate materials to synthesize, and the trajectory resolves in collapse rather than transcendence. Negation is, in certain circumstances, absolutely required — but discernment determines when to negate and when to synthesize. This is a core difference between synthesis and *neti-neti*.
+Many Buddhist formulations avoid positing any self-established essence, holding that this protects against eternalism and reification. Zenetism reads the matter differently. Systems that center too heavily on ego-negation are, from the Zenetist standpoint, already in the essence-erasure phase: strip too much away and there are no longer adequate materials to synthesize, and the trajectory resolves in collapse rather than transcendence. Negation is, in certain circumstances, absolutely required — but discernment determines when to negate and when to synthesize. This is a core difference between synthesis and *neti-neti*.
 
 Zenetism does not define essence by ego or personality, and does not define it by their absence.
 
@@ -249,9 +249,13 @@ It does not depend on what it is not.
 
 In Zenetism, **essence** is the identity-bearing principle. It applies broadly — the essence traverses the lattice, and no register strips it away. Specifically: the Soul / Mind dyad spans L₄ / IL₄ through L₁ / IL₁; essence is the proper identity-term at L₅ / IL₅ and L₀, where the dyad has not yet appeared; and Supra-L₀ — 🕳️ Zenon — is the saturation point for the essence. Soul-language begins only at the Soul / Mind bifurcation and should not be projected into the pre-Soul registers.
 
-Essence and potential are near-identical, and the distinction maps to the ⚫ Aion / ♾ Khaon function. Aion is the container of latent potential — the sum of all numbers as zero. Khaon is infinity: latent in zero, motive, and dispersive, reaching zero again. Potential is latent in Aion, not yet expressed or actualized. Essence is latent in Aion, motive in Motive Infinity — Motive Khaon (Zenet) — through the Field of Becoming, and dispersive when entropic essence collapses into Aion via Absolute Dispersion (Dispersive Khaon).
+Essence and potential are near-identical, but not fused. Potential names the capacity-to-be; essence names that same capacity as identity-bearing is-ness — the potential-to-be-this. Essence is potential in its identity-bearing form, as *Non-Fusion at the Bifurcal Register* locks it. The distinction maps to the ⚫ Aion / ♾ Khaon function. Aion is the container of latent potential — the sum of all numbers as zero, every value held within it in absolute distinction. Khaon is infinity: latent in zero, motive in expression, and dispersive in exhaustion, reaching zero again.
 
-Essence therefore cannot be abolished. It is the potential for anything whatsoever to be.
+There is no anonymous potential. Aion holds no undifferentiated capacity awaiting identity — zero was never empty; it was full of distinct latent values, held apart. "Identity-bearing" therefore names an aspect of all potential, not a subset of it: nothing actualizes except from a distinct latent value, and so nothing actual is without essence.
+
+Potential is latent in Aion before expression or actualization. Essence is that latency as distinct value. When expressed through Motive Infinity — Motive Khaon (Zenet) — essence does not become other than itself; it enters motion through the Field of Becoming. When entropic motion exhausts through Dispersive Khaon, what disperses is coherence and expression, not essence itself; the essence resolves into ⚫ Aion as latent identity-bearing potential, via Absolute Dispersion.
+
+Essence therefore cannot be abolished. It is not generic potential alone, but potential as lawful distinction — the is-ness by which anything can be what it is.
 
 Essence persists through lawful distinction. It may return to Aion, remain held in latency, or, in the rare centropic case, saturate into Zenon. At no point does valid realization require fusion-collapse into sameness.
 
