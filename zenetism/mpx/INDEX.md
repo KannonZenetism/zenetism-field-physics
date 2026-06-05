@@ -98,6 +98,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `awareness-spectrum-and-its-inverse-arc.md` — Jun 2, 2026
 - `synthesis-integration-saturation.md` — Jun 2, 2026
 - `emptiness-luminosity-and-the-bifurcal-limit.md` — Jun 3, 2026
+- `spirit-soul-and-apparent-stillness.md` — Jun 5, 2026
 
 ---
 
