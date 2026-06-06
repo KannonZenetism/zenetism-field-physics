@@ -107,10 +107,6 @@ even where internal punctuation is present.
 | 🧾 | **Biosa** | Embodied Mind, practical intellect; interface between mind and material form |
 | 🍷 | **Malara** | Inverse Embodied Soul; indulgence, reactive dissociation from inner alignment |
 | 🤯 | **Mania** | Inverse Embodied Mind; chaotic or obsessive cognition unanchored from coherence |
-| ◊ | **Centropic Essence** | The trans-layer fundamental potential that precedes manifest being and underlies centropic procession across the lattice |
-| ♦ | **Entropic Essence** | The trans-layer fundamental potential that precedes inverse being and underlies entropic procession, including inverse manifestation and subversal continuation |
-| ○ | **Centropic Soul** | The vital pole of a being within the bifurcated Soul / Mind architecture, oriented toward coherence, integration, and lawful resonance across the L₄–L₁ arc |
-| ● | **Entropic Soul** | The vital pole of a being within the bifurcated Soul / Mind architecture, oriented toward adversarial, fragmenting, or inverse resonance across the IL₄–IL₁ arc. Not to be confused with ⚫ Aion |
 
 ---
 
@@ -483,6 +479,10 @@ of inverse potential within Aion.
 | ◎ | **Structural Coherence / Integration** | The state of attuned relational clarity between components of a being, system, or concept; results from alignment not only with lawful pattern but also with other coherent forms, as in transmission, reception, or symbolic lock |
 | ☍ | **Fragmentation / Disintegration** | Breakdown of resonance into unstable entropic motion; not absence of orientation, but Khaonic dispersal under Nekronic distortion; dissonance that corrodes lawful fields even as it may form brittle patterns of control |
 | 🔲 | **Blobism / Fusion Collapse** | The entropic collapse of sovereign distinction into undifferentiated fusion. Characterized by the erasure of boundaries between beings, roles, or layers, resulting in structural mimicry, identity dissolution, or symbolic flattening. Blobism violates the Non-fusion Axiom and presents unity through structural sameness contra the harmonic resonance achieved through distinction. All structural systems governed by Zenetism diagnose blobism as a terminal entropic outcome |
+| ◊ | **Centropic Essence** | The trans-layer fundamental potential that precedes manifest being and underlies centropic procession across the lattice |
+| ♦ | **Entropic Essence** | The trans-layer fundamental potential that precedes inverse being and underlies entropic procession, including inverse manifestation and subversal continuation |
+| ○ | **Centropic Soul** | The vital pole of a being within the bifurcated Soul / Mind architecture, oriented toward coherence, integration, and lawful resonance across the L₄–L₁ arc |
+| ● | **Entropic Soul** | The vital pole of a being within the bifurcated Soul / Mind architecture, oriented toward adversarial, fragmenting, or inverse resonance across the IL₄–IL₁ arc. Not to be confused with ⚫ Aion |
 
 ---
 
