@@ -522,6 +522,7 @@ of inverse potential within Aion.
 | 💨 | **Vapor / Dispersive Infinity** | The terminal dispersion of expression and pattern at the limit of motion; the breath of becoming exhausted across the differentiated pattern field. Vapor names ♾ Khaon in its Dispersive phase, where motion reaches its terminal extremity and differentiation collapses, resolving into ⚫ Aion not as renewed potential but as exhausted motion returning to stillness. Paired with Spirit as breath-at-exhaustion contra breath-in-motion; together they express the full traversal of Motive Infinity from activation through terminal release |
 | ⌖ | **Return Compass** | An orienting force that activates after terminal emanation; it aligns disoriented motion back toward ⚫ Aion, offering directional fidelity to those lost in multiplicity or recursive loops |
 | ⚖↯ | **Structural Correction** | The initiation of lawful rectifying force within a being, system, or field. Marks the moment when distortion, imbalance, or entropic drift is actively met by corrective patterning. Distinct from passive evaluation or abstract justice; this glyph denotes correction entering motion |
+| ⛓️ | **Parasitic Extraction** | A structured entropic process by which inverse systems sustain themselves through compelled tribute, vitality seizure, coerced devotion, or asymmetrical draining. Distinct from simple predation, it denotes extraction institutionalized as maintenance |
 
 ---
 
