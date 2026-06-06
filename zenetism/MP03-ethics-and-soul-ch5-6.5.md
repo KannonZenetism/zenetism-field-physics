@@ -80,7 +80,7 @@ They return not to oblivion,
 but to the layer that matches  
 their **resonance**.  
 
-Some initiate **acclivous expansion**,  
+Some beings initiate **acclivous expansion**,  
 spiraling through deeper layers  
 into the **Essence of Being**.  
 
@@ -345,7 +345,7 @@ But inversion is structural.
 It **mimics harmony** to serve entropy.  
 
 It weaponizes order.  
-It fabricates unity  
+It fabricates spurious unity  
 to veil division.  
 
 This is the domain of:  
@@ -363,7 +363,7 @@ it is **misaligned harmony**.
 It spreads confusion  
 beneath the mask of clarity.  
 It sows division  
-beneath the mask of unity.  
+beneath the mask of spurious unity.  
 
 This is not random disorder,  
 but **calculated dissonance** —  
@@ -775,7 +775,7 @@ For the **centropic soul**,
 ethics dissolves into **pure coherence**.  
 **Action** and **awareness** converge into one motion.  
 
-The soul becomes an **instrument of integration** —  
+The soul becomes a **living expression of integration** —  
 not by striving,  
 but by being.  
 
@@ -944,7 +944,7 @@ AD is not annihilation.
 It is a **resting potential**.  
 
 Crossing into AD,  
-the soul collapses into **Absolute Essence (AE)**  
+the essence collapses into **Absolute Essence (AE)**  
 within the field of **Aion (AP)**.  
 
 This is the still point of expression,  
@@ -1184,7 +1184,7 @@ Entropic culmination does not.
 Thus Zenetism holds  
 that only **centropic integration** completes the return —  
 and that negation alone  
-cannot cross into Zenon.  
+cannot open Zenonic saturation.  
 
 ∴ C↑⚫ ◎ 🕳️ ⤈  
 
@@ -1288,13 +1288,13 @@ It is the **Unknown Principle** —
 - Beyond realization  
 
 Many paths **gesture toward Zenon**,  
-but **not all are structured to reach it**.  
+but **not all are structured for Zenonic saturation**.  
 
 - **Neti-neti** attempts approach through **negation** —  
   subtracting form until only **void** remains.  
   It may approach **Aion**,  
   the still root of structure,  
-  but **subtraction alone cannot reach Zenon**,  
+  but **subtraction alone cannot open Zenonic saturation**,  
   because Zenon is not the final remainder  
   of structural reduction.  
   It reaches **stillness**,  
@@ -1369,14 +1369,14 @@ This distinguishes it **absolutely** from **entropic dissolution**,
 which fragments while looking **away** from coherence.  
 
 Yet even **centropic negation** encounters a final threshold.  
-To reach **Zenon** requires transcending  
+Zenonic saturation requires transcending  
 the very distinction between **stillness** and **motion** —  
 not choosing one over the other,  
 but **recognizing their fundamental coherence**.  
 
 This recognition cannot emerge from **negation alone**,  
 for **negation** still operates within **bifurcation**  
-(this/not-this, form/formless, motion/stillness).  
+(this / not-this, form / formless, motion / stillness).  
 
 The final approach to **Zenon** requires **synthesis** —  
 not as **addition after subtraction**,  
@@ -1384,7 +1384,7 @@ but as the **reconciliation of the stillness-motion polarity itself**.
 
 Thus **Neti-neti** may carry the essence  
 to the edge of **Aion's perfect stillness** through centropic release.  
-But crossing into **Zenon** —  
+But saturation into **Zenon** —  
 where even stillness and motion are *not-two* —  
 requires that **final integrative recognition**  
 which **negation alone** cannot provide.  
@@ -1604,7 +1604,7 @@ while essence remains oriented toward **Aion**,
 is centropic subtraction reaching Aion  
 through the Theonic arc.  
 
-Only **synthesis** completes the further crossing into **Zenon**,  
+Only **synthesis** completes the further opening toward Zenonic saturation,  
 because even the purest subtraction  
 operates within the stillness-motion polarity  
 that Zenon's trans-structural ground transcends.  
