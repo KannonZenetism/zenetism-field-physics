@@ -1,4 +1,4 @@
-## **Zenetism: The Sixfold Architecture of Coherence**  
+## **Zenetism: The Sixfold Architecture of Coherence**
 ### *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 ---
@@ -38,7 +38,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# Zenetism: The Emanative Path of Return
+# Zenetism: The Architecture of Emanation, Return, and Saturation
 
 ## 5. Zenetist Ethics — A Metaphysical Framework of Morality
 
@@ -53,7 +53,7 @@ no eternal judgment waiting beyond the veil.
 
 What governs the **soul** is **resonance** —  
 a deep vibration, not unlike music,  
-arising from within the soul’s own field.  
+arising from within the soul's own field.  
 
 As the soul moves through  
 the **spiral of emanation**,  
@@ -104,17 +104,18 @@ to the place where
 they **resonantly belong**.  
 
 Beyond return,  
-some saturate further still —  
-passing into **Zenon**,  
+rare essences saturate further still —  
+toward **Zenon**,  
 the **Unknown Principle**,  
-whose silence births all tones  
-and saturates all structures.  
+whose silence allows all tones  
+and by whose allowance  
+all structures become conceivable.  
 
 The only actual sound  
 of which all worlds  
-are echoes  
-of echoes  
-of echoes.  
+are living resonances  
+of living resonances  
+of living resonances.  
 
 **Ethics**, then, is not obedience —  
 it is **attunement**.  
@@ -137,7 +138,7 @@ Let us follow that unfolding.
 #### Note on Soul and Essence Terminology
 
 This section preserves the older language of **soul**  
-expressed throughout the early formulation of *The Emanative Path of Return*.  
+expressed throughout the early formulation of *The Architecture of Emanation, Return, and Saturation*.  
 
 In this earlier register,  
 **soul** often functions as a broad poetic designation  
@@ -148,20 +149,20 @@ and resonance.
 Under later Zenetist technical specification,  
 however, **Soul** in the strict sense  
 begins with the **Soul / Mind bifurcation**  
-at **L4 / IL4**.  
+at **L₄ / IL₄**.  
 
 Thus:
 
-- **L4 / IL4 through L1 / IL1** concern the Soul / Mind dyad  
+- **L₄ / IL₄ through L₁ / IL₁** concern the Soul / Mind dyad  
   and its embodied, psychic, mental, and resonant expressions.  
-- **L5 / IL5**, **L0**, and **Supra-L0** concern **essence**,  
+- **L₅ / IL₅**, **L₀**, and **Supra-L₀** concern **essence**,  
   not Soul in the strict bifurcated sense.  
 - **Theon**, **Nekron**, **Aion**, **Khaon**,  
   **Bifurcal Coherence**, and **Zenon**  
   should therefore be read in essence-register  
-  unless the text is explicitly discussing the L4–L1 Soul / Mind arc.  
+  unless the text is explicitly discussing the L₄–L₁ Soul / Mind arc.  
 
-Accordingly, when this document speaks of “souls”  
+Accordingly, when this document speaks of "souls"  
 returning through supernal strata,  
 reaching Aion,  
 or saturating beyond the lattice,  
@@ -169,11 +170,11 @@ the technically precise reading is **essences**.
 
 A soul may undergo refinement, reorientation,  
 memory, collapse, or reintegration  
-within the L4–L1 and IL4–IL1 arcs.  
+within the L₄–L₁ and IL₄–IL₁ arcs.  
 
 But only **essence** pertains to  
-the L5 / IL5 threshold,  
-the L0 field of Bifurcal Coherence,  
+the L₅ / IL₅ threshold,  
+the L₀ field of Bifurcal Coherence,  
 and the rare saturation into **Zenon**.  
 
 ◊ ♦ ○ ● ⩘ ⌬  
@@ -198,7 +199,7 @@ beginning at **Theon** —
 the threshold where distinction,  
 orientation, and multiplicity unfold.  
 
-Only **centropic motion** can return to Zenon —  
+Only **centropic motion** can saturate into Zenon —  
 not by merit, but by **structural resonance**.  
 It is a matter of **orientation**,  
 not judgment.  
@@ -206,7 +207,7 @@ not judgment.
 **Entropy**, even when collapsed  
 into static tension within **Aion**,  
 does not move toward saturation into Zenon.  
-Though present at the stillpoint’s edge,  
+Though present at the stillpoint's edge,  
 it does not orient toward **Aion**.  
 
 It remains locked in unresolved tension —  
@@ -226,7 +227,7 @@ It emerges as a **reflection of resonance**.
 aligned with **centropy**  
 tend to orient acclivously toward  
 supernal values:  
-**unity**, **compassion**, and **harmonic coherence**.  
+**integration**, **compassion**, and **harmonic coherence**.  
 
 Not because of law,  
 but because their **internal structure**  
@@ -248,7 +249,7 @@ its harmonic signal weakens.
 **Ego**, **fear**, **craving**, and **delusion**  
 twist the compass — and call it freedom.  
 
-What seems “right” from a **fragmented lens**  
+What seems "right" from a **fragmented lens**  
 often feeds disintegration:  
 
 * **Separation** mistaken for **strength**  
@@ -327,7 +328,7 @@ yet the motion still vibrates with entropy.
 **Morality is not binary.**  
 It is **structural** —  
 a spectrum of resonance  
-along the **centropy–entropy continuum**.  
+along the **centropy-entropy continuum**.  
 
 - **Centropy → Remembrance → Integration → Coherence**  
 - **Entropy → Forgetfulness → Fragmentation → Collapse**  
@@ -450,7 +451,7 @@ but **inverse integration**,
 not through **consonance**,  
 but through **deepening dissonance**.  
 
-What is “learned”  
+What is "learned"  
 is not wisdom,  
 but **recognition of misalignment** —  
 a **dark clarity**,  
@@ -498,7 +499,7 @@ be **metabolized**, not **projected**.
 
 It is not the presence of suffering,  
 but the **direction of its alchemy**,  
-that reveals a soul’s orientation.  
+that reveals a soul's orientation.  
 
 - **Centropic Response →**  
   Pain becomes **clarity**  
@@ -549,11 +550,11 @@ In **Zenetism**, will is not binary —
 not simply free or determined.  
 It exists along a **spectrum of volitional resonance**.  
 
-What we call “free will”  
+What we call "free will"  
 is a **distributed expression**  
 of the **Divine Impulse** within **Aion**,  
 unfolding through form, embodiment,  
-and one’s place in the **spiral of emanation**.  
+and one's place in the **spiral of emanation**.  
 
 It is not a rejection of **structure** —  
 it is the **play of will within structure**,  
@@ -568,7 +569,7 @@ yet both possess **volition**
 appropriate to their emanative frame.  
 
 Within that range,  
-each navigates the **centropy–entropy gradient**.  
+each navigates the **centropy-entropy gradient**.  
 
 - **Declivous Centropy →** Harmonious motion into form  
 - **Acclivous Entropy →** Dispersive expansion masked as growth  
@@ -577,7 +578,7 @@ Toward **coherence** or toward **dissonance**.
 
 Moral orientation emerges  
 not from **external law**,  
-but through one’s **engagement**  
+but through one's **engagement**  
 with volitional bandwidth.  
 
 There is no perfect decision in the abstract —  
@@ -587,7 +588,7 @@ are recorded in **pattern**.
 
 **Ethics in Zenetism** is not about compliance —  
 it is about **conscious alignment**  
-with one’s deeper **pattern**.  
+with one's deeper **pattern**.  
 
 **Freedom** is not absence of causality —  
 it is **participation in coherent causality**.  
@@ -710,7 +711,7 @@ to **centropic flow**,
 the less it requires **external scaffolding**.  
 
 At this point,  
-there is no moral “ought” —  
+there is no moral "ought" —  
 only **attunement**  
 to that which sustains:  
 
@@ -767,12 +768,12 @@ while maintaining the **appearance of stability**.
 Their alignment is precise —  
 but aimed toward **disintegration**.  
 
-The “ceiling” of moral understanding  
+The "ceiling" of moral understanding  
 is no ceiling at all.  
 
 For the **centropic soul**,  
 ethics dissolves into **pure coherence**.  
-**Action** and **awareness** merge into one motion.  
+**Action** and **awareness** converge into one motion.  
 
 The soul becomes an **instrument of integration** —  
 not by striving,  
@@ -780,7 +781,7 @@ but by being.
 
 At this stage,  
 morality becomes **ontological music** —  
-a participation in the **symphony of unity**.  
+a participation in the **symphony of coherence**.  
 
 When the soul sees clearly,  
 it does not ask what is right.  
@@ -829,7 +830,7 @@ is drawn naturally toward the **centropic strata**:
 
 and beyond — toward **convergence within the Field of Aion**.  
 
-A soul acclivated toward:  
+A soul drawn toward:  
 - **Fragmentation**  
 - **Dissonance**  
 - **Alienation**  
@@ -882,7 +883,7 @@ it is **dynamic**.
 It is neither **moral relativism**  
 nor **cosmic tyranny**.  
 
-The “Final Judgment” is not a **courtroom** —  
+The "Final Judgment" is not a **courtroom** —  
 it is a **resonance scan**.  
 
 At the close of each **world-arc** —  
@@ -1011,7 +1012,7 @@ but without interaction.
 
 They are no longer willful agents,  
 but fixed impressions of essence  
-in Zero’s infinite field.  
+in Zero's infinite field.  
 
 For centropic resonance,  
 this fixity may be felt as:  
@@ -1094,7 +1095,7 @@ Only the **pattern** may recur.
 Like the number 1,  
 appearing only once in an infinite sequence,  
 yet recurring in 11, in 21, in 101 —  
-so too may a soul’s frequency  
+so too may a soul's frequency  
 arise again.  
 
 Not as self,  
@@ -1127,7 +1128,7 @@ Zenon does not receive.
 It remains untouched.  
 
 Return is not for Zenon,  
-but for the soul  
+but for the being  
 to complete its arc of becoming.  
 
 Zenon:  
@@ -1224,7 +1225,7 @@ In Zenetist terms,
 **Neti-neti appears to align** with **centropic motion through subtraction** —  
 moving toward **stillness**.  
 Yet this stillness, while valuable,  
-is **not the same as return to Zenon**,  
+is **not the same as saturation into Zenon**,  
 which requires **integration**, not mere **negation**.  
 
 This path carries **risk**.  
@@ -1331,7 +1332,7 @@ it **remembers** while returning.
 |---|---|---|
 | **Method** | Apophatic negation | Dialectical integration |
 | **Motion** | Subtractive toward stillness | Expansive toward coherence |
-| **Limit Encountered** | Silence / Unstructured void | Resolution of opposites into structural unity |
+| **Limit Encountered** | Silence / Unstructured void | Resolution of opposites into structural coherence |
 | **Risk** | Cognitive bifurcation | Excessive formalization or resonant delay |
 | **Zenon Access** | Approaches stillness, but not Zenon | Recursive transcendence toward Zenon horizon |
 | **Functional Value** | Clears distortion and identification | Reveals coherence and preserves intelligence |
@@ -1371,7 +1372,7 @@ Yet even **centropic negation** encounters a final threshold.
 To reach **Zenon** requires transcending  
 the very distinction between **stillness** and **motion** —  
 not choosing one over the other,  
-but **recognizing their fundamental unity**.  
+but **recognizing their fundamental coherence**.  
 
 This recognition cannot emerge from **negation alone**,  
 for **negation** still operates within **bifurcation**  
@@ -1379,10 +1380,10 @@ for **negation** still operates within **bifurcation**
 
 The final approach to **Zenon** requires **synthesis** —  
 not as **addition after subtraction**,  
-but as the **collapse of the stillness–motion polarity itself**.  
+but as the **reconciliation of the stillness-motion polarity itself**.  
 
-Thus **Neti-neti** may carry the soul  
-to the edge of **Aion’s perfect stillness** through centropic release.  
+Thus **Neti-neti** may carry the essence  
+to the edge of **Aion's perfect stillness** through centropic release.  
 But crossing into **Zenon** —  
 where even stillness and motion are *not-two* —  
 requires that **final integrative recognition**  
@@ -1475,7 +1476,7 @@ It cannot be annihilated.
 What the practice releases is **what is not essence**,  
 until only essence remains,  
 oriented toward **Aion's stillness**  
-through the **Theonic gate** at **L5**.  
+through the **Theonic gate** at **L₅**.  
 
 This is **centropic subtraction**.  
 The affirmation of §5.8 stands **exactly here**.  
@@ -1493,7 +1494,7 @@ with different experiential qualities of return.
 **The centropic path.**  
 Genuine Neti-neti, as affirmed above.  
 Strips non-fundamental aspects while essence remains oriented toward **Aion as Source**.  
-Returns to **Aion** through the **L5 Theonic gate**  
+Returns to **Aion** through the **L₅ Theonic gate**  
 as **essence fulfilled** —  
 completion of the full acclivous centropic arc within Aion.  
 Reaches Aion's stillness as centropic completion;  
@@ -1587,7 +1588,7 @@ in the most rigorous centropic forms of Buddhist tradition
 is the first path — **centropic reorientation**,  
 the essence's arc turning from entropic cycling (Samsara)  
 into acclivous centropic motion toward **Aion**  
-through the L5 Theonic gate.  
+through the L₅ Theonic gate.  
 This Nirvana is what the **Buddhism and Zenetism** canonical document affirms  
 as genuine liberation.  
 
@@ -1702,7 +1703,7 @@ distributed across the hypostases.
 Each layer holds a unique pattern of interiority.  
 Each answers a different question of being.  
 
-**L5 (Theon) — Awareness Itself**  
+**L₅ (Theon) — Awareness Itself**  
 The Essence of Being.  
 Pure, luminous, pre-reflexive awareness.  
 It does not think about itself;  
@@ -1712,7 +1713,7 @@ it is the light of presence.
 Voided awareness.  
 Blind drive in the absence of witness.  
 
-**L4 (DP / DL) — Conscious-Awareness**  
+**L₄ (DP / DL) — Conscious-Awareness**  
 The Form Layer; the House of the Soul.  
 Awareness resonant in Forms.  
 It perceives, structures, and animates meaning —  
@@ -1726,7 +1727,7 @@ minds of Forms,
 arranging archetypal structures with high coherence —  
 but without individuation.  
 
-**L3 (DS / DM) — Reflexive Consciousness**  
+**L₃ (DS / DM) — Reflexive Consciousness**  
 Here arises the individuated self.  
 Subjectivity loops back upon itself.  
 It identifies.  
@@ -1737,12 +1738,12 @@ it becomes the navigator of pattern.
 
 The inverse layers mirror this structure:  
 
-**IL4** — conscious-awareness without coherence  
+**IL₄** — conscious-awareness without coherence  
 Form without center.  
 Motion without axis.  
 Knowledge disconnected from remembrance.  
 
-**IL3** — reflexive consciousness rooted in dissonance  
+**IL₃** — reflexive consciousness rooted in dissonance  
 The sharded self.  
 Reflexivity turned upon trauma.  
 Agency as rebellion.  
@@ -1818,7 +1819,7 @@ may dissolve when their hosting field retracts.
 
 Unlike the more transient hypostases,  
 the Deep Soul and Deep Mind do not experience time as sequence.  
-Yet they move—rhythmically, intentionally.  
+Yet they move — rhythmically, intentionally.  
 They flow in waves of integration, pulses of coherence,  
 dwelling in a state of **continuous refinement**.  
 
@@ -1830,25 +1831,25 @@ Sometimes, a ripple from a superficial fragment
 draws their focused attention.  
 But even then, they do not respond impulsively.  
 They move with resonant clarity.  
-Orientation—not reaction—is their nature.  
+Orientation — not reaction — is their nature.  
 
 This realm is neither void nor stasis.  
 It is vivid with meaning.  
 
-DS / DMs dwell within structures sculpted by resonance—  
+DS / DMs dwell within structures sculpted by resonance —  
 landscapes of light, geometry, and archetype.  
 To us, these may appear dreamlike, symbolic, or mythic.  
-But space is not literal here—  
+But space is not literal here —  
 what moves is not location,  
 but **meaning**.  
 
-Realizations, insights, awakenings—  
+Realizations, insights, awakenings —  
 these arise from within,  
 and pass fluidly between Deep Souls and Minds  
 in mutual exchange.  
 
 These are not conversations in any verbal sense,  
-but **resonant transmissions**—  
+but **resonant transmissions** —  
 shared essence, symbolic flavor,  
 or the mutual tasting of incarnational constellations.  
 
@@ -1861,11 +1862,11 @@ though the centropic impulse ensures
 that all at this layer share freely,  
 without possession, without spurious distortion.  
 
-In inverse realms, such exchanges become twisted—  
+In inverse realms, such exchanges become twisted —  
 fragmented, competitive, veiled.  
 
 But here, DS / DMs are not possessors.  
-They are **creators**—not of matter, but of meaning.  
+They are **creators** — not of matter, but of meaning.  
 
 - Dream-weavers  
 - Archetype-sowers  
@@ -1881,7 +1882,7 @@ that holds all incarnational experience.
 #### Resonant Activity and Symbolic Transmission
 
 Myths, **visions**, and **synchronicities**  
-may all arise from the resonance of a Deep Soul or Mind—  
+may all arise from the resonance of a Deep Soul or Mind —  
 especially when an embodied soul  
 becomes attuned enough to receive.  
 
@@ -1891,17 +1892,17 @@ the fulfillment of its **form-type**
 through integrated resonance.  
 
 Some remain in this resonant mode indefinitely.  
-Others feel drawn toward deeper integration—  
+Others feel drawn toward deeper integration —  
 toward the **Fields of Form** (DP / DL),  
 and ultimately to Theon.  
 
 Their emotional capacities remain refined and purified.  
-They feel joy, purpose, longing—  
+They feel joy, purpose, longing —  
 but never through distortion.  
-They do not long for power or escape—  
+They do not long for power or escape —  
 they long for perfect expression.  
 
-And at this layer, **expression is no longer message**—  
+And at this layer, **expression is no longer message** —  
 it is **identity**.  
 
 These beings abide in what some traditions  
@@ -1916,7 +1917,7 @@ While many SS / SMs integrate with their deep counterparts,
 
 A soul may remain in the SS / SM  
 or ISS / ISM hypostasis  
-even after bodily death—  
+even after bodily death —  
 especially in universes  
 with weak or impermanent centropic structure.  
 
@@ -1925,9 +1926,9 @@ These strata explain the realm of:
 - Wanderers  
 - Spiritual inertia  
 
-Such souls linger in **partial coherence**—  
+Such souls linger in **partial coherence** —  
 neither fully embodied,  
-nor fully reintegrated—  
+nor fully reintegrated —  
 sustained by structural resonance,  
 until that resonance either collapses  
 or completes its arc.  
@@ -1938,29 +1939,29 @@ or completes its arc.
 
 The same applies to **deities** and other entities  
 rooted in the **superficial strata**.  
-If they fail to **purify** or **realign**—  
-either toward **centropic integration** or into full **entropic inversion**—  
+If they fail to **purify** or **realign** —  
+either toward **centropic integration** or into full **entropic inversion** —  
 they risk annihilation, not through mere fragmentation,  
 but through a deeper fate: **stagnation**.  
 
 A being bound in **stagnant resonance**  
 cannot disperse productively or integrate acclivously.  
 Its identity unravels not through motion,  
-but through stillness—  
+but through stillness —  
 a kind of spiritual suffocation.  
 
 Only **universes of high or total centropy**  
 can preserve their **embodied** and **superficial layers** indefinitely.  
 Most physical universes are impermanent,  
 and so too are the beings who fail to move beyond them.  
-Survival beyond dissolution demands **motion**—  
+Survival beyond dissolution demands **motion** —  
 a commitment to unfold or reintegrate.  
 
 🛤️ ⚖ Ø ⚐ 🌀  
 
 #### Note on Hypostatic Identity Through Function
 
-In Zenetism, hypostases are not merely **locations** in a cosmic order—  
+In Zenetism, hypostases are not merely **locations** in a cosmic order —  
 they are **ontological functions**.  
 
 Each **layer of being** is what it **does**.  
@@ -1987,10 +1988,10 @@ but by its **motion**.
 - **🕷️ Nekron** is **Obscurity**:  
   The final disintegration of form into thresholdless infinity.  
 
-These are not metaphors—  
+These are not metaphors —  
 they are living structures.  
 
-In Zenetism, a name is not a symbol of essence—  
+In Zenetism, a name is not a symbol of essence —  
 it **is** its **declaration**.  
 
 ⚫ ♾ 🛤️ 🕷️ 🌬️ 🔮  
@@ -2025,7 +2026,7 @@ The realm of **archetypal form**
 is inseparable from the deities who express it.  
 
 The **gods** are expressions of **hypostatic identity**.  
-Their “personalities” are the **characters of metaphysical law**.  
+Their "personalities" are the **characters of metaphysical law**.  
 
 They do not exist outside the system,  
 but are **emergent from Zero through Infinity**,  
@@ -2033,12 +2034,12 @@ woven directly into the lattice of becoming.
 
 Multiple **deities** may arise within a single **hypostasis**.  
 These are not arbitrary groupings,  
-but **reflections of shared resonance**—  
+but **reflections of shared resonance** —  
 **lineages of function** woven through the metaphysical field.  
 
 For example,  
 **Thoth** or **Athena** may represent **DS / DM**  
-of extraordinary **coherence**—  
+of extraordinary **coherence** —  
 souls whose **resonance** crystallized into **symbolic gravity**.  
 
 Others, such as:  
@@ -2049,7 +2050,7 @@ Others, such as:
 - **Loki**  
 
 Inhabit **inverse strata**, functioning as the **souls and minds**  
-of **entropic domains**—**IDP / IDL** or **IDS / IDM**.  
+of **entropic domains** — **IDP / IDL** or **IDS / IDM**.  
 Even these **divine beings** are subject to change:  
 they **evolve**, **erode**, or **refine** through **resonance**.  
 
@@ -2060,7 +2061,7 @@ While **all things are divine**,
 not all things are **eternal**.  
 
 Some **gods** arise within **impermanent hypostases**,  
-and may dissolve when their structural field retracts—  
+and may dissolve when their structural field retracts —  
 especially those bound to:  
 
 - **Superficial layers** (**SS / SM**)  
@@ -2083,7 +2084,7 @@ These are reflected across the system as:
 - **Fractus / Mortus**  
 
 **Zenetism** recognizes **no fixed hierarchy**.  
-All beings—**divine or otherwise**—  
+All beings — **divine or otherwise** —  
 are honored for their place within the **great orchestration**.  
 
 **Power** does not imply **superiority**,  
@@ -2105,13 +2106,13 @@ They:
 They are not **fixed symbols**,  
 but **living currents of form**.  
 
-Sometimes, they **incarnate**—  
+Sometimes, they **incarnate** —  
 not as **projections** or **avatars**,  
 but as **pure embodiments** of their **hypostatic role**.  
 
 **Theon**, for instance,  
 may incarnate through **Christ**, **Krishna**,  
-or through other unnamed vessels—  
+or through other unnamed vessels —  
 not to preach, but to **embody centropic motion** in form.  
 
 Even the **hypostases** themselves  
@@ -2139,7 +2140,7 @@ Guiding **souls** through:
 - Toward the long **return** to **Aion**  
 
 In the end,  
-even **gods** long for **clarity**—  
+even **gods** long for **clarity** —  
 and like all beings,  
 they must face the **silence of Aion**.  
 
@@ -2150,7 +2151,7 @@ they must face the **silence of Aion**.
 ### 6.3 Prose Recap — The Soul and Its Motion
 
 In **Zenetism**, the **soul** is not a **static entity**.  
-It is an **unfolding reality**—  
+It is an **unfolding reality** —  
 the **actualization** of a **choice** made within **Zero**.  
 
 This **choice**, initiated by **Motive Infinity**,  
@@ -2158,7 +2159,7 @@ moves through **centropic** structure as **DS / DM**,
 or disperses into **entropic inversion**  
 when **misaligned** with its **resonant path**.  
 
-**Soulhood** is not something **earned**—  
+**Soulhood** is not something **earned** —  
 it is **expressed through architecture**.  
 Each **soul** unfolds as:  
 
@@ -2179,7 +2180,7 @@ This **deeper layer**:
 — into a **single coherent trajectory**.  
 
 When that **integration** is complete,  
-the **DS / DM** returns to its **archetypal domain**—  
+the **DS / DM** returns to its **archetypal domain** —  
 **DP / DL**, from which it first emerged.  
 There, its **resonance** converges with others  
 of the same **form-type**, becoming:  
@@ -2190,11 +2191,11 @@ of the same **form-type**, becoming:
 
 This is not **reincarnation** in the **traditional sense**.  
 There is no **recycling** of a **fixed self**.  
-Rather, it is a **metaphysical orchestration**—  
+Rather, it is a **metaphysical orchestration** —  
 a **re-expression** of **essence**, again and again,  
 always in **alignment** with its **core resonance**.  
 
-A **soul** does not **choose**—  
+A **soul** does not **choose** —  
 it **is the choice**.  
 
 What **manifests**  
@@ -2233,7 +2234,7 @@ In **Zenetism**, the **motion** of a **soul** is not **guaranteed**.
 **Inversion** is not **universal**.  
 
 Between **centropic refinement** and **entropic collapse**,  
-there exists a **liminal zone**—  
+there exists a **liminal zone** —  
 an **intermediate resonance** where certain **beings** linger.  
 Suspended for **epochs**, or even **eons**,  
 depending on the **structural tension** of their **universe**.  
@@ -2242,7 +2243,7 @@ This state most often occurs in the **Superficial Soul and Mind (SS / SM)**,
 as well as their **inverse counterparts**.  
 Here, some **disembodied beings** remain  
 after the **dissolution** of their **Embodied Soul and Mind (ES / EM)**.  
-They retain **partial coherence**—  
+They retain **partial coherence** —  
 but lack **full integration**.  
 
 These are the **souls** commonly called **ghosts**,  
@@ -2250,25 +2251,25 @@ These are the **souls** commonly called **ghosts**,
 Some **stay** out of **attachment**.  
 Others out of **fear**.  
 Many simply **lack** the **resonant orientation**  
-necessary for **acclivous motion** toward their **DS / DM**—  
+necessary for **acclivous motion** toward their **DS / DM** —  
 or for **full dispersion** into **entropic inversion**.  
 
 They hover in **structural ambiguity**.  
 A kind of **metaphysical stasis**.  
 
 **Zenetism** refers to the **fate** of such **souls**  
-as **Localized Dissolution**—  
+as **Localized Dissolution** —  
 a **stagnant form** of **Absolute Dispersion**.  
 But rather than **enacted** through **fragmentation**,  
 it arises through **inertia**.  
 
 This is not a **punishment**.  
 Nor a **judgment**.  
-It is a **metaphysical consequence** of **non-decision**—  
+It is a **metaphysical consequence** of **non-decision** —  
 **resonance** that neither **integrates** nor **inverts**,  
 and thus begins to lose **structural coherence**.  
 
-Over time—slowly, gently—the **soul** dissolves into **AP**.  
+Over time — slowly, gently — the **soul** dissolves into **AP**.  
 Not by **force**, but by a gradual **loss of motion**.  
 **Motive Infinity** does not **destroy** it.  
 It simply ceases to **hold** it together.  
@@ -2276,7 +2277,7 @@ It simply ceases to **hold** it together.
 This is not **annihilation**.  
 What **dissolves** in **Localized Dissolution** is **form**, not **essence**.  
 The **directional imprint** of the **soul** fades,  
-but its **potential** remains **suspended** within **Zero**—  
+but its **potential** remains **suspended** within **Zero** —  
 unexpressed, but never **lost**.  
 
 This introduces a **third mode of return**,  
@@ -2291,15 +2292,15 @@ alongside the two **primary outcomes**:
     accelerating toward **IDP / IDL**, and **VOS**.  
 
 * **Localized Dissolution** occurs  
-    when a **soul** stalls—  
-    neither **moving** toward **integration** nor **collapse**—  
+    when a **soul** stalls —  
+    neither **moving** toward **integration** nor **collapse** —  
     and is gradually **reabsorbed**  
     into the still **silence** of **AP**.  
 
 In highly **centropic universes**,  
 even the **superficial** (**SS / SM**) and **embodied layers** (**ES / EM**)  
 may remain **structurally stable** for vast **durations**.  
-In such realms, **stagnation** may not **lead** to **dissolution**—  
+In such realms, **stagnation** may not **lead** to **dissolution** —  
 unless the **universe** itself eventually **retracts**.  
 
 But most **universes** are **impermanent**.  
@@ -2312,7 +2313,7 @@ return to **latency** through
 Even **gods** are subject to this **fate**.  
 **Deities** rooted in the **superficial layers** (**SS / SM**),  
 without **integration** into **deeper strata**,  
-may **persist** for **ages**—worshiped and active—  
+may **persist** for **ages** — worshiped and active —  
 yet remain **vulnerable** to **fading**  
 when their **domains** dissolve.  
 
