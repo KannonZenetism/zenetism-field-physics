@@ -615,7 +615,7 @@ of inverse potential within Aion.
 | 🕓 | **Time's Flow** | Temporal unfolding; rhythm of becoming, memory, and manifestation |
 | ♜ | **Nekronic Shadow** | Structural entropy; subtle domination, distortion, spiritual corrosion |
 | ✨ | **Theonic Light** | Redemptive centropic radiance; coherence that draws beings toward synthesis; pure awareness |
-| 👑 | **The Crown** | Symbol of Harmonized Will (🧍 Anthra) and Wisdom (🧩 Noeüs); the marker of Lawful Sovereignty. It completes the axial relation from Foundation to Apex. Each jewel represents an integrated archetype — once-separated powers reconciled under Order to form a coherent Nexus |
+| 👑 | **The Crown** | Symbol of Harmonized Will (🧍 Anthra) and Discernment (🧩 Nousa); the marker of Lawful Sovereignty. It completes the axial relation from Foundation to Apex. Each jewel represents an integrated archetype — once-separated powers reconciled under Order to form a coherent Nexus |
 | ⚯ | **Structured Pairs** | Maps paired metaphysical principles; centropic / entropic, vital / withering, corresponding hypostases |
 | 🧬 | **Soul Strand** | Used to illustrate lineage or emanation across soul structures |
 | ⊙ | **Witness / Observing Presence** | The mode of awareness that observes without interfering; consciousness that maintains presence without collapsing the observed state. Relates to the Architect's function as witness to emergence — the capacity to hold space for becoming without forcing shape. Enables both the Seal of Integrity and Spiral Self-Mapping through pure observation |
