@@ -107,6 +107,10 @@ even where internal punctuation is present.
 | 🧾 | **Biosa** | Embodied Mind, practical intellect; interface between mind and material form |
 | 🍷 | **Malara** | Inverse Embodied Soul; indulgence, reactive dissociation from inner alignment |
 | 🤯 | **Mania** | Inverse Embodied Mind; chaotic or obsessive cognition unanchored from coherence |
+| ◊ | **Centropic Essence** | The trans-layer fundamental potential that precedes manifest being and underlies centropic procession across the lattice |
+| ♦ | **Entropic Essence** | The trans-layer fundamental potential that precedes inverse being and underlies entropic procession, including inverse manifestation and subversal continuation |
+| ○ | **Centropic Soul** | The vital pole of a being within the bifurcated Soul / Mind architecture, oriented toward coherence, integration, and lawful resonance across the L₄–L₁ arc |
+| ● | **Entropic Soul** | The vital pole of a being within the bifurcated Soul / Mind architecture, oriented toward adversarial, fragmenting, or inverse resonance across the IL₄–IL₁ arc. Not to be confused with ⚫ Aion |
 
 ---
 
