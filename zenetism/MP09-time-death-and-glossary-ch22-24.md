@@ -719,11 +719,11 @@ before centropy becomes motion.
 - Bythos (Gnostic Depth and Unity)  
 - Nun, the Egyptian waters of silence  
 - The Pleroma (as pre-formal fullness,  
-  not a region of formed Aeons — see Doctrinal Note)  
+  not a region of formed Aeons — see Note on the Pleroma)  
 
 ⚫ 🔘 ⚐ 💧 ❂ ⟁  
 
-#### Doctrinal Note on the Pleroma
+#### Note on the Pleroma
 
 In this mapping, **Pleroma** is retained only where it signifies  
 pre-formal fullness or undifferentiated plenitude.  
