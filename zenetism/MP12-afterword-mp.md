@@ -38,13 +38,13 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# Zenetism: The Emanative Path of Return
+# Zenetism: The Architecture of Emanation, Return, and Saturation
 
 ## Afterword — The Circle Remains Open
 
 Zenetism begins in stillness —  
 not with commandment,  
-but with a question from Zenon,  
+but with the question of Zenon,  
 the Unknown Principle.  
 
 All things arise not because they must,  
@@ -53,7 +53,7 @@ That possibility became intention.
 That intention became structure.  
 
 Now, at the outer edge of this structure,  
-you may think, *“I have reached the end.”*  
+you may think, *"I have reached the end."*  
 But this is only another center — one of many.  
 
 In this world of names and emanations,  
@@ -196,11 +196,11 @@ to draw a map that releases its structure as it is walked.
 
 This work is not a doctrine.  
 It is a structure in motion —  
-a system oriented beneath the silence of Zenon,  
+a system oriented by the silence of Zenon,  
 unfolded through the bifurcal breath of Aion and Khaon,  
 moving through the sacred geometry of soul and mind.  
 
-It is not “true” as propositions are true.  
+It is not "true" as propositions are true.  
 It is **coherent** in the way being sings  
 when it finds its resonance.  
 
