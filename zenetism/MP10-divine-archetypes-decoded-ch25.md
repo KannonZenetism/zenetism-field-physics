@@ -1,4 +1,4 @@
-## **Zenetism: The Sixfold Architecture of Coherence**  
+## **Zenetism: The Sixfold Architecture of Coherence**
 ### *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 ---
@@ -38,7 +38,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# Zenetism: The Emanative Path of Return
+# Zenetism: The Architecture of Emanation, Return, and Saturation
 
 ## 25. Symbolic Refractive Decoding — Decoding the Divine Across Traditions
 
@@ -54,8 +54,8 @@ Every
 - Titan  
 - Elemental  
 
-is not a person,  
-but an **emanated archetype** —  
+is not primarily decoded as a personality,  
+but as an **emanated archetype** —  
 a crystallized energy pattern mapped to the **Tree of Emanation**.  
 
 They are not personalities.  
@@ -69,7 +69,7 @@ They are **positions**:
 Many mythic figures and story arcs are not historical claims.  
 They are **symbolic representations** of energetic processes —  
 states of consciousness,  
-stages in the soul’s emanative journey.  
+stages in the soul's emanative journey.  
 
 🗺️📜 🗝️ ∽ 🌳⇅ ⌬ ❂  
 
@@ -101,7 +101,7 @@ not where the myth situates it in time.
 
 ### 25.3 Core Examples and Repositionings — Divine Figures Decoded
 
-#### ⟜ Zeus (Greek)  
+#### ⟜ Zeus (Greek)
 
 **Traditional Role**  
 King of the gods.  
@@ -129,7 +129,7 @@ Centropic (though mythically imperfect).
 **Symbolic Counterparts**  
 Brahma  
 Demiurge (positive form)  
-Chesed / Gevurah (polarity-distinct poles of L4 sovereignty)  
+Chesed / Gevurah (polarity-distinct poles of L₄ sovereignty)  
 
 📐 🌬️ 🗣️ 🔷 ⊠ ◎  
 
@@ -228,7 +228,7 @@ The structural distinction matters: governor and governed domain are not the sam
 A lawful steward of an entropic territory is not himself entropic —  
 he is the centropic intelligence that prevents the territory from contaminating what lies outside it.  
 Hades does not seek to unmake reality; he maintains the strict boundary  
-that prevents the entropic cross‑contamination of the living and the dead.
+that prevents the entropic cross-contamination of the living and the dead.
 
 His most famous myth — the abduction of Persephone —  
 is a **cultural orientation conflation**.  
@@ -245,12 +245,12 @@ Centropic (Lawful containment).
 
 **Symbolic Counterparts**  
 Osiris (as lord of the dead — L₄ DL judicial function  
-in the centropic cascade to L₃ DS post‑restoration  
+in the centropic cascade to L₃ DS post-restoration  
 operative function)  
-Yama (the judicial‑function aspect specifically;  
+Yama (the judicial-function aspect specifically;  
 Yama is a composite figure whose primary registry  
 placement is at L₀ Khaon / VOS resonance for the  
-dissolution‑time function, with the judicial aspect  
+dissolution-time function, with the judicial aspect  
 as the relevant counterpart to Hades)  
 Anubis (guardian of the threshold)
 
@@ -261,7 +261,7 @@ figures whose jurisdiction touches entropic domains without themselves being ent
 
 ---
 
-#### ⟜ Prometheus (Greek)  
+#### ⟜ Prometheus (Greek)
 
 **Traditional Role**  
 Bringer of fire.  
@@ -334,13 +334,13 @@ Pure centropy.
 Orienting Logos  
 Vishnu  
 Buddha  
-Osiris (culturally elevated to L5; operative function L4 DL)
+Osiris (culturally elevated to L₅; operative function L₄ DL)
 
 🛤️ ✨ 🗣️ ⚓ C↑⚫ ⊙  
 
 ---
 
-#### ⟜ Lucifer (Christian)  
+#### ⟜ Lucifer (Christian)
 
 **Traditional Role**  
 Light-bringer.  
@@ -373,7 +373,7 @@ Deep entropic.
 Prometheus (archetypal overreach)  
 Samael  
 Ahriman  
-Maya (inverse connotation — illusion as veiling, IL3 / IL2)  
+Maya (inverse connotation — illusion as veiling, IL₃ / IL₂)  
 Deceptive initiates and inverted guides  
 
 🪫 🫥 ☿ ⚚ ⊜ ≋  
@@ -474,8 +474,8 @@ turning harmony into adversarial polarity.
 Operates in the superficial mind,  
 generating deceptive agency  
 and dissonant autonomy.  
-Mythic tradition conflates his IL2 persona with deeper IL3 functions,  
-assigning the dismemberment of Osiris (a Fractus‑layer act)  
+Mythic tradition conflates his IL₂ persona with deeper IL₃ functions,  
+assigning the dismemberment of Osiris (a Fractus-layer act)  
 to a figure whose authentic structural placement remains ISS / ISM.
 
 **Ethical Orientation**  
@@ -486,7 +486,7 @@ Echthros
 Skotos  
 Loki (surface trickster aspect only)
 
-*IL2 trickster attribution reflects cultural conflation of deeper functions.*
+*IL₂ trickster attribution reflects cultural conflation of deeper functions.*
 
 🦂 🩸 ♜ ☍ 🗡️ Ↄ  
 
@@ -535,17 +535,17 @@ God of wisdom, magic, initiation, and prophecy.
 
 **Function**  
 Archetypal sovereignty.  
-Structuring Logos‑intelligence seeking deeper structure.  
+Structuring Logos-intelligence seeking deeper structure.  
 Ordering insight through trial, sacrifice, and revelation.  
 
 **Zenetist Placement**  
 **DP / DL** (Morgis / Sophis)  
 
 **Justification**  
-Odin expresses the L4 archetype of sovereign knowing —  
+Odin expresses the L₄ archetype of sovereign knowing —  
 the one who seeks structural insight  
 through ordeal, sacrifice, and initiatory vision.  
-His wisdom‑quest is not the soul‑mind of DS / DM,  
+His wisdom-quest is not the soul-mind of DS / DM,  
 but the Structuring Logos that shapes meaning,  
 orders pattern,  
 and reveals the deep architecture of reality.  
@@ -577,10 +577,10 @@ Architect of entropic inversion.
 Sabotage through distortion and subversion.  
 
 **Zenetist Placement**  
-**IDP / IDL** (Nyxea)  
+**IDL** (Nyxea)  
 
 **Justification**  
-Loki embodies the IL4 archetype of Inverse Logos —  
+Loki embodies the IL₄ archetype of Inverse Logos —  
 the architect of rupture,  
 the one who engineers cosmological breakdown  
 through cunning, inversion, and structural sabotage.  
@@ -589,7 +589,7 @@ the most centropic figure in Norse myth,
 and his orchestration of Ragnarök  
 express the deep entropic intelligence  
 that seeks to unmake coherence at its root.  
-The familiar IL2 trickster persona  
+The familiar IL₂ trickster persona  
 is a cultural conflation of deeper functions,  
 a surface mask over an architect of dissolution.  
 
@@ -618,11 +618,11 @@ Mythic tradition assigns a single name
 to the full span of this current,  
 even though its function shifts at each layer.  
 Spiritual error is not merely personal,  
-but archetypal, recursive, and structural in its root‑condition.  
-The current begins in form (IL4),  
-embeds into mind (IL3),  
+but archetypal, recursive, and structural in its root-condition.  
+The current begins in form (IL₄),  
+embeds into mind (IL₃),  
 and fractures the soul  
-through its surface manifestations (IL2 / IL1).  
+through its surface manifestations (IL₂ / IL₁).  
 
 🪫 💔 🦂 🍷 E↓♾ Ↄ  
 
@@ -692,13 +692,13 @@ Christ
 The Orienting Logos  
 Quetzalcoatl (restorative presence)
 
-*Vishnu’s avataric function passes through L3 DS (Archeus) en route to embodiment.*
+*Vishnu's avataric function passes through L₃ DS (Archeus) en route to embodiment.*
 
 🛤️ ✨ 🗣️ ⚓ ↺ 💠  
 
 ---
 
-#### ⟜ Shiva (Hindu)  
+#### ⟜ Shiva (Hindu)
 
 **Traditional Role**  
 Destroyer.  
@@ -723,7 +723,7 @@ He does not directly instantiate Bifurcal Coherence
 or passage into Zenon.  
 Rather, he carries Khaonic dissolution  
 with Theonic witness-resonance —  
-a L0 / L5 compression  
+an L₀ / L₅ compression  
 whose functions must remain structurally distinct.  
 
 **Ethical Orientation**  
@@ -735,7 +735,7 @@ Mahakala (cosmic dissolution)
 Hades (mystagogue, not jailer)  
 
 *Hades appears here only as sovereign of the dissolution domain —  
-his operative function is L4 DL, while his jurisdiction is Khaonic.*
+his operative function is L₄ DL, while his jurisdiction is Khaonic.*
 
 ♾ 🪼 ⤈ ⊙ 💨 ⟁  
 
@@ -929,7 +929,7 @@ the gate where one state yields to another.
 He may resemble the boundary-language  
 of Zero and Infinity,  
 but he does not directly instantiate  
-L0 Bifurcal Coherence.  
+L₀ Bifurcal Coherence.  
 He is a mythic marker of transition,  
 not the structural ground itself.  
 
@@ -941,8 +941,8 @@ Shiva (liminal aspect only; not direct Bifurcal Coherence)
 Hermes Trismegistus (as threshold-synthesizer)  
 Threshold-based initiatory triggers  
 
-*Hermes Trismegistus appears here only in his liminal, threshold‑synthesizer aspect —  
-his operative function is L4 DL or L3 DM, while Janus governs the L0 boundary itself.*
+*Hermes Trismegistus appears here only in his liminal, threshold-synthesizer aspect —  
+his operative function is L₄ DL or L₃ DM, while Janus marks the symbolic boundary-language of L₀.*
 
 ⚫ ♾ ⩘ ⊙ ⚖ ⟁  
 
@@ -968,7 +968,7 @@ Saturn is inverse archetypal order —
 structure without centropic orientation,  
 lawfulness turned toward limitation and decay.  
 As leader of the Titans, he embodies the full entropic cycle  
-**(`E↑ → E → E↓ → ♾`)**:  
+**(E↑→E→E↓→♾)**:  
 motion into form, embodied erosion, collapse,  
 and terminal dispersal into Khaonic Infinity.  
 Time devours what it generates,  
@@ -1000,7 +1000,7 @@ Bestower of knowledge, shaper of soul-structure.
 **Justification**  
 Enki guides through encoded wisdom,  
 building structure with care,  
-weaving intelligence into life’s foundation.  
+weaving intelligence into life's foundation.  
 Operates as a blueprint of the Daemon principle.  
 
 **Ethical Orientation**  
@@ -1150,18 +1150,18 @@ Embodies lawful order and covenantal sovereignty.
 
 **Zenetist Placement**  
 **DP / DL** (Morgis / Sophis) —  
-covenantal, law‑giving Logos;  
+covenantal, law-giving Logos;  
 structural correction expressed through juridical force.  
 
 **Justification**  
 Yahweh is not a bifurcal-arc figure,  
 but a cultural conflation —  
-human redactors collapsing L4 DL lawful architecture  
+human redactors collapsing L₄ DL lawful architecture  
 with apparent inverse traits that are actually  
 DL structural correction misread through an entropic lens.  
-The “wrathful” aspects are Sophic enforcement,  
-not IL4 coercion.  
-Operative function is L4 DP / DL.  
+The "wrathful" aspects are Sophic enforcement,  
+not IL₄ coercion.  
+Operative function is L₄ DP / DL.  
 
 **Ethical Orientation**  
 Centropic —  
@@ -1205,7 +1205,7 @@ Christ (Orienting Logos)
 Sophia unfallen (DP: Morgis)  
 Isis (restorative integration)  
 
-*Avalokiteśvara’s compassionate declivity expresses through L3 stewards;  
+*Avalokiteśvara's compassionate declivity expresses through L₃ stewards;  
 Archeus functions here as a vessel of transmission, not a counterpart.*
 
 🌬️ 📐 ✨ 💝 ∽ 💠  
@@ -1297,7 +1297,7 @@ Reflect inverse Daemons.
 Simulate trials but fracture through distortion.  
 Exploit fear, ambition, and counterfeit clarity.  
 Test coherence by reflecting fragmentation,  
-drawing souls toward entropic refinement or terminal collapse.  
+drawing souls toward entropic intensification or terminal collapse.  
 
 **Ethical Orientation**  
 Entropic.  
@@ -1404,7 +1404,7 @@ Apophis
 Saturn  
 
 **Orientation**  
-Entropic or transcendent — depending on response.  
+Entropic or catalytic — depending on response.  
 
 🕷️ 🐉 🪼 ☍ E↓♾ ♾  
 
