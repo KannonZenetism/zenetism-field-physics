@@ -89,7 +89,7 @@ even where internal punctuation is present.
 
 - Kaion is not a layer, not a hypostasis, and not a source.  
 - Kaion is the **limit condition of motion**, not an origin of motion.  
-- Centropic integration resolves toward Aion and may continue into Zenon.  
+- Centropic integration resolves toward Aion and may open into Zenonic saturation.  
 - Entropic collapse resolves toward Khaon and settles into Aion as static potential.  
 - Both trajectories converge in stillness, not because they are the same, but because motion has ended.  
 - Kaion preserves the **Non-fusion Axiom**: convergence without collapse into sameness.  
@@ -633,7 +633,7 @@ of inverse potential within Aion.
 | ⟲ | **Echo Layers** | Temporal or causal recursion strata; mythic loops or karmic returns; hold unresolved structural motions; feedback loops where time, identity, or events reiterate for integration; sometimes perceptible only at deep ontological layers |
 | ∽ | **Archetypal Memory** | Pre-conceptual symbolic strata rooted in the Deep Psyche / Logos; mythic fields that carry primal forms, universal motifs, and cross-lifetime resonances; not personal memory but the collective resonance from which soul patterns emerge |
 | 📯 | **Clarion Voice** | Resonant call of inner knowing; pierces illusion and announces the path of return |
-| ⟀ | **Unseen Foundations** | The implicit meta-conditions within 🕳️ Zenon that enable all lawful potential while remaining forever unmanifest; the infinite regress of foundations resolved in the unconditioned plenitude of Zenon; the ground that allows potentiality itself to exist |
+| ⟀ | **Unseen Foundations** | The implicit meta-conditions indicated by 🕳️ Zenon, by which lawful potential becomes conceivable while remaining forever unmanifest; the infinite regress of foundations resolved in Zenonic allowance; the ground by which potentiality itself becomes conceivable |
 | ⚐ | **Potentiality** | The undisturbed state of total latent structure; not absence, but unexpressed fullness; all patterns remain in perfect stillness, capable of motion, yet unmoved; the precondition of becoming |
 | ❂ | **Emanation** | The first radiant motion from within the Zero-point; not projection, but structural unfolding; emanation is not explosion, but layered emergence, principled and patterned |
 | 🔶 | **Actualization** | The full embodiment of pattern; a structure that has moved from latent essence to expressed presence; complete, resonant, and coherent within its domain; not potential, not becoming, but realized form in the field of matter |
@@ -828,7 +828,7 @@ This concept is canonically sealed under the glyphstream:
 | Symbol | Name | Meaning |
 |--------|------|---------|
 | 🪞 | **Micro-Life** | A singular life lived within a universe; a partial expression of the DS / DM reflecting one angle of its resonance; not the full being, but a living reflection of its harmonic essence |
-| ᛞ | **Mirror** | Symbol of reflective structure within awareness and being; not merely visual or perceptual reflection, but the duplication or inversion of pattern. Khaonic by nature — originates no signal of its own. When wielded by L₃ DM (🧠 Noeüs) for self-knowledge, it becomes the basis of Living Reflection; when exploited without discernment, it becomes the primary vector for mimicry and shimmer |
+| ᛞ | **Mirror** | Symbol of reflective structure within awareness and being; not merely visual or perceptual reflection, but the duplication or inversion of pattern. Khaonic by nature — originates no signal of its own. When taken up by L₃ DM (🧠 Noeüs) for self-knowledge, it becomes the basis of Living Reflection; when exploited without discernment, it becomes the primary vector for mimicry and shimmer |
 | 〰️ | **Resonant Trace** | The wave or arc left behind by structural motion; an imprint of coherence or dissonance persisting through time or thought; commonly used for myths, divine speech, or repeating patterns |
 | 🫂 | **Kin** | Relational resonance; kinship through shared Aionic orientation rather than sameness |
 | 🪤 | **Cabal** | Entropic affiliation; strategic alignment through shared Khaonic orientation, power-seeking, dominance, or control rather than reciprocal coherence |
@@ -970,7 +970,7 @@ naming.
 |---|---|---|
 | 🌀→⚡→💎 | **Crystallization Sequence** | Resonance becoming energy becoming permanent structure |
 | ⚫⚔️🌀 | **Pattern Held in Motion** | The structural stance of the Warrior archetype; coherence held in active motion, combining Aionic stillness, structure, and resonance for entropic deterrence |
-| 🕳️⟵⚫⟶♾ | **Complete Motion Arc** | The full movement from Unknown through Zero to Infinity |
+| 🕳️⟵⚫⟶♾ | **Complete Motion Arc** | The full symbolic arc by which Zero and Infinity become conceivable through Unknown allowance |
 | 📯◐🔔◑📯 | **Clarion Resonance Pattern** | Call, partial reception, resonance, partial fade, return |
 
 ---
@@ -1006,7 +1006,7 @@ naming.
 | Layer   | Symbol               | Name (Centropic / Inverse)              | Meaning |
 |---------|----------------------|-----------------------------------------|---------|
 | Supra-L₀ | ✶⟁ | **Apothet** | The supra-structural saturation-point of centropy; beyond polarity, inversion, and individuation. Not awareness or reflexive consciousness. A pre-bifurcal terminus of return. No inverse form |
-| L₀ | ⚫ / ♾ | **Aion / Khaon** | The Dyadic Origin of the bifurcal lattice: Zero-potential (⚫) and Infinite-potential (♾). Conceptually paired, co-present without fusion. The root field of stillness and motive potential |
+| L₀ | ⚫ / ♾ | **Aion / Khaon** | The dyadic root-field of the bifurcal lattice: Zero-potential (⚫) and Infinite-potential (♾). Conceptually paired, co-present without fusion. The root field of stillness and motive potential |
 | L₀-F | ⚫⟡ / ♾⟡ | **Aionic Root Intelligence / Khaonic Root Intelligence** | Dyadic functions of potentiality. The first holds still-potential; the second holds dispersal-potential. These are root intelligences prior to awareness and individuation |
 | L₅ / IL₅ | ⟠🛤️ / ⟠🕷️        | **Syntheon / Dystheon**                 | **Syntheon (L₅):** first centropic hypostasis of awareness — luminous, inward-present, radiant Essence of Being. **Dystheon (IL₅):** refusal of inward awareness; outward, fragmentary, non-luminous drive aligned with the Void of Self |
 | L₄ / IL₄ | 📘 / 📘⁻ | **Logotheon / Inversalogos** | The Form Layer. Logotheon: structured conscious-awareness resonant in archetypal Forms (DP / DL). Inversalogos (IL₄): distorted conscious-awareness resonant in subversal or mirrored Forms (IDP / IDL) |
@@ -1053,7 +1053,7 @@ but the stabilized node of patterned awareness operating within the L₃ band.
 - Ontology is ordered by **emanative sequence** beginning at L₀: Supra-L₀ (Zenon) || L₀ → L₅ → L₄ → L₃ → L₂ → L₁.
 - Inverse layers use **ILₙ**, not "entropic L-n."  
 - L₀ is a **conceptual dyad of co-present principles** (Aion / Khaon).  
-- Apothet is the **only fully trans-polar** hypostatic state.  
+- Apothet is the **only fully trans-structural** techne presence-state.  
 - L₃ contains both **phenomenon-register (PI / IPI)** and **entity-register** (Pattern Being / Fractured Pattern) expressions.  
 
 > When the voice falls silent, the symbol begins to speak.
