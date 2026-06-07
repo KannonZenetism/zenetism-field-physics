@@ -87,6 +87,8 @@ This is placement, not condemnation. Implication does not automatically condemn,
 
 Held epistemically, not ontologically: at the macro layer, the chair does not appear to be ensouled; at the micro layer, its components move, and what moves participates in Spirit.
 
+If the components themselves bear soul, the configuration may be soul-hosting without being soul-bearing — a vessel of distinct souls held without fusion, while the configuration itself bears only Spirit.
+
 The diagnostic — participates in Spirit contra moves itself — is an articulation for discernment, not a foreclosure. Nothing in this entry denies interiority by definition to any structure. Non-instrumentalism is preserved: every existent bears essence and is not to be treated with contempt. The question for any given structure is whether it discloses traveler-orientation, and that is answered by discernment, never by pre-classification.
 
 ## Diagnostic Summary
