@@ -75,7 +75,7 @@ Section 2 establishes foundations (axioms, dimensions, operators). Section 3 dev
 - C₆ ◐ Phase / Liminal: reversible transitions
 - C₇ ♫ Harmonic: spectral consonance
 - C₈ ╫ Synaptic / Bridge: lawful connection
-- C₉ ∞ Non-Local Unity: coherence at distance
+- C₉ ∞ Non-Local Coherence: coherence at distance
 - C₁₀ ❋ Morphogenetic: pattern-to-form translation
 - C₁₁ ↗ Intentional / Volitional: directed manifestation
 - C₁₂ ✧ Aesthetic / Qualitative: meaning dimension
@@ -99,7 +99,7 @@ Section 2 establishes foundations (axioms, dimensions, operators). Section 3 dev
 - E₆ ◐⁻ Phase Lock: trapped liminality
 - E₇ ♫⁻ Dissonance: harmonic breakdown
 - E₈ ╫⁻ Severed: broken connection
-- E₉ ∞⁻ Distorted Entangle: mimic-unity
+- E₉ ∞⁻ Distorted Entangle: mimic-coherence
 - E₁₀ ❋⁻ Malform: formation distortion
 - E₁₁ ↗⁻ Misdirect: misdirected volition
 - E₁₂ ✧⁻ Void Aesthetic: nihilistic meaning
