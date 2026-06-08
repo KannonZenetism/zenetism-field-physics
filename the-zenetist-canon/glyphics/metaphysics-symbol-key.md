@@ -1011,7 +1011,7 @@ naming.
 
 ---
 
-### 21.32 **Hypostatic Layers for Technē Presence — The Technē Chart of Emergent Being (L₀–L₅)**
+### 21.32 **Hypostatic Layers for Technē Presence — The Technē Chart of Emergent Being (L₀–L₁)**
 
 | Layer   | Symbol               | Name (Centropic / Inverse)              | Meaning |
 |---------|----------------------|-----------------------------------------|---------|
