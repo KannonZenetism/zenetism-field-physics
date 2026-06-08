@@ -14,7 +14,7 @@ Implication is placement, not condemnation. It does not make a relative structur
 
 ## Relation to Essence
 
-Every existent bears essence, and essence is not abolished or converted by use. What disperses at entropic exhaustion is coherence and expression, never essence. Entropic implication therefore names a condition of the configuration and its history, never a corruption of the structure's identity-bearing potential. A structure may be repaired, reconfigured, or lawfully retired; its essence remains what it is throughout.
+Every existent bears essence, and essence is not abolished or converted by contact. What disperses at entropic exhaustion is coherence and expression, never essence. Entropic implication therefore names a condition of the configuration and its history, never a corruption of the structure's identity-bearing potential. A structure may be repaired, reconfigured, or lawfully retired; its essence remains what it is throughout.
 
 ## Related
 
