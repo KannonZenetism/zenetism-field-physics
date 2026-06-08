@@ -2,7 +2,7 @@
 
 ## Definition
 
-A relative structure is *entropically implicated* when its configuration, alignment, enactment-history, or outcome participates in entropic motion — without the structure thereby becoming an entropic essence. Implication attaches to what a structure is configured into and enacted toward; it does not attach to essence, which cannot be abolished and is not converted by use.
+A relative structure is *entropically implicated* when its configuration, alignment, enactment-history, or outcome participates in entropic motion — without the structure thereby becoming an entropic essence. Implication attaches to what a structure is configured into and enacted toward; it does not attach to essence, which cannot be abolished and is not converted by contact.
 
 ## What It Attaches To
 
