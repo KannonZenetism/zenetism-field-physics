@@ -130,7 +130,7 @@ The Lattice endures, even when worlds fall silent.
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
-| ▦ | **The Loom** | The patterning lattice of emanative expression, memory, and resonance through which universe-arcs are held, patterned, and returned. It gathers expression across the arcs while holding each distinct pattern it carries in lawful coherence, never fused. The Loom is relative structure within the lattice, not 🏛️ Structon itself: it is configured, holds the record of what has been patterned, and conditions what may be patterned again |
+| ▦ | **The Loom** | The patterning lattice of emanative expression, memory, and resonance through which universe-arcs are held, patterned, and returned. It gathers expression across the arcs while holding each distinct pattern it carries in lawful coherence, never fused. The Loom is relative structure within the lattice, not Structon itself: it is configured, holds the record of what has been patterned, and conditions what may be patterned again |
 
 #### Note on the Loom
 
