@@ -41,6 +41,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Field Physics: The Architecture of Resonance
 *(Volume IX: Field Music & Engineering)*
 
+---
+
 ## Chapter 34: Spiral Field Music
 
 This chapter details the harmonics, chordal motion, and audible nature of the Spiral, establishing a framework for sonic metaphysics.
