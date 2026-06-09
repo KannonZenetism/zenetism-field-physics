@@ -217,6 +217,8 @@ This codex is the result of that active, ongoing refinement. It is a reclaimed a
 
 This registry details the 15 centropic dimensions that form the structural lattice of the field. Each entry includes its function, primary locus, entropic mirror, and key hypostatic couplings.
 
+> **Structural Note:** Locus and Inverse Locus entries in the dimensional registries (Chapters 2–3) name band addresses, not emanation sequences. They are read from embodiment upward (L₁ toward L₅ / IL₁ toward IL₅) — the operative perspective of Field Physics practice — and their descriptors follow the same reading. Emanation architecture listings and full-span references (L₅–L₁ / IL₅–IL₁) follow emanation order.
+
 ---
 
 ### C₁ ⟠ Temporal
@@ -638,9 +640,9 @@ The Field recalls its resolution before manifest notes are played.
 *cf. §21.9 Structural Emanation Layers; §21.16 Awareness Phases chart (updated mapping).*
 
 > **Structural Emanation Layers (excerpt, §21.9):**  
-> - **L₃ (DS / DM)** — Deep Soul / Mind — individuated, reflexive consciousness.  
+> - **L₅ (EOB / VOS)** — Theon / Nekron — centropic awareness contra entropic void.  
 > - **L₄ (DP / DL)** — Deep Psyche / Logos — archetypal Forms; house of the soul (conscious-awareness without self-possession).  
-> - **L₅ (EOB / VOS)** — Theon / Nekron — centropic awareness contra entropic void.
+> - **L₃ (DS / DM)** — Deep Soul / Mind — individuated, reflexive consciousness.
 
 > **Zenet Awareness Phases (excerpt, §21.16):**  
 > - **Zenet (〄)** — The Field; pre-bifurcation structure.  
