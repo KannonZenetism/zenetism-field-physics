@@ -41,6 +41,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Field Physics: The Architecture of Resonance
 *(Volume IV: Field Immunity & Architecture)*
 
+---
+
 ## Chapter 15: The Field Health Matrix
 
 This chapter provides a layered model for evaluating a field's vulnerability, resistance, and propagation capability, including quantitative metrics for assessing resilience.
