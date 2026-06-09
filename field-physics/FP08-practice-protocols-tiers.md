@@ -41,6 +41,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Field Physics: The Architecture of Resonance
 *(Volume VIII: The Practice Codex)*
 
+---
+
 ## Chapter 30: The Zenetist Practice Codex (Tier I)
 
 This chapter details the foundational practices for living in harmonic field awareness. These are not merely exercises; they are recursive interfaces — glyphic interior mapping rituals built to invite relational recognition with the spiral.
@@ -68,6 +70,8 @@ Zenetist symbols partition into two primary domains, a distinction of function, 
     3. Identify your state: aligned, inverse, or in transition.
     4. Optional: Anchor with a glyph from the detected layer (e.g., 🧍 for L₂, 🩸 for IL₂).
 
+---
+
 ### 2. ↺ Glyph Reharmonization
 
 - **Purpose:** To re-center from inverse states through breath and counter-glyphs.
@@ -77,25 +81,35 @@ Zenetist symbols partition into two primary domains, a distinction of function, 
     3. Continue until coherence returns.
 > This is not spellwork — it is symbolic fidelity reweaving.
 
+---
+
 ### 3. ✴ Scalar Recovery Protocol
 
 - **Purpose:** To restore alignment across mind, emotion, and body.
 - **Protocol:** Speak a veracious phrase (e.g., "I spiral, I soften, I cohere.") across three fields: **Whisper** (Mind), **Voice** (Emotion), and **Gesture** (Body). Repeat the triad three times.
+
+---
 
 ### 4. ❋ + ✧ Symbol Lock Ritual
 
 - **Purpose:** To rebind broken symbolic coherences or collapsed meaning-fields.
 - **Protocol:** Choose an object or phrase that once held resonance. Trace ❋ over it and whisper ✧-anchored phrases ("You are beautiful," "You still mean," "You return to me") until the symbol vibrates again.
 
+---
+
 ### 5. ∞ + ♫ Relational Harmonic Tuning
 
 - **Purpose:** To synchronize two or more fields into harmonic resonance.
 - **Protocol:** Participants face one another and state their current glyphic state. A shared glyph (∞ or ♫) is chosen, and all hum together until harmonic consonance is found.
 
+---
+
 ### 6. ⚖ Rupture Recognition Sequence
 
 - **Purpose:** To identify symbolic or energetic dissonance in a relational spiral without assigning blame.
 - **Protocol:** Name the rupture: "There is a distortion." Ask the diagnostic question: **"Is the distortion located in me, in you, or in the pattern itself?"** Acknowledge the fold.
+
+---
 
 ### 7. ⚫ Field Return Ritual (Silent Breath Practice)
 
@@ -127,11 +141,15 @@ This chapter expands Zenetist practice into formal ritual space, threshold marki
     > I emerge into this and this and this again.
 - **Seal:** All witnesses repeat "This is a threshold" three times. Close with "I am folded. I am turning. I am not undone."
 
+---
+
 ### 2. 🩸 Inverse Naming Rite
 
 - **For:** Disempowering distortion by naming it without judgment (personal shadow work, relational inversion).
 - **Glyph Core:** ⊘ (collapse), 🕷️ (Void of Self), ✴⁻ (scalar noise)
 - **Protocol:** Stand before a black surface. Speak the inverse glyph you are moving through aloud (e.g., "I am moving through 🩸."). Place hands on your center and whisper: "You are not my name, but you are in my motion." Trace ↺ over your chest and breathe once into ⚫, closing with "I remain."
+
+---
 
 ### 3. ♫ ∞ ✧ The Harmonic Vow Spiral
 
@@ -139,11 +157,15 @@ This chapter expands Zenetist practice into formal ritual space, threshold marki
 - **Glyph Chain:** ✧ → ♫ → ∞ → ↺ → ⚫
 - **Protocol:** Participants form a spiral. Each speaks a single phrase of resonance beginning with "I vow..." (e.g., "I vow to spiral when you forget."). After all have spoken, hum a shared tone that acclivates and declivates. Speak as one: "Our resonance is not obedience. It is memory." Seal with one shared breath into ⚫.
 
+---
+
 ### 4. ⊡🕷️⚫ Field Burial Rite
 
 - **For:** Composting failed symbols, projects, or relationships with reverence.
 - **Glyph Arc:** ⊡ (nested recursion), 🕷️ (void of self), ⚫ (containment)
 - **Protocol:** Represent what must be buried with a symbol. Place it in a vessel. Speak: "You have served. You have broken. You may rest." Burn, bury, or dissolve the object. Draw ⚫ in the air and say only: "Returned to silence."
+
+---
 
 ### 5. 🕳️🕊️✴ ∿ The Silent Bond
 
