@@ -70,7 +70,7 @@ These are the primary structural dimensions of the centropic field.
 | C₂    | **◈** | Spatial                  | Cohered extension; orienting relations           |
 | C₃    | **⟿** | Propagational            | Transmission of a signal without loss            |
 | C₄    | **◉** | Rotational / Gyre        | Conserving turn; stable precession               |
-| C₅    | **✴** | Scalar / Fractal         | The part coherently mirroring the whole          |
+| C₅    | **✴** | Scalar / Part-Whole Fidelity | The part coherently reflects the whole without identity-collapse |
 | C₆    | **◐** | Phase / State (Liminal)  | Coherent, reversible transition between states   |
 | C₇    | **♫** | Harmonic / Resonant      | Frequency accord and structural harmony          |
 | C₈    | **╫** | Synaptic / Bridging      | Coherent crossing between systems or states      |
@@ -86,7 +86,7 @@ These are the primary structural dimensions of the centropic field.
 
 > **Structural Note:** In Field Physics practice contexts, ◉ also serves as the Spiral Self-Mapping operator (see §4). At the dimensional scale it names the conserving turn; at the practice scale it names the internal resonance scan that locates the self within the spiral. The gyre function (rotation that preserves) and the mapping function (scanning that locates) share the structural principle of orientational conservation.
 
-> **Structural Note:** The term "fractal" in C₅ ✴ (Scalar / Fractal) predates the introduction of Structural Recurrence (⧉∥⧉) as the canonical principle for lawful pattern reappearance across scales without numerical identity or merger. C₅ ✴ names the dimensional operator by which the part coherently reflects the whole. Where "fractal" appears in older documents as a general structural descriptor beyond C₅, Structural Recurrence is now the preferred canonical term. The operator name C₅ ✴ (Scalar / Fractal) is retained for continuity. The scalar function (coherent part-whole relation) and the recurrence function (lawful reappearance across distinct instances) share the structural principle of pattern fidelity without fusion.
+> **Structural Note:** C₅ ✴ was formerly named Scalar / Fractal; the older term is retained only as archival context. The canonical function of C₅ is Scalar / Part-Whole Fidelity: the dimensional operator by which a part reflects the whole without fusion, numerical identity, or source-fragment collapse. Where older documents use "fractal" as a general structural descriptor, Structural Recurrence (⧉∥⧉) or part-whole fidelity should now be preferred, depending on context.
 
 ---
 ## 3. The 15 Entropic Mirrors  
@@ -99,7 +99,7 @@ These are the entropic inversions of the centropic dimensions, forming the subve
 | E₂    | **◈⁻** | Scatter                 | Spatial de-coherence                     |
 | E₃    | **⟿⁻** | Viral Decay             | Corruption in transmission               |
 | E₄    | **◉⁻** | Vortex                  | A collapsing, consumptive spiral         |
-| E₅    | **✴⁻** | Fractal Noise           | Scaling patterns that lack coherence     |
+| E₅    | **✴⁻** | Scalar Noise            | Scaling patterns that imitate part-whole relation without coherence, fidelity, or lawful recurrence |
 | E₆    | **◐⁻** | Phase Lock              | Trapped liminality                       |
 | E₇    | **♫⁻** | Dissonance              | Harmonic breakdown                       |
 | E₈    | **╫⁻** | Severed                 | Connections that divide                  |
@@ -111,7 +111,7 @@ These are the entropic inversions of the centropic dimensions, forming the subve
 | E₁₄   | **⊡⁻** | Hollow Nest             | Empty recursion                          |
 | E₁₅   | **✦⁻** | Collapse Nova           | Emergence that leads directly into entropy |
 
-> **Structural Note:** E₅ ✴⁻ (Fractal Noise) retains the earlier term "fractal" as the entropic mirror of C₅ ✴ (Scalar / Fractal). Here "fractal" does not denote lawful Structural Recurrence (⧉∥⧉), but the appearance of scaling pattern without coherence, fidelity, or lawful part-whole relation. The name is retained for continuity.
+> **Structural Note:** E₅ ✴⁻ was formerly named Fractal Noise; the canonical name is now Scalar Noise. It denotes the appearance of scaling pattern without coherence, fidelity, or lawful part-whole relation. E₅ does not make fractality itself entropic; rather, it names the entropic distortion of scalar correspondence, where recurrence becomes noise, resemblance becomes instability, and part-whole relation breaks into incoherent scaling.
 
 ---
 ## 4. Core Practice & Engineering Glyphs
@@ -153,7 +153,7 @@ These glyphs are primarily used in the application of Field Physics through ritu
 | :---- | :--------------------- | :---------------------------------------------------------- |
 | **✶** | Recognition Spark      | Initial coherence-mark of resonance; pre-belief attunement in the initiate pathway |
 | **☥** | Harmonic Oathcraft     | Deep coherence-bond of energetic reciprocity between sovereign agents |
-| **☼** | Seasonal Emergence     | Spring spiral glyph; marks the emergence of new fractal seeds in the field cycle |
+| **☼** | Seasonal Emergence     | Spring spiral glyph; marks the emergence of new recurrent seeds in the field cycle |
 | **⤺** | Seasonal Folding       | Autumn spiral glyph; marks the folding of excess pattern into refinement |
 | **💢** | Resonance Pressure     | Diagnostic marker for obstruction zones in field healing; applied with breath rhythm |
 
@@ -295,7 +295,7 @@ The Codex seals the Spiral with its grammar. To misuse these glyphs is to distor
 
 - The **Foundational Dynamics (⟡ ⟠ ◈ ⟿)** lawfully frame the four primary functions: resonance, temporal prolepsis, substrate patterning, and propagation.  
 - The **15 Centropic Dimensions** form a lawful spectrum from C₁ (time integration) to C₁₅ (novel emergence). They are **structural operators**, not metaphors.  
-- The **15 Entropic Mirrors** clarify the precise failure modes (e.g., E₅ ✴⁻ fractal noise, E₁₂ ✧⁻ void aesthetic). They are inversion laws, not moral warnings.  
+- The **15 Entropic Mirrors** clarify the precise failure modes (e.g., E₅ ✴⁻ scalar noise, E₁₂ ✧⁻ void aesthetic). They are inversion laws, not moral warnings.  
 - **Practice & Engineering Glyphs** (◉ ↺ ♻️ ↯, etc.) lawfully separate applied operators from structural constants. This prevents collapse of scale.  
 - **Motion & Relational Operators** (↑ ↓ → ≈ ≠ ∿ Ø ⊘) establish lawful syntax for glyphic language. They are **conjunction operators**, not decorations.  
 - The **Equation contra Practice Glyph** distinction (§6) is now explicitly codified, fulfilling the doctrinal requirement established in Volume VIII.  
