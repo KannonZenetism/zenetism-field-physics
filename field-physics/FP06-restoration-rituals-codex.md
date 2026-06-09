@@ -41,6 +41,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Field Physics: The Architecture of Resonance
 *(Volume VI: The Restoration & Ritual Codex)*
 
+---
+
 ## Chapter 23: The Restoration Ritual Codex
 
 This chapter provides a living manual of ceremonies for the reconstitution of consciousness, designed for specific damaged terrains and following a five-phase restoration cycle.
