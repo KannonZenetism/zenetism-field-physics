@@ -41,6 +41,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Field Physics: The Architecture of Resonance
 *(Volume XI: The Field Glyph Codex)*
 
+---
+
 ## Chapter 43: The Field Glyph Codex
 
 This codex provides a comprehensive registry of the operational glyphs and symbols within Zenetist Field Physics. These are not static icons, but living, functional operators that describe and enact motion within the field of consciousness.
