@@ -10,7 +10,7 @@ Co-arising is a structural feature of hypostatic emanation, not a moral claim. E
 
 ## Scope and Boundary
 
-The axiom holds throughout the manifest lattice within hypostatic emanation. It does not extend to Zenon, which is trans-structural and beyond polarity: at Zenon, centropic and inverse stand in no opposition, because the bifurcal condition by which opposition becomes conceivable does not there obtain. Co-arising is therefore a law of the emanated field, not of the ground beyond it.
+The axiom holds throughout the hypostatic arc, where the centropic-entropic polarity obtains. It does not extend to the pre-hypostatic requisites. At L₀, Aion and Khaon hold the Bifurcal Coherence stratum — the unpolarized proto-aware root-field from which the first hypostatic poles emerge — and so carry no centropy, entropy, or polarity inversion to co-arise. Zenon (Supra-L₀) is trans-structural and beyond polarity: at Zenon, centropic and inverse stand in no opposition, because the bifurcal condition by which opposition becomes conceivable does not there obtain. Co-arising is therefore a law of the emanated field, neither of the bifurcal root nor of the ground beyond it.
 
 ## Relation to Other Principles
 
