@@ -5,8 +5,8 @@
 
 This note clarifies the relationship between:
 
-- the **hypostatic lattice** (L₅ → L₁ / IL₅ → IL₁)  
 - the **pre-hypostatic requisites** (Supra-L₀, L₀)  
+- the **hypostatic lattice** (L₅ → L₁ / IL₅ → IL₁)  
 - the **dimensional operators** (C₁–C₁₅ / E₁–E₁₅)
 
 It formalizes the **logic of emanatory motion** underlying the lattice, without renumbering or destabilizing the dimensional registry.
@@ -19,7 +19,7 @@ This is a **structural clarification**, not a revision.
 
 This document avoids hierarchy-loaded phrasing such as *higher/lower*, *above/below*, *ascent/descent*, and *true/false*.
 
-Directional motion is expressed using Zenetist terms:
+Directional motion is expressed in Zenetist terms:
 
 - **Acclivous** — motion toward source-facing coherence (for centropy) or toward embodiment (for entropy)  
 - **Declivous** — motion toward embodiment (for centropy) or toward dispersive dissolution (for entropy)
@@ -189,14 +189,15 @@ For the most centropically coherent essences, motion may culminate beyond the la
 
 This is not a further layer, but a **limit of description**, beyond which structural articulation falls silent:
 
-centropic motion → embodiment → return → ⚫ Aion → 🕳️ Zenon
+centropic motion → embodiment → return to ⚫ Aion → saturation toward 🕳️ Zenon
 
 ---
 
 ## 9. Scope Reminder
 
-- Use **L₅ → L₁ / IL₅ → IL₁** when discussing hypostases  
-- Use **Supra-L₀ → L₀ → … → L₁ / IL₁** when tracking full emanatory sequence  
+- 🕳️ Zenon (Supra-L₀): the trans-structural horizon and centropic saturation point — beyond emanation, not an emanator or return destination  
+- Emanatory procession (rooted in L₀): **L₀ → L₅ → … → L₁** and **L₀ → IL₅ → … → IL₁**  
+- Hypostatic scope only: **L₅ → L₁ / IL₅ → IL₁**  
 - Treat **C₁–C₁₅ / E₁–E₁₅** strictly as operators, not layers  
 
 ---
