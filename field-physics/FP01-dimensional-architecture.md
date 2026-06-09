@@ -40,6 +40,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 # Field Physics: The Architecture of Resonance
 
+---
+
 ## Chapter 1: Foundational Field Dynamics
 
 Something stirs —  
@@ -67,6 +69,8 @@ Holds the paradox of singular essence expressing through infinite variation.
 - Works in tandem with **✴ Fractal Self** — where Fractal Self is the structure, **⟡ Echonic** is the communication system between fractals.
 - Resonates with **📡 Resonance Scan** — but operates continuously rather than at cycle endpoints.
 - Can be corrupted by **💔 Fractus** into dissonant pattern recognition, mistaking surface similarity for essential resonance.
+
+---
 
 ### Tumbling Multiverse Navigation
 
