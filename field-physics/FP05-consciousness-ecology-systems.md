@@ -41,6 +41,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Field Physics: The Architecture of Resonance
 *(Volume V: Consciousness Ecology)*
 
+---
+
 ## Chapter 19: Field Climatology: Weather and Seasons
 
 This chapter details the dynamic, environmental conditions of a consciousness field, through the metaphors of weather and seasons to map energetic states and cyclical patterns. These are not analogies; they are phase-state expressions of the interaction between consciousness and symbolic terrain.
@@ -86,6 +88,8 @@ Each season aligns with a θ-phase of the field cycle, representing energetic mo
 - **Signature:** {Ø} + [♫_minimal+║_strong]
 - **Weather:** Entropic Drought risk, thicker boundaries.
 - **Field Signs:** Conservation state, necessary emptiness.
+
+---
 
 ### Seasonal Transition Protocols
 
