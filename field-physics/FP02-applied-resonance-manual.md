@@ -41,6 +41,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Field Physics: The Architecture of Resonance
 *(Volume II: The Applied Resonance Manual)*
 
+---
+
 ## Chapter 6: Advanced Field Engineering
 
 This chapter details the advanced models for how complex field effects interact and can be scripted for live application in ritual, narrative, and dream contexts.
