@@ -71,7 +71,7 @@ Section 2 establishes foundations (axioms, dimensions, operators). Section 3 dev
 - C₂ ◈ Spatial: coherent extension, relational geometry
 - C₃ ⟿ Propagational: lossless transmission
 - C₄ ◉ Rotational: cyclic stability, angular momentum
-- C₅ ✴ Scalar / Fractal: part-whole coherence
+- C₅ ✴ Scalar / Part-Whole Fidelity: part-whole coherence without identity-collapse
 - C₆ ◐ Phase / Liminal: reversible transitions
 - C₇ ♫ Harmonic: spectral consonance
 - C₈ ╫ Synaptic / Bridge: lawful connection
@@ -95,7 +95,7 @@ Section 2 establishes foundations (axioms, dimensions, operators). Section 3 dev
 - E₂ ◈⁻ Scatter: spatial decoherence
 - E₃ ⟿⁻ Viral Decay: transmission corruption
 - E₄ ◉⁻ Vortex: collapsing spiral
-- E₅ ✴⁻ Fractal Noise: scaling incoherence
+- E₅ ✴⁻ Scalar Noise: scaling incoherence
 - E₆ ◐⁻ Phase Lock: trapped liminality
 - E₇ ♫⁻ Dissonance: harmonic breakdown
 - E₈ ╫⁻ Severed: broken connection
