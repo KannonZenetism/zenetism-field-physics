@@ -491,6 +491,90 @@ Code blocks do not appear for general prose emphasis. Prose emphasis belongs to 
 
 ---
 
+# Backtick Conventions
+
+## Inline Backtick Restriction
+
+Inline backticks are generally avoided in canonical Zenetist prose.
+
+Backticks visually mark text as code, command syntax, filename syntax, or literal technical notation. When inserted randomly throughout prose, they create formatting noise, fragment the reading field, and make ordinary terminology appear mechanically or programmatically isolated.
+
+Inline backticks therefore do not appear in canonical Zenetist prose for general emphasis.
+
+Correct emphasis belongs to:
+
+- bold, for term-introduction or definitionally critical emphasis
+- italics, for note titles, foreign terms, or light emphasis
+- quotation marks, for quoted language
+- code blocks, where exact technical formatting must be preserved
+
+Inline backticks should not appear around ordinary terms, canonical terminology, metaphysical concepts, file labels in running prose, or phrases merely being emphasized.
+
+## Permissible Contexts
+
+Inline backticks may appear only in rare technical contexts where literal formatting matters.
+
+Permissible contexts include:
+
+- exact filenames
+- command-line syntax
+- code identifiers
+- markdown syntax being discussed as syntax
+- repository paths
+- machine-readable tags
+- short literal strings where exact character preservation is required
+
+Even in these cases, inline backticks should appear sparingly.
+
+Where a passage contains more than a few literal technical references, prefer a code block or table rather than repeated inline backticks throughout prose.
+
+## Graphs, Tables, and Preserved Layout
+
+Backticks may remain where they serve a formatting-preservation function.
+
+This includes:
+
+- graph examples
+- diagram fragments
+- markdown samples
+- LaTeX examples
+- alignment-sensitive glyph structures
+- rare structural layouts that would collapse without code-block preservation
+
+In such cases, backticks belong to the formatting container, not to random inline emphasis.
+
+## Avoid
+
+In ordinary prose, avoid wrapping canonical terms in inline backticks. The pattern to avoid, shown here as literal syntax:
+
+```
+The Soul begins at `L₄`.
+The `Aion` register is not `Zenon`.
+This is called `Bifurcal Coherence`.
+The term `coherence` replaces `unity`.
+```
+
+Preferred:
+
+- The Soul begins at L₄.
+- The Aion register is not Zenon.
+- This is called Bifurcal Coherence.
+- The term "coherence" replaces "unity."
+
+## Audit Guidance
+
+When auditing canonical prose, remove inline backticks unless they serve a clear technical, syntactic, filename, code, repository, or formatting-preservation function.
+
+The audit question should be:
+
+Is this text being marked as literal syntax, or is it ordinary prose being over-formatted?
+
+If the passage is ordinary prose, remove the backticks; emphasis then belongs to bold, italics, quotation marks, or plain text, according to the relevant formatting convention.
+
+If the passage requires exact preservation of syntax or layout, retain the backticks or move the material into a code block.
+
+---
+
 # Cross-Reference Conventions
 
 Canonical cross-references follow established document abbreviations as shorthand and full titles in italics when introducing or specifying.
@@ -570,6 +654,7 @@ Before finalization of any canonical prose document, verify:
 - note format is consistent within the document or series,
 - chart definition columns do not end with terminal periods,
 - horizontal rules mark major boundaries only,
+- inline backticks are absent except where exact technical syntax, filenames, repository paths, or formatting-preservation requires them,
 - cross-references follow canonical abbreviations and italics for full titles.
 
 ---
@@ -590,6 +675,7 @@ The following drift patterns commonly appear within AI-assisted prose articulati
 | Note-Format Drift | Mixed note formats appearing within one document or series |
 | Chart-Punctuation Drift | Definition columns ending with terminal periods inconsistently |
 | Horizontal-Rule Drift | Excessive rule placement fragmenting document rhythm |
+| Backtick Drift | Inline backticks appearing around ordinary prose, canonical terms, or emphasized phrases where bold, italics, quotation marks, or plain text should appear instead |
 | Italics-Quote Drift | Note titles appearing in quotation marks rather than italics |
 | Poetic-Register Drift | Early poetic conventions reformatted into technical-register form through automated reformatting |
 | Restricted-Vocabulary Drift | Instrumentalist, vertical-metaphor, hierarchical, or other restricted vocabulary appearing in canonical composition where the *Canonical Lockdown Protocol* requires replacement |
