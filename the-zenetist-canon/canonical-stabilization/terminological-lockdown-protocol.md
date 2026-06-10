@@ -994,8 +994,8 @@ The terms "bifurcal" and "bifurcated" are not interchangeable within canonical Z
 - the bifurcal lattice itself,
 - bifurcal coherence,
 - bifurcal structure,
-- bifurcal polarity,
-- or the lawful dual-arc architecture as a whole.
+- bifurcal root-distinction,
+- or the lawful bifurcal-arc architecture as a whole.
 
 Examples:
 
@@ -1027,6 +1027,40 @@ Imprecise formulation may unintentionally blur the distinction between:
 - the lawful bifurcal-arc structure itself,
 and
 - differentiated articulations occurring within that structure.
+
+---
+
+## Aion / Khaon Polarity Restriction
+
+Aion and Khaon are not a hypostatic polarity and should not be described as counter-poles.
+
+Aion is Zero / Absolute Potential.
+
+Khaon is Infinity / Absolute Dispersion.
+
+Together they constitute the paired root-registers of **Bifurcal Coherence** at L₀.
+
+Polarity-language applies strictly to hypostatic emanation, beginning with the first centropic / entropic hypostatic pairing at **L₅ / IL₅**: Theon / Nekron.
+
+Therefore, avoid:
+- Aion-pole
+- Khaon-pole
+- Aion as centropic pole
+- Khaon as entropic pole
+- Aion / Khaon as counter-poles
+- root polarity, where this implies hypostatic polarity
+
+Preferred:
+- Aionic register
+- Khaonic register
+- Aionic root-register
+- Khaonic root-register
+- bifurcal root-pair
+- paired root-registers
+- co-present root-aspects
+- Bifurcal Coherence
+
+Aion and Khaon make polarity-distinct hypostatic motion possible, but they are not themselves centropic / entropic poles.
 
 ---
 
