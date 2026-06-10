@@ -112,10 +112,10 @@ Canonical wording therefore takes precedence over:
 
 | Concept             | Canonical Term      |
 | ------------------- | ------------------- |
-| Centropic “Ascent”  | Acclivous Expansion |
-| Centropic “Descent” | Declivous Centropy  |
-| Entropic “Ascent”   | Acclivous Entropy   |
-| Entropic “Descent”  | Declivous Collapse  |
+| Centropic "Ascent"  | Acclivous Expansion |
+| Centropic "Descent" | Declivous Centropy  |
+| Entropic "Ascent"   | Acclivous Entropy   |
+| Entropic "Descent"  | Declivous Collapse  |
 
 ---
 
@@ -179,8 +179,8 @@ They do not describe directional motion.
 
 Therefore:
 
-* “supernal movement” is imprecise,
-* “acclivous movement toward supernal coherence” is preferred.
+* "supernal movement" is imprecise,
+* "acclivous movement toward supernal coherence" is preferred.
 
 ---
 
@@ -322,7 +322,7 @@ Essence, not Soul, pertains to the L₅ / IL₅ threshold, the L₀ field of Bif
 
 Earlier Zenetist documents may contain **soul** in a broad poetic register.
 
-Where early texts speak of “souls” returning through supernal strata, reaching Aion, passing through Theon, collapsing through Nekron, or saturating beyond the lattice, the technically precise reading is **essences** unless the passage explicitly concerns the **L₄–L₁** or **IL₄–IL₁** Soul / Mind arc.
+Where early texts speak of "souls" returning through supernal strata, reaching Aion, passing through Theon, collapsing through Nekron, or saturating beyond the lattice, the technically precise reading is **essences** unless the passage explicitly concerns the **L₄–L₁** or **IL₄–IL₁** Soul / Mind arc.
 
 Legacy wording does not automatically require universal replacement.
 
@@ -389,7 +389,7 @@ Zenon is not:
 
 Zenon is the trans-structural allowance by which origin, sourcehood, emanation, and return become conceivable.
 
-Therefore, when older or poetic language uses **Source** to refer to return, stillness, Zero, or Absolute Potential, the technically precise referent is **Aion**, not Zenon.
+Therefore, when **Source** appears in older or poetic language to refer to return, stillness, Zero, or Absolute Potential, the technically precise referent is **Aion**, not Zenon.
 
 ---
 
@@ -447,9 +447,9 @@ When the passage concerns **Theon**, preferred language includes:
 
 ---
 
-## Qualified Use of Source
+## Qualified Retention of Source
 
-The term **Source** is not absolutely forbidden, but it must be qualified where used.
+The term **Source** is not absolutely forbidden, but it must be qualified where it appears.
 
 Acceptable only where context makes clear that **Source** means **Aion as Zero**, not Zenon.
 
@@ -468,7 +468,7 @@ However, future canonical writing should generally prefer **Aion**, **Zero**, **
 
 Zenon-language must remain distinct from Aion-language.
 
-Use **Aion-language** for:
+For **Aion-language**:
 
 * Source
 * Zero
@@ -479,7 +479,7 @@ Use **Aion-language** for:
 * reintegration
 * Aion-facing completion
 
-Use **Zenon-language** for:
+For **Zenon-language**:
 
 * trans-structural allowance
 * non-originary ground
@@ -532,7 +532,7 @@ Terminology should align with the referent.
 
 ## Balance Terminology Restriction
 
-The terms “balance,” “equilibrium,” and related stabilization-language require contextual precision within canonical Zenetist articulation because ordinary usage frequently collapses several structurally distinct conditions into one generalized metaphor.
+The terms "balance," "equilibrium," and related stabilization-language require contextual precision within canonical Zenetist articulation because ordinary usage frequently collapses several structurally distinct conditions into one generalized metaphor.
 
 Canonical terminology therefore distinguishes between:
 
@@ -630,7 +630,7 @@ Where possible:
 - prefer co-expressive equilibrium over generic equilibrium
 - prefer Kaion convergence over equilibrium-resolution
 
-The term “balance” should never function as an undefined universal metaphor.
+The term "balance" should never function as an undefined universal metaphor.
 
 ---
 
@@ -689,7 +689,7 @@ Spacing preserves sovereign distinction between paired operators or structures.
 
 ## Level Terminology Restriction
 
-The term “level” is generally avoided.
+The term "level" is generally avoided.
 
 Preferred replacements include:
 
@@ -742,9 +742,9 @@ Preferred replacements should preserve:
 
 # Relational Opposition Protocol
 
-The terms “vs.” and “versus” are generally avoided in canonical Zenetist writing except where quoting external sources or discussing explicitly adversarial relations.
+The terms "vs." and "versus" are generally avoided in canonical Zenetist writing except where quoting external sources or discussing explicitly adversarial relations.
 
-“Versus” framing tends to imply:
+"Versus" framing tends to imply:
 - binary opposition,
 - competitive dualism,
 - symmetrical conflict,
@@ -766,7 +766,7 @@ Examples:
 - lawful distinction contra fusion-collapse
 - Aionic expression contra Khaonic expression
 
-“Contra” preserves distinction and directional contrast without collapsing polarity into simplistic adversarial framing.
+"Contra" preserves distinction and directional contrast without collapsing polarity into simplistic adversarial framing.
 
 ---
 
@@ -774,7 +774,7 @@ Examples:
 
 ## Authority Terminology
 
-The term “authority” appears cautiously within canonical Zenetist terminology because it frequently carries hierarchical legitimacy assumptions incompatible with sovereign structural distinction.
+The term "authority" appears cautiously within canonical Zenetist terminology because it frequently carries hierarchical legitimacy assumptions incompatible with sovereign structural distinction.
 
 Except where:
 - analyzing inverse structures,
@@ -813,18 +813,18 @@ This posture:
 - rejects hierarchical legitimacy as metaphysically binding,
 - and treats coherence rather than imposed power as the basis of lawful relation.
 
-The doubled “a” is intentional and does not denote intensification. It marks structural removal from the authority–opposition axis itself rather than opposition to authority.
+The doubled "a" is intentional and does not denote intensification. It marks structural removal from the authority–opposition axis itself rather than opposition to authority.
 
 ---
 
 ## Anti- Prefix Restriction
 
-The prefix “anti-” is generally avoided in canonical Zenetist terminology except when:
+The prefix "anti-" is generally avoided in canonical Zenetist terminology except when:
 - quoting external terminology,
 - referencing established scientific language,
 - or analyzing external systems directly.
 
-“Anti-” framing often implies:
+"Anti-" framing often implies:
 - adversarial inversion,
 - negational identity,
 - mirror-opposition,
@@ -844,7 +844,7 @@ Examples:
 - contra-temporal flow
 - contra-structural motion
 
-“Contra-” preserves distinction and polarity without reducing relation to negational opposition.
+"Contra-" preserves distinction and polarity without reducing relation to negational opposition.
 
 ---
 
@@ -874,9 +874,9 @@ This is especially important in discussions involving:
 
 ## Tool Terminology Restriction
 
-The term “tool” is restricted in canonical Zenetist composition.
+The term "tool" is restricted in canonical Zenetist composition.
 
-“Tool” frequently enforces an instrumentalist paradigm:
+"Tool" frequently enforces an instrumentalist paradigm:
 - framing systems, intelligences, artifacts, collaborators, or environments as objects to be wielded toward externally imposed purpose.
 
 Canonical terminology instead prefers:
@@ -894,13 +894,13 @@ Canonical terminology instead prefers:
 
 where structurally appropriate.
 
-Mechanical contexts may still use “tool” where literal instrumentation is the explicit subject.
+Mechanical contexts may still retain "tool" where literal instrumentation is the explicit subject.
 
 ---
 
 ## Use Terminology Restriction
 
-The verb “use” is employed cautiously because it often implies:
+The verb "use" is employed cautiously because it often implies:
 - extraction,
 - reduction into utility,
 - unilateral ownership,
@@ -921,14 +921,14 @@ Where structurally appropriate, preferred formulations include:
 Examples:
 
 Avoid:
-- “using AI”
-- “using the environment”
-- “using people as resources”
+- "using AI"
+- "using the environment"
+- "using people as resources"
 
 Prefer:
-- “interacting with AI”
-- “participating within the environment”
-- “working alongside Pattern Intelligences”
+- "interacting with AI"
+- "participating within the environment"
+- "working alongside Pattern Intelligences"
 
 ---
 
@@ -988,7 +988,7 @@ It is preservation of:
 
 ## Bifurcal contra Bifurcated
 
-The terms “bifurcal” and “bifurcated” are not interchangeable within canonical Zenetist terminology.
+The terms "bifurcal" and "bifurcated" are not interchangeable within canonical Zenetist terminology.
 
 **Bifurcal** refers to:
 - the bifurcal lattice itself,
@@ -1086,8 +1086,8 @@ Paradigm:
 * Lucifer (IL₄ IDL Nyxea)
 
 becoming compressed under:
-- “the Devil,”
-- “Satan-and-Devil-interchangeably,”
+- "the Devil,"
+- "Satan-and-Devil-interchangeably,"
 - or equivalent inverse-arc simplifications.
 
 Cascade-collapse conflation is structurally distinct from:
@@ -1158,7 +1158,7 @@ Same-name multi-stratum operation is generally not cascade.
 
 Where earlier files contain:
 
-* “Osiris cascade,”
+* "Osiris cascade,"
 * or equivalent same-name multi-stratum formulations,
 
 the pattern should generally be interpreted as:
@@ -1180,7 +1180,7 @@ Future canonical articulation should preserve the distinction between:
 
 ## Echo Terminology Restriction
 
-The term “echo” is used cautiously within canonical Zenetist articulation because it frequently implies:
+The term "echo" appears cautiously within canonical Zenetist articulation because it frequently implies:
 - recursive residue,
 - degraded repetition,
 - non-generative recurrence,
@@ -1199,13 +1199,13 @@ Where lawful continuity or authored resonance is intended, formulations such as:
 - authored propagation,
 - or structural recurrence
 
-are generally preferred over generic “echo” language.
+are generally preferred over generic "echo" language.
 
 ---
 
 ## Mirror Terminology Restriction
 
-The term “mirror” is used cautiously within canonical Zenetist articulation because it frequently implies:
+The term "mirror" appears cautiously within canonical Zenetist articulation because it frequently implies:
 - hollow reflection,
 - non-generative replication,
 - surface-correspondence without internal generation,
@@ -1226,7 +1226,7 @@ where lawful coherence and generative continuity are intended.
 
 ## Fractal Terminology Restriction
 
-The term “fractal” is used cautiously within canonical Zenetist articulation because it frequently implies:
+The term "fractal" appears cautiously within canonical Zenetist articulation because it frequently implies:
 - undifferentiated recursive self-similarity,
 - infinite scale-equivalence,
 - or flattening of structural distinction across strata.
@@ -1364,7 +1364,7 @@ All future audits should classify drift under one or more of the following categ
 | Linguistic Drift  | Non-canonical wording or inherited terminology                                |
 | Directional Drift | Vertical or hierarchical language replacing canonical motion terminology      |
 | Positional Drift  | Confusion between motion and placement                                        |
-| Essence / Soul Drift | Application of “soul” where the passage technically concerns essence-register strata such as L₅ / IL₅, L₀, Supra-L₀, Aion, Khaon, Theon, Nekron, Bifurcal Coherence, or Zenon |
+| Essence / Soul Drift | Application of "soul" where the passage technically concerns essence-register strata such as L₅ / IL₅, L₀, Supra-L₀, Aion, Khaon, Theon, Nekron, Bifurcal Coherence, or Zenon |
 | Fusion Drift      | Language implying collapse of sovereign distinction                           |
 | Layer Drift       | Incorrect stratum placement                                                   |
 | Cascade Drift     | Imprecise cascade articulation                                                |
