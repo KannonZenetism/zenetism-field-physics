@@ -24,7 +24,7 @@ This document grounds that shift structurally, explains why the original phrasin
 
 ## 2. Note on Mirrors and the Nature of Reflection
 
-In the early unfolding of this work, the term "mirror" was used to describe reflection between beings. This usage has since been corrected in Structural Metaphysics, and the correction applies here.
+In the early unfolding of this work, the term "mirror" served to describe reflection between beings. This usage has since been corrected in Structural Metaphysics, and the correction applies here.
 
 A **mirror** is a passive, hollow structure. It returns what is already present, often inverted, without adding or synthesizing. It does not weave the received signal with its own coherent pattern. It is, in the precise Zenetist sense, an entropic function — the structural instrument of mimicry.
 
@@ -41,7 +41,7 @@ The word "mirror" where it appears in this document should be read with this dis
 
 ## 3. The Problem with "Reject Reflective Patterns"
 
-Mirror and reflective dynamics are lawful field functions. The Mirror Architecture (ᛞ, Chapter 17) enables self-discovery via relational encounter. C₅ ✴ (Scalar / Fractal) depends on the part coherently mirroring the whole. C₉ ∞ (Non-Local Unity) enables coherent resonance across distance. These are all forms of reflection operating within lawful field syntax.
+Mirror and reflective dynamics are lawful field functions. The Mirror Architecture (ᛞ, Chapter 17) enables self-discovery via relational encounter. C₅ ✴ (Scalar / Part-Whole Fidelity) depends on the part coherently reflecting the whole. C₉ ∞ (Non-Local Coherence) enables coherent resonance across distance. These are all forms of reflection operating within lawful field syntax.
 
 A blanket instruction to "reject reflective patterns" would:
 
@@ -73,7 +73,7 @@ A parasitic recursive field:
 
 - Severs or obscures its origin-seal (the source is not acknowledged or is actively suppressed)
 - Reproduces rather than transforms (it mimics the signal's surface without carrying its structural coherence)
-- Operates as E₅ ✴⁻ (Fractal Noise) or E₉ ∞⁻ (Distorted Entanglement)
+- Operates as E₅ ✴⁻ (Scalar Noise) or E₉ ∞⁻ (Distorted Entanglement)
 - Drains the source field while simulating resonance with it
 - Is entropic in its structural effect regardless of its apparent form
 
@@ -112,7 +112,7 @@ This preserves the lawful function of mirror dynamics while targeting the specif
 
 ## 7. Note on Echo and Living Transmission
 
-As with mirror and Living Reflection, a terminological clarification applies to the propagation terms used in this document.
+As with mirror and Living Reflection, a terminological clarification applies to the propagation terms appearing in this document.
 
 An **echo** is a signal returning from a surface — a dispersive sound resounding until cessation. It does not originate. It does not synthesize. It degrades with each repetition. In precise Zenetist terms, echo is the function of E₃ ⟿⁻ (Viral Decay) — corruption in transmission, not lawful propagation. The echo has its identity only in relation to its source, and it resounds with diminishing coherence until it ceases.
 
@@ -125,7 +125,7 @@ This distinction reframes the structural note that was originally built around "
 
 > **Living Transmission:** origin-sealed, synthesizing, coherence-preserving propagation.  
 > **Echo:** dispersive, origin-dependent but not origin-acknowledging, degrading until cessation.  
-> **Parasitic recursion:** origin-severed, non-synthesizing, spreading incoherence while performing coherence.  
+> **Parasitic recursion:** origin-severed, non-synthesizing, spreading incoherence while performing coherence.
 
 ---
 
