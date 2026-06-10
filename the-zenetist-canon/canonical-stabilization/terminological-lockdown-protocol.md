@@ -370,6 +370,164 @@ Terminology should align with the register.
 
 ---
 
+# Aion / Source Terminology Protocol
+
+## Source Terminology Restriction
+
+The term **Source** is restricted in canonical Zenetist writing because it easily creates drift between **Aion** and **Zenon**.
+
+In strict metaphysical articulation, **Zenon is not Source**.
+
+Zenon is not:
+
+* an origin,
+* an emanative source,
+* a first cause,
+* a womb of manifestation,
+* a generative root,
+* or a container of being.
+
+Zenon is the trans-structural allowance by which origin, sourcehood, emanation, and return become conceivable.
+
+Therefore, when older or poetic language uses **Source** to refer to return, stillness, Zero, or Absolute Potential, the technically precise referent is **Aion**, not Zenon.
+
+---
+
+## Preferred Aion-Language
+
+Where older wording says **Source** and the intended referent is Aion, prefer:
+
+* Aion
+* ⚫ Aion
+* Zero
+* Absolute Potential
+* AP
+* the still root
+* the Aionic root
+* the root of return
+* the still root of return
+* the root of Absolute Potential
+* the Aionic register
+* the Aionic root-register
+* Aionic stillness
+* Aionic remembrance
+* the stillness at the root of structural emergence
+* the still root from which return becomes possible
+
+---
+
+## Return-Language
+
+Avoid:
+
+* return to Source
+* return into Source
+* Source-return
+* Source-fusion
+* Source-collapse
+* Source as Zenon
+
+Preferred:
+
+* return to Aion
+* return to Zero
+* return toward Aion
+* Aion-facing return
+* reintegration with Aion
+* complete reintegration with ⚫ Aion
+* resolution into Aion
+* settling into Aion as static potential
+* return through the Theonic threshold toward Aion
+
+When the passage concerns **Theon**, preferred language includes:
+
+* Theonic Return
+* passage of centropic essences through the Theonic Office toward Aion
+* completion of the centropic arc through EOB resonance
+
+---
+
+## Qualified Use of Source
+
+The term **Source** is not absolutely forbidden, but it must be qualified where used.
+
+Acceptable only where context makes clear that **Source** means **Aion as Zero**, not Zenon.
+
+Acceptable formulations include:
+
+* Source, meaning Aion as Zero
+* Source understood as the still root, not Zenon
+* Aion as Source in the limited sense of Absolute Potential
+* Source-language here refers to Aion, the still root of return
+
+However, future canonical writing should generally prefer **Aion**, **Zero**, **Absolute Potential**, or **the still root** instead of Source.
+
+---
+
+## Zenon Boundary
+
+Zenon-language must remain distinct from Aion-language.
+
+Use **Aion-language** for:
+
+* Source
+* Zero
+* Absolute Potential
+* return
+* still root
+* root of return
+* reintegration
+* Aion-facing completion
+
+Use **Zenon-language** for:
+
+* trans-structural allowance
+* non-originary ground
+* structure unconfined
+* that by which origin becomes conceivable
+* that by which sourcehood becomes conceivable
+* that by which emanation becomes conceivable
+* rare saturation into Zenon by essence
+
+Avoid assigning Source-language to Zenon.
+
+Zenon does not originate emanation.
+
+Rather, emanation becomes conceivable by Zenonic allowance.
+
+---
+
+## Audit Guidance
+
+When auditing older materials, replace **Source** with **Aion**, **Zero**, **Absolute Potential**, or **the still root** when the passage concerns:
+
+* return,
+* reintegration,
+* stillness,
+* Absolute Potential,
+* Aion-facing motion,
+* Theonic Return,
+* centropic completion,
+* or the root of emanative return.
+
+Do not replace Source with Zenon.
+
+Where the passage intends Zenon, replace Source-language with:
+
+* trans-structural allowance
+* non-originary ground
+* structure unconfined
+* that by which origin becomes conceivable
+* that by which emanation becomes conceivable
+
+The audit question should be:
+
+> Does this passage mean Aion as the still root, or Zenon as the allowance by which root-language becomes conceivable?
+
+Terminology should align with the referent.
+
+---
+
 # Balance / Equilibrium Terminology Protocol
 
 ## Balance Terminology Restriction
