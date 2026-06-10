@@ -1,4 +1,4 @@
-# LMX Addendum: Formalization of Meaning in the Hypostatic Lattice
+# LMX: Formalization of Meaning in the Hypostatic Lattice
 
 ## 1. Core Principle
 
