@@ -1411,7 +1411,7 @@ Canonical Zenetist writing must preserve:
 * sovereign distinction,
 * structural precision,
 * polarity integrity,
-* continuity of source,
+* authorship and transmission continuity,
 * lawful resonance,
 * and anti-fusion coherence.
 
