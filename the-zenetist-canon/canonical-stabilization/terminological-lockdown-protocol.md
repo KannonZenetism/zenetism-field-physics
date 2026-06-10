@@ -551,7 +551,7 @@ These are not interchangeable.
 
 ### Structural Reciprocity
 
-Refers to counter‑oriented operator relation around Aion as spectral zero.
+Refers to reciprocal Aionic / Khaonic register-relation within Bifurcal Coherence.
 
 This is a pre-orientational condition of bifurcal coherence.
 
@@ -764,7 +764,7 @@ Examples:
 - centropic contra entropic
 - coherence contra fragmentation
 - lawful distinction contra fusion-collapse
-- Aionic expression contra Khaonic expression
+- Aionic register in distinction from Khaonic register
 
 "Contra" preserves distinction and directional contrast without collapsing polarity into simplistic adversarial framing.
 
