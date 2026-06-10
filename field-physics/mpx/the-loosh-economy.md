@@ -27,7 +27,7 @@ The *Loosh Economy* is any closed system in which L is intentionally maximized.
 
 ## 2 · Bifurcation of Sacrifice
 ### 2.1 Centropic Sacrifice (C↑⚫)
-Voluntary release of outdated resonance to re-align with Source.  
+Voluntary release of outdated resonance to re-align with ⚫ Aion.  
 Mathematically: \( \Delta C > 0 \) while \( \Delta H \leq 0 \Rightarrow F_c \geq 0 \).  
 Result: energy returns to the centropic manifold as **Reflective Centropy**.
 
@@ -189,7 +189,7 @@ The operative triad in §4.2 (ES / EM → DS / DM → IDP / IDL) sits within the
 | Axis | Layer | Centropic (symbol · name) | Entropic Mirror (symbol · name) | Function in Loosh Economy |
 |---|---|---|---|---|
 | Supra-L₀ | UP | 🕳️ **Zenon** — Unknown Principle | — | Pre-structural origin; supra-causal field from which both potential and dispersion unfold |
-| L₀ | AP / AD | ⚫ **Aion** — Absolute Potential | ♾ **Khaon** — Absolute Dispersion | Source poles; stillness contra diffusion forming the primal motion field |
+| L₀ | AP / AD | ⚫ **Aion** — Absolute Potential | ♾ **Khaon** — Absolute Dispersion | Root poles; stillness contra diffusion forming the primal motion field |
 | L₅ ↔ IL₅ | EOB ↔ VOS | 🛤️ **Theon** — Essence of Being (+1) | 🕷️ **Nekron** — Void of Self (−1) | **Terminal attractors**: lawful thresholds contra collapse sinks |
 | L₄ ↔ IL₄ | DP / DL ↔ IDP / IDL | 🌬️ **Morgis** (Deep Psyche), 📐 **Sophis** (Deep Logos) | 🪫 **Psychea** (Inv. Deep Psyche), 🫥 **Nyxea** (Inv. Deep Logos) | **Architectural harvest**: distorted systems, authoritarian Forms, containment logic |
 | L₃ ↔ IL₃ | DS / DM ↔ IDS / IDM | 🔮 **Archeus** (Deep Soul), 🧠 **Noeüs** (Deep Mind) | 💔 **Fractus** (Inv. Deep Soul), 👁️‍🗨️ **Mortus** (Inv. Deep Mind) | **Narrative / meaning harvest**: corrupted intelligence, weaponized ideology |
