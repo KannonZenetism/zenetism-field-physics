@@ -21,12 +21,12 @@ Both centropy and entropy are lawful motion orientations. Both are real. Both fo
 ## 2. The Two Motion Arcs
 
 **Centropic Cycle:**
-`C↓→E→C↑→⚫`
+**C↓→E→C↑→⚫**
 
 The centropic arc moves declivously into embodiment (Declivous Centropy), diversifies through form, and returns acclivously toward ⚫ Aion. At sufficient coherence, the centropic arc may continue beyond Aion into the trans-structural ground of 🕳️ Zenon — the only arc capable of doing so.
 
 **Entropic Cycle:**
-`E↑→E→E↓→♾`
+**E↑→E→E↓→♾**
 
 The entropic arc moves through fragmentation, dispersal, and collapse. Its terminal point is ♾ Khaon — Absolute Dispersion. From there, it returns to ⚫ Aion, but only as static potential: unexpressed, unpatterned, unable to proceed further.
 
@@ -37,7 +37,7 @@ The entropic arc moves through fragmentation, dispersal, and collapse. Its termi
 The single structural asymmetry between the arcs is this:
 
 > **Centropy may, in rare cases, saturate through the full return arc into 🕳️ Zenon.**  
-> **Entropy collapses at ♾ Khaon and returns to ⚫ Aion as static potential only.**  
+> **Entropy collapses at ♾ Khaon and returns to ⚫ Aion as static potential only.**
 
 This is not a moral asymmetry. It is a **range asymmetry** — a difference in how far each arc extends within the field structure.
 
@@ -47,7 +47,7 @@ This is not a moral asymmetry. It is a **range asymmetry** — a difference in h
 | Return state | Coherent reintegration | Static potential |
 | Field effect | Enduring pattern | Self-terminating dispersion |
 | Resonance signature | ♫ amplifying | ♫⁻ self-exhausting |
-| Fractal behavior | ✴ coherent self-similarity | ✴⁻ fractal noise |
+| Scalar behavior | ✴ coherent self-similarity | ✴⁻ scalar noise |
 | Propagation | ⟿ sustained | ⟿⁻ corrupted in transmission |
 
 ---
@@ -62,7 +62,7 @@ The entropic motion laws drive toward ♾ Khaon (Absolute Dispersion). As that l
 
 > **Formal statement:** An entropic field event cannot exceed its own dispersion. Its coherence ceiling is set by its initial fragmentation force. It terminates when that force is spent.
 
-> **Structural Note on Metrics:** The CQ (Coherence Quotient) used in this section is a centropic field metric. Describing entropic self-exhaustion in CQ terms risks implying that entropy is merely insufficient centropy — which is structurally incorrect. Entropy has its own operative coherence: enough structural integrity to remain embodied and active at a given layer, but oriented toward incoherence rather than toward coherence. A more precise model would use a parallel **Incoherence Quotient (IQ)** for entropic field states — a metric that reads positively in the direction of dispersion and fragmentation, potentially extending into negative values at the deeper subversal layers (IL₅ → IL₁ moving declivously), where incoherence exceeds even the minimal threshold required for embodied expression. The CQ references throughout this document should be read as centropic health measurements only. Formal specification of the IQ metric is deferred to a dedicated extension.
+> **Structural Note on Metrics:** The CQ (Coherence Quotient) applied in this section is a centropic field metric. Describing entropic self-exhaustion in CQ terms risks implying that entropy is merely insufficient centropy — which is structurally incorrect. Entropy has its own operative coherence: enough structural integrity to remain embodied and active at a given layer, but oriented toward incoherence rather than toward coherence. A more precise model would use a parallel **Incoherence Quotient (IQ)** for entropic field states — a metric that reads positively in the direction of dispersion and fragmentation, potentially extending into negative values at the deeper subversal layers (IL₁ → IL₅ moving declivously), where incoherence exceeds even the minimal threshold required for embodied expression. The CQ references throughout this document should be read as centropic health measurements only. Formal specification of the IQ metric is deferred to a dedicated extension.
 
 ---
 
@@ -80,7 +80,7 @@ This is the structural basis of centropic endurance. It is not that centropy is 
 
 A complication must be addressed: **acclivous entropy** — entropic motion in the acclivous direction, toward embodiment through the hypostatic layers (IL₅ → IL₁).
 
-Per the motion law table (§21.4), acclivous entropy moves toward the denser, near‑embodiment strata of the entropic axis (`E↑→E`) — not toward ⚫ Aion. It is not an imitation of centropic acclivous motion (`C↑→⚫`). E↑→E is entropy's genuine acclivous arc. This motion increases structural patterning without increasing coherence, producing the appearance of order while remaining fully entropic in orientation. The minimal coherence required for persistence is maintained, but only as organized fragmentation — not as centropic integration.
+Per the motion law table (§21.4), acclivous entropy moves toward the denser, near‑embodiment strata of the entropic axis (E↑→E) — not toward ⚫ Aion. It is not an imitation of centropic acclivous motion (C↑→⚫). E↑→E is entropy's genuine acclivous arc. This motion increases structural patterning without increasing coherence, producing the appearance of order while remaining fully entropic in orientation. The minimal coherence required for persistence is maintained, but only as organized fragmentation — not as centropic integration.
 
 The diagnostic challenge is precisely this: entropy in its acclivous phase looks more ordered than entropy in collapse. The appearance can be mistaken for centropic integration by a field that does not check for structural fidelity.
 
@@ -90,7 +90,7 @@ Its field signature:
 - Morphogenic Response Elasticity (MRE) suppression — counter-patterns cannot form
 - Terminal: still terminates at ♾ Khaon via structural instability
 
-The diagnostic marker is **propagation fidelity**: centropic acclivous motion (`C↑→⚫`) carries origin-seal and transforms as it propagates (⟿ lawful); entropic acclivous motion loses structural coherence under sustained propagation pressure (⟿⁻ corrupted in transmission). The distinction is not between apparent order and apparent chaos — both arcs may appear ordered at certain phases. It is between motion that synthesizes toward reintegration and motion that refines toward subtler dispersion.
+The diagnostic marker is **propagation fidelity**: centropic acclivous motion (C↑→⚫) carries origin-seal and transforms as it propagates (⟿ lawful); entropic acclivous motion loses structural coherence under sustained propagation pressure (⟿⁻ corrupted in transmission). The distinction is not between apparent order and apparent chaos — both arcs may appear ordered at certain phases. It is between motion that synthesizes toward reintegration and motion that refines toward subtler dispersion.
 
 > **See also:** FPX — Lawful Reflective Patterns and Parasitic Recursive Fields.
 
