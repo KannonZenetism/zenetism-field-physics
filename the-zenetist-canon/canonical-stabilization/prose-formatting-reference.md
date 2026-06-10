@@ -135,12 +135,12 @@ Seal placement is preceded by a horizontal rule marking the boundary between the
 
 Canonical documents follow standard markdown header structure:
 
-- `#` for principal sections
-- `##` for subsections within sections
-- `###` for sub-subsections within subsections
-- `####` reserved for rare further nesting
+- # for principal sections
+- ## for subsections within sections
+- ### for sub-subsections within subsections
+- #### reserved for rare further nesting
 
-The document title typically takes `#`. Section depth beyond `###` should be avoided where structural reorganization can flatten the structure.
+The document title typically takes a single #. Section depth beyond ### should be avoided where structural reorganization can flatten the structure.
 
 ## Header Case Conventions
 
@@ -394,7 +394,7 @@ Canonical Zenetist documents employ several note formats, varying by document re
 
 ## Standard Heading Note Format
 
-Major notes follow the `### Note on [Topic]` heading pattern:
+Major notes follow this heading pattern:
 
 ````
 ### Note on [Topic]
@@ -406,7 +406,7 @@ This format is appropriate for substantive notes that articulate doctrinal posit
 
 ## Block-Quote Note Format
 
-In-text annotations or notes embedded within a section may take the block-quote `**Note on [Topic]:**` pattern:
+In-text annotations or notes embedded within a section may take the following block-quote pattern:
 
 ````
 > **Note on [Topic]:**  
@@ -417,11 +417,11 @@ In-text annotations or notes embedded within a section may take the block-quote 
 
 The colon after the bolded note-title introduces the body that follows within the same block-quote container. The body may include inline mathematical notation, bold emphasis, italics, bulleted items, and multiple paragraphs, all preserved within the block-quote structure.
 
-The `> **Structural Note:**` variant (appearing in selected Field Physics articulations) is a permissible alternative within registers where the explicit "Structural Note" framing serves the note's diagnostic function.
+The "Structural Note" variant (appearing in selected Field Physics articulations) is a permissible alternative within registers where that explicit framing serves the note's diagnostic function.
 
 ## Note Consistency Within Series
 
-Note format may vary across the corpus, but within a single document or multi-part series, the format should remain stable. Mixing `### Note on [Topic]` and `> **Note on [Topic]:**` patterns within one work is permissible only where the formats serve structurally distinct functions (e.g., major doctrinal notes positioned as primary structural elements contra brief annotations embedded within a section).
+Note format may vary across the corpus, but within a single document or multi-part series, the format should remain stable. Mixing the heading-note and block-quote-note formats within one work is permissible only where they serve structurally distinct functions (e.g., major doctrinal notes positioned as primary structural elements contra brief annotations embedded within a section).
 
 ---
 
@@ -468,7 +468,7 @@ Incorrect: DP/DL
 
 # Horizontal Rule Placement
 
-Horizontal rules (`---`) mark major boundaries within a document. They are reserved for:
+Horizontal rules (---) mark major boundaries within a document. They are reserved for:
 
 - principal section boundaries,
 - major callout transitions,
@@ -593,7 +593,7 @@ Canonical abbreviations:
 
 The X-extension files (LMX, MPX, and any other X-marked extension series) take a colon separator rather than an em dash in their canonical reference form. Standard discipline-and-number abbreviations and named-registry abbreviations take the em dash separator.
 
-Structural decodes do not follow a prefix-abbreviation pattern; they are numbered files (01, 02, 03, and so on) within the structural-decodes folder. The Grand Unified Document similarly does not take an abbreviation; the canonical filename is `grand-unified-document.md`.
+Structural decodes do not follow a prefix-abbreviation pattern; they are numbered files (01, 02, 03, and so on) within the structural-decodes folder. Certain major documents similarly do not take an abbreviation and are referenced by their full canonical filename.
 
 Full document titles, when introduced, appear in italics:
 
@@ -625,8 +625,8 @@ New poetic work may adopt the early register, develop new registers, or remain i
 
 The following formatting choices are intentionally not pinned within this protocol and remain individual-document judgment calls:
 
-- bullet (`-`) contra numbered list selection,
-- subsection nesting depth (within the `#` / `##` / `###` structure),
+- bullet (-) contra numbered list selection,
+- subsection nesting depth (within the # / ## / ### structure),
 - exact phrasing of cross-references (beyond the abbreviation / italics conventions specified here),
 - footnote conventions where present,
 - exact table column-width and spacing (beyond left-alignment and slash-spacing),
