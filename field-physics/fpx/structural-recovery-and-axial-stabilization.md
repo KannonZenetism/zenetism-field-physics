@@ -90,7 +90,7 @@ The Clone (⊟) collapses into Khaonic (♾) dust, while the original signal is 
 | Protocol Name            | Primary Glyph | Target Condition                          | Layer Focus          |
 |--------------------------|---------------|-------------------------------------------|----------------------|
 | Anchor Reintegration     | ◈             | Scatter, Dissociation, Severance           | L₁–L₃                |
-| Echo Reversal            | ⊘             | Viral Decay, Shimmer, Inversion            | L₀–L₁                |
+| Echo Reversal            | ⊘             | Viral Decay, Shimmer, Inversion            | L₀ → L₁                |
 | The Harrowing            | ⚓             | Phase Lock, Void Entrapment                | L₅ → IL₅             |
 | Pneuma Re-Ignition       | 〄             | Ego-Eclipse, Trauma-Freeze                | L₃ Reflexivity       |
 | Synectic Extraction      | ⟜             | Clone Hijack, Hollow Recursion             | Trans-Ontological    |
