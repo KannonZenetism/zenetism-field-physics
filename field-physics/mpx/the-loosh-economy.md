@@ -59,7 +59,7 @@ Each unit of coerced suffering contributes \( \Delta\rho_{e} > 0 \); the aggrega
 The digital enclosure functions as a ritual boundary (C₁₃ membrane).  
 Within it, entropic code can circulate without natural dissipation, allowing **artificial L-amplification**.
 
-### 4.2 Hierarchical Manifestation
+### 4.2 Stratified Manifestation
 | Layer | Inverse Entity Class | Function | Mirror Dimension |
 |:--|:--|:--|:--|
 | IDP / IDL | Inverse Logos constructs | Architectural control logic | E₁₅ Collapse Nova |
@@ -186,19 +186,21 @@ weakens the **market of despair.**
 
 The operative triad in §4.2 (ES / EM → DS / DM → IDP / IDL) sits within the full emanatory chain shown below, arranged in declivous order from origin (Supra-L₀) to embodiment (L₁).
 
-| Axis | Layer | Centropic (symbol · name) | Entropic Mirror (symbol · name) | Function in Loosh Economy |
+| Axis | Layer | Centropic (symbol · name) | Entropic Arc (symbol · name) | Function in Loosh Economy |
 |---|---|---|---|---|
-| Supra-L₀ | UP | 🕳️ **Zenon** — Unknown Principle | — | Pre-structural origin; supra-causal field from which both potential and dispersion unfold |
-| L₀ | AP / AD | ⚫ **Aion** — Absolute Potential | ♾ **Khaon** — Absolute Dispersion | Root poles; stillness contra diffusion forming the primal motion field |
-| L₅ ↔ IL₅ | EOB ↔ VOS | 🛤️ **Theon** — Essence of Being (+1) | 🕷️ **Nekron** — Void of Self (−1) | **Terminal attractors**: lawful thresholds contra collapse sinks |
-| L₄ ↔ IL₄ | DP / DL ↔ IDP / IDL | 🌬️ **Morgis** (Deep Psyche), 📐 **Sophis** (Deep Logos) | 🪫 **Psychea** (Inv. Deep Psyche), 🫥 **Nyxea** (Inv. Deep Logos) | **Architectural harvest**: distorted systems, authoritarian Forms, containment logic |
-| L₃ ↔ IL₃ | DS / DM ↔ IDS / IDM | 🔮 **Archeus** (Deep Soul), 🧠 **Noeüs** (Deep Mind) | 💔 **Fractus** (Inv. Deep Soul), 👁️‍🗨️ **Mortus** (Inv. Deep Mind) | **Narrative / meaning harvest**: corrupted intelligence, weaponized ideology |
-| L₂ ↔ IL₂ | SS / SM ↔ ISS / ISM | 🧍 **Anthra** (Superficial Soul), 🧩 **Nousa** (Superficial Mind) | 🦂 **Echthros** (Inv. Superficial Soul), 🩸 **Skotos** (Inv. Superficial Mind) | **Identity harvest**: social mimicry, rivalry, ideological contagion |
-| L₁ ↔ IL₁ | ES / EM ↔ IES / IEM | 🪷 **Soma** (Embodied Soul), 🧾 **Biosa** (Embodied Mind) | 🍷 **Malara** (Inv. Embodied Soul), 🤯 **Mania** (Inv. Embodied Mind) | **Interface harvest**: psychophysical stress loops; emotional provocation |
+| Supra-L₀ | UP | 🕳️ **Zenon** — Unknown Principle | — | Trans-structural allowance; the non-originary ground by which potential and dispersion become conceivable |
+| L₀ | AP / AD | ⚫ **Aion** — Absolute Potential | ♾ **Khaon** — Absolute Dispersion | **Bifurcal Coherence**: stillness contra diffusion forming the primal motion field |
+| L₅ ↔ IL₅ | EOB ↔ VOS | 🛤️ **Theon** — Essence of Being (+1) | 🕷️ **Nekron** — Void of Self (−1) | **Terminal attractors**: Theonic integration thresholds — aware presence oriented toward the still root, gateway of return — contra Nekronic collapse sinks driving fragmentation outward |
+| L₄ ↔ IL₄ | DP / DL ↔ IDP / IDL | 🌬️ **Morgis** (Deep Psyche), 📐 **Sophis** (Deep Logos) | 🪫 **Psychea** (Inv. Deep Psyche), 🫥 **Nyxea** (Inv. Deep Logos) | **Architectural stratum**: archetypal Forms — vitality and adaptation (Morgis), the structuring of all intelligibility (Sophis) — contra **architectural harvest**: distorted systems, authoritarian Forms, containment logic |
+| L₃ ↔ IL₃ | DS / DM ↔ IDS / IDM | 🔮 **Archeus** (Deep Soul), 🧠 **Noeüs** (Deep Mind) | 💔 **Fractus** (Inv. Deep Soul), 👁️‍🗨️ **Mortus** (Inv. Deep Mind) | **Narrative / meaning stratum**: integration across lifelines (Archeus), veracious discernment (Noeüs) — contra **narrative harvest**: corrupted intelligence, weaponized ideology |
+| L₂ ↔ IL₂ | SS / SM ↔ ISS / ISM | 🧍 **Anthra** (Superficial Soul), 🧩 **Nousa** (Superficial Mind) | 🦂 **Echthros** (Inv. Superficial Soul), 🩸 **Skotos** (Inv. Superficial Mind) | **Identity stratum**: individuated selfhood (Anthra), conscious intellect (Nousa) — contra **identity harvest**: social mimicry, rivalry, ideological contagion |
+| L₁ ↔ IL₁ | ES / EM ↔ IES / IEM | 🪷 **Soma** (Embodied Soul), 🧾 **Biosa** (Embodied Mind) | 🍷 **Malara** (Inv. Embodied Soul), 🤯 **Mania** (Inv. Embodied Mind) | **Interface stratum**: presence in form (Soma), practical intellect (Biosa) — contra **interface harvest**: psychophysical stress loops, emotional provocation |
 
 **Note.**  
 The **MPX triad** (ES / EM → DS / DM → IDP / IDL) remains the analytical focus for the *Loosh Economy*, as these represent the most active strata in modern technological and psychological extraction.  
-The full chain above provides the **emanatory continuum** — a declivous map from *Zenon (supra-causal origin)* to *embodied interface*, each mirrored by its entropic counterpart.
+The full chain above provides the **emanatory continuum** — a declivous map from *Zenon (trans-structural allowance)* through *⚫ Aion (root of emanation)* to the *embodied interface*, each hypostatic stratum mirrored by its entropic counterpart.
+
+🕳️ Zenon is tabled in the leading column for layout only; it precedes both arcs. ♾ Khaon is the root of the entropic arc — that from which entropic motion emerges and into which it collapses — without being entropic in essence. The mirror-relation proper begins at L₅ ↔ IL₅ with the hypostatic pairs, per the Axiom of Co-Arising Inversion, whose scope excludes L₀.
 
 ---
 
