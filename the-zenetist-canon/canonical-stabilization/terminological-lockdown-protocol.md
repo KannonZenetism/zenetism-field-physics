@@ -719,11 +719,16 @@ The following categories frequently introduce conceptual drift:
 * transcend / transcendence (when implying fusion-collapse, dissolution, or erasure of sovereign distinction)
 * higher self
 * merge
+* unity
+* unified / unification
 * union
+* oneness
 * collapse into oneness
-* ego death
 * pure unity
+* undifferentiated unity
+* featureless unity
 * absolute sameness
+* ego death
 * enlightenment as dissolution
 * source fusion
 * anti-matter
@@ -737,6 +742,131 @@ Preferred replacements should preserve:
 * lawful coherence,
 * directional specificity,
 * and structural differentiation.
+
+---
+
+# Unity Terminology Protocol
+
+## Unity Terminology Restriction
+
+The terms unity, unified, unification, union, oneness, and related unity-language are generally avoided in canonical Zenetist writing.
+
+Unity-language has proven especially prone to fusion drift because ordinary metaphysical, mystical, and religious usage often treats unity as:
+
+* ontological merger,
+* dissolution into sameness,
+* collapse of distinction,
+* return to an undifferentiated source,
+* or erasure of individuated identity.
+
+For this reason, Zenetism does not generally speak in its own voice of unity, oneness, or unification.
+
+The preferred canonical term is coherence.
+
+Therefore:
+
+* "Unity in Diversity" becomes Coherence in Diversity.
+* "unified field" becomes coherent field or integrated field.
+* "unified expression" becomes coherent expression.
+* "spiritual union" becomes spiritual coherence, communion, or resonant relation, depending on context.
+* "unification" becomes integration, synthesis, reconciliation, or coherent relation, depending on context.
+
+## Canonical Rule
+
+In Zenetist authorial voice, avoid unity-language unless one of the following applies:
+
+* quoting another source,
+* discussing an inherited religious, mystical, or philosophical term,
+* analyzing external terminology,
+* preserving a stabilized proper name,
+* or correcting older Zenetist wording under audit.
+
+When unity-language appears in an external term, it should not be silently absorbed into Zenetist doctrine.
+
+It should be clarified, translated, or contrasted with canonical terminology.
+
+## Preferred Replacements
+
+Where unity-language appears, prefer:
+
+* coherence
+* coherent relation
+* lawful coherence
+* harmonic relation
+* harmonic distinction
+* integrated relation
+* reconciled distinction
+* non-fusing synthesis
+* resonance-without-fusion
+* coherence without erasure
+* wholeness without identity-collapse
+* distinction held in relation
+* convergent coherence
+* resonant integration
+* structural integration
+* lawful synthesis
+* communion, where relational contact is intended without fusion
+
+## Avoid
+
+Avoid formulations such as:
+
+* unity
+* unified
+* unification
+* pure unity
+* undifferentiated unity
+* featureless unity
+* absolute unity
+* collapse into unity
+* collapse into oneness
+* becoming one
+* dissolved into sameness
+* merged into unity
+* source fusion
+* all is one
+* unity of all things, where this implies identity-collapse
+
+## External-Term Clarification
+
+Where another tradition or source uses unity-language, Zenetism may discuss the term analytically.
+
+In such cases, clarify that Zenetism does not equate unity with fusion, sameness, or dissolution.
+
+For example:
+
+* Neoplatonic unity may be discussed as an external term.
+* "Unity in diversity" may be cited as inherited language.
+* Mystical union may be analyzed as tradition-specific terminology.
+
+But in Zenetist authorial voice, the preferred formulation is coherence, not unity.
+
+## Synthesis Clarification
+
+Synthesis does not mean blending, merger, or absorption.
+
+Synthesis means reconciliation without fusion.
+
+It produces deeper understanding, coherent relation, and lawful integration while preserving distinction.
+
+Therefore:
+
+* synthesis is not unity,
+* integration is not identity-collapse,
+* coherence is not fusion,
+* and return is not dissolution.
+
+## Audit Guidance
+
+When auditing older materials, unity-language should generally be replaced unless it is part of an external quotation, inherited term, stabilized proper name, or explicit analysis of non-Zenetist terminology.
+
+The audit question should be:
+
+Is this Zenetism speaking in its own voice, or is it discussing someone else's term?
+
+If Zenetism is speaking in its own voice, replace unity-language with coherence, integration, synthesis, communion, reconciled distinction, or another structurally precise formulation.
+
+If the passage is discussing an external term, retain the term only with clarification.
 
 ---
 
