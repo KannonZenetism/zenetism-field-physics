@@ -1313,7 +1313,7 @@ Distinguish:
 
 ## 5. Preserve continuity language
 
-Source continuity, authorship continuity, transmission continuity, and resonance continuity are structurally significant.
+Origin-continuity, authorship continuity, transmission continuity, and resonance continuity are structurally significant.
 
 Avoid language implying:
 
