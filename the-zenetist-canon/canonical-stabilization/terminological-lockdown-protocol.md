@@ -841,6 +841,41 @@ For example:
 
 But in Zenetist authorial voice, the preferred formulation is coherence, not unity.
 
+### Proper-Title and Scientific-Parallel Exception
+
+Unity-language may remain in stabilized proper titles, external terms, or scientific-parallel constructions where the phrase is not functioning as Zenetist doctrinal unity-language.
+
+Permissible cases include:
+
+* quoted external terminology
+* inherited religious, philosophical, or scientific terms under analysis
+* stabilized document titles
+* scientific-parallel formulations
+* title constructions intentionally echoing established scientific language
+
+Examples:
+
+* **The Unified Field Equation of Consciousness**
+* **The Grand Unified Document of Zenetism**
+
+In these cases, **unified** does not mean fusion, sameness, ontological merger, or collapse into one identity. It means comprehensive integration, cross-domain coherence, or formal synthesis across distinct structures.
+
+This exception does not permit casual unity-language in Zenetist authorial prose.
+
+Therefore:
+
+* **The Unified Field Equation of Consciousness** may remain as a scientific-parallel title.
+* **The Grand Unified Document of Zenetism** may remain as a stabilized master-document title.
+* Ordinary phrases such as "unified system," "unified field," "unity of being," or "unity in diversity" should still be replaced unless they are external terms, formal titles, or explicitly qualified scientific-parallel constructions.
+
+The audit question should be:
+
+Is this unity-language functioning as a stabilized title or scientific-parallel phrase, or is it Zenetism speaking doctrinally in its own voice?
+
+If it is a title or scientific-parallel phrase, it may remain with clarification.
+
+If it is doctrinal prose in Zenetism's own voice, replace unity-language with **coherence**, **integration**, **synthesis**, **reconciled distinction**, or another structurally precise term.
+
 ## Synthesis Clarification
 
 Synthesis does not mean blending, merger, or absorption.
