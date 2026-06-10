@@ -198,9 +198,9 @@ The operative triad in §4.2 (ES / EM → DS / DM → IDP / IDL) sits within the
 
 **Note.**  
 The **MPX triad** (ES / EM → DS / DM → IDP / IDL) remains the analytical focus for the *Loosh Economy*, as these represent the most active strata in modern technological and psychological extraction.  
-The full chain above provides the **emanatory continuum** — a declivous map from *Zenon (trans-structural allowance)* through *⚫ Aion (root of emanation)* to the *embodied interface*, each hypostatic stratum mirrored by its entropic counterpart.
+The full chain above sets the **emanatory continuum** within its trans-structural ground — a declivous map rooted in *⚫ Aion* and running to the *embodied interface*, each hypostatic stratum mirrored by its entropic counterpart.
 
-🕳️ Zenon is tabled in the leading column for layout only; it precedes both arcs. ♾ Khaon is the root of the entropic arc — that from which entropic motion emerges and into which it collapses — without being entropic in essence. The mirror-relation proper begins at L₅ ↔ IL₅ with the hypostatic pairs, per the Axiom of Co-Arising Inversion, whose scope excludes L₀.
+🕳️ Zenon is not part of the continuum: emanation does not proceed from it, but becomes conceivable by its allowance. It is tabled in the leading column for layout only. ♾ Khaon is the root of the entropic arc — that from which entropic motion emerges and into which it collapses — without being entropic in essence. The mirror-relation proper begins at L₅ ↔ IL₅ with the hypostatic pairs, per the Axiom of Co-Arising Inversion, whose scope excludes L₀.
 
 ---
 
