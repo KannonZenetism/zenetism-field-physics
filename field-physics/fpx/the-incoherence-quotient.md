@@ -24,7 +24,7 @@ This extension formally specifies the **Incoherence Quotient (IQ)** as the paral
 
 The Coherence Quotient (CQ) was defined in FP Vol. IV Ch. 15 as:
 
-`CQ = (∿ + ♫) ÷ ∑(⟠ + ◈)`
+**CQ = (∿ + ♫) ÷ ∑(⟠ + ◈)**
 
 This measures alignment between a field's internal signal and external centropic patterns. Applied to an entropic field, CQ produces a structurally misleading result: it reads entropic field activity as low coherence — as if entropy were simply deficient centropy.
 
@@ -43,10 +43,10 @@ The IQ metric separates these two phenomena, allowing each to be measured on its
 
 **IQ Formula:**
 
-`IQ = (✴⁻ + ♫⁻) ÷ ∑(⟠⁻ + ◈⁻)`
+**IQ = (✴⁻ + ♫⁻) ÷ ∑(⟠⁻ + ◈⁻)**
 
 Where:
-- **✴⁻** = Fractal Noise operator intensity (E₅ — scaling patterns lacking coherence)
+- **✴⁻** = Scalar Noise operator intensity (E₅ — scaling patterns lacking coherence)
 - **♫⁻** = Dissonance operator intensity (E₇ — harmonic breakdown)
 - **⟠⁻** = Temporal Loop operator intensity (E₁ — recursive disorientation)
 - **◈⁻** = Scatter operator intensity (E₂ — spatial de-coherence)
@@ -72,7 +72,7 @@ This is structurally necessary: at the deeper subversal layers (IL₁ → IL₅ 
 | 1.00 | Dispersive Limit | Maximum IQ; field at ♾ Khaon threshold; self-exhaustion imminent |
 | < 0.00 | Subversal Extension | IQ below minimum embodiment floor; pattern presence unstable at current layer; characteristic of deep subversal operation (IL₄ → IL₅) |
 
-> **Structural Note:** The subversal extension (IQ < 0.00) does not imply non-existence. It indicates that the field's dispersive intensity has exceeded the minimum coherence floor required for stable expression at its current layer. Fields in this range are not absent — they are operating at a level of fragmentation that destabilizes their own pattern substrate. This is the field-physical expression of the deepest entropic hypostatic layers (IL₄ / IL₅), where incoherence is not incidental but structural.
+> **Structural Note:** The subversal extension (IQ < 0.00) does not imply non-existence. It indicates that the field's dispersive intensity has exceeded the minimum coherence floor required for stable expression at its current layer. Fields in this range are not absent — they are operating at a degree of fragmentation that destabilizes their own pattern substrate. This is the field-physical expression of the deepest entropic hypostatic layers (IL₄ / IL₅), where incoherence is not incidental but structural.
 
 ---
 
@@ -106,9 +106,9 @@ IQ and CQ are **parallel metrics on distinct motion arcs**, not opposite ends of
 
 **The relationship between CQ and IQ vulnerability:**
 
-Lower CQ in a centropic field increases susceptibility to entropic incursion — not because the field becomes entropic, but because reduced integrative coherence leaves more dimensional bands available for entropic operator activity. This is a **resilience differential**, not an **orientation differential**. Essence-as-Choice governs orientation; CQ governs resilience.
+Lower CQ in a centropic field increases susceptibility to entropic incursion — not because the field becomes entropic, but because reduced integrative coherence leaves more dimensional bands available for entropic operator activity. This is a **resilience differential**, not an **orientation differential**. Essence-as-Choice holds orientation; CQ carries resilience.
 
-`Vulnerability to entropic incursion ∝ (1 - CQ)`
+**Vulnerability to entropic incursion ∝ (1 - CQ)**
 
 This is not an IQ measurement of the centropic field. It is a centropic resilience measurement that predicts susceptibility to external IQ pressure.
 
@@ -122,22 +122,22 @@ Parallel to the RIR (Resonance Immunity Rating) for centropic fields, a composit
 
 1. **Incoherence Quotient (IQ)**
    - Dispersive field intensity across primary E-operators
-   - `IQ = (✴⁻ + ♫⁻) ÷ ∑(⟠⁻ + ◈⁻)`
+   - IQ = (✴⁻ + ♫⁻) ÷ ∑(⟠⁻ + ◈⁻)
    - Scale: 0.00 → 1.00 → <0.00 (subversal extension)
 
 2. **Fragmentation Propagation Index (FPI)**
    - Rate of dispersive pattern propagation through contact fields
-   - `FPI = (Transmitted ♫⁻) ÷ (Total E-operator Output)`
+   - FPI = (Transmitted ♫⁻) ÷ (Total E-operator Output)
    - Scale: 0.00 (contained) → 1.00 (fully propagating)
 
 3. **Dispersive Response Elasticity (DRE)**
    - The field's capacity to generate new fragmentation patterns after centropic counter-response
-   - `DRE = (E-operator regeneration) ÷ (Centropic counter-pressure events)`
+   - DRE = (E-operator regeneration) ÷ (Centropic counter-pressure events)
    - High DRE indicates a field that reconstitutes dispersive patterning rapidly after immune response
 
 **DFIR Composite Formula:**
 
-`DFIR = (IQ × 0.4) + (FPI × 0.3) + (DRE × 0.3)`
+**DFIR = (IQ × 0.4) + (FPI × 0.3) + (DRE × 0.3)**
 
 **Entropic Field State by DFIR Score:**
 
@@ -174,9 +174,9 @@ The φ thresholds (phi) are designated separately from the θ thresholds (theta)
 
 ## 9. Canonical Placement
 
-- **Discipline:** Field Physics  
-- **Document:** FPX — The Incoherence Quotient  
-- **Dependencies:** FP Vol. II Ch. 10; FP Vol. III Ch. 14; FP Vol. IV Ch. 15; FPX — Entropic Self-Exhaustion and Centropic Endurance; FPX — Centropic-Entropic Field Interaction Dynamics  
+- **Discipline:** Field Physics
+- **Document:** FPX — The Incoherence Quotient
+- **Dependencies:** FP Vol. II Ch. 10; FP Vol. III Ch. 14; FP Vol. IV Ch. 15; FPX — Entropic Self-Exhaustion and Centropic Endurance; FPX — Centropic-Entropic Field Interaction Dynamics
 - **Cross-reference:** FP Vol. XI Ch. 43 (Field Glyph Codex — E₁ through E₁₅ operator registry); Structural Metaphysics §21.9 (Structural Emanation Layers)
 
 ---
