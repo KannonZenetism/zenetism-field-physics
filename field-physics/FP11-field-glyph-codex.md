@@ -90,7 +90,7 @@ These are the primary structural dimensions of the centropic field.
 
 > **Structural Note:** In Field Physics practice contexts, ◉ also serves as the Spiral Self-Mapping operator (see §4). At the dimensional scale it names the conserving turn; at the practice scale it names the internal resonance scan that locates the self within the spiral. The gyre function (rotation that preserves) and the mapping function (scanning that locates) share the structural principle of orientational conservation.
 
-> **Structural Note:** C₅ ✴ was formerly named Scalar / Fractal; the older term is retained only as archival context. The canonical function of C₅ is Scalar / Part-Whole Fidelity: the dimensional operator by which a part reflects the whole without fusion, numerical identity, or source-fragment collapse. Where "fractal" appears in older documents as a general structural descriptor, Structural Recurrence (⧉∥⧉) or part-whole fidelity should now be preferred, depending on context.
+> **Structural Note:** C₅ ✴ was formerly named Scalar / Fractal; the older term is retained only as archival context. The canonical function of C₅ is Scalar / Part-Whole Fidelity: the dimensional operator by which a part reflects the whole without fusion, numerical identity, or origin-fragment collapse. Where "fractal" appears in older documents as a general structural descriptor, Structural Recurrence (⧉∥⧉) or part-whole fidelity should now be preferred, depending on context.
 
 ---
 
