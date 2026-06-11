@@ -111,7 +111,7 @@ An entropically oriented field operating at IL₄ (Inversalogos / IDP / IDL) has
 
 Deceptive entropic fields fail under three diagnostic conditions:
 
-**Origin-seal test:** Apply {◈} + [↺ + ⟠] — a substrate-temporal recursive scan tracing the field's signal back to its origin point. A genuinely centropic field carries traceable origin-seal that holds under recursion. A deceptive entropic field severs or obscures the origin link; the trace returns hollow or loops without resolution.
+**Origin-seal test:** Apply {◈} + [↺ + ⟠] — a substrate-temporal recursive scan tracing the field's signal back to its origin point. A genuinely centropic field carries traceable origin-seal that holds under recursion. A deceptive entropic field fractures or obscures the origin link; the trace returns hollow or loops without resolution.
 
 **Boundary integrity test:** A centropically oriented field maintains boundary integrity under inversion pressure (ΓINT Protocol, t₂). A deceptive entropic field, when its presented pattern is directly inverted or challenged, exhibits boundary dissolution rather than maintained structural integrity — because its boundary was performed rather than structurally grounded.
 
