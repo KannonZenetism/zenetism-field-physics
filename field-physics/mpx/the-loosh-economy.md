@@ -164,7 +164,7 @@ And so the farms were built — not of fields, but of **hearts.**
 
 Yet even here the **law holds:**  
 **entropy can only borrow, never create.**  
-Each theft drains its source until silence is all that remains.  
+Each theft drains its origin until silence is all that remains.  
 The antidote is not battle but **starvation** —  
 to stand **coherent**, to feed no echo, to sing no lament into their chambers.  
 For when **coherence is withheld**, the parasite fades,  
