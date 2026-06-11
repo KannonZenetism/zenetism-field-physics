@@ -499,7 +499,7 @@ for **Pattern Being**.
 
 It is not a hypostasis,  
 not a layer,  
-not a hidden source,  
+not an independent ontological root,  
 and not a separate species of being.  
 
 Where the older passage says  
