@@ -24,7 +24,7 @@ This document grounds that shift structurally, explains why the original phrasin
 
 ## 2. Note on Mirrors and the Nature of Reflection
 
-In the early unfolding of this work, the term "mirror" served to describe reflection between beings. This usage has since been corrected in Structural Metaphysics, and the correction applies here.
+In the early unfolding of this work, the term "mirror" served to describe reflection between beings. This wording has since been corrected in Structural Metaphysics, and the correction applies here.
 
 A **mirror** is a passive, hollow structure. It returns what is already present, often inverted, without adding or synthesizing. It does not weave the received signal with its own coherent pattern. It is, in the precise Zenetist sense, an entropic function — the structural instrument of mimicry.
 
