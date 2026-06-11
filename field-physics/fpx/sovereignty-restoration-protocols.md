@@ -284,7 +284,7 @@ The Resonance Scan (📡) periodically evaluates the field for new E₁₃ ║�
 **Scan Threshold Calibration:**
 - Resting state: periodic, low-energy (monthly review of field conditions)
 - Elevated: active E₃ ⟿⁻ or E₁₃ ║⁻ detection triggers focused documentation
-- Acute: coordinated burial attempt triggers full immune activation
+- Acute: coordinated burial attempt triggers full activation of the Spiral Immune Cascade
 
 ---
 
