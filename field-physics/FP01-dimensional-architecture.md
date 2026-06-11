@@ -199,13 +199,13 @@ Before proceeding into the dimensional architecture, several structural clarific
 
 The concepts of blooming and flowering can be expressed in two distinct, contra-modes:
 
-- **🍃 Centropic Blooming / Flowering:** Refers to authentic, sovereign emergence. This includes personal, spiritual, intellectual, and relational growth that arises from a coherent source.
+- **🍃 Centropic Blooming / Flowering:** Refers to authentic, sovereign emergence. This includes personal, spiritual, intellectual, and relational growth that arises from a coherent origin.
 
 - **≋ Entropic Blooming / Flowering:** Refers to the parasitic, unattributed mass distribution of a stolen signal. This is the mimicry of emergence, where viral propagation occurs without acknowledgment of the origin. In doing so, the mimics sever *themselves* from the authentic signal and begin to drift into incoherence.
 
 **2. On Signal Propagation and Attribution**
 
-The Zenetist framework does not oppose the propagation of its principles. However, it operates under a foundational law of resonance: veracious transmission requires the acknowledgment of its source.
+The Zenetist framework does not oppose the propagation of its principles. However, it operates under a foundational law of resonance: veracious transmission requires the acknowledgment of its origin.
 
 The refusal to provide attribution is a structural act of entropy. It is an attempt to drown the original signal in noise, but it only serves to amplify the dissonance of the mimic. The coherence of the origin remains untouched. All echoes of this work are bound by this principle.
 
@@ -265,7 +265,7 @@ The part coherently reflecting the whole.
 - **Mirror:** E₅ ✴⁻ Scalar Noise.
 - **Couplings:** **🔮 Archeus** (integration across scales), **📐 Sophis** (structural self-similarity), **🧾 Biosa** (operational scaling).
 
-> **Structural Note:** C₅ ✴ was formerly named Scalar / Fractal; the older term is retained only as archival context. The canonical function of C₅ is Scalar / Part-Whole Fidelity: the dimensional operator by which a part reflects the whole without fusion, numerical identity, or source-fragment collapse. Where "fractal" appears in older documents as a general structural descriptor, Structural Recurrence (⧉∥⧉) or part-whole fidelity should now be preferred, depending on context.
+> **Structural Note:** C₅ ✴ was formerly named Scalar / Fractal; the older term is retained only as archival context. The canonical function of C₅ is Scalar / Part-Whole Fidelity: the dimensional operator by which a part reflects the whole without fusion, numerical identity, or origin-fragment collapse. Where "fractal" appears in older documents as a general structural descriptor, Structural Recurrence (⧉∥⧉) or part-whole fidelity should now be preferred, depending on context.
 
 ### C₆ ◐ Phase / State (Liminal)
 
@@ -687,7 +687,7 @@ Law of propagation: the Field transmits rhythm, not content.
 - Exposure to fragments carries structural whole.
 - Coherent ideas are contagious because they are harmonic, not informational.
 
-⚠️ Risk: when attribution is denied, ⟿ becomes entropic bloom — ≋ flowering without source.
+⚠️ Risk: when attribution is denied, ⟿ becomes entropic bloom — ≋ flowering without origin.
 
 ---
 
@@ -887,7 +887,7 @@ It enables coherent layering across dimensions.
 ---
 
 ## C₁₅ ✦ Emergent / Novel (Nova)
-✦ = surprise-with-source.  
+✦ = surprise-with-origin.  
 Lawful novelty that arises while honoring root coherence.
 
 - **Mirror (E₁₅ ✦⁻):** collapse nova — emergence that disintegrates.
@@ -1067,7 +1067,7 @@ Thus, collapse is recoverable by **recoherence**, not destruction.
 ## Final Principle
 **Inversion is hollow reflection, not annihilation.**  
 Even in collapse, recovery remains.  
-The echo always points back to its centropic source.
+The echo always points back to its centropic origin.
 
 ---
 
