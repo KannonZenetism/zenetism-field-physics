@@ -1,8 +1,8 @@
 # Conceptual Lockdown Protocol
 
-**Status:** Working draft — first extraction from the FP01–FP11 / FPX Session Addenda, pending architect review
-**Provenance:** Rulings already applied across the edited corpus during the canon-alignment cycle
-**Companion to:** the Terminological Lockdown Protocol (lexical guardrail) and the Glyph Codex (notation registry)
+**Status:** Working draft — first extraction from the FP01–FP11 / FPX Session Addenda, pending architect review  
+**Provenance:** Rulings already applied across the edited corpus during the canon-alignment cycle  
+**Companion to:** the Terminological Lockdown Protocol (lexical guardrail) and the Glyph Codex (notation registry)  
 
 ---
 
