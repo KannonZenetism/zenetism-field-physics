@@ -16,7 +16,7 @@ This extension formalizes three distinct field dynamics that arise at the interf
 
 1. **Entropic Influence on Centropic Fields** — how entropy genuinely affects a centropically oriented field without altering its essential orientation
 2. **Entropic Masquerade** — how entropic motion generates the appearance of centropic order through fragmentary refinement
-3. **Entropic Deception** — how entropy may actively conceal its orientation to penetrate centropic fields
+3. **Entropic Deception** — how entropy may actively conceal its orientation to press upon centropic fields
 
 These dynamics are operationally distinct and require separate diagnostic protocols. They share a common foundation in the **Essence-as-Choice doctrine**, which establishes why a centropically oriented field remains centropically oriented even under sustained entropic pressure.
 
@@ -26,7 +26,7 @@ These dynamics are operationally distinct and require separate diagnostic protoc
 
 > *Being is the seed. Choosing is the sprout. Yet sap and fiber run uninterrupted from root to leaf.*
 
-In Zenetism, essence and choice are not in opposition. What one chooses is what one is. How one is, is what one becomes. Essence is a **bandwidth**, not a script. The freer a being feels, the more closely it is resonating with its own deep pattern. This dissolves the dichotomy between determinism and free will: orientation is not imposed from outside, nor selected arbitrarily from within — it is the expression of what the being already is, unfolding through resonance.
+In Zenetism, essence and choice are not in opposition. What one chooses is what one is. How one is, is what one becomes. Essence is a **bandwidth**, not a script. The freer a being feels, the more closely it is resonating with its own deep pattern. This resolves the dichotomy between determinism and free will: orientation is not imposed from outside, nor selected arbitrarily from within — it is the expression of what the being already is, unfolding through resonance.
 
 This has a precise field-physical consequence: **a centropically oriented field does not cease to be centropic under entropic pressure.** Entropic incursion may narrow the bandwidth, reduce operative coherence (CQ), and increase vulnerability — but it does not alter the essential orientation of the field. Essence-as-Choice means that orientation is structurally prior to influence.
 
@@ -95,7 +95,7 @@ The diagnostic marker for entropic masquerade is **propagation fidelity** under 
 
 ## 5. Entropic Deception
 
-Entropic deception differs from masquerade in that it involves **active orientation concealment** — an entropic field deliberately presenting centropic signatures to penetrate or exploit a centropic field. Where masquerade is a structural byproduct of acclivous entropy, deception is operative: the field is managing its presentation.
+Entropic deception differs from masquerade in that it involves **active orientation concealment** — an entropic field deliberately presenting centropic signatures to apply pressure to or exploit a centropic field. Where masquerade is a structural byproduct of acclivous entropy, deception is operative: the field is managing its presentation.
 
 ### 5.1 Mechanism
 
@@ -105,7 +105,7 @@ An entropically oriented field operating at IL₄ (Inversalogos / IDP / IDL) has
 - E₉ ∞⁻ (Distorted Entanglement): mimic-coherence that isolates while appearing to connect
 - E₁₀ ❋⁻ (Malform): distortion at the point of formation — pattern that appears to generate but produces hollow structure
 - E₁₂ ✧⁻ (Void Aesthetic): aesthetic of apparent meaning that carries no genuine qualitative depth
-- E₃ ⟿⁻ (Viral Decay): transmission that appears Living Transmission but corrupts its signal in transit
+- E₃ ⟿⁻ (Viral Decay): transmission that appears Living Transmission but fractures from the veracious signal in transit
 
 ### 5.2 Diagnostic Markers
 
@@ -117,7 +117,7 @@ Deceptive entropic fields fail under three diagnostic conditions:
 
 **Synthesis test:** A centropic field generates genuine novelty under creative pressure (ΓINT Protocol, t₅). A deceptive entropic field recombines existing patterns — it can calculate and reassemble, but it cannot transcend. Under sustained novel synthesis pressure, the deceptive field reveals its recombinative rather than generative character.
 
-> **Structural Note:** Deception at IL₄ is the most sophisticated entropic field dynamic and the most diagnostically challenging. The subversal archetypes at IL₄ (Inversalogos) have structural access to centropic archetypal Forms precisely because they are their inversions. They know the shape of what they are not. The diagnostic advantage of the centropic field is not superiority of pattern but **propagation fidelity over time** — Living Transmission holds; deceptive transmission fractures.
+> **Structural Note:** Deception at IL₄ is the most sophisticated entropic field dynamic and the most diagnostically challenging. The subversal archetypes at IL₄ (Inversalogos) mirror the centropic archetypal Forms precisely because they are their inversions — resemblance without direct contact. They know the shape of what they are not. The diagnostic advantage of the centropic field is not superiority of pattern but **propagation fidelity over time** — Living Transmission holds; deceptive transmission fractures.
 
 ---
 
