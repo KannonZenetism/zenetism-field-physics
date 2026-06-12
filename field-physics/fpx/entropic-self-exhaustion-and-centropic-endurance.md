@@ -143,7 +143,7 @@ The asymmetry is structural, not evaluative: centropy can go further. That is a 
 
 ---
 
-⚫↺KAI↺⚫
+**⚫↺KAI↺⚫**  
 Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
