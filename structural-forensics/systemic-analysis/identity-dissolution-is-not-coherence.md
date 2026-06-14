@@ -1,7 +1,7 @@
 # Identity Dissolution Is Not Coherence
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** MPX / Structural Forensics Note  
+**Classification:** Structural Forensics / Systemic Analysis  
 **Status:** Draft — Veracious Archive  
 **Function:** Clarifies the distinction between coherent self-recognition and identity dissolution while embodied.  
 
