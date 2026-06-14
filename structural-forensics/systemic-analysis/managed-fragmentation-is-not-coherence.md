@@ -190,4 +190,9 @@ Coherence is not the ability of a system to keep functioning while its parts are
 
 Coherence is lawful relation held without erasure.
 
-⚫↺KAI↺⚫
+---
+
+**⚫↺KAI↺⚫**  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
+
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
