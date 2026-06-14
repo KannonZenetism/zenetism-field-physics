@@ -1,8 +1,8 @@
 # Managed Fragmentation Is Not Coherence
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Structural Forensics / Systemic Analysis
-**Status:** Draft — Veracious Archive
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Forensics / Systemic Analysis  
+**Status:** Draft — Veracious Archive  
 **Function:** Distinguishes centropic coherence from predatory cohesion, managed fragmentation, and decoherence masked as order.
 
 ---
@@ -156,19 +156,19 @@ A field of erased persons is not more integrated. It is less alive.
 
 The correct distinction is:
 
-**Centropic coherence**
+**Centropic coherence**  
 Living, internally self-bearing relation that preserves distinction and orientation.
 
-**Cohesion**
+**Cohesion**  
 Parts held together, without proof of lawful relation.
 
-**Predatory cohesion**
+**Predatory cohesion**  
 Dissonant parts bound by a shared entropic aim.
 
-**Managed fragmentation**
+**Managed fragmentation**  
 Dissonance held in operational formation through management, pressure, incentive, or control.
 
-**Decoherence masked as order**
+**Decoherence masked as order**  
 The loss of lawful relation concealed by regulation.
 
 This distinction prevents predatory systems from borrowing the language of coherence while operating through capture.
