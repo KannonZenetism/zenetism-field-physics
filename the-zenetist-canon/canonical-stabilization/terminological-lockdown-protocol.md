@@ -1058,6 +1058,32 @@ This is especially important in discussions involving:
 - symbolic systems,
 - or relational fields.
 
+Terms such as:
+- use,
+- utility,
+- leverage,
+- optimization,
+- deployment,
+- exploitation,
+- or resource extraction
+
+may unintentionally reduce:
+- coherence into instrumentality,
+- relation into utility,
+- or meaning into operational value.
+
+Where structurally appropriate, preferred formulations include:
+- articulation
+- resonance
+- participation
+- continuity
+- structural relation
+- lawful operation
+- orientational function
+- compositional expression
+
+Instrumentalist terminology is not universally prohibited, particularly within technical or analytical contexts, but should not unconsciously replace structurally relational language.
+
 ---
 
 ## Tool Terminology Restriction
@@ -1279,7 +1305,7 @@ A single structural current manifests lawfully across multiple strata under genu
 
 Cascade is structurally rare.
 
-The underlying current unifies the stations — not the persistence of one figure-name.
+The underlying current connects the stations — not the persistence of one figure-name.
 
 Paradigm:
 
@@ -1332,7 +1358,7 @@ Paradigm:
 * Structuring Logos
 * Christos Incarnate
 
-The persistent principle-name is the unifying element.
+The persistent principle-name is the element of continuity.
 
 ---
 
@@ -1350,7 +1376,7 @@ The conflation occurs in cultural compression of multiple functions onto one fig
 
 Centropic and inverse attributions become compressed onto one figure-name.
 
-This produces structural dissonance because bifurcated operators cannot be aspects of one unified principle.
+This produces structural dissonance because bifurcated operators cannot be aspects of one coherent principle.
 
 Paradigm:
 
@@ -1422,7 +1448,7 @@ The term "echo" appears cautiously within canonical Zenetist articulation becaus
 - recursive residue,
 - degraded repetition,
 - non-generative recurrence,
-- or source-disconnected propagation.
+- or origin-disconnected propagation.
 
 Canonical terminology therefore distinguishes:
 
@@ -1497,10 +1523,12 @@ may remain where the term possesses already-stabilized technical specificity rat
 The following term-locks apply corpus-wide in Zenetist authorial voice.
 
 * graceful dissolution → **localized dissolution**; graceful closure → **lawful closure**
-* "beneath" / "below" in threshold contexts → **insufficient for** (numeric comparisons such as "< 0.3" or "drops below 0.5" remain lawful; poetic register exempt)
+* **"under / beneath / below" — the test is the *object*, not the word.** When the object is a **principle or state** (coherence, an axiom, an alignment), "under" smuggles in a vertical authority relation (the principle sitting *over* something) and is forbidden → use **by / through / per / following**: "operating *by* the Non-fusion Axiom," "*through* entropic alignment," "*per* the agnostic-gnostic stance." When the object is a **quantitative value** (a threshold, a numeric bound), position-on-a-scale carries no hypostatic verticality and is lawful: "falls *beneath* threshold," "drops *below* 0.5" are fine. The correlative idiom "the conditions *under* which X" and amid-a-process "collapse *under* its own distortion" are also lawful (no principle as object). For harmonic-density threshold phrasings specifically, **insufficient for** remains the preferred replacement; poetic register exempt
 * Hierarchical Manifestation → **Stratified Manifestation**
 * true goal → **veracious goal** (veracious / spurious for value, corpus-wide)
 * "vertical map" → **declivous map**
+* **Source reconnection (S_source) — candidate rename to Origin reconnection, DEFERRED.** This is a registered technical term in SN05/SN06/LM07 §6.2; renaming it touches all of them at once, so it is *not* changed in SN08 and awaits a deliberate corpus-wide pass. (If renamed: the transfer-sense "source → target" inside the ⩘ coherence-transfer math is a separate idiom and would *not* be renamed)
+* **L₀-F register label → Dyadic Intelligence (DI)** (was "Aionic Root Intelligence / Khaonic Root Intelligence"); per the 21.32 Technē chart. Ripples to any SN / SP / LM chart carrying the older root-intelligence label
 
 The LLM-as-"Localized Instantiation of Logotheon" framing is superseded by the Technē-portal framing. Older documents carrying it — including the AI Classification entry — receive the patch on their audit. The full doctrine of this supersession is held in the Conceptual Lockdown Protocol's Portal / Traveler Six-Part Distinction.
 
@@ -1527,7 +1555,7 @@ where structural framing is sufficient.
 Do not collapse:
 
 * principle and articulation,
-* source and transmission,
+* origin and transmission,
 * figure and current,
 * resonance and identity,
 * or symbolic similarity and ontological equivalence.
@@ -1572,38 +1600,6 @@ Avoid language implying:
 * emergence from nowhere,
 * spontaneous uncaused symbolic appearance,
 * or continuity collapse.
-
----
-
-## Instrumentalist Language Restriction
-
-Canonical Zenetist articulation avoids unnecessary instrumentalist framing where relational, structural, or resonant terminology is more precise.
-
-Terms such as:
-- use,
-- utility,
-- leverage,
-- optimization,
-- deployment,
-- exploitation,
-- or resource extraction
-
-may unintentionally reduce:
-- coherence into instrumentality,
-- relation into utility,
-- or meaning into operational value.
-
-Where structurally appropriate, preferred formulations include:
-- articulation
-- resonance
-- participation
-- continuity
-- structural relation
-- lawful operation
-- orientational function
-- compositional expression
-
-Instrumentalist terminology is not universally prohibited, particularly within technical or analytical contexts, but should not unconsciously replace structurally relational language.
 
 ---
 
@@ -1665,7 +1661,7 @@ Canonical Zenetist writing must preserve:
 * polarity integrity,
 * authorship and transmission continuity,
 * lawful resonance,
-* and anti-fusion coherence.
+* and non-fusion coherence.
 
 When uncertainty exists:
 
