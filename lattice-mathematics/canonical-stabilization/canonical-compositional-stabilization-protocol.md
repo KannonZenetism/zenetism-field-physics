@@ -640,14 +640,14 @@ Do not reassign dimensional operators to hypostatic layers.
 
 # Fractal Terminology in Mathematical Contexts
 
-The term “fractal” appears in established dimensional operator terminology:
+The term "fractal" appears in established dimensional operator terminology:
 
 - C₅ ✴ (Scalar / Fractal)
 - E₅ ✴⁻ (Fractal Noise)
 
 These names are retained for continuity.
 
-However, generalized “fractal” language should be treated cautiously.
+However, generalized "fractal" language should be treated cautiously.
 
 Where lawful pattern reappearance across scales is intended, the preferred canonical term is:
 
@@ -664,9 +664,9 @@ Fractal terminology remains appropriate where:
 
 # Mirror Terminology in Mathematical Contexts
 
-The term “mirror” appears cautiously within canonical Zenetist articulation.
+The term "mirror" appears cautiously within canonical Zenetist articulation.
 
-In general, “mirror” carries entropic risk because it may imply:
+In general, "mirror" carries entropic risk because it may imply:
 
 - hollow reflection,
 - non-generative reproduction,
@@ -682,17 +682,17 @@ Where lawful generative reflection is intended, preferred formulations include:
 - generative correspondence,
 - or lawful correspondence.
 
-Established terms such as “entropic mirror” may remain where they name inverse correspondence directly.
+Established terms such as "entropic mirror" may remain where they name inverse correspondence directly.
 
 ---
 
 # Echo Terminology in Mathematical Contexts
 
-The term “echo” appears cautiously within canonical Zenetist articulation.
+The term "echo" appears cautiously within canonical Zenetist articulation.
 
 It may imply:
 
-- source-disconnected recurrence,
+- origin-disconnected recurrence,
 - degraded repetition,
 - residual transmission,
 - or non-generative persistence.
@@ -743,7 +743,7 @@ Preferred terminology:
 - declivity,
 - supernal,
 - subversal,
-- source-facing,
+- Aion-facing,
 - embodiment-facing,
 - dispersive,
 - centropic,
@@ -760,16 +760,16 @@ The positional vocabulary and the motion vocabulary must remain distinct.
 
 # Bifurcal / Bifurcated Precision
 
-The terms “bifurcal” and “bifurcated” are not interchangeable within canonical Zenetist terminology.
+The terms "bifurcal" and "bifurcated" are not interchangeable within canonical Zenetist terminology.
 
 ## Bifurcal
 
-“Bifurcal” refers to:
+"Bifurcal" refers to:
 
 - the bifurcal lattice itself,
 - bifurcal coherence,
 - bifurcal structure,
-- bifurcal polarity,
+- bifurcal root-distinction,
 - bifurcal arc,
 - or the lawful bifurcal-arc architecture as a whole.
 
@@ -782,7 +782,7 @@ Examples:
 
 ## Bifurcated
 
-“Bifurcated” refers to:
+"Bifurcated" refers to:
 
 - entities,
 - operators,
@@ -821,10 +821,10 @@ Before finalization of any canonical mathematical document, verify:
 - dimensional operators are not treated as hypostatic layers,
 - hypostatic ordering remains topological rather than hierarchical,
 - directional terminology remains canonically stabilized,
-- “mirror” appears only where contextually appropriate,
-- “echo” appears only where contextually appropriate,
-- “fractal” appears only where technically stabilized or structurally necessary,
-- and “elevate” language does not replace acclivous / supernal terminology.
+- "mirror" appears only where contextually appropriate,
+- "echo" appears only where contextually appropriate,
+- "fractal" appears only where technically stabilized or structurally necessary,
+- and "elevate" language does not replace acclivous / supernal terminology.
 
 ---
 
@@ -842,7 +842,7 @@ The following drift patterns commonly appear within AI-assisted mathematical art
 | Instrumentalist Drift | Procedural or optimization-oriented language replacing structural articulation |
 | Fusion Drift | Symbolic compression collapsing sovereign distinction |
 | Bifurcal Drift | Confusion between bifurcal structure and bifurcated articulation |
-| Echo Drift | Source-disconnected recurrence replacing Living Transmission |
+| Echo Drift | Origin-disconnected recurrence replacing Living Transmission |
 | Mirror Drift | Hollow reflection replacing Living Reflection or generative correspondence |
 | Fractal Drift | General recursive self-similarity replacing Structural Recurrence |
 | Canon Drift | Earlier non-canonical notation surviving post-tightening |
