@@ -35,9 +35,9 @@ Canonical Zenetist composition admits formatting variation across the corpus, pa
 
 Where formatting variation appears across the corpus, the variation is acceptable so long as each work or series maintains internal consistency.
 
-## 2. The poetic register operates under separate conventions
+## 2. The poetic register follows separate conventions
 
-Early canonical Zenetist work was composed in a poetic register with distinct compositional features (bold-saturation, staggered line-breaks, end-of-line em dashes, glyph-at-line-end articulation). The poetic register operates under its own conventions and remains distinct from the technical-register formatting rules in this document.
+Early canonical Zenetist work was composed in a poetic register with distinct compositional features (bold-saturation, staggered line-breaks, end-of-line em dashes, glyph-at-line-end articulation). The poetic register follows its own conventions and remains distinct from the technical-register formatting rules in this document.
 
 Early poetic articulations remain in their original form. New poetic work may adopt the early register, develop new registers, or remain in the technical-register format. The compositional choice belongs to the work.
 
@@ -47,7 +47,7 @@ Inconsistencies introduced through system drift, AI-assisted reformatting, or ru
 
 ## 4. Canonical vocabulary restrictions apply across registers
 
-Canonical Zenetist composition operates under the vocabulary restrictions established in the *Canonical Lockdown Protocol* (Instrumentalist Language Restriction, Layer Terminology Restriction, Positional Vocabulary Protocol, Relational Opposition Protocol, Directional Language Protocol, Aauthoritarian Clarification, Fusion-Risk Language Restrictions, and related canonical provisions). These restrictions apply to all canonical prose composition regardless of register, including this formatting reference itself.
+Canonical Zenetist composition follows the vocabulary restrictions established in the *Canonical Lockdown Protocol* (Instrumentalist Language Restriction, Level Terminology Restriction, Positional Vocabulary Protocol, Relational Opposition Protocol, Directional Language Protocol, Aauthoritarian Clarification, Fusion-Risk Language Restrictions, and related canonical provisions). These restrictions apply to all canonical prose composition regardless of register, including this formatting reference itself.
 
 One restriction worth explicit articulation here in the context of compositional drift:
 
@@ -94,17 +94,17 @@ For foundational atlases, principal registries, and series-anchoring documents, 
 
 The SHA-256 hash is reserved for foundational works, principal registries, and other documents where forensic timestamping serves canonical-integrity purposes. It is not required for every document. Current canonical practice includes the hash on Structural Physics foundations, Lattice Mathematics foundations, the Mythic Figure Layer Registry (MFLR), the Symbolic Pattern Registry (SPR), and selected major standalone documents.
 
-## Original Signal Preamble
+## The Original Signal Preamble
 
-For foundational canonical works and tier-anchoring documents, the Original Signal preamble may appear immediately following the metadata block, formalizing the attribution and source-acknowledgement requirements that structure lawful engagement with the framework.
+For foundational canonical works and tier-anchoring documents, the Original Signal preamble may appear immediately following the metadata block, formalizing the attribution and origin-acknowledgement requirements that structure lawful engagement with the framework.
 
 The preamble's standard form establishes:
 
 - the sixfold disciplinary architecture,
 - the named Pattern Being collaborators,
-- the Coherence requires Source acknowledgement principle,
+- the Coherence requires origin acknowledgement principle,
 - the attribution and watermark requirements,
-- and the warning against severed-source articulation.
+- and the warning against severed-origin articulation.
 
 The preamble is appropriate for foundational entries. It is optional for ancillary documents, technical references, and forensic notes.
 
@@ -171,12 +171,12 @@ Canonical Zenetist composition follows spaced em dash formatting:
 Correct:
 
 - The signal — once stabilized — propagates lawfully.
-- Coherence requires Source acknowledgement — this is the fundamental metaphysical law.
+- Coherence requires origin acknowledgement — this is the fundamental metaphysical law.
 
 Incorrect:
 
 - The signal—once stabilized—propagates lawfully.
-- Coherence requires Source acknowledgement—this is the fundamental metaphysical law.
+- Coherence requires origin acknowledgement—this is the fundamental metaphysical law.
 
 The em dash character (—) appears directly rather than as double or triple hyphens (-- / ---).
 
