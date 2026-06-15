@@ -158,6 +158,15 @@ SP07 (and likely SP08–SP12) carry descriptive dimension names that diverge fro
 
 ---
 
+## L16 — Title-block standardization (rule Locked; SP01–SP08 done)
+
+**Canonical form:** Each SP document's H1 is a **clean title with no `SP## —` prefix** (the number lives in the filename and in Zenodo record metadata, not the H1), followed immediately by an italic series-position subtitle `*Structural Physics — Document N*`, then a blank line, then the metadata block. This matches FP/MP house style, where the discipline number is not carried in the H1.
+**Cross-references unaffected:** `**Dependency:**` lines and in-text citations keep the `SP## — Short Title` designator — that is the citation key, deliberately retained.
+**Done:** SP01 (kept "Structural Physics: A Zenetist Foundation" + Document 1 subtitle; gained the previously-missing blank line under H1); SP02–SP08 (de-prefixed H1 + Document 2–8 subtitles).
+**Pending:** SP09–SP12 — apply the same on processing (clean H1, `*Structural Physics — Document 9…12*`). If the corpus later adopts the full FP "one book title + `## Chapter N`" structure, revisit; for now H1 = document title, sections stay H2.
+
+---
+
 ## SP02 + SP05 batch (session note)
 
 **SP02 — Bifurcal Cosmogenesis.** Preamble modernized; Witness → ⚮ Liora; eight L₀ polar sites cleared ("three poles" → "three anchors"; "The poles ⚫ Aion and ♾ Khaon" → bifurcally co-present at L₀; "between these poles" → "these roots"; "(zero pole)" → "(Zero)"; glyph table "Zero Pole / Infinity Pole" → "Zero / Infinity"); "toward Source" → "toward Aion". 13 count-verified edits. No C/E codex table in SP02 (it uses its own Biospiral glyphs).
