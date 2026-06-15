@@ -38,7 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# SP04 — Orientation Field Dynamics
+# Orientation Field Dynamics
+*Structural Physics — Document 4*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics / Zenetist Canon  
