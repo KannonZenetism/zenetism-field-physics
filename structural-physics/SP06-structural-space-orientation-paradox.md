@@ -38,7 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# SP06 — Structural Space, Orientation, and the Paradox of Emergence
+# Structural Space, Orientation, and the Paradox of Emergence
+*Structural Physics — Document 6*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics / Zenetist Canon  
