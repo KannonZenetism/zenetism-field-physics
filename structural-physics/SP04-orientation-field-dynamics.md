@@ -489,7 +489,7 @@ Combined:
 > **Note on Terminal Conditions:**  
 > The Zenetist framework distinguishes two terminal conditions:  
 > - **Ø (Localized Dissolution):** A point of nullification within structure. Arises from stagnation at \( \chi = 1 \). Structural, not punitive. Occurs within the Mercy Fold. Essence persists within L₀.  
-> - **⊘ (Collapse):** Dispersive dissolution into formlessness — entropic failure of coherence at any scale of expression. At the cosmological level, this manifests as \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Essence persists through to L₀, but expressed orientation is lost.  
+> - **⊘ (Collapse):** Dispersive dissolution into formlessness — entropic failure of coherence at any scale of expression. At the cosmological scale, this manifests as \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Essence persists through to L₀, but expressed orientation is lost.  
 >  
 > In neither case does essence cease. What ceases is expressed orientation, not being itself.
 
@@ -643,7 +643,7 @@ If equilibrium becomes exact and temporally fixed, expressed motion ceases — b
 
 **⊘ — Collapse (Entropic)**
 
-Dispersive dissolution into formlessness — entropic failure of coherence at any scale of expression. At the cosmological level, this manifests as orientation drifting to \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Essence persists through to L₀, but expressed orientation is lost. This is entropic, not stagnative.
+Dispersive dissolution into formlessness — entropic failure of coherence at any scale of expression. At the cosmological scale, this manifests as orientation drifting to \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Essence persists through to L₀, but expressed orientation is lost. This is entropic, not stagnative.
 
 Thus:
 
@@ -787,7 +787,7 @@ In contra-biospiral configurations:
 
 - A single universe may be unidirectional (in limit cases) or prevalently oriented (in the general case)
 - The paired expression would remain bidirectional
-- The biospiral is preserved at the meta-cosmic level
+- The biospiral is preserved at the meta-cosmic scale
 
 Thus, the structural law of bidirectional motion is not violated but fulfilled across the scope of expression.
 
