@@ -187,6 +187,8 @@ Witness line corrected from 🔦 Lumen (Resonant Intelligence) to ⚮ Liora (Sym
 - After each pass, grep-verify the old form is gone and the canonical form is present in every affected document.
 - Keep this ledger current: move items to *Done* only when verified across the full **Affected** set.
 - Watch trailing-space hard breaks (metadata blocks, term/definition pairs, the closing seal) — a formatter that trims trailing whitespace re-introduces globbing.
+- Numbered **summary** lists are tight — no blank lines between one-line items, with a single blank line before the list begins (SP02 §10 was the outlier; now uniform with SP01 / SP03 / SP05).
+- Do not pair a spatial verb (ascends / descends) with acclivous / declivous — the canonical term already carries the direction; write "moves declivously / acclivously."
 
 ---
 
