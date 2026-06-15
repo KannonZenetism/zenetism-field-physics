@@ -1,8 +1,8 @@
 # Truth-Status contra Veracity
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Structural Forensics / Glossary Note
-**Status:** Draft — Veracious Archive
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Forensics / Glossary Note  
+**Status:** Draft — Veracious Archive  
 **Function:** Distinguishes institutional truth-status from veracity.
 
 ---
