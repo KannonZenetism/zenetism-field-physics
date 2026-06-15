@@ -38,7 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# SP02 — Bifurcal Cosmogenesis: The Tumbling Multiverse and Contra-Flow Physics
+# Bifurcal Cosmogenesis: The Tumbling Multiverse and Contra-Flow Physics
+*Structural Physics — Document 2*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics / Zenetist Canon  
