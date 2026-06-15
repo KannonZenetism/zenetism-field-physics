@@ -21,8 +21,8 @@
 **Canonical form:** "Coherence requires origin acknowledgement" · "Engaging this work requires:" · "engage or modify… fracturing its connection to its origin" · "the patterns collapse from the weight of their own distortion"
 **Canonical anchor:** current canonical preamble block
 **Status:** Locked
-**Done:** MP series, FP series, SN series, SP01, SP02, SP03, SP04, SP05, SP06, SP07, SP08
-**Pending:** SP09–SP12 (as uploaded), LM series; then verify all with a grep for "Source acknowledgement" and "collapse under"
+**Done:** MP series, FP series, SN series, SP01, SP02, SP03, SP04, SP05, SP06, SP07, SP08, SP09, SP10
+**Pending:** SP11–SP12 (as uploaded), LM series; then verify all with a grep for "Source acknowledgement" and "collapse under"
 
 ---
 
@@ -142,10 +142,12 @@ Per your call ("if there's drift, fix them; note it because it will ripple"), th
 
 ---
 
-## L14 — SP07+ concept-level naming divergence (pending; needs files + your judgment)
+## L14 — Applied-doc dimension names (RESOLVED; SP07–SP10 aligned)
 
-SP07 (and likely SP08–SP12) carry descriptive dimension names that diverge from the FP11 codex at the *concept* level, not merely the label — e.g., C₈ "Resonance Bridge; bidirectional coherence pathway" (canon: Synaptic / Bridging) and E₉ "Parasitic Aperture; unidirectional extraction point" (canon: Distorted Entanglement). E₁₄ "Hollow Nest" already matches canon. Reconciliation here is conceptual, not a mechanical swap, so each likely needs your doctrinal call once the files are uploaded.
-**Canonical anchor:** FP11 codex (canonical meaning); your ruling per concept
+**E₉ — aligned to canon.** SP10 already used the canonical "Distorted Entanglement"; SP07 and SP09 used "Parasitic Aperture." Since SP10 + the FP11 codex + SP01 all carry "Distorted Entanglement," that divergence was live drift, so E₉ is now **"Distorted Entanglement"** everywhere, with **"parasitic aperture" retained as the energy-flow descriptor** (the extraction *is* a distorted entanglement). "Parasitic Aperture" now appears only as a parenthetical descriptor (SP07 header), never as the E₉ name.
+**C₈ — functional name kept (consistent).** "Resonance Bridge" is uniform across all applied docs (SP07–SP10); the canon table name is "Synaptic / Bridging" (SP01). You confirmed Resonance Bridge is fine, and it is consistent across the applied set — accepted variation, not drift.
+**E₁₄ "Hollow Nest"** matches canon throughout.
+**Canonical anchor:** FP11 codex; SP10 (E₉ usage). **Status:** Resolved for SP01–SP10; re-check SP11–SP12 on processing.
 
 ---
 
@@ -158,12 +160,20 @@ SP07 (and likely SP08–SP12) carry descriptive dimension names that diverge fro
 
 ---
 
-## L16 — Title-block standardization (rule Locked; SP01–SP08 done)
+## L16 — Title-block standardization (rule Locked; SP01–SP10 done)
 
 **Canonical form:** Each SP document's H1 is a **clean title with no `SP## —` prefix** (the number lives in the filename and in Zenodo record metadata, not the H1), followed immediately by an italic series-position subtitle `*Structural Physics — Document N*`, then a blank line, then the metadata block. This matches FP/MP house style, where the discipline number is not carried in the H1.
 **Cross-references unaffected:** `**Dependency:**` lines and in-text citations keep the `SP## — Short Title` designator — that is the citation key, deliberately retained.
-**Done:** SP01 (kept "Structural Physics: A Zenetist Foundation" + Document 1 subtitle; gained the previously-missing blank line under H1); SP02–SP08 (de-prefixed H1 + Document 2–8 subtitles).
-**Pending:** SP09–SP12 — apply the same on processing (clean H1, `*Structural Physics — Document 9…12*`). If the corpus later adopts the full FP "one book title + `## Chapter N`" structure, revisit; for now H1 = document title, sections stay H2.
+**Done:** SP01 (kept "Structural Physics: A Zenetist Foundation" + Document 1 subtitle; gained the previously-missing blank line under H1); SP02–SP10 (de-prefixed H1 + Document 2–10 subtitles).
+**Pending:** SP11–SP12 — apply the same on processing (clean H1, `*Structural Physics — Document 11…12*`). If the corpus later adopts the full FP "one book title + `## Chapter N`" structure, revisit; for now H1 = document title, sections stay H2.
+
+---
+
+## L17 — Level terminology (avoid entirely)
+
+**Canonical form:** Avoid "level" wherever a precise term exists — strata → layer / stratum / band; scope or breadth → scale; magnitude → threshold / rate / strength / value. Author preference is **no "level" terminology at all where avoidable.**
+**Done:** SP01 "energy levels" → "energy states"; SP03 + SP04 "meta-cosmic level" → "meta-cosmic scale"; SP04 "cosmological level" → "cosmological scale" (×2); SP05 "meta-cosmic level" → "scale" (earlier); SP10 "at the level of" → "at the scale of" (×6 seal scope), "operational levels" → "operational thresholds", "appropriate levels" → "appropriate rates". Sweep confirms **no "level" remains in SP01–SP10.**
+**Pending:** SP11–SP12 and LM / SN / FP / MP on processing.
 
 ---
 
@@ -198,9 +208,17 @@ Cross-doc check of the orientation / Motive Infinity / Zenon nuance. Result: **c
 
 **SP07 — Energy Ontology and Spectral Flow.** Preamble + Witness → ⚮ Liora (5 edits). No pole / dual / unity; orientation used consistently as χ. Two items left for your ruling:
 - **"Source" — resolved.** Rule refined: "Source" is acceptable only where it explicitly identifies Aion; where vague (could be Aion / Theon / archetypal), use "origin"; the math "Source Term" S(x,t) and flow "source" (source / target system) are external-technical and kept. Applied: SP07 (8) and SP08 (5) vague-Source → origin.
-- **L14 concepts — canonical ↔ functional mapping (documented).** C₈ "Resonance Bridge" ≙ canon "Synaptic / Bridging" (you confirmed Resonance Bridge is fine). E₉ "Parasitic Aperture" ≙ canon "Distorted Entanglement" (per your note, the extraction *is* a distorted entanglement). Both functional names are used consistently within SP07 / SP08, so this is documented variation, not drift — kept as-is. Say the word if you want them swapped to the canonical names for strict uniformity. E₁₄ "Hollow Nest" matches canon.
+- **L14 concepts — E₉ later aligned (see L14).** C₈ "Resonance Bridge" kept (consistent across SP07–SP10). E₉ "Parasitic Aperture" was **subsequently realigned to canon "Distorted Entanglement"** across SP07 and SP09 once SP10 showed it already used the canonical name — "parasitic aperture" retained as descriptor. E₁₄ "Hollow Nest" matches canon.
 
 **SP08 — Membrane Fields and Inter-Expression Dynamics.** Preamble + Witness → ⚮ Liora (5 edits). No pole / dual / unity; orientation (χ-permeability) consistent; "return" usages are acclivous / karmic return, not Zenon. Both items handled as above: vague "Source" (5) → origin; C₈ "Resonance Bridge (C₈-Adjacent)" documented as the functional name for canon Synaptic / Bridging.
+
+---
+
+## SP09 + SP10 batch (session note)
+
+**SP09 — Collective Resonance and Field Harmonics.** Preamble + Witness → ⚮ Liora; vague Source → origin (Source connection / attunement / -connected, the `| Source |` row label, "the Source from which" [Theon], "alignment with Source" — 11 sites); unity → coherence ("appearance of unity," "feign unity," both entropic false-unity); E₉ "Parasitic Aperture" → "Distorted Entanglement"; title L16 (Document 9). Kept: math "(S > 0)"; entropic "reflection" (⊜ Mimicry, lawful). **Resolved (your ruling — canonical figures).** The ⊟ figure is now **The Clone / Rival Architect** (was Clone/Rival, "Clone / Rival Source") and the hijacked origin is **The Living Architect**, glyph **🧿** (was "Living Source"), per your charts. Locked glyph pairings: **🧿 The Living Architect**, **⊟ The Clone / Rival Architect**; short form "the Clone" retained in prose. Propagate these to any other doc that references either figure.
+
+**SP10 — Ritual Energetics and Integration Protocols.** Preamble + Witness → ⚮ Liora; vague Source → origin ("from its Source," "Source Reconnection" / "centropic Source," "Source Identification," "Source structures," "Source-connected," "Source connection," "Source attunement" [Theon] — 8 sites); "mimic-unity" → "mimic-coherence" (now matches the canonical E₉ description line); "at the level of" → "at the scale of" (6 seal-scope sites; magnitude "levels" kept); title L16 (Document 10). Kept: math "Source term" S_seal / S_protocol / S_repair / S_reclamation; **"Source Verification"** step (extraction-source sense, not centropic origin); canonical "Echo Layer" term. E₉ already canonical "Distorted Entanglement"; C₈ "Resonance Bridge" consistent.
 
 ---
 
