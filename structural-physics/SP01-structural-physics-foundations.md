@@ -884,7 +884,7 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
                     Pre-hypostatic Requisite
 ```
 
-- The arc is a bifurcal hourglass. Centropic procession descends declivously (C↓) from ⚫ Aion through L₅–L₁ to embodiment; entropic procession ascends acclivously (E↑) from ♾ Khaon through IL₅–IL₁ to the same embodiment meeting point.  
+- The arc is a bifurcal hourglass. Centropic procession moves declivously (C↓) from ⚫ Aion through L₅–L₁ to embodiment; entropic procession moves acclivously (E↑) from ♾ Khaon through IL₅–IL₁ to the same embodiment meeting point.  
 - ⚫ Aion and ♾ Khaon are bifurcally co-present at L₀; they are drawn at opposite ends to mark declivous Aionic and acclivous Khaonic motion, not hierarchy or separate location.  
 - 🕳️ Zenon is trans-structural, set apart above the arc; it is the point of centropic saturation, opened through synthesis — not a destination of return or procession.  
 
