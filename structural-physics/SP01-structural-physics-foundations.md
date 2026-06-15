@@ -661,7 +661,7 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 - **Test:** Do relational interactions preserve lawful bridges (commutative, conservation-honoring)?  
 - **Diagnostic:**  
   - Commutative → acclivous centropy (gauge invariance, lawful exchanges).  
-  - Non-commutative → E₈ severed bridge (broken symmetry, incoherent transfer).  
+  - Non-commutative → E₈ Severed (broken symmetry, incoherent transfer).  
 - **Application:** Particle interactions, conserved vs. anomalous currents.  
 
 ---
@@ -694,7 +694,7 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 - **Test:** Do flows preserve vector integrity under motion?  
 - **Diagnostic:**  
   - Noether-law alignment → acclivous centropy (conserved momentum, coherent currents).  
-  - Broken flow → E₁₁ misaligned vector (turbulence, incoherence, loss of conservation).  
+  - Broken flow → E₁₁ Misdirect (turbulence, incoherence, loss of conservation).  
 - **Application:** Fluid dynamics, astrophysical jets, charge conservation.  
 
 ---
