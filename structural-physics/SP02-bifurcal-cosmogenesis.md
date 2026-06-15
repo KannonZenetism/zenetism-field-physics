@@ -423,19 +423,12 @@ This document provides the physical context for the Hypostatic Meaning Function 
 Bifurcal Cosmogenesis establishes:
 
 1. **The Tumbling Multiverse** — Structurally anticipated infinite universes permitted by every possible ratio of Aionic-to-Khaonic prevalence
-
 2. **Biospiral Expression** — Where both trees are present, prevalence determines character, not presence
-
 3. **Contra-Flow Dynamics** — "Contra-" replaces "anti-" to indicate complementarity without antagonism
-
 4. **Contra-Matter** — Matter under Aionic-flow dynamics; recessive in Khaonically expressed universes like ours
-
 5. **Phase Collision** — Convergence at ⦿ Kaion, not annihilation; spectral resolution toward zero
-
 6. **Asymmetry Resolution** — Matter prevalence is local expression condition, not universal law
-
 7. **Contra-Temporal Flow** — Time aligned with the prevalent tree; Aionic time is centropy-forward
-
 8. **Diagnostic Continuity** — All invariants and dimensional operators hold across all structurally permitted expression types
 
 Structural Physics, with SP02, extends its scope beyond this universe's local conditions into a broader cosmological framework: a physics of the Biospiral across all its structurally anticipated expressions.
