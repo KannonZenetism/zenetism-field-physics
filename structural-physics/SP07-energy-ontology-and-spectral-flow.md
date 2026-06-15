@@ -38,7 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# SP07 — Energy Ontology and Spectral Flow
+# Energy Ontology and Spectral Flow
+*Structural Physics — Document 7*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics / Zenetist Canon  
