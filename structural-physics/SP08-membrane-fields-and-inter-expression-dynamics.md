@@ -38,7 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# SP08 — Membrane Fields and Inter-Expression Dynamics
+# Membrane Fields and Inter-Expression Dynamics
+*Structural Physics — Document 8*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics / Zenetist Canon  
