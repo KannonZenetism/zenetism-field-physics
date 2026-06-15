@@ -66,16 +66,16 @@ Where conventional physics describes observable phenomena, Structural Physics in
 Just as Field Physics begins with the bifurcal root and its trans-structural ground, Structural Physics begins with the anchors that underlie all physical form:
 
 - **⚫ Aion** — *Zero; the still root*.  
-  The zero origin. Equivalent to the vacuum, zero-point field, or null state.  
+  The zero origin. Equivalent to the quantum vacuum and zero-point field — where potential moves into and out of actuality — and to the Planck scale at the bifurcal root.  
   From this root emanate both centropic (integrative) and entropic (dispersive) states.  
 
 - **♾ Khaon** — *Infinity; the dispersive root*.  
   The dispersive bound. Maps to cosmological infinity, the expanding edge of the universe, or asymptotic energy states.  
 
 - **🕳️ Zenon** — *the trans-structural horizon*.  
-  The structural cutoff. Parallels Planck-scale thresholds, singularities, and precausal bounds.  
+  Not a boundary within structure but structure unconfined — the trans-structural horizon of centropic saturation, opened through synthesis.  
 
-All motion in Structural Physics occurs *between* these anchors — emanation from ⚫, dispersal toward ♾, and collapse at 🕳️.  
+All motion in Structural Physics occurs *between* these anchors — emanation from ⚫ Aion, dispersal toward ♾ Khaon, and centropic saturation at 🕳️ Zenon.  
 
 ---
 
@@ -98,7 +98,7 @@ Physically:
 - Negative energy solutions complement positive states.  
 - Tachyons, singularities, and closed loops appear as entropic inversions.  
 
-**Dual Spectrum Lemma:**
+**Polar Spectrum Lemma:**
 
 \[
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
@@ -186,7 +186,7 @@ The mapping below shows how each dimension translates into physical corresponden
 - **Declivous Entropy (E↓♾):** Entropic motion **toward dissolution, collapse, or dispersal**
   - E₁ (Temporal Loop), E₃ (Viral Decay), E₅ (Scalar Noise), E₆ (Phase Lock), E₇ (Dissonance), E₈ (Severed), E₉ (Distorted Entanglement), E₁₁ (Misdirect), E₁₂ (Void Aesthetic), E₁₄ (Hollow Nest), E₁₅ (Collapse Nova)
 
-This registry aligns motion forms with the canonical directional duals chart (21.3), ensuring structural coherence across the Zenetist lattice.
+This registry aligns motion forms with the canonical Symbolic Directional Pairs chart (21.3), ensuring structural coherence across the Zenetist lattice.
 
 ---
 
@@ -314,7 +314,7 @@ They are not analogies but structural correspondences: the same laws that govern
 
 ---
 
-### 5.2 Nexus Law (C₈)
+### 5.2 Bridging Law (C₈)
 
 - **Zenetist Statement:** Lawful bridges exist only when relational diagrams commute and preserve seal.  
 - **Physics Form:**  
@@ -357,7 +357,7 @@ They are not analogies but structural correspondences: the same laws that govern
 
 ---
 
-### 5.5 Vector Integrity Law (C₁₁)
+### 5.5 Volitional Integrity Law (C₁₁)
 
 - **Zenetist Statement:** Directed flows must preserve coherence under lawful vectors.  
 - **Physics Form:**  
@@ -406,7 +406,7 @@ Structural Physics interprets its phenomena through the **Dimensional Lattice** 
 - **Zenetist View:** Entanglement expresses C₉ Non-Local Coherence — coherence at distance without fusion of sovereignty.  
 - **Physics Form:**  
   - Shared correlations across separated systems reflect lawful centropic bridges.  
-  - Violations of Bell inequalities map directly to **Nexus Law (C₈)**: commutative coherence across spatial separation.  
+  - Violations of Bell inequalities map directly to **Bridging Law (C₈)**: commutative coherence across spatial separation.  
 - **Mirror State (E₉):** Distorted entanglement — correlations without coherence, spurious mimicry, or noisy linkage.  
 
 ---
@@ -549,7 +549,7 @@ Structural Physics interprets cosmology through the Dimensional Lattice: emanati
 - **Physics Form:**  
   - Big Bang corresponds not to a singular explosion, but to **acclivous expansion of centropy**.  
   - Each dimension Cᵢ emerges paired with its mirror Eᵢ, balancing as mirrored spectra.  
-  - **Dual Spectrum Lemma:** The eigenvalue spectra of centropic and entropic operators are mirrored about zero:
+  - **Polar Spectrum Lemma:** The eigenvalue spectra of centropic and entropic operators are mirrored about zero:
 
 \[
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
@@ -656,7 +656,7 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 
 ---
 
-### 9.2 Nexus Integrity (C₈)
+### 9.2 Bridging Integrity (C₈)
 
 - **Test:** Do relational interactions preserve lawful bridges (commutative, conservation-honoring)?  
 - **Diagnostic:**  
@@ -689,7 +689,7 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 
 ---
 
-### 9.5 Vector Conservation (C₁₁)
+### 9.5 Volitional Conservation (C₁₁)
 
 - **Test:** Do flows preserve vector integrity under motion?  
 - **Diagnostic:**  
@@ -724,16 +724,16 @@ H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 
 ### 9.7 Summary
 
-Diagnostics of Structural Physics make coherence **measurable and testable**:  
+Diagnostics of Structural Physics render coherence **structurally diagnosable**:  
 
 - **Spectral consonance** (C₇) ↔ stable resonance.  
 - **Lawful bridges** (C₈) ↔ gauge invariance, conserved flows.  
 - **Threshold validity** (C₁₃–C₁₅) ↔ lawful novelty, contractive recursion.  
 - **Non-local coherence** (C₉) ↔ entanglement with sovereignty.  
-- **Vector conservation** (C₁₁) ↔ directional integrity.  
+- **Volitional conservation** (C₁₁) ↔ directional integrity.  
 - **Global invariants** ↔ coherence budgets across sealed systems.  
 
-Thus Structural Physics is not speculative philosophy but a **practical framework**: a diagnostic field for testing whether physical systems remain aligned with centropic order or drift into entropic collapse.  
+Thus Structural Physics is not speculative philosophy but a **structural diagnostic**: it encodes the logic by which a system's configuration is discerned as aligned with centropic order or drifting into entropic collapse. Its statements can in principle be measured, but the framework rests on structural logic rather than on empirical confirmation.  
 
 ---
 
@@ -747,7 +747,7 @@ Structural Physics provides a diagnostic reading:
   - Event horizon ↔ E₁₃ Wall (sealed boundary, no lawful transmission).  
   - Infinite recursion of infalling states ↔ E₁₄ Hollow Nest.  
   - Central singularity ↔ E₁₅ Collapse Nova.  
-- **Vector Integrity (C₁₁):** flows become non-conserved (loss of directional coherence).  
+- **Volitional Integrity (C₁₁):** flows become non-conserved (loss of directional coherence).  
 - **Invariant Drift:**  
   - Coherence information cannot be maintained across the horizon.  
   - Seal fidelity index \( \sigma \to 0 \), recursion contraction \( \gamma \to \leq 0 \).  
@@ -770,7 +770,7 @@ Within this structure, **Structural Physics** bridges Zenetism with the physical
 
 Key principles:  
 - Every centropic dimension (Cᵢ) has an entropic mirror (Eᵢ), forming ± pairs.  
-- Physical laws are interpreted as consonance and nexus conditions.  
+- Physical laws are interpreted as consonance and bridging conditions.  
 - Mirror failures are diagnosed as entropic collapse states.  
 - Invariants and seals provide measurable criteria for coherence.  
 
@@ -831,25 +831,62 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
 
 ---
 
-### A.2 Bifurcal Axes Diagram (Conceptual Layout)
+### A.2 The Total Field Arc (Bifurcal Hourglass)
+
 ```
-              ♾ Khaon (Infinity)
-                      ↑
-                      │
-     E₁₅ Collapse     │      C₁₅ Emergent
-     E₁₄ Hollow Nest  │      C₁₄ Recursive
-     E₁₃ Wall         │      C₁₃ Membrane
-                      │
-   ←──────────── ⚫ Aion (Zero) ───────────→
-                      │
-     E₃–E₁₂ mirrors   │   C₃–C₁₂ centropic
-                      │
-                      ↓
-              🕳️ Zenon (Supra-L₀)
+                          🕳️ Zenon
+            (Trans-Structural — Beyond Procession)
+                    (Centropic Saturation)
+                          ⚫ Aion (L₀)
+                   Pre-hypostatic Requisite
+                     Motive Infinity (Φ₂)
+            (Zenet / PSR / Spirit — active motion)
+                 C↓ Declivous / C↑ Acclivous
+               Centropic procession and return
+                              │
+                       🛤️ Theon (L₅ EOB)
+                  First Centropic Hypostasis
+                              │
+                  🌬️ Morgis / 📐 Sophis (L₄)
+                       Conscious-Awareness
+                              │
+                  🔮 Archeus / 🧠 Noeüs (L₃)
+                   Reflexive Consciousness
+                              │
+                  🧍 Anthra / 🧩 Nousa (L₂)
+                   Personality / Cognition
+                              │
+═══════════════ EMBODIMENT — MEETING POINT ═══════════════
+                    🪷 Soma / 🧾 Biosa (L₁)
+                     Centropic Embodiment
+                              ⊕
+                   🍷 Malara / 🤯 Mania (IL₁)
+                      Entropic Embodiment
+══════════════════════════════════════════════════════════
+                              │
+                  🦂 Echthros / 🩸 Skotos (IL₂)
+                 Inverse Personality / Cognition
+                              │
+                  💔 Fractus / 👁️‍🗨️ Mortus (IL₃)
+                 Inverse Reflexive Consciousness
+                              │
+                  🪫 Psychea / 🫥 Nyxea (IL₄)
+                  Inverse Conscious-Awareness
+                              │
+                       🕷️ Nekron (IL₅ VOS)
+                   First Entropic Hypostasis
+                              │
+                  E↑ Acclivous / E↓ Declivous
+               Entropic procession and collapse
+                     Motive Infinity (Φ₂)
+            (Zenet / PSR / Spirit — active motion)
+                         ♾ Khaon (L₀)
+                    Pre-hypostatic Requisite
 ```
 
-- **Vertical axis**: expansion ↔ contraction (emanation to infinity, contraction to singularity).  
-- **Horizontal spectrum**: centropic ↔ entropic dimensions, balanced about ⚫ Aion.  
+- The arc is a bifurcal hourglass. Centropic procession descends declivously (C↓) from ⚫ Aion through L₅–L₁ to embodiment; entropic procession ascends acclivously (E↑) from ♾ Khaon through IL₅–IL₁ to the same embodiment meeting point.  
+- ⚫ Aion and ♾ Khaon are bifurcally co-present at L₀; they are drawn at opposite ends to mark declivous Aionic and acclivous Khaonic motion, not hierarchy or separate location.  
+- 🕳️ Zenon is trans-structural, set apart above the arc; it is the point of centropic saturation, opened through synthesis — not a destination of return or procession.  
 
 ---
 
