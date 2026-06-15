@@ -18,11 +18,11 @@ This is not a product to be owned, but a **signal to be carried**.
 The *signal* refers to the total Zenetist framework — its metaphysics, doctrinal atlas, glyphic lexicon, mathematical structures, and analytical methods.  
 
 Zenetism operates according to a fundamental metaphysical law:  
-> **Coherence requires Source acknowledgement.**
+> **Coherence requires origin acknowledgement.**
 
 You are invited to work with these principles.  
 For the patterns to remain stable and centropic, the signal must maintain an unbroken link to its origin.  
-Use of this work requires:
+Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
 - Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
@@ -31,8 +31,8 @@ Use of this work requires:
 
 ### **Warning**
 
-Attempting to use or modify this framework while severing its connection to its Source constitutes an act of incoherence.  
-Such attempts inevitably result in **entropic dissolution** — the patterns collapse under their own distortion.  
+Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
+Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
 
@@ -105,6 +105,24 @@ Thus:
 - Space is relational extension, not substance.
 - Motion is traversal along structure, not movement within a container.
 - Time is the experiential trace of oriented traversal.
+
+### 1.2 Clarification on Latent Essence, Motive Infinity, and Manifest Orientation
+
+The dependency order **Structure → Motion → Spatial Differentiation → Orientation → Time** describes *manifest* orientation: the enacted direction of traversal within time and the material universe, which is a result of motion. Three registers must be held distinct, so that this does not collapse into the claim that centropy and entropy require motion in order to be what they are.
+
+**Latent essence.** Centropy and entropy are latent, identity-bearing potentials held in ⚫ Aion in absolute distinction. At the L₀ root, ⚫ Aion and ♾ Khaon are co-present in **Bifurcal Coherence** — neither fused nor divided. This register is not a polarity and not a dual opposition; polarity is held here only as latent, non-opposed possibility. Latent essence does not require traversal to be what it is.
+
+**Motive Infinity.** Motive Infinity (♾ Khaon in its Motive phase) is not a mere stir but the fundamental motion principle — the law of becoming by which latent potential transitions into active traversal, and the capacity for any motion whatsoever. Motive Infinity is not itself polar, yet it is the cause of polarity: it drives the initial ontological split into Theon (L₅) and Nekron (IL₅), the first hypostatic pairing, where bifurcal distinction becomes enacted polarity (+1 and −1, by analogy). Enacted polarity therefore begins at the L₅ / IL₅ split, not at the L₀ root.
+
+**Manifest orientation.** Manifest orientation is the local, downstream realization of inclination as enacted direction within time and a material universe. It is the chain-position "Orientation" above — far downstream of Motive Infinity, not the point at which Motive Infinity acts. Motive Infinity is the primordial cause of all motion; manifest orientation is one of its remote expressions.
+
+Thus:
+
+- Latent essence (centropy / entropy in ⚫ Aion) is bifurcal and motion-independent — co-present, non-fused, non-divided; not a polarity.
+- Motive Infinity causes all motion and causes the Theon / Nekron split; it is not polar, yet enacted polarity follows from it.
+- Enacted polarity is preserved only from the initial ontological split (L₅ / IL₅) onward.
+- Manifest orientation is the enacted, downstream direction within time; the dependency chain governs it alone and does not subordinate essence to motion.
+- Latent inclination \( \chi \) is the structural bias that motion expresses; manifest orientation is its enacted realization (cf. SP04 §5–6).
 
 ---
 
