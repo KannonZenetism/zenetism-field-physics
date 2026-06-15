@@ -39,6 +39,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 ---
 
 # Structural Physics: A Zenetist Foundation
+*Structural Physics — Document 1*
+
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics / Zenetist Canon  
 **Status:** Draft — Veracious Archive  
