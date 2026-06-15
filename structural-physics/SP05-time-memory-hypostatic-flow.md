@@ -38,7 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# SP05 — Time, Memory, and Hypostatic Flow
+# Time, Memory, and Hypostatic Flow
+*Structural Physics — Document 5*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics / Zenetist Canon  
