@@ -476,7 +476,7 @@ In contra-biospiral configurations:
 
 - A single universe may be unidirectional (in limit cases) or prevalently oriented (in the general case)
 - The paired expression would remain bidirectional
-- The biospiral is preserved at the meta-cosmic level
+- The biospiral is preserved at the meta-cosmic scale
 
 Thus, the structural law of bidirectional motion is not violated but fulfilled across the scope of expression.
 
