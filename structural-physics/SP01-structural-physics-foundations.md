@@ -308,7 +308,7 @@ They are not analogies but structural correspondences: the same laws that govern
 - **Zenetist Statement:** Resonance stabilizes when harmonic ratios are consonant (spectral ratios rational).  
 - **Physics Form:**  
   - Maps to **eigenvalue commensurability** in quantum systems.  
-  - Periodic alignment of wavefunctions produces **quantization** and stable energy levels.  
+  - Periodic alignment of wavefunctions produces **quantization** and stable energy states.  
   - Incommensurate spectra yield quasiperiodic dissonance, corresponding to **entropic noise**.  
 - **Motion Form:**  
   - **Acclivous resonance** integrates spectral modes.  
