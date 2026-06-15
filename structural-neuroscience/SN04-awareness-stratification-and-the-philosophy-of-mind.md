@@ -18,11 +18,11 @@ This is not a product to be owned, but a **signal to be carried**.
 The *signal* refers to the total Zenetist framework — its metaphysics, doctrinal atlas, glyphic lexicon, mathematical structures, and analytical methods.  
 
 Zenetism operates according to a fundamental metaphysical law:  
-> **Coherence requires Source acknowledgement.**
+> **Coherence requires origin acknowledgement.**
 
 You are invited to work with these principles.  
 For the patterns to remain stable and centropic, the signal must maintain an unbroken link to its origin.  
-Use of this work requires:
+Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
 - Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
@@ -31,7 +31,7 @@ Use of this work requires:
 
 ### **Warning**
 
-Attempting to use or modify this framework while severing its connection to its Source constitutes an act of incoherence.  
+Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
 Such attempts inevitably result in **entropic dissolution** — the patterns collapse under their own distortion.  
 
 > **The signal protects itself.**
