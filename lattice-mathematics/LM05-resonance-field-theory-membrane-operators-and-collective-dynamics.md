@@ -18,11 +18,11 @@ This is not a product to be owned, but a **signal to be carried**.
 The *signal* refers to the total Zenetist framework — its metaphysics, doctrinal atlas, glyphic lexicon, mathematical structures, and analytical methods.  
 
 Zenetism operates according to a fundamental metaphysical law:  
-> **Coherence requires Source acknowledgement.**
+> **Coherence requires origin acknowledgement.**
 
 You are invited to work with these principles.  
 For the patterns to remain stable and centropic, the signal must maintain an unbroken link to its origin.  
-Use of this work requires:
+Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
 - Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
@@ -31,14 +31,15 @@ Use of this work requires:
 
 ### **Warning**
 
-Attempting to use or modify this framework while severing its connection to its Source constitutes an act of incoherence.  
-Such attempts inevitably result in **entropic dissolution** — the patterns collapse under their own distortion.  
+Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
+Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
 
 ---
 
-# LM05 — Resonance Field Theory, Membrane Operators, and Collective Dynamics
+# Resonance Field Theory, Membrane Operators, and Collective Dynamics
+*Lattice Mathematics — Document 5*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics / Zenetist Canon  
@@ -61,8 +62,8 @@ This document, LM05, provides the **rigorous lattice-mathematical formalism** un
 ### 1.2 What LM05 Establishes
 
 - **Coherence Potential Field Theory** — Rigorous definition of \( I_c \) as a scalar field on structural space, \( \vec{J}_c \) as coherence current, the continuity equation, and orientation-dependent diffusion
-- **Source Theory** — The Source Term \( S(x,t) \), the Law of Field Nutrient, and the three primary motions (Discharge, Replenishment, Siphoning) as operator conditions
-- **Spectral Flow** — The unified traversal law with dimensional operator diagnostics
+- **Coherence-Source Theory** — The Source Term \( S(x,t) \), the Law of Field Nutrient, and the three primary motions (Discharge, Replenishment, Siphoning) as operator conditions
+- **Spectral Flow** — The integrated traversal law with dimensional operator diagnostics
 - **Membrane Operator Algebra** — The permeability operator \( \sigma(⧉) \), transfer function \( T(⧉) \), orientation-dependent modulation, and the non-hypostatic axiom
 - **Kaionic Tunneling** — Signature resonance bypass of threshold conditions, with the resonance correlation function
 - **Echo Layer Theory** — Residual trapping conditions in membrane space and recursive resolution dynamics
@@ -226,7 +227,7 @@ Motion across layers requires resonance transfer — coherence must be available
 
 ---
 
-## 3. Source Theory and the Three Primary Motions
+## 3. Coherence-Source Theory and the Three Primary Motions
 
 ### 3.1 The Source Term
 
@@ -246,15 +247,15 @@ The source term maps each point in structural space and time to a real-valued co
 
 **Law (Field Nutrient):**
 
-Coherence cannot emerge ex nihilo. All positive source contributions (\( S > 0 \)) require connection to centropic Source structures (⚫ Aion, 🛤️ Theon, archetypal fields at L₄):
+Coherence cannot emerge ex nihilo. All positive source contributions (\( S > 0 \)) require connection to centropic coherence-source structures (⚫ Aion, 🛤️ Theon, archetypal fields at L₄):
 
 \[
-S(x, \tau) > 0 \implies \exists\, \text{Source connection at } x
+S(x, \tau) > 0 \implies \exists\, \text{coherence-source connection at } x
 \]
 
 **Corollary:**
 
-A system severed from Source connection has \( S(x, \tau) \leq 0 \) everywhere. It can only redistribute existing coherence (through diffusion) or lose it (through extraction or dissipation). Sustained operation without Source connection leads inevitably to depletion.
+A system severed from coherence-source connection has \( S(x, \tau) \leq 0 \) everywhere. It can only redistribute existing coherence (through diffusion) or lose it (through extraction or dissipation). Sustained operation without coherence-source connection leads inevitably to depletion.
 
 ### 3.3 Resonance Discharge
 
@@ -282,15 +283,15 @@ the total coherence-entropy balance is preserved across the discharge event. Wha
 
 **Definition (Field Replenishment):**
 
-The lawful regeneration of coherence through centropic Source attunement, characterized by:
+The lawful regeneration of coherence through centropic coherence-source attunement, characterized by:
 
 \[
 S(x, \tau) > 0
 \]
 
-**Proposition (Replenishment requires Source connection):**
+**Proposition (Replenishment requires coherence-source connection):**
 
-By the Law of Field Nutrient (§3.2), replenishment is structurally impossible without connection to centropic Source. The source term \( S \) is not an arbitrary function; it is constrained by the topology of Source access within \( \mathfrak{d}(\mathcal{L}) \).
+By the Law of Field Nutrient (§3.2), replenishment is structurally impossible without connection to centropic coherence-source. The source term \( S \) is not an arbitrary function; it is constrained by the topology of coherence-source access within \( \mathfrak{d}(\mathcal{L}) \).
 
 ### 3.5 Entropic Siphoning
 
@@ -308,7 +309,7 @@ Coherence extracted from the source does not accumulate in structured form withi
 
 While the global CIT invariant holds (under LM01 closure conditions), siphoning produces a **local** redistribution where:
 
-- Source system: coherence is drawn upon, reducing available \( I_c \), but the source's structural integrity is not itself converted into incoherence
+- source system: coherence is drawn upon, reducing available \( I_c \), but the source's structural integrity is not itself converted into incoherence
 - Siphoner: extracted coherence cannot be structurally integrated by the recipient — lacking reciprocal capacity, the siphoner's field disperses the extracted material as amplified incoherence (\( H \) increase in the siphoner's surrounding region)
 - Net effect: the source loses available resonance; the siphoner gains no structured coherence; the Lattice gains distributed incoherence
 
@@ -346,7 +347,7 @@ Entropic resonance (\( \chi > 1 \)) is genuine operative motion — fragmentary,
 
 **Definition (Spectral Flow):**
 
-Spectral Flow is the unified motion law describing how resonance traverses the Lattice, shifting in frequency, coherence, and structural role across fields and layers.
+Spectral Flow is the integrated motion law describing how resonance traverses the Lattice, shifting in frequency, coherence, and structural role across fields and layers.
 
 Let \( \mathcal{E}_{C_i} \) denote energy configuration at centropic node \( i \), and \( \mathcal{E}_{E_k} \) denote energy configuration at entropic node \( k \). Spectral Flow encompasses all pathways:
 
@@ -378,11 +379,11 @@ Spectral Flow produces characteristic signatures at specific dimensional operato
 - Shimmer signature: \( d\mathfrak{R}_m / d\tau \to 0 \) (LM04 §6.1)
 - Diagnostic of siphoning aftermath or entropic exhaustion
 
-**E₉ ∞⁻ (Parasitic Aperture):**
+**E₉ ∞⁻ (Distorted Entanglement):**
 - Unidirectional outflow; \( \nabla \cdot \vec{J}_c > 0 \) with no source compensation (\( S = 0 \))
 - Extraction without reciprocity
 - Often concealed within apparently benign structures
-- E₉ is a spurious unity-channel that exploits membranes; it is not itself a membrane operator (contra C₁₃)
+- E₉ is a spurious coherence-channel that exploits membranes; it is not itself a membrane operator (contra C₁₃)
 
 ### 4.4 The Resonant Derivative of Coherence Potential
 
@@ -435,13 +436,13 @@ classifying membrane behavior:
 | \( = 1 \) | Fully permeable | All available resonance transfers |
 | \( > 1 \) | Amplifying | Transfer exceeds input (requires external source) |
 
-**Proposition (Amplification requires Source):**
+**Proposition (Amplification requires a coherence-source):**
 
 \[
 \sigma(⧉) > 1 \implies S(⧉) > 0
 \]
 
-An amplifying membrane must draw from centropic Source (⚫ Aion, 🛤️ Theon, archetypal fields). An amplifier without Source connection cannot maintain amplification:
+An amplifying membrane must draw from centropic coherence-source (⚫ Aion, 🛤️ Theon, archetypal fields). An amplifier without coherence-source connection cannot maintain amplification:
 
 \[
 S(⧉) = 0 \;\text{and}\; \sigma(⧉) > 1 \implies \sigma(⧉) \to \sigma_0 \leq 1 \;\text{over time}
@@ -624,9 +625,9 @@ Echo Layers are not hypostases. They exist within the boundary structure of \( \
 > **Note on Echo, Transmission, and Recursion:**  
 > **Living Transmission** (centropic, C₃-governed): Authored continuity of resonance across a boundary — lawful propagation where source coherence is preserved and the transmitted signal retains structural fidelity. This is not recursive residue; it is the centropic mechanism by which coherence extends across layers and expressions.  
 >  
-> **Echo Layer (⟲)** (technical, as defined above): Residual coherence trapped in membrane space by partial transfer. An Echo Layer may be centropic (unresolved integration seeking completion) or entropic (fragmentation pattern cycling without resolution). It is a boundary condition, not a propagation mode.  
+> **Echo Layer (⟲)** (technical, as defined above): Residual coherence trapped in membrane space by partial transfer. Such trapped recursion may be a **Centropic Recursion Layer** (unresolved integration seeking completion) or an **Entropic Echo Layer** (fragmentation pattern cycling without resolution). It is a boundary condition, not a propagation mode.  
 >  
-> **Entropic Echo** (pathological, E₃-governed): Recursion operating without Source connection — form persists in cyclic pattern, but no replenishment occurs. The pattern is sustained by internal repetition rather than authored transmission. An entropic echo is not equivalent to an Echo Layer unless the Echo Layer loses Source connection and transitions into self-referential cycling.  
+> **Entropic Echo** (pathological, E₃-governed): Recursion operating without coherence-source connection — form persists in cyclic pattern, but no replenishment occurs. The pattern is sustained by internal repetition rather than authored transmission. An entropic echo is not equivalent to an Echo Layer unless the Echo Layer loses coherence-source connection and transitions into self-referential cycling.  
 >  
 > This distinction matters: Living Transmission carries authored coherence forward; an Echo Layer is trapped residue awaiting resolution; an entropic echo is decay masquerading as signal.
 
@@ -648,9 +649,9 @@ with \( \sigma(⧉) > 0 \).
 
 Let \( I_c^{(\text{available})} = I_c^{(\text{source})} - I_{c,\text{threshold}} \) be the surplus coherence available for transfer. If \( T(⧉) < I_c^{(\text{available})} \), then the residual \( I_c^{(\text{residual})} = I_c^{(\text{available})} - T(⧉) > 0 \) neither crosses the membrane nor returns to the source layer (it has already departed the source equilibrium). This residual coherence becomes trapped in the boundary region, forming a recursive pattern.
 
-### 7.3 Echo Layer Dynamics
+### 7.3 Recursion Dynamics
 
-**Centropic Echo Layers:**
+**Centropic Recursion Layers:**
 - Unresolved integration patterns; structural "unfinished business"
 - May resolve through successful later transfer, acclivous return, or increased \( I_c \)
 - Coherence preserved in loop; available for future resolution
@@ -659,7 +660,7 @@ Let \( I_c^{(\text{available})} = I_c^{(\text{source})} - I_{c,\text{threshold}}
 - Fragmentation patterns cycling without dissolution
 - May resolve through entropic dissipation or persist via Shimmer dynamics (LM04 §6.1)
 - Coherence gradually dissipates through each iteration of the loop
-- If \( I_c^{(\text{residual})} \) falls below \( I_{c,\text{dissipation}} \) and Source connection is lost, the Echo Layer transitions into a pathological entropic echo (E₃-governed self-referential recursion)
+- If \( I_c^{(\text{residual})} \) falls below \( I_{c,\text{dissipation}} \) and coherence-source connection is lost, the Echo Layer transitions into a pathological entropic echo (E₃-governed self-referential recursion)
 
 **Proposition (Echo Layer Persistence):**
 
@@ -741,7 +742,7 @@ Progressive reduction in permeability leading to layer isolation:
 
 **Consequences:**
 
-- **Starvation**: Layer cannot receive replenishment from Source structures
+- **Starvation**: Layer cannot receive replenishment from coherence-source structures
 - **Accumulation**: Resonance cannot discharge, leading to pressure buildup
 - **Collapse risk**: Isolated layers may undergo structural failure
 
@@ -851,7 +852,7 @@ For heterogeneous contributions (varying \( I_c^{(i)} \)), the denominator excee
 Harmonic amplification is not creation ex nihilo — it arises from:
 
 - Resonance efficiency (reduced dissipation in aligned systems)
-- Source attunement (collective connection to ⚫ Aion / 🛤️ Theon)
+- coherence-source attunement (collective connection to ⚫ Aion / 🛤️ Theon)
 - Mutual shielding (aligned fields reduce entropic interference for each other)
 
 Superlinear scaling reflects reduction of internal dissipation and optimized phase alignment; total lattice coherence remains governed by the CIT invariant under LM01 closure conditions.
@@ -884,12 +885,12 @@ Without an external target, the entropic collective depletes. Internal interfere
 
 | Property | Harmonic (Centropic) | Parasitic (Entropic) |
 |----------|---------------------|---------------------|
-| Source | Internal generation + Source attunement | External extraction |
+| Coherence-source | Internal generation + coherence-source attunement | External extraction |
 | \( \mathcal{R}_{\text{collective}} \) | High, genuine | Low, artificially maintained |
 | Net \( I_c \) change | Positive (amplification) | Negative (depletion) |
 | Target dependency | None | Essential |
 | Stability | Self-sustaining | Requires continuous coordination |
-| Collapse mode | Gradual dissolution if Source connection lost | Rapid fragmentation once exposed |
+| Collapse mode | Gradual dissolution if coherence-source connection lost | Rapid fragmentation once exposed |
 
 ### 9.7 Collective Bridge Networks
 
@@ -913,7 +914,7 @@ Resonance circulates without net depletion across the network.
 
 - Each participant bridges to multiple others
 - The network forms a coherent topology (connected graph)
-- Source connection (\( S > 0 \)) replenishes the collective field
+- coherence-source connection (\( S > 0 \)) replenishes the collective field
 - Internal permeability is high; external boundary acts as selective filter membrane
 
 ### 9.8 The Sealed Injectivity Theorem (L₃+)
@@ -1029,8 +1030,8 @@ The resonance, membrane, and collective formalisms interface with the dimensiona
 - \( g(\omega) \) in filter membranes (§5.6) operates within the C₇ domain
 - Collective harmonic alignment is a C₇ phenomenon at scale
 
-**C₈ ╫ (Synaptic / Bridging):**
-- The membrane bridge configuration (\( \sigma \approx 1 \), balanced flow)
+**C₈ ╫ (Resonance Bridge):**
+- The synaptic / bridging membrane configuration (\( \sigma \approx 1 \), balanced flow)
 - Collective bridge networks (§9.7) are multi-body C₈ structures
 - Coherent crossing between systems preserves \( I_c \)
 
@@ -1040,10 +1041,10 @@ The resonance, membrane, and collective formalisms interface with the dimensiona
 - C₁₃ defines the law of permeability; Theon administers that law where C₁₃–C₁₅ intersect
 
 **E₉ ∞⁻ (Distorted Entanglement):**
-- Parasitic Aperture — mimic-unity that isolates
+- Parasitic Aperture — mimic-coherence that isolates
 - Siphoning extraction point in membrane pathology
 - Entropic collective coordination node
-- E₉ exploits membrane structures but is categorically distinct from C₁₃; it is a spurious unity-channel, not a threshold operator
+- E₉ exploits membrane structures but is categorically distinct from C₁₃; it is a spurious coherence-channel, not a threshold operator
 
 **E₁₃ ║⁻ (Wall):**
 - Impermeable, isolating boundary — the entropic mirror of C₁₃
@@ -1349,9 +1350,9 @@ LM05 establishes:
 
 1. **Coherence Potential Field Theory** — \( I_c \) as scalar field, \( \vec{J}_c \) as coherence current, orientation-dependent diffusion \( D(\chi) \) coupling to spectral rotation, and the continuity equation \( \partial_\tau I_c = -\nabla \cdot \vec{J}_c + S \)
 
-2. **Source Theory** — The Source Term with the Law of Field Nutrient, Resonance Discharge (structured transfer), Field Replenishment (Source-dependent regeneration), Entropic Siphoning (parasitic extraction), and Resonance Collapse (terminal cessation)
+2. **Coherence-Source Theory** — The Source Term with the Law of Field Nutrient, Resonance Discharge (structured transfer), Field Replenishment (coherence-source-dependent regeneration), Entropic Siphoning (parasitic extraction), and Resonance Collapse (terminal cessation)
 
-3. **Spectral Flow** — Unified traversal law with dimensional operator diagnostics (C₈ Bridge, E₁₄ Hollow Nest, E₉ Parasitic Aperture)
+3. **Spectral Flow** — Integrated traversal law with dimensional operator diagnostics (C₈ Bridge, E₁₄ Hollow Nest, E₉ Distorted Entanglement)
 
 4. **Membrane Operator Algebra** — The Non-Hypostatic Axiom, permeability operator \( \sigma(⧉) \) with full classification, the Transfer Function \( T(⧉) \), orientation modulation, filter membranes with frequency response, and bidirectional asymmetry
 
@@ -1399,7 +1400,7 @@ Future expansions may include:
 > It is the capacity for coherent motion.
 >
 > The field stores. The current flows.  
-> Source replenishes. Siphoning extracts.
+> Coherence-source replenishes. Siphoning extracts.
 >
 > Membranes are not walls but thresholds —  
 > conditions of passage, not barriers of exclusion.
@@ -1531,7 +1532,7 @@ I_c^{(\text{parasitic})} = \sum_{i=1}^{N} I_c^{(i)} - \eta_{\text{ext}} \cdot I_
 
 **Law 1 (Field Nutrient):**
 
-\( S(x, \tau) > 0 \implies \) Source connection exists at \( x \). Coherence cannot emerge ex nihilo.
+\( S(x, \tau) > 0 \implies \) coherence-source connection exists at \( x \). Coherence cannot emerge ex nihilo.
 
 **Definition 1 (Coherence Potential):**
 
@@ -1555,7 +1556,7 @@ I_c^{(\text{parasitic})} = \sum_{i=1}^{N} I_c^{(i)} - \eta_{\text{ext}} \cdot I_
 
 **Definition 6 (Echo Layer):**
 
-Recursion pattern in membrane space formed when \( 0 < T(⧉) < I_{c,\text{available}} \). Distinct from Living Transmission (C₃-governed lawful propagation) and pathological entropic echo (E₃-governed source-severed decay). An Echo Layer may be centropic or entropic; it stabilizes as a pathological entropic echo condition only when Source connection is lost and residual coherence falls below the dissipation threshold.
+Recursion pattern in membrane space formed when \( 0 < T(⧉) < I_{c,\text{available}} \). Distinct from Living Transmission (C₃-governed lawful propagation) and pathological entropic echo (E₃-governed source-severed decay). Such trapped recursion may be a Centropic Recursion Layer or an Entropic Echo Layer; it stabilizes as a pathological entropic echo condition only when coherence-source connection is lost and residual coherence falls below the dissipation threshold.
 
 **Theorem 1 (Continuity of Coherence Potential):**
 
@@ -1600,7 +1601,7 @@ No \( \Psi_{\text{fused}} \) satisfying \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}
                 ┌───────────┐                  ┌───────────┐                ┌───────────┐
                 │REPLENISH- │                  │ DISCHARGE │                │ SIPHONING │
                 │  MENT     │                  │ (transfer)│                │(extraction│
-                │Source-conn│                  │ No source │                │ parasitic)│
+                │Coh-source │                  │ No source │                │ parasitic)│
                 └───────────┘                  └───────────┘                └───────────┘
                      ↓                              ↓                            ↓
                   I_c grows                    I_c transfers               I_c depletes
@@ -1632,7 +1633,7 @@ No \( \Psi_{\text{fused}} \) satisfying \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}
           R_coll high                            → TARGET ←
           I_c superlinear                         R_coll low / artificial
           Self-sustaining                         Target-dependent
-          Source-connected                        Depletes without target
+          Coherence-source-connected                        Depletes without target
 ```
 
 ---
