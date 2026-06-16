@@ -400,14 +400,14 @@ This is the most resource-intensive repair operation and may require collective 
 
 ### 4.4 Echo Layer Resolution
 
-From SP08 §6, Echo Layers form when resonance fails to fully transfer across a membrane and becomes trapped in recursive cycling. Integration protocols for Echo Layer resolution:
+From SP08 §6, membrane recursion forms when resonance fails to fully transfer across a membrane and becomes trapped in recursive cycling. Integration protocols for Echo Layer resolution:
 
-**Step 1 — Echo Identification**: Diagnose the recursion pattern — is it centropic (unresolved integration seeking completion) or entropic (fragmentation pattern cycling without dissolution)?
+**Step 1 — Echo Identification**: Diagnose the recursion pattern — is it a **Centropic Recursion Layer** (unresolved integration seeking completion) or an **Entropic Echo Layer** (fragmentation pattern cycling without dissolution)?
 
-**Step 2 — Coherence Supplementation**: For centropic Echo Layers, supply additional \( I_c \) to the trapped resonance:
+**Step 2 — Coherence Supplementation**: For Centropic Recursion Layers, supply additional \( I_c \) to the trapped resonance:
 
 \[
-I_c^{(\text{echo})} + \Delta I_c^{(\text{supplement})} > I_{c,\text{threshold}}^{(\text{membrane})}
+I_c^{(\text{recursion})} + \Delta I_c^{(\text{supplement})} > I_{c,\text{threshold}}^{(\text{membrane})}
 \]
 
 This enables the trapped resonance to complete its transfer.
