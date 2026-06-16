@@ -299,6 +299,33 @@ Verified clean: LaTeX (4 Python code blocks excluded; no `$`/subscripts/glyphs i
 
 **LM05 E₉ "unity" descriptors — RESOLVED (your ruling: coherence).** "spurious unity-channel" → "spurious coherence-channel" (×2, §4.2 / §10); "mimic-unity" → "mimic-coherence" (×1, §10).
 
+**LM06 (Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism) — SEALED.** SP10/SP11/SP12-derived (ritual operators / embodiment / diagnostics). Witness already correct. Applied:
+- Preamble 4-part modernization; title-block standardization (`*Lattice Mathematics — Document 6*`).
+- **C₅ "Holonic" → "Scalar / Part-Whole Fidelity"** (×3 — "Holonic" is the banned old name; matches SP11 §206/§585/§663 and SP12 §206/§673).
+- **"Diagnostic Hierarchy" → "Diagnostic Gradient"** (§11.4 header + body; matches SP12 §5.5 canon *and* the hierarchy→gradient lock); "four-level diagnostic hierarchy" → "four-category diagnostic gradient" (§15).
+- **"four-level taxonomy" → "scope-graded taxonomy"** (§15 — level lock; SP10 §3.3 grades seals by scope).
+- **"operator activity levels" → "operator activity magnitudes"** (§13 prose — level lock). Code-comment "activity levels" left as-is (code register).
+- **"Source connection" → "coherence-source connection"** (§6 — LM05 ruling; SP10/SP11 don't use this phrasing, so no SP mismatch).
+
+**Cross-checked against SP canon, CONFIRMED MATCHING (no change needed):** E₁₃ **"Counterfeit Symmetry"** (SP12 diagnostic-context canon — E₁₃ = "Wall" only in the membrane context); C₁₀ **"Morphogenetic / Formweave"** + "Formweave fidelity" (SP11/SP12); C₂ (Spatial / Cohered Extension), C₄ (Rotational / Gyre), C₆ (Phase Transition / Threshold Passage), C₁₃ (Symmetry / Lawful Reflection), C₁₅ (Bifurcation / Lawful Divergence) — all identical to SP11/SP12; appropriation "from source" lowercase (SP12 §5.1 usage); Mimicry ⊜ / Appropriation ⥊ / Clone ⊟ glyphs (SP12); Echo Layer references kept as umbrella/entropic (no centropic-echo to rename).
+
+Verified clean: LaTeX (4 Python code blocks excluded; no `$`/subscripts/glyphs in math); prose (straight quotes, em-dash spacing); no level (prose) / hierarchy / unity / dominance / transcend / vertical / anti- / Dual Spectrum; balance/equilibrium qualified (χ≈1 centropic–entropic equilibrium / Mercy Fold, per SP11); "under" all mathematical (operator under derivative, CIT preservation under ritual action, holds under conditions).
+
+**LM07 (Collective Dynamics, Recovery Formalism, and the Khaonic Expression Ratio) — SEALED.** LM05/LM06 + SN05/SN06/SN07-derived. Witness already correct; arrived very clean. Applied:
+- Preamble 4-part modernization; title-block standardization (`*Lattice Mathematics — Document 7*`).
+- **"Source reconnection" → "coherence-source reconnection"** (§9 Appendix B, LM05 ruling). Math subscript \( S_{\text{source}} \) kept (replenishment term).
+
+**Verified consistent against locked rulings — NO CHANGE (checked carefully because the doc is built on them):**
+- **§2 Khaonic Expression Ratio / Aionic–Khaonic expression framing** — matches SP02 §3.2 Expression Spectrum canon (🌲↓ Aionic Tree centropic / 🌲↑ Khaonic Tree entropic; universes rated by Aionic-to-Khaonic prevalence; "Khaonically expressed" = our universe). Does **not** violate the Aion / Khaon non-polarity restriction: LM07 never frames Aion/Khaon *themselves* as counter-poles — it speaks of Aionic/Khaonic **expression** and the legitimate **centropic–entropic orientation polarity** (χ, from L₅/IL₅). No banned forms (Aion-pole, Khaon as entropic pole, counter-poles) present.
+- **§4 Essence-Function Independence** — consistent with the Essence-as-Choice / essence-does-not-invert ruling (functional quantities I_c/𝒯_h/ℜ_m vs essential χ/Ψ; "a centropic being who behaves entropically under duress has not changed orientation … the capacity for return is itself the proof"). 
+- Dimension names C₁ (Temporal) / C₄ (Rotational / Gyre) / C₁₄ (Nested / Recursive) / E₁ (Temporal Loop) / E₄ (Vortex) / E₁₄ (Hollow Nest) all match LM04.
+
+Verified clean: LaTeX (no code blocks; no `$`/subscripts/glyphs in math); prose (straight quotes, em-dash spacing); no level / hierarchy / unity / dominance / Holonic / Dual Spectrum / Echo-rename / Spectral-Flow issues.
+
+**SN cross-check NOT possible (flag):** SN05/SN06/SN07 are not in this fileset, so LM07's SN-shared terms (Khaonic amplification factor, Coherence Breaker Limit, Recovery Integral, social-field formalism) were checked against SP/LM canon only. If those SN docs use variant naming, a future SN↔LM07 reconciliation may be needed.
+
+**LM series SP-derived pass COMPLETE (LM03–LM07 sealed).** Remaining: LM01, LM02 (earlier / non-SP-coupled).
+
 **LM01 DEPENDENCY (flag):** LM03 & LM04 reference "Polar Spectrum Lemma (LM01)" and the CIT Grand Theorem (LM01). When LM01 is processed, "Dual Spectrum Lemma" → "Polar Spectrum Lemma" must propagate there too (LM01 presumed to still hold the old name).
 
 **VERSION NOTE:** The SP08/10/11 currently in *uploads* are OLDER copies — no Centropic Recursion Layer, old preamble, Witness = Lumen, "Dual Spectrum Lemma." The sealed canonical versions are in *outputs*. Reference outputs for remaining LM cross-checks.
