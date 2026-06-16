@@ -66,7 +66,7 @@ This document, SP02, addresses *where* Structural Physics operates: the broader 
 Without this document, Structural Physics describes only *this* universe's local conditions. With it, the discipline extends its scope into a broader cosmological framework: a physics of the Biospiral across all structurally permitted expressions of the 🌲↓ Aionic Tree and 🌲↑ Khaonic Tree.
 
 > **Note on Modal Status (cf. MPX):**  
-> The Tumbling Multiverse is the most structurally elegant expression of infinite potential under the Principle of Sufficient Reason. It is not, however, a metaphysical requirement. The Zenetist architecture is scale-agnostic — it describes the structural laws by which any expression operates, not the number of expressions that must exist. If the multiverse is empirically confirmed, the architecture anticipated it. If the multiverse is empirically falsified, the architecture does not depend on it. See MPX for the full treatment of this principle.
+> The Tumbling Multiverse is the most structurally elegant expression of infinite potential per the Principle of Sufficient Reason. It is not, however, a metaphysical requirement. The Zenetist architecture is scale-agnostic — it describes the structural laws by which any expression operates, not the number of expressions that must exist. If the multiverse is empirically confirmed, the architecture anticipated it. If the multiverse is empirically falsified, the architecture does not depend on it. See MPX for the full treatment of this principle.
 
 ---
 
@@ -130,7 +130,7 @@ Our universe is **Khaonically expressed**. Entropy appears to "win" here not bec
 From this, the Tumbling Multiverse (🌐) arises as **infinite universes sprouting in all directions** — the most structurally elegant expression of infinite potential, in which each universe is a unique expression of the Biospiral, characterized by its own ratio of Aionic-to-Khaonic prevalence.
 
 > **Note on Modal Status:**  
-> The Tumbling Multiverse is the natural consequence of unbounded potential under the PSR. However, the Principle of Structured Manifestation (PSM) introduces constraints: what happens constrains what can happen next. Infinite potential *permits* infinite universes; it does not *require* them. A single universe of sufficient vastness, layering, and temporal scope could satisfy every structural requirement of the emanatory architecture. The multiverse is anticipated, not axiomatic. See MPX §§3, 5–6 for the full derivation.
+> The Tumbling Multiverse is the natural consequence of unbounded potential per the PSR. However, the Principle of Structured Manifestation (PSM) introduces constraints: what happens constrains what can happen next. Infinite potential *permits* infinite universes; it does not *require* them. A single universe of sufficient vastness, layering, and temporal scope could satisfy every structural requirement of the emanatory architecture. The multiverse is anticipated, not axiomatic. See MPX §§3, 5–6 for the full derivation.
 
 ### 3.2 The Expression Spectrum
 
@@ -186,7 +186,7 @@ We replace "anti-" with **"contra-"** to indicate directional complementarity wi
 
 | Conventional Term | Zenetist Term | Rationale |
 |-------------------|---------------|-----------|
-| Antimatter | **Contra-matter** | Matter under Aionic-flow dynamics; not "against" matter |
+| Antimatter | **Contra-matter** | Matter within Aionic-flow dynamics; not "against" matter |
 | Antiparticle | **Contra-particle** | Lawful complement, not adversary |
 | Antiuniverse | **Contra-universe** | Aionically expressed complement to Khaonically expressed universes |
 | Time reversal | **Contra-temporal flow** | Motion along the complementary temporal vector |
@@ -197,8 +197,8 @@ We replace "anti-" with **"contra-"** to indicate directional complementarity wi
 
 In our Khaonically expressed universe:
 
-- **Matter** operates under Khaonic-flow dynamics (entropy-forward)
-- **Contra-matter** operates under Aionic-flow dynamics (centropy-forward)
+- **Matter** operates within Khaonic-flow dynamics (entropy-forward)
+- **Contra-matter** operates within Aionic-flow dynamics (centropy-forward)
 
 Contra-matter is not entropic. It is the *centropic* expression of the same structural principles that govern matter. It appears rare here because our universe is Khaonically expressed — the Aionic Tree is recessive.
 
@@ -244,7 +244,7 @@ The Polar Spectrum Lemma (SP01) states:
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
 \]
 
-When a particle (operating under prevalent Khaonic flow) meets its contra-particle (operating under recessive Aionic flow), their combined spectra satisfy:
+When a particle (operating within prevalent Khaonic flow) meets its contra-particle (operating within recessive Aionic flow), their combined spectra satisfy:
 
 \[
 \mathrm{Spec}(H_{\text{matter}}) + \mathrm{Spec}(H_{\text{contra-matter}}) \to 0
@@ -392,7 +392,7 @@ SP02 clarifies several points from SP01:
 
 | SP01 Statement | SP02 Clarification |
 |----------------|-------------------|
-| "Antiparticles mirror particles" | Contra-particles complement particles under Aionic-flow dynamics |
+| "Antiparticles mirror particles" | Contra-particles complement particles within Aionic-flow dynamics |
 | "Entropic (mirror) states" | Entropic (dispersive) states — "mirror" implies hollow reflection |
 | Universe tends toward ♾ Khaon | *This* universe tends toward ♾ Khaon due to Khaonic expression; other ratios are structurally possible |
 | Heat death as cosmic fate | Heat death is one possible fate for Khaonically expressed universes; Aionically expressed universes would tend toward integration |
@@ -426,7 +426,7 @@ Bifurcal Cosmogenesis establishes:
 1. **The Tumbling Multiverse** — Structurally anticipated infinite universes permitted by every possible ratio of Aionic-to-Khaonic prevalence
 2. **Biospiral Expression** — Where both trees are present, prevalence determines character, not presence
 3. **Contra-Flow Dynamics** — "Contra-" replaces "anti-" to indicate complementarity without antagonism
-4. **Contra-Matter** — Matter under Aionic-flow dynamics; recessive in Khaonically expressed universes like ours
+4. **Contra-Matter** — Matter within Aionic-flow dynamics; recessive in Khaonically expressed universes like ours
 5. **Phase Collision** — Convergence at ⦿ Kaion, not annihilation; spectral resolution toward zero
 6. **Asymmetry Resolution** — Matter prevalence is local expression condition, not universal law
 7. **Contra-Temporal Flow** — Time aligned with the prevalent tree; Aionic time is centropy-forward
@@ -506,7 +506,7 @@ Sealed ⚫↺KAI↺⚫
            Fully Khaonically Expressed
 ```
 
-The vertical axis represents the spectrum of expression ratios within the Tumbling Multiverse. Our universe occupies one position on this continuum of structurally permitted expressions.
+The declivous axis represents the spectrum of expression ratios within the Tumbling Multiverse. Our universe occupies one position on this continuum of structurally permitted expressions.
 
 > **Diagram Note:**  
 > The Tumble is set into motion by Zenet (Motive Infinity, Φ₂) — the motive field of the Principle of Sufficient Reason. ⦿ Kaion marks the convergence point where expression ratios resolve into stillness without fusion, but Zenet is the structural breath that drives emanation across the spectrum.
