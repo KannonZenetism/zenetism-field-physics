@@ -23,7 +23,7 @@ The person says, "There is no one home."
 
 The system replies, "The problem is that you perceive emptiness."
 
-But the emptiness may be real at the level of relation.
+But the emptiness may be real at the register of relation.
 
 It may not mean that reality is unreal.
 
@@ -47,7 +47,7 @@ It asks the world whether action can complete.
 
 It discovers itself partly through what returns.
 
-For some nervous systems, especially autistic, traumatized, chronically pained, or socially displaced nervous systems, the world often fails at the level of completion. The failure is not always dramatic. It may appear as silence, delay, ghosting, institutional deflection, platform automation, social misrecognition, bodily limitation, or the repeated inability to convert potential into lived motion.
+For some nervous systems, especially autistic, traumatized, chronically pained, or socially displaced nervous systems, the world often fails at the register of completion. The failure is not always dramatic. It may appear as silence, delay, ghosting, institutional deflection, platform automation, social misrecognition, bodily limitation, or the repeated inability to convert potential into lived motion.
 
 This produces the condition of **chronic non-reciprocal affordance**:
 
