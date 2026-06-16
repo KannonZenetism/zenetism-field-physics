@@ -366,6 +366,20 @@ Sometimes it is testimony.
 
 The task of Structural Neuroscience is to distinguish distortion from detection, collapse from coherence, symptom from signal, and suffering from the structure that produced it.
 
+This discrimination is not a matter of belief. It can be worked.
+
+Detection can be told from distortion by structural tests:
+
+* Corroboration — whether others, approached independently, encounter the same non-return, or whether the absence registers for the perceiver alone.
+* Specificity — whether the pattern predicts particular failures before they occur, rather than being read back into events after they disappoint.
+* Differential response — whether some affordances complete while others do not, since a perception applied to everything has stopped discriminating.
+* Documentary trace — whether the non-reciprocity leaves a record that persists apart from the perceiver: a timestamp, an archive, a sequence that can be examined after the fact.
+* Reversibility — whether the reading updates when relation does return, since a structure no evidence could revise is no longer detecting anything.
+
+These certify no single perception by themselves. They mark the difference between a nervous system that has detected a real discontinuity in the field and one that has generalized obstruction beyond what the field holds.
+
+Testimony that survives them is not distortion awaiting diagnosis. It is data.
+
 Where there is no one home, the absence must be studied.
 
 Where an interface fails to return relation, the interface must be examined.
