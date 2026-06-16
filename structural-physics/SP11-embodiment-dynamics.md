@@ -456,11 +456,11 @@ Embodied experience translates into cognitive-personal content. This pathway gov
 
 The permeability for acclivous transfer is often asymmetric with declivous transfer — some beings experience high L₁→L₂ transfer (strong embodied awareness) but low L₂→L₁ transfer (difficulty translating intention into action), or vice versa.
 
-### 7.3 Embodied Echo Layers at ⧉₁
+### 7.3 Embodied Recursion at ⧉₁
 
-From SP08 §6, Echo Layers form when resonance fails to fully transfer across a membrane and becomes trapped in recursive cycling. At ⧉₁, embodied Echo Layers manifest as:
+From SP08 §6, membrane recursion forms when resonance fails to fully transfer across a membrane and becomes trapped in recursive cycling. At ⧉₁, embodied membrane recursion manifests as:
 
-**Centropic Echo Layers:**
+**Centropic Recursion Layers:**
 
 Unresolved integration patterns cycling between cognitive and embodied domains — the physical habit that resists cognitive redirection, the insight that cannot achieve bodily expression, the intention that loops without manifesting. These are centropic in nature (integration seeking completion) and respond to the Echo Layer resolution protocols of SP10 §4.4.
 
