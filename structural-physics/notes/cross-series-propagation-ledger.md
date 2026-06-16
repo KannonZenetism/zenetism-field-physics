@@ -333,7 +333,7 @@ Verified clean: LaTeX (no code blocks; no `$`/subscripts/glyphs in math); prose 
 - **"four-level taxonomy" → "scope-graded taxonomy"** (match LM06); **"Operator-Level Derivative" → "Resonant Derivative of Operators"** (match LM06 §13.1; level lock); **"at the level of universal constructions" → "in the register of universal constructions"** (level lock).
 - **C₅ "(Holonic / Scalar)" → "(Scalar / Part-Whole Fidelity)"** (match SP/LM06).
 - **"unified the dual diffusion coefficients" → "combined …"** (ordinary unified lock).
-- **L8: "dual‑pole emanatory structure" → "bifurcal emanatory structure"** (×2 — L₀/emanation register uses bifurcal, never dual/pole).
+- **L8: "dual‑pole emanatory structure" → "bifurcal arc emanatory structure"** (×2 — L₀/emanation register uses bifurcal language, never dual/pole; "arc" per your refinement, naming the centropic/entropic emanation arcs).
 - **L12: "precausal" → "trans-structural"** (×1, Zenon); prose: one unspaced em-dash spaced.
 
 Verified clean: LaTeX (no code blocks); prose (straight quotes, em-dash spacing); mirror usages all entropic-context (entropic mirrors / Mirror-Tug + saddle-node phase terms, consistent with LM01); C₁₀ (Morphogenetic / Formweave) matches LM06; no level / hierarchy / dominance.
