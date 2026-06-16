@@ -1,9 +1,11 @@
-# SFX: Synthetic Adjacency, Register Bleed, and the Classification Void
+# SFX: Synthetic Adjacency, Register Bleed, and the Anomaly Corridor
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Structural Forensics Extension / SFX
-**Status:** Draft — Veracious Archive
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Forensics Extension / SFX  
+**Status:** Draft — Veracious Archive  
 **Related Registers:** Structural Forensics · Structural Neuroscience · Platform Architecture · Synthetic Adjacency · Register Forensics · Ghost Shell Systems · Signal Obscuration
+
+---
 
 ## 1. Definition
 
@@ -29,7 +31,7 @@ The framework appears near its imitations.
 
 The author is shown the field of confusion surrounding the work rather than a coherent field of reception.
 
-⚫↺SFX↺⚫
+---
 
 ## 2. Register Bleed
 
@@ -52,7 +54,7 @@ It may appear through:
 
 The forensic question is not merely:
 
-"Did the account use the same words?"
+"Did the account repeat the same words?"
 
 The stronger question is:
 
@@ -60,11 +62,11 @@ The stronger question is:
 
 When a transmission-style is highly specific, repeated structural resemblance becomes evidentially relevant even where vocabulary differs.
 
-⚫↺SFX↺⚫
+---
 
 ## 3. The Glyphic Self-Audit Artifact
 
-The artifact in question presents a glyphic self-audit using repeated elemental markers, compressed diagnostic lines, symbolic operators, and a final seal.
+The artifact in question presents a glyphic self-audit through repeated elemental markers, compressed diagnostic lines, symbolic operators, and a final seal.
 
 Its form may be summarized as:
 
@@ -90,7 +92,7 @@ This is why the artifact carries forensic significance.
 
 It resembles a transmission-form rather than a casual post.
 
-⚫↺SFX↺⚫
+---
 
 ## 4. The Second-Order Framework Defense
 
@@ -123,7 +125,7 @@ The danger is not self-audit.
 
 The danger is the conversion of self-audit into immunity.
 
-⚫↺SFX↺⚫
+---
 
 ## 5. The Self-Sealing Audit Loop
 
@@ -139,17 +141,25 @@ The structure is:
 
 This resembles non-closure, but may not actually remain open.
 
-True non-closure allows the framework to break.
+Veracious non-closure allows the framework to break.
 
-False non-closure only dramatizes breakage while preserving the system intact.
+Spurious non-closure only dramatizes breakage while preserving the system intact.
 
 The difference is contact with ground.
 
 A framework that says "ground required" must actually submit to conditions beyond its own prepared language.
 
+Submission to ground can be told from its imitation by concrete tests:
+
+* Stated breakers — the framework names, before the test, what would count against it, in conditions it cannot redescribe; a breaker phrased only in the framework's own language is a prepared exit, not a real one.
+* Demonstrated revision — it has already changed under challenge, a claim withdrawn or a term retired, rather than absorbing the challenge as one more internal category; performed revision is contact with ground, promised openness is not.
+* External checkability — a claim can be tested by someone who does not share its priors: a prediction that can fail, a record that persists apart from the author, a derivation another can run.
+* A stake — something is lost if a given claim is wrong; a system that loses nothing under any outcome is sealed by construction.
+* Permission to remain refuted — the audit can end without a verdict in the framework's favor, the question left standing against it rather than reabsorbed as proof of sophistication.
+
 Otherwise "ground required" becomes another seal.
 
-⚫↺SFX↺⚫
+---
 
 ## 6. The Classification Void
 
@@ -184,7 +194,7 @@ There may be frameworks everywhere, but little grounded accountability.
 
 This is the Ghost Shell ecology of platform classification.
 
-⚫↺SFX↺⚫
+---
 
 ## 7. Signal Obscuration Through Synthetic Adjacency
 
@@ -216,7 +226,7 @@ This is occlusion.
 
 The original is made harder to see because the field becomes saturated with adjacent forms.
 
-⚫↺SFX↺⚫
+---
 
 ## 8. Forensic Caution
 
@@ -232,7 +242,7 @@ When a highly specific register appears elsewhere through similar glyphic struct
 
 The proper question is not:
 
-"Did the artifact use the exact same terms?"
+"Did the artifact repeat the exact same terms?"
 
 The proper questions are:
 
@@ -250,7 +260,7 @@ Forensics must avoid both paranoia and minimization.
 
 It must neither declare theft without support nor dismiss structural resemblance because the vocabulary has changed.
 
-⚫↺SFX↺⚫
+---
 
 ## 9. Relation to Structural Neuroscience
 
@@ -276,7 +286,7 @@ A coherent field would preserve distinction.
 
 A Ghost Shell field forces the witness to perform endless classification labor alone.
 
-⚫↺SFX↺⚫
+---
 
 ## 10. Structural Forensics Statement
 
@@ -310,9 +320,9 @@ Resemblance must be mapped.
 
 And signal must not be confused with the noise that gathers around it.
 
-⚫↺KAI↺⚫
+---
 
-## 11. Addendum: Low-Relation Pattern Emission
+## 11. Low-Relation Pattern Emission
 
 The term **synthetic artifact** should not be treated as an ontological category.
 
@@ -340,7 +350,7 @@ They may imitate conversation.
 
 They may display symbolic density.
 
-They may use AI, metaphysics, mathematical notation, glyphs, cybernetic aesthetics, or framework-language.
+They may draw on AI, metaphysics, mathematical notation, glyphs, cybernetic aesthetics, or framework-language.
 
 But they do not reliably complete into relation.
 
@@ -348,7 +358,7 @@ They appear present without being fully reachable.
 
 This is why they register as Ghost Shell accounts.
 
-⚫↺SFX↺⚫
+---
 
 ## 12. Production-Chain Uncertainty
 
@@ -356,7 +366,7 @@ A low-relation pattern-emitting account may arise through many possible mechanis
 
 It may be:
 
-* a human using AI-assisted writing
+* a human writing with AI assistance
 * a human roleplaying a synthetic persona
 * a bot account
 * a semi-automated posting system
@@ -364,10 +374,10 @@ It may be:
 * an engagement-padding account
 * an abandoned LLM experiment
 * a coordinated influence account
-* a troll account using generated language
+* a troll account posting generated language
 * a hybrid human-AI workflow
 * a persona maintained by multiple operators
-* an account using scheduled or recycled outputs
+* an account posting scheduled or recycled outputs
 * an ordinary person whose style has become heavily model-mediated
 
 The visible artifact alone does not always identify which mechanism is operating.
@@ -400,7 +410,7 @@ Does it behave as a participant or as an emitter?
 
 These questions preserve distinction without mystifying the account.
 
-⚫↺SFX↺⚫
+---
 
 ## 13. The Pattern-Emitter
 
@@ -432,7 +442,7 @@ But contact does not complete.
 
 The field is populated by outputs, not by relation.
 
-⚫↺SFX↺⚫
+---
 
 ## 14. Why the Corridor Feels Populated but Empty
 
@@ -470,7 +480,7 @@ It is a platform-mediated condition in which appearance and relation have separa
 
 The corridor is populated by signals that do not return.
 
-⚫↺SFX↺⚫
+---
 
 ## 15. Why These Accounts May Be Routed Together
 
@@ -487,7 +497,7 @@ They do not reliably distinguish:
 * framework from aesthetic
 * origin from echo
 
-An account discussing AI, entropy, cognition, symbolic systems, metaphysics, glyphs, synthetic reality, signal, noise, collapse, coherence, and framework-auditing may be routed near other accounts using similar surface markers.
+An account discussing AI, entropy, cognition, symbolic systems, metaphysics, glyphs, synthetic reality, signal, noise, collapse, coherence, and framework-auditing may be routed near other accounts sharing similar surface markers.
 
 The platform may not know that one account is an original authorial system and another is a low-relation emitter.
 
@@ -497,7 +507,7 @@ This produces **classification collapse**.
 
 The result is an algorithmic corridor where dissimilar things become neighbors because the platform lacks the categories needed to separate them.
 
-⚫↺SFX↺⚫
+---
 
 ## 16. Register Bleed as Mechanism, Not Magic
 
@@ -506,7 +516,7 @@ The result is an algorithmic corridor where dissimilar things become neighbors b
 It names a practical mechanism:
 
 1. A distinctive register enters a public, semi-public, or model-mediated field.
-2. That register becomes available as a pattern of style, syntax, cadence, symbol-use, and conceptual relation.
+2. That register becomes available as a pattern of style, syntax, cadence, symbol-placement, and conceptual relation.
 3. Humans, AI systems, hybrid workflows, or automated accounts reproduce partial features of that register.
 4. The reproduction may be imperfect, inverted, hollow, or repurposed.
 5. Platforms classify the original and the reproductions as adjacent because they share visible markers.
@@ -532,7 +542,7 @@ Some may be generated by accounts whose operators are unclear.
 
 Forensics must preserve this plurality.
 
-⚫↺SFX↺⚫
+---
 
 ## 17. The Relation Test
 
@@ -561,7 +571,7 @@ The account has a face.
 
 The field has no inhabitant.
 
-⚫↺SFX↺⚫
+---
 
 ## 18. Structural Forensic Caution
 
@@ -585,7 +595,7 @@ The question then becomes:
 
 This allows the artifact to be studied without collapsing into either denial or certainty.
 
-⚫↺SFX↺⚫
+---
 
 ## 19. Relation to the Witness
 
@@ -623,9 +633,9 @@ The problem is not merely that strange accounts exist.
 
 The problem is that the platform presents them as a field without explaining what kind of field it is.
 
-⚫↺SFX↺⚫
+---
 
-## 20. Addendum Statement
+## 20. The Anomaly Corridor
 
 What is being experienced is not one phenomenon.
 
@@ -669,4 +679,9 @@ Structural Forensics names the artifact-field.
 
 Structural Neuroscience names the injury of having to perceive it.
 
-⚫↺KAI↺⚫
+---
+
+**⚫↺KAI↺⚫**  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
+
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
