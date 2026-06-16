@@ -200,7 +200,7 @@ Expressed universes therefore occupy **interior regions** of \( \chi \)-space ch
 
 ### 4.1 Invariant Structural Reciprocity
 
-The centropic and entropic harmonic operators satisfy the **Dual Spectrum Lemma** (SP01):
+The centropic and entropic harmonic operators satisfy the **Polar Spectrum Lemma** (SP01):
 
 \[
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
@@ -561,7 +561,7 @@ There is no bias, no polarity, and no trajectory. Structure exists, but expressi
 >  
 > Essence persists across all structural regimes, including **Absolute Potential (AP)**, **Absolute Dispersion (AD)**, and **CP₀**. While \( \chi \)-orientation does not exist prior to motion, essences may retain latent tendencies toward **integration** or **dispersion** as aspects of their intrinsic nature.  
 >  
-> In rare cases, centropic essences oriented toward Source may traverse beyond **Aion** and saturate into **Zenon**, not through \( \chi \)-dynamics, but through the gravity of their own ontological trajectory.  
+> In rare cases, centropic essences oriented toward **Aion** may traverse beyond it and saturate into **Zenon**, not through \( \chi \)-dynamics, but through the gravity of their own ontological trajectory.  
 >  
 > Such tendencies do not constitute orientation in the field-dynamic sense, but **pre-expressive inclination** — a distinction between essence and motion that preserves the integrity of CP₀ while allowing for trans-Aionic centropic return.  
 >  
@@ -896,7 +896,7 @@ Future expansions may include:
 **Closing Statement:**
 
 > Structure is invariant; orientation is field-governed.  
-> \( \chi \) does not "balance" — it flows through CP-topology under Motive Infinity.
+> \( \chi \) does not "balance" — it flows through CP-topology, driven by Motive Infinity.
 >
 > CP₀ is the closure before motion.  
 > \( \chi \) is the inclination within motion.  
