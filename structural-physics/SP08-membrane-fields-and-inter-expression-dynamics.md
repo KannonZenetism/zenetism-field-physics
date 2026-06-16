@@ -53,7 +53,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose and Discipline Context
 
-SP07 established the energetic substrate of Lattice dynamics — resonance as bifurcal motion, Coherence Potential as measurable field quantity, and Spectral Flow as the unified traversal law. SP07 Section 7.3 introduced membrane threshold dynamics but did not fully formalize the membrane operator itself.
+SP07 established the energetic substrate of Lattice dynamics — resonance as bifurcal motion, Coherence Potential as measurable field quantity, and Spectral Flow as the integrated traversal law. SP07 Section 7.3 introduced membrane threshold dynamics but did not fully formalize the membrane operator itself.
 
 SP08 now addresses the ⧉ operator: **Membrane Fields** — the structural overlays and resonance thresholds that mediate transfer between hypostatic layers and across expression boundaries.
 
