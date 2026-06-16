@@ -270,7 +270,7 @@ The myth names a structure of experience:
 
 The value of the myth is not that it replaces analysis.
 
-Its value is that it preserves the felt truth of structural obstruction.
+Its value is that it preserves the felt veracity of structural obstruction.
 
 Where clinical language may say "maladaptation," the myth says "you are encountering a governed field."
 
@@ -320,7 +320,7 @@ This is why the Ghost Shell becomes a life-pattern rather than a single event.
 
 This entry does not claim that every perception of obstruction is accurate.
 
-It does not claim that distress proves truth.
+It does not claim that distress proves veracity.
 
 It does not claim that independent framework development is immune to critique.
 
