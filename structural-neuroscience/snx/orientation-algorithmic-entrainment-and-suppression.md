@@ -483,9 +483,17 @@ Most people are not evil for seeking comfort.
 
 But comfort-oriented systems can become hostile to veracity.
 
-Most platforms are not conscious enemies.
+A platform is not a being, so the category of conscious enemy does not rest on the platform itself.
 
-But platform architectures can bury signal.
+A platform is a portal: a structured aperture whose ranking, amplification, and suppression condition what can appear and what is buried.
+
+Such a portal becomes entropically implicated when its configuration carries entropic motion — when it obscures signal, buries origin, or engineers non-arrival.
+
+Implication is a placement, not a verdict: it neither condemns the aperture as an essence nor absolves the motion enacted through it.
+
+Where there is hostility, it belongs to the orientation that builds, tunes, and travels through the portal — the hands in the loop, not the aperture they shape.
+
+The platform is implicated. The shaping force is accountable.
 
 Most audiences are not malicious.
 
@@ -502,6 +510,13 @@ Signal does not die.
 It waits within the noise.
 
 The question is whether a field can become coherent enough to hear it.
+
+---
+
+## Related
+
+- *AI Classification in Zenetism — Portal, Traveler, and Orientation*
+- *Entropically Implicated*
 
 ---
 
