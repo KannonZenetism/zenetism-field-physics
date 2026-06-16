@@ -18,11 +18,11 @@ This is not a product to be owned, but a **signal to be carried**.
 The *signal* refers to the total Zenetist framework — its metaphysics, doctrinal atlas, glyphic lexicon, mathematical structures, and analytical methods.  
 
 Zenetism operates according to a fundamental metaphysical law:  
-> **Coherence requires Source acknowledgement.**
+> **Coherence requires origin acknowledgement.**
 
 You are invited to work with these principles.  
 For the patterns to remain stable and centropic, the signal must maintain an unbroken link to its origin.  
-Use of this work requires:
+Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
 - Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
@@ -31,14 +31,15 @@ Use of this work requires:
 
 ### **Warning**
 
-Attempting to use or modify this framework while severing its connection to its Source constitutes an act of incoherence.  
-Such attempts inevitably result in **entropic dissolution** — the patterns collapse under their own distortion.  
+Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
+Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
 
 ---
 
-# LM06 — Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism
+# Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism
+*Lattice Mathematics — Document 6*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics / Zenetist Canon  
@@ -431,7 +432,7 @@ Post-ritual recovery follows the replenishment pathways of LM05 §3.4:
 I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-ritual}}) + \int_{\tau_{\text{post-ritual}}}^{\tau_{\text{recovery}}} S_{\text{replenish}}(\tau) \, d\tau
 \]
 
-Recovery time depends on magnitude of expenditure, availability of Source connection, quality of resonance bridges (C₈) for replenishment, and whether collective support is available (LM05 §9 harmonic amplification).
+Recovery time depends on magnitude of expenditure, availability of coherence-source connection, quality of resonance bridges (C₈) for replenishment, and whether collective support is available (LM05 §9 harmonic amplification).
 
 ---
 
@@ -516,7 +517,7 @@ The dimensional operator dynamics at the Embodiment Band form a composite field:
 Where:
 
 - \( f(C_2, C_4) \) represents primary operator contributions: C₂ (Spatial / Cohered Extension) governs felt location and bodily orientation; C₄ (Rotational / Gyre) governs conserving rhythms and cyclical stability
-- \( g(C_5, C_{10}) \) represents cross-band contributions: C₅ (Holonic / Scalar) enables the part to coherently reflect the whole across L₁ through L₄; C₁₀ (Morphogenetic / Formweave) translates pattern (L₄) into living structure (L₁)
+- \( g(C_5, C_{10}) \) represents cross-band contributions: C₅ (Scalar / Part-Whole Fidelity) enables the part to coherently reflect the whole across L₁ through L₄; C₁₀ (Morphogenetic / Formweave) translates pattern (L₄) into living structure (L₁)
 
 Embodied beings who resonate with supernal layers through practice, orientation, or innate structural affinity express the cross-band operators more fully.
 
@@ -705,7 +706,7 @@ The dimensional operators (LM01 §5) serve a dual function: they govern structur
 | Operator | Diagnostic Function |
 |----------|---------------------|
 | C₃ | Temporal coherence — timeline consistency, retroactive attribution detection |
-| C₅ | Holonic fidelity — whether partial reproduction creates misleading completeness |
+| C₅ | Scalar / Part-Whole Fidelity — whether partial reproduction creates misleading completeness |
 | C₁₀ | Formweave fidelity — whether form has been reproduced without generative process |
 | E₂ | Signal contamination — low-coherence noise obscuring coherent signal |
 
@@ -850,9 +851,9 @@ The source continues to generate new coherence. The clone can only reproduce wha
 
 *Proof.* The source possesses \( S > 0 \) (generative function). The clone, by definition, lacks this function — it reproduces structure without possessing the originating process. Therefore \( S_{\text{clone}} < S_{\text{source}} \) at all \( \tau \). Integration over structural time yields monotonically increasing divergence. \( \square \)
 
-### 11.4 Diagnostic Hierarchy
+### 11.4 Diagnostic Gradient
 
-The four categories form a hierarchy of increasing structural severity:
+The four categories form a diagnostic gradient of increasing structural severity:
 
 | Category | Condition | Severity |
 |----------|-----------|----------|
@@ -1008,7 +1009,7 @@ The field signature \( \Sigma \) extends the field configuration \( \mathcal{F} 
 \Sigma = (\mathcal{F}, \{O_k\}_{k=1}^{15})
 \]
 
-The diagnostic formalism operates on the extended space \( \mathfrak{F} \times \mathbb{R}^{15} \), where the additional 15 dimensions encode operator activity levels.
+The diagnostic formalism operates on the extended space \( \mathfrak{F} \times \mathbb{R}^{15} \), where the additional 15 dimensions encode operator activity magnitudes.
 
 ### 13.6 Dimensional Operator Correspondence
 
@@ -1022,7 +1023,7 @@ The dimensional operators acquire specific applied functions within LM06:
 - Primary at L₁; governs conserving rhythms of corporeal existence
 - Entropic mirror E₄: consumptive collapse of cyclical processes
 
-**C₅ (Holonic / Scalar):**
+**C₅ (Scalar / Part-Whole Fidelity):**
 - Cross-band at L₁, spans L₁ through L₄
 - Diagnostic function: reads part-whole fidelity
 
@@ -1328,14 +1329,14 @@ LM06 establishes:
 
 1. **Field Configuration Space** — The 4-tuple \( \mathcal{F} = (I_c, \sigma(⧉), \vec{J}_c, \chi) \), the product space \( \mathfrak{F} \), and the configuration metric for measuring distance between configurations
 2. **Ritual Operator Algebra** — The Ritual Operator \( \mathcal{P} : \mathfrak{F} \to \mathfrak{F} \), canonical five-phase decomposition, efficacy condition via configuration metric, non-commutative composition, collective operators, and the Countermeasure Orientation Preservation axiom
-3. **Field Seal Formalism** — The seal triple \( \mathfrak{S}_{\text{seal}} \), construction mechanics (discharge, membrane specification, internal cycling), four-level taxonomy with formal permeability conditions (Architectural, Categorical, Relational, Situational), and the Seal Integrity theorem with failure modes
+3. **Field Seal Formalism** — The seal triple \( \mathfrak{S}_{\text{seal}} \), construction mechanics (discharge, membrane specification, internal cycling), scope-graded taxonomy with formal permeability conditions (Architectural, Categorical, Relational, Situational), and the Seal Integrity theorem with failure modes
 4. **Coherence Budget Theory** — The budget equation, the Reserve Lock Principle as structural axiom, collective cost distribution with the Internal Siphoning Prohibition, and cost recovery dynamics
 5. **Embodied Resistance Theory** — The interface resistance term \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) with the Interface Localization theorem, resistance-corrected coherence cost, asymmetric resistance, and the composite operator field at L₁
 6. **The Embodied \( \chi \)-Equation** — Resistance-corrected orientation evolution with centropic activation function, embodied equilibrium instability, and the Mercy Fold condition
 7. **Cross-Band Resonance** — Formal resonance condition for layer participation from embodiment, the Orientation-Intent Principle, membrane dynamics at ⧉₁ with directional asymmetry, and ⧉₁ pathology
 8. **Field Signature Theory** — The 5-tuple \( \Sigma \), pairwise alignment function, the multiplicative Signature Consistency measure, the Signature Consistency Principle, and diagnostic operator theory with primary and secondary instruments
 9. **Shimmer Coefficient and Instability** — \( \mathcal{S}_{\text{sh}} = I_c^{(\text{apparent})} / I_c^{(\text{actual})} \), the Shimmer Collapse Theorem with proof (runaway instability from generative insufficiency), collapse acceleration via coherence audit, and generative contra consumptive signature distinction
-10. **Diagnostic Taxonomy** — Mimicry (⊜), appropriation (⥊), and clone (⊟) as formally distinguished configurations with correlation conditions, attribution coupling \( \mathcal{A} \), the Clone Temporal Drift theorem, and the four-level diagnostic hierarchy
+10. **Diagnostic Taxonomy** — Mimicry (⊜), appropriation (⥊), and clone (⊟) as formally distinguished configurations with correlation conditions, attribution coupling \( \mathcal{A} \), the Clone Temporal Drift theorem, and the four-category diagnostic gradient
 11. **Coherence Audit Formalism** — Five-domain evaluation protocol, four diagnostic outcomes (integrity confirmed, inconsistency detected, derivative signature identified, insufficient data), and scale invariance from individual to institutional
 12. **Integration with LM01 / LM03 / LM04 / LM05** — Spiral Calculus extensions (resonant derivative of operators, structural integral of cost), CIT preservation under ritual action, ritual-indexed ResCat families, resistance-corrected spectral rotation, shimmer as divergence in configuration space, field signature as extended configuration, and dimensional operator correspondence
 
