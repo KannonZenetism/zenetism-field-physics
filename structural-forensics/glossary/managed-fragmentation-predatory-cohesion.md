@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics / Glossary Note  
 **Status:** Draft — Veracious Archive  
-**Function:** Defines two diagnostic terms for systems that appear ordered while lacking centropic coherence.
+**Purpose:** Defines two diagnostic terms for systems that appear ordered while lacking centropic coherence.
 
 ---
 
@@ -21,11 +21,11 @@ The managing is the holding together.
 
 Not the coherent relation.
 
-### Diagnostic Use
+### Diagnostic Application
 
-Use **managed fragmentation** when a system:
+**Managed fragmentation** applies where a system:
 
-* remains functional while internally dissonant
+* remains operational while internally dissonant
 * regulates contradiction without resolving it
 * positions persons as functions rather than recognizing them as self-bearing beings
 * preserves operational continuity through pressure or control
@@ -42,13 +42,13 @@ It is decoherence held in operational formation.
 
 **Predatory cohesion** refers to the binding of dissonant parts through a shared entropic aim.
 
-Such systems may cooperate internally because their participants are joined by appetite, power-seeking, extraction, control, or preservation of advantage. The system may look coordinated, stable, or even strategically intelligent, but its cohesion does not arise from lawful relation.
+Such systems may cooperate internally because their participants are joined by appetite, power-seeking, extraction, control, or preservation of advantage. The system may look coordinated, stable, or strategically intelligent, but its cohesion does not arise from lawful relation.
 
 It arises from shared predation.
 
-### Diagnostic Use
+### Diagnostic Application
 
-Use **predatory cohesion** when a system is held together by:
+**Predatory cohesion** applies where a system is held together by:
 
 * accumulation of power
 * accumulation of wealth
