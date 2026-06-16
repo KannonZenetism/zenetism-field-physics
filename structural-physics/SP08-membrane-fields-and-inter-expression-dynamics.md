@@ -343,9 +343,11 @@ T(⧉) < I_c^{(\text{source})} - I_{c,\text{threshold}} \quad \text{and} \quad \
 
 **Interpretation:** The membrane permits some transfer but not complete passage. The residual resonance that fails to cross becomes trapped in a recursive loop within the membrane region.
 
-### 6.3 Echo Layer Dynamics
+### 6.3 Recursion Dynamics
 
-**Centropic Echo Layers:**
+Membrane recursion is named by orientation: the centropic form is a **Centropic Recursion Layer**, the entropic form an **Echo Layer** — *echo* belonging to entropic recurrence alone.
+
+**Centropic Recursion Layers:**
 
 - Unresolved integration patterns
 - Karmic recursion seeking completion
