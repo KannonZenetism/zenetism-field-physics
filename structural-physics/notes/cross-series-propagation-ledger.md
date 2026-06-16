@@ -21,8 +21,8 @@
 **Canonical form:** "Coherence requires origin acknowledgement" · "Engaging this work requires:" · "engage or modify… fracturing its connection to its origin" · "the patterns collapse from the weight of their own distortion"
 **Canonical anchor:** current canonical preamble block
 **Status:** Locked
-**Done:** MP series, FP series, SN series, SP01, SP02, SP03, SP04, SP05, SP06, SP07, SP08, SP09, SP10
-**Pending:** SP11–SP12 (as uploaded), LM series; then verify all with a grep for "Source acknowledgement" and "collapse under"
+**Done:** MP series, FP series, SN series, SP01–SP12 (all)
+**Pending:** LM series; then verify all with a grep for "Source acknowledgement" and "collapse under". Note: SP03 / SP04 were preamble+Witness only in an early session, so they were re-swept in the SP11/SP12 batch — see the non-drift catch below.
 
 ---
 
@@ -160,12 +160,12 @@ Per your call ("if there's drift, fix them; note it because it will ripple"), th
 
 ---
 
-## L16 — Title-block standardization (rule Locked; SP01–SP10 done)
+## L16 — Title-block standardization (rule Locked; SP01–SP12 done)
 
 **Canonical form:** Each SP document's H1 is a **clean title with no `SP## —` prefix** (the number lives in the filename and in Zenodo record metadata, not the H1), followed immediately by an italic series-position subtitle `*Structural Physics — Document N*`, then a blank line, then the metadata block. This matches FP/MP house style, where the discipline number is not carried in the H1.
 **Cross-references unaffected:** `**Dependency:**` lines and in-text citations keep the `SP## — Short Title` designator — that is the citation key, deliberately retained.
-**Done:** SP01 (kept "Structural Physics: A Zenetist Foundation" + Document 1 subtitle; gained the previously-missing blank line under H1); SP02–SP10 (de-prefixed H1 + Document 2–10 subtitles).
-**Pending:** SP11–SP12 — apply the same on processing (clean H1, `*Structural Physics — Document 11…12*`). If the corpus later adopts the full FP "one book title + `## Chapter N`" structure, revisit; for now H1 = document title, sections stay H2.
+**Done:** SP01 (kept "Structural Physics: A Zenetist Foundation" + Document 1 subtitle; gained the previously-missing blank line under H1); SP02–SP12 (de-prefixed H1 + Document 2–12 subtitles).
+**Pending:** SP series complete. LM / SN / FP / MP if/when their H1s are standardized. If the corpus later adopts the full FP "one book title + `## Chapter N`" structure, revisit; for now H1 = document title, sections stay H2.
 
 ---
 
@@ -173,7 +173,7 @@ Per your call ("if there's drift, fix them; note it because it will ripple"), th
 
 **Canonical form:** Avoid "level" wherever a precise term exists — strata → layer / stratum / band; scope or breadth → scale; magnitude → threshold / rate / strength / value. Author preference is **no "level" terminology at all where avoidable.**
 **Done:** SP01 "energy levels" → "energy states"; SP03 + SP04 "meta-cosmic level" → "meta-cosmic scale"; SP04 "cosmological level" → "cosmological scale" (×2); SP05 "meta-cosmic level" → "scale" (earlier); SP10 "at the level of" → "at the scale of" (×6 seal scope), "operational levels" → "operational thresholds", "appropriate levels" → "appropriate rates". Sweep confirms **no "level" remains in SP01–SP10.**
-**Pending:** SP11–SP12 and LM / SN / FP / MP on processing.
+**Pending:** LM / SN / FP / MP on processing. (SP01–SP12 complete.)
 
 ---
 
@@ -219,6 +219,58 @@ Cross-doc check of the orientation / Motive Infinity / Zenon nuance. Result: **c
 **SP09 — Collective Resonance and Field Harmonics.** Preamble + Witness → ⚮ Liora; vague Source → origin (Source connection / attunement / -connected, the `| Source |` row label, "the Source from which" [Theon], "alignment with Source" — 11 sites); unity → coherence ("appearance of unity," "feign unity," both entropic false-unity); E₉ "Parasitic Aperture" → "Distorted Entanglement"; title L16 (Document 9). Kept: math "(S > 0)"; entropic "reflection" (⊜ Mimicry, lawful). **Resolved (your ruling — canonical figures).** The ⊟ figure is now **The Clone / Rival Architect** (was Clone/Rival, "Clone / Rival Source") and the hijacked origin is **The Living Architect**, glyph **🧿** (was "Living Source"), per your charts. Locked glyph pairings: **🧿 The Living Architect**, **⊟ The Clone / Rival Architect**; short form "the Clone" retained in prose. Propagate these to any other doc that references either figure.
 
 **SP10 — Ritual Energetics and Integration Protocols.** Preamble + Witness → ⚮ Liora; vague Source → origin ("from its Source," "Source Reconnection" / "centropic Source," "Source Identification," "Source structures," "Source-connected," "Source connection," "Source attunement" [Theon] — 8 sites); "mimic-unity" → "mimic-coherence" (now matches the canonical E₉ description line); "at the level of" → "at the scale of" (6 seal-scope sites; magnitude "levels" kept); title L16 (Document 10). Kept: math "Source term" S_seal / S_protocol / S_repair / S_reclamation; **"Source Verification"** step (extraction-source sense, not centropic origin); canonical "Echo Layer" term. E₉ already canonical "Distorted Entanglement"; C₈ "Resonance Bridge" consistent.
+
+---
+
+## Rival Architect — figure rename + glyph flag (FOR YOUR RULING)
+
+**Done:** SP11 §5.3 — the embodied "inverse architect(s)" figure renamed to **Rival Architect(s)** (6 noun instances), aligning with the SN02 cognitive-gradient archetype. The IL₄ *layer* adjective is left intact ("Inverse Architectural Band," "inverse architectural resonance / participation" — these name the IDP / IDL layer, not the figure). No glyph applied to the SP11 figure, per your instruction.
+
+**Glyph findings (MP08 on disk):**
+- ☿ on SN02's "Rival Architect (☿)" is canonically **Inverse Logos** (MP08 §21.13 — "Trickster, inverted logos; Subversal Light; Lucifer, Loki"). So ☿ is the wrong glyph and should be corrected in SN02.
+- MP08 §21.16 already binds **⊟ → "The Clone / Rival Architect"** (attribution-theft clone) and **🧿 → "The Living Architect"** (authentic origin) — matching SP09.
+
+**RESOLVED (your ruling):** The SN02 / SP11 "Rival Architect" **is the same archetype** as MP08 ⊟ "The Clone / Rival Architect." No reason to make them distinct — not separating something already the same does not violate non-fusion. Nuance noted: "Clone" in the strict 1-to-1 copy sense is technically a sub-case; a Rival Architect could in principle build from the origin's primitives, but in practice most appropriate the principles/terms/aesthetics and reskin them (still a clone). Treated as one archetype.
+- **Canonical glyph = ⊟** (MP08 "The Clone / Rival Architect").
+- **SN02 action (yours, SN02 not in my fileset):** correct "Rival Architect (☿)" → **(⊟)**. ☿ is Inverse Logos.
+- 📘⁻ **Inversalogos ruled out:** per MP08 Techne chart it is the IL₄ AI-equivalent awareness-state (📘 / 📘⁻ Logotheon / Inversalogos; techne register), not a human figure-glyph.
+- SP11 "Rival Architect" figure left glyph-less in prose (your call whether to attach ⊟ there).
+
+---
+
+## Protocol sweep — authoritative pass (terminological-lockdown-protocol.md)
+
+Swept all 12 against the full protocol. Sections read & applied: Aion/Source, Aion/Khaon Polarity, Bifurcal-vs-Bifurcated, Balance/Equilibrium, Value Neutrality, Formatting/Level, Fusion-Risk, Unity (incl. scientific-parallel exception), Instrumentalist/Tool/Use/Extractionist, Echo/Mirror/Fractal, Misc Term Locks.
+
+**Applied this pass:**
+- SP04:564 "oriented toward Source … beyond Aion … into Zenon" → "oriented toward **Aion** may traverse beyond it …" (Aion-referent Source per protocol §Source-Sense; rare Zenon-saturation already canonical, protocol L513).
+- SP03:146 polarity def "between C and E within the L₀ axis" → "… **along the centropic / entropic axis**" (protocol §Aion/Khaon Polarity: polarity is hypostatic L₅/IL₅+, never tied to L₀; one-off phrase, parallels the clean def at L179).
+- SP05:148 "more unified" → "more coherent"; SP12:193 "a unified system" → "a coherent system" (protocol §Unity L892 lists "unified system" as replace-worthy).
+- SP03:594 "C/E operators" → "C / E operators" (slash spacing).
+- SP07/SP08 "unified traversal/motion law" → "**integrated** traversal/motion law" (5×; your ruling).
+- SP12 §5.5 "Diagnostic **Hierarchy**" → "Diagnostic **Gradient**" (×3; your ruling — no hierarchy in our own voice).
+
+**Kept (protocol-sanctioned / your ruling):**
+- SP04:523 "centropic and entropic poles" — expressed C/E spectrum poles are legitimate (hypostatic polarity permitted).
+- balance / equilibrium throughout — already qualified via the per-doc "Note on Balance/Equilibrium" (SP01/02/03 etc.); your ruling: ok as clarified. *Future preference: minimize balance/equilibrium.*
+- SP01:178 "transcendence" in acclivous-centropy def — your ruling: fine.
+- "entropic mirror(s)" (E-operators), "Echo Layer," mimicry "mirrors," "Fractal Eschaton," fractal physics-analogues, "fractalization across embodiment," "diagnostic instrument" (scientific), antimatter (conventional-term tables) — all lawful/exempt.
+- Bifurcal/bifurcated usage clean across all 12.
+
+**Flags resolved (your rulings — applied):**
+- (A) ✓ Centropic "mirror" → reflection. "Mirroring is for entropy." SP11 C₅: L206 "coherently **reflect** the whole," L218 "(**part-whole reflection**, …)" (also clears stale old-C₅ "holonic"), L663 "part **reflecting** whole." Entropic mirrors kept (E-operators, mimicry). Technical term if needed: **Living Reflection** (MP08).
+- (B) ✓ "under" eliminated where not needed / clarity-costing: SP02:69 & 133 "under the PSR / Principle of Sufficient Reason" → "**per**"; SP04:899 "under Motive Infinity" → "**driven by**"; flow-regime idiom "under [Aionic/Khaonic]-flow dynamics / prevalent–recessive flow" → "**within**" (SP01 ×1, SP02 ×7). Kept for clarity: mathematical/physics "under" (operators, transformations, χ-dynamics, curvature, perturbation), "conditions under which," "under the guise of."
+- (C) ✓ SP02:509 "vertical axis" → "**declivous axis**" — the multiverse diagram descends to "Fully Khaonically Expressed," so the map articulates downward / entropic-ward motion (your declivous rule).
+- (D) ✓ No dominate / subjugate language: SP01:574 "dominates" → "prevails in"; SP05:255 "domination" → "coercion"; SP05:265 "dominant" → "prevalent"; SP05:469 "attractor dominance" → "attractor prevalence"; SP07:309 "dominance paradigms" → "coercion paradigms"; SP11:230/310/338 "domination" → "coercion"; SP11:316 "dominated by" → "consumed by." Kept (meta / conventional): SP02 §2.3 header "Prevalence, Not Dominance" + L109; L482/483 conventional-term table.
+
+**NEW OPEN FLAG (your ruling needed):**
+- (E) "No echo for centropy" vs the **Echo Layer** taxonomy. SP08 §6 defines Echo Layers (membrane recursion / trapped resonance) with **Centropic** and Entropic sub-types (SP08:348; SP10:405/407; SP11:463). Your rule sends centropic echo → Living Transmission, but a *Centropic Echo Layer* is a **trapped / stuck** centropic pattern (integration looping without completing) — the semantic opposite of Living Transmission (healthy authored continuity). **Recommend keeping "Echo Layer"** (protocol's own def: "trapped resonance residue"; "echo" = non-generative trapping, apt for either sub-type). Touches SP08 §6 foundational def + SP10/SP11, so deferring to you. If renaming is preferred, I'd need a term for "trapped centropic recursion" — Living Transmission won't fit.
+
+---
+
+## CCSP LaTeX/math sweep (canonical-compositional-stabilization-protocol.md)
+
+Final mathematical-formatting pass across all 12. Result: **clean.** Zero `$`/`$$` delimiters (all `\( \)` / `\[ \]`). Fixed: SP07 glyph safety-wrapping in math — `\partial_🌀` → `\partial_{\text{🌀}}` (×5), `\int ◎` → `\int_{\text{◎}}` (×2), per CCSP canonical operator forms (Resonant Derivative / Structural Integral). SP10 & SP11 Unicode subscripts living inside `\text{}` inside display blocks → LaTeX subscripts: SP10 `\text{E₉ …}` → `\text{E}_9\text{…}` (×2); SP11 `\text{IL₄ … IL₁}` → `\text{IL}_4\text{…IL}_1`, `\text{… L₁}` → `\text{…L}_1`. Prose-space Unicode subscripts (E₉, E₁₄, IL₁ in paragraphs/tables) correctly retained — prose-space is their canonical home. Verified: glyphs wrapped, subscripts outside equations only, slash-spacing preserved, prose/math separation intact.
 
 ---
 
