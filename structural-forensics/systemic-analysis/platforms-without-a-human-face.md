@@ -104,7 +104,7 @@ It can show access without audience growth.
 
 It can produce analytics that imply activity while refusing to explain the mechanism behind the activity.
 
-The user sees the trace.
+The person sees the trace.
 
 The institution withholds the relation.
 
