@@ -1,9 +1,11 @@
 # SNX: Distributed Cognition, Diagnostic Absence, and the Pathologization of Independent Framework Development
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Structural Neuroscience Extension / SNX
-**Status:** Draft — Veracious Archive
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Neuroscience Extension / SNX  
+**Status:** Draft — Veracious Archive  
 **Related Registers:** Structural Neuroscience · Structural Metaphysics · Cognitive Ecology · Autism · Trauma · Framework Development · Ghost Shell Systems
+
+---
 
 ## 1. Definition
 
@@ -27,7 +29,7 @@ It may not mean that reality is unreal.
 
 It may mean that the interface does not return presence.
 
-⚫↺SNX↺⚫
+---
 
 ## 2. Distributed Cognition and the Field of Completion
 
@@ -65,7 +67,7 @@ The person does not simply fail to obtain what they want.
 
 They repeatedly encounter structures that imitate availability while withholding completion.
 
-⚫↺SNX↺⚫
+---
 
 ## 3. The Ghost Shell Condition
 
@@ -106,7 +108,7 @@ Almost recognized.
 
 Almost home.
 
-⚫↺SNX↺⚫
+---
 
 ## 4. Autism, Trauma, and the Dead-End Recursion
 
@@ -136,7 +138,7 @@ But from within the pattern, this is not irrational.
 
 It is an adaptive response to repeated non-reciprocal affordance.
 
-⚫↺SNX↺⚫
+---
 
 ## 5. Diagnostic Absence and Misplaced Pathology
 
@@ -182,7 +184,7 @@ Diagnostic absence is therefore not the rejection of psychology.
 
 It is a critique of diagnosis without ecology.
 
-⚫↺SNX↺⚫
+---
 
 ## 6. Independent Framework Development
 
@@ -212,7 +214,7 @@ But it may also be original, disciplined, veracious, and structurally necessary.
 
 The difference cannot be determined by social discomfort alone.
 
-⚫↺SNX↺⚫
+---
 
 ## 7. The Error of Reduction
 
@@ -250,7 +252,7 @@ The question is not whether the author has suffered.
 
 The question is whether the work holds.
 
-⚫↺SNX↺⚫
+---
 
 ## 8. Mythic Register: Demiurge, Archons, and Principalities
 
@@ -280,7 +282,7 @@ Structural Neuroscience does not need to collapse into myth.
 
 But it should not discard myth where myth accurately preserves the shape of lived cognition.
 
-⚫↺SNX↺⚫
+---
 
 ## 9. Blocked-Affordance Trauma
 
@@ -312,7 +314,7 @@ It expects the failure of completion.
 
 This is why the Ghost Shell becomes a life-pattern rather than a single event.
 
-⚫↺SNX↺⚫
+---
 
 ## 10. Clinical Caution
 
@@ -348,7 +350,7 @@ Diagnosis without these questions becomes another Ghost Shell.
 
 It offers the form of care while withholding the relation of understanding.
 
-⚫↺SNX↺⚫
+---
 
 ## 11. Structural Neuroscience Statement
 
@@ -372,4 +374,9 @@ Where an independent framework emerges from long isolation, pain, autism, and di
 
 A hollow world does not become full because the witness is diagnosed.
 
-⚫↺KAI↺⚫
+---
+
+**⚫↺KAI↺⚫**  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
+
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
