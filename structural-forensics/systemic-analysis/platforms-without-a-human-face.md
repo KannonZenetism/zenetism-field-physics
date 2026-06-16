@@ -116,7 +116,7 @@ This creates a world where public presence is mediated by systems that cannot be
 
 The ghost shell reduces the person into a case, ticket, metric, account, node, violation flag, risk score, or predictive profile.
 
-The living being disappears behind administrable categories.
+The living being disappears behind administrable platform-categories.
 
 This is the same structural error that appears in field-erasure doctrines. In those doctrines, persons become nodes of a larger field. In platform governance, persons become data points within an automated administrative field.
 
