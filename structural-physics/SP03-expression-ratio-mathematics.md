@@ -51,7 +51,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ## 1. Introduction
 
-SP01 established the foundational mechanics of Structural Physics: the three poles, the dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Dual Spectrum Lemma governing their reciprocal relationship.
+SP01 established the foundational mechanics of Structural Physics: the three anchors (⚫ Aion, ♾ Khaon, 🕳️ Zenon), the dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Polar Spectrum Lemma governing their mirrored relationship.
 
 SP02 established the multiversal expression: the Tumbling Multiverse, Biospiral expression ratios, and contra-flow dynamics.
 
@@ -60,7 +60,7 @@ This document, SP03, provides the **mathematical formalism** for expression rati
 SP03 establishes:
 
 - The **Chi Orientation Parameter** \( (\chi) \) as the governing variable for Biospiral expression
-- The relationship between the **Dual Spectrum Lemma** (invariant structure) and **expression ratio** (topological slope)
+- The relationship between the **Polar Spectrum Lemma** (invariant structure) and **expression ratio** (topological slope)
 - **Motion conditions** distinguishing expression, orientation, polarity, and stillness
 - The role of **Motive Infinity** as the pre-bifurcal field of all motion
 - **CP** (Convergence Principle) as the closure condition of the pre-hypostatic requisites
@@ -84,7 +84,7 @@ Structural Physics operates within four fundamental domains:
 The pre-hypostatic requisites are not hypostases but **structural conditions** that make hypostatic expression possible:
 
 - **Supra-L₀** — The Unknown Principle; trans-structural ground beyond emanation, causality, and awareness
-- **L₀** — Root polarity containing Absolute Potential (stillness at the origin) and Absolute Dispersion (motive possibility)
+- **L₀** — Bifurcal root containing Absolute Potential (stillness at the origin) and Absolute Dispersion (motive possibility)
 
 These requisites do not constitute expressed layers of being. They are the **conditions of possibility** for expression itself.
 
@@ -143,7 +143,7 @@ We distinguish rigorously between motion, orientation, polarity, and stillness:
 
 **Orientation** = implicit tendency of expression (toward integration or dispersion)
 
-**Polarity** = explicit bifurcation between C and E within the L₀ axis
+**Polarity** = explicit bifurcation between C and E along the centropic / entropic axis
 
 **Stillness** = absence of expression, not absence of structure
 
@@ -284,11 +284,11 @@ Pure centropic or entropic motion is logically admissible but not necessarily co
 
 ---
 
-## 5. The Dual Spectrum Lemma and Expression Ratio
+## 5. The Polar Spectrum Lemma and Expression Ratio
 
 ### 5.1 The Lemma as Invariant Structure
 
-The Dual Spectrum Lemma (SP01) states:
+The Polar Spectrum Lemma (SP01) states:
 
 \[
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
@@ -300,12 +300,12 @@ This is the **invariant structure** — the map showing the mountain and valley.
 
 The Chi parameter \( (\chi) \) describes the **topological slope** — which direction is "downhill" in a given universal expression.
 
-- The Dual Spectrum Lemma describes **what is possible** (structural law)
+- The Polar Spectrum Lemma describes **what is possible** (structural law)
 - The Chi parameter describes **what is prevalent** within a given expression
 
 ### 5.3 Formal Relationship
 
-Let \( H_c \) and \( H_e \) be the centropic and entropic harmonic operators with spectra satisfying the Dual Spectrum Lemma.
+Let \( H_c \) and \( H_e \) be the centropic and entropic harmonic operators with spectra satisfying the Polar Spectrum Lemma.
 
 In a universe with orientation parameter \( \chi \), define the **effective operator**:
 
@@ -319,7 +319,7 @@ At \( \chi \to \infty \): \( H_{\text{eff}} \to H_e \) (purely entropic)
 
 At \( \chi = 1 \): \( H_{\text{eff}} = \frac{1}{2}(H_c + H_e) \) (balanced)
 
-The Dual Spectrum Lemma ensures that:
+The Polar Spectrum Lemma ensures that:
 
 \[
 \mathrm{Spec}(H_c + H_e) = \{0\}
@@ -429,7 +429,7 @@ Within the sustained field of Motive Infinity, **all possible orientations** eme
 - Some expressions bias toward \( \chi = 0 \) (Aionic)
 - Some expressions bias toward \( \chi \to \infty \) (Khaonic)
 - Most expressions occupy biased regions of the spectrum between centropic and entropic extremes
-- All expressions preserve the Dual Spectrum Lemma as invariant structure
+- All expressions preserve the Polar Spectrum Lemma as invariant structure
 
 The Tumble is not random but **structurally anticipated** — infinite possibility expressing through infinite orientation.
 
@@ -589,9 +589,9 @@ Expression Ratio Mathematics establishes:
 
 5. **CP as closure condition** — Equilibrium of requisites prior to bifurcation (\( 0 \rightleftharpoons \infty \))
 
-6. **Dual Spectrum Lemma as invariant** — The map; Chi as topological slope
+6. **Polar Spectrum Lemma as invariant** — The map; Chi as topological slope
 
-7. **Weighted operator theory** — C/E operators manifest with amplitudes determined by \( \chi \)
+7. **Weighted operator theory** — C / E operators manifest with amplitudes determined by \( \chi \)
 
 8. **Attractor dynamics** — Expression ratio determines which states are "downhill"
 
@@ -625,7 +625,7 @@ Future expansions may include:
 
 **Closing Statement:**
 
-The Dual Spectrum Lemma is the map — invariant, universal, lawful.  
+The Polar Spectrum Lemma is the map — invariant, universal, lawful.  
 Chi is where you stand on that map — local, variable, expressive.  
 Structure permits motion; motion does not generate structure.  
 Motive Infinity breaks stillness into expression.  
