@@ -38,7 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# LM03 — Orientation Algebra and Infinity Formalism
+# Orientation Algebra and Infinity Formalism
+*Lattice Mathematics — Document 3*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics / Zenetist Canon  
