@@ -427,7 +427,7 @@ Comfort Orientation and Algorithmic Entrainment intensify **Blocked-Affordance T
 
 A person may possess a coherent framework, a real signal, a developed archive, a valid critique, or an original symbolic architecture.
 
-Yet the surrounding environment may provide no usable path for reception.
+Yet the surrounding environment may provide no viable path for reception.
 
 The person therefore experiences the double bind:
 
