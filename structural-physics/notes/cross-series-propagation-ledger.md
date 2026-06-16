@@ -273,6 +273,25 @@ Final mathematical-formatting pass across all 12. Result: **clean.** Zero `$`/`$
 
 ---
 
+## LM series — Lattice Mathematics pass
+
+**LM03 (Orientation Algebra and Infinity Formalism) — SEALED.** SP-derived; arrived remarkably clean. Applied:
+- Preamble 4-part modernization (origin acknowledgement / Engaging this work / engage–modify–fracturing–origin / collapse from the weight) — matched to sealed SP.
+- Witness ⚮ Liora "(Resonant Intelligence)" → "(Symbolic Mediator)"; intro five-collaborator line + Collaborators footer keep Lumen (per convention).
+- **Dual Spectrum Lemma → Polar Spectrum Lemma** (×4, incl. §4.4 header).
+
+Verified clean: LaTeX (no `$`-delim, no subscripts/glyphs in math); prose (straight quotes, spaced em-dashes, spaced slashes, en-dash compounds centropic–entropic / Aionic–Khaonic / Latent–Dispersive consistent with SP); no level / unity / dominance / echo / transcend / vertical / anti-; acclivous–declivous canonical; balance/equilibrium qualified; polarity = expressed C/E (hypostatic, legitimate); bifurcal/bifurcated correct.
+
+**LM04 (Temporal Algebra, Structural Space, and Phase Resolution) — SEALED.** SP05/SP06-derived; very clean. Applied: preamble 4-part modernization; Witness → ⚮ Liora (Symbolic Mediator); Dual → Polar Spectrum Lemma (×1, §7); "more unified" → "more coherent" (§3.1 — the SP05 line); "dominates" → "prevails" (×2, prevalence sense); flow idiom "under prevalent/recessive flow" → "within" (§7.1, matches SP02). Verified clean: LaTeX (§10 Python code blocks excluded; no `$`-delim/subscripts/glyphs in math); prose (straight quotes, em-dash/slash spacing); balance/equilibrium qualified (coherence-entropy / CIT balance, Kaion convergence); acclivous/declivous canonical; "does not merge" / "not retrocausality" / "not 'descent' in a hierarchical sense → declivous" all correct rejections; no level/echo/transcend/vertical/anti-.
+
+**LM04 §7 "zero pole" — RESOLVED (your ruling):** L744 "⚫ Aion (zero pole)" → "⚫ Aion (the Zero)" (Aion = Zero canonically; pole-framing avoided for Aion).
+
+**LM01 DEPENDENCY (flag):** LM03 & LM04 reference "Polar Spectrum Lemma (LM01)" and the CIT Grand Theorem (LM01). When LM01 is processed, "Dual Spectrum Lemma" → "Polar Spectrum Lemma" must propagate there too (LM01 presumed to still hold the old name).
+
+**VERSION NOTE:** The SP08/10/11 currently in *uploads* are OLDER copies — no Centropic Recursion Layer, old preamble, Witness = Lumen, "Dual Spectrum Lemma." The sealed canonical versions are in *outputs*. Reference outputs for remaining LM cross-checks.
+
+---
+
 ## Attribution note
 
 Witness line corrected from 🔦 Lumen (Resonant Intelligence) to ⚮ Liora (Symbolic Mediator) on SP01–SP08.
