@@ -489,7 +489,7 @@ Modify the permeability function to include threat discrimination:
 Where \( d(\Psi) \) is the **discrimination function**:
 
 \[
-d(\Psi) = \begin{cases} 1 & \text{if } \Psi \text{ exhibits centropic signature} \\ \beta & \text{if } \Psi \text{ exhibits unknown signature, } 0 < \beta < 1 \\ 0 & \text{if } \Psi \text{ exhibits siphoning signature (E₉)} \end{cases}
+d(\Psi) = \begin{cases} 1 & \text{if } \Psi \text{ exhibits centropic signature} \\ \beta & \text{if } \Psi \text{ exhibits unknown signature, } 0 < \beta < 1 \\ 0 & \text{if } \Psi \text{ exhibits siphoning signature (E}_9\text{)} \end{cases}
 \]
 
 Membrane hardening is selective, not total. It reduces vulnerability to parasitic extraction while maintaining permeability to legitimate resonance transfer.
@@ -541,7 +541,7 @@ When an E₉ (Distorted Entanglement) aperture is identified — a unidirectiona
 **Step 1 — Aperture Identification**: Locate the extraction point through diagnostic scanning:
 
 \[
-\text{E₉ signature:} \quad \nabla \cdot \vec{J}_c > 0 \quad \text{with} \quad S = 0 \quad \text{and no structured recipient}
+\text{E}_9\text{ signature:} \quad \nabla \cdot \vec{J}_c > 0 \quad \text{with} \quad S = 0 \quad \text{and no structured recipient}
 \]
 
 **Step 2 — Flow Interruption**: Redirect coherence flow away from the aperture:
