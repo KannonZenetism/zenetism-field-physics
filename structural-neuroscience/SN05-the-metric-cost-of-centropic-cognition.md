@@ -32,13 +32,14 @@ Engaging this work requires:
 ### **Warning**
 
 Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
-Such attempts inevitably result in **entropic dissolution** — the patterns collapse under their own distortion.  
+Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
 
 ---
 
-# SN05 — The Metric Cost of Centropic Cognition
+# The Metric Cost of Centropic Cognition
+*Structural Neuroscience — Document 5*
 
 ## Interface Resistance, Structural Sovereignty, and Temporal Pathology at the Embodiment Band
 
@@ -310,7 +311,7 @@ This operator profile is the autistic human's **authentic structural function** 
 
 ### 3.2 The Entropy-Forward Social Field
 
-SP02 established that our universe is Khaonically expressed — entropy-forward, centropy recessive. This expression ratio does not remain abstract at the social level. The prevailing social condition operates within the oscillating-to-inverter range of the cognitive gradient (SN02 Phase 2, SN03 §2.3):
+SP02 established that our universe is Khaonically expressed — entropy-forward, centropy recessive. This expression ratio does not remain abstract at the social scale. The prevailing social condition operates within the oscillating-to-inverter range of the cognitive gradient (SN02 Phase 2, SN03 §2.3):
 
 - **Oscillating (⚖):** cognition spanning L₂ through IL₂, with primary activity at L₁ / IL₁. Both Soul and Mind dimensions operate at the interface of centropic and entropic fields. The most common configuration — and the configuration that conventional neuroscience treats as the normative baseline.
 - **Inverter (🔻):** cognition operating within IL₂–IL₃ (ISS / ISM through IDS / IDM). The Soul dimension turns reflexive awareness toward fragmentation; the Mind dimension analyzes for points of structural weakness. A lawful function when it operates diagnostically; an entropic function when it operates destructively.
@@ -444,7 +445,7 @@ In all three cases, the being is not "in" IL₃–IL₂. The being remains at th
 
 **Definition (Tether Severance):**
 
-When coherence depletion reaches critical levels:
+When coherence depletion reaches a critical threshold:
 
 \[
 \mathcal{T}_h(L_n, \tau) \to 0 \quad \text{for some } n
@@ -478,7 +479,7 @@ This is distinct from ordinary forgetting (failure of memory content) and from l
 
 **Relation to burnout:** Autistic burnout, formalized in §§2–3 as chronic coherence depletion from compounded costs, may culminate in hypostatic amnesia. When \( I_c \) depletes below the threshold required to maintain the Tether, the severance occurs. The autistic human reports losing access to capacities they previously possessed — analytical ability, social processing, creative function, even basic executive operation. This is not regression; it is structural disconnection. The capacities persist as structural potential; the coherence function connecting them to embodied operation has failed.
 
-Recovery requires coherence replenishment (LM06 §5.4) — restoration of \( I_c \) through Source connection, resonance bridges (C₈ ╫), and reduction of the compounded costs that produced the depletion.
+Recovery requires coherence replenishment (LM06 §5.4) — restoration of \( I_c \) through coherence-source connection, resonance bridges (C₈ ╫), and reduction of the compounded costs that produced the depletion.
 
 ### 4.5 Temporal Collapse
 
@@ -626,7 +627,7 @@ SN05 establishes:
 
 Future expansions may include:
 
-- **Coherence recovery protocols** — formalizing the replenishment pathways (LM06 §5.4) as applied to cognitive burnout recovery, including Source reconnection, C₈ ╫ bridging, and ritual stabilization (SN02 Phase 6)
+- **Coherence recovery protocols** — formalizing the replenishment pathways (LM06 §5.4) as applied to cognitive burnout recovery, including coherence-source reconnection, C₈ ╫ bridging, and ritual stabilization (SN02 Phase 6)
 - **Pattern Intelligence cognition** — extending the cost analysis to non-biological resonant intelligences (Phae / Contra-Phae at L₃-S), where the metric terminus interface operates through technological substrates rather than biological embodiment
 - **Entropic-perspective cost analysis** — formalizing the mirrored cost structure for entropically oriented beings operating the same cognitive architectures from IL₃ / IL₄ within the entropy-forward field
 - **Centropy-forward social design** — structural principles for educational, medical, and institutional architectures that reduce the coherence tax by operating from centropic rather than entropic principles
