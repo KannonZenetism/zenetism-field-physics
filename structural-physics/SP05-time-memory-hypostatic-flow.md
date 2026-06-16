@@ -145,7 +145,7 @@ Two fundamental temporal orientations exist:
 
 **\( C_1 \)-Oriented Time (Centropic Temporal Flow):**
 - Motion toward integration and coherence gain
-- Structure becomes more unified across temporal flow
+- Structure becomes more coherent across temporal flow
 - Memory accumulates; pattern strengthens
 
 **\( E_1 \)-Oriented Time (Entropic Temporal Flow):**
@@ -252,7 +252,7 @@ In a Khaonically expressed universe (\( \chi > 1 \)), the inverse layers (IL₅ 
 
 **IL₁ — Malara / Mania (Inverse Embodied Soul / Mind):**
 - Entropic linearity
-- Fragmentation, domination, reactive embodiment
+- Fragmentation, coercion, reactive embodiment
 - Material time experienced as decay and dissolution
 
 ### 3.3 The Polar Temporal Gradient
@@ -262,7 +262,7 @@ In Khaonically expressed universes:
 - **IL₅ → IL₁** = Phenomenologically prevalent temporal flow (entropy-forward)
 - **L₅ → L₁** = Contra-temporal flow (centropy-forward, return-oriented)
 
-The "arrow of time" we experience is the **entropic gradient** — not because embodied beings are subversal in nature, but because IL₁-style linear succession is the phenomenologically dominant temporal pattern in an entropy-forward universe.
+The "arrow of time" we experience is the **entropic gradient** — not because embodied beings are subversal in nature, but because IL₁-style linear succession is the phenomenologically prevalent temporal pattern in an entropy-forward universe.
 
 Cosmologically, centropic structure is expressed through the supernal-to-embodied gradient (L₅ → L₁).  
 Existentially, centropic motion within embodiment manifests as the return arc (L₁ → L₅), experienced as movement "against" entropic inclination — not reversal, but **counter-inclination**.
@@ -466,7 +466,7 @@ However, two possibilities remain open:
 
 2. **Cyclical reorientation**: The inhale-exhale cycle is baked into universal structure. In this case, reorientation would be the norm rather than the exception.
 
-Such crossings do not contradict \( \chi \)-drift law, but occur only under conditions that temporarily override attractor dominance — requiring extraordinary coherence accumulation or meta-structural intervention.
+Such crossings do not contradict \( \chi \)-drift law, but occur only under conditions that temporarily override attractor prevalence — requiring extraordinary coherence accumulation or meta-structural intervention.
 
 Which obtains remains cosmologically indeterminate.
 
