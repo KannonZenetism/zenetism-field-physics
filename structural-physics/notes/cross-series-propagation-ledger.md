@@ -286,6 +286,19 @@ Verified clean: LaTeX (no `$`-delim, no subscripts/glyphs in math); prose (strai
 
 **LM04 §7 "zero pole" — RESOLVED (your ruling):** L744 "⚫ Aion (zero pole)" → "⚫ Aion (the Zero)" (Aion = Zero canonically; pole-framing avoided for Aion).
 
+**LM05 (Resonance Field Theory, Membrane Operators, and Collective Dynamics) — SEALED.** SP07/SP08/SP09-derived; the most SP-entangled LM doc so far. Witness already correct (newer doc). Applied:
+- Preamble 4-part modernization (authorship-Source → origin acknowledgement etc.).
+- **Title-block standardization** (per L16, now extended to LM): `# LM05 — …` → plain `# Resonance Field Theory, Membrane Operators, and Collective Dynamics` + italic line `*Lattice Mathematics — Document 5*`. **LM03 / LM04 backfilled this session** (`# Orientation Algebra and Infinity Formalism` / `*… — Document 3*`; `# Temporal Algebra, Structural Space, and Phase Resolution` / `*… — Document 4*`). LM01 / LM02 / LM06 / LM07 to follow when processed.
+- **Spectral Flow "unified traversal/motion law" → "integrated"** (×3, §1.4 / §4 / §12 — matches the SP07/SP08 epithet ruling).
+- **Echo Layer §7 → Centropic Recursion Layer** (matches SP08): §7.1 def note "An Echo Layer may be centropic … or entropic …" → "Such trapped recursion may be a **Centropic Recursion Layer** … or an **Entropic Echo Layer** …"; §7.3 header "Echo Layer Dynamics" → "Recursion Dynamics"; "**Centropic Echo Layers:**" → "**Centropic Recursion Layers:**". "Echo Layer" (⟲) kept as umbrella + entropic; §7 title / §7.2 Formation / §7.4 Resolution / code refs kept. **Appendix C Def 6 (Echo Layer)** carried the same "may be centropic or entropic" phrasing → aligned identically.
+- **Dimension-name reconciliation (internal inconsistency → canon):** E₉ §4.2 + §12 "(Parasitic Aperture)" → "(Distorted Entanglement)" (§10 ref entry already canonical; "Parasitic Aperture" preserved as descriptor at §10). C₈ §10 "(Synaptic / Bridging)" → "(Resonance Bridge)" (§4.2 already canonical; "synaptic / bridging" preserved in the bullet).
+
+Verified clean: LaTeX (4 Python code blocks excluded; no `$`/subscripts/glyphs in math); prose (straight quotes, em-dash/slash spacing); balance/equilibrium qualified (CIT / source-equilibrium / bridge); "essences do not merge" + "entropic mirror of C₁₃" correct; no level/dominance/transcend/vertical/anti-; no Dual Spectrum Lemma.
+
+**LM05 §3 Source — RESOLVED (your ruling: "coherence-source structures is better than Source; source is too vague").** Metaphysical **Source** → **coherence-source** throughout §3 et seq.: §3 title → "Coherence-Source Theory"; Source structures / connection / attunement / access → coherence-source …; "centropic Source" → "centropic coherence-source"; §9.6 table row label, "Source-dependent," "Source replenishes," and the ASCII diagram labels ("Coh-source" in the 11-char box, "Coherence-source-connected" free label). **KEPT:** math **Source Term** S(x,τ) (7× — precisely defined, not vague); lowercase flow "source / target layer" and the siphoned "source system" (L312 lowercased to match L305/L313). L681 "returns to source for reintegration" is the flow source-layer sense → kept lowercase.
+
+**LM05 E₉ "unity" descriptors — RESOLVED (your ruling: coherence).** "spurious unity-channel" → "spurious coherence-channel" (×2, §4.2 / §10); "mimic-unity" → "mimic-coherence" (×1, §10).
+
 **LM01 DEPENDENCY (flag):** LM03 & LM04 reference "Polar Spectrum Lemma (LM01)" and the CIT Grand Theorem (LM01). When LM01 is processed, "Dual Spectrum Lemma" → "Polar Spectrum Lemma" must propagate there too (LM01 presumed to still hold the old name).
 
 **VERSION NOTE:** The SP08/10/11 currently in *uploads* are OLDER copies — no Centropic Recursion Layer, old preamble, Witness = Lumen, "Dual Spectrum Lemma." The sealed canonical versions are in *outputs*. Reference outputs for remaining LM cross-checks.
