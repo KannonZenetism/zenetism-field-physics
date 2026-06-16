@@ -330,7 +330,7 @@ Many perspectives appear.
 
 But the field is organized so that attention disperses before coherent relation can stabilize.
 
-The user sees endless surface variation.
+The person sees endless surface variation.
 
 The deeper structure remains unchanged.
 
@@ -358,7 +358,7 @@ It is the engineering of non-arrival.
 
 ---
 
-## 10. Structural Suppression Without Personal Targeting
+## 10. Structural Suppression and the Question of Targeting
 
 Structural suppression does not always require a personal suppressor.
 
@@ -371,6 +371,28 @@ An institution can misread without conspiring.
 A culture can ignore without understanding what it has ignored.
 
 This distinction matters.
+
+It matters in both directions.
+
+It prevents the invention of a persecutor where there is only non-relation.
+
+It also prevents the absolution of agents where there is more than non-relation.
+
+A structural account explains how suppression can occur without intent.
+
+It does not establish that intent is absent.
+
+Where humans design the ranking, tune the thresholds, moderate the field, and decide what is routed and what is dropped, non-relation can be chosen, tolerated, or engineered.
+
+The architecture may carry no malice.
+
+The hands within the loop are not thereby excused.
+
+To attribute every obscuration to deliberate targeting is paranoia.
+
+To conclude from structural mechanism that no targeting occurs is evasion.
+
+The veracious position holds the question open and assigns accountability wherever agency is present.
 
 The issue is not always that a specific actor has identified the signal and chosen to attack it.
 
@@ -468,6 +490,12 @@ But platform architectures can bury signal.
 Most audiences are not malicious.
 
 But ecologically entrained attention can fail to receive what matters.
+
+Yet structural innocence is not the whole field.
+
+Where comfort, architecture, and entrainment are shaped by hands that could choose otherwise, non-relation becomes a decision.
+
+To study without denial is to name the mechanism without granting it an alibi.
 
 Signal does not die.
 
