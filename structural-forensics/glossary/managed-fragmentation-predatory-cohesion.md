@@ -1,8 +1,8 @@
 # Managed Fragmentation / Predatory Cohesion
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Structural Forensics / Glossary Note
-**Status:** Draft — Veracious Archive
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Forensics / Glossary Note  
+**Status:** Draft — Veracious Archive  
 **Function:** Defines two diagnostic terms for systems that appear ordered while lacking centropic coherence.
 
 ---
