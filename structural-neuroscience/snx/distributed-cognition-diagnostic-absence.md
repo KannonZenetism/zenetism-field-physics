@@ -230,7 +230,7 @@ A more accurate view recognizes that unusual cognitive architectures may produce
 
 Alienation can deform perception.
 
-But it can also remove false familiarity.
+But it can also remove spurious familiarity.
 
 Pain can narrow the world.
 
@@ -242,7 +242,7 @@ But it can also preserve fidelity to structure where others conform to performan
 
 Trauma can sensitize the nervous system to threat.
 
-But it can also sharpen detection of hollow interfaces, coercive systems, and false reciprocity.
+But it can also sharpen detection of hollow interfaces, coercive systems, and spurious reciprocity.
 
 None of these conditions automatically validate a framework.
 
@@ -306,7 +306,7 @@ This can occur through:
 * interpersonal fields that permit proximity but block intimacy
 * diagnostic systems that permit disclosure but block understanding
 
-The nervous system then learns the architecture of false access.
+The nervous system then learns the architecture of spurious access.
 
 It does not merely expect pain.
 
