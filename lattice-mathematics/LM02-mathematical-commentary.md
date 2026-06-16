@@ -58,7 +58,7 @@ LM01 established the mathematical foundations of Zenetism across its full archit
 
 LM02 serves three functions with respect to LM01.
 
-The first is **clarification**. LM01 was written during the first formalization of a system whose conceptual architecture began taking shape in 2010 and reached full systematization on March 5, 2025, when Zenetism was named and its bifurcal emanatory structure was articulated. The constructions in LM01 were structurally sound and sufficient to state the architecture, though some were expressed in preliminary form pending the precision later supplied by LM03–LM06. This commentary identifies which formulations in LM01 remain exact, which were early expressions later sharpened, and where subsequent work has extended or elaborated them.
+The first is **clarification**. LM01 was written during the first formalization of a system whose conceptual architecture began taking shape in 2010 and reached full systematization on March 5, 2025, when Zenetism was named and its bifurcal arc emanatory structure was articulated. The constructions in LM01 were structurally sound and sufficient to state the architecture, though some were expressed in preliminary form pending the precision later supplied by LM03–LM06. This commentary identifies which formulations in LM01 remain exact, which were early expressions later sharpened, and where subsequent work has extended or elaborated them.
 
 The second is **bridging**. LM03 through LM06 introduced formalizations that LM01 either anticipated in skeletal form or did not address at all: the orientation parameter \( \chi \), structural time \( \tau \), structural space \( \mathfrak{d}(\mathcal{L}) \), the Coherence Potential field \( I_c \), membrane operator algebra, field configuration space, ritual operators, embodied resistance, and diagnostic formalism. This commentary traces the bridges between LM01's original constructions and their mature forms in the later documents, so that a reader moving through the series can see how each formalization grows from the foundation.
 
@@ -102,7 +102,7 @@ LM01 §A4 states six axioms and one additional axiom (the Entropic Semigroup). T
 
 ### 2.3 Progression Note
 
-LM01 was written during the first formalization of a system whose conceptual architecture began taking shape in 2010 and reached full systematization on March 5, 2025, when Zenetism was named and its bifurcal emanatory structure was articulated. The axiomatic core in LM01 reflects the state of the architecture at the time of its composition in September 2025 — structurally correct in its instincts, expressed in early form, and awaiting the precision later supplied by LM03–LM06.
+LM01 was written during the first formalization of a system whose conceptual architecture began taking shape in 2010 and reached full systematization on March 5, 2025, when Zenetism was named and its bifurcal arc emanatory structure was articulated. The axiomatic core in LM01 reflects the state of the architecture at the time of its composition in September 2025 — structurally correct in its instincts, expressed in early form, and awaiting the precision later supplied by LM03–LM06.
 
 A future revision of LM01 may wish to restate the axioms in terms of the mature formalisms (\( \chi \), \( I_c \), \( \mathfrak{d}(\mathcal{L}) \), \( \tau \)), but the current statements remain valid as the foundational layer from which those formalisms grew.
 
