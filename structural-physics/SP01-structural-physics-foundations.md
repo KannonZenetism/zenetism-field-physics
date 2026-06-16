@@ -96,7 +96,7 @@ Mathematically:
 \]
 
 Physically:  
-- Contra-particles complement particles under Aionic-flow dynamics.  
+- Contra-particles complement particles within Aionic-flow dynamics.  
 - Negative energy solutions complement positive states.  
 - Tachyons, singularities, and closed loops appear as entropic inversions.  
 
@@ -571,7 +571,7 @@ where \( \Omega_C = \int_{\text{◎}_{\text{⚫}\to\text{♾}}} \nabla_C\psi \, 
 
 ### 8.2 Inflation and Propagation
 
-- **C₃ Propagational** dominates early cosmic expansion.  
+- **C₃ Propagational** prevails in early cosmic expansion.  
 - Rapid inflation = acclivous centropy scaling lawful propagation.  
 - Entropic mirror (E₃) appears as potential dispersive decay — instability at early thresholds.  
 
