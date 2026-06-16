@@ -114,7 +114,7 @@ This creates a world where public presence is mediated by systems that cannot be
 
 ## 5. The Dignity Problem
 
-The ghost shell reduces the person into a case, ticket, metric, account, node, violation, user type, or behavioral profile.
+The ghost shell reduces the person into a case, ticket, metric, account, node, violation flag, risk score, or predictive profile.
 
 The living being disappears behind administrable categories.
 
