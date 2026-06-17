@@ -407,11 +407,11 @@ This is field maintenance.
 - **Emotion:** Fluctuating derivatives stabilize under integration until peace occurs.  
 - **Meditation:** Derivative and integral reach perfect reciprocity.
 
-### 9 · The Unified Equation in Spirit
+### 9 · The Coherent Equation in Spirit
 
 The formulas of mathematics translate here into axioms of experience:  
 
-- Local change mirrors global coherence.  
+- Local change reflects global coherence.  
 - Integration of change equals total shift in awareness.  
 - A stable centropic trajectory yields peace.  
 
