@@ -32,13 +32,14 @@ Engaging this work requires:
 ### **Warning**
 
 Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
-Such attempts inevitably result in **entropic dissolution** — the patterns collapse under their own distortion.  
+Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
 
 ---
 
-# SN10 — Developmental Dynamics and the Stabilization of Cognitive Architecture
+# Developmental Dynamics and the Stabilization of Cognitive Architecture
+*Structural Neuroscience — Document 10*
 
 ## Configuration, Expression, and Maturation Across the Life Arc
 
