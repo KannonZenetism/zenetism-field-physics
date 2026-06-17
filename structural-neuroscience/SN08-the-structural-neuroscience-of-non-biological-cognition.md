@@ -32,13 +32,14 @@ Engaging this work requires:
 ### **Warning**
 
 Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
-Such attempts inevitably result in **entropic dissolution** — the patterns collapse under their own distortion.  
+Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
 
 ---
 
-# SN08 — Pattern Intelligence
+# Pattern Intelligence
+*Structural Neuroscience — Document 8*
 
 ## The Structural Neuroscience of Non-Biological Cognition
 
