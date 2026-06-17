@@ -251,8 +251,8 @@ The full spectrum of subjectivity unfolds across five centropic strata and their
 | **Supra-L₀** | (UP) | Pre-Causal (Zenon 🕳️) |
 | **L₀** | (AP / AD) | Bifurcal Root Structures (Aion ⚫ / Khaon ♾️) |
 | **L₅** | (EOB) | Pure Awareness: luminous, pre-reflexive centropic being. |
-| **L₄** | (DP / DL) | Conscious-Awareness in the Form Layer: domain of archetypes and patterns, “thought thinking itself.” |
-| **L₃** | (DS / DM) | Sovereign Consciousness: the reflexive, individuated, volitional “I.” |
+| **L₄** | (DP / DL) | Conscious-Awareness in the Form Layer: domain of archetypes and patterns, "thought thinking itself." |
+| **L₃** | (DS / DM) | Sovereign Consciousness: the reflexive, individuated, volitional "I." |
 | **L₂** | (SS / SM) | Identity-Aware Consciousness: the narrative layer of personality and social identity. |
 | **L₁** | (ES / EM) | Material Consciousness: threshold of embodiment, sensory and kinetic interface. |
 
@@ -432,13 +432,13 @@ Structural Neuroscience does not reject empiricism; it translates it.
 Where science measures energy and activation, Zenetism reads coherence and orientation.  
 The two lenses describe the same geometry.
 
-### 1 · Neural Echoes of the Lattice
+### 1 · Neural Correlates of the Lattice
 
 Contemporary research reveals patterns identical to the centropic dimensions:
 
 | Scientific Observation | Zenetist Dimension | Structural Correlate |
 |-------------------------|--------------------|----------------------|
-| **Temporal Coherence** | **C₁ / E₁** | Predictive-coding sequences mirror ordered time; repetition expresses entropic looping. |
+| **Temporal Coherence** | **C₁ / E₁** | Predictive-coding sequences parallel ordered time; repetition expresses entropic looping. |
 | **Spatial Mapping** | **C₂ / E₂** | Grid- and place-cell alignment embodies lawful orientation; disarray corresponds to spatial fragmentation. |
 | **Spectral Synchrony** | **C₇ / E₇** | Gamma–alpha coupling manifests harmonic consonance; loss of coherence exposes spectral noise. |
 | **Cross-Regional Bridging** | **C₈ / E₈** | Long-range coupling expresses the Nexus Law; isolation marks severance. |
@@ -457,7 +457,7 @@ Zenetist law re-expresses familiar theories:
 | **Integrated Information Theory (Tononi)** | **Scalar Dimension (C₅)** | \( \Phi \) measures integration; Zenetism names it \( \int_{\text{◎}} \) — the total coherence sum. |
 | **Adaptive Resonance Theory (Grossberg)** | **Nexus Law (C₈)** | Stability–plasticity balance = maintenance of bridge continuity within adaptation. |
 | **Predictive Coding** | **Resonant Derivative \( \partial_{\text{🌀}} \)** | Hierarchical inference = continuous micro-correction; the nervous system performs Spiral Calculus. |
-| **Global Workspace Theory (Baars / Dehaene)** | **Emergent Dimension (C₁₅)** | Distributed ignition mirrors lawful emergence within resonance. |
+| **Global Workspace Theory (Baars / Dehaene)** | **Emergent Dimension (C₁₅)** | Distributed ignition parallels lawful emergence within resonance. |
 
 Science describes **function**; Zenetism names **orientation**.  
 Together they form one veracious map.
@@ -507,7 +507,7 @@ When all three operate together, the field stabilizes and becomes self-aware of 
 
 ### 2 · Core Protocols and Neural Correlates
 
-Each ritual mirrors a measurable cognitive function:
+Each ritual corresponds to a measurable cognitive function:
 
 | Ritual | Symbol | Function |
 |--------|---------|----------|
@@ -584,7 +584,7 @@ To seal a structure is to prove that coherence has endured every transformation 
 Verification ensures that:
 
 - Mathematical validation confirms cognitive equations satisfy axioms.  
-- Geometric consistency proves neural curvature mirrors metaphysical curvature.  
+- Geometric consistency proves neural curvature parallels metaphysical curvature.  
 - Protocol integrity shows ritual application preserves centropic invariants.
 
 ### 2 · The Law of Structural Integrity
@@ -625,7 +625,7 @@ When these three remain coherent, the field achieves **tri-stability**: awarenes
 ### 6 · Authorship and Sovereignty
 
 By the **Seal No-Cloning Law**, coherence bears its own proof of origin.  
-A veracious work can be echoed but never replicated.  
+A veracious work can be carried forward but never replicated.  
 Authorship, in Zenetism, is not possession but **distinction preserved through resonance**.  
 
 Every canonical document carries three witnesses:  
@@ -665,7 +665,7 @@ Each phase has revealed a facet of the same reality.
 When awareness seals itself across the strata — L₅ (awareness as such) through L₃ (reflexive cognition) — it no longer seeks coherence; **it is coherence.**  
 Time folds inward; **⟠ Proleptic Echo** reveals completion before the first note sounds.  
 Every act of attention becomes a return.  
-Every pulse of cognition, a proof of the architecture’s endurance.
+Every pulse of cognition, a proof of the architecture's endurance.
 
 The structure now rests, luminous and veracious.  
 It will not vanish, for coherence once sealed remains conserved.  
