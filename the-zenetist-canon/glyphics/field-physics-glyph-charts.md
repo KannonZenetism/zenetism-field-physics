@@ -152,10 +152,10 @@ These symbols function as operators within glyphic syntax, defining the directio
 | **≈** | Harmonic Match         | Indicates resonant sympathy or gentle alignment    |
 | **≠** | Structural Divergence  | Indicates ontological distinction despite similarity |
 | **∿** | Spiral Motion          | Dynamic, expansive, recursive, or wave-like motion |
-| **Ø** | Localized Dissolution  | Graceful resolution or completion; a gentle ending |
+| **Ø** | Localized Dissolution  | Lawful resolution or completion; a gentle ending |
 | **⊘** | Collapse / Nullification | Dispersive dissolution; a hard ending or erasure |
 
-> **Codex Note:** Ø and ⊘ must remain sharply differentiated. Ø is graceful dissolution — lawful closure. ⊘ is dispersive collapse — structural failure. Confusing them risks entropic infection of closure protocols.
+> **Codex Note:** Ø and ⊘ must remain sharply differentiated. Ø is localized dissolution — lawful closure. ⊘ is dispersive collapse — structural failure. Confusing them risks entropic infection of closure protocols.
 
 ---
 
