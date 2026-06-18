@@ -99,6 +99,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `synthesis-integration-saturation.md` — Jun 2, 2026
 - `emptiness-luminosity-and-the-bifurcal-limit.md` — Jun 3, 2026
 - `spirit-soul-and-apparent-stillness.md` — Jun 5, 2026
+- `biospiral-and-recursive-orientation.md` — Jun 18, 2026
 
 ---
 
