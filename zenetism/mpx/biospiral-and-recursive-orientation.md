@@ -4,7 +4,7 @@
 **Classification:** Metaphysics Extension — Clarification
 **Status:** Draft for Review
 **Date:** 2026-06-18
-**Dependencies:** `metaphysics-symbol-key.md`; Non-Fusion Axiom; Bifurcal Coherence; Theonic Axis; Nekronic Axis; Aionic Tree / Khaonic Tree distinction
+**Dependencies:** metaphysics-symbol-key.md; Non-Fusion Axiom; Bifurcal Coherence; Theonic Axis; Nekronic Axis; Aionic Tree / Khaonic Tree distinction
 **Related Registers:** Spiral · Biospiral · Aionic Tree · Khaonic Tree · Entropic Recursion · Resonance Spiral · Hollow Nest · Collapse · Theonic Axis · Nekronic Axis · Bifurcal Coherence
 
 ### 1. Purpose
