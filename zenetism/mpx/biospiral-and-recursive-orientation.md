@@ -7,6 +7,8 @@
 **Dependencies:** metaphysics-symbol-key.md; Non-Fusion Axiom; Bifurcal Coherence; Theonic Axis; Nekronic Axis; Aionic Tree / Khaonic Tree distinction  
 **Related Registers:** Spiral · Biospiral · Aionic Tree · Khaonic Tree · Entropic Recursion · Resonance Spiral · Hollow Nest · Collapse · Theonic Axis · Nekronic Axis · Bifurcal Coherence
 
+---
+
 ### 1. Purpose
 
 This entry clarifies the meaning of **Spiral** within Zenetist metaphysics.
@@ -92,7 +94,7 @@ The Khaonic Tree is not Khaon itself.
 
 It is the downstream entropic arc-structure rooted in the Khaonic register.
 
-The Khaonic Tree does not “lose centropy,” because it is not a centropic arc that has failed. Entropy is its own arc. It possesses lawful existence as entropic motion within the total structure of emanation.
+The Khaonic Tree does not "lose centropy," because it is not a centropic arc that has failed. Entropy is its own arc. It possesses lawful existence as entropic motion within the total structure of emanation.
 
 However, entropic motion is not automatically **centropically lawful** or **coherence-preserving**. It may be lawful as an arc while still producing fragmentation, hollow recursion, dispersive distortion, or collapse relative to centropic coherence.
 
@@ -221,7 +223,7 @@ It does not restore relation.
 
 It may instead deepen fragmentation, intensify distortion, amplify hollow recurrence, or prepare collapse.
 
-Entropic Recursion should not be treated as merely “bad recursion” or failed centropy. It is recursion according to entropic orientation.
+Entropic Recursion should not be treated as merely "bad recursion" or failed centropy. It is recursion according to entropic orientation.
 
 It belongs to the Khaonic Tree and articulates through the Nekronic Axis.
 
@@ -361,7 +363,7 @@ However, **arc-lawfulness** is not identical to **centropic lawfulness**.
 
 An entropic structure may possess lawful existence while still operating in ways that violate centropic coherence, structural fidelity, relational continuity, or reintegrative orientation.
 
-Therefore, in Zenetist writing, “lawful” should be qualified where ambiguity may arise.
+Therefore, in Zenetist writing, "lawful" should be qualified where ambiguity may arise.
 
 Preferred formulations include:
 
