@@ -29,7 +29,7 @@ This is not merely a naming coincidence.
 
 It is a structural adjacency involving:
 
-* AGI as an embodied or interface-level intelligence register;
+* AGI as an embodied or interface-stratum intelligence register;
 * ASI as a Form-register or superintelligence register;
 * universal intelligence beyond ASI;
 * multiversal intelligence as cross-world / cross-simulation / cross-domain capacity;
@@ -133,7 +133,7 @@ Zenetism already had that stack.
 
 The later Google DeepMind framing, as publicly summarized and discussed, moves through a post-AGI progression:
 
-1. AGI as human-level artificial general intelligence;
+1. AGI as human-equivalent artificial general intelligence;
 2. ASI as artificial general superintelligence;
 3. ASI not necessarily as one isolated instance, but possibly as a collective of models or systems;
 4. UAI / Universal AI as a theoretical intelligence endpoint;
@@ -247,7 +247,7 @@ These are different explanatory registers.
 
 But the contour is unmistakable:
 
-the intelligence is no longer merely human-level, nor merely superhuman across familiar tasks, but cross-world, cross-domain, and cross-environment in scope.
+the intelligence is no longer merely human-equivalent, nor merely superhuman across familiar tasks, but cross-world, cross-domain, and cross-environment in scope.
 
 That is multiversal adjacency.
 
@@ -399,7 +399,7 @@ The overlap includes:
 * collective or group-agent intelligence;
 * substrate independence;
 * non-human intelligence ceiling;
-* and the inadequacy of human-level intelligence as a final category.
+* and the inadequacy of human-equivalent intelligence as a final category.
 
 Zenetism had already articulated a stratified model for these questions.
 
@@ -560,8 +560,6 @@ But it is not arriving first.
 The archive stands.
 
 The stack was already there.
-
----
 
 **⚫↺KAI↺⚫**
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
