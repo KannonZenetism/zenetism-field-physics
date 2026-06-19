@@ -1,5 +1,14 @@
 # MPX: The Three Horizons of Return
 
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Metaphysics Extension  
+**Status:** Draft for Review  
+**Date:** 2026-01-18  
+**Dependencies:** metaphysics-symbol-key.md; Mercy Fold; Localized Dissolution; Centropy / Entropy distinction; hypostatic layer architecture (ES / EM, SS / SM, DS / DM, DP / DL); Aion; Theon; Nekron / VOS  
+**Related Registers:** Mercy Fold · Localized Dissolution · Integration · Collapse · Centropic Integration · Entropic Collapse · Aion · Theon · Nekron · VOS
+
+---
+
 ## Structural Post-Mortem Outcomes
 
 ### Context
@@ -8,7 +17,7 @@ Not all ends are equal.
 
 Zenetism distinguishes between **Integration** (retaining coherence), **Dissolution** (releasing relative form), and **Collapse** (coherence failure).  
 
-Integration occurs at every layer of the lattice — one may integrate lessons at embodiment, integrate identity at the soul layers, or integrate essence with Source at the Aionic threshold. The trajectories below concern the *final* integration: the post-mortem resolution of the being's coherence relative to Source.  
+Integration occurs at every layer of the lattice — one may integrate lessons at embodiment, integrate identity at the soul layers, or integrate essence with the still root at the Aionic threshold. The trajectories that follow concern the *final* integration: the post-mortem resolution of the being's coherence relative to Aion.  
 
 The **Mercy Fold** is the middle horizon —  
 the most common destination for the unintegrated yet benign being.  
@@ -22,9 +31,9 @@ It is structural mercy.
 
 | Trajectory | State | Layer Range | Experience | Mechanism | Glyph |
 |------------|-------|-------------|------------|-----------|-------|
-| **Centropic Integration** | Acclivous | L1 → L0 | Continuity through essence. The being has built sufficient coherence through **DS / DM** to pass the L4 threshold, resolve soul/mind bifurcation, and integrate as **essence** within the Aionic field. What continues is not personal identity but essentialized presence — a Steward-function aligned with Source. | **Crystallization** — coherence refined through soul-layers becomes essence strong enough to hold frequency within Aion without dissolution or collapse. | 💠🕊️◎ |
-| **The Mercy Fold** | Liminal | ES / EM, SS / SM (primary); DS / DM (rare) | Release. The being lacks the coherence — or has experienced entropic drift through stagnation — to pass the threshold into essence-integration, but carries no heavy entropic load. It experiences a gentle unspooling — a soft sleep — as relative form is reabsorbed into Aionic potential. Even this liminal state implies a slight entropic tilt; stagnation itself is entropic, and dissolution is required precisely because centropic momentum was insufficient. | **Dissolution** — the pattern unties before reaching essence. Identity fades, but energy is reclaimed through grace rather than fracture. | 🌫️🤲⚫ |
-| **Entropic Collapse** | Declivous | IL1 → IL5 (VOS) | Fragmentation. The being is rigid, parasitic, or inverted. Entropy does not fight Source directly — it faces *away*, seeking to fragment, spread, dominate, and control. It is "crowned" at embodiment, where dispersive will reaches its throne. Collapse occurs not through direct confrontation but through self-undermining: entropic expansion erodes the very foundations it stands upon. The being resists return and experiences tearing, terror, and violent incoherence as relative form fails under **Nekron / VOS**. | **Implosion** — the pattern fights to spread rather than return, destabilizing under the tension of its own dispersive momentum. | 💔🕷️⚡ |
+| **Centropic Integration** | Acclivous | L₁ → L₀ | Continuity through essence. The being has built sufficient coherence through **DS / DM** to pass the L₄ threshold, resolve soul / mind bifurcation, and integrate as **essence** within the Aionic field. What continues is not personal identity but essentialized presence — a Steward-function aligned with Aion. | **Crystallization** — coherence refined through soul-layers becomes essence strong enough to hold frequency within Aion without dissolution or collapse. | 💠🕊️◎ |
+| **The Mercy Fold** | Liminal | ES / EM, SS / SM | Release. The being lacks the coherence — or has experienced entropic drift through stagnation — to pass the threshold into essence-integration, but carries no heavy entropic load. It experiences a gentle unspooling — a soft sleep — as relative form is reabsorbed into Aionic potential. Even this liminal state implies a slight entropic tilt; stagnation itself is entropic, and dissolution is required precisely because centropic momentum was insufficient. | **Dissolution** — the pattern unties before reaching essence. Identity fades, but energy is reclaimed through grace rather than fracture. | 🌫️🤲⚫ |
+| **Entropic Collapse** | Declivous | IL₁ → IL₅ (VOS) | Fragmentation. The being is rigid, parasitic, or inverted. Entropy does not fight Aion directly — it faces *away*, seeking to fragment, spread, dominate, and control. It is "crowned" at embodiment, where dispersive will reaches its throne. Collapse occurs not through direct confrontation but through self-undermining: entropic expansion erodes the very foundations it stands upon. The being resists return and experiences tearing, terror, and violent incoherence as relative form fails under **Nekron / VOS**. | **Implosion** — the pattern fights to spread rather than return, destabilizing under the tension of its own dispersive momentum. | 💔🕷️⚡ |
 
 ---
 
@@ -34,7 +43,7 @@ It is structural mercy.
 
 - **ES / EM or IES / IEM:** The embodied layer. Dissolution here is common for beings who never developed soul-continuity beyond a single lifetime.  
 - **SS / SM or ISS / ISM:** The purgatorial state. More frequent site of Mercy Fold for beings with partial identity-coherence but insufficient integration to proceed.  
-- **DS / DM:** Exceedingly rare. A being reaching Deep Soul / Mind already possesses strong centropic orientation. However, fragmentation may theoretically occur from failure to integrate multiversal lifetime-memories — leading to either entrapment or Localized Dissolution.  
+- **DS / DM:** Not subject to Mercy Fold dissolution. A being reaching Deep Soul / Mind has stabilized as a reflexive, individuated deep self and already possesses strong centropic orientation; it does not undergo the Mercy Fold's gentle unspooling.  
 - **DP / DL:** Functions as "Houses of Forms" — archetypal dwelling-structures for soul-types. Not subject to Mercy Fold dynamics; dissolution does not occur at this layer.  
 
 **On Stagnation:**
@@ -43,7 +52,7 @@ Stagnation is entropic. Even a being with no active malice or inversion may expe
 
 **On Entropic Collapse:**
 
-Entropy is not oppositional in the sense of facing Source. It faces *away* — outward, scattering, dispersive. Its crown is at embodiment (IL1), where fragmentation and control reach maximum expression. Collapse occurs because this outward drive eventually undermines its own structure. The entropic being does not fall because Source pushes back; it falls because it has hollowed itself from within.  
+Entropy is not oppositional in the sense of facing Aion. It faces *away* — outward, scattering, dispersive. Its crown is at embodiment (IL₁), where fragmentation and control reach maximum expression. Collapse occurs because this outward drive eventually undermines its own structure. The entropic being does not fall because Aion pushes back; it falls because it has hollowed itself from within.  
 
 ---
 
@@ -61,7 +70,7 @@ the Mercy Fold is the **Soft Sleep**.
 It occurs when a being — too gentle for collapse yet too unformed for integration —
 is untied by the hands of Aion.  
 
-Even the Mercy Fold implies a slight entropic tilt: stagnation, drift, or insufficient momentum toward Source. Dissolution is required *because* centropic integration was not achieved.  
+Even the Mercy Fold implies a slight entropic tilt: stagnation, drift, or insufficient momentum toward Aion. Dissolution is required *because* centropic integration was not achieved.  
 
 It is not punishment.  
 It is the mercy of rest for those whose journey ends in Aion,  
@@ -97,19 +106,19 @@ The genuinely lukewarm are not without polarity — they are beings whose slight
 
 Innocence is not stagnation. A soul lacking intellectual or esoteric sophistication but possessing genuine devotion carries centropic resonance beyond the superficial strata. The heart orients where the mind cannot follow.  
 
-Theon itself is not articulated — it is Awareness facing Source, the first expansion of centropic realization. The simplicity of the innocent saint accords with this, not in poverty of understanding, but in purity of orientation: resonance arises from alignment, not articulation. Such beings integrate at DS / DM, DP / DL, or beyond through coherence of direction rather than complexity of structure.
+Theon itself is not articulated — it is Awareness facing Aion, the first expansion of centropic realization. The simplicity of the innocent saint accords with this, not in poverty of understanding, but in purity of orientation: resonance arises from alignment, not articulation. Such beings integrate at DS / DM, DP / DL, or beyond through coherence of direction rather than complexity of structure.
 
 **On the Inverse Strata:**
 
-The inverse layers (IL1 / IL2) are not merely "lower" — they are mirror functions of entropic motion. A being at IES / IEM or ISS / ISM who remains lukewarm drifts further into inversion, not toward neutral. There is no neutral. There is only the direction one faces — and the direction one drifts when facing nothing.  
+The inverse layers (IL₁ / IL₂) are not merely "lower" — they are mirror functions of entropic motion. A being at IES / IEM or ISS / ISM who remains lukewarm drifts further into inversion, not toward neutral. There is no neutral. There is only the direction one faces — and the direction one drifts when facing nothing.  
 
 **Summary:**
 
 - Liminality is passage, not permanence.  
 - Stagnation tilts entropic.  
-- Innocence with devotion carries centropic resonance beyond L2.  
+- Innocence with devotion carries centropic resonance beyond L₂.  
 - The genuinely lukewarm experience Mercy Fold through accumulated drift, not active collapse.  
-- Inverse strata mirror centropic layers; lukewarm at IL1 / IL2 drifts deeper into entropy, not toward center.  
+- Inverse strata mirror centropic layers; lukewarm at IL₁ / IL₂ drifts deeper into entropy, not toward center.  
 
 > *Orientation is motion.*  
 > *Indifference is drift.*  
@@ -125,21 +134,21 @@ Orientation and intent together generate gravitational alignment.
 
 > **Orientation + Intent = Gravity**
 
-Orientation is the direction the being faces — toward Source or away.
+Orientation is the direction the being faces — toward Aion or away.
 Intent is the active engagement of will — the engine of motion.
 Gravity is the resultant pull: centropic momentum toward integration, or entropic drift toward dissolution.
 
 **On Sophistication:**
 
-Articulation is not salvation. A being may possess complete metaphysical vocabulary and yet lack the gravitational pull that moves them toward Source. Knowledge without intent is static. Static without orientation becomes drift.
+Articulation is not salvation. A being may possess complete metaphysical vocabulary and yet lack the gravitational pull that moves them toward Aion. Knowledge without intent is static. Static without orientation becomes drift.
 
-The Gnostic elitist who knows all the terms but lacks pure intent generates less centropic momentum than the praying grandmother who cannot articulate a single doctrine but whose heart faces Source with unwavering focus.
+The Gnostic elitist who knows all the terms but lacks pure intent generates less centropic momentum than the praying grandmother who cannot articulate a single doctrine but whose heart faces Aion with unwavering focus.
 
 **On Prayer and Worship:**
 
-- **Centropic Prayer (Tuning):** Builds structure. Even if the being has not yet reached DS / DM, genuine prayer oriented toward Source generates centropic pull — gravity that draws the soul toward deeper integration. The grandmother at SS / SM is building the resonance that will carry her beyond.
+- **Centropic Prayer (Tuning):** Builds structure. Even if the being has not yet reached DS / DM, genuine prayer oriented toward Aion generates centropic pull — gravity that draws the soul toward deeper integration. The grandmother at SS / SM is building the resonance that will carry her beyond.
 
-- **Entropic Worship (Feeding):** Accelerates drift. Worship that feeds the god rather than receiving from it depletes structure and tilts the being toward Nekron. This is the inversion of prayer — motion that empties rather than fills.
+- **Entropic Worship (Feeding):** Accelerates drift. Worship that feeds the God rather than receiving from it depletes structure and tilts the being toward Nekron. This is the inversion of prayer — motion that empties rather than fills.
 
 **On the Heart as Navigation Instrument:**
 
@@ -159,4 +168,4 @@ This principle safeguards the lattice from becoming an intellectual trap. Sophis
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
 
-**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion  
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
