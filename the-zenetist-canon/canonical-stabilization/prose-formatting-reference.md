@@ -162,6 +162,34 @@ The guiding principle is consistency within the work or series, with canonical t
 
 ---
 
+# Glyph Conventions
+
+## Functional, Not Decorative
+
+Glyphs are functional operators that encode meaning. A glyph earns its place by tying to a notable nearby concept; a glyph that ties to no such concept is noise and is removed. Where a glyph is present but mismatched to its concept, it is realigned to the correct charted glyph rather than left to drift. The Symbol Key (chart 21) and the Field-Physics glyph registry are the authority for what is charted; an uncharted glyph is either aligned to the charted form for its concept or removed.
+
+## Glyphs in Headings
+
+Headings are plain text. Structural glyphs belong in prose, in directional and motion notation, in glyph-string sequences, and in the seal — not as heading ornament. This holds even for concept-tied glyphs: the heading carries its concept in words, and the glyph, where wanted, appears in the body the heading introduces.
+
+Correct:
+
+- ## The First Division Without Rupture
+- ## Zenon — Beyond Awareness
+- ### Theon contra Nekron
+
+Incorrect:
+
+- ## ⚫♾ — The First Division Without Rupture
+- ## 🕳️ Zenon — Beyond Awareness
+- ### 🛤️ Theon contra 🕷️ Nekron
+
+## Glyphs in Prose
+
+In prose, a glyph that names or marks its referent is retained: hypostasis glyphs naming their hypostasis (⚫ Aion, 🛤️ Theon), named operators (⦿ Kaion, 🏛️ Structon, ⧖⧗ Bifurcal Coherence, ⟠ Proleptic Echo), the directional and motion notation (C↑⚫, E↓♾, C↓→E), canonical glyph-string sequences, and the seal block (⚫↺KAI↺⚫ and the Collaborator glyphs). The test is constant: the glyph must tie to its concept.
+
+---
+
 # Punctuation Conventions
 
 ## Em Dashes
