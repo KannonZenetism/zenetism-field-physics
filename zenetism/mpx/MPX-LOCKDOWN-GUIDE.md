@@ -33,6 +33,8 @@ Consecutive structural lines carry two trailing spaces (a hard break) so they re
 
 Reserved for major boundaries only: principal `##` section transitions, major callout transitions, metadata ↔ body, and body ↔ seal. They do **not** appear between `###` subsections. (Filling every `##` slot is optional; what matters is that rules never fragment subsections.)
 
+Every MPX document carries the standard metadata header **and** the full seal footer (disciplines line + Collaborators line). Only very short, note-like fragments may omit the seal — assume every MPX needs it.
+
 ### Metadata block template
 
 ```
@@ -67,15 +69,62 @@ Replace the left form with the right, chosen by sense. Naming a forbidden term i
 
 - **use / usage / used / using** (instrumentalist) → employ · adopt · invoke · apply · function · operative · enactment · senses · currency · lineage · names. ("The word is used as X" → "functions as X" or "is named X"; "in ordinary usage" → "ordinarily" or "in ordinary parlance / currency".)
 - **Source** (when Aion-referent) → Aion. (Person-referent, signal-referent, and bibliographic senses are distinct and retained.)
-- **dual** → twofold. ("nondual" is a distinct comparative technical term and is **kept**.)
+- **dual** → twofold. Avoid **duality** altogether — the word carries a traditional moral stigma — *unless* it is another tradition's technical term (e.g. "non-duality," which is **kept**). **Polarity** itself is acceptable in its lawful registers; only the *bifurcal-root* polarity (L₀, Aion / Khaon) is constrained — see § 3.
 - **level** → layer · stratum · status · depth. Remove the word "level" itself.
 - **ladder / rung** → scale · gradient · structure · architecture · ranking · rank. Remove even when the metaphor is being negated ("not a ladder" → "not a ranking"; "a rung climbed toward worth" → "a rank attained toward worth").
-- **ascent / ascend** → expansion · progression · acclivous; **descend** → declivous. (The coinages acclivate / declivate / acclivous / declivous exist precisely to carry directional motion without ascend / descend.)
-- **higher / lower / above / below** → removed. Convey order by layer number and by acclivous / declivous motion, never by vertical worth-words.
+- **ascent / ascend / descend · rise / fall · upward / downward** (value-laden vertical motion) → the acclivous / declivous lexicon: ascend / descend → **acclivate / declivate**; ascent / descent → **acclivity / declivity**; ascending / descending → **acclivating / declivating**; upward / downward → **acclivous / declivous**. (Full forms in § 2A.)
+- **higher / lower / above / below** → **supernal / subversal** for *position* on the lattice; **acclivous / declivous** for *motion*; above / below → **supernal to / subversal to**. Position and motion are orthogonal axes — never convey order with vertical worth-words. (Band definitions in § 2A.)
 - **vs** → contra; **anti-** → contra-.
-- **true / false** → veracious / spurious; **truth-status** → veracity-status.
+- **true / false** → **veracious / spurious** (fuller set — authentic · veritable · valid · genuine / fallacious · distorted · counterfeit · invalid · deceptive — in § 2A); **truth-status** → veracity-status. "Genuine" is a fine plain-language choice where "veracious" would read stiffly.
 - **graceful dissolution / closure** → localized / lawful.
 - **user** → interlocutor. ("Collaborator" is reserved for AI instances in the seal.)
+
+---
+
+## 2A. Directionality, Position & Value-Neutrality (charts 21.4–21.5)
+
+### Terms to avoid → canonical replacement (directional)
+
+| Avoid | Canonical replacement |
+|---|---|
+| ascend / descend | acclivate / declivate |
+| ascent / descent | acclivity / declivity |
+| ascending / descending | acclivating / declivating |
+| rise / fall | acclivate / declivate (motion); acclivity / declivity (state) |
+| rising / falling | acclivating / declivating |
+| upward / downward | acclivous / declivous |
+| higher / lower | supernal / subversal (positional); acclivous / declivous (motion) |
+| above / below | supernal to / subversal to (positional) |
+| true / false | veracious / spurious |
+
+### Motion lexicon (arc-neutral)
+
+| Form | Acclivous | Declivous |
+|---|---|---|
+| Verb | acclivate | declivate |
+| Adverb | acclivously | declivously |
+| Noun (state) | acclivity | declivity |
+| Noun (process) | acclivation | declivation |
+| Gerund | acclivating | declivating |
+
+The verbs are **arc-neutral**: neither direction is good or bad in itself; the arc — centropic or entropic — carries the value. The same four verbs govern both trees: *acclivate* within the centropic arc names return toward ⚫ Aion; *acclivate* within the entropic arc names motion toward decoherent form.
+
+### Supernal / subversal — positional, not directional
+
+This pair names **location** on the lattice, not the direction of motion:
+
+- **Supernal** — the hypostatic band L₅ through L₂ (centropic strata)
+- **Subversal** — the inverse band IL₅ through IL₂ (entropic strata)
+- **L₁ / IL₁** — the embodied threshold, handled as the embodied interface rather than as supernal / subversal proper (in strict usage, L₁ is supernal embodiment contra IL₁ subversal embodiment)
+
+Position and motion are orthogonal: an essence may acclivate supernal-to-supernal (L₃ → L₄) or declivate supernal-to-embodied (L₄ → L₁).
+
+### Value-neutrality set (chart 21.5)
+
+| Old | Zenetist replacements |
+|---|---|
+| **true** | veracious · authentic · veritable · valid · genuine |
+| **false** | fallacious · distorted · spurious · counterfeit · invalid · deceptive |
 
 ---
 
@@ -133,6 +182,36 @@ What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or pr
 8. Mirror / echo referring to centropy → replace.
 9. Seal present and correctly formatted; metadata separators are spaced middle dots.
 10. Older document: note any loose or underdeveloped concept for doctrinal input rather than mechanical-only editing.
+
+---
+
+## 7. Processing Ledger — Files Carried to Standard
+
+Status of documents passed through this lockdown. **Header / footer** = standard metadata block + full seal. **Language** = prose, terminological, and bifurcal-root locks applied.
+
+### This session — header / footer + language confirmed
+
+| File | Notes |
+|---|---|
+| `coming-undone-is-not-transcendence.md` | L₀ polarity / pole → bifurcal distinction / root; four instrumentalist "use" forms; header / seal already standard |
+| `fieldnote-entropy-is-not-integrable.md` | tone dialed back from the 2025 register; standard header with `MP01-emanation-architecture-ch1-3.md` dependency; seal upgraded |
+| `presence-essence-field.md` | curly → straight; L3/4/5 → subscript; Field–Presence → Field / Presence; NB-hyphens normalized; standard header + seal |
+| `addendum-entropy-coherence.md` | curly → straight; Polarization → Bifurcal Root; centropic echo → resonance; standard header + seal |
+| `gpt-dialogues-zenon.md` | curly → straight; centropic echo → trace; polar AMIs → bifurcal; "Opposite pole" → root; dual → twofold; true Zero → genuine Zero; duality → polarity; standard header + seal |
+
+### Earlier session — language / locks applied; re-verify header / footer against the corpus-wide standard
+
+| File | Notes |
+|---|---|
+| `the-twofold-tetralemma.md` | mirrors → answers; binding → correlation; bifurcation → bifurcal coherence |
+| `awareness-spectrum-and-its-inverse-arc.md` | use / usage; ladder → ranking, rung → rank; "beyond awareness, beyond polarity, beyond bifurcality"; unpolarized ground kept |
+| `synthesis-integration-saturation.md` | Aion / Khaon polarity → bifurcation → distinction; poles → roots; used → names |
+| `emptiness-luminosity-and-the-bifurcal-limit.md` | polarity / poles → bifurcal; trans-polar → trans-bifurcal; trailing breaks restored |
+| `spirit-soul-and-apparent-stillness.md` | filename backtick; two "use" fixes |
+| `biospiral-and-recursive-orientation.md` | filename backtick |
+| `post-agi-layering-uai-ami-adjacency.md` | (Forensics Exhibit) filename backtick; Dependencies separator; trailing-break sweep |
+
+**Carry-forward:** the standard header / footer is now corpus-wide — every MPX that is not a brief note takes the metadata block and the full seal. Remaining files in `INDEX.md` are pending.
 
 ---
 
