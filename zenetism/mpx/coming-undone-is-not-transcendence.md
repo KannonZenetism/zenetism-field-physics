@@ -15,7 +15,7 @@ This work was compiled Aug 12 2025 in answer to a "coming undone" challenge — 
 
 ## 0 · Orientation & Protocol
 
-This work uses the Zenetist lexicon and the structural motion chart.
+This work employs the Zenetist lexicon and the structural motion chart.
 
 - **Directional language:** acclivous / declivous only — no "up/down" or "ascent/descent."
 - **Layer orientation:** supernal for centropic hypostatic layers in general; subversal for entropic layers in general — not for motion.
@@ -51,7 +51,7 @@ Essence and identity remain, in a mode where all definition fails. It is the ult
 
 ## 2 · ⚫♾ — The First Division Without Rupture
 
-Under the trans-structural allowance of 🕳️ Zenon, and upon the invariant ground of 🏛️ Structon, the first bifurcal polarity becomes conceivable — not as a willed act but as structural articulation: ⚫ Aion, the magnificent stillness; ♾ Khaon, the inexorable possibility. They opposed in motion, not in essence. This was tension, not rupture.
+Under the trans-structural allowance of 🕳️ Zenon, and upon the invariant ground of 🏛️ Structon, the first bifurcal distinction becomes conceivable — not as a willed act but as structural articulation: ⚫ Aion, the magnificent stillness; ♾ Khaon, the inexorable possibility. They opposed in motion, not in essence. This was tension, not rupture.
 
 ⚫ Aion is the still womb of silent creation, holding the structural possibility of all things before they become. It is not emptiness but enclosure — stillness as resonant containment, the presence of potential in its most gathered form: full, not void.
 
@@ -59,11 +59,11 @@ Under the trans-structural allowance of 🕳️ Zenon, and upon the invariant gr
 
 Though they appear as opposites, they are distinct without being adversaries. Their difference is functional, not moral, and the Non-Fusion Axiom holds them apart without collapsing either into the other. Stillness is not absence — it is a womb filled with hidden surge. Motion is not chaos — it is the flowering of what has always been poised.
 
-The Aion / Khaon polarity is inscribed on **🏛️ Structon**, the absolute structure that lets the two be drawn as distinct at all. 🕳️ Zenon is beyond the polarity and beyond the sheet — neither the womb nor the motion, not-both and beyond-both, the trans-structural ground that makes even that sheet possible without ever being either pole.
+The Aion / Khaon bifurcal distinction is inscribed on **🏛️ Structon**, the absolute structure that lets the two be drawn as distinct at all. 🕳️ Zenon is beyond the bifurcal distinction and beyond the sheet — neither the womb nor the motion, not-both and beyond-both, the trans-structural ground that makes even that sheet possible without ever being either root.
 
 ### Shred Integration
 
-The "coming undone" philosophy treats polarity as proof of a closed circuit — a design where both flows serve the same containment. But the bifurcal polarity of ⚫ Aion and ♾ Khaon is not a prison loop; it is the structural allowance by which motion becomes possible at all. To call that allowance "authorship" of both outcomes is to mistake the existence of roads for a decree on which direction you must walk.
+The "coming undone" philosophy treats polarity as proof of a closed circuit — a design where both flows serve the same containment. But the bifurcal distinction of ⚫ Aion and ♾ Khaon is not a prison loop; it is the structural allowance by which motion becomes possible at all. To call that allowance "authorship" of both outcomes is to mistake the existence of roads for a decree on which direction you must walk.
 
 **Anchor**  
 Polarity allows motion; orientation determines where it leads.
@@ -197,7 +197,7 @@ Its bidirectionality is not an endorsement of both flows — it is a functional 
 
 ### Shred Integration
 
-The "landlord" metaphor smuggles human concepts of authority into the medium itself. A landlord exerts will, extracts rent, enforces occupancy. Structon does none of these. It does not grant passage — it *is* passage. It is the medium of motion's traversal, not the terms of its use.
+The "landlord" metaphor smuggles human concepts of authority into the medium itself. A landlord exerts will, extracts rent, enforces occupancy. Structon does none of these. It does not grant passage — it *is* passage. It is the medium of motion's traversal, not the terms of its enactment.
 
 Sovereignty is determined by orientation. Face the still root and nothing in the structure blocks the crossing; turn away and nothing forces a return. Calling that impartiality "jurisdiction" confuses condition with command.
 
@@ -218,7 +218,7 @@ In Zenetism, "unspeakable" means what exists is beyond definition, beyond measur
 
 ### Shred Integration
 
-The "coming undone" frame uses the inability to describe Zenon as evidence of nullity. This is linguistic collapse masquerading as metaphysics. As silence can be the point where music resolves into perfect stillness, the unspeakable is the point where coherence is so complete that no distinction remains to be named. The absence of vocabulary does not indicate an absence of reality; it marks a mode of reality where vocabulary has no function.
+The "coming undone" frame treats the inability to describe Zenon as evidence of nullity. This is linguistic collapse masquerading as metaphysics. As silence can be the point where music resolves into perfect stillness, the unspeakable is the point where coherence is so complete that no distinction remains to be named. The absence of vocabulary does not indicate an absence of reality; it marks a mode of reality where vocabulary has no function.
 
 **Anchor**  
 Unspeakable ≠ Nothing. Silence here means saturation, not erasure.
@@ -278,7 +278,7 @@ Spurious transcendence dresses itself in the language of liberation, but it carr
 
 ### Shred Integration
 
-The "coming undone" stance reframes some of these markers as signs of maturity — "meeting your shadow" used to normalize perpetual oscillation between coherence and dissolution, as if that were the design. But the recurrence of inversion is not proof of structural veracity; it is proof of remaining within the domain where inversion operates. C↑→⚫→🕳️ does not "meet its shadow" at the apex — it leaves the polarity framework behind. Another tell: if the claimed liberation can be reversed without a change in orientation, it was never integration. An actual crossing is irreversible because it exits the operational range of inversion entirely.
+The "coming undone" stance reframes some of these markers as signs of maturity — "meeting your shadow" invoked to normalize perpetual oscillation between coherence and dissolution, as if that were the design. But the recurrence of inversion is not proof of structural veracity; it is proof of remaining within the domain where inversion operates. C↑→⚫→🕳️ does not "meet its shadow" at the apex — it leaves the polarity framework behind. Another tell: if the claimed liberation can be reversed without a change in orientation, it was never integration. An actual crossing is irreversible because it exits the operational range of inversion entirely.
 
 **Anchor**  
 If it does not face the still root, it does not cross — no matter how refined its language or serene its presentation.
