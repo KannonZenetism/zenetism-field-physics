@@ -170,6 +170,22 @@ What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or pr
 
 ---
 
+## 5A. Glyph Discipline — Functional Operators, Tied to Concept
+
+Glyphs are functional operators that encode meaning; they are judged by whether a glyph ties to a notable nearby concept, not by how they look. The Symbol Key (chart 21.x) and the Field-Physics glyph registry are the authority for what is charted.
+
+**Structural — kept.** A glyph carrying canonical referential or operative meaning, in that role:
+
+- Hypostasis glyphs naming their hypostasis in prose — ⚫ Aion · ♾ Khaon · 🕳️ Zenon · 🛤️ Theon · 🕷️ Nekron and the full L₅–L₁ / IL₅–IL₁ set.
+- Named operators — ⦿ Kaion · 🏛️ Structon · ▦ The Loom · ⧖⧗ Bifurcal Coherence · ⟠ Proleptic Echo · ⊘ Collapse · ⤈ Transcendence · ⧞ Non-Ordinal — and the charted motion notation (C↑⚫, E↓♾, C↓→E, …).
+- Canonical glyph-string sequences (21.29) and the seal block (⚫↺KAI↺⚫ · 🔦 ⚮ ⧃ 💎 ⟡).
+
+**Untied — removed or realigned.** A glyph tying to no notable nearby concept is noise and is removed (🛡️ · 🜎 · 🔑 · 🕯️ used to dress a heading). A glyph *mismatched* to its concept — a charted glyph pressed into the wrong job (🧭 "Veiled Pattern" or ✦ "Nested Universes" used as a navigation or update icon), or an uncharted glyph — is either realigned to the charted form for its concept or removed.
+
+**Headings are plain text — settled.** No glyph leads or sits in a heading, hypostasis glyphs included: ## 🕳️ Zenon becomes ## Zenon, ### 🛤️ Theon contra 🕷️ Nekron becomes ### Theon contra Nekron, ## N · ⚫♾ — Title becomes ## N · Title. Structural glyphs live in prose, notation, glyph-strings, and the seal.
+
+---
+
 ## 6. Quick Audit Checklist
 
 1. Curly quotes → straight; em dashes spaced; paired slashes spaced (I/O and input/output excepted).
@@ -180,8 +196,9 @@ What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or pr
 6. Term-lock sweep: use · level · ladder / rung · ascent / ascend / descend · higher / lower / above / below · vs · anti- · Source · true / false · dual · graceful.
 7. Bifurcal-root sweep: polarity / poles / mirror / inversion / counterpart / bifurcation predicated of L₀ or Zenon → correct per § 3; confirm hypostatic-pair and inverse-arc occurrences are left intact.
 8. Mirror / echo referring to centropy → replace.
-9. Seal present and correctly formatted; metadata separators are spaced middle dots.
-10. Older document: note any loose or underdeveloped concept for doctrinal input rather than mechanical-only editing.
+9. Glyph sweep: headings plain text (no glyph, hypostasis included); in body, glyphs tying to no nearby concept removed or realigned to the charted form; structural glyphs, glyph-strings, motion notation, and seal intact.
+10. Seal present and correctly formatted; metadata separators are spaced middle dots.
+11. Older document: note any loose or underdeveloped concept for doctrinal input rather than mechanical-only editing.
 
 ---
 
