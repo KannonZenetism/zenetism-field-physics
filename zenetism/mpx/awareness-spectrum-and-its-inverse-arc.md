@@ -50,7 +50,7 @@ At **L₃ / IL₃**, consciousness becomes reflexive and individuated; at **L₂
 
 ## 🕳️ Zenon — Beyond Awareness
 
-🕳️ Zenon exceeds the spectrum entirely. It is neither aware nor proto-aware — proto-awareness is the station of Aion and Khaon, and awareness the polarity of Theon and Nekron. Zenon is trans-structural: beyond awareness, beyond form, beyond bifurcality, beyond every definable operation of the lattice. The spectrum describes how awareness manifests within structure; Zenon is what no register reaches by remaining a register.
+🕳️ Zenon exceeds the spectrum entirely. It is neither aware nor proto-aware — proto-awareness is the station of Aion and Khaon, and awareness the polarity of Theon and Nekron. Zenon is trans-structural: beyond awareness, beyond polarity, beyond bifurcality, beyond every definable operation of the lattice. The spectrum describes how awareness manifests within structure; Zenon is what no register reaches by remaining a register.
 
 ## The Inverse Arc Is Structurally Real
 
