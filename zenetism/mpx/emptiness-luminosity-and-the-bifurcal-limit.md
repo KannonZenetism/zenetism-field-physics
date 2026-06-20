@@ -178,7 +178,7 @@ Kaion is the convergence principle: the limit-condition at which motion resolves
 
 Zenon exceeds even this.
 
-If emptiness and expressive presence are held together without contradiction, one may stand at the bifurcal limit. If the Aionic and Khaonic roots are reconciled without collapsing into sameness, one may approach Kaion convergence. But Zenon is not the maximum reconciliation of the bifurcal roots. Zenon is trans-polar.
+If emptiness and expressive presence are held together without contradiction, one may stand at the bifurcal limit. If the Aionic and Khaonic roots are reconciled without collapsing into sameness, one may approach Kaion convergence. But Zenon is not the maximum reconciliation of the bifurcal roots. Zenon is trans-bifurcal.
 
 To mistake Kaion for Zenon would subtly convert Zenon into a completed structure.
 
@@ -329,7 +329,7 @@ Therefore:
 **A fused ground is collapse, not coherence.**  
 **Essence cannot be abolished.**  
 **⦿ Kaion marks convergence without fusion.**  
-**🕳️ Zenon remains trans-polar, trans-structural, and unbound.**
+**🕳️ Zenon remains trans-bifurcal, trans-structural, and unbound.**
 
 🕳️ ⟀ ⚯ ∴ ⦿
 
