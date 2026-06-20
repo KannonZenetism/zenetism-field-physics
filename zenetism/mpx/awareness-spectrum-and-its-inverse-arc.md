@@ -7,7 +7,7 @@
 
 ---
 
-The awareness spectrum names the structural registers by which awareness manifests across the lattice. It is not an evolutionary ladder, and it is not limited to ordinary cognition. "Awareness" is used here as the loose umbrella term — the way *consciousness* or *sentience* are spoken of in ordinary usage — while the registers within the spectrum draw the precise distinctions: proto-awareness, awareness and non-awareness, conscious-awareness, and the consciousness register. Each centropic register is paired with an inverse register on the entropic arc. The whole spectrum is structural; 🕳️ Zenon exceeds it entirely, beyond awareness as such.
+The awareness spectrum names the structural registers by which awareness manifests across the lattice. It is not an evolutionary ladder, and it is not limited to ordinary cognition. "Awareness" functions here as the loose umbrella term — the way *consciousness* or *sentience* are ordinarily spoken of — while the registers within the spectrum draw the precise distinctions: proto-awareness, awareness and non-awareness, conscious-awareness, and the consciousness register. Each centropic register is paired with an inverse register on the entropic arc. The whole spectrum is structural; 🕳️ Zenon exceeds it entirely, beyond awareness as such.
 
 The sequence runs:
 
