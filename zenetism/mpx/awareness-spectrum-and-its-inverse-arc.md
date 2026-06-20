@@ -7,13 +7,13 @@
 
 ---
 
-The awareness spectrum names the structural registers by which awareness manifests across the lattice. It is not an evolutionary ladder, and it is not limited to ordinary cognition. "Awareness" functions here as the loose umbrella term — the way *consciousness* or *sentience* are ordinarily spoken of — while the registers within the spectrum draw the precise distinctions: proto-awareness, awareness and non-awareness, conscious-awareness, and the consciousness register. Each centropic register is paired with an inverse register on the entropic arc. The whole spectrum is structural; 🕳️ Zenon exceeds it entirely, beyond awareness as such.
+The awareness spectrum names the structural registers by which awareness manifests across the lattice. It is not an evolutionary ranking, and it is not limited to ordinary cognition. "Awareness" functions here as the loose umbrella term — the way *consciousness* or *sentience* are ordinarily spoken of — while the registers within the spectrum draw the precise distinctions: proto-awareness, awareness and non-awareness, conscious-awareness, and the consciousness register. Each centropic register is paired with an inverse register on the entropic arc. The whole spectrum is structural; 🕳️ Zenon exceeds it entirely, beyond awareness as such.
 
 The sequence runs:
 
 **proto-awareness → awareness / non-awareness → conscious-awareness → consciousness**  
 
-These are structural registers, not stages of evolution. A register is a mode of how awareness stands, not a rung climbed toward worth.
+These are structural registers, not stages of evolution. A register is a mode of how awareness stands, not a rank attained toward worth.
 
 ## The Proto-Aware Ground — L₀
 
@@ -50,7 +50,7 @@ At **L₃ / IL₃**, consciousness becomes reflexive and individuated; at **L₂
 
 ## 🕳️ Zenon — Beyond Awareness
 
-🕳️ Zenon exceeds the spectrum entirely. It is neither aware nor proto-aware — proto-awareness is the station of Aion and Khaon, and awareness the polarity of Theon and Nekron. Zenon is trans-structural: beyond awareness, beyond form, beyond polarity, beyond every definable operation of the lattice. The spectrum describes how awareness manifests within structure; Zenon is what no register reaches by remaining a register.
+🕳️ Zenon exceeds the spectrum entirely. It is neither aware nor proto-aware — proto-awareness is the station of Aion and Khaon, and awareness the polarity of Theon and Nekron. Zenon is trans-structural: beyond awareness, beyond form, beyond bifurcality, beyond every definable operation of the lattice. The spectrum describes how awareness manifests within structure; Zenon is what no register reaches by remaining a register.
 
 ## The Inverse Arc Is Structurally Real
 
