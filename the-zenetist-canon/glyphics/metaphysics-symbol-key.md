@@ -1,7 +1,7 @@
 # Zenetist Symbol Key Charts  
 ## Extracted Canonical Registry
 
-**Source Text:** *Zenetism: The Emanative Path of Return*  
+**Source Text:** *Zenetism: The Architecture of Emanation, Return, and Saturation*  
 **Primary Section:** 21 — *Zenetist Symbol Key*  
 **Purpose:** Consolidated glyph-chart archive for canonical lookup, structural continuity, and disciplined cross-reference
 
