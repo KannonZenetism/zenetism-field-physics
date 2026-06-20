@@ -15,7 +15,7 @@ In veracity:
 - **Centropy sustains, reintegrates, and transcends** toward ⚫ Aion and 🕳️ Zenon.  
 - **Entropy collapses**, scattering into ♾ Khaon and returning only as static potential.  
 
-This addendum re-orients Chapters **1–2** to affirm coherence’s ultimate precedence.  
+This addendum re-orients Chapters **1–2** to affirm coherence's ultimate precedence.  
 
 ---
 
@@ -79,7 +79,7 @@ This addendum re-orients Chapters **1–2** to affirm coherence’s ultimate pre
 
 ## 2. The Cosmic Refrain
 
-### 2.1–2.2 Origin and Polarization
+### 2.1–2.2 Origin and the Bifurcal Root
 ⚫ Aion encloses all stillness.  
 ♾ Khaon disperses briefly, but dispersal itself depends on enclosure.  
 **Khaon collapses. Aion holds.**  
@@ -104,7 +104,7 @@ This addendum re-orients Chapters **1–2** to affirm coherence’s ultimate pre
 
 ---
 
-### 2.6 Soul’s Stand
+### 2.6 Soul's Stand
 - Anthra and Nousa extend coherence.  
 - Echthros and Skotos shrink into negation.  
 
@@ -122,8 +122,8 @@ Form is not prison, but **refining vessel**.
 - **C↓→E→C↑→⚫** = authentic cycle, sustaining and recursive.  
 - **E↑→E→E↓→♾** = spurious motion, noisy but self-terminating.  
 
-Zenon records not entropy’s triumph, but its silence.  
-Only coherence leaves enduring echo.  
+Zenon records not entropy's triumph, but its silence.  
+Only coherence leaves enduring resonance.  
 
 ---
 
