@@ -33,7 +33,7 @@ Here the asymmetry returns as the seal of it. There are three operations but onl
 
 ## Lineage and Limit
 
-The four-fold negation is the catuṣkoṭi of Madhyamaka, where each of the four corners is denied in turn. The *beyond* keeps company with the apophatic theology of Dionysius, where the divine is named past both affirmation and negation. What the Twofold Tetralemma adds is the symmetry — the eminence cast as its own four-fold, to answer the negation's — and the binding of the pair to a bifurcation that reaches its ground only through synthesis. The components carry lineage; the structure is new.
+The four-fold negation is the catuṣkoṭi of Madhyamaka, where each of the four corners is denied in turn. The *beyond* keeps company with the apophatic theology of Dionysius, where the divine is named past both affirmation and negation. What the Twofold Tetralemma adds is the symmetry — the eminence cast as its own four-fold, to answer the negation's — and the correlation of the pair with a bifurcal coherence that reaches its ground only through synthesis. The components carry lineage; the structure is new.
 
 Zenon is not-this and not-that, and beyond-this and beyond-that, at once — neither saying predicated of Zenon in itself, both spoken by us, from within structure, of what structure cannot contain. The Twofold Tetralemma is not a description of Zenon. It is the shape of the inadequacy that comes nearest.
 
