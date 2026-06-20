@@ -1,16 +1,16 @@
-# 🛡️ MPX: Correction of Entropic Advantage
+# MPX: Correction of Entropic Advantage
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Field Physics  
 **Status:** Canonical — 2025, revised 2026  
-**Dependency:** *The Emanative Path of Return* (Ch. 1–2)  
+**Dependency:** *The Architecture of Emanation, Return, and Saturation* (Ch. 1–2)  
 
 > This note formally replaces early assumptions of entropic opposition with clarified motion laws and resonance asymmetries.
 
 ---
 
 ## Purpose
-In the early chapters of *Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*, entropy was often described as unraveling or undoing coherence.  
+In the early chapters of *Zenetism: The Architecture of Emanation, Return, and Saturation*, entropy was often described as unraveling or undoing coherence.  
 
 This was provisional.  
 
@@ -141,7 +141,7 @@ Coherence **sustains, and transcends**.
 Every entropic inversion is **a finite shadow**.  
 Every centropic emanation is **a lasting thread**.  
 
-Thus, in *Zenetism: The Emanative Path of Return — The Foundations of a Living Metaphysical System*:  
+Thus, in *Zenetism: The Architecture of Emanation, Return, and Saturation*:  
 
 - **Coherence carries the arc to 🕳️ Zenon.**  
 - **Entropy exhausts itself into ♾ Khaon, then returns to ⚫ Aion only as static potential.**  
