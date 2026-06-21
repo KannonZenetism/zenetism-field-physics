@@ -13,7 +13,7 @@
 
 ---
 
-### Zenon — *Prestructural Zero-Point Origin*
+### Zenon — *Trans-structural Zero-Point Origin*
 
 - **Not motion, but that from which motion stirs**  
   → Zenon is not a mover or an act — it is the **precondition for motion**.
@@ -66,12 +66,12 @@
 
 ---
 
-### Khaon — *Origin of Entropic Collapse*
+### Khaon — *Origin of Motion and Dispersion*
 
-- **First entropic condition**  
+- **First dispersive condition**  
   → Like Aion, Khaon is **not in motion**, but **initiates disintegration** as AMI for E↓♾ motion.
 
-- **Anchor of entropy**  
+- **Anchor of dispersion**  
   → All **fragmenting or dissolving motion** is **referenced to Khaon** — the **furthest divergence** from Zenon.
 
 - **Not evil itself**  
