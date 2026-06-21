@@ -228,6 +228,8 @@ Status of documents passed through this lockdown. **Header / footer** = standard
 | `biospiral-and-recursive-orientation.md` | filename backtick |
 | `post-agi-layering-uai-ami-adjacency.md` | (Forensics Exhibit) filename backtick; Dependencies separator; trailing-break sweep |
 
+**Duplicate pairs.** `MP08-symbol-key-ch21.md` ↔ `metaphysics-symbol-key.md` and `FP11-field-glyph-codex.md` ↔ `field-physics-glyph-charts.md` are maintained copies that must stay identical except for metadata. Any content change to one is applied to both; the glyph application inside them is never altered by a lockdown pass.
+
 **Carry-forward:** the standard header / footer is now corpus-wide — every MPX that is not a brief note takes the metadata block and the full seal. Remaining files in `INDEX.md` are pending.
 
 ---
