@@ -20,7 +20,7 @@ For each document: read the original, run targeted assertion-guarded edits (one 
 - **Quotes:** straight only. Convert curly ` U+201C U+201D U+2018 U+2019 ` to `" "` and `' '`.
 - **Em dashes:** spaced — like this. Never `--` or `---` inside prose; the em-dash character appears directly.
 - **Slashes in paired designations:** spaced — DS / DM, soul / mind, L₁ / IL₁, Logotheon / Inversalogos. **Exception:** externally-defined technical terms keep their native unspaced form — I/O, input/output.
-- **Subscripts:** every Layer / Dimensional number is subscripted — L₁, L₅, IL₅, L₄-F. Never ASCII (L0, IL5).
+- **Subscripts (mandatory):** every L / IL layer **and** every C / E dimensional operator is subscripted — L₁, L₅, IL₅, L₄-F, C₁, C₅, C₁₅, E₅, E₁₅. Never ASCII (L0, IL5, C5, E12). The C↑⚫ / E↓♾ motion notation is separate and unaffected.
 - **No terminal periods in table cells.**
 - **Bold sparingly** in the technical register. (The early poetic register has its own bold-saturation convention and is governed separately.)
 - **Backticks:** only for exact extension-bearing filenames and repository paths — `metaphysics-symbol-key.md`, `portal-traveler-and-orientation.md`. Concept names, protocol names, and document titles take **no** backticks (titles may be italicized instead).
@@ -170,7 +170,19 @@ What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or pr
 
 ---
 
-## 5A. Glyph Discipline — Functional Operators, Tied to Concept
+## 5A. Doctrinal Anchors for Hypostasis Labels
+
+Catch label-drift on sight; verify against the charts and *coming-undone-is-not-transcendence*.
+
+- **🕳️ Zenon** — trans-structural horizon; saturation point for centropic essence; the Unknown Principle. **Not** the origin, **not** a zero (beyond even the concept of zero-ness), **holds no potential**, and **receives no trace** — nothing is left, stored, or returned in Zenon. It is describable only from the describer's side; no description reaches it.
+- **⚫ Aion** — the genuine Zero; root structure of emanation / of centropic orientation; cradle of coherence; holder of the totality of potential; AMI for centropic motion.
+- **🏛️ Structon** — Structure Itself / Absolute Structure (the invariant sheet). This, not Aion, is "the origin of structure."
+- **♾ Khaon** — Absolute Dispersion; root of the entropic tree, but **not itself entropic** — the structural condition through which entropy arises; AMI for entropic motion.
+- **🛤️ Theon / 🕷️ Nekron** — Essence of Being / Emergence of Awareness contra Void of Self / Emergence of Non-Awareness (parallel forms).
+
+---
+
+## 5B. Glyph Discipline — Functional Operators, Tied to Concept
 
 Glyphs are functional operators that encode meaning; they are judged by whether a glyph ties to a notable nearby concept, not by how they look. The Symbol Key (chart 21.x) and the Field-Physics glyph registry are the authority for what is charted.
 
@@ -213,8 +225,8 @@ Status of documents passed through this lockdown. **Header / footer** = standard
 | `coming-undone-is-not-transcendence.md` | L₀ polarity / pole → bifurcal distinction / root; four instrumentalist "use" forms; header / seal already standard |
 | `fieldnote-entropy-is-not-integrable.md` | tone dialed back from the 2025 register; standard header with `MP01-emanation-architecture-ch1-3.md` dependency; seal upgraded |
 | `presence-essence-field.md` | curly → straight; L3/4/5 → subscript; Field–Presence → Field / Presence; NB-hyphens normalized; standard header + seal |
-| `addendum-entropy-coherence.md` | curly → straight; Polarization → Bifurcal Root; centropic echo → resonance; standard header + seal |
-| `gpt-dialogues-zenon.md` | curly → straight; centropic echo → trace; polar AMIs → bifurcal; "Opposite pole" → root; dual → twofold; true Zero → genuine Zero; duality → polarity; standard header + seal |
+| `correction-of-entropic-advantage.md` | (renamed from `addendum-entropy-coherence.md`) curly → straight; Polarization → Bifurcal Root; centropic echo → resonance; book-title rename; standard header + seal; heading glyphs stripped |
+| `gpt-dialogues-zenon.md` | curly → straight; polar AMIs → bifurcal; "Opposite pole" → root; dual → twofold; true Zero → genuine Zero; duality → polarity; standard header + seal; heading glyphs stripped; **doctrinal pass** — Zenon as trans-structural horizon (not origin/zero/container/trace), Aion as root structure of emanation, Nekron paralleling Theon, Khaon as Absolute Dispersion |
 
 ### Earlier session — language / locks applied; re-verify header / footer against the corpus-wide standard
 
