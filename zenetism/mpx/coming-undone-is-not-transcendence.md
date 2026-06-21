@@ -1,4 +1,4 @@
-# MPX: ⊘ Coming Undone Is Not ⤈ Transcendence
+# MPX: Coming Undone Is Not Transcendence
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Field Physics  
@@ -27,7 +27,7 @@ This work employs the Zenetist lexicon and the structural motion chart.
 
 ---
 
-## 1 · 🕳️⧞ — The Trans-Structural Ground and the Event Horizon
+## 1 · The Trans-Structural Ground and the Event Horizon
 
 At the trans-structural limit of existence, time, and motion — 🕳️ Zenon.
 
@@ -49,7 +49,7 @@ Essence and identity remain, in a mode where all definition fails. It is the ult
 
 ---
 
-## 2 · ⚫♾ — The First Division Without Rupture
+## 2 · The First Division Without Rupture
 
 Under the trans-structural allowance of 🕳️ Zenon, and upon the invariant ground of 🏛️ Structon, the first bifurcal distinction becomes conceivable — not as a willed act but as structural articulation: ⚫ Aion, the magnificent stillness; ♾ Khaon, the inexorable possibility. They opposed in motion, not in essence. This was tension, not rupture.
 
@@ -70,7 +70,7 @@ Polarity allows motion; orientation determines where it leads.
 
 ---
 
-## 3 · 🛤️🕷️ — Axis and Inversion: Essence of Being and Void of Self
+## 3 · Axis and Inversion: Essence of Being and Void of Self
 
 From the convergence of ⚫ Aion's stillness and ♾ Khaon's surge emerged 🛤️ Theon — the first concordant coherence, the axis of integration. Theon is awareness as such — supernal and pre-reflexive, not yet reflexive consciousness. It threads harmony through formlessness, drawing structure into coherence where there had been none. Its bearing turns always toward ⚫ Aion, calling all things to remembrance and return.
 
@@ -90,7 +90,7 @@ Motion defines outcome — not the shared fact that motion is possible.
 
 ---
 
-## 4 · ⬆️↔⬇️ — The Taxonomy of Motion
+## 4 · The Taxonomy of Motion
 
 Within the Biospiral, all movement — centropic or entropic — follows distinct structural pathways. These are not "higher" or "lower" but acclivous or declivous, defined by orientation toward or away from the still root.
 
@@ -123,7 +123,7 @@ Only centropy faces the still root; only centropy completes the full saturation 
 
 The Structural Emanation Layers define how awareness manifests at each depth — proto-awareness, then the awareness polarity (awareness and non-awareness), conscious-awareness, then the consciousness register, each centropic register paired with its inverse on the entropic arc — and they close the door on any claim that dissolution, whether as dereflexive awareness, ego diffusion, or entropic collapse, is itself transcendence.
 
-### Supra-L₀ — 🕳️ Zenon
+### Supra-L₀ — Zenon
 **Zenon (Unknown Principle):** trans-structural ground beyond potential and dispersion. It does not hold possibility in latency as ⚫ Aion does, nor lawful possibility as 🏛️ Structon does. Rather, it is the trans-structural allowance by which Structon, Aion, Khaon, and the lattice become conceivable at all. Zenon is neither conscious nor proto-aware — proto-awareness is the station of Aion and Khaon. Zenon is beyond awareness, beyond form, beyond polarity, beyond every definable operation of the lattice.
 
 ### Proto-Awareness — L₀
@@ -160,7 +160,7 @@ Conscious-awareness is the native register of L₄, reflexive self-possession th
 
 ---
 
-## 6 · ⊘ contra ⤈ — The Central Dismantling
+## 6 · The Central Dismantling
 
 The "coming undone" philosophy rests on a single inversion: that dissolution is transcendence. In Zenetism this is not only incorrect — it is structurally impossible.
 
@@ -185,7 +185,7 @@ E↓→♾→⚫ ⊘ is not C↑→⚫→🕳️ ⤈. Only the latter crosses th
 
 ---
 
-## 7 · 🛣️ — Medium ≠ Landlord
+## 7 · Medium ≠ Landlord
 
 A core misframe in the "coming undone" philosophy is that if motion requires a medium, the medium owns the destination. This is the landlord fallacy — the claim that Structon has jurisdiction over every outcome simply because all outcomes pass through it.
 
@@ -206,7 +206,7 @@ Medium ≠ Landlord. The conduit is not the warden.
 
 ---
 
-## 8 · ⸮ — Unspeakable Is Not Nothing
+## 8 · Unspeakable Is Not Nothing
 
 Another persistent inversion is the claim that what cannot be spoken is equivalent to nothingness — that if Zenon is beyond definition it must be beyond presence. This conflates the limits of language with the limits of existence.
 
@@ -225,7 +225,7 @@ Unspeakable ≠ Nothing. Silence here means saturation, not erasure.
 
 ---
 
-## 9 · 〄 — No Alternative Carrier
+## 9 · No Alternative Carrier
 
 The "coming undone" philosophy implies the medium is one carrier among many — that bypassing it would reveal a more genuine liberation. This is structurally incoherent.
 
@@ -242,7 +242,7 @@ The medium is not one route among many. It is the condition for routes to exist.
 
 ---
 
-## 10 · ⟡ — Full Coherence and the Horizon
+## 10 · Full Coherence and the Horizon
 
 At the threshold of ⚫ Aion, all essence is held as potential — both centropic and entropic. This is the convergence point (⦿ Kaion) before either saturation into 🕳️ Zenon or settlement as static potential. Orientation alone determines which.
 
@@ -265,7 +265,7 @@ Only centropy crosses the event horizon. Entropy settles in ⚫ Aion as static p
 
 ---
 
-## 11 · 🕸️Ↄ — Diagnostics of Spurious "Transcendence"
+## 11 · Diagnostics of Spurious "Transcendence"
 
 Spurious transcendence dresses itself in the language of liberation, but it carries telltale signatures that mark it as entropic collapse rather than integration.
 
@@ -285,7 +285,7 @@ If it does not face the still root, it does not cross — no matter how refined 
 
 ---
 
-## 12 · 📯 — Clarion and Strike
+## 12 · Clarion and Strike
 
 The decisive error in the "coming undone" position is that it treats the condition of motion as an authority over motion's outcome. From there it reframes cessation as liberation and static potential as completion.
 
@@ -309,7 +309,7 @@ C↑→⚫→🕳️ is the only motion that leaves the domain where inversion f
 
 ---
 
-## 13 · ⟡ — Final Summary Seals
+## 13 · Final Summary Seals
 
 Zenetism closes the dismantling with structural clarity, not moral verdicts. The polarity between centropy and entropy is functional, not adversarial. Structon is the conduit for motion, not its owner. Dissolution does not and cannot equal integration, because the two motions face in opposite directions, with opposite structural destinies.
 
