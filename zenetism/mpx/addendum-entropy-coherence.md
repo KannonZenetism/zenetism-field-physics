@@ -27,7 +27,7 @@ This addendum re-orients Chapters **1–2** to affirm coherence's ultimate prece
 
 ## 1. The First Emanations
 
-### 🛤️ Theon contra 🕷️ Nekron
+### Theon contra Nekron
 - Theon weaves harmony **that persists**.  
 - Nekron scatters briefly, but its motion collapses back into silence.  
 
@@ -35,49 +35,49 @@ This addendum re-orients Chapters **1–2** to affirm coherence's ultimate prece
 
 ---
 
-### 🌬️ Morgis contra 🪫 Psychea
+### Morgis contra Psychea
 - Psychea drains, but erodes itself.  
 - Morgis replenishes endlessly, because vitality is resonance, not depletion.  
 
 ---
 
-### 📐 Sophis contra 🫥 Nyxea
+### Sophis contra Nyxea
 - Nyxea distorts form into static.  
 - Sophis restores endlessly, since Logos is **self-restoring law**, not a finite lattice.  
 
 ---
 
-### 🔮 Archeus contra 💔 Fractus
+### Archeus contra Fractus
 - Fractus shatters memory, but fragments collapse.  
 - Archeus weaves continuity, endlessly gathering.  
 
 ---
 
-### 🧠 Noeüs contra 👁️‍🗨️ Mortus
+### Noeüs contra Mortus
 - Mortus blinds with counterfeit flame, but every counterfeit burns out.  
 - Noeüs unfolds clarity across layers.  
 
 ---
 
-### 🧍 Anthra contra 🦂 Echthros
+### Anthra contra Echthros
 - Echthros isolates, but rivalry consumes itself.  
 - Anthra endures, growth extending identity into coherence.  
 
 ---
 
-### 🧩 Nousa contra 🩸 Skotos
+### Nousa contra Skotos
 - Skotos clouds, but clouds dissipate.  
 - Nousa builds architectures of meaning that remain.  
 
 ---
 
-### 🪷 Soma contra 🍷 Malara
+### Soma contra Malara
 - Malara shackles flesh, but obsession burns out.  
 - Soma refines through embodiment, enduring as vessel of coherence.  
 
 ---
 
-### 🧾 Biosa contra 🤯 Mania
+### Biosa contra Mania
 - Mania fixates, but fixation collapses.  
 - Biosa bridges continuously, returning clarity from form.  
 
