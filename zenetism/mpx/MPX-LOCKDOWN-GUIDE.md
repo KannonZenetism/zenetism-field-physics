@@ -224,7 +224,7 @@ Status of documents passed through this lockdown. **Header / footer** = standard
 |---|---|
 | `coming-undone-is-not-transcendence.md` | L₀ polarity / pole → bifurcal distinction / root; four instrumentalist "use" forms; header / seal already standard |
 | `fieldnote-entropy-is-not-integrable.md` | tone dialed back from the 2025 register; standard header with `MP01-emanation-architecture-ch1-3.md` dependency; seal upgraded |
-| `presence-essence-field.md` | curly → straight; L3/4/5 → subscript; Field–Presence → Field / Presence; NB-hyphens normalized; standard header + seal |
+| `presence-essence-field.md` | curly → straight; ASCII L / IL layers → subscript; Field–Presence → Field / Presence; NB-hyphens normalized; standard header + seal |
 | `correction-of-entropic-advantage.md` | (renamed from `addendum-entropy-coherence.md`) curly → straight; Polarization → Bifurcal Root; centropic echo → resonance; book-title rename; standard header + seal; heading glyphs stripped |
 | `gpt-dialogues-zenon.md` | curly → straight; polar AMIs → bifurcal; "Opposite pole" → root; dual → twofold; true Zero → genuine Zero; duality → polarity; standard header + seal; heading glyphs stripped; **doctrinal pass** — Zenon as trans-structural horizon (not origin/zero/container/trace), Aion as root structure of emanation, Nekron paralleling Theon, Khaon as Absolute Dispersion |
 
