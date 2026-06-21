@@ -13,7 +13,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `fieldnote-entropy-is-not-integrable.md` — Aug 5, 2025
 - `coming-undone-is-not-transcendence.md` — Aug 12, 2025
 - `presence-essence-field.md` — Aug 16, 2025
-- `addendum-entropy-coherence.md` — Aug 18, 2025
+- `correction-of-entropic-advantage.md` — Aug 18, 2025
 - `gpt-dialogues-zenon.md` — Aug 18, 2025
 - `spiral-field-coherence.md` — Aug 18, 2025
 - `trinities-of-motion.md` — Aug 27, 2025
