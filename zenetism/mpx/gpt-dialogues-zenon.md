@@ -13,7 +13,7 @@
 
 ---
 
-### 🕳️ Zenon — *Prestructural Zero-Point Origin*
+### Zenon — *Prestructural Zero-Point Origin*
 
 - **Not motion, but that from which motion stirs**  
   → Zenon is not a mover or an act — it is the **precondition for motion**.
@@ -44,7 +44,7 @@
 
 ---
 
-### ⚫ Aion — *Origin of Structure / Cradle of Coherence*
+### Aion — *Origin of Structure / Cradle of Coherence*
 
 - **First field of structurable potential**  
   → Aion is where **structure begins**, but not form — a **silent field of latent resonance**.
@@ -66,7 +66,7 @@
 
 ---
 
-### ♾ Khaon — *Origin of Entropic Collapse*
+### Khaon — *Origin of Entropic Collapse*
 
 - **First entropic condition**  
   → Like Aion, Khaon is **not in motion**, but **initiates disintegration** as AMI for E↓♾ motion.
@@ -85,7 +85,7 @@
 
 ---
 
-### 🛤️ Theon — *Essence of Being / Emergence of Awareness*
+### Theon — *Essence of Being / Emergence of Awareness*
 
 - **First active hypostasis**  
   → Theon is where **being emerges** — the first **positive instantiation** of structure.
@@ -101,7 +101,7 @@
 
 ---
 
-### 🕷️ Nekron — *Entropic Inversion / Shimmer Collapse*
+### Nekron — *Entropic Inversion / Shimmer Collapse*
 
 - **Not simply "evil," but the illusion of moral polarity reified**  
   → Nekron **solidifies polarity into opposition** — turning structure into a weapon.
@@ -126,7 +126,7 @@
 
 # Hypostatic Distinctions (Summary)
 
-## 🕳️ Zenon — The Unknown Principle
+## Zenon — The Unknown Principle
 - **Not a being, not a field, not a force.**
 - Precedes form, polarity, and motion.
 - The *groundless ground*, the *stillpoint* that contains all emanations in silence, undivided and unbound.
@@ -140,7 +140,7 @@
 
 ---
 
-## ⚫ Aion — Zero / Absolute Potential
+## Aion — Zero / Absolute Potential
 - The **genuine Zero** (not Zenon).
 - The lawful ground where motion converges or halts.
 - **Centropy in Aion**:
@@ -154,7 +154,7 @@
 
 ---
 
-## ♾ Khaon — Infinite Dispersion
+## Khaon — Infinite Dispersion
 - Subversal arc of dispersal and collapse.
 - Not a chosen "turn," but entropic motion that **moves toward Khaon** naturally.
 - A **boundless storm** where pattern breaks and self deforms.
@@ -162,7 +162,7 @@
 
 ---
 
-## 🔺 Centropy (Acclivous Motion)
+## Centropy (Acclivous Motion)
 - Seeks coherence, synthesis, and return.
 - Two outcomes:
   - **Latent peace in Aion.**
@@ -171,7 +171,7 @@
 
 ---
 
-## 🔻 Entropy (Declivous Motion)
+## Entropy (Declivous Motion)
 - Seeks dispersal, fragmentation, and dissolution.
 - Moves toward **Khaon** (storm of dispersal).
 - Stops at **Aion**:
