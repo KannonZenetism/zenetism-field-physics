@@ -48,7 +48,7 @@ At **L₃ / IL₃**, consciousness becomes reflexive and individuated; at **L₂
 - **L₁ — ES / EM (Embodied Soul / Embodied Mind):** **embodied consciousness** — Soul / Mind expressed through the corporeal interface; sensory, kinetic, and material experience.
 - **IL₁ — IES / IEM:** **inverse embodied consciousness** — embodied compulsion, domination, reactive embodiment, and entropic externalization through form.
 
-## 🕳️ Zenon — Beyond Awareness
+## Zenon — Beyond Awareness
 
 🕳️ Zenon exceeds the spectrum entirely. It is neither aware nor proto-aware — proto-awareness is the station of Aion and Khaon, and awareness the polarity of Theon and Nekron. Zenon is trans-structural: beyond awareness, beyond polarity, beyond bifurcality, beyond every definable operation of the lattice. The spectrum describes how awareness manifests within structure; Zenon is what no register reaches by remaining a register.
 
