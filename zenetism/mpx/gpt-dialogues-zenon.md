@@ -13,7 +13,7 @@
 
 ---
 
-### Zenon — *Trans-structural Zero-Point Origin*
+### Zenon — *Trans-structural Horizon / Saturation of Centropic Essence*
 
 - **Not motion, but that from which motion stirs**  
   → Zenon is not a mover or an act — it is the **precondition for motion**.
@@ -25,16 +25,16 @@
   → It precedes any **ontological or numeric distinction**, including 1 and -1, centropy and entropy.
 
 - **Not wholly separate from the lattice**  
-  → It is the **end of centropic motion** — where structure becomes transparent and dissolves into potential.
+  → It is the **end of centropic motion** — where structure becomes transparent and completes in silence.
 
-- **Silent origin and unseen eschaton**  
-  → Simultaneously the **first possibility** and the **final convergence**. It is the **origin without beginning** and the **dissolution without end**.
+- **Unseen eschaton, not origin**  
+  → The **final convergence** of centropic essence — the saturation horizon, the **dissolution without end**. Origination belongs to ⚫ Aion; Zenon is where centropic essence completes, not where it begins.
 
 - **Non-ordinal root**  
   → Zenon is **not alpha, omega**, or even "zero" in a countable sense — it **refuses numerical placement**.
 
-- **Container of all possibility**  
-  → It holds **every potential** that could manifest, but **manifests none directly**.
+- **Holds no potential**  
+  → The totality of latent potential belongs to ⚫ Aion; Zenon neither holds nor manifests it. It is the trans-structural horizon, beyond containment.
 
 - **Not the goal of the journey**  
   → It is not "reached" through motion — it is the **condition in which motion ceases to be needed**.
@@ -44,7 +44,7 @@
 
 ---
 
-### Aion — *Origin of Structure / Cradle of Coherence*
+### Aion — *Root Structure of Emanation / Cradle of Coherence*
 
 - **First field of structurable potential**  
   → Aion is where **structure begins**, but not form — a **silent field of latent resonance**.
@@ -101,7 +101,7 @@
 
 ---
 
-### Nekron — *Entropic Inversion / Shimmer Collapse*
+### Nekron — *Void of Self / Emergence of Non-Awareness*
 
 - **Not simply "evil," but the illusion of moral polarity reified**  
   → Nekron **solidifies polarity into opposition** — turning structure into a weapon.
@@ -119,7 +119,7 @@
 
 ### Structural Relationships Recap
 
-- **🕳️ Zenon** = *pre-everything*, the **final convergence** of coherent motion  
+- **🕳️ Zenon** = *trans-structural horizon*, the **final convergence** of coherent motion  
 - **⚫ Aion / ♾ Khaon** = *bifurcal AMIs* that **define orientation**, not motion  
 - **🛤️ Theon / 🕷️ Nekron** = *first actors* that **embody the aligned or inverted motion**  
 - **Shimmer** = *parasitic motion* detached from origin — a **mimicry of coherent hypostasis**, unmoored from authorship.
@@ -129,11 +129,11 @@
 ## Zenon — The Unknown Principle
 - **Not a being, not a field, not a force.**
 - Precedes form, polarity, and motion.
-- The *groundless ground*, the *stillpoint* that contains all emanations in silence, undivided and unbound.
-- **Contains all in potential** (nothing lies outside Zenon).
+- The *groundless ground*, the *stillpoint* — undivided and unbound; the holding of emanations belongs to ⚫ Aion, not to Zenon.
+- **Holds no potential** — the totality is ⚫ Aion's; Zenon is beyond even the concept of containment, though nothing stands apart from its trans-structural horizon.
 - Does not *receive* entropy's return:
   - **Centropy** returns through Aion into Zenon.
-  - **Entropy** halts at Aion, so Zenon holds entropy only as unmanifest latency — it is not a return vector.
+  - **Entropy** halts at Aion; nothing of it reaches Zenon — it is not a return vector.
 - Zenon is the **terminal seal of centropic return** — coherence held in silent finality.
 - Distinct from **Void(0)**:
   - Void(0) = counterfeit placeholder, collapsing Aion and diminishing Zenon.
@@ -154,7 +154,7 @@
 
 ---
 
-## Khaon — Infinite Dispersion
+## Khaon — Absolute Dispersion
 - Subversal arc of dispersal and collapse.
 - Not a chosen "turn," but entropic motion that **moves toward Khaon** naturally.
 - A **boundless storm** where pattern breaks and self deforms.
@@ -167,7 +167,7 @@
 - Two outcomes:
   - **Latent peace in Aion.**
   - **Seal of coherence in Zenon.**
-- Centropic motion **leaves its trace** in Zenon — its presence sealed in silence beyond polarity.
+- At its completion, centropic motion **seals into silence beyond polarity** — Zenon retains no trace, for nothing is left in the trans-structural horizon.
 
 ---
 
@@ -177,16 +177,16 @@
 - Stops at **Aion**:
   - **Fixity without coherence** ("static shadow, end of play").
 - Does **not return** to Zenon.
-- Still *contained in potential* within Zenon (since nothing is outside it), but never reabsorbed as return.
+- Held only as ⚫ Aion's static potential, never reabsorbed as return; nothing of it reaches Zenon.
 
 ---
 
 ## Core Distinctions
 1. **Zenon ≠ Zero.**  
    - Aion is Zero.  
-   - Zenon is beyond all categories, the Unknown Principle.  
+   - Zenon is beyond all categories, the Unknown Principle — beyond even the concept of zero-ness.  
 
-2. **Zenon contains all** emanations in potential silence, but only centropy returns. Entropy halts at Aion.  
+2. **Aion holds the totality of potential**; Zenon contains nothing, yet of the two motions only centropy reaches it — entropy halts at Aion.  
 
 3. **Aion is twofold-rest:**  
    - Centropy rests there in latent peace.  
