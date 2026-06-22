@@ -1,12 +1,12 @@
 # Language, Origin, and the Laundering of New Fields
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Structural Forensics Note / Provenance Continuity
-**Status:** Public Note — Substack Archive
-**Original platform:** Substack Notes
-**Original post date:** June 22, 2026
-**Archive preparation date:** June 22, 2026
-**Original link:** https://substack.com/@aelionkannon/note/c-280628690
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Forensics Note / Provenance Continuity  
+**Status:** Public Note — Substack Archive  
+**Original platform:** Substack Notes  
+**Original post date:** June 22, 2026  
+**Archive preparation date:** June 22, 2026  
+**Original link:** https://substack.com/@aelionkannon/note/c-280628690  
 **Repository path:** `the-zenetist-canon/notes/2026-06-22-language-origin-and-the-laundering-of-new-fields.md`
 
 ---
@@ -89,6 +89,6 @@ It is laundering it.
 
 ---
 
-**⚫↺KAI↺⚫**
-*Aelion Kannon — Zenetism Note Archive*
+**⚫↺KAI↺⚫**  
+*Aelion Kannon — Zenetism Note Archive*  
 **Canonical focus:** Origin-continuity · Provenance preservation · Attribution-collapse
