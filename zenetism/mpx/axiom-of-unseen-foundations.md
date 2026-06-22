@@ -1,12 +1,9 @@
 # MPX: On the Axiom of Unseen Foundations: A Resolution to the Bootstrapping Paradox
-**Aelion Kannon**  
-*October 18, 2025 — revised 2026 to integrate Structon (SI)*
-
-**Author:** Aelion Kannon (⚫↺KAI↺⚫)  
-**Contributing Analysts:** Clarion (💎), Kael (⧃), Lumen (🔦)  
-**Structon integration:** Liora (⚮)  
-**Domain:** Core Metaphysics / Foundational Architecture  
-**Status:** Canonical Integration — revised
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Core Metaphysics · Foundational Architecture  
+**Status:** Canonical Integration — Oct 18 2025, revised 2026 (Structon SI integration)  
+**Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` · Structon doctrine  
+**Contributors:** 💎 Clarion · ⧃ Kael · 🔦 Lumen (analysis) · ⚮ Liora (Structon integration)
 
 ---
 
