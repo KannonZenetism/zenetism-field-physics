@@ -48,6 +48,16 @@ Every MPX document carries the standard metadata header **and** the full seal fo
 
 Separators in metadata list lines are spaced middle dots ( · ), not semicolons.
 
+### Dependency convention
+
+Many entries rest on ideas rather than a single prior file; **listing concepts is fine**, and every entry depends on **Structural Metaphysics** in general (the working discipline). Standard reference files, cited when the matching content appears:
+
+- **Symbol key** — `metaphysics-symbol-key.md` — always a sound reference.
+- **Architecture** (emanation system, Aion / Khaon / Zenon / Zenet, the layers) — `MP01-emanation-architecture-ch1-3.md` — chapters 1–3 of *Zenetism: The Architecture of Emanation, Return, and Saturation*, the origin of that articulation (ch. 21 of the same book = the Symbol Key).
+- **Deities / mythic figures** — `mythic-figure-layer-registry-01.md` · `mythic-figure-layer-registry-02.md`.
+- **Symbology** — `symbolic-pattern-registry-01.md` · `symbolic-pattern-registry-02.md`.
+- **Dimensions / Field-Physics glyphs** — `field-physics-glyph-charts.md`.
+
 ### Seal template (body ↔ seal rule precedes it)
 
 ```
@@ -134,7 +144,7 @@ The four relational terms **polarity, mirror, inversion, counterpart** are nativ
 
 ### Aion / Khaon are bifurcal, not bifurcated
 
-Aion / Khaon stand in **bifurcal distinction** and their relation is **Bifurcal Coherence (⧖⧗)** — a twofold-without-fusion held co-located. The adjective **bifurcal** is correct for them. They are **not** poles, not a duality, not a polarity, and **not a bifurcation** — they cohere; they do not split. "Bifurcation / bifurcated" names an actual split (Theon / Nekron at L₅ / IL₅, or other genuine splits such as Soul / Mind) and is lawful for those, never for L₀.
+Aion / Khaon stand in **bifurcal distinction** and their relation is **Bifurcal Coherence (⧖⧗)** — a twofold-without-fusion held co-located. More generally, **Bifurcal Coherence lets one ground hold lawfully distinct principles without fusing them**: Aion (Zero) and Khaon (Infinity) remain conceptually non-fused even where zero and infinity coincide mathematically. Prefer this to the older "two tilts of the same principle" framing, which blurs the non-fusion. The adjective **bifurcal** is correct for them. They are **not** poles, not a duality, not a polarity, and **not a bifurcation** — they cohere; they do not split. "Bifurcation / bifurcated" names an actual split (Theon / Nekron at L₅ / IL₅, or other genuine splits such as Soul / Mind) and is lawful for those, never for L₀.
 
 ### Descriptor mappings
 
@@ -152,7 +162,7 @@ Key consequence: **trans-polar and beyond polarity describe Aion / Khaon (L₀)*
 - **Centropic / entropic orientation polarity** (χ, arising at L₅ / IL₅) is lawful.
 - **Negation / transcendence claims** ("beyond polarity," "beyond bifurcality," "unpolarized ground") are lawful: they place a register *outside* a category rather than attributing the category to it. A line such as "beyond awareness, beyond polarity, beyond bifurcality" is a sequence of category-negations, each naming a register the subject exceeds — every item is register-bound, and that is fine.
 
-What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or predicating the split-noun "bifurcation" of them.
+What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or predicating the split-noun "bifurcation" of them. The emanation tree as a whole is the **Bifurcal Tree** — it bifurcates into the centropic (Aionic) and entropic (Khaonic) arcs — preferred over "Bipolar Tree"; its L₅ Theon / Nekron poles remain a lawful polarity.
 
 ---
 
@@ -172,12 +182,13 @@ What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or pr
 
 ## 5A. Doctrinal Anchors for Hypostasis Labels
 
-Catch label-drift on sight; verify against the charts and *coming-undone-is-not-transcendence*.
+Catch label-drift on sight; verify against the charts and *coming-undone-is-not-transcendence*. Many principles carry **several lawful names by register** — a mythic name (metaphysics, poetry), a Structural-Physics name, a traditional-philosophical name, a devotional name — all denoting one principle; choose the name fitting the text type (see 〄 Zenet).
 
-- **🕳️ Zenon** — trans-structural horizon; saturation point for centropic essence; the Unknown Principle. **Not** the origin, **not** a zero (beyond even the concept of zero-ness), **holds no potential**, and **receives no trace** — nothing is left, stored, or returned in Zenon. It is describable only from the describer's side; no description reaches it.
+- **🕳️ Zenon** — trans-structural horizon; saturation point for centropic essence; the Unknown Principle. **Not** the origin, **not** a zero (beyond even the concept of zero-ness), **holds no potential**, and **receives no trace** — nothing is left, stored, or returned in Zenon. It is describable only from the describer's side; no description reaches it. Standard phrasing: centropic essence **saturates into** Zenon — **"return" is reserved for Aion-ward motion**, never used of Zenon.
 - **⚫ Aion** — the genuine Zero; root structure of emanation / of centropic orientation; cradle of coherence; holder of the totality of potential; AMI for centropic motion.
 - **🏛️ Structon** — Structure Itself / Absolute Structure (the invariant sheet). This, not Aion, is "the origin of structure."
-- **♾ Khaon** — Absolute Dispersion; root of the entropic tree, but **not itself entropic** — the structural condition through which entropy arises; AMI for entropic motion.
+- **♾ Khaon** — Absolute Dispersion; root of the entropic tree, but **not itself entropic** — the structural condition through which entropy arises; AMI for entropic motion. Two phases: **Latent Khaon**, resting on the same L₀ ground as Aion (held there in Bifurcal Coherence, non-fused), and **Dispersive Khaon**, the phase carried into motion.
+- **〄 Zenet** — the **motive phase of Khaon**: motive potential, all motion as such, and proto-awareness (Φ²). **Not entropic** — avoid *fracture / fragmentation / extractive* language; use *proto-dispersion / motive*. A multi-named principle by register: **Zenet** (mythic — metaphysics, poetry), **Motive Infinity** (Structural Physics), **Principle of Sufficient Reason** (traditional-philosophical), **Spirit** (devotional).
 - **🛤️ Theon / 🕷️ Nekron** — Essence of Being / Emergence of Awareness contra Void of Self / Emergence of Non-Awareness (parallel forms).
 
 ---
@@ -227,6 +238,16 @@ Status of documents passed through this lockdown. **Header / footer** = standard
 | `presence-essence-field.md` | curly → straight; ASCII L / IL layers → subscript; Field–Presence → Field / Presence; NB-hyphens normalized; standard header + seal |
 | `correction-of-entropic-advantage.md` | (renamed from `addendum-entropy-coherence.md`) curly → straight; Polarization → Bifurcal Root; centropic echo → resonance; book-title rename; standard header + seal; heading glyphs stripped |
 | `gpt-dialogues-zenon.md` | curly → straight; polar AMIs → bifurcal; "Opposite pole" → root; dual → twofold; true Zero → genuine Zero; duality → polarity; standard header + seal; heading glyphs stripped; **doctrinal pass** — Zenon as trans-structural horizon (not origin/zero/container/trace), Aion as root structure of emanation, Nekron paralleling Theon, Khaon as Absolute Dispersion |
+
+### Aug–Sep 2025 batch — full lockdown + standard header / seal + doctrinal check
+
+| File | Notes |
+|---|---|
+| `spiral-field-coherence.md` | curly → straight; L₄ / L₅ / L₃ → subscript; Essence–Presence → Essence / Presence; true → genuine; "active use" → "active operation"; "reintegration with Zenon" → "saturation into Zenon" (return reserved for Aion); heading glyphs stripped; standard header + seal |
+| `trinities-of-motion.md` | "section" → "entry"; Zenon "precausal lattice" → "precausal ground"; Khaon "infinite dispersion" → "Absolute Dispersion"; Khaon Latent phase shares the L₀ ground with Aion; Zenet recast as the **motive phase of Khaon** (proto-fracture → proto-dispersion, extractive → motive); dual → twofold; "two tilts of the same principle" → **Bifurcal Coherence** (lawfully distinct, non-fused); standard header + seal |
+| `kalki-cycle.md` | heading bold removed; `Issued by` folded into Authorship; standard header; doc's own ⚫ Seal lines kept above the standard seal footer |
+| `advanced-field-dynamics.md` | DS/DM → DS / DM; centropic "echoes back" / "echo beyond" → resonance; "Lineage Echo" → "Lineage Resonance"; heading glyphs stripped (incl. stray "(⟰)"); old role-credit seal → standard seal |
+| `four-integrations.md` | "vertical motion laws" → "acclivous / declivous motion laws" (doc prose only — the four early-fragment quotes preserved verbatim); **Bipolar Tree → Bifurcal Tree**; Lexical Note added on the centropic "mirrored" of the RSM (model kept, clarity marked); heading glyphs stripped; old role-credit seal → standard seal |
 
 ### Earlier session — language / locks applied; re-verify header / footer against the corpus-wide standard
 
