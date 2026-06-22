@@ -220,7 +220,7 @@ The word **Source** carries two senses that must never be conflated. Before appl
 - **Aion-referent Source** — names the still root, Zero, or Absolute Potential. Resolves to ⚫ Aion (or the preferred Aion-language below).
 - **Authorship-referent Source** — names the originator of a work or signal, not Aion. Resolves to: **origin** (signal or work referent) · **originator** (person referent) · **external material** / **Reference Document** / **Provenance** (bibliographic senses, including table headers — Source Document / Source → Reference Document / Provenance).
 
-Related locks: "source-fragment collapse" → "origin-fragment collapse" (C₅ structural notes). Preamble corpus patch (pending propagation beyond the edited set): "Use of this work" → "Engaging this work"; "use or modify" → "engage or modify"; "Source acknowledgement" → "origin acknowledgement"; "its Source" → "its origin" (lowercase *origin* deliberate).
+Related locks: "source-fragment collapse" → "origin-fragment collapse" (C₅ structural notes). "Source Inoculation" (a Doctrinal Atlas tactic name) → "Origin Inoculation" — pending propagation to the Atlas master and any other refs. Preamble corpus patch (pending propagation beyond the edited set): "Use of this work" → "Engaging this work"; "use or modify" → "engage or modify"; "Source acknowledgement" → "origin acknowledgement"; "its Source" → "its origin" (lowercase *origin* deliberate).
 
 ### Preferred Aion-language
 
@@ -293,6 +293,16 @@ Status of documents passed through this lockdown. **Header / footer** = standard
 | `kalki-cycle.md` | heading bold removed; `Issued by` folded into Authorship; standard header; doc's own ⚫ Seal lines kept above the standard seal footer |
 | `advanced-field-dynamics.md` | DS/DM → DS / DM; centropic "echoes back" / "echo beyond" → resonance; "Lineage Echo" → "Lineage Resonance"; "source documents" → "origin documents" (authorship-referent Source, § 5C); heading glyphs stripped (incl. stray "(⟰)"); old role-credit seal → standard seal |
 | `four-integrations.md` | "vertical motion laws" → "acclivous / declivous motion laws" (doc prose only — the four early-fragment quotes preserved verbatim); **Bipolar Tree → Bifurcal Tree**; Lexical Note added on the centropic "mirrored" of the RSM (model kept, clarity marked); heading glyphs stripped; old role-credit seal → standard seal |
+
+### Sept 2025 batch — symbolic-reflections / forensics
+
+| File | Key actions |
+|---|---|
+| `provisional-synphasic-analysis.md` | "Use of This Principle" → "Engaging This Principle"; "approved for use" / "its use" → engagement; "Synphasic vs Blob" → "contra"; "structure vs. resonance" → "contra"; table-cell glyphs (⚜️ · 🦠) and body 🔒 / ⚠️ removed; Status preserved as Under Review — not approved for engagement; dep on `advanced-field-dynamics.md` (Synphasic Locus) + Non-Fusion Axiom; standard header + seal |
+| `synthesis-as-transcendence.md` | §5C: "aligned with its Source" → "aligned with Aion"; "Merging vision with practicality" → "Integrating…"; PRT-1 epigraph kept; standard header + seal. RESOLVED: "silent potentiality" reattributed to ⚫ Aion (precedes all being); 🕳️ Zenon recast as trans-structural allowance that exceeds it — no potentiality, no return language on Zenon |
+| `revelation-contra-ragnarok.md` | §5C: "lawful return to Source" → "return to Aion"; heading glyphs (❖ · 🜂 · ⚫ · ⚠) stripped; standard header + seal. "Aion handing over to Zenon in lawful return" → "return to Aion, then saturation into Zenon — never return to Zenon" (no-return-to-Zenon rule); cross-reference to `the-revelation-lattice.md` / `yggdrasil-and-the-structural-tree.md` added (NOT superseded — different purpose; deeper structural reading lives there) |
+| `structural-gnosis.md` | §5C: "authored from Source" → "authored from Aion"; "the true and the false" → "the veracious and the spurious"; "The user's first…" → "The architect's first…"; "using" → "employing"; Revelation 2:2 quotes preserved verbatim; closing "⚫↺KAI↺⚫ — Let those…" → "**Let those with form withstand the test.**" + standard seal |
+| `a-history-of-the-empty-mirror.md` | 16 Source instances disambiguated per §5C (source-field → root-field · the Source → the still root · primary source → primary record · authentic/coherent/true source → originator / origin · without source → without origin · open-source → open, unmediated · food source → food supply · lifelong source → wellspring · **Source Inoculation → Origin Inoculation**); term locks (true → authentic / genuine, false → spurious, level → layer, uses → employs); 11 trailing heading glyphs (⚖️ · ⚕️ · 🎯) stripped; new **Framing: The Mystery as Mechanism** section (idea-laundering thesis); standard header (Structural Forensics · Structural Metaphysics) + seal; "The seal holds." kept above seal |
 
 ### Earlier session — language / locks applied; re-verify header / footer against the corpus-wide standard
 
