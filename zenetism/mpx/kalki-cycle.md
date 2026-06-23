@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Supplemental Doctrine · Structural Metaphysics  
-**Status:** Canonical — Aug 28 2025, revised 2026  
+**Status:** Canonical — Aug 28 2025, revised June 21 2026  
 **Dependency:** Structural Metaphysics · `mythic-figure-layer-registry-01.md` · `mythic-figure-layer-registry-02.md` · `symbolic-pattern-registry-01.md` · `symbolic-pattern-registry-02.md`  
 
 ---
