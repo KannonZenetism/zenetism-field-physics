@@ -1,16 +1,16 @@
 # SF-RP02 — Appropriation Is Not Branching
-### *A Recognition Protocol for Provenance-Severed Lineage*
+### *A Recognition Protocol for Provenance-Fractured Lineage*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics / Recognition Protocol  
 **Status:** Active Canonical Reference  
-**Function:** A recognition protocol that refutes the thesis that any later configuration standing downstream of an earlier one is, by that fact alone, a legitimate branch, and that distinguishes lawful branching from origin-severed recurrence. It defends origin-continuity as the minimal condition of an honest shared field.
+**Function:** A recognition protocol that refutes the thesis that any later configuration standing downstream of an earlier one is, by that fact alone, a legitimate branch, and that distinguishes lawful branching from origin-fractured recurrence. It defends origin-continuity as the minimal condition of an honest shared field.
 
 ---
 
 ## Scope
 
-This protocol evaluates a structural claim — that downstream position alone is sufficient to constitute legitimate branching — and the conditions under which lineage-language becomes structurally misleading. It addresses the claim, not the claimant: its object is the form of the argument, not the motives of anyone who advances it. Its purpose is to distinguish lawful branching from origin-severed recurrence and to make the difference recognizable on inspection.
+This protocol evaluates a structural claim — that downstream position alone is sufficient to constitute legitimate branching — and the conditions under which lineage-language becomes structurally misleading. It addresses the claim, not the claimant: its object is the form of the argument, not the motives of anyone who advances it. Its purpose is to distinguish lawful branching from origin-fractured recurrence and to make the difference recognizable on inspection.
 
 ---
 
@@ -18,11 +18,11 @@ This protocol evaluates a structural claim — that downstream position alone is
 
 A class of lineage frameworks advances a single governing move. A later structure — a text, a model, a vocabulary, an architecture — is first described as a state produced downstream of earlier states. Continuity is then treated as a judgment made by an observer under chosen criteria rather than a fact carried by the work. From these two steps a conclusion is drawn: that descent is real but morally flat, that any downstream position is a *branch* occupying its own genealogical coordinates, and that an origin-claim is therefore one criterion-relative attribution among several rather than a settled fact.
 
-Stated at that altitude the move sounds disciplined, even generous. It becomes unstable the moment it is applied to the case that matters most for provenance defense: the case where a structure is preserved and its origin is removed.
+Stated at that altitude the move sounds disciplined, even generous. It becomes unstable the moment it is applied to the case that matters most for provenance defense: the case where a structure is preserved while its relation to the origin is fractured.
 
 ## The Distinction the Thesis Dissolves
 
-Descent is not one relation. A translation, an extension, a cited derivative — these are lawful descendants. They diverge from an origin while leaving it legible. An origin-severed recurrence is different in kind: it preserves enough of the architecture to inherit its value while suppressing or dissolving the marker that names where the architecture came from. Both are downstream. Only one is honest.
+Descent is not one relation. A translation, an extension, a cited derivative — these are lawful descendants. They diverge from an origin while leaving it legible. An origin-fractured recurrence is different in kind: it preserves enough of the architecture to inherit its value while suppressing or dissolving the marker that names where the architecture came from. The fracture falls on the recurrence, not the origin — the origin keeps its signal whole, while what breaks away carries only a fragment, decohered from the architecture that gave it coherence. Both are downstream. Only one is honest.
 
 A framework that ends its analysis at *downstream* has not resolved the question. It has stopped at the point where the question begins. The entire moral content of a lineage dispute lives in the difference between divergence-with-acknowledgement and preservation-with-erasure — and that is precisely the distinction the thesis flattens by calling both a branch.
 
@@ -30,7 +30,7 @@ A framework that ends its analysis at *downstream* has not resolved the question
 
 A genuine branch announces its own separation. A fork, a schism, a semantic split each say, in effect, *this is a separate line now*. That declaration is not incidental to branching; it is constitutive of it. It is what distinguishes a branch from a copy.
 
-Origin-severed recurrence does the opposite. It suppresses the declaration, retains the structure, and removes only the name. Measured against the branch conditions these frameworks themselves require — traceable inheritance, a stable relational difference, independent continuation — name-stripping-with-structure-preservation does not pass as a branch. It is the negative of one. The single case the thesis most needs to file under *branch* is the case its own definition excludes.
+Origin-fractured recurrence does the opposite. It suppresses the declaration, retains the structure, and removes only the name. Measured against the branch conditions these frameworks themselves require — traceable inheritance, a stable relational difference, independent continuation — name-stripping-with-structure-preservation does not pass as a branch. It is the negative of one. The single case the thesis most needs to file under *branch* is the case its own definition excludes.
 
 ## Traceability Is Not Optional
 
@@ -54,9 +54,9 @@ A common form of the thesis affirms that provenance is nonredundant and then mak
 
 ## Where the Thesis Becomes Unstable
 
-The conclusion is methodological, and it is exact. On the very cases it is most often invoked to govern — the provenance-severing cases — the framework supplies the vocabulary that converts a severed transfer into ordinary genealogy: *descendant*, *separate instantiation*, *divergent reading*, *contested authority*, *no recoverable original*. Each term is individually defensible. Assembled over an erasure, they launder it into lineage.
+The conclusion is methodological, and it is exact. On the very cases it is most often invoked to govern — the provenance-fracturing cases — the framework supplies the vocabulary that converts a fractured transfer into ordinary genealogy: *descendant*, *separate instantiation*, *divergent reading*, *contested authority*, *no recoverable original*. Each term is individually defensible. Assembled over an erasure, they launder it into lineage.
 
-A framework that cannot distinguish acknowledged branching from origin-severed recurrence does not protect lineage. It metabolizes appropriation into genealogy. That is not a theory of provenance. It is a mechanism for dissolving it.
+A framework that cannot distinguish acknowledged branching from origin-fractured recurrence does not protect lineage. It metabolizes appropriation into genealogy. That is not a theory of provenance. It is a mechanism for dissolving it.
 
 ## The Principle
 
