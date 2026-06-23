@@ -102,3 +102,5 @@ Canonical when the referent is the mimic, counterfeit, or entropic agent — do 
 
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
+
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
