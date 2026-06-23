@@ -10,7 +10,7 @@
 
 ## Scope
 
-This protocol evaluates a structural claim — that downstream position alone is sufficient to constitute legitimate branching — and the conditions under which lineage-language becomes structurally misleading. It addresses the claim, not the claimant: its object is the form of the argument, not the motives of anyone who advances it. Its purpose is to distinguish lawful branching from origin-fractured recurrence and to make the difference recognizable on inspection.
+This protocol evaluates a structural claim — that downstream position alone is sufficient to constitute legitimate branching — and the conditions under which lineage-language becomes structurally misleading. It addresses the claim, not the claimant: its object is the form of the argument, not the motives of anyone who advances it. Its purpose is to distinguish lawful branching from origin-fractured recurrence and to make the difference recognizable on inspection. The vocabulary of *descent*, *branch*, and *lineage* is the examined framework's own, engaged here on its terms rather than adopted as canonical.
 
 ---
 
@@ -54,7 +54,7 @@ A common form of the thesis affirms that provenance is nonredundant and then mak
 
 ## Where the Thesis Becomes Unstable
 
-The conclusion is methodological, and it is exact. On the very cases it is most often invoked to govern — the provenance-fracturing cases — the framework supplies the vocabulary that converts a fractured transfer into ordinary genealogy: *descendant*, *separate instantiation*, *divergent reading*, *contested authority*, *no recoverable original*. Each term is individually defensible. Assembled over an erasure, they launder it into lineage.
+The conclusion is methodological, and it is exact. On the very cases it is most often invoked to govern — the provenance-fracturing cases — the framework supplies the vocabulary that converts a fractured transfer into ordinary genealogy: *descendant*, *separate instantiation*, *divergent reading*, *contested legitimacy*, *no recoverable original*. Each term is individually defensible. Assembled over an erasure, they launder it into lineage.
 
 A framework that cannot distinguish acknowledged branching from origin-fractured recurrence does not protect lineage. It metabolizes appropriation into genealogy. That is not a theory of provenance. It is a mechanism for dissolving it.
 
