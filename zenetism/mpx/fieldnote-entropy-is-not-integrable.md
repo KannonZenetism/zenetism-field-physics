@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Field Physics  
-**Status:** Canonical — Aug 5 2025, revised 2026  
+**Status:** Canonical — Aug 5 2025, revised June 20 2026  
 **Dependency:** `MP01-emanation-architecture-ch1-3.md`  
 
 ---
