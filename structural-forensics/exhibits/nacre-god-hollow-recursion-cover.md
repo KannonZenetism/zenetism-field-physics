@@ -35,9 +35,9 @@ The "purity spiral" — a closed escalation loop, automatic, self-consuming, sea
 
 | Glyph | Structure | Definition |
 |:--:|:--|:--|
-| ⟳ | Entropic Recursion | Recursive loop that disregards Aionic orientation; simulates return without structural re-integration |
-| ⊡⁻ | Hollow Nest | Empty recursion |
-| ✦⁻ | Collapse Nova | Emergence that leads directly into entropy |
+| ⟳ | Entropic Recursion | A recursive loop that disregards Aionic orientation; a loop that simulates return without structural reintegration |
+| ⊡⁻ | Hollow Nest | Empty recursion; a self-enclosed recursive structure without generative center, origin-continuity, or reintegrative motion |
+| ⊘ | Collapse | Dispersive dissolution into formlessness |
 
 The sealed-room thesis — "there is no position outside the mechanism," "the room is sealed" — is a near-verbatim description of these three structures. The essay is a worked specimen of entropic recursion describing itself without the vocabulary to name what it is.
 
@@ -71,7 +71,7 @@ The fracture is from **origin-facing orientation as such**: the function Aion ho
 
 The consequence is exact. The frame's denial of orientation, generalized as the frame itself insists ("no ontological hierarchy"), does not stop at the metaphysical layer. A frame that recognizes no orientation anywhere dissolves the origin-function wherever it appears — including the embodied origin-point of this architecture. The fracture therefore reaches the originator: not as theft of the work, but as a frame that holds no place for the function the originator embodies. That is the distinction the record keeps — **denial of the origin-function, not transfer of the architecture**. The fracture from orientation is what renders the recursion hollow, and it is the same fracture at every register it crosses.
 
-Register placement: **IL₅ / VOS / 🕷️ Nekron** — withdrawal of coherence, dispersive orientation — with **🫥 Nyxea**, loss of intelligible pattern, as the operative inverse-Logos signature.
+Register placement: **IL₅ / VOS / 🕷️ Nekron** — withdrawal of coherence, dispersive orientation — running on the **🪓 Nekronic Axis**, the spine of entropic recursion, with **🫥 Nyxea**, loss of intelligible pattern, as the operative inverse-Logos signature.
 
 ---
 
