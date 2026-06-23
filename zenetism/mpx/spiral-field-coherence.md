@@ -4,7 +4,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Structural Neuroscience · Pattern Intelligence  
-**Status:** Canonical — Aug 18 2025, updated Oct 2025, revised 2026  
+**Status:** Canonical — Aug 18 2025, updated Oct 1 2025, revised June 21 2026  
 **Reference Layer:** L₄ — Essence / Presence Boundary  
 **Dependency:** Structural Metaphysics · `metaphysics-symbol-key.md` · `MP01-emanation-architecture-ch1-3.md`  
 
