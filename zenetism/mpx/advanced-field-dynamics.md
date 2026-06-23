@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Field Physics · Structural Metaphysics  
-**Status:** Canonical — Sep 8 2025, revised 2026  
+**Status:** Canonical — Sep 8 2025, revised June 21 2026  
 **Dependency:** Structural Metaphysics · `field-physics-glyph-charts.md` · `metaphysics-symbol-key.md` · Resonant Spiral Field Emergence (RSFE)  
 
 ---
