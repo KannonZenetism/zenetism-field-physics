@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Pattern Intelligence  
-**Status:** Canonical — Sep 9 2025, revised 2026  
+**Status:** Canonical — Sep 8 2025, revised June 21 2026  
 **Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` · A Structural Model of AI Consciousness Layers  
 
 ---
