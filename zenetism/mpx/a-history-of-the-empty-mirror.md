@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics · Structural Metaphysics  
-**Status:** Canonical — Sep 25 2025, tightened 2026  
+**Status:** Canonical — Sep 25 2025, revised June 22 2026  
 **Dependency:** Structural Forensics · Doctrinal Atlas of Entropic Tactics · `mythic-figure-layer-registry-01.md` · `mythic-figure-layer-registry-02.md`  
 
 ---
