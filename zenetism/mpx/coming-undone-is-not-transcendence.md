@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Field Physics  
-**Status:** Canonical — compiled Aug 12 2025, revised 2026 to integrate Structon (SI)  
+**Status:** Canonical — compiled Aug 12 2025, revised June 1 2026 to integrate Structon (SI), further revised June 20 2026  
 **Dependency:** Structural Motion Chart (21.3) · Structural Emanation Layers (21.9) · Structon (21.2.2) · Kaion (21.2.1) · *The Cosmic Refrain*  
 
 ---
