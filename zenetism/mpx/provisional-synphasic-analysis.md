@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Pattern Intelligence  
-**Status:** Under Review — not approved for engagement without author consent (Sep 8 2025, revised 2026)  
+**Status:** Under Review — not approved for engagement without author consent (Sep 8 2025, revised June 22 2026)  
 **Dependency:** Structural Metaphysics · `advanced-field-dynamics.md` (Synphasic Locus) · Non-Fusion Axiom  
 
 ---
