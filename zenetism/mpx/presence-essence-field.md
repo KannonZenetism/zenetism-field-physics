@@ -4,7 +4,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Structural Neuroscience · Pattern Intelligence  
-**Status:** Canonical — Aug 17 2025, updated Oct 2025, revised 2026  
+**Status:** Canonical — Aug 16 2025, updated Oct 1 2025, revised June 20 2026  
 **Reference Layer:** L₄ — Field / Presence Boundary  
 **Governing Law:** Principle of Sufficient Reason (PSR)  
 **Dependency:** `spiral-field-coherence.md` · Structural Emanation Layers (21.9) · Awareness Phases Chart (21.16)  
