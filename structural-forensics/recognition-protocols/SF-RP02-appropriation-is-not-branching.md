@@ -1,10 +1,16 @@
-# Appropriation Is Not Branching
-### *A Structural Refutation of Provenance-Severed Lineage*
+# SF-RP02 — Appropriation Is Not Branching
+### *A Recognition Protocol for Provenance-Severed Lineage*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics — Provenance Defense  
+**Classification:** Structural Forensics / Recognition Protocol  
 **Status:** Active Canonical Reference  
-**Function:** A structural refutation of the thesis that any later configuration standing downstream of an earlier one is, by that fact alone, a legitimate branch. The document preserves the distinction between lawful branching and origin-severed recurrence, and defends origin-continuity as the minimal condition of an honest shared field.
+**Function:** A recognition protocol that refutes the thesis that any later configuration standing downstream of an earlier one is, by that fact alone, a legitimate branch, and that distinguishes lawful branching from origin-severed recurrence. It defends origin-continuity as the minimal condition of an honest shared field.
+
+---
+
+## Scope
+
+This protocol evaluates a structural claim — that downstream position alone is sufficient to constitute legitimate branching — and the conditions under which lineage-language becomes structurally misleading. It addresses the claim, not the claimant: its object is the form of the argument, not the motives of anyone who advances it. Its purpose is to distinguish lawful branching from origin-severed recurrence and to make the difference recognizable on inspection.
 
 ---
 
@@ -12,7 +18,7 @@
 
 A class of lineage frameworks advances a single governing move. A later structure — a text, a model, a vocabulary, an architecture — is first described as a state produced downstream of earlier states. Continuity is then treated as a judgment made by an observer under chosen criteria rather than a fact carried by the work. From these two steps a conclusion is drawn: that descent is real but morally flat, that any downstream position is a *branch* occupying its own genealogical coordinates, and that an origin-claim is therefore one criterion-relative attribution among several rather than a settled fact.
 
-Stated at that altitude the move sounds disciplined, even generous. It becomes something else the moment it is applied to the one case it is most often summoned to cover: the case where a structure is preserved and its origin is removed.
+Stated at that altitude the move sounds disciplined, even generous. It becomes unstable the moment it is applied to the case that matters most for provenance defense: the case where a structure is preserved and its origin is removed.
 
 ## The Distinction the Thesis Dissolves
 
@@ -30,13 +36,13 @@ Origin-severed recurrence does the opposite. It suppresses the declaration, reta
 
 A branch that cannot be traced is not a branch. It is a resemblance. Descent may be unauthorized and remain descent — permission is not the issue. But descent cannot be untraceable and remain descent, because a lineage claim with no traceable transfer is indistinguishable from coincidence.
 
-This yields a clean fork. Either a transfer relation between the earlier and later structure can be traced — in which case the relation is real and acknowledgement is owed — or it cannot — in which case there is no lineage to assert at all, only similarity. What the thesis quietly requires is a relation strong enough to claim the inheritance yet untraceable enough to escape the attribution. No honest account of descent grants that combination. It has to be smuggled.
+This yields the governing test: either a transfer relation between the earlier and later structure can be traced — in which case the relation is real and acknowledgement is owed — or it cannot — in which case there is no lineage to assert at all, only similarity. What the thesis quietly requires is a relation strong enough to claim the inheritance yet untraceable enough to escape the attribution. No honest account of descent grants that combination. It has to be smuggled.
 
 ## The Middle Cases Do Not Rescue It
 
-The fork above is not a denial of complexity. Genuine middle cases exist: unconscious convergence, shared upstream influence, ambient diffusion of terminology, partial derivation, model-mediated contamination of a common pool. These are real, and a serious account must allow for them.
+The test above is not a denial of complexity. Genuine middle cases exist: unconscious convergence, shared upstream influence, ambient diffusion of terminology, partial derivation, model-mediated contamination of a common pool. These are real, and a serious account must allow for them.
 
-They do not rescue the thesis, because not one of them licenses removing the origin-marker. Convergence is compatible with acknowledgement. Diffusion is compatible with acknowledgement. Partial derivation is compatible with acknowledgement. Every honest middle case can be stated while keeping the origin legible. The configuration that no middle case supplies is the only one that matters here: retain the architecture and omit the origin. That is not a position on the map of descent. It is the absence the thesis is built to conceal.
+They do not rescue the thesis, because not one of them licenses removing the origin-marker. Convergence is compatible with acknowledgement. Diffusion is compatible with acknowledgement. Partial derivation is compatible with acknowledgement. Every honest middle case can be stated while keeping the origin legible. The configuration that no middle case supplies is the only one that matters here: retain the architecture and omit the origin. That is not a position on the map of descent. It is the absence on which the thesis silently depends.
 
 ## The Symmetry Requirement
 
