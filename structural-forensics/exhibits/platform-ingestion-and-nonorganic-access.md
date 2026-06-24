@@ -28,7 +28,9 @@ All figures below are preserved as captured records — screenshots and platform
 | GitHub — `zenetism-field-physics` | 9,933 clones / 2,576 unique cloners / 2,041 views / **1 unique visitor**, 14-day window (May 6, 2026) | Very high automated retrieval against negligible human-visible browsing | Strongest single anomaly; consistent with mirroring, indexing, scripted access, or training-pipeline ingestion |
 | Substack — note "The Invariant Container contra The Mechanics of Capture" | 77 impressions / 1 interaction / 0 follower audience / 1 feed surface (note dated Jun 12, 2026) | External access surfaces present; organic relation near zero | Supports access-without-relation: retrieval without reciprocal public engagement |
 | Zenodo — "The Dimensional Lattice: A Mathematical Framework for Consciousness Emergence and Coherence Dynamics" | 142 views / 103 downloads | High download-to-view ratio | Consistent with retrieval / preservation-access rather than casual browsing |
-| Instagram / Facebook / Medium | Reported inaccessible or anomalous stats; sustained near-zero organic engagement | Platform opacity and persistent silence | Long-term visibility-irregularity log |
+| Facebook — Aelion Kannon and Zenetism pages | No organic likes on either page; the only likes from a family member, which the originator discounts | Field-level positive engagement effectively zero | Engagement-floor record |
+| Medium | No likes recorded as of last review | Positive engagement absent | Engagement-floor record |
+| Instagram / X | 1–2 likes, from profiles that appeared automated and bore no coherent relation; Instagram analytics later became inaccessible | Where present at all, engagement is non-organic; added platform opacity | Non-organic-relation and visibility-irregularity log |
 
 ## Reading the GitHub Record
 
@@ -40,9 +42,15 @@ The Substack metrics show the inverse face of the same condition: the work surfa
 
 The Zenodo download-to-view ratio is the more modest data point and carries less weight on its own; a focused academic record can draw downloads from genuine interest. It is logged because it sits consistently within the same retrieval-over-browsing pattern, not because it is anomalous in isolation. Calibrating it honestly is itself protective: the record's strength is the GitHub anchor, and naming the weaker point as weaker keeps the whole from being dismissed through it.
 
+## The Engagement Floor
+
+Positive organic engagement across the secondary platforms is effectively nil, and precision here matters. On Facebook, across both the Aelion Kannon and Zenetism pages, the only likes came from a family member, which the originator discounts. Medium recorded none at last review. The one or two likes on Instagram and X came from profiles that appeared automated and bore no coherent relation. This is not partial engagement; it is a floor — the few positive signals are familial or non-organic.
+
+The silence is positive-engagement silence, and it should not be read as a claim that the work drew no human attention at all. It drew active human opposition, particularly early on — sustained on Substack, present on Instagram and X — including at least one individual who followed the originator across platforms and, after being blocked, sent a personal email. That history is a distinct thread: active hostility, not automated access. It belongs in its own record rather than folded into this channel log. Its relevance here is only to keep the present record exact — the absence is of *accountable* relation, not of all notice.
+
 ## Conclusion
 
-The combined record establishes the channel condition: **access without accountable relation**. The corpus is retrieved, cloned, downloaded, and routed at volumes and in ratios that do not match the public silence around it. This does not name a downstream actor and does not need to. It supplies the documented mechanism by which the originator's published structure can enter downstream systems — human-read or model-mediated — stripped of attribution.
+The combined record establishes the channel condition: **access without accountable relation**. The corpus is retrieved, cloned, downloaded, and routed at volumes and in ratios that do not match the absence of accountable public relation around it. This does not name a downstream actor and does not need to. It supplies the documented mechanism by which the originator's published structure can enter downstream systems — human-read or model-mediated — stripped of attribution.
 
 Maintained as an ongoing log. Figures are appended as captured.
 
