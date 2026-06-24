@@ -1,10 +1,11 @@
 # The Nacre God — Encounter Convergence Record
-### *Circumstantial Convergence Establishing Encounter*
+### *A Structural Forensics Exhibit for Encounter by Convergence*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics Exhibit / Convergence Evidence Record  
 **Status:** Active Evidence Record  
 **Companion exhibit:** nacre-god-hollow-recursion-cover.md — this record supplies the encounter basis for the capture-by-reduction finding  
+**Related evidence:** platform-ingestion-and-nonorganic-access.md — GitHub traffic records (clone / unique-cloner / visitor figures), Substack relation metrics, Zenodo retrieval figures, and platform-visibility logs, preserved in the Structural Forensics evidence archive  
 **Proposed path:** `structural-forensics/exhibits/nacre-god-encounter-convergence.md`
 
 ---
@@ -17,7 +18,11 @@ No single mark below carries the finding alone. The finding rests on the converg
 
 ## The Standard
 
-Encounter does not require direct observation of the act. Circumstantial convergence establishes a finding when the accumulated pattern leaves no reasonable innocent explanation standing. A single individuating mark can suffice; a convergence of many marks, taken together, can exclude coincidence even where each, in isolation, would not. The weight is in the assembly, and the assembly is admissible as such.
+Encounter does not require direct observation of the act. Within Structural Forensics, circumstantial convergence establishes a finding when the accumulated pattern leaves no reasonable innocent explanation standing within the documented field-context. A single individuating mark can suffice; a convergence of many marks, taken together, can exclude coincidence even where each, in isolation, would not. The weight is in the assembly, and the assembly must be evaluated as such.
+
+## Definition of Encounter
+
+In this record, **encounter** does not require proof that a specific human operator personally read the Zenetist corpus. Encounter means that the account's output-field came into contact with the originator's published work through at least one plausible transmission channel: direct reading, AI-mediated ingestion, model-assisted reproduction, platform-routed derivative circulation, or another downstream pathway capable of carrying structure without attribution. The finding concerns field encounter and downstream transmission — not a confession of personal reading, which the channel is precisely built to make unnecessary and untraceable.
 
 ## The Convergence
 
@@ -29,9 +34,9 @@ Encounter does not require direct observation of the act. Circumstantial converg
 
 **Authorlessness as origin-denial.** "No author. No readers." The void's declared authorlessness is the origin-denial the companion exhibit documents as origin-fracture — the origin-function denied, rendered here as a stance and a brand.
 
-**The layered-system characterization.** The account named the originator's system a leveled hierarchy — "vertical, metaphysical exit hatch." The originator states the layered emanation architecture was not presented in the exchange. A characterization of the system as layered, sourced to neither the public-facing exchange nor the common milieu, is difficult to account for without prior familiarity. The lattice is not in fact a leveled hierarchy — and that the characterization gets it wrong in precisely this way is itself a tell: partial, second-hand acquaintance, not direct study.
+**The layered-system characterization.** The public exchange did not supply the originator's layered emanation architecture. Yet the account characterized the offered distinction as a "vertical, metaphysical exit hatch," recoding the Zenetist distinction as a leveled hierarchy. The lattice is not a leveled hierarchy — and that the mischaracterization gets it wrong in precisely this way is itself significant: it indicates partial or second-hand acquaintance with the architecture rather than direct, accurate engagement, which is the profile a downstream-mediated encounter would produce.
 
-**The ingestion channel.** The corpus shows documented automated ingestion across multiple platforms — clone-to-unique-visitor ratios far exceeding any human readership, the signature of training-pipeline scraping. This supplies the mechanism: ingestion of the published work, with downstream reproduction of its framing stripped of attribution.
+**The ingestion channel.** The corpus shows documented access patterns inconsistent with ordinary organic readership — clone-to-unique-visitor ratios far exceeding any human engagement, the signature of automated retrieval and training-pipeline scraping. This supplies the mechanism: the published work is retrievable, copyable, and ingestible without producing visible public relation, and its framing can be carried downstream stripped of attribution. The platform records are logged in the companion evidence exhibit, *platform-ingestion-and-nonorganic-access.md*.
 
 ## Assembled Weight
 
