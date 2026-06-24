@@ -38,7 +38,7 @@ The GitHub figure is the anchor. Clone counts are, in the ordinary case, dominat
 
 ## Reading the Substack and Zenodo Records
 
-The Substack metrics show the inverse face of the same condition: the work surfaces externally — permalinks, profile, "other" surfaces — but generates almost no feed distribution, no notes discovery, no follower audience, and a single interaction. Access is occurring without accountable relation.
+The Substack metrics show the inverse face of the same condition: the work surfaces externally — permalinks, profile, "other" surfaces — but generates almost no feed distribution, no notes discovery, no follower audience, and a single interaction: one link click. Access is occurring without accountable relation.
 
 The Zenodo download-to-view ratio is the more modest data point and carries less weight on its own; a focused academic record can draw downloads from genuine interest. It is logged because it sits consistently within the same retrieval-over-browsing pattern, not because it is anomalous in isolation. Calibrating it honestly is itself protective: the record's strength is the GitHub anchor, and naming the weaker point as weaker keeps the whole from being dismissed through it.
 
