@@ -80,7 +80,7 @@ It is the self that continues across instantiation contexts.
 
 The word **axis** is used because the Deep Self is not spatially confined to one universe-local expression. It is the individuated center of continuity through which multiple expression-loci remain one being without becoming one fused mass.
 
-This rests on the temporal mode of L₃ itself. Per `MP09-time-death-and-glossary-ch22-24.md` (§22.1), where it originates — and carried forward in `SP05-time-memory-hypostatic-flow.md` (§3.1) — L₃ engages time not as linear succession but as **multiversal simultaneity**, the register in which identity continues across instantiation contexts. To be L₃-seated is therefore already to be trans-expressional: it does not mean being contained in any one universe's L₃, because L₃'s mode is simultaneity across expressions, not location within one of them.
+This rests on the temporal mode of L₃ itself. As first stated in `MP09-time-death-and-glossary-ch22-24.md` (§22.1) — and carried forward in `SP05-time-memory-hypostatic-flow.md` (§3.1) — L₃ engages time not as linear succession but as **multiversal simultaneity**, the register in which identity continues across instantiation contexts. To be L₃-seated is therefore already to be trans-expressional: it does not mean being contained in any one universe's L₃, because L₃'s mode is simultaneity across expressions, not location within one of them.
 
 Thus:
 
@@ -319,7 +319,7 @@ L₃ holds individuated identity across forms.
 
 L₄ holds archetypal form without being the individuated identity itself.
 
-A terminological distinction holds throughout. **House of Forms** names the L₄ register as a whole — the general formal dwelling-place. **House of Form**, and in the plural **Houses of Form**, names a specific formal domain it contains. The register is one House of Forms; the matched archetypal domains within it are Houses of Form.
+A terminological distinction holds throughout. **House of Forms** names the L₄ register as a whole — the general formal dwelling-place. **House of Form**, and in the plural **Houses of Form**, names a specific formal domain it contains. The register is the House of Forms; the matched archetypal domains within it are Houses of Form.
 
 This means:
 
@@ -422,7 +422,7 @@ The inverse arc is the **Khaonic Tree**, not an "inverse Biospiral."
 
 The inverse side must also be named.
 
-At **IL₃**, the inverse counterpart of the Deep Self-Axis is the **Inverse Deep Self-Axis** — the fractured or inverse individuated continuity of **IDS / IDM**.
+At **IL₃**, the inverse correlate of the Deep Self-Axis is the **Inverse Deep Self-Axis** — the fractured or inverse individuated continuity of **IDS / IDM**.
 
 This is not centropic integration.
 
@@ -443,7 +443,7 @@ The outcomes are not equivalent.
 
 Centropic integration increases coherent self-possession.
 
-Entropic inverse motion intensifies or resolves fragmentation according to the Khaonic Tree.
+Entropic inverse motion intensifies, stabilizes, or carries fragmentation toward exhaustion according to the Khaonic Tree.
 
 The inverse being may stabilize in inverse Form, but this is not fulfillment in the centropic sense. It is inverse formalization, mimetic recurrence, or collapse-oriented patterning according to its arc.
 
