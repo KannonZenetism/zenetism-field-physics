@@ -48,7 +48,7 @@ While the stated goal of Entropic Drift is to spread, dominate, and multiply, th
 
 Drift allows for a prolonged suspension in L₂ / IL₂ (SS / SM; ISS / ISM). This is not punishment, but a delay in momentum — a space where the soul is neither returning nor fully fragmenting, held in the gravity of its own indecision.
 
-📉🎏🌓
+🌒 🕊️ ⚖
 
 ---
 
