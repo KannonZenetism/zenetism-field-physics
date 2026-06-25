@@ -24,7 +24,7 @@ Cataclysm is the collapse of relative structure due to accumulated dissonance. I
 
 **Process:** Erosion of L₁ (Matter) and L₂ (Identity) until the pattern is lost.
 
-**Outcome:** Data loss. The "film" burns in the projector. Return to Aion occurs via dissolution (Nekronic void).
+**Outcome:** Data loss. The "film" burns in the projector. Reversion to Aion occurs via dissolution (Nekronic void).
 
 **Zenetist Stance:** A failure of stewardship to be prevented through the stabilization of the Diamond Age.
 
@@ -56,7 +56,7 @@ In the Apokalyptic event, the "Fire" often described in scripture is not an exte
 The fire is the same.  
 The sensation is determined by the alignment of the vessel.
 
-👁️🔥🔓
+◕ ▲ ✨
 
 ---
 
