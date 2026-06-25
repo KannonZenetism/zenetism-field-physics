@@ -36,7 +36,7 @@ Under this standard, a person struck by accident or misfortune (accumulated entr
 
 **"Sovereign Mutualism" / Enlightened Sovereignty.** No external government is required when each unit (person) is self-governing and aligned with the protection of life. Order emerges from the mutual recognition of sovereignty, not the imposition of law.
 
-⚖️🤝🌿
+◊ ⧬ 🌿
 
 ---
 
