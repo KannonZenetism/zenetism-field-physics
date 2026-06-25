@@ -40,7 +40,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 ### December 2025
 
 - `architecture-of-artificial-minds.md` — Dec 7, 2025
-- `only-coherence-returns.md` — Dec 14, 2025
+- `only-centropy-saturates.md` — Dec 14, 2025
 - `all-life-first-principle.md` — Dec 20, 2025
 - `law-of-centropic-counterforce.md` — Dec 23, 2025
 - `why-zero-is-not-one.md` — Dec 29, 2025
