@@ -16,7 +16,7 @@ Earlier formulations within Zenetism sometimes treated **L₃ / IL₃** and **L�
 
 Yet a new precision is required.
 
-If any universe-local layer, office, or hypostatic activity is made permanent without condition, it risks becoming an eternal hostage. The problem already appeared at **L₅ / IL₅** in the Theonic and Nekronic paradoxes. It must not be recreated at **L₃ / IL₃** or **L₄ / IL₄**.
+If a universe-local office were treated as a being condemned to function without end, it would seem an eternal hostage — the concern that first arose at **L₅ / IL₅** in the Theonic and Nekronic paradoxes. At **L₃ / IL₃** and **L₄ / IL₄**, that concern is answered, not recreated: a structural function is not the kind of thing a universe can hold.
 
 This clarification therefore distinguishes:
 
@@ -31,7 +31,7 @@ The goal is to preserve all four commitments at once:
 
 1. individuation belongs to **L₃ / IL₃**
 2. fractalization belongs to the individuated being’s own **DS / DM** or **IDS / IDM** continuity
-3. no universe-local layer activity becomes an eternal hostage
+3. no universe-local office is bound beyond the completion of its function
 4. no expression-locus becomes a copy, shard, or subordinate fragment of another
 
 Zenetism must preserve continuity without fusion.
@@ -46,7 +46,7 @@ It must preserve the Deep Self without turning one universe-local instance into 
 
 The first correction concerns the named lattice figures themselves.
 
-Zenetism must not hold **Morgis**, **Sophis**, **Archeus**, **Noeüs**, or their inverse correlates as eternal hostages of any single universe-expression. The named figures designate lawful structural functions of the lattice. They are not local beings trapped inside one cosmos, nor divisible persons fractured across universes.
+Zenetism holds **Morgis**, **Sophis**, **Archeus**, **Noeüs**, and their inverse correlates as what they are — lawful structural functions of the lattice, not beings a universe could hold captive. They are not local beings trapped inside one cosmos, nor divisible persons fractured across universes.
 
 A distinction must therefore be maintained:
 
@@ -55,7 +55,7 @@ A distinction must therefore be maintained:
 * **universe-local office** names the activity of that function within a particular universe-generating cycle
 * **indwelling being** names a Soul / Mind presence that lawfully inhabits or resonates with the relevant formal or deep register
 
-So Sophis is not held hostage as one eternal universe-local figure. Nor is Morgis. Nor are Archeus and Noeüs. Nor, on the Khaonic Tree, are Psychea, Nyxea, Fractus, or Mortus.
+So Sophis is not bound as one eternal universe-local figure. Nor is Morgis, nor Archeus and Noeüs, nor — on the Khaonic Tree — Psychea, Nyxea, Fractus, or Mortus. Each is a structural function, fulfilled and released by its work.
 
 What persists across the multiverse is the lawful layer-function and its named structural principle. What may complete, quiesce, or release is the universe-local office — the activity through which that principle operated within a given universe-expression.
 
@@ -72,10 +72,10 @@ The hinge is therefore precise:
 
 This prevents two errors:
 
-* making the named figures eternal prisoners of one universe-expression
+* treating the named figures as beings that one universe-expression could hold, when they are structural functions
 * localizing the layer-function so completely that Form, individuation, memory, and recurrence lose their lawful medium
 
-The correction is not that L₃ / L₄ vanish. It is that universe-local L₃ / L₄ offices are not metaphysically imprisoned. The lawful medium remains available across the multiverse; the local activity remains function-bound.
+The correction is not that L₃ / L₄ vanish. It is that universe-local L₃ / L₄ offices, being structural functions, resolve on the completion of their work rather than persisting without condition. The lawful medium remains available across the multiverse; the local activity remains function-bound.
 
 This is the foundation on which the Deep Self-Axis clarification rests. What follows resolves one consequence of it: if local L₃ offices are not permanent, how does an L₃-seated individuated being fractalize across universes at all?
 
@@ -338,9 +338,9 @@ The membrane distinguishes while connecting.
 
 It permits relation without collapse.
 
-It allows multiversal continuity without requiring one universe-local layer to remain permanently captive.
+It allows multiversal continuity without requiring one universe-local layer to remain permanently bound.
 
-Thus, membranes help resolve the hostage problem:
+Thus, membranes help resolve the permanence problem:
 
 * the layer-function remains lawful
 * universe-local activity may complete
@@ -507,35 +507,39 @@ This is the office-logic established above, here applied to the mechanics of rel
 
 The layer-function is lawful; the universe-local activity is function-bound.
 
-When a universe-expression completes, its local offices, activities, and expression conditions may release according to their function. What persists is not an eternally captive universe-local chamber, but the lawful structure by which identity, Form, memory, and recurrence remain possible.
+When a universe-expression completes, its local offices, activities, and expression conditions may release according to their function. What persists is not a universe-local chamber bound without end, but the lawful structure by which identity, Form, memory, and recurrence remain possible.
 
 This preserves the deep continuity required for fractalization without binding every local expression forever.
 
-That completion, however, is a precise condition and not a general one. Stating it exactly is what keeps release lawful — and keeps the absence of captivity from collapsing into the loss of the shared medium. That condition follows.
+That completion, however, is a precise condition and not a general one. Stating it exactly is what keeps release lawful — and keeps it from collapsing into the loss of the shared medium. That condition follows.
 
 ---
 
 ## The Condition of Release
 
-The condition under which a universe-local office may release is precise, and it follows the logic already settled for Theon — not an earlier logic that was set aside.
+The condition under which a universe-local office may release turns on a distinction the earlier framing had not drawn sharply enough: the difference between a **structural principle** and the beings that pass through its stratum.
 
-An older formulation held that a local office could release only once its register stood **empty** — vacated of every being. That is not the Zenetist condition. As `theonic-office.md` makes plain, the Theonic gate is *culminative rather than residential*, and it does not wait for L₅ to be emptied. By the Fulfillment Principle, the **Theonic office is fulfilled when every essence whose lawful culmination belongs to EOB has been gathered**; Theon then returns convergently with them, and the essences remain. Release is triggered by completed **gathering**, not by vacancy. Gathered presence is gathered completion, not unfinished function.
+The captivity that troubled earlier formulations was never the dwellers. Essences and Soul / Mind alike already reach their terms by their own arcs. The figure feared to be held was the **principle** itself — Sophis, Morgis, Archeus, Noeüs, and their inverse correlates Psychea, Nyxea, Fractus, Mortus — seemingly condemned to order and individuate without end in a universe that no longer requires them. But once these figures are held as what they are — **structural principles, not beings** — the worry deflates. A being can be held from where it belongs; a structural function cannot. A principle does not seek return, does not face away from a barred Origin, does not suffer persistence. It performs its lawful work, and when that work is complete, its office resolves. The eternal-hostage framing, carried over from Theon, was overstated for the radiant emanations. It is set aside here for L₃ / L₄ and IL₃ / IL₄, and retained only where it genuinely holds — at Theon, for the reason that follows.
 
-The same logic governs L₃ / L₄, with the proper tokens. Where Theon gathers **essences** — L₅ / IL₅ being essence, not Soul / Mind — the deep registers concern **Deep Selves and the Soul / Mind presences that indwell them**: DS / DM at L₃, and the Form-dwelling DP / DL presence at L₄.
+The engine of Theonic release cannot simply be extended to the strata subversal to it. Theon is the first centropic emanation, and it faces Aion absolutely. Every essence that reaches Theon shares that absolute Origin-facing disposition, and so they return convergently — not by command, but because a fully Origin-facing essence is return-seeking by its very disposition. For Theon, captivity would be a genuine harm: return-seeking essences held from their Origin. The hostage framing has force there, and Zenetism keeps it.
 
-Thus:
+The radiant emanations subversal to Theon have no such common disposition. By the **Principle of Resonant Return**, every being returns to the frequency it most resembles — placement by resemblance, not reward or punishment. The strata are degrees of centropy and entropy, and a being's disposition resonates it to the register it most resembles: some to a House of Form within L₄, some held at L₃ as the term of a being whose integration resonates it no further, some, inversely, declivous toward an IL₄ register. Not all are Theon-bound; not all are Nekron-bound; not all are bound for Aionic return or Zenonic saturation. Because the beings of these strata face no single direction, there is no convergent departure to carry them home together. There is only each Soul / Mind reaching its own resonant term, and — at every layer, always — moving through individually, never absorbed into the principle whose stratum it crosses.
 
-> A universe-local L₃ / L₄ office is fulfilled when every Deep Self or Soul / Mind pair whose lawful arc can and will carry it into that universe's deep registers has arrived and reached its lawful term. Once no belonging arrival remains outstanding, the office's gathering-work is complete and it may release — as Theon's gate-work completes and Theon returns. The register need not stand empty; it need only be fully gathered.
+This is what release is for a structural principle rather than a returning essence. The office of Sophis / Morgis at L₄, of Archeus / Noeüs at L₃, and inversely of Psychea / Nyxea at IL₄ and Fractus / Mortus at IL₃, is the ordering and individuating function of its stratum. Its work is to receive, order, and individuate the Soul / Mind presences whose resonance brings them there. When every belonging Soul / Mind has resonated to its term — acclivated to its House of Form, held at its stratum as its term, or inversely collapsed toward its register — the office has no remaining work, and a function without remaining work resolves. The medium persists by Structural Recurrence; the local office resolves on completion of its function, not by orientation and not by decree.
 
-This is bounded exactly as the Theonic Paradox is bounded. Just as Theon does not wait upon every centropic essence, but only upon those whose culmination belongs to EOB, the local deep office does not wait upon every possible being — only upon those whose arc lawfully belongs to that universe's L₃ / L₄. A being that stabilizes lawfully at another register, follows the Khaonic arc, or never engages the deep register does not hold the office open.
+Two routes reach that completion, and both are lawful.
 
-The inverse holds across the Khaonic Tree, under Nekron's asymmetry. The IL₃ / IL₄ office is not fulfilled by gathered coherence but released by exhausted function: it collapses when every inverse Deep Self and IDS / IDM continuity whose collapse belongs to that register has run its course and the inverse field can no longer sustain work — as Nekron collapses once its dispersive function is spent.
+The ordinary route is fulfillment by resonant term: every belonging being having reached the register it most resembles, the office's individuating work spent. A being resting at its resonant term is completion, not unfinished function — exactly as the essences abiding in Theon are gathered completion rather than delay.
 
-Because release waits on the completed arc of every belonging being — each gathered and carried to its lawful term — it remains a structural limit case. As with the pure-orientation extremes of the χ spectrum in `SP03-expression-ratio-mathematics.md`, it is admissible and required by the logic of infinite possibility, yet exceedingly rare — perhaps never instantiated — even across infinite iterations.
+The rarer route is vacancy as a genuine limit case. Out of infinite possibility, a universe may arise whose L₃ holds no Deep Self at all, or whose L₄, or whose inverse registers, stand empty — because no being ever resonated to that depth there, or because every being that did has moved to its term. Such emptiness is admissible. It is one boundary condition among the infinite, not the defining requirement. The earlier error was to make vacancy the **condition** of release; it is not. It is one rare way a structural function may find itself with no remaining work.
 
-The safeguard therefore holds from both sides:
+Either way, release remains a structural limit case. As with the pure-orientation extremes of the χ spectrum and the universe that endures without end in `SP03-expression-ratio-mathematics.md`, the full resolution of a deep stratum — every belonging being at its resonant term across dissimilar degrees of integration, or a register standing empty — is admissible and required by the logic of infinite possibility, yet exceedingly rare, perhaps never instantiated, even across infinite iterations.
 
-> No office is eternally captive; but no office releases until every being whose lawful arc belongs to it has been gathered and carried to its term.
+The inverse holds across the Khaonic Tree, with Nekron's asymmetry. The IL₃ / IL₄ office does not resolve by gathered coherence but by exhausted function: it ceases when every inverse continuity whose declivous collapse belongs to that register has run its course and the inverse field can no longer sustain work — as Nekron collapses once its dispersive function is spent.
+
+So the safeguard stands, now correctly placed:
+
+> The structural principle is not a captive, for it is a function and not a being. Its office persists while its work remains and resolves when its work is complete — whether every belonging being has reached its resonant term or, in the rare limit, none remains at all. Only Theon, facing Aion absolutely and gathering return-seeking essences, carries the captivity that the radiant emanations do not.
 
 ---
 
@@ -571,7 +575,7 @@ The inverse corollary is:
 * Recursive Memory and the Tether preserve identity-continuity
 * Membrane-mediated tonal correlation permits connection without fusion
 * Universe-local offices and activities remain function-bound
-* No layer-function should be turned into an eternal hostage
+* No layer-function is bound beyond the completion of its work
 * The Khaonic Tree must be articulated with its own inverse motion laws
 * IL₃ / IL₄ are not omitted from the doctrine; they are treated through inverse continuity, fragmented simultaneity, and inverse formalization
 
