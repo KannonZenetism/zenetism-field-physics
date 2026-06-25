@@ -102,7 +102,6 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `spirit-soul-and-apparent-stillness.md` — Jun 5, 2026
 - `biospiral-and-recursive-orientation.md` — Jun 18, 2026
 - `MPX-LOCKDOWN-GUIDE.md` — Jun 20, 2026
-- `trans-universal-fractalization.md` — Jun 25, 2026
 
 ---
 
