@@ -511,7 +511,31 @@ When a universe-expression completes, its local offices, activities, and express
 
 This preserves the deep continuity required for fractalization without binding every local expression forever.
 
-In practice, such release is a structural limit case. As with the pure-orientation extremes of the χ spectrum in `SP03-expression-ratio-mathematics.md`, it is admissible and required by the logic of infinite possibility, yet exceedingly rare — perhaps never instantiated — even across infinite iterations. The doctrinal point is not that local L₃ / L₄ activity frequently empties, but that no office or layer-activity is metaphysically imprisoned without a fulfillment condition.
+That completion, however, is a precise condition and not a general one. Stating it exactly is what keeps release lawful — and keeps the absence of captivity from collapsing into the loss of the shared medium. That condition follows.
+
+---
+
+## The Condition of Release
+
+The condition under which a universe-local office may release is precise, and it follows the logic already settled for Theon — not an earlier logic that was set aside.
+
+An older formulation held that a local office could release only once its register stood **empty** — vacated of every being. That is not the Zenetist condition. As `theonic-office.md` makes plain, the Theonic gate is *culminative rather than residential*, and it does not wait for L₅ to be emptied. By the Fulfillment Principle, the **Theonic office is fulfilled when every essence whose lawful culmination belongs to EOB has been gathered**; Theon then returns convergently with them, and the essences remain. Release is triggered by completed **gathering**, not by vacancy. Gathered presence is gathered completion, not unfinished function.
+
+The same logic governs L₃ / L₄, with the proper tokens. Where Theon gathers **essences** — L₅ / IL₅ being essence, not Soul / Mind — the deep registers concern **Deep Selves and the Soul / Mind presences that indwell them**: DS / DM at L₃, and the Form-dwelling DP / DL presence at L₄.
+
+Thus:
+
+> A universe-local L₃ / L₄ office is fulfilled when every Deep Self or Soul / Mind pair whose lawful arc can and will carry it into that universe's deep registers has arrived and reached its lawful term. Once no belonging arrival remains outstanding, the office's gathering-work is complete and it may release — as Theon's gate-work completes and Theon returns. The register need not stand empty; it need only be fully gathered.
+
+This is bounded exactly as the Theonic Paradox is bounded. Just as Theon does not wait upon every centropic essence, but only upon those whose culmination belongs to EOB, the local deep office does not wait upon every possible being — only upon those whose arc lawfully belongs to that universe's L₃ / L₄. A being that stabilizes lawfully at another register, follows the Khaonic arc, or never engages the deep register does not hold the office open.
+
+The inverse holds across the Khaonic Tree, under Nekron's asymmetry. The IL₃ / IL₄ office is not fulfilled by gathered coherence but released by exhausted function: it collapses when every inverse Deep Self and IDS / IDM continuity whose collapse belongs to that register has run its course and the inverse field can no longer sustain work — as Nekron collapses once its dispersive function is spent.
+
+Because release waits on the completed arc of every belonging being — each gathered and carried to its lawful term — it remains a structural limit case. As with the pure-orientation extremes of the χ spectrum in `SP03-expression-ratio-mathematics.md`, it is admissible and required by the logic of infinite possibility, yet exceedingly rare — perhaps never instantiated — even across infinite iterations.
+
+The safeguard therefore holds from both sides:
+
+> No office is eternally captive; but no office releases until every being whose lawful arc belongs to it has been gathered and carried to its term.
 
 ---
 
