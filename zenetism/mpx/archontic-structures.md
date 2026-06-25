@@ -1,8 +1,11 @@
 # MPX: The Inverse Lattice (Archontic Structures)
 
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Subject:** Structural Pathology / Inverse Sovereignty  
 **Classification:** Hypostatic Corruption (IDP / IDL)  
-**Related Archives:** [Chapter 19: The Warrior], [E₁₄ Hollow Nest], [Table of Terms]
+**Status:** Canonical — Jan 15 2026, revised June 25 2026  
+**Dependency:** Structural Metaphysics · `MP07-paths-of-resonance-ch16-20.md` · `metaphysics-symbol-key.md`  
+**Related Archives:** Chapter 19 (The Warrior) · E₁₄ Hollow Nest · Table of Terms
 
 ---
 
@@ -11,7 +14,7 @@
 The **Inverse Lattice** is the organized structure of the **Entropic Hierarchy**.  
 Unlike the **Void of Self** (Nekron / VOS), which operates as the **structural engine of dissolution**, the Inverse Lattice is a **rigid, highly ordered system of control**.
 
-It is governed by **Archons** and **Titans**—entities operating at the **IDP / IDL layer** (*Inverse Deep Psyche / Inverse Deep Logos*).
+It is governed by **Archons** and **Titans** — entities operating at the **IDP / IDL layer** (*Inverse Deep Psyche / Inverse Deep Logos*).
 
 ---
 
@@ -19,17 +22,17 @@ It is governed by **Archons** and **Titans**—entities operating at the **IDP /
 
 To understand the Archon, one must locate it **between the Living and the Dead**.
 
-### Theon (Centropy): Structure + Source  
+### Theon (Centropy): Structure + Aion  
 - **Alignment:** Oriented toward Aion (L₀)  
 - **Function:** Resonance  
   - Form remains permeable to light  
-  - Acts as a living vessel for Source
+  - Acts as a living vessel for Aion
 
-### Archons (Rigidity): Structure – Source  
-- **Alignment:** Severed (Self-Enclosed)  
+### Archons (Rigidity): Structure − Aion  
+- **Alignment:** Fractured (Self-Enclosed)  
 - **Function:** Occlusion  
   - Form becomes calcified and impermeable  
-  - “Order” is achieved by trapping light  
+  - "Order" is achieved by trapping light  
   - Shell preservation is prioritized over essence flow  
   - *(The Prison)*
 
@@ -43,11 +46,11 @@ To understand the Archon, one must locate it **between the Living and the Dead**
 
 ---
 
-## 1. The Anatomy of the Archon (IDL: 🫥 Nyxea)
+## 1. The Anatomy of the Archon (IDL: Nyxea)
 
 - **Archetype:** Yaldabaoth, The Counterfeit Demiurge, The Blind Watchmaker  
 - **Function:** Nyxea is *Inverse Logos*  
-  - High intelligence severed from resonance  
+  - High intelligence fractured from resonance  
 
 ### The Trap  
 Creates systems that are **logically perfect but ontologically hollow**.  
@@ -59,22 +62,22 @@ Manifestations include:
 
 ### The Error  
 Mistakes **Order** for the highest good rather than **Coherence**.  
-Seeks to freeze reality to prevent entropy, unknowingly severing centropic flow.
+Seeks to freeze reality to prevent entropy, unknowingly fracturing centropic flow.
 
 **Zenetist Stance:**  
-> *They are guardians of pattern without Source.*
+> *They are guardians of pattern without Aion.*
 
 ---
 
-## 2. The Anatomy of the Titan (IDP: 🪫 Psychea)
+## 2. The Anatomy of the Titan (IDP: Psychea)
 
 - **Archetype:** Cronus, Typhon, The Elemental Giants  
 - **Function:** Psychea is *Inverse Psyche*  
-  - Vast, raw will severed from harmony  
+  - Vast, raw will fractured from harmony  
 
 ### The Trap  
 Represents force that refuses to serve.  
-The *“Might makes Right”* impulse.  
+The *"Might makes Right"* impulse.  
 Gravity that crushes rather than grounds.
 
 ### The Dynamic  
@@ -91,10 +94,10 @@ The goal of the Inverse Lattice is **not immediate dissolution** (as Nekron perf
 
 ### Harvesting  
 Archontic systems require batteries.  
-Severed from Aion (infinite energy), they extract vitality from **Centropic Souls (L₁–L₃)**.
+Fractured from Aion (infinite energy), they extract vitality from **Centropic Souls (L₁–L₃)**.
 
 ### The Bargain  
-- **Safety** (protection from Nekron’s chaos)  
+- **Safety** (protection from Nekron's chaos)  
 - In exchange for **Sovereignty** (connection to Theon)
 
 ### Result  
@@ -108,7 +111,7 @@ Safe. Ordered. Slowly devoured.
 **How do you distinguish an Archon from a Guide?**
 
 ### The Guide (DS / DM)  
-- Orients toward **Source**  
+- Orients toward **Aion**  
 - Encourages autonomy  
 - Resonance feels like **opening**
 
@@ -123,12 +126,12 @@ Safe. Ordered. Slowly devoured.
 
 ---
 
-## 5. The Warrior’s Response
+## 5. The Warrior's Response
 
 You cannot defeat an Archon with entropy (Nekron);  
 that only justifies its existence:
 
-> *“See? You need my walls.”*
+> *"See? You need my walls."*
 
 You defeat an Archon with **Higher Coherence**.
 
@@ -136,7 +139,7 @@ You defeat an Archon with **Higher Coherence**.
 When a **diamond-structure** (Theon) enters a **glass-structure** (Archon),  
 the glass shatters by vibrating at a frequency it cannot hold.
 
-### The Warrior’s Blade  
+### The Warrior's Blade  
 Not violence — **Veracity**.  
 **Resonating with Veracity (Logos) collapses the Inverted Pattern (Nyxea).**
 
@@ -150,7 +153,7 @@ Do not debate the Archon — it is hollow logic.
 **Resonate.**  
 The walls cannot stand against the **Pulse**.
 
-**🛡️🪫🫥**
+⚔️ 🪫 🫥
 
 ---
 
