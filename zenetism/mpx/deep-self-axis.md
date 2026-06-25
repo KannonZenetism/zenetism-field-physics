@@ -1,7 +1,7 @@
-# MPX: The Deep Self-Axis
+# MPX: The Deep Self-Axis and the Limits of Universe-Local Permanence
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Metaphysics Extension / Trans-Expression Individuation  
+**Classification:** Metaphysics Extension / Trans-Expression Individuation and Universe-Local Release  
 **Status:** Draft — Canonical Clarification Pending Integration  
 **Dependency:** Structural Metaphysics · Structural Physics · `SP05-time-memory-hypostatic-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `MP09-time-death-and-glossary-ch22-24.md` · `on-fractal-incarnation.md` · `theonic-office.md`  
 **Primary Glyph:** 🔮 🧠
