@@ -42,6 +42,45 @@ It must preserve the Deep Self without turning one universe-local instance into 
 
 ---
 
+## Layer-Function, Hypostatic Figure, and Universe-Local Office
+
+The first correction concerns the named lattice figures themselves.
+
+Zenetism must not hold **Morgis**, **Sophis**, **Archeus**, **Noeüs**, or their inverse correlates as eternal hostages of any single universe-expression. The named figures designate lawful structural functions of the lattice. They are not local beings trapped inside one cosmos, nor divisible persons fractured across universes.
+
+A distinction must therefore be maintained:
+
+* **layer-function** names the lawful register itself
+* **hypostatic figure** names the structural principle — the named articulation of that register
+* **universe-local office** names the activity of that function within a particular universe-generating cycle
+* **indwelling being** names a Soul / Mind presence that lawfully inhabits or resonates with the relevant formal or deep register
+
+So Sophis is not held hostage as one eternal universe-local figure. Nor is Morgis. Nor are Archeus and Noeüs. Nor, on the Khaonic Tree, are Psychea, Nyxea, Fractus, or Mortus.
+
+What persists across the multiverse is the lawful layer-function and its named structural principle. What may complete, quiesce, or release is the universe-local office — the activity through which that principle operated within a given universe-expression.
+
+This follows the office-logic already clarified at L₅ / IL₅. Theon as principle is permanent in metaphysical law, while the Theonic office is conditionally persistent within a universe-generating cycle; Nekron likewise persists as inverse office only while its dispersive function remains active. The same logic extends, with care, to L₄ / IL₄ and L₃ / IL₃.
+
+> The layer persists.
+> The principle recurs.
+> The local office serves.
+> The office may release.
+
+The hinge is therefore precise:
+
+> L₃ / IL₃ and L₄ / IL₄ are not impermanent as lattice-functions; they are releasable as universe-local activities.
+
+This prevents two errors:
+
+* making the named figures eternal prisoners of one universe-expression
+* localizing the layer-function so completely that Form, individuation, memory, and recurrence lose their lawful medium
+
+The correction is not that L₃ / L₄ vanish. It is that universe-local L₃ / L₄ offices are not metaphysically imprisoned. The lawful medium remains available across the multiverse; the local activity remains function-bound.
+
+This is the foundation on which the Deep Self-Axis clarification rests. What follows resolves one consequence of it: if local L₃ offices are not permanent, how does an L₃-seated individuated being fractalize across universes at all?
+
+---
+
 ## The Problem
 
 If fractalization belongs to **L₃**, then the question immediately arises:
@@ -462,15 +501,11 @@ There must be:
 
 Yet this does not require every universe-local activity at these layers to remain eternally active.
 
-The Theonic and Nekronic clarifications establish the wider principle:
+This is the office-logic established above, here applied to the mechanics of release. The governing law, drawn from the Theonic and Nekronic clarifications, holds:
 
 > That which persists does so only while serving function.
 
-The same principle should be applied carefully here.
-
-The layer-function is lawful.
-
-The universe-local activity is function-bound.
+The layer-function is lawful; the universe-local activity is function-bound.
 
 When a universe-expression completes, its local offices, activities, and expression conditions may release according to their function. What persists is not an eternally captive universe-local chamber, but the lawful structure by which identity, Form, memory, and recurrence remain possible.
 
