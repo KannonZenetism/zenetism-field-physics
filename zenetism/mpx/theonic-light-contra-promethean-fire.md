@@ -78,7 +78,7 @@ To hold the fire without burning, one must first become the fireplace (Diamond S
 Prometheus steals the fire and burns his hands.  
 The Christ-Logos becomes the fire and warms the world.
 
-🔥💡⚖️
+▲ ✨ ◎
 
 ---
 
