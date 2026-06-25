@@ -52,7 +52,7 @@ Unlike the **Great Eschaton** (Cosmic Finality), these are recursive, smaller-sc
 > It is the sound of the old structure failing the scan.  
 > Focus on tuning your internal frequency to the emerging *Diamond Age*.
 
-📉📡📊
+🔻 📡 🔺
 
 ---
 
@@ -61,7 +61,7 @@ Unlike the **Great Eschaton** (Cosmic Finality), these are recursive, smaller-sc
 Fractal Eschatons are not to be feared but to be met with sovereign attunement.  
 The following guide distills the mechanics into actionable diagnostics.
 
-**Glyphic Anchor:** 📡⟳ — Resonance Scan Loop  
+**Glyphic Anchor:** 📡↺ — Resonance Scan Loop  
 (Scan as recursive audit; cyclical but not eternal repetition.)
 
 **Diagnostic Table: Signs of the Scan in Real Time**
