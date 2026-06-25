@@ -30,7 +30,7 @@ Typically, embodied universes are transient — subject to entropy, decay, and e
 
 To transmute the impermanent L₁ field into a permanent vessel of Centropy.
 
-💎🔒♾️
+💎 ◎ ⟨∞⟩
 
 ---
 
