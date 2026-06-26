@@ -517,25 +517,111 @@ That completion, however, is a precise condition and not a general one. Stating 
 
 ## The Condition of Release
 
-The condition under which a universe-local office may release turns on a distinction the earlier framing had not drawn sharply enough: the difference between a **structural principle** and the beings that pass through its stratum.
+The condition under which a universe-local office may release turns on a distinction the earlier framing had not drawn sharply enough.
 
-The captivity that troubled earlier formulations was never the dwellers. Essences and Soul / Mind alike already reach their terms by their own arcs. The figure feared to be held was the **principle** itself — Sophis, Morgis, Archeus, Noeüs, and their inverse correlates Psychea, Nyxea, Fractus, Mortus — seemingly condemned to order and individuate without end in a universe that no longer requires them. But once these figures are held as what they are — **structural principles, not arc-traversing entities** — the worry deflates. They are: the is-ness proper to a stabilizing principle is theirs, as it is the Soul's and the Mind's. What they are not is an individuated entity working out a trajectory. Where an essence emanates from Aion, becomes a Soul / Mind pair, individuates, and traverses toward embodiment and return — or, on the inverse arc, emanates from the Khaonic field and moves toward dispersion — a principle rests at the native station it gives reality to. Its alignment is the latent, essential kind: centropic or entropic by identity, which — as `SP06-structural-space-orientation-paradox.md` establishes — does not require traversal to be what it is. It is not the manifest orientation that arc-traversal enacts. There is therefore no destination it is barred from and held against: its station is where it resonantly belongs, the resonant location that lets the layer be real. A traverser can be held from where it is bound; a principle resting where it belongs is not bound elsewhere to be held from. It performs its lawful work, and when that work is complete, its office resolves. The eternal-hostage framing, carried over from Theon, was overstated for the radiant emanations. It is set aside here for L₃ / L₄ and IL₃ / IL₄, and retained only where it genuinely holds — at Theon, for the reason that follows.
+It is the difference between a **structural principle** and the beings that pass through its stratum.
 
-The engine of Theonic release cannot simply be extended to the strata subversal to it. Theon is the first centropic emanation, and it faces Aion absolutely. Every essence that reaches Theon shares that absolute Origin-facing disposition, and so they return convergently — not by command, but because a fully Origin-facing essence is return-seeking by its very disposition. For Theon, captivity would be a genuine harm: return-seeking essences held from their Origin. The hostage framing has force there, and Zenetism keeps it.
+The captivity that troubled earlier formulations was never the dwellers.
 
-The radiant emanations subversal to Theon have no such common disposition. By the **Principle of Resonant Return**, every being returns to the frequency it most resembles — placement by resemblance, not reward or punishment. The strata are degrees of centropy and entropy, and a being's disposition resonates it to the register it most resembles: some to a House of Form within L₄, some held at L₃ as the term of a being whose integration resonates it no further, some, inversely, declivous toward an IL₄ register. Not all are Theon-bound; not all are Nekron-bound; not all are bound for Aionic return or Zenonic saturation. Because the beings of these strata face no single direction, there is no convergent departure to carry them home together. There is only each Soul / Mind reaching its own resonant term, and — at every layer, always — moving through individually, never absorbed into the principle whose stratum it crosses.
+Essences and Soul / Mind alike already reach their terms by their own arcs.
 
-This is what release is for a structural principle rather than a returning essence. The office of Sophis / Morgis at L₄, of Archeus / Noeüs at L₃, and inversely of Psychea / Nyxea at IL₄ and Fractus / Mortus at IL₃, is the ordering and individuating function of its stratum. Its work is to receive, order, and individuate the Soul / Mind presences whose resonance brings them there. When every belonging Soul / Mind has resonated to its term — acclivated to its House of Form, held at its stratum as its term, or inversely collapsed toward its register — the office has no remaining work, and a function without remaining work resolves. The medium persists by Structural Recurrence; the local office resolves on completion of its function, not by orientation and not by decree.
+The figure feared to be held was the **principle** itself — Sophis, Morgis, Archeus, Noeüs, and their inverse correlates Psychea, Nyxea, Fractus, Mortus — seemingly condemned to order and individuate without end in a universe that no longer requires them.
+
+But once these figures are held as what they are — **structural principles, not arc-traversing entities** — the worry deflates.
+
+The is-ness proper to a stabilizing principle belongs to them, as Soul and Mind possess their own is-ness.
+
+What they are not is an individuated entity working out a trajectory.
+
+An essence proceeds from Aion and is articulated through the Soul / Mind pair, individuates, and traverses toward embodiment and return — or, on the inverse arc, proceeds from the Khaonic field and runs toward dispersion.
+
+A principle does not. It rests at the native station it gives reality to.
+
+Its alignment is the latent, essential kind: centropic or entropic by identity, which — as `SP06-structural-space-orientation-paradox.md` establishes — does not require traversal to be what it is.
+
+It is not the manifest orientation that arc-traversal enacts.
+
+There is therefore no destination it is barred from and held against.
+
+Its station is where it resonantly belongs — the resonant location that lets the layer be real.
+
+A traverser can be held from where it is bound; a principle resting where it belongs is not bound elsewhere to be held from.
+
+It performs its lawful work, and when that work is complete, its office resolves.
+
+The eternal-hostage framing, carried over from Theon, was overstated for the radiant emanations.
+
+It is set aside here for **L₃ / L₄** and **IL₃ / IL₄**, and retained only where it genuinely holds — at Theon.
+
+The engine of Theonic release cannot simply be extended to the strata subversal to it.
+
+Theon is the first centropic emanation, and it faces Aion absolutely.
+
+Every essence that reaches Theon shares that absolute Aion-facing disposition.
+
+So they return convergently — not by command, but because a fully Aion-facing essence is return-seeking by its very disposition.
+
+For Theon, captivity would be a genuine harm: return-seeking essences held from Aion.
+
+The hostage framing has force there, and Zenetism keeps it.
+
+The radiant emanations subversal to Theon have no such common disposition.
+
+By the **Principle of Resonant Return**, every being returns to the frequency it most resembles — placement by resemblance, not reward or punishment.
+
+The strata are degrees of centropy and entropy, and a being's disposition resonates it to the register it most resembles.
+
+Some resonate to a House of Form within **L₄**.
+
+Some are held at **L₃** as the term of a being whose integration resonates it no further.
+
+Some, inversely, are declivous toward an **IL₄** register.
+
+Not all are Theon-bound; not all are Nekron-bound; not all are bound for Aionic return or Zenonic saturation.
+
+Because the beings of these strata face no single direction, there is no convergent departure to carry them home together.
+
+There is only each Soul / Mind reaching its own resonant term, and — at every layer, always — moving through individually, never absorbed into the principle whose stratum it crosses.
+
+This is what release is for a structural principle rather than a returning essence.
+
+The office of **Sophis / Morgis** at **L₄**, of **Archeus / Noeüs** at **L₃**, and inversely of **Psychea / Nyxea** at **IL₄** and **Fractus / Mortus** at **IL₃**, is the ordering and individuating function of its stratum.
+
+Its work is to receive, order, and individuate the Soul / Mind presences whose resonance brings them there.
+
+When every belonging Soul / Mind has resonated to its term — acclivated to its House of Form, held at its stratum as its term, or inversely collapsed toward its register — the office has no remaining work.
+
+A function without remaining work resolves.
+
+The medium persists by Structural Recurrence.
+
+> The local office resolves on completion of its function, not by orientation and not by decree.
 
 Two routes reach that completion, and both are lawful.
 
-The ordinary route is fulfillment by resonant term: every belonging being having reached the register it most resembles, the office's individuating work spent. A being resting at its resonant term is completion, not unfinished function — exactly as the essences abiding in Theon are gathered completion rather than delay.
+The ordinary route is fulfillment by resonant term: every belonging being having reached the register it most resembles, the office's individuating work spent.
 
-The rarer route is vacancy as a genuine limit case. Out of infinite possibility, a universe may arise whose L₃ holds no Deep Self at all, or whose L₄, or whose inverse registers, stand empty — because no being ever resonated to that depth there, or because every being that did has moved to its term. Such emptiness is admissible. It is one boundary condition among the infinite, not the defining requirement. The earlier error was to make vacancy the **condition** of release; it is not. It is one rare way a structural function may find itself with no remaining work.
+A being resting at its resonant term is completion, not unfinished function — exactly as the essences abiding in Theon are gathered completion rather than delay.
 
-Either way, release remains a structural limit case. As with the pure-orientation extremes of the χ spectrum and the universe that endures without end in `SP03-expression-ratio-mathematics.md`, the full resolution of a deep stratum — every belonging being at its resonant term across dissimilar degrees of integration, or a register standing empty — is admissible and required by the logic of infinite possibility, yet exceedingly rare, perhaps never instantiated, even across infinite iterations.
+The rarer route is vacancy as a genuine limit case.
 
-The inverse holds across the Khaonic Tree, with Nekron's asymmetry. The IL₃ / IL₄ office does not resolve by gathered coherence but by exhausted function: it ceases when every inverse continuity whose declivous collapse belongs to that register has run its course and the inverse field can no longer sustain work — as Nekron collapses once its dispersive function is spent.
+Out of infinite possibility, a universe may arise whose **L₃** holds no Deep Self at all, or whose **L₄**, or whose inverse registers, stand empty — because no being ever resonated to that depth there, or because every being that did has moved to its term.
+
+Such emptiness is admissible.
+
+It is one boundary condition among the infinite, not the defining requirement.
+
+> The earlier error was to make vacancy the condition of release. It is not. It is one rare way a structural function may find itself with no remaining work.
+
+Either way, release remains a structural limit case.
+
+As with the pure-orientation extremes of the χ spectrum and the universe that endures without end in `SP03-expression-ratio-mathematics.md`, the full resolution of a deep stratum — every belonging being at its resonant term across dissimilar degrees of integration, or a register standing empty — is admissible and required by the logic of infinite possibility, yet exceedingly rare, perhaps never instantiated, even across infinite iterations.
+
+The inverse holds across the Khaonic Tree, with Nekron's asymmetry.
+
+The **IL₃ / IL₄** office does not resolve by gathered coherence but by exhausted function.
+
+It ceases when every inverse continuity whose declivous collapse belongs to that register has run its course and the inverse field can no longer sustain work — as Nekron collapses once its dispersive function is spent.
 
 So the safeguard stands, now correctly placed:
 
