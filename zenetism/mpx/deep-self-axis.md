@@ -565,7 +565,7 @@ For Theon, captivity would be a genuine harm: return-seeking essences held from 
 
 The hostage framing has force there, and Zenetism keeps it.
 
-The radiant emanations subsequent to Theon have no such common disposition.
+The radiant emanations following Theon in the centropic sequence have no such common disposition.
 
 By the **Principle of Resonant Return** (`MP05-godhood-and-transmutation-ch9-11.md` §11.2), every being returns to the frequency it most resembles — placement by resemblance, not reward or punishment.
 
