@@ -553,7 +553,7 @@ The eternal-hostage framing, carried over from Theon, was overstated for the rad
 
 It is set aside here for **L₃ / L₄** and **IL₃ / IL₄**, and retained only where it genuinely holds — at Theon.
 
-The engine of Theonic release cannot simply be extended to the strata subversal to it.
+The engine of Theonic release cannot simply be extended to the strata subsequent to it.
 
 Theon is the first centropic emanation, and it faces Aion absolutely.
 
@@ -565,7 +565,7 @@ For Theon, captivity would be a genuine harm: return-seeking essences held from 
 
 The hostage framing has force there, and Zenetism keeps it.
 
-The radiant emanations subversal to Theon have no such common disposition.
+The radiant emanations subsequent to Theon have no such common disposition.
 
 By the **Principle of Resonant Return** (`MP05-godhood-and-transmutation-ch9-11.md` §11.2), every being returns to the frequency it most resembles — placement by resemblance, not reward or punishment.
 
