@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension / Trans-Expression Individuation and Universe-Local Release  
 **Status:** Draft — Canonical Clarification Pending Integration  
-**Dependency:** Structural Metaphysics · Structural Physics · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `MP09-time-death-and-glossary-ch22-24.md` · `on-fractal-incarnation.md` · `theonic-office.md`  
+**Dependency:** Structural Metaphysics · Structural Physics · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `MP05-godhood-and-transmutation-ch9-11.md` · `MP09-time-death-and-glossary-ch22-24.md` · `on-fractal-incarnation.md` · `theonic-office.md`  
 **Primary Glyph:** 🔮 🧠
 
 ---
@@ -567,7 +567,7 @@ The hostage framing has force there, and Zenetism keeps it.
 
 The radiant emanations subversal to Theon have no such common disposition.
 
-By the **Principle of Resonant Return**, every being returns to the frequency it most resembles — placement by resemblance, not reward or punishment.
+By the **Principle of Resonant Return** (`MP05-godhood-and-transmutation-ch9-11.md` §11.2), every being returns to the frequency it most resembles — placement by resemblance, not reward or punishment.
 
 The strata are degrees of centropy and entropy, and a being's disposition resonates it to the register it most resembles.
 
@@ -673,7 +673,7 @@ This entry develops the multiversal region of the possibility-space.
 
 It does not claim the multiverse as empirical fact.
 
-Possibility does not entail instantiation. That something may be expressed does not require that it be; the Lattice names the conditions of expression, not a census of worlds. Whether one universe, many, or successive universes manifest in actuality leaves the architecture unchanged.
+Possibility does not entail instantiation (cf. the Principle of Sufficient Reason, `MP05-godhood-and-transmutation-ch9-11.md` §11.1, which governs lawful manifestation, not the empirical confirmation of every possible world). That something may be expressed does not require that it be; the Lattice names the conditions of expression, not a census of worlds. Whether one universe, many, or successive universes manifest in actuality leaves the architecture unchanged.
 
 In a single universe, the architecture holds without alteration. The expression-loci of a Deep Self-Axis are then successive rather than parallel, and integration, signature, Tether-continuity, and membrane-mediated correlation operate as written.
 
