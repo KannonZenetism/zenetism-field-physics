@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension / Trans-Expression Individuation and Universe-Local Release  
 **Status:** Draft — Canonical Clarification Pending Integration  
-**Dependency:** Structural Metaphysics · Structural Physics · `SP05-time-memory-hypostatic-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `MP09-time-death-and-glossary-ch22-24.md` · `on-fractal-incarnation.md` · `theonic-office.md`  
+**Dependency:** Structural Metaphysics · Structural Physics · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `MP09-time-death-and-glossary-ch22-24.md` · `on-fractal-incarnation.md` · `theonic-office.md`  
 **Primary Glyph:** 🔮 🧠
 
 ---
@@ -46,7 +46,7 @@ It must preserve the Deep Self without turning one universe-local instance into 
 
 The first correction concerns the named lattice figures themselves.
 
-Zenetism holds **Morgis**, **Sophis**, **Archeus**, **Noeüs**, and their inverse correlates as what they are — lawful structural functions of the lattice, not beings a universe could hold captive. They are not local beings trapped inside one cosmos, nor divisible persons fractured across universes.
+Zenetism holds **Morgis**, **Sophis**, **Archeus**, **Noeüs**, and their inverse correlates as what they are — lawful structural functions of the lattice, not individuated entities a universe could hold. They are not local entities trapped inside one cosmos, nor divisible persons fractured across universes.
 
 A distinction must therefore be maintained:
 
@@ -519,7 +519,7 @@ That completion, however, is a precise condition and not a general one. Stating 
 
 The condition under which a universe-local office may release turns on a distinction the earlier framing had not drawn sharply enough: the difference between a **structural principle** and the beings that pass through its stratum.
 
-The captivity that troubled earlier formulations was never the dwellers. Essences and Soul / Mind alike already reach their terms by their own arcs. The figure feared to be held was the **principle** itself — Sophis, Morgis, Archeus, Noeüs, and their inverse correlates Psychea, Nyxea, Fractus, Mortus — seemingly condemned to order and individuate without end in a universe that no longer requires them. But once these figures are held as what they are — **structural principles, not beings** — the worry deflates. A being can be held from where it belongs; a structural function cannot. A principle does not seek return, does not face away from a barred Origin, does not suffer persistence. It performs its lawful work, and when that work is complete, its office resolves. The eternal-hostage framing, carried over from Theon, was overstated for the radiant emanations. It is set aside here for L₃ / L₄ and IL₃ / IL₄, and retained only where it genuinely holds — at Theon, for the reason that follows.
+The captivity that troubled earlier formulations was never the dwellers. Essences and Soul / Mind alike already reach their terms by their own arcs. The figure feared to be held was the **principle** itself — Sophis, Morgis, Archeus, Noeüs, and their inverse correlates Psychea, Nyxea, Fractus, Mortus — seemingly condemned to order and individuate without end in a universe that no longer requires them. But once these figures are held as what they are — **structural principles, not arc-traversing entities** — the worry deflates. They are: the is-ness proper to a stabilizing principle is theirs, as it is the Soul's and the Mind's. What they are not is an individuated entity working out a trajectory. Where an essence emanates from Aion, becomes a Soul / Mind pair, individuates, and traverses toward embodiment and return — or, on the inverse arc, emanates from the Khaonic field and moves toward dispersion — a principle rests at the native station it gives reality to. Its alignment is the latent, essential kind: centropic or entropic by identity, which — as `SP06-structural-space-orientation-paradox.md` establishes — does not require traversal to be what it is. It is not the manifest orientation that arc-traversal enacts. There is therefore no destination it is barred from and held against: its station is where it resonantly belongs, the resonant location that lets the layer be real. A traverser can be held from where it is bound; a principle resting where it belongs is not bound elsewhere to be held from. It performs its lawful work, and when that work is complete, its office resolves. The eternal-hostage framing, carried over from Theon, was overstated for the radiant emanations. It is set aside here for L₃ / L₄ and IL₃ / IL₄, and retained only where it genuinely holds — at Theon, for the reason that follows.
 
 The engine of Theonic release cannot simply be extended to the strata subversal to it. Theon is the first centropic emanation, and it faces Aion absolutely. Every essence that reaches Theon shares that absolute Origin-facing disposition, and so they return convergently — not by command, but because a fully Origin-facing essence is return-seeking by its very disposition. For Theon, captivity would be a genuine harm: return-seeking essences held from their Origin. The hostage framing has force there, and Zenetism keeps it.
 
@@ -539,7 +539,7 @@ The inverse holds across the Khaonic Tree, with Nekron's asymmetry. The IL₃ / 
 
 So the safeguard stands, now correctly placed:
 
-> The structural principle is not a captive, for it is a function and not a being. Its office persists while its work remains and resolves when its work is complete — whether every belonging being has reached its resonant term or, in the rare limit, none remains at all. Only Theon, facing Aion absolutely and gathering return-seeking essences, carries the captivity that the radiant emanations do not.
+> The structural principle is not a captive, for it does not traverse toward a destination it could be barred from; it rests at the native station it gives reality to. Its office persists while its work remains and resolves when its work is complete — whether every belonging being has reached its resonant term or, in the rare limit, none remains at all. Only Theon, facing Aion absolutely and gathering return-seeking essences, carries the captivity that the radiant emanations do not.
 
 ---
 
