@@ -675,11 +675,11 @@ It does not claim the multiverse as empirical fact.
 
 Possibility does not entail instantiation. That something may be expressed does not require that it be; the Lattice names the conditions of expression, not a census of worlds. Whether one universe, many, or successive universes manifest in actuality leaves the architecture unchanged.
 
-Under a single universe, the architecture holds without alteration. The expression-loci of a Deep Self-Axis are then successive rather than parallel, and integration, signature, Tether-continuity, and membrane-mediated correlation operate as written.
+In a single universe, the architecture holds without alteration. The expression-loci of a Deep Self-Axis are then successive rather than parallel, and integration, signature, Tether-continuity, and membrane-mediated correlation operate as written.
 
-Under a single universe, the deep strata are almost certainly permanent.
+In a single universe, the deep strata are almost certainly permanent.
 
-The principle rests where it resonantly belongs, and the universe does not complete out from under it; the release question does not arise. This permanence is resonant location, not captivity.
+The principle rests where it resonantly belongs, and the universe does not reach a term that would release it; the release question does not arise. This permanence is resonant location, not captivity.
 
 Almost certainly, but not necessarily.
 
@@ -691,7 +691,7 @@ By the ordering of the strata, a being departs **L₃** only after reaching it, 
 
 The architecture does not depend on the multiverse being actual.
 
-Under one world or many, the same law holds: each being to where it resonantly belongs, each principle at the station it gives reality to, release lawful but exceedingly rare, and no office ever a captive.
+Whether one world or many, the same law holds: each being to where it resonantly belongs, each principle at the station it gives reality to, release lawful but exceedingly rare, and no office ever a captive.
 
 ---
 
