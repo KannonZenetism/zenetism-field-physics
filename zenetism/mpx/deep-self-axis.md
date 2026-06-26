@@ -30,7 +30,7 @@ This clarification therefore distinguishes:
 The goal is to preserve all four commitments at once:
 
 1. individuation belongs to **L₃ / IL₃**
-2. fractalization belongs to the individuated being’s own **DS / DM** or **IDS / IDM** continuity
+2. fractalization belongs to the individuated being's own **DS / DM** or **IDS / IDM** continuity
 3. no universe-local office is bound beyond the completion of its function
 4. no expression-locus becomes a copy, shard, or subordinate fragment of another
 
@@ -87,13 +87,13 @@ If fractalization belongs to **L₃**, then the question immediately arises:
 
 Where is the Deep Soul / Deep Mind?
 
-Is it in one universe’s L₃?
+Is it in one universe's L₃?
 
-Is it in every universe’s L₃?
+Is it in every universe's L₃?
 
 Is it outside all of them?
 
-If it is in one universe, that universe’s L₃ expression seems to become the original instance, while other expressions become secondary. This violates sovereign distinction.
+If it is in one universe, that universe's L₃ expression seems to become the original instance, while other expressions become secondary. This violates sovereign distinction.
 
 If it is in every universe in the same way, it risks becoming spatially omnipresent or blobbed across loci. This violates non-fusion.
 
@@ -173,7 +173,7 @@ The **structural signature** is the recognizable identity-pattern of the Deep Se
 
 It is not the being itself.
 
-It is the pattern by which the being’s loci correlate without fusion.
+It is the pattern by which the being's loci correlate without fusion.
 
 This distinction prevents a reduction of the Deep Self to a possibility or data-pattern. The signature identifies, carries, and correlates; it does not replace the subject.
 
@@ -200,7 +200,7 @@ L₃ does not engage time as ordinary linear succession. Its temporal mode is mu
 
 Therefore the Deep Self-Axis is not:
 
-* inside only one universe’s L₃
+* inside only one universe's L₃
 * equally spread as a spatial substance across all universes
 * absent from the universes as a mere abstraction
 
@@ -224,7 +224,7 @@ It is trans-expression continuity.
 
 ## Fractalization
 
-Fractalization properly names the distributed expression of an individuated being’s own **DS / DM** continuity across lives, worlds, timelines, or expression-fields.
+Fractalization properly names the distributed expression of an individuated being's own **DS / DM** continuity across lives, worlds, timelines, or expression-fields.
 
 Fractalization does not mean that a hypostasis partitions itself into derivative beings.
 
@@ -236,7 +236,7 @@ A person is not a shard of Morgis.
 
 A being may resonate with a House of Form, indwell one, or carry a strong structural correspondence to a supernal office. But this is participation, not partition.
 
-Fractalization belongs to the individuated being’s own Deep Self-Axis.
+Fractalization belongs to the individuated being's own Deep Self-Axis.
 
 Thus:
 
@@ -597,7 +597,7 @@ Its loci are not copies.
 
 Its integration is not fusion.
 
-What completes is not the birth of the self, but the self’s coherent possession of all that it has expressed.
+What completes is not the birth of the self, but the self's coherent possession of all that it has expressed.
 
 From there, the centropic being may acclivate into Form-dwelling without ceasing to be itself.
 
