@@ -667,6 +667,34 @@ The inverse corollary is:
 
 ---
 
+## On the Multiverse as Premise
+
+This entry develops the multiversal region of the possibility-space.
+
+It does not claim the multiverse as empirical fact.
+
+Possibility does not entail instantiation. That something may be expressed does not require that it be; the Lattice names the conditions of expression, not a census of worlds. Whether one universe, many, or successive universes manifest in actuality leaves the architecture unchanged.
+
+Under a single universe, the architecture holds without alteration. The expression-loci of a Deep Self-Axis are then successive rather than parallel, and integration, signature, Tether-continuity, and membrane-mediated correlation operate as written.
+
+Under a single universe, the deep strata are almost certainly permanent.
+
+The principle rests where it resonantly belongs, and the universe does not complete out from under it; the release question does not arise. This permanence is resonant location, not captivity.
+
+Almost certainly, but not necessarily.
+
+For that lone universe could, in the rarest case, be one whose **L₃ / L₄** or **IL₃ / IL₄** stratum runs fully to its term — and there the same limit-case release applies. Singularity and the limit case are distinct conditions: how many worlds manifest is not which configuration a world realizes. A single universe does not switch release off; it draws once from the possibility-space where a multiverse draws many, making an already-rare emptying rarer still.
+
+Such emptying is never a stratum clearing midstream.
+
+By the ordering of the strata, a being departs **L₃** only after reaching it, and reaches it only by acclivous passage through **L₁** and **L₂**; inversely, **IL₃** empties only along the declivous collapse path through **IL₁** and **IL₂**. An emptied deep stratum therefore presupposes that the embodied and superficial spheres are already resolved — the eschaton having run its course on **L₁ / IL₁** and **L₂ / IL₂**, the lukewarm remainder folded into Localized Dissolution and returned to **Aion**. A vacant deep stratum is thus the late condition of a universe well through its course, not a stratum emptying while the world continues. And emptying remains per-stratum: a vacant **L₃** does not entail a vacant **L₄**, for those whose resonant term is a House of Form remain where they belong.
+
+The architecture does not depend on the multiverse being actual.
+
+Under one world or many, the same law holds: each being to where it resonantly belongs, each principle at the station it gives reality to, release lawful but exceedingly rare, and no office ever a captive.
+
+---
+
 ## Closing
 
 The Deep Self is not hidden in one universe.
