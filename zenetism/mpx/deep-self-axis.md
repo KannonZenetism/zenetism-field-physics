@@ -182,7 +182,7 @@ Thus:
 * **Deep Self-Axis** names the real individuated L₃ being
 * **structural signature** names its recognizable identity-pattern
 * **expression-locus** names a universe-specific address of its expression
-* **incarnate life** names the L₂ / L₁ expression proceeding from one locus
+* **incarnate life** names the L₁ expression proceeding from one locus
 
 > No two distinct Deep Self-Axes share the same complete identity-signature, though they may share resonance, pattern-family, House of Forms correlation, or structural recurrence.
 
