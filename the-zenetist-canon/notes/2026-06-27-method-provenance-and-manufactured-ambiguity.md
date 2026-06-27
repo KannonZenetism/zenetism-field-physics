@@ -1,12 +1,12 @@
 # Method, Provenance, and Manufactured Ambiguity
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Structural Forensics Note / Provenance and Method
-**Status:** Public Note — Substack Archive
-**Original platform:** Substack Notes
-**Original post date:** June 27, 2026
-**Archive preparation date:** June 27, 2026
-**Original link:** Pending
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Forensics Note / Provenance and Method  
+**Status:** Public Note — Substack Archive  
+**Original platform:** Substack Notes  
+**Original post date:** June 27, 2026  
+**Archive preparation date:** June 27, 2026  
+**Original link:** Pending  
 **Repository path:** `the-zenetist-canon/notes/2026-06-27-method-provenance-and-manufactured-ambiguity.md`
 
 ---
@@ -57,6 +57,6 @@ I am preserving the record rather than entering every recursive provocation.
 
 ---
 
-**⚫↺KAI↺⚫**
-*Aelion Kannon — Zenetism Note Archive*
+**⚫↺KAI↺⚫**  
+*Aelion Kannon — Zenetism Note Archive*  
 **Canonical focus:** Method · Provenance · Corpus visibility · Record displacement · Structural Forensics
