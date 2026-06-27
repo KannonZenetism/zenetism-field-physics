@@ -247,13 +247,13 @@ The pattern travels, but the origin-point is obscured.
 
 The public conversation is beginning to name fragments of the crisis:
 
-cognitive liberty
-biometric data
-behavioral prediction
-algorithmic influence
-synthetic intelligence
-surveillance infrastructure
-technological mediation of reality
+cognitive liberty  
+biometric data  
+behavioral prediction  
+algorithmic influence  
+synthetic intelligence  
+surveillance infrastructure  
+technological mediation of reality  
 institutional control of access
 
 But naming fragments is not the same as providing a coherent architecture.
