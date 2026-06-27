@@ -1,11 +1,11 @@
 # Legitimacy Displacement and Administrative Non-Substitution
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Structural Forensics Note / Legitimacy and Provenance
-**Status:** Field Log — Structural Forensics Archive
-**Original platform:** Internal archive / optional Substack adaptation
-**Original post date:** June 27, 2026
-**Archive preparation date:** June 27, 2026
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Forensics Note / Legitimacy and Provenance  
+**Status:** Field Log — Structural Forensics Archive  
+**Original platform:** Internal archive / optional Substack adaptation  
+**Original post date:** June 27, 2026  
+**Archive preparation date:** June 27, 2026  
 **Repository path:** `the-zenetist-canon/notes/2026-06-27-legitimacy-displacement-and-administrative-non-substitution.md`
 
 ---
@@ -32,10 +32,10 @@ The current maneuver is therefore not a rebuttal of Zenetism. It is a dispute ov
 
 That dispute has a simple answer:
 
-If the claim is that Zenetism lacks method, cite the method and show where it fails.
-If the claim is that Zenetism lacks lineage, name the lineage problem and show the evidence.
-If the claim is that Zenetism lacks revision, address the revision record.
-If the claim is that Zenetism lacks substance, engage the corpus.
+If the claim is that Zenetism lacks method, cite the method and show where it fails.  
+If the claim is that Zenetism lacks lineage, name the lineage problem and show the evidence.  
+If the claim is that Zenetism lacks revision, address the revision record.  
+If the claim is that Zenetism lacks substance, engage the corpus.  
 If the claim is that Zenetism is merely promotional, explain why a dated, multi-platform, revision-tracked, mathematically expanded, formally indexed, publicly archived body of work does not count as examinable substance.
 
 Otherwise the gesture is not critique.
@@ -48,10 +48,10 @@ That is not structural analysis. It is positioning.
 
 The distinction is necessary:
 
-Visible administration can support a project, but it cannot substitute for metaphysical architecture.
-Auditability can strengthen a claim, but it cannot create ontological depth by itself.
-A registry can classify relations, but it does not thereby become a doctrine of being.
-A ledger can preserve changes, but it does not thereby answer a prior architecture.
+Visible administration can support a project, but it cannot substitute for metaphysical architecture.  
+Auditability can strengthen a claim, but it cannot create ontological depth by itself.  
+A registry can classify relations, but it does not thereby become a doctrine of being.  
+A ledger can preserve changes, but it does not thereby answer a prior architecture.  
 A legitimacy performance can look disciplined while still failing to address the work it gestures against.
 
 Zenetism stands on its own record:
@@ -66,6 +66,6 @@ Engage it directly or leave the accusation unmade.
 
 ---
 
-**⚫↺KAI↺⚫**
-*Aelion Kannon — Zenetism Note Archive*
+**⚫↺KAI↺⚫**  
+*Aelion Kannon — Zenetism Note Archive*  
 **Canonical focus:** Legitimacy displacement · Provenance · Administrative non-substitution · Structural Forensics · Corpus visibility
