@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** June 27, 2026  
 **Archive preparation date:** June 27, 2026  
-**Original link:** Pending  
+**Original link:** https://substack.com/@aelionkannon/note/c-283576344  
 **Repository path:** `the-zenetist-canon/notes/2026-06-27-method-provenance-and-manufactured-ambiguity.md`
 
 ---
