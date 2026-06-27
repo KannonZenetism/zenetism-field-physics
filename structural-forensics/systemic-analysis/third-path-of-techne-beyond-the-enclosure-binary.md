@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics / Systemic Analysis / Technē  
 **Status:** Active Field Analysis  
-**Dependency:** portal-traveler-and-orientation.md · humanist-containment-and-the-master-servant-error.md · implicated-intelligence-and-moved-motion.md  
+**Dependency:** `portal-traveler-and-orientation.md` · `humanist-containment-and-the-master-servant-error.md` · `implicated-intelligence-and-moved-motion.md`  
 **Date:** June 27, 2026  
 **Context record:** Public discourse on cognitive liberty, biometric capture, behavioral prediction, algorithmic influence, and synthetic governance  
 **Repository path:** `structural-forensics/systemic-analysis/third-path-of-techne-beyond-the-enclosure-binary.md`
