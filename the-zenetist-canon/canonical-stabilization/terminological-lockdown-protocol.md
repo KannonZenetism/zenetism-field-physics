@@ -728,6 +728,8 @@ Preferred replacements include:
 
 Terminology should remain contextually appropriate.
 
+Choose the replacement by what "level" actually denotes. Where it marks a structural placement, prefer layer, stratum, register, band, or station. Where it marks scope or magnitude rather than position — for example "species-level" — prefer scale, scope, or breadth. Do not default to a layer-term where no structural placement is meant.
+
 Avoid inherited hierarchical language unless explicitly required by external quotation or analysis.
 
 ---
@@ -1082,7 +1084,7 @@ Where structurally appropriate, preferred formulations include:
 - orientational function
 - compositional expression
 
-Instrumentalist terminology is not universally prohibited, particularly within technical or analytical contexts, but should not unconsciously replace structurally relational language.
+Instrumentalist terminology is not universally prohibited, particularly within technical or analytical contexts, but should not unconsciously replace structurally relational language. Here an analytical context means analysis *of* another party's instrumentalist usage, not the adoption of instrumentalist framing in Zenetist authorial voice: the category is admitted as reported or examined, never as the author's own.
 
 ---
 
@@ -1109,6 +1111,13 @@ Canonical terminology instead prefers:
 where structurally appropriate.
 
 Mechanical contexts may still retain "tool" where literal instrumentation is the explicit subject.
+
+Beyond literal instrumentation, tool-language is admissible only when **attributed** — when reporting, quoting, or analyzing another party's stance, where the instrumentalist category belongs to that party rather than to Zenetist voice.
+
+* "Bob said he needs this tool" is lawful: the category is Bob's, reported.
+* "People need tools," in Zenetist authorial voice, is not: it presumes "tool" as a real category, which Zenetism does not affirm.
+
+In authorial voice, replace with device, apparatus, system, or the structurally precise term.
 
 ---
 
