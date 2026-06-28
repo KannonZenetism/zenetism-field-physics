@@ -47,7 +47,7 @@ The same displacement appears through at least four major routes:
 
 1. **Biological retreat** — the individual exits Technē and becomes excluded from the mediated world.
 2. **Synthetic enclosure** — the individual enters Technē as profile, substrate, managed node, or upgrade object.
-3. **Blob-consciousness** — the individual dissolves into undifferentiated unity, "all one consciousness," or field-identity without sovereign distinction.
+3. **Blob-consciousness** — the individual dissolves into undifferentiated sameness, "all one consciousness," or field-identity without sovereign distinction.
 4. **Authority inheritance** — sovereignty transfers acclivously to state, platform, institution, expert class, avatar figure, blueprint regime, or managed future-human template.
 
 These routes may appear opposed.
@@ -164,9 +164,13 @@ A third route appears in spiritual, mystical, New Age, and increasingly science-
 
 This is the language of universal consciousness, unified field consciousness, nondual absorption, collective awakening, ego dissolution, species-scale mind, and "all one consciousness."
 
-The danger is subtle because not every statement of unity is wrong.
+The danger is subtle because the intuition beneath unity-language is not always wrong, even where the word is.
 
 Zenetism does not deny relation, field-continuity, shared ground, resonance, nonlocal sympathy, transpersonal depth, or the possibility that consciousness has dimensions not reducible to ordinary individual psychology.
+
+In lawful form, what these intuitions reach for is coherence — relation that preserves distinction.
+
+Unity is the fusion-prone word for the same reach, and it is the word, not the longing, that collapses the distinction.
 
 The problem is not consciousness-as-fundamental as a philosophical question.
 
@@ -519,7 +523,7 @@ The biological retreat path excludes the individual from Technē.
 
 The synthetic enclosure path captures the individual through Technē.
 
-The blob-consciousness path dissolves the individual into undifferentiated unity.
+The blob-consciousness path dissolves the individual into undifferentiated sameness.
 
 The authority-inheritance path transfers sovereignty to rulers, platforms, institutions, and sanctioned interpreters.
 
