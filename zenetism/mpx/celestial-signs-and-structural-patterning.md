@@ -2,7 +2,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics / MPX  
-**Status:** Draft — Veracious Archive  
+**Status:** Draft — Veracious Archive — May 14 2026, revised June 28 2026  
+**Dependency:** Structural Metaphysics · Structural Physics · Lattice Mathematics (χ orientation) · `MP04-intelligence-and-ecology-ch7-8.md` (Cosmic Ecology and the Soul of Nature · the universe-being) · `metaphysics-symbol-key.md`  
 
 ---
 
@@ -163,6 +164,6 @@ Zenetism therefore preserves a cautious middle posture:
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
