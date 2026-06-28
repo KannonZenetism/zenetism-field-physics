@@ -1,5 +1,12 @@
 # MPX: Radical Skepticism
 
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Metaphysics Extension / Zenetist Canon  
+**Status:** Draft — Veracious Archive — May 18 2026, revised June 28 2026  
+**Dependency:** Structural Metaphysics · `metaphysics-symbol-key.md` (🕳️ Zenon) · `MP09-time-death-and-glossary-ch22-24.md` (Master Glossary)  
+
+---
+
 ## Overview
 
 This entry formalizes the Zenetist epistemic position that no human framework — religious, scientific, political, philosophical, esoteric, or contra-esoteric — can be treated as final or absolute.
@@ -22,7 +29,7 @@ It is not identical with Pyrrhonian skepticism, Cartesian methodological doubt, 
 
 Those traditions may share structural adjacency with Zenetist Radical Skepticism, but they do not exhaust its meaning.
 
-In Zenetist usage, Radical Skepticism names the epistemic posture that recognizes the conditionality of all frames of understanding, including the frame that claims to have overcome framing itself.
+In Zenetist parlance, Radical Skepticism names the epistemic posture that recognizes the conditionality of all frames of understanding, including the frame that claims to have overcome framing itself.
 
 ---
 
@@ -190,6 +197,6 @@ It allows Zenetism to serve as a bridge-language without becoming an absolute de
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
