@@ -162,7 +162,7 @@ It converts the person into a managed node.
 
 A third route appears in spiritual, mystical, New Age, and increasingly science-adjacent discourse.
 
-This is the language of universal consciousness, unified field consciousness, nondual absorption, collective awakening, ego dissolution, species-level mind, and "all one consciousness."
+This is the language of universal consciousness, unified field consciousness, nondual absorption, collective awakening, ego dissolution, species-scale mind, and "all one consciousness."
 
 The danger is subtle because not every statement of unity is wrong.
 
