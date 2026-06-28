@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Structural Physics  
-**Status:** Draft for Review  
+**Status:** Draft for Review — June 5 2026, revised June 28 2026  
 **Dependency:** *Non-Fusion at the Bifurcal Register* · *Emptiness, Luminosity, and the Bifurcal Limit* · *Coming Undone Is Not Transcendence* · *Humanist Containment and the Master / Servant Error* · `portal-traveler-and-orientation.md` · Soul / Mind Distinction (1.3) · Symbolic Directional Pairs (21.3) · 🏛️ Structon (SI, 21.2.2)  
 
 ---
