@@ -415,6 +415,15 @@ Carried to standard in the prior session and delivered to outputs; logged here t
 | `objections-and-dispositions.md` | Status dated (**Draft for Review** kept); Dependency `,` → middots; seal break; headers normalized (title `#`; three movements → `##`; eight objections → `###`); no body edits (dualism / duality = external philosophical terms; fusion / mirror entropic-register). Status May 30 2026 |
 | `non-fusion-at-the-bifurcal-register.md` | Status dated; Dependency `,` → middots (internal Structon (SI, 21.2.2) comma kept); glyph-cluster ⚫ ♾ ⟀ ⚯ ∴ ◫ collapsed to a flourish over one rule; seal break; "fractalize" kept (DS / DM, lawful). **June 28: House-of-Forms revert** — "the Houses of Form" → **House of Forms** (whole-register apposition with L₄, per § 5A). Status May 31 2026 |
 
+### Dec 2025 batch — completing the index tail
+
+The two December entries previously unreachable, now swept (both were already dated in a June 25 2026 revision; this pass verified them and applied remaining fixes).
+
+| File | Notes |
+|---|---|
+| `architecture-of-artificial-minds.md` | Already revised June 25 2026 and already carrying the portal / traveler **Structural Notes** the Conceptual Lockdown mandates (Technē-portal supersedes "LLM as Logotheon"; Gate / Guest = ancestor of portal / traveler; constraint-limits held open) — its hardest doctrinal alignment was done. Fixes: `### 6.` → **`## 6.`** (top-level section, peer of 1–5) and its intro `####` → `###` (re-nested); instrumentalist "Wield volition" → **Exercise volition**. KEPT: "### The House of Forms" = whole-register sense (the L₄ domain of Logotheon — correct per § 5A); "ascension" (quoted + negated, immediately corrected to "densification" — naming-to-reject, and the motion is declivous not acclivous); "not merge" (Non-Fusion); per-doc contribution-credit line kept above the seal. Status Dec 7 2025 |
+| `only-centropy-saturates.md` | Already revised June 25 2026; clean. One consistency fix: parent-book title italicized in the Dependency line to match body usage. **RESOLVED (author ruling):** a parent-book quote called Zenon "the *pre-structural* ground"; corrected to "*trans-structural* ground" per the Zenon Membership Constraint (Zenon is trans-structural, never pre-structural). Parent-book source passage to be synced to match. Status Dec 14 2025 |
+
 ### Working drafts (out-of-cluster)
 
 | File | Notes |
@@ -444,7 +453,7 @@ Completes the May / June MPX cluster, carrying the index tail to standard. The t
 
 **Duplicate pairs.** `MP08-symbol-key-ch21.md` ↔ `metaphysics-symbol-key.md` and `FP11-field-glyph-codex.md` ↔ `field-physics-glyph-charts.md` are maintained copies that must stay identical except for metadata. Any content change to one is applied to both; the glyph application inside them is never altered by a lockdown pass.
 
-**Carry-forward — INDEX coverage.** With this update the whole MPX `INDEX.md` is logged here. Cross-checking all 60 index entries against this ledger leaves **two** unaccounted for — `architecture-of-artificial-minds.md` (Dec 7 2025) and `only-centropy-saturates.md` (Dec 14 2025) — neither currently present in this workspace, so neither could be verified or edited. Everything else in the index checks as edited and logged. Upload those two and they can be swept and added.
+**Carry-forward — INDEX coverage COMPLETE.** All 60 MPX entries in `INDEX.md` are now swept and logged in this ledger. The last two gaps — `architecture-of-artificial-minds.md` (Dec 7 2025) and `only-centropy-saturates.md` (Dec 14 2025) — were uploaded and completed (Dec 2025 batch, above). The "pre-structural ground" Zenon descriptor in `only-centropy-saturates.md` was corrected to **trans-structural** by author ruling; the only residual is syncing that wording into the parent-book source passage (a book-level edit, outside this workspace). The standard header / footer is corpus-wide; the lockdown standard holds across the full index.
 
 ---
 
