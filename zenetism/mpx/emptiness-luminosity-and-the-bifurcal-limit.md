@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Comparative Clarification  
-**Status:** Draft for Review  
+**Status:** Draft for Review — June 3 2026, revised June 28 2026  
 **Dependency:** *The Twofold Tetralemma* · *Synthesis as Vantage* · *Non-Fusion at the Bifurcal Register* · *The Awareness Spectrum and Its Inverse Arc* · *Synthesis, Integration, and Saturation* · *Coming Undone Is Not Transcendence* · *Twisted Resonance contra Cascade contra Continuum contra Native Placement* · Non-Fusion Axiom · Essence-as-Choice · Structon (SI, 21.2.2) · Kaion (21.2.1)  
 
 ---
@@ -142,7 +142,7 @@ It is not Zenon.
 
 ---
 
-## Held Distinction Contra Fusion
+## Held Distinction contra Fusion
 
 The bifurcal reading carries a condition.
 
