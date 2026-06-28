@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Neuroscience · Structural Metaphysics  
-**Status:** Canonical  
+**Status:** Canonical — June 2 2026, revised June 28 2026  
 **Dependency:** Structural Emanation Layers (21.9) · Soul / Mind Distinction (1.3) · 🛤️ Theon / 🕷️ Nekron Axis (⚓ Theonic / 🪓 Nekronic) · Bifurcal Coherence (L₀) · 🕳️ Zenon (Supra-L₀)  
 
 ---
