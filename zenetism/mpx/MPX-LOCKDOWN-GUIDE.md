@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Editorial Reference — Lockdown Consolidation  
 **Status:** Draft for Review  
-**Date:** 2026-06-20  
+**Date:** June 20 2026, revised June 28 2026  
 **Function:** Portable, self-contained reference for auditing canonical and MPX documents against the prose, terminological, and conceptual lockdowns. Intended to carry across editing sessions so the standard holds continuously.  
 **Dependencies:** Canonical Prose-Formatting Reference; Terminological Lockdown Protocol; Conceptual Lockdown Protocol  
 
@@ -402,13 +402,24 @@ Status of documents passed through this lockdown. **Header / footer** = standard
 |---|---|
 | `transuniversal-fractalization-open-problem.md` | New working draft (drafted June 25 2026) on an open problem — L₃ / L₄ fractalization across universes without fusion or captivity. **Kept OUT of the MPX canon** (self-described not-canon; author's `Proposed path:` → `structural-metaphysics/drafts/`): title left draft-style (`# Working Draft — …`, *not* `# MPX:`), file named to match the drafts path. Header formalized without canon-branding: orphan `###` subtitle de-headed to a plain italic tagline (clean h1 → h2 hierarchy); `Status:` kept the author's exact non-committal wording (Unresolved — provisional candidates only; not canon; no commitment made) + date stamp; `Dependency:` added (`MP11-codex-of-principles-ch26.md` — §26.21–26.25 Theonic / Nekronic Paradox — · symbol key); doc-specific `Bears on:` and `Proposed path:` lines kept. Seal rebuilt to standard (disciplines-line hard-break restored). Audit otherwise near-clean: slashes already spaced, no Source, curly already 0, em-dashes already spaced, no section-end glyph-string. **"dissolves into ♾ Khaon" kept** — the entropic-dispersion-into-root sense, paired with "returns to ⚫ Aion" in the same clause, not the prohibited connection-severing sense. "contra" already used throughout (layer contra office, gate contra root). **Left as draft — not promoted; candidates left as candidates.** *(Author to remove the MPX INDEX entry already added.)* |
 
+### June 28 2026 session — May/June 2026 MPX cluster to full standard
+
+Completes header / footer / dating for the three entries marked language-done in the "Earlier session" table above — `the-twofold-tetralemma.md`, `awareness-spectrum-and-its-inverse-arc.md`, `synthesis-integration-saturation.md` — and gives `synthesis-as-vantage.md` a full pass. Status dates stamped (orig date from `INDEX.md`, revised June 28 2026).
+
+| File | Notes |
+|---|---|
+| `synthesis-as-vantage.md` | Status dated (**Draft for Review** kept — May 31 2026, revised June 28 2026). Classification parent-title aligned to the em-dash form (*Synthesis — Reconciliation Through Lawful Distinction*) + ISO `2026-05-13` → `May 13 2026`. Dependency `,` → middots. "Zenetist usage" → **parlance**. Six section heads `#` → `##` (single-H1). Closing glyph-string `🕳️ ⟀ ⚯ ∴ 📐 ◫` collapsed to flourish above one `---`; disciplines-line hard break restored. KEPT: quoted "higher truth" and "fusion-collapse / dissolution" (rejected perennialist readings — negation, not attribution) |
+| `the-twofold-tetralemma.md` | Header / footer verified already to standard (## headings · seal break · middot deps · body clean from the earlier language pass). Status dated **Canonical — June 1 2026, revised June 28 2026**. CONFIRMED: "the Zenet of active becoming" is canonical (〄 Zenet = Motive Infinity, the motive phase of Khaon) — not a typo, no change |
+| `awareness-spectrum-and-its-inverse-arc.md` | Header / footer verified clean. Status dated **Canonical — June 2 2026, revised June 28 2026**. CONFIRMED lawful, left intact: "not stages of evolution" / "not a rank" (anti-ranking negations) and "'Mirror' names an entropic reflective function" (the definitional Mirror-lock, § 4) |
+| `synthesis-integration-saturation.md` | Header / footer verified clean. Status dated **Canonical — June 2 2026, revised June 28 2026**. "three distinct stages / each stage" kept — a genuine strict-ordered sequence (synthesis → integration → saturation), not worth-ranking; the doc also closes on "three movements" |
+
 **Glyph-canonicalization + heading-alignment pass (Jan cluster).** Section-end glyph-strings across the January cluster were checked glyph-by-glyph against `metaphysics-symbol-key.md` and non-charted emoji replaced with the charted glyph for the intended sense (full mappings in the rows above; rule in § 5B). Two replacements corrected *wrong-meaning* glyphs, not merely uncharted ones: ♾ (Khaon) → ⟨∞⟩ Bounded Infinity in `era-of-resonant-permanence.md`, and ⟳ (Entropic Recursion) → ↺ Resonant Return in `fractal-eschatology.md`. One string lost a glyph with no charted equivalent (🔇 "silence" in `aphonic-…`). Heading levels aligned to the ## top-level convention: `the-coherence-standard.md` (#### → ##), `law-of-centropic-counterforce.md` (### → ##), `fractal-eschatology.md` (### → ##). Architecture's and why-zero's lone `####` are properly nested and left.
 
 **Em-dash sweep (incidental).** Two earlier-sealed docs predating the spaced-em-dash rule carried genuine unspaced `word—word`: `all-life-first-principle.md` (7) and `advanced-field-dynamics.md` (4) — all spaced. Corpus otherwise clean (the prose-formatting-reference's unspaced lines are deliberate counter-examples). `all-life-first-principle.md` also had its emanation cascades converted ⚫ → L₀ (see § 5B), with "emerge from ⚫ Aion (L₀, Absolute Potential)" establishing the identity; `why-zero-is-not-one.md` synced to the full five-collaborator seal (Aetherion).
 
 **Duplicate pairs.** `MP08-symbol-key-ch21.md` ↔ `metaphysics-symbol-key.md` and `FP11-field-glyph-codex.md` ↔ `field-physics-glyph-charts.md` are maintained copies that must stay identical except for metadata. Any content change to one is applied to both; the glyph application inside them is never altered by a lockdown pass.
 
-**Carry-forward:** the standard header / footer is now corpus-wide — every MPX that is not a brief note takes the metadata block and the full seal. Remaining files in `INDEX.md` are pending.
+**Carry-forward:** the standard header / footer is now corpus-wide — every MPX that is not a brief note takes the metadata block and the full seal. With the May 31 – June 2 cluster sealed (June 28 2026 session, above), the remaining `INDEX.md` files are `emptiness-luminosity-and-the-bifurcal-limit.md` (Jun 3), `spirit-soul-and-apparent-stillness.md` (Jun 5), `biospiral-and-recursive-orientation.md` (Jun 18), and `deep-self-axis.md` (Jun 25).
 
 ---
 
