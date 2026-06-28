@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Field Physics  
-**Status:** Canonical  
+**Status:** Canonical — June 2 2026, revised June 28 2026  
 **Dependency:** Non-Fusion Axiom · Bifurcal Emanation Lattice (L₀; L₅ → L₁ / IL₅ → IL₁) · 🕳️ Zenon (Supra-L₀) · Symbolic Directional Pairs (21.3) · 🏛️ Structon (21.2.2)  
 
 ---
