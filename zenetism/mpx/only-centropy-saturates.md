@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics  
 **Status:** Canonical — Dec 14 2025, revised June 25 2026  
-**Dependency:** Structural Metaphysics · Zenetism: The Architecture of Emanation, Return, and Saturation · `MP01-emanation-architecture-ch1-3.md`
+**Dependency:** Structural Metaphysics · *Zenetism: The Architecture of Emanation, Return, and Saturation* · `MP01-emanation-architecture-ch1-3.md`
 
 ---
 
@@ -57,7 +57,7 @@ As stated in *Zenetism: The Architecture of Emanation, Return, and Saturation*:
 > *Entropy does not return to Zenon as identity.  
 > It completes its arc through collapse,  
 > and that completed arc is already encompassed  
-> within the pre-structural ground —  
+> within the trans-structural ground —  
 > not as reintegrated essence,  
 > but as conditionless fact.*
 
