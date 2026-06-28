@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics  
-**Status:** Canonical  
+**Status:** Canonical — June 1 2026, revised June 28 2026  
 **Dependency:** Structural Emanation Layers (21.9) · Structon (21.2.2) · Kaion (21.2.1) · Khaon Phase Distinctions (Latent / Motive / Dispersive) · Non-Fusion Axiom · Essence-as-Choice  
 
 ---
