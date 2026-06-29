@@ -6,7 +6,7 @@
 **Date:** June 29, 2026  
 **Record window:** June 29, 2026, approximately 5:42 AM–10:14 AM  
 **Context record:** Public Substack exchange concerning origin-continuity, ownership inversion, generic motif displacement, functional architecture, and subsequent thread removal  
-**Repository path:** `structural-forensics/exhibits/2026-06-29-copeland-origin-continuity-exchange-record.md`
+**Repository path:** `structural-forensics/exhibits/2026-06-29-copeland-origin-continuity-exchange-record.md`  
 
 ---
 
@@ -288,5 +288,6 @@ Relevant existing paths include:
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Forensics Archive*  
-**Canonical focus:** Origin-continuity · Ownership inversion · Functional architecture · Reskinned terminology · Record preservation**
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
