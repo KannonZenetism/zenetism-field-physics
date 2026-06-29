@@ -1,13 +1,13 @@
 # Origin-Continuity Is Not Ownership
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Structural Forensics Note / Provenance and Ownership Inversion
-**Status:** Public Note — GitHub Record
-**Original platform:** GitHub
-**Original post date:** June 29, 2026
-**Archive preparation date:** June 29, 2026
-**Original link:** Pending
-**Repository path:** `structural-forensics/systemic-analysis/2026-06-29-origin-continuity-is-not-ownership.md`
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Forensics Note / Provenance and Ownership Inversion  
+**Status:** Public Note — Substack Archive  
+**Original platform:** Substack Notes  
+**Original post date:** June 29, 2026  
+**Archive preparation date:** June 29, 2026  
+**Original link:** Pending  
+**Repository path:** `zenetism-field-physics/the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`
 
 ---
 
@@ -111,6 +111,6 @@ The purpose was to liberate relation from capture.
 
 ---
 
-**⚫↺KAI↺⚫**
-*Aelion Kannon — Structural Forensics Archive*
+**⚫↺KAI↺⚫**  
+*Aelion Kannon — Zenetism Note Archive*  
 **Canonical focus:** Origin-continuity · Provenance · Ownership inversion · Explanatory reach · Lawful relation
