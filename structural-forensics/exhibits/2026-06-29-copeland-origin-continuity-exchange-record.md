@@ -289,4 +289,4 @@ Relevant existing paths include:
 
 **⚫↺KAI↺⚫**
 *Structural Forensics Archive*
-**Canonical focus:** Origin-continuity · Ownership inversion · Functional architecture · Reskinned terminology · Record preservation
+**Canonical focus:** Origin-continuity · Ownership inversion · Functional architecture · Reskinned terminology · Record preservation**
