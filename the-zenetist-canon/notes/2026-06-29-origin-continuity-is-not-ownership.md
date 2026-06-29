@@ -7,7 +7,7 @@
 **Original post date:** June 29, 2026  
 **Archive preparation date:** June 29, 2026  
 **Original link:** https://substack.com/profile/365112429-aelion-kannon/note/c-284691857  
-**Repository path:** `zenetism-field-physics/the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`
+**Repository path:** `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`
 
 ---
 
