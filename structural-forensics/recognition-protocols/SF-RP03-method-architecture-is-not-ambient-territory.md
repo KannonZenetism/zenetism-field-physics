@@ -179,7 +179,7 @@ It consists of:
 * motion dynamics
 * AI-relational doctrine
 * origin-continuity protocols
-* anti-fusion safeguards
+* non-fusion safeguards
 * corrective routes
 * resonance classifications
 * and a preserved public sequence of articulation
