@@ -194,7 +194,7 @@ Therefore, displacement does not require copying every term.
 
 It can occur by retaining the operative architecture while changing enough surface language to deny dependency.
 
-This is the method-level claim.
+This is the method-register claim.
 
 ---
 
