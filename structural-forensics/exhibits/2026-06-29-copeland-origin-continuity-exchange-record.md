@@ -287,6 +287,24 @@ Relevant existing paths include:
 
 ---
 
+## Addendum — Subscriber Visibility Change
+
+After the exchange was preserved, Chris Copeland no longer appeared in the visible Aelion Kannon Substack subscriber list.
+
+Earlier screenshot evidence showed Copeland present in the subscriber list. A later screenshot from June 30, 2026, approximately 5:44 AM, shows the same subscriber list view with Copeland absent.
+
+This does not establish motive by itself.
+
+It does establish a sequence condition:
+
+> Subscriber access was documented before and during the dispute; after the exchange and the restacked attachment becoming unavailable, Copeland no longer appeared in the visible subscriber list.
+
+Classification:
+
+**subscriber-status change / access-proximity record / post-exchange visibility change**
+
+---
+
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
 
