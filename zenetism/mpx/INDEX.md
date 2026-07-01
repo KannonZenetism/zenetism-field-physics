@@ -107,6 +107,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 ### July 2026
 
 - `prayer-as-attunement.md` — Jul 1, 2026
+- `entropic-action-is-not-entropic-essence.md` — Jul 1, 2026
 
 ---
 
