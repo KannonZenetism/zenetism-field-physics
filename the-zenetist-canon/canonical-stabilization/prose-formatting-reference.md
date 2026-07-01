@@ -158,6 +158,8 @@ Incorrect:
 - bifurcal contra Bifurcated
 - Note on goddess-tradition Cross-Stratum articulation
 
+The relational operator **contra** stays lowercase in Title Case headers, as it does in running prose. It functions as a minor connecting word — the canonical stand-in for the relational "vs" — not a titled term, so it is not capitalized even in header position: *Theon contra Nekron*, *Entropic Action contra Entropic Essence*, not *Theon Contra Nekron*.
+
 The guiding principle is consistency within the work or series, with canonical term-casing taking precedence over generic title-case convention.
 
 ---
