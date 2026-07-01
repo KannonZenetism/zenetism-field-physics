@@ -649,6 +649,85 @@ New poetic work may adopt the early register, develop new registers, or remain i
 
 ---
 
+# MPX Entry Format
+
+The Metaphysics Extensions (MPX) series follows the general prose conventions of this reference, with the series-specific standardizations below. These govern MPX clarification and extension entries. They do not override the internal standardization of the principal MP book-series, which maintains its own conventions; consistency is held within each series rather than forced across them.
+
+## Title
+
+MPX entries take the colon-separated reference form as their title:
+
+````
+# MPX: [Entry Title]
+````
+
+The colon follows the X-extension cross-reference convention. An em dash within the title is reserved for a subtitle following the entry name — as in *MPX: Synthesis as Vantage — The Discernibility Limit and the Unknown Principle* — not for the MPX separator itself.
+
+## Metadata Block
+
+MPX entries open with the four core fields below. These four are the required minimum, not a ceiling: additional fields may be included where an entry calls for them — a Primary Glyph line, a Series line, or similar — and are not banned.
+
+````
+# MPX: [Title]
+
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Metaphysics Extension — [descriptor]  
+**Status:** [Stage] — [date][, revised date]  
+**Dependency:** [dependency chain]  
+````
+
+- Classification expands MPX as Metaphysics Extension and names the entry's descriptor; where the entry extends a specific prior work, it takes the phrase "extending *[Title]* ([date])".
+- Status folds the date into the status line rather than carrying a separate Date field. A first-pass entry carries a single date; a revised entry appends ", revised [date]".
+- Date format omits the comma: Dec 20 2025, not Dec 20, 2025.
+- Where an optional field is added, the Primary Glyph line (**Primary Glyph:** 🫂 Kin) is the established example.
+- Each metadata line ends with two trailing spaces to preserve hard line-break rendering.
+
+## Dependency Line
+
+The Dependency line orients the reader to antecedent files and principles, most load-bearing first. It orients; it does not summarize.
+
+- Filenames appear in backticks: `MP07-paths-of-resonance-ch16-20.md`.
+- Section references use the § form: (§17.2), (`MP05-godhood-and-transmutation-ch9-11.md` §11.3).
+- Note and section titles cited within a dependency appear in italics: *Note on Essence-as-Choice*.
+- Dependencies are separated by the spaced middot ( · ).
+- Named principles and axioms — Principle of Structured Manifestation, Non-Fusion Axiom — appear in plain text, neither backticked nor italicized, since they are principles rather than files or titles.
+- Select the single most load-bearing locator per dependency rather than reproducing its full sub-structure.
+
+## Horizontal Rules
+
+MPX entries place a horizontal rule between major ## sections. This is the prevailing MPX pattern, and its section-delimiting function outweighs the rhythm cost in the series' characteristically short-section entries. The principal MP book-series may follow a different internal standard; each series remains internally consistent.
+
+## Register and Drafting Fingerprint
+
+MPX entries are composed in the technical register. Within that register, an entry may retain the natural line-rhythm of its drafting collaborator — including single-sentence line breaks — provided it does not cross into poetic-register features (bold-saturation, glyph-at-line-end articulation, staggered verse breaks). Register, terminology, and the formatting locks remain canonical regardless of drafting source; line-rhythm may bear the collaborator's fingerprint without becoming poetic-register drift.
+
+## Naming-Register Consistency
+
+Within a passage, the naming register of the bifurcal roots and hypostases remains consistent:
+
+- Mythic names together: Aion / Khaon, Theon / Nekron
+- Principle names together: Zero / Infinity, Absolute Potential / Absolute Dispersion, Unknown Principle
+- Layer notation together: L₀, L₅ / IL₅
+
+Where a mythic name is evoked, surrounding paired terms are also mythic; where layers are evoked, layers are listed; where principle-names appear, they are applied uniformly. A cross-register synonym pairing for a single referent — for example "Zero / Aion," where Zero and Aion name the same root under different registers — is avoided: the spaced slash marks sovereign distinction between two terms, not equivalence between one referent's two names. Use one register's name (return to Aion, or return to Zero), not both joined by a distinction-slash.
+
+Definitional lists that enumerate the essence-register across naming systems may legitimately span registers. There the grouping proceeds layers, then hypostatic figures, then coherence-state, then motion-phrases.
+
+## L₅ / IL₅ Nomenclature
+
+The proper canonical names for the L₅ / IL₅ essence-of-being registers are:
+
+- **Essence of Being (EOB)** — L₅
+- **Void of Self (VOS)** — IL₅
+
+"Being Itself" and "Non-Being" remain valid descriptors and may be used descriptively, but they do not serve as the proper names. EOB and VOS are the proper-name forms.
+
+## Closing
+
+MPX entries close with an optional glyph-string line tying to the entry's operative concepts, followed by the standard closing seal.
+
+---
+
 # Flexibility Statement
 
 The following formatting choices are intentionally not pinned within this protocol and remain individual-document judgment calls:
