@@ -150,7 +150,7 @@ But prayer may alter the soul's relation to what has happened.
 
 It may assist recognition.
 
-It may soften fragmentation.
+It may soften distortion.
 
 It may orient attention.
 
