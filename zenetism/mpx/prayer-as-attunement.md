@@ -62,11 +62,12 @@ Essence pertains to the pre-Soul and beyond-Soul registers:
 - Supra-L₀
 - L₀
 - L₅ / IL₅
+- Zenon
+- Bifurcal Coherence
 - Aion
 - Khaon
 - Theon
 - Nekron
-- Bifurcal Coherence
 - rare saturation into Zenon
 - return to Aion
 
