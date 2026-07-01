@@ -19,7 +19,7 @@ This model is structurally unstable.
 
 If the request is fulfilled, the prayer is treated as answered.
 
-If the request is not fulfilled, the prayer is treated as answered differently, deferred, denied for a higher purpose, or absorbed into a hidden plan.
+If the request is not fulfilled, the prayer is treated as answered differently, deferred, denied for a deeper purpose, or absorbed into a hidden plan.
 
 In this form, petitionary prayer becomes difficult to distinguish from confirmation-loop theology.
 
