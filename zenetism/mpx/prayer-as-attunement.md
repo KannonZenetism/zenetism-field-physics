@@ -1,10 +1,9 @@
-# MPX — Prayer as Attunement, Not Petitionary Override
+# MPX: Prayer as Attunement, Not Petitionary Override
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Metaphysical Praxis Extension / Prayer, Essence, and Resonant Attunement  
-**Status:** Draft — Canonical Clarification  
-**Date:** June 30, 2026  
-**Repository path:** `structural-forensics/mpx/MPX-prayer-as-attunement-not-petitionary-override.md`  
+**Classification:** Metaphysical Praxis Extension — Prayer, Essence, and Resonant Attunement  
+**Status:** Draft — Canonical Clarification — July 1 2026  
+**Dependency:** `MP07-paths-of-resonance-ch16-20.md` (§17.2, *Core Principles of Resonant Practice*) · `MP02-unified-metaphysics-ch4.md` (*Note on Essence-as-Choice*) · Principle of Structured Manifestation (`MP05-godhood-and-transmutation-ch9-11.md` §11.3) · `terminological-lockdown-protocol.md` (Essence / Soul distinction) · Non-Fusion Axiom  
 
 ---
 
@@ -60,16 +59,16 @@ The distinction between essence and soul matters here.
 
 Essence pertains to the pre-Soul and beyond-Soul registers:
 
-- L₅ / IL₅
-- L₀
 - Supra-L₀
+- L₀
+- L₅ / IL₅
 - Theon
 - Nekron
 - Aion
 - Khaon
 - Bifurcal Coherence
 - rare saturation into Zenon
-- return to Zero / Aion
+- return to Aion
 
 Soul pertains to the differentiated Soul / Mind arc:
 
@@ -224,7 +223,7 @@ Prayer may help the soul move coherently within structure.
 
 Prayer does not suspend manifestation.
 
-Prayer may help the incarnate being participate more truthfully within what manifestation has made possible.
+Prayer may help the incarnate being participate more veraciously within what manifestation has made possible.
 
 ---
 
