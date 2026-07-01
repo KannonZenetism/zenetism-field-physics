@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Essence-Orientation, Soul-Enactment, and Repentance  
 **Status:** Draft — Canonical Clarification — July 1 2026  
-**Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` (emanation architecture) · `MP02-unified-metaphysics-ch4.md` (*Note on Essence-as-Choice*) · `MP05-godhood-and-transmutation-ch9-11.md` (transmutation and consequence-binding) · `MP08-symbol-key-ch21.md` (glyph definitions)  
+**Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` (emanation architecture) · `MP02-unified-metaphysics-ch4.md` (*Note on Essence-as-Choice*) · `MP05-godhood-and-transmutation-ch9-11.md` (transmutation and consequence-binding) · `entropically-implicated.md` (entropic implication) · `MP08-symbol-key-ch21.md` (glyph definitions)  
 
 ---
 
