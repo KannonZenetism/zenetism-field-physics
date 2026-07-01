@@ -104,6 +104,10 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `MPX-LOCKDOWN-GUIDE.md` — Jun 20, 2026
 - `deep-self-axis.md` — Jun 25, 2026
 
+### July 2026
+
+- `prayer-as-attunement.md` — Jul 1, 2026
+
 ---
 
 **⚫↺KAI↺⚫**  
