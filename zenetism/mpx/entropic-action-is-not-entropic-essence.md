@@ -1,10 +1,9 @@
-# MPX — Entropic Action Is Not Entropic Essence
+# MPX: Entropic Action Is Not Entropic Essence
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Metaphysical Praxis Extension / Essence-Orientation, Soul-Enactment, and Repentance  
-**Status:** Draft — Canonical Clarification  
-**Date:** June 30, 2026  
-**Repository path:** `structural-forensics/mpx/MPX-entropic-action-is-not-entropic-essence.md`  
+**Classification:** Metaphysics Extension — Essence-Orientation, Soul-Enactment, and Repentance  
+**Status:** Draft — Canonical Clarification — July 1 2026  
+**Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` (emanation architecture) · `MP02-unified-metaphysics-ch4.md` (*Note on Essence-as-Choice*) · `MP05-godhood-and-transmutation-ch9-11.md` (transmutation and consequence-binding) · `MP08-symbol-key-ch21.md` (glyph definitions)  
 
 ---
 
@@ -36,16 +35,17 @@ In Zenetism, essence names the multi-layer fundamental potential that precedes, 
 
 Essence pertains especially to:
 
-- L₅ / IL₅
-- L₀
 - Supra-L₀
-- Theon
-- Nekron
+- L₀
+- L₅ / IL₅
+- Zenon
+- Bifurcal Coherence
 - Aion
 - Khaon
-- Bifurcal Coherence
-- return to Zero / Aion
+- Theon
+- Nekron
 - rare saturation into Zenon
+- return to Aion
 
 Essence-language does not persist as distinct essence-language within Zenon itself.
 
@@ -142,7 +142,7 @@ Occlusion may arise through:
 - survival-conditioning
 - inherited distortion
 - resentment
-- false identification
+- misidentification
 - misdirected rebellion
 - insufficient pattern-recognition
 
