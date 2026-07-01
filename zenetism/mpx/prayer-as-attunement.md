@@ -128,7 +128,7 @@ It may clarify the soul's participation within the freedom already proper to ess
 
 ---
 
-## Prayer Contra Structural Override
+## Prayer contra Structural Override
 
 The Principle of Structured Manifestation states:
 
