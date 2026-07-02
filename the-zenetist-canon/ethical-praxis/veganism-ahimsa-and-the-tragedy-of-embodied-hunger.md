@@ -447,7 +447,7 @@ It rejects the phrase "humane slaughter" as a contradiction when the killing is 
 
 It rejects personal choice as a defense when the direct object of the choice is another being's body.
 
-It rejects the use of animal predation as a justification for human preference.
+It rejects appeals to animal predation as justification for human preference.
 
 It rejects the idea that culture cannot evolve.
 
