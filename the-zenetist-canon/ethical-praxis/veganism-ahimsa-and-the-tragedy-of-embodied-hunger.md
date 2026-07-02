@@ -165,7 +165,7 @@ The centropic question is not whether the killing can be made more comfortable.
 
 The centropic question is whether the killing is necessary.
 
-Where it is not necessary, slaughter remains an act of domination over another being's life for the sake of appetite, habit, profit, or tradition.
+Where it is not necessary, slaughter remains a coercive violation of another being's life for the sake of appetite, habit, profit, or tradition.
 
 ---
 
