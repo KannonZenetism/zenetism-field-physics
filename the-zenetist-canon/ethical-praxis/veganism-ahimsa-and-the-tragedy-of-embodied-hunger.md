@@ -99,11 +99,11 @@ The ideal path is eventual release from consumption itself.
 
 A being approaching deeper centropic coherence begins to seek freedom from the cycle of extraction.
 
-The higher ideal is not killing more gently.
+The centropic ideal is not killing more gently.
 
-The higher ideal is not eating with cleaner symbolism.
+The centropic ideal is not eating with cleaner symbolism.
 
-The higher ideal is radiance rather than hunger.
+The centropic ideal is radiance rather than hunger.
 
 The most coherent form of sustenance would be participation in energy itself: nourishment without killing, continuity without predation, life sustained without another being's body becoming the site of extraction.
 
