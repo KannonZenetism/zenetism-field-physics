@@ -415,7 +415,7 @@ A vegan can be vain.
 
 A vegan can be coercive.
 
-A vegan can turn compassion into superiority.
+A vegan can turn compassion into self-glorification.
 
 Diet alone does not determine soul-orientation.
 
