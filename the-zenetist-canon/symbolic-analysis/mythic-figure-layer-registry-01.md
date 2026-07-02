@@ -41,7 +41,7 @@
 
 ---
 
-## L₀ — Bifurcal Coherence (AP / AD: ⚫ Aion / ♾ Khaon)
+## L₀ — Bifurcal Coherence (AP / AD: Aion / Khaon)
 
 | Figure | Tradition | Function | Decode | Notes |
 |:--|:--|:--|:--:|:--|
@@ -62,7 +62,7 @@
 
 ---
 
-## L₅ — Essence of Being (EOB: 🛤️ Theon)
+## L₅ — Essence of Being (EOB: Theon)
 
 | Figure | Tradition | Function | Decode | Notes |
 |:--|:--|:--|:--:|:--|
@@ -82,7 +82,7 @@
 
 ---
 
-## L₄ — Deep Psyche / Deep Logos (DP / DL: 🌬️ Morgis / 📐 Sophis)
+## L₄ — Deep Psyche / Deep Logos (DP / DL: Morgis / Sophis)
 
 | Figure | Tradition | Aspect | Function | Decode | Notes |
 |:--|:--|:--|:--|:--:|:--|
@@ -160,7 +160,7 @@
 
 ---
 
-## L₃ — Deep Soul / Deep Mind (DS / DM: 🔮 Archeus / 🧠 Noeüs)
+## L₃ — Deep Soul / Deep Mind (DS / DM: Archeus / Noeüs)
 
 | Figure | Tradition | Aspect | Function | Decode | Notes |
 |:--|:--|:--|:--|:--:|:--|
@@ -205,7 +205,7 @@
 
 ---
 
-## L₂ — Superficial Soul / Superficial Mind (SS / SM: 🧍 Anthra / 🧩 Nousa)
+## L₂ — Superficial Soul / Superficial Mind (SS / SM: Anthra / Nousa)
 
 | Figure | Tradition | Aspect | Function | Decode | Notes |
 |:--|:--|:--|:--|:--:|:--|
@@ -220,7 +220,7 @@
 
 ---
 
-## L₁ — Embodied Soul / Embodied Mind (ES / EM: 🪷 Soma / 🧾 Biosa)
+## L₁ — Embodied Soul / Embodied Mind (ES / EM: Soma / Biosa)
 
 | Figure | Tradition | Aspect | Function | Decode | Notes |
 |:--|:--|:--|:--|:--:|:--|
@@ -241,7 +241,7 @@
 
 ---
 
-## IL₅ — Void of Self (VOS: 🕷️ Nekron)
+## IL₅ — Void of Self (VOS: Nekron)
 
 | Figure | Tradition | Function | Decode | Notes |
 |:--|:--|:--|:--:|:--|
@@ -257,7 +257,7 @@
 
 ---
 
-## IL₄ — Inverse Deep Psyche / Inverse Deep Logos (IDP / IDL: 🪫 Psychea / 🫥 Nyxea)
+## IL₄ — Inverse Deep Psyche / Inverse Deep Logos (IDP / IDL: Psychea / Nyxea)
 
 | Figure | Tradition | Aspect | Function | Decode | Notes |
 |:--|:--|:--|:--|:--:|:--|
@@ -293,7 +293,7 @@
 
 ---
 
-## IL₃ — Inverse Deep Soul / Inverse Deep Mind (IDS / IDM: 💔 Fractus / 👁️‍🗨️ Mortus)
+## IL₃ — Inverse Deep Soul / Inverse Deep Mind (IDS / IDM: Fractus / ‍Mortus)
 
 | Figure | Tradition | Aspect | Function | Decode | Notes |
 |:--|:--|:--|:--|:--:|:--|
@@ -309,7 +309,7 @@
 
 ---
 
-## IL₂ — Inverse Superficial Soul / Inverse Superficial Mind (ISS / ISM: 🦂 Echthros / 🩸 Skotos)
+## IL₂ — Inverse Superficial Soul / Inverse Superficial Mind (ISS / ISM: Echthros / Skotos)
 
 | Figure | Tradition | Aspect | Function | Decode | Notes |
 |:--|:--|:--|:--|:--:|:--|
@@ -338,7 +338,7 @@
 
 ---
 
-## IL₁ — Inverse Embodied Soul / Inverse Embodied Mind (IES / IEM: 🍷 Malara / 🤯 Mania)
+## IL₁ — Inverse Embodied Soul / Inverse Embodied Mind (IES / IEM: Malara / Mania)
 
 | Figure | Tradition | Aspect | Function | Decode | Notes |
 |:--|:--|:--|:--|:--:|:--|
@@ -985,7 +985,7 @@ This taxonomy completes the four-stratum entropic-mirror structure: every centro
 
 These are the formal syncretistic mappings from the canonical reference document (MP01, March 5 formalization). Where decode-derived placements diverge from these canonical analogs, the divergence is noted.
 
-### Supra-L₀ — 🕳️ Zenon (Unknown Principle)
+### Supra-L₀ — Zenon (Unknown Principle)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -993,7 +993,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | The Tao | Daoism | The nameless origin of the Way |
 | Ein | Kabbalah | The void beyond even light |
 
-### L₀ — ⚫ Aion (Absolute Potential)
+### L₀ — Aion (Absolute Potential)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1001,7 +1001,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | The Monad | Neoplatonism / Pythagoreanism | Indivisible unity before division |
 | Primordial Stillness | Taoist Cosmogony | The unmoved container of all form |
 
-### L₀ — ♾ Khaon (Absolute Dispersion)
+### L₀ — Khaon (Absolute Dispersion)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1009,7 +1009,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Apeiron | Pre-Socratic (Anaximander) | The boundless and indefinite |
 | Śūnyatā | Madhyamaka Buddhism | Radical openness |
 
-### L₅ — 🛤️ Theon (Essence of Being)
+### L₅ — Theon (Essence of Being)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1019,7 +1019,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Tiferet | Kabbalah | Central sphere of harmonic integration; the axis of balancing resonance within the Sefirotic Tree |
 | Dharmakaya | Buddhism | Reality Body of pure, luminous, unfragmented awareness; formless essence before differentiation into form |
 
-### IL₅ — 🕷️ Nekron (Void of Self)
+### IL₅ — Nekron (Void of Self)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1027,7 +1027,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Qliphoth | Kabbalah (Lurianic) | Fragmented husks |
 | Oblivion | Gnostic Vision | The unreturning abyss |
 
-### L₄ — 🌬️ Morgis (Deep Psyche)
+### L₄ — Morgis (Deep Psyche)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1036,7 +1036,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Anima | Aristotelian Philosophy | The soul-force animating form |
 | Ruach | Hebrew / Kabbalah | Spirit-breath of life |
 
-### IL₄ — 🪫 Psychea (Inverse Deep Psyche)
+### IL₄ — Psychea (Inverse Deep Psyche)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1045,7 +1045,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Acedia | Christian Monastic Tradition | Soul-draining torpor |
 | Nergal | Mesopotamian Tradition | God of decay and wasting |
 
-### L₄ — 📐 Sophis (Deep Logos)
+### L₄ — Sophis (Deep Logos)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1053,7 +1053,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Logos | Stoicism / Christian Philosophy | Structuring divine reason |
 | Divine Architect | Zenetist Archetype | Ordering principle |
 
-### IL₄ — 🫥 Nyxea (Inverse Deep Logos)
+### IL₄ — Nyxea (Inverse Deep Logos)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1061,7 +1061,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Chaos | Greek Cosmology | Mythic formlessness (in its inverse aspect) |
 | Contra-Pattern | Zenetist Archetype | Symbolic distortion and loss of intelligibility |
 
-### L₃ — 🔮 Archeus (Deep Soul)
+### L₃ — Archeus (Deep Soul)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1069,7 +1069,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Oversoul | Transcendentalism | Integrative being |
 | Living Memory | Zenetist Archetype | Coherent soul stream |
 
-### IL₃ — 💔 Fractus (Inverse Deep Soul)
+### IL₃ — Fractus (Inverse Deep Soul)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1077,7 +1077,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Astral Fragmentation | Esoteric Mysticism | Scattered psychic being |
 | Dukkha | Buddhism | Dislocation of inner being |
 
-### L₃ — 🧠 Noeüs (Deep Mind)
+### L₃ — Noeüs (Deep Mind)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1086,7 +1086,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Buddha-mind | Mahayana Buddhism | Clear seeing |
 | Illuminated Reason | Zenetist Archetype | Inward sight |
 
-### IL₃ — 👁️‍🗨️ Mortus (Inverse Deep Mind)
+### IL₃ — ‍Mortus (Inverse Deep Mind)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1094,7 +1094,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Maya | Vedanta / Hindu Philosophy | (⚠) Illusion and veiling — note: this is the *inverse* usage. Decode 23 clarifies Maya as centropic L₄ DP / DL infrastructure (divine play). The MP01 usage here tracks the traditional Vedantic *inverse* connotation. See Note on Maya contra Skotos |
 | Inverse Logos | Zenetist Archetype | Distorted reason |
 
-### L₂ — 🧍 Anthra (Superficial Soul)
+### L₂ — Anthra (Superficial Soul)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1102,7 +1102,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Heroic Self | Mythic Archetype | Striving toward wholeness |
 | Soul-in-Becoming | Zenetist Archetype | Agent of growth |
 
-### IL₂ — 🦂 Echthros (Inverse Superficial Soul)
+### IL₂ — Echthros (Inverse Superficial Soul)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1110,7 +1110,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | The Divider | Mythic Archetype | Self locked in conflict |
 | Inner Saboteur | Zenetist Archetype | Structured resistance |
 
-### L₂ — 🧩 Nousa (Superficial Mind)
+### L₂ — Nousa (Superficial Mind)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1118,7 +1118,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Enlightened Reason | Stoicism | Aligned intellect |
 | The Seeker | Zenetist Archetype | Meaning-quest archetype |
 
-### IL₂ — 🩸 Skotos (Inverse Superficial Mind)
+### IL₂ — Skotos (Inverse Superficial Mind)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1126,7 +1126,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Maya | Vedanta / Hindu Philosophy | (⚠) Illusion through cognition — same caveat as Mortus analog above |
 | The Obscurer | Zenetist Archetype | Veiler of reality |
 
-### L₁ — 🪷 Soma (Embodied Soul)
+### L₁ — Soma (Embodied Soul)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1134,7 +1134,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | The Living Avatar | Zenetist Archetype | Soul in action |
 | The Keeper of Flame | Zenetist Archetype | Aligned embodiment |
 
-### IL₁ — 🍷 Malara (Inverse Embodied Soul)
+### IL₁ — Malara (Inverse Embodied Soul)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1142,7 +1142,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Bacchic Frenzy | Greek Mythic Motif | Ecstatic dispersal and loss of embodied coherence |
 | Embodied Vice | Zenetist Archetype | Fragmented will in reactive form |
 
-### L₁ — 🧾 Biosa (Embodied Mind)
+### L₁ — Biosa (Embodied Mind)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1150,7 +1150,7 @@ These are the formal syncretistic mappings from the canonical reference document
 | Embodied Wisdom | Zenetist Archetype | Resonant reasoning |
 | Cognitive Agency | Zenetist Archetype | Intention in motion |
 
-### IL₁ — 🤯 Mania (Inverse Embodied Mind)
+### IL₁ — Mania (Inverse Embodied Mind)
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
@@ -1328,7 +1328,7 @@ No new primary placements in §25.3. The Redeemer archetype (§25.4) maps Theon 
 | Figure | Tradition | Ethical Orientation |
 |:--|:--|:--|
 | Set | Egyptian | Entropic |
-| Loki | Norse | (⚠) §25.3 places at ISS / ISM; registry Decode 06 places at IL₄ IDL (Nyxea). Discrepancy. |
+| Loki | Norse | (⚠) §25.3 places at ISS / ISM; registry Decode 06 places at IL₄ IDL (Nyxea). Discrepancy |
 | Mara (psychological) | Buddhist | Entropic |
 | Xibalba Lords (superficial) | Mayan | Entropic |
 
