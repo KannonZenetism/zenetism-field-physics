@@ -315,7 +315,7 @@ It distinguishes survival from appetite.
 
 It distinguishes embodied constraint from defended consumption.
 
-Where animal consumption is unnecessary, appeals to health, habit, or practicality should not be used to make another being's death disappear from view.
+Where animal consumption is unnecessary, appeals to health, habit, or practicality should not make another being's death disappear from view.
 
 ---
 
