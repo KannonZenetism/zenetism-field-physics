@@ -289,33 +289,33 @@ The Resonant should ask which direction carries greater coherence.
 
 ## Health, Constraint, and Practicality
 
-Health objections must be addressed without exaggeration.
+Health objections should be addressed without allowing them to become a permanent defense of unnecessary slaughter.
 
-Zenetism does not require a person to violate real medical constraint.
+Zenetism does not pretend every body, circumstance, economy, or access-field is identical.
 
-It does not demand impossible purity from bodies living amid poverty, disability, illness, limited access, family constraint, or survival pressure.
+But this entry is concerned with the ordinary civilizational condition in which alternatives exist and animal consumption continues through appetite, habit, convenience, preference, culture, or inherited assumption.
 
-The centropic path is not cruelty toward the constrained.
+Where sufficient alternatives exist, the question is not whether animal consumption has been normalized.
 
-However, where sufficient alternatives exist, the health objection becomes a question of planning, knowledge, supplementation, access, and responsible care rather than a permanent defense of unnecessary slaughter.
+The question is whether it remains necessary.
 
 Everything is not about human preference alone.
 
-Sometimes a being must give up what is desired for the sake of another.
+Sometimes desire must yield to reverence.
 
-Sometimes appetite must yield to reverence.
+Sometimes appetite must yield to another being's life.
 
 Sometimes tradition must yield to recognition.
 
-Sometimes convenience must yield to the life of the one who would otherwise be consumed.
+Sometimes convenience must yield to Ahimsa.
 
-A person who genuinely cannot avoid animal consumption occupies a different constraint-field than a person who can avoid it but refuses because the alternative is inconvenient or less pleasurable.
+The centropic path distinguishes necessity from preference.
 
-Zenetism distinguishes constraint from preference.
+It distinguishes survival from appetite.
 
-It distinguishes necessity from appetite.
+It distinguishes embodied constraint from defended consumption.
 
-It distinguishes survival from indulgence.
+Where animal consumption is unnecessary, appeals to health, habit, or practicality should not be used to make another being's death disappear from view.
 
 ---
 
