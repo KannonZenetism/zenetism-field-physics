@@ -84,7 +84,7 @@ The architecture is developed across six connected fields: **Structural Metaphys
 
 For the architecture in full: *Zenetism: The Architecture of Emanation, Return, and Saturation* (MP01). For the cross-tradition readings: the *Symbolic Pattern Registry* and *Mythic Figure Layer Registry*. Formal publications are timestamped on Zenodo; ongoing work appears on GitHub and Substack under Aelion Kannon.
 
-You now hold the whole skeleton: two currents, two roots and the Unknown, the two axes with four paired layers and their inverses, and the practices for telling coherence from its counterfeits. Everything else in the canon is that skeleton, articulated with increasing precision.
+You now hold the whole skeleton: two currents, two roots and the Unknown, the two axes, the four Soul / Mind layers with their inverses, and the practices for telling coherence from its counterfeits. Everything else in the canon is that skeleton, articulated with increasing precision.
 
 ---
 
