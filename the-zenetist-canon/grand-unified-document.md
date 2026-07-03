@@ -59,7 +59,7 @@ Zenetism unfolds through six lawful disciplines:
 
 | Discipline | Function | Axis of Law |
 |-----------|----------|-------------|
-| **Structural Metaphysics** | Defines the poles of being and emanation | ⚫ Aion ↔ ♾ Khaon |
+| **Structural Metaphysics** | Defines the roots of being and emanation | ⚫ Aion ↔ ♾ Khaon |
 | **Field Physics** | Maps resonance and motion through the Dimensional Lattice | ⟡ Echonic Field |
 | **Lattice Mathematics** | Supplies the formal calculus of coherence \( (\partial_{\text{🌀}}, \int_{\text{◎}}, \lim_{t\to\infty}^{\backsim}) \) | 🧮 Resonance Space \( \mathcal{H} \) |
 | **Structural Forensics** | Diagnoses entropic tactics and counterfeit structures | 🪩 Mirror Diagnostics |
@@ -71,32 +71,32 @@ Together they form the complete harmonic system of reality's lawful structure �
 ---
 
 # Part I — The Core Architecture
-## The Unified Dimensional Lattice and the Architecture of Being
+## The Dimensional Lattice and the Architecture of Being
 
 ---
 
-## Stratum I · Emanation and Polarity
+## Stratum I · Emanation and the Foundational Anchors
 
-At the root of all structure stand three poles and two axes:
+At the root of all structure stand three anchors and two axes:
 
 | Symbol | Name | Function |
 |--------|------|----------|
-| ⚫ | **Aion** | Zero Pole — Absolute Potential; stillness before motion |
-| ♾ | **Khaon** | Infinity Pole — Dispersive Potential; boundless unfolding |
-| 🕳️ | **Zenon** | Limit Pole — Pre-causal Threshold; saturation beyond speech |
+| ⚫ | **Aion** | Zero — Absolute Potential; stillness before motion |
+| ♾ | **Khaon** | Infinity — Dispersive Potential; boundless unfolding |
+| 🕳️ | **Zenon** | Unknown Principle (UP) — trans-structural horizon; saturation beyond speech |
 | 🛤️ | **Theon** | Centropic Axis (+1); emanative law of integration |
 | 🕷️ | **Nekron** | Entropic Axis (−1); recursion law of dissolution |
 
-Every discipline begins between these poles.  
+Every discipline begins between these anchors.  
 From Aion arises structure; toward Khaon flows dispersion; within Zenon all returns dissolve into silent invariance.  
-The lattice of thirty dimensions (C₁–C₁₅ ↔ E₁–E₁₅) suspends between these poles, forming the harmonic body of the cosmos.
+The lattice of thirty dimensions (C₁–C₁₅ ↔ E₁–E₁₅) suspends between these anchors, forming the harmonic body of the cosmos.
 
 ---
 
 ## 1 · The Two Trees
 ```
-                             ─── 🕳️ Zenon (Pre-causal Limit)
-                                    (Centropic Return Only)
+                             ─── 🕳️ Zenon (Trans-structural)
+                                    (Centropic Saturation)
                ⚫ Aion
                   │
        🛤️ Theon Axis (Centropic)
@@ -129,8 +129,8 @@ and converge in manifestation at the **Embodiment Band (L₁)**.
 
 | Band | Hypostatic Pair | Primary Functions | Entropic Mirror |
 |------|----------------|-------------------|-----------------|
-| **Supra-L₀ — Pre-Causal** | 🕳️ Zenon (UP) | Unknown Principle | — |
-| **L₀ — Root Band** | ⚫ Aion / ♾ Khaon (AP / AD) | Absolute Potential / Dispersion | — |
+| **Supra-L₀ — Trans-Structural** | 🕳️ Zenon (UP) | Unknown Principle | — |
+| **L₀ — Bifurcal Root Band** | ⚫ Aion / ♾ Khaon (AP / AD) | Absolute Potential / Dispersion | — |
 | **L₅ — Threshold Band** | 🛤️ Theon / 🕷️ Nekron (EOB / VOS) | Membrane / Recursion / Emergence | — (Walls and Collapses) |
 | **L₄ — Architectural / Archetypal Band** | 📐 Sophis / 🌬️ Morgis (DP / DL) | Deep Logos and Vital Design; **conscious-awareness (non-reflexive)** | 🪫 Psychea / 🫥 Nyxea (IDP / IDL) |
 | **L₃ — Interface Band** | 🔮 Archeus / 🧠 Noeüs (DS / DM) | Deep Structure and Interior; **reflexive consciousness** | 💔 Fractus / 👁️‍🗨️ Mortus (IDS / IDM) |
@@ -146,7 +146,7 @@ Each band contains specific dimensions (Cᵢ / Eᵢ) and serves as a lawful stat
 Every centropic operator Cᵢ possesses an entropic mirror Eᵢ.  
 Together they form the **spectral balance equation**:
 
-**Canonical Law (Dual Spectrum Lemma):**
+**Canonical Law (Polar Spectrum Lemma):**
 
 \[
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
@@ -197,7 +197,7 @@ This law — the **Fundamental Theorem of Spiral Calculus** — binds metaphysic
 
 ## Transition
 
-From these poles and laws arises the **Dimensional Registry** — the living map of C₁–C₁₅ and E₁–E₁₅.  
+From these anchors and laws arises the **Dimensional Registry** — the living map of C₁–C₁₅ and E₁–E₁₅.  
 
 Part I continues with **Stratum II — Dimensional Registry and Emanatory Functions**,  
 where each dimension is defined through its glyph, physical analogue, and cognitive expression.
@@ -283,11 +283,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 ---
 
-## C₅ ✴ Scalar (Holonic) / E₅ ✴⁻ Fractal Noise
+## C₅ ✴ Scalar (Part-Whole Fidelity) / E₅ ✴⁻ Scalar Noise
 
 | Aspect | Description |
 |--------|-------------|
-| **Function** | Part-whole scaling; fractal coherence |
+| **Function** | Part-whole scaling; structural recurrence across scale |
 | **Band** | L₁–L₄ (cross-band propagation) |
 | **Field Physics** | Renormalization, self-similar systems |
 | **Mirror** | Divergent noise; scale instability |
@@ -307,7 +307,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 ---
 
-## C₇ ♫ Harmonic / E₇ ♫⁻ Dissonance
+## C₇ ♫ Consonance / E₇ ♫⁻ Dissonance
 
 | Aspect | Description |
 |--------|-------------|
@@ -320,7 +320,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 ---
 
-## C₈ ╫ Nexus (Bridge) / E₈ ╫⁻ Severed
+## C₈ ╫ Synaptic (Bridging) / E₈ ╫⁻ Severed
 
 | Aspect | Description |
 |--------|-------------|
@@ -329,11 +329,11 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | **Field Physics** | Gauge invariance / probability conservation |
 | **Mirror** | Broken symmetry, non-conserved exchange |
 | **Structural Neuroscience** | Empathic connection ↔ communication breakdown |
-| **Law** | **Nexus Law:** bridges veracious iff commutative under seal \( (\Delta \leq \varepsilon) \) |
+| **Law** | **Bridging Law:** bridges veracious iff commutative under seal \( (\Delta \leq \varepsilon) \) |
 
 ---
 
-## C₉ ∞ Non-Local Unity / E₉ ∞⁻ Distorted Entangle
+## C₉ ∞ Non-Local Coherence / E₉ ∞⁻ Distorted Entanglement
 
 | Aspect | Description |
 |--------|-------------|
@@ -359,7 +359,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 
 ---
 
-## C₁₁ ↗ Vector Will / E₁₁ ↗⁻ Misdirect
+## C₁₁ ↗ Intentional (Volitional) / E₁₁ ↗⁻ Misdirect
 
 | Aspect | Description |
 |--------|-------------|
@@ -408,7 +408,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 >
 > A boundary crossing is lawful **iff \( \sigma > 0 \) and \( \gamma > 0 \).**  
 >
-> In mythic terms, boundary transits such as the Harrowing represent lawful restoration of **C₈ (Nexus)** where **E₈ (Severed)** had broken connection.  
+> In mythic terms, boundary transits such as the Harrowing represent lawful restoration of **C₈ (Bridging)** where **E₈ (Severed)** had broken connection.  
 > Theon, as **living steward of the membrane**, embodies the Threshold Law by realizing — not replacing — the seal in form.
 
 ---
@@ -442,8 +442,8 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 ## Dimensional Summary Diagram
 ```
                              ─── 🕳️ Zenon (Limit)
-                                   (Centropic Return Only)
-        ⚫ Aion (Zero Pole)
+                                   (Centropic Saturation)
+        ⚫ Aion (Zero)
                   │
       C₁ Temporal … C₁₅ Emergent
                   │
@@ -466,7 +466,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 > For the complete bifurcal-axis procession — showing **🛤️ Theon** and **🕷️ Nekron** as parallel centropic and entropic axes emerging from **L₀** — see **Part I, Stratum I, Section 1: The Two Trees**.
 
 Each pair (Cᵢ, Eᵢ) forms a balanced spectral operator about ⚫.  
-The full set constitutes the **Dual Spectrum** of the Dimensional Lattice:
+The full set constitutes the **Polar Spectrum** of the Dimensional Lattice:
 
 \[
 \mathrm{Spec}(H_c \cup H_e) = \{\pm\lambda_i\}
@@ -480,7 +480,7 @@ Where centropic eigenvalues \( \{+\lambda_i\} \) and entropic eigenvalues \( \{-
 
 The Dimensional Registry establishes the metaphysical and mathematical skeleton.  
 Next follows **Stratum III — Interaction Laws and Field Dynamics**,  
-where these dimensions interact through the Consonance, Nexus, Threshold, Unity, and Vector Integrity Laws,  
+where these dimensions interact through the Consonance, Bridging, Threshold, Coherence, and Volitional Integrity Laws,  
 bridging Field Physics with Structural Forensics and establishing the diagnostics of entropic interference.
 
 ---
@@ -539,7 +539,7 @@ dissonance manifests as anxiety, intrusive noise, or perceptual fragmentation.
 
 ---
 
-### 1.2 · Nexus Law (C₈)
+### 1.2 · Bridging Law (C₈)
 
 **Zenetist Statement**
 
@@ -565,7 +565,7 @@ When communication becomes asymmetric, the bridge fractures (E₈ Severed).
 
 ---
 
-### 1.3 · Non-Local Unity Law (C₉)
+### 1.3 · Non-Local Coherence Law (C₉)
 
 **Zenetist Statement**
 
@@ -586,7 +586,7 @@ are lawful when sovereignty (identity) is retained.
 
 **Forensic Mirror**
 
-- **Entropic Tactic:** Distorted Entanglement — mimic-unity that consumes difference; suppression of distinction under domination or dependency
+- **Entropic Tactic:** Distorted Entanglement — mimic-coherence that consumes difference; suppression of distinction under domination or dependency
 - **Diagnostic:** Mutual information → 1 while individual variance → 0 \( \Rightarrow \) mimicry detected
 
 ---
@@ -611,7 +611,7 @@ occur when seals are semi-permeable, recursion convergent, novelty lawful.
 
 **Entropic Tactics:**
 
-- **Wall of Severance (E₁₃)** → rigid boundary, isolation
+- **Wall (E₁₃)** → rigid boundary, isolation
 - **Hollow Nest (E₁₄)** → looping recursion, obsession
 - **Collapse Nova (E₁₅)** → catastrophic overload or burnout
 
@@ -650,9 +650,9 @@ Every lawful motion in the Lattice engages multiple laws simultaneously.
 
 | Primary Law | Coupled Dimensions | Resultant Motion |
 |-------------|-------------------|------------------|
-| Consonance (C₇) + Nexus (C₈) | Harmonic ↔ Bridge | Resonant transmission |
-| Nexus (C₈) + Threshold (C₁₃) | Bridge ↔ Membrane | Selective communication |
-| Vector (C₁₁) + Harmonic (C₇) | Will ↔ Resonance | Directed creativity |
+| Consonance (C₇) + Bridging (C₈) | Consonance ↔ Bridge | Resonant transmission |
+| Bridging (C₈) + Threshold (C₁₃) | Bridge ↔ Membrane | Selective communication |
+| Volitional (C₁₁) + Consonance (C₇) | Will ↔ Resonance | Directed creativity |
 | Non-Local (C₉) + Threshold (C₁₄–C₁₅) | Distance ↔ Emergence | Remote synthesis |
 
 Each coupling maintains a **resonance budget**:
@@ -765,7 +765,7 @@ Each tactic corresponds to a violation of one or more Structural Laws:
 | Entropic Class | Violated Law | Symptom | Counter-Protocol |
 |---------------|--------------|---------|------------------|
 | Performative Recalibration | C₇ Consonance | Forced detuning via spurious precision | Apply 🎼 Resonance Oath |
-| Severed Bridge | C₈ Nexus | Disconnection masked as unity | Invoke ╫ Nexus Repair Rite |
+| Severed Bridge | C₈ Bridging | Disconnection masked as coherence | Invoke ╫ Bridging Repair Rite |
 | Attuned Containment | C₁₃ Threshold | Controlled isolation under guise of safety | Apply ⧃ Seal of Rest |
 | Coherent Impersonator | C₉ Unity + C₁₁ Vector | Mimicry of direction & empathy | Execute ↺ Return Loop Protocol |
 | Signal Dilution | Global Invariant | Progressive entropy injection | Reinstate CIT Calibration Test |
@@ -805,10 +805,10 @@ Restoration protocols recalibrate \( \sigma \) and \( \gamma \) via ritual or co
 ### 2.6 · Field Audit Procedure
 
 1. **Scan Harmonics:** compute spectral ratios → Consonance test (C₇).
-2. **Check Commutativity:** relational map \( \Delta \leq \varepsilon \to \) Nexus test (C₈).
+2. **Check Commutativity:** relational map \( \Delta \leq \varepsilon \to \) Bridging test (C₈).
 3. **Measure \( \sigma, \gamma \):** boundary & recursion parameters → Threshold test (C₁₃–C₁₅).
 4. **Evaluate Directionality:** gradient alignment \( \nabla\psi \cdot \hat{T} \geq 0 \) → Vector test (C₁₁).
-5. **Assess Non-Locality:** mutual information balance → Unity test (C₉).
+5. **Assess Non-Locality:** mutual information balance → Coherence test (C₉).
 6. **Compute \( \Delta\mathcal{I} \):** invariance difference → global coherence verdict.
 
 If any test fails, entropic mirrors are active.  
@@ -821,8 +821,8 @@ Deploy corresponding ritual seal to re-establish centropic alignment.
 | Mirror State | Physical Symptom | Cognitive Symptom | Corrective Law |
 |-------------|------------------|-------------------|----------------|
 | E₇ Dissonance | Chaotic oscillations | Anxiety, confusion | C₇ Consonance |
-| E₈ Severed | Broken symmetry | Alienation | C₈ Nexus |
-| E₉ Distorted Entangle | Cross-talk noise | Co-dependency | C₉ Unity |
+| E₈ Severed | Broken symmetry | Alienation | C₈ Bridging |
+| E₉ Distorted Entanglement | Cross-talk noise | Co-dependency | C₉ Coherence |
 | E₁₁ Misdirect | Turbulence | Aimlessness | C₁₁ Vector |
 | E₁₃–E₁₅ Wall/Hollow/Collapse | Boundary failure | Isolation or burnout | C₁₃–C₁₅ Threshold |
 
@@ -918,7 +918,7 @@ Operators \( \partial_{\text{🌀}}, \int_{\text{◎}}, \) and \( \lim^{\backsim
 | Axiom | Statement | Implication |
 |-------|-----------|-------------|
 | **A₁ — Law of Duality** | Each Cᵢ has an Eᵢ mirror with opposite spectrum | Spectral balance ensures \( \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \) |
-| **A₂ — Law of Commutation** | All lawful morphisms commute under Nexus (C₈) | Ensures symmetry in transformation |
+| **A₂ — Law of Commutation** | All lawful morphisms commute under Bridging (C₈) | Ensures symmetry in transformation |
 | **A₃ — Law of Conservation** | \( \partial_{\text{🌀}} \) and \( \int_{\text{◎}} \) preserve total invariants | Coherence neither created nor lost, only transposed |
 | **A₄ — Law of Boundaries** | \( \sigma, \gamma \in (0,1] \) define membrane & recursion stability | Seal continuity governs lawful iteration |
 | **A₅ — Law of Emergence** | Novelty (C₁₅) arises only from coherent recursion | Entropic bifurcations (E₁₅) are null emergents |
@@ -964,7 +964,7 @@ Summation of harmonic modes across closed loops (C₇ resonance).
 
 ---
 
-### 3.4 Nexus Commutativity
+### 3.4 Bridging Commutativity
 
 \[
 f \circ g = g \circ f \quad \Leftrightarrow \quad \Delta \leq \varepsilon
@@ -1008,7 +1008,7 @@ Each dimension pair (Cᵢ, Eᵢ) forms a conjugate domain with mirrored spectra:
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
 \]
 
-**Dual Spectrum Lemma:**  
+**Polar Spectrum Lemma:**  
 The Lattice is symmetric across ⚫ Aion as the spectral zero.  
 Centropic eigenvalues \( \{+\lambda_i\} \) and entropic eigenvalues \( \{-\lambda_i\} \) mirror about zero.
 
@@ -1040,7 +1040,7 @@ Each dimension (C₁–C₁₅) operates as a mathematical term in the universal
 | C₂ | \( x,y,z; g_{ij} \) | Spatial metric |
 | C₃ | \( \frac{\partial^2}{\partial t^2} - c^2\nabla^2 \) | Propagation (wave eq.) |
 | C₇ | eigenvalue \( \lambda \) | Harmonic ratios |
-| C₈ | commutator \( [f,g]=0 \) | Nexus symmetry |
+| C₈ | commutator \( [f,g]=0 \) | Bridging symmetry |
 | C₁₃ | boundary term \( \sigma \) | Membrane condition |
 | C₁₄ | iterative mapping | Recursion law |
 | C₁₅ | \( \frac{\partial \psi}{\partial t} = f(\psi,\mu) \) | Emergence test |
@@ -1113,7 +1113,7 @@ Divergence → E₁₄ Hollow Nest.
 | Boundary Test | \( \sigma > 0 \) | Membrane sealed |
 | Recursion Test | \( \gamma > 0 \) | Contractive recursion |
 | Spectral Ratio Test | \( \lambda_i/\lambda_j \in \mathbb{Q} \) | C₇ Consonance |
-| Bridge Test | \( \Delta \leq \varepsilon \) | Nexus Law validated |
+| Bridge Test | \( \Delta \leq \varepsilon \) | Bridging Law validated |
 | Invariant Test | \( \Delta\mathcal{I} \leq \varepsilon \) | Coherence conserved |
 
 All five must pass → centropic system verified.
@@ -1309,16 +1309,16 @@ E₁₃ Wall + E₁₄ Hollow Nest → E₁₅ Collapse Nova
 **Core Tactic:** Entropic actor adopts centropic language or form to gain authority
 
 **Symbolic Signature:**  
-E₉ Distorted Entangle + E₁₂ Void Aesthetic
+E₉ Distorted Entanglement + E₁₂ Void Aesthetic
 
 **Pattern:**
 - Appears resonant but lacks origin coherence
-- Operates through mimic unity, echo without generation
+- Operates through mimic-coherence, echo without generation
 
 **Remedy:**
-1. Conduct Phase-Lock test (C₇ Harmonic ratio)
+1. Conduct Phase-Lock test (C₇ Consonance ratio)
 2. If irrational spectral ratio persists → confirm E₇ Dissonance.
-3. Apply C₈ Nexus Law to cut spurious bridge and reseal boundaries.
+3. Apply C₈ Bridging Law to cut spurious bridge and reseal boundaries.
 
 ---
 
@@ -1330,7 +1330,7 @@ A standardized diagnostic process applied to any suspected inversion.
 2. **Measure \( \partial_{\text{🌀}} \):** Detect instantaneous coherence drift.
 3. **Integrate \( \int_{\text{◎}} \):** Sum resonance across dialogue or document.
 4. **Compare \( \lambda_i/\lambda_j \):** Test for consonance (C₇).
-5. **Evaluate Nexus \( (\Delta) \):** If \( \Delta > \varepsilon \Rightarrow \) entropic fracture.
+5. **Evaluate Bridging \( (\Delta) \):** If \( \Delta > \varepsilon \Rightarrow \) entropic fracture.
 6. **Re-seal:** Apply ↺ Return Loop; confirm \( \sigma > 0 \).
 
 If all tests fail → record as **Forensic Entry (E-class)** and route to Structural Archive.
@@ -1343,9 +1343,9 @@ If all tests fail → record as **Forensic Entry (E-class)** and route to Struct
 |-------------------|------------------|-------------------|
 | E₁ Temporal Loop | Narrative repetition | Circular justification |
 | E₃ Viral Decay | Information loss | Garbled transmission |
-| E₅ Fractal Noise | Excessive fragmentation | Over-complexity masking hollowness |
+| E₅ Scalar Noise | Excessive fragmentation | Over-complexity masking hollowness |
 | E₈ Severed Bridge | Broken dialogue | Disconnection between origin and echo |
-| E₉ Distorted Entangle | Mimic unity | Spurious consensus formation |
+| E₉ Distorted Entanglement | Mimic-coherence | Spurious consensus formation |
 | E₁₃ Wall | Non-transparency | Withheld data or locked archive |
 | E₁₄ Hollow Nest | Infinite regress | Recursive rationalization |
 | E₁₅ Collapse Nova | Sudden null event | Emotional or structural implosion |
@@ -1408,7 +1408,7 @@ When \( \text{FDI} \to 0 \), structure is restored.
 
 | Discipline | Forensic Function |
 |------------|------------------|
-| **Structural Metaphysics** | Defines lawful orientation; sets the zero-pole reference |
+| **Structural Metaphysics** | Defines lawful orientation; sets the Zero reference |
 | **Field Physics** | Identifies resonance distortions and curvature anomalies |
 | **Lattice Mathematics** | Quantifies divergence and verifies invariants |
 | **Structural Physics** | Tests physical manifestation of collapse patterns |
@@ -1452,8 +1452,8 @@ where \( N(t) \) is noise harmonic without lawful phase.
 
 **Remedy:**
 1. Apply paired seal (⚫↺KAI↺⚫ ⊗ 🔦)
-2. Force commutation under C₈ Nexus Law
-3. Verify Invariance (⧙) and Harmonic ratio (C₇)
+2. Force commutation under C₈ Bridging Law
+3. Verify Invariance (⧙) and Consonance ratio (C₇)
 
 Only lawful resonance \( \psi_{\text{source}} \) with veracious phase survives.
 
@@ -1568,9 +1568,9 @@ Every cognitive domain corresponds to dimensions within the lattice.
 | Domain | L-Band | Centropic Dim | Entropic Mirror | Function |
 |--------|--------|---------------|-----------------|----------|
 | **Temporal Continuity** | L₂–L₃ | C₁ Temporal | E₁ Temporal Loop | Sequence contra fixation |
-| **Spatial Order** | L₁–L₂ | C₂ Spatial | E₂ Memory Scatter | Orientation contra disarray |
+| **Spatial Order** | L₁–L₂ | C₂ Spatial | E₂ Scatter | Orientation contra disarray |
 | **Transmission** | L₃–L₄ | C₃ Propagational | E₃ Viral Decay | Communication contra noise |
-| **Resonance** | L₃ | C₇ Harmonic | E₇ Dissonance | Synchrony contra incoherence |
+| **Resonance** | L₃ | C₇ Consonance | E₇ Dissonance | Synchrony contra incoherence |
 | **Agency** | L₂ | C₁₁ Vector | E₁₁ Misdirect | Will contra drift |
 | **Aesthetic Valence** | L₂–L₄ | C₁₂ Aesthetic | E₁₂ Void Aesthetic | Meaning contra hollow affect |
 | **Boundary Integrity** | L₅ | C₁₃ Membrane | E₁₃ Wall | Openness contra closure |
@@ -1689,8 +1689,8 @@ No coherence lost — complete cycle closure.
 | Zenetist Law | Neural Analogue | Empirical Correlate |
 |--------------|----------------|---------------------|
 | C₁ Temporal | Predictive coding | Friston (2010) |
-| C₇ Harmonic | Neural synchrony | Varela (2001) |
-| C₈ Nexus | Inter-regional coupling | Fries (2005) |
+| C₇ Consonance | Neural synchrony | Varela (2001) |
+| C₈ Bridging | Inter-regional coupling | Fries (2005) |
 | C₁₁ Vector | Executive control | Miller & Cohen (2001) |
 | C₁₃ Membrane | Thalamo-cortical gating | Crick & Koch (2005) |
 | C₁₄ Recursive | Meta-awareness loop | Buckner (2008) |
@@ -1781,7 +1781,7 @@ Given resonance metric \( g \) and curvature \( R \):
 | ⧃ | Boundary | \( 0 < \sigma \leq 1 \) |
 | ↺ | Recursion | \( 0 < \gamma \leq 1 \) |
 | 🎼 | Harmonic | \( \lambda_{\min} > 0 \) |
-| ╫ | Nexus | \( \Delta \leq \varepsilon \) |
+| ╫ | Bridging | \( \Delta \leq \varepsilon \) |
 | ✦ | Emergent | \( \Delta\mathcal{I} > 0 \) |
 
 **Vector of lawful cognition:** \( V = (\sigma, \gamma, \lambda_{\min}, \Delta, \Delta\mathcal{I}) \)
@@ -1883,7 +1883,7 @@ the formal unification of being, motion, mind, and law.
 
 | Discipline | Core Symbol | Core Function | Inverse Vulnerability |
 |------------|------------|---------------|----------------------|
-| **Structural Metaphysics** | ⚫ / ♾ | Stillness & dispersion poles | Misidentification |
+| **Structural Metaphysics** | ⚫ / ♾ | Stillness & dispersion roots | Misidentification |
 | **Field Physics** | \( \partial_{\text{🌀}} / \int_{\text{◎}} \) | Motion & resonance | Phase drift (E₆) |
 | **Lattice Mathematics** | \( \Sigma, \mathcal{H}, \mathcal{L} \) | Quantitative coherence | Hollow recursion (E₁₄) |
 | **Structural Physics** | ⧖ / ⧙ | Law of transformation | Dissonant decay (E₇) |
@@ -2321,8 +2321,8 @@ Redemption is mathematical: every incomplete \( \psi \) seeks closure through ce
 ## 8 · Schematic — The Total Field Arc
 ```
 🕳️ Zenon
-     (Pre-Causal Limit — Beyond Procession)
-          (Centropic Return Only)
+     (Trans-Structural — Beyond Procession)
+          (Centropic Saturation)
 
                     ⚫ Aion (L₀)
                Pre-hypostatic Requisite
