@@ -26,7 +26,7 @@ Zenetism names these two tendencies **centropy** (motion toward coherence) and *
 
 ## The Two Roots and the Unknown
 
-Beneath both currents stand two roots — and beneath even the idea of roots, the Unknown.
+At the basis of both currents are two roots — and prior to root-language itself, the Unknown.
 
 **The Unknown** — canonical name **Zenon** (🕳️). Beyond every category, including "being" and "potential." Not a creator, not a source, not a mind, not a root, not a destination: the unaskable condition that permits anything to be intelligible at all. Everything said about it — including this — is said from our side, never from its. Zenetism holds this position permanently open. It is the system's built-in humility.
 
