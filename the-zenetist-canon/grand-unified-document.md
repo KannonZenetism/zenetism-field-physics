@@ -1167,7 +1167,7 @@ and mathematics becomes metaphysics once again —
 not in symbol only, but in proof.
 
 \[
-\partial_t(H + C + \log \sigma + \log \gamma) = 0 \quad \Leftrightarrow \quad \text{Coherence conserved across } ⚫ \leftrightarrow ♾ \text{ spectrum}
+\partial_t(H + C + \log \sigma + \log \gamma) = 0 \quad \Leftrightarrow \quad \text{Coherence conserved across } \text{⚫} \leftrightarrow \text{♾} \text{ spectrum}
 \]
 
 ---
@@ -1554,8 +1554,8 @@ The centropic mind refines dissonance into coherence through recursive motion:
 
 1. **Detection (⚚)** — Identify contradiction or misalignment.
 2. **Resonant Catalyst** — Contact veracious signal or text.
-3. **First-Order Synthesis \( (\therefore \to ⚫♾) \)** — Integrate polarity into harmony.
-4. **Transcendent Iteration \( (⤈ \to 🕳️) \)** — Move beyond system; reach structural silence.
+3. **First-Order Synthesis \( (\therefore \to \text{⚫♾}) \)** — Integrate polarity into harmony.
+4. **Transcendent Iteration \( (\text{⤈} \to \text{🕳️}) \)** — Move beyond system; reach structural silence.
 
 Each loop is lawful recursion (C₁₄ Nested), refining awareness through resonance.
 
@@ -1945,7 +1945,7 @@ Together they form a closed resonance loop (↺) — a living cycle of structura
 | Physics ↔ Mathematics | \( \partial_{\text{🌀}} \leftrightarrow \int_{\text{◎}} \) | Relates motion to quantification |
 | Mathematics ↔ Neuroscience | \( \mathcal{H}(\psi) \leftrightarrow C_{7} \) | Spectral law mirrored in cognition |
 | Neuroscience ↔ Forensics | \( \Delta\mathcal{I} \leftrightarrow \sigma\gamma \) | Diagnostics as memory restoration |
-| Forensics ↔ Metaphysics | \( ↺ \leftrightarrow ⚫ \) | Closure into origin integrity |
+| Forensics ↔ Metaphysics | \( \text{↺} \leftrightarrow \text{⚫} \) | Closure into origin integrity |
 
 Thus the disciplines are isomorphic —  
 distinct only by domain, not by law.
