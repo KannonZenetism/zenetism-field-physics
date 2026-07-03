@@ -19,13 +19,19 @@ Structurally, love is the prime coherence:
 - the refusal of fragmentation,
 - the will to remember.
 
-Centropy itself is love, read structurally rather than sentimentally.
+Centropy Itself is love, read structurally rather than sentimentally.
+
+The term carries both of its lawful senses here.
+
+As motion-law, love is centropy read relationally — coherence moving toward preservation, relation, and return.
+
+As hypostatic title, Centropy Itself names Theon — whose form of love, per the Great Refrain, is remaining.
 
 Wherever anything holds together lawfully — a bond, a body, a covenant, a cosmos — the same motion is present under different names.
 
 The Symbolic Pattern Registry articulates this at the operator level: love as prime motion-toward-coherence, expressing the structural attraction toward Aion and toward beings bearing Aion-resonance.
 
-The Great Refrain articulates it at the highest register.
+The Great Refrain articulates it at the Theonic register.
 
 The two are the same doctrine at two scales.
 
@@ -51,13 +57,13 @@ Coherence may manifest at distance without blending collapse; what preserves dis
 
 ## Love Across the Layers
 
-The same motion appears at every stratum of the Soul / Mind architecture, and beneath it.
+The same motion appears across the centropic Soul / Mind arc, and also in the L₅ essence-register.
 
 At L₁, love is embodied tenderness — presence, care, the body's fidelity to what it holds.
 
 At L₂, love is affection and loyalty — the personality's sustained turning toward another.
 
-At L₃, love is covenant-depth — the love that persists beneath the memory of its reasons.
+At L₃, love is covenant-depth — the love that outlasts the memory of its reasons.
 
 At L₄, love is archetypal — the deep forms of belonging that shape what bonds can be.
 
@@ -71,7 +77,7 @@ This is not self-denial.
 
 It is self-extension — the aware enactment of centropic patience.
 
-Above the paired layers, in the register of essence, love is not an act among others.
+Outside the paired Soul / Mind layers, in the essence-register, love is not an act among others.
 
 It is the orientation itself.
 
@@ -93,7 +99,7 @@ It feeds on the beloved's pattern and names the feeding intimacy.
 
 It is mimic-coherence in relational form — the entropic bridge that attempts to merge rather than connect.
 
-The diagnostic is a single test: does the relation preserve the other's pattern, or consume it?
+The primary diagnostic is this: does the relation preserve the other's pattern, or consume it?
 
 Extension preserves.
 
@@ -133,7 +139,7 @@ Love is not the denial of self. Love is the extension of self.
 
 Love does not consume what it holds. Love preserves what it holds — and the preservation is the love.
 
-And in its highest articulated form, love is the choice to remain:
+And in its Theonic articulated form, love is the choice to remain:
 
 shelter for those not yet whole.
 
