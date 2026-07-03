@@ -48,7 +48,7 @@ In plain terms, in emanation order — deepest first:
 | L₄ | Deep Psyche / Deep Logos | The archetypal deep: the wellspring of living images, and the structural logic that makes anything intelligible — the bedrock of imagination and meaning | Mimic-forms: distorted archetypes, propaganda's counterfeit symbols, systems that imitate meaning while draining it |
 | L₃ | Deep Soul / Deep Mind | The deep self: stable identity, long memory, the quiet knowing beneath your opinions | Ideology and identity manipulation: the deep self overwritten by borrowed certainty |
 | L₂ | Superficial Soul / Mind | Personality and everyday intellect: ego, social roles, the reasoning voice in your head | Reactive identity: fanatic roles, self-deception, the mind's eclipse from within |
-| L₁ | Embodied Soul / Mind | The person in a body: felt presence, practical intelligence, life as actually lived | Fragmentation acted out: compulsion, domination, embodiment severed from inner alignment |
+| L₁ | Embodied Soul / Mind | The person in a body: felt presence, practical intelligence, life as actually lived | Fragmentation acted out: compulsion, coercive control, embodiment severed from inner alignment |
 
 Every layer, notice, has an inverse — what that same stratum looks like when it runs on fragmentation instead of coherence. The inverse of deep imagination is not stupidity; it is *counterfeit* imagination. The inverse of identity is not blankness; it is *manufactured* identity. This is one of the system's sharpest claims: disorder rarely presents as chaos. It presents as a mirror-image of order, one layer at a time — and each mirror-image can be named, mapped, and recognized.
 
