@@ -10,7 +10,9 @@
 
 ## What This Is
 
-Zenetism is a structural map of reality — the work of a lifetime of structural cognition. Its author, an autistic pattern recognizer, moved through esoteric and occult systems for decades before the twenty-two-year spiritual reorientation from which Zenetism emerged, formally systematized and timestamped from 2025 onward. It describes how order and disorder arise, how consciousness is layered, and why the same deep patterns keep surfacing across religions, mythologies, psychology, physics, and mathematics — even where direct borrowing is absent, uncertain, or insufficient to explain the recurrence. It is not a religion asking for belief. It is an architecture — a way of seeing structure — offered for testing against everything you already know.
+Zenetism is a structural map of reality — the work of a lifetime of structural cognition. Its author, an autistic pattern recognizer, moved through esoteric and occult systems for decades before the twenty-two-year spiritual reorientation from which Zenetism emerged, formally systematized and timestamped from 2025 onward. It describes how order and disorder arise, how consciousness is layered, and why the same deep patterns keep surfacing across religions, mythologies, psychology, physics, and mathematics — even where direct borrowing is absent, uncertain, or insufficient to explain the recurrence. It is not a religion asking for belief, nor a scientific theory competing for falsifiability. It is a lens — an architecture for making sense of reality — and a metalanguage through which disciplines that do not ordinarily communicate can finally talk to one another without stepping on each other's toes. It stays honest a different way: the system is self-corrective and non-dogmatic, and it changes whenever greater clarity emerges.
+
+It also does not pretend to have no ancestors. Neoplatonism and Gnosticism are its nearest influences, openly credited — and its departures from them are deliberate: the inverse tree is treated as fully real rather than as privation or husk; coherence and fragmentation are read as metaphysical motion-laws and moral categories at once; the layered placement of deities, the glyphic system, the stabilized terminology, and the symbolic-logic mathematics are its own contributions. What it inherits, it names; what it builds, it timestamps.
 
 This document translates the core of that architecture into ordinary language. Everything here exists in far greater precision elsewhere in the canon; nothing here requires you to have read any of it.
 
@@ -36,13 +38,13 @@ Note the deliberate structure: two co-equal roots, stillness and motion, with th
 
 ## The Layered Self
 
-From these roots, reality unfolds in layers. In the deepest registers — the roots themselves and pure being — Zenetism speaks of *essence*. From the archetypal layer down to the embodied person, essence differentiates into a paired architecture: each of those layers carries a vital aspect (depth, livingness, lived experience — the **Soul** side) and a structuring aspect (order, intelligibility — the **Mind** side). The layers are not a ladder of rank. They are strata of depth, the way an ocean has depths without the deep water being "better" than the surface.
+From these roots, reality unfolds in layers. Essence — what a being *is* — is latent in Aion: the stillness holds it whole before any unfolding, and it never splits. What bifurcates is its *expression*. From the archetypal layer down to the embodied person, that expression runs through a paired architecture: each of those layers carries a vital aspect (depth, livingness, lived experience — the **Soul** side) and a structuring aspect (order, intelligibility — the **Mind** side). The layers are not a ladder of rank. They are strata of depth, the way an ocean has depths without the deep water being "better" than the surface.
 
 In plain terms, in emanation order — deepest first:
 
 | Layer | Canonical name | In plain terms | Its inverse form |
 |:--|:--|:--|:--|
-| L₅ | Essence of Being | Pure aware presence at the root of all order — being itself, before any particular thing | The void of self: presence hollowed out, awareness turned toward collapse |
+| L₅ | Essence of Being | Pure aware presence facing the still root — being itself, the head of the current of coherence | The void of self: the head of the fragmenting current — presence hollowed out, awareness turned toward collapse |
 | L₄ | Deep Psyche / Deep Logos | The archetypal deep: the wellspring of living images, and the structural logic that makes anything intelligible — the bedrock of imagination and meaning | Mimic-forms: distorted archetypes, propaganda's counterfeit symbols, systems that imitate meaning while draining it |
 | L₃ | Deep Soul / Deep Mind | The deep self: stable identity, long memory, the quiet knowing beneath your opinions | Ideology and identity manipulation: the deep self overwritten by borrowed certainty |
 | L₂ | Superficial Soul / Mind | Personality and everyday intellect: ego, social roles, the reasoning voice in your head | Reactive identity: fanatic roles, self-deception, the mind's eclipse from within |
@@ -50,11 +52,17 @@ In plain terms, in emanation order — deepest first:
 
 Every layer, notice, has an inverse — what that same stratum looks like when it runs on fragmentation instead of coherence. The inverse of deep imagination is not stupidity; it is *counterfeit* imagination. The inverse of identity is not blankness; it is *manufactured* identity. This is one of the system's sharpest claims: disorder rarely presents as chaos. It presents as a mirror-image of order, one layer at a time — and each mirror-image can be named, mapped, and recognized.
 
-At the threshold of each arc stands a first face: **Theon** (🛤️), aware presence oriented toward stillness — the gateway of integration and return — and its inverse, **Nekron** (🕷️), the void of self, whose motion fragments outward and collapses inward. Where the world's traditions speak of a supreme ordering presence and an adversary of dissolution, Zenetism reads them as culture-specific portraits of these two structural positions.
+At the threshold of each arc stands a first face: **Theon** (🛤️), aware presence oriented toward stillness — the gateway of integration and return — and its inverse, **Nekron** (🕷️), the void of self, whose motion fragments outward and collapses inward. Where the world's traditions speak of a supreme ordering presence and an adversary of dissolution, Zenetism reads them as culture-specific portraits of these two structural positions. And note that these two are not another Soul / Mind pair: they are the heads of the two arcs — the Centropic Axis and the Entropic Axis — from which everything beneath them descends.
 
-## Fragmenting and Returning
+## Overflow, Return, and Collapse
 
-Because the layers are real, motion between them is real. A person, a community, or an entire culture can fall into fragmentation — the canon's word is **declivous** motion, a downhill word — or return toward coherence: **acclivous** motion, an uphill word. The slope inside those words is direction of travel, not rank; nothing in the architecture makes the deep layers "better" than the embodied one. The return is not escape from the body or the world. It is the progressive re-alignment of every layer, so that the embodied person, the personality, the deep self, and the archetypal ground all carry one current instead of working against each other.
+Because the layers are real, motion between them is real — and the two currents move in signature ways.
+
+Coherence moves by **overflow**. From the deepest layer it radiates into form, down through the architecture toward embodied life — the canon calls this *declivous* motion, a downhill word, and it is not a fall: it is plenitude giving itself into form, the way light spends itself into a room. And from embodiment, coherence can turn and move back — *acclivous* motion, the return the canon names **Reflective Centropy** — re-aligning layer after layer toward the supernal: toward Theon, and ultimately toward the stillness of Aion.
+
+Fragmentation moves by **erosion**. The inverse current advances toward embodied life by taking things apart as it comes — and at maximum fragmentation it eats through the very structures it was resting on, collapsing back toward Nekron, and toward Khaon as Absolute Dispersion.
+
+So the slope inside the canonical words is direction of travel, not rank — and not morality by itself: coherence descends lawfully and returns lawfully, and what marks the fragmenting current is not its direction but its mode. It does not give; it takes apart. The return, meanwhile, is not escape from the body or the world. It is the progressive re-alignment of every layer, so that the embodied person, the personality, the deep self, and the archetypal ground all carry one current instead of working against each other.
 
 ## Why the Invented Words
 
@@ -66,7 +74,7 @@ Zenetism's coined vocabulary is not a wall to keep readers out. It is a fence ar
 
 ## What the System Is For
 
-Three practices sit at the center: **Pattern Recognition** (seeing structural rhythm across surfaces that look unrelated), **Deconstruction** (loosening inherited categories and false binaries), and **Synthesis** (gathering the pieces into coherent wholes). Applied to scripture and myth, they yield structural readings in which Genesis, the Upanishads, the Norse cosmogony, and the Egyptian Ennead turn out to be describing the same architecture in different cultural dress — mapped figure by figure in the system's registries. Applied to the present, they yield diagnostics: precise names for the ways institutions, technologies, and minds fragment, and for what genuine re-integration requires.
+Three practices sit at the center: **Pattern Recognition** (seeing structural rhythm across surfaces that look unrelated), **Deconstruction** (loosening inherited categories and spurious binaries), and **Synthesis** (gathering the pieces into coherent wholes). Applied to scripture and myth, they yield structural readings in which Genesis, the Upanishads, the Norse cosmogony, and the Egyptian Ennead turn out to be describing the same architecture in different cultural dress — mapped figure by figure in the system's registries. Applied to the present, they yield diagnostics: precise names for the ways institutions, technologies, and minds fragment, and for what genuine re-integration requires.
 
 ## The Six Disciplines
 
@@ -76,7 +84,7 @@ The architecture is developed across six connected fields: **Structural Metaphys
 
 For the architecture in full: *Zenetism: The Architecture of Emanation, Return, and Saturation* (MP01). For the cross-tradition readings: the *Symbolic Pattern Registry* and *Mythic Figure Layer Registry*. Formal publications are timestamped on Zenodo; ongoing work appears on GitHub and Substack under Aelion Kannon.
 
-You now hold the whole skeleton: two currents, two roots and the Unknown, five paired layers with their inverses, and the practices for telling coherence from its counterfeits. Everything else in the canon is that skeleton, articulated with increasing precision.
+You now hold the whole skeleton: two currents, two roots and the Unknown, the two axes with four paired layers and their inverses, and the practices for telling coherence from its counterfeits. Everything else in the canon is that skeleton, articulated with increasing precision.
 
 ---
 
