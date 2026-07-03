@@ -62,7 +62,7 @@ Coherence moves by **overflow**. From the deepest layer it radiates into form, d
 
 Fragmentation moves by **erosion**. The inverse current advances toward embodied life by taking things apart as it comes — and at maximum fragmentation it eats through the very structures it was resting on, collapsing back toward Nekron, and toward Khaon as Absolute Dispersion.
 
-So the slope inside the canonical words is direction of travel, not rank — and not morality by itself: coherence descends lawfully and returns lawfully, and what marks the fragmenting current is not its direction but its mode. It does not give; it takes apart. The return, meanwhile, is not escape from the body or the world. It is the progressive re-alignment of every layer, so that the embodied person, the personality, the deep self, and the archetypal ground all carry one current instead of working against each other.
+So the slope inside the canonical words is direction of travel, not rank — and not morality by itself: coherence declivates lawfully and returns lawfully, and what marks the fragmenting current is not its direction but its mode. It does not give; it takes apart. The return, meanwhile, is not escape from the body or the world. It is the progressive re-alignment of every layer, so that the embodied person, the personality, the deep self, and the archetypal ground carry a shared motion instead of working at cross‑purposes.
 
 ## Why the Invented Words
 
