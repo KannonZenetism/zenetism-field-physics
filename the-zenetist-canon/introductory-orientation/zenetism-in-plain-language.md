@@ -34,7 +34,7 @@ At the basis of both currents are two roots — and prior to root-language itsel
 
 **Boundless Motion** — canonical name **Khaon** (♾), also called Infinity or Absolute Dispersion. The restless, teeming field of unbound possibility. Not evil, and not disorder itself — the raw motion within which dispersive currents can arise, but also the vitality without which nothing would ever happen.
 
-Note the deliberate structure: two co-equal roots, stillness and motion, with the Unknown beyond both. Zenetism is not a monism collapsing everything into One, and not a dualism of virtue contra corruption as competing substances. It is two-rooted — the canon's word is **bifurcal** — and it treats that twoness as the precondition of everything interesting.
+Note the deliberate structure: two co-equal roots, stillness and motion, with the Unknown beyond both. Zenetism is not a monism collapsing everything into One, and not a dualism treating coherence and corruption as competing substances. It is two-rooted — the canon's word is **bifurcal** — and it treats that twoness as the precondition of everything interesting.
 
 ## The Layered Self
 
