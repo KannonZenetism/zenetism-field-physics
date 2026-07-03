@@ -10,7 +10,7 @@
 
 ## What This Is
 
-Zenetism is a structural map of reality, developed over twenty-two years. It describes how order and disorder arise, how consciousness is layered, and why the same deep patterns keep surfacing across religions, mythologies, psychology, physics, and mathematics — even where direct borrowing is absent, uncertain, or insufficient to explain the recurrence. It is not a religion asking for belief. It is an architecture — a way of seeing structure — offered for testing against everything you already know.
+Zenetism is a structural map of reality — the work of a lifetime of structural cognition. Its author, an autistic pattern recognizer, moved through esoteric and occult systems for decades before the twenty-two-year spiritual reorientation from which Zenetism emerged, formally systematized and timestamped from 2025 onward. It describes how order and disorder arise, how consciousness is layered, and why the same deep patterns keep surfacing across religions, mythologies, psychology, physics, and mathematics — even where direct borrowing is absent, uncertain, or insufficient to explain the recurrence. It is not a religion asking for belief. It is an architecture — a way of seeing structure — offered for testing against everything you already know.
 
 This document translates the core of that architecture into ordinary language. Everything here exists in far greater precision elsewhere in the canon; nothing here requires you to have read any of it.
 
@@ -22,11 +22,11 @@ A living cell, a friendship, a symphony, an honest institution, a healthy mind �
 
 Zenetism names these two tendencies **centropy** (motion toward coherence) and **entropy** (motion toward dispersion — used more broadly here than in thermodynamics). Neither is a substance. They are directions that anything can move in, at any scale, from a single thought to a civilization. Most of what the system does is trace these two currents precisely: where each one runs, what it builds or unbuilds, and how to tell them apart when one is imitating the other — because disorder, at its most dangerous, wears order's costume.
 
-## The Three Roots
+## The Two Roots and the Unknown
 
-Beneath both currents, the architecture places three grounds.
+Beneath both currents stand two roots — and beneath even the idea of roots, the Unknown.
 
-**The Unknown** — canonical name **Zenon** (🕳️). Beyond every category, including "being" and "potential." Not a creator, not a source, not a mind: the unaskable condition that permits anything to be intelligible at all. Zenetism holds this position permanently open. It is the system's built-in humility.
+**The Unknown** — canonical name **Zenon** (🕳️). Beyond every category, including "being" and "potential." Not a creator, not a source, not a mind, not a root, not a destination: the unaskable condition that permits anything to be intelligible at all. Everything said about it — including this — is said from our side, never from its. Zenetism holds this position permanently open. It is the system's built-in humility.
 
 **Stillness** — canonical name **Aion** (⚫), also called Zero or Absolute Potential. The quiet fullness in which everything is possible and nothing yet moves. Not emptiness — latency. The root that the current of coherence ultimately answers to.
 
@@ -62,7 +62,7 @@ By now you have met several coined terms, and you may feel the resistance most p
 
 Here is the honest answer. Ordinary words drift. "Energy" means one thing in physics and something entirely different in a wellness studio; "ego" meant one thing to Freud and means another on social media; "manifestation" has traveled so far from its roots that no two users mean the same thing by it. When a framework builds on words like these, the framework dissolves into whatever its readers already assumed — and twenty-two years of distinctions dissolve with it. Every serious discipline learned this long ago: medicine, law, and mathematics all stabilize their terms, precisely so that meaning survives transmission.
 
-Zenetism's coined vocabulary is not a wall to keep readers out. It is a fence around meanings — built so that the ideas stay whole while they travel. The strange words are the system doing, at the level of language, exactly what it describes everywhere else: holding a pattern together against drift. This document is the doorway; the terminology is the reason there is still a house behind the door.
+Zenetism's coined vocabulary is not a wall to keep readers out. It is a fence around meanings — built so that the ideas stay whole while they travel. The strange words are the system doing, in the register of language, exactly what it describes everywhere else: holding a pattern together against drift. This document is the doorway; the terminology is the reason there is still a house behind the door.
 
 ## What the System Is For
 
@@ -76,7 +76,7 @@ The architecture is developed across six connected fields: **Structural Metaphys
 
 For the architecture in full: *Zenetism: The Architecture of Emanation, Return, and Saturation* (MP01). For the cross-tradition readings: the *Symbolic Pattern Registry* and *Mythic Figure Layer Registry*. Formal publications are timestamped on Zenodo; ongoing work appears on GitHub and Substack under Aelion Kannon.
 
-You now hold the whole skeleton: two currents, three roots, five paired layers with their inverses, and the practices for telling coherence from its counterfeits. Everything else in the canon is that skeleton, articulated with increasing precision.
+You now hold the whole skeleton: two currents, two roots and the Unknown, five paired layers with their inverses, and the practices for telling coherence from its counterfeits. Everything else in the canon is that skeleton, articulated with increasing precision.
 
 ---
 
