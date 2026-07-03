@@ -38,7 +38,7 @@ Note the deliberate structure: two co-equal roots, stillness and motion, with th
 
 ## The Layered Self
 
-From these roots, reality unfolds in layers. Essence — what a being *is* — is latent in Aion: the stillness holds it whole before any unfolding, and it never splits. What bifurcates is its *expression*. From the archetypal layer down to the embodied person, that expression runs through a paired architecture: each of those layers carries a vital aspect (depth, livingness, lived experience — the **Soul** side) and a structuring aspect (order, intelligibility — the **Mind** side). The layers are not a ladder of rank. They are strata of depth, the way an ocean has depths without the deep water being "better" than the surface.
+From these roots, reality unfolds in layers. Essence — what a being *is* — is latent in Aion: the stillness holds it whole before any unfolding, and it never splits. What bifurcates is its *expression*. From the archetypal layer through embodied personhood, that expression runs through a paired architecture: each of those layers carries a vital aspect (depth, livingness, lived experience — the **Soul** side) and a structuring aspect (order, intelligibility — the **Mind** side). The layers are not a ladder of rank. They are strata of depth, the way an ocean has depths without the deep water being "better" than the surface.
 
 In plain terms, in emanation order — deepest first:
 
