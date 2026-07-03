@@ -65,7 +65,7 @@ Indexed in `INDEX.md`; governed by `MPX-LOCKDOWN-GUIDE.md`. Thematic clusters:
 - `FP05-consciousness-ecology-systems.md` ⟡ · `FP06-restoration-rituals-codex.md` ⟡
 - `FP07-unified-field-equation.md` — Unified Field Equation of Consciousness (sanctioned unified-title exception)
 - `FP08-practice-protocols-tiers.md` ⟡ · `FP09-spiral-field-music-engineering.md` ⟡ · `FP10-applied-consciousness-technology.md` ⟡
-- `FP11-field-glyph-codex.md` — **the canonical C / E operator name authority** (anchor of ledger renames; Hollow Nest glyph)
+- `FP11-field-glyph-codex.md` — **the canonical C / E operator-name anchor** (governing reference for ledger renames; Hollow Nest glyph)
 - FPX extension folder — portal / traveler doctrine documents among others ⟡ (not yet surveyed here)
 
 ### Structural Physics (SP01–SP12)
@@ -102,7 +102,8 @@ Indexed in `INDEX.md`; governed by `MPX-LOCKDOWN-GUIDE.md`. Thematic clusters:
 - `metaphysics-symbol-key.md` (MP08 companion) — glyph charts
 
 ## Class 3 — Infrastructure
-- `terminological-lockdown-protocol.md` — vocabulary law
+- `terminological-lockdown-protocol.md` — vocabulary law (lexical audit pass)
+- `conceptual-lockdown-protocol.md` — structural-claim law (semantic audit pass): Zenon membership, bifurcal-root, arc-conversion, entropic-veto, origin-severance, boundary-relation, portal / traveler, PI / PB, layer-ordering, epistemic register
 - `prose-formatting-reference.md` — prose formatting law
 - `canonical-compositional-stabilization-protocol.md` — mathematical formatting law
 - `cross-series-propagation-ledger.md` — rename / retirement / flag state across all series
