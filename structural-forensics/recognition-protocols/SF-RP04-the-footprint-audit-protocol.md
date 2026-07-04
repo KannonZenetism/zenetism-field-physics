@@ -18,7 +18,7 @@ The registered question:
 
 ## 2 · The Corpus of Record
 
-The author's dated anchors, deepest first. An audit argues from the deepest applicable anchor, never from the shallowest.
+The author's dated anchors, oldest recoverable first. An audit argues from the earliest applicable anchor, never from a later one when an earlier one is available.
 
 1. **Facebook stratum (c. 2010–2011 →)** — Bible College era onward; partially deleted, server-retained. *Recovery paths: the platform's Download Your Information export where any account access remains; data-subject access request; legal process for deleted material.*
 2. **Purchase-record trajectory (2012–2013)** — `2012-research-trajectory.md`, `2013-research-trajectory.md`; reading lineage mapping onto the mature corpus.
@@ -36,7 +36,9 @@ The author's dated anchors, deepest first. An audit argues from the deepest appl
 **A dependence claim (Tier 1–2) requires the three-prong test:**
 1. **Rare clustered architecture** — not one shared concept but a dense co-occurrence of unusual features;
 2. **Temporal adjacency** — the author's dated anchor precedes the counterpart's earliest dated appearance;
-3. **Relation-denial or relation-silence** — the counterpart does not credit, and where challenged, denies or deletes.
+3. **Uncredited-relation condition** — the counterpart does not credit the author's prior formulation, and where direct relation is challenged, the response is logged **without presuming motive**. Silence alone is weak evidence (many counterparts will simply never have encountered the work); active denial accompanied by suppression or deletion carries substantially greater weight within this prong.
+
+**Priority is not dependence.** Priority evidence establishes that the author's record came first. A dependence claim requires additional evidence: cluster-density, timing, access-proximity, or relation-status. "Earlier" never by itself means "copied."
 
 **Signature-density** is defined as three or more unusual features co-occurring in one source: shared coined terms, shared grammar-of-demonstration, shared method, shared cadence-class, shared symbolic apparatus, shared collaborative practice. One feature is coincidence; a dense cluster is evidence.
 
