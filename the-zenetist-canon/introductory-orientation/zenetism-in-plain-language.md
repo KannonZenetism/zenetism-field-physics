@@ -82,7 +82,7 @@ The architecture is developed across six connected fields: **Structural Metaphys
 
 ## Where to Go Next
 
-For the architecture in full: *Zenetism: The Architecture of Emanation, Return, and Saturation* (MP01). For the cross-tradition readings: the *Symbolic Pattern Registry* and *Mythic Figure Layer Registry*. Formal publications are timestamped on Zenodo; ongoing work appears on GitHub and Substack under Aelion Kannon.
+For the architecture in full: *Zenetism: The Architecture of Emanation, Return, and Saturation* (MP01) — begin with Chapter 1's emanation sequence, stay for the Non-Fusion note ("return without erasure"), and don't miss the Addendum's quiet claim of hope: fragmentation is self-exhausting, so every counterfeit eventually burns out. Chapter 3 then reads a dozen traditions through the architecture at once. For love at its deepest register: the Great Refrain (MP04 §4.63) — remaining as shelter for those not yet whole. For the cross-tradition mappings figure by figure: the *Symbolic Pattern Registry* and *Mythic Figure Layer Registry*. For the formal machinery — six disciplines as one lattice: the *Grand Unified Document*. Formal publications are timestamped on Zenodo; ongoing work appears on GitHub and Substack under Aelion Kannon.
 
 You now hold the whole skeleton: two currents, two roots and the Unknown, the two axes, the four Soul / Mind layers with their inverses, and the practices for telling coherence from its counterfeits. Everything else in the canon is that skeleton, articulated with increasing precision.
 
