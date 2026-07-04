@@ -20,7 +20,7 @@
 
 ## 2 · Notice Line — paste into one file
 
-**Where:** the top of `zenetism-field-physics/dimensional-emanatory-lattice/the-unified-dimensional-lattice.md` (the filename carries the retired name; renaming would break eight months of links, so the notice inside the file is the fix).
+**CLOSED — already done.** The file carries a full retirement notice (⚠️ DOCUMENT OBSOLETE — ARCHIVED, Superseded, with pointers to LM01, LM02, the GUD, and SN02) — stronger than the one-line notice proposed here. Optional one-line addition available on request: naming the current canonical name (the Dimensional Lattice) for readers arriving from old links.
 
 **Paste this:**
 
@@ -42,7 +42,7 @@
 
 ## 4 · Timeline Key — paste into PROVENANCE.md
 
-**Where:** `the-red-archive/PROVENANCE.md`, as its own section (suggested heading: `## Timeline Key`).
+**RETARGETED per author — done.** The Key is inserted into `precedence-documentation-v2.md` (the master timeline), adapted to its own sections and dates — updated file in outputs, ready to commit. Remaining micro-step: one pointer line in `PROVENANCE.md` so the two records cannot drift apart: *"The master timeline and its interpretive key are maintained in precedence-documentation-v2."*
 
 **Paste this:**
 
