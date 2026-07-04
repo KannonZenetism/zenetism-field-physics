@@ -184,6 +184,7 @@
 | Platonic Rulers | Greek | DM (Noeüs) | Govern through Reason aligned with Wisdom (L₄ DL: Sophis) | 15 | Plato's Republic: city as structural correspondence of psyche's architecture |
 | Plato's Charioteer | Greek | DM (Noeüs) | Rational principle steering through discernment; Noble Horse at L₂ SS (Anthra), Ignoble Horse at IL₂ ISS (Echthros) | 25 | Reins as L₃ DM discernment; Whip as L₂ SS volitional will |
 | Elijah | Hebrew | DM (Noeüs) | Prophetic awareness transported into Aionic integration without dissolution via Chariot of Fire | 25 | Acclivous DM passage to L₀ AP without dissolution |
+| Plato | Greek | DM (Noeüs) | Philosopher-articulator at L₃ DM with L₄ DL Forms-apprehension and L₅ ("the Good" / "the One") cross-band resonance; figural placement back-propagated from Volume 2 alongside the Cave and Charioteer operator-articulations | — | L₃ DM figure with supernal cross-band resonance |
 | Holy of Holies (Temple architecture) | Hebrew | DS / DM | Innermost sanctum of three-part temple; culturally elevated to dwelling of L₅ EOB Theon in mythic telling but operates at L₃ DS / DM | 23 | Three-part temple maps to layered strata; veil tearing = L₂ / L₃ membrane opening initiated from supernal strata |
 | Mentor (Monomyth role) | Universal | DM (Noeüs) | Discerning perception offering wisdom and initiation; archetype of guidance through deep mind | 22 | Joseph Campbell's hero's journey role; L₃ DM specifically |
 | Platonic Guardians | Greek | DS (Archeus) | Enforce lawful order through Courage; L₃ DS function in civic expression | 15 | Intermediate class in Republic |
@@ -360,9 +361,9 @@ These are not figures mapped to a single layer but structural operators, symboli
 | The Raven | Hebrew | Entropic remnant cast into dissipation; unable to sustain coherence | 01 | Counterpart to Dove |
 | Matsya (Fish form) | Hindu | Harmonic Agent and Recovery Anchor; Theonic signal expanding to navigate dissolution | 01 | Vehicle of Vishnu / Theon |
 | Utnapishtim | Mesopotamian | Centropic Survivor; individual escape emphasis rather than cosmic covenant | 01 | Personal continuity rather than structural renewal |
-| Manu | Hindu | Guided through dissolution by Theonic signal | 01 | Receiver of Matsya's navigation |
+| Manu | Hindu | Guided through dissolution by Theonic signal; figural-stratum expansion: L₃ DM lawgiver-articulator (cross-tradition parallel: Moses, Solon, Hammurabi-as-recipient), with Function 1 / Function 2 register-distinction — Manu-as-individual-figure contra Manu-as-cosmogonic-cycle-marker (Volume 2) | 01 | Receiver of Matsya's navigation |
 | Deucalion | Greek | Declivous Centropy within specific lineage | 01 | Localized fractal eschaton response |
-| Dionysus | Greek | Liminal; dissolution and restoration; centropic potential within entropic experience | 02 | Dismembered by Titans; Novel Emergence from dispersive field |
+| Dionysus | Greek | Liminal; dissolution and restoration; centropic potential within entropic experience; figural-stratum tightening: L₁ ES centropic-embodied register (Volume 2) | 02 | Dismembered by Titans; Novel Emergence from dispersive field |
 | Inanna | Sumerian | Voluntary declivous centropy; conscious quest for deeper knowledge; L₂ attributes systematically deconstructed at the seven gates revealing essence; essence tested at the L₁ / IL₁ embodied convergence threshold under maximum entropic-reverberation pressure from the IL ruling-domain; return requires harmonic exchange (Dumuzid as substitute) | 02 | Structural parallel to Christ's Harrowing — supernal centropic essence undergoing declivous centropy into the embodied stratum (Function 1 underworld), not crossing into the inverse hypostatic layers per the L₄ / IL₄ Non-Contact principle. The Sumerian "descent into Ereshkigal's throne room" is mythic spatialization of the L₁ / IL₁ convergence-confrontation, not archetypal-stratum visitation |
 | Dumuzid | Sumerian | Harmonic Exchange / Substitute; spiral nature of centropic process | 02 | Price of Inanna's return |
 | Ganesha | Hindu | Remover of Obstacles; coherent result of Shiva–Shakti communion | 04 | Offspring as proof of successful synthesis |
@@ -375,7 +376,7 @@ These are not figures mapped to a single layer but structural operators, symboli
 | Yogamaya (exchange of infants) | Hindu | Preservation mechanism; divine concealment ensuring centropic seed survives | 07 | Structural function, not a placed figure |
 | Odysseus | Greek | Master of adaptation; exile spiral through trials deconstructing identity; full cycle of coherent reclamation | 09 | Journey figure; L₂ → L₃ transformation through exile |
 | Rama | Hindu | Exile as lawful duty; converts wilderness into centropic microcosm | 09 | Journey figure; triumph restores Golden Age (structural coherence) |
-| Hanuman | Hindu | Harmonic Agent; gathered during exile; embodies devoted centropic service | 09 | Ally gained through resonance spiral |
+| Hanuman | Hindu | Harmonic Agent; gathered during exile; embodies devoted centropic service; figural-stratum tightening: L₃ DS Centropic Steward — devotional-stewardship of Rama through embodied-strength and structural-loyalty (Volume 2) | 09 | Ally gained through resonance spiral |
 | Israelites (Wilderness) | Hebrew | Collective exile; forty-year recursion deconstructing slave mentality to birth sovereign coherence | 09 | Journey from IL₁ bondage toward L₄ DL (Promised Land as Sophic civilization) |
 | Sita | Hindu | Divine complement seized by entropic force; abduction of coherence | 09 | Structural operator; her rescue = reclamation of centropic wholeness |
 | Suffering Servant (Isaiah) | Hebrew | Declivous centropic figure bearing fragmentation to establish eternal covenant | 10 | Structural operator; embodies the fragmentation the prophet diagnoses |
@@ -386,7 +387,7 @@ These are not figures mapped to a single layer but structural operators, symboli
 | Bridge of Sirat | Islamic | Nexus dividing souls; resonant sorting into Paradise (structural coherence) or Hell (declivous entropy) | 12 | Structural symbol of apocalyptic judgment mechanism |
 | Fimbulwinter | Norse | Exposure of entropic decay saturation; prelude to Ragnarok | 12 | Structural symbol |
 | Four Yugas | Hindu | Map of centropic-to-entropic drift: Satya (acclivous centropic) → Kali (declivous entropic) | 12 | Structural cycle; not figures but temporal operators |
-| Persephone (implied) | Greek | "Lost" centropic principle retrieved from subversal domain; structural re-anchoring | 13 | Centropic retrieval from inverse strata |
+| Persephone (implied) | Greek | "Lost" centropic principle retrieved from subversal domain; structural re-anchoring; figural-stratum tightening: L₄ DP / L₁ ES articulation across both strata (Volume 2) | 13 | Centropic retrieval from inverse strata |
 | Odin (self-sacrifice) | Norse | Sacrifices eye and suffers on Yggdrasil to attain Runes (structural language of reality); offers himself to himself | 14 | Declivous centropy through suffering yielding acclivous expansion in coherence; L₃ → L₄ DL |
 | The Scapegoat | Hebrew | Transfer and dissipation of communal dissonance; carrier of accumulated entropy expelled to Khaonic field (wilderness) | 14 | Membrane operation; transfer to Azazel (IL₄) restores communal coherence |
 | Asgard | Norse | Divine fortress; **L₄ DL (Sophis)** — realm of the Aesir as lawful sovereign order; in covenant with Vanaheim (L₄ DP) as bifurcated-aspect pantheon | 15 | **Tightened from generic L₄ to L₄ DL (Sophis)** per Yggdrasil canonical mapping. Falls at Ragnarök from terminal accumulation of cosmic entropic load — but the fall is entropic collapse, not Theonic consummation. Previously: Moved from L₃ to L₄ with Aesir |
@@ -1271,7 +1272,7 @@ No figures placed. Zenon is pre-figural.
 
 | Figure | Aspect | Ethical Orientation |
 |:--|:--|:--|
-| Zeus | DP / DL | Centropic (mythically imperfect) |
+| Zeus | DL | Centropic (mythically imperfect); figural tightening from DP / DL to L₄ DL per Methodological Principle #9 (Volume 2) |
 | Uranus | DL (Sophis) | Pre-polar, tending centropic |
 | Gaia | DP (Morgis) | Pre-polar, tending centropic |
 | Brahma | DL (Sophis) | Centropic (formative) |
