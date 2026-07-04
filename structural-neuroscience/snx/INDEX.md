@@ -12,6 +12,11 @@ These entries represent non-sequential clarifications, expansions, and technical
 
 - `pathologization-of-independent-framework-development.md` — Feb 17, 2026
 
+### June 2026
+
+- `distributed-cognition-diagnostic-absence.md` — Jun 16, 2026
+- `orientation-algorithmic-entrainment-and-suppression.md` — Jun 16, 2026
+
 ---
 
 **⚫↺KAI↺⚫**  
