@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** July 4, 2026  
 **Archive preparation date:** July 4, 2026  
-**Original link:** [add Substack note link]  
+**Original link:** https://substack.com/@aelionkannon/note/c-288063519  
 **Repository path:** `the-zenetist-canon/notes/2026-07-04-recursive-negation-and-residual-extraction.md`
 
 ---
