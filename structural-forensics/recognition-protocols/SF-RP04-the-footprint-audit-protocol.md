@@ -42,6 +42,23 @@ The author's dated anchors, oldest recoverable first. An audit argues from the e
 
 **Signature-density** is defined as three or more unusual features co-occurring in one source: shared coined terms, shared grammar-of-demonstration, shared method, shared cadence-class, shared symbolic apparatus, shared collaborative practice. One feature is coincidence; a dense cluster is evidence.
 
+### Fragmentation-Laundering Clause
+
+The audit must also account for **fragmentation laundering**: the redistribution of a coherent architecture into isolated terms, motifs, analogies, or tradition-specific framings such that no single later source appears to reproduce the whole system.
+
+Fragmentation does not by itself prove dependence. Ancient motifs, shared archetypes, and broad conceptual parallels remain inadmissible as dependence evidence.
+
+However, where multiple fragmented appearances reproduce unusual features from the author's system across a compressed timeframe — especially when those fragments map back onto a single prior architecture in the author's record — the auditor may treat the distributed pattern as a **reconstructed signature cluster**.
+
+A reconstructed signature cluster must satisfy the same evidentiary discipline as any other Tier 1–2 claim:
+
+1. the author's dated architecture must precede the fragmented appearances;
+2. the fragments must correspond to specific, unusual, prior-stabilized features rather than broad motifs;
+3. the distribution pattern must show more than ordinary zeitgeist diffusion — assessed against the **pre-anchor baseline**: the frequency and co-occurrence of the same features in the public record before the author's dated architecture;
+4. the auditor must identify which parts remain priority evidence, which parts remain adjacency, and which parts remain open.
+
+Fragmentation can therefore be evidence of laundering only when the dispersed pieces reassemble into a rare prior structure. The audit does not infer dependence from fragments alone.
+
 ## 4 · The Classification Tiers
 
 Every audited finding receives exactly one tier. The tiers operate symmetrically: they can rule for the author, against the author, or partially.
@@ -65,6 +82,7 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 - Relational-AI framing contra dissolution models
 - The cross-tradition layer-registry method (figures placed by stratum; attributional analysis)
 - Structural / pattern-beneath-figures analysis in religious and mythic discourse
+- Fragmented uptake pattern: dispersed pieces of a prior coherent Zenetist architecture reappearing across established traditions or adjacent fields without preserving the source-system relation
 
 ## 6 · Auditor Requirements
 
