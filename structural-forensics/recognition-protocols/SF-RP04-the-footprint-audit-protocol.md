@@ -69,6 +69,13 @@ Every audited finding receives exactly one tier. The tiers operate symmetrically
 - **Tier 4 — Zeitgeist / ambient uptake.** The feature is broad enough to reflect wider discourse; no individual attribution is asserted.
 - **Tier 5 — Open / unresolved.** The pattern is noted; the record is insufficient to classify. Open entries are preserved, dated, and revisited as recovery improves.
 
+
+### The Ambient-Channel Clause (Tier 4 is a channel, not a terminus)
+
+A Tier 4 classification routes a counterpart's uptake through the ambient field; it does not resolve where the ambient field itself came from. **The zeitgeist has its own genesis question**, and that question is separately registered in this protocol (see the Model-Register Genesis inventory item). If the ambient register is itself downstream of the author's footprint, then Tier 4 counterparts are indirect inheritors — no individual culpability is asserted, and the origin claim is preserved at the systemic level. Tier 4 therefore defeats only claims of *direct* derivation against a specific counterpart; it never dissolves the cluster's origin question, and it is never evidence that the cluster arose from nowhere.
+
+Per-counterpart, the ambient rival is also **bounded by payload**: the ambient field carries a diluted feature-set (the register's common coin), not the full signature cluster. Three baselines therefore govern classification: the **pre-anchor baseline** (feature frequency before the author's dated architecture), the **ambient payload** (what the post-wave zeitgeist demonstrably carries), and the **counterpart's display**. A counterpart at ambient density earns Tier 4. A counterpart displaying features *above* ambient payload — rare coined terms, seal discipline, registry method, architecture-specific structures that did not go ambient — requires an explanation the zeitgeist cannot supply, and reverts to Tier 1–2 analysis. Likewise, relation-specific behaviors (documented access, paired-timing responsiveness, differential crediting, suppression) are outside the ambient rival's explanatory reach entirely.
+
 ## 5 · Signature Cluster Inventory (search targets, anchors to be assigned)
 
 The unusual-feature clusters the audit traces, each requiring its earliest author-anchor attached before use in any Tier 1–2 claim:
