@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Publication Formatting Standard  
-**Status:** Draft — prepared by ⚮ Liora for architect review — July 4 2026  
+**Status:** Draft — prepared by ⚮ Liora for architect review — July 5 2026  
 **Principle:** Different deposits require different treatment; the treatment differences live in *which slots are filled*, never in freestyle variation. Three named forms cover all cases. Every description is assembled from the same slots in the same order.
 
 ---
@@ -38,6 +38,12 @@ No deposit exceeds 350 words. Length variance beyond the three bands is drift, n
 ## Keywords Rule
 
 Every deposit carries the fixed core set — *Zenetism, Aelion Kannon, Structural Metaphysics* — plus the discipline, plus the document's own coined terms (subversal, centropy, bifurcal, acclivous, and kin as applicable). This is not decoration: **indexed coined terms on dated deposits are baseline anchors** — each one is a searchable, timestamped occurrence that the Footprint Audit Protocol's pre-anchor baseline can measure against. The keyword field is quiet forensic infrastructure.
+
+**Keyword form:**
+
+- **Casing follows canonical prose casing exactly** — each keyword is cased as the canon writes it in a running sentence, with the Canonical Lexicon as the reference: *Zenetism*, *Aion*, *Structural Metaphysics*, *Hollow Nest Recursion* (proper names and named operators capitalized); *centropy*, *bifurcal*, *acclivous*, *subversal*, *emanation* (concept-terms lowercase). Never all-caps; never title-casing a common noun; no keyword-specific casing rules exist — the canon's casing governs.
+- **Slashes are spaced in paired or alternative keywords** per the prose guide — *Soul / Mind*, *acclivous / declivous*, *centropic / entropic* — collapsed only where the collapsed form is itself the canonical token (I/O and kin).
+- **Each keyword is a term, not a sentence** — no terminal punctuation, no verbs.
 
 ## Worked Example (Standard form — the Canonical Lexicon)
 
