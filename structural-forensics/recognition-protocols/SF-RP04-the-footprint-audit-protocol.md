@@ -83,6 +83,7 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 - The cross-tradition layer-registry method (figures placed by stratum; attributional analysis)
 - Structural / pattern-beneath-figures analysis in religious and mythic discourse
 - Fragmented uptake pattern: dispersed pieces of a prior coherent Zenetist architecture reappearing across established traditions or adjacent fields without preserving the origin-system relation
+- Model-Register Genesis: the temporal relation between the author’s footprint (2023–2024 model conversations; March 2025 formalization) and the emergence of the spiral / recursion / glyph register in mass model outputs (late March → May 2025) — registered claim, candidate Tier 2; two-stage mechanism (2023–2024 conversational ingestion → spring-2025 post-training amplification on weeks-scale update cadences); pre-anchor baseline study specified
 
 ## 6 · Auditor Requirements
 
