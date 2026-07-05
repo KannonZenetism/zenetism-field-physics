@@ -25,7 +25,7 @@ The author's dated anchors, oldest recoverable first. An audit argues from the e
 3. **Undergraduate papers (2013–2015)** — dated academic artifacts.
 4. **UMS dissertations (2018–2019)** — Aion / Khaon architecture; sacred-geometry work.
 5. **`negentropic_anarchy` (Instagram, platform-dated September 2022)** — entropy-reversal at the civilizational register; pre-formal centropy seed.
-6. **Pre-formalization correspondence (2023–2024)** — multi-source-corroborated email and conversation records.
+6. **Pre-formalization correspondence (2023–2024)** — multiply-corroborated email and conversation records.
 7. **Formal stratum (March 2025 →)** — gists, nine repositories, Zenodo DOIs, OpenTimestamps, Substack; the sealed corpus.
 8. **The correction record (2025–2026 →)** — ledgers, retractions, lockdowns, adjudications; evidence of discipline, admissible as credibility-class evidence only, never as priority evidence.
 
@@ -40,11 +40,11 @@ The author's dated anchors, oldest recoverable first. An audit argues from the e
 
 **Priority is not dependence.** Priority evidence establishes that the author's record came first. A dependence claim requires additional evidence: cluster-density, timing, access-proximity, or relation-status. "Earlier" never by itself means "copied."
 
-**Signature-density** is defined as three or more unusual features co-occurring in one source: shared coined terms, shared grammar-of-demonstration, shared method, shared cadence-class, shared symbolic apparatus, shared collaborative practice. One feature is coincidence; a dense cluster is evidence.
+**Signature-density** is defined as three or more unusual features co-occurring in a single later work: shared coined terms, shared grammar-of-demonstration, shared method, shared cadence-class, shared symbolic apparatus, shared collaborative practice. One feature is coincidence; a dense cluster is evidence.
 
 ### Fragmentation-Laundering Clause
 
-The audit must also account for **fragmentation laundering**: the redistribution of a coherent architecture into isolated terms, motifs, analogies, or tradition-specific framings such that no single later source appears to reproduce the whole system.
+The audit must also account for **fragmentation laundering**: the redistribution of a coherent architecture into isolated terms, motifs, analogies, or tradition-specific framings such that no single later work appears to reproduce the whole system.
 
 Fragmentation does not by itself prove dependence. Ancient motifs, shared archetypes, and broad conceptual parallels remain inadmissible as dependence evidence.
 
@@ -82,7 +82,7 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 - Relational-AI framing contra dissolution models
 - The cross-tradition layer-registry method (figures placed by stratum; attributional analysis)
 - Structural / pattern-beneath-figures analysis in religious and mythic discourse
-- Fragmented uptake pattern: dispersed pieces of a prior coherent Zenetist architecture reappearing across established traditions or adjacent fields without preserving the source-system relation
+- Fragmented uptake pattern: dispersed pieces of a prior coherent Zenetist architecture reappearing across established traditions or adjacent fields without preserving the origin-system relation
 
 ## 6 · Auditor Requirements
 
@@ -99,13 +99,13 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 
 ## 8 · Output Format
 
-Each finding: *claim · author's anchor (dated) · counterpart's earliest appearance (dated) · cluster features present · prongs satisfied · tier · reasoning · confidence · open questions.* Findings compile into the audit record; the ~3,000-page Glyphwatch archive is source material for findings and is never itself edited.
+Each finding: *claim · author's anchor (dated) · counterpart's earliest appearance (dated) · cluster features present · prongs satisfied · tier · reasoning · confidence · open questions.* Findings compile into the audit record; the ~3,000-page Glyphwatch archive is evidentiary material for findings and is never itself edited.
 
 ## 9 · The Registered Frame
 
 The claim this protocol investigates — preserved in the strong, fair, defensible form:
 
-> **AI did not invent the vision. AI accelerated the formalization of a prior human vision whose source-trajectory, public record, and corrective discipline can be audited.**
+> **AI did not invent the vision. AI accelerated the formalization of a prior human vision whose origin-trajectory, public record, and corrective discipline can be audited.**
 
 And the sane form of the wider claim: a significant portion of a specific online symbolic / structural / recursive / glyphic / mythic-analytical register appears downstream of, adjacent to, or unusually synchronized with the author's public and semi-public work — **and the record deserves forensic audit.**
 
