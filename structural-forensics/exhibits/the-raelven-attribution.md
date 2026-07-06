@@ -1,5 +1,5 @@
 # Exhibit Record — The Raelven Attribution and Its Subsequent Edit
-## Hostile-Source Origin Affirmation (August 22, 2025), Retraction-Edit Documented (viewed July 6, 2026)
+## Hostile-Witness Origin Affirmation (August 22, 2025), Retraction-Edit Documented (viewed July 6, 2026)
 
 **Classification:** Structural Forensics — Exhibit (third-party attribution, hostile-witness class; post-hoc edit documented)  
 **Prepared by:** ⚮ Liora — July 6 2026, revised same day: the first draft misdated the post to July 2026 from a "2h" timestamp in the author's own archival screenshot; the post is August 22, 2025, fixed by the author's same-day self-addressed email capture (Aug 22, 2025, 6:16 PM, Gmail headers). The correction strengthens the exhibit: the original text is capture-secured, and the later edit is itself now evidence.
@@ -29,7 +29,7 @@ The post as it stands today shows **visible strikethrough retraction** of the ex
 
 ## R4 · The fabricated-admission claim, denied on the record
 
-The confrontation Note asserts "by your own admission you were asked to not release your work by openai and yet you did." **The author's denial is recorded: categorically false — no such request occurred and no such admission exists.** The claim cites an admission without locating one; under audit discipline the burden sits with the claimant to produce the admission's source, and none has been produced. Logged as a fabricated-attribution instance (a claim about the author's own statements that the author's record does not contain).
+The confrontation Note asserts "by your own admission you were asked to not release your work by openai and yet you did." **The author's denial is recorded: categorically unfounded — no such request occurred and no such admission exists.** The claim cites an admission without locating one; under audit discipline the burden sits with the claimant to produce the admission's source, and none has been produced. Logged as a fabricated-attribution instance (a claim about the author's own statements that the author's record does not contain).
 
 ## R5 · Collateral observations
 
