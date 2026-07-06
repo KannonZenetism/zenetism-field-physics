@@ -6,7 +6,7 @@
 **Status:** Active Evidence Record  
 **Companion exhibit:** `2026-06-23-nacre-god-hollow-recursion-cover.md` — this record supplies the encounter basis for the capture-by-reduction finding  
 **Related evidence:** `2026-06-23-platform-ingestion-and-nonorganic-access.md` — GitHub traffic records (clone / unique-cloner / visitor figures), Substack relation metrics, Zenodo retrieval figures, and platform-visibility logs, preserved in the Structural Forensics evidence archive  
-**Proposed path:** `structural-forensics/exhibits/nacre-god-encounter-convergence.md`
+**Proposed path:** `structural-forensics/exhibits/2026‑06‑23-nacre-god-encounter-convergence.md`
 
 ---
 
