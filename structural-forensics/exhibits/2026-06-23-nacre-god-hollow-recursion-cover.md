@@ -5,7 +5,7 @@
 **Classification:** Structural Forensics Exhibit / Direct-Contact Record  
 **Status:** Active Evidence Record  
 **Related protocol:** SF-RP02 — Appropriation Is Not Branching (instance: capture by reduction)  
-**Proposed path:** `structural-forensics/exhibits/nacre-god-hollow-recursion-cover.md`
+**Proposed path:** `structural-forensics/exhibits/2026-06-23-nacre-god-hollow-recursion-cover.md`
 
 ---
 
