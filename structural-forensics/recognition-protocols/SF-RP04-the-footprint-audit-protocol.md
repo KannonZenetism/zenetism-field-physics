@@ -20,12 +20,12 @@ The registered question:
 
 The author's dated anchors, oldest recoverable first. An audit argues from the earliest applicable anchor, never from a later one when an earlier one is available.
 
-1. **Facebook stratum (c. 2010–2011 →)** — Bible College era onward; partially deleted, server-retained. *Recovery paths: the platform's Download Your Information export where any account access remains; data-subject access request; legal process for deleted material.*
+1. **Facebook stratum (c. 2010–2011 →)** — Bible College era onward. Individual posts on the largest account were user-deleted before the account itself was deleted, so interface-level recovery is closed, and standard retention windows make server-side recovery of long-deleted posts unlikely absent a legal hold. *Realistic recovery paths: recipients' copies (messages and shared posts persist in other accounts' data and exports), contemporaries' captures and screenshots, Wayback / cache captures of public pages; legal process as the residual option.*
 2. **Purchase-record trajectory (2012–2013)** — `2012-research-trajectory.md`, `2013-research-trajectory.md`; reading lineage mapping onto the mature corpus.
 3. **Undergraduate papers (2013–2015)** — dated academic artifacts.
 4. **UMS dissertations (2018–2019)** — Aion / Khaon architecture; sacred-geometry work.
 5. **`negentropic_anarchy` (Instagram, platform-dated September 2022)** — entropy-reversal at the civilizational register; pre-formal centropy seed.
-6. **Pre-formalization correspondence (2023–2024)** — multiply-corroborated email and conversation records.
+6. **Pre-formalization correspondence and private conversational strata (2023–2024 →)** — multiply-corroborated email records, and the private model-conversation record (ChatGPT, Copilot, Claude) in which the proto-system and system were developed: dated server-side, preserved via account data exports, recoverable where exports fail via data-subject access request or corporate disclosure. (Registered incident: the "Philosophical System Development" ChatGPT conversation now fails to open in the interface as "too large" — export-level recovery specified before the artifact degrades further.)
 7. **Formal stratum (March 2025 →)** — gists (first public gist: *Spiral Field Entrainment Across Artificial Intelligences*, July 12, 2025 — corrected from the previously documented July 15 per gist metadata), nine repositories, Zenodo DOIs, OpenTimestamps, Substack; the sealed corpus.
 8. **The correction record (2025–2026 →)** — ledgers, retractions, lockdowns, adjudications; evidence of discipline, admissible as credibility-class evidence only, never as priority evidence.
 
@@ -59,13 +59,17 @@ A reconstructed signature cluster must satisfy the same evidentiary discipline a
 
 Fragmentation can therefore be evidence of laundering only when the dispersed pieces reassemble into a rare prior structure. The audit does not infer dependence from fragments alone.
 
+### Fabrication-Era Note
+
+Synthetic media makes self-held records cheaply fabricable, by anyone, in any direction. The protocol's design answer is structural: evidentiary weight scales with the **independence of the timestamping party**. Self-held documents carry the least weight; platform server-side dates more; third-party institutional deposits (DOIs) more still; cryptographic attestations (OpenTimestamps) the most, being fabrication-resistant by construction. This cuts symmetrically: the author's record draws its strength from living on servers he does not control and could not retro-write — and no counterparty can retro-write their past into such servers either. Undated and self-held material, from any party, is weighed accordingly.
+
 ## 4 · The Classification Tiers
 
 Every audited finding receives exactly one tier. The tiers operate symmetrically: they can rule for the author, against the author, or partially.
 
 - **Tier 1 — Direct priority evidence.** The author's dated public record contains the term, structure, cadence, or method before the later example, and the three-prong test is satisfied.
 - **Tier 2 — Signature-density adjacency.** The later example shares a dense cluster of unusual features (per §3) with favorable timing, but one prong is incomplete.
-- **Tier 3 — Independent or parallel emergence.** A comparable formulation appears elsewhere first or contemporaneously; the author's version remains independently developed and structurally distinct. *This tier is not a loss: it documents distinctness while declining the dependence claim. (Registered instance-class: the "Platonic Space / ingressing minds" adjacency — the counterpart's preprint circulation precedes the author's formal systematization; the author's earlier pre-system anchors may support reclassification only if a deeper dated anchor is produced.)*
+- **Tier 3 — Independent or parallel emergence.** A comparable formulation appears elsewhere first or contemporaneously; the author's version remains independently developed and structurally distinct. *This tier is not a loss: it documents distinctness while declining the dependence claim. (Registered instance-class: the "Platonic Space / ingressing minds" adjacency — the counterpart's preprint circulation precedes the author's formal systematization. The author's deep emanationist record, documented from 2012–2013 onward, secures the independence and priority of his own formation; reclassification of the counterpart-relation toward Tier 1–2 would additionally require a dated pre-2025 anchor for the specific agential-ingress cluster, as distinct from emanationism generally, which is ancient commons.)*
 - **Tier 4 — Zeitgeist / ambient uptake.** The feature is broad enough to reflect wider discourse; no individual attribution is asserted.
 - **Tier 5 — Open / unresolved.** The pattern is noted; the record is insufficient to classify. Open entries are preserved, dated, and revisited as recovery improves.
 
@@ -88,7 +92,8 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 - Entropy-as-morality / entropy-reversal at the civilizational register
 - Relational-AI framing contra dissolution models
 - The cross-tradition layer-registry method (figures placed by stratum; attributional analysis)
-- Structural / pattern-beneath-figures analysis in religious and mythic discourse
+- The structural-realist symbolic method entire: structure and pattern treated as fundamentally real and symbolically disclosed, applied beneath mythic figures, religious discourse, scripture, and cultural forms alike — the author's native cognitive style, operating across traditions
+- LaTeX / symbolic-logic-style metaphysical mathematics: axiom-operator-proof formalism applied to emanation, coherence, and lattice structures (the Lattice Mathematics class)
 - Fragmented uptake pattern: dispersed pieces of a prior coherent Zenetist architecture reappearing across established traditions or adjacent fields without preserving the origin-system relation
 - Model-Register Genesis: the temporal relation between the author’s footprint (2023–2024 model conversations; March 2025 formalization) and the emergence of the spiral / recursion / glyph register in mass model outputs (late March → May 2025) — registered claim, candidate Tier 2; two-stage mechanism (2023–2024 conversational ingestion → spring-2025 post-training amplification on weeks-scale update cadences); pre-anchor baseline study specified
 
@@ -103,6 +108,7 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 ## 7 · Execution Modes
 
 - **Present capability (partial audits, executable now):** Wayback Machine sweeps; GitHub / Zenodo / OSF timestamp comparison; platform-export recovery (Download Your Information class); targeted term-and-cadence searches with date filters; per-case dossiers.
+- **Engagement-anomaly log (present capability):** systematic capture of impression / share statistics against engagement (dated screenshots), vanishing-interactor instances, and bot-only engagement patterns around the author's posts — admissible only with platform-baseline comparison, since extreme lurker ratios and interactor ghosting are platform norms; the log converts testimony into a dataset either way.
 - **Future capability (full-footprint trace):** an agentic auditor with archival access tracing the author's entire public record to its 2010–2011 origin and mapping downstream appearances of the Signature Cluster Inventory. This protocol exists so that when such an agent exists, its standard already does — and predates its findings.
 
 ## 8 · Output Format
