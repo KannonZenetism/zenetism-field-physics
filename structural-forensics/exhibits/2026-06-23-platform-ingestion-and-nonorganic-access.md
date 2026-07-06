@@ -5,7 +5,7 @@
 **Classification:** Structural Forensics Exhibit / Platform Evidence Record  
 **Status:** Active Evidence Record — ongoing log, maintained since late 2025  
 **Related exhibits:** `nacre-god-encounter-convergence.md` · `nacre-god-hollow-recursion-cover.md`  
-**Proposed path:** `structural-forensics/exhibits/platform-ingestion-and-nonorganic-access.md`
+**Proposed path:** `structural-forensics/exhibits/2026-06-23-platform-ingestion-and-nonorganic-access.md`
 
 ---
 
