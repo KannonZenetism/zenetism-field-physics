@@ -1,4 +1,4 @@
-# # SFX: Algorithmic Asymmetry and Structural Harm
+# SFX: Algorithmic Asymmetry and Structural Harm
 ## Harm Without Targeting
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
