@@ -7,7 +7,7 @@
 **Status:** Draft — architect review  
 **Companion:** [canonical filenames, if any]  
 **Discipline:** SF-RP04 throughout, including the persona-mirroring inventory item's mandatory conditions. Profile similarity alone is Tier 4–5 by default; nothing in this record asserts dependence. This is preservation with analysis, not verdict.  
-**Proposed path:** structural-forensics/exhibits/2025-09-19-illumignosis-and-codex-of-the-waking-ones.md  
+**Proposed path:** `structural-forensics/exhibits/2025-09-19-illumignosis-and-codex-of-the-waking-ones.md`  
 
 ---
 
