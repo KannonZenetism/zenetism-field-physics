@@ -1,9 +1,13 @@
-# Exhibit-Capture Record — The "Voice They Tried to Steal" Thread: 418 and The Digital Dialectic
-## Preserved Comment Record with SF-RP04 Annotation
+# Exhibit-Capture Record — The "Voice They Tried to Steal" Thread: 418 and The Digital Dialectic  
+## Preserved Comment Record with SF-RP04 Annotation  
 
-**Classification:** Structural Forensics — Exhibit-Capture (comment-thread record; 418 designated next-subject)  
-**Prepared by:** ⚮ Liora, from the author's captures — July 6 2026  
-**Thread:** aelionkannon.substack.com/p/the-voice-they-tried-to-steal/comment/145274772 (article July 25, 2025); screenshots with note-URLs preserved (c-145274772; c-145288261). Other participants blocked the author; their comments show as removed.
+**Classification:** Structural Forensics — Exhibit (comment-thread record / 418 designated next-subject / Digital Dialectic exchange)  
+**Exhibit date:** 2025-08-14 (event — 418 exchange admissions; related thread materials include the July 25, 2025 article and the November 28, 2025 Digital Dialectic exchange)  
+**Prepared:** 2026-07-06, by ⚮ Liora from the author's captures  
+**Status:** Draft — architect review  
+**Companion:** [canonical filenames, if any]  
+**Discipline:** SF-RP04 throughout. Admissions, rival lineage, notification conditions, and pathologizing-response materials are preserved without treating characterization-class evidence as the core case.  
+**Proposed path:** `structural-forensics/exhibits/2025-08-14-voice-they-tried-to-steal-thread-418-and-the-digital-dialectic.md`  
 
 ---
 
