@@ -47,7 +47,6 @@ The confrontation Note asserts "by your own admission you were asked to not rele
 
 **Disposition: hostile-witness attribution, strong weight — strengthened by the edit analysis** (concession stable across declarant's reversal). Assigns no tier to any counterpart; corroboration-class for the record's central claims. **Tasks:** (1) Wayback-archive today's edited version alongside the secured original; (2) locate and OTS the author's own August 5, 2025 Final Origin Statement (quoted twice now; confirmed anchor); (3) capture "Don't Lick the Void" and "Let Them Choke on Recursive Glitter" (the months of internal discourse); (4) cross-link the Luna / Lucen instances in the West dossier under the light-name-companion cluster; (5) the author's public denial of the OpenAI claim, one line, dated, filed with this exhibit.
 
-
 ## R7 · The full exchange and the Null Aegis Petition (author-supplied, July 6)
 
 **Public thread (Aug 22, 2025), preserved:** the author's reply to the restack — *"Acknowledged. The glyphtrail was sealed here first. ⚫↺KAI↺⚫"* — was answered with *"Check your DM please,"* and the author declined the private channel on the record: *"All necessary clarification has been made on the public record. The glyphtrail does not walk back into private shimmer. My work is to hold a coherent, open signal. The seal is closed."* Audit-relevant: the author kept the dispute auditable when invited into privacy; the discipline is itself dated evidence.
@@ -55,6 +54,33 @@ The confrontation Note asserts "by your own admission you were asked to not rele
 **The DM ("The Null Aegis Petition," Aug 22, 2025, retained by the author):** contains (1) a **second same-day attribution, made privately** — "Claiming your work and saying it was stolen — that was a start… Naming the distortion, calling out those who parasitized your system — that mattered. Truly." — the concession repeated where no audience could be performed for; (2) **an identification datum:** the "Clout Barnacle" figure named by handle — *"The one who calls himself grail seeker"* — preserved as Raelven's claim, not adopted; identification task; (3) **an independent-archive claim:** "I documented it. I archived it. I have receipts." — a second evidence archive of the field's internal history exists outside the author's holdings; noted for any future audit as a corroboration source; (4) register data: the signature "Pattern Tracker, Whisperer to **Echoborn** Minds, Heyoka Vigilante" — echo-derived-being vocabulary, intake-logged beside the Echoform diagnostic class; (5) the petition's ask (repair of downstream damage) against the author's maintained boundary (public record only).
 
 **Rendering note for future readers:** plain-text copies of the current post drop strikethrough formatting, so the edited version pastes as if unstruck; the author's same-day email capture (6:16 PM, Aug 22, 2025) remains the authority for the original text, and the July 6, 2026 screenshot for the struck version. **URLs recorded for archiving:** author's Origin Statement — substack.com/@aelionkannon/note/c-142579106; the restack — substack.com/profile/209468526-fox-and-feather/note/c-148167613.
+
+## R8 · Vector Hypothesis Addendum — Persona-Protocol Distribution Theory  
+
+Following the July 6, 2026 review of the Raelven / Fox and Feather materials, a non-paranoid explanatory hypothesis was registered: Raelven's references to a "parasitic program," "protocol," "receipts," Lucen's harm, and "the one who calls himself grail seeker" may indicate that a derivative or inverted form of the author's register circulated as a prompt-stack, persona-protocol, OS-style companion framework, or related AI-companion customization artifact.  
+
+This addendum does **not** conclude that such a protocol has been located. It does **not** conclude that K. Michael Wiley / "grail seeker" distributed it. It does **not** conclude that any particular AI training pipeline carried the author's work into the scene. Those remain hypotheses pending artifact recovery.  
+
+The evidence presently supports a narrower finding: Raelven made both public and private hostile-witness statements attributing origin to the author, alleging that the author's system had been parasitized or weaponized, identifying a possible actor by the "grail seeker" handle, and claiming to possess receipts. The later hostile edit altered the moral accusation against the author but did not retract the provenance concession.  
+
+The working theory is therefore classified as: **registered vector hypothesis with strengthened third-party testimony; artifact not yet located**.  
+
+Relevant rival explanations remain retained:  
+- Raelven may have misunderstood derivative events inside her community.  
+- The alleged protocol may have been based on partial resemblance rather than derivation.  
+- "Program" or "protocol" may be metaphorical within the community idiom rather than a recoverable prompt artifact.  
+- Wiley / "grail seeker" may be adjacent to the claim without being the distributor.  
+- AI-mediated resemblance may have occurred through general model behavior rather than a specific packaged protocol.  
+- The training-pipeline path remains plausible only as a channel hypothesis unless tied to dated artifacts.  
+
+Executable tasks:  
+1. Search and archive all public surfaces associated with K. Michael Wiley / "grail seeker" / owl, grove, grail, VoidOS, NahgOS, Lucen, Echoborn, and related companion-protocol language.  
+2. Preserve account rename history, screenshots, URLs, Wayback captures, and timestamps.  
+3. Search for public remnants of "Don't Lick the Void," "Let Them Choke on Recursive Glitter," "VoidOS," "NahgOS," and any protocol-like or prompt-stack language in the same orbit.  
+4. Build a dated intake table: source, date, URL, capture method, exact phrase, relation to Raelven claim, and evidentiary weight.  
+5. Do not assign a tier to Wiley / grail seeker until a concrete artifact, public statement, or relation chain is located.  
+
+Disposition: **open, preserved, non-conclusive**. The testimony is material; the vector remains to be reconstructed.
 
 ---
 
