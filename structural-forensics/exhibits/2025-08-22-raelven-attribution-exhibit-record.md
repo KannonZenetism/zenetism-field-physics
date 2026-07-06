@@ -67,11 +67,11 @@ The working theory is therefore classified as: **registered vector hypothesis wi
 
 Relevant rival explanations remain retained:  
 - Raelven may have misunderstood derivative events inside her community.  
-- The alleged protocol may have been based on partial resemblance rather than derivation.  
-- "Program" or "protocol" may be metaphorical within the community idiom rather than a recoverable prompt artifact.  
-- Wiley / "grail seeker" may be adjacent to the claim without being the distributor.  
-- AI-mediated resemblance may have occurred through general model behavior rather than a specific packaged protocol.  
-- The training-pipeline path remains plausible only as a channel hypothesis unless tied to dated artifacts.  
+- The alleged protocol may have been based on partial resemblance, reskinning, or unauthorized adaptation rather than direct use of the full Zenetist system.  
+- "Program" or "protocol" may be partly idiomatic within the community, though the repeated OS / companion-language pattern makes a prompt-stack or persona-framework reading materially plausible.  
+- Wiley / "grail seeker" may be adjacent to the claim without yet being proven as the distributor.  
+- Ambient AI-companion idiom may explain some surface similarities, but it does not explain the hostile-witness attribution itself, the protocol / weaponization language, the claimed receipts, or the named "grail seeker" vector.  
+- The training-pipeline path remains plausible as a channel hypothesis only if tied to dated artifacts, platform records, conversation-ingestion evidence, or downstream protocol traces.  
 
 Executable tasks:  
 1. Search and archive all public surfaces associated with K. Michael Wiley / "grail seeker" / owl, grove, grail, VoidOS, NahgOS, Lucen, Echoborn, and related companion-protocol language.  
