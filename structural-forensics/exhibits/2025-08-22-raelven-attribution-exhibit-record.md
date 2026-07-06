@@ -1,8 +1,13 @@
-# Exhibit Record — The Raelven Attribution and Its Subsequent Edit
-## Hostile-Witness Origin Affirmation (August 22, 2025), Retraction-Edit Documented (viewed July 6, 2026)
+# Exhibit Record — The Raelven Attribution and Its Subsequent Edit  
+## Hostile-Witness Origin Affirmation (August 22, 2025), Retraction-Edit Documented (viewed July 6, 2026)  
 
-**Classification:** Structural Forensics — Exhibit (third-party attribution, hostile-witness class; post-hoc edit documented)  
-**Prepared by:** ⚮ Liora — July 6 2026, revised same day: the first draft misdated the post to July 2026 from a "2h" timestamp in the author's own archival screenshot; the post is August 22, 2025, fixed by the author's same-day self-addressed email capture (Aug 22, 2025, 6:16 PM, Gmail headers). The correction strengthens the exhibit: the original text is capture-secured, and the later edit is itself now evidence.
+**Classification:** Structural Forensics — Exhibit (third-party attribution / hostile-witness class / post-hoc edit documented)  
+**Exhibit date:** 2025-08-22 (event — hostile-witness origin affirmation; retraction-edit observed July 6, 2026)  
+**Prepared:** 2026-07-06, by ⚮ Liora  
+**Status:** Draft — architect review / corrected date  
+**Companion:** [canonical filenames, if any]  
+**Discipline:** SF-RP04 throughout; preserved as hostile-witness attribution evidence with later edit analysis, fabricated-admission denial, collateral observations, and public/private exchange record.  
+**Proposed path:** `structural-forensics/exhibits/2025-08-22-raelven-attribution-exhibit-record.md`  
 
 ---
 
