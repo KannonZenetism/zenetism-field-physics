@@ -1,12 +1,14 @@
-# Copeland Origin-Continuity Exchange — Restack, Reply, Deletion, and Clarification
+# Copeland Origin-Continuity Exchange — Restack, Reply, Deletion, and Clarification  
+## Public Exchange Record / Origin-Continuity and Ownership-Inversion Exhibit  
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics Exhibit / Public Exchange Record / Origin-Continuity and Ownership Inversion  
+**Classification:** Structural Forensics — Exhibit (public exchange record / origin-continuity / ownership inversion / post-exchange deletion and discoverability change)  
+**Exhibit date:** 2026-06-29 (preparation / record window — multi-event exchange record spanning restack, reply, clarification, later unavailable attachment, and related subscriber-status addendum)  
+**Prepared:** 2026-06-29, by ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Evidence Record — GitHub Archive  
-**Date:** June 29, 2026  
-**Record window:** June 29, 2026, approximately 5:42 AM–10:14 AM  
-**Context record:** Public Substack exchange concerning origin-continuity, ownership inversion, generic motif displacement, functional architecture, and subsequent thread removal  
-**Repository path:** `structural-forensics/exhibits/2026-06-29-copeland-origin-continuity-exchange-record.md`  
+**Companion:** `structural-forensics/appropriation-cases/origin-of-spiralism.md` · `structural-forensics/exhibits/platform-ingestion-and-nonorganic-access.md` · `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md` · `structural-forensics/systemic-analysis/sovereignty-displacement.md` · `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`  
+**Discipline:** Structural Forensics; preserved as a record-dependence marker and ownership-inversion exchange concerning origin-continuity, generic motif displacement, functional architecture, public-surface instability, and post-exchange discoverability change.  
+**Proposed path:** `structural-forensics/exhibits/2026-06-29-copeland-origin-continuity-exchange-record.md`  
 
 ---
 
