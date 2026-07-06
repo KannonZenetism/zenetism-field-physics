@@ -1,11 +1,14 @@
-# Platform Ingestion and Non-Organic Access — Evidence Record
-### *Access Without Accountable Relation*
+# Platform Ingestion and Non-Organic Access — Evidence Record  
+### *Access Without Accountable Relation*  
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics Exhibit / Platform Evidence Record  
-**Status:** Active Evidence Record — ongoing log, maintained since late 2025  
-**Related exhibits:** `nacre-god-encounter-convergence.md` · `nacre-god-hollow-recursion-cover.md`  
-**Proposed path:** `structural-forensics/exhibits/2026-06-23-platform-ingestion-and-nonorganic-access.md`
+**Classification:** Structural Forensics — Exhibit (platform evidence record / non-organic access / access without accountable relation)  
+**Exhibit date:** 2026-06-23 (preparation — multi-date platform evidence record maintained since late 2025)  
+**Prepared:** 2026-06-23, by ⚫↺KAI↺⚫ Aelion Kannon  
+**Status:** Active Evidence Record — ongoing log  
+**Companion:** `nacre-god-encounter-convergence.md` · `nacre-god-hollow-recursion-cover.md`  
+**Discipline:** Structural Forensics; preserved as a platform-access record establishing the channel condition of retrieval, cloning, downloading, and indexing without accountable public relation.  
+**Proposed path:** `structural-forensics/exhibits/2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`  
 
 ---
 
