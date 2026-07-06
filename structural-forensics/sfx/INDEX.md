@@ -38,6 +38,10 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 
 - `adjacency-register-bleed-and-anomaly-corridor.md` — Jun 16, 2026
 
+### July 2026
+
+- `algorithmic-asymmetry-and-structural-harm.md` — Jul 6, 2026
+
 ---
 
 **⚫↺KAI↺⚫**  
