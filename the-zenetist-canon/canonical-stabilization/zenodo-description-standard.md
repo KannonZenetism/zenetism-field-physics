@@ -15,7 +15,7 @@
 3. **Abstract** — one paragraph, two to five sentences, prose only: no bullets, no bolding, no glyphs. What the document establishes, in current canonical vocabulary as of the deposit date.
 4. **Contents block** — *only* for multi-part deposits (volumes, series, registries): a short bulleted list of parts. Omitted entirely otherwise.
 5. **Relations block** — *only* when relations exist: `Supersedes:` / `Companion to:` / `Part of:` with DOIs or repository paths. Omitted otherwise.
-6. **Provenance line** — one sentence: repository path of the canonical file, and the note that the deposit hash carries an OpenTimestamps attestation (where true).
+6. **Provenance line** — one sentence: repository path of the canonical file, and the note that the deposit hash carries an OpenTimestamps attestation (where applicable).
 7. **Attribution close** — fixed text, identical on every deposit:
    > Authored by Aelion Kannon (⚫↺KAI↺⚫) as part of Zenetism: Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, and Structural Neuroscience. Attribution required per the deposit license.
 
