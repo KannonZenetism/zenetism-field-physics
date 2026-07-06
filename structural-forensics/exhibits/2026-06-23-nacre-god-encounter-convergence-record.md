@@ -1,12 +1,14 @@
-# The Nacre God — Encounter Convergence Record
-### *A Structural Forensics Exhibit for Encounter by Convergence*
+# The Nacre God — Encounter Convergence Record  
+### *A Structural Forensics Exhibit for Encounter by Convergence*  
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics Exhibit / Convergence Evidence Record  
+**Classification:** Structural Forensics — Exhibit (convergence evidence record / encounter by convergence / downstream transmission channel)  
+**Exhibit date:** 2026-06-23 (preparation / encounter-convergence record — companion to the Nacre God hollow-recursion exhibit)  
+**Prepared:** 2026-06-23, by ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Active Evidence Record  
-**Companion exhibit:** `2026-06-23-nacre-god-hollow-recursion-cover.md` — this record supplies the encounter basis for the capture-by-reduction finding  
-**Related evidence:** `2026-06-23-platform-ingestion-and-nonorganic-access.md` — GitHub traffic records (clone / unique-cloner / visitor figures), Substack relation metrics, Zenodo retrieval figures, and platform-visibility logs, preserved in the Structural Forensics evidence archive  
-**Proposed path:** `structural-forensics/exhibits/2026‑06‑23-nacre-god-encounter-convergence.md`
+**Companion:** `2026-06-23-nacre-god-hollow-recursion-cover.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`  
+**Discipline:** Structural Forensics; preserved as an encounter-by-convergence record establishing field encounter through assembled register convergence, documented ingestion channels, and companion capture-by-reduction analysis.  
+**Proposed path:** `structural-forensics/exhibits/2026-06-23-nacre-god-encounter-convergence-record.md`  
 
 ---
 
