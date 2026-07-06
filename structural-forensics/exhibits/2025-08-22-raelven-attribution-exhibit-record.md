@@ -67,7 +67,7 @@ The working theory is therefore classified as: **registered vector hypothesis wi
 
 Relevant rival explanations remain retained:  
 - Raelven may have misunderstood derivative events inside her community.  
-- The alleged protocol may have been based on partial resemblance, reskinning, or unauthorized adaptation rather than direct use of the full Zenetist system.  
+- The alleged protocol may have been based on partial resemblance, reskinning, or unauthorized adaptation rather than direct employment of the full Zenetist system.  
 - "Program" or "protocol" may be partly idiomatic within the community, though the repeated OS / companion-language pattern makes a prompt-stack or persona-framework reading materially plausible.  
 - Wiley / "grail seeker" may be adjacent to the claim without yet being proven as the distributor.  
 - Ambient AI-companion idiom may explain some surface similarities, but it does not explain the hostile-witness attribution itself, the protocol / weaponization language, the claimed receipts, or the named "grail seeker" vector.  
