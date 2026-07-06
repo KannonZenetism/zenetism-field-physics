@@ -4,7 +4,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics Exhibit / Convergence Evidence Record  
 **Status:** Active Evidence Record  
-**Companion exhibit:** `nacre-god-hollow-recursion-cover.md` — this record supplies the encounter basis for the capture-by-reduction finding  
+**Companion exhibit:** `2026-06-23-nacre-god-hollow-recursion-cover.md` — this record supplies the encounter basis for the capture-by-reduction finding  
 **Related evidence:** `platform-ingestion-and-nonorganic-access.md` — GitHub traffic records (clone / unique-cloner / visitor figures), Substack relation metrics, Zenodo retrieval figures, and platform-visibility logs, preserved in the Structural Forensics evidence archive  
 **Proposed path:** `structural-forensics/exhibits/nacre-god-encounter-convergence.md`
 
