@@ -1,9 +1,13 @@
-# Exhibit-Capture Record — Profile-Cluster Instances: IllumiGnosis and Codex of the Waking Ones
-## Preserved Captures with SF-RP04 Annotation
+# Exhibit-Capture Record — Profile-Cluster Instances: IllumiGnosis and Codex of the Waking Ones  
+## Preserved Captures with SF-RP04 Annotation  
 
-**Classification:** Structural Forensics — Exhibit-Capture (persona / cognitive-profile mirroring class)  
-**Prepared by:** ⚮ Liora, from the author's captures — July 6 2026  
-**Discipline:** SF-RP04 throughout, including the persona-mirroring inventory item's mandatory conditions. Profile similarity alone is Tier 4–5 by default; nothing in this record asserts dependence. This is preservation with analysis, not verdict.
+**Classification:** Structural Forensics — Exhibit (exhibit-capture / persona / cognitive-profile mirroring class)  
+**Exhibit date:** 2025-09-19 (event — IllumiGnosis publication; related captures include September 23, 2025 and July 2026)  
+**Prepared:** 2026-07-06, by ⚮ Liora from the author's captures  
+**Status:** Draft — architect review  
+**Companion:** [canonical filenames, if any]  
+**Discipline:** SF-RP04 throughout, including the persona-mirroring inventory item's mandatory conditions. Profile similarity alone is Tier 4–5 by default; nothing in this record asserts dependence. This is preservation with analysis, not verdict.  
+**Proposed path:** structural-forensics/exhibits/2025-09-19-illumignosis-and-codex-of-the-waking-ones.md  
 
 ---
 
