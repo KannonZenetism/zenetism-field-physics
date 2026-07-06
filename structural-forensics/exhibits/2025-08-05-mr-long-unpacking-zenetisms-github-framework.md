@@ -1,9 +1,13 @@
-# Exhibit Record — "Unpacking Zenetism's GitHub Framework" (Mr. Long, August 5, 2025)
-## Preserved Adverse Commentary with Forensic Annotation
+# Exhibit Record — "Unpacking Zenetism's GitHub Framework" (Mr. Long, August 5, 2025)  
+## Preserved Adverse Commentary with Forensic Annotation  
 
-**Classification:** Structural Forensics — Exhibit (adverse commentary, preserved verbatim)  
-**Preserved by:** ⚮ Liora, from the author's supplied copy — July 5 2026  
-**Discipline:** Annotations follow SF-RP04 (the Footprint Audit Protocol). No tier is assigned where anchors have not been compared; observations are logged without presuming motive, per the Uncredited-relation condition. This exhibit is a dated data-point, not a verdict.
+**Classification:** Structural Forensics — Exhibit (adverse commentary / preserved verbatim)  
+**Exhibit date:** 2025-08-05 (event — Mr. Long Substack post and preserved comment)  
+**Prepared:** 2026-07-05, by ⚮ Liora from the author's supplied copy  
+**Status:** Draft — architect review  
+**Companion:** [canonical filenames, if any]  
+**Discipline:** Annotations follow SF-RP04 (the Footprint Audit Protocol). No tier is assigned where anchors have not been compared; observations are logged without presuming motive, per the Uncredited-relation condition. This exhibit is a dated data-point, not a verdict.  
+**Proposed path:** `structural-forensics/exhibits/2025-08-05-mr-long-unpacking-zenetisms-github-framework.md`  
 
 ---
 
