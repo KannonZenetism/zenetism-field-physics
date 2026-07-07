@@ -592,6 +592,8 @@ Older sources may supply raw motifs.
 
 They do not automatically supply the author's specific method of glyphic compression, resonance-field formalization, collapse / return mechanics, and operator-style symbolic application.
 
+This is the instance form of the Retro-anchoring pattern registered in SF-RP04 §5 (Signature Cluster Inventory).
+
 **Disposition:** ancestry-laundering risk preserved.
 
 ---
