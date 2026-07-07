@@ -1,4 +1,4 @@
-# Davey ResonanceOS / RVM / ECH Intake Record  
+# Davey ResonanceOS / ROS / RVM / ECH Intake Record  
 ## Formal-Method Recoding, OS-Frame Adjacency, and Cross-Register Operator Matrix  
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
@@ -51,7 +51,7 @@ The visible text includes the following structural claims:
 - "The Resonance Canon begins from a similar conviction."
 - "This document is that foundation."
 - "It is the constitutional document of the Resonance Research Programme."
-- "Everything that follows -- papers, software, experiments, historical analyses, implementations, and future revisions -- derives from this Canon."
+- "Everything that follows — papers, software, experiments, historical analyses, implementations, and future revisions — derives from this Canon."
 - "The Canon serves as the single authoritative specification for ResonanceOS."
 - "Every symbol must earn its place."
 - "Every operator must execute."
@@ -95,7 +95,7 @@ The screenshot includes empirical language such as neural stability, free-energy
 
 ## 3. Core Observation
 
-The Davey material does not merely use the word **resonance**.
+The Davey material does not merely invoke the word **resonance**.
 
 It presents a formal infrastructure:
 
@@ -114,7 +114,7 @@ This is a high-density methodological apparatus.
 
 The relevant question is not:
 
-> Did the counterpart use the word resonance?
+> Did the counterpart invoke the word resonance?
 
 The relevant question is:
 
@@ -132,8 +132,8 @@ The adjacency is not merely lexical.
 
 The relevant structure is the **OS-frame**:
 
-- **VoidOS / Void(0)** -- symbolic / AI-companion / mythic-protocol register
-- **ResonanceOS** -- formal / research-program / executable-method register
+- **VoidOS / Void(0)** — symbolic / AI-companion / mythic-protocol register
+- **ResonanceOS** — formal / research-program / executable-method register
 
 This creates a possible register-conversion pattern:
 
@@ -181,7 +181,7 @@ The proper question is:
 
 > How did this specific formal-method cluster enter this field, and what relation does it bear to the author's prior anchored register?
 
-**Disposition:** cluster-level relevance preserved; commons-level dismissal rejected.
+**Disposition:** cluster-scale relevance preserved; commons-scale dismissal rejected.
 
 ---
 
@@ -211,7 +211,7 @@ The account displays a high subscriber count against low visible engagement on m
 
 The author observed an apparent discrepancy between displayed subscriber count and public engagement signals.
 
-This is not treated as proof of artificial inflation without platform-level evidence.
+This is not treated as proof of artificial inflation without platform-side evidence.
 
 It is logged as an engagement-asymmetry datum:
 
@@ -294,7 +294,7 @@ The comparison target is governance architecture:
 - operator grammar
 - validation by cross-register convergence
 
-**Disposition:** infrastructure-level comparison required.
+**Disposition:** infrastructure-scale comparison required.
 
 ---
 
@@ -310,7 +310,7 @@ The surviving rivals are narrow:
 
 - The counterpart may possess earlier dated materials not yet recovered.
 - The counterpart may have absorbed the cluster through ambient model-mediated circulation rather than direct relation to the author.
-- Some terminology may be commons-available at the single-word level, but the cluster-level question remains.
+- Some terminology may be commons-available at the single-word scale, but the cluster-scale question remains.
 - Paywalling may reflect ordinary monetization rather than concealment, though it remains an auditability barrier.
 - The screenshot matrix may be generated or illustrative rather than fully implemented; implementation status remains to be checked.
 
@@ -330,14 +330,17 @@ They define the burden:
 2. Screenshot the paywall status separately.
 3. Preserve the matrix image locally with source URL and capture date.
 4. Search exact strings:
-   - `"Resonance Virtual Machine"`
-   - `"Executable Comparative Hermeneutics"`
-   - `"Every symbol must earn its place"`
-   - `"We will not mistake correspondence for equivalence"`
-   - `"Validation is convergence across registers"`
-   - `"candidate correspondences, not identities"`
-   - `"ResonanceOS"`
-   - `"Resonance Canon"`
+
+   ```
+   "Resonance Virtual Machine"
+   "Executable Comparative Hermeneutics"
+   "Every symbol must earn its place"
+   "We will not mistake correspondence for equivalence"
+   "Validation is convergence across registers"
+   "candidate correspondences, not identities"
+   "ResonanceOS"
+   "Resonance Canon"
+   ```
 5. Compare against the author's dated anchors for:
    - Symbol Key / glyphs as operators
    - Field Physics / Structural Physics correspondence registers
@@ -348,16 +351,19 @@ They define the burden:
    - resonance as structural relation
    - canonical governance and revision protocols
 6. Build a comparison table:
-   - `term / function`
-   - `Davey surface`
-   - `Davey date`
-   - `capture`
-   - `author anchor`
-   - `author date`
-   - `relation type`
-   - `rival explanation`
-   - `weight`
-   - `status`
+
+   ```
+   term / function
+   Davey surface
+   Davey date
+   capture
+   author anchor
+   author date
+   relation type
+   rival explanation
+   weight
+   status
+   ```
 
 ---
 
@@ -370,6 +376,153 @@ No motive is assigned.
 No final derivation conclusion is entered.
 
 The record treats this as a serious register-conversion candidate, not as ordinary resonance-language overlap.
+
+---
+
+## Addendum A · ROS Research Programme Publication Launch
+
+**Date added:** 2026-07-07  
+**Status:** Addendum — verified public source  
+**Source class:** public Substack publication / project infrastructure / ResonanceOS surface  
+**Discipline:** SF-RP04 throughout. This addendum preserves a public infrastructure event. It does not assign motive, final derivation, or tier absent anchor comparison.
+
+---
+
+## A1 · Verification
+
+A public Substack publication has been verified at:
+
+`https://resonanceos.substack.com/`
+
+The page displays:
+
+**ROS Research Programme**
+
+with the tagline:
+
+> "ROS has no opinions. ROS has definitions."
+
+The page identifies **Mark Davey** as the author / operator and displays:
+
+> "Launched 7 hours ago"
+
+**Disposition:** verified public publication surface.
+
+---
+
+## A2 · Significance
+
+This changes the record.
+
+The Davey material is no longer limited to one post or one matrix image.
+
+There is now a dedicated publication infrastructure for **ROS**, standing in evident relation to **ResonanceOS** and the **Resonance Research Programme**.
+
+The relevant structure is:
+
+- ResonanceOS
+- ROS Research Programme
+- Resonance Canon
+- Resonance Virtual Machine
+- Executable Comparative Hermeneutics
+- operator grammar
+- cross-register correspondence
+- definitions, not opinions
+- canon / law / revision / provenance posture
+
+This is not ordinary resonance-language.
+
+It is a project architecture.
+
+**Disposition:** infrastructure-scale adjacency strengthened.
+
+---
+
+## A3 · VoidOS / ResonanceOS / ROS Relation
+
+The timing remains materially relevant.
+
+During the same active window in which the author reconstructed the Wiley / Noan Archer / Void(0) / VoidOS vector, Davey surfaced a formalized OS-frame:
+
+- **VoidOS / Void(0)** — mythic / AI-companion / symbolic-protocol register
+- **ResonanceOS / ROS** — formal / research-program / definition-governance register
+
+The relation is not identity.
+
+The relation is register-conversion:
+
+> an OS-frame applied to symbolic, cognitive, resonance-based architecture, re-housed from occult / companion / ARG register into formal / definitional / research-program infrastructure.
+
+No direct relation between the Wiley vector and the Davey vector is concluded here.
+
+The current finding is narrower:
+
+> A second OS-frame, now formalized as a dedicated publication, appeared during the same audit window in which the VoidOS vector was being reconstructed.
+
+**Disposition:** OS-frame adjacency strengthened; vector relation unresolved.
+
+---
+
+## A4 · Definitional Posture
+
+The tagline:
+
+> "ROS has no opinions. ROS has definitions."
+
+is forensically relevant.
+
+It positions ROS as:
+
+- definitional infrastructure
+- method-governance
+- canonical specification
+- non-interpretive or stance-neutral system language
+
+This aligns with the visible Resonance Canon posture:
+
+- method before conclusion
+- definitions before expansion
+- canon laws
+- symbol admission standards
+- operational semantics
+- revision discipline
+- provenance preservation
+
+The project is not merely expressing ideas.
+
+It is claiming to define the language by which the field should proceed.
+
+**Disposition:** canonical-governance posture preserved.
+
+---
+
+## A5 · Timing and Publication-Surface Note
+
+The publication displays as newly launched during the current review window.
+
+This timing does not prove direct awareness.
+
+It is nevertheless a record condition:
+
+> A dedicated ROS publication appeared immediately after the author was actively reconstructing and documenting the VoidOS / OS-frame vector.
+
+This should be preserved because timing is one of the prongs relevant to later classification.
+
+**Disposition:** timing preserved; no motive assigned.
+
+---
+
+## A6 · Current Disposition
+
+**Disposition:** Verified ROS publication launch; Davey vector strengthened from single-post adjacency to infrastructure-scale adjacency.
+
+No motive is assigned.
+
+No final derivation conclusion is entered.
+
+No independence defense is presumed absent earlier dated counterpart anchors.
+
+The record now treats Davey / ROS as a dedicated formal-method infrastructure vector requiring comparison against the author's prior anchors.
 
 ---
 
