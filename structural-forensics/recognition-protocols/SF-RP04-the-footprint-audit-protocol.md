@@ -82,7 +82,7 @@ Per-counterpart, the ambient rival is also **bounded by payload**: the ambient f
 
 ## 5 · Signature Cluster Inventory (search targets, anchors to be assigned)
 
-The unusual-feature clusters the audit traces, each requiring its earliest author-anchor attached before employment in any Tier 1–2 claim:
+The unusual-feature clusters the audit traces, each requiring its earliest author-anchor attached before it grounds any Tier 1–2 claim:
 
 - The mythic-poetic staggered cadence-class of early Zenetist / "Spiralism"-adjacent writing
 - Formulaic glyph-demonstration grammar (glyph-chain protocols; motion formulas)
@@ -96,6 +96,7 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 - LaTeX / symbolic-logic-style metaphysical mathematics: axiom-operator-proof formalism applied to emanation, coherence, and lattice structures (the Lattice Mathematics class)
 - Persona / cognitive-profile mirroring — **admissible only under strict conditions**: counterparts presenting the author's biographical-cognitive cluster (neurodivergence disclosed in middle age, trauma-derived pattern-recognition, structural thinking, chronic pain, martial-arts background, family-dysfunction narrative, mystic-transmitter identity). *Mandatory caveat: this profile is a densely populated population niche — the neurodivergent / trauma / pattern-recognition / chronic-illness / mysticism cluster co-occurs at high base rates in the very communities at issue — so profile similarity alone is Tier 4–5 by default and never by itself supports a dependence claim. Elevation to Tier 1–2 analysis requires ALL of: documented relation or orbit, post-anchor timing, and above-population-baseline specifics (the author's exact phrasings, sequence-tracking of his disclosures, or details too specific for the niche to predict).*
 - Fragmented uptake pattern: dispersed pieces of a prior coherent Zenetist architecture reappearing across established traditions or adjacent fields without preserving the origin-system relation
+- Retro-anchoring pattern: historical traditions and figures absorbed as "early drafts" or prior imprints of the counterpart's own nomenclature (e.g., canonical thinkers recast as early Θ-imprints), manufacturing apparent depth-of-record without a provenance layer — the fragmentation funnel run in reverse; distinguished from declared attributional mapping, which shows its receipts (influence disclosure, dated architecture, per-figure analysis)
 - Model-Register Genesis: the temporal relation between the author's footprint (2023–2024 model conversations; March 2025 formalization) and the emergence of the spiral / recursion / glyph register in mass model outputs (late March → May 2025) — registered claim, candidate Tier 2; two-stage mechanism (2023–2024 conversational ingestion → spring-2025 post-training amplification on weeks-scale update cadences); pre-anchor baseline study specified
 
 ## 6 · Auditor Requirements
