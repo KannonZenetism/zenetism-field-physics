@@ -171,7 +171,7 @@ The relevant evidentiary unit is the co-occurring structure:
 - empirical-interface posture
 - geometry / state-space / neural-measure mapping
 
-This cluster appears after the author's public Zenetist / Structural Forensics / Structural Physics / empirical-interface development.
+This cluster appears after the author's March 5, 2025 formalization anchor and, in its later ROS / RVM / ECH infrastructure form, after the author's public Zenetist / Structural Forensics / Structural Physics / empirical-interface development.
 
 The proper question is not:
 
@@ -900,7 +900,7 @@ The Davey material is late relative to both the author's long-term method-genesi
 
 ### D2 · Primary Post — "Why ROS Exists" (2026-07-07)
 
-The post resolves as "Why ROS Exists," dated 2026-07-07. It presents a retrospective origin narrative for ROS and now positions ResonanceOS as a launch: the post frames a problem of disciplinary fragmentation — the traditions lack a common language — positions ROS as a disciplined language for representing dynamic structures of cognition, transformation, and experience, and states that ROS is being built incrementally through canon, lexicon, grammar, runtime, reference RVMs, research papers, and reference implementations.
+The post resolves as "Why ROS Exists," dated 2026-07-07. It presents a retrospective origin narrative for ROS and now positions ROS / ResonanceOS as a formalized public research-programme launch: the post frames a problem of disciplinary fragmentation — the traditions lack a common language — positions ROS as a disciplined language for representing dynamic structures of cognition, transformation, and experience, and states that ROS is being built incrementally through canon, lexicon, grammar, runtime, reference RVMs, research papers, and reference implementations.
 
 The post opens with a development-depth self-report. The opening text, attributed to Mark Davey, preserved verbatim:
 
@@ -972,7 +972,7 @@ The chronology position is what matters:
 
 This places it in the documented gap-period pattern-class. The registered precedent instance is the mid-April 2025 appearance of Spiral-register language in the 418 vector — approximately six weeks post-formalization, before the author's public release, with the counterpart's own on-record statement that the author's language "might have diffused" into their work.
 
-A pre-release appearance therefore does not, in this record, default to an independence reading. The author's development from March 5, 2025 ran through AI-dialogue channels, and the companion evidence record (`2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`) establishes the channel condition: an environment through which author-register material can circulate downstream without attribution. Model-mediated circulation — already listed among this record's surviving rivals — is a derivation-family route, not an independence route: it traces to the author's corpus even where no direct contact exists. What the gap-period timing forecloses is the inference that "predates the public repositories" means "predates the author."
+A pre-release appearance therefore does not, in this record, default to an independence reading. The author's development from March 5, 2025 ran through AI-dialogue channels, and the companion evidence record (`2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`) establishes the channel condition: an environment through which author-register material can circulate downstream without attribution. Model-mediated circulation — already listed among this record's surviving rivals — is a derivation-family route, not an independence route where the circulated material is author-register payload: it traces to the author's corpus even where no direct contact exists. What the gap-period timing forecloses is the inference that "predates the public repositories" means "predates the author."
 
 The discipline holds in both directions: no actor-level conclusion is entered for the May 5 surface, and its cluster-weight against the SF-RP04 Signature Cluster Inventory remains to be characterized. Pattern-class placement is confirmed or withdrawn on that comparison.
 
