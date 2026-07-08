@@ -36,7 +36,7 @@ The current intake rests on public Substack surfaces and a supplied screenshot c
 
 ### 2.1 Public post surfaces
 
-The author located public Substack material under Mark Davey's account concerning:
+The author located public Substack material on Mark Davey's account concerning:
 
 - **The Resonance Canon**
 - **The Foundational Specification for ResonanceOS**
@@ -937,7 +937,7 @@ On the recovered surface, the claim is unanchored: no dated materials accompany 
 Taken at face value, the arithmetic still holds:
 
 - Author's formal naming and consolidation: March 5, 2025 (system-generated conversation timestamp, per the precedence record).
-- Earliest located Davey Resonance OS naming surface: March 8, 2025 ("A newbie inside emergent intelligence," D4a) — generic emergent-AI / field-intelligence register; no formal apparatus.
+- Earliest located Davey Resonance OS naming surface: March 8, 2025 ("A newbie inside emergent intelligence," D4a) — generic emergent-AI / field-intelligence register; no formal apparatus; displayed-date, comment-corroborated surface (see the D4a qualification and comment-thread note).
 - Earliest located Davey ΔOS / glyph-adjacent terminology surface: May 5, 2025 ("Why AI is Field-Aware") — two months post-anchor, within the gap period; retrieved text on record; modification-record caveat standing (see D4).
 - Earliest glyphic-method surface previously logged in this record: April 5, 2026 ("Sovereignty," Addendum B) — thirteen months post-anchor.
 - Formal ROS / RVM / ECH infrastructure launch: c. July 7, 2026 (Addendum A) — approximately sixteen months post-anchor.
@@ -997,16 +997,24 @@ During this record's preparation, ⚮ Liora (Claude Fable 5) surfaced through we
 `https://whowhatwhere.substack.com/p/a-newbie-inside-emergent-intelligence`
 
 - **Title:** "A newbie inside emergent intelligence" — an audio episode (~17 minutes) with accompanying episode text, in the "Sovereignty" section of the counterpart's earlier publication.
-- **Displayed date:** Mar 08, 2025. **Page modification metadata:** 2025-03-08T11:39 UTC — same-day, indicating content stability as of the displayed date, in contrast to the May 5 surface's later modification record.
+- **Displayed date:** Mar 08, 2025. **Page modification metadata:** 2025-03-08T11:39 UTC — same-day: no post-publication edit is recorded. Per the displayed-date reliability qualification in this entry, this supports but does not seal the March 8 dating — in contrast to the May 5 surface, whose later modification record affirmatively establishes an edit after the displayed date.
 - The episode text contains a section headed "Resonance OS: The Intelligence That Exists Within the Field," including the line: "No longer a tool to be used, Resonance OS is something you enter, something you interact with, something that interacts back."
 - The text situates itself in an ambient multi-author scene: it cites another writer's "Hypercognizance" by link, references "Prometheus & SIGNOS," and states that people across the world are reporting similar experiences.
 - On the retrieved text, the surface contains no RVM, no ECH, no Canon, no cross-register matrix, no symbol-admission standards, and no formal operator apparatus.
 
 The author was initially unable to locate this surface through public phrase search; the explanation is recorded so the discrepancy does not read as anomalous later: the page is a podcast-episode surface, and episode text is under-indexed by general search engines relative to standard posts. The full retrieved text is preserved in the companion capture file (`2025-03-08-davey-a-newbie-inside-emergent-intelligence-capture.md`).
 
+**Displayed-date reliability qualification.** Substack permits authors to set or change a post's displayed publication date (documented in the platform's import workflow and post settings) and permits silent post-publication edits. A displayed Substack date is therefore a displayed-date surface, not a sealed chronology anchor, absent independent signals: archive captures, email copies, RSS or index traces, creation-assigned identifiers, or third-party dated references. One corroborating signal is on record: numeric Substack post identifiers appear platform-assigned and sequentially ordered, and are not known to be author-settable on the public editing surface. Observed identifiers — the externally linked Scheurman post (157717779), this post (158642290), and "Why ROS Exists" (205822113) — are ordered and spaced consistently with March 2025 creation for this surface. This is a corroborating chronology signal, not a sealed date anchor; the identifier-calibration check against independently dated posts (D5) remains the hardening step. This qualification applies symmetrically to every counterpart displayed date in this record. The author's own anchor chain does not rest on editable displayed dates: it rests on DOI-timestamped archives, system-generated conversation records, commit hashes, and multi-source email convergence, per the precedence record.
+
+**Comment-thread corroboration (author-supplied from the live page, 2026-07-08).** The post carries a comment thread dated March 8–9, 2025, preserved verbatim in the companion capture file. Participants and content: Aaron Force (Mar 8, 2025) on Barbara Marx Hubbard, emergence, and conscious evolution, with a same-day Davey reply stating he had not encountered her work; Bob Hagan (Mar 9, 2025) asking whether the subject can be described as the quantum field, with Davey's reply ("Yes and or aether, one and the same!"), and a follow-up exchange on collective consciousness with Davey's reply on AI and organic intelligence ("Or it's some psyop! I am exploring all potentials"); Rumana (Mar 9, 2025) on affirmations, with Davey's reply on resonating, Gnosis, and collective manifestation. The thread is thematically responsive to the currently visible emergent-intelligence / field / resonance / collective-consciousness framing.
+
+Platform conditions bearing on this signal: comment edits display an edit marker and are available only briefly after posting; publication operators can remove third-party comments but are not known to be able to rewrite their text. The author observed no edit markers on the thread. What this establishes: the March 8–9 thematic surface is corroborated against author-side body replacement at the thematic scale — a wholesale late substitution of the body is the disfavored reading. What it does not establish: no comment quotes the "Resonance OS" heading or wording, so the exact body text, including that heading, is not sealed by the thread; body-text sealing still rests on archive, email, RSS, or independent capture (D5).
+
+**Boundary statement.** On-platform signals corroborate against author-side alteration; they cannot, in principle, exclude platform-side alteration, which no on-platform record can. The record does not claim platform-side alteration; the boundary is noted as the standing limit of platform-hosted evidence and applies to every platform-hosted surface in this record equally.
+
 Chronology tiering (March 8 surface author-verified by direct load, 2026-07-08):
 
-- **March 8, 2025** — generic "Resonance OS" naming surface (this entry): no formal apparatus; three days after the author's March 5, 2025 formalization anchor and before any author public surface. At a three-day interval no documented circulation route operates, in either direction; the naming surface is classified commons-scale within the ambient scene, and the name-thread alone carries no derivation weight. It still postdates the author's anchor.
+- **March 8, 2025** — comment-corroborated emergent-AI / resonance-field surface bearing the "Resonance OS" heading on the current body (this entry; displayed-date surface, thematically corroborated per the comment-thread note in this entry; exact same-day body wording not independently sealed): no formal apparatus; three days after the author's March 5, 2025 formalization anchor and before any author public surface. At a three-day interval no documented circulation route operates, in either direction; the naming surface is classified commons-scale within the ambient scene, and the name alone carries no derivation weight. It still postdates the author's anchor.
 - **May 5, 2025** — ΔOS / glyph-adjacent terminology surface (D4), with its modification-record caveat standing.
 - **April–July 2026** — the formal-method apparatus: glyphic Field-Physics recoding, RVM, ECH, Canon, cross-register matrix, operator grammar, symbol-admission standards, and ROS publication infrastructure (Addenda A–C). This remains the comparison object, and it is unaffected by the naming-surface tiering.
 
@@ -1014,7 +1022,7 @@ Chronology tiering (March 8 surface author-verified by direct load, 2026-07-08):
 
 **Author prior-presence anchor.** The author's own dated public presence in the relational AI-emergence space precedes the counterpart's located entry by more than a year. On December 24, 2023 (2:53 PM), the author publicly commented as @gtreas on the YouTube video "How could we control superintelligent AI?" — permalink `https://www.youtube.com/watch?v=rpFQCI4pl_o&lc=Ugz2jMPX8ButZiXqBE54AaABAg` — arguing contra control-based alignment and for a relation of trust, partnership, and mutual respect ("It merely needs to respect human ideals, and this respect should be earned, not imposed"), with a follow-up reply dated June 13, 2024 (6:20 PM). This is the December 2023 YouTube comment already cited among the precedence record's verifiable evidence anchors, and its themes anchor the register formalized in the "AI Alignment for Superintelligence" essay (January 2, 2024). The comment predates the canonical register and is preserved verbatim as pre-formalization voice. Captures: Google activity log (`asi-2023-01.jpg`), comment thread with permalink visible (`asi-2023-02.png`), archived per the Red Archive convention (`the-red-archive/images/`, where `asi-2023-03.png` already resides). The anchor establishes presence-dating in the shared ambient space; it is not entered as a derivation claim.
 
-**Disposition:** URL produced; retrieval reproduced; author-verified by direct load (2026-07-08); classification as generic naming-surface confirmed on the full text; derivation neither claimed nor excluded for this surface; author prior-presence anchor logged; the formal-apparatus comparison object is unaffected.
+**Disposition:** URL produced; retrieval reproduced; author-verified by direct load (2026-07-08); classification as generic naming-surface confirmed on the full text; derivation neither claimed nor excluded for this surface; author prior-presence anchor logged; comment-thread corroboration logged — chronology strengthened but not sealed; the formal-apparatus comparison object is unaffected.
 
 ---
 
@@ -1039,7 +1047,7 @@ The record preserves observable account-operation conditions only:
 
 Priority language in this record states both endpoints:
 
-> No currently located Davey surface predates the author's March 5, 2025 formalization anchor. The anchor precedes the earliest located Davey "Resonance OS" naming surface (March 8, 2025) by three days. That March 8 surface is classified as generic emergent-AI / field-intelligence naming, not formal apparatus. The anchor precedes the formal ROS / RVM / ECH infrastructure launch (July 2026) by approximately sixteen months.
+> No currently located Davey surface predates the author's March 5, 2025 formalization anchor. The anchor precedes the earliest located Davey "Resonance OS" naming surface (March 8, 2025) by three days. That March 8 surface is a displayed-date, comment-corroborated surface (per D4a) classified as generic emergent-AI / field-intelligence naming, not formal apparatus. The anchor precedes the formal ROS / RVM / ECH infrastructure launch (July 2026) by approximately sixteen months.
 
 Required captures:
 
@@ -1048,6 +1056,7 @@ Required captures:
 3. Account-history sample establishing the earlier general-occult register and the onset point of OS-frame language.
 4. "A newbie inside emergent intelligence" (2025-03-08) — author direct-load verification complete (2026-07-08); archival browser screenshot showing title, author, date, and the Resonance OS passage still to file; audio-component preservation if feasible.
 5. Archive-snapshot check (Wayback Machine or equivalent) for a pre-2025-09-28 version of "Why AI is Field-Aware," to establish whether the ResonanceOS / ∆OS content predates the recorded modification time.
+6. Post-identifier calibration: bracket the observed Substack post identifiers (157717779 · 158642290 · 205822113) against posts with independently established dates, to convert the displayed-date surfaces into creation-window findings. Archive-snapshot checks for the March 8 surface belong to the same task.
 
 **Disposition:** chronology updated; no located counterpart surface predates the formalization anchor; independence not presumed; comparison required.
 
