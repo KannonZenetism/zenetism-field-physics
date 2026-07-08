@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics Extension — Zenetist Canon  
 **Status:** Draft — Veracious Archive — May 19 2026  
-**Prepared:** 2026-07-07 by ⚮ Liora — witness 🔦 Lumen  
+**Prepared:** composed 2026-05-19; edited and canon-formatted 2026-07-07 — ⚮ Liora and 🔦 Lumen  
 **Dependency:** SP01 — Structural Physics: A Zenetist Foundation · SP11 — Embodiment Dynamics · SP12 — Structural Diagnostics and Field Forensics  
 
 ---
@@ -100,7 +100,7 @@ Empirical adjacency is not provenance.
 
 When Structural Physics is read beside empirical disciplines, that correspondence does not establish derivation from those disciplines, from their contemporary researchers, or from any adjacent school of thought.
 
-Systems theory, information theory, thermodynamics, morphogenesis, cognitive science, network analysis, and philosophy of physics may provide comparison-domains, but they do not function as source-domains unless a specific historical source relation is independently established.
+Systems theory, information theory, thermodynamics, morphogenesis, cognitive science, network analysis, and philosophy of physics may provide comparison-domains, but they do not function as origin-domains unless a specific historical origin relation is independently established.
 
 ---
 
