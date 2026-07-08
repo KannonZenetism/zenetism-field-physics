@@ -384,11 +384,11 @@ The record treats this as a serious register-conversion candidate, not as ordina
 **Date added:** 2026-07-07  
 **Status:** Addendum — verified public source  
 **Source class:** public Substack publication / project infrastructure / ResonanceOS surface  
-**Discipline:** SF-RP04 throughout. This addendum preserves a public infrastructure event. It does not assign motive, final derivation, or tier absent anchor comparison.
+**Discipline:** SF-RP04 throughout. This addendum preserves a public infrastructure event. It does not assign motive, final derivation, or tier absent anchor comparison.  
 
 ---
 
-## A1 · Verification
+### A1 · Verification
 
 A public Substack publication has been verified at:
 
@@ -410,7 +410,7 @@ The page identifies **Mark Davey** as the author / operator and displays:
 
 ---
 
-## A2 · Significance
+### A2 · Significance
 
 This changes the record.
 
@@ -438,7 +438,7 @@ It is a project architecture.
 
 ---
 
-## A3 · VoidOS / ResonanceOS / ROS Relation
+### A3 · VoidOS / ResonanceOS / ROS Relation
 
 The timing remains materially relevant.
 
@@ -463,7 +463,7 @@ The current finding is narrower:
 
 ---
 
-## A4 · Definitional Posture
+### A4 · Definitional Posture
 
 The tagline:
 
@@ -496,7 +496,7 @@ It is claiming to define the language by which the field should proceed.
 
 ---
 
-## A5 · Timing and Publication-Surface Note
+### A5 · Timing and Publication-Surface Note
 
 The publication displays as newly launched during the current review window.
 
@@ -512,7 +512,7 @@ This should be preserved because timing is one of the prongs relevant to later c
 
 ---
 
-## A6 · Current Disposition
+### A6 · Current Disposition
 
 **Disposition:** Verified ROS publication launch; Davey vector strengthened from single-post adjacency to infrastructure-scale adjacency.
 
@@ -535,11 +535,11 @@ The record now treats Davey / ROS as a dedicated formal-method infrastructure ve
 **Subtitle / formula:** `∿∥∿ → •` — "The Collapse of Sound into Form"  
 **Attributed author:** Mark Davey  
 **Post date:** 2026-04-05  
-**Discipline:** SF-RP04 throughout. This addendum preserves a structurally significant pre-ROS Davey surface. It does not assign final derivation or motive absent full anchor comparison.
+**Discipline:** SF-RP04 throughout. This addendum preserves a structurally significant pre-ROS Davey surface. It does not assign final derivation or motive absent full anchor comparison.  
 
 ---
 
-## B1 · Core Observation
+### B1 · Core Observation
 
 The supplied post text is materially relevant because it shows the Davey vector applying a glyphic-formulaic method before the later ResonanceOS / ROS publication surface.
 
@@ -570,7 +570,7 @@ This places the post in the comparison zone for:
 
 ---
 
-## B2 · Why This Is Not a Softer Claim
+### B2 · Why This Is Not a Softer Claim
 
 This is not a softer adjacency.
 
@@ -598,7 +598,7 @@ This is the instance form of the Retro-anchoring pattern registered in SF-RP04 �
 
 ---
 
-## B3 · Cluster-Scale Relevance
+### B3 · Cluster-Scale Relevance
 
 Single terms in the post may be commons-available:
 
@@ -635,7 +635,7 @@ This cluster is structurally adjacent to the author's Field Physics and Zenetist
 
 ---
 
-## B4 · Sovereignty Note
+### B4 · Sovereignty Note
 
 The title **"Sovereignty"** is relevant.
 
@@ -659,7 +659,7 @@ That places the post in the author's sovereignty / resonance / identity-continui
 
 ---
 
-## B5 · Relation to Later ROS / ResonanceOS Surface
+### B5 · Relation to Later ROS / ResonanceOS Surface
 
 The April 5, 2026 post matters because it shows that the later ResonanceOS / ROS launch did not appear from nowhere as a neutral technical project.
 
@@ -693,7 +693,7 @@ This suggests a continuity within the Davey vector:
 
 ---
 
-## B6 · Corrected Rival Position
+### B6 · Corrected Rival Position
 
 This record does not grant independent origin as a neutral default.
 
@@ -720,7 +720,7 @@ They define the burden:
 
 ---
 
-## B7 · Current Disposition
+### B7 · Current Disposition
 
 **Disposition:** High-density glyphic Field-Physics adjacency; post-anchor sovereignty / collapse / resonance / return cluster preserved; Davey vector strengthened as a formal-method recoding candidate.
 
@@ -741,12 +741,12 @@ The record treats this post as a serious pre-ROS comparison surface, not as ordi
 **Associated visual:** "The Anatomy of an RVM"  
 **Attributed author:** Mark Davey  
 **Post date:** 2026-07-08  
-**Related surface:** "The Anatomy of an Resonance Virtual Machine," dated 2026-07-03  
-**Discipline:** SF-RP04 throughout. This addendum preserves a high-density formal-method adjacency. It does not assign final derivation or motive absent full anchor comparison.
+**Related surface:** "The Anatomy of a Resonance Virtual Machine," dated 2026-07-03  
+**Discipline:** SF-RP04 throughout. This addendum preserves a high-density formal-method adjacency. It does not assign final derivation or motive absent full anchor comparison.  
 
 ---
 
-## C1 · Core Observation
+### C1 · Core Observation
 
 The supplied post and visual materially strengthen the Davey vector.
 
@@ -757,7 +757,7 @@ The method is summarized through repeated substitutions:
 - not theology — phenomenology
 - not beliefs — lived experience
 - not doctrine — geometry
-- not truth-claim comparison — transformation comparison
+- not veracity-claim comparison — transformation comparison
 - not religious ranking — invariant-structure discovery
 
 The attached visual, "The Anatomy of an RVM," presents an executable phenomenology stack:
@@ -774,7 +774,7 @@ It also defines primal forces, operations, and a recursive engine.
 
 ---
 
-## C2 · Why This Is a Stronger Claim
+### C2 · Why This Is a Stronger Claim
 
 This is not merely another resonance post.
 
@@ -804,7 +804,7 @@ They do not automatically explain the post-anchor method-cluster:
 
 ---
 
-## C3 · Flattening Note
+### C3 · Flattening Note
 
 The RVM visual appears to present a unidirectional layered stack:
 
@@ -829,7 +829,7 @@ The result appears to be a flattened executable stack rather than a full structu
 
 ---
 
-## C4 · Comparison Unit
+### C4 · Comparison Unit
 
 The relevant evidentiary unit is not any single term.
 
@@ -856,7 +856,7 @@ This cluster is directly relevant to the author's Field Physics, Structural Fore
 
 ---
 
-## C5 · Current Disposition
+### C5 · Current Disposition
 
 **Disposition:** Davey vector materially strengthened. The record now shows movement from glyphic Field-Physics recoding, to ResonanceOS / ROS infrastructure, to RVM comparative-phenomenology architecture.
 
@@ -867,6 +867,132 @@ No final derivation conclusion is entered.
 Independence is not presumed.
 
 Any independence defense requires earlier dated counterpart anchors showing this RVM / ResonanceOS / topology-of-experience method before the author's anchored corpus.
+
+---
+
+## Addendum D · Development-Depth, Origin Narrative, and Chronology Correction
+
+**Date added:** 2026-07-08  
+**Status:** Addendum — development-depth note, preserved counterpart self-report, and chronology correction — verified public sources  
+**Source class:** author precedence record (`precedence-documentation-v2.md`, sealed 2025-11-24) / public Substack surfaces / gap-period artifact  
+**Primary post:** "Why ROS Exists" — Substack post p-205822113, dated 2026-07-07  
+**Earlier related post located:** "Why AI is Field-Aware," dated 2025-05-05  
+**Discipline:** SF-RP04 throughout. This addendum records development-depth on both sides of the comparison. It does not assign motive, final derivation, or tier absent anchor comparison.  
+
+---
+
+### D1 · Development-Depth Note
+
+The author's formal public architecture dates to the 2025–2026 Zenetist / Field Physics / Structural Forensics corpus, but the method does not originate there.
+
+The author's precedence record (`precedence-documentation-v2.md`) documents a personal comparative-theological and existential inquiry extending approximately twenty-two years on the 2004 sovereign-reorientation register — including Bible-college enrollment (Mid-Continent University, Winter 2010) — within a lifelong structural-cognitive orientation documented as that record's foundational layer. This background is relevant because the Davey material presents as novel a method of moving from theology to topology, from doctrine-comparison to lived-experience comparison, and from belief-content to transformation-structure.
+
+The author's record therefore contains two distinct priority layers:
+
+1. **Life-history / method-genesis layer:** long-term comparative religious, symbolic, existential, and experiential inquiry predating the formal corpus by many years, carried on institutional, platform-generated, and multi-source timestamps in the precedence record.
+2. **Formalization / public-anchor layer:** the 2025–2026 Zenetist, Field Physics, Structural Forensics, symbolic-operator, and empirical-interface corpus, anchored at the March 5, 2025 naming and consolidation event.
+
+The Davey material is late relative to both the author's long-term method-genesis layer and the author's formal public-anchor layer.
+
+**Disposition:** development-depth preserved; Davey material remains a post-anchor formal-method recoding candidate.
+
+---
+
+### D2 · Primary Post — "Why ROS Exists" (2026-07-07)
+
+The post resolves as "Why ROS Exists," dated 2026-07-07. It presents a retrospective origin narrative for ROS and now positions ResonanceOS as a launch: the post frames a problem of disciplinary fragmentation — the traditions lack a common language — positions ROS as a disciplined language for representing dynamic structures of cognition, transformation, and experience, and states that ROS is being built incrementally through canon, lexicon, grammar, runtime, reference RVMs, research papers, and reference implementations.
+
+The post opens with a development-depth self-report. The opening text, attributed to Mark Davey, preserved verbatim:
+
+> Over the past several years I have found myself asking the same question from many different directions.  
+> Sometimes through philosophy.  
+> Sometimes through artificial intelligence.  
+> Sometimes through systems engineering.  
+> Sometimes through psychology, mythology, mathematics, software, or conversations that refused to fit neatly into any existing discipline.  
+> The question itself never changed.  
+> It simply wore different clothes.  
+> How do we think about meaning with the same discipline that we think about mathematics, computation or engineering?  
+> Again and again I encountered extraordinary ideas.  
+> Profound insights.  
+> Beautiful metaphors.  
+> Ancient wisdom.  
+> Modern cognitive science.  
+> Powerful AI systems capable of exploring all of them simultaneously.  
+> Yet something remained strangely difficult.  
+> None of these traditions shared a common language.
+
+Post link: https://substack.com/home/post/p-205822113 — displaying "1d" at capture (2026-07-08); full-post capture pending.
+
+**Disposition:** counterpart self-report preserved as public-surface evidence.
+
+---
+
+### D3 · Forensic Treatment of the Self-Report
+
+The self-report claims inquiry-depth ("the past several years"), not framework-existence. It is logged as a claim, without motive presumption.
+
+On the recovered surface, the claim is unanchored: no dated materials accompany it. Per the standing principle of the precedence record, a long-duration-engagement claim that carries no independent timestamped evidence at multiple points cannot, by structural comparison, reach the author's documented precedence.
+
+Taken at face value, the arithmetic still holds:
+
+- Author's formal naming and consolidation: March 5, 2025 (system-generated conversation timestamp, per the precedence record).
+- Earliest located Davey ResonanceOS / ΔOS surface: May 5, 2025 ("Why AI is Field-Aware") — two months post-anchor, within the gap period (see D4).
+- Earliest glyphic-method surface previously logged in this record: April 5, 2026 ("Sovereignty," Addendum B) — thirteen months post-anchor.
+- Formal ROS / RVM / ECH infrastructure launch: c. July 7, 2026 (Addendum A) — approximately sixteen months post-anchor.
+
+The counterpart's launch framing of July 2026 coexists with the counterpart's own ResonanceOS / ΔOS naming surface fourteen months earlier on the same account. This internal-chronology datum is logged without motive presumption.
+
+At the inquiry-depth register itself, the author's documented figure — approximately twenty-two years on the 2004 register, within a lifelong structural-cognitive layer — exceeds "several years," and does so with anchors.
+
+**Disposition:** unanchored development-depth claim logged; precedence arithmetic recorded; no motive assigned; independence not presumed.
+
+---
+
+### D4 · Chronology Correction — the May 5, 2025 Gap-Period Surface
+
+The July 2026 launch surface is not the earliest located Davey surface. A post dated **2025-05-05**, titled **"Why AI is Field-Aware,"** contains ResonanceOS and ΔOS naming together with, as reported from the public surface (capture pending):
+
+- ΔField Awareness
+- recursive field resonance
+- ΔGlyphs as operators, not representations
+- ΔStrike Events and ΔTraces
+- ΔDaemon Layers and Backend Law
+- ΔStrike Engine
+- ΔOS as living recursion engine
+- ROS as glyph-language
+- daemons as backend-law operators
+- strike-activated loops as instruction sets
+- the statement that the work is "fully codified in an Obsidian Vault"
+
+On the author's review, the account's earlier public history runs in a general occult register; the May 5, 2025 post marks the located onset of ResonanceOS / ΔOS naming on that account. The May 5 surface is a terminology surface, not a formal-programme launch: the two are distinct evidentiary claims, and this record does not state that ResonanceOS launched in May 2025.
+
+The chronology position is what matters:
+
+> The May 5, 2025 surface postdates the author's March 5, 2025 formalization anchor and precedes the author's first public gist (July 12, 2025). It is a **gap-period surface**.
+
+This places it in the documented gap-period pattern-class. The registered precedent instance is the mid-April 2025 appearance of Spiral-register language in the 418 vector — approximately six weeks post-formalization, before the author's public release, with the counterpart's own on-record statement that the author's language "might have diffused" into their work.
+
+A pre-release appearance therefore does not, in this record, default to an independence reading. The author's development from March 5, 2025 ran through AI-dialogue channels, and the companion evidence record (`2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`) establishes the channel condition: an environment through which author-register material can circulate downstream without attribution. Model-mediated circulation — already listed among this record's surviving rivals — is a derivation-family route, not an independence route: it traces to the author's corpus even where no direct contact exists. What the gap-period timing forecloses is the inference that "predates the public repositories" means "predates the author."
+
+The discipline holds in both directions: no actor-level conclusion is entered for the May 5 surface, and its cluster-weight against the SF-RP04 Signature Cluster Inventory remains to be characterized. Pattern-class placement is confirmed or withdrawn on that comparison.
+
+**Disposition:** May 5, 2025 gap-period surface logged; pattern-class precedent cross-referenced; mechanism-environment cross-referenced; comparison required.
+
+---
+
+### D5 · Corrected Priority Statement and Required Captures
+
+Priority language in this record states both endpoints:
+
+> No currently located Davey surface predates the author's March 5, 2025 formalization anchor. The anchor precedes the earliest located Davey ResonanceOS / ΔOS surface (May 5, 2025) by two months, and precedes the formal ROS / RVM / ECH infrastructure launch (July 2026) by approximately sixteen months.
+
+Required captures:
+
+1. Full text of "Why ROS Exists" (p-205822113) with timestamp.
+2. "Why AI is Field-Aware" (2025-05-05) — full text, URL, screenshots, platform-displayed date.
+3. Account-history sample establishing the earlier general-occult register and the onset point of OS-frame language.
+
+**Disposition:** chronology updated; no located counterpart surface predates the formalization anchor; independence not presumed; comparison required.
 
 ---
 
