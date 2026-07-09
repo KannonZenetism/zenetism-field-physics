@@ -64,6 +64,26 @@ The bands are partly self-sorting by the interval between the author's anchor an
 
 Interval discrimination protects the record in both directions: it forbids derivation claims the routes cannot support, and it forbids independence findings the routes do not require.
 
+### Era-Indexing Note
+
+The interval thresholds above are route-relative. They are calibrated to the 2025 substrate conditions of the cited cases, where the author's material was private or only partially public, and where the available documented routes were slower.
+
+For material published after the author's public-release window, especially under 2026 conditions, the ordinary public-route floor may contract to hours or days through retrieval-grounded AI, search indexing, wide-scale scraping, reposting, summarization, browser agents, content farms, and agentic re-expression pipelines.
+
+This does not imply that base-model training updates occur on those timescales. It means that public text can be retrieved, transformed, revoiced, and recirculated quickly through routes that do not require model-weight training.
+
+Where all public routes are available at short intervals, interval ceases to discriminate strongly in either direction. A short interval neither exonerates nor convicts. Classification weight shifts to:
+
+- payload density;
+- near-verbatim strings;
+- method-structure;
+- cluster function;
+- relation evidence;
+- capture timing;
+- and the sealing strength of the author's own publication anchors.
+
+In the public-release era, publication-time capture becomes the controlling discipline.
+
 ---
 
 ## 4. The Payload Condition
