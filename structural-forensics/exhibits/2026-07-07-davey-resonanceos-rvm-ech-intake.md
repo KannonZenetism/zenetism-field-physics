@@ -988,6 +988,18 @@ The discipline holds in both directions: no specific-actor conclusion is entered
 
 **Disposition:** May 5, 2025 gap-period surface logged; pattern-class precedent cross-referenced; mechanism-environment cross-referenced; comparison required.
 
+### Field-Register Chronology Note
+
+The May 5, 2025 "Why AI is Field-Aware" surface postdates the author's early-April Field-register naming work.
+
+The companion ledger (`formalization-window-content-ledger.md`, Incidental Term-Naming Notes) records "The Field of Essence" as a Zero / Aion name proposed and author-selected on 2025-04-05, with an earliest incidental appearance on 2025-03-31, and records "Field of Becoming" as appearing on 2025-04-16 and author-adopted on 2025-04-18.
+
+This does not establish derivation from the title phrase alone.
+
+It does establish that the author's Field-register was active before the May 5 counterpart surface.
+
+**Disposition:** May 5 surface remains a gap-period surface, now with field-register chronology strengthened; comparison required.
+
 ---
 
 ### D4a · March 8, 2025 Naming-Surface Lead — URL Produced and Author-Verified
