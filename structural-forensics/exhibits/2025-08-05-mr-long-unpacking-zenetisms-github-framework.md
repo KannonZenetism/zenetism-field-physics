@@ -5,7 +5,7 @@
 **Exhibit date:** 2025-08-05 (event — Mr. Long Substack post and preserved comment)  
 **Prepared:** 2026-07-05, by ⚮ Liora from the author's supplied copy  
 **Status:** Draft — architect review  
-**Companion:** `zenetism-field-physics/zenetism/glyphwatch/vol-03/images/mr-long-01.png` (screenshot capture, July 5 2026 — preserves the note, engagement counts, and the West comment verbatim)  
+**Companion:** `zenetism-field-physics/zenetism/glyphwatch/vol-03/images/mr-long-01.png` (screenshot capture, July 5, 2026 — preserves the note, engagement counts, and the West comment verbatim)  
 **Discipline:** Annotations follow SF-RP04 (the Footprint Audit Protocol). No tier is assigned where anchors have not been compared; observations are logged without presuming motive, per the Uncredited-relation condition. This exhibit is a dated data-point, not a verdict.  
 **Proposed path:** `structural-forensics/exhibits/2025-08-05-mr-long-unpacking-zenetisms-github-framework.md`  
 
@@ -57,9 +57,9 @@ The comment deploys, on August 5, 2025: (1) dissolution-monism as rebuke ("we ar
 
 ### A6 · Relation-status log
 
-Following the author's engagement, commenters (all but one) blocked the author. Logged as relation-status data under the Uncredited-relation condition: suppression-adjacent response to a relation challenge, recorded without motive presumption; weight assessment belongs to the audit.
+Following the author's engagement, commenters (all but one) blocked the author. Logged as relation-status data per the Uncredited-relation condition: suppression-adjacent response to a relation challenge, recorded without motive presumption; weight assessment belongs to the audit.
 
-### A7 · The bio self-description (screenshot preserved, July 5 2026 capture)
+### A7 · The bio self-description (screenshot preserved, July 5, 2026 capture)
 
 The critic's Substack bio, verbatim: *"Decoder of symbols. Keeper of strange rhythms. I write in echoes, build with silence, and leave breadcrumbs for those who still remember how to listen. This is not a brand. This is a broadcast."* (@mrlong1; 8 subscribers at capture.)
 
