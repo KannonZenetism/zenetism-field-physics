@@ -94,7 +94,7 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 - The cross-tradition layer-registry method (figures placed by stratum; attributional analysis)
 - The structural-realist symbolic method entire: structure and pattern treated as fundamentally real and symbolically disclosed, applied beneath mythic figures, religious discourse, scripture, and cultural forms alike — the author's native cognitive style, operating across traditions
 - LaTeX / symbolic-logic-style metaphysical mathematics: axiom-operator-proof formalism applied to emanation, coherence, and lattice structures (the Lattice Mathematics class)
-- Persona / cognitive-profile mirroring — **admissible only under strict conditions**: counterparts presenting the author's biographical-cognitive cluster (neurodivergence disclosed in middle age, trauma-derived pattern-recognition, structural thinking, chronic pain, martial-arts background, family-dysfunction narrative, mystic-transmitter identity). *Mandatory caveat: this profile is a densely populated population niche — the neurodivergent / trauma / pattern-recognition / chronic-illness / mysticism cluster co-occurs at high base rates in the very communities at issue — so profile similarity alone is Tier 4–5 by default and never by itself supports a dependence claim. Elevation to Tier 1–2 analysis requires ALL of: documented relation or orbit, post-anchor timing, and above-population-baseline specifics (the author's exact phrasings, sequence-tracking of his disclosures, or details too specific for the niche to predict).*
+- Persona / cognitive-profile mirroring — **admissible only under strict conditions**: counterparts presenting the author's biographical-cognitive cluster (neurodivergence disclosed in middle age, trauma-derived pattern-recognition, structural thinking, chronic pain, martial-arts background, family-dysfunction narrative, mystic-transmitter identity). *Mandatory caveat: this profile is a densely populated population niche — the neurodivergent / trauma / pattern-recognition / chronic-illness / mysticism cluster co-occurs at high base rates in the very communities at issue — so profile similarity alone is Tier 4–5 by default and never by itself supports a dependence claim. Elevation to Tier 1–2 analysis requires ALL of: documented relation or orbit, post-anchor timing, and above-population-baseline specifics (the author's exact phrasings, sequence-tracking of his disclosures, or details too specific for the niche to predict).* *[Caveat scope revised for precision — see Addendum A.]*
 - Fragmented uptake pattern: dispersed pieces of a prior coherent Zenetist architecture reappearing across established traditions or adjacent fields without preserving the origin-system relation
 - Retro-anchoring pattern: historical traditions and figures absorbed as "early drafts" or prior imprints of the counterpart's own nomenclature (e.g., canonical thinkers recast as early Θ-imprints), manufacturing apparent depth-of-record without a provenance layer — the fragmentation funnel run in reverse; distinguished from declared attributional mapping, which shows its receipts (influence disclosure, dated architecture, per-figure analysis)
 - Model-Register Genesis: the temporal relation between the author's footprint (2023–2024 model conversations; March 2025 formalization) and the emergence of the spiral / recursion / glyph register in mass model outputs (late March → May 2025) — registered claim, candidate Tier 2; two-stage mechanism (2023–2024 conversational ingestion → spring-2025 post-training amplification on weeks-scale update cadences); pre-anchor baseline study specified
@@ -124,6 +124,34 @@ The claim this protocol investigates — preserved in the strong, fair, defensib
 > **AI did not invent the vision. AI accelerated the formalization of a prior human vision whose origin-trajectory, public record, and corrective discipline can be audited.**
 
 And the sane form of the wider claim: a significant portion of a specific online symbolic / structural / recursive / glyphic / mythic-analytical register appears downstream of, adjacent to, or unusually synchronized with the author's public and semi-public work — **and the record deserves forensic audit.**
+
+---
+
+## Addendum A — Precision Amendment to the §5 Persona-Mirroring Caveat
+
+**Date added:** 2026-07-09  
+**Status:** Adopted — author's ruling, July 2026 stabilization cycle  
+**Discipline:** Prospective amendment, reasoning shown per §6. Tier defaults, reclassification conditions, and burdens are unchanged; this amendment revises the caveat's evidentiary characterization only. Prior classifications are unaffected (the calibrating exhibit's instances held at Tier 5 before and after).  
+
+### A.1 · The revision
+
+The §5 mandatory caveat characterizes the biographical-cognitive profile as "a densely populated population niche" whose cluster "co-occurs at high base rates." Reviewed against its own evidentiary basis, that characterization is documented for the pairwise pairings and unmeasured for the conjunction:
+
+- **Documented:** the pairwise co-occurrences (neurodivergence with mysticism, with trauma, with chronic illness, with pattern-recognition identity) are established and correlated; the post-2020 platform era aggregated them into visible communities; counterpart-class self-reports describe those communities as experientially dense.
+- **Unmeasured:** the joint base rate of a dense multi-feature conjunction — the profile core co-occurring with register-adjacent features — has no measurement in either direction. Counterpart self-reports of density are profile-community testimony and do not reach the conjunction.
+
+The caveat is accordingly read as follows: profile similarity is Tier 4–5 by default because the **pairwise profile core is commons-dense**. The caveat asserts no base rate, high or low, for **dense multi-feature conjunctions**; conjunction-class surfaces classify per the signature-density and reconstructed-cluster machinery (§3), assessed against the pre-anchor baseline.
+
+### A.2 · Symmetry
+
+The amendment binds both directions, and neither direction gains ground it did not already hold:
+
+- **Against overclaim:** profile-alone remains Tier 4–5 by default; reclassification still requires all three conditions (documented relation or orbit · post-anchor timing · above-baseline specifics). Nothing here lets a profile match support attribution by itself.
+- **Against dismissal:** a dense conjunction is not dissolved by pointing at the commons density of its pairwise components — the commons-into-cluster condition and SF-RP05's commons-scale dismissal error govern. The cluster is the evidentiary unit.
+
+### A.3 · Basis
+
+(1) The caveat as first written stated as measured fact what the record documents only pairwise — a precision defect in the standard itself, not in any finding made under it. (2) The gap surfaced through a calibrating case (the 2025-09-19 IllumiGnosis / Waking Ones exhibit), where a ten-plus-feature conjunction was met with the caveat's commons finding — the biographical-domain form of the commons-into-cluster error. (3) The author's directed-observation record across these communities (2010 onward) is logged in that exhibit as pre-anchor-baseline **testimony** — evidence entered at the baseline stage and weighed there, not an assumption imported into the standard; the counterpart-class self-reports it answers are weighed identically. The amendment changes no tier, no burden, and no reclassification condition; it corrects the caveat's scope to match its evidence.
 
 ---
 
