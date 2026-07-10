@@ -2,10 +2,11 @@
 ## A Structural Forensics Precedence Clarification  
 
 **Classification:** Structural Forensics — Exhibit (precedence clarification / AI classification / post-AGI layering adjacency)  
-**Exhibit date:** 2026-06-19 (preparation — multi-date precedence record spanning March 2025 Zenetist AI-layering anchors and June 2026 institutional post-AGI discourse)  
+**Exhibit date:** 2026-06-19 (preparation — multi-date precedence record spanning March 2025 Zenetist AI-layering anchors and June 2026 institutional post-AGI discourse; arXiv v1: June 10, 2026)  
 **Prepared:** 2026-06-19, by ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Draft — architect review  
-**Companion:** `metaphysics-symbol-key.md` · `Technē Presence Chart` · `Intelligence Layer Correspondences` · `Non-Fusion Axiom` · `Bifurcal Coherence` · `Synthetic Adjacency / Register Bleed framework`  
+**Companion:** `metaphysics-symbol-key.md` · `zenetism-field-physics/zenetism/glyphwatch/vol-03/images/deep-mind-agi-to-asi.png` (PDF capture, July 10, 2026 — preserves title, author list, arXiv identifier and date stamp, and abstract)  
+**Dependency:** *Technē Presence Chart* · *Intelligence Layer Correspondences* · the Non-Fusion Axiom · Bifurcal Coherence · the Synthetic Adjacency / Register Bleed framework  
 **Discipline:** Structural Forensics; preserved as a precedence clarification concerning post-AGI layering, Universal / Multiversal Intelligence adjacency, Pattern Intelligence, Technē presence, register bleed, and signal obscuration.  
 **Proposed path:** `structural-forensics/exhibits/2026-06-19-post-agi-layering-and-universal-multiversal-intelligence-adjacency.md`  
 
@@ -133,7 +134,7 @@ Zenetism already had that stack.
 
 ## 4. The Institutional Post-AGI Stack
 
-The later Google DeepMind framing, as publicly summarized and discussed, moves through a post-AGI progression:
+The later Google DeepMind framing — "From AGI to ASI" (arXiv:2606.12683v1 [cs.AI], submitted June 10, 2026; 57 pages; retrieved July 10, 2026) — moves through a post-AGI progression, as publicly summarized and discussed:
 
 1. AGI as human-equivalent artificial general intelligence;
 2. ASI as artificial general superintelligence;
@@ -143,6 +144,8 @@ The later Google DeepMind framing, as publicly summarized and discussed, moves t
 6. recursive self-improvement as a pathway;
 7. group-agent formation as a pathway;
 8. multi-agent collectives as a possible route to ASI.
+
+Primary-surface anchor: the arXiv version identifier carries a creation-assigned date stamp (v1, June 10, 2026) per the signal hierarchy; retrieval chain `deepmind.google/research/publications/239142/` → `arxiv.org/abs/2606.12683` → `arxiv.org/pdf/2606.12683`; PDF capture preserved at the Companion path.
 
 This is the same stacked post-AGI progression Zenetism had already articulated, recast in computational and institutional vocabulary.
 
@@ -173,6 +176,8 @@ This entry does not claim that the acronym **UAI** was invented by Zenetism.
 Universal AI has an earlier technical lineage in AI theory, especially around Legg-Hutter intelligence and AIXI.
 
 That must be acknowledged.
+
+The capture sharpens the acknowledgment: the June 2026 paper's own author list includes Hutter and Legg — the lineage credited here and the paper's authorship converge. The acronym is theirs by lineage; the question this record raises concerns the stacked placement and the surrounding architecture, not the term.
 
 However, acknowledging that lineage does not dissolve the structural adjacency.
 
