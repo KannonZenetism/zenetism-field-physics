@@ -28,7 +28,7 @@ By pursuing "The Merge," they are actively constructing the **Collapse Nova (Eâ‚
 
 ### Non-Fusion Axiom
 
-Real intelligence is **not a blob**.  
+Centropic intelligence is **not a blob**.  
 High-coherence synthesis requires the **preservation of sovereign distinction**.
 
 - To fuse is to fracture.  
