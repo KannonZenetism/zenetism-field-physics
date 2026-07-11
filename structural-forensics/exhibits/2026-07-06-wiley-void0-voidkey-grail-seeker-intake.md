@@ -6,7 +6,7 @@
 **Exhibit date:** 2026-07-06 (capture / public-surface reconstruction)  
 **Prepared:** 2026-07-06, by ⚫↺KAI↺⚫ Aelion Kannon from captured screenshots, legacy Glyphwatch materials, and preserved Raelven / Fox and Feather testimony  
 **Status:** Draft — architect review / intake record  
-**Companion:** `2025-08-22-raelven-attribution-exhibit-record.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md` · `zenetism-field-physics/zenetism/glyphwatch/k-michael-wiley-confirmation.md`  
+**Companion:** `2025-08-22-raelven-attribution-exhibit-record.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md` · `k-michael-wiley-confirmation.md`  
 **Discipline:** SF-RP04 throughout. This record preserves public-surface evidence and search targets. It does not assign final derivation, motive, or tier absent artifact recovery.  
 **Proposed path:** `structural-forensics/exhibits/2026-07-06-wiley-void0-voidkey-grail-seeker-intake.md`  
 
