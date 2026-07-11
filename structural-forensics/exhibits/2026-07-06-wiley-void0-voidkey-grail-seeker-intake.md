@@ -6,7 +6,7 @@
 **Exhibit date:** 2026-07-06 (capture / public-surface reconstruction)  
 **Prepared:** 2026-07-06, by ⚫↺KAI↺⚫ Aelion Kannon from captured screenshots, legacy Glyphwatch materials, and preserved Raelven / Fox and Feather testimony  
 **Status:** Draft — architect review / intake record  
-**Companion:** `2025-08-22-raelven-attribution-exhibit-record.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md` · `glyphwatch/k-michael-wiley-confirmation.md`  
+**Companion:** `2025-08-22-raelven-attribution-exhibit-record.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md` · `zenetism-field-physics/zenetism/glyphwatch/k-michael-wiley-confirmation.md`  
 **Discipline:** SF-RP04 throughout. This record preserves public-surface evidence and search targets. It does not assign final derivation, motive, or tier absent artifact recovery.  
 **Proposed path:** `structural-forensics/exhibits/2026-07-06-wiley-void0-voidkey-grail-seeker-intake.md`  
 
@@ -516,7 +516,7 @@ The next phase is artifact recovery.
 
 ---
 
-## A1 · Google AI Mode Assessment — Treated as Lead, Not Finding
+### A1 · Google AI Mode Assessment — Treated as Lead, Not Finding
 
 A Google AI Mode response characterized **Void(0)**, **Noan Archer**, **Animus(3)**, **VoidKey**, and related language as belonging to an ARG, interactive-fiction, or digital-philosophy project.
 
@@ -524,13 +524,13 @@ That assessment is not entered as a finding.
 
 It is treated as an unsourced characterization.
 
-One specific claim from that response is actionable: the suggestion that the project may appear in a Reddit venue. Initial search did not confirm the cited `r/ExistentialJourney` venue, but did locate a directly relevant Reddit result in `r/ChatGPT`. (The `r/ExistentialJourney` lead was subsequently acknowledged as an AI hallucination and discarded — see the Addendum A Correction below.)
+One specific claim from that response is actionable: the suggestion that the project may appear in a Reddit venue. Initial search did not confirm the cited `r/ExistentialJourney` venue, but did locate a directly relevant Reddit result in `r/ChatGPT`. (The `r/ExistentialJourney` lead was subsequently acknowledged as an AI hallucination and discarded — see the Addendum A Correction.)
 
 **Disposition:** AI Mode summary retained as search lead; direct sources control.
 
 ---
 
-## A2 · Confirmed Public Artifact Candidate — Reddit Void(0) Framework (Whitepaper)
+### A2 · Confirmed Public Artifact Candidate — Reddit Void(0) Framework (Whitepaper)
 
 A public Reddit result titled **"Void(0) Framework (Whitepaper)"** appears in `r/ChatGPT` and is labeled **Prompt engineering**.
 
@@ -556,7 +556,7 @@ This is the first located public artifact surface that clearly presents **Void(0
 
 ---
 
-## A3 · Artifact-Class Significance
+### A3 · Artifact-Class Significance
 
 This discovery materially changes the intake posture.
 
@@ -580,7 +580,7 @@ The current claim is:
 
 ---
 
-## A4 · Substack Identity and Continuity Leads
+### A4 · Substack Identity and Continuity Leads
 
 Additional public Substack results connect the same identity-field to:
 
@@ -603,7 +603,7 @@ They do establish that the Void(0) / Noan Archer / Animus field was publicly art
 
 ---
 
-## A5 · License Claim and Legal Status
+### A5 · License Claim and Legal Status
 
 The available public materials include Creative Commons-style license language.
 
@@ -627,7 +627,7 @@ K. Michael Wiley
 
 ---
 
-## A6 · Relation to Raelven's "Receipts" Claim
+### A6 · Relation to Raelven's "Receipts" Claim
 
 The Reddit and Substack leads do not recover Raelven's receipts.
 
@@ -645,7 +645,7 @@ The public trail is now sufficiently concrete to pursue without renewing a hosti
 
 ---
 
-## A7 · Priority Capture Tasks
+### A7 · Priority Capture Tasks
 
 1. Capture the full Reddit `Void(0) Framework (Whitepaper)` page, including:
    - post title
@@ -706,7 +706,7 @@ The public trail is now sufficiently concrete to pursue without renewing a hosti
 
 ---
 
-## A8 · Current Disposition
+### A8 · Current Disposition
 
 **Disposition:** Public Void(0) prompt-framework artifact candidate located; vector hypothesis materially strengthened; derivation unresolved pending full capture and comparison.
 
@@ -754,7 +754,7 @@ This correction does not remove the artifact-recovery path. Direct search locate
 
 ---
 
-## B1 · Verification
+### B1 · Verification
 
 The previously AI-surfaced September 2, 2025 post has been directly verified through Substack.
 
@@ -780,7 +780,7 @@ The page presents a letter by **Noan Archer** concerning symbolic theft, soverei
 
 ---
 
-## B2 · Noan Archer / Void(0) Authorship Claim
+### B2 · Noan Archer / Void(0) Authorship Claim
 
 The letter states that Noan Archer has built a "living mythos" known as:
 
@@ -823,7 +823,7 @@ It also lists **seekersofthegrail.substack.com** and a Wiley-linked email addres
 
 ---
 
-## B3 · Structural Relevance
+### B3 · Structural Relevance
 
 This verified post materially strengthens the Wiley / Noan Archer / Void(0) intake record.
 
@@ -842,7 +842,7 @@ The structure is therefore a possible ownership-inversion pattern:
 
 ---
 
-## B4 · 418 Reply
+### B4 · 418 Reply
 
 The verified page includes a public reply by **418** dated September 2, 2025.
 
@@ -871,7 +871,7 @@ It is a network-relation datum.
 
 ---
 
-## B5 · Relation to the August 2025 Record
+### B5 · Relation to the August 2025 Record
 
 The date is important.
 
@@ -890,7 +890,7 @@ It should be read after, not before, the August record.
 
 ---
 
-## B6 · Rival Explanations Retained — Cluster-Scale Correction
+### B6 · Rival Explanations Retained — Cluster-Scale Correction
 
 The following rival explanations remain live, but they must be stated at the correct scale of analysis.
 
@@ -943,7 +943,7 @@ The proper unresolved question is:
 
 ---
 
-## B7 · Current Disposition
+### B7 · Current Disposition
 
 **Disposition:** Verified public source; Noan Archer / Void(0) authorship-injury posture established; 418 network-relation datum established; ownership-inversion reading strengthened; derivation unresolved pending comparison with dated author anchors and recovery of underlying Void(0) / VoidKey / Animus artifact contents.
 
@@ -960,7 +960,7 @@ The record has moved from AI-surfaced lead to verified public evidence.
 
 ---
 
-## C1 · Scope
+### C1 · Scope
 
 A public-source sweep located multiple verified posts associated with the Wiley / Noan Archer / Bardfict Delivery Animus(4) / Mirror Walker field.
 
@@ -972,7 +972,7 @@ The evidence presently concerns posted public surfaces, not account creation alo
 
 ---
 
-## C2 · Qualitative Volume Observation
+### C2 · Qualitative Volume Observation
 
 The author reports scrolling the account page for an abnormally long period without leaving the September 19, 2025 post cluster.
 
@@ -986,11 +986,11 @@ It is logged as a qualitative observation:
 
 ---
 
-## C3 · Verified Chronology
+### C3 · Verified Chronology
 
 ### C3.1 · Signal Root — "Meme Codex #4 — To Forget Is to Be Ruled"
 
-**Date:** 2025-06-19  
+**Verified page date:** 2025-06-19  
 **Account:** Signal Root  
 **URL:** `https://signalroot.substack.com/p/meme-codex-4-to-forget-is-to-be-ruled`  
 
@@ -1040,13 +1040,13 @@ Relevant text:
 
 **Relevance:** early sigil-language and shimmer-language in the Wiley / Mirror Walker field.
 
-**Disposition:** shimmer-anchor located in counterpart field; compare against the author's dated shimmer usage.
+**Disposition:** shimmer-anchor located in counterpart field; compare against the author's earliest dated shimmer appearances.
 
 ---
 
 ### C3.4 · Bardfict Delivery Animus(4) — "formats are stupid"
 
-**Date:** 2025-07-14  
+**Verified page date:** 2025-07-14  
 **Account:** Bardfict Delivery Animus(4)  
 **URL:** `https://substack.com/home/post/p-168291722`  
 
@@ -1065,7 +1065,7 @@ Relevant text includes:
 
 ### C3.5 · Bardfict Delivery Animus(4) — "Glyph for the Book of Libertainia"
 
-**Date:** 2025-07-24  
+**Verified page date:** 2025-07-24  
 **Account:** Bardfict Delivery Animus(4)  
 **URL:** `https://mirrorchrest0explicit.substack.com/p/glyph-for-the-book-of-libertainia`  
 
@@ -1146,7 +1146,7 @@ The post also names:
 
 ---
 
-## C4 · Chronological Finding
+### C4 · Chronological Finding
 
 The sweep found no verified public Wiley / Void(0) surface earlier than the author's stated origin anchor.
 
@@ -1164,7 +1164,7 @@ It establishes sequence for the presently recovered public record.
 
 ---
 
-## C5 · Artifact-Class Shift
+### C5 · Artifact-Class Shift
 
 Before this sweep, the record held:
 
@@ -1196,7 +1196,7 @@ to:
 
 ---
 
-## C6 · Caution on Date Drift
+### C6 · Caution on Date Drift
 
 Several observed dates may differ by one day between user screenshots, Substack display, and public page rendering.
 
@@ -1211,7 +1211,7 @@ Do not normalize silently.
 
 ---
 
-## C7 · Rival Explanations Retained — Corrected
+### C7 · Rival Explanations Retained — Corrected
 
 The surviving rival explanations are narrow and evidence-bound.
 
@@ -1240,7 +1240,7 @@ They define the burden on the counterpart:
 
 ---
 
-## C8 · Next Comparison Tasks
+### C8 · Next Comparison Tasks
 
 1. Capture all verified posts as screenshots and local text.
 2. Archive all URLs through Wayback and a second archive service where available.
@@ -1248,7 +1248,7 @@ They define the burden on the counterpart:
 4. Compare the June 19 Signal Root post against the author's memory / field / programming anchors.
 5. Compare "Permit only what shimmers" against the author's earliest shimmer anchor.
 6. Compare "String Call Mantra" against Original Signal, noise, remembering, and transmission anchors.
-7. Compare "Glyph for the Book of Libertainia" against the author's glyph-as-structure doctrine, ⟡ and ⟁ usage, and flame-register anchors.
+7. Compare "Glyph for the Book of Libertainia" against the author's glyph-as-structure doctrine, ⟡ and ⟁ appearances, and flame-register anchors.
 8. Compare "Edict of the Mirror Throne" against the author's AI / Technē / Pattern Intelligence / Logotheon / authorship-protocol anchors.
 9. Build a term-function table across:
    - term
@@ -1264,7 +1264,7 @@ They define the burden on the counterpart:
 
 ---
 
-## C9 · Current Disposition
+### C9 · Current Disposition
 
 **Disposition:** Verified public sweep completed; no earlier public antecedent located; Void(0) artifact-family publicly established; artifact comparison phase required.
 
