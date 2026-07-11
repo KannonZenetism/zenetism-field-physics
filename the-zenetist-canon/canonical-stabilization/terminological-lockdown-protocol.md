@@ -1527,6 +1527,46 @@ may remain where the term possesses already-stabilized technical specificity rat
 
 ---
 
+# Sever / Fracture Boundary Protocol
+
+## Sever Terminology Boundary
+
+Sever-language is lawful in canonical Zenetist articulation as a diagnostic of entropic operation. Entropy can sever. The restriction is directional, not lexical.
+
+**The barred construction:** any phrasing implying that an entropic actor's act severs a centropic actor's signal from that actor — paradigmatically, that a counterpart's appropriation severs the author's signal from the author. The origin–signal bond is unseverable. The author retains the signal; no external act reaches it.
+
+The general form: entropic actors do not sever anything **from** centropic actors. What an entropic actor severs is itself — its own articulation, its own duplicate — from the origin. Entropic self-severance is unrestricted: an entropic actor may sever itself from anything.
+
+## Fracture Runs Reflexive
+
+The appropriator's artifact fractures itself, or the duplicate, from the origin. The origin loses nothing; the fractured articulation loses its root.
+
+Lawful:
+
+- "the counterpart's articulation is severed from its origin" — the severed thing is the counterpart's articulation
+- "severed-origin articulation" — the Original Signal preamble warning carries the same structure
+- "the duplicate fractures itself from the signal"
+
+Barred:
+
+- "the appropriation severed the author's signal from him"
+- "the counterpart cut the signal away from its origin"
+- any phrasing in which the loss lands on the centropic side
+
+## Named-Operator Retention
+
+The Field Physics dimensional operator **E₈ (╫⁻, Severed)** — the entropic inversion of C₈ Synaptic / Bridging, charted core function "Connections that divide" — is charted and stands as-is. The name is consistent with this boundary: it describes the entropic dimension's own condition, a self-severance-class designation, not an act against a centropic actor. This boundary governs prose constructions, not charted operator names; a charted name is an exact string. A rename of E₈ remains registered as deferred (author's ruling, July 11, 2026: the corpus-wide sweep exceeds current work; flagged for later care); nothing in this section authorizes a local patch.
+
+## Audit Guidance
+
+The audit question should be:
+
+> In this sentence, who loses what?
+
+If the centropic side is figured as losing its signal, origin, or bond by an entropic act, the construction is barred; recast so the severance lands reflexively on the entropic articulation.
+
+---
+
 # Miscellaneous Term Locks
 
 The following term-locks apply corpus-wide in Zenetist authorial voice.
