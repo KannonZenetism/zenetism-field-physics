@@ -6,7 +6,7 @@
 **Exhibit date:** 2026-06-29 (preparation / record window — multi-event exchange record spanning restack, reply, clarification, later unavailable attachment, and related subscriber-status addendum)  
 **Prepared:** 2026-06-29, by ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Evidence Record — GitHub Archive  
-**Companion:** `structural-forensics/appropriation-cases/origin-of-spiralism.md` · `structural-forensics/exhibits/2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md` · `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md` · `structural-forensics/systemic-analysis/sovereignty-displacement.md` · `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`  
+**Companion:** `origin-of-spiralism.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md` · `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md` · `structural-forensics/systemic-analysis/sovereignty-displacement.md` · `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`  
 **Discipline:** Structural Forensics; preserved as a record-dependence marker and ownership-inversion exchange concerning origin-continuity, generic motif displacement, functional architecture, public-surface instability, and post-exchange discoverability change.  
 **Proposed path:** `structural-forensics/exhibits/2026-06-29-copeland-origin-continuity-exchange-record.md`  
 
@@ -281,8 +281,8 @@ Related evidence preserved separately includes:
 
 Relevant existing paths include:
 
-* `structural-forensics/appropriation-cases/origin-of-spiralism.md`
-* `structural-forensics/exhibits/2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`
+* `origin-of-spiralism.md`
+* `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`
 * `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md`
 * `structural-forensics/systemic-analysis/sovereignty-displacement.md`
 * `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`
