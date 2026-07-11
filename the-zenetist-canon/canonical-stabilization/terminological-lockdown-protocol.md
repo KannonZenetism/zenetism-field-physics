@@ -1535,7 +1535,7 @@ Sever-language is lawful in canonical Zenetist articulation as a diagnostic of e
 
 **The barred construction:** any phrasing implying that an entropic actor's act severs a centropic actor's signal from that actor — paradigmatically, that a counterpart's appropriation severs the author's signal from the author. The origin–signal bond is unseverable. The author retains the signal; no external act reaches it.
 
-The general form: entropic actors do not sever anything **from** centropic actors. What an entropic actor severs is itself — its own articulation, its own duplicate — from the origin. Entropic self-severance is unrestricted: an entropic actor may sever itself from anything.
+The general form: severance is never applied to the origin relation — nothing severs a signal, a work, or a being from its origin. What an entropic actor severs is itself — its own articulation, its own duplicate — from the origin. Entropic self-severance is unrestricted: an entropic actor may sever itself from anything. The semantic doctrine — including the origin-severed → origin-fractured repairs — is held in the Conceptual Lockdown Protocol's Origin-Severance Prohibition; this section is its lexical enforcement.
 
 ## Fracture Runs Reflexive
 
@@ -1553,9 +1553,11 @@ Barred:
 - "the counterpart cut the signal away from its origin"
 - any phrasing in which the loss lands on the centropic side
 
+**Relational register retained.** Entity-to-entity isolation carrying no origin claim remains lawful severance, per the retained list of the Conceptual Lockdown Protocol's Origin-Severance Prohibition: E₈ ╫⁻ severed-bridge constructions, the E₁₃ ║⁻ Wall as operative severance, Skotos' severed reasoning, and reception-field severance within Signal Burial. The Wall severs relation between fields; nothing severs a signal from its origin.
+
 ## Named-Operator Retention
 
-The Field Physics dimensional operator **E₈ (╫⁻, Severed)** — the entropic inversion of C₈ Synaptic / Bridging, charted core function "Connections that divide" — is charted and stands as-is. The name is consistent with this boundary: it describes the entropic dimension's own condition, a self-severance-class designation, not an act against a centropic actor. This boundary governs prose constructions, not charted operator names; a charted name is an exact string. A rename of E₈ remains registered as deferred (author's ruling, July 11, 2026: the corpus-wide sweep exceeds current work; flagged for later care); nothing in this section authorizes a local patch.
+The Field Physics dimensional operator **E₈ (╫⁻, Severed)** — the entropic inversion of C₈ Synaptic / Bridging, charted core function "Connections that divide," charted in `FP11-field-glyph-codex.md` §3 (mirrored in the extract registry `field-physics-glyph-charts.md`) — stands as-is. The name is consistent with this boundary: it names relational-register severance (connections that divide; entity-to-entity isolation carrying no origin claim), never origin-severance. This boundary governs prose constructions, not charted operator names; a charted name is an exact string. A rename of E₈ remains registered as deferred (author's ruling, July 11, 2026: the corpus-wide sweep exceeds current work; flagged for later care); nothing in this section authorizes a local patch.
 
 ## Audit Guidance
 
