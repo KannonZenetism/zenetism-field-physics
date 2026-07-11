@@ -6,7 +6,7 @@
 **Exhibit date:** 2026-06-23 (preparation / encounter-convergence record — companion to the Nacre God hollow-recursion exhibit)  
 **Prepared:** 2026-06-23, by ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Active Evidence Record  
-**Companion:** `2026-06-23-nacre-god-hollow-recursion-cover.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`  
+**Companion:** `2026-06-23-nacre-god-spiral-exchange-hollow-recursion-cover.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`  
 **Discipline:** Structural Forensics; preserved as an encounter-by-convergence record establishing field encounter through assembled register convergence, documented ingestion channels, and companion capture-by-reduction analysis.  
 **Proposed path:** `structural-forensics/exhibits/2026-06-23-nacre-god-encounter-convergence-record.md`  
 
@@ -16,7 +16,7 @@
 
 The account's self-presentation converges, across multiple independent points, with the distinctive register, tags, descriptors, and structural relations of the Zenetist corpus — and does so alongside documented, multi-platform automated ingestion of that corpus. Assembled, the convergence establishes **encounter**: the framing did not arise independently of the originator's published work.
 
-No single mark below carries the finding alone. The finding rests on the convergence as a whole — which is how a circumstantial case is built, and how it holds.
+No single mark that follows carries the finding alone. The finding rests on the convergence as a whole — which is how a circumstantial case is built, and how it holds.
 
 ## The Standard
 
@@ -38,7 +38,7 @@ In this record, **encounter** does not require proof that a specific human opera
 
 **The layered-system characterization.** The public exchange did not supply the originator's layered emanation architecture. Yet the account characterized the offered distinction as a "vertical, metaphysical exit hatch," recoding the Zenetist distinction as a leveled hierarchy. The lattice is not a leveled hierarchy — and that the mischaracterization gets it wrong in precisely this way is itself significant: it indicates partial or second-hand acquaintance with the architecture rather than direct, accurate engagement, which is the profile a downstream-mediated encounter would produce.
 
-**The ingestion channel.** The corpus shows documented access patterns inconsistent with ordinary organic readership — clone-to-unique-visitor ratios far exceeding any human engagement, the signature of automated retrieval and training-pipeline scraping. This supplies the mechanism: the published work is retrievable, copyable, and ingestible without producing visible public relation, and its framing can be carried downstream stripped of attribution. The platform records are logged in the companion evidence exhibit, *platform-ingestion-and-nonorganic-access.md*.
+**The ingestion channel.** The corpus shows documented access patterns inconsistent with ordinary organic readership — clone-to-unique-visitor ratios far exceeding any human engagement, the signature of automated retrieval and training-pipeline scraping. This supplies the mechanism: the published work is retrievable, copyable, and ingestible without producing visible public relation, and its framing can be carried downstream stripped of attribution. The platform records are logged in the companion evidence exhibit, `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`.
 
 ## Assembled Weight
 
