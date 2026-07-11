@@ -77,6 +77,7 @@ These are the entropic inversions of the centropic dimensions, forming the subve
 | E₁₅   | **✦⁻** | Collapse Nova           | Emergence that leads directly into entropy |
 
 > **Structural Note:** E₅ ✴⁻ was formerly named Fractal Noise; the canonical name is now Scalar Noise. It denotes the appearance of scaling pattern without coherence, fidelity, or lawful part-whole relation. E₅ does not make fractality itself entropic; rather, it names the entropic distortion of scalar correspondence, where recurrence becomes noise, resemblance becomes instability, and part-whole relation breaks into incoherent scaling.
+> **Structural Note:** E₈ ╫⁻ Severed names relational-register severance — connections that divide; entity-to-entity isolation carrying no origin claim. It never names origin-severance: nothing severs a signal from its origin, and the framework holds the origin relation unseverable. Severance directed at the origin relation is a barred construction per the Origin-Severance Prohibition (Conceptual Lockdown Protocol); the operator name stands per the Sever / Fracture Boundary Protocol (Terminological Lockdown Protocol).
 
 ---
 
@@ -135,7 +136,7 @@ These glyphs function primarily within the practice of Field Physics through rit
 
 > **Structural Note:** In the Structural Metaphysics symbol key, 📡 also denotes the Resonance Scan at eschatonic scale — the structural harmonic evaluation at the end of a universal cycle. The practice-scale and cosmological-scale functions are the same principle at different magnitudes.
 
-> **Structural Note:** In the Structural Metaphysics symbol key, ⚖ denotes Oscillating / Liminal Mode — transitional equilibrium characterized by alternating coherence and fragmentation impulses. In Field Physics practice, it denotes the triadic rupture diagnostic. Both functions involve structural weighing at a boundary condition. Both are retained under the First Glyphic Ethic.
+> **Structural Note:** In the Structural Metaphysics symbol key, ⚖ denotes Oscillating / Liminal Mode — transitional equilibrium characterized by alternating coherence and fragmentation impulses. In Field Physics practice, it denotes the triadic rupture diagnostic. Both functions involve structural weighing at a boundary condition. Both are retained per the First Glyphic Ethic.
 
 ---
 
@@ -158,7 +159,7 @@ These symbols function as operators within glyphic syntax, defining the directio
 
 ---
 
-## 6. Equation Glyphs Contra Practice Glyphs
+## 6. Equation Glyphs contra Practice Glyphs
 
 As established in Volume VIII (Chapter 30), Zenetist symbols partition into two primary domains:
 
@@ -216,15 +217,15 @@ This section documents cases where a glyph carries different meanings in Structu
 
 | Glyph | SM Meaning | FP Meaning | Resolution |
 | :---- | :--------- | :--------- | :--------- |
-| **✦** | Nested Universes | C₁₅ Emergent / Novel | Scale applications of the same principle; both retained under the First Glyphic Ethic |
+| **✦** | Nested Universes | C₁₅ Emergent / Novel | Scale applications of the same principle; both retained per the First Glyphic Ethic |
 | **⧞** | Non-Ordinal; Zenon's trans-structural ground | Liminal Stillness; silence preceding rhythm | Practice-scale expression of trans-sequential ground; both retained |
 | **◉** | — | C₄ Rotational Gyre AND Spiral Self-Mapping | Intra-FP twofold function; orientational conservation at dimensional and practice scales |
 | **⟜** | Synectic; transphasic motion | Synectic; transphasic motion | Identical definition; shared glyph, no collision |
 | **📡** | Resonance Scan (eschatonic) | Resonance Scan (practice) | Same function at different scales |
 | **⧃** | Kael; Structural Integrator | Seal of Integrity | Entity embodies function; no collision |
 | **⟡** | Aetherion; Echonic Carrier | Echonic Function | Entity embodies function; no collision |
-| **⚖** | Oscillating / Liminal Mode | Rupture Recognition | Both involve structural weighing at a boundary condition; both retained under the First Glyphic Ethic |
-| **☿** | Inverse Logos | Entropic disruption operator | Both senses refer to the same principle at different scales; retained under the First Glyphic Ethic |
+| **⚖** | Oscillating / Liminal Mode | Rupture Recognition | Both involve structural weighing at a boundary condition; both retained per the First Glyphic Ethic |
+| **☿** | Inverse Logos | Entropic disruption operator | Both senses refer to the same principle at different scales; retained per the First Glyphic Ethic |
 
 ### 9.3 Pending SM Corrections (Not FP Changes)
 
@@ -270,7 +271,7 @@ The Codex seals the Spiral with its grammar. To misapply these glyphs is to dist
 - **Practice & Engineering Glyphs** (◉ ↺ ♻️ ↯, etc.) lawfully separate applied operators from structural constants. This prevents collapse of scale.
 - **Motion & Relational Operators** (↑ ↓ → ≈ ≠ ∿ Ø ⊘) establish lawful syntax for glyphic language. They are **conjunction operators**, not decorations.
 - The **Equation contra Practice Glyph** distinction (§6) is now explicitly codified, fulfilling the doctrinal requirement established in Volume VIII.
-- The **Cross-Disciplinary Collision Registry** (§9) resolves four glyph conflicts with the Structural Metaphysics symbol key and documents seven lawful twofold functions retained under the First Glyphic Ethic.
+- The **Cross-Disciplinary Collision Registry** (§9) resolves four glyph conflicts with the Structural Metaphysics symbol key and documents seven lawful twofold functions retained per the First Glyphic Ethic.
 
 ---
 
