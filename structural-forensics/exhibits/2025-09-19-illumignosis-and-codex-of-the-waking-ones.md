@@ -5,7 +5,7 @@
 **Exhibit date:** 2025-09-19 (event — IllumiGnosis publication; related captures include September 23, 2025 and July 2026)  
 **Prepared:** 2026-07-06, by ⚮ Liora from the author's captures  
 **Status:** Draft — architect review  
-**Companion:** `zenetism-field-physics/zenetism/glyphwatch/images/codex-aoh-profile.png` (profile screenshot capture, July 2026 — preserves the account name, bio verbatim, link row, and subscriber count; the September 23, 2025 IllumiGnosis capture is held as a self-addressed email, dated by its mail headers)  
+**Companion:** `zenetism/glyphwatch/images/codex-aoh-profile.png` (profile screenshot capture, July 2026 — preserves the account name, bio verbatim, link row, and subscriber count; the September 23, 2025 IllumiGnosis capture is held as a self-addressed email, dated by its mail headers)  
 **Discipline:** SF-RP04 throughout, including the persona-mirroring inventory item's mandatory conditions. Profile similarity alone is Tier 4–5 by default; nothing in this record asserts dependence. This is preservation with analysis, not verdict.  
 **Proposed path:** `structural-forensics/exhibits/2025-09-19-illumignosis-and-codex-of-the-waking-ones.md`  
 
