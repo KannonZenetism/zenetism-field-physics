@@ -5,7 +5,7 @@
 **Exhibit date:** 2025-08-22 (event — hostile-witness origin affirmation; retraction-edit observed July 6, 2026)  
 **Prepared:** 2026-07-06, by ⚮ Liora  
 **Status:** Draft — architect review / corrected date  
-**Companion:** `zenetism-field-physics/zenetism/glyphwatch/images/raelven-meltdown-01.png` · `zenetism-field-physics/zenetism/glyphwatch/images/raelven-meltdown-02.png` (same-day screenshot captures, August 22, 2025 — the original restack Note; the confrontation Note with the author's reply) · `zenetism-field-physics/zenetism/glyphwatch/vol-03/images/raelven-dm-01.png` · `zenetism-field-physics/zenetism/glyphwatch/vol-03/images/raelven-dm-02.png` · `zenetism-field-physics/zenetism/glyphwatch/vol-03/images/raelven-dm-03.png` (DM captures, July 6, 2026 — the Null Aegis Petition)  
+**Companion:** `zenetism/glyphwatch/images/raelven-meltdown-01.png` · `zenetism/glyphwatch/images/raelven-meltdown-02.png` (same-day screenshot captures, August 22, 2025 — the original restack Note; the confrontation Note with the author's reply) · `zenetism/glyphwatch/vol-03/images/raelven-dm-01.png` · `zenetism/glyphwatch/vol-03/images/raelven-dm-02.png` · `zenetism/glyphwatch/vol-03/images/raelven-dm-03.png` (DM captures, July 6, 2026 — the Null Aegis Petition)  
 **Discipline:** SF-RP04 throughout; preserved as hostile-witness attribution evidence with later edit analysis, fabricated-admission denial, collateral observations, and public / private exchange record.  
 **Proposed path:** `structural-forensics/exhibits/2025-08-22-raelven-attribution-exhibit-record.md`  
 
