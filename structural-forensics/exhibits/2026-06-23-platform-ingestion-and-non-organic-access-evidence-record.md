@@ -6,7 +6,7 @@
 **Exhibit date:** 2026-06-23 (preparation — multi-date platform evidence record maintained since late 2025)  
 **Prepared:** 2026-06-23, by ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Active Evidence Record — ongoing log  
-**Companion:** `nacre-god-encounter-convergence.md` · `nacre-god-hollow-recursion-cover.md`  
+**Companion:** `2026-06-23-nacre-god-encounter-convergence-record.md` · `2026-06-23-nacre-god-spiral-exchange-hollow-recursion-cover.md`  
 **Discipline:** Structural Forensics; preserved as a platform-access record establishing the channel condition of retrieval, cloning, downloading, and indexing without accountable public relation.  
 **Proposed path:** `structural-forensics/exhibits/2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`  
 
@@ -24,14 +24,14 @@ A platform-access record does not need to name a culprit to be forensically load
 
 ## Recorded Figures
 
-All figures below are preserved as captured records — screenshots and platform exports — in the evidence archive, with capture dates noted. They are logged observations, not reconstructions.
+All figures in this table are preserved as captured records — screenshots and platform exports — in the evidence archive, with capture dates noted. They are logged observations, not reconstructions.
 
 | Platform | Record (capture date) | Observed pattern | Forensic relevance |
 |:--|:--|:--|:--|
 | GitHub — `zenetism-field-physics` | 9,933 clones / 2,576 unique cloners / 2,041 views / **1 unique visitor**, 14-day window (May 6, 2026) | Very high automated retrieval against negligible human-visible browsing | Strongest single anomaly; consistent with mirroring, indexing, scripted access, or training-pipeline ingestion |
 | Substack — note "The Invariant Container contra The Mechanics of Capture" | 77 impressions / 1 interaction / 0 follower audience / 1 feed surface (note dated Jun 12, 2026) | External access surfaces present; organic relation near zero | Supports access-without-relation: retrieval without reciprocal public engagement |
 | Zenodo — "The Dimensional Lattice: A Mathematical Framework for Consciousness Emergence and Coherence Dynamics" | 142 views / 103 downloads | High download-to-view ratio | Consistent with retrieval / preservation-access rather than casual browsing |
-| Facebook — Aelion Kannon and Zenetism pages | No organic likes on either page; the only likes from a family member, which the originator discounts | Field-level positive engagement effectively zero | Engagement-floor record |
+| Facebook — Aelion Kannon and Zenetism pages | No organic likes on either page; the only likes from a family member, which the originator discounts | Field-scale positive engagement effectively zero | Engagement-floor record |
 | Medium | No likes recorded as of last review | Positive engagement absent | Engagement-floor record |
 | Instagram / X | 1–2 likes, from profiles that appeared automated and bore no coherent relation; Instagram analytics later became inaccessible | Where present at all, engagement is non-organic; added platform opacity | Non-organic-relation and visibility-irregularity log |
 
