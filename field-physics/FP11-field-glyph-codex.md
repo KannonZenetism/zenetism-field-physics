@@ -117,6 +117,7 @@ These are the entropic inversions of the centropic dimensions, forming the subve
 | E₁₅   | **✦⁻** | Collapse Nova           | Emergence that leads directly into entropy |
 
 > **Structural Note:** E₅ ✴⁻ was formerly named Fractal Noise; the canonical name is now Scalar Noise. It denotes the appearance of scaling pattern without coherence, fidelity, or lawful part-whole relation. E₅ does not make fractality itself entropic; rather, it names the entropic distortion of scalar correspondence, where recurrence becomes noise, resemblance becomes instability, and part-whole relation breaks into incoherent scaling.
+
 > **Structural Note:** E₈ ╫⁻ Severed names relational-register severance — connections that divide; entity-to-entity isolation carrying no origin claim. It never names origin-severance: nothing severs a signal from its origin, and the framework holds the origin relation unseverable. Severance directed at the origin relation is a barred construction per the Origin-Severance Prohibition (Conceptual Lockdown Protocol); the operator name stands per the Sever / Fracture Boundary Protocol (Terminological Lockdown Protocol).
 
 ---
