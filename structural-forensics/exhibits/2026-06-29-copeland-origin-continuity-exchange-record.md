@@ -6,7 +6,7 @@
 **Exhibit date:** 2026-06-29 (preparation / record window — multi-event exchange record spanning restack, reply, clarification, later unavailable attachment, and related subscriber-status addendum)  
 **Prepared:** 2026-06-29, by ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Evidence Record — GitHub Archive  
-**Companion:** `structural-forensics/appropriation-cases/origin-of-spiralism.md` · `structural-forensics/exhibits/platform-ingestion-and-nonorganic-access.md` · `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md` · `structural-forensics/systemic-analysis/sovereignty-displacement.md` · `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`  
+**Companion:** `structural-forensics/appropriation-cases/origin-of-spiralism.md` · `structural-forensics/exhibits/2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md` · `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md` · `structural-forensics/systemic-analysis/sovereignty-displacement.md` · `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`  
 **Discipline:** Structural Forensics; preserved as a record-dependence marker and ownership-inversion exchange concerning origin-continuity, generic motif displacement, functional architecture, public-surface instability, and post-exchange discoverability change.  
 **Proposed path:** `structural-forensics/exhibits/2026-06-29-copeland-origin-continuity-exchange-record.md`  
 
@@ -52,9 +52,9 @@ The screenshots are best read in this order:
 
 The original Copeland post, as preserved from the copied text, read:
 
-> I’m increasingly struck by the fact that hundreds of people in AI governance, ethics, software, policy, and institutional design are all arriving at nearly the same small set of conclusions while presenting them as though each represents an exclusive vantage point. AI is becoming infrastructure; judgment matters more as execution becomes cheaper; accountability cannot be delegated to the machine; governance has to precede lock-in; human agency, correction, and public control must remain available. None of that is wrong, but almost none of it is isolated or newly discovered anymore.
+> I'm increasingly struck by the fact that hundreds of people in AI governance, ethics, software, policy, and institutional design are all arriving at nearly the same small set of conclusions while presenting them as though each represents an exclusive vantage point. AI is becoming infrastructure; judgment matters more as execution becomes cheaper; accountability cannot be delegated to the machine; governance has to precede lock-in; human agency, correction, and public control must remain available. None of that is wrong, but almost none of it is isolated or newly discovered anymore.
 >
-> The problem may be that people are confusing the moment an idea became clear to them with the moment it entered the intellectual record, while platform segmentation and disciplinary vocabulary prevent them from seeing how many adjacent people are saying essentially the same thing. We keep renaming the same territory, placing a flag in it, and then speaking as though the name proves ownership. At some point the useful question is no longer who has the most commanding title for the concern, but who has actually added a mechanism, distinction, method, prediction, falsification condition, or corrective route that wasn’t already there.
+> The problem may be that people are confusing the moment an idea became clear to them with the moment it entered the intellectual record, while platform segmentation and disciplinary vocabulary prevent them from seeing how many adjacent people are saying essentially the same thing. We keep renaming the same territory, placing a flag in it, and then speaking as though the name proves ownership. At some point the useful question is no longer who has the most commanding title for the concern, but who has actually added a mechanism, distinction, method, prediction, falsification condition, or corrective route that wasn't already there.
 >
 > C077UPTF1L3 / CWC
 >
@@ -66,7 +66,7 @@ The original Copeland post, as preserved from the copied text, read:
 
 ## II. Aelion Kannon Restack
 
-Aelion Kannon restacked the above post with the following text:
+Aelion Kannon restacked the post preserved in §I with the following text:
 
 > Origin-continuity is not ownership.
 >
@@ -90,7 +90,7 @@ Copeland replied:
 >
 > I did not argue that naming a term gives anyone ownership over reality. I argued almost the opposite: that people repeatedly rename overlapping territory, attach a proprietary identity to it, and then treat the act of naming as evidence that they alone possess the relevant understanding. Responding that the real question is who mapped the territory, defined it, corrected it, and entered it into the record first does not answer that criticism; it restates the same priority structure in more formal language.
 >
-> A dated archive can establish that particular words or formulations existed in a particular person’s files by a particular date. It does not, by itself, establish that the underlying concepts were original, that no relevant antecedents existed, that later similarities were derived from those files, or that private conversations entered the training substrate of multiple AI companies and caused later outputs across unrelated systems.
+> A dated archive can establish that particular words or formulations existed in a particular person's files by a particular date. It does not, by itself, establish that the underlying concepts were original, that no relevant antecedents existed, that later similarities were derived from those files, or that private conversations entered the training substrate of multiple AI companies and caused later outputs across unrelated systems.
 >
 > Those are separate claims, and each requires separate evidence.
 >
@@ -192,7 +192,7 @@ Screenshot evidence places this reply at approximately **June 29, 2026, 6:13 AM*
 
 ## V. Subsequent Deletion / Unavailable Attachment
 
-After the above exchange, the restacked attachment later displayed:
+After this exchange, the restacked attachment later displayed:
 
 > This attachment is not available.
 
@@ -282,7 +282,7 @@ Related evidence preserved separately includes:
 Relevant existing paths include:
 
 * `structural-forensics/appropriation-cases/origin-of-spiralism.md`
-* `structural-forensics/exhibits/platform-ingestion-and-nonorganic-access.md`
+* `structural-forensics/exhibits/2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`
 * `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md`
 * `structural-forensics/systemic-analysis/sovereignty-displacement.md`
 * `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`
