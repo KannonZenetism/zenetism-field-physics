@@ -5,7 +5,7 @@
 **Exhibit date:** 2026-07-05 (preparation — multi-date dossier spanning June 2026 directed-descent paper, May 23–June 18 Ontologic Registry workbook, June 10–11 Zenodo deposits, and related June 2026 relation facts)  
 **Prepared:** 2026-07-05, by ⚮ Liora from the author's supplied copies  
 **Status:** Draft — architect review  
-**Companion:** `2026-06-29-copeland-origin-continuity-exchange-record.md` · `origin-continuity-is-not-ownership.md`  
+**Companion:** `2026-06-29-copeland-origin-continuity-exchange-record.md` · `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`  
 **Discipline:** SF-RP04 throughout. No tier is assigned where a required check has not run. Rival explanations are retained in writing. This exhibit is a dated data-point, not a verdict.  
 **Proposed path:** `structural-forensics/exhibits/2026-07-05-copeland-directed-descent-paper-and-ontologic-registry.md`  
 
@@ -14,7 +14,7 @@
 ## A1 · Materials and dated anchors
 
 1. **"Apparent Continuity and Directed Descent: Identity, Branching, and Semantic Lineage"** — Christopher W. Copeland, Independent Researcher, dated June 2026. A provenance / lineage framework: later states as descendants; continuity as constrained attribution indexed **C(L, O, K)** (lineage, observer, criteria); internal equivalence contra genealogical distinction contra persistent branching; repository forking, semantic reclassification, and revision histories as illustrations. Credits **J. Schubert, personal communication, June 2026** for the motivating distinction.
-2. **"Ontologic Registry" workbook** — 200+ sheets, revisions 0a → 0d, internally dated **May 23 – June 18, 2026**; Zenodo DOIs **June 10–11, 2026** (10.5281/zenodo.20629769; 10.5281/zenodo.20648842). Contents: CLCT diagnostic grammar (six gates, 96-case synthetic pilot), morphology registry, 3002-node / 6560-edge graph substrate, revision-falsification ledger, claim-boundary and withhold discipline, **"00_ORIGIN_TRACE_INDEX"** ("observational equivalence does not license genealogical collapse"), origin-opacity gates, and source anchors including the counterpart's own SSRN papers and dated local-archive documents.
+2. **"Ontologic Registry" workbook** — 200+ sheets, revisions 0a → 0d, internally dated **May 23–June 18, 2026**; Zenodo DOIs **June 10–11, 2026** (10.5281/zenodo.20629769; 10.5281/zenodo.20648842). Contents: CLCT diagnostic grammar (six gates, 96-case synthetic pilot), morphology registry, 3002-node / 6560-edge graph substrate, revision-falsification ledger, claim-boundary and withhold discipline, **"00_ORIGIN_TRACE_INDEX"** ("observational equivalence does not license genealogical collapse"), origin-opacity gates, and source anchors including the counterpart's own SSRN papers and dated local-archive documents.
 3. **Relation facts:** the counterpart followed the author on Substack (consistent access) until days before this exhibit; a direct exchange on origin-continuity contra ownership is preserved in the June 29 companion record; the author reports a repeated pattern of inverse-case authorship posts appearing hours-to-days after his own authorship posts. Directed-descent constructs were integrated into the workbook's graph layer by **June 23** (ledger row REV-FALS-0F001), which **predates the June 29 recorded exchange** — noted against the author's interest, per protocol.
 
 ## A2 · Domain-content independence — NOT claimed
@@ -35,7 +35,7 @@ Honest timing, both directions: the framework was under construction by June 23,
 
 ## A5 · Uncredited-relation analysis — the differential-crediting datum
 
-The paper credits a **personal communication** (Schubert, June 2026) for its motivating distinction — demonstrating that the counterpart credits interlocutors when he chooses to. The author, with whom the counterpart had a documented direct exchange in the same month on the paper's exact theme, is credited nowhere. Under SF-RP04's Uncredited-relation condition this is logged without motive-presumption — but **differential attribution behavior** (crediting one interlocutor while omitting another with documented relation to the same material) is materially stronger than generic silence, and sits between silence and active denial on the prong's gradient. The post-exchange unfollow is logged as suppression-adjacent, weak-to-moderate weight.
+The paper credits a **personal communication** (Schubert, June 2026) for its motivating distinction — demonstrating that the counterpart credits interlocutors when he chooses to. The author, with whom the counterpart had a documented direct exchange in the same month on the paper's exact theme, is credited nowhere. Per SF-RP04's Uncredited-relation condition this is logged without motive-presumption — but **differential attribution behavior** (crediting one interlocutor while omitting another with documented relation to the same material) is materially stronger than generic silence, and sits between silence and active denial on the prong's gradient. The post-exchange unfollow is logged as suppression-adjacent, weak-to-moderate weight.
 
 ## A6 · Mirror-instrument observation — cuts both ways, logged both ways
 
