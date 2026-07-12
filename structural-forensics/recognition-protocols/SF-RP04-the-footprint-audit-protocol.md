@@ -62,13 +62,13 @@ Fragmentation can therefore be evidence of laundering only when the dispersed pi
 
 ### Fabrication-Era Note
 
-Synthetic media increases the fabricability of records in every direction. The protocol therefore does not rank evidence by prestige of platform alone.
+Synthetic media increases the fabricability of records in every direction. The protocol therefore does not rank evidence by prestige of platform.
 
 Evidence is weighed by function, custody, independence, sequence, and collusion cost.
 
 A third-party DOI proves that a file was deposited by a certain date. It does not prove that the depositor originated the structure, method, terminology, or architecture contained in the file.
 
-Likewise, self-held or author-held material is not automatically low-weight. Its weight depends on the kind of record it is. A standalone undated document carries little force. But a platform-generated chatlog, export, email chain, commit history, local file metadata cluster, or developmental sequence may carry significant evidentiary weight when it preserves internal chronology, iterative emergence, terminology formation, timestamps, platform context, and later cross-attestation.
+Likewise, self-held or author-held material is not automatically low-weight. Its weight depends on the kind of record it is. A standalone undated document carries little force. But a platform-generated chatlog, export, email chain, commit history, local file metadata cluster, or developmental sequence carries significant evidentiary weight when it preserves internal chronology, iterative emergence, terminology formation, timestamps, platform context, and later cross-attestation.
 
 The key distinction is not self-held contra third-party.
 
