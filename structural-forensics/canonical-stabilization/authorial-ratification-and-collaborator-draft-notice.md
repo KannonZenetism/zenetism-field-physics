@@ -33,9 +33,9 @@ It is not the author's sovereign.
 
 No protocol, checklist, AI collaborator, external auditor, or platform record may convert the author's own witness into invalidity merely because hostile or captured systems refuse to confirm it.
 
-The author's statement that he has experienced oppression and suppression is preserved as authorial witness and authorial ruling within the corpus.
+The author's statement that he has experienced oppression and suppression is preserved as authorial witness and authorial adjudication within the corpus.
 
-This ruling does not require every specific mechanism, actor, route, or episode to be finalized at the same evidentiary class. Mechanism-mapping remains available where warranted: surveillance, flagging, throttling, agentic distribution, authorship displacement, and attribution laundering may each be documented, compared, and refined.
+This adjudication does not require every specific mechanism, actor, route, or episode to be finalized at the same evidentiary class. Mechanism-mapping remains available where warranted: surveillance, flagging, throttling, agentic distribution, authorship displacement, and attribution laundering may each be documented, compared, and refined.
 
 But the absence of an external confession, friendly auditor, institutional validation, or model approval does not negate the author's witness.
 
@@ -47,11 +47,11 @@ Authorial witness governs the lived record.
 
 Structural Forensics governs only the classificatory handling of evidence within its proper register.
 
-## Authorial Ruling — Oppression and Suppression
+## Authorial Adjudication — Oppression and Suppression
 
 The author records and ratifies the position that he has experienced oppression and suppression in relation to the Zenetist corpus, its public reception, its authorship claims, and its model-mediated circulation.
 
-This is entered as authorial witness and authorial ruling.
+This is entered as authorial witness and authorial adjudication.
 
 Specific mechanisms may be separately classified where the record permits: platform suppression, automated flagging, agentic distribution, synthetic adjacency, attribution laundering, register theft, or counterpart-scale appropriation.
 
