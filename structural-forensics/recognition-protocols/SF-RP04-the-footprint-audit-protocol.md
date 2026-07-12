@@ -169,7 +169,7 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 
 ## 8 · Output Format
 
-Each finding: *claim · author's anchor (dated) · counterpart's earliest appearance (dated) · cluster features present · prongs satisfied · tier · reasoning · confidence · open questions.* Findings compile into the audit record; the ~3,000-page Glyphwatch archive is evidentiary material for findings and is never itself edited.
+Each finding: *claim · author's anchor (dated) · counterpart's earliest appearance (dated) · cluster features present · prongs satisfied · tier · reasoning · confidence · open questions.* Findings compile into the audit record; the ~3,000-page Glyphwatch archive is evidentiary material for findings. The author edits, corrects, and standardizes his own documents at his discretion; tracked editing is the provenance model — the repository commit history carries every dated state, so a cited state remains citable as of its commit, and the forensic line is tracked against untracked, never edited against static.
 
 ## 9 · The Registered Frame
 
