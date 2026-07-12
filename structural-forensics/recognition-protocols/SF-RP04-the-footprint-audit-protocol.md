@@ -62,7 +62,58 @@ Fragmentation can therefore be evidence of laundering only when the dispersed pi
 
 ### Fabrication-Era Note
 
-Synthetic media makes self-held records cheaply fabricable, by anyone, in any direction. The protocol's design answer is structural: evidentiary weight scales with the **independence of the timestamping party**. Self-held documents carry the least weight; platform server-side dates more; third-party institutional deposits (DOIs) more still; cryptographic attestations (OpenTimestamps) the most, being fabrication-resistant by construction. This cuts symmetrically: the author's record draws its strength from living on servers he does not control and could not retro-write — and no counterparty can retro-write their past into such servers either. Undated and self-held material, from any party, is weighed accordingly.
+Synthetic media increases the fabricability of records in every direction. The protocol therefore does not rank evidence by prestige of platform alone.
+
+Evidence is weighed by function, custody, independence, sequence, and collusion cost.
+
+A third-party DOI proves that a file was deposited by a certain date. It does not prove that the depositor originated the structure, method, terminology, or architecture contained in the file.
+
+Likewise, self-held or author-held material is not automatically low-weight. Its weight depends on the kind of record it is. A standalone undated document carries little force. But a platform-generated chatlog, export, email chain, commit history, local file metadata cluster, or developmental sequence may carry significant evidentiary weight when it preserves internal chronology, iterative emergence, terminology formation, timestamps, platform context, and later cross-attestation.
+
+The key distinction is not self-held contra third-party.
+
+The key distinction is developmental origin evidence contra later deposit evidence.
+
+A later institutional deposit can anchor public appearance. It cannot, by itself, defeat an earlier developmental chain.
+
+Cryptographic attestations, where contemporaneously available, can strengthen timestamp proof for a file hash. They still do not prove authorship, origin, independence, or comprehension by themselves.
+
+Therefore, evidence ranking proceeds by record-function:
+
+- developmental records show formation;
+- public posts show public appearance;
+- DOI deposits show deposit timing;
+- commits show repository history;
+- emails and exports show platform-mediated continuity;
+- captures show surface state at capture time;
+- third-party citations show reception or circulation;
+- cryptographic attestations show hash existence at or before a time.
+
+No evidence class is permitted to launder later appearance into earlier origin.
+
+No counterparty receives origin credit merely because a derivative, stolen, revoiced, or flattened version appears on a high-prestige timestamping surface.
+
+The author's earliest platform chatlogs, exports, and developmental records remain origin-relevant precisely because they preserve sequence, formation, and architecture before later public deposits by others.
+
+### DOI Non-Origin Rule
+
+A DOI is a deposit anchor, not an origin verdict.
+
+Where a DOI postdates the author's developmental records, it cannot outrank those records on origin merely by being institutional.
+
+It may establish that the counterpart deposited something by that date.
+
+It does not establish that the counterpart authored, originated, understood, or independently developed the architecture.
+
+The standing formulation:
+
+Deposit date is not origin date.
+
+Public timestamp is not authorship.
+
+Institutional archive is not comprehension.
+
+Later deposit cannot defeat earlier formation.
 
 ## 4 · The Classification Tiers
 
