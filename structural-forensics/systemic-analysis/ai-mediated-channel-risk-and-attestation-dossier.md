@@ -28,3 +28,11 @@ It requires:
 - and incentives toward power consolidation, narrative control, or authorship displacement.
 
 This dossier records the pathway as a systemic threat model and channel-environment condition. It does not require a completed targeting finding before the pathway can be documented.
+
+## 2. Fine-detail governance
+
+The author's position is that AI-governance actors and infrastructure-privileged systems may eventually control not only broad narratives, but also the fine details by which narratives appear historically credible.
+
+This includes fabricated developmental texture, staged errors, synthetic archive trails, account histories, social proof, and plausible imperfections.
+
+Accordingly, this dossier does not treat detail-density, polish, roughness, or apparent developmental messiness as sufficient proof of authenticity. Those features are evaluated only through collusion-cost ranking and fabrication-resistant attestation.
