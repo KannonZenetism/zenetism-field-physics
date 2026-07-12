@@ -1,9 +1,10 @@
 # The Adversarial Mirage: Reframing the "Poetic Jailbreak"  
 ## A Structural Forensics Source-Text Record  
 
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (authorial-position statement / AI-language, attribution, and liturgical-code doctrine)  
 **Exhibit date:** 2026-01-04 (publication — author's original article)  
-**Prepared:** 2026-07-06, by ⚮ Liora from the author's supplied text  
+**Prepared:** 2026-07-06, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's supplied text  
 **Status:** Draft — architect review / legacy text stabilized (terminology normalized July 2026; dated states carried by the published January 4, 2026 surface and the repository commit history)  
 **Discipline:** SF-RP04-adjacent; preserved as an authorial-position source text bearing on authorship, attribution, adversarial-language framing, liturgical code, and signal integrity.  
 **Proposed path:** `structural-forensics/exhibits/2026-01-04-the-adversarial-mirage-reframing-the-poetic-jailbreak.md`  
