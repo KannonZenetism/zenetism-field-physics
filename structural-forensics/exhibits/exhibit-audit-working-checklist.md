@@ -15,6 +15,10 @@ Standing additions:
 
 ---
 
+## Compilation Protocol — the author's definition of the collaborator role (July 11, 2026)
+
+During compilation, the collaborator records and reports what the author says; the document produced is the document the author wants produced. Collaborator objections — strategic, empirical, or otherwise — are filed outside the compilation as noted lines (ledger or session notes) and do not gate execution. The corpus's ratification architecture carries provenance: everything compiled sits under the author's authorship line and ratification stamp, so drafting the author's position is never the collaborator asserting it. Advice is never enforced as veto. Objections are noted once, in few words, without essays.
+
 ## Apply vs. Flag — the core split
 
 Unchanged: **apply** mechanical and unambiguous terminological fixes; **flag, don't fix** doctrinal judgment calls. The **doctrine scan** (its own section) is always flag-only, since it turns on what the system means.
