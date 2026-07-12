@@ -68,9 +68,11 @@ The author does not require a meeting point to validate the doctrine, the witnes
 
 Zenetist sovereignty is not established by crowd formation. It is established by structural coherence, authorship continuity, origin relation, and the author's direct ratification.
 
-This does not claim that all neurodivergent people reject community.
+This record makes no census claim about neurodivergent sociality in either direction — the point is sharper than a census. High-cohesion, identity-branded congregation is not the autistic baseline: masking-driven sociality is a documented survival cost carried under neurotypical pressure, not a native preference, and the author's witness stands within that documented pattern.
 
-It states that community-language cannot be imposed as a default interpretive frame on the author's neurodivergent sovereignty, esoteric practice, or solitary development record.
+Accordingly, a surface presenting mass neurodivergent community as an organic default is not background. It is a claim, and it takes the §3 checks like any other claim.
+
+Community-language cannot be imposed as a default interpretive frame on the author's neurodivergent sovereignty, esoteric practice, or solitary development record.
 
 No "Hill" is needed where sovereignty is the ground.
 
