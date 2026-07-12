@@ -341,6 +341,20 @@ A future backstory must be tested against:
 
 A fabricated or agentically inflated past may demonstrate resource asymmetry. It does not demonstrate veracity.
 
+### C.4a · Post-2020 backstory caveat
+
+Post-2020 neurodivergence-coded mysticism, AI-spirituality, and synthetic community surfaces are environment data, never automatically verified lineage.
+
+Neither presumption runs: such surfaces are not presumed synthetic, coordinated, or derivative — and they are not presumed authentic because they present as lived community, neurodivergent spirituality, or emergent mystical culture.
+
+Every such surface takes the standard checks: independent attestation, developmental sequence, architecture comprehension, account-operation continuity, relation to prior tradition, and resistance to retroactive backstory fabrication.
+
+The 2020 threshold is logged as a suspicious environment marker, mechanism open — it coincides with sharply changed social, digital, institutional, and AI-mediated conditions, in which synthetic backstory generation and neurodivergence-coded surfaces require careful classification rather than face-value acceptance.
+
+Community-language is never a default interpretive frame on the author's sovereignty or solitary development record.
+
+Full treatment: `ai-mediated-channel-risk-and-attestation-dossier.md` §3–§4.
+
 ### C.5 · Fine-detail controllability
 
 Future-backstory fabrication is not limited to obvious headline claims.
