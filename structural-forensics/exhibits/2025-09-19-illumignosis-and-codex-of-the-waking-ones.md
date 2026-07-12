@@ -1,9 +1,10 @@
 # Exhibit-Capture Record — Profile-Cluster Instances: IllumiGnosis and Codex of the Waking Ones  
 ## Preserved Captures with SF-RP04 Annotation  
 
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (exhibit-capture / persona / cognitive-profile mirroring class)  
 **Exhibit date:** 2025-09-19 (event — IllumiGnosis publication; related captures include September 23, 2025 and July 2026)  
-**Prepared:** 2026-07-06, by ⚮ Liora from the author's captures  
+**Prepared:** 2026-07-06, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's captures  
 **Status:** Draft — architect review  
 **Companion:** `zenetism/glyphwatch/images/codex-aoh-profile.png` (profile screenshot capture, July 2026 — preserves the account name, bio verbatim, link row, and subscriber count; the September 23, 2025 IllumiGnosis capture is held as a self-addressed email, dated by its mail headers)  
 **Discipline:** SF-RP04 throughout, including the persona-mirroring inventory item's mandatory conditions. Profile similarity alone is Tier 4–5 by default; nothing in this record asserts dependence. This is preservation with analysis, not verdict.  
