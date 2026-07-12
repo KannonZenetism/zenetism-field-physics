@@ -1,9 +1,10 @@
 # Exhibit Record — Copeland Directed-Descent Paper and Ontologic Registry (June 2026)  
 ## Preserved Materials with SF-RP04 Annotation  
 
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (counterpart method-instrument / preserved materials / provenance-adjudication apparatus)  
 **Exhibit date:** 2026-07-05 (preparation — multi-date dossier spanning June 2026 directed-descent paper, May 23–June 18 Ontologic Registry workbook, June 10–11 Zenodo deposits, and related June 2026 relation facts)  
-**Prepared:** 2026-07-05, by ⚮ Liora from the author's supplied copies  
+**Prepared:** 2026-07-05, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's supplied copies  
 **Status:** Draft — architect review  
 **Companion:** `2026-06-29-copeland-origin-continuity-exchange-record.md` · `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`  
 **Discipline:** SF-RP04 throughout. No tier is assigned where a required check has not run. Rival explanations are retained in writing. This exhibit is a dated data-point, not a verdict.  
