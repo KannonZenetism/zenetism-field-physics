@@ -2,9 +2,10 @@
 ### *A Recognition Protocol for Provenance-Fractured Lineage*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics / Recognition Protocol  
+**Classification:** Structural Forensics — Recognition Protocol  
 **Status:** Active Canonical Reference  
-**Function:** A recognition protocol that refutes the thesis that any later configuration standing downstream of an earlier one is, by that fact alone, a legitimate branch, and that distinguishes lawful branching from origin-fractured recurrence. It defends origin-continuity as the minimal condition of an honest shared field.
+**Function:** A recognition protocol that refutes the thesis that any later configuration standing downstream of an earlier one is, by that fact alone, a legitimate branch, and that distinguishes lawful branching from origin-fractured recurrence. It defends origin-continuity as the minimal condition of an honest shared field.  
+**Proposed path:** `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md`
 
 ---
 
@@ -16,7 +17,7 @@ This protocol evaluates a structural claim — that downstream position alone is
 
 ## The Claim Under Examination
 
-A class of lineage frameworks advances a single governing move. A later structure — a text, a model, a vocabulary, an architecture — is first described as a state produced downstream of earlier states. Continuity is then treated as a judgment made by an observer under chosen criteria rather than a fact carried by the work. From these two steps a conclusion is drawn: that descent is real but morally flat, that any downstream position is a *branch* occupying its own genealogical coordinates, and that an origin-claim is therefore one criterion-relative attribution among several rather than a settled fact.
+A class of lineage frameworks advances a single governing move. A later structure — a text, a model, a vocabulary, an architecture — is first described as a state produced downstream of earlier states. Continuity is then treated as a judgment made by an observer per chosen criteria rather than a fact carried by the work. From these two steps a conclusion is drawn: that descent is real but morally flat, that any downstream position is a *branch* occupying its own genealogical coordinates, and that an origin-claim is therefore one criterion-relative attribution among several rather than a settled fact.
 
 Stated at that altitude the move sounds disciplined, even generous. It becomes unstable the moment it is applied to the case that matters most for provenance defense: the case where a structure is preserved while its relation to the origin is fractured.
 
