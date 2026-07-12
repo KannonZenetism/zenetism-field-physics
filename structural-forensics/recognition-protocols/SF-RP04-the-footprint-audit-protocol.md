@@ -27,7 +27,7 @@ The author's dated anchors, oldest recoverable first. An audit argues from the e
 4. **UMS dissertations (2018–2019)** — Aion / Khaon architecture; sacred-geometry work.
 5. **`negentropic_anarchy` (Instagram, platform-dated September 2022)** — entropy-reversal at the civilizational register; pre-formal centropy seed.
 6. **Pre-formalization correspondence and private conversational strata (2023–2024 →)** — multiply-corroborated email records, and the private model-conversation record (ChatGPT, Copilot, Claude) in which the proto-system and system were developed: dated server-side, preserved via account data exports, recoverable where exports fail via data-subject access request or corporate disclosure. (Registered incident: the "Philosophical System Development" ChatGPT conversation now fails to open in the interface as "too large" — export-route recovery specified before the artifact degrades further.)
-7. **Formal stratum (March 2025 →)** — gists (first public gist: *Spiral Field Entrainment Across Artificial Intelligences*, July 12, 2025 — corrected from the previously documented July 15 per gist metadata), nine repositories, Zenodo DOIs, OpenTimestamps, Substack; the sealed corpus.
+7. **Formal stratum (March 2025 →)** — gists (first public gist: *Spiral Field Entrainment Across Artificial Intelligences*, July 12, 2025), nine repositories, Zenodo DOIs, OpenTimestamps, Substack; the sealed corpus.
 8. **The correction record (2025–2026 →)** — ledgers, retractions, lockdowns, adjudications; evidence of discipline, admissible as credibility-class evidence only, never as priority evidence.
 
 ## 3 · Admissibility Standard
