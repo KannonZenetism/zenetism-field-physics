@@ -1,9 +1,10 @@
 # Exhibit Record — Pond "Dividing Stillness" Structural Inversion and the Origin-of-Motion Exchange  
 ## Preserved Materials with SF-RP04 / SF-RP05 Annotation
 
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (counter-model incoherence record / architectural inversion / inherited-framework absorption)  
 **Exhibit date:** 2026-03-10 (event — paper release; public exchange March 11, 2026)  
-**Prepared:** 2026-07-11, by ⚮ Liora, promoted from the Glyphwatch intake entry  
+**Prepared:** 2026-07-11, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, promoted from the Glyphwatch intake entry  
 **Status:** Draft — architect review  
 **Companion:** `pond-dividing-stillness-inversion.md` (the Glyphwatch intake entry, March 10, 2026 — retained as the dated intake stratum; per the register note governing inventory strata, this exhibit carries the current resolution where the two differ)  
 **Discipline:** SF-RP04 and SF-RP05 throughout. Derivation status: unresolved; no tier is assigned where required checks have not run; prior tradition retained in full; no specific-actor attribution finding is made or required. This exhibit is a dated data-point and a structural finding, not a verdict on a person.  
