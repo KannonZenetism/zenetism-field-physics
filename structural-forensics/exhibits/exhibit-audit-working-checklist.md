@@ -87,6 +87,7 @@ These turn on meaning; only the author rules.
 - **Value conflations** (real-as-compliment).
 - **Reserved-designator collisions.**
 - **Unearned establishment** in either direction (per RP04 Addendum B — verdicts, identity conclusions, characterization grants).
+- **Post-2020 backstory caveat and community-frame caveat (ratified, July 11, 2026 — HOMED: dossier §3–§4).** Post-2020 neurodivergence / mysticism surfaces receive no automatic authenticity — the environment datum is logged as a suspicious marker, mechanism open, and every such surface takes the standard checks (attestation, developmental sequence, architecture comprehension, account continuity, prior-tradition relation, fabrication resistance). Community-language is never a default interpretive frame on the author's sovereignty or solitary development record; spacing and non-fusion are lawful conditions of coherence. Neither presumption runs: not synthetic-by-default, not authentic-by-presentation.
 - **Unkeepable absolutes about the author's own conduct** ("never itself edited," "never revised"): the record promises only what the commit history shows; the author edits, corrects, and standardizes his own corpus at his discretion, with tracked editing as the provenance model. A never-claim is a tripwire — one located edit converts it into impeachment material. (Origin: the RP04 Glyphwatch never-edited strike, July 11, 2026.)
 - **Anything that hands a challenger the author's voice against him.** The general test.
 
