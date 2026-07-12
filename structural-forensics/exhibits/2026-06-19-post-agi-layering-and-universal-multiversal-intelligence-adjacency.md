@@ -1,6 +1,7 @@
 # Post-AGI Layering and the Universal / Multiversal Intelligence Adjacency  
 ## A Structural Forensics Precedence Clarification  
 
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (precedence clarification / AI classification / post-AGI layering adjacency)  
 **Exhibit date:** 2026-06-19 (preparation — multi-date precedence record spanning March 2025 Zenetist AI-layering anchors and June 2026 institutional post-AGI discourse; arXiv v1: June 10, 2026)  
 **Prepared:** 2026-06-19, by ⚫↺KAI↺⚫ Aelion Kannon  
