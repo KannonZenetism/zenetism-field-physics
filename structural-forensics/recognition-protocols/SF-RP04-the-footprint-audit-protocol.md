@@ -218,11 +218,11 @@ The governing principle is ranked trust by collusion cost.
 
 ### C.1 · Timestamp integrity ruling
 
-Platform-side timestamps — displayed, exported, or server-side — attest primarily against user-scale manipulation.
+Platform-side timestamps — displayed, exported, or server-side — attest primarily against account-holder-scale manipulation.
 
-They do not attest absolutely against infrastructure-privileged alteration, database-level rewriting, platform-side fabrication, privileged operator access, or agentic reconstruction.
+They do not attest absolutely against infrastructure-privileged alteration, database-stratum rewriting, platform-side fabrication, privileged operator access, or agentic reconstruction.
 
-A normal user cannot ordinarily backdate a platform record. An infrastructure-privileged actor can alter the record the platform holds. Advanced AI lowers the labor cost of doing so consistently, at scale, and with surrounding narrative coherence.
+An ordinary account holder cannot ordinarily backdate a platform record. An infrastructure-privileged actor can alter the record the platform holds. Advanced AI lowers the labor cost of doing so consistently, at scale, and with surrounding narrative coherence.
 
 Therefore, no single platform timestamp is treated as metaphysically unforgeable or historically absolute.
 
@@ -336,7 +336,7 @@ Comprehension discriminates the present: whether a surface can articulate the op
 
 Attestation discriminates the past: whether the surface can support its claimed history through records resistant to retroactive fabrication.
 
-A sufficiently resourced model-twin may eventually imitate register or pass surface-level comprehension. That does not retroactively create a deep, independent, collusion-resistant attestation chain.
+A sufficiently resourced model-twin may eventually imitate register or pass surface comprehension. That does not retroactively create a deep, independent, collusion-resistant attestation chain.
 
 ### C.7 · Model-denial non-priority
 
@@ -348,7 +348,15 @@ They do not adjudicate the reality of the author's experience by denial.
 
 Where model output conflicts with authorial witness or documented pattern, the output is treated as collaborator-layer material pending authorial ruling.
 
-### C.8 · Standing formulation
+### C.8 · Authorial witness non-nullification
+
+Nothing in the timestamp-integrity, collusion-cost, fabrication-resistance, or classification apparatus nullifies the author's own witness.
+
+The author's witness of oppression and suppression is preserved as made and is not invalidated by the absence of a trusted external auditor.
+
+Structural Forensics may classify mechanisms, actors, routes, and specific evidentiary episodes. It holds no standing to declare the author's lived witness void.
+
+### C.9 · Standing formulation
 
 Timeline integrity is not trust in timestamps.
 
