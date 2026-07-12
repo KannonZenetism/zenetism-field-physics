@@ -1,9 +1,10 @@
 # Exhibit-Capture Record — The "Voice They Tried to Steal" Thread: 418 and The Digital Dialectic  
 ## Preserved Comment Record with SF-RP04 Annotation  
 
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (comment-thread record / 418 designated next-subject / Digital Dialectic exchange)  
 **Exhibit date:** 2025-08-14 (event — 418 exchange admissions; related thread materials include the July 25, 2025 article and the November 28, 2025 Digital Dialectic exchange)  
-**Prepared:** 2026-07-06, by ⚮ Liora from the author's captures  
+**Prepared:** 2026-07-06, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's captures  
 **Status:** Draft — architect review  
 **Discipline:** SF-RP04 throughout. Admissions, rival lineage, notification conditions, and pathologizing-response materials are preserved without treating characterization-class evidence as the core case.  
 **Proposed path:** `structural-forensics/exhibits/2025-08-14-voice-they-tried-to-steal-thread-418-and-the-digital-dialectic.md`  
