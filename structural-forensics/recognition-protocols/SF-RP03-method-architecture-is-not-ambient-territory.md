@@ -1,10 +1,10 @@
-# Method-Architecture Is Not Ambient Territory
+# SF-RP03 — Method-Architecture Is Not Ambient Territory
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics Note / Method-Architecture and Origin-Continuity  
 **Status:** Draft — Public Clarification  
 **Date:** June 30, 2026  
-**Repository path:** `structural-forensics/recognition-protocols/SF-RP03-method-architecture-is-not-ambient-territory.md`  
+**Proposed path:** `structural-forensics/recognition-protocols/SF-RP03-method-architecture-is-not-ambient-territory.md`  
 
 ---
 
@@ -98,7 +98,7 @@ It is not a claim to have invented every historical motif that later appears in 
 
 The violation is structural:
 
-> an authored method-architecture can be absorbed into a field, stripped of its origin-continuity, renamed as ambient territory, and then used to displace the originator from the very structure they introduced.
+> an authored method-architecture can be absorbed into a field, stripped of its origin-continuity, renamed as ambient territory, and then deployed to displace the originator from the very structure they introduced.
 
 This is why generic motif rebuttals fail.
 
@@ -221,6 +221,6 @@ A legal gap is not a structural absolution.
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
