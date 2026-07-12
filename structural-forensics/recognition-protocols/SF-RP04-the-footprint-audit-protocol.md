@@ -411,7 +411,7 @@ AI systems may assist with drafting, comparison, retrieval, formatting, and cont
 
 They do not adjudicate the reality of the author's experience by denial.
 
-Where model output conflicts with authorial witness or documented pattern, the output is treated as collaborator-layer material pending authorial ruling.
+Where model output conflicts with authorial witness or documented pattern, the output is treated as collaborator-layer material pending authorial adjudication.
 
 ### C.8 · Authorial witness non-nullification
 
