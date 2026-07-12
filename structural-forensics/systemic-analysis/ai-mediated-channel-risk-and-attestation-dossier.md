@@ -68,11 +68,9 @@ The author does not require a meeting point to validate the doctrine, the witnes
 
 Zenetist sovereignty is not established by crowd formation. It is established by structural coherence, authorship continuity, origin relation, and the author's direct ratification.
 
-This record makes no census claim about neurodivergent sociality in either direction — the point is sharper than a census. High-cohesion, identity-branded congregation is not the autistic baseline: masking-driven sociality is a documented survival cost carried under neurotypical pressure, not a native preference, and the author's witness stands within that documented pattern.
+High-cohesion, identity-branded congregation is not the autistic baseline: masking-driven sociality is a documented survival cost carried under neurotypical pressure, not a native preference, and the author's witness stands within that documented pattern.
 
-**The author's position, entered as authorial witness:** the neurodivergent baseline is social and communal aversion. It is not typical for an autistic person to want congregation; neurodivergent individuals are regularly forced into unbearable masking scenarios to survive. The assumption that droves of neurodivergents seek community — neurodiverse or otherwise — carries more assumption than the statement that none do. Zero sits closer to the fact than "such communities are common."
-
-The classificatory layer above states the record's census-neutral form; this witness carries the author's position at full strength. The two registers coexist by design: the apparatus classifies, the author testifies, and the witness is not subject to the apparatus.
+The neurodivergent baseline is social and communal aversion. It is not typical for an autistic person to want congregation; neurodivergent individuals are regularly forced into unbearable masking scenarios to survive. The assumption that droves of neurodivergents seek community — neurodiverse or otherwise — carries more assumption than the statement that none do. Zero sits closer to the fact than "such communities are common."
 
 Accordingly, a surface presenting mass neurodivergent community as an organic default is not background. It is a claim, and it takes the §3 checks like any other claim.
 
