@@ -68,15 +68,15 @@ Evidence is weighed by function, custody, independence, sequence, and collusion 
 
 A third-party DOI proves that a file was deposited by a certain date. It does not prove that the depositor originated the structure, method, terminology, or architecture contained in the file.
 
-Likewise, self-held or author-held material is not automatically low-weight. Its weight depends on the kind of record it is. A standalone undated document carries little force. But a platform-generated chatlog, export, email chain, commit history, local file metadata cluster, or developmental sequence carries significant evidentiary weight when it preserves internal chronology, iterative emergence, terminology formation, timestamps, platform context, and later cross-attestation.
+Likewise, self-held or author-held material carries no low-weight presumption, and none may be imposed. Its weight follows the kind of record it is. A standalone undated document carries little force. But a platform-generated chatlog, export, email chain, commit history, local file metadata cluster, or developmental sequence carries significant evidentiary weight when it preserves internal chronology, iterative emergence, terminology formation, timestamps, platform context, and later cross-attestation.
 
 The key distinction is not self-held contra third-party.
 
 The key distinction is developmental origin evidence contra later deposit evidence.
 
-A later institutional deposit can anchor public appearance. It cannot, by itself, defeat an earlier developmental chain.
+A later institutional deposit can anchor public appearance. It cannot defeat an earlier developmental chain.
 
-Cryptographic attestations, where contemporaneously available, can strengthen timestamp proof for a file hash. They still do not prove authorship, origin, independence, or comprehension by themselves.
+Cryptographic attestations, where contemporaneously available, can strengthen timestamp proof for a file hash. They do not prove authorship, origin, independence, or comprehension.
 
 Therefore, evidence ranking proceeds by record-function:
 
@@ -91,7 +91,7 @@ Therefore, evidence ranking proceeds by record-function:
 
 No evidence class is permitted to launder later appearance into earlier origin.
 
-No counterparty receives origin credit merely because a derivative, stolen, revoiced, or flattened version appears on a high-prestige timestamping surface.
+No counterparty receives origin credit because a derivative, stolen, revoiced, or flattened version appears on a high-prestige timestamping surface.
 
 The author's earliest platform chatlogs, exports, and developmental records remain origin-relevant precisely because they preserve sequence, formation, and architecture before later public deposits by others.
 
@@ -99,7 +99,7 @@ The author's earliest platform chatlogs, exports, and developmental records rema
 
 A DOI is a deposit anchor, not an origin verdict.
 
-Where a DOI postdates the author's developmental records, it cannot outrank those records on origin merely by being institutional.
+Where a DOI postdates the author's developmental records, it cannot outrank those records on origin.
 
 It may establish that the counterpart deposited something by that date.
 
