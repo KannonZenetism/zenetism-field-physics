@@ -1,8 +1,9 @@
 # Capture — "A newbie inside emergent intelligence" (Mark Davey, March 8, 2025)
 
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (preserved public surface / retrieval capture)  
 **Exhibit date:** 2025-03-08 (event — Mark Davey Substack episode, displayed date)  
-**Prepared:** 2026-07-08, by ⚮ Liora from direct public retrieval, reproduced on second fetch  
+**Prepared:** 2026-07-08, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from direct public retrieval, reproduced on second fetch  
 **Status:** Draft — architect review; author direct-load verified 2026-07-08; archival screenshot pending  
 **Companion:** `2026-07-07-davey-resonanceos-rvm-ech-intake.md` (Addendum D, D4a)  
 **Discipline:** SF-RP04 throughout. This exhibit preserves a dated public surface for structured comparison. Band 1 (emergence register) per the register-band diagnostic; displayed-date surface with comment-thread corroboration; no motive, derivation, or tier assigned.  
