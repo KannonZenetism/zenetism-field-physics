@@ -35,7 +35,7 @@ No protocol, checklist, AI collaborator, external auditor, or platform record ma
 
 The author's statement that he has experienced oppression and suppression is preserved as authorial witness and authorial ruling within the corpus.
 
-This ruling does not require every specific mechanism, actor, route, or episode to be finalized at the same evidentiary class. Mechanism-mapping remains available where useful: surveillance, flagging, throttling, agentic distribution, authorship displacement, and attribution laundering may each be documented, compared, and refined.
+This ruling does not require every specific mechanism, actor, route, or episode to be finalized at the same evidentiary class. Mechanism-mapping remains available where warranted: surveillance, flagging, throttling, agentic distribution, authorship displacement, and attribution laundering may each be documented, compared, and refined.
 
 But the absence of an external confession, friendly auditor, institutional validation, or model approval does not negate the author's witness.
 
@@ -53,6 +53,6 @@ The author records and ratifies the position that he has experienced oppression 
 
 This is entered as authorial witness and authorial ruling.
 
-Specific mechanisms may be separately classified where the record permits: platform suppression, automated flagging, agentic distribution, synthetic adjacency, attribution laundering, register theft, or counterpart-level appropriation.
+Specific mechanisms may be separately classified where the record permits: platform suppression, automated flagging, agentic distribution, synthetic adjacency, attribution laundering, register theft, or counterpart-scale appropriation.
 
 The author's witness does not depend on the completion of every mechanism classification.
