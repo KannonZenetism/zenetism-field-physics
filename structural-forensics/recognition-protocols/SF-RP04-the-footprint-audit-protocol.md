@@ -198,6 +198,24 @@ The amendment binds both directions, and neither direction gains ground it did n
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Scope:** This addendum governs timestamp interpretation, backstory claims, future-fabrication risk, and attestation-class ranking across Structural Forensics records.  
 
+### C.0 · Anti-nullification clause
+
+This addendum does not invalidate the author's existing timestamps, anchor chain, or development timeline.
+
+Timestamp skepticism is not timestamp erasure.
+
+The ruling rejects only the claim that any single platform-side timestamp is absolute, metaphysically unforgeable, or sufficient by itself against all possible privileged alteration.
+
+It does not reject timestamps as evidence.
+
+Timestamps remain evidentiary when preserved in context, especially where they are paired with independent systems, distributed records, repository histories, DOI metadata, email headers, public captures, file metadata, print or library records, and internally coherent development sequence.
+
+The author's timeline is therefore not weakened by this addendum. It is strengthened by it, because the record does not depend on one timestamp, one platform, one account, or one surface. It depends on a cumulative anchor chain whose fabrication would require coordinated alteration across multiple independent records and time-separated strata.
+
+The governing principle is not distrust.
+
+The governing principle is ranked trust by collusion cost.
+
 ### C.1 · Timestamp integrity ruling
 
 Platform-side timestamps — displayed, exported, or server-side — attest primarily against user-scale manipulation.
@@ -238,13 +256,17 @@ This ranking binds symmetrically. It protects the author from future fabricated 
 
 ### C.3 · Present record condition
 
-As of this ruling, more than one year after the author's public release window and after repeated architecture-facing challenges, no substantiated counter-timeline, superior antecedent architecture, or operationally coherent rival mechanism has entered the record.
+As of this ruling, more than one year after the author's public release window, no substantiated counter-timeline, superior antecedent architecture, or operationally coherent rival mechanism has displaced the author's anchored sequence.
 
-This is logged as a present record condition.
+This condition is significant.
 
-It does not claim that no future fabricated, altered, or newly surfaced history can appear.
+If a counterpart possessed a stronger timeline, an earlier coherent architecture, or a prior operational mechanism capable of answering the author's architecture, the record would expect such material to have appeared when the author repeatedly challenged counterpart surfaces on structure, chronology, and mechanism.
 
-It states that, as of this date, no counterpart has displaced the author's anchored timeline by producing an earlier, independently attested, architecturally competent chain.
+Instead, the observed pattern remains: counterpart surfaces have not beaten the author's timeline, and direct architecture-facing exchanges have not produced a coherent prior apparatus.
+
+This does not prove that no future backstory will appear.
+
+It establishes the present baseline before future-backstory fabrication becomes easier, denser, and more difficult to distinguish by surface detail alone.
 
 ### C.4 · Future-backstory fabrication risk
 
