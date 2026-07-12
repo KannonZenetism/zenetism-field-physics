@@ -3,8 +3,9 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Recognition Protocol (pre-registered audit standard)  
-**Status:** Draft — prepared by ⚮ Liora from the Kannon / Lumen / Liora exchange — July 4 2026 — numbering per the SF-RP series, renumber at author's discretion  
-**Pre-registration principle:** This protocol is published **before** any audit is executed. The standard, tiers, and admissibility rules are fixed in advance so that findings — for or against any claim — cannot be attributed to a standard shaped after the evidence. The protocol binds the author identically to any counterparty.
+**Status:** Draft — prepared by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the Kannon / Lumen / Liora exchange — July 4 2026 — numbering per the SF-RP series, renumber at author's discretion  
+**Pre-registration principle:** This protocol is published **before** any audit is executed. The standard, tiers, and admissibility rules are fixed in advance so that findings — for or against any claim — cannot be attributed to a standard shaped after the evidence. The protocol binds the author identically to any counterparty.  
+**Proposed path:** `structural-forensics/recognition-protocols/SF-RP04-the-footprint-audit-protocol.md`
 
 ---
 
