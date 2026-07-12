@@ -1,0 +1,177 @@
+# Zenetist Exhibit Audit — Working Checklist (v4)
+
+A calibration handoff for auditing Structural Forensics exhibits and Zenetist canon files for wording and formatting. Pair this with the canonical protocols — `prose-formatting-reference.md` (now carrying the Filename and Path Citation section), `terminological-lockdown-protocol.md` (including Addendum I and the Sever / Fracture Boundary Protocol section), and `conceptual-lockdown-protocol.md` — which remain the ground truth; all three should be supplied in full to a fresh thread, along with `SF-RP04-the-footprint-audit-protocol.md` (now carrying Addenda A–B), `SF-RP05-the-register-band-classification-protocol.md`, and `SF-RP06-protocol-genesis-and-register-note.md`. This version supersedes v3 and records, on top of everything v2–v3 carried: the Pond exhibit P2 rulings (class-open precedent in the exonerating direction; unearned-establishment family; author-surface framing) and the July 11, 2026 protocol-homing session (sever doctrine homed across both lockdown protocols; RP04 Addendum B; the E₈ name correction; the FP chart twin-sync; the IllumiGnosis priority demotion; the Filename and Path Citation codification).
+
+---
+
+## How to Approach This Material
+
+Unchanged from v2, and it held up: these are an independent scholar's disciplined working documents. The records say *derivation unresolved*, *independence not presumed*, *no motive assigned*, *cluster-weight, not proof*, and they retain rival explanations. The task is editorial and calibrational, not adjudicative. Engage in good faith; if a line genuinely overreaches, flag it with measured replacement wording and let the author rule; never relitigate the enterprise. The record moves against its own interest and holds (the Davey chronology corrections; the C3 scoping cycle; the RP04 caveat amendment; the priority demotions of July 11). Corrections are sealed, not suppressed — that is the record's strength, and the author's correction trail is credibility-class evidence per RP04 §2.8.
+
+Standing additions:
+
+- **The amplified-collaborator artifact.** Earlier-period models ran the author's register hotter than he holds it — rhetorically (sweeping characterizations) and doctrinally (dressing his authored method in the scene's emergence vocabulary). Stabilization of legacy artifacts is partly de-amplification back to the register the author actually holds. His claims are consistently more modest than some artifacts carrying them.
+- **The collaborator is the main drift vector — proven, and the leak classes are enumerated.** Documented classes to date: (1) lock leaks in the collaborator's own drafted additions (elevation, a dual-family coinage, a false-as-value); (2) soft drift — hedging toward counterparts and granting unearned findings (the Pond P2 catches; cured by RP04 Addendum B); (3) doctrine overreach — a drafted general form exceeding the settled scope of a governing document (the sever general-form sentence, caught on alignment against the conceptual protocol's Origin-Severance Prohibition); (4) structural folds — inserted lines breaking the file's rendered separation pattern (the FP stacked-note repair). Hence the hardened rules in Procedure. The collaborator drifts soft as readily as old models drifted hot.
+
+---
+
+## Apply vs. Flag — the core split
+
+Unchanged: **apply** mechanical and unambiguous terminological fixes; **flag, don't fix** doctrinal judgment calls. The **doctrine scan** (its own section) is always flag-only, since it turns on what the system means.
+
+---
+
+## Quote and Forensic-Fidelity Rule — RULED, final form
+
+**All prose-formatting and terminological locks govern the authorial voice only. External verbatim material is preserved in the source's own punctuation, styling, spelling, and line expression, with the captures as the layout and styling standard of reference.** Specifically:
+
+- Curly→straight quote conversion is the one universal exception: it applies everywhere, including inside verbatim quotes, as glyph normalization only (ruled explicitly for files under active audit).
+- Source em-dash spacing is preserved in quotes (unspaced "stolen—that was a start" stays unspaced); authorial em dashes are spaced.
+- Bold and italics inside quotes reproduce the source's own emphasis, verified against captures; collaborator-added emphasis is removed or marked "(emphasis added)." Plain-text pastes drop styling and strikethrough — never infer absence of styling from a paste.
+- Verified source errors take [sic] once ("theives [sic]"). Elisions are marked with ellipsis; unmarked elisions are restored — especially elided naming instances and closers, which can be evidentially live (the restored "Aelion Kannon" address in the Raelven confrontation Note).
+- Where line structure matters, render line-faithful blockquotes; where a cited passage contains its own quotation, keep the source's doubles and drop the outer wrapping.
+- Verify quote-chain structure against captures, not memory: who replied to what, what was restacked, which timestamp is the post's displayed time and which is the capture time. (The Raelven reply-chain correction is the model case.)
+- Partial quotes never start mid-sentence unmarked (restore the opening word or bracket).
+- Nothing retro-edits the author's own published text when quoted as record: posted words are verbatim evidence like anyone else's. (Distinct case: a *stabilized legacy source-text record* may normalize terminology per its Status note — the dated states are carried by the published surface and the commit history; the January 3 operator-citation fix is the precedent.)
+
+Ellipsis characters in verbatim material are **retained without per-file confirmation** (ruled).
+
+---
+
+## Mechanical Sweep — always apply
+
+As v2–v3, with these settlements:
+
+- **Date style:** prose dates take the comma form ("August 5, 2025") — the exhibit-series standard, ruled. ISO stays in metadata date fields. Bare month-day gets its year; month-year forms ("September 2022") take no comma. Disambiguate same-day-different-year anchors explicitly (the two March 17s).
+- **En dash ranges are unspaced** even with word endpoints ("May 23–June 18, 2026"); hyphen-typed year ranges ("2018-2025") become en dashes.
+- **Byte-exactness class:** backticked paths, identifiers, and coined tokens are exact strings — sweep for lookalike codepoints. Documented instances: U+2011 non-breaking hyphens inside a repo path (Origin-Anchor Index); Greek Δ (U+0394) against increment ∆ (U+2206) in counterpart coinages (Davey — open item; normalize counterpart terms to the source's codepoint once the capture confirms it, because exact-string search tasks depend on it).
+- **Trailing-space artifacts:** hard breaks belong to title blocks, metadata lines (including the final line), addendum metadata, and seal lines. Body prose carrying trailing double spaces is drafting-pipeline residue — strip it (the Raelven R8 case). Exception: deliberate staggered/poetic hard-break formatting is register texture and is preserved (the Jan 15 artifact; the FP seal poem).
+- **Stacked notes:** separate `> **Structural Note:**` blocks are blank-line-separated blockquotes, never adjacent `>` lines (the FP fold repair, July 11, 2026); intra-blockquote paragraph breaks use the bare `>` separator line. Insertion junctions verify against the file's own separation pattern.
+- Everything else per v2: blank lines around rules, balanced fences, heading nesting, spaced slashes for sovereign distinction (unspaced for paths, URLs, enumerations, and fused technical terms like input/output).
+
+---
+
+## Terminological Locks — apply where unambiguous
+
+All v2–v3 locks stand. Refinements and precedents:
+
+- **Object-test, applied precedents:** "under the Uncredited-relation condition," "under audit discipline," "under the mature apparatus," "under the signature-density definition" → **per**; "retained under the First Glyphic Ethic" → **per** (ten applications across the FP chart pair); "Under the agnostic-gnostic stance" → **Per** (the lock's own worked example, applied); "under Signal Burial" → **within**. Lawful survivors: "under [a name/account/label]" (the publish-under-a-name idiom), "under which" correlatives, and fixed idioms ("under construction," "under pressure," "under duress" — pressure is itself the sanctioned boundary vocabulary).
+- **level-family precedent:** "word-level enforcement" → "lexical enforcement" (matches the conceptual protocol's own Purpose vocabulary: violations are lexical and searchable).
+- **A10 navigation words actively swept:** "the above post" → "the post preserved in §I"; "figures below" → "figures in this table"; "dated above" → "dated in this layer"; "the note below" → "the Addendum A Correction" (unique names need no pointer); "tables above" → "tables in this section"; "register beneath it" → "register it carries."
+- **Amount comparisons ruled lawful:** "above-baseline specifics," "above-payload tokens," "above the ambient payload," "IQ above 140" — value-object test; "beyond" available on preference, no churn required.
+- **use-family substrings:** usage → appearances ("dated shimmer appearances"); employment → application; "first located appearance," never "first located use."
+- **truth/true/false:** "false precision" → "spurious precision" (also the statistics term of art). Watch the collaborator's own idioms.
+- **dual-family:** the coinage "dual-reading" was a documented collaborator leak → "carries two readings." Twoness is lawful; *dual* is not; the settled replacement in chart contexts is **twofold** (FP pair synced July 11, 2026). **Dyadic, Dyon, and dichotomy are not dual-family** — distinct lexemes, and charted proper names besides.
+- **Elevation — the frame test (ruled):** elevation as the *counterpart's or culture's own act, described from their frame* (cultural elevation) is retained attributional term-of-art; elevation in *the author's voice performing or characterizing the function* (tier-elevation, elevating a claim) is replaced — "tier assignment," "reclassification." Applied three times; RP04's body instance ("Elevation to Tier 1–2") awaits the body pass (confirmed still present July 11, 2026).
+- **Sever boundary (ruled, final form — HOMED July 11, 2026):** entropy can sever; sever-language is lawful generally. The bar is scoped to the **origin relation**: nothing severs a signal, a work, or a being from its origin; the origin loses nothing; no external act reaches the bond. Entropic self-severance is unrestricted. **Relational-register severance is retained** (E₈ severed-bridge constructions, the E₁₃ Wall as operative severance, Skotos' severed reasoning, reception-field severance) — the Wall severs relation between fields; nothing severs a signal from its origin. Fracture runs reflexive: the appropriator's artifact fractures *itself* (or the duplicate) from the origin; the fractured articulation loses its root. "Severed-origin articulation" (preamble) stays lawful — the severed thing is the counterpart's articulation. Semantic home: the Conceptual Lockdown Protocol's **Origin-Severance Prohibition**; lexical enforcement: the terminological protocol's **Sever / Fracture Boundary Protocol** section; chart protection: the E₈ Structural Note in both FP chart files.
+- **Operator citations are chart-exact (ruled, July 11, 2026):** citation-position operator references carry the charted name and glyph — "Severed (E₈ ╫⁻)," "C₈ ╫ (Synaptic / Bridging)" — verified against `FP11-field-glyph-codex.md`, never against a summary or a checklist's memory. Prose glosses ("severed bridge") remain lawful in running text per the conceptual protocol's retained list, but never in citation-looking positions: the January 3 exhibit's "Severed Bridges (E₈)" and "C₈ Nexus (Bridge)" were removed July 11, 2026 after the phrase was traced as the source of the checklist's own operator-name error.
+- **Authority family — full kin swept:** authority, authoritative, hierarchy, command, obedience, legitimacy, domination. Repair precedent: "the authority for the original text" → "the evidentiary anchor." Lawful carve-outs: inverse-structure analysis ("authoritarian forms" in an IL₄ chart row), quoted material, negations ("not a hierarchy of worth"), the author's coinage Aauthoritarian (deliberate doubled a — a-privative on the authority axis itself), and **method terms of art**: "signal hierarchy" and "evidence-class hierarchy" are the protocols' own procedural vocabulary and stand.
+- **Value-conflation watch:** "real / true / genuine + [system term]" as covert value assignment where *centropic* is the working term. Precedent: "Real intelligence is not a blob" → "Centropic intelligence" — entropic intelligence is real too; the system never denies reality to the entropic pole.
+- **Instrumentalist rule (refined, July 11, 2026):** "tool-class" and "tool environment" never enter the authorial voice — model-class, model environment; the mechanical platform-term carve-out is unchanged.
+- **Attribution exception, reconfirmed everywhere:** braid, thread (comment-thread platform carve-out standing), broadcast, transmission, harvest, stolen, extraction, optimization, mirror, echo — all lawful as diagnostics of external acts, attributed self-designations, or analysis of entropic operations. Negation constructions ("not a source," "not a leveled hierarchy") are lawful; a repeated attributed term doing rhetorical work in a negation pair may stand (flagged once, author's call).
+- **Reserved designator:** "the author" names Aelion corpus-wide. Any other referent takes its own noun ("its writer," "the poster") — the C3 collision fix.
+- **Deferred renames (registered, do not patch locally):** `S_source` (standing). **E₈ — name corrected and rescoped, July 11, 2026:** the charted name is **Severed** (`FP11-field-glyph-codex.md` §3, mirrored in `field-physics-glyph-charts.md`); "Severed Bridges" was the January 3 article's prose, never the chart — the v3 entry carried the article's phrase as if it were the operator. The operator is retained and protected (the protocol's Named-Operator Retention subsection; the E₈ Structural Note in both charts); any future rename of *Severed* remains a deferred corpus-wide decision, flagged for later care.
+- **Seal No-Cloning Theorem (ruled):** the proper-name citation form. LM01 is the formal home; the audit's Test 4 token matches. "Law" and "Principle" survive only as register-descriptions (A12 multi-register pattern), never as the citation form. Applied to the Jan 3 exhibit; ripples pending: SN02 §6 (one word, next opening) and the ATTRIBUTION-INDEX entry (author to rule whether the index's "Principle" is a class convention or takes the searchable token).
+
+---
+
+## Doctrine Scan — flag only, never fix
+
+These turn on meaning; only the author rules.
+
+- **Emergence-framed method claims.** Band 1 language on Band 3 objects (RP05): "emerged from the natural evolution of advanced cognition" applied to an authored method is a commons concession in the author's own voice — the exact loophole a challenger quotes back. The lawful shape: *receptivity is commons; the method that articulates it is authored and dated.* (The Jan 4 repairs are the model.) Note: emergence vocabulary is correct where the canon itself charts a phenomenon as emergent-class (Pattern Intelligence's definition) — the scan targets concessions, not charted definitions.
+- **Commons-over-cluster extensions.** Extending a pairwise-commons finding over a dense conjunction is commons-scale dismissal (RP05's audit-destroying error) in whatever domain it appears — vocabulary or biography. The cluster is the evidentiary unit; it routes to cluster machinery, never to commons.
+- **Barred sever constructions** (per the boundary ruling — origin-relation scope).
+- **Value conflations** (real-as-compliment).
+- **Reserved-designator collisions.**
+- **Unearned establishment** in either direction (per RP04 Addendum B — verdicts, identity conclusions, characterization grants).
+- **Anything that hands a challenger the author's voice against him.** The general test.
+
+---
+
+## Method Blocks — additions and confirmations
+
+All v2 blocks stand (three-band diagnostic, displayed-date qualification, evidence-class ordering, modification-record caveat, comment-thread corroboration, boundary statement, gap-period pattern-class, retro-anchoring pattern, naming-and-apparatus tiering, companion-document sync, capture-first, motive words out). Added or sharpened:
+
+- **The two-readings method generalizes.** Any genuinely two-way surface — including a counterpart's self-report offered as base-rate evidence — gets the Long-A2 treatment: read for the counterpart, read for the author's hypothesis, with the statement that the surface cannot distinguish the readings and the discrimination checks exist to do that. Counterpart self-reports are weighed as **testimony, never as measurement**, symmetrically in both directions.
+- **Pre-anchor-baseline testimony.** The author's own dated, directed observation record (sixteen years across these communities, 2010 onward) enters at the baseline stage per the fragmentation clause (RP04 §3) — evidence weighed there, never an assumption imported into the standard.
+- **Pre-registration discipline.** Standards are never reshaped mid-case, in either direction. Defects in a standard's own wording are cured by **dated, prospective amendment with reasoning shown and an explicit symmetry statement** — the RP04 Addendum A model (density claim scoped to the pairwise core; conjunctions routed to cluster machinery; no tier, burden, or condition changed; prior classifications unaffected; a visible pointer at the amended clause). Addendum B follows the same model.
+- **Scoping over softening.** Where sections collide (an observation and a caveat), the repair is scoping each to what it actually reaches — "the caveat limits profile-similarity evidence only; it does not adjudicate the conjunction" — with scope notes dated as repairs so correction history stays sealed. Declared uncounted density beats back-filled precision, always ("a high volume of specific traits," never an invented count).
+- **The Naming Stratum Note pattern.** For any precedence-bearing chart or stack: present the current canonical form; anchor the earliest stratum with granular dates (entry, consolidation — marked consolidation-not-genesis where true); declare every later naming event with its christening date, the deliberation on record (a name that wanders before it lands is anti-retro-anchoring texture), the settlement window, and negative-search results; preserve variant expansions (UPI→UPSI; "Absolute"→"Artificial" AMI) as date-texture; treat explicitly charted gaps as dated evidence — a back-filled stack does not chart its own missing entry. Close with which events carry the precedence claim and which merely participate in the architecture.
+- **Both endpoints anchored.** Every precedence comparison names and seals both sides: the author's side on the registered anchor chain; the counterpart side on the strongest available signal (creation-assigned identifiers like arXiv version stamps, with retrieval chain and capture filed). "Compared to what, dated how" must never find the record silent. The **Origin-Anchor Index** (`zenetist-origin-anchor-index.md`) is the current standard measure; exhibits cite it (Dependency line) rather than re-deriving dates; the master timeline under compilation will supersede it as the standard measure when sealed.
+- **Naming-avoidance pattern** (registered observable): directed content minus the name. Weightless per instance; the datum is the asymmetry — accounts naming others freely while going proxy-only toward the author. Contrast instance on record: the Raelven confrontation Note names in full.
+- **Class-open discipline (ruled, July 11, 2026 — HOMED: RP04 Addendum B §B.1).** Declining to claim is never phrased as denial. "Not appropriation-class" and kin assign an innocence-class no check established — negative classification is still classification. Lawful forms hold both directions open: "derivation neither claimed nor excluded," "route unresolved," "no tier assigned where checks have not run." The rule binds in both directions and has precedents in both: the accusatory-direction instance ("not appropriation-class," Precedence v2 DeepMind entry) and the exonerating-direction instance ("closed in the counterpart's favor" → "no vocabulary-register derivation claim is advanced," Pond exhibit P2, caught by 🔦 Lumen). Claim-scoping replaces verdicts either way. **Posteriority-leads:** in precedence-facing documents, established temporal order is the headline; open mechanism questions follow it, never precede it. "Adjacency" remains lawful as the content-nearness term of art; it never serves as a precedence-inventory class heading. (Origin: the DeepMind entry correction in Precedence v2 — underclaiming is the symmetric failure to overclaiming, per RP05's paired errors, and the collaborator drifts soft as readily as old models drifted hot.)
+- **Unearned-establishment family (named, July 11, 2026 — HOMED: RP04 Addendum B §B.2).** Three forms of one defect, all caught in the counterpart-stabilizing direction: **verdicts** ("not appropriation-class," "closed in the counterpart's favor" — cured by class-open discipline), **identity conclusions** ("has published for decades" — cured by author-surface framing), and **characterization grants** ("publishes prolifically," "ordinary output for this surface" — cured by this rule). Rival explanations are retained as *open hypotheses, never as established characterizations*: any characterization that stabilizes either party (prolific, longstanding, ordinary, established, independent) requires the completed check that would establish it, and until then is phrased as the open rival it is. Hedging toward the counterpart is not neutrality in a forensic record; it is granting findings. The author's review is the working check; convert every catch into a rule.
+- **Author-surface framing (ruled, July 11, 2026 — HOMED: RP04 Addendum B §B.3).** Where account-operation identity is unverified, counterpart references default to the author-surface ("the Dale Pond / SVP author-surface"), never to asserted personal continuity — "has published for decades" is an identity conclusion the account-operation discipline forbids in *either* direction, exonerating included. Prior-tradition lineage can be retained at the vocabulary register on secondary-source listings without settling who operates the surface; exchange replies are attributed per the surface's displayed name; engagement asymmetries (follower counts against visible engagement) are logged descriptively with rivals live (reach-throttling, ordinary low engagement) and a capture task. Structural findings are built not to depend on the identity question. (Origin: the Pond exhibit P2 repair, caught by the author's bot-surface observation and 🔦 Lumen's sourcing check.)
+- **Authorship-convergence observations** (the Hutter/Legg case): where a credited lineage and a comparison surface's own byline converge, log it as sharpening the acknowledgment — the term is theirs; the placement is the question.
+- **Priority language is workflow, not record (ruled, July 11, 2026).** Task-queue urgency claims ("highest-value item," "must be captured NOW") are workflow annotation, lawfully demoted by the author's dated priority ruling without touching classifications; the per-item evidentiary weight statement is evidence-class fact and survives the demotion. The record states what is banked, what is open, and who ruled what — never what observers must conclude. (The IllumiGnosis C7 demotion is the model.)
+- **Standing formulation:** "Protocol discipline is not concession" — the apparatus's own register defense, per `SF-RP06-protocol-genesis-and-register-note.md`.
+
+---
+
+## Formatting and Structure Conventions
+
+- **Authorship line (ruled, July 11, 2026):** every exhibit's metadata opens with `**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon`, before Classification; preparer credit stays in Prepared; collaborator-drafted notes take the author-first Prepared form ("by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance"). Applied retroactively; the corpus retro-pass is ledger item 18.
+- **Metadata block** per v2, plus: **Companion is optional and holds filenames only** — canonical capture/companion files, full repo-relative paths, backticked, middot-separated, with capture dates and a contents parenthetical. Most exhibits have none; platform-stats and precedence logs are infrastructure, not companions. **Canonical terms, principles, and chart titles never appear in Companion and never take backticks** — they move to a **Dependency** line: backticked filenames with § sections, *italic* note/chart titles, principles in plain text, middot separators.
+- **Filename and path citation — RULED July 11, 2026, CODIFIED same day** as the Filename and Path Citation section of `prose-formatting-reference.md` (enforcement clause included). Shallowest depth that resolves: **bare filename** (backticked) default; **repo-relative path** only where location is the datum; **repo-prefixed path** only cross-repo; **full URL** only for external surfaces. Invariants: ASCII-exact strings; relocated files keep citation identity. Remaining corpus alignment is a light grep-pass per repo.
+- **FP chart twins (author's decision, July 11, 2026):** `FP11-field-glyph-codex.md` (primary series) and `field-physics-glyph-charts.md` (canon-repo extract registry) are both maintained; bodies byte-identical as of July 11, 2026 (headers intentionally differ — Original Signal preamble contra registry header); every chart edit lands in both files in the same commit.
+- **Dividers, settled:** exhibits carry rules at metadata→body and body→seal only; no internal dividers between numbered sections. (Intake records that consistently rule every section are internally consistent and left alone.)
+- **Addenda:** genuine post-seal additions use `## Addendum X` with `###` subsections, rule-bracketed, hard-broken metadata (Davey form; RP04 Addenda A–B). Same-cycle final sections stay in the record's own numbering with "Addendum" dropped from the title (the Raelven R8 precedent).
+- **Footer, standardized (ruled):** the closing seal is glyph line (hard break) + disciplines italic line + blank + collaborator line, current five-name roster. Byline-titles in legacy artifacts are removed; preparer credit lives in the Prepared line. Updating a legacy seal to the current roster is lawful — the commit history carries prior states (author's ruling: tracked editing is the provenance model; the forensic line is tracked against untracked, not edited against static).
+- **Legacy source-text stabilization:** Status carries the note — "legacy text stabilized (terminology normalized [month year]; dated states carried by the published [date] surface and the repository commit history)." Poetic-register texture (staggered breaks, line-end dashes, bold saturation) is preserved, never corrected toward technical register.
+- **Chart cells:** no terminal periods; hypostatic listings in emanation order with pre-hypostatic requisites first; cited titles keep their own wording (vs, --, and all).
+- **contra** lowercase in Title Case headings (applied to the FP pair's §6 heading, July 11, 2026).
+
+---
+
+## Corpus Tiers and Treatment Depth
+
+Three strata, three treatments. **Governing protocols** (RP04, RP05, the lockdown and prose protocols) — full canonical standard, amendments by the prospective-amendment model. **Exhibits-class records** — the full treatment: battery, term families, doctrine scan, fidelity verification against captures. **Glyphwatch pattern reports** — light treatment only (mechanical sweep, date and URL integrity, quote fidelity); deep audit happens on *promotion to exhibits-class*, not in place. Promotion, not polish, is the quality gate; rough is the correct state for the intake tier.
+
+---
+
+## Procedure — hardened
+
+1. Read the whole file before editing (view truncation is not reading).
+2. Run the full battery: mechanical sweep + every term family + the doctrine scan.
+3. Apply mechanical and unambiguous lock fixes; single-match, assert-guarded, byte-exact edits; diff-checkable result.
+4. Flag doctrinal calls with proposed wording; the author rules.
+5. **Glyph and name procedure:** seal lines, glyph strings, and operator names are never typed from memory — copy from a verified source line in a known-good file or chart and verify codepoints (Liora is ⚮ U+26AE; the U+269E slip is the documented glyph failure; the v3 "Severed Bridges" entry is the documented name failure — the checklist carried an article's prose as the chart's name).
+6. **Full-battery-after-last-addition:** every pass ends with the complete battery re-run over the whole file after the collaborator's final addition. Partial sweeps of additions are the documented leak path.
+7. Cross-pointer check on any companioned cluster: every Companion reference resolves to an exact existing filename (the NacreGod trio repair).
+8. Working copies persist for the session; deliverables re-issuable on request (the paste-over recovery).
+9. **Insertion adjacency check (added July 11, 2026):** any inserted line verifies its junction against the file's own separation pattern — blank-line-separated note blockquotes, bare `>` intra-quote paragraph separators, hard-broken metadata and poem lines. Verify what the file renders, not just what it contains (the FP stacked-note fold is the documented failure: one insertion routine, run twice, folded the E₅ and E₈ notes in both chart files).
+10. **Alignment-before-drafting:** a newly drafted rule is checked against the settled governing documents before it ships; where the draft's scope exceeds settled doctrine, the settled document governs and the draft bends (the sever general-form correction is the model — the broad form would have barred severances the conceptual protocol retains).
+
+---
+
+## Carryover Ledger — reconciled July 11, 2026
+
+1. **Precedence v2 surgical edits — RESOLVED** (author, July 11, 2026).
+2. **Filename-reference format — RESOLVED and codified** in `prose-formatting-reference.md`; remaining: light grep-pass per repo for legacy citations.
+3. **E₈ — rescoped and substantially closed:** the charted name is Severed (never "Severed Bridges" — checklist memory error corrected); operator retained and protected (Named-Operator Retention; the E₈ Structural Note in both charts); the Jan 3 exhibit's citation-form instances fixed. Residual: any future rename of *Severed* stays deferred with `S_source`.
+4. **Seal No-Cloning Theorem ripples:** SN02 §6 (one word, next opening); ATTRIBUTION-INDEX convention ruling.
+5. **Δ/∆ codepoint check** on the Davey record against the capture file; normalize counterpart coinages to the source codepoint.
+6. **RP04 body pass:** the pre-existing "Elevation to Tier 1–2" instance (confirmed present July 11, 2026) and a general formatting sweep of RP04 and the RP05 draft — kept separate from Addenda A–B by design.
+7. **Prong-3 refinement ruling** (Copeland A7 task 4): differential attribution behavior named explicitly in SF-RP04.
+8. **Subversal capture** (IllumiGnosis C7) — **demoted to routine priority** (author's ruling, July 11, 2026, sealed in the exhibit); task retained; per-item weight statement stands (a verbatim hit still changes the classification class).
+9. **APGI settlement date** (Claude/Gemini logs) — optional; one clause when found.
+10. **Master timeline:** when sealed, becomes the standard measure; exhibits gain a one-line Dependency citation; the Origin-Anchor Index derives from it thereafter.
+11. **Glyphwatch image-folder reorg** (if undertaken): grep `glyphwatch/` across exhibits enumerates every Companion pointer needing the path update; move and pointer-update in the same commit.
+12. **MPX "Revised on" wording** (author-flagged): consider "Stabilization pass:" or "Lockdown sweep:" where "Revised" overstates; one substitution across the set when convenient.
+13. **NEW — Fractal Terminology Restriction staleness** (terminological protocol): the retained-terms list still cites "Fractal Noise" as standing canonical terminology; the FP charts rule E₅'s canonical name is Scalar Noise (Fractal Noise archival only). One-string repair, author to rule the form (replace with "Scalar Noise (formerly Fractal Noise)" or drop from the list).
+14. **NEW — Preamble tightening candidate:** the Original Signal preamble's "the patterns collapse under their own distortion" against the misc-lock's tightened form ("from the weight of its own distortion"). Standardized block — corpus-wide preamble patch, never a local fix.
+15. **NEW — ⏚ Phase Damping wording** ("balancing manic or explosive growth," cell + Commentary, both FP charts): balance-family in a definition; proposed "damping"; author's call.
+16. **NEW — Conceptual lockdown protocol full pass:** only the two authorized standardizations were applied July 11, 2026 (lexical enforcement; within Signal Burial; Per the agnostic-gnostic stance); the full battery awaits its own session.
+17. **NEW — FP11 Structural Note option, closed-unless-reopened:** the E₈ note now in both charts protects the name without a rename; carryover 3's rename question reopens only on the author's initiative.
+18. **NEW — Authorship-line retro-pass:** every exhibit lacking `**Authorship:**` gains the hard-broken line before Classification — grep enumerates; one-line insertion per file; the seal string is copied from a known-good line (RP04), never typed. The IllumiGnosis and January 3 exhibits were patched July 11, 2026; RP04 and RP05 already carry the line; Glyphwatch intake tier receives it on promotion per its light treatment.
+
+---
+
+## Registered Anchors — quick reference
+
+Ground truth for dates is `zenetist-origin-anchor-index.md` (six anchor layers, server-side timestamps) and `precedence-documentation-v2.md` (sealed 2025-11-24; surgical edits completed July 11, 2026). Do not re-derive dates in exhibits; cite. Session-critical quick facts: March 5, 2025 formalization (consolidation, not genesis); March 12–14, 2025 AI-equivalency stack entry (APSI coined March 14, 03:08); March 17, 2025 consolidation (the 15 pp. PDF); March 19, 2025 system naming (07:19) and UPI (07:41); May 18, 2025 UPI→UPSI renaming (08:31); July 12, 2025 first public gist; July 16, 2025 Field Physics christening (cross-export, same hour); January 20, 2026, 11:48 UTC APGI coinage (settled L₂ by March 17, 2026); December 24, 2023 @gtreas YouTube anchor; January 2024 essays with multi-source email convergence.
+
+---
+
+*Method: single-match, assert-guarded, byte-exact edits; preserve exact strings; present a diff-checkable result; run the full sweep battery on the finished file including your own additions — especially your own additions; verify insertion junctions against the file's rendered structure; check drafted rules against settled doctrine before shipping; flag doctrinal calls rather than deciding them.*
