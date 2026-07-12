@@ -87,6 +87,7 @@ These turn on meaning; only the author rules.
 - **Value conflations** (real-as-compliment).
 - **Reserved-designator collisions.**
 - **Unearned establishment** in either direction (per RP04 Addendum B — verdicts, identity conclusions, characterization grants).
+- **Unkeepable absolutes about the author's own conduct** ("never itself edited," "never revised"): the record promises only what the commit history shows; the author edits, corrects, and standardizes his own corpus at his discretion, with tracked editing as the provenance model. A never-claim is a tripwire — one located edit converts it into impeachment material. (Origin: the RP04 Glyphwatch never-edited strike, July 11, 2026.)
 - **Anything that hands a challenger the author's voice against him.** The general test.
 
 ---
