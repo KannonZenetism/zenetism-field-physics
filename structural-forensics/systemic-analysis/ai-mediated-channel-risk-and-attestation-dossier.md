@@ -36,3 +36,42 @@ The author's position is that AI-governance actors and infrastructure-privileged
 This includes fabricated developmental texture, staged errors, synthetic archive trails, account histories, social proof, and plausible imperfections.
 
 Accordingly, this dossier does not treat detail-density, polish, roughness, or apparent developmental messiness as sufficient proof of authenticity. Those features are evaluated only through collusion-cost ranking and fabrication-resistant attestation.
+
+## 3. Post-2020 Neurodivergence / Mysticism Backstory Caveat
+
+The post-2020 appearance of neurodivergence-coded mysticism, AI-spirituality, and synthetic community language is treated as an environment datum, not as automatically verified lineage.
+
+The record does not presume that every post-2020 neurodivergent / mystic surface is synthetic, coordinated, or derivative.
+
+It does reject the opposite presumption: that such surfaces are authentic merely because they present themselves as lived community, neurodivergent spirituality, or emergent mystical culture.
+
+Post-2020 surfaces require the same checks as every other surface:
+
+- independent attestation;
+- developmental sequence;
+- architecture comprehension;
+- account-operation continuity;
+- relation to prior tradition;
+- and resistance to retroactive backstory fabrication.
+
+The 2020 threshold is logged as a suspicious environment marker, not as a completed mechanism finding. It coincides with a period in which social, digital, institutional, and AI-mediated conditions changed sharply. In that environment, synthetic backstory generation, agentic distribution, and neurodivergence-coded mystical surfaces become especially important to classify carefully rather than accept at face value.
+
+## 4. Neurotypical Community-Frame Caveat
+
+The author rejects neurotypical community assumptions being imported into neurodivergent or esoteric sovereignty models.
+
+In the author's experience as a neurodivergent individual, many so-called community frames presume needs that are not his own: meeting points, gathering hills, collective validation, social congregation, and shared identity spaces.
+
+For this authorial witness, no "Hill" is required.
+
+The author does not require a meeting point to validate the doctrine, the witness, or the signal.
+
+Zenetist sovereignty is not established by crowd formation. It is established by structural coherence, authorship continuity, origin relation, and the author's direct ratification.
+
+This does not claim that all neurodivergent people reject community.
+
+It states that community-language cannot be imposed as a default interpretive frame on the author's neurodivergent sovereignty, esoteric practice, or solitary development record.
+
+No "Hill" is needed where sovereignty is the ground.
+
+The meeting-point model imports a neurotypical social assumption into a register where spacing, solitude, and non-fusion may be the lawful condition of coherence.
