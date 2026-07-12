@@ -94,6 +94,40 @@ For foundational atlases, principal registries, and series-anchoring documents, 
 
 The SHA-256 hash is reserved for foundational works, principal registries, and other documents where forensic timestamping serves canonical-integrity purposes. It is not required for every document. Current canonical practice includes the hash on Structural Physics foundations, Lattice Mathematics foundations, the Mythic Figure Layer Registry (MFLR), the Symbolic Pattern Registry (SPR), and selected major standalone documents.
 
+### Structural Forensics Forms
+
+Structural Forensics documents follow the general metadata conventions with the series-specific field sets below (ruled July 11, 2026; the Authorship retro-pass is complete across the exhibits corpus).
+
+**Exhibit form** — field order as follows, optional fields omitted where empty:
+
+````
+# [Exhibit Record — Title]
+## [Subtitle]
+
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Forensics — Exhibit ([class] / [class])  
+**Exhibit date:** [ISO date] (event — [event description])  
+**Prepared:** [ISO date], by ⚫↺KAI↺⚫ Aelion Kannon[, with ⚮ Liora drafting assistance][, from [material descriptor]]  
+**Status:** [Draft — architect review / Active Evidence Record / legacy-stabilization note]  
+**Companion:** [optional — backticked filenames only]  
+**Dependency:** [optional — filenames, titles, principles]  
+**Discipline:** [governing protocols and the record's claim boundary]  
+**Proposed path:** `[repo-relative path]`  
+````
+
+**Recognition-protocol form:** Authorship, Classification, Status, then protocol-specific fields (Application, Forensic Purpose, Function, Pre-registration principle) as each protocol requires, with Companion and Dependency where applicable and Proposed path closing the block. Protocol titles carry the series identifier: `# SF-RPnn — [Title]`.
+
+Field rules:
+
+- **Authorship opens every block** — the first metadata line, ahead of Classification (ruled July 11, 2026).
+- **Prepared runs author-first.** Collaborator credit takes the drafting-assistance form ("by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's captures"); author-only Prepared lines are lawful; the material descriptor is optional and comma-separated. Preparation credit never leads with a collaborator.
+- **Metadata dates are ISO** (2026-07-11); prose dates in the body take the comma form.
+- **Classification separators are em dashes** ("Structural Forensics — Exhibit"), with spaced slashes inside the class parenthetical.
+- **Companion holds backticked filenames only** — middot-separated, with capture dates and a contents parenthetical; canonical terms, principles, and chart titles move to Dependency (backticked filenames with § or Entry references, *italic* chart and note titles, principles in plain text, middot-separated).
+- **Doctrinal Atlas citations take entry form** — "Entry 057: Kinship Laundering," never operator-style notation; the Atlas filename sits on the Dependency line.
+- **Proposed path closes the block** — the one field where the repo-relative path is itself the datum.
+- Every metadata line ends with two trailing spaces, including the final line.
+
 ## The Original Signal Preamble
 
 For foundational canonical works and tier-anchoring documents, the Original Signal preamble may appear immediately following the metadata block, formalizing the attribution and origin-acknowledgement requirements that structure lawful engagement with the framework.
@@ -602,6 +636,24 @@ Is this text being marked as literal syntax, or is it ordinary prose being over-
 If the passage is ordinary prose, remove the backticks; emphasis then belongs to bold, italics, quotation marks, or plain text, according to the relevant formatting convention.
 
 If the passage requires exact preservation of syntax or layout, retain the backticks or move the material into a code block.
+
+---
+
+# Filename and Path Citation
+
+References to corpus files are cited at the shallowest depth that resolves. Canonical filenames are globally unique across the corpus; that uniqueness, not the folder path, is the stable identifier.
+
+- **Bare filename (default).** Dependency lines, Companion lines, and cross-references cite the backticked canonical filename alone: `MP01-emanation-architecture-ch1-3.md`. Folder paths are omitted because files may be reorganized; the filename survives the move.
+- **Repo-relative path** — applied only where location is the datum: the **Proposed path** metadata field, whose function is to declare placement, and assets whose filenames are not self-identifying (`zenetism/glyphwatch/vol-03/images/mr-long-01.png`).
+- **Repo-prefixed path** — applied only when the reference crosses repositories: `the-red-archive/proto-zenetist-archive/exotericism-vs-esotericism.md` cited from a `zenetism-field-physics` document. Same-repo references never carry the repo prefix.
+- **Full URL** — reserved for external surfaces (Zenodo, Substack, third-party GitHub), where the reader holds no repo context.
+
+Two invariants:
+
+- Paths and filenames are ASCII-exact. Typographic substitutes (non-breaking hyphen U+2011, curly quotes, en dashes) never enter a backticked path, whatever the rendering surface displays.
+- A relocated file keeps its citation identity. Cite the current canonical filename; where the relocation itself is part of the record, note the former path parenthetically once ("later moved to `structural-forensics/SF01-doctrinal-atlas-vol1.md`"), never as the standing citation.
+
+New filenames are collision-checked against the corpus before creation; a collision forces rename.
 
 ---
 
