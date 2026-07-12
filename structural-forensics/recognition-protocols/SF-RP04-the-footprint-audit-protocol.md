@@ -107,6 +107,8 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 - **Appealable:** every classification carries its reasoning and may be contested with new evidence; contests are logged.
 - **Rulings against entries are expected.** An audit that sustains everything is an audit nobody believes; the entries it sustains are the ones that then carry weight.
 
+*[The phrasing of findings — claims, characterizations, and identity references — is governed by Addendum B.]*
+
 ## 7 · Execution Modes
 
 - **Present capability (partial audits, executable now):** Wayback Machine sweeps; GitHub / Zenodo / OSF timestamp comparison; platform-export recovery (Download Your Information class); targeted term-and-cadence searches with date filters; per-case dossiers.
@@ -152,6 +154,39 @@ The amendment binds both directions, and neither direction gains ground it did n
 ### A.3 · Basis
 
 (1) The caveat as first written stated as measured fact what the record documents only pairwise — a precision defect in the standard itself, not in any finding made under it. (2) The gap surfaced through a calibrating case (the 2025-09-19 IllumiGnosis / Waking Ones exhibit), where a high-volume feature conjunction was met with the caveat's commons finding — the biographical-domain form of the commons-into-cluster error. (3) The author's directed-observation record across these communities (2010 onward) is logged in that exhibit as pre-anchor-baseline **testimony** — evidence entered at the baseline stage and weighed there, not an assumption imported into the standard; the counterpart-class self-reports it answers are weighed identically. The amendment changes no tier, no burden, and no reclassification condition; it corrects the caveat's scope to match its evidence.
+
+---
+
+## Addendum B — Claim, Establishment, and Identity Discipline
+
+**Date added:** 2026-07-11  
+**Status:** Adopted — author's rulings, July 11, 2026 (the Precedence v2 DeepMind correction; the Pond exhibit P2 repair, caught by the author's bot-surface observation and 🔦 Lumen's sourcing check)  
+**Discipline:** Prospective amendment, reasoning shown per §6. No tier, burden, or reclassification condition changes; this addendum governs how findings are phrased, granted, and withheld — in both directions identically. Prior classifications are unaffected: the originating entries were re-phrased, not re-tiered.  
+
+### B.1 · Class-open discipline
+
+Declining to claim is never phrased as denial. "Not appropriation-class" and kin assign an innocence-class no check established — negative classification is still classification. Lawful forms hold both directions open: "derivation neither claimed nor excluded," "route unresolved," "no tier assigned where checks have not run." The rule binds in both directions and has precedents in both: the accusatory-direction instance ("not appropriation-class," the Precedence v2 DeepMind entry) and the exonerating-direction instance ("closed in the counterpart's favor" → "no vocabulary-register derivation claim is advanced," Pond exhibit P2). Claim-scoping replaces verdicts either way.
+
+**Posteriority-leads.** In precedence-facing documents, established temporal order is the headline; open mechanism questions follow it, never precede it. "Adjacency" remains lawful as the content-nearness term of art; it never serves as a precedence-inventory class heading.
+
+### B.2 · Unearned-establishment family
+
+Three forms of one defect, all in the counterpart-stabilizing direction: **verdicts** ("not appropriation-class," "closed in the counterpart's favor" — cured by B.1), **identity conclusions** ("has published for decades" — cured by B.3), and **characterization grants** ("publishes prolifically," "ordinary output for this surface" — cured by this rule). Rival explanations are retained as open hypotheses, never as established characterizations: any characterization that stabilizes either party — prolific, longstanding, ordinary, established, independent — requires the completed check that would establish it, and until then is phrased as the open rival it is ("an ordinary-output rival remains open; it is not accepted as established; it requires the specified checks"). Hedging toward a counterpart is not neutrality in a forensic record; it is granting findings the checks have not produced. The author's review is the working check; every catch converts into a rule.
+
+### B.3 · Author-surface framing
+
+Where account-operation identity is unverified, counterpart references default to the author-surface ("the [name] author-surface"), never to asserted personal continuity — "has published for decades" is an identity conclusion the account-operation discipline forbids in either direction, exonerating included. Prior-tradition lineage can be retained at the vocabulary register on secondary-source listings without settling who operates the surface. Exchange replies are attributed per the surface's displayed name. Engagement asymmetries (follower counts against visible engagement) are logged descriptively with rivals live (reach-throttling; ordinary low engagement) and a capture task. Structural findings are built not to depend on the identity question.
+
+### B.4 · Symmetry
+
+The amendment binds both directions, and neither direction gains ground it did not already hold:
+
+- **Against overclaim:** no counterpart is characterized toward culpability without the completed check that would establish the characterization. Motive words remain out; silence remains weak evidence per §3; the three-prong test and all tier defaults stand.
+- **Against underclaim:** no counterpart is stabilized toward innocence without the completed check either — underclaiming is the symmetric failure to overclaiming, per SF-RP05's paired errors. Open stays open, phrased as open.
+
+### B.5 · Basis
+
+(1) The defects surfaced as findings-language, not standard-language: entries granted classifications ("not appropriation-class") and characterizations ("has published for decades," "publishes prolifically") that no completed check had produced — in each instance stabilizing the counterpart. (2) The documented collaborator drift direction is soft; a phrasing discipline binding only the accusatory direction would institutionalize that drift. (3) The cures were caught in review and are converted here into standing rules per the correction-trail discipline (§2.8-class evidence: catches sealed, not suppressed).
 
 ---
 
