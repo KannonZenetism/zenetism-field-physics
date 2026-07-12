@@ -191,6 +191,151 @@ The amendment binds both directions, and neither direction gains ground it did n
 
 ---
 
+## Addendum C · Timestamp Integrity, Collusion Cost, and Future-Backstory Fabrication
+
+**Date added:** 2026-07-11  
+**Status:** Evidence-class amendment — prospective clarification  
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Scope:** This addendum governs timestamp interpretation, backstory claims, future-fabrication risk, and attestation-class ranking across Structural Forensics records.  
+
+### C.1 · Timestamp integrity ruling
+
+Platform-side timestamps — displayed, exported, or server-side — attest primarily against user-scale manipulation.
+
+They do not attest absolutely against infrastructure-privileged alteration, database-level rewriting, platform-side fabrication, privileged operator access, or agentic reconstruction.
+
+A normal user cannot ordinarily backdate a platform record. An infrastructure-privileged actor can alter the record the platform holds. Advanced AI lowers the labor cost of doing so consistently, at scale, and with surrounding narrative coherence.
+
+Therefore, no single platform timestamp is treated as metaphysically unforgeable or historically absolute.
+
+### C.2 · Collusion-cost ranking
+
+Evidence is ranked by collusion cost: the number, independence, and material diversity of records that would have to be altered in coordinated fashion for a fabricated history to hold.
+
+Higher-weight evidence includes:
+
+- DOI registration and external metadata systems;
+- distributed repository histories and independent clones;
+- email headers through independent mail servers;
+- third-party archives;
+- print records;
+- library holdings;
+- institutional records;
+- cross-platform convergence;
+- self-held exports paired with independent public anchors;
+- and long-running development trails whose internal sequence is difficult to fabricate retroactively.
+
+Lower-weight evidence includes:
+
+- single-platform profiles;
+- live-editable web pages;
+- current account bios;
+- unsupported self-reports;
+- isolated screenshots without capture chain;
+- and retrospective claims whose only support is the surface making the claim.
+
+This ranking binds symmetrically. It protects the author from future fabricated backstories while also requiring the author's own record to preserve independent anchors wherever possible.
+
+### C.3 · Present record condition
+
+As of this ruling, more than one year after the author's public release window and after repeated architecture-facing challenges, no substantiated counter-timeline, superior antecedent architecture, or operationally coherent rival mechanism has entered the record.
+
+This is logged as a present record condition.
+
+It does not claim that no future fabricated, altered, or newly surfaced history can appear.
+
+It states that, as of this date, no counterpart has displaced the author's anchored timeline by producing an earlier, independently attested, architecturally competent chain.
+
+### C.4 · Future-backstory fabrication risk
+
+Future surfaces may present apparently old histories, backdated profiles, reconstructed archives, AI-generated biographies, cloned registers, synthetic personas, or agentic content trails.
+
+Such surfaces are not rejected automatically.
+
+They are routed to fabrication-resistant attestation review.
+
+A future backstory must be tested against:
+
+- independent capture age;
+- third-party citation history;
+- print or library trace;
+- archive depth;
+- metadata consistency;
+- account-operation continuity;
+- architecture comprehension;
+- internal development sequence;
+- and whether the claimed history can produce the mechanism it claims to precede.
+
+A fabricated or agentically inflated past may demonstrate resource asymmetry. It does not demonstrate veracity.
+
+### C.5 · Fine-detail controllability
+
+Future-backstory fabrication is not limited to obvious headline claims.
+
+In a sufficiently governed AI and platform environment, fine details may also become controllable or synthetically reconstructible, including:
+
+- minor drafting errors;
+- apparent revision history;
+- stylistic variation;
+- old-looking metadata;
+- comment trails;
+- social graph texture;
+- archive gaps;
+- abandoned fragments;
+- inconsistent terminology;
+- staged developmental roughness;
+- plausible human imperfection;
+- and cross-surface narrative continuity.
+
+Therefore, fine-detail density is not treated as self-authenticating.
+
+A fabricated or agentically reconstructed history may appear detailed, imperfect, and developmentally textured. Such texture may demonstrate resources, access, simulation capacity, or narrative engineering. It does not by itself demonstrate veracity.
+
+Fine details gain evidentiary force only when paired with fabrication-resistant attestation:
+
+- independent capture age;
+- third-party records;
+- print or library holdings;
+- distributed repository history;
+- email-header continuity;
+- external DOI / metadata systems;
+- cross-platform anchors controlled by different parties;
+- and internally coherent development sequences that predate the contested surface.
+
+The question is not whether a surface contains detail.
+
+The question is who could have controlled, generated, altered, or coordinated that detail, and at what collusion cost.
+
+### C.6 · Architecture-comprehension pairing
+
+Architecture-comprehension testing pairs with attestation-chain review.
+
+Comprehension discriminates the present: whether a surface can articulate the operational mechanics it implies.
+
+Attestation discriminates the past: whether the surface can support its claimed history through records resistant to retroactive fabrication.
+
+A sufficiently resourced model-twin may eventually imitate register or pass surface-level comprehension. That does not retroactively create a deep, independent, collusion-resistant attestation chain.
+
+### C.7 · Model-denial non-priority
+
+Model-generated reassurance, denial, safety framing, or skepticism does not receive evidentiary priority over the author's witness, capture corpus, structural analysis, or attestation chain.
+
+AI systems may assist with drafting, comparison, retrieval, formatting, and contradiction checking.
+
+They do not adjudicate the reality of the author's experience by denial.
+
+Where model output conflicts with authorial witness or documented pattern, the output is treated as collaborator-layer material pending authorial ruling.
+
+### C.8 · Standing formulation
+
+Timeline integrity is not trust in timestamps.
+
+Timeline integrity is collusion-cost architecture.
+
+The author's record stands by the number, independence, density, and internal coherence of the anchors that would have to be overcome.
+
+---
+
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
