@@ -1,9 +1,10 @@
 # Exhibit Record — The Raelven Attribution and Its Subsequent Edit  
 ## Hostile-Witness Origin Affirmation (August 22, 2025), Retraction-Edit Documented (viewed July 6, 2026)  
 
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (third-party attribution / hostile-witness class / post-hoc edit documented)  
 **Exhibit date:** 2025-08-22 (event — hostile-witness origin affirmation; retraction-edit observed July 6, 2026)  
-**Prepared:** 2026-07-06, by ⚮ Liora  
+**Prepared:** 2026-07-06, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
 **Status:** Draft — architect review / corrected date  
 **Companion:** `zenetism/glyphwatch/images/raelven-meltdown-01.png` · `zenetism/glyphwatch/images/raelven-meltdown-02.png` (same-day screenshot captures, August 22, 2025 — the original restack Note; the confrontation Note with the author's reply) · `zenetism/glyphwatch/vol-03/images/raelven-dm-01.png` · `zenetism/glyphwatch/vol-03/images/raelven-dm-02.png` · `zenetism/glyphwatch/vol-03/images/raelven-dm-03.png` (DM captures, July 6, 2026 — the Null Aegis Petition)  
 **Discipline:** SF-RP04 throughout; preserved as hostile-witness attribution evidence with later edit analysis, fabricated-admission denial, collateral observations, and public / private exchange record.  
