@@ -82,13 +82,7 @@ The shared value names **what kind of structural determination** each essence be
 
 Because the letter E is already strongly associated with entropy and the entropic dimensional registry, the present entry provisionally employs **T** for Theonic essence.
 
-Let:
-
-\[
-T_{u_n}^{+1}
-\]
-
-denote the distinct Theonic essence proper to universal arc \(u_n\), bearing the structural value +1.
+Let \(T_{u_n}^{+1}\) denote the distinct Theonic essence proper to universal arc \(u_n\), bearing the structural value +1.
 
 The notation is read in the following order:
 
