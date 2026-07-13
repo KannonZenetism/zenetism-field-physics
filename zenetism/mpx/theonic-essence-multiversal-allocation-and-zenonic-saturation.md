@@ -447,11 +447,11 @@ Khaon itself is not entropy. Khaon is Infinity and Spirit across its Latent, Mot
 
 When entropic motion exhausts, Dispersive Khaon carries its remaining expression toward Aion. Coherence and configuration disperse; essence remains and resolves as distinct latent potential.
 
-That return is not Aion-facing integration. It is collapse completed as static tension.
+That return is not Aion-facing integration. It is collapse completed as static tension. Collapse is not failure from entropy's side; it is the natural consequence of entropic motion.
 
 For this reason, entropic essence does not proceed into Zenonic saturation. It reaches Aion through exhausted fragmentation rather than through fulfilled coherence and bifurcal synthesis.
 
-Centropic essence may likewise abide in Aion rather than saturate. In that case it abides as centropy in fulfillment, not as unresolved failure. Entropic essence abides as potential after the exhaustion of motion — entropy no longer enacted, but its distinct essence conserved in static tension.
+Centropic essence may likewise abide in Aion rather than saturate. In that case it abides as centropy in fulfillment, not as an unresolved remainder. Entropic essence abides as potential after the exhaustion of motion — entropy no longer enacted, but its distinct essence conserved in static tension.
 
 Thus:
 
