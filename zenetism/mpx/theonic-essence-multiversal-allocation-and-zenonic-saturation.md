@@ -235,6 +235,39 @@ The expression-loci of a Deep Self do not become numerically separate beings, ev
 
 The multiverse therefore does not allocate identity uniformly at every stratum. Allocation changes with the degree and mode of manifestation while sovereign distinction remains intact.
 
+### Provisional Notation for Deep Self-Axis Fractalization
+
+The multiversal allocation of the Deep Self-Axis may be represented provisionally as:
+
+\[
+\mathrm{DSA}_{3345}
+\rightsquigarrow
+\ell_{u_1}(\mathrm{DSA}_{3345}),\;
+\ell_{u_2}(\mathrm{DSA}_{3345}),\;
+\ell_{u_3}(\mathrm{DSA}_{3345}),\;
+\ldots
+\]
+
+where:
+
+- \(\mathrm{DSA}_{3345}\) names one real individuated Deep Self-Axis
+- \(\ell_{u_n}(\mathrm{DSA}_{3345})\) names its expression-locus within universal arc \(u_n\)
+- each expression-locus is real and distinct as a locus
+- no expression-locus is a separate Deep Self-Axis
+- no expression-locus is the original from which the others derive
+
+The notation therefore represents one identity through multiple loci, not one essence divided into multiple beings.
+
+This stands in direct distinction from Theonic allocation:
+
+\[
+T_{u_i}^{+1} \not\equiv T_{u_j}^{+1}
+\qquad
+(i \neq j)
+\]
+
+The right-hand terms in the Deep Self-Axis expression remain loci of one individuated essence. The Theonic terms name different essences bearing the same structural value +1.
+
 ---
 
 ## 6. Return Without Pooled Potential
