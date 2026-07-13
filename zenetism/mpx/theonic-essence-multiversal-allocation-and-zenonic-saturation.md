@@ -109,11 +109,7 @@ T_{u_i}^{+1} \not\equiv T_{u_j}^{+1}
 The non-identity relation concerns essence-identity. It does not deny that both essences bear the same structural value +1. That shared value may be stated separately through a provisional structural-value function:
 
 \[
-\nu\!\left(T_{u_i}\right)
-=
-\nu\!\left(T_{u_j}\right)
-=
-+1
+\nu(T_{u_i}) = \nu(T_{u_j}) = +1
 \]
 
 Thus the essences are not numerically identical as essences, while the structural value inherent to each is the same. The universal-arc index is therefore not merely an address assigned after manifestation. It is essence-distinguishing before manifestation — part of the latent numerical distinction by which this Theonic essence is not another.
