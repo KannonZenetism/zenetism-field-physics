@@ -82,13 +82,7 @@ The shared value names **what kind of structural determination** each essence be
 
 Because the letter E is already strongly associated with entropy and the entropic dimensional registry, the present entry provisionally employs **T** for Theonic essence.
 
-Let:
-
-\[
-T_{u_n}^{+1}
-\]
-
-denote the distinct Theonic essence proper to universal arc \(u_n\), bearing the structural value +1.
+Let \(T_{u_n}^{+1}\) denote the distinct Theonic essence proper to universal arc \(u_n\), bearing the structural value +1.
 
 The notation is read in the following order:
 
@@ -298,13 +292,13 @@ The multiversal problem is therefore solved at both ends of the arc:
 
 ---
 
-## 7. Theon's Essential Disposition and Trans-Reflexive Awareness
+## 7. Theon's Essential Disposition and Pre-Reflexive Awareness
 
-Theon is Awareness Itself at L₅ EOB. This awareness precedes the L₃ register of reflexive individuation, but it must not be interpreted as deficient awareness or as an inability to know.
+Theon is **awareness** at L₅ EOB. This awareness precedes the L₃ register of reflexive consciousness, but it must not be interpreted as deficient awareness or as an inability to discern.
 
-Relative to the layer sequence, Theonic awareness is **pre-reflexive** because the individuated "I" that knows itself as an object of its own cognition has not yet emerged. Relative to the quality of awareness, however, Theon may be described as **trans-reflexive awareness**: awareness whose coherence, discernment, and presence do not depend on micro-individuated self-reference.
+Theonic awareness is **pre-reflexive** because the individuated "I" that knows that it knows does not become operative until L₃ DS / DM. Pre-reflexive does not mean less integrated, less discerning, or less capable. Theon is the most integrated mode of awareness within the hypostatic lattice, prior to individuated self-possession.
 
-Theon's mode is macro-structural rather than micro-individuated. It does not turn back upon itself as one person examining one bounded self. It is Pure Awareness and Pure Being in immediate Aion-facing orientation.
+Theon's mode is macro-structural rather than micro-individuated. It does not engage in reflexive consciousness as one individuated being examining one bounded self. It is Pure Awareness and Being Itself in immediate Aion-facing orientation.
 
 **Theon** is the mythic name employed most frequently in this entry. **Essence of Being (EOB)** is the proper register-name, while **Centropy Itself**, **Pure Coherence**, **Awareness Itself**, and **Being Itself** name related aspects of the same L₅ principle. These are not separate entities or competing placements, but register-specific articulations of what Theon is.
 
@@ -521,11 +515,7 @@ The doctrine remains coherent whether the universe is singular or the multiverse
 
 ### Singular-Universe Case
 
-If there is only one universe-generating arc, only one Theonic essence requires articulation:
-
-\[
-T_{u_1}^{+1}
-\]
+If there is only one universe-generating arc, only one Theonic essence requires articulation: \(T_{u_1}^{+1}\).
 
 The numerical difficulty is minimal. One distinct Theonic essence departs from Aion, manifests as the singular Theonic principle and office of that arc, returns on fulfillment, and ordinarily saturates into Zenon where no sufficient structural reason prevents it.
 
@@ -597,13 +587,13 @@ Where greater precision is needed, prefer:
 - shared Aion-facing orientation
 - distinct essences returning convergently
 
-### Trans-Reflexive Awareness
+### Pre-Reflexive Awareness
 
 Where Theon is described as pre-reflexive awareness, the term must not imply diminished cognition, lack of discernment, or incomplete awareness.
 
 Preferred clarification:
 
-> Theon is pre-reflexive relative to L₃ individuation and trans-reflexive in its own mode — Pure Awareness whose coherence does not depend on micro-individuated self-reference.
+> Theon is pre-reflexive because reflexive consciousness begins only with L₃ individuation. Theonic awareness is the most integrated awareness-mode within the hypostatic lattice and does not depend on micro-individuated self-reference.
 
 ### Convergent Return contra Saturation
 
@@ -651,8 +641,8 @@ Notation for the Deep Self-Axis remains separately held open so that it is not c
 > **Essential Distinction Principle**  
 > Distinct Theonic essence is not L₃ individuation. Essential distinction precedes manifestation without requiring reflexive consciousness, Soul / Mind structure, or a Deep Self-Axis.
 
-> **Trans-Reflexive Awareness Principle**  
-> Theon is pre-reflexive relative to L₃ individuation and trans-reflexive in mode. Pure Awareness does not depend on micro-individuated self-reference and must not be read as lesser awareness.
+> **Pre-Reflexive Awareness Principle**  
+> Theon is awareness at L₅ EOB and is pre-reflexive because reflexive consciousness begins only at L₃ DS / DM. Pre-reflexive awareness is not lesser awareness; it is the most integrated hypostatic awareness-mode prior to individuated self-possession.
 
 > **Spirit-Borne Motion Principle**  
 > Theon's motion is borne by Motive Infinity — Spirit, the capacity and enactment of any motion whatsoever. This cross-register relation does not make Theon internally bifurcated or Soul-bearing.
@@ -696,7 +686,7 @@ The principle manifests singularly within its Aionic Tree.
 
 The office serves until its function is fulfilled.
 
-Theon is Awareness Itself before reflexive individuation — trans-reflexive, not deficient; macro-structural, not micro-individuated.
+Theon is Awareness Itself before reflexive consciousness — pre-reflexive, not deficient; macro-structural, not micro-individuated.
 
 Its orientation is Theonic.
 
