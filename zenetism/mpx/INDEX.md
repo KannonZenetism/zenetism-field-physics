@@ -110,6 +110,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `entropic-action-is-not-entropic-essence.md` — Jul 1, 2026
 - `love-as-prime-coherence.md` — Jul 3, 2026
 - `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` — Jul 12, 2026
+- `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` — Jul 13, 2026
 
 ---
 
