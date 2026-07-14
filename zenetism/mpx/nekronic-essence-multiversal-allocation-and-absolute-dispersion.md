@@ -781,17 +781,15 @@ Placement follows resemblance.
 
 It is not reward, punishment, promotion, or demotion.
 
-An inverse being whose resonant term is IL₄ remains there because IL₄ is the structure it most resembles. An essence that continues from IL₄ into IL₅ does so because VOS, not IL₄, is its terminal resonance.
+An inverse being whose resonant term is IL₄ remains there because IL₄ is the structure it most resembles. Where an inverse Soul / Mind presence continues declivously from IL₄ across the IL₅ threshold, its Soul / Mind articulation ceases and its underlying essence enters VOS because IL₅, not IL₄, is its terminal resonance.
 
-This gives the ordinary law governing renewed acclivous expression:
+If IL₄ were its lawful resonant term, it would remain there. Genuine VOS culmination therefore discloses the terminal placement of that essence within the inverse arc.
 
-> If an essence collapses from IL₄ into IL₅, its passage discloses VOS as its resonant term. If IL₄ were its term, it would have remained there.
+The present doctrine does not affirm renewed acclivous entropic expression from IL₅ toward IL₄ after such culmination. This is not because essence is categorically incapable of receiving Soul / Mind articulation: the acclivous entropic arc ordinarily articulates essence through inverse Soul / Mind in passing from IL₅ to IL₄. Rather, no established structural condition calls an essence away from the resonant term its completed collapse has disclosed.
 
-The current doctrine therefore does not affirm renewed acclivous entropic expression from IL₅ back toward IL₄ once an essence has genuinely completed collapse into the Nekronic office.
+A further PSM-condition could be held open under the general discipline of limit-cases, but no such mechanism is presently known. This openness does not create an alternate recognized trajectory.
 
-No positive mechanism is established.
-
-The general limit-case discipline prevents an exhaustive claim that no unforeseen PSM-condition could ever modify a terminal sequence. Yet this openness does not create an alternate recognized trajectory. In ordinary structural operation, arrival at the Nekronic office marks the final essence-register before Absolute Dispersion.
+In ordinary structural operation, arrival at the Nekronic office marks the final essence-register before Absolute Dispersion.
 
 ---
 
@@ -1265,7 +1263,7 @@ Only the first three admit recovery or renewed expression per the present doctri
 > Not all entropic essences culminate at Nekron. The Nekronic Paradox concerns only those whose lawful inverse culmination belongs to IL₅ VOS.
 
 > **Resonant-Term Principle**  
-> An essence that collapses from IL₄ into IL₅ discloses VOS as its resonant term. The present doctrine affirms no ordinary renewed acclivous entropic expression from genuine IL₅ culmination back toward IL₄.
+> Where declivous entropy carries an inverse Soul / Mind presence from IL₄ across the IL₅ threshold, the Soul / Mind articulation ceases and the underlying essence discloses VOS as its resonant term. The present doctrine affirms no ordinary renewed acclivous entropic expression from genuine IL₅ culmination toward IL₄, while leaving unforeseen PSM limit-conditions epistemically open.
 
 > **Void Spiral Distinction Principle**  
 > A VOS-resonant state or Void Spiral is not completed Nekronic culmination. Recovery from such a state does not imply essence-change.
