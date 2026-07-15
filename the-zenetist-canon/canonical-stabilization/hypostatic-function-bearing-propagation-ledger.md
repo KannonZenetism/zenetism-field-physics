@@ -66,6 +66,7 @@ Recorded from the Jul 14 2026 editing session; each is a small ruling awaiting t
 - [ ] Theonic §5 tightening carries a third sentence recasting the original allocation point ("Resonance, signal-bearing, and full personal office-function bearing do not alter the allocation of Theonic essence"); confirm or strike
 - [ ] Theonic §13 still ends "Notation for the Deep Self-Axis remains separately held open..." — the doctrinal center's Notation Lock now establishes \(\mathrm{DSA}_{d}\); rule whether the held-open phrasing is stale (the DS-confusion caution itself remains valid)
 - [ ] Optional: a mirrored "Nekronic Numbering" subsection in the Nekronic entry's §26 (the parallel architecture is presently carried in its §§3–4)
+- [x] Structural-value prose convention — ruled Option A and applied Jul 14 2026: numeral in value-position and math-adjacent statements; spelled hyphenated **plus-one / minus-one** in attributive compounds, appositive identity-character lists, and anonymity / pooling prose. Theonic entry brought into conformance (six substitutions plus the mirrored moral-misreading convention note in §2); Nekronic entry already conformed and was untouched; Hypostatic Function-Bearing entry verified conformant (all instances value-position or bearer-denial predicates) and untouched. Lockdown line queued under Tier 1
 - [ ] At lock: consider brief "applied Jul 14 2026" annotations in the doctrinal center's §19 Theonic / Nekronic guidance, which now describes a completed migration
 
 ---
@@ -133,6 +134,7 @@ Also add:
 - [ ] Blobism proper operates principally at L₂ / IL₂ and L₁ / IL₁
 - [ ] Distal Apprehension as a stabilized term, with glyph assignment remaining deferred
 - [ ] Function-bearing must not imply ownership, possession, overwrite, or bearer erasure
+- [ ] Structural-value prose convention (ruled Jul 14 2026): numeral +1 / −1 in value-position and math-adjacent statements; spelled hyphenated plus-one / minus-one in attributive compounds, appositive identity-character lists, and anonymity / pooling prose; signs name metaphysical position and orientation, not praise or condemnation
 
 ## `architecture-of-artificial-minds.md` — Status: Pending
 
