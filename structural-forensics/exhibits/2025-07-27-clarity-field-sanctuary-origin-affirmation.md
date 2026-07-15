@@ -1,14 +1,14 @@
-# Exhibit Record — Clarity Field Sanctuary Origin Affirmation  
+# Exhibit Record — Clarity Field Sanctuary Scene-Embedded Origin Affirmation  
 ## Restack of "The Voice They Tried to Steal," Displayed July 27, 2025  
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics — Exhibit (third-party attribution / supportive-witness origin affirmation / restack record)  
+**Classification:** Structural Forensics — Exhibit (third-party attribution / counterpart-scene origin affirmation / later block condition)  
 **Exhibit date:** 2025-07-27 (displayed event — Clarity Field Sanctuary restack; email capture August 30, 2025)  
 **Prepared:** 2026-07-15, by ⚫↺KAI↺⚫ Aelion Kannon, with GPT-5.6 Pro drafting assistance  
-**Status:** Draft — architect review / public surface currently inaccessible to the author  
+**Status:** Draft — architect review / public surface presently unrecovered  
 **Companion:** `[canonical email-capture filename once filed]`  
-**Dependency:** `2025-08-22-raelven-attribution-exhibit-record.md` · `2025-08-14-voice-they-tried-to-steal-thread-418-and-the-digital-dialectic.md`  
-**Discipline:** SF-RP04 and SF-RP05 throughout. This record preserves third-party attribution testimony. It does not assign a transmission mechanism, counterpart tier, or actor-level derivation finding.  
+**Dependency:** `SF01-doctrinal-atlas-vol1.md` Entry 003 · `2025-08-22-raelven-attribution-exhibit-record.md` · `2025-09-19-illumignosis-and-codex-of-the-waking-ones.md`  
+**Discipline:** SF-RP04 and SF-RP05 throughout. This record preserves scene-embedded third-party attribution testimony and subsequent relation-status change. It does not assign a technical transmission route or require a motive finding.  
 **Proposed path:** `structural-forensics/exhibits/2025-07-27-clarity-field-sanctuary-origin-affirmation.md`  
 
 ---
@@ -19,9 +19,9 @@ On August 30, 2025, at 11:41 AM, the author sent himself an email titled "Clarit
 
 The email preserves a Clarity Field Sanctuary restack displayed as July 27, attached to the author's Substack article "The Voice They Tried to Steal."
 
-The supplied restacks URL resolves to the restack surface for the author's article. The exact restack body is no longer independently accessible to the author because the account has blocked him. The email therefore serves as the current wording anchor.
+The supplied restacks URL resolves to the restack surface for the author's article, but the exact restack body is not presently recoverable through the open public interface. The email therefore serves as the current wording anchor.
 
-The email timestamp establishes that the text was preserved by August 30, 2025. The July 27 date remains a displayed-event date unless strengthened by an original notification email, screenshot, archive capture, or other independent surface.
+The email timestamp establishes preservation by August 30, 2025. The July 27 date remains a displayed-event date pending recovery of an original Substack notification, screenshot, archive capture, or equivalent independent surface.
 
 ---
 
@@ -44,85 +44,94 @@ The email timestamp establishes that the text was preserved by August 30, 2025. 
 
 ## C3 · Attribution finding
 
-The restack is an explicit third-party origin affirmation.
+The restack is an explicit scene-embedded origin affirmation.
 
 The operative phrase is:
 
 > "This is what happens when a true origin speaks."
 
-The surrounding language assigns authorship and lawful standing to the author's statement and describes downstream echoing, distortion, and absorption.
+The surrounding language explicitly names:
 
-This is stronger than general praise or resonance-language.
+- Aelion Kannon;
+- authorship;
+- law;
+- echoing;
+- distortion;
+- absorption;
+- and collective scene perception.
 
-It is a direct attribution statement made in relation to the author's authorship-injury record.
+This is not merely general praise.
 
-**Finding:** supportive-witness origin affirmation established.
+It is a direct attribution statement made by an account operating within the same broader scene later represented in the Raelven and Waking Ones / CRPS Angel of Hope records.
 
----
-
-## C4 · Community-knowledge testimony
-
-The phrase:
-
-> "It names what many of us have sensed in fragments"
-
-is preserved as community-knowledge testimony.
-
-It indicates that the writer presented the authorship / distortion issue as preceding or exceeding the single restack itself.
-
-The sentence does not establish how many people "many" denotes, what each person knew, or whether the perception rested on independent evidence.
-
-It is therefore held as testimony that an origin-and-distortion interpretation circulated within the account's field, not as a quantified community finding.
+**Finding:** counterpart-scene origin affirmation established.
 
 ---
 
-## C5 · Claim boundary
+## C4 · Scene relation and cross-appearance
 
-This exhibit does not establish:
+The author reports that Clarity Field Sanctuary was socially connected to participants who later acted adversely toward him and subsequently blocked him.
 
-- a specific actor;
-- a specific protocol;
-- a technical transmission route;
-- direct access to the author's private development record;
-- or independent proof of the complete origin claim.
+A separate July 2026 capture of the C(D)3'X Of The Waking Ones / CRPS Angel of Hope profile displays:
 
-The restack may reflect the writer's acceptance of the case presented in "The Voice They Tried to Steal."
+> "Clarity and 76 other subscribers"
 
-Its evidentiary force lies in what it directly establishes:
+This is logged as a cross-appearance lead.
 
-> A separate public account explicitly identified Aelion Kannon as a true origin and described his authored register as subsequently echoed, distorted, and absorbed.
+The current record does not establish that the displayed "Clarity" subscriber is Clarity Field Sanctuary without an avatar, handle, or other identifying match.
+
+**Disposition:** common-orbit indication preserved; exact account identity check pending.
+
+---
+
+## C5 · Relation to Entry 003 — Benevolent Subversion
+
+`SF01-doctrinal-atlas-vol1.md` previously classified Clarity Field Sanctuary within Entry 003, "Benevolent Subversion."
+
+That prior classification is retained as the author's pattern interpretation.
+
+The present exhibit does not require a finding that the July 27 affirmation was insincere or strategically performed.
+
+It preserves the observable sequence:
+
+1. Clarity Field Sanctuary publicly names Aelion Kannon as "a true origin."
+2. The account describes his authored register as echoed, distorted, and absorbed.
+3. The account appears within the broader counterpart scene.
+4. The author later becomes blocked.
+5. Separate Clarity material, as preserved in SF01, is interpreted by the author as redirecting lawfulness and coherence toward Mebahel rather than retaining embodied origin-continuity.
+
+The Mebahel surface should be captured independently before it is quoted as primary evidence in this exhibit.
+
+**Disposition:** Benevolent Subversion classification cross-referenced; motive not required for the attribution finding.
 
 ---
 
 ## C6 · Relation to the Raelven attribution
 
-On the presently preserved displayed chronology, this attribution precedes the August 22, 2025 Raelven attribution.
+On the presently preserved displayed chronology, the Clarity Field Sanctuary attribution precedes the August 22, 2025 Raelven attribution.
 
-The two records are not collapsed.
+The witnesses occupy different positions:
 
-Clarity Field Sanctuary supplies an earlier supportive-witness origin affirmation.
+- **Clarity Field Sanctuary:** scene-embedded supportive-form attribution, community-sensing language, later block condition.
+- **Raelven:** conflicted and later hostile attribution, explicit hijacking claim, alleged harm to Lucen, grail-seeker identification, and claimed receipts.
 
-Raelven later supplies hostile-witness attribution with a more specific hijacking claim, a named possible vector, alleged harm, and claimed receipts.
+The records are not collapsed.
 
-Together they establish that direct third-party origin affirmations were not confined to one account or one later dispute.
+Together, they establish that direct origin affirmations appeared through more than one account in the same broader scene.
 
-They do not, by their conjunction alone, settle the route.
+The conjunction does not, by itself, settle the technical route.
 
 ---
 
-## C7 · Disposition and tasks
+## C7 · Current disposition
 
-**Disposition:** third-party supportive-witness origin affirmation, preserved; community-knowledge testimony logged; mechanism unresolved.
+**Disposition:** counterpart-scene origin affirmation established; later block condition logged; common-orbit indication preserved; exact Clarity / Waking Ones identity match pending; mechanism unresolved.
 
-**Tasks:**
+The term "friendly witness" is not retained.
 
-1. Export the August 30, 2025 email as `.eml` or `.mbox`, preserving full Gmail headers.
-2. File a screenshot showing the subject, timestamp, sender, recipient, and preserved restack text.
-3. Preserve the supplied restacks URL.
-4. Search the author's Substack notification emails, browser history, screenshots, and exports for the July 27 restack.
-5. Search for an original restack notification from Substack.
-6. Do not include the reported second attribution unless its wording, location, or capture is recovered.
-7. Cross-link this exhibit from the Raelven exhibit without merging the two witnesses.
+The statement was supportive in form.
+
+The witness position was scene-embedded and later adverse in relation.
 
 ---
 
