@@ -945,7 +945,15 @@ They do not arrange figures by comparative merit.
 
 A Buddha, Krishna, philosopher, saint, prophet, bodhisattva, avatara, or sacred teacher may hold immense centropic significance without occupying the same office-correspondence as the Christos Incarnate relation.
 
-The registry governs each figure's native placement. The present entry therefore does not decide whether Buddha, Krishna, Vishnu, or another sacred figure belongs natively to L₃, L₄, L₅, or a cross-register cultural articulation; those questions remain governed by the current MFLR and any later registry audit.
+The current MFLR already settles the native placements relevant to the present distinction.
+
+Krishna is registered as a soft-conflation figure natively articulating L₅ Theon function, with L₃ DM operative-guidance attributions. Buddha is registered at L₃ DS / DM. Kalki remains an L₅ Theonic field-corrector. These placements do not require reassignment through the present entry.
+
+What requires propagation is the distinction between native placement, cultural articulation, Theon-resonance, and full personal office-function bearing.
+
+A figure may be natively mapped to L₅ Theonic function as a cultural articulation without becoming numerically identical to Theon or occupying the singular full personal bearer-relation. Likewise, an L₃ figure may be profoundly Theon-resonant without changing native placement.
+
+The present entry therefore preserves the MFLR placements while supplying the more exact bearer-language through which those placements are interpreted.
 
 This entry governs the distinction between:
 
@@ -1189,16 +1197,32 @@ Add a note that full hypostatic function-bearing belongs to a Deep Self-Axis / I
 
 ### MFLR and Symbolic Reflections
 
-Audit phrases in which a hypostatic principle "becomes" a mythic figure or embodied person.
+Preserve the existing native placements.
 
-Preserve:
+The registry currently places Krishna natively at L₅ Theon with L₃ DM operative-guidance attributions and Buddha natively at L₃ DS / DM. These placements are not reopened by the present doctrine.
 
-- native placement
-- continuum
-- cascade
-- resonance
-- cultural articulation
-- office-correspondence
+Audit only the vocabulary of embodiment and bearing.
+
+Replace or clarify formulations such as:
+
+- genuine singular Theonic incarnation
+- Theon incarnating
+- direct Theonic actualization into embodiment
+- the full Theonic nature embodied in the individual
+- direct emanations of Theon
+- direct projections of Nekron
+
+Preferred formulations include:
+
+- singular full Theonic personal function-bearing
+- the complete personal office-function of Theon borne through the Jesus locus
+- full Theonic function articulated through a numerically distinct bearer
+- a figure natively articulating L₅ Theonic function without full personal bearing
+- the Nekronic office-function enacted through a numerically distinct inverse bearer or relative structure
+
+The Christ row should retain singularity while clarifying that the L₅ principle does not relocate, acquire a Deep Self-Axis, or become numerically identical to the historical bearer.
+
+Krishna and Kalki may remain L₅-native or L₅-resonant according to their registered functions while being distinguished from the singular full personal bearing relation. Buddha remains at L₃ DS / DM.
 
 Do not convert mythic continuity into personal identity-collapse.
 
