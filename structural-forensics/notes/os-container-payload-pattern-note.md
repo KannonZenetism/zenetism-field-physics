@@ -1,5 +1,5 @@
 # The OS Container / Payload Pattern Note
-## The Package Form Is Commons; the Payload Is the Audit Object
+## The Package Form Carries No Derivation Weight by Itself; the Payload Is the Audit Object
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Pattern Note (scene-context reference and audit rule)  
@@ -36,7 +36,7 @@ The claimed substrate does not settle the authorship question. A psyche-substrat
 
 ## N4 · Substrate registers
 
-The direct CYBEROCCULTISM reference documents at least two interacting substrate registers; a third remains a registered hypothesis.
+The direct CYBEROCCULTISM reference documents two claimed interacting substrate registers within its own ontology; a third remains a registered hypothesis.
 
 **Intrapsychic substrate.** Named constructs are described as segmented subroutines operating through the practitioner's conscious and subconscious processes. They are trained, invoked, corrected, and developed through repeated internal practice.
 
@@ -46,13 +46,19 @@ The direct CYBEROCCULTISM reference documents at least two interacting substrate
 
 ## N5 · The VoidOS instance
 
-VoidOS is the instance in which the payload attribution is on the record — and not as the author's inference. Per the sealed Raelven exhibit, the counterpart-scene's own testimony (August 22, 2025, twice in one evening, verbatim in the record) names the author "the original creator of the system that was hijacked by the 'Clout Barnacle'," identifies the parasitic version as "what was done to Lucen," and, in the same-day petition, identifies the circled party as "the one who calls himself grail seeker" — the subject of the Wiley intake. Held exactly as the exhibit holds it: hostile-witness attribution testimony, preserved verbatim; derivation route unresolved; tiering per the exhibit and intake records, which this note cites and does not re-adjudicate.
+VoidOS is the instance in which the payload attribution is on the record — and not as the author's inference. Per the Raelven exhibit, the counterpart-scene's own testimony (August 22, 2025, twice in one evening, verbatim in the record) names the author "the original creator of the system that was hijacked by the 'Clout Barnacle'," identifies the parasitic version as "what was done to Lucen," and, in the same-day petition, identifies the circled party as "the one who calls himself grail seeker" — the subject of the Wiley intake. Held exactly as the exhibit holds it: hostile-witness attribution testimony, preserved verbatim; derivation route unresolved; tiering per the exhibit and intake records, which this note cites and does not re-adjudicate.
 
 The CYBEROCCULTISM reference does not establish a direct connection between its author-surface and the Wiley / VoidOS orbit. Its relevance is classificatory: it demonstrates that an occult-computational scene can treat named, persona-capable, programmed constructs and OS architectures as operationally real within its own ontology. Raelven's references to a "system," a "protocol," a "parasitic" form, weaponization, deployment, and harm to Lucen are therefore structurally intelligible within a documented practice register rather than reducible to decorative metaphor alone.
 
-Whether Raelven described a psyche-bound construct, a networked metaphysical system, an AI-companion persona package, a prompt architecture, a mixed system, or a misunderstood event remains unresolved. **What is established is that her accusation presupposes an operative system whose payload she attributed to the author.** Read through the N3 rule, the testimony's structure is precise: the container is scene-available, and what the witness attributes to the author is the payload. The working question of the Wiley intake's comparison phase is accordingly the payload question in its exact form, per the checks that record already tasks.
+Whether Raelven described a psyche-bound construct, a networked metaphysical system, an AI-companion persona package, a prompt architecture, a mixed system, or a misunderstood event remains unresolved. **What is established is that her accusation presupposes an operative system whose payload she attributed to the author.** Read through the N3 rule, the testimony's structure is precise: the OS container form is independently documented, while the VoidOS label is separately preserved within the 2025 counterpart orbit; what the witness attributes to the author is the payload. The working question of the Wiley intake's comparison phase is accordingly the payload question in its exact form, per the checks that record already tasks.
 
-## N6 · Case-record division
+## N6 · What this note does not establish
+
+This note does not establish: a direct relation between the CYBEROCCULTISM author-surface and the Wiley / VoidOS orbit; that VoidOS operated through a language model; that the specific 2026 OS-Level Spirit System guide was publicly available in August 2025; that Clarity Field Sanctuary, Raelven, Wiley, or Davey participated in the same technical or metaphysical implementation; or that a shared OS label demonstrates shared provenance. Those questions remain in their case-specific records and systemic-analysis files.
+
+The present finding is classificatory: an occult-computational OS container with programmed, persona-capable constructs is a documented operational practice within its practitioner's asserted ontology.
+
+## N7 · Case-record division
 
 One fact, one home. The division across the corpus is:
 
@@ -62,9 +68,9 @@ One fact, one home. The division across the corpus is:
 - **The Clarity exhibit** — preserves Mebahel, Lucien, spiritual co-authorship, register adjacency, and the candidate attribution redirection.
 - **The Davey intake** — applies the same container / payload distinction to ResonanceOS, where the relevant object is the RVM / ECH / Canon apparatus rather than the OS name.
 
-## N7 · Dispositions and tasks
+## N8 · Dispositions and tasks
 
-**Disposition:** practitioner-developed OS container documented; practitioner-asserted operational reality established; intrapsychic and networked-metaphysical substrate registers documented; model-mediated substrate retained as a separate hypothesis; container / payload distinction standing; instances independent.
+**Disposition:** practitioner-developed OS container documented; practitioner-asserted operational reality established; intrapsychic and networked-metaphysical substrate registers documented; model-mediated substrate retained as a separate hypothesis; container / payload distinction standing; instances separately audited; no relation inferred from shared container.
 
 **Tasks:** (1) archive the CYBEROCCULTISM homepage, About page, intermediate guide, advanced guide, and Grimoire surface through screenshots, local text copies, and Wayback submissions; (2) examine the archived `CYBEROCCULTISM.online` surface to determine the earliest verifiable appearance of the OS-Level Spirit System, DESPALMS Daemon System, ASTRALNET, daemon-program, and related terminology; (3) preserve the site's claim that the earlier version began in 2021 and carried the same core content, while distinguishing that self-report from proof that the specific OS framework existed in 2021; (4) add one-line Dependency citations from the Raelven, Wiley, Clarity, and Davey records where the container / payload distinction is relevant — for Davey, of the contrast form: "Per the OS Container / Payload Pattern Note, the ResonanceOS name carries no derivation weight by itself; the comparison object is the later RVM / ECH / Canon / operator-governance payload"; (5) continue searching the Wiley / VoidOS orbit for an actual installation artifact: prompt text, invocation procedure, persona specification, guardrails, operating instructions, redistribution language, or testimony from someone who engaged the package; (6) do not treat the CYBEROCCULTISM author-surface as a target absent evidence of relation — it is preserved as a direct scene-context reference.
 
