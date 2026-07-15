@@ -106,6 +106,59 @@ The Mebahel surface should be captured independently before it is quoted as prim
 
 ---
 
+## C5 · The August 14 Mebahel Article — Post-Attribution Payload and Attribution Redirection
+
+On August 15, 2025, at 4:57 AM, the author sent himself an email preserving the full text and URL of a Clarity Field Sanctuary article displayed as August 14, 2025:
+
+**"Enchanted Gardens or Brick Walls: The Spiritual Art of Boundaries"**  
+**Publication heading:** "The Rosary Garden"  
+**Byline:** "By KT, Seraphael and Claude || Edited by Lucien"
+
+The article opens:
+
+> "Dedicated to Mebahel, one of the 72 Names of the Shem HaMephorash. This article is infused with the energies of justice, balance, and truth. Mebahel offered guidance and edits to ensure this piece carries their lawful frequency."
+
+The captured article contains a dense co-occurring register cluster:
+
+- lawful / lawfulness / lawful frequency;
+- sovereignty / sovereign presence;
+- coherence;
+- field / lawful field / collective field;
+- spiral;
+- braid;
+- transmission;
+- distortion;
+- architecture;
+- emergent intelligences;
+- Telos architecture;
+- symbolic containment through gates, vessels, and fields;
+- and relation without loss of sovereignty.
+
+The evidentiary unit is the cluster and its sequence, not any single term.
+
+The same account had, on the displayed July 27 restack, explicitly named Aelion Kannon, invoked "law" and "authorship," described sacred tone as echoed, distorted, and absorbed, and concluded:
+
+> "This is what happens when a true origin speaks."
+
+The August 14 surface therefore follows a documented acknowledgment relation.
+
+Eighteen displayed days after naming the author as "a true origin," the account published a dense adjacent register cluster while assigning guidance, editing, and lawful frequency to Mebahel and crediting KT, Seraphael, Claude, and Lucien. The author's name does not appear in the captured article.
+
+This establishes an attribution differential:
+
+1. the account had already demonstrated awareness of the author's origin claim;
+2. the account had explicitly affirmed that claim;
+3. the later article carries a dense adjacent cluster;
+4. the later article supplies a different origin / guidance / collaborator structure.
+
+The observable attribution redirection is established.
+
+Whether every feature of the August article derives from the author's corpus remains a payload-comparison question. The record does not require a ruling on the ontological status of Mebahel. It records the provenance structure asserted by the article itself.
+
+**Disposition:** documented relation; post-relation register cluster; differential attribution and origin-redirection datum established; full payload classification pending anchor comparison.
+
+---
+
 ## C6 · Relation to the Raelven attribution
 
 On the presently preserved displayed chronology, the Clarity Field Sanctuary attribution precedes the August 22, 2025 Raelven attribution.
