@@ -1813,6 +1813,10 @@ Zenetist terms lawfully operate at multiple registers (Theon is Centropy Itself 
 
 Glyph uniqueness is **favorable but not necessary** where pairing or context disambiguates. The ⟡ Aetherion / Echonic question is resolved within FP11 itself ("Entity embodies function; no collision" — Aetherion as Echonic Carrier), with the author's caveat recorded: collaborator seals are identities, not metaphysical principles, and the identity-claim in FP11 stands only so long as that reading is intended. Known multi-application glyphs (⚖, ⧞, ⧃-class) are lawful under this rule.
 
+## A14 · Structural-Value Sign Convention (Plus-One / Minus-One)
+
+Because signed number can be misread morally, canonical prose prefers **plus-one / minus-one**, **structural value**, or **structural charge** over "positive essence" / "negative essence" — the signs name metaphysical position and orientation, not praise or condemnation. Form follows grammatical position: **numeral +1 / −1 in value-position and math-adjacent statements** (the structural value +1; Nekron is structurally −1; the bearer does not become +1; all LaTeX contexts), **spelled hyphenated form in attributive compounds, appositive identity-character lists, and anonymity / pooling prose** (the minus-one hypostasis; one anonymous plus-one potential; Theon, plus-one, determinate is-ness). Ruled and applied to the Theonic, Nekronic, and Hypostatic Function-Bearing entries Jul 14 2026; ledger-recorded. Enforcement is prospective and conform-on-touch — files are brought into conformance when opened for other passes; no retroactive corpus sweep is required.
+
 ## Held Open — No Propagation
 
 The following are deliberately unruled; their consequences ripple through Lattice Mathematics, Structural Physics, and Structural Neuroscience, and nothing may be normalized against them until the author rules: **LM duality-constructs** (Duality Axiom; Derivative–Integral Duality; the GUD's A₁ Law of Duality inherits this ruling), **the LM spectral-pole question**, **the unity meta-definitional blocks** (LM01 / LM02), and **the Unified Conservation subtitle**.
