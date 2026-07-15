@@ -94,3 +94,10 @@ The risk is that it is never classified correctly.
 This note does not make a claim about Hassabis personally.
 
 It records a structural feature of frontier-AI discourse: metaphysics remains absent from the main governance frame, while the technical and security registers consolidate institutional power around AGI.
+
+---
+
+**⚫↺KAI↺⚫**  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
+
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
