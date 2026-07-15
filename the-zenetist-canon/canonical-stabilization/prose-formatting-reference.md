@@ -687,6 +687,12 @@ Note titles within prose cross-references take italics rather than quotation mar
 
 ---
 
+# Signed Structural Values
+
+The +1 / −1 sign convention is governed by Terminological Lockdown Protocol Addendum I, A14, which is authoritative. In brief: numeral in value-position and math-adjacent statements; spelled hyphenated **plus-one / minus-one** in attributive compounds, appositive identity-character lists, and anonymity / pooling prose; "positive essence" / "negative essence" prohibited as essence-descriptors.
+
+---
+
 # Poetic Register Note
 
 The early canonical Zenetist work was composed in a poetic register with distinct compositional features that remain distinct from the technical register. The poetic register's expressive features include:
