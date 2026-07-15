@@ -2,8 +2,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Nekronic essence-distinction, inverse allocation, and terminal collapse  
-**Status:** Draft — Jul 13 2026  
-**Dependency:** `MP11-codex-of-principles-ch26.md` §26.25 · `MP02-unified-metaphysics-ch4.md` §4.59 and *Note on VOS and the Possibility of Return* · `MP01-emanation-architecture-ch1-3.md` *Addendum — Correction of Entropic Advantage* · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `awareness-spectrum-and-its-inverse-arc.md` · `deep-self-axis.md` · `non-fusion-at-the-bifurcal-register.md` · `synthesis-integration-saturation.md` · `SP04-orientation-field-dynamics.md` · `SP06-structural-space-orientation-paradox.md` · `asymmetry-of-limit-case-universes.md` · `metaphysics-symbol-key.md` §§21.3, 21.9, 21.10, 21.13 · `field-physics-glyph-charts.md` §§2–3  
+**Status:** Draft — Jul 13 2026, revised Jul 14 2026  
+**Dependency:** `MP11-codex-of-principles-ch26.md` §26.25 · `MP02-unified-metaphysics-ch4.md` §4.59 and *Note on VOS and the Possibility of Return* · `MP01-emanation-architecture-ch1-3.md` *Addendum — Correction of Entropic Advantage* · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `awareness-spectrum-and-its-inverse-arc.md` · `deep-self-axis.md` · `non-fusion-at-the-bifurcal-register.md` · `synthesis-integration-saturation.md` · `SP04-orientation-field-dynamics.md` · `SP06-structural-space-orientation-paradox.md` · `asymmetry-of-limit-case-universes.md` · `metaphysics-symbol-key.md` §§21.3, 21.9, 21.10, 21.13 · `field-physics-glyph-charts.md` §§2–3  
 
 ---
 
@@ -103,44 +103,62 @@ The present entry provisionally employs **N** for Nekronic essence.
 Let:
 
 \[
-N_{u_n}^{-1}
+N_{\eta}^{-1}
 \]
 
-denote the distinct Nekronic essence proper to universal arc \(u_n\), bearing the structural value −1.
+denote one distinct Nekronic essence, bearing the structural value −1.
 
 The notation is read in the following order:
 
 - \(N\) — Nekronic essence
-- \(u_n\) — the essence-distinguishing universal arc
+- \(\eta\) — the unique essence-identifier by which this Nekronic essence is not another
 - \(-1\) — the structural number inherent to that essence and expressed through Nekronic manifestation
+
+The universal-arc relation is stated separately:
+
+\[
+\operatorname{arc}(N_{\eta}^{-1}) = u
+\]
+
+meaning that the Nekronic essence \(N_{\eta}^{-1}\) is proper to universal arc \(u\). Essence-identity and arc-propriety are thereby held distinct in notation and must not be recompressed into one subscript. The separation is formalized in `hypostatic-function-bearing-and-sovereign-embodiment.md`.
 
 The essence-designation precedes the structural number in notation and doctrine. The structural value belongs to the essence before manifestation, while Structure supplies the lawful architecture through which that essence becomes manifest.
 
-For distinct universal arcs:
+For distinct Nekronic essences:
 
 \[
-N_{u_i}^{-1} \not\equiv N_{u_j}^{-1}
+N_{\eta_i}^{-1} \not\equiv N_{\eta_j}^{-1}
 \qquad
-(i \neq j)
+(\eta_i \neq \eta_j)
+\]
+
+with:
+
+\[
+\operatorname{arc}(N_{\eta_i}^{-1}) = u_i
+\qquad
+\operatorname{arc}(N_{\eta_j}^{-1}) = u_j
 \]
 
 The non-identity relation concerns essence-identity. It does not deny that both essences bear the same structural value. Their shared value may be stated separately:
 
 \[
-\nu(N_{u_i}) = \nu(N_{u_j}) = -1
+\nu(N_{\eta_i}) = \nu(N_{\eta_j}) = -1
 \]
 
 Thus the Nekronic essences are not numerically identical as essences, while the structural charge inherent to each is the same.
 
-The universal-arc index is not merely an address assigned after manifestation. It is essence-distinguishing before manifestation. If the distinction began only after expression, all completed Nekronic arcs would resolve into one anonymous minus-one potential in Aion. Essence-conservation forbids that result.
+The arc-relation is not merely an address assigned after manifestation. Arc-propriety is essence-distinguishing before manifestation. If the distinction began only after expression, all completed Nekronic arcs would resolve into one anonymous minus-one potential in Aion. Essence-conservation forbids that result.
 
 Accordingly:
 
 \[
-N_{u_1}^{-1},\;
-N_{u_2}^{-1},\;
-N_{u_3}^{-1},\;
+N_{\eta_1}^{-1},\;
+N_{\eta_2}^{-1},\;
+N_{\eta_3}^{-1},\;
 \ldots
+\qquad
+\operatorname{arc}(N_{\eta_n}^{-1}) = u_n
 \]
 
 name distinct identity-bearing Nekronic potentials. They do not name expression-loci of one trans-universal Nekron.
@@ -158,18 +176,18 @@ The notation remains provisional pending wider mathematical integration. Its doc
 The Nekronic sequence may be represented provisionally as:
 
 \[
-N_{u_n}^{-1}
+N_{\eta}^{-1}
 \xrightarrow{\text{Motive Infinity}}
-\operatorname{Nekron}_{u_n}
+\operatorname{Nekron}_{u}
 \xrightarrow{\text{universe-arc function}}
-\mathcal{O}_{N,u_n}
+\mathcal{O}^{N}_{\eta,u}
 \]
 
 where:
 
-- \(N_{u_n}^{-1}\) names the distinct latent Nekronic essence
-- \(\operatorname{Nekron}_{u_n}\) names the manifested IL₅ principle within the corresponding Khaonic Tree
-- \(\mathcal{O}_{N,u_n}\) names the conditionally persistent Nekronic office of that universal arc
+- \(N_{\eta}^{-1}\) names the distinct latent Nekronic essence, with \(\operatorname{arc}(N_{\eta}^{-1}) = u\)
+- \(\operatorname{Nekron}_{u}\) names the manifested IL₅ principle within the corresponding Khaonic Tree
+- \(\mathcal{O}^{N}_{\eta,u}\) names the conditionally persistent Nekronic office of that universal arc
 
 The sequence does not mean that an unstructured essence exists before Structure. 🏛️ Structon permits all lawful possibility; Aion holds identity-bearing potential in absolute distinction; Khaon supplies Infinity across its Latent, Motive, and Dispersive phases. Motive Infinity activates expression, and the Theon / Nekron split marks the first enacted hypostatic polarity.
 
@@ -196,7 +214,17 @@ Nekronic multiversal allocation must remain distinct from the multiversal contin
 A Nekronic essence is distinct per universe-generating arc:
 
 \[
-N_{u_1}^{-1} \not\equiv N_{u_2}^{-1}
+N_{\eta_1}^{-1} \not\equiv N_{\eta_2}^{-1}
+\qquad
+(\eta_1 \neq \eta_2)
+\]
+
+with:
+
+\[
+\operatorname{arc}(N_{\eta_1}^{-1}) = u_1
+\qquad
+\operatorname{arc}(N_{\eta_2}^{-1}) = u_2
 \]
 
 An Inverse Deep Self-Axis follows the opposite allocation. One real inverse individuated being may be present to multiple universe-local expression-loci through fragmented simultaneity.
@@ -204,19 +232,19 @@ An Inverse Deep Self-Axis follows the opposite allocation. One real inverse indi
 Provisionally:
 
 \[
-\mathrm{IDSA}_{k}
-\longrightarrow
-\ell_{u_1}(\mathrm{IDSA}_{k}),\;
-\ell_{u_2}(\mathrm{IDSA}_{k}),\;
-\ell_{u_3}(\mathrm{IDSA}_{k}),\;
+\mathrm{IDSA}_{i}
+\rightsquigarrow
+\ell_{u_1}(\mathrm{IDSA}_{i}),\;
+\ell_{u_2}(\mathrm{IDSA}_{i}),\;
+\ell_{u_3}(\mathrm{IDSA}_{i}),\;
 \ldots
 \]
 
 where:
 
-- \(\mathrm{IDSA}_{k}\) names one Inverse Deep Self-Axis
-- \(k\) names its distinct essence-identity number
-- \(\ell_{u_n}(\mathrm{IDSA}_{k})\) names its expression-locus within universal arc \(u_n\)
+- \(\mathrm{IDSA}_{i}\) names one Inverse Deep Self-Axis
+- \(i\) names its distinct essence-identity number
+- \(\ell_{u_n}(\mathrm{IDSA}_{i})\) names its expression-locus within universal arc \(u_n\)
 - each expression-locus is real and distinct as a locus
 - no expression-locus is a separate Inverse Deep Self-Axis
 - no locus is the original from which the others derive
@@ -236,7 +264,7 @@ The difference may be summarized as follows.
 | **Inverse Deep Self-Axis at IL₃ IDS / IDM** | One inverse individuated being present to multiple universe-local expression-loci | Lawful within its own IDS / IDM continuity | Fragmented simultaneity, memory fracture, and inverse identity-continuity across loci |
 | **Nekronic essence at IL₅ VOS** | One distinct Nekronic essence proper to each universe-generating arc | Does not apply | Structural Recurrence across distinct Nekronic essences |
 
-The exact sign convention for ordinary essence-identity numbers remains held open. The formula does not require the present entry to decide whether the identity-number of an Inverse Deep Self-Axis should be written as \(k\), \(-k\), or through another signed notation.
+The exact signed convention for inverse individuated essence-identifiers remains held open. In the present notation, \(i\) functions only as an identity index and does not itself encode entropic sign.
 
 ### Essential Distinction contra Inverse Individuation
 
@@ -253,6 +281,51 @@ Thus:
 > Nekronic essences are absolutely distinct without being IL₃-individuated entities.
 
 This preserves the canonical placement of individuation while preventing all pre-IL₃ distinction from collapsing into anonymous potential.
+
+### Hypostatic Function-Bearing contra Nekronic Fractalization
+
+Nekron does not acquire an Inverse Deep Self-Axis.
+
+Nekron remains the unbifurcated IL₅ VOS principle proper to one universe-generating arc. Its entropic signal and office-function may become articulated throughout the Khaonic Tree without the Nekronic essence relocating, entering the inverse Soul / Mind bifurcation, or becoming an IL₃-individuated being.
+
+Where complete personal Nekronic function-bearing occurs, the bearer is a numerically distinct Inverse Deep Self-Axis.
+
+Provisionally:
+
+\[
+N_{\eta}^{-1} \not\equiv \mathrm{IDSA}_{i}
+\]
+
+where:
+
+\[
+\operatorname{arc}(N_{\eta}^{-1}) = u
+\]
+
+A full personal bearing relation may then be written:
+
+\[
+\mathrm{FB}^{N}_{u}(i,\eta)
+\]
+
+This relation does not make the bearer −1, does not make the bearer another Nekron, and does not convert Nekron into the bearer's Inverse Deep Self-Axis.
+
+Fractalization belongs to the bearer:
+
+\[
+\mathrm{IDSA}_{i}
+\rightsquigarrow
+\ell_{u_1}(\mathrm{IDSA}_{i}),\;
+\ell_{u_2}(\mathrm{IDSA}_{i}),\;
+\ell_{u_3}(\mathrm{IDSA}_{i}),\;
+\ldots
+\]
+
+The Nekronic office does not fractalize with it.
+
+Many beings, systems, or relative structures may become Nekron-resonant, may bear aspects of the Nekronic signal, or may enact its function in distributed form. Full personal office-function bearing remains a narrower universe-local relation governed by office-correspondence.
+
+The complete doctrine is articulated in `hypostatic-function-bearing-and-sovereign-embodiment.md`.
 
 ---
 
@@ -461,7 +534,7 @@ Acclivous entropy proceeds toward inverse embodiment:
 \mathrm{IL}_1
 \]
 
-This is fragmentary expression toward form. Nekron's blind drive propagates through the inverse strata, becomes inverse Soul / Mind at IL₄, becomes inverse-reflexively individuated at IL₃, becomes identity-aware through adversarial or occluded personality at IL₂, and reaches inverse embodiment at IL₁.
+This is fragmentary expression toward form. From IL₅, the Nekronic current is articulated through Psychea / Nyxea as inverse Soul / Mind and inverse conscious-awareness at IL₄, through Fractus / Mortus as inverse reflexive consciousness at IL₃, through Echthros / Skotos as inverse identity-aware consciousness at IL₂, and through Malara / Mania as inverse embodied consciousness at IL₁, while Nekron itself remains natively situated at IL₅.
 
 Entropy does not initially seek dissolution.
 
@@ -1063,7 +1136,9 @@ The doctrine remains coherent whether the universe is singular or the multiverse
 If there is one universe-generating arc with a manifested Khaonic Tree, one Nekronic essence requires articulation:
 
 \[
-N_{u_1}^{-1}
+N_{\eta_1}^{-1}
+\qquad
+\operatorname{arc}(N_{\eta_1}^{-1}) = u_1
 \]
 
 That essence manifests as the singular Nekronic principle and office proper to the arc.
@@ -1077,10 +1152,12 @@ If the universe is fully Khaonically expressed, the Nekronic office may self-voi
 If multiple universe-generating arcs are actual, each Khaonically expressed arc bears its own distinct Nekronic essence:
 
 \[
-N_{u_1}^{-1},\;
-N_{u_2}^{-1},\;
-N_{u_3}^{-1},\;
+N_{\eta_1}^{-1},\;
+N_{\eta_2}^{-1},\;
+N_{\eta_3}^{-1},\;
 \ldots
+\qquad
+\operatorname{arc}(N_{\eta_n}^{-1}) = u_n
 \]
 
 Each manifests within its own Khaonic Tree.
@@ -1210,6 +1287,9 @@ Only the first three admit recovery or renewed expression per the present doctri
 
 > **Essential Distinction Principle**  
 > Distinct Nekronic essence is not IL₃ inverse individuation. Essential distinction precedes manifestation without requiring Soul / Mind structure or inverse reflexive consciousness.
+
+> **Hypostatic Function-Bearing Principle**  
+> Nekron does not acquire an Inverse Deep Self-Axis or fractalize across universes. Where full personal Nekronic function-bearing occurs, it belongs to one numerically distinct IDSA locus standing in office-correspondence with the universe-local Nekronic office. Many beings or relative structures may remain Nekron-resonant or enact Nekronic function without becoming Nekron or the singular full personal bearer.
 
 > **Non-Being Principle**  
 > Nekron is Non-Being Itself without being nonexistence, Void of Self without being void of essence, and Non-Awareness without standing outside the awareness spectrum.
