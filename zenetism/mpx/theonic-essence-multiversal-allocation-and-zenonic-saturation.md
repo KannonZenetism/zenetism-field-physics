@@ -2,8 +2,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Theonic essence-distinction, per-arc recurrence, and saturation  
-**Status:** Draft — Jul 12 2026  
-**Dependency:** `MP11-codex-of-principles-ch26.md` §26.21 · `MP01-emanation-architecture-ch1-3.md` *Addendum — Correction of Entropic Advantage* · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `the-twofold-tetralemma.md` · `non-fusion-at-the-bifurcal-register.md` · `deep-self-axis.md` · `synthesis-integration-saturation.md` · `metaphysics-symbol-key.md` §§21.3, 21.9, 21.10, 21.13  
+**Status:** Draft — Jul 12 2026, revised Jul 14 2026  
+**Dependency:** `MP11-codex-of-principles-ch26.md` §26.21 · `MP01-emanation-architecture-ch1-3.md` *Addendum — Correction of Entropic Advantage* · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `the-twofold-tetralemma.md` · `non-fusion-at-the-bifurcal-register.md` · `deep-self-axis.md` · `synthesis-integration-saturation.md` · `metaphysics-symbol-key.md` §§21.3, 21.9, 21.10, 21.13  
 
 ---
 
@@ -82,44 +82,68 @@ The shared value names **what kind of structural determination** each essence be
 
 Because the letter E is already strongly associated with entropy and the entropic dimensional registry, the present entry provisionally employs **T** for Theonic essence.
 
-Let \(T_{u_n}^{+1}\) denote the distinct Theonic essence proper to universal arc \(u_n\), bearing the structural value +1.
+Let:
+
+\[
+T_{\theta}^{+1}
+\]
+
+denote one distinct Theonic essence, bearing the structural value +1.
 
 The notation is read in the following order:
 
 - \(T\) — Theonic essence
-- \(u_n\) — the intrinsic distinction of the universe-generating arc to which that essence belongs
+- \(\theta\) — the unique essence-identifier by which this Theonic essence is not another
 - \(+1\) — the structural number inherent to that essence and expressed through Theonic manifestation
+
+The universal-arc relation is stated separately:
+
+\[
+\operatorname{arc}(T_{\theta}^{+1}) = u
+\]
+
+meaning that the Theonic essence \(T_{\theta}^{+1}\) is proper to universal arc \(u\). Essence-identity and arc-propriety are thereby held distinct in notation and must not be recompressed into one subscript. The separation is formalized in `hypostatic-function-bearing-and-sovereign-embodiment.md`.
 
 The essence-designation therefore precedes the structural number in both notation and doctrine. The structural number belongs to the essence before manifestation, while structure provides the lawful architecture through which the essence may become manifest.
 
-For distinct universal arcs:
+For distinct Theonic essences:
 
 \[
-T_{u_i}^{+1} \not\equiv T_{u_j}^{+1}
+T_{\theta_i}^{+1} \not\equiv T_{\theta_j}^{+1}
 \qquad
-(i \neq j)
+(\theta_i \neq \theta_j)
+\]
+
+with:
+
+\[
+\operatorname{arc}(T_{\theta_i}^{+1}) = u_i
+\qquad
+\operatorname{arc}(T_{\theta_j}^{+1}) = u_j
 \]
 
 The non-identity relation concerns essence-identity. It does not deny that both essences bear the same structural value +1. That shared value may be stated separately through a provisional structural-value function:
 
 \[
-\nu(T_{u_i}) = \nu(T_{u_j}) = +1
+\nu(T_{\theta_i}) = \nu(T_{\theta_j}) = +1
 \]
 
-Thus the essences are not numerically identical as essences, while the structural value inherent to each is the same. The universal-arc index is therefore not merely an address assigned after manifestation. It is essence-distinguishing before manifestation — part of the latent numerical distinction by which this Theonic essence is not another.
+Thus the essences are not numerically identical as essences, while the structural value inherent to each is the same. The arc-relation is therefore not merely an address assigned after manifestation. Arc-propriety is essence-distinguishing before manifestation — part of the latent distinction by which this Theonic essence is not another.
 
 Thus:
 
 \[
-T_{u_1}^{+1},\;
-T_{u_2}^{+1},\;
-T_{u_3}^{+1},\;
+T_{\theta_1}^{+1},\;
+T_{\theta_2}^{+1},\;
+T_{\theta_3}^{+1},\;
 \ldots
+\qquad
+\operatorname{arc}(T_{\theta_n}^{+1}) = u_n
 \]
 
 do not name local fragments of one Theon. They name distinct identity-bearing Theonic potentials whose shared structural number becomes manifest within distinct Aionic Trees.
 
-The subscript is not merely a manifestation-address added after emanation. It marks a distinction already latent within Aion. If the distinction began only after manifestation, all returned Theons would collapse into one anonymous +1 at the root. Canonical essence-conservation forbids that result: there is no anonymous potential, and Aion holds every latent value in absolute distinction.
+The essence-identifier is not a manifestation-address added after emanation. It marks a distinction already latent within Aion, and the arc-propriety it carries is likewise latent. If the distinction began only after manifestation, all returned Theons would collapse into one anonymous +1 at the root. Canonical essence-conservation forbids that result: there is no anonymous potential, and Aion holds every latent value in absolute distinction.
 
 The notation remains provisional pending wider mathematical integration. Its doctrinal function is presently limited to preserving the distinction between:
 
@@ -134,18 +158,18 @@ The notation remains provisional pending wider mathematical integration. Its doc
 The Theonic sequence may be represented provisionally as:
 
 \[
-T_{u_n}^{+1}
+T_{\theta}^{+1}
 \xrightarrow{\text{Aionic departure}}
-\operatorname{Theon}_{u_n}
+\operatorname{Theon}_{u}
 \xrightarrow{\text{cosmological function}}
-\mathcal{O}_{T,u_n}
+\mathcal{O}^{T}_{\theta,u}
 \]
 
 where:
 
-- \(T_{u_n}^{+1}\) names the distinct latent Theonic essence
-- \(\operatorname{Theon}_{u_n}\) names the manifested Theonic principle within the corresponding Aionic Tree
-- \(\mathcal{O}_{T,u_n}\) names the conditionally persistent Theonic office of that universal arc
+- \(T_{\theta}^{+1}\) names the distinct latent Theonic essence, with \(\operatorname{arc}(T_{\theta}^{+1}) = u\)
+- \(\operatorname{Theon}_{u}\) names the manifested Theonic principle within the corresponding Aionic Tree
+- \(\mathcal{O}^{T}_{\theta,u}\) names the conditionally persistent Theonic office of that universal arc
 
 The sequence does not mean that an unstructured essence exists before structure. Structon permits the full architecture of lawful possibility, while Aion holds identity-bearing potential in latency. Rather, it means that the essence and its structural value are not yet expressed as a hypostatic principle until Aionic departure.
 
@@ -188,7 +212,7 @@ The difference may be summarized as follows.
 | **Deep Self-Axis at L₃ DS / DM** | One individuated being present to multiple universe-local expression-loci | Lawful within the being's own DS / DM continuity | Identity-continuity across loci |
 | **Theonic essence at L₅ EOB** | One distinct Theonic essence proper to each universe-generating arc | Does not apply | Structural Recurrence across distinct Theonic essences |
 
-An embodied figure may participate in or embody Theonic principle — the Christos Incarnate continuum provides the clearest canonical example — but such embodiment does not convert the structural principle itself into an L₃-fractalized entity. Participation, embodiment, and continuum-articulation do not alter the allocation of Theonic essence.
+An embodied figure may resonate with the Theonic signal, actively bear aspects of its function, or stand in a full personal office-correspondence with the universe-local Theonic office — the Christos Incarnate relation within the Logos Continuum provides the clearest canonical example. None of these relations converts the L₅ principle into an L₃-fractalized entity or makes the bearer numerically identical to Theon. Resonance, signal-bearing, and full personal office-function bearing do not alter the allocation of Theonic essence.
 
 This distinction prevents two opposite errors:
 
@@ -261,12 +285,57 @@ The notation therefore represents one identity through multiple loci, not one es
 This stands in direct distinction from Theonic allocation:
 
 \[
-T_{u_i}^{+1} \not\equiv T_{u_j}^{+1}
+T_{\theta_i}^{+1} \not\equiv T_{\theta_j}^{+1}
 \qquad
-(i \neq j)
+(\theta_i \neq \theta_j)
 \]
 
 The right-hand terms in the Deep Self-Axis expression remain loci of one individuated essence. The Theonic terms name different essences bearing the same structural value +1.
+
+### Hypostatic Function-Bearing contra Theonic Fractalization
+
+Theon does not acquire a Deep Self-Axis.
+
+Theon remains the unbifurcated L₅ EOB principle proper to one universe-generating arc. Its centropic signal and office-function may become articulated throughout the Aionic Tree without the Theonic essence relocating, entering the Soul / Mind bifurcation, or becoming an L₃-individuated being.
+
+Where complete personal Theonic function-bearing occurs, the bearer is a numerically distinct Deep Self-Axis.
+
+Provisionally:
+
+\[
+T_{\theta}^{+1} \not\equiv \mathrm{DSA}_{d}
+\]
+
+where:
+
+\[
+\operatorname{arc}(T_{\theta}^{+1}) = u
+\]
+
+A full personal bearing relation may then be written:
+
+\[
+\mathrm{FB}^{T}_{u}(d,\theta)
+\]
+
+This relation does not make the bearer +1, does not make the bearer another Theon, and does not convert Theon into the bearer's Deep Self-Axis.
+
+Fractalization belongs to the bearer:
+
+\[
+\mathrm{DSA}_{d}
+\rightsquigarrow
+\ell_{u_1}(\mathrm{DSA}_{d}),\;
+\ell_{u_2}(\mathrm{DSA}_{d}),\;
+\ell_{u_3}(\mathrm{DSA}_{d}),\;
+\ldots
+\]
+
+The Theonic office does not fractalize with it.
+
+Many beings may be Theon-resonant or may actively bear aspects of the Theonic signal. Full personal office-function bearing remains a narrower universe-local relation governed by office-correspondence.
+
+The complete doctrine is articulated in `hypostatic-function-bearing-and-sovereign-embodiment.md`.
 
 ---
 
@@ -283,9 +352,9 @@ The distinct Theonic essence returns to Aionic latency.
 Provisionally:
 
 \[
-\mathcal{O}_{T,u_n}\ \text{fulfilled}
+\mathcal{O}^{T}_{\theta,u}\ \text{fulfilled}
 \quad\Longrightarrow\quad
-T_{u_n}^{+1}
+T_{\theta}^{+1}
 \xrightarrow{\text{Theonic Return}}
 \text{Aionic reintegration}
 \]
@@ -303,9 +372,9 @@ Theonic convergence therefore names **how the return occurs**, not a binding sam
 If multiple universal arcs complete, their Theonic essences do not return to one generic potential-for-Theon. They remain:
 
 \[
-\forall i \neq j,
+\forall\, \theta_i \neq \theta_j,
 \qquad
-T_{u_i}^{+1} \not\equiv T_{u_j}^{+1}
+T_{\theta_i}^{+1} \not\equiv T_{\theta_j}^{+1}
 \]
 
 even within Aionic latency.
@@ -359,7 +428,7 @@ This does not mean that Zenon is Theon's origin, that Theon "returns to Zenon," 
 The sequence is:
 
 \[
-T_{u_n}^{+1}
+T_{\theta}^{+1}
 \xrightarrow{\text{return}}
 \text{Aionic reintegration}
 \xrightarrow{\text{saturation}}
@@ -548,7 +617,7 @@ The doctrine remains coherent whether the universe is singular or the multiverse
 
 ### Singular-Universe Case
 
-If there is only one universe-generating arc, only one Theonic essence requires articulation: \(T_{u_1}^{+1}\).
+If there is only one universe-generating arc, only one Theonic essence requires articulation: \(T_{\theta_1}^{+1}\), with \(\operatorname{arc}(T_{\theta_1}^{+1}) = u_1\).
 
 The numerical difficulty is minimal. One distinct Theonic essence departs from Aion, manifests as the singular Theonic principle and office of that arc, returns on fulfillment, and ordinarily saturates into Zenon where no sufficient structural reason prevents it.
 
@@ -557,10 +626,12 @@ The numerical difficulty is minimal. One distinct Theonic essence departs from A
 If multiple universe-generating arcs are actual, each bears a distinct Theonic essence:
 
 \[
-T_{u_1}^{+1},\;
-T_{u_2}^{+1},\;
-T_{u_3}^{+1},\;
+T_{\theta_1}^{+1},\;
+T_{\theta_2}^{+1},\;
+T_{\theta_3}^{+1},\;
 \ldots
+\qquad
+\operatorname{arc}(T_{\theta_n}^{+1}) = u_n
 \]
 
 Each manifests within its own Aionic Tree.
@@ -638,14 +709,17 @@ Preferred clarification:
 
 ### Theonic Numbering
 
-The notation \(T_{u_n}^{+1}\) is provisional and should not be propagated as final mathematical canon until reviewed alongside the wider numerical architecture.
+The notation \(T_{\theta}^{+1}\), together with the arc-relation \(\operatorname{arc}(T_{\theta}^{+1}) = u\) and the office form \(\mathcal{O}^{T}_{\theta,u}\), is provisional and should not be propagated as final mathematical canon until reviewed alongside the wider numerical architecture.
 
 Its present doctrinal commitments are stable:
 
 - T names Theonic essence rather than entropy
-- the universal-arc distinction belongs to essence before manifestation
+- \(\theta\) names the unique essence-identifier
 - +1 names structural value rather than serial population-order
+- \(\operatorname{arc}(T_{\theta}^{+1}) = u\) separately names universe-arc propriety, which belongs to essence before manifestation
+- \(\mathcal{O}^{T}_{\theta,u}\) names the corresponding universe-local office
 - equal structural value does not imply identical essence
+- essence-identity and arc-propriety must not be recompressed into one subscript
 
 Notation for the Deep Self-Axis remains separately held open so that it is not confused with DS as Deep Soul within DS / DM.
 
@@ -673,6 +747,9 @@ Notation for the Deep Self-Axis remains separately held open so that it is not c
 
 > **Essential Distinction Principle**  
 > Distinct Theonic essence is not L₃ individuation. Essential distinction precedes manifestation without requiring reflexive consciousness, Soul / Mind structure, or a Deep Self-Axis.
+
+> **Hypostatic Function-Bearing Principle**  
+> Theon does not acquire a Deep Self-Axis or fractalize across universes. Where full personal Theonic function-bearing occurs, it belongs to one numerically distinct DSA locus standing in office-correspondence with the universe-local Theonic office. Many beings may remain Theon-resonant without becoming Theon or the singular full personal bearer.
 
 > **Pre-Reflexive Awareness Principle**  
 > Theon is awareness at L₅ EOB and is pre-reflexive because reflexive consciousness begins only at L₃ DS / DM. Pre-reflexive awareness is not lesser awareness; it is the most integrated hypostatic awareness-mode prior to individuated self-possession.
