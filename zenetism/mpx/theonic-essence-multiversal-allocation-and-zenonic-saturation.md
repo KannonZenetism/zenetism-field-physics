@@ -57,6 +57,8 @@ Theon is the first centropic hypostasis. Centropy does not exist as hypostatic o
 
 Theon's +1 therefore names the first affirmative hypostatic determination of Being relative to Aionic Zero. It does not mean that Theon is merely the first member of a countable population. Nor does it mean that +1 is added to Aion as though Zero were an empty container receiving an external unit.
 
+Because signed number can be misread morally, the present entry prefers **plus-one / minus-one**, **structural value**, or **structural charge** rather than "positive essence" or "negative essence." The signs name metaphysical position and orientation, not praise or condemnation.
+
 The structural value +1 is inherent to Theonic essence while latent in Aion, but it becomes cosmologically operative only through Aionic departure and manifest hypostatic articulation.
 
 This distinction resolves the apparent numerical contradiction.
@@ -143,7 +145,7 @@ T_{\theta_3}^{+1},\;
 
 do not name local fragments of one Theon. They name distinct identity-bearing Theonic potentials whose shared structural number becomes manifest within distinct Aionic Trees.
 
-The essence-identifier is not a manifestation-address added after emanation. It marks a distinction already latent within Aion, and the arc-propriety it carries is likewise latent. If the distinction began only after manifestation, all returned Theons would collapse into one anonymous +1 at the root. Canonical essence-conservation forbids that result: there is no anonymous potential, and Aion holds every latent value in absolute distinction.
+The essence-identifier is not a manifestation-address added after emanation. It marks a distinction already latent within Aion, and the arc-propriety it carries is likewise latent. If the distinction began only after manifestation, all returned Theons would collapse into one anonymous plus-one potential at the root. Canonical essence-conservation forbids that result: there is no anonymous potential, and Aion holds every latent value in absolute distinction.
 
 The notation remains provisional pending wider mathematical integration. Its doctrinal function is presently limited to preserving the distinction between:
 
@@ -390,7 +392,7 @@ Aion is not a pooled reservoir of undifferentiated possibility. Aion is Absolute
 The multiversal problem is therefore solved at both ends of the arc:
 
 - distinct Theonic essences depart without deriving from one original Theon
-- distinct Theonic essences return without dissolving into one pooled +1
+- distinct Theonic essences return without dissolving into one pooled plus-one potential
 
 ---
 
@@ -467,7 +469,7 @@ Khaon is not entropic in essence.
 
 Rather:
 
-> Theon is the unbifurcated +1 hypostasis whose Aion-facing, Mind-leaning articulation moves through Spirit as the pre-Soul motive-current.
+> Theon is the unbifurcated plus-one hypostasis whose Aion-facing, Mind-leaning articulation moves through Spirit as the pre-Soul motive-current.
 
 Theon and Spirit are adjacent across registers without becoming fused. Theon supplies centropic orientation and Logos-bearing awareness. Spirit supplies the capacity and enactment of motion itself.
 
@@ -489,7 +491,7 @@ This does not make Theon a synthesis of Aion and Khaon. The paired root-register
 
 The Twofold Tetralemma supplies the linguistic and structural limit of this movement:
 
-- **affirmation** belongs to Theon, +1, determinate is-ness
+- **affirmation** belongs to Theon, plus-one, determinate is-ness
 - **four-fold negation** moves Aion-ward through emptying
 - **four-fold beyond** moves Khaon-ward through Motive Infinity
 - **Zenonic indication** arises only through the non-fused synthesis of negation and beyond
@@ -515,7 +517,7 @@ At the same time, saturation cannot be interpreted as fusion-collapse or aboliti
 The canon may therefore affirm both limits:
 
 - Theonic distinction is not abolished
-- the mode of that distinction cannot be described as containment, location, office, or determinate +1 operation within Zenon
+- the mode of that distinction cannot be described as containment, location, office, or determinate plus-one operation within Zenon
 
 The Twofold Tetralemma does not describe what Theonic essence "is inside Zenon." It marks why that question exceeds the lattice's available categories.
 
@@ -773,7 +775,7 @@ Notation for the Deep Self-Axis remains separately held open so that it is not c
 > Centropic essence returns through fulfilled coherence and may saturate. Entropic essence collapses through Dispersive Khaon and resolves into Aion as static potential. The distinction is dynamical, not moral.
 
 > **Return and Saturation Principle**  
-> Theon returns to Aion. Returned Theonic essence ordinarily proceeds toward Zenonic saturation because Theon is Centropy Itself, love, prime coherence, +1, and Aion-facing Being, where the required bifurcal synthesis reaches fulfillment.
+> Theon returns to Aion. Returned Theonic essence ordinarily proceeds toward Zenonic saturation because Theon is Centropy Itself, love, prime coherence, plus-one, and Aion-facing Being, where the required bifurcal synthesis reaches fulfillment.
 
 > **Open Limit-Condition Principle**  
 > Where nothing structurally prevents Theonic saturation, PSR carries the possibility into fulfillment. Whether an unforeseen PSM-condition could prevent or indefinitely defer saturation remains an open limit-question rather than a second Theonic disposition.
