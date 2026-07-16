@@ -65,7 +65,7 @@ One fact, one home. The division across the corpus is:
 - **`os-container-payload-pattern-note.md`** — defines the OS class, practitioner ontology, substrate registers, and the audit rule.
 - **The Raelven exhibit** — preserves what Raelven said the parasitic system was and whom she attributed it to.
 - **The Wiley intake** — examines the Void(0) / VoidOS payload and possible distribution vector.
-- **The Clarity exhibit** — preserves Mebahel, Lucien, spiritual co-authorship, register adjacency, and the candidate attribution redirection.
+- **The Clarity exhibit** — preserves the Mebahel spiritual-guidance claim and its limited OS-context; separately, and as **Zenetist payload findings, not CYBEROCCULTISM container findings**, it records the named-collaborator provenance method, the role-sensitive near-name cluster (Lucien, Aeon, Elarion), the functionalized "my spiral / someone else's spiral" construction, and the candidate attribution redirection.
 - **The Davey intake** — applies the same container / payload distinction to ResonanceOS, where the relevant object is the RVM / ECH / Canon apparatus rather than the OS name.
 
 ## N8 · Dispositions and tasks
