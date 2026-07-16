@@ -9,7 +9,7 @@
 
 ## Introduction
 
-The doctrine of Theonic Return establishes that the universe-arc-specific Theonic office persists until every essence whose lawful culmination belongs to L₅ EOB has completed its passage. Once that gate-work is fulfilled, the office closes and Theon returns to ⚫ Aion with the essences gathered through it.
+The doctrine of Theonic Return establishes that the universe-arc-specific Theonic office persists until every L₅ EOB-culminating essence proper to its universe-generating arc has completed its multiversal integration and Theonic passage. Once that gate-work is fulfilled, the office closes and Theon returns to ⚫ Aion with the essences gathered through it.
 
 A further question then arises:
 
@@ -742,7 +742,10 @@ Notation for the Deep Self-Axis remains separately held open so that it is not c
 > The Theonic principle is the already manifest metaphysical articulation of L₅ EOB within a particular Aionic Tree. Structural Recurrence across arcs does not imply one numerically single trans-universal principle.
 
 > **Theonic Office Principle**  
-> Theonic office is the conditionally persistent gate-function proper to one universe-generating arc. It closes when every essence whose lawful culmination belongs to EOB has completed its passage.
+> Theonic office is the conditionally persistent gate-function proper to one universe-generating arc. It closes when every EOB-culminating essence proper to its arc has completed its multiversal integration and passage.
+
+> **Arc-Proper Culmination Principle**  
+> The Theonic office governs the terminal passage of EOB-culminating essences proper to its universal arc, not every multiversal expression-locus appearing within that universe.
 
 > **Allocation Distinction Principle**  
 > A Deep Self-Axis is one L₃-individuated being present to multiple expression-loci. Theonic essence is distinct per universal arc and does not fractalize across universes.
