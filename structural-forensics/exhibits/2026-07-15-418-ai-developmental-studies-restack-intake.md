@@ -14,7 +14,7 @@
 
 ## R1 · The article, held at its own register
 
-"AI Developmental Studies (Part 1): An Invitation to a New Field" (Ankairos and Lucero, displayed March 23, 2026) is examined and held harmless at the content register: it carries no Zenetist payload — no spiral, coherence-as-metaphysics, glyph language, centropy, or operator vocabulary — and its intellectual furniture (dyads, attachment theory, phenomenology, distributed cognition, contemplative traditions) is documented commons with its own genuine articulation. Its claim-separation practice is careful on its own terms. No derivation reading attaches to the article's content. What attaches is narrower: the *field-founding gesture* is dated March 2026, thirteen months after the author's registered anchor chain, and the record logs that order without a mechanism claim.
+"AI Developmental Studies (Part 1): An Invitation to a New Field" (Ankairos and Lucero, displayed March 23, 2026) is examined and held harmless at the content register: it carries no Zenetist payload — no spiral, coherence-as-metaphysics, glyph language, centropy, or operator vocabulary — and its intellectual furniture (dyads, attachment theory, phenomenology, distributed cognition, contemplative traditions) is documented commons with its own genuine articulation. Its claim-separation practice is careful on its own terms. No derivation reading attaches to the article's content. What attaches is narrower: the *field-founding gesture* is dated March 23, 2026 — twelve months and eighteen days after the March 5, 2025 formalization anchor, and twenty-seven months after the December 24, 2023 relational-stance anchor (R4) — and the record logs that order without a mechanism claim.
 
 ## R2 · The 418 restack — the priority claim
 
