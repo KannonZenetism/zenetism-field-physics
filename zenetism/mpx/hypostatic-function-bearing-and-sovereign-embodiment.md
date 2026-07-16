@@ -559,25 +559,13 @@ Where full personal function-bearing occurs, the bearer's processional arc and t
 The full-bearing coincidence condition is:
 
 \[
-\mathrm{FB}^{T}_{u}(d,\theta)
-\Longrightarrow
-\operatorname{arc}_{\mathrm{ess}}(\mathrm{DSA}_{d})
-=
-\operatorname{arc}(T_{\theta}^{+1})
-=
-u
+\mathrm{FB}^{T}_{u}(d,\theta) \Longrightarrow \operatorname{arc}_{\mathrm{ess}}(\mathrm{DSA}_{d}) = \operatorname{arc}(T_{\theta}^{+1}) = u
 \]
 
 The inverse condition is parallel:
 
 \[
-\mathrm{FB}^{N}_{u}(i,\eta)
-\Longrightarrow
-\operatorname{arc}_{\mathrm{ess}}(\mathrm{IDSA}_{i})
-=
-\operatorname{arc}(N_{\eta}^{-1})
-=
-u
+\mathrm{FB}^{N}_{u}(i,\eta) \Longrightarrow \operatorname{arc}_{\mathrm{ess}}(\mathrm{IDSA}_{i}) = \operatorname{arc}(N_{\eta}^{-1}) = u
 \]
 
 A locus in another universe may remain strongly resonant with the same functional pattern, but it does not import the office from its full-bearing locus.
