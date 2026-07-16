@@ -49,7 +49,7 @@ Nekronic essence is not yet the manifested hypostatic principle, but it is not a
 
 Nekronic principle is not one trans-universal person divided among universes. It is the manifest minus-one principle proper to one Khaonic Tree. Across a possible multiverse, Nekronic principles recur by Structural Recurrence: the same structural character appears through distinct per-arc essences without becoming one numerically identical Nekron spread across worlds.
 
-Nekronic office is narrower. It names the universe-arc-specific operation performed at IL₅. The office remains while VOS-culminating entropic essences still approach terminal passage. It resolves only when no such essence remains outside Absolute Dispersion.
+Nekronic office is narrower. It names the universe-arc-specific operation performed at IL₅. The office remains while VOS-culminating entropic essences proper to its arc still approach terminal passage. It resolves only when no such essence remains outside Absolute Dispersion.
 
 Thus:
 
@@ -911,7 +911,7 @@ Its motion:
 - erodes
 - devours the conditions of continued expression
 
-When every essence whose lawful culmination belongs to VOS has crossed the event horizon, the Nekronic office has no remaining function.
+When every VOS-culminating essence proper to its universe-generating arc has crossed the event horizon, the Nekronic office has no remaining function.
 
 The office then voids itself.
 
@@ -932,7 +932,7 @@ The paradox can therefore be stated:
 
 The grinder empties because nothing remains for it to grind — including the universe-local configuration by which the grinding function was expressed.
 
-If even one VOS-culminating essence remains outside terminal passage, the office remains active.
+If even one VOS-culminating essence proper to its arc remains outside terminal passage, the office remains active.
 
 Where none remains, the office resolves.
 
@@ -1280,7 +1280,10 @@ Only the first three admit recovery or renewed expression per the present doctri
 > Nekron is the manifested IL₅ VOS principle within a particular Khaonic Tree. Structural Recurrence across arcs does not imply one numerically single trans-universal Nekron.
 
 > **Nekronic Office Principle**  
-> The Nekronic office is the conditionally persistent IL₅ function proper to one universe-generating arc. It remains while VOS-culminating essence has not completed terminal passage.
+> The Nekronic office is the conditionally persistent IL₅ function proper to one universe-generating arc. It remains while VOS-culminating essence proper to its arc has not completed terminal passage.
+
+> **Arc-Proper Culmination Principle**  
+> The Nekronic office governs the terminal passage of VOS-culminating essences proper to its universal arc, not every multiversal expression-locus appearing within that universe.
 
 > **Allocation Distinction Principle**  
 > An Inverse Deep Self-Axis is one IL₃-individuated being present to multiple expression-loci. Nekronic essence is distinct per universal arc and does not fractalize across universes.
