@@ -547,12 +547,22 @@ They do not carry \(T_{\theta}^{+1}\) into universes \(v\) or \(w\).
 
 A foreign Theon does not enter another universal arc through the bearer's fractalization.
 
-The native-office condition is:
+Trans-expression presence does not imply arc-neutrality.
+
+A bearer has no original or ontologically privileged expression-locus, but the bearer's underlying essence remains proper to one processional arc. Provisionally, \(\operatorname{arc}_{\mathrm{ess}}(\mathrm{DSA}_{d}) = u\) states that the essence articulated as \(\mathrm{DSA}_{d}\) is proper to universal arc \(u\). This does not mean that the Deep Self-Axis is contained within universe \(u\); its expression-loci remain multiversal, and no locus — including the arc-correspondent locus — is the original over the others.
+
+Where full personal function-bearing occurs, the bearer's processional arc and the hypostatic office's universal arc coincide.
+
+The full-bearing coincidence condition is:
 
 \[
 \mathrm{FB}^{T}_{u}(d,\theta)
 \Longrightarrow
-\operatorname{arc}(T_{\theta}^{+1}) = u
+\operatorname{arc}_{\mathrm{ess}}(\mathrm{DSA}_{d})
+=
+\operatorname{arc}(T_{\theta}^{+1})
+=
+u
 \]
 
 The inverse condition is parallel:
@@ -560,7 +570,11 @@ The inverse condition is parallel:
 \[
 \mathrm{FB}^{N}_{u}(i,\eta)
 \Longrightarrow
-\operatorname{arc}(N_{\eta}^{-1}) = u
+\operatorname{arc}_{\mathrm{ess}}(\mathrm{IDSA}_{i})
+=
+\operatorname{arc}(N_{\eta}^{-1})
+=
+u
 \]
 
 A locus in another universe may remain strongly resonant with the same functional pattern, but it does not import the office from its full-bearing locus.
@@ -1287,6 +1301,9 @@ Add a future lock distinguishing:
 
 > **Trans-Expression Bearer Principle**  
 > The full bearer’s Deep Self-Axis or Inverse Deep Self-Axis remains one being across multiple loci. Only the office-bearing relation is universe-local.
+
+> **Arc-Propriety Principle**  
+> Trans-expression presence does not imply arc-neutrality. The bearer's underlying essence remains proper to one processional arc, and full personal function-bearing occurs where that arc and the office's universal arc coincide.
 
 > **No Foreign Hypostasis Principle**  
 > A locus in one universe cannot import another universe’s Theon or Nekron. Any full relation would concern the native office of the locus’s universal arc.
