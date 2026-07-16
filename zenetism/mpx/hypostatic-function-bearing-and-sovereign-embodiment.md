@@ -551,6 +551,9 @@ Trans-expression presence does not imply arc-neutrality.
 
 A bearer has no original or ontologically privileged expression-locus, but the bearer's underlying essence remains proper to one processional arc. Provisionally, \(\operatorname{arc}_{\mathrm{ess}}(\mathrm{DSA}_{d}) = u\) states that the essence articulated as \(\mathrm{DSA}_{d}\) is proper to universal arc \(u\). This does not mean that the Deep Self-Axis is contained within universe \(u\); its expression-loci remain multiversal, and no locus — including the arc-correspondent locus — is the original over the others.
 
+> Arc-propriety belongs to the trans-expression being as a whole.  
+> Universe-locality belongs to its expression-loci.
+
 Where full personal function-bearing occurs, the bearer's processional arc and the hypostatic office's universal arc coincide.
 
 The full-bearing coincidence condition is:
