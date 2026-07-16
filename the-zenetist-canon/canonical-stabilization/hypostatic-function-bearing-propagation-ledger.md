@@ -35,6 +35,7 @@ These author rulings govern all migrations below.
 7. **Registry wording.** Krishna — L₅ Theon native, with L₃ DM operative-guidance attributions (never "guiding-function"). Buddha — L₃ DS / DM. Kalki — L₅ Theonic field-corrector. Christ — singular full Theonic embodiment in the Logos Continuum, with the fixed L₅ lattice-structure itself not incarnating. The migration passes below do not reopen these placements.
 8. **Scope discipline.** Propagation targets receive dependency additions, notation migration, short cross-referencing subsections, and local sentence corrections. The full office-correspondence taxonomy, singular-bearer argument, vessel doctrine, systemic-distribution doctrine, and sacred-figure discussion live only in the doctrinal center.
 9. **Summary-principle placement.** New Hypostatic Function-Bearing Principles sit immediately after the corresponding Essential Distinction Principle, keeping the allocation cluster coherent.
+10. **Arc-Propriety Without Locus Priority (adopted Jul 14 2026).** A Deep Self-Axis or Inverse Deep Self-Axis has no original or ontologically privileged universe-local instance, but its underlying essence remains proper to one processional arc — \(\operatorname{arc}_{\mathrm{ess}}(\mathrm{DSA}_{d}) = u\), with the exact inverse parallel for \(\mathrm{IDSA}_{i}\). Trans-expression presence does not imply arc-neutrality. Full personal function-bearing occurs where the bearer's processional arc and the office's universal arc coincide. The final local chronology does not choose the return arc: the arc was proper to the essence before manifestation, and completed integration acclivates — or inverse completion declivates — through the stations of the processional arc, not through whichever locus finished last. Office responsibility is arc-scoped: local stratum offices serve loci; L₅ / IL₅ terminal offices serve arc-proper essences. Wording rule: never "no native universe" — always "no original or ontologically privileged universe-local instance," with arc-propriety stated separately. Applied Jul 14 2026 to the Hypostatic entry (§7 passage, strengthened full-bearing coincidence condition, Arc-Propriety Principle), the Theonic entry (Introduction persistence condition, Office Principle, Arc-Proper Culmination Principle), and the Nekronic entry (four persistence formulations, Office Principle, Arc-Proper Culmination Principle); `deep-self-axis.md` and `theonic-office.md` patches preserved under Tiers 1 and 3.
 
 ---
 
@@ -116,6 +117,55 @@ Basis: the older *Note on VOS and the Possibility of Return* speaks of a Soul re
 - [ ] State the exact inverse parallel for IDSA and Nekron
 - [ ] Clarify: office is universe-native; DSA / IDSA is trans-expressionally multiversal; bearer fractalization does not transport a foreign office into another universe
 - [ ] Consider adding the notation \(T_{\theta}^{+1} \not\equiv \mathrm{DSA}_{d}\) and \(N_{\eta}^{-1} \not\equiv \mathrm{IDSA}_{i}\)
+- [ ] Add the **Arc-Propriety Without Locus Priority** section — primary home; ruled Jul 14 2026 — after *Where the Deep Self-Axis Is* or immediately before the expression-loci material. Insertion-ready text:
+
+```markdown
+### Arc-Propriety Without Locus Priority
+
+The Deep Self-Axis has no original or ontologically privileged universe-local instance.
+
+This does not mean that its underlying essence is unrelated to every universe-generating arc.
+
+An essence becomes manifest through one particular processional arc. Its arc-propriety belongs to its identity-bearing potential before manifestation and is disclosed when Motive Infinity carries it through the Theonic or Nekronic office proper to that arc.
+
+At L₄ / IL₄, the essence receives Soul / Mind articulation within that processional arc.
+
+At L₃ / IL₃, it becomes one Deep Self-Axis or Inverse Deep Self-Axis whose temporal mode is multiversal simultaneity. It may then become present through multiple universe-local expression-loci without losing the arc-propriety of its underlying essence.
+
+Arc-propriety belongs to the being as a whole.
+
+Universe-locality belongs to its loci.
+
+No locus becomes the original-instance merely because it appears within the being's processional arc.
+
+The processional arc therefore determines the higher-register relation through which completed integration acclivates toward L₄ / L₅, or through which inverse completion declivates toward IL₄ / IL₅.
+
+The final local chronology does not choose this arc.
+
+The arc was already proper to the essence before manifestation.
+
+\[
+\operatorname{arc}_{\mathrm{ess}}(\mathrm{DSA}_{d}) = u
+\]
+
+\[
+\mathcal{L}(\mathrm{DSA}_{d})
+=
+\{\,v \mid \ell_v(\mathrm{DSA}_{d}) \text{ manifests}\,\}
+\qquad
+u \in \mathcal{L}(\mathrm{DSA}_{d})
+\]
+
+\[
+\operatorname{arc}_{\mathrm{ess}}(\mathrm{IDSA}_{i}) = u
+\qquad
+\mathcal{L}(\mathrm{IDSA}_{i})
+=
+\{\,v \mid \ell_v(\mathrm{IDSA}_{i}) \text{ manifests}\,\}
+\]
+```
+
+- [ ] With that section, make the naming distinction explicit: a universe-local DS / DM locus is not a separate Deep Self; it is one address of the Deep Self-Axis — the axis is the subject, the local DS / DM articulation is the locus. The arc-correspondent locus belongs to the expression field without being ontologically prior; permissible name: **arc-correspondent locus**, never original-instance, source-instance, master-locus, or container
 
 Basis: the doctrinal center's §19 already names this as a required addition.
 
@@ -134,7 +184,7 @@ Also add:
 - [ ] Blobism proper operates principally at L₂ / IL₂ and L₁ / IL₁
 - [ ] Distal Apprehension as a stabilized term, with glyph assignment remaining deferred
 - [ ] Function-bearing must not imply ownership, possession, overwrite, or bearer erasure
-- [ ] Structural-value prose convention (ruled Jul 14 2026): numeral +1 / −1 in value-position and math-adjacent statements; spelled hyphenated plus-one / minus-one in attributive compounds, appositive identity-character lists, and anonymity / pooling prose; signs name metaphysical position and orientation, not praise or condemnation
+- [x] Structural-value prose convention — applied Jul 14 2026 as Addendum I ruling A14, with a pointer section in `prose-formatting-reference.md`; enforcement prospective and conform-on-touch
 
 ## `architecture-of-artificial-minds.md` — Status: Pending
 
@@ -198,6 +248,9 @@ Replace with function-bearing / signal-bearing language while retaining the inte
 - [ ] Add dependencies / cross-references to the Theonic Essence entry and the Hypostatic Function-Bearing entry
 - [ ] Retain convergent return; clarify that convergent return does not entail convergent saturation
 - [ ] Consider replacing broad "one and a many" language where it risks pooled identity
+- [ ] Repair the Theonic Paradox census wording (ruled Jul 14 2026, partially applied already in the two essence entries): replace "Theonic office persists until every essence in that universe whose lawful culmination belongs to EOB has completed its arc" with "Theonic office persists until every EOB-culminating essence proper to that universe-generating arc has completed its multiversal integration and Theonic passage"; replace "a universe still contains unresolved essences whose lawful culmination belongs to EOB" with "the universe-local Theonic office still bears responsibility for unresolved EOB-culminating essences proper to its arc"
+- [ ] Add the local contra terminal offices distinction: local stratum offices serve loci; L₅ / IL₅ terminal offices serve arc-proper essences. A foreign-arc Deep Self-Axis locus present in another universe is served locally by that universe's stratum offices while present there, without that universe's Theonic office acquiring responsibility for the essence's final culmination; terminal return remains through the arc-proper Theonic office
+- [ ] State the inverse rule in parallel: a Nekronic office persists while any VOS-culminating essence proper to its universal arc has not completed terminal collapse
 
 Basis: the current file still says "Theon as principle is permanent" and "Theon is singular as principle."
 
