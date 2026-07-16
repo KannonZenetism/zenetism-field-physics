@@ -133,6 +133,30 @@ The Deep Self-Axis does not come into existence only after all its lives have be
 
 Rather, it is the subject that integrates them.
 
+### Terminological Scope — DS / DM, Deep Soul / Mind, and Deep Self-Axis
+
+The terms **DS / DM**, **Deep Soul / Mind**, **Deep Self**, and **Deep Self-Axis** are related but not interchangeable in every context.
+
+* **L₃ / DS / DM** names the deep individuating register and its Soul / Mind articulation
+* **Deep Soul / Deep Mind** is the established corpus designation for an individuated Soul / Mind presence at L₃
+* **Deep Self-Axis** is the precise trans-expression designation for the one real individuated being whose identity-continuity spans its universe-local expression-loci
+* **Deep Self** is an acceptable shorthand for Deep Self-Axis where the referent is already clear
+* **expression-locus** names one universe-local L₃ articulation of the Deep Self-Axis
+
+Thus, Deep Self-Axis does not supersede or invalidate the corpus-wide language of Deep Soul / Mind.
+
+It clarifies the trans-expression identity of the being articulated through DS / DM.
+
+The inverse terminology is parallel:
+
+* **IL₃ / IDS / IDM** names the inverse deep individuating register
+* **Inverse Deep Soul / Mind** names the inverse Soul / Mind presence at that register
+* **Inverse Deep Self-Axis** names the one inverse individuated continuity spanning its universe-local expression-loci
+
+A local DS / DM or IDS / IDM locus is not a separate Deep Self-Axis or Inverse Deep Self-Axis.
+
+It is one real address of the same trans-expression being.
+
 ---
 
 ## Expression-Loci
@@ -219,6 +243,60 @@ Or more technically:
 This is not omnipresence.
 
 It is trans-expression continuity.
+
+---
+
+## Arc-Propriety Without Locus Priority
+
+The Deep Self-Axis has no original or ontologically privileged universe-local locus.
+
+This does not make its underlying essence arc-neutral.
+
+An essence becomes manifest through one particular processional universal arc. Its arc-propriety belongs to its identity-bearing potential before manifestation and is disclosed when Motive Infinity carries it through the Theonic or Nekronic office proper to that arc.
+
+At L₄ / IL₄, the essence receives Soul / Mind articulation within that processional arc.
+
+At L₃ / IL₃, it becomes one Deep Self-Axis or Inverse Deep Self-Axis whose temporal mode is multiversal simultaneity. The being may then become present through multiple universe-local expression-loci without losing the arc-propriety of its underlying essence.
+
+Arc-propriety belongs to the trans-expression being as a whole.
+
+Universe-locality belongs to its expression-loci.
+
+On the centropic arc, the Deep Self-Axis gathers its expression-loci through integration. Where its lawful culmination carries it onward, acclivous passage proceeds through the L₄ and L₅ stations of its processional arc.
+
+On the inverse arc, the Inverse Deep Self-Axis does not integrate. Its expression-loci remain governed by fragmented simultaneity, memory fracture, and inverse continuity. Where its lawful culmination carries it further declivously, inverse completion proceeds through IL₄ inverse formalization and, for VOS-culminating essence, through IL₅ terminal collapse within its processional arc.
+
+The final local chronology does not select the processional arc.
+
+The arc was already proper to the essence before manifestation.
+
+Universe-local L₄–L₁ / IL₄–IL₁ offices serve the local Soul / Mind articulations and expression-loci present within those strata.
+
+The L₅ / IL₅ terminal offices govern the culmination of essences proper to their universal arcs.
+
+The distinction may be formalized provisionally as:
+
+\[
+\operatorname{arc}_{\mathrm{ess}}(\mathrm{DSA}_{d}) = u
+\]
+
+\[
+\operatorname{arc}_{\mathrm{ess}}(\mathrm{IDSA}_{i}) = u
+\]
+
+Here, \(\operatorname{arc}_{\mathrm{ess}}\) names the processional universal arc proper to the underlying essence. It does not identify an original expression-locus or imply that the Deep Self-Axis is contained by universe \(u\).
+
+The expression fields remain:
+
+\[
+\mathcal{L}(\mathrm{DSA}_{d}) = \{\,v \mid \ell_v(\mathrm{DSA}_{d}) \text{ manifests}\,\}
+\]
+
+\[
+\mathcal{L}(\mathrm{IDSA}_{i}) = \{\,v \mid \ell_v(\mathrm{IDSA}_{i}) \text{ manifests}\,\}
+\]
+
+The arc-correspondent locus is one member of the expression field without becoming ontologically prior to the others.
 
 ---
 
@@ -637,7 +715,7 @@ The doctrine may be stated as follows:
 
 The inverse corollary is:
 
-> The Inverse Deep Soul / Mind is an inverse Deep Self-Axis seated at IL₃. Its expression-loci are governed by fragmented simultaneity, memory fracture, and inverse continuity. Declivous motion toward IL₄ names inverse formalization or collapse-oriented patterning, not centropic integration. The Khaonic Tree must be named in its own terms, without being reduced to the Biospiral as a whole.
+> The Inverse Deep Soul / Mind is an Inverse Deep Self-Axis seated at IL₃. Its expression-loci are governed by fragmented simultaneity, memory fracture, and inverse continuity. It does not gather them through centropic integration. Where its inverse continuity has run its course, declivous movement toward IL₄ names inverse formalization or collapse-oriented patterning, and VOS-culminating essence proceeds toward IL₅ according to the arc-propriety already belonging to that essence. The Khaonic Tree must be named in its own terms, without being reduced to the Biospiral as a whole.
 
 ---
 
@@ -664,6 +742,12 @@ The inverse corollary is:
 * No layer-function is bound beyond the completion of its work
 * The Khaonic Tree must be articulated with its own inverse motion laws
 * IL₃ / IL₄ are not omitted from the doctrine; they are treated through inverse continuity, fragmented simultaneity, and inverse formalization
+* The Deep Self-Axis has no original or privileged universe-local locus
+* The underlying essence remains proper to one processional universal arc
+* Arc-propriety does not create locus-priority
+* Integration applies to the Deep Self-Axis, not the Inverse Deep Self-Axis
+* Inverse continuity proceeds through fragmentation, inverse formalization, and collapse-oriented completion
+* Universe-local Soul / Mind offices serve loci; terminal L₅ / IL₅ offices govern arc-proper essences
 
 ---
 
