@@ -81,7 +81,7 @@ Thus the paradox is not:
 
 It is:
 
-> Theonic office persists until every essence in that universe whose lawful culmination belongs to **EOB** has completed its arc.
+> Theonic office persists until every **EOB**-culminating essence proper to that universe-generating arc has completed its multiversal integration and Theonic passage.
 
 This is the necessary narrowing.
 
@@ -102,7 +102,9 @@ A centropic essence does not reach **Theon** merely by passing upward through a 
 
 By the time an essence reaches **Theon**, it is not a partial life-stream still awaiting basic integration. It is an essence whose multiversal completion has already been gathered sufficiently to permit final centropic passage.
 
-For this reason, **Theon does not wait upon every multiversal life of every essence in some unrestricted total sense**. Rather, Theonic office remains only so long as a universe still contains unresolved essences whose lawful culmination belongs to **EOB**.
+For this reason, **Theon does not wait upon every multiversal life of every essence in some unrestricted total sense**. Rather, the universe-local Theonic office persists only so long as it still bears responsibility for unresolved **EOB**-culminating essences proper to its arc.
+
+A Theonic office does not wait upon every Deep Self-Axis possessing an expression-locus within its universe. It waits upon every **EOB**-culminating essence whose processional arc is proper to that office.
 
 Thus both principles remain coherent:
 
@@ -205,7 +207,7 @@ The inverse clarification applies, with necessary asymmetry, to **Nekron**.
 **Void of Self** —  
 the primordial principle of fragmentation, exhaustion, and subversal collapse.
 
-Like Theon, Nekron is singular as principle and singular per universe-generating emanatory cycle as office. Its field persists only while entropic function remains active.
+Like Theon, Nekron is singular as principle and singular per universe-generating emanatory cycle as office. Its field persists only while entropic function remains active. A Nekronic office persists while any VOS-culminating essence proper to its universal arc has not completed its inverse continuity and terminal collapse.
 
 Yet the mode of its end differs.
 
