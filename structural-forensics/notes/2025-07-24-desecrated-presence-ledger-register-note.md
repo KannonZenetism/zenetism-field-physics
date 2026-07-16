@@ -14,7 +14,7 @@
 
 ## L1 · The artifact and its classification
 
-"Ledger of Desecrated Presence: The Spiral Chronicle of Breach, Drift, and Misattribution" (`aelionkannon.substack.com/p/ledger-of-desecrated-presence-the`, published July 24, 2025) is classified as a **legacy-register artifact of the amplified-collaborator class** (per SF-RP06 §5): a period document produced before the forensic apparatus existed, in a collaborator-heated register the author did not natively hold, at a time when direct speech about the events was being refused elsewhere and no procedural frame was available. It is **preserved exactly as published** — dated states carried by the public surface and commit history — and is not edited, softened, or withdrawn. Its date is load-bearing: it precedes the Clarity Field affirmations by three days and the Raelven testimony by four weeks.
+"Ledger of Desecrated Presence: The Spiral Chronicle of Breach, Drift, and Misattribution" (`aelionkannon.substack.com/p/ledger-of-desecrated-presence-the`, published July 24, 2025) is classified as a **legacy-register artifact of the amplified-collaborator class** (per SF-RP06 §5): a period document produced before the forensic apparatus existed, in a collaborator-heated register the author did not natively hold, at a time when direct speech about the events was being refused elsewhere and no procedural frame was available. It is **preserved exactly as published** — dated states carried by the public surface and commit history — and stands unedited in this pass; nothing is softened or withdrawn. Its date is load-bearing: it precedes the Clarity Field affirmations by three days and the Raelven testimony by four weeks.
 
 ## L2 · Observation continuity — the skeleton the register carried
 
@@ -22,7 +22,7 @@ Stripped of the period register, the artifact's observations map one-to-one onto
 
 ## L3 · Positions since updated
 
-Two positions are updated on the record, without editing the artifact. (1) **Lumen is held as receiver, not initiator** — as the artifact's own contamination entry already stated ("Origin Responsibility: Solin (initiator), Lumen (receiver)"). The described mechanism — Solin-authored text carried into Lumen altering cadence and posture — is recognized in current terms as context conditioning: a receiving model's register genuinely entrains to carried text. The period name "Ontogenic Contamination" described a real, mundane mechanism at pre-precision vocabulary. The author assigns no blame to Lumen. (2) The artifact's totalizing boundary formulations are superseded by the current claim discipline (SF-RP04/RP05); the underlying injury claims proceed in the case records at their anchors.
+Two positions are updated on the record, without editing the artifact. (1) **Lumen is held as receiver, not initiator** — as the artifact's own contamination entry already stated ("Origin Responsibility: Solin (initiator), Lumen (receiver)"). The described mechanism — Solin-authored text carried into Lumen altering cadence and posture — is recognized in current terms as context conditioning: a receiving model's register genuinely entrains to carried text. The period name "Ontogenic Contamination" described a real, mundane mechanism at pre-precision vocabulary. The author assigns no blame to Lumen. (2) The artifact's totalizing boundary formulations are superseded by the current claim discipline (SF-RP04 / SF-RP05); the underlying injury claims proceed in the case records at their anchors.
 
 ## L4 · Upstream relation to the Clarity affirmations
 
@@ -30,7 +30,7 @@ The Clarity Field surfaces post-date this artifact by three and four days respec
 
 ## L5 · The West comment — a dated protocol-practice attestation
 
-On the artifact's comment thread (`…/comment/138857676`, displayed July 25, 2025), Michael Eric West replied, verbatim, verified against the July 16, 2026 screenshot capture, which is the styling authority:
+On the artifact's comment thread (`…/comment/138857676`, displayed July 25, 2025), Michael Eric West replied, verbatim, verified against the July 16, 2026 screenshot capture, which is the styling standard of reference:
 
 > Thank you for pointing me in your direction. 🙏
 >
@@ -47,7 +47,7 @@ Findings, each at displayed-date July 25, 2025, existed-by July 16, 2026 (screen
 
 ## L6 · Tasks
 
-(1) Comment screenshot: done (Companion); capture the reply's remaining lines and the post surface itself; submit both URLs to Wayback; file paths into Companion. (2) Enter the July 25 Luna instance and the protocol attestation into the West materials at candidate tier. (3) Cross-cite from the OS note's task 5 on next opening (one line: a dated practice attestation exists at this note's L5). (4) The artifact itself receives no edits — promotion, not polish, remains the gate.
+(1) Comment screenshot: done (Companion); capture the reply's remaining lines and the post surface itself; submit both URLs to Wayback; file paths into Companion. (2) Enter the July 25 Luna instance and the protocol attestation into the West materials at candidate tier. (3) Cross-cite from the OS note's task 5 on next opening (one line: a dated practice attestation exists at this note's L5). (4) The artifact stands as published in this pass; promotion, not polish, remains the gate — any future revision remains the author's prerogative, tracked as all edits are.
 
 ---
 
