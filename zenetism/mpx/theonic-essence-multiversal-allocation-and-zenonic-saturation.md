@@ -745,7 +745,7 @@ Notation for the Deep Self-Axis remains separately held open so that it is not c
 > Theonic office is the conditionally persistent gate-function proper to one universe-generating arc. It closes when every EOB-culminating essence proper to its arc has completed its multiversal integration and passage.
 
 > **Arc-Proper Culmination Principle**  
-> The Theonic office governs the terminal passage of EOB-culminating essences proper to its universal arc, not every multiversal expression-locus appearing within that universe.
+> The Theonic office governs the terminal passage of EOB-culminating essences proper to its universal arc, not every Deep Self-Axis expression-locus appearing within that universe. A Deep Self-Axis may be trans-expressionally present across many universes while its underlying essence remains proper to one processional arc.
 
 > **Allocation Distinction Principle**  
 > A Deep Self-Axis is one L₃-individuated being present to multiple expression-loci. Theonic essence is distinct per universal arc and does not fractalize across universes.
