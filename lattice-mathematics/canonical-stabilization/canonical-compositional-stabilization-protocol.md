@@ -496,6 +496,32 @@ Inline equations should remain reserved for:
 
 Overextended inline equations reduce compositional readability.
 
+## Markdown-Sensitive Line Discipline
+
+In GitHub-targeted Markdown, a source line consisting solely of `=` is read as a Setext level-one heading underline, and a line of one or more `-` as a Setext level-two underline or thematic break. Inside a `\[ ... \]` block, GitHub Flavored Markdown may apply this before math rendering, so the preceding equation line renders as oversized bold heading text.
+
+Therefore, within `\[ ... \]` blocks, an operator that is also a Markdown block marker — `=` or `-` — must not stand alone on a source line. Keep it on the same line as an adjacent token, or compact the equation onto a single line.
+
+Multi-line display equations remain permitted; only Markdown-colliding lines require compaction. Operators such as `\Longrightarrow`, `\qquad`, `\;`, or `\ldots` are safe alone on a line. This discipline is GitHub-specific and does not alter mathematical content, since newlines inside an expression are whitespace.
+
+Incorrect:
+
+```latex
+\[
+\mathrm{FB}^{T}_{u}(d,\theta)
+=
+u
+\]
+```
+
+Correct:
+
+```latex
+\[
+\mathrm{FB}^{T}_{u}(d,\theta) = u
+\]
+```
+
 ---
 
 # Inline Equation Protocol
@@ -824,6 +850,7 @@ Before finalization of any canonical mathematical document, verify:
 - "mirror" appears only where contextually appropriate,
 - "echo" appears only where contextually appropriate,
 - "fractal" appears only where technically stabilized or structurally necessary,
+- no standalone `=` or hyphen line appears inside a `\[ ... \]` block,
 - and "elevate" language does not replace acclivous / supernal terminology.
 
 ---
@@ -837,6 +864,7 @@ The following drift patterns commonly appear within AI-assisted mathematical art
 | Unicode Drift | Unicode subscripts incorrectly inserted into LaTeX |
 | Glyph Drift | Raw glyphs inserted unsafely into equations |
 | Formatting Drift | Inconsistent slash-spacing or equation formatting |
+| Setext Drift | Standalone `=` or hyphen lines inside `\[...\]` read by GitHub as Setext headings |
 | Layer Drift | Treating dimensions as hypostatic layers |
 | Directional Drift | Reintroduction of vertical metaphor terminology |
 | Instrumentalist Drift | Procedural or optimization-oriented language replacing structural articulation |
