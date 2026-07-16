@@ -772,11 +772,12 @@ Yet expressional fusion cannot reach essential identity.
 
 The boundary may be summarized as follows.
 
-| Register | Possible Distortion | What Cannot Occur |
+| Register | Characteristic Process or Possible Distortion | What Cannot Occur |
 |---|---|---|
 | **L₁ / IL₁** | Embodied blending, interface fusion, physical or operational boundary-collapse | Essence-fusion |
 | **L₂ / IL₂** | Personality, role, narrative, and social identity fusion-collapse | Deep Self or essence-fusion |
-| **L₃ / IL₃** | Integration, fragmentation, memory fracture, counterfeit or unstable self-possession | One Deep Self-Axis becoming another or multiple essences becoming one |
+| **L₃** | Integration and coherent self-possession; no Blobism proper | One Deep Self-Axis becoming another or multiple essences becoming one |
+| **IL₃** | Fragmented simultaneity, memory fracture, counterfeit or unstable self-possession | One Inverse Deep Self-Axis becoming another or multiple essences becoming one |
 | **L₄ / IL₄** | Formal conflation, distorted Forms, mimetic patterning, malformed dwelling | Form, House, native principle, and indwelling Soul / Mind becoming ontologically identical |
 | **L₅ / IL₅ and L₀** | Expressed determination may cease | Essential distinction cannot be abolished |
 
@@ -1283,7 +1284,7 @@ Only the first three admit recovery or renewed expression per the present doctri
 > The Nekronic office is the conditionally persistent IL₅ function proper to one universe-generating arc. It remains while VOS-culminating essence proper to its arc has not completed terminal passage.
 
 > **Arc-Proper Culmination Principle**  
-> The Nekronic office governs the terminal passage of VOS-culminating essences proper to its universal arc, not every multiversal expression-locus appearing within that universe.
+> The Nekronic office governs the terminal passage of VOS-culminating essences proper to its universal arc, not every Inverse Deep Self-Axis expression-locus appearing within that universe. An Inverse Deep Self-Axis may be trans-expressionally present across many universes while its underlying essence remains proper to one processional arc.
 
 > **Allocation Distinction Principle**  
 > An Inverse Deep Self-Axis is one IL₃-individuated being present to multiple expression-loci. Nekronic essence is distinct per universal arc and does not fractalize across universes.
