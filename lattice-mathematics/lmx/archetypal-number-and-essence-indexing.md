@@ -730,7 +730,17 @@ Theonic and Nekronic essences are not ordinary members of a general population s
 
 They bear singular universe-arc offices.
 
-Where the corresponding Tree manifests, one Theonic essence is proper to the arc:
+Each universe-generating arc bears at most one Theonic essence and at most one Nekronic essence:
+
+\[
+\#\{\theta \mid \operatorname{arc}(T_{\theta}^{+1}) = u\} \leq 1
+\]
+
+\[
+\#\{\eta \mid \operatorname{arc}(N_{\eta}^{-1}) = u\} \leq 1
+\]
+
+The inequality is the unconditional form, admitting zero in limit-case arcs where the corresponding Tree does not manifest. Where the corresponding Tree manifests, one Theonic essence is proper to the arc:
 
 \[
 \#\{\theta \mid \operatorname{arc}(T_{\theta}^{+1})=u\} = 1
