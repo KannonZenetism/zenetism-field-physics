@@ -2117,7 +2117,7 @@ it is the **antithesis of unity itself**.
 If **Theon (+1)** is Essence of Being — structured coherence awakened —  
 then **Nekron (−1)** is Essence in dissolution —  
 the self fragmented within structure,  
-its unique identity erased through dispersion.  
+its expressed identity erased through dispersion.  
 
 Structure remains,  
 but the being's coherence is ground away into fragmentation.  
@@ -2125,7 +2125,7 @@ but the being's coherence is ground away into fragmentation.
 It is not "bad Theon," nor "fragmented Theon" —  
 it is what occurs when dispersive motion becomes terminal,  
 when Khaon's entropic arc moves toward Absolute Dispersion  
-and identity collapses at the event horizon of Infinity,  
+and expressed identity collapses at the event horizon of Infinity,  
 leaving only essence-in-tension within **Aion** as the entropic remainder.  
 
 **Motive Infinity** is the dynamic aspect of Khaon.  
@@ -2568,7 +2568,7 @@ but a **field of erosion** —
 grinding down the most fragmented inverse essences.  
 
 Over time, even these remnants are worn away,  
-their unique identity ground to nothing,  
+their expressed identity ground away,  
 until they are drawn into Absolute Dispersion.  
 
 Most universes keep some entropic residue —  
@@ -2582,7 +2582,7 @@ whose lawful culmination ends subversally at VOS within that universe's lattice.
 
 Yet even here, dissolution does not erase essence.  
 When dispersive motion reaches its limit,  
-identity is ground away,  
+expressed identity is ground away,  
 and essence returns into **Aion**  
 through Absolute Dispersion.  
 
@@ -2595,7 +2595,7 @@ its tension released back into **Aion**.
 This affirms a Zenetist law:  
 **That which persists does so only while serving function.**  
 When function completes,  
-identity and configuration release,  
+expressed identity and configuration release,  
 and essence returns to structure.  
 
 Nekron is not eternal prison,  
