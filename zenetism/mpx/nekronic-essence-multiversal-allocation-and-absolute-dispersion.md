@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Nekronic essence-distinction, inverse allocation, and terminal collapse  
 **Status:** Draft — Jul 13 2026, revised Jul 14 2026  
-**Dependency:** `MP11-codex-of-principles-ch26.md` §26.25 · `MP02-unified-metaphysics-ch4.md` §4.59 and *Note on VOS and the Possibility of Return* · `MP01-emanation-architecture-ch1-3.md` *Addendum — Correction of Entropic Advantage* · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `awareness-spectrum-and-its-inverse-arc.md` · `deep-self-axis.md` · `non-fusion-at-the-bifurcal-register.md` · `synthesis-integration-saturation.md` · `SP04-orientation-field-dynamics.md` · `SP06-structural-space-orientation-paradox.md` · `asymmetry-of-limit-case-universes.md` · `metaphysics-symbol-key.md` §§21.3, 21.9, 21.10, 21.13 · `field-physics-glyph-charts.md` §§2–3  
+**Dependency:** `MP11-codex-of-principles-ch26.md` §26.25 · `MP02-unified-metaphysics-ch4.md` §4.59 and *Note on VOS and the Possibility of Return* · `MP01-emanation-architecture-ch1-3.md` *Addendum — Correction of Entropic Advantage* · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `awareness-spectrum-and-its-inverse-arc.md` · `deep-self-axis.md` · `non-fusion-at-the-bifurcal-register.md` · `synthesis-integration-saturation.md` · `SP04-orientation-field-dynamics.md` · `SP06-structural-space-orientation-paradox.md` · `asymmetry-of-limit-case-universes.md` · `metaphysics-symbol-key.md` §§21.3, 21.9, 21.10, 21.13 · `field-physics-glyph-charts.md` §§2–3 · `archetypal-number-and-essence-indexing.md`  
 
 ---
 
@@ -94,9 +94,33 @@ The shared structural value names **what kind of determination** each Nekronic e
 
 Because signed number can be misread morally, the present entry prefers **plus-one / minus-one**, **structural value**, or **structural charge** rather than "positive essence" or "negative essence." The signs name metaphysical position and orientation, not praise or condemnation.
 
+The structural value −1 must be distinguished from Nekron's unique essence-identifier.
+
+The superscript \(-1\) names the first entropic hypostatic charge. It does not mean numerical absence, nonexistence, moral negativity, or the unique identity-number of Nekron.
+
+The distinct Nekronic essence is identified by \(\eta\):
+
+\[
+N_{\eta}^{-1}
+\]
+
+Here:
+
+- \(\eta\) identifies which Nekronic essence is present
+- \(-1\) names the structural charge borne by that essence
+- \(u\) separately names the processional universal arc proper to it
+
+Thus:
+
+\[
+\operatorname{arc}(N_{\eta}^{-1}) = u
+\]
+
+Archetypal minus-one remains a repeatable signed relation. The universe-local singleton rule concerns the Nekronic office, not arithmetic uniqueness.
+
 ---
 
-## 3. Provisional Notation for Nekronic Essence
+## 3. Nekronic Essence-Identifier and Structural Charge
 
 The present entry provisionally employs **N** for Nekronic essence.
 
@@ -1366,6 +1390,9 @@ Only the first three admit recovery or renewed expression per the present doctri
 
 > **Open Persistence Principle**  
 > A Nekronic office ordinarily self-voids when its terminal function is complete. Indefinite persistence remains admissible only where an unforeseen structural condition continually sustains fragmentary operation without terminal exhaustion.
+
+> **Numerical Register Distinction Principle**  
+> Nekronic \(-1\) is a hypostatic structural charge, not Nekron's unique essence-identifier. The essence is identified by \(\eta\), its processional arc by \(u\), and its universe-local office by \(\mathcal{O}^{N}_{\eta,u}\). These numerical functions must remain distinct.
 
 ---
 
