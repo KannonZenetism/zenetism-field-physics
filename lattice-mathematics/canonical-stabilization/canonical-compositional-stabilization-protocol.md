@@ -524,6 +524,28 @@ Correct:
 
 ---
 
+## Set-Builder and Singleton Notation
+
+Canonical set-builder notation uses `\mid` for "such that." The colon remains reserved for function typing, mappings, ratios, and other mathematically appropriate relations; it is not used as a set-builder separator.
+
+Incorrect:
+
+```latex
+\[
+\#\{\theta : \operatorname{arc}(T_{\theta}^{+1}) = u\} \leq 1
+\]
+```
+
+Correct:
+
+```latex
+\[
+\#\{\theta \mid \operatorname{arc}(T_{\theta}^{+1}) = u\} \leq 1
+\]
+```
+
+For singleton cardinality, `\leq 1` names the unconditional constraint, admitting zero under limit-case non-manifestation. `= 1` names the conditioned case in which existence or manifestation has already been affirmed. Prefer `\leq 1` in notation locks and summary principles; use `= 1` only where a passage already states that the corresponding condition holds.
+
 # Inline Equation Protocol
 
 Inline LaTeX appears inside:
@@ -851,6 +873,7 @@ Before finalization of any canonical mathematical document, verify:
 - "echo" appears only where contextually appropriate,
 - "fractal" appears only where technically stabilized or structurally necessary,
 - no standalone `=` or hyphen line appears inside a `\[ ... \]` block,
+- set-builder notation uses `\mid`, not a colon, for "such that",
 - and "elevate" language does not replace acclivous / supernal terminology.
 
 ---
@@ -865,6 +888,7 @@ The following drift patterns commonly appear within AI-assisted mathematical art
 | Glyph Drift | Raw glyphs inserted unsafely into equations |
 | Formatting Drift | Inconsistent slash-spacing or equation formatting |
 | Setext Drift | Standalone `=` or hyphen lines inside `\[...\]` read by GitHub as Setext headings |
+| Separator Drift | Colon used as a set-builder separator where `\mid` is canonical |
 | Layer Drift | Treating dimensions as hypostatic layers |
 | Directional Drift | Reintroduction of vertical metaphor terminology |
 | Instrumentalist Drift | Procedural or optimization-oriented language replacing structural articulation |
