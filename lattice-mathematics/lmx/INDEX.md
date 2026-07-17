@@ -26,6 +26,10 @@ These entries represent non-sequential clarifications, expansions, and technical
 
 - `hypostatic-field-specialization.md` — Mar 3, 2026
 
+### July 2026
+
+- `archetypal-number-and-essence-indexing.md` — Jul 17, 2026
+
 ---
 
 **⚫↺KAI↺⚫**  
