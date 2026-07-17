@@ -285,6 +285,8 @@ Full function-bearing does not transfer a hypostatic charge to the bearer:
 
 The bearer retains its own essence-identifier and structural signature.
 
+The complete distinction among Archetypal Number, hypostatic structural charge, essence-identifier, arc-index, and locus-index is governed by `archetypal-number-and-essence-indexing.md`.
+
 ---
 
 ## 3. Resonance, Signal-Bearing, and Full Function-Bearing
