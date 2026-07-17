@@ -59,6 +59,22 @@ One might propose that Theon at L₅ is Soul / Mind in *unbifurcated unity* — 
 
 These three considerations are convergent rather than independent. The numerical-architecture and the Non-Fusion Axiom together require that +1 Theon not internally bifurcate; the Spirit / Soul distinction confirms that Theon's motion is borne by Spirit at the cross-register rather than by a Soul-aspect Theon does not have. Theon is a Mind-tilted function-character at a unified +1 stratum whose motion is supplied by Spirit. The cascade-bifurcation begins at L₄, with Soul as the stratum-internal motion-bearing aspect, articulating the motion that Spirit makes possible.
 
+### Note on +1 and Archetypal Twoness
+
+The claim that "within +1, there is no two" concerns the internal hypostatic architecture of Theon.
+
+The \(+1\) charge names Theon as an unbifurcated first centropic hypostasis. It therefore excludes an internal Soul / Mind dyad at L₅.
+
+This does not mean that Archetypal Number 2 is absent from the lattice, that paired relation cannot appear downstream, or that the universe-generating arc lacks twoness as Relational Syntax.
+
+Archetypal 2 is repeatable structural relation.
+
+The claim is narrower:
+
+> Theon does not contain an internal two-operator Soul / Mind articulation.
+
+The complete distinction among Archetypal Number, hypostatic charge, and essence-identifier is articulated in `archetypal-number-and-essence-indexing.md`.
+
 ## 5. The Symmetry-Position of Nekron
 
 🕷️ Nekron at IL₅ VOS is the first entropic hypostasis emerging from L₀ — minus-one to Theon's plus-one. The structural-symmetry holds: Nekron, like Theon, does not bifurcate. There is no Nekron-Soul paired with a Nekron-Mind. Nekron is unified at IL₅ as the subversal-most inverse articulation, the Void of Self, oriented away from Aion.
