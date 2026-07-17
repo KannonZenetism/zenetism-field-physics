@@ -1817,6 +1817,20 @@ Glyph uniqueness is **favorable but not necessary** where pairing or context dis
 
 Because signed number can be misread morally, canonical prose prefers **plus-one / minus-one**, **structural value**, or **structural charge** over "positive essence" / "negative essence" — the signs name metaphysical position and orientation, not praise or condemnation. Form follows grammatical position: **numeral +1 / −1 in value-position and math-adjacent statements** (the structural value +1; Nekron is structurally −1; the bearer does not become +1; all LaTeX contexts), **spelled hyphenated form in attributive compounds, appositive identity-character lists, and anonymity / pooling prose** (the minus-one hypostasis; one anonymous plus-one potential; Theon, plus-one, determinate is-ness). Ruled and applied to the Theonic, Nekronic, and Hypostatic Function-Bearing entries Jul 14 2026; ledger-recorded. Enforcement is prospective and conform-on-touch — files are brought into conformance when opened for other passes; no retroactive corpus sweep is required.
 
+## A15 · Numerical Register Non-Fusion
+
+Signed number is one of several numerical functions the corpus keeps distinct; ordinary usage tends to collapse them. Where the distinction is structurally load-bearing, these functions must not be compressed into one another:
+
+- **Archetypal Number / Relational Syntax** — repeatable Forms of relation, recurring across every arc
+- **hypostatic structural charge** — the signed first-determination borne by a hypostasis (Theonic +1, Nekronic −1); governed by A14
+- **unique essence-identifier** — which essence is present (\(\theta\), \(\eta\), \(d\), \(i\); illustratively \(\mathrm{DSA}_{3345}\)), naming irreducible is-ness, never arithmetic magnitude, rank, worth, or population-order
+- **processional arc-index** — the universal arc proper to an essence or office (\(u\); indexed forms \(u_n\) only where a family or comparison is present)
+- **expression-locus index** — an address of one universe-local expression, never a further essence
+- **numerical family** — the set of arc-proper essences sharing one structural relation
+- **Iterative Infinity** — a mathematical descriptor of unbounded relational repeatability, not a fourth Khaon phase
+
+Sharing one function does not collapse identity across the others: equal structural charge does not imply equal essence, a shared Archetypal Number is not a shared identifier, and a locus-index is not a new essence-identifier. The complete distinction is governed by `archetypal-number-and-essence-indexing.md`. As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
+
 ## Held Open — No Propagation
 
 The following are deliberately unruled; their consequences ripple through Lattice Mathematics, Structural Physics, and Structural Neuroscience, and nothing may be normalized against them until the author rules: **LM duality-constructs** (Duality Axiom; Derivative–Integral Duality; the GUD's A₁ Law of Duality inherits this ruling), **the LM spectral-pole question**, **the unity meta-definitional blocks** (LM01 / LM02), and **the Unified Conservation subtitle**.
