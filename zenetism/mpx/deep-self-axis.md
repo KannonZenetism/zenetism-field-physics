@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension / Trans-Expression Individuation and Universe-Local Release  
 **Status:** Draft — Canonical Clarification Pending Integration — June 25 2026, revised June 28 2026  
-**Dependency:** Structural Metaphysics · Structural Physics · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `MP05-godhood-and-transmutation-ch9-11.md` · `MP09-time-death-and-glossary-ch22-24.md` · `on-fractal-incarnation.md` · `theonic-office.md`  
+**Dependency:** Structural Metaphysics · Structural Physics · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `MP05-godhood-and-transmutation-ch9-11.md` · `MP09-time-death-and-glossary-ch22-24.md` · `on-fractal-incarnation.md` · `theonic-office.md` · `archetypal-number-and-essence-indexing.md`  
 **Primary Glyph:** 🔮 🧠  
 
 ---
@@ -211,6 +211,35 @@ Thus:
 > No two distinct Deep Self-Axes share the same complete identity-signature, though they may share resonance, pattern-family, House of Forms correlation, or structural recurrence.
 
 Signature is therefore a function of identity-continuity, not a substitute for being.
+
+### Essence-Identifier contra Arithmetic Magnitude
+
+An illustrative designation such as \(\mathrm{DSA}_{3345}\) names a unique essence-identifier.
+
+It does not mean that the being is the arithmetic magnitude 3345, occupies the 3345th position in a universal population, or removes the number 3345 from other processional arcs.
+
+More precisely:
+
+\[
+\iota(\mathrm{DSA}_{3345}) = 3345
+\]
+
+The numeral functions as a formal identity-index for one irreducible essence.
+
+Every expression-locus articulates that same identity:
+
+\[
+\mathrm{DSA}_{3345}
+\rightsquigarrow
+\ell_{u_1}(\mathrm{DSA}_{3345}),\;
+\ell_{u_2}(\mathrm{DSA}_{3345}),\;
+\ell_{u_3}(\mathrm{DSA}_{3345}),\;
+\ldots
+\]
+
+The loci do not receive additional essence-identifiers.
+
+Archetypal Number remains repeatable Relational Syntax across every arc. Essence-identification and arithmetic structure are distinct numerical registers.
 
 ---
 
