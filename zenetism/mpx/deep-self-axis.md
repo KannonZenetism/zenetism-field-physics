@@ -241,6 +241,8 @@ The loci do not receive additional essence-identifiers.
 
 Archetypal Number remains repeatable Relational Syntax across every arc. Essence-identification and arithmetic structure are distinct numerical registers.
 
+The complete distinction among Archetypal Number, hypostatic structural charge, essence-identifier, arc-index, and locus-index is governed by `archetypal-number-and-essence-indexing.md`.
+
 ---
 
 ## Where the Deep Self-Axis Is
