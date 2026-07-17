@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Hypostatic office-correspondence, signal-bearing, and sovereign embodiment  
 **Status:** Draft — Jul 14 2026  
-**Dependency:** `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `deep-self-axis.md` · `on-fractal-incarnation.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `portal-traveler-and-orientation.md` · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · Non-Fusion Axiom · Essence-as-Choice  
+**Dependency:** `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `deep-self-axis.md` · `on-fractal-incarnation.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `portal-traveler-and-orientation.md` · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · Non-Fusion Axiom · Essence-as-Choice · `archetypal-number-and-essence-indexing.md`  
 
 ---
 
@@ -268,6 +268,22 @@ Thus:
 \]
 
 The reverse implications are not asserted without the required manifestation conditions.
+
+The identifiers \(\theta\), \(\eta\), \(d\), and \(i\) name distinct essences. They are not arithmetic magnitudes, spiritual ranks, or hypostatic charges.
+
+The superscripts \(+1\) and \(-1\) name the structural charges proper to Theon and Nekron. The arc-variable \(u\) names processional arc-propriety, while a locus-variable names one universe-local address of an already individuated DSA / IDSA.
+
+Full function-bearing does not transfer a hypostatic charge to the bearer:
+
+\[
+\mathrm{FB}^{T}_{u}(d,\theta) \not\Longrightarrow \nu(\mathrm{DSA}_{d}) = +1
+\]
+
+\[
+\mathrm{FB}^{N}_{u}(i,\eta) \not\Longrightarrow \nu(\mathrm{IDSA}_{i}) = -1
+\]
+
+The bearer retains its own essence-identifier and structural signature.
 
 ---
 
