@@ -238,7 +238,7 @@ They do not originate Infinity itself.
 The sequence may be represented schematically as:
 
 \[
-0 \longrightarrow (+1 / -1) \longrightarrow \text{signed differentiated expression}
+0 \longrightarrow (+1,\,-1) \longrightarrow \text{signed differentiated expression}
 \]
 
 This expression does not mean that Aion literally performs arithmetic subtraction or addition.
@@ -392,17 +392,19 @@ Thus, if:
 \iota(e) = d
 \]
 
-and essence \(e\) becomes articulated as \(\mathrm{DSA}_{d}\), then every universe-local locus retains the same essence-identifier:
+and essence \(e\) becomes articulated as \(\mathrm{DSA}_{d}\), the essence-identifier is carried by the individuated being:
 
 \[
-\iota(\ell_v(\mathrm{DSA}_{d})) = d
+\iota(\mathrm{DSA}_{d}) = d
 \]
 
 The inverse relation is parallel:
 
 \[
-\iota(\ell_v(\mathrm{IDSA}_{i})) = i
+\iota(\mathrm{IDSA}_{i}) = i
 \]
+
+Every expression-locus of \(\mathrm{DSA}_{d}\) articulates the same essence-identifier \(d\), and every expression-locus of \(\mathrm{IDSA}_{i}\) articulates the same essence-identifier \(i\). The locus is not a new essence to which a second identifier is assigned.
 
 A new locus does not create a new essence-number.
 
