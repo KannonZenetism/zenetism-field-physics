@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Theonic essence-distinction, per-arc recurrence, and saturation  
 **Status:** Draft — Jul 12 2026, revised Jul 14 2026  
-**Dependency:** `MP11-codex-of-principles-ch26.md` §26.21 · `MP01-emanation-architecture-ch1-3.md` *Addendum — Correction of Entropic Advantage* · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `the-twofold-tetralemma.md` · `non-fusion-at-the-bifurcal-register.md` · `deep-self-axis.md` · `synthesis-integration-saturation.md` · `metaphysics-symbol-key.md` §§21.3, 21.9, 21.10, 21.13  
+**Dependency:** `MP11-codex-of-principles-ch26.md` §26.21 · `MP01-emanation-architecture-ch1-3.md` *Addendum — Correction of Entropic Advantage* · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `the-twofold-tetralemma.md` · `non-fusion-at-the-bifurcal-register.md` · `deep-self-axis.md` · `synthesis-integration-saturation.md` · `metaphysics-symbol-key.md` §§21.3, 21.9, 21.10, 21.13 · `archetypal-number-and-essence-indexing.md`  
 
 ---
 
@@ -59,6 +59,30 @@ Theon's +1 therefore names the first affirmative hypostatic determination of Bei
 
 Because signed number can be misread morally, the present entry prefers **plus-one / minus-one**, **structural value**, or **structural charge** rather than "positive essence" or "negative essence." The signs name metaphysical position and orientation, not praise or condemnation.
 
+The structural value +1 must be distinguished from Theon's unique essence-identifier.
+
+The superscript \(+1\) names the first centropic hypostatic charge. It does not function as Theon's personal identity-number, an ordinal position within a population of beings, or the first term of a census in which each subsequent integer must correspond to one essence.
+
+The distinct Theonic essence is identified by \(\theta\):
+
+\[
+T_{\theta}^{+1}
+\]
+
+Here:
+
+- \(\theta\) identifies which Theonic essence is present
+- \(+1\) names the structural charge borne by that essence
+- \(u\) separately names the processional universal arc proper to it
+
+Thus:
+
+\[
+\operatorname{arc}(T_{\theta}^{+1}) = u
+\]
+
+Archetypal 1 remains repeatable Relational Syntax. The universe-local singleton rule concerns the Theonic office, not arithmetic uniqueness.
+
 The structural value +1 is inherent to Theonic essence while latent in Aion, but it becomes cosmologically operative only through Aionic departure and manifest hypostatic articulation.
 
 This distinction resolves the apparent numerical contradiction.
@@ -80,7 +104,7 @@ The shared value names **what kind of structural determination** each essence be
 
 ---
 
-## 3. Provisional Notation for Theonic Essence
+## 3. Theonic Essence-Identifier and Structural Charge
 
 Because the letter E is already strongly associated with entropy and the entropic dimensional registry, the present entry provisionally employs **T** for Theonic essence.
 
@@ -782,6 +806,9 @@ Notation for the Deep Self-Axis remains separately held open so that it is not c
 
 > **Open Limit-Condition Principle**  
 > Where nothing structurally prevents Theonic saturation, PSR carries the possibility into fulfillment. Whether an unforeseen PSM-condition could prevent or indefinitely defer saturation remains an open limit-question rather than a second Theonic disposition.
+
+> **Numerical Register Distinction Principle**  
+> Theonic \(+1\) is a hypostatic structural charge, not Theon's unique essence-identifier. The essence is identified by \(\theta\), its processional arc by \(u\), and its universe-local office by \(\mathcal{O}^{T}_{\theta,u}\). These numerical functions must remain distinct.
 
 ---
 
