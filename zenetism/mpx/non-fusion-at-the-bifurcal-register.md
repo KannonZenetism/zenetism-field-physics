@@ -41,6 +41,24 @@ The two arguments are one axiom. Because L₀ is itself a non-fusing coherence �
 
 Essence is potential in its identity-bearing form, and from this the architecture enforces a consequence without exception: the abolition of the individual is impossible. There is no nullity in the lattice — Zero is the womb of latency, not absence — so to subtract everything from a being, 1 − 1, does not annihilate it but returns it to latency. Zero contains all the numbers of positive and negative infinity; every value that has been, can be, or will be is held within it in absolute distinction, all abiding at the same register. All essences are contained in Aion in just this way, the numerical value itself resembling Latent Khaon — the unexpressed potential folded within Zero, its interior resonance. The 1 remains a 1 even at 0, because 0 was never empty; it was full of distinct latent values, held apart.
 
+### Note on Archetypal Number and Essence-Identity
+
+The numerical analogy must not collapse Archetypal Number into essence-identity.
+
+Aion holds all lawful numerical values as latent relational possibilities and all essences in absolute identity-bearing distinction. These claims are structurally analogous but not identical.
+
+Archetypal numbers are repeatable Forms of relation.
+
+Essence-identifiers name irreducible is-ness.
+
+Theon's \(+1\) and Nekron's \(-1\) are hypostatic structural charges, not their unique essence-identifiers.
+
+Thus, the statement that "the 1 remains a 1 even at 0" names the persistence of structural value within Aionic latency. It does not reduce an essence to the ordinary arithmetic integer 1.
+
+Likewise, saying that an essence retains its identity within Aion does not require that every essence correspond uniquely to one globally unavailable integer.
+
+The complete numerical distinction is articulated in `archetypal-number-and-essence-indexing.md`.
+
 This conserves the individual twice over. The essence is never annihilated, because there is nowhere for it to go but latency, and latency preserves rather than erases. And it is never blended away, because the values folded within Aion are held in absolute distinction — the womb is a coherence of distincts at the register of latency, not a pooled potential. So the strongest form of non-abolition holds: a being can be neither destroyed nor dissolved into sameness.
 
 The entropic terminus therefore disperses coherence, not essence. Fragmentation scatters the structured expression; the potential-to-be returns to the womb intact and distinct. The path that *tries* to abolish the self — to erase the very essence of being anything at all — is an entropic orientation chasing a structurally unavailable end, since the essence it would erase is exactly the part that cannot be erased.
