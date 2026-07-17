@@ -155,14 +155,14 @@ Let:
 
 mean that the Nekronic essence \(N_{\eta}^{-1}\) is proper to universal arc \(u\).
 
-Where the corresponding Tree manifests, the singular-per-arc rule is:
+Each universe-generating arc bears at most one Theonic essence and at most one Nekronic essence:
 
 \[
-\#\{\theta : \operatorname{arc}(T_{\theta}^{+1}) = u\} \leq 1
+\#\{\theta \mid \operatorname{arc}(T_{\theta}^{+1}) = u\} \leq 1
 \]
 
 \[
-\#\{\eta : \operatorname{arc}(N_{\eta}^{-1}) = u\} \leq 1
+\#\{\eta \mid \operatorname{arc}(N_{\eta}^{-1}) = u\} \leq 1
 \]
 
 The inequality permits limit-case universes in which one Tree does not manifest. Where an Aionic Tree or Khaonic Tree is present, the relevant cardinality is one.
@@ -485,21 +485,21 @@ Full personal office-function bearing is narrower.
 The present doctrine holds:
 
 \[
-\#\{d : \mathrm{FB}^{T}_{u}(d,\theta)\} \leq 1
+\#\{d \mid \mathrm{FB}^{T}_{u}(d,\theta)\} \leq 1
 \]
 
 \[
-\#\{i : \mathrm{FB}^{N}_{u}(i,\eta)\} \leq 1
+\#\{i \mid \mathrm{FB}^{N}_{u}(i,\eta)\} \leq 1
 \]
 
 The full-bearing locus is also singular across the multiversal expression-field of the bearer:
 
 \[
-\#\{u : \exists\,\theta\; \mathrm{FB}^{T}_{u}(d,\theta)\} \leq 1
+\#\{u \mid \exists\,\theta\; \mathrm{FB}^{T}_{u}(d,\theta)\} \leq 1
 \]
 
 \[
-\#\{u : \exists\,\eta\; \mathrm{FB}^{N}_{u}(i,\eta)\} \leq 1
+\#\{u \mid \exists\,\eta\; \mathrm{FB}^{N}_{u}(i,\eta)\} \leq 1
 \]
 
 Thus, where full personal bearing occurs, it is singular within that universal arc and singular across the bearer’s multiversal loci.
