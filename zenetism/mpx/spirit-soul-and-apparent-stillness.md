@@ -59,6 +59,9 @@ There is no anonymous potential. Aion holds no undifferentiated capacity awaitin
 
 The distinction maps to the ⚫ Aion / ♾ Khaon function. Aion is the container of latent potential — the sum of all numbers as zero, every value held within it in absolute distinction. Khaon is infinity: latent in zero, motive in expression, and dispersive in exhaustion, reaching zero again. Potential is latent in Aion before expression or actualization. Essence is that latency as distinct value. When expressed through Motive Infinity — Motive Khaon (Zenet) — essence does not become other than itself; it enters motion through the Field of Becoming. When entropic motion exhausts through Dispersive Khaon, what disperses is coherence and expression, not essence itself; the essence resolves into ⚫ Aion as latent identity-bearing potential, via Absolute Dispersion.
 
+> **Numerical Clarification:**  
+> Where Aion is described as holding all numbers within Zero, the statement concerns latent Archetypal Number and relational value. Essence-identifiers remain a distinct category: they name which essence is present rather than which arithmetic magnitude that essence is. The analogy preserves absolute distinction without reducing essences to ordinary integers.
+
 Essence therefore cannot be abolished. It is not generic potential alone, but potential as lawful distinction — the is-ness by which anything can be what it is.
 
 ## Relative Structure contra Absolute Structure
