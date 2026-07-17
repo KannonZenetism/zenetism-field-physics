@@ -528,9 +528,9 @@ Distinguishes five numerical functions — Archetypal Number / Relational Syntax
 
 - [ ] Clarify that \(+1\) / \(-1\) begin enacted signed hypostatic unfolding, do not originate Khaon, and do not imply that every later differentiated being corresponds to one successive integer; structural charges, not an essence population sequence — *files not yet in hand*
 
-### Terminological Lockdown Protocol — Status: Pending
+### Terminological Lockdown Protocol — Status: Applied (Jul 17 2026)
 
-- [ ] Add distinctions among Archetypal Number, structural charge, essence-identifier, arc-index, locus-index, numerical family, and Iterative Infinity; bar numerical register-collapse where structurally load-bearing — *`terminological-lockdown-protocol.md` (distinct from the compositional / LaTeX protocol already updated) not yet in hand*
+- [x] Added **A15 · Numerical Register Non-Fusion** to Addendum I: distinguishes Archetypal Number / Relational Syntax, hypostatic structural charge, essence-identifier, arc-index, locus-index, numerical family, and Iterative Infinity; bars numerical register-collapse where structurally load-bearing; enforcement conform-on-touch
 
 ---
 
