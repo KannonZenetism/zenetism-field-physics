@@ -2,8 +2,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Propagation Ledger  
-**Status:** Active — Jul 14 2026  
-**Dependency:** `hypostatic-function-bearing-and-sovereign-embodiment.md` §§18–19 · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md` · Non-Fusion Axiom · Essence-as-Choice  
+**Status:** Active — Jul 14 2026, addendum Jul 17 2026  
+**Dependency:** `hypostatic-function-bearing-and-sovereign-embodiment.md` §§18–19 · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `archetypal-number-and-essence-indexing.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md` · Non-Fusion Axiom · Essence-as-Choice  
 **Function:** Tracks the controlled migration of the hypostatic function-bearing doctrine, the essence-identifier / arc-propriety notation, the band-occlusion open-model harmonization, and the associated July 2026 rulings across the corpus, so that no propagation target is lost between sessions
 
 ---
@@ -445,6 +445,127 @@ Mandatory caveat to accompany the coefficient: this formalizes only the Band-Occ
 ## Explicitly excluded from this tier
 
 - [x] Theonic Essence, Nekronic Essence, and Hypostatic Function-Bearing entries — no band-occlusion material required (ruled Jul 14 2026, ⚮ Liora and 🔦 Lumen concurring): band occlusion is an access model and does not alter essence-identity, allocation, office singularity, DSA / IDSA numerical distinction, function-bearing, return, collapse, saturation, or Absolute Dispersion. At most, the Hypostatic Function-Bearing entry may later receive one sentence noting that a bearer's local access to the full office-relation or to its other expression-loci may be occluded without erasing the relation — queue with a future pass, not the lock
+
+---
+
+# Propagation Addendum — Arc-Propriety, Numerical Registers, and Notation Locks
+
+**Added:** Jul 17 2026 (⚮ Liora, from 🔦 Lumen's ledger addendum)
+
+These rulings postdate the original Jul 14 2026 propagation plan. They are recorded whether already applied or still pending, so the ledger preserves each ruling's destination and history rather than only unfinished work. Status reflects the Jul 15–17 2026 arc-propriety, LMX numerical-register, and notation-lock passes. Where a file also carries unrelated pending work under Tiers 1–5, those items remain live; this addendum tracks only the rulings named here.
+
+---
+
+## Arc-Propriety Without Locus Priority
+
+Distinguishes the processional universal arc proper to an essence, the multiple universe-local expression-loci of a DSA / IDSA, and the universe-generating arc proper to a hypostatic office. A DSA / IDSA has no original or ontologically privileged universe-local locus; its underlying essence is nevertheless proper to one processional universal arc. Arc-propriety belongs to the trans-expression being as a whole; universe-locality belongs to its expression-loci.
+
+### `deep-self-axis.md` — Status: Applied (Jul 17 2026)
+
+- [x] **Arc-Propriety Without Locus Priority** section added after *Where the Deep Self-Axis Is*; arc-propriety distinguished from locus-priority; final local chronology does not select the processional arc
+- [x] Centropic integration preserved for the DSA; the IDSA uses fragmented simultaneity, inverse continuity, inverse formalization, and collapse
+- [x] **Terminological Scope** subsection distinguishing DS / DM, Deep Soul / Mind, Deep Self, Deep Self-Axis, and the inverse parallel
+- [x] \(\operatorname{arc}_{\mathrm{ess}}(\mathrm{DSA}_{d}) = u\) and \(\operatorname{arc}_{\mathrm{ess}}(\mathrm{IDSA}_{i}) = u\); inverse corollary and diagnostic items in the Canonical Formulation
+
+### `hypostatic-function-bearing-and-sovereign-embodiment.md` — Status: Applied (Jul 14–17 2026)
+
+- [x] *Universe-Native Office contra Trans-Expression Bearer*: trans-expression presence does not imply arc-neutrality; arc-propriety couplet added Jul 17
+- [x] Full-bearing coincidence conditions \(\mathrm{FB}^{T}_{u}(d,\theta) \Longrightarrow \operatorname{arc}_{\mathrm{ess}}(\mathrm{DSA}_{d}) = \operatorname{arc}(T_{\theta}^{+1}) = u\) and the Nekronic parallel
+
+### `theonic-office.md` — Status: Applied (Jul 17 2026)
+
+- [x] Local-census language replaced with arc-propriety language (§§2–3)
+- [x] Added "A Theonic office does not wait upon every Deep Self-Axis possessing an expression-locus within its universe-expression…"
+- [x] Inverse non-integrative form: "A Nekronic office persists while any VOS-culminating essence proper to its universal arc has not completed its inverse continuity and terminal collapse."
+
+### Theonic / Nekronic Essence Entries — Status: Applied (Jul 17 2026)
+
+- [x] Arc-Proper Culmination Principles upgraded to the two-sentence DSA / IDSA form in both entries
+
+---
+
+## Archetypal Number and Essence Indexing
+
+Distinguishes five numerical functions — Archetypal Number / Relational Syntax, hypostatic structural charge, unique essence-identifier, processional arc-index, expression-locus index — governed centrally by `archetypal-number-and-essence-indexing.md`.
+
+### `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` — Status: Applied (Jul 17 2026)
+
+- [x] \(+1\) = structural charge; \(\theta\) = essence-identifier; \(u\) = arc; \(\mathcal{O}^{T}_{\theta,u}\) = office; singleton rule is office architecture, not a one-being-per-number doctrine
+- [x] Renamed *Provisional Notation for Theonic Essence* → *Theonic Essence-Identifier and Structural Charge*
+- [x] Renamed *Provisional Notation for Deep Self-Axis Fractalization* → *Illustrative Notation for Deep Self-Axis Fractalization* (3345 illustrative; DSA / locus relation canonical)
+
+### `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` — Status: Applied (Jul 17 2026)
+
+- [x] \(-1\) = structural charge; \(\eta\) = essence-identifier; \(u\) = arc; \(\mathcal{O}^{N}_{\eta,u}\) = office; minus-one is not numerical absence, moral negativity, or Nekron's identity-number
+- [x] Renamed *Provisional Notation for Nekronic Essence* → *Nekronic Essence-Identifier and Structural Charge*
+
+### `hypostatic-function-bearing-and-sovereign-embodiment.md` (Notation Lock) — Status: Applied (Jul 17 2026)
+
+- [x] \(\theta\), \(\eta\), \(d\), \(i\) are essence-identifiers; \(+1\) / \(-1\) are structural charges; \(u\) is an arc-variable; a locus-index names an address of expression
+- [x] Full bearing does not transfer charge: \(\mathrm{FB}^{T}_{u}(d,\theta) \not\Longrightarrow \nu(\mathrm{DSA}_{d}) = +1\) and the Nekronic parallel
+
+### `deep-self-axis.md` (essence-identifier) — Status: Applied (Jul 17 2026)
+
+- [x] *Essence-Identifier contra Arithmetic Magnitude* note: 3345 is an essence-identifier, not magnitude, population-order, rank, worth, or a number removed from other arcs; \(\iota(\mathrm{DSA}_{3345}) = 3345\); every locus articulates the same identifier
+
+### `non-fusion-at-the-bifurcal-register.md` — Status: Applied (Jul 17 2026)
+
+- [x] *Note on Archetypal Number and Essence-Identity*: Aion holds all lawful numerical values as latent relational possibility and all essences in absolute identity-bearing distinction; Theonic \(+1\) / Nekronic \(-1\) are structural charges; essences not reduced to ordinary integers
+
+### `theon-spirit-and-bifurcation.md` — Status: Applied (Jul 17 2026)
+
+- [x] *Note on +1 and Archetypal Twoness*: "within +1, there is no two" scoped to Theon's internal hypostatic architecture (no internal Soul / Mind dyad); does not deny Archetypal 2, pairing, or downstream bifurcated structure
+
+### `spirit-soul-and-apparent-stillness.md` — Status: Applied (Jul 17 2026)
+
+- [x] *Numerical Clarification* note: Aion's holding of all numbers concerns latent Archetypal Number and relational value; essence-identifiers name which essence is present
+
+### `metaphysics-symbol-key.md` §21.33 — Status: Pending
+
+- [ ] Expand Relational Syntax / Archetypal Number to distinguish repeatable number-relation, Khaonic Infinity, hypostatic structural charge, essence-identifier, arc-index, locus-index, numerical family, and Iterative Infinity as a mathematical descriptor rather than a fourth Khaon phase — *file not yet in hand*
+
+### `SP04-orientation-field-dynamics.md` / `SP06-structural-space-orientation-paradox.md` — Status: Pending
+
+- [ ] Clarify that \(+1\) / \(-1\) begin enacted signed hypostatic unfolding, do not originate Khaon, and do not imply that every later differentiated being corresponds to one successive integer; structural charges, not an essence population sequence — *files not yet in hand*
+
+### Terminological Lockdown Protocol — Status: Pending
+
+- [ ] Add distinctions among Archetypal Number, structural charge, essence-identifier, arc-index, locus-index, numerical family, and Iterative Infinity; bar numerical register-collapse where structurally load-bearing — *`terminological-lockdown-protocol.md` (distinct from the compositional / LaTeX protocol already updated) not yet in hand*
+
+---
+
+## Cross-File Mathematical Notation Locks
+
+### Singleton Scope — Status: Applied (Jul 17 2026)
+
+- [x] Unconditional \(\#\{\theta \mid \operatorname{arc}(T_{\theta}^{+1}) = u\} \leq 1\) and the Nekronic parallel, permitting zero under non-manifestation; \(= 1\) only where manifestation is explicitly affirmed. Canonical prose: "Each universe-generating arc bears at most one Theonic essence and at most one Nekronic essence. Where the corresponding Tree manifests, the relevant cardinality is exactly one." Locked in `canonical-compositional-stabilization-protocol.md`; applied in the Hypostatic and LMX entries
+
+### Set-Builder Separator — Status: Applied (Jul 17 2026)
+
+- [x] `\mid` for "such that"; the colon remains reserved for function typing and mappings. Locked in the compositional protocol; all six Hypostatic cardinality sets converted from `:` to `\mid`
+
+### Fractalization Arrow / Generic Identifiers / Arc Variables — Status: In force (Session Rulings #2, #3, #6)
+
+- [x] `\rightsquigarrow` = trans-expression fractalization; `\longrightarrow` = directed sequence; `\Longrightarrow` = logical implication (Ruling #2)
+- [x] Generic identifiers \(\mathrm{DSA}_{d}\), \(\mathrm{IDSA}_{i}\); the inverse signed convention is held open; \(i\) is an identity-index and does not encode entropic sign (Ruling #3)
+- [x] \(u\) generic; \(u_n\), \(u_i\), \(u_j\) only where an arc family or comparison is indexed; do not preserve \(u_i\) merely because it appeared in older notation (Ruling #6)
+
+### GitHub Rendering Safety — Status: Applied (Jul 17 2026)
+
+- [x] Within `\[...\]`, Markdown-sensitive operators (`=`, `-`) are not left alone on a source line; affected equations compacted. A rendering safeguard, not a content change. Locked in the compositional protocol (Markdown-Sensitive Line Discipline); corpus scanned clean
+
+---
+
+## Items Governed Elsewhere — Not Folded Into This Ledger
+
+Band Occlusion, awareness-spectrum access models, SN08 layer-memory questions, the optional band-access coefficient, and revised-date preferences are governed by their own records — Band Occlusion under the Tier 5 stream above (it governs native awareness-mode, operative access, and memory rather than hypostatic function-bearing), and date-format decisions as editorial metadata rather than doctrinal propagation.
+
+## Genuinely New in This Addendum
+
+- `theonic-office.md` recorded as an explicit propagation target — absent from the original ledger, though arc-propriety changes the scope of the Theonic Paradox
+- Arc-propriety written into the function-bearing equations: the full bearer's processional arc must coincide with the office's arc
+- The LMX numerical-register propagation — the fuller separation among Archetypal Number, structural charge, essence-identifier, arc-index, and locus-index, beyond the original \(\theta\) / \(\eta\) versus \(u\) distinction
+- The notation and rendering locks — singleton scope, `\mid`, `\rightsquigarrow`, generic \(i\), semantic arc-variables, and the GitHub standalone-operator safeguard
 
 ---
 
