@@ -285,9 +285,11 @@ The expression-loci of a Deep Self do not become numerically separate beings, ev
 
 The multiverse therefore does not allocate identity uniformly at every stratum. Allocation changes with the degree and mode of manifestation while sovereign distinction remains intact.
 
-### Provisional Notation for Deep Self-Axis Fractalization
+### Illustrative Notation for Deep Self-Axis Fractalization
 
-The multiversal allocation of the Deep Self-Axis may be represented provisionally as:
+> The Deep Self-Axis / expression-locus relation articulated here is canonical. The identifier 3345 remains illustrative: it represents one irreducible essence-identity without asserting that ordinary arithmetic notation exhausts the form of that identity.
+
+The multiversal allocation of the Deep Self-Axis may be represented illustratively as:
 
 \[
 \mathrm{DSA}_{3345}
