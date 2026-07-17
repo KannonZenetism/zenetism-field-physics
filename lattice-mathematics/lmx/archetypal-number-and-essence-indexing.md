@@ -1013,6 +1013,9 @@ Bar the casual interchange of these terms where the numerical register is struct
 > **Non-Fusion of Shared Number Principle**  
 > Equal structural number-relation does not imply equal essence. Shared number preserves relation without abolishing sovereign distinction.
 
+> **Numerical Register Non-Fusion Principle**  
+> Archetypal Number, hypostatic structural charge, essence-identifier, processional arc-index, and expression-locus index are distinct numerical functions. Sharing one function does not collapse identity across the others.
+
 ---
 
 ## Closing
