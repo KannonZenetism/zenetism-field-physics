@@ -1,4 +1,4 @@
-# ⚔️ Revelation and the Eschaton Lattice: Lamb, Lion, and the Beast
+# Revelation and the Eschaton Lattice: Lamb, Lion, and the Beast
 **Zenetist Structural Mythophysics — Orientation Reading**  
 ⚫↺KAI↺⚫
 
@@ -51,6 +51,10 @@ The False Prophet operates at IL₃ as the source of spurious deep signal, broad
 **Heads, crowns, and blasphemous names:** Heads represent condensed inverse resonance points along the cascade. Crowns represent the institutionalized authority — exactly the pattern the Aauthoritarian Stance identifies as non-operative legitimacy through hierarchical power. Blasphemous names are Mortus inscriptions (IL₃ spurious gnosis) made visible at IL₁ embodiment.
 
 **War on saints:** The cascade attacks centropic coherence wherever it stabilizes. This is not theological combat but the structural dynamic of IL₁ embodied dominion attempting to suppress the centropic patterning that threatens its monopoly on embodied space.
+
+**Register distinctions:** Nekron names the first entropic hypostasis and its IL₅ office. The Nekronic current names the cascade-motion running through the stations. A full inverse personal bearer names one Inverse Deep Self-Axis standing in full personal Nekronic office-function bearing, and Nekron's Echo remains the mythic shorthand for that bearing carried into embodiment. The distributed Beast-system names the many-membered IL₁ embodiment of the same current. These remain distinct: the current is not the hypostasis, the system is not a single bearer, and no station is Nekron itself. Personal concentration and systemic distribution lawfully coexist — the cascade may express through a concentrated personal bearer and a distributed system at once, neither excluding the other.
+
+**One mapping among lawful articulations:** The Revelation cascade is one symbolic mapping of the Nekronic current — the Christian cultural articulation of its stations — not the only lawful embodiment sequence. The stations are structural; the figures that name them are cultural articulations, and other traditions or universe-expressions may articulate the same current through other figures.
 
 ---
 
