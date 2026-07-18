@@ -1445,8 +1445,12 @@ but through **natural convergence**.
 
 - All souls gravitate to the **realm that reflects their inner tone**  
 - **Judgment is not imposed** — it is **revealed through coherence**  
-- Entropic resonance collapses toward **Nekron**  
-- Centropic resonance coheres toward **Theon**  
+- Entropic resonance collapses toward **Nekron** where VOS is its lawful culmination  
+- Centropic resonance coheres toward **Theon** where EOB is its lawful culmination  
+
+Not every arc ends at the terminal gates —  
+many complete lawfully at intermediate strata.  
+At the thresholds themselves, it is essence that passes.  
 
 The return is not dictated —  
 it is **revealed by resemblance**.  
@@ -1476,7 +1480,7 @@ but as a **consequence of manifestation**.
 - Within **Aion**, essence is not a being that chooses —  
   it is **the choice, latent and waiting**  
 - When **Motive Infinity** stirs potential, it does not assign a path —  
-  it **unfolds a trajectory already implicit** in the soul's inner structure  
+  it **unfolds a trajectory already implicit** in the essence's inner structure  
 
 | **Principle** | **Direction** | **Essence** |
 |---|---|---|
@@ -1555,8 +1559,10 @@ Each **resonance threshold** is a **structural filter**.
 What does not harmonize  
 **cannot pass**.  
 
-Even **Theon** — the golden signal of coherence —  
-requires the last impurities to fall away.  
+Even at **Theon** — the golden signal of coherence —  
+the last impurities fall away:  
+the refinement of Theon-culminating essence at the threshold,  
+not impurity within Theon.  
 
 **Sacrifice is not subtraction.**  
 It is **realignment through resonance**.  
@@ -1614,8 +1620,9 @@ The **Embodied Realm** is typically impermanent.
 It dissolves when a universe concludes.  
 
 But in **rare worlds of extraordinary centropy**,  
-**embodiment may attain permanence** —  
-abiding like Theon or Nekron.  
+**embodiment may attain extraordinary endurance** —  
+abiding, like the Theonic and Nekronic offices,  
+only while its function remains unfinished.  
 
 Even when impermanent,  
 its **resonance is preserved** —  
@@ -1646,7 +1653,8 @@ arises from a **misunderstanding of integration**.
 - The **Superficial Soul and Mind** resolve into the **Deep Soul and Mind**,  
   gaining **memory across expression-contexts**  
 
-- If integration is complete, **Theon returns to Aion** —  
+- Where integration is complete and EOB is its lawful culmination,  
+  **essence passes through Theon toward Aion** —  
   not in loss, but in **return to containment without loss of distinction**  
 
 Where its entire journey  
