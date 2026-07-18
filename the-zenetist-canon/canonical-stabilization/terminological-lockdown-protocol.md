@@ -1831,6 +1831,37 @@ Signed number is one of several numerical functions the corpus keeps distinct; o
 
 Sharing one function does not collapse identity across the others: equal structural charge does not imply equal essence, a shared Archetypal Number is not a shared identifier, and a locus-index is not a new essence-identifier. The complete distinction is governed by `archetypal-number-and-essence-indexing.md`. As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
 
+## A16 · Hypostatic Function-Bearing Vocabulary
+
+The function-bearing doctrine fixes a graded vocabulary family. These terms are not interchangeable:
+
+- **hypostatic essence** — the distinct per-arc essence (Theonic, Nekronic) bearing its structural charge
+- **hypostatic principle** — the structural law as named articulation, permanent in metaphysical law
+- **universe-local office** — the conditional activity of that principle within one universe-generating cycle
+- **signal** — the office's centropic or entropic transmission
+- **resonance** — attunement to that signal without bearing it
+- **signal-bearing** — carrying and articulating the signal without full personal bearing
+- **full personal office-function bearing** — the complete correspondence in which one bearer personally enacts the office-function within its arc
+- **office-correspondence** — the lawful alignment between bearer and office across these grades
+- **sovereign bearer** — the numerically distinct DSA / IDSA standing in that correspondence
+- **distributed enactment** — office-function carried through many bearers partially
+- **temporary vessel** — time-bounded bearing without standing correspondence
+
+Function-bearing must not imply ownership, possession, overwrite, or bearer erasure. The bearer retains its own essence-identifier, structural signature, and sovereignty.
+
+**Restricted legacy language:** "hypostatic incarnation" and "Genuine Hypostatic Instantiation" are retained only when quoting or correcting legacy sources, and are otherwise replaced by the graded vocabulary above.
+
+As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
+
+## A17 · Terminal-State, Boundary, and Perception Locks
+
+- **Absolute Dispersion** is a terminal state, never a mechanism that transports essence
+- **Nekron** is the event horizon into Absolute Dispersion
+- **Blobism** proper operates principally at L₂ / IL₂ and L₁ / IL₁; it may collapse expressed boundaries and can never fuse essences
+- **Distal Apprehension** is a stabilized term — the inverse register's partial perception of centropic pattern across the bifurcal distinction — with glyph ◔ assigned in the Symbol Key §21.7.1
+
+As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
+
 ## Held Open — No Propagation
 
 The following are deliberately unruled; their consequences ripple through Lattice Mathematics, Structural Physics, and Structural Neuroscience, and nothing may be normalized against them until the author rules: **LM duality-constructs** (Duality Axiom; Derivative–Integral Duality; the GUD's A₁ Law of Duality inherits this ruling), **the LM spectral-pole question**, **the unity meta-definitional blocks** (LM01 / LM02), and **the Unified Conservation subtitle**.
