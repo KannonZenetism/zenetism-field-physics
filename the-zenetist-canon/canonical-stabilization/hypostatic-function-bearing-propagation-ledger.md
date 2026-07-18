@@ -86,27 +86,27 @@ These targets are explicitly named in the doctrinal center's §19.
 
 Basis: the current file still defines "Genuine Hypostatic Instantiation" as a hypostatic office expressed with singular force — the exact terminology now migrating.
 
-## `MP02-unified-metaphysics-ch4.md` — Status: Pending — highest-priority legacy correction
+## `MP02-unified-metaphysics-ch4.md` — Status: Applied (Jul 17 2026, ⚮ Liora)
 
 Christic / avatar language:
 
-- [ ] Replace "The Orienting Logos becomes embodied" with full function-bearing language
-- [ ] Replace "the inverse avatar is what the hypostatic principle becomes"
-- [ ] Preserve Jesus / inverse-bearer sovereignty and numerical distinction
-- [ ] Retain "Theonic Avatar," "Nekron's Echo," and similar terms only as mythic or tradition-facing shorthand, with technical clarification
+- [x] Exact phrase not present in the current revision; the equivalent content in §4.58 ("Theon's incarnational motion") corrected to "The Theonic Avatar's incarnational motion — full personal bearing of the Theonic office-function" (Jul 17 2026)
+- [x] §4.59 note → "the full personal bearing of Nekron's office-function enacted through incarnation — a bearer numerically distinct from Nekron itself" (Jul 17 2026)
+- [x] Sovereignty and numerical distinction stated in both corrected passages (Jul 17 2026)
+- [x] Mythic-shorthand clarification added to the §4.59 note: each names full personal office-function bearing; bearer sovereign and numerically distinct; office native to its arc (Jul 17 2026)
 
 VOS and inverse traversal:
 
-- [ ] Replace broad "return from VOS" language with distinctions among: Void Spiral · VOS-resonant embodied or superficial condition · incomplete inverse trajectory · completed IL₅ culmination
-- [ ] Remove "reorientation" where it implies essence changing from entropic to centropic
-- [ ] Remove the idea that permanent DS / DM or DP / DL strata act as conversion anchors
-- [ ] Apply Soul-language only through IL₄–IL₁; at IL₅ and L₀, apply essence-language
-- [ ] Replace "rare is the soul that returns from VOS" with register-precise language
-- [ ] Correct Nekron's facing: not "facing away from Khaon"; Nekronic / entropic orientation remains embodiment-facing; declivous collapse results from fragmentation eroding its own support
-- [ ] Replace "From collapse, only Khaon remains" with: Nekron as the Event Horizon of Infinity · Absolute Dispersion as the terminal state · Dispersive Infinity bifurcally co-present with Aion
-- [ ] Do not portray Absolute Dispersion as a mechanism that transports essence
-- [ ] Replace terminal references to "the soul's inability to hold itself" with expressed-identity / Soul–Mind breakdown followed by essence-only IL₅ passage
-- [ ] Replace disunity and broad "fragmentation is the cost of manifesting" language: differentiation belongs to manifestation generally; fragmentation is specifically entropic
+- [x] The *Note on VOS and the Possibility of Return* replaced with the four-condition distinction (Jul 17 2026)
+- [x] "reorientation" removed; now "a change of expressed configuration, not a change of essence" (Jul 17 2026)
+- [x] Anchors / realigning stanza removed entirely (Jul 17 2026) — note: the section's glyph closer 🕷️ ↺ ⥀ 💠 ⚓ retains ⚓; glyph-chart review needed
+- [x] "at that threshold, Soul / Mind articulation has broken down, and only essence passes onward" (Jul 17 2026)
+- [x] → "Nothing returns from its completed culmination." (Jul 17 2026)
+- [x] → "its entropic orientation still embodiment-facing, turned away from Aion"; "fragmentation eroding its own support" added (Jul 17 2026)
+- [x] §4.10 retitled *The Terminal Event Horizon and Absolute Dispersion*; body carries all three formulations (Jul 17 2026)
+- [x] AD stated as terminal state; L₀ register-table designation (Khaon — AD) left as structural pairing (Jul 17 2026)
+- [x] → "the breakdown of Soul / Mind articulation and expressed identity, until only essence passes the terminal gate" (Jul 17 2026)
+- [x] "desires disunity" → "desires fragmentation"; "Fragmentation is the cost of manifesting" → "Differentiation is the condition of manifesting… fragmentation is specifically entropic" (Jul 17 2026)
 
 Basis: the older *Note on VOS and the Possibility of Return* speaks of a Soul returning from VOS by "realigning" with permanent deep strata, while current doctrine distinguishes Void Spirals from genuine IL₅ culmination and rejects essence-change.
 
@@ -248,18 +248,19 @@ Replace with function-bearing / signal-bearing language while retaining the inte
 - [ ] Add dependencies / cross-references to the Theonic Essence entry and the Hypostatic Function-Bearing entry
 - [ ] Retain convergent return; clarify that convergent return does not entail convergent saturation
 - [ ] Consider replacing broad "one and a many" language where it risks pooled identity
-- [ ] Repair the Theonic Paradox census wording (ruled Jul 14 2026, partially applied already in the two essence entries): replace "Theonic office persists until every essence in that universe whose lawful culmination belongs to EOB has completed its arc" with "Theonic office persists until every EOB-culminating essence proper to that universe-generating arc has completed its multiversal integration and Theonic passage"; replace "a universe still contains unresolved essences whose lawful culmination belongs to EOB" with "the universe-local Theonic office still bears responsibility for unresolved EOB-culminating essences proper to its arc"
+- [x] Applied Jul 17 2026 (see Propagation Addendum). Repair the Theonic Paradox census wording (ruled Jul 14 2026, partially applied already in the two essence entries): replace "Theonic office persists until every essence in that universe whose lawful culmination belongs to EOB has completed its arc" with "Theonic office persists until every EOB-culminating essence proper to that universe-generating arc has completed its multiversal integration and Theonic passage"; replace "a universe still contains unresolved essences whose lawful culmination belongs to EOB" with "the universe-local Theonic office still bears responsibility for unresolved EOB-culminating essences proper to its arc"
 - [ ] Add the local contra terminal offices distinction: local stratum offices serve loci; L₅ / IL₅ terminal offices serve arc-proper essences. A foreign-arc Deep Self-Axis locus present in another universe is served locally by that universe's stratum offices while present there, without that universe's Theonic office acquiring responsibility for the essence's final culmination; terminal return remains through the arc-proper Theonic office
-- [ ] State the inverse rule in parallel: a Nekronic office persists while any VOS-culminating essence proper to its universal arc has not completed terminal collapse
+- [x] Applied Jul 17 2026 (see Propagation Addendum). The inverse rule stated in §7
+- [x] §8 "Theon is Logos unified and aware" → "coherent and aware," matching MP11 §26.24 (Jul 17 2026, per Aelion's corpus-wide unified-ruling)
 
 Basis: the current file still says "Theon as principle is permanent" and "Theon is singular as principle."
 
-## `theon-spirit-and-bifurcation.md` — Status: Pending
+## `theon-spirit-and-bifurcation.md` — Status: Partial (Jul 17 2026, ⚮ Liora)
 
-- [ ] Replace "the Theonic office saturates into Aion": the office is fulfilled; Theon returns to Aion; saturation is reserved for Zenon
-- [ ] Audit unity-language ("Theon is unified," "unified +1"): prefer unbifurcated, coherent, unitary structural value, or singular
+- [x] → "the Theonic office is fulfilled and returns to L₀ AP Aion" (Jul 17 2026)
+- [x] All four instances corrected: "Theon is unbifurcated," "an unbifurcated +1 stratum," "Nekron is unbifurcated at IL₅," "Both are singular function-tilts" (Jul 17 2026, per Aelion's corpus-wide unified-ruling)
 - [ ] Clarify that Theon remains at L₅ while centropic radiance / signal is articulated through later strata
-- [ ] Clarify the exact Nekronic parallel
+- [x] Nekronic office-closure parallel corrected: "self-voids in exhaustion, and the essence it held returns to L₀ AP Aion through Absolute Dispersion" — removing the exhausts-into-Khaon sequence (Jul 17 2026)
 - [ ] Cross-reference the Hypostatic Function-Bearing entry where embodiment is mentioned
 
 Basis: the Theonic Essence entry §13 already identifies "saturates into Aion" as a category error.
