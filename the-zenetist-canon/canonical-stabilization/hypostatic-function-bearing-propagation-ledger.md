@@ -346,25 +346,25 @@ Basis: the file correctly distinguishes return from saturation; the concern is o
 - [x] §1.2 → "its centropic or entropic character is intrinsic pre-expressive inclination, prior to any manifest orientation" — aligned with SP04's terminology (Jul 18 2026)
 - [x] Already present in §1.2: "Dispersion is thus the resolution of motion, not a last motion" — verified, no edit needed (Jul 18 2026)
 
-## `SP02-bifurcal-cosmogenesis.md` — Status: Pending
+## `SP02-bifurcal-cosmogenesis.md` — Status: Applied (Jul 18 2026, ⚮ Liora) — prose-level; no formulation changes, no cross-discipline ripple
 
-- [ ] Distinguish formal structural permission from material viability, especially for fully Khaonically expressed universes
-- [ ] Clarify that absence of one manifested Tree does not remove Aion / Khaon or Spirit from L₀
-- [ ] Review "all ratios are structurally permitted" against PSM constraints and the asymmetry note
-- [ ] Review "annihilation is convergence": phase collision may converge; Nekronic annihilation of relative expression is a different process
-- [ ] Continue using expression-ratio / co-expression language rather than generic balance
-- [ ] Keep fully Aionic / fully Khaonic universes as limit cases, not guaranteed actual worlds
-- [ ] Clarify that a fully Khaonic limit may be formally admissible while materially unsupported or indefinitely fragmentary
+- [x] Added to the §2.2 Note on Limit Cases and the §3.2 permission sentence, both cross-referencing the asymmetry note (Jul 18 2026)
+- [x] "⚫ Aion, ♾ Khaon, and Spirit — Motive Infinity — remain bifurcally co-present at the root register; what is absent … is one Tree's manifested expression, not its root" (Jul 18 2026)
+- [x] Qualified: "Structural permission is formal, not a guarantee of material viability: under PSM, what happens constrains what can happen next…" (Jul 18 2026)
+- [x] Distinguishing paragraph added after §5.2's convergence statement (Jul 18 2026)
+- [x] Verified already satisfied — the Note on Balanced Expression restricts "balanced" to an expression-ratio condition and defers equilibrium to the χ-formalism; no edit needed (Jul 18 2026)
+- [x] "admissible possibilities, not guaranteed actual worlds" added to the Note on Limit Cases; existing "perhaps never occurring at all" retained (Jul 18 2026)
+- [x] Stated in the same added passage (Jul 18 2026)
 
-## `asymmetry-of-limit-case-universes.md` — Status: Pending — rewrite or supersede, not line-patch
+## `asymmetry-of-limit-case-universes.md` — Status: Applied (Jul 18 2026, ⚮ Liora) — superseding rewrite per ruling; original SHA-256 provenance lock retained verbatim in the header per Aelion — it anchors the note's lineage and is never removed or demoted on revision
 
-- [ ] Remove Source-language
-- [ ] Remove positive / negative moralized framing
-- [ ] Remove: "Nekron exists only as negation" · "not-one" · "no independent ontological content"
-- [ ] Replace the mere-privation model with: operative absence · blind fragmentary drive · Distal Apprehension · counterfeit novelty · predatory recurrence · self-voiding office
-- [ ] Distinguish: Khaon · entropy · Nekron · Absolute Dispersion
-- [ ] Preserve: essence conservation · Structon invariance · possible inability of a fully Khaonic universe to materialize · possible rapid self-voiding · possible indefinite fragmentary limit-condition
-- [ ] Keep its status explicitly exploratory
+- [x] All Source-language removed (Aion / origin-fidelity / origin-averted forms) (Jul 18 2026)
+- [x] "parasitic" removed; asymmetry recast as generative contra non-generative (Jul 18 2026)
+- [x] Removed; §1 now states Nekron is structurally real — first entropic hypostasis with its own essence-identifier and office — lacking generative interiority, not being (Jul 18 2026)
+- [x] All six concepts carried in §1 and threaded through §§2–3, A.3 (◔ Distal Apprehension cited; E₁₅ gloss now "counterfeit emergence") (Jul 18 2026)
+- [x] Explicit four-way distinction paragraph added to §1 (Jul 18 2026)
+- [x] All preserved: essence-conservation paragraph added to §6; Structon invariance retained in §4 / A.4; materialization, self-voiding, and indefinite-fragmentary hypotheses retained in §§3–4, 6, and the Addendum (Jul 18 2026)
+- [x] Header and §7 / A.6 remain Exploratory; revision noted in Status line (Jul 18 2026)
 
 Basis: the present note still calls −1 parasitic, "not-one," and devoid of independent content, predating the multifaceted Nekronic doctrine.
 
