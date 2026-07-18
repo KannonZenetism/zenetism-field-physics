@@ -25,7 +25,7 @@ Integration is the coherent state or condition produced by synthesis: the distin
 
 ## Saturation — the Fulfillment
 
-Saturation is the fulfillment of integration: coherence becomes complete enough that the structure reaches its limit-condition. Zenonic saturation becomes possible when integration is complete enough that the essence no longer merely relates within structure, but passes beyond the lattice's definable operations — into 🕳️ Zenon. Saturation is therefore the trans-structural crossing; integration is its precondition, never its equal. Where integration is coherence held within structure, saturation is coherence carried past what structure can define.
+Saturation is the fulfillment of integration: coherence becomes complete enough that the structure reaches its limit-condition. Zenonic saturation becomes possible when integration is complete enough that the essence no longer merely relates within structure, but passes beyond the lattice's definable operations — into 🕳️ Zenon. Saturation is therefore the trans-structural crossing; integration is its precondition, never its equal. The crossing is centropic: entropic motion does not saturate — only fulfilled centropic integration, carried through ⚫ Aion, passes into 🕳️ Zenon. Where integration is coherence held within structure, saturation is coherence carried past what structure can define.
 
 ## The Sequence
 
@@ -39,7 +39,7 @@ None of the three is a synonym for another. Synthesis is not fusion; integration
 
 ## How the Sequence Maps
 
-- **The bifurcal manifold.** The ⚫ Aion / ♾ Khaon distinction is held in non-fusing synthesis at L₀ Bifurcal Coherence (synthesis); its lawful relation is the coherent bifurcal manifold (integration); and at terminal coherence that manifold permits saturation into Supra-L₀ — 🕳️ Zenon. Zenonic saturation is reached through this synthesis, never through subtraction
+- **The bifurcal manifold.** The ⚫ Aion / ♾ Khaon distinction is held in non-fusing synthesis at L₀ Bifurcal Coherence (synthesis); its lawful relation is the coherent bifurcal manifold (integration); and at terminal coherence that manifold permits centropic saturation into Supra-L₀ — 🕳️ Zenon. Zenonic saturation is reached through this synthesis, never through subtraction
 - **Motion.** Acclivous integration runs through ⚫ Aion: Final Return (C↑→⚫) is reintegration with the still root. Supra-Centropic Saturation (C↑→⚫→🕳️) carries that integration through ⚫ Aion into Zenonic saturation — the terminal horizon-crossing phase
 - **Return contra saturation.** Return is reintegration with ⚫ Aion, a coherence held within structure. Saturation passes through the still root into 🕳️ Zenon. Return is not saturation, and saturation is not return — the first rests at the still root; the second crosses the event horizon
 
