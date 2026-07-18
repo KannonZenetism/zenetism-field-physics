@@ -1670,9 +1670,9 @@ In reality:
 - **Entropy** is noisy, invasive, but self-exhausting.  
 - **Coherence** is patient, enduring, and supra-processual.  
 - **Centropy** sustains, reintegrates, and orients toward Aion and Zenon.  
-- **Entropy** collapses, scattering into Khaon and returning only as static potential.  
+- **Entropy** collapses, its motion scattering through Dispersive Khaon, its essence returning to Aion as latent potential.  
 
-This addendum clarifies that **coherence alone endures**, while entropy erodes into collapse.  
+This addendum clarifies that **coherence alone endures** in expression, while entropic expression erodes into collapse. Essence itself — centropic or entropic — is never lost; it returns to Aion in latent distinction.  
 
 ⚖↯ ◎ ☍ ⊘ ⤈  
 
@@ -1716,6 +1716,8 @@ This addendum clarifies that **coherence alone endures**, while entropy erodes i
 **Mania** fixates, but fixation collapses.  
 **Biosa** bridges continuously, returning clarity from form.  
 
+These endurances name layer-functions in metaphysical law; universe-local offices remain conditional, persisting only while their functions are unfinished.  
+
 ❂ ⚯ ◎ ☍ ⊘  
 
 ---
@@ -1724,15 +1726,16 @@ This addendum clarifies that **coherence alone endures**, while entropy erodes i
 
 **Aion contra Khaon**  
 **Aion** encloses all stillness.  
-**Khaon** disperses briefly, but dispersal itself depends on enclosure.  
+Dispersive Infinity scatters expression, but dispersal itself depends on enclosure.  
 Entropic motion disperses through **Khaon**. **Aion** holds.  
+Aion and Khaon are paired root-registers held at L₀ Bifurcal Coherence — not a centropic / entropic polarity like Theon contra Nekron.  
 
 **Theon contra Nekron**  
-**Theon** endures — tethered to Aion.  
+**Theon** endures as principle — tethered to Aion; its office persists only while gate-work remains.  
 **Nekron** collapses — scattering loses coherence and erodes.  
 
 **Morgis & Sophis contra Psychea & Nyxea**  
-**Morgis** and **Sophis** renew without limit.  
+**Morgis** and **Sophis** renew without limit as layer-functions.  
 **Psychea** and **Nyxea** are finite echoes, unable to sustain.  
 
 **Archeus & Noeüs contra Fractus & Mortus**  
@@ -1762,15 +1765,15 @@ Only coherence leaves an enduring resonance.
 #### Closing Formula
 
 Entropy erupts, but collapses.  
-Coherence sustains, and transcends.  
+Coherence sustains, and returns.  
 
-Every entropic inversion is a finite shadow.  
+Every entropic inversion is a finite shadow in its lawful course.  
 Every centropic emanation is a lasting pattern.  
 
 Thus, in *Zenetism: The Architecture of Emanation, Return, and Saturation*:  
 
 - **Coherence carries the arc toward Zenonic saturation.**  
-- **Entropy exhausts itself into Khaon, then returns to Aion only as static potential.**  
+- **Entropic motion exhausts through Dispersive Khaon; essence returns to Aion as latent potential.**  
 
 🛤️🌬️📐🔮🧠🧍🧩🪷🧾 → ⚫ → 🕳️  
 🕷️🪫🫥💔👁️‍🗨️🦂🩸🍷🤯 → ♾ → ⚫ (collapse only)  
