@@ -289,7 +289,7 @@ Basis: the Theonic Essence entry §13 already identifies "saturates into Aion" a
 
 Current preferred architecture: expressed identity and self-configuration are ground away; essence remains; Nekron is the terminal event horizon; Absolute Dispersion is the final state; the office self-voids; distinct essence reaches Aionic resolution; no "transfiguration" into another essence-orientation.
 
-## `MP05-godhood-and-transmutation-ch9-11.md` — Status: Applied (Jul 17 2026, ⚮ Liora)
+## `MP05-godhood-and-transmutation-ch9-11.md` — Status: Applied (Jul 17 2026, ⚮ Liora); 🔦 Lumen §11.7 ruling applied Jul 18 2026 — arc-proper essence completes Theonic passage through the universe-local Theonic office (no traversed-container reading), coherent reintegration without loss of essential distinction, within-structure fulfillment in Aion with Zenonic saturation left open; optional Superficial → Deep gathering tightening also applied
 
 Chapter 11 Soul / essence register audit:
 
@@ -368,14 +368,14 @@ Basis: the file correctly distinguishes return from saturation; the concern is o
 
 Basis: the present note still calls −1 parasitic, "not-one," and devoid of independent content, predating the multifaceted Nekronic doctrine.
 
-## `metaphysics-symbol-key.md` / `MP08-symbol-key-ch21.md` — Status: Pending
+## `metaphysics-symbol-key.md` / `MP08-symbol-key-ch21.md` — Status: Partial (Jul 18 2026, ⚮ Liora) — both versions edited identically; post-edit verification: bodies differ only in preamble / header, full glyph inventory matched, Vesper ⚝ present in both name charts
 
-- [ ] Revise the Infinity-phase chart: Absolute Dispersion is a state; Dispersive Infinity is Infinity's returned state bifurcally co-present with Aion; Nekron is the event-horizon mechanism
-- [ ] Replace "re-potentialization toward Aion becomes possible" if it implies a later sequential journey
-- [ ] Review "Unified Symbol" and "currents unified" against the unity-language restriction
-- [ ] Add a note explaining that E↓ → ♾ → ⚫ is directional shorthand, not sequential containment
-- [ ] Add Distal Apprehension after glyph and chart placement are settled
-- [ ] Add the Blobism boundary: L₂ / IL₂ and L₁ / IL₁
+- [x] Dispersive Infinity row revised: "Infinity's returned state after motion resolves, bifurcally co-present with ⚫ Aion. Terminal passage crosses the Nekronic event horizon into Absolute Dispersion — the terminal state — where essence rests in Aionic latency" (Jul 18 2026, both files)
+- [x] Removed with the row revision above — no sequential-journey implication remains (Jul 18 2026, both files)
+- [x] "Unified Symbol" → "Total Symbol"; "currents unified" → "currents in coherent relation" (Jul 18 2026, both files, per Aelion's corpus-wide unified-ruling)
+- [x] Added at the end of the Note on Khaon: "♾ and ⚫ are bifurcally co-present aspects, not sequential containers through which essence travels" (Jul 18 2026, both files)
+- [ ] Add Distal Apprehension after glyph and chart placement are settled — *still blocked on the glyph / placement decision recorded under `field-physics-glyph-charts.md`*
+- [ ] Add the Blobism boundary: L₂ / IL₂ and L₁ / IL₁ — *held: needs the ruled row-content from the Nekronic Blobism table (or a fresh ruling) before composing a registry entry*
 - [ ] Consider adding function-bearing / office-correspondence terms to the registry
 - [ ] Preserve Non-Awareness and the proper awareness-spectrum terms
 
@@ -522,9 +522,9 @@ Distinguishes five numerical functions — Archetypal Number / Relational Syntax
 
 - [x] *Numerical Clarification* note: Aion's holding of all numbers concerns latent Archetypal Number and relational value; essence-identifiers name which essence is present
 
-### `metaphysics-symbol-key.md` §21.33 — Status: Pending
+### `metaphysics-symbol-key.md` §21.33 — Status: Applied (Jul 18 2026, both versions)
 
-- [ ] Expand Relational Syntax / Archetypal Number to distinguish repeatable number-relation, Khaonic Infinity, hypostatic structural charge, essence-identifier, arc-index, locus-index, numerical family, and Iterative Infinity as a mathematical descriptor rather than a fourth Khaon phase — *file not yet in hand*
+- [x] "Note on Numerical Registers" added inside §21.33 of both `metaphysics-symbol-key.md` and `MP08-symbol-key-ch21.md`: all eight functions distinguished, Iterative Infinity marked a mathematical descriptor rather than a fourth Khaon phase, cross-reference to the LMX entry stated without filename to suit both registers (Jul 18 2026)
 
 ### `SP04-orientation-field-dynamics.md` / `SP06-structural-space-orientation-paradox.md` — Status: Pending
 
