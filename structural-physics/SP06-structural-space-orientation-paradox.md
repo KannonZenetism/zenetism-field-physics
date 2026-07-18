@@ -268,7 +268,7 @@ Formally stated:
 
 ## 5. Implications for Entanglement and Higher-Dimensional Models
 
-Higher-dimensional explanations of entanglement often assume that correlations arise because systems are unified in a deeper space while appearing separate in lower-dimensional space.
+Higher-dimensional explanations of entanglement often assume that correlations arise because systems are undivided in a deeper space while appearing separate in lower-dimensional space.
 
 Zenetism reframes this:
 
