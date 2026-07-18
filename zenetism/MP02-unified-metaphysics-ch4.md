@@ -3036,21 +3036,24 @@ even while held within the same eternal resonance.
 
 * If many essences remain within Theon's sphere  
     at the closing of a universe —  
-    Theon may remain.  
+    Theon remains.  
     Not from compulsion,  
-    but from **love**.  
+    nor from unwillingness to move on,  
+    but from **love** —  
+    its gate-work not yet complete.  
 
 * If all essences have reached readiness,  
     or Theon's redemptive arc has fulfilled itself,  
-    then it may return to Aion —  
+    then it returns to Aion —  
     not as disappearance,  
     but as **completion**.  
 
 In all cases,  
 Theon is never separate from Aion.  
 
-Its refusal of return is not rebellion —  
-it is the **continuance of divine will through love**.  
+Its remaining is not refusal of return —  
+it is the **continuance of divine will through love**,  
+the office persisting while its gate-work is unfinished.  
 
 This is not self-denial.  
 It is self-extension —  
@@ -3081,10 +3084,10 @@ the axis through which essences remember.
 In others,  
 the gate becomes the path.  
 
-Where essences remain,  
+Where essences proper to its arc remain,  
 it remains.  
 
-Where all essences return,  
+Where all such essences return,  
 it returns.  
 
 In all cases,  
