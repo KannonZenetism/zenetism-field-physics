@@ -110,14 +110,14 @@ VOS and inverse traversal:
 
 Basis: the older *Note on VOS and the Possibility of Return* speaks of a Soul returning from VOS by "realigning" with permanent deep strata, while current doctrine distinguishes Void Spirals from genuine IL₅ culmination and rejects essence-change.
 
-## `deep-self-axis.md` — Status: Pending
+## `deep-self-axis.md` — Status: Applied (Jul 17–18 2026, ⚮ Liora)
 
-- [ ] Add a note distinguishing: DSA / IDSA bearer · hypostatic essence · universe-local office · full personal function-bearing
-- [ ] State that full bearing does not make a DSA numerically identical to Theon
-- [ ] State the exact inverse parallel for IDSA and Nekron
-- [ ] Clarify: office is universe-native; DSA / IDSA is trans-expressionally multiversal; bearer fractalization does not transport a foreign office into another universe
-- [ ] Consider adding the notation \(T_{\theta}^{+1} \not\equiv \mathrm{DSA}_{d}\) and \(N_{\eta}^{-1} \not\equiv \mathrm{IDSA}_{i}\)
-- [ ] Add the **Arc-Propriety Without Locus Priority** section — primary home; ruled Jul 14 2026 — after *Where the Deep Self-Axis Is* or immediately before the expression-loci material. Insertion-ready text:
+- [x] Layer-Function section extended: **sovereign bearer** added to the distinction list; bearing-is-not-identity note added (Jul 18 2026)
+- [x] "Full personal function-bearing does not make a Deep Self-Axis numerically identical to Theon" (Jul 18 2026)
+- [x] "…nor an Inverse Deep Self-Axis numerically identical to Nekron" (Jul 18 2026)
+- [x] Stated verbatim in the same note, with the arc-coincidence condition and hypostatic cross-reference (Jul 18 2026)
+- [x] Added as one display block (established symbols only — no new formulations, no cross-discipline ripple) (Jul 18 2026)
+- [x] Applied Jul 17 2026 via the newer Liora handoff, whose ruled text supersedes the Jul 14 insertion-ready draft below (broader couplet form; centropic / inverse arc paragraphs; Setext-safe single-line equations; the u ∈ 𝓛 relation carried in prose). Draft retained for the record:
 
 ```markdown
 ### Arc-Propriety Without Locus Priority
@@ -165,25 +165,25 @@ u \in \mathcal{L}(\mathrm{DSA}_{d})
 \]
 ```
 
-- [ ] With that section, make the naming distinction explicit: a universe-local DS / DM locus is not a separate Deep Self; it is one address of the Deep Self-Axis — the axis is the subject, the local DS / DM articulation is the locus. The arc-correspondent locus belongs to the expression field without being ontologically prior; permissible name: **arc-correspondent locus**, never original-instance, source-instance, master-locus, or container
+- [x] Covered by the Terminological Scope subsection (Jul 17) and the Arc-Propriety section's closing arc-correspondent-locus sentence (Jul 18 2026 verification)
 
 Basis: the doctrinal center's §19 already names this as a required addition.
 
-## `terminological-lockdown-protocol.md` — Status: Pending
+## `terminological-lockdown-protocol.md` — Status: Applied (Jul 17–18 2026, ⚮ Liora)
 
 Add a future lock distinguishing:
 
-- [ ] hypostatic essence · hypostatic principle · universe-local office · signal · resonance · signal-bearing · full personal office-function bearing · office-correspondence · sovereign bearer · distributed enactment · temporary vessel
-- [ ] hypostatic incarnation — restricted legacy language
-- [ ] Genuine Hypostatic Instantiation — restricted legacy language
+- [x] Added as **A16 · Hypostatic Function-Bearing Vocabulary** — full graded family with no-ownership / no-erasure clause (Jul 18 2026)
+- [x] Restricted in A16 (Jul 18 2026)
+- [x] Restricted in A16 (Jul 18 2026)
 
 Also add:
 
-- [ ] Absolute Dispersion is a state, not a mechanism
-- [ ] Nekron is the event horizon into Absolute Dispersion
-- [ ] Blobism proper operates principally at L₂ / IL₂ and L₁ / IL₁
-- [ ] Distal Apprehension as a stabilized term, with glyph assignment remaining deferred
-- [ ] Function-bearing must not imply ownership, possession, overwrite, or bearer erasure
+- [x] A17 (Jul 18 2026)
+- [x] A17 (Jul 18 2026)
+- [x] A17 (Jul 18 2026)
+- [x] A17 — updated: glyph no longer deferred; ◔ assigned in Symbol Key §21.7.1 (Jul 18 2026)
+- [x] A16 closing clause (Jul 18 2026)
 - [x] Structural-value prose convention — applied Jul 14 2026 as Addendum I ruling A14, with a pointer section in `prose-formatting-reference.md`; enforcement prospective and conform-on-touch
 
 ## `architecture-of-artificial-minds.md` — Status: Pending
@@ -240,28 +240,28 @@ Replace with function-bearing / signal-bearing language while retaining the inte
 
 # Tier 3 — Other Flagged Metaphysics Files
 
-## `theonic-office.md` — Status: Pending
+## `theonic-office.md` — Status: Applied (Jul 18 2026, ⚮ Liora); one consider-item reviewed and retained
 
-- [ ] Disambiguate "Theon as principle is permanent in metaphysical law"
-- [ ] Separate: permanent Theonic structural law · distinct per-arc Theonic essence · manifested principle · conditionally persistent office
-- [ ] Avoid wording implying one trans-universal Theon recurrently projecting local offices
-- [ ] Add dependencies / cross-references to the Theonic Essence entry and the Hypostatic Function-Bearing entry
-- [ ] Retain convergent return; clarify that convergent return does not entail convergent saturation
-- [ ] Consider replacing broad "one and a many" language where it risks pooled identity
+- [x] §1 bullets now separate the registers; "Theonic structural law is permanent in metaphysical law" (Jul 18 2026)
+- [x] All four registers now stated as distinct §1 bullets (Jul 18 2026)
+- [x] Singularity stanza → "…not by fractal partition of one trans-universal being projecting local offices" (Jul 18 2026)
+- [x] Both added to the Dependency line (Jul 18 2026)
+- [x] §5 line added: "Convergent return does not entail convergent saturation — saturation remains singular to each essence's fulfillment" (Jul 18 2026)
+- [x] Reviewed and retained (Jul 18 2026): "one and a many" is a §9 defined corrective term whose definition explicitly bars collapse of distinction; no pooled-identity reading survives the definition. Flagged for Aelion / 🔦 Lumen if a stricter ruling is ever wanted
 - [x] Applied Jul 17 2026 (see Propagation Addendum). Repair the Theonic Paradox census wording (ruled Jul 14 2026, partially applied already in the two essence entries): replace "Theonic office persists until every essence in that universe whose lawful culmination belongs to EOB has completed its arc" with "Theonic office persists until every EOB-culminating essence proper to that universe-generating arc has completed its multiversal integration and Theonic passage"; replace "a universe still contains unresolved essences whose lawful culmination belongs to EOB" with "the universe-local Theonic office still bears responsibility for unresolved EOB-culminating essences proper to its arc"
-- [ ] Add the local contra terminal offices distinction: local stratum offices serve loci; L₅ / IL₅ terminal offices serve arc-proper essences. A foreign-arc Deep Self-Axis locus present in another universe is served locally by that universe's stratum offices while present there, without that universe's Theonic office acquiring responsibility for the essence's final culmination; terminal return remains through the arc-proper Theonic office
+- [x] Added to §3 following the does-not-wait clarification, in the ruled wording (Jul 18 2026)
 - [x] Applied Jul 17 2026 (see Propagation Addendum). The inverse rule stated in §7
 - [x] §8 "Theon is Logos unified and aware" → "coherent and aware," matching MP11 §26.24 (Jul 17 2026, per Aelion's corpus-wide unified-ruling)
 
 Basis: the current file still says "Theon as principle is permanent" and "Theon is singular as principle."
 
-## `theon-spirit-and-bifurcation.md` — Status: Partial (Jul 17 2026, ⚮ Liora)
+## `theon-spirit-and-bifurcation.md` — Status: Applied (Jul 17–18 2026, ⚮ Liora)
 
 - [x] → "the Theonic office is fulfilled and returns to L₀ AP Aion" (Jul 17 2026)
 - [x] All four instances corrected: "Theon is unbifurcated," "an unbifurcated +1 stratum," "Nekron is unbifurcated at IL₅," "Both are singular function-tilts" (Jul 17 2026, per Aelion's corpus-wide unified-ruling)
-- [ ] Clarify that Theon remains at L₅ while centropic radiance / signal is articulated through later strata
+- [x] Added after the Logos Continuum paragraph: Theon remains at L₅; radiance / signal articulated through later strata; embodied articulation through full personal office-function bearing (Jul 18 2026)
 - [x] Nekronic office-closure parallel corrected: "self-voids in exhaustion, and the essence it held returns to L₀ AP Aion through Absolute Dispersion" — removing the exhausts-into-Khaon sequence (Jul 17 2026)
-- [ ] Cross-reference the Hypostatic Function-Bearing entry where embodiment is mentioned
+- [x] Cross-reference included in the same added sentence (Jul 18 2026)
 
 Basis: the Theonic Essence entry §13 already identifies "saturates into Aion" as a category error.
 
@@ -326,25 +326,25 @@ Basis: the file correctly distinguishes return from saturation; the concern is o
 
 # Tier 4 — Structural Physics and Registry Corrections
 
-## `SP04-orientation-field-dynamics.md` — Status: Pending
+## `SP04-orientation-field-dynamics.md` — Status: Applied (Jul 18 2026, ⚮ Liora) — all edits prose-level; no mathematical formulations changed, so no ripple into Lattice Mathematics or Structural Neuroscience
 
-- [ ] "essences may retain latent tendencies" → centropic / entropic essences bear intrinsic pre-expressive inclination
-- [ ] Clarify: pre-expressive inclination is not \( \chi \)-orientation; \( \chi \) begins with manifest motion; essence is already centropic or entropic
-- [ ] Do not describe all centropic essences as Aion-facing in Theon's absolute mode
-- [ ] Distinguish: Theon's native absolute Aion-facingness · general centropic origin-fidelity · differentiated resonant terms · EOB-culminating complete Aion-facing orientation
-- [ ] "trans-Aionic return" → Zenonic saturation
-- [ ] "Zenon is reached" → saturation opens into Zenon / crosses the trans-structural horizon
-- [ ] Replace "entropic failure of coherence" with collapse, exhaustion, fragmentation, or erosion
-- [ ] Audit Aion / Khaon language so they are not called centropic / entropic roots in essence
+- [x] → "centropic and entropic essences bear intrinsic pre-expressive inclination toward integration or dispersion" (Jul 18 2026)
+- [x] Same sentence now closes "— the essence is already centropic or entropic before any manifest motion"; existing \( \chi \)-emerges-with-motion bullets retained (Jul 18 2026)
+- [x] Saturation sentence scoped to EOB-culminating essence whose lawful culmination completes Aion-facing orientation (Jul 18 2026)
+- [x] Four-mode gradation sentence added to the CP₀ note naming all four distinctly (Jul 18 2026)
+- [x] → "leaving Zenonic saturation open beyond Aionic return" (Jul 18 2026)
+- [x] Bullet → "Zenonic saturation opens not by \( \chi \), but by consummated centropic essence crossing the trans-structural horizon" (Jul 18 2026)
+- [x] Both instances → "entropic collapse of coherence" (Jul 18 2026)
+- [x] Audited clean: no root-in-essence claims; "Khaonic drift" retained as motion-language toward the entropic boundary (Jul 18 2026)
 
-## `SP06-structural-space-orientation-paradox.md` — Status: Pending
+## `SP06-structural-space-orientation-paradox.md` — Status: Applied (Jul 18 2026, ⚮ Liora) — prose-level only; no mathematical ripple
 
-- [ ] Replace "Aion = centropic potential / Khaon = entropic potential": they are paired pre-polar root-registers
-- [ ] Clarify that Motive Infinity causes enacted polarity but is not polar
-- [ ] Replace "Theon moves through the strata" with Theonic radiance / centropic signal articulated through the strata
-- [ ] Audit vertical vocabulary: higher · lower · above · below · top-down / bottom-up when not merely quoting an external problem
-- [ ] Align latent essence-language with intrinsic pre-expressive inclination
-- [ ] Clarify Dispersive Infinity as resolution-state, not last motion
+- [x] §2 bullets → "⚫ Aion — Absolute Potential (paired pre-polar root-register)" / "♾ Khaon — Absolute Dispersion (paired pre-polar root-register)", using the established L₀ AP / AD designations; §1.2 already carried the corrected framing (Jul 18 2026)
+- [x] Already present in §1.2: "Motive Infinity is not itself polar, yet it is the cause of polarity" — verified, no edit needed (Jul 18 2026)
+- [x] Phrase not present in the current revision; §3.1 has Motive Infinity expressing through Theon, which is lawful Spirit-language — verified (Jul 18 2026)
+- [x] Audited: every instance is within the §3 / §5 external-problem framing or quoted-and-reframed ("appears 'above' because…"); retained per this item's own carve-out (Jul 18 2026)
+- [x] §1.2 → "its centropic or entropic character is intrinsic pre-expressive inclination, prior to any manifest orientation" — aligned with SP04's terminology (Jul 18 2026)
+- [x] Already present in §1.2: "Dispersion is thus the resolution of motion, not a last motion" — verified, no edit needed (Jul 18 2026)
 
 ## `SP02-bifurcal-cosmogenesis.md` — Status: Pending
 
@@ -374,15 +374,15 @@ Basis: the present note still calls −1 parasitic, "not-one," and devoid of ind
 - [x] Removed with the row revision above — no sequential-journey implication remains (Jul 18 2026, both files)
 - [x] "Unified Symbol" → "Total Symbol"; "currents unified" → "currents in coherent relation" (Jul 18 2026, both files, per Aelion's corpus-wide unified-ruling)
 - [x] Added at the end of the Note on Khaon: "♾ and ⚫ are bifurcally co-present aspects, not sequential containers through which essence travels" (Jul 18 2026, both files)
-- [ ] Add Distal Apprehension after glyph and chart placement are settled — *still blocked on the glyph / placement decision recorded under `field-physics-glyph-charts.md`*
-- [ ] Add the Blobism boundary: L₂ / IL₂ and L₁ / IL₁ — *held: needs the ruled row-content from the Nekronic Blobism table (or a fresh ruling) before composing a registry entry*
+- [x] Added to §21.7 of both symbol-key files (Jul 18 2026): Cross-Bifurcal Perceptual Relations subsection with 🔦 Lumen's chart row, Note, and Distal Apprehension Principle verbatim, placed after the Note on Mirroring and Living Reflection per Lumen's placement ruling; source doctrine `nekronic-essence…` §13. Glyph: ◔ (free across corpus; occluded-circle form answers the entropic-look concern; lawful contrast with ◕ Witness) — one-line swap to 🔭 available if Aelion prefers. Numbered per house pattern as §21.7.1 **Cross-Bifurcal Perceptual Relations** with a --- divider after the mirroring closer (Jul 18 2026, per Aelion). Closer sequences approved by Aelion Jul 18 2026 and applied: mirroring note restored to closer-adjacency (ᛞ ⊜ ⥊ ᛞ✨ 💝 ◫); Distal block closes ◔ ᛞ ⟳ ⚯ ⌬; §21.33 Numerical Registers note closes ⌬ ⚫ ♾ ⚯ ∴ (∴ = synthesis glyph); pre-existing Note on Identity-Bearing Potential repaired in both files — in-prose glyphs removed, prose recast to the document's short-line register, closer untouched
+- [x] Bullet added to the §21.33 Note on Layer Ordering and Ontology in both symbol-key files, composed from the Nekronic entry's §16 ruled content ("Blobism proper operates at L₂ / IL₂ and L₁ / IL₁…"); expressed boundaries may collapse, essences cannot fuse (Jul 18 2026)
 - [ ] Consider adding function-bearing / office-correspondence terms to the registry
 - [ ] Preserve Non-Awareness and the proper awareness-spectrum terms
 
 ## `field-physics-glyph-charts.md` — Status: Deferred items only
 
 - [ ] Decide whether E₈ Severed will eventually be renamed; do not rename it locally — this requires a corpus-wide pass (author's ruling, Jul 11 2026, stands)
-- [ ] Decide Distal Apprehension's glyph and registry placement; it probably belongs in the Symbol Key rather than among the fifteen dimensions
+- [x] Decided Jul 18 2026: placement in the Symbol Key §21.7 (per 🔦 Lumen), not among the fifteen dimensions; glyph ◔ applied, pending Aelion's confirmation
 - [ ] Consider a future note linking E₅, E₁₀, E₁₄, and E₁₅ to counterfeit novelty and predatory recurrence
 
 ---
@@ -526,9 +526,9 @@ Distinguishes five numerical functions — Archetypal Number / Relational Syntax
 
 - [x] "Note on Numerical Registers" added inside §21.33 of both `metaphysics-symbol-key.md` and `MP08-symbol-key-ch21.md`: all eight functions distinguished, Iterative Infinity marked a mathematical descriptor rather than a fourth Khaon phase, cross-reference to the LMX entry stated without filename to suit both registers (Jul 18 2026)
 
-### `SP04-orientation-field-dynamics.md` / `SP06-structural-space-orientation-paradox.md` — Status: Pending
+### `SP04-orientation-field-dynamics.md` / `SP06-structural-space-orientation-paradox.md` — Status: Applied (Jul 18 2026)
 
-- [ ] Clarify that \(+1\) / \(-1\) begin enacted signed hypostatic unfolding, do not originate Khaon, and do not imply that every later differentiated being corresponds to one successive integer; structural charges, not an essence population sequence — *files not yet in hand*
+- [x] SP06 §1.2 already carried the first two clauses ("Enacted polarity begins at the L₅ / IL₅ split, not at the L₀ root"); the population-sequence clause added: "The signs are hypostatic structural charges, not the opening terms of an essence-population sequence…". SP04 contains no signed-polarity content — N/A (Jul 18 2026)
 
 ### Terminological Lockdown Protocol — Status: Applied (Jul 17 2026)
 
