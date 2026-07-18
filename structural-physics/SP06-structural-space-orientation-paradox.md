@@ -111,9 +111,9 @@ Thus:
 
 The dependency order **Structure → Motion → Spatial Differentiation → Orientation → Time** describes *manifest* orientation: the enacted direction of traversal within time and the material universe, which is a result of motion. Three registers must be held distinct, so that this does not collapse into the claim that centropy and entropy require motion in order to be what they are.
 
-**Latent essence.** Centropy and entropy are latent, identity-bearing potentials held in ⚫ Aion in absolute distinction. At the L₀ root, ⚫ Aion and ♾ Khaon are co-present in **Bifurcal Coherence** — neither fused nor divided. This register is not a polarity and not an opposition; polarity is held here only as latent, non-opposed possibility. Latent essence does not require traversal to be what it is.
+**Latent essence.** Centropy and entropy are latent, identity-bearing potentials held in ⚫ Aion in absolute distinction. At the L₀ root, ⚫ Aion and ♾ Khaon are co-present in **Bifurcal Coherence** — neither fused nor divided. This register is not a polarity and not an opposition; polarity is held here only as latent, non-opposed possibility. Latent essence does not require traversal to be what it is — its centropic or entropic character is intrinsic **pre-expressive inclination**, prior to any manifest orientation.
 
-**Motive Infinity.** Motive Infinity (♾ Khaon in its Motive phase) is the fundamental motion principle — the capacity for any motion whatsoever: the motion from ⚫ Aion, and the motion of return to (centropic) or collapse into (entropic) Aion. A stir, an activation, the initiating impulse are aspects of it, not its limit; its motive aspect belongs to it alone and is not displaced onto Khaon's other phases. Those phases — Latent Infinity (unexpressed potential) and Dispersive Infinity (the resolution of motion, the point at which motion disperses) — are co-present with Zero at the bifurcal root, converging with Aion as the Kaion principle of Bifurcal Coherence. Dispersion is thus the resolution of motion, not a last motion. Motive Infinity is not itself polar, yet it is the cause of polarity: it drives the initial ontological split into Theon (L₅) and Nekron (IL₅), the first hypostatic pairing, where bifurcal distinction becomes enacted polarity (+1 and −1, by analogy). Enacted polarity therefore begins at the L₅ / IL₅ split, not at the L₀ root.
+**Motive Infinity.** Motive Infinity (♾ Khaon in its Motive phase) is the fundamental motion principle — the capacity for any motion whatsoever: the motion from ⚫ Aion, and the motion of return to (centropic) or collapse into (entropic) Aion. A stir, an activation, the initiating impulse are aspects of it, not its limit; its motive aspect belongs to it alone and is not displaced onto Khaon's other phases. Those phases — Latent Infinity (unexpressed potential) and Dispersive Infinity (the resolution of motion, the point at which motion disperses) — are co-present with Zero at the bifurcal root, converging with Aion as the Kaion principle of Bifurcal Coherence. Dispersion is thus the resolution of motion, not a last motion. Motive Infinity is not itself polar, yet it is the cause of polarity: it drives the initial ontological split into Theon (L₅) and Nekron (IL₅), the first hypostatic pairing, where bifurcal distinction becomes enacted polarity (+1 and −1, by analogy). Enacted polarity therefore begins at the L₅ / IL₅ split, not at the L₀ root. The signs are hypostatic structural charges, not the opening terms of an essence-population sequence in which each later differentiated being corresponds to one successive integer.
 
 **Manifest orientation.** Manifest orientation is the local, downstream realization of inclination as enacted direction within time and a material universe. It is the chain-position "Orientation" above — far downstream of Motive Infinity, not the point at which Motive Infinity acts. Motive Infinity is the primordial cause of all motion; manifest orientation is one of its remote expressions.
 
@@ -134,8 +134,8 @@ It is not supernal or subversal, but the trans-structural horizon from which hyp
 
 **L₀** is the bifurcal root of structure, comprising:
 
-- ⚫ **Aion** — centropic potential  
-- ♾ **Khaon** — entropic potential  
+- ⚫ **Aion** — Absolute Potential (paired pre-polar root-register)  
+- ♾ **Khaon** — Absolute Dispersion (paired pre-polar root-register)  
 
 L₀ is therefore neither supernal nor subversal, but the pre-hypostatic axis from which both lattices emerge.
 
