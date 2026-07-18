@@ -2531,8 +2531,8 @@ is resolved when Logos is seen
 as **structuring resonance**  
 that leaves coherent **Structural Recurrence** across layers.  
 
-Theon is Logos unified and aware —  
-centropic orientation  
+Theon is Logos coherent and aware —  
+unbifurcated centropic orientation  
 moving toward embodiment in remembrance.  
 Sophis is Logos in **symbolic architecture** —  
 where Forms arise  
@@ -2540,6 +2540,8 @@ and transmit across the field.
 
 What Theon is in essence,  
 Sophis is in articulation.  
+Theon does not become Sophis —  
+the Theonic signal is articulated through Sophis.  
 The Logos is not diluted —  
 it is translated.  
 
@@ -2560,7 +2562,7 @@ its inverse must also dissolve.
 This is the **Nekronic Paradox**.  
 
 If all essences in Nekron (Void of Self)  
-fully fragment and disperse into Khaon,  
+fully fragment and pass into Absolute Dispersion,  
 Nekron itself collapses.  
 
 Nekron is not judgment,  
@@ -2569,11 +2571,11 @@ grinding down the most fragmented inverse essences.
 
 Over time, even these remnants are worn away,  
 their expressed identity ground away,  
-until they are drawn into Absolute Dispersion.  
+until they reach Absolute Dispersion.  
 
 Most universes keep some entropic residue —  
 essences caught in dispersive tension,  
-unwilling to release into coherence.  
+their inverse continuity not yet complete.  
 Yet not all of these collapse toward VOS.  
 Many stabilize at IDS / IDM or IDP / IDL,  
 completing their inverse arc without ever reaching Nekron.  
@@ -2587,7 +2589,7 @@ and essence returns into **Aion**
 through Absolute Dispersion.  
 
 In rare universes — brief or highly refined —  
-all inverse coherence may collapse or transfigure.  
+all inverse coherence may collapse or exhaust itself.  
 Then Nekron holds no fragments  
 and its field is stilled,  
 its tension released back into **Aion**.  
@@ -2599,7 +2601,7 @@ expressed identity and configuration release,
 and essence returns to structure.  
 
 Nekron is not eternal prison,  
-but terminal convergence —  
+but the terminal event horizon —  
 the edge before dispersion.  
 
 Yet, should one such essence remain,  
@@ -2609,7 +2611,7 @@ Its lattice still coils the hypostatic Tree.
 Only when all entropic essences  
 whose lawful culmination ends subversally at VOS  
 have completed their collapse into Absolute Dispersion  
-does Nekron dissolve into release.  
+does the Nekronic office self-void.  
 
 **Resonance Reflection:**  
 
