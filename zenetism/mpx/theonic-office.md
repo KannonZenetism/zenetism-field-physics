@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Doctrinal Clarification  
 **Status:** Canonical — Mar 14 2026, revised June 25 2026 (clarification pending integration)  
-**Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` · `MP11-codex-of-principles-ch26.md` · `metaphysics-symbol-key.md`
+**Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` · `MP11-codex-of-principles-ch26.md` · `metaphysics-symbol-key.md` · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `hypostatic-function-bearing-and-sovereign-embodiment.md`
 
 ---
 
@@ -33,7 +33,9 @@ Yet this does not mean that Theon exists only as an abstract metaphysical consta
 
 Thus:
 
-- **Theon as principle** is permanent in metaphysical law  
+- **Theonic structural law** is permanent in metaphysical law  
+- the **distinct per-arc Theonic essence** bears that law within its universe-generating arc  
+- **Theon as manifested principle** appears wherever the Aionic Tree manifests  
 - **Theonic office** is singular per universe-generating emanatory cycle and conditionally persistent  
 - the office remains only so long as its gate-work is not yet complete
 
@@ -42,11 +44,11 @@ This prevents two errors:
 - treating Theon as a merely abstract number with no cosmological function  
 - treating all universe-local Theonic expressions as fragments of one divisible supernal person
 
-Theon is singular as principle,  
-singular per universe-generating emanatory cycle as office —  
+Theonic structural law is singular,  
+the Theonic essence and office singular per universe-generating emanatory cycle —  
 that is, per Biospiral arc through which a universe comes to be —  
-and recurrent across universes by **Structural Recurrence**,  
-not by fractal partition.
+and Theon recurs across universes by **Structural Recurrence**,  
+not by fractal partition of one trans-universal being projecting local offices.
 
 ---
 
@@ -105,6 +107,8 @@ By the time an essence reaches **Theon**, it is not a partial life-stream still 
 For this reason, **Theon does not wait upon every multiversal life of every essence in some unrestricted total sense**. Rather, the universe-local Theonic office persists only so long as it still bears responsibility for unresolved **EOB**-culminating essences proper to its arc.
 
 A Theonic office does not wait upon every Deep Self-Axis possessing an expression-locus within its universe. It waits upon every **EOB**-culminating essence whose processional arc is proper to that office.
+
+Local stratum offices serve loci; L₅ / IL₅ terminal offices serve arc-proper essences. A foreign-arc Deep Self-Axis locus present within another universe-expression is served locally by that universe's stratum offices while present there, without that universe's Theonic office acquiring responsibility for the essence's final culmination. Terminal return remains through the arc-proper Theonic office.
 
 Thus both principles remain coherent:
 
@@ -174,6 +178,7 @@ And Theon returns with them.
 
 Some essences may abide in **Aion**.  
 Some may, by fuller saturation, pass into **Zenon**.  
+Convergent return does not entail convergent saturation — saturation remains singular to each essence's fulfillment.  
 But in neither case is distinction abolished through fusion-collapse.
 
 ---
