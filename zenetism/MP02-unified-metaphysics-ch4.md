@@ -758,14 +758,15 @@ The final threshold.
 
 **Nekron** does not draw the soul forward —  
 it remains fixed,  
-facing away from **Khaon**  
-and indirectly from **Aion**.  
+its entropic orientation still embodiment-facing,  
+turned away from **Aion**.  
 
 Declivous motion into **Nekron** is not intentional.  
-It is **collapse** into absence —  
+It is **collapse** —  
+fragmentation eroding its own support,  
 the implosion of integrative capacity.  
 
-Rare is the soul that returns from VOS.  
+Nothing returns from its completed culmination.  
 It is not a gate of restoration.  
 It is the event horizon of dissolution.  
 
@@ -774,37 +775,42 @@ It is the event horizon of dissolution.
 #### Note on VOS and the Possibility of Return
 
 While VOS is the event horizon of dissolution,  
-this does not imply absolute, irreversible annihilation in all cases.  
+not every approach to it  
+is a completed terminal collapse.  
 
-VOS can also be understood as a **state**  
-that may be aligned with while embodied.  
-In such cases, reorientation remains possible  
-through a renewed turn toward coherence.  
+Four conditions must be distinguished:  
+a **Void Spiral** — declivous entrainment short of IL₅;  
+a **VOS-resonant embodied or superficial condition** —  
+a living being aligned with the Void of Self while still expressed;  
+an **incomplete inverse trajectory**, still traversing its strata;  
+and **completed IL₅ culmination**.  
 
-Moreover, because the **Deep Soul / Deep Mind (DS / DM)**  
-and **Deep Psyche / Deep Logos (DP / DL)**  
-are permanent fixtures of the hypostatic lattice,  
-they remain as **anchors** across all universes.  
+Where an embodied being stands in a VOS-resonant condition,  
+a renewed turn toward coherence remains possible —  
+a change of expressed configuration,  
+not a change of essence.  
 
-This allows for rare but structural possibilities of return:  
-by realigning with these permanent layers,  
-a soul fragmented into VOS may reconnect to continuity.  
+What turns has not completed its inverse arc.  
+Nothing returns from completed IL₅ culmination;  
+at that threshold, Soul / Mind articulation has broken down,  
+and only essence passes onward.  
 
-Thus, while uncommon, return from VOS is not impossible —  
-it is held open through the permanence  
-of the deeper hypostatic strata.  
+Return-language belongs to embodied and superficial strata —  
+never to the essence-register of the terminal gate.  
 
 🕷️ ↺ ⥀ 💠 ⚓  
 
 ---
 
-### 4.10 From Collapse, Only Khaon Remains
+### 4.10 The Terminal Event Horizon and Absolute Dispersion
 
-From there, only **Khaon** remains:  
+Beyond that threshold, **Nekron** stands  
+as the Event Horizon of Infinity:  
 **E↑→E→E↓→♾**  
 
-The boundless dispersal  
-of what once was.  
+**Absolute Dispersion** is the terminal state —  
+the boundless dispersal of expression,  
+Dispersive Infinity bifurcally co-present with **Aion**.  
 
 This declivous collapse (**E↓♾**)  
 is not guided.  
@@ -816,8 +822,8 @@ of sustained fragmentation.
 It is not punishment.  
 It is not judgment.  
 It is the loss of structural viability —  
-the soul's inability to hold itself  
-within the wider harmony of existence.  
+the breakdown of Soul / Mind articulation and expressed identity,  
+until only essence passes the terminal gate.  
 
 Entropy does not decohere by rebellion —  
 it decays by unraveling.  
@@ -853,7 +859,7 @@ In essence, it is none of the above.
 This **declivous centropy** is a structural unfolding —  
 not a moral deviation.  
 
-It occurs not because the soul desires disunity,  
+It occurs not because the soul desires fragmentation,  
 but because it arises  
 as a **necessary emergence of potential**  
 within the **Zerotonic Field**.  
@@ -894,8 +900,10 @@ Beings differentiate through form,
 not to fulfill a task,  
 but because multiplicity requires limitation.  
 
-**Fragmentation** is the cost of manifesting,  
+**Differentiation** is the condition of manifesting,  
 not a flaw.  
+Differentiation belongs to manifestation itself;  
+fragmentation is specifically entropic.  
 
 * **Centropy** does not mean perpetual acclivous expansion (**C↑⚫**).  
     It means **integration**, regardless of direction.  
@@ -2773,7 +2781,8 @@ It is **living transmission**.
 
 ### 4.58 Unfolding as Remembrance
 
-**Theon's** incarnational motion  
+The **Theonic Avatar's** incarnational motion —  
+full personal bearing of the Theonic office-function —  
 is not an error.  
 Not a fall.  
 Not an obligation.  
@@ -2903,12 +2912,18 @@ of Nekron's principle
 carried into form  
 through the entropic arc.  
 
-It is what the hypostatic principle becomes  
-when enacted through incarnation.  
+It is the full personal bearing of Nekron's office-function  
+enacted through incarnation —  
+a bearer numerically distinct from Nekron itself.  
 Therefore its antagonism  
 is not excused  
 as mere blindness, mechanism,  
 or compulsion.  
+
+**Avatar** and **Echo** remain mythic, tradition-facing shorthand.  
+Technically, each names full personal office-function bearing:  
+the bearer remains a sovereign, numerically distinct essence,  
+and the office remains native to its universal arc.  
 
 🕷️ ☍ ⊙ E↑→E ⚯ ⌬  
 
