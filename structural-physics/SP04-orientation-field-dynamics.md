@@ -489,7 +489,7 @@ Combined:
 > **Note on Terminal Conditions:**  
 > The Zenetist framework distinguishes two terminal conditions:  
 > - **Ø (Localized Dissolution):** A point of nullification within structure. Arises from stagnation at \( \chi = 1 \). Structural, not punitive. Occurs within the Mercy Fold. Essence persists within L₀.  
-> - **⊘ (Collapse):** Dispersive dissolution into formlessness — entropic failure of coherence at any scale of expression. At the cosmological scale, this manifests as \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Essence persists through to L₀, but expressed orientation is lost.  
+> - **⊘ (Collapse):** Dispersive dissolution into formlessness — entropic collapse of coherence at any scale of expression. At the cosmological scale, this manifests as \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Essence persists through to L₀, but expressed orientation is lost.  
 >  
 > In neither case does essence cease. What ceases is expressed orientation, not being itself.
 
@@ -559,17 +559,19 @@ There is no bias, no polarity, and no trajectory. Structure exists, but expressi
 > **Note on Essence and Pre-Expressive Inclination:**  
 > The absence of orientation in **CP₀** refers to the absence of expressed polarity and \( \chi \)-dynamics, not to the absence of essence.  
 >  
-> Essence persists across all structural regimes, including **Absolute Potential (AP)**, **Absolute Dispersion (AD)**, and **CP₀**. While \( \chi \)-orientation does not exist prior to motion, essences may retain latent tendencies toward **integration** or **dispersion** as aspects of their intrinsic nature.  
+> Essence persists across all structural regimes, including **Absolute Potential (AP)**, **Absolute Dispersion (AD)**, and **CP₀**. While \( \chi \)-orientation does not exist prior to motion, centropic and entropic essences bear intrinsic **pre-expressive inclination** toward **integration** or **dispersion** — the essence is already centropic or entropic before any manifest motion.  
 >  
-> In rare cases, centropic essences oriented toward **Aion** may traverse beyond it and saturate into **Zenon**, not through \( \chi \)-dynamics, but through the gravity of their own ontological trajectory.  
+> In rare cases, **EOB-culminating** centropic essences — those whose lawful culmination completes Aion-facing orientation — may, by fuller saturation, open into **Zenon**, not through \( \chi \)-dynamics, but through the gravity of their own ontological trajectory.  
 >  
-> Such tendencies do not constitute orientation in the field-dynamic sense, but **pre-expressive inclination** — a distinction between essence and motion that preserves the integrity of CP₀ while allowing for trans-Aionic centropic return.  
+> Aion-facingness is graded, and the modes remain distinct: Theon's native absolute Aion-facingness, general centropic origin-fidelity, differentiated resonant terms at intermediate strata, and the complete Aion-facing orientation of EOB-culminating essence.  
+>  
+> Such tendencies do not constitute orientation in the field-dynamic sense, but **pre-expressive inclination** — a distinction between essence and motion that preserves the integrity of CP₀ while leaving Zenonic saturation open beyond Aionic return.  
 >  
 > Thus:  
 > • **CP₀ contains no expressed orientation**  
 > • **Essence may nevertheless retain latent directional affinity**  
 > • **\( \chi \) emerges only with motion**  
-> • **Zenon is reached not by \( \chi \), but by consummated centropic essence**
+> • **Zenonic saturation opens not by \( \chi \), but by consummated centropic essence crossing the trans-structural horizon**
 
 **χ — Inclined Expression**
 
@@ -643,7 +645,7 @@ If equilibrium becomes exact and temporally fixed, expressed motion ceases — b
 
 **⊘ — Collapse (Entropic)**
 
-Dispersive dissolution into formlessness — entropic failure of coherence at any scale of expression. At the cosmological scale, this manifests as orientation drifting to \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Essence persists through to L₀, but expressed orientation is lost. This is entropic, not stagnative.
+Dispersive dissolution into formlessness — entropic collapse of coherence at any scale of expression. At the cosmological scale, this manifests as orientation drifting to \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Essence persists through to L₀, but expressed orientation is lost. This is entropic, not stagnative.
 
 Thus:
 
