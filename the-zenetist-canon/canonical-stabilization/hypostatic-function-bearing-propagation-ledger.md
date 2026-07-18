@@ -264,26 +264,26 @@ Basis: the current file still says "Theon as principle is permanent" and "Theon 
 
 Basis: the Theonic Essence entry §13 already identifies "saturates into Aion" as a category error.
 
-## `MP11-codex-of-principles-ch26.md` — Status: Partial — §26.25 identity phrasings corrected Jul 17 2026 (⚮ Liora); §26.24 and the remaining §26.25 controlled-replacement items still pending
+## `MP11-codex-of-principles-ch26.md` — Status: Applied (Jul 17 2026, ⚮ Liora)
 
 §26.24:
 
-- [ ] "Logos unified and aware" → coherent / unbifurcated awareness
-- [ ] Clarify that Theonic signal is articulated through Sophis rather than Theon becoming Sophis
-- [ ] Preserve continuum without identity-collapse
+- [x] "Logos unified and aware" → "Logos coherent and aware — unbifurcated centropic orientation" (Jul 17 2026)
+- [x] Added "Theon does not become Sophis — the Theonic signal is articulated through Sophis" (Jul 17 2026)
+- [x] Continuum preserved without identity-collapse; essence / articulation lines retained
 
 §26.25 — the Nekronic Paradox passage deserves a controlled replacement rather than isolated word changes. Replace or audit:
 
-- [ ] "all centropic essences unify"
+- [x] "all centropic essences unify" — not present in the current revision; text already reads "all Theon-culminating essences converge"
 - [x] "unique identity ground to nothing" → "expressed identity ground away" (Jul 17 2026)
-- [ ] "drawn into Absolute Dispersion"
-- [ ] "unwilling to release into coherence"
+- [x] "drawn into Absolute Dispersion" → "reach Absolute Dispersion"; opening "disperse into Khaon" → "pass into Absolute Dispersion" (Jul 17 2026)
+- [x] "unwilling to release into coherence" → "their inverse continuity not yet complete" (Jul 17 2026)
 - [x] "identity is ground away" → "expressed identity is ground away" (Jul 17 2026)
-- [ ] "all inverse coherence may collapse or transfigure"
+- [x] "all inverse coherence may collapse or transfigure" → "collapse or exhaust itself" (Jul 17 2026)
 - [x] "identity and configuration release" → "expressed identity and configuration release" (Jul 17 2026)
-- [ ] "terminal convergence"
-- [ ] "Nekron dissolves into release"
-- [ ] sequential Nekron → Khaon → Aion implications
+- [x] "terminal convergence" → "the terminal event horizon" (Jul 17 2026)
+- [x] "Nekron dissolves into release" → "the Nekronic office self-voids" (Jul 17 2026)
+- [x] sequential Nekron → Khaon → Aion implications removed via the "pass into Absolute Dispersion" correction; "returns into Aion through Absolute Dispersion" retained as canonical (matches `theonic-office.md` §7) (Jul 17 2026)
 - [x] §26.20 (not previously listed) carried the same drift — "unique identity erased" and "identity collapses" corrected to the expressed-identity form (Jul 17 2026)
 
 Current preferred architecture: expressed identity and self-configuration are ground away; essence remains; Nekron is the terminal event horizon; Absolute Dispersion is the final state; the office self-voids; distinct essence reaches Aionic resolution; no "transfiguration" into another essence-orientation.
