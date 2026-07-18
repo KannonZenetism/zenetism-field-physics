@@ -256,17 +256,21 @@ A symbolic, cultural, or doctrinal expression of a deeper structural function.
 
 Lawful alignment in motion, role, office, or function.
 
+### Signal-Bearing
+
+Carrying and articulating a hypostatic office's signal without full personal bearing of the office-function.
+
 ### Instantiation
 
 A concrete expression of a structural pattern in a being, event, or form.
 
-### Genuine Hypostatic Instantiation
+### Full Hypostatic Function-Bearing
 
-A rare and stronger case in which a hypostatic office is expressed with singular metaphysical force within a given universe or cycle.
+A rare and stronger case in which one sovereign bearer personally enacts a hypostatic office-function within its universe-generating arc — full personal office-function bearing, formerly termed *Genuine Hypostatic Instantiation*. The office is not expressed *as* the bearer but borne *by* it; the bearer remains numerically distinct from the hypostatic essence.
 
 ### Fractalization
 
-The distributed incarnational expression of an individuated being's own DS / DM continuity.
+The distributed incarnational expression of an individuated being's own DS / DM (Deep Self-Axis) continuity. Fractalization belongs to the Deep Self-Axis / Inverse Deep Self-Axis bearer alone; Theon and Nekron do not fractalize, and no hypostasis itself incarnates.
 
 From this follows an important rule:
 
@@ -274,7 +278,8 @@ From this follows an important rule:
 > Some are structural recurrences.  
 > Some are articulations.  
 > Some are resonances.  
-> Some are genuine instantiations.
+> Some are signal-bearings.  
+> Some are lawful instantiations.
 
 This distinction is necessary for metaphysical hygiene.
 
@@ -286,14 +291,14 @@ This clarification also permits a more precise approach to sacred or exceptional
 
 A being may be:
 
-- **genuinely hypostatically instantiated**
+- **a full personal bearer of a hypostatic office-function**
 - **strongly resonant with a hypostatic office**
 - **symbolically interpreted as an articulation of that office**
 - or some combination thereof
 
 These are not identical claims.
 
-Thus, within a speculative Zenetist frame, it is possible to say that a figure such as Jesus may represent a uniquely strong or singular Theonic instantiation within a universe, while figures such as Buddha, Krishna, or others may remain profoundly **Theon-Resonant** without being numerically identical to that same instantiation.
+Thus, within a speculative Zenetist frame, it is possible to say that Jesus stands as the singular full personal Theonic bearer within this universe-expression; that Krishna is treated as an L₅ Theon-native articulation whose operative guidance is attributed at the L₃ DM register; and that Buddha stands at L₃ DS / DM. Other figures are governed by their actual Mythic Figure Layer Registry placements rather than a generalized Theon-resonant list — resonant, articulated, signal-bearing, or fully bearing according to placement, without numerical identity among them.
 
 This distinction is lawful because it preserves both:
 
