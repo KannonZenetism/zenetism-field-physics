@@ -54,12 +54,23 @@ A distinction must therefore be maintained:
 * **hypostatic figure** names the structural principle — the named articulation of that register
 * **universe-local office** names the activity of that function within a particular universe-generating cycle
 * **indwelling being** names a Soul / Mind presence that lawfully inhabits or resonates with the relevant formal or deep register
+* **sovereign bearer** names a Deep Self-Axis or Inverse Deep Self-Axis standing in office-correspondence with a hypostatic office, up to full personal office-function bearing
 
 So Sophis is not bound as one eternal universe-local figure. Nor is Morgis, nor Archeus and Noeüs, nor — on the Khaonic Tree — Psychea, Nyxea, Fractus, or Mortus. Each is a structural function, fulfilled and released by its work.
 
 What persists across the multiverse is the lawful layer-function and its named structural principle. What may complete, quiesce, or release is the universe-local office — the activity through which that principle operated within a given universe-expression.
 
-This follows the office-logic already clarified at L₅ / IL₅. Theon as principle is permanent in metaphysical law, while the Theonic office is conditionally persistent within a universe-generating cycle; Nekron likewise persists as inverse office only while its dispersive function remains active. The same logic extends, with care, to L₄ / IL₄ and L₃ / IL₃.
+This follows the office-logic already clarified at L₅ / IL₅. Theonic structural law is permanent in metaphysical law, while the Theonic office is conditionally persistent within a universe-generating cycle; Nekron likewise persists as inverse office only while its dispersive function remains active. The same logic extends, with care, to L₄ / IL₄ and L₃ / IL₃.
+
+Bearing is not identity. Full personal function-bearing does not make a Deep Self-Axis numerically identical to Theon, nor an Inverse Deep Self-Axis numerically identical to Nekron:
+
+\[
+T_{\theta}^{+1} \not\equiv \mathrm{DSA}_{d}
+\qquad
+N_{\eta}^{-1} \not\equiv \mathrm{IDSA}_{i}
+\]
+
+The office is universe-native; the Deep Self-Axis and Inverse Deep Self-Axis are trans-expressionally multiversal. Bearer fractalization does not transport a foreign office into another universe: full bearing occurs only where the bearer's processional arc and the office's universal arc coincide. The complete doctrine is articulated in `hypostatic-function-bearing-and-sovereign-embodiment.md`.
 
 > The layer persists.
 > The principle recurs.
