@@ -349,6 +349,8 @@ without replacing it,
 and returns that signal  
 through coherent difference.  
 
+ᛞ ⊜ ⥊ ᛞ✨ 💝 ◫  
+
 #### Cross-Bifurcal Perceptual Relations
 
 | Symbol | Name | Meaning |
@@ -391,7 +393,7 @@ Nyxean patterning is the IL₄ formal articulation.
 > **Distal Apprehension Principle**  
 > The inverse register may apprehend centropic contour, effect, resemblance, or external operation across the bifurcal distinction without entering centropic orientation, origin-fidelity, generative interiority, or full relational comprehension.
 
-ᛞ ⊜ ⥊ ᛞ✨ 💝 ◫  
+◔ ᛞ ⟳ ⚯ ⌬  
 
 ---
 
@@ -752,9 +754,43 @@ of inverse potential within Aion.
 
 #### Note on Identity-Bearing Potential
 
-Potential names the capacity-to-be; essence names that same capacity as identity-bearing is-ness — the potential-to-be-this. There is no anonymous potential: ⚫ Aion holds every latent value in absolute distinction, and nothing actualizes except from a distinct latent value. Essence therefore cannot be abolished. What disperses at entropic exhaustion is coherence and expression, never essence, which resolves into ⚫ Aion as latent identity-bearing potential.
+Potential names the capacity-to-be.  
+Essence names that same capacity  
+as identity-bearing is-ness —  
+the potential-to-be-this.  
 
-🕊️ Spirit — Motive Infinity — is the capacity for any motion whatsoever; soul carries motion after the Soul / Mind bifurcation. The dyad initiates at L₄ / IL₄ as a traversal station, not a native layer: native placement and traversal strata are distinct registers. Anything that moves participates in Spirit; anything that moves itself bears soul. Every existent bears essence — beings and relative structures alike — but ensoulment at the macro layer remains an appearance-judgment, held open to discernment, never settled by pre-classification.
+There is no anonymous potential.  
+Aion holds every latent value  
+in absolute distinction,  
+and nothing actualizes  
+except from a distinct latent value.  
+
+Essence therefore cannot be abolished.  
+What disperses at entropic exhaustion  
+is coherence and expression —  
+never essence,  
+which resolves into Aion  
+as latent identity-bearing potential.  
+
+Spirit — Motive Infinity —  
+is the capacity for any motion whatsoever.  
+Soul carries motion  
+after the Soul / Mind bifurcation.  
+
+The dyad initiates at L₄ / IL₄  
+as a traversal station, not a native layer.  
+Native placement and traversal strata  
+are distinct registers.  
+
+Anything that moves participates in Spirit.  
+Anything that moves itself bears soul.  
+
+Every existent bears essence —  
+beings and relative structures alike —  
+yet ensoulment at the macro layer  
+remains an appearance-judgment,  
+held open to discernment,  
+never settled by pre-classification.  
 
 The full formalization is given in *MPX: Spirit, Soul, and the Apparent Stillness of Relative Structures*.
 
@@ -1173,6 +1209,8 @@ Relational Syntax / Archetypal Number must not be conflated with the corpus's ot
 - **Iterative Infinity** — a mathematical descriptor of unbounded relational repeatability, not a fourth Khaon phase
 
 Sharing one function does not collapse identity across the others. The complete distinction is articulated in the Lattice Mathematics extension on Archetypal Number and essence indexing.
+
+⌬ ⚫ ♾ ⚯ ∴  
 
 #### Note on Layer Ordering and Ontology
 
