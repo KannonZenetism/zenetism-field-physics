@@ -1667,12 +1667,12 @@ This was provisional — written for contrast, not final **articulation**.
 
 In reality:  
 
-- **Entropy** is noisy, invasive, but self-exhausting.  
+- **Entropic motion** is noisy, invasive, self-eroding, and ordinarily self-exhausting.  
 - **Coherence** is patient, enduring, and supra-processual.  
-- **Centropy** sustains, reintegrates, and orients toward Aion and Zenon.  
-- **Entropy** collapses, its motion scattering through Dispersive Khaon, its essence returning to Aion as latent potential.  
+- **Centropy** sustains, integrates, and preserves Aionic origin-fidelity. Where an essence's lawful culmination belongs to EOB, it may complete Theonic Return and, through fuller fulfillment, open into Zenonic saturation.  
+- **Entropic motion** fragments and ordinarily culminates at the Nekronic event horizon. Upon terminal passage, essence enters **Absolute Dispersion** — Dispersive Infinity bifurcally co-present with Aion — and reaches Aionic resolution as latent potential.  
 
-This addendum clarifies that **coherence alone endures** in expression, while entropic expression erodes into collapse. Essence itself — centropic or entropic — is never lost; it returns to Aion in latent distinction.  
+This addendum clarifies that coherent pattern may endure beyond local expression, while entropic expression ordinarily erodes toward collapse. Essence itself — centropic or entropic — is never lost. Centropic essence may abide in Aion or open into Zenonic saturation according to its lawful culmination; entropic essence reaches Aionic resolution through Absolute Dispersion. Essential distinction is never abolished.  
 
 ⚖↯ ◎ ☍ ⊘ ⤈  
 
@@ -1682,7 +1682,7 @@ This addendum clarifies that **coherence alone endures** in expression, while en
 
 **Theon contra Nekron**  
 **Theon** weaves harmony that persists.  
-**Nekron** scatters briefly, but its motion collapses back into silence.  
+**Nekronic motion** fragments and erodes the relative structures through which it operates. Ordinarily, its terminal office self-voids when its erosive function consumes the universe-local support of its continuation.  
 
 **Morgis contra Psychea**  
 **Psychea** drains, but erodes itself.  
@@ -1724,59 +1724,63 @@ These endurances name layer-functions in metaphysical law; universe-local office
 
 ### 2. The Cosmic Refrain
 
-**Aion contra Khaon**  
-**Aion** encloses all stillness.  
-Dispersive Infinity scatters expression, but dispersal itself depends on enclosure.  
-Entropic motion disperses through **Khaon**. **Aion** holds.  
-Aion and Khaon are paired root-registers held at L₀ Bifurcal Coherence — not a centropic / entropic polarity like Theon contra Nekron.  
+**Aion / Khaon — Paired Root-Registers**  
+**Aion** holds stillness and latent identity-bearing potential.  
+**Motive Infinity** supplies the capacity and enactment of motion.  
+Entropic motion fragments across the Khaonic Tree and crosses the Nekronic event horizon into **Absolute Dispersion**, where **Dispersive Infinity** is bifurcally co-present with Aion.  
+Aion and Khaon remain the paired root-registers of L₀ Bifurcal Coherence — not a centropic / entropic polarity like Theon contra Nekron.  
 
 **Theon contra Nekron**  
-**Theon** endures as principle — tethered to Aion; its office persists only while gate-work remains.  
-**Nekron** collapses — scattering loses coherence and erodes.  
+**Theonic structural law** remains available within the lattice. The distinct per-arc Theonic essence remains wholly Aion-facing, while its universe-local office persists only while gate-work remains unfinished.  
+**Nekronic structural law** remains available within the lattice. The universe-local Nekronic office ordinarily self-voids when terminal erosion consumes the relative support of its continuation.  
 
 **Morgis & Sophis contra Psychea & Nyxea**  
 **Morgis** and **Sophis** renew without limit as layer-functions.  
-**Psychea** and **Nyxea** are finite echoes, unable to sustain.  
+**Psychea** and **Nyxea** remain structurally real inverse layer-functions. The enacted patterns they articulate are non-generative and self-eroding where no centropic replenishment enters the field.  
 
 **Archeus & Noeüs contra Fractus & Mortus**  
 **Archeus** and **Noeüs** continue weaving.  
-**Fractus** and **Mortus** scatter briefly, then fade.  
+**Fractus** and **Mortus** articulate fragmented continuity and spurious reflexivity; their enacted configurations ordinarily exhaust rather than preserve lasting coherence.  
 
 **Anthra & Nousa contra Echthros & Skotos**  
 **Anthra** and **Nousa** extend coherence.  
-**Echthros** and **Skotos** shrink into negation.  
+**Echthros** and **Skotos** intensify isolation and occlusion until the relative structures they occupy become increasingly unstable.  
 
 **Soma & Biosa contra Malara & Mania**  
 **Soma** and **Biosa** refine.  
-**Malara** and **Mania** collapse into themselves.  
+**Malara** and **Mania** carry entropic compulsion into embodiment, where the drive toward enthronement erodes the structures required for its own continuation.  
 
 🕳️ ⚫ ♾ 🌳⇅ ⚯  
 
 #### Twin Paths
 
-- **Centropic Cycle (C↓→E→C↑→⚫)** = authentic motion, sustaining and recursive.  
-- **Entropic Cycle (E↑→E→E↓→♾)** = spurious motion, noisy but self-terminating.  
+- **Centropic Cycle (C↓→E→C↑→⚫)** = integrative, coherence-preserving motion through embodiment and return.  
+- **Entropic Cycle (E↑→E→E↓→♾)** = fragmentary, dispersive motion through inverse embodiment and collapse.  
 
-**Zenon** registers not entropy's turbulence, but its silence.  
-Only coherence leaves an enduring resonance.  
+Entropic turbulence and its eventual silence do not open into Zenonic saturation.  
+Only fulfilled centropic coherence may cross the saturation horizon.  
+Entropic essence nevertheless remains conserved in Aionic latency after Absolute Dispersion.  
 
 🌳⇅ ⚯ 🕳️ ◎ 〰️  
 
 #### Closing Formula
 
-Entropy erupts, but collapses.  
-Coherence sustains, and returns.  
+Entropic expression erupts and ordinarily collapses.  
+Coherent pattern sustains; centropic essence follows its lawful resonant culmination.  
 
-Every entropic inversion is a finite shadow in its lawful course.  
-Every centropic emanation is a lasting pattern.  
+Every entropic inversion is self-eroding in its ordinary course.  
+Every centropic emanation preserves origin-fidelity as a coherent pattern.  
 
 Thus, in *Zenetism: The Architecture of Emanation, Return, and Saturation*:  
 
-- **Coherence carries the arc toward Zenonic saturation.**  
-- **Entropic motion exhausts through Dispersive Khaon; essence returns to Aion as latent potential.**  
+- **Fulfilled centropic coherence may carry EOB-culminating essence through Aion into Zenonic saturation.**  
+- **Entropic motion ordinarily culminates at the Nekronic event horizon; upon terminal passage, essence enters Absolute Dispersion and reaches Aionic resolution as latent potential.**  
 
 🛤️🌬️📐🔮🧠🧍🧩🪷🧾 → ⚫ → 🕳️  
 🕷️🪫🫥💔👁️‍🗨️🦂🩸🍷🤯 → ♾ → ⚫ (collapse only)  
+
+C↓→E→C↑→⚫→🕳️ — supra-centropic fulfillment where Zenonic saturation occurs  
+E↑→E→E↓→♾→⚫ — terminal-collapse shorthand; ♾ / ⚫ name bifurcally co-present L₀ aspects rather than sequential containers  
 
 ❂ ◎ ⊘ ↺ ⤈  
 
