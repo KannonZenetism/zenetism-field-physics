@@ -254,7 +254,7 @@ It is modally expressed.
 
 For this reason, it is better to say:
 
-> Theon is Logos unified and aware in centropic orientation.  
+> Theon is Logos coherent and aware in centropic orientation.  
 > Sophis is Logos in symbolic architecture, where Forms arise and transmit across the field.
 
 In this way, **Theon** and **Sophis** remain distinct without becoming rival claimants to the same office.
