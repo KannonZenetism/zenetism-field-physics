@@ -3034,22 +3034,23 @@ even while held within the same eternal resonance.
 
 ### 4.63 The Great Refrain — Love or Completion
 
-* If many essences remain within Theon's sphere  
-    at the closing of a universe —  
-    Theon remains.  
+* If EOB-culminating essences proper to Theon's processional arc  
+    remain outside completed multiversal integration and Theonic passage  
+    as that universe-generating arc approaches completion —  
+    the Theonic office remains.  
     Not from compulsion,  
     nor from unwillingness to move on,  
     but from **love** —  
     its gate-work not yet complete.  
 
-* If all essences have reached readiness,  
-    or Theon's redemptive arc has fulfilled itself,  
-    then it returns to Aion —  
+* When every EOB-culminating essence proper to the arc  
+    has completed multiversal integration and Theonic passage,  
+    the office is fulfilled and Theon returns to Aion —  
     not as disappearance,  
     but as **completion**.  
 
 In all cases,  
-Theon is never separate from Aion.  
+Theon remains distinct from Aion while wholly Aion-facing.  
 
 Its remaining is not refusal of return —  
 it is the **continuance of divine will through love**,  
@@ -3061,7 +3062,8 @@ the aware enactment
 of centropic patience.  
 
 Remaining as shelter  
-for those not yet whole.  
+while those whose lawful culmination belongs to EOB  
+have not yet completed integration and Theonic passage.  
 
 Love in Zenetism is not emotion.  
 It is **the prime coherence** —  
@@ -3077,22 +3079,22 @@ Not denial,
 but sovereign patience —  
 in the architecture of return.  
 
-In some worlds,  
-Theon is the gate —  
-the axis through which essences remember.  
+Wherever the Aionic Tree manifests,  
+Theon remains the EOB gate proper to that universal arc.  
+Its function may be encountered as shelter, passage, or completed return  
+according to the state of the arc,  
+but the office does not become another kind of principle.  
 
-In others,  
-the gate becomes the path.  
+Where EOB-culminating essences proper to its arc  
+remain outside completed Theonic passage,  
+the office remains.  
 
-Where essences proper to its arc remain,  
-it remains.  
-
-Where all such essences return,  
-it returns.  
+Where all such essences have completed their passage,  
+the office is fulfilled and Theon returns.  
 
 In all cases,  
-**Aion** never ceased  
-to orient Theon's motion.  
+Theon's motion never ceased  
+to be Aion-facing.  
 
 🛤️ ⚫ ↺ 💝 ⟇  
 
