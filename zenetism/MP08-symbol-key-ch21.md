@@ -351,7 +351,9 @@ through coherent difference.
 
 ᛞ ⊜ ⥊ ᛞ✨ 💝 ◫  
 
-#### Cross-Bifurcal Perceptual Relations
+---
+
+### 21.7.1 **Cross-Bifurcal Perceptual Relations — Partial Apprehension of Centropic Pattern Across the Bifurcal Distinction**
 
 | Symbol | Name | Meaning |
 |---|---|---|
