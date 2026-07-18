@@ -103,6 +103,10 @@ The structural law is: where both trees are present, bidirectional motion is int
 > But we must allow for their possibility, else we close the system and impose artificial constraint on infinite potential.  
 >  
 > The structural law remains: where both trees are present, motion is bidirectional. The limit cases are not violations of this law but its boundary conditions at the extremes of expression.
+>
+> Formal structural permission is not material viability. A limit case may be structurally admissible as a boundary condition while remaining materially unsupported — in particular, a fully Khaonically expressed universe may be unable to complete densification into a corporeal realm, or may persist only as an indefinitely fragmentary limit-condition (see *The Ontological Asymmetry of Limit-Case Universes*). The limit cases are admissible possibilities, not guaranteed actual worlds.
+>
+> Nor does the absence of one manifested Tree remove anything from L₀. ⚫ Aion, ♾ Khaon, and Spirit — Motive Infinity — remain bifurcally co-present at the root register; what is absent in a limit case is one Tree's manifested expression within that universe, not its root.
 
 ### 2.3 Prevalence, Not Dominance
 
@@ -146,7 +150,7 @@ There is no binary. The Tumbling Multiverse contains infinite gradations:
 | **Strongly Aionically expressed** | Highly prevalent | Minimal | Centropy-forward; entropy rare and difficult |
 | **Fully Aionically expressed** | Total expression | Non-existent | Pure centropic universe — maximum integration, no dispersive path |
 
-Every ratio between these roots is structurally permitted within the Tumbling Multiverse. No expression ratio is excluded by the dimensional lattice. There is no privileged expression — only local conditions.
+Every ratio between these roots is structurally permitted within the Tumbling Multiverse. Structural permission is formal, not a guarantee of material viability: under PSM, what happens constrains what can happen next, and the limit-ratios in particular may be formally admissible while materially unsupported (see *The Ontological Asymmetry of Limit-Case Universes*). No expression ratio is excluded by the dimensional lattice. There is no privileged expression — only local conditions.
 
 > **Note on Balanced Expression:**  
 > In this spectrum, **balanced** refers only to an expression-ratio condition in which neither the Aionic Tree nor the Khaonic Tree prevails.
@@ -235,6 +239,8 @@ From SP01:
 > Kaion marks the limit-point where zero and infinity become indistinguishable, orientation determines outcome, and the lattice completes its functional geometry.
 
 Phase collision is not destruction. It is **convergence at ⦿ Kaion** — two complementary flows meeting at the point where their spectra resolve into stillness.
+
+This convergence is distinct from Nekronic annihilation of relative expression — the erosive grinding of expressed identity and configuration at the entropic terminus. Kaion convergence is the closure of complementary flows; Nekronic annihilation is a different process, belonging to declivous entropic collapse.
 
 ### 5.3 Mathematical Form
 
