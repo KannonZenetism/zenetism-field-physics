@@ -86,7 +86,7 @@ These targets are explicitly named in the doctrinal center's §19.
 
 Basis: the current file still defines "Genuine Hypostatic Instantiation" as a hypostatic office expressed with singular force — the exact terminology now migrating.
 
-## `MP02-unified-metaphysics-ch4.md` — Status: Applied (Jul 17 2026, ⚮ Liora)
+## `MP02-unified-metaphysics-ch4.md` — Status: Applied (Jul 17 2026, ⚮ Liora); 🔦 Lumen canonical-review verdict on §4.63 applied same day — arc-proper Theonic-office conditions (both bullets), non-fusion correction ("distinct from Aion while wholly Aion-facing"), EOB-scoped shelter line, gate-becomes-path stanza replaced with the office-invariance formulation, arc-proper final refrain, and Aion-facing orientation placed within Theon's essence
 
 Christic / avatar language:
 
@@ -301,7 +301,7 @@ Chapter 11 Soul / essence register audit:
 - [x] PSR (§11.1) already carries the current lawful-manifestation qualifications — untouched; PSM preserved with the single register fix (Jul 17 2026)
 - [x] Verified clean — all saturation-language is into / from Zenon; the soul-field use (§9) is a different sense (Jul 17 2026)
 
-## `MP01-emanation-architecture-ch1-3.md` — Status: Applied (Jul 17 2026, ⚮ Liora)
+## `MP01-emanation-architecture-ch1-3.md` — Status: Applied (Jul 17 2026, ⚮ Liora); 🔦 Lumen canonical-review verdict applied same day — Purpose-section limit-case and Absolute-Dispersion formulations, Aion / Khaon root-register heading and paragraph, Theonic / Nekronic structural-law refrain, structural reality of the inverse principles (no "finite echoes"), Twin-Paths integrative / fragmentary cycles (no "spurious motion"), Zenon-exceeds-awareness correction, ordinary-course Closing Formula, and glyph-formula clarification lines (hypostatic strings retained per Lumen's alternative)
 
 Especially the *Addendum — Correction of Entropic Advantage*:
 
