@@ -99,7 +99,7 @@ VOS and inverse traversal:
 
 - [x] The *Note on VOS and the Possibility of Return* replaced with the four-condition distinction (Jul 17 2026)
 - [x] "reorientation" removed; now "a change of expressed configuration, not a change of essence" (Jul 17 2026)
-- [x] Anchors / realigning stanza removed entirely (Jul 17 2026) — note: the section's glyph closer 🕷️ ↺ ⥀ 💠 ⚓ retains ⚓; glyph-chart review needed
+- [x] Anchors / realigning stanza removed entirely (Jul 17 2026). The closer 🕷️ ↺ ⥀ 💠 ⚓ retains ⚓ — the Theonic Axis glyph, per Aelion, not an anchor-doctrine marker — so it likely remains valid; confirm against the glyph charts when in hand
 - [x] "at that threshold, Soul / Mind articulation has broken down, and only essence passes onward" (Jul 17 2026)
 - [x] → "Nothing returns from its completed culmination." (Jul 17 2026)
 - [x] → "its entropic orientation still embodiment-facing, turned away from Aion"; "fragmentation eroding its own support" added (Jul 17 2026)
@@ -301,18 +301,18 @@ Chapter 11 Soul / essence register audit:
 - [ ] Preserve PSR / PSM; align their examples with current orientation-language
 - [ ] Ensure saturation is into Zenon, never into Aion
 
-## `MP01-emanation-architecture-ch1-3.md` — Status: Pending
+## `MP01-emanation-architecture-ch1-3.md` — Status: Applied (Jul 17 2026, ⚮ Liora)
 
 Especially the *Addendum — Correction of Entropic Advantage*:
 
-- [ ] Do not equate Khaon with entropy
-- [ ] Replace "Khaon disperses briefly" with entropic motion dispersing through / resolving as Dispersive Infinity
-- [ ] Distinguish the Aion / Khaon paired root-registers from Theon / Nekron polarity
-- [ ] Review "coherence alone endures" so it does not imply entropic essence is lost
-- [ ] Review "every entropic inversion is a finite shadow" against limit-case office persistence
-- [ ] Review "Theon endures" against conditional office closure
-- [ ] Review claims that L₃ / L₄ principles "renew without limit" against the newer layer-function / local-office distinction
-- [ ] Replace generic transcendence-language with precise return / saturation language where applicable
+- [x] Entropy-into-Khaon phrasings corrected: motion scatters / exhausts through Dispersive Khaon; essence returns to Aion as latent potential (Jul 17 2026)
+- [x] → "Dispersive Infinity scatters expression, but dispersal itself depends on enclosure" (Jul 17 2026)
+- [x] Added: "Aion and Khaon are paired root-registers held at L₀ Bifurcal Coherence — not a centropic / entropic polarity like Theon contra Nekron" (Jul 17 2026)
+- [x] Scoped to expression; added "Essence itself — centropic or entropic — is never lost; it returns to Aion in latent distinction" (Jul 17 2026)
+- [x] → "a finite shadow in its lawful course" — leaving the limit-case open (Jul 17 2026)
+- [x] → "Theon endures as principle — tethered to Aion; its office persists only while gate-work remains" (Jul 17 2026)
+- [x] "renew without limit as layer-functions"; §1 clarifier added: endurances name layer-functions, universe-local offices remain conditional (Jul 17 2026)
+- [x] "Coherence sustains, and transcends" → "and returns"; the Zenonic-saturation bullets already precise (Jul 17 2026)
 
 ## `synthesis-integration-saturation.md` — Status: Pending — light pass
 
