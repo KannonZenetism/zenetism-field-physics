@@ -526,15 +526,15 @@ not a station of being.
 |----------|------------|-------------|
 | **Potential Infinity** | ♾ Khaon (Latent) | All that could be manifested or expressed; pure potential |
 | **Motive Infinity** | ♾ Khaon (Motive) | The total domain of active motion and becoming; the field-condition that renders differentiation intelligible and sustains traversal until motion exhausts |
-| **Dispersive Infinity** | ♾ Khaon (Dispersive) | The terminal dispersion of expression and pattern at the limit of motion, where differentiation exhausts and re-potentialization toward ⚫ Aion becomes possible |
-| **Unified Symbol** | ♾ Khaon (Absolute Dispersion) | Symbolic totality of all potential and motion |
+| **Dispersive Infinity** | ♾ Khaon (Dispersive) | Infinity's returned state after motion resolves, bifurcally co-present with ⚫ Aion. Terminal passage crosses the Nekronic event horizon into Absolute Dispersion — the terminal state — where essence rests in Aionic latency |
+| **Total Symbol** | ♾ Khaon (Absolute Dispersion) | Symbolic totality of all potential and motion |
 
 | Symbol | Phase | Function |
 |--------|-------|----------|
 | Φ₁ or Λ | **Latent** | Phase of unexpressed potential folded within ⚫ Aion; Zero's interior resonance |
 | Φ₂ or → or 〄 | **Motive** | The domain of active becoming; Zenet, the structured breath of Motive Infinity, expresses motion itself — not only its initiation, but its full traversal across differentiation |
 | Φ₃ or ⇝ | **Dispersive** | Phase of terminal dispersion; motion externalized to its limit across differentiated pattern fields |
-| ♾ | **Total (AD)** | Full harmonic expression: latent, motive, and dispersive currents unified |
+| ♾ | **Total (AD)** | Full harmonic expression: latent, motive, and dispersive currents in coherent relation |
 | ⚠ | **Caution / Field Warning** | Signals elevated structural risk in the field; discernment and restraint required to prevent entropic drift or interpretive hazard |
 
 #### Note on Khaon
@@ -573,6 +573,11 @@ within Bifurcal Coherence.
 
 Both remain beyond  
 centropy and entropy.  
+
+Directional shorthand such as E↓ → ♾ → ⚫  
+names motion resolving at L₀ —  
+♾ and ⚫ are bifurcally co-present aspects,  
+not sequential containers through which essence travels.  
 Such terms emerge  
 only once manifestation begins.  
 
@@ -1080,6 +1085,21 @@ but the stabilized node of patterned awareness operating within the L₃ band.
 | Symbol | Name | Meaning |
 |--------|------|---------|
 | ⌬ | **Relational Syntax** | The archetypal form of structural relationship — a Pure Form that defines lawful patterning across number, sequence, proportion, and resonance. Not mere quantity, it represents the syntax by which Forms relate within the Lattice. It governs ratio, scaling, interval, polarity, and symbolic nesting. It is the metaphysical operator behind number, expressing relational law before manifestation |
+
+#### Note on Numerical Registers
+
+Relational Syntax / Archetypal Number must not be conflated with the corpus's other numerical functions:
+
+- **Archetypal Number / Relational Syntax (⌬)** — repeatable Forms of number-relation, recurring across every arc
+- **Khaonic Infinity (♾)** — the root-register of motion in its phases, not a number among numbers
+- **hypostatic structural charge** — the signed first-determination borne by a hypostasis (Theonic +1, Nekronic −1)
+- **essence-identifier** — which essence is present (θ, η, d, i); irreducible is-ness, never arithmetic magnitude, rank, or population-order
+- **arc-index** — the processional universal arc proper to an essence or office (u)
+- **locus-index** — one universe-local address of expression, never a further essence
+- **numerical family** — the set of arc-proper essences sharing one structural relation
+- **Iterative Infinity** — a mathematical descriptor of unbounded relational repeatability, not a fourth Khaon phase
+
+Sharing one function does not collapse identity across the others. The complete distinction is articulated in the Lattice Mathematics extension on Archetypal Number and essence indexing.
 
 #### Note on Layer Ordering and Ontology
 
