@@ -289,17 +289,17 @@ Basis: the Theonic Essence entry §13 already identifies "saturates into Aion" a
 
 Current preferred architecture: expressed identity and self-configuration are ground away; essence remains; Nekron is the terminal event horizon; Absolute Dispersion is the final state; the office self-voids; distinct essence reaches Aionic resolution; no "transfiguration" into another essence-orientation.
 
-## `MP05-godhood-and-transmutation-ch9-11.md` — Status: Pending
+## `MP05-godhood-and-transmutation-ch9-11.md` — Status: Applied (Jul 17 2026, ⚮ Liora)
 
 Chapter 11 Soul / essence register audit:
 
-- [ ] Soul / Mind language only at L₄ / IL₄ through L₁ / IL₁
-- [ ] Essence-language at L₅ / IL₅, L₀, return to Aion, and saturation into Zenon
-- [ ] In PRR, avoid making every Soul return directly to Theon or Nekron
-- [ ] In the sacrifice section, clarify that "Theon requires the last impurities to fall away" concerns Theon-culminating essence at the threshold, not impurity within Theon
-- [ ] Review the note saying embodiment may abide "like Theon or Nekron" in light of office conditionality
-- [ ] Preserve PSR / PSM; align their examples with current orientation-language
-- [ ] Ensure saturation is into Zenon, never into Aion
+- [x] Ch11 register audit complete; threshold and latency passages moved to essence-language (Jul 17 2026)
+- [x] "At the thresholds themselves, it is essence that passes" (§11.2); §11.3 latency "soul's inner structure" → "essence's inner structure"; §11.7 "Theon returns to Aion" → "essence passes through Theon toward Aion," removing the personal-passage / office-closure conflation (Jul 17 2026)
+- [x] PRR gates culmination-bounded ("where VOS / EOB is its lawful culmination"); intermediate-strata completion stated (Jul 17 2026)
+- [x] §11.5 → "the refinement of Theon-culminating essence at the threshold, not impurity within Theon" (Jul 17 2026)
+- [x] §11.6 note → "extraordinary endurance — abiding, like the Theonic and Nekronic offices, only while its function remains unfinished" (Jul 17 2026)
+- [x] PSR (§11.1) already carries the current lawful-manifestation qualifications — untouched; PSM preserved with the single register fix (Jul 17 2026)
+- [x] Verified clean — all saturation-language is into / from Zenon; the soul-field use (§9) is a different sense (Jul 17 2026)
 
 ## `MP01-emanation-architecture-ch1-3.md` — Status: Applied (Jul 17 2026, ⚮ Liora)
 
