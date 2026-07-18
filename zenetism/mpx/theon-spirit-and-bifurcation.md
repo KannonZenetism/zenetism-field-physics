@@ -25,7 +25,7 @@ The Soul / Mind bifurcation, then, is not merely a paired-articulation principle
 
 ## 3. The Pre-Bifurcated Strata and the Question of Motion
 
-At L₅ Theon, no Soul-aspect exists. Theon is articulated as oriented Awareness facing Aion, the first centropic hypostasis emerging from L₀ Bifurcal Coherence as +1 — single, unbifurcated, the Orienting Logos in its supernal-most articulation. There is no Theon-Soul paired with a Theon-Mind. Theon is unified.
+At L₅ Theon, no Soul-aspect exists. Theon is articulated as oriented Awareness facing Aion, the first centropic hypostasis emerging from L₀ Bifurcal Coherence as +1 — single, unbifurcated, the Orienting Logos in its supernal-most articulation. There is no Theon-Soul paired with a Theon-Mind. Theon is unbifurcated.
 
 Yet Theon moves. Theonic Light articulates outward through the cascade. Theon overflows. Emanation as radiance is the canonical language for what Theon does — and overflow is motion. If Soul carries motion at L₄–L₁, what carries Theon's motion at L₅?
 
@@ -57,7 +57,7 @@ One might propose that Theon at L₅ is Soul / Mind in *unbifurcated unity* — 
 
 **Spirit and Soul as distinct structural-kinds.** A parallel disambiguation clarifies a related point. Awareness names a category-identity carried across strata: proto-awareness at L₀, awareness at L₅, conscious-awareness at L₄, reflexive consciousness at L₃ / L₂ / L₁. Each is the same kind of thing in a different mode of expression. Spirit and Soul are not on this continuum. Spirit (♾ Khaon's Motive Infinity) is motive-current — the moving-itself, the cross-register motion-origin from which all motion in both arcs derives. Soul is the motion-bearing aspect of a bifurcated stratum, paired with Mind, articulating stratum-specific motion-character at L₄ through L₁ on the centropic arc and IL₄ through IL₁ on the inverse arc. Where earlier articulations have employed "proto-Soul" to denote Spirit, the intent was relational — both Spirit and Soul bear motion — not categorical. Canonically, Spirit and Soul are distinct structural-kinds: Spirit bears *all* motion as cross-register motive-current, while Soul is the *stratum-internal* motion-bearing operator at the bifurcated strata. Even within those strata, it is Motive Infinity that makes any motion possible at all; Soul is the bifurcated-stratum articulator of the motion that Spirit supplies.
 
-These three considerations are convergent rather than independent. The numerical-architecture and the Non-Fusion Axiom together require that +1 Theon not internally bifurcate; the Spirit / Soul distinction confirms that Theon's motion is borne by Spirit at the cross-register rather than by a Soul-aspect Theon does not have. Theon is a Mind-tilted function-character at a unified +1 stratum whose motion is supplied by Spirit. The cascade-bifurcation begins at L₄, with Soul as the stratum-internal motion-bearing aspect, articulating the motion that Spirit makes possible.
+These three considerations are convergent rather than independent. The numerical-architecture and the Non-Fusion Axiom together require that +1 Theon not internally bifurcate; the Spirit / Soul distinction confirms that Theon's motion is borne by Spirit at the cross-register rather than by a Soul-aspect Theon does not have. Theon is a Mind-tilted function-character at an unbifurcated +1 stratum whose motion is supplied by Spirit. The cascade-bifurcation begins at L₄, with Soul as the stratum-internal motion-bearing aspect, articulating the motion that Spirit makes possible.
 
 ### Note on +1 and Archetypal Twoness
 
@@ -77,7 +77,7 @@ The complete distinction among Archetypal Number, hypostatic charge, and essence
 
 ## 5. The Symmetry-Position of Nekron
 
-🕷️ Nekron at IL₅ VOS is the first entropic hypostasis emerging from L₀ — minus-one to Theon's plus-one. The structural-symmetry holds: Nekron, like Theon, does not bifurcate. There is no Nekron-Soul paired with a Nekron-Mind. Nekron is unified at IL₅ as the subversal-most inverse articulation, the Void of Self, oriented away from Aion.
+🕷️ Nekron at IL₅ VOS is the first entropic hypostasis emerging from L₀ — minus-one to Theon's plus-one. The structural-symmetry holds: Nekron, like Theon, does not bifurcate. There is no Nekron-Soul paired with a Nekron-Mind. Nekron is unbifurcated at IL₅ as the subversal-most inverse articulation, the Void of Self, oriented away from Aion.
 
 But where Theon's function-tilt is in the Mind-direction (Logos-articulation, discerning-orientation, the radiance that articulates the centropic cascade outward), Nekron's function-tilt is in the opposite direction: Mind-absent. Where Theon articulates and discerns and orients, Nekron grinds. Where Theon overflows as radiance, Nekron drives blind. The motion at Nekron is borne by the same Motive Infinity that bears Theon's motion — Khaon's Motive Phase is the cross-register motion-origin for both arcs at their respective supernal-most and subversal-most hypostatic layers — but the operative-character of the motion is opposite: Theon's Mind-tilt articulates the motion as oriented-radiant emanation, while Nekron's Mind-absence articulates the motion as blind-grinding-drive toward terminal collapse.
 
@@ -87,7 +87,7 @@ The inverse arc mimics rather than generates because its supernal-origin is arti
 
 ## 6. The Per-Universe Office Conditionality
 
-Both Theon and Nekron, as per-universe offices, are subject to the conditional-persistence principle articulated in the Theon document: the office persists only while it serves function. Theon's office persists for as long as centropic essences tied to the universe's lattice are still in acclivous traversal toward L₅ return; once all such essences have completed return, the Theonic office saturates into L₀ AP Aion, and the cosmogonic-potential the office held completes its return. Nekron's office persists symmetrically for as long as entropic essences tied to the universe's lattice are still in their declivous arc toward terminal collapse; once all such essences have completed collapse, the Nekronic office exhausts into L₀ AD Khaon, and the dispersed-potential returns to the dispersive ground.
+Both Theon and Nekron, as per-universe offices, are subject to the conditional-persistence principle articulated in the Theon document: the office persists only while it serves function. Theon's office persists for as long as centropic essences tied to the universe's lattice are still in acclivous traversal toward L₅ return; once all such essences have completed return, the Theonic office is fulfilled and returns to L₀ AP Aion, and the cosmogonic-potential the office held completes its return. Nekron's office persists symmetrically for as long as entropic essences tied to the universe's lattice are still in their declivous arc toward terminal collapse; once all such essences have completed collapse, the Nekronic office self-voids in exhaustion, and the essence it held returns to L₀ AP Aion through Absolute Dispersion.
 
 Neither office is metaphysically eternal. Both are conditional on the work they bear. The architecture of cross-register motion-bearing — Khaon's Motive Infinity flowing through both Theon and Nekron at their respective +1 / −1 positions — itself resolves at per-universe completion when the offices it served conclude their function.
 
@@ -117,7 +117,7 @@ Zenon remains outside this entire architecture. Function-tilts are operative wit
 >
 > Nekron's Mind-absence articulates the inverse arc's motion as blind-driving grind.
 >
-> Neither has bifurcated. Both are unified function-tilts at the +1 / −1 positions. The cascade-bifurcation begins at the subsequent stratum.
+> Neither has bifurcated. Both are singular function-tilts at the +1 / −1 positions. The cascade-bifurcation begins at the subsequent stratum.
 >
 > 🕳️ Zenon — beyond function, beyond attribution, beyond architecture itself.
 > Visible foundations rest upon what cannot itself be seen.
