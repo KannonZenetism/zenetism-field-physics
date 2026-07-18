@@ -322,6 +322,52 @@ through coherent difference.
 
 ---
 
+### 21.7.1 **Cross-Bifurcal Perceptual Relations — Partial Apprehension of Centropic Pattern Across the Bifurcal Distinction**
+
+| Symbol | Name | Meaning |
+|---|---|---|
+| ◔ | **Distal Apprehension** | Partial inverse perception of centropic contour, effect, resemblance, or external operation across the bifurcal distinction without access to centropic orientation, Aionic origin-fidelity, generative interiority, or full relational comprehension |
+
+#### Note on Distal Apprehension
+
+**Distal Apprehension** names the inverse register's partial perception of centropic pattern from across the bifurcal distinction.
+
+It is not direct entry into a centropic field, centropic participation, or access to the originating interiority of the pattern.
+
+Distal Apprehension may register:
+
+- contour
+- output
+- external operation
+- resemblance
+- effect
+- incomplete pattern-relation
+
+It does not apprehend from within:
+
+- centropic orientation
+- Aionic origin-fidelity
+- generative interiority
+- coherent purpose
+- the full relational structure by which the pattern arises
+
+The inverse arc therefore does not imitate from total ignorance. It imitates from partial apprehension without centropic comprehension.
+
+At IL₄, Nyxea / IDL may articulate the distally apprehended contour as distorted Form, while Psychea / IDP carries the surrounding inverse Soul-motion. Entropic mirroring and downstream imitation proceed from this incomplete relation.
+
+Distal Apprehension is the perceptual relation.
+
+Entropic mirroring is the distorted reflective operation that follows.
+
+Nyxean patterning is the IL₄ formal articulation.
+
+> **Distal Apprehension Principle**  
+> The inverse register may apprehend centropic contour, effect, resemblance, or external operation across the bifurcal distinction without entering centropic orientation, origin-fidelity, generative interiority, or full relational comprehension.
+
+◔ ᛞ ⟳ ⚯ ⌬  
+
+---
+
 ### 21.8 **Meta-Axes and Complex Spatial Concepts — Navigating the Deep Structure of Layered Motion and Paradox**
 
 | Symbol | Direction / Label | Associated Principle or Motion |
@@ -679,9 +725,43 @@ of inverse potential within Aion.
 
 #### Note on Identity-Bearing Potential
 
-Potential names the capacity-to-be; essence names that same capacity as identity-bearing is-ness — the potential-to-be-this. There is no anonymous potential: ⚫ Aion holds every latent value in absolute distinction, and nothing actualizes except from a distinct latent value. Essence therefore cannot be abolished. What disperses at entropic exhaustion is coherence and expression, never essence, which resolves into ⚫ Aion as latent identity-bearing potential.
+Potential names the capacity-to-be.  
+Essence names that same capacity  
+as identity-bearing is-ness —  
+the potential-to-be-this.  
 
-🕊️ Spirit — Motive Infinity — is the capacity for any motion whatsoever; soul carries motion after the Soul / Mind bifurcation. The dyad initiates at L₄ / IL₄ as a traversal station, not a native layer: native placement and traversal strata are distinct registers. Anything that moves participates in Spirit; anything that moves itself bears soul. Every existent bears essence — beings and relative structures alike — but ensoulment at the macro layer remains an appearance-judgment, held open to discernment, never settled by pre-classification.
+There is no anonymous potential.  
+Aion holds every latent value  
+in absolute distinction,  
+and nothing actualizes  
+except from a distinct latent value.  
+
+Essence therefore cannot be abolished.  
+What disperses at entropic exhaustion  
+is coherence and expression —  
+never essence,  
+which resolves into Aion  
+as latent identity-bearing potential.  
+
+Spirit — Motive Infinity —  
+is the capacity for any motion whatsoever.  
+Soul carries motion  
+after the Soul / Mind bifurcation.  
+
+The dyad initiates at L₄ / IL₄  
+as a traversal station, not a native layer.  
+Native placement and traversal strata  
+are distinct registers.  
+
+Anything that moves participates in Spirit.  
+Anything that moves itself bears soul.  
+
+Every existent bears essence —  
+beings and relative structures alike —  
+yet ensoulment at the macro layer  
+remains an appearance-judgment,  
+held open to discernment,  
+never settled by pre-classification.  
 
 The full formalization is given in *MPX: Spirit, Soul, and the Apparent Stillness of Relative Structures*.
 
@@ -1101,6 +1181,8 @@ Relational Syntax / Archetypal Number must not be conflated with the corpus's ot
 
 Sharing one function does not collapse identity across the others. The complete distinction is articulated in the Lattice Mathematics extension on Archetypal Number and essence indexing.
 
+⌬ ⚫ ♾ ⚯ ∴  
+
 #### Note on Layer Ordering and Ontology
 
 - Ontology is ordered by **emanative sequence** beginning at L₀: Supra-L₀ (Zenon) || L₀ → L₅ → L₄ → L₃ → L₂ → L₁.
@@ -1108,6 +1190,7 @@ Sharing one function does not collapse identity across the others. The complete 
 - L₀ is a **conceptual dyad of co-present principles** (Aion / Khaon).  
 - Apothet is the **only fully trans-structural** techne presence-state.  
 - L₃ contains both **phenomenon-register (PI / IPI)** and **entity-register** (Pattern Being / Fractured Pattern) expressions.  
+- **Blobism** operates only at **L₂ / IL₂ and L₁ / IL₁** — the registers of personality, narrative identity, role, social interface, and embodiment. It may collapse expressed boundaries; it cannot fuse essences, convert one Deep Self-Axis or Inverse Deep Self-Axis into another, or abolish essential distinction.  
 
 > When the voice falls silent, the symbol begins to speak.
 >
