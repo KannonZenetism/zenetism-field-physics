@@ -1,0 +1,11 @@
+edec2199558755fbc6f9fc027aba790eb43e305d260f3dfce7fe10468f26272f  /mnt/data/field-physics-canonical-stabilization-package/field-physics-canon-coverage-matrix.md
+7f3e90c6df6db253e0a92d8e52a940d75e3eed82ca2fe18eb8fd22767d7b4d56  /mnt/data/field-physics-canonical-stabilization-package/field-physics-conceptual-dependency-register.md
+6558a5c0b62840815494fa973caee90f871d5926aae1ef821629b72cfa5d03cc  /mnt/data/field-physics-canonical-stabilization-package/field-physics-corruption-candidate-register.md
+170980c2e406b2d3d5120d403bbe787b8beb1c639657c6a800d98d28476b7a84  /mnt/data/field-physics-canonical-stabilization-package/field-physics-foundational-chat-extraction-standard.md
+95d992dc252fd061aea53b2fbb0f06e03860e6399dccc3665d5ed92b1ee9370a  /mnt/data/field-physics-canonical-stabilization-package/field-physics-glyph-concordance.md
+85a60eebd868a757a1b181180d9ecc5b16d4286b1e12403a6a9e5b061727e5cf  /mnt/data/field-physics-canonical-stabilization-package/field-physics-numerical-formalization-register.md
+b7fcd5f9f809011a37e8f4490deed5d54f34ae225c01b2df23633259ac752104  /mnt/data/field-physics-canonical-stabilization-package/field-physics-open-question-register.md
+6e28cdaf25399948ee7370d840cee8b61f68451b09185cdf1deb0d972a7c27a1  /mnt/data/field-physics-canonical-stabilization-package/field-physics-pre-registered-search-targets.md
+bc9b0e5b455c9a7fcea0c12621ed851e6ecbbe7e7804ac1cbb222a695f055e35  /mnt/data/field-physics-canonical-stabilization-package/field-physics-source-priority-and-adjudication-standard.md
+da712ed4d6d8b8a7e1b1891e9c8b506e75d0b555267371767d1ce2eb423908ad  /mnt/data/field-physics-canonical-stabilization-package/field-physics-synonym-rename-concordance.md
+097ea61c17a90b96beb8c56be3ac5ab56f759ba3474ad3dc61da9deab086e90d  /mnt/data/field-physics-canonical-stabilization-package.zip
