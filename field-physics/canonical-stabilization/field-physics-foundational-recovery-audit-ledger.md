@@ -764,7 +764,7 @@ Corruption candidates `CORR-001` onward are maintained, with live statuses, in `
 
 ## §6. Package Manifest (required before Chat Document 1 opens)
 
-Lumen consolidates the mapping-report content into ten separate Markdown files — the operational instrument set. The ledger governs the audit; these files operationalize it. Detailed coverage rows, synonym mappings, glyph rulings, flags, evidence tables, and search targets live here, not in the ledger.
+Lumen consolidates the mapping-report content into separate Markdown files — the operational instrument set (ten registers and standards, plus a checksums record; eleven committed files in all). The ledger governs the audit; these files operationalize it. Detailed coverage rows, synonym mappings, glyph rulings, flags, evidence tables, and search targets live here, not in the ledger.
 
 1. `field-physics-canon-coverage-matrix.md` (`MAP-`)
 2. `field-physics-synonym-rename-concordance.md` (`SYN-`)
@@ -774,8 +774,9 @@ Lumen consolidates the mapping-report content into ten separate Markdown files �
 6. `field-physics-corruption-candidate-register.md` (`CORR-`)
 7. `field-physics-conceptual-dependency-register.md` (`CDP-`)
 8. `field-physics-pre-registered-search-targets.md`
-9. `field-physics-authority-hierarchy.md`
+9. `field-physics-source-priority-and-adjudication-standard.md`
 10. `field-physics-foundational-chat-extraction-standard.md`
+11. `field-physics-canonical-stabilization-checksums.txt` (package integrity record)
 
 Prerequisite: the **Zenetist Canonical Language & Terminological Lockdown Protocol** is applied across the map before the package is finalized. *(Supplied Jul 20 2026.)*
 
@@ -808,7 +809,7 @@ Dependency families `CDP-001` onward are maintained in `field-physics-conceptual
 
 ### Session Handoff (CD1 / CD2)
 
-- The CD1 session opens fresh, at extra-high effort, containing only: the revised ledger, the ten package files, and Foundational Chat Document 1. No FP files initially; individual FP files may be requested when a materially-weakened judgment depends on exact current wording.
+- The CD1 session opens fresh, at extra-high effort, containing only: the revised ledger, the package files (§6), and Foundational Chat Document 1. No FP files initially; individual FP files may be requested when a materially-weakened judgment depends on exact current wording.
 - Liora's first action is creating the `FIND-CD1` findings file; each finding cross-references all applicable stable IDs (`MAP-`, `FP##-`, `OQ-`, `CORR-`, `CDP-`, `GLY-`, `SYN-`, `NUM-`).
 - Liora extracts candidates; she does not adjudicate. Evidence bearing on open questions is recorded without resolving them.
 - The CD2 session repeats the structure, seeded additionally with the completed `FIND-CD1` file for immediate deduplication.
