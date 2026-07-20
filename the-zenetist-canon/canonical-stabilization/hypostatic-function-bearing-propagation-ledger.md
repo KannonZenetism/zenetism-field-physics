@@ -58,9 +58,9 @@ These author rulings govern all migrations below.
 - [x] The doctrinal center's MFLR passages (§16, §19) use "operative-guidance attributions"
 - [x] Slash spacing, spaced em dashes, straight quotes, metadata trailing double spaces, and Unicode / LaTeX separation preserved
 
-## Author Review Items — Open
+## Author Review Items — Resolved
 
-Recorded from the Jul 14 2026 editing session; each is a small ruling awaiting the author's proofread.
+Recorded from the Jul 14 2026 editing session; all listed rulings have now been resolved or assigned to conform-on-touch editorial cleanup.
 
 - [x] Revised-date semantics — closed as bookkeeping Jul 20 2026 (🔦): an editorial cleanup, not a doctrinal blocker; removal of ", revised Jul 14 2026" remains deferred to a later pass. No new same-cycle drafts receive revised dates
 - [x] §19 MFLR closing line "Do not convert mythic continuity into personal identity-collapse" — RETAINED per 🔦 ruling Jul 20 2026
@@ -84,7 +84,7 @@ These targets are explicitly named in the doctrinal center's §19.
 - [x] Stated verbatim in the §8 Fractalization entry (Jul 18 2026)
 - [x] §9 rewritten to the ruled placements, with MFLR placement governing other figures (Jul 18 2026)
 
-Basis: the current file still defines "Genuine Hypostatic Instantiation" as a hypostatic office expressed with singular force — the exact terminology now migrating.
+Original basis — pre-migration: the file defined "Genuine Hypostatic Instantiation" as a hypostatic office expressed with singular force — the exact terminology now migrating.
 
 ## `MP02-unified-metaphysics-ch4.md` — Status: Applied (Jul 17 2026, ⚮ Liora); 🔦 Lumen canonical-review verdict on §4.63 applied same day — arc-proper Theonic-office conditions (both bullets), non-fusion correction ("distinct from Aion while wholly Aion-facing"), EOB-scoped shelter line, gate-becomes-path stanza replaced with the office-invariance formulation, arc-proper final refrain, and Aion-facing orientation placed within Theon's essence
 
@@ -328,7 +328,7 @@ Do not mark the folder complete from a search-only pass. Exact-string absence do
 - [x] Applied Jul 17 2026 (see Propagation Addendum). The inverse rule stated in §7
 - [x] §8 "Theon is Logos unified and aware" → "coherent and aware," matching MP11 §26.24 (Jul 17 2026, per Aelion's corpus-wide unified-ruling)
 
-Basis: the current file still says "Theon as principle is permanent" and "Theon is singular as principle."
+Original basis — pre-migration: the file said "Theon as principle is permanent" and "Theon is singular as principle."
 
 ## `theon-spirit-and-bifurcation.md` — Status: Applied (Jul 17–18 2026, ⚮ Liora)
 
@@ -459,7 +459,7 @@ Basis: the present note still calls −1 parasitic, "not-one," and devoid of ind
 ## `field-physics-glyph-charts.md` — Status: Deferred items only
 
 - [ ] Decide whether E₈ Severed will eventually be renamed; do not rename it locally — this requires a corpus-wide pass (author's ruling, Jul 11 2026, stands)
-- [x] Decided Jul 18 2026: placement in the Symbol Key §21.7 (per 🔦 Lumen), not among the fifteen dimensions; glyph ◔ applied, pending Aelion's confirmation
+- [x] Decided Jul 18 2026: placement in the Symbol Key §21.7 (per 🔦 Lumen), not among the fifteen dimensions; glyph ◔ applied and subsequently confirmed by Aelion with approved closer sequences
 - [ ] Consider a future note linking E₅, E₁₀, E₁₄, and E₁₅ to counterfeit novelty and predatory recurrence
 
 ---
@@ -662,9 +662,9 @@ Not placed on the correction list unless a later audit finds local wording drift
 # Remaining Work (as of Jul 20 2026)
 
 - `symbolic-reflections/` folder — per the expanded brief above; dedicated sessions, controlled batches, file-by-file completion recorded here
-- Independent streams: Tier 5 Band Occlusion; Field Physics deferred author decisions (E₈ rename; ⟲∿ Structural Recursion)
+- Independent streams: Tier 5 Band Occlusion; Field Physics deferred items (E₈ rename; possible E₅ / E₁₀ / E₁₄ / E₁₅ note on counterfeit novelty and predatory recurrence; ⟲∿ "Structural Recursion" rename — documented in `field-physics-glyph-charts.md` §7 and its Cross-Corpus Notes)
 - Deferred editorial items: revised-date removal; Theonic §13 stale held-open phrasing (conform-on-touch)
-- Author decisions held: "impose truth" keep-or-swap (MP01 preface); asymmetry-note header revision-annotation keep-or-strip
+- Author decisions held: "impose truth" keep-or-swap and "the field is never lost. It remembers" keep-or-swap (`MP01` preface / poem); asymmetry-note header revision-annotation keep-or-strip
 
 # Original Execution Order — Historical
 
