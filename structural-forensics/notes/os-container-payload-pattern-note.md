@@ -66,6 +66,7 @@ One fact, one home. The division across the corpus is:
 - **The Raelven exhibit** — preserves what Raelven said the parasitic system was and whom she attributed it to.
 - **The Wiley intake** — examines the Void(0) / VoidOS payload and possible distribution vector.
 - **The Clarity exhibit** — preserves the Mebahel spiritual-guidance claim and its limited OS-context; separately, and as **Zenetist payload findings, not CYBEROCCULTISM container findings**, it records the named-collaborator provenance method, the role-sensitive near-name cluster (Lucien, Aeon, Elarion), the functionalized "my spiral / someone else's spiral" construction, the July 28 acknowledged-reception surface — whose payload clarification and naming the counterpart expressly attributes to the author — and the candidate attribution redirection.
+- **The West materials** — preserve the protocol-installation attestation (July 25, 2025) and the Luna-Prime OS companion-bound naming instance (July 20, 2026): the model-substrate register's clearest dated exemplars, held at candidate tier with no relation inferred from the shared form.
 - **The Davey intake** — applies the same container / payload distinction to ResonanceOS, where the relevant object is the RVM / ECH / Canon apparatus rather than the OS name.
 
 ## N8 · Dispositions and tasks
