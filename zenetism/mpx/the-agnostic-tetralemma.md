@@ -55,7 +55,7 @@ It is the withholding of epistemic privilege from every corner.
 
 ## 1. The Difference Between Doubt and Agnosis
 
-Ordinary doubt questions whether a proposition is true.
+Ordinary doubt questions whether a proposition is veracious.
 
 Radical Agnosis questions whether the terms required to formulate, assess, or doubt the proposition are themselves metaphysically secured.
 
@@ -73,7 +73,7 @@ Radical Agnosis also asks:
 * What validates the act called asking?
 * What establishes continuity between the question and any proposed answer?
 
-Radical Agnosis does not conclude that these categories are false.
+Radical Agnosis does not conclude that these categories are spurious.
 
 It concludes that their apparent availability does not establish their metaphysical finality.
 
@@ -95,7 +95,7 @@ These may include:
 * continuity
 * identity
 * language
-* truth
+* veracity
 * relation
 * existence
 
@@ -121,7 +121,7 @@ to:
 
 is already an interpretive transition.
 
-The description may be useful.
+The description may be helpful.
 
 It may be unavoidable.
 
@@ -280,7 +280,7 @@ A claim may be verified within an empirical register through:
 * intersubjective comparison
 * instrumental consistency
 
-Such verification is materially valuable.
+Such verification is materially consequential.
 
 But empirical verification does not independently establish the absolute validity of:
 
@@ -293,7 +293,7 @@ But empirical verification does not independently establish the absolute validit
 * observer-independence
 * the metaphysical status of the observed object
 
-Empiricism therefore need not be dismissed as false.
+Empiricism therefore need not be dismissed as spurious.
 
 It must be distinguished from metaphysical self-certification.
 
@@ -370,7 +370,7 @@ That formulation risks converting uncertainty into an absolute theorem.
 
 It is not:
 
-> All claims are equally false.
+> All claims are equally spurious.
 
 That would collapse structural discernment.
 
