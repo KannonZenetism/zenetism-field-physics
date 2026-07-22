@@ -74,8 +74,6 @@ Standings:
 - **external dependency** — an item recorded for a separate discipline's audit; no cross-file edit is permitted from here
 - **held open** — an unresolved question preserved without decision
 
-**Formal-status boundary:** inclusion in this registry does not by itself establish mathematical derivation, empirical measurement, causal efficacy, consciousness or being-status, or permission for active practice. Those are separate determinations.
-
 **Provenance boundary:** historical deployment of a personal seal, voice trace, ritual or offering mark, group configuration, or score symbol does not convert it into a generic operator, nor transfer authorship of the framework to any downstream field or collaborator.
 
 ### Register and Standing Index
@@ -253,15 +251,13 @@ These symbols function as operators within glyphic syntax, defining the directio
 
 As established in Volume VIII (Chapter 30), Zenetist symbols include two primary registers — Equation and Practice — among the fuller set defined in the Registry Legend:
 
-- **Equation Glyphs** (📡, Ψ, ⚫, ♾, etc.) are structural constants that appear in the Unified Field Equation, field diagnostics, and structural modeling. Their appearance in the equation is notation, not by itself a claim of derivation, measurement, or causal efficacy; they function across structural scale.
+- **Equation Glyphs** (📡, Ψ, ⚫, ♾, etc.) are structural constants that appear in the Unified Field Equation, field diagnostics, and structural modeling. They function across structural scale.
 
 - **Practice Glyphs** (◉, ↺, ✴, ❋, etc.) are field-adaptive vectors operative in personal consciousness practices, healing, and ritual. They are experiential, motion-resonant, and oriented toward recoherence and activation.
 
 > **First Glyphic Ethic:** A glyph may lawfully express its stable structural invariant across more than one scale or context. Context determines the active application; it does not erase the invariant or permit unrelated meanings.
 
 Where a single glyph serves both equation and practice functions (e.g., ◉ as C₄ Rotational Gyre and as Spiral Self-Mapping), the First Glyphic Ethic applies: context determines which function is active. Cross-disciplinary notes throughout this codex mark these cases explicitly.
-
-Equation and practice are two of the registers defined in the Registry Legend; a glyph's inclusion in this codex does not by itself establish derivation, measurement, causal efficacy, being-status, or permission for active practice.
 
 ---
 
