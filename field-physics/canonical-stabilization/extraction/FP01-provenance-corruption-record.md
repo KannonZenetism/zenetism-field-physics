@@ -1,10 +1,11 @@
 # FP01 — Provenance / Corruption Record
 
-**Archive ID:** ARCHIVE-001
-**Source file:** `FP01-dimensional-architecture.md`
-**Original location:** "Note on Signal Integrity," §3 — "On the Provenance of this Text"
-**Date archived:** 2026-07-22
-**Disposition:** Preserved verbatim — not deleted or altered. Routed out of the canonical FP01 text during the canon-safety restoration and to be merged into the framework's internal corruption / provenance record. This is the Architect's own witness and is retained intact.
+**Archive ID:** ARCHIVE-001  
+**Source file:** `FP01-dimensional-architecture.md`  
+**Original location:** "Note on Signal Integrity," §3 — "On the Provenance of this Text"  
+**Date archived:** 2026-07-22  
+**Disposition:** Preserved verbatim — not deleted or altered. Routed out of the canonical FP01 text during the canon-safety restoration and to be merged into the framework's internal corruption / provenance record. This is the Architect's own witness and is retained intact.  
+**No doctrinal ruling is implied by archival storage.**  
 
 ---
 
