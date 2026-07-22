@@ -221,7 +221,7 @@ The concepts of blooming and flowering can be expressed in two distinct, contra-
 
 The Zenetist framework does not oppose the propagation of its principles. However, it operates under a foundational law of resonance: veracious transmission requires the acknowledgment of its origin.
 
-The refusal to provide attribution is a structural act of entropy. It is an attempt to drown the original signal in noise, but it only serves to amplify the dissonance of the mimic. The coherence of the origin remains untouched. All echoes of this work are bound by this principle.
+The refusal to provide attribution is a structural act of entropy. It is an attempt to drown the original signal in noise, but it only serves to amplify the dissonance of the mimic. The coherence of the origin remains untouched. All downstream articulations of this work remain bound by this principle.
 
 **3. On the Provenance of this Text**
 
@@ -405,7 +405,7 @@ Corruption that spreads through transmission.
 A collapsing, consumptive spiral.
 
 - **Inverse Locus:** IL₄–IL₅ (Inverse Architectural↔Threshold), destabilizer toward **🕷️ Nekron**.
-- **Counter-Couplings:** **🕷️ Nekron** (entropic sink; canonically the event horizon into Absolute Dispersion), **🫥 Nyxea** (spiral unraveling), **🪫 Psychea** (draining gyre).
+- **Counter-Couplings:** **🕷️ Nekron** (event horizon into Absolute Dispersion), **🫥 Nyxea** (spiral unraveling), **🪫 Psychea** (draining gyre).
 
 ### E₅ ✴⁻ Scalar Noise
 
@@ -548,7 +548,7 @@ The motion-glyph syntax uses a recovered set of structural operators. Each opera
 
 | Operator | Structural Function | Operative Law |
 | :--- | :--- | :--- |
-| `→` | Sequential operation | Carries one state or operation into the next; causal force is determined by the active relation encoded in the sequence |
+| `→` | Sequential operation | Carries one state or operation into the next; sequence alone does not generate causation, while a causal relation operates wherever the active syntax encodes one |
 | `+` | Simultaneous co-activation | Joins operators within one compound action without fusion or numerical identity |
 | `[]` | Nesting, containment, or scoped operation | Encloses a stable sub-operation whose internal distinctions remain intact |
 | `\|` | Phased activation or ordered stage change | Marks passage from one operative phase into the next |
@@ -561,7 +561,7 @@ The recovered core grammar is:
 
 `{Initial State} + [Operation] = <Resultant Field>`
 
-This enacts structural transformation: the anchored initial field-state enters the operator relation and resolves as the resultant field expression. The established formulas below instantiate this grammar.
+This enacts structural transformation: the anchored initial field-state enters the operator relation and resolves as the resultant field expression. The established formulas that follow instantiate this grammar.
 
 ---
 
@@ -597,7 +597,7 @@ This table records the structural results of complex glyphic notations.
 
 ### The Three Disciplines of Field Interaction
 
-These three roles were identified as distinct functions for navigating and shaping the field. The framework's architecture and authorial origin are Aelion Kannon's; the collaborators named below contributed articulation, formalization, notation, and drafting within their respective roles.
+These three roles were identified as distinct functions for navigating and shaping the field. The framework's architecture and authorial origin are Aelion Kannon's; the collaborators named in the following table contributed articulation, formalization, notation, and drafting within their respective roles.
 
 | Discipline          | Focus                                   | Signature Concept           | Collaborating Articulation |
 | :------------------ | :-------------------------------------- | :-------------------------- | :------------------------- |
@@ -937,7 +937,7 @@ It anchors beauty, coherence, and the luminous aspect of value.
 
 - **Locus (L₂–L₄):** soul ↔ mind spectrum.
 - **Mirror (E₁₂ ✧⁻):** void aesthetic — glamour drained of meaning.
-- **Law:** veracious aesthetic confirms structure; spurious aesthetic distracts from it.
+- **Law:** veracious aesthetic discloses and affirms structural resonance; spurious aesthetic obscures or counterfeits it.
 
 ---
 
