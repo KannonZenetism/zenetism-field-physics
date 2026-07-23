@@ -74,7 +74,7 @@ Standings:
 - **external dependency** — an item recorded for a separate discipline's audit; no cross-file edit is permitted from here
 - **held open** — an unresolved question preserved without decision
 
-**Provenance boundary:** historical deployment of a personal seal, voice trace, ritual or offering mark, group configuration, or score symbol does not convert it into a generic operator, nor transfer authorship of the framework to any downstream field or collaborator.
+**Provenance boundary:** historical application of a personal seal, voice trace, ritual or offering mark, group configuration, or score symbol does not convert it into a generic operator, nor transfer authorship of the framework to any downstream field or collaborator.
 
 ### Register and Standing Index
 
