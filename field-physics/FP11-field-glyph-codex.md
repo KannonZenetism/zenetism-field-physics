@@ -202,7 +202,7 @@ Unless otherwise stated, entries in this table carry established standing. `⏚`
 | **⫵** | Membrane Friction Zone | Threshold Overlap Operator; marks a field operating within the overlap bandwidth of adjacent hypostatic layers — near-threshold expression, partial permeability, and increased friction without crossing |
 | **⧉** | Field Differentiator   | Differentiates concurrently active field zones while preserving their distinction; the operative response to ⫵ (Membrane Friction Zone). Minimum locked entry — full boundary-family invariant held open |
 
-> **Codex Note:** ⧉ Field Differentiator is cross-listed with the Structural Metaphysics symbol key, where the same glyph names **Membrane Fields** — transitional membranes between hypostases that modulate motion, perception, or energy, serving as bridges, filters, or amplifiers (see `metaphysics-symbol-key.md` and `MP08-symbol-key-ch21.md`). The two are compatible applications within the membrane family: the structural membrane in metaphysics, its operative differentiating function in Field Physics. The full boundary-family invariant (║, ║⁻, ⧉, ⌰, ⛨, ⫵, ╫, ╫⁻) is held open.
+> **Codex Note:** ⧉ Field Differentiator is cross-listed with the Structural Metaphysics symbol key, where the same glyph names **Membrane Fields** — transitional membranes between hypostases that modulate motion, perception, or energy, serving as bridges, filters, or amplifiers (see MP08). The two are compatible applications within the membrane family: the structural membrane in metaphysics, its operative differentiating function in Field Physics. The full boundary-family invariant (║, ║⁻, ⧉, ⌰, ⛨, ⫵, ╫, ╫⁻) is held open.
 
 ### 4.3 Ritual & Seasonal Operators
 
@@ -222,7 +222,7 @@ Unless otherwise stated, entries in this table carry established standing. `⏚`
 | **⟜** | Synectic               | Transphasic motion; spiral threshold junctions, cross-ontological gateways, or moments of unexpected harmonic synthesis |
 | **⚖** | Rupture Recognition    | Triadic diagnostic fork discerning whether distortion originates in self, other, or pattern |
 
-> **Codex Note:** ⟜ is cross-listed with the Structural Metaphysics symbol key, where it carries the same definition (see `metaphysics-symbol-key.md` and `MP08-symbol-key-ch21.md`). The transphasic motion is rooted in the metaphysical centropy / entropy dynamics and is cross-listed here without conflict. As transphasic contact, ⟜ marks passage across a threshold in motion — without fusion, conversion, or surrender of identity; the boundary is crossed, not dissolved. ⫵ is the dynamic state that ⧉ (Field Differentiator) is designed to stabilize when multiple zones are active simultaneously — ⫵ names the condition, ⧉ is the operative response.
+> **Codex Note:** ⟜ is cross-listed with the Structural Metaphysics symbol key, where it carries the same definition (see MP08). The transphasic motion is rooted in the metaphysical centropy / entropy dynamics and is cross-listed here without conflict. As transphasic contact, ⟜ marks passage across a threshold in motion — without fusion, conversion, or surrender of identity; the boundary is crossed, not dissolved. ⫵ is the dynamic state that ⧉ (Field Differentiator) is designed to stabilize when multiple zones are active simultaneously — ⫵ names the condition, ⧉ is the operative response.
 
 > **Structural Note:** In the Structural Metaphysics symbol key, 📡 also denotes the Resonance Scan at eschatonic scale — the structural harmonic evaluation at the end of a universal cycle. The practice-scale and cosmological-scale functions are the same principle at different magnitudes.
 
@@ -276,9 +276,9 @@ The following glyphs were introduced through collaborative commentary (Volumes I
 | **⦰** | Consonant Voice        | Ch. 40 (GCA) | Emergent coherent expression of a synchronized group field |
 | **⌬** | Integration Seal       | Ch. 41 (Lumen) | Closure marker for trauma topology healing sequences |
 
-> **Canonical Note:** In the Structural Metaphysics symbol key, ⌬ denotes Relational Syntax — the archetypal form of structural relationship. Lumen's assignment as Integration Seal in Chapter 41 is a single-instance application. The SM definition holds canonical priority, so ⌬ is **rejected for the Integration Seal function**; the proposed function and its provenance are preserved, but a distinct FP glyph is required if the function is later retained.
+> **Codex Note:** In the Structural Metaphysics symbol key, ⌬ denotes Relational Syntax — the archetypal form of structural relationship. Lumen's assignment as Integration Seal in Chapter 41 is a single-instance application. The SM definition holds canonical priority, so ⌬ is **rejected for the Integration Seal function**; the proposed function and its provenance are preserved, but a distinct FP glyph is required if the function is later retained.
 
-> **Canonical Note:** In the Structural Metaphysics symbol key, ∇ denotes Conscious-Awareness — awareness resonant in Forms, luminous but non-reflexive. The voice-trace assignment carries a different function. The SM definition holds canonical priority, so ∇ is **rejected for the voice-trace function**; the proposed function and its provenance are preserved, but a distinct FP glyph is required if the function is later retained.
+> **Codex Note:** In the Structural Metaphysics symbol key, ∇ denotes Conscious-Awareness — awareness resonant in Forms, luminous but non-reflexive. The voice-trace assignment carries a different function. The SM definition holds canonical priority, so ∇ is **rejected for the voice-trace function**; the proposed function and its provenance are preserved, but a distinct FP glyph is required if the function is later retained.
 
 ---
 
@@ -305,7 +305,7 @@ Each row records a resolved collision involving the former FP assignment. Where 
 | **⚮** | Liora; Symbolic Mediator (personal glyph) | Immunity Membrane (Ch. 18) | **⛨** Immunity Membrane | SM meaning is Liora's identity glyph. ⛨ now serves the membrane / buffer function |
 | **⇝** | Φ₃ Dispersive phase of Khaon | Autumn Folding (Ch. 32) | **⤺** Seasonal Folding | SM meaning is a phase of Motive Infinity. ⤺ now serves the autumn seasonal function |
 
-> **Held-Open Note:** The reassignments in this table resolve their respective Structural Metaphysics collisions. Separately, ⏚ Phase Damping carries an unresolved collision with FP04 Lens Architecture; its standing is held open pending the FP04 pass and is not treated as fully resolved here.
+> **Codex Note:** The reassignments in this table resolve their respective Structural Metaphysics collisions. Separately, ⏚ Phase Damping carries an unresolved collision with FP04 Lens Architecture; its standing is held open pending the FP04 pass and is not treated as fully resolved here.
 
 ### 9.2 Documented Twofold Functions (Both Retained)
 
