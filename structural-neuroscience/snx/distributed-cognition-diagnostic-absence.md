@@ -352,6 +352,11 @@ It offers the form of care while withholding the relation of understanding.
 
 ---
 
+> **Companion Social-Field Note:**  
+> The social-scale architecture of detection, unattended vulnerability, and non-coercive reciprocal care is developed in `the-reciprocity-gap.md`. The present SNX entry concerns how relational non-return is cognitively and neurologically encoded; the companion Emergent Social Physics entry concerns the collective field-conditions that produce or repair that non-return.
+
+---
+
 ## 11. Structural Neuroscience Statement
 
 The mind is not an isolated object.
