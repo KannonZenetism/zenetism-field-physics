@@ -172,7 +172,7 @@ These glyphs function primarily within the practice of Field Physics through rit
 
 ### 4.1 Practice Operators
 
-Unless otherwise stated, entries in this table carry established standing. `⏚` retains the Phase Damping function while its glyph standing remains held open pending the FP04 Lens Architecture collision.
+Unless otherwise stated, entries in this table carry established standing. ⏚ retains the Phase Damping function while its glyph standing remains held open pending the FP04 Lens Architecture collision.
 
 | Glyph | Name                   | Core Function                                               |
 | :---- | :--------------------- | :---------------------------------------------------------- |
