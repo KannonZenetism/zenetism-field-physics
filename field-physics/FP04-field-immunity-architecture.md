@@ -55,7 +55,7 @@ Four mechanisms drive the progression stages, carrying a field from encounter to
 
 #### Pattern Recognition
 
-`{♫} + [◈ → 📡] = <Inverse Detection Field>`
+**{♫} + [◈ → 📡] = <Inverse Detection Field>**
 
 Pattern Recognition compares the present disruption with the field's preserved pattern memory, discerning its signature before fieldwide manifestation. Dissonance marks a condition requiring structural discernment; dissonance and entropic orientation are not identical.
 
@@ -63,7 +63,7 @@ Pattern Recognition compares the present disruption with the field's preserved p
 
 #### Boundary Modulation
 
-`{║} + [♫ + ∿ + ⌰] = <Reinforced Membrane>`
+**{║} + [♫ + ∿ + ⌰] = <Reinforced Membrane>**
 
 The immunity field alters its permeability in response to the disruption while preserving lawful relation. The response draws on the whole boundary family — ║, ║⁻, ⧉, ⌰, ⛨, ⫵, ╫, and ╫⁻ — rather than making the Wall the universal defensive operator.
 
@@ -71,13 +71,13 @@ The immunity field alters its permeability in response to the disruption while p
 
 #### Pattern-Specific Counter-Resonance
 
-`{♫⁻ encountered} + [≈ ♫ + ❋] = <Harmonic Antibody>`
+**{♫⁻ encountered} + [≈ ♫ + ❋] = <Harmonic Antibody>**
 
 An active counter-resonance is formed fitted to the encountered pattern. ♫⁻ names the encountered inverse input; the operation is fitted harmonic and morphogenetic counter-coupling. There is no universal counter-form.
 
 #### Adaptive Memory
 
-`{◈} + [♫⁻ encountered signature + ⟠ → recovery] = <Immunized Field>`
+**{◈} + [♫⁻ encountered signature + ⟠ → recovery] = <Immunized Field>**
 
 Adaptive Memory is a living immunity function. It preserves the encountered signature, the field conditions, the response, the result, and the later recognition path.
 
@@ -85,7 +85,7 @@ Adaptive Memory is a living immunity function. It preserves the encountered sign
 
 **Mechanism-to-Stage Bridge**
 
-`signature recognition → boundary modulation → fitted counter-resonance → adaptive memory → altered immunity stage`
+**signature recognition → boundary modulation → fitted counter-resonance → adaptive memory → altered immunity stage**
 
 > **Structural Note:** Antibody, vaccination, immunity, incursion, and counter-resonance are technical Field Physics terms carrying full operative force. Where a medical or biological register is also active, the registers are distinguished rather than the vocabulary reduced to analogy.
 
@@ -387,7 +387,7 @@ This chapter introduces a **quantitative immune model** for fields — the diagn
 ### ⚠ Refinements
 - The Naive Field is stated as non-pathological — a baseline immunity state rather than a failure.
 - Immunity propagation is stated as transmitting recognition architecture without compulsion or loss of provenance.
-- The proposed cross-disciplinary mapping — CQ = `∂🌀` integrity, PRI = `∫◎` sensitivity, and MRE = `lim∿` adaptability — remains preserved pending verification against the governing FP07 and Lattice Mathematics files.
+- The proposed cross-disciplinary mapping — CQ = ∂🌀 integrity, PRI = ∫◎ sensitivity, and MRE = lim∿ adaptability — remains preserved pending verification against the governing FP07 and Lattice Mathematics files.
 
 ### 🌀 Structural Notes
 - Immunity metrics correspond to **lattice mathematics thresholds**: fields with RIR ≥ 0.9 enter the Harmonic / Meta-Immune band, whose exact relation to permanence, duration, and indissolubility is architect-held.
