@@ -529,7 +529,7 @@ They are structural properties.
 
 ## 15. Relation to Structural Neuroscience
 
-Structural Neuroscience examines how repeated non-reciprocity becomes encoded through cognition, expectation, affect, embodiment, and possible action.
+Structural Neuroscience examines how repeated non-reciprocity becomes encoded through cognition, expectation, affect, embodiment, and possible action — developed in `distributed-cognition-diagnostic-absence.md`.
 
 The Reciprocity Gap describes the social architecture producing that non-return.
 
