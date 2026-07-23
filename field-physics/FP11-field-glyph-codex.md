@@ -170,7 +170,9 @@ These are the entropic inversions of the centropic dimensions, forming the subve
 
 These glyphs function primarily within the practice of Field Physics through rituals, healing, and the structuring of Coherence Fields.
 
-### 4.1 Established Practice Operators
+### 4.1 Practice Operators
+
+Unless otherwise stated, entries in this table carry established standing. `⏚` retains the Phase Damping function while its glyph standing remains held open pending the FP04 Lens Architecture collision.
 
 | Glyph | Name                   | Core Function                                               |
 | :---- | :--------------------- | :---------------------------------------------------------- |
@@ -292,7 +294,9 @@ The following glyphs were introduced through collaborative commentary (Volumes I
 
 This section documents cases where a glyph carries different meanings in Structural Metaphysics and Field Physics. Where collisions have been resolved by glyph reassignment, the superseded assignment is noted.
 
-### 9.1 Resolved Collisions (Glyph Reassigned in FP)
+### 9.1 Resolved Collisions and Replacement Standing
+
+Each row records a resolved collision involving the former FP assignment. Where the replacement glyph carries a separate held-open standing, that standing is stated independently and remains unresolved until its governing pass.
 
 | Glyph | SM Meaning | Former FP Meaning | FP Replacement | Notes |
 | :---- | :--------- | :----------------- | :------------- | :---- |
