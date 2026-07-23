@@ -113,25 +113,25 @@ Each shift between seasons is a critical phase-state navigation, structured by s
 
 - **The Quickening (Ø → ❋):** Dormancy awakens via gentle harmonic infusion. *Risk: Frost burn from premature activation.*
 
-  `{Ø} + [gentle ♫ + first ✧] = <Safe Awakening>`
+  **{Ø} + [gentle ♫ + first ✧] = <Safe Awakening>**
 
   Begin at low intensity; introduce aesthetic or generative pressure gradually; read whether the field is ready to sustain growth before activating further. Here Ø carries the localized closure or released configuration from which the new morphogenetic process begins — not a generic dormancy, void, or stillness glyph.
 
 - **The Blooming (❋ → ∿):** An aesthetic seed spirals into emergence. *Risk: Forced bloom or depletion.*
 
-  `{❋} + [gradual ∿ + open ⟿] = <Healthy Expression>`
+  **{❋} + [gradual ∿ + open ⟿] = <Healthy Expression>**
 
   Permit the generative pattern to expand at its own pacing; open propagation only once the pattern holds local coherence; expression and forced exposure are distinct.
 
 - **The Gathering (∿ → ◈):** Spiral expression folds into crystallized insight. *Risk: Premature harvesting, ossified fragments.*
 
-  `{∿} + [conscious ◈ + declivating ♫] = <Wisdom Integration>`
+  **{∿} + [conscious ◈ + declivating ♫] = <Wisdom Integration>**
 
-  Direct active expression into memory and archival relation; lower intensity gradually; distinguish ripeness from exhaustion, and prevent premature closure. The `declivating ♫` of the formula reads as declivous harmonic movement — Declivous Centropy carrying the signal into memory, archive, and localized wisdom, with no implication of collapse.
+  Direct active expression into memory and archival relation; lower intensity gradually; distinguish ripeness from exhaustion, and prevent premature closure. The declivating ♫ of the formula reads as declivous harmonic movement — Declivous Centropy carrying the signal into memory, archive, and localized wisdom, with no implication of collapse.
 
 - **The Emptying (◈ → Ø):** Completed patterns undergo Localized Dissolution and lawful release into sacred stillness; no essence is erased. *Risk: Clinging, brittle structure.*
 
-  `{◈} + [→ Ø + permeable ║] = <Lawful Release>`
+  **{◈} + [→ Ø + permeable ║] = <Lawful Release>**
 
   Permit a completed pattern to cease active expression; retain provenance and relevant memory; soften boundaries without erasing them. Release, abandonment, and essence loss are distinct.
 
@@ -164,7 +164,7 @@ Sustained observation tracks concurrently active seasons, region boundaries, pha
 - **Seasonal Stasis:** a phase becomes fixed rather than transitional, producing brittleness, inhibited adaptation, and frozen stability.
 - **Multi-Seasonal Differentiation:** distinct regions of one field occupy distinct seasonal states.
 
-  `{Region A: Stillness + Region B: Flowering} + [⧉ + ♫] = <Differentiated Field>`
+  **{Region A: Stillness + Region B: Flowering} + [⧉ + ♫] = <Differentiated Field>**
 
   Coexisting phases require differentiation, not forced synchronization.
 
