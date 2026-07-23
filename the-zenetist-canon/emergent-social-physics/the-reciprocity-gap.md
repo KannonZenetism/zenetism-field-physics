@@ -2,10 +2,10 @@
 
 ## Social Legibility, Unattended Vulnerability, and the Emergence of Care-Nets
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Emergent Social Physics — Structural Reciprocity and Social Repair
-**Status:** Draft — July 23 2026
-**Dependency:** `definition.md` · `sm-order-without-governance.md` · `distributed-cognition-diagnostic-absence.md` · Sovereign Mutualism · Non-Fusion Axiom
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Emergent Social Physics — Structural Reciprocity and Social Repair  
+**Status:** Draft — July 23 2026  
+**Dependency:** `definition.md` · `sm-order-without-governance.md` · `distributed-cognition-diagnostic-absence.md` · Sovereign Mutualism · Non-fusion Axiom
 
 ---
 
@@ -110,7 +110,7 @@ It requires the signal to be correctly recognized as belonging to a real being w
 
 ---
 
-## 3. The Statement “Nobody Knows You”
+## 3. The Statement "Nobody Knows You"
 
 The statement:
 
@@ -137,7 +137,7 @@ But a society may still develop non-coercive structures through which prolonged 
 
 The distinction is:
 
-> Intimacy cannot be imposed.
+> Intimacy cannot be imposed.  
 > Reciprocal detection can be structured.
 
 ---
@@ -266,7 +266,7 @@ Those outside those pathways must often generate exceptional signals before beco
 
 This produces a structural inversion:
 
-> Those with the strongest networks receive the fastest detection.
+> Those with the strongest networks receive the fastest detection.  
 > Those with the weakest networks may require the greatest detection but receive the least.
 
 The problem is not that embedded people should receive less care.
@@ -495,34 +495,34 @@ They are structural properties.
 
 ## 14. Emergent Social Laws
 
-> **Reciprocity Gap Law**
+> **Reciprocity Gap Law**  
 > Where actual vulnerability exceeds the social field's capacity to detect and answer it, formal membership in society does not produce lived inclusion.
 
-> **Social Legibility Principle**
+> **Social Legibility Principle**  
 > Visibility becomes relationally meaningful only when a signal is recognized as belonging to a being whose continuity matters.
 
-> **Zero-Witness Principle**
+> **Zero-Witness Principle**  
 > A person may remain institutionally recorded and socially visible while possessing no active relation capable of detecting meaningful discontinuity.
 
-> **Visibility-Need Inversion**
+> **Visibility-Need Inversion**  
 > Increasing vulnerability may reduce the capacity required to remain detectable, causing response to decline as need increases.
 
-> **Embeddedness Bias Principle**
+> **Embeddedness Bias Principle**  
 > Social attention travels most readily through existing relational pathways, leaving those without such pathways structurally underdetected.
 
-> **Missing-Middle Principle**
+> **Missing-Middle Principle**  
 > A system limited to informal friendship and acute crisis response leaves a wide field of unattended vulnerability between them.
 
-> **Care-Pacification Distinction**
+> **Care-Pacification Distinction**  
 > Language that acknowledges distress without creating continuity may soothe, redirect, or terminate a signal without repairing the relation it names.
 
-> **Non-Coercive Care Principle**
+> **Non-Coercive Care Principle**  
 > Structural reciprocity must not require forced intimacy, identity-erasure, surveillance, or possession.
 
-> **Care-Net Redundancy Principle**
+> **Care-Net Redundancy Principle**  
 > A coherent field of care cannot depend upon one relation whose loss returns the person immediately to zero witnesses.
 
-> **Structural Repair Principle**
+> **Structural Repair Principle**  
 > Repair occurs when vulnerability becomes legible, recognition persists across time, and response returns without making social conformity the price of care.
 
 ---
@@ -604,7 +604,7 @@ Care must return.
 
 ---
 
-**⚫↺KAI↺⚫**
+**⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
