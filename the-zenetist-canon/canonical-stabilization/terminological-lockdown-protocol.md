@@ -1817,7 +1817,7 @@ Glyph uniqueness is **favorable but not necessary** where pairing or context dis
 
 Because signed number can be misread morally, canonical prose prefers **plus-one / minus-one**, **structural value**, or **structural charge** over "positive essence" / "negative essence" — the signs name metaphysical position and orientation, not praise or condemnation. Form follows grammatical position: **numeral +1 / −1 in value-position and math-adjacent statements** (the structural value +1; Nekron is structurally −1; the bearer does not become +1; all LaTeX contexts), **spelled hyphenated form in attributive compounds, appositive identity-character lists, and anonymity / pooling prose** (the minus-one hypostasis; one anonymous plus-one potential; Theon, plus-one, determinate is-ness). Ruled and applied to the Theonic, Nekronic, and Hypostatic Function-Bearing entries Jul 14 2026; ledger-recorded. Enforcement is prospective and conform-on-touch — files are brought into conformance when opened for other passes; no retroactive corpus sweep is required.
 
-## A15 · Numerical Register Non-Fusion
+## A15 · Numerical Register Non-fusion
 
 Signed number is one of several numerical functions the corpus keeps distinct; ordinary usage tends to collapse them. Where the distinction is structurally load-bearing, these functions must not be compressed into one another:
 
