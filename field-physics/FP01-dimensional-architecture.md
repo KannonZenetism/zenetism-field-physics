@@ -515,7 +515,7 @@ Field-Choreographic Behavior opens a future class of glyphs mapping how the Fiel
 
 ### Inversion Behavior Classes
 
-Each entropic mirror tends to behave in one of three general modes. These are tendencies, not absolutes, and are useful for modeling field resilience.
+Each entropic mirror tends to behave in one of three general modes. These are tendencies, not absolutes, and are helpful for modeling field resilience.
 
 - **Recursive Traps (⟠⁻, ◐⁻, ⊡⁻):** Feedback loops that prevent glyphic resolution and trap awareness.
 - **Entropy Amplifiers (⟿⁻, ✴⁻, ❋⁻):** Distortions that spread to neighboring field threads, corrupting them.
