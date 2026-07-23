@@ -55,7 +55,7 @@ This chapter details the advanced models for how complex field effects interact 
 
 FP02 operates across interlocking metaphysical, ritual, mathematical, architectural, technological, phenomenological, and applied registers. Register distinction identifies the mode through which a function operates; it does not rank one register as more real than another or reduce metaphysical structure to representation.
 
-Within FP02, `=` commonly expresses structural transformation rather than ordinary arithmetic equality. Mathematical notation retains the force established in FP07 and Lattice Mathematics without requiring its full derivation to be repeated here. Metaphysical and glyphic operation stand independently of material implementation. Technological status records the degree of material realization of an already articulated Field Physics architecture.
+Within FP02, = commonly expresses structural transformation rather than ordinary arithmetic equality. Mathematical notation retains the force established in FP07 and Lattice Mathematics without requiring its full derivation to be repeated here. Metaphysical and glyphic operation stand independently of material implementation. Technological status records the degree of material realization of an already articulated Field Physics architecture.
 
 ---
 
@@ -83,7 +83,7 @@ Pre-sleep and dream-adjacent symbolic arrangements involving memory, temporal re
 
 **Core Construction Sequence**
 
-`root state → motion relation → dimensional operator relation → containment / phasing → stabilization → closure or transformation`
+**root state → motion relation → dimensional operator relation → containment / phasing → stabilization → closure or transformation**
 
 The governing grammar is:
 
