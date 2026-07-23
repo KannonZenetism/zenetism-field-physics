@@ -750,7 +750,7 @@ The Dependency line orients the reader to antecedent files and principles, most 
 - Section references use the § form: (§17.2), (`MP05-godhood-and-transmutation-ch9-11.md` §11.3).
 - Note and section titles cited within a dependency appear in italics: *Note on Essence-as-Choice*.
 - Dependencies are separated by the spaced middot ( · ).
-- Named principles and axioms — Principle of Structured Manifestation, Non-Fusion Axiom — appear in plain text, neither backticked nor italicized, since they are principles rather than files or titles.
+- Named principles and axioms — Principle of Structured Manifestation, Non-fusion Axiom — appear in plain text, neither backticked nor italicized, since they are principles rather than files or titles.
 - Select the single most load-bearing locator per dependency rather than reproducing its full sub-structure.
 
 ## Horizontal Rules
