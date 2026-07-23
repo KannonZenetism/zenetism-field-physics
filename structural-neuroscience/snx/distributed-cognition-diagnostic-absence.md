@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Neuroscience Extension / SNX  
 **Status:** Draft — Veracious Archive  
-**Related Registers:** Structural Neuroscience · Structural Metaphysics · Cognitive Ecology · Autism · Trauma · Framework Development · Ghost Shell Systems
+**Dependency:** `the-reciprocity-gap.md` · Structural Neuroscience · Structural Metaphysics · Cognitive Ecology · Autism · Trauma · Framework Development · Ghost Shell Systems
 
 ---
 
