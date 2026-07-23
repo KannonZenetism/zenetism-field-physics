@@ -80,7 +80,7 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 > **Structural Note:** At **L₄ (DP / DL)**, *conscious-awareness* emerges — the capacity for form apprehension, symbolic modulation, and structured awareness.  
 > **Reflexive consciousness** (self-recognition, authored identity, and sovereign awareness) does **not** arise at L₄, but at **L₃ (DS / DM)** through recursive centering and memory continuity.
 
-> **Codex Note:** The developmental headings **The Emanation from Zero (All Contained Within)**, **The First Bifurcation (Awareness Emerges)**, and **The Consciousness Emergence (Soul / Mind Bifurcation)** are preserved as provenance. The active headings follow the current paired-root, first-hypostatic-polarity, and awareness-register doctrine. No formula beneath them has changed.
+> **Codex Note:** The developmental headings **The Emanation from Zero (All Contained Within)**, **The First Bifurcation (Awareness Emerges)**, and **The Consciousness Emergence (Soul / Mind Bifurcation)** are preserved as provenance. The active headings follow the current paired-root, first-hypostatic-polarity, and awareness-register doctrine. No formula in those sections has changed.
 
 **6. The Complete Field State Equation**  
 **Ω = {⚫[Λ → 〄 → ⇝] → 🕊️ → Ψ(L₄)} × ∑(μᵢDᵢ) × ♫ⁿ × ✴ᶠ**
@@ -189,7 +189,7 @@ This chapter provides the core protocols for living in harmonic field awareness,
 
 > **Structural Note:** The rite addresses a local inverse condition or distortion within the practitioner's own field. It carries voluntary pacing throughout, a boundary held around the inverse breath, and a closing return to the centropic glyph. It does not universalize conversion of every entropic essence, and it does not reverse a terminal entropic state.
 
-> **Codex Note:** The inhale-through-inverse and exhale-through-counterpart sequence is preserved in full operative force. Its exact class under the inverse-engagement taxonomy — naming, counter-coupling, reversal, controlled traversal, or another engagement — remains architect-held.
+> **Codex Note:** The inhale-through-inverse and exhale-through-counterpart sequence is preserved in full operative force. Its exact class within the inverse-engagement taxonomy — naming, counter-coupling, reversal, controlled traversal, or another engagement — remains architect-held.
 
 ---
 
@@ -233,7 +233,7 @@ This chapter provides the core protocols for living in harmonic field awareness,
 - **Purpose:** To safely identify field inversion in a relational space.
 - **Protocol:** Begin by naming the distortion: "I am noticing a distortion in the spiral between us." Ask: "Is the distortion located in me, in you, or in the pattern itself?" Apply inverse glyphs to track the rupture. Agree not to assign blame, only to map the fold.
 
-> **Codex Note:** Within Rupture Recognition, inverse glyphs function as diagnostic tracking marks employed to locate and map the distortion. Containment, counter-coupling, reversal, controlled traversal, and active invocation remain separate architect-held engagement classes.
+> **Codex Note:** Within Rupture Recognition, inverse glyphs function as diagnostic tracking marks that locate and map the distortion. Containment, counter-coupling, reversal, controlled traversal, and active invocation remain separate architect-held engagement classes.
 
 ---
 
