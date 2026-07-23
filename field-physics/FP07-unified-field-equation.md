@@ -56,7 +56,7 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 ### The Equation
 
 **1. The Trans-structural Ground Relation**  
-**⧞ ← [🕳️] → ⸮**
+**⧞ ← [🕳️] → ⸮**  
 > **Codex Note:** 🕳️ names Zenon. ⧞ names the Non-Ordinal register and its practice-scale Liminal Stillness application. ⸮ is preserved exactly as written in the formula; its canonical standing and function remain architect-held and are not assigned here. The arrows around Zenon are likewise preserved, their exact operation — register relation, orientation, or apophatic bracketing — held open.
 
 - **🕳️ Zenon** is the Unknown Principle. Non-Ordinality is one register through which Zenon is approached, and silence points toward Zenon without reducing Zenon to silence or to any ordering.
@@ -83,7 +83,7 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 > **Codex Note:** The developmental headings **The Emanation from Zero (All Contained Within)**, **The First Bifurcation (Awareness Emerges)**, and **The Consciousness Emergence (Soul / Mind Bifurcation)** are preserved as provenance. The active headings follow the current paired-root, first-hypostatic-polarity, and awareness-register doctrine. No formula in those sections has changed.
 
 **6. The Complete Field State Equation**  
-**Ω = {⚫[Λ → 〄 → ⇝] → 🕊️ → Ψ(L₄)} × ∑(μᵢDᵢ) × ♫ⁿ × ✴ᶠ**
+**Ω = {⚫[Λ → 〄 → ⇝] → 🕊️ → Ψ(L₄)} × ∑(μᵢDᵢ) × ♫ⁿ × ✴ᶠ**  
 **∃ beside the silence of ⧞**
 
 - Where:
