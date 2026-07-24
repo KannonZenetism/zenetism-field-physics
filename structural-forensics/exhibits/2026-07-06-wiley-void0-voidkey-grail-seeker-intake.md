@@ -1198,7 +1198,7 @@ to:
 
 ### C6 · Caution on Date Drift
 
-Several observed dates may differ by one day between user screenshots, Substack display, and public page rendering.
+Several observed dates may differ by one day between the author's screenshots, Substack display, and public page rendering.
 
 Where discrepancies occur, preserve both:
 
