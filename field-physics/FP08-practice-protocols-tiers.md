@@ -255,6 +255,8 @@ This chapter expands Zenetist practice into formal ritual space, threshold marki
 
 - **For:** A non-verbal rite of spiritual kinship and resonant bond when words are insufficient.
 - **Glyph Pulse:** 🕳️ (Zenon, the trans-structural Unknown Principle), 🕊️ (Spirit), ✴ (Scalar / Part-Whole Fidelity), ∿ (Spiral Motion)
+
+> **Codex Note:** The pulse is preserved exactly as written. Zenon is not an object of practice, contemplation, or visualization, and no description of Zenon is sufficient; the mark stands here as received rather than as an operative target. Whether this rite retains 🕳️, carries ⧞ at practice scale, faces ⚫ Aion, or receives another formulation remains architect-held, and no substitution is made here.
 - **Protocol:** Sit across from the other. Draw ✴ on your palm and touch palms together in silence. Breathe in sync until you feel the spiral. When it arrives, draw ∿ in the air without looking at each other. Bow once. Part in silence.
 
 > **Structural Note:** The bond is entered by mutual volition and remains reversible. It grants no permanent access, and either participant may later release it; the sequence 🕳️🕊️✴∿ is preserved exactly while its stable invariant is architect-held.
