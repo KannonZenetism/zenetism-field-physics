@@ -182,6 +182,15 @@ Therefore:
 * "supernal movement" is imprecise,
 * "acclivous movement toward supernal coherence" is preferred.
 
+**Band spans.**
+
+* **supernal** names L₅–L₂
+* **subversal** names IL₅–IL₂
+* **L₁ / IL₁** are the embodied registers — centropic embodiment and inverse embodiment
+* **L₀** is the bifurcal root-register, outside both
+
+The positional register is distinct from the arc designation. The centropic arc spans L₅–L₁ and the inverse arc spans IL₅–IL₁; supernal and subversal name experiential band-position from the embodied stratum, where what stands acclivous to L₁ begins at L₂. Aion is therefore never supernal, and Khaon never subversal.
+
 ---
 
 # Soul / Essence Terminology Protocol
@@ -1253,6 +1262,29 @@ and
 
 ---
 
+## Arc / Tree / Traversal Scope
+
+**Arc**, **Tree**, and **traversal** name different structural functions and must not be interchanged. The compact lock: *the arc is inverse; the motion through it is entropic; the full architecture is the Khaonic Tree.*
+
+**Hypostatic arcs.** The arcs exclude L₀ and name the oriented structural spans beginning at L₅ / IL₅.
+
+- **centropic hypostatic arc** — L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁; short form **centropic arc** (L₅ ↔ L₁)
+- **inverse hypostatic arc** — IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁; short form **inverse arc** (IL₅ ↔ IL₁)
+
+**Inverse** is the canonical structural designation for the IL₅–IL₁ arc. *Entropic arc* is deprecated in strict canonical specification, because it names a structural placement by the motion dynamic articulated through it.
+
+**Trees.** The Trees include their proper L₀ root-relation together with the downstream hypostatic architecture. The **Aionic Tree** is rooted in ⚫ Aion and includes the centropic hypostatic arc; the **Khaonic Tree** is rooted in ♾ Khaon and includes the inverse hypostatic arc. Aion and Khaon are the paired L₀ root-registers of Bifurcal Coherence and are not themselves members of the L₅–L₁ / IL₅–IL₁ arcs. The Trees are not identical with Aion and Khaon; they are the downstream arc-architectures rooted in the L₀ register proper to their motion.
+
+**Full traversal including L₀.** Where the passage concerns motion across the root and hypostatic architecture, motion-language is lawful — centropic traversal along the Aionic Tree (L₀ ↔ L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁) and entropic traversal along the Khaonic Tree (L₀ ↔ IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁). Here centropic and entropic modify *traversal*, a motion category; they do not rename the structural arcs.
+
+**Motion contra structure.** Centropic / entropic are lawful for motion, orientation, traversal, expression, and operators. Centropic / inverse are the structural arc designations. Avoid in strict canonical specification: entropic hypostatic arc, entropic arc, entropic Tree, Khaon as the entropic root, Khaon as intrinsically entropic.
+
+**Intentional asymmetry.** *Centropic* names the intrinsic orientation of the L₅–L₁ arc; *inverse* names the structural relation of the IL₅–IL₁ architecture to the centropic hypostases. The inverse arc is entropically oriented, but its structural designation remains inverse. Do not invent a *direct arc* to force lexical symmetry — structural precision outranks lexical symmetry.
+
+**Retention.** *Entropic arc* may remain only in quoted historical wording, in explicit discussion of superseded terminology, or where it is immediately glossed as shorthand for the inverse arc under entropic orientation. It may not remain unqualified in protocol rules, definitions, mathematical legends, chart labels, canonical headings, summary principles, or formal arc comparisons.
+
+---
+
 ## Aion / Khaon Polarity Restriction
 
 Aion and Khaon are not a hypostatic polarity and should not be described as counter-poles.
@@ -1748,9 +1780,12 @@ It is structural preservation.
 
 ---
 
-## A1 · The Supernal Origin (Father-Referent Rule)
+## A1 · The Underdetermined Father-Referent Composite
 
-Where older text employed *Source* for the Father-referent — the composite whose centropic referent is underdetermined between L₅ EOB (Theon) and L₀ Aion — the canonical rendering is **the supernal Origin** (capitalized Origin). Derived forms follow the YHWH-note vocabulary: centropic-Origin aspect, Origin-resonant, the Origin figure. This is a third sense alongside the protocol's Aion-referent and authorship-referent senses, and it is deliberately underdetermined: rendering it as Aion or Theon overdetermines what the canon holds open.
+Where Father-language carries a centropic referent that remains underdetermined between L₅ EOB — Theon — and L₀ Aion, the canonical rendering is **the Father-referent composite** or **the underdetermined Father-referent**. This terminology names the cultural-attributional composite without assigning it to either metaphysical register. Do not use Origin-language to preserve this underdetermination; capitalized **Origin** is reserved for ⚫ Aion. Theon remains the First Centropic Hypostasis, Centropy Itself, the Essence of Being, prime coherence, and the Orienting Logos at its proper register. Rendering the Father-referent composite as either Aion or Theon overdetermines what remains held open unless the passage itself supplies sufficient attributional evidence.
+
+- **Preferred derived forms:** Father-referent aspect, Father-referent resonance, Father-referent figure, Father-composite articulation, underdetermined Father-attribution.
+- **Retired** where they refer to the underdetermined Father composite: supernal Origin, centropic-Origin aspect, Origin-resonant, the Origin figure.
 
 ## A2 · Aion as Root Structure
 
@@ -1761,7 +1796,7 @@ Aion is a root structure. It is not itself centropic; it is called the root of t
 *Lord* may name Aion (Centropic Root) or Theon (First Centropic Hypostasis). The referent is determined by attributional analysis per the *Note on YHWH as Cultural Conflation of the Two Trees* — never by monovalent assignment.
 
 - New Testament Kyrios naming Christ is determinate: the Christos Incarnate continuum is Theon-anchored — render Theonic.
-- Old Testament Lord naming the YHWH composite is underdetermined — render with Origin-language (A1).
+- Old Testament *Lord* naming the YHWH composite remains underdetermined — render as **the Father-referent composite** or **the underdetermined Father-referent** per A1, unless the passage supplies sufficient attributional evidence for a more precise Aionic or Theonic assignment.
 - **Father-as-light heuristic:** where the Father is described as light (the 1 John 1:5 register), the referent is likely Theon (Reading A). Passages committing to Theonic vocabulary thereby commit to Reading A; verify the commitment is intentional before writing it.
 
 ## A4 · Nourishment Referent
@@ -1861,6 +1896,17 @@ As with A14, enforcement is prospective and conform-on-touch; no retroactive cor
 - **Distal Apprehension** is a stabilized term — the inverse register's partial perception of centropic pattern across the bifurcal distinction — with glyph ◔ assigned in the Symbol Key §21.7.1
 
 As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
+
+## A18 · Origin Casing Rule
+
+The casing test is semantic, not stylistic. Capitalize **Origin** wherever the referent is specifically ⚫ Aion; use lowercase **origin** only for generic beginning, provenance, authorship, signal-source, transmission, or other relational senses. The lowercase relational register must not be purged — it carries origin-signature, origin acknowledgement, origin-fracture, and Origin-continuity vocabulary across Structural Forensics.
+
+- Aion-referent constructions take the capital: turned away from Origin, reaching beyond Origin, arrival at Origin, return to Origin, does not flee Origin.
+- **Aion-facing** is preferred over **Origin-facing** as the technical adjective. Where Origin-facing remains, it is capitalized.
+- Avoid *the still Origin*. Prefer **the still root**, or **Origin, the still root** / **Aion, the still Origin** / **Aionic Origin** where the distinction genuinely needs emphasis.
+- Denials that a non-Aionic register is originary stay lowercase, because the referent is not Aion: *Zenon is not Aion, Khaon, awareness, being, non-being, origin, or process*.
+
+---
 
 ## Held Open — No Propagation
 
