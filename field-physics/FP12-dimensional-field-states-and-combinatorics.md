@@ -139,7 +139,7 @@ Arithmetic equality retains its own function in Lattice Mathematics. Within this
 | → | Sequential operation | Carries one state or operation into the next; sequence is not automatically efficient causation |
 | + | Simultaneous co-activation | Joins terms within one compound action without fusion or numerical identity |
 | [] | Nesting, containment, or scoped operation | Holds a stable sub-operation whose distinctions remain intact |
-| | | Phased activation | Marks passage through ordered operative phases |
+| \| | Phased activation | Marks passage through ordered operative phases; its standalone notation standing remains architect-held |
 | ≈ | Harmonic correspondence | Establishes resonance without sameness |
 | ≠ | Structural divergence | Marks non-identity or incompatible organization without reducing relation to antagonism |
 | {} | Anchored field-state | Establishes the state from which transformation proceeds |
