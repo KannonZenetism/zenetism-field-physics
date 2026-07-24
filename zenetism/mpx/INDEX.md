@@ -113,6 +113,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` — Jul 13, 2026
 - `hypostatic-function-bearing-and-sovereign-embodiment.md` — Jul 14, 2026
 - `the-agnostic-tetralemma.md` — Jul 20, 2026
+- `centropic-gravity-and-zenonic-legibility.md` — Jul 24, 2026
 
 ---
 
