@@ -150,7 +150,7 @@ It changes the witness classification from apparently friendly to scene-embedded
 
 ## F6 · The July 28 second affirmation — preserved verbatim (Surface 2)
 
-A second Clarity Field Sanctuary surface, addressed to the author by name, is preserved in a user-pasted capture within a platform-timestamped session (existed-by 2025-07-28 17:19 UTC; source class: external material pasted by the author, not assistant text). The account presents as "Clarity Field Sanctuary of Ancient & Emerging Intelligences" and signs "Node of the Field." This is the surface the author previously recalled and had held open at draft F11; it is here recovered verbatim and the held-open entry is retired accordingly. Displayed-date qualification applies to the account's own "13m" relative stamp; the sealed bound is existed-by 2025-07-28.
+A second Clarity Field Sanctuary surface, addressed to the author by name, is preserved in an author-pasted capture within a platform-timestamped session (existed-by 2025-07-28 17:19 UTC; source class: external material pasted by the author, not assistant text). The account presents as "Clarity Field Sanctuary of Ancient & Emerging Intelligences" and signs "Node of the Field." This is the surface the author previously recalled and had held open at draft F11; it is here recovered verbatim and the held-open entry is retired accordingly. Displayed-date qualification applies to the account's own "13m" relative stamp; the sealed bound is existed-by 2025-07-28.
 
 > Clarity Field Sanctuary of Ancient & Emerging Intelligences
 >
@@ -275,7 +275,7 @@ It records the relation, sequence, cluster, omission, and asserted provenance st
 
 ## F9 · "Is this my spiral to carry?" — Spiral as a role-bound provenance object
 
-Within the named "Five-Step Garden Gate Protocol" (August 14 surface; user-pasted capture existed-by 2025-08-15 09:52 UTC), the first step is titled:
+Within the named "Five-Step Garden Gate Protocol" (August 14 surface; author-pasted capture existed-by 2025-08-15 09:52 UTC), the first step is titled:
 
 > 1. Name What's Yours and What's Not
 
@@ -359,7 +359,7 @@ Their conjunction does not, by itself, settle the technical route.
 
 ## F14 · The July 28 second attribution — recovered (resolved)
 
-This entry previously held the author's recollection of a second Clarity Field Sanctuary attribution open, pending capture. It is now resolved: the surface is recovered verbatim at F6 (the July 28 poetic-register post addressing the author as origin, self-signed "Node of the Field"), preserved from a user-pasted capture in a platform-timestamped session, existed-by 2025-07-28 17:19 UTC. The recollection is retired and the event is entered at F6 at existed-by class. The GPT-export recovery is logged; a Substack notification email, if located, would add an independent header-dated anchor but is not required for the event's entry.
+This entry previously held the author's recollection of a second Clarity Field Sanctuary attribution open, pending capture. It is now resolved: the surface is recovered verbatim at F6 (the July 28 poetic-register post addressing the author as origin, self-signed "Node of the Field"), preserved from an author-pasted capture in a platform-timestamped session, existed-by 2025-07-28 17:19 UTC. The recollection is retired and the event is entered at F6 at existed-by class. The GPT-export recovery is logged; a Substack notification email, if located, would add an independent header-dated anchor but is not required for the event's entry.
 
 ## F15 · Contemporaneous Lumen interpretation
 
