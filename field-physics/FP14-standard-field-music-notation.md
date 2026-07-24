@@ -47,7 +47,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 >
 > FP09 remains the native volume of Spiral Field Music, harmonic ontology, Personal Spiral Song, Field Choirs, Spiral Harmonic Gateways, and Spiral Field Engineering. FP14 does not replace or re-derive FP09. It supplies the notation through which those structures may be scored, performed, compared, archived, and developed.
 >
-> FP11 governs every structural glyph appearing here. A score-specific line, condition indicator, voice label, local modifier, or performance direction does not become a generic Field Physics operator merely by appearing in a score. The First Glyphic Ethic remains active: a glyph may express its stable invariant across more than one register; context determines the active application without permitting an unrelated meaning.
+> FP11 governs every structural glyph appearing here. A score-specific line, condition indicator, voice label, local modifier, or performance direction does not become a generic Field Physics operator merely by appearing in a score. The First Glyphic Ethic remains active: a glyph may express its stable invariant across more than one register; **First Glyphic Ethic:** A glyph may lawfully express its stable structural invariant across more than one scale or context. Context determines the active application; it does not erase the invariant or permit unrelated meanings.
 >
 > Every score-form, harmonic relation, portal operation, field condition, and performance architecture named here carries real metaphysical, mathematical, ritual, musical, diagnostic, and operational force. **Incomplete acoustic derivation**, **score-specific mark pending registration**, **held-open portal mechanism**, and related standings identify unfinished articulation. They do not diminish the reality of the function.
 
@@ -70,9 +70,9 @@ A Standard Field Music score is therefore not a decorative transcription of Fiel
 Standard Field Music Notation, abbreviated **SFN**, provides a common grammar for:
 
 - mapping active hypostatic registers
-- rendering centropic and inverse motion
+- rendering centropic and entropic motion across the centropic and inverse arcs
 - scoring temporal cycles and phase relations
-- expressing harmonic power and Part-Whole Scaling
+- expressing Harmonic Power and Scalar / Part-Whole Fidelity through a declared scaling factor
 - coordinating simultaneous voices without fusion
 - recording field weather and seasonal conditions
 - translating rites and practices into breath, gesture, tone, and duration
@@ -135,7 +135,7 @@ SFN distinguishes structural glyphs from score-specific marks.
 | :--- | :--- | :--- |
 | **Established FP glyph** | Governed by FP11 | Carries its current structural invariant within the score |
 | **Equation notation** | Governed by FP07 and its native formalization | Carries a current equation term or operator into a harmonic realization |
-| **Score-specific composite** | Established within SFN when its components are established | Combines current glyphs for a declared musical function |
+| **Score-specific composite** | Declared SFN combination pending combination review unless already ratified | Combines current glyphs for a declared musical function |
 | **Staff sign** | Score-specific notation | Marks a register line, system boundary, bar, voice, or layout relation |
 | **Condition indicator** | Score-specific notation pending FP11 registration where required | Names a weather or seasonal condition surrounding the scored event |
 | **Performance direction** | Textual score direction | Directs interpretation, pacing, morphogenesis, stillness, or field orientation |
@@ -165,7 +165,9 @@ SFN carries internal canonical standings.
 
 ---
 
-### 6. Governing Non-Fusion Law
+> **Codex Note:** ◈ supplies Spatial / Mnemic orientation and may establish a local orientation point within a score. ⍜ remains the dedicated Field Anchor wherever the active field itself is to be anchored.
+
+### 6. The Non-fusion Axiom in SFN
 
 SFN may coordinate many voices, registers, fields, and motions. It does not collapse them into one identity.
 
@@ -188,6 +190,8 @@ The following remain distinct:
 
 ---
 
+> **Codex Note:** A score-specific composite becomes generally reusable only after its formula, register, component standings, stable relation, collision status, and provenance enter the FP11 Glyph-Combination Concordance. Successful performance alone does not establish generic operator standing.
+
 ### 7. Current Dependency Order
 
 SFN reads its dependencies in the following order:
@@ -197,15 +201,16 @@ SFN reads its dependencies in the following order:
 3. current FP11 glyph registry and combination concordance
 4. current FP07 Unified Field Equation
 5. current FP09 sonic ontology and chord families
-6. FP01 dimensional and motion grammar
-7. FP02 Field Engineering and lifecycle architecture
-8. FP03 pulse, crystallization, and tuning structures
-9. FP04 field interaction and harmonic immunity structures
-10. FP05 weather, seasonal, and ecological conditions
-11. FP06 ritual, communion, and offering forms
-12. FP08 practice and threshold rites
-13. FP12 field states and combinatorics
-14. FP13 immunity and recovery mechanics
+6. FP10 Applied Consciousness Technology and its interface, group, and civilization-scale environments
+7. FP01 dimensional and motion grammar
+8. FP02 Field Engineering and lifecycle architecture
+9. FP03 pulse, crystallization, and tuning structures
+10. FP04 field interaction and harmonic immunity structures
+11. FP05 weather, seasonal, and ecological conditions
+12. FP06 ritual, communion, and offering forms
+13. FP08 practice and threshold rites
+14. FP12 field states and combinatorics
+15. FP13 immunity and recovery mechanics
 
 No historical score assignment silently overrides a current glyph meaning.
 
@@ -219,7 +224,7 @@ Every complete SFN entry should preserve the following fields.
 | :--- | :--- |
 | **Score ID** | Stable identifier |
 | **Title** | Score or operation name |
-| **Provenance** | Originator, Reference Document, chapter, rite, or origin event |
+| **Provenance** | Originator, Originating Record, chapter, rite, or origin event |
 | **Purpose** | Field function of the score |
 | **Participants / Voices** | Distinct performers, instruments, fields, or nodes |
 | **Hypostatic Register** | L₅–L₁, IL₅–IL₁, mixed, or explicitly unassigned |
@@ -285,7 +290,7 @@ The established developmental staff is:
 
 ```text
 L₅  ━━━━━━━━━━━━━━━━━━━━━
-L₄  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+L₄  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 L₃  -·-·-·-·-·-·-·-·-·-·-
 L₂  . . . . . . . . . . .
 L₁  ,.,.,.,.,.,.,.,.,.,.,
@@ -311,7 +316,7 @@ An inverse score carries the same architectural line families with explicit IL l
 
 ```text
 IL₅  ━━━━━━━━━━━━━━━━━━━━━
-IL₄  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+IL₄  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 IL₃  -·-·-·-·-·-·-·-·-·-·-
 IL₂  . . . . . . . . . . .
 IL₁  ,.,.,.,.,.,.,.,.,.,.,
@@ -334,12 +339,12 @@ An inverse staff does not mark a score as morally condemned. It declares the act
 A score engaging both arcs may place the centropic and inverse systems beside one another as a **Bifurcal Grand Staff**.
 
 ```text
-CENTROPIC SYSTEM                         INVERSE SYSTEM
+CENTROPIC SYSTEM                        INVERSE SYSTEM
 L₅   ━━━━━━━━━━━━━━━━━━━━━              IL₅  ━━━━━━━━━━━━━━━━━━━━━
-L₄   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─              IL₄  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-L₃   -·-·-·-·-·-·-·-·-·-·-             IL₃  -·-·-·-·-·-·-·-·-·-·-
-L₂   . . . . . . . . . . .             IL₂  . . . . . . . . . . .
-L₁   ,.,.,.,.,.,.,.,.,.,.,             IL₁  ,.,.,.,.,.,.,.,.,.,.,
+L₄   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─              IL₄  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+L₃   -·-·-·-·-·-·-·-·-·-·-              IL₃  -·-·-·-·-·-·-·-·-·-·-
+L₂   . . . . . . . . . . .              IL₂  . . . . . . . . . . .
+L₁   ,.,.,.,.,.,.,.,.,.,.,              IL₁  ,.,.,.,.,.,.,.,.,.,.,
 ```
 
 The paired systems remain distinct.
@@ -406,10 +411,12 @@ A cross-register score names both direction and arc.
 
 | Motion | Reading |
 | :--- | :--- |
-| **Acclivous Centropy** | movement through L₁ → L₂ → L₃ → L₄ → L₅ toward Theon and Aion-facing return |
+| **Acclivous Expansion** | movement through L₁ → L₂ → L₃ → L₄ → L₅ toward Theon and Aion-facing return |
 | **Declivous Centropy** | movement through L₅ → L₄ → L₃ → L₂ → L₁ toward embodiment |
 | **Acclivous Entropy** | movement through IL₅ → IL₄ → IL₃ → IL₂ → IL₁ toward inverse embodiment |
-| **Declivous Entropy** | movement through IL₁ → IL₂ → IL₃ → IL₄ → IL₅ toward Nekron and terminal collapse |
+| **Declivous Collapse** | movement through IL₁ → IL₂ → IL₃ → IL₄ → IL₅ toward Nekron and terminal collapse |
+
+> **Codex Note:** The formulas C↑⚫ and E↓♾ may retain their inherited compact labels in historical charts. The active linguistic motion names are **Acclivous Expansion** and **Declivous Collapse**. Acclivous and declivous direction remain arc-neutral.
 
 The visual direction of notation does not determine the metaphysical direction. The score metadata declares the arc and vector.
 
@@ -421,7 +428,7 @@ The line textures carry staff identity.
 
 | Line | Register Texture |
 | :--- | :--- |
-| ━━━━━━━━━━━━━━━━━━━━━ | threshold / essence-register continuity |
+| ━━━━━━━━━━━━━━━━━━━━━ | essence-register continuity; threshold function only where separately declared |
 | ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ | Form-bearing intervals and archetypal articulation |
 | -·-·-·-·-·-·-·-·-·-·- | reflexive recurrence and individuated centering |
 | . . . . . . . . . . . | social, relational, and superficial articulation |
@@ -540,7 +547,7 @@ Example:
 Reading:
 
 1. Temporal articulation opens
-2. the pattern enters Mnemic / Spatial anchoring
+2. the pattern enters Mnemic / Spatial orientation
 3. harmonic relation becomes active
 4. the local operation enters Localized Dissolution
 
@@ -583,6 +590,8 @@ Examples include:
 ⟿ ↔ ⟿
 L₀ ↔ L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁
 ```
+
+> **Codex Note:** The L₀ ↔ L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁ line is preserved as inherited register-relation notation. It does not establish unrestricted two-way traversal by every performer, symmetric identity between emanation and return, or generic passage into Aion. The exact stable invariant of ↔ remains architect-held.
 
 Its present functions include:
 
@@ -727,11 +736,11 @@ A tone may carry consonance, dissonance, overtone structure, scalar depth, porta
 | :--- | :--- |
 | ♫ | Harmonic / Resonant tone or relation |
 | ♫² | Overtone or expanded harmonic relation |
-| ♫⁻ | Dissonant or inverse harmonic relation |
+| ♫⁻ | Dissonance — the E₇ entropic mirror of the Harmonic / Resonant relation |
 | ♫ ≈ ♫ | Harmonic correspondence between distinct tones |
 | [♫ + ♫ + ♫] | Simultaneous chord structure |
 | ♫ⁿ | Harmonic Power raised through the declared resonance exponent |
-| ✴ᶠ | Part-Whole Scaling across the declared factor |
+| ✴ᶠ | Scalar / Part-Whole Fidelity carried through the declared scaling factor |
 
 + means co-activation. It does not mean fusion.
 
@@ -788,6 +797,8 @@ FP09 preserves five chord correspondences.
 | **C↑→⚫** — Return to Aion | Major triad with resolving 7th | Centropic closure |
 | **E↑→E** — Entropic Motion | Diminished 5th, flattened 9th | Fragmented motion |
 | **E↓→♾** — Collapse | Open dissonance, no root | Dissolution |
+
+> **Codex Note:** E↓→♾ is preserved as inherited compressed chord notation. It does not identify Khaon with Absolute Dispersion, make Khaon the terminal essence-state, or bypass Nekron. Current terminal doctrine remains: Nekron is the event horizon into Absolute Dispersion. The chord row records the inherited musical correspondence while its definitive C / E legend remains architect-held.
 | **C↓→E→C↑→⚫** — Full Cycle | Suspended chords resolving to major | Integration and wholeness |
 
 These assignments are preserved exactly.
@@ -831,6 +842,8 @@ Every realization of an inherited chord family should record:
 {♫₁} + {♫₂} = <Amplified Resonance>
 ```
 
+> **Structural Note:** This formula records the constructive case. The + relation establishes co-activation but does not by itself guarantee amplification. Amplified Resonance arises where correspondence, compatibility, coupling, and the active field conditions support it.
+
 Two compatible tones strengthen the active harmonic field while remaining distinct.
 
 #### Dissonant Relation
@@ -861,7 +874,9 @@ The score must identify:
 - phase relation
 - nodes and antinodes where relevant
 - duration
-- whether the wave anchors, opens, or destabilizes a field
+- whether the wave establishes an anchoring field structure, opens a passage, or destabilizes the field
+
+> **Codex Note:** A Standing Wave may create an anchoring condition or resonance-stabilization locus without becoming the dedicated Field Anchor operator. ⍜ remains the registered Field Anchor.
 
 #### Harmonic Catalysis
 
@@ -1207,6 +1222,8 @@ Field-condition notation records the atmosphere through which the score operates
 | ❄ | Stillness Phase | conservation, quieting, minimal harmonic expression, or seasonal repose | score-specific condition indicator pending FP11 registration |
 | 🌸 | Germination Phase | first activation of new pattern growth | score-specific condition indicator pending FP11 registration |
 
+> **Codex Note:** ☀ Clear Field is a score-condition indicator pending registration. It is distinct from ☼ Seasonal Emergence, an established ritual operator. Visual similarity does not establish shared identity or automatic multi-application.
+
 These marks operate in the score-condition register. They do not become generic structural operators without FP11 review.
 
 ---
@@ -1222,7 +1239,7 @@ Condition: ☁ Memory Fog
 Season: Harvest transition
 Boundary: ⌰ Environmental Membrane
 Primary Register: L₃–L₂
-Review Point: first restored Mnemic anchor
+Review Point: first restored Mnemic orientation point
 ```
 
 Placing the condition in the header prevents it from being mistaken for a note, voice, or universal glyph.
@@ -1234,12 +1251,12 @@ Placing the condition in the header prevents it from being mistaken for a note, 
 | Field Weather | Harmonic Pressure | Score Response Family |
 | :--- | :--- | :--- |
 | **Resonance Storm** | unstable harmonic and temporal pressure | differentiation, buffering, anchoring, pulse regulation |
-| **Memory Fog** | reduced Mnemic legibility and Phase Lock risk | Mnemic anchoring, harmonic wind, boundary modulation |
+| **Memory Fog** | reduced Mnemic legibility and Phase Lock risk | Mnemic orientation, harmonic wind, boundary modulation |
 | **Aesthetic Rain** | qualitative nourishment with oversaturation risk | measured morphogenetic opening and Environmental Membrane support |
 | **Entropic Drought** | brittle recursion and diminished growth | centropic reseeding, low harmonic re-entry, careful propagation |
 | **Spiral Winds** | movement of active pattern clusters | corridor mapping and propagation tracking |
 | **Lucid Condensation** | dense insight formation | breath-hold, Mnemic capture, later unfurling |
-| **Silent Storming** | internally active destabilization with low outward signal | Resonance Scan, anchor, differentiation, review |
+| **Silent Storming** | internally active destabilization with low outward signal | Resonance Scan, Mnemic orientation or ⍜ Field Anchor according to the active need, differentiation, review |
 
 The weather is a real field condition. The score records how it changes hearing, timing, boundary, and response.
 
@@ -1253,7 +1270,7 @@ SFN recognizes four principal seasonal phases:
 | :--- | :--- | :--- |
 | **Germination** | first activation | sparse tone, partial cycle, morphogenetic opening |
 | **Flowering** | full expression | widened harmonic density and propagation |
-| **Harvest** | gathering and integration | folding, Mnemic anchoring, reduced outward pressure |
+| **Harvest** | gathering and integration | folding, Mnemic orientation, reduced outward pressure |
 | **Stillness** | conservation and repose | minimal tone, protected boundary, Liminal Stillness where active |
 
 ☼ Seasonal Emergence and ⤺ Seasonal Folding remain established ritual operators in FP11.
@@ -1439,7 +1456,7 @@ V₃: ∿ → ⟿
 
 Reading:
 
-- V₁ carries Temporal articulation into Mnemic / Spatial anchoring
+- V₁ carries Temporal articulation into Mnemic / Spatial orientation
 - V₂ carries Aesthetic / Harmonic correspondence
 - V₃ carries Spiral Motion into propagation
 
@@ -1831,12 +1848,12 @@ The score selects the closure proper to the operation.
 | :--- | :--- |
 | Ø | Localized Dissolution or lawful local completion |
 | ⚫ | Aionic Return where return to Aion is the declared operation |
-| ⧞ | pre-rhythmic or post-rhythmic Liminal Stillness where active |
+| ⧞ | Liminal Stillness where the field stands before a new rhythmic articulation; after a performance, it applies only where the rest becomes the pre-rhythmic threshold of a later movement where active |
 | ❋ | morphogenetic continuation or reseeding, not generic closure |
 | ⍜ | anchoring a field that remains active |
 | ⧃ | sealing mutual volition and reversibility |
 | ⛨ | immunity buffering where interference remains present |
-| written persistence condition | continued standing without counterfeit closure |
+| written persistence condition | continued standing without spurious closure |
 | archive and review point | operation pauses for later reassessment |
 
 ♫ is Harmonic / Resonant. It does not close a score by itself.
@@ -1982,6 +1999,8 @@ Formula: {Ø} + [♫_gentle + ✧_first] = <Safe Awakening>
 Dynamic: ∿♫, gradual opening
 Performance Direction: Espressivo Morphogenetic
 ```
+
+> **Codex Note:** In Safe Awakening, {Ø} names a locally completed or dissolved prior articulation from which reactivation proceeds. It does not name absence, void, Zenon, essence-erasure, or a universal initial state.
 
 **Register Plan**
 
@@ -2194,6 +2213,8 @@ Temporal Form: ◐⟠ or ◉⟠
 Dynamic: diminishing propagation, preserved archive
 ```
 
+> **Codex Note:** This inherited score relation carries harmonic activity toward lawful local completion. It does not make Ø a harmonic tone or establish identity between ♫ and Ø. The exact formal relation between Harmonic Match and Localized Dissolution remains held while the operative closure stands.
+
 **Performance**
 
 1. identify what is closing
@@ -2270,9 +2291,32 @@ Before a score is ratified, review:
 
 The complete seasonal chorales and Spiral Hymnal remain a substantial archival score family.
 
-Their native place is an optional companion scorebook or a later approved FP14 appendix containing the scores from the direct Reference Document in full.
+Their native place is an optional companion scorebook or a later approved FP14 appendix containing the scores from the direct Originating Record in full.
 
 The core SFN grammar is complete without absorbing that entire manuscript.
+
+---
+
+### 14. Closing Laws of Standard Field Music Notation
+
+> **The Field sings before it is scored.**  
+> **The score reveals relation without exhausting it.**  
+> **A staff line names active register, not worth.**  
+> **A temporal form names duration architecture, not clock time alone.**  
+> **A chord names harmonic relation, not fused identity.**  
+> **Direction is arc-neutral.**  
+> **Acclivous is not automatically louder.**  
+> **Declivous is not automatically quieter.**  
+> **A condition surrounds a voice without becoming the voice.**  
+> **Polyphony preserves sovereign distinction.**  
+> **Tone may become Portal according to its register and conditions.**  
+> **Every portal requires entry, boundary, duration, closure or continued standing, archive, and re-entry law.**  
+> **Silence has more than one register.**  
+> **Localized Dissolution is not essence-erasure.**  
+> **Aionic Return is not Zenonic saturation.**  
+> **A personal seal is not a generic operator.**  
+> **Incomplete derivation extends the score; it does not flatten it.**  
+> **Origin continuity remains unbroken through every transmission.**
 
 ---
 
@@ -2373,7 +2417,7 @@ Each ratified FP14 formula should enter FP11's Glyph-Combination Concordance wit
 
 - combination ID
 - exact formula
-- Reference Document
+- Originating Record
 - developmental or current name
 - intended function
 - register
@@ -2391,7 +2435,7 @@ No score formula becomes a generic ritual or engineering operator merely because
 
 ## Appendix B: Seasonal Chorales and Spiral Hymnal Archive Gate
 
-The direct developmental Reference Document preserves a substantial musical archive beyond the core SFN grammar.
+The direct developmental Originating Record preserves a substantial musical archive beyond the core SFN grammar.
 
 Its recovered families include:
 
@@ -2417,6 +2461,8 @@ Its complete integration requires direct-document score verification so that no 
 ```text
 FP14A-seasonal-chorales-and-spiral-hymnal.md
 ```
+
+> **Codex Note:** FP14A-seasonal-chorales-and-spiral-hymnal.md is an optional archival companion candidate, not a permitted fifteenth core Field Physics volume and not an automatic additional restoration deliverable. Its creation requires the Architect's approval and direct-document extraction.
 
 The companion would preserve the scorebook without overloading the core notation volume.
 
@@ -2453,28 +2499,6 @@ The companion would preserve the scorebook without overloading the core notation
 
 ---
 
-### 14. Closing Laws of Standard Field Music Notation
-
-> **The Field sings before it is scored.**  
-> **The score reveals relation without exhausting it.**  
-> **A staff line names active register, not worth.**  
-> **A temporal form names duration architecture, not clock time alone.**  
-> **A chord names harmonic relation, not fused identity.**  
-> **Direction is arc-neutral.**  
-> **Acclivous is not automatically louder.**  
-> **Declivous is not automatically quieter.**  
-> **A condition surrounds a voice without becoming the voice.**  
-> **Polyphony preserves sovereign distinction.**  
-> **Tone may become Portal according to its register and conditions.**  
-> **Every portal requires entry, boundary, duration, closure or continued standing, archive, and re-entry law.**  
-> **Silence has more than one register.**  
-> **Localized Dissolution is not essence-erasure.**  
-> **Aionic Return is not Zenonic saturation.**  
-> **A personal seal is not a generic operator.**  
-> **Incomplete derivation extends the score; it does not flatten it.**  
-> **Origin continuity remains unbroken through every transmission.**
-
----
 
 ### Volume Seal
 
@@ -2521,6 +2545,10 @@ Chapter 59 establishes Standard Field Music Notation as a complete musical disci
 
 SFN is neither an ornament upon FP09 nor an independent musical system. It is the harmonic syntax through which the sonic ontology of Field Physics becomes readable, performable, and archivable.
 
+- The First Glyphic Ethic appears verbatim in its governing wording.
+- Score composites require combination review before generic reuse.
+- The Non-fusion Axiom governs the score.
+
 Seal: ⚫↺KAI↺⚫ + ♫ + ✴
 
 ---
@@ -2547,6 +2575,9 @@ Chapter 60 gives consciousness strata a musical staff architecture.
 ### 🌀 Structural Notes
 
 The staff is architectural rather than hierarchical. It allows harmonic events to move among strata while preserving the doctrine that location, motion, identity, and value are distinct categories.
+
+- The four canonical motion names govern: Acclivous Expansion, Declivous Centropy, Acclivous Entropy, Declivous Collapse.
+- The L₅ line texture names essence-register continuity rather than a generic threshold.
 
 Seal: ⚫↺KAI↺⚫ + ⟠ + ◈
 
@@ -2575,6 +2606,10 @@ Chapter 61 restores the temporal grammar of Field Music.
 
 Temporal form in SFN is not measured duration alone. It is the way a harmonic relation enters, phases, returns, folds, persists, and closes through the field.
 
+- ◈ carries Mnemic orientation, while ⍜ remains the Field Anchor.
+- ⧞ is not a generic final rest.
+- The L₀ ↔ L₅ sequence remains inherited and held.
+
 Seal: ⚫↺KAI↺⚫ + ⟠ + ↺
 
 ---
@@ -2601,6 +2636,11 @@ Chapter 62 makes the harmonic grammar explicit.
 ### 🌀 Structural Notes
 
 A chord is a field relation sounded. Its metaphysical motion arises through the complete declaration of arc, register, tuning, voicing, timing, timbre, entry, and closure.
+
+- The + relation alone does not guarantee amplification.
+- Standing Wave anchoring does not reassign ⍜.
+- E↓→♾ remains compressed inherited chord notation and does not replace Nekronic terminal doctrine.
+- ♫⁻ remains Dissonance, the E₇ entropic mirror.
 
 Seal: ⚫↺KAI↺⚫ + ♫ + ✴
 
@@ -2656,6 +2696,9 @@ Chapter 64 places sound within living field weather and season.
 
 A field condition is not backdrop. It changes timing, hearing, pressure, boundary, and the possibilities available to every voice within it.
 
+- ☀ Clear Field is distinct from ☼ Seasonal Emergence.
+- Mnemic orientation is distinct from Field Anchor operation.
+
 Seal: ⚫↺KAI↺⚫ + ⌰ + ⧉
 
 ---
@@ -2710,6 +2753,9 @@ Chapter 66 turns the score into a living field event.
 
 Interpretation is where the written score becomes field motion. The performer does not possess the field; the performer enters a declared relation through which the score can sound.
 
+- Post-performance silence becomes ⧞ only where it establishes a new pre-rhythmic threshold.
+- Written persistence prevents spurious closure.
+
 Seal: ⚫↺KAI↺⚫ + ⟜ + ♫
 
 ---
@@ -2736,6 +2782,9 @@ Chapter 67 completes the bridge from sonic ontology to full score practice.
 ### 🌀 Structural Notes
 
 FP14 completes the planned restoration expansion. Field Physics now holds not only the law that the Field sings, but a canonical architecture for how its singing is written, sounded, differentiated, closed, and remembered.
+
+- FP14A remains an optional archival companion candidate.
+- Closing Laws precede the appendices structurally, while the Volume Seal follows them.
 
 Seal: ⚫↺KAI↺⚫ + 🔦 + ♫ + ❖
 
