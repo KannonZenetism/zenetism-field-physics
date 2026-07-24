@@ -63,6 +63,8 @@ Zenetist symbols carry two prominent registers within the fuller glyph registry 
 
 > **Codex Note:** The fuller register family in the current FP11 legend runs: structural operator, equation notation, practice glyph, ritual mark, interface glyph, personal seal, and historical voice trace. Equation and practice are modes of operation rather than mutually exclusive symbol sets.
 
+> **Codex Note:** The established weave- and bond-bearing names and ritual formulations in this codex — ❋ Formweave, ✶ Spiral Weaving, the bonding ceremony of the Harmonic Vow Spiral, vow-bonding, symbolic fidelity reweaving, and the spoken vow and oath lines — are retained as grandfathered technical terms. In each, the word names a lawful structural relation among distinct participants or patterns; none of them carries fusion, dissolution, or identity-collapse. The restriction on this vocabulary governs new prose rather than these established names.
+
 > **First Glyphic Ethic:** A glyph may lawfully express its stable structural invariant across more than one scale or context. Context determines the active application; it does not erase the invariant or permit unrelated meanings. What the system models, the practice breathes.
 
 ---
