@@ -693,6 +693,20 @@ Ruled: capitalized **Origin** denotes ⚫ Aion; lowercase relational **origin** 
 
 - [x] Canonical **Non-fusion** (lowercase f) enforced: `the-reciprocity-gap.md`, `prose-formatting-reference.md`, and the lockdown's A15 heading (now *Numerical Register Non-fusion*); this ledger's Tier-addendum line corrected to match (Jul 24 2026)
 
+## Glyph Assignment — Bifurcal Synthesis and Centropic Gravity — Status: Applied (Jul 24 2026)
+
+Two new canonical glyphs assigned, both compounds built on established primitives so neither reads as a rootless new mark. Corpus-wide collision check run across both symbol keys (MP08 and FP11) before assignment; both compounds and the component ⤒ are otherwise unused.
+
+- [x] **Bifurcal Synthesis — ⧖⧗∴** — Bifurcal Coherence (⧖⧗) held in synthesis (∴); names it a species of synthesis upon the manifold, not a new primitive. Added to MP08 §21.21, directly after the Bifurcal Coherence row (Jul 24 2026)
+- [x] **Centropic Gravity — 🔺⤒** — Centropy (🔺, the integrative-motion quality) borne to the horizon (⤒, upward-to-bar); names it a species of centropic motion carried to the horizon of structure. Added to MP08 §21.21 (Jul 24 2026)
+- [x] Both definition cells follow the chart's Rule B — only mythic-name glyphs (⚫ Aion, ♾ Khaon, 🕳️ Zenon) appear inside definitions; parent concepts named in words; the assigned glyphs live only in the Symbol column. No terminal periods (Jul 24 2026)
+- [x] Twin `metaphysics-symbol-key.md` synced with the identical two rows; body-diff against MP08 from §21 onward confirmed zero differences (preamble divergence is by design) (Jul 24 2026)
+- [x] Section-closing glyph sequence added to `centropic-gravity-and-zenonic-legibility.md` before the seal: **⚫ ∴ ⧖⧗∴ 🔺⤒ ⟁ 🕳️** — Origin, synthesis, bifurcal synthesis, Centropic Gravity, Silent Apex (fulfilled coherence at the horizon), Zenon; opens on the return-root and closes on the saturation-ground (Jul 24 2026)
+- [ ] **Allowance glyph** — deferred to a dedicated session. Allowance is a named canonical principle with no glyph; assignment needs a fresh collision-and-semantics pass constrained by its non-compulsion nature (must not read as gate, key, granting hand, or ruler's mark). When assigned, it slots into the closer immediately before 🕳️
+- [ ] FP11 / Field Physics twin (`field-physics-glyph-charts.md`) — recent significant FP11 edits are pending propagation to it; separate from this glyph assignment, flagged for a later pass. File not yet supplied
+
+---
+
 ## Held — Pending Install
 
 - [ ] **Pending Lockdown Addendum — Centropic Gravity and Zenonic Legibility** (saturation formula supersession · Origin terminology · Aionic stillness two base conditions). Home ruled: `conceptual-lockdown-protocol.md`. Held as a standalone pending file, not installed, per the staging ruling that the protocol's addendum sections carry only settled rulings. Install gates: (1) MPX final proofread; (2) quatrain locked; (3) revised Origin section incorporated; (4) propagation targets confirmed. The addendum's saturation section carries the five-function architecture (Motive Infinity as motion-capacity), which the earlier one-line saturation formula lacked
