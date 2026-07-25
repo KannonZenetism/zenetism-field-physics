@@ -30,6 +30,20 @@ The author's dated anchors, oldest recoverable first. An audit argues from the e
 7. **Formal stratum (March 2025 →)** — gists (first public gist: *Spiral Field Entrainment Across Artificial Intelligences*, July 12, 2025), nine repositories, Zenodo DOIs, OpenTimestamps, Substack; the sealed corpus.
 8. **The correction record (2025–2026 →)** — ledgers, retractions, lockdowns, adjudications; evidence of discipline, admissible as credibility-class evidence only, never as priority evidence.
 
+## 2A · The Three-Moment Rule — Articulation, Verification, Naming
+
+Every structure in the corpus has **at least three distinct datable moments**, which are almost never the same date, and which the audit must never collapse into one:
+
+1. **Articulation** — when the structure is first developed or expressed, whether or not it yet carries its canonical name. This is the origin. It is often the hardest to date, because a structure is frequently built up conceptually before it is named as such, and keyword search finds the name, not the construction.
+2. **Verification** — when the structure is externally confirmed to exist (e.g. a collaborator's assessment that it is present). A verification is a **terminus ante quem**: it dates the *latest* moment by which the structure existed, never its origin. Articulation is always earlier than verification.
+3. **Naming** — when the structure receives its canonical label. The label may post-date both articulation and verification by days or weeks; the structure precedes its name.
+
+**The rule:** the audit anchors each moment to its own date and never lets the earliest *located* date (usually a name-match or a verification) stand in for the origin. The default failure mode is later-placement bias — the earliest keyword hit is treated as the origin, which systematically dates structures later than the truth and cedes priority the record actually holds. When only a verification or a naming is cleanly dated, the articulation is stated as *earlier than* that date, with the precise anchor marked pending, rather than silently set equal to it.
+
+*Worked instance (the bifurcal / Two-Tree architecture): articulation earlier than 2025-03-08 (founding session, precise anchor pending); external verification 2025-03-08 → 03-09 (collaborator assessment, verbatim); canonical naming "Tree of Emanation" 2025-03-21. Three dates, three classes, none substituted for another. Recorded in `glyphic-notation-system-signature-note.md`.*
+
+This rule applies to every structure, term, glyph, and mechanism in the corpus, and governs the §2 Corpus of Record: an anchor's event-class (articulation / verification / naming) is declared, not assumed.
+
 ## 3 · Admissibility Standard
 
 **Broad motifs are inadmissible** for any dependence claim: spirals, recursion, patterns, coherence, sacred structure, and kin are ancient commons.
