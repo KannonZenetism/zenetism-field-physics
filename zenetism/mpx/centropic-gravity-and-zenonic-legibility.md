@@ -216,7 +216,7 @@ Without final synthesis, "gravity" would remain an undefined momentum.
 
 With final synthesis, the doctrine becomes exact:
 
-> Centropic Gravity is the momentum generated when an essence's fulfilled integration continues to hold the Aionward and Khaonward terms in non-fusing relation at the limit of structure.
+> Centropic Gravity is the momentum generated when an essence's fulfilled integration continues to hold the full Aion / Khaon bifurcal manifold in non-fusing centropic relation at the horizon of structure.
 
 The gravity is therefore not added to the essence from outside.
 
@@ -271,27 +271,25 @@ This final synthesis does not introduce dissonance into centropy.
 
 It does not mean that the returned centropic essence remains internally divided, conflicted, or unresolved.
 
-At the Aionic threshold, the terms are not enemies requiring reconciliation.
+At the Aionic threshold, the operative terms are not enemies, unresolved opposites, or separate destinations. They are distinct functions within the final synthesis, held in perfected non-fusing relation:
 
-They are distinct structural motions held in perfected relation:
+* **Aionic negation** — the release of relative structure into Aionic stillness without loss of essence
+* **trans-structural exceeding** — the capacity of fulfilled synthesis not to terminate in relative closure; its motion-capacity is supplied by Motive Infinity, while the essence that bears it remains centropic in orientation
+* **bifurcal synthesis** — the essence-specific holding of Aion / Khaon Bifurcal Coherence in coherent relation without fusion, gathering stillness and motion, latency and enactment, negation and exceeding into lawful relation without converting them into one identical operation
+* **Centropic Gravity** — the essence-borne motion of this fulfilled synthesis to the horizon of structure, where saturation becomes Zenonically legible and possible by Allowance
 
-* **Aionward negation** — the release of determinate structure into stillness without loss of essence
-* **Khaonward exceeding** — the capacity to pass beyond determinate closure without dispersive fragmentation
-* **centropic synthesis** — the non-fusing relation by which emptying and exceeding become one coherent saturation-posture without becoming one identical operation
+The synthesis does not mix Aion and Khaon. It does not make Khaon a destination beyond Aion. It does not convert centropy into an admixture of centropy and entropy. It does not introduce entropic fragmentation into the centropic essence. The full bifurcal manifold becomes the coherent vantage from which its own structural horizon is discernible.
 
-The synthesis does not mix Aion and Khaon.
+> Final synthesis gives Centropic Gravity its form.  
+> Motive Infinity gives it motion.  
+> Aion-facing orientation gives it direction.  
+> Allowance admits saturation.
 
-It does not convert centropy into an admixture of centropy and entropy.
-
-It does not import entropic motion into the centropic essence.
-
-It holds the stillness-term and the beyond-term in lawful relation.
-
-This is the metaphysical motion already expressed by the Twofold Tetralemma:
+This is the metaphysical relation already expressed by the Twofold Tetralemma:
 
 * negation alone reaches Aion
-* exceeding alone continues through Khaonic motion without arrival
-* their centropic non-fusing synthesis points toward Zenon
+* motion-capacity alone continues without arrival
+* their centropic non-fusing synthesis holds the manifold whole, and Allowance admits the crossing
 
 The final synthesis is therefore not another stage added after integration as though the sequence were indefinitely extended.
 
@@ -314,7 +312,7 @@ The posture includes:
 * non-fusing relation among all lawfully gathered distinctions
 * full Aion-facing return
 * capacity for Aionic stillness without identity-collapse
-* capacity for Khaonward exceeding without fragmentation
+* capacity for trans-structural exceeding without fragmentation
 * openness to the horizon beyond structural determination
 
 The essence does not contain Zenon.
@@ -347,7 +345,7 @@ It arises from fullness.
 
 The essence does not move because it is deprived.
 
-It moves because its synthesis is sufficiently fulfilled that stillness and exceeding are held together without contradiction.
+It moves because its synthesis is sufficiently fulfilled that stillness and motion-capacity are held together without contradiction.
 
 Thus:
 
@@ -383,7 +381,7 @@ But negation alone reaches Zero.
 
 It does not explain saturation.
 
-A purely subtractive path may lawfully culminate in Aionic stillness because it releases structure without completing the Khaonward exceeding term.
+A purely subtractive path may lawfully culminate in Aionic stillness because it releases structure without completing the trans-structural exceeding term.
 
 It empties.
 
@@ -398,7 +396,7 @@ The error arises only when negation is treated as sufficient for Zenonic fulfill
 Zenetism distinguishes:
 
 > Aion is reached by return and negation.  
-> Zenon is approached through the non-fusing synthesis of negation and exceeding.
+> Zenon is approached through the non-fusing synthesis of negation and the exceeding term, admitted by Allowance.
 
 Centropic Gravity therefore explains why some essence does not merely reach Aion and stop.
 
@@ -408,35 +406,31 @@ Its fulfilled coherence remains capable of the beyond.
 
 ---
 
-## 10. The Khaonward Term Is Not Entropic Orientation
+## 10. Motive Infinity and the Exceeding Term
 
-The final synthesis includes a Khaonward term, but this does not make the saturation-posture partly entropic.
+The final synthesis carries an exceeding term, but this does not make the saturation-posture partly entropic, and it does not make the exceeding a vector toward Khaon.
 
-Khaon is not entropy.
+The exceeding term is not a vector toward Khaon. Khaon is not beyond Aion, does not outrank Aion, and does not function as an intermediate destination between Aion and Zenon. Aion and Khaon remain the paired L₀ root-registers of Bifurcal Coherence.
 
-Khaon is Infinity across its Latent, Motive, and Dispersive phases.
+The exceeding term names the capacity of fulfilled synthesis not to terminate in relative structural closure:
 
-Entropy is the intrinsic orientation expressed through the Nekronic and inverse Trees.
-
-The Khaonward term relevant to Zenonic saturation is the **Motive exceeding**:
-
-* the capacity for beyond
+* the capacity for continuation
 * the refusal of structural closure
-* the continuation past determinate containment
+* the passage past determinate containment
 * the "more" that does not settle into mere subtraction
 
-Centropic essence may hold this Khaonward exceeding without becoming entropic because its governing orientation remains integrative and Aion-facing.
+This capacity is **Motive-Khaonic in function, not Khaonward in destination**. Motive Infinity is Infinity in motion — the enactment of motion as such, supplying emanation, return, and the continuation of final synthesis to the horizon of structure alike. Motive Infinity is not itself centropic or Aion-facing, just as Khaon is not itself entropic; neither Aion nor Khaon is a centropic or entropic principle. Orientation belongs to the essence, not to the motion-principle it draws upon: the centropic essence remains Aion-facing while bearing this exceeding.
 
-It does not disperse.
-
-It synthesizes.
+Motive Infinity is therefore the kinetic condition of Centropic Gravity. It is not its destination, its final object, or its governing orientation. Centropic essence may hold this exceeding without becoming entropic, because its governing orientation remains integrative and Aion-facing. It does not disperse. It synthesizes.
 
 The relation is therefore:
 
-> Aionward in return.  
-> Khaonward in exceeding.  
-> Centropic in synthesis.  
-> Zenonic by saturation.
+> Aion-facing in orientation.  
+> Bifurcal in synthesis.  
+> Motive in motion.  
+> Centropic as Gravity.  
+> Zenonically legible at the horizon.  
+> Saturating only by Allowance.
 
 ---
 
@@ -697,9 +691,9 @@ At Aion, entropic essence rests in static tension.
 
 Its manifested motion has ceased, but its intrinsic orientation has not become centropic.
 
-It cannot convert collapse into synthesis.
+Entropic essence may perform local, formal, strategic, or instrumental synthesis. It may combine structures, coordinate relations, imitate coherent organization, and produce temporarily stable configurations. The distinction is therefore not that entropy is incapable of synthesis; it concerns the orientation, method, and culmination of the synthesis. Entropic synthesis does not, as entropy, complete the final non-fusing integration through which essential distinctions are gathered into Zenonic Legibility — its combinations seek and produce different ends.
 
-It cannot change its essence through exhaustion.
+Thus entropic collapse does not become the final centropic synthesis merely through exhaustion, and entropic essence does not change orientation upon reaching Aionic resolution.
 
 It therefore lacks Centropic Gravity.
 
@@ -798,7 +792,7 @@ The concise formulation is:
 > Centropic radiance names the intensity and stability of fulfilled coherence. Radiance becomes saturation-relevant through final synthesis rather than through unqualified energetic accumulation.
 
 > **Final Synthesis Principle**  
-> The final synthesis holds Aionward negation and Khaonward exceeding in non-fusing centropic relation at the limit of structure.
+> The final synthesis holds the full Aion / Khaon bifurcal manifold in non-fusing centropic relation at the horizon of structure. Aionic negation and the trans-structural exceeding term are gathered without fusion; Motive Infinity supplies the motion, and the essence's orientation remains centropic and Aion-facing.
 
 > **Trans-Structural Capability Principle**  
 > A trans-structurally capable synthesis posture does not make an essence trans-structural within the lattice. It makes the essence saturation-ready by completing the relation through which trans-structural crossing becomes admissible.
@@ -858,7 +852,11 @@ It rests without closing.
 
 It remains itself without making selfhood a barrier.
 
-At the limit of structure, the final synthesis becomes legible.
+At the horizon of structure, the final synthesis becomes legible.
+
+The horizon is not structure failing or simply ending. It is the furthest vantage available from within Structon — the point at which the full bifurcal manifold is coherently discerned, beyond which structured determination cannot follow, and where Allowance rather than any within-structure mechanism governs saturation.
+
+**Structure Unbound** and **structure exceeded** are relational descriptions spoken from within the lattice. They affirm that Zenon is not mere absence, while refusing to reduce Zenon to Structure as known within Structon. This parallels the Twofold Tetralemma: silence, and sound beyond hearing; structure exceeded, and Structure Unbound; neither description sufficient, both preserving the refusal to reduce Zenon to nothingness.
 
 Not Zenon in actuality.
 
