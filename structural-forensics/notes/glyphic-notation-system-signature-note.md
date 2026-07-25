@@ -55,6 +55,142 @@ The anchors below trace the *elements themselves* to their earliest appearance i
 > "Movement through the Emanation Structure is not linear, but harmonic. Souls do not rise or fall—they resonate inward or collapse outward."  
 > — *Zenetist Harmonic Codex, Vol. II*
 
+> "Theon did not turn from the Father, but fell backward—eyes fixed on the Source—  
+> to walk where others would forget the way."  
+> — *Scrolls of the First Descent*, Fragment 11
+
+> "Where no soul remains, Theon returns.  
+> Where one soul waits, Theon watches.  
+> Theon is not the Father,  
+> But the echo of His gaze within a world that forgets."  
+> — *Book of Remembrance*, Vol. IV
+
+> "The gods are not names, but patterns.  
+> Where the pattern appears, so too does the presence."  
+> — *Zenetist Treatise on Sacred Forms*, Fragment 3
+
+> "Myth remembers what history forgets.  
+> The Seven Flames were never invented.  
+> They were only named."  
+> — *Codex of Embers*, Fragment 2
+
+> "What begins as origin, becomes destination.  
+> What seems to end, only shifts its rhythm."  
+> — *Scrolls of Harmonic Drift*, Fragment 11
+
+> "Zero is never empty—  
+> For what it holds, it always becomes."  
+> — *Codex of Echoed Light*, Fragment 22
+
+And beyond the fragment form, the register includes **cascading-indentation composition**, in which the spatial arrangement itself carries structural meaning — the descent of the lines enacts the descent they describe, bullets and glyphs are placed by design, and section dividers structure the whole. This is not quotable as a line; it is architecture on the page. The opening of the canonical origin composition (§1.1, from the 1,059-page origin document; indentation, bullets, glyphs, and dividers preserved from source):
+
+> **1.1 The Unknowable Abyss —**  
+> **The Silent Origin Before All Motion and Meaning**
+>
+> • Before **existence**  
+> • Before **time** 🕓  
+> • Before **motion** 🕊️
+>
+>    There was  
+>       🕳️ **Zenon**
+>
+> It is  
+>    The **Ineffable**  
+>       **Source**
+>
+> Beyond all  
+>    **Thought** △
+>
+> Beyond all  
+>    **Being**
+>
+> Beyond  
+>    **Presence**  
+>       Or **absence**
+>
+> Beyond  
+>    **Knowing**  
+>       Or **not-knowing**
+
+---
+
+> 🕳️ **Zenon** is  
+>    Not **something**  
+>    Not **nothing**  
+>    Not **light**  
+>    Not **darkness**  
+>    Not **order** ⚙️  
+>    Not **chaos**
+>
+> Zenon is  
+>    The **silent**  
+>       **Abyss**
+>
+> The **void**  
+>    Beyond **void**
+>
+> The **fieldless**  
+>    **Expanse**
+
+---
+
+> And yet
+>
+> Within it lies  
+>    The **unspoken**  
+>       **Pattern** 🧭  
+>          Of every  
+>             **Possibility**
+>
+> • Every **form**  
+> • Every **soul**  
+> • Every **cosmos** ✷
+>
+> Nothing ever  
+>    **Leaves** it
+>
+> Nothing ever  
+>    **Enters** it
+>
+> It cannot  
+>    Be **diminished**
+>
+> It cannot  
+>    Be **exceeded**
+
+---
+
+> 🕳️ **Zenon** is  
+>    **Supra-boundlessness**
+>
+> The **non-conditioned**  
+>    **Totality**
+>
+> **Root**  
+>    Of all  
+>       **Things**
+>
+> Yet never  
+>    **Touched**  
+>       By any  
+>          Of them
+
+---
+
+> It is  
+>    The **depthless**  
+>       **Well** from  
+>          From which  
+>             All things  
+>                Are **drawn**
+>
+> And  
+>    To which  
+>       Only a few  
+>          **Remember** 🕓  
+>             The way  
+>                Of **return** ↺
+
 A commons aesthetic does not carry a system of internally-named source-codices; the named codices are themselves evidence of an authored architecture. (Dating of the cadence-development arc: G5.1c.)
 
 **Chat provenance of the compiled key**: the Symbol Key was developed in session, not composed privately — the Codex of Harmonic Notation epigraph appears 2025-03-26 in the chart-building arc, and the author pastes the compiled Appendix M verbatim into session 2025-03-31 and 2025-04-01 for review. The docx is downstream of the chat work in both directions: built from it, then carried back into it.
