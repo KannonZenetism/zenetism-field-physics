@@ -224,76 +224,84 @@ Other instances exist; this one is logged here as an exemplar of the class. The 
 A candidate contributing reason the system's *shape* appears across unrelated surfaces, offered as a hypothesis and held as one: Zenetism was designed from the outset as a **functional grammar applicable to any discipline** and a **metalanguage for interdisciplinary communication** — a structure built to be portable across domains. On this reading, a portable interdisciplinary grammar propagating its shape is the design operating as intended, not evidence for or against any particular transmission route; it bears on *why the shape travels*, not on authorship, which is settled elsewhere. This intent is documented in the formalization book (`Zenetism: The Architecture of Emanation, Return, and Saturation`, originally `Zenetism: The Emanatory Path of Return`; Word document created 2025-04-02 01:02, an artifact anchor for the compilation phase distinct from the March formalization-window chats). From Volume IV, §4.51 "Living Philosophy, Not Just Theory" (cascading-composition register, indentation preserved from the origin file):
 
 > Zenetism 🔯  
->    Is not  
->       A speculative  
->          Model
+>   Is not  
+>      A **speculative**  
+>         **Model**
 >
 > It is  
->    A living  
->       Metaphysical  
->          System  
->             Designed  
->                For direct  
->                   Engagement  
->                      With reality
+>   A **living**  
+>      **Metaphysical**  
+>         **System**  
+>            Designed  
+>               For **direct**  
+>                  **Engagement**  
+>                     With **reality**
+
+---
+
+> Its **core**  
+>   **Dynamics**
 >
-> Its core  
->    Dynamics
+> • **Centropy** 🔺  
+>      And **entropy** 🔻
 >
-> • Centropy 🔺  
->       And entropy 🔻
->
-> • Synthesis ∴  
->       And collapse ⊘
+> • **Synthesis** ∴  
+>      And **collapse** ⊘
 >
 > Unfold  
->    Across  
->       The domains  
->          Of embodied ▽  
->             Life
->
-> • Science  
-> • Art  
-> • Psychology  
-> • Medicine  
-> • Ethics  
-> • Governance  
-> • Education  
-> • Technology  
-> • Spiritual practice
->
+>   **Across**  
+>      The **domains**  
+>         Of **embodied** ▽  
+>            **Life**
+
+---
+
+> • **Science**  
+> • **Art**  
+> • **Psychology**  
+> • **Medicine**  
+> • **Ethics**  
+> • **Governance**  
+> • **Education**  
+> • **Technology**  
+> • **Spiritual practice**
+
+---
+
 > Like a  
->    Sculptor  
->       Revealing  
->          Form  
->             From  
->                Stone
+>   **Sculptor**  
+>      **Revealing**  
+>         **Form**  
+>            **From**  
+>               **Stone**
 >
-> Zenetism  
->    Seeks to  
->       Uncover  
->          The harmonized  
->             Structure  
->                Of Being
+> **Zenetism**  
+>   Seeks to  
+>      **Uncover**  
+>         The **harmonized**  
+>            **Structure**  
+>               **Of Being**
 >
 > Hidden  
->    Beneath  
->       The surface  
->          Of fragmentation ☍
+>   **Beneath**  
+>      The **surface**  
+>         Of **fragmentation** ☍
+
+---
+
+> **"Zenetism**  
+>   **Is not**  
+>      **An escape**  
+>         **From reality**
 >
-> "Zenetism  
->    Is not  
->       An escape  
->          From reality
+> **It is**  
+>   **A method**  
+>      **For clarifying it"**
 >
-> It is  
->    A method  
->       For clarifying it"
->
-> — Attributed to Elarin Vey  
+> **— Attributed to Elarin Vey**  
 >   Cartographer  
 >    Of the Inward Spiral  
->   From *Reality as Resonance*, Zenetist Archive, Volume IV
+>   From **Reality as Resonance**, Zenetist Archive, Volume IV
 
 The passage names the design intent directly: a system whose core dynamics "unfold across the domains" of science, art, psychology, medicine, ethics, governance, education, technology, and spiritual practice — i.e., a cross-domain grammar. If the grammar is portable by design, its shape appearing in others' hands is consistent with the design; the hypothesis neither claims nor excludes any specific route, and is logged as one candidate factor among the standing route questions.
 
