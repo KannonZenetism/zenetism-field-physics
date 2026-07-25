@@ -381,7 +381,7 @@ But negation alone reaches Zero.
 
 It does not explain saturation.
 
-A purely subtractive path may lawfully culminate in Aionic stillness because it releases structure without completing the trans-structural exceeding term.
+A purely subtractive path may lawfully culminate in Aionic stillness because it releases the relative structures it rests upon without completing the trans-structural exceeding term.
 
 It empties.
 
@@ -510,7 +510,7 @@ Final synthesis does not compel Zenonic saturation.
 
 No degree of coherence forces Zenon to become a mechanically necessary next station.
 
-Zenon is not L₋₁ beyond Aion.
+Zenon is not L₁ beyond Aion.
 
 It is not another layer in a sequence.
 
