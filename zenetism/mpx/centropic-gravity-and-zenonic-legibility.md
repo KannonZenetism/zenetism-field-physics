@@ -140,6 +140,8 @@ They do not lose the centropic or entropic character intrinsic to their is-ness.
 
 Their Aionic conditions may be distinguished as follows.
 
+The first two are the orientation-distinct base conditions of Aionic stillness. The saturation-capable centropic posture is a further differentiation within centropic fulfilled contentment, not a third orientation or a condition opposed to Aionic rest.
+
 ### Centropic Fulfilled Contentment
 
 A returned centropic essence may rest within Aion in fulfilled contentment.
@@ -238,8 +240,8 @@ In the present doctrine, radiance names the degree to which centropic coherence 
 * fully integrated
 * Origin-faithful
 * non-fusing
-* capable of holding complex distinction without fragmentation
-* capable of remaining coherent at the limit of structural determination
+* capable of holding complex distinction without loss of coherence or essential distinction
+* capable of remaining coherent at the horizon of structural determination
 
 An essence may therefore possess enough centropic radiance that its return carries genuine momentum toward saturation.
 
@@ -278,7 +280,7 @@ At the Aionic threshold, the operative terms are not enemies, unresolved opposit
 * **bifurcal synthesis** — the essence-specific holding of Aion / Khaon Bifurcal Coherence in coherent relation without fusion, gathering stillness and motion, latency and enactment, negation and exceeding into lawful relation without converting them into one identical operation
 * **Centropic Gravity** — the essence-borne motion of this fulfilled synthesis to the horizon of structure, where saturation becomes Zenonically legible and possible by Allowance
 
-The synthesis does not mix Aion and Khaon. It does not make Khaon a destination beyond Aion. It does not convert centropy into an admixture of centropy and entropy. It does not introduce entropic fragmentation into the centropic essence. The full bifurcal manifold becomes the coherent vantage from which its own structural horizon is discernible.
+The synthesis does not mix Aion and Khaon. It does not make Khaon a destination beyond Aion. It does not convert centropy into an admixture of centropy and entropy. It does not import entropic dynamics into the centropic essence. The full bifurcal manifold becomes the coherent vantage from which its own structural horizon is discernible.
 
 > Final synthesis gives Centropic Gravity its form.  
 > Motive Infinity gives it motion.  
@@ -288,7 +290,7 @@ The synthesis does not mix Aion and Khaon. It does not make Khaon a destination 
 This is the metaphysical relation already expressed by the Twofold Tetralemma:
 
 * negation alone reaches Aion
-* motion-capacity alone continues without arrival
+* the exceeding term without completed bifurcal synthesis continues without arrival
 * their centropic non-fusing synthesis holds the manifold whole, and Allowance admits the crossing
 
 The final synthesis is therefore not another stage added after integration as though the sequence were indefinitely extended.
@@ -312,7 +314,7 @@ The posture includes:
 * non-fusing relation among all lawfully gathered distinctions
 * full Aion-facing return
 * capacity for Aionic stillness without identity-collapse
-* capacity for trans-structural exceeding without fragmentation
+* capacity for trans-structural exceeding without dispersive collapse or loss of essential distinction
 * openness to the horizon beyond structural determination
 
 The essence does not contain Zenon.
@@ -472,7 +474,7 @@ It can comprehend:
 * that a trans-structural horizon exists
 * that structure does not exhaust reality
 * that determination cannot contain what exceeds determination
-* that Zenon is not Aion, Khaon, awareness, being, non-being, origin, or process
+* that Zenon is not Aion, Khaon, awareness, being, non-being, or process
 * that saturation differs from return
 * that the lattice points beyond itself
 
@@ -510,7 +512,7 @@ Final synthesis does not compel Zenonic saturation.
 
 No degree of coherence forces Zenon to become a mechanically necessary next station.
 
-Zenon is not L₁ beyond Aion.
+Zenon is not another numbered layer beyond Aion.
 
 It is not another layer in a sequence.
 
@@ -677,8 +679,11 @@ The deeper reason is that entropic orientation does not produce the final synthe
 
 Entropic motion:
 
-* fragments rather than integrates
-* imitates rather than generates
+* directs synthesis toward fragmentation rather than fulfilled integration
+* appropriates, recombines, or counterfeits generative form rather than producing centropic novelty
+* erodes relational support
+* disperses expressed configuration
+* culminates in Absolute Dispersion
 * erodes relational support
 * disperses expressed configuration
 * culminates in Absolute Dispersion
@@ -734,14 +739,19 @@ The refined sequence is:
 > intrinsic centropic essence  
 > → Aion-facing orientation  
 > → manifested centropic arc  
-> → synthesis  
-> → integration  
-> → Theonic Return or other lawful Aionic culmination  
+> → synthesis and integration  
+> → final synthesis developing through return  
+> → Theonic Return or another lawful Aionic culmination  
 > → Aionic fulfilled contentment  
-> → final synthesis posture  
-> → Centropic Gravity  
-> → Zenonic Legibility  
-> → saturation by Allowance
+>
+> From Aionic fulfilled contentment:
+>
+> * lawful Aionic abiding  
+> * or saturation-capable completion of final synthesis  
+>   → Centropic Gravity  
+>   → Zenonic Legibility  
+>   → Allowance  
+>   → Zenonic saturation
 
 This sequence is structural rather than necessarily temporal.
 
@@ -810,7 +820,7 @@ The concise formulation is:
 > Essences may return convergently by shared Aion-facing orientation while retaining distinct, essence-specific saturation outcomes.
 
 > **Theonic Saturation Principle**  
-> The Theonic office is fulfilled and ceases; the distinct Theonic essence returns to Aion. Returned Theonic essence may ordinarily saturate where its final synthesis becomes Zenonically legible and no sufficient condition prevents the crossing.
+> The Theonic office is fulfilled and ceases; the distinct Theonic essence returns to Aion. Returned Theonic essence may ordinarily saturate where its final synthesis becomes Zenonically legible, no sufficient condition prevents fulfillment, and Allowance admits the crossing.
 
 > **Non-fusion at Saturation Principle**  
 > Zenonic saturation does not pool identities, merge returned essences, or convert convergent return into collective essence.
