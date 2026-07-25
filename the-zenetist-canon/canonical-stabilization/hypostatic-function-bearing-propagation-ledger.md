@@ -707,6 +707,33 @@ Two new canonical glyphs assigned, both compounds built on established primitive
 
 ---
 
+## Centropic Gravity MPX — Propagation Plan (named Jul 24 2026, execution pending)
+
+The `centropic-gravity-and-zenonic-legibility.md` doctrine propagates. Primary propagation set is eight files; a wider search-and-review pass catches older wording beyond the known targets. Gated on the MPX final proofread — targets should receive the locked wording, not draft wording.
+
+**Primary propagation targets:**
+
+- [ ] `synthesis-integration-saturation.md` — main companion doctrine; add Centropic Gravity, Zenonic Legibility, Motive Infinity's role, and Allowance
+- [ ] `the-twofold-tetralemma.md` — replace the over-simple Aionward / Khaonward directionality with the final synthesis of the full Bifurcal Coherence manifold at the horizon of structure
+- [ ] `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` — clarify that Aion-facingness explains return, while fulfilled final synthesis and Centropic Gravity establish saturation-readiness
+- [ ] `theonic-office.md` — preserve office completion contra essence saturation; add that returned Theonic essence may abide or saturate according to its essence-specific synthesis posture
+- [x] `metaphysics-symbol-key.md` — glyph rows for Bifurcal Synthesis and Centropic Gravity applied Jul 24 2026; return / synthesis / saturation / Motive Infinity / Zenon terminology review still open
+- [x] `MP08-symbol-key-ch21.md` — same glyph rows applied Jul 24 2026; terminology review still open
+- [~] `conceptual-lockdown-protocol.md` — Origin casing, Aionic-stillness distinctions, and revised arc / motion terminology already applied this session; the abbreviated origin-facing formula supersession remains pending as the held addendum below
+- [~] `terminological-lockdown-protocol.md` — arc / motion terms, Origin casing (A18), and Centropic Gravity context already locked this session; still to lock as explicit term-entries: Zenonic Legibility, final synthesis, trans-structurally capable synthesis posture, Principial Comprehension, Allowance, inverse arc contra entropic motion
+
+**Search-and-review pass (review, not automatic edits):**
+
+- [ ] `orientation-emanation-math.md` (also carries the pending inverse-arc label regularization)
+- [ ] any file containing the exact formula "only centropy saturates into Zenon because it is origin-facing"
+- [ ] any file using "Khaonward exceeding"
+- [ ] any file using "entropic arc"
+- [ ] any file stating Motive Infinity operates only in emanation, or only between L₀ and the hypostatic arcs
+
+**Also queued (own workstream):** align the `symbolic-reflections/` essays — deferred, separate from this propagation.
+
+---
+
 ## Held — Pending Install
 
 - [ ] **Pending Lockdown Addendum — Centropic Gravity and Zenonic Legibility** (saturation formula supersession · Origin terminology · Aionic stillness two base conditions). Home ruled: `conceptual-lockdown-protocol.md`. Held as a standalone pending file, not installed, per the staging ruling that the protocol's addendum sections carry only settled rulings. Install gates: (1) MPX final proofread; (2) quatrain locked; (3) revised Origin section incorporated; (4) propagation targets confirmed. The addendum's saturation section carries the five-function architecture (Motive Infinity as motion-capacity), which the earlier one-line saturation formula lacked
