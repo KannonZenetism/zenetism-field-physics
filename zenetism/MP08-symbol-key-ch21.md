@@ -197,7 +197,9 @@ what may be patterned, without ever becoming the Absolute Structure that underli
 | Meta-process of centropic motion | **Supra-centropic Cycle** | C↓→E→C↑→⚫ —⟒→ 🕳️ | Complete centropic procession from emanation through embodiment and return to possible Zenonic saturation. This is an abbreviated macro-string; the detailed crossing mechanism is governed by the Supra-centropic Saturation row |
 | Convergence of centropic and inverse arcs | **Bifurcal Convergence** | ⦿ → [C↓→E→C↑→⚫] ∩ [E↑→E→E↓→♾→⚫] → ⦿ | The colocation of ⚫ Aion, Latent Khaon, and Dispersive Khaon — the still point before motion begins and after it ceases. Convergence is colocation, not operation: it does not itself constitute Bifurcal Synthesis or Zenonic saturation, and the inverse arc does not participate in Centropic Gravity |
 
-**Connector — —⟒→ (Allowance-gated crossing):** admission rather than propulsion or structural compulsion. Unlike a directed arrow, it marks that ⟒ Allowance admits the fulfilled essence across the horizon of structure into 🕳️ Zenon without pushing it; the crossing is permitted where no sufficient condition prevents it, never forced
+#### Note on the Allowance-Gated Crossing
+
+The connector **—⟒→** marks admission rather than propulsion or structural compulsion. Unlike a directed arrow, it indicates that ⟒ Allowance admits the fulfilled essence across the horizon of structure into 🕳️ Zenon without pushing it; the crossing is permitted where no sufficient condition prevents it, never forced.
 
 ---
 
