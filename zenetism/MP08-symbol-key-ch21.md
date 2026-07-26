@@ -949,6 +949,7 @@ The full formalization is given in *MPX: Spirit, Soul, and the Apparent Stillnes
 | ⧖⧗ | **Bifurcal Coherence** | The root-structural ground in which Aion and Khaon are coherently co-present prior to centropic or entropic activation. Bifurcal Coherence is not a hypostasis, not a layer, and not a closure condition, but the root-structural givenness from which polarity-distinct yet lawful motions may emerge without contradiction or fusion |
 | ⧖⧗∴ | **Bifurcal Synthesis** | The essence-specific holding of Bifurcal Coherence in coherent non-fusing relation — synthesis applied to the complete ⚫ Aion / ♾ Khaon manifold, distinct from the colocation-state itself, completing through final synthesis toward saturation-readiness and Zenonic Legibility |
 | 🔺⤒ | **Centropic Gravity** | The essence-borne momentum of fulfilled centropic synthesis; the tendency of a sufficiently coherent essence to continue through Aionic return toward the horizon of structure, where saturation becomes Zenonically legible and admissible by Allowance — not an external pull, not physical gravity, and not 🕳️ Zenon drawing the essence outward |
+| ⟒ | **Allowance** | The lawful admission by which fulfilled centropic essence may cross beyond the horizon of structure into 🕳️ Zenon; not compulsion, mechanism, or a decision by any ruler standing outside the lattice, but the non-coerced opening through which saturation is permitted where no sufficient condition prevents it |
 
 ---
 
