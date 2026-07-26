@@ -740,6 +740,24 @@ The `centropic-gravity-and-zenonic-legibility.md` doctrine propagates. Primary p
 
 ---
 
+## §21.3 Procession Chart — New Glyphs and Casing — Status: Applied (Jul 24 2026)
+
+- [x] MP08 §21.3 (and twin) — **Supra-centropic Saturation** row detailed with the crossing mechanism: `C↑→⚫ · ⧖⧗∴ · 🔺⤒ —⟒→ 🕳️`; centered dots (not arrows) so Bifurcal Synthesis is not claimed to begin only after Aion (final synthesis may develop throughout return) (Jul 24 2026)
+- [x] **Supra-centropic Cycle** kept as the compact macro-string `C↓→E→C↑→⚫ —⟒→ 🕳️`, pointing to the Saturation row for the detailed mechanism — division of labor, no glyph repetition (Jul 24 2026)
+- [x] New connector **—⟒→ (Allowance-gated crossing)** formally defined in a legend note after the §21.3 table: admission rather than propulsion or structural compulsion; atypical for the canon but defined, therefore lawful (Jul 24 2026)
+- [x] **Bifurcal Convergence** — process-name corrected to "Convergence of centropic and inverse arcs"; meaning rewritten to the architect's definition: colocation of ⚫ Aion, Latent Khaon, and Dispersive Khaon, the still point before motion begins and after it ceases; disclaimer added that convergence is colocation not operation — does not constitute Bifurcal Synthesis or Zenonic saturation, and the inverse arc does not participate in Centropic Gravity (Jul 24 2026)
+- [x] Casing standardized: **Supra-centropic** everywhere (was mixed Supra-Centropic / Supra-centropic) (Jul 24 2026)
+
+## §21.3 Procession Chart — Deferred Corpus-Drift Corrections (pending)
+
+Ruled correct but scoped OUT of the glyph-chart task by author decision; these belong to the wider MP-corpus inverse-arc / Absolute-Dispersion pass, not the glyph edit. Until done, §21.3's untouched entropic rows retain older wording — a known temporary internal inconsistency (the Supra-centropic and Convergence rows use inverse-arc / colocation language; the entropic-collapse rows still say Khaon-as-destination):
+
+- [ ] Declivous Entropy / Terminal Collapse / Nekronic Collapse / Entropic Cycle — "entropic arc" → "inverse arc" where the structure is meant; "collapse toward / into Khaon" and "total dispersal into Khaon" reconciled with the collapse-into-Khaon ruling (terminal passage across the Nekronic event horizon → Absolute Dispersion; essence conserved to Aionic resolution); Entropic Cycle to end in terminal collapse / Absolute Dispersion rather than treating Khaon as a destination
+- [x] Nekron ruling affirmed (architect, Jul 24 2026): BOTH claims valid and complementary — (A) the Nekronic office **self-voids** when its function is exhausted, and (B) expressed identity and configuration are **ground away while essence remains** (better describes the L₀ colocation state, since entropic essence is past the fragmenting stage by then). B is a separate essence/expression correction, not a replacement of self-voiding. Ready to apply to the Nekronic Collapse row in the deferred §21.3 entropic-row pass
+- [ ] Whole-corpus note: the entropic-arc / Khaon-as-destination / poetic-imprecision drift is MP-corpus-wide and long; central work upgraded continually, older rough work left as-is per author practice
+
+---
+
 ## Held — Pending Install
 
 - [ ] **Pending Lockdown Addendum — Centropic Gravity and Zenonic Legibility** (saturation formula supersession · Origin terminology · Aionic stillness two base conditions). Home ruled: `conceptual-lockdown-protocol.md`. Held as a standalone pending file, not installed, per the staging ruling that the protocol's addendum sections carry only settled rulings. Install gates: (1) MPX final proofread; (2) quatrain locked; (3) revised Origin section incorporated; (4) propagation targets confirmed. The addendum's saturation section carries the five-function architecture (Motive Infinity as motion-capacity), which the earlier one-line saturation formula lacked
