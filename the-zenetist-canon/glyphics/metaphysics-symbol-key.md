@@ -157,14 +157,18 @@ what may be patterned, without ever becoming the Absolute Structure that underli
 | Centropic motion toward embodiment | **Declivous Centropy** | C↓→E | Harmonious motion into form |
 | Entropic motion into decoherent embodiment | **Acclivous Entropy** | E↑→E | Fragmentary motion into form |
 | Centropic return to Aion | **Final Return** | C↑→⚫ | Complete reintegration with ⚫ Aion |
-| Centropic saturation beyond Aion | **Supra-Centropic Saturation** | C↑→⚫→🕳️ | Terminal horizon-crossing phase of centropic motion; completion through ⚫ Aion into Zenonic saturation. Not the full cycle, but the supra-centropic fulfillment assumed after embodiment, return, and integration |
+| Centropic saturation beyond Aion | **Supra-centropic Saturation** | C↑→⚫ · ⧖⧗∴ · 🔺⤒ —⟒→ 🕳️ | Terminal saturation phase beyond centropic return. Return terminates at ⚫ Aion; saturation is the crossing beyond it. Bifurcal Synthesis gives the returned essence its Centropic Gravity; at the horizon of structure, Allowance admits Zenonic saturation. The centered dots indicate structural relation rather than a strictly temporal sequence, since final synthesis may develop throughout return and complete at the horizon. Not the full cycle, but the supra-centropic fulfillment assumed after embodiment, return, and integration |
 | Entropic exhaustion through Khaon to Aion | **Terminal Collapse** | E↓→♾→⚫ | Total dispersal into ♾ Khaon and resolution into ⚫ Aion |
 | Convergent reintegration through EOB | **Theonic Return** | C↑→🛤️→⚫ | The specific passage of centropic essences through the Theonic Office (L₅) toward ⚫ Aion; completion of the centropic arc for essences whose multiversal integration culminates in EOB resonance |
 | Terminal release through VOS | **Nekronic Collapse** | E↓→🕷️→♾→⚫ | The specific dissolution of the Nekronic Office (IL₅) once entropic motion is exhausted; fragmented remnants resolve through Absolute Dispersion into ⚫ Aion |
 | Complete process of centropic motion | **Centropic Cycle** | C↓→E→C↑→⚫ | Full centropic cycle; toward embodiment, embodied self, toward ⚫ Aion |
 | Complete process of entropic motion | **Entropic Cycle** | E↑→E→E↓→♾ | Full entropic cycle; toward embodiment, embodied self, toward ♾ Khaon |
-| Meta-process of centropic motion | **Supra-centropic Cycle** | C↓→E→C↑→⚫→🕳️ | Supra-centropic cycle from emanation to trans-emanation; centropic motion beyond process, culminating in Zenonic saturation |
-| Convergence of centropic and entropic arcs | **Bifurcal Convergence** | ⦿ → [C↓→E→C↑→⚫] ∩ [E↑→E→E↓→♾→⚫] → ⦿ | Both centropic and entropic arcs resolve into convergent stillness; structural convergence within Kaion |
+| Meta-process of centropic motion | **Supra-centropic Cycle** | C↓→E→C↑→⚫ —⟒→ 🕳️ | Complete centropic procession from emanation through embodiment and return to possible Zenonic saturation. This is an abbreviated macro-string; the detailed crossing mechanism is governed by the Supra-centropic Saturation row |
+| Convergence of centropic and inverse arcs | **Bifurcal Convergence** | ⦿ → [C↓→E→C↑→⚫] ∩ [E↑→E→E↓→♾→⚫] → ⦿ | The colocation of ⚫ Aion, Latent Khaon, and Dispersive Khaon — the still point before motion begins and after it ceases. Convergence is colocation, not operation: it does not itself constitute Bifurcal Synthesis or Zenonic saturation, and the inverse arc does not participate in Centropic Gravity |
+
+#### Note on the Allowance-Gated Crossing
+
+The connector **—⟒→** marks admission rather than propulsion or structural compulsion. Unlike a directed arrow, it indicates that ⟒ Allowance admits the fulfilled essence across the horizon of structure into 🕳️ Zenon without pushing it; the crossing is permitted where no sufficient condition prevents it, never forced.
 
 ---
 
