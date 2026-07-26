@@ -693,6 +693,12 @@ Ruled: capitalized **Origin** denotes ⚫ Aion; lowercase relational **origin** 
 
 - [x] Canonical **Non-fusion** (lowercase f) enforced: `the-reciprocity-gap.md`, `prose-formatting-reference.md`, and the lockdown's A15 heading (now *Numerical Register Non-fusion*); this ledger's Tier-addendum line corrected to match (Jul 24 2026)
 
+## Reality-Seeking and the Reflexive Harvest — Status: Applied (Jul 24 2026)
+
+- [x] New §1a *Origin-Facingness and Reality-Seeking* added to `centropic-gravity-and-zenonic-legibility.md`, immediately after §1 (Jul 24 2026). Distinguishes Origin-facingness (intrinsic orientation toward ⚫ Aion) from Reality-seeking (essence-rooted capacity to remain oriented toward the ultimate without treating any partial term as exhaustive); a pure Reality-seeking posture may prepare Bifurcal Synthesis
+- [x] Threefold reflexivity distinction established, consistent with the canonical Awareness Spectrum: **reflexive capacity** (latent, pre-L₃) → **reflexive articulation** (enacted at L₃ DS / DM) → **reflexive harvest** (integrated self-knowledge and synthesis-capacity carried by essence after the L₃ Soul / Mind mode completes). A returned essence is NOT reflexive consciousness standing at Theon or Aion — it carries the harvest of reflexivity; Theon remains pre-reflexive awareness, its saturation-capacity hypostatic and essential, not L₃-style inquiry (Jul 24 2026)
+- [x] Verified against `awareness-spectrum-and-its-inverse-arc.md` (L₅ pre-reflexive, L₄ pre-individuated, reflexive "I" first at L₃) and against the ledger's Tier 5 Band Occlusion boundary (access-language, not register-redefinition; may not assert hidden L₃ reflexivity at L₄/L₅). The section introduces no claim the corpus forbids and does not touch the open awareness-spectrum models (Jul 24 2026)
+
 ## Glyph Assignment — Bifurcal Synthesis and Centropic Gravity — Status: Applied (Jul 24 2026)
 
 Two new canonical glyphs assigned, both compounds built on established primitives so neither reads as a rootless new mark. Corpus-wide collision check run across both symbol keys (MP08 and FP11) before assignment; both compounds and the component ⤒ are otherwise unused.
@@ -702,7 +708,7 @@ Two new canonical glyphs assigned, both compounds built on established primitive
 - [x] Both definition cells follow the chart's Rule B — only mythic-name glyphs (⚫ Aion, ♾ Khaon, 🕳️ Zenon) appear inside definitions; parent concepts named in words; the assigned glyphs live only in the Symbol column. No terminal periods (Jul 24 2026)
 - [x] Twin `metaphysics-symbol-key.md` synced with the identical two rows; body-diff against MP08 from §21 onward confirmed zero differences (preamble divergence is by design) (Jul 24 2026)
 - [x] Section-closing glyph sequence added to `centropic-gravity-and-zenonic-legibility.md` before the seal: **⚫ ∴ ⧖⧗∴ 🔺⤒ ⟁ 🕳️** — Origin, synthesis, bifurcal synthesis, Centropic Gravity, Silent Apex (fulfilled coherence at the horizon), Zenon; opens on the return-root and closes on the saturation-ground (Jul 24 2026)
-- [ ] **Allowance glyph** — deferred to a dedicated session. Allowance is a named canonical principle with no glyph; assignment needs a fresh collision-and-semantics pass constrained by its non-compulsion nature (must not read as gate, key, granting hand, or ruler's mark). When assigned, it slots into the closer immediately before 🕳️
+- [x] **Allowance — ⟒** (ELEMENT OF OPENING UPWARDS) assigned Jul 24 2026; collision-checked across both keys, screened against the non-compulsion constraint (not gate, key, granting hand, ruler's mark, or directed vector); reads as lawful admission-into, upward-oriented, harmonizing with 🔺⤒ toward 🕳️. Added to §21.21 in MP08 and its twin; single primitive, not a compound (Allowance is not a species of another marked concept). Inserted into the MPX closer before 🕳️, which now reads in full: ⚫ ∴ ⧖⧗∴ 🔺⤒ ⟁ ⟒ 🕳️
 - [ ] FP11 / Field Physics twin (`field-physics-glyph-charts.md`) — recent significant FP11 edits are pending propagation to it; separate from this glyph assignment, flagged for a later pass. File not yet supplied
 
 ---
