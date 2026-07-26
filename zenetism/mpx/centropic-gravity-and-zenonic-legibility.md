@@ -82,6 +82,39 @@ Aion-facing orientation remains the first requisite because no essence turned aw
 
 ---
 
+## 1a. Origin-Facingness and Reality-Seeking
+
+Origin-facingness and Reality-seeking are closely related, but they are not identical.
+
+**Origin-facingness** names the intrinsic metaphysical orientation of centropic essence toward ⚫ Aion, integration, origin-fidelity, and lawful return.
+
+**Reality-seeking** names an essence-rooted capacity to remain oriented toward the most ultimate nature of what is, without treating any partial structure, isolated primitive, inherited frame, or determinate answer as exhaustive.
+
+This capacity is not created by reflexive consciousness. Its mode of articulation changes across the lattice. Prior to L₃ it may exist as intrinsic origin-fidelity, non-discursive discernment, coherent receptivity to what is, resistance to spurious closure, and latent synthesis-capacity.
+
+At L₃, where reflexive consciousness and individuated self-possession become operative, Reality-seeking may become explicitly reflexive: the being asks what is ultimately real, examines its own assumptions, distinguishes appearance from completion, refuses to enthrone one partial term as the whole, and seeks understanding without possession or fusion.
+
+Upon return, the essence does not remain an L₃ reflexive consciousness standing within Theon or Aion. The Soul / Mind mode of reflexivity has completed its function. What remains is the **reflexive harvest**: the integrated self-knowledge, identity-continuity, and synthesis-capacity gathered through reflexive individuation and preserved within essence. Theon remains pre-reflexive awareness; its saturation-capacity is hypostatic and essential rather than an act of L₃-style inquiry.
+
+Reality-seeking therefore has three distinguishable registers:
+
+* **essential capacity** — latent within centropic essence
+* **reflexive articulation** — enacted through L₃ consciousness
+* **integrated harvest** — carried by essence after the reflexive register has completed its work
+
+Reality-seeking does not reduce 🕳️ Zenon to "reality" as a discernible object. The word *reality* functions as the nearest available observer-side approximation for that which is so fundamental that even fundamentality remains inadequate.
+
+A pure Reality-seeking posture does not seek possession of the ultimate. It seeks without prematurely closing, preserves distinction without fusion, remains open to correction, and refuses to elevate Aion, Khaon, stillness, motion, being, non-being, or any other discernible term into the whole. For this reason, Reality-seeking may prepare Bifurcal Synthesis.
+
+> Origin-facingness directs the essence toward return.  
+> Reality-seeking preserves openness to what no partial term exhausts.  
+> Reflexive consciousness articulates that seeking at L₃.  
+> The reflexive harvest becomes essence-borne synthesis-capacity.  
+> Bifurcal Synthesis makes the horizon of structure legible.  
+> Allowance admits saturation.
+
+---
+
 ## 2. Aion Is the Origin, Not the Final Trans-Structural Horizon
 
 The language of "Origin-facing saturation" may become imprecise if Origin and trans-structural fulfillment are treated as one destination.
@@ -890,7 +923,7 @@ And by Allowance,
 
 it saturates.
 
-⚫ ∴ ⧖⧗∴ 🔺⤒ ⟁ 🕳️
+⚫ ∴ ⧖⧗∴ 🔺⤒ ⟁ ⟒ 🕳️
 
 ---
 
