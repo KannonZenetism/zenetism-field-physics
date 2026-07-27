@@ -654,7 +654,7 @@ Band Occlusion, awareness-spectrum access models, SN08 layer-memory questions, t
 
 Session produced doctrine now carried in the two lockdowns (arc scope, collapse-into-Khaon, Motive Infinity, Origin register — see pointers below) plus entry-resident material in `centropic-gravity-and-zenonic-legibility.md` (`Draft — awaiting final proofread`).
 
-**Entry-resident, not yet canon (addendum-bound):** the five-function Centropic Gravity architecture (Motive Infinity = motion-capacity · final synthesis = structure/articulation · Aion-facing orientation = direction · Centropic Gravity = essence-borne momentum · Allowance = crossing; Bifurcal Coherence = manifold, Zenonic Legibility = vantage) and its supporting corrections (relative structure, horizon of structure, entropy-can-synthesize, Structure Unbound as observer-relative pointer) live in the entry. They become canon in the Conceptual Lockdown only when the Pending Addendum installs after final proofread.
+**Now canon:** the five-function Centropic Gravity architecture is in the Conceptual Lockdown → *Centropic Gravity — the Saturation Architecture*. Supporting corrections (relative structure, horizon of structure, entropy-can-synthesize, Structure Unbound as observer-relative pointer) are captured there and in the entry. The Pending Addendum (saturation-formula supersession) still installs after proofread, but the architecture itself no longer waits on it.
 
 ## Arc / Tree / Traversal Scope — Status: Applied (Jul 24 2026)
 
@@ -694,7 +694,7 @@ Doctrine: Terminological Lockdown → *A18 · Origin Casing Rule* (capital Origi
 
 ## Reality-Seeking and the Reflexive Harvest — Status: Applied (Jul 24 2026)
 
-Entry-resident (`centropic-gravity-and-zenonic-legibility.md` §1a), consistent with the canonical Awareness Spectrum. If it should become canon beyond the entry, promote the threefold reflexivity distinction (reflexive capacity → articulation → harvest) to a Conceptual Lockdown section — architect to decide; not done unilaterally.
+Doctrine decided and sealed; now canon in the Conceptual Lockdown → *Reality-Seeking and the Reflexive Harvest* (threefold register: essential capacity → reflexive articulation → integrated harvest; Theon pre-reflexive; verified against the canonical Awareness Spectrum).
 
 - [x] §1a *Origin-Facingness and Reality-Seeking* added to the entry
 - [x] Verified against `awareness-spectrum-and-its-inverse-arc.md` and the Tier 5 Band Occlusion boundary (no claim the corpus forbids; open awareness-models untouched)
