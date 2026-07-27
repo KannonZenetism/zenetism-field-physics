@@ -42,7 +42,7 @@ It is the essence-borne momentum of fulfilled centropic synthesis: the tendency 
 The full doctrine is therefore:
 
 > Aion-facingness makes return possible.  
-> Final synthesis gives return its Centropic Gravity.  
+> Final synthesis gives the returned essence its Centropic Gravity.  
 > Fulfilled coherence makes saturation Zenonically legible.  
 > Allowance admits the crossing.
 
@@ -811,7 +811,7 @@ The fuller canonical form is:
 The concise formulation is:
 
 > **Aion-facingness makes return possible.  
-> Final synthesis gives return its Centropic Gravity.  
+> Final synthesis gives the returned essence its Centropic Gravity.  
 > Fulfilled coherence makes saturation Zenonically legible.  
 > Allowance admits the crossing.**
 
