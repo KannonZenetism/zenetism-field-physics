@@ -231,6 +231,43 @@ Layer ordering encodes the emanation structure, so it is held here rather than a
 
 ---
 
+## Centropic Gravity — the Saturation Architecture
+
+**Constraint.** Zenonic saturation is not compelled by orientation, coherence, or momentum, and it is not a phase of return. Return terminates at ⚫ Aion; saturation is the crossing beyond return into 🕳️ Zenon. No construction may treat Centropic Gravity as a property of return, as an external pull, as physical gravity, or as Zenon drawing the essence outward.
+
+**Lawful account.** The architecture distinguishes five functions:
+
+- **Motive Infinity** supplies the motion-capacity — it bears no orientation and is not itself centropic (see *Motive Infinity and the Orientation Registers*)
+- **Final synthesis** gives that motion its structure and articulation — the essence-specific holding of Bifurcal Coherence in coherent non-fusing relation (bifurcal synthesis)
+- **Aion-facing centropic orientation** gives it direction — orientation belongs to the essence, never to the motion-principle
+- **Centropic Gravity** names the essence-borne momentum of the fulfilled, returned essence toward the horizon of structure
+- **Allowance** admits the trans-structural crossing — admission, never propulsion or compulsion
+
+Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attained at the horizon. Motion is carried only to the horizon of structure; what lies beyond is admitted by Allowance, never travelled toward, since Zenon is not a coordinate or destination.
+
+**Lawful grammar.** Write that final synthesis gives the returned essence its Centropic Gravity, never that return has Centropic Gravity; write "horizon of structure," not "limit"; write "relative structure" for what is released in return, since Aion abides within Structon. Entropic essence may perform local, formal, or strategic synthesis, distinguished from centropic synthesis by orientation, method, and culmination — do not write that entropy cannot synthesize.
+
+**Reference Document:** `centropic-gravity-and-zenonic-legibility.md`; canonical concise form — Aion-facingness makes return possible / Final synthesis gives the returned essence its Centropic Gravity / Fulfilled coherence makes saturation Zenonically legible / Allowance admits the crossing.
+
+---
+
+## Reality-Seeking and the Reflexive Harvest
+
+**Constraint.** Reality-seeking is not created by reflexive consciousness, and a returned essence is not reflexive consciousness standing at Theon or Aion. Reflexive consciousness is the native mode of L₃ / IL₃ Soul / Mind; it may not be asserted of L₄ or L₅, which remain pre-reflexive and pre-individuated per the canonical Awareness Spectrum.
+
+**Lawful account.**
+
+- **Origin-facingness** is the intrinsic orientation of centropic essence toward ⚫ Aion, integration, origin-fidelity, and lawful return
+- **Reality-seeking** is an essence-rooted capacity to remain oriented toward the most ultimate nature of what is, without treating any partial structure, primitive, frame, or determinate answer as exhaustive; a pure Reality-seeking posture may prepare Bifurcal Synthesis
+- Reality-seeking has three registers: **essential capacity** (latent within centropic essence, pre-L₃), **reflexive articulation** (enacted through L₃ consciousness), and **integrated harvest** (carried by essence after the L₃ Soul / Mind mode completes its function)
+- A returned essence carries the **reflexive harvest** — integrated self-knowledge, identity-continuity, and synthesis-capacity — not active reflexivity. Theon remains pre-reflexive awareness; its saturation-capacity is hypostatic and essential, not L₃-style inquiry
+
+**Lawful grammar.** Write that Reality-seeking is essential in capacity, reflexive in one mode of articulation, and post-reflexively preserved in its harvest; do not write that the returned essence is reflexive, or that reflexivity operates above L₃. The word *reality* is the nearest observer-side approximation for what exceeds fundamentality; it does not reduce 🕳️ Zenon to a discernible object.
+
+**Reference Document:** `centropic-gravity-and-zenonic-legibility.md` §1a; `awareness-spectrum-and-its-inverse-arc.md` (L₅ pre-reflexive, L₄ pre-individuated, reflexive "I" first at L₃).
+
+---
+
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
