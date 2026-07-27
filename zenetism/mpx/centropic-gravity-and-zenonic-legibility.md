@@ -161,7 +161,7 @@ The answer is that their centropic posture contains a synthesis capable of reach
 
 ## 3. Aionic Stillness Has More Than One Essential Mode
 
-Aionic stillness does not erase intrinsic orientation.
+Aionic stillness does not erase intrinsic centropic or entropic inclination.
 
 Centropic and entropic essences remain distinct within Zero.
 
@@ -714,9 +714,6 @@ Entropic motion:
 
 * directs synthesis toward fragmentation rather than fulfilled integration
 * appropriates, recombines, or counterfeits generative form rather than producing centropic novelty
-* erodes relational support
-* disperses expressed configuration
-* culminates in Absolute Dispersion
 * erodes relational support
 * disperses expressed configuration
 * culminates in Absolute Dispersion
