@@ -68,7 +68,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Lexical cross-reference.** The lexical enforcement of this constraint lives in the Terminological Lockdown Protocol's Aion / Khaon Polarity Restriction and its Arc / Tree / Traversal Scope section.
 
-**Pending (architect deliberation).** Whether the ⧖⧗ definition's "polarity-distinct" should become "bifurcally distinct" remains open.
+**Architect ruling — Jul 27 2026.** Wherever the relation between ⚫ Aion and ♾ Khaon themselves is described, the canonical construction is **bifurcally distinct**, not "polarity-distinct." The root-registers stand in a two-ness of function without polarity, mirror, inversion, counterpart-relation, or an axis between them. Enacted polarity begins at L₅ / IL₅ with Theon / Nekron and continues through the subsequent hypostatic pairs. Descriptions of those later centropic / entropic motions as polarity-distinct remain lawful. Supra-L₀ is neither polar nor bifurcally distinct; Zenon stands outside the bifurcal architecture.
 
 ---
 
