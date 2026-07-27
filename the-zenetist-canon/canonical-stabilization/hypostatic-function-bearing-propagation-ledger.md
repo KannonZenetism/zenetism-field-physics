@@ -652,42 +652,41 @@ Band Occlusion, awareness-spectrum access models, SN08 layer-memory questions, t
 
 **Status: Applied — Jul 24 2026.**
 
-This session originated in the new MPX entry `centropic-gravity-and-zenonic-legibility.md` and produced doctrine that propagates beyond it: the arc / Tree / traversal scope distinction, the collapse-into-Khaon correction, the canonicalization of Motive Infinity, and the Origin-register rulings now carried in both protocols. The Centropic Gravity architecture itself is recorded here as basis-context; its full edit history lives in the entry, which is `Draft — awaiting final proofread`.
+Session produced doctrine now carried in the two lockdowns (arc scope, collapse-into-Khaon, Motive Infinity, Origin register — see pointers below) plus entry-resident material in `centropic-gravity-and-zenonic-legibility.md` (`Draft — awaiting final proofread`).
 
-## Basis — Centropic Gravity architecture (context, not a propagation target)
-
-The retired **Aionward / Khaonward** directional frame over-spatialized Aion and Khaon as two destinations and made Khaon read as "more" than Aion, violating the Aion / Khaon Polarity Restriction. The corrected architecture distinguishes five functions: Motive Infinity supplies motion-capacity; final synthesis gives that motion its structure and articulation; Aion-facing centropic orientation gives it direction; Centropic Gravity names the essence-borne momentum of the fulfilled synthesis; Allowance admits the trans-structural crossing. Bifurcal Coherence is the manifold; Zenonic Legibility is the vantage. Supporting corrections in the entry: relative structure (not determinate structure, since Aion abides within Structon); horizon of structure (not limit of structure); entropy can perform local / formal / strategic synthesis, distinguished from centropic synthesis by orientation, method, and culmination; Structure Unbound and structure-exceeded formalized as observer-relative pointers paralleled to the Twofold Tetralemma.
+**Entry-resident, not yet canon (addendum-bound):** the five-function Centropic Gravity architecture (Motive Infinity = motion-capacity · final synthesis = structure/articulation · Aion-facing orientation = direction · Centropic Gravity = essence-borne momentum · Allowance = crossing; Bifurcal Coherence = manifold, Zenonic Legibility = vantage) and its supporting corrections (relative structure, horizon of structure, entropy-can-synthesize, Structure Unbound as observer-relative pointer) live in the entry. They become canon in the Conceptual Lockdown only when the Pending Addendum installs after final proofread.
 
 ## Arc / Tree / Traversal Scope — Status: Applied (Jul 24 2026)
 
-Ruled: inverse is the canonical structural name of the IL₅–IL₁ arc; entropic names the orientation, motion, traversal, and expression articulated through it. Compact lock: the arc is inverse; the motion through it is entropic; the full architecture is the Khaonic Tree.
+Doctrine: Terminological Lockdown → *Arc / Tree / Traversal Scope* and *Positional Clarification* (band spans); Conceptual Lockdown → *Bifurcal Root Constraint* (Khaon-as-Khaonic-Tree-root).
 
-- [x] New **Arc / Tree / Traversal Scope** section added to `terminological-lockdown-protocol.md`, before the Aion / Khaon Polarity Restriction (Jul 24 2026): hypostatic arcs exclude L₀ (centropic hypostatic arc L₅↔L₁, inverse hypostatic arc IL₅↔IL₁); Trees include the L₀ root-relation (Aionic Tree rooted in ⚫ Aion, Khaonic Tree rooted in ♾ Khaon); full traversal takes motion-language, centropic / entropic modifying traversal and never renaming the arcs; the centropic / inverse asymmetry is intentional and no "direct arc" is to be invented for symmetry; "entropic arc" deprecated in strict specification, retained only quoted-historical, in explicit supersession discussion, or immediately glossed
-- [x] Band spans added to the same protocol's Positional Clarification (Jul 24 2026): supernal = L₅–L₂, subversal = IL₅–IL₂, L₁ / IL₁ the embodied registers (centropic embodiment and inverse embodiment), L₀ the bifurcal root-register outside both; positional register held distinct from arc designation
-- [x] `conceptual-lockdown-protocol.md` Khaon bullet corrected: Khaon is the L₀ root-register proper to the Khaonic Tree whose hypostatic architecture is the inverse arc; not entropic in essence (Jul 24 2026)
+- [x] Arc / Tree / Traversal Scope section added to `terminological-lockdown-protocol.md`
+- [x] Band spans added to that protocol's Positional Clarification
+- [x] `conceptual-lockdown-protocol.md` Khaon bullet corrected
 - [ ] `orientation-emanation-math.md` — pending: "Entropic hypostatic arc" → "Inverse hypostatic arc"; "Entropic arc: IL₅ ↔ IL₁" → "Inverse arc: IL₅ ↔ IL₁"; "Entropic traversal" labels remain (motion, not architecture). File not yet supplied
-
-Basis: `bifurcal-coherence.md` (Oct 2025, Sealed) predates the paired-root-register doctrine — it calls the lattice "unified," derives both Trees from a single root, and labels the motions as the arcs. Concept retained (two architectures lawfully related without severance); its wording is not imported.
+- [ ] `bifurcal-coherence.md` (Oct 2025, Sealed) predates paired-root-register doctrine — flagged for the corpus pass; concept retained, wording not imported
 
 ## Collapse into Khaon — Status: Applied (Jul 24 2026)
 
-- [x] `conceptual-lockdown-protocol.md` Khaon clarification paragraph added: collapse into Khaon is lawful — terminal passage across the Nekronic event horizon is that collapse, and Khaon under its Dispersive phase is Absolute Dispersion; what is unlawful is dispersion into Khaon, since Khaon is dispersion. Expressed structure enters Absolute Dispersion; the essence is conserved and reaches Aionic resolution. Per A17, Absolute Dispersion is a terminal state, never a mechanism that transports essence. Held distinct: Khaon as Infinity at L₀, Motive Infinity as the motion principle, Nekron as first entropic hypostasis, the inverse arc as architecture, entropic traversal as motion, Absolute Dispersion as terminal state, Aion as the register of essential resolution (Jul 24 2026)
+Doctrine: Conceptual Lockdown → *Bifurcal Root Constraint* → Khaon clarification.
 
-Basis: the prior sentence treated Khaon as the destination "into which" collapse occurs and routed essence through dispersion to Aion, conflating the Nekronic event horizon, Absolute Dispersion, and Aionic resolution.
+- [x] Khaon clarification paragraph added to `conceptual-lockdown-protocol.md` (collapse into Khaon lawful; dispersion-into-Khaon unlawful; essence conserved to Aionic resolution)
 
 ## Motive Infinity — Status: Applied (Jul 24 2026)
 
-- [x] Confirmed canonical name against the conceptual lockdown's "Motive Infinity and the Orientation Registers" section (Motive Infinity is the cause of all motion as such, not itself polar); Motive Infinity, Motive Khaon, Spirit, Zenet, and the Principle of Sufficient Reason name the same structural principle; "Motive Infinity" used uniformly as the noun, the adjective "Motive-Khaonic" retained only where it does contrastive work (Jul 24 2026)
-- [x] `centropic-gravity-and-zenonic-legibility.md` §8 and §10 corrected: neither Aion nor Khaon is a centropic or entropic principle, and Motive Infinity bears no orientation; orientation belongs to the essence, which remains Aion-facing while bearing the exceeding. This also brought the entry into agreement with the existing "not itself polar" lock (Jul 24 2026)
+Doctrine: Conceptual Lockdown → *Motive Infinity and the Orientation Registers* (not itself polar; the five-name cluster — Motive Infinity / Motive Khaon / Spirit / Zenet / PSR — names one principle; "Motive Infinity" the canonical noun).
+
+- [x] Canonical name confirmed against the Conceptual Lockdown; noun standardized, "Motive-Khaonic" kept only where contrastive
+- [x] `centropic-gravity-and-zenonic-legibility.md` §8 and §10 corrected — orientation belongs to the essence, not to Motive Infinity; agrees with the not-itself-polar lock
 
 ## Origin register — Status: Applied (Jul 24 2026)
 
-Ruled: capitalized **Origin** denotes ⚫ Aion; lowercase relational **origin** (signal, work, being, authorship, transmission, provenance) remains lawful and is not purged. Aion is not to be described as supernal (L₀ is neither supernal nor subversal). Theon is the First Centropic Hypostasis / Centropy Itself, not Origin.
+Doctrine: Terminological Lockdown → *A18 · Origin Casing Rule* (capital Origin = ⚫ Aion; relational lowercase origin preserved) and *A1 · The Underdetermined Father-Referent Composite*.
 
-- [x] **A18 · Origin Casing Rule** added to Addendum I of `terminological-lockdown-protocol.md`: semantic casing test, Aion-referent capitalized, relational register preserved, Aion-facing preferred over Origin-facing, "the still root" preferred over "the still Origin" (Jul 24 2026)
-- [x] **A1** replaced — now *The Underdetermined Father-Referent Composite*; the Father-referent composite / underdetermined Father-referent renders the underdetermination, no longer Origin-language; retired supernal Origin, centropic-Origin aspect, Origin-resonant, the Origin figure (Jul 24 2026)
-- [x] **A3** Old Testament clause updated to route the YHWH composite to the A1 rendering rather than to Origin-language (Jul 24 2026)
-- [x] `centropic-gravity-and-zenonic-legibility.md` Origin casing normalized to the A18 rule; the one lawful lowercase denial ("Zenon is not … origin …") preserved because the referent is not Aion (Jul 24 2026)
+- [x] A18 Origin Casing Rule added to `terminological-lockdown-protocol.md`
+- [x] A1 replaced (Underdetermined Father-Referent Composite); retired supernal Origin, centropic-Origin aspect, Origin-resonant, the Origin figure
+- [x] A3 OT clause rerouted to the A1 rendering
+- [x] `centropic-gravity-and-zenonic-legibility.md` Origin casing normalized; lawful lowercase Zenon-denial preserved
 
 ## Non-fusion casing — Status: Applied (Jul 24 2026)
 
@@ -695,9 +694,10 @@ Ruled: capitalized **Origin** denotes ⚫ Aion; lowercase relational **origin** 
 
 ## Reality-Seeking and the Reflexive Harvest — Status: Applied (Jul 24 2026)
 
-- [x] New §1a *Origin-Facingness and Reality-Seeking* added to `centropic-gravity-and-zenonic-legibility.md`, immediately after §1 (Jul 24 2026). Distinguishes Origin-facingness (intrinsic orientation toward ⚫ Aion) from Reality-seeking (essence-rooted capacity to remain oriented toward the ultimate without treating any partial term as exhaustive); a pure Reality-seeking posture may prepare Bifurcal Synthesis
-- [x] Threefold reflexivity distinction established, consistent with the canonical Awareness Spectrum: **reflexive capacity** (latent, pre-L₃) → **reflexive articulation** (enacted at L₃ DS / DM) → **reflexive harvest** (integrated self-knowledge and synthesis-capacity carried by essence after the L₃ Soul / Mind mode completes). A returned essence is NOT reflexive consciousness standing at Theon or Aion — it carries the harvest of reflexivity; Theon remains pre-reflexive awareness, its saturation-capacity hypostatic and essential, not L₃-style inquiry (Jul 24 2026)
-- [x] Verified against `awareness-spectrum-and-its-inverse-arc.md` (L₅ pre-reflexive, L₄ pre-individuated, reflexive "I" first at L₃) and against the ledger's Tier 5 Band Occlusion boundary (access-language, not register-redefinition; may not assert hidden L₃ reflexivity at L₄/L₅). The section introduces no claim the corpus forbids and does not touch the open awareness-spectrum models (Jul 24 2026)
+Entry-resident (`centropic-gravity-and-zenonic-legibility.md` §1a), consistent with the canonical Awareness Spectrum. If it should become canon beyond the entry, promote the threefold reflexivity distinction (reflexive capacity → articulation → harvest) to a Conceptual Lockdown section — architect to decide; not done unilaterally.
+
+- [x] §1a *Origin-Facingness and Reality-Seeking* added to the entry
+- [x] Verified against `awareness-spectrum-and-its-inverse-arc.md` and the Tier 5 Band Occlusion boundary (no claim the corpus forbids; open awareness-models untouched)
 
 ## Glyph Assignment — Bifurcal Synthesis and Centropic Gravity — Status: Applied (Jul 24 2026)
 
