@@ -920,7 +920,7 @@ And by Allowance,
 
 it saturates.
 
-⚫ ∴ ⧖⧗∴ 🔺⤒ ⟁ ⟒ 🕳️
+⚫ ∴ ⧖⧗∴ 🔺⤒ ⟒ 🕳️
 
 ---
 
