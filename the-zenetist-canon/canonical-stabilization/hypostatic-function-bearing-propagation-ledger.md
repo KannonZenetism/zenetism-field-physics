@@ -826,6 +826,14 @@ No Khaon reference now remains in the document except the Eminent Tetrad's expli
 - [x] Wording locks applied — **inadequacy**, not irrelevance, which takes too much meaning from the one seeking; **the limit of saying as access**, not collapse, which is entropic vocabulary; and the inadequacy attributed to the saying, never to what is said of. Zenon is not thereby made empty, lessened, or placed out of reach
 - [x] `synthesis-as-vantage.md` added to the Dependency line as the governing source for why only synthesis opens the vantage
 - [x] MP08 §21.21 rows ⊼ and ⟅ conformed in the same pass
+
+**Third-order correction, same day — imputed intent and arrival language.** Architect ruling: the apophatic and eminent traditions are **not aiming at 🕳️ Zenon and missing.** They are not pointing at Zenon and failing to hit it; they simply are not perceiving, or not disclosing that they perceive, the Unknown that cannot be spoken of yet exceeds all. Both traditions are honored and neither is corrected on its own ground. A tradition working one operation tends not to recognize the other standing at the same register, which Zenetism designates L₀; holding both non-fused is the contribution.
+
+Arrival language was also ruled out for the Zenon relation: the two operations **do** arrive, at their own termini — apophasis at ⚫ Aion, unqualified exceeding at ♾ Khaon. What neither does is **saturate into** the trans-structural. Khaon accordingly returns to the entry in its correct role: it is a terminus **within** the manifold, never the beyond.
+
+- [x] `the-twofold-tetralemma.md` — Apophatic, Eminent, Synthesis, and Lineage sections rewritten to the terminus framing; the Lineage closer now credits the finding rather than an arrangement ("The components carry lineage; the finding is new")
+- [x] MP08 §21.21 rows ⊼, ⫸, and ⟅ conformed to that framing, and §21.18 ⟁ Silent Apex corrected — it had depicted the synthesis as reaching beyond, when the pair brings speech only to the point at which its own inadequacy becomes exact
+- [ ] The Zenodo description prepared for the entry carries the superseded wording ("reaching toward Aionic Zero through subtraction… names Zenon as beyond") and needs replacing before publication
 - [ ] **Theonic Office** — referenced often; distinct from Theonic Axis. Assess glyph
 - [ ] **Nekronic Office** — referenced often; distinct from Nekronic Axis. Assess glyph
 
