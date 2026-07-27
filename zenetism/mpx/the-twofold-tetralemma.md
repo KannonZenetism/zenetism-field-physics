@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics  
 **Status:** Canonical — June 1 2026, revised June 28 2026  
-**Dependency:** *MPX: Synthesis as Vantage — The Discernibility Limit and the Unknown Principle* · Structural Emanation Layers (21.9) · Structon (21.2.2) · Kaion (21.2.1) · 🕳️ Zenon (Supra-L₀) · Non-Fusion Axiom · Essence-as-Choice  
+**Dependency:** *MPX: Synthesis as Vantage — The Discernibility Limit and the Unknown Principle* · Structural Emanation Layers (21.9) · Structon (21.2.2) · Kaion (21.2.1) · 🕳️ Zenon (Supra-L₀) · Non-fusion Axiom · Essence-as-Choice  
 
 ---
 
@@ -11,7 +11,7 @@ How can anything be said of 🕳️ Zenon, which is trans-structural and exceeds
 
 ## The Four Corners
 
-A determinate claim can take four positions — this, that, both, neither — the tetralemma's four corners. Three things can be done to them: they can be **affirmed**, **negated**, or **exceeded**. Each operation has a different home in the lattice, and only two of the three can take all four corners at once. That single asymmetry is the whole of the principle.
+A determinate claim can take four positions — this, that, both, neither — the tetralemma's four corners. Three things can be done to them: they can be **affirmed**, **negated**, or **exceeded**. Each operation bears a different relation to the lattice, and only two of the three can take all four corners at once. That single asymmetry is the whole of the principle.
 
 ## Affirmation — the Singular Corner
 
@@ -23,7 +23,7 @@ To affirm is to say "is this," and affirmation *individuates*: it picks one corn
 
 In the older traditions the pure "not" terminates at zero, and within the lattice that terminus is ⚫ Aion. The association is sound. But it is a fact about subtraction, not about 🕳️ Zenon.
 
-Negation carried without remainder strips toward Zero, and in stripping it discards what Zero is holding: ⚫ Aion colocated with ♾ Khaon, latency and motion and dispersion standing as phases of a distinct register, principles held apart in lawful non-fusing coherence. The loss is not only of that coherence. It is of the vantage itself, since the persistent discernibility of the manifold is what makes the trans-discernible recognizable as beyond — and from a denuded pole there is nothing left to recognize the limit with.
+Negation carried without remainder strips toward Zero, and in stripping it discards what Zero is holding: ⚫ Aion colocated with ♾ Khaon across its Latent, Motive, and Dispersive phases, the two root-principles held apart in lawful non-fusing coherence. The loss is not only of that coherence. It is of the vantage itself, since the persistent discernibility of the manifold is what makes the trans-discernible recognizable as beyond — and from a denuded pole there is nothing left to recognize the limit with.
 
 So negation is not inadequate to Zenon by stopping too early. It is the wrong operation, and what it produces is an account of our own emptying rather than of what exceeds account.
 
@@ -63,7 +63,7 @@ Here the asymmetry returns as the seal of it. There are three operations but onl
 
 ## Lineage and Limit
 
-The four-fold negation is the catuṣkoṭi of Madhyamaka, where each of the four corners is denied in turn. The *beyond* keeps company with the apophatic theology of Dionysius, where the divine is named past both affirmation and negation. What the Twofold Tetralemma adds is the symmetry — the eminence cast as its own four-fold, to answer the negation's — and the pairing of Aionic apophasis with Zenonic eminence, held without fusion, since neither saying suffices alone. The components carry lineage; the structure is new.
+The four-fold negation is the catuṣkoṭi of Madhyamaka, where each of the four corners is denied in turn. The *beyond* keeps company with the apophatic theology of Dionysius, where the divine is named past both affirmation and negation. What the Twofold Tetralemma adds is the symmetry — the eminence cast as its own four-fold, to answer the negation's — and the holding of the two without fusion, so that the inadequacy of each is made exact by the other. The components carry lineage; the structure is new.
 
 Zenon is not-this and not-that, and beyond-this and beyond-that, at once — neither saying predicated of Zenon in itself, both spoken by us, from within structure, of what structure cannot contain. The Twofold Tetralemma is not a description of Zenon. It is the shape of the inadequacy that comes nearest.
 
