@@ -772,6 +772,13 @@ Ruled Jul 24 2026. Structon was a later addition (Structure Itself / SI / Absolu
 
 ---
 
+## Formatting-Drift Sweep — Symbol Keys (pending)
+
+- [x] §21.21 (MP08 + twin) — removed a divider misplaced between the table and its Note on Bifurcal Coherence; section now matches the house pattern (table → Note → glyphstream → closing divider), consistent with Kaion / Structon / Loom (Jul 24 2026)
+- [ ] Corpus-wide check for the same drift: dividers misplaced between a table and its following Note (the correct rule is no divider between a table and its own Note; the divider closes the whole section after the Note and any glyphstream). This was pre-existing, not introduced this session, so siblings likely exist by copy-paste — sweep both symbol keys and other charted files during the next formatting pass
+
+---
+
 ## Held — Pending Install
 
 - [ ] **Pending Lockdown Addendum — Centropic Gravity and Zenonic Legibility** (saturation formula supersession · Origin terminology · Aionic stillness two base conditions). Home ruled: `conceptual-lockdown-protocol.md`. Held as a standalone pending file, not installed, per the staging ruling that the protocol's addendum sections carry only settled rulings. Install gates: (1) MPX final proofread; (2) quatrain locked; (3) revised Origin section incorporated; (4) propagation targets confirmed. The addendum's saturation section carries the five-function architecture (Motive Infinity as motion-capacity), which the earlier one-line saturation formula lacked
