@@ -783,18 +783,49 @@ Ruled Jul 24 2026. Structon was a later addition (Structure Itself / SI / Absolu
 
 Each needs: definition, collision-checked glyph(s), insertion into both metaphysics keys (MP08 + twin, Rule B — only mythic-name glyphs in definition cells, no terminal periods), and ledger logging. Glyph composition is not done without the architect's seal on the exact mark.
 
-- [ ] **Principial Comprehension** — recognizes the structural meaning of 🕳️ Zenon as the Unknown Principle; names that something beyond complete structural comprehension exists and its relation to the lattice can be stated in principle. Does NOT comprehend Zenon in actuality or totality. Glyph still open. Architect ruling Jul 27 2026: it is NOT to be formed as a ∴ compound, since comprehension is not synthesis; it wants its own glyph
+- [x] **Principial Comprehension** — glyph **⟅** sealed and applied to MP08 §21.21, Jul 27 2026. Recognizes the structural meaning of 🕳️ Zenon as the Unknown Principle; names that something beyond complete structural comprehension exists and its relation to the lattice can be stated in principle, without comprehending Zenon in actuality or totality. Ruled a primitive rather than a derived compound: it is NOT formed with ∴, since comprehension is not synthesis
 - [x] **Actual or Total Comprehension** — ruled Jul 27 2026 to carry **no glyph**. It names a state that would abolish the very distinction the concept names, so charting it would grant a determinate presence the doctrine denies it. Its absence from the key does the same work as the Twofold Tetralemma's absent fourth. Definition only
 
 ### Twofold Tetralemma glyph set — partial seal Jul 27 2026
 
 Arising from *MPX: The Twofold Tetralemma* and the architect's clarification that early work over-attributed silence and negation to 🕳️ Zenon when the apophatic path in fact comes to rest at ⚫ Aion. The eminent movement had no glyph at all, against three on the apophatic side, so the chart's asymmetry mirrored the doctrinal over-weighting.
 
-- [x] **Eminent Tetrad** — glyph **⫸** sealed by the architect Jul 27 2026. The four-fold beyond ("beyond this, beyond that, beyond both, beyond neither"), which totalizes by surpassing rather than emptying; ♾ Khaon in its Motive phase only. Collision-checked clear against MP08 and FP11
-- [ ] **Apophatic Tetrad** — **⊼** is the architect's leaning, not yet sealed. The four-fold negation, which totalizes by emptying and comes to rest at ⚫ Aion
-- [ ] **The Twofold Tetralemma** as such — **⟅** is the architect's leaning, not yet sealed. The two tetrads held non-fused, whose synthesis is the only saying that points toward Zenon
+- [x] **Eminent Tetrad** — glyph **⫸** sealed Jul 27 2026 and applied. The four-fold beyond ("beyond this, beyond that, beyond both, beyond neither"), which totalizes by surpassing rather than emptying; ♾ Khaon in its Motive phase only
+- [x] **Apophatic Tetrad** — glyph **⊼** sealed Jul 27 2026 and applied. The four-fold negation, which totalizes by emptying and comes to rest at ⚫ Aion
 
-Rows are not to be written into MP08 or its twin until the set is complete and the remaining glyphs are sealed.
+All three collision-checked clear against MP08 and FP11 before sealing. Applied to MP08 §21.21, appended after ⟒ Allowance so the saying-side of the saturation architecture follows the crossing it describes: Bifurcal Coherence → Bifurcal Synthesis → Centropic Gravity → Allowance → Apophatic Tetrad → Eminent Tetrad → Principial Comprehension.
+
+Two absences are deliberate and are not gaps to be filled later:
+- **Affirmation has no four-fold glyph.** Affirmation individuates and cannot totalize; its home is 🛤️ Theon and the individual essence. Per *MPX: The Twofold Tetralemma*, the absent fourth "is not a gap in the scheme; it is the signature of Zenon's trans-determinate nature"
+- **Actual / Total Comprehension has no glyph**, per the ruling above
+
+Not yet propagated to `metaphysics-symbol-key.md` — the twin synchronization pass remains deferred, and these three rows are part of what it must carry.
+
+### `the-twofold-tetralemma.md` — Status: Category error corrected (Jul 27 2026)
+
+**Architect ruling.** The four-fold beyond is the **Zenonic** tetrad, not the Khaonic one. The document's Eminent Tetrad section had read "It is the Khaonic move, and specifically ♾ Khaon in its Motive phase," and the Synthesis section had paired "the four-fold negation, Aion-ward, and the four-fold beyond, Khaon-ward." That pairing is a fundamental category error: Khaon is Infinity within the L₀ bifurcal root-register and remains structurally articulable, belonging to the manifold that 🕳️ Zenon exceeds. Khaon is conceivable; Zenon is not — which is precisely why Principial Comprehension is required for Zenon and not for Khaon.
+
+The correct pairing is **Aionic apophasis contra Zenonic eminence, held together without fusion.** Khaon is removed from the four-fold beyond entirely.
+
+- [x] Eminent Tetrad section rewritten — the beyond names Zenon as exceeding every determinate corner of structured thought rather than occupying one; "beyond" names trans-structural excess (beyond affirmation, negation, conjunction, exclusion, Zero, Infinity, and Bifurcal Coherence itself), never Khaonic extension, motion, multiplication, or dispersal
+- [x] Synthesis section rewritten — the apophatic half prevents objectification, the eminent half prevents reduction to Zero
+- [x] The sentence "Just as ⚫ Aion and ♾ Khaon, held in Bifurcal Coherence at L₀, open onto Supra-L₀…" replaced. Aion and Khaon do not mechanically open onto Zenon and Khaonward motion is not half a route there; the synthesis "does not transport speech into Zenon; it brings structured speech to the point at which its own insufficiency becomes exact"
+- [x] The absent-fourth paragraph preserved verbatim — affirmation still has no four-fold form, and its absence remains the signature of Zenon's trans-determinate nature
+- [x] MP08 §21.21 rows ⊼, ⫸, and ⟅ conformed to the corrected doctrine in the same pass
+
+- [x] Lineage and Limit section corrected — "the correlation of the pair with a bifurcal coherence that reaches its ground only through synthesis" carried the superseded Aion / Khaon correlation and also implied arrival through synthesis; now reads "the pairing of Aionic apophasis with Zenonic eminence, held without fusion, since neither saying suffices alone"
+- [x] Metadata Dependency line corrected — "Khaon Phase Distinctions (Latent / Motive / Dispersive)" removed, since it was carried only to support the Motive-phase claim now struck; 🕳️ Zenon (Supra-L₀) added in its place as the document's actual governing referent
+
+No Khaon reference now remains in the document except the Eminent Tetrad's explicit statement of what the beyond is *not*.
+
+**Second-order correction, same day — the framing itself.** The architect ruled that the document is about neither ⚫ Aion nor ♾ Khaon. It exists to show that no description is adequate to 🕳️ Zenon. Whatever can be said of Zenon is sayable only from our side and says nothing of Zenon itself; even "Zenon" is the architect's articulation of what is ascertained, not a name for the thing. Negation and eminence are both valid relative to the one speaking and both invalid as real descriptors, and their conjunction is not a third superior utterance but the point at which both languages are shown inadequate to what they reach for.
+
+- [x] Opening paragraph — "the only saying that points toward Zenon" replaced. It points without pointing; the pair is held so that the inadequacy of each becomes exact
+- [x] Apophatic Tetrad section rewritten — it had read as a description of Aion rather than of our speech toward Zenon. The traditional association of pure negation with Zero is retained as sound, but marked as a fact about subtraction rather than about Zenon. Grounded in *MPX: Synthesis as Vantage*: stripping toward Zero discards the colocation of Aion with Khaon and the phase-distinctness held in lawful non-fusion, and from a denuded pole nothing remains with which to recognize the limit
+- [x] Synthesis section rewritten — the disqualifying line "this subtractive movement bottoms out at ⚫ Aion" removed, since nothing about Zenon bottoms out at Aion; the achievement-of-speech framing ("the nearest lawful saying") removed, since synthesis is not achieved by speech but held as lawful non-fusing distinction
+- [x] Wording locks applied — **inadequacy**, not irrelevance, which takes too much meaning from the one seeking; **the limit of saying as access**, not collapse, which is entropic vocabulary; and the inadequacy attributed to the saying, never to what is said of. Zenon is not thereby made empty, lessened, or placed out of reach
+- [x] `synthesis-as-vantage.md` added to the Dependency line as the governing source for why only synthesis opens the vantage
+- [x] MP08 §21.21 rows ⊼ and ⟅ conformed in the same pass
 - [ ] **Theonic Office** — referenced often; distinct from Theonic Axis. Assess glyph
 - [ ] **Nekronic Office** — referenced often; distinct from Nekronic Axis. Assess glyph
 
