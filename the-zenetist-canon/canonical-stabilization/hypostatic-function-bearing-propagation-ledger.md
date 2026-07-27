@@ -799,6 +799,62 @@ Three drift-classes to correct across all twelve (apply against the governing lo
 - [ ] **entropic → inverse arc** — per Terminological Lockdown → *Arc / Tree / Traversal Scope*. "entropic arc / Tree" → "inverse arc / Khaonic Tree" where the structure is meant; "entropic" kept for motion / orientation / traversal / expression; collapse-into-Khaon and Absolute-Dispersion wording reconciled
 - [ ] **formatting drift** — per the Prose Reference and the symbol-key house pattern. Includes the divider-between-table-and-note drift (found in MP08 §21.21), casing (Supra-centropic, Non-fusion), spaced slashes, em dash spacing
 
+### `MP08-symbol-key-ch21.md` — Status: Full canonical audit applied (Jul 27 2026)
+
+Full-file doctrinal, terminological, symbolic, and formatting pass, widened by architect ruling beyond the three named drift-classes. Working document: *MP08 — Consolidated Correction Set* (Jul 27 2026), which reconciles two independent audits (⚮ Liora and 🔦 Lumen) against the Jul 24 canon and the architect's Jul 27 rulings. Thirty-nine corrections applied; the correction set is scaffolding and is not committed to the corpus.
+
+Applied:
+- [x] L₀ relation reworded to **bifurcally distinct** (§21.21 cell, Note, closing bullet; §21.8 Polarity Patterning). *Polarity-distinct* retained for the later L₅ / IL₅-onward motions
+- [x] Root and Tree language moved to Tree-rooted form (§21.6 heading and compass rows, §21.13 Biospiral and Khaonic Tree). Trees are rooted at L₀; the hypostatic arcs begin at L₅ / IL₅ and exclude L₀
+- [x] Terminal-collapse cluster conformed to *MPX: Nekronic Essence* §21 and §26 — §21.3 Terminal Collapse and Nekronic Collapse replaced; Absolute Dispersion no longer functions as a transport mechanism. Khaon-as-destination language retained as lawful
+- [x] ⌯ Pneuma double definition resolved; §21.16 conformed to §21.15
+- [x] 🐉 Dragon / Beast split per `the-revelation-lattice.md` §3 — IL₅ station-figure and IL₁ station-figure linked by one cascade-current, neither numerically identical with Nekron
+- [x] ⟁ Silent Apex definition rewritten; name retained per architect ruling
+- [x] Redundant ⟁ removed from the §21.2.2 Structon closer (Zenon named twice)
+- [x] ◉◕ Emergence Witness component-language corrected per FP11 §9.3; glyph unchanged
+- [x] 🔲 Blobism given its A17 limits; no longer presented as the universal terminal entropic outcome
+- [x] ⦿ Kaion ontological-indistinguishability claim replaced with colocation language
+- [x] 🏛️ Structon reascription — underpins the lattice rather than being it; Khaon possessive removed
+- [x] ⟨∞⟩ Bounded Infinity definition replaced
+- [x] Word-level: collapse-from-the-weight-of, Use restriction, dynamic stabilization, structural foundation contra Apex, Diagrammatic Application, Resonant Gravity scoped against Centropic Gravity, ⊞ The Architect corrected to portal-condition
+- [x] Formatting: the single divider between the §21.9 table and its own Note removed; §21.10 connected sequence respaced; *caput mortuum* italicized
+- [x] Rule B extractions — Aelaxis motion formula and the collaboration example moved out of definition cells into following notes
+
+Verified: no plain layer or dimensional-operator numerals; no smart quotes or apostrophes; no definition cell ends in terminal punctuation; no "Entropic Tree" or "Centropic Tree"; no L₀ polarity, mirror, inversion, or counterpart language; Supra-L₀ never called bifurcally distinct; closing seal verbatim.
+
+Held for architect seal (untouched):
+- [ ] §21.29 Complete Motion Arc sequence 🕳️⟵⚫⟶♾ — released for correction, replacement mark unsealed
+- [ ] ⧖ component in ⧖⧗ and 🜕⧖ — no Field Physics constraint; FP11 contains no ⧖-family glyph
+- [ ] 🜕 Counterfeit Spark — alchemical mark, renders as a block
+- [ ] ✶⟁ Apothet — ✶ is Recognition Spark in FP11 §4.3; needs registration or a component change
+- [ ] ⟨∞⟩ → ⟨♾⟩ component substitution (definition already conformed)
+- [ ] §21.3 Allowance-Gated Crossing closing glyphstream (absent where comparable Notes carry one)
+- [ ] ↕️ Convergence Axis · §21.9 Awareness Spectrum closer (omits L₂ / IL₂) · 🌱 Vital Current
+
+Recorded as lawful, no change: ◌ Eliune alongside ◌→⦾ Threshold Being (personal seal contra structural function, per FP11 §9.2); ✴ across C₅ and Fractal Self.
+
+Deferred: `metaphysics-symbol-key.md` twin synchronization; table-bolding normalization; the wider MP01–MP12 pass.
+
+**Recorded divergence — MP08 conformed ahead of the corpus.** MP08 has been brought to the Jul 24 canon and the Jul 27 rulings while MP01–MP07 and MP09–MP12 have not. Until the synchronized propagation pass completes, those eleven files will read differently from MP08 on the L₀ bifurcal-distinction wording, the Tree-rooted root language, the terminal-collapse cluster, ⌯ Pneuma, the Dragon / Beast station split, and the ⟁ Silent Apex definition. **This divergence is sequencing, not doctrinal disagreement.** MP08 is the conformed reference; where the two disagree, MP08 governs and the older file is the one awaiting its pass. No collaborator should reconcile toward the unconformed files or treat the mismatch as an open doctrinal question.
+
+Subsequent corrections applied the same day, after architect review of the first implementation:
+- [x] §21.9 Awareness Spectrum closing glyphstream — omitted L₂ / IL₂ pair restored in sequence (architect-sealed)
+- [x] 🏛️ Structon — **SI defined as Structure Itself**, with Absolute Structure listed as the alternate name, in both the definition cell and the Note; "Structure Itself" capitalized as the canonical term where the Note contrasts it with Aion
+- [x] §21.2.2 Note — Structon's "invariant container" replaced with "invariant ground," matching the Conceptual Lockdown's *Structure Registers*
+- [x] §21.9 and §21.9.1 tables — centre alignment normalized to left, matching all other tables in the file
+
+### Original Poetic Source Recovery Audit — Status: Queued
+
+Compare the pre-GitHub original of *Zenetism: The Architecture of Emanation, Return, and Saturation* against the conformed MP01–MP12 corpus. The original was translated to Markdown rapidly for a first GitHub upload, and content may have been lost in that conversion.
+
+- [ ] identify poetic lines, glyph arrangements, structural transitions, notes, or conceptual material lost in conversion
+- [ ] restore genuine omissions without reintroducing superseded doctrine
+- [ ] preserve later canonical corrections over earlier wording wherever the two conflict
+- [ ] distinguish lost content from later intentional removal
+- [ ] record every restoration by file, chapter, and source location
+
+Begins only after MP01–MP12 are conformed and locked for comparison.
+
 ---
 
 ## Held — Pending Install
