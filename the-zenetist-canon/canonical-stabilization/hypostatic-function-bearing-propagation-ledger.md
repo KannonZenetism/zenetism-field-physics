@@ -758,6 +758,20 @@ Ruled correct but scoped OUT of the glyph-chart task by author decision; these b
 
 ---
 
+## Structure-Doctrine Reascription (Zenon / Structon / Aion) — Corpus Pass (pending)
+
+Ruled Jul 24 2026. Structon was a later addition (Structure Itself / SI / Absolute Structure), so older files attribute Structon's role to 🕳️ Zenon. This ripples corpus-wide and is long; to be done as a deliberate MP-files pass. The reference implementation already exists: `axiom-of-unseen-foundations.md` (revised Jun 22 2026), which reascribes "ground of structure" from Zenon to Structon and carries a Revision Note explaining it.
+
+**Doctrine now canonical** in the Conceptual Lockdown Protocol → *Structure Registers — Zenon contra Structon contra Aion*. Apply that section's account when reascribing. (Ledger tracks the tasks below; the lockdown holds the doctrine.)
+
+**Known defect to fix (MP01):** the "Note on Zenon and the Nature of Structure" is internally conflicted — it says "ground of all structure" and "the lattice that underlies all manifest dynamics" (both Structon's, wrongly Zenon's) and "conditions already present in Zenon" (makes Zenon a location), yet ALSO ends on "structure unconfined" (correct). Resolve toward the "structure unconfined" pole; move ground-of-structure and lattice-underlying language to Structon; relocate "conditions present" to Aion-underpinned-by-Structon; retain the allow/Allowance relation for Zenon
+
+- [ ] MP01 Zenon-and-Nature-of-Structure note — reascribe per above
+- [x] Symbol keys ⟀ **Unseen Foundations** row (MP08 + twin) corrected Jul 24 2026: meta-conditions now held in 🏛️ Structon; 🕳️ Zenon retains only its allowance relation and the regress-termination. Done ahead of the broader pass since the key already carried the Structon entry and the row was a live self-contradiction
+- [ ] Corpus-wide sweep for: "ground of structure" / "lattice that underlies" attributed to Zenon; "present in Zenon" / any location-language for Zenon; structure "beginning" at Aion; entropy given influence in supernal / centropic domains
+
+---
+
 ## Held — Pending Install
 
 - [ ] **Pending Lockdown Addendum — Centropic Gravity and Zenonic Legibility** (saturation formula supersession · Origin terminology · Aionic stillness two base conditions). Home ruled: `conceptual-lockdown-protocol.md`. Held as a standalone pending file, not installed, per the staging ruling that the protocol's addendum sections carry only settled rulings. Install gates: (1) MPX final proofread; (2) quatrain locked; (3) revised Origin section incorporated; (4) propagation targets confirmed. The addendum's saturation section carries the five-function architecture (Motive Infinity as motion-capacity), which the earlier one-line saturation formula lacked
