@@ -25,7 +25,7 @@ In the older traditions the pure "not" terminates at zero, and within the lattic
 
 Negation carried without remainder strips toward Zero, and in stripping it discards what Zero is holding: ⚫ Aion colocated with ♾ Khaon, latency and motion and dispersion standing as phases of a distinct register, principles held apart in lawful non-fusing coherence. The loss is not only of that coherence. It is of the vantage itself, since the persistent discernibility of the manifold is what makes the trans-discernible recognizable as beyond — and from a denuded pole there is nothing left to recognize the limit with.
 
-So negation does not fall short of Zenon by stopping too early. It is the wrong instrument, and what it produces is an account of our own emptying rather than of what exceeds account.
+So negation is not inadequate to Zenon by stopping too early. It is the wrong operation, and what it produces is an account of our own emptying rather than of what exceeds account.
 
 ## The Eminent Tetrad — the Four-fold Beyond
 
