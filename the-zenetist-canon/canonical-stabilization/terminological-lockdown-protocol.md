@@ -1317,6 +1317,10 @@ Preferred:
 
 Aion and Khaon make polarity-distinct hypostatic motion possible, but they are not themselves centropic / entropic poles.
 
+**Bifurcal-distinction wording.** Aion and Khaon stand in **bifurcal distinction** and may be described as **bifurcally distinct**. This construction is lowercase in running prose unless ordinary Title Case applies in a heading. It describes the L₀ root-relation and does not name polarity, duality, mirror-relation, inversion, counterpart-relation, or an axis between the roots. The centropic / entropic polarity that becomes operative at L₅ / IL₅ and the subsequent hypostatic registers remains properly described as polarity-distinct. Supra-L₀ is not bifurcally distinct.
+
+**Scope of application.** This wording is prospective and conform-on-touch, joining A14–A17. It governs new and revised material, and older documents are brought into conformance as they are opened for other work. No retroactive corpus-wide sweep is required, on the precedent of *MPX: Nekronic Essence and the Multiversal Allocation of −1* §21, which establishes the same non-retroactivity for terminal-collapse language.
+
 ---
 
 # Cascade / Continuum / Conflation Governance
