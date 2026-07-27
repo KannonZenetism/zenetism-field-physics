@@ -27,11 +27,28 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 - Emanation does not proceed from Zenon; it becomes conceivable by Zenonic allowance
 - The emanatory continuum is rooted in ⚫ Aion (L₀)
 - Zenon is reached through synthesis — ⚫ Aion and ♾ Khaon held without fusion — not by subtraction, apophatic negation, or directional return
-- The crossing is saturation (Supra-Centropic Saturation), not return
+- The crossing is saturation (Supra-centropic Saturation), not return
 
 **Lawful grammar.** Write that emanation becomes conceivable by Zenonic allowance, not that it proceeds or descends from Zenon; write that the continuum is rooted in ⚫ Aion (L₀). Write "saturation," never "return," for the Zenonic horizon, and "synthesis," never "subtraction."
 
 **Provenance:** Orientation / emanation math; the Axiom of Co-Arising Inversion (scope clause excluding Zenon and L₀).
+
+---
+
+## Structure Registers — Zenon contra Structon contra Aion
+
+**Constraint.** The ground of all structure is 🏛️ Structon (Structure Itself, SI; Absolute Structure), not 🕳️ Zenon. No construction may name Zenon "the ground of structure," a "field," a "lattice that underlies," or locate conditions "in Zenon" — the last makes Zenon a place. Structure as such does not begin at ⚫ Aion. These attributions belong to Structon, added to the framework later than much of the corpus, so older files misassign its role to Zenon.
+
+**Lawful account.**
+
+- 🕳️ Zenon is Structure Unbound — the trans-structural Unconditioned that makes even Structon possible; not a field, not a location, not the ground of structure. Its relation to structure is allowance: Zenon allows structure without being structured
+- 🏛️ Structon is Structure Itself — the ground of all structure, the unemanatable invariant that underpins the lattice and holds all lawful possibility
+- ⚫ Aion is where the conditions for structure are present, underpinned by Structon; often called a root-structure with respect to the lattice, but not the beginning of structure as such. L₀ (Aion / Khaon) is not impermanent
+- Relative structures are the impermanent structures spanning every lattice layer except L₀, and equally the impermanent structures of the manifest world. Impermanence, entropy, and relative structure are intimately linked in the manifest world — but entropy holds no influence in the supernal / centropic domains
+
+**Lawful grammar.** Write that Structon is the ground of structure and underpins the lattice; write that Zenon allows structure without being structured, never that structure is grounded in or present in Zenon; write "relative structures" for the impermanent structures of the lattice (L₁–L₅ / IL₁–IL₅) and the manifest world, reserving Structon for Structure Itself.
+
+**Provenance:** The Axiom of Unseen Foundations (Structon SI integration, revised Jun 22 2026); the Note on Structon and the Structon entry in the Symbol Key (MP08 §21.2.2).
 
 ---
 
