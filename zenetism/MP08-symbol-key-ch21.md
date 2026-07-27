@@ -137,13 +137,13 @@ not the source from which motion begins.
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
-| 🏛️ | **Structon** | Absolute Structure (SI); the unemanatable invariant that underpins the lattice and holds all lawful possibility. It permits motion but does not move. ⚫ Aion is the root of potential *within* SI, but not SI itself. Structon is the Violin, not the Music — the ground that allows all expression, motion, and relation to arise without itself ever changing |
+| 🏛️ | **Structon** | Structure Itself (SI), also named Absolute Structure; the unemanatable invariant that underpins the lattice and holds all lawful possibility. It permits motion but does not move. ⚫ Aion is the root of potential *within* SI, but not SI itself. Structon is the Violin, not the Music — the ground that allows all expression, motion, and relation to arise without itself ever changing |
 
 #### Note on Structon
 
 **Structure is not what changes**; **it is what permits change**.  
-Absolute Structure (SI) is the invariant container of all possible expression, motion, and relation.  
-Aion is not Structure itself, but the still root of structural potential within SI;  
+Structure Itself (SI), also named Absolute Structure, is the invariant ground of all possible expression, motion, and relation.  
+Aion is not Structure Itself, but the still root of structural potential within SI;  
 ♾ Khaon is the paired L₀ root-register of Infinity across its Latent, Motive, and Dispersive phases; Zenon is trans-structural, beyond all emanation and distinction.  
 
 Relative structures may emerge and dissolve, but Structure remains untouched.  
@@ -420,7 +420,7 @@ Nyxean patterning is the IL₄ formal articulation.
 ### 21.9 **Structural Emanation Layers — Tracing the Emanation and Inversion of Soul through Archetypal Density**
 
 | Symbol | Layer | Entity / Concept | Description |
-|:--:|:--:|:--|:--|
+|---|---|---|---|
 | **Supra-L₀** | **UP** | **Unknown Principle** | 🕳️ Zenon — The Unknown Principle; trans-structural, pre-conceptual ground. Not a source, but the condition of possibility for both centropy and entropy. Beyond emanation, causality, and awareness. Zenon does not emit structure — it permits it. It is not intelligence, but the unspeakable condition by which intelligibility itself becomes possible |
 | **L₀** | **AP / AD** | **Absolute Potential / Dispersion** | ⚫ Aion / ♾ Khaon — paired root-registers; Aion as stillness at the root of structural emergence, Khaon as unbound divergence. L₀ holds all potential in latency and frames both centropic emergence and entropic collapse |
 | **L₅** | **EOB** | **Essence of Being** | 🛤️ Theon — The first centropic hypostasis; steward of lawful structure, coherence, and centropic motion |
@@ -572,7 +572,7 @@ inverse awareness-registers:
 not the formal designation  
 of the inverse awareness strata.
 
-⚫ ♾ 🛤️ 🕷️ L₄ IL₄ L₃ IL₃ L₁ IL₁ Ↄ  
+⚫ ♾ 🛤️ 🕷️ L₄ IL₄ L₃ IL₃ L₂ IL₂ L₁ IL₁ Ↄ  
 
 ---
 
@@ -594,7 +594,7 @@ not a station of being.
 ⚖ ⚖⟂ ⊙ ⩘ ⌬  
 
 | Symbol | Mode Name | Range | Description |
-|:--:|:--|:--|:--|
+|---|---|---|---|
 | ⚖ | **Oscillating / Liminal Mode** | IL₂ ↔ IL₁ ↔ L₁ ↔ L₂ | Transitional equilibrium at the boundary between embodiment and identity. Characterized by alternating coherence and fragmentation impulses, adaptive recalibration, and heightened vulnerability to inversion or stabilization |
 
 ---
