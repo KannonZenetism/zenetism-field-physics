@@ -955,8 +955,6 @@ The full formalization is given in *MPX: Spirit, Soul, and the Apparent Stillnes
 | 🔺⤒ | **Centropic Gravity** | The essence-borne momentum of fulfilled centropic synthesis; the tendency of a sufficiently coherent essence to continue through Aionic return toward the horizon of structure, where saturation becomes Zenonically legible and admissible by Allowance — not an external pull, not physical gravity, and not 🕳️ Zenon drawing the essence outward |
 | ⟒ | **Allowance** | The lawful admission by which fulfilled centropic essence may cross beyond the horizon of structure into 🕳️ Zenon; not compulsion, mechanism, or a decision by any ruler standing outside the lattice, but the non-coerced opening through which saturation is permitted where no sufficient condition prevents it |
 
----
-
 #### Note on Bifurcal Coherence
 
 Bifurcal Coherence names the root-structural potential from which polarity-distinct but coherent motions arise.  
