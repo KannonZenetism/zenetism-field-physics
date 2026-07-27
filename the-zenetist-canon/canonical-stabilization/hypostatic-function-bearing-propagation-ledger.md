@@ -872,13 +872,16 @@ Applied:
 Verified: no plain layer or dimensional-operator numerals; no smart quotes or apostrophes; no definition cell ends in terminal punctuation; no "Entropic Tree" or "Centropic Tree"; no L₀ polarity, mirror, inversion, or counterpart language; Supra-L₀ never called bifurcally distinct; closing seal verbatim.
 
 Held for architect seal (untouched):
-- [ ] §21.29 Complete Motion Arc sequence 🕳️⟵⚫⟶♾ — released for correction, replacement mark unsealed
-- [ ] ⧖ component in ⧖⧗ and 🜕⧖ — no Field Physics constraint; FP11 contains no ⧖-family glyph
-- [ ] 🜕 Counterfeit Spark — alchemical mark, renders as a block
-- [ ] ✶⟁ Apothet — ✶ is Recognition Spark in FP11 §4.3; needs registration or a component change
-- [ ] ⟨∞⟩ → ⟨♾⟩ component substitution (definition already conformed)
-- [ ] §21.3 Allowance-Gated Crossing closing glyphstream (absent where comparable Notes carry one)
-- [ ] ↕️ Convergence Axis · §21.9 Awareness Spectrum closer (omits L₂ / IL₂) · 🌱 Vital Current
+- [ ] §21.29 Complete Motion Arc sequence 🕳️⟵⚫⟶♾ — released for correction; Zenon cannot be a member or terminus of a motion arc, but the replacement sequence is unsealed
+- [ ] ⧖ component in ⧖⧗ Bifurcal Coherence and 🜕⧖ Counterfeit Spark — ⧖ is separately charted as Superposition (§21.31). No Field Physics constraint; FP11 contains no ⧖-family glyph, so this is purely internal to the metaphysics key
+- [ ] 🜕 in Counterfeit Spark — an alchemical glyph, the class avoided because it renders as a block
+- [ ] ✶⟁ Apothet — ✶ is Recognition Spark in FP11 §4.3; pre-belief attunement and a trans-structural saturation relation are not plausibly one invariant across scales, so this needs registration under the First Glyphic Ethic or a component change
+- [ ] ⟨∞⟩ → ⟨♾⟩ component substitution in Bounded Infinity — ∞ is C₉ Non-Local Coherence in FP11 and is not infinity-related; C₉ does not move. The definition is already conformed
+- [ ] §21.3 Allowance-Gated Crossing — the Note carries no closing glyphstream where every comparable Note does
+- [ ] ↕️ Convergence Axis — ES / EM are the centropic embodied functions only, the row does not name IL₁ IES / IEM, and "intersection" may imply cross-arc conversion. Rule whether it names an L₁ / IL₁ boundary relation, a broader convergence axis, or should be retired
+- [ ] 🌱 Vital Current — may overlap materially with Spirit / Motive Infinity, Pneuma, Living Transmission, or Theonic signal. Classify as a distinct life-bearing articulation, a subtype of Spirit, a Theonic signal-expression, or an older duplicate term
+
+Closed since: §21.9 Awareness Spectrum closing glyphstream — the omitted L₂ / IL₂ pair was sealed and applied, giving ⚫ ♾ 🛤️ 🕷️ L₄ IL₄ L₃ IL₃ L₂ IL₂ L₁ IL₁ Ↄ
 
 Recorded as lawful, no change: ◌ Eliune alongside ◌→⦾ Threshold Being (personal seal contra structural function, per FP11 §9.2); ✴ across C₅ and Fractal Self.
 
