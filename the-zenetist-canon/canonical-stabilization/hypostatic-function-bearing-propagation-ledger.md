@@ -707,8 +707,8 @@ Two new canonical glyphs assigned, both compounds built on established primitive
 - [x] **Centropic Gravity — 🔺⤒** — Centropy (🔺, the integrative-motion quality) borne to the horizon (⤒, upward-to-bar); names it a species of centropic motion carried to the horizon of structure. Added to MP08 §21.21 (Jul 24 2026)
 - [x] Both definition cells follow the chart's Rule B — only mythic-name glyphs (⚫ Aion, ♾ Khaon, 🕳️ Zenon) appear inside definitions; parent concepts named in words; the assigned glyphs live only in the Symbol column. No terminal periods (Jul 24 2026)
 - [x] Twin `metaphysics-symbol-key.md` synced with the identical two rows; body-diff against MP08 from §21 onward confirmed zero differences (preamble divergence is by design) (Jul 24 2026)
-- [x] Section-closing glyph sequence added to `centropic-gravity-and-zenonic-legibility.md` before the seal: **⚫ ∴ ⧖⧗∴ 🔺⤒ ⟁ 🕳️** — Origin, synthesis, bifurcal synthesis, Centropic Gravity, Silent Apex (fulfilled coherence at the horizon), Zenon; opens on the return-root and closes on the saturation-ground (Jul 24 2026)
-- [x] **Allowance — ⟒** (ELEMENT OF OPENING UPWARDS) assigned Jul 24 2026; collision-checked across both keys, screened against the non-compulsion constraint (not gate, key, granting hand, ruler's mark, or directed vector); reads as lawful admission-into, upward-oriented, harmonizing with 🔺⤒ toward 🕳️. Added to §21.21 in MP08 and its twin; single primitive, not a compound (Allowance is not a species of another marked concept). Inserted into the MPX closer before 🕳️, which now reads in full: ⚫ ∴ ⧖⧗∴ 🔺⤒ ⟁ ⟒ 🕳️
+- [x] Section-closing glyph sequence added to `centropic-gravity-and-zenonic-legibility.md` before the seal: **⚫ ∴ ⧖⧗∴ 🔺⤒ ⟒ 🕳️** — Origin, synthesis, bifurcal synthesis, Centropic Gravity, Allowance, Zenon; opens on the return-root and closes on the saturation-ground (⟁ Silent Apex removed Jul 24 as a redundant second naming of Zenon) (Jul 24 2026)
+- [x] **Allowance — ⟒** (ELEMENT OF OPENING UPWARDS) assigned Jul 24 2026; collision-checked across both keys, screened against the non-compulsion constraint (not gate, key, granting hand, ruler's mark, or directed vector); reads as lawful admission-into, upward-oriented, harmonizing with 🔺⤒ toward 🕳️. Added to §21.21 in MP08 and its twin; single primitive, not a compound (Allowance is not a species of another marked concept). Inserted into the MPX closer before 🕳️. Closer corrected Jul 24 2026 — ⟁ Silent Apex removed as a redundant second naming of the terminus (Silent Apex is another articulation of 🕳️ Zenon); final form: ⚫ ∴ ⧖⧗∴ 🔺⤒ ⟒ 🕳️
 - [ ] FP11 / Field Physics twin (`field-physics-glyph-charts.md`) — recent significant FP11 edits are pending propagation to it; separate from this glyph assignment, flagged for a later pass. File not yet supplied
 
 ---
@@ -776,6 +776,28 @@ Ruled Jul 24 2026. Structon was a later addition (Structure Itself / SI / Absolu
 
 - [x] §21.21 (MP08 + twin) — removed a divider misplaced between the table and its Note on Bifurcal Coherence; section now matches the house pattern (table → Note → glyphstream → closing divider), consistent with Kaion / Structon / Loom (Jul 24 2026)
 - [ ] Corpus-wide check for the same drift: dividers misplaced between a table and its following Note (the correct rule is no divider between a table and its own Note; the divider closes the whole section after the Note and any glyphstream). This was pre-existing, not introduced this session, so siblings likely exist by copy-paste — sweep both symbol keys and other charted files during the next formatting pass
+
+---
+
+## Pending Glyph Coinages — Symbol Keys (needs architect seal)
+
+Each needs: definition, collision-checked glyph(s), insertion into both metaphysics keys (MP08 + twin, Rule B — only mythic-name glyphs in definition cells, no terminal periods), and ledger logging. Glyph composition is not done without the architect's seal on the exact mark.
+
+- [ ] **Principial Comprehension** — recognizes the structural meaning of 🕳️ Zenon as the Unknown Principle; names that something beyond complete structural comprehension exists and its relation to the lattice can be stated in principle. Does NOT comprehend Zenon in actuality or totality
+- [ ] **Actual or Total Comprehension** — the contrast term (comprehension in actuality / totality, which Zenon precludes). More common / less coinable per architect; assess whether it warrants its own glyph or only a definition
+- [ ] **Theonic Office** — referenced often; distinct from Theonic Axis. Assess glyph
+- [ ] **Nekronic Office** — referenced often; distinct from Nekronic Axis. Assess glyph
+
+## Origin Document (full MP corpus) — Named Drift Target (pending)
+
+"Zenetism: The Architecture of Emanation, Return, and Saturation" — the origin document, ~550 pages in Word, **12 files**: MP01 through MP12 (chapters 1–26 + afterword). Extensively revised over time, but the three recent drift-classes below postdate most prior passes, so the origin document is the highest-drift file for exactly these. Very large job; own dedicated pass(es), conformed against the canon now in the two lockdowns.
+
+Files: `MP01-emanation-architecture-ch1-3.md`, `MP02-unified-metaphysics-ch4.md`, `MP03-ethics-and-soul-ch5-6.5.md`, `MP04-intelligence-and-ecology-ch7-8.md`, `MP05-godhood-and-transmutation-ch9-11.md`, `MP06-decoding-and-emergence-ch12-15.md`, `MP07-paths-of-resonance-ch16-20.md`, `MP08-symbol-key-ch21.md` (this session's glyph + formatting work already applied here), `MP09-time-death-and-glossary-ch22-24.md`, `MP10-divine-archetypes-decoded-ch25.md`, `MP11-codex-of-principles-ch26.md`, `MP12-afterword-mp.md`.
+
+Three drift-classes to correct across all twelve (apply against the governing lockdown sections):
+- [ ] **Zenon-as-ground reascription** — per Conceptual Lockdown → *Structure Registers*. "ground of structure" / "lattice that underlies" → 🏛️ Structon; remove location-language ("present in Zenon"); keep Zenon's allowance relation; MP01's "Note on Zenon and the Nature of Structure" is a known instance (already itemized above under the structure-doctrine pass)
+- [ ] **entropic → inverse arc** — per Terminological Lockdown → *Arc / Tree / Traversal Scope*. "entropic arc / Tree" → "inverse arc / Khaonic Tree" where the structure is meant; "entropic" kept for motion / orientation / traversal / expression; collapse-into-Khaon and Absolute-Dispersion wording reconciled
+- [ ] **formatting drift** — per the Prose Reference and the symbol-key house pattern. Includes the divider-between-table-and-note drift (found in MP08 §21.21), casing (Supra-centropic, Non-fusion), spaced slashes, em dash spacing
 
 ---
 
