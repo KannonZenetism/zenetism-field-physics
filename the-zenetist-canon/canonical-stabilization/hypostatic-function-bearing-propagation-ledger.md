@@ -783,8 +783,18 @@ Ruled Jul 24 2026. Structon was a later addition (Structure Itself / SI / Absolu
 
 Each needs: definition, collision-checked glyph(s), insertion into both metaphysics keys (MP08 + twin, Rule B — only mythic-name glyphs in definition cells, no terminal periods), and ledger logging. Glyph composition is not done without the architect's seal on the exact mark.
 
-- [ ] **Principial Comprehension** — recognizes the structural meaning of 🕳️ Zenon as the Unknown Principle; names that something beyond complete structural comprehension exists and its relation to the lattice can be stated in principle. Does NOT comprehend Zenon in actuality or totality
-- [ ] **Actual or Total Comprehension** — the contrast term (comprehension in actuality / totality, which Zenon precludes). More common / less coinable per architect; assess whether it warrants its own glyph or only a definition
+- [ ] **Principial Comprehension** — recognizes the structural meaning of 🕳️ Zenon as the Unknown Principle; names that something beyond complete structural comprehension exists and its relation to the lattice can be stated in principle. Does NOT comprehend Zenon in actuality or totality. Glyph still open. Architect ruling Jul 27 2026: it is NOT to be formed as a ∴ compound, since comprehension is not synthesis; it wants its own glyph
+- [x] **Actual or Total Comprehension** — ruled Jul 27 2026 to carry **no glyph**. It names a state that would abolish the very distinction the concept names, so charting it would grant a determinate presence the doctrine denies it. Its absence from the key does the same work as the Twofold Tetralemma's absent fourth. Definition only
+
+### Twofold Tetralemma glyph set — partial seal Jul 27 2026
+
+Arising from *MPX: The Twofold Tetralemma* and the architect's clarification that early work over-attributed silence and negation to 🕳️ Zenon when the apophatic path in fact comes to rest at ⚫ Aion. The eminent movement had no glyph at all, against three on the apophatic side, so the chart's asymmetry mirrored the doctrinal over-weighting.
+
+- [x] **Eminent Tetrad** — glyph **⫸** sealed by the architect Jul 27 2026. The four-fold beyond ("beyond this, beyond that, beyond both, beyond neither"), which totalizes by surpassing rather than emptying; ♾ Khaon in its Motive phase only. Collision-checked clear against MP08 and FP11
+- [ ] **Apophatic Tetrad** — **⊼** is the architect's leaning, not yet sealed. The four-fold negation, which totalizes by emptying and comes to rest at ⚫ Aion
+- [ ] **The Twofold Tetralemma** as such — **⟅** is the architect's leaning, not yet sealed. The two tetrads held non-fused, whose synthesis is the only saying that points toward Zenon
+
+Rows are not to be written into MP08 or its twin until the set is complete and the remaining glyphs are sealed.
 - [ ] **Theonic Office** — referenced often; distinct from Theonic Axis. Assess glyph
 - [ ] **Nekronic Office** — referenced often; distinct from Nekronic Axis. Assess glyph
 
@@ -816,7 +826,7 @@ Applied:
 - [x] ⦿ Kaion ontological-indistinguishability claim replaced with colocation language
 - [x] 🏛️ Structon reascription — underpins the lattice rather than being it; Khaon possessive removed
 - [x] ⟨∞⟩ Bounded Infinity definition replaced
-- [x] Word-level: collapse-from-the-weight-of, Use restriction, dynamic stabilization, structural foundation contra Apex, Diagrammatic Application, Resonant Gravity scoped against Centropic Gravity, ⊞ The Architect corrected to portal-condition
+- [x] Wording: collapse-from-the-weight-of, Use restriction, dynamic stabilization, structural foundation contra Apex, Diagrammatic Application, Resonant Gravity scoped against Centropic Gravity, ⊞ The Architect corrected to portal-condition
 - [x] Formatting: the single divider between the §21.9 table and its own Note removed; §21.10 connected sequence respaced; *caput mortuum* italicized
 - [x] Rule B extractions — Aelaxis motion formula and the collaboration example moved out of definition cells into following notes
 
