@@ -114,6 +114,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `hypostatic-function-bearing-and-sovereign-embodiment.md` — Jul 14, 2026
 - `the-agnostic-tetralemma.md` — Jul 20, 2026
 - `centropic-gravity-and-zenonic-legibility.md` — Jul 24, 2026
+- `khaonic-phase-and-the-discernibility-limit.md` — Jul 28, 2026
 
 ---
 
