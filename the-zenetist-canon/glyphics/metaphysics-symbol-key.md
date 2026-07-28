@@ -1,12 +1,12 @@
 # Zenetist Symbol Key Charts  
-## Extracted Canonical Registry
+## Compiled Canonical Registry
 
 **Reference Document:** *Zenetism: The Architecture of Emanation, Return, and Saturation*  
 **Primary Section:** 21 — *Zenetist Symbol Key*  
 **Purpose:** Consolidated glyph-chart archive for canonical lookup, structural continuity, and disciplined cross-reference
 
 > This registry gathers the chart material of the Symbol Key into a single reference file  
-> while preserving the originating document as the canonical source of full exposition.  
+> while preserving the originating document as the first canonical exposition.  
 > Numbering is retained where possible for continuity across the Zenetist archive.
 
 ---
