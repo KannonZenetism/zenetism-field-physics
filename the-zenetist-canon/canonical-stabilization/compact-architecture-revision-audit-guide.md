@@ -398,11 +398,36 @@ The posture may be summarized:
 - **Entropic static tension** — intrinsic entropic inclination remains latent after Absolute Dispersion, with no manifested structure carrying it into motion.
 - **Saturation-capable centropic posture** — a further differentiation within fulfilled centropic contentment, not dissatisfaction with Aion and not a third orientation.
 
-Aionic abiding is not failure, stagnation, or lesser worth. Saturation-capability does not create a hierarchy among essences.
+Aionic abiding is not failure, stagnation, or lesser worth. Saturation-capability does not create a ranking among essences.
 
 ### Reality-seeking
 
 Reality-seeking is an essence-rooted centropic capacity to resist premature closure around any partial term. It is latent before L₃, reflexively articulated through L₃ consciousness, and retained as an integrated harvest after reflexive consciousness has completed its role. It does not make Zenon an object of cognition.
+
+### Synthesis as Vantage and the Discernibility Limit
+
+Synthesis does more than prevent fusion. By holding the full distinctions of a register in lawful relation, it establishes the vantage from which the limits of that register become discernible. This vantage is not a totalizing height, possession of the ultimate, or a ranking of veracity; it is a standpoint that recognizes its own structural limit.
+
+At L₀, Zero and Infinity remain paired and distinct; neither one root, nor their fully held manifold, is Zenon. The premise that the ultimate is unconditioned and unpaired is the load-bearing assumption by which the trans-structural is distinguished from the discernible manifold.
+
+"Unknown Principle" is an observer-side limit-name. It marks principled non-discernibility rather than contingent ignorance and does not predicate unknowability as a property of Zenon-in-itself.
+
+Audit the L₀ trait-manifold without reducing it to one featureless ground:
+
+- Aionic: stillness, Zero, containment
+- Khaonic: the capacity and enactment of motion, Infinity, dispersion
+- emptiness / fullness: associated but not rigidly polar
+- potential / emanative expression: register-wide rather than belonging exclusively to one root
+
+Apophatic subtraction may reach a denuded or pregnant Aion, but it removes or subordinates the Khaonic determinations required to hold the full bifurcal manifold. The saying-synthesis preserves the manifold in speech and makes its horizon legible; the final (bifurcal) synthesis bears the returned essence toward that horizon — and neither mechanically compels Zenonic saturation. Final synthesis, Centropic Gravity, Zenonic Legibility, and Allowance remain governing.
+
+Root-stratum non-fusion secures terminal identity-persistence. Return to Aionic latency cannot mean dissolution into pooled sameness because L₀ is itself a coherence of distinct root-functions and distinct latent essences.
+
+Treat "All is One," undifferentiated-ground language, and equivalent formulations as fusion-risk triggers. Interpret traditions, figures, and mystical articulations by function, motion, scope, and placement rather than collapsing them into one perennial identity.
+
+Arithmetic language remains illustrative only. Infinity minus infinity is indeterminate, and Archetypal Number, hypostatic structural charge, and essence-identity must never be collapsed.
+
+Harm may reach embodiment, expression, memory, coherence, and Soul / Mind articulation. It cannot rewrite, fuse, or abolish essence.
 
 ---
 
