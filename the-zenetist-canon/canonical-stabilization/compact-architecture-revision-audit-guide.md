@@ -137,8 +137,8 @@ A limit-case universe may remain Motive indefinitely. Endless persistence or exp
 
 The breakdown of cognitive determination must not be confused with the cessation of motion. An Infinity that exceeds bounded cognition may remain Motive. At the discernibility limit, Zero and Infinity may become epistemically co-legible because neither yields a bounded determination, but they remain ontologically distinct:
 
-> Zero defeats determination through latency or subtraction.  
-> Infinity defeats determination through unbounded excess.  
+> Zero eludes determination through latency or subtraction.  
+> Infinity eludes determination through unbounded excess.  
 > They converge in indeterminability, not in identity.
 
 Dispersive Infinity is co-present with Aion because differentiated motion has terminally resolved, not merely because an observer can no longer cognize its extent.
@@ -205,9 +205,9 @@ Do not call latent Aionic disposition "orientation" where no motion has yet aris
 ### Fixed motion map
 
 - Centropic emanation toward embodiment: L₅→L₄→L₃→L₂→L₁ — **declivous**.
-- Centropic acclivity toward a supernal resonant term: L₁→L₂→L₃→L₄→L₅ — **acclivous**; only Aion-returning / EOB-culminating essence continues through L₅→⚫.
+- Centropic acclivity toward a supernal resonant term: L₁→L₂→L₃→L₄→L₅ — **acclivous**; only Aion-returning / EOB-culminating essence continues through L₅→L₀ (Absolute Potential).
 - Entropic expression toward inverse embodiment: IL₅→IL₄→IL₃→IL₂→IL₁ — **acclivous**.
-- Entropic collapse toward a subversal resonant term: IL₁→IL₂→IL₃→IL₄→IL₅ — **declivous**; only VOS-culminating essence continues through IL₅→♾ Absolute Dispersion.
+- Entropic collapse toward a subversal resonant term: IL₁→IL₂→IL₃→IL₄→IL₅ — **declivous**; only VOS-culminating essence continues through IL₅→L₀ (Absolute Dispersion).
 
 Acclivous does not mean centropic, and declivous does not mean entropic. Direction and orientation are independent.
 
@@ -571,9 +571,9 @@ Before implementation, confirm that the revised corpus:
 > **Soul / Mind begins:** L₄ / IL₄.  
 > **Individuation and integration:** L₃ / IL₃, with integration proper only to the centropic DSA.  
 > **Aion-returning centropic terminus:** return to ⚫ Aion, followed in saturation-ready cases by 🕳️ Zenonic saturation through final synthesis and Allowance.  
-> **VOS-culminating entropic terminus:** Nekronic event horizon → ♾ Absolute Dispersion, with conserved essence Aionically resolved through L₀ co-presence.  
+> **VOS-culminating entropic terminus:** Nekronic event horizon → Absolute Dispersion, with conserved essence Aionically resolved through L₀ co-presence.  
 > **Identity law:** distinction without fusion at every register.  
-> **Zenon:** not Origin, not source, not object, not awareness, not Zero, not Infinity, not their union — the trans-structural Unknown Principle beyond the whole discernible manifold.
+> **Zenon:** not Origin, not source, not object, not awareness, not Zero, not Infinity, not their reconciliation — the trans-structural Unknown Principle beyond the whole discernible manifold.
 
 ---
 
