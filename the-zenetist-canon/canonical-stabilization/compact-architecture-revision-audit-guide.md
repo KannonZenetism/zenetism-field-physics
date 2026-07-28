@@ -7,7 +7,7 @@
 
 **Scope:** This guide condenses the current locks concerning Zenon; Aion, Khaon, Kaion, and Structon; Essence, Spirit, Soul, Mind, and awareness; Theon and Nekron; the Deep Self-Axis; hypostatic function-bearing; multiversal allocation; motion and orientation; synthesis, integration, return, collapse, and saturation; and the principal comparative and non-fusion boundaries.
 
-**Controlling rule:** Preserve the metaphysical force and poetic register of the older work. Correct category drift, layer drift, motion drift, and identity-collapse without flattening the doctrine into external empiricism or reducing its mythic articulations to metaphor alone.
+**Guiding principle:** Preserve the metaphysical force and poetic register of the older work. Correct category drift, layer drift, motion drift, and identity-collapse without flattening the doctrine into external empiricism or reducing its mythic articulations to metaphor alone.
 
 ---
 
@@ -17,7 +17,7 @@
 2. Draw on MP08 as the compact reference map, but treat every proposed correction as corpus-wide until a propagation matrix confirms all affected passages.
 3. For every unstable sentence, record: file and section; exact wording; mistaken category; canonical ruling; proposed replacement; linked passages elsewhere.
 4. Correct ontology and mechanics before polishing style. A beautiful sentence remains unstable if its subject, layer, motion, or terminal verb is wrong.
-5. Preserve lawful poetic terms where their technical referent is controlled. Mythic shorthand may remain; technical prose must state the exact relation.
+5. Preserve lawful poetic terms where their technical referent is locked. Mythic shorthand may remain; technical prose must state the exact relation.
 
 ### Five-question sentence test
 
@@ -87,7 +87,7 @@ The awareness spectrum is structural, not an evolutionary ranking. "Pre-reflexiv
 
 "Ground," "Structure Unbound," "silence," "beyond," and similar terms may remain only as lattice-side approximations. They must not make Zenon a substrate, location, causal source, container, totality, void, object, or superlative form of something already within structure.
 
-### Replace or control
+### Replace or qualify
 
 - **Zenon as Origin / source / first cause** → Aion is Origin; Zenon is non-originary.
 - **Within Zenon, from Zenon, or Zenon unfolded into Aion and Khaon** → At L₀, the paired root-registers become structurally articulable; Zenon does not emit them.
