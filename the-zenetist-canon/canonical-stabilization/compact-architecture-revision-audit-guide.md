@@ -123,6 +123,26 @@ Khaon is Infinity across three non-fused phases:
 
 Khaon is not entropy. Khaon does not possess an entropic orientation. Only the Motive phase moves; Latent and Dispersive Infinity are co-present with Aionic stillness.
 
+### Khaonic Phase and Discernibility Nuance
+
+Khaon's dynamic phase must be distinguished from the observer's capacity to determine it.
+
+- **Latent Infinity** names unexpressed motion-capacity in non-fused co-presence with Aion.
+- **Motive Infinity** names enacted motion. It may be bounded, indefinitely continuing, asymptotic, or cognitively indeterminable.
+- **Dispersive Infinity proper / Absolute Dispersion** names the terminal state reached when the motion sustaining determinate expression has resolved.
+
+Dispersive dynamics may occur within Motive Infinity as structures expand, diffuse, fragment, or lose coherence. Such breakdown-in-motion is not yet Absolute Dispersion.
+
+A limit-case universe may remain Motive indefinitely. Endless persistence or expansion need not instantiate Infinity as a completed totality; it may remain unbounded becoming without terminal arrival. The ordinary Latent → Motive → Dispersive sequence therefore names a completed expression-and-resolution arc, not an exceptionless outcome imposed upon every conceivable universe.
+
+The breakdown of cognitive determination must not be confused with the cessation of motion. An Infinity that exceeds bounded cognition may remain Motive. At the discernibility limit, Zero and Infinity may become epistemically co-legible because neither yields a bounded determination, but they remain ontologically distinct:
+
+> Zero defeats determination through latency or subtraction.  
+> Infinity defeats determination through unbounded excess.  
+> They converge in indeterminability, not in identity.
+
+Dispersive Infinity is co-present with Aion because differentiated motion has terminally resolved, not merely because an observer can no longer cognize its extent.
+
 ### Bifurcal relation
 
 Aion and Khaon are paired, distinct root-functions held in Bifurcal Coherence. They are not identical, not one shared essence, not sequential containers, and not yet the centropic / entropic polarity. Polarity is latent at L₀ and becomes enacted at the Theon / Nekron split.
