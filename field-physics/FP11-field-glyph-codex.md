@@ -236,8 +236,8 @@ These symbols function as operators within glyphic syntax, defining the directio
 
 | Glyph | Name                   | Core Function                                       |
 | :---- | :--------------------- | :-------------------------------------------------- |
-| **↑** | Acclivous Motion       | Acclivous direction; arc-neutral. In the centropic arc, motion toward integration and origin; in the entropic arc, fragmentary motion into form |
-| **↓** | Declivous Motion       | Declivous direction; arc-neutral. In the centropic arc, harmonious motion into form; in the entropic arc, disintegrative collapse toward dissolution |
+| **↑** | Acclivous Motion       | Acclivous direction; arc-neutral. In the centropic arc, motion toward integration and origin; in the inverse arc, fragmentary motion into form |
+| **↓** | Declivous Motion       | Declivous direction; arc-neutral. In the centropic arc, harmonious motion into form; in the inverse arc, disintegrative collapse toward dissolution |
 | **→** | Forward / Linear Flow  | Progression in sequence; ordered succession, not necessarily cause-to-effect |
 | **≈** | Harmonic Match         | Indicates resonant sympathy or gentle alignment    |
 | **≠** | Structural Divergence  | Indicates structural distinction despite similarity |
