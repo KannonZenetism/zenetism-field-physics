@@ -60,8 +60,8 @@ The ordinary sequence — Latent → Motive → Dispersive — therefore names a
 
 The intuition that an Infinity too vast to determine becomes "essentially Zero" is formulated as an epistemic convergence rather than an ontological identity. From the standpoint of bounded cognition, Zero may yield no differentiated magnitude because nothing is expressed; Infinity may yield no differentiated magnitude because what is expressed exceeds every bounded determination. In both cases cognition returns no finite, graspable value — but the two reach that result oppositely:
 
-> Zero defeats determination through latency or subtraction.  
-> Infinity defeats determination through unbounded excess.  
+> Zero eludes determination through latency or subtraction.  
+> Infinity eludes determination through unbounded excess.  
 > They converge in indeterminability, not in identity.
 
 At the discernibility limit, Zero and Infinity may become epistemically co-legible as the breakdown of bounded determination, while remaining ontologically distinct. This stands beside the Twofold Tetralemma: negation reaches Zero; exceeding reaches Infinity; each exhausts structured cognition differently; neither becomes the other. Root-stratum non-fusion holds.
