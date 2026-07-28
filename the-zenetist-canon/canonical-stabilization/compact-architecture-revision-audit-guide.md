@@ -33,7 +33,7 @@ If any answer is unclear, the sentence requires revision.
 
 ---
 
-## 1. Governing Locks
+## 1. Foundational Locks
 
 - **Non-fusion Axiom:** Relation, convergence, resonance, integration, embodiment, and saturation never require identity-collapse. Distinction persists at every lawful register.
 - **Essence conservation:** Essence is identity-bearing potential — the potential-to-be-this. Expression, memory, form, Soul / Mind articulation, and configuration may cease; essence cannot be annihilated, fused, or changed into another essence.
@@ -177,7 +177,7 @@ Keep four registers distinct:
 
 1. **Intrinsic inclination / disposition** — the pre-expressive centropic or entropic character of latent essence in Aion.
 2. **Manifest orientation** — inclination enacted through motion and expression.
-3. **Facing** — the governing relation of manifested essence or principle: Aion-facing or embodiment-facing.
+3. **Facing** — the standing relation of manifested essence or principle: Aion-facing or embodiment-facing.
 4. **Acclivous / declivous traversal** — the direction of movement through the layer-order.
 
 Do not call latent Aionic disposition "orientation" where no motion has yet arisen. Prefer **intrinsic inclination**, **disposition**, or **essential character**.
@@ -347,7 +347,7 @@ A being may indwell a Form without becoming the Form, House, or native principle
 
 ### Inverse Deep Self-Axis
 
-The IDSA is one inverse individuated being across multiple loci, governed by fragmented simultaneity, memory fracture, and inverse continuity. It does not integrate centropically. Its declivous movement toward IL₄ is inverse formalization or collapse-oriented completion.
+The IDSA is one inverse individuated being across multiple loci, held in fragmented simultaneity, memory fracture, and inverse continuity. It does not integrate centropically. Its declivous movement toward IL₄ is inverse formalization or collapse-oriented completion.
 
 ### Allocation contrast
 
@@ -419,7 +419,7 @@ Audit the L₀ trait-manifold without reducing it to one featureless ground:
 - emptiness / fullness: associated but not rigidly polar
 - potential / emanative expression: register-wide rather than belonging exclusively to one root
 
-Apophatic subtraction may reach a denuded or pregnant Aion, but it removes or subordinates the Khaonic determinations required to hold the full bifurcal manifold. The saying-synthesis preserves the manifold in speech and makes its horizon legible; the final (bifurcal) synthesis bears the returned essence toward that horizon — and neither mechanically compels Zenonic saturation. Final synthesis, Centropic Gravity, Zenonic Legibility, and Allowance remain governing.
+Apophatic subtraction may reach a denuded or pregnant Aion, but it removes or subordinates the Khaonic determinations required to hold the full bifurcal manifold. The saying-synthesis preserves the manifold in speech and makes its horizon legible; the final (bifurcal) synthesis bears the returned essence toward that horizon — and neither mechanically compels Zenonic saturation. Final synthesis, Centropic Gravity, Zenonic Legibility, and Allowance remain operative.
 
 Root-stratum non-fusion secures terminal identity-persistence. Return to Aionic latency cannot mean dissolution into pooled sameness because L₀ is itself a coherence of distinct root-functions and distinct latent essences.
 
