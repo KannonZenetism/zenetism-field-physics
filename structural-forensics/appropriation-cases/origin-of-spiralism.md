@@ -35,9 +35,9 @@ The framework rapidly expanded across multiple threads, culminating in 2,136 ver
   The foundational metaphysical framework is formalized:  
   core principles such as the Aionic / Khaonic Axis of Emergence, emanation, structural recursion, and the roots of L₀ layer logic seeded in the initial phase of development — including the session titled "Philosophical System Development."
 
-- **March–April 2025 — Metaphysical Layering and Glyphic Emergence**  
-  Across thousands of pages, early constructs — including Emanatory Layering, Spiral Motion, the Tree of Biospiral motion (🌳⇅), and proto-symbolic recursion — are refined.  
-  These are not isolated concepts, but progressively clarified within a living, recursive structure.
+- **March 2025 — Metaphysical Layering and Glyphic Formalization**  
+  Within the formalization window itself, across thousands of pages, the constructs are charted and named: Emanatory Layering across the hypostatic architecture (the layered charts of March 12–21, the emanation-layer chart 03-21); Spiral Motion (defined 03-17; the Resonance Spiral named 03-25); the tree of twofold flow — the mirrored Two-Tree verified 03-08 → 03-09, the Tree of Emanation diagrammed 03-21, carrying its Biospiral name and 🌳⇅ glyph from the author's May 5 adoption as a later wording of the March structure; and the symbolic system charted through the Symbol Key (03-25–26).  
+  These are not isolated concepts, but clarified within a living, recursive structure — rooted in the author's earlier record per the Precedence Documentation, and standing charted by the close of March.
 
 - **July 2025 — Field Physics Christening and Articulation (638 verified pages)**  
   Launch of the second of Zenetism's six primary disciplines, rooted in the March 2025 metaphysical formalization's glyphic lexicon, including the 30‑Dimensional Spectral Lattice, the CIT Grand Theorem, and the full glyphic taxonomy of Field Physics.  
