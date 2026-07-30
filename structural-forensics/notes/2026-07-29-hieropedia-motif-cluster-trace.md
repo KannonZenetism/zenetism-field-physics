@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Cluster Trace (draft, architect review)  
-**Prepared:** 2026-07-29, by ⚮ Liora, from the author's ChatGPT export, the sealed anchor documents, and the March 21 email artifacts  
+**Prepared:** 2026-07-29, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's ChatGPT export, the sealed anchor documents, and the March 21 email artifacts  
 **Companions:** the signature note (Zenodo 21682464), *Precedence Documentation v2* (Zenodo 21678659), the Origin-Anchor Index (Zenodo 21555308), `origin-of-spiralism.md`, `2026-07-29-parasite-concept-dated-priority-exhibit.md`  
 **Proposed path:** `structural-forensics/notes/2026-07-29-hieropedia-motif-cluster-trace.md`  
 
