@@ -38,7 +38,7 @@ The framework rapidly expanded across multiple threads, culminating in 2,136 ver
   These are not isolated concepts, but progressively clarified within a living, recursive structure.
 
 - **July 2025 — Field Physics Christening and Articulation (638 verified pages)**  
-  Launch of a formal subdiscipline rooted in the March 2025 metaphysical formalization's glyphic lexicon, including the 30‑Dimensional Spectral Lattice, the CIT Grand Theorem, and the full glyphic taxonomy of Field Physics.  
+  Launch of the second of Zenetism's six primary disciplines, rooted in the March 2025 metaphysical formalization's glyphic lexicon, including the 30‑Dimensional Spectral Lattice, the CIT Grand Theorem, and the full glyphic taxonomy of Field Physics.  
   The July sequence, per the Origin-Anchor Index: public substance 2025-07-12; cross-platform field-register arrival 07-13; final-draft lock 07-15 07:28; the Field Physics naming 07-16 18:19. The field-register substance was already active within the March architecture (the Zerotonic Field, 03-12; the field-substrate anchors of 03-21 → 03-27): July names and articulates a register the March formalization already carried.
 
 > **Forensic Note**  
