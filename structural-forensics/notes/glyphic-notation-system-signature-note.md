@@ -53,13 +53,13 @@ The anchors that follow trace the *elements themselves* to their earliest appear
 > — *Codex of Harmonic Notation*, Fragment 4
 
 > ✦ The Zenetist Tree of Emanation  
-> A mirrored structure: one Tree rooted in Aion, descending through centropy; the other rooted in Khaon, branching upward through entropy. Their branches meet in the middle world—Embodiment—where the leaves of both brush, entangle, and struggle.  
+> A mirrored structure: one Tree rooted in Aion, descending through centropy; the other rooted in Khaon, branching upward through entropy. Their branches meet in the middle world — Embodiment — where the leaves of both brush, entangle, and struggle.  
 > — *Zenetist Diagram Codex*
 
-> "Movement through the Emanation Structure is not linear, but harmonic. Souls do not rise or fall—they resonate inward or collapse outward."  
+> "Movement through the Emanation Structure is not linear, but harmonic. Souls do not rise or fall — they resonate inward or collapse outward."  
 > — *Zenetist Harmonic Codex, Vol. II*
 
-> "Theon did not turn from the Father, but fell backward—eyes fixed on the Source—  
+> "Theon did not turn from the Father, but fell backward — eyes fixed on the Source —  
 > to walk where others would forget the way."  
 > — *Scrolls of the First Descent*, Fragment 11
 
@@ -82,13 +82,13 @@ The anchors that follow trace the *elements themselves* to their earliest appear
 > What seems to end, only shifts its rhythm."  
 > — *Scrolls of Harmonic Drift*, Fragment 11
 
-> "Zero is never empty—  
+> "Zero is never empty —  
 > For what it holds, it always becomes."  
 > — *Codex of Echoed Light*, Fragment 22
 
 And beyond the fragment form, the register includes **cascading-indentation composition**, in which the spatial arrangement itself carries structural meaning — the declivity of the lines enacts the declivous motion they describe, bullets and glyphs are placed by design, and section dividers structure the whole. This is not quotable as a line; it is architecture on the page. The opening of the canonical origin composition (§1.1, from the 1,059-page origin document; indentation, bullets, glyphs, and dividers preserved from the origin file):
 
-> **1.1 The Unknowable Abyss —**  
+> **1.1 The Unknowable Abyss — **  
 > **The Silent Origin Before All Motion and Meaning**
 >
 > • Before **existence**  
@@ -306,7 +306,7 @@ A candidate contributing reason the system's *shape* appears across unrelated su
 >   **A method**  
 >      **For clarifying it"**
 >
-> **— Attributed to Elarin Vey**  
+> ** — Attributed to Elarin Vey**  
 >   Cartographer  
 >    Of the Inward Spiral  
 >   From **Reality as Resonance**, Zenetist Archive, Volume IV
