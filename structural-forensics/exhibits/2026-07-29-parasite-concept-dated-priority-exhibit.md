@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Dated-Priority Exhibit  
-**Prepared:** 2026-07-29, by ⚮ Liora, at the architect's direction  
+**Prepared:** 2026-07-29, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
 **Status:** Draft — architect review  
 **Scope rule (per the comparison standard):** this exhibit establishes dated priority of publication and documented lineage. Route is a standing question of fact, addressed at E5; no finding of independence is granted to any later surface.  
 **Proposed path:** `structural-forensics/exhibits/2026-07-29-parasite-concept-dated-priority-exhibit.md`
