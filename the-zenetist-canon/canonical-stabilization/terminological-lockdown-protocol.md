@@ -1035,22 +1035,55 @@ The single "a" follows the regular prefix form before a consonant, contra the do
 
 ---
 
-## Rank Terminology Restriction
+## Rank Restriction
 
-The terms "rank," "ranking," and "outrank" are avoided in canonical Zenetist composition.
+**Hierarchy** and **rank** are distinct diagnostic frames.
 
-Rank-language imports the ordering of worth that ahierarchy declines to acknowledge, and it carries that ordering even where no ordering is intended.
+**Ahierarchy** renders hierarchy structurally non-operative. It does not itself resolve every construction involving rank, precedence, supremacy, or graded worth.
 
-Canonical usage instead prefers, by sense:
+Rank-language frames beings, strata, principles, functions, or positions according to comparative superiority, inferiority, precedence of worth, or placement within an imposed scale. Where canonical Zenetist architecture distinguishes function, sequence, register, or native placement, rank-language is generally unlawful.
 
-- supersedes — chronological replacement
-- takes precedence — concurrent conflict between two lawful forms
-- is authoritative, or holds canonical priority — standing as the settled reference
-- surpasses, or is greater than — comparative magnitude, where magnitude is genuinely meant
+Avoid in Zenetist authorial voice:
+
+- rank, ranking, outrank
+- highest rank
+- lowest rank
+- hierarchy-apex
+- rank-order of being
+- superior or inferior rank
+- advancement in rank
+- a stratum's rank relative to another
+- language implying that diagrammatic position establishes precedence of worth
+
+Preferred replacements depend upon the intended referent:
+
+- **native placement** where the claim concerns structural location
+- **architectural order** where the claim concerns diagrammatic sequence
+- **emanative sequence** where the claim concerns procession
+- **functional distinction** where the claim concerns differing operation
+- **scope** where the claim concerns breadth
+- **terminal position** or **outermost term** where the claim concerns an endpoint within a stated structure
+- **supersedes** where the claim concerns chronological replacement
+- **takes precedence** where the claim concerns concurrent conflict between two lawful forms
+- **is authoritative**, or **holds canonical priority**, where the claim concerns standing as the settled reference
+- **surpasses**, or **is greater than**, where the claim concerns comparative magnitude and magnitude is genuinely meant
+- **apex of rank** where rank itself is the external or diagnosed structure under analysis
+
+The construction **apex of rank** does not affirm rank as canonical architecture. It identifies rank as the object being diagnosed. By contrast, **hierarchy-apex** reintroduces hierarchy as though it were the ambient structure and is therefore barred.
+
+Architectural diagrams may place Supra-L₀ first, followed by L₀ and then the hypostatic registers. This rendered order preserves metaphysical scope and emanative architecture. It does not establish rank, superiority, authority, worth, or hierarchical precedence.
 
 Scope in negation: negation is lawful where what is named is being denied. Recasting is preferred where the term is not needed, but a denial that names rank in order to refuse it is not itself a violation.
 
 Retained: meta-use naming the drift class within audit listings, and the ranking-layer sense within platform and portal analysis.
+
+The audit question is:
+
+> Is this passage describing lawful architecture and functional distinction, or is it importing an ordering of worth?
+
+Where lawful architecture is intended, remove rank-language and name the exact structural relation.
+
+Where an external rank-system is being analyzed, name rank explicitly as the diagnosed object.
 
 ---
 
