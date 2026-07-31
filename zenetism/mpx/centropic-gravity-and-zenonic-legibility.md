@@ -410,7 +410,7 @@ Many centropic traditions have understood return primarily through negation:
 * subtraction
 * dissolution of determinate predicates
 
-These may carry genuine Aion-facing insight.
+These may carry genuine insight into Aionic return.
 
 But negation alone reaches Zero.
 
