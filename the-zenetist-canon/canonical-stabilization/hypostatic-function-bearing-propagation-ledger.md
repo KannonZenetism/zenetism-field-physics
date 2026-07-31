@@ -719,10 +719,10 @@ The `centropic-gravity-and-zenonic-legibility.md` doctrine propagates. Primary p
 
 **Primary propagation targets:**
 
-- [ ] `synthesis-integration-saturation.md` — main companion doctrine; add Centropic Gravity, Zenonic Legibility, Motive Infinity's role, and Allowance
+- [x] `synthesis-integration-saturation.md` — main companion doctrine; add Centropic Gravity, Zenonic Legibility, Motive Infinity's role, and Allowance. Applied (architect, Jul 31 2026); one residual open — a positional-vocabulary instance ("outranked") flagged by the architect, entry supplied for correction Jul 31 2026
 - [ ] `the-twofold-tetralemma.md` — replace the over-simple Aionward / Khaonward directionality with the final synthesis of the full Bifurcal Coherence manifold at the horizon of structure
 - [ ] `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` — clarify that Aion-facingness explains return, while fulfilled final synthesis and Centropic Gravity establish saturation-readiness
-- [ ] `theonic-office.md` — preserve office completion contra essence saturation; add that returned Theonic essence may abide or saturate according to its essence-specific synthesis posture
+- [x] `theonic-office.md` — preserve office completion contra essence saturation; add that returned Theonic essence may abide or saturate according to its essence-specific synthesis posture. Applied (architect, Jul 31 2026)
 - [x] `metaphysics-symbol-key.md` — glyph rows for Bifurcal Synthesis and Centropic Gravity applied Jul 24 2026; return / synthesis / saturation / Motive Infinity / Zenon terminology review still open
 - [x] `MP08-symbol-key-ch21.md` — same glyph rows applied Jul 24 2026; terminology review still open
 - [~] `conceptual-lockdown-protocol.md` — Origin casing, Aionic-stillness distinctions, and revised arc / motion terminology already applied this session; the abbreviated origin-facing formula supersession remains pending as the held addendum below
