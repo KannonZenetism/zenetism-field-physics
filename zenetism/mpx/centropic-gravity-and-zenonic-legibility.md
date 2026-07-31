@@ -13,7 +13,7 @@
 
 Zenetism has long maintained that only centropic essence may saturate into 🕳️ Zenon.
 
-The governing explanation has often been stated through orientation:
+The standing explanation has often been stated through orientation:
 
 > Centropic essence is Origin-facing.
 
@@ -456,7 +456,7 @@ The exceeding term names the capacity of fulfilled synthesis not to terminate in
 
 This capacity is **Motive-Khaonic in function, not Khaonward in destination**. Motive Infinity is Infinity in motion — the enactment of motion as such, supplying emanation, return, and the continuation of final synthesis to the horizon of structure alike. Motive Infinity is not itself centropic or Aion-facing, just as Khaon is not itself entropic; neither Aion nor Khaon is a centropic or entropic principle. Orientation belongs to the essence, not to the motion-principle it draws upon: the centropic essence remains Aion-facing while bearing this exceeding.
 
-Motive Infinity is therefore the kinetic condition of Centropic Gravity. It is not its destination, its final object, or its governing orientation. Centropic essence may hold this exceeding without becoming entropic, because its governing orientation remains integrative and Aion-facing. It does not disperse. It synthesizes.
+Motive Infinity is therefore the kinetic condition of Centropic Gravity. It is not its destination, its final object, or its operative orientation. Centropic essence may hold this exceeding without becoming entropic, because its operative orientation remains integrative and Aion-facing. It does not disperse. It synthesizes.
 
 The relation is therefore:
 
@@ -688,7 +688,7 @@ Each essence retains:
 Thus:
 
 > Shared Aion-facing orientation permits convergent return.  
-> Essence-specific final synthesis governs saturation-readiness.
+> Essence-specific final synthesis establishes saturation-readiness.
 
 Some returned essences may abide in Aion.
 
@@ -894,7 +894,7 @@ It remains itself without making selfhood a barrier.
 
 At the horizon of structure, the final synthesis becomes legible.
 
-The horizon is not structure failing or simply ending. It is the furthest vantage available from within Structon — the point at which the full bifurcal manifold is coherently discerned, beyond which structured determination cannot follow, and where Allowance rather than any within-structure mechanism governs saturation.
+The horizon is not structure failing or simply ending. It is the furthest vantage available from within Structon — the point at which the full bifurcal manifold is coherently discerned, beyond which structured determination cannot follow, and where Allowance rather than any within-structure mechanism admits saturation.
 
 **Structure Unbound** and **structure exceeded** are relational descriptions spoken from within the lattice. They affirm that Zenon is not mere absence, while refusing to reduce Zenon to Structure as known within Structon. This parallels the Twofold Tetralemma: silence, and sound beyond hearing; structure exceeded, and Structure Unbound; neither description sufficient, both preserving the refusal to reduce Zenon to nothingness.
 
