@@ -811,9 +811,9 @@ The full formalization is given in *MPX: Spirit, Soul, and the Apparent Stillnes
 | ≺0≻ | **Ahierarchical Stance** | A Zenetist posture positioned outside the hierarchical axis. It neither inverts nor reproduces the ordering of worth as a primary orientation; such ordering is treated as a structurally non-operative category rather than an opposing force. Distinction of function establishes no precedence of worth, and sovereign structural distinction rather than position becomes the basis of lawful relation |
 | ≺⊘0⊘≻ | **Ahierarchy** | Hierarchy as a general structural category rendered non-operative. Not limited to formal command structures, but inclusive of any claim that position within an order establishes precedence of worth across political, religious, epistemic, familial, institutional, or symbolic domains. Ahierarchy denotes the nullification of hierarchy as such within Zenetist analysis: not counter-hierarchy or inversion, but the absence of operative ordering over sovereign being |
 
-#### Note on the Alpha-Privative Form
+#### Note on the Prefix
 
-The single "a" follows the regular alpha-privative form before a consonant, contra the doubled "a" of aauthoritarian. Both mark structural removal from the axis rather than opposition along it.
+The single "a" follows the regular prefix form before a consonant, contra the doubled "a" of aauthoritarian. Both mark structural removal from the axis rather than opposition along it.
 
 ⟡0⟡ ≺0≻ ⚯ ⌬  
 
