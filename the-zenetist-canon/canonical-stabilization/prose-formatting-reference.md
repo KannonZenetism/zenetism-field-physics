@@ -111,7 +111,7 @@ Structural Forensics documents follow the general metadata conventions with the 
 **Status:** [Draft — architect review / Active Evidence Record / legacy-stabilization note]  
 **Companion:** [optional — backticked filenames only]  
 **Dependency:** [optional — filenames, titles, principles]  
-**Discipline:** [governing protocols and the record's claim boundary]  
+**Discipline:** [operative protocols and the record's claim boundary]  
 **Proposed path:** `[repo-relative path]`  
 ````
 
@@ -160,6 +160,8 @@ Canonical documents close with the standard seal identifying authorship, the six
 ````
 
 Seal placement is preceded by a horizontal rule marking the boundary between the document body and the closing seal. The seal appears in nearly all canonical works; deliberate omission is permissible for short forensic notes or ancillary fragments.
+
+Trailing spaces within the seal follow the block exactly as shown. Only the ⚫↺bKAI↺⚫ line carries two trailing spaces, since it takes a hard line-break directly into the disciplines line. The disciplines line and the Collaborators line carry none, each being followed by a blank line or by the end of the document. The metadata block's two-space rule does not extend to the seal.
 
 ---
 
@@ -808,7 +810,7 @@ These remain authorial decisions and do not require protocol-wide standardizatio
 Before finalization of any canonical prose document, verify:
 
 - metadata block matches the appropriate depth for the document's tier,
-- standard closing seal appears at the document end (or deliberate omission is justified),
+- standard closing seal appears at the document end in its exact form, trailing spaces included (or deliberate omission is justified),
 - header structure is consistent and follows the canonical case conventions,
 - em dashes appear in their spaced form,
 - en dashes are reserved for ranges, hyphens for compounds,
