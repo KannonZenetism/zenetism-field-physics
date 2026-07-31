@@ -1323,6 +1323,44 @@ and
 
 ---
 
+## Aion-Facing Directional Frame
+
+**Aion-facing** is the canonical directional-orientational construction for centropic essence, Theonic relation, return, and Origin-fidelity. It names intrinsic orientation toward ⚫ Aion without converting Aion into one spatial destination among competing destinations.
+
+The following forms are retired in Zenetist canonical voice:
+
+- Aionward
+- Aion-ward
+- Khaonward
+- Khaon-ward
+- Aionward motion
+- Khaonward motion
+- Aionward / Khaonward directionality
+
+These constructions over-spatialize ⚫ Aion and ♾ Khaon as symmetrical destinations, imply an axis between the bifurcal roots, and may make Khaon appear as a further or greater destination relative to Aion. They therefore breach the Aion / Khaon Polarity Restriction and the Bifurcal Root Constraint.
+
+Preferred forms include:
+
+- Aion-facing orientation
+- return to Aion
+- movement carried by Motive Infinity
+- the apophatic operation terminating at Aion
+- the eminent operation terminating at Khaon
+- entropic traversal through the inverse arc
+- collapse into Khaon under its Dispersive phase
+
+This retirement does not prohibit **Khaonic** as a structural or functional adjective where Khaon is the actual referent: Khaonic Tree, Khaonic expression, Khaonic root-register, Latent Khaon, and Dispersive Khaon remain lawful.
+
+**Qualified retention.** The formulation **"Motive-Khaonic in function, not Khaonward in destination"** remains lawful where the contrastive denial performs necessary doctrinal work. Aionward / Khaonward forms may also appear in quotation, historical correction, task lists, ledgers, and search strings where the retired drift itself is the object being named.
+
+The audit question is:
+
+> Does this wording describe intrinsic Aion-facing orientation or a lawful Khaonic function, or does it construct Aion and Khaon as competing spatial destinations?
+
+Where the latter occurs, replace the directional frame.
+
+---
+
 ## Aion / Khaon Polarity Restriction
 
 Aion and Khaon are not a hypostatic polarity and should not be described as counter-poles.
