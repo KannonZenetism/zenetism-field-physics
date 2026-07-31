@@ -2,8 +2,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Theonic essence-distinction, per-arc recurrence, and saturation  
-**Status:** Draft — Jul 12 2026, revised Jul 14 2026  
-**Dependency:** `MP11-codex-of-principles-ch26.md` §26.21 · `MP01-emanation-architecture-ch1-3.md` *Addendum — Correction of Entropic Advantage* · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `the-twofold-tetralemma.md` · `non-fusion-at-the-bifurcal-register.md` · `deep-self-axis.md` · `synthesis-integration-saturation.md` · `metaphysics-symbol-key.md` §§21.3, 21.9, 21.10, 21.13 · `archetypal-number-and-essence-indexing.md`  
+**Status:** Draft — Jul 12 2026, revised Jul 31 2026  
+**Dependency:** `MP11-codex-of-principles-ch26.md` §26.21 · `MP01-emanation-architecture-ch1-3.md` *Addendum — Correction of Entropic Advantage* · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `the-twofold-tetralemma.md` · `non-fusion-at-the-bifurcal-register.md` · `deep-self-axis.md` · `synthesis-integration-saturation.md` · `centropic-gravity-and-zenonic-legibility.md` · `metaphysics-symbol-key.md` §§21.3, 21.9, 21.10, 21.13 · `archetypal-number-and-essence-indexing.md`  
 
 ---
 
@@ -21,7 +21,7 @@ A second question follows if the multiverse is actual:
 
 These questions are joined. The answer requires a distinction between **Theonic essence**, **Theonic principle**, and **Theonic office**, together with a clarification of how one structural number may belong to multiple absolutely distinct essences without collapsing their identity.
 
-Theon is not an essence that accumulates centropy until it becomes eligible for return or saturation. Theon is **Centropy Itself** at the first hypostatic register. Theon is Essence of Being, love, prime coherence, oriented awareness facing Aion, and the structural value +1. Any account of Theonic return must begin from what Theon is, not from a quantity Theon acquires.
+Theon is not an essence that accumulates centropy until it becomes eligible for return or saturation. Theon is **Centropy Itself** at the first hypostatic register. Theon is Essence of Being, love, prime coherence, pre-reflexive awareness in Aion-facing orientation, and the structural value +1. Any account of Theonic return must begin from what Theon is, not from a quantity Theon acquires. Aion-facingness explains return; final synthesis, Centropic Gravity, Zenonic Legibility, and Allowance explain how saturation may become admissible beyond return.
 
 ---
 
@@ -32,7 +32,7 @@ The Theonic doctrine requires three related but non-identical registers.
 | Register | Definition |
 |---|---|
 | **Theonic essence** | The distinct identity-bearing potential proper to one universe-generating arc, latent within Aion before manifest Theonic expression |
-| **Theonic principle** | The manifest metaphysical principle of L₅ EOB within the Aionic Tree of that universal arc — Theon as Centropy Itself, Being Itself, love, prime coherence, and Aion-facing awareness |
+| **Theonic principle** | The manifest metaphysical principle of L₅ EOB within the Aionic Tree of that universal arc — Theon as Centropy Itself, Being Itself, love, prime coherence, and pre-reflexive awareness in Aion-facing orientation |
 | **Theonic office** | The conditionally persistent gate-function through which essences whose lawful culmination belongs to EOB complete Theonic Return |
 
 Theonic essence is not yet the manifested hypostatic principle, but it is not anonymous potential. It is already the potential-to-be-this Theon rather than another.
@@ -106,7 +106,7 @@ The shared value names **what kind of structural determination** each essence be
 
 ## 3. Theonic Essence-Identifier and Structural Charge
 
-Because the letter E is already strongly associated with entropy and the entropic dimensional registry, the present entry provisionally employs **T** for Theonic essence.
+Because the letter E is already strongly associated with entropy and the entropic dimensional registry, the canonical notation employs **T** for Theonic essence.
 
 Let:
 
@@ -148,7 +148,7 @@ with:
 \operatorname{arc}(T_{\theta_j}^{+1}) = u_j
 \]
 
-The non-identity relation concerns essence-identity. It does not deny that both essences bear the same structural value +1. That shared value may be stated separately through a provisional structural-value function:
+The non-identity relation concerns essence-identity. It does not deny that both essences bear the same structural value +1. That shared value may be stated separately through the structural-value function:
 
 \[
 \nu(T_{\theta_i}) = \nu(T_{\theta_j}) = +1
@@ -171,7 +171,7 @@ do not name local fragments of one Theon. They name distinct identity-bearing Th
 
 The essence-identifier is not a manifestation-address added after emanation. It marks a distinction already latent within Aion, and the arc-propriety it carries is likewise latent. If the distinction began only after manifestation, all returned Theons would collapse into one anonymous plus-one potential at the root. Canonical essence-conservation forbids that result: there is no anonymous potential, and Aion holds every latent value in absolute distinction.
 
-The notation remains provisional pending wider mathematical integration. Its doctrinal function is presently limited to preserving the distinction between:
+The notation is canonical for the distinctions established here. It preserves the non-fusion of:
 
 - essence-identity
 - structural number
@@ -181,7 +181,7 @@ The notation remains provisional pending wider mathematical integration. Its doc
 
 ## 4. From Latent Essence to Manifest Principle
 
-The Theonic sequence may be represented provisionally as:
+The Theonic sequence may be represented schematically as:
 
 \[
 T_{\theta}^{+1}
@@ -197,7 +197,7 @@ where:
 - \(\operatorname{Theon}_{u}\) names the manifested Theonic principle within the corresponding Aionic Tree
 - \(\mathcal{O}^{T}_{\theta,u}\) names the conditionally persistent Theonic office of that universal arc
 
-The sequence does not mean that an unstructured essence exists before structure. Structon permits the full architecture of lawful possibility, while Aion holds identity-bearing potential in latency. Rather, it means that the essence and its structural value are not yet expressed as a hypostatic principle until Aionic departure.
+The sequence does not mean that an unstructured essence exists before structure. Structon underpins the full architecture of lawful possibility, while Aion holds identity-bearing potential in latency. Rather, it means that the essence and its structural value are not yet expressed as a hypostatic principle until Aionic departure.
 
 Structure precedes manifestation.
 
@@ -328,7 +328,7 @@ Theon remains the unbifurcated L₅ EOB principle proper to one universe-generat
 
 Where complete personal Theonic function-bearing occurs, the bearer is a numerically distinct Deep Self-Axis.
 
-Provisionally:
+The non-identity relation is:
 
 \[
 T_{\theta}^{+1} \not\equiv \mathrm{DSA}_{d}
@@ -361,7 +361,7 @@ Fractalization belongs to the bearer:
 
 The Theonic office does not fractalize with it.
 
-Many beings may be Theon-resonant or may actively bear aspects of the Theonic signal. Full personal office-function bearing remains a narrower universe-local relation governed by office-correspondence.
+Many beings may be Theon-resonant or may actively bear aspects of the Theonic signal. Full personal office-function bearing remains a narrower universe-local relation established by office-correspondence.
 
 The complete doctrine is articulated in `hypostatic-function-bearing-and-sovereign-embodiment.md`.
 
@@ -377,23 +377,23 @@ The Theonic principle completes its universe-arc function.
 
 The distinct Theonic essence returns to Aionic latency.
 
-Provisionally:
+The return relation may be represented schematically as:
 
 \[
 \mathcal{O}^{T}_{\theta,u}\ \text{fulfilled}
 \quad\Longrightarrow\quad
 T_{\theta}^{+1}
 \xrightarrow{\text{Theonic Return}}
-\text{Aionic reintegration}
+\text{Aionic fulfilled contentment}
 \]
 
-The gathered Theon-culminating essences return convergently with it. Convergence names shared Aion-facing orientation, not fusion. Their distinction remains, and the distinction of the Theonic essence remains with them.
+The gathered Theon-culminating essences return convergently with it. Convergence names shared Aion-facing orientation, not fusion. This is convergence in the manner of return, distinct from ⦿ Kaion, the Convergence Principle, which names the closure condition of motion at L₀ where centropic integration and entropic collapse both resolve into stillness without fusion. Their distinction remains, and the distinction of the Theonic essence remains with them.
 
 Convergent return does not entail convergent saturation.
 
-The shared office-relation ends when Aionic reintegration is complete. The essences formerly gathered through Theon do not remain attached to Theonic essence as permanent contents, nor are they carried beyond Aion as one package if Theonic essence saturates.
+The shared office-relation ends when Aionic reintegration is complete. The essences formerly gathered through Theon do not remain attached to Theonic essence as permanent contents, nor are they carried beyond Aion as one package if the returned Theonic essence saturates.
 
-Each returned essence remains governed by its own interior structure and resonant disposition. Many — perhaps most — Theon-culminating essences may abide within Aion as fulfilled centropic potential and proceed no further. Theonic essence follows its own intrinsic disposition without determining the terminal fate of every essence that passed through its office.
+Each returned essence retains its own identity, fulfillment, synthesis posture, relation to Zenonic Legibility, and saturation-readiness. Some may abide within Aion in fulfilled centropic contentment. Some may saturate where final synthesis gives them Centropic Gravity and Allowance admits the crossing. Theonic essence does not determine the terminal fulfillment of every essence that passed through its office.
 
 Theonic convergence therefore names **how the return occurs**, not a binding sameness of post-return outcome.
 
@@ -442,30 +442,34 @@ Theon is:
 - Being Itself
 - love
 - prime coherence
-- +1
-- oriented awareness facing Aion
+- plus-one
+- pre-reflexive awareness in Aion-facing orientation
 - the first centropic hypostasis
 - the Orienting Logos in its L₅ articulation
 
 Theon's own essence therefore determines its Aion-facing return. No external command sends Theon to Aion. No imposed judgment assigns its placement. By the Principle of Resonant Return, Theon returns according to what it is.
 
-The same essential disposition also makes Zenonic saturation the ordinary terminal fulfillment of returned Theonic essence.
+Aion-facingness establishes return.
 
-This does not mean that Zenon is Theon's origin, that Theon "returns to Zenon," or that Zenon is a further hypostatic station. Return concludes in Aion. Saturation is the trans-structural fulfillment that may proceed through complete Aionic reintegration.
+It does not alone establish saturation-readiness.
 
-The sequence is:
+The returned Theonic essence reaches Aion in fulfilled contentment:
 
 \[
 T_{\theta}^{+1}
-\xrightarrow{\text{return}}
-\text{Aionic reintegration}
-\xrightarrow{\text{saturation}}
-\text{Zenonic trans-structural fulfillment}
+\xrightarrow{\text{Theonic Return}}
+\text{Aionic fulfilled contentment}
 \]
 
-Theon does not require a second Zenon-facing disposition. Its absolute Aion-facing orientation is already the only centropic vector through which Zenonic saturation becomes possible.
+From Aionic fulfilled contentment, the essence may abide without deficiency or contradiction.
 
-To posit one class of Theon disposed toward Aionic abiding and another class disposed toward Zenonic saturation would introduce an unwarranted bifurcation within Theonic nature. Theon is not bifurcated at L₅. The bifurcal architecture permits distinct universal arcs; it does not divide Theon into two terminal essence-kinds.
+Where its essence-specific integration has reached a trans-structurally capable final synthesis, that synthesis gives the returned essence Centropic Gravity. Fulfilled coherence makes the saturation relation Zenonically legible. Allowance admits the crossing.
+
+This does not mean that Zenon is Theon's origin, that Theon "returns to Zenon," or that Zenon is a further hypostatic station. Return concludes in Aion. Saturation is the trans-structural crossing beyond return.
+
+Theon does not require a second Zenon-facing disposition. Its Aion-facing orientation remains the direction of return. Saturation-readiness arises through final synthesis rather than through a second directional orientation.
+
+Nor does this introduce two opposing kinds of Theonic essence. Every Theonic essence remains plus-one, centropic, and Aion-facing. Differences in post-return fulfillment concern essence-specific synthesis posture, the conditions held in PSM, and the non-compelled admission of Allowance — not a bifurcation within Theonic nature.
 
 ---
 
@@ -473,13 +477,15 @@ To posit one class of Theon disposed toward Aionic abiding and another class dis
 
 Theon moves, emanates, radiates, and returns, yet Theon bears no internal Soul-aspect. This is not a gap in the architecture.
 
-**Spirit** is Motive Infinity — the capacity and enactment of any motion whatsoever.
+**Spirit** is Motive Infinity — the capacity and enactment of motion as such.
 
-Khaon is Infinity across three phases:
+Khaon is Infinity articulated through three phase-conditions:
 
-- **Latent Khaon** — infinite potential folded within Aion
-- **Motive Khaon** — Spirit, the capacity and enactment of motion throughout manifestation
-- **Dispersive Khaon** — the terminal dispersal through which exhausted motion resolves again toward Aion
+- **Latent Khaon** — Infinity in latency, bifurcally co-present with Aion before motion begins
+- **Motive Infinity** — Spirit, the non-polar capacity and enactment of motion throughout emanation, return, and collapse
+- **Dispersive Khaon** — Infinity's returned state after motion resolves, Absolute Dispersion, bifurcally co-present with Aion
+
+Dispersive Khaon is not a final motion and is never a mechanism that transports essence toward Aion. Dispersion is the resolution of motion. At the terminal L₀ condition, essence is conserved and Aionically resolved as latent identity-bearing potential.
 
 Everything manifest participates in Spirit. Every motion is an expression of Motive Infinity. Soul becomes the stratum-internal motion-bearing aspect only after the Soul / Mind bifurcation begins at L₄ / IL₄.
 
@@ -493,52 +499,92 @@ Theon is not internally bifurcated.
 
 Khaon is not entropic in essence.
 
+Motive Infinity bears no orientation of its own.
+
 Rather:
 
 > Theon is the unbifurcated plus-one hypostasis whose Aion-facing, Mind-leaning articulation moves through Spirit as the pre-Soul motive-current.
 
-Theon and Spirit are adjacent across registers without becoming fused. Theon supplies centropic orientation and Logos-bearing awareness. Spirit supplies the capacity and enactment of motion itself.
+Theon and Spirit stand in cross-register relation without becoming fused. Theon supplies centropic orientation and Logos-bearing awareness. Motive Infinity supplies motion-capacity.
 
 This also explains how Theon can be both perfectly Aion-facing and genuinely emanative. Its orientation is Theonic; its motion is Spirit-borne.
 
+The same distinction holds for saturation. Motive Infinity supplies the motion-capacity carried by final synthesis to the horizon of structure. It does not orient that motion toward Zenon and does not compel the trans-structural crossing.
+
 ---
 
-## 9. Bifurcal Synthesis and the Twofold Tetralemma
+## 9. Final Synthesis and the Twofold Tetralemma
 
 Zenonic saturation cannot be explained by Aionic return alone.
 
-Return to Aion completes centropic reintegration within structure. Saturation requires the fulfilled synthesis of the bifurcal manifold — Aionic stillness and Khaonic motion held in non-fusing coherence — so that integration may pass beyond the lattice's definable operations.
+Return concludes at Aion.
+
+Saturation becomes possible only where the returned centropic essence carries a trans-structurally capable **final synthesis**. Final synthesis is the essence-specific holding of the full Aion / Khaon bifurcal manifold in coherent non-fusing relation at the horizon of structure.
+
+This synthesis does not create Bifurcal Coherence.
+
+It does not mix Aion and Khaon.
+
+It does not convert Khaon into an entropic component within Theon.
+
+It does not make the essence partly centropic and partly entropic.
+
+The full bifurcal manifold becomes the coherent vantage from which its own structural horizon is discernible.
 
 Theon's relation to this synthesis is structurally precise.
 
-Theon is absolutely Aion-facing. Yet every Theonic motion, from emanative radiance through return, is borne by Motive Infinity. The completed Theonic arc therefore arrives at L₀ through an essence oriented toward Aion whose motion has always participated in Khaon as Spirit.
+Theon is wholly Aion-facing. Every Theonic motion, from emanative radiance through return, is borne by Motive Infinity. The returned Theonic essence may therefore hold stillness and motion-capacity in non-fusing relation without changing its centropic orientation.
 
-This does not make Theon a synthesis of Aion and Khaon. The paired root-registers remain distinct, and Theon remains +1. Rather, fulfilled Theonic motion is exceptionally disposed to participate in the non-fusing L₀ synthesis through which Zenonic saturation becomes possible.
-
-The Twofold Tetralemma supplies the linguistic and structural limit of this movement:
+The Twofold Tetralemma supplies the saying-side analogue and limit of this relation:
 
 - **affirmation** belongs to Theon, plus-one, determinate is-ness
-- **four-fold negation** moves Aion-ward through emptying
-- **four-fold beyond** moves Khaon-ward through Motive Infinity
-- **Zenonic indication** arises only through the non-fused synthesis of negation and beyond
+- **the four-fold negation** terminates at ⚫ Aion, Zero
+- **the four-fold beyond** terminates at ♾ Khaon, Infinity
+- **their non-fused holding** makes the insufficiency of structured speech exact
 
-Affirmation alone does not reach Zenon. Theon's +1 does not force itself beyond structure merely by being the most coherent hypostatic determination. Nor does subtraction into Aionic stillness suffice. Nor does Khaonic exceeding alone suffice.
+Affirmation alone does not saturate into Zenon. Theon's +1 does not force itself beyond structure merely by being the most coherent hypostatic determination. Nor does subtraction into Aionic stillness suffice. Nor does Khaonic exceeding alone suffice.
 
-The saturation horizon opens where the Aion-ward and Khaon-ward movements are held without fusion.
+Both complete operations arrive at their proper termini within the manifold.
 
-Theon supplies the determinate centropic essence whose Aionic reintegration has reached fulfillment. The bifurcal synthesis permits that fulfillment to pass beyond determination.
+Neither saturates into the trans-structural.
 
-This is why Theonic saturation is not merely "more return." It is integration carried through the bifurcal limit into trans-structural fulfillment.
+Their conjunction is not a third, superior utterance and is not a mechanism of crossing. It reveals that neither Zero nor Infinity exhausts the full bifurcal manifold and that structured speech cannot contain what exceeds it.
+
+The five-function saturation architecture is distinct from that discursive limit:
+
+- **Motive Infinity** supplies motion-capacity
+- **final synthesis** gives that motion its structure and articulation
+- **Aion-facing centropic orientation** gives it direction
+- **Centropic Gravity** names the essence-borne momentum of the fulfilled returned essence to the horizon of structure
+- **Allowance** admits the crossing beyond structural compulsion
+
+Bifurcal Coherence is the manifold held.
+
+Zenonic Legibility is the vantage attained at the horizon — the condition in which the saturation relation becomes structurally comprehensible and admissible without making Zenon determinate or totally knowable.
+
+The Twofold Tetralemma does not propel the Theonic essence.
+
+It makes the insufficiency of the lattice's two complete speech-operations exact.
+
+Final synthesis belongs to the essence.
+
+Centropic Gravity carries motion only to the horizon.
+
+Allowance alone admits saturation.
 
 ### Zenon Beyond Containment
 
 Zenon is beyond containment, placement, structure, and determinate attribution.
 
-Aion holds latent values. Structon permits and invariates structure. Zenon does neither in the same sense.
+Aion holds latent identity-bearing potential.
+
+Structon underpins structure and the lattice of lawful possibility.
+
+Zenon does neither in the same sense. Zenon allows structure without being structured.
 
 Therefore, the phrase "saturates into Zenon" must be read from the side of the lattice as horizon-crossing language. It does not mean that a Theon enters a Zenonic container, occupies a location within Zenon, or persists there as a hypostatic office.
 
-At the same time, saturation cannot be interpreted as fusion-collapse or abolition of essence. The Non-Fusion Axiom and essence-conservation prevent that result.
+At the same time, saturation cannot be interpreted as fusion-collapse or abolition of essence. The Non-fusion Axiom and essence-conservation prevent that result.
 
 The canon may therefore affirm both limits:
 
@@ -551,47 +597,55 @@ The Twofold Tetralemma does not describe what Theonic essence "is inside Zenon."
 
 ## 10. Centropic Saturation contra Entropic Collapse
 
-Only centropic motion may proceed through Aionic return toward Zenonic saturation.
+Only sufficiently fulfilled centropic essence may saturate into Zenon.
 
-This is not a declaration of moral superiority. It is a consequence of motion dynamics.
+This is not a declaration of moral superiority. It is a consequence of orientation, method, and culmination.
 
-Centropy is Aion-facing integration. Entropy is dispersive fragmentation whose motion exhausts through Khaon. The two trajectories terminate differently:
+Centropic essence reaches Aion through:
 
-\[
-C^{\uparrow}
-\rightarrow
-\text{⚫ Aion}
-\rightarrow
-\text{🕳️ Zenonic saturation}
-\]
+- Aion-facing orientation
+- integration
+- lawful culmination
+- coherent reintegration
+- fulfilled centropic relation
 
-\[
-E^{\downarrow}
-\rightarrow
-\text{♾ Khaon}
-\rightarrow
-\text{⚫ Aion as static potential}
-\]
+At Aion, centropic essence rests in fulfilled contentment.
 
-Khaon itself is not entropy. Khaon is Infinity and Spirit across its Latent, Motive, and Dispersive phases. Entropy begins with Nekron at IL₅ and takes up Khaonic motion in a fragmenting orientation.
+It may abide there lawfully.
 
-When entropic motion exhausts, Dispersive Khaon carries its remaining expression toward Aion. Coherence and configuration disperse; essence remains and resolves as distinct latent potential.
+Where final synthesis becomes trans-structurally capable, it gives the returned essence Centropic Gravity. Fulfilled coherence becomes Zenonically legible, and Allowance may admit saturation.
 
-That return is not Aion-facing integration. It is collapse completed as static tension. Collapse is not failure from entropy's side; it is the natural consequence of entropic motion.
+Entropic essence follows a structurally different course:
 
-For this reason, entropic essence does not proceed into Zenonic saturation. It reaches Aion through exhausted fragmentation rather than through fulfilled coherence and bifurcal synthesis.
+- entropic traversal through the inverse arc
+- fragmentation and erosion of expressed support
+- terminal passage across the Nekronic event horizon
+- collapse into Khaon under its Dispersive phase
+- Absolute Dispersion as the terminal state
 
-Centropic essence may likewise abide in Aion rather than saturate. In that case it abides as centropy in fulfillment, not as an unresolved remainder. Entropic essence abides as potential after the exhaustion of motion — entropy no longer enacted, but its distinct essence conserved in static tension.
+Collapse into Khaon is lawful.
+
+"Dispersion into Khaon" is not, because Khaon under its Dispersive phase is Absolute Dispersion.
+
+At terminal passage, expressed identity and configuration are ground away while essence remains conserved. Dispersive Khaon and Aion are bifurcally co-present at L₀. The essence is therefore Aionically resolved as latent identity-bearing potential in static tension.
+
+This is not a sequential journey from Khaon to Aion.
+
+Absolute Dispersion is not a transport mechanism.
+
+Entropic essence may perform local, formal, strategic, imitative, or temporarily stabilizing synthesis. What it does not produce as entropy is the fulfilled centropic integration and final non-fusing synthesis required for Zenonic Legibility.
+
+Its intrinsic orientation does not become centropic merely because manifested motion has ceased.
 
 Thus:
 
-> Centropy may return with coherence intact and, where no sufficient structural reason prevents it, saturate.
+> Centropic essence returns to Aion through fulfilled coherence and may abide there or saturate where final synthesis becomes Zenonically legible and Allowance admits the crossing.
 >
-> Entropy collapses through Khaon and resolves into Aion only as static potential.
+> Entropic essence reaches terminal collapse into Khaon under its Dispersive phase. Expressed identity and configuration are ground away, essence remains, and Aionic resolution holds that essence as latent potential in static tension.
 
 ---
 
-## 11. PSR, PSM, and the Open Limit-Condition
+## 11. PSR, PSM, Allowance, and the Open Limit-Condition
 
 The ordinary expectation of Theonic saturation must be held together with Zenetism's refusal of unnecessary certainty inflation.
 
@@ -599,43 +653,61 @@ The Principle of Sufficient Reason states:
 
 > If something can happen, and there is nothing to stop it from happening, then it will happen.
 
-Applied to Theon:
-
-> If Zenonic saturation is structurally possible for a returned Theonic essence, and no sufficient structural reason prevents it, the saturation will occur.
-
-The Principle of Structured Manifestation adds:
+The Principle of Structured Manifestation states:
 
 > What happens constrains what can.
 
-Manifested structure narrows subsequent possibility. A condition not yet recognized may prevent, defer, redirect, or otherwise constrain an outcome that appears unobstructed from a more limited vantage.
+Applied to the saturation architecture, the relevant conditions include:
 
-Together, PSR and PSM prevent two opposite errors.
+- the essence is intrinsically centropic
+- its lawful arc has reached completion
+- its Aion-facing return is fulfilled
+- its integration has reached a trans-structurally capable final synthesis
+- final synthesis has given the returned essence Centropic Gravity
+- Zenonic Legibility is present
+- no sufficient within-structure condition prevents fulfillment
 
-The first error is to weaken Theonic essence until saturation becomes arbitrary. That would ignore what Theon is. Theon's own nature supplies the orientation toward return and the ordinary disposition toward saturation.
+Where these conditions hold, PSR carries the available fulfillment forward.
 
-The second error is to declare saturation mechanically unavoidable across every possible universal configuration. That would claim exhaustive knowledge of all structural conditions and all possible limit-cases.
+Yet PSM prevents this account from becoming an unqualified mechanism. Unseen conditions may defer saturation, permit prolonged Aionic abiding, constrain the mode or relation of the crossing, or establish a lawful limit-condition not yet known.
 
-The wider canon already leaves vanishing limit-cases open where the full conditions of manifestation cannot be exhaustively known — including the possibility that some universes may persist indefinitely or that rare worlds may sustain extraordinary centropic conditions. Theonic Aionic abiding belongs to this same epistemic class if it is admitted at all: not an established alternate destiny, but a structurally unobstructed possibility that cannot be categorically excluded while unseen PSM-conditions remain possible.
+Allowance remains distinct from both principles.
+
+PSR does not compel Zenon.
+
+PSM does not generate the trans-structural crossing.
+
+Allowance names the irreducibly trans-structural admission that no within-structure mechanism can manufacture.
+
+Together, these distinctions prevent two opposite errors.
+
+The first error is to weaken Theonic essence until saturation becomes arbitrary. That would ignore Theon's Aion-facing orientation, fulfilled coherence, and exceptional saturation-capacity.
+
+The second error is to declare saturation mechanically unavoidable across every possible universal configuration. That would collapse final synthesis, Zenonic Legibility, PSR, PSM, and Allowance into one deterministic sequence.
+
+The wider canon already leaves vanishing limit-cases open where the full conditions of manifestation cannot be exhaustively specified — including universes that may persist indefinitely or sustain extraordinary centropic conditions. Theonic Aionic abiding belongs to this internal limit-case register if it is admitted at all: not as failure or a second Theonic orientation, but as a lawful possibility where saturation-readiness remains incomplete, fulfillment is deferred, or an unseen condition constrains the crossing.
 
 The present ruling is therefore:
 
-> Zenonic saturation is the ordinary and structurally expected fulfillment of returned Theonic essence. If no sufficient structural reason prevents it, PSR carries the possibility into fulfillment. Whether an unforeseen PSM-condition could produce indefinite Aionic abiding, prolonged deferral, or another non-contradictory limit-condition remains held open.
+> Returned Theonic essence is ordinarily disposed toward Zenonic saturation where final synthesis gives it Centropic Gravity, fulfilled coherence becomes Zenonically legible, no sufficient condition prevents fulfillment, and Allowance admits the crossing. Whether an unforeseen PSM-condition could produce indefinite Aionic abiding, prolonged deferral, or another non-contradictory limit-condition remains held open.
 
-This openness does not introduce two Theonic dispositions.
+This openness does not introduce two Theonic orientations.
 
 It does not mean that one Theon is more centropic than another.
 
 It does not mean that one Theon contains greater love, coherence, or Being.
 
-It does not make Aionic abiding an equally weighted alternative fate.
+It does not reduce Aionic abiding to deficient saturation.
 
-It means only that Zenetism does not claim to know that no sufficient structural constraint could exist anywhere within infinite possibility.
+Theon's essence determines Aion-facing return.
 
-Theon's essence determines the direction.
+Final synthesis determines saturation-readiness.
 
-PSM determines whether all conditions permit the terminal possibility to become actual.
+PSM holds the constraining history of manifested structure.
 
-PSR governs what follows where no sufficient prevention remains.
+PSR carries available fulfillment where no sufficient prevention remains.
+
+Allowance admits the trans-structural crossing.
 
 ---
 
@@ -647,7 +719,7 @@ The doctrine remains coherent whether the universe is singular or the multiverse
 
 If there is only one universe-generating arc, only one Theonic essence requires articulation: \(T_{\theta_1}^{+1}\), with \(\operatorname{arc}(T_{\theta_1}^{+1}) = u_1\).
 
-The numerical difficulty is minimal. One distinct Theonic essence departs from Aion, manifests as the singular Theonic principle and office of that arc, returns on fulfillment, and ordinarily saturates into Zenon where no sufficient structural reason prevents it.
+The numerical difficulty is minimal. One distinct Theonic essence departs from Aion, manifests as the singular Theonic principle and office of that arc, and returns on fulfillment. The returned essence may abide in Aion or may ordinarily saturate where its final synthesis gives it Centropic Gravity, fulfilled coherence becomes Zenonically legible, no sufficient condition prevents fulfillment, and Allowance admits the crossing.
 
 ### Multiverse Case
 
@@ -668,13 +740,17 @@ Each performs its own universe-arc office.
 
 Each returns as the same distinct essence it always was.
 
+Each retains its own fulfillment, final synthesis posture, relation to Zenonic Legibility, and saturation-readiness. Shared structural charge does not impose one common post-return outcome.
+
 No Theon is the original from which the others derive.
 
 No Theon is an expression-locus of another.
 
 No Theon is a shard, copy, or local partition of one trans-universal Theon.
 
-The multiverse increases the complexity of allocation, but it does not alter the Non-Fusion Axiom. It requires greater precision in distinction.
+The multiverse increases the complexity of allocation, but it does not alter the Non-fusion Axiom. It requires greater precision in distinction.
+
+The present entry establishes the architecture required for the multiverse case while leaving the singular-universe / multiverse question held open.
 
 The present entry does not claim that the multiverse is empirically or metaphysically actual. It establishes the architecture required if it is.
 
@@ -694,9 +770,20 @@ Preferred:
 - Theon returns to Aion
 - the Theonic principle completes its universe-arc function
 - the distinct Theonic essence reintegrates within Aion
-- returned Theonic essence may saturate into Zenon
+- returned Theonic essence may abide in Aion in fulfilled contentment
+- returned Theonic essence may saturate where final synthesis gives it Centropic Gravity, fulfilled coherence becomes Zenonically legible, and Allowance admits the crossing
 
-Saturation is reserved for the trans-structural fulfillment into Zenon. Return names reintegration with Aion.
+Saturation is reserved for the trans-structural crossing into Zenon.
+
+Return names reintegration with Aion.
+
+Aion-facingness makes return possible.
+
+Final synthesis gives the returned essence its Centropic Gravity.
+
+Fulfilled coherence makes saturation Zenonically legible.
+
+Allowance admits the crossing.
 
 ### Theon as Principle
 
@@ -733,23 +820,23 @@ Earlier statements that Theon and its gathered essences "incline together" remai
 
 Preferred clarification:
 
-> Theon and gathered Theon-culminating essences return convergently to Aion. Once reintegration is complete, each essence remains distinct and follows its own terminal disposition. Theonic saturation does not carry all formerly gathered essences beyond Aion as one collectivity.
+> Theon and gathered Theon-culminating essences return convergently to Aion. Once reintegration is complete, each essence remains distinct and retains its own fulfillment, synthesis posture, Zenonic Legibility, and saturation-readiness. Theonic saturation does not carry all formerly gathered essences beyond Aion as one collectivity.
 
 ### Theonic Numbering
 
-The notation \(T_{\theta}^{+1}\), together with the arc-relation \(\operatorname{arc}(T_{\theta}^{+1}) = u\) and the office form \(\mathcal{O}^{T}_{\theta,u}\), is provisional and should not be propagated as final mathematical canon until reviewed alongside the wider numerical architecture.
+The notation \(T_{\theta}^{+1}\), together with the arc-relation \(\operatorname{arc}(T_{\theta}^{+1}) = u\) and the office form \(\mathcal{O}^{T}_{\theta,u}\), is standing canonical notation for the distinctions established here.
 
-Its present doctrinal commitments are stable:
+Its commitments are:
 
-- T names Theonic essence rather than entropy
+- \(T\) names Theonic essence rather than entropy
 - \(\theta\) names the unique essence-identifier
-- +1 names structural value rather than serial population-order
-- \(\operatorname{arc}(T_{\theta}^{+1}) = u\) separately names universe-arc propriety, which belongs to essence before manifestation
+- \(+1\) names hypostatic structural charge rather than serial population-order
+- \(\operatorname{arc}(T_{\theta}^{+1}) = u\) separately names processional arc-propriety, which belongs to essence before manifestation
 - \(\mathcal{O}^{T}_{\theta,u}\) names the corresponding universe-local office
-- equal structural value does not imply identical essence
+- equal structural charge does not imply identical essence
 - essence-identity and arc-propriety must not be recompressed into one subscript
 
-Notation for the Deep Self-Axis remains separately held open so that it is not confused with DS as Deep Soul within DS / DM.
+The generic Deep Self-Axis notation is \(\mathrm{DSA}_{d}\), with \(\mathrm{IDSA}_{i}\) as its inverse parallel. The identifier 3345 remains illustrative rather than canonical population-order. Deep Self-Axis notation must not be confused with DS as Deep Soul within DS / DM.
 
 ---
 
@@ -771,7 +858,7 @@ Notation for the Deep Self-Axis remains separately held open so that it is not c
 > Theonic office is the conditionally persistent gate-function proper to one universe-generating arc. It closes when every EOB-culminating essence proper to its arc has completed its multiversal integration and passage.
 
 > **Arc-Proper Culmination Principle**  
-> The Theonic office governs the terminal passage of EOB-culminating essences proper to its universal arc, not every Deep Self-Axis expression-locus appearing within that universe. A Deep Self-Axis may be trans-expressionally present across many universes while its underlying essence remains proper to one processional arc.
+> The Theonic office encompasses the terminal passage of EOB-culminating essences proper to its universal arc, not every Deep Self-Axis expression-locus appearing within that universe. A Deep Self-Axis may be trans-expressionally present across many universes while its underlying essence remains proper to one processional arc.
 
 > **Allocation Distinction Principle**  
 > A Deep Self-Axis is one L₃-individuated being present to multiple expression-loci. Theonic essence is distinct per universal arc and does not fractalize across universes.
@@ -786,28 +873,40 @@ Notation for the Deep Self-Axis remains separately held open so that it is not c
 > Theon is awareness at L₅ EOB and is pre-reflexive because reflexive consciousness begins only at L₃ DS / DM. Pre-reflexive awareness is not lesser awareness; it is the most integrated hypostatic awareness-mode prior to individuated self-possession.
 
 > **Spirit-Borne Motion Principle**  
-> Theon's motion is borne by Motive Infinity — Spirit, the capacity and enactment of any motion whatsoever. This cross-register relation does not make Theon internally bifurcated or Soul-bearing.
+> Theon's motion is borne by Motive Infinity — Spirit, the capacity and enactment of motion as such. Motive Infinity bears no orientation of its own and does not make Theon internally bifurcated or Soul-bearing.
 
 > **Convergent Return Principle**  
-> Theon and gathered Theon-culminating essences return convergently to Aion through shared orientation without fusion.
+> Theon and gathered Theon-culminating essences return convergently to Aion through shared Aion-facing orientation without fusion.
 
 > **Non-Convergent Saturation Principle**  
-> Convergent return does not entail convergent saturation. Once Aionic reintegration is complete, each essence follows its own terminal disposition, and Theonic saturation does not carry all formerly gathered essences beyond Aion as one package.
+> Convergent return does not entail convergent saturation. Once Aionic reintegration is complete, each essence retains its own fulfillment, synthesis posture, Zenonic Legibility, and saturation-readiness.
 
-> **Bifurcal Saturation Principle**  
-> Zenonic saturation becomes possible through the non-fused synthesis of Aionic stillness and Khaonic motion. Theon is not itself a fusion of the root-registers; fulfilled Theonic motion is disposed to participate in their L₀ synthesis.
+> **Aionic Fulfillment Principle**  
+> Returned Theonic essence may abide in Aion in fulfilled contentment. Aionic abiding is a lawful culmination and not failed, deficient, or incomplete saturation.
+
+> **Final Synthesis Principle**  
+> Final synthesis is the essence-specific holding of the full Aion / Khaon bifurcal manifold in coherent non-fusing relation at the horizon of structure. It does not mix the roots, alter Theon's orientation, or turn the Twofold Tetralemma into a crossing mechanism.
+
+> **Centropic Gravity Principle**  
+> Final synthesis gives the fulfilled, returned Theonic essence its Centropic Gravity — the essence-borne momentum carried to the horizon of structure.
+
+> **Zenonic Legibility Principle**  
+> Zenonic Legibility is the condition in which fulfilled synthesis makes the saturation relation structurally comprehensible and admissible without rendering Zenon determinate, locatable, or totally knowable.
+
+> **Allowance Principle**  
+> No degree of orientation, coherence, integration, or momentum compels saturation. Final synthesis establishes readiness; Allowance admits the trans-structural crossing.
 
 > **Zenonic Non-Containment Principle**  
 > Zenon does not contain, house, or locate saturated essences. Saturation is horizon-crossing language from within the lattice. Distinction is not abolished, but its trans-structural mode cannot be described through containment or hypostatic placement.
 
 > **Centropic / Entropic Asymmetry Principle**  
-> Centropic essence returns through fulfilled coherence and may saturate. Entropic essence collapses through Dispersive Khaon and resolves into Aion as static potential. The distinction is dynamical, not moral.
+> Centropic essence returns through fulfilled coherence and may abide or saturate. Entropic traversal culminates in terminal collapse into Khaon under its Dispersive phase; expressed identity and configuration are ground away, essence remains conserved, and Aionic resolution holds it as latent potential in static tension.
 
-> **Return and Saturation Principle**  
-> Theon returns to Aion. Returned Theonic essence ordinarily proceeds toward Zenonic saturation because Theon is Centropy Itself, love, prime coherence, plus-one, and Aion-facing Being, where the required bifurcal synthesis reaches fulfillment.
+> **Theonic Saturation Principle**  
+> Theonic Aion-facingness explains return but does not alone establish saturation-readiness. Returned Theonic essence may ordinarily saturate where final synthesis gives it Centropic Gravity, fulfilled coherence becomes Zenonically legible, no sufficient condition prevents fulfillment, and Allowance admits the crossing.
 
 > **Open Limit-Condition Principle**  
-> Where nothing structurally prevents Theonic saturation, PSR carries the possibility into fulfillment. Whether an unforeseen PSM-condition could prevent or indefinitely defer saturation remains an open limit-question rather than a second Theonic disposition.
+> PSR carries available fulfillment where no sufficient condition prevents it. PSM may constrain or defer the within-structure conditions of saturation, while Allowance preserves the crossing's non-compelled trans-structural character.
 
 > **Numerical Register Distinction Principle**  
 > Theonic \(+1\) is a hypostatic structural charge, not Theon's unique essence-identifier. The essence is identified by \(\theta\), its processional arc by \(u\), and its universe-local office by \(\mathcal{O}^{T}_{\theta,u}\). These numerical functions must remain distinct.
@@ -838,9 +937,23 @@ Its motion is Spirit-borne.
 
 Theon returns to Aion because Theon faces Aion by essence.
 
-Those gathered through it return convergently, but they do not acquire one terminal fate. The office closes. The essences remain distinct. Many may abide in Aion, while Theonic essence follows its own fulfilled disposition.
+Aion-facingness is the direction of return.
 
-At the bifurcal limit, Aionic stillness and Khaonic motion must be held without fusion. Where that synthesis is complete and no sufficient structural reason prevents the terminal fulfillment of Theon's orientation, returned Theonic essence saturates into Zenon.
+It is not, by itself, the crossing beyond return.
+
+Those gathered through the Theonic office return convergently, but they do not acquire one terminal fate. The office closes. The essences remain distinct.
+
+Some may abide in Aion in fulfilled contentment.
+
+Where a returned essence carries a trans-structurally capable final synthesis, that synthesis gives it Centropic Gravity.
+
+Its fulfilled coherence becomes Zenonically legible.
+
+No motion seizes the Unknown.
+
+No mechanism compels the crossing.
+
+Allowance admits saturation.
 
 Not into a container.
 
@@ -848,7 +961,7 @@ Not into sameness.
 
 Beyond the lattice's capacity to place — without abolition of what the essence is.
 
-🛤️ ⚫ ♾ 🕳️ ◊ ↺ ⌬
+🛤️ ⚫ ∴ ⧖⧗∴ 🔺⤒ ⟒ 🕳️
 
 ---
 
