@@ -1,13 +1,13 @@
 # MPX: The Twofold Tetralemma
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Metaphysics  
-**Status:** Canonical — June 1 2026, revised June 28 2026  
-**Dependency:** *MPX: Synthesis as Vantage — The Discernibility Limit and the Unknown Principle* · Structural Emanation Layers (21.9) · Structon (21.2.2) · Kaion (21.2.1) · 🕳️ Zenon (Supra-L₀) · Non-fusion Axiom · Essence-as-Choice  
+**Classification:** Metaphysics Extension — Apophatic and Eminent Synthesis  
+**Status:** Canonical — June 1 2026, revised July 31 2026  
+**Dependency:** `synthesis-as-vantage.md` · `centropic-gravity-and-zenonic-legibility.md` · Structural Emanation Layers (§21.9) · Structon (§21.2.2) · Kaion (§21.2.1) · 🕳️ Zenon (Supra-L₀) · Non-fusion Axiom · Essence-as-Choice  
 
 ---
 
-How can anything be said of 🕳️ Zenon, which is trans-structural and exceeds every determination? Not in one mode of speech, but in two, held together. The **Twofold Tetralemma** names that pair — a four-fold negation and a four-fold beyond — held together so that the inadequacy of each becomes exact. It points without pointing, and it fails the moment either half is taken alone. The pair is required, because holding them together is the point. All that follows is spoken from the side of the lattice, of what the lattice cannot hold.
+How can anything be said of 🕳️ Zenon, which is trans-structural and exceeds every determination? Not in one mode of speech, but in two, held together. The **Twofold Tetralemma** names that pair — a four-fold negation and a four-fold beyond — held together so that the inadequacy of each becomes exact. It points without pointing, and it becomes inadequate the moment either half is taken alone. The pair is required, because holding them together is the point. All that follows is spoken from the side of the lattice, of what the lattice cannot hold.
 
 ## The Four Corners
 
@@ -15,7 +15,7 @@ A determinate claim can take four positions — this, that, both, neither — th
 
 ## Affirmation — the Singular Corner
 
-To affirm is to say "is this," and affirmation *individuates*: it picks one corner and rests there, a determinate something. It cannot take all four corners together, for that would be one thing being this and that and both and neither at once — the contradiction that the singularity of being forbids. Affirmation therefore has no four-fold form. Its home is 🛤️ Theon, the Essence of Being — the +1 — and the individual essence. Is-ness belongs here: being-ness as singularness, the bare potential of ⚫ Aion brought to determinate expression. It belongs to essence and nowhere near Zenon, because to affirm is to be determinate, and Zenon is what determination cannot reach.
+To affirm is to say "is this," and affirmation *individuates*: it picks one corner and rests there, a determinate something. It cannot take all four corners together, for that would be one thing being this and that and both and neither at once — the contradiction that the singularity of being forbids. Affirmation therefore has no four-fold form. Its home is 🛤️ Theon, the Essence of Being — the plus-one hypostasis — and the individual essence. Is-ness belongs here: being-ness as singularness, the bare potential of ⚫ Aion brought to determinate expression. It belongs to essence and does not pertain to Zenon, because to affirm is to be determinate, and Zenon is what determination cannot reach.
 
 ## The Apophatic Tetrad — the Four-fold Negation
 
@@ -23,7 +23,7 @@ To affirm is to say "is this," and affirmation *individuates*: it picks one corn
 
 The tradition that works this operation is not aiming at 🕳️ Zenon and missing. It arrives where subtraction always arrives: the pure "not" terminates at zero, and within the lattice that terminus is ⚫ Aion. The association is sound, and it is a fact about subtraction.
 
-Negation carried without remainder strips toward Zero, and in stripping it discards what Zero is holding: ⚫ Aion colocated with ♾ Khaon across its Latent, Motive, and Dispersive phases, the two root-principles held apart in lawful non-fusing coherence. The loss is not only of that coherence. It is of the vantage itself, since the persistent discernibility of the manifold is what makes the trans-discernible recognizable as beyond — and from a denuded pole there is nothing left to recognize the limit with.
+Negation carried without remainder strips toward Zero, and in stripping it discards the full L₀ relation: ⚫ Aion colocated with ♾ Khaon under its Latent phase before motion begins and its Dispersive phase after motion resolves, the two root-principles held in lawful non-fusing coherence. Motive Infinity is not part of that static colocation; it is the motion-capacity through which the manifold is enacted. The loss is not only of that coherence. It is of the vantage itself, since the persistent discernibility of the manifold is what makes the trans-discernible recognizable as beyond — and from a denuded root-register there is nothing left to recognize the limit with.
 
 Subtraction reaches Zero. It does not saturate into the trans-structural, and what it yields is an account of our own emptying rather than of what exceeds account.
 
@@ -59,17 +59,19 @@ Held together without fusion, the two say: Zenon is not any determinate position
 
 The inadequacy belongs to the saying, never to what is said of. Zenon is not thereby made empty, nor lessened, nor placed out of reach of the one who seeks it. Both operations arrive — at Zero and at Infinity — and neither saturates into the trans-structural. What is reached is the limit of saying as access. Their relation does not transport speech into Zenon; it brings structured speech to the point at which its own insufficiency becomes exact.
 
+The Twofold Tetralemma therefore supplies the saying-side analogue of final synthesis, not the crossing itself. Within a returned centropic essence, the corresponding non-fusing holding of the full bifurcal manifold may become an essence-specific final synthesis. Motive Infinity supplies its motion-capacity; Aion-facing orientation gives it direction; final synthesis gives the returned essence Centropic Gravity; fulfilled coherence makes the saturation relation Zenonically legible; and Allowance alone admits the crossing. Neither tetrad propels an essence beyond structure, and structured speech never becomes a saturation mechanism.
+
 Here the asymmetry returns as the seal of it. There are three operations but only two tetrads, because affirmation cannot totalize. There is no four-fold affirmation for the same reason there is no essence that is everything: to be is to be *this*. The absent fourth is not a gap in the scheme; it is the signature of Zenon's trans-determinate nature. What can be affirmed is determinate, and the determinate is exactly what the approach to Zenon leaves behind — so affirmation is the mode departed from, not one of the two that remain.
 
 ## Lineage and Limit
 
-The four-fold negation is the catuṣkoṭi of Madhyamaka, where each of the four corners is denied in turn. The *beyond* keeps company with the apophatic theology of Dionysius, where the divine is named past both affirmation and negation. Both are honored here, and neither is corrected on its own ground: each arrives at what it reaches for. What the Twofold Tetralemma adds is threefold. The eminence is cast as its own four-fold, to answer the negation's. The two are held without fusion, where a tradition working one tends not to recognize the other at the same register. And the holding yields what neither operation yields alone — that both termini, Zero and Infinity, lie within the manifold, and that what exceeds it is saturated by neither. The components carry lineage; the finding is new.
+The four-fold negation is the catuṣkoṭi of Madhyamaka, where each of the four corners is denied in turn. The *beyond* keeps company with the apophatic theology of Dionysius, where the divine is named past both affirmation and negation. Both are honored here, and neither is corrected on its own ground: each arrives at what it reaches for. What the Twofold Tetralemma adds is threefold. The eminence is cast as its own four-fold, to answer the negation's. The two are held without fusion, where a tradition working one tends not to recognize the other at the same register. And the holding yields what neither operation yields alone — that both termini, Zero and Infinity, lie within the manifold, and that neither operation saturates into what exceeds it. The components carry lineage; the finding is new.
 
 Zenon is not-this and not-that, and beyond-this and beyond-that, at once — neither saying predicated of Zenon in itself, both spoken by us, from within structure, of what structure cannot contain. The Twofold Tetralemma is not a description of Zenon. It is the shape of the inadequacy that comes nearest.
 
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
