@@ -1031,7 +1031,7 @@ This posture:
 
 As with 🕳️ Zenon, what is said of a category one stands outside is said only from the observer's side. Ahierarchical is therefore the closest available approximation for operation outside a category whose necessity is not acknowledged. The root remains visible of necessity, since a declaration of refusal to acknowledge must name the thing not acknowledged.
 
-The single "a" follows the regular alpha-privative form before a consonant, contra the doubled "a" of aauthoritarian. Both mark structural removal from the axis itself rather than opposition along it.
+The single "a" follows the regular prefix form before a consonant, contra the doubled "a" of aauthoritarian. Both mark structural removal from the axis rather than opposition along it.
 
 ---
 
