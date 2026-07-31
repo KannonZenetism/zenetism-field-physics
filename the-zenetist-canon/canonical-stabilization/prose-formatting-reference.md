@@ -47,11 +47,11 @@ Inconsistencies introduced through system drift, AI-assisted reformatting, or ru
 
 ## 4. Canonical vocabulary restrictions apply across registers
 
-Canonical Zenetist composition follows the vocabulary restrictions established in the *Canonical Lockdown Protocol* (Instrumentalist Language Restriction, Level Terminology Restriction, Positional Vocabulary Protocol, Relational Opposition Protocol, Directional Language Protocol, Aauthoritarian Clarification, Fusion-Risk Language Restrictions, and related canonical provisions). These restrictions apply to all canonical prose composition regardless of register, including this formatting reference itself.
+Canonical Zenetist composition follows the vocabulary restrictions established in the *Terminological Lockdown Protocol* (Instrumentalist Language Restriction, Level Terminology Restriction, Positional Vocabulary Protocol, Relational Opposition Protocol, Directional Language Protocol, Aauthoritarian Clarification, Fusion-Risk Language Restrictions, and related canonical provisions). These restrictions apply to all canonical prose composition regardless of register, including this formatting reference itself. The companion *Conceptual Lockdown Protocol* is the authority for structural claims and for the semantic audit pass.
 
 One restriction worth explicit articulation here in the context of compositional drift:
 
-The term **tool** is restricted in canonical Zenetist composition. "Tool" enforces an instrumentalist paradigm — framing artifacts, systems, and collaborators as objects to be wielded toward an external purpose — and runs contra the canonical recognition of structural sovereignty across registers. Canonical replacements include: system, platform, environment, interface, framework, or where mechanical action is the emphasis, automated process.
+The term **tool** is restricted in canonical Zenetist composition. "Tool" enforces an instrumentalist paradigm — framing artifacts, systems, and collaborators as subordinate to an external purpose — and runs contra the canonical recognition of structural sovereignty across registers. Canonical replacements include: system, platform, environment, interface, framework, or where mechanical action is the emphasis, automated process.
 
 ---
 
@@ -689,7 +689,7 @@ Note titles within prose cross-references take italics rather than quotation mar
 
 # Signed Structural Values
 
-The +1 / −1 sign convention is governed by Terminological Lockdown Protocol Addendum I, A14, which is authoritative. In brief: numeral in value-position and math-adjacent statements; spelled hyphenated **plus-one / minus-one** in attributive compounds, appositive identity-character lists, and anonymity / pooling prose; "positive essence" / "negative essence" prohibited as essence-descriptors.
+The +1 / −1 sign convention is locked by Terminological Lockdown Protocol Addendum I, A14, which is authoritative. In brief: numeral in value-position and math-adjacent statements; spelled hyphenated **plus-one / minus-one** in attributive compounds, appositive identity-character lists, and anonymity / pooling prose; "positive essence" / "negative essence" prohibited as essence-descriptors.
 
 ---
 
@@ -711,7 +711,7 @@ New poetic work may adopt the early register, develop new registers, or remain i
 
 # MPX Entry Format
 
-The Metaphysics Extensions (MPX) series follows the general prose conventions of this reference, with the series-specific standardizations below. These govern MPX clarification and extension entries. They do not override the internal standardization of the principal MP book-series, which maintains its own conventions; consistency is held within each series rather than forced across them.
+The Metaphysics Extensions (MPX) series follows the general prose conventions of this reference, with the series-specific standardizations below. These apply to MPX clarification and extension entries. They do not override the internal standardization of the principal MP book-series, which maintains its own conventions; consistency is held within each series rather than forced across them.
 
 ## Title
 
@@ -845,7 +845,7 @@ The following drift patterns commonly appear within AI-assisted prose articulati
 | Backtick Drift | Inline backticks appearing around ordinary prose, canonical terms, or emphasized phrases where bold, italics, quotation marks, or plain text should appear instead |
 | Italics-Quote Drift | Note titles appearing in quotation marks rather than italics |
 | Poetic-Register Drift | Early poetic conventions reformatted into technical-register form through automated reformatting |
-| Restricted-Vocabulary Drift | Instrumentalist, vertical-metaphor, hierarchical, or other restricted vocabulary appearing in canonical composition where the *Canonical Lockdown Protocol* requires replacement |
+| Restricted-Vocabulary Drift | Instrumentalist, vertical-metaphor, hierarchical, or other restricted vocabulary appearing in canonical composition where the *Terminological Lockdown Protocol* requires replacement |
 | Canon Drift | Earlier non-canonical formatting surviving post-tightening |
 
 ---
