@@ -88,7 +88,7 @@ The anchors that follow trace the *elements themselves* to their earliest appear
 
 And beyond the fragment form, the register includes **cascading-indentation composition**, in which the spatial arrangement itself carries structural meaning — the declivity of the lines enacts the declivous motion they describe, bullets and glyphs are placed by design, and section dividers structure the whole. This is not quotable as a line; it is architecture on the page. The opening of the canonical origin composition (§1.1, from the 1,059-page origin document; indentation, bullets, glyphs, and dividers preserved from the origin file):
 
-> **1.1 The Unknowable Abyss — **  
+> **1.1 The Unknowable Abyss —**   
 > **The Silent Origin Before All Motion and Meaning**
 >
 > • Before **existence**  
