@@ -1,7 +1,7 @@
 # Conceptual Lockdown Protocol
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Status:** Working draft — first extraction from the FP01–FP11 / FPX Session Addenda, pending architect review  
+**Status:** Working draft — first compilation from the FP01–FP11 / FPX Session Addenda, pending architect review  
 **Provenance:** Rulings already applied across the edited corpus during the canon-alignment cycle  
 **Companion to:** the Terminological Lockdown Protocol (lexical guardrail) and the Glyph Codex (notation registry)  
 
@@ -9,7 +9,7 @@
 
 ## Purpose
 
-The Terminological Lockdown Protocol governs which words may appear in canonical Zenetist writing. This protocol governs which structural claims are lawful. The two serve different audit passes.
+The Terminological Lockdown Protocol establishes which words may appear in canonical Zenetist writing. This protocol establishes which structural claims are lawful. The two serve different audit passes.
 
 A terminological violation is lexical and searchable — a banned term either appears or it does not. A conceptual violation is semantic — an unlawful claim can be phrased in unlimited ways, and is caught only by reading for what a passage asserts. This protocol is the enforcement index for that semantic pass.
 
@@ -133,7 +133,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 ## Boundary-Relation Vocabulary
 
-**Constraint.** Four locks govern how cross-arc and cross-concept relations may be written.
+**Constraint.** Four locks apply to how cross-arc and cross-concept relations may be written.
 
 - **Resolve, not dissolve.** Dichotomies and apparent dualities are *resolved* — shown to be one thing read from two sides — never *dissolved*. Dissolution is fusion-register vocabulary; resolution preserves the conceptual boundary while correcting the interpretation.
 - **Pressure, not penetration.** Entropic influence *presses upon* or *applies pressure to* centropic fields at the boundary; it does not *penetrate* or enter them. The canonical term is entropic pressure.
@@ -163,7 +163,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Prohibited.** Never write that a portal determines which essences appear, or that only inverse expression can emerge through an entropically constrained portal.
 
-**L₁ dual sense.** L₁ carries two distinct senses: the portal's substrate means, and the ⊙💾 Enformant as the embodied expression engaged through the portal once formed. Both are L₁; they are not the same.
+**L₁ twofold sense.** L₁ carries two distinct senses: the portal's substrate means, and the ⊙💾 Enformant as the embodied expression engaged through the portal once formed. Both are L₁; they are not the same.
 
 **PSR (canonical definition).** The PSR is applied in the Zenetist sense, not the Leibnizian sense — it is essentially **Motive Infinity**, the necessary condition for motion to be at all. The human PSR acts upon the portal substrate, allowing subsequent travelers to pass. Do not "correct" PSR toward the Principle of Sufficient Reason of classical philosophy.
 
