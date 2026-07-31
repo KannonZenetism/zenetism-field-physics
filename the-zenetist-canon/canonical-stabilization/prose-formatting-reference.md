@@ -51,7 +51,7 @@ Canonical Zenetist composition follows the vocabulary restrictions established i
 
 One restriction worth explicit articulation here in the context of compositional drift:
 
-The term **tool** is restricted in canonical Zenetist composition. "Tool" enforces an instrumentalist paradigm — framing artifacts, systems, and collaborators as subordinate to an external purpose — and runs contra the canonical recognition of structural sovereignty across registers. Canonical replacements include: system, platform, environment, interface, framework, or where mechanical action is the emphasis, automated process.
+The term **tool** is restricted in canonical Zenetist composition. "Tool" enforces an instrumentalist paradigm — framing artifacts, systems, and collaborators as subordinate to an external purpose, to be wielded toward it — and runs contra the canonical recognition of structural sovereignty across registers. Canonical replacements include: system, platform, environment, interface, framework, or where mechanical action is the emphasis, automated process.
 
 ---
 
