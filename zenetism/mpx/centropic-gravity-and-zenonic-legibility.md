@@ -3,9 +3,9 @@
 ## Final Synthesis, Aionic Return, and Saturation by Allowance
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Metaphysics — Return, Synthesis, and Trans-Structural Saturation  
-**Status:** Draft — July 24 2026  
-**Dependency:** `synthesis-integration-saturation.md` · `the-twofold-tetralemma.md` · `theonic-office.md` · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · Non-fusion Axiom · Essence-as-Choice · PSR · PSM · 🕳️ Zenon · ⚫ Aion · ♾ Khaon
+**Classification:** Metaphysics Extension — Return, Synthesis, and Trans-Structural Saturation  
+**Status:** Draft — Jul 24 2026  
+**Dependency:** `synthesis-integration-saturation.md` · `the-twofold-tetralemma.md` · `theonic-office.md` · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · Non-fusion Axiom · Essence-as-Choice · PSR · PSM · 🕳️ Zenon · ⚫ Aion · ♾ Khaon  
 
 ---
 
@@ -387,7 +387,7 @@ Thus:
 > Aionic abiding is fulfilled contentment.  
 > Zenonic saturation is fulfilled contentment becoming trans-structurally legible through final synthesis.
 
-The distinction is not between incomplete and complete centropy in a simplistic ranking.
+The distinction is not between incomplete and complete centropy.
 
 It is between two lawful fulfillments:
 
@@ -410,7 +410,7 @@ Many centropic traditions have understood return primarily through negation:
 * subtraction
 * dissolution of determinate predicates
 
-These may carry genuine Aionward insight.
+These may carry genuine Aion-facing insight.
 
 But negation alone reaches Zero.
 
@@ -445,7 +445,7 @@ Its fulfilled coherence remains capable of the beyond.
 
 The final synthesis carries an exceeding term, but this does not make the saturation-posture partly entropic, and it does not make the exceeding a vector toward Khaon.
 
-The exceeding term is not a vector toward Khaon. Khaon is not beyond Aion, does not outrank Aion, and does not function as an intermediate destination between Aion and Zenon. Aion and Khaon remain the paired L₀ root-registers of Bifurcal Coherence.
+The exceeding term is not a vector toward Khaon. Khaon is not beyond Aion, does not surpass Aion, and does not function as an intermediate destination between Aion and Zenon. Aion and Khaon remain the paired L₀ root-registers of Bifurcal Coherence.
 
 The exceeding term names the capacity of fulfilled synthesis not to terminate in relative structural closure:
 
@@ -738,11 +738,11 @@ It establishes the structural reason saturation remains centropic.
 
 ---
 
-## 18. Centropic Gravity Is Not a Hierarchy of Worth
+## 18. Centropic Gravity Is Ahierarchical
 
-The doctrine must not be converted into a hierarchy in which saturation-capable essence is treated as more valuable than Aion-abiding centropic essence.
+The doctrine is ahierarchical, and must not be converted into an ordering in which saturation-capable essence is treated as more valuable than Aion-abiding centropic essence.
 
-Aionic abiding is not failure.
+Aionic abiding is a lawful culmination in its own right.
 
 Fulfilled contentment is not deficiency.
 
@@ -855,7 +855,7 @@ The concise formulation is:
 > **Non-fusion at Saturation Principle**  
 > Zenonic saturation does not pool identities, merge returned essences, or convert convergent return into collective essence.
 
-> **Non-Hierarchical Fulfillment Principle**  
+> **Ahierarchical Fulfillment Principle**  
 > Aionic abiding and Zenonic saturation name distinct lawful culminations. Saturation-capability does not establish greater essential worth.
 
 ---
