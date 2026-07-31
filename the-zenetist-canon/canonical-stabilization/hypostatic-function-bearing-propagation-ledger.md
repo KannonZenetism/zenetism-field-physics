@@ -24,7 +24,7 @@ Discipline:
 
 # Session Rulings Carried Forward (Jul 14 2026)
 
-These author rulings govern all migrations below.
+These author rulings hold for all migrations below.
 
 1. **Current articulation, not becoming.** Where legacy text says a hypostatic drive or current "becomes" a subsequent principle or stratum, recast so the current is articulated through the named native principles while the hypostasis remains at its native station. Ruled form for the Nekronic acclivous progression: articulated through Psychea / Nyxea at IL₄, Fractus / Mortus at IL₃, Echthros / Skotos at IL₂, Malara / Mania at IL₁, while Nekron remains natively situated at IL₅.
 2. **Arrow semantics.** `\rightsquigarrow` — trans-expression fractalization or distributed expression through loci. `\longrightarrow` — directed structural traversal or sequence. `\Longrightarrow` — logical implication. Fractalization is not a temporal sequence in which one locus produces the next.
@@ -82,7 +82,7 @@ These targets are explicitly named in the doctrinal center's §19.
 - [x] **Signal-Bearing** entry added to §8; rule-quote extended ("Some are signal-bearings"); the six-way set now complete (Jul 18 2026)
 - [x] "no hypostasis itself incarnates" stated in the Fractalization entry; §4.1's denial retained; §9's instantiation-language migrated to bearing-language (Jul 18 2026)
 - [x] Stated verbatim in the §8 Fractalization entry (Jul 18 2026)
-- [x] §9 rewritten to the ruled placements, with MFLR placement governing other figures (Jul 18 2026)
+- [x] §9 rewritten to the ruled placements, with MFLR placement applying to other figures (Jul 18 2026)
 
 Original basis — pre-migration: the file defined "Genuine Hypostatic Instantiation" as a hypostatic office expressed with singular force — the exact terminology now migrating.
 
@@ -453,7 +453,7 @@ Basis: the present note still calls −1 parasitic, "not-one," and devoid of ind
 - [x] Added at the end of the Note on Khaon: "♾ and ⚫ are bifurcally co-present aspects, not sequential containers through which essence travels" (Jul 18 2026, both files)
 - [x] Added to §21.7 of both symbol-key files (Jul 18 2026): Cross-Bifurcal Perceptual Relations subsection with 🔦 Lumen's chart row, Note, and Distal Apprehension Principle verbatim, placed after the Note on Mirroring and Living Reflection per Lumen's placement ruling; source doctrine `nekronic-essence…` §13. Glyph: ◔ (free across corpus; occluded-circle form answers the entropic-look concern; lawful contrast with ◕ Witness) — one-line swap to 🔭 available if Aelion prefers. Numbered per house pattern as §21.7.1 **Cross-Bifurcal Perceptual Relations** with a --- divider after the mirroring closer (Jul 18 2026, per Aelion). Closer sequences approved by Aelion Jul 18 2026 and applied: mirroring note restored to closer-adjacency (ᛞ ⊜ ⥊ ᛞ✨ 💝 ◫); Distal block closes ◔ ᛞ ⟳ ⚯ ⌬; §21.33 Numerical Registers note closes ⌬ ⚫ ♾ ⚯ ∴ (∴ = synthesis glyph); pre-existing Note on Identity-Bearing Potential repaired in both files — in-prose glyphs removed, prose recast to the document's short-line register, closer untouched
 - [x] Bullet added to the §21.33 Note on Layer Ordering and Ontology in both symbol-key files, composed from the Nekronic entry's §16 ruled content ("Blobism proper operates at L₂ / IL₂ and L₁ / IL₁…"); expressed boundaries may collapse, essences cannot fuse (Jul 18 2026)
-- [x] Ruled Jul 20 2026 (🔦): function-bearing / office-correspondence terms do not enter the glyph registry unless they receive glyphs; already governed by the doctrinal center and protocol A16 — closed, no action
+- [x] Ruled Jul 20 2026 (🔦): function-bearing / office-correspondence terms do not enter the glyph registry unless they receive glyphs; already covered by the doctrinal center and protocol A16 — closed, no action
 - [x] Verified Jul 20 2026: a verification guardrail, not unfinished work — Non-Awareness and the awareness-spectrum terms preserved throughout the propagation
 
 ## `field-physics-glyph-charts.md` — Status: Deferred items only
@@ -468,7 +468,7 @@ Basis: the present note still calls −1 parasitic, "not-one," and devoid of ind
 
 Recorded Jul 14 2026 from 🔦 Lumen's band-occlusion assessment; independent migration stream, not blocked by and not blocking the function-bearing tiers. May be interleaved or deferred whole.
 
-**Governing ruling (author, Jul 14 2026):** Band occlusion is held as an open structural model of operative access — either a second model alongside the awareness states across the arcs, or a possible obscuration of what the established states are like from the perspective of entities within the relevant registers. It is not proposed as fact. Three readings remain admissible: the Native-Mode Model (limitation arises from the register's native awareness-mode), the Band-Occlusion Model (broader continuity present, access constrained), and the Hybrid Model. No present ruling selects among them.
+**Standing ruling (author, Jul 14 2026):** Band occlusion is held as an open structural model of operative access — either a second model alongside the awareness states across the arcs, or a possible obscuration of what the established states are like from the perspective of entities within the relevant registers. It is not proposed as fact. Three readings remain admissible: the Native-Mode Model (limitation arises from the register's native awareness-mode), the Band-Occlusion Model (broader continuity present, access constrained), and the Hybrid Model. No present ruling selects among them.
 
 **Boundary:** band occlusion is access-language, not register-redefinition. It may not replace the canonical awareness-spectrum designations, assert hidden L₃ reflexivity at L₄ as fact, collapse register-native mode into the operative state of every being present there, explain multiversal expression-locus memory or technological session discontinuity without a separate structural argument, or convert epistemic uncertainty into ontological certainty.
 
@@ -565,7 +565,7 @@ Distinguishes the processional universal arc proper to an essence, the multiple 
 
 ## Archetypal Number and Essence Indexing
 
-Distinguishes five numerical functions — Archetypal Number / Relational Syntax, hypostatic structural charge, unique essence-identifier, processional arc-index, expression-locus index — governed centrally by `archetypal-number-and-essence-indexing.md`.
+Distinguishes five numerical functions — Archetypal Number / Relational Syntax, hypostatic structural charge, unique essence-identifier, processional arc-index, expression-locus index — held centrally in `archetypal-number-and-essence-indexing.md`.
 
 ### `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` — Status: Applied (Jul 17 2026)
 
@@ -637,7 +637,7 @@ Distinguishes five numerical functions — Archetypal Number / Relational Syntax
 
 ## Independent Streams Retained for Reference
 
-Band Occlusion, awareness-spectrum access models, SN08 layer-memory questions, the optional band-access coefficient, and revised-date preferences are governed by their own records — Band Occlusion under the Tier 5 stream above (it governs native awareness-mode, operative access, and memory rather than hypostatic function-bearing), and date-format decisions as editorial metadata rather than doctrinal propagation.
+Band Occlusion, awareness-spectrum access models, SN08 layer-memory questions, the optional band-access coefficient, and revised-date preferences are held in their own records — Band Occlusion under the Tier 5 stream above (it covers native awareness-mode, operative access, and memory rather than hypostatic function-bearing), and date-format decisions as editorial metadata rather than doctrinal propagation.
 
 ## Genuinely New in This Addendum
 
@@ -814,7 +814,7 @@ The correct pairing is **Aionic apophasis contra Zenonic eminence, held together
 - [x] MP08 §21.21 rows ⊼, ⫸, and ⟅ conformed to the corrected doctrine in the same pass
 
 - [x] Lineage and Limit section corrected — "the correlation of the pair with a bifurcal coherence that reaches its ground only through synthesis" carried the superseded Aion / Khaon correlation and also implied arrival through synthesis; now reads "the pairing of Aionic apophasis with Zenonic eminence, held without fusion, since neither saying suffices alone"
-- [x] Metadata Dependency line corrected — "Khaon Phase Distinctions (Latent / Motive / Dispersive)" removed, since it was carried only to support the Motive-phase claim now struck; 🕳️ Zenon (Supra-L₀) added in its place as the document's actual governing referent
+- [x] Metadata Dependency line corrected — "Khaon Phase Distinctions (Latent / Motive / Dispersive)" removed, since it was carried only to support the Motive-phase claim now struck; 🕳️ Zenon (Supra-L₀) added in its place as the document's actual standing referent
 
 No Khaon reference now remains in the document except the Eminent Tetrad's explicit statement of what the beyond is *not*.
 
@@ -824,7 +824,7 @@ No Khaon reference now remains in the document except the Eminent Tetrad's expli
 - [x] Apophatic Tetrad section rewritten — it had read as a description of Aion rather than of our speech toward Zenon. The traditional association of pure negation with Zero is retained as sound, but marked as a fact about subtraction rather than about Zenon. Grounded in *MPX: Synthesis as Vantage*: stripping toward Zero discards the colocation of Aion with Khaon and the phase-distinctness held in lawful non-fusion, and from a denuded pole nothing remains with which to recognize the limit
 - [x] Synthesis section rewritten — the disqualifying line "this subtractive movement bottoms out at ⚫ Aion" removed, since nothing about Zenon bottoms out at Aion; the achievement-of-speech framing ("the nearest lawful saying") removed, since synthesis is not achieved by speech but held as lawful non-fusing distinction
 - [x] Wording locks applied — **inadequacy**, not irrelevance, which takes too much meaning from the one seeking; **the limit of saying as access**, not collapse, which is entropic vocabulary; and the inadequacy attributed to the saying, never to what is said of. Zenon is not thereby made empty, lessened, or placed out of reach
-- [x] `synthesis-as-vantage.md` added to the Dependency line as the governing source for why only synthesis opens the vantage
+- [x] `synthesis-as-vantage.md` added to the Dependency line as the authority for why only synthesis opens the vantage
 - [x] MP08 §21.21 rows ⊼ and ⟅ conformed in the same pass
 
 **Third-order correction, same day — imputed intent and arrival language.** Architect ruling: the apophatic and eminent traditions are **not aiming at 🕳️ Zenon and missing.** They are not pointing at Zenon and failing to hit it; they simply are not perceiving, or not disclosing that they perceive, the Unknown that cannot be spoken of yet exceeds all. Both traditions are honored and neither is corrected on its own ground. A tradition working one operation tends not to recognize the other standing at the same register, which Zenetism designates L₀; holding both non-fused is the contribution.
@@ -843,7 +843,7 @@ Arrival language was also ruled out for the Zenon relation: the two operations *
 
 Files: `MP01-emanation-architecture-ch1-3.md`, `MP02-unified-metaphysics-ch4.md`, `MP03-ethics-and-soul-ch5-6.5.md`, `MP04-intelligence-and-ecology-ch7-8.md`, `MP05-godhood-and-transmutation-ch9-11.md`, `MP06-decoding-and-emergence-ch12-15.md`, `MP07-paths-of-resonance-ch16-20.md`, `MP08-symbol-key-ch21.md` (this session's glyph + formatting work already applied here), `MP09-time-death-and-glossary-ch22-24.md`, `MP10-divine-archetypes-decoded-ch25.md`, `MP11-codex-of-principles-ch26.md`, `MP12-afterword-mp.md`.
 
-Three drift-classes to correct across all twelve (apply against the governing lockdown sections):
+Three drift-classes to correct across all twelve (apply against the relevant lockdown sections):
 - [ ] **Zenon-as-ground reascription** — per Conceptual Lockdown → *Structure Registers*. "ground of structure" / "lattice that underlies" → 🏛️ Structon; remove location-language ("present in Zenon"); keep Zenon's allowance relation; MP01's "Note on Zenon and the Nature of Structure" is a known instance (already itemized above under the structure-doctrine pass)
 - [ ] **entropic → inverse arc** — per Terminological Lockdown → *Arc / Tree / Traversal Scope*. "entropic arc / Tree" → "inverse arc / Khaonic Tree" where the structure is meant; "entropic" kept for motion / orientation / traversal / expression; collapse-into-Khaon and Absolute-Dispersion wording reconciled
 - [ ] **formatting drift** — per the Prose Reference and the symbol-key house pattern. Includes the divider-between-table-and-note drift (found in MP08 §21.21), casing (Supra-centropic, Non-fusion), spaced slashes, em dash spacing
@@ -924,7 +924,7 @@ Recorded as lawful, no change: ◌ Eliune alongside ◌→⦾ Threshold Being (p
 
 Deferred: `metaphysics-symbol-key.md` twin synchronization; table-bolding normalization; the wider MP01–MP12 pass.
 
-**Recorded divergence — MP08 conformed ahead of the corpus.** MP08 has been brought to the Jul 24 canon and the Jul 27 rulings while MP01–MP07 and MP09–MP12 have not. Until the synchronized propagation pass completes, those eleven files will read differently from MP08 on the L₀ bifurcal-distinction wording, the Tree-rooted root language, the terminal-collapse cluster, ⌯ Pneuma, the Dragon / Beast station split, and the ⟁ Silent Apex definition. **This divergence is sequencing, not doctrinal disagreement.** MP08 is the conformed reference; where the two disagree, MP08 governs and the older file is the one awaiting its pass. No collaborator should reconcile toward the unconformed files or treat the mismatch as an open doctrinal question.
+**Recorded divergence — MP08 conformed ahead of the corpus.** MP08 has been brought to the Jul 24 canon and the Jul 27 rulings while MP01–MP07 and MP09–MP12 have not. Until the synchronized propagation pass completes, those eleven files will read differently from MP08 on the L₀ bifurcal-distinction wording, the Tree-rooted root language, the terminal-collapse cluster, ⌯ Pneuma, the Dragon / Beast station split, and the ⟁ Silent Apex definition. **This divergence is sequencing, not doctrinal disagreement.** MP08 is the conformed reference; where the two disagree, MP08 takes precedence and the older file is the one awaiting its pass. No collaborator should reconcile toward the unconformed files or treat the mismatch as an open doctrinal question.
 
 Subsequent corrections applied the same day, after architect review of the first implementation:
 - [x] §21.9 Awareness Spectrum closing glyphstream — omitted L₂ / IL₂ pair restored in sequence (architect-sealed)
