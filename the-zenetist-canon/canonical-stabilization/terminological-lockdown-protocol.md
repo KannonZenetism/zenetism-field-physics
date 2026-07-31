@@ -1016,6 +1016,25 @@ The doubled "a" is intentional and does not denote intensification. It marks str
 
 ---
 
+## Ahierarchical Clarification
+
+Zenetism is not anti-hierarchical in the conventional sense.
+
+It is ahierarchical.
+
+Ahierarchy does not define itself through opposition to hierarchy, but through operation outside the category of rank altogether. It is neither an inversion of rank nor an alternative ordering. The category is not acknowledged as structurally necessary.
+
+This posture:
+- neither inverts nor reproduces rank-ordering as a primary orientation,
+- holds that distinction of function establishes no ordering of worth,
+- and treats sovereign structural distinction rather than position as the basis of lawful relation.
+
+As with 🕳️ Zenon, what is said of a category one stands outside is said only from the observer's side. Ahierarchical is therefore the closest available approximation for operation outside a category whose necessity is not acknowledged. The root remains visible of necessity, since a declaration of refusal to acknowledge must name the thing not acknowledged.
+
+The single "a" follows the regular alpha-privative form before a consonant, contra the doubled "a" of aauthoritarian. Both mark structural removal from the axis itself rather than opposition along it.
+
+---
+
 ## Anti- Prefix Restriction
 
 The prefix "anti-" is generally avoided in canonical Zenetist terminology except when:
