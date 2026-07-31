@@ -527,6 +527,17 @@ Zenon does not originate emanation.
 
 Rather, emanation becomes conceivable by Zenonic allowance.
 
+### Note on Structure Unconfined
+
+**Structure Unconfined** is read as **Structure → Unconfined**, not as a claim that Zenon is structure.
+
+The construction performs the same clarifying work as the rest of the Zenon-language set. It holds two limits together: Zenon is not determinate structure, and Zenon is not nothing. Reading it as a claim about structure is the lesser error; reading Zenon as nothing is the greater one.
+
+It also names the far side of the saturation relation. Centropic Gravity carries the fulfilled returned essence to the horizon of structure; Zenonic Legibility is the vantage attained there; Allowance admits the crossing. **Structure Unconfined** names what the crossing enters upon — structure no longer bounded, rather than structure abolished. Distinction is not abolished in saturation, and its trans-structural mode cannot be described through containment or placement.
+
+Prefer **trans-structural** where the claim concerns Zenon's relation to determination, and **Structure Unconfined** where the claim concerns what saturation crosses into.
+
+
 ---
 
 ## Audit Guidance
