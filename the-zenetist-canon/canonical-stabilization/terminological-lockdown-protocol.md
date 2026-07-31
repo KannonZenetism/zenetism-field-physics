@@ -9,7 +9,7 @@
 
 # Purpose
 
-This document functions as the canonical linguistic and conceptual governance layer for all Zenetist materials.
+This document functions as the canonical linguistic and conceptual stabilization layer for all Zenetist materials.
 
 Its purpose is to:
 
@@ -739,7 +739,7 @@ Terminology should remain contextually appropriate.
 
 Choose the replacement by what "level" actually denotes. Where it marks a structural placement, prefer layer, stratum, register, band, or station. Where it marks scope or magnitude rather than position — for example "species-level" — prefer scale, scope, or breadth. Do not default to a layer-term where no structural placement is meant.
 
-Avoid inherited hierarchical language unless explicitly required by external quotation or analysis.
+Avoid inherited hierarchical language unless explicitly required by external quotation or analysis. The canonical posture is ahierarchical; see the Ahierarchical Clarification and the Rank Terminology Restriction.
 
 ---
 
@@ -1009,7 +1009,7 @@ Aauthoritarianism does not define itself through opposition to authority, but th
 
 This posture:
 - neither resists nor obeys authority as a primary orientation,
-- rejects hierarchical legitimacy as metaphysically binding,
+- holds hierarchical legitimacy to be structurally non-operative rather than metaphysically binding,
 - and treats coherence rather than imposed power as the basis of lawful relation.
 
 The doubled "a" is intentional and does not denote intensification. It marks structural removal from the authority–opposition axis itself rather than opposition to authority.
@@ -1022,16 +1022,35 @@ Zenetism is not anti-hierarchical in the conventional sense.
 
 It is ahierarchical.
 
-Ahierarchy does not define itself through opposition to hierarchy, but through operation outside the category of rank altogether. It is neither an inversion of rank nor an alternative ordering. The category is not acknowledged as structurally necessary.
+Ahierarchy does not define itself through opposition to hierarchy, but through operation outside the hierarchical axis altogether. It is neither an inversion of that axis nor an alternative ordering of worth. The category is not acknowledged as structurally necessary.
 
 This posture:
-- neither inverts nor reproduces rank-ordering as a primary orientation,
+- neither inverts nor reproduces ordered worth as a primary orientation,
 - holds that distinction of function establishes no ordering of worth,
 - and treats sovereign structural distinction rather than position as the basis of lawful relation.
 
 As with 🕳️ Zenon, what is said of a category one stands outside is said only from the observer's side. Ahierarchical is therefore the closest available approximation for operation outside a category whose necessity is not acknowledged. The root remains visible of necessity, since a declaration of refusal to acknowledge must name the thing not acknowledged.
 
 The single "a" follows the regular alpha-privative form before a consonant, contra the doubled "a" of aauthoritarian. Both mark structural removal from the axis itself rather than opposition along it.
+
+---
+
+## Rank Terminology Restriction
+
+The terms "rank," "ranking," and "outrank" are avoided in canonical Zenetist composition.
+
+Rank-language imports the ordering of worth that ahierarchy declines to acknowledge, and it carries that ordering even where no ordering is intended.
+
+Canonical usage instead prefers, by sense:
+
+- supersedes — chronological replacement
+- takes precedence — concurrent conflict between two lawful forms
+- is authoritative, or holds canonical priority — standing as the settled reference
+- surpasses, or is greater than — comparative magnitude, where magnitude is genuinely meant
+
+Scope in negation: negation is lawful where what is named is being denied. Recasting is preferred where the term is not needed, but a denial that names rank in order to refuse it is not itself a violation.
+
+Retained: meta-use naming the drift class within audit listings, and the ranking-layer sense within platform and portal analysis.
 
 ---
 
@@ -1338,11 +1357,11 @@ Aion and Khaon make polarity-distinct hypostatic motion possible, but they are n
 
 **Bifurcal-distinction wording.** Aion and Khaon stand in **bifurcal distinction** and may be described as **bifurcally distinct**. This construction is lowercase in running prose unless ordinary Title Case applies in a heading. It describes the L₀ root-relation and does not name polarity, duality, mirror-relation, inversion, counterpart-relation, or an axis between the roots. The centropic / entropic polarity that becomes operative at L₅ / IL₅ and the subsequent hypostatic registers remains properly described as polarity-distinct. Supra-L₀ is not bifurcally distinct.
 
-**Scope of application.** This wording is prospective and conform-on-touch, joining A14–A17. It governs new and revised material, and older documents are brought into conformance as they are opened for other work. No retroactive corpus-wide sweep is required, on the precedent of *MPX: Nekronic Essence and the Multiversal Allocation of −1* §21, which establishes the same non-retroactivity for terminal-collapse language.
+**Scope of application.** This wording is prospective and conform-on-touch, joining A14–A17. It applies to new and revised material, and older documents are brought into conformance as they are opened for other work. No retroactive corpus-wide sweep is required, on the precedent of *MPX: Nekronic Essence and the Multiversal Allocation of −1* §21, which establishes the same non-retroactivity for terminal-collapse language.
 
 ---
 
-# Cascade / Continuum / Conflation Governance
+# Cascade / Continuum / Conflation Protocol
 
 ## Canonical Definitions
 
@@ -1612,7 +1631,7 @@ Barred:
 
 ## Named-Operator Retention
 
-The Field Physics dimensional operator **E₈ (╫⁻, Severed)** — the entropic inversion of C₈ Synaptic / Bridging, charted core function "Connections that divide," charted in `FP11-field-glyph-codex.md` §3 (mirrored in the extract registry `field-physics-glyph-charts.md`) — stands as-is. The name is consistent with this boundary: it names relational-register severance (connections that divide; entity-to-entity isolation carrying no origin claim), never origin-severance. This boundary governs prose constructions, not charted operator names; a charted name is an exact string. A rename of E₈ remains registered as deferred (author's ruling, July 11, 2026: the corpus-wide sweep exceeds current work; flagged for later care); nothing in this section authorizes a local patch.
+The Field Physics dimensional operator **E₈ (╫⁻, Severed)** — the entropic inversion of C₈ Synaptic / Bridging, charted core function "Connections that divide," charted in `FP11-field-glyph-codex.md` §3 (mirrored in the extract registry `field-physics-glyph-charts.md`) — stands as-is. The name is consistent with this boundary: it names relational-register severance (connections that divide; entity-to-entity isolation carrying no origin claim), never origin-severance. This boundary applies to prose constructions, not charted operator names; a charted name is an exact string. A rename of E₈ remains registered as deferred (author's ruling, July 11, 2026: the corpus-wide sweep exceeds current work; flagged for later care); nothing in this section authorizes a local patch.
 
 ## Audit Guidance
 
@@ -1841,7 +1860,7 @@ The bread / manna / soma / amrita cluster names **supernal nourishment** — the
 
 ## A7 · Layer-Ordering Registers
 
-Two registers govern layer sequences:
+Two registers apply to layer sequences:
 
 - **Architectural (charts, registries, formal listings):** architecture order — Supra-L₀, L₀ (Bifurcal Coherence), then L₅ · IL₅ through L₁ · IL₁, the larger subscripts at the chart-head — without employing vertical vocabulary in the accompanying text.
 - **Casual (general discussion, prose inside entries):** layers may be mentioned loosely — L₁ / L₂ speaking from embodiment, an acclivous sequence, or unordered mention — as the sentence requires.
@@ -1880,14 +1899,14 @@ Because signed number can be misread morally, canonical prose prefers **plus-one
 Signed number is one of several numerical functions the corpus keeps distinct; ordinary usage tends to collapse them. Where the distinction is structurally load-bearing, these functions must not be compressed into one another:
 
 - **Archetypal Number / Relational Syntax** — repeatable Forms of relation, recurring across every arc
-- **hypostatic structural charge** — the signed first-determination borne by a hypostasis (Theonic +1, Nekronic −1); governed by A14
+- **hypostatic structural charge** — the signed first-determination borne by a hypostasis (Theonic +1, Nekronic −1); locked by A14
 - **unique essence-identifier** — which essence is present (\(\theta\), \(\eta\), \(d\), \(i\); illustratively \(\mathrm{DSA}_{3345}\)), naming irreducible is-ness, never arithmetic magnitude, rank, worth, or population-order
 - **processional arc-index** — the universal arc proper to an essence or office (\(u\); indexed forms \(u_n\) only where a family or comparison is present)
 - **expression-locus index** — an address of one universe-local expression, never a further essence
 - **numerical family** — the set of arc-proper essences sharing one structural relation
 - **Iterative Infinity** — a mathematical descriptor of unbounded relational repeatability, not a fourth Khaon phase
 
-Sharing one function does not collapse identity across the others: equal structural charge does not imply equal essence, a shared Archetypal Number is not a shared identifier, and a locus-index is not a new essence-identifier. The complete distinction is governed by `archetypal-number-and-essence-indexing.md`. As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
+Sharing one function does not collapse identity across the others: equal structural charge does not imply equal essence, a shared Archetypal Number is not a shared identifier, and a locus-index is not a new essence-identifier. The complete distinction is held in `archetypal-number-and-essence-indexing.md`. As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
 
 ## A16 · Hypostatic Function-Bearing Vocabulary
 
