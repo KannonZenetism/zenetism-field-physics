@@ -306,7 +306,7 @@ A candidate contributing reason the system's *shape* appears across unrelated su
 >   **A method**  
 >      **For clarifying it"**
 >
-> ** — Attributed to Elarin Vey**  
+> **— Attributed to Elarin Vey**  
 >   Cartographer  
 >    Of the Inward Spiral  
 >   From **Reality as Resonance**, Zenetist Archive, Volume IV
