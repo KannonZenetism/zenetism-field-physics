@@ -391,7 +391,7 @@ The completion of a universe-local hypostatic gate-function without implying era
 
 The condition in which a returned essence's final synthesis gives it Centropic Gravity and becomes Zenonically legible, while saturation itself remains dependent upon Allowance.
 
-These distinctions should govern future revisions of older language.
+These distinctions should hold for future revisions of older language.
 
 ---
 
