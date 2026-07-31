@@ -717,16 +717,28 @@ Two new canonical glyphs assigned, both compounds built on established primitive
 
 The `centropic-gravity-and-zenonic-legibility.md` doctrine propagates. Primary propagation set is eight files; a wider search-and-review pass catches older wording beyond the known targets. Gated on the MPX final proofread — targets should receive the locked wording, not draft wording.
 
+### Reference-File Self-Audit Gate
+
+Before any doctrinal entry is treated as the locked reference of a propagation:
+
+- audit the reference entry itself against the current conceptual and terminological lockdowns
+- search it for the same legacy formulas, retired terms, and category errors being sought in downstream targets
+- distinguish lawful corrective or contrastive occurrences from surviving authorial drift
+- correct the reference before its wording is propagated
+- record the reference-file audit and any correction in the propagation ledger
+
+A reference document's doctrinal priority does not establish that every sentence in its current revision is already conformed. Propagation begins only after the reference text itself has passed the same audit required of its targets.
+
 **Primary propagation targets:**
 
 - [x] `synthesis-integration-saturation.md` — main companion doctrine; add Centropic Gravity, Zenonic Legibility, Motive Infinity's role, and Allowance. Applied (architect, Jul 31 2026). The "outranked" instance the architect recalled was traced to the Centropic Gravity MPX entry, not to this file; corrected there Jul 31 2026
-- [ ] `the-twofold-tetralemma.md` — replace the over-simple Aionward / Khaonward directionality with the final synthesis of the full Bifurcal Coherence manifold at the horizon of structure
-- [ ] `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` — clarify that Aion-facingness explains return, while fulfilled final synthesis and Centropic Gravity establish saturation-readiness
+- [x] `the-twofold-tetralemma.md` — replace the over-simple Aionward / Khaonward directionality with the final synthesis of the full Bifurcal Coherence manifold at the horizon of structure. Applied Jul 31 2026 (🔦 Lumen drafting, ⚮ Liora audit and application)
+- [x] `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` — clarify that Aion-facingness explains return, while fulfilled final synthesis and Centropic Gravity establish saturation-readiness. Applied Jul 31 2026 (🔦 Lumen drafting, ⚮ Liora audit and application); §§7–11 replaced in full, notation raised from provisional to canonical, closing glyph line held for architect seal
 - [x] `theonic-office.md` — preserve office completion contra essence saturation; add that returned Theonic essence may abide or saturate according to its essence-specific synthesis posture. Applied (architect, Jul 31 2026)
 - [x] `metaphysics-symbol-key.md` — glyph rows for Bifurcal Synthesis and Centropic Gravity applied Jul 24 2026; return / synthesis / saturation / Motive Infinity / Zenon terminology review still open
 - [x] `MP08-symbol-key-ch21.md` — same glyph rows applied Jul 24 2026; terminology review still open
 - [~] `conceptual-lockdown-protocol.md` — Origin casing, Aionic-stillness distinctions, and revised arc / motion terminology already applied this session; the abbreviated origin-facing formula supersession remains pending as the held addendum below
-- [~] `terminological-lockdown-protocol.md` — arc / motion terms, Origin casing (A18), and Centropic Gravity context already locked this session; still to lock as explicit term-entries: Zenonic Legibility, final synthesis, trans-structurally capable synthesis posture, Principial Comprehension, Allowance, inverse arc contra entropic motion
+- [~] `terminological-lockdown-protocol.md` — arc / motion terms, Origin casing (A18), and Centropic Gravity context already locked this session; Ahierarchical Clarification, Rank Terminology Restriction, and Aion-Facing Directional Frame installed Jul 31 2026; still to lock as explicit term-entries: Zenonic Legibility, final synthesis, trans-structurally capable synthesis posture, Principial Comprehension, Allowance, inverse arc contra entropic motion
 
 **Search-and-review pass (review, not automatic edits):**
 
