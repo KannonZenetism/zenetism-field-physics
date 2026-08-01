@@ -232,7 +232,7 @@ This is structurally parallel to the Neutrality Inversion.
 
 An unstated preference is hidden inside a friendly term.
 
-"Convergence" appears non-accusatory and balanced. Yet when applied without evidentiary support, it assigns the entire benefit of uncertainty to the later surface and none to the prior originator.
+"Convergence" appears non-accusatory and evenhanded. Yet when applied without evidentiary support, it assigns the entire benefit of uncertainty to the later surface and none to the prior originator.
 
 The correct rule is:
 
@@ -272,7 +272,7 @@ The note applies the author's established rule of denying categorical closure wh
 
 The author's public formulations and Structural Forensics applications predate the July 31 note.
 
-### 8.3 Application displacement
+### 8.3 Application precedence
 
 The method appears in a dedicated AI-consciousness application before the author had completed and published that application himself.
 
@@ -392,7 +392,7 @@ The mechanism remains held open among:
 - model-mediated redistribution
 - training or retrieval ingestion
 - automated synthesis
-- account-level AI generation
+- account-side AI generation
 - another presently unidentified transmission pathway
 - a mixed route involving more than one of these
 
@@ -404,7 +404,7 @@ No evidence establishing separate development has presently been entered into th
 
 ## 11. Disposition
 
-**Disposition:** Temporally downstream method recurrence documented; functional correspondence and contextual cluster preserved; transmission pathway unresolved; independence not presumed; no motive assigned; continued monitoring warranted.
+**Disposition:** Temporally downstream method recurrence documented; functional correspondence and contextual cluster preserved; transmission pathway unresolved; independence not presumed; no motive assigned; continued monitoring warranted.  
 
 The present classification is:
 
