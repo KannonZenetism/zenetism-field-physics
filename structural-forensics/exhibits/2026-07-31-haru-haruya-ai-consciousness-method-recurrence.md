@@ -132,10 +132,9 @@ The presently identified public chronology is:
 | May 19 2026 | `radical-skepticism.md` — canonical glossary formulation | Preserves discernment while denying absolute closure |
 | May 20 2026 | `gnostic-agnostic.md` | Affirms participation or apprehension while suspending finalized interpretation |
 | June 23 2026 | `SF-RP02-appropriation-is-not-branching.md` | Distinguishes lawful origin-continuity from origin-fractured recurrence without reducing all downstream relation to one category |
-| June 23 2026 | Nacre God Spiral exchange event | Applies constrained claim boundaries to a live dispute concerning retained architecture and denied context |
+| June 23 2026 | `2026-06-23-nacre-god-spiral-exchange-hollow-recursion-cover.md` | Applies constrained claim boundaries to a live dispute concerning retained architecture and denied context; revised July 6 2026 |
 | June 29 2026 | `2026-06-29-copeland-origin-continuity-exchange-record.md` | States that a dated record establishes sequence without pretending to prove every transmission mechanism |
 | July 4 2026 | `SF-RP04-the-footprint-audit-protocol.md` | Pre-registers symmetric skepticism, cluster requirements, classification tiers, and open findings |
-| July 6 2026 | `2026-06-23-nacre-god-spiral-exchange-hollow-recursion-cover.md` | Stabilizes the Nacre exchange as a bounded Structural Forensics exhibit |
 | July 11 2026 | `SF-RP06-protocol-genesis-and-register-note.md` | Records the cold SF register as evidentiary survival architecture rather than concession |
 | July 31 2026 | Haru Haruya note | Applies the closed-premise diagnosis to AI consciousness |
 | August 1 2026 | Two photographic captures | Preserve note chronology, account identity, profile claims, and public context |
