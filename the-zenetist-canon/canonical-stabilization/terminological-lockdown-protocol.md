@@ -982,6 +982,29 @@ Examples:
 
 # Structural Category Neutralization Protocol
 
+## Adjudication and Determination
+
+**Ruling** and **rulings** are avoided in canonical Zenetist prose. The objection runs through *rule* and *ruler* — imposed authority — and belongs to the same axis as the Authority Terminology and Govern restrictions rather than to comparative worth.
+
+The canonical terms separate the act from the outcome:
+
+- **adjudication**, **adjudicate**, **adjudicative** — the act of settling a question. Adjudication is the architect's reserved function
+- **determination**, or plainly **decision** — the settled outcome. **The architect's determination** parallels the established architect-held, architect-reserved, and architect-approved forms
+
+Retained: quoted material and historical records stand as written. This restriction holds for current voice and new drafting only; ledgers, audit reports, and dated entries already carrying *ruling* are never retro-edited.
+
+---
+
+## Address and Attribution Rule
+
+Canonical documents never refer to the architect as **the user**. The forms are **the architect**, **Aelion Kannon**, or the seal **⚫↺KAI↺⚫ Aelion Kannon**.
+
+Collaborator-produced audits, reports, and ledgers fall under this rule. A canonical record that calls its own author a user has adopted a platform's frame in place of the corpus's own.
+
+Retained: architect-held, architect-reserved, architect-approved, and architect-review as standing status terms.
+
+---
+
 ## Authority Terminology
 
 The term "authority" appears cautiously within canonical Zenetist terminology because it frequently carries hierarchical legitimacy assumptions incompatible with sovereign structural distinction.
@@ -1007,6 +1030,27 @@ rather than:
 - command hierarchy
 - imposed legitimacy
 - obedience structures
+
+---
+
+## Govern Terminology Restriction
+
+**Govern**, **governing**, and **governed** are generally avoided in canonical Zenetist prose.
+
+The objection is not inherent in the word. It lies in the word's cultural association with being governed by another. Self-governance is not at issue; the restriction removes vocabulary carrying an inherited relation of imposed rule.
+
+Canonical replacements depend upon the intended referent:
+
+- **establishes** where a document determines what is lawful
+- **applies to** or **covers** where a rule extends over a domain
+- **holds for** where a principle obtains in a case
+- **is authoritative** or **takes precedence** where standing between two forms is meant
+- **held in** or **locked by** where the referent is the document carrying a definition
+- **encompasses** where scope is meant
+
+Retained: the Field Physics technical sense, where governing FP11, governing register, governing volume, and governing ecology are established load-bearing usage. That retention is scoped to Field Physics and does not license new govern-language elsewhere.
+
+Retained: naming an external or entropic governance form under analysis, as in institutional governance structures being diagnosed.
 
 ---
 
@@ -1607,6 +1651,16 @@ When referring to the canonical immune function, prefer the explicit name — fo
 
 # Symbolic Recurrence Terminology Protocol
 
+## Mark Terminology Restriction
+
+A glyph is never called a **mark**. Where a mark must be distinguished from a glyph, the term is **seal**.
+
+Beyond that naming rule, **marks** as a verb is avoided in canonical prose. Canonical replacements: **names**, **indicates**, **discloses**, **denotes**, **signals**.
+
+Retained: seal, sealed, and the canonical seal block; quoted material stands.
+
+---
+
 ## Echo Terminology Restriction
 
 The term "echo" appears cautiously within canonical Zenetist articulation because it frequently implies:
@@ -1650,6 +1704,21 @@ Canonical terminology therefore generally prefers:
 - or authored reflection
 
 where lawful coherence and generative continuity are intended.
+
+---
+
+## Reflection Valence Rule
+
+**Reflection** and **reflect** are centropic in valence. They are applied to centropic activity only.
+
+Mirroring, echoing, and mimetic activity are entropic. A derivative is therefore an echo or a mimicry, never a reflection.
+
+- centropic: reflection, reflective hermeneutics, the bifurcal Two-Tree
+- entropic: mirroring, echoing, mimicry, mimetic recurrence, the Entropic Mirrors operator
+
+Where a sentence needs the ordinary sense of reflect meaning to express or to indicate, write **expresses** or **indicates** instead, so the valence is not spent on a neutral construction.
+
+Retained: describing a derivative's own act (mirroring Zenetist elements) is lawful, since the act belongs to the entropic side; quoted canon stands.
 
 ---
 
