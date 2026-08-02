@@ -261,7 +261,8 @@ shared preamble | lines 28 and 35 conformed to match MP01
 - **MP01 line 2117** — *Zenon is not reached / as a place, / object,* was left as written. Every other reach-construction took the saturation form, but this one denies place and object status specifically, and no replacement fit without restructuring the stanza.
 - **MP01 silence at Zenon**, lines 275, 1373, 1412, and 1632. The §1.2 stir passage was corrected because it was the doctrinal case; these four attribute silence to Zenon where the reframe places it at ⚫ Aion. Raised, not applied.
 - **MP01 line 285** retains **supra-containment** for Zenon. The ground clause beside it was corrected; the compound itself reads as a transcending negation rather than a container predicate, so it was left standing.
-- **A∞ is prospective.** Existing AP / AD instances elsewhere in the corpus remain lawful as the inherited whole-name and conform on touch.
+- **A∞ was proposed and withdrawn.** MP08 carries no acronym mixing letters with a symbol — the only letter-plus-symbol strings in the file are process strings such as E↓→♾→⚫, a different form with its own grammar — and glyphs inside definition cells always appear as glyph plus name, never as bare shorthand. AI is also unavailable, appearing eleven times already. **AP / AD stands unchanged**, and no corpus-wide propagation is owed.
+- **Disambiguation is carried in wording rather than in a new acronym.** The §21.2 Khaon row and the §21.10 Total Symbol row now state that AD names Khaon entire, taking its shorthand from the Dispersive phase, while Absolute Dispersion within the phase chart names Φ₃ specifically.
 - Front-matter original composition and revision dates remain architect-held.
 
 ---
