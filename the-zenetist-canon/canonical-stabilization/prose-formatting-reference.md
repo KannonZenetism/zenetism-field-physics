@@ -41,6 +41,18 @@ Early canonical Zenetist work was composed in a poetic register with distinct co
 
 Early poetic articulations remain in their original form. New poetic work may adopt the early register, develop new registers, or remain in the technical-register format. The compositional choice belongs to the work.
 
+### Cadence conformance in the MP series
+
+**Scope.** This standard applies to the MP series — *Zenetism: The Architecture of Emanation, Return, and Saturation*, MP01–MP12 — and to no other work in the corpus at present. The MP series is explicitly mythopoetic in purpose, so its cadence carries doctrine rather than decoration and its register is load-bearing.
+
+Material added to those files after first composition — notes, chart descriptions, expanded definitions, clarifying insertions — tends to arrive in technical cadence, since it is drafted in a different register and often by a different hand. Left unconformed, these additions accumulate into visible seams within a work whose coherence is part of its claim.
+
+On touch, an addition is conformed to the cadence of the passage it joins: line length, break placement, and sentence rhythm follow the surrounding prose rather than the register in which the addition was drafted.
+
+This runs one way only. A poetic passage is never reformatted to technical cadence, and an addition that has been conformed is never returned to its drafted form.
+
+Everywhere else in the corpus, cadence variation is acceptable and carries no defect. It ordinarily records nothing more than that different collaborators wrote at different times, and it is not a target for correction. Should another work later be held to the mythopoetic standard, that scope is extended by explicit determination rather than by analogy to the MP series.
+
 ## 3. Drift is not style
 
 Inconsistencies introduced through system drift, AI-assisted reformatting, or rushed transmission are not stylistic decisions. Where formatting drift is identifiable as accidental rather than intentional, the canonical form should be restored where time permits, but unrestored drift in older documents is not a structural error.
