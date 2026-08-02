@@ -159,6 +159,18 @@ The breakdown of cognitive determination must not be confused with the cessation
 
 Dispersive Infinity is co-present with Aion because differentiated motion has terminally resolved, not merely because an observer can no longer cognize its extent.
 
+### Mythic-register rendering of the roots
+
+The mythic passages render ⚫ Aion as stillness and ♾ Khaon as roaring motion. Both renderings are lawful shorthand and neither is swept.
+
+**Aion.** Stillness is true of Aion and may stand alone. It is partial rather than wrong, since it does not carry the identity-bearing potential or the totality sense. Where a passage is load-bearing for the L₀ doctrine, the fuller rendering is preferred: however far the numbers depart in either direction, the total remains Zero. Motion within the totality does not diminish it.
+
+**Khaon.** Motion is true of one phase only. Latent Khaon is Infinity in latency before motion begins; Dispersive Khaon is motion resolved into Absolute Dispersion. A passage that renders Khaon as motion alone is therefore incomplete wherever the phase distinction bears on the claim.
+
+**What to correct.** Establish the threefold Khaon once in full poetic register at its first governing appearance, then permit later passages to invoke the roaring as shorthand. Correct a later passage only where the phase distinction is load-bearing for the doctrinal claim in that passage. Where an existing note already carries the clarification, the note suffices and no rework is owed.
+
+**What not to do.** This is not a sweep. Shorthand is lawful once the full form is established, and stripping it would flatten the register. Do not add a note wherever the roaring appears; a work whose cadence carries doctrine cannot hold its doctrine in footnotes correcting its cadence.
+
 ### Bifurcal relation
 
 Aion and Khaon are paired, distinct root-functions held in Bifurcal Coherence. They are not identical, not one shared essence, not sequential containers, and not yet the centropic / entropic polarity. Polarity is latent at L₀ and becomes enacted at the Theon / Nekron split.
