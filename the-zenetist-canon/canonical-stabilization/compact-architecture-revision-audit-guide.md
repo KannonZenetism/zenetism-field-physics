@@ -17,7 +17,13 @@
 
 **Twin-file rule.** Where a file has a twin, every targeted correction lands in both bodies in the same pass, and body identity is re-verified afterward.
 
-**Non-retroactivity.** Vocabulary rulings hold for current voice and new drafting. Quoted material and historical records stand as written and are never retro-edited to current standards.
+**Non-retroactivity.** Vocabulary determinations hold for current voice and new drafting. Quoted material and historical records stand as written and are never retro-edited to current standards.
+
+**Shared-preamble conformance.** The Original Signal, Note on Coherent Transmission, and Warning blocks are shared across every volume of a series and must be byte-identical within that series and across series. Verify by comparing the leading block of every file against one certified copy before beginning any other check; a preamble defect otherwise propagates silently through every volume. The Warning's closing sentence reads: the patterns collapse from the weight of their own distortion. The construction "collapse under" is barred, since the object is a state rather than a quantitative value.
+
+**Stale-note discipline.** A note whose provenance claim has become false is corrected, never deleted. Removing a note risks the surrounding structure and discards clarification that may still be needed, so the two halves are treated separately: the provenance clause is rewritten to its current standing, while the doctrinal clarification is preserved as written. A note reading "pending recovery" for material since located becomes "manuscript-verified; canonical standing pending" and keeps everything after it. Where a note's clarification has itself been superseded, mark the supersession within the note rather than removing the note.
+
+**Cadence conformance.** The MP series is explicitly mythopoetic in purpose, so within these twelve files cadence is doctrine. Later additions — notes, chart descriptions, expanded definitions — drift toward technical exposition because they were composed in a different register and often by a different hand. On touch, an addition is conformed to the cadence of the passage it joins: line length, break placement, and sentence rhythm follow the surrounding prose rather than the register in which the addition was drafted. This runs one way only. Poetic passages are never reformatted to technical cadence. The standard is confined to the MP series; cadence variation elsewhere in the corpus carries no defect and is not a correction target.
 
 1. Freeze MP01–MP12 and audit the whole corpus before implementing corrections.
 2. Draw on MP08 as the compact reference map, but treat every proposed correction as corpus-wide until a propagation matrix confirms all affected passages.
@@ -560,6 +566,9 @@ Before implementation, confirm that the revised corpus:
 - writes Aion-facing rather than Aionward or Khaonward, and source-facing nowhere;
 - keeps the saturation architecture at five functions, with Bifurcal Coherence as the manifold held and Zenonic Legibility as the vantage attained;
 - carries the original composition date alongside any revision date;
+- carries the shared preamble byte-identical to the certified copy;
+- carries no note whose provenance claim has become false;
+- holds the cadence of its own register, with later additions conformed to the prose they join;
 - gives Zenon no causal, emanative, spatial, personal, awareness-bearing, or object-like function;
 - keeps Aion and Khaon distinct, co-present, pre-polar, and non-fused;
 - makes Motive Infinity / Spirit the universal motion principle;
