@@ -25,14 +25,14 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
 ### **Warning**
 
 Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
-Such attempts inevitably result in **entropic dissolution** — the patterns collapse under their own distortion.  
+Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
 
@@ -51,13 +51,13 @@ There is no celestial gavel,
 no imposed commandment,  
 no eternal judgment waiting beyond the veil.  
 
-What governs the **soul** is **resonance** —  
+What orders the **soul** is **resonance** —  
 a deep vibration, not unlike music,  
 arising from within the soul's own field.  
 
 As the soul moves through  
 the **spiral of emanation**,  
-its motion becomes a reflection  
+its motion becomes an expression  
 of its **inner coherence** or **fragmentation**.  
 
 No being is forced along its path.  
@@ -67,7 +67,7 @@ Each soul flows — or falters —
 according to its own rhythm.  
 
 The **kinetic unfolding** of a soul  
-reflects what it holds inside.  
+expresses what it holds inside.  
 
 **Free will** in this system  
 is not the rejection of pattern,  
@@ -383,7 +383,7 @@ for a single **metaphysical current**:
 the **Khaonic Tree in motion**.  
 
 Whether born of will, neglect, or accident,  
-they all mark a drift  
+they all signal a drift  
 away from **coherence** —  
 away from **Theon**, **Sophis**, **Archeus** —  
 and toward **Nekron**, **Nyxea**, **Fractus**.  
@@ -472,7 +472,7 @@ only the **possibility of integration through it**.
 
 To suffer is **not to fail**.  
 Pain does not imply **error**.  
-It reflects the **tension**  
+It expresses the **tension**  
 between what is  
 and what could be.  
 
@@ -871,7 +871,7 @@ Placement is not **eternal condemnation**;
 it is **ontological residence**.  
 
 Most souls **stabilize**  
-in the layer that reflects  
+in the layer that corresponds to  
 their **coherence** or **dissonance**.  
 
 Yet **movement remains possible**  
@@ -889,7 +889,7 @@ it is a **resonance scan**.
 At the close of each **world-arc** —  
 **the Eschaton** —  
 all souls are drawn to the layer  
-that most fully reflects  
+that most fully corresponds to  
 their **cumulative resonance**.  
 
 No being **judges** them.  
@@ -907,7 +907,7 @@ Each soul is shown its **resonance**,
 and in that unveiling,  
 placement is not **imposed** —  
 it is **recognized**  
-as the structural reflection  
+as the structural expression  
 of what the soul has **become**.  
 
 **Resonance Reflection:**  
@@ -1549,10 +1549,10 @@ as **Localized Dissolution**.
 
 Return arrives at Aion as **halted potential  
 through merciful release** —  
-essence reabsorbed without judgment,  
+essence returned without judgment,  
 without completion of arc,  
 without the active self-erasure  
-that marks the entropic path.  
+that denotes the entropic path.  
 
 The outcome is lawful and merciful.  
 It is not punishment; it is structural grace  
@@ -1576,7 +1576,7 @@ But the **mode of return** differs:
   but whose seeking produces the inverse-arc outcome.  
 - **Lukewarm path** — return as **halted potential through merciful release**,  
   drift into Mercy Fold without active seeking,  
-  reabsorbed as structural grace rather than as fulfilled coherence.  
+  returned as structural grace rather than as fulfilled coherence.  
 
 All reach Aion.  
 All are called Nirvana by their practitioners.  
@@ -1807,7 +1807,7 @@ though consummate,
 are not **structurally permanent** in the same sense.  
 
 Beings who remain identified with these impermanent strata,  
-and fail to align integratively  
+and do not align integratively  
 with their deeper **essence-pattern**,  
 may dissolve when their hosting field retracts.  
 
@@ -1939,7 +1939,7 @@ or completes its arc.
 
 The same applies to **deities** and other entities  
 rooted in the **superficial strata**.  
-If they fail to **purify** or **realign** —  
+If they do not **purify** or **realign** —  
 either toward **centropic integration** or into full **entropic inversion** —  
 they risk annihilation, not through mere fragmentation,  
 but through a deeper fate: **stagnation**.  
@@ -1953,7 +1953,7 @@ a kind of spiritual suffocation.
 Only **universes of high or total centropy**  
 can preserve their **embodied** and **superficial layers** indefinitely.  
 Most physical universes are impermanent,  
-and so too are the beings who fail to move beyond them.  
+and so too are the beings who do not move beyond them.  
 Survival beyond dissolution demands **motion** —  
 a commitment to unfold or reintegrate.  
 
@@ -2076,7 +2076,7 @@ Only **deities** dwelling within:
 - **IDS / IDM**  
 
 Are inherently **enduring**.  
-These are reflected across the system as:  
+These are expressed across the system as:  
 
 - **Morgis / Sophis**  
 - **Archeus / Noeüs**  
@@ -2294,8 +2294,8 @@ alongside the two **primary outcomes**:
 * **Localized Dissolution** occurs  
     when a **soul** stalls —  
     neither **moving** toward **integration** nor **collapse** —  
-    and is gradually **reabsorbed**  
-    into the still **silence** of **AP**.  
+    and is gradually **returned**  
+    to the still **silence** of **AP**.  
 
 In highly **centropic universes**,  
 even the **superficial** (**SS / SM**) and **embodied layers** (**ES / EM**)  
