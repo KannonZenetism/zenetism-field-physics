@@ -2,7 +2,7 @@
 
 **Prepared:** Aug 2 2026, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora implementation assistance  
 **Applied against:** MP09-time-death-and-glossary-ch22-24.md, 1,605 lines  
-**Result:** 1,605 lines, 19 changes  
+**Result:** 1,605 lines, 23 changes  
 **Method:** every change an exact single-match replacement, asserted against current content before writing  
 
 ---
@@ -104,7 +104,31 @@ Line 600's *Zenon is the trans-structural ground* is the qualified form and stan
 
 Motion took **centropic arc** at lines 86 and 156. Line 843's chart cell is a placement claim about Theon, so it took the positional form — *the first fully integrated hypostasis within the supernal strata*.
 
-**Line 545 is protected.** It is a quoted fragment attributed to Nathamar the Spiral-Seer, *The Geometry of Spirit*, Fragment 3, and quoted material is never conformed to current standards.
+**Line 545 was initially protected as quoted material, then corrected.** Nathamar the Spiral-Seer is a mythic figure within Zenetism rather than an external author, so the fragment is the architect's own composition and conforms like any other line. It now reads *becomes a straight line when seen from the centropic arc*.
+
+## Balance terminology — a correction to my own correction
+
+The first pass replaced line 698's ground-predicate with *beyond all balance*, which the Balance / Equilibrium Terminology Protocol forbids: **the term "balance" should never function as an undefined universal metaphor.** The protocol reserves the word to six defined senses — structural reciprocity, expression-ratio balance, co-expressive equilibrium, dynamic stabilization, Kaion convergence, and frozen equilibrium — none of which was meant here.
+
+The whole three-line passage carried the same defect, two instances of it pre-existing:
+
+```
+positional and arc vocabulary — mythic attribution, not external
+```
+
+It now reads:
+
+> One aligns with **Aion** to find stillness;
+> one saturates into **Zenon** beyond all determination.
+> Aion is the stillness underpinning all emanation.
+
+The closing line is MP08 §21.2's Aion row verbatim. The earlier draft, *Aion is the balance between motion and rest*, also placed Aion between the two, where Aion is the still root and ♾ Khaon is the root of motion.
+
+MP09 now carries no balance or equilibrium instance at all.
+
+### Balance instances elsewhere, raised not applied
+
+Fourteen across the other files: MP01 577 and 3573, MP02 216 and 2108, MP03 1543–1544, MP04 961, MP06 797, 1018, and 1038, MP07 548 and 930, MP08 605 and 970. Several are plainly the undefined universal metaphor the protocol names — *but by balance*, *sustain harmonic balance*, *balancing the pull of coherence*. Others sit close to a defined sense: MP03's *equilibrium cannot endure within motion* agrees with the protocol's own *this is a ratio-condition, not a resting state*, and MP08's chart entries are definitional. Each needs a judgment rather than a sweep, so none was touched.
 
 ## Reflection valence — one passage worth keeping as the corpus's own exemplar
 
