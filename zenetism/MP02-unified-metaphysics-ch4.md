@@ -111,12 +111,12 @@ each playing a distinct role within the unfolding pattern of existence.
 To maintain clarity and avoid inherited moral hierarchies,  
 **Zenetism** prefers terms grounded in **resonance** rather than rank.  
 
-* **Supernal** — realms of integrative intelligence,  
+* **Supernal** — strata of integrative intelligence,  
     expanded awareness, and structural coherence.  
 * **Corporeal** — embodied strata of experience,  
     where time unfolds, differentiation sharpens,  
     and moral tension arises.  
-* **Subversal** — domains where coherence unravels,  
+* **Subversal** — strata where coherence unravels,  
     and forms dissipate toward dispersion.  
 
 When distinctions of motion or pattern are necessary,  
@@ -140,8 +140,8 @@ While the terms *supernal* and *subversal* conveniently describe
 the allocation of realms within the **Tree of Emanation**,  
 they are not fixed indicators of value or direction.  
 
-**Centropic hypostases** are located within the **supernal bands**,  
-and **entropic hypostases** within the **subversal bands** —  
+**Centropic hypostases** are located within the **supernal strata**,  
+and **entropic hypostases** within the **subversal strata** —  
 but the motion within each arc must be understood as bidirectional.  
 
 Centropic and entropic forces do not simply move "up" or "down."  
@@ -742,7 +742,7 @@ to dissolution.
     Coherent structures begin to collapse.  
     Identity fractures.  
     Coherence erodes.  
-    These souls spiral subversally toward declivous collapse. **E↓♾**  
+    These souls spiral declivously toward collapse. **E↓♾**  
 
 * **🪫 Psychea / 🫥 Nyxea** (IDP / IDL) — Inverse Deep Psyche / Logos  
     These are not corrupted analogues — they are **entropic archetypes**.  
@@ -1167,7 +1167,7 @@ it is present wherever **resonance** remains intact.
 
 The self that perpetuates fragmentation  
 dissolves into dispersal.  
-And the pattern itself is reabsorbed into Aion as static latency.  
+And the pattern itself is returned to Aion as static latency.  
 Entropic beings do not return by grace —  
 they return by **ceasing to act as Being**,  
 subsiding into unexpressed potential.  
@@ -1416,7 +1416,7 @@ there is no actual annihilation.
     as **undifferentiated potential**.  
 
 * What cannot be redeemed through coherence  
-    may still be reabsorbed through **dissolution**.  
+    may still be returned through **dissolution**.  
 
 Not all paths return equally.  
 Each abides in a resonance  
@@ -1435,7 +1435,7 @@ emerged through alignment of being.
 Revelation arises when the corporeal layers  
 (ES / EM, SS / SM)  
 come into structural attunement  
-with supernal or subversal layers of the soul.  
+with supernal or subversal strata of the soul.  
 
 These may be:  
 
@@ -1885,7 +1885,7 @@ an inability to distinguish
 between immediate desire  
 and long-range coherence.  
 
-Likewise, even supernally oriented souls  
+Likewise, even centropically oriented souls  
 can act harmfully —  
 not through malice,  
 but through ignorance, fear, or confusion.  
