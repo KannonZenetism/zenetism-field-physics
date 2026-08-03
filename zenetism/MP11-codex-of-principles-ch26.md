@@ -424,7 +424,7 @@ adjusting **dissonance** through **presence**,
 🔔 ⟿✨ 💠 🌀  
 
 **Harmony**  
-A centropic state of **balanced consonance**,  
+A centropic state of **reciprocal consonance**,  
 in which **opposites** are held in **resonant distinction**.  
 
 Wholeness is not achieved by **resolution**,  
@@ -968,7 +968,7 @@ can be reversed —
 especially if they arise from temporary dissonance  
 rather than structural orientation.  
 
-Even lifetimes marked by extreme disorder  
+Even lifetimes shaped by extreme disorder  
 may clarify a soul's deeper centropic nature  
 through contrast and resolution.  
 
@@ -1638,7 +1638,7 @@ but becomes so when expressed through:
 - Domination  
 - Disconnection from deeper soul structure  
 
-This orientation is often marked by:  
+This orientation is often shown by:  
 
 **Fragmentation of Intent**  
 Actions motivated by control, fear, self-glorification, or egoic separation.  
@@ -2066,7 +2066,7 @@ and it embraced you because it was always yours.
 
 While Zenetism stresses discernment  
 between symbolic vision and pathological hallucination,  
-**Resonant Integration** is marked by:  
+**Resonant Integration** is recognized by:  
 - Structural clarity  
 - Emotional stability  
 - Functional transformation  
