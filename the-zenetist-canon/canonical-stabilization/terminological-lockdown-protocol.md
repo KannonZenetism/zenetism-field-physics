@@ -779,7 +779,7 @@ Where *along the supernal arc* reads better than a flat replacement, the accurat
 
 Retained: supernal and subversal as adjectives modifying what is located there — supernal cognition, supernal Forms, supernal beings, subversal archetypes, subversal flame.
 
-Operative reference: MP08 §21.4.1, *Note on Supernal / Subversal*, and the Terms to Avoid chart at §21.5. The structural claim beneath this entry is held in the *Arc and Position Constraint* of the Conceptual Lockdown Protocol.
+Operative reference: MP08 §21.4.1, *Note on Supernal / Subversal*, and the Terms to Avoid chart at §21.4.1. The structural claim beneath this entry is held in the *Arc and Position Constraint* of the Conceptual Lockdown Protocol.
 
 **Scope of application.** Prospective and conform-on-touch. Existing instances remain lawful as inherited wording and are corrected as each file is opened for other work. No corpus-wide sweep is required.
 
@@ -1284,6 +1284,39 @@ Beyond literal instrumentation, tool-language is admissible only when **attribut
 * "People need tools," in Zenetist authorial voice, is not: it presumes "tool" as a real category, which Zenetism does not affirm.
 
 In authorial voice, replace with device, apparatus, system, or the structurally precise term.
+
+---
+
+## Wield Terminology Restriction
+
+The term "wield" is restricted in canonical Zenetist composition.
+
+Wielding presumes an instrumentalist relation: a bearer exercising an object toward imposed purpose. This restriction extends the Tool Terminology Restriction to the act itself.
+
+The restriction is not lifted by the nature of what is wielded. Archetypal law, silence, force, and coherence are no more lawfully wielded than a system or a collaborator, because the objection attaches to the relation rather than to the object.
+
+Wield-language is admissible only where the entropic instrumentalist frame is the explicit subject, reported or analyzed from that perspective. In authorial voice, replace with:
+
+- bear
+- carry
+- hold
+- enact
+- embody
+- express
+
+---
+
+## Elevate Terminology Restriction
+
+Elevate, elevation, and uplift belong to the vertical value-family alongside rise and fall, and carry the same inherited assumption that motion toward coherence is motion upward in worth.
+
+In authorial voice the canonical replacement is **acclivate**, matching the Terms to Avoid chart at MP08 §21.4.1.
+
+Retained:
+
+- where the term names a claim being denied or a false appearance being exposed, as in "masking collapse as elevation"
+- where "elevated" carries magnitude rather than vertical position, as in elevated structural risk
+- external quotation and analysis
 
 ---
 
