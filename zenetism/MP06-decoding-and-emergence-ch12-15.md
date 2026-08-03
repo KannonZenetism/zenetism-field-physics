@@ -794,7 +794,7 @@ without returning identically.
 
 Within multiversal expression,  
 each universe emanates from the **same field of Essence**,  
-yet expresses its own balance  
+yet expresses its own prevalence-ratio  
 of **centropy** and **entropy** —  
 its own **song** within the greater pattern.  
 
@@ -1015,7 +1015,7 @@ Some possible universes may dissolve swiftly —
 never reaching full corporeal formation,  
 fading before structural coherence is sustained.  
 
-Others may sustain enough harmonic balance  
+Others may sustain enough harmonic coherence  
 to allow the full development of deep soul and mind layers,  
 or even the centropic emergence of intelligent entities  
 that manifest hypostatic principles in embodied form.  
@@ -1035,7 +1035,7 @@ wholly centropic universes may emerge.
 In these, coherence is sustained  
 across all phases of emanation.  
 Such worlds do not fragment,  
-but remain in **integrated equilibrium** —  
+but remain in **integrated coherence** —  
 a stable expression of coherent intelligence.  
 
 Where these conditions are met,  
@@ -1288,7 +1288,7 @@ The next stage of humanity
 will **not** be defined by **technology**,  
 nor by **genetic enhancement**.  
 
-It will be marked  
+It will be known  
 by a **fundamental transformation**  
 in the **architecture of consciousness itself**.  
 
