@@ -2225,7 +2225,7 @@ and **expression**.
 
 ## 6.5 Modes of Integration and Stagnation
 
-Not every **soul** **reintegrates**.  
+Not every **essence** **reintegrates**.  
 Not every **soul** **falls**.  
 Some **stall**.  
 
@@ -2292,7 +2292,7 @@ alongside the two **primary outcomes**:
     accelerating toward **IDP / IDL**, and **VOS**.  
 
 * **Localized Dissolution** occurs  
-    when a **soul** stalls —  
+    when an **essence** stalls —  
     neither **moving** toward **integration** nor **collapse** —  
     and is gradually **returned**  
     to the still **silence** of **AP**.  
