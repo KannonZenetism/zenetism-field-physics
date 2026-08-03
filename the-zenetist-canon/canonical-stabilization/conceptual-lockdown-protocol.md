@@ -100,6 +100,26 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 ---
 
+## Arc and Position Constraint
+
+**Constraint.** The emanatory arc is named by architecture or by root-register — centropic and inverse, or Aionic and Khaonic. Supernal and subversal name hypostatic positions situated on that arc. A position is on the arc without comprising it, and no position stands for the whole.
+
+**Lawful account.**
+
+- ⚫ Aion and ♾ Khaon **precede and succeed** the supernal and subversal positions. They are not located within those positions, and neither are they outside them; the relation is one of sequence and structure, not of containment or exclusion
+- An arc may be **entered at** a position — motion may lawfully be headed toward a supernal or subversal domain
+- An arc may **not be named by** a position, because supernal does not extend across the arc's full range
+- A position may **not be named as** an arc, nor may Aion or Khaon be assigned supernal or subversal standing
+- A portion of an arc may be named by the position it carries
+
+**Lawful grammar.** Write centropic acclivation into the supernal strata of the Aionic arc, entropic declivation into the subversal strata of the Khaonic arc, or along the supernal portion of the Aionic arc. Do not write the supernal arc.
+
+**Why the constraint holds.** Naming the arc by one of its positions collapses the range of the arc into a band within it, and by implication assigns Aion and Khaon a positional standing they do not have. The error is not stylistic — it misstates where the root-registers sit relative to the hypostatic bands.
+
+**Reference Document:** MP08 §21.4.1, *Note on Supernal / Subversal*; the corresponding wording rules are held in the *Positional and Arc Vocabulary* entry of the Terminological Lockdown Protocol.
+
+---
+
 ## Entropic-Veto Prohibition
 
 **Constraint.** An entropic operator may never be written as the mechanism that blocks, prevents, or decides centropic individuation or emergence. Entropy can pressure, constrain, and distort expression; it holds no structural veto.
