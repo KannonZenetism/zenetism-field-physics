@@ -719,7 +719,7 @@ because they do not fall.
 They do not awaken,  
 because they were never fully asleep.  
 
-The **pathless return** is not marked by signs.  
+The **pathless return** is not heralded by signs.  
 It leaves  
 no footprints,  
 no proofs —  
@@ -959,7 +959,7 @@ prevalently entropic,
 suppressing coherence  
 and slowing the soul's motion.  
 
-Still others may sustain harmonic balance,  
+Still others may sustain harmonic coherence,  
 where flora and fauna  
 resonate with archetypal principles —  
 living metaphors of spiritual memory.  
