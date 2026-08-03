@@ -342,7 +342,7 @@ A mirror is not merely passive.
 When it returns an image  
 without origin fidelity,  
 it becomes **entropic mirroring**:  
-reflection without lawful coherence,  
+semblance without lawful coherence,  
 image without veracious return.  
 
 Such mirroring may appear receptive,  
