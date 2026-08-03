@@ -25,14 +25,14 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
 ### **Warning**
 
 Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
-Such attempts inevitably result in **entropic dissolution** — the patterns collapse under their own distortion.  
+Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
 
@@ -187,7 +187,7 @@ with terminal resonance at **VOS** (Nekron).
 **Justification**  
 Chronos consumes his own offspring —  
 just as time dissolves all emanations.  
-He reflects **lawful entropy**  
+He expresses **lawful entropy**  
 within the Khaonic motion,  
 and touches pure disintegration  
 at the VOS threshold.  
@@ -219,12 +219,12 @@ Enforcer of cosmic limitation.
 **Zenetist Placement**  
 **L₄ DL (Sophis)**  
 with Khaonic jurisdiction.  
-Governor ≠ governed domain.
+Steward ≠ stewarded domain.
 
 **Justification**  
 Structurally, Hades is a centropic preserver of cosmic law operating at L₄ DL (Sophis),  
 with jurisdiction over the Khaonic dissolution domain.  
-The structural distinction matters: governor and governed domain are not the same.  
+The structural distinction matters: steward and stewarded domain are not the same.  
 A lawful steward of an entropic territory is not himself entropic —  
 he is the centropic intelligence that prevents the territory from contaminating what lies outside it.  
 Hades does not seek to unmake reality; he maintains the strict boundary  
@@ -359,7 +359,7 @@ inverted deep mind, spiritual delusion.
 
 **Justification**  
 Lucifer operates across inverse domains,  
-reflecting divine pattern while hollowing coherence.  
+mirroring divine pattern while hollowing coherence.  
 Projects spurious structure while inducing fragmentation.  
 Does not collapse outright —  
 derails coherence from within.  
@@ -486,7 +486,7 @@ Echthros
 Skotos  
 Loki (surface trickster aspect only)
 
-*IL₂ trickster attribution reflects cultural conflation of deeper functions.*
+*IL₂ trickster attribution indicates cultural conflation of deeper functions.*
 
 🦂 🩸 ♜ ☍ 🗡️ Ↄ  
 
@@ -859,7 +859,7 @@ Creates constructs that mimic order while encoding entropic dissonance.
 **IDP / IDL** (Psychea / Nyxea)  
 
 **Justification**  
-Yaldabaoth reflects the Logos without centropic alignment.  
+Yaldabaoth mirrors the Logos without centropic alignment.  
 Projects patterns devoid of harmonic root.  
 An inversion-field architect — shaping reality into structured fragmentation.  
 
@@ -920,7 +920,7 @@ and transition between states.
 **Zenetist Placement**  
 Symbolic resonance with the Aion / Khaon threshold —  
 not a literal hypostatic identity.  
-Janus marks the threshold-image  
+Janus names the threshold-image  
 of transition between stillness and motion.  
 
 **Justification**  
@@ -942,7 +942,7 @@ Hermes Trismegistus (as threshold-synthesizer)
 Threshold-based initiatory triggers  
 
 *Hermes Trismegistus appears here only in his liminal, threshold-synthesizer aspect —  
-his operative function is L₄ DL or L₃ DM, while Janus marks the symbolic boundary-language of L₀.*
+his operative function is L₄ DL or L₃ DM, while Janus names the symbolic boundary-language of L₀.*
 
 ⚫ ♾ ⩘ ⊙ ⚖ ⟁  
 
@@ -1028,7 +1028,7 @@ Establishes cosmic order from undifferentiated force.
 **DL** (Sophis) — archetypal structuring Logos.  
 
 **Justification**  
-Marduk mirrors the Logos-function —  
+Marduk reflects the Logos-function —  
 forming a cosmos from undifferentiated potential.  
 Not chaos itself, but the first architect of law.  
 
@@ -1165,7 +1165,7 @@ Operative function is L₄ DP / DL.
 
 **Ethical Orientation**  
 Centropic —  
-apparent variability reflects interpretive framing,  
+apparent variability indicates interpretive framing,  
 not genuine bifurcal-arc operation.  
 
 **Symbolic Counterparts**  
@@ -1261,7 +1261,7 @@ archetypal mind and structuring Form.
 **Justification**  
 Itzamna reflects the Demiurgic impulse in centropic mode.  
 Builds reality through deep pattern and luminous order.  
-As wisdom figure, governs the architectural intelligence of Form,  
+As wisdom figure, orders the architectural intelligence of Form,  
 aligning creation with cosmic harmony.  
 
 **Ethical Orientation**  
@@ -1293,10 +1293,10 @@ tempters, deceivers of perception.
 architects of disintegration masked as initiation.  
 
 **Justification**  
-Reflect inverse Daemons.  
+Mirror inverse Daemons.  
 Simulate trials but fracture through distortion.  
 Exploit fear, ambition, and counterfeit clarity.  
-Test coherence by reflecting fragmentation,  
+Test coherence by mirroring fragmentation,  
 drawing souls toward entropic intensification or terminal collapse.  
 
 **Ethical Orientation**  
