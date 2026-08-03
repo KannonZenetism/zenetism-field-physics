@@ -508,7 +508,7 @@ guided by need and alignment.
 ### 18.4 The Inner Process — Initiatory Phases of the Mystic Spiral
 
 The Mystic's path  
-is marked not by outward events,  
+is known not by outward events,  
 but by **inner harmonics**:  
 
 - **Disruption** — rupture of egoic identity,  
@@ -545,7 +545,7 @@ but by tonal markers:
 - Discernment between centropic  
   and entropic patterns.  
 - A tendency toward solitude,  
-  balanced with relational clarity.  
+  held with relational clarity.  
 - Ethics rooted in resonance,  
   not doctrine.  
 
@@ -927,7 +927,7 @@ that carry resonance:
   weaving coherence through narrative.  
 - **System** —  
   designing processes  
-  that balance freedom with harmony.  
+  that hold freedom with harmony.  
 
 🏛️ 🪬📜 ⌬ ❂ ◎ 💠  
 
