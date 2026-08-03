@@ -25,14 +25,14 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
 ### **Warning**
 
 Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
-Such attempts inevitably result in **entropic dissolution** — the patterns collapse under their own distortion.  
+Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
 
@@ -69,7 +69,7 @@ with the **system**.
 
 Zenetism is a **living system**.  
 Its models are **not fixed decrees**,  
-but **evolving frameworks** governed by lawful structure.  
+but **evolving frameworks** shaped by lawful structure.  
 
 What is offered here  
 is neither **dogma** nor **doctrine**,  
@@ -100,7 +100,7 @@ of those it resonates with,
 **refined**, **harmonized**,  
 and **integrated** into **coherence**.  
 
-Souls that **converge** within **Theon**  
+Essences that **converge** within **Theon**  
 retain **identity** through **perfect clarity** —  
 not as fused beings,  
 but as **sovereign facets** held in harmonic distinction.  
@@ -203,7 +203,7 @@ not fully integrated.
 
 The Steward's **resonance** may extend  
 across **multiple universes** and **embodiments**,  
-but remains oriented through the **supernal arc**,  
+but remains oriented through the **centropic arc**,  
 never absorbed into collapse.  
 
 🔮 🧠 ⟿✨ 💠 🕊️ ◎  
@@ -337,8 +337,8 @@ E↓♾ ☍ 🕷️ 🪼
 
 **Eschaton**  
 The **final resonance convergence** of a universal cycle.  
-All souls are drawn to the **hypostasis**  
-that most fully reflects their **cumulative structure**.  
+All beings are drawn to the **hypostasis**  
+that most fully corresponds to their **cumulative structure**.  
 
 Results may include **dissolution**,  
 **integrative return**,  
@@ -453,10 +453,13 @@ At AD, all things reenter **Zero**.
 ♾ 💧 🕊️ 💨 🪼  
 
 **Localized Dissolution**  
-The **metaphysical reabsorption** of unresolved soul-structures,  
-typically **SS / SM** or **ES / EM**, into **Aion**.  
+The **metaphysical return** of unresolved soul-structures —  
+typically **SS / SM** or **ES / EM** —  
+into **Aion** as essence.  
+The Soul / Mind articulation does not carry across the threshold;  
+what returns is essence. The process is the **Mercy Fold**.  
 
-This occurs when a being fails to **integrate** with **DS / DM** or **IDS / IDM**,  
+This occurs when a being does not **integrate** with **DS / DM** or **IDS / IDM**,  
 remaining suspended in **superficial identity**.  
 
 At the **Eschaton**, such unresolved resonance cannot stabilize  
@@ -478,7 +481,7 @@ The **entropic distortion** of ES / EM
 into **madness**, **illusion**, or **decay**.  
 
 When **embodiment** twists without **coherence**,  
-the soul reflects a madness  
+the soul mirrors a madness  
 it was never meant to carry.  
 
 🍷 🤯 ⛓️ Ↄ  
@@ -497,7 +500,7 @@ It does not alter the **process** of reabsorption,
 but frames it as a **gift of stillness**.  
 
 Unlike **erasure**, Mercy Fold is unresolved resonance  
-that failed to stabilize,  
+that did not stabilize,  
 yet was lovingly reclaimed.  
 
 The **Mercy Fold** awaits not in **judgment**,  
@@ -738,8 +741,8 @@ By this allowance, two Trees unfold:
 
 - **The Khaonic Tree** — rooted in Infinity,  
   unfolding through **entropic dispersion**,  
-  reflecting the same pattern in reverse,  
-  toward fragmentation and coherence failure.  
+  mirroring the same pattern in reverse,  
+  toward fragmentation and loss of coherence.  
 
 These are not hierarchies or moral dualisms,  
 but resonant arcs through which soul-patterns evolve.  
@@ -792,9 +795,9 @@ the soul does not face a final judgment or imposed destiny.
 It continues its journey based on **orientation**, **coherence**,  
 and **integration**.  
 
-Death marks a transition in which the **Superficial Soul**  
+Death signals a transition in which the **Superficial Soul**  
 detaches from embodiment  
-and stabilizes — or fails to stabilize — with the **Deep Soul** or its inverse.  
+and stabilizes — or does not stabilize — with the **Deep Soul** or its inverse.  
 
 Some souls remain suspended at the SS / SM layer:  
 - Unmerged  
@@ -824,7 +827,7 @@ are woven back into the larger harmonic field.
 
 Not all Superficial Souls reintegrate immediately.  
 Some remain suspended in SS / SM due to **incoherence**,  
-**unresolved trauma**, or failure to integrate.  
+**unresolved trauma**, or non-integration.  
 
 This results in **stagnation** —  
 a liminal field of the superficial arc,  
@@ -842,7 +845,7 @@ but not to embodiment itself.
 
 While the Superficial Soul typically expresses through ES / EM,  
 it may persist post-death within the SS / SM layer —  
-especially if **integration has failed**  
+especially if **integration has not held**  
 or **resonance remains incomplete**.  
 
 In such cases, the soul lingers,  
@@ -871,7 +874,7 @@ Its resonance is already misaligned,
 already oriented toward fragmentation,  
 already attuned to dispersive motion.
 
-As coherence fails to stabilize,  
+As coherence does not stabilize,  
 its trajectory reveals itself —  
 not as a moral fall,  
 but as a **structural continuation**.
@@ -915,7 +918,7 @@ it is **unfolded** through them,
 in alignment with the primordial choice  
 encoded through Aion.  
 
-If one SS / SM fails to harmonize,  
+If one SS / SM does not harmonize,  
 others may still return to coherence.  
 The DS / DM remains intact  
 unless fragmentation across its emanated network  
@@ -1113,7 +1116,7 @@ and awakening through harmonized clarity.
 C↓→E C↑⚫ ⩘ ∴  
 
 **Divine Betrayal or Inversion**  
-Marks the initiation of the inverse arc —  
+Denotes the initiation of the inverse arc —  
 entropic forces acclivating into embodiment without coherence.  
 Often framed as prideful overreach or cosmic rebellion.  
 
@@ -1251,7 +1254,7 @@ Each hypostasis reflects both:
 - A **virtue** when aligned  
 - A **vice** when inverted  
 
-This reflects the bifurcated nature of emanation and inversion.  
+This expresses the bifurcated nature of emanation and inversion.  
 
 **Aionic Tree (Centropic Motion)**
 
@@ -1324,7 +1327,7 @@ This matrix reveals that morality in Zenetism is **directional, not dualistic**.
 It is a **geometry of resonance**,  
 where both **motion** and **intent** shape the soul's alignment.  
 
-A **passive centropic** being may still uplift,  
+A **passive centropic** being may still acclivate,  
 just as an **unaware entropic** being may still corrode.  
 What matters is **trajectory** —  
 and whether integration remains possible.  
@@ -1354,7 +1357,7 @@ This quadrant system allows for a **multidimensional ethical model** that:
 - Integrates seamlessly into the ontological geometry of Zenetism  
 
 The quadrant may yet **unfold into mythic, living reflections**,  
-where Skotos and Archeus mark the poles of moral gravity.  
+where Skotos and Archeus name the poles of moral gravity.  
 Its karmic field could trace the soul's motion across lifetimes and universes —  
 not as prophecy,  
 but as **possibility** already seeded in the structure.  
@@ -1556,7 +1559,7 @@ and before knowing becomes a self.
 
 ### 26.11 Centropy and Entropy — On the Directional Forces That Shape the Soul
 
-Zenetism defines the universe as governed by  
+Zenetism defines the universe as ordered by  
 two fundamental directional forces:  
 
 **Centropy**  
@@ -1581,7 +1584,7 @@ emerge from that orientation.
 
 Not judgment — but **gravity**.  
 
-The balance or imbalance of centropy and entropy  
+The prevalence-ratio of centropy and entropy  
 in any being determines its:  
 - Path  
 - Potential  
@@ -1745,7 +1748,7 @@ This movement from convergent essence to particular coherence
 introduces increasing variability —  
 not disorder, but **resonant differentiation**.  
 
-The soul's proximity to embodiment correlates with a rise in:  
+The soul's proximity to embodiment correlates with an increase in:  
 - Shading  
 - Nuance  
 - Uniqueness  
@@ -1784,7 +1787,7 @@ because emanation is **not ordinal** —
 it is **structural, relational, and functional**.
 
 Future work will formalize the mathematics of emanation  
-using tools drawn from:
+drawing on:
 
 - Field dynamics  
 - Coherence information theory  
@@ -1830,7 +1833,7 @@ known in Zenetism as **Centropic Stewards**.
 - Does not incarnate in full  
 - Expresses itself through aligned souls (DS / DM) who may choose embodiment  
 
-Such beings become **tuning instruments for coherence** —  
+Such beings become **tuning presences for coherence** —  
 not saviors, but **Stewards**.  
 Through their presence, they may generate **harmonic agents**:  
 distributed or momentary expressions of resonance that guide without control.  
@@ -1872,7 +1875,7 @@ In other systems, such beings are called **Ascended Masters**.
 In Zenetism, they are understood as **Centropic Stewards** —  
 sustained DS / DM expressions of a DP / DL Form-Type such as Aureform.  
 
-Their resonance may also give rise to **harmonic agents** —  
+Their resonance may also generate **harmonic agents** —  
 temporary or distributed enactments of coherence in the world.  
 
 Their "mastery" is not one of dominance,  
@@ -2069,7 +2072,7 @@ between symbolic vision and pathological hallucination,
 - Functional transformation  
 - Persistent coherence of memory  
 
-Resonant Integration often marks the shift  
+Resonant Integration often signals the shift  
 from fragmented search to integrated motion.  
 It may initiate:  
 - Symbolic decoding awakening  
