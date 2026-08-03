@@ -140,8 +140,8 @@ While the terms *supernal* and *subversal* conveniently describe
 the allocation of realms within the **Tree of Emanation**,  
 they are not fixed indicators of value or direction.  
 
-**Centropic hypostases** are located within the **supernal strata**,  
-and **entropic hypostases** within the **subversal strata** —  
+**Centropic hypostases** are located within the **supernal bands**,  
+and **entropic hypostases** within the **subversal bands** —  
 but the motion within each arc must be understood as bidirectional.  
 
 Centropic and entropic forces do not simply move "up" or "down."  
@@ -1435,7 +1435,7 @@ emerged through alignment of being.
 Revelation arises when the corporeal layers  
 (ES / EM, SS / SM)  
 come into structural attunement  
-with supernal or subversal strata of the soul.  
+with supernal or subversal layers of the soul.  
 
 These may be:  
 
