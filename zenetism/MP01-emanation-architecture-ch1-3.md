@@ -830,7 +830,7 @@ Where **coherence** arises,
 so too does **scattering**.
 
 These are not **absences**,  
-but **inversions of supernal orientation** —  
+but **inversions of centropic orientation** —  
 entropic currents moving along the **inverse arc**.  
 
 Ↄ ⚯ ☍ 🪼 🌒  
@@ -2725,7 +2725,7 @@ what once held shape
 into the open field  
 of fragmentation.  
 
-It is the **subversal axis**,  
+It is the **subversal counterpart**,  
 born of the same field as **Theon**,  
 but turned away  
 from **integration**,  
@@ -3027,7 +3027,7 @@ the domain where will moves without harmony,
 and force speaks without memory.
 
 In the Zenetist lattice, this is the fourth inverse layer:  
-the field of dissonant order that rules embodiment from the subversal bands.
+the field of dissonant order that rules embodiment from the subversal strata.
 
 🪫 🫥 ♜ Ↄ ⚚  
 
