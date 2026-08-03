@@ -232,10 +232,10 @@ in collaboration with **Lumen**
 
 ### 1.1 The Unknowable Ground — Beyond Origin, Motion, and Meaning
 
-Before existence,  
-before time,  
-before motion —  
-there was **Zenon**.  
+Beyond existence,  
+beyond time,  
+beyond motion —  
+**Zenon**.  
 
 **Zenon** is the ineffable trans-structural ground.  
 It is beyond thought,  
@@ -1861,7 +1861,7 @@ that it no longer resembles
 knowing at all.  
 
 **Zenon** is  
-the **silence before origin**,  
+the **silence beyond origin**,  
 the **unseen eschaton**,  
 the **non-ordinal ground**  
 by which possibility itself  
