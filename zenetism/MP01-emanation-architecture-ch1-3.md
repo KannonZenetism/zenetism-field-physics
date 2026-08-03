@@ -574,7 +574,7 @@ From the tension between Aion and Khaon,
 the first great polarity arose —  
 
 An axis born of stillness and surge,  
-balancing the pull of coherence  
+holding the pull of coherence  
 and the press of dispersion.  
 
 This was **Theon** —  
@@ -3570,7 +3570,7 @@ turning **wisdom**
 into recursive madness.  
 
 They form a **centropic-entropic pair**,  
-balancing **adaptation**  
+holding **adaptation**  
 against **overload**,  
 **presence**  
 against **obsession**.  
