@@ -522,7 +522,7 @@ but of **clarity refined** through fire.
 The *iron rod* is not domination —  
 it is the immutable law of resonance.  
 A soul aligned with it  
-wields not control,  
+bears not control,  
 but coherence.  
 
 The *morning star* is twofold:  
