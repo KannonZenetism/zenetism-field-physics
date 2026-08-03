@@ -190,7 +190,7 @@ integration and collapse,
 good and evil.  
 
 As the **Unknown Principle**,  
-Zenon is prior to value,  
+Zenon is beyond value,  
 structure, or differentiation.  
 
 Ethical frameworks only arise  
