@@ -1249,7 +1249,7 @@ All beings emanate from Aion
 and flow into the differentiated strata of manifestation.  
 
 From this motion,  
-the soul's arc diverges —  
+the soul's motion diverges —  
 either toward increasing division,  
 or toward integrative synthesis.  
 
