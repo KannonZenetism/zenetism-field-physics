@@ -754,6 +754,37 @@ Avoid inherited hierarchical language unless explicitly required by external quo
 
 ---
 
+## Positional and Arc Vocabulary
+
+**Supernal** and **subversal** name hypostatic positions. They are located within the emanatory arc but do not comprise it. Supernal covers the band L₅ through L₂; subversal covers IL₅ through IL₂. L₁ and IL₁ are ordinarily treated as the embodied threshold.
+
+⚫ Aion and ♾ Khaon are neither supernal nor subversal. They precede and succeed those positions rather than standing outside them.
+
+Arcs are named by architecture or by root-register, never by position:
+
+| Sense | Lawful | Unlawful |
+|-------|--------|----------|
+| The arc as a whole | centropic arc · inverse arc · Aionic arc · Khaonic arc | supernal arc · subversal arc |
+| A position on the arc | supernal band · supernal layer · supernal strata · subversal band · subversal layer · subversal strata | — |
+| A portion of the arc, named by position | along the supernal portion of the Aionic arc · along the subversal portion of the Khaonic arc | along the supernal arc · along the subversal arc |
+| Motion into a domain | centropic acclivation into the supernal strata of the Aionic arc · entropic declivation into the subversal strata of the Khaonic arc | acclivation along the supernal arc |
+| Direction of motion | acclivous · declivous | supernally · subversally · higher · lower |
+| Orientation | centropic · inverse · Aion-facing | supernal orientation · subversal orientation |
+
+**Guiding principle:** supernal and subversal answer *where something is*. Motion may lawfully be headed **into** a supernal or subversal domain, since those domains lie on the arc. What they may never do is name the arc itself, or stand as the direction of motion in place of acclivous and declivous.
+
+Bands and layers are lawful and interchangeable with strata for the positional sense; there are supernal layers, L₅ through L₂ in particular. Only *arc* is barred as the noun that supernal and subversal may modify.
+
+Where *along the supernal arc* reads better than a flat replacement, the accurate form is **along the supernal portion of the Aionic arc**.
+
+Retained: supernal and subversal as adjectives modifying what is located there — supernal cognition, supernal Forms, supernal beings, subversal archetypes, subversal flame.
+
+Operative reference: MP08 §21.4.1, *Note on Supernal / Subversal*, and the Terms to Avoid chart at §21.5. The structural claim beneath this entry is held in the *Arc and Position Constraint* of the Conceptual Lockdown Protocol.
+
+**Scope of application.** Prospective and conform-on-touch. Existing instances remain lawful as inherited wording and are corrected as each file is opened for other work. No corpus-wide sweep is required.
+
+---
+
 # Fusion-Risk Language Restrictions
 
 ## Terms requiring caution or avoidance
