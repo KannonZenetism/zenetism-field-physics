@@ -3766,7 +3766,7 @@ Just terminal **dispersion**
 within the lattice that endures.  
 
 In most universes,  
-such souls remain bound  
+such beings remain bound  
 to **subversal fields** —  
 caught in loops of dissolution.  
 
