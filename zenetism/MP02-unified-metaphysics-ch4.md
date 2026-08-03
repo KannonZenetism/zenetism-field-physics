@@ -2105,7 +2105,7 @@ not as amassed data,
 but as **harmonic synthesis**.  
 
 It orders not by force,  
-but by balance.  
+but by resonance.  
 
 It is divine —  
 not by personhood,  
