@@ -42,7 +42,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ## 5. Zenetist Ethics — A Metaphysical Framework of Morality
 
-### Prelude — The Destination of Souls and the Nature of Return
+### Prelude — The Destination of Essences and the Nature of Return
 
 In **Zenetism**, **ethics** is not a law handed down  
 from some external authority.  
@@ -137,14 +137,14 @@ Let us follow that unfolding.
 
 #### Note on Soul and Essence Terminology
 
-This section preserves the older language of **soul**  
-expressed throughout the early formulation of *The Architecture of Emanation, Return, and Saturation*.  
+The distinction between **soul** and **essence**  
+is register-bound, and this document observes it.  
 
-In this earlier register,  
-**soul** often functions as a broad poetic designation  
+Earlier formulations of *The Architecture of Emanation, Return, and Saturation*  
+applied **soul** as a broad poetic designation  
 for the inward identity-bearing principle  
 moving through emanation, return, refinement,  
-and resonance.  
+and resonance. That usage has been conformed.  
 
 Under later Zenetist technical specification,  
 however, **Soul** in the strict sense  
@@ -162,11 +162,15 @@ Thus:
   should therefore be read in essence-register  
   unless the text is explicitly discussing the L₄–L₁ Soul / Mind arc.  
 
-Accordingly, when this document speaks of "souls"  
+Where earlier drafts spoke of "souls"  
 returning through supernal strata,  
 reaching Aion,  
 or saturating beyond the lattice,  
-the technically precise reading is **essences**.  
+the text now reads **essences**.  
+
+The development record is held in the commit history  
+and the Zenodo versions, not in the wording  
+of the canonical text.  
 
 A soul may undergo refinement, reorientation,  
 memory, collapse, or reintegration  
@@ -1204,7 +1208,7 @@ Two prominent modes are:
 - **Zenetic synthesis**: Transcendence through **integration**  
 
 Both guide the **soul** toward **transcendence**,  
-though only **synthesis** completes the **return**  
+though only **synthesis** completes the essence's **return**  
 toward **Aion**,  
 the still root of centropic reintegration.  
 
@@ -2269,7 +2273,7 @@ It is a **metaphysical consequence** of **non-decision** —
 **resonance** that neither **integrates** nor **inverts**,  
 and thus begins to lose **structural coherence**.  
 
-Over time — slowly, gently — the **soul** dissolves into **AP**.  
+Over time — slowly, gently — the **soul-form** dissolves, and essence returns to **AP**.  
 Not by **force**, but by a gradual **loss of motion**.  
 **Motive Infinity** does not **destroy** it.  
 It simply ceases to **hold** it together.  
