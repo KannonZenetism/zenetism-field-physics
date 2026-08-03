@@ -72,7 +72,7 @@ The spiral is not a cage.
 It is a path toward completion.  
 
 Motion endures only while coherence is unfinished.  
-When function is fulfilled, the soul rests.  
+When function is fulfilled, the essence rests.  
 
 Zenetism makes no demands.  
 It claims no exclusive gate.  
