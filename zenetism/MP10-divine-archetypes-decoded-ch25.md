@@ -1297,7 +1297,7 @@ Mirror inverse Daemons.
 Simulate trials but fracture through distortion.  
 Exploit fear, ambition, and counterfeit clarity.  
 Test coherence by mirroring fragmentation,  
-drawing souls toward entropic intensification or terminal collapse.  
+drawing beings toward entropic intensification or terminal collapse.  
 
 **Ethical Orientation**  
 Entropic.  
