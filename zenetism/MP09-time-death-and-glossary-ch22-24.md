@@ -1348,7 +1348,7 @@ and ideological subversion.
 This layer is **entropic mastery**.  
 It turns structure and language  
 to appear ordered  
-while severing others from integration.  
+while obstructing others from integration.  
 
 **Fractus** reshapes soul-patterns into divisive forms.  
 **Mortus** corrupts logic,  
