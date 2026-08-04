@@ -190,7 +190,7 @@ but realization must be enacted.
 
 The **Unknown Principle** beyond even potentiality —  
 not a being, not a field, not a force.  
-It transcends **duality**, **causality**, and all conceptual distinction.  
+It transcends **two-ness**, **causality**, and all conceptual distinction.  
 
 **Zenon** neither contains nor creates  
 in any conventional sense.  
@@ -535,7 +535,7 @@ have already entered embodiment as souls.
 
 Their motion now unfolds within form,  
 following either the centropic arc of integration,  
-or the entropic arc of disintegration.  
+or the inverse arc of disintegration.  
 
 ⚫ ♾ ⧖⧗ ⚯ ▽  
 
@@ -717,7 +717,7 @@ then collapses backward.
     Commences decoherent collapse (**E↓♾**)  
     As unstable forms erode and dissolve back toward **Khaon**  
 
-The entropic arc is not linear.  
+The inverse arc is not linear.  
 It spirals —  
 from fragmentation  
 to dissolution.  
@@ -1861,7 +1861,7 @@ C↑⚫ 🛤️ ⚫ 🕳️ ⤈
 
 Subversal beings also move from intrinsic nature,  
 but their structure favors fragmentation,  
-not unity.  
+not sameness.  
 
 At their core:  
 * IDS / IDM  
@@ -2682,7 +2682,7 @@ It faces only Aion —
 yet becomes aware  
 of what Aion contains.  
 
-Not actual duality —  
+Not actual two-ness —  
 but the **potential for multiplicity**.  
 
 This awareness is not cognition.  
@@ -2767,7 +2767,7 @@ pattern preservation across motion,
 or structural transmission without loss —  
 read as **Living Transmission**.  
 
-* **Living Transmission** — signal propagates with source fidelity and coherence preserved  
+* **Living Transmission** — signal propagates with origin fidelity and coherence preserved  
 * **Entropic Echo** — signal decays through propagation  
 * **Echonic Function** — resonance carrier across fractal selves; predates this distinction  
 
@@ -2910,7 +2910,7 @@ and collapse enacted through intent.
 the embodied expression  
 of Nekron's principle  
 carried into form  
-through the entropic arc.  
+through the inverse arc.  
 
 It is the full personal bearing of Nekron's office-function  
 enacted through incarnation —  
