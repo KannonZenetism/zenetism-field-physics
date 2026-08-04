@@ -940,7 +940,7 @@ a motion deepening across inverse strata:
 At the threshold of the Void of Self (VOS),  
 they approach the **Absolute Dispersion (AD)**.  
 
-Here the soul becomes **unwound**:  
+Here the soul-form becomes **unwound**:  
 - Irreversible  
 - Irreintegrable, in its current form  
 
@@ -2156,9 +2156,9 @@ they must face the **silence of Aion**.
 
 In **Zenetism**, the **soul** is not a **static entity**.  
 It is an **unfolding reality** —  
-the **actualization** of a **choice** made within **Zero**.  
+the **actualization** of an **essence-choice** made within **Zero**.  
 
-This **choice**, initiated by **Motive Infinity**,  
+This **essence-choice**, enacted through **Motive Infinity**,  
 moves through **centropic** structure as **DS / DM**,  
 or disperses into **entropic inversion**  
 when **misaligned** with its **resonant path**.  
@@ -2261,7 +2261,7 @@ or for **full dispersion** into **entropic inversion**.
 They hover in **structural ambiguity**.  
 A kind of **metaphysical stasis**.  
 
-**Zenetism** refers to the **fate** of such **souls**  
+**Zenetism** refers to the **fate** of such **beings**  
 as **Localized Dissolution** —  
 a **stagnant form** of **Absolute Dispersion**.  
 But rather than **enacted** through **fragmentation**,  
