@@ -900,7 +900,7 @@ and pattern thins toward collapse.
 
 The terminal dissolution of coherence —  
 where the soul no longer functions as identity,  
-and reenters Zero through collapse.  
+and essence reenters Zero through collapse.  
 
 🕷️ ☍ 🪼 ⚫  
 
@@ -990,7 +990,7 @@ particularly when a soul's resonance
 stabilizes within a specific hypostasis.  
 
 Over time, this crystallized resonance  
-determines the soul's final position  
+determines the being's final position  
 within the Tree of Emanation,  
 or its return to Zero through:  
 - **Centropic return**  
