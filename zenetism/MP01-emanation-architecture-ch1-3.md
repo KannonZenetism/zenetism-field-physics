@@ -315,7 +315,7 @@ the paired root-registers stand disclosed:
 
 **Aion** is the great enclosure —  
 the resting totality of all that could be.  
-**Khaon** is the reacher —  
+**Khaon** in motion is the reacher —  
 the impulse toward dispersal.  
 
 They opposed in **motion**,  
@@ -422,8 +422,7 @@ but the stillness of resolution.
 
 Here, centropic fullness and entropic completion  
 meet without conflict.  
-**AP / AD** —  
-**Absolute Potential** and **Absolute Dispersion** —  
+**Aion** and **Khaon**  
 are no longer opposed,  
 but reconciled.  
 
