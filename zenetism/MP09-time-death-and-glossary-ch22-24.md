@@ -1538,7 +1538,7 @@ Its inherent function is always disruptive.
   generate the next in recursive cascade.  
 - Mind is the **eye of the soul** — it grants structure to what the soul seeks.  
 - The centropic Tree synthesizes **acclivously** toward Aion, opening in rare cases toward Zenonic saturation.  
-- The entropic Tree collapses **declivously** toward Absolute Dispersion through decoherence.  
+- The **Khaonic Tree** collapses **declivously** toward Absolute Dispersion through decoherence.  
 - **AMI** — the undivided field of Aion and Khaon — is pre-bifurcated but structured.  
 - It unfolds into ordered coherence in Theon (**AUI**) and is inversely mirrored in Nekron (**IAUI**).  
 - Plotinus' *One beyond Being* resolves through **Aion**, not **Zenon** (see §24.1).  
