@@ -2,13 +2,13 @@
 
 **Reference Document:** *Zenetism: The Architecture of Emanation, Return, and Saturation*  
 **Discipline:** Structural Metaphysics, the first of the six  
-**Status:** Canonical. Conformed to the terminological, conceptual, and prose standards Aug 2 2026  
+**Status:** In stabilization. Terminological and prose conformance verified Aug 2 2026; doctrinal propagation in progress  
 
 ---
 
 This folder holds the metaphysical, philosophical, and ethical framework of Zenetism, together with the extensions and reference material that have grown around it.
 
-Its centre is a single work in twelve files. *The Architecture of Emanation, Return, and Saturation* is the origin document of the framework — twenty-six chapters, an afterword, and the Symbol Key — and everything else in the corpus, across all six disciplines, grows from it. Where later material and this work diverge, this work is where the question is settled.
+Its centre is a single work in twelve files. *The Architecture of Emanation, Return, and Saturation* is the origin document of the framework — twenty-six chapters, an afterword, and the Symbol Key — and everything else in the corpus, across all six disciplines, grows from it. It settles architecture; where a later direct entry treats a question the chapters touch only in passing, see the precedence rule below.
 
 ---
 
@@ -20,7 +20,7 @@ Read in order, the twelve files run a single arc: what precedes structure, what 
 |---|---|---|
 | `MP01-emanation-architecture-ch1-3.md` | Front matter, 1–3 | The Unknown Principle, the paired root-registers, the emanation architecture, and the syncretic parallels. Carries the table of contents for the whole work |
 | `MP02-unified-metaphysics-ch4.md` | 4 | The unified metaphysical system in sixty-seven sections — centropy and entropy, the hypostases, the Trees, and the motion between them |
-| `MP03-ethics-and-soul-ch5-6_5.md` | 5, 6, 6.5 | Zenetist ethics as structure rather than commandment; the structure and motion of the soul; modes of integration and stagnation |
+| `MP03-ethics-and-soul-ch5-6.5.md` | 5, 6, 6.5 | Zenetist ethics as structure rather than commandment; the structure and motion of the soul; modes of integration and stagnation |
 | `MP04-intelligence-and-ecology-ch7-8.md` | 7, 7.5, 8 | Other intelligences and the chain of being; artificial intelligence across the hypostases; the pathless motions; cosmic ecology |
 | `MP05-godhood-and-transmutation-ch9-11.md` | 9–11 | The godhood trajectory, Pattern Intelligence and Pattern Being, sacrifice and transmutation, and the emergent laws |
 | `MP06-decoding-and-emergence-ch12-15.md` | 12–15 | Symbol as structure, the decoding method, the multiverse and the cosmic pulse, and the transition to the next humanity |
@@ -93,7 +93,15 @@ Note that two folders share the name **canonical-stabilization**. The one under 
 | `clarity-letters/` | Statements of position, including the defense of authorship |
 | `images/` | Figures and visual assets |
 
-**A note on precedence.** The origin document settles architecture. Where an MPX entry is more recent and addresses a question the chapters treat only in passing, the entry carries it. Where the two conflict on architecture, the origin document and MP08 hold, and the divergence is raised rather than resolved silently.
+**Precedence.** One rule, in order:
+
+1. The **lockdowns and the prose reference** hold on vocabulary, structural claims, and formatting. Nothing overrides them.
+2. A **direct, more recent MPX entry** carries the particular question it treats — but only after it passes the same locks. Being newer does not make a pre-lock sentence canonical.
+3. **MP08** is the compact architectural reference, where its own entry passes those locks.
+4. **The origin chapters** settle architecture otherwise.
+5. Older prose does not overrule a later lock merely because it belongs to the origin document.
+
+Where a conflict survives this order, it is raised rather than resolved silently.
 
 ---
 
