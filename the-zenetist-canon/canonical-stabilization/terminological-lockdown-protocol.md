@@ -1304,6 +1304,27 @@ Wield-language is admissible only where the entropic instrumentalist frame is th
 - embody
 - express
 
+Retained: external quotation and analysis, including traditional epithets under description.
+
+---
+
+## Splice Terminology Restriction
+
+Splice, splicing, and re-splicing are restricted in canonical Zenetist composition.
+
+To splice is to join severed ends into a single continuous body. The term therefore carries a fusion relation at both ends: it presumes a prior severance and produces a merged whole. Neither is lawful where distinct files, registers, or structures are brought into agreement without becoming one thing.
+
+Where a twin file or mirrored chart is brought into agreement with its baseline, the operation is **re-derivation**: the body is derived again from the operative file, and identity is asserted rather than assumed. The two documents remain numerically distinct throughout.
+
+Replace with:
+
+- re-derive · re-derivation
+- rebuild from
+- conform to the baseline
+- bring into agreement with
+
+Retained: literal external and technical senses under description, such as genetic or film splicing named as another domain's term.
+
 ---
 
 ## Elevate Terminology Restriction
