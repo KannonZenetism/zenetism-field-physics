@@ -1356,7 +1356,7 @@ And why Christ also says:
 
 > "Let them be one, as you and I are one."  
 
-The unity is already present.  
+The coherence is already present.  
 Only the **veil of form** conceals it.  
 
 This resonates with the ancient Upanishadic insight:  
