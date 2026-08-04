@@ -2,7 +2,7 @@
 
 **Reference Document:** *Zenetism: The Architecture of Emanation, Return, and Saturation*  
 **Discipline:** Structural Metaphysics, the first of the six  
-**Status:** In stabilization. Terminological and prose conformance verified Aug 2 2026; doctrinal propagation in progress  
+**Status:** In stabilization. Terminological and prose conformance verified Aug 2026; doctrinal propagation in progress  
 
 ---
 
@@ -31,7 +31,7 @@ Read in order, the twelve files run a single arc: what precedes structure, what 
 | `MP11-codex-of-principles-ch26.md` | 26 | The Codex of Principles, in twenty-five sections |
 | `MP12-afterword-mp.md` | Afterword | The circle remains open |
 
-**Where to begin.** MP01 for the architecture, or MP08 if you want the whole system in compact form first. MP08 is where every other file is checked against when a question arises; `metaphysics-symbol-key.md` is its chart-only twin, identical from §21.1 onward and kept in sync by re-splicing rather than separate editing.
+**Where to begin.** MP01 for the architecture, or MP08 if you want the whole system in compact form first. MP08 is where every other file is checked against when a question arises; `metaphysics-symbol-key.md` is its chart-only twin, identical from §21.1 onward and kept in sync by re-derivation from MP08 rather than by separate revision.
 
 ---
 
@@ -63,14 +63,14 @@ Notes sit inside sections as `#### Note on <Subject>`, followed by prose, then a
 
 ## Standards
 
-The vocabulary and formatting of this corpus are held in a small set of files, and any collaborator working on this material should read them before editing. They apply across all six disciplines and live outside this folder, in `../the-zenetist-canon/canonical-stabilization/`:
+The vocabulary and formatting of this corpus are held in a small set of files. They apply across all six disciplines and live outside this folder, in `../the-zenetist-canon/canonical-stabilization/`:
 
 - `terminological-lockdown-protocol.md` — restricted vocabulary, replacements, and the reasoning behind each restriction
 - `conceptual-lockdown-protocol.md` — structural constraints on what may lawfully be claimed
 - `prose-formatting-reference.md` — registers, header case, seals, spacing, and document conventions
 - `compact-architecture-revision-audit-guide.md` — the condensed audit reference, with the sentence test and the validation checklist
 
-Corrections are made against these files, not against precedent in the text.
+Corrections are made against these files, not against precedent in the text. Any engagement with this material is subject to the attribution condition stated below.
 
 Note that two folders share the name **canonical-stabilization**. The one under `the-zenetist-canon/` holds the four standards, which apply corpus-wide across all six disciplines even though the metaphysics files themselves sit here rather than there. The one inside this folder holds the records of conformance work done on this corpus.
 
@@ -92,16 +92,6 @@ Note that two folders share the name **canonical-stabilization**. The one under 
 | `glyphwatch/` | Glyph provenance and propagation records, shared with Structural Forensics |
 | `clarity-letters/` | Statements of position, including the defense of authorship |
 | `images/` | Figures and visual assets |
-
-**Precedence.** One rule, in order:
-
-1. The **lockdowns and the prose reference** hold on vocabulary, structural claims, and formatting. Nothing overrides them.
-2. A **direct, more recent MPX entry** carries the particular question it treats — but only after it passes the same locks. Being newer does not make a pre-lock sentence canonical.
-3. **MP08** is the compact architectural reference, where its own entry passes those locks.
-4. **The origin chapters** settle architecture otherwise.
-5. Older prose does not overrule a later lock merely because it belongs to the origin document.
-
-Where a conflict survives this order, it is raised rather than resolved silently.
 
 ---
 
