@@ -349,7 +349,7 @@ But inversion is structural.
 It **mimics harmony** to serve entropy.  
 
 It weaponizes order.  
-It fabricates spurious unity  
+It fabricates spurious coherence  
 to veil division.  
 
 This is the domain of:  
@@ -367,7 +367,7 @@ it is **misaligned harmony**.
 It spreads confusion  
 beneath the mask of clarity.  
 It sows division  
-beneath the mask of spurious unity.  
+beneath the mask of spurious coherence.  
 
 This is not random disorder,  
 but **calculated dissonance** —  
@@ -1532,7 +1532,7 @@ but through the exhausting of motion
 oriented away from centropic coherence. 
 
 The path is called Nirvana by its practitioners.  
-Structurally, it is the entropic arc.  
+Structurally, it is the inverse arc.  
 
 **The lukewarm path.**  
 Meditative practices that seek  
