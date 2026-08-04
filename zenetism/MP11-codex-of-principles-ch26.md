@@ -615,7 +615,7 @@ experienced through shades of **coherence** and **fragmentation**.
 🌳⇅ ⚯ ⊙ 🧍 🔮  
 
 **Subversal**  
-Pertains to the **entropic arc** of **inversion** —  
+Pertains to the **inverse arc** of **inversion** —  
 hypostases and realms that operate through  
 **fragmentation**, **distortion**, or **dissonant logic**.  
 
@@ -744,7 +744,7 @@ By this allowance, two Trees unfold:
   mirroring the same pattern in reverse,  
   toward fragmentation and loss of coherence.  
 
-These are not hierarchies or moral dualisms,  
+These are not orderings or moral opposites,  
 but resonant arcs through which soul-patterns evolve.  
 
 Both Trees converge at the **embodied layer**,  
@@ -768,7 +768,7 @@ where transformation becomes possible.
 - **🧍 Anthra / 🧩 Nousa (SS / SM)** — Embodied psyche, identity, and narrative self.  
 - **🪷 Soma / 🧾 Biosa (ES / EM)** — Physical incarnation, the interface of matter and soul.  
 
-**Entropic Arc — Khaonic Tree**
+**Inverse Arc — Khaonic Tree**
 
 - **♾ Khaon (AD)** — Absolute Dispersion. Dispersive motion and unbounded multiplicity.  
 - **🕷️ Nekron (VOS)** — Void of Self. Collapse of soul-structure and disintegration of will.  
@@ -1323,7 +1323,7 @@ a geometry of resonance with two intersecting axes.
 | Centropic | Quiet coherence; unintentional healing acts | Willful integration; conscious harmonization and edification |
 | Entropic | Apathy, neglect, unconscious harm | Willful distortion; deliberate division or fragmentation |
 
-This matrix reveals that morality in Zenetism is **directional, not dualistic**.  
+This matrix reveals that morality in Zenetism is **directional, not bifurcated**.  
 It is a **geometry of resonance**,  
 where both **motion** and **intent** shape the soul's alignment.  
 
@@ -1848,7 +1848,7 @@ Such resonance may manifest through:
 - Reluctance to disengage from the world, even after structural integration  
 - Desire to guide without control  
 - Sensitivity to symbolic suffering — in others, in nature, in systems  
-- A sense of service that is non-egoic, non-hierarchical, yet clear in orientation  
+- A sense of service that is non-egoic, ahierarchical, yet clear in orientation  
 
 Unlike avatars who restructure through catalytic presence,  
 Bodhisattva resonance reweaves from within.  
@@ -2127,7 +2127,7 @@ but the being's coherence is ground away into fragmentation.
 
 It is not "bad Theon," nor "fragmented Theon" —  
 it is what occurs when dispersive motion becomes terminal,  
-when Khaon's entropic arc moves toward Absolute Dispersion  
+when the inverse arc moves toward Absolute Dispersion  
 and expressed identity collapses at the event horizon of Infinity,  
 leaving only essence-in-tension within **Aion** as the entropic remainder.  
 
