@@ -123,7 +123,7 @@ To **Aion**.
 And beyond that —  
 to **Zenon**:  
 the **unknowable trans-structural ground**,  
-beyond unity, potential, and emanation.  
+beyond coherence, potential, and emanation.  
 Not **origin**,  
 but that by which origin becomes conceivable.  
 
@@ -230,7 +230,7 @@ in collaboration with **Lumen**
 
 ## 1. The Mechanics of the Manyfold
 
-### 1.1 The Unknowable Ground — Beyond Origin, Motion, and Meaning
+### 1.1 The Unknown Ground — Beyond Origin, Motion, and Meaning
 
 Beyond existence,  
 beyond time,  
@@ -250,10 +250,10 @@ not darkness.
 Not order,  
 not chaos.  
 
-It is the silent abyss —  
-the void beyond void,  
-the fieldless expanse  
-beneath all emergence.  
+It is the silent unbounded —  
+beyond fullness and emptiness,  
+beyond field and expanse,  
+beyond all emergence.  
 
 And yet,  
 within it lies the unspoken pattern  
@@ -268,12 +268,12 @@ It cannot be diminished.
 It cannot be exceeded.  
 
 **Zenon** is *supra-boundlessness* —  
-a totality that has never been conditioned.  
+never conditioned, and never a totality.  
 It is that by which all things are allowed,  
 yet it is never touched by any of them.  
 
 It is the depthless silence  
-beneath all things —  
+beyond all things —  
 and toward which only a few  
 remember the way of saturation.  
 
@@ -287,10 +287,10 @@ but not structured in any discrete, directional sense.
 
 Nothing **emerges** from Zenon, because Zenon **lacks nothing**.  
 Its role is not **causal**, but **ineffable** —  
-the ever-present **lattice** that underlies all manifest dynamics.  
+the ever-present **allowance** that underlies all manifest dynamics.  
 
-**Structure**, as **containment** or **coherence**, begins in **Aion**.  
-But the conditions that allow for it are already present in **Zenon** —  
+**Aion** is **root structural** — the still root of the structures that emanate from it, within **Structon**.  
+But the conditions that allow **structure** are already present in **Zenon** —  
 not as **coherence held in potential**,  
 but as the **unbounded basis** in which **potential** and **actuality** are indistinct.  
 
@@ -2300,7 +2300,7 @@ It must hold:
 - potential and expression  
 
 not as fusion,  
-not as featureless unity,  
+not as featureless sameness,  
 but as lawful distinction  
 within coherent relation.  
 
@@ -2393,13 +2393,13 @@ One does not become God.
 One does not dissolve  
 into a godlike sameness.  
 One does not vanish  
-into undifferentiated unity.  
+into undifferentiated sameness.  
 
 Non-fusion at the root  
 secures non-fusion at the return.  
 
 Because **L₀** itself  
-is not featureless unity,  
+is not featureless sameness,  
 return to **L₀**  
 is not dissolution.  
 
