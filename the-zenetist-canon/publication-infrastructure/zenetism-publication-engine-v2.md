@@ -1,11 +1,11 @@
 # Zenetism Publication Engine
-## GitHub–Zenodo Publication Specification — Version 2
+## GitHub / Zenodo Publication Specification — Version 2
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Publication Infrastructure — Validated Implementation Specification  
 **Status:** Operational specification — validated through first complete production cycle — August 6 2026  
 **Repository role:** Durable implementation reference for Work / Codex publication automation  
-**Validated reference cycle:** `zenetism-in-plain-language.md` → Zenodo v2
+**Validated reference cycle:** `zenetism-in-plain-language.md` → Zenodo v2  
 
 ---
 
@@ -35,13 +35,13 @@ Automation is successful only when it reduces architect intervention to review o
 
 ---
 
-# 2. Repository Placement and Governing References
+# 2. Repository Placement and Authoritative References
 
 This specification resides at:
 
 `publication-infrastructure/zenetism-publication-engine-v2.md`
 
-The following governing references remain authoritative in their existing locations:
+The following references remain authoritative in their existing locations:
 
 - `the-zenetist-canon/canonical-stabilization/terminological-lockdown-protocol.md`
 - `the-zenetist-canon/canonical-stabilization/prose-formatting-reference.md`
@@ -59,7 +59,7 @@ No credential, token, password, authentication cookie, or private secret may be 
 
 ---
 
-# 3. Authority and Priority
+# 3. Precedence and Priority
 
 Where instructions appear to conflict, apply this order:
 
@@ -107,7 +107,7 @@ Zenodo carries:
 - the all-versions concept DOI
 - publication metadata
 - public citation metadata
-- record-level provenance and relations
+- per-record provenance and relations
 
 Zenodo does not replace GitHub as the authoritative working repository.
 
@@ -119,7 +119,7 @@ https://zenetism.aelionkannon.chatgpt.site
 
 The Site is the public discovery and navigation layer.
 
-When a Zenodo record is related to the Site, use the clean URL without referral parameters.
+When a Zenodo record is related to the Site, apply the clean URL without referral parameters.
 
 Current relation convention:
 
@@ -132,7 +132,7 @@ Do not place referral-bearing forms such as `?utm_source=chatgpt.com` into Zenod
 
 ## 4.4 Architect
 
-The architect retains final authority over:
+The architect retains final determination over:
 
 - whether a GitHub difference warrants publication
 - whether a new Zenodo version should be created
@@ -287,7 +287,7 @@ with:
 
 **No, I need one.**
 
-Use **Yes, I already have one** only when the exact uploaded object already possesses a DOI assigned outside the current Zenodo deposit workflow.
+Select **Yes, I already have one** only when the exact uploaded object already possesses a DOI assigned outside the current Zenodo deposit workflow.
 
 Never enter:
 
@@ -381,7 +381,7 @@ The manifest must state the approved roster for each record.
 
 Populate Zenodo's Copyright field when available.
 
-Use the architect-approved copyright string.
+Apply the architect-approved copyright string.
 
 For the validated reference cycle:
 
@@ -429,7 +429,7 @@ The rendered Zenodo description must show:
 - the filename as Zenodo inline-code highlighting
 - no visible literal backtick characters
 
-Implementation should use Zenodo-supported inline-code semantics, such as the resulting `<code>` element.
+Implementation should apply Zenodo-supported inline-code semantics, such as the resulting `<code>` element.
 
 The precise GitHub directory belongs in the Repository URL field.
 
@@ -513,7 +513,7 @@ Choose metadata-only revision when:
 - no file replacement is required
 - only metadata requires correction
 
-Do not use a metadata-only revision to disguise a file mismatch.
+A metadata-only revision must not disguise a file mismatch.
 
 ## 20.3 New version
 
@@ -588,6 +588,7 @@ preview:
 
 publication:
   architect_publish_required: true
+```
 
 The approved manifest, not Zenodo's inherited draft state, controls production.
 
@@ -602,9 +603,9 @@ After writing metadata:
 1. Save the draft.
 2. Reload the draft.
 3. Read the saved values back.
-4. Compare every governed field against the approved manifest.
+4. Compare every manifest-controlled field against the approved manifest.
 5. Inspect rendered Preview behavior.
-6. Stop if any governed value differs.
+6. Stop if any manifest-controlled value differs.
 
 Do not accept "save succeeded" as proof that the draft is correct.
 
@@ -626,7 +627,7 @@ A mismatch in any of the following blocks publication:
 - DOI handling
 - version-family identity
 
-No Publish action may occur while any governed field is unresolved.
+No Publish action may occur while any manifest-controlled field is unresolved.
 
 ---
 
@@ -699,7 +700,7 @@ Sandbox never substitutes for production version-family verification.
 
 After explicit authorization:
 
-1. use New version where applicable
+1. begin from New version where applicable
 2. preserve the concept DOI
 3. reserve the new Zenodo DOI
 4. upload the `_vN` archival copy
@@ -707,7 +708,7 @@ After explicit authorization:
 6. explicitly set Preview
 7. save
 8. reload
-9. validate every governed field
+9. validate every manifest-controlled field
 10. open rendered Preview
 11. stop
 
@@ -773,7 +774,7 @@ Browser / Work interaction should be reserved for:
 - rendered visual verification
 - architect review
 
-The engine should not require the architect to manually police ordinary metadata fields.
+The engine should not require the architect to manually inspect ordinary metadata fields.
 
 ---
 
@@ -898,7 +899,7 @@ The Publication Engine succeeds when the architect can provide or approve a publ
 
 The engine fails its purpose if routine publication requires the architect to manually inspect and repair every inherited Zenodo field.
 
-The system exists to preserve creative capacity and keep publication infrastructure subordinate to the work itself.
+The system exists to preserve creative capacity and keep publication infrastructure oriented to the work itself.
 
 ---
 
