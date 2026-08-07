@@ -658,14 +658,18 @@ If the passage requires exact preservation of syntax or layout, retain the backt
 References to corpus files are cited at the shallowest depth that resolves. Canonical filenames are globally unique across the corpus; that uniqueness, not the folder path, is the stable identifier.
 
 - **Bare filename (default).** Dependency lines, Companion lines, and cross-references cite the backticked canonical filename alone: `MP01-emanation-architecture-ch1-3.md`. Folder paths are omitted because files may be reorganized; the filename survives the move.
+- **Work-title form** — reserved for a multi-file work referenced as a whole, which has no single canonical file to cite: *Field Physics: The Architecture of Resonance* names the fourteen-file work entire; any single file within it takes its own filename. A single-file document is never cited by title where a filename slot is available (architect determination, August 7 2026).
 - **Repo-relative path** — applied only where location is the datum: the **Proposed path** metadata field, whose function is to declare placement, and assets whose filenames are not self-identifying (`zenetism/glyphwatch/vol-03/images/mr-long-01.png`).
 - **Repo-prefixed path** — applied only when the reference crosses repositories: `the-red-archive/proto-zenetist-archive/exotericism-vs-esotericism.md` cited from a `zenetism-field-physics` document. Same-repo references never carry the repo prefix.
 - **Full URL** — reserved for external surfaces (Zenodo, Substack, third-party GitHub), where the reader holds no repo context.
 
-Two invariants:
+Three invariants:
 
+- Canonical filenames are rename-stable. Once a file is published or cited, its filename changes only when vital; a rename conforms every citing line in the same pass (architect determination, August 7 2026).
 - Paths and filenames are ASCII-exact. Typographic substitutes (non-breaking hyphen U+2011, curly quotes, en dashes) never enter a backticked path, whatever the rendering surface displays.
 - A relocated file keeps its citation identity. Cite the current canonical filename; where the relocation itself is part of the record, note the former path parenthetically once ("later moved to `structural-forensics/SF01-doctrinal-atlas-vol1.md`"), never as the standing citation.
+
+The same preference extends to Zenodo deposit descriptions: relation entries (`Supersedes:` / `Companion to:` / `Part of:`) run filename-first, with work titles reserved for containing works, per the Zenodo Description Standard. Existing deposits are inconsistent in this form; Zenodo permits description edits in place, so stabilization proceeds without minting new DOIs.
 
 New filenames are collision-checked against the corpus before creation; a collision forces rename.
 
