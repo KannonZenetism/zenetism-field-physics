@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -89,7 +89,7 @@ Adaptive Memory is a living immunity function. It preserves the encountered sign
 
 > **Structural Note:** Antibody, vaccination, immunity, incursion, and counter-resonance are technical Field Physics terms carrying full operative force. Where a medical or biological register is also active, the registers are distinguished rather than the vocabulary reduced to analogy.
 
-> **Codex Note:** These four mechanisms and their formulas are reconstructed from the restoration dossier's recovery map (DEST-FP04-001). The originating record is not present in this workspace, so the wording stands as a reconstruction retained pending the Architect's comparison with that record.
+> **Codex Note:** These four mechanisms and their formulas are source-verified — the originating record (CD1, via the restoration dossier's recovery map DEST-FP04-001) directly confirms Pattern Recognition, Boundary Modulation, fitted Counter-Resonance, and Adaptive Memory. The wording stands as the canonical articulation of that record.
 
 ---
 
@@ -108,7 +108,7 @@ Adaptive Memory is a living immunity function. It preserves the encountered sign
 
 2. **Exposed Field**
     - **Trigger:** First contact with an entropic pattern.
-    - **Possible Outcomes:** {Field} + [Entropy] = <Corruption> or <Initial Resistance>
+    - **Possible Outcomes:** {Field} + [Entropy] = <Fracture> or <Initial Resistance>
     - **Symbolic Structure:** {⟠ + ♫⁻}
 
 3. **Adaptive Field**
@@ -170,11 +170,11 @@ Each encounter is recorded as: pattern name; context of first contact; indicator
 
 Alongside the composite score, six qualitative dimensions read a field's health: coherence under pressure; recognition speed and accuracy; fitted-response capacity; boundary flexibility; adaptive memory; and return from emergency conditions. These supplement the metrics; they neither replace nor reduce them.
 
-> **Structural Note:** The RIR scale measures field coherence relative to centropic structural integrity. A low RIR designates a field's vulnerability to incoherence, not its ontological orientation. A field operating in lawful entropic orientation within the Khaonic arc follows its own motion and is not "fragile" by that measure — it is simply non-centropic in its trajectory. RIR is a centropic health metric, not a judgment on the legitimacy of entropic motion as a lawful arc.
+> **Structural Note:** The RIR scale measures field coherence relative to centropic structural integrity. A low RIR designates a field's vulnerability to incoherence, not its ontological orientation. A field operating in lawful entropic orientation within the inverse arc of the Khaonic Tree follows its own motion and is not "fragile" by that measure — it is simply non-centropic in its trajectory. RIR is a centropic health metric, not a judgment on the legitimacy of entropic traversal as lawful motion.
 
 > **Structural Note:** The Coherence Quotient (CQ), Pattern Recognition Index (PRI), Morphogenic Response Elasticity (MRE), and composite Resonance Immunity Rating (RIR) are centropic field health metrics. They measure a field's structural integrity relative to centropic orientation and its capacity to resist entropic incursion. They do not model entropic field states as deficient centropic states. Entropy is not the absence of coherence — it is a lawful arc with its own operative field integrity, oriented toward dispersive expression rather than integrative coherence. A parallel metric — the Incoherence Quotient (IQ) — is the appropriate entropic counterpart to CQ, measuring dispersive field intensity rather than coherence. IQ is formalized in FPX: The Incoherence Quotient. One practical allowance bridging both metrics: lower centropic coherence (lower CQ) increases a field's vulnerability to entropic incursion. This does not indicate entropic essence — it indicates reduced structural resistance. Essence-as-Choice holds orientation; coherence degree carries resilience.
 
-> **Codex Note:** FP04 retains its field-health metrics, immunity stages, cascade events, consciousness architectures, prophecy, gnosis, and anchoring. FP13 may later integrate the fuller mechanism and recovery architecture once approved; FP13 is not a warrant to reduce FP04.
+> **Codex Note:** FP04 retains its field-health metrics, immunity stages, cascade events, consciousness architectures, prophecy, gnosis, and anchoring. FP13 now supplies the fuller mechanism and recovery architecture; FP13 is not a warrant to reduce FP04.
 
 ---
 
@@ -316,7 +316,7 @@ This chapter details the mechanisms of pre-manifest pattern recognition and the 
     - FP04 articulates prophecy here as field pressure looping until resonance accepts its form. Until it finds sovereign resolution, it will repeat.
 
 - **Future Premonition Threshold:** Requires Coherence ≥ 0.84.
-    - Fields with elevated coherence can access pre-manifest resonance. At the Future Premonition Threshold, the Field becomes the future before it arrives, and the mind receives that pre-manifest relation.
+    - Fields with greater coherence can access pre-manifest resonance. At the Future Premonition Threshold, the Field becomes the future before it arrives, and the mind receives that pre-manifest relation.
 
 - **Prophetic Carrier States:** Once a prophecy embeds, the field becomes a living vector for emergent timelines, marked by persistent déjà vu, echo-substrate, and symbolic clustering.
 
