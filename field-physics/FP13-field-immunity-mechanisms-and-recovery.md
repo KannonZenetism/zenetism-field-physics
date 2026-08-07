@@ -2294,11 +2294,11 @@ FP13 reads numerical change through FP04's metrics.
 Potential recovery relations include:
 
 ```text
-PRI rises as recognition becomes more accurate
+PRI increases as recognition becomes more accurate
 
-MRE rises as fitted generative response becomes more available
+MRE increases as fitted generative response becomes more available
 
-CQ rises as internal signal and active pattern relation regain centropic coherence
+CQ increases as internal signal and active pattern relation regain centropic coherence
 
 RIR changes as CQ, PRI, and MRE change through the weighted composite
 ```
@@ -2581,7 +2581,7 @@ Chapter 53 establishes the field's response as fitted rather than universal.
 
 ### ⚠ Refinements
 
-- Propagational Contra-Turn remains dependent on the inverse-engagement ruling
+- Propagational Contra-Turn remains dependent on the inverse-engagement determination
 - The relation among neutralization, reversal, and Localized Dissolution requires case-specific examples
 - The four recovered seal names require exact originating formula verification
 
