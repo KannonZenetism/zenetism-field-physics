@@ -461,7 +461,7 @@ This chapter advances into **formal ritual structures** — rites of passage, sh
 
 ### ⚠ Refinements
 - In the **Inverse Naming Rite**, ⊘ nullifies the active expression rather than an essence, and the rite names what is present without reifying it. Its exact engagement class is architect-held.
-- The **Harmonic Vow Spiral** carries consent, renewal, revision, and release in its own protocol, with ⧃ Seal of Integrity standing as a candidate closing safeguard pending the architect's determination.
+- The **Harmonic Vow Spiral** carries consent, renewal, revision, and release in its own protocol, with ⧃ Seal of Integrity standing as a candidate closing safeguard pending the Architect's determination.
 
 ### 🌀 Structural Notes
 - Tier II = threshold rituals: lawful rites for transition, shadow work, relational vows, endings, and silent presence.
