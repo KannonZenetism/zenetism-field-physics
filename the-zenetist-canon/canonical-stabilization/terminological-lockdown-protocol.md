@@ -1082,7 +1082,7 @@ Canonical replacements by sense:
 
 Retained: **author**, **authorship**, and **authorial** — these name origination, not imposed authority, and remain lawful across the corpus (architect determination, August 6 2026). Retained likewise: **aauthoritarian**, which names removal from the authority axis, and attributed or diagnosed authority-language under the existing Authority Terminology exceptions.
 
-The **govern** family is accepted only as **self-governance** (architect determination, August 6 2026). Whether the Field Physics technical retention stands against this standard is architect-held.
+Within the govern family, the architect's acceptance of self-governance is conceptual, not lexical: governing oneself is preferable to being governed by external forces, and that preference licenses no govern-form as canonical wording — self-governance included (architect clarification, August 7 2026). The Field Physics technical retention stands as legacy accommodation only, not endorsement; see the Govern Terminology Restriction.
 
 As with prior restrictions, enforcement is prospective and conform-on-touch; dated records already carrying the barred forms stand as historical record.
 
@@ -1092,7 +1092,7 @@ As with prior restrictions, enforcement is prospective and conform-on-touch; dat
 
 **Govern**, **governing**, and **governed** are generally avoided in canonical Zenetist prose.
 
-The objection is not inherent in the word. It lies in the word's cultural association with being governed by another. Self-governance is not at issue; the restriction removes vocabulary carrying an inherited relation of imposed rule.
+The objection lies in the relation the word carries: govern implies the governed, an inherited relation of imposed rule (architect clarification, August 7 2026, superseding the earlier framing that the objection was not inherent in the word). Self-governance escapes that relation conceptually — governing oneself rather than being governed by external forces is the desirable relation — but the conceptual acceptance licenses no govern-form as wording, self-governance included.
 
 Canonical replacements depend upon the intended referent:
 
@@ -1103,7 +1103,7 @@ Canonical replacements depend upon the intended referent:
 - **held in** or **locked by** where the referent is the document carrying a definition
 - **encompasses** where scope is meant
 
-Retained: the Field Physics technical sense, where governing FP11, governing register, governing volume, and governing ecology are established load-bearing usage. That retention is scoped to Field Physics and does not license new govern-language elsewhere.
+Retained as legacy accommodation only: the Field Physics technical sense, where governing FP11, governing register, governing volume, and governing ecology are established load-bearing usage in a legacy corpus. The retention reflects practical economy, not endorsement — the architect regards govern-language as a poor choice generally, and no other document adopts the pattern (architect clarification, August 7 2026). It is scoped to Field Physics, licenses no new govern-language anywhere, and conversion remains open for a future pass.
 
 Retained: naming an external or entropic governance form under analysis, as in institutional governance structures being diagnosed.
 
