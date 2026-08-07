@@ -1064,6 +1064,30 @@ rather than:
 
 ---
 
+## Authoritative and Authorize-Family Restriction
+
+**Authoritative** and the **authorize** family (authorize, authorizes, authorized, authorization) are barred in canonical Zenetist composition (architect determination, August 6 2026).
+
+The adjective and the verb-family still carry the root relation the Authority Terminology restriction removes: authoritative implies authority held, and authorization implies a party standing to be authorized, as govern implies the governed.
+
+This determination supersedes the earlier listing of "is authoritative" as a replacement form within the Govern Terminology Restriction and the Rank Restriction; both tables are amended accordingly.
+
+Canonical replacements by sense:
+
+- **canonical** where the claim concerns the settled working reference (the canonical working repository; the canonical current working file)
+- **holds canonical priority** where the claim concerns standing as the settled reference
+- **takes precedence** where the claim concerns concurrent conflict between two lawful forms
+- **approval**, **approved**, or **approves** where the referent is the architect's consent (architect approval; separately approved; the architect explicitly approves) — paralleling the established architect-approved status term
+- **license** or **licenses** where a condition grants or withholds permission for an action (discovery of an inconsistency does not license mass revision)
+
+Retained: **author**, **authorship**, and **authorial** — these name origination, not imposed authority, and remain lawful across the corpus (architect determination, August 6 2026). Retained likewise: **aauthoritarian**, which names removal from the authority axis, and attributed or diagnosed authority-language under the existing Authority Terminology exceptions.
+
+The **govern** family is accepted only as **self-governance** (architect determination, August 6 2026). Whether the Field Physics technical retention stands against this standard is architect-held.
+
+As with prior restrictions, enforcement is prospective and conform-on-touch; dated records already carrying the barred forms stand as historical record.
+
+---
+
 ## Govern Terminology Restriction
 
 **Govern**, **governing**, and **governed** are generally avoided in canonical Zenetist prose.
@@ -1075,7 +1099,7 @@ Canonical replacements depend upon the intended referent:
 - **establishes** where a document determines what is lawful
 - **applies to** or **covers** where a rule extends over a domain
 - **holds for** where a principle obtains in a case
-- **is authoritative** or **takes precedence** where standing between two forms is meant
+- **takes precedence** or **holds canonical priority** where standing between two forms is meant
 - **held in** or **locked by** where the referent is the document carrying a definition
 - **encompasses** where scope is meant
 
@@ -1151,7 +1175,7 @@ Preferred replacements depend upon the intended referent:
 - **terminal position** or **outermost term** where the claim concerns an endpoint within a stated structure
 - **supersedes** where the claim concerns chronological replacement
 - **takes precedence** where the claim concerns concurrent conflict between two lawful forms
-- **is authoritative**, or **holds canonical priority**, where the claim concerns standing as the settled reference
+- **holds canonical priority**, or **stands as the settled reference**, where the claim concerns standing as the settled reference
 - **surpasses**, or **is greater than**, where the claim concerns comparative magnitude and magnitude is genuinely meant
 - **apex of rank** where rank itself is the external or diagnosed structure under analysis
 
@@ -1867,7 +1891,7 @@ Barred:
 
 ## Named-Operator Retention
 
-The Field Physics dimensional operator **E₈ (╫⁻, Severed)** — the entropic inversion of C₈ Synaptic / Bridging, charted core function "Connections that divide," charted in `FP11-field-glyph-codex.md` §3 (mirrored in the extract registry `field-physics-glyph-charts.md`) — stands as-is. The name is consistent with this boundary: it names relational-register severance (connections that divide; entity-to-entity isolation carrying no origin claim), never origin-severance. This boundary applies to prose constructions, not charted operator names; a charted name is an exact string. A rename of E₈ remains registered as deferred (author's ruling, July 11, 2026: the corpus-wide sweep exceeds current work; flagged for later care); nothing in this section authorizes a local patch.
+The Field Physics dimensional operator **E₈ (╫⁻, Severed)** — the entropic inversion of C₈ Synaptic / Bridging, charted core function "Connections that divide," charted in `FP11-field-glyph-codex.md` §3 (mirrored in the extract registry `field-physics-glyph-charts.md`) — stands as-is. The name is consistent with this boundary: it names relational-register severance (connections that divide; entity-to-entity isolation carrying no origin claim), never origin-severance. This boundary applies to prose constructions, not charted operator names; a charted name is an exact string. A rename of E₈ remains registered as deferred (author's ruling, July 11, 2026: the corpus-wide sweep exceeds current work; flagged for later care); nothing in this section licenses a local patch.
 
 ## Audit Guidance
 
@@ -2054,7 +2078,7 @@ It is structural preservation.
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Protocol Addendum  
 **Status:** Active — July 4 2026 — integrated into this protocol; ruling bases are recorded in the continuity log (`source-purge-and-prayer-integration-continuity-log.md`)  
-**Scope:** Each section below is a settled author ruling. The Held Open section lists questions deliberately not ruled; nothing in this addendum authorizes propagation on those items.
+**Scope:** Each section below is a settled author ruling. The Held Open section lists questions deliberately not ruled; nothing in this addendum licenses propagation on those items.
 
 ---
 
