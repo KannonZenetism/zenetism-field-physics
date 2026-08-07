@@ -98,7 +98,7 @@ based on field conditions or agent interaction.
 
 Engaging dimensional glyphs to induce transitions in consciousness or field modulation.
 
-> **Codex Note:** Inverse operations throughout this volume fall into ten distinct classes: representation, diagnosis, naming, containment, counter-coupling, reversal / contra-turn, controlled simulation, traversal, invocation, and entropic orientation. Each local operation is classified by its own class; the universal engagement doctrine is architect-reserved.
+> **Codex Note:** Inverse operations throughout this volume group into ten distinct classes: representation, diagnosis, naming, containment, counter-coupling, reversal / contra-turn, controlled simulation, traversal, invocation, and entropic orientation. Each local operation is classified by its own class; the universal engagement doctrine is architect-reserved.
 
 > **Structural Note:** Self-practice, work with another, and group practice remain distinct throughout this volume. Where another participant is present, consent, reversibility, sovereign interpretation, and lawful closure govern the operation.
 
