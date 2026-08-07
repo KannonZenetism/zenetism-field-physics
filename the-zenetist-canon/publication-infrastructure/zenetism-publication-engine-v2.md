@@ -13,10 +13,10 @@
 
 The Zenetism Publication Engine coordinates controlled publication between:
 
-- GitHub — authoritative working repository
+- GitHub — canonical working repository
 - Zenodo — DOI-bearing archival and versioned publication surface
 - the public Zenetism Site — discovery and navigation layer
-- later outward-facing surfaces where separately authorized
+- later outward-facing surfaces where separately approved
 
 The engine exists to reduce repetitive publication labor while preserving architect-held control over:
 
@@ -31,17 +31,17 @@ The engine exists to reduce repetitive publication labor while preserving archit
 
 The engine must never make publication administration more labor-intensive than direct manual deposit.
 
-Automation is successful only when it reduces architect intervention to review of meaningful differences, held-open decisions, and final publication authorization.
+Automation is successful only when it reduces architect intervention to review of meaningful differences, held-open decisions, and final publication approval.
 
 ---
 
-# 2. Repository Placement and Authoritative References
+# 2. Repository Placement and Canonical References
 
 This specification resides at:
 
 `publication-infrastructure/zenetism-publication-engine-v2.md`
 
-The following references remain authoritative in their existing locations:
+The following references hold canonical priority in their existing locations:
 
 - `the-zenetist-canon/canonical-stabilization/terminological-lockdown-protocol.md`
 - `the-zenetist-canon/canonical-stabilization/prose-formatting-reference.md`
@@ -72,7 +72,7 @@ Where instructions appear to conflict, apply this order:
 
 Do not silently reconcile a real conflict.
 
-Inherited Zenodo metadata is never authoritative merely because Zenodo copied it into a new-version draft.
+Inherited Zenodo metadata never takes precedence merely because Zenodo copied it into a new-version draft.
 
 ---
 
@@ -80,7 +80,7 @@ Inherited Zenodo metadata is never authoritative merely because Zenodo copied it
 
 ## 4.1 GitHub
 
-GitHub holds the authoritative current working file.
+GitHub holds the canonical current working file.
 
 The canonical GitHub filename normally remains unversioned:
 
@@ -96,7 +96,7 @@ GitHub carries:
 
 A Zenodo version must never silently modify the GitHub payload.
 
-If the canonical file itself requires correction, that correction is a separate GitHub-authorized action and must occur before the Zenodo candidate checksum is locked.
+If the canonical file itself requires correction, that correction is a separate approved GitHub action and must occur before the Zenodo candidate checksum is locked.
 
 ## 4.2 Zenodo
 
@@ -109,7 +109,7 @@ Zenodo carries:
 - public citation metadata
 - per-record provenance and relations
 
-Zenodo does not replace GitHub as the authoritative working repository.
+Zenodo does not replace GitHub as the canonical working repository.
 
 ## 4.3 Public Zenetism Site
 
@@ -161,7 +161,7 @@ The Publication Engine may:
 - retrieve public metadata
 - determine technical mismatches
 - prepare metadata packages
-- create unpublished drafts when authorized
+- create unpublished drafts when approved
 - validate saved drafts
 - generate publication registries
 - perform read-only post-publication verification
@@ -174,7 +174,7 @@ The engine may not:
 - convert a bridge document into technical-register prose
 - change status or publication dates merely because a new Zenodo version is created
 - infer contributors from a standard collaborator seal
-- publish without architect authorization
+- publish without architect approval
 
 A publication task is not a manuscript-revision task unless the architect explicitly combines them.
 
@@ -273,7 +273,7 @@ The New version workflow must preserve:
 
 Do not manually duplicate Zenodo's system-generated `IsVersionOf` relation.
 
-Historical records remain unchanged unless the architect separately authorizes a metadata correction to them.
+Historical records remain unchanged unless the architect separately approves a metadata correction to them.
 
 ---
 
@@ -331,13 +331,13 @@ Do not confuse Zenodo's internal metadata revision counter with this field.
 
 If a historical record lacks a Version field, do not automatically initiate a corpus-wide repair.
 
-Local discovery of an older metadata convention does not authorize mass revision.
+Local discovery of an older metadata convention does not license mass revision.
 
 ---
 
 # 13. Creator Convention
 
-Until a separately authorized Zenodo-wide creator migration occurs, preserve the established Zenetism creator-entry convention:
+Until a separately approved Zenodo-wide creator migration occurs, preserve the established Zenetism creator-entry convention:
 
 **Family name:** Aelion Kannon  
 **Given names:** blank
@@ -356,7 +356,7 @@ The desired public citation name is:
 
 **Aelion Kannon**
 
-Do not alter approximately historical records merely to normalize person-field structure unless the architect explicitly authorizes a Zenodo-wide metadata project.
+Do not alter approximately historical records merely to normalize person-field structure unless the architect explicitly approves a Zenodo-wide metadata project.
 
 ---
 
@@ -503,7 +503,7 @@ A new-version draft that silently drops keywords fails validation.
 Choose no change when:
 
 - the Zenodo payload corresponds to the intended GitHub payload
-- and the metadata is current enough that no architect-authorized revision is required
+- and the metadata is current enough that no architect-approved revision is required
 
 ## 20.2 Metadata-only revision
 
@@ -698,7 +698,7 @@ Sandbox never substitutes for production version-family verification.
 
 ## Phase 3 — Production Draft
 
-After explicit authorization:
+After explicit approval:
 
 1. begin from New version where applicable
 2. preserve the concept DOI
@@ -814,7 +814,7 @@ The registry is operational infrastructure, not canonical doctrine.
 
 # 27. No Automatic Corpus-Wide Repair
 
-Discovery of a local inconsistency does not authorize rewriting historical Zenodo records.
+Discovery of a local inconsistency does not license rewriting historical Zenodo records.
 
 Examples include:
 
@@ -827,7 +827,7 @@ Examples include:
 
 Record the discrepancy.
 
-Do not propagate a correction across the archive without a separately authorized Zenodo-wide project.
+Do not propagate a correction across the archive without a separately approved Zenodo-wide project.
 
 This protects historical provenance and avoids unnecessary revision churn.
 
