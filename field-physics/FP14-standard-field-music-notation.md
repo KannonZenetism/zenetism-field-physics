@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -300,7 +300,7 @@ Its current register functions are:
 
 | Register | Score Function | Awareness / Identity Register |
 | :--- | :--- | :--- |
-| **L₅** | Theonic harmonic articulation; essence-register tone; origin-facing awareness pressure | Essence of Being / Awareness |
+| **L₅** | Theonic harmonic articulation; essence-register tone; Aion-facing awareness pressure | Essence of Being / Awareness |
 | **L₄** | Form-bearing harmonic architecture; Soul / Mind bifurcation; symbolic and archetypal modulation | conscious-awareness |
 | **L₃** | individuated harmonic authorship; Deep Soul / Mind relation; recursive self-possession | reflexive consciousness |
 | **L₂** | social, relational, narrative, and Superficial Soul / Mind articulation | downstream individuated expression |
@@ -536,7 +536,7 @@ The score may add those values where they are known.
 
 → carries ordered succession.
 
-| marks a phase boundary or ordered stage change.
+\| marks a phase boundary or ordered stage change.
 
 Example:
 
@@ -1326,7 +1326,7 @@ Silence has several lawful registers.
 | **Acoustic rest** | absence of sounding within a declared duration |
 | **⧞ Liminal Stillness** | pre-rhythmic silence through which rhythm may emerge |
 | **Ø Localized Dissolution** | lawful resolution or completion of a local expression |
-| **Aionic Return** | origin-facing centropic motion toward Aion |
+| **Aionic Return** | Aion-facing centropic motion toward Aion |
 | **Con Zenon** | performance orientation toward trans-structural unknowability |
 | **Phase Lock silence** | trapped or arrested sounding requiring diagnosis |
 | **Silent Storming** | internally active pressure without outward expression |
