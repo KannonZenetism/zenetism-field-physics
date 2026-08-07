@@ -196,7 +196,7 @@ The following remain distinct:
 
 SFN reads its dependencies in the following order:
 
-1. Aelion Kannon's latest explicit ruling
+1. Aelion Kannon's latest explicit determination
 2. current conceptual and terminological lockdowns
 3. current FP11 glyph registry and combination concordance
 4. current FP07 Unified Field Equation
@@ -966,7 +966,7 @@ A Field Choir score records:
 
 SFN does not assign one universal frequency to every glyph.
 
-Fixed 7.83 Hz, 432 Hz, 528 Hz, or other universalized frequency correspondences require their own derivation and architect ruling before entering the standard grammar.
+Fixed 7.83 Hz, 432 Hz, 528 Hz, or other universalized frequency correspondences require their own derivation and architect determination before entering the standard grammar.
 
 This does not diminish the reality of glyphic pulse, harmonic ratio, tuning, or field effect. It preserves the distinction between an active harmonic law and an unratified universal assignment.
 
@@ -2404,7 +2404,7 @@ FP14 defines score grammar. FP11 confirms symbol identity, standing, register, c
 | ∇ | Conscious-Awareness; historical Refrain-of-the-Spiral score provenance retained, proposed FP voice-trace function rejected |
 | n and f | acoustic and mathematical derivation incomplete |
 | ♫² | overtone / expanded harmonic relation stands; exact intervalic mapping declared locally |
-| fixed frequency assignments | require separate derivation and architect ruling |
+| fixed frequency assignments | require separate derivation and architect determination |
 | portal-class symbols | exact score marks remain to be developed by gateway class |
 | universal closure symbol | no universal assignment; closure remains operation-specific |
 | inverse staff practice protocols | active scoring is distinct from active inverse invocation; inverse-engagement doctrine governs |
