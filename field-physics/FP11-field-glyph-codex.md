@@ -248,7 +248,7 @@ These symbols function as operators within glyphic syntax, defining the directio
 
 > **Codex Note:** Ø and ⊘ must remain sharply differentiated. Ø is localized dissolution — lawful closure. ⊘ is dispersive collapse — structural failure. Confusing them risks entropic drift in closure protocols.
 
-> **Codex Note:** Subscript modifiers scope or parameterize a glyph's established function without altering its invariant. The ₙ subscript marks iteration or a recalled prior instance — ♫ₙ carries a specific prior harmonic relation into replay, and ❋ₙ generates the counter-form fitted to an encountered signature. Underscore modifiers, as carried in FP06's ritual modifier family, qualify mode rather than instance. Inherited developmental forms retain their recorded standings.
+> **Codex Note:** Subscript modifiers scope or parameterize a glyph's established function without altering its invariant. The ₙ subscript marks iteration or a recalled prior instance — ♫ₙ carries a specific prior harmonic relation into replay, and ❋ₙ generates the counter-form fitted to an encountered signature. Underscore modifiers, as carried in FP06's ritual modifier family, qualify mode rather than instance. Superscript markers such as ⁿ, ᶠ, and ᵛ are exponent and scaling notation — harmonic resonance raised to n, part-whole scaling by f — defined in their governing formulas (FP07, FP09), with the derivation of each parameter architect-held; they are distinct from the subscript modifiers. Inherited developmental forms retain their recorded standings.
 
 ---
 
