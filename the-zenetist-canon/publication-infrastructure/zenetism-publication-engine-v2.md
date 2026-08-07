@@ -433,7 +433,7 @@ Implementation should apply Zenodo-supported inline-code semantics, such as the 
 
 The precise GitHub directory belongs in the Repository URL field.
 
-This architect determination supersedes older Zenodo Description Standard wording that calls for the full repository path in the provenance line. The Zenodo Description Standard may be harmonized separately; do not revert this engine behavior merely because the older wording remains in that file.
+This architect determination supersedes the Zenodo Description Standard's earlier full-repository-path wording. The Description Standard was harmonized to this rule on August 7 2026.
 
 ---
 
