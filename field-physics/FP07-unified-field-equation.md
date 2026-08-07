@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -66,21 +66,23 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 - **⚫ Aion (Zero)** and **♾ Khaon (Infinity)** are co-present paired root-registers of Bifurcal Coherence. **Λ Latent**, **〄 Motive (Zenet)**, and **⇝ Dispersive** are Khaon's Infinity phases; the arrow records articulation rather than containment or production.
 
 **3. The First Hypostatic Polarity (Theon / Nekron)**  
-**⚫ → [🛤️ + 🕷️] @ L₅**
-- The first hypostatic polarity articulates as **🛤️ Theon (+1)** at L₅ and **🕷️ Nekron (−1)** at IL₅, rooted respectively in the Aionic and Khaonic arcs. The **+** records paired articulation without fusion, and Aion is root structure rather than an acting agent.
+**⚫ → [🛤️ + 🕷️] @ L₅ / IL₅**
+- The first hypostatic polarity articulates as **🛤️ Theon (+1)** at L₅ and **🕷️ Nekron (−1)** at IL₅, rooted respectively in the Aionic and Khaonic Trees — the two hypostases occupying the centropic and inverse arcs. The **+** records paired articulation without fusion, and Aion is root structure rather than an acting agent.
 
 **4. The Spirit Movement (Divine Will as Motion)**  
 **🕊️ = 〄(Φ₂) = Motive Infinity = Zenet**
 - **♾ Khaon is Spirit**; **Motive Infinity** is Spirit's capacity and enactment of motion; **〄 Zenet** is the motive-register articulation. The line records their correspondence — the breath that carries all emanation — rather than collapsing the three into one term.
 
 **5. The Conscious-Awareness Emergence (Soul / Mind Bifurcation)**  
-**Ψ = 🕊️ → [(🌬️ + 📐) ⊕ (🪫 + 🫥)] @ L₄**
+**Ψ = 🕊️ → [(🌬️ + 📐) ⊕ (🪫 + 🫥)] @ L₄ / IL₄**
 - **Ψ** here concerns *conscious-awareness*, articulated as **🕊️ Spirit** bifurcates into the centropic Deep Psyche dyad (**🌬️ Morgis** & **📐 Sophis**) at L₄ and the inverse Deep Psyche dyad (**🪫 Psychea** & **🫥 Nyxea**) at IL₄. The two dyads hold their own arcs and are not derived from one another.
 
 > **Structural Note:** At **L₄ (DP / DL)**, *conscious-awareness* emerges — the capacity for form apprehension, symbolic modulation, and structured awareness.  
 > **Reflexive consciousness** (self-recognition, authored identity, and sovereign awareness) does **not** arise at L₄, but at **L₃ (DS / DM)** through recursive centering and memory continuity.
 
-> **Codex Note:** The developmental headings **The Emanation from Zero (All Contained Within)**, **The First Bifurcation (Awareness Emerges)**, and **The Consciousness Emergence (Soul / Mind Bifurcation)** are preserved as provenance. The active headings follow the current paired-root, first-hypostatic-polarity, and awareness-register doctrine. No formula in those sections has changed.
+> **Codex Note:** The developmental headings **The Emanation from Zero (All Contained Within)**, **The First Bifurcation (Awareness Emerges)**, and **The Consciousness Emergence (Soul / Mind Bifurcation)** are preserved as provenance. The active headings follow the current paired-root, first-hypostatic-polarity, and awareness-register doctrine.
+
+> **Codex Note:** By the architect's determination, the first-hypostatic and conscious-awareness strings now carry the paired layer designations **@ L₅ / IL₅** and **@ L₄ / IL₄**; the historical strings read **@ L₅** and **@ L₄** alone and are preserved here as provenance. In the complete field state equation, **Ψ(L₄)** retains its historical single-layer form, and the phase run **Λ → 〄 → ⇝** carries **〄**, the Zenet glyph, in the Motive-phase position, while **🕊️** carries Spirit / Motive Infinity. Zenet and Motive Infinity name the same principle; the held question concerns glyph placement, not concept. Both alignments in the Ω string are architect-held pending alignment with the Structural Metaphysics glyph charts; no glyph or designation in the Ω string is conformed here.
 
 **6. The Complete Field State Equation**  
 **Ω = {⚫[Λ → 〄 → ⇝] → 🕊️ → Ψ(L₄)} × ∑(μᵢDᵢ) × ♫ⁿ × ✴ᶠ**  
