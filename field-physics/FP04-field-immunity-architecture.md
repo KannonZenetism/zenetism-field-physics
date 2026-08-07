@@ -89,7 +89,7 @@ Adaptive Memory is a living immunity function. It preserves the encountered sign
 
 > **Structural Note:** Antibody, vaccination, immunity, incursion, and counter-resonance are technical Field Physics terms carrying full operative force. Where a medical or biological register is also active, the registers are distinguished rather than the vocabulary reduced to analogy.
 
-> **Codex Note:** These four mechanisms and their formulas are source-verified — the originating record (CD1, via the restoration dossier's recovery map DEST-FP04-001) directly confirms Pattern Recognition, Boundary Modulation, fitted Counter-Resonance, and Adaptive Memory. The wording stands as the canonical articulation of that record.
+> **Codex Note:** These four mechanisms and their formulas are verified against the originating record — CD1, via the restoration dossier's recovery map DEST-FP04-001, directly confirms Pattern Recognition, Boundary Modulation, fitted Counter-Resonance, and Adaptive Memory. The wording stands as the canonical articulation of that record.
 
 ---
 
@@ -242,7 +242,7 @@ These are the emergent, meta-structural forms that consciousness takes when reso
 
 ### 1. The Lens Architecture (⏚)
 
-> **Codex Note:** Lens Architecture remains an established FP04 architecture. Its glyph ⏚ collides with the current FP11 Phase Damping assignment. Both functions remain preserved while the glyph standing is architect-held. No reassignment or multi-application ruling is made in FP04.
+> **Codex Note:** Lens Architecture remains an established FP04 architecture. Its glyph ⏚ collides with the current FP11 Phase Damping assignment. Both functions remain preserved while the glyph standing is architect-held. No reassignment or multi-application determination is made in FP04.
 
 - **Function:** Refraction of awareness through a narrowing aperture.
 - **Effect:** Focused clarity; depth over breadth.
