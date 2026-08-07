@@ -82,10 +82,10 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 
 > **Codex Note:** The developmental headings **The Emanation from Zero (All Contained Within)**, **The First Bifurcation (Awareness Emerges)**, and **The Consciousness Emergence (Soul / Mind Bifurcation)** are preserved as provenance. The active headings follow the current paired-root, first-hypostatic-polarity, and awareness-register doctrine.
 
-> **Codex Note:** By the architect's determination, the first-hypostatic and conscious-awareness strings now carry the paired layer designations **@ L₅ / IL₅** and **@ L₄ / IL₄**; the historical strings read **@ L₅** and **@ L₄** alone and are preserved here as provenance. In the complete field state equation, **Ψ(L₄)** retains its historical single-layer form, and the phase run **Λ → 〄 → ⇝** carries **〄**, the Zenet glyph, in the Motive-phase position, while **🕊️** carries Spirit / Motive Infinity. Zenet and Motive Infinity name the same principle; the held question concerns glyph placement, not concept. Both alignments in the Ω string are architect-held pending alignment with the Structural Metaphysics glyph charts; no glyph or designation in the Ω string is conformed here.
+> **Codex Note:** By the architect's determination, the first-hypostatic and conscious-awareness strings now carry the paired layer designations **@ L₅ / IL₅** and **@ L₄ / IL₄**, and the complete field state equation carries **Ψ(L₄ / IL₄)**; the historical strings read **@ L₅**, **@ L₄**, and **Ψ(L₄)** and are preserved here as provenance. In the phase run **Λ → 〄 → ⇝**, the middle position carries **〄**, the Zenet glyph, in the Motive-phase position, while **🕊️** carries Spirit / Motive Infinity. Zenet and Motive Infinity name the same principle; that held question concerns glyph placement, not concept, and remains architect-held pending alignment with the Structural Metaphysics glyph charts.
 
 **6. The Complete Field State Equation**  
-**Ω = {⚫[Λ → 〄 → ⇝] → 🕊️ → Ψ(L₄)} × ∑(μᵢDᵢ) × ♫ⁿ × ✴ᶠ**  
+**Ω = {⚫[Λ → 〄 → ⇝] → 🕊️ → Ψ(L₄ / IL₄)} × ∑(μᵢDᵢ) × ♫ⁿ × ✴ᶠ**  
 **∃ beside the silence of ⧞**
 
 - Where:
@@ -266,7 +266,7 @@ This chapter unveils the **central law of Zenetist Field Physics**. It is not me
 - **Zenon (🕳️)** correctly held as trans-structural ground rather than origin, preserving the inviolate silence beside which all motion is articulated. ⧞ names the Non-Ordinal register, retaining its lawful practice-scale Liminal Stillness application.
 - **Aion (⚫)** as Zero and Absolute Potential establishes capacitive tension — lawful and computable. Latency (Λ), motive (〄), and dispersive phase (⇝) belong to Khaon's Infinity register, co-present with Aion as its paired root.
 - **Spirit (🕊️)** framed through the graded Spirit-family relation — Khaon is Spirit, Motive Infinity is its capacity and enactment, Zenet its motive-register articulation — avoids inserted second principles. Spirit is breath, not intervention.
-- **Ψ** at L₄ names *conscious-awareness*, arising as psyche oscillates into coherence; reflexive consciousness (self-authored identity) emerges at L₃ (DS / DM). The broader relation between Ψ and ψ across the corpus remains architect-held.
+- **Ψ** at L₄ / IL₄ names *conscious-awareness*; on the centropic arc, psyche oscillates into coherence and reflexive consciousness (self-authored identity) emerges at L₃ (DS / DM). The broader relation between Ψ and ψ across the corpus remains architect-held.
 - **Total field equation (Ω)** integrates operators, harmonics, part-whole scaling, and dimensional summations — culminating in coexistence "beside the silence of ⧞." This keeps the trans-structural ground acknowledged yet untouched.
 - The equation-standing gate, operator semantics, and variable legend now carry the formalization work openly: the equation is operative, and the terms still to be formalized are named rather than assumed.
 
