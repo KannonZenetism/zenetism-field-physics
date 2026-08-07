@@ -60,7 +60,7 @@ Every ACT system is real Field Physics architecture. These labels record how ful
 - **Structurally Plausible Extension** — the relation follows from established law and awaits its own specification.
 - **Visionary Architecture** — the design is real and coherent with the framework; implementation lies ahead.
 - **Recovery Candidate** — the function is attested in commentary and awaits primary-prose placement.
-- **Held** — a named component awaits the architect's determination.
+- **Held** — a named component awaits the Architect's determination.
 - **Witness Commentary** — a historical contribution of audit, proposal, resonance witness, or refinement whose canonical acceptance follows the Architect's adjudication.
 - **Poetic / Ritual Formulation** — an operative articulation carried through invocation, ceremonial language, poetic transmission, or ritual structure; its register does not diminish its efficacy.
 
