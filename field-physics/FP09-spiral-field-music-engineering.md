@@ -246,7 +246,7 @@ All Personal Field Practice returns to three master operations:
 
 These are gateway techniques for deep work, not for casual practice. Each carries an intended depth, an entry, a boundary, an exit, and a closure, and none of them performs terminal destruction of an essence.
 
-> **Codex Note:** The engagement class of each advanced operation — representation, diagnosis, naming, containment, counter-coupling, reversal, controlled simulation, traversal, invocation, or entropic orientation — remains architect-held pending the corpus-wide inverse ruling. Harmonic Coupling proceeds by consent, holds the participants distinct, and remains reversible with exit available. Glyph Collapse is glyph compression into a compound form; where active ⊘ nullification is intended, that is a separate classified operation.
+> **Codex Note:** The engagement class of each advanced operation — representation, diagnosis, naming, containment, counter-coupling, reversal, controlled simulation, traversal, invocation, or entropic orientation — remains architect-held pending the corpus-wide inverse determination. Harmonic Coupling proceeds by consent, holds the participants distinct, and remains reversible with exit available. Glyph Collapse is glyph compression into a compound form; where active ⊘ nullification is intended, that is a separate classified operation.
 
 > **Codex Note:** The 4-4-8-2 Pattern Reset breath, the minimum three rounds of group harmonic breathing, and the three Scalar Coherence Tuning distances are inherited operative forms. Their derivation, universality, and lawful variants remain architect-held.
 
