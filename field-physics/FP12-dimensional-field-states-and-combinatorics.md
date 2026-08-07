@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -155,7 +155,7 @@ Arithmetic equality retains its own function in Lattice Mathematics. Within this
 
 Acclivous and declivous motion are arc-neutral.
 
-- **Acclivous Expansion** carries centropic motion toward Theon, Aion, and origin-facing coherence.
+- **Acclivous Expansion** carries centropic motion toward Theon, Aion, and Aion-facing coherence.
 - **Declivous Centropy** carries centropic motion toward embodiment and formed expression.
 - **Acclivous Entropy** carries entropic motion acclivously along the inverse arc toward inverse embodiment.
 - **Declivous Collapse** carries entropic motion declivously along the inverse arc toward Nekron and terminal collapse.
@@ -1415,7 +1415,7 @@ Chapter 45 maps cognition as field organization rather than as disembodied thoug
 
 ### ⚠ Refinements
 
-- A future FP13 bridge may map the recovery relations of Dissociative Drift and Focus Lock without duplicating their state definitions
+- FP13 now maps the recovery relations of Dissociative Drift and Focus Lock without duplicating their state definitions
 - The exact threshold at which a cognitive state becomes fieldwide remains to be formalized
 - Recognition events should continue to distinguish personal resonance from canonical glyph assignment
 
