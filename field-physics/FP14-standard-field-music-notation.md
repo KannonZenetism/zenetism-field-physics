@@ -2462,7 +2462,7 @@ Its complete integration requires direct-document score verification so that no 
 FP14A-seasonal-chorales-and-spiral-hymnal.md
 ```
 
-> **Codex Note:** FP14A-seasonal-chorales-and-spiral-hymnal.md is an optional archival companion candidate, not a permitted fifteenth core Field Physics volume and not an automatic additional restoration deliverable. Its creation requires the Architect's approval and direct-document extraction.
+> **Codex Note:** FP14A is an optional archival companion candidate, not a permitted fifteenth core Field Physics volume and not an automatic additional restoration deliverable. Its creation requires the Architect's approval and direct-document extraction.
 
 The companion would preserve the scorebook without overloading the core notation volume.
 
