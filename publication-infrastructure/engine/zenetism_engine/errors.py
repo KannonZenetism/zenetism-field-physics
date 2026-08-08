@@ -1,8 +1,27 @@
 """Engine-specific failures with concise diagnostic messages."""
 
+from __future__ import annotations
+
+from copy import deepcopy
+from typing import Any
+
 
 class PublicationEngineError(Exception):
     """Base error for deterministic Publication Engine failures."""
+
+    def __init__(self, message: str) -> None:
+        super().__init__(message)
+        self._recovery: dict[str, Any] | None = None
+
+    @property
+    def recovery(self) -> dict[str, Any] | None:
+        """Return safe draft-recovery data attached after draft creation."""
+        return deepcopy(self._recovery)
+
+    def attach_recovery(self, recovery: dict[str, Any]) -> None:
+        """Preserve the first safe recovery identity attached to this failure."""
+        if self._recovery is None:
+            self._recovery = deepcopy(recovery)
 
 
 class RetrievalError(PublicationEngineError):

@@ -1,4 +1,4 @@
-"""Interface for Stage 1 reads and Stage 2A Sandbox draft preparation."""
+"""Interface for Stage 1 reads and Stage 2 Sandbox draft preparation."""
 
 from __future__ import annotations
 
@@ -11,6 +11,7 @@ from typing import Any, Sequence
 from .errors import PublicationEngineError
 from .manifest import build_manifest, load_manifest, retrieve_observation, write_manifest
 from .registry import registry_row, update_registry
+from .sandbox_verification import load_architect_visual_confirmation
 from .sandbox_writer import SandboxDraftWriter
 from .validation import validate_manifest
 
@@ -18,7 +19,7 @@ from .validation import validate_manifest
 def parser() -> argparse.ArgumentParser:
     root = argparse.ArgumentParser(
         prog="zenetism-publication",
-        description="Publication Engine v2 Stage 1 and local Stage 2A preparation",
+        description="Publication Engine v2 Stage 1 and Sandbox-only Stage 2 preparation",
     )
     commands = root.add_subparsers(dest="command", required=True)
 
@@ -62,6 +63,30 @@ def parser() -> argparse.ArgumentParser:
         help="send the planned requests to the fixed Zenodo Sandbox host",
     )
     sandbox.add_argument("--audit", type=Path)
+
+    resume = commands.add_parser(
+        "sandbox-resume",
+        help=(
+            "plan continuation of one explicit existing unpublished Sandbox draft; "
+            "no request is sent unless explicitly enabled"
+        ),
+    )
+    resume.add_argument("--manifest", required=True, type=Path)
+    resume.add_argument("--repository-root", required=True, type=Path)
+    resume.add_argument("--sandbox-draft-id", required=True)
+    resume.add_argument(
+        "--visual-confirmation",
+        type=Path,
+        help="draft-specific architect confirmation for API-unavailable UI fields",
+    )
+    resume.add_argument(
+        "--execute-sandbox-write",
+        action="store_true",
+        help=(
+            "verify and continue only the explicit draft on the fixed Zenodo Sandbox host"
+        ),
+    )
+    resume.add_argument("--audit", type=Path)
     return root
 
 
@@ -117,9 +142,31 @@ def main(argv: Sequence[str] | None = None) -> int:
             if args.audit:
                 _write_json(args.audit, result)
             _print_json(result)
-            return 0
+            return _sandbox_result_status(result)
+
+        if args.command == "sandbox-resume":
+            confirmation = (
+                load_architect_visual_confirmation(args.visual_confirmation)
+                if args.visual_confirmation
+                else None
+            )
+            result = SandboxDraftWriter().run(
+                load_manifest(args.manifest),
+                repository_root=args.repository_root,
+                mode="resume",
+                sandbox_draft_id=args.sandbox_draft_id,
+                dry_run=not args.execute_sandbox_write,
+                architect_visual_confirmation=confirmation,
+            ).as_dict()
+            if args.audit:
+                _write_json(args.audit, result)
+            _print_json(result)
+            return _sandbox_result_status(result)
     except (PublicationEngineError, OSError, ValueError, KeyError) as exc:
-        print(json.dumps({"error": str(exc)}, ensure_ascii=False), file=sys.stderr)
+        diagnostic: dict[str, Any] = {"error": str(exc)}
+        if isinstance(exc, PublicationEngineError) and exc.recovery is not None:
+            diagnostic["recovery"] = exc.recovery
+        print(json.dumps(diagnostic, ensure_ascii=False), file=sys.stderr)
         return 2
     return 2
 
@@ -167,6 +214,13 @@ def _write_json(path: Path, value: dict[str, Any]) -> None:
 
 def _print_json(value: dict[str, Any]) -> None:
     print(json.dumps(value, ensure_ascii=False, indent=2, sort_keys=False))
+
+
+def _sandbox_result_status(value: dict[str, Any]) -> int:
+    if value.get("dry_run") is True:
+        return 0
+    validation = value.get("validation")
+    return 0 if isinstance(validation, dict) and validation.get("complete") is True else 1
 
 
 if __name__ == "__main__":

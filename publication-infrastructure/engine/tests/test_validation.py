@@ -35,7 +35,7 @@ class ValidationTests(unittest.TestCase):
         report = validate_manifest(self.reference, copy.deepcopy(self.reference))
         self.assertTrue(report.passed)
 
-    def test_missing_governed_field_fails_closed(self) -> None:
+    def test_missing_manifest_controlled_field_fails_closed(self) -> None:
         expected = copy.deepcopy(self.reference)
         del expected["zenodo"]["publication_date"]
         report = validate_manifest(expected, self.reference)
