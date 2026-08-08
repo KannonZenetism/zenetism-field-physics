@@ -109,10 +109,10 @@ def validate_manifest(
     expected: dict[str, Any], observed: dict[str, Any]
 ) -> ValidationReport:
     items: dict[str, ValidationItem] = {}
-    governed = set(REQUIRED_PATHS)
-    governed.update(_leaf_paths(expected))
+    controlled = set(REQUIRED_PATHS)
+    controlled.update(_leaf_paths(expected))
 
-    for path in sorted(governed):
+    for path in sorted(controlled):
         expected_value = _get_path(expected, path)
         observed_value = _get_path(observed, path)
         if path in REQUIRED_PATHS and _missing_required(expected_value, path):

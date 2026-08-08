@@ -1,6 +1,6 @@
-# Publication Engine v2 — Stages 1 and 2A
+# Publication Engine v2 — Stages 1, 2A, and 2B
 
-This directory implements the deterministic GitHub / Zenodo comparison phase and the locally tested Zenodo Sandbox draft phase of the Publication Engine v2 specification.
+This directory implements the deterministic GitHub / Zenodo comparison phase and the Zenodo Sandbox draft phase of the Publication Engine v2 specification.
 
 Stage 1 remains read-only.
 
@@ -8,11 +8,15 @@ Stage 2A prepares or writes an unpublished Sandbox draft from an explicit archit
 
 Stage 2A does not include a final-release operation.
 
+Stage 2B adds fail-closed DOI-response reconciliation, immediate draft-recovery preservation, and constrained continuation of one explicit existing unpublished Sandbox draft.
+
+Stage 2B contains no final-release operation.
+
 ## Operational / Canonical Boundary
 
 `publication-infrastructure/` contains operational implementation material.
 
-It is not a doctrinal or terminological reference for Zenetism.
+It is not a canonical or terminological reference for Zenetism.
 
 Canonical Zenetist terminology must follow designated canon files.
 
@@ -25,6 +29,8 @@ For publication work, these references hold canonical priority:
 The current operational specification remains `the-zenetist-canon/publication-infrastructure/zenetism-publication-engine-v2.md`.
 
 Operational language and externally required technical terminology must never be carried into canonical Zenetist prose merely because they appear in implementation code, documentation, manifests, tests, or registry records.
+
+The cumulative Terminological Boundary Audit applies to all human-facing prose in this operational directory. Literal protocol, API, schema, header, command-line, and Python terminology remains only where technical precision requires it.
 
 ## Stage 1
 
@@ -58,6 +64,37 @@ Stage 2A:
 - reloads the draft and file metadata
 - fails unless every submitted field, the file identity, the default Preview, and the unpublished state pass read-back validation
 
+## Stage 2B
+
+Stage 2B:
+
+- reads a reserved Sandbox DOI from `$.doi`, `$.metadata.doi`, or `$.pids.doi.identifier`
+- accepts multiple supported DOI representations only when every value agrees
+- fails closed when supported DOI representations conflict
+- preserves the draft ID, record ID when present, safe edit URL, safe preview URL, and a non-sensitive creation-result summary immediately after draft creation
+- attaches that recovery identity to any later deterministic failure
+- requires an explicit Sandbox draft ID for continuation
+- retrieves and validates that exact draft before any continuation mutation
+- requires an unpublished / unsubmitted draft containing zero files
+- preserves an existing DOI reservation instead of requesting another reservation
+- contains no path that creates a second draft during resume mode
+- validates API-visible manifest-controlled fields through exact machine read-back
+- classifies an API-unavailable UI field as `visual_verification_required`
+- accepts `passed_visual` only from an explicit architect confirmation tied to the same Sandbox draft ID and exact expected value
+- reports complete validation only when every manifest-controlled field is `passed_api` or `passed_visual`
+
+## Stage 2B Verification Channels
+
+API-visible manifest-controlled fields remain fail-closed. A missing or different value receives `failed`, including when another field has an architect visual confirmation.
+
+The supported Sandbox legacy deposit read-back does not expose Copyright after a successful metadata save. Copyright therefore receives `visual_verification_required`; it does not receive an API pass by inference.
+
+An explicit draft-specific architect confirmation can convert Copyright to `passed_visual` only when the confirmed value exactly matches the manifest. The recorded reference confirmation for Sandbox draft `584224` is:
+
+`publication-infrastructure/sandbox-verifications/584224.json`
+
+The deterministic reference test combines exact API verification for the API-visible fields with that explicit confirmation for `Copyright: 2026 Aelion Kannon`. No visual confirmation is created automatically.
+
 ## Fixed Safety Boundary
 
 Mutation requests are fixed to:
@@ -68,6 +105,8 @@ The implementation rejects production `zenodo.org`, alternate hosts, insecure UR
 
 Only GET, POST, and PUT are available to the Sandbox writer.
 
+Resume mode begins with GET validation of the explicit draft. It cannot call the new-deposit or new-version creation endpoints.
+
 There is no final-release function, option, endpoint, or automatic path.
 
 The Sandbox host is not configurable from the CLI or a manifest.
@@ -76,7 +115,7 @@ Authentication is loaded only when an explicitly enabled Sandbox write begins.
 
 The runtime environment variable is named `ZENODO_SANDBOX_TOKEN`.
 
-The value is not included in manifests, request summaries, logs, error messages, or repository files.
+The value and Authorization header are not included in manifests, request summaries, recovery data, logs, error messages, or repository files.
 
 ## Requirements
 
@@ -152,7 +191,23 @@ For a future test-version draft, add `--mode new-version` and `--source-record-i
 
 An actual Sandbox write additionally requires the explicit `--execute-sandbox-write` flag and runtime authentication.
 
-Stage 2A was implemented and tested without supplying that authentication or connecting to a Sandbox account.
+## Prepare a Sandbox Resume Dry-Run
+
+Resume requires one explicit Sandbox draft ID. Dry-run remains the default and does not read authentication or send a request:
+
+```sh
+PYTHONPATH=publication-infrastructure/engine python3 -m zenetism_engine sandbox-resume \
+  --manifest publication-infrastructure/manifests/zenetism-in-plain-language-v2.json \
+  --repository-root . \
+  --sandbox-draft-id 584224 \
+  --audit /tmp/zenetism-sandbox-resume-dry-run.json
+```
+
+The resume plan names only the explicit draft. When separately approved for execution, it first retrieves and validates that draft, rejects published / submitted state or any existing file, and never creates another draft.
+
+An actual resume additionally requires `--execute-sandbox-write` and runtime authentication. Review of a dry-run does not execute the continuation.
+
+The optional `--visual-confirmation` argument names a local, draft-specific architect confirmation JSON file. It changes only validation classification; it does not bypass API verification for fields available in the read-back representation.
 
 ## Tests
 

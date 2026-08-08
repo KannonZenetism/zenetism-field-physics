@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "zenetism-publication-engine"
-version = "2.0.0a2"
-description = "Publication Engine v2 Stage 1 and Sandbox-only Stage 2A"
+version = "2.0.0a4"
+description = "Publication Engine v2 Stage 1 and Sandbox-only Stages 2A and 2B"
 requires-python = ">=3.11"
 dependencies = []
 
