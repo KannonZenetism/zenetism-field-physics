@@ -1,4 +1,4 @@
-"""Read-only extraction of governed description structure from rendered HTML."""
+"""Read-only extraction of manifest-controlled description structure."""
 
 from __future__ import annotations
 

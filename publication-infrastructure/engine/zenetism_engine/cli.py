@@ -1,4 +1,4 @@
-"""Command line for Stage 1 retrieval, validation, and registry maintenance only."""
+"""Interface for Stage 1 reads and Stage 2A Sandbox draft preparation."""
 
 from __future__ import annotations
 
@@ -11,13 +11,14 @@ from typing import Any, Sequence
 from .errors import PublicationEngineError
 from .manifest import build_manifest, load_manifest, retrieve_observation, write_manifest
 from .registry import registry_row, update_registry
+from .sandbox_writer import SandboxDraftWriter
 from .validation import validate_manifest
 
 
 def parser() -> argparse.ArgumentParser:
     root = argparse.ArgumentParser(
         prog="zenetism-publication",
-        description="Publication Engine v2 Stage 1 (public read-only interfaces only)",
+        description="Publication Engine v2 Stage 1 and local Stage 2A preparation",
     )
     commands = root.add_subparsers(dest="command", required=True)
 
@@ -32,7 +33,7 @@ def parser() -> argparse.ArgumentParser:
     manifest.add_argument("--output", type=Path)
 
     validate = commands.add_parser(
-        "validate", help="retrieve public records and fail closed against a governed manifest"
+        "validate", help="retrieve public records and fail closed against an approved manifest"
     )
     validate.add_argument("--manifest", required=True, type=Path)
     validate.add_argument("--report", type=Path)
@@ -46,6 +47,21 @@ def parser() -> argparse.ArgumentParser:
     registry.add_argument("--verification-date", required=True)
     registry.add_argument("--architect-approval-state", required=True)
     registry.add_argument("--notes", default="")
+
+    sandbox = commands.add_parser(
+        "sandbox-draft",
+        help="plan an unpublished Sandbox draft; no request is sent unless explicitly enabled",
+    )
+    sandbox.add_argument("--manifest", required=True, type=Path)
+    sandbox.add_argument("--repository-root", required=True, type=Path)
+    sandbox.add_argument("--mode", choices=("create", "new-version"), default="create")
+    sandbox.add_argument("--source-record-id")
+    sandbox.add_argument(
+        "--execute-sandbox-write",
+        action="store_true",
+        help="send the planned requests to the fixed Zenodo Sandbox host",
+    )
+    sandbox.add_argument("--audit", type=Path)
     return root
 
 
@@ -88,6 +104,19 @@ def main(argv: Sequence[str] | None = None) -> int:
             )
             update_registry(args.registry, row)
             _print_json(row)
+            return 0
+
+        if args.command == "sandbox-draft":
+            result = SandboxDraftWriter().run(
+                load_manifest(args.manifest),
+                repository_root=args.repository_root,
+                mode=args.mode,
+                source_record_id=args.source_record_id,
+                dry_run=not args.execute_sandbox_write,
+            ).as_dict()
+            if args.audit:
+                _write_json(args.audit, result)
+            _print_json(result)
             return 0
     except (PublicationEngineError, OSError, ValueError, KeyError) as exc:
         print(json.dumps({"error": str(exc)}, ensure_ascii=False), file=sys.stderr)

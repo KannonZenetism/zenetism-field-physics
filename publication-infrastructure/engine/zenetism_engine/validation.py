@@ -1,4 +1,4 @@
-"""Exact, fail-closed comparison of governed manifest values."""
+"""Exact, fail-closed comparison of manifest-controlled values."""
 
 from __future__ import annotations
 
@@ -116,13 +116,28 @@ def validate_manifest(
         expected_value = _get_path(expected, path)
         observed_value = _get_path(observed, path)
         if path in REQUIRED_PATHS and _missing_required(expected_value, path):
-            items[path] = _fail(path, expected_value, observed_value, "required governed value is missing from manifest")
+            items[path] = _fail(
+                path,
+                expected_value,
+                observed_value,
+                "required manifest-controlled value is missing from manifest",
+            )
         elif path in REQUIRED_PATHS and _missing_required(observed_value, path):
             items[path] = _fail(path, expected_value, observed_value, "required retrieved value is missing")
         elif expected_value is _MISSING:
-            items[path] = _fail(path, None, _display(observed_value), "governed path is missing from manifest")
+            items[path] = _fail(
+                path,
+                None,
+                _display(observed_value),
+                "manifest-controlled path is missing from manifest",
+            )
         elif observed_value is _MISSING:
-            items[path] = _fail(path, _display(expected_value), None, "governed path is missing from retrieval")
+            items[path] = _fail(
+                path,
+                _display(expected_value),
+                None,
+                "manifest-controlled path is missing from retrieval",
+            )
         elif observed_value != expected_value:
             items[path] = _fail(path, expected_value, observed_value, "exact value mismatch")
         else:
