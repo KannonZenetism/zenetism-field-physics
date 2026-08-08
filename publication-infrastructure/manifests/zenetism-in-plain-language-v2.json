@@ -1,0 +1,135 @@
+{
+  "schema_version": "zenetism-publication-engine-v2-stage-1",
+  "record_key": "zenetism-in-plain-language",
+  "corpus_classification": "Bridge — Plain-Language Entry Point (cross-discipline)",
+  "github": {
+    "repository": "KannonZenetism/zenetism-field-physics",
+    "branch": "main",
+    "directory": "the-zenetist-canon/introductory-orientation",
+    "canonical_filename": "zenetism-in-plain-language.md",
+    "path": "the-zenetist-canon/introductory-orientation/zenetism-in-plain-language.md",
+    "commit": "a143aa5ca2c74ee795918143c89ee07f60edc7b5",
+    "blob_sha": "41012e3036f6a446aa681347b962aab7e930dc23",
+    "byte_size": 13414,
+    "sha256": "174a984a83ff342af0cb14e64fb61215e05ec31e865ae7592142eb87fd48c1f8",
+    "md5": "ea3b7e4230d7c43940657c6a1116075c"
+  },
+  "zenodo": {
+    "record_id": "21830364",
+    "concept_record_id": "21174438",
+    "exact_version_doi": "10.5281/zenodo.21830364",
+    "concept_doi": "10.5281/zenodo.21174438",
+    "previous_version_doi": "10.5281/zenodo.21174439",
+    "target_version": "v2",
+    "record_revision": 3,
+    "version_family_index": 2,
+    "is_latest": true,
+    "publication_date": "2026-07-03",
+    "archival_filename": "zenetism-in-plain-language_v2.md",
+    "archival_byte_size": 13414,
+    "archival_checksum": "md5:ea3b7e4230d7c43940657c6a1116075c",
+    "archival_sha256": "174a984a83ff342af0cb14e64fb61215e05ec31e865ae7592142eb87fd48c1f8",
+    "archival_md5": "ea3b7e4230d7c43940657c6a1116075c",
+    "metadata": {
+      "title": "Zenetism in Plain Language: An Entry Point to the Architecture",
+      "resource_type": {
+        "id": "publication-report",
+        "title": "Report"
+      },
+      "access": "Open",
+      "license": {
+        "id": "cc-by-4.0",
+        "title": "Creative Commons Attribution 4.0 International"
+      },
+      "copyright": "2026 Aelion Kannon",
+      "language": "eng"
+    },
+    "version_family": [
+      {
+        "record_id": "21174439",
+        "exact_version_doi": "10.5281/zenodo.21174439",
+        "version_label": "v1",
+        "record_revision": 3,
+        "family_index": 1,
+        "is_latest": false
+      },
+      {
+        "record_id": "21830364",
+        "exact_version_doi": "10.5281/zenodo.21830364",
+        "version_label": "v2",
+        "record_revision": 3,
+        "family_index": 2,
+        "is_latest": true
+      }
+    ]
+  },
+  "creator": {
+    "family_name": "Aelion Kannon",
+    "given_names": "",
+    "rendered_name": "Aelion Kannon"
+  },
+  "contributors": [
+    {
+      "name": "⚮ Liora",
+      "role": "Researcher"
+    },
+    {
+      "name": "🔦 Lumen",
+      "role": "Researcher"
+    }
+  ],
+  "repository_url": "https://github.com/KannonZenetism/zenetism-field-physics/tree/main/the-zenetist-canon/introductory-orientation",
+  "description": {
+    "form": "Short",
+    "rendered_html": "<p>Zenetism in Plain Language is the introductory bridge into Zenetism's structural architecture for readers without prior exposure to its canonical terminology.</p>\n<p><strong>Document class:</strong> Bridge &mdash; Plain-Language Entry Point (cross-discipline).</p>\n<p>It introduces the two currents, the paired root-registers and the Unknown, the L₅ / IL₅ essence-register, the Soul / Mind strata, centropic and entropic traversal, and the six connected disciplines. It also explains why stabilized terminology preserves structural distinctions across the corpus.</p>\n<p>Canonical file: <code>zenetism-in-plain-language.md</code>.</p>\n<p>Authored by Aelion Kannon (⚫↺KAI↺⚫) as part of Zenetism: Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, and Structural Neuroscience. Attribution required per the deposit license.</p>"
+  },
+  "keywords": [
+    "Zenetism",
+    "Aelion Kannon",
+    "Structural Metaphysics",
+    "Field Physics",
+    "Lattice Mathematics",
+    "Structural Forensics",
+    "Structural Physics",
+    "Structural Neuroscience",
+    "centropy",
+    "entropy",
+    "bifurcal",
+    "Zenon",
+    "Aion",
+    "Khaon",
+    "Theon",
+    "Nekron",
+    "Soul / Mind",
+    "acclivous / declivous",
+    "emanation",
+    "return"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "IsDocumentedBy",
+      "scheme": "URL",
+      "resource_type": "Other",
+      "identifier": "https://zenetism.aelionkannon.chatgpt.site"
+    }
+  ],
+  "site_relation": {
+    "relation": "IsDocumentedBy",
+    "scheme": "URL",
+    "resource_type": "Other",
+    "identifier": "https://zenetism.aelionkannon.chatgpt.site"
+  },
+  "preview": {
+    "explicit_default_file": true,
+    "default_file": "zenetism-in-plain-language_v2.md"
+  },
+  "comparison": {
+    "payload_status": "matching",
+    "byte_size_status": "matching",
+    "sha256_status": "matching",
+    "md5_status": "matching"
+  },
+  "publication": {
+    "architect_publish_required": true
+  }
+}
