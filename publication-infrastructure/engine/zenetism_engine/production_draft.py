@@ -248,7 +248,9 @@ class ProductionDraftPlan:
             "registry_identity": deepcopy(self.registry_identity),
             "family": self.family.as_dict(),
             "source_record_id": self.source_record_id,
-            "new_version_path": f"/records/{self.source_record_id}/versions",
+            "new_version_path": (
+                f"/deposit/depositions/{self.source_record_id}/actions/newversion"
+            ),
             "archival_copy": self.archival_copy.audit_summary(),
             "metadata_policy": "replace_inherited_values_from_approved_manifest",
             "metadata_payload": deepcopy(self.metadata_payload),
@@ -280,7 +282,8 @@ class ProductionDraftPlan:
             },
             "future_credential_boundary": {
                 "runtime_environment_variable": "ZENODO_PRODUCTION_TOKEN",
-                "stage3a_reads_environment": False,
+                "required_external_scopes": ["deposit:write", "deposit:actions"],
+                "local_planning_reads_environment": False,
                 "persistence_permitted": False,
                 "publication_permission_permitted": False,
             },
@@ -335,7 +338,7 @@ class ProductionDraftPlanner:
             ProductionDraftOperation(
                 "create_new_version_draft",
                 "begin one unpublished draft in the verified production family",
-                f"/records/{source_record_id}/versions",
+                f"/deposit/depositions/{source_record_id}/actions/newversion",
             ),
             ProductionDraftOperation(
                 "preserve_recovery_identity",
@@ -784,7 +787,8 @@ def _verified_unpublished_draft(
     if not isinstance(value, dict):
         raise ProductionSafetyError("production draft response must be an object")
     _record_id(value)
-    if value.get("status") not in {"draft", "new_version_draft"}:
+    status = value.get("status")
+    if status is not None and status not in {"draft", "new_version_draft"}:
         raise ProductionSafetyError(
             "production draft must remain unpublished"
         )
