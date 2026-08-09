@@ -74,3 +74,11 @@ class ProductionPlanError(PublicationEngineError):
 
 class ProductionValidationError(PublicationEngineError):
     """Production draft read-back differs from the manifest-controlled package."""
+
+
+class ProductionCredentialError(PublicationEngineError):
+    """Runtime production credential material is absent or invalid."""
+
+
+class ProductionRequestError(PublicationEngineError):
+    """A confined production-draft request failed without disclosing credentials."""

@@ -1,11 +1,15 @@
-"""Closed Zenodo environment identities for Stage 3A planning."""
+"""Closed Zenodo environment identities and production credential boundary."""
 
 from __future__ import annotations
 
+import os
 from dataclasses import dataclass
 from enum import Enum
 
-from .errors import ProductionSafetyError
+from .errors import ProductionCredentialError, ProductionSafetyError
+
+PRODUCTION_TOKEN_ENV = "ZENODO_PRODUCTION_TOKEN"
+PRODUCTION_REQUIRED_SCOPES = ("deposit:write", "deposit:actions")
 
 
 class ZenodoEnvironment(str, Enum):
@@ -66,5 +70,37 @@ def environment_descriptor(value: ZenodoEnvironment) -> ZenodoEnvironmentDescrip
 
 
 def production_environment() -> ZenodoEnvironmentDescriptor:
-    """Return the fixed production identity for plan-only Stage 3A work."""
+    """Return the fixed production identity."""
     return environment_descriptor(ZenodoEnvironment.PRODUCTION)
+
+
+@dataclass(frozen=True, repr=False)
+class RuntimeProductionCredentials:
+    """Runtime-only material for the later architect-approved production cycle."""
+
+    token: str
+
+    def __post_init__(self) -> None:
+        if (
+            not isinstance(self.token, str)
+            or not self.token
+            or self.token != self.token.strip()
+            or any(character.isspace() for character in self.token)
+        ):
+            raise ProductionCredentialError("production credential value is invalid")
+
+    @classmethod
+    def from_environment(cls) -> "RuntimeProductionCredentials":
+        """Load the separate production value only when a later cycle explicitly calls it."""
+        token = os.environ.get(PRODUCTION_TOKEN_ENV, "")
+        if not token.strip():
+            raise ProductionCredentialError(
+                f"production draft preparation requires {PRODUCTION_TOKEN_ENV} at runtime"
+            )
+        return cls(token=token.strip())
+
+    def __repr__(self) -> str:
+        return "RuntimeProductionCredentials(<redacted>)"
+
+    def __str__(self) -> str:
+        return "RuntimeProductionCredentials(<redacted>)"

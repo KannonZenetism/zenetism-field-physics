@@ -1,6 +1,6 @@
-# Publication Engine v2 — Stages 1 through 3A
+# Publication Engine v2 — Stages 1 through 3B
 
-This directory implements deterministic GitHub / Zenodo comparison, Zenodo Sandbox drafts, and local-only production-draft safety planning for the Publication Engine v2 specification.
+This directory implements deterministic GitHub / Zenodo comparison, Zenodo Sandbox drafts, production-draft safety planning, and the confined Stage 3B production transport for the Publication Engine v2 specification.
 
 Stage 1 remains read-only.
 
@@ -15,6 +15,10 @@ Stage 2B contains no final-release operation.
 Stage 3A locally plans and tests a future unpublished production draft within one verified existing version family.
 
 Stage 3A does not access Zenodo, read a production credential, or provide an executable production request.
+
+Stage 3B adds the smallest fixed-host transport required to continue that plan into one unpublished production new-version draft. Its first pass is local, credential-free, and tested only through scripted responses.
+
+Stage 3B contains no final-release operation and is not exposed through a command-line execution option.
 
 ## Operational / Canonical Boundary
 
@@ -118,6 +122,27 @@ Stage 3A:
 
 The Stage 3A interface is plan-only. It has no production transport, credential loader, execution option, generic request method, standalone-deposit route, final-release command, or endpoint.
 
+## Stage 3B
+
+Stage 3B:
+
+- accepts only a validated `ProductionDraftPlan` produced by Stage 3A
+- repeats exact production-family read-back before new-version initiation
+- derives the latest exact-version record ID from that plan
+- admits only the fixed legacy `actions/newversion` route among Zenodo deposition actions
+- recovers the resulting draft only from a verified direct response or the fixed-host `latest_draft` relation
+- preserves safe recovery identity before any draft read or mutation
+- resumes an already-existing unpublished draft only after the same exact-family checks
+- binds all later operations to that recovered draft without accepting another record or draft ID
+- requires exact legacy and modern draft read-back before any file or metadata mutation
+- replaces only the verified inherited archival file with the byte-identical approved `_vN` payload
+- writes only the approved metadata package
+- reloads and validates unpublished state, family identity, file identity, DOI separation, and manifest-controlled metadata
+
+The production transport has no generic request method, host input, path input, record selector, draft selector, or action-name input. It contains no standalone-deposition creation route and no Publish, Edit, or Discard operation.
+
+The transport is not connected to the command line in this review pass. Deterministic tests substitute a scripted opener; they do not contact either Zenodo environment.
+
 ## Production Family Plan
 
 The production plan requires five local inputs:
@@ -144,13 +169,13 @@ PYTHONPATH=publication-infrastructure/engine python3 -m zenetism_engine producti
 
 This command reads local files only. It cannot contact production Zenodo or create a draft.
 
-## Future Production Credential Boundary
+## Production Credential Boundary
 
-No production credential is needed or read in Stage 3A. A later architect-approved stage may introduce the runtime-only environment variable `ZENODO_PRODUCTION_TOKEN`. Its value must remain outside the repository, manifests, tests, reports, logs, URLs, recovery records, and saved plan output. The engine must never print or persist it or an Authorization header.
+No production credential is needed or read by Stage 3A planning. Stage 3B defines the later runtime-only interface as `ZENODO_PRODUCTION_TOKEN`; this local pass does not call its loader. The value must remain outside the repository, manifests, tests, reports, logs, URLs, recovery records, and saved plan output. The engine must never print or persist it or an Authorization header.
 
-The narrowest later permission request should contain `deposit:write` and no unrelated account or profile scopes. If current Zenodo requires `deposit:actions` specifically to initiate a new-version draft, Stage 3B must verify that requirement before credential creation and record why the additional scope is necessary. That scope must not be requested by assumption. The production interface must remain limited to new-version draft creation and draft mutation even if Zenodo groups other record actions into the same external scope.
+The later runtime credential is expected to require exactly `deposit:write` and `deposit:actions`. The second external scope is required by the official legacy `actions/newversion` endpoint. It does not expand the engine surface: the only admitted action route is `actions/newversion`, and no arbitrary action name can enter the transport.
 
-The exact current scope needed for new-version initiation is the remaining Stage 3B preflight question. No credential should be created until that point is settled. The architect retains the irreversible final-release action outside the engine.
+The architect retains the irreversible final-release action outside the engine. No credential should be created or loaded before architect approval of the complete Stage 3B diff.
 
 ## Future Registry State
 
@@ -178,7 +203,7 @@ The runtime environment variable is named `ZENODO_SANDBOX_TOKEN`.
 
 The value and Authorization header are not included in manifests, request summaries, recovery data, logs, error messages, or repository files.
 
-The Stage 3A production surface is more restrictive: it performs no HTTP request and has no credential-loading path.
+Stage 3A planning remains more restrictive: it performs no HTTP request and has no credential-loading path. Stage 3B keeps a separate fixed production host and accepts only its closed new-version draft sequence.
 
 ## Requirements
 
@@ -292,7 +317,7 @@ The live reference test performs public reads only.
 
 It does not write to Zenodo.
 
-Stage 3A tests clear the production credential environment and fully simulate the production-draft plan, recovery, continuation, and verification channels locally. They do not contact either Zenodo environment.
+Stage 3A tests clear the production credential environment and fully simulate the production-draft plan, recovery, continuation, and verification channels locally. Stage 3B tests use scripted local responses for every production transport operation and explicitly fail if the deterministic path attempts a real request. Neither suite contacts either Zenodo environment.
 
 ## Public-Interface Boundaries
 

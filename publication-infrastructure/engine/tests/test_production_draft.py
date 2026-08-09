@@ -314,7 +314,10 @@ class ProductionDraftSafetyTests(unittest.TestCase):
         result = self.plan().as_dict()
         self.assertEqual(result["status"], "local_plan_only")
         self.assertEqual(result["source_record_id"], "21830364")
-        self.assertEqual(result["new_version_path"], "/records/21830364/versions")
+        self.assertEqual(
+            result["new_version_path"],
+            "/deposit/depositions/21830364/actions/newversion",
+        )
         self.assertFalse(result["production_network_enabled"])
         self.assertFalse(result["standalone_deposit_available"])
         self.assertFalse(result["final_release_action_available"])
@@ -594,8 +597,9 @@ class ProductionDraftSafetyTests(unittest.TestCase):
             for path in sorted(PACKAGE.glob("production_*.py"))
         ).casefold()
         self.assertNotIn("/actions/publish", production_sources)
-        self.assertNotIn("authorization", production_sources)
-        self.assertNotIn("urlopen", production_sources)
+        self.assertNotIn("/actions/edit", production_sources)
+        self.assertNotIn("/actions/discard", production_sources)
+        self.assertNotIn("def request(", production_sources)
 
 
 if __name__ == "__main__":

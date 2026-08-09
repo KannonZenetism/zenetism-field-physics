@@ -1,4 +1,4 @@
-"""Interface for Stage 1, Sandbox drafts, and local Stage 3A planning."""
+"""Interface for Stage 1, Sandbox drafts, and local production planning."""
 
 from __future__ import annotations
 
@@ -22,7 +22,7 @@ def parser() -> argparse.ArgumentParser:
         prog="zenetism-publication",
         description=(
             "Publication Engine v2 public reads, Sandbox drafts, and local-only "
-            "Stage 3A production-draft planning"
+            "production-draft planning"
         ),
     )
     commands = root.add_subparsers(dest="command", required=True)
