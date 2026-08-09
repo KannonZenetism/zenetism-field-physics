@@ -58,3 +58,19 @@ class SandboxRequestError(PublicationEngineError):
 
 class DraftValidationError(PublicationEngineError):
     """The saved Sandbox draft differs from the approved manifest."""
+
+
+class ProductionSafetyError(PublicationEngineError):
+    """A production-draft proposal falls outside the closed safety boundary."""
+
+
+class ProductionFamilyError(PublicationEngineError):
+    """Production record-family identity is missing, conflicting, or ambiguous."""
+
+
+class ProductionPlanError(PublicationEngineError):
+    """A local production-draft plan cannot be completed safely."""
+
+
+class ProductionValidationError(PublicationEngineError):
+    """Production draft read-back differs from the manifest-controlled package."""

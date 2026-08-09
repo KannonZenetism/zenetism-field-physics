@@ -1,4 +1,4 @@
-"""Interface for Stage 1 reads and Stage 2 Sandbox draft preparation."""
+"""Interface for Stage 1, Sandbox drafts, and local Stage 3A planning."""
 
 from __future__ import annotations
 
@@ -10,6 +10,7 @@ from typing import Any, Sequence
 
 from .errors import PublicationEngineError
 from .manifest import build_manifest, load_manifest, retrieve_observation, write_manifest
+from .production_draft import ProductionDraftPlanner, load_json_object
 from .registry import registry_row, update_registry
 from .sandbox_verification import load_architect_visual_confirmation
 from .sandbox_writer import SandboxDraftWriter
@@ -19,7 +20,10 @@ from .validation import validate_manifest
 def parser() -> argparse.ArgumentParser:
     root = argparse.ArgumentParser(
         prog="zenetism-publication",
-        description="Publication Engine v2 Stage 1 and Sandbox-only Stage 2 preparation",
+        description=(
+            "Publication Engine v2 public reads, Sandbox drafts, and local-only "
+            "Stage 3A production-draft planning"
+        ),
     )
     commands = root.add_subparsers(dest="command", required=True)
 
@@ -87,6 +91,20 @@ def parser() -> argparse.ArgumentParser:
         ),
     )
     resume.add_argument("--audit", type=Path)
+
+    production = commands.add_parser(
+        "production-draft-plan",
+        help=(
+            "build a local new-version production-draft plan; no credential is read "
+            "and no request can be sent"
+        ),
+    )
+    production.add_argument("--manifest", required=True, type=Path)
+    production.add_argument("--repository-root", required=True, type=Path)
+    production.add_argument("--registry", required=True, type=Path)
+    production.add_argument("--family-observation", required=True, type=Path)
+    production.add_argument("--intent", required=True, type=Path)
+    production.add_argument("--audit", type=Path)
     return root
 
 
@@ -162,6 +180,25 @@ def main(argv: Sequence[str] | None = None) -> int:
                 _write_json(args.audit, result)
             _print_json(result)
             return _sandbox_result_status(result)
+
+        if args.command == "production-draft-plan":
+            result = ProductionDraftPlanner().plan(
+                load_manifest(args.manifest),
+                repository_root=args.repository_root,
+                registry_path=args.registry,
+                family_observation=load_json_object(
+                    args.family_observation,
+                    label="production family observation",
+                ),
+                intent=load_json_object(
+                    args.intent,
+                    label="production draft intent",
+                ),
+            ).as_dict()
+            if args.audit:
+                _write_json(args.audit, result)
+            _print_json(result)
+            return 0
     except (PublicationEngineError, OSError, ValueError, KeyError) as exc:
         diagnostic: dict[str, Any] = {"error": str(exc)}
         if isinstance(exc, PublicationEngineError) and exc.recovery is not None:

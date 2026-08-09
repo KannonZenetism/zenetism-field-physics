@@ -1,6 +1,6 @@
-# Publication Engine v2 — Stages 1, 2A, and 2B
+# Publication Engine v2 — Stages 1 through 3A
 
-This directory implements the deterministic GitHub / Zenodo comparison phase and the Zenodo Sandbox draft phase of the Publication Engine v2 specification.
+This directory implements deterministic GitHub / Zenodo comparison, Zenodo Sandbox drafts, and local-only production-draft safety planning for the Publication Engine v2 specification.
 
 Stage 1 remains read-only.
 
@@ -11,6 +11,10 @@ Stage 2A does not include a final-release operation.
 Stage 2B adds fail-closed DOI-response reconciliation, immediate draft-recovery preservation, and constrained continuation of one explicit existing unpublished Sandbox draft.
 
 Stage 2B contains no final-release operation.
+
+Stage 3A locally plans and tests a future unpublished production draft within one verified existing version family.
+
+Stage 3A does not access Zenodo, read a production credential, or provide an executable production request.
 
 ## Operational / Canonical Boundary
 
@@ -95,6 +99,63 @@ An explicit draft-specific architect confirmation can convert Copyright to `pass
 
 The deterministic reference test combines exact API verification for the API-visible fields with that explicit confirmation for `Copyright: 2026 Aelion Kannon`. No visual confirmation is created automatically.
 
+## Stage 3A
+
+Stage 3A:
+
+- recognizes production and Sandbox as closed, structurally distinct environment identities
+- rejects configurable hosts, URLs, arbitrary production record selection, ambiguous family data, and standalone-deposit fallback
+- derives the new-version family from the exact approved manifest and publication-registry identity
+- verifies the concept DOI, latest exact-version DOI, latest record ID, current version, preceding exact-version DOI, and complete known family membership
+- requires an explicit immediately sequential `vN` intent tied to the manifest record key
+- derives the future new-version path from the verified current record rather than accepting a record ID in the intent
+- replaces inherited draft metadata with the manifest-controlled metadata package
+- prepares the byte-identical canonical payload with the next `_vN` archival filename and exact checksums
+- models immediate safe recovery preservation and same-draft continuation through an in-memory simulation
+- keeps API-visible fields fail-closed and reserves visual verification for a field absent from supported API read-back
+- prepares a reviewable future registry state without modifying the registry or Site
+- ends at an unpublished draft review station before any final release
+
+The Stage 3A interface is plan-only. It has no production transport, credential loader, execution option, generic request method, standalone-deposit route, final-release command, or endpoint.
+
+## Production Family Plan
+
+The production plan requires five local inputs:
+
+- the approved manifest
+- the exact publication registry
+- the local repository root containing the manifest-pinned canonical file
+- an explicit `new-version` intent containing only `record_key` and the immediately following `next_version`
+- a complete production-family observation containing the concept DOI, latest record, and explicit known family members
+
+The family observation is a Stage 3A fixture or a later Stage 3B read-back input. It is never an arbitrary search result. Every supported duplicate DOI representation must agree.
+
+Run local planning with:
+
+```sh
+PYTHONPATH=publication-infrastructure/engine python3 -m zenetism_engine production-draft-plan \
+  --manifest publication-infrastructure/manifests/zenetism-in-plain-language-v2.json \
+  --repository-root . \
+  --registry publication-infrastructure/zenetism-publication-registry.csv \
+  --family-observation /tmp/zenetism-production-family.json \
+  --intent /tmp/zenetism-production-intent.json \
+  --audit /tmp/zenetism-production-plan.json
+```
+
+This command reads local files only. It cannot contact production Zenodo or create a draft.
+
+## Future Production Credential Boundary
+
+No production credential is needed or read in Stage 3A. A later architect-approved stage may introduce the runtime-only environment variable `ZENODO_PRODUCTION_TOKEN`. Its value must remain outside the repository, manifests, tests, reports, logs, URLs, recovery records, and saved plan output. The engine must never print or persist it or an Authorization header.
+
+The narrowest later permission request should contain `deposit:write` and no unrelated account or profile scopes. If current Zenodo requires `deposit:actions` specifically to initiate a new-version draft, Stage 3B must verify that requirement before credential creation and record why the additional scope is necessary. That scope must not be requested by assumption. The production interface must remain limited to new-version draft creation and draft mutation even if Zenodo groups other record actions into the same external scope.
+
+The exact current scope needed for new-version initiation is the remaining Stage 3B preflight question. No credential should be created until that point is settled. The architect retains the irreversible final-release action outside the engine.
+
+## Future Registry State
+
+The local plan includes a reviewable prospective registry state containing the canonical filename, concept DOI, preceding exact-version DOI, intended next version, archival filename, and unpublished-draft planning state. It does not alter the registry or generate a Site mutation. A later approved stage may turn a fully validated production-draft result into a separate reviewable Site update package.
+
 ## Fixed Safety Boundary
 
 Mutation requests are fixed to:
@@ -116,6 +177,8 @@ Authentication is loaded only when an explicitly enabled Sandbox write begins.
 The runtime environment variable is named `ZENODO_SANDBOX_TOKEN`.
 
 The value and Authorization header are not included in manifests, request summaries, recovery data, logs, error messages, or repository files.
+
+The Stage 3A production surface is more restrictive: it performs no HTTP request and has no credential-loading path.
 
 ## Requirements
 
@@ -228,6 +291,8 @@ ZENETISM_RUN_LIVE_TESTS=1 PYTHONPATH=publication-infrastructure/engine \
 The live reference test performs public reads only.
 
 It does not write to Zenodo.
+
+Stage 3A tests clear the production credential environment and fully simulate the production-draft plan, recovery, continuation, and verification channels locally. They do not contact either Zenodo environment.
 
 ## Public-Interface Boundaries
 

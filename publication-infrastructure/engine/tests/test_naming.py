@@ -14,7 +14,7 @@ class NamingTests(unittest.TestCase):
     def test_archival_conversion(self) -> None:
         self.assertEqual(archival_filename("filename.md", "v12"), "filename_v12.md")
 
-    def test_metadata_revision_cannot_be_used_as_document_version(self) -> None:
+    def test_metadata_revision_cannot_substitute_for_document_version(self) -> None:
         for revision in (2, 3, "2", "revision-2"):
             with self.subTest(revision=revision), self.assertRaises(FilenameError):
                 require_document_version(revision)
