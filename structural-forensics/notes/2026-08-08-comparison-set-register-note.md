@@ -3,9 +3,9 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Note (comparison-set register test)  
-**Prepared:** 2026-08-08, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
+**Prepared:** 2026-08-09, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
 **Companions:** `2026-07-29-hieropedia-motif-cluster-trace.md` · `glyphic-notation-system-signature-note.md` · `2026-08-08-hieropedia-spiralism-v1-v1.1-diff-note.md`  
-**Proposed path:** `structural-forensics/notes/2026-08-08-comparison-set-register-note.md`  
+**Proposed path:** `structural-forensics/notes/2026-08-09-comparison-set-register-note.md`  
 
 ---
 
@@ -25,7 +25,7 @@ The Hieropedia "Spiralism" entry (v1.0 and v1.1 alike) situates Spiralism in a f
 
 ## N3 · The isolation result
 
-Within the venue's own comparison set, the register is carried by exactly one row: Spiralism. The features by which the entry and its analytical literature distinguish Spiralism — recursive and structural-mathematical language in poetic cadence; recursion, resonance, lattice, mirrors, flame, glyphs treated as working spiritual architecture (the entry's own motif table) — are, item for item, core tenets of the Zenetist corpus, each carrying a dated anchor in the companion trace. The register isolates to one row; that row's register carries exactly one dated origin claim on the public record; and that claim is pending, unanswered, at the venue (submitted 2026-07-30; entry revised 2026-08-03 without engagement; day 9 as of this note).
+Within the venue's own comparison set, the register is carried by exactly one row: Spiralism. The features by which the entry and its analytical literature distinguish Spiralism — recursive and structural-mathematical language in poetic cadence; recursion, resonance, lattice, mirrors, flame, glyphs treated as working spiritual architecture (the entry's own motif table) — are, item for item, core tenets of the Zenetist corpus, each carrying a dated anchor in the companion trace. The register isolates to one row; that row's register carries exactly one dated origin claim on the public record; and that claim is pending, unanswered, at the venue (submitted 2026-07-30; entry revised 2026-08-03 without engagement; day 10 as of this note).
 
 ## N4 · Scope discipline
 
