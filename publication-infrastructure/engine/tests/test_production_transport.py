@@ -32,6 +32,10 @@ MANIFEST_PATH = (
     ROOT
     / "publication-infrastructure/manifests/zenetism-in-plain-language-v2.json"
 )
+TWO_STATE_MANIFEST_PATH = (
+    ROOT
+    / "publication-infrastructure/manifests/prose-formatting-reference-v9.json"
+)
 REGISTRY_PATH = ROOT / "publication-infrastructure/zenetism-publication-registry.csv"
 PACKAGE = ROOT / "publication-infrastructure/engine/zenetism_engine"
 
@@ -88,6 +92,38 @@ def _family_observation(manifest: dict[str, object]) -> dict[str, object]:
         "concept_doi": concept,
         "latest": copy.deepcopy(latest),
         "members": [prior, latest],
+    }
+
+
+def _two_state_family_observation(
+    manifest: dict[str, object]
+) -> dict[str, object]:
+    baseline = manifest["published_baseline"]
+    assert isinstance(baseline, dict)
+    zenodo = baseline["zenodo"]
+    assert isinstance(zenodo, dict)
+    concept = str(zenodo["concept_doi"])
+    family = zenodo["version_family"]
+    assert isinstance(family, list)
+    members: list[dict[str, object]] = []
+    for item in family:
+        assert isinstance(item, dict)
+        members.append(
+            _family_member(
+                record_id=str(item["record_id"]),
+                exact_doi=str(item["exact_version_doi"]),
+                version=str(item["version_label"]),
+                family_index=int(item["family_index"]),
+                is_latest=bool(item["is_latest"]),
+                concept_doi=concept,
+            )
+        )
+    latest = [item for item in members if item["versions"]["is_latest"]]
+    assert len(latest) == 1
+    return {
+        "concept_doi": concept,
+        "latest": copy.deepcopy(latest[0]),
+        "members": members,
     }
 
 
@@ -698,6 +734,56 @@ class ProductionTransportTests(unittest.TestCase):
                 for item in opener.requests
             )
         )
+
+
+class TwoStateProductionTransportTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls) -> None:
+        cls.manifest = json.loads(TWO_STATE_MANIFEST_PATH.read_text(encoding="utf-8"))
+        cls.plan = ProductionDraftPlanner().plan(
+            cls.manifest,
+            repository_root=ROOT,
+            registry_path=REGISTRY_PATH,
+            family_observation=_two_state_family_observation(cls.manifest),
+            intent={
+                "route": "new-version",
+                "record_key": "prose-formatting-reference",
+                "next_version": "v9",
+            },
+        )
+
+    def _inherited_draft(self, *, size: int) -> dict[str, object]:
+        filename = self.plan.registry_identity["zenodo_archival_filename"]
+        return {
+            "files": {
+                "enabled": True,
+                "entries": {
+                    filename: {
+                        "key": filename,
+                        "checksum": self.plan.registry_identity["zenodo_checksum"],
+                        "size": size,
+                    }
+                },
+            }
+        }
+
+    def test_inherited_v8_and_candidate_v9_payload_sizes_remain_distinct(self) -> None:
+        self.assertEqual(self.plan.registry_identity["zenodo_byte_size"], "44971")
+        self.assertEqual(self.plan.archival_copy.checksums.byte_size, 45220)
+        self.assertEqual(
+            production_transport_module._classify_file_state(
+                self.plan,
+                self._inherited_draft(size=44971),
+            ),
+            "inherited",
+        )
+
+    def test_inherited_v8_filename_with_candidate_v9_size_fails(self) -> None:
+        with self.assertRaises(ProductionSafetyError):
+            production_transport_module._classify_file_state(
+                self.plan,
+                self._inherited_draft(size=45220),
+            )
 
 
 if __name__ == "__main__":

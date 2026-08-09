@@ -888,9 +888,9 @@ def _classify_file_state(plan: ProductionDraftPlan, draft: dict[str, Any]) -> st
             raise ProductionSafetyError(
                 "inherited production file differs from the validated registry identity"
             )
-        if entry.get("size") != plan.archival_copy.checksums.byte_size:
+        if entry.get("size") != _inherited_file_size(plan):
             raise ProductionSafetyError(
-                "inherited production file byte size differs from the approved manifest"
+                "inherited production file byte size differs from the published baseline"
             )
         return "inherited"
     if key == approved:
@@ -899,6 +899,17 @@ def _classify_file_state(plan: ProductionDraftPlan, draft: dict[str, Any]) -> st
     raise ProductionSafetyError(
         "production draft contains a file outside the approved family continuation"
     )
+
+
+def _inherited_file_size(plan: ProductionDraftPlan) -> int:
+    baseline_size = plan.registry_identity.get("zenodo_byte_size")
+    if baseline_size is None:
+        return plan.archival_copy.checksums.byte_size
+    if re.fullmatch(r"[1-9][0-9]*", baseline_size) is None:
+        raise ProductionSafetyError(
+            "published-baseline byte size is missing or malformed"
+        )
+    return int(baseline_size)
 
 
 def _require_approved_file(

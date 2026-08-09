@@ -35,6 +35,18 @@ _CONCEPT_DOI_PATHS = (
     "concept_doi",
 )
 _REGISTRY_APPROVAL_STATE = "published reference cycle"
+_TWO_STATE_SCHEMA = "zenetism-publication-engine-v2-stage-3b-candidate-preparation"
+_TWO_STATE_PREPARATION_STATE = "architect_review_required"
+_TWO_STATE_REGISTRY_APPROVAL_STATE = (
+    "published baseline — v9 architect review required"
+)
+_TWO_STATE_REGISTRY_SITE_STATE = "absent — v9 conformance prepared"
+_APPROVED_SITE_RELATION = {
+    "relation": "IsDocumentedBy",
+    "scheme": "URL",
+    "resource_type": "Other",
+    "identifier": "https://zenetism.aelionkannon.chatgpt.site",
+}
 
 
 @dataclass(frozen=True)
@@ -304,6 +316,15 @@ class ProductionDraftPlanner:
         family_observation: object,
         intent: object,
     ) -> ProductionDraftPlan:
+        if _is_two_state_package(manifest):
+            return self._plan_two_state(
+                manifest,
+                repository_root=repository_root,
+                registry_path=registry_path,
+                family_observation=family_observation,
+                intent=intent,
+            )
+
         approved = require_approved_manifest(manifest)
         approved_intent = ProductionDraftIntent.from_object(intent)
         record_key = _required_text(approved, "record_key", "approved manifest")
@@ -317,65 +338,128 @@ class ProductionDraftPlanner:
         _validate_next_version(approved, approved_intent)
 
         prospective = _prospective_manifest(approved, approved_intent.next_version)
-        archival_copy = prepare_archival_copy(
-            prospective, repository_root=repository_root
-        )
-        metadata_package = serialize_sandbox_draft(prospective, archival_copy)
-        inherited_differences = _metadata_differences(
-            metadata_package.saved_payload["metadata"], family.inherited_metadata
-        )
         source_record_id = _required_text(
             _required_object(approved, "zenodo", "approved manifest"),
             "record_id",
             "approved manifest zenodo",
         )
-        source_record_id = _production_record_segment(source_record_id)
-        operations = (
-            ProductionDraftOperation(
-                "verify_approved_identity",
-                "verify manifest, registry, candidate, and production family identity",
-            ),
-            ProductionDraftOperation(
-                "create_new_version_draft",
-                "begin one unpublished draft in the verified production family",
-                f"/deposit/depositions/{source_record_id}/actions/newversion",
-            ),
-            ProductionDraftOperation(
-                "preserve_recovery_identity",
-                "preserve safe draft recovery data immediately after creation",
-            ),
-            ProductionDraftOperation(
-                "reserve_new_exact_version_doi",
-                "reserve a new exact-version DOI without supplying a prior DOI",
-            ),
-            ProductionDraftOperation(
-                "replace_inherited_metadata",
-                "write the manifest-controlled metadata package",
-            ),
-            ProductionDraftOperation(
-                "upload_exact_archival_payload",
-                "carry the byte-identical _vN archival payload",
-            ),
-            ProductionDraftOperation(
-                "reload_and_validate",
-                "require exact API read-back and explicit visual verification where needed",
-            ),
-            ProductionDraftOperation(
-                "stop_for_architect_review",
-                "end with an unpublished draft requiring architect action outside Stage 3A",
-            ),
-        )
-        return ProductionDraftPlan(
-            manifest_fingerprint=_manifest_fingerprint(approved),
-            intent=approved_intent,
+        return _complete_production_plan(
+            approved_identity=approved,
+            prospective=prospective,
+            approved_intent=approved_intent,
             registry_identity=registry_identity,
             family=family,
             source_record_id=source_record_id,
-            archival_copy=archival_copy,
-            metadata_payload=deepcopy(metadata_package.saved_payload),
-            inherited_metadata_differences=inherited_differences,
-            operations=operations,
+            repository_root=repository_root,
         )
+
+    def _plan_two_state(
+        self,
+        manifest: object,
+        *,
+        repository_root: str | Path,
+        registry_path: str | Path,
+        family_observation: object,
+        intent: object,
+    ) -> ProductionDraftPlan:
+        package = _validated_two_state_package(manifest)
+        approved_intent = ProductionDraftIntent.from_object(intent)
+        record_key = _required_text(package, "record_key", "two-state manifest")
+        if approved_intent.record_key != record_key:
+            raise ProductionPlanError(
+                "production draft intent record_key differs from the two-state manifest"
+            )
+
+        baseline_manifest = _published_baseline_family_manifest(package)
+        family = ProductionFamilySnapshot.from_object(family_observation)
+        _validate_family_identity(baseline_manifest, family)
+        _validate_two_state_intent(package, approved_intent)
+        registry_identity = _exact_two_state_registry_identity(package, registry_path)
+        prospective = _two_state_candidate_manifest(package)
+        source_record_id = _required_text(
+            _required_object(
+                _required_object(package, "published_baseline", "two-state manifest"),
+                "zenodo",
+                "published baseline",
+            ),
+            "record_id",
+            "published baseline zenodo",
+        )
+        return _complete_production_plan(
+            approved_identity=package,
+            prospective=prospective,
+            approved_intent=approved_intent,
+            registry_identity=registry_identity,
+            family=family,
+            source_record_id=source_record_id,
+            repository_root=repository_root,
+        )
+
+
+def _complete_production_plan(
+    *,
+    approved_identity: dict[str, Any],
+    prospective: dict[str, Any],
+    approved_intent: ProductionDraftIntent,
+    registry_identity: dict[str, str],
+    family: ProductionFamilySnapshot,
+    source_record_id: str,
+    repository_root: str | Path,
+) -> ProductionDraftPlan:
+    archival_copy = prepare_archival_copy(
+        prospective, repository_root=repository_root
+    )
+    metadata_package = serialize_sandbox_draft(prospective, archival_copy)
+    inherited_differences = _metadata_differences(
+        metadata_package.saved_payload["metadata"], family.inherited_metadata
+    )
+    source_record_id = _production_record_segment(source_record_id)
+    operations = (
+        ProductionDraftOperation(
+            "verify_approved_identity",
+            "verify manifest, registry, candidate, and production family identity",
+        ),
+        ProductionDraftOperation(
+            "create_new_version_draft",
+            "begin one unpublished draft in the verified production family",
+            f"/deposit/depositions/{source_record_id}/actions/newversion",
+        ),
+        ProductionDraftOperation(
+            "preserve_recovery_identity",
+            "preserve safe draft recovery data immediately after creation",
+        ),
+        ProductionDraftOperation(
+            "reserve_new_exact_version_doi",
+            "reserve a new exact-version DOI without supplying a prior DOI",
+        ),
+        ProductionDraftOperation(
+            "replace_inherited_metadata",
+            "write the manifest-controlled metadata package",
+        ),
+        ProductionDraftOperation(
+            "upload_exact_archival_payload",
+            "carry the byte-identical _vN archival payload",
+        ),
+        ProductionDraftOperation(
+            "reload_and_validate",
+            "require exact API read-back and explicit visual verification where needed",
+        ),
+        ProductionDraftOperation(
+            "stop_for_architect_review",
+            "end with an unpublished draft requiring architect action outside Stage 3A",
+        ),
+    )
+    return ProductionDraftPlan(
+        manifest_fingerprint=_manifest_fingerprint(approved_identity),
+        intent=approved_intent,
+        registry_identity=registry_identity,
+        family=family,
+        source_record_id=source_record_id,
+        archival_copy=archival_copy,
+        metadata_payload=deepcopy(metadata_package.saved_payload),
+        inherited_metadata_differences=inherited_differences,
+        operations=operations,
+    )
 
 
 @dataclass(frozen=True)
@@ -492,6 +576,757 @@ def load_json_object(path: str | Path, *, label: str) -> dict[str, Any]:
     if not isinstance(value, dict):
         raise ProductionPlanError(f"{label} must contain a JSON object")
     return value
+
+
+def _is_two_state_package(value: object) -> bool:
+    return isinstance(value, dict) and value.get("schema_version") == _TWO_STATE_SCHEMA
+
+
+def _validated_two_state_package(value: object) -> dict[str, Any]:
+    if not isinstance(value, dict):
+        raise ProductionPlanError("two-state production manifest must be an object")
+    expected_top_level = {
+        "schema_version",
+        "record_key",
+        "preparation_state",
+        "corpus_classification",
+        "published_baseline",
+        "candidate",
+        "publication",
+    }
+    if set(value) != expected_top_level:
+        raise ProductionPlanError(
+            "two-state production manifest contains missing or unsupported top-level fields"
+        )
+    if value.get("schema_version") != _TWO_STATE_SCHEMA:
+        raise ProductionPlanError("two-state production manifest schema is unsupported")
+    if value.get("preparation_state") != _TWO_STATE_PREPARATION_STATE:
+        raise ProductionPlanError(
+            "two-state production manifest requires explicit architect review state"
+        )
+    _required_text(value, "record_key", "two-state manifest")
+    _required_text(value, "corpus_classification", "two-state manifest")
+    publication = _required_object(value, "publication", "two-state manifest")
+    if publication != {"architect_publish_required": True}:
+        raise ProductionSafetyError(
+            "two-state production manifest must retain the architect publication gate"
+        )
+
+    baseline = _required_object(value, "published_baseline", "two-state manifest")
+    _require_exact_fields(
+        baseline,
+        {
+            "github",
+            "zenodo",
+            "comparison",
+            "creator",
+            "contributors",
+            "repository_url",
+            "description",
+            "keywords",
+            "related_identifiers",
+            "site_relation",
+            "site_relation_status",
+            "preview",
+        },
+        "published baseline",
+    )
+    baseline_github = _required_object(baseline, "github", "published baseline")
+    baseline_zenodo = _required_object(baseline, "zenodo", "published baseline")
+    _require_exact_fields(
+        baseline_zenodo,
+        {
+            "record_id",
+            "concept_record_id",
+            "exact_version_doi",
+            "concept_doi",
+            "previous_version_doi",
+            "version",
+            "record_revision",
+            "version_family_index",
+            "is_latest",
+            "publication_date",
+            "archival_filename",
+            "archival_byte_size",
+            "archival_checksum",
+            "archival_sha256",
+            "archival_md5",
+            "metadata",
+            "version_family",
+        },
+        "published baseline zenodo",
+    )
+    candidate = _required_object(value, "candidate", "two-state manifest")
+    _require_exact_fields(
+        candidate,
+        {
+            "github",
+            "production_identity",
+            "metadata",
+            "creator",
+            "contributors",
+            "repository_url",
+            "description",
+            "keywords",
+            "keyword_change",
+            "related_identifiers",
+            "site_relation",
+            "preview",
+            "comparison_to_published_v8",
+        },
+        "candidate",
+    )
+    candidate_github = _required_object(candidate, "github", "candidate")
+    production_identity = _required_object(
+        candidate, "production_identity", "candidate"
+    )
+    candidate_metadata = _required_object(candidate, "metadata", "candidate")
+    _require_exact_fields(
+        candidate_metadata,
+        {
+            "title",
+            "resource_type",
+            "access",
+            "license",
+            "publication_date",
+            "version",
+            "copyright",
+            "language",
+        },
+        "candidate metadata",
+    )
+    github_fields = {
+        "repository",
+        "branch",
+        "directory",
+        "canonical_filename",
+        "path",
+        "commit",
+        "blob_sha",
+        "byte_size",
+        "sha256",
+        "md5",
+    }
+    _require_exact_fields(baseline_github, github_fields, "published baseline github")
+    _require_exact_fields(candidate_github, github_fields, "candidate github")
+    _require_exact_fields(
+        production_identity,
+        {
+            "route",
+            "source_record_id",
+            "concept_record_id",
+            "concept_doi",
+            "previous_exact_version_doi",
+            "previous_version",
+            "target_version",
+            "exact_version_doi",
+            "archival_filename",
+            "archival_byte_size",
+            "archival_sha256",
+            "archival_md5",
+            "publication_date",
+            "new_version_action",
+            "standalone_deposition_permitted",
+        },
+        "candidate production identity",
+    )
+    _required_digest(
+        baseline_github, "commit", 40, "published baseline github"
+    )
+    _required_digest(
+        baseline_github, "blob_sha", 40, "published baseline github"
+    )
+    _required_digest(candidate_github, "commit", 40, "candidate github")
+    _required_digest(candidate_github, "blob_sha", 40, "candidate github")
+    _validate_two_state_people_and_prose(baseline, "published baseline")
+    _validate_two_state_people_and_prose(candidate, "candidate")
+
+    for key in ("repository", "branch", "directory", "canonical_filename", "path"):
+        if _required_text(candidate_github, key, "candidate github") != _required_text(
+            baseline_github, key, "published baseline github"
+        ):
+            raise ProductionPlanError(
+                f"candidate GitHub {key} differs from the published canonical identity"
+            )
+    expected_path = str(
+        Path(_required_text(candidate_github, "directory", "candidate github"))
+        / _required_text(candidate_github, "canonical_filename", "candidate github")
+    )
+    if _required_text(candidate_github, "path", "candidate github") != expected_path:
+        raise ProductionPlanError(
+            "candidate GitHub path differs from its approved directory and filename"
+        )
+
+    baseline_size = _required_positive_int(
+        baseline_github, "byte_size", "published baseline github"
+    )
+    baseline_sha256 = _required_digest(
+        baseline_github, "sha256", 64, "published baseline github"
+    )
+    baseline_md5 = _required_digest(
+        baseline_github, "md5", 32, "published baseline github"
+    )
+    if (
+        _required_positive_int(
+            baseline_zenodo, "archival_byte_size", "published baseline zenodo"
+        )
+        != baseline_size
+        or _required_text(
+            baseline_zenodo, "archival_sha256", "published baseline zenodo"
+        )
+        != baseline_sha256
+        or _required_text(
+            baseline_zenodo, "archival_md5", "published baseline zenodo"
+        )
+        != baseline_md5
+        or _required_text(
+            baseline_zenodo, "archival_checksum", "published baseline zenodo"
+        )
+        != f"md5:{baseline_md5}"
+    ):
+        raise ProductionPlanError(
+            "published baseline GitHub and Zenodo payload identities differ"
+        )
+    baseline_comparison = _required_object(
+        baseline, "comparison", "published baseline"
+    )
+    if any(
+        baseline_comparison.get(key) != "matching"
+        for key in (
+            "payload_status",
+            "byte_size_status",
+            "sha256_status",
+            "md5_status",
+        )
+    ):
+        raise ProductionPlanError(
+            "published baseline must preserve an exact matching payload state"
+        )
+    baseline_metadata = _required_object(
+        baseline_zenodo, "metadata", "published baseline zenodo"
+    )
+    _require_exact_fields(
+        baseline_metadata,
+        {
+            "title",
+            "resource_type",
+            "access",
+            "license",
+            "copyright",
+            "language",
+        },
+        "published baseline metadata",
+    )
+    _validate_two_state_metadata_objects(
+        baseline_metadata, "published baseline metadata"
+    )
+    _validate_two_state_metadata_objects(candidate_metadata, "candidate metadata")
+    if (
+        baseline.get("site_relation_status") != "absent"
+        or baseline.get("site_relation") is not None
+        or baseline.get("related_identifiers") != []
+    ):
+        raise ProductionPlanError(
+            "published baseline Site-relation absence is contradictory or ambiguous"
+        )
+
+    candidate_size = _required_positive_int(
+        candidate_github, "byte_size", "candidate github"
+    )
+    candidate_sha256 = _required_digest(
+        candidate_github, "sha256", 64, "candidate github"
+    )
+    candidate_md5 = _required_digest(
+        candidate_github, "md5", 32, "candidate github"
+    )
+    baseline_payload_identity = (baseline_size, baseline_sha256, baseline_md5)
+    candidate_payload_identity = (candidate_size, candidate_sha256, candidate_md5)
+    if candidate_payload_identity == baseline_payload_identity:
+        raise ProductionPlanError(
+            "published baseline and proposed candidate payload identities collapsed"
+        )
+    if (
+        _required_positive_int(
+            production_identity, "archival_byte_size", "candidate production identity"
+        )
+        != candidate_size
+        or _required_text(
+            production_identity, "archival_sha256", "candidate production identity"
+        )
+        != candidate_sha256
+        or _required_text(
+            production_identity, "archival_md5", "candidate production identity"
+        )
+        != candidate_md5
+    ):
+        raise ProductionPlanError(
+            "candidate archival payload differs from the approved GitHub identity"
+        )
+    comparison = _required_object(
+        candidate, "comparison_to_published_v8", "candidate"
+    )
+    expected_comparison = {
+        "payload_status": "different",
+        "byte_size_status": (
+            "matching" if candidate_size == baseline_size else "different"
+        ),
+        "sha256_status": (
+            "matching" if candidate_sha256 == baseline_sha256 else "different"
+        ),
+        "md5_status": "matching" if candidate_md5 == baseline_md5 else "different",
+    }
+    if comparison != expected_comparison:
+        raise ProductionPlanError(
+            "candidate comparison does not describe the published-baseline difference"
+        )
+
+    baseline_record_id = _production_record_segment(
+        _required_text(baseline_zenodo, "record_id", "published baseline zenodo")
+    )
+    baseline_concept_record_id = _production_record_segment(
+        _required_text(
+            baseline_zenodo, "concept_record_id", "published baseline zenodo"
+        )
+    )
+    baseline_exact_doi = _required_text(
+        baseline_zenodo, "exact_version_doi", "published baseline zenodo"
+    )
+    baseline_concept_doi = _required_text(
+        baseline_zenodo, "concept_doi", "published baseline zenodo"
+    )
+    baseline_version = _required_text(
+        baseline_zenodo, "version", "published baseline zenodo"
+    )
+    if VERSION_RE.fullmatch(baseline_version) is None:
+        raise ProductionPlanError("published baseline version must match vN")
+    expected_baseline_filename = archival_filename(
+        _required_text(
+            baseline_github, "canonical_filename", "published baseline github"
+        ),
+        baseline_version,
+    )
+    if (
+        _required_text(
+            baseline_zenodo, "archival_filename", "published baseline zenodo"
+        )
+        != expected_baseline_filename
+        or baseline_zenodo.get("is_latest") is not True
+    ):
+        raise ProductionPlanError(
+            "published baseline filename or latest state is contradictory"
+        )
+    baseline_preview = _required_object(
+        baseline, "preview", "published baseline"
+    )
+    if baseline_preview != {
+        "explicit_default_file": True,
+        "default_file": expected_baseline_filename,
+    }:
+        raise ProductionPlanError(
+            "published baseline default Preview differs from its archival file"
+        )
+    if (
+        _production_record_segment(
+            _required_text(
+                production_identity, "source_record_id", "candidate production identity"
+            )
+        )
+        != baseline_record_id
+        or _production_record_segment(
+            _required_text(
+                production_identity,
+                "concept_record_id",
+                "candidate production identity",
+            )
+        )
+        != baseline_concept_record_id
+        or _required_text(
+            production_identity,
+            "concept_doi",
+            "candidate production identity",
+        )
+        != baseline_concept_doi
+        or _required_text(
+            production_identity,
+            "previous_exact_version_doi",
+            "candidate production identity",
+        )
+        != baseline_exact_doi
+        or _required_text(
+            production_identity, "previous_version", "candidate production identity"
+        )
+        != baseline_version
+    ):
+        raise ProductionFamilyError(
+            "candidate continuation differs from the published baseline family identity"
+        )
+    if (
+        "exact_version_doi" not in production_identity
+        or production_identity.get("exact_version_doi") is not None
+    ):
+        raise ProductionSafetyError(
+            "candidate exact-version DOI must remain unset until reservation"
+        )
+    if (
+        production_identity.get("route") != "new-version"
+        or production_identity.get("new_version_action")
+        != "deposit:actions/newversion"
+        or production_identity.get("standalone_deposition_permitted") is not False
+    ):
+        raise ProductionSafetyError(
+            "candidate production route differs from the confined new-version operation"
+        )
+    target_version = _required_text(
+        production_identity, "target_version", "candidate production identity"
+    )
+    target_match = VERSION_RE.fullmatch(target_version)
+    baseline_match = VERSION_RE.fullmatch(baseline_version)
+    assert baseline_match is not None
+    if target_match is None or int(target_match.group(1)) != (
+        int(baseline_match.group(1)) + 1
+    ):
+        raise ProductionPlanError(
+            "candidate version must immediately follow the published baseline"
+        )
+    expected_filename = archival_filename(
+        _required_text(candidate_github, "canonical_filename", "candidate github"),
+        target_version,
+    )
+    if _required_text(
+        production_identity, "archival_filename", "candidate production identity"
+    ) != expected_filename:
+        raise ProductionPlanError(
+            "candidate archival filename differs from the approved vN convention"
+        )
+
+    metadata = candidate_metadata
+    if (
+        metadata.get("version") != target_version
+        or metadata.get("publication_date")
+        != _required_text(
+            production_identity, "publication_date", "candidate production identity"
+        )
+        or metadata.get("publication_date")
+        != _required_text(
+            baseline_zenodo, "publication_date", "published baseline zenodo"
+        )
+    ):
+        raise ProductionPlanError(
+            "candidate version or publication date contradicts the approved continuation"
+        )
+    preview = _required_object(candidate, "preview", "candidate")
+    if preview != {
+        "explicit_default_file": True,
+        "default_file": expected_filename,
+    }:
+        raise ProductionPlanError(
+            "candidate default Preview differs from the approved archival file"
+        )
+    site_relation = _required_object(candidate, "site_relation", "candidate")
+    related_identifiers = candidate.get("related_identifiers")
+    if (
+        site_relation != _APPROVED_SITE_RELATION
+        or related_identifiers != [_APPROVED_SITE_RELATION]
+    ):
+        raise ProductionPlanError(
+            "candidate Site-relation transition is unapproved or contradictory"
+        )
+    keyword_change = _required_object(candidate, "keyword_change", "candidate")
+    _require_exact_fields(
+        keyword_change,
+        {
+            "architect_review_required",
+            "previous_count",
+            "proposed_count",
+            "added",
+            "removed",
+        },
+        "candidate keyword change",
+    )
+    baseline_keywords = baseline.get("keywords")
+    candidate_keywords = candidate.get("keywords")
+    if (
+        keyword_change.get("architect_review_required") is not True
+        or keyword_change.get("previous_count")
+        != len(baseline_keywords)
+        or keyword_change.get("proposed_count")
+        != len(candidate_keywords)
+        or keyword_change.get("added") != ["Structural Metaphysics"]
+        or keyword_change.get("removed") != []
+        or candidate_keywords
+        != (
+            baseline_keywords[:2]
+            + ["Structural Metaphysics"]
+            + baseline_keywords[2:]
+        )
+    ):
+        raise ProductionPlanError(
+            "candidate keyword transition differs from the explicit architect-review state"
+        )
+    return value
+
+
+def _validate_two_state_people_and_prose(
+    state: dict[str, Any], label: str
+) -> None:
+    creator = _required_object(state, "creator", label)
+    _require_exact_fields(
+        creator,
+        {"family_name", "given_names", "rendered_name"},
+        f"{label} creator",
+    )
+    if creator != {
+        "family_name": "Aelion Kannon",
+        "given_names": "",
+        "rendered_name": "Aelion Kannon",
+    }:
+        raise ProductionPlanError(
+            f"{label} creator differs from the approved corpus convention"
+        )
+    contributors = state.get("contributors")
+    if not isinstance(contributors, list) or not contributors:
+        raise ProductionPlanError(f"{label} contributors must be explicit")
+    contributor_identities: list[tuple[str, str]] = []
+    for item in contributors:
+        if not isinstance(item, dict):
+            raise ProductionPlanError(f"{label} contributor must be an object")
+        _require_exact_fields(item, {"name", "role"}, f"{label} contributor")
+        contributor_identities.append(
+            (
+                _required_text(item, "name", f"{label} contributor"),
+                _required_text(item, "role", f"{label} contributor"),
+            )
+        )
+    if len(contributor_identities) != len(set(contributor_identities)):
+        raise ProductionPlanError(f"{label} contributors are ambiguous")
+    github = _required_object(state, "github", label)
+    expected_repository_url = (
+        f"https://github.com/{_required_text(github, 'repository', f'{label} github')}"
+        f"/tree/{_required_text(github, 'branch', f'{label} github')}"
+        f"/{_required_text(github, 'directory', f'{label} github').strip('/')}"
+    )
+    if _required_text(state, "repository_url", label) != expected_repository_url:
+        raise ProductionPlanError(
+            f"{label} Repository URL differs from the precise GitHub directory"
+        )
+    description = _required_object(state, "description", label)
+    description_fields = (
+        {"form", "word_count", "rendered_html", "attestation_included"}
+        if label == "candidate"
+        else {"form", "rendered_html"}
+    )
+    _require_exact_fields(
+        description, description_fields, f"{label} description"
+    )
+    if description.get("form") != "Standard":
+        raise ProductionPlanError(f"{label} description must use Standard form")
+    _required_text(description, "rendered_html", f"{label} description")
+    if label == "candidate" and (
+        not isinstance(description.get("word_count"), int)
+        or isinstance(description.get("word_count"), bool)
+        or description.get("word_count") < 120
+        or description.get("word_count") > 220
+        or description.get("attestation_included") is not False
+    ):
+        raise ProductionPlanError(
+            "candidate description length or attestation state is invalid"
+        )
+    keywords = state.get("keywords")
+    if not isinstance(keywords, list) or not keywords or not all(
+        isinstance(item, str) and item for item in keywords
+    ):
+        raise ProductionPlanError(f"{label} keywords must be an ordered string list")
+    if len(keywords) != len(set(keywords)):
+        raise ProductionPlanError(f"{label} keywords are ambiguous")
+
+
+def _validate_two_state_metadata_objects(
+    metadata: dict[str, Any], label: str
+) -> None:
+    resource_type = _required_object(metadata, "resource_type", label)
+    license_value = _required_object(metadata, "license", label)
+    _require_exact_fields(resource_type, {"id", "title"}, f"{label} resource type")
+    _require_exact_fields(license_value, {"id", "title"}, f"{label} license")
+    for key in ("title", "access", "copyright", "language"):
+        _required_text(metadata, key, label)
+    if "publication_date" in metadata:
+        _required_text(metadata, "publication_date", label)
+    if "version" in metadata:
+        _required_text(metadata, "version", label)
+
+
+def _published_baseline_family_manifest(package: dict[str, Any]) -> dict[str, Any]:
+    baseline = _required_object(package, "published_baseline", "two-state manifest")
+    zenodo = deepcopy(_required_object(baseline, "zenodo", "published baseline"))
+    zenodo["target_version"] = zenodo.pop("version")
+    return {"zenodo": zenodo}
+
+
+def _validate_two_state_intent(
+    package: dict[str, Any], intent: ProductionDraftIntent
+) -> None:
+    candidate = _required_object(package, "candidate", "two-state manifest")
+    production_identity = _required_object(
+        candidate, "production_identity", "candidate"
+    )
+    if intent.next_version != _required_text(
+        production_identity, "target_version", "candidate production identity"
+    ):
+        raise ProductionPlanError(
+            "production draft intent differs from the approved candidate version"
+        )
+
+
+def _two_state_candidate_manifest(package: dict[str, Any]) -> dict[str, Any]:
+    baseline = _required_object(package, "published_baseline", "two-state manifest")
+    baseline_zenodo = _required_object(baseline, "zenodo", "published baseline")
+    candidate = _required_object(package, "candidate", "two-state manifest")
+    candidate_github = deepcopy(_required_object(candidate, "github", "candidate"))
+    production_identity = _required_object(
+        candidate, "production_identity", "candidate"
+    )
+    candidate_metadata = deepcopy(
+        _required_object(candidate, "metadata", "candidate")
+    )
+    candidate_md5 = _required_text(
+        production_identity, "archival_md5", "candidate production identity"
+    )
+    return {
+        "schema_version": "zenetism-publication-engine-v2-stage-1",
+        "record_key": _required_text(package, "record_key", "two-state manifest"),
+        "corpus_classification": _required_text(
+            package, "corpus_classification", "two-state manifest"
+        ),
+        "github": candidate_github,
+        "zenodo": {
+            "record_id": _required_text(
+                baseline_zenodo, "record_id", "published baseline zenodo"
+            ),
+            "concept_record_id": _required_text(
+                baseline_zenodo, "concept_record_id", "published baseline zenodo"
+            ),
+            "exact_version_doi": _required_text(
+                baseline_zenodo, "exact_version_doi", "published baseline zenodo"
+            ),
+            "concept_doi": _required_text(
+                baseline_zenodo, "concept_doi", "published baseline zenodo"
+            ),
+            "previous_version_doi": _required_text(
+                production_identity,
+                "previous_exact_version_doi",
+                "candidate production identity",
+            ),
+            "target_version": _required_text(
+                production_identity, "target_version", "candidate production identity"
+            ),
+            "record_revision": baseline_zenodo.get("record_revision"),
+            "version_family_index": baseline_zenodo.get("version_family_index"),
+            "is_latest": baseline_zenodo.get("is_latest"),
+            "publication_date": _required_text(
+                production_identity, "publication_date", "candidate production identity"
+            ),
+            "archival_filename": _required_text(
+                production_identity, "archival_filename", "candidate production identity"
+            ),
+            "archival_byte_size": production_identity.get("archival_byte_size"),
+            "archival_checksum": f"md5:{candidate_md5}",
+            "archival_sha256": _required_text(
+                production_identity, "archival_sha256", "candidate production identity"
+            ),
+            "archival_md5": candidate_md5,
+            "metadata": candidate_metadata,
+            "version_family": deepcopy(baseline_zenodo.get("version_family")),
+        },
+        "creator": deepcopy(_required_object(candidate, "creator", "candidate")),
+        "contributors": deepcopy(candidate.get("contributors")),
+        "repository_url": _required_text(candidate, "repository_url", "candidate"),
+        "description": deepcopy(
+            _required_object(candidate, "description", "candidate")
+        ),
+        "keywords": deepcopy(candidate.get("keywords")),
+        "related_identifiers": deepcopy(candidate.get("related_identifiers")),
+        "site_relation": deepcopy(
+            _required_object(candidate, "site_relation", "candidate")
+        ),
+        "preview": deepcopy(_required_object(candidate, "preview", "candidate")),
+        "comparison": {
+            "payload_status": "matching",
+            "byte_size_status": "matching",
+            "sha256_status": "matching",
+            "md5_status": "matching",
+        },
+        "publication": deepcopy(
+            _required_object(package, "publication", "two-state manifest")
+        ),
+    }
+
+
+def _exact_two_state_registry_identity(
+    package: dict[str, Any], registry_path: str | Path
+) -> dict[str, str]:
+    path = Path(registry_path)
+    if not path.is_file():
+        raise ProductionPlanError("production planning requires the publication registry")
+    with path.open(newline="", encoding="utf-8") as stream:
+        rows = [dict(item) for item in csv.DictReader(stream)]
+    baseline = _required_object(package, "published_baseline", "two-state manifest")
+    github = _required_object(baseline, "github", "published baseline")
+    zenodo = _required_object(baseline, "zenodo", "published baseline")
+    canonical_filename = _required_text(
+        github, "canonical_filename", "published baseline github"
+    )
+    matches = [item for item in rows if item.get("canonical_filename") == canonical_filename]
+    if len(matches) != 1:
+        raise ProductionPlanError(
+            "publication registry requires one exact published-baseline row"
+        )
+    row = matches[0]
+    expected = {
+        "canonical_filename": canonical_filename,
+        "github_directory": _required_text(
+            github, "directory", "published baseline github"
+        ),
+        "github_commit": _required_text(
+            github, "commit", "published baseline github"
+        ),
+        "github_sha256": _required_text(
+            github, "sha256", "published baseline github"
+        ),
+        "github_md5": _required_text(github, "md5", "published baseline github"),
+        "concept_doi": _required_text(
+            zenodo, "concept_doi", "published baseline zenodo"
+        ),
+        "latest_version_label": _required_text(
+            zenodo, "version", "published baseline zenodo"
+        ),
+        "latest_version_doi": _required_text(
+            zenodo, "exact_version_doi", "published baseline zenodo"
+        ),
+        "zenodo_archival_filename": _required_text(
+            zenodo, "archival_filename", "published baseline zenodo"
+        ),
+        "zenodo_checksum": _required_text(
+            zenodo, "archival_checksum", "published baseline zenodo"
+        ),
+        "publication_date": _required_text(
+            zenodo, "publication_date", "published baseline zenodo"
+        ),
+        "metadata_status": "validated",
+        "file_status": "matching",
+        "site_relation_status": _TWO_STATE_REGISTRY_SITE_STATE,
+        "architect_approval_state": _TWO_STATE_REGISTRY_APPROVAL_STATE,
+    }
+    mismatches = [key for key, expected_value in expected.items() if row.get(key) != expected_value]
+    if mismatches:
+        raise ProductionPlanError(
+            "publication registry differs from the approved published baseline: "
+            + ", ".join(mismatches)
+        )
+    result = {key: row[key] for key in expected}
+    result["zenodo_byte_size"] = str(
+        _required_positive_int(zenodo, "archival_byte_size", "published baseline zenodo")
+    )
+    return result
 
 
 def _exact_registry_identity(
@@ -869,3 +1704,28 @@ def _required_text(value: dict[str, Any], key: str, label: str) -> str:
     if not isinstance(result, str) or not result:
         raise ProductionPlanError(f"{label} requires string field {key}")
     return result
+
+
+def _required_positive_int(value: dict[str, Any], key: str, label: str) -> int:
+    result = value.get(key)
+    if not isinstance(result, int) or isinstance(result, bool) or result <= 0:
+        raise ProductionPlanError(f"{label} requires positive integer field {key}")
+    return result
+
+
+def _required_digest(
+    value: dict[str, Any], key: str, length: int, label: str
+) -> str:
+    result = _required_text(value, key, label)
+    if re.fullmatch(f"[0-9a-f]{{{length}}}", result) is None:
+        raise ProductionPlanError(f"{label} requires lowercase hexadecimal field {key}")
+    return result
+
+
+def _require_exact_fields(
+    value: dict[str, Any], expected: set[str], label: str
+) -> None:
+    if set(value) != expected:
+        raise ProductionPlanError(
+            f"{label} contains missing or unsupported fields"
+        )
