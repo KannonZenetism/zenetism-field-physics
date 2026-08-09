@@ -669,6 +669,8 @@ Three invariants:
 - Paths and filenames are ASCII-exact. Typographic substitutes (non-breaking hyphen U+2011, curly quotes, en dashes) never enter a backticked path, whatever the rendering surface displays.
 - A relocated file keeps its citation identity. Cite the current canonical filename; where the relocation itself is part of the record, note the former path parenthetically once ("later moved to `structural-forensics/SF01-doctrinal-atlas-vol1.md`"), never as the standing citation.
 
+Metadata list lines (Companions, Dependencies, Collaborators) separate entries with the mid-dot (·), matching the seal-line convention; running prose takes ordinary sentence punctuation, never the mid-dot (architect determination, August 9 2026).
+
 The same preference extends to Zenodo deposit descriptions: relation entries (`Supersedes:` / `Companion to:` / `Part of:`) run filename-first, with work titles reserved for containing works, per the Zenodo Description Standard. Existing deposits are inconsistent in this form; Zenodo permits description edits in place, so stabilization proceeds without minting new DOIs.
 
 New filenames are collision-checked against the corpus before creation; a collision forces rename.
