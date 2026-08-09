@@ -44,6 +44,10 @@ MANIFEST_PATH = (
     ROOT
     / "publication-infrastructure/manifests/zenetism-in-plain-language-v2.json"
 )
+TWO_STATE_MANIFEST_PATH = (
+    ROOT
+    / "publication-infrastructure/manifests/prose-formatting-reference-v9.json"
+)
 REGISTRY_PATH = ROOT / "publication-infrastructure/zenetism-publication-registry.csv"
 PACKAGE = ENGINE / "zenetism_engine"
 
@@ -109,6 +113,38 @@ def _intent() -> dict[str, str]:
     }
 
 
+def _two_state_family_observation(
+    manifest: dict[str, object]
+) -> dict[str, object]:
+    baseline = manifest["published_baseline"]
+    assert isinstance(baseline, dict)
+    zenodo = baseline["zenodo"]
+    assert isinstance(zenodo, dict)
+    concept = str(zenodo["concept_doi"])
+    family = zenodo["version_family"]
+    assert isinstance(family, list)
+    members: list[dict[str, object]] = []
+    for item in family:
+        assert isinstance(item, dict)
+        members.append(
+            _family_member(
+                record_id=str(item["record_id"]),
+                exact_doi=str(item["exact_version_doi"]),
+                version=str(item["version_label"]),
+                family_index=int(item["family_index"]),
+                is_latest=bool(item["is_latest"]),
+                concept_doi=concept,
+            )
+        )
+    latest = [item for item in members if item["versions"]["is_latest"]]
+    assert len(latest) == 1
+    return {
+        "concept_doi": concept,
+        "latest": copy.deepcopy(latest[0]),
+        "members": members,
+    }
+
+
 def _simulated_draft(
     *, draft_id: str = "30000001", concept_doi: str = "10.5281/zenodo.21174438"
 ) -> dict[str, object]:
@@ -129,6 +165,9 @@ class ProductionDraftSafetyTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
         cls.manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+        cls.two_state_manifest = json.loads(
+            TWO_STATE_MANIFEST_PATH.read_text(encoding="utf-8")
+        )
 
     def setUp(self) -> None:
         self.planner = ProductionDraftPlanner()
@@ -153,6 +192,32 @@ class ProductionDraftSafetyTests(unittest.TestCase):
             registry_path=registry_path,
             family_observation=selected_family,
             intent=intent if intent is not None else _intent(),
+        )
+
+    def plan_two_state(
+        self,
+        *,
+        manifest: dict[str, object] | None = None,
+        family: dict[str, object] | None = None,
+        registry_path: Path = REGISTRY_PATH,
+    ):
+        selected_manifest = (
+            manifest if manifest is not None else self.two_state_manifest
+        )
+        return self.planner.plan(
+            selected_manifest,
+            repository_root=ROOT,
+            registry_path=registry_path,
+            family_observation=(
+                family
+                if family is not None
+                else _two_state_family_observation(selected_manifest)
+            ),
+            intent={
+                "route": "new-version",
+                "record_key": "prose-formatting-reference",
+                "next_version": "v9",
+            },
         )
 
     def test_production_and_sandbox_identities_are_structurally_distinct(self) -> None:
@@ -271,6 +336,140 @@ class ProductionDraftSafetyTests(unittest.TestCase):
             changed.write_text(text, encoding="utf-8")
             with self.assertRaises(ProductionPlanError):
                 self.plan(registry_path=changed)
+
+    def test_two_state_v8_to_v9_package_passes_planning(self) -> None:
+        plan = self.plan_two_state()
+        baseline = self.two_state_manifest["published_baseline"]
+        candidate = self.two_state_manifest["candidate"]
+        self.assertNotEqual(
+            baseline["github"]["sha256"],
+            candidate["github"]["sha256"],
+        )
+        self.assertEqual(plan.source_record_id, "21843931")
+        self.assertEqual(plan.family.latest.version_label, "v8")
+        self.assertEqual(plan.intent.next_version, "v9")
+        self.assertEqual(
+            plan.archival_copy.archival_filename,
+            "prose-formatting-reference_v9.md",
+        )
+        self.assertEqual(
+            plan.archival_copy.checksums.sha256,
+            candidate["github"]["sha256"],
+        )
+        self.assertFalse(plan.as_dict()["final_release_action_available"])
+
+    def test_two_state_candidate_description_uses_approved_standard_form(self) -> None:
+        description = self.two_state_manifest["candidate"]["description"][
+            "rendered_html"
+        ]
+        self.assertIn(
+            "It also establishes cadence conformance where explicitly determined",
+            description,
+        )
+        self.assertNotIn("It also governs cadence conformance", description)
+        self.assertIn("<strong>Document class:</strong>", description)
+        self.assertIn("<strong>Companion to:</strong>", description)
+        self.assertIn(
+            "Canonical file: <code>prose-formatting-reference.md</code>.",
+            description,
+        )
+        self.assertNotIn("OpenTimestamps", description)
+
+    def test_two_state_published_baseline_payload_mismatch_fails(self) -> None:
+        manifest = copy.deepcopy(self.two_state_manifest)
+        manifest["published_baseline"]["github"]["sha256"] = "0" * 64
+        with self.assertRaises(ProductionPlanError) as context:
+            self.plan_two_state(
+                manifest=manifest,
+                family=_two_state_family_observation(self.two_state_manifest),
+            )
+        self.assertIn("baseline GitHub and Zenodo", str(context.exception))
+
+    def test_two_state_published_family_mismatch_fails(self) -> None:
+        manifest = copy.deepcopy(self.two_state_manifest)
+        manifest["published_baseline"]["zenodo"]["exact_version_doi"] = (
+            "10.5281/zenodo.99999999"
+        )
+        with self.assertRaises(ProductionFamilyError):
+            self.plan_two_state(
+                manifest=manifest,
+                family=_two_state_family_observation(self.two_state_manifest),
+            )
+
+    def test_two_state_candidate_must_match_approved_github_identity(self) -> None:
+        manifest = copy.deepcopy(self.two_state_manifest)
+        candidate = manifest["candidate"]
+        candidate["github"]["sha256"] = "1" * 64
+        candidate["production_identity"]["archival_sha256"] = "1" * 64
+        with self.assertRaises(ManifestApprovalError):
+            self.plan_two_state(manifest=manifest)
+
+    def test_two_state_baseline_candidate_identity_collapse_fails(self) -> None:
+        manifest = copy.deepcopy(self.two_state_manifest)
+        baseline = manifest["published_baseline"]["github"]
+        candidate = manifest["candidate"]
+        candidate["github"]["byte_size"] = baseline["byte_size"]
+        candidate["github"]["sha256"] = baseline["sha256"]
+        candidate["github"]["md5"] = baseline["md5"]
+        candidate["production_identity"]["archival_byte_size"] = baseline[
+            "byte_size"
+        ]
+        candidate["production_identity"]["archival_sha256"] = baseline["sha256"]
+        candidate["production_identity"]["archival_md5"] = baseline["md5"]
+        with self.assertRaises(ProductionPlanError) as context:
+            self.plan_two_state(manifest=manifest)
+        self.assertIn("payload identities collapsed", str(context.exception))
+
+    def test_two_state_site_relation_transition_is_explicit(self) -> None:
+        original = copy.deepcopy(self.two_state_manifest)
+        plan = self.plan_two_state(manifest=original)
+        self.assertIsNone(original["published_baseline"]["site_relation"])
+        self.assertEqual(original["published_baseline"]["related_identifiers"], [])
+        related = plan.metadata_payload["metadata"]["related_identifiers"]
+        self.assertEqual(
+            related,
+            [
+                {
+                    "identifier": "https://zenetism.aelionkannon.chatgpt.site",
+                    "scheme": "url",
+                    "relation_type": {"id": "isdocumentedby"},
+                    "resource_type": {"id": "other"},
+                }
+            ],
+        )
+
+    def test_two_state_unapproved_site_relation_transition_fails(self) -> None:
+        manifest = copy.deepcopy(self.two_state_manifest)
+        manifest["candidate"]["site_relation"]["identifier"] = (
+            "https://example.invalid"
+        )
+        manifest["candidate"]["related_identifiers"][0]["identifier"] = (
+            "https://example.invalid"
+        )
+        with self.assertRaises(ProductionPlanError) as context:
+            self.plan_two_state(manifest=manifest)
+        self.assertIn("Site-relation transition", str(context.exception))
+
+    def test_two_state_contradictory_historical_site_state_fails(self) -> None:
+        manifest = copy.deepcopy(self.two_state_manifest)
+        manifest["published_baseline"]["site_relation"] = copy.deepcopy(
+            manifest["candidate"]["site_relation"]
+        )
+        with self.assertRaises(ProductionPlanError) as context:
+            self.plan_two_state(manifest=manifest)
+        self.assertIn("absence is contradictory", str(context.exception))
+
+    def test_two_state_registry_transition_must_match_exactly(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            changed = Path(directory) / "registry.csv"
+            text = REGISTRY_PATH.read_text(encoding="utf-8").replace(
+                "absent — v9 conformance prepared",
+                "validated",
+            )
+            changed.write_text(text, encoding="utf-8")
+            with self.assertRaises(ProductionPlanError) as context:
+                self.plan_two_state(registry_path=changed)
+            self.assertIn("published baseline", str(context.exception))
 
     def test_concept_doi_mismatch_fails(self) -> None:
         family = _family_observation(self.manifest)

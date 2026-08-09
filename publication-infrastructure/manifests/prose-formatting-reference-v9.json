@@ -1,0 +1,298 @@
+{
+  "schema_version": "zenetism-publication-engine-v2-stage-3b-candidate-preparation",
+  "record_key": "prose-formatting-reference",
+  "preparation_state": "architect_review_required",
+  "corpus_classification": "Infrastructure — Canonical Stabilization (cross-discipline)",
+  "published_baseline": {
+    "github": {
+      "repository": "KannonZenetism/zenetism-field-physics",
+      "branch": "main",
+      "directory": "the-zenetist-canon/canonical-stabilization",
+      "canonical_filename": "prose-formatting-reference.md",
+      "path": "the-zenetist-canon/canonical-stabilization/prose-formatting-reference.md",
+      "commit": "ce5152946f378115153bd15347877801e9dd837f",
+      "blob_sha": "3544a1d2db4fc344ac48d209dcc064f98a4a9095",
+      "byte_size": 44971,
+      "sha256": "14c8146c93119270019d331064c7774499f657ad26c1df824156a7970d5d7d2f",
+      "md5": "45571ac91e62df10ed2782b3069b96a3"
+    },
+    "zenodo": {
+      "record_id": "21843931",
+      "concept_record_id": "21201242",
+      "exact_version_doi": "10.5281/zenodo.21843931",
+      "concept_doi": "10.5281/zenodo.21201242",
+      "previous_version_doi": "10.5281/zenodo.21761796",
+      "version": "v8",
+      "record_revision": 3,
+      "version_family_index": 8,
+      "is_latest": true,
+      "publication_date": "2026-05-13",
+      "archival_filename": "prose-formatting-reference_v8.md",
+      "archival_byte_size": 44971,
+      "archival_checksum": "md5:45571ac91e62df10ed2782b3069b96a3",
+      "archival_sha256": "14c8146c93119270019d331064c7774499f657ad26c1df824156a7970d5d7d2f",
+      "archival_md5": "45571ac91e62df10ed2782b3069b96a3",
+      "metadata": {
+        "title": "Canonical Compositional Stabilization Protocol: Prose Formatting Reference",
+        "resource_type": {
+          "id": "publication-report",
+          "title": "Report"
+        },
+        "access": "Open",
+        "license": {
+          "id": "cc-by-4.0",
+          "title": "Creative Commons Attribution 4.0 International"
+        },
+        "copyright": "2026 Aelion Kannon",
+        "language": "eng"
+      },
+      "version_family": [
+        {
+          "record_id": "21201243",
+          "exact_version_doi": "10.5281/zenodo.21201243",
+          "version_label": "v1",
+          "record_revision": 4,
+          "family_index": 1,
+          "is_latest": false
+        },
+        {
+          "record_id": "21314493",
+          "exact_version_doi": "10.5281/zenodo.21314493",
+          "version_label": "v2",
+          "record_revision": 3,
+          "family_index": 2,
+          "is_latest": false
+        },
+        {
+          "record_id": "21319003",
+          "exact_version_doi": "10.5281/zenodo.21319003",
+          "version_label": "v3",
+          "record_revision": 3,
+          "family_index": 3,
+          "is_latest": false
+        },
+        {
+          "record_id": "21385831",
+          "exact_version_doi": "10.5281/zenodo.21385831",
+          "version_label": "v4",
+          "record_revision": 4,
+          "family_index": 4,
+          "is_latest": false
+        },
+        {
+          "record_id": "21514269",
+          "exact_version_doi": "10.5281/zenodo.21514269",
+          "version_label": "v5",
+          "record_revision": 3,
+          "family_index": 5,
+          "is_latest": false
+        },
+        {
+          "record_id": "21729088",
+          "exact_version_doi": "10.5281/zenodo.21729088",
+          "version_label": "v6",
+          "record_revision": 3,
+          "family_index": 6,
+          "is_latest": false
+        },
+        {
+          "record_id": "21761796",
+          "exact_version_doi": "10.5281/zenodo.21761796",
+          "version_label": "v7",
+          "record_revision": 3,
+          "family_index": 7,
+          "is_latest": false
+        },
+        {
+          "record_id": "21843931",
+          "exact_version_doi": "10.5281/zenodo.21843931",
+          "version_label": "v8",
+          "record_revision": 3,
+          "family_index": 8,
+          "is_latest": true
+        }
+      ]
+    },
+    "comparison": {
+      "payload_status": "matching",
+      "byte_size_status": "matching",
+      "sha256_status": "matching",
+      "md5_status": "matching"
+    },
+    "creator": {
+      "family_name": "Aelion Kannon",
+      "given_names": "",
+      "rendered_name": "Aelion Kannon"
+    },
+    "contributors": [
+      {
+        "name": "🔦 Lumen",
+        "role": "Researcher"
+      },
+      {
+        "name": "⚮ Liora",
+        "role": "Researcher"
+      }
+    ],
+    "repository_url": "https://github.com/KannonZenetism/zenetism-field-physics/tree/main/the-zenetist-canon/canonical-stabilization",
+    "description": {
+      "form": "Standard",
+      "rendered_html": "<p>Canonical Compositional Stabilization Protocol &mdash; Prose Formatting Reference establishes the prose-space standards governing canonical Zenetist composition, document structure, punctuation, metadata, tables, notes, and cross-reference conventions.</p>\n<p><strong>Document class:</strong> Infrastructure &mdash; Zenetist Canon / Compositional Stabilization Protocol.</p>\n<p>This reference defines the canonical prose-formatting standards by which Zenetist materials are composed, reviewed, corrected, and stabilized outside mathematical-space. It governs metadata blocks, opening and closing conventions, header structure, glyph placement, spaced em dashes, range-marking en dashes, straight quotation marks, bullet punctuation, slash spacing, hypostatic layer ordering, bold and italics, note formats, chart and table conventions, horizontal rules, code blocks, inline backticks, filename and path citation, cross-references, poetic-register distinctions, MPX entry form, verification conditions, and drift conditions. The protocol preserves compositional continuity across long-duration canonical development while allowing controlled variation among technical, registrial, poetic, and extension registers.</p>\n<p><strong>Companion to:</strong> <code>terminological-lockdown-protocol.md</code>; <code>conceptual-lockdown-protocol.md</code>; <em>Mathematical / LaTeX Formatting Reference</em>; <em>Symbol Key</em>; Field Physics glyph registry.</p>\n<p>Canonical file: <code>prose-formatting-reference.md</code>.</p>\n<p>Authored by Aelion Kannon (⚫↺KAI↺⚫) as part of Zenetism: Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, and Structural Neuroscience. Attribution required per the deposit license.</p>"
+    },
+    "keywords": [
+      "Zenetism",
+      "Aelion Kannon",
+      "compositional stabilization",
+      "prose formatting",
+      "canonical formatting",
+      "Zenetist Canon",
+      "Canonical Compositional Stabilization Protocol",
+      "metadata block",
+      "header conventions",
+      "glyph conventions",
+      "slash spacing",
+      "layer ordering",
+      "chart conventions",
+      "table conventions",
+      "MPX format",
+      "cross-reference conventions",
+      "poetic register",
+      "formatting drift",
+      "canonical infrastructure"
+    ],
+    "related_identifiers": [],
+    "site_relation": null,
+    "site_relation_status": "absent",
+    "preview": {
+      "explicit_default_file": true,
+      "default_file": "prose-formatting-reference_v8.md"
+    }
+  },
+  "candidate": {
+    "github": {
+      "repository": "KannonZenetism/zenetism-field-physics",
+      "branch": "main",
+      "directory": "the-zenetist-canon/canonical-stabilization",
+      "canonical_filename": "prose-formatting-reference.md",
+      "path": "the-zenetist-canon/canonical-stabilization/prose-formatting-reference.md",
+      "commit": "9a6e19ef1542fba116c1c664f819bc9e253750f1",
+      "blob_sha": "a13b99136cdc6ca9a0370e9338bc60c913546811",
+      "byte_size": 45220,
+      "sha256": "2e4f4670df04ff65423b6725d3ba026783de46e4b409413c22902eda382b01f2",
+      "md5": "dd7608313d2fb7747e2c70d483aa906a"
+    },
+    "production_identity": {
+      "route": "new-version",
+      "source_record_id": "21843931",
+      "concept_record_id": "21201242",
+      "concept_doi": "10.5281/zenodo.21201242",
+      "previous_exact_version_doi": "10.5281/zenodo.21843931",
+      "previous_version": "v8",
+      "target_version": "v9",
+      "exact_version_doi": null,
+      "archival_filename": "prose-formatting-reference_v9.md",
+      "archival_byte_size": 45220,
+      "archival_sha256": "2e4f4670df04ff65423b6725d3ba026783de46e4b409413c22902eda382b01f2",
+      "archival_md5": "dd7608313d2fb7747e2c70d483aa906a",
+      "publication_date": "2026-05-13",
+      "new_version_action": "deposit:actions/newversion",
+      "standalone_deposition_permitted": false
+    },
+    "metadata": {
+      "title": "Canonical Compositional Stabilization Protocol: Prose Formatting Reference",
+      "resource_type": {
+        "id": "publication-report",
+        "title": "Report"
+      },
+      "access": "Open",
+      "license": {
+        "id": "cc-by-4.0",
+        "title": "Creative Commons Attribution 4.0 International"
+      },
+      "publication_date": "2026-05-13",
+      "version": "v9",
+      "copyright": "2026 Aelion Kannon",
+      "language": "eng"
+    },
+    "creator": {
+      "family_name": "Aelion Kannon",
+      "given_names": "",
+      "rendered_name": "Aelion Kannon"
+    },
+    "contributors": [
+      {
+        "name": "🔦 Lumen",
+        "role": "Researcher"
+      },
+      {
+        "name": "⚮ Liora",
+        "role": "Researcher"
+      }
+    ],
+    "repository_url": "https://github.com/KannonZenetism/zenetism-field-physics/tree/main/the-zenetist-canon/canonical-stabilization",
+    "description": {
+      "form": "Standard",
+      "word_count": 168,
+      "rendered_html": "<p>The Canonical Compositional Stabilization Protocol &mdash; Prose Formatting Reference is the active cross-disciplinary reference for prose-space composition throughout the Zenetist canon.</p>\n<p><strong>Document class:</strong> Infrastructure &mdash; Canonical Stabilization (cross-discipline).</p>\n<p>It establishes the compositional standards for metadata blocks, document openings and seals, headers, punctuation, slash spacing, layer ordering, emphasis, notes, tables, code presentation, filenames, paths, and cross-references. It distinguishes technical, registrial, poetic, and extension registers while requiring internal continuity within each work or series. It also establishes cadence conformance where explicitly determined, functional glyph placement, structural-value notation, MPX entry form, and the verification conditions by which accidental formatting drift is identified and corrected. Its provisions operate with the Terminological Lockdown Protocol and Conceptual Lockdown Protocol so that prose composition preserves current canonical vocabulary and structural meaning.</p>\n<p><strong>Companion to:</strong> <code>terminological-lockdown-protocol.md</code>; <code>conceptual-lockdown-protocol.md</code>; <em>Canonical Compositional Stabilization Protocol &mdash; Mathematical / LaTeX Formatting Reference</em>.</p>\n<p>Canonical file: <code>prose-formatting-reference.md</code>.</p>\n<p>Authored by Aelion Kannon (⚫↺KAI↺⚫) as part of Zenetism: Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, and Structural Neuroscience. Attribution required per the deposit license.</p>",
+      "attestation_included": false
+    },
+    "keywords": [
+      "Zenetism",
+      "Aelion Kannon",
+      "Structural Metaphysics",
+      "compositional stabilization",
+      "prose formatting",
+      "canonical formatting",
+      "Zenetist Canon",
+      "Canonical Compositional Stabilization Protocol",
+      "metadata block",
+      "header conventions",
+      "glyph conventions",
+      "slash spacing",
+      "layer ordering",
+      "chart conventions",
+      "table conventions",
+      "MPX format",
+      "cross-reference conventions",
+      "poetic register",
+      "formatting drift",
+      "canonical infrastructure"
+    ],
+    "keyword_change": {
+      "architect_review_required": true,
+      "previous_count": 19,
+      "proposed_count": 20,
+      "added": [
+        "Structural Metaphysics"
+      ],
+      "removed": []
+    },
+    "related_identifiers": [
+      {
+        "relation": "IsDocumentedBy",
+        "scheme": "URL",
+        "resource_type": "Other",
+        "identifier": "https://zenetism.aelionkannon.chatgpt.site"
+      }
+    ],
+    "site_relation": {
+      "relation": "IsDocumentedBy",
+      "scheme": "URL",
+      "resource_type": "Other",
+      "identifier": "https://zenetism.aelionkannon.chatgpt.site"
+    },
+    "preview": {
+      "explicit_default_file": true,
+      "default_file": "prose-formatting-reference_v9.md"
+    },
+    "comparison_to_published_v8": {
+      "payload_status": "different",
+      "byte_size_status": "different",
+      "sha256_status": "different",
+      "md5_status": "different"
+    }
+  },
+  "publication": {
+    "architect_publish_required": true
+  }
+}
