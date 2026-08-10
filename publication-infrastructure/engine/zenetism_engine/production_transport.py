@@ -1129,10 +1129,6 @@ def _normalized_draft_files(
     *,
     expected_draft_id: str,
 ) -> dict[str, Any]:
-    if root_files is not None and not isinstance(root_files, dict):
-        raise ProductionSafetyError(
-            "production root draft files field must be an object when present"
-        )
     if not isinstance(dedicated_files, dict):
         raise ProductionSafetyError(
             "production dedicated draft-files response must be an object"
@@ -1146,7 +1142,7 @@ def _normalized_draft_files(
             "production dedicated draft-files response requires explicit entries"
         )
     entries = _normalized_file_entries(dedicated_files["entries"])
-    root = root_files if isinstance(root_files, dict) else {}
+    root = _recognized_root_file_collection(root_files)
     if "entries" in root:
         root_entries = _normalized_file_entries(root["entries"])
         _require_root_file_entries_agree(root_entries, entries)
@@ -1199,6 +1195,14 @@ def _normalized_draft_files(
     }
 
 
+def _recognized_root_file_collection(value: object) -> dict[str, Any]:
+    """Return only a complete root collection admitted as additional evidence."""
+    required_fields = {"enabled", "entries", "default_preview", "order"}
+    if not isinstance(value, dict) or not required_fields.issubset(value):
+        return {}
+    return value
+
+
 def _normalized_file_entries(value: object) -> dict[str, dict[str, Any]]:
     observed: list[tuple[str, dict[str, Any]]] = []
     if isinstance(value, list):
@@ -1249,13 +1253,13 @@ def _require_root_file_entries_agree(
     root_entries: dict[str, dict[str, Any]],
     dedicated_entries: dict[str, dict[str, Any]],
 ) -> None:
+    if set(root_entries) != set(dedicated_entries):
+        raise ProductionSafetyError(
+            "production root and dedicated draft-file entry sets differ"
+        )
     identity_fields = {"key", "checksum", "size", "status"}
     for key, root_entry in root_entries.items():
-        dedicated_entry = dedicated_entries.get(key)
-        if dedicated_entry is None:
-            raise ProductionSafetyError(
-                "production root draft identifies a file absent from dedicated read-back"
-            )
+        dedicated_entry = dedicated_entries[key]
         for field in identity_fields.intersection(root_entry):
             if root_entry[field] != dedicated_entry.get(field):
                 raise ProductionSafetyError(
