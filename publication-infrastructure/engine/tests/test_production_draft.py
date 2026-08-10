@@ -433,9 +433,9 @@ class ProductionDraftSafetyTests(unittest.TestCase):
         self.assertFalse(plan.as_dict()["final_release_action_available"])
 
     def test_two_state_candidate_description_takes_approved_standard_form(self) -> None:
-        description = self.two_state_manifest["candidate"]["description"][
-            "rendered_html"
-        ]
+        package = self.two_state_manifest["candidate"]["description"]
+        description = package["rendered_html"]
+        self.assertEqual(package["word_count"], 160)
         self.assertIn(
             "It also establishes cadence conformance where explicitly determined",
             description,
@@ -443,6 +443,15 @@ class ProductionDraftSafetyTests(unittest.TestCase):
         self.assertNotIn("It also governs cadence conformance", description)
         self.assertIn("<strong>Document class:</strong>", description)
         self.assertIn("<strong>Companion to:</strong>", description)
+        self.assertIn(
+            "<code>canonical-compositional-stabilization-protocol.md</code>",
+            description,
+        )
+        self.assertNotIn(
+            "<em>Canonical Compositional Stabilization Protocol &mdash; "
+            "Mathematical / LaTeX Formatting Reference</em>",
+            description,
+        )
         self.assertIn(
             "Canonical file: <code>prose-formatting-reference.md</code>.",
             description,
