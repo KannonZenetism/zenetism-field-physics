@@ -20,7 +20,10 @@ from zenetism_engine.production_boundary import (
     PRODUCTION_TOKEN_ENV,
     RuntimeProductionCredentials,
 )
-from zenetism_engine.production_draft import ProductionDraftPlanner
+from zenetism_engine.production_draft import (
+    ProductionDraftPlanner,
+    ProductionDraftRecovery,
+)
 from zenetism_engine.production_transport import (
     ProductionDraftExecutor,
     UrllibProductionDraftTransport,
@@ -251,6 +254,26 @@ class ProductionTransportTests(unittest.TestCase):
             "links": {"latest_draft": latest_draft},
         }
 
+    def _recovery(self, *, draft_id: str = DRAFT_ID) -> ProductionDraftRecovery:
+        concept_record_id = self.plan.family.concept_doi.rsplit(".", 1)[-1]
+        return ProductionDraftRecovery(
+            draft_id=draft_id,
+            record_id=None,
+            edit_url=f"https://zenodo.org/uploads/{draft_id}",
+            preview_url=f"https://zenodo.org/records/{draft_id}?preview=1",
+            creation_result={
+                "id": int(draft_id),
+                "conceptrecid": concept_record_id,
+                "created": "2026-08-10T08:27:58.542028+00:00",
+                "modified": "2026-08-10T08:27:58.729012+00:00",
+                "state": "unsubmitted",
+                "submitted": False,
+                "latest_draft": (
+                    f"https://zenodo.org/api/deposit/depositions/{draft_id}"
+                ),
+            },
+        )
+
     def _legacy_draft(
         self, *, concept_doi: str | None = None, version: str = "v2"
     ) -> dict[str, object]:
@@ -266,28 +289,26 @@ class ProductionTransportTests(unittest.TestCase):
             "is_published": False,
         }
 
-    def _initial_draft(self, *, file_state: str = "inherited") -> dict[str, object]:
+    def _initial_draft(
+        self,
+        *,
+        file_state: str = "inherited",
+        include_root_files: bool = True,
+    ) -> dict[str, object]:
         value = self._legacy_draft()
         value["parent"] = {
             "pids": {"doi": {"identifier": self.plan.family.concept_doi}}
         }
-        entries: dict[str, object] = {}
-        if file_state == "inherited":
-            filename = self.plan.registry_identity["zenodo_archival_filename"]
-            entries[filename] = {
-                "key": filename,
-                "checksum": self.plan.registry_identity["zenodo_checksum"],
-                "size": self.plan.archival_copy.checksums.byte_size,
+        if include_root_files:
+            collection = self._draft_files_collection(file_state=file_state)
+            entries = collection["entries"]
+            assert isinstance(entries, list)
+            collection["entries"] = {
+                str(item["key"]): copy.deepcopy(item)
+                for item in entries
+                if isinstance(item, dict)
             }
-        elif file_state == "approved":
-            filename = self.plan.archival_copy.archival_filename
-            entries[filename] = self._approved_file_entry()
-        elif file_state == "ambiguous":
-            entries = {
-                "unexpected-a.md": {"key": "unexpected-a.md"},
-                "unexpected-b.md": {"key": "unexpected-b.md"},
-            }
-        value["files"] = {"enabled": True, "entries": entries}
+            value["files"] = collection
         return value
 
     def _approved_file_entry(self) -> dict[str, object]:
@@ -295,6 +316,60 @@ class ProductionTransportTests(unittest.TestCase):
             "key": self.plan.archival_copy.archival_filename,
             "checksum": f"md5:{self.plan.archival_copy.checksums.md5}",
             "size": self.plan.archival_copy.checksums.byte_size,
+            "status": "completed",
+        }
+
+    def _draft_files_collection(
+        self,
+        *,
+        file_state: str,
+        final_configuration: bool = False,
+        draft_id: str = DRAFT_ID,
+    ) -> dict[str, object]:
+        entries: list[dict[str, object]] = []
+        default_preview: str | None = None
+        order: list[str] = []
+        if file_state == "inherited":
+            filename = self.plan.registry_identity["zenodo_archival_filename"]
+            entries.append(
+                {
+                    "key": filename,
+                    "checksum": self.plan.registry_identity["zenodo_checksum"],
+                    "size": self.plan.archival_copy.checksums.byte_size,
+                    "status": "completed",
+                }
+            )
+            default_preview = filename
+            order = [filename]
+        elif file_state == "approved":
+            entries.append(self._approved_file_entry())
+            if final_configuration:
+                default_preview = self.plan.archival_copy.archival_filename
+                order = [self.plan.archival_copy.archival_filename]
+        elif file_state == "ambiguous":
+            entries = [
+                {
+                    "key": "unexpected-a.md",
+                    "checksum": "md5:" + "a" * 32,
+                    "size": 1,
+                    "status": "completed",
+                },
+                {
+                    "key": "unexpected-b.md",
+                    "checksum": "md5:" + "b" * 32,
+                    "size": 1,
+                    "status": "completed",
+                },
+            ]
+        return {
+            "id": draft_id,
+            "enabled": True,
+            "entries": entries,
+            "default_preview": default_preview,
+            "order": order,
+            "links": {
+                "self": f"https://zenodo.org/api/records/{draft_id}/draft/files"
+            },
         }
 
     def _final_draft(self, *, include_copyright: bool = True) -> dict[str, object]:
@@ -328,8 +403,10 @@ class ProductionTransportTests(unittest.TestCase):
         *,
         existing_draft: bool = False,
         initial_file_state: str = "inherited",
+        include_root_files: bool = True,
         legacy_initial: dict[str, object] | None = None,
         final_draft: dict[str, object] | None = None,
+        initial_dedicated_files: dict[str, object] | None = None,
     ) -> dict[tuple[str, str], list[object]]:
         base = "https://zenodo.org/api"
         latest_url = f"{base}/deposit/depositions/{DRAFT_ID}"
@@ -349,8 +426,28 @@ class ProductionTransportTests(unittest.TestCase):
                 self._legacy_draft(version="v3"),
             ],
             ("GET", f"{base}/records/{DRAFT_ID}/draft"): [
-                self._initial_draft(file_state=initial_file_state),
+                self._initial_draft(
+                    file_state=initial_file_state,
+                    include_root_files=include_root_files,
+                ),
                 final_draft or self._final_draft(),
+            ],
+            ("GET", f"{base}/records/{DRAFT_ID}/draft/files"): [
+                initial_dedicated_files
+                or self._draft_files_collection(file_state=initial_file_state),
+                *(
+                    [
+                        self._draft_files_collection(
+                            file_state="approved",
+                        )
+                    ]
+                    if initial_file_state in {"inherited", "empty"}
+                    else []
+                ),
+                self._draft_files_collection(
+                    file_state="approved",
+                    final_configuration=True,
+                ),
             ],
             ("PUT", f"{base}/records/{DRAFT_ID}/draft"): [{}],
         }
@@ -422,6 +519,214 @@ class ProductionTransportTests(unittest.TestCase):
             )
         )
         self.assertEqual(upload["body"], self.plan.archival_copy.payload)
+
+    def test_root_draft_can_omit_files_when_dedicated_readback_is_complete(self) -> None:
+        result, opener, _ = self._execute(
+            self._routes(
+                initial_file_state="empty",
+                include_root_files=False,
+            )
+        )
+        self.assertTrue(result.validation["complete"])
+        files_url = f"https://zenodo.org/api/records/{DRAFT_ID}/draft/files"
+        self.assertEqual(
+            sum(item["method"] == "GET" and item["url"] == files_url for item in opener.requests),
+            3,
+        )
+
+    def test_explicit_empty_dedicated_file_collection_is_valid_initial_state(self) -> None:
+        empty = self._draft_files_collection(file_state="empty")
+        result, _, _ = self._execute(
+            self._routes(
+                initial_file_state="empty",
+                include_root_files=False,
+                initial_dedicated_files=empty,
+            )
+        )
+        self.assertTrue(result.validation["complete"])
+
+    def test_missing_dedicated_file_entries_fail_before_draft_mutation(self) -> None:
+        missing = self._draft_files_collection(file_state="empty")
+        del missing["entries"]
+        routes = self._routes(
+            initial_file_state="empty",
+            include_root_files=False,
+            initial_dedicated_files=missing,
+        )
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            with self.assertRaises(ProductionSafetyError):
+                ProductionDraftExecutor(
+                    UrllibProductionDraftTransport(
+                        RuntimeProductionCredentials("stage3b-local-simulation-value")
+                    )
+                ).prepare(self.plan)
+        draft_mutations = [
+            item
+            for item in opener.requests
+            if item["method"] in {"PUT", "DELETE"}
+            or (
+                item["method"] == "POST"
+                and "/actions/newversion" not in str(item["url"])
+            )
+        ]
+        self.assertEqual(draft_mutations, [])
+
+    def test_disabled_dedicated_file_state_fails_before_upload(self) -> None:
+        disabled = self._draft_files_collection(file_state="empty")
+        disabled["enabled"] = False
+        routes = self._routes(
+            initial_file_state="empty",
+            include_root_files=False,
+            initial_dedicated_files=disabled,
+        )
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            with self.assertRaises(ProductionSafetyError):
+                ProductionDraftExecutor(
+                    UrllibProductionDraftTransport(
+                        RuntimeProductionCredentials("stage3b-local-simulation-value")
+                    )
+                ).prepare(self.plan)
+        self.assertFalse(
+            any(
+                "/draft/files" in str(item["url"])
+                and item["method"] in {"POST", "PUT", "DELETE"}
+                for item in opener.requests
+            )
+        )
+
+    def test_dedicated_file_readback_draft_identity_mismatch_fails(self) -> None:
+        wrong = self._draft_files_collection(
+            file_state="empty",
+            draft_id="99999999",
+        )
+        routes = self._routes(
+            initial_file_state="empty",
+            include_root_files=False,
+            initial_dedicated_files=wrong,
+        )
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            with self.assertRaises(ProductionSafetyError):
+                ProductionDraftExecutor(
+                    UrllibProductionDraftTransport(
+                        RuntimeProductionCredentials("stage3b-local-simulation-value")
+                    )
+                ).prepare(self.plan)
+        self.assertFalse(
+            any(
+                "/draft/files" in str(item["url"])
+                and item["method"] != "GET"
+                for item in opener.requests
+            )
+        )
+
+    def test_uploaded_file_is_reloaded_before_metadata_save(self) -> None:
+        result, opener, _ = self._execute(
+            self._routes(
+                initial_file_state="empty",
+                include_root_files=False,
+            )
+        )
+        self.assertTrue(result.validation["complete"])
+        files_url = f"https://zenodo.org/api/records/{DRAFT_ID}/draft/files"
+        metadata_url = f"https://zenodo.org/api/records/{DRAFT_ID}/draft"
+        completed_index = next(
+            index
+            for index, item in enumerate(opener.requests)
+            if item["method"] == "POST"
+            and str(item["url"]).endswith(
+                f"/{self.plan.archival_copy.archival_filename}/commit"
+            )
+        )
+        reload_index = next(
+            index
+            for index, item in enumerate(opener.requests)
+            if index > completed_index
+            and item["method"] == "GET"
+            and item["url"] == files_url
+        )
+        metadata_index = next(
+            index
+            for index, item in enumerate(opener.requests)
+            if item["method"] == "PUT" and item["url"] == metadata_url
+        )
+        self.assertLess(completed_index, reload_index)
+        self.assertLess(reload_index, metadata_index)
+
+    def test_preserved_recovery_resumes_without_current_or_newversion_request(self) -> None:
+        routes = self._routes(
+            initial_file_state="empty",
+            include_root_files=False,
+        )
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            result = ProductionDraftExecutor(
+                UrllibProductionDraftTransport(
+                    RuntimeProductionCredentials("stage3b-local-simulation-value")
+                )
+            ).resume(self.plan, self._recovery())
+        self.assertFalse(result.new_version_created)
+        self.assertEqual(result.recovery.draft_id, DRAFT_ID)
+        self.assertFalse(
+            any(
+                "/actions/newversion" in str(item["url"])
+                or item["url"]
+                == f"https://zenodo.org/api/deposit/depositions/{SOURCE_ID}"
+                for item in opener.requests
+            )
+        )
+
+    def test_recovery_creation_draft_id_mismatch_fails_before_draft_read(self) -> None:
+        recovery = self._recovery()
+        creation = copy.deepcopy(recovery.creation_result)
+        creation["id"] = 99999999
+        conflicting = ProductionDraftRecovery(
+            draft_id=recovery.draft_id,
+            record_id=recovery.record_id,
+            edit_url=recovery.edit_url,
+            preview_url=recovery.preview_url,
+            creation_result=creation,
+        )
+        routes = self._routes()
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            with self.assertRaises(ProductionSafetyError):
+                ProductionDraftExecutor(
+                    UrllibProductionDraftTransport(
+                        RuntimeProductionCredentials("stage3b-local-simulation-value")
+                    )
+                ).resume(self.plan, conflicting)
+        self.assertTrue(
+            all("/deposit/depositions/" not in str(item["url"]) for item in opener.requests)
+        )
+
+    def test_recovery_wrong_family_readback_fails_without_draft_mutation(self) -> None:
+        wrong = self._legacy_draft(concept_doi="10.5281/zenodo.99999999")
+        routes = self._routes(
+            initial_file_state="empty",
+            include_root_files=False,
+            legacy_initial=wrong,
+        )
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            with self.assertRaises(ProductionSafetyError):
+                ProductionDraftExecutor(
+                    UrllibProductionDraftTransport(
+                        RuntimeProductionCredentials("stage3b-local-simulation-value")
+                    )
+                ).resume(self.plan, self._recovery())
+        self.assertFalse(
+            any(
+                item["method"] in {"PUT", "DELETE"}
+                or (
+                    item["method"] == "POST"
+                    and "/actions/newversion" not in str(item["url"])
+                )
+                for item in opener.requests
+            )
+        )
 
     def test_existing_exact_family_draft_is_resumed_without_second_creation(self) -> None:
         result, opener, _ = self._execute(self._routes(existing_draft=True))
@@ -700,7 +1005,11 @@ class ProductionTransportTests(unittest.TestCase):
             with self.assertRaises(ProductionSafetyError):
                 executor.prepare(self.plan)
             with self.assertRaises(ProductionSafetyError):
+                executor.resume(self.plan, self._recovery())
+            with self.assertRaises(ProductionSafetyError):
                 transport.open_new_version_draft(self.plan)
+            with self.assertRaises(ProductionSafetyError):
+                transport.resume_recovered_draft(self.plan, self._recovery())
 
     def test_transport_cannot_initiate_before_its_family_readback_passes(self) -> None:
         routes = self._routes()
@@ -739,6 +1048,31 @@ class ProductionTransportTests(unittest.TestCase):
             any("/actions/newversion" in str(item["url"]) for item in opener.requests)
         )
 
+    def test_dedicated_files_request_cannot_select_another_draft_or_path(self) -> None:
+        routes = self._routes()
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            transport = UrllibProductionDraftTransport(
+                RuntimeProductionCredentials("stage3b-local-simulation-value")
+            )
+            transport.read_family(self.plan)
+            transport.open_new_version_draft(self.plan)
+            for path in (
+                "/api/records/99999999/draft/files",
+                f"/api/records/{DRAFT_ID}/files",
+                f"https://example.invalid/api/records/{DRAFT_ID}/draft/files",
+            ):
+                with self.subTest(path=path):
+                    with self.assertRaises(ProductionSafetyError):
+                        request = production_transport_module._BoundProductionRequest(
+                            production_transport_module._RequestKind.READ_DRAFT_FILES,
+                            "GET",
+                            path,
+                        )
+                        transport._send(request)
+        self.assertEqual(opener.requests[-1]["method"], "POST")
+        self.assertIn("/actions/newversion", str(opener.requests[-1]["url"]))
+
     def test_transport_cannot_write_before_bound_draft_readback_passes(self) -> None:
         routes = self._routes()
         opener = _ScriptedOpener(routes)
@@ -772,6 +1106,8 @@ class ProductionTransportTests(unittest.TestCase):
                 "open_new_version_draft",
                 "reload_bound_legacy_draft",
                 "reload_bound_draft",
+                "reload_bound_draft_files",
+                "resume_recovered_draft",
                 "delete_inherited_archival_file",
                 "upload_approved_archival_file",
                 "save_approved_metadata",
@@ -898,8 +1234,11 @@ class TwoStateProductionTransportTests(unittest.TestCase):
                         "key": filename,
                         "checksum": self.plan.registry_identity["zenodo_checksum"],
                         "size": size,
+                        "status": "completed",
                     }
                 },
+                "default_preview": filename,
+                "order": [filename],
             }
         }
 
@@ -920,6 +1259,125 @@ class TwoStateProductionTransportTests(unittest.TestCase):
                 self.plan,
                 self._inherited_draft(size=45220),
             )
+
+    def test_production_draft_21869733_recovery_resumes_without_newversion(self) -> None:
+        draft_id = "21869733"
+        concept_doi = self.plan.family.concept_doi
+        concept_record_id = concept_doi.rsplit(".", 1)[-1]
+        family = _two_state_family_observation(self.manifest)
+
+        def draft(version: str) -> dict[str, object]:
+            return {
+                "id": draft_id,
+                "recid": draft_id,
+                "conceptdoi": concept_doi,
+                "parent": {"pids": {"doi": {"identifier": concept_doi}}},
+                "metadata": {"conceptdoi": concept_doi, "version": version},
+                "submitted": False,
+                "state": "unsubmitted",
+                "status": "draft",
+                "is_published": False,
+            }
+
+        initial = draft("v8")
+        final = copy.deepcopy(self.plan.metadata_payload)
+        exact_doi = f"10.5281/zenodo.{draft_id}"
+        final.update(
+            {
+                "id": draft_id,
+                "recid": draft_id,
+                "doi": exact_doi,
+                "pids": {"doi": {"identifier": exact_doi}},
+                "parent": {"pids": {"doi": {"identifier": concept_doi}}},
+                "submitted": False,
+                "state": "unsubmitted",
+                "status": "draft",
+                "is_published": False,
+            }
+        )
+        filename = self.plan.archival_copy.archival_filename
+        approved_entry = {
+            "key": filename,
+            "checksum": f"md5:{self.plan.archival_copy.checksums.md5}",
+            "size": self.plan.archival_copy.checksums.byte_size,
+            "status": "completed",
+        }
+
+        def file_collection(
+            entries: list[dict[str, object]],
+            *,
+            final_configuration: bool,
+        ) -> dict[str, object]:
+            return {
+                "id": draft_id,
+                "enabled": True,
+                "entries": entries,
+                "default_preview": filename if final_configuration else None,
+                "order": [filename] if final_configuration else [],
+                "links": {
+                    "self": (
+                        f"https://zenodo.org/api/records/{draft_id}/draft/files"
+                    )
+                },
+            }
+
+        base = "https://zenodo.org/api"
+        routes = {
+            ("GET", f"{base}/records/{self.plan.source_record_id}"): [
+                copy.deepcopy(family["latest"])
+            ],
+            ("GET", f"{base}/records/{self.plan.source_record_id}/versions"): [
+                {"hits": {"hits": copy.deepcopy(family["members"])}}
+            ],
+            ("GET", f"{base}/deposit/depositions/{draft_id}"): [
+                draft("v8"),
+                draft("v9"),
+            ],
+            ("GET", f"{base}/records/{draft_id}/draft"): [initial, final],
+            ("GET", f"{base}/records/{draft_id}/draft/files"): [
+                file_collection([], final_configuration=False),
+                file_collection([approved_entry], final_configuration=False),
+                file_collection([approved_entry], final_configuration=True),
+            ],
+            ("POST", f"{base}/records/{draft_id}/draft/files"): [{}],
+            ("PUT", f"{base}/records/{draft_id}/draft/files/{filename}/content"): [
+                {}
+            ],
+            ("POST", f"{base}/records/{draft_id}/draft/files/{filename}/commit"): [
+                {}
+            ],
+            ("PUT", f"{base}/records/{draft_id}/draft"): [{}],
+        }
+        recovery = ProductionDraftRecovery(
+            draft_id=draft_id,
+            record_id=None,
+            edit_url=f"https://zenodo.org/uploads/{draft_id}",
+            preview_url=f"https://zenodo.org/records/{draft_id}?preview=1",
+            creation_result={
+                "id": int(draft_id),
+                "conceptrecid": concept_record_id,
+                "created": "2026-08-10T08:27:58.542028+00:00",
+                "modified": "2026-08-10T08:27:58.729012+00:00",
+                "state": "unsubmitted",
+                "submitted": False,
+                "latest_draft": (
+                    f"{base}/deposit/depositions/{draft_id}"
+                ),
+            },
+        )
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            result = ProductionDraftExecutor(
+                UrllibProductionDraftTransport(
+                    RuntimeProductionCredentials("stage3b-local-simulation-value")
+                )
+            ).resume(self.plan, recovery)
+        self.assertEqual(result.recovery.draft_id, draft_id)
+        self.assertFalse(result.new_version_created)
+        self.assertTrue(result.validation["complete"])
+        self.assertFalse(
+            any("/actions/newversion" in str(item["url"]) for item in opener.requests)
+        )
 
 
 if __name__ == "__main__":
