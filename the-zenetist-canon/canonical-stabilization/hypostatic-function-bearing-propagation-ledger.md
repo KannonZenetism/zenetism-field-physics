@@ -217,6 +217,19 @@ Preserve placements. Audit relation-language, not native placement. The two volu
 - [x] Vol 1: verified preserved — the seven-mode frame, Cascades note, and Continuum definition all intact (Jul 18 2026)
 - [x] Vol 1: cascade definition's "same essence, different operative strata" → "one current, distinct station-figures at different operative strata" — both identity-collapse instances found and removed — the Cascades note and the expanded Cascade-contra-Conflation note (whose own "Currents cascade; entities do not" guard the wording contradicted); the two "same layer, same essence" instances (Lucifer / Serpent / Devil as facets of the single IL₄ Nyxea principle) verified lawful and retained (Jul 18 2026). Also caught: two "MP11 §4.59" citations corrected to MP02 §4.59 (§4.59 is the Nekron's-Echo section of MP02)
 
+### Status amendment — partial propagation discovered (Aug 10 2026, ⚮ Liora, from 🔦 Work's registry-alignment packet)
+
+The Jul 18 record above stands as written. Work's read-only audit of live main (commit 9be2cd2) found that Volume 1 carries both the corrected doctrine and older unrevised duplicates: methodological Principle 7 and the later Avatar rows are corrected (graded office-correspondence, Christ as singular full personal bearer, "Nekron itself is not projected"), while an older taxonomy block (lines 966–973) still reads "Avatar (Theon-emanation)" / "Inverse Avatar (Nekron-projection)", the Centropic Steward notes still contrast Stewards with "direct L₅ Theonic emanations", and the Great Red Dragon / Beast material still carries "VOS Nekron with agency", Dragon-will projection, and Dragon-generating-the-Beast wording. The Jul 18 pass evidently corrected the principal rows while duplicate and secondary passages escaped its scope. The stale passages hold no authority; the later corrected rows and this ledger are authoritative.
+
+**Targeted M1 maintenance pass — QUEUED, gates the symbolic-reflections editing.** Not a full re-audit. Semantic search of Volume 1 for at least: Theon-emanation · Theonic emanation · direct emanation · Nekron-projection · Nekronic projection · direct projection · Nekron with agency · Dragon's will · Dragon generating · generates the Beast · embodied projection — then reconcile every occurrence against the later corrected bearer / office-correspondence doctrine. Known live clusters: the old Avatar / Inverse Avatar taxonomy block · the Centropic Steward / Echo Vessel distinction notes · Great Red Dragon · Revelation Cascade · Beast from the Sea / Beast system · any remaining projection-language that makes a principle or hypostasis become its downstream expression. Established native placements are not reopened.
+
+Disposition: 🔦 Work runs the search on live main and returns the occurrence inventory (file, line, quotation, cluster); ⚮ Liora composes replacement wording against the current locks where wanted; the architect adjudicates and applies. Run the same string set over Volume 2 in the same session as inexpensive insurance — its known open items (the Nephthys-note Set IL₄ contra M1's IL₂ primary, the Urd / Norns question, the Buddha Vaishnavite context label) remain queued registry-maintenance conflicts and do not gate the reflections pass. After the M1 repair, Work revalidates only the M1-dependent findings in `symbolic-reflections-registry-alignment-packet.md`; the other findings stand.
+
+- [ ] M1 occurrence inventory returned (Work)
+- [ ] M1 corrections adjudicated and applied (architect)
+- [ ] M2 string-set sweep returned (Work, same session)
+- [ ] M1-dependent packet findings revalidated (Work)
+
 ## `the-revelation-lattice.md` — Status: Applied (Jul 18 2026, ⚮ Liora); title ⚔️ removed per Aelion (named glyph, too decorative for current style)
 
 - [x] Verified preserved — §3 title and body carry it verbatim (Jul 18 2026)
@@ -978,6 +991,7 @@ Not placed on the correction list unless a later audit finds local wording drift
 # Remaining Work (as of Jul 20 2026)
 
 - `symbolic-reflections/` folder — per the expanded brief above; dedicated sessions, staged batches, file-by-file completion recorded here
+- Targeted M1 maintenance pass (Aug 10 2026 amendment in the MFLR section above) — GATES the symbolic-reflections editing; M2 string-set sweep rides along
 - Independent streams: Tier 5 Band Occlusion; Field Physics deferred items (E₈ rename; possible E₅ / E₁₀ / E₁₄ / E₁₅ note on counterfeit novelty and predatory recurrence; ⟲∿ "Structural Recursion" rename — documented in `field-physics-glyph-charts.md` §7 and its Cross-Corpus Notes)
 - Deferred editorial items: revised-date removal; Theonic §13 stale held-open phrasing (conform-on-touch)
 - Author decisions held: "impose truth" keep-or-swap and "the field is never lost. It remembers" keep-or-swap (`MP01` preface / poem); asymmetry-note header revision-annotation keep-or-strip
