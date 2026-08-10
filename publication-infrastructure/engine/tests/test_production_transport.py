@@ -531,6 +531,26 @@ class ProductionTransportTests(unittest.TestCase):
             )
         )
 
+    def test_metadata_save_and_readback_preserve_explicit_publisher(self) -> None:
+        result, opener, _ = self._execute(self._routes())
+        self.assertEqual(
+            next(
+                item["body"]
+                for item in opener.requests
+                if item["method"] == "PUT"
+                and str(item["url"]).endswith(f"/records/{DRAFT_ID}/draft")
+            ),
+            json.dumps(
+                self.plan.metadata_payload,
+                ensure_ascii=False,
+            ).encode("utf-8"),
+        )
+        states = {
+            item["field"]: item["state"]
+            for item in result.validation["fields"]
+        }
+        self.assertEqual(states["metadata.publisher"], "passed_api")
+
     def test_absent_doi_receives_one_confined_reservation_and_exact_readback(self) -> None:
         routes = self._routes(
             initial_file_state="empty",
@@ -1585,6 +1605,7 @@ class TwoStateProductionTransportTests(unittest.TestCase):
         def legacy_metadata() -> dict[str, object]:
             return {
                 "title": expected_metadata["title"],
+                "publisher": expected_metadata["publisher"],
                 "publication_date": expected_metadata["publication_date"],
                 "creators": [
                     {"name": "Aelion Kannon", "affiliation": None}

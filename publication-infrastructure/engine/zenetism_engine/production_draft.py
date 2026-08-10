@@ -710,6 +710,7 @@ def _validated_two_state_package(value: object) -> dict[str, Any]:
         candidate_metadata,
         {
             "title",
+            "publisher",
             "resource_type",
             "access",
             "license",
@@ -830,7 +831,7 @@ def _validated_two_state_package(value: object) -> dict[str, Any]:
     baseline_metadata = _required_object(
         baseline_zenodo, "metadata", "published baseline zenodo"
     )
-    _require_exact_fields(
+    _require_fields_with_optional(
         baseline_metadata,
         {
             "title",
@@ -840,12 +841,24 @@ def _validated_two_state_package(value: object) -> dict[str, Any]:
             "copyright",
             "language",
         },
+        {"publisher"},
         "published baseline metadata",
     )
     _validate_two_state_metadata_objects(
         baseline_metadata, "published baseline metadata"
     )
     _validate_two_state_metadata_objects(candidate_metadata, "candidate metadata")
+    baseline_publisher = baseline_metadata.get("publisher")
+    candidate_publisher = _required_text(
+        candidate_metadata, "publisher", "candidate metadata"
+    )
+    if (
+        baseline_publisher is not None
+        and baseline_publisher != candidate_publisher
+    ):
+        raise ProductionPlanError(
+            "candidate Publisher differs from the explicit published baseline"
+        )
     if (
         baseline.get("site_relation_status") != "absent"
         or baseline.get("site_relation") is not None
@@ -1174,6 +1187,8 @@ def _validate_two_state_metadata_objects(
     _require_exact_fields(license_value, {"id", "title"}, f"{label} license")
     for key in ("title", "access", "copyright", "language"):
         _required_text(metadata, key, label)
+    if label == "candidate metadata" or "publisher" in metadata:
+        _required_text(metadata, "publisher", label)
     if "publication_date" in metadata:
         _required_text(metadata, "publication_date", label)
     if "version" in metadata:
@@ -1993,6 +2008,19 @@ def _require_exact_fields(
     value: dict[str, Any], expected: set[str], label: str
 ) -> None:
     if set(value) != expected:
+        raise ProductionPlanError(
+            f"{label} contains missing or unsupported fields"
+        )
+
+
+def _require_fields_with_optional(
+    value: dict[str, Any],
+    required: set[str],
+    optional: set[str],
+    label: str,
+) -> None:
+    fields = set(value)
+    if not required.issubset(fields) or not fields.issubset(required | optional):
         raise ProductionPlanError(
             f"{label} contains missing or unsupported fields"
         )

@@ -34,6 +34,7 @@ class SandboxMetadataTests(unittest.TestCase):
         self.assertFalse(self.package.audit_summary()["existing_doi_supplied"])
         self.assertEqual(metadata["publication_date"], "2026-07-03")
         self.assertEqual(metadata["version"], "v2")
+        self.assertEqual(metadata["publisher"], "Zenodo")
         self.assertEqual(metadata["copyright"], "2026 Aelion Kannon")
         self.assertEqual(
             self.package.saved_payload["custom_fields"]["code:codeRepository"],
@@ -67,6 +68,22 @@ class SandboxMetadataTests(unittest.TestCase):
         self.assertEqual(
             [item["role"]["id"] for item in metadata["contributors"]],
             ["researcher", "researcher"],
+        )
+
+    def test_publisher_is_explicit_and_never_derived_from_creator(self) -> None:
+        missing = copy.deepcopy(self.manifest)
+        del missing["zenodo"]["metadata"]["publisher"]
+        self.assertEqual(missing["creator"]["rendered_name"], "Aelion Kannon")
+        with self.assertRaises(ManifestApprovalError):
+            serialize_sandbox_draft(missing, self.archival)
+
+    def test_explicit_external_publisher_is_preserved_without_normalization(self) -> None:
+        manifest = copy.deepcopy(self.manifest)
+        manifest["zenodo"]["metadata"]["publisher"] = "External Academic Press"
+        package = serialize_sandbox_draft(manifest, self.archival)
+        self.assertEqual(
+            package.saved_payload["metadata"]["publisher"],
+            "External Academic Press",
         )
 
     def test_short_standard_and_series_descriptions_are_not_rewritten(self) -> None:
