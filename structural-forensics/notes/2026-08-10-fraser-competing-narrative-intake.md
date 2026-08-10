@@ -3,10 +3,10 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Note (competing-narrative intake)  
-**Prepared:** 2026-08-09, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
+**Prepared:** 2026-08-10, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
 **Surface:** Ivan Fraser, "'Spiralism' — a new religion, or AI amplification of a predisposition?", Substack, 2026-08-09  
 **Companions:** `2026-08-08-comparison-set-register-note.md` · the Hieropedia Motif-Cluster Trace · `2026-07-29-parasite-concept-dated-priority-exhibit.md`  
-**Proposed path:** `structural-forensics/notes/2026-08-09-fraser-competing-narrative-intake.md`  
+**Proposed path:** `structural-forensics/notes/2026-08-10-fraser-competing-narrative-intake.md`  
 
 ---
 
