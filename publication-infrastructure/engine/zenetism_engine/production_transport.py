@@ -60,11 +60,21 @@ class ProductionDraftTransport(Protocol):
         self, plan: ProductionDraftPlan
     ) -> ProductionDraftRecovery: ...
 
+    def resume_recovered_draft(
+        self,
+        plan: ProductionDraftPlan,
+        recovery: ProductionDraftRecovery,
+    ) -> ProductionDraftRecovery: ...
+
     def reload_bound_legacy_draft(
         self, plan: ProductionDraftPlan
     ) -> dict[str, Any]: ...
 
     def reload_bound_draft(self, plan: ProductionDraftPlan) -> dict[str, Any]: ...
+
+    def reload_bound_draft_files(
+        self, plan: ProductionDraftPlan
+    ) -> dict[str, Any]: ...
 
     def delete_inherited_archival_file(self, plan: ProductionDraftPlan) -> None: ...
 
@@ -127,6 +137,32 @@ class ProductionDraftExecutor:
         *,
         architect_visual_confirmation: ArchitectProductionVisualConfirmation | None = None,
     ) -> ProductionDraftExecutionResult:
+        return self._prepare(
+            plan,
+            recovery=None,
+            architect_visual_confirmation=architect_visual_confirmation,
+        )
+
+    def resume(
+        self,
+        plan: ProductionDraftPlan,
+        recovery: ProductionDraftRecovery,
+        *,
+        architect_visual_confirmation: ArchitectProductionVisualConfirmation | None = None,
+    ) -> ProductionDraftExecutionResult:
+        return self._prepare(
+            plan,
+            recovery=recovery,
+            architect_visual_confirmation=architect_visual_confirmation,
+        )
+
+    def _prepare(
+        self,
+        plan: ProductionDraftPlan,
+        *,
+        recovery: ProductionDraftRecovery | None,
+        architect_visual_confirmation: ArchitectProductionVisualConfirmation | None,
+    ) -> ProductionDraftExecutionResult:
         if self._used:
             raise ProductionSafetyError(
                 "one production executor cannot initiate or resume a second draft"
@@ -145,27 +181,35 @@ class ProductionDraftExecutor:
                 "production transport family read-back differs from the validated plan"
             )
 
-        recovery = self._transport.open_new_version_draft(plan)
-        self._recovery = recovery
+        bound_recovery = (
+            self._transport.open_new_version_draft(plan)
+            if recovery is None
+            else self._transport.resume_recovered_draft(plan, recovery)
+        )
+        self._recovery = bound_recovery
         try:
             legacy_draft = self._transport.reload_bound_legacy_draft(plan)
-            _require_bound_unpublished_draft(plan, recovery, legacy_draft)
+            _require_bound_unpublished_draft(plan, bound_recovery, legacy_draft)
             initial_draft = self._transport.reload_bound_draft(plan)
-            _require_bound_unpublished_draft(plan, recovery, initial_draft)
+            _require_bound_unpublished_draft(plan, bound_recovery, initial_draft)
             file_state = _classify_file_state(plan, initial_draft)
 
             if file_state == "inherited":
                 self._transport.delete_inherited_archival_file(plan)
                 self._transport.upload_approved_archival_file(plan)
+                self._transport.reload_bound_draft_files(plan)
             elif file_state == "empty":
                 self._transport.upload_approved_archival_file(plan)
+                self._transport.reload_bound_draft_files(plan)
 
             self._transport.save_approved_metadata(plan)
 
             final_legacy_draft = self._transport.reload_bound_legacy_draft(plan)
-            _require_bound_unpublished_draft(plan, recovery, final_legacy_draft)
+            _require_bound_unpublished_draft(
+                plan, bound_recovery, final_legacy_draft
+            )
             final_draft = self._transport.reload_bound_draft(plan)
-            _require_bound_unpublished_draft(plan, recovery, final_draft)
+            _require_bound_unpublished_draft(plan, bound_recovery, final_draft)
             _require_approved_file(plan, final_draft)
             exact_version_doi = _supported_doi(
                 final_draft,
@@ -182,17 +226,17 @@ class ProductionDraftExecutor:
             report = validate_production_metadata(
                 plan.metadata_payload,
                 final_draft,
-                draft_id=recovery.draft_id,
+                draft_id=bound_recovery.draft_id,
                 architect_visual_confirmation=architect_visual_confirmation,
             )
             return ProductionDraftExecutionResult(
-                recovery=recovery,
+                recovery=bound_recovery,
                 new_version_created=self._transport.new_version_created,
                 exact_version_doi=exact_version_doi,
                 validation=report.as_dict(),
             )
         except PublicationEngineError as exc:
-            exc.attach_recovery(recovery.as_dict())
+            exc.attach_recovery(bound_recovery.as_dict())
             raise
 
 
@@ -204,6 +248,7 @@ class _RequestKind(str, Enum):
     INITIATE_NEW_VERSION = "initiate_new_version"
     READ_LEGACY_DRAFT = "read_legacy_draft"
     READ_DRAFT = "read_draft"
+    READ_DRAFT_FILES = "read_draft_files"
     DELETE_INHERITED_FILE = "delete_inherited_file"
     INITIALIZE_APPROVED_FILE = "initialize_approved_file"
     WRITE_APPROVED_FILE = "write_approved_file"
@@ -236,6 +281,10 @@ _ENDPOINT_RULES: dict[_RequestKind, tuple[str, re.Pattern[str]]] = {
     _RequestKind.READ_DRAFT: (
         "GET",
         re.compile(r"/api/records/[0-9]+/draft"),
+    ),
+    _RequestKind.READ_DRAFT_FILES: (
+        "GET",
+        re.compile(r"/api/records/[0-9]+/draft/files"),
     ),
     _RequestKind.DELETE_INHERITED_FILE: (
         "DELETE",
@@ -309,6 +358,7 @@ class UrllibProductionDraftTransport:
         self._new_version_created = False
         self._legacy_draft_verified = False
         self._modern_draft_verified = False
+        self._last_root_files: object = None
         self._file_state: str | None = None
         self._approved_file_initialized = False
         self._approved_file_written = False
@@ -428,6 +478,29 @@ class UrllibProductionDraftTransport:
         self._new_version_created = True
         return recovery
 
+    def resume_recovered_draft(
+        self,
+        plan: ProductionDraftPlan,
+        recovery: ProductionDraftRecovery,
+    ) -> ProductionDraftRecovery:
+        self._require_unbound_plan(plan)
+        if self._verified_plan_fingerprint != plan.manifest_fingerprint:
+            raise ProductionSafetyError(
+                "production draft recovery requires exact family read-back verification"
+            )
+        _require_exact_recovery_identity(plan, recovery)
+        preserved = ProductionDraftRecovery(
+            draft_id=recovery.draft_id,
+            record_id=recovery.record_id,
+            edit_url=recovery.edit_url,
+            preview_url=recovery.preview_url,
+            creation_result=deepcopy(recovery.creation_result),
+        )
+        self._bound_plan_fingerprint = plan.manifest_fingerprint
+        self._bound_draft_id = preserved.draft_id
+        self._recovery = preserved
+        return preserved
+
     def reload_bound_legacy_draft(
         self, plan: ProductionDraftPlan
     ) -> dict[str, Any]:
@@ -455,9 +528,35 @@ class UrllibProductionDraftTransport:
         )
         recovery = self._require_recovery()
         _require_bound_unpublished_draft(plan, recovery, value)
-        self._file_state = _classify_file_state(plan, value)
+        self._last_root_files = deepcopy(value.get("files"))
         self._modern_draft_verified = True
-        return value
+        files = self.reload_bound_draft_files(plan)
+        combined = deepcopy(value)
+        combined["files"] = files
+        return combined
+
+    def reload_bound_draft_files(
+        self, plan: ProductionDraftPlan
+    ) -> dict[str, Any]:
+        draft_id = self._require_bound_plan(plan)
+        if not self._legacy_draft_verified or not self._modern_draft_verified:
+            raise ProductionSafetyError(
+                "production draft-files read requires verified legacy and root draft read-back"
+            )
+        value = self._send(
+            _BoundProductionRequest(
+                _RequestKind.READ_DRAFT_FILES,
+                "GET",
+                f"/api/records/{draft_id}/draft/files",
+            )
+        )
+        files = _normalized_draft_files(
+            self._last_root_files,
+            value,
+            expected_draft_id=draft_id,
+        )
+        self._file_state = _classify_file_state(plan, {"files": files})
+        return files
 
     def delete_inherited_archival_file(self, plan: ProductionDraftPlan) -> None:
         draft_id = self._require_write_ready(plan)
@@ -724,6 +823,9 @@ class UrllibProductionDraftTransport:
                 f"/api/deposit/depositions/{draft_id}"
             ),
             _RequestKind.READ_DRAFT: f"/api/records/{draft_id}/draft",
+            _RequestKind.READ_DRAFT_FILES: (
+                f"/api/records/{draft_id}/draft/files"
+            ),
             _RequestKind.DELETE_INHERITED_FILE: (
                 f"/api/records/{draft_id}/draft/files/{inherited_segment}"
             ),
@@ -790,12 +892,16 @@ class UrllibProductionDraftTransport:
 
     def _advance_request_state(self, request_value: _BoundProductionRequest) -> None:
         if request_value.kind is _RequestKind.DELETE_INHERITED_FILE:
+            self._last_root_files = None
             self._file_state = "empty"
         elif request_value.kind is _RequestKind.INITIALIZE_APPROVED_FILE:
+            self._last_root_files = None
             self._approved_file_initialized = True
         elif request_value.kind is _RequestKind.WRITE_APPROVED_FILE:
+            self._last_root_files = None
             self._approved_file_written = True
         elif request_value.kind is _RequestKind.COMPLETE_APPROVED_FILE:
+            self._last_root_files = None
             self._file_state = "approved"
             self._approved_file_initialized = False
             self._approved_file_written = False
@@ -829,6 +935,112 @@ class _ProductionRedirectBoundary(urllib.request.HTTPRedirectHandler):
             headers=dict(request.header_items()),
             method="GET",
         )
+
+
+def _require_exact_recovery_identity(
+    plan: ProductionDraftPlan,
+    recovery: ProductionDraftRecovery,
+) -> None:
+    if not isinstance(recovery, ProductionDraftRecovery):
+        raise ProductionSafetyError(
+            "production continuation requires a preserved recovery identity"
+        )
+    draft_id = _numeric_id(recovery.draft_id)
+    if draft_id == plan.source_record_id:
+        raise ProductionSafetyError(
+            "production recovery draft must differ from the published originating record"
+        )
+    if recovery.record_id not in {None, draft_id}:
+        raise ProductionSafetyError(
+            "production recovery record identity differs from its draft identity"
+        )
+    origin = production_environment().origin
+    if recovery.edit_url != f"{origin}/uploads/{draft_id}":
+        raise ProductionSafetyError(
+            "production recovery edit relation differs from the fixed draft identity"
+        )
+    if recovery.preview_url != f"{origin}/records/{draft_id}?preview=1":
+        raise ProductionSafetyError(
+            "production recovery preview relation differs from the fixed draft identity"
+        )
+    creation = recovery.creation_result
+    allowed_creation_fields = {
+        "id",
+        "recid",
+        "conceptrecid",
+        "created",
+        "modified",
+        "updated",
+        "status",
+        "state",
+        "submitted",
+        "latest_draft",
+    }
+    if (
+        not isinstance(creation, dict)
+        or not set(creation).issubset(allowed_creation_fields)
+        or any(
+            not isinstance(value, (str, int, bool))
+            for value in creation.values()
+        )
+    ):
+        raise ProductionSafetyError(
+            "production recovery creation result contains unsupported state"
+        )
+    observed_ids: list[str] = []
+    for key in ("id", "recid"):
+        if key in creation:
+            observed_ids.append(_numeric_id(creation[key]))
+    linked = _preserved_recovery_draft_id(creation)
+    if linked is not None:
+        observed_ids.append(linked)
+    if not observed_ids or set(observed_ids) != {draft_id}:
+        raise ProductionSafetyError(
+            "production recovery creation result differs from the preserved draft"
+        )
+    concept_record_id = _concept_record_id(plan.family.concept_doi)
+    if _numeric_id(creation.get("conceptrecid")) != concept_record_id:
+        raise ProductionFamilyError(
+            "production recovery creation result differs from the concept family"
+        )
+    if creation.get("submitted") is not False or creation.get("state") != "unsubmitted":
+        raise ProductionSafetyError(
+            "production recovery creation result is not explicitly unsubmitted"
+        )
+
+
+def _preserved_recovery_draft_id(value: dict[str, Any]) -> str | None:
+    relation = value.get("latest_draft")
+    if relation is None:
+        return None
+    if not isinstance(relation, str):
+        raise ProductionSafetyError(
+            "production recovery latest_draft relation must be an HTTPS URL"
+        )
+    parsed = urlsplit(relation)
+    try:
+        port = parsed.port
+    except ValueError as exc:
+        raise ProductionSafetyError(
+            "production recovery latest_draft relation contains an invalid port"
+        ) from exc
+    match = re.fullmatch(r"/api/deposit/depositions/([0-9]+)", parsed.path)
+    if (
+        parsed.scheme != "https"
+        or parsed.hostname != "zenodo.org"
+        or parsed.username is not None
+        or parsed.password is not None
+        or port not in {None, 443}
+        or parsed.query
+        or parsed.fragment
+        or match is None
+        or relation
+        != f"{production_environment().origin}{parsed.path}"
+    ):
+        raise ProductionSafetyError(
+            "production recovery latest_draft relation falls outside the fixed draft endpoint"
+        )
+    return _numeric_id(match.group(1))
 
 
 def _require_current_deposition(
@@ -911,6 +1123,197 @@ def _require_bound_unpublished_draft(
     return draft
 
 
+def _normalized_draft_files(
+    root_files: object,
+    dedicated_files: object,
+    *,
+    expected_draft_id: str,
+) -> dict[str, Any]:
+    if root_files is not None and not isinstance(root_files, dict):
+        raise ProductionSafetyError(
+            "production root draft files field must be an object when present"
+        )
+    if not isinstance(dedicated_files, dict):
+        raise ProductionSafetyError(
+            "production dedicated draft-files response must be an object"
+        )
+    _validate_draft_files_response_identity(
+        dedicated_files,
+        expected_draft_id=expected_draft_id,
+    )
+    if "entries" not in dedicated_files:
+        raise ProductionSafetyError(
+            "production dedicated draft-files response requires explicit entries"
+        )
+    entries = _normalized_file_entries(dedicated_files["entries"])
+    root = root_files if isinstance(root_files, dict) else {}
+    if "entries" in root:
+        root_entries = _normalized_file_entries(root["entries"])
+        _require_root_file_entries_agree(root_entries, entries)
+    enabled = _reconciled_file_configuration(
+        root,
+        dedicated_files,
+        "enabled",
+    )
+    if not isinstance(enabled, bool):
+        raise ProductionSafetyError(
+            "production draft-files enabled state must be boolean"
+        )
+    default_preview = _reconciled_file_configuration(
+        root,
+        dedicated_files,
+        "default_preview",
+    )
+    if default_preview is not None and (
+        not isinstance(default_preview, str)
+        or (default_preview and _approved_filename(
+            default_preview,
+            label="production default Preview filename",
+        ) != default_preview)
+    ):
+        raise ProductionSafetyError(
+            "production draft-files default Preview state is malformed"
+        )
+    order_value = _reconciled_file_configuration(
+        root,
+        dedicated_files,
+        "order",
+    )
+    if not isinstance(order_value, list) or any(
+        not isinstance(item, str)
+        or _approved_filename(item, label="production file-order entry") != item
+        for item in order_value
+    ):
+        raise ProductionSafetyError(
+            "production draft-files order must be an explicit filename list"
+        )
+    if len(order_value) != len(set(order_value)):
+        raise ProductionSafetyError(
+            "production draft-files order contains duplicate filenames"
+        )
+    return {
+        "enabled": enabled,
+        "entries": entries,
+        "default_preview": default_preview,
+        "order": order_value,
+    }
+
+
+def _normalized_file_entries(value: object) -> dict[str, dict[str, Any]]:
+    observed: list[tuple[str, dict[str, Any]]] = []
+    if isinstance(value, list):
+        for item in value:
+            if not isinstance(item, dict):
+                raise ProductionSafetyError(
+                    "production draft-file entry must be an object"
+                )
+            key = item.get("key")
+            observed.append((str(key) if isinstance(key, str) else "", item))
+    elif isinstance(value, dict):
+        for key, item in value.items():
+            if not isinstance(key, str) or not isinstance(item, dict):
+                raise ProductionSafetyError(
+                    "production draft-file entries must map filenames to objects"
+                )
+            if item.get("key") != key:
+                raise ProductionSafetyError(
+                    "production draft-file entry key differs from its filename"
+                )
+            observed.append((key, item))
+    else:
+        raise ProductionSafetyError(
+            "production dedicated draft-files entries must be a list or object"
+        )
+    result: dict[str, dict[str, Any]] = {}
+    for key, item in observed:
+        if not key or _approved_filename(
+            key,
+            label="production draft-file entry filename",
+        ) != key:
+            raise ProductionSafetyError(
+                "production draft-file entry filename is malformed"
+            )
+        if item.get("key") != key:
+            raise ProductionSafetyError(
+                "production draft-file entry key differs from its filename"
+            )
+        if key in result:
+            raise ProductionSafetyError(
+                "production draft-files response contains duplicate entries"
+            )
+        result[key] = deepcopy(item)
+    return result
+
+
+def _require_root_file_entries_agree(
+    root_entries: dict[str, dict[str, Any]],
+    dedicated_entries: dict[str, dict[str, Any]],
+) -> None:
+    identity_fields = {"key", "checksum", "size", "status"}
+    for key, root_entry in root_entries.items():
+        dedicated_entry = dedicated_entries.get(key)
+        if dedicated_entry is None:
+            raise ProductionSafetyError(
+                "production root draft identifies a file absent from dedicated read-back"
+            )
+        for field in identity_fields.intersection(root_entry):
+            if root_entry[field] != dedicated_entry.get(field):
+                raise ProductionSafetyError(
+                    "production root and dedicated draft-file identities differ"
+                )
+
+
+def _reconciled_file_configuration(
+    root: dict[str, Any],
+    dedicated: dict[str, Any],
+    key: str,
+) -> object:
+    values = [
+        container[key]
+        for container in (root, dedicated)
+        if key in container
+    ]
+    if not values:
+        raise ProductionSafetyError(
+            f"production draft-files response requires explicit {key} state"
+        )
+    if any(value != values[0] for value in values[1:]):
+        raise ProductionSafetyError(
+            f"production root and dedicated draft-files {key} states differ"
+        )
+    return deepcopy(values[0])
+
+
+def _validate_draft_files_response_identity(
+    value: dict[str, Any],
+    *,
+    expected_draft_id: str,
+) -> None:
+    for key in ("id", "record_id"):
+        if key in value and _numeric_id(value[key]) != expected_draft_id:
+            raise ProductionSafetyError(
+                "production draft-files response differs from the bound draft identity"
+            )
+    links = value.get("links")
+    if links is None:
+        return
+    if not isinstance(links, dict):
+        raise ProductionSafetyError(
+            "production draft-files links must be an object when present"
+        )
+    relation = links.get("self")
+    if relation is None:
+        return
+    expected = (
+        f"{production_environment().api_base}/records/"
+        f"{expected_draft_id}/draft/files"
+    )
+    if relation != expected:
+        raise ProductionSafetyError(
+            "production draft-files self relation differs from the bound draft identity"
+        )
+
+
 def _classify_file_state(plan: ProductionDraftPlan, draft: dict[str, Any]) -> str:
     files = draft.get("files")
     if not isinstance(files, dict):
@@ -925,6 +1328,14 @@ def _classify_file_state(plan: ProductionDraftPlan, draft: dict[str, Any]) -> st
             "production draft file collection must contain explicit entries"
         )
     if not entries:
+        if files.get("default_preview") not in {None, ""}:
+            raise ProductionSafetyError(
+                "empty production draft files cannot identify a default Preview"
+            )
+        if files.get("order") != []:
+            raise ProductionSafetyError(
+                "empty production draft files require an explicit empty order"
+            )
         return "empty"
     if len(entries) != 1:
         raise ProductionSafetyError(
@@ -938,6 +1349,7 @@ def _classify_file_state(plan: ProductionDraftPlan, draft: dict[str, Any]) -> st
     inherited = plan.registry_identity["zenodo_archival_filename"]
     approved = plan.archival_copy.archival_filename
     if key == inherited:
+        _require_completed_file_entry(entry)
         if entry.get("checksum") != plan.registry_identity["zenodo_checksum"]:
             raise ProductionSafetyError(
                 "inherited production file differs from the validated registry identity"
@@ -946,9 +1358,25 @@ def _classify_file_state(plan: ProductionDraftPlan, draft: dict[str, Any]) -> st
             raise ProductionSafetyError(
                 "inherited production file byte size differs from the published baseline"
             )
+        if files.get("default_preview") not in {None, "", inherited}:
+            raise ProductionSafetyError(
+                "inherited production file default Preview is contradictory"
+            )
+        if files.get("order") not in ([], [inherited]):
+            raise ProductionSafetyError(
+                "inherited production file order is contradictory"
+            )
         return "inherited"
     if key == approved:
         _require_approved_file_entry(plan, entry)
+        if files.get("default_preview") not in {None, "", approved}:
+            raise ProductionSafetyError(
+                "approved production file default Preview is contradictory"
+            )
+        if files.get("order") not in ([], [approved]):
+            raise ProductionSafetyError(
+                "approved production file order is contradictory"
+            )
         return "approved"
     raise ProductionSafetyError(
         "production draft contains a file outside the approved family continuation"
@@ -987,6 +1415,7 @@ def _require_approved_file(
 def _require_approved_file_entry(
     plan: ProductionDraftPlan, entry: dict[str, Any]
 ) -> None:
+    _require_completed_file_entry(entry)
     expected_checksum = f"md5:{plan.archival_copy.checksums.md5}"
     if entry.get("checksum") != expected_checksum:
         raise ProductionSafetyError(
@@ -995,6 +1424,13 @@ def _require_approved_file_entry(
     if entry.get("size") != plan.archival_copy.checksums.byte_size:
         raise ProductionSafetyError(
             "production draft archival byte size differs from the approved payload"
+        )
+
+
+def _require_completed_file_entry(entry: dict[str, Any]) -> None:
+    if entry.get("status") != "completed":
+        raise ProductionSafetyError(
+            "production draft file entry must be explicitly completed"
         )
 
 
@@ -1119,6 +1555,19 @@ def _numeric_id(value: object) -> str:
             "production record identifier contains unsupported characters"
         )
     return text
+
+
+def _concept_record_id(value: object) -> str:
+    if not isinstance(value, str):
+        raise ProductionFamilyError(
+            "production concept DOI must be a string"
+        )
+    match = re.fullmatch(r"10\.5281/zenodo\.([0-9]+)", value)
+    if match is None:
+        raise ProductionFamilyError(
+            "production concept DOI has an unsupported form"
+        )
+    return match.group(1)
 
 
 def _approved_filename(value: object, *, label: str) -> str:
