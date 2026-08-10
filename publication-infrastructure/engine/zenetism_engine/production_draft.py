@@ -10,6 +10,7 @@ from copy import deepcopy
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
+from urllib.parse import urlsplit
 
 from .archival import ArchivalCopy, prepare_archival_copy, require_approved_manifest
 from .errors import (
@@ -22,6 +23,7 @@ from .production_boundary import production_environment
 from .sandbox_metadata import serialize_sandbox_draft
 
 _PRODUCTION_RECORD_ID = re.compile(r"[0-9]+")
+_PRODUCTION_CONCEPT_DOI = re.compile(r"10\.5281/zenodo\.([0-9]+)")
 _EXACT_DOI_PATHS = (
     "doi",
     "metadata.doi",
@@ -104,38 +106,32 @@ class ProductionFamilyMember:
     is_latest: bool
 
     @classmethod
-    def from_object(cls, value: object) -> "ProductionFamilyMember":
-        if not isinstance(value, dict):
-            raise ProductionFamilyError("production family member must be an object")
-        versions = value.get("versions")
-        versions = versions if isinstance(versions, dict) else {}
-        metadata = value.get("metadata")
-        metadata = metadata if isinstance(metadata, dict) else {}
-        version_label = metadata.get("version", value.get("version_label"))
-        if not isinstance(version_label, str) or VERSION_RE.fullmatch(version_label) is None:
+    def from_object(
+        cls,
+        value: object,
+        *,
+        latest_relation_identity: tuple[str, str, str, str, int] | None = None,
+    ) -> "ProductionFamilyMember":
+        identity = _family_member_identity(value)
+        is_latest = _explicit_family_latest_state(value)
+        if latest_relation_identity is not None:
+            relation_state = identity == latest_relation_identity
+            if is_latest is not None and is_latest != relation_state:
+                raise ProductionFamilyError(
+                    "production family contains conflicting latest-state evidence"
+                )
+            if is_latest is None:
+                is_latest = relation_state
+        if is_latest is None:
             raise ProductionFamilyError(
-                "production family member requires an explicit vN version label"
-            )
-        family_index = versions.get("index", value.get("family_index"))
-        if not isinstance(family_index, int) or isinstance(family_index, bool):
-            raise ProductionFamilyError(
-                "production family member requires an integer family index"
-            )
-        is_latest = versions.get("is_latest", value.get("is_latest"))
-        if not isinstance(is_latest, bool):
-            raise ProductionFamilyError(
-                "production family member requires an explicit latest-state marker"
+                "production family member requires explicit latest-state evidence"
             )
         return cls(
-            record_id=_record_id(value),
-            exact_version_doi=_supported_doi(
-                value, _EXACT_DOI_PATHS, "production exact-version DOI"
-            ),
-            concept_doi=_supported_doi(
-                value, _CONCEPT_DOI_PATHS, "production concept DOI"
-            ),
-            version_label=version_label,
-            family_index=family_index,
+            record_id=identity[0],
+            exact_version_doi=identity[1],
+            concept_doi=identity[2],
+            version_label=identity[3],
+            family_index=identity[4],
             is_latest=is_latest,
         )
 
@@ -166,13 +162,42 @@ class ProductionFamilySnapshot:
                 "production family observation must contain a JSON object"
             )
         latest_value = value.get("latest")
-        latest = ProductionFamilyMember.from_object(latest_value)
+        latest_relation_value = value.get("latest_relation_record")
+        latest_relation_identity: tuple[str, str, str, str, int] | None = None
+        if latest_relation_value is not None:
+            if not isinstance(latest_value, dict):
+                raise ProductionFamilyError(
+                    "production latest family member must be an object"
+                )
+            latest_identity = _family_member_identity(latest_value)
+            _fixed_family_relation_path(
+                latest_value,
+                relation="latest",
+                expected_record_id=latest_identity[0],
+            )
+            latest_relation_identity = _family_member_identity(
+                latest_relation_value
+            )
+            if latest_relation_identity != latest_identity:
+                raise ProductionFamilyError(
+                    "production latest relation differs from the expected family member"
+                )
+        latest = ProductionFamilyMember.from_object(
+            latest_value,
+            latest_relation_identity=latest_relation_identity,
+        )
         members_value = value.get("members")
         if not isinstance(members_value, list) or not members_value:
             raise ProductionFamilyError(
                 "production family observation requires explicit family members"
             )
-        members = tuple(ProductionFamilyMember.from_object(item) for item in members_value)
+        members = tuple(
+            ProductionFamilyMember.from_object(
+                item,
+                latest_relation_identity=latest_relation_identity,
+            )
+            for item in members_value
+        )
         concept_doi = _supported_doi(
             value, ("concept_doi",), "production family concept DOI"
         )
@@ -596,7 +621,7 @@ def _validated_two_state_package(value: object) -> dict[str, Any]:
     }
     if set(value) != expected_top_level:
         raise ProductionPlanError(
-            "two-state production manifest contains missing or unsupported top-level fields"
+            "two-state production manifest contains missing or unsupported root fields"
         )
     if value.get("schema_version") != _TWO_STATE_SCHEMA:
         raise ProductionPlanError("two-state production manifest schema is unsupported")
@@ -1119,7 +1144,7 @@ def _validate_two_state_people_and_prose(
         description, description_fields, f"{label} description"
     )
     if description.get("form") != "Standard":
-        raise ProductionPlanError(f"{label} description must use Standard form")
+        raise ProductionPlanError(f"{label} description must take Standard form")
     _required_text(description, "rendered_html", f"{label} description")
     if label == "candidate" and (
         not isinstance(description.get("word_count"), int)
@@ -1590,6 +1615,248 @@ def _reject_ambiguous_members(members: tuple[ProductionFamilyMember, ...]) -> No
             raise ProductionFamilyError(
                 f"production family contains ambiguous {label}"
             )
+
+
+def _family_member_identity(
+    value: object,
+) -> tuple[str, str, str, str, int]:
+    if not isinstance(value, dict):
+        raise ProductionFamilyError("production family member must be an object")
+    record_id = _record_id(value)
+    exact_doi = _supported_doi(
+        value, _EXACT_DOI_PATHS, "production exact-version DOI"
+    )
+    concept_doi = _supported_doi(
+        value, _CONCEPT_DOI_PATHS, "production concept DOI"
+    )
+    metadata = value.get("metadata")
+    if metadata is not None and not isinstance(metadata, dict):
+        raise ProductionFamilyError(
+            "production family member metadata must be an object"
+        )
+    metadata = metadata if isinstance(metadata, dict) else {}
+    version_label = metadata.get("version", value.get("version_label"))
+    if (
+        not isinstance(version_label, str)
+        or VERSION_RE.fullmatch(version_label) is None
+    ):
+        raise ProductionFamilyError(
+            "production family member requires an explicit vN version label"
+        )
+
+    legacy_versions = _legacy_versions(value)
+    legacy_indices: list[int] = []
+    for container, key in (
+        (legacy_versions, "index"),
+        (value, "family_index"),
+    ):
+        if key not in container:
+            continue
+        candidate = container[key]
+        if not isinstance(candidate, int) or isinstance(candidate, bool):
+            raise ProductionFamilyError(
+                "production family member requires an integer family index"
+            )
+        legacy_indices.append(candidate)
+    if len(set(legacy_indices)) > 1:
+        raise ProductionFamilyError(
+            "production family member contains conflicting legacy family indices"
+        )
+
+    relation = _invenio_version_relation(
+        value,
+        record_id=record_id,
+        concept_doi=concept_doi,
+    )
+    supported_indices = list(legacy_indices)
+    if relation is not None:
+        # InvenioRDM exposes a zero-based relation index. The engine preserves
+        # its established one-based manifest index through this exact mapping.
+        supported_indices.append(relation["index"] + 1)
+    if not supported_indices:
+        raise ProductionFamilyError(
+            "production family member requires explicit family-index evidence"
+        )
+    if len(set(supported_indices)) != 1:
+        raise ProductionFamilyError(
+            "production family member contains conflicting family-index representations"
+        )
+    family_index = supported_indices[0]
+    if family_index <= 0:
+        raise ProductionFamilyError(
+            "production family member family index must be positive"
+        )
+    return record_id, exact_doi, concept_doi, version_label, family_index
+
+
+def _explicit_family_latest_state(value: object) -> bool | None:
+    if not isinstance(value, dict):
+        raise ProductionFamilyError("production family member must be an object")
+    legacy_versions = _legacy_versions(value)
+    observed: list[bool] = []
+    for container, key in (
+        (legacy_versions, "is_latest"),
+        (value, "is_latest"),
+    ):
+        if key not in container:
+            continue
+        candidate = container[key]
+        if not isinstance(candidate, bool):
+            raise ProductionFamilyError(
+                "production family member latest-state marker must be boolean"
+            )
+        observed.append(candidate)
+
+    record_id = _record_id(value)
+    concept_doi = _supported_doi(
+        value, _CONCEPT_DOI_PATHS, "production concept DOI"
+    )
+    relation = _invenio_version_relation(
+        value,
+        record_id=record_id,
+        concept_doi=concept_doi,
+    )
+    if relation is not None and "is_last" in relation:
+        observed.append(relation["is_last"])
+    if len(set(observed)) > 1:
+        raise ProductionFamilyError(
+            "production family member contains conflicting latest-state representations"
+        )
+    return observed[0] if observed else None
+
+
+def _legacy_versions(value: dict[str, Any]) -> dict[str, Any]:
+    versions = value.get("versions")
+    if versions is None:
+        return {}
+    if not isinstance(versions, dict):
+        raise ProductionFamilyError(
+            "production family member legacy versions field must be an object"
+        )
+    return versions
+
+
+def _invenio_version_relation(
+    value: dict[str, Any],
+    *,
+    record_id: str,
+    concept_doi: str,
+) -> dict[str, Any] | None:
+    metadata = value.get("metadata")
+    metadata = metadata if isinstance(metadata, dict) else {}
+    relations = metadata.get("relations")
+    if relations is None:
+        return None
+    if not isinstance(relations, dict):
+        raise ProductionFamilyError(
+            "production family metadata relations must be an object"
+        )
+    version_relations = relations.get("version")
+    if version_relations is None:
+        return None
+    if not isinstance(version_relations, list) or len(version_relations) != 1:
+        raise ProductionFamilyError(
+            "production family version relation must contain exactly one entry"
+        )
+    relation = version_relations[0]
+    if not isinstance(relation, dict):
+        raise ProductionFamilyError(
+            "production family version relation entry must be an object"
+        )
+    allowed = {"index", "is_last", "parent"}
+    required = {"index", "parent"}
+    if not required.issubset(relation) or not set(relation).issubset(allowed):
+        raise ProductionFamilyError(
+            "production family version relation contains missing or unsupported fields"
+        )
+    relation_index = relation.get("index")
+    if (
+        not isinstance(relation_index, int)
+        or isinstance(relation_index, bool)
+        or relation_index < 0
+    ):
+        raise ProductionFamilyError(
+            "production family version relation index must be a non-negative integer"
+        )
+    if "is_last" in relation and not isinstance(relation.get("is_last"), bool):
+        raise ProductionFamilyError(
+            "production family version relation latest-state marker must be boolean"
+        )
+    parent = relation.get("parent")
+    if not isinstance(parent, dict) or set(parent) != {"pid_type", "pid_value"}:
+        raise ProductionFamilyError(
+            "production family version relation parent is malformed"
+        )
+    parent_id = parent.get("pid_value")
+    if parent.get("pid_type") != "recid" or not isinstance(parent_id, str):
+        raise ProductionFamilyError(
+            "production family version relation parent identity is unsupported"
+        )
+    concept_match = _PRODUCTION_CONCEPT_DOI.fullmatch(concept_doi)
+    if concept_match is None or parent_id != concept_match.group(1):
+        raise ProductionFamilyError(
+            "production family version relation parent differs from the concept identity"
+        )
+    _fixed_family_relation_path(
+        value,
+        relation="versions",
+        expected_record_id=record_id,
+    )
+    _fixed_family_relation_path(
+        value,
+        relation="latest",
+        expected_record_id=record_id,
+    )
+    return relation
+
+
+def _fixed_family_relation_path(
+    value: object,
+    *,
+    relation: str,
+    expected_record_id: str,
+) -> str:
+    if relation not in {"latest", "versions"}:
+        raise ProductionFamilyError(
+            "production family relation name is unsupported"
+        )
+    if not isinstance(value, dict):
+        raise ProductionFamilyError("production family member must be an object")
+    links = value.get("links")
+    if not isinstance(links, dict):
+        raise ProductionFamilyError(
+            "production family member requires fixed relation links"
+        )
+    relation_url = links.get(relation)
+    if not isinstance(relation_url, str) or not relation_url:
+        raise ProductionFamilyError(
+            f"production family member requires a fixed {relation} relation"
+        )
+    parsed = urlsplit(relation_url)
+    try:
+        port = parsed.port
+    except ValueError as exc:
+        raise ProductionFamilyError(
+            f"production family {relation} relation contains an invalid port"
+        ) from exc
+    suffix = "/latest" if relation == "latest" else ""
+    expected_path = f"/api/records/{expected_record_id}/versions{suffix}"
+    environment = production_environment()
+    if (
+        parsed.scheme != "https"
+        or parsed.hostname != "zenodo.org"
+        or parsed.username is not None
+        or parsed.password is not None
+        or port not in {None, 443}
+        or parsed.path != expected_path
+        or parsed.query
+        or parsed.fragment
+        or relation_url != f"{environment.origin}{expected_path}"
+    ):
+        raise ProductionFamilyError(
+            f"production family {relation} relation falls outside the fixed production identity"
+        )
+    return expected_path
 
 
 def _supported_doi(value: object, paths: tuple[str, ...], label: str) -> str:

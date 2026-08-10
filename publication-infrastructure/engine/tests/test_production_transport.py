@@ -127,6 +127,40 @@ def _two_state_family_observation(
     }
 
 
+def _live_relation_member(
+    value: dict[str, object],
+    *,
+    include_latest_marker: bool,
+) -> dict[str, object]:
+    record_id = str(value["id"])
+    metadata = value["metadata"]
+    versions = value["versions"]
+    assert isinstance(metadata, dict)
+    assert isinstance(versions, dict)
+    relation: dict[str, object] = {
+        "index": int(versions["index"]) - 1,
+        "parent": {
+            "pid_type": "recid",
+            "pid_value": str(metadata["conceptdoi"]).rsplit(".", 1)[-1],
+        },
+    }
+    if include_latest_marker:
+        relation["is_last"] = bool(versions["is_latest"])
+    return {
+        "id": record_id,
+        "doi": value["doi"],
+        "conceptdoi": metadata["conceptdoi"],
+        "metadata": {
+            "version": metadata["version"],
+            "relations": {"version": [relation]},
+        },
+        "links": {
+            "latest": f"https://zenodo.org/api/records/{record_id}/versions/latest",
+            "versions": f"https://zenodo.org/api/records/{record_id}/versions",
+        },
+    }
+
+
 class _Response:
     def __init__(self, payload: bytes) -> None:
         self._payload = payload
@@ -472,6 +506,108 @@ class ProductionTransportTests(unittest.TestCase):
         self.assertFalse(
             any("/actions/newversion" in str(item["url"]) for item in opener.requests)
         )
+
+    def test_live_relation_family_readback_matches_the_validated_plan(self) -> None:
+        latest = _live_relation_member(
+            copy.deepcopy(self.family["latest"]),
+            include_latest_marker=True,
+        )
+        members = [
+            _live_relation_member(
+                copy.deepcopy(item),
+                include_latest_marker=True,
+            )
+            for item in self.family["members"]
+        ]
+        base = "https://zenodo.org/api"
+        routes = {
+            ("GET", f"{base}/records/{SOURCE_ID}"): [latest],
+            ("GET", f"{base}/records/{SOURCE_ID}/versions"): [
+                {"hits": {"hits": members}}
+            ],
+        }
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            transport = UrllibProductionDraftTransport(
+                RuntimeProductionCredentials("stage3b-local-simulation-value")
+            )
+            observation = transport.read_family(self.plan)
+        self.assertNotIn("latest_relation_record", observation)
+        self.assertEqual(
+            [item["url"] for item in opener.requests],
+            [
+                f"{base}/records/{SOURCE_ID}",
+                f"{base}/records/{SOURCE_ID}/versions",
+            ],
+        )
+
+    def test_fixed_latest_relation_is_read_when_markers_are_absent(self) -> None:
+        latest = _live_relation_member(
+            copy.deepcopy(self.family["latest"]),
+            include_latest_marker=False,
+        )
+        members = [
+            _live_relation_member(
+                copy.deepcopy(item),
+                include_latest_marker=False,
+            )
+            for item in self.family["members"]
+        ]
+        base = "https://zenodo.org/api"
+        latest_relation_url = f"{base}/records/{SOURCE_ID}/versions/latest"
+        routes = {
+            ("GET", f"{base}/records/{SOURCE_ID}"): [latest],
+            ("GET", f"{base}/records/{SOURCE_ID}/versions"): [
+                {"hits": {"hits": members}}
+            ],
+            ("GET", latest_relation_url): [copy.deepcopy(latest)],
+        }
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            transport = UrllibProductionDraftTransport(
+                RuntimeProductionCredentials("stage3b-local-simulation-value")
+            )
+            observation = transport.read_family(self.plan)
+        self.assertEqual(
+            observation["latest_relation_record"]["id"],
+            SOURCE_ID,
+        )
+        self.assertEqual(opener.requests[-1]["url"], latest_relation_url)
+
+    def test_latest_relation_redirect_boundary_admits_only_the_exact_record(self) -> None:
+        boundary = production_transport_module._ProductionRedirectBoundary()
+        request = production_transport_module.urllib.request.Request(
+            f"https://zenodo.org/api/records/{SOURCE_ID}/versions/latest",
+            method="GET",
+        )
+        exact = boundary.redirect_request(
+            request,
+            None,
+            301,
+            "Moved Permanently",
+            {},
+            f"https://zenodo.org/api/records/{SOURCE_ID}",
+        )
+        self.assertIsNotNone(exact)
+        self.assertEqual(
+            exact.full_url,
+            f"https://zenodo.org/api/records/{SOURCE_ID}",
+        )
+        for hostile in (
+            f"https://example.invalid/api/records/{SOURCE_ID}",
+            "https://zenodo.org/api/records/99999999",
+        ):
+            with self.subTest(hostile=hostile):
+                self.assertIsNone(
+                    boundary.redirect_request(
+                        request,
+                        None,
+                        301,
+                        "Moved Permanently",
+                        {},
+                        hostile,
+                    )
+                )
 
     def test_ambiguous_draft_files_fail_before_file_or_metadata_write(self) -> None:
         routes = self._routes(initial_file_state="ambiguous")
