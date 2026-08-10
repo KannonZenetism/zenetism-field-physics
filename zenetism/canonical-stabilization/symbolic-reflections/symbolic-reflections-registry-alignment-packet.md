@@ -2,23 +2,24 @@
 
 **Repository:** zenetism / symbolic-reflections  
 **Live branch audited:** main  
-**Commit:** 9be2cd2de2eeaec1ce4d5bdb21a61edc2a22e0ce  
+**Commit:** 15f17e028e8365f49cd03159a5c693fb2268aac0  
 **Access date:** 2026-08-10  
 **Scope:** all 22 Markdown files present in zenetism/symbolic-reflections  
 **Disposition:** read-only audit; no reflection, registry, protocol, commit, or branch was modified
 
-Main advanced from 5110d9ef0103bb6717b087c274c56ccee3f2c6fb to the commit above during final validation. A path-scoped diff confirmed that zenetism/symbolic-reflections, both MFLR volumes, both SPR volumes, CCD, TL, and PFR are unchanged between those commits; the intervening changes are confined to publication infrastructure.
+Main advanced from 5110d9ef0103bb6717b087c274c56ccee3f2c6fb through 9be2cd2de2eeaec1ce4d5bdb21a61edc2a22e0ce to the commit above during validation. Path-scoped diffs confirmed that zenetism/symbolic-reflections, both MFLR volumes, both SPR volumes, CCD, TL, and PFR are unchanged across those commits. The packet itself entered zenetism/canonical-stabilization/symbolic-reflections at the current commit.
 
 ## Packet Conformance Note — Aug 10 2026
 
 Conformed by ⚮ Liora at the architect's direction; findings, priorities, per-file editing notes, and the registry-maintenance queue are unchanged except where stated below.
 
-- Canonical subscripts applied throughout the packet's own voice (L₀–L₅, IL₁–IL₅, Supra-L₀, C₁–C₁₅ / E₁–E₁₅). Evidentiary quotations preserve the notation of the audited files as written.
+- Canonical subscripts applied throughout the packet's own voice. The architectural order is Supra-L₀ displayed separately, then L₀, then L₅ / IL₅ → L₄ / IL₄ → L₃ / IL₃ → L₂ / IL₂ → L₁ / IL₁. Operator families are C₁–C₁₅ / E₁–E₁₅. Evidentiary quotations preserve the notation of the audited files as written and place canonical notation outside the quotation.
 - Straight quotation marks and apostrophes throughout; "versus" → contra; report-voice control-family wording conformed to authority-family per the Field Physics report precedent; mark-language conformed per the Mark Terminology Restriction; verticality named directly rather than through the restricted h-term.
 - Recurring Drift: convergence removed as a generic unity-family replacement — it stays reserved for the established architectural constructions where convergence itself is the intended relation.
-- Recurring Drift: the Aionward / Khaonward row now names Aion-facing as the preferred construction where intrinsic centropic orientation or return is meant.
+- Recurring Drift: the Aionward / Khaonward row now names Aion-facing as the preferred construction where manifested centropic orientation or return is meant, with intrinsic centropic / entropic inclination or disposition for latent or motionless essence.
+- Second round, Aug 10 2026: Work's revalidation additions merged (commit 15f17e0 provenance, canonical glosses beside evidentiary quotations, the three saturation-mechanism findings and their editing notes, the Khaon row brought to the sealed root formulation), and the six residual conformance items re-applied after the revalidation branch predated them (L₄–L₁ range order; the inclination contra orientation distinction here, in the Aionward / Khaonward row, and in the samsara finding; L₄ pre-individuation for the Heracles / Inanna replacements; fused principle and the tightened Source row; later / supernal / graded-correspondence for the verticality residue).
 - Standard Repair Language (heading conformed from the control-family form): the Root-register boundary block replaced with the architect-approved formulation carrying the threefold Khaon phases; a conditional Saturation-mechanism block added per current Centropic Gravity doctrine.
-- MFLR Volume 1 currently carries both corrected and stale formulations (the older Avatar / Inverse Avatar taxonomy block, the Steward-note emanation contrast, and the Great Red Dragon / Beast agency and projection wording). Those passages hold no authority; they are routed to a targeted M1 maintenance pass, after which only the M1-dependent findings in this packet are revalidated. Established native placements are not reopened.
+- MFLR Volume 1 currently carries both corrected and stale formulations (the older Avatar / Inverse Avatar taxonomy block, the Steward-note emanation contrast, and the Great Red Dragon / Beast agency and projection wording). Revalidation at live-main commit 15f17e0 confirms that the targeted M1 maintenance pass has not yet landed. Those passages hold no authority; they remain routed to that separate pass. After M1 is repaired, only findings materially dependent upon these conflicting passages are revalidated. Established native placements are not reopened.
 
 ## Executive Result
 
@@ -50,7 +51,7 @@ Shorthand used below:
 
 | Shorthand | Reference |
 |---|---|
-| R | the named reflection file at live-main commit 9be2cd2 |
+| R | the named reflection file at live-main commit 15f17e0 |
 | M1 | the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-01.md |
 | M2 | the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-02.md |
 | S1 | the-zenetist-canon/symbolic-analysis/symbolic-pattern-registry-01.md |
@@ -142,7 +143,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 |---|---|---|---|
 | Elohim | M1: L₄ DP / DL pantheon-composite / architectonic plurality | Cultural elevation can add L₅ or L₀ language without changing native operative placement | Aligned |
 | Adam Kadmon / primordial human | M1: L₄ Form / archetypal humanity | Distinct from Eden Adam and embodied humanity at L₁ | Aligned until the text calls the movement a figural cascade |
-| Theon | M1: L₅ EOB, first centropic hypostasis | Fixed hypostasis; not identical with lower embodied articulations | Placement aligned |
+| Theon | M1: L₅ EOB, first centropic hypostasis | Fixed hypostasis; not identical with later embodied articulations | Placement aligned |
 | Nekron | M1: IL₅ VOS event-horizon hypostasis under later TL / Ledger wording | Terminal architecture is only comparative here | No direct local defect |
 
 **Symbolic patterns found**
@@ -160,7 +161,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 **Function-bearing:** No historical bearer is analyzed, but "full centropic emanation" into embodiment can be read as hypostasis-to-bearer continuity. Add a non-identity boundary if Theon remains in the paragraph.  
 **Distal Apprehension:** Not materially engaged.  
 **Soul / Essence:** Mostly outside the file's focus. Do not describe L₄ archetypal humanity as an essence or Soul unless the register distinction is explicit.  
-**Terminology:** "Pre-bifurcal ground" and "absolute bifurcation emerges from L0" conflict with the current paired, bifurcally distinct Aion / Khaon root-registers. Correct Non-Fusion casing. Replace ordinary Source language with Aion / Origin wording. "Sabbath as saturation" risks the Zenon restriction; completion, repose, or settled plenitude is safer.  
+**Terminology:** "Pre-bifurcal ground" and "absolute bifurcation emerges from L0" (canonical L₀) conflict with the current paired, bifurcally distinct Aion / Khaon root-registers. Correct Non-Fusion casing. Replace ordinary Source language with Aion / Origin wording. "Sabbath as saturation" risks the Zenon restriction; completion, repose, or settled plenitude is safer.  
 **Prose / Formatting:** Strong series conformity. The "Registry-Expansion Candidates" list is obsolete because the named Hebrew terms are now in S2.  
 **Cross-registry conflicts:** S1's Moon row still describes the full entropic tree as the "Khaonic Arc" and uses centropic reflection vocabulary for the inverse structure. Current TL separates Khaonic Tree from inverse arc and reserves reflection for centropic valence. This is a registry-maintenance issue, not a reason to invent a new Genesis placement.  
 **Priority:** High.  
@@ -237,7 +238,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 **Cascade / Continuum / Conflation:** "Consequence-cascade" is generic sequence language but collides with the canonical technical term. Replace it with consequence sequence or propagation sequence. The file otherwise keeps Serpent, Nyxea, and embodied action distinct.  
 **Function-bearing:** No hypostatic bearer claim. Serpent-as-activator must remain an IL₄ station / operation, not Nyxea becoming the animal.  
 **Distal Apprehension:** This is one of the clearest candidate sites. The Serpent's mimicry of openness, the intact map with the seal removed, and pattern without origin-fidelity should be explicitly bounded as Distal Apprehension: contour is apprehended and imitated, but centropic essence, light, charge, and generative interiority do not cross.  
-**Soul / Essence:** The Essence-as-Choice passage is aligned. A C₁₃ sentence says sealing "severed L2 SM from L3 DM"; current doctrine requires occlusion of operative access, not severance of identity or origin-relation.  
+**Soul / Essence:** The Essence-as-Choice passage is aligned. A C₁₃ sentence says sealing "severed L2 SM from L3 DM" (canonical L₂ SM from L₃ DM); current doctrine requires occlusion of operative access, not severance of identity or origin-relation.  
 **Terminology:** Replace "severed from source-fidelity," "signal severing," and comparable constructions with reflexive fracture, occluded access, or loss of fidelity in the inverse receiver. Recast lowest-vertical, upper-strata, from-below, and elevation metaphors through positional and directional vocabulary. Correct Non-Fusion casing if retained.  
 **Prose / Formatting:** Strong line-by-line form. The candidate list is stale: Arum, Ayyekha, deflection, Shama, Eyvah, Shuph, Itsavon, Teshuqah, Derekh, and Shamar are present in S2.  
 **Cross-registry conflicts:** None in figure placement. The registry and TL together require a no-transfer clarification beyond the file's otherwise accurate mimicry language.  
@@ -276,7 +277,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Sarx, eskēnōsen, doxa, plērōma | S2 | Flesh, tabernacling, glory, and fullness operators; already registered |
 | Grace / law / exegete | S1 / S2 | Distribution, mediation, and disclosure; broadly aligned |
 
-**Cascade / Continuum / Conflation:** The file repeatedly calls the Johannine movement a cascade. S1 explicitly gives Logos as the centropic Continuum, not a centropic figural cascade. "Logos transitions from L5 into L1," "the same Logos becomes flesh," and "L5-through-L1 integrated in a single figure" collapse continuum articulation, hypostasis, office, and bearer. Use qualified Logos articulations and full personal office-function bearing.  
+**Cascade / Continuum / Conflation:** The file repeatedly calls the Johannine movement a cascade. S1 explicitly gives Logos as the centropic Continuum, not a centropic figural cascade. "Logos transitions from L5 into L1," "the same Logos becomes flesh," and "L5-through-L1 integrated in a single figure" (canonical L₅ → L₁ sequence) collapse continuum articulation, hypostasis, office, and bearer. Use qualified Logos articulations and full personal office-function bearing.  
 **Function-bearing:** High-risk. The lawful claim is that Christ is the singular full personal bearer of the L₅ office-function. The L₅ hypostasis remains fixed; the sovereign individuated bearer remains distinct; the office-function is borne in full. "Theon incarnate," "Theon becomes Jesus," or an equivalent numerical identity should not remain in current authorial prose.  
 **Distal Apprehension:** Darkness not "overcoming" light can remain a reception failure, but if inverse apprehension is discussed, state that no centropic content crosses merely because its contour is perceived.  
 **Soul / Essence:** Keep Soul / Mind within L₄–L₁. Do not call the Logos principle or L₅ office a Soul. Essence belongs to L₅ / L₀, return, or terminal resolution, not to L₃ / L₂ traversal as such.  
@@ -392,10 +393,10 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Śūnyatā / emptiness | M1 Buddhist notes and later TL root doctrine | Current file maps it to a "Khaon mode" and eventual same-ground synthesis | Conflicts with present bifurcal root wording |
 
 **Cascade / Continuum / Conflation:** Lines 94–95 define Avatars as direct emanations of Theon and Inverse Avatars as direct projections of Nekron. Line 210 repeats direct Theonic emanation. These statements reproduce an older M1 note rather than the later corrected bearer table and Ledger. Replace with the graded office-function family: Christ as singular full personal bearer; Vishnu / avataras / Kalki / Buddha-contextual articulation as office-correspondence, resonance, or field-corrective articulation; inverse figures as office-correspondence or bearing, never Nekron-projection.  
-**Function-bearing:** Very high risk. "Avataric incarnation" and "direct Theonic or L4 Form expression" collapse full bearing, Form resonance, and historical embodiment. L₄ Forms do not incarnate directly; L₃ Stewards carry their resonance. The hypostasis does not become or project the bearer.  
+**Function-bearing:** Very high risk. "Avataric incarnation" and "direct Theonic or L4 Form expression" (canonical L₄) collapse full bearing, Form resonance, and historical embodiment. L₄ Forms do not incarnate directly; L₃ Stewards carry their resonance. The hypostasis does not become or project the bearer.  
 **Distal Apprehension:** Mimoform, counterfeit compassion, mirror-pattern, and Echo Vessel passages are prime inverse-apprehension material. Add a local sentence that the inverse receives or reconstructs contour at distance without receiving centropic essence, light, charge, or generative interiority.  
-**Soul / Essence:** The file first says orientation never inverts, then says essence orientation "flips" in the Bodhi discussion; harmonize with stable essence / changing orientation. "Essence persists at L3 and supernal strata" conflicts TL: L₃ carries Deep Soul / Mind, while essence is used at L₅, L₀, Supra-L₀, and return / terminal resolution. "Soul's perceptual field" is acceptable only within L₄–L₁ scope.  
-**Terminology:** The Śūnyatā section says Aion and Khaon are the same layer in different modal expressions and treats them as complementary gates to one ground. Current TL says paired, bifurcally distinct root-registers, not poles or modes of one root. Replace Source and unity-family terms. Restrict saturation to Zenon.  
+**Soul / Essence:** The file first says orientation never inverts, then says essence orientation "flips" in the Bodhi discussion; harmonize by distinguishing the essence's stable intrinsic centropic / entropic inclination from manifested orientation, the motion-borne enactment of that inclination. Do not preserve any construction in which a latent essence-orientation itself flips. "Essence persists at L3 and supernal strata" (canonical L₃) conflicts TL: L₃ carries Deep Soul / Mind, while essence is used at L₅, L₀, Supra-L₀, and return / terminal resolution. "Soul's perceptual field" is acceptable only within L₄–L₁ scope.  
+**Terminology:** The Śūnyatā section says Aion and Khaon are the same layer in different modal expressions and treats them as complementary gates to one ground. Current TL says paired, bifurcally distinct root-registers, not poles or modes of one root. Replace Source and unity-family terms. Restrict saturation to Zenon. Because line 36 explains the mechanism of Zenonic crossing, replace its Aion / Khaon synthesis and orientational-gravity account with the current sequence: Aion-facingness is requisite for return; fulfilled final synthesis gives return its Centropic Gravity; Zenonic Legibility establishes saturation-readiness; Allowance admits the crossing.  
 **Prose / Formatting:** Plain headings; good readability. Some tables preserve superseded terminology and must be revised together with body text.  
 **Cross-registry conflicts:** M1 lines 966–973 retain the older direct emanation / projection note, while M1 lines 1175–1176 and the Ledger give the corrected graded bearer family. M1's Śūnyatā note also retains same-layer modal / polarity language that conflicts with current TL. Later protocol and ledger wording hold authority, while the older registry passages should enter the registry-maintenance queue.  
 **Priority:** High.  
@@ -407,6 +408,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 4. Correct Soul / Essence distribution and remove the "orientation flips" contradiction.
 5. Rewrite Śūnyatā / Aion / Khaon language under the current paired-root lock.
 6. Add the Distal Apprehension no-transfer sentence to the Mimoform discussion.
+7. Replace the line 36 saturation mechanism with the current Centropic Gravity / Zenonic Legibility / Allowance doctrine.
 
 ### spiral-path-of-nirvana.md
 
@@ -514,10 +516,10 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Sacred Marriage | S1 | Isis / Osiris generative-restorative pairing | Aligned |
 
 **Cascade / Continuum / Conflation:** Osiris is correctly treated through soft conflation. Ennead emanation must not imply Atum becomes each member. Christ comparisons should use Logos Continuum and singular bearing, not a centropic cascade or L₅ figure turning into embodiment.  
-**Function-bearing:** "Christ = L5" comparison language collapses Christ's bearing relation into native hypostatic placement. Replace with the singular full bearer formulation. Atum, Ra, and Apophis should be cultural station / office articulations, not hypostatic identities.  
+**Function-bearing:** "Christ = L5" (canonical L₅) comparison language collapses Christ's bearing relation into native hypostatic placement. Replace with the singular full bearer formulation. Atum, Ra, and Apophis should be cultural station / office articulations, not hypostatic identities.  
 **Distal Apprehension:** Apophis and inverse imitation are not developed enough to require a full section; one no-transfer cross-reference is optional if mimicry language remains.  
 **Soul / Essence:** Keep heart / Soul postmortem discussion within L₄–L₁ operations and reserve essence for return / terminal resolution.  
-**Terminology:** "Apophis as IL5 Nekron," "canonical articulation of IL5 Nekron," and "Entropy Itself" need station / office-correspondence wording. Aion / Khaon polarity and mode language, Source, unified, and Non-Fusion require current replacements.  
+**Terminology:** "Apophis as IL5 Nekron," "canonical articulation of IL5 Nekron" (canonical IL₅), and "Entropy Itself" need station / office-correspondence wording. Aion / Khaon polarity and mode language, Source, unified, and Non-Fusion require current replacements.  
 **Prose / Formatting:** Plain technical headings. Section 9 contains a duplicated Anubis bullet. Table prose and long compounds need a light PFR pass, but layout is usable.  
 **Cross-registry conflicts:** M2 Nephthys calls Set IL₄, while M1 gives Set's primary placement as IL₂ ISS with IL₃ narrative conflation; the reflection follows M1 and should not be "corrected" to IL₄. M2's Duat Function 1 routing also broadens S1's Function 1 definition. Ammit / Field of Reeds pairing is a reflection error because sealed-mode taxonomy applies at L₁ / IL₁.  
 **Priority:** High.  
@@ -559,11 +561,11 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Mirror / counterfeit gnosis | S1 and TL reflection-valence protocol | Inverse imitation | Needs mirroring / echo vocabulary and Distal Apprehension boundary |
 | Exile / Cherubic boundary | S1 / S2 | Occlusion and guarded threshold | Broadly aligned; severance phrasing needs revision |
 
-**Cascade / Continuum / Conflation:** The file is built around an older symmetric two-cascade model. Current CCD says the Satanic current is the paradigm cascade; the centropic articulation appears as Logos Continuum, not a centropic figural cascade. "Theon manifests as Christos" and "Nekron generates IL4 Inversalogos" erase station and bearer distinctions. Replace with Continuum, office-function bearing, inverse cascade current, and separate station-figures.  
+**Cascade / Continuum / Conflation:** The file is built around an older symmetric two-cascade model. Current CCD says the Satanic current is the paradigm cascade; the centropic articulation appears as Logos Continuum, not a centropic figural cascade. "Theon manifests as Christos" and "Nekron generates IL4 Inversalogos" (canonical IL₄) erase station and bearer distinctions. Replace with Continuum, office-function bearing, inverse cascade current, and separate station-figures.  
 **Function-bearing:** High-risk. Theon does not become Christos; the L₅ office-function may be borne in full by the singular Christos Incarnate bearer. Nekron does not generate, project, or become Nyxea / Inversalogos.  
 **Distal Apprehension:** The Serpent's borrowed gnosis, counterfeit map, and inverse mirror are central. Add the no-transfer boundary and use mirror / echo / mimic for inverse valence. "What passes is fragmentation" should be clarified: no centropic essence or charge passes; the inverse receiver reconstructs a distorted contour.  
-**Soul / Essence:** "L5 Theonic essence accessible at L1" should be recast as office-function bearing or resonance; it must not suggest essence transfer into the bearer.  
-**Terminology:** Replace "poles co-present," Khaon phases, and latent Aion / Khaon modal-unity with paired bifurcally distinct root-register language. Replace "Khaonic Arc" with inverse arc where motion is meant and Khaonic Tree where the full inverse structure is meant. Recast Source, unity, authority, and severance-family language. "Serpent reflects entropy" should use mirrors or mimics because reflection has centropic valence.  
+**Soul / Essence:** "L5 Theonic essence accessible at L1" (canonical L₅ / L₁) should be recast as office-function bearing or resonance; it must not suggest essence transfer into the bearer.  
+**Terminology:** Replace "poles co-present," Khaon phases, and latent Aion / Khaon modal-unity with paired bifurcally distinct root-register language. Replace "Khaonic Arc" with inverse arc where motion is meant and Khaonic Tree where the full inverse structure is meant. Recast Source, unity, authority, and severance-family language. "Serpent reflects entropy" should use mirrors or mimics because reflection has centropic valence. The terminal-clarification paragraphs at lines 233–235 give a causal account of Zenonic saturation and currently make Aionic arrival / orientation sufficient; apply the current Centropic Gravity / Zenonic Legibility / Allowance sequence there.  
 **Prose / Formatting:** Clear technical sections; the opening decorative seal can remain only if treated as a functional opening seal under PFR. Tables require the same terminology corrections as body prose.  
 **Cross-registry conflicts:** S1 still preserves older Moon / mirror-tree terminology, and some M1 notes preserve the earlier symmetric cascade model. CCD, TL, corrected M1 bearer rows, and the Ledger supply the later distinctions.  
 **Priority:** High.  
@@ -575,6 +577,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 4. Separate Nekron, Nyxea / Inversalogos, the inverse current, and embodied inverse carriers.
 5. Add Distal Apprehension at the counterfeit-gnosis passage.
 6. Update the final table after body repairs; do not patch the table independently.
+7. Correct the causal account of Zenonic saturation; do not add the expanded doctrine to the file's merely passing mentions.
 
 ### the-greek-lattice.md
 
@@ -591,7 +594,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Hades | M1: L₄ DL governor of a Khaonic jurisdiction | Narrative severity does not make Hades inverse | Aligned |
 | Persephone | M1 / M2: L₄ DP with voluntary declivation / L₁ seasonal articulation | Lawful multi-stratum motion, not a changed native placement | Aligned |
 | Hermes / Hekate | M1 / M2: L₃ DM mediator / threshold articulators | Psychopomp and boundary functions | Aligned |
-| Dionysus | M1 / M2: L₁ embodied-liminal articulation with higher resonance | Cultural multi-stratum resonance | Aligned |
+| Dionysus | M1 / M2: L₁ embodied-liminal articulation with supernal resonance | Cultural multi-stratum resonance | Aligned |
 | Prometheus | M1: IL₄ IDL appropriation / inverse knowledge figure | Fire-taking is a Distal Apprehension case, not centropic charge transfer | Placement aligned |
 | Tartarus, Typhon, Eris | M1 / M2: IL₅ terminal station-figures / articulations | They do not become Nekron or "Entropy Itself" | Placement aligned; identity wording needs repair |
 | Circe, Calypso, Sphinx, Sirens, Narcissus | M1: IL₄, IL₃, IL₂, and terminal-resonance inverse figures according to row | Each retains its native register | Broadly aligned |
@@ -611,7 +614,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 **Cascade / Continuum / Conflation:** Christ comparisons call L₅-to-L₁ movement a Theonic cascade. Replace with Logos Continuum and singular full bearing. Greek pantheon generation is cosmogonic procession, not each ancestor becoming descendants.  
 **Function-bearing:** Christ should be described as the singular full personal office-function bearer. Greek L₅ / IL₅ figures are cultural station / office correspondences, not the hypostases themselves.  
 **Distal Apprehension:** Prometheus's appropriation of Olympian fire is a prime case. State that the inverse figure apprehends and reproduces an external pattern-contour; no centropic light, charge, or essence crosses the arc. The mythic "fire" remains the narrative carrier.  
-**Soul / Essence:** Platonic Soul language may remain as attributed tradition. In the canonical gloss, Heracles's L₄ "essence" should be a Soul / individuated being or archetypal resonance, depending the intended claim.  
+**Soul / Essence:** Platonic Soul language may remain as attributed tradition. In the canonical gloss, Heracles's L₄ "essence" should be a Soul, an L₄ DP / DL figure, an archetypal articulation, or Form-resonance, depending on the intended claim.  
 **Terminology:** Replace Source, capitalized Non-Fusion, and "saturation" of the Iron Age / field. Tighten governance / governor language outside the proper Governor-contra-Governed-Domain term. Replace verticality terms where structural direction is meant.  
 **Prose / Formatting:** Strong lattice architecture. Long tables and hyphen compounds merit a PFR pass after semantic repair.  
 **Cross-registry conflicts:** M1 line 57 collapses Chronos / Kronos into one Khaonic-to-terminal figure, while M2 and the reflection distinguish primordial time from Kronos / Saturn at IL₄. Do not erase the reflection's distinction pending registry adjudication.  
@@ -694,7 +697,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Yuga cycle / Kalki threshold | S1 / S2 | Cyclical refraction and field correction | Aligned except saturation and full-bearing claims |
 | Atman–Brahman identity / union | Traditional Vedantic language | May be reported as tradition-specific doctrine | Must not become unqualified canonical fusion |
 
-**Cascade / Continuum / Conflation:** The Avatara section is the collection's largest propagation defect. "L5 Theon articulating" is repeatedly rendered as direct embodiment, and Rama is called a canonical L₅ Theonic embodiment. Current M1 corrected rows and Ledger require graded office correspondence. Krishna's L₃ teaching attribution is soft conflation; it is not the L₅ figure moving registers. The centropic comparison to Christ should use Logos Continuum plus Christ's singular full bearing, not a universal avatar cascade.  
+**Cascade / Continuum / Conflation:** The Avatara section is the collection's largest propagation defect. "L5 Theon articulating" (canonical L₅) is repeatedly rendered as direct embodiment, and Rama is called a canonical L₅ Theonic embodiment. Current M1 corrected rows and Ledger require graded office correspondence. Krishna's L₃ teaching attribution is soft conflation; it is not the L₅ figure moving registers. The centropic comparison to Christ should use Logos Continuum plus Christ's singular full bearing, not a universal avatar cascade.  
 **Function-bearing:** Very high risk. Christ remains the singular full personal bearer in the current census. Vishnu and avataras can carry strong-to-full office correspondence as cultural / historical articulations, but the file may not multiply full personal bearing or make Theon become each avatara. Apply the office family consistently to headings, prose, tables, and comparison rows.  
 **Distal Apprehension:** Ravana, Avidya, Maya, and counterfeit-knowledge passages can be clarified through Distal Apprehension. The inverse apprehends contour or constructs a veil from distorted reception; no centropic essence, light, or charge is transferred.  
 **Soul / Essence:** Atman / Brahman language should be explicitly attributed to Vedantic doctrine. Canonical glosses should preserve distinct essence, Soul / Mind, principle, office, and bearer categories.  
@@ -721,7 +724,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Figure cluster | MFLR placement / aspect | Multi-stratum note | Match |
 |---|---|---|---|
 | Nammu, Apsu, primordial Tiamat | M2: L₀ Khaonic / primordial-water articulations | Primordial articulation remains distinct from combat-Tiamat | Broadly aligned, with old modal-root wording |
-| Anu / Ki | M2: L₄ DL / DP sky-earth pantheon articulations | Complementary figures, not one fused source | Aligned |
+| Anu / Ki | M2: L₄ DL / DP sky-earth pantheon articulations | Complementary figures, not one fused principle | Aligned |
 | Enlil, Marduk, Nabu | M1 / M2: L₄ DL decree, ordering, and inscription articulations | Distinct pantheon figures | Aligned |
 | Ninhursag, Inanna | M1 / M2: L₄ DP life / generative articulations | Inanna's declivation does not change native L₄ placement | Aligned except essence wording |
 | Enki / Ea | M1 / M2: L₃ DM mediator / wisdom articulator | Cross-stratum intervention is mediation, not Logos cascade | Placement aligned |
@@ -746,7 +749,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 **Cascade / Continuum / Conflation:** The file calls Enki's mediation "the Logos Continuum's cascade traversal" and compares Inanna / Christ through cascade language. Use mediation for Enki, Logos Continuum for the principle, and singular office-function bearing for Christ. Pantheon genealogy is procession, not entities cascading.  
 **Function-bearing:** Christ's stripping / descent comparison needs singular bearer wording. Marduk, Enki, and other cultural figures are office / pattern articulators, not hypostatic embodiments.  
 **Distal Apprehension:** The Moon passage's inverse reception is a possible DA cross-reference. Use mirroring rather than reflection when inverse valence is intended; state that received contour does not entail centropic-origin transfer.  
-**Soul / Essence:** "Inanna as supernal essence at L4" conflicts with TL. Use sovereign individuated being, Soul, or L₄ DP figure according to the sentence. At terminal return, essence may be used.  
+**Soul / Essence:** "Inanna as supernal essence at L4" (canonical L₄) conflicts with TL. Use Soul, L₄ DP figure, or archetypal articulation according to the sentence. At terminal return, essence may be used.  
 **Terminology:** Replace Khaon phase, undifferentiated root, and same-ground modal wording. Apsu-underworld "dissolution into Khaonic potential" and "dispersive ground receives entropic motion" conflict with the current Nekron / Absolute Dispersion / Aionic-resolution sequence. Replace non-Zenon saturation, Source, and unity-family terms.  
 **Prose / Formatting:** Strong lattice layout. Long tables require synchronized repair after body edits.  
 **Cross-registry conflicts:** S1 Moon retains the older "Khaonic Arc / mirror-tree / reflection" description. The reflection should follow TL's current valence and Tree / Arc distinctions while the SPR row is queued separately.  
@@ -755,7 +758,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 
 1. Rewrite root and terminal paragraphs under current Aion / Khaon and A17 language.
 2. Replace Enki / Christ cascade comparisons with mediation, Continuum, and full bearing as appropriate.
-3. Change Inanna "essence at L4" to Soul / sovereign individuated being / L₄ DP figure.
+3. Change Inanna "essence at L4" (canonical L₄) to Soul / L₄ DP figure / archetypal articulation.
 4. Replace inverse reflection with mirroring and add the DA non-transfer boundary if the Moon passage remains technical.
 5. Remove non-Zenon saturation wording from Flood and cyclical passages.
 
@@ -767,7 +770,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 
 | Figure | MFLR placement / aspect | Multi-stratum note | Match |
 |---|---|---|---|
-| Christ as Lamb / Lion | M1: singular full personal bearer; Lamb / Lion are complementary centropic-phase carriers | Bearer remains distinct from L₅ hypostasis and office | Placement resonance aligned; "native L5 Theon" identity wording is not |
+| Christ as Lamb / Lion | M1: singular full personal bearer; Lamb / Lion are complementary centropic-phase carriers | Bearer remains distinct from L₅ hypostasis and office | Placement resonance aligned; "native L5 Theon" (canonical L₅) identity wording is not |
 | Great Red Dragon | M1 main row: IL₅ VOS with agency; later Ledger rejects "Nekron with agency" and entity-to-station generation | Cultural IL₅ station-figure / office correspondence under later wording | Live registry and ledger conflict; reflection repeats older form |
 | Beast from Sea | M1: IL₁ embodied inverse dominion / distributed system with deeper twisted resonance | The Beast-system is distributed enactment, not necessarily one full personal bearer | Placement aligned; "Embodied Avatar" heading misclassifies it |
 | False Prophet / Beast from Earth | M1: IL₃ IDM spurious signal with IL₂ broadcast articulation | Distinct stations / operations in the inverse current | Aligned |
@@ -787,12 +790,12 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Lamb / Lion phase pair | S1 | Self-offering and corrective return | Aligned once bearer distinction is restored |
 
 **Cascade / Continuum / Conflation:** Section 3 contains an excellent later paragraph: hypostasis, current, full personal bearer, distributed system, and station remain distinct. That paragraph should become the local standard for the whole file. Earlier claims that the Dragon generates the Beast, that "Nekronic will" passes as an agent, or that the Beast is an "Embodied Avatar" contradict it. The inverse current cascades through distinct stations; the Beast-system is distributed enactment; a full personal bearer, if discussed, is a separate category.  
-**Function-bearing:** Christ must be singular full personal bearing, not "native L5 Theon" in changed embodied phase. The Dragon and Beast require office-correspondence / distributed enactment terms, not hypostasis identity or projection.  
+**Function-bearing:** Christ must be singular full personal bearing, not "native L5 Theon" (canonical L₅) in changed embodied phase. The Dragon and Beast require office-correspondence / distributed enactment terms, not hypostasis identity or projection.  
 **Distal Apprehension:** The 666 mimicry and False Prophet material can be linked to Distal Apprehension: inverse form reproduces contour without receiving centropic generative content. No long expansion is necessary.  
 **Soul / Essence:** The Lamb paragraph correctly distinguishes essence surviving form-destruction, but "embodied souls" must remain within L₄–L₁. Do not locate essence at the intermediate cascade stations.  
 **Terminology:** Replace "Nekronic will," "Dragon generates," Source, saturation, unity, and severance. "Power was given" may remain as quoted scriptural wording; the structural gloss should use resonance, operative capacity, or field reinforcement. Correct Non-fusion casing.  
 **Prose / Formatting:** Clear lattice sections. Section 11's closing seal can remain as a functional closing convention. The title "Beast as Embodied Avatar" must change because it makes a technical claim.  
-**Cross-registry conflicts:** M1's Great Red Dragon row says "IL5 VOS Nekron with agency" and its Beast row says the Dragon's will is projected / generates the Beast. The supplied Ledger says these formulations were barred and records the propagation correction as applied. The live registry therefore does not yet match the ledger's recorded state. S1 Lake of Fire also retains an older terminal sequence.  
+**Cross-registry conflicts:** M1's Great Red Dragon row says "IL5 VOS Nekron with agency" (canonical IL₅ VOS) and its Beast row says the Dragon's will is projected / generates the Beast. The supplied Ledger says these formulations were barred and records the propagation correction as applied. The live registry therefore does not yet match the ledger's recorded state. S1 Lake of Fire also retains an older terminal sequence.  
 **Priority:** High.  
 **Actionable editing notes:**
 
@@ -813,7 +816,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 |---|---|---|---|
 | Adam / Eve | M1: L₁ embodied Edenic figures | Soul / Mind and archetypal resonance remain distinct from native placement | Aligned |
 | Serpent / Lucifer / Prometheus | M1: related IL₄ IDL inverse knowledge / activation figures | Separate cultural station / office correspondences, not facets of one entity | Placement broadly aligned; identity compression not aligned |
-| Christ | M1: singular full personal bearer of L₅ office-function | Embodied bearer, not "L5 Theon manifest" as numerical identity | Current summary conflicts |
+| Christ | M1: singular full personal bearer of L₅ office-function | Embodied bearer, not "L5 Theon manifest" (canonical L₅) as numerical identity | Current summary conflicts |
 | Vishnu | M1 / M2: L₅ cultural Theonic-preserver articulation / strong office correspondence | Not a second automatic full personal bearer | Current pooling with Christ is overbroad |
 | Orienting Logos / Theon | S1 Logos Continuum; M1 L₅ office / hypostasis distinctions | Principle, hypostasis, office, and bearer remain distinguishable | Current text blurs them |
 
@@ -829,9 +832,9 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Garden | S1 | Orientation field | Aligned |
 
 **Cascade / Continuum / Conflation:** The file groups Christ, Vishnu, and Orienting Logos as L₅ figures and treats Lucifer, Serpent, and Prometheus as facets of one Nyxean principle. Replace the first group with individually labeled office / bearer / cultural-articulation modes and the second with separate cultural station / office correspondences. No figure becomes its principle. Use Logos Continuum only for the qualified persistent Logos name.  
-**Function-bearing:** "Christ / Orienting Logos as L5 Theon manifest" is nonconforming. State Christ's singular full personal office-function bearing and keep Orienting Logos, Theon, and the bearer distinct. Vishnu receives cultural office-correspondence wording.  
+**Function-bearing:** "Christ / Orienting Logos as L5 Theon manifest" (canonical L₅) is nonconforming. State Christ's singular full personal office-function bearing and keep Orienting Logos, Theon, and the bearer distinct. Vishnu receives cultural office-correspondence wording.  
 **Distal Apprehension:** Spurious gnosis, mirroring, and Serpent / Prometheus knowledge-taking require one explicit no-transfer paragraph. The inverse apprehends contour; no centropic essence, light, charge, or generative interiority crosses.  
-**Soul / Essence:** The L₁–L₄ Soul / Spirit discussion is usable if Spirit is defined locally. Reserve essence for L₅ / L₀ and return.  
+**Soul / Essence:** The L₄–L₁ Soul / Spirit discussion is usable if Spirit is defined locally. Reserve essence for L₅ / L₀ and return.  
 **Terminology:** Use inverse arc for IL₅–IL₁ motion and Khaonic Tree for the full inverse structure with root relation. Replace severed source-fidelity with reflexive fracture / occluded fidelity. Rewrite terminal dispersive exhaustion under A17. Replace Source, saturation, union, and polarity language.  
 **Prose / Formatting:** Compact and readable. Body repair is more important than formatting; headings already conform.  
 **Cross-registry conflicts:** S1's older Moon / Khaonic Arc note reinforces the file's old terminology, but TL's later Tree / Arc rule is authoritative. Older M1 avatar language holds no authority over corrected rows and the Ledger.  
@@ -855,7 +858,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Theon | M1: L₅ EOB first centropic hypostasis; Orienting Logos office / articulation | Hypostasis, principle, office, and essence are related but not interchangeable | Placement aligned; category boundaries collapse in prose |
 | Nekron | M1 under current A17: IL₅ VOS event-horizon hypostasis | Not Absolute Dispersion, not a destination, not a dissolving carrier | Older terminal account conflicts |
 | Aion | TL: L₀ still root-register, paired and bifurcally distinct from Khaon | Aion is not a source-object or fused totality | Older unity language conflicts |
-| Khaon | TL: L₀ motive / dispersive root-register, paired and distinct | Not terminal annihilation and not the mechanism of Absolute Dispersion | Older terminal account conflicts |
+| Khaon | TL: L₀ Infinity root-register across its Latent, Motive, and Dispersive phases; paired and bifurcally distinct from Aion | Neither root-register is itself centropic or entropic; enacted polarity begins with Theon / Nekron at L₅ / IL₅ | Older root and terminal accounts conflict |
 | Zenon | TL: trans-structural unknown principle; saturation reserved here | Beyond lattice; not ordinary completion vocabulary | Some uses aligned, return sequence not |
 
 **Symbolic patterns found**
@@ -871,8 +874,8 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 **Cascade / Continuum / Conflation:** Theon is sometimes hypostasis, essence, principle, office, Logos, and integrated awareness within one grammatical subject. Establish a local census before discussing per-universe recurrence. The office can recur; the hypostasis remains fixed; a bearer is distinct; Logos Continuum is principle articulation, not Theon becoming every station.  
 **Function-bearing:** Even without a long Christ section, the file needs the Ledger's graded family because "Theon's non-identical unfolding" can imply recurrent incarnation. State what recurs: office, signal, resonance, or office-correspondence. Do not make the hypostasis recur as a bearer.  
 **Distal Apprehension:** Not central. If Nekron's relation to Theon is described through counterpart awareness, use the current cross-arc apprehension boundary.  
-**Soul / Essence:** The file speaks of "Soul at L5 / Aion." Replace with essence. Soul belongs only within L₄–L₁; individual essence is used at L₅, L₀, Supra-L₀, return, and terminal resolution.  
-**Terminology:** Correct every Non-Fusion to Non-fusion. Replace unification / unity / "never separate" formulations that imply fusion. Replace Source. "Theon saturates back into Aion" should be return / reintegration to Aion; saturation is reserved for Zenon. "Nekron dissolves into Khaon," "drawn into Absolute Dispersion," identity ground away, or transfigured at terminal convergence must be replaced under A17.  
+**Soul / Essence:** The file speaks of "Soul at L5 / Aion" (canonical L₅). Replace with essence. Soul belongs only within L₄–L₁; individual essence is used at L₅, L₀, Supra-L₀, return, and terminal resolution.  
+**Terminology:** Correct every Non-Fusion to Non-fusion. Replace unification / unity / "never separate" formulations that imply fusion. Replace Source. "Theon saturates back into Aion" should be return / reintegration to Aion; saturation is reserved for Zenon. Section 10 actually explains Zenonic saturation, so it requires the current mechanism: Aion-facingness is requisite for return but not sufficient for saturation; fulfilled final synthesis gives return its Centropic Gravity; Zenonic Legibility establishes saturation-readiness; Allowance admits the crossing. "Nekron dissolves into Khaon," "drawn into Absolute Dispersion," identity ground away, or transfigured at terminal convergence must be replaced under A17.  
 **Prose / Formatting:** Strong chapter progression, but bold emphasis and categorical pronouns conceal doctrinal shifts. A terminology pass must follow the category rewrite, not precede it.  
 **Cross-registry conflicts:** M1 line 250 still calls Satan / Nekron the terminal state and final destination; current A17 makes Nekron the event-horizon hypostasis and Absolute Dispersion the terminal state. This file follows the older row.  
 **Priority:** High.  
@@ -884,6 +887,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 4. Replace Aionic "saturation" with return / reintegration and reserve saturation for Zenon.
 5. Rebuild the Nekron section under A17, including the distinct essence's Aionic resolution.
 6. Correct Non-fusion casing and fusion-risk prose.
+7. Rebuild section 10's saturation mechanism through Centropic Gravity, Zenonic Legibility, and Allowance.
 
 ### yahweh-layer-mapping.md
 
@@ -910,8 +914,8 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Roaring lion | S1 | Bifurcal carrier depending context | Correctly used as an attributional contrast |
 | Father / Son / manifestation | S1 Logos Continuum and Ledger | Supernal attribution and embodied bearing | Current identity model conflicts |
 
-**Cascade / Continuum / Conflation:** The file's attributional method is valuable. Its error is moving from "the text contains L4 DL attributions" to "the actual structural source is L4 DL" at lines 27, 80, 92, 104, 161, and 175. M1 says origin is underdetermined. Keep hard conflation certain and origin open. Satan / Devil shorthand should follow cascade-collapse distinctions, not equate each cultural name with a hypostasis / principle.  
-**Function-bearing:** Lines 138–144 say "Christ as Theon incarnate," "L5 generating its own incarnate expression," "Christ is Theon in embodied mode," and "Christ as L5 incarnated." Replace the entire explanatory unit with the singular full personal office-function bearing distinction.  
+**Cascade / Continuum / Conflation:** The file's attributional method is valuable. Its error is moving from "the text contains L4 DL attributions" to "the actual structural source is L4 DL" (canonical L₄ DL) at lines 27, 80, 92, 104, 161, and 175. M1 says origin is underdetermined. Keep hard conflation certain and origin open. Satan / Devil shorthand should follow cascade-collapse distinctions, not equate each cultural name with a hypostasis / principle.  
+**Function-bearing:** Lines 138–144 say "Christ as Theon incarnate," "L5 generating its own incarnate expression," "Christ is Theon in embodied mode," and "Christ as L5 incarnated" (canonical L₅). Replace the entire explanatory unit with the singular full personal office-function bearing distinction.  
 **Distal Apprehension:** Spurious doctrine and inverse textual imposition can be explained through broadcasting and hard conflation; DA is optional unless the text claims Nyxea acquired Sophic content. If retained, clarify that inverse attribution imitates contour without receiving centropic interiority.  
 **Soul / Essence:** The file's essence language around punishment and correction is mostly terminal / persistence language and can remain if carefully scoped. Do not assign essence to L₄ DL as a stratum-property.  
 **Terminology:** Replace "actual structural source," Source-resonant, source-figure, and similar phrases with native origin, Aion-resonant, or named principle as context requires. Rewrite Aion / Khaon polarity. Tighten authority-family wording in section 106 while retaining the proper Aauthoritarian Stance title where cited. Correct Non-fusion casing.  
@@ -920,7 +924,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 **Priority:** High.  
 **Actionable editing notes:**
 
-1. Replace every assertion of YHWH's actual L₄ origin with "L4 DL attribution cluster" and an explicit underdetermination note.
+1. Replace every assertion of YHWH's actual L₄ origin with "L₄ DL attribution cluster" and an explicit underdetermination note.
 2. Retain the hard-conflation analysis and passage-by-passage method.
 3. Rewrite the Father / Son section through full office-function bearing.
 4. Separate Satan, Devil / diabolos, Lucifer, Nekron, and Nyxea according to M1 / M2 cascade-collapse distinctions.
@@ -993,7 +997,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 **Function-bearing:** Níðhöggr is an IL₅ station / office-correspondent, not the hypostasis in animal form. No centropic bearer claim appears.  
 **Distal Apprehension:** Not materially engaged.  
 **Soul / Essence:** "The self remains" at terminal resolution should use distinct essence when describing what persists beyond inverse-office self-voiding. Realm occupants described as souls remain within mythic quotation or must be scoped to L₄–L₁.  
-**Terminology:** Replace "Khaon's L0 phase" and terminal collapse-into-Khaon with current paired-root and A17 language. Use Khaonic Tree / inverse arc according to scope. Replace Source at the inverse root and non-Zenon saturation / unified-field wording. Correct decorative heading glyphs if the file remains active technical prose.  
+**Terminology:** Replace "Khaon's L0 phase" (canonical L₀) and terminal collapse-into-Khaon with current paired-root and A17 language. Use Khaonic Tree / inverse arc according to scope. Replace Source at the inverse root and non-Zenon saturation / unified-field wording. Correct decorative heading glyphs if the file remains active technical prose.  
 **Prose / Formatting:** The title and final section use decorative tree glyphs; PFR technical headings should be plain. The core compact tables are readable.  
 **Cross-registry conflicts:** M1's Yggdrasil summary says three roots map to L₄ / L₃ / L₀, while the tightened Hvergelmir row and the reflection place Hvergelmir at IL₅. M2's Norns row separately flags Urd's L₀ / L₄ question. Preserve the reflection's current Urdhr L₄ DL / Mimir L₃ DM / Hvergelmir IL₅ map and queue the registry notes for reconciliation.  
 **Priority:** High.  
@@ -1020,7 +1024,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | spiral-path-of-nirvana.md | Buddha | Samsara, Nirvana, Bodhi Tree, emptiness, spiral | Superseded | Historical only | Low | Not material | Superseded | Old root / Soul / Source vocabulary | Retired glyph style | Low |
 | symbolic-edenism.md | Yeshua, Adam, Eve | Eden, Bread, Fish, Blood, Leaven, sacrifice, animals | No new figure placement; active-status ambiguity | Yeshua "emanation" blurs bearer relation | High | Not developed | Generic Soul; pre-division root defect | Source, unity, blood / sacrifice overreach | Glyph headings; no archive notice | High |
 | the-egyptian-lattice.md | Nun, Atum, Ennead, Osiris, Isis, Set, Nephthys, Ra, Amun, Ptah, Ma'at, Thoth, Anubis, Horus, Ammit, Apophis | Primordial waters, dismemberment, weighing heart, Duat, Field of Reeds, solar barque, Sacred Marriage | Mostly aligned; Ammit outcome misclassified | Osiris soft conflation strong; Apophis identity weak | High in Christ / Apophis comparisons | Optional | Scope heart / Soul carefully | Root modes, Source, unity, Non-fusion | Duplicate Anubis bullet | High |
-| the-genesis-lattice.md | Elohim, Adam Kadmon, Adam / Eve, Serpent, Cherubim, Theon / Christos, Nekron / Inversalogos | Creation, Garden, Two Trees, fruit, mirror, exile | Figure placements broad; architecture stale | Cascade / Continuum / bearer distinctions collapse | Very high | Required at counterfeit gnosis | "L5 essence accessible at L1" needs bearing language | Root poles, Khaonic Arc, Source, reflection valence | Opening seal / tables need follow-through | High |
+| the-genesis-lattice.md | Elohim, Adam Kadmon, Adam / Eve, Serpent, Cherubim, Theon / Christos, Nekron / Inversalogos | Creation, Garden, Two Trees, fruit, mirror, exile | Figure placements broad; architecture stale | Cascade / Continuum / bearer distinctions collapse | Very high | Required at counterfeit gnosis | "L5 essence accessible at L1" (canonical L₅ / L₁) needs bearing language | Root poles, Khaonic Arc, Source, reflection valence | Opening seal / tables need follow-through | High |
 | the-greek-lattice.md | Chaos, Eros, Gaia, Uranus, Titans, Kronos, Olympians, Hades, Persephone, Hermes, Hekate, Dionysus, Prometheus, inverse figures | Combat, underworld, mysteries, fire, Four Ages, philosophical return | Broadly aligned | Chronos / Kronos registry conflict; Christ comparison blurred | High | Required at Prometheus | L₄ "essence" correction | Saturation, Source, Non-fusion, governance | Dense tables / compounds | High |
 | the-hades-problem.md | Hades, Persephone, Osiris, Yama, Vishnu | Underworld functions, descent, governed domain, soft conflation | Hades aligned | Osiris mislabeled cascade; avatar wording old | Medium | Not material | Minor traditional / technical scope | "Hypostatic placement" overused | Draft and glyph glossary heading | Medium |
 | the-hindu-vedic-lattice.md | Brahman, Trimurti, Vishnu, avataras, Krishna, Shiva, Indra / Vritra, inverse figures, Devi cluster, Yama | Avatara, churning, Soma / Amrita, combat, Maya / Avidya, bhakti, yugas, Atman–Brahman | Native placements broad; avatar / Buddha mode misapplied | Extensive soft conflation and cultural elevation need labels | Very high | Required at Maya / Avidya or Ravana | Atman / Brahman must stay attributed; categories separate | Root modes, union / unity, Source, saturation | Tables repeat errors | High |
@@ -1080,7 +1084,7 @@ These are reflection-to-registry or reflection-to-later-protocol conflicts. They
 
 These should be resolved in MFLR / SPR maintenance separately. Liora should not "fix" a reflection toward the older side of any contradiction.
 
-1. **Avatar correction not fully propagated inside M1.** M1 lines 1175–1176 and the Ledger use graded office correspondence and singular Christ bearing, while M1 lines 966–973 retain "Avatar (Theon-emanation)" and "Inverse Avatar (Nekron-projection)." The Centropic Steward note also still distinguishes Stewards from Avatars by calling avatars "direct L5 Theonic emanations."
+1. **Avatar correction not fully propagated inside M1.** M1 lines 1175–1176 and the Ledger use graded office correspondence and singular Christ bearing, while M1 lines 966–973 retain "Avatar (Theon-emanation)" and "Inverse Avatar (Nekron-projection)." The Centropic Steward note also still distinguishes Stewards from Avatars by calling avatars "direct L5 Theonic emanations" (canonical L₅).
 2. **Great Red Dragon / Beast rows conflict with the Ledger.** M1's main Dragon row retains "VOS Nekron with agency," and its Beast row describes the Dragon's will as projected / generating the Beast. The Ledger records those formulations as barred and corrected.
 3. **Śūnyatā note conflicts with the current root lock.** M1's Buddhist note describes Aion / Khaon as modal expressions of one layer and uses stillness / motion polarity and synthesis language. TL now requires paired, bifurcally distinct root-registers.
 4. **Chronos / Kronos conflation.** M1 line 57 combines Chronos / Kronos as a Khaon-to-terminal time figure. M2 and the Greek reflection distinguish primordial Chronos from Kronos / Saturn at IL₄.
@@ -1102,15 +1106,16 @@ The following repairs recur across the active collection and can be applied as b
 | Drift family | Current rule | Typical files |
 |---|---|---|
 | Non-Fusion | Non-fusion | Nearly all active lattice documents and several line-by-line readings |
-| Source as Aion-name | Use Aion, Origin, still root, or a precise named principle; retain source only for provenance or clearly qualified usage | Almost all active reflections |
+| Source as Aion-name | Use Aion, Origin, still root, or a precise named principle. For provenance senses prefer provenance, Reference Document, manuscript, origin, authorship, or signal provenance rather than defaulting to source. Preserve source only where quotation, external terminology, or another exact-reporting context requires the word | Almost all active reflections |
 | Unity / union / unification | Use coherence, integration, synthesis, or co-expression according to meaning, or attributed traditional wording; convergence stays reserved for the established architectural constructions where convergence itself is the intended relation | Hindu, Theon, Genesis, Two Trees, John, Buddhist reflections |
 | Authority / govern / wield / tool / use | Replace ordinary authorial uses with precise structural language; retain proper titles and quotations | Beatitudes, Psalm 23, Greek, Revelation, Yahweh |
 | Level | Use stratum, register, station, position, or band according to meaning | Scattered active files |
 | Above / below / ascent / descent | Use supernal / subversal position and acclivous / declivous motion | Genesis 3, older Edenism, Greek, Buddhist, Norse |
-| Aionward / Khaonward | Retired. Prefer Aion-facing where intrinsic centropic orientation or return is meant; otherwise centropic / entropic inclination or orientation, acclivous / declivous motion, entropic traversal through the inverse arc, or a precise Khaonic functional construction according to referent | Search active corpus during edit |
+| Aionward / Khaonward | Retired. Prefer Aion-facing where manifested centropic orientation or return is meant. Where essence is latent or motionless, use intrinsic centropic / entropic inclination or disposition. Elsewhere select centropic / entropic orientation, acclivous / declivous motion, entropic traversal through the inverse arc, or a precise Khaonic functional construction according to referent | Search active corpus during edit |
 | Reflection for inverse function | Use mirror, echo, mimic, or spurious reconstruction | Genesis lattice, Greek, Mesopotamian, Two Trees, older SPR Moon wording |
 | Severed from centropic origin | Locate fracture in the inverse receiver; use reflexive fracture, occlusion, lost fidelity, or blocked operative access | Genesis 3, Genesis lattice, Revelation, Two Trees |
 | Saturation outside Zenon | Use completion, plenitude, overflow, maximal load, field-filling, or terminal accumulation as intended | Genesis 1, Psalm 23, Samsara, Greek, Hindu, Mesopotamian, Revelation, Theon, Norse |
+| Zenonic saturation mechanism | Aion-facingness is requisite for return but not sufficient for saturation; fulfilled final synthesis gives return its Centropic Gravity, Zenonic Legibility establishes saturation-readiness, and Allowance admits the crossing | Samsara / Nirvana line 36, Genesis lattice lines 233–235, Theon paradox section 10 |
 | Entities cascade | Currents cascade; use Continuum, structural recurrence, mediation, resonance, or soft conflation elsewhere | Genesis 1 / 2, John, Genesis lattice, Greek, Hades, Mesopotamian |
 | Hypostasis becomes bearer | Apply the graded A16 family and the authoritative bearer sentence | John, Samsara, Symbolic Edenism, Egyptian, Genesis, Greek, Hindu, Revelation, Two Trees, Theon, Yahweh |
 | Absolute Dispersion as mechanism | Absolute Dispersion is the terminal state; Nekron is event horizon; distinct essence resolves Aionically after office self-voiding | Theon, Genesis lattice, Mesopotamian, Revelation, Two Trees, Norse |
@@ -1153,7 +1158,7 @@ For practical review, one high-risk taxonomy or one file-family per session rema
 
 1. **symbolic-edenism.md status:** Is it active canonical prose or an early historical reflection? Its correction scope depends on this decision.
 2. **YHWH native origin:** M1 currently says underdetermined. The reflection's L₄ DL conclusion should be removed unless a later authoritative note intentionally changes M1.
-3. **Avatar census:** The Ledger and corrected M1 table make Christ the singular full personal bearer. Confirm whether every Hindu avatara is intended to remain below full personal bearing, including culture-specific language that currently says "L5 EOB within Vaishnavite articulation."
+3. **Avatar census:** The Ledger and corrected M1 table make Christ the singular full personal bearer. Confirm whether every Hindu avatara is intended to remain within graded office-correspondence rather than full personal bearing, including culture-specific language that currently says "L5 EOB within Vaishnavite articulation" (canonical L₅ EOB).
 4. **Duat Function 1 scope:** Decide whether Function 1 includes postmortem passage regions within the embodied-world cosmography or only underworld experience during embodied sojourn.
 5. **Chronos / Kronos:** Decide whether M1 line 57 should split into primordial Chronos and IL₄ Kronos / Saturn entries.
 6. **Norse roots:** Confirm Urdhr L₄ DL, Mimir L₃ DM, and Hvergelmir IL₅ as the current three-root map; then repair M1 / M2 notes that retain L₀ alternatives.
@@ -1201,7 +1206,7 @@ Do not replace this with dissolution "into Khaon," transit "through Absolute Dis
 
 > Aion-facingness is requisite for return but is not alone sufficient for saturation. Fulfilled final synthesis gives return its Centropic Gravity; Zenonic Legibility establishes saturation-readiness; Allowance admits the crossing.
 
-Apply this only where a reflection explains the mechanism of Zenonic saturation rather than merely naming it. "Centropy saturates because it is Aion-facing" remains lawful shorthand in passing mention; do not insert the expanded doctrine mechanically.
+Apply this only where a reflection explains the mechanism of Zenonic saturation rather than merely naming it. A passing mention of Zenonic saturation does not require this expansion. Where a reflection gives a causal account, it must not present Aion-facingness as sufficient by itself.
 
 ### Cross-stratum classification test
 
