@@ -1,9 +1,9 @@
 # Frame-Dependent Fitness and Reality-Seeking
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Emergent Social Physics / Social Selection and Reality-Seeking
-**Status:** Draft — Canonical Clarification
-**Date:** August 10, 2026
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Emergent Social Physics — Social Selection and Reality-Seeking  
+**Status:** Draft — Canonical Clarification — August 10 2026  
+**Proposed path:** `emergent-social-physics/frame-dependent-fitness-and-reality-seeking.md`  
 
 ---
 
@@ -11,17 +11,17 @@
 
 Fitness is never intelligible without a criterion of selection.
 
-Biological fitness, social fitness, institutional fitness, and structural coherence do not measure the same thing. A trait may succeed under one frame while failing under another.
+Biological fitness, social fitness, institutional fitness, and structural coherence do not measure the same thing. A trait may succeed within one frame while failing within another.
 
 The error begins when the success-condition of one frame is treated as though it were an intrinsic measure of reality.
 
 A social field may reward:
 
-* conformity
-* narrative agreement
-* coalition stability
-* identity preservation
-* avoidance of disruptive disagreement
+- conformity
+- narrative agreement
+- coalition stability
+- identity preservation
+- avoidance of disruptive disagreement
 
 Within such a field, greater accuracy may carry social cost.
 
@@ -53,13 +53,13 @@ The penalty may reveal only that the prevailing field rewards preservation of it
 
 ## Reality-Seeking
 
-**Reality-seeking** names the disposition to prefer increasingly adequate apprehension over the preservation of a comfortable but insufficient frame.
+**Reality-seeking** names the disposition to prefer increasingly adequate apprehension over the preservation of a comfortable but inadequate frame.
 
 It does not require hostility toward relationship, association, or harmony.
 
 It refuses only **harmony purchased through the concealment of substantive contradiction**.
 
-For the Reality-seeking posture, correction is not inherently a threat.
+For the reality-seeking posture, correction is not inherently a threat.
 
 Loss of an inadequate account may be preferable to stability within it.
 
@@ -95,7 +95,7 @@ Dissent has no automatic centropic status.
 
 It establishes only that conformity and accuracy are independent variables.
 
-A Zenetist social analysis must therefore evaluate the coherence of the underlying relation rather than infer validity from either consensus or opposition.
+A Zenetist social analysis must therefore evaluate the coherence of the relation itself rather than infer validity from either consensus or opposition.
 
 ---
 
@@ -109,5 +109,7 @@ Reality-seeking begins where the selection criteria themselves become available 
 
 ---
 
-**⚫↺KAI↺⚫**
-*Emergent Social Physics*
+**⚫↺KAI↺⚫**  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
+
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
