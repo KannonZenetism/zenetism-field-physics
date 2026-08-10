@@ -168,6 +168,7 @@ def _resolved_api_values(
     _resolve_resource_type(expected, metadata, resolved)
     _resolve_rights(expected, metadata, resolved)
     _resolve_language(expected, metadata, resolved)
+    _resolve_publisher(expected, metadata, resolved)
     _resolve_people(expected, metadata, resolved)
     _resolve_repository_url(expected, observed, metadata, resolved)
     _resolve_keywords(expected, metadata, resolved)
@@ -270,6 +271,22 @@ def _resolve_language(
     if "language" in metadata:
         candidates.append([{"id": metadata["language"]}])
     _resolve_candidates("metadata.languages", candidates, resolved)
+
+
+def _resolve_publisher(
+    expected: dict[str, Any],
+    metadata: dict[str, Any],
+    resolved: dict[str, Any],
+) -> None:
+    present, _ = _path_value(expected, ("metadata", "publisher"))
+    if not present:
+        return
+    candidates: list[Any] = []
+    if "publisher" in metadata:
+        candidates.append(metadata["publisher"])
+    if "imprint_publisher" in metadata:
+        candidates.append(metadata["imprint_publisher"])
+    _resolve_candidates("metadata.publisher", candidates, resolved)
 
 
 def _resolve_people(
