@@ -74,6 +74,7 @@ def serialize_sandbox_draft(
     metadata = {
         "resource_type": {"id": _string(resource_type, "id")},
         "title": _string(metadata_source, "title"),
+        "publisher": _string(metadata_source, "publisher"),
         "publication_date": _string(zenodo, "publication_date"),
         "creators": [_creator(creator)],
         "contributors": [_contributor(item) for item in contributors],

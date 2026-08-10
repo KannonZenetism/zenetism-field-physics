@@ -233,6 +233,7 @@ class ProductionDraftSafetyTests(unittest.TestCase):
             "custom_fields": None,
             "metadata": {
                 "title": metadata["title"],
+                "publisher": "Zenodo",
                 "publication_date": metadata["publication_date"],
                 "creators": [
                     {"name": "Aelion Kannon", "affiliation": None}
@@ -910,6 +911,74 @@ class ProductionDraftSafetyTests(unittest.TestCase):
             states["metadata.copyright"], VISUAL_VERIFICATION_REQUIRED
         )
         self.assertFalse(report.complete)
+
+    def test_v9_publisher_is_explicit_and_api_validated(self) -> None:
+        expected, observed = self.legacy_v9_readback()
+        self.assertEqual(expected["metadata"]["publisher"], "Zenodo")
+
+        missing_manifest = copy.deepcopy(self.two_state_manifest)
+        del missing_manifest["candidate"]["metadata"]["publisher"]
+        with self.assertRaises(ProductionPlanError):
+            self.plan_two_state(
+                manifest=missing_manifest,
+                family=self.live_family,
+            )
+
+        report = validate_production_metadata(
+            expected, observed, draft_id="21869733"
+        )
+        states = {item.field: item.state for item in report.fields}
+        self.assertEqual(states["metadata.publisher"], PASSED_API)
+
+        missing = copy.deepcopy(observed)
+        del missing["metadata"]["publisher"]
+        with self.assertRaises(ProductionValidationError):
+            validate_production_metadata(
+                expected, missing, draft_id="21869733"
+            )
+
+        incorrect = copy.deepcopy(observed)
+        incorrect["metadata"]["publisher"] = "Aelion Kannon"
+        with self.assertRaises(ProductionValidationError):
+            validate_production_metadata(
+                expected, incorrect, draft_id="21869733"
+            )
+
+    def test_external_publisher_continuation_must_remain_explicit(self) -> None:
+        manifest = copy.deepcopy(self.two_state_manifest)
+        baseline_metadata = manifest["published_baseline"]["zenodo"]["metadata"]
+        candidate_metadata = manifest["candidate"]["metadata"]
+        baseline_metadata["publisher"] = "External Academic Press"
+        candidate_metadata["publisher"] = "External Academic Press"
+        plan = ProductionDraftPlanner().plan(
+            manifest,
+            repository_root=ROOT,
+            registry_path=REGISTRY_PATH,
+            family_observation=self.live_family,
+            intent={
+                "route": "new-version",
+                "record_key": "prose-formatting-reference",
+                "next_version": "v9",
+            },
+        )
+        self.assertEqual(
+            plan.metadata_payload["metadata"]["publisher"],
+            "External Academic Press",
+        )
+
+        candidate_metadata["publisher"] = "Zenodo"
+        with self.assertRaises(ProductionPlanError):
+            ProductionDraftPlanner().plan(
+                manifest,
+                repository_root=ROOT,
+                registry_path=REGISTRY_PATH,
+                family_observation=self.live_family,
+                intent={
+                    "route": "new-version",
+                    "record_key": "prose-formatting-reference",
+                    "next_version": "v9",
+                },
+            )
 
     def test_api_visible_validation_remains_fail_closed(self) -> None:
         expected = {
