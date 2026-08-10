@@ -17,6 +17,7 @@ from .errors import (
     ProductionFamilyError,
     ProductionRequestError,
     ProductionSafetyError,
+    ProductionValidationError,
 )
 from .production_boundary import (
     PRODUCTION_REQUIRED_SCOPES,
@@ -40,6 +41,7 @@ from .production_validation import (
 )
 
 _NUMERIC_ID = re.compile(r"[0-9]+")
+_ZENODO_EXACT_DOI = re.compile(r"10\.5281/zenodo\.[0-9]+")
 _EXACT_DOI_PATHS = ("doi", "metadata.doi", "pids.doi.identifier")
 _CONCEPT_DOI_PATHS = (
     "conceptdoi",
@@ -81,6 +83,10 @@ class ProductionDraftTransport(Protocol):
     def upload_approved_archival_file(self, plan: ProductionDraftPlan) -> None: ...
 
     def save_approved_metadata(self, plan: ProductionDraftPlan) -> None: ...
+
+    def reserve_bound_draft_doi(
+        self, plan: ProductionDraftPlan
+    ) -> dict[str, Any]: ...
 
 
 @dataclass(frozen=True)
@@ -193,6 +199,20 @@ class ProductionDraftExecutor:
             initial_draft = self._transport.reload_bound_draft(plan)
             _require_bound_unpublished_draft(plan, bound_recovery, initial_draft)
             file_state = _classify_file_state(plan, initial_draft)
+            metadata_already_validated = False
+            if file_state == "approved":
+                try:
+                    validate_production_metadata(
+                        plan.metadata_payload,
+                        initial_draft,
+                        draft_id=bound_recovery.draft_id,
+                    )
+                    metadata_already_validated = True
+                except ProductionValidationError as exc:
+                    if not str(exc).startswith(
+                        "production metadata read-back validation failed:"
+                    ):
+                        raise
 
             if file_state == "inherited":
                 self._transport.delete_inherited_archival_file(plan)
@@ -202,7 +222,8 @@ class ProductionDraftExecutor:
                 self._transport.upload_approved_archival_file(plan)
                 self._transport.reload_bound_draft_files(plan)
 
-            self._transport.save_approved_metadata(plan)
+            if not metadata_already_validated:
+                self._transport.save_approved_metadata(plan)
 
             final_legacy_draft = self._transport.reload_bound_legacy_draft(plan)
             _require_bound_unpublished_draft(
@@ -211,11 +232,42 @@ class ProductionDraftExecutor:
             final_draft = self._transport.reload_bound_draft(plan)
             _require_bound_unpublished_draft(plan, bound_recovery, final_draft)
             _require_approved_file(plan, final_draft)
-            exact_version_doi = _supported_doi(
+            exact_version_doi = _reconciled_draft_doi(
+                final_legacy_draft,
                 final_draft,
-                _EXACT_DOI_PATHS,
-                "production draft exact-version DOI",
+                required=False,
             )
+            if exact_version_doi is None:
+                reservation = self._transport.reserve_bound_draft_doi(plan)
+                final_legacy_draft = self._transport.reload_bound_legacy_draft(plan)
+                _require_bound_unpublished_draft(
+                    plan, bound_recovery, final_legacy_draft
+                )
+                final_draft = self._transport.reload_bound_draft(plan)
+                _require_bound_unpublished_draft(
+                    plan, bound_recovery, final_draft
+                )
+                _require_approved_file(plan, final_draft)
+                reserved_response_doi = _reconciled_draft_doi(
+                    reservation,
+                    required=False,
+                )
+                exact_version_doi = _reconciled_draft_doi(
+                    final_legacy_draft,
+                    final_draft,
+                    required=True,
+                )
+                if (
+                    reserved_response_doi is not None
+                    and reserved_response_doi != exact_version_doi
+                ):
+                    raise ProductionFamilyError(
+                        "production DOI reservation response conflicts with draft read-back"
+                    )
+            if exact_version_doi is None:
+                raise ProductionFamilyError(
+                    "production draft exact-version DOI remains unavailable"
+                )
             if exact_version_doi in {
                 plan.family.concept_doi,
                 plan.family.latest.exact_version_doi,
@@ -254,6 +306,7 @@ class _RequestKind(str, Enum):
     WRITE_APPROVED_FILE = "write_approved_file"
     COMPLETE_APPROVED_FILE = "complete_approved_file"
     SAVE_APPROVED_METADATA = "save_approved_metadata"
+    RESERVE_DRAFT_DOI = "reserve_draft_doi"
 
 
 _ENDPOINT_RULES: dict[_RequestKind, tuple[str, re.Pattern[str]]] = {
@@ -305,6 +358,10 @@ _ENDPOINT_RULES: dict[_RequestKind, tuple[str, re.Pattern[str]]] = {
     _RequestKind.SAVE_APPROVED_METADATA: (
         "PUT",
         re.compile(r"/api/records/[0-9]+/draft"),
+    ),
+    _RequestKind.RESERVE_DRAFT_DOI: (
+        "POST",
+        re.compile(r"/api/records/[0-9]+/draft/pids/doi"),
     ),
 }
 
@@ -358,10 +415,13 @@ class UrllibProductionDraftTransport:
         self._new_version_created = False
         self._legacy_draft_verified = False
         self._modern_draft_verified = False
+        self._last_legacy_draft: dict[str, Any] | None = None
+        self._last_modern_draft: dict[str, Any] | None = None
         self._last_root_files: object = None
         self._file_state: str | None = None
         self._approved_file_initialized = False
         self._approved_file_written = False
+        self._doi_reservation_attempted = False
 
     @classmethod
     def from_environment(cls, *, timeout: float = 30.0) -> "UrllibProductionDraftTransport":
@@ -514,6 +574,7 @@ class UrllibProductionDraftTransport:
         )
         recovery = self._require_recovery()
         _require_bound_unpublished_draft(plan, recovery, value)
+        self._last_legacy_draft = deepcopy(value)
         self._legacy_draft_verified = True
         return value
 
@@ -528,6 +589,7 @@ class UrllibProductionDraftTransport:
         )
         recovery = self._require_recovery()
         _require_bound_unpublished_draft(plan, recovery, value)
+        self._last_modern_draft = deepcopy(value)
         self._last_root_files = deepcopy(value.get("files"))
         self._modern_draft_verified = True
         files = self.reload_bound_draft_files(plan)
@@ -624,6 +686,35 @@ class UrllibProductionDraftTransport:
                 "PUT",
                 f"/api/records/{draft_id}/draft",
                 json_body=plan.metadata_payload,
+            )
+        )
+
+    def reserve_bound_draft_doi(
+        self, plan: ProductionDraftPlan
+    ) -> dict[str, Any]:
+        draft_id = self._require_write_ready(plan)
+        if self._file_state != "approved":
+            raise ProductionSafetyError(
+                "production DOI reservation requires the approved archival payload"
+            )
+        if self._doi_reservation_attempted:
+            raise ProductionSafetyError(
+                "production transport cannot attempt a second DOI reservation"
+            )
+        if _reconciled_draft_doi(
+            self._last_legacy_draft,
+            self._last_modern_draft,
+            required=False,
+        ) is not None:
+            raise ProductionSafetyError(
+                "production draft already contains an explicit exact-version DOI"
+            )
+        self._doi_reservation_attempted = True
+        return self._send(
+            _BoundProductionRequest(
+                _RequestKind.RESERVE_DRAFT_DOI,
+                "POST",
+                f"/api/records/{draft_id}/draft/pids/doi",
             )
         )
 
@@ -731,6 +822,8 @@ class UrllibProductionDraftTransport:
             with self._opener.open(request, timeout=self._timeout) as response:
                 raw = response.read()
         except urllib.error.HTTPError as exc:
+            if _is_existing_doi_reservation_error(request_value, exc):
+                return {}
             raise ProductionRequestError(
                 f"production {request_value.method} {request_value.path} returned HTTP {exc.code}"
             ) from None
@@ -841,6 +934,9 @@ class UrllibProductionDraftTransport:
             _RequestKind.SAVE_APPROVED_METADATA: (
                 f"/api/records/{draft_id}/draft"
             ),
+            _RequestKind.RESERVE_DRAFT_DOI: (
+                f"/api/records/{draft_id}/draft/pids/doi"
+            ),
         }
         if request_value.path != draft_paths.get(request_value.kind):
             raise ProductionSafetyError(
@@ -852,6 +948,7 @@ class UrllibProductionDraftTransport:
             _RequestKind.WRITE_APPROVED_FILE,
             _RequestKind.COMPLETE_APPROVED_FILE,
             _RequestKind.SAVE_APPROVED_METADATA,
+            _RequestKind.RESERVE_DRAFT_DOI,
         }
         if request_value.kind not in mutation_kinds:
             return
@@ -881,6 +978,16 @@ class UrllibProductionDraftTransport:
             if not self._approved_file_written:
                 raise ProductionSafetyError(
                     "production file completion requires the approved payload write"
+                )
+        elif request_value.kind is _RequestKind.RESERVE_DRAFT_DOI:
+            if (
+                self._file_state != "approved"
+                or request_value.json_body is not None
+                or request_value.binary_body is not None
+                or not self._doi_reservation_attempted
+            ):
+                raise ProductionSafetyError(
+                    "production DOI reservation differs from the bound draft-only operation"
                 )
         elif (
             self._file_state != "approved"
@@ -1410,7 +1517,10 @@ def _require_approved_file(
         raise ProductionSafetyError(
             "production draft default Preview differs from the approved archival file"
         )
-    if files.get("order") != [plan.archival_copy.archival_filename]:
+    if files.get("order") not in (
+        [],
+        [plan.archival_copy.archival_filename],
+    ):
         raise ProductionSafetyError(
             "production draft file order differs from the approved archival file"
         )
@@ -1530,6 +1640,69 @@ def _safe_result(value: dict[str, Any]) -> dict[str, Any]:
             f"{production_environment().api_base}/deposit/depositions/{latest_draft}"
         )
     return result
+
+
+def _reconciled_draft_doi(
+    *values: object,
+    required: bool,
+) -> str | None:
+    observed: list[str] = []
+    for value in values:
+        if value is None:
+            continue
+        if not isinstance(value, dict):
+            raise ProductionFamilyError(
+                "production draft DOI evidence must contain JSON objects"
+            )
+        for candidate in _available_supported_values(value, _EXACT_DOI_PATHS):
+            if (
+                not isinstance(candidate, str)
+                or _ZENODO_EXACT_DOI.fullmatch(candidate) is None
+            ):
+                raise ProductionFamilyError(
+                    "production draft DOI evidence contains an unsupported value"
+                )
+            observed.append(candidate)
+    if not observed:
+        if required:
+            raise ProductionFamilyError(
+                "production draft exact-version DOI is missing from supported paths"
+            )
+        return None
+    if len(set(observed)) != 1:
+        raise ProductionFamilyError(
+            "production draft contains conflicting exact-version DOI representations"
+        )
+    return observed[0]
+
+
+def _is_existing_doi_reservation_error(
+    request_value: _BoundProductionRequest,
+    error: urllib.error.HTTPError,
+) -> bool:
+    if (
+        request_value.kind is not _RequestKind.RESERVE_DRAFT_DOI
+        or error.code != 400
+    ):
+        return False
+    try:
+        decoded = json.loads(error.read())
+    except (UnicodeDecodeError, json.JSONDecodeError, OSError):
+        return False
+    if not isinstance(decoded, dict) or decoded.get("status") != 400:
+        return False
+    errors = decoded.get("errors")
+    if not isinstance(errors, list):
+        return False
+    for item in errors:
+        if not isinstance(item, dict) or item.get("field") != "pids.doi":
+            continue
+        messages = item.get("messages")
+        if isinstance(messages, list) and messages == [
+            "A PID already exists for type doi"
+        ]:
+            return True
+    return False
 
 
 def _available_supported_values(

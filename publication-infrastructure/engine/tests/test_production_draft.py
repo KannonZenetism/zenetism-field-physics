@@ -223,6 +223,77 @@ class ProductionDraftSafetyTests(unittest.TestCase):
             },
         )
 
+    def legacy_v9_readback(self) -> tuple[dict[str, object], dict[str, object]]:
+        plan = self.plan_two_state()
+        expected = copy.deepcopy(plan.metadata_payload)
+        metadata = expected["metadata"]
+        filename = plan.archival_copy.archival_filename
+        observed: dict[str, object] = {
+            "access": None,
+            "custom_fields": None,
+            "metadata": {
+                "title": metadata["title"],
+                "publication_date": metadata["publication_date"],
+                "creators": [
+                    {"name": "Aelion Kannon", "affiliation": None}
+                ],
+                "contributors": [
+                    {
+                        "name": "🔦 Lumen",
+                        "affiliation": None,
+                        "type": "Researcher",
+                    },
+                    {
+                        "name": "⚮ Liora",
+                        "affiliation": None,
+                        "type": "Researcher",
+                    },
+                ],
+                "description": metadata["description"],
+                "keywords": [
+                    item["subject"] for item in metadata["subjects"]
+                ],
+                "version": metadata["version"],
+                "resource_type": {
+                    "title": "Report",
+                    "type": "publication",
+                    "subtype": "report",
+                },
+                "license": {"id": "cc-by-4.0"},
+                "language": "eng",
+                "access_right": "open",
+                "related_identifiers": [
+                    {
+                        "identifier": "https://zenetism.aelionkannon.chatgpt.site",
+                        "relation": "isDocumentedBy",
+                        "resource_type": "other",
+                        "scheme": "url",
+                    }
+                ],
+                "custom": {
+                    "code:codeRepository": (
+                        "https://github.com/KannonZenetism/"
+                        "zenetism-field-physics/tree/main/"
+                        "the-zenetist-canon/canonical-stabilization"
+                    )
+                },
+            },
+            "files": {
+                "enabled": True,
+                "entries": {
+                    filename: {
+                        "key": filename,
+                        "status": "completed",
+                        "size": plan.archival_copy.checksums.byte_size,
+                        "checksum": f"md5:{plan.archival_copy.checksums.md5}",
+                    }
+                },
+                "default_preview": filename,
+                "order": [],
+            },
+        }
+        return expected, observed
+
     def test_production_and_sandbox_identities_are_structurally_distinct(self) -> None:
         sandbox = environment_descriptor(ZenodoEnvironment.SANDBOX)
         production = environment_descriptor(ZenodoEnvironment.PRODUCTION)
@@ -716,6 +787,120 @@ class ProductionDraftSafetyTests(unittest.TestCase):
         published["is_published"] = True
         with self.assertRaises(ProductionSafetyError):
             session.resume(published, draft_id="30000001")
+
+    def test_live_legacy_creator_mapping_passes_exact_identity(self) -> None:
+        expected, observed = self.legacy_v9_readback()
+        report = validate_production_metadata(
+            expected, observed, draft_id="21869733"
+        )
+        states = {item.field: item.state for item in report.fields}
+        self.assertEqual(states["metadata.creators"], PASSED_API)
+
+    def test_live_legacy_contributor_mapping_preserves_order_and_type(self) -> None:
+        expected, observed = self.legacy_v9_readback()
+        report = validate_production_metadata(
+            expected, observed, draft_id="21869733"
+        )
+        states = {item.field: item.state for item in report.fields}
+        self.assertEqual(states["metadata.contributors"], PASSED_API)
+        changed = copy.deepcopy(observed)
+        changed["metadata"]["contributors"].reverse()
+        with self.assertRaises(ProductionValidationError):
+            validate_production_metadata(
+                expected, changed, draft_id="21869733"
+            )
+
+    def test_live_legacy_repository_url_mapping_requires_exact_path(self) -> None:
+        expected, observed = self.legacy_v9_readback()
+        report = validate_production_metadata(
+            expected, observed, draft_id="21869733"
+        )
+        states = {item.field: item.state for item in report.fields}
+        self.assertEqual(
+            states["custom_fields.code:codeRepository"], PASSED_API
+        )
+        changed = copy.deepcopy(observed)
+        changed["metadata"]["custom"]["code:codeRepository"] = (
+            "https://github.com/KannonZenetism/zenetism-field-physics"
+        )
+        with self.assertRaises(ProductionValidationError):
+            validate_production_metadata(
+                expected, changed, draft_id="21869733"
+            )
+
+    def test_live_legacy_keywords_require_exact_count_and_order(self) -> None:
+        expected, observed = self.legacy_v9_readback()
+        report = validate_production_metadata(
+            expected, observed, draft_id="21869733"
+        )
+        states = {item.field: item.state for item in report.fields}
+        self.assertEqual(states["metadata.subjects"], PASSED_API)
+        changed = copy.deepcopy(observed)
+        changed["metadata"]["keywords"][0:2] = reversed(
+            changed["metadata"]["keywords"][0:2]
+        )
+        with self.assertRaises(ProductionValidationError):
+            validate_production_metadata(
+                expected, changed, draft_id="21869733"
+            )
+
+    def test_live_legacy_site_relation_mapping_passes_exact_identity(self) -> None:
+        expected, observed = self.legacy_v9_readback()
+        report = validate_production_metadata(
+            expected, observed, draft_id="21869733"
+        )
+        states = {item.field: item.state for item in report.fields}
+        self.assertEqual(states["metadata.related_identifiers"], PASSED_API)
+        changed = copy.deepcopy(observed)
+        changed["metadata"]["related_identifiers"][0]["relation"] = "isPartOf"
+        with self.assertRaises(ProductionValidationError):
+            validate_production_metadata(
+                expected, changed, draft_id="21869733"
+            )
+
+    def test_conflicting_modern_and_legacy_metadata_fails_closed(self) -> None:
+        expected, observed = self.legacy_v9_readback()
+        observed["custom_fields"] = {
+            "code:codeRepository": "https://example.invalid/conflict"
+        }
+        with self.assertRaises(ProductionValidationError):
+            validate_production_metadata(
+                expected, observed, draft_id="21869733"
+            )
+
+    def test_one_completed_file_accepts_explicit_default_with_empty_order(self) -> None:
+        expected, observed = self.legacy_v9_readback()
+        report = validate_production_metadata(
+            expected, observed, draft_id="21869733"
+        )
+        states = {item.field: item.state for item in report.fields}
+        self.assertEqual(states["files.default_preview"], PASSED_API)
+        self.assertEqual(states["files.order"], PASSED_API)
+
+    def test_nonempty_file_order_must_match_and_foreign_order_fails(self) -> None:
+        expected, observed = self.legacy_v9_readback()
+        observed["files"]["order"] = copy.deepcopy(expected["files"]["order"])
+        report = validate_production_metadata(
+            expected, observed, draft_id="21869733"
+        )
+        states = {item.field: item.state for item in report.fields}
+        self.assertEqual(states["files.order"], PASSED_API)
+        observed["files"]["order"] = ["foreign.md"]
+        with self.assertRaises(ProductionValidationError):
+            validate_production_metadata(
+                expected, observed, draft_id="21869733"
+            )
+
+    def test_live_legacy_readback_retains_copyright_visual_channel(self) -> None:
+        expected, observed = self.legacy_v9_readback()
+        report = validate_production_metadata(
+            expected, observed, draft_id="21869733"
+        )
+        states = {item.field: item.state for item in report.fields}
+        self.assertEqual(
+            states["metadata.copyright"], VISUAL_VERIFICATION_REQUIRED
+        )
+        self.assertFalse(report.complete)
 
     def test_api_visible_validation_remains_fail_closed(self) -> None:
         expected = {

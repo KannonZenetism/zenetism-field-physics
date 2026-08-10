@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import copy
+import io
 import inspect
 import json
 import re
@@ -519,6 +520,245 @@ class ProductionTransportTests(unittest.TestCase):
             )
         )
         self.assertEqual(upload["body"], self.plan.archival_copy.payload)
+
+    def test_existing_explicit_doi_readback_requires_no_reservation(self) -> None:
+        result, opener, _ = self._execute(self._routes())
+        self.assertEqual(result.exact_version_doi, NEW_DOI)
+        self.assertFalse(
+            any(
+                str(item["url"]).endswith("/draft/pids/doi")
+                for item in opener.requests
+            )
+        )
+
+    def test_absent_doi_receives_one_confined_reservation_and_exact_readback(self) -> None:
+        routes = self._routes(
+            initial_file_state="empty",
+            include_root_files=False,
+        )
+        base = "https://zenodo.org/api"
+        legacy_url = f"{base}/deposit/depositions/{DRAFT_ID}"
+        root_url = f"{base}/records/{DRAFT_ID}/draft"
+        files_url = f"{root_url}/files"
+        final = routes[("GET", root_url)][1]
+        assert isinstance(final, dict)
+        final.pop("doi", None)
+        final.pop("pids", None)
+        reserved_legacy = self._legacy_draft(version="v3")
+        reserved_legacy["doi"] = NEW_DOI
+        reserved_modern = copy.deepcopy(final)
+        reserved_modern["pids"] = {"doi": {"identifier": NEW_DOI}}
+        routes[("GET", legacy_url)].append(reserved_legacy)
+        routes[("GET", root_url)].append(reserved_modern)
+        routes[("GET", files_url)].append(
+            self._draft_files_collection(
+                file_state="approved",
+                final_configuration=True,
+            )
+        )
+        reserve_url = f"{root_url}/pids/doi"
+        routes[("POST", reserve_url)] = [
+            {"pids": {"doi": {"identifier": NEW_DOI}}}
+        ]
+        result, opener, _ = self._execute(routes)
+        self.assertEqual(result.exact_version_doi, NEW_DOI)
+        requests = [
+            item for item in opener.requests if item["url"] == reserve_url
+        ]
+        self.assertEqual(len(requests), 1)
+        self.assertEqual(requests[0]["method"], "POST")
+        self.assertIsNone(requests[0]["body"])
+
+    def test_already_reserved_doi_recovery_does_not_reserve_again(self) -> None:
+        routes = self._routes()
+        base = "https://zenodo.org/api"
+        legacy_url = f"{base}/deposit/depositions/{DRAFT_ID}"
+        root_url = f"{base}/records/{DRAFT_ID}/draft"
+        legacy_final = routes[("GET", legacy_url)][1]
+        modern_final = routes[("GET", root_url)][1]
+        assert isinstance(legacy_final, dict)
+        assert isinstance(modern_final, dict)
+        legacy_final["metadata"]["doi"] = NEW_DOI
+        modern_final.pop("doi", None)
+        modern_final.pop("pids", None)
+        result, opener, _ = self._execute(routes)
+        self.assertEqual(result.exact_version_doi, NEW_DOI)
+        self.assertFalse(
+            any(
+                str(item["url"]).endswith("/draft/pids/doi")
+                for item in opener.requests
+            )
+        )
+
+    def test_already_exists_reservation_response_reloads_explicit_doi(self) -> None:
+        routes = self._routes(
+            initial_file_state="empty",
+            include_root_files=False,
+        )
+        base = "https://zenodo.org/api"
+        legacy_url = f"{base}/deposit/depositions/{DRAFT_ID}"
+        root_url = f"{base}/records/{DRAFT_ID}/draft"
+        files_url = f"{root_url}/files"
+        final = routes[("GET", root_url)][1]
+        assert isinstance(final, dict)
+        final.pop("doi", None)
+        final.pop("pids", None)
+        reserved_legacy = self._legacy_draft(version="v3")
+        reserved_legacy["doi"] = NEW_DOI
+        reserved_modern = copy.deepcopy(final)
+        reserved_modern["pids"] = {"doi": {"identifier": NEW_DOI}}
+        routes[("GET", legacy_url)].append(reserved_legacy)
+        routes[("GET", root_url)].append(reserved_modern)
+        routes[("GET", files_url)].append(
+            self._draft_files_collection(
+                file_state="approved",
+                final_configuration=True,
+            )
+        )
+        reserve_url = f"{root_url}/pids/doi"
+        error_body = json.dumps(
+            {
+                "status": 400,
+                "message": "A validation error occurred.",
+                "errors": [
+                    {
+                        "field": "pids.doi",
+                        "messages": ["A PID already exists for type doi"],
+                    }
+                ],
+            }
+        ).encode("utf-8")
+        routes[("POST", reserve_url)] = [
+            urllib.error.HTTPError(
+                reserve_url,
+                400,
+                "Bad Request",
+                {},
+                io.BytesIO(error_body),
+            )
+        ]
+        result, opener, _ = self._execute(routes)
+        self.assertEqual(result.exact_version_doi, NEW_DOI)
+        requests = [
+            item for item in opener.requests if item["url"] == reserve_url
+        ]
+        self.assertEqual(len(requests), 1)
+
+    def test_unrecognized_doi_reservation_error_fails_closed(self) -> None:
+        routes = self._routes(
+            initial_file_state="empty",
+            include_root_files=False,
+        )
+        base = "https://zenodo.org/api"
+        root_url = f"{base}/records/{DRAFT_ID}/draft"
+        final = routes[("GET", root_url)][1]
+        assert isinstance(final, dict)
+        final.pop("doi", None)
+        final.pop("pids", None)
+        reserve_url = f"{root_url}/pids/doi"
+        error_body = json.dumps(
+            {
+                "status": 400,
+                "errors": [
+                    {
+                        "field": "metadata.title",
+                        "messages": ["A validation error occurred."],
+                    }
+                ],
+            }
+        ).encode("utf-8")
+        routes[("POST", reserve_url)] = [
+            urllib.error.HTTPError(
+                reserve_url,
+                400,
+                "Bad Request",
+                {},
+                io.BytesIO(error_body),
+            )
+        ]
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            with self.assertRaises(ProductionRequestError):
+                ProductionDraftExecutor(
+                    UrllibProductionDraftTransport(
+                        RuntimeProductionCredentials(
+                            "stage3b-local-simulation-value"
+                        )
+                    )
+                ).prepare(self.plan)
+        self.assertEqual(
+            sum(item["url"] == reserve_url for item in opener.requests),
+            1,
+        )
+
+    def test_conflicting_doi_representations_fail_closed(self) -> None:
+        routes = self._routes()
+        base = "https://zenodo.org/api"
+        root_url = f"{base}/records/{DRAFT_ID}/draft"
+        final = routes[("GET", root_url)][1]
+        assert isinstance(final, dict)
+        final["pids"] = {
+            "doi": {"identifier": "10.5281/zenodo.39999999"}
+        }
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            with self.assertRaises(ProductionFamilyError):
+                ProductionDraftExecutor(
+                    UrllibProductionDraftTransport(
+                        RuntimeProductionCredentials("stage3b-local-simulation-value")
+                    )
+                ).prepare(self.plan)
+        self.assertFalse(
+            any(
+                str(item["url"]).endswith("/draft/pids/doi")
+                for item in opener.requests
+            )
+        )
+
+    def test_doi_reservation_rejects_arbitrary_draft_provider_and_body(self) -> None:
+        kind = production_transport_module._RequestKind.RESERVE_DRAFT_DOI
+        for method, path in (
+            ("POST", f"/api/records/{DRAFT_ID}/draft/pids/datacite"),
+            ("PUT", f"/api/records/{DRAFT_ID}/draft/pids/doi"),
+        ):
+            with self.subTest(method=method, path=path):
+                with self.assertRaises(ProductionSafetyError):
+                    production_transport_module._BoundProductionRequest(
+                        kind,
+                        method,
+                        path,
+                    )
+
+        requests = (
+            production_transport_module._BoundProductionRequest(
+                kind,
+                "POST",
+                "/api/records/99999999/draft/pids/doi",
+            ),
+            production_transport_module._BoundProductionRequest(
+                kind,
+                "POST",
+                f"/api/records/{DRAFT_ID}/draft/pids/doi",
+                json_body={"doi": NEW_DOI},
+            ),
+        )
+        for request in requests:
+            routes = self._routes()
+            opener = _ScriptedOpener(routes)
+            with patch("urllib.request.build_opener", return_value=opener):
+                transport = UrllibProductionDraftTransport(
+                    RuntimeProductionCredentials("stage3b-local-simulation-value")
+                )
+                transport.read_family(self.plan)
+                transport.open_new_version_draft(self.plan)
+                with self.assertRaises(ProductionSafetyError):
+                    transport._send(request)
+            self.assertFalse(
+                any(
+                    str(item["url"]).endswith("/draft/pids/doi")
+                    for item in opener.requests
+                )
+            )
 
     def test_root_draft_can_omit_files_when_dedicated_readback_is_complete(self) -> None:
         result, opener, _ = self._execute(
@@ -1160,6 +1400,8 @@ class ProductionTransportTests(unittest.TestCase):
                 transport.upload_approved_archival_file(self.plan)
             with self.assertRaises(ProductionSafetyError):
                 transport.save_approved_metadata(self.plan)
+            with self.assertRaises(ProductionSafetyError):
+                transport.reserve_bound_draft_doi(self.plan)
         self.assertEqual(opener.requests[-1]["method"], "POST")
         self.assertIn("/actions/newversion", str(opener.requests[-1]["url"]))
 
@@ -1183,6 +1425,7 @@ class ProductionTransportTests(unittest.TestCase):
                 "delete_inherited_archival_file",
                 "upload_approved_archival_file",
                 "save_approved_metadata",
+                "reserve_bound_draft_doi",
             },
         )
         self.assertTrue(callable(UrllibProductionDraftTransport.from_environment))
@@ -1331,6 +1574,158 @@ class TwoStateProductionTransportTests(unittest.TestCase):
                 self.plan,
                 self._inherited_draft(size=45220),
             )
+
+    def test_prepared_21869733_readback_skips_file_and_metadata_rewrites(self) -> None:
+        draft_id = "21869733"
+        concept_doi = self.plan.family.concept_doi
+        exact_doi = "10.5281/zenodo.39999998"
+        expected_metadata = self.plan.metadata_payload["metadata"]
+        filename = self.plan.archival_copy.archival_filename
+
+        def legacy_metadata() -> dict[str, object]:
+            return {
+                "title": expected_metadata["title"],
+                "publication_date": expected_metadata["publication_date"],
+                "creators": [
+                    {"name": "Aelion Kannon", "affiliation": None}
+                ],
+                "contributors": [
+                    {
+                        "name": "🔦 Lumen",
+                        "affiliation": None,
+                        "type": "Researcher",
+                    },
+                    {
+                        "name": "⚮ Liora",
+                        "affiliation": None,
+                        "type": "Researcher",
+                    },
+                ],
+                "description": expected_metadata["description"],
+                "keywords": [
+                    item["subject"] for item in expected_metadata["subjects"]
+                ],
+                "version": "v9",
+                "resource_type": {
+                    "title": "Report",
+                    "type": "publication",
+                    "subtype": "report",
+                },
+                "license": {"id": "cc-by-4.0"},
+                "language": "eng",
+                "access_right": "open",
+                "related_identifiers": [
+                    {
+                        "identifier": "https://zenetism.aelionkannon.chatgpt.site",
+                        "relation": "isDocumentedBy",
+                        "resource_type": "other",
+                        "scheme": "url",
+                    }
+                ],
+                "custom": copy.deepcopy(
+                    self.plan.metadata_payload["custom_fields"]
+                ),
+            }
+
+        def draft(*, reserved: bool) -> dict[str, object]:
+            value: dict[str, object] = {
+                "id": draft_id,
+                "recid": draft_id,
+                "conceptdoi": concept_doi,
+                "parent": {"pids": {"doi": {"identifier": concept_doi}}},
+                "metadata": legacy_metadata(),
+                "files": [],
+                "access": None,
+                "custom_fields": None,
+                "submitted": False,
+                "state": "unsubmitted",
+                "status": "draft",
+                "is_published": False,
+            }
+            if reserved:
+                value["pids"] = {"doi": {"identifier": exact_doi}}
+            return value
+
+        entry = {
+            "key": filename,
+            "checksum": f"md5:{self.plan.archival_copy.checksums.md5}",
+            "size": self.plan.archival_copy.checksums.byte_size,
+            "status": "completed",
+        }
+
+        def files() -> dict[str, object]:
+            return {
+                "id": draft_id,
+                "enabled": True,
+                "entries": [copy.deepcopy(entry)],
+                "default_preview": filename,
+                "order": [],
+                "links": {
+                    "self": (
+                        f"https://zenodo.org/api/records/{draft_id}/draft/files"
+                    )
+                },
+            }
+
+        family = _two_state_family_observation(self.manifest)
+        base = "https://zenodo.org/api"
+        legacy_url = f"{base}/deposit/depositions/{draft_id}"
+        root_url = f"{base}/records/{draft_id}/draft"
+        files_url = f"{root_url}/files"
+        routes = {
+            ("GET", f"{base}/records/{self.plan.source_record_id}"): [
+                copy.deepcopy(family["latest"])
+            ],
+            ("GET", f"{base}/records/{self.plan.source_record_id}/versions"): [
+                {"hits": {"hits": copy.deepcopy(family["members"])}}
+            ],
+            ("GET", legacy_url): [
+                draft(reserved=False),
+                draft(reserved=False),
+                draft(reserved=True),
+            ],
+            ("GET", root_url): [
+                draft(reserved=False),
+                draft(reserved=False),
+                draft(reserved=True),
+            ],
+            ("GET", files_url): [files(), files(), files()],
+            ("POST", f"{root_url}/pids/doi"): [{}],
+        }
+        recovery = ProductionDraftRecovery(
+            draft_id=draft_id,
+            record_id=None,
+            edit_url=f"https://zenodo.org/uploads/{draft_id}",
+            preview_url=f"https://zenodo.org/records/{draft_id}?preview=1",
+            creation_result={
+                "id": int(draft_id),
+                "conceptrecid": concept_doi.rsplit(".", 1)[-1],
+                "created": "2026-08-10T08:27:58.542028+00:00",
+                "modified": "2026-08-10T08:27:58.729012+00:00",
+                "state": "unsubmitted",
+                "submitted": False,
+                "latest_draft": f"{base}/deposit/depositions/{draft_id}",
+            },
+        )
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            result = ProductionDraftExecutor(
+                UrllibProductionDraftTransport(
+                    RuntimeProductionCredentials("stage3b-local-simulation-value")
+                )
+            ).resume(self.plan, recovery)
+        self.assertEqual(result.exact_version_doi, exact_doi)
+        self.assertFalse(result.validation["complete"])
+        self.assertFalse(result.new_version_created)
+        mutations = [
+            item
+            for item in opener.requests
+            if item["method"] in {"POST", "PUT", "DELETE"}
+        ]
+        self.assertEqual(
+            [(item["method"], item["url"]) for item in mutations],
+            [("POST", f"{root_url}/pids/doi")],
+        )
 
     def test_production_draft_21869733_recovery_resumes_without_newversion(self) -> None:
         draft_id = "21869733"
