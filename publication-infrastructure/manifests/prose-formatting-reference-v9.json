@@ -1,7 +1,7 @@
 {
-  "schema_version": "zenetism-publication-engine-v2-stage-3b-candidate-preparation",
+  "schema_version": "zenetism-publication-engine-v2-stage-3b-publication-closure",
   "record_key": "prose-formatting-reference",
-  "preparation_state": "architect_review_required",
+  "preparation_state": "published",
   "corpus_classification": "Infrastructure — Canonical Stabilization (cross-discipline)",
   "published_baseline": {
     "github": {
@@ -189,7 +189,7 @@
       "previous_exact_version_doi": "10.5281/zenodo.21843931",
       "previous_version": "v8",
       "target_version": "v9",
-      "exact_version_doi": null,
+      "exact_version_doi": "10.5281/zenodo.21869733",
       "archival_filename": "prose-formatting-reference_v9.md",
       "archival_byte_size": 45220,
       "archival_sha256": "2e4f4670df04ff65423b6725d3ba026783de46e4b409413c22902eda382b01f2",
@@ -260,7 +260,7 @@
       "canonical infrastructure"
     ],
     "keyword_change": {
-      "architect_review_required": true,
+      "architect_review_required": false,
       "previous_count": 19,
       "proposed_count": 20,
       "added": [
@@ -294,6 +294,11 @@
     }
   },
   "publication": {
-    "architect_publish_required": true
+    "architect_publish_required": false,
+    "state": "published",
+    "record_id": "21869733",
+    "exact_version_doi": "10.5281/zenodo.21869733",
+    "concept_doi": "10.5281/zenodo.21201242",
+    "post_publication_verification_date": "2026-08-10"
   }
 }

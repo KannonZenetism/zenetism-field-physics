@@ -42,10 +42,26 @@ TWO_STATE_MANIFEST_PATH = (
 )
 REGISTRY_PATH = ROOT / "publication-infrastructure/zenetism-publication-registry.csv"
 PACKAGE = ROOT / "publication-infrastructure/engine/zenetism_engine"
+TWO_STATE_REGISTRY_PATH = (
+    ROOT
+    / "publication-infrastructure/engine/tests/prose_formatting_reference_v8_registry.csv"
+)
 
 SOURCE_ID = "21830364"
 DRAFT_ID = "30000001"
 NEW_DOI = "10.5281/zenodo.30000001"
+
+
+def _prepublication_v9_package(value: dict[str, object]) -> dict[str, object]:
+    package = copy.deepcopy(value)
+    package["schema_version"] = (
+        "zenetism-publication-engine-v2-stage-3b-candidate-preparation"
+    )
+    package["preparation_state"] = "architect_review_required"
+    package["candidate"]["production_identity"]["exact_version_doi"] = None
+    package["candidate"]["keyword_change"]["architect_review_required"] = True
+    package["publication"] = {"architect_publish_required": True}
+    return package
 
 
 def _family_member(
@@ -1546,11 +1562,13 @@ class ProductionTransportTests(unittest.TestCase):
 class TwoStateProductionTransportTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
-        cls.manifest = json.loads(TWO_STATE_MANIFEST_PATH.read_text(encoding="utf-8"))
+        cls.manifest = _prepublication_v9_package(
+            json.loads(TWO_STATE_MANIFEST_PATH.read_text(encoding="utf-8"))
+        )
         cls.plan = ProductionDraftPlanner().plan(
             cls.manifest,
             repository_root=ROOT,
-            registry_path=REGISTRY_PATH,
+            registry_path=TWO_STATE_REGISTRY_PATH,
             family_observation=_two_state_family_observation(cls.manifest),
             intent={
                 "route": "new-version",

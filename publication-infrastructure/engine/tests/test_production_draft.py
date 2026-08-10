@@ -52,6 +52,21 @@ TWO_STATE_MANIFEST_PATH = (
 REGISTRY_PATH = ROOT / "publication-infrastructure/zenetism-publication-registry.csv"
 PACKAGE = ENGINE / "zenetism_engine"
 LIVE_FAMILY_PATH = ENGINE / "tests/prose_formatting_reference_v8_live_family.json"
+TWO_STATE_REGISTRY_PATH = (
+    ENGINE / "tests/prose_formatting_reference_v8_registry.csv"
+)
+
+
+def _prepublication_v9_package(value: dict[str, object]) -> dict[str, object]:
+    package = copy.deepcopy(value)
+    package["schema_version"] = (
+        "zenetism-publication-engine-v2-stage-3b-candidate-preparation"
+    )
+    package["preparation_state"] = "architect_review_required"
+    package["candidate"]["production_identity"]["exact_version_doi"] = None
+    package["candidate"]["keyword_change"]["architect_review_required"] = True
+    package["publication"] = {"architect_publish_required": True}
+    return package
 
 
 def _family_member(
@@ -167,8 +182,11 @@ class ProductionDraftSafetyTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
         cls.manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
-        cls.two_state_manifest = json.loads(
+        cls.closed_v9_manifest = json.loads(
             TWO_STATE_MANIFEST_PATH.read_text(encoding="utf-8")
+        )
+        cls.two_state_manifest = _prepublication_v9_package(
+            cls.closed_v9_manifest
         )
         cls.live_family = json.loads(LIVE_FAMILY_PATH.read_text(encoding="utf-8"))
 
@@ -202,7 +220,7 @@ class ProductionDraftSafetyTests(unittest.TestCase):
         *,
         manifest: dict[str, object] | None = None,
         family: dict[str, object] | None = None,
-        registry_path: Path = REGISTRY_PATH,
+        registry_path: Path = TWO_STATE_REGISTRY_PATH,
     ):
         selected_manifest = (
             manifest if manifest is not None else self.two_state_manifest
@@ -233,7 +251,7 @@ class ProductionDraftSafetyTests(unittest.TestCase):
             "custom_fields": None,
             "metadata": {
                 "title": metadata["title"],
-                "publisher": "Zenodo",
+                "imprint_publisher": "Zenodo",
                 "publication_date": metadata["publication_date"],
                 "creators": [
                     {"name": "Aelion Kannon", "affiliation": None}
@@ -432,6 +450,35 @@ class ProductionDraftSafetyTests(unittest.TestCase):
             candidate["github"]["sha256"],
         )
         self.assertFalse(plan.as_dict()["final_release_action_available"])
+
+    def test_v9_operational_manifest_records_published_closure(self) -> None:
+        package = self.closed_v9_manifest
+        self.assertEqual(
+            package["schema_version"],
+            "zenetism-publication-engine-v2-stage-3b-publication-closure",
+        )
+        self.assertEqual(package["preparation_state"], "published")
+        self.assertEqual(
+            package["candidate"]["production_identity"]["exact_version_doi"],
+            "10.5281/zenodo.21869733",
+        )
+        self.assertEqual(
+            package["publication"],
+            {
+                "architect_publish_required": False,
+                "state": "published",
+                "record_id": "21869733",
+                "exact_version_doi": "10.5281/zenodo.21869733",
+                "concept_doi": "10.5281/zenodo.21201242",
+                "post_publication_verification_date": "2026-08-10",
+            },
+        )
+        baseline = package["published_baseline"]["zenodo"]
+        self.assertEqual(baseline["version"], "v8")
+        self.assertEqual(
+            baseline["exact_version_doi"],
+            "10.5281/zenodo.21843931",
+        )
 
     def test_two_state_candidate_description_takes_approved_standard_form(self) -> None:
         package = self.two_state_manifest["candidate"]["description"]
@@ -931,18 +978,47 @@ class ProductionDraftSafetyTests(unittest.TestCase):
         self.assertEqual(states["metadata.publisher"], PASSED_API)
 
         missing = copy.deepcopy(observed)
-        del missing["metadata"]["publisher"]
+        del missing["metadata"]["imprint_publisher"]
         with self.assertRaises(ProductionValidationError):
             validate_production_metadata(
                 expected, missing, draft_id="21869733"
             )
 
         incorrect = copy.deepcopy(observed)
-        incorrect["metadata"]["publisher"] = "Aelion Kannon"
+        incorrect["metadata"]["imprint_publisher"] = "Aelion Kannon"
         with self.assertRaises(ProductionValidationError):
             validate_production_metadata(
                 expected, incorrect, draft_id="21869733"
             )
+
+    def test_modern_and_legacy_publisher_representations_must_agree(self) -> None:
+        expected, observed = self.legacy_v9_readback()
+        observed["metadata"]["publisher"] = "Zenodo"
+        report = validate_production_metadata(
+            expected, observed, draft_id="21869733"
+        )
+        states = {item.field: item.state for item in report.fields}
+        self.assertEqual(states["metadata.publisher"], PASSED_API)
+
+        observed["metadata"]["publisher"] = "External Academic Press"
+        with self.assertRaises(ProductionValidationError) as context:
+            validate_production_metadata(
+                expected, observed, draft_id="21869733"
+            )
+        self.assertIn(
+            "representations conflict for metadata.publisher",
+            str(context.exception),
+        )
+
+    def test_modern_publisher_representation_remains_supported(self) -> None:
+        expected, observed = self.legacy_v9_readback()
+        del observed["metadata"]["imprint_publisher"]
+        observed["metadata"]["publisher"] = "Zenodo"
+        report = validate_production_metadata(
+            expected, observed, draft_id="21869733"
+        )
+        states = {item.field: item.state for item in report.fields}
+        self.assertEqual(states["metadata.publisher"], PASSED_API)
 
     def test_external_publisher_continuation_must_remain_explicit(self) -> None:
         manifest = copy.deepcopy(self.two_state_manifest)
@@ -953,7 +1029,7 @@ class ProductionDraftSafetyTests(unittest.TestCase):
         plan = ProductionDraftPlanner().plan(
             manifest,
             repository_root=ROOT,
-            registry_path=REGISTRY_PATH,
+            registry_path=TWO_STATE_REGISTRY_PATH,
             family_observation=self.live_family,
             intent={
                 "route": "new-version",
@@ -971,7 +1047,7 @@ class ProductionDraftSafetyTests(unittest.TestCase):
             ProductionDraftPlanner().plan(
                 manifest,
                 repository_root=ROOT,
-                registry_path=REGISTRY_PATH,
+                registry_path=TWO_STATE_REGISTRY_PATH,
                 family_observation=self.live_family,
                 intent={
                     "route": "new-version",
