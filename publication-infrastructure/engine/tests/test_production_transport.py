@@ -534,6 +534,78 @@ class ProductionTransportTests(unittest.TestCase):
             3,
         )
 
+    def test_live_root_files_array_defers_to_valid_dedicated_collection(self) -> None:
+        for root_files in ([], True, "file-state", 1, None):
+            with self.subTest(root_type=type(root_files).__name__):
+                routes = self._routes(
+                    initial_file_state="empty",
+                    include_root_files=False,
+                )
+                root_url = f"https://zenodo.org/api/records/{DRAFT_ID}/draft"
+                initial = routes[("GET", root_url)][0]
+                assert isinstance(initial, dict)
+                initial["files"] = root_files
+                result, _, _ = self._execute(routes)
+                self.assertTrue(result.validation["complete"])
+
+    def test_non_object_root_files_never_supply_file_state_evidence(self) -> None:
+        malformed = self._draft_files_collection(file_state="empty")
+        del malformed["entries"]
+        routes = self._routes(
+            initial_file_state="empty",
+            include_root_files=False,
+            initial_dedicated_files=malformed,
+        )
+        root_url = f"https://zenodo.org/api/records/{DRAFT_ID}/draft"
+        initial = routes[("GET", root_url)][0]
+        assert isinstance(initial, dict)
+        initial["files"] = [self._approved_file_entry()]
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            with self.assertRaises(ProductionSafetyError):
+                ProductionDraftExecutor(
+                    UrllibProductionDraftTransport(
+                        RuntimeProductionCredentials("stage3b-local-simulation-value")
+                    )
+                ).prepare(self.plan)
+        self.assertFalse(
+            any(
+                "/draft/files" in str(item["url"])
+                and item["method"] != "GET"
+                for item in opener.requests
+            )
+        )
+
+    def test_recognized_root_collection_rejects_dedicated_contradiction(self) -> None:
+        contradictory = self._draft_files_collection(file_state="approved")
+        routes = self._routes(
+            initial_file_state="empty",
+            initial_dedicated_files=contradictory,
+        )
+        opener = _ScriptedOpener(routes)
+        with patch("urllib.request.build_opener", return_value=opener):
+            with self.assertRaises(ProductionSafetyError):
+                ProductionDraftExecutor(
+                    UrllibProductionDraftTransport(
+                        RuntimeProductionCredentials("stage3b-local-simulation-value")
+                    )
+                ).prepare(self.plan)
+        self.assertFalse(
+            any(
+                "/draft/files" in str(item["url"])
+                and item["method"] != "GET"
+                for item in opener.requests
+            )
+        )
+
+    def test_malformed_dedicated_collection_fails_with_root_array(self) -> None:
+        with self.assertRaises(ProductionSafetyError):
+            production_transport_module._normalized_draft_files(
+                [],
+                [],
+                expected_draft_id=DRAFT_ID,
+            )
+
     def test_explicit_empty_dedicated_file_collection_is_valid_initial_state(self) -> None:
         empty = self._draft_files_collection(file_state="empty")
         result, _, _ = self._execute(
@@ -1280,6 +1352,7 @@ class TwoStateProductionTransportTests(unittest.TestCase):
             }
 
         initial = draft("v8")
+        initial["files"] = []
         final = copy.deepcopy(self.plan.metadata_payload)
         exact_doi = f"10.5281/zenodo.{draft_id}"
         final.update(
@@ -1295,6 +1368,7 @@ class TwoStateProductionTransportTests(unittest.TestCase):
                 "is_published": False,
             }
         )
+        final["files"] = []
         filename = self.plan.archival_copy.archival_filename
         approved_entry = {
             "key": filename,
