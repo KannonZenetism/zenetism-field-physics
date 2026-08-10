@@ -27,6 +27,7 @@ from zenetism_engine.production_draft import (
     LocalProductionDraftSession,
     ProductionDraftIntent,
     ProductionDraftPlanner,
+    ProductionFamilySnapshot,
 )
 from zenetism_engine.production_validation import (
     ArchitectProductionVisualConfirmation,
@@ -50,6 +51,7 @@ TWO_STATE_MANIFEST_PATH = (
 )
 REGISTRY_PATH = ROOT / "publication-infrastructure/zenetism-publication-registry.csv"
 PACKAGE = ENGINE / "zenetism_engine"
+LIVE_FAMILY_PATH = ENGINE / "tests/prose_formatting_reference_v8_live_family.json"
 
 
 def _family_member(
@@ -168,6 +170,7 @@ class ProductionDraftSafetyTests(unittest.TestCase):
         cls.two_state_manifest = json.loads(
             TWO_STATE_MANIFEST_PATH.read_text(encoding="utf-8")
         )
+        cls.live_family = json.loads(LIVE_FAMILY_PATH.read_text(encoding="utf-8"))
 
     def setUp(self) -> None:
         self.planner = ProductionDraftPlanner()
@@ -358,7 +361,7 @@ class ProductionDraftSafetyTests(unittest.TestCase):
         )
         self.assertFalse(plan.as_dict()["final_release_action_available"])
 
-    def test_two_state_candidate_description_uses_approved_standard_form(self) -> None:
+    def test_two_state_candidate_description_takes_approved_standard_form(self) -> None:
         description = self.two_state_manifest["candidate"]["description"][
             "rendered_html"
         ]
@@ -374,6 +377,99 @@ class ProductionDraftSafetyTests(unittest.TestCase):
             description,
         )
         self.assertNotIn("OpenTimestamps", description)
+
+    def test_live_inveniordm_version_relation_family_passes_planning(self) -> None:
+        family = copy.deepcopy(self.live_family)
+        snapshot = ProductionFamilySnapshot.from_object(family)
+        self.assertEqual(
+            [item.family_index for item in snapshot.members],
+            list(range(1, 9)),
+        )
+        self.assertEqual(snapshot.latest.record_id, "21843931")
+        self.assertEqual(snapshot.latest.version_label, "v8")
+        self.assertTrue(snapshot.latest.is_latest)
+        plan = self.plan_two_state(family=family)
+        self.assertEqual(plan.family.as_dict(), snapshot.as_dict())
+
+    def test_live_relation_parent_must_match_the_concept_identity(self) -> None:
+        family = copy.deepcopy(self.live_family)
+        relation = family["members"][0]["metadata"]["relations"]["version"][0]
+        relation["parent"]["pid_value"] = "99999999"
+        with self.assertRaises(ProductionFamilyError) as context:
+            ProductionFamilySnapshot.from_object(family)
+        self.assertIn("parent differs", str(context.exception))
+
+    def test_conflicting_legacy_and_live_relation_indices_fail(self) -> None:
+        family = copy.deepcopy(self.live_family)
+        family["latest"]["versions"] = {"index": 99, "is_latest": True}
+        with self.assertRaises(ProductionFamilyError) as context:
+            ProductionFamilySnapshot.from_object(family)
+        self.assertIn("conflicting family-index", str(context.exception))
+
+    def test_conflicting_legacy_and_live_latest_markers_fail(self) -> None:
+        family = copy.deepcopy(self.live_family)
+        family["latest"]["versions"] = {"index": 8, "is_latest": False}
+        with self.assertRaises(ProductionFamilyError) as context:
+            ProductionFamilySnapshot.from_object(family)
+        self.assertIn("conflicting latest-state", str(context.exception))
+
+    def test_duplicate_live_version_relation_entries_fail(self) -> None:
+        family = copy.deepcopy(self.live_family)
+        relations = family["latest"]["metadata"]["relations"]["version"]
+        relations.append(copy.deepcopy(relations[0]))
+        with self.assertRaises(ProductionFamilyError) as context:
+            ProductionFamilySnapshot.from_object(family)
+        self.assertIn("exactly one entry", str(context.exception))
+
+    def test_hostile_live_latest_relation_fails(self) -> None:
+        family = copy.deepcopy(self.live_family)
+        family["latest"]["links"]["latest"] = (
+            "https://example.invalid/api/records/21843931/versions/latest"
+        )
+        with self.assertRaises(ProductionFamilyError) as context:
+            ProductionFamilySnapshot.from_object(family)
+        self.assertIn("fixed production identity", str(context.exception))
+
+    def test_absent_live_relation_index_evidence_fails(self) -> None:
+        family = copy.deepcopy(self.live_family)
+        del family["latest"]["metadata"]["relations"]["version"][0]["index"]
+        with self.assertRaises(ProductionFamilyError) as context:
+            ProductionFamilySnapshot.from_object(family)
+        self.assertIn("missing or unsupported fields", str(context.exception))
+
+    def test_absent_latest_evidence_fails(self) -> None:
+        family = copy.deepcopy(self.live_family)
+        del family["latest"]["metadata"]["relations"]["version"][0]["is_last"]
+        for item in family["members"]:
+            del item["metadata"]["relations"]["version"][0]["is_last"]
+        with self.assertRaises(ProductionFamilyError) as context:
+            ProductionFamilySnapshot.from_object(family)
+        self.assertIn("latest-state evidence", str(context.exception))
+
+    def test_fixed_latest_relation_reconciles_absent_markers(self) -> None:
+        family = copy.deepcopy(self.live_family)
+        del family["latest"]["metadata"]["relations"]["version"][0]["is_last"]
+        for item in family["members"]:
+            del item["metadata"]["relations"]["version"][0]["is_last"]
+        family["latest_relation_record"] = copy.deepcopy(family["latest"])
+        snapshot = ProductionFamilySnapshot.from_object(family)
+        self.assertEqual(snapshot.latest.record_id, "21843931")
+        self.assertEqual(
+            [item.record_id for item in snapshot.members if item.is_latest],
+            ["21843931"],
+        )
+
+    def test_fixed_latest_relation_mismatch_fails(self) -> None:
+        family = copy.deepcopy(self.live_family)
+        del family["latest"]["metadata"]["relations"]["version"][0]["is_last"]
+        for item in family["members"]:
+            del item["metadata"]["relations"]["version"][0]["is_last"]
+        relation_record = copy.deepcopy(family["latest"])
+        relation_record["doi"] = "10.5281/zenodo.99999999"
+        family["latest_relation_record"] = relation_record
+        with self.assertRaises(ProductionFamilyError) as context:
+            ProductionFamilySnapshot.from_object(family)
+        self.assertIn("latest relation differs", str(context.exception))
 
     def test_two_state_published_baseline_payload_mismatch_fails(self) -> None:
         manifest = copy.deepcopy(self.two_state_manifest)

@@ -28,6 +28,8 @@ from .production_draft import (
     ProductionDraftPlan,
     ProductionDraftRecovery,
     ProductionFamilySnapshot,
+    _explicit_family_latest_state,
+    _fixed_family_relation_path,
     _record_id,
     _supported_doi,
     _verified_unpublished_draft,
@@ -197,6 +199,7 @@ class ProductionDraftExecutor:
 class _RequestKind(str, Enum):
     READ_FAMILY_RECORD = "read_family_record"
     READ_FAMILY_MEMBERS = "read_family_members"
+    READ_FAMILY_LATEST_RELATION = "read_family_latest_relation"
     READ_CURRENT_DEPOSITION = "read_current_deposition"
     INITIATE_NEW_VERSION = "initiate_new_version"
     READ_LEGACY_DRAFT = "read_legacy_draft"
@@ -213,6 +216,10 @@ _ENDPOINT_RULES: dict[_RequestKind, tuple[str, re.Pattern[str]]] = {
     _RequestKind.READ_FAMILY_MEMBERS: (
         "GET",
         re.compile(r"/api/records/[0-9]+/versions"),
+    ),
+    _RequestKind.READ_FAMILY_LATEST_RELATION: (
+        "GET",
+        re.compile(r"/api/records/[0-9]+/versions/latest"),
     ),
     _RequestKind.READ_CURRENT_DEPOSITION: (
         "GET",
@@ -292,7 +299,7 @@ class UrllibProductionDraftTransport:
             )
         self._credentials = credentials
         self._timeout = timeout
-        self._opener = urllib.request.build_opener(_RejectRedirects())
+        self._opener = urllib.request.build_opener(_ProductionRedirectBoundary())
         self._active_plan: ProductionDraftPlan | None = None
         self._verified_plan_fingerprint: str | None = None
         self._current_deposition_verified = False
@@ -346,6 +353,23 @@ class UrllibProductionDraftTransport:
             raise ProductionFamilyError(
                 "production family read-back contains no explicit members"
             )
+        latest_relation_record: dict[str, Any] | None = None
+        if any(
+            _explicit_family_latest_state(item) is None
+            for item in [record, *members]
+        ):
+            latest_path = _fixed_family_relation_path(
+                record,
+                relation="latest",
+                expected_record_id=source,
+            )
+            latest_relation_record = self._send(
+                _BoundProductionRequest(
+                    _RequestKind.READ_FAMILY_LATEST_RELATION,
+                    "GET",
+                    latest_path,
+                )
+            )
         concept_doi = _supported_doi(
             record,
             _CONCEPT_DOI_PATHS,
@@ -356,6 +380,8 @@ class UrllibProductionDraftTransport:
             "latest": record,
             "members": members,
         }
+        if latest_relation_record is not None:
+            observation["latest_relation_record"] = latest_relation_record
         observed_family = ProductionFamilySnapshot.from_object(observation)
         if observed_family.as_dict() != plan.family.as_dict():
             raise ProductionFamilyError(
@@ -642,6 +668,9 @@ class UrllibProductionDraftTransport:
         source_paths = {
             _RequestKind.READ_FAMILY_RECORD: f"/api/records/{source}",
             _RequestKind.READ_FAMILY_MEMBERS: f"/api/records/{source}/versions",
+            _RequestKind.READ_FAMILY_LATEST_RELATION: (
+                f"/api/records/{source}/versions/latest"
+            ),
             _RequestKind.READ_CURRENT_DEPOSITION: (
                 f"/api/deposit/depositions/{source}"
             ),
@@ -772,9 +801,34 @@ class UrllibProductionDraftTransport:
             self._approved_file_written = False
 
 
-class _RejectRedirects(urllib.request.HTTPRedirectHandler):
+class _ProductionRedirectBoundary(urllib.request.HTTPRedirectHandler):
     def redirect_request(self, request, file_pointer, code, message, headers, new_url):
-        return None
+        if request.get_method() != "GET" or code != 301:
+            return None
+        original = urlsplit(request.full_url)
+        match = re.fullmatch(
+            r"/api/records/([0-9]+)/versions/latest",
+            original.path,
+        )
+        if (
+            original.scheme != "https"
+            or original.hostname != "zenodo.org"
+            or original.username is not None
+            or original.password is not None
+            or original.port not in {None, 443}
+            or original.query
+            or original.fragment
+            or match is None
+        ):
+            return None
+        expected = f"https://zenodo.org/api/records/{match.group(1)}"
+        if new_url != expected:
+            return None
+        return urllib.request.Request(
+            new_url,
+            headers=dict(request.header_items()),
+            method="GET",
+        )
 
 
 def _require_current_deposition(
