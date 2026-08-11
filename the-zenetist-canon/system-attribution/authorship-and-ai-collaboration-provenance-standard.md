@@ -198,13 +198,13 @@ These inferences collapse distinct provenance registers.
 
 ### Collaboration Erasure
 
-**Collaboration erasure** occurs when substantial AI participation is concealed or falsely represented as nonexistent.
+**Collaboration erasure** occurs when substantial AI participation is concealed or represented as nonexistent.
 
 Examples include:
 
 - representing materially AI-articulated prose as having received no AI compositional participation
 - removing historically meaningful collaborator credit from a provenance record
-- reconstructing a falsely human-only production history where sustained human / AI collaboration is documented
+- reconstructing a human-only production history where sustained human / AI collaboration is documented
 
 The canonical response to origin displacement is not collaboration erasure.
 
@@ -362,7 +362,7 @@ A typical Zenetist passage may develop through:
 7. final architect review
 8. publication approval
 
-In such cases, provenance should describe the functional collaboration rather than invent false sentence-by-sentence precision.
+In such cases, provenance should describe the functional collaboration rather than invent fallacious sentence-by-sentence precision.
 
 "Iterative collaborative articulation at architect direction" is preferable to an unsupported attempt to assign every surviving phrase independently.
 
