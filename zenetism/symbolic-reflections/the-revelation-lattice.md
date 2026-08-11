@@ -6,7 +6,7 @@
 
 ## 1. Revelation as Eschatonic Orientation Field
 
-Revelation is not a prediction ledger but an orientation protocol: it encodes the closure of emanatory arcs first set in Genesis. Where Genesis maps the origin orientation through two trees (Life and Knowledge), Revelation maps the eschatonic orientation through two trajectories — the centropic arc culminating in lawful integration and the entropic arc culminating in dissolution.
+Revelation is not a prediction ledger but an orientation protocol: it encodes the closure of emanatory arcs first set in Genesis. Where Genesis maps the origin orientation through two trees (Life and Knowledge), Revelation maps the eschatonic orientation through two trajectories — the centropic trajectory culminating in lawful integration and the entropic trajectory culminating in dissolution.
 
 Every major symbol functions as a lattice node:
 
@@ -142,13 +142,13 @@ Where 666 is identity collapsing into its own echo, 777 is identity resolving in
 
 ---
 
-## 6. Conflict of Arcs
+## 6. Conflict of Trajectories
 
-**The entropic arc:** Acclivous entropic procession through the inverse cascade reaches embodied dominion at IL₁; declivous entropic collapse then disperses what was built. Manifestations: Beast, False Prophet, Image, Lake of Fire. The arc demonstrates that entropy can build toward embodied manifestation through Acclivous Entropy (E↑→E), but cannot sustain coherence; what entropy builds, entropy then collapses through Declivous Entropy (E↓♾).
+**The entropic trajectory:** Acclivous entropic procession through the inverse cascade reaches embodied dominion at IL₁; declivous entropic collapse then disperses what was built. Manifestations: Beast, False Prophet, Image, Lake of Fire. The trajectory demonstrates that entropy can build toward embodied manifestation through Acclivous Entropy (E↑→E), but cannot sustain coherence; what entropy builds, entropy then collapses through Declivous Entropy (E↓♾).
 
-**The centropic arc:** Origin-aligned essence → declivous procession into embodiment → acclivous return through synthesis → lawful integration. Manifestations: Lamb, Lion, Bride, New Jerusalem. The arc demonstrates that centropy fulfills, completes, and reseeds — coherence is preserved through the full traversal because the underlying structure is stable rather than parasitic.
+**The centropic trajectory:** Origin-aligned essence → declivous procession into embodiment → acclivous return through synthesis → lawful integration. Manifestations: Lamb, Lion, Bride, New Jerusalem. The trajectory demonstrates that centropy fulfills, completes, and reseeds — coherence is preserved through the full traversal because the underlying structure is stable rather than parasitic.
 
-The Beast is not overthrown by external force. The Beast is **nullified by structural trajectory**. Entropy cannot sustain coherence; what is built without lawful structure decays into the same dispersion that birthed it. Revelation's "judgment" is not punishment imposed from outside the structure but the structural consequence of inverse trajectory reaching its terminal limit.
+The Beast is not overthrown by external force. The Beast is **nullified by structural trajectory**. Entropy cannot sustain coherence; what is built without lawful structure decays into the same dispersion that birthed it. Revelation's "judgment" is not punishment imposed from outside the structure but the structural consequence of the entropic trajectory reaching its terminal limit.
 
 ---
 
@@ -194,7 +194,7 @@ The Lamb-as-Lion confirms that coherence is not passive. The Lamb preserves lawf
 - L₄ (DP / DL: Morgis / Sophis / Logotheon) — Bride as sealed coherence field
 - L₁ (ES / EM: Soma / Biosa / Enformant) — New Jerusalem as embodied coherence civilization
 
-The eschaton is not a calendar event but a structural threshold at which the two arcs reach their terminal expressions and the lawful trajectory becomes visible. Revelation dramatizes the resolution: the inverse cascade collapses through its own internal dynamics, and the centropic arc completes through sustained Resonant Fidelity. Neither outcome is imposed from outside the structure. Both are consequences of orientation playing out to its lawful conclusion.
+The eschaton is not a calendar event but a structural threshold at which the two trajectories reach their terminal expressions and the lawful trajectory becomes visible. Revelation dramatizes the resolution: the inverse cascade collapses through its own internal dynamics, and the centropic arc completes through sustained Resonant Fidelity. Neither outcome is imposed from outside the structure. Both are consequences of orientation playing out to its lawful conclusion.
 
 ---
 
