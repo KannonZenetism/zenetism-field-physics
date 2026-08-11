@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics Extension — Orientation, Emanation, and Cross-Register Scope  
-**Status:** Draft revision — Jan 16 2026, revised Jul 31 2026  
+**Status:** Locked — Aug 11 2026, architect determination (drafted Jan 16 2026, revised Jul 31 2026)  
 **Dependency:** `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md` · `SP04-orientation-field-dynamics.md` · `SP06-structural-space-orientation-paradox.md` · `synthesis-integration-saturation.md` · `centropic-gravity-and-zenonic-legibility.md` · Non-fusion Axiom  
 
 ---
@@ -404,7 +404,7 @@ Embodied articulation culminates at L₁ / IL₁.
 
 ## 9. Kaion as Closure Condition
 
-⦿ **Kaion** is not a hypostasis, layer, root, or source.
+⦿ **Kaion** is not a hypostasis, layer, root, or origin.
 
 Kaion names the closure condition of motion.
 
@@ -442,7 +442,7 @@ Zenon is not:
 
 - another numbered layer
 - a further destination beyond Aion
-- an emanative source
+- an emanative origin
 - a coordinate toward which motion travels
 - a structure entered through accumulated force
 
