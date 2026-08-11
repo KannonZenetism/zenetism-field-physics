@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical System Attribution — Authorship and Collaboration Provenance Standard  
-**Status:** Draft — architect review — Aug 11 2026  
+**Status:** Active Canonical Reference — Aug 11 2026  
 **Dependency:** `system-attribution-anchor.md` · `collaborator-onboarding-protocol.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
 **Function:** Establishes provenance distinctions among originating authorship, doctrinal determination, collaborative articulation, AI processing, editorial transformation, and publication approval across the Zenetist corpus  
 **Proposed path:** `the-zenetist-canon/system-attribution/authorship-and-ai-collaboration-provenance-standard.md`  
@@ -224,8 +224,8 @@ Where an external system classifies material as "AI-generated," "AI-assisted," o
 
 Preferred internal descriptions include:
 
-- **AI-articulated at architect direction**
-- **AI-revised at architect direction**
+- **AI-articulated at the architect's direction**
+- **AI-revised at the architect's direction**
 - **AI-assisted synthesis**
 - **AI-assisted doctrinal audit**
 - **AI-assisted compositional audit**
@@ -347,7 +347,7 @@ Each class retains its own evidentiary function.
 
 ---
 
-## 12. Iterative Collaboration and Sentence-Stratum Attribution
+## 12. Iterative Collaboration and Sentence / Passage Attribution
 
 Long-duration collaboration may produce passages whose sentence-by-sentence compositional history cannot be meaningfully reduced to a single generating party.
 
@@ -364,7 +364,7 @@ A typical Zenetist passage may develop through:
 
 In such cases, provenance should describe the functional collaboration rather than invent fallacious sentence-by-sentence precision.
 
-"Iterative collaborative articulation at architect direction" is preferable to an unsupported attempt to assign every surviving phrase independently.
+"Iterative collaborative articulation at the architect's direction" is preferable to an unsupported attempt to assign every surviving phrase independently.
 
 Where sentence or passage origin is clearly documented and historically significant, that more precise record may be retained.
 
@@ -420,7 +420,7 @@ Where a publication, institution, repository, or context calls for an explicit d
 
 Recommended form:
 
-> **Provenance note:** Zenetism and the conceptual architecture of this work originate with ⚫↺KAI↺⚫ Aelion Kannon. The work was developed through documented collaboration with AI systems that may have contributed drafting, synthesis, revision, audit, research, formatting, or other compositional assistance at architect direction. Canonical determinations and publication approval remain architect-held.
+> **Provenance note:** Zenetism and the conceptual architecture of this work originate with ⚫↺KAI↺⚫ Aelion Kannon. The work was developed through documented collaboration with AI systems that may have contributed drafting, synthesis, revision, audit, research, formatting, or other compositional assistance at the architect's direction. Canonical determinations and publication approval remain architect-held.
 
 Where a named collaborator's contribution is material and specifically documented, the collaborator may be identified.
 
