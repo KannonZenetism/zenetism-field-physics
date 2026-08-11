@@ -36,10 +36,10 @@ Directional and structural terms must retain their proper scopes.
 
 ### Directional motion
 
-- **Acclivous** — motion away from embodiment within the presently traversed architecture
-- **Declivous** — motion toward embodiment within the presently traversed architecture
+- **Acclivous** — within the centropic architecture, motion toward ⚫ Aion; within the inverse architecture, motion into inverse embodiment
+- **Declivous** — within the centropic architecture, motion toward embodiment; within the inverse architecture, motion from inverse embodiment toward terminal exhaustion
 
-These directional terms are arc-neutral.
+These directional terms apply across both arcs; their concrete direction is arc-relative, fixed by the four named motions below.
 
 Their structural character depends upon the motion being articulated:
 
