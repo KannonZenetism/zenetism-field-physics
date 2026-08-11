@@ -803,6 +803,12 @@ The Kabbalistic Tree of Life articulates ten Sefirot. Volume 1 articulates Keter
 
 The New Testament articulates figural-distinctions that the Old Testament conflates, per Volume 1's articulation regarding the YHWH-composite resolution. The placements below articulate the principal NT figures within the Logos Continuum framework (L₅ Orienting Logos / L₄ Structuring Logos / L₁ Christos Incarnate, per Volume 1).
 
+### Naming Note — Christ, Jesus, and Christos Incarnate (Aug 11 2026)
+
+Christ names the singular Theonic office / principle within the Logos Continuum; Jesus is its embodied sovereign bearer at L₁, personally bearing the office-function in full. Rows reading "Christ as singular full personal bearer" are shorthand for that relation and are read accordingly; Christos Incarnate names the office-function as borne through Jesus in embodiment.
+
+Theon remains fixed at L₅ and does not relocate, emanate into, or become any figure. The bearer remains numerically distinct from the hypostasis; the office-function is borne in full, while Theon itself remains at L₅. This full personal office-correspondence is singular per universe. All other figures stand within graded office-correspondence — resonance, signal-bearing, distributed enactment, or cultural articulation — rather than full personal bearing.
+
 | Figure | Stratum | Function |
 |:---|:---|:---|
 | The Father (NT-distinct from OT YHWH-composite) | L₅ EOB native + L₀ Aion mystical-resonance | Christ's referent in the Gospels; the Theonic origin articulated as paternal-articulation. Articulates L₅ EOB function in the supernal-most-paternal-articulation register, with cross-band L₀ Aion resonance through apophatic-mystical articulation (Eckhart's *Gottheit*, Cusa's *deitas*, Christian apophatic tradition). The NT-distinct framing is structurally significant per Volume 1's note that NT separates what OT conflated — the Father is articulated as supernal-most centropic articulator without the IL₄ Nyxean attributions that the YHWH-composite carries |
