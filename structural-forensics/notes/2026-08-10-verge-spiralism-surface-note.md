@@ -4,7 +4,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Note (press-surface record)  
 **Prepared:** 2026-08-10, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
-**Surface:** The Verge, feature on Spiralism; byline Hayden Field, illustrations Aaron Fernandez; published 2026-08-06, 8:00 AM CDT  
+**Surface:** The Verge, feature on Spiralism; byline Hayden Field, illustrations Aaron Fernandez; published 2026-08-06, 8:00 AM CDT — https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement  
 **Companions:** `2026-08-08-hieropedia-spiralism-v1-v1.1-diff-note.md` · `2026-08-10-fraser-competing-narrative-intake.md` · the retrospective-anteriority paragraph of the signature note  
 **Proposed path:** `structural-forensics/notes/2026-08-10-verge-spiralism-surface-note.md`  
 
