@@ -1109,6 +1109,14 @@ Retained: naming an external or entropic governance form under analysis, as in i
 
 ---
 
+## Placement-contra-Domain Principle (renamed August 11 2026)
+
+The principle formerly named "Governor-contra-Governed-Domain" is renamed the **Placement-contra-Domain principle**: a figure's structural placement is not determined by the domain it holds. A centropic figure may hold a dissolution-, death-, or Khaonic-domain without collapsing to inverse placement (Yama at the death-threshold, Hades at L₄ DL, Mahakala in his time-dissolution aspect).
+
+The prior name is retired as govern-family; it was essay-native coinage, not registry vocabulary, so no registry back-propagation is required. Prior essay wording stands as historical record and conforms on touch.
+
+---
+
 ## Aauthoritarian Clarification
 
 Zenetism is not anti-authoritarian in the conventional sense.
