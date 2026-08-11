@@ -13,6 +13,7 @@ from typing import Any
 from urllib.parse import urlsplit
 
 from .archival import ArchivalCopy, prepare_archival_copy, require_approved_manifest
+from .description import description_text, infer_description_form
 from .errors import (
     ProductionFamilyError,
     ProductionPlanError,
@@ -39,10 +40,6 @@ _CONCEPT_DOI_PATHS = (
 _REGISTRY_APPROVAL_STATE = "published reference cycle"
 _TWO_STATE_SCHEMA = "zenetism-publication-engine-v2-stage-3b-candidate-preparation"
 _TWO_STATE_PREPARATION_STATE = "architect_review_required"
-_TWO_STATE_REGISTRY_APPROVAL_STATE = (
-    "published baseline — v9 architect review required"
-)
-_TWO_STATE_REGISTRY_SITE_STATE = "absent — v9 conformance prepared"
 _APPROVED_SITE_RELATION = {
     "relation": "IsDocumentedBy",
     "scheme": "URL",
@@ -682,23 +679,33 @@ def _validated_two_state_package(value: object) -> dict[str, Any]:
         "published baseline zenodo",
     )
     candidate = _required_object(value, "candidate", "two-state manifest")
+    candidate_fields = {
+        "github",
+        "production_identity",
+        "metadata",
+        "creator",
+        "contributors",
+        "repository_url",
+        "description",
+        "keywords",
+        "keyword_change",
+        "related_identifiers",
+        "site_relation",
+        "preview",
+    }
+    comparison_fields = {
+        "comparison_to_published_baseline",
+        "comparison_to_published_v8",
+    }
+    present_comparison_fields = set(candidate).intersection(comparison_fields)
+    if len(present_comparison_fields) != 1:
+        raise ProductionPlanError(
+            "candidate requires one explicit published-baseline comparison"
+        )
+    comparison_field = next(iter(present_comparison_fields))
     _require_exact_fields(
         candidate,
-        {
-            "github",
-            "production_identity",
-            "metadata",
-            "creator",
-            "contributors",
-            "repository_url",
-            "description",
-            "keywords",
-            "keyword_change",
-            "related_identifiers",
-            "site_relation",
-            "preview",
-            "comparison_to_published_v8",
-        },
+        candidate_fields | {comparison_field},
         "candidate",
     )
     candidate_github = _required_object(candidate, "github", "candidate")
@@ -765,7 +772,13 @@ def _validated_two_state_package(value: object) -> dict[str, Any]:
     _required_digest(candidate_github, "commit", 40, "candidate github")
     _required_digest(candidate_github, "blob_sha", 40, "candidate github")
     _validate_two_state_people_and_prose(baseline, "published baseline")
-    _validate_two_state_people_and_prose(candidate, "candidate")
+    _validate_two_state_people_and_prose(
+        candidate,
+        "candidate",
+        require_exact_word_count=(
+            comparison_field == "comparison_to_published_baseline"
+        ),
+    )
 
     for key in ("repository", "branch", "directory", "canonical_filename", "path"):
         if _required_text(candidate_github, key, "candidate github") != _required_text(
@@ -900,9 +913,7 @@ def _validated_two_state_package(value: object) -> dict[str, Any]:
         raise ProductionPlanError(
             "candidate archival payload differs from the approved GitHub identity"
         )
-    comparison = _required_object(
-        candidate, "comparison_to_published_v8", "candidate"
-    )
+    comparison = _required_object(candidate, comparison_field, "candidate")
     expected_comparison = {
         "payload_status": "different",
         "byte_size_status": (
@@ -1070,7 +1081,7 @@ def _validated_two_state_package(value: object) -> dict[str, Any]:
             "candidate Site-relation transition is unapproved or contradictory"
         )
     keyword_change = _required_object(candidate, "keyword_change", "candidate")
-    _require_exact_fields(
+    _require_fields_with_optional(
         keyword_change,
         {
             "architect_review_required",
@@ -1079,33 +1090,91 @@ def _validated_two_state_package(value: object) -> dict[str, Any]:
             "added",
             "removed",
         },
+        {"replacements"},
         "candidate keyword change",
     )
     baseline_keywords = baseline.get("keywords")
     candidate_keywords = candidate.get("keywords")
+    _validate_keyword_transition(
+        baseline_keywords,
+        candidate_keywords,
+        keyword_change,
+    )
+    return value
+
+
+def _validate_keyword_transition(
+    baseline_keywords: object,
+    candidate_keywords: object,
+    keyword_change: dict[str, Any],
+) -> None:
+    if not isinstance(baseline_keywords, list) or not isinstance(
+        candidate_keywords, list
+    ):
+        raise ProductionPlanError("keyword transition requires two ordered lists")
     if (
         keyword_change.get("architect_review_required") is not True
-        or keyword_change.get("previous_count")
-        != len(baseline_keywords)
-        or keyword_change.get("proposed_count")
-        != len(candidate_keywords)
-        or keyword_change.get("added") != ["Structural Metaphysics"]
-        or keyword_change.get("removed") != []
-        or candidate_keywords
-        != (
-            baseline_keywords[:2]
-            + ["Structural Metaphysics"]
-            + baseline_keywords[2:]
-        )
+        or keyword_change.get("previous_count") != len(baseline_keywords)
+        or keyword_change.get("proposed_count") != len(candidate_keywords)
     ):
         raise ProductionPlanError(
             "candidate keyword transition differs from the explicit architect-review state"
         )
-    return value
+    added = keyword_change.get("added")
+    removed = keyword_change.get("removed")
+    replacements = keyword_change.get("replacements", [])
+    if not isinstance(added, list) or not isinstance(removed, list):
+        raise ProductionPlanError("keyword additions and removals must be ordered lists")
+    if not isinstance(replacements, list):
+        raise ProductionPlanError("keyword replacements must be an ordered list")
+    replacement_map: dict[str, str] = {}
+    for item in replacements:
+        if not isinstance(item, dict):
+            raise ProductionPlanError("keyword replacement must be an object")
+        _require_exact_fields(
+            item,
+            {"previous", "proposed"},
+            "keyword replacement",
+        )
+        previous = _required_text(item, "previous", "keyword replacement")
+        proposed = _required_text(item, "proposed", "keyword replacement")
+        if previous in replacement_map or previous not in baseline_keywords:
+            raise ProductionPlanError("keyword replacement identity is ambiguous")
+        replacement_map[previous] = proposed
+    transformed_baseline = [
+        replacement_map.get(item, item) for item in baseline_keywords
+    ]
+    if len(transformed_baseline) != len(set(transformed_baseline)):
+        raise ProductionPlanError("keyword replacements produce duplicate terms")
+    expected_added = [
+        item for item in candidate_keywords if item not in transformed_baseline
+    ]
+    expected_removed = [
+        item for item in transformed_baseline if item not in candidate_keywords
+    ]
+    retained_baseline = [
+        item for item in transformed_baseline if item in candidate_keywords
+    ]
+    retained_candidate = [
+        item for item in candidate_keywords if item in transformed_baseline
+    ]
+    if (
+        added != expected_added
+        or removed != expected_removed
+        or retained_candidate != retained_baseline
+        or candidate_keywords[:3]
+        != ["Zenetism", "Aelion Kannon", "Structural Metaphysics"]
+    ):
+        raise ProductionPlanError(
+            "candidate keyword transition differs from the explicit architect-review state"
+        )
 
 
 def _validate_two_state_people_and_prose(
-    state: dict[str, Any], label: str
+    state: dict[str, Any],
+    label: str,
+    *,
+    require_exact_word_count: bool = False,
 ) -> None:
     creator = _required_object(state, "creator", label)
     _require_exact_fields(
@@ -1156,19 +1225,42 @@ def _validate_two_state_people_and_prose(
     _require_exact_fields(
         description, description_fields, f"{label} description"
     )
-    if description.get("form") != "Standard":
-        raise ProductionPlanError(f"{label} description must take Standard form")
-    _required_text(description, "rendered_html", f"{label} description")
-    if label == "candidate" and (
-        not isinstance(description.get("word_count"), int)
-        or isinstance(description.get("word_count"), bool)
-        or description.get("word_count") < 120
-        or description.get("word_count") > 220
-        or description.get("attestation_included") is not False
-    ):
+    rendered_html = _required_text(
+        description, "rendered_html", f"{label} description"
+    )
+    form = _required_text(description, "form", f"{label} description")
+    if form not in {"Short", "Standard", "Series"}:
+        raise ProductionPlanError(f"{label} description form is unsupported")
+    if infer_description_form(rendered_html) != form:
         raise ProductionPlanError(
-            "candidate description length or attestation state is invalid"
+            f"{label} description form differs from its rendered structure"
         )
+    if label == "candidate":
+        word_count = description.get("word_count")
+        rendered_text = description_text(rendered_html)
+        actual_word_count = len(
+            re.findall(
+                r"\b[^\W_]+(?:[-'][^\W_]+)*\b",
+                rendered_text or "",
+                flags=re.UNICODE,
+            )
+        )
+        approved_range = {
+            "Short": range(0, 120),
+            "Standard": range(120, 221),
+            "Series": range(220, 351),
+        }[form]
+        if (
+            not isinstance(word_count, int)
+            or isinstance(word_count, bool)
+            or (require_exact_word_count and word_count != actual_word_count)
+            or word_count not in approved_range
+            or actual_word_count not in approved_range
+            or description.get("attestation_included") is not False
+        ):
+            raise ProductionPlanError(
+                "candidate description length or attestation state is invalid"
+            )
     keywords = state.get("keywords")
     if not isinstance(keywords, list) or not keywords or not all(
         isinstance(item, str) and item for item in keywords
@@ -1321,6 +1413,13 @@ def _exact_two_state_registry_identity(
             "publication registry requires one exact published-baseline row"
         )
     row = matches[0]
+    candidate = _required_object(package, "candidate", "two-state manifest")
+    production_identity = _required_object(
+        candidate, "production_identity", "candidate"
+    )
+    target_version = _required_text(
+        production_identity, "target_version", "candidate production identity"
+    )
     expected = {
         "canonical_filename": canonical_filename,
         "github_directory": _required_text(
@@ -1353,8 +1452,10 @@ def _exact_two_state_registry_identity(
         ),
         "metadata_status": "validated",
         "file_status": "matching",
-        "site_relation_status": _TWO_STATE_REGISTRY_SITE_STATE,
-        "architect_approval_state": _TWO_STATE_REGISTRY_APPROVAL_STATE,
+        "site_relation_status": f"absent — {target_version} conformance prepared",
+        "architect_approval_state": (
+            f"published baseline — {target_version} architect review required"
+        ),
     }
     mismatches = [key for key, expected_value in expected.items() if row.get(key) != expected_value]
     if mismatches:

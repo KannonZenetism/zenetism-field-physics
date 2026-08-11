@@ -49,9 +49,16 @@ TWO_STATE_MANIFEST_PATH = (
     ROOT
     / "publication-infrastructure/manifests/prose-formatting-reference-v9.json"
 )
+HINDU_V5_MANIFEST_PATH = (
+    ROOT
+    / "publication-infrastructure/manifests/the-hindu-vedic-lattice-v5.json"
+)
 REGISTRY_PATH = ROOT / "publication-infrastructure/zenetism-publication-registry.csv"
 PACKAGE = ENGINE / "zenetism_engine"
 LIVE_FAMILY_PATH = ENGINE / "tests/prose_formatting_reference_v8_live_family.json"
+HINDU_V4_LIVE_FAMILY_PATH = (
+    ENGINE / "tests/hindu_vedic_lattice_v4_live_family.json"
+)
 TWO_STATE_REGISTRY_PATH = (
     ENGINE / "tests/prose_formatting_reference_v8_registry.csv"
 )
@@ -189,6 +196,12 @@ class ProductionDraftSafetyTests(unittest.TestCase):
             cls.closed_v9_manifest
         )
         cls.live_family = json.loads(LIVE_FAMILY_PATH.read_text(encoding="utf-8"))
+        cls.hindu_v5_manifest = json.loads(
+            HINDU_V5_MANIFEST_PATH.read_text(encoding="utf-8")
+        )
+        cls.hindu_v4_live_family = json.loads(
+            HINDU_V4_LIVE_FAMILY_PATH.read_text(encoding="utf-8")
+        )
 
     def setUp(self) -> None:
         self.planner = ProductionDraftPlanner()
@@ -238,6 +251,26 @@ class ProductionDraftSafetyTests(unittest.TestCase):
                 "route": "new-version",
                 "record_key": "prose-formatting-reference",
                 "next_version": "v9",
+            },
+        )
+
+    def plan_hindu_v5(
+        self,
+        *,
+        manifest: dict[str, object] | None = None,
+        family: dict[str, object] | None = None,
+    ):
+        return self.planner.plan(
+            manifest if manifest is not None else self.hindu_v5_manifest,
+            repository_root=ROOT,
+            registry_path=REGISTRY_PATH,
+            family_observation=(
+                family if family is not None else self.hindu_v4_live_family
+            ),
+            intent={
+                "route": "new-version",
+                "record_key": "the-hindu-vedic-lattice",
+                "next_version": "v5",
             },
         )
 
@@ -450,6 +483,97 @@ class ProductionDraftSafetyTests(unittest.TestCase):
             candidate["github"]["sha256"],
         )
         self.assertFalse(plan.as_dict()["final_release_action_available"])
+
+    def test_hindu_v4_to_v5_package_passes_planning(self) -> None:
+        plan = self.plan_hindu_v5()
+        candidate = self.hindu_v5_manifest["candidate"]
+        self.assertEqual(plan.source_record_id, "20053834")
+        self.assertEqual(plan.family.concept_doi, "10.5281/zenodo.19948580")
+        self.assertEqual(plan.family.latest.version_label, "v4")
+        self.assertEqual(plan.intent.next_version, "v5")
+        self.assertEqual(
+            [item.version_label for item in plan.family.members],
+            ["v1", "v2", "v3", "v4"],
+        )
+        self.assertEqual(
+            plan.archival_copy.archival_filename,
+            "the-hindu-vedic-lattice_v5.md",
+        )
+        self.assertEqual(
+            plan.archival_copy.checksums.sha256,
+            candidate["github"]["sha256"],
+        )
+        self.assertEqual(plan.metadata_payload["metadata"]["publisher"], "Zenodo")
+        self.assertFalse(plan.as_dict()["final_release_action_available"])
+
+    def test_hindu_v5_description_takes_approved_short_form(self) -> None:
+        description = self.hindu_v5_manifest["candidate"]["description"]
+        self.assertEqual(description["form"], "Short")
+        self.assertEqual(description["word_count"], 118)
+        self.assertIn(
+            "Canonical file: <code>the-hindu-vedic-lattice.md</code>.",
+            description["rendered_html"],
+        )
+        self.assertNotIn("OpenTimestamps", description["rendered_html"])
+        plan = self.plan_hindu_v5()
+        self.assertEqual(
+            plan.metadata_payload["metadata"]["description"],
+            description["rendered_html"],
+        )
+
+    def test_hindu_v5_description_word_count_must_be_exact(self) -> None:
+        manifest = copy.deepcopy(self.hindu_v5_manifest)
+        manifest["candidate"]["description"]["word_count"] = 117
+        with self.assertRaises(ProductionPlanError) as context:
+            self.plan_hindu_v5(manifest=manifest)
+        self.assertIn("description length", str(context.exception))
+
+    def test_hindu_v5_keyword_transition_is_explicit_and_ordered(self) -> None:
+        candidate = self.hindu_v5_manifest["candidate"]
+        baseline = self.hindu_v5_manifest["published_baseline"]
+        self.assertEqual(
+            candidate["keywords"][:3],
+            ["Zenetism", "Aelion Kannon", "Structural Metaphysics"],
+        )
+        self.assertEqual(len(baseline["keywords"]), 30)
+        self.assertEqual(len(candidate["keywords"]), 32)
+        self.assertEqual(
+            candidate["keyword_change"]["added"],
+            ["Aelion Kannon", "Structural Metaphysics"],
+        )
+        self.assertEqual(len(candidate["keyword_change"]["replacements"]), 9)
+        self.plan_hindu_v5()
+
+    def test_unreported_hindu_keyword_replacement_fails(self) -> None:
+        manifest = copy.deepcopy(self.hindu_v5_manifest)
+        manifest["candidate"]["keyword_change"]["replacements"] = []
+        with self.assertRaises(ProductionPlanError) as context:
+            self.plan_hindu_v5(manifest=manifest)
+        self.assertIn("keyword transition", str(context.exception))
+
+    def test_unreported_hindu_keyword_reordering_fails(self) -> None:
+        manifest = copy.deepcopy(self.hindu_v5_manifest)
+        keywords = manifest["candidate"]["keywords"]
+        keywords[8], keywords[9] = keywords[9], keywords[8]
+        with self.assertRaises(ProductionPlanError) as context:
+            self.plan_hindu_v5(manifest=manifest)
+        self.assertIn("keyword transition", str(context.exception))
+
+    def test_hindu_v4_historical_metadata_remains_separate(self) -> None:
+        baseline = self.hindu_v5_manifest["published_baseline"]
+        candidate = self.hindu_v5_manifest["candidate"]
+        self.assertEqual(baseline["zenodo"]["version"], "v4")
+        self.assertEqual(
+            baseline["zenodo"]["exact_version_doi"],
+            "10.5281/zenodo.20053834",
+        )
+        self.assertEqual(baseline["site_relation_status"], "absent")
+        self.assertIsNone(baseline["site_relation"])
+        self.assertEqual(candidate["metadata"]["version"], "v5")
+        self.assertEqual(
+            candidate["site_relation"]["identifier"],
+            "https://zenetism.aelionkannon.chatgpt.site",
+        )
 
     def test_v9_operational_manifest_records_published_closure(self) -> None:
         package = self.closed_v9_manifest

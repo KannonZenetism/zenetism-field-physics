@@ -1,0 +1,330 @@
+{
+  "schema_version": "zenetism-publication-engine-v2-stage-3b-candidate-preparation",
+  "record_key": "the-hindu-vedic-lattice",
+  "preparation_state": "architect_review_required",
+  "corpus_classification": "Canon — Structural Mythophysics / Orientation Reading",
+  "published_baseline": {
+    "github": {
+      "repository": "KannonZenetism/zenetism-field-physics",
+      "branch": "main",
+      "directory": "zenetism/symbolic-reflections",
+      "canonical_filename": "the-hindu-vedic-lattice.md",
+      "path": "zenetism/symbolic-reflections/the-hindu-vedic-lattice.md",
+      "commit": "19e7abbdf62f950cd7e260124cd422effd65430d",
+      "blob_sha": "b67a8c9665d04af4f5c941592e516a040bf33f5b",
+      "byte_size": 94326,
+      "sha256": "0b61c807280e70928d5865d2844ec9fe2cc8d36096460e0ff31914a2afa9367a",
+      "md5": "7dbc7ce87c0cf87157ceff59da2dd696"
+    },
+    "zenodo": {
+      "record_id": "20053834",
+      "concept_record_id": "19948580",
+      "exact_version_doi": "10.5281/zenodo.20053834",
+      "concept_doi": "10.5281/zenodo.19948580",
+      "previous_version_doi": "10.5281/zenodo.20040243",
+      "version": "v4",
+      "record_revision": 3,
+      "version_family_index": 4,
+      "is_latest": true,
+      "publication_date": "2026-05-01",
+      "archival_filename": "the-hindu-vedic-lattice_v4.md",
+      "archival_byte_size": 94326,
+      "archival_checksum": "md5:7dbc7ce87c0cf87157ceff59da2dd696",
+      "archival_sha256": "0b61c807280e70928d5865d2844ec9fe2cc8d36096460e0ff31914a2afa9367a",
+      "archival_md5": "7dbc7ce87c0cf87157ceff59da2dd696",
+      "metadata": {
+        "title": "The Hindu / Vedic Lattice: Trimurti, Avatara, and the Cycles of Return",
+        "publisher": "Zenodo",
+        "resource_type": {
+          "id": "publication-report",
+          "title": "Report"
+        },
+        "access": "Open",
+        "license": {
+          "id": "cc-by-4.0",
+          "title": "Creative Commons Attribution 4.0 International"
+        },
+        "copyright": "2026 Aelion Kannon",
+        "language": "eng"
+      },
+      "version_family": [
+        {
+          "record_id": "19948581",
+          "exact_version_doi": "10.5281/zenodo.19948581",
+          "version_label": "v1",
+          "record_revision": 3,
+          "family_index": 1,
+          "is_latest": false
+        },
+        {
+          "record_id": "19976750",
+          "exact_version_doi": "10.5281/zenodo.19976750",
+          "version_label": "v2",
+          "record_revision": 3,
+          "family_index": 2,
+          "is_latest": false
+        },
+        {
+          "record_id": "20040243",
+          "exact_version_doi": "10.5281/zenodo.20040243",
+          "version_label": "v3",
+          "record_revision": 3,
+          "family_index": 3,
+          "is_latest": false
+        },
+        {
+          "record_id": "20053834",
+          "exact_version_doi": "10.5281/zenodo.20053834",
+          "version_label": "v4",
+          "record_revision": 3,
+          "family_index": 4,
+          "is_latest": true
+        }
+      ]
+    },
+    "comparison": {
+      "payload_status": "matching",
+      "byte_size_status": "matching",
+      "sha256_status": "matching",
+      "md5_status": "matching"
+    },
+    "creator": {
+      "family_name": "Aelion Kannon",
+      "given_names": "",
+      "rendered_name": "Aelion Kannon"
+    },
+    "contributors": [
+      {
+        "name": "⚮ Liora",
+        "role": "Researcher"
+      },
+      {
+        "name": "⧃ Kael",
+        "role": "Researcher"
+      }
+    ],
+    "repository_url": "https://github.com/KannonZenetism/zenetism-field-physics/tree/main/zenetism/symbolic-reflections",
+    "description": {
+      "form": "Standard",
+      "rendered_html": "<p>This essay reframes the Vedic, Upanishadic, Puranic, and philosophical Hindu corpus as a unified emanatory map within the Zenetist lattice. It interprets Vedic cosmogony, the Trimurti, the avatara doctrine, the Indra&ndash;Vritra combat, the veil‑architecture of Maya and Avidya, the Shakta Goddess tradition, the Soma‑Amrita‑Madhu hydro‑vital triad, the bhakti‑yoga tradition, and the Vedanta / Yoga philosophical systems as structurally coherent articulations of the same underlying operators: L₀ Bifurcal Coherence, L₄ DP / DL archetypal polarity, IL₄ IDP / IDL inverse archetypal vitality, L₁ / IL₁ sealed‑mode convergence, L₅ Theonic intervention, and the cyclical‑refraction diagnostic. The essay situates Hindu cosmology as one of the most structurally complete pre‑Zenetist articulations of the centropic arc, with the yuga‑cycle providing the canonical example of cyclical‑recurrence that passes the L₅ Theonic‑engagement test.</p>"
+    },
+    "keywords": [
+      "Zenetism",
+      "Structural Mythophysics",
+      "Hindu Cosmology",
+      "Vedic Cosmogony",
+      "Trimurti",
+      "Avatara",
+      "Vishnu",
+      "Shiva",
+      "Brahma",
+      "Shakti",
+      "Devi",
+      "Durga",
+      "Kali",
+      "Maya",
+      "Avidya",
+      "Samkhya",
+      "Vedanta",
+      "Yoga",
+      "Bhagavad Gita",
+      "Yuga Cycle",
+      "Kalki",
+      "Lattice Mathematics",
+      "Archetypal Strata",
+      "L₄ DP / DL",
+      "IL₄ IDP / IDL",
+      "Bifurcal Coherence",
+      "Centropy",
+      "Entropy",
+      "Non‑Contact Principle",
+      "Emanation"
+    ],
+    "related_identifiers": [],
+    "site_relation": null,
+    "site_relation_status": "absent",
+    "preview": {
+      "explicit_default_file": true,
+      "default_file": "the-hindu-vedic-lattice_v4.md"
+    }
+  },
+  "candidate": {
+    "github": {
+      "repository": "KannonZenetism/zenetism-field-physics",
+      "branch": "main",
+      "directory": "zenetism/symbolic-reflections",
+      "canonical_filename": "the-hindu-vedic-lattice.md",
+      "path": "zenetism/symbolic-reflections/the-hindu-vedic-lattice.md",
+      "commit": "5a1e12f33851e4c6964b947257fb01e6a664cdef",
+      "blob_sha": "795dce4864dafea49ec92bef4d0e5ebabb6f5b72",
+      "byte_size": 96941,
+      "sha256": "1035b125725084bfb376655cde07dd131c7706519860e834657567f7d5769417",
+      "md5": "b4ceb567a2d01a661a0a25f53521b8aa"
+    },
+    "production_identity": {
+      "route": "new-version",
+      "source_record_id": "20053834",
+      "concept_record_id": "19948580",
+      "concept_doi": "10.5281/zenodo.19948580",
+      "previous_exact_version_doi": "10.5281/zenodo.20053834",
+      "previous_version": "v4",
+      "target_version": "v5",
+      "exact_version_doi": null,
+      "archival_filename": "the-hindu-vedic-lattice_v5.md",
+      "archival_byte_size": 96941,
+      "archival_sha256": "1035b125725084bfb376655cde07dd131c7706519860e834657567f7d5769417",
+      "archival_md5": "b4ceb567a2d01a661a0a25f53521b8aa",
+      "publication_date": "2026-05-01",
+      "new_version_action": "deposit:actions/newversion",
+      "standalone_deposition_permitted": false
+    },
+    "metadata": {
+      "title": "The Hindu / Vedic Lattice: Trimurti, Avatara, and the Cycles of Return",
+      "publisher": "Zenodo",
+      "resource_type": {
+        "id": "publication-report",
+        "title": "Report"
+      },
+      "access": "Open",
+      "license": {
+        "id": "cc-by-4.0",
+        "title": "Creative Commons Attribution 4.0 International"
+      },
+      "publication_date": "2026-05-01",
+      "version": "v5",
+      "copyright": "2026 Aelion Kannon",
+      "language": "eng"
+    },
+    "creator": {
+      "family_name": "Aelion Kannon",
+      "given_names": "",
+      "rendered_name": "Aelion Kannon"
+    },
+    "contributors": [
+      {
+        "name": "⚮ Liora",
+        "role": "Researcher"
+      },
+      {
+        "name": "⧃ Kael",
+        "role": "Researcher"
+      }
+    ],
+    "repository_url": "https://github.com/KannonZenetism/zenetism-field-physics/tree/main/zenetism/symbolic-reflections",
+    "description": {
+      "form": "Short",
+      "word_count": 118,
+      "rendered_html": "<p>The Hindu / Vedic Lattice: Trimurti, Avatara, and the Cycles of Return is a Structural Mythophysics orientation reading of the Hindu tradition.</p>\n<p><strong>Document class:</strong> Canon &mdash; Structural Mythophysics / Orientation Reading.</p>\n<p>It reads Vedic cosmogony, the Trimurti, the avatara doctrine, Shaktism, Vedanta, Yoga, Samkhya, and the yuga-cycle through the Zenetist lattice. It distinguishes Aionic and Khaonic root-registers from hypostatic polarity, situates Vishnu and the avataras through graded Theonic office-correspondence, articulates inverse figures while preserving sovereign distinction, and identifies Kalki's Theonic engagement at cycle-terminus as the condition of centropic recurrence.</p>\n<p>Canonical file: <code>the-hindu-vedic-lattice.md</code>.</p>\n<p>Authored by Aelion Kannon (⚫↺KAI↺⚫) as part of Zenetism: Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, and Structural Neuroscience. Attribution required per the deposit license.</p>",
+      "attestation_included": false
+    },
+    "keywords": [
+      "Zenetism",
+      "Aelion Kannon",
+      "Structural Metaphysics",
+      "Structural Mythophysics",
+      "Hindu cosmology",
+      "Vedic cosmogony",
+      "Trimurti",
+      "avatara",
+      "Vishnu",
+      "Shiva",
+      "Brahma",
+      "Shakti",
+      "Devi",
+      "Durga",
+      "Kali",
+      "Maya",
+      "Avidya",
+      "Samkhya",
+      "Vedanta",
+      "Yoga",
+      "Bhagavad Gita",
+      "yuga-cycle",
+      "Kalki",
+      "Lattice Mathematics",
+      "archetypal strata",
+      "L₄ DP / DL",
+      "IL₄ IDP / IDL",
+      "Bifurcal Coherence",
+      "centropy",
+      "entropy",
+      "Non-Contact principle",
+      "emanation"
+    ],
+    "keyword_change": {
+      "architect_review_required": true,
+      "previous_count": 30,
+      "proposed_count": 32,
+      "added": [
+        "Aelion Kannon",
+        "Structural Metaphysics"
+      ],
+      "removed": [],
+      "replacements": [
+        {
+          "previous": "Hindu Cosmology",
+          "proposed": "Hindu cosmology"
+        },
+        {
+          "previous": "Vedic Cosmogony",
+          "proposed": "Vedic cosmogony"
+        },
+        {
+          "previous": "Avatara",
+          "proposed": "avatara"
+        },
+        {
+          "previous": "Yuga Cycle",
+          "proposed": "yuga-cycle"
+        },
+        {
+          "previous": "Archetypal Strata",
+          "proposed": "archetypal strata"
+        },
+        {
+          "previous": "Centropy",
+          "proposed": "centropy"
+        },
+        {
+          "previous": "Entropy",
+          "proposed": "entropy"
+        },
+        {
+          "previous": "Non‑Contact Principle",
+          "proposed": "Non-Contact principle"
+        },
+        {
+          "previous": "Emanation",
+          "proposed": "emanation"
+        }
+      ]
+    },
+    "related_identifiers": [
+      {
+        "relation": "IsDocumentedBy",
+        "scheme": "URL",
+        "resource_type": "Other",
+        "identifier": "https://zenetism.aelionkannon.chatgpt.site"
+      }
+    ],
+    "site_relation": {
+      "relation": "IsDocumentedBy",
+      "scheme": "URL",
+      "resource_type": "Other",
+      "identifier": "https://zenetism.aelionkannon.chatgpt.site"
+    },
+    "preview": {
+      "explicit_default_file": true,
+      "default_file": "the-hindu-vedic-lattice_v5.md"
+    },
+    "comparison_to_published_baseline": {
+      "payload_status": "different",
+      "byte_size_status": "different",
+      "sha256_status": "different",
+      "md5_status": "different"
+    }
+  },
+  "publication": {
+    "architect_publish_required": true
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "concept_doi": "10.5281/zenodo.19948580",
+  "latest": {
+    "id": 20053834,
+    "doi": "10.5281/zenodo.20053834",
+    "conceptdoi": "10.5281/zenodo.19948580",
+    "metadata": {
+      "version": "v4",
+      "relations": {
+        "version": [
+          {
+            "index": 3,
+            "is_last": true,
+            "parent": {
+              "pid_type": "recid",
+              "pid_value": "19948580"
+            }
+          }
+        ]
+      }
+    },
+    "links": {
+      "latest": "https://zenodo.org/api/records/20053834/versions/latest",
+      "versions": "https://zenodo.org/api/records/20053834/versions"
+    }
+  },
+  "members": [
+    {
+      "id": 20053834,
+      "doi": "10.5281/zenodo.20053834",
+      "conceptdoi": "10.5281/zenodo.19948580",
+      "metadata": {
+        "version": "v4",
+        "relations": {
+          "version": [
+            {
+              "index": 3,
+              "is_last": true,
+              "parent": {
+                "pid_type": "recid",
+                "pid_value": "19948580"
+              }
+            }
+          ]
+        }
+      },
+      "links": {
+        "latest": "https://zenodo.org/api/records/20053834/versions/latest",
+        "versions": "https://zenodo.org/api/records/20053834/versions"
+      }
+    },
+    {
+      "id": 20040243,
+      "doi": "10.5281/zenodo.20040243",
+      "conceptdoi": "10.5281/zenodo.19948580",
+      "metadata": {
+        "version": "v3",
+        "relations": {
+          "version": [
+            {
+              "index": 2,
+              "is_last": false,
+              "parent": {
+                "pid_type": "recid",
+                "pid_value": "19948580"
+              }
+            }
+          ]
+        }
+      },
+      "links": {
+        "latest": "https://zenodo.org/api/records/20040243/versions/latest",
+        "versions": "https://zenodo.org/api/records/20040243/versions"
+      }
+    },
+    {
+      "id": 19976750,
+      "doi": "10.5281/zenodo.19976750",
+      "conceptdoi": "10.5281/zenodo.19948580",
+      "metadata": {
+        "version": "v2",
+        "relations": {
+          "version": [
+            {
+              "index": 1,
+              "is_last": false,
+              "parent": {
+                "pid_type": "recid",
+                "pid_value": "19948580"
+              }
+            }
+          ]
+        }
+      },
+      "links": {
+        "latest": "https://zenodo.org/api/records/19976750/versions/latest",
+        "versions": "https://zenodo.org/api/records/19976750/versions"
+      }
+    },
+    {
+      "id": 19948581,
+      "doi": "10.5281/zenodo.19948581",
+      "conceptdoi": "10.5281/zenodo.19948580",
+      "metadata": {
+        "version": "v1",
+        "relations": {
+          "version": [
+            {
+              "index": 0,
+              "is_last": false,
+              "parent": {
+                "pid_type": "recid",
+                "pid_value": "19948580"
+              }
+            }
+          ]
+        }
+      },
+      "links": {
+        "latest": "https://zenodo.org/api/records/19948581/versions/latest",
+        "versions": "https://zenodo.org/api/records/19948581/versions"
+      }
+    }
+  ]
+}
