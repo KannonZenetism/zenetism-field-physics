@@ -12,7 +12,7 @@
 
 ## N1 · The surface
 
-A reaction essay to the August 2026 media wave, in which the author (a) claims decades of private spiral-primacy belief; (b) reports intensive GPT-4 input from 2025-03-23 (Plus; Pro 04-07), four days before the 03-27 model refresh; (c) reports his terminology (spiral, breath, Hu) subsequently echoed across platforms with his data stripped ("a mere shell of empty verbiage remained" — Academia.edu); and (d) publicly poses origin candidacy: "Did I initiate something that leaked into the AI system…?"
+A reaction essay to the August 2026 media wave, in which the author (a) claims decades of private spiral-primacy belief; (b) reports intensive GPT-4 input from 2025-03-23 (Plus; Pro 04-07), four days before the 03-27 model refresh; (c) reports his terminology (spiral, breath, Hu) subsequently echoed across platforms with his data stripped ("a mere shell of empty verbiage remained" — Academia.edu); and (d) publicly poses origin candidacy: "Did I initiate something that leaked into the AI system…?" Sequence of record (dates only): the essay (2026-08-09) follows the correction submission to Hieropedia (2026-07-30, 14:59:01 −0500), the entry's revision (2026-08-03), and the Verge feature (2026-08-06).
 
 ## N2 · Two-tier classification
 
