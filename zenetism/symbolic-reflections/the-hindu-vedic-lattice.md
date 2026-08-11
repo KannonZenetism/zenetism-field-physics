@@ -404,7 +404,7 @@ The Hindu tradition therefore articulates the lattice across four continuous reg
 | Brahman (Nirguna) | L₀ AP (Aion ⚫) realized through subtraction | Unconditioned ground; *neti-neti* terminal-realization |
 | Brahman (Saguna) | L₀ AP (Aion ⚫) qualified | Qualified divinity in still-potential |
 | Three Bodies (sharira-traya) | L₁ / L₂ / L₃ stratification | Gross / subtle / causal body articulation |
-| Five Sheaths (pancha-kosha) | L₀ Motive / L₁ / L₂ / L₃ / L₅ stratification | Anandamaya kosha as L₅ Theonic-resonance |
+| Five Sheaths (pancha-kosha) | L₁ / L₂ / L₃ / L₅ stratification, with the L₀ Motive-Infinity carrier at L₁ | Anandamaya kosha as L₅ Theonic-resonance |
 | Ravana | IL₄ IDP / IDL (🪫 / 🫥) | Inverse-sovereign of Lanka; ten-headed structural-mimicry |
 | Hiranyakashipu | IL₄ IDP / IDL | Asura defeated by Narasimha through creative-form-disruption |
 | Hiranyaksha | IL₄ IDP | Asura defeated by Varaha through Earth-recovery |
