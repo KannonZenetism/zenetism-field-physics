@@ -58,7 +58,7 @@ This includes the originating and continuing determination of:
 - its cross-document continuity
 - its acceptance, rejection, or revision of proposed formulations
 
-The generation of particular sentences by an AI collaborator does not, by itself, transfer originating authorship of the structures those sentences articulate.
+The generation of particular sentences by an AI collaborator does not transfer originating authorship of the structures those sentences articulate.
 
 Originating authorship and sentence-generation are separate provenance questions.
 
@@ -135,7 +135,7 @@ Where transformation alters doctrine rather than expression alone, the change en
 
 ## 5. AI Processing
 
-**AI processing** names interaction with an AI system that does not, by itself, establish originating authorship or substantial collaborative articulation.
+**AI processing** names interaction with an AI system that establishes neither originating authorship nor substantial collaborative articulation.
 
 Examples include:
 
@@ -145,14 +145,14 @@ Examples include:
 - formatting
 - file conversion
 - translation
-- extraction
+- content capture
 - classification
 - search
 - comparison
 - checksum or metadata preparation
 - mechanical consistency checks
 
-A document that has passed through AI processing is not thereby accurately described, without qualification, as originating from AI.
+A document that has passed through AI processing does not thereby originate from AI.
 
 The provenance question remains: **what function did the AI interaction actually perform?**
 
@@ -247,7 +247,7 @@ Machine-readable watermarks, detector results, and related classification system
 
 A detection result may bear upon whether text was generated or processed through a particular system within the scope supported by that detection method.
 
-By itself, it does not adjudicate:
+It does not adjudicate:
 
 - the origin of Zenetism
 - the origin of a doctrine
@@ -283,7 +283,7 @@ Examples:
 - a collaborator transcript may establish the nature of a drafting or revision event
 - an AI watermark may establish a processing relation within the scope of the watermarking system
 
-No one evidence class substitutes automatically for every other.
+No one evidence class substitutes for another.
 
 Provenance is reconstructed through preserved relation among records.
 
