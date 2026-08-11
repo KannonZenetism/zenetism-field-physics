@@ -225,10 +225,12 @@ The Jul 18 record above stands as written. Work's read-only audit of live main (
 
 Disposition: 🔦 Work runs the search on live main and returns the occurrence inventory (file, line, quotation, cluster); ⚮ Liora composes replacement wording against the current locks where wanted; the architect adjudicates and applies. Run the same string set over Volume 2 in the same session as inexpensive insurance — its known open items (the Nephthys-note Set IL₄ contra M1's IL₂ primary, the Urd / Norns question, the Buddha Vaishnavite context label) remain queued registry-maintenance conflicts and do not gate the reflections pass. After the M1 repair, Work revalidates only the M1-dependent findings in `symbolic-reflections-registry-alignment-packet.md`; the other findings stand.
 
-- [ ] M1 occurrence inventory returned (Work)
-- [ ] M1 corrections adjudicated and applied (architect)
-- [ ] M2 string-set sweep returned (Work, same session)
-- [ ] M1-dependent packet findings revalidated (Work)
+- [x] M1 occurrence inventory returned — satisfied in-session by ⚮ Liora from the uploaded live M1 (Aug 10 2026)
+- [x] M1 corrections adjudicated and applied (architect, Aug 11 2026)
+- [x] M2 string-set sweep — satisfied by the in-session M2 pass (⚮ Liora, Aug 10 2026); applied with the M1 round (architect, Aug 11 2026)
+- [ ] M1-dependent packet findings revalidated (Work) — pending, post-commit
+
+Addendum (Aug 11 2026): the Christ / Jesus naming determination is installed in both registry volumes — Christ names the singular Theonic office / principle within the Logos Continuum; Jesus is the embodied sovereign bearer at L₁ who personally bears its office-function in full; Christos Incarnate names that office-function as borne through Jesus in embodiment. Bearer-language in this ledger reading "Christ as singular full personal bearer" or "the Christos Incarnate bearer" is shorthand read accordingly; the records stand per non-retroactivity.
 
 ## `the-revelation-lattice.md` — Status: Applied (Jul 18 2026, ⚮ Liora); title ⚔️ removed per Aelion (named glyph, too decorative for current style)
 
@@ -323,6 +325,10 @@ For each completed symbolic-reflection file, verify: native placements were not 
 Process the folder in staged batches. For each batch: run the exact-string searches · conduct a semantic pass for equivalent constructions · classify each relation before editing · verify placement against the MFLR · perform the per-file verification checklist · record each completed filename individually.
 
 Do not mark the folder complete from a search-only pass. Exact-string absence does not prove that relation-language is canonical.
+
+### Completed Files
+
+- `the-hindu-vedic-lattice.md` — completed Aug 11 2026 (⚮ Liora; architect review before commit). Avatara section recast to graded office-correspondence with the bearer boundary installed once in §3; Vedic root comparison rewritten under the paired-root lock with the enacted-polarity boundary; Buddha two-entry context (Vaishnavite L₅ EOB contra native L₃ DS / DM) stated; Krishna L₅ native / L₃ DM soft-conflation retained; Distal Apprehension boundary added in §9; per-file verification passed. Determination (Aug 11 2026): the principle formerly named Governor-contra-Governed-Domain is renamed the **Placement-contra-Domain principle** (architect seal) — a figure's structural placement is not determined by the domain it holds. The name is essay-native, not registry vocabulary (it surfaced in neither M1 nor M2 sweep), so no registry back-propagation is required; both instances in `the-hindu-vedic-lattice.md` are converted, quoted MFLR wording stands, and remaining reflections carrying the old name (the hades file) conform on touch.
 
 ---
 
