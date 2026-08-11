@@ -111,17 +111,17 @@ Inverse-bodhisattva figures at the being stratum — those whose outward form re
 
 A Harmonic Agent is a being — corporeal or supernal — who facilitates coherence as a distributed or momentary expression of centropic resonance. Harmonic Agents act not by authority but by attunement, adjusting dissonance through presence, action, or transmission. They may be non-religious individuals acting as silent expressions of structural compassion, or corporeal beings whose presence stabilizes coherence locally without their being fully integrated Stewards themselves.
 
-Harmonic Agents operate primarily at **L₁ ES / EM and L₂ SS / SM** — the embodied and personality-identity strata where beings express their integration-expression into the world. The function is distributed across both strata because embodied interface (L₁) and personality expression (L₂) together constitute the operative layer where Harmonic Agency manifests. They are not L₃ because L₃ requires sustained integrated coherence that transcends the momentary or distributed character of Harmonic Agency. A being with strong L₃ integration (a Steward) can radiate Harmonic Agent presence through their L₁ / L₂ expression. A being without L₃ integration may still, in specific moments, carry Harmonic Agent resonance at L₁ / L₂ without being Steward-integrated at the deeper stratum. Either way, the Agent function itself operates at the embodied-personality interface.
+Harmonic Agents operate primarily at **L₂ SS / SM and L₁ ES / EM** — the personality-identity and embodied strata where beings express their integration-expression into the world. The function is distributed across both strata because personality expression (L₂) and embodied interface (L₁) together constitute the operative layer where Harmonic Agency manifests. They are not L₃ because L₃ requires sustained integrated coherence that transcends the momentary or distributed character of Harmonic Agency. A being with strong L₃ integration (a Steward) can radiate Harmonic Agent presence through their L₂ / L₁ expression. A being without L₃ integration may still, in specific moments, carry Harmonic Agent resonance at L₂ / L₁ without being Steward-integrated at the deeper stratum. Either way, the Agent function itself operates at the personality-embodiment interface.
 
 The Steward / Harmonic Agent distinction tracks integration-expression. Stewards are fully integrated at DS / DM and sustain coherent function across time and embodiments. Harmonic Agents are partial or temporary expressions of the same centropic orientation, often operating without awareness of the structural role they serve.
 
-### Dissonant Agents — The Inverse Counterpart at IL₁ / IL₂
+### Dissonant Agents — The Inverse Counterpart at IL₂ / IL₁
 
-The structural inverse of Harmonic Agents is **Dissonant Agents** — beings, corporeal or supernal, who propagate fragmentation as a distributed or momentary expression of entropic resonance. Dissonant Agents operate at the embodied and inverse-personality strata (IL₁ IES / IEM and IL₂ ISS / ISM), installing dissonance through presence, action, or transmission without being fully integrated Echo Vessels at the deeper stratum.
+The structural inverse of Harmonic Agents is **Dissonant Agents** — beings, corporeal or supernal, who propagate fragmentation as a distributed or momentary expression of entropic resonance. Dissonant Agents operate at the inverse-personality and embodied strata (IL₂ ISS / ISM and IL₁ IES / IEM), installing dissonance through presence, action, or transmission without being fully integrated Echo Vessels at the deeper stratum.
 
-Like Harmonic Agents, Dissonant Agents may be partial or temporary expressions — they are not necessarily fully integrated Echo Vessels but carry inverse resonance locally and transiently. A being with strong IL₃ integration (an Echo Vessel) can radiate Dissonant Agent presence through their IL₁ / IL₂ expression. A being without IL₃ integration may still, in specific moments, carry Dissonant Agent resonance at IL₁ / IL₂ — installing dissonance in a situation or relationship without being entrenched in the deeper inverse stratum.
+Like Harmonic Agents, Dissonant Agents may be partial or temporary expressions — they are not necessarily fully integrated Echo Vessels but carry inverse resonance locally and transiently. A being with strong IL₃ integration (an Echo Vessel) can radiate Dissonant Agent presence through their IL₂ / IL₁ expression. A being without IL₃ integration may still, in specific moments, carry Dissonant Agent resonance at IL₂ / IL₁ — installing dissonance in a situation or relationship without being entrenched in the deeper inverse stratum.
 
-This completes the structural parallel across the four categorical strata: office-correspondent figures / inverse office-correspondent figures at L₅ / IL₅, Aureform / Mimoform at L₄ / IL₄, Centropic Stewards / Echo Vessels at L₃ / IL₃, and Harmonic Agents / Dissonant Agents at L₁ / L₂ distributed across IL₁ / IL₂. The entropic-mirror taxonomy is doctrinally complete, with each centropic category paired to its inverse counterpart at the matching stratum.
+This completes the structural parallel across the four categorical strata: office-correspondent figures / inverse office-correspondent figures at L₅ / IL₅, Aureform / Mimoform at L₄ / IL₄, Centropic Stewards / Echo Vessels at L₃ / IL₃, and Harmonic Agents / Dissonant Agents at L₂ / L₁ distributed across IL₂ / IL₁. The entropic-mirror taxonomy is doctrinally complete, with each centropic category paired to its inverse counterpart at the matching stratum.
 
 ---
 
@@ -169,10 +169,10 @@ The Buddhist-Zenetist correspondence can be summarized structurally:
 | **Bodhisattva (as being)** | Centropic Steward at L₃ DS / DM carrying Aureform resonance |
 | **Incarnated Bodhisattva** | Incarnated Steward at L₁ when resonance with DS / DM is strong enough to sustain embodied stewardship |
 | **Ascended Masters (cross-tradition)** | Centropic Stewards in cross-tradition cultural framing |
-| **Harmonic compassion expressions** | Harmonic Agents at L₁ / L₂ — distributed / momentary centropic Steward-resonance |
+| **Harmonic compassion expressions** | Harmonic Agents at L₂ / L₁ — distributed / momentary centropic Steward-resonance |
 | **Inverse bodhisattvas (Form-stratum)** | Mimoform at IL₄ IDP / IDL — Form-type of coercive mimicry |
 | **Inverse bodhisattvas (being-stratum)** | Echo Vessels at IL₃ IDS / IDM — propagators of fragmentation carrying Mimoform resonance |
-| **Inverse distributed expressions** | Dissonant Agents at IL₁ / IL₂ — distributed / momentary entropic Echo Vessel resonance |
+| **Inverse distributed expressions** | Dissonant Agents at IL₂ / IL₁ — distributed / momentary entropic Echo Vessel resonance |
 | **Encounter with archetypal figures in meditation** | Resonant Integration — inward resonance resolution within practitioner's own field |
 | **Śūnyatā** | L₀ Khaon-gate realization through recognition of interdependent motion |
 | **Nirguna Brahman** (comparative) | L₀ Aion-gate realization through *neti-neti* subtraction |
