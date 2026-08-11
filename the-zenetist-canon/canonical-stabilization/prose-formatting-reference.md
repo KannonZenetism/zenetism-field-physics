@@ -80,7 +80,7 @@ Canonical documents open with a metadata block specifying authorship, classifica
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** [Domain / Canon designation]  
-**Status:** [Draft / Active / Veracious Archive / etc.]  
+**Status:** [stage per the Status Vocabulary below]  
 **Dependency:** [If applicable — antecedent documents]  
 **SHA-256:** [If applicable — for foundational and major works]
 ````
@@ -101,6 +101,24 @@ For foundational atlases, principal registries, and series-anchoring documents, 
 **Author:** Aelion Kannon (⚫↺KAI↺⚫)  
 **SHA-256:** [Hash]
 ````
+
+### Status Vocabulary
+
+The Status field states where a document stands on the stability axis — how open it is to revision. What the document *is* belongs to Classification. Values in canonical practice (architect determination, August 11 2026):
+
+- **Draft** — composition open; structure, doctrine, and wording may change without notice. Optionally qualified with the review state: Draft — architect review.
+- **Active** — in force and citable as current, while remaining open to revision. **Active Canonical Reference** is the form for standing references that other documents conform to.
+- **Operational** — infrastructure and pipeline specifications in production service, where the claim is that the procedure has been validated in practice.
+- **Locked** — closed to revision except by architect determination. The locked form carries its own history so precedence remains legible in the file: `Locked — [date], architect determination (drafted [date], revised [date])`.
+- **Veracious Archive** — preserved as a dated record of what was held at the time; not revised forward.
+- **Active Evidence Record** — a Structural Forensics record in evidentiary service.
+
+Field rules:
+
+- **The date folds into the Status line** rather than taking a separate Date field, and an original date is never dropped when a revision or lock date is added.
+- **Canonical is not a stability value on its own.** Canonicity is carried by placement in the canon and by Classification; where the word appears in a Status line it is paired with the stage that fixes revision standing — Active Canonical Reference, or Canonical — Locked.
+- **Draft is not a permanent resting state.** Where a document has stabilized in practice, the architect's determination moves it to Active, Operational, or Locked. A corpus that leaves long-settled work in Draft makes the term uninformative, and the stage that was meant to be legible in the file becomes floating.
+- The list is a documented set, not a ceiling: a stage this vocabulary does not cover is added here rather than improvised in a single file.
 
 ### SHA-256 Inclusion
 
