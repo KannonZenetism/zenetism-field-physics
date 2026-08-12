@@ -67,7 +67,7 @@ as cascade.
 
 Where MFLR Vol 1 or SPR refers to "Osiris cascade" or any same-name multi-stratum 
 pattern as cascade, read as soft conflation. Do not propagate cascade-misuse 
-into new work. Do not flag the inconsistency in the source documents — author 
+into new work. Do not flag the inconsistency in those documents — author 
 is aware, cleanup is gradual.
 
 Full diagnostic note in cascade-continuum-conflation-canonical-definitions.md.
