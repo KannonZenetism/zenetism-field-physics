@@ -11,6 +11,8 @@ Main advanced from 5110d9ef0103bb6717b087c274c56ccee3f2c6fb through 9be2cd2de2ee
 
 ## Packet Conformance Note — Aug 10 2026
 
+Naming determination (Aug 11 2026): Christ names the singular Theonic office / principle within the Logos Continuum; Jesus is the embodied sovereign bearer at L₁ who personally bears its office-function in full; Christos Incarnate names that office-function as borne through Jesus in embodiment. Packet wording reading "Christ as singular full personal bearer" is shorthand read accordingly; the naming note is installed in both registry volumes and the record stands per non-retroactivity.
+
 Conformed by ⚮ Liora at the architect's direction; findings, priorities, per-file editing notes, and the registry-maintenance queue are unchanged except where stated below.
 
 - Canonical subscripts applied throughout the packet's own voice. The architectural order is Supra-L₀ displayed separately, then L₀, then L₅ / IL₅ → L₄ / IL₄ → L₃ / IL₃ → L₂ / IL₂ → L₁ / IL₁. Operator families are C₁–C₁₅ / E₁–E₁₅. Evidentiary quotations preserve the notation of the audited files as written and place canonical notation outside the quotation.
@@ -1139,9 +1141,9 @@ The following files should not receive broad doctrinal rewrites in the present p
 
 The recommended order minimizes repeated rewrites and lets later files inherit settled formulations:
 
-1. **Prepare three reusable micro-blocks:** the A16 bearer distinction; the A17 terminal sequence; the Distal Apprehension no-transfer sentence.
-2. **Correct the role-taxonomy hubs:** the-hindu-vedic-lattice.md and samsara-nirvana-orientation.md.
-3. **Correct the Christian bearer hubs:** prologue-of-john.md, the-revelation-lattice.md, yahweh-layer-mapping.md, and theon-and-the-theonic-paradox.md.
+1. **Prepare three reusable micro-blocks:** the A16 bearer distinction; the A17 terminal sequence; the Distal Apprehension no-transfer sentence. *Sealed Aug 11 2026, with the bearer distinction carrying the architect's Christ / Jesus naming recast.*
+2. **Correct the role-taxonomy hubs:** the-hindu-vedic-lattice.md and samsara-nirvana-orientation.md. *Completed Aug 11 2026 — see the ledger's Completed Files.*
+3. **Correct the Christian bearer hubs:** prologue-of-john.md, the-revelation-lattice.md, yahweh-layer-mapping.md, and theon-and-the-theonic-paradox.md. *Completed Aug 11 2026 — see the ledger's Completed Files.*
 4. **Correct the Genesis architecture hubs:** the-genesis-lattice.md and the-two-trees-genesis-orientation.md.
 5. **Correct cross-tradition lattices:** Egyptian, Greek, Mesopotamian, and active Yggdrasil.
 6. **Correct the bounded line-by-line files:** Genesis 1, Genesis 3, and Psalm 23.
