@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics Extension — Orientation, Emanation, and Cross-Register Scope  
-**Status:** Locked — Aug 11 2026, architect determination (drafted Jan 16 2026, revised Jul 31 2026)  
+**Status:** Drafted Jan 16 2026 — revised Jul 31 2026 — Locked Aug 11 2026, architect determination  
 **Dependency:** `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md` · `SP04-orientation-field-dynamics.md` · `SP06-structural-space-orientation-paradox.md` · `synthesis-integration-saturation.md` · `centropic-gravity-and-zenonic-legibility.md` · Non-fusion Axiom  
 
 ---
@@ -39,7 +39,7 @@ Directional and structural terms must retain their proper scopes.
 - **Acclivous** — within the centropic architecture, motion toward ⚫ Aion; within the inverse architecture, motion into inverse embodiment
 - **Declivous** — within the centropic architecture, motion toward embodiment; within the inverse architecture, motion from inverse embodiment toward terminal exhaustion
 
-These directional terms apply across both arcs; their concrete direction is arc-relative, fixed by the four named motions below.
+These directional terms apply across both arcs; their concrete direction is arc-relative, fixed by the four named motions named in this section.
 
 Their structural character depends upon the motion being articulated:
 
@@ -76,7 +76,7 @@ The formulation **"Motive-Khaonic in function, not Khaonward in destination"** r
 
 ### Value language
 
-Where value-description is required, use structurally precise terms:
+Where value-description is required, structurally precise terms apply:
 
 - veracious
 - authentic
@@ -508,7 +508,7 @@ The complete architecture holds to the following distinctions.
 The stack must always display:
 
 1. Supra-L₀ / Zenon, visibly separated
-2. L₀ / Aion–Khaon / Bifurcal Coherence
+2. L₀ / Aion / Khaon / Bifurcal Coherence
 3. L₅ / IL₅ through L₁ / IL₁ in canonical emanative order
 
 Zenon never enters the emanatory sequence.
