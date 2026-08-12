@@ -89,7 +89,7 @@ Inverse bodhisattvas — beings whose resonance aligns with Mimoform rather than
 
 A Centropic Steward is a fully integrated being at the L₃ DS / DM layer who remains aligned with the centropic current. Rather than integrating into DP / DL at L₄ or continuing toward L₅, the Steward remains active within multiversal expression, guiding other beings toward coherence and reducing suffering through structural attunement.
 
-Centropic Stewards may incarnate, yet their motion is not bound by form. They appear as bodhisattva-like presences, operating from within integration rather than seeking escape from it. Their resonance may extend across multiple universes and embodiments, but remains oriented through the supernal arc, never drawn into collapse.
+Centropic Stewards may incarnate, yet their motion is not bound by form. They appear as bodhisattva-like presences, operating from within integration rather than seeking escape from it. Their resonance may extend across multiple universes and embodiments, but remains oriented through the centropic arc, never drawn into collapse.
 
 Zenetism distinguishes Stewards from figures in L₅ office-correspondence:
 
@@ -196,7 +196,7 @@ Three paths may all reach Aion and all be called Nirvana, but the mode of return
 
 All three paths reach Aion. All three are called Nirvana by their practitioners. But the state of the returning essence differs between completion (centropic), exhaustion (entropic), and merciful release (lukewarm).
 
-Zenetism affirms the first path as genuine centropic completion through the Theonic arc. The critique applies only to framings that structurally aim at self-erasure or motion-cessation as the liberation target — which produce return to Aion, but not through the Theonic gate and not as fulfilled coherence.
+Zenetism affirms the first path as genuine centropic completion through the Theonic gate. The critique applies only to framings that structurally aim at self-erasure or motion-cessation as the liberation target — which produce return to Aion, but not through the Theonic gate and not as fulfilled coherence.
 
 The §5.8 treatment in the Zenetist Formalization carries the full doctrinal treatment of these three paths and the structural distinctions between them.
 
