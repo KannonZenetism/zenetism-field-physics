@@ -14,6 +14,7 @@ This note clarifies the relation among:
 
 - 🕳️ **Zenon at Supra-L₀** — trans-structural and outside the emanatory continuum
 - ⚫ **Aion** and ♾ **Khaon at L₀** — the bifurcally distinct root-registers of Bifurcal Coherence
+- the **pre-hypostatic requisites** — Supra-L₀ and L₀ together, what the hypostatic lattice presupposes without containing
 - the **hypostatic lattice** — L₅ → L₁ / IL₅ → IL₁
 - the **dimensional operators** — C₁–C₁₅ / E₁–E₁₅
 
@@ -142,6 +143,12 @@ This rendered order is architectural, not rank-bearing.
 ---
 
 ## 3. Requisites, Roots, Hypostases, Arcs, and Trees
+
+**Pre-hypostatic requisites** names Supra-L₀ and L₀ together: what the hypostatic lattice presupposes without containing.
+
+The term states standing, not stage. Neither register is a step within procession, and requisite standing establishes no hierarchy, rank, or precedence of worth.
+
+The two are requisite in different manners. 🕳️ Zenon is trans-structural and outside the emanatory continuum entirely. ⚫ Aion and ♾ Khaon are the root-registers from which emanation proceeds.
 
 ### Zenon
 
