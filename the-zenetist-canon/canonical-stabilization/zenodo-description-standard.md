@@ -3,7 +3,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Publication Formatting Standard  
-**Status:** Draft — for architect review, with ⚮ Liora drafting assistance — July 5 2026; harmonized to Publication Engine v2 August 7 2026  
+**Status:** Drafted July 5 2026 — harmonized to Publication Engine v2 August 7 2026 — Active Canonical Reference August 12 2026  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
 **Principle:** Different deposits require different treatment; the treatment differences live in *which slots are filled*, never in freestyle variation. Three named forms cover all cases. Every description is assembled from the same slots in the same order.  
 
 ---
@@ -36,6 +37,29 @@ No deposit exceeds 350 words. Length variance outside the three bands is drift, 
 - Filenames appear in inline code wherever named (Zenodo renders these as inline-code highlighting); `Canonical file:` and the block labels themselves are never rendered as code
 - Glyphs: none in the identity line or abstract; the seal glyph appears only inside the fixed attribution close
 - Vocabulary: canonical terminology current on the deposit date — a deposit description is a dated public statement of the system's state and must not reintroduce retired terms
+
+## Relations Rule
+
+The Relations slot records lateral canonical relation, not bibliography. A file does not become an entry merely because the deposited work cites or consulted it.
+
+**Materiality test.** Include a file only where it materially determines the deposited work's interpretation, placements, terminology, or structural reading. Four classes qualify:
+
+- **Direct interpretive companions** — another canonical work that the deposit explicitly continues, completes, contrasts with, or structurally pairs with
+- **Registry seats** — MFLR or SPR volumes where the deposit materially depends on their figure placements, operators, or classification framework
+- **Canonical distinction seats** — a specialized canonical file whose doctrine materially determines the reading, such as hypostasis / office / bearer distinctions or continuum / cascade / conflation distinctions
+- **Immediate cycle companions** — line-by-line or orientation readings belonging to the same textual cycle, where the deposit explicitly operates as part of that cycle
+
+**Registry volumes and distinction files are not appended by default.** They appear where the individual deposit leans on them. Mechanical appending turns the Relations slot into a growing dependency list and empties it of meaning.
+
+**Label selection:**
+
+- `Companion to:` — lateral canonical relation, as above
+- `Supersedes:` — the deposit replaces a distinct earlier work or a deprecated canonical treatment; never merely the next Zenodo version of the same canonical file
+- `Part of:` — hierarchical or collection relation, where the deposit is formally a component of a named series, multipart work, or larger deposited unit
+
+**Entry form** follows slot 5. Zenodo archival `_vN` filenames never appear in a relation line: the version suffix belongs to the archival payload, while the relation names the canonical file. The provenance line identifies the deposited work itself; the Relations slot identifies other canonical works related to it.
+
+Where no material relation exists, omit the slot rather than inventing one.
 
 ## Keywords Rule
 
