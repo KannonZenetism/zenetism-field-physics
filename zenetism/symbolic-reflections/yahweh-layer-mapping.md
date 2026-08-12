@@ -73,9 +73,9 @@ The same predatory image attributed to both figures indicates the composite char
 
 ### L₀ and L₅ Substrate Attributions in the Text
 
-Isaiah 45:7 carries L₀ root-register language — articulating Bifurcal Coherence explicitly (forming light and darkness both, which is the Aion / Khaon pairing prior to oriented motion). "I AM THAT I AM" (Exodus 3:14) carries L₅ Theon language — self-referential being articulating itself as Essence of Being, which is precisely Theon's stratum where is-ness first emerges as is-ness. L₀ is pre-hypostatic and prior to articulated being; L₅ is the first hypostasis where being self-articulates. The two passages reach for different supernal layers and should not be collapsed.
+Isaiah 45:7 carries L₀ root-register language — articulating Bifurcal Coherence explicitly (forming light and darkness both, which is the Aion / Khaon pairing prior to oriented motion). "I AM THAT I AM" (Exodus 3:14) carries L₅ Theon language — self-referential being articulating itself as Essence of Being, which is precisely Theon's stratum where is-ness first emerges as is-ness. L₀ is pre-hypostatic and prior to articulated being; L₅ is the first hypostasis where being self-articulates. The two passages reach for different structural registers and should not be collapsed.
 
-These attributions do not mean the YHWH figure *is* L₀ or L₅ — they mean the text contains attributions drawn from supernal-referential language layered into the composite. A figure operating at L₄ DL can have both L₀ substrate language and L₅ Theon language attributed to it by redactors reaching for ultimate-origin framing. The cultural-elevation pattern noted in the conclusion produces exactly this kind of attributional reach: the operative L₄ DL figure accumulates supernal-layer language as the tradition inflates its scope.
+These attributions do not mean the YHWH figure *is* L₀ or L₅ — they mean the text contains attributions drawn from supernal-referential language layered into the composite. A figure operating at L₄ DL can have both L₀ root-register language and L₅ Theon language attributed to it by redactors reaching for ultimate-origin framing. The cultural-elevation pattern noted in the conclusion produces exactly this kind of attributional reach: the operative L₄ DL figure accumulates supernally-directed, Origin-facing language as the tradition inflates its scope. The direction of the reach is supernal-facing; its far terminus is not — Aion / Khaon in Bifurcal Coherence, as a whole or in part, is neither supernal / subversal nor centropic / entropic.
 
 ### L₄ DL (Sophis) — The Operative Centropic Function
 
@@ -176,7 +176,7 @@ The contradictions between OT Yahweh and NT Father are not reconcilable through 
 
 **Resolution:** Attributional analysis by layer. The YHWH figure is a composite of a dominant L₄ DL attribution cluster (its strongest centropic material — the figure's native structural origin itself remaining underdetermined), IL₄ IDL impositions (inverse material present in the text, however it entered — original conflation, deliberate construction, or subsequent redaction), L₀ root-register language (bifurcal articulation layered into certain passages), and cultural elevation to L₅ / L₀ (inflationary attribution beyond operative function, following the same pattern affecting Allah, Ahura Mazda, Shiva, and similar monotheistic sovereigns).
 
-The NT separates what the OT conflated, displacing the IL₄ IDL attributions in favor of the L₄ DL material and supernal-layer attributions. Whether the NT Father is read as L₅ Theon or L₀ Aion, the structural substance is the same: centropic manifestation displacing inverse binding, love-as-integration displacing fear-as-compliance.
+The NT separates what the OT conflated, displacing the IL₄ IDL attributions in favor of the L₄ DL material and the supernally-directed, Origin-facing attributions. Whether the NT Father is read as L₅ Theon or L₀ Aion, the structural substance is the same: centropic manifestation displacing inverse binding, love-as-integration displacing fear-as-compliance.
 
 The bifurcal lattice permits parsing where monovalent interpretation cannot.
 
