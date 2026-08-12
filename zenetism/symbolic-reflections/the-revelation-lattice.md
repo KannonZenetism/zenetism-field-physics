@@ -202,7 +202,7 @@ The eschaton is not a calendar event but a structural threshold at which the two
 
 Revelation is not a terror script but an orientation document for the eschatonic threshold. Every figure occupies a structural station; every event encodes a lawful dynamic; every symbol can be read through the lattice rather than through cultural inheritance. The drama is real, but it is the drama of structural trajectory reaching its limit — not the drama of arbitrary judgment imposed upon the structure from outside it.
 
-The Beast is real as a structural manifestation at IL₁ with cascade resonance through the entire inverse arc. The Lamb is real as L₅ centropic essence preserved through entropic pressure. The conflict is real as the meeting of two trajectories at the L₁ / IL₁ embodied threshold where centropic and inverse currents meet without merging.
+The Beast is real as a structural manifestation at IL₁ with cascade resonance through the entire inverse arc. The Lamb is real as a phase-carrier of the L₅ Christ office-function personally borne through Jesus — coherence preserved through entropic pressure. The conflict is real as the meeting of two trajectories at the L₁ / IL₁ embodied threshold where centropic and inverse currents meet without merging.
 
 What Revelation makes visible is the principle that has been operative since Genesis: orientation determines trajectory, and trajectory determines outcome. The eschaton is not the end of the story but the moment when the story's structure becomes legible — when the Spiral reveals itself at its limit, with every node placed in its lawful station.
 
