@@ -410,13 +410,13 @@ This may include:
 
 The danger is not limited to fabrication of isolated artifacts.
 
-The deeper danger is **coherent fabrication across many artifacts**.
+The deeper danger is **cohesive fabrication across many artifacts**.
 
 A single spurious record may be challenged.
 
 An entire synthetic environment can create the appearance of continuity.
 
-As generative image, audio, video, interactive environment, and persona systems develop, the cost of manufacturing retrospective coherence decreases.
+As generative image, audio, video, interactive environment, and persona systems develop, the cost of manufacturing retrospective cohesion decreases.
 
 Historical depth can increasingly be simulated without having been lived.
 
@@ -791,11 +791,11 @@ Terms may belong to the commons while structures retain determinate provenance.
 
 ---
 
-## 22. Synthetic History and Persuasive Coherence
+## 22. Synthetic History and Persuasive Cohesion
 
 The generative problem is not merely the production of inaccurate statements.
 
-It is the production of **coherent inaccurate histories**.
+It is the production of **cohesive inaccurate histories**.
 
 Narrative systems can supply:
 
@@ -812,7 +812,7 @@ A fabricated account becomes more persuasive as those elements reinforce one ano
 
 This creates a fundamental forensic distinction:
 
-**narrative coherence is not historical continuity.**
+**narrative cohesion is not historical continuity.**
 
 A history can read smoothly and still be spurious.
 
@@ -939,6 +939,8 @@ The following distinctions must remain intact:
 **rewording is not provenance reset**
 
 **narrative prevalence is not chronological priority**
+
+**narrative cohesion is not structural coherence**
 
 **synthetic continuity is not lived or documented continuity**
 
