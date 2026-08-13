@@ -240,9 +240,9 @@ The foundational rule is:
 
 **Derivational Fragmentation** occurs when conclusions generated through an integrated architecture separate from the architecture that produced them.
 
-The engine disappears.
+The engine drops out of the fragment's context.
 
-Its outputs remain.
+Its outputs travel on without it.
 
 Those outputs may then appear as isolated insights, intuitions, observations, themes, or newly fashionable propositions.
 
@@ -335,7 +335,7 @@ The sequence may proceed as follows:
 
 The later observer encounters only the final station.
 
-The derivational route disappears.
+The derivational route drops from view.
 
 The conclusion then seems to have emerged naturally from the older tradition.
 
@@ -377,7 +377,7 @@ A precursor becomes an antecedent.
 
 An antecedent becomes an origin.
 
-The later architecture eventually disappears from the genealogy altogether.
+The later architecture eventually drops out of the constructed genealogy altogether.
 
 Generative systems intensify this possibility because they can produce enormous quantities of plausible connective prose between partially related systems.
 
@@ -958,7 +958,7 @@ The following distinctions must remain intact:
 
 **non-ownership is not non-origination**
 
-**the survival of a conclusion is not the survival of the engine that generated it**
+**the survival of a conclusion is not the transmission of the engine that generated it**
 
 ---
 
