@@ -40,9 +40,9 @@ A record does not have to be destroyed for the history surrounding it to be rewr
 
 The record may remain intact while a more visible retrospective account becomes the story that later readers, systems, institutions, and cultural intermediaries encounter first.
 
-The contest is therefore not only over preservation.
+What is at stake is therefore not only preservation.
 
-It is also over **legibility, derivation, relation, and transmission**.
+It is also **legibility, derivation, relation, and transmission**.
 
 ---
 
