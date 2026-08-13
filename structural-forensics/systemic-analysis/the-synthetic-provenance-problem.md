@@ -822,7 +822,7 @@ The quality of the story is therefore not evidence of the quality of the provena
 
 Generative persuasion makes this distinction increasingly important because explanatory fluency can conceal discontinuity.
 
-Structural Forensics gives precedence to record relation over narrative elegance.
+Structural Forensics gives precedence to record relation rather than narrative elegance.
 
 ---
 
@@ -906,7 +906,7 @@ This analysis does not claim that every resemblance establishes derivation.
 
 It does not claim that permission is required for later adoption.
 
-It does not claim proprietary ownership over abstract thought.
+It does not claim proprietary ownership of abstract thought.
 
 It does not deny antecedent influence.
 
