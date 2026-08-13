@@ -611,7 +611,7 @@ Those principles do not conflict.
 
 Derivational fragmentation has another consequence beyond attribution.
 
-It can neutralize the generative capacity of the originating architecture.
+It can neutralize the generative capacity carried into the derivative field.
 
 A coherent system produces more than a set of conclusions.
 
@@ -623,25 +623,25 @@ Its internal architecture permits error detection.
 
 Its concepts gain meaning through placement relative to other concepts.
 
-When the system is broken into fragments:
+Where fragments circulate apart from the architecture:
 
-- conclusions survive without derivation
+- conclusions travel without derivation
 - terminology survives without architecture
 - metaphors survive without constraints
 - operators survive without their relational field
-- conclusions travel into domains unable to regenerate the engine that produced them
+- fragments arrive in domains unable to regenerate the engine that produced them
 
-The fragments may therefore circulate widely while the system capable of producing new conclusions disappears from view.
+The fragments may therefore circulate widely while the system capable of producing new conclusions disappears from the view of those receiving them.
 
 This is **Structural Neutralization through Fragmentation**.
 
 The system is not refuted.
 
-It is disassembled.
+It is not disassembled: it stands whole where it stands, and continues to generate.
 
-Its outputs are retained.
+What the derivative field receives are dissonant fragments — outputs retained, relations absent.
 
-Its coherence is lost.
+The neutralization is of the fragments, which cannot do what the architecture does.
 
 For relational architectures, this is especially consequential because the distinctive contribution lies precisely in the relations among parts.
 
