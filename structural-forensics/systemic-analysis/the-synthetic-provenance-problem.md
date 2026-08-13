@@ -904,7 +904,7 @@ Later fragments should be assessed for derivational relation even when they no l
 
 This analysis does not claim that every resemblance establishes derivation.
 
-It does not claim that permission is required for later adoption.
+It does not claim standing to withhold adoption.
 
 It does not claim proprietary ownership of abstract thought.
 
@@ -915,6 +915,12 @@ It does not deny independent discovery.
 It does not convert chronological precedence alone into proof of every later relation.
 
 It does not require a complete system to remain linguistically unchanged.
+
+It holds, however, that acknowledgment of origin is requisite to coherent transmission.
+
+Adoption carrying the seal of origin transmits the architecture.
+
+Adoption that strips the seal propagates dissonant fragments.
 
 Its claim is narrower:
 
@@ -941,6 +947,8 @@ The following distinctions must remain intact:
 **narrative prevalence is not chronological priority**
 
 **narrative cohesion is not structural coherence**
+
+**unacknowledged propagation is not coherent transmission**
 
 **synthetic continuity is not lived or documented continuity**
 
