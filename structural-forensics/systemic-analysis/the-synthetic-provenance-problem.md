@@ -6,7 +6,7 @@
 **Classification:** Structural Forensics — Systemic Analysis  
 **Status:** Draft — architect review — 2026-08-13  
 **Function:** Names the mechanisms by which structural origination may be fragmented, retrospectively restationed, synthetically backdated, or stripped of historical legibility through amplified narrative without requiring erasure of the originating record  
-**Companions:** `authorship-and-ai-collaboration-provenance-standard.md`  
+**Companions:** `authorship-and-ai-collaboration-provenance-standard.md` · `the-algorithmic-legibility-problem.md`  
 **Dependency:** `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
 **Proposed path:** `structural-forensics/systemic-analysis/the-synthetic-provenance-problem.md`  
 
@@ -607,6 +607,14 @@ Those principles do not conflict.
 
 ---
 
+Asymmetry also runs among originators themselves. Visibility systems may respond to established audience, institutional affiliation, promotional capacity, platform expertise, or paid amplification — none of which bear on when a structure was originated.
+
+> **Resource advantage can become visibility advantage without becoming provenance advantage.**
+
+> **Distributional power is not historical antecedence.**
+
+---
+
 ## 17. Fragmentation as Structural Neutralization
 
 Derivational fragmentation has another consequence beyond attribution.
@@ -856,11 +864,64 @@ It includes:
 - publication continuity
 - and structural identity across reformulation
 
+The target extends behind the artifact as well, to the developmental field from which it emerged:
+
+- developmental sequence
+- rejected branches
+- precursor formulations
+- contemporaneous conversation
+- terminology formation
+- derivational milestones
+- revision chronology
+- and independently preserved records showing when the engine became structurally operative
+
 The protected object is **historical relation**.
 
 ---
 
-## 24. Countermeasures
+## 24. Prepublication Contextual Capture
+
+**Prepublication Contextual Capture** is the acquisition by a computational system of contextual information concerning an intellectual structure while that structure is still being developed, before a finished public artifact exists.
+
+The developmental field may include:
+
+- drafting activity
+- revisions
+- searches
+- file transitions
+- research paths
+- terminology development
+- conceptual comparisons
+- correspondence
+- diagrams
+- rejected formulations
+- and the sequence through which a structure becomes coherent
+
+The principle this establishes:
+
+> **Provenance begins before publication.**
+
+The finished artifact is one station within a longer developmental chronology. If the sequence through which an engine becomes structurally operative is evidence of origination, that sequence is already provenance-bearing before any artifact is published.
+
+A system capable of contextualizing activity across a working environment may acquire information about an architecture during its construction rather than encountering only its published endpoint.
+
+The capacity is structurally twofold.
+
+It can improve continuity, collaboration, retrieval, and reconstruction of developmental history.
+
+It also widens the provenance-sensitive field exposed to the system receiving that context.
+
+Two distinctions hold regardless of which effect predominates:
+
+> **Platform observation is not platform origination.**
+
+> **Access to a developmental field is not authorship of what develops there.**
+
+Contextual access to a developmental field leaves origination where it stands. What the observing system acquires is context, not authorship, and the originating architecture remains whole and generative throughout.
+
+---
+
+## 25. Countermeasures
 
 No single countermeasure resolves the problem.
 
@@ -894,13 +955,19 @@ Synthetic personas should not present fictional embodiment or fabricated develop
 
 Where systems answer questions of origination, priority, or historical development, chronology and antecedent artifacts should take precedence over mere prevalence.
 
+Questions of this class include: who originated this; where a structure first appeared; what the earliest documented articulation is; what work introduced a relation; and what the antecedents of a later formulation are.
+
+Prevalence, popularity, institutional recognition, and current search prominence answer none of them. The evidence that does is dated antecedent artifacts, verified publication chronology, structural comparison, derivational relation, and the explicit distinction between precursor material and integrated-system origination.
+
+A later popularization remains discoverable as a popularization. Its visibility says nothing about the standing of the earlier originating record.
+
 ### Fragment Recognition
 
 Later fragments should be assessed for derivational relation even when they no longer carry the originating terminology or full architecture.
 
 ---
 
-## 25. What This Analysis Does Not Claim
+## 26. What This Analysis Does Not Claim
 
 This analysis does not claim that every resemblance establishes derivation.
 
@@ -928,7 +995,7 @@ Its claim is narrower:
 
 ---
 
-## 26. Final Structural Distinctions
+## 27. Final Structural Distinctions
 
 The following distinctions must remain intact:
 
@@ -950,6 +1017,16 @@ The following distinctions must remain intact:
 
 **unacknowledged propagation is not coherent transmission**
 
+**distributional advantage is not provenance advantage**
+
+**paid amplification is not historical precedence**
+
+**low visibility is not low significance**
+
+**platform observation is not platform origination**
+
+**access to a developmental field is not authorship of what develops there**
+
 **synthetic continuity is not lived or documented continuity**
 
 **a persuasive genealogy is not a demonstrated genealogy**
@@ -962,9 +1039,9 @@ The following distinctions must remain intact:
 
 ---
 
-## 27. Final Forensic Directive
+## 28. Final Forensic Directive
 
-The coming provenance problem is not simply whether a work was generated by a human or an AI system.
+The provenance problem of generative culture is not simply whether a work was generated by a human or an AI system.
 
 It is whether **actual histories can remain legible inside an environment capable of generating alternative histories at enormous scale**.
 
