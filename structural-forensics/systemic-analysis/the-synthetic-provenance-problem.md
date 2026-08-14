@@ -793,7 +793,7 @@ An antecedent term is not an antecedent calculus.
 
 An antecedent motif is not an antecedent operator system.
 
-An antecedent tradition is not an antecedent architecture merely because later translation can place the architecture inside its vocabulary.
+An antecedent tradition is not an antecedent architecture merely because later translation can render portions of the architecture in its vocabulary.
 
 Terms may belong to the commons while structures retain determinate provenance.
 
