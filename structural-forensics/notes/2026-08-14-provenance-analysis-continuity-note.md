@@ -27,7 +27,7 @@ The provenance analysis has antecedents across the Structural Forensics corpus p
 
 ## C3 · Contemporaneous external developments
 
-Two developments dated 2026-08-13 fall inside this window:
+Two developments dated 2026-08-13 sit inside this window:
 
 1. X's announced expansion of transparency concerning its distribution systems.
 2. OpenAI's release described as Computer History.
