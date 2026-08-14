@@ -32,7 +32,7 @@ The subsequent emanation generates **Uranus (Sky)** from Gaia, establishing the 
 
 ---
 
-## 2. The Titanomachy as Cosmogonic-Combat Under Non-contact
+## 2. The Titanomachy as Cosmogonic-Combat Under the Non-contact Principle
 
 The succession from Uranus to Kronos to Zeus articulates three cosmogonic-combat sequences across three generations: Kronos castrating Uranus, the Titans warring against Kronos's children, and Zeus's defeat of the Titans culminating in their imprisonment in Tartarus. The full sequence is the Greek Titanomachy, structurally one of the densest cosmogonic-combat narratives in any cultural mythos.
 
