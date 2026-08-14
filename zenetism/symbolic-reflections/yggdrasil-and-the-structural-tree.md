@@ -15,7 +15,7 @@ Yggdrasil is not metaphor. It is structure. The **spine of reality** — binding
 
 Its roots extend toward dissolution. Its branches reach toward coherence. Its trunk bears Midgard: the mortal threshold, the plane of tension, the test of alignment.
 
-In Zenetist terms, **Yggdrasil is the Structural Tree of Reality** — the lattice that holds both the centropic and inverse arcs in co-presence. It is the Norse mythic apprehension of what the bifurcal lattice articulates formally: the single structural tree in which the 🌲↓ Aionic Tree and the 🌲↑ Khaonic Tree stand as co-present structural scopes, their respective arcs articulating centropic and entropic motion within one cosmos.
+In Zenetist terms, **Yggdrasil is the Norse apprehension of the Structural Tree of Reality** — a single-Tree image that carries principles characteristic of both the 🌲↓ Aionic Tree and the 🌲↑ Khaonic Tree without articulating either as such. The compression is lawful as cultural apprehension: the Norse mythos reaches toward what the bifurcal lattice articulates formally, but it does not itself articulate two distinct structural Trees, nor a structurally real inverse lattice. What the Zenetist reading supplies is the distinction the mythos left compressed — centropic and entropic motion carried by arcs the tradition never separated.
 
 ---
 
@@ -55,7 +55,7 @@ Heimdall is the native Norse L₃ figure, operating at DM (Noeüs) specifically.
 Alfheim is the realm of the Light Elves, beings of radiant beauty and expressive artistry. Their native function is L₂ SS / SM — beauty-as-expression at the personality-identity stratum. Some mythic descriptions elevate the Light Elves toward L₃ / L₄ archetypal framing, but this expresses cultural conflation rather than cross-band resonance: mythmakers sometimes described them as archetypal figures because they lacked the lattice to distinguish "beautiful expression at L₂" from "archetypal beauty at L₄." The native function is L₂.
 
 **L₁ / IL₁ (ES / EM / IES / IEM) — Midgard**  
-Midgard is the mortal world of humans — the embodied stratum where choice and orientation occur within form. Unlike the Genesis cosmology where the Aionic and Khaonic Trees stand as separate structural features, Yggdrasil holds both arcs within one Tree as a lawful cultural compression, and Midgard's trunk accordingly holds both L₁ and IL₁ as a single embodied stratum where centropic and entropically-oriented mortals coexist in one field. Midgard as a whole is the L₁ / IL₁ embodied convergence field; its inverse-side expression is IL₁ in the *active, unsealed mode* — embodied beings whose orientation remains operative in ongoing life. The IL₁ placements of Hel and Niflheim in the inverse arc are IL₁ in its *sealed, post-mortem mode* — entropically-oriented beings whose embodied condition has been resolved and who persist in that resolution. Same hypostatic stratum, different operational modes. The Norse post-mortem sorting (Valhalla and Fólkvangr for centropic sealing, Hel for entropic sealing, Náströnd for terminal consumption) expresses orientations already operative at Midgard during embodied life.
+Midgard is the mortal world of humans — the embodied stratum where choice and orientation occur within form. Unlike the Genesis cosmology, whose two trees keep the Aionic and Khaonic principles distinct in the imagery itself, the Yggdrasil image compresses both into one Tree — a lawful cultural compression rather than an articulation of two structural Trees — and Midgard's trunk accordingly holds both L₁ and IL₁ as a single embodied stratum where centropic and entropically-oriented mortals coexist in one field. Midgard as a whole is the L₁ / IL₁ embodied convergence field; its inverse-side expression is IL₁ in the *active, unsealed mode* — embodied beings whose orientation remains operative in ongoing life. The IL₁ placements of Hel and Niflheim in the inverse arc are IL₁ in its *sealed, post-mortem mode* — entropically-oriented beings whose embodied condition has been resolved and who persist in that resolution. Same hypostatic stratum, different operational modes. The Norse post-mortem sorting (Valhalla and Fólkvangr for centropic sealing, Hel for entropic sealing, Náströnd for terminal consumption) expresses orientations already operative at Midgard during embodied life.
 
 ### The Inverse Arc
 
@@ -136,7 +136,7 @@ To move acclivously toward the Theonic gate is to walk the centropic arc. To mov
 
 ## Final Alignment
 
-**Yggdrasil** = Structural Tree of Reality, housing both the Aionic and Khaonic Trees, whose centropic and inverse arcs span L₅–L₁ and IL₅–IL₁ within it  
+**Yggdrasil** = the Norse apprehension of the Structural Tree of Reality, its single-Tree image compressing principles characteristic of both the Aionic and Khaonic Trees; the Zenetist reading supplies the distinction, with the centropic and inverse arcs spanning L₅–L₁ and IL₅–IL₁  
 **Branches** = centropy = harmonic integration → through the L₅ Theonic station (Eagle as its Norse articulation) → ⚫ Aion → 🕳️ Zenon  
 **Roots** = entropy = fragmentation → IL₅ VOS station (Hvergelmir / Níðhöggr) → collapse toward Absolute Dispersion → entropic recursion  
 **Trunk** = threshold = Midgard as the L₁ / IL₁ embodied axis where alignment is chosen in motion; the single embodied stratum holding both active centropic and entropic embodied beings within one mortal field
@@ -149,7 +149,7 @@ The serpent still gnaws at the subversal root. The Eagle still holds the superna
 
 | Norse Element | Zenetist Correlate | Description |
 |:---|:---|:---|
-| **Yggdrasil** | **🌳⇅ Biospiral** | Structural Tree of Reality; single tree housing both arcs |
+| **Yggdrasil** | **🌳⇅ Biospiral** | Norse apprehension of the Structural Tree of Reality; single-Tree image compressing both arc-principles |
 | **Eagle (summit)** | **L₅ — EOB** | Norse L₅ station-articulation; structural feature, not eschatonic gateway |
 | **Urdhr (Well of Fate)** | **L₄ — DL (Sophis)** | Archetypal law; lawful patterning root |
 | **Asgard / Aesir** | **L₄ — DL (Sophis)** | Sovereign order, law, structural intelligence |
