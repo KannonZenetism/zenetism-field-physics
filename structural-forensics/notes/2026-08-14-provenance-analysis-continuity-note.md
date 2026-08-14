@@ -25,14 +25,44 @@ The provenance analysis has antecedents across the Structural Forensics corpus p
 
 *The Algorithmic Legibility Problem* was separated from that document's extension proposal and composed 2026-08-14.
 
+### Attestation of the composed artifact
+
+Document digest (SHA-256):
+
+`f73b11b48a91dd2808e442b092c92c62e67c134c8b97bf3cdeecb093e7ea43e6`
+
+The OpenTimestamps proof for this digest carries two completed Bitcoin attestations, obtained through independent calendar servers:
+
+- Merkle root of Bitcoin block **962300**
+- Merkle root of Bitcoin block **962309**
+
+A third path remains pending at a further calendar server.
+
+Block 962300 carries the header time **2026-08-13 15:23:40 UTC**, read from the public block record (displayed as 10:23:40 in US Central Daylight Time, UTC−5).
+
+What the attestation establishes: the digest existed before that block was confirmed. The artifact therefore existed no later than 2026-08-13 15:23:40 UTC, on an anchor independent of any party's assertion. An OpenTimestamps proof attests existence from the moment of stamping forward and cannot backdate, so the bound is an upper one: the artifact may have existed earlier, and cannot have existed later.
+
+The author's own record of composition is 2026-08-13 14:15:32 UTC. That figure is recorded here as the author's record; the attestation, not the figure, is the evidentiary anchor.
+
 ## C3 · Contemporaneous external developments
 
-Two developments dated 2026-08-13 sit inside this window:
+Two developments announced 2026-08-13 sit inside this window. Times are given in UTC, converted from the announcement timestamps as displayed in US Central Daylight Time (UTC−5):
 
-1. X's announced expansion of transparency concerning its distribution systems.
-2. OpenAI's release described as Computer History.
+1. **2026-08-13, 18:17 UTC** — announcement of the open-sourcing of the X algorithm.
+   `https://x.com/elonmusk/status/2087966834519675053`
+2. **2026-08-13, 20:15 UTC** — OpenAI's release described as Computer History.
+   `https://x.com/OpenAI/status/2087996496088297746`
 
-Both are recorded here as environmental facts of the composition window.
+Both are recorded here as environmental facts of the composition window. Displayed post times vary with the viewer's locale; the UTC values above are the stable form, and the post identifiers permit independent verification.
+
+### The sequence as recorded
+
+- **2026-08-13 14:15:32 UTC** — composition of *The Synthetic Provenance Problem* (author's record)
+- **2026-08-13 15:23:40 UTC** — attested upper bound on the artifact's existence (Bitcoin block 962300)
+- **2026-08-13 18:17 UTC** — announcement of the open-sourcing of the X algorithm
+- **2026-08-13 20:15 UTC** — OpenAI's Computer History release
+
+The second entry is the one carrying independent attestation. The first is the author's record, the third and fourth are public announcements bearing their own platform timestamps.
 
 ## C4 · Structural relevance
 
@@ -53,7 +83,7 @@ This note makes no determination concerning:
 - whether the timing carries any significance beyond coincidence in a fast-moving field
 - or whether the analyses would differ had the developments not occurred
 
-No such determination is made, and none should be inferred from the recording of these dates together.
+The note records times and leaves them to stand. It draws no inference from their order, and none should be inferred from the recording of these dates together.
 
 ## C6 · Standing
 
