@@ -136,7 +136,7 @@ A platform may hold extensive visibility into the activity of an individual whil
 
 This is **Verification Asymmetry**.
 
-It exists independently of any allegation of misuse. It is a property of the arrangement, not a charge against a party.
+It exists whether or not wrongdoing is alleged. It is a property of the arrangement, not a charge against a party.
 
 A person may be able to verify what they transmitted while being unable to verify independently every internal operation performed after transmission.
 
