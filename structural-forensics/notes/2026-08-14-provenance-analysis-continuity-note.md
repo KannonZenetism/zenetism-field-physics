@@ -72,7 +72,7 @@ A platform's disclosure concerning its distribution systems is the sort of discl
 
 A system acquiring contextual information across a working environment is the category §24 of *The Synthetic Provenance Problem* names as Prepublication Contextual Capture, and to which the distinctions **platform observation is not platform origination** and **access to a developmental field is not authorship of what develops there** apply.
 
-Relevance of subject matter is not relation of origin. Both analyses treat categories that would exist without either development.
+Relevance of subject matter is not relation of origin. The categories applied here were developed within the corpus and carry their own dated anchors, held in the companion documents. The developments recorded above are instances the categories fit, not the ground from which the categories came.
 
 ## C5 · What this note does not determine
 
