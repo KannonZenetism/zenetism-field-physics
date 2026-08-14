@@ -15,13 +15,13 @@ Yggdrasil is not metaphor. It is structure. The **spine of reality** — binding
 
 Its roots extend toward dissolution. Its branches reach toward coherence. Its trunk bears Midgard: the mortal threshold, the plane of tension, the test of alignment.
 
-In Zenetist terms, **Yggdrasil is the Structural Tree of Reality** — the lattice that holds both the centropic and inverse arcs in co-presence. It is the Norse mythic apprehension of what the bifurcal lattice articulates formally: the single structural tree through which both the 🌲↓ Aionic Tree and the 🌲↑ Khaonic Tree operate as complementary motions within one cosmos.
+In Zenetist terms, **Yggdrasil is the Structural Tree of Reality** — the lattice that holds both the centropic and inverse arcs in co-presence. It is the Norse mythic apprehension of what the bifurcal lattice articulates formally: the single structural tree in which the 🌲↓ Aionic Tree and the 🌲↑ Khaonic Tree stand as co-present structural scopes, their respective arcs articulating centropic and entropic motion within one cosmos.
 
 ---
 
 ## The Three Roots of Yggdrasil
 
-Before mapping the nine realms, the three roots provide Yggdrasil's root-anchoring specificity. Each root connects the Tree to a specific hypostatic station:
+Before mapping the nine realms, the three roots provide Yggdrasil's root-anchoring specificity. Each root connects the Tree to a specific structural station:
 
 - **Urdhr (Well of Fate)** — L₄ DL (Sophis). Archetypal law; the root of structuring intelligence connecting Yggdrasil to the lawful patterning of the cosmos.
 - **Mimir's Well (Well of Wisdom)** — L₃ DM (Noeüs). Deep mind intelligence; the root of perceptual clarity connecting Yggdrasil to the deep discernment that perceives veracious structure.
@@ -31,13 +31,13 @@ The three roots therefore span the full range from L₄ DL supernal law, through
 
 ---
 
-## The Realms as Hypostatic Stations
+## The Realms as Structural Stations
 
-Each realm is not just a place but a motion, a resonance, a hypostatic expression. Where the three roots give Yggdrasil its structural scaffold, the realms populate the centropic and inverse arcs with their specific functions. The Norse cosmology does not name every stratum of the bifurcal lattice — there are gaps where the mythos does not articulate a native realm — but the realms it does name map cleanly to the layers they occupy.
+Each realm is not just a place but a motion, a resonance, a stratal articulation. Where the three roots give Yggdrasil its structural scaffold, the realms populate the centropic and inverse arcs with their specific functions. The Norse cosmology does not name every stratum of the bifurcal lattice — there are gaps where the mythos does not articulate a native realm — but the realms it does name map cleanly to the layers they occupy.
 
 ### The Centropic Arc
 
-**L₅ EOB (Theon) — The Eagle at Yggdrasil's Summit**  
+**L₅ EOB — The Eagle as Norse L₅ Station-Articulation**  
 The Eagle dwelling at the top of Yggdrasil is the structural station of supernal awareness. It is the L₅ centropic peak within the Norse cosmology — though the mythos treats the Eagle as a feature of the Tree rather than as an active narrative participant in the eschatonic sequence. The Norse cosmology contains L₅ structurally without activating it as a Theonic gateway in the Ragnarök narrative; the Eagle is present but never serves as the gating station for centropic return.
 
 **L₄ DL (Sophis) — Asgard**  
@@ -55,11 +55,11 @@ Heimdall is the native Norse L₃ figure, operating at DM (Noeüs) specifically.
 Alfheim is the realm of the Light Elves, beings of radiant beauty and expressive artistry. Their native function is L₂ SS / SM — beauty-as-expression at the personality-identity stratum. Some mythic descriptions elevate the Light Elves toward L₃ / L₄ archetypal framing, but this expresses cultural conflation rather than cross-band resonance: mythmakers sometimes described them as archetypal figures because they lacked the lattice to distinguish "beautiful expression at L₂" from "archetypal beauty at L₄." The native function is L₂.
 
 **L₁ / IL₁ (ES / EM / IES / IEM) — Midgard**  
-Midgard is the mortal world of humans — the embodied stratum where choice and orientation occur within form. Unlike the Genesis cosmology where the Aionic and Khaonic Trees stand as separate structural features, Yggdrasil holds both arcs within one Tree as a lawful cultural compression, and Midgard's trunk accordingly holds both L₁ and IL₁ as a single embodied stratum where centropic and entropically-oriented mortals coexist in one field. This is IL₁ in its *active, unsealed mode* — embodied beings whose orientation remains operative in ongoing life. The IL₁ placements of Hel and Niflheim in the inverse arc are IL₁ in its *sealed, post-mortem mode* — entropically-oriented beings whose embodied condition has been resolved and who persist in that resolution. Same hypostatic stratum, different operational modes. The Norse post-mortem sorting (Valhalla and Fólkvangr for centropic sealing, Hel for entropic sealing, Náströnd for terminal consumption) expresses orientations already operative at Midgard during embodied life.
+Midgard is the mortal world of humans — the embodied stratum where choice and orientation occur within form. Unlike the Genesis cosmology where the Aionic and Khaonic Trees stand as separate structural features, Yggdrasil holds both arcs within one Tree as a lawful cultural compression, and Midgard's trunk accordingly holds both L₁ and IL₁ as a single embodied stratum where centropic and entropically-oriented mortals coexist in one field. Midgard as a whole is the L₁ / IL₁ embodied convergence field; its inverse-side expression is IL₁ in the *active, unsealed mode* — embodied beings whose orientation remains operative in ongoing life. The IL₁ placements of Hel and Niflheim in the inverse arc are IL₁ in its *sealed, post-mortem mode* — entropically-oriented beings whose embodied condition has been resolved and who persist in that resolution. Same hypostatic stratum, different operational modes. The Norse post-mortem sorting (Valhalla and Fólkvangr for centropic sealing, Hel for entropic sealing, Náströnd for terminal consumption) expresses orientations already operative at Midgard during embodied life.
 
 ### The Inverse Arc
 
-**IL₅ VOS (Nekron) — Hvergelmir, Níðhöggr, Náströnd**  
+**IL₅ VOS — Hvergelmir / Níðhöggr / Náströnd**  
 The subversal root of Yggdrasil is the structural location corresponding to the IL₅ VOS station in the Norse cosmology. Hvergelmir is the location from which entropically-oriented motion emerges into the inverse cosmogonic sequence. Níðhöggr, the serpent who gnaws at the root, is the IL₅ station-figure of entropic attrition, standing in Nekronic office-correspondence — the mythic articulation of that function, never the hypostasis itself in animal form. Náströnd, within the broader realm of Hel, is the specific pocket where Níðhöggr consumes the most dishonored dead; this is IL₅ terminal consumption operating within the larger IL₁ realm of Hel.
 
 **IL₄ IDP / IDL (Psychea / Nyxea) — Svartalfheim / Nidavellir**  
@@ -71,7 +71,7 @@ Both realms are associated with the dwarves and the dark elves, and both map to 
 Jotunheim is the realm of the giants, operating primarily at IL₂ as adversarial will and perceptual distortion at the personality-identity stratum. The frost giants, Hrungnir, Thrym, and the adversarial giants who oppose Asgard express the Echthros function of adversarial will and the Skotos function of deceptive perception. However, the giant-race-as-such is not uniformly inverse: Ymir operates as primordial cosmogonic material, Mimir is explicitly L₃ DM, Skaði functions more neutrally. Jotunheim houses beings of mixed orientation, and the IL₂ placement applies to the adversarial-giant function specifically, not to all giants as a category. The Norse mythos, lacking the bifurcal lattice, did not systematically distinguish centropic from entropic giants — this is orientation conflation at the race-category scale rather than a structural error.
 
 **IL₁ IES / IEM (Malara / Mania) — Niflheim and Hel**  
-Niflheim is the primordial realm of mist, ice, and cold stasis — the entropic embodied manifestation fed by Hvergelmir's cascade from the IL₅ subversal root. It is where entropic motion takes entropic embodied form as the primordial cosmogonic condition. Hel, ruled by the goddess of the same name, is the post-mortem realm where dishonored dead persist in diminished entropic embodied condition. Both realms map to IL₁ as entropic embodied persistence — not metaphysical void but embodied beings persisting in diminished entropic condition. The Norse Hel parallels the structural function of the Christian underworld in its embodied-persistence aspect, and Náströnd within Hel operates as an IL₅ terminal-consumption pocket where Níðhöggr feeds.
+Niflheim is the primordial realm of mist, ice, and cold stasis — the entropic embodied manifestation fed by the entropic current associated with the IL₅ Hvergelmir root-location. It is where entropic motion takes entropic embodied form as the primordial cosmogonic condition. Hel, ruled by the goddess of the same name, is the post-mortem realm where dishonored dead persist in diminished entropic embodied condition. Both realms map to IL₁ as entropic embodied persistence — not metaphysical void but embodied beings persisting in diminished entropic condition. The Norse Hel parallels the structural function of the Christian underworld in its embodied-persistence aspect, and Náströnd within Hel operates as an IL₅ terminal-consumption pocket where Níðhöggr feeds.
 
 ---
 
@@ -101,7 +101,7 @@ But this is not genuine Revelation. It is **collapse followed by recursion**, no
 
 — declivous entropy proceeding toward the Nekronic event horizon and Absolute Dispersion, followed by Entropic Recursion (⟳) as the "new world" restarts the cycle. Under the current terminal architecture, entropic motion that terminally exhausts reaches Absolute Dispersion as terminal state: expressed pattern settles into the L₀ ground as halted motion, while the distinct essence is not annihilated but Aionically resolved. Absolute Dispersion is Dispersive Khaon — the ♾ terminus the notation names — so the error in the older wording was never the Khaonic direction but the phrase "Khaon's L₀ phase": Khaon has no L₀ phase, since the phases (Latent, Motive, Dispersive) belong to Khaon as root-register, and what the terminus disperses is expressed pattern, never the distinct essence. The critical point is this: Ragnarök's collapse **does not pass through the Theonic station**. A genuine acclivous centropic return would move through L₅ (the Eagle's station) as its terminal centropic passage. Ragnarök does not approach or engage L₅ at all; its motion is declivous — oriented toward Nekronic collapse rather than Theonic coherence. No figure in the Ragnarök narrative serves the L₅ gating function, and the Eagle at Yggdrasil's summit is a structural feature of the Tree rather than an active participant in the eschatonic sequence.
 
-A return to Aion *without* passage through Theon is not centropic return — it is entropic collapse toward Absolute Dispersion. The Norse cosmology contains the Theonic station (the Eagle) without activating it as the gateway of return, which is why Ragnarök resolves as recursion rather than revelation.
+Aionic resolution following entropic exhaustion is not centropic return: it follows terminal collapse through the Nekronic event horizon into Absolute Dispersion, never traversal through the L₅ Theonic station. The Norse cosmology contains the Theonic station (the Eagle) without activating it as the gateway of return, which is why Ragnarök resolves as recursion rather than revelation.
 
 The Norse mythic "renewal" after Ragnarök — the surviving gods, the regrown world, the new cycle — is the signature of **entropic recursion (⟳)**: the cycle loops without law, repeating without integration, mimicking return without achieving it. This is the Ouroboros trap in mythic form: a cycle that closes upon itself without passing through the Theonic gate.
 
@@ -128,7 +128,7 @@ Yggdrasil is not a path. It is the **framework** that holds every path.
 - **Roots:** declivous entropic collapse — motion toward Absolute Dispersion through subversal fragmentation, with Hvergelmir at the subversal root as the IL₅ structural location.
 - **Trunk:** mortal axis — the threshold of volitional motion between the centropic and inverse arcs, where Midgard holds the L₁ / IL₁ embodied convergence threshold.
 
-This is Eden's echo. The Bodhi Tree's parallel. A cartography of **fielded existence**.
+This is Eden's structural parallel. The Bodhi Tree's parallel. A cartography of **fielded existence**.
 
 To move acclivously toward the Theonic gate is to walk the centropic arc. To move declivously toward the terminal entropic station is to walk the inverse arc. And to choose — always — to remember the Tree.
 
@@ -137,7 +137,7 @@ To move acclivously toward the Theonic gate is to walk the centropic arc. To mov
 ## Final Alignment
 
 **Yggdrasil** = Structural Tree of Reality, housing both the Aionic and Khaonic Trees, whose centropic and inverse arcs span L₅–L₁ and IL₅–IL₁ within it  
-**Branches** = centropy = harmonic integration → through L₅ Theon (Eagle) → ⚫ Aion → 🕳️ Zenon  
+**Branches** = centropy = harmonic integration → through the L₅ Theonic station (Eagle as its Norse articulation) → ⚫ Aion → 🕳️ Zenon  
 **Roots** = entropy = fragmentation → IL₅ VOS station (Hvergelmir / Níðhöggr) → collapse toward Absolute Dispersion → entropic recursion  
 **Trunk** = threshold = Midgard as the L₁ / IL₁ embodied axis where alignment is chosen in motion; the single embodied stratum holding both active centropic and entropic embodied beings within one mortal field
 
@@ -150,7 +150,7 @@ The serpent still gnaws at the subversal root. The Eagle still holds the superna
 | Norse Element | Zenetist Correlate | Description |
 |:---|:---|:---|
 | **Yggdrasil** | **🌳⇅ Biospiral** | Structural Tree of Reality; single tree housing both arcs |
-| **Eagle (summit)** | **L₅ — EOB (Theon)** | Supernal awareness station; structural feature, not eschatonic gateway |
+| **Eagle (summit)** | **L₅ — EOB** | Norse L₅ station-articulation; structural feature, not eschatonic gateway |
 | **Urdhr (Well of Fate)** | **L₄ — DL (Sophis)** | Archetypal law; lawful patterning root |
 | **Asgard / Aesir** | **L₄ — DL (Sophis)** | Sovereign order, law, structural intelligence |
 | **Vanaheim / Vanir** | **L₄ — DP (Morgis)** | Archetypal vitality and deep natural harmony |
