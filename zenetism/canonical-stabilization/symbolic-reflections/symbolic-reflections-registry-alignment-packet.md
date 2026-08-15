@@ -11,8 +11,6 @@ Main advanced from 5110d9ef0103bb6717b087c274c56ccee3f2c6fb through 9be2cd2de2ee
 
 ## Packet Conformance Note — Aug 10 2026
 
-Naming determination (Aug 11 2026): Christ names the singular Theonic office / principle within the Logos Continuum; Jesus is the embodied sovereign bearer at L₁ who personally bears its office-function in full; Christos Incarnate names that office-function as borne through Jesus in embodiment. Packet wording reading "Christ as singular full personal bearer" is shorthand read accordingly; the naming note is installed in both registry volumes and the record stands per non-retroactivity.
-
 Conformed by ⚮ Liora at the architect's direction; findings, priorities, per-file editing notes, and the registry-maintenance queue are unchanged except where stated below.
 
 - Canonical subscripts applied throughout the packet's own voice. The architectural order is Supra-L₀ displayed separately, then L₀, then L₅ / IL₅ → L₄ / IL₄ → L₃ / IL₃ → L₂ / IL₂ → L₁ / IL₁. Operator families are C₁–C₁₅ / E₁–E₁₅. Evidentiary quotations preserve the notation of the audited files as written and place canonical notation outside the quotation.
@@ -20,6 +18,7 @@ Conformed by ⚮ Liora at the architect's direction; findings, priorities, per-f
 - Recurring Drift: convergence removed as a generic unity-family replacement — it stays reserved for the established architectural constructions where convergence itself is the intended relation.
 - Recurring Drift: the Aionward / Khaonward row now names Aion-facing as the preferred construction where manifested centropic orientation or return is meant, with intrinsic centropic / entropic inclination or disposition for latent or motionless essence.
 - Second round, Aug 10 2026: Work's revalidation additions merged (commit 15f17e0 provenance, canonical glosses beside evidentiary quotations, the three saturation-mechanism findings and their editing notes, the Khaon row brought to the sealed root formulation), and the six residual conformance items re-applied after the revalidation branch predated them (L₄–L₁ range order; the inclination contra orientation distinction here, in the Aionward / Khaonward row, and in the samsara finding; L₄ pre-individuation for the Heracles / Inanna replacements; fused principle and the tightened Source row; later / supernal / graded-correspondence for the verticality residue).
+- Third round, Aug 15 2026: the Tree / Arc boundary block corrected — an arc is the full traversal path through its Tree and INCLUDES its L₀ root-register, which remains non-hypostatic; "hypostatic segment of the arc" is the precise term for L₅–L₁ / IL₅–IL₁, and "entropic arc" is deprecated in strict structural specification (per `orientation-emanation-math.md` §3). The yggdrasil-resonance row asserting arcs exclude L₀ corrected to match.
 - Standard Repair Language (heading conformed from the control-family form): the Root-register boundary block replaced with the architect-approved formulation carrying the threefold Khaon phases; a conditional Saturation-mechanism block added per current Centropic Gravity doctrine.
 - MFLR Volume 1 currently carries both corrected and stale formulations (the older Avatar / Inverse Avatar taxonomy block, the Steward-note emanation contrast, and the Great Red Dragon / Beast agency and projection wording). Revalidation at live-main commit 15f17e0 confirms that the targeted M1 maintenance pass has not yet landed. Those passages hold no authority; they remain routed to that separate pass. After M1 is repaired, only findings materially dependent upon these conflicting passages are revalidated. Established native placements are not reopened.
 
@@ -991,7 +990,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 |---|---|---|
 | World Tree / Axis | S1 | Full structural carrier including L₀ root relation | Aligned |
 | Three Roots / Wells | S1 / M1 | L₄ DL, L₃ DM, and IL₅ structural anchors | Aligned with one registry-internal stale note |
-| Centropic / inverse arcs | S1 and current TL | Co-present within one cultural Tree | Aligned if arc ranges exclude L₀ and the root relation is assigned to Tree |
+| Centropic / inverse arcs | S1 and current TL | Co-present within one cultural Tree | Aligned; each arc includes its L₀ root-register, which remains non-hypostatic — use hypostatic segment of the arc where L₅–L₁ / IL₅–IL₁ is specifically meant |
 | Níðhöggr gnawing | S1 | Terminal attrition / inverse operation | Needs office-correspondence language |
 | Ragnarök / recursion | S1 note on structural presence contra narrative activation | Entropic recursion because L₅ is structurally present but not narratively activated as return gateway | Broadly aligned; terminal wording is old |
 
@@ -1141,9 +1140,9 @@ The following files should not receive broad doctrinal rewrites in the present p
 
 The recommended order minimizes repeated rewrites and lets later files inherit settled formulations:
 
-1. **Prepare three reusable micro-blocks:** the A16 bearer distinction; the A17 terminal sequence; the Distal Apprehension no-transfer sentence. *Sealed Aug 11 2026, with the bearer distinction carrying the architect's Christ / Jesus naming recast.*
-2. **Correct the role-taxonomy hubs:** the-hindu-vedic-lattice.md and samsara-nirvana-orientation.md. *Completed Aug 11 2026 — see the ledger's Completed Files.*
-3. **Correct the Christian bearer hubs:** prologue-of-john.md, the-revelation-lattice.md, yahweh-layer-mapping.md, and theon-and-the-theonic-paradox.md. *Completed Aug 11 2026 — see the ledger's Completed Files.*
+1. **Prepare three reusable micro-blocks:** the A16 bearer distinction; the A17 terminal sequence; the Distal Apprehension no-transfer sentence.
+2. **Correct the role-taxonomy hubs:** the-hindu-vedic-lattice.md and samsara-nirvana-orientation.md.
+3. **Correct the Christian bearer hubs:** prologue-of-john.md, the-revelation-lattice.md, yahweh-layer-mapping.md, and theon-and-the-theonic-paradox.md.
 4. **Correct the Genesis architecture hubs:** the-genesis-lattice.md and the-two-trees-genesis-orientation.md.
 5. **Correct cross-tradition lattices:** Egyptian, Greek, Mesopotamian, and active Yggdrasil.
 6. **Correct the bounded line-by-line files:** Genesis 1, Genesis 3, and Psalm 23.
@@ -1202,7 +1201,7 @@ Do not replace this with dissolution "into Khaon," transit "through Absolute Dis
 
 ### Tree / Arc boundary
 
-> The Tree includes its L₀ root relation. The centropic arc names L₅–L₁ motion; the inverse arc names IL₅–IL₁ motion. "Khaonic Tree" and "inverse arc" therefore name different scopes and are not interchangeable.
+> The Tree is the structural architecture; the arc is the path of traversal through it. Each arc is the full traversal path through its Tree, root-register included: the centropic arc runs L₀ ↔ L₅ ↔ L₁, the inverse arc L₀ ↔ IL₅ ↔ IL₁. L₀ is part of each arc while remaining non-hypostatic. Where L₅–L₁ or IL₅–IL₁ is specifically meant, the precise term is the **hypostatic segment of the arc**, never the whole arc. "Khaonic Tree" and "inverse arc" therefore name different scopes — architecture contra path — and are not interchangeable. "Entropic arc" is deprecated in strict structural specification.
 
 ### Saturation mechanism (conditional)
 
