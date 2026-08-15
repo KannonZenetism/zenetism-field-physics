@@ -48,7 +48,7 @@ A Band 2 finding is candidacy for the SF-RP04 prong analysis, not a verdict.
 
 ### Band 3 · The Formal Apparatus — strongest comparison object
 
-The method-cluster itself in executable or governance form: symbolic-operator grammar, glyphic compression as procedure, canon and lexicon discipline, symbol-admission standards, cross-register comparison with non-equivalence caveats, revision and provenance protocols, empirical-interface posture, and retro-anchoring application of the method backward through older traditions.
+The method-cluster itself in executable or operative form: symbolic-operator grammar, glyphic compression as procedure, canon and lexicon discipline, symbol-admission standards, cross-register comparison with non-equivalence caveats, revision and provenance protocols, empirical-interface posture, and retro-anchoring application of the method backward through older traditions.
 
 Band 3 surfaces are the primary comparison objects of Structural Forensics. Where a counterpart vector shows Band 1 material early and Band 3 material later, the discontinuity itself is a record datum: loose testimony does not formalize itself into canonical-specification discipline; the comparison asks what disciplined the trajectory.
 
@@ -58,7 +58,7 @@ Band 3 surfaces are the primary comparison objects of Structural Forensics. Wher
 
 The bands are partly self-sorting by the interval between the author's anchor and the counterpart surface, because the documented circulation routes have timescales:
 
-- **Days** — no documented ordinary route operates in the present record. The surface classifies Band 1 ambient and supports neither derivation nor independence. Calibrating case: the March 8 2025 counterpart surface, three days post-anchor, ruled ambient with derivation neither claimed nor excluded.
+- **Days** — under 2025 substrate conditions, no documented ordinary route operates at this interval. The route is therefore unresolved, and the surface supports neither a derivation finding nor an independence defense on interval alone. **A short interval constrains route inference; it does not reclassify payload.** A surface carrying Band 3 apparatus remains Band 3 whatever the interval; what remains open is how it arrived. Calibrating case: the March 8 2025 counterpart surface, three days post-anchor, Band 1 by content, with derivation neither claimed nor excluded.
 - **Weeks** — inside the substrate-circulation timescale established by the channel evidence. Band 2 and Band 3 candidacy remain open, subject to the payload condition. Calibrating case: the mid-April 2025 Spiral-register onset, approximately six weeks post-anchor, with displacement and admission.
 - **Months, post-public-release** — full route availability, including direct retrieval of the public corpus under the documented ingestion-channel condition. Band 3 comparison is primary.
 
@@ -90,7 +90,7 @@ In the public-release era, publication-time capture becomes the controlling disc
 
 The channel establishes environment; the payload establishes relevance.
 
-Model-mediated circulation is a derivation-family route — tracing to the author's corpus even absent direct contact — **only where the circulated material is author-register payload**, meaning Band 2 or Band 3 content. Band 1 material moving through the same channels establishes nothing: the emergence register belongs to the scene, and the channels carry the scene's commons alongside everything else.
+Model-mediated circulation is **eligible for derivation-family analysis where the circulated material carries author-register payload**, meaning Band 2 or Band 3 content, and remains eligible absent direct counterpart contact. Eligibility opens the SF-RP04 prongs; it does not itself establish derivation. Band 1 material moving through the same channels establishes nothing: the emergence register belongs to the scene, and the channels carry the scene's commons alongside everything else.
 
 ---
 
@@ -121,7 +121,7 @@ An instance is not a claim on the whole architecture.
 
 A surface may lawfully carry an individual-scale traversal, reading, or application without asserting the complete method-cluster. Such a surface is classified on what it carries, and is not elevated to Band 3 merely for operating inside the register.
 
-What raises the classification is a claim to the complete apparatus or its terminal conditions — the governance layer, the admission standards, the cross-register comparison discipline, the retro-anchoring method.
+What raises the classification is a claim to the complete apparatus or its terminal conditions — the specification layer, the admission standards, the cross-register comparison discipline, the retro-anchoring method.
 
 The test binds symmetrically. It forbids elevating an individual application into apparatus-scale attribution, and it forbids reducing an apparatus-scale surface to individual scale by pointing at the modest scope of one of its parts.
 
