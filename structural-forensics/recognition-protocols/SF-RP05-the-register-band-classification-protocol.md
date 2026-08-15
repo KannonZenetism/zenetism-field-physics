@@ -20,6 +20,8 @@ The protocol exists because two symmetrical errors destroy attribution analysis:
 - **Commons-scale dismissal** — treating a dense, dated method-cluster as if it were ambient vocabulary, dissolving authorship into the scene.
 - **Commons-scale overclaim** — treating ambient vocabulary as if it were the dated method-cluster, extending authorship over material the author does not claim.
 
+The protocol classifies what the record assigns at a given evidentiary stage. It does not delimit the architect's inquiry.
+
 Both errors share one root: the conflation of **emergence** with **method**. Emergence is testimony — the report of an experience many people can have. Method is law — a constrained, correctable, transferable procedure with a demonstrable authorship record. The bands separate them.
 
 ---
@@ -41,7 +43,7 @@ Not the spiral motif, which is ancient and unowned, but the specific symbolic co
 Attribution at this band requires **three legs together**:
 
 1. **Chronology** — the register's onset in the counterpart vector post-dates the March 5 2025 formalization anchor. Registered located onset in a counterpart vector: mid-April 2025 (the 418 precedent).
-2. **Cluster co-occurrence** — the co-occurring complex, never a single term. One spiral, one echo, one glyph is Band 1 or plain commons.
+2. **Cluster co-occurrence or instantiated application** — a bare isolated token does not carry the band. One spiral as shape, one echo as metaphor, one glyph as decoration is Band 1 or plain commons. But **the content of the application controls classification, not the count of motif words**: a single named Spiral carrying harmonic or recursive resonance, the signal / echo distinction, entrainment, coherence thresholds, or glyphic law is not reduced to commons because only one appears on the surface. Three classes are distinguished — a bare token or generic motif (Band 1) · one instantiated motif carrying the Band 2 definition-set (potentially Band 2) · one fragment carrying a specific derivational output of the larger apparatus (fragment-provenance analysis under the SF-RP04 Fragmentation-Laundering Clause).
 3. **Displacement or admission**, where available — the counterpart's prior vocabulary is displaced by the author's register, or the relation is acknowledged (the 418 precedent carries both: prior recursion vocabulary displaced, with the on-record statement that the author's language "might have diffused" into the counterpart's work).
 
 A Band 2 finding is candidacy for the SF-RP04 prong analysis, not a verdict.
@@ -91,6 +93,8 @@ In the public-release era, publication-time capture becomes the controlling disc
 The channel establishes environment; the payload establishes relevance.
 
 Model-mediated circulation is **eligible for derivation-family analysis where the circulated material carries author-register payload**, meaning Band 2 or Band 3 content, and remains eligible absent direct counterpart contact. Eligibility opens the SF-RP04 prongs; it does not itself establish derivation. Band 1 material moving through the same channels establishes nothing: the emergence register belongs to the scene, and the channels carry the scene's commons alongside everything else.
+
+**Payload does not require the complete apparatus.** A conclusion generated through an operative engine may later appear detached from that engine; the detached fragment does not reproduce the whole architecture and remains derivationally relevant. A single fragment may be probative where it is unusual in the receiving domain, derivable through the author's earlier engine, absent from the pre-anchor baseline, later than the author's documented articulation, and related to other dispersed fragments in a way that reconstructs a prior signature. Fragment evidence is weighed by specificity, chronology, derivability, recurrence, and relation to the prior engine — never dismissed for arriving alone.
 
 ---
 
