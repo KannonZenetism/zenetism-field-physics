@@ -94,7 +94,50 @@ Model-mediated circulation is a derivation-family route — tracing to the autho
 
 ---
 
-## 5. Interaction with SF-RP04
+## 5. The Developmental Field
+
+Band classification applies to developmental material as well as to published surfaces.
+
+If the sequence through which a method-cluster becomes operative is evidence of origination, that sequence is band-bearing before any finished artifact exists. Provenance begins before publication.
+
+The developmental field includes drafting activity, revisions, research paths, terminology formation, conceptual comparisons, correspondence, diagrams, rejected formulations, and the sequence through which a structure becomes coherent.
+
+**The band of a developmental artifact is the band of its content.** A private draft carrying Band 3 apparatus is Band 3 material; a private note reporting emergence experience is Band 1. Non-publication changes a surface's availability, never its band.
+
+Two conditions follow:
+
+- Where a system holds contextual access to a working environment, it may hold Band 2 or Band 3 material before public release. **Platform observation is not platform origination**, and **access to a developmental field is not authorship of what develops there** — but the interval calculation of §3 does not assume public release as the earliest possible acquisition point.
+- The author's preservation obligation extends behind the artifact: developmental sequence, precursor formulations, and revision chronology are the record establishing when the apparatus became operative.
+
+---
+
+## 6. Scale and Cohesion Tests
+
+Two tests refine band assignment where a surface is dense but its classification is contested.
+
+### 6.1 · Scale discrimination
+
+An instance is not a claim on the whole architecture.
+
+A surface may lawfully carry an individual-scale traversal, reading, or application without asserting the complete method-cluster. Such a surface is classified on what it carries, and is not elevated to Band 3 merely for operating inside the register.
+
+What raises the classification is a claim to the complete apparatus or its terminal conditions — the governance layer, the admission standards, the cross-register comparison discipline, the retro-anchoring method.
+
+The test binds symmetrically. It forbids elevating an individual application into apparatus-scale attribution, and it forbids reducing an apparatus-scale surface to individual scale by pointing at the modest scope of one of its parts.
+
+### 6.2 · The cohesion test
+
+Cohesive organization is available at every band. Structural coherence is not.
+
+A surface may be internally consistent, fluent, and persuasive while carrying no operative distinctions — conclusions retained, derivations absent. That is cohesion, and it is what Band 1 material achieves when it is well written.
+
+Band 3 is marked by **coherence**: distinctions that constrain one another, generate further conclusions, and are correctable as a system. The diagnostic question is not whether a surface reads as organized, but whether removing one distinction propagates consequences through the rest.
+
+> **narrative cohesion is not structural coherence**
+
+---
+
+## 7. Interaction with SF-RP04
 
 Band classification precedes the footprint audit:
 
@@ -107,7 +150,7 @@ A single counterpart vector may hold surfaces in different bands at different da
 
 ---
 
-## 6. Claim Discipline
+## 8. Claim Discipline
 
 The standing formulation:
 
