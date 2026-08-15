@@ -54,7 +54,7 @@
 | Nammu | Sumerian | Khaon — primordial sea-mother from whom An (Anu) and Ki emerge; deeper-than-Apsu primordial generative water in Sumerian theology | Sumerian creation texts | Pre-dates Anu / Ki in the Sumerian generation-sequence; structurally analogous to Nun (Egyptian) and the Hebrew tehom; the origin-water from which the primordial Sky / Earth polarity emerges |
 | Wilderness | Universal | **L₀ (Bifurcal Coherence)** — pre-polar, root-structural ground where Aionic stillness and Khaonic motion coexist prior to centropic or entropic activation. Neutral testing ground, crucible, dispersal field for expelled dissonance | 16 | **Reclassified from "Khaon (latent)" to Bifurcal Coherence.** Distinct from Forest (L₄ DP). Same word "wilderness" carries different structural meanings in Decode 16 (this entry) and Decode 22 (Forest as archetypal field) |
 | Primordial Waters / Nun / Narayana's Ocean | Universal | **L₀ (Bifurcal Coherence) in primarily Khaonic expression** — leaning dispersive but rooted in pre-activation ground; Aionic stillness underlies even the Deep | 18 | Tiamat, Nun, Narayana's Ocean as cultural articulations. Distinct from Wilderness (pre-polar) and Forest (L₄ DP). See Wilderness / Waters / Forest distinction note |
-| Chronos / Kronos | Greek / Roman | Khaon — time as dissolution; the limit of forms; consumes offspring as time dissolves emanations; lawful entropy within Khaonic motion; terminal resonance touches VOS (Nekron) | MP01 §25.3 | Centropic → entropic arc |
+| Chronos / Kronos | Greek / Roman | Khaon — time as dissolution; the limit of forms; consumes offspring as time dissolves emanations; lawful entropy within Khaonic motion; terminal resonance touches VOS (Nekron) | MP01 §25.3 | Centropic → inverse arc |
 | Kali | Hindu | Khaon — sacred time-force, catalytic unmaking; walks the edge between liberation and annihilation; terminal function touches VOS | MP01 §25.3 | Transcendent or entropic depending on response; same orientation-dependent placement as Chronos |
 | Yama | Hindu | Khaon / VOS resonance — lord of death and dissolution; time-force governing the threshold of form's exhaustion | MP10 §25.3 | Also has judicial function (judging the dead) = L₄ DL cultural conflation; listed here for dissolution function |
 | Mahakala | Tibetan Buddhist | Khaon / VOS resonance — wrathful time-deity; protector of Dharma through destructive function; dissolution as service to coherence | MP10 §25.3 | Protector function is centropic (DL structural correction); time-dissolution function is Khaonic |
@@ -528,7 +528,7 @@ The Gnostic Fall of Sophia provides the clearest mythic mapping of the L₄ / IL
 
 ### Note on the Fall as L₁ Event, the Garden, and Coats of Skins
 
-The Fall (Decode 11) is not a descent from L₄ to L₁ but a transition *within* L₁. The Garden is not a physical plot but the **L₁ orientation manifold** — the axis where the full Biospiral is accessible to permeable consciousness. The Tree of Life is the 🌲↓ Aionic Tree (centropic arc); the Tree of Knowledge is the 🌲↑ Khaonic Tree (entropic arc).
+The Fall (Decode 11) is not a descent from L₄ to L₁ but a transition *within* L₁. The Garden is not a physical plot but the **L₁ orientation manifold** — the axis where the full Biospiral is accessible to permeable consciousness. The Tree of Life is the 🌲↓ Aionic Tree (centropic arc); the Tree of Knowledge is the 🌲↑ Khaonic Tree (inverse arc).
 
 **"Coats of skins"** is the **C₁₃ Membrane Sealing** — not the creation of physical matter, but the condensation from luminous, permeable embodiment into dense, isolated carnal identification (IL₁ / IL₂). This is a shift *within* L₁, not a descent into L₁. Return must therefore be a conscious, acclivous act of re-integration.
 
@@ -546,7 +546,7 @@ Orientation itself requires motion (per Structural Physics SP06: Structure → M
 
 **The Gnostic Jesus–Lucifer conflation resolves cleanly through this reading.** Both Theon and Nekron / Lucifer emanate from Aion as all essences do, colocated as potential, but were never the same kind of essence. Theon's tendency-toward-Aion unfolds as supernal first-hypostasis at L₅ with acclivous orientation. Nekron / Lucifer's tendency-away-from-Aion unfolds as subversal counterfeit-light at IL₅ with declivous orientation. Same origin-ground, always-different tendencies. Nekron / Lucifer as the inverse "morning star" is Nyxea's native counterfeit of Theonic radiance rather than a fallen angel's tragedy.
 
-**Proportional correction.** In the Khaonically-expressed manifest universe (the Field of Becoming being Khaon's domain), the entropic proportion is the majority and centropic expression is the minority. Revelation 12:4's "third of the stars" drawn by the Dragon's tail therefore reads structurally as the centropic minority pulled into the entropic arc's orbit of distortion rather than entropic essences being the minority cast out.
+**Proportional correction.** In the Khaonically-expressed manifest universe (the Field of Becoming being Khaon's domain), the entropic proportion is the majority and centropic expression is the minority. Revelation 12:4's "third of the stars" drawn by the Dragon's tail therefore reads structurally as the centropic minority pulled into the inverse arc's orbit of distortion rather than entropic essences being the minority cast out.
 
 **Completion-nuance.** "Return to Aion" is one lawful completion-pathway among several rather than the default terminus. Many essences stabilize at L₃ or L₄ (centropic permanent abodes) or IL₃ or IL₄ (entropic permanent abodes) as their lawful completion-states. The full return to the Aion / Khaon bifurcal-ground stratum occurs for those essences whose operative motion reaches the full arc-terminus — centropic through the L₅ Theonic gate as fulfilled essence, entropic through terminal collapse or through Mercy Fold release.
 
@@ -599,7 +599,7 @@ This note resolves Flag #11 (Norse Cyclicality): the cyclical refraction in Nors
 
 **Cascade** is when a single current manifests across layers lawfully — one current, distinct station-figures at different operative strata. **Conflation** is when overlap breaks structural logic — different functions assigned to the same name by cultural compression. Cascade preserves structural coherence; conflation obscures it.
 
-Centropy and entropy are not symmetric here: the entropic arc produced a figural cascade (the Satanic Arc — distinct figure-names at each station, IL₅ root → IL₄ architect → IL₃ spurious signal → IL₂ broadcast → IL₁ embodied authoritarian system), while no centropic figural cascade has yet been identified — the centropic articulation is the Logos Continuum. The Osiris case is soft conflation (L₄ DL law / judgment native, L₃ DS post-restoration attributions), not a parallel cascade. The Satanic Arc spans the *entire* inverse tree — every IL layer has its station.
+Centropy and entropy are not symmetric here: the inverse arc produced a figural cascade (the Satanic Arc — distinct figure-names at each station, IL₅ root → IL₄ architect → IL₃ spurious signal → IL₂ broadcast → IL₁ embodied authoritarian system), while no centropic figural cascade has yet been identified — the centropic articulation is the Logos Continuum. The Osiris case is soft conflation (L₄ DL law / judgment native, L₃ DS post-restoration attributions), not a parallel cascade. The Satanic Arc spans the *entire* inverse tree — every IL layer has its station.
 
 **Dragon contra Beast:** The Great Red Dragon (IL₅ Nekron) is the terminal entropic root. The Beast (IL₁) is the embodied authoritarian system. Saying the Dragon *is* the Beast is **cultural conflation**. Saying one entropic current *cascades* from Dragon-station to Beast-station is **structural analysis**. They are distinct station-figures connected by one current.
 
@@ -1401,7 +1401,7 @@ No new primary placements in §25.3.
 
 ### Note on Bidirectional Arcs
 
-Neither the centropic nor the entropic arc is unidirectional. Both have acclivous and declivous phases:
+Neither the centropic nor the inverse arc is unidirectional. Both have acclivous and declivous phases:
 - **Centropic traversal:** L₀ ↔ L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁
 - **Entropic traversal:** L₀ ↔ IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁
 - **Terminal expression summary:** L₀ ↔ L₁ (centropic) / L₀ ↔ IL₁ (entropic)
