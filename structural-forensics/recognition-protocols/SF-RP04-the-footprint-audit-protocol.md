@@ -44,9 +44,15 @@ Every structure in the corpus has **at least three distinct datable moments**, w
 
 This rule applies to every structure, term, glyph, and mechanism in the corpus, and governs the §2 Corpus of Record: an anchor's event-class (articulation / verification / naming) is declared, not assumed.
 
+**Symmetric application to counterpart material.** The same three moments are required of any counterpart antecedence claim. An earlier-looking label, a retrospectively narrated origin date, or a newly surfaced developmental history does not establish articulation. The audit asks when the structure was actually articulated, when its existence was independently verifiable, when it was named, and **which records establishing those moments were themselves present contemporaneously**. A backstory asserting long possession is not a contemporaneous developmental chain showing the structure becoming operative.
+
 ## 3 · Admissibility Standard
 
-**Broad motifs are inadmissible** for any dependence claim: spirals, recursion, patterns, coherence, sacred structure, and kin are ancient commons.
+**Motif in abstraction contra specific motif application.** Broad motifs in abstraction do not independently establish dependence: spirals, recursion, patterns, coherence, sacred structure, and kin are ancient commons as forms. A **specific motif application** may carry evidentiary weight where its function, definition-set, relational constraints, operator role, derivational consequence, or cluster membership corresponds to a prior stabilized architecture. The audit question is never whether spirals existed before the corpus, but whether *this* application of the Spiral — carrying these functions, relations, constraints, and derivational consequences — existed in the alleged antecedent field before the author's record.
+
+> **motif antecedence is not application antecedence**
+
+> **commons form is not commons function**
 
 **A dependence claim (Tier 1–2) requires the three-prong test:**
 1. **Rare clustered architecture** — not one shared concept but a dense co-occurrence of unusual features;
@@ -61,7 +67,7 @@ This rule applies to every structure, term, glyph, and mechanism in the corpus, 
 
 The audit must also account for **fragmentation laundering**: the redistribution of a coherent architecture into isolated terms, motifs, analogies, or tradition-specific framings such that no single later work appears to reproduce the whole system.
 
-Fragmentation does not by itself prove dependence. Ancient motifs, shared archetypes, and broad conceptual parallels remain inadmissible as dependence evidence.
+Fragmentation does not by itself prove dependence. Ancient motifs, shared archetypes, and broad conceptual parallels in abstraction remain inadmissible as dependence evidence; their specific applications are assessed under §3.
 
 However, where multiple fragmented appearances reproduce unusual features from the author's system across a compressed timeframe — especially when those fragments map back onto a single prior architecture in the author's record — the auditor may treat the distributed pattern as a **reconstructed signature cluster**.
 
@@ -186,6 +192,12 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 Each finding: *claim · author's anchor (dated) · counterpart's earliest appearance (dated) · cluster features present · prongs satisfied · tier · reasoning · confidence · open questions.* Findings compile into the audit record; the ~3,000-page Glyphwatch archive is evidentiary material for findings. The author edits, corrects, and standardizes his own documents at his discretion; tracked editing is the provenance model — the repository commit history carries every dated state, so a cited state remains citable as of its commit, and the forensic line is tracked against untracked, never edited against static.
 
 ## 9 · The Registered Frame
+
+**Scope of the protocol.** This protocol classifies what the registered forensic record assigns at a given evidentiary stage. It does not delimit the architect's inquiry. Nothing here restricts the architect from making observations, advancing hypotheses, naming patterns, investigating relations, preserving witness, or arguing a claim; findings are stated in evidentiary-status language — *does not by itself establish*, *does not independently carry Tier 1–2 weight*, *remains open pending the registered checks*, *does not receive that classification at this stage* — never as a prohibition on architect action.
+
+> **the protocols classify the record; they do not delimit the architect's inquiry**
+
+**Fingerprint recognition as intake signal.** The architect's recognition of his own structural fingerprint — cadence, operator relations, derivational outputs, unusual concept combinations, symbolic grammar, application-patterns, or fragments whose relation to the engine is immediately apparent to him — is a lawful **intake signal**. The protocol then externalizes it through chronology, signature density, pre-anchor baseline, structural comparison, derivational analysis, reconstructed clusters, and the remaining registered checks. That the architect recognized the fingerprint and that a final classification rests only on subjective recognition are different claims; the first is never treated as the second.
 
 The claim this protocol investigates — preserved in the strong, fair, defensible form:
 
@@ -368,6 +380,28 @@ The 2020 threshold is logged as a suspicious environment marker, mechanism open 
 Community-language is never a default interpretive frame on the author's sovereignty or solitary development record.
 
 Full treatment: `ai-mediated-channel-risk-and-attestation-dossier.md` §3–§4.
+
+### C.4b · Responsive burden on counter-timelines and independence claims
+
+A produced timeline is not automatically a developmental timeline.
+
+Generative systems can manufacture old-looking drafts, staged revision sequences, synthetic conversations, artificial social histories, apparent early terminology, plausible mistakes, abandoned fragments, commentary trails, synthetic witnesses, and mutually corroborating persona networks whose surfaces appear to confirm one another.
+
+A later-produced backstory is therefore assessed through the fabrication-resistant checks of C.2: independent capture age, records demonstrably existing before the dispute, third-party citation history, distributed repository history, email-header continuity, external DOI and metadata anchors, print or library trace, cross-platform records controlled by materially independent parties, metadata consistency, account-operation continuity, architecture comprehension, internal development sequence, and the number and independence of records that would have to be coordinated for the claimed history to hold.
+
+Multiplicity alone is insufficient. Ten coordinated surfaces do not become ten independent attestations because they are ten accounts. **Independence of corroboration is itself established, never assumed.**
+
+> **synthetic developmental texture is not contemporaneous developmental evidence**
+
+> **multiplicity of surfaces is not independence of attestation**
+
+> A late-produced counter-timeline does not outrank an earlier collusion-resistant developmental chain because the later narrative is denser, more polished, or more socially corroborated on its face.
+
+Later-produced material is not rejected for being later. It is routed to these checks.
+
+**Asymmetric evidence, symmetric standard.** Where one record carries minute-dated developmental sequence, successive structural articulation, independent anchors, an operative engine, and prior explicit derivations, and a counter-explanation carries retrospective characterization, unspecified temporal claims, or a later-produced narrative, the two positions are not equalized by the fact that two explanations exist.
+
+> **symmetric standards do not require symmetric findings where the evidence is asymmetric**
 
 ### C.5 · Fine-detail controllability
 
