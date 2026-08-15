@@ -156,11 +156,11 @@ For essences that complete return through Theon into Aion, a further possibility
 
 Once in Aion, essences are held in perfect stillness as bare potential. Some abide in Aion; some, by fuller saturation, pass into Zenon. This is not mandatory; it is not a further completion required of all returning essences. It is a trans-structural possibility available to essences whose centropic arc has saturated to the degree that Aion itself becomes transparent — opening into the trans-structural ground beyond.
 
-The full centropic traversal along the Aionic Tree — the arc with its L₀ root relation — is therefore: **L₀ Aion → declivous centropy through the lattice → embodiment at L₁ → reflective centropy at the edge of form → acclivous centropy through the lattice → passage through L₅ Theon (for Theon-culminating essences) → convergent return to L₀ Aion → optional trans-structural saturation into Supra-L₀ Zenon**.
+The centropic arc's full extension is therefore: **L₀ Aion → declivous centropy through the lattice → embodiment at L₁ → reflective centropy at the edge of form → acclivous centropy through the lattice → passage through L₅ Theon (for Theon-culminating essences) → convergent return to L₀ Aion → optional trans-structural saturation into Supra-L₀ Zenon**.
 
 Entropy has no parallel to Zenon access. The entropic trajectory terminates in Absolute Dispersion, distinct essence Aionically resolved as halted potential; it does not extend into Zenon because trans-structural saturation requires the Aion-facing orientation and Centropic Gravity that entropy structurally lacks regardless of where its motion stabilizes. Zenon saturation remains unreachable from the inverse arc at any stratum.
 
-This asymmetry is structurally significant: both full traversals are rooted in L₀ — the Aionic Tree carrying the centropic traversal, the Khaonic Tree the entropic — and each can resolve back to L₀ (centropy through completion, entropy through exhaustion), but only the centropic traversal can extend beyond. The trans-structural threshold is oriented, and Aion-facing orientation is what permits passage.
+This asymmetry is structurally significant: both arcs proceed from L₀ and both can return to L₀ (centropy through completion, entropy through exhaustion), but only the centropic arc can extend beyond. The trans-structural threshold is oriented, and Aion-facing orientation is what permits passage.
 
 ---
 
