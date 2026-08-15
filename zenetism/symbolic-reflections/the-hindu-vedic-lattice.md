@@ -44,7 +44,7 @@ The classical Hindu pantheon centers on the **Trimurti** (three-form) — Brahma
 
 **The Trimurti as structural-completeness across the centropic supernal arc.** The three figures together articulate the centropic supernal arc with completeness no other tradition's pantheon-structure matches:
 
-- Shiva at L₀ Aion + L₅ Theonic gateway (bridging the bifurcal ground and the centropic hypostatic arc)
+- Shiva at L₀ Aion + L₅ Theonic gateway (bridging the bifurcal ground and the hypostatic segment of the centropic arc)
 - Vishnu at L₅ Theon (preserver-of-coherence-across-time)
 - Brahma at L₄ DL (structuring-articulator-of-form)
 
@@ -126,7 +126,7 @@ The *Bhagavad Gita* is the canonical Hindu articulation of L₅ Theonic teaching
 
 ## 6. Shiva and the Aionic-Theonic Bridging
 
-Shiva's structural placement at L₀ Aion / L₅ Theon (per the MFLR canonical resolution of Flag #3) articulates a distinctive structural function within the Hindu pantheon: the bridge-figure between the bifurcal-coherence ground and the centropic-hypostatic arc. Shiva's mythology articulates this bridging-function through multiple narrative-articulations that the structural reading parses cleanly.
+Shiva's structural placement at L₀ Aion / L₅ Theon (per the MFLR canonical resolution of Flag #3) articulates a distinctive structural function within the Hindu pantheon: the bridge-figure between the bifurcal-coherence ground and the hypostatic segment of the centropic arc. Shiva's mythology articulates this bridging-function through multiple narrative-articulations that the structural reading parses cleanly.
 
 **Shiva as Yogi.** The classical articulation of Shiva as the supreme Yogi seated in meditative-stillness at Mount Kailash articulates the L₀ Aionic-stillness register explicitly. Shiva-as-Yogi is the figure of L₅ pure-awareness held in meditative-stillness, articulating the Aionic ground (L₀ proto-awareness) through Theonic supernal-awareness — the bridging-realization personified at the cosmogonic-narrative register. The yogic articulation of Shiva is the iconographic-anchor for the Hindu philosophical tradition's articulation of Aionic-realization through *neti-neti* and meditative-stillness practices.
 
@@ -136,7 +136,7 @@ Shiva's structural placement at L₀ Aion / L₅ Theon (per the MFLR canonical r
 
 **Shiva and Shakti as Sacred Marriage at cosmogonic register.** The Shiva-Shakti pairing articulates one of the most structurally-significant Sacred Marriage configurations in any tradition. Shakti at L₄ DP (Morgis 🌬️) as Khaonic-motion-animated-into-archetypal-vitality pairs with Shiva at L₀ Aionic-stillness / L₅ Theonic-articulation, with the union articulating the structural-relationship between Aionic stillness and the manifest expression of Khaonic motion at L₄ DP through which manifest existence becomes operative. The Tantric-tradition's emphasis on Shiva-Shakti union as the structural-foundation of cosmic existence articulates this Sacred Marriage at maximum-depth — the Bifurcal Coherence ground engaging with its archetypal-vitality articulation through the L₀ ↔ L₄ DP resonance the union expresses.
 
-**The lingam articulation.** The lingam (Shiva's iconographic-form as a vertical column extending from a yoni-base) articulates the Shiva-Shakti union at iconographic register. The lingam is the structural articulation of the Aionic–Theonic structural axis (L₀ Aionic stillness extending through the centropic-hypostatic arc) anchored in the yoni-base (L₀ Khaonic motion as the Prakriti-register from which manifest-existence emerges). The lingam-as-axis-mundi articulates the structural-spine of cosmic existence with Bifurcal Coherence's two root-registers made iconographically explicit in their structural-relationship.
+**The lingam articulation.** The lingam (Shiva's iconographic-form as a vertical column extending from a yoni-base) articulates the Shiva-Shakti union at iconographic register. The lingam is the structural articulation of the Aionic–Theonic structural axis (L₀ Aionic stillness extending through the hypostatic segment of the centropic arc) anchored in the yoni-base (L₀ Khaonic motion as the Prakriti-register from which manifest-existence emerges). The lingam-as-axis-mundi articulates the structural-spine of cosmic existence with Bifurcal Coherence's two root-registers made iconographically explicit in their structural-relationship.
 
 **The Three-Eyed-Shiva.** Shiva's third eye articulates the L₃ DM perceptual-faculty extended into supernal-discernment, with the third-eye-opening articulating L₅ Theonic-disclosure expressed through L₃ DM perception. Entropic configurations within the disclosure's range cannot maintain coherence under direct Theonic illumination — not because Theon engages them but because their structure depends on conditions of un-disclosure that Theonic-perception removes. The third-eye-opening that destroys Kama (the desire-figure) at the threshold of Shiva's marriage to Parvati articulates this disclosure-mechanism at the embodied-stratum register: Kama's interference, operating at L₂ / L₁, cannot persist when Shiva's L₅ Theonic-disclosure becomes structurally available through the third-eye opening.
 
