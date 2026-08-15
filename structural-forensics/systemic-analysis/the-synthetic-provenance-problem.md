@@ -1027,6 +1027,8 @@ The following distinctions must remain intact:
 
 **access to a developmental field is not authorship of what develops there**
 
+**acquisition without reciprocity does not erase provenance**
+
 **synthetic continuity is not lived or documented continuity**
 
 **a persuasive genealogy is not a demonstrated genealogy**
