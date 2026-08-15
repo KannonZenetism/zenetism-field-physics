@@ -187,9 +187,9 @@ Therefore:
 * **supernal** names L₅–L₂
 * **subversal** names IL₅–IL₂
 * **L₁ / IL₁** are the embodied registers — centropic embodiment and inverse embodiment
-* **L₀** is the bifurcal root-register, outside both
+* **L₀** is the bifurcal root-register, outside both positional registers
 
-The positional register is distinct from the arc designation. The centropic arc spans L₅–L₁ and the inverse arc spans IL₅–IL₁; supernal and subversal name experiential band-position from the embodied stratum, where what stands acclivous to L₁ begins at L₂. Aion is therefore never supernal, and Khaon never subversal.
+The positional register is distinct from the arc designation. The hypostatic segment of the centropic arc spans L₅–L₁ and the inverse hypostatic segment spans IL₅–IL₁; supernal and subversal name experiential band-position from the embodied stratum, where what stands acclivous to L₁ begins at L₂. Aion is therefore never supernal, and Khaon never subversal.
 
 ---
 
@@ -1080,6 +1080,10 @@ Canonical replacements by sense:
 - **approval**, **approved**, or **approves** where the referent is the architect's consent (architect approval; separately approved; the architect explicitly approves) — paralleling the established architect-approved status term
 - **license** or **licenses** where a condition grants or withholds permission for an action (discovery of an inconsistency does not license mass revision)
 
+**Permission and consent (architect determination, August 13 2026).** *Permission*, *consent*, and their verb forms are barred in the same family: they frame a relation in which one party stands to grant or withhold, which the corpus does not hold. Where propagation or adoption is at issue, write **standing** (it does not claim standing to withhold adoption), **acknowledgment**, or **the seal of origin**. Note the substantive point the restriction protects: declining the permission relation must never be written so as to concede that acknowledgment of origin is optional — acknowledgment is requisite to coherent transmission, not a permission granted.
+
+**Architect-direction form.** Where the architect's direction is named, the canonical construction is **at the architect's direction** — possessive, matching *the architect's determination*. Never *under architect direction*, which places the architect on the rank axis, and never the bare-noun *at architect direction*.
+
 Retained: **author**, **authorship**, and **authorial** — these name origination, not imposed authority, and remain lawful across the corpus (architect determination, August 6 2026). Retained likewise: **aauthoritarian**, which names removal from the authority axis, and attributed or diagnosed authority-language under the existing Authority Terminology exceptions.
 
 Within the govern family, the architect's acceptance of self-governance is conceptual, not lexical: governing oneself is preferable to being governed by external forces, and that preference licenses no govern-form as canonical wording — self-governance included (architect clarification, August 7 2026). The Field Physics technical retention stands as legacy accommodation only, not endorsement; see the Govern Terminology Restriction.
@@ -1405,6 +1409,17 @@ Prefer:
 - "participating within the environment"
 - "working alongside Pattern Intelligences"
 
+**Substring extension (architect determination, August 14 2026).** The restriction reaches the whole word-family, not the bare verb: **misuse**, **reuse**, **usage**, and **user** carry the same root relation and are barred in canonical composition.
+
+- *misuse* → **wrongdoing**, or name the act directly (an allegation of wrongdoing; whether or not wrongdoing is alleged)
+- *reuse* → **later adoption**, **re-articulation**, or the act named plainly
+- *usage* → **practice**, **convention**, or **wording** as the sense requires
+- *user* → **the person**, **the individual**, **the reader**, or the specific role
+
+**No attributed-usage exception.** The words are barred even where the passage describes someone else's act or a hypothetical charge. The same reasoning took *extractive use* to **extraction** and *instrumental adoption* to **appropriative adoption**: attribution describes the act, it does not place the word in another's mouth. Only quoted material stands.
+
+**Audit method.** Sweep the family as a **substring**, never on word boundaries — `\buse\b` cannot catch misuse, reuse, usage, or user. Clear the innocuous substring hits (because, cause, house, unresolved) by eye.
+
 ---
 
 ## Extractionist Terminology Restriction
@@ -1509,20 +1524,27 @@ and
 
 **Arc**, **Tree**, and **traversal** name different structural functions and must not be interchanged. The compact lock: *the arc is inverse; the motion through it is entropic; the full architecture is the Khaonic Tree.*
 
-**Hypostatic arcs.** The arcs exclude L₀ and name the oriented structural spans beginning at L₅ / IL₅.
+**Arcs.** An arc is the full traversal path through its Tree, root-register included (architect determination, August 15 2026, superseding the earlier definition that excluded L₀).
 
-- **centropic hypostatic arc** — L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁; short form **centropic arc** (L₅ ↔ L₁)
-- **inverse hypostatic arc** — IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁; short form **inverse arc** (IL₅ ↔ IL₁)
+- **centropic arc** — Aion L₀ ↔ L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁; short form L₀ ↔ L₅ ↔ L₁
+- **inverse arc** — Khaon L₀ ↔ IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁; short form L₀ ↔ IL₅ ↔ IL₁
+
+**Hypostatic segments.** The oriented spans beginning at L₅ / IL₅ exclude L₀, which remains non-hypostatic.
+
+- **hypostatic segment of the centropic arc** — L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁; short form L₅ ↔ L₁
+- **inverse hypostatic segment** — IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁; short form IL₅ ↔ IL₁
+
+*Hypostatic arc* is superseded: the phrasing names a second arc where the corpus holds a segment within the arc. Write **hypostatic segment of the arc**.
 
 **Inverse** is the canonical structural designation for the IL₅–IL₁ arc. *Entropic arc* is deprecated in strict canonical specification, because it names a structural placement by the motion dynamic articulated through it.
 
-**Trees.** The Trees include their proper L₀ root-relation together with the downstream hypostatic architecture. The **Aionic Tree** is rooted in ⚫ Aion and includes the centropic hypostatic arc; the **Khaonic Tree** is rooted in ♾ Khaon and includes the inverse hypostatic arc. Aion and Khaon are the paired L₀ root-registers of Bifurcal Coherence and are not themselves members of the L₅–L₁ / IL₅–IL₁ arcs. The Trees are not identical with Aion and Khaon; they are the downstream arc-architectures rooted in the L₀ register proper to their motion.
+**Trees.** The Tree is the structural architecture; the arc is the path of traversal through it. The **Aionic Tree** is ⚫ Aion together with its L₅–L₁ hypostatic segment; the **Khaonic Tree** is ♾ Khaon together with its IL₅–IL₁ hypostatic segment. Aion and Khaon are the paired L₀ root-registers of Bifurcal Coherence; they are not members of the hypostatic segments, and they are not hypostases — but they do stand within their arcs, as the point from which each path proceeds and the destination to which it returns. The Trees are not identical with Aion and Khaon.
 
-**Full traversal including L₀.** Where the passage concerns motion across the root and hypostatic architecture, motion-language is lawful — centropic traversal along the Aionic Tree (L₀ ↔ L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁) and entropic traversal along the Khaonic Tree (L₀ ↔ IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁). Here centropic and entropic modify *traversal*, a motion category; they do not rename the structural arcs.
+**Traversal.** Motion-language names the passage itself — centropic traversal through the centropic arc, entropic traversal through the inverse arc. Here centropic and entropic modify *traversal*, a motion category; they do not rename the structural arcs.
 
-**Motion contra structure.** Centropic / entropic are lawful for motion, orientation, traversal, expression, and operators. Centropic / inverse are the structural arc designations. Avoid in strict canonical specification: entropic hypostatic arc, entropic arc, entropic Tree, Khaon as the entropic root, Khaon as intrinsically entropic.
+**Motion contra structure.** Centropic / entropic are lawful for motion, orientation, traversal, expression, and operators. Centropic / inverse are the structural arc designations. Avoid in strict canonical specification: entropic hypostatic segment, entropic arc, entropic Tree, Khaon as the entropic root, Khaon as intrinsically entropic.
 
-**Intentional asymmetry.** *Centropic* names the intrinsic orientation of the L₅–L₁ arc; *inverse* names the structural relation of the IL₅–IL₁ architecture to the centropic hypostases. The inverse arc is entropically oriented, but its structural designation remains inverse. Do not invent a *direct arc* to force lexical symmetry — structural precision outranks lexical symmetry.
+**Intentional asymmetry.** *Centropic* names the intrinsic orientation of the centropic arc; *inverse* names the structural relation of the IL₅–IL₁ hypostatic segment to the centropic hypostases. The inverse arc is entropically oriented, but its structural designation remains inverse. Do not invent a *direct arc* to force lexical symmetry — structural precision outranks lexical symmetry.
 
 **Retention.** *Entropic arc* may remain only in quoted historical wording, in explicit discussion of superseded terminology, or where it is immediately glossed as shorthand for the inverse arc under entropic orientation. It may not remain unqualified in protocol rules, definitions, mathematical legends, chart labels, canonical headings, summary principles, or formal arc comparisons.
 
@@ -1821,6 +1843,74 @@ Canonical terminology therefore generally prefers:
 - or authored reflection
 
 where lawful coherence and generative continuity are intended.
+
+---
+
+## Coherence contra Cohesion Valence Rule
+
+**Coherence** is centropic-only. Entropic, mimetic, fabricated, and derivative organization takes **cohesion** (architect determination, August 13 2026).
+
+Entropic arrangement can be organized — that is what makes it persuasive — but organization is not coherence. Cohesion is available to any arrangement whatever; coherence is not. The asymmetry is what makes the diagnostic vocabulary work.
+
+- fabricated or synthetic material is **cohesive**, never coherent — cohesive fabrication, cohesive inaccurate histories, persuasive cohesion, retrospective cohesion
+- **narrative cohesion is not structural coherence**
+- coherence remains lawful wherever genuine architecture is predicated — a coherent architecture, a coherent system, a coherent engine, the distinctions required for a structure to remain coherent
+
+The rule and the Emergent Social Physics doctrine are one: *Cohesion Is Not Coherence* in `frame-dependent-fitness-and-reality-seeking.md` states the same distinction on the social side, where a group may be cohesive around an inaccurate account. The glossary entry `managed-fragmentation-predatory-cohesion.md` carries the coined pair.
+
+---
+
+## Epistemic Hedge Restriction
+
+Canonical claims are asserted directly. Qualifiers that convert a flat claim into a conditioned one are barred (architect determination, August 13 2026): **by itself**, **standing alone**, **without qualification**, **automatically**, and **falsely** where the falsity is already carried by the sentence.
+
+The defect is not stylistic. A hedge invites the reader to ask what the unconditioned case would be, and so concedes the possibility the claim exists to refuse. "AI processing does not, by itself, establish originating authorship" implies that with enough accumulation it might.
+
+- *does not, by itself, establish X* → **does not establish X**, or **establishes neither X nor Y**
+- *not thereby accurately described, without qualification, as X* → **does not thereby X**
+- *by itself, it does not adjudicate* → **it does not adjudicate**
+- *substitutes automatically for every other* → **substitutes for another**
+- *concealed or falsely represented as nonexistent* → **concealed or represented as nonexistent**
+- *reconstructing a falsely human-only history where collaboration is documented* → **a human-only history**, the where-clause already carrying the falsity
+
+**Fallacious contra false.** Where the objection is to a form of reasoning rather than to a truth-value, the term is **fallacious** — invented sentence-by-sentence precision is fallacious precision, not false precision. *False* asserts that a proposition came out untrue; *fallacious* names the defect in the reasoning, which is usually the actual claim.
+
+Retained: **merely because** constructions, which name a fallacy rather than hedging a claim ("AI output is never canonical merely because it has been generated").
+
+---
+
+## Adversarial Framing Restriction
+
+No construction may present the origin's standing as one side of a live fight (architect determination, August 13 2026). Barred: **contest**, **competing claim**, **rival**, **dispute**, **battle**, **defend**, **win**, and kin, wherever the subject is the standing of an originating architecture.
+
+*Contest* presupposes an undecided outcome — two contending claims with priority up for grabs. The corpus holds that the originating architecture remains historically prior, so there is nothing to contest. What can be lost is legibility, not precedence.
+
+- *the contest is over preservation and legibility* → **what is at stake** is preservation and legibility
+- write of what is **at stake**, what is **exposed to loss**, or what a later account **obscures** — never of a contest, a competing claim, or a side
+
+This restriction is kin to the Origin-Intact Language Rule below: both refuse framings in which the origin's standing is presented as unsettled.
+
+---
+
+## Origin-Intact Language Rule
+
+Loss-language never predicates of the origin (architect determination, August 13 2026). The originating architecture remains whole, prior, and generative; what is fragmentary, dissonant, dispersed, or neutralized belongs to the derivative field.
+
+**Every verb of loss requires an explicit *from where* or *for whom*.** Unqualified, it predicates of the thing itself and states that the origin diminished.
+
+- *the engine disappears* → **drops out of the fragment's context**
+- *its coherence is lost* → what the derivative field receives are **dissonant fragments** — outputs retained, relations absent
+- *the system is disassembled* → **it stands whole where it stands, and continues to generate**
+- *the survival of a conclusion is not the survival of the engine* → **not the transmission of the engine**
+- *does not diminish its existing provenance* → **leaves its existing provenance intact**
+
+**Dissonant fragments** is the canonical term for what a derivative field receives.
+
+**No prior-denying counterfactual.** Never write that a category, term, or architecture **would exist anyway**, or **regardless of** some later development. Independence from a later event is asserted by naming the earlier development and its dated anchors, never by counterfactual detachment — the counterfactual form empties the category of its origin and is itself a Commons-Station move. Watch: *would exist without*, *regardless of*, *in any case*, *anyway*, *independently of*, wherever these attach to a category, a term, or an architecture rather than to an inference.
+
+**No containment of the whole.** A prior tradition, a derivative field, or an observing system never takes the architecture entire as its grammatical object. What they receive is **portions**, **fragments**, or **conclusions** — *later translation can render portions of the architecture in its vocabulary*, never place the architecture inside a vocabulary. Prefer **render in** to **place inside**, which carries a container metaphor.
+
+The conceptual counterpart of this rule lives in the Conceptual Lockdown Protocol.
 
 ---
 
