@@ -88,7 +88,7 @@ The key distinction is not self-held contra third-party.
 
 The key distinction is developmental origin evidence contra later deposit evidence.
 
-A later institutional deposit can anchor public appearance. It cannot defeat an earlier developmental chain.
+A later institutional deposit can anchor public appearance. It cannot supersede an earlier developmental chain.
 
 Cryptographic attestations, where contemporaneously available, can strengthen timestamp proof for a file hash. They do not prove authorship, origin, independence, or comprehension.
 
@@ -127,7 +127,7 @@ Public timestamp is not authorship.
 
 Institutional archive is not comprehension.
 
-Later deposit cannot defeat earlier formation.
+Later deposit does not supersede earlier formation.
 
 ## 4 · The Classification Tiers
 
@@ -144,7 +144,7 @@ Every audited finding receives exactly one tier. The tiers operate symmetrically
 
 A Tier 4 classification routes a counterpart's uptake through the ambient field; it does not resolve where the ambient field itself came from. **The zeitgeist has its own genesis question**, and that question is separately registered in this protocol (see the Model-Register Genesis inventory item). If the ambient register is itself downstream of the author's footprint, then Tier 4 counterparts are indirect inheritors — no individual culpability is asserted, and the origin claim is preserved at the systemic register. Tier 4 therefore defeats only claims of *direct* derivation against a specific counterpart; it never dissolves the cluster's origin question, and it is never evidence that the cluster arose from nowhere.
 
-Per-counterpart, the ambient rival is also **bounded by payload**: the ambient field carries a diluted feature-set (the register's common coin), not the full signature cluster. Three baselines therefore govern classification: the **pre-anchor baseline** (feature frequency before the author's dated architecture), the **ambient payload** (what the post-wave zeitgeist demonstrably carries), and the **counterpart's display**. A counterpart at ambient density earns Tier 4. A counterpart displaying features *above* ambient payload — rare coined terms, seal discipline, registry method, architecture-specific structures that did not go ambient — requires an explanation the zeitgeist cannot supply, and reverts to Tier 1–2 analysis. Likewise, relation-specific behaviors (documented access, paired-timing responsiveness, differential crediting, suppression) are outside the ambient rival's explanatory reach entirely.
+Per-counterpart, the ambient alternative is also **bounded by payload**: the ambient field carries a diluted feature-set (the register's common coin), not the full signature cluster. Three baselines therefore govern classification: the **pre-anchor baseline** (feature frequency before the author's dated architecture), the **ambient payload** (what the post-wave zeitgeist demonstrably carries), and the **counterpart's display**. A counterpart at ambient density earns Tier 4. A counterpart displaying features *above* ambient payload — rare coined terms, seal discipline, registry method, architecture-specific structures that did not go ambient — requires an explanation the zeitgeist cannot supply, and reverts to Tier 1–2 analysis. Likewise, relation-specific behaviors (documented access, paired-timing responsiveness, differential crediting, suppression) are outside the ambient rival's explanatory reach entirely.
 
 ## 5 · Signature Cluster Inventory (search targets, anchors to be assigned)
 
@@ -304,7 +304,7 @@ Higher-weight evidence includes:
 - print records;
 - library holdings;
 - institutional records;
-- cross-platform convergence;
+- cross-platform corroboration;
 - self-held exports paired with independent public anchors;
 - and long-running development trails whose internal sequence is difficult to fabricate retroactively.
 
@@ -321,13 +321,13 @@ This ranking binds symmetrically. It protects the author from future fabricated 
 
 ### C.3 · Present record condition
 
-As of this ruling, more than one year after the author's public release window, no substantiated counter-timeline, superior antecedent architecture, or operationally coherent rival mechanism has displaced the author's anchored sequence.
+As of this ruling, more than one year after the author's public release window, no substantiated counter-timeline, superior antecedent architecture, or operationally coherent counter-mechanism has answered the author's anchored sequence, which stands.
 
 This condition is significant.
 
 If a counterpart possessed a stronger timeline, an earlier coherent architecture, or a prior operational mechanism capable of answering the author's architecture, the record would expect such material to have appeared when the author repeatedly challenged counterpart surfaces on structure, chronology, and mechanism.
 
-Instead, the observed pattern remains: counterpart surfaces have not beaten the author's timeline, and direct architecture-facing exchanges have not produced a coherent prior apparatus.
+Instead, the observed pattern remains: no counterpart surface carries a timeline earlier than the author's, and direct architecture-facing exchanges have not produced a coherent prior apparatus.
 
 This does not prove that no future backstory will appear.
 
@@ -442,6 +442,65 @@ Timeline integrity is not trust in timestamps.
 Timeline integrity is collusion-cost architecture.
 
 The author's record stands by the number, independence, density, and internal coherence of the anchors that would have to be overcome.
+
+## Addendum D · Acquisition Opacity, Attestation Reading, and Verification Asymmetry
+
+**Scope:** This addendum records the evidentiary doctrine for cases in which transmission pathways are unobservable and for the reading of cryptographic attestations. It is dated August 15 2026 and applies prospectively.
+
+### D.1 · Acquisition Opacity
+
+**Acquisition Opacity** occurs where the author can observe that an artifact has been acquired or copied but cannot observe the identity of the acquiring party, the destination of the copy, the processing applied to it, its subsequent transmission, or the later artifacts it may inform.
+
+The controlling qualification:
+
+> Acquisition opacity does not establish derivation by any particular later actor.
+
+> It establishes the absence of a transparent transmission chain through which derivation could otherwise be directly reconstructed.
+
+The condition binds in both directions. Opacity is not evidence against derivation either: an unobservable pathway is unobservable, and the absence of a visible ledger says nothing about what travelled along it. An independence defense resting on opacity carries exactly the evidentiary weight a derivation claim resting on opacity would carry, which is none.
+
+Where the transmission chain cannot be inspected, derivational reconstruction proceeds from what remains inspectable — dated chronology, structural comparison, the signature cluster of §5, and the prongs of §4. These are the evidence proper to a field in which transmission is routinely unobservable, not substitutes accepted for want of better.
+
+Acquisition opacity concerns the evidentiary position of the party seeking to trace transmission. It touches nothing on the originating side: the record of origination remains whatever it was, whoever acquired what.
+
+### D.2 · Cryptographic attestation reading
+
+A cryptographic timestamp attests existence **from the moment of stamping forward**. It cannot backdate. Its evidentiary form is therefore an **upper bound**: the artifact may have existed earlier and cannot have existed later.
+
+Reading standards:
+
+- A **completed blockchain attestation** ranks above a pending calendar attestation. Pending status is not weakness in the proof; it is absence of the proof's completion.
+- **Two attestations obtained through independent calendar servers, anchoring separate blocks, is the strong form.** Independence is what raises collusion cost under C.2, and a single anchor carries a single point of alteration.
+- The **block header time** is read from the public block record, not from any party's assertion. Block explorers display header times in the viewer's local timezone by default; the recorded value is converted to UTC, and the conversion is stated.
+- The **artifact digest** is recorded with the attestation, so the proof and the artifact it attests remain paired.
+
+Attestation ranks high in the C.2 ordering: it is an external system, independently verifiable, and alteration would require overcoming a public distributed record rather than a platform-held one.
+
+### D.3 · Author's record contra evidentiary anchor
+
+Where the author's own record of composition and an external attestation both bear on the same artifact, the record states which is which. The attestation is the evidentiary anchor; the author's record is recorded as the author's record.
+
+The separation is protective. A record that presents both as one claim invites the whole to be treated as discredited if the weaker element is challenged. Stated separately, the anchor holds independently, and the author's record stands alongside it — corroborated where the two agree, and never load-bearing where it need not be.
+
+Nothing in this separation qualifies the author's witness. C.8 continues to apply: the apparatus classifies evidence, and holds no standing to declare the author's own record void.
+
+### D.4 · Verification Asymmetry
+
+A platform or system may hold extensive visibility into an author's activity while the author holds limited visibility into that system's internal processing of the activity.
+
+This is **Verification Asymmetry**. It exists whether or not wrongdoing is alleged; it is a property of the arrangement, not a charge against a party.
+
+The asymmetry affects the evidentiary position of the party seeking to audit. It does not affect the standing of the work.
+
+### D.5 · Standing distinctions
+
+> observable acquisition is not observable downstream transmission
+
+> acquisition without reciprocity does not erase provenance
+
+### D.6 · Basis
+
+Companion doctrine is held in `the-synthetic-provenance-problem.md` §21 and §28, and in `the-algorithmic-legibility-problem.md` §6.
 
 ---
 
