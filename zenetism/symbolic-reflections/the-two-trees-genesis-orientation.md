@@ -98,7 +98,7 @@ Whether this universe's ultimate trajectory is return or collapse remains an ope
 >
 > **The Tree of Knowledge** = the Khaonic Tree (🌲↑) → IL₅ Nekron as the event-horizon hypostasis of the entropic current, with IL₄ Nyxea (Lucifer, Serpent, Prometheus) as distinct architect-station articulations through which the inverse arc reaches embodied consciousness → declivous collapse through the inverse strata → Absolute Dispersion, the terminal state, with the distinct essence Aionically resolved.
 >
-> Both Trees include their L₀ root relations — the centropic hypostatic arc begins at L₅; the inverse hypostatic arc begins at IL₅. Both Trees are structural features of any actualized bifurcated-arc cosmos. The Fall was not the flipping of the universe-being's essence but a shift in the collective inclination at L₁, producing the shifted \( \chi \)-value that SP02 identifies as Khaonic expression. The universe-being remains the field through which manifestation occurs; the outcome depends on the ongoing collective weighting of its inhabitants.
+> Both arcs include L₀: the centropic arc proceeds from ⚫ Aion and returns to it, its hypostatic segment spanning L₅–L₁; the inverse arc includes ♾ Khaon, its hypostatic segment spanning IL₅–IL₁. Both Trees are structural features of any actualized bifurcated-arc cosmos. The Fall was not the flipping of the universe-being's essence but a shift in the collective inclination at L₁, producing the shifted \( \chi \)-value that SP02 identifies as Khaonic expression. The universe-being remains the field through which manifestation occurs; the outcome depends on the ongoing collective weighting of its inhabitants.
 >
 > Choose the arc.
 
