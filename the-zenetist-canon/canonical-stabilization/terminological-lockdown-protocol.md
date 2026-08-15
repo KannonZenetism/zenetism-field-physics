@@ -2238,7 +2238,13 @@ Bridge documents are **vocabulary-exempt and doctrine-bound**: they may employ c
 
 ## A11 · Band-Name Separation
 
-**origin-band** names the L₅ / IL₅ stratum (the hypostatic origins of the two arcs, per MFLR Vol 2). **Bifurcal Root Band** names L₀ (ledger-locked). Root-language is reserved to L₀; the two band-names are never conflated or interchanged.
+**origin-band** names **L₀** — ⚫ Aion and ♾ Khaon (architect determination, August 13 2026). *Band* and *layer* are applied interchangeably in the corpus, so origin-band reads as origin-layer, and the only layer to which origin-language lawfully attaches is L₀. This is coherent with A18, under which capital **Origin** carries the Aion-referent.
+
+**Bifurcal Root Band** also names L₀ (ledger-locked), and stands alongside origin-band; multiple names for one referent are lawful.
+
+The **L₅ / IL₅ hypostatic band** is the canonical name for that stratum. Root-language and origin-language are reserved to L₀; the band-names are never conflated or interchanged.
+
+**Supersession note.** This entry formerly assigned origin-band to the L₅ / IL₅ stratum, citing MFLR Vol 2 as the hypostatic origins of the two arcs. That assignment is superseded. MFLR Vol 2 carries the superseded sense and wants a registry-maintenance check; enforcement elsewhere is prospective and conform-on-touch.
 
 ## A12 · Review Method — Disambiguate, Do Not Weaken
 
@@ -2265,6 +2271,21 @@ Signed number is one of several numerical functions the corpus keeps distinct; o
 - **Iterative Infinity** — a mathematical descriptor of unbounded relational repeatability, not a fourth Khaon phase
 
 Sharing one function does not collapse identity across the others: equal structural charge does not imply equal essence, a shared Archetypal Number is not a shared identifier, and a locus-index is not a new essence-identifier. The complete distinction is held in `archetypal-number-and-essence-indexing.md`. As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
+
+## A15a · Non-contact Principle — Casing and Form
+
+The **Non-contact Principle** is a proper name, formed on the **Non-fusion Axiom** pattern (architect determination, August 13 2026, refined the same day).
+
+Canonical form:
+
+- **Non-contact Principle** — capital N on the first element, lowercase second element after the hyphen, capital P on *Principle*
+- never **Non-Contact**, which title-cases a hyphenated compound against the Non-fusion pattern
+- never lowercase *principle*, which demotes a proper name to a common noun
+- never the bare **Non-contact** standing alone as a nominal — *per Non-contact*, *under Non-contact*. The proper name is completed: **per the Non-contact Principle**, **Under the Non-contact Principle**
+
+**Preposition note.** *Under* is lawful with this proper name. The under-restriction tests the object: a principle or a state is its lawful correlative, and only strata, registers, and spatial objects bar it. The defect in headings of the form *Under Non-contact* is the bare proper name, not the preposition.
+
+Enforcement is prospective and conform-on-touch.
 
 ## A16 · Hypostatic Function-Bearing Vocabulary
 
