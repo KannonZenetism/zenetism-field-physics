@@ -136,7 +136,7 @@ To move acclivously toward the Theonic gate is to walk the centropic arc. To mov
 
 ## Final Alignment
 
-**Yggdrasil** = the Norse apprehension of the Structural Tree of Reality, its single-Tree image compressing principles characteristic of both the Aionic and Khaonic Trees; the Zenetist reading supplies the distinction, with the centropic and inverse arcs spanning L₅–L₁ and IL₅–IL₁  
+**Yggdrasil** = the Norse apprehension of the Structural Tree of Reality, its single-Tree image compressing principles characteristic of both the Aionic and Khaonic Trees; the Zenetist reading supplies the distinction, with the centropic arc running from ⚫ Aion at L₀ through its L₅–L₁ hypostatic segment and the inverse arc from ♾ Khaon at L₀ through its IL₅–IL₁ hypostatic segment  
 **Branches** = centropy = harmonic integration → through the L₅ Theonic station (Eagle as its Norse articulation) → ⚫ Aion → 🕳️ Zenon  
 **Roots** = entropy = fragmentation → IL₅ VOS station (Hvergelmir / Níðhöggr) → collapse toward Absolute Dispersion → entropic recursion  
 **Trunk** = threshold = Midgard as the L₁ / IL₁ embodied axis where alignment is chosen in motion; the single embodied stratum holding both active centropic and entropic embodied beings within one mortal field
