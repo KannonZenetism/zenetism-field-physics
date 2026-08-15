@@ -14,7 +14,7 @@
 
 ## 1. The Problem Is Larger Than Copying
 
-The central provenance problem of generative culture is not exhausted by plagiarism, verbatim copying, or the appearance of a complete rival system.
+The central provenance problem of generative culture is not exhausted by plagiarism, verbatim copying, or the appearance of a complete replacement system.
 
 A coherent architecture may be displaced without being reproduced as an integrated architecture.
 
@@ -248,7 +248,7 @@ Those outputs may then appear as isolated insights, intuitions, observations, th
 
 This process differs from reproduction of the complete system.
 
-No rival architecture is necessary.
+No replacement architecture is necessary.
 
 No later writer needs to understand the full engine.
 
@@ -763,7 +763,33 @@ This creates a **derivational map**, not merely a timestamp ledger.
 
 ---
 
-## 21. Application to Novel Systems
+## 21. Acquisition Opacity
+
+Provenance should follow the engine into the fragment. The pathway by which a fragment travels is frequently not observable.
+
+**Acquisition Opacity** occurs when an originator can observe that an artifact has been acquired or copied but cannot observe:
+
+- the identity of the acquiring party
+- the destination of the copy
+- the processing applied to it
+- its subsequent transmission
+- or the later artifacts it may inform
+
+The qualification that controls any forensic application:
+
+> **Acquisition opacity does not establish derivation by any particular later actor.**
+
+> **It establishes the absence of a transparent transmission chain through which derivation could otherwise be directly reconstructed.**
+
+The distinction matters in both directions. Opacity is not evidence against derivation either: an unobservable pathway is unobservable, and the absence of a visible ledger says nothing about what travelled along it.
+
+What follows is methodological. Where the transmission chain cannot be inspected, derivational reconstruction proceeds from what remains inspectable — dated chronology, structural comparison, the derivational map of §20, and the tests of §19. These are not substitutes accepted for want of better evidence. They are the evidence proper to a field in which transmission is routinely unobservable.
+
+Acquisition opacity concerns the evidentiary position of the party seeking to trace transmission. It touches nothing on the originating side: the record of origination remains whatever it was, whoever acquired what.
+
+---
+
+## 22. Application to Novel Systems
 
 The problem is especially acute for novel systems employing preexisting terminology.
 
@@ -799,7 +825,7 @@ Terms may belong to the commons while structures retain determinate provenance.
 
 ---
 
-## 22. Synthetic History and Persuasive Cohesion
+## 23. Synthetic History and Persuasive Cohesion
 
 The generative problem is not merely the production of inaccurate statements.
 
@@ -834,7 +860,7 @@ Structural Forensics gives precedence to record relation rather than narrative e
 
 ---
 
-## 23. What Preservation Must Now Protect
+## 24. What Preservation Must Now Protect
 
 Traditional preservation asks:
 
@@ -879,7 +905,7 @@ The protected object is **historical relation**.
 
 ---
 
-## 24. Prepublication Contextual Capture
+## 25. Prepublication Contextual Capture
 
 **Prepublication Contextual Capture** is the acquisition by a computational system of contextual information concerning an intellectual structure while that structure is still being developed, before a finished public artifact exists.
 
@@ -911,7 +937,7 @@ It can improve continuity, collaboration, retrieval, and reconstruction of devel
 
 It also widens the provenance-sensitive field exposed to the system receiving that context.
 
-Two distinctions hold regardless of which effect predominates:
+Two distinctions hold whichever effect predominates:
 
 > **Platform observation is not platform origination.**
 
@@ -921,7 +947,7 @@ Contextual access to a developmental field leaves origination where it stands. W
 
 ---
 
-## 25. Countermeasures
+## 26. Countermeasures
 
 No single countermeasure resolves the problem.
 
@@ -967,7 +993,7 @@ Later fragments should be assessed for derivational relation even when they no l
 
 ---
 
-## 26. What This Analysis Does Not Claim
+## 27. What This Analysis Does Not Claim
 
 This analysis does not claim that every resemblance establishes derivation.
 
@@ -995,7 +1021,7 @@ Its claim is narrower:
 
 ---
 
-## 27. Final Structural Distinctions
+## 28. Final Structural Distinctions
 
 The following distinctions must remain intact:
 
@@ -1029,6 +1055,8 @@ The following distinctions must remain intact:
 
 **acquisition without reciprocity does not erase provenance**
 
+**observable acquisition is not observable downstream transmission**
+
 **synthetic continuity is not lived or documented continuity**
 
 **a persuasive genealogy is not a demonstrated genealogy**
@@ -1041,7 +1069,7 @@ The following distinctions must remain intact:
 
 ---
 
-## 28. Final Forensic Directive
+## 29. Final Forensic Directive
 
 The provenance problem of generative culture is not simply whether a work was generated by a human or an AI system.
 
