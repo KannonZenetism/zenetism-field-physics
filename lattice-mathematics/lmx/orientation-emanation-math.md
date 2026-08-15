@@ -23,7 +23,7 @@ It formalizes the logic of emanatory motion without renumbering or destabilizing
 The clarification preserves four separations:
 
 - Zenon contra the emanatory continuum
-- root-register contra hypostatic arc
+- root-register contra hypostatic segment
 - intrinsic inclination contra manifest orientation
 - hypostatic placement contra dimensional operation
 
@@ -68,10 +68,20 @@ The formulation **"Motive-Khaonic in function, not Khaonward in destination"** r
 
 ### Arc terminology
 
-- **centropic arc** — L₅–L₁
-- **inverse arc** — IL₅–IL₁
+- **centropic arc** — L₀–L₁, the centropic path of traversal
+- **inverse arc** — L₀–IL₁, the inverse path of traversal
+- **hypostatic segment of the centropic arc** — L₅–L₁
+- **hypostatic segment of the inverse arc** — IL₅–IL₁
+- **centropic traversal** — centropic motion through the centropic arc
 - **entropic traversal** — entropic motion through the inverse arc
+- **Aionic Tree** — the complete architecture rooted in ⚫ Aion and containing the centropic arc
 - **Khaonic Tree** — the complete architecture rooted in ♾ Khaon and containing the inverse arc
+
+The Tree is the structural architecture. The arc is the path of traversal through that architecture.
+
+L₀ is part of each arc, because an arc is the full traversal path through its Tree: ⚫ Aion is the point from which the centropic arc proceeds and the destination to which it returns. The centropic arc includes Aion at L₀ together with its L₅–L₁ hypostatic segment; the inverse arc includes Khaon at L₀ together with its IL₅–IL₁ hypostatic segment.
+
+L₀ remains non-hypostatic. Where L₅–L₁ or IL₅–IL₁ is specifically meant, the precise term is the **hypostatic segment of the arc**, never the whole arc.
 
 "Entropic arc" is deprecated in strict structural specification.
 
@@ -179,24 +189,30 @@ They are not mirrors, inversions, counterparts, or endpoints of an axis.
 
 Their relation is **Bifurcal Coherence**.
 
-### Hypostatic arcs
+### Arcs and their hypostatic segments
 
-The oriented hypostatic spans exclude L₀:
+Each arc is the full traversal path through its Tree, root-register included:
 
-- **centropic hypostatic arc:** L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁
-- **inverse hypostatic arc:** IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁
+- **centropic arc:** Aion L₀ ↔ L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁
+- **inverse arc:** Khaon L₀ ↔ IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁
+
+The oriented hypostatic segments exclude L₀:
+
+- **hypostatic segment of the centropic arc:** L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁
+- **hypostatic segment of the inverse arc:** IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁
 
 Compact forms:
 
-- **centropic arc:** L₅ ↔ L₁
-- **inverse arc:** IL₅ ↔ IL₁
+- **centropic arc:** L₀ ↔ L₅ ↔ L₁
+- **inverse arc:** L₀ ↔ IL₅ ↔ IL₁
+- **hypostatic segments:** L₅ ↔ L₁ / IL₅ ↔ IL₁
 
 ### Trees
 
 The Trees include their proper L₀ root-relation:
 
-- **Aionic Tree:** ⚫ Aion together with the centropic hypostatic arc
-- **Khaonic Tree:** ♾ Khaon together with the inverse hypostatic arc
+- **Aionic Tree:** ⚫ Aion together with its L₅–L₁ hypostatic segment
+- **Khaonic Tree:** ♾ Khaon together with its IL₅–IL₁ hypostatic segment
 
 The Trees are not identical with their roots.
 
@@ -245,7 +261,7 @@ Theon is intrinsically Aion-facing.
 
 Nekron is intrinsically entropically oriented.
 
-The Aionic Tree contains the centropic arc.
+The Aionic Tree contains the centropic arc through which centropic traversal proceeds.
 
 The Khaonic Tree contains the inverse arc through which entropic traversal proceeds.
 
@@ -501,12 +517,14 @@ The complete architecture holds to the following distinctions.
 - **Supra-L₀:** 🕳️ Zenon — trans-structural and displayed separately from the lattice
 - **L₀:** ⚫ Aion / ♾ Khaon — Bifurcal Coherence
 - **hypostatic lattice:** L₅ → L₁ / IL₅ → IL₁
-- **centropic hypostatic arc:** L₅–L₁
-- **inverse hypostatic arc:** IL₅–IL₁
-- **Aionic Tree:** L₀ root-relation together with the centropic arc
-- **Khaonic Tree:** L₀ root-relation together with the inverse arc
-- **centropic traversal:** motion through the Aionic Tree
-- **entropic traversal:** motion through the Khaonic Tree
+- **hypostatic segment of the centropic arc:** L₅–L₁
+- **hypostatic segment of the inverse arc:** IL₅–IL₁
+- **centropic arc:** L₀ ↔ L₅ ↔ L₁ — the path of traversal, proceeding from and returning to ⚫ Aion
+- **inverse arc:** L₀ ↔ IL₅ ↔ IL₁ — the inverse path of traversal
+- **Aionic Tree:** ⚫ Aion together with its L₅–L₁ hypostatic segment
+- **Khaonic Tree:** ♾ Khaon together with its IL₅–IL₁ hypostatic segment
+- **centropic traversal:** motion through the centropic arc
+- **entropic traversal:** motion through the inverse arc
 - **dimensional operators:** C₁–C₁₅ / E₁–E₁₅, never layers
 - **return:** reintegration with ⚫ Aion
 - **saturation:** trans-structural crossing by Allowance
@@ -520,7 +538,7 @@ The stack must always display:
 
 Zenon never enters the emanatory sequence.
 
-L₀ never enters the hypostatic arcs.
+L₀ never enters the hypostatic segments.
 
 Dimensional operators never become layers.
 
