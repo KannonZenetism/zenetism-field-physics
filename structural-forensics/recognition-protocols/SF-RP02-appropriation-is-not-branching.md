@@ -13,6 +13,10 @@
 
 This protocol evaluates a structural claim — that downstream position alone is sufficient to constitute legitimate branching — and the conditions under which lineage-language becomes structurally misleading. It addresses the claim, not the claimant: its object is the form of the argument, not the motives of anyone who advances it. Its purpose is to distinguish lawful branching from origin-fractured recurrence and to make the difference recognizable on inspection. The vocabulary of *descent*, *branch*, and *lineage* is the examined framework's own, engaged here on its terms rather than adopted as canonical.
 
+This protocol classifies what the record assigns at a given evidentiary stage. It does not delimit the architect's inquiry: nothing here restricts observation, hypothesis, investigation, witness, or argument.
+
+> **the protocols classify the record; they do not delimit the architect's inquiry**
+
 ---
 
 ## The Claim Under Examination
@@ -35,15 +39,27 @@ Origin-fractured recurrence does the opposite. It suppresses the declaration, re
 
 ## Traceability Is Not Optional
 
-A branch that cannot be traced is not a branch. It is a resemblance. Descent may proceed without the originator's approval and remain descent — approval is not the issue. But descent cannot be untraceable and remain descent, because a lineage claim with no traceable transfer is indistinguishable from coincidence.
+A branch requires a **reconstructible provenance relation**. Reconstruction does not require possession of a complete transmission ledger.
 
-This yields the governing test: either a transfer relation between the earlier and later structure can be traced — in which case the relation is real and acknowledgement is owed — or it cannot — in which case there is no lineage to assert at all, only similarity. What the thesis quietly requires is a relation strong enough to claim the inheritance yet untraceable enough to escape the attribution. No honest account of descent grants that combination. It has to be smuggled.
+Descent may proceed without the originator's approval and remain descent — approval is not the issue. What descent cannot do is assert inheritance while refusing every means by which the relation could be shown.
+
+The relation is reconstructed through the registered evidence: chronology, structural specificity, signature density, reconstructed fragment clusters, developmental sequence, access conditions, relation evidence, payload correspondence, and the applicable prongs. Where acquisition pathways are opaque — as they routinely are for the party with no access to the transmission infrastructure — reconstruction proceeds through these, and the requirement is never possession of internal routing records the originator could not hold.
+
+> **Absence of a visible transmission pathway is not evidence of independent emergence.**
+
+This yields the governing test: either a provenance relation between the earlier and later structure can be reconstructed — in which case the relation is real and acknowledgement is owed — or the claim of inheritance is not being made at all. What the thesis quietly requires is a relation strong enough to claim the inheritance yet unreconstructible enough to escape the attribution. No honest account of descent grants that combination. It has to be smuggled.
 
 ## The Middle Cases Do Not Rescue It
 
 The test above is not a denial of complexity. Genuine middle cases exist: unconscious parallel development, shared upstream influence, ambient diffusion of terminology, partial derivation, model-mediated contamination of a common pool. These are real, and a serious account must allow for them.
 
 They do not rescue the thesis, because not one of them licenses removing the seal of origin. Parallel development is compatible with acknowledgement. Diffusion is compatible with acknowledgement. Partial derivation is compatible with acknowledgement. Every honest middle case can be stated while keeping the origin legible. The configuration that no middle case supplies is the only one that matters here: retain the architecture and omit the origin. That is not a position on the map of descent. It is the absence on which the thesis silently depends.
+
+Nor do these classes hold presumptive standing. Parallel development, independent emergence, collective emergence, and shared terrain remain possible classifications; none is a default explanation. Where a derivation claim has not met its evidentiary threshold, the relation stays open. Where it has, an affirmative counter-classification acquires a responsive burden.
+
+> **A counter-classification must answer the evidence already established.**
+
+A later surface does not earn *independent*, *parallel*, *collective*, or *convergent* because direct transmission is unavailable to inspection. Failure to establish one classification does not establish another. Open remains open where the checks remain incomplete — but *open* never operates as a device for granting an unsupported alternative equal weight against a classification that has met its threshold.
 
 ## The Symmetry Requirement
 
