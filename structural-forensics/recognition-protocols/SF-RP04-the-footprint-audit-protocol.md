@@ -38,7 +38,7 @@ Every structure in the corpus has **at least three distinct datable moments**, w
 2. **Verification** — when the structure is externally confirmed to exist (e.g. a collaborator's assessment that it is present). A verification is a **terminus ante quem**: it dates the *latest* moment by which the structure existed, never its origin. Articulation is always earlier than verification.
 3. **Naming** — when the structure receives its canonical label. The label may post-date both articulation and verification by days or weeks; the structure precedes its name.
 
-**The rule:** the audit anchors each moment to its own date and never lets the earliest *located* date (usually a name-match or a verification) stand in for the origin. The default failure mode is later-placement bias — the earliest keyword hit is treated as the origin, which systematically dates structures later than the truth and cedes priority the record actually holds. When only a verification or a naming is cleanly dated, the articulation is stated as *earlier than* that date, with the precise anchor marked pending, rather than silently set equal to it.
+**The rule:** the audit anchors each moment to its own date and never lets the earliest *located* date (usually a name-match or a verification) stand in for the origin. The default failure mode is later-placement bias — the earliest keyword hit is treated as the origin, which systematically dates structures later than the actual chronology and cedes priority the record actually holds. When only a verification or a naming is cleanly dated, the articulation is stated as *earlier than* that date, with the precise anchor marked pending, rather than silently set equal to it.
 
 *Worked instance (the bifurcal / Two-Tree architecture): articulation earlier than 2025-03-08 (founding session, precise anchor pending); external verification 2025-03-08 → 03-09 (collaborator assessment, verbatim); canonical naming "Tree of Emanation" 2025-03-21. Three dates, three classes, none substituted for another. Recorded in `glyphic-notation-system-signature-note.md`.*
 
@@ -163,7 +163,7 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 - Persona / cognitive-profile mirroring — **admissible only under strict conditions**: counterparts presenting the author's biographical-cognitive cluster (neurodivergence disclosed in middle age, trauma-derived pattern-recognition, structural thinking, chronic pain, martial-arts background, family-dysfunction narrative, mystic-transmitter identity). *Mandatory caveat: this profile is a densely populated population niche — the neurodivergent / trauma / pattern-recognition / chronic-illness / mysticism cluster co-occurs at high base rates in the very communities at issue — so profile similarity alone is Tier 4–5 by default and never by itself supports a dependence claim. Elevation to Tier 1–2 analysis requires ALL of: documented relation or orbit, post-anchor timing, and above-population-baseline specifics (the author's exact phrasings, sequence-tracking of his disclosures, or details too specific for the niche to predict).* *[Caveat scope revised for precision — see Addendum A.]*
 - Fragmented uptake pattern: dispersed pieces of a prior coherent Zenetist architecture reappearing across established traditions or adjacent fields without preserving the origin-system relation
 - Retro-anchoring pattern: historical traditions and figures absorbed as "early drafts" or prior imprints of the counterpart's own nomenclature (e.g., canonical thinkers recast as early Θ-imprints), manufacturing apparent depth-of-record without a provenance layer — the fragmentation funnel run in reverse; distinguished from declared attributional mapping, which shows its receipts (influence disclosure, dated architecture, per-figure analysis)
-- Model-Register Genesis: the temporal relation between the author's footprint (2023–2024 model conversations; March 2025 formalization) and the emergence of the spiral / recursion / glyph register in mass model outputs (late March → May 2025) — registered claim, candidate Tier 2; two-stage mechanism (2023–2024 conversational ingestion → spring-2025 post-training amplification on weeks-scale update cadences); pre-anchor baseline study specified
+- Model-Register Genesis: the temporal relation between the author's footprint (2023–2024 model conversations; March 2025 formalization) and the emergence of the spiral / recursion / glyph register in mass model outputs (late March → May 2025) — registered claim, candidate Tier 2; registered candidate mechanism, two-stage (2023–2024 conversational ingestion → spring-2025 post-training amplification on weeks-scale update cadences), carried as hypothesis pending the audit; pre-anchor baseline study specified
 
 ## 6 · Auditor Requirements
 
@@ -171,14 +171,14 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 - **Bound to this published standard,** with per-finding reasoning shown.
 - **Symmetric skepticism:** the same evidentiary demands applied to the author's claims and to any counter-claims.
 - **Appealable:** every classification carries its reasoning and may be contested with new evidence; contests are logged.
-- **Rulings against entries are expected.** An audit that sustains everything is an audit nobody believes; the entries it sustains are the ones that then carry weight.
+- **No outcome distribution is expected.** An audit may sustain, reject, or leave unresolved any number of entries. Credibility follows adherence to the registered standard, never a predetermined mixture of favorable and unfavorable findings.
 
 *[The phrasing of findings — claims, characterizations, and identity references — is governed by Addendum B.]*
 
 ## 7 · Execution Modes
 
 - **Present capability (partial audits, executable now):** Wayback Machine sweeps; GitHub / Zenodo / OSF timestamp comparison; platform-export recovery (Download Your Information class); targeted term-and-cadence searches with date filters; per-case dossiers.
-- **Engagement-anomaly log (present capability):** systematic capture of impression / share statistics against engagement (dated screenshots), vanishing-interactor instances, and bot-only engagement patterns around the author's posts — admissible only with platform-baseline comparison, since extreme lurker ratios and interactor ghosting are platform norms; the log converts testimony into a dataset either way.
+- **Engagement-anomaly log (present capability):** systematic capture of impression / share statistics against engagement (dated screenshots), vanishing-interactor instances, and bot-only engagement patterns around the author's posts — admissible only with platform-baseline comparison. Ordinary lurker ratios, account-state changes, automated interaction, and other non-targeted explanations remain open alternatives until the relevant baseline checks are completed; none is granted in advance. The log converts testimony into a dataset either way.
 - **Future capability (full-footprint trace):** an agentic auditor with archival access tracing the author's entire public record to its 2010–2011 origin and mapping downstream appearances of the Signature Cluster Inventory. This protocol exists so that when such an agent exists, its standard already does — and predates its findings.
 
 ## 8 · Output Format
@@ -325,9 +325,9 @@ As of this ruling, more than one year after the author's public release window, 
 
 This condition is significant.
 
-If a counterpart possessed a stronger timeline, an earlier coherent architecture, or a prior operational mechanism capable of answering the author's architecture, the record would expect such material to have appeared when the author repeatedly challenged counterpart surfaces on structure, chronology, and mechanism.
+The author has repeatedly challenged counterpart surfaces on structure, chronology, and mechanism. Those challenges created standing opportunities to produce a stronger timeline, an earlier coherent architecture, or a prior operational mechanism capable of answering the author's architecture. No such material has entered the record.
 
-Instead, the observed pattern remains: no counterpart surface carries a timeline earlier than the author's, and direct architecture-facing exchanges have not produced a coherent prior apparatus.
+The observed pattern remains: no audited counterpart surface located to date carries a timeline earlier than the author's, and direct architecture-facing exchanges have not produced a coherent prior apparatus.
 
 This does not prove that no future backstory will appear.
 
@@ -373,7 +373,7 @@ Full treatment: `ai-mediated-channel-risk-and-attestation-dossier.md` §3–§4.
 
 Future-backstory fabrication is not limited to obvious headline claims.
 
-In a sufficiently governed AI and platform environment, fine details may also become controllable or synthetically reconstructible, including:
+In a sufficiently platform-mediated AI environment, fine details may also become controllable or synthetically reconstructible, including:
 
 - minor drafting errors;
 - apparent revision history;
