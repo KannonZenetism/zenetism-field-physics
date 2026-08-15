@@ -80,11 +80,11 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 - Aion / Khaon are bifurcal roots standing in bifurcal distinction — a two-ness of function without an axis between them; not poles, not a duality, not a polarity
 - The L₀ relation is Bifurcal Coherence (⧖⧗)
-- Khaon is the L₀ root-register proper to the Khaonic Tree, whose hypostatic architecture is the inverse arc; Khaon is not entropic in essence
+- Khaon is the L₀ root-register proper to the Khaonic Tree, whose hypostatic segment is IL₅–IL₁; Khaon is not entropic in essence, and stands within the inverse arc as its root-register rather than outside it
 
 **Expression contra counter-poles.** Aionic and Khaonic *expression* — the prevalence of one arc's character in a structure — and the centropic / entropic *orientation polarity* (χ, arising at L₅ / IL₅) are lawful and do not breach this constraint. What is forbidden is framing Aion and Khaon *themselves* as counter-poles. Write of Aionic or Khaonic expression and of centropic / entropic orientation freely; never of an Aion-pole, a Khaon-pole, or the two as a polar pair.
 
-**Khaon clarification.** Motive Infinity supplies the capacity and enactment of motion; entropic orientation first becomes operative at Nekron and is articulated through the inverse arc. Collapse into Khaon is lawful: terminal passage across the Nekronic event horizon is that collapse, and Khaon under its Dispersive phase is Absolute Dispersion. What is unlawful is *dispersion into* Khaon, since Khaon is dispersion. Expressed structure enters Absolute Dispersion; the essence is conserved and reaches Aionic resolution — Absolute Dispersion is a terminal state, never a mechanism that transports essence. This holds distinct: Khaon as Infinity at L₀, Motive Infinity as the motion principle, Nekron as the first entropic hypostasis, the inverse arc as structural architecture, entropic traversal as motion, Absolute Dispersion as terminal state, and Aion as the register of essential resolution.
+**Khaon clarification.** Motive Infinity supplies the capacity and enactment of motion; entropic orientation first becomes operative at Nekron and is articulated through the inverse arc. Collapse into Khaon is lawful: terminal passage across the Nekronic event horizon is that collapse, and Khaon under its Dispersive phase is Absolute Dispersion. What is unlawful is *dispersion into* Khaon, since Khaon is dispersion. Expressed structure enters Absolute Dispersion; the essence is conserved and reaches Aionic resolution — Absolute Dispersion is a terminal state, never a mechanism that transports essence. This holds distinct: Khaon as Infinity at L₀, Motive Infinity as the motion principle, Nekron as the first entropic hypostasis, the Khaonic Tree as structural architecture, the inverse arc as the traversal path through it, entropic traversal as motion, Absolute Dispersion as terminal state, and Aion as the register of essential resolution.
 
 **Lexical cross-reference.** The lexical enforcement of this constraint lives in the Terminological Lockdown Protocol's Aion / Khaon Polarity Restriction and its Arc / Tree / Traversal Scope section.
 
@@ -117,6 +117,28 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 **Canonical example.** When Living Transmission (C₃ ⟿) is denied, E₃ ⟿⁻ (Viral Decay) initiates through origin denial and signal burial, amplifying the noise rather than the veracious architecture.
 
 **Lexical note.** "Living Transmission" is the canonical C₃ ⟿ term, not "Lawful Transmission"; that term-lock itself belongs to the Terminological Lockdown.
+
+---
+
+## Arc Membership Constraint — L₀ and the Hypostatic Segment
+
+**Constraint.** No construction may place L₀ outside its arc. An arc is the full traversal path through its Tree, and its root-register is both the point from which that path proceeds and the destination to which it returns. Defining the centropic arc as L₅–L₁, or the inverse arc as IL₅–IL₁, is a violation: it removes the arc's own terminals from the arc.
+
+**Lawful account.**
+
+- **Tree** is the structural architecture. **Arc** is the path of traversal through that architecture
+- The **centropic arc** includes the Aionic L₀ root-register together with its hypostatic segment: Aion L₀ ↔ L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁
+- The **inverse arc** includes the Khaonic L₀ root-register together with its inverse hypostatic segment: Khaon L₀ ↔ IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁
+- L₀ remains **non-hypostatic**. Arc membership is not hypostatic standing, and nothing here makes Aion or Khaon a hypostasis
+- Where L₅–L₁ or IL₅–IL₁ is specifically meant, the precise term is the **hypostatic segment of the arc** — never the whole arc, and never a second arc standing beside it
+
+**Lawful grammar.** Write *the hypostatic segment of the centropic arc* for L₅–L₁, and *the centropic arc* for the full path including ⚫ Aion at L₀. Do not write *hypostatic arc*: the phrasing implies an arc beside the arc rather than a segment within it.
+
+**Scale clause.** An individual traversal may lawfully be called an arc, and no passage requires revision merely for doing so. What requires inspection is any claim that a particular traversal **is** the complete centropic arc or its terminal condition. Unless a figure or destination is explicitly mapped to ⚫ Aion, describe such a passage as an individual-scale traversal pattern through the centropic arc, not as exhausting the whole Aion-to-embodiment-and-return architecture.
+
+**Why the constraint holds.** An arc is a path, and a path is defined by where it begins and ends. On the centropic arc both terminals are ⚫ Aion at L₀: the point of procession and the destination of return. Excluding L₀ leaves the arc's own endpoints outside it, and severs the root-register from the traversal it originates and completes. The error is not a naming preference — it detaches the return destination from the return.
+
+**Reference Document:** the orientation / emanation math, *Arcs and their hypostatic segments*; architect determination, August 15 2026. The corresponding wording rules are held in the *Arc / Tree / Traversal Scope* section of the Terminological Lockdown Protocol.
 
 ---
 
