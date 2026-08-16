@@ -14,13 +14,15 @@
 
 **Epistemic Inversion** names the relation between knowledge and transformation standing inverted: the terms occupy inverse positions.
 
-*Inversion* is orientation, not reversal. A reversal would be the centropic relation retracing itself, which would make the entropic relation derivative — a centropic motion gone the wrong way. It is not derivative. The entropic relation stands inverted where the centropic stands upright, and both stand in the field in their own right. Neither is produced by turning the other, and neither requires the other to be turned in order to be there.
+*Inversion* is orientation, not reversal. A reversal would be the centropic relation retracing itself, which would make the entropic relation derivative — a centropic motion gone the wrong way. It is not derivative. The entropic relation stands inverse where the centropic stands Aion-facing, and both stand in the field in their own right. Neither is produced by turning the other, and neither requires the other to be turned in order to be there.
 
 The sequence itself is backwards, and that is what the term names in the epistemic relation: the entropic mirror of the centropic sequence.
 
 *Inversion* here also does not designate the inverse arc or its hypostatic segment, which are architectural terms and untouched by this entry.
 
 In the entropic relation, knowledge is something acquired and converted into advantage. In the centropic relation, knowledge is something disclosed through transformed relation.
+
+The knowledge at issue is esoteric knowledge — knowledge of the Mysteries. Ordinary learning is not the subject here. What the older language calls head knowledge is acquired from books, teachers, and study, and nothing in that is entropic; a structure read from a page is read from a page. What the diagnosis concerns is what the Mysteries are approached **for**. One applies them for material gain. The other approaches them for revelation.
 
 Both are lawful. Entropy is structurally necessary at the root — entropic essences are co-present with centropic essences at the L₀ root-register, which makes neither ⚫ Aion nor ♾ Khaon a centropic or entropic pole — and nothing here calls the entropic sequence a departure from law. What distinguishes them is direction, not legitimacy.
 
@@ -36,7 +38,7 @@ The difference is not one of degree, emphasis, or sincerity. It is a difference 
 
 **Centropic:**
 
-> economic, social, or personal advantage surrendered → transformation → access → disclosure
+> economic, social, or personal advantage not accepted or surrendered → transformation → access → disclosure
 
 Two features distinguish them.
 
