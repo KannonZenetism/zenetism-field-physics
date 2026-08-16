@@ -91,7 +91,7 @@ The pattern is recognizable by its sequence rather than by its content or regist
 
 ## Relation to the Corpus
 
-*The Algorithmic Legibility Problem* §7 carries the two standing distinctions in distributional terms: material promising advantage is more market-legible than material asking for transformation before it discloses anything, because the first can be evaluated before it is undergone and the second cannot be evaluated until it has been. That is the same asymmetry read from the distribution side, and it explains why the entropic sequence circulates more readily. Wider circulation alters nothing about its direction.
+`the-algorithmic-legibility-problem.md` §7 carries the two standing distinctions in distributional terms: material promising advantage is more market-legible than material asking for transformation before it discloses anything, because the first can be evaluated before it is undergone and the second cannot be evaluated until it has been. That is the same asymmetry read from the distribution side, and it explains why the entropic sequence circulates more readily. Wider circulation alters nothing about its direction.
 
 The directional grounding is held in the orientation and emanation mathematics; the motion-class in the directional-pairs charts.
 
