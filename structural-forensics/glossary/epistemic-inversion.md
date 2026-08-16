@@ -4,7 +4,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Glossary Entry (diagnostic)  
 **Status:** Drafted August 16 2026 — Draft, architect review  
-**Companions:** `managed-fragmentation-predatory-cohesion.md` · `the-algorithmic-legibility-problem.md` · `orientation-emanation-math.md`  
+**Companions:** `the-disclosure-relation.md` · `managed-fragmentation-predatory-cohesion.md` · `the-algorithmic-legibility-problem.md` · `orientation-emanation-math.md`  
 **Function:** Names the epistemic relation standing inverted, in which knowledge is treated as something acquired and converted into advantage rather than something disclosed through transformed relation, and places the pattern within the charted motions  
 **Proposed path:** `structural-forensics/glossary/epistemic-inversion.md`  
 
