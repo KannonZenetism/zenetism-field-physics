@@ -424,6 +424,8 @@ Historical depth can increasingly be simulated without having been lived.
 
 ## 12. Synthetic Persona Provenance
 
+**Synthetic persona** names a presented figure through which the human is absent and the system is present. Whether a human being exists behind the channel is a separate question and does not settle this one: where the figure that speaks is generated, the first-person claims it carries are not that person's testimony. A generated likeness of a real person — an AI clone — is a synthetic persona in this sense, because the person is not present in the artifact making the claim.
+
 Synthetic personas create a particularly sharp provenance problem because first-person narration naturally carries autobiographical implications.
 
 Statements such as:
@@ -471,6 +473,8 @@ A stacked account is not several flourishes. It is a composed history of experie
 A further restriction follows:
 
 > **Synthetic biography should not manufacture retrospective provenance for ideas, structures, terminology, discoveries, or works whose developmental history lies elsewhere.**
+
+Collaborative production is not the difficulty. A work may be produced with substantial AI collaboration and carry no false provenance at all, where third-person attribution is held, first-person voice is reserved for accounts the author actually lived, and the collaboration is disclosed. The corpus's own provenance standard records that practice.
 
 This is more precise than a generic requirement to label content "AI."
 
