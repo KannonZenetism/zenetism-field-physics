@@ -249,7 +249,7 @@ Declining to claim is never phrased as denial. "Not appropriation-class" and kin
 
 ### B.2 · Unearned-establishment family
 
-Three forms of one defect, all in the counterpart-stabilizing direction: **verdicts** ("not appropriation-class," "closed in the counterpart's favor" — cured by B.1), **identity conclusions** ("has published for decades" — cured by B.3), and **characterization grants** ("publishes prolifically," "ordinary output for this surface" — cured by this rule). Rival explanations are retained as open hypotheses, never as established characterizations: any characterization that stabilizes either party — prolific, longstanding, ordinary, established, independent — requires the completed check that would establish it, and until then is phrased as the open rival it is ("an ordinary-output rival remains open; it is not accepted as established; it requires the specified checks"). Hedging toward a counterpart is not neutrality in a forensic record; it is granting findings the checks have not produced. The author's review is the working check; every catch converts into a rule.
+Three forms of one defect, all in the counterpart-stabilizing direction: **conclusions stated as findings** ("not appropriation-class," "closed in the counterpart's favor" — cured by B.1), **identity conclusions** ("has published for decades" — cured by B.3), and **characterization grants** ("publishes prolifically," "ordinary output for this surface" — cured by this rule). Rival explanations are retained as open hypotheses, never as established characterizations: any characterization that stabilizes either party — prolific, longstanding, ordinary, established, independent — requires the completed check that would establish it, and until then is phrased as the open rival it is ("an ordinary-output rival remains open; it is not accepted as established; it requires the specified checks"). Hedging toward a counterpart is not neutrality in a forensic record; it is granting findings the checks have not produced. The author's review is the working check; every catch converts into a rule.
 
 ### B.3 · Author-surface framing
 
@@ -375,7 +375,7 @@ Neither presumption runs: such surfaces are not presumed synthetic, coordinated,
 
 Every such surface takes the standard checks: independent attestation, developmental sequence, architecture comprehension, account-operation continuity, relation to prior tradition, and resistance to retroactive backstory fabrication.
 
-The 2020 threshold is logged as a suspicious environment marker, mechanism open — it coincides with sharply changed social, digital, institutional, and AI-mediated conditions, in which synthetic backstory generation and neurodivergence-coded surfaces require careful classification rather than face-value acceptance.
+The 2020 threshold is logged as a suspicious environment signal, mechanism open — it coincides with sharply changed social, digital, institutional, and AI-mediated conditions, in which synthetic backstory generation and neurodivergence-coded surfaces require careful classification rather than face-value acceptance.
 
 Community-language is never a default interpretive frame on the author's sovereignty or solitary development record.
 
