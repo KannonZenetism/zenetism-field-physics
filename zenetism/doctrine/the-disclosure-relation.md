@@ -86,7 +86,7 @@ Nothing centropic is lost in the surrender. This is the asymmetry the entropic s
 
 **Not that the entropic sequence is outside law.** Entropy is structurally necessary at the root: entropic essences are co-present with centropic essences at the L₀ root-register — which makes neither ⚫ Aion nor ♾ Khaon a centropic or entropic pole — and nothing in this doctrine abolishes that co-presence or the essences held in it.
 
-Necessity at the root is not necessity in every manifestation. Whether entropy expresses in a given emanation of the hypostatic layers, or in a given embodied domain, is a separate question, and the corpus holds open rare and even ultra-rare limit cases in which it may not. The asymmetry of those limit cases is treated in the Structural Physics note on limit-case universes.
+Necessity at the root is not necessity in every manifestation. Whether entropy expresses in a given emanation of the hypostatic layers, or in a given embodied domain, is a separate question, and the corpus holds open rare and even ultra-rare limit cases in which it may not. The asymmetry of those limit cases is treated in `asymmetry-of-limit-case-universes.md`.
 
 The Disclosure Relation names a direction, never a licence.
 
