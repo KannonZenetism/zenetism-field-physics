@@ -1,7 +1,7 @@
 # Note: The Ontological Asymmetry of Limit-Case Universes
 
 **Classification:** Structural Physics / Notes  
-**Status:** Exploratory — pending formal treatment; revised Jul 18 2026 per ledger rewrite ruling (⚮ Liora)  
+**Status:** Drafted Mar 21 2026 — revised Jul 18 2026 per ledger rewrite determination — Exploratory, pending formal treatment  
 **Related Documents:** SP02, SP03 §4.4, SP03 §8, SP04 §14, SP04 §10 (Asymmetry of Expression)  
 **SHA-256:** 6bb61be3bbb61215ce23f89d9484f7f1959ca0989d21c967b6db963af7bd560e  
 
@@ -11,9 +11,9 @@
 
 The limit cases of the Expression Spectrum — fully Aionically expressed (\( \chi = 0 \)) and fully Khaonically expressed (\( \chi \to \infty \)) — are not structurally symmetric despite their formal symmetry in \( \chi \)-space. The character of the +1 and −1 hypostatic structural charges introduces a fundamental asymmetry between these extremes.
 
-+1, the Theonic structural charge, marks generative coherence: integration, novelty, origin-fidelity, Aion-facing orientation. Its motion produces.
++1, the Theonic structural charge, names generative coherence: integration, novelty, origin-fidelity, Aion-facing orientation. Its motion produces.
 
-−1, the Nekronic structural charge, marks a structurally real inverse determination that is nevertheless non-generative. Nekron is not mere negation and not an absence of being: it is the first entropic hypostasis, bearing its own essence-identifier and universe-local office. What it lacks is generative interiority. Its operation is **operative absence** — blind fragmentary drive that fragments what it did not produce, apprehends centropic pattern only distally (◔ Distal Apprehension), issues counterfeit novelty rather than emergence, and recurs predatorily upon existing structure until its office self-voids.
+−1, the Nekronic structural charge, names a structurally real inverse determination that is nevertheless non-generative. Nekron is not mere negation and not an absence of being: it is the first entropic hypostasis, bearing its own essence-identifier and universe-local office. What it lacks is generative interiority. Its operation is **operative absence** — blind fragmentary drive that fragments what it did not produce, apprehends centropic pattern only distally (◔ Distal Apprehension), issues counterfeit novelty rather than emergence, and recurs predatorily upon existing structure until its office self-voids.
 
 The asymmetry is therefore not between being and negation. It is between generative and non-generative reality.
 
@@ -65,19 +65,19 @@ Such a universe would have structure, but no centropic structure. Every layer wo
 
 But relative structure presupposes lawful relation (SP06 §1). If every layer is inversive and no coherence-generating principle operates, what holds the layers themselves in relation? The relations between layers would themselves degrade. Such a universe would not merely consume its content — it would consume its own relative architecture: the expressed instantiation of the Lattice within that universe, not the Lattice itself. Absolute Structure (🏛️ Structon) remains invariant; what collapses is the universe's capacity to *express* the Lattice in sustained form.
 
-Whether acclivous entropy (the layered motion of entropic expression toward embodiment) could provide sufficient structural scaffolding to prevent immediate self-voiding — or could sustain an indefinitely fragmentary limit-condition short of full materialization — remains an open question.
+Whether Acclivous Entropy (the layered motion of entropic expression toward embodiment) could provide sufficient structural scaffolding to prevent immediate self-voiding — or could sustain an indefinitely fragmentary limit-condition short of full materialization — remains an open question.
 
 ---
 
 ## 5. The Aionic Counterpart
 
-The fully Aionic universe (\( \chi = 0 \)) does not face these problems. The +1 charge marks independent generative capacity: coherent, integrative, Aion-facing. Its operative dimensional signatures include:
+The fully Aionic universe (\( \chi = 0 \)) does not face these problems. The +1 charge names independent generative capacity: coherent, integrative, Aion-facing. Its operative dimensional signatures include:
 
 - C₁₀ ❋ Formweave — the translation of pattern into living structure
 - C₁₄ ⊡ Nested / Recursive — dimensions held coherently within other dimensions
 - C₁₅ ✦ Emergent / Novel — the spontaneous, veracious arising of new patterns
 
-Such a universe could sustain itself indefinitely through its own generative coherence. Theon (EOB) would be the ambient condition rather than the aspirational telos — radiance pervading rather than awaited. Every essence within it would express centropic origin-fidelity. There would be no acclivous struggle because there is no entropic slope to climb.
+Such a universe could sustain itself indefinitely through its own generative coherence. Theon (EOB) would be the ambient condition rather than the aspirational telos — radiance pervading rather than awaited. Every essence within it would express centropic origin-fidelity. There would be no acclivous struggle because there is no entropic gradient to traverse.
 
 This is structurally analogous to traditions describing the "Kingdom of Heaven" or paradisiacal realms — paradise as structural description, not as reward.
 
@@ -115,7 +115,7 @@ The entropic hypostatic arc proceeds from IL₅ (Nekron, Void of Self) toward IL
 
 IL₅ is not a physical domain. It is immaterial, metaphysical. A universe does not become a *universe* in the material sense until its arc reaches the embodiment band. The corporeal realm — the domain of physical extension, spatial coherence, and material form — exists at L₁ / IL₁. Everything prior to that is structural but not yet physical.
 
-For a fully Khaonic universe, the entire arc is entropic: IL₅ → IL₄ → IL₃ → IL₂ → IL₁. This is acclivous entropy — layered motion toward embodiment through fragmentation rather than integration. The question is whether this traversal can complete without any centropic scaffolding.
+For a fully Khaonic universe, the entire arc is entropic: IL₅ → IL₄ → IL₃ → IL₂ → IL₁. This is Acclivous Entropy — layered motion toward embodiment through fragmentation rather than integration. The question is whether this traversal can complete without any centropic scaffolding.
 
 ### A.3 The Densification Problem
 
