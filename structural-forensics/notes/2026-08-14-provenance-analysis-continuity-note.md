@@ -46,12 +46,15 @@ The author's own record of composition is 2026-08-13 14:15:32 UTC. That figure i
 
 ## C3 · Contemporaneous external developments
 
-Two developments announced 2026-08-13 sit inside this window. Times are given in UTC, converted from the announcement timestamps as displayed in US Central Daylight Time (UTC−5):
+Developments announced from 2026-08-13 sit inside this window. Times are given in UTC, converted from the announcement timestamps as displayed in US Central Daylight Time (UTC−5):
 
 1. **2026-08-13, 18:17 UTC** — announcement of the open-sourcing of the X algorithm.
    `https://x.com/elonmusk/status/2087966834519675053`
 2. **2026-08-13, 20:15 UTC** — OpenAI's release described as Computer History.
    `https://x.com/OpenAI/status/2087996496088297746`
+3. **2026-08-13 onward** — public reporting of remarks by the chief executive of OpenAI, in conversation with Cory Levy at Internapalooza, describing a near-future descendant of ChatGPT holding continuous screen, meeting, and call context — "perfect context of your whole life" — connected at the person's election to texts, email, documents, and workplace messaging, and placed approximately one model generation out. Coverage located dated 2026-08-13, circulating more widely across 08-14 to 08-16. Source conversation: `https://www.youtube.com/watch?v=gXsutRiJbZI`. The recording date of the underlying conversation is not established from the located material and is not asserted here.
+4. **2026-08-14** — displayed release date of a YouTube surface carrying stacked first-person embodiment claims, captured by the author and recorded separately at `2026-08-16-synthetic-persona-intake.md`.
+5. **2026-08-16** — the author captures and registers items 3 and 4 as post-composition environmental developments.
 
 Both are recorded here as environmental facts of the composition window. Displayed post times vary with the viewer's locale; the UTC values above are the stable form, and the post identifiers permit independent verification.
 
@@ -61,8 +64,11 @@ Both are recorded here as environmental facts of the composition window. Display
 - **2026-08-13 15:23:40 UTC** — attested upper bound on the artifact's existence (Bitcoin block 962300)
 - **2026-08-13 18:17 UTC** — announcement of the open-sourcing of the X algorithm
 - **2026-08-13 20:15 UTC** — OpenAI's Computer History release
+- **2026-08-13 onward** — reporting of the life-and-work context remarks
+- **2026-08-14** — displayed release of the synthetic-persona surface
+- **2026-08-16** — author capture and registration of both
 
-The second entry is the one carrying independent attestation. The first is the author's record, the third and fourth are public announcements bearing their own platform timestamps.
+The second entry is the one carrying independent attestation. The first is the author's record; the remainder are public surfaces bearing their own platform timestamps.
 
 ## C4 · Structural relevance
 
