@@ -192,6 +192,22 @@ Visibility systems may respond to:
 
 An originator may hold chronological and structural precedence while lacking the resources required to produce equivalent narrative saturation.
 
+What a distribution architecture measures is market legibility: whether a work is positioned, formatted, timed, and amplified in the ways the system reads. That measurement is real, and it determines reach. It measures nothing about the work.
+
+The claim here is not that a work deserves reach. It is that reach and significance are different quantities, and that a system reporting the first is not reporting the second.
+
+A second asymmetry runs alongside the first. Material promising advantage — a method, an edge, a result obtainable by applying it — is more market-legible than material that asks for transformation before it discloses anything. The first can be evaluated before it is undergone; the second cannot be evaluated until it has been. A distribution architecture reading for engagement reads the first more readily, and that reading is a fact about the architecture rather than about the material.
+
+The two are not ranked here. They are distinguished, because a system that reads one well and the other poorly is not reporting their relative worth.
+
+> **Market legibility is not intellectual legibility.**
+
+> **Economic convertibility is not structural significance.**
+
+> **Transformative legibility is not advantage-directed legibility.**
+
+> **Knowledge disclosed through transformation is structurally distinct from knowledge packaged as a means of advantage.**
+
 > **Resource advantage can become visibility advantage without becoming provenance advantage.**
 
 > **distributional advantage is not provenance advantage**
@@ -248,6 +264,12 @@ Where a system determines what proportion of an interested public encounters a w
 **partial disclosure is not complete auditability**
 
 **compensatory adjustment is not baseline legibility**
+
+**market legibility is not intellectual legibility**
+
+**economic convertibility is not structural significance**
+
+**transformative legibility is not advantage-directed legibility**
 
 **distributional advantage is not provenance advantage**
 
