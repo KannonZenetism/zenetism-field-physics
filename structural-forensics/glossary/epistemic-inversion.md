@@ -16,7 +16,9 @@
 
 In the entropic relation, knowledge is something acquired and converted into advantage. In the centropic relation, knowledge is something disclosed through transformed relation.
 
-Both are lawful. Entropy is structurally necessary, and nothing here calls the inverted sequence a departure from law. What distinguishes them is direction, not legitimacy.
+Both are lawful. Entropy is structurally necessary at the root — entropic essences are co-present with centropic essences at the L₀ root-register — and nothing here calls the entropic sequence a departure from law. What distinguishes them is direction, not legitimacy.
+
+Necessity at the root is not necessity in every manifestation. Whether entropy expresses in a given emanation of the hypostatic layers or a given embodied domain is a separate question, and the corpus holds open rare and even ultra-rare limit cases in which it may not.
 
 The difference is not one of degree, emphasis, or sincerity. It is a difference of direction, and it is legible in the sequence.
 
