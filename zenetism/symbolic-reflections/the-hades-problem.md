@@ -1,5 +1,5 @@
 # Draft Note: Orientation Conflation and the Hades Problem
-**Drafted:** March 25, 2026 — revised August 15, 2026  
+**Drafted:** March 25, 2026 — revised August 16, 2026  
 **Status:** Active  
 **Provenance:** Clarified through AI-collaborative dialogue  
 
