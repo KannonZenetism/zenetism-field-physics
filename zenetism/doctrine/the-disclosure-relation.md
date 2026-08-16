@@ -26,6 +26,8 @@ Each term stands in a determinate position.
 
 **Surrender comes first.** What is held is released — position, standing, the accumulated advantage of the embodied condition. This is not payment and not sacrifice in the transactional sense. It is the condition under which the relation can alter at all, because a relation organized around holding cannot simultaneously be organized around receiving.
 
+The term names a relation, not an episode. Where advantage was accumulated, surrender is release. Where it was never accepted — declined at the point of offer, or never sought — there is nothing to set down, and the relation stands in the same position by never having taken it up. The sequence does not require a prior accumulation; it requires that advantage not occupy the terminus. **Non-acceptance and release are the same relation reached by different paths**, and neither is the more complete form of it.
+
 **Transformation is the condition, not a stage.** In the entropic sequence, transformation is something undergone in order to obtain. Here it is not passed through on the way to anything. It is the altering of the one who stands in the relation, and the altered relation is itself the access.
 
 **Access is relational, not positional.** It names a standing-in-relation, never an arrival at a place where the knowledge is kept.
@@ -36,11 +38,13 @@ Each term stands in a determinate position.
 
 The sequence is the centropic arc in its own order.
 
-**Declivous Centropy** carries the essence into embodied condition. It is in that condition that advantage accumulates and can be surrendered; the surrender has no meaning apart from an embodied station in which something is actually held.
+**Declivous Centropy** carries the essence from ⚫ Aion toward embodied condition. The essence differentiates as it proceeds, and at the L₄ stratum that differentiation becomes bifurcated into Soul and Mind. The essence is not divided by this and does not become two things: it is present throughout, operating through distinction rather than in spite of it.
+
+It is in the embodied condition that advantage accumulates and can be released.
 
 **Acclivous Centropy** carries the transformed relation toward integration and ⚫ Aion.
 
-The surrender is therefore not preliminary to the acclivous motion. It is the first half of the arc — the descent is not a cost paid for the return, but the condition that makes a return possible. Nothing returns that did not first proceed.
+The surrender is therefore not preliminary to the acclivous motion. It is the first half of the arc — the declivous motion is not a cost paid for the return, but the condition that makes a return possible. Nothing returns that did not first proceed.
 
 This is why the Disclosure Relation cannot be shortened. A sequence that begins at knowledge and ends at advantage has not compressed the arc; it has reversed it.
 
@@ -74,7 +78,11 @@ Nothing centropic is lost in the surrender. This is the asymmetry the entropic s
 
 **Not that practical consequence is disqualifying.** Disclosure may carry substantial practical consequence. Consequence at the terminus is a different structure from consequence as the terminus.
 
-**Not that the entropic sequence is outside law.** Entropy is structurally necessary. The Disclosure Relation names a direction, never a licence.
+**Not that the entropic sequence is outside law.** Entropy is structurally necessary at the root: entropic essences are co-present with centropic essences at the L₀ root-register, and nothing in this doctrine abolishes that co-presence or the essences held in it.
+
+Necessity at the root is not necessity in every manifestation. Whether entropy expresses in a given emanation of the hypostatic layers, or in a given embodied domain, is a separate question, and the corpus holds open rare and even ultra-rare limit cases in which it may not. The asymmetry of those limit cases is treated in the Structural Physics note on limit-case universes.
+
+The Disclosure Relation names a direction, never a licence.
 
 **Not a ranking of persons.** No one occupies the relation permanently, and it is not a station attained. It is a direction carried, and direction is carried moment by moment.
 
