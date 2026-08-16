@@ -144,6 +144,36 @@ The asymmetry concerns observability and auditability. It touches nothing on the
 
 What the asymmetry affects is the evidentiary position of the party seeking to audit — not the standing of the work.
 
+### Declared capability direction
+
+The asymmetry is no longer only a threat-model category. It is a stated product direction.
+
+In a conversation with Cory Levy at Internapalooza, reported publicly from August 13 2026, the chief executive of OpenAI described a near-future descendant of ChatGPT that would watch a person's computer screen continuously, attend every meeting, record every call, and hold what he termed perfect context of that person's whole life — connected, at the person's election, to texts, email, documents, and workplace messaging, and operating proactively from the accumulated context. He placed the capability approximately one model generation out, reported as roughly six months.
+
+Three observations follow, and the first is a qualification that must be carried:
+
+- The framing was **opt-in**: the person elects what the system may hold. A record omitting this would be answerable, and the qualification does not disturb what follows.
+- **Election by one party is not election by every party observed.** Meeting participants, correspondents, and collaborators whose material passes through the observed environment made no such election, and a developmental field is populated by more than its owner.
+- **Consent to a product capability is not consent to provenance-bearing capture.** A person electing contextual assistance is electing assistance. Nothing in that election addresses what the receiving system may hold about an architecture under construction, or how that holding relates to the architecture's origination.
+
+The declaration bears on the provenance analysis in one specific way: it establishes contextual observation of a working environment as an anticipated capability rather than a hypothesis. It establishes nothing about undisclosed historical practice, and is not offered here as evidence of any.
+
+### The opposing capacities
+
+Two capacities develop in opposite directions and compound each other.
+
+A computational system may gain increasingly dense access to **actual** developmental history — the drafting, the sequence, the correspondence, the revisions through which a structure becomes operative.
+
+Synthetic personas may simultaneously present increasingly persuasive **apparent** developmental and embodied histories — the research, the labor, the lived duration, none of it lived.
+
+The first makes real developmental fields more visible to systems. The second makes fabricated developmental accounts more convincing to readers. Between them, the evidentiary distance between a genuine developmental record and a manufactured one narrows from both sides at once.
+
+This is not reducible to a privacy concern. Privacy asks who may see. Provenance asks what the seeing establishes, and the answer does not change with the density of access:
+
+> **A system that can contextualize the developmental field can encounter an intellectual architecture before the public artifact exists.**
+
+> **Access to a developmental field is not authorship of what develops there.**
+
 ---
 
 ## 7. Distributional Resource Asymmetry
