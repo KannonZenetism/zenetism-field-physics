@@ -446,9 +446,27 @@ Fictional narration is not the problem where the fictional register is legible.
 
 The problem begins when fictional embodiment is presented as factual first-person provenance.
 
+First-person narration can function as provenance testimony. The pronoun is not decorative where the sentence claims physical sensation, lived duration, remembered event, experimentation, labor, research, discovery, or personal transformation.
+
+The testimonial classes a first-person account may assert are distinct:
+
+- **bodily embodiment** — the claim to possess a body
+- **sensory experience** — the claim to have perceived through it
+- **longitudinal lived duration** — the claim to have persisted across time
+- **experimental labor** — the claim to have performed the work
+- **autobiographical memory** — the claim to recall a particular episode
+- **psychological consequence** — the claim to have been changed by it
+- **research history** — the claim to have investigated
+- **discovery history** — the claim to have found
+- **intellectual origination** — the claim to have originated
+
 The relevant principle is:
 
 > **A synthetic persona should not present fictional embodiment, experience, labor, memory, research history, or intellectual origination as factual first-person provenance.**
+
+> **The provenance problem intensifies where several testimonial classes are stacked into one apparently autobiographical account — embodied sensory experience, longitudinal duration, experimental labor, and event-specific psychological consequence presented together as a single lived history.**
+
+A stacked account is not several flourishes. It is a composed history of experience, and it is that history, rather than the style, that carries the provenance claim.
 
 A further restriction follows:
 
