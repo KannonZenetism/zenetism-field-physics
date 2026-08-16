@@ -1,17 +1,17 @@
 # Draft Note: Orientation Conflation and the Hades Problem
 **Date:** March 25, 2026  
 **Status:** Draft for canon integration  
-**Source:** Clarified through AI‑collaborative dialogue  
+**Provenance:** Clarified through AI-collaborative dialogue  
 
 ---
 
-## The Core Distinction: Hypostatic Placement ≠ Mythic Narrative Behavior
+## The Core Distinction: Native Structural Placement ≠ Mythic Narrative Behavior
 
 **Hypostases are:**
 - Structural functions  
-- Non‑anthropomorphic  
-- Non‑psychological  
-- Non‑narrative  
+- Non-anthropomorphic  
+- Non-psychological  
+- Non-narrative  
 
 **Myths are:**
 - Anthropomorphic dramas  
@@ -29,35 +29,35 @@
 When a centropic or entropic hypostasis is depicted in mythic narrative using human motives, emotions, or moral categories that do not reflect its structural function.
 
 **Previous examples resolved using this method:**
-- Yahweh as composite figure (L₄ DL Sophic attributions and IL₄ IDL Nyxean attributions present in the same textual figure; structural source not historically determinable, conflation itself is what is)  
-- Odin's "trickery" (cultural overlay on L₄ DL wisdom‑seeking)  
-- Vishnu's "avatars" (descent narrative, not hypostatic mobility)  
+- Yahweh as composite figure (L₄ DL Sophic attributions and IL₄ IDL Nyxean attributions present in the same textual figure; structural origin not historically determinable; the conflation itself is what is)  
+- Odin's "trickery" (cultural overlay on L₄ DL wisdom-seeking)  
+- Vishnu's *avataras* (cyclical field-corrective articulation in office-correspondence, not the L₅ hypostasis becoming embodied and not hypostatic mobility)  
 - Shiva's "destruction" (dissolution as renewal, not entropy)  
-- Set's dismemberment of Osiris (cultural attribution of IL₃ Fractus function to a figure whose native layer is IL₂ ISS Echthros adversarial will; the dismemberment exceeds Set's native layer, attributional conflation across IL strata)
+- Set's dismemberment of Osiris (cultural attribution of IL₃ Fractus function to a figure whose native stratum is IL₂ ISS Echthros adversarial will; the dismemberment exceeds Set's native stratum, attributional conflation across IL strata)
 
 ---
 
-## The Hades Problem: “If Centropic, Why Kidnap Persephone?”
+## The Hades Problem: "If Centropic, Why Kidnap Persephone?"
 
-**Answer:** He didn’t. The mythic narrative did.
+**Answer:** He didn't. The mythic narrative did.
 
-The “kidnapping” is a **story‑layer artifact** using the cultural mechanism of **bride capture** to explain the agricultural cycle.  
-It is not hypostatic behavior.
+The "kidnapping" is a **story-layer artifact** using the cultural mechanism of **bride capture** to explain the agricultural cycle.  
+It is not structural behavior at Hades's native placement.
 
 ---
 
 ## The Structural Reality of Hades
 
-**Hades = L₄ DL (Sophis) at the Khaon Threshold**
+**Hades — native structural placement L₄ DL (Sophis), holding a Khaonic domain at the dissolution threshold**
 
 **Function:**
 - Guardian of the terminal boundary between form and dissolution  
-- Prevents entropic cross‑contamination of living and dead  
+- Prevents entropic cross-contamination of living and dead  
 - Maintains cosmic coherence through strict structural containment  
 - Enforcer of cosmic limitation  
 
 **Structural confirmation of centropic orientation:**  
-Unlike actual entropic figures (Titans / Chronos, Typhon, Loki), Hades:
+Unlike figures whose native placement is inverse (the Titans under Kronos, Typhon, Loki), Hades:
 - Never attempts to overthrow Olympus  
 - Never tries to unmake the cosmos  
 - Preserves order rather than disrupting it  
@@ -87,7 +87,7 @@ They took the **centropic structural keeper** (Hades) and forced him to commit a
 - Declivous motion = dormancy phase of cycle (narrative)  
 - Acclivous motion = renewal phase of cycle (narrative)  
 - Marriage = structural integration of seasonal pattern  
-- Hades’ role = lawful regulation of the boundary between life and death  
+- Hades' role = lawful regulation of the boundary between life and death  
 
 **Not desire. Not violence. Not entropic coercion.**
 
@@ -95,7 +95,7 @@ They took the **centropic structural keeper** (Hades) and forced him to commit a
 
 ## Canonical Glossary Entry
 
-#### ⟜ Hades (Greek)
+#### Hades (Greek)
 
 **Traditional Role**  
 Lord of the Underworld.  
@@ -110,16 +110,16 @@ Enforcer of cosmic limitation.
 **Zenetist Placement**  
 **L₄ DL (Sophis)**  
 with Khaonic jurisdiction.  
-Governor ≠ governed domain.
+Placement-contra-Domain.
 
 **Justification**  
 Structurally, Hades is a centropic preserver of cosmic law operating at L₄ DL (Sophis),  
 with jurisdiction over the Khaonic dissolution domain.  
-The structural distinction matters: governor and governed domain are not the same.  
+The structural distinction matters, and it is the Placement-contra-Domain principle: a figure's structural placement is not determined by the domain it holds.  
 A lawful steward of an entropic territory is not himself entropic —  
 he is the centropic intelligence that prevents the territory from contaminating what lies outside it.  
 Hades does not seek to unmake reality; he maintains the strict boundary  
-that prevents the entropic cross‑contamination of the living and the dead.
+that prevents the entropic cross-contamination of the living and the dead.
 
 His most famous myth — the abduction of Persephone —  
 is a **cultural orientation conflation**.  
@@ -135,14 +135,14 @@ His native orientation remains the lawful structuring of the terminal boundary.
 Centropic (Lawful containment).
 
 **Symbolic Counterparts**  
-- Osiris (as lord of the dead — L₄ DL judicial function  
-  in the centropic cascade to L₃ DS post‑restoration  
-  operative function)  
-- Yama (the judicial‑function aspect specifically;  
-  Yama is a composite figure whose primary registry  
-  placement is at L₀ Khaon / VOS resonance for the  
-  dissolution‑time function, with the judicial aspect  
-  as the relevant counterpart to Hades)  
+- Osiris (as lord of the dead — L₄ DL native judicial function,  
+  with the L₃ DS post-restoration operative function a  
+  soft conflation rather than a cascade)  
+- Yama (the judicial-function articulation specifically;  
+  Yama is a context-dependent composite carrying psychopomp,  
+  judge, and death-threshold articulations, with the registry's  
+  dissolution-time function carried at L₀ Khaon / VOS resonance;  
+  it is the judicial articulation that corresponds to Hades)  
 - Anubis (guardian of the threshold)
 
 *Parallel to Osiris-as-Judge and the Accuser in Job —  
@@ -154,7 +154,7 @@ figures whose jurisdiction touches entropic domains without themselves being ent
 
 **For later integration:**  
 - Add to Chapter 25 mythic glossary  
-- Cross‑reference with other orientation conflation examples  
+- Cross-reference with other orientation conflation examples  
 - Consider expanding seasonal acclivous / declivous pattern as universal hypostatic cycle  
 
 ---
