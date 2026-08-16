@@ -78,7 +78,7 @@ Following the Titanomachy, the Olympian pantheon establishes itself as the opera
 
 - **Hestia** — hearth-fire as foundational generative-vitality at the centric scale. The L₄ DP articulation in its centric and stabilizing aspect. Hestia's function as the first and last receiver of offerings articulates her structural primacy within the generative-aspect register.
 
-**L₄ with chthonic-domain governance:**
+**L₄ holding chthonic domains:**
 
 - **Poseidon** (L₄ DP) — raw archetypal vitality, generative power of the waters. Poseidon at L₄ DP per the registry's canonical placement (resolved Flag #7). The earth-shaker function articulates DP-as-volatile-generative-power, distinct from Zeus's L₄ DL structuring-decree. When opposing Odysseus, Poseidon articulates the DP-obstacle function — generative-vitality as resistance to the hero's centropic motion. Poseidon's domain-association with the sea does not collapse him to L₀ Khaon; he is an L₄ DP figure holding a Khaonic domain, per the Placement-contra-Domain principle.
 
