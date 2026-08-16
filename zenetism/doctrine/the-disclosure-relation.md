@@ -36,9 +36,15 @@ The term names a relation, not an episode. Where advantage was accumulated, surr
 
 ## 3. The Arc
 
-The sequence is the centropic arc in its own order.
+The sequence is articulated across the centropic arc and follows its order. It is not coextensive with the arc: its first explicit term is located at the embodied turn, because advantage exists only where there is an embodied condition in which something can be held.
 
-**Declivous Centropy** carries the essence from ⚫ Aion toward embodied condition. The essence differentiates as it proceeds, and at the L₄ stratum that differentiation becomes bifurcated into Soul and Mind. The essence is not divided by this and does not become two things: it is present throughout, operating through distinction rather than in spite of it.
+The fuller statement:
+
+> Declivous Centropy → embodied condition, where relative advantage becomes available → non-acceptance or release → transformed relation → Acclivous Centropy → disclosure and Aion-facing integration
+
+The four-term sequence names the epistemic relation within that arc. The arc is what carries it.
+
+**Declivous Centropy** carries the essence from ⚫ Aion toward embodied condition. The essence differentiates as it proceeds, and at the L₄ stratum that differentiation becomes bifurcated into Soul and Mind. The essence is not divided by this and does not become two things: it is present throughout, operating through distinction rather than in spite of it. Soul and Mind are the register-names of those strata; the essence is not renamed by them, and its continuity through embodiment is not interrupted by their appearance.
 
 It is in the embodied condition that advantage accumulates and can be released.
 
@@ -46,7 +52,7 @@ It is in the embodied condition that advantage accumulates and can be released.
 
 The surrender is therefore not preliminary to the acclivous motion. It is the first half of the arc — the declivous motion is not a cost paid for the return, but the condition that makes a return possible. Nothing returns that did not first proceed.
 
-This is why the Disclosure Relation cannot be shortened. A sequence that begins at knowledge and ends at advantage has not compressed the arc; it has reversed it.
+This is why the Disclosure Relation cannot be shortened. A sequence that begins at knowledge and ends at advantage has not compressed the arc. It stands inverted to it, carried by its own traversal rather than by this one.
 
 ## 4. Why Disclosure Cannot Be Acquired
 
@@ -78,7 +84,7 @@ Nothing centropic is lost in the surrender. This is the asymmetry the entropic s
 
 **Not that practical consequence is disqualifying.** Disclosure may carry substantial practical consequence. Consequence at the terminus is a different structure from consequence as the terminus.
 
-**Not that the entropic sequence is outside law.** Entropy is structurally necessary at the root: entropic essences are co-present with centropic essences at the L₀ root-register, and nothing in this doctrine abolishes that co-presence or the essences held in it.
+**Not that the entropic sequence is outside law.** Entropy is structurally necessary at the root: entropic essences are co-present with centropic essences at the L₀ root-register — which makes neither ⚫ Aion nor ♾ Khaon a centropic or entropic pole — and nothing in this doctrine abolishes that co-presence or the essences held in it.
 
 Necessity at the root is not necessity in every manifestation. Whether entropy expresses in a given emanation of the hypostatic layers, or in a given embodied domain, is a separate question, and the corpus holds open rare and even ultra-rare limit cases in which it may not. The asymmetry of those limit cases is treated in the Structural Physics note on limit-case universes.
 
@@ -88,7 +94,7 @@ The Disclosure Relation names a direction, never a licence.
 
 ## 8. Relation to the Corpus
 
-The diagnostic counterpart is **Epistemic Inversion**, which names the reversal of this relation: knowledge acquired and converted into advantage, carrying Acclivous Entropy in its gathering and Declivous Entropy in its consequence.
+The diagnostic counterpart is **Epistemic Inversion**, which names this relation standing inverted: knowledge acquired and converted into advantage, carrying Acclivous Entropy in its gathering and Declivous Entropy in its consequence. Inversion there is orientation, never a centropic relation retracing itself.
 
 The two entries state one structure from its two directions. This one holds the centropic order; the glossary entry names the inverted order where it is encountered.
 
