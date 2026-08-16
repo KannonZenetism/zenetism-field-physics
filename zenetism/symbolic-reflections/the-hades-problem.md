@@ -1,13 +1,13 @@
 # Draft Note: Orientation Conflation and the Hades Problem
-**Date:** March 25, 2026  
-**Status:** Draft for canon integration  
+**Drafted:** March 25, 2026 — revised August 15, 2026  
+**Status:** Active  
 **Provenance:** Clarified through AI-collaborative dialogue  
 
 ---
 
 ## The Core Distinction: Native Structural Placement ≠ Mythic Narrative Behavior
 
-**Hypostases are:**
+**Structural placements / functions are:**
 - Structural functions  
 - Non-anthropomorphic  
 - Non-psychological  
@@ -19,14 +19,14 @@
 - Moralized and politicized  
 - Using human motives to explain cosmic patterns  
 
-**When myths assign human behaviors to structural principles, orientation conflation occurs.**
+**When myths assign human behaviors to structural placements, orientation conflation occurs.**
 
 ---
 
 ## Orientation Conflation (Established Diagnostic Method)
 
 **Definition:**  
-When a centropic or entropic hypostasis is depicted in mythic narrative using human motives, emotions, or moral categories that do not reflect its structural function.
+When a mythic figure or cultural articulation is depicted in narrative with motives or actions that conflict with its native structural placement or function — human motives, emotions, or moral categories standing in for what the placement actually does.
 
 **Previous examples resolved using this method:**
 - Yahweh as composite figure (L₄ DL Sophic attributions and IL₄ IDL Nyxean attributions present in the same textual figure; structural origin not historically determinable; the conflation itself is what is)  
@@ -51,13 +51,13 @@ It is not structural behavior at Hades's native placement.
 **Hades — native structural placement L₄ DL (Sophis), holding a Khaonic domain at the dissolution threshold**
 
 **Function:**
-- Guardian of the terminal boundary between form and dissolution  
+- Lawful boundary-keeper at the form-and-dissolution interface  
 - Prevents entropic cross-contamination of living and dead  
 - Maintains cosmic coherence through strict structural containment  
-- Enforcer of cosmic limitation  
+- Maintainer of structural limitation  
 
 **Structural confirmation of centropic orientation:**  
-Unlike figures whose native placement is inverse (the Titans under Kronos, Typhon, Loki), Hades:
+Unlike figures whose native placement is inverse (Kronos and the Titans, Typhon, Loki), Hades:
 - Never attempts to overthrow Olympus  
 - Never tries to unmake the cosmos  
 - Preserves order rather than disrupting it  
@@ -104,8 +104,8 @@ God of unseen wealth.
 
 **Function**  
 Structural containment.  
-Guardian of the terminal boundary between form and dissolution.  
-Enforcer of cosmic limitation.
+Lawful boundary-keeper at the form-and-dissolution interface within Khaonic / chthonic jurisdiction.  
+Keeper of structural limitation.
 
 **Zenetist Placement**  
 **L₄ DL (Sophis)**  
@@ -116,8 +116,8 @@ Placement-contra-Domain.
 Structurally, Hades is a centropic preserver of cosmic law operating at L₄ DL (Sophis),  
 with jurisdiction over the Khaonic dissolution domain.  
 The structural distinction matters, and it is the Placement-contra-Domain principle: a figure's structural placement is not determined by the domain it holds.  
-A lawful steward of an entropic territory is not himself entropic —  
-he is the centropic intelligence that prevents the territory from contaminating what lies outside it.  
+A lawful steward holding a Khaonic / chthonic jurisdiction is not thereby inverse in native placement —  
+he is the centropic intelligence that keeps that jurisdiction from contaminating what lies outside it.  
 Hades does not seek to unmake reality; he maintains the strict boundary  
 that prevents the entropic cross-contamination of the living and the dead.
 
@@ -129,7 +129,7 @@ in order to narratively explain the agricultural cycle of winter and spring.
 
 Mythic narratives anthropomorphize Hades with motives such as desire or coercion,  
 but these are anthropomorphic overlays, not structural realities.  
-His native orientation remains the lawful structuring of the terminal boundary.
+His native orientation remains the lawful keeping of the form-and-dissolution interface.
 
 **Ethical Orientation**  
 Centropic (Lawful containment).
@@ -139,23 +139,20 @@ Centropic (Lawful containment).
   with the L₃ DS post-restoration operative function a  
   soft conflation rather than a cascade)  
 - Yama (the judicial-function articulation specifically;  
-  Yama is a context-dependent composite carrying psychopomp,  
-  judge, and death-threshold articulations, with the registry's  
-  dissolution-time function carried at L₀ Khaon / VOS resonance;  
-  it is the judicial articulation that corresponds to Hades)  
+  a context-dependent composite whose judge-of-the-dead  
+  articulation corresponds to Hades)  
 - Anubis (guardian of the threshold)
 
 *Parallel to Osiris-as-Judge and the Accuser in Job —  
 figures whose jurisdiction touches entropic domains without themselves being entropic.*
 
-📐⚖️⚫
 
 ---
 
 **For later integration:**  
 - Add to Chapter 25 mythic glossary  
 - Cross-reference with other orientation conflation examples  
-- Consider expanding seasonal acclivous / declivous pattern as universal hypostatic cycle  
+- Consider expanding seasonal acclivous / declivous pattern as recurring traversal cycle  
 
 ---
 
