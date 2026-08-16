@@ -51,6 +51,8 @@ A broader presented network is publicly linked through The Reality Codex, which 
 
 The author classifies the displayed persona as synthetic at approximately 99.9 percent personal confidence.
 
+**The classification does not turn on whether a human exists behind the channel.** *Synthetic persona* names a presented figure through which the human is absent and the system is present. A generated likeness of a real person — an AI clone — falls within the classification, because the person is not present in the artifact carrying the first-person claims. The classification therefore stands whether the figure is wholly generated or a generated presentation of a living person, and it does not require resolving which.
+
 **The basis is motion, not the still image.** The classification does not rest on an isolated frame, and any record stating otherwise misstates it. The observed indicators are:
 
 - mouth movement that does not behave as ordinary human articulation
