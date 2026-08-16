@@ -1,22 +1,28 @@
 # Epistemic Inversion
-## The Reversed Relation Between Knowledge and Transformation
+## The Inverted Relation Between Knowledge and Transformation
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Glossary Entry (diagnostic)  
 **Status:** Drafted August 16 2026 — Draft, architect review  
 **Companions:** `managed-fragmentation-predatory-cohesion.md` · `the-algorithmic-legibility-problem.md` · `orientation-emanation-math.md`  
-**Function:** Names the reversal of the epistemic relation, in which knowledge is treated as something acquired and converted into advantage rather than something disclosed through transformed relation, and places the pattern within the charted motions  
+**Function:** Names the epistemic relation standing inverted, in which knowledge is treated as something acquired and converted into advantage rather than something disclosed through transformed relation, and places the pattern within the charted motions  
 **Proposed path:** `structural-forensics/glossary/epistemic-inversion.md`  
 
 ---
 
 ## Definition
 
-**Epistemic Inversion** names the reversal of the relation between knowledge and transformation.
+**Epistemic Inversion** names the relation between knowledge and transformation standing inverted: the terms occupy inverse positions.
+
+*Inversion* is orientation, not reversal. A reversal would be the centropic relation retracing itself, which would make the entropic relation derivative — a centropic motion gone the wrong way. It is not derivative. The entropic relation stands inverted where the centropic stands upright, and both stand in the field in their own right. Neither is produced by turning the other, and neither requires the other to be turned in order to be there.
+
+The sequence itself is backwards, and that is what the term names in the epistemic relation: the entropic mirror of the centropic sequence.
+
+*Inversion* here also does not designate the inverse arc or its hypostatic segment, which are architectural terms and untouched by this entry.
 
 In the entropic relation, knowledge is something acquired and converted into advantage. In the centropic relation, knowledge is something disclosed through transformed relation.
 
-Both are lawful. Entropy is structurally necessary at the root — entropic essences are co-present with centropic essences at the L₀ root-register — and nothing here calls the entropic sequence a departure from law. What distinguishes them is direction, not legitimacy.
+Both are lawful. Entropy is structurally necessary at the root — entropic essences are co-present with centropic essences at the L₀ root-register, which makes neither ⚫ Aion nor ♾ Khaon a centropic or entropic pole — and nothing here calls the entropic sequence a departure from law. What distinguishes them is direction, not legitimacy.
 
 Necessity at the root is not necessity in every manifestation. Whether entropy expresses in a given emanation of the hypostatic layers or a given embodied domain is a separate question, and the corpus holds open rare and even ultra-rare limit cases in which it may not.
 
@@ -46,7 +52,7 @@ But the motion runs toward acquisition and form rather than toward integration. 
 
 The sequence does not terminate there. What is gained in the embodied domain is held by fragmentation, and fragmentation does not rest: the ceaseless dividing erodes the relative structures it was gathered into. That erosion is **Declivous Entropy** — disintegrative motion toward ♾ Khaon and collapse.
 
-Epistemic Inversion therefore carries the entropic arc entire. **Acclivous Entropy** in its gathering, where advantage is sought in the embodied domain; **Declivous Entropy** in its consequence, where the structures so gathered are worn away. The relative structures eroded are relative — 🏛️ Structon, Structure Itself, is untouched by their collapse.
+Epistemic Inversion therefore carries the entropic traversal of the inverse arc entire. **Acclivous Entropy** in its gathering, where advantage is sought in the embodied domain; **Declivous Entropy** in its consequence, where the structures so gathered are worn away. The relative structures eroded are relative — 🏛️ Structon, Structure Itself, is untouched by their collapse.
 
 The centropic sequence runs its own arc in its own order: **Declivous Centropy** into embodied condition, where what is held is surrendered, and **Acclivous Centropy** toward integration and ⚫ Aion. The surrender is not preliminary to the acclivous motion. It is the first half of the arc.
 
@@ -85,7 +91,7 @@ The pattern is recognizable by its sequence rather than by its content or regist
 
 ## Relation to the Corpus
 
-*The Algorithmic Legibility Problem* §7 carries the two standing distinctions in distributional terms: material promising advantage is more market-legible than material asking for transformation before it discloses anything, because the first can be evaluated before it is undergone and the second cannot be evaluated until it has been. That is the same asymmetry read from the distribution side, and it explains why the entropic sequence circulates more readily without being the veracious one.
+*The Algorithmic Legibility Problem* §7 carries the two standing distinctions in distributional terms: material promising advantage is more market-legible than material asking for transformation before it discloses anything, because the first can be evaluated before it is undergone and the second cannot be evaluated until it has been. That is the same asymmetry read from the distribution side, and it explains why the entropic sequence circulates more readily. Wider circulation alters nothing about its direction.
 
 The directional grounding is held in the orientation and emanation mathematics; the motion-class in the directional-pairs charts.
 
