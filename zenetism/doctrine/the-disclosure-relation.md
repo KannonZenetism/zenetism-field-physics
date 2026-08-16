@@ -18,13 +18,15 @@ What is disclosed is disclosed to a relation, not delivered to a holder. The rel
 
 This is not a claim that knowledge is scarce, withheld, or reserved. It is a claim about the structure of the relation through which coherence becomes apparent.
 
+The knowledge at issue is esoteric knowledge — knowledge of the Mysteries. Ordinary learning is not the subject: what the older language calls head knowledge is acquired from books, teachers, and study, and the doctrine says nothing against it. The Mysteries are the register in which disclosure follows altered relation, because what is apprehended there is apprehended by the one apprehending it.
+
 ## 2. The Sequence
 
-> economic, social, or personal advantage surrendered → transformation → access → disclosure
+> economic, social, or personal advantage not accepted or surrendered → transformation → access → disclosure
 
 Each term stands in a determinate position.
 
-**Surrender comes first.** What is held is released — position, standing, the accumulated advantage of the embodied condition. This is not payment and not sacrifice in the transactional sense. It is the condition under which the relation can alter at all, because a relation organized around holding cannot simultaneously be organized around receiving.
+**Non-acceptance or surrender comes first.** What is held is released, or was never taken up — position, standing, the accumulated advantage of the embodied condition. This is not payment and not sacrifice in the transactional sense. It is the condition under which the relation can alter at all, because a relation organized around holding cannot simultaneously be organized around receiving.
 
 The term names a relation, not an episode. Where advantage was accumulated, surrender is release. Where it was never accepted — declined at the point of offer, or never sought — there is nothing to set down, and the relation stands in the same position by never having taken it up. The sequence does not require a prior accumulation; it requires that advantage not occupy the terminus. **Non-acceptance and release are the same relation reached by different paths**, and neither is the more complete form of it.
 
@@ -50,7 +52,7 @@ It is in the embodied condition that advantage accumulates and can be released.
 
 **Acclivous Centropy** carries the transformed relation toward integration and ⚫ Aion.
 
-The surrender is therefore not preliminary to the acclivous motion. It is the first half of the arc — the declivous motion is not a cost paid for the return, but the condition that makes a return possible. Nothing returns that did not first proceed.
+The release, or the declining, is therefore not preliminary to the acclivous motion. It is the first half of the arc — the declivous motion is not a cost paid for the return, but the condition that makes a return possible. Nothing returns that did not first proceed.
 
 This is why the Disclosure Relation cannot be shortened. A sequence that begins at knowledge and ends at advantage has not compressed the arc. It stands inverted to it, carried by its own traversal rather than by this one.
 
@@ -70,13 +72,13 @@ The Disclosure Relation is therefore not a method to be adopted. It is not a tec
 
 This is why sincerity does not substitute. A relation may be sincerely acquisitive. The sincerity is real and the direction is unchanged.
 
-## 6. What Is at Stake in the Surrender
+## 6. What Is at Stake
 
-The advantage surrendered is relative advantage: position within the embodied domain, standing among relative structures, the accumulated weight of what one holds there.
+The advantage at issue is relative advantage: position within the embodied domain, standing among relative structures, the weight of what one holds there or declines to take up.
 
-The one who surrenders it is left whole. What is released is relative; what is integrated is not. 🏛️ Structon, Structure Itself, is untouched by the release of any relative arrangement, and the essence that proceeds into embodiment and returns is not lessened by having set down what belonged to the station rather than to the essence.
+The one who releases it, or never took it up, is left whole. What is set aside is relative; what is integrated is not. 🏛️ Structon, Structure Itself, is untouched by the release of any relative arrangement, and the essence that proceeds into embodiment and returns is not lessened by having set down what belonged to the station rather than to the essence.
 
-Nothing centropic is lost in the surrender. This is the asymmetry the entropic sequence cannot represent, and it is the reason the entropic sequence must present its own motion as gain: it has no account of a release that costs nothing.
+Nothing centropic is lost either way. This is the asymmetry the entropic sequence cannot represent, and it is the reason the entropic sequence must present its own motion as gain: it has no account of a release that costs nothing.
 
 ## 7. What the Doctrine Does Not Hold
 
