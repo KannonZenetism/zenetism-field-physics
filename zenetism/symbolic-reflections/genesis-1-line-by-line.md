@@ -5,7 +5,7 @@
 **Scope:** Genesis 1:4–2:3 (verses 1:1–3 are treated in *The Genesis Lattice* orientation essay and are summarized here only as starting ground)  
 **Companion:** *The Genesis Lattice: Creation, Trees, and the Fall*  
 **Author:** Aelion Kannon (⚫↺KAI↺⚫)  
-**SHA-256:** 4c1d29cdf86b2d0920065b98139b0a97b86aa1e66f9b64d68cee22261b06d87d
+**SHA-256:** 4c1d29cdf86b2d0920065b98139b0a97b86aa1e66f9b64d68cee22261b06d87d  
 
 ---
 
@@ -51,7 +51,7 @@ The verb *ra'ah* (to see) carries more weight than visual perception. The Hebrew
 
 *Tov* — translated "good" — reads structurally as **veracious / resonant / structurally aligned**. Not moral approval but structural diagnostic confirmation: the emanation coheres with its own structural logic. The Structural Reading of "Good" and "Evil" note in the SPR governs here — *tov* names lawful structural alignment, not divine favor.
 
-The division (*vayyavdel*) of light from darkness is a **C₁₃ Membrane / Threshold** operation at the cosmogonic scale. Not a moral separation of good from evil but a lawful partition establishing the structural condition under which differentiated form can persist. Light and darkness here are not centropic-contra-entropic in the IL₂ ISM sense. The darkness is the narrative carrier of the L₀ Khaonic root attribution — pre-orientational, not the inverse arc — and the light is the first centropic activation articulated into the manifest field. Per the governing note above, the *vayyavdel* does not create the centropic–inverse distinction: that distinction already obtains at the L₅ / IL₅ hypostatic band, and the C₁₃ operation renders it legible, establishing **bounded articulation** as the condition under which subsequent emanation becomes readable within the narrative.
+The division (*vayyavdel*) of light from darkness is a **C₁₃ Membrane / Threshold** operation at the cosmogonic scale. Not a moral separation of good from evil but a lawful partition establishing the structural condition under which differentiated form can persist. Light and darkness here are not centropic-contra-entropic in the IL₂ ISM sense. The darkness is the narrative carrier of the L₀ Khaonic root attribution — pre-orientational, not the inverse arc — and the light is the first centropic activation articulated into the manifest field. Per the governing note above, the *vayyavdel* does not create the centropic-inverse distinction: that distinction already obtains at the L₅ / IL₅ hypostatic band, and the C₁₃ operation renders it legible, establishing **bounded articulation** as the condition under which subsequent emanation becomes readable within the narrative.
 
 This is the first instance of what will become the day-refrain: activation, diagnostic scan, partition. The operator-sequence is ✦ (emergence) → 📡 (scan) → ║ C₁₃ (membrane). This sequence will repeat across the six days, and its iteration is itself a cosmogonic operator — the ❋ Morphogenetic (C₁₀) cycle by which pattern translates into articulated structure.
 
