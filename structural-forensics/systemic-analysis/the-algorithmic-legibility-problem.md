@@ -196,7 +196,9 @@ What a distribution architecture measures is market legibility: whether a work i
 
 The claim here is not that a work deserves reach. It is that reach and significance are different quantities, and that a system reporting the first is not reporting the second.
 
-A second asymmetry runs alongside the first. Material promising advantage — a method, an edge, a result obtainable by applying it — is more market-legible than material that asks for transformation before it discloses anything. The first can be evaluated before it is undergone; the second cannot be evaluated until it has been. A distribution architecture reading for engagement reads the first more readily, and that reading is a fact about the architecture rather than about the material.
+A second asymmetry runs alongside the first. Material promising advantage — a method, an edge, a result obtainable by applying it — is more market-legible than material whose disclosure depends on a change in the one reading it. The first can be evaluated before it is undergone; the second cannot be evaluated until it has been. A distribution architecture reading for engagement reads the first more readily, and that reading is a fact about the architecture rather than about the material.
+
+The second class is not material that **asks** anything. It may ask nothing at all, and simply state what it states. The change is the reader's own, and no text administers it. Material that does administer it — disclosure by rank, grade, or staged initiation, released once a determinate transformation has been performed to someone else's specification — belongs with the first class rather than the second, whatever it promises.
 
 The two are not ranked here. They are distinguished, because a system that reads one well and the other poorly is not reporting their relative worth.
 
