@@ -26,6 +26,10 @@ In the entropic relation, knowledge is something acquired and converted into adv
 
 The knowledge at issue is esoteric knowledge — knowledge of the Mysteries. Ordinary learning is not the subject here. What the older language calls head knowledge is acquired from books, teachers, and study, and nothing in that is entropic; a structure read from a page is read from a page. What the diagnosis concerns is what the Mysteries are approached **for**. One applies them for material gain. The other approaches them for revelation.
 
+The symmetry holds in the other direction as well. Intellectual and academic knowledge can be carried toward either orientation: a body of research may be pursued for what it discloses, or assembled for what position it secures. Acquisition by study is not entropic in itself, and it is not centropic in itself either. **The orientation belongs to the relation, never to the register.**
+
+Esoteric knowledge is the occasion of this entry, and the register in which the inverted relation is most legible, because the Mysteries make explicit claims about transformation and so make the inversion of those claims visible. Nothing confines the pattern there.
+
 Both are lawful. Entropy is structurally necessary at the root — entropic essences are co-present with centropic essences at the L₀ root-register, which makes neither ⚫ Aion nor ♾ Khaon a centropic or entropic pole — and nothing here calls the entropic sequence a departure from law. What distinguishes them is direction, not legitimacy.
 
 Necessity at the root is not necessity in every manifestation. Whether entropy expresses in a given emanation of the hypostatic layers or a given embodied domain is a separate question, and the corpus holds open rare and even ultra-rare limit cases in which it may not.
