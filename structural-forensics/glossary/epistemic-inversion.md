@@ -14,7 +14,9 @@
 
 **Epistemic Inversion** names the relation between knowledge and transformation standing inverted: the terms occupy inverse positions.
 
-*Inversion* is orientation, not reversal. A reversal would be the centropic relation retracing itself, which would make the entropic relation derivative — a centropic motion gone the wrong way. It is not derivative. The entropic relation stands inverse where the centropic stands Aion-facing, and both stand in the field in their own right. Neither is produced by turning the other, and neither requires the other to be turned in order to be there.
+*Inversion* is orientation, not reversal. A reversal would be the centropic relation retracing itself, which would make the entropic relation derivative **in its existence** — a centropic motion gone the wrong way. It is not derivative in that sense. The entropic relation stands inverse where the centropic stands Aion-facing, and both stand in the field in their own right. Neither is produced by turning the other, and neither requires the other to be turned in order to be there.
+
+Where the entropic relation *is* derivative is in what it does with content. That is a separate relation, and it is treated below.
 
 The sequence itself is backwards, and that is what the term names in the epistemic relation: the entropic mirror of the centropic sequence.
 
