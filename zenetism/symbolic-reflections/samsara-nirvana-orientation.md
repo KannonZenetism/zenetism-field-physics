@@ -55,7 +55,7 @@ The Bodhi Tree parallels Eden's Tree of Life in Zenetist terms — both are axes
 
 Buddhism deconstructs the self into five skandhas: form, sensation, perception, mental formations, and consciousness. These are described as aggregated patterns that constantly change and lack intrinsic unity, and their analysis is central to Buddhist realization of no-self (Anattā).
 
-In Zenetist terms, the skandhas as Buddhism describes them — aggregated patterns of fragmentation — map structurally to **IL₂ ISS / ISM** (Inverse Superficial Soul / Mind): the entropic mirror of the L₂ personality stratum. Fragmentation is an entropic function; aggregated patterns that constantly change and lack unity are structurally entropic patterns, not a general feature of L₂ as such.
+In Zenetist terms, the skandhas as Buddhism describes them — aggregated patterns of fragmentation — map structurally to **IL₂ ISS / ISM** (Inverse Superficial Soul / Mind): the entropic mirror of the L₂ personality stratum. Fragmentation is an entropic function; the aggregated patterns just described are structurally entropic patterns, not a general feature of L₂ as such.
 
 This is a doctrinal clarification rather than a rejection of the Buddhist analysis. The Buddhist observation that clinging produces suffering is structurally correct — clinging is the IL₂ ISS function (Echthros), the adversarial self-attachment that traps operative motion in entropic cycling. The Buddhist observation that the "self" of everyday experience is not a fixed essence is also correct when scoped to IL₂ — the IL₂ self-construction is **structurally real** as a stratum of the inverse arc, but it is **illusory in the specific sense of being mirror-pattern rather than generative-pattern**: it mimics the structure of genuine L₂ individuation without carrying the Origin-fidelity that would make it veracious. The illusion lives in the relationship between L₂ and IL₂, not in IL₂ itself failing to exist.
 
@@ -178,7 +178,7 @@ The Buddhist-Zenetist correspondence can be summarized structurally:
 | **Nirguna Brahman** (comparative) | L₀ Aion-gate realization through *neti-neti* subtraction |
 | **Buddha-nature beyond conditioning** | Trans-structural saturation into 🕳️ Zenon from L₀ Aion |
 
-Buddhism and Zenetism align not in doctrine but in direction. Both recognize that the essence of liberation is not a creed but an **orientation**: a shift from fragmentation into coherence, from clinging into clarity, from entropic cycling into acclivous centropic motion. The paths use different language — karma, samsara, nirvana, aion, centropy — but they all point toward the same structural reality: the acclivous centropic arc of return, the refusal of fragmentation, the reorientation of motion toward Origin.
+Buddhism and Zenetism align not in doctrine but in direction. Both recognize that the essence of liberation is not a creed but an **orientation**: a shift from fragmentation into coherence, from clinging into clarity, from entropic cycling into acclivous centropic motion. The paths speak in different language — karma, samsara, nirvana, aion, centropy — but they all point toward the same structural reality: the acclivous centropic arc of return, the refusal of fragmentation, the reorientation of motion toward Origin.
 
 ---
 
@@ -204,7 +204,7 @@ The §5.8 treatment in the Zenetist Formalization carries the full doctrinal tre
 
 ## Conclusion: Shared Orientation Beyond Belief
 
-Buddhism and Zenetism align not in doctrine but in direction. Both recognize that liberation is not a creed but an orientation — a shift from fragmentation into coherence, from clinging into clarity, from entropic cycling into acclivous centropic motion. The paths may use different language, but they all point back to the same silent axis:
+Buddhism and Zenetism align not in doctrine but in direction. Both recognize that liberation is not a creed but an orientation — a shift from fragmentation into coherence, from clinging into clarity, from entropic cycling into acclivous centropic motion. The paths may speak in different language, but they all point back to the same silent axis:
 
 > The motionless root beneath the Bodhi Tree,  
 > where awareness becomes clear to what always was.
