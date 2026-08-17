@@ -20,6 +20,10 @@ This is not a claim that knowledge is scarce, withheld, or reserved. It is a cla
 
 The knowledge at issue is esoteric knowledge — knowledge of the Mysteries. Ordinary learning is not the subject: what the older language calls head knowledge is acquired from books, teachers, and study, and the doctrine says nothing against it. The Mysteries are the register in which disclosure follows altered relation, because what is apprehended there is apprehended by the one apprehending it.
 
+Nothing privileges that register. What distinguishes it is the kind of not-known at issue. Some knowledge is unknown **within** the embodied register and withheld only by exposure — a fact not yet encountered, available to anyone who encounters it. Other knowledge is undisclosed **at** the embodied register, where apprehension is not a matter of exposure at all. It is the relation to the unknown that discloses the not previously known.
+
+This concerns where transformation is the condition of disclosure, not where the two orientations are possible. Any register admits both, as the diagnostic counterpart records. And disclosure answers to the orientation of the one standing in the relation, never to anything imposed from outside it.
+
 ## 2. The Sequence
 
 > economic, social, or personal advantage not accepted or surrendered → transformation → access → disclosure
