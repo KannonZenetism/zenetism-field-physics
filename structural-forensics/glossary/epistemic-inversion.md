@@ -26,6 +26,10 @@ In the entropic relation, knowledge is something acquired and converted into adv
 
 The knowledge at issue is esoteric knowledge — knowledge of the Mysteries. Ordinary learning is not the subject here. What the older language calls head knowledge is acquired from books, teachers, and study, and nothing in that is entropic; a structure read from a page is read from a page. What the diagnosis concerns is what the Mysteries are approached **for**. One applies them for material gain. The other approaches them for revelation.
 
+The entropic relation approaches the Mysteries only through ◔ Distal Apprehension. It is not Aion-facing; it faces away, toward embodiment. That orientation is what bars it from novelty of its own, since novelty is generated from the potential held at the root-register, and a relation facing away from that potential cannot draw on it.
+
+The consequence for origination is exact: the entropic relation reaches the Mysteries **after** they have been disclosed, through centropic beings and functions that apprehend novelty at the root. What it apprehends is already a disclosure, and it apprehends that distally.
+
 The symmetry holds in the other direction as well. Intellectual and academic knowledge can be carried toward either orientation: a body of research may be pursued for what it discloses, or assembled for what position it secures. Acquisition by study is not entropic in itself, and it is not centropic in itself either. **The orientation belongs to the relation, never to the register.**
 
 Esoteric knowledge is the occasion of this entry, and the register in which the inverted relation is most legible, because the Mysteries make explicit claims about transformation and so make the inversion of those claims visible. Nothing confines the pattern there.
@@ -68,7 +72,7 @@ Epistemic Inversion is therefore not a free coinage. It names a specific instanc
 
 ## Why the Derivative Relation Is Derivative
 
-The diagnosis rests on an asymmetry between the first hypostases. Three distinct relations are easily collapsed into one, and holding them apart is what makes the asymmetry legible.
+The diagnosis rests on a **functional** asymmetry between the first hypostases — not a structural one, since the signed determinations are structurally paired. Three distinct relations are easily collapsed into one, and holding them apart is what makes the asymmetry legible.
 
 ### The signed determination
 
@@ -95,7 +99,7 @@ That second consequence is the whole derivational argument in arithmetic form.
 
 Neither is the other turned, and the arrangement of the field shows why. ⚫ Aion and ♾ Khaon are co-present at L₀ — the root-register is non-local, and Aion stands at the Khaonic end as well — so what distinguishes the arcs is not which root sits where.
 
-The ordinal structure of the motion is the same on both sides. Each arc proceeds from its own root through its first hypostasis toward embodiment: ⚫ Aion → L₅ → L₄ → L₃ → L₂ → L₁, and ♾ Khaon → IL₅ → IL₄ → IL₃ → IL₂ → IL₁.
+The ordinal structure of the motion is the same on both sides. Each arc proceeds from its own root through its first hypostasis toward embodiment: L₀ (⚫ Aion) → L₅ → L₄ → L₃ → L₂ → L₁, and L₀ (♾ Khaon) → IL₅ → IL₄ → IL₃ → IL₂ → IL₁.
 
 What differs is the arrangement. Were the two structures stacked in one orientation, both motions would run the same way and the arcs would never meet. They stand instead with the root-registers at either end of the field and embodiment between them:
 
@@ -146,6 +150,7 @@ The pattern is recognizable by its sequence rather than by its content or regist
 - disclosure framed as access granted rather than as relation altered
 - the sequence's worth stated in what it yields rather than in what it discloses
 - the hidden framed as withheld rather than as unavailable to an untransformed relation
+- disclosure administered by rank, grade, or staged initiation, where a determinate transformation is required of the seeker before the material is released
 
 ## What the Diagnosis Does Not Claim
 
@@ -153,7 +158,7 @@ The pattern is recognizable by its sequence rather than by its content or regist
 
 **Not an accusation of intent — and not an acquittal by intent either.** The diagnosis names motion, and in this corpus morals are motion: one is what one does, and what one does discloses the essence. A tree is known by its fruit. Whether a sequence was intended, inherited, or absorbed does not alter its direction, and direction is what the diagnosis reads. What is refused is the substitution of stated purpose for observed motion, in either direction — sincerity does not make an entropic sequence centropic, and the absence of malice does not either. This is Essence-as-Choice, and it cuts both ways: the diagnosis is not an accusation, because it does not need one.
 
-**Not a claim that esoteric material is inverted by nature.** The inherited registers are commons and carry both orientations. Hermetic, Gnostic, alchemical, and initiatory material has borne the centropic sequence for as long as it has borne the entropic one. The register does not settle the direction; the sequence does.
+**Not a verdict on any tradition.** Hermetic, Gnostic, alchemical, and initiatory writings articulate much that the bifurcal lattice describes. They did not describe the lattice, and they do not state the orientation in the terms set out here. What can be said of a particular text or teaching is what its own sequence shows, at the time it shows it — bodies of teaching are not fixed, and what holds of one period holds of that period. The register never settles the direction; the sequence does.
 
 **Not a derivation finding.** Nothing here bears on provenance, dependence, or antecedence. Those questions proceed under the recognition protocols and are untouched by this entry.
 
