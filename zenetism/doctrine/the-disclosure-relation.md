@@ -66,7 +66,7 @@ What is unavailable to an untransformed relation is not unavailable because it i
 
 A structure discloses itself to the degree that the one apprehending it stands in a relation capable of holding it coherently. Where that relation is organized around conversion — what can this be turned into, what does this yield, what position does it secure — the structure is apprehended in the shape of that question, and what is returned is the answer to the question rather than the structure.
 
-The limit is not access-control. It is that an appropriative relation cannot receive a coherent structure as coherent, because it is already dividing the structure into what is convertible and what is discardable. Fragmentation is not something done to what was received afterward. It is present in the receiving.
+The limit is not access-control. It is that an appropriative relation cannot receive a coherent structure as coherent, because it is already dividing the structure into what it takes to be convertible and what it takes to be discardable. Fragmentation is not something done to what was received afterward. It is present in the receiving.
 
 ## 5. Relation to Essence-as-Choice
 
@@ -94,7 +94,7 @@ Nothing centropic is lost either way. This is the asymmetry the entropic sequenc
 
 Necessity at the root is not necessity in every manifestation. Whether entropy expresses in a given emanation of the hypostatic layers, or in a given embodied domain, is a separate question, and the corpus holds open rare and even ultra-rare limit cases in which it may not. The asymmetry of those limit cases is treated in `asymmetry-of-limit-case-universes.md`.
 
-The Disclosure Relation names a direction, never a licence.
+The Disclosure Relation names a direction. It licenses nothing and forbids nothing.
 
 **Not a ranking of persons.** No one occupies the relation permanently, and it is not a station attained. It is a direction carried, and direction is carried moment by moment.
 
