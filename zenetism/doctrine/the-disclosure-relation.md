@@ -98,7 +98,7 @@ The Disclosure Relation names a direction, never a licence.
 
 The diagnostic counterpart is **Epistemic Inversion**, which names this relation standing inverted: knowledge acquired and converted into advantage, carrying Acclivous Entropy in its gathering and Declivous Entropy in its consequence. Inversion there is orientation, never a centropic relation retracing itself.
 
-The two entries state one structure from its two directions. This one holds the centropic order; the glossary entry names the inverted order where it is encountered.
+The two entries state one structure from its two directions. This one holds the centropic order; the glossary entry names the inverted order where it is encountered, and carries the structural grounding of that inversion in the signed determination of the first hypostases.
 
 > **Access is not disclosure.**
 
