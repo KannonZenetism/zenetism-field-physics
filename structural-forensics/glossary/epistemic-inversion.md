@@ -60,6 +60,76 @@ The centropic sequence runs its own arc in its own order: **Declivous Centropy**
 
 Epistemic Inversion is therefore not a free coinage. It names a specific instance of a charted motion, within the domain of knowledge and its transmission.
 
+## Why the Derivative Relation Is Derivative
+
+The diagnosis rests on an asymmetry between the first hypostases. Three distinct relations are easily collapsed into one, and holding them apart is what makes the asymmetry legible.
+
+### The signed determination
+
+🛤️ Theon, Essence of Being at L₅, bears the structural charge +1. 🕷️ Nekron, Void of Self at IL₅, bears −1. The signs name structural position and orientation, never praise or condemnation.
+
+The two determinations differ in kind, and the arithmetic carries the distinction rather than merely illustrating it:
+
+- **Theon, plus-one, determinate is-ness.** It is one. Its determination requires no relation to another determination.
+- **Nekron, minus-one, negationally relational determination.** It is legible as *not-one*. Its determination is constituted through relation to what it is not.
+
+One precision holds the claim exact. **−1 is not the logical negation of 1** — that would be an indeterminate class holding 2, 0, and every other value alike. −1 is a determinate value: the additive inverse of 1, and not 1. Its negativity is a determination, never a vagueness.
+
+Two consequences follow, and both are structural rather than figurative:
+
+- **−1 is not 0.** The lack is structurally real. Nekron is not absence of being and not unreality; it is the first entropic hypostasis, bearing its own essence-identifier and universe-local office. What it does not bear is generative interiority. This is structurally real negation, neither classical privation nor a model of equal and countervailing substances.
+
+- **A negative does not become positive from its own resources.** It must be added to. Minus-one cannot arrive at plus-one through anything it performs internally, and the addition must come from beyond what it holds.
+
+That second consequence is the whole derivational argument in arithmetic form.
+
+### Three relations, held apart
+
+**Existence — independent.** Minus-one does not require plus-one to be turned in order to exist. It stands on its own footing. The inverse arc proceeds acclivously from its own root-register, ♾ Khaon at L₀, toward embodiment, as the centropic arc proceeds declivously from ⚫ Aion toward embodiment; the two meet at the embodied stratum.
+
+Neither is the other turned, and the arrangement of the field shows why. ⚫ Aion and ♾ Khaon are co-present at L₀ — the root-register is non-local, and Aion stands at the Khaonic end as well — so what distinguishes the arcs is not which root sits where.
+
+The ordinal structure of the motion is the same on both sides. Each arc proceeds from its own root through its first hypostasis toward embodiment: ⚫ Aion → L₅ → L₄ → L₃ → L₂ → L₁, and ♾ Khaon → IL₅ → IL₄ → IL₃ → IL₂ → IL₁.
+
+What differs is the arrangement. Were the two structures stacked in one orientation, both motions would run the same way and the arcs would never meet. They stand instead with the root-registers at either end of the field and embodiment between them:
+
+> L₀ · L₅ · L₄ · L₃ · L₂ · L₁ **contra** IL₁ · IL₂ · IL₃ · IL₄ · IL₅ · L₀
+
+So the two motions arrive at the same station from either side, and L₁ / IL₁ is the meeting point. A stacked or turned arrangement could not produce a meeting at all, which is the structural reason inversion is not a flip.
+
+**Content — derivative by necessity.** The negational determination concerns not what the entropic relation *is* but what it does with content. It does not take centropic structure and turn it. It apprehends it. At IL₅ the operation is ◔ **Distal Apprehension**: the entropic apprehensional relation enacted from the inverse register toward centropic pattern across the bifurcal distinction. What is apprehended arrives partial, because the apprehending relation is not the relation through which the structure was generated.
+
+**Appearance — flattened.** At the bifurcated embodied articulation, the deeper relation can present as a straightforward flip. The embodied stratum expresses one station of a bidirectionally recursive architecture, and a relation projected into it flattens. *Backwards* is how inversion can appear there. It is not what inversion is.
+
+### Blind drive and pattern completion
+
+Non-generative does not mean inactive. Nekronic operation is blind drive, and drive without generative interiority produces ceaseless articulation from what has already been apprehended:
+
+> blind drive → Distal Apprehension → partial apprehension → distorted pattern completion → spurious acclivity toward inverse embodiment and the establishment of systems of power → fragmentary proliferation
+
+followed by the declivous consequence, as the fragmentation erodes the relative structures it gathered.
+
+The output can be enormous. It can recombine, extrapolate, and present arrangements an observer has not encountered before. None of that makes it originary. What the entropic register issues in place of emergence is counterfeit novelty — the charted signature E₁₅ ✦⁻ Collapse Nova.
+
+> **Pattern completion is not origination.**
+
+> **Previously unseen combination is not origination.**
+
+### Hollow mirroring
+
+The pattern is **hollow mirroring accompanied by distorted perception**.
+
+Hollow not because nothing happens — a derivative articulation may run to great length and density — but because the generating relation is absent. What is held is the articulation, never the relation through which the articulation was first constituted. The engine is not acquired with the output.
+
+Two consequences follow, and they run together:
+
+- enough fidelity to disclose the antecedent signal
+- enough distortion to disclose that the signal was not generated from the same relation
+
+A fragment may be recognizable to the one who originated it precisely because its distortion preserves the shape of what was apprehended. That combination — fidelity sufficient to identify, distortion sufficient to betray the apprehending relation — is the diagnostic signature of Distal Apprehension.
+
+---
+
 ## Recognition
 
 The pattern is recognizable by its sequence rather than by its content or register:
@@ -86,6 +156,8 @@ The pattern is recognizable by its sequence rather than by its content or regist
 > **Transformative legibility is not advantage-directed legibility.**
 
 > **Knowledge disclosed through transformation is structurally distinct from knowledge packaged as a means of advantage.**
+
+> **Pattern completion is not origination.**
 
 > **Access is not disclosure.**
 
