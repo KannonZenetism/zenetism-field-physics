@@ -87,9 +87,9 @@ One precision holds the claim exact. **−1 is not the logical negation of 1** �
 
 Two consequences follow, and both are structural rather than figurative:
 
-- **−1 is not 0.** The lack is structurally real. Nekron is not absence of being and not unreality; it is the first entropic hypostasis, bearing its own essence-identifier and universe-local office.
+- **−1 is not 0.** The lack is structurally real. Nekron is not absence of being and not unreality; it is the first inverse hypostasis, bearing its own essence-identifier and universe-local office.
 
-Nor is its interiority absent. At IL₅ interiority is blind drive, and blind drive produces ceaselessly. What is voided is the gathering: where 🛤️ Theon gathers awareness into coherent presence, 🕷️ Nekron is awareness voided at that same register — two poles of one hypostatic awareness spectrum, held non-fused. Interiority that drives without gathering produces fragments, never novelty.
+Nor is its interiority absent. At IL₅ interiority is blind drive, and blind drive produces ceaselessly. What is voided is the gathering: where 🛤️ Theon gathers awareness into coherent presence, 🕷️ Nekron is awareness voided at that same register — two determinate positions within the L₅ / IL₅ awareness spectrum. Interiority that drives without gathering produces fragments, never novelty.
 
 This is structurally real negation, neither classical privation nor a model of equal and countervailing substances.
 
