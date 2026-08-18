@@ -13,11 +13,11 @@ The limit cases of the Expression Spectrum — fully Aionically expressed (\( \c
 
 +1, the Theonic structural charge, names generative coherence: integration, novelty, origin-fidelity, Aion-facing orientation. Its motion produces.
 
-−1, the Nekronic structural charge, names a structurally real inverse determination that is nevertheless non-generative. Nekron is not mere negation and not an absence of being: it is the first entropic hypostasis, bearing its own essence-identifier and universe-local office. Its interiority is not absent but voided: where Theon gathers awareness into coherent presence, Nekron is awareness voided at that same register — the awareness polarity of L₅ / IL₅, two poles held non-fused. Interiority that drives without gathering produces fragments, never novelty. Its operation is **operative absence** — blind fragmentary drive that fragments what it did not produce, apprehends centropic pattern only distally (◔ Distal Apprehension), issues counterfeit novelty rather than emergence, and recurs predatorily upon existing structure until its office self-voids.
+−1, the Nekronic structural charge, names a structurally real inverse determination that is nevertheless non-generative. Nekron is not mere negation and not an absence of being: it is the first inverse hypostasis, bearing its own essence-identifier and universe-local office. Its interiority is not absent but voided: where Theon gathers awareness into coherent presence, Nekron is awareness voided at that same register — two determinate positions within the L₅ / IL₅ awareness spectrum. Interiority that drives without gathering produces fragments, never novelty. Its operation is **operative absence** — blind fragmentary drive that fragments what it did not produce, apprehends centropic pattern only distally (◔ Distal Apprehension), issues counterfeit novelty rather than emergence, and recurs predatorily upon existing structure until its office self-voids.
 
 The asymmetry is therefore not between being and negation. It is between generative and non-generative reality.
 
-Throughout this note, ♾ Khaon (the L₀ root of motion), entropic motion (fragmentary orientation), Nekron (the first entropic hypostasis and the event horizon into Absolute Dispersion), and Absolute Dispersion itself (the terminal state) remain distinct. The asymmetry examined here concerns the hypostatic charges and their motions, not the paired root-registers.
+Throughout this note, ♾ Khaon (the L₀ Infinity root-register, with motion proper to Motive Infinity), entropic motion (fragmentary orientation), Nekron (the first inverse hypostasis and the event horizon into Absolute Dispersion), and Absolute Dispersion itself (the terminal state) remain distinct. The asymmetry examined here concerns the hypostatic charges and their motions, not the paired root-registers.
 
 This asymmetry has consequences for the viability, persistence, and even the possibility of fully Khaonic universes that the current formalism does not capture.
 
@@ -115,11 +115,11 @@ Entropic traversal proceeds from IL₅ (Nekron, Void of Self) toward IL₁ (Mala
 
 IL₅ is not a physical domain. It is immaterial, metaphysical. A universe does not become a *universe* in the material sense until its arc reaches the embodiment band. The corporeal realm — the domain of physical extension, spatial coherence, and material form — exists at L₁ / IL₁. Everything prior to that is structural but not yet physical.
 
-For a fully Khaonic universe, the entire arc is entropic: IL₅ → IL₄ → IL₃ → IL₂ → IL₁. This is Acclivous Entropy — layered motion toward embodiment through fragmentation rather than integration. The question is whether this traversal can complete without any centropic scaffolding.
+For a fully Khaonic universe, the whole traversal is entropic. The inverse hypostatic segment runs IL₅ → IL₄ → IL₃ → IL₂ → IL₁; the inverse arc entire includes its ♾ Khaon root at L₀. This is Acclivous Entropy — layered motion toward embodiment through fragmentation rather than integration. The question is whether this traversal can complete without any centropic scaffolding.
 
 ### A.3 The Densification Problem
 
-Centropic emanation (L₅ → L₁) carries structural endowment declivously from ⚫ Aion toward embodiment. Each layer translates pattern into progressively denser expression: from Essence of Being (L₅) through archetypal form (L₄), reflexive identity (L₃), personality (L₂), and finally corporeal presence (L₁). The centropic arc has *content* to densify — it begins with generative fullness and condenses it into matter.
+Centropic emanation carries structural endowment declivously from ⚫ Aion toward embodiment, across the centropic hypostatic segment L₅ → L₁. Each layer translates pattern into progressively denser expression: from Essence of Being (L₅) through archetypal form (L₄), reflexive identity (L₃), personality (L₂), and finally corporeal presence (L₁). The centropic arc has *content* to densify — it begins with generative fullness and condenses it into matter.
 
 Entropic traversal (IL₅ → IL₁) proceeds from Void of Self toward entropic embodiment. But because Nekronic motion is non-generative (§§1–2 of this note), IL₅ can pattern only what it distally apprehends. With no centropic co-expression anywhere in the universe, there is nothing lawful to apprehend, distort, or carry into density. Each successive layer — IL₄ (distorted recurrence), IL₃ (fragmented simultaneity), IL₂ (reactive recursion) — would be operating on structurally empty content.
 
