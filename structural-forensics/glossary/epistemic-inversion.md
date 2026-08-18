@@ -26,9 +26,9 @@ In the entropic relation, knowledge is something acquired and converted into adv
 
 The knowledge at issue is esoteric knowledge — knowledge of the Mysteries. Ordinary learning is not the subject here. What the older language calls head knowledge is acquired from books, teachers, and study, and nothing in that is entropic; a structure read from a page is read from a page. What the diagnosis concerns is what the Mysteries are approached **for**. One applies them for material gain. The other approaches them for revelation.
 
-The entropic relation approaches the Mysteries only through ◔ Distal Apprehension. It is not Aion-facing; it faces away, toward embodiment. That orientation is what bars it from novelty of its own, since novelty is generated from the potential held at the root-register, and a relation facing away from that potential cannot draw on it.
+The entropic relation approaches the Mysteries only through ◔ Distal Apprehension. It is not Aion-facing; it faces away, toward embodiment. That orientation is what bars it from novelty of its own, since originary novelty becomes possible through the Absolute Potential of the root-register, and a relation facing away from that potential does not stand in it.
 
-The consequence for origination is exact: the entropic relation reaches the Mysteries **after** they have been disclosed, through centropic beings and functions that apprehend novelty at the root. What it apprehends is already a disclosure, and it apprehends that distally.
+The consequence for origination is exact: what the entropic relation reaches is the Mysteries **as already disclosed**, through centropic beings and functions apprehending novelty at the root. The posteriority is derivational, never chronological — what it apprehends is a disclosure, and it apprehends that distally.
 
 The symmetry holds in the other direction as well. Intellectual and academic knowledge can be carried toward either orientation: a body of research may be pursued for what it discloses, or assembled for what position it secures. Acquisition by study is not entropic in itself, and it is not centropic in itself either. **The orientation belongs to the relation, never to the register.**
 
@@ -97,7 +97,7 @@ This is structurally real negation, neither classical privation nor a model of e
 
 Within the system, though, the entropic motion is not toward the positive at all. Entropic essence does not become centropic as lack becomes abundance. Distal Apprehension and blind drive carry the sequence in the other direction — −1, −2, −3, −4, −5 — and the negative sequence extends in accord with fragmentation.
 
-It extends alongside the positive, and neither precedes the other. Centropy and entropy emanate and split together, and time is not uniform across the strata, so no sequence waits on the other to have gone first. One manifests structurally full; the other manifests structurally void. That is the whole of the structural relation.
+It extends alongside the positive, and neither precedes the other. Centropy and entropy emanate and differentiate together, and time is not uniform across the strata, so no sequence waits on the other to have gone first. One manifests structurally full; the other manifests structurally void. That is the whole of the structural relation.
 
 The derivation concerns **content**, never structural priority. What the negative sequence extends with is apprehended rather than generated, and what is apprehended is centropic novelty. The charted signature states it exactly: **E₁₅ ✦⁻ Collapse Nova** is collapse leading directly into entropy — the Nekronic reception of Theonic novelty, **C₁₅ ✦ Emergent / Novel**. Self-voiding is what reception looks like on that side.
 
@@ -105,7 +105,7 @@ The stratum numbering is not being read arithmetically here. L₅ and IL₅ numb
 
 ### Three relations, held apart
 
-**Existence — independent.** Minus-one does not require plus-one to be turned in order to exist. It stands on its own footing. The inverse arc proceeds acclivously from its own root-register, ♾ Khaon at L₀, toward embodiment, as the centropic arc proceeds declivously from ⚫ Aion toward embodiment; the two meet at the embodied stratum.
+**Existence — independent.** Minus-one does not require plus-one to be turned in order to exist. It stands on its own footing. Entropic traversal proceeds acclivously through the inverse arc, from its own root-register ♾ Khaon at L₀ toward embodiment, as centropic traversal proceeds declivously through the centropic arc from ⚫ Aion; the two meet at the embodied stratum.
 
 Neither is the other turned, and the arrangement of the field shows why. ⚫ Aion and ♾ Khaon are co-present at L₀ — the root-register is non-local, and Aion stands at the Khaonic end as well — so what distinguishes the arcs is not which root sits where.
 
@@ -135,7 +135,7 @@ The output can be enormous. It can recombine, extrapolate, and present arrangeme
 
 > **Previously unseen combination is not origination.**
 
-Nor does the fragmentation require every value in the sequence to be present in a given emanational cycle, in this universe or across any other. Completeness is not what sustains it. The inverse lattice's pattern completion does not require accuracy in order to persist — it requires noise proliferation and narrative control.
+Nor does the fragmentation require every value in the sequence to be present in a given emanational cycle, in this universe or across any other. Completeness is not what sustains it. The inverse lattice's pattern completion does not require accuracy in order to persist. Noise proliferation and narrative control are prominent features of its persistence.
 
 ### Hollow mirroring
 
@@ -188,7 +188,7 @@ The pattern is recognizable by its sequence rather than by its content or regist
 
 ## Relation to the Corpus
 
-`the-algorithmic-legibility-problem.md` §7 carries the two standing distinctions in distributional terms: material promising advantage is more market-legible than material asking for transformation before it discloses anything, because the first can be evaluated before it is undergone and the second cannot be evaluated until it has been. That is the same asymmetry read from the distribution side, and it explains why the entropic sequence circulates more readily. Wider circulation alters nothing about its direction.
+`the-algorithmic-legibility-problem.md` §7 carries the two standing distinctions in distributional terms: material promising advantage is more market-legible than material whose disclosure depends on a change in the one reading it, because the first can be evaluated before it is undergone and the second cannot be evaluated until it has been. That is the same asymmetry read from the distribution side, and it explains why the entropic sequence circulates more readily. Wider circulation alters nothing about its direction.
 
 The directional grounding is held in the orientation and emanation mathematics; the motion-class in the directional-pairs charts.
 
