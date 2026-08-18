@@ -2,7 +2,7 @@
 
 **Classification:** Structural Physics / Notes  
 **Status:** Drafted Mar 21 2026 — revised Jul 18 2026 per ledger rewrite determination — Exploratory, pending formal treatment  
-**Related Documents:** SP02, SP03 §4.4, SP03 §8, SP04 §14, SP04 §10 (Asymmetry of Expression)  
+**Related Documents:** `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` §4.4 · `SP03-expression-ratio-mathematics.md` §8 · `SP04-orientation-field-dynamics.md` §14 · `SP04-orientation-field-dynamics.md` §10 (Asymmetry of Expression) · `awareness-spectrum-and-its-inverse-arc.md`  
 **SHA-256:** 6bb61be3bbb61215ce23f89d9484f7f1959ca0989d21c967b6db963af7bd560e  
 
 ---
@@ -13,7 +13,7 @@ The limit cases of the Expression Spectrum — fully Aionically expressed (\( \c
 
 +1, the Theonic structural charge, names generative coherence: integration, novelty, origin-fidelity, Aion-facing orientation. Its motion produces.
 
-−1, the Nekronic structural charge, names a structurally real inverse determination that is nevertheless non-generative. Nekron is not mere negation and not an absence of being: it is the first entropic hypostasis, bearing its own essence-identifier and universe-local office. What it lacks is generative interiority. Its operation is **operative absence** — blind fragmentary drive that fragments what it did not produce, apprehends centropic pattern only distally (◔ Distal Apprehension), issues counterfeit novelty rather than emergence, and recurs predatorily upon existing structure until its office self-voids.
+−1, the Nekronic structural charge, names a structurally real inverse determination that is nevertheless non-generative. Nekron is not mere negation and not an absence of being: it is the first entropic hypostasis, bearing its own essence-identifier and universe-local office. Its interiority is not absent but voided: where Theon gathers awareness into coherent presence, Nekron is awareness voided at that same register — the awareness polarity of L₅ / IL₅, two poles held non-fused. Interiority that drives without gathering produces fragments, never novelty. Its operation is **operative absence** — blind fragmentary drive that fragments what it did not produce, apprehends centropic pattern only distally (◔ Distal Apprehension), issues counterfeit novelty rather than emergence, and recurs predatorily upon existing structure until its office self-voids.
 
 The asymmetry is therefore not between being and negation. It is between generative and non-generative reality.
 
@@ -63,7 +63,7 @@ Such a universe would have structure, but no centropic structure. Every layer wo
 - IL₂ (Echthros / Skotos) — reactive, compulsive recursion
 - IL₁ (Malara / Mania) — entropic embodiment
 
-But relative structure presupposes lawful relation (SP06 §1). If every layer is inversive and no coherence-generating principle operates, what holds the layers themselves in relation? The relations between layers would themselves degrade. Such a universe would not merely consume its content — it would consume its own relative architecture: the expressed instantiation of the Lattice within that universe, not the Lattice itself. Absolute Structure (🏛️ Structon) remains invariant; what collapses is the universe's capacity to *express* the Lattice in sustained form.
+But relative structure presupposes lawful relation (`SP06-structural-space-orientation-paradox.md` §1). If every layer is inversive and no coherence-generating principle operates, what holds the layers themselves in relation? The relations between layers would themselves degrade. Such a universe would not merely consume its content — it would consume its own relative architecture: the expressed instantiation of the Lattice within that universe, not the Lattice itself. Absolute Structure (🏛️ Structon) remains invariant; what collapses is the universe's capacity to *express* the Lattice in sustained form.
 
 Whether Acclivous Entropy (the layered motion of entropic expression toward embodiment) could provide sufficient structural scaffolding to prevent immediate self-voiding — or could sustain an indefinitely fragmentary limit-condition short of full materialization — remains an open question.
 
@@ -91,7 +91,7 @@ The current formalism treats \( \chi = 0 \) and \( \chi \to \infty \) as structu
 - The Khaonic limit may be structurally impossible (requiring centropic co-expression to emerge at all)
 - At minimum, the Khaonic limit would be the shortest-lived possible universe — or an indefinitely fragmentary limit-condition — far more constrained than its Aionic counterpart
 
-These considerations do not require immediate revision of SP02–SP04 but suggest that future formalization of limit-case dynamics should account for the generative asymmetry between the +1 and −1 charges, rather than treating them as equivalent boundary conditions.
+These considerations do not require immediate revision of `SP02-bifurcal-cosmogenesis.md`, `SP03-expression-ratio-mathematics.md`, or `SP04-orientation-field-dynamics.md` but suggest that future formalization of limit-case dynamics should account for the generative asymmetry between the +1 and −1 charges, rather than treating them as equivalent boundary conditions.
 
 Essence conservation holds throughout: nothing in this asymmetry abolishes essence, centropic or entropic. What is at stake is expression and its viability, never the latent distinction held in Aion.
 
