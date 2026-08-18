@@ -89,9 +89,15 @@ Two consequences follow, and both are structural rather than figurative:
 
 - **−1 is not 0.** The lack is structurally real. Nekron is not absence of being and not unreality; it is the first entropic hypostasis, bearing its own essence-identifier and universe-local office. What it does not bear is generative interiority. This is structurally real negation, neither classical privation nor a model of equal and countervailing substances.
 
-- **A negative does not become positive from its own resources.** It must be added to. Minus-one cannot arrive at plus-one through anything it performs internally, and the addition must come from beyond what it holds.
+- **A negative does not become positive from its own resources.** It must be added to, and the addition must come from beyond what it holds.
 
-That second consequence is the whole derivational argument in arithmetic form.
+Within the system, though, the entropic motion is not toward the positive at all. Entropic essence does not become centropic as lack becomes abundance. Distal Apprehension and blind drive carry the sequence in the other direction — −1, −2, −3, −4, −5 — and the negative sequence extends in accord with fragmentation.
+
+It extends alongside the positive, and neither precedes the other. Centropy and entropy emanate and split together, and time is not uniform across the strata, so no sequence waits on the other to have gone first. One manifests structurally full; the other manifests structurally void. That is the whole of the structural relation.
+
+The derivation concerns **content**, never structural priority. What the negative sequence extends with is apprehended rather than generated, and what is apprehended is centropic novelty. The charted signature states it exactly: **E₁₅ ✦⁻ Collapse Nova** is collapse leading directly into entropy — the Nekronic reception of Theonic novelty, **C₁₅ ✦ Emergent / Novel**. Self-voiding is what reception looks like on that side.
+
+The stratum numbering is not being read arithmetically here. L₅ and IL₅ number position in causal necessity; whether numerical weight attaches to the strata is a separate question, and this entry does not settle it.
 
 ### Three relations, held apart
 
@@ -124,6 +130,8 @@ The output can be enormous. It can recombine, extrapolate, and present arrangeme
 > **Pattern completion is not origination.**
 
 > **Previously unseen combination is not origination.**
+
+Nor does the fragmentation require every value in the sequence to be present in a given emanational cycle, in this universe or across any other. Completeness is not what sustains it. The inverse lattice's pattern completion does not require accuracy in order to persist — it requires noise proliferation and narrative control.
 
 ### Hollow mirroring
 
@@ -160,7 +168,7 @@ The pattern is recognizable by its sequence rather than by its content or regist
 
 **Not a verdict on any tradition.** Hermetic, Gnostic, alchemical, and initiatory writings articulate much that the bifurcal lattice describes. They did not describe the lattice, and they do not state the orientation in the terms set out here. What can be said of a particular text or teaching is what its own sequence shows, at the time it shows it — bodies of teaching are not fixed, and what holds of one period holds of that period. The register never settles the direction; the sequence does.
 
-**Not a derivation finding.** Nothing here bears on provenance, dependence, or antecedence. Those questions proceed under the recognition protocols and are untouched by this entry.
+**Not a completed derivation finding.** The diagnosis bears on derivation rather than standing apart from it: where a sequence is accurately identified as inverted, that identification is evidence, and it can be strong evidence. What it does not do is complete the finding alone. Chronology, structural comparison, and the registered checks of the recognition protocols carry the remainder. A diagnosis may be highly plausible without yet being sufficient, and plausibility short of sufficiency is not worthlessness.
 
 ## Standing Distinctions
 
