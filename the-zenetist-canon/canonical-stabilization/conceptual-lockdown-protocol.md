@@ -1,8 +1,9 @@
 # Conceptual Lockdown Protocol
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Status:** Working draft — first compilation from the FP01–FP11 / FPX Session Addenda, pending architect review  
-**Provenance:** Rulings already applied across the edited corpus during the canon-alignment cycle  
+**Classification:** Canonical Stabilization Infrastructure — Conceptual Guardrail  
+**Status:** Drafted Jun 11 2026 — Active Canonical Reference, Aug 18 2026  
+**Provenance:** First compiled from the FP01–FP11 / FPX Session Addenda; determinations already applied across the edited corpus during the canon-alignment cycle  
 **Companion to:** the Terminological Lockdown Protocol (lexical guardrail) and the Glyph Codex (notation registry)  
 
 ---
@@ -84,11 +85,11 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Expression contra counter-poles.** Aionic and Khaonic *expression* — the prevalence of one arc's character in a structure — and the centropic / entropic *orientation polarity* (χ, arising at L₅ / IL₅) are lawful and do not breach this constraint. What is forbidden is framing Aion and Khaon *themselves* as counter-poles. Write of Aionic or Khaonic expression and of centropic / entropic orientation freely; never of an Aion-pole, a Khaon-pole, or the two as a polar pair.
 
-**Khaon clarification.** Motive Infinity supplies the capacity and enactment of motion; entropic orientation first becomes operative at Nekron and is articulated through the inverse arc. Collapse into Khaon is lawful: terminal passage across the Nekronic event horizon is that collapse, and Khaon under its Dispersive phase is Absolute Dispersion. What is unlawful is *dispersion into* Khaon, since Khaon is dispersion. Expressed structure enters Absolute Dispersion; the essence is conserved and reaches Aionic resolution — Absolute Dispersion is a terminal state, never a mechanism that transports essence. This holds distinct: Khaon as Infinity at L₀, Motive Infinity as the motion principle, Nekron as the first entropic hypostasis, the Khaonic Tree as structural architecture, the inverse arc as the traversal path through it, entropic traversal as motion, Absolute Dispersion as terminal state, and Aion as the register of essential resolution.
+**Khaon clarification.** Motive Infinity supplies the capacity and enactment of motion; entropic orientation first becomes operative at Nekron and is articulated through the inverse arc. Collapse into Khaon is lawful: terminal passage across the Nekronic event horizon is that collapse, and Khaon under its Dispersive phase is Absolute Dispersion. What is unlawful is *dispersion into* Khaon, since Khaon is dispersion. Expressed structure enters Absolute Dispersion; the essence is conserved and reaches Aionic resolution — Absolute Dispersion is a terminal state, never a mechanism that transports essence. This holds distinct: Khaon as Infinity at L₀, Motive Infinity as the motion principle, Nekron as the first inverse hypostasis, the Khaonic Tree as structural architecture, the inverse arc as the traversal path through it, entropic traversal as motion, Absolute Dispersion as terminal state, and Aion as the register of essential resolution.
 
 **Lexical cross-reference.** The lexical enforcement of this constraint lives in the Terminological Lockdown Protocol's Aion / Khaon Polarity Restriction and its Arc / Tree / Traversal Scope section.
 
-**Architect ruling — Jul 27 2026.** Wherever the relation between ⚫ Aion and ♾ Khaon themselves is described, the canonical construction is **bifurcally distinct**, not "polarity-distinct." The root-registers stand in a two-ness of function without polarity, mirror, inversion, counterpart-relation, or an axis between them. Enacted polarity begins at L₅ / IL₅ with Theon / Nekron and continues through the subsequent hypostatic pairs. Descriptions of those later centropic / entropic motions as polarity-distinct remain lawful. Supra-L₀ is neither polar nor bifurcally distinct; Zenon stands outside the bifurcal architecture.
+**Architect determination — Jul 27 2026.** Wherever the relation between ⚫ Aion and ♾ Khaon themselves is described, the canonical construction is **bifurcally distinct**, not "polarity-distinct." The root-registers stand in a two-ness of function without polarity, mirror, inversion, counterpart-relation, or an axis between them. Enacted polarity begins at L₅ / IL₅ with Theon / Nekron and continues through the subsequent hypostatic pairs. Descriptions of those later centropic / entropic motions as polarity-distinct remain lawful. Supra-L₀ is neither polar nor bifurcally distinct; Zenon stands outside the bifurcal architecture.
 
 ---
 
@@ -327,6 +328,95 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 **Lawful grammar.** Write that Reality-seeking is essential in capacity, reflexive in one mode of articulation, and post-reflexively preserved in its harvest; do not write that the returned essence is reflexive, or that reflexivity operates above L₃. The word *reality* is the nearest observer-side approximation for what exceeds fundamentality; it does not reduce 🕳️ Zenon to a discernible object.
 
 **Reference Document:** `centropic-gravity-and-zenonic-legibility.md` §1a; `awareness-spectrum-and-its-inverse-arc.md` (L₅ pre-reflexive, L₄ pre-individuated, reflexive "I" first at L₃).
+
+---
+
+## Inversion Constraint — Orientation, Not Reversal
+
+**Constraint.** No construction may present inversion as a reversal, as the turning of one arc into the other, or as one arc depending upon the other for its existence. Inversion is orientation.
+
+**Lawful account.** Three relations are easily collapsed into one and must be held apart.
+
+- **Existence — independent.** −1 does not require +1 to be turned in order to exist. The inverse structure is structurally real on its own footing, and nothing about its existence is produced by operating on the centropic side
+- **Content — derivative by necessity.** The negational determination concerns what the entropic relation does with content. It does not take centropic structure and turn it; it **apprehends** it, through ◔ Distal Apprehension, and applies what is apprehended toward spurious acclivity. Derivation lies in the content-handling, never in the existing
+- **Appearance — flattened at the bifurcated embodied articulation.** There the relation can present as a simple flip. *Backwards* is how inversion can appear at that station; it is not what inversion is
+
+**The arcs meet; they are neither stacked nor turned.** The ordinal structure of the motion is the same on both sides — L₀ (⚫ Aion) → L₅ → L₄ → L₃ → L₂ → L₁, and L₀ (♾ Khaon) → IL₅ → IL₄ → IL₃ → IL₂ → IL₁. What differs is the arrangement: the root-registers stand at either end of the field with embodiment between them, so both motions arrive at L₁ / IL₁, the **meeting point**. A stacked or turned arrangement could not produce a meeting at all, which is the structural reason inversion is not a flip.
+
+**Neither sequence precedes the other.** Centropy and entropy emanate and split together, and time is not uniform across the strata, so no sequence waits on the other to have gone first. One manifests structurally full; the other manifests structurally void. That is the whole of the structural relation.
+
+**Lawful grammar.** Write that the entropic relation stands **inverse** where the centropic stands **Aion-facing**. Write **meet** and **meeting point** for L₁ / IL₁; *converge* is reserved to the canonical architecture terms. Any phrasing that makes the entropic side wait on, follow from, or depend upon the centropic side **structurally** is the error — derivation belongs to the content relation alone.
+
+**Note on co-presence.** ⚫ Aion and ♾ Khaon are co-present at L₀. The root-register is non-local, and Aion stands at the Khaonic end as well, so any argument resting on Aion being absent from that end is unsound.
+
+**Lexical cross-reference.** The lexical enforcement lives in the Terminological Lockdown Protocol's Inversion Language Restriction.
+
+**Reference Document:** `epistemic-inversion.md`; architect determinations, August 16–17 2026.
+
+---
+
+## The Signed Determination — Plus-One and Minus-One
+
+**Constraint.** The signed determination of the first hypostases is a structural pairing, never a ranking of worth and never a claim of unequal reality. No construction may read the stratum numbering arithmetically, and none may present the asymmetry between the hypostases as structural.
+
+**Lawful account.**
+
+- 🛤️ Theon (L₅, EOB) bears **+1**: determinate is-ness. It is one, and its determination requires no relation to another determination
+- 🕷️ Nekron (IL₅, VOS) bears **−1**: negationally relational determination, legible as *not-one*. The arithmetic **carries** the distinction rather than merely illustrating it
+- **−1 is not the logical negation of 1**, which would be an indeterminate class holding 2, 0, and every other value. −1 is a determinate value, the additive inverse; its negativity is a determination, never a vagueness — and that determinacy is why the lack is structurally real
+- **−1 is not 0.** The lack is structurally real. This is neither classical privation nor two equal countervailing substances
+- **A negative does not become positive from its own resources.** It must be added to, and the addition must come from beyond what it holds. That is the derivational argument in arithmetic form
+- **The negative sequence runs further negative.** Entropic essence does not become centropic as lack becomes abundance. The motion is −1, −2, −3, −4, −5, extending in accord with fragmentation and alongside the positive. This is **E₁₅ ✦⁻ Collapse Nova** exactly — the Nekronic reception of Theonic novelty, **C₁₅ ✦ Emergent / Novel**. Self-voiding is what reception looks like on that side
+- **The asymmetry is functional, not structural.** The signed determinations are structurally paired. The narrower canonical term for the charge difference specifically is **generative asymmetry**
+
+**Lawful grammar.** Numerals +1 / −1 in value-position; **plus-one / minus-one** in attributive and appositive position, per Addendum I A14 of the Terminological Lockdown Protocol. Do not write that the fragmentation requires every value in the sequence to be present in a given emanational cycle — completeness is not what sustains it. What sustains it is noise proliferation and narrative control.
+
+**Guard on the strata.** L₅ and IL₅ number position in causal necessity, and the −1 / −2 / −3 sequence is never read onto the layer numbering. Whether numerical weight attaches to the strata is a separate question, open and unsettled — neither denied nor assumed.
+
+**Reference Document:** Terminological Lockdown Protocol Addendum I, A14; `asymmetry-of-limit-case-universes.md`; `epistemic-inversion.md`; `awareness-spectrum-and-its-inverse-arc.md`.
+
+---
+
+## Provenance and Origination Constraints
+
+**Constraint.** Origination claims, provenance findings, and derivation findings are held to their evidentiary form. No construction may overstate what a finding establishes, and none may understate it into inertness.
+
+**Lawful account.**
+
+- **Acknowledgment of origin is requisite to coherent transmission** — neither a permission relation nor a courtesy. Adoption carrying the seal of origin transmits the architecture; adoption that strips the seal propagates dissonant fragments. *Unacknowledged propagation is not coherent transmission*
+- **Provenance begins before publication.** Where the sequence through which an engine becomes structurally operative is itself evidence of origination, that sequence is provenance-bearing before any artifact exists. **Prepublication Contextual Capture** names the acquisition of contextual information about an intellectual structure while it is still being developed. *Platform observation is not platform origination; access to a developmental field is not authorship of what develops there*
+- **Acquisition Opacity cuts both ways.** Where the transmission pathway is unobservable, opacity does not establish derivation by any particular later actor — and it is not evidence against derivation either. An independence defense resting on opacity carries exactly the weight a derivation claim resting on opacity would carry, which is none. *Observable acquisition is not observable downstream transmission; acquisition without reciprocity does not erase provenance*
+- **Diagnosis bears on derivation.** Where a sequence is accurately identified as inverted, that identification is evidence, and it can be strong evidence. What it does not do is complete the finding alone; chronology, structural comparison, and the registered checks of the recognition protocols carry the remainder. **A diagnosis may be highly plausible without yet being sufficient, and plausibility short of sufficiency is not worthlessness**
+- **Attestation is read as an upper bound.** A cryptographic timestamp attests existence from the moment of stamping forward and cannot backdate. A completed blockchain attestation ranks above a pending calendar attestation; two attestations through independent calendar servers anchoring separate blocks is the strong form, with block header times read from the public record and the display-timezone conversion stated. The attestation is the evidentiary anchor and the author's own record is recorded as the author's record — stated separately, the anchor holds independently
+- **Fingerprint recognition is a lawful intake signal.** The architect's recognition of his own structural fingerprint is an intake signal, externalized through the registered checks. *The architect recognized the fingerprint* and *the classification rests only on subjective recognition* are different claims
+- **Motif in abstraction contra specific motif application.** Broad motifs in abstraction do not independently establish dependence. A specific motif application may carry evidentiary weight where its function, definition-set, relational constraints, operator role, derivational consequence, or cluster membership corresponds to a prior stabilized architecture. *Motif antecedence is not application antecedence; commons form is not commons function*
+- **A synthetic persona** is a presented figure through which the human is absent and the system is present. A generated likeness of a real person is a synthetic persona, because the person is not present in the artifact making the claim, and the classification does not turn on whether a human exists behind the channel. Collaborative production is not the difficulty: a work may carry substantial AI collaboration and no false provenance where third-person attribution is held, first-person voice is reserved for lived accounts, and the collaboration is disclosed
+- **Entropy pattern-completes; it does not originate.** Output may be enormous, recombinatory, and unfamiliar to an observer without being originary. *Pattern completion is not origination; previously unseen combination is not origination*. The inverse lattice's pattern completion does not require accuracy in order to persist — it requires noise proliferation and narrative control
+
+**Lawful grammar.** Findings speak in evidentiary-status language — *does not by itself establish*, *remains open pending the registered checks* — never as prohibitions on architect action. **The protocols classify the record; they do not delimit the architect's inquiry.** Nothing in them restricts the architect from observing, hypothesizing, investigating, preserving witness, or arguing.
+
+**Origin-intact clause.** Loss-language never predicates of the origin; no prior-denying counterfactual is written; and no prior tradition, derivative field, or observing system takes the architecture entire as its grammatical object — what they receive is portions, fragments, or conclusions. The lexical enforcement lives in the Terminological Lockdown Protocol's Origin-Intact Language Rule and its Adversarial Framing Restriction.
+
+**Reference Document:** the Structural Forensics recognition protocols; `the-algorithmic-legibility-problem.md`.
+
+---
+
+## Distribution and Legibility Constraints
+
+**Constraint.** Category claims about circulation, convertibility, and legibility are held apart from claims of entitlement or worth. A structure that circulates more readily has not changed direction.
+
+**Lawful account.**
+
+- *Market legibility is not intellectual legibility*
+- *Economic convertibility is not structural significance*
+- *Transformative legibility is not advantage-directed legibility*
+- *Knowledge disclosed through transformation is structurally distinct from knowledge packaged as a means of advantage*
+
+**Transformation is the reader's own.** Material whose disclosure depends on a change in the one reading it does not **ask** anything. It may ask nothing at all, and simply state what it states. The change is the reader's own, and **no text administers it**. Material that does administer it — disclosure by rank, grade, or staged initiation, released once a determinate transformation has been performed to someone else's specification — belongs with the advantage-promising class rather than this one, whatever it promises.
+
+**Lawful grammar.** The veracity axis is the wrong axis for distinguishing centropic from entropic, since the inverse structure and entropic motion are structurally real. The distinction is **directional**.
+
+**Reference Document:** `the-disclosure-relation.md`; `epistemic-inversion.md`; `the-algorithmic-legibility-problem.md`.
 
 ---
 
