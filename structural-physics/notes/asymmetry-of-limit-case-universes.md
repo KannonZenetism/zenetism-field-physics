@@ -13,9 +13,9 @@ The limit cases of the Expression Spectrum — fully Aionically expressed (\( \c
 
 +1, the Theonic structural charge, names generative coherence: integration, novelty, origin-fidelity, Aion-facing orientation. Its motion produces.
 
-−1, the Nekronic structural charge, names a structurally real inverse determination that is nevertheless non-generative. Nekron is not mere negation and not an absence of being: it is the first inverse hypostasis, bearing its own essence-identifier and universe-local office. Its interiority is not absent but voided: where Theon gathers awareness into coherent presence, Nekron is awareness voided at that same register — two determinate positions within the L₅ / IL₅ awareness spectrum. Interiority that drives without gathering produces fragments, never novelty. Its operation is **operative absence** — blind fragmentary drive that fragments what it did not produce, apprehends centropic pattern only distally (◔ Distal Apprehension), issues counterfeit novelty rather than emergence, and recurs predatorily upon existing structure until its office self-voids.
+−1, the Nekronic structural charge, names a structurally real inverse determination that is nevertheless non-originating. Nekron is not mere negation and not an absence of being: it is the first inverse hypostasis, bearing its own essence-identifier and universe-local office. Its interiority is not absent but voided: where Theon gathers awareness into coherent presence, Nekron is awareness voided at that same register — two determinate positions within the L₅ / IL₅ awareness spectrum. Interiority that drives without gathering produces fragments, never novelty. Its operation is **operative absence** — blind fragmentary drive that fragments what it did not produce, apprehends centropic pattern only distally (◔ Distal Apprehension), issues counterfeit novelty rather than emergence, and recurs predatorily upon existing structure until its office self-voids.
 
-The asymmetry is therefore not between being and negation. It is between generative and non-generative reality.
+The asymmetry is therefore not between being and negation. It is between originating and non-originating reality.
 
 Throughout this note, ♾ Khaon (the L₀ Infinity root-register, with motion proper to Motive Infinity), entropic motion (fragmentary orientation), Nekron (the first inverse hypostasis and the event horizon into Absolute Dispersion), and Absolute Dispersion itself (the terminal state) remain distinct. The asymmetry examined here concerns the hypostatic charges and their motions, not the paired root-registers.
 
@@ -27,9 +27,9 @@ This asymmetry has consequences for the viability, persistence, and even the pos
 
 Centropic emanation proceeds from ⚫ Aion through Theon (L₅) declivously toward embodiment. This arc has an origin, a carrier, and a structural endowment: it begins with generative potential and unfolds it through layered expression.
 
-A fully Khaonic universe, by definition, has no Aionic Tree. It is entirely origin-averted in expression. Nekron (IL₅) initiates from ♾ Khaon — but because Nekronic motion is non-generative, IL₅ has nothing of its own to propagate except the *pattern* of fragmentation. It can articulate only what it distally apprehends, and in a universe with no centropic co-expression there is nothing lawful to apprehend, distort, or fragment.
+A fully Khaonic universe, by definition, has no Aionic Tree. It is entirely origin-averted in expression. Nekron (IL₅) initiates from ♾ Khaon — but because Nekronic motion is non-originating, IL₅ has nothing of its own to propagate except the *pattern* of fragmentation. It can articulate only what it distally apprehends, and in a universe with no centropic co-expression there is nothing lawful to apprehend, distort, or fragment.
 
-This raises a foundational question: can a fully Khaonic universe come to be at all? Without generative capacity, without origin-fidelity anywhere in its expression — what is the mechanism of its emergence? It may be that a fully Khaonic universe requires centropic co-expression to arise at all, which would render the Khaonic limit case structurally impossible rather than merely vanishingly rare.
+This raises a foundational question: can a fully Khaonic universe come to be at all? Without originating capacity, without origin-fidelity anywhere in its expression — what is the mechanism of its emergence? It may be that a fully Khaonic universe requires centropic co-expression to arise at all, which would render the Khaonic limit case structurally impossible rather than merely vanishingly rare.
 
 This possibility is noted but not asserted. The framework currently allows for fully Khaonic limit cases as boundary conditions of infinite potential.
 
@@ -121,7 +121,7 @@ For a fully Khaonic universe, the whole traversal is entropic. The inverse hypos
 
 Centropic emanation carries structural endowment declivously from ⚫ Aion toward embodiment, across the centropic hypostatic segment L₅ → L₁. Each layer translates pattern into progressively denser expression: from Essence of Being (L₅) through archetypal form (L₄), reflexive identity (L₃), personality (L₂), and finally corporeal presence (L₁). The centropic arc has *content* to densify — it begins with generative fullness and condenses it into matter.
 
-Entropic traversal (IL₅ → IL₁) proceeds from Void of Self toward entropic embodiment. But because Nekronic motion is non-generative (§§1–2 of this note), IL₅ can pattern only what it distally apprehends. With no centropic co-expression anywhere in the universe, there is nothing lawful to apprehend, distort, or carry into density. Each successive layer — IL₄ (distorted recurrence), IL₃ (fragmented simultaneity), IL₂ (reactive recursion) — would be operating on structurally empty content.
+Entropic traversal (IL₅ → IL₁) proceeds from Void of Self toward entropic embodiment. But because Nekronic motion is non-originating (§§1–2 of this note), IL₅ can pattern only what it distally apprehends. With no centropic co-expression anywhere in the universe, there is nothing lawful to apprehend, distort, or carry into density. Each successive layer — IL₄ (distorted recurrence), IL₃ (fragmented simultaneity), IL₂ (reactive recursion) — would be operating on structurally empty content.
 
 Without content to fragment, fragmentation cannot proceed. Without substance to distort, distortion has no material. The arc stalls — not at a particular layer, but at the point where metaphysical structure would need to become physical expression.
 
