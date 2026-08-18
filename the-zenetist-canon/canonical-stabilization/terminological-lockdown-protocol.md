@@ -1041,7 +1041,7 @@ The canonical terms separate the act from the outcome:
 - **adjudication**, **adjudicate**, **adjudicative** — the act of settling a question. Adjudication is the architect's reserved function
 - **determination**, or plainly **decision** — the settled outcome. **The architect's determination** parallels the established architect-held, architect-reserved, and architect-approved forms
 
-Retained: quoted material and historical records stand as written. This restriction holds for current voice and new drafting only; ledgers, audit reports, and dated entries already carrying *ruling* are never retro-edited.
+Retained: quoted material and historical records stand as written. This restriction holds for current voice and new drafting only; ledgers, audit reports, and dated entries already carrying *ruling* are not conformed as a matter of course, and no collaborator conforms them on their own initiative. **The architect determines what is edited and when** — the non-retroactivity clause fixes the default and the collaborator's conduct, never the architect's own hand (architect determination, August 18 2026). The fuller statement is held at the Conceptual Lockdown Protocol's Legacy Standing Constraint.
 
 ---
 
