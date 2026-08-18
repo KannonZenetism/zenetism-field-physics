@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Linguistic Stabilization Layer  
 **Status:** Active Canonical Reference  
-**Function:** Master compositional stabilization layer preserving terminological continuity, directional precision, metaphysical consistency, symbolic distinction, and drift-resistant coherence across all Zenetist disciplines.
+**Function:** Master compositional stabilization layer preserving terminological continuity, directional precision, metaphysical consistency, symbolic distinction, and drift-resistant coherence across all Zenetist disciplines.  
 
 ---
 
@@ -998,7 +998,6 @@ Canonical usage instead prefers:
 - in distinction from
 - bifurcally distinct from
 - polarity-distinct from
-- structurally opposed to
 
 Examples:
 
@@ -1008,6 +1007,25 @@ Examples:
 - Aionic register in distinction from Khaonic register
 
 "Contra" preserves distinction and directional contrast without collapsing polarity into simplistic adversarial framing.
+
+**Scope correction (architect determination, August 18 2026).** *Structurally opposed to* stood in the preferred list above and is withdrawn. Opposition-language carries the antagonism this protocol exists to refuse, and the same objection that puts **contra** in place of **versus** reaches it. Where the centropic / entropic structural relation is meant, the canonical forms are given in the Inversion Language Restriction below. *Polarity-distinct from* stands, scoped to the enacted polarity beginning at L₅ / IL₅ — never to ⚫ Aion and ♾ Khaon themselves, which are **bifurcally distinct**.
+
+---
+
+## Inversion Language Restriction
+
+**Inversion is orientation, not reversal** (architect determination, August 16 2026). Inversion names structural upside-down-ness. A reversal would be the centropic relation retracing itself, which would make the entropic relation derivative in its existence — and it is not. The entropic relation stands **inverse** where the centropic stands **Aion-facing**, and both stand in the field in their own right. Neither is produced by turning the other, and neither requires the other to be turned in order to be there.
+
+Barred wherever the subject is entropic or inverse structure:
+
+- **reversal · reversed · reverses · run backward** — write **inverted**, **standing inverted**, **inverse orientation**, **inverse positions**
+- **opposition · opposed · stands opposite · structurally opposed** — the antagonism belongs to entropy's conduct, never to the structural descriptor
+
+**Backwards is lawful of a sequence.** Where the terms of a sequence run inverted, *backwards* names exactly that, and *mirror* stands alongside it — the entropic side describing itself, per the Mirror Terminology Restriction. It is unlawful of the arc and of the structural relation.
+
+Retained: opposition-language naming genuine antagonistic conduct, and quoted material. Two capabilities developing in contrary directions are not the structural relation this restriction scopes.
+
+The conceptual counterpart lives in the Conceptual Lockdown Protocol's Inversion Constraint.
 
 ---
 
@@ -1080,7 +1098,7 @@ Canonical replacements by sense:
 - **approval**, **approved**, or **approves** where the referent is the architect's consent (architect approval; separately approved; the architect explicitly approves) — paralleling the established architect-approved status term
 - **license** or **licenses** where a condition grants or withholds permission for an action (discovery of an inconsistency does not license mass revision)
 
-**Permission and consent (architect determination, August 13 2026).** *Permission*, *consent*, and their verb forms are barred in the same family: they frame a relation in which one party stands to grant or withhold, which the corpus does not hold. Where propagation or adoption is at issue, write **standing** (it does not claim standing to withhold adoption), **acknowledgment**, or **the seal of origin**. Note the substantive point the restriction protects: declining the permission relation must never be written so as to concede that acknowledgment of origin is optional — acknowledgment is requisite to coherent transmission, not a permission granted.
+**Permission and consent (architect determination, August 13 2026).** *Permission*, *consent*, and their verb forms are barred in the same family: they frame a relation in which one party stands to grant or withhold, which the corpus does not hold. Where propagation or adoption is at issue, write **standing** (it does not claim standing to withhold adoption), **acknowledgment**, or **the seal of origin**. The **noun** *licence / license* falls in the same family, since a licence is granted by one party to another; the **verb** *licenses* is established and lawful throughout this protocol, and the British noun spelling is off-convention in any case. Note the substantive point the restriction protects: declining the permission relation must never be written so as to concede that acknowledgment of origin is optional — acknowledgment is requisite to coherent transmission, not a permission granted.
 
 **Architect-direction form.** Where the architect's direction is named, the canonical construction is **at the architect's direction** — possessive, matching *the architect's determination*. Never *under architect direction*, which places the architect on the rank axis, and never the bare-noun *at architect direction*.
 
@@ -1542,7 +1560,7 @@ and
 
 **Traversal.** Motion-language names the passage itself — centropic traversal through the centropic arc, entropic traversal through the inverse arc. Here centropic and entropic modify *traversal*, a motion category; they do not rename the structural arcs.
 
-**Motion contra structure.** Centropic / entropic are lawful for motion, orientation, traversal, expression, and operators. Centropic / inverse are the structural arc designations. Avoid in strict canonical specification: entropic hypostatic segment, entropic arc, entropic Tree, Khaon as the entropic root, Khaon as intrinsically entropic.
+**Motion contra structure.** Centropic / entropic are lawful for motion, orientation, traversal, expression, and operators. Centropic / inverse are the structural arc designations. The test is the noun: where the noun names structure — a hypostasis, a lattice, a Tree, an arc, a hypostatic segment — the modifier is **inverse** (architect determination, August 18 2026, generalizing the hypostasis determination to the whole class of structural nouns). Avoid in strict canonical specification: entropic hypostasis, entropic hypostases, entropic lattice, entropic hypostatic segment, entropic arc, entropic Tree, Khaon as the entropic root, Khaon as intrinsically entropic.
 
 **Intentional asymmetry.** *Centropic* names the intrinsic orientation of the centropic arc; *inverse* names the structural relation of the IL₅–IL₁ hypostatic segment to the centropic hypostases. The inverse arc is entropically oriented, but its structural designation remains inverse. Do not invent a *direct arc* to force lexical symmetry — structural precision outranks lexical symmetry.
 
@@ -1860,6 +1878,19 @@ The rule and the Emergent Social Physics doctrine are one: *Cohesion Is Not Cohe
 
 ---
 
+## Generative Predication Rule
+
+**Generative** is centropic in predication (architect determination, August 17 2026). Where it is **predicated of** the centropic side it stands — generative coherence, generative potential, generative capacity, generative fullness, and the canonical **generative asymmetry**. Where it is **denied of** the entropic side, the canonical term is **non-originating**.
+
+- *non-generative recurrence* → **non-originating recurrence**
+- *non-generative replication* → **non-originating replication**
+- *Nekronic motion is non-generative* → **non-originating**
+- *what it lacks is generative interiority* → **its interiority is not absent but voided**
+
+The refinement is doctrinal rather than merely lexical. Nekron's interiority is not absent: at IL₅ interiority is **blind drive**, and blind drive produces ceaselessly. What is voided is the **gathering** — where 🛤️ Theon gathers awareness into coherent presence, 🕷️ Nekron is awareness voided at that same register, two determinate positions within the L₅ / IL₅ awareness spectrum. Interiority that drives without gathering produces fragments, never novelty. *Non-generative* overstates by denying the production; *non-originating* names the deficit exactly.
+
+---
+
 ## Epistemic Hedge Restriction
 
 Canonical claims are asserted directly. Qualifiers that convert a flat claim into a conditioned one are barred (architect determination, August 13 2026): **by itself**, **standing alone**, **without qualification**, **automatically**, and **falsely** where the falsity is already carried by the sentence.
@@ -1989,7 +2020,7 @@ Barred:
 
 ## Named-Operator Retention
 
-The Field Physics dimensional operator **E₈ (╫⁻, Severed)** — the entropic inversion of C₈ Synaptic / Bridging, charted core function "Connections that divide," charted in `FP11-field-glyph-codex.md` §3 (mirrored in the extract registry `field-physics-glyph-charts.md`) — stands as-is. The name is consistent with this boundary: it names relational-register severance (connections that divide; entity-to-entity isolation carrying no origin claim), never origin-severance. This boundary applies to prose constructions, not charted operator names; a charted name is an exact string. A rename of E₈ remains registered as deferred (author's ruling, July 11, 2026: the corpus-wide sweep exceeds current work; flagged for later care); nothing in this section licenses a local patch.
+The Field Physics dimensional operator **E₈ (╫⁻, Severed)** — the entropic inversion of C₈ Synaptic / Bridging, charted core function "Connections that divide," charted in `FP11-field-glyph-codex.md` §3 (mirrored in the extract registry `field-physics-glyph-charts.md`) — stands as-is. The name is consistent with this boundary: it names relational-register severance (connections that divide; entity-to-entity isolation carrying no origin claim), never origin-severance. This boundary applies to prose constructions, not charted operator names; a charted name is an exact string. A rename of E₈ remains registered as deferred (architect determination, July 11, 2026: the corpus-wide sweep exceeds current work; flagged for later care); nothing in this section licenses a local patch.
 
 ## Audit Guidance
 
@@ -2175,8 +2206,8 @@ It is structural preservation.
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Protocol Addendum  
-**Status:** Active — July 4 2026 — integrated into this protocol; ruling bases are recorded in the continuity log (`source-purge-and-prayer-integration-continuity-log.md`)  
-**Scope:** Each section below is a settled author ruling. The Held Open section lists questions deliberately not ruled; nothing in this addendum licenses propagation on those items.
+**Status:** Active — July 4 2026 — integrated into this protocol; determination bases are recorded in the continuity log (`source-purge-and-prayer-integration-continuity-log.md`)  
+**Scope:** Each section below is a settled architect determination. The Held Open section lists questions deliberately left undetermined; nothing in this addendum licenses propagation on those items.
 
 ---
 
@@ -2234,7 +2265,7 @@ Bridge documents are **vocabulary-exempt and doctrine-bound**: they may employ c
 
 ## A10 · Beneath / Above Avoidance
 
-*Beneath, above, below, top,* and kin are avoided in canonical voice for strata relations, grounding relations, and document navigation. Canonical replacements by sense: **external ground / external substrate** (grounding), **outside the paired Soul / Mind layers** (register-position), **outlasts** (temporal persistence formerly figured as depth), **next section / immediately following** (document navigation). Retained: iconographic and scriptural literals (trampled beneath Shiva's foot; Moon under her feet), and quoted or historical text. Flagged, unruled: pre-ruling canonical instances describing strata vertically (e.g. "L₅ Theonic radiance above; L₀ Khaon beneath") — corpus sweep pending.
+*Beneath, above, below, top,* and kin are avoided in canonical voice for strata relations, grounding relations, and document navigation. Canonical replacements by sense: **external ground / external substrate** (grounding), **outside the paired Soul / Mind layers** (register-position), **outlasts** (temporal persistence formerly figured as depth), **next section / immediately following** (document navigation). Retained: iconographic and scriptural literals (trampled beneath Shiva's foot; Moon under her feet), and quoted or historical text. Flagged, undetermined: pre-determination canonical instances describing strata vertically (e.g. "L₅ Theonic radiance above; L₀ Khaon beneath") — corpus sweep pending.
 
 ## A11 · Band-Name Separation
 
@@ -2331,7 +2362,7 @@ The casing test is semantic, not stylistic. Capitalize **Origin** wherever the r
 
 ## Held Open — No Propagation
 
-The following are deliberately unruled; their consequences ripple through Lattice Mathematics, Structural Physics, and Structural Neuroscience, and nothing may be normalized against them until the author rules: **LM duality-constructs** (Duality Axiom; Derivative–Integral Duality; the GUD's A₁ Law of Duality inherits this ruling), **the LM spectral-pole question**, **the unity meta-definitional blocks** (LM01 / LM02), and **the Unified Conservation subtitle**.
+The following are deliberately left undetermined; their consequences ripple through Lattice Mathematics, Structural Physics, and Structural Neuroscience, and nothing may be normalized against them until the author determines: **LM duality-constructs** (Duality Axiom; Derivative–Integral Duality; the GUD's A₁ Law of Duality inherits this determination), **the LM spectral-pole question**, **the unity meta-definitional blocks** (LM01 / LM02), and **the Unified Conservation subtitle**.
 
 ---
 
