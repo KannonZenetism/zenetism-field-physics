@@ -4,7 +4,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure  
 **Status:** Drafted May 13 2026 — Active Canonical Reference  
-**Companion to:** `terminological-lockdown-protocol.md` (lexical guardrail) · `conceptual-lockdown-protocol.md` (conceptual guardrail)  
+**Companion to:** `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md`  
 **Function:** Stabilization reference preserving prose-composition continuity, punctuation precision, header consistency, note conventions, table integrity, and drift-resistant compositional discipline across canonical Zenetist documents.  
 
 ---
@@ -81,7 +81,7 @@ Canonical documents open with a metadata block specifying authorship, classifica
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** [Domain / Canon designation]  
-**Status:** [stage per the Status Vocabulary below]  
+**Status:** [stage per *Status Vocabulary*]  
 **Dependency:** [If applicable — antecedent documents]  
 **SHA-256:** [If applicable — for foundational and major works]
 ````
@@ -129,7 +129,7 @@ The SHA-256 hash is reserved for foundational works, principal registries, and o
 
 ### Structural Forensics Forms
 
-Structural Forensics documents follow the general metadata conventions with the series-specific field sets below (determined July 11, 2026; the Authorship retro-pass is complete across the exhibits corpus).
+Structural Forensics documents follow the general metadata conventions with the series-specific field sets that follow (determined July 11, 2026; the Authorship retro-pass is complete across the exhibits corpus).
 
 **Exhibit form** — field order as follows, optional fields omitted where empty:
 
@@ -704,8 +704,7 @@ The same preference extends to Zenodo deposit descriptions: relation entries (`S
 **Annotation in a citation slot.** A citation slot carries the filename and a locator, and nothing further (architect determination, August 18 2026).
 
 - **Locators are lawful.** Section, chapter, and entry references narrow the citation and belong with it: `hypostatic-function-bearing-and-sovereign-embodiment.md` §§18–19.
-- **Descriptive glosses are not carried by default.** A parenthetical describing what the cited document is duplicates that document's own Function line, goes stale when the Function line changes, and treats a citation slot as an annotation slot.
-- **One allowance — the role gloss.** Where a single line cites several files distinguished by role, and the roles are not legible from the filenames, each may carry a role gloss of two or three words. The guardrail set is the canonical instance: `terminological-lockdown-protocol.md` (lexical guardrail) · `conceptual-lockdown-protocol.md` (conceptual guardrail) · `prose-formatting-reference.md` (compositional guardrail). The gloss names the role; it never describes the document.
+- **Descriptive glosses are not carried.** A parenthetical describing what the cited document is duplicates that document's own Function line, goes stale when the Function line changes, and treats a citation slot as an annotation slot. Where the relation needs stating, the field name already states it — a Companion line has said the files are companions.
 
 New filenames are collision-checked against the corpus before creation; a collision forces rename.
 
@@ -713,7 +712,7 @@ New filenames are collision-checked against the corpus before creation; a collis
 
 # Cross-Reference Conventions
 
-Canonical cross-references follow established document abbreviations as shorthand. A prose cross-reference to a single-file document cites the backticked canonical filename, per Filename and Path Citation above; the italic title forms set out here apply where a title slot is lawful — a multi-file work referenced entire, and the Dependency metadata line in the Structural Forensics forms (architect determination, August 7 2026, reconciled here August 18 2026).
+Canonical cross-references follow established document abbreviations as shorthand. A prose cross-reference to a single-file document cites the backticked canonical filename, per *Filename and Path Citation*; the italic title forms set out here apply where a title slot is lawful — a multi-file work referenced entire, and the Dependency metadata line in the Structural Forensics forms (architect determination, August 7 2026, reconciled here August 18 2026).
 
 Canonical abbreviations:
 
@@ -731,13 +730,13 @@ The X-extension files (LMX, MPX, and any other X-marked extension series) take a
 
 Structural decodes do not follow a prefix-abbreviation pattern; they are numbered files (01, 02, 03, and so on) within the structural-decodes folder. Certain major documents similarly do not take an abbreviation and are referenced by their full canonical filename.
 
-Where the title form is lawful, full titles appear in italics — the examples below show that form rather than licensing a title in place of an available filename:
+Where the title form is lawful, full titles appear in italics — the examples that follow show that form rather than licensing a title in place of an available filename:
 
 - *Note on the Trickster as Pattern-Class*
 - *The Greek Lattice*
 - *Mythic Figure Layer Registry — Volume 2*
 
-Where a note is cited by title under the lawful conditions above, the title takes italics rather than quotation marks.
+Where a note is cited by title in one of those lawful contexts, the title takes italics rather than quotation marks.
 
 **Relations run reciprocal.** Paired or cross-referencing deposits carry reciprocal Companions lines: where one names the other, the other names it back, so a paired deposit is self-explanatory from either direction (architect determination, August 16 2026).
 
@@ -767,7 +766,7 @@ New poetic work may adopt the early register, develop new registers, or remain i
 
 # MPX Entry Format
 
-The Metaphysics Extensions (MPX) series follows the general prose conventions of this reference, with the series-specific standardizations below. These apply to MPX clarification and extension entries. They do not override the internal standardization of the principal MP book-series, which maintains its own conventions; consistency is held within each series rather than forced across them.
+The Metaphysics Extensions (MPX) series follows the general prose conventions of this reference, with the series-specific standardizations that follow. These apply to MPX clarification and extension entries. They do not override the internal standardization of the principal MP book-series, which maintains its own conventions; consistency is held within each series rather than forced across them.
 
 ## Title
 
@@ -781,7 +780,7 @@ The colon follows the X-extension cross-reference convention. An em dash within 
 
 ## Metadata Block
 
-MPX entries open with the four core fields below. These four are the required minimum, not a ceiling: additional fields may be included where an entry calls for them — a Primary Glyph line, a Series line, or similar — and are not banned.
+MPX entries open with the four core fields that follow. These four are the required minimum, not a ceiling: additional fields may be included where an entry calls for them — a Primary Glyph line, a Series line, or similar — and are not banned.
 
 ````
 # MPX: [Title]
