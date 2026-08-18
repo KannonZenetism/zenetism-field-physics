@@ -603,7 +603,7 @@ Code blocks do not appear for general prose emphasis. Prose emphasis belongs to 
 
 Inline backticks are generally avoided in canonical Zenetist prose.
 
-Backticks visually mark text as code, command syntax, filename syntax, or literal technical notation. When inserted randomly throughout prose, they create formatting noise, fragment the reading field, and make ordinary terminology appear mechanically or programmatically isolated.
+Backticks visually signal text as code, command syntax, filename syntax, or literal technical notation. When inserted randomly throughout prose, they create formatting noise, fragment the reading field, and make ordinary terminology appear mechanically or programmatically isolated.
 
 Inline backticks therefore do not appear in canonical Zenetist prose for general emphasis.
 
