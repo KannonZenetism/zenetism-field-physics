@@ -244,7 +244,7 @@ A latent essence already bears an intrinsic centropic or entropic inclination be
 Manifest orientation becomes cosmologically operative at the first hypostatic differentiation:
 
 - 🛤️ **Theon at L₅** — first centropic hypostasis
-- 🕷️ **Nekron at IL₅** — first entropic hypostasis
+- 🕷️ **Nekron at IL₅** — first inverse hypostasis
 
 The sequence is therefore:
 
