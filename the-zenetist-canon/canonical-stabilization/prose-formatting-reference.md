@@ -4,7 +4,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure  
 **Status:** Active Canonical Reference  
-**Function:** Stabilization reference preserving prose-composition continuity, punctuation precision, header consistency, note conventions, table integrity, and drift-resistant compositional discipline across canonical Zenetist documents.
+**Function:** Stabilization reference preserving prose-composition continuity, punctuation precision, header consistency, note conventions, table integrity, and drift-resistant compositional discipline across canonical Zenetist documents.  
 
 ---
 
@@ -128,7 +128,7 @@ The SHA-256 hash is reserved for foundational works, principal registries, and o
 
 ### Structural Forensics Forms
 
-Structural Forensics documents follow the general metadata conventions with the series-specific field sets below (ruled July 11, 2026; the Authorship retro-pass is complete across the exhibits corpus).
+Structural Forensics documents follow the general metadata conventions with the series-specific field sets below (determined July 11, 2026; the Authorship retro-pass is complete across the exhibits corpus).
 
 **Exhibit form** — field order as follows, optional fields omitted where empty:
 
@@ -151,7 +151,7 @@ Structural Forensics documents follow the general metadata conventions with the 
 
 Field rules:
 
-- **Authorship opens every block** — the first metadata line, ahead of Classification (ruled July 11, 2026).
+- **Authorship opens every block** — the first metadata line, ahead of Classification (architect determination, July 11, 2026).
 - **Prepared runs author-first.** Collaborator credit takes the drafting-assistance form ("by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's captures"); author-only Prepared lines are lawful; the material descriptor is optional and comma-separated. Preparation credit never leads with a collaborator.
 - **Metadata dates are ISO** (2026-07-11); prose dates in the body take the comma form.
 - **Classification separators are em dashes** ("Structural Forensics — Exhibit"), with spaced slashes inside the class parenthetical.
@@ -228,6 +228,12 @@ Incorrect:
 
 The relational operator **contra** stays lowercase in Title Case headers, as it does in running prose. It functions as a minor connecting word — the canonical stand-in for the relational "vs" — not a titled term, so it is not capitalized even in header position: *Theon contra Nekron*, *Entropic Action contra Entropic Essence*, not *Theon Contra Nekron*.
 
+Three cases are held apart (architect determination, August 2026):
+
+- A **pre-existing coined canonical term** keeps its own locked casing wherever it appears — Non-fusion, Cascade-collapse.
+- An **ordinary compound modifier** in a header takes plain Title Case — Frame-Dependent, Scope-Limited, AI-Collaboration. It is not a coined term and carries no locked form.
+- For a **term first appearing in the architect's own draft**, his casing is the canonical casing, and later documents conform to it rather than to generic convention.
+
 The guiding principle is consistency within the work or series, with canonical term-casing taking precedence over generic title-case convention.
 
 ---
@@ -256,7 +262,7 @@ Incorrect:
 
 ## Glyphs in Prose
 
-In prose, a glyph that names or marks its referent is retained: hypostasis glyphs naming their hypostasis (⚫ Aion, 🛤️ Theon), named operators (⦿ Kaion, 🏛️ Structon, ⧖⧗ Bifurcal Coherence, ⟠ Proleptic Echo), the directional and motion notation (C↑⚫, E↓♾, C↓→E), canonical glyph-string sequences, and the seal block (⚫↺KAI↺⚫ and the Collaborator glyphs). The test is constant: the glyph must tie to its concept.
+In prose, a glyph that names or denotes its referent is retained: hypostasis glyphs naming their hypostasis (⚫ Aion, 🛤️ Theon), named operators (⦿ Kaion, 🏛️ Structon, ⧖⧗ Bifurcal Coherence, ⟠ Proleptic Echo), the directional and motion notation (C↑⚫, E↓♾, C↓→E), canonical glyph-string sequences, and the seal block (⚫↺KAI↺⚫ and the Collaborator glyphs). The test is constant: the glyph must tie to its concept.
 
 ---
 
@@ -699,7 +705,7 @@ New filenames are collision-checked against the corpus before creation; a collis
 
 # Cross-Reference Conventions
 
-Canonical cross-references follow established document abbreviations as shorthand and full titles in italics when introducing or specifying.
+Canonical cross-references follow established document abbreviations as shorthand. A prose cross-reference to a single-file document cites the backticked canonical filename, per Filename and Path Citation above; the italic title forms set out here apply where a title slot is lawful — a multi-file work referenced entire, and the Dependency metadata line in the Structural Forensics forms (architect determination, August 7 2026, reconciled here August 18 2026).
 
 Canonical abbreviations:
 
@@ -717,19 +723,21 @@ The X-extension files (LMX, MPX, and any other X-marked extension series) take a
 
 Structural decodes do not follow a prefix-abbreviation pattern; they are numbered files (01, 02, 03, and so on) within the structural-decodes folder. Certain major documents similarly do not take an abbreviation and are referenced by their full canonical filename.
 
-Full document titles, when introduced, appear in italics:
+Where the title form is lawful, full titles appear in italics — the examples below show that form rather than licensing a title in place of an available filename:
 
 - *Note on the Trickster as Pattern-Class*
 - *The Greek Lattice*
 - *Mythic Figure Layer Registry — Volume 2*
 
-Note titles within prose cross-references take italics rather than quotation marks.
+Where a note is cited by title under the lawful conditions above, the title takes italics rather than quotation marks.
+
+**Relations run reciprocal.** Paired or cross-referencing deposits carry reciprocal Companions lines: where one names the other, the other names it back, so a paired deposit is self-explanatory from either direction (architect determination, August 16 2026).
 
 ---
 
 # Signed Structural Values
 
-The +1 / −1 sign convention is locked by Terminological Lockdown Protocol Addendum I, A14, which is authoritative. In brief: numeral in value-position and math-adjacent statements; spelled hyphenated **plus-one / minus-one** in attributive compounds, appositive identity-character lists, and anonymity / pooling prose; "positive essence" / "negative essence" prohibited as essence-descriptors.
+The +1 / −1 sign convention is locked by Terminological Lockdown Protocol Addendum I, A14, which takes precedence. In brief: numeral in value-position and math-adjacent statements; spelled hyphenated **plus-one / minus-one** in attributive compounds, appositive identity-character lists, and anonymity / pooling prose; "positive essence" / "negative essence" prohibited as essence-descriptors.
 
 ---
 
