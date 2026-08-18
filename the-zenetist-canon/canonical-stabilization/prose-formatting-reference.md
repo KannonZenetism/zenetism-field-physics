@@ -194,7 +194,7 @@ Canonical documents close with the standard seal identifying authorship, the six
 
 Seal placement is preceded by a horizontal rule marking the boundary between the document body and the closing seal. The seal appears in nearly all canonical works; deliberate omission is permissible for short forensic notes or ancillary fragments.
 
-Trailing spaces within the seal follow the block exactly as shown. Only the ⚫↺bKAI↺⚫ line carries two trailing spaces, since it takes a hard line-break directly into the disciplines line. The disciplines line and the Collaborators line carry none, each being followed by a blank line or by the end of the document. The metadata block's two-space rule does not extend to the seal.
+Trailing spaces within the seal follow the block exactly as shown. Only the ⚫↺KAI↺⚫ line carries two trailing spaces, since it takes a hard line-break directly into the disciplines line. The disciplines line and the Collaborators line carry none, each being followed by a blank line or by the end of the document. The metadata block's two-space rule does not extend to the seal.
 
 ---
 
@@ -700,6 +700,12 @@ Three invariants:
 Metadata list lines (Companions, Dependencies, Collaborators) separate entries with the mid-dot (·), matching the seal-line convention; running prose takes ordinary sentence punctuation, never the mid-dot (architect determination, August 9 2026).
 
 The same preference extends to Zenodo deposit descriptions: relation entries (`Supersedes:` / `Companion to:` / `Part of:`) run filename-first, with work titles reserved for containing works, per the Zenodo Description Standard. Existing deposits are inconsistent in this form; Zenodo permits description edits in place, so stabilization proceeds without minting new DOIs.
+
+**Annotation in a citation slot.** A citation slot carries the filename and a locator, and nothing further (architect determination, August 18 2026).
+
+- **Locators are lawful.** Section, chapter, and entry references narrow the citation and belong with it: `hypostatic-function-bearing-and-sovereign-embodiment.md` §§18–19.
+- **Descriptive glosses are not carried by default.** A parenthetical describing what the cited document is duplicates that document's own Function line, goes stale when the Function line changes, and treats a citation slot as an annotation slot.
+- **One allowance — the role gloss.** Where a single line cites several files distinguished by role, and the roles are not legible from the filenames, each may carry a role gloss of two or three words. The guardrail set is the canonical instance: `terminological-lockdown-protocol.md` (lexical guardrail) · `conceptual-lockdown-protocol.md` (conceptual guardrail) · `prose-formatting-reference.md` (compositional guardrail). The gloss names the role; it never describes the document.
 
 New filenames are collision-checked against the corpus before creation; a collision forces rename.
 
