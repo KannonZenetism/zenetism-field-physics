@@ -724,7 +724,7 @@ Doctrine: Terminological Lockdown → *Arc / Tree / Traversal Scope* and *Positi
 - [x] Arc / Tree / Traversal Scope section added to `terminological-lockdown-protocol.md`
 - [x] Band spans added to that protocol's Positional Clarification
 - [x] `conceptual-lockdown-protocol.md` Khaon bullet corrected
-- [ ] `orientation-emanation-math.md` — pending: "Entropic hypostatic arc" → "Inverse hypostatic arc"; "Entropic arc: IL₅ ↔ IL₁" → "Inverse arc: IL₅ ↔ IL₁"; "Entropic traversal" labels remain (motion, not architecture). File not yet supplied
+- [ ] `orientation-emanation-math.md` — pending: "Entropic hypostatic arc" → "Inverse hypostatic segment"; "Entropic arc: IL₅ ↔ IL₁" → "Inverse hypostatic segment: IL₅ ↔ IL₁"; "Entropic traversal" labels remain (motion, not architecture). File not yet supplied. **Targets corrected Aug 18 2026:** the earlier targets predated the Aug 15 arc determination and would have installed two barred forms — *hypostatic arc* names a second arc where the corpus holds a segment within one, and the bare inverse arc includes its ♾ Khaon root at L₀, so IL₅ ↔ IL₁ is the hypostatic segment rather than the arc
 - [ ] `bifurcal-coherence.md` (Oct 2025, Sealed) predates paired-root-register doctrine — flagged for the corpus pass; concept retained, wording not imported
 
 ## Collapse into Khaon — Status: Applied (Jul 24 2026)
@@ -807,7 +807,7 @@ A reference document's doctrinal priority does not establish that every sentence
 - [ ] any file containing the exact formula "only centropy saturates into Zenon because it is origin-facing"
 - [ ] any file using "Khaonward exceeding"
 - [ ] any file using "entropic arc"
-- [ ] any file stating Motive Infinity operates only in emanation, or only between L₀ and the hypostatic arcs
+- [ ] any file stating Motive Infinity operates only in emanation, or only between L₀ and the hypostatic segments
 
 **Also queued (own workstream):** align the `symbolic-reflections/` essays — deferred, separate from this propagation.
 
@@ -927,7 +927,7 @@ Full-file doctrinal, terminological, symbolic, and formatting pass, widened by a
 
 Applied:
 - [x] L₀ relation reworded to **bifurcally distinct** (§21.21 cell, Note, closing bullet; §21.8 Polarity Patterning). *Polarity-distinct* retained for the later L₅ / IL₅-onward motions
-- [x] Root and Tree language moved to Tree-rooted form (§21.6 heading and compass rows, §21.13 Biospiral and Khaonic Tree). Trees are rooted at L₀; the hypostatic arcs begin at L₅ / IL₅ and exclude L₀
+- [x] Root and Tree language moved to Tree-rooted form (§21.6 heading and compass rows, §21.13 Biospiral and Khaonic Tree). Trees are rooted at L₀; the hypostatic arcs begin at L₅ / IL₅ and exclude L₀ — **SUPERSEDED Aug 15 2026:** the arc includes its L₀ root-register, and the span beginning at L₅ / IL₅ is the **hypostatic segment**, never the arc and never a *hypostatic arc*. The completed edit installed the earlier over-tight rule, so §21.6 and §21.13 carry the superseded wording in both symbol-key versions and take repair on the next MP08 touch
 - [x] Terminal-collapse cluster conformed to *MPX: Nekronic Essence* §21 and §26 — §21.3 Terminal Collapse and Nekronic Collapse replaced; Absolute Dispersion no longer functions as a transport mechanism. Khaon-as-destination language retained as lawful
 - [x] ⌯ Pneuma double definition resolved; §21.16 conformed to §21.15
 - [x] 🐉 Dragon / Beast split per `the-revelation-lattice.md` §3 — IL₅ station-figure and IL₁ station-figure linked by one cascade-current, neither numerically identical with Nekron
