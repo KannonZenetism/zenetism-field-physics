@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Linguistic Stabilization Layer  
 **Status:** Drafted May 10 2026 — Active Canonical Reference  
-**Companion to:** `conceptual-lockdown-protocol.md` (conceptual guardrail) · `prose-formatting-reference.md` (compositional guardrail)  
+**Companion to:** `conceptual-lockdown-protocol.md` · `prose-formatting-reference.md`  
 **Function:** Master compositional stabilization layer preserving terminological continuity, directional precision, metaphysical consistency, symbolic distinction, and drift-resistant coherence across all Zenetist disciplines.  
 
 ---
@@ -407,7 +407,7 @@ Therefore, when **Source** appears in older or poetic language to refer to retur
 
 The word **Source** carries two senses that must not be conflated. Before applying any restriction, determine which sense is in play.
 
-**Aion-referent Source** — where Source names the still root, Zero, or Absolute Potential. This sense resolves to ⚫ **Aion**, the still root, or the preferred Aion-language below.
+**Aion-referent Source** — where Source names the still root, Zero, or Absolute Potential. This sense resolves to ⚫ **Aion**, the still root, or the preferred Aion-language set out in *Preferred Aion-Language*.
 
 **Authorship-referent Source** — where Source names the originator of a work or signal, not Aion. This sense resolves to:
 
@@ -780,7 +780,7 @@ Where *along the supernal arc* reads better than a flat replacement, the accurat
 
 Retained: supernal and subversal as adjectives modifying what is located there — supernal cognition, supernal Forms, supernal beings, subversal archetypes, subversal flame.
 
-Operative reference: MP08 §21.4.1, *Note on Supernal / Subversal*, and the Terms to Avoid chart at §21.4.1. The structural claim beneath this entry is held in the *Arc and Position Constraint* of the Conceptual Lockdown Protocol.
+Operative reference: MP08 §21.4.1, *Note on Supernal / Subversal*, and the Terms to Avoid chart at §21.4.1. The structural claim this entry enforces is held in the *Arc and Position Constraint* of the Conceptual Lockdown Protocol.
 
 **Scope of application.** Prospective and conform-on-touch. Existing instances remain lawful as inherited wording and are corrected as each file is opened for other work. No corpus-wide sweep is required.
 
@@ -1009,7 +1009,7 @@ Examples:
 
 "Contra" preserves distinction and directional contrast without collapsing polarity into simplistic adversarial framing.
 
-**Scope correction (architect determination, August 18 2026).** *Structurally opposed to* stood in the preferred list above and is withdrawn. Opposition-language carries the antagonism this protocol exists to refuse, and the same objection that puts **contra** in place of **versus** reaches it. Where the centropic / entropic structural relation is meant, the canonical forms are given in the Inversion Language Restriction below. *Polarity-distinct from* stands, scoped to the enacted polarity beginning at L₅ / IL₅ — never to ⚫ Aion and ♾ Khaon themselves, which are **bifurcally distinct**.
+**Scope correction (architect determination, August 18 2026).** *Structurally opposed to* stood in the preferred usage list of this protocol and is withdrawn. Opposition-language carries the antagonism this protocol exists to refuse, and the same objection that puts **contra** in place of **versus** reaches it. Where the centropic / entropic structural relation is meant, the canonical forms are given in the Inversion Language Restriction that follows. *Polarity-distinct from* stands, scoped to the enacted polarity beginning at L₅ / IL₅ — never to ⚫ Aion and ♾ Khaon themselves, which are **bifurcally distinct**.
 
 ---
 
@@ -1920,7 +1920,7 @@ No construction may present the origin's standing as one side of a live fight (a
 - *the contest is over preservation and legibility* → **what is at stake** is preservation and legibility
 - write of what is **at stake**, what is **exposed to loss**, or what a later account **obscures** — never of a contest, a competing claim, or a side
 
-This restriction is kin to the Origin-Intact Language Rule below: both refuse framings in which the origin's standing is presented as unsettled.
+This restriction is kin to the Origin-Intact Language Rule that follows: both refuse framings in which the origin's standing is presented as unsettled.
 
 ---
 
@@ -2208,7 +2208,7 @@ It is structural preservation.
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Protocol Addendum  
 **Status:** Active — July 4 2026 — integrated into this protocol; determination bases are recorded in the continuity log (`source-purge-and-prayer-integration-continuity-log.md`)  
-**Scope:** Each section below is a settled architect determination. The Held Open section lists questions deliberately left undetermined; nothing in this addendum licenses propagation on those items.
+**Scope:** Each section that follows is a settled architect determination. The Held Open section lists questions deliberately left undetermined; nothing in this addendum licenses propagation on those items.
 
 ---
 
@@ -2345,7 +2345,7 @@ The function-bearing doctrine fixes a graded vocabulary family. These terms are 
 
 Function-bearing must not imply ownership, possession, overwrite, or bearer erasure. The bearer retains its own essence-identifier, structural signature, and sovereignty.
 
-**Restricted legacy language:** "hypostatic incarnation" and "Genuine Hypostatic Instantiation" are retained only when quoting or correcting legacy sources, and are otherwise replaced by the graded vocabulary above.
+**Restricted legacy language:** "hypostatic incarnation" and "Genuine Hypostatic Instantiation" are retained only when quoting or correcting legacy sources, and are otherwise replaced by the graded vocabulary of A16.
 
 As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
 
