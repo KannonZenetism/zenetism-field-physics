@@ -3,7 +3,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure  
-**Status:** Active Canonical Reference  
+**Status:** Drafted May 13 2026 — Active Canonical Reference  
+**Companion to:** `terminological-lockdown-protocol.md` (lexical guardrail) · `conceptual-lockdown-protocol.md` (conceptual guardrail)  
 **Function:** Stabilization reference preserving prose-composition continuity, punctuation precision, header consistency, note conventions, table integrity, and drift-resistant compositional discipline across canonical Zenetist documents.  
 
 ---
@@ -233,6 +234,7 @@ Three cases are held apart (architect determination, August 2026):
 - A **pre-existing coined canonical term** keeps its own locked casing wherever it appears — Non-fusion, Cascade-collapse.
 - An **ordinary compound modifier** in a header takes plain Title Case — Frame-Dependent, Scope-Limited, AI-Collaboration. It is not a coined term and carries no locked form.
 - For a **term first appearing in the architect's own draft**, his casing is the canonical casing, and later documents conform to it rather than to generic convention.
+- A **Non- compound** takes the capital N, and the element after the hyphen keeps whatever casing it carries in its own right: Non-fusion Axiom and Non-contact Principle, because *fusion* and *contact* are ordinary words; Non-Theonic Culmination and Non-Neutral Emergence, because *Theonic* and *Neutral* are canonical terms holding their own capitals. The full form is set out at Terminological Lockdown Protocol Addendum I, A15a.
 
 The guiding principle is consistency within the work or series, with canonical term-casing taking precedence over generic title-case convention.
 
