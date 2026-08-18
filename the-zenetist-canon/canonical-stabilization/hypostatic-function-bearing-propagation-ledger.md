@@ -138,7 +138,7 @@ Universe-locality belongs to its loci.
 
 No locus becomes the original-instance merely because it appears within the being's processional arc.
 
-The processional arc therefore determines the higher-register relation through which completed integration acclivates toward L₄ / L₅, or through which inverse completion declivates toward IL₄ / IL₅.
+The processional arc therefore determines the register-relation through which completed integration acclivates toward L₄ / L₅, or through which inverse completion declivates toward IL₄ / IL₅.
 
 The final local chronology does not choose this arc.
 
