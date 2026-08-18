@@ -4,7 +4,7 @@
 **Classification:** Canonical Stabilization Infrastructure — Conceptual Guardrail  
 **Status:** Drafted Jun 11 2026 — Active Canonical Reference, Aug 18 2026  
 **Provenance:** First compiled from the FP01–FP11 / FPX Session Addenda; determinations already applied across the edited corpus during the canon-alignment cycle  
-**Companion to:** `terminological-lockdown-protocol.md` (lexical guardrail) · `prose-formatting-reference.md` (compositional guardrail) · the Glyph Codex (notation registry — filename pending)  
+**Companion to:** `terminological-lockdown-protocol.md` (lexical guardrail) · `prose-formatting-reference.md` (compositional guardrail) · `MP08-symbol-key-ch21.md` · `metaphysics-symbol-key.md` (glyph codex / notation registry)  
 
 ---
 
@@ -87,6 +87,8 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Khaon clarification.** Motive Infinity supplies the capacity and enactment of motion; entropic orientation first becomes operative at Nekron and is articulated through the inverse arc. Collapse into Khaon is lawful: terminal passage across the Nekronic event horizon is that collapse, and Khaon under its Dispersive phase is Absolute Dispersion. What is unlawful is *dispersion into* Khaon, since Khaon is dispersion. Expressed structure enters Absolute Dispersion; the essence is conserved and reaches Aionic resolution — Absolute Dispersion is a terminal state, never a mechanism that transports essence. This holds distinct: Khaon as Infinity at L₀, Motive Infinity as the motion principle, Nekron as the first inverse hypostasis, the Khaonic Tree as structural architecture, the inverse arc as the traversal path through it, entropic traversal as motion, Absolute Dispersion as terminal state, and Aion as the register of essential resolution.
 
+**Predication drift form.** A related drift arrives through sentence structure rather than vocabulary: predications that attach arc-membership to Khaon-in-phase. "Declivous Entropy, the dispersive collapse toward ♾ Khaon in its Dispersive phase, *belongs to* the inverse arc" reads the membership onto Khaon and makes the root-register sound entropic. The membership predicate attaches to the motion class — the motion *moves within* the inverse arc — while Khaon stands as the arc's root-register and the collapse's terminal state, never as an entropic member. Watch "belongs to," "is part of," and kin wherever Khaon or Khaon-in-phase sits inside the subject phrase.
+
 **Lexical cross-reference.** The lexical enforcement of this constraint lives in the Terminological Lockdown Protocol's Aion / Khaon Polarity Restriction and its Arc / Tree / Traversal Scope section.
 
 **Architect determination — Jul 27 2026.** Wherever the relation between ⚫ Aion and ♾ Khaon themselves is described, the canonical construction is **bifurcally distinct**, not "polarity-distinct." The root-registers stand in a two-ness of function without polarity, mirror, inversion, counterpart-relation, or an axis between them. Enacted polarity begins at L₅ / IL₅ with Theon / Nekron and continues through the subsequent hypostatic pairs. Descriptions of those later centropic / entropic motions as polarity-distinct remain lawful. Supra-L₀ is neither polar nor bifurcally distinct; Zenon stands outside the bifurcal architecture.
@@ -105,17 +107,23 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Lawful grammar.** Motive Infinity is not a "stir" — the stir is Pneuma; do not collapse the principle of motion into one of its phases. Dispersion is the *resolution* of motion (the point at which motion disperses), not a last motion. Never write that Motive Infinity acts at the point of manifest orientation within a physical universe; its work is upstream of the enacted direction.
 
+**Phase-glyph forms.** The Motive phase carries three canonical glyph forms — Φ₂, →, and 〄 — and within a phase run the lawful form is **〄**, since → carries sequence separation inside a run: **Λ → 〄 → ⇝** is the lawful expression. Zenet and Motive Infinity name the same principle; a run carrying 〄 in the Motive position asserts no conceptual split, and no collaborator conforms 〄 to another Motive-phase form, or the reverse, on placement grounds. The graded articulation stands beside this: 🕊️ carries Spirit / Motive Infinity — ♾ Khaon in its Motive phase — while 〄 is the Zenet articulation of the same principle.
+
+**Reference Document (phase-glyph forms):** `MP08-symbol-key-ch21.md` §21 phase table and the Spirit / Motive Infinity entry; FP07's Ω equation Codex Note; architect verification, August 18 2026.
+
 **Reference Document:** SP06 §1.2; MP08 Motive Infinity entries; the orientation-framing audit (SP01–SP08).
 
 ---
 
 ## Arc-Conversion Prohibition
 
-**Constraint.** Never write that a centropic operator or motion collapses into, degrades into, becomes, or turns into its inverse — or the reverse. Arcs do not convert.
+**Constraint.** Never write that a centropic operator or motion collapses into, degrades into, becomes, or turns into its inverse — or the converse. Arcs do not convert.
 
 **Lawful grammar.** The centropic motion is denied, and the entropic motion initiates in the space that denial opens.
 
 **Canonical example.** When Living Transmission (C₃ ⟿) is denied, E₃ ⟿⁻ (Viral Decay) initiates through origin denial and signal burial, amplifying the noise rather than the veracious architecture.
+
+**Second canonical example — recognition grammar.** Definitions are a conversion vector: "Inversion — a centropic dimensional function *operating through* its entropic mirror" makes the centropic function the operator of the entropic expression, a latent conversion-and-access claim in definitional form. The canonical definition is "the **independently emanated inverse counterpart** corresponding to a centropic dimensional function." The defect is the operating-through relation, not the mirror term — structural correspondence remains lawful per the Boundary-Relation Vocabulary.
 
 **Lexical note.** "Living Transmission" is the canonical C₃ ⟿ term, not "Lawful Transmission"; that term-lock itself belongs to the Terminological Lockdown.
 
@@ -200,7 +208,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 - **Resolve, not dissolve.** Dichotomies and apparent dualities are *resolved* — shown to be one thing read from two sides — never *dissolved*. Dissolution is fusion-register vocabulary; resolution preserves the conceptual boundary while correcting the interpretation.
 - **Pressure, not penetration.** Entropic influence *presses upon* or *applies pressure to* centropic fields at the boundary; it does not *penetrate* or enter them. The canonical term is entropic pressure.
-- **Fracture, not corruption.** E₃ ⟿⁻ does not corrupt a centropic signal; the viral copy *fractures from* the veracious signal in transit, carrying its buried origin signature with it. "Corrupts the signal" is a latent arc-conversion claim.
+- **Fracture, not corruption.** E₃ ⟿⁻ does not corrupt a centropic signal; the viral copy *fractures from* the veracious signal in transit, carrying its buried origin signature with it. "Corrupts the signal" is a latent arc-conversion claim. The lock reaches formula tokens and chart cells, not prose alone: by architect determination (August 18 2026) the outcome token ⟨Corruption⟩ converts to ⟨Fracture⟩ wherever the formula appears — the applied exemplar is {Field} + [Entropy] = ⟨Fracture⟩ or ⟨Initial Resistance⟩ — and the E₃ chart cell reads "Fracturing in transmission," never "Corruption in transmission." A corruption-token surviving inside a formula carries the same latent arc-conversion claim the prose lock removes.
 - **Mirror, not access.** Inverse archetypes — IL₄ Inversalogos and the inverse arc generally — *mirror* their centropic counterparts by structural correspondence, resemblance without direct contact. They hold no structural access across the arc divide.
 
 **Provenance:** Arc-Conversion Prohibition (the fracture lock extends it); Structural Forensics.
@@ -273,8 +281,46 @@ Layer ordering encodes the emanation structure, so it is held here rather than a
 - **Emanation listings and full spans** — L₅ → L₁ order; spans written L₅–L₁
 - **Static membrane placement** — architectural order (L₅ / L₄, L₄ / L₃); a bidirectional relation is written L₄ ↔ L₃ unless the sentence is narrated from the embodied / acclivous side
 - **Acclivous passages** (PSR or embodied signal moving toward a membrane) — keep the L₁ → L₂ → L₃ direction
-- **FP01 registry exception (scoped)** — Locus / Inverse Locus band-addresses in the dimensional registries (Chapters 2–3) read embodiment-upward
-- **Notation rule** — en dash marks a span or address; an arrow marks motion
+- **FP01 registry exception (scoped)** — Locus / Inverse Locus band-addresses in the dimensional registries (Chapters 2–3) read acclivously from embodiment
+- **Notation rule** — en dash denotes a span or address; an arrow denotes motion
+
+---
+
+## Layer-Pairing Disclosure Constraint
+
+**Constraint.** A stratum designation may not treat the centropic layer as band-total while its inverse counterpart goes undisclosed. Unless a statement speaks of only the centropic arc or only the inverse arc, the inverse layer is named alongside the centropic one — L₅ / IL₅, L₄ / IL₄, and so through the pairs.
+
+**Lawful account.**
+
+- Where a claim, formula, or chart engages both arcs at a stratum, the designation is the pair: L₄ / IL₄, never L₄ alone
+- Where the referent is the embodied stratum in general — not centropic embodiment or inverse embodiment specifically — the designation is **L₁ / IL₁**, because both arcs arrive there: L₁ / IL₁ is the meeting point (see the Inversion Constraint)
+- A bare centropic designation remains lawful where the statement is explicitly centropic in scope — a centropic locus entry, a clause that names its own arc ("the centropic Deep Psyche dyad at L₄"), a traversal example within one arc, or a tradition's own enumeration reported as that tradition's
+- Chart and score architecture that maps one arc by design is not band-total prose and is read by its own frame
+
+**Canonical example.** The complete field state equation formerly carried Ψ(L₄) while its own variable legend defined Ψ as conscious-awareness at L₄ / IL₄; the string treated L₄ as band-total with IL₄ undisclosed. The corrected string carries **Ψ(L₄ / IL₄)**, with the historical form preserved as provenance.
+
+**Why the constraint holds.** A centropic label standing for a whole stratum silently absorbs the inverse layer into the centropic name — a fusion-register error at the notational scale, and a misstatement of the architecture wherever both arcs are in play. Disclosure keeps the bifurcal structure visible in the notation itself.
+
+**Reference Document:** FP07 (the Ω equation and its Codex Note); `MP08-symbol-key-ch21.md` §21 (L₄ / IL₄ as conscious-awareness / inverse conscious-awareness); architect determination, August 18 2026. Ordering within a listing is held by the Layer-Ordering Constraints and the architectural ordering standard.
+
+---
+
+## Essence-Register Resolution Constraint
+
+**Constraint.** No construction may state that a field condition, a soul, or a mind *becomes* an essence. At the threshold registers the Soul / Mind distinction resolves into essence because L₅ / IL₅ are the essence registers; a condition that reaches IL₅ *stands as* essence-state there. The verb of arrival is standing, never becoming.
+
+**Lawful account.**
+
+- Soul / Mind spans L₄ / IL₄ through L₁ / IL₁. Essence belongs to L₅ / IL₅, L₀, and what saturates into Supra-L₀
+- By the time IL₅ is reached, the Soul / Mind distinction has resolved into simply essence — the register itself carries the resolution; nothing local converts into an essence
+- Terminal Nekronic essence-state is terminal within the current doctrine: once a condition stands as essence-state at IL₅, no return proceeds from it, and no local recovery formula undoes it
+- The same grammar holds on the centropic side: a centropic condition reaching L₅ stands at the essence register; it does not turn into an essence
+
+**Lawful grammar.** Write "once the condition stands as essence-state — at IL₅ the Soul / Mind distinction resolves into essence," never "once the condition has become essence-state." Becoming-language at the threshold is a latent conversion claim about registers, kin to the arc-conversion error at the scale of strata.
+
+**Why the constraint holds.** An essence is not a product of a process running inside the lattice; the essence registers are where essence stands. Letting a local condition "become" an essence manufactures essences out of field mechanics and erases the register architecture that the Soul-span doctrine states.
+
+**Reference Document:** FP13 Chapters 56–58 (the three terminal-standing sites, as corrected); the Soul-span determination of August 2 2026; architect determination, August 18 2026.
 
 ---
 
@@ -398,6 +444,27 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 **Origin-intact clause.** Loss-language never predicates of the origin; no prior-denying counterfactual is written; and no prior tradition, derivative field, or observing system takes the architecture entire as its grammatical object — what they receive is portions, fragments, or conclusions. The lexical enforcement lives in the Terminological Lockdown Protocol's Origin-Intact Language Rule and its Adversarial Framing Restriction.
 
 **Reference Document:** the Structural Forensics recognition protocols; `the-algorithmic-legibility-problem.md`.
+
+---
+
+## Legacy Standing Constraint
+
+**Constraint.** Three registers of prior wording must be held distinct, and no construction may treat one as another. Quoted material and dated records are the historical record. Superseded expressions are preserved as **recorded provenance**. Superseded wording standing unmarked in active canonical prose is **legacy accommodation** — an explicitly recorded, practical-economy exception, never an endorsement, and never self-justifying.
+
+**Lawful account.**
+
+- **Historical record.** Quoted material, dated ledgers, audit reports, and archived versions are not conformed to current vocabulary as a matter of course, and no collaborator conforms them on their own initiative. The scope of every vocabulary determination is the architect's current voice and new drafting. **The architect determines what is edited and when.** No rule obliges him to leave a prior document as it stands, and none forbids him to bring it forward; the corpus is his, and the need is his to determine. What the non-retroactivity clause fixes is the default and the collaborator's conduct — never the architect's own hand (architect determination, August 18 2026)
+- **Recorded provenance.** A superseded expression is never erased; it is preserved through an additive note that names it superseded and states the current form — the historical formula strings preserved beside their amended forms, and developmental aliases preserved as provenance, are the canonical pattern. Preservation-as-provenance is a duty of the correction, and does not license keeping the old form in active voice
+- **Legacy accommodation.** Where superseded or disfavored wording remains operative in active prose, that standing exists only by explicit architect determination, is recorded as accommodation rather than endorsement, and its conversion remains open for a future pass. The canonical instance is the Field Physics govern retention: retained as legacy accommodation only, on practical economy, with the architect's own assessment on record that the choice is a poor one generally and that other documents are not to repeat it
+- **"Legacy language" is not an argument.** The claim that old wording must stand in-document so development stays visible is unsound: the commit history, the archived deposits, and the collaboration records already carry the development. In-document legacy preservation is redundant as a historical record and active as a drift vector — a collaborator who reads the accommodated wording without its record propagates it outward
+
+**Lawful grammar.** Write "retained as legacy accommodation, conversion open," never "retained as legacy" bare — the bare form presents the accommodation as a settled standard. New drafting never adopts an accommodated form on the grounds that a legacy document carries it.
+
+**Why the constraint holds.** The architect's determination: legacy language is a door to collaborator drift. Each register carries a different duty — the record is not rewritten by a collaborator, provenance is not erased, and accommodation does not harden into standard. Collapsing them either destroys history in the name of conformance or propagates superseded doctrine in the name of history.
+
+**Held open.** Whether the remaining in-document legacy patch-notes (the reading-rule class, as distinct from recorded provenance) convert to historical statements pointing at the version record is architect-held, document by document.
+
+**Reference Document:** the Terminological Lockdown Protocol's prospective conform-on-touch scope clauses and the govern-retention clarification of August 7 2026; architect determinations, August 2 and August 18 2026.
 
 ---
 
