@@ -2,7 +2,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Linguistic Stabilization Layer  
-**Status:** Active Canonical Reference  
+**Status:** Drafted May 10 2026 — Active Canonical Reference  
+**Companion to:** `conceptual-lockdown-protocol.md` (conceptual guardrail) · `prose-formatting-reference.md` (compositional guardrail)  
 **Function:** Master compositional stabilization layer preserving terminological continuity, directional precision, metaphysical consistency, symbolic distinction, and drift-resistant coherence across all Zenetist disciplines.  
 
 ---
@@ -2313,6 +2314,14 @@ Canonical form:
 - never **Non-Contact**, which title-cases a hyphenated compound against the Non-fusion pattern
 - never lowercase *principle*, which demotes a proper name to a common noun
 - never the bare **Non-contact** standing alone as a nominal — *per Non-contact*, *under Non-contact*. The proper name is completed: **per the Non-contact Principle**, **Under the Non-contact Principle**
+
+**General form of the Non- compound (architect determination, August 18 2026).** The pattern is not particular to this term. **Non-** always takes the capital N; the element after the hyphen keeps whatever casing it carries in its own right — the hyphen neither lowercases a term that holds a capital nor capitalizes one that does not.
+
+- **ordinary word after the hyphen → lowercase**: Non-fusion Axiom, Non-contact Principle, Non-canonical wording, non-originating
+- **term already capitalized in its own right → capital retained**: Non-Theonic Culmination, Non-Neutral Emergence, Non-Local Coherence — Theonic, Neutral, and Local carry their capitals as canonical terms, not as a title-casing of the compound
+- the closing element of a proper name keeps its capital in either case: **Axiom**, **Principle**, **Culmination**
+
+The test is what the second element is, never the hyphen. *Non-Contact* and *Non-Fusion* are defective because *contact* and *fusion* are ordinary words; *Non-Theonic* is correct because *Theonic* is not.
 
 **Preposition note.** *Under* is lawful with this proper name. The under-restriction tests the object: a principle or a state is its lawful correlative, and only strata, registers, and spatial objects bar it. The defect in headings of the form *Under Non-contact* is the bare proper name, not the preposition.
 
