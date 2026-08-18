@@ -4,7 +4,7 @@
 **Classification:** Canonical Stabilization Infrastructure — Conceptual Guardrail  
 **Status:** Drafted Jun 11 2026 — Active Canonical Reference, Aug 18 2026  
 **Provenance:** First compiled from the FP01–FP11 / FPX Session Addenda; determinations already applied across the edited corpus during the canon-alignment cycle  
-**Companion to:** the Terminological Lockdown Protocol (lexical guardrail) and the Glyph Codex (notation registry)  
+**Companion to:** `terminological-lockdown-protocol.md` (lexical guardrail) · `prose-formatting-reference.md` (compositional guardrail) · the Glyph Codex (notation registry — filename pending)  
 
 ---
 
