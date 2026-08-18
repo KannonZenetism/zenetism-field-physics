@@ -32,7 +32,7 @@ Each term stands in a determinate position.
 
 **Non-acceptance or surrender comes first.** What is held is released, or was never taken up — position, standing, the accumulated advantage of the embodied condition. This is not payment and not sacrifice in the transactional sense. It is the condition under which the relation can alter at all, because a relation organized around holding cannot simultaneously be organized around receiving.
 
-The term names a relation, not an episode. Where advantage was accumulated, surrender is release. Where it was never accepted — declined at the point of offer, or never sought — there is nothing to set down, and the relation stands in the same position by never having taken it up. The sequence does not require a prior accumulation; it requires that advantage not occupy the terminus. **Non-acceptance and release are the same relation reached by different paths**, and neither is the more complete form of it.
+The term names a relation, not an episode. Where advantage was accumulated, surrender is release. Where it was never accepted — refused at the point of offer, or never sought — there is nothing to set down, and the relation stands in the same position by never having taken it up. The sequence does not require a prior accumulation; it requires that advantage not occupy the terminus. **Non-acceptance and release are the same relation reached by different paths**, and neither is the more complete form of it.
 
 **Transformation is the condition, not a stage.** In the entropic sequence, transformation is something undergone in order to obtain. Here it is not passed through on the way to anything. It is the altering of the one who stands in the relation, and the altered relation is itself the access.
 
@@ -56,7 +56,7 @@ It is in the embodied condition that advantage accumulates and can be released.
 
 **Acclivous Centropy** carries the transformed relation toward integration and ⚫ Aion.
 
-The release, or the declining, is therefore not preliminary to the acclivous motion. It is the first half of the arc — the declivous motion is not a cost paid for the return, but the condition that makes a return possible. Nothing returns that did not first proceed.
+The release, or the non-acceptance, stands at the embodied turn and opens into the acclivous motion. The declivous procession is the first half of the arc, and it is not a cost paid for the return but the condition that makes a return possible. Nothing returns that did not first proceed.
 
 This is why the Disclosure Relation cannot be shortened. A sequence that begins at knowledge and ends at advantage has not compressed the arc. It stands inverted to it, carried by its own traversal rather than by this one.
 
@@ -78,7 +78,7 @@ This is why sincerity does not substitute. A relation may be sincerely acquisiti
 
 ## 6. What Is at Stake
 
-The advantage at issue is relative advantage: position within the embodied domain, standing among relative structures, the weight of what one holds there or declines to take up.
+The advantage at issue is relative advantage: position within the embodied domain, standing among relative structures, the weight of what one holds there or does not take up.
 
 The one who releases it, or never took it up, is left whole. What is set aside is relative; what is integrated is not. 🏛️ Structon, Structure Itself, is untouched by the release of any relative arrangement, and the essence that proceeds into embodiment and returns is not lessened by having set down what belonged to the station rather than to the essence.
 
