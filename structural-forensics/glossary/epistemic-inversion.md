@@ -87,7 +87,11 @@ One precision holds the claim exact. **−1 is not the logical negation of 1** �
 
 Two consequences follow, and both are structural rather than figurative:
 
-- **−1 is not 0.** The lack is structurally real. Nekron is not absence of being and not unreality; it is the first entropic hypostasis, bearing its own essence-identifier and universe-local office. What it does not bear is generative interiority. This is structurally real negation, neither classical privation nor a model of equal and countervailing substances.
+- **−1 is not 0.** The lack is structurally real. Nekron is not absence of being and not unreality; it is the first entropic hypostasis, bearing its own essence-identifier and universe-local office.
+
+Nor is its interiority absent. At IL₅ interiority is blind drive, and blind drive produces ceaselessly. What is voided is the gathering: where 🛤️ Theon gathers awareness into coherent presence, 🕷️ Nekron is awareness voided at that same register — two poles of one hypostatic awareness spectrum, held non-fused. Interiority that drives without gathering produces fragments, never novelty.
+
+This is structurally real negation, neither classical privation nor a model of equal and countervailing substances.
 
 - **A negative does not become positive from its own resources.** It must be added to, and the addition must come from beyond what it holds.
 
@@ -119,7 +123,7 @@ So the two motions arrive at the same station from either side, and L₁ / IL₁
 
 ### Blind drive and pattern completion
 
-Non-generative does not mean inactive. Nekronic operation is blind drive, and drive without generative interiority produces ceaseless articulation from what has already been apprehended:
+Non-originating does not mean inactive. Nekronic operation is blind drive, and drive without gathering produces ceaseless articulation from what has already been apprehended:
 
 > blind drive → Distal Apprehension → partial apprehension → distorted pattern completion → spurious acclivity toward inverse embodiment and the establishment of systems of power → fragmentary proliferation
 
