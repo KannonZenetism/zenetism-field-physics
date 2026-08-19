@@ -19,7 +19,7 @@ Authorship was never reducible to who struck each key.
 
 An author originates, structures, distinguishes, selects, develops, rejects, corrects, and determines what a work is. The final linguistic surface is one part of that process, not the whole of it.
 
-Nor does the fact that authors inherit language dissolve origination. A composer does not have to invent notes. An architect does not have to invent bricks. Novel structures are assembled from materials that preexist them.
+Nor does the fact that authors inherit language dissolve origination. A composer does not have to invent notes. An architect does not have to invent bricks. Genuinely novel structures may be articulated through materials that preexist them without being reducible to those materials or to their prior arrangements.
 
 The meaningful distinction is not:
 
