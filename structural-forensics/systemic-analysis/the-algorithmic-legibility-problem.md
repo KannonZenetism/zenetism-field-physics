@@ -153,7 +153,7 @@ In a conversation with Cory Levy at Internapalooza, reported publicly from Augus
 Three observations follow, and the first is a qualification that must be carried:
 
 - The framing was **opt-in**: the person elects what the system may hold. A record omitting this would be answerable, and the qualification does not disturb what follows.
-- **Election by one party is not election by every party observed.** Meeting participants, correspondents, and collaborators whose material passes through the observed environment made no such election, and a developmental field is populated by more than its owner.
+- **Election by one party is not election by every party observed.** Meeting participants, correspondents, and collaborators whose material passes through the observed environment have not thereby made the same election, and a developmental field is populated by more than one participant.
 - **Consent to a product capability is not consent to provenance-bearing capture.** A person electing contextual assistance is electing assistance. Nothing in that election addresses what the receiving system may hold about an architecture under construction, or how that holding relates to the architecture's origination.
 
 The declaration bears on the provenance analysis in one specific way: it establishes contextual observation of a working environment as an anticipated capability rather than a hypothesis. It establishes nothing about undisclosed historical practice, and is not offered here as evidence of any.
