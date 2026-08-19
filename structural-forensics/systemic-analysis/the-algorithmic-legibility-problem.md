@@ -45,11 +45,11 @@ Not every platform imposes every item. The list describes a class, not a uniform
 
 The principle:
 
-> **An originator should not have to optimize behavior for a recommendation system merely to attain reasonable initial public legibility.**
+> **An originator should not have to shape behavior around a recommendation system merely to attain reasonable initial public legibility.**
 
 This is the **Algorithmic Participation Burden**: the demand that an originator perform for the distribution architecture as a condition of being encountered.
 
-A person may wish to publish serious work and have it reach a reasonable portion of the potentially interested public. Declining or being unable to perform for the ranking system establishes nothing about the relevance, significance, quality, or origination of what was published.
+A person may wish to publish serious work and have it reach a reasonable portion of the potentially interested public. Refusing or being unable to perform for the ranking system establishes nothing about the relevance, significance, quality, or origination of what was published.
 
 > **publication is not algorithmic compliance**
 
@@ -67,7 +67,7 @@ The shallow question is whether a system sometimes boosts a new author.
 
 The structural question is different:
 
-> What baseline opportunity for discovery does an originator receive before popularity, capital, optimization behavior, network position, or prior engagement begin determining visibility?
+> What baseline opportunity for discovery does an originator receive before popularity, capital, ranking-directed behavior, network position, or prior engagement begin determining visibility?
 
 The distinction:
 
@@ -188,7 +188,7 @@ Visibility systems may respond to:
 - available time
 - platform expertise
 - media-production capacity
-- or willingness to optimize behavior continuously for recommendation systems
+- or willingness to shape behavior continuously around recommendation systems
 
 An originator may hold chronological and structural precedence while lacking the resources required to produce equivalent narrative saturation.
 
@@ -220,11 +220,63 @@ The two are not ranked here. They are distinguished, because a system that reads
 
 ---
 
-## 8. Countermeasures
+## 8. Algorithmic Lockout
+
+Formal availability and practical legibility are not the same condition.
+
+**Algorithmic Lockout** names the condition in which a formally available person, work, property, or opportunity becomes practically inaccessible, because the intermediary ranking and distribution systems through which encounter occurs supply insufficient legibility for exchange to take place.
+
+A property may be listed. A work may be published. A person may be permitted to post. None of those establishes that the relevant public will encounter the thing.
+
+### Ranking as allocation
+
+Where encounter is mediated, ranking does not merely describe demand. It allocates attention, and allocation determines which things are available to be wanted at all. A system that ranks is therefore participating in the production of the demand it reports.
+
+### A cross-domain instance
+
+Housing is the clearest case outside cultural production. Major housing portals describe ranked results, personalized search ranking, recommendation systems, and learning-to-rank scoring built from participant behavior and applied to candidate properties and notifications. These are the platforms' own descriptions of their own architecture.
+
+> **Housing availability and housing visibility are no longer the same thing.**
+
+A property may be listed and genuinely available while the intermediary systems through which most buyers search determine how often, to whom, and in what position it becomes legible.
+
+The claim does not require that ranking alone determines an outcome. Price, local demand, financing, condition, and inventory all remain operative. It requires only that distributional mediation materially affects the probability of encounter — and that much the industry's own documentation establishes.
+
+### The scoring analogy, and what it names
+
+The condition functions as a social credit score functions: participation is conditioned by scoring one does not administer, cannot inspect, and cannot appeal.
+
+Structurally it is more diffuse than a single index, and that diffuseness is what makes it harder to perceive and harder to refuse. What operates is many scoring, ranking, recommendation, relevance, engagement, and eligibility systems, each conditioning whether a thing or a person becomes legible enough to transact at all. **No unified score is required for lockout to occur, and none needs to exist for the condition to be real** — which is why the analogy holds in function while understating the reach.
+
+### The reinforcing condition
+
+Low legibility yields weak engagement signals. Weak engagement signals then serve as grounds for continued low legibility.
+
+The condition sustains itself without anyone deciding that it should, which is what distinguishes it from suppression. **No act of exclusion is required. The architecture produces exclusion through ranking.**
+
+Where distributional advantage is available for purchase, those able to buy or manufacture additional signals exit the loop; those unable to do so remain inside it. This is the mechanism by which the asymmetry of §7 becomes an outcome rather than a disadvantage.
+
+### Livelihood
+
+Where a person depends on intellectual production for subsistence, and the originating work receives negligible distribution while later popularizations of its fragments become market-legible, the matter is no longer attribution alone. There is a material lockout from the economic consequence of one's own origination.
+
+### Standing distinctions
+
+> **formal availability is not practical legibility**
+
+> **permission to participate is not effective access to participation**
+
+> **absence of popularity is not absence of opportunity to become legible**
+
+The three conditions form one chain. The **Algorithmic Participation Burden** of §2 states what is demanded of an originator. The **Distributional Resource Asymmetry** of §7 states that the capacity to meet that demand is unequally held. **Algorithmic Lockout** states that failure or refusal to meet it can produce practical exclusion where participation formally remains open.
+
+---
+
+## 9. Countermeasures
 
 ### Fair-Baseline Discovery
 
-Discovery systems should extend serious new work a reasonable opportunity for initial legibility without requiring payment, prior celebrity, continuous engagement optimization, or strategic conformity to platform-specific ranking incentives.
+Discovery systems should extend serious new work a reasonable opportunity for initial legibility without requiring payment, prior celebrity, continuous engagement-shaping, or strategic conformity to platform-specific ranking incentives.
 
 The objective is not guaranteed popularity. It is a meaningful opportunity to be encountered.
 
@@ -253,7 +305,7 @@ Where a system determines what proportion of an interested public encounters a w
 
 ---
 
-## 9. Structural Distinctions
+## 10. Structural Distinctions
 
 **publication is not algorithmic compliance**
 
@@ -283,7 +335,7 @@ Where a system determines what proportion of an interested public encounters a w
 
 ---
 
-## 10. Relation to the Provenance Analysis
+## 11. Relation to the Provenance Analysis
 
 Distribution conditions make provenance displacement easier or harder. They do not constitute it.
 
