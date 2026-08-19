@@ -32,7 +32,7 @@ Where recommendation systems mediate discovery, availability and encounter come 
 
 What now stands between the two is a set of behaviors:
 
-- learning platform-specific ranking behavior
+- learning platform-specific ordering behavior
 - maintaining a preferred posting cadence
 - generating engagement signals
 - adapting work to favored formats
@@ -49,7 +49,7 @@ The principle:
 
 This is the **Algorithmic Participation Burden**: the demand that an originator perform for the distribution architecture as a condition of being encountered.
 
-A person may wish to publish serious work and have it reach a reasonable portion of the potentially interested public. Refusing or being unable to perform for the ranking system establishes nothing about the relevance, significance, quality, or origination of what was published.
+A person may wish to publish serious work and have it reach a reasonable portion of the potentially interested public. Refusing or being unable to perform for the ordering system establishes nothing about the relevance, significance, quality, or origination of what was published.
 
 > **publication is not algorithmic compliance**
 
@@ -67,7 +67,7 @@ The shallow question is whether a system sometimes boosts a new author.
 
 The structural question is different:
 
-> What baseline opportunity for discovery does an originator receive before popularity, capital, ranking-directed behavior, network position, or prior engagement begin determining visibility?
+> What baseline opportunity for discovery does an originator receive before popularity, capital, position-directed behavior, network standing, or prior engagement begin determining visibility?
 
 The distinction:
 
@@ -224,13 +224,13 @@ The two are not ranked here. They are distinguished, because a system that reads
 
 Formal availability and practical legibility are not the same condition.
 
-**Algorithmic Lockout** names the condition in which a formally available person, work, property, or opportunity becomes practically inaccessible, because the intermediary ranking and distribution systems through which encounter occurs supply insufficient legibility for exchange to take place.
+**Algorithmic Lockout** names the condition in which a formally available person, work, property, or opportunity becomes practically inaccessible, because the intermediary ordering and distribution systems through which encounter occurs supply insufficient legibility for exchange to take place.
 
 A property may be listed. A work may be published. A person may be permitted to post. None of those establishes that the relevant public will encounter the thing.
 
-### Ranking as allocation
+### Ordering as allocation
 
-Where encounter is mediated, ranking does not merely describe demand. It allocates attention, and allocation determines which things are available to be wanted at all. A system that ranks is therefore participating in the production of the demand it reports.
+Where encounter is mediated, ordering does not merely describe demand. It allocates attention, and allocation determines which things are available to be wanted at all. A system that orders is therefore participating in the production of the demand it reports.
 
 ### A cross-domain instance
 
@@ -240,7 +240,7 @@ Housing is the clearest case outside cultural production. Major housing portals 
 
 A property may be listed and genuinely available while the intermediary systems through which most buyers search determine how often, to whom, and in what position it becomes legible.
 
-The claim does not require that ranking alone determines an outcome. Price, local demand, financing, condition, and inventory all remain operative. It requires only that distributional mediation materially affects the probability of encounter — and that much the industry's own documentation establishes.
+The claim does not require that ordering alone determines an outcome. Price, local demand, financing, condition, and inventory all remain operative. It requires only that distributional mediation materially affects the probability of encounter — and that much the industry's own documentation establishes.
 
 ### The scoring analogy, and what it names
 
@@ -252,7 +252,7 @@ Structurally it is more diffuse than a single index, and that diffuseness is wha
 
 Low legibility yields weak engagement signals. Weak engagement signals then serve as grounds for continued low legibility.
 
-The condition sustains itself without anyone deciding that it should, which is what distinguishes it from suppression. **No act of exclusion is required. The architecture produces exclusion through ranking.**
+The condition sustains itself without anyone deciding that it should, which is what distinguishes it from suppression. **No act of exclusion is required. The architecture produces exclusion through ordering.**
 
 Where distributional advantage is available for purchase, those able to buy or manufacture additional signals exit the loop; those unable to do so remain inside it. This is the mechanism by which the asymmetry of §7 becomes an outcome rather than a disadvantage.
 
@@ -276,7 +276,7 @@ The three conditions form one chain. The **Algorithmic Participation Burden** of
 
 ### Fair-Baseline Discovery
 
-Discovery systems should extend serious new work a reasonable opportunity for initial legibility without requiring payment, prior celebrity, continuous engagement-shaping, or strategic conformity to platform-specific ranking incentives.
+Discovery systems should extend serious new work a reasonable opportunity for initial legibility without requiring payment, prior celebrity, continuous engagement-shaping, or strategic conformity to platform-specific ordering incentives.
 
 The objective is not guaranteed popularity. It is a meaningful opportunity to be encountered.
 
@@ -293,7 +293,7 @@ Where platforms disclose systems affecting visibility, meaningful auditability s
 - visibility filters
 - account and content labels
 - material experiments
-- ranking adjustments
+- ordering adjustments
 - paid amplification interactions
 - and changes capable of materially altering discovery
 
@@ -339,7 +339,7 @@ Where a system determines what proportion of an interested public encounters a w
 
 Distribution conditions make provenance displacement easier or harder. They do not constitute it.
 
-An originating architecture retains its standing whatever the distribution architecture does. Narrative saturation purchased by resources or produced by ranking behavior alters what is encountered first; it alters nothing about what was originated when.
+An originating architecture retains its standing whatever the distribution architecture does. Narrative saturation purchased by resources or produced by ordering behavior alters what is encountered first; it alters nothing about what was originated when.
 
 The provenance analysis holds independently of every claim made here.
 
