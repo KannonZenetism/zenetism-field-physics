@@ -35,7 +35,7 @@ It is:
 
 AI makes those distinctions more important, not less.
 
-If a detector classifies human prose as AI-generated, it has not identified provenance. It has demonstrated the limits of surface-text classification.
+If a detector classifies a textual surface as AI-generated, it has identified at most a feature of the rendering process. It has not identified the provenance of the structure from which that surface was generated.
 
 ---
 
