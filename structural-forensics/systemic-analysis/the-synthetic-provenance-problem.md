@@ -16,7 +16,7 @@
 
 The central provenance problem of generative culture is not exhausted by plagiarism, verbatim copying, or the appearance of a complete replacement system.
 
-A coherent architecture may be displaced without being reproduced as an integrated architecture.
+A coherent architecture may be obscured without being reproduced as an integrated architecture.
 
 Its concepts may be fragmented.
 
@@ -783,6 +783,8 @@ A mature provenance record should preserve:
 
 This creates a **derivational map**, not merely a timestamp ledger.
 
+Computational transformation does not interrupt this relation. Where a model summarizes, revoices, extrapolates from, or generates new surface text out of provenance-bearing material, the resulting artifact acquires a new rendering history without losing its antecedent history. A machine-generated surface may therefore carry machine-rendering provenance while remaining downstream of a human developmental or structural origin.
+
 ---
 
 ## 21. Acquisition Opacity
@@ -1078,6 +1080,10 @@ The following distinctions must remain intact:
 **acquisition without reciprocity does not erase provenance**
 
 **observable acquisition is not observable downstream transmission**
+
+**rendering provenance is not authorship provenance**
+
+**derivation does not extinguish antecedence**
 
 **synthetic continuity is not lived or documented continuity**
 
