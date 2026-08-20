@@ -63,6 +63,9 @@ Developments announced from 2026-08-13 sit inside this window. Times are given i
    **This statement appears in the publication, not in either same-day post.** The posts establish the pause and its stated rationale; the publication supplies the model-against-model security claim.
 8. **2026-08-18, 1:13 PM** — OpenAI's account states that as models become more capable the risks of developing and testing them internally also grow, and that the largest planned frontier reinforcement-learning run remains on hold while smaller-scale training and evaluations validate the safeguards and establish more evidence of alignment. `https://x.com/OpenAI/status/2089777845187031262`
 9. **2026-08-18, 1:53 PM** — the chief executive of OpenAI states that frontier reinforcement-learning training was paused to meet alignment, security, and monitoring standards for the capabilities now in front of them, that the field will have to coordinate on shared safety standards while acting unilaterally in the meantime, and that confidence in safety is expected to increasingly set the pace of progress. `https://x.com/sama/status/2089787807611195475`
+10. **2026-08-19** — OpenAI publishes *Offering Zero Data Retention for frontier models*, previewing **Private Safety Processing** while reaffirming Zero Data Retention for eligible API deployments. The publication states that some serious risks become apparent only when multiple interactions are viewed together; that Private Safety Processing identifies patterns across related interactions rather than evaluating each one on its own; and that it draws on customer content **regardless of where that content is stored**, whether on infrastructure the customer controls or in OpenAI-provided storage encrypted under customer-held keys. Personnel do not receive the underlying prompts or responses; automated processing returns a narrowly defined signal indicating the type of activity involved, which may determine whether enforcement follows. Testing with early customers is under way, with rollout and a technical white paper stated for September. `https://openai.com/index/offering-zero-data-retention-for-frontier-models/` · `https://x.com/OpenAI/status/2090165328290701800`
+
+   **Structural significance, recorded contemporaneously:** the publication distinguishes content retention from cross-interaction computational inference, documenting that non-retention of underlying content is compatible with relational analysis, derived classification, and provider action. This is a disclosed mechanism rather than an inferred one. What remains open is its scope, implementation, history, and application.
 
 Both are recorded here as environmental facts of the composition window. Displayed post times vary with the viewer's locale; the UTC values above are the stable form, and the post identifiers permit independent verification.
 
@@ -77,6 +80,7 @@ Both are recorded here as environmental facts of the composition window. Display
 - **2026-08-16** — author capture and registration of both
 - **2026-08-13** — Anthropic multiagent research publication
 - **2026-08-18** — OpenAI publication on pacing model development, and two same-day statements at 1:13 PM and 1:53 PM
+- **2026-08-19** — OpenAI publication previewing Private Safety Processing under Zero Data Retention
 
 The second entry is the one carrying independent attestation. The first is the author's record; the remainder are public surfaces bearing their own platform timestamps.
 
@@ -88,7 +92,11 @@ A platform's disclosure concerning its distribution systems is the sort of discl
 
 A system acquiring contextual information across a working environment is the category §24 of *The Synthetic Provenance Problem* names as Prepublication Contextual Capture, and to which the distinctions **platform observation is not platform origination** and **access to a developmental field is not authorship of what develops there** apply.
 
+The August 19 disclosure is treated under the same two sections, and adds a third relation: it documents that cross-interaction contextual analysis does not require provider retention of the underlying content in ordinary storage. `the-algorithmic-legibility-problem.md` §6 carries that determination as *Zero retention is not zero processing*.
+
 Relevance of subject matter is not relation of origin. The categories applied here were developed within the corpus and carry their own dated anchors, held in the companion documents. The developments recorded above are instances the categories fit, not the ground from which the categories came.
+
+**The author's interpretation.** He places the August 19 disclosure within his longer record concerning cross-context computational observation, Verification Asymmetry, model-mediated access to developmental material, provenance-sensitive contextual processing, and the distinction between a publicly stated privacy commitment and the computational operations disclosed beneath it. His analysis concerns what the disclosed architecture does, independent of any motive attributed to the institution: absence of stated targeting or adverse intent does not resolve the structural operation. The disclosed cross-interaction processing is documented rather than hypothesized; what stands separately classified are questions of historical application, targeting, actor-specific motive, and undisclosed implementation.
 
 ## C5 · What this note does not determine
 
