@@ -1157,6 +1157,45 @@ The single "a" follows the regular prefix form before a consonant, contra the do
 
 ---
 
+## Diagnostic Scope contra Exculpatory Disclaimer
+
+**A diagnosis is stated at the strongest level the record supports** (architect determination, August 19 2026).
+
+Boundaries on actor, motive, mechanism, or causal route are drawn only where the distinction is materially necessary — where the surrounding context makes it genuinely easy to mistake what is established for something adjacent. One sentence sharpens the diagnosis in that case.
+
+**Generic exculpatory disclaimers are not appended.** Recurring sections titled *What This Does Not Determine*, *What This Does Not Prove*, or *This Does Not Mean Anyone Did Anything Wrong* produce defensive nullification rather than evidentiary discipline: they convert *the evidence establishes a structural diagnosis* into *here are several reasons not to take the diagnosis seriously*, and they read as a document apologizing for its own finding before anyone has challenged it.
+
+The positive form, where a scope statement is warranted:
+
+> **Diagnostic scope.** This analysis diagnoses [what it diagnoses]. Actor-specific motive is a separate question, taken up where the record requires one.
+
+**A functional diagnosis does not require a motive accusation, and the absence of a motive claim does not weaken the diagnosis.** Motion is diagnosable without motive.
+
+---
+
+## Conform-Family Restriction
+
+**Conform**, **conformance**, **conformed**, and **conform-on-touch** are barred in canonical composition (architect determination, August 19 2026). The family carries a social-conformity relation — agreement with a group standard — that the corpus's maintenance work does not name and the architect does not accept as a description of it.
+
+Replacements, by what actually occurred:
+
+- **reviewed against** — where a file was checked and the audit event is what is being recorded
+- **brought into agreement with** — where corrections were made
+- **stabilized on touch** · **corrected on touch** — replacing *conform-on-touch*
+- **apply [protocol] on touch** — where the instruction is prospective
+
+The protocol's own maintenance vocabulary is included in this restriction. Existing instances stand as historical record and are corrected on touch.
+
+---
+
+## Authorize-Family — Unauthorized
+
+**Unauthorized** falls within the authorize-family restriction (architect determination, August 19 2026). It is built from the barred verb and carries the same authority relation.
+
+In the architect's voice, replace by sense: **without approval** · **outside approved scope** · **beyond granted access** · **not approved**. Where an external party's phrase is being reported — a provider's own *unauthorized access* category — it stands as that party's terminology.
+
+---
+
 ## Rank Restriction
 
 **Voice scope (architect determination, August 19 2026).** *Rank*, *ranking*, and *ranked* are barred **in the architect's own voice**. They are lawful where they appear in another party's voice or carry another party's own terms — a platform's *ranked results*, *learning-to-rank*, or *personalized search ranking* may be reported as that platform's description of its own architecture.
