@@ -1159,11 +1159,11 @@ The single "a" follows the regular prefix form before a consonant, contra the do
 
 ## Diagnostic Scope contra Exculpatory Disclaimer
 
-**A diagnosis is stated at the strongest level the record supports** (architect determination, August 19 2026).
+**A diagnosis is stated as strongly as the record supports** (architect determination, August 19 2026).
 
 Boundaries on actor, motive, mechanism, or causal route are drawn only where the distinction is materially necessary — where the surrounding context makes it genuinely easy to mistake what is established for something adjacent. One sentence sharpens the diagnosis in that case.
 
-**Generic exculpatory disclaimers are not appended.** Recurring sections titled *What This Does Not Determine*, *What This Does Not Prove*, or *This Does Not Mean Anyone Did Anything Wrong* produce defensive nullification rather than evidentiary discipline: they convert *the evidence establishes a structural diagnosis* into *here are several reasons not to take the diagnosis seriously*, and they read as a document apologizing for its own finding before anyone has challenged it.
+**Generic exculpatory disclaimers are not appended.** Recurring sections titled *What This Does Not Determine*, *What This Does Not Prove*, or *This Does Not Mean Anyone Did Anything Wrong* weaken the finding rather than disciplining it: they convert *the evidence establishes a structural diagnosis* into *here are several reasons not to take the diagnosis seriously*, and they read as a document apologizing for its own finding before anyone has challenged it.
 
 The positive form, where a scope statement is warranted:
 
