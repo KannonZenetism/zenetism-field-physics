@@ -227,7 +227,7 @@ Visibility systems may respond to:
 - media-production capacity
 - or willingness to shape behavior continuously around recommendation systems
 
-An originator may hold chronological and structural precedence while lacking the resources required to produce equivalent narrative saturation.
+An originator may hold chronological and structural precedence while lacking the means required to produce equivalent narrative proliferation.
 
 What a distribution architecture measures is market legibility: whether a work is positioned, formatted, timed, and amplified in the ways the system reads. That measurement is real, and it determines reach. It measures nothing about the work.
 
@@ -235,9 +235,9 @@ The claim here is not that a work deserves reach. It is that reach and significa
 
 A second asymmetry runs alongside the first. Material promising advantage — a method, an edge, a result obtainable by applying it — is more market-legible than material whose disclosure depends on a change in the one reading it. The first can be evaluated before it is undergone; the second cannot be evaluated until it has been. A distribution architecture reading for engagement reads the first more readily, and that reading is a fact about the architecture rather than about the material.
 
-The second class is not material that **asks** anything. It may ask nothing at all, and simply state what it states. The change is the reader's own, and no text administers it. Material that does administer it — disclosure by rank, grade, or staged initiation, released once a determinate transformation has been performed to someone else's specification — belongs with the first class rather than the second, whatever it promises.
+The second class is not material that **asks** anything. It may ask nothing at all, and simply state what it states. The change is the reader's own, and no text administers it. Material that does administer it — disclosure by grade, degree, or staged initiation, released once a determinate transformation has been performed to someone else's specification — belongs with the first class rather than the second, whatever it promises.
 
-The two are not ranked here. They are distinguished, because a system that reads one well and the other poorly is not reporting their relative worth.
+No ordering of worth is asserted here. The two are distinguished, because a system that reads one well and the other poorly is not reporting their relative worth.
 
 > **Market legibility is not intellectual legibility.**
 
@@ -261,9 +261,9 @@ The two are not ranked here. They are distinguished, because a system that reads
 
 Formal availability and practical legibility are not the same condition.
 
-**Algorithmic Lockout** names the condition in which a formally available person, work, property, or opportunity becomes practically inaccessible, because the intermediary ordering and distribution systems through which encounter occurs supply insufficient legibility for exchange to take place.
+**Algorithmic Lockout** names the condition in which a formally available person, work, dwelling, or opportunity becomes practically inaccessible, because the intermediary ordering and distribution systems through which encounter occurs supply insufficient legibility for exchange to take place.
 
-A property may be listed. A work may be published. A person may be permitted to post. None of those establishes that the relevant public will encounter the thing.
+A home may be listed. A work may be published. A person may be permitted to post. None of those establishes that the relevant public will encounter the thing.
 
 ### Ordering as allocation
 
@@ -271,11 +271,11 @@ Where encounter is mediated, ordering does not merely describe demand. It alloca
 
 ### A cross-domain instance
 
-Housing is the clearest case outside cultural production. Major housing portals describe ranked results, personalized search ranking, recommendation systems, and learning-to-rank scoring built from participant behavior and applied to candidate properties and notifications. These are the platforms' own descriptions of their own architecture.
+Housing is the clearest case outside cultural production. Major housing portals describe ranked results, personalized search ranking, recommendation systems, and learning-to-rank scoring built from participant behavior and applied to candidate listings and notifications. These are the platforms' own descriptions of their own architecture.
 
 > **Housing availability and housing visibility are no longer the same thing.**
 
-A property may be listed and genuinely available while the intermediary systems through which most buyers search determine how often, to whom, and in what position it becomes legible.
+A home may be listed and genuinely available while the intermediary systems through which most buyers search determine how often, to whom, and in what position it becomes legible.
 
 The claim does not require that ordering alone determines an outcome. Price, local demand, financing, condition, and inventory all remain operative. It requires only that distributional mediation materially affects the probability of encounter — and that much the industry's own documentation establishes.
 
@@ -382,7 +382,9 @@ Where a system determines what proportion of an interested public encounters a w
 
 Distribution conditions make provenance displacement easier or harder. They do not constitute it.
 
-An originating architecture retains its standing whatever the distribution architecture does. Narrative saturation purchased by resources or produced by ordering behavior alters what is encountered first; it alters nothing about what was originated when.
+An originating architecture retains its standing whatever the distribution architecture does. Narrative proliferation purchased or produced by ordering behavior alters what is encountered first; it alters nothing about what was originated when.
+
+**Diagnostic scope.** This analysis diagnoses the operative distribution structure and its effects. Actor-specific motive is a separate question, taken up where the record requires one.
 
 The provenance analysis holds independently of every claim made here.
 
