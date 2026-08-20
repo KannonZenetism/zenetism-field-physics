@@ -213,6 +213,36 @@ The consequence for `the-synthetic-provenance-problem.md` §24 is a cross-refere
 
 ---
 
+### Inferential derivation and remediation asymmetry
+
+The originating material and what a computational system derives from it are distinct.
+
+A person may retain the historical provenance of an originating structure, dataset, or developmental field while holding little practical capacity to inspect, retrieve, correct, or trace the inferences and derived artifacts produced from it afterward.
+
+This is **remediation asymmetry**: the capacity to derive and distribute may substantially exceed the originator's capacity to recover the downstream transmission chain, or to reconnect a derivative to the provenance it came from once that chain has become opaque.
+
+The condition sharpens where machine rendering is treated as a new origin rather than a downstream transformation. A generated account of antecedent human material remains derivationally downstream of that material. **Rendering changes the artifact. It does not relocate the developmental history from which the artifact became possible.**
+
+Legal classification and historical provenance are likewise distinct. Statutory protection, enforceability, or available remedy may expand, contract, or be redefined without altering who originated a structure or when that structure entered the record.
+
+One further precision, against the reading that the matter is already settled: **some informational transformations may become practically irrecoverable long before their provenance becomes historically unrecoverable.** Once material has been copied, embedded, summarized, pattern-completed, revoiced, and redistributed, recalling every derivative may be impossible. The origin has not thereby vanished. That is the reason a provenance architecture is worth holding.
+
+> **control of originating material is not control of downstream inference**
+
+> **derivation does not extinguish antecedence**
+
+> **machine rendering does not relocate origination**
+
+> **legal classification is not historical provenance**
+
+> **loss of remedy is not loss of origin**
+
+> **inability to recover a transmission chain is not a provenance reset**
+
+The sequence these conditions form runs: **Prepublication Contextual Capture** — the system encounters the developmental field · **Verification Asymmetry** — the originator cannot see equally far into what the system does with it · **inferential derivation** — the system produces new representations from that field · **remediation asymmetry** — those derivatives propagate more readily than the originator can inspect, retrieve, or reconnect them · and the synthetic provenance condition, in which later derived surfaces come to appear originless or independently originated.
+
+---
+
 ## 7. Distributional Resource Asymmetry
 
 Visibility systems may respond to:
@@ -440,6 +470,10 @@ Where a system determines what proportion of an interested public encounters a w
 **surface classification is not provenance**
 
 **rendering provenance is not authorship provenance**
+
+**derivation does not extinguish antecedence**
+
+**legal classification is not historical provenance**
 
 **zero retention is not zero processing**
 
