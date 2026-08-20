@@ -174,6 +174,43 @@ This is not reducible to a privacy concern. Privacy asks who may see. Provenance
 
 > **Access to a developmental field is not authorship of what develops there.**
 
+### Zero retention is not zero processing
+
+On August 19 2026 OpenAI previewed **Private Safety Processing** alongside its Zero Data Retention commitment for eligible API deployments, and in doing so documented a distinction the provenance analysis had been holding open.
+
+The publication states that under Zero Data Retention prompts and model responses are not retained after a request is processed, and that customer content is not available to OpenAI personnel for review. It states separately that Private Safety Processing identifies patterns across related interactions rather than evaluating each interaction on its own, and that it draws on customer content **regardless of where that content is stored** — whether on infrastructure the customer controls or in storage OpenAI provides under customer-held encryption keys. When a risk is identified, OpenAI receives a narrowly defined signal indicating the type of activity involved, and that signal may determine whether enforcement follows. Personnel do not receive the content even when it is flagged.
+
+The disclosed architecture runs:
+
+> underlying interactions → automated cross-interaction processing → derived classification → limited signal returned to the provider → possible enforcement
+
+Nothing in that sequence requires the provider to retain the underlying artifact. A system may inspect content computationally, relate it to other interactions, identify a pattern across them, classify the pattern, derive a signal, and act on the classification, while the content itself is neither retained nor read by any person.
+
+Two boundaries are therefore distinct:
+
+- **Human access** — whether a person at the provider can read the content
+- **Computational observation** — what the system can infer across it
+
+The first is a real boundary, and the publication is accurate in naming it. The second is a separate question, and restricting the first does not answer it. A privacy architecture may substantially restrict human access while extending machine-mediated contextual interpretation. Those facts are not in tension, and the first does not settle the second.
+
+The publication also records one documented exception to non-retention: material flagged as potential child sexual abuse imagery continues to be retained for manual review and reporting, as legally required, even in Zero Data Retention deployments. A retention commitment therefore already carries a stated carve-out; processing is broader still.
+
+**Relation to Verification Asymmetry.** The customer may know what content they supplied, where it is stored, what processing arrangement they entered, and what alert or enforcement eventually reaches them. The provider's systems additionally hold the cross-interaction processing, the criteria by which related activity is interpreted, the derived signal, and the logic operating from it. The party supplying the content does not thereby hold the same visibility into the inferential layer that the provider's systems hold into that party's activity.
+
+This remains Verification Asymmetry where no employee reads anything. The asymmetry concerns computational observability and auditability, never whether a person opened a prompt.
+
+> **Zero retention is not zero processing.**
+
+> **Human inaccessibility is not computational inaccessibility.**
+
+> **Customer-controlled storage is not computational non-observation.**
+
+> **Content non-retention is compatible with cross-interaction classification.**
+
+> **Retention describes what happens to content after processing. It does not describe everything a system can infer while processing it.**
+
+The consequence for `the-synthetic-provenance-problem.md` §24 is a cross-reference rather than an extension: cross-interaction contextual analysis does not require provider retention of the underlying content in ordinary storage, so a system may derive relational information from developmental material during processing even where the material is not afterward retained.
+
 ---
 
 ## 7. Distributional Resource Asymmetry
@@ -332,6 +369,12 @@ Where a system determines what proportion of an interested public encounters a w
 **low visibility is not low significance**
 
 **observability of an originator is not auditability of the observer**
+
+**zero retention is not zero processing**
+
+**human inaccessibility is not computational inaccessibility**
+
+**customer-controlled storage is not computational non-observation**
 
 ---
 
