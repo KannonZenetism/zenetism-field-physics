@@ -164,9 +164,9 @@ The provenance question remains: **what function did the AI interaction actually
 
 Publication approval may include verification of:
 
-- doctrinal conformance
-- terminological conformance
-- formatting conformance
+- doctrinal stabilization
+- terminological stabilization
+- formatting stabilization
 - version identity
 - filename
 - checksum
@@ -259,7 +259,7 @@ It does not adjudicate:
 
 Likewise, failure to detect a watermark does not establish human-only composition.
 
-The canonical corpus does not alter prose for the purpose of defeating, preserving, or manipulating detector outcomes.
+The canonical corpus does not alter prose for the purpose of evading, preserving, or manipulating detector outcomes.
 
 Editing proceeds for doctrinal, terminological, compositional, archival, or publication reasons.
 
@@ -610,11 +610,13 @@ Where a legal question arises, the provenance record should be preserved first a
 
 Legal classification does not rewrite historical provenance.
 
+A later change in statutory definition, protectability, enforceability, or available remedy does not retroactively relocate the historical origin of an architecture, a developmental sequence, or a work.
+
 ---
 
 ## 19. Prospective Application
 
-This standard applies prospectively and conform-on-touch.
+This standard applies prospectively and is stabilized on touch.
 
 It does not require retroactive insertion of AI-collaboration statements into every existing Zenetist file.
 
