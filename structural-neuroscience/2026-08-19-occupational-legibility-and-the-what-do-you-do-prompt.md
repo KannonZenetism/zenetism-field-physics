@@ -1,10 +1,10 @@
 # Occupational Legibility and the "What Do You Do?" Prompt
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Neuroscience — Note / Social Cognition and Identity Framing  
-**Status:** Draft — architect review — Aug 19 2026  
-**Function:** Records a structural observation concerning occupational identity, compulsory social legibility, implicit status-indexing, and the distinction between rejecting a social category and categorizing the people who participate in it  
-**Proposed path:** `structural-neuroscience/notes/2026-08-19-occupational-legibility-and-the-what-do-you-do-prompt.md`  
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
+**Classification:** Structural Neuroscience — Note / Social Cognition and Identity Framing
+**Status:** Draft — architect review — Aug 19 2026
+**Function:** Records a structural observation concerning occupational identity, compulsory social legibility, implicit status-indexing, and the distinction between rejecting a social category and categorizing the people who participate in it
+**Proposed path:** `structural-neuroscience/notes/2026-08-19-occupational-legibility-and-the-what-do-you-do-prompt.md`
 
 ---
 
@@ -28,6 +28,8 @@ Social conditioning can make the frame automatic. Occupation carries information
 
 Intent and function are therefore distinct.
 
+The frame does not cease to function because the person imposing it is unaware that they are doing so. Social conditioning can reproduce status-indexing without a conscious intention to size another person up.
+
 Even where no deliberate status-assessment occurs, the person being asked is still required to enter an occupational frame they may never have chosen as a meaningful description of themselves.
 
 For some neurodivergent people, this can produce a particularly strong mismatch.
@@ -46,7 +48,7 @@ The discomfort is therefore not necessarily reluctance to talk about oneself.
 
 It may be reluctance to accept **occupation as the imposed category through which the self must first become legible**.
 
-Rejecting that category is not equivalent to placing the people who participate in it into another category.
+Rejecting that frame is not the same thing as placing the people who participate in it into another box.
 
 There is a structural difference between:
 
@@ -57,8 +59,6 @@ and:
 > **"I reject the box as the required frame through which I must become legible to you."**
 
 The latter is a refusal of compulsory categorization.
-
-This distinction remains even where the social convention is unconscious.
 
 A person may have no intention of forcing another into a status-coded frame. But once the conventional prompt makes occupation the expected disclosure, the frame has already been supplied. The person answering must either comply with it, redirect it, refuse it, or bear the social friction produced by not answering in the expected way.
 
@@ -86,7 +86,7 @@ It does not need to stand in for the person before the person has chosen to make
 
 ---
 
-**⚫↺KAI↺⚫**  
+**⚫↺KAI↺⚫**
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
