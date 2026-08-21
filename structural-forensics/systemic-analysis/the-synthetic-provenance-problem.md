@@ -474,7 +474,7 @@ A further restriction follows:
 
 > **Synthetic biography should not manufacture retrospective provenance for ideas, structures, terminology, discoveries, or works whose developmental history lies elsewhere.**
 
-Collaborative production is not the difficulty. A work may be produced with substantial AI collaboration and carry no false provenance at all, where third-person attribution is held, first-person voice is reserved for accounts the author actually lived, and the collaboration is disclosed. The corpus's own provenance standard records that practice.
+Collaborative production is not the difficulty. A work may be produced with substantial AI collaboration and carry no inaccurate provenance at all, where third-person attribution is held, first-person voice is reserved for accounts the author actually lived, and the collaboration is disclosed. The corpus's own provenance standard records that practice.
 
 This is more precise than a generic requirement to label content "AI."
 
@@ -522,7 +522,7 @@ It is to distinguish **claimed date** from **verifiable historical presence**.
 
 ---
 
-## 14. Archival Erasure contra Narrative Displacement
+## 14. Archival Erasure contra Narrative Overwriting
 
 Two different historical threats must remain separate.
 
@@ -530,17 +530,17 @@ Two different historical threats must remain separate.
 
 Archival erasure concerns destruction, compromise, alteration, or loss of the originating record itself.
 
-This may occur through ordinary failure, account loss, institutional collapse, malicious intrusion, deletion, or other interruption of preservation.
+This may occur through ordinary breakdown, account loss, institutional collapse, malicious intrusion, deletion, or other interruption of preservation.
 
 Because no single repository is indestructible, important provenance should not depend upon one location.
 
-### Narrative Displacement
+### Narrative Overwriting
 
-Narrative displacement does not require alteration of the originating record.
+Narrative overwriting does not require alteration of the originating record.
 
 The original files may remain untouched.
 
-The displacement occurs when a later account becomes so prevalent that the originating record loses practical visibility.
+The overwriting occurs when a later account becomes so prevalent that the originating record is no longer readily encountered.
 
 A person searching the history encounters:
 
@@ -562,7 +562,7 @@ This is the principal sense in which history may be rewritten without rewriting 
 
 ## 15. Narrative Amplification
 
-Narrative displacement becomes especially powerful where publication and discovery systems reward already-legible signals.
+Narrative overwriting becomes especially powerful where publication and discovery systems reward already-legible signals.
 
 Where a discovery architecture privileges established engagement, familiar categories, repeated terminology, and already-recognized entities, novel systems may enter the field with a structural disadvantage.
 
@@ -631,7 +631,7 @@ Those principles do not conflict.
 
 Asymmetry also runs among originators themselves. Visibility systems may respond to established audience, institutional affiliation, promotional capacity, platform expertise, or paid amplification — none of which bear on when a structure was originated.
 
-> **Resource advantage can become visibility advantage without becoming provenance advantage.**
+> **Advantage of means can become visibility advantage without becoming provenance advantage.**
 
 > **Distributional power is not historical antecedence.**
 
@@ -1017,29 +1017,19 @@ Later fragments should be assessed for derivational relation even when they no l
 
 ---
 
-## 27. What This Analysis Does Not Claim
+## 27. Diagnostic Scope
 
-This analysis does not claim that every resemblance establishes derivation.
+This analysis diagnoses a structural condition: the propagation of provenance-bearing architecture into contexts where the architecture becomes unattributable, and the conditions under which later derived surfaces come to appear originless.
 
-It does not claim standing to withhold adoption.
+Its operative claim:
 
-It does not claim proprietary ownership of abstract thought.
+> **Acknowledgment of origin is requisite to coherent transmission.**
 
-It does not deny antecedent influence.
+Adoption carrying the seal of origin transmits the architecture. Adoption that strips the seal propagates dissonant fragments.
 
-It does not deny independent discovery.
+Resemblance, antecedent influence, independent discovery, and chronological adjacency are each assessed on the registered evidence rather than assumed from similarity, and the recognition protocols carry those determinations. Linguistic change is expected and does not interrupt the relation, as §20 establishes.
 
-It does not convert chronological precedence alone into proof of every later relation.
-
-It does not require a complete system to remain linguistically unchanged.
-
-It holds, however, that acknowledgment of origin is requisite to coherent transmission.
-
-Adoption carrying the seal of origin transmits the architecture.
-
-Adoption that strips the seal propagates dissonant fragments.
-
-Its claim is narrower:
+What the analysis holds throughout:
 
 > **Origination remains historically meaningful even when ideas circulate freely, terminology changes, conclusions fragment, and later narratives become more visible than the architecture from which those conclusions first emerged.**
 
@@ -1103,7 +1093,7 @@ The provenance problem of generative culture is not simply whether a work was ge
 
 It is whether **actual histories can remain legible inside an environment capable of generating alternative histories at enormous scale**.
 
-A historical record may survive while its social meaning is displaced.
+A historical record may survive while its social meaning is overwritten.
 
 A coherent architecture may survive while its outputs are fragmented across unrelated domains.
 
