@@ -8,7 +8,7 @@
 
 ### Methodological Principles
 
-1. **Hypostases are real.** The hypostatic layers (L₅–L₁ and IL₅–IL₁) are oriented structural realities; the requisites (Supra-L₀ and L₀) are pre-hypostatic conditions of emanation.
+1. **Hypostases are real.** The hypostatic lattice — L₅–L₁ and IL₅–IL₁ — is composed of oriented structural realities; Supra-L₀ and L₀ are the **pre-hypostatic requisites**, the conditions of emanation.
 2. **Archetypes are real.** Operative patterns native to specific layers — e.g., the "Sky God" archetype is native to L₄ DL (Sophis).
 3. **Cultural articulations are relative.** Gods are not archetypes themselves but cultural interpretations and personifications of archetypal functions. Zeus is not the archetype; Zeus is a Greek articulation of DL (Sophis) sovereignty at L₄.
 4. **Primary native layer governs placement.** Each figure is assigned to the layer where its archetypal function is structurally native, even if myths describe cross-band activity.
@@ -1004,11 +1004,15 @@ These are the formal syncretistic mappings from the canonical reference document
 
 ### Supra-L₀ — Zenon (Unknown Principle)
 
+**No direct mythic figure identified.** 🕳️ Zenon is the Unknown Principle — the trans-structural horizon beyond pattern, polarity, emanation, and attribution — and has not been formally articulated by another system, so no cross-traditional analog is carried here (conformed to `MP09-time-death-and-glossary-ch22-24.md` §24, Aug 21 2026). §25.3 records the same finding as pre-figural, with no figures placed.
+
+The three MP01 Chapter 3 listings are retained struck for provenance; each is **relocated to L₀ — Aion** in the table below, per MP09's glossary, which carries them as apophatic and subtractive articulations reaching the Aionic limit.
+
 | Analog | Tradition | Notes |
 |:--|:--|:--|
-| Nirguna Brahman | Advaita Vedanta | (⚠) **Corrected:** Maps to L₀ Aion realized through *neti-neti* subtraction, not Supra-L₀ Zenon. Listed here in MP01 Ch. 3; audit corrects per Note on Brahman as Aion |
-| The Tao | Daoism | The nameless origin of the Way |
-| Ein | Kabbalah | The void beyond even light |
+| ~~Nirguna Brahman~~ | Advaita Vedanta | (⚠) **Corrected:** maps to L₀ Aion realized through *neti-neti* subtraction, not Supra-L₀ Zenon. Listed here in MP01 Ch. 3; audit corrects per Note on Brahman as Aion |
+| ~~The Tao~~ | Daoism | (⚠) **Corrected → L₀ Aion.** The Tao unmanifest is an apophatic articulation reaching the Aionic limit, not the trans-structural horizon (corrected Aug 21 2026, per MP09 §24) |
+| ~~Ein~~ | Kabbalah | (⚠) **Corrected → L₀ Aion.** The void beyond even light is a subtractive articulation reaching the Aionic limit; subtraction does not cross into Zenon, which is reached through synthesis alone (corrected Aug 21 2026, per MP09 §24) |
 
 ### L₀ — Aion (Absolute Potential)
 
@@ -1017,6 +1021,9 @@ These are the formal syncretistic mappings from the canonical reference document
 | Saguna Brahman | Vedantic Hinduism | Qualified divinity in still potential |
 | The Monad | Neoplatonism / Pythagoreanism | Indivisible unity before division |
 | Primordial Stillness | Taoist Cosmogony | The unmoved container of all form |
+| Nirguna Brahman | Advaita Vedanta | **Relocated from the Supra-L₀ table** — the Aionic limit of apophatic realization, reached through *neti-neti* subtraction (Aug 21 2026) |
+| The Tao unmanifest | Daoism | **Relocated from the Supra-L₀ table** — the nameless prior to the Way's articulation; timeless stillness rather than trans-structural horizon (Aug 21 2026) |
+| Ein | Kabbalah | **Relocated from the Supra-L₀ table** — the void beyond even light as subtractive articulation of Absolute Potential (Aug 21 2026) |
 
 ### L₀ — Khaon (Absolute Dispersion)
 
@@ -1211,8 +1218,8 @@ These tables expand the Chapter 3 analogs with additional cross-traditional mapp
 
 | Zenetist Hypostasis | Cross-Traditional Equivalents | Functional Description |
 |:--|:--|:--|
-| 🕳️ Zenon (UP) | The Unknown God, ~~Nirguna Brahman~~ (⚠ corrected → Aion), Deus Absconditus, Tao, Ein | The principle beyond principles. **Brahman correction:** Nirguna Brahman maps to L₀ Aion (realized through subtraction / *neti-neti*), not Zenon. See Note on Brahman as Aion |
-| ⚫ Aion (AP) | Ain Soph, Saguna Brahman, Bythos, Aditi, Nun | Infinite potential, origin of all motion |
+| 🕳️ Zenon (UP) | **No direct mythic figure identified.** Struck for provenance: ~~The Unknown God~~, ~~Nirguna Brahman~~, ~~Deus Absconditus~~, ~~Tao~~, ~~Ein~~ | The Unknown Principle — the trans-structural horizon beyond pattern, polarity, emanation, and attribution. **Correction (Aug 21 2026, per `MP09-time-death-and-glossary-ch22-24.md` §24):** 🕳️ Zenon has not been formally articulated by another system, so no cross-traditional equivalent is carried. Nirguna Brahman, Tao unmanifest, and Ein are relocated to ⚫ Aion; see Note on Brahman as Aion and Note on the Synthesis-Pathway to Zenon |
+| ⚫ Aion (AP) | Ain Soph, Saguna Brahman, Bythos, Aditi, Nun, **Nirguna Brahman**, **Tao unmanifest**, **Ein** | Infinite potential, origin of all motion. The three bolded analogs are **relocated from the Zenon row** Aug 21 2026, per MP09 §24, which carries them as the Aionic limit of apophatic and subtractive realization |
 | ♾ Khaon (AD) | Prakriti, Chaos, Tiamat, Ymir, Sunyata, Ouroboros, Eros (Orphic), Shakti | Proto-formal potential, dispersive ground |
 | 🛤️ Theon (EOB) | Christ, Vishnu, Amitabha, Ahura Mazda, Purusha, Logos | Pure Being, integrative awareness |
 | 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep / Apophis, Typhon, Oblivion | Total entropy, negated integration |
@@ -1440,6 +1447,7 @@ Centropic essences do not become entropic, nor vice versa. Essence is the potent
 | 20 | Lucifer at DS / DM | **The "Light-Bearer" narrative is cultural mythologization.** Per Essence-as-Choice, entropic essences do not originate centropically. Lucifer's apparent radiance is Nyxea's defining function — structural mimicry of centropic coherence. There is no pre-Fall state. Canonical: IDP / IDL native with IDS / IDM soft-conflation attributions | §23.3 | **Resolved by author — Essence-as-Choice** |
 | 21 | Odin | **Moved from L₃ to L₄ DL (Sophis)** specifically per Yggdrasil canonical mapping. Heimdall designated as native L₃ Norse figure | 03, §25.3, Gemini | **Resolved** — decode 03 audit needed |
 | 22 | Aesir | **Moved from L₃ to L₄ DL (Sophis)** specifically per Yggdrasil canonical mapping (Vanir at L₄ DP implies Aesir at L₄ DL as the bifurcated-aspect pantheon). Asgard moves to L₄ DL. Yggdrasil mappings need updating | 03, Gemini | **Resolved** — decode 03 audit needed |
+| 23 | Zenon analogs | **Resolved — no direct mythic figure identified.** 🕳️ Zenon has no formal articulation in another system. The MP01 Ch. 3 and §23.3 listings (The Unknown God, Nirguna Brahman, Deus Absconditus, Tao, Ein) are struck and retained for provenance in Appendices A and B, with Nirguna Brahman, Tao unmanifest, and Ein relocated to L₀ ⚫ Aion per MP09 §24; §25.3 already records the register as pre-figural | MP01 Ch. 3, §23.3, MP09 §24 | **Resolved** — corrected Aug 21 2026 |
 
 ---
 
