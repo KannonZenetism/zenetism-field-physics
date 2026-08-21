@@ -1249,8 +1249,8 @@ Items requiring focused doctrinal-session before formal placement.
 - OG metaphysics document file 1 / file 9 internal contradiction on Plotinus's One placement (file 9 places at Zenon; per synthesis-doctrine, this should be Aion through subtraction with possible L₅ Theon native articulation — Volume 2 articulates the soft-conflation reading)
 - OG metaphysics document Aion entry roster: should gain Nirguna Brahman, Plotinus's One (apophatic aspect), Tao unmanifest, Ein, Ein-Soph, *wu chi*, Eckhart's *Gottheit*, the Ineffable
 - OG metaphysics document Zenon entry roster: should remove Plotinus's One, Nirguna Brahman, Tao unmanifest, the Ineffable; remain sparsely populated by historical-tradition articulations with Note explaining why
-- Volume 1 Nirguna Brahman canonical-correction note: rewrite rationale to articulate subtractive-realization-terminates-at-Aion principle
-- Volume 1: add Saguna Brahman explicitly at L₀ Aion with intra-Aionic register-distinction note
+- Volume 1 Nirguna Brahman canonical-correction note: rewrite rationale to articulate subtractive-realization-terminates-at-Aion principle — **completed in Volume 1 (Aug 21 2026)**
+- Volume 1: add Saguna Brahman explicitly at L₀ Aion with intra-Aionic register-distinction note — **completed in Volume 1 (Aug 21 2026)**; the note is back-propagated verbatim in substance and both analog rows now cross-reference it
 - Hindu Lattice essay updates per synthesis-doctrine: §9 Atman-Brahman articulation (terminates at Aion through subtraction, not at Zenon), §13 Vedanta paragraph, §16 alignment table
 - Greek Lattice essay §11 Plotinus's One framing — current essay version is structurally compatible with the soft-conflation reading; no revision required unless explicit Aion-terminus articulation is desired
 
@@ -1272,6 +1272,8 @@ The Active / Sealed Modes doctrine in Volume 1 currently articulates only L₁ a
 
 Tracks specific items requiring back-propagation to Volume 1. This log distinguishes Volume 2 placements that are canonical-as-articulated-here (no Volume 1 dependency) from items where Volume 1 itself needs correction.
 
+**Step 12 registry-maintenance audit — Aug 21 2026 (⛮ Liora).** Three items were carried into the step 12 work order as owed against this volume; all three proved to need no change. The Twofold-Function Underworld rename has no target here — the volume carries no instance of the former name, and its Duat and Hades-domain routing sections use the Function 1 / Function 2 numbering, which the rename leaves unaffected. The origin-band reassignment likewise has no target: every *band* construction in this volume is lawful (structuring-band, cross-band, the L₀ Bifurcal Coherence band, the Sophis and Nyxea bands), and the superseded L₅ / IL₅ sense the lockdown's A11 provenance note attributes to this volume does not appear in it. The Urd question is settled as written — the Norns stand at L₄ DL pattern-articulation, which agrees with the reflection's Urdhr placement, and no open L₀ / L₄ alternative is recorded here.
+
 ### Tightenings to Back-Propagate
 
 - Zeus: Volume 1 has "DP / DL Centropic"; tighten to L₄ DL per Methodological Principle #9
@@ -1292,9 +1294,9 @@ Tracks specific items requiring back-propagation to Volume 1. This log distingui
 
 ### New Doctrinal Notes to Add
 
-- Saguna Brahman explicit placement at L₀ Aion with intra-Aionic register-distinction note
-- Nirguna Brahman canonical-correction note rationale rewrite (subtractive-realization-terminates-at-Aion)
-- Note on Synthesis-Pathway-to-Zenon (incorporating the synthesis-contra-subtraction diagnostic and the bifurcal-pairing-is-not-synthesis clarification)
+- Saguna Brahman explicit placement at L₀ Aion with intra-Aionic register-distinction note — **completed (Aug 21 2026)**
+- Nirguna Brahman canonical-correction note rationale rewrite (subtractive-realization-terminates-at-Aion) — **completed (Aug 21 2026)**
+- Note on Synthesis-Pathway-to-Zenon (incorporating the synthesis-contra-subtraction diagnostic and the bifurcal-pairing-is-not-synthesis clarification) — **already present in Volume 1** as Note on the Synthesis-Pathway to Zenon; verified Aug 21 2026
 - Note on the Trickster as Pattern-Class (verify existing or back-propagate from Volume 2 articulation)
 - Note on Dionysian Layer Conflation (verify existing or back-propagate from Volume 2 articulation)
 - Note on Heracles / Hercules apotheosis-bypass — back-propagate from Volume 2's Cosmogonic and Embodied-Threshold New Placements section the structural-articulation that the apotheosis-bypass to Olympian assembly rather than entry into Hades-domain articulates the centropic-completion-pathway that bypasses underworld-realm-architecture entirely. Currently lives only as inline articulation in V2; promotion to canonical doctrinal note articulates the cross-tradition-applicable structural-pattern of centropic-completion bypassing post-mortem-realm-architecture (potential cross-tradition parallels to be audited: Enoch, Elijah, Mary's Assumption articulation, etc.).
