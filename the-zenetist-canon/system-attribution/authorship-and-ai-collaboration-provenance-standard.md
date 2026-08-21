@@ -15,7 +15,7 @@ This standard preserves authorship continuity across a corpus developed through 
 
 Its purpose is to prevent two contrary forms of provenance distortion:
 
-- displacement of originating authorship merely because an AI collaborator generated, revised, synthesized, or processed the wording of a passage
+- overwriting of originating authorship merely because an AI collaborator generated, revised, synthesized, or processed the wording of a passage
 - erasure of AI collaboration where an AI collaborator materially participated in the compositional realization of a work
 
 The Zenetist corpus therefore does not reduce provenance to the binary categories "human-written" and "AI-generated."
@@ -184,9 +184,9 @@ The final decision that a Zenetist candidate is approved for publication remains
 
 ## 7. Two Provenance Errors to Avoid
 
-### Origin Displacement
+### Origin Overwriting
 
-**Origin displacement** occurs when evidence of AI articulation or processing is expanded into a claim that the AI system originated the architecture, doctrine, concepts, or system itself.
+**Origin overwriting** occurs when evidence of AI articulation or processing is expanded into a claim that the AI system originated the architecture, doctrine, concepts, or system itself.
 
 Examples include:
 
@@ -206,9 +206,9 @@ Examples include:
 - removing historically meaningful collaborator credit from a provenance record
 - reconstructing a human-only production history where sustained human / AI collaboration is documented
 
-The canonical response to origin displacement is not collaboration erasure.
+The canonical response to origin overwriting is not collaboration erasure.
 
-The canonical response to collaboration erasure is not origin displacement.
+The canonical response to collaboration erasure is not origin overwriting.
 
 Precision requires preservation of both relations.
 
@@ -257,7 +257,7 @@ It does not adjudicate:
 - the architect's doctrinal determination
 - or the provenance of material preceding the detected processing event
 
-Likewise, failure to detect a watermark does not establish human-only composition.
+Likewise, absence of a detected watermark does not establish human-only composition.
 
 The canonical corpus does not alter prose for the purpose of evading, preserving, or manipulating detector outcomes.
 
@@ -570,7 +570,7 @@ Structural Forensics may apply this standard when examining:
 
 - contested authorship
 - priority disputes
-- attribution displacement
+- attribution overwriting
 - AI-origin claims
 - derivative narratives
 - publication-chain ambiguity
