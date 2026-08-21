@@ -328,6 +328,28 @@ Double quotation marks apply throughout. Nested quotations within quotations als
 
 Note: Earlier documents contain quotation-mark drift between straight and curly forms. This drift is not structurally significant and is not flagged as canonical error in older work. New work follows straight quotes.
 
+### Quotation Marks Within Block Quotes
+
+**A block quote is already a quotation. Enclosing quotation marks are not added to it** (architect determination, August 2026, seated here August 20 2026).
+
+The block-quote container performs the function quotation marks would perform, and doubling the two is redundant on the page and ambiguous in reading: a reader cannot tell whether the marks belong to the quoted passage or to the container.
+
+Three cases are held apart.
+
+- **Externally quoted material set as a block quote.** No enclosing quotation marks. Marks appearing *inside* the passage are preserved exactly as the quoted passage carries them.
+- **Nested quotation within a block quote.** Quotation marks are lawful and expected where the quoted passage itself quotes something — reported speech, a cited phrase, a title within the passage. These are internal to the material, not applied to the container.
+- **The corpus's own displayed statements.** Standing distinctions, sealed formulations, and note bodies are set in block-quote form as a **display device**, not as quotation. They take no quotation marks at all, because nothing is being quoted.
+
+The third case is where drift begins. A later hand encounters the block-quote marker, reads it as *quotation*, and supplies marks the original did not carry. The container's function is display; only the first two cases involve quotation at all.
+
+**Scripture and comparable cited passages** follow the first case: block-quoted, without enclosing quotation marks, with their own internal punctuation preserved and attribution carried on its own line rather than inside the quotation.
+
+*Terminology note: **quotation mark** is the typographic name for the character and is lawful throughout this section. The mark-family restriction concerns glyph and seal designation, where the canonical terms are **glyph** and, where a seal must be distinguished, **seal**.*
+
+**Series consistency takes priority.** Within a numbered series — FP01–FP14, MP01–MP12, and any comparable multi-file work — the treatment is uniform across every file in the series, and a series is brought into agreement across all its files rather than one at a time. Consistency within a single work takes precedence over consistency with an unrelated document.
+
+Existing drift stands as historical record and is corrected on touch.
+
 ## Bullet List Punctuation
 
 Bullet lists may end each item with or without terminal punctuation, but the choice should remain consistent within a single document or multi-part series.
