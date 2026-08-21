@@ -243,7 +243,7 @@ The sequence these conditions form runs: **Prepublication Contextual Capture** �
 
 ---
 
-## 7. Distributional Resource Asymmetry
+## 7. Distributional Asymmetry of Means
 
 Visibility systems may respond to:
 
@@ -277,7 +277,7 @@ No ordering of worth is asserted here. The two are distinguished, because a syst
 
 > **Knowledge disclosed through transformation is structurally distinct from knowledge packaged as a means of advantage.**
 
-> **Resource advantage can become visibility advantage without becoming provenance advantage.**
+> **Advantage of means can become visibility advantage without becoming provenance advantage.**
 
 > **distributional advantage is not provenance advantage**
 
@@ -335,7 +335,7 @@ Where a person depends on intellectual production for subsistence, and the origi
 
 > **absence of popularity is not absence of opportunity to become legible**
 
-The three conditions form one chain. The **Algorithmic Participation Burden** of §2 states what is demanded of an originator. The **Distributional Resource Asymmetry** of §7 states that the capacity to meet that demand is unequally held. **Algorithmic Lockout** states that failure or refusal to meet it can produce practical exclusion where participation formally remains open.
+The three conditions form one chain. The **Algorithmic Participation Burden** of §2 states what is demanded of an originator. The **Distributional Asymmetry of Means** of §7 states that the capacity to meet that demand is unequally held. **Algorithmic Lockout** states that inability or refusal to meet it can produce practical exclusion where participation formally remains open.
 
 ---
 
