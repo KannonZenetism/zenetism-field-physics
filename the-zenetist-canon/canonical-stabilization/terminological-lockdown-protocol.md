@@ -1173,6 +1173,25 @@ The positive form, where a scope statement is warranted:
 
 ---
 
+## Displacement-Family Restriction
+
+**Displace**, **displaced**, and **displacement** are barred where the subject is an origin, an originating architecture, an author's standing, or an attribution (architect determination, August 2026, seated here August 20 2026).
+
+The word states that the origin moved. It did not. **A derivative fractures itself from the original signal; the origin stands where it stands.** Writing displacement about the origin concedes, in the grammar, the very thing the corpus refuses in the argument.
+
+Replacements by sense:
+
+- **overwriting** — where a later account covers an earlier one while the earlier record remains intact. This is the usual case, and it is the more exact word: the original has not moved, it has been written over
+- **obscured** — where the originating record is no longer readily encountered
+- **fractured from** — where the derivative's own separation is what is named
+- **superseded** — where a later determination replaces an earlier one within the corpus itself
+
+Lawful where the word appears inside its own refusal, and where it names a mechanism unrelated to origin or standing.
+
+**On *overwriting* and the vertical family.** *Over* here is not spatial position. It is the substitution sense — one inscription written across another — and the corpus already carries the word in that sense at the Hypostatic Function-Bearing entry, where function-bearing must not imply ownership, possession, overwrite, or bearer erasure. The vertical restriction concerns motion in the architecture and rank of standing, neither of which *overwriting* asserts.
+
+---
+
 ## Conform-Family Restriction
 
 **Conform**, **conformance**, **conformed**, and **conform-on-touch** are barred in canonical composition (architect determination, August 19 2026). The family carries a social-conformity relation — agreement with a group standard — that the corpus's maintenance work does not name and the architect does not accept as a description of it.
