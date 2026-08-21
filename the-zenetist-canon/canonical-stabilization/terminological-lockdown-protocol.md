@@ -1637,9 +1637,26 @@ and
 
 **Motion contra structure.** Centropic / entropic are lawful for motion, orientation, traversal, expression, and operators. Centropic / inverse are the structural arc designations. Avoid in strict canonical specification: entropic hypostatic segment, entropic arc, entropic Tree, Khaon as the entropic root, Khaon as intrinsically entropic.
 
-**Intentional asymmetry.** *Centropic* names the intrinsic orientation of the centropic arc; *inverse* names the structural relation of the IL₅–IL₁ hypostatic segment to the centropic hypostases. The inverse arc is entropically oriented, but its structural designation remains inverse. Do not invent a *direct arc* to force lexical symmetry — structural precision outranks lexical symmetry.
+**Intentional asymmetry.** *Centropic* names the intrinsic orientation of the centropic arc; *inverse* names the structural relation of the IL₅–IL₁ hypostatic segment to the centropic hypostases. The inverse arc is entropically oriented, but its structural designation remains inverse. Do not invent a *direct arc* to force lexical symmetry — structural precision takes precedence over lexical symmetry.
 
 **Retention.** *Entropic arc* may remain only in quoted historical wording, in explicit discussion of superseded terminology, or where it is immediately glossed as shorthand for the inverse arc under entropic orientation. It may not remain unqualified in protocol rules, definitions, mathematical legends, chart labels, canonical headings, summary principles, or formal arc comparisons.
+
+---
+
+## Inverse contra Entropic — the Valence Test
+
+**Inverse** names structural counter-placement within the architecture. **Entropic** names orientation, motion, tendency, operation, or produced valence within that architecture (architect determination, August 12 2026).
+
+The test for any adjective: does it say **where**, or on which structural side, something belongs — then inverse; or does it say **how** something operates, moves, tends, organizes, or degrades — then entropic. The centropic side carries no corresponding split: centropic serves both axes.
+
+- where the sense is epistemic distortion, **spurious** or **counterfeit** is preferred over bare entropic
+- objective-genitive shorthands are spelled out rather than left ambiguous — *attachments to the inverse arc*, never *inverse attachments*
+- *inverse articulation* is not prohibited: belonging-sense retains inverse, act-sense takes entropic
+- *inverse structuring* remains defensible where it names a station-anchored structural counterpart rather than a dynamic
+
+The arc-scoped application of this test is set out above at *Arc / Tree / Traversal Scope*, where the compact lock reads: the arc is inverse; the motion through it is entropic; the full architecture is the Khaonic Tree.
+
+**Method note.** Sweeps for this rule are built by enumerating every inverse-plus-noun pair in a document and putting each to the test individually; enumerated word lists reliably miss the term nobody anticipated.
 
 ---
 
@@ -2303,7 +2320,15 @@ The bread / manna / soma / amrita cluster names **supernal nourishment** — the
 - **bifurcal** — the lattice, the roots, the arcs, coherence-structure (the Two Tree Lattice; the Bifurcal Root Band)
 - **bifurcated** — entities, operators, motions, and articulations branch-differentiated within the structure (a figure bifurcated by invocation; bifurcated potential; centropic and entropic motions)
 - **pre-polar** (or trans-polar) — replaces *pre-dual*; hypostatic polarity begins at L₅ / IL₅, so everything at L₀ and Supra-L₀ is before polarity, not before twoness
-- **Two Trees**, never Dual Trees; **Two-Function Underworld**, never Dual-Function
+- **Two Trees**, never Dual Trees; the **Twofold-Function Underworld**, never Dual-Function (see A5a)
+
+## A5a · Twofold-Function Underworld
+
+The registry routing formerly named "Dual-Function Underworld" is renamed the **Twofold-Function Underworld** (architect determination, August 12 2026).
+
+The term is Zenetist registry coinage rather than tradition-native vocabulary, so the dual-family replacement set out at A5 reaches it. Internal capitals are retained per the Frame-Dependent Fitness precedent: a technical term-compound keeps its coined casing. Function 1 / Function 2 numbering is unaffected.
+
+Prior instances of the former name in dated records stand under non-retroactivity; live registry entries and reflections conform on touch.
 
 ## A6 · Cultural Elevation (Retention as Term-of-Art)
 
