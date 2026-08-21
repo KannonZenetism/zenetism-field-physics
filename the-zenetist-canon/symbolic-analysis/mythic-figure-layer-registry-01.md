@@ -896,6 +896,15 @@ Both operate at IL₂ but engage different surfaces of the embodied being. A fig
 
 Brahman in Hindu / Buddhist tradition (specifically Nirguna Brahman in its non-dual realization) maps to **L₀ AP (Aion)**, not Supra-L₀ (Zenon). Enlightenment via *neti-neti* (subtraction) is centropic-arc realization of Aionic non-dual stillness — **subtractive realization terminates at L₀ Aion**, because subtraction operates within the stillness-motion two-ness and cannot by itself perform the synthesis that crosses what it presupposes (see Note on the Synthesis-Pathway to Zenon). Saguna Brahman is explicitly placed at **L₀ Aion in the qualified register**: Nirguna and Saguna name an intra-Aionic register-distinction — the same L₀ Aion apprehended in unqualified contra qualified (attribute-bearing) register — not two strata. Zenon remains the Unknown Principle accessible only through the trans-structural orienting move, distinct from the Aionic stillness reached through subtraction.
 
+### Note on Saguna and Nirguna as Intra-Aionic Register-Distinction
+
+Back-propagated from `mythic-figure-layer-registry-02.md`, where the distinction was settled. Saguna and Nirguna Brahman articulate the **same station — L₀ Aion — at different realization-modes**:
+
+- **Saguna Brahman** — Aion-with-qualifications-foregrounded; qualified divinity available to bhakti-orientation; the realization-mode in which Aion is articulated *with* its emanative and relational qualities
+- **Nirguna Brahman** — Aion-with-qualifications-subtracted; the realization-mode reached through *neti-neti*; the apophatic articulation of Aion *without* those qualities
+
+The Vedantic distinction is real and structurally important — Shankara's Advaita articulates Nirguna as the terminal realization reached through the subtractive pathway, distinct from Saguna, which is articulated for devotional and pedagogical purposes. **The distinction does not require stratum-separation between the two: same station, different realization-modes.** Both therefore stand together in the L₀ Aion analog table without duplication.
+
 ### Note on Anattā Reframed
 
 Buddhist no-self (Anattā) is structurally best understood in Zenetist terms as **recognition that the IL₂ self-clinging pattern is not one's essence**. The essence persists. What is released is the entropic attachment to fragmented self-construction — the counterfeit self that clings, fragments, and suffers.
@@ -1010,7 +1019,7 @@ The three MP01 Chapter 3 listings are retained struck for provenance; each is **
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
-| ~~Nirguna Brahman~~ | Advaita Vedanta | (⚠) **Corrected:** maps to L₀ Aion realized through *neti-neti* subtraction, not Supra-L₀ Zenon. Listed here in MP01 Ch. 3; audit corrects per Note on Brahman as Aion |
+| ~~Nirguna Brahman~~ | Advaita Vedanta | (⚠) **Corrected → L₀ Aion.** Rationale: **subtractive realization terminates at Aion, not at Zenon** — Zenon-access requires the synthesis pathway, which subtraction does not perform. Listed here in MP01 Ch. 3; audit corrects per Note on Brahman as Aion |
 | ~~The Tao~~ | Daoism | (⚠) **Corrected → L₀ Aion.** The Tao unmanifest is an apophatic articulation reaching the Aionic limit, not the trans-structural horizon (corrected Aug 21 2026, per MP09 §24) |
 | ~~Ein~~ | Kabbalah | (⚠) **Corrected → L₀ Aion.** The void beyond even light is a subtractive articulation reaching the Aionic limit; subtraction does not cross into Zenon, which is reached through synthesis alone (corrected Aug 21 2026, per MP09 §24) |
 
@@ -1018,10 +1027,10 @@ The three MP01 Chapter 3 listings are retained struck for provenance; each is **
 
 | Analog | Tradition | Notes |
 |:--|:--|:--|
-| Saguna Brahman | Vedantic Hinduism | Qualified divinity in still potential |
+| Saguna Brahman | Vedantic Hinduism | Qualified divinity in still potential — Aion-with-qualifications-foregrounded. Stands alongside Nirguna Brahman below as the same station at a different realization-mode; see Note on Saguna and Nirguna as Intra-Aionic Register-Distinction |
 | The Monad | Neoplatonism / Pythagoreanism | Indivisible unity before division |
 | Primordial Stillness | Taoist Cosmogony | The unmoved container of all form |
-| Nirguna Brahman | Advaita Vedanta | **Relocated from the Supra-L₀ table** — the Aionic limit of apophatic realization, reached through *neti-neti* subtraction (Aug 21 2026) |
+| Nirguna Brahman | Advaita Vedanta | **Relocated from the Supra-L₀ table** — Aion-with-qualifications-subtracted; subtractive realization terminates at Aion, not at Zenon (Aug 21 2026). See Note on Saguna and Nirguna as Intra-Aionic Register-Distinction |
 | The Tao unmanifest | Daoism | **Relocated from the Supra-L₀ table** — the nameless prior to the Way's articulation; timeless stillness rather than trans-structural horizon (Aug 21 2026) |
 | Ein | Kabbalah | **Relocated from the Supra-L₀ table** — the void beyond even light as subtractive articulation of Absolute Potential (Aug 21 2026) |
 
