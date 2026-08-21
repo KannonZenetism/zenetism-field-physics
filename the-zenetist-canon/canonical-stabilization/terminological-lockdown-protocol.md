@@ -1173,6 +1173,32 @@ The positive form, where a scope statement is warranted:
 
 ---
 
+## Scope Test for the Restricted Families
+
+A restricted word is barred where it **asserts something the corpus denies** — that an origin moved, that a standing sits on an axis of worth, that a relation is one of governing and governed, that a thing is held as property in the economic sense (architect determination, August 20 2026).
+
+Where the word asserts none of that and is the ordinary technical name for what is being discussed, the restriction does not reach it:
+
+- **quotation mark** — the typographic name for the character
+- **watermark** — an embedded signal, as its publisher names it
+- **ranked results** — a platform's own description of its own architecture
+- **a property of the arrangement** — the attribute sense
+- **historical descent** — a term of art in the field being engaged
+
+> **The question is what the word claims, not whether the string appears.**
+
+Three consequences follow.
+
+**Nothing already determined is altered.** Every restricted family holds. Displacement, rank, govern, the owner family, conform, saturation, the vertical family, the use family, and the rest each assert what the corpus denies, and each stays barred.
+
+**One word may be lawful in one sense and barred in another within a single document.** *Property* is the clearest case: a property **of** an arrangement is an attribute and asserts nothing, while property **belonging to** a person in the economic sense is the category the corpus refuses. The same string, two claims, only one of them lawful.
+
+**Paraphrase does not release a barred claim.** Where the claim is present, changing the wrapper does not remove it — *the origin was superseded by a later account* asserts precisely what *displaced* asserts, and is barred on the same ground.
+
+**Worked example.** The corpus asserts that ideas have origins. It does not assert ownership of ideas, and the two are regularly conflated by parties characterizing its position. That conflation is why the owner family is barred in the author's voice while remaining lawful inside its own refusal: naming a position in order to decline it is not adopting it.
+
+---
+
 ## Displacement-Family Restriction
 
 **Displace**, **displaced**, and **displacement** are barred where the subject is an origin, an originating architecture, an author's standing, or an attribution (architect determination, August 2026, seated here August 20 2026).
