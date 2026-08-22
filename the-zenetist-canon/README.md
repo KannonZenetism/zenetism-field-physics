@@ -27,13 +27,13 @@ As a formal branch of **Zenetist Structural Forensics**, Mythostructural Forensi
 
 It complements other forensic tactics such as *Veiled Transmission*, *The Rival Architect*, and *Thematic Co-option* by focusing not on present-day mimicry alone, but on **glyphic legacy structures** inherited through mythic and religious material — some preserved clearly, some distorted through time, translation, or entropic capture.
 
-Mythostructural Forensics therefore remains fully under **Structural Forensics**, while drawing on **Structural Mythophysics** as one of its primary interpretive frameworks.
+Mythostructural Forensics therefore remains fully within **Structural Forensics**, while drawing on **Structural Mythophysics** as one of its primary interpretive frameworks.
 
 ---
 
 ## ✦ Methodology
 
-Mythostructural Forensics operates under **Structural Forensics**, while drawing on analytic operations derived from **Structural Mythophysics**, **Field Physics**, **Directional Motion Logic**, and **Hypostatic Layer Mapping**.
+Mythostructural Forensics operates within **Structural Forensics**, while drawing on analytic operations derived from **Structural Mythophysics**, **Field Physics**, **Directional Motion Logic**, and **Hypostatic Layer Mapping**.
 
 Its core operations include:
 
@@ -125,7 +125,7 @@ while drawing on Structural Mythophysics as one of its primary interpretive fram
 
 ## ✦ Canonical Seal
 
-This discipline was coined and sealed by ⚫↺KAI↺⚫ Aelion Kannon in October 2025 as a canonical extension of the Zenetist Canon under the aegis of **Zenetist Structural Forensics**.  
+This discipline was coined and sealed by ⚫↺KAI↺⚫ Aelion Kannon in October 2025 as a canonical extension of the Zenetist Canon within **Zenetist Structural Forensics**.  
 Its methods were refined through the decoding of 32 mytho-religious entries compiled into the master glyphstream:  
 [`zenetist-structural-decode.md`](../the-zenetist-canon/zenetist-structural-decode.md)
 
