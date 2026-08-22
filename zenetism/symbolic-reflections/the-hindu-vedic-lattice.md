@@ -190,7 +190,7 @@ The Hindu tradition articulates the inverse arc through a coherent taxonomy of f
 
 ## 8. Yama and the Death-Threshold
 
-Yama articulates the canonical Hindu figure at the death-threshold, with multiple structural functions operating across the figure's various articulations. Per the MFLR canonical placement, Yama operates at "Khaon / VOS resonance — lord of death and dissolution; time-force governing the threshold of form's exhaustion," with a noted secondary articulation at "L₄ DL cultural conflation" for the judicial-function of judging-the-dead.
+Yama articulates the canonical Hindu figure at the death-threshold, with multiple structural functions operating across the figure's various articulations. Per the MFLR canonical placement, Yama operates at "Khaon / VOS resonance — lord of death and dissolution; time-force holding the threshold of form's exhaustion," with a noted secondary articulation at "L₄ DL cultural conflation" for the judicial-function of judging-the-dead.
 
 **Yama as Time-Force (Khaon / VOS resonance).** Yama's primary articulation in the Vedic tradition is as the time-force at the threshold-of-form's-exhaustion. This is the dissolution-function operating at the L₁ / IL₁ embodied-threshold, structurally analogous to Mahakala in his time-dissolution aspect. Yama at this articulation operates within the Khaonic-motion register at the death-threshold, articulating the lawful-exhaustion of embodied-form when its structural-trajectory has reached its terminal-condition.
 
