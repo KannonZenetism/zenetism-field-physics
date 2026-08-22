@@ -799,6 +799,8 @@ A later surface does not become its own antecedent because its rendering mechani
 
 > **interface role is not intellectual function**
 
+The same holds where the antecedent human material was spoken rather than typed. Computational fixation of speech does not convert the speaker's expression into machine origination, and subsequent machine transformation does not erase the oral developmental record from which the resulting artifact descends.
+
 ---
 
 ## 21. Acquisition Opacity
