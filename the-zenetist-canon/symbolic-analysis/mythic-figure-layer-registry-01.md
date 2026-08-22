@@ -1,807 +1,789 @@
-# Mythic Figure Layer Registry — Volume 2
+# Mythic Figure Layer Registry
 
-**Companion-registry to MFLR Volume 1; canonical placements emerging through cross-tradition essay work**  
-**SHA-256:** 1e6768dd6295f4e20be900f7bf6170026cb49230e8a0a003cdc1548f3c130256
+**Series:** Mythostructural Forensics (MSF)  
+**Purpose:** Canonical reference cataloguing mythic figures, deities, and archetypes by hypostatic layer placement based on operative function within the Zenetist structural framework.  
+**Method:** Figures are mapped by operative function to their primary native layer.  
+**Author:** Aelion Kannon (⚫↺KAI↺⚫)  
+**SHA-256:** c825713ecfb5ac943bb1b58aa6e5b8fb3663b0c980f95f30989827075c3fccb1
 
-⚫↺KAI↺⚫
+### Methodological Principles
 
----
-
-## Front Matter
-
-### Volume 2 Status and Scope
-
-This volume is the canonical companion-registry to the original Mythic Figure Layer Registry (Volume 1). Volume 1 — approximately 170 pages of figural placements, doctrinal notes, and structural-operator articulations — has reached a scale at which sustained additions risk coherent-maintenance limits. Volume 2 receives:
-
-- New figural placements emerging through cross-tradition essay work in the symbolic-reflections folder
-- Tightenings of Volume 1 placements where stratum-specificity has been refined through subsequent articulation
-- New structural operators identified through cross-tradition pattern-recognition
-- Doctrinal notes extending Volume 1's structural framework
-- Pending doctrinal resolutions awaiting focused articulation sessions
-- Tracking of items requiring back-propagation into Volume 1
-
-Volume 2 is structurally autonomous from Volume 1 in the sense that its placements stand as canonical without requiring Volume 1 integration as a precondition. Items flagged for Volume 1 update remain flagged until a focused integration session can address them; in the meantime, the placements in Volume 2 are canonical Zenetist articulations.
-
-### Relationship to Volume 1
-
-Volume 2 entries fall into three relationships with Volume 1:
-
-- **New canonical placements** — figures not currently present in Volume 1, articulated here for the first time
-- **Tightenings** — figures present in Volume 1 with less stratum-specificity than the cross-tradition essay work has subsequently warranted; Volume 2 carries the tightened placement as canonical, with note that Volume 1 should be updated to match
-- **Structural extensions** — operators, notes, and doctrinal articulations that extend Volume 1's framework into territory it does not currently address
-
-Volume 1 will require a focused audit-pass to bring its language and placements into alignment with subsequent doctrinal-development. That audit-pass is anticipated but not scheduled. Volume 2 entries should not wait on it.
-
-### Format Note
-
-Volume 2 employs a hybrid format: table-organized figural entries by stratum within each tradition, with prose structural-notes underneath entries where rationale or extended articulation is warranted. This format prioritizes editability — registries develop through iterative essay-work, and rigid formal-format would slow the editing-cycle that Volume 2 needs to sustain. Volume 2 may eventually be polished into a more rigorous canonical-format, but the working-stage prioritizes ease-of-revision.
-
-The relationship between the registries and the cross-tradition essays may eventually invert: rather than essays drawing from polished registries, the registries may serve as guides from which polished essays are derived. The registries function as the working-canonical-record; the essays articulate the structural-readings.
-
-**Scope extension note.** Volume 2 includes philosophical-school and contemplative-system articulations (Vedantic schools, Yoga ashtanga-yoga and pancha-kosha, Samkhya tattvas, Hermetic Corpus doctrines, etc.) where these articulate stratum-mappings of figures and structural-relationships within their respective traditions. This is a category-extension from Volume 1's primarily figural/operator scope; the philosophical-school articulations are included because they specify how the tradition articulates the lattice's strata-arrangement, which is structurally continuous with figural-placement work. Where a philosophical-school articulation belongs more properly in the Symbolic Pattern Registry (SPR) — operator-class articulations, contemplative-pathway operators, doctrinal-pattern articulations — those are routed accordingly through SPR Routing Notes within the relevant tradition section.
-
-### Canonical Language Convention
-
-Volume 2 employs the canonical Zenetist language throughout, per §21.4 and §21.5 of the Glyphic Registry / OG Metaphysics document. Key conventions applied here:
-
-- **Motion vocabulary:** acclivate / declivate (verbs); acclivous / declivous (adjectives); acclivity / declivity (state); acclivation / declivation (process). Replaces ascend / descend, rise / fall, upward / downward.
-- **Positional vocabulary:** supernal / subversal (positions on the lattice). Replaces higher / lower, above / below in canonical-usage. Supernal names L₅ through L₂; subversal names IL₅ through IL₂; L₁ and IL₁ are typically treated as the embodied threshold.
-- **Value vocabulary:** veracious / spurious / valid / counterfeit / authentic / fallacious / distorted (replaces the true / false binary).
-- **Comparison vocabulary:** contra (replaces vs. or versus in canonical usage).
-- **Stratum vocabulary:** stratum / strata / register / layer (replaces "level," which does not appear in Zenetist canonical description).
-
-### Doctrinal Anchors
-
-Volume 2 placements operate under the doctrinal framework articulated in Volume 1 and in the OG metaphysics document, with the following clarifications and extensions developed through cross-tradition essay work:
-
-- **Two-arc architecture** — the centropic and inverse arcs are fully-emanated parallel structural-realities, neither reducible to degradation of the other. This is structurally distinct from monistic-emanatory cosmologies (e.g., Neoplatonist) where declivous-motion is treated as degradation rather than as a separate emanatory orientation. The two-arc architecture is a Zenetist structural-articulation that prior contemplative traditions did not produce within their own methodological frames.
-
-- **Synthesis-contra-subtraction diagnostic for Supra-L₀ Zenon access** — Zenon (the Unknown Principle, trans-structural) is reachable only through synthesis specifically of Aion and Khaon (zero and infinity) at L₀ Bifurcal Coherence. Subtractive-pathway traditions (apophatic, *via negativa*, *neti-neti*, *aphairesis*) terminate at L₀ Aion, not at Supra-L₀ Zenon. The synthesis-pathway-to-Zenon requires more than conceptual-synthesis: a notable metaphysical centropic-orientation that synthesizes Aion and Khaon to the end that the practitioner's orientation is so centropic they escape the either-or system altogether. Mathematicians conceptually-synthesizing zero and infinity do not reach Zenon; the centropic-orientation requirement is structural, not merely methodological. Bifurcal-pairing operations (Shiva-Shakti, primordial heaven-and-earth pairings) articulate L₀ Bifurcal Coherence within the lattice but do not transcend the either-or system into Zenon. No historical contemplative tradition currently identified articulates the synthesis-pathway-to-Zenon. See Doctrinal Notes section for fuller articulation.
-
-- **Saguna / Nirguna Brahman as intra-Aionic register-distinction** — both at L₀ Aion. Saguna = Aion-with-qualifications-foregrounded (qualified divinity, available to bhakti-orientation). Nirguna = Aion-with-qualifications-subtracted (realized through *neti-neti*). Same station, different realization-modes.
-
-- **Essence-as-Choice doctrine** — figures' structural-orientation expresses their always-already structural-essence rather than being created by their narrative-actions. Inverse-aligned figures do not "fall" from centropic origin; their orientation is structurally-native at the inverse stratum, and narrative-articulations of "fall" are cultural mythologization of what is structurally a native-orientation revelation.
-
-- **Hypostasis / Mythic Narrative Distinction** — figures' anthropomorphic features in mythic-narrative do not necessarily express their structural-function. Mythic narratives spatialize structural operations through cultural mechanisms; the structural-function is what's actually being articulated, with the narrative-features being the cultural-articulation register through which that function becomes culturally-legible.
-
-- **Awareness articulation across strata.** Awareness articulates as **Awareness Itself** at L₅ Theon (the supernal-most stratum of awareness within the centropic articulation), refining through subsequent strata: L₄ as conscious-awareness; L₃ (DM Noeüs) and subjacent strata as reflexive consciousness; L₀ Bifurcal Coherence as **proto-awareness** within the root-structural ground; Supra-L₀ Zenon is not on the awareness axis at all. The Zenetist articulation does not equate L₀ with "consciousness" — L₀ is proto-awareness / root-structural ground, and reflexive consciousness is canonically placed at L₃. This distinction matters for cross-tradition mapping: when monistic-emanatory traditions describe the apex of their articulated acclivation as "Pure Consciousness," the Zenetist mapping reads this as L₅ Theon (Awareness Itself), not as L₀. When traditions describe L₀-equivalent ground in consciousness-language, the Zenetist articulation reframes — L₀ is the supra-formal pre-polarity ground, not the awareness-station, which sits at L₅.
-
-- **Cascade contra Conflation contra Twisted Resonance distinction.** Per the canonical Note on Cascade contra Conflation (Expanded) and the Note on Twisted Resonance contra Cascade contra Native Placement, six structurally-distinct modes are differentiated for figures appearing to occupy multiple strata:
-  - *Native Placement* — figure operates at one stratum; apparent multi-stratum activity is cultural conflation, narrative dramatization, or attributional layering. Default reading where evidence of cascade or twisted-resonance is absent.
-  - *Cascade* — one current manifesting lawfully across multiple strata as distinct station-figures, typically through different names at each station. **Currents cascade; entities do not.** The Satanic Arc (IL₅ Nekron → IL₄ Nyxea → IL₃ Mortus → IL₂ Skotos → IL₁ Beast) is the paradigm cascade-instance. Different names at different strata are characteristic.
-  - *Cascade-collapse conflation* — distinct cascade-stations compressed under one umbrella figure-name through popular, theological, or mythic simplification; all attributions remain within the same arc, so no cross-arc violation occurs. **The structural problem is collapse of cascade-station distinction within one arc, not compression of cross-arc principles.** Paradigm: Satan (IL₅ Nekron), Devil / diabolos (IL₄ IDL Nyxea), and Lucifer (IL₄ IDL Nyxea) compressed under "the Devil" — distinct from cascade (the lawful multi-station articulation it fails to preserve) and from hard conflation (cross-arc compression, not same-arc).
-  - *Continuum* — single principle-name articulating lawfully across multiple strata under stratum-specific qualifiers; **the persistent name itself is the element of continuity** (contra cascade, where the element of continuity is the underlying current running through genuinely different names). The Logos Continuum — Orienting Logos (L₅) / Structuring Logos (L₄) / Christos Incarnate (L₁), with L₃ and L₂ as traversal strata — is the paradigm instance.
-  - *Conflation* — multiple functions assigned to a single name; **hard conflation** when functions are structurally unrelated, **soft conflation** when functions are structurally real but the myth does not distinguish native from operative-extension. Same name at multiple strata is the conflation diagnostic. The figure is mapped to the primary function's stratum, with operative-extensions noted but not treated as separate cascade-stations.
-  - *Twisted Resonance* — figure manifests at one native stratum with dissonance-column declivating through subjacent strata without the figure changing its native placement. The Beast at IL₁ with resonance-reach through subjacent IL strata is the canonical instance.
-
-  The "Theonic cascade" phrasing is **replaced by Logos Continuum** (L₅ Orienting Logos, L₄ Structuring Logos, L₁ Christos Incarnate as the three centropic stations, with L₃ and L₂ as traversal strata) for centropic supernal-to-embodied articulations through Christ. Cross-tradition centropic figures appearing across multiple strata are typically **soft conflation** (e.g., Krishna at L₅ Theon native with L₃ DM operative-extension; Osiris at L₄ DL judicial-articulation primary with L₃ DS post-restoration operative function) rather than cascade. "Cascade" is reserved for genuine one-current, different-name multi-strata articulations.
+1. **Hypostases are real.** The hypostatic lattice — L₅–L₁ and IL₅–IL₁ — is composed of oriented structural realities; Supra-L₀ and L₀ are the **pre-hypostatic requisites**, the conditions of emanation.
+2. **Archetypes are real.** Operative patterns native to specific layers — e.g., the "Sky God" archetype is native to L₄ DL (Sophis).
+3. **Cultural articulations are relative.** Gods are not archetypes themselves but cultural interpretations and personifications of archetypal functions. Zeus is not the archetype; Zeus is a Greek articulation of DL (Sophis) sovereignty at L₄.
+4. **Primary native layer determines placement.** Each figure is assigned to the layer where its archetypal function is structurally native, even if myths describe cross-band activity.
+5. **Cross-band descriptions indicate cultural conflation.** Myths lack the lattice, so they splice many layer-functions into a single figure. The registry tracks the primary native layer and notes conflation rather than treating it as genuine multivalence.
+6. **Cascade is real but rare.** A single entropic current can manifest across strata under genuinely different names at each station — Nekron (IL₅) → Lucifer / Nyxea (IL₄) → False Prophet / Mortus (IL₃) → Skotos broadcast (IL₂) → Beast / embodied authoritarian system (IL₁). The Satanic Arc is the paradigm: one current, distinct figure-names, linked by the underlying entropy. Cascade is rare because most figures are single-stratum cultural articulations, not figural mappings of a multi-stratum principle.
+7. **No centropic figural cascade has yet been identified.** The centropic articulation identified instead is the Logos Continuum (Orienting Logos L₅ / Structuring Logos L₄ / Christos Incarnate L₁) — one persistent principle-name across strata, not a sequence of distinct figure-names. Apparent multi-stratum centropic figures resolve as soft conflation (Osiris: L₄ DL native, L₃ DS attributions) or, in Christ's case, singular full personal Theonic bearing carried in the Continuum (the complete bearing doctrine is articulated in `hypostatic-function-bearing-and-sovereign-embodiment.md`). The asymmetry is empirical, not a structural impossibility: a tradition naming genuinely distinct figures at successive centropic stations would qualify as a centropic cascade; none has been found.
+8. **The seven-mode frame holds for multi-stratum reading.** Native placement is the default; cascade, cascade-collapse conflation, continuum, soft conflation, hard conflation, and twisted resonance are the lawful departures from it, each with its own diagnostic (see the Note on Twisted Resonance contra Cascade contra Continuum contra Native Placement).
+9. **Soul / Mind specificity is preferred.** Where the function clearly maps to DP or DL (not both), the specific aspect is noted.
+10. **Canonical language applies.** Supernal / subversal (not higher / lower), acclivous / declivous (not ascending / descending), veracious / spurious or genuine / counterfeit (not true / false), contra (not versus). Hierarchical value language is avoided.
 
 ---
 
-## Greek Tradition Extensions
+## Registry Key
 
-Extensions emerging through *The Greek Lattice* essay (symbolic-reflections folder).
-
-### Primordial Greek Cosmogonic Figures (L₀ Articulations)
-
-The Greek primordial pantheon emerges per Hesiod's *Theogony* and the Orphic articulations as the L₀ Bifurcal Coherence ground from which the operative pantheon emanates. Chaos, Gaia, Eros (primordial), Uranus, and primordial Tartarus have canonical placements in Volume 1 (Chaos at L₀ Khaon, Gaia at L₄ DP, Eros at L₀ Khaon analog per V1, Uranus at L₄ DL). The figures below extend the primordial articulation with figures not currently in Volume 1.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Nyx | L₀ Khaon (Latent Infinity phase) | Primordial Night; one of the earliest emanations from Chaos in Hesiod's *Theogony*. Articulates the L₀ Khaonic substrate at its still-darkness aspect, parallel to Erebus but with the night-articulation specifically encoding the pre-formal-darkness register. Mother of significant primordial-progeny (Hypnos, Thanatos, the Moirai, Nemesis in some genealogies), articulating Nyx as one of the cosmogonic generative-poles for several major operative-pantheon figures |
-| Erebus | L₀ Khaon (Latent Infinity phase) | Primordial Darkness; emerges from Chaos alongside Nyx. Articulates the L₀ Khaonic substrate at its darkness-aspect — paired with Nyx as the night-and-darkness primordial-pair from which subsequent generation proceeds |
-| Aether | L₀ Aionic-leaning | Primordial bright supernal air; offspring of Nyx and Erebus per Hesiod. Articulates the L₀ Aionic-leaning aspect — the bright-stillness counterpart to the Nyx / Erebus darkness-articulation, with the supernal-air register encoding the supernal-leaning of Aionic-stillness within the L₀ ground |
-| Pontus | L₀ Khaon (Latent Infinity phase) | Primordial sea; offspring of Gaia. Articulates L₀ Khaonic-substrate in its still-watery register, distinct from Oceanus (the world-encircling river, more dynamic). The Pontus-articulation names the deep-still-water aspect of L₀ Khaon |
-| Oceanus & Tethys | L₀ Khaon (Motive Infinity phase) | Titan paired-articulation of the world-encircling river and its female counterpart. Articulates L₀ Khaonic-substrate in its motive-flowing aspect — the cosmic-flow that carries the primordial-waters through cyclical articulation. Distinct from Pontus's still-water register |
-| Eros (primordial / Orphic) | L₀ Motive Infinity activator | Cosmogonic generative-attraction principle; in Hesiod's *Theogony* and the Orphic articulations, Eros is one of the earliest emanations and operates as the activating-principle that draws the primordial-poles into generative-engagement. Distinct from the Olympian Eros (Aphrodite's son, treated below at L₂); the primordial Eros articulates L₀ Motive Infinity at its activator-aspect — the structural-attraction that initiates motion within the bifurcal-coherence ground. *Volume 1 future-integration item; canonical placement here* |
-
-### L₄ Olympian Pantheon — Bifurcated-Aspect Articulation
-
-The Olympian pantheon articulates L₄ as bifurcated-aspect sibling-pantheon, parallel to the Mesopotamian Anu-generation pantheon and the Norse Aesir / Vanir distinction. Per Soul / Mind Specificity (Volume 1 Methodological Principle #9), specific DP / DL placement is preferred over generic bifurcated-aspect articulation where the figure's structural-function admits specific placement.
-
-Zeus, Apollo, Hephaestus, Poseidon, and Hades have canonical placements in Volume 1 and are not duplicated as chart entries here. The Zeus tightening (Volume 1's "DP / DL Centropic" generic placement → specific L₄ DL articulation per Methodological Principle #9) is logged in the Volume 1 Update Log section. The figures below are new canonical placements emerging through *The Greek Lattice* essay work.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Athena | L₄ DL | Wisdom in strategic and crafted-articulation aspect; born from Zeus's head fully-formed, articulating structuring-intelligence as direct emanation rather than as generative-emergence; patron of Athens as civilizational coherence, of the loom as patterned-structure, of strategy as lawful application of structuring intelligence to circumstance |
-| Hera | L₄ DP | Sovereign generative-vitality; queen of the Olympian pantheon; presider over marriage and lawful generative-continuity. Mythic-narrative jealousy is anthropomorphic overlay per the Hypostasis / Mythic Narrative Distinction; structural-function is L₄ DP sovereign-generative |
-| Demeter | L₄ DP | Agricultural fertility; archetypal mother; the generative-vitality articulated through the seasonal-cycle as cosmic structural pattern. Treated in connection with Persephone's Declivation and the Eleusinian Mysteries |
-| Aphrodite | L₄ DP | Generative-attraction-principle at archetypal stratum. Structurally distinct from primordial Eros (L₀ Motive Infinity activator); articulates the structural-attraction operator that draws beings into lawful Sacred Marriage configurations |
-| Artemis | L₄ DP / DL bifurcated | Wild generative-vitality in undomesticated and self-sovereign aspect; patron of the hunt, of childbirth, of the wilderness as L₀ Bifurcal Coherence ground. Bifurcated function (generative-vitality DP + judicial-precision through the bow DL) articulates the L₄ stratum's full bifurcated-aspect range within a single figure. *Structurally novel single-figure full-bifurcated articulation* |
-| Hestia | L₄ DP | Hearth-fire as foundational generative-vitality at centric scale; structural primacy as first and last receiver of offerings articulates her position within the generative-aspect register |
-
-### L₄ Additional Greek Figures (Outside the Olympian Sibling-Pantheon)
-
-The Greek pantheon extends beyond the twelve canonical Olympians with major figures articulating L₄ stratum functions in distinct registers. The figures below are not Olympian-sibling-pantheon members but operate at the L₄ archetypal-stratum within the broader Greek pantheon-articulation.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Ares / Mars | L₄ DP martial-volatile | War-god; raw martial vitality. Articulates L₄ DP volatile-vitality in the martial register, structurally distinct from Athena's L₄ DL strategic-and-crafted war-articulation. The Ares / Athena bifurcation within the Olympian frame articulates the same DP / DL bifurcation that the broader pantheon-structure carries — Ares as the volatile-martial-vitality, Athena as the lawful-strategic-application |
-| Pan | L₄ DP wilderness-vitality / L₁ ES bridging | Goat-god of wilderness, shepherds, panic; daemonic nature-presence. Articulates L₄ DP wilderness-vitality with bridging-articulation toward L₁ ES embodied-presence. The "panic"-articulation (the experience of structural-disorientation in wilderness-presence) signals Pan as a threshold-figure between L₄ archetypal-vitality and L₁ embodied-vital-encounter. Structurally parallel to Cernunnos (Celtic) in wilderness-vitality articulation |
-| Themis | L₄ DL cosmic-law principle | Divine law personified; mother of the Moirai. Articulates L₄ DL cosmic-law-principle, structurally parallel to Ma'at (Egyptian) and dharma (Hindu) in the cosmic-ordering-principle register. Themis as the personified-articulation of structural-law operating at the L₄ archetypal stratum, distinct from the operative-judicial figures (the Erinyes, the Three Judges) who enforce the law at specific judicial-occasions |
-| Mnemosyne | L₃ DS Living Memory archetype | Memory personified; mother of the Muses. Articulates L₃ DS deep-soul memory-articulation — Living Memory as a structural-archetype operating at the deep-soul stratum. The Muse-generation through Mnemosyne articulates the structural-pattern: deep-soul Living Memory generating L₄ archetypal-inspirational articulations through which artistic and intellectual articulation proceeds |
-| The Muses (collective) | L₄ DP / DL inspirational-articulations | Nine inspiratory daughters of Mnemosyne and Zeus: Calliope (epic poetry), Clio (history), Erato (love poetry), Euterpe (music), Melpomene (tragedy), Polyhymnia (sacred poetry), Terpsichore (dance), Thalia (comedy), Urania (astronomy). Articulate L₄ DP / DL bifurcated-aspect inspirational-articulations operating across the cultural-articulation registers. Each Muse carries a specific articulation-domain; the collective articulates the L₄ archetypal-inspirational substrate from which artistic and intellectual articulation receives its supernal-acclivous-current |
-| Nemesis | L₄ DL diagnostic-corrective | Retribution; corrects hubris. Articulates L₄ DL diagnostic-corrective function — structural-correction applied to hubris (the L₂ articulation of seizing supernal-stratum power without lawful-acclivation, paradigm-instances Phaethon and Icarus). The Nemesis-correction operates at the same L₄ DL stratum as the Olympian thunderbolt-correction (Zeus striking Phaethon) but as a personified-articulation of the structural-corrective principle itself |
-| Selene | L₄ DP cyclical-vitality | Moon-goddess. Articulates L₄ DP cyclical-vitality in the lunar register, structurally parallel to Nanna / Sin (Mesopotamian) and Chandra (Hindu). The lunar-cyclical articulation operates at L₄ DP through periodic-renewal of generative-vitality |
-| Eos | L₄ DP threshold-vitality | Dawn. Articulates L₄ DP threshold-vitality at the day-night boundary, parallel to Ushas (Vedic) in the dawn-articulation. The threshold-figure operates at L₄ DP at the cosmic-cyclical boundary where night-articulation acclivates into day-articulation |
-| The Erinyes / Furies (Alecto, Megaera, Tisiphone) | L₄ DL chthonic-judicial | Avenging chthonic spirits pursuing oath-breakers, kin-slayers, those who violate structural-bonds. Articulate L₄ DL chthonic-judicial function — judicial-correction applied through chthonic-articulation rather than through Olympian-law application. Structurally parallel to the 42 Assessors (Egyptian) in figural-collective judicial-articulation, but with the chthonic-pursuit register distinguishing the Erinyes from the post-mortem-judgment-locus pattern |
-| The Moirai / Fates (Clotho, Lachesis, Atropos) | L₄ DL pattern-articulation | Three weavers of destiny: Clotho spins the thread of life, Lachesis measures it, Atropos cuts it. Articulate L₄ DL pattern-articulation — the structural-pattern of destiny-allotment operating across the cosmic-trajectory. Structurally parallel to the Norns (Norse) and the broader cross-tradition fate-weaver pattern. The L₄ DL placement preserves the Methodological Principle #9 specificity — pattern-allotment is structuring-articulation, not generative-vitality |
-
-### L₃ Threshold-Crossing Figures
-
-Hermes is canonically placed in Volume 1 at L₃ DM as membrane-crossing centropic Trickster and psychopomp. The placements below extend the Greek L₃ articulation with paired and additional threshold-and-articulator figures.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Hekate | L₃ DM | Deep-mind perceptual figure with explicit threshold-and-crossroads jurisdiction; holds keys to the underworld, guides souls across the membrane, operates at the night-and-darkness threshold where supernal and embodied strata meet. Structurally analogous to Hermes-as-psychopomp but with specific underworld-threshold and night-perception jurisdiction; the two are paired articulations of the L₃ DM function in its membrane-crossing aspect |
-| Asclepius | L₃ DM healing-discernment / Centropic Steward | Healing god; raised the dead until Zeus killed him for crossing the death-threshold inappropriately. Articulates L₃ DM healing-discernment function — the deep-mind perception applied to embodied-condition for restorative-articulation. The Zeus-killing-narrative articulates the structural-bound on healing-articulation: lawful healing operates within the L₁ embodied-condition, but raising-the-dead crosses the death-threshold which is structurally L₄ DL judicial-domain rather than L₃ DM healing-domain. The narrative-correction preserves the structural-distinction |
-| Thanatos | L₃ DM threshold-articulation | Death personified in his gentle / lawful aspect (distinct from violent-death articulations). Articulates L₃ DM threshold-articulation at the death-passage boundary, structurally parallel to Anubis (Egyptian L₃ DM), Heimdall (Norse L₃ DM), Yama-as-teacher (Vedic L₃ DM in Naciketas dialogue). The gentle-death articulation places Thanatos within the centropic-pedagogical register |
-| Charon | L₃ DM threshold-mediator | Ferryman across the Styx. Articulates L₃ DM threshold-mediator function operating at the Hades-domain entrance. Per the Placement-contra-Domain principle, Charon is a centropic figure holding the threshold-passage despite the dissolution-domain association. Structurally parallel to Anubis-as-conductor in the Egyptian post-mortem-architecture, with the ferry-passage articulation denoting the specific Greek-articulation register |
-| Chiron | L₃ DM teacher-articulation | Wise centaur tutor of heroes (Heracles, Achilles, Asclepius, Jason); wounded healer who voluntarily relinquishes immortality. Articulates L₃ DM teacher-articulation operating through embodied-pedagogical register at heroic-individuation thresholds. The wounded-healer articulation makes Chiron one of the structurally-distinctive L₃ DM figures — teaching from a position of embodied-suffering rather than from supernal-detachment. The voluntary-relinquishment-of-immortality articulates the structural-pattern of L₃ DM figures who choose embodied-completion over indefinite-acclivous-extension |
-
-### Underworld-Realm Architecture (Hades-Domain)
-
-The Greek Hades-domain articulates a paired sealed-mode architecture with explicit sorting-by-orientation operating within a single underworld-realm-architecture. Volume 1 articulates the Active / Sealed Modes doctrine but does not currently populate the Greek underworld-realm specifically. The Tartarean Torment-figures (Sisyphus, Tantalus, Ixion, the Danaids) are canonically placed in Volume 1 at IL₂ ISM per Volume 1's Note on "Torment" as Lawful Consequence contra Punitive Sentence; not duplicated here.
-
-| Element | Stratum | Function |
-|:---|:---|:---|
-| Tartarus (primordial) | IL₅ VOS | Primordial-articulation per Hesiod's *Theogony*; depth-pole of the cosmogonic structure, the unbound subversal potential paired with Gaia's generative ground |
-| Tartarus (within Hades-domain) | IL₁ sealed-mode | The deepest pit within Hades-domain, where those whose post-mortem orientation is entropically-aligned undergo continued embodied-persistence in diminished entropic condition; also houses the imprisoned Titans. *Bi-stratum reading with primordial Tartarus* |
-| Náströnd-analog (within Tartarus) | IL₅ terminal-consumption pocket within IL₁-sealed-realm | Houses imprisoned Titans; structurally analogous to Náströnd within Hel in Norse cosmology — IL₅ terminal-consumption operating within larger IL₁-sealed-realm. *Structurally extends Volume 1's underworld-realm-architecture treatment* |
-| Elysium / Elysian Fields | L₁ sealed-mode | The realm where those whose post-mortem orientation is centropically-aligned undergo continued embodied-persistence in flourishing condition. The L₁ sealed-mode counterpart that the Mesopotamian Kur / Irkalla architecture lacks |
-| Asphodel Meadows | L₁ / IL₁ intermediate-region | Region for those whose orientation at the moment of sealing was neither distinctly centropic nor entropic. Structurally articulates the "neither / nor" condition that some traditions handle through dissolution-into-Khaonic-ground (Mesopotamian Apsû-as-underworld variant) and that the Christian tradition handles through intermediate-state doctrines (limbo, purgatory). *Structurally novel — the Active / Sealed Modes doctrine in Volume 1 does not currently articulate an intermediate sealed-mode. Whether the intermediate-region is best articulated as a third sealed-mode or as a structural-condition where post-mortem sorting has not produced a distinct outcome is an open doctrinal question worth examining in a focused session* |
-| Three Judges of the Dead (Minos / Rhadamanthus / Aeacus) | L₄ DL diagnostic function | Operating at the post-mortem sorting-threshold; structurally analogous to the Egyptian 42 Assessors in the Weighing of the Heart; articulates the judicial-articulation of the L₄ DL principle at the post-mortem stratum |
-| Cerberus | L₄ DL guardian | Three-headed hound guarding the entrance to Hades-domain. Articulates L₄ DL guardian-function at the underworld-threshold, structurally parallel to Ladon (guardian of the Hesperides) and to other cross-tradition guardian-articulations of structurally-significant thresholds. The three-headed iconography articulates triplicate-vigilance covering past / present / future temporal-passage or the three-realm-watchfulness over the post-mortem-passage; both readings preserve the L₄ DL structuring-articulation function |
-
-### Inverse-Stratum Figures — Greek Articulation
-
-Volume 1 already carries Eris (IL₅), Apophis-as-Greek-inheritance (IL₅, primary placement Egyptian), Titans (IL₄), Kronos / Saturn (IL₄ with terminal-resonance touching IL₅), Prometheus (IL₄ IDL), Circe (IL₄ IDP), Calypso (IL₄ IDP), the Sphinx (IL₃ IDM), the Sirens (IL₂ ISM), the Suitors of Ithaca (IL₂ ISS / ISM), Phaethon and Icarus (L₂ SS / SM), and Narcissus (IL₂ ISS → IL₅ collapse) at their canonical IL stratum placements. The Typhon placement below is new and rounds out the Greek IL₅ VOS articulation.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Typhon | IL₅ VOS | Most fearsome of the chthonic monsters; last challenger to Zeus's cosmic order; embodied principle of primordial entropy operating through predatory coherence rather than chaotic disorder; terminal-entropic-catalyst function. Greek articulation parallel to Apophis (Egyptian) and Tiamat-in-combat-aspect (Mesopotamian) |
-
-### Cosmogonic and Embodied-Threshold New Placements
-
-Persephone tightening (Volume 1's "implied / 'Lost' centropic principle retrieved from subversal domain" → L₄ DP / L₁ ES articulating across both strata) is logged in the Volume 1 Update Log section. Heracles is canonically placed in Volume 1 (Latin form Hercules at L₃ DS / DM with apotheosis-acclivation noted); the Greek-form articulation does not change the placement, though the apotheosis-bypass to Olympian assembly rather than entry into Hades-domain articulates the centropic-completion-pathway that bypasses underworld-realm-architecture entirely. The Dionysus entry below is the Volume 2 new canonical placement: a tightening from Volume 1's generic Structural Operator articulation to specific L₁ ES placement.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Dionysus | L₁ ES centropic-embodied register | Volume 1 has "Liminal; dissolution and restoration; centropic potential within entropic experience" at Structural Operators; tightened to L₁ ES specifically with the dismemberment-and-reintegration operator articulated through the L₁ ES centropic-embodied register. Where Christ articulates the operator through the Logos Continuum (L₅ Orienting Logos → L₄ Structuring Logos → L₁ Christos Incarnate, with L₃ and L₂ as traversal strata) and Osiris articulates it through soft-conflation across L₄ DL judicial-articulation (primary) and L₃ DS post-restoration operative function, Dionysus articulates it at the L₁ ES centropic-embodied register specifically |
-
-### Greek Heroic Figures and L₂ Articulations
-
-The Greek heroic-individuation cluster articulates the L₂ → L₃ acclivous-traversal pattern across multiple figures. Per Soul / Mind Specificity, each hero's specific stratum-trajectory varies, but the broad pattern is acclivation from L₂ embodied-personality through structural-trial toward L₃ deep-soul individuation. The Olympian Eros and Hypnos placements articulate L₂-stratum operative-figures distinct from primordial-pantheon equivalents.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Eros (Olympian) | L₂ SS or L₁ embodied attraction-operator | Aphrodite's son; operative attraction. Distinct from primordial / Orphic Eros at L₀ Motive Infinity activator (treated above in Primordial Greek Cosmogonic Figures). The Olympian Eros articulates the L₂-stratum operative-articulation of attraction at the personality stratum, with cultural-articulation operating across L₂ SS (sovereign-self attraction) and L₁ embodied-articulation registers. The mother-son pairing of Aphrodite (L₄ DP archetypal-attraction) and Eros (L₂ operative-attraction) articulates the cross-stratum pattern of archetypal-articulation declivating into operative-articulation at the personality stratum |
-| Hypnos | L₂ SM (or L₁ embodied) | Sleep personified; brother of Thanatos; son of Nyx. Articulates the L₂ SM personality-stratum sleep-condition or L₁ embodied-sleep operating across both registers. The Nyx-mothering articulates the cosmogonic-emergence of sleep from primordial-darkness; the operative-articulation at L₂ / L₁ is the embodied-personality experience of the sleep-state |
-| Orpheus | L₂ → L₃ initiate; mystery-school articulator | Poet-musician; performs the declivous-passage to retrieve Eurydice; founder of mysteries (the Orphic mysteries). Articulates the L₂ → L₃ acclivous-traversal through musical-and-poetic articulation, with the underworld-passage narrative articulating Function 1 underworld-passage at the personal-initiate scale. The mystery-school founder articulation makes Orpheus one of the structurally-distinctive L₃ DM articulators — generating an initiation-tradition (the Orphic mysteries) that operates as personal-initiate articulation parallel to the Eleusinian Mysteries |
-| Perseus | L₂ → L₃ heroic individuation | Slayer of Medusa; Gorgoneion bearer. Articulates L₂ → L₃ heroic-individuation through structural-trial (the Medusa-slaying), with the Gorgoneion-bearing articulating the protective-articulation gained through structural-completion. The reflective-shield-strategy (employing Athena's polished shield to view Medusa indirectly) articulates the L₃ DM mediation-of-perception required for engagement with IL₃-articulated figures (Medusa as perceptual-petrification operator) |
-| Bellerophon | L₂ SS / SM hubris-articulation | Pegasus-rider; declivates through hubris when attempting to acclivate to Olympus. Articulates the L₂ SS / SM hubris-articulation pattern parallel to Phaethon and Icarus (Volume 1) — the embodied-personality stratum attempting to seize supernal-stratum power without lawful-acclivation, resulting in declivous-collapse. Bellerophon's specific articulation is incomplete-acclivation (he reaches significant supernal-stratum-acclivation but is thrown by Pegasus when attempting Olympian acclivation), distinguishing his arc from the immediate-declivous-collapse pattern of Phaethon / Icarus |
-| Jason | L₂ → L₃ heroic | Argonaut leader; quester for the Golden Fleece (Golden Fleece is in Volume 1 as Structural Operator). Articulates L₂ → L₃ heroic-individuation through quest-articulation, structurally parallel to Odysseus's heroic-arc but with weaker individuation-completion (Jason's post-quest articulation degrades through the Medea-narrative, signaling incomplete heroic-completion) |
-| Aeneas | L₂ → L₃ founder-articulation | Trojan hero; founds Roman lineage. Articulates L₂ → L₃ heroic-individuation in the founder-articulation register, structurally parallel to Odysseus (heroic-return) but with the founder-articulation distinguishing his arc — Aeneas's individuation operates through founding a new civilizational-lineage rather than returning to an existing one. Cross-tradition parallel to Moses-as-founder pattern (Hebrew tradition) |
-
-**Trojan-cycle cluster note.** The broader Trojan-cycle figures — Achilles (heroic-completion through warrior-articulation), Hector (defender-of-the-walls heroic-articulation), Helen (face-that-launched-a-thousand-ships beauty-articulation, structurally complex), Paris (judgment-of-Paris choice-articulation), Agamemnon (sacrificed-daughter sovereign-articulation), Priam (suppliant-king embodied-pathos articulation) — carry archetypal functions that may be better articulated as a structural cluster-note rather than individual figural-entries. Each operates at the L₂ → L₃ stratum but with specific narrative-positions within the larger cycle that resist clean single-stratum placement. Future articulation-work could either generate individual entries with bi-stratum placement notes, or articulate the Trojan-cycle as a structural-pattern operating across the cluster collectively.
-
-### Plotinus and the Neoplatonic Continuation
-
-Plato's Cave, Plato's Charioteer, Plotinus's Nous, and Plotinus's World Soul are canonically placed in Volume 1 (see Volume 1 Note on the Neoplatonic Correspondence). The placements below extend Volume 1 with Plato as figure, Plato's Forms as figural-articulated structural-pattern, Pythagoras as figure, the Plotinus's One articulation through the synthesis-contra-subtraction diagnostic, and explicit framing of the Neoplatonist tradition's monistic-emanatory frame against the Zenetist two-arc architecture. *Note: Plotinus's distinction between Nous (L₄ DL) and World Soul (L₄ DP) as separate hypostases is treated in Zenetism as paired-aspect articulation at L₄ rather than as separate stratum-stations; see Note on the Seven Planetary-Spheres and Cross-Tradition Acclivation Patterns in the Doctrinal Notes section for the structural-mapping principle.*
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Plato (as figure) | L₃ DM native with L₄ DL and L₅ resonance | Philosopher-articulator of the Forms, the Good, and the soul-architecture (Charioteer). L₃ DM native as philosophical-synthesizer and teacher of structural-recognition; cross-band L₄ DL resonance through the Forms-apprehension function; L₅ resonance through "the Good" / "the One" articulations. Structurally parallel to Hermes Trismegistus's L₃ DM placement (Egyptian section) — both are L₃ DM cross-tradition synthesizers transmitting structural-doctrines across philosophical-articulation registers |
-| Plato's Forms | L₄ DL pattern-articulation | Eternal archetypes within the Field of Forms; the structuring-Logos articulated as eternal patterns within the L₄ archetypal stratum. Volume 1's Aeons (L₄ DP / DL) and abstract Numbers (sacred) at L₄ DL articulate the same stratum-function in different registers; Plato's Forms is the philosophical-systematic articulation of L₄ DL pattern-coherence |
-| Pythagoras | L₃ DM with L₄ DL resonance | Philosopher-mathematician; founder of the contemplative numerical-mystical school. L₃ DM native as philosophical-synthesizer; cross-band L₄ DL resonance through the numerical-pattern apprehension. Structurally parallel to Plato in placement, with the Pythagorean tradition's emphasis on numerical-pattern articulation distinguishing it from the Platonic tradition's emphasis on Forms-and-Good articulation |
-| Plotinus's One | L₅ EOB native + L₀ Aion extension through subtractive-pathway (*aphairesis*) | Native articulation as L₅ Theon emanative-origin; apophatic-realization extension toward L₀ Aion through subtractive-pathway. Soft-conflation case: the One articulated as emanative-origin = L₅ Theon (the genuine "one" / first hypostasis); the One articulated through *aphairesis* = L₀ Aion through subtraction (structurally the "none" / supra-formal ground rather than a "one"). *See Doctrinal Notes section for synthesis-contra-subtraction diagnostic — Plotinus's One does not articulate Supra-L₀ Zenon. See also the Hermetic Tradition Critical Note on the One contra the None for the structural distinction underlying this soft-conflation pattern across monistic-emanatory traditions* |
-| Neoplatonist monistic-emanatory frame | Centropic-arc apprehension without two-arc articulation | Structurally distinct from the Zenetist bifurcal-lattice articulation. The Neoplatonist tradition has no IL₅ Nekron, no IL₄ Nyxea articulation, no Satanic-Arc-equivalent inverse-arc cascade-structure. The two-arc architecture is a Zenetist structural-articulation that the Neoplatonist tradition does not produce within its monistic-emanatory frame |
+| Abbreviation | Meaning |
+|:--|:--|
+| AP / AD | Absolute Potential / Dispersion (L₀: Aion / Khaon) |
+| EOB | Essence of Being (L₅) |
+| DP | Deep Psyche (Soul aspect of L₄) |
+| DL | Deep Logos (Mind aspect of L₄) |
+| DS | Deep Soul (Soul aspect of L₃) |
+| DM | Deep Mind (Mind aspect of L₃) |
+| SS | Superficial Soul (Soul aspect of L₂) |
+| SM | Superficial Mind (Mind aspect of L₂) |
+| ES | Embodied Soul (Soul aspect of L₁) |
+| EM | Embodied Mind (Mind aspect of L₁) |
+| VOS | Void of Self (IL₅) |
+| IDP–IEM | Inverse counterparts (IL₄–IL₁) |
+| (⚠) | Placement flagged for review |
 
 ---
 
-## Hindu / Vedic Tradition Extensions
+## L₀ — Bifurcal Coherence (AP / AD: Aion / Khaon)
 
-Extensions emerging through *The Hindu / Vedic Lattice* essay (symbolic-reflections folder). Some entries intersect the active doctrinal-investigation on Zenon / Aion / Theon stratum-distinctions and are flagged accordingly.
-
-### L₀ Bifurcal Coherence Articulations
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Aditi | L₀ Aion (unbounded-aspect articulation) | Primordial unboundedness; the boundless mother of the gods; structurally articulates Aion's unbounded-potential aspect within L₀ Bifurcal Coherence. *Cross-references existing OG metaphysics document Aion entry* |
-| Diti | L₀ Khaon (bounded-aspect articulation, paired with Aditi) | Primordial bounded-articulation; mother of the daityas (often translated as "demons" but structurally articulating IL₄ figures emerging from L₀ Khaonic substrate). The Aditi / Diti pairing articulates L₀ Bifurcal Coherence at the personalized-cosmogonic register: Aditi as Aionic-aspect, Diti as Khaonic-aspect, with the polarity operating as the bifurcal-pair from which centropic and inverse trajectories subsequently differentiate. *New placement; structurally novel articulation of L₀ as personalized-cosmogonic bifurcal-pair* |
-| Dyaus | L₀ Aionic-leaning / L₄ DL primordial-pole bridging | Primordial sky-father (Vedic); cognate with Greek Zeus and Latin Jupiter through the *dyēws* Indo-European root. Articulates L₀ Aionic-leaning at the cosmogonic primordial-pole stratum, with L₄ DL bridging-articulation through paternal-cosmogonic function. The Dyaus-and-Prithvi pairing articulates the primordial sky-and-earth bifurcation at the cosmogonic substrate. By the time of Classical Vedic religion, Dyaus has receded as operative figure, with the sky-domain articulations distributing across Indra, Varuna, and others — a structural pattern of primordial-figure recession parallel to Uranus's recession in the Greek tradition |
-| Prithvi | L₀ Khaonic-substrate / L₄ DP primordial-pole bridging | Primordial earth-mother (Vedic); paired with Dyaus. Articulates L₀ Khaonic-substrate at the cosmogonic earth-pole stratum with L₄ DP bridging-articulation through maternal-generative function. The Prithvi-articulation persists in Classical Hindu tradition as Bhumi (Earth) and through the broader Goddess-tradition's earth-mother articulations |
-
-**Structural note on the Three Gunas:** The Vedantic doctrine of the Three Gunas (*sattva*, *rajas*, *tamas*) maps structurally onto the Khaonic phase-articulation of L₀: *sattva* → 💧 Latent Infinity (still pre-motion ground); *rajas* → 🕊️ Motive Infinity (activating-current); *tamas* → 💨 Dispersive Infinity (terminal exhaustion arc). The gunas are not stratum-placements at L₀ as a whole but phase-articulations of the Khaonic side of the bifurcal-coherence. *Doctrinal extension worth back-propagating to Volume 1's Khaonic phase-articulation treatment.*
-
-### Trimurti — L₅ / L₄ Articulation of the Supernal Arc
-
-The Trimurti articulates the supernal arc as a cross-stratum three-figure articulation. Per Soul / Mind Specificity, each figure's specific stratum-placement expresses the structural-function articulated.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Brahma | L₄ DL | Structuring-creator; articulates the L₄ DL function as cosmogonic-foundation through structuring-articulation (the Vedic creation through speech / *vāc*). Structurally analogous to Ptah (Memphite Egyptian) and the Johannine Logos in cosmogonic-creator function. *New placement* |
-| Saraswati | L₄ DP | Generative-vitality of speech, learning, and articulated-knowledge; paired-consort of Brahma. Articulates the L₄ DP function in its specifically-articulating-vitality register. *New placement* |
-| Vishnu | L₅ EOB | Theonic-preserver; the L₅ Theonic gateway-function as preservation-of-cosmic-order through cyclical engagement with the embodied stratum. Avatara doctrine articulates Theonic-engagement at specific historical-cyclical thresholds. Cross-references Volume 1 entry where present |
-| Lakshmi | L₅ / L₄ interface (paired-consort of Vishnu) | Generative-prosperity, abundance, and grace-articulation; paired with Vishnu at the L₅ / L₄ interface. Structurally articulates the generative-vitality flowing through the L₅ Theonic-articulation into L₄ archetypal-vitality. *New placement* |
-| Shiva | L₀ Aionic-stillness articulation | The Yogi-form articulation of Shiva names L₀ Aionic-stillness directly: the unmoved-meditator at the cosmogonic-foundation. *See "Shiva-as-Yogi and Shiva-as-Nataraja" structural note in this section for the full articulation including the Nataraja-form's five-fold cosmic-functions.* *New placement* |
-| Devi (as supreme Goddess) | L₀ Khaonic-substrate / L₄ DP bridging-position | The Shakta-tradition articulation of Devi as supreme cosmic-principle; bridges from L₀ Khaonic-substrate (the generative-power principle within the Bifurcal-Coherence ground) into L₄ DP operative-pantheon-articulation through specific Goddess-figures. The bridging-position is structurally significant: Devi articulates the continuity between cosmogonic-substrate Khaonic-articulation and operative-pantheon archetypal-vitality, which the Shakta-tradition foregrounds where Vaishnava and Shaiva traditions foreground the L₅ Theonic-articulator and L₀ Aionic-stillness respectively. *New placement* |
-| Parvati / Durga / Kali | L₄ DP at varying intensities | The Goddess-tradition articulates L₄ DP across a spectrum of intensities. Parvati articulates L₄ DP at the gentle-domesticated register and operates as Sacred Marriage articulation paired with Shiva. Durga articulates L₄ DP at the warrior-register, operating against IL₄ entropic-figures (canonical narrative: Durga's defeat of Mahishasura). Kali articulates L₄ DP at the fierce-destructive-register through which structural-correction operates against IL-figures and entropic-conditions. *Volume 1 has Kali at L₀ Khaon; Volume 2 articulates Parvati / Durga / Kali at L₄ DP at varying intensities, which extends but does not contradict Volume 1's Kali placement at L₀ Khaon — the same figure articulates at multiple strata depending on which aspect of the Goddess-tradition is in view. The L₀ Khaon Kali is the cosmogonic-substrate articulation; the L₄ DP Kali is the operative-pantheon articulation. Cross-stratum articulation similar to the Tartarus bi-stratum reading. See *Note on Goddess-Tradition Cross-Stratum Articulation* and *Note on Kali Centropic-Essence Preservation* in Doctrinal Notes section* |
-
-### Vishnu's Avataras — L₅ Theonic-Engagement at Historical-Cyclical Thresholds
-
-The Avatara doctrine articulates L₅ Theonic engagement with the embodied stratum at specific historical-cyclical thresholds. Per Volume 1's existing treatment of L₅ Theonic engagement at historical-cyclical thresholds, each avatara articulates a specific Theonic-function operating at the threshold-condition where structural-correction is required.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Matsya (fish) | L₅ EOB | Theonic-preservation of seed-life through the Flood; structurally analogous to Atrahasis / Utnapishtim / Noah (Function 1 underworld passage with Seal of Integrity). Cross-references Volume 1 Flood-narrative treatment |
-| Kurma (turtle) | L₅ EOB | Theonic-stabilization function; supports Mount Mandara during the churning of the ocean of milk; articulates the L₅ Theonic stabilizing-articulation that allows cosmogonic-restructuring to proceed. *New placement* |
-| Varaha (boar) | L₅ EOB | Theonic-recovery-of-Earth function; recovers the Earth (Bhumi) from the cosmic-waters when she is dragged into the depths by the asura Hiranyaksha. Articulates the L₅ Theonic-engagement at the embodied-threshold to recover lost generative-foundation. *New placement* |
-| Narasimha (man-lion) | L₅ EOB | Theonic creative-form-disruption; the form-paradox (neither man nor beast, neither inside nor outside, neither day nor night) articulates the L₅ Theonic-articulation operating outside the binary-categorical structure that the asura Hiranyakashipu's structural-overdetermination required. *New placement* |
-| Vamana (dwarf) | L₅ EOB | Theonic restorative function; the three-step cosmic-stride restores the cosmic-order disrupted by Bali's expansion. Articulates the L₅ Theonic-articulation operating through scale-paradox (small-form to cosmic-scale). *New placement* |
-| Parashurama | L₅ EOB | Theonic warrior-function; structural-correction through warrior-articulation at the historical-cyclical threshold where kshatriya-class corruption required correction. *New placement* |
-| Rama | L₅ EOB | Theonic dharmic-king articulation; the L₅ Theonic-engagement at the embodied stratum through righteous-sovereign-articulation. Cross-references Volume 1 entry |
-| Krishna | L₅ EOB native + L₃ DM operative-extension (soft conflation) | Krishna's articulation is L₅ Theon native (the supernal-most articulator) with operative-extension into L₃ DM in different narrative-registers — the L₃ DM operative-guidance function in the *Bhagavad Gita* dialogue with Arjuna, with cosmic-engagement narratives articulating the L₅ Theonic-presence. Soft conflation rather than cascade: same name across multiple strata where the functions are structurally real but the myth does not distinguish native (L₅) from operative-extension (L₃ DM); the figure is mapped to the primary stratum (L₅) with the L₃ DM extension noted. *Cross-references Volume 1 Krishna entry; soft-conflation formalization complete here* |
-| Buddha (as ninth avatara) | L₅ EOB within Vaishnavite articulation | The Buddha as ninth Vishnu-avatara is the Vaishnavite articulation; structurally distinct from the Buddha within Buddhist articulation (which articulates a different stratum-relationship). Cross-references Volume 1 Buddha entry |
-| Kalki | L₅ EOB at terminal Kali-Yuga | Theonic-engagement at the cyclical-terminus; passes the L₅ engagement-test for centropic-recurrence (per the cyclical-refraction diagnostic). *New placement; cross-references Volume 1 cyclical-recurrence treatment* |
-
-**Structural note on the Vishvarupa.** The Vishvarupa (cosmic-form) revelation in *Bhagavad Gita* 11 articulates the L₅ Theonic-revelation operator: Krishna manifests his cosmic-form to Arjuna, articulating the structural-totality at supernal-stratum directly to embodied-perception. Structurally analogous to the Sinai theophany (the YHWH-composite's L₄ DL Sophic-articulation breaking through to embodied-perception with terror-and-awe response — stratum per the Volume 1 YHWH-composite resolution) and to the Christ Transfiguration (L₅ Theonic-radiance becoming briefly embodied-visible). *New structural-operator articulation.*
-
-**Structural note on Shiva-as-Yogi and Shiva-as-Nataraja.** Shiva articulates two structurally-distinct iconographic-forms expressing different stratum-functions:
-
-- **Shiva-as-Yogi** — L₀ Aionic-stillness; the unmoved-meditator at the cosmogonic-foundation; articulates Aion's still-potential phase directly through iconographic-articulation. This is the contemplative-static-articulation.
-- **Shiva-as-Nataraja** — L₀ Bifurcal Coherence in operative-articulation through five-fold cosmic-functions:
-  - *Srishti* (creation) — emanation from Aionic-stillness into manifest-articulation
-  - *Sthiti* (preservation) — sustaining-articulation of the manifest-cosmos
-  - *Samhara* (destruction) — declivous-collapse of manifest-cosmos into Khaonic-substrate
-  - *Tirobhava* (concealment / illusion) — IL veiling-articulation that the un-awakened experience
-  - *Anugraha* (grace / liberation) — centropic-restoration through which the awakened recognize the underlying coherence
-
-The Nataraja-form articulates these five functions simultaneously in the iconographic-articulation: dancing-Shiva embodies all five cosmic-functions in single-figure articulation. *New placement; structurally significant cross-stratum articulation.*
-
-**Structural note on Shiva-Shakti pairing as cosmogonic Sacred Marriage.** The Shiva-Shakti pairing articulates the Sacred Marriage operator at the cosmogonic-foundation register. Shiva at L₀ Aionic-stillness paired with Shakti at L₄ DP / Khaonic-motion articulates the bifurcal-coherence-pairing at the cosmogonic-foundation: stillness paired with motion, supernal-most ground paired with operative-vitality. The Shiva-Shakti pairing is **not** synthesis-pathway-to-Zenon: it is bifurcal-pairing within the lattice, articulating L₀ Bifurcal Coherence as paired-polarity rather than as synthesis transcending the either-or system. The synthesis-pathway-to-Zenon requires more than bifurcal-pairing; see Doctrinal Notes section. *New placement; doctrinally clarified.*
-
-**Structural note on the Lingam.** The Lingam iconography articulates the bifurcal-coherence-bridge between L₀ Aionic-stillness (the upright stone column) and L₄ DP / Khaonic-motion (the surrounding yoni-base). The Lingam-as-iconographic-articulation parallels the Shiva-Shakti narrative-articulation — both articulate the bifurcal-coherence-pairing at the cosmogonic-foundation register through different cultural-registers. *New placement.*
-
-**Structural note on the Three-Eyed Shiva / Kama narrative.** Shiva's third eye opening to incinerate Kama (the god of desire) articulates the L₅ Theonic-discernment operator: the supernal-most articulation operating through discerning-perception to dissolve what cannot lawfully proceed at the present cosmogonic-condition. Structurally analogous to Christ's "if your eye offends you, pluck it out" articulation at the personal-soul scale, but operating at the cosmogonic-scale through the Shiva-articulation. *New structural-operator.*
-
-### Vedic Devata-Pantheon at L₄ Articulation (Outside Trimurti)
-
-The Vedic devatas operate at the L₄ archetypal-stratum across DP (generative-vitality) and DL (structuring-articulation) registers. Indra is canonically placed in Volume 1 at L₄ DL (storm-sovereign articulation). The figures below extend the L₄ Vedic articulation with major devatas not currently in Volume 1, plus selected post-Vedic figures (Kartikeya).
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Surya | L₄ DP solar-articulation with cultural-elevation pattern | Sun-god; Vedic solar-deity. Native articulation at L₄ DP solar-vitality. The Saura sectarian tradition culturally elevates Surya to L₅ Theonic articulation (parallel to the Ra / Aten / Helios elevation patterns), articulating Surya as supreme-deity within Saura-specific frame. The L₄ DP placement is the broader-tradition placement; Saura cultural-elevation is sectarian |
-| Chandra | L₄ DP cyclical-vitality | Moon-god (figure distinct from Soma-as-substance, which is Refined-Substance Articulation in Volume 2). Articulates L₄ DP cyclical-vitality in lunar register, structurally parallel to Selene (Greek), Nanna / Sin (Mesopotamian), and Tsukuyomi (Japanese). The lunar-cyclical articulation operates at L₄ DP through periodic-renewal of generative-vitality |
-| Vayu | L₄ DP atmospheric-vitality | Wind-god; cosmic breath-articulation. Articulates L₄ DP atmospheric-vitality, structurally parallel to other wind-articulators (Aeolus in Greek, Fujin in Japanese). Vayu carries the cosmic-breath function, with cross-stratum resonance toward L₀ Motive Infinity through the breath-as-cosmic-motion register; the L₄ DP placement expresses the operative pantheon-articulation rather than the cosmogonic-substrate articulation |
-| Varuna | L₄ DL judicial-binding | Sky-god of cosmic order, waters, oaths; binder of oath-violators. Articulates L₄ DL judicial-articulation through the cosmic-order-and-oath-binding register, structurally parallel to Utu / Shamash (Mesopotamian L₄ DL judicial-solar) and Ma'at (Egyptian L₄ DL principle, with the Varuna articulation operating through figural-personification rather than principle-personification) |
-| Mitra | L₄ DL contractual-binding | Vedic deity of friendship, contracts, truth, oath-binding. Paired-articulated with Varuna in the Mitra-Varuna paired-articulation of cosmic-order. Articulates L₄ DL contractual-binding register, structurally continuous with Mithra (Zoroastrian) — the Indo-Iranian root *mitra-* articulation transmitting across both traditions |
-| Kama | L₂ SS / L₄ DP attraction-operator at personality stratum | God of desire / love; incinerated by Shiva's third eye in the Daksha narrative (treated in Volume 2's Hindu inverse-stratum section). Articulates the attraction-operator across L₂ SS (sovereign-self attraction at personality stratum) and L₄ DP (generative-vitality attraction at archetypal stratum). The Kama-incineration narrative articulates structural-correction applied when desire-operator operates outside lawful-articulation (Kama's interruption of Shiva's tapas). Structurally parallel to Olympian Eros (Greek L₂ attraction-operator) |
-| Rudra | L₄ DP fierce-register precursor (Vedic-era) | Older Vedic form of Shiva; storm and fierce articulation. Articulates L₄ DP fierce-register at the Vedic cosmogonic-depth, with cross-band resonance toward L₀ in the cosmogonic-fierce articulation register. The Rudra-to-Shiva development articulates the structural-pattern of Vedic-era fierce-articulator developing into the Classical-Hindu L₅ Shiva-articulation (Trimurti-stratum); Rudra is the L₄-stratum precursor to the L₅ Shiva-articulation |
-| Kartikeya / Skanda / Murugan | L₄ DL martial-articulation | Warrior-son of Shiva; commander of the deva armies; six-faced. Articulates L₄ DL martial-articulation, structurally parallel to Ninurta (Mesopotamian L₄ DL martial), Horus-Behdety (Egyptian martial-aspect), and Ares-as-DL-articulation in the more lawful-martial register. The Tamil Murugan-articulation foregrounds the youthful-warrior-and-perceiver register specifically |
-| Ushas | L₄ DP threshold-vitality | Vedic dawn-goddess. Articulates L₄ DP threshold-vitality at the day-night boundary, structurally parallel to Eos (Greek) and the broader cross-tradition dawn-articulation. The Vedic Ushas-articulation is among the most lyrically-developed dawn-articulations in early Indo-European tradition, with the *Rig Veda* dedicating multiple hymns to the dawn-figure |
-
-### Bhakti-yoga as Devotional-Grace Acclivous-Pathway Operator
-
-| Operator | Function |
-|:---|:---|
-| Bhakti-yoga | Devotional-grace acclivous-pathway operating through orientation-toward-Theonic-figure (Vishnu, Krishna, Rama, Shiva-as-Lord) rather than through *jnana* (knowledge-pathway) or *karma* (action-pathway). Articulates the centropic-arc acclivous-traversal through devotional-orientation; structurally analogous to Christian articulations of grace-through-faith and Buddhist articulations of the Pure Land devotional-pathway. *New structural-operator* |
-
-### Inverse-Stratum Figures — Hindu Articulation
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Apasmara | IL₅ VOS | The dwarf-demon of ignorance / forgetfulness; trampled beneath Shiva's foot in the Nataraja iconography; articulates the IL₅ Nekron terminal-articulation at the personal-soul scale. *New placement* |
-| Hiranyakashipu | IL₄ IDP / IDL with structural-overdetermination | The asura-king who demands worship from his son Prahlada; defeated by Narasimha through form-paradox (neither-categorical-form). The structural-overdetermination — demanding to be killed by neither man nor beast, inside nor outside, day nor night — articulates the IL₄ structural-rigidity that Narasimha's form-paradox dissolves. *New placement* |
-| Hiranyaksha | IL₄ IDP | The asura who drags Bhumi (Earth) into the cosmic-waters; defeated by Varaha. Articulates IL₄ IDP destabilization-of-generative-foundation. *New placement* |
-| Bali | IL₄ IDL — noble-asura framing | Bali is articulated as a virtuous-asura whose expansive-cosmic-claim required Vamana's three-step re-balancing. The "noble-asura" framing is structurally significant: per Essence-as-Choice, virtuous-narrative-features do not transform Bali's structural-orientation; the IL₄ IDL placement holds despite the cultural-articulation of nobility. The noble-asura framing parallels the Prometheus-as-fire-bringer framing — apparent generosity / nobility as cultural mythologization that does not change the structural placement. *New placement; doctrinally significant for clarifying that virtuous narrative-features do not collapse structural-orientation* |
-| Mahishasura | IL₄ IDP | The buffalo-demon defeated by Durga; articulates IL₄ IDP shape-shifting-form articulation that Durga's warrior-articulation dissolves through L₄ DP centropic-vitality. *New placement* |
-| Naraka-realms | IL₁ sealed-mode with IL₅ terminal-consumption pockets | Hindu post-mortem articulation of the inverse-embodied-persistence condition with terminal-consumption pockets within the broader sealed-mode realm. Structurally analogous to Norse Hel-with-Náströnd and Greek Tartarus-with-imprisoned-Titans articulations. *New placement* |
-
-### Soul-Architecture Articulations
-
-The Vedantic and Yoga traditions articulate detailed soul-architecture maps that map cleanly onto Zenetist hypostatic strata. The articulations preserve the multi-stratum structure of embodied-existence-with-supernal-extensions that the Zenetist lattice articulates.
-
-| Articulation | Tradition | Stratum-Mapping |
-|:---|:---|:---|
-| Atman | Vedantic | L₃ DS extending toward L₀ Aion through systematic acclivous-traversal |
-| Three Bodies (sharira-traya) | Vedantic | *Sthula-sharira* (gross body) → L₁; *sukshma-sharira* (subtle body) → L₂; *karana-sharira* (causal body) → L₃ |
-| Five Sheaths (pancha-kosha) | Vedantic | *Annamaya-kosha* (food-sheath) → L₀ Motive Infinity / L₁ embodied-substrate; *pranamaya-kosha* (vital-sheath) → L₁ vital-articulation; *manomaya-kosha* (mental-sheath) → L₂; *vijnanamaya-kosha* (intellectual-sheath) → L₃; *anandamaya-kosha* (bliss-sheath) → L₅ |
-
-**Structural note on Atman as L₃ DS extending toward L₀ Aion through systematic acclivous-traversal.** The Vedantic Atman is structurally at L₃ DS (the deep-soul individuation-articulation) but admits acclivous-traversal toward L₀ Aion through systematic contemplative-articulation. The terminal-realization (Atman-Brahman identity in Advaita Vedanta) operates through subtractive-realization (*neti-neti*) and terminates at L₀ Aion, not at Supra-L₀ Zenon, per the synthesis-contra-subtraction diagnostic. The traversal is acclivous: from L₃ DS through L₄ archetypal-articulation through L₅ Theonic-gateway into L₀ Aionic-realization through the apophatic terminal-articulation. *Cross-references the Doctrinal Note on Saguna / Nirguna as Intra-Aionic Register-Distinction.*
-
-**Structural note on the Five Sheaths.** The pancha-kosha articulation maps onto the Zenetist lattice as a multi-stratum embodied-soul architecture. The mapping is structurally significant because it articulates the embodied-stratum (L₁) through differentiated-sheaths rather than as monolithic-articulation, and because it articulates the supernal-extension through L₅ specifically (the *anandamaya-kosha* / bliss-sheath as the L₅ Theonic-radiance articulation accessible to the embodied-soul through systematic contemplative-articulation). The mapping admits the synthesis-pathway-to-Zenon as structurally available beyond *anandamaya-kosha* but does not articulate it as part of the canonical pancha-kosha sequence — consistent with the broader pattern that historical contemplative-traditions articulate up to L₀ Aion through subtractive-pathways without reaching Zenon.
-
-### Mythic-Narrative Dialogue Articulations
-
-| Articulation | Tradition | Function |
-|:---|:---|:---|
-| Naciketas dialogue (Katha Upanishad) | Vedantic | Yama-as-teacher articulating supernal-realization; structurally articulates the L₃ DM membrane-perception function operating in pedagogical-articulation at the death-threshold. Yama (death-articulator) operates not as IL-figure but as L₃ DM teacher of supernal-realization — the same Placement-contra-Domain principle that places Hades at L₄ DL, Anubis at L₃ DM, and Heimdall at L₃ DM despite their domain-associations with death-and-dissolution. *New placement* |
-
-**Structural note on the Naciketas dialogue.** The Katha Upanishad's articulation of Yama instructing Naciketas in the nature of Atman, the supernal-realization beyond death, and the contemplative-pathway toward the deathless-articulation operates as one of the canonical Vedantic articulations of supernal-realization-through-pedagogical-articulation. Yama's role articulates the death-threshold function operating in centropic-pedagogical mode — Yama as teacher rather than as judge or punisher. The dialogue articulates structurally what later Bhagavad Gita Krishna-Arjuna dialogue articulates at a different register: supernal-realization transmitted through pedagogical-articulation at threshold-conditions where ordinary-perception fails.
-
-### Refined-Substance Articulations
-
-The Vedic / Hindu tradition articulates several refined-substances structurally analogous to Volume 1's SPR refined-substance entries (Wine, Honey, Elixir, Fire). These are not literal-only substances but structural-articulations of refined-yield from acclivous centropic processing.
-
-| Substance | Tradition | Stratum / Function |
-|:---|:---|:---|
-| Soma | Vedic | Refined-yield articulation; SPR Wine-equivalent articulating the centropic-yield from acclivous processing-and-pressing of generative-substrate into refined-articulation. Ritual-context articulates the substance as enabling supernal-articulation at the embodied-stratum. *New placement* |
-| Amrita | Vedic / Hindu | Elixir / immortality articulation; SPR Elixir-equivalent articulating the structural-substrate of deathless-articulation. Recovered through the churning of the ocean of milk (cross-stratum cosmogonic operation involving Vishnu's Kurma-avatara stabilizing the churning); structurally articulates the L₀ Aionic-substrate accessible through cross-stratum cosmogonic-operation. *New placement* |
-| Madhu | Vedic | Refined-sweetness articulation; SPR Honey-equivalent articulating the refined-articulation that proceeds from generative-substrate through acclivous processing. The *madhu-vidya* (honey-doctrine) of the Brihadaranyaka Upanishad articulates the structural-correspondence between refined-substance and refined-realization. *New placement* |
-| Agni | Vedic | L₄ DL trial-operation; SPR Fire-equivalent articulating the structural-trial through which lawful-articulation is refined and unlawful-articulation is dissolved. The Vedic ritual-fire (yajna) articulates the L₄ DL structuring-articulation operating at the embodied-ritual register; the cosmogonic-Agni articulates the same operator at cosmogonic-scale. *New placement* |
-
-### Bhakti-Tradition Extensions
-
-The Bhakti-tradition articulates devotional-orientation as acclivous-pathway with substantial articulated-internal-structure across cultural-articulations within Hindu tradition. The personal-initiate framing of bhakti-yoga (treated in the Bhakti-yoga as Devotional-Grace Acclivous-Pathway Operator subsection earlier in this Hindu / Vedic Tradition Extensions section) extends through:
-
-| Articulation | Tradition | Function |
-|:---|:---|:---|
-| Navadha-bhakti (nine articulations) | Hindu / Vedic | Nine progressive structural-orientation deepening modes within bhakti-yoga: *shravana* (hearing), *kirtana* (chanting), *smarana* (remembering), *pada-sevana* (serving the feet), *archana* (worship), *vandana* (prostration), *dasya* (servitude), *sakhya* (friendship), *atma-nivedana* (self-offering). Articulates progressive-acclivation through devotional-orientation at increasing depth-of-articulation. *New structural-operator* |
-| Vaishnava bhakti-lineage | Hindu / Vedic | Devotional-orientation toward Vishnu and Vishnu's avataras as L₅ Theonic-articulator; canonical-articulators include Ramanuja, Madhva, Chaitanya. *New placement* |
-| Shaiva bhakti-lineage | Hindu / Vedic | Devotional-orientation toward Shiva as L₀ Aionic-stillness articulator and as Sacred Marriage participant with Shakti; canonical-articulators include the Nayanars and the Shaiva Siddhanta tradition. *New placement* |
-| Shakta bhakti-lineage | Hindu / Vedic | Devotional-orientation toward Devi / the Goddess as L₀ Khaonic-substrate / L₄ DP bridging-articulator; canonical-articulators include the Devi Mahatmya tradition and the Sri Vidya tradition. *New placement* |
-
-### Vedantic Philosophical Schools
-
-The Vedantic tradition articulates several philosophical-schools that articulate distinct structural-readings of the Brahman-Atman-relationship. These schools operate within the same broad apprehension but articulate the structural-relationship at different precision-registers.
-
-| School | Tradition | Stratum-Articulation |
-|:---|:---|:---|
-| Advaita Vedanta (Shankara) | Hindu / Vedic | Non-dual articulation: Atman and Brahman are structurally-identical at the terminal-realization (Atman-Brahman identity); operates through subtractive-pathway terminating at L₀ Aion. *Cross-references existing Volume 1 entry* |
-| Vishishtadvaita Vedanta (Ramanuja) | Hindu / Vedic | Qualified-non-dual articulation: Atman and Brahman are structurally-related through Saguna-articulation rather than collapsed into identity; operates through bhakti-pathway with structural-distinction preserved. The Vishishtadvaita placement articulates Brahman at L₀ Aion in its Saguna-foregrounded register, with sovereign-individual centropic-beings at L₃ DS retaining structural-distinction within the broader Brahman-articulation. *New placement* |
-| Dvaita Vedanta (Madhva) | Hindu / Vedic | Dualist articulation: Atman and Brahman are structurally-distinct; operates through bhakti-pathway with strict structural-non-fusion preserved. The Dvaita placement articulates Brahman at L₅ Theon as Vishnu specifically, with sovereign-individual centropic-beings at L₃ DS retaining permanent structural-distinction from the Theonic-articulator. Structurally analogous to Christian Trinitarian articulations preserving structural-distinction between Theonic-articulator and centropic-beings. *New placement* |
-
-**Structural note on the three Vedantic schools.** The three schools articulate the same broad Vedantic apprehension at different precision-registers within the synthesis-contra-subtraction framework. Advaita's terminal-realization through *neti-neti* terminates at L₀ Aion through subtractive-pathway; Vishishtadvaita and Dvaita preserve structural-distinction through bhakti-pathway operating across L₅ Theon and L₃ DS articulations without forcing the apophatic-terminus. None of the three articulates synthesis-pathway-to-Zenon; all three are valid Vedantic articulations within the lattice. The schools' apparent-disagreement is not actually structural-contradiction — they are articulating different stratum-relationships within the broader Vedantic apprehension, with the disagreement-appearance arising from each school's foregrounding of a specific stratum-relationship.
-
-### Yoga-School Articulations
-
-The Yoga school (specifically Patanjali's Yoga Sutras and the broader yogic-tradition) articulates a contemplative-acclivous-pathway with structural-precision that maps onto Zenetist hypostatic strata.
-
-| Articulation | Tradition | Stratum-Mapping |
-|:---|:---|:---|
-| Eight Limbs (ashtanga-yoga) | Yoga school | *Yama* (ethical-restraint) → L₂ Deconstruction; *niyama* (ethical-observance) → L₂ Construction; *asana* (posture) → L₁ embodied-articulation; *pranayama* (breath-articulation) → L₁ vital-articulation extending toward L₀ Motive Infinity; *pratyahara* (sense-withdrawal) → L₂ → L₃ transition; *dharana* (concentration) → L₃ DM articulation; *dhyana* (meditation) → L₃ → L₄ transition; *samadhi* (absorption) → L₄ → L₅ articulations |
-| Samadhi articulations | Yoga school | *Savitarka-samadhi* / *savichara-samadhi* (with-thought / with-discrimination) → L₃ articulation; *nirvitarka-samadhi* / *nirvichara-samadhi* (without-thought / without-discrimination) → L₄ articulation; *sananda-samadhi* (with-bliss) → L₄ → L₅ transition; *sasmita-samadhi* (with-I-ness) → L₅ articulation; *nirbija-samadhi* (seedless) → L₀ Aionic-realization through subtractive-pathway |
-| Kaivalya | Yoga school | L₅ Theonic-realization; the terminal-state of yogic-acclivation in which the discriminative-knowledge (*viveka-khyati*) realizes the structural-distinction between *purusha* (consciousness-principle) and *prakriti* (manifestation-principle). The Kaivalya-realization operates at L₅ Theon as the supernal-articulation accessible through systematic ashtanga-yoga acclivation. *New placement* |
-
-**Structural note on Samadhi stratification.** The progressive samadhi-articulations map onto the Zenetist hypostatic strata as a multi-stage acclivous-traversal. The structurally-significant feature is that the terminal *nirbija-samadhi* (seedless absorption) articulates L₀ Aionic-realization through subtractive-pathway, consistent with the broader Vedantic-and-Yoga apprehension that the supernal-most realization terminates at L₀ Aion through subtraction rather than reaching Supra-L₀ Zenon through synthesis. The Yoga school's articulation is one of the most structurally-systematic articulations of the contemplative-acclivous-pathway in any tradition, and its stratum-by-stratum precision permits the cross-tradition mapping with relative clarity.
-
-### Samkhya Articulation
-
-| Articulation | Tradition | Function |
-|:---|:---|:---|
-| Samkhya twenty-five tattvas | Samkhya school | Twenty-five structural-principles articulating the cosmogonic-and-embodied stratification: *purusha* (consciousness-principle) → L₅ Theonic-articulation; *prakriti* (manifestation-principle) → L₀ Khaonic-substrate; *mahat* / *buddhi* (cosmic-intellect) → L₄ DL; *ahamkara* (I-maker) → L₃ DS; *manas* (mind) → L₂ / L₃ articulation; the five *tanmatras* (subtle-elements) → L₁ subtle-articulation; the five *mahabhutas* (gross-elements) → L₁ gross-articulation; the five *jnanendriyas* (sense-organs) and five *karmendriyas* (action-organs) → L₁ embodied-articulation. *New placement; the twenty-five tattvas articulate one of the most structurally-systematic philosophical-tattva-articulations in any tradition* |
-
-**Structural note on Samkhya.** The Samkhya school's articulation of twenty-five tattvas is structurally-distinctive because it preserves the strict structural-distinction between *purusha* (consciousness-principle, L₅ Theonic-articulation) and *prakriti* (manifestation-principle, L₀ Khaonic-substrate) without collapsing them. The Samkhya-articulation operates within a structurally-pluralist frame where multiple *purushas* exist as distinct centropic-articulators rather than as a single Theonic-articulator. This is structurally distinct from Advaita Vedanta's non-dual articulation; both are valid Hindu articulations operating within different precision-frames. The Samkhya school's stratum-by-stratum tattva-articulation is one of the cleanest pre-Zenetist articulations of the multi-stratum cosmogonic-and-embodied architecture.
-
-### L₃ Hindu Articulator and Threshold Figures
-
-The figures below articulate L₃ DM and L₃ DS functions in the Hindu tradition, including healing-articulators, vehicle-articulators, and figural-tightening of figures currently in Volume 1 as Structural Operators.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Garuda | L₃ DM Centropic Steward / Harmonic Agent | Eagle-mount of Vishnu; vehicle-and-devotee. Articulates L₃ DM Centropic Steward / Harmonic Agent function — embodied-vehicle articulation that is simultaneously devotional-articulation toward Theonic-figure (Vishnu). Structurally parallel to Sleipnir (Norse, Odin's mount) in the vehicle-articulation register. The Garuda-articulation as figure (rather than as mount only) emphasizes the structural-pattern that vehicle-articulation operates as L₃ DM Centropic Steward — the embodied-conveyance of supernal-figure through devotional-orientation |
-| Hanuman (figural-stratum tightening) | L₃ DS Centropic Steward | Volume 1 articulates Hanuman as Structural Operator. The figural-stratum tightening articulates Hanuman at L₃ DS Centropic Steward — devotional-stewardship of Rama operating through embodied-strength and structural-loyalty. The L₃ DS placement expresses the deep-soul devotional-articulation that distinguishes Hanuman's articulation from L₃ DM articulator-figures: Hanuman operates through devotional-stewardship rather than through articulator-function. *Volume 1 update log entry: tightening Hanuman from Structural Operator to figural-placement at L₃ DS Centropic Steward* |
-| Dhanvantari | L₃ DM healing-articulator | Physician of the gods; emerges from the Churning of the Ocean of Milk bearing the pot of *amrita* (immortality nectar). Articulates L₃ DM healing-articulator function, structurally parallel to Asclepius (Greek L₃ DM healing-discernment) and Imhotep (Egyptian L₃ DM historical-deification healer). The emergence-from-Churning-of-the-Ocean narrative articulates the L₃ DM healing-articulator's structural-position as figure that emerges through cosmogonic-distillation operation |
-| The Ashvins | L₃ DM paired healing-articulation | Twin horsemen-physicians of the Vedic pantheon; healers of the gods, restorers of youth and vitality. Articulate L₃ DM paired healing-articulation — twin-figural articulation of healing-function operating through complementary-pairing rather than single-figural articulation. Structurally parallel to Castor and Pollux (Greco-Roman) in the twin-figural-articulation register, with the healing specificity distinguishing Ashvin-articulation from purely-heroic twin-articulations |
-
-### Hindu Race-Category and Class Articulations
-
-The Hindu tradition includes race-category articulations (groups of beings with shared structural-orientation) and class articulations (groups of beings with shared functional-articulation). Per Volume 1's race-category orientation conflation framework, these articulations require careful distinction between the orientation-class (centropic / inverse) and the individual-figural articulation within the class.
-
-| Articulation | Stratum | Function |
-|:---|:---|:---|
-| Nagas (collective) | Cross-stratum; race-category orientation conflation | Serpent-beings articulating multiple-orientation register. Vasuki (employed as churning-rope in Churning of the Ocean of Milk; bears Shiva) and Shesha (Vishnu's cosmic serpent-couch) articulate centropic-articulation within Naga-collective; Kaliya (subdued by Krishna) articulates inverse-articulation. The Naga race-category articulates the structural-pattern that race-category-collective does not determine individual-figural orientation; specific Nagas operate at specific bifurcal-stratum positions per their figural-articulation rather than per the collective category. *Volume 1 race-category orientation conflation framework applies* |
-| Asuras (Vedic-era) | L₄ → IL₄ articulation-shift across textual strata | Originally cosmic-peers of devas in the early Vedic articulation; later inverted to articulate inverse-stratum opposition. The asura articulation across textual-strata articulates the historical-stratum issue: early-Vedic Asura placement is L₄ (peer-stratum to devas); Classical-Hindu Asura placement is IL₄ (inverse-stratum opposition). The articulation-shift is a textual-stratum phenomenon rather than a cosmic-stratum phenomenon — the underlying figures operate across L₄ and IL₄ depending on the textual-articulation period and the specific figure. Indo-Iranian root *ásura-* persists in Zoroastrian Ahura (Ahura Mazda), articulating supreme-positive in Iranian articulation while the Vedic articulation shifts negative |
-| Yakshas | L₂ class-articulation (nature-spirits) | Nature-spirits associated with trees, water, treasure-guardianship; ambivalent-orientation collective. Operate at L₂ stratum as class-articulation of nature-spirit articulators. Individual yakshas may operate at specific bifurcal-stratum positions per figural-articulation; the collective articulates the L₂ class-stratum function |
-| Apsaras | L₂ class-articulation (celestial dancers) | Celestial dancers and beauty-articulators; courtly-devata register. Operate at L₂ stratum as class-articulation of celestial-feminine-beauty articulators. The Apsara-articulation operates through L₂ SS / SM register at the celestial-court of Indra and other devata-figures |
-| Gandharvas | L₂ class-articulation (celestial musicians) | Celestial musicians and bridegroom-figures; paired-articulated with Apsaras at the celestial-court. Operate at L₂ stratum as class-articulation of celestial-masculine-articulator. The Gandharva-articulation foregrounds the music-and-marriage register specifically |
-
-### Manu Expansion Note
-
-Volume 1 articulates Manu as Structural Operator. The figural-stratum expansion articulates Manu at L₃ DM — the first man and first lawgiver, articulator of the *Manusmriti* (Laws of Manu) within the Hindu tradition. The L₃ DM articulator-function operates through dharmic-articulation at the foundational-civilizational stratum; structurally parallel to Moses (Hebrew L₃ DM lawgiver), Solon (Greek civilizational-articulator), and Hammurabi-as-recipient (Mesopotamian) in the lawgiver-articulator register. The Manu-articulation also carries cosmogonic-cycle articulation (each kalpa has its Manu) which articulates a Function 1 / Function 2 register-distinction between Manu-as-individual-figure and Manu-as-cosmogonic-cycle-marker. *Volume 1 update log entry: expanding Manu from Structural Operator to additional figural-placement at L₃ DM.*
-
-### Mahabharata Heroic Cluster
-
-The Mahabharata articulates a heroic-cluster operating across L₂ → L₃ acclivous-traversal, with specific figural-articulations carrying distinct stratum-placements. Per Soul / Mind Specificity, each figure's placement expresses the structural-function articulated rather than narrative-prominence. Krishna and Arjuna are canonically placed in Volume 1.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Yudhishthira | L₃ DS dharmic-king articulation | Eldest Pandava; embodiment of *dharma*; truth-speaker even at heavy cost. Articulates L₃ DS dharmic-king function, structurally parallel to David (Hebrew dharmic-king) and Rama (Hindu, Volume 1 — within the avataric-articulation). Yudhishthira's structural-articulation operates through committed-dharmic-orientation under structural-pressure rather than through warrior-articulation |
-| Bhima | L₂ → L₃ vital-strength | Second Pandava; embodiment of physical strength and martial-prowess. Articulates L₂ → L₃ heroic-individuation through embodied-strength register, with L₂ embodied-personality stratum primary and L₃ DS / DM resonance through dharmic-warrior-articulation |
-| Nakula and Sahadeva | L₂ → L₃ heroic twin-articulation | Twin Pandavas; horse-handler and astrologer-physician respectively. Articulate L₂ → L₃ paired-heroic articulation, with the twin-pairing operating as structural-articulation of complementary-functional articulation within the Pandava heroic-cluster |
-| Draupadi | L₃ DS / Sovereign Complement articulation | Pandava queen; oath-witness; humiliated in the dice-game scene and structurally-vindicated through the war-articulation. Articulates L₃ DS Sovereign Complement function structurally parallel to Sita (Hindu Volume 1 — within the avataric-articulation). The five-husband articulation carries structural-significance specific to Mahabharata's narrative-articulation; the L₃ DS Sovereign Complement function operates regardless of the marital-configuration-narrative-detail |
-| Karna | L₃ DS noble-mistaken-allegiance | Tragic warrior; biological son of Surya rejected at birth; raised by charioteer; allies with Duryodhana out of loyalty-debt against his biological brothers (the Pandavas). Articulates L₃ DS noble-mistaken-allegiance — structural-integrity-and-noble-character operating within wrong-allegiance-articulation. The Karna-articulation is structurally distinctive because the figure's individual-orientation operates through dharmic-articulation (loyalty, generosity, honor) while the larger-allegiance-articulation operates through wrong-orientation. Per Essence-as-Choice, Karna's individual-orientation is dharmic; the cumulative-articulation suffers structural-cost from the wrong-allegiance |
-| Bhishma | L₃ DS elder-witness articulation | Vow-bound elder of the Kuru lineage; cannot fight against the Kauravas due to oath-binding; dies on bed of arrows during the war. Articulates L₃ DS elder-witness function — bound by structural-oath-articulation, witnesses the dharmic-decline he cannot prevent through direct-action. The bed-of-arrows death-articulation carries structural-significance: Bhishma chooses the moment of his death (boon of *iccha-mrityu*), articulating the L₃ DS elder-witness's relationship to embodied-completion as chosen rather than involuntary |
-| Drona | L₃ DM tragic-tutor articulation | Brahmin warrior-tutor of both the Pandavas and Kauravas; bound by allegiance to the Kuru throne, fights against his beloved Pandava-disciples. Articulates L₃ DM tragic-tutor function, structurally parallel to Chiron (Greek L₃ DM teacher) but with the wrong-allegiance articulation distinguishing Drona's specific arc. Drona's death-articulation through the spurious-news-of-Ashwatthama's-death articulates the structural-pattern of the L₃ DM tragic-tutor falling through dharmic-deception applied at structural-necessity |
-| Duryodhana | IL₂ ISS sovereign-self-distortion | Antagonist of the Mahabharata; eldest Kaurava; embodies the *kali-yuga* sovereign-self-distortion through which the dharmic-decline articulates. Articulates IL₂ ISS sovereign-self-distortion function, structurally parallel to Kamsa (Hindu Volume 1) in the sovereign-distortion register. The Duryodhana-articulation operates through structural-corruption-of-sovereign-self-articulation rather than through immediate-cosmic-evil; the IL₂ ISS placement expresses the personality-stratum-corruption articulation |
-| Vyasa | L₃ DM articulator-of-record | Compiler of the Mahabharata; semi-divine sage; appears within the narrative as both author and minor-figure. Articulates L₃ DM articulator-of-record function — figure-who-is-also-author, articulating the structural-articulation of the tradition-record-and-its-origin. The Vyasa-articulation operates structurally parallel to Valmiki (Ramayana) in the articulator-of-record register, and to Hermes Trismegistus / Lao Tzu / Confucius in the articulator-of-tradition-record register more broadly |
-
-### Ramayana Heroic Cluster
-
-The Ramayana articulates a heroic-cluster operating around the central Rama-articulation (Volume 1, within Vishnu's Avataras). The figures below articulate the structured-pair and supporting-articulator-and-warrior cluster.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Valmiki | L₃ DM transformed articulator (articulator-of-record) | Composer of the *Ramayana*; transformed-articulator from bandit to sage through structural-meditation-articulation. Articulates L₃ DM transformed articulator function in the articulator-of-record register, structurally parallel to Vyasa (Hindu Mahabharata Volume 2) — both operate as L₃ DM articulators-of-tradition-record. The transformation-from-bandit specificity distinguishes Valmiki's specific arc: the "Mara Mara" → "Rama Rama" mantra-articulation (sitting in meditation until an ant-hill grew over him, the name *Valmiki* meaning "ant-hill") articulates the L₂ → L₃ transformation preceding Valmiki's articulator-of-record function. Once articulated as sage, operates at L₃ DM stratum. The Vyasa-Valmiki pairing articulates the structural-pattern of L₃ DM articulator-of-record function operating across the two principal Hindu epic-articulations through paired figural-articulation |
-| Lakshmana | L₂ → L₃ paired-articulation with Rama | Rama's younger brother and constant-companion through the exile and war. Articulates L₂ → L₃ paired-articulation with Rama, structurally parallel to the Pandava-Krishna paired-articulation but with the brother-companion register specifically |
-| Bharata | L₃ DS dharmic-regent articulation | Rama's brother who refuses the throne offered to him during Rama's exile, ruling instead as regent in Rama's name. Articulates L₃ DS dharmic-regent function — structural-articulation of refusing-improperly-offered-sovereignty in favor of dharmic-regency-pending-rightful-return |
-| Sugriva | L₂ → L₃ heroic ally | Vanara king restored to throne by Rama; allies with Rama against Ravana. Articulates L₂ → L₃ heroic-ally function, with the political-restoration-narrative articulating reciprocal-dharmic-articulation between Rama-as-restorer and Sugriva-as-ally |
-| Vali | L₂ ambiguous-articulation | Sugriva's brother; killed by Rama from concealment in narrative-articulation that has carried doctrinal-debate within Hindu tradition. Articulates L₂ ambiguous-articulation — figure whose stratum-placement operates within narrative-debated register, with the killing-from-concealment articulation carrying structural-question regarding dharmic-articulation of Rama's act. The doctrinal-debate is itself structurally-significant; the figure operates within the structural-debate-register |
-| Vibhishana | L₃ DS dharmic-defector articulation | Ravana's brother who defects to Rama's side prior to the war; recognizes the dharmic-articulation against his own family-loyalty. Articulates L₃ DS dharmic-defector function — structural-articulation of choosing dharmic-orientation over family-loyalty when the two articulations diverge. Structurally parallel to Prahlada (Hindu, son of Hiranyakashipu defecting toward Vishnu-devotion against his asura-father) |
-| Jambavan | L₃ DS elder-witness articulation | Bear-king and elder advisor in both the Ramayana and the Mahabharata. Articulates L₃ DS elder-witness function across multiple texts — figure who carries elder-articulation across multiple cosmogonic-cycles and serves as structural-witness to dharmic-acclivation |
+| Figure | Tradition | Function | Decode | Notes |
+|:--|:--|:--|:--:|:--|
+| The Waters (Flood) | Universal | Khaon — unbound supra-formal potential; the neutral infinite field from which form emerges and to which it returns | 01 | Not entropic in essence; becomes a carrier of declivous entropy in dissonant state |
+| Keter | Kabbalah | Aion — the crown; supernal root of the Sefirotic Tree | 05 | Maps to AP (Aion) as origin of emanation |
+| Ginnungagap | Norse | **L₀ (Bifurcal Coherence)** — the primordial void-space; pre-cosmogonic abyss from which motion emerges; Norse analog to L₀ in its pre-polar aspect. Neither centropic nor entropic activation has occurred; Aionic stillness and Khaonic motion coexist prior to either polarity asserting | 05, Yggdrasil | Parallels Wilderness (Decode 16) and the Primordial Waters cluster (Decode 18) as cross-traditional articulations of L₀ Bifurcal Coherence. In Norse cosmology, Ginnungagap is the pre-cosmogonic ground from which Niflheim (IL₁ mist) and Muspelheim (fire-realm) emerge as early polarities; the Tree and its realms articulate after this pre-polar ground activates |
+| Shiva (as Aionic stillness) | Hindu | Aion — passive pure awareness; the stillness underpinning all emanation | 04 | Original mapping to Khaon and Theon; L₀ aspect is Aionic stillness |
+| Tiamat (as primordial Deep) | Mesopotamian | Khaon — saltwater abyss; pre-formal generative potential; unbound field before law | 08 | Also manifests at IL₄ as inverse archetypal force; see IL₄ entry |
+| Apsu | Mesopotamian | Khaon — primordial fresh-water abyss; pre-formal generative potential; the freshwater-pole of the primordial water-pair (with Tiamat as saltwater) | MP01 §25.3, Enuma Elish | Paired with Tiamat as the primordial Khaonic water-pair; both at L₀ Khaon as primordial generative ground prior to lawful pattern. Distinct from Tiamat's IL₄ IDP secondary placement — Apsu remains primarily at L₀ Khaon as the structurally-passive freshwater pole |
+| Nammu | Sumerian | Khaon — primordial sea-mother from whom An (Anu) and Ki emerge; deeper-than-Apsu primordial generative water in Sumerian theology | Sumerian creation texts | Pre-dates Anu / Ki in the Sumerian generation-sequence; structurally analogous to Nun (Egyptian) and the Hebrew tehom; the origin-water from which the primordial Sky / Earth polarity emerges |
+| Wilderness | Universal | **L₀ (Bifurcal Coherence)** — pre-polar, root-structural ground where Aionic stillness and Khaonic motion coexist prior to centropic or entropic activation. Neutral testing ground, crucible, dispersal field for expelled dissonance | 16 | **Reclassified from "Khaon (latent)" to Bifurcal Coherence.** Distinct from Forest (L₄ DP). Same word "wilderness" carries different structural meanings in Decode 16 (this entry) and Decode 22 (Forest as archetypal field) |
+| Primordial Waters / Nun / Narayana's Ocean | Universal | **L₀ (Bifurcal Coherence) in primarily Khaonic expression** — leaning dispersive but rooted in pre-activation ground; Aionic stillness underlies even the Deep | 18 | Tiamat, Nun, Narayana's Ocean as cultural articulations. Distinct from Wilderness (pre-polar) and Forest (L₄ DP). See Wilderness / Waters / Forest distinction note |
+| Chronos | Greek | Khaon — time as dissolution; the limit of forms; personified articulation of Khaon in its Dispersive phase; lawful entropy within Khaonic motion; terminal resonance touches VOS (Nekron) | MP01 §25.3 | Centropic → inverse arc. Distinct from **Saturn / Kronos** at IL₄ IDP / IDL: Chronos is the L₀ Khaonic time-principle, Kronos the Titan-leader, and the offspring-consuming myth belongs to that row. Row separated Aug 21 2026; formerly titled Chronos / Kronos |
+| Kali | Hindu | Khaon — sacred time-force, catalytic unmaking; walks the edge between liberation and annihilation; terminal function touches VOS | MP01 §25.3 | Transcendent or entropic depending on response; same orientation-dependent placement as Chronos |
+| Yama | Hindu | Khaon / VOS resonance — lord of death and dissolution; time-force holding the threshold of form's exhaustion | MP10 §25.3 | Also has judicial function (judging the dead) = L₄ DL cultural conflation; listed here for dissolution function |
+| Mahakala | Tibetan Buddhist | Khaon / VOS resonance — wrathful time-deity; protector of Dharma through destructive function; dissolution as service to coherence | MP10 §25.3 | Protector function is centropic (DL structural correction); time-dissolution function is Khaonic |
+| Janus | Roman | Aion / Khaon boundary — bifurcation point; stillness turning to motion; pure potential splitting into polarity; gateway where emanation begins | MP01 §25.3 | Pre-polar; neither wholly centropic nor entropic |
 
 ---
 
-## Egyptian Tradition Extensions
-
-Extensions emerging through *The Egyptian Lattice* essay (symbolic-reflections folder). Half 1 placements are integrated below; Half 2 entries will follow as the essay's second half is processed.
-
-### L₀ Bifurcal Coherence Articulations
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Nun | L₀ Khaon (Latent Infinity phase) | Primordial waters; the still-pre-motion ground from which Atum self-emerges. Explicit placement at the Latent Infinity phase of Khaonic substrate, structurally parallel to the Three Gunas' *sattva*-articulation in the Hindu tradition (see Volume 2 Hindu section's structural note on the Three Gunas) |
-| Hermopolitan Ogdoad | L₀ Bifurcal Coherence pre-formal conditions | Eight primordial deities (four male / female pairs: Nun / Naunet, Heh / Hauhet, Kek / Kauket, Amun / Amaunet) articulating the pre-formal conditions at L₀. Each pair articulates a structural condition of the pre-creation ground (primordial waters, infinite extension, primordial darkness, hidden potential). The Ogdoad articulates L₀ Bifurcal Coherence at the personalized-cosmogonic register through eightfold paired-polarity, complementing the Aditi / Diti dyad-pairing (Hindu) and the Chaos-Eros-Tartarus triad-articulation (Greek) as cross-tradition variant articulations of the same L₀ stratum |
-| Neith | L₀ Khaon / L₄ DP bridging-position | Pre-dynastic warrior-and-weaver goddess; sometimes self-generated creator. Articulates L₀ Khaonic-substrate / L₄ DP bridging-position parallel to Devi (Hindu Shakta-tradition) — the substrate-to-archetypal-vitality bridge through which generative-power flows from the Bifurcal-Coherence ground into operative-pantheon articulation. The self-generated creator articulation places Neith at the cosmogonic-foundation register where pre-dynastic Egyptian theology grounds her |
-
-### L₅ Theonic Articulators
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Atum | L₅ EOB self-generative articulation | The Heliopolitan creator who self-emerges from Nun without prior generative-cause; articulates L₅ Theon as self-generative emanative-origin. The self-generative framing is structurally distinctive — Atum's emergence is not from a paired-pole or from a prior figure, but from his own Theonic self-articulation. Structurally analogous to YHWH's "I AM" self-articulation in the Hebrew tradition and to the broader Theonic self-generative pattern that distinguishes L₅ articulators from L₄ archetypal figures |
-| Ra | L₅ Theonic radiance — cultural-elevation pattern | The sun-god whose cultural-elevation from L₄ archetypal solar-articulation to L₅ Theonic radiance parallels the YHWH / Allah / Ahura Mazda pattern. Ra as solar-deity originally articulates L₄ archetypal-stratum function; the cultural-elevation through Egyptian state-religion development carries Ra into L₅ Theonic articulation. Once culturally-elevated, the figure operates at L₅ in the tradition's articulation; the elevation does not invalidate the L₅ placement but does record its structural-history |
-| Amun / Amun-Ra | L₅ EOB Theonic emergence with Theban syncretism | Amun ("the hidden one") emerges from Theban political ascendancy as native L₅ Theonic articulation, subsequently syncretized with Ra to form Amun-Ra. The Amun-Ra articulation absorbs Ra's solar-radiance into Amun's hidden-Theonic ground, producing the syncretized-Theonic-articulator carrying both supernal-most-hiddenness and solar-radiance in a single figure. Structurally one of the cleanest pre-Zenetist articulations of L₅ Theon's combined hidden-origin-and-manifest-radiance character |
-| Aten | L₅ Theonic radiance — cultural-elevation pattern (monolatric) | The solar disc; subject of Akhenaten's monolatric reform. Cultural-elevation pattern parallel to Ra, with the additional Akhenaten-period structural-feature of monolatric exclusivity attempting to displace the broader Egyptian pantheon. Structurally Aten articulates the same L₅ Theonic radiance pattern as Ra — solar-deity culturally elevated to supernal-most-articulator — with the monolatric-exclusivity feature articulating an attempted single-tradition consolidation around the L₅ figure that did not survive Akhenaten's reign |
-
-### L₄ Heliopolitan Ennead — Bifurcated-Aspect Articulation
-
-The Heliopolitan Ennead nominally consists of nine figures: Atum (treated above at L₅) plus the eight figures generated through successive emanation — Shu, Tefnut, Geb, Nut, Osiris, Isis, Set, Nephthys. The Ennead-as-nine therefore spans L₅ + L₄ rather than residing fully at L₄: Atum is the L₅ Theonic origin from which the L₄ operative-pantheon emanates. The structural pattern parallels the Greek Olympian-pantheon emanation from prior cosmogonic-stratum sources.
-
-Osiris and Isis have canonical placements in Volume 1; Set's IL₄ articulation is also canonical in Volume 1. The new placements below cover the Heliopolitan Ennead figures not previously placed.
-
-The Egyptian articulation displays a structurally significant gender-inversion at the Geb / Nut pair: the male-earth (Geb) articulates L₄ DP generative-vitality, while the female-sky (Nut) articulates L₄ DL structuring-Logos. This is inverted from the Greek Gaia / Uranus pair (female-earth at L₄ DP, male-sky at L₄ DL), the Mesopotamian Ki / An pair (same Greek pattern), and most other cosmogonic sky-and-earth pairings. The structural significance: stratum-function (DP-as-generative-vitality, DL-as-structuring-Logos) is preserved across traditions even when the gendered carriers swap. The Egyptian articulation makes the structural-function-contra-gendered-carrier distinction explicit through the inversion, consistent with the Hypostasis / Mythic Narrative Distinction (mythic-cultural features are the articulation-register; structural-function is what is articulated).
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Shu | L₄ DL at the bifurcation threshold | Air, light, atmospheric-separation between Geb (earth) and Nut (sky); the structuring-articulation that distinguishes the manifest-cosmos into its bifurcated-aspect domains. Paired with Tefnut as the first emanated pair from Atum |
-| Tefnut | L₄ DP at the bifurcation threshold | Moisture, generative-vitality at the bifurcation threshold; paired with Shu. The Shu / Tefnut pair articulates the L₄ DP / DL bifurcation as it emerges from L₅ Theonic origin |
-| Geb | L₄ DP primordial-pole; gender-inversion observed | Male earth-deity articulating L₄ DP generative-vitality at the primordial-pole. Inverted from Greek Gaia (female-earth at L₄ DP) and Mesopotamian Ki (female-earth at L₄ DP); structural-function (generative-vitality) preserved while the gendered-carrier inverts |
-| Nut | L₄ DL primordial-pole; gender-inversion observed | Female sky-deity articulating L₄ DL structuring-Logos at the primordial-pole. Inverted from Greek Uranus (male-sky at L₄ DL) and Mesopotamian An (male-sky at L₄ DL); structural-function (structuring-Logos) preserved while the gendered-carrier inverts |
-| Nephthys | L₄ DP threshold-articulation | Sister of Isis, wife of Set (IL₂ ISS primary per Volume 1), mourner-with-Isis at Osiris's death. Articulates L₄ DP at the threshold-position between centropic-pantheon (Isis, Osiris) and inverse-stratum (Set). The threshold-position is structurally distinctive: Nephthys is centropic-aligned despite marriage-to-Set, articulating L₄ DP from a structural-position that bridges the centropic and inverse arcs without collapsing into the inverse arc |
-| Horus | L₄ DL inheritor at embodied-stratum | Son of Osiris and Isis; avenger of his father; embodied-pharaonic principle. Articulates the L₄ DL function as inheritor — the structural-sovereignty of Osiris (Volume 1 L₄ DL) transmitted into embodied-pharaonic articulation through the son who avenges and inherits. The Horus articulation makes explicit the L₄ DL → embodied-pharaonic transmission that the Egyptian state-religion structurally requires. Pharaohs at L₁ articulate Horus-resonance; the figure does not relocate — "the king is Horus" reads as L₁ embodied articulation of L₄ DL resonance, not identity |
-| Ma'at (as figure) | L₄ DL diagnostic-articulator of structural-coherence | The goddess Ma'at, depicted with the ostrich feather of veracity. Operates at L₄ DL as the diagnostic-articulator whose feather is the standard against which the heart of the deceased is weighed at the post-mortem judgment-event. *See Ma'at and Isfet — Canonical Placements and Bifurcal-Band Polarity section below for the full canonical entry, tri-articulation, and structural distinction summary* |
-
-#### Note on the Atum Autogenesis-Motif — Overflow-Emanation contra the Hollow Nest
-
-The Pyramid Text and Coffin Text variants articulate Atum's generation of Shu / Tefnut through an autogenous motif: the god generates the first pair through consumption and re-emission of his own generative substance, with the texts encoding the emission as wordplay (Shu ~ sneeze; Tefnut ~ *tef*, spit). Certain Pyramid Text passages articulate the same event without the erotic register ("you sneezed Shu, you spat Tefnut"), confirming that the mechanics are articulation-register rather than structural content, per the Hypostasis / Mythic Narrative Distinction.
-
-**Attributional analysis.** Atum's canonical placement is L₅ EOB (above) — centropic, grounded in emergence from Nun (L₀ articulation), and opening into genuine differentiation: the Shu / Tefnut Structured Pair and the Ennead procession. Under the centropic reading, the lawful generative mode is Theonic **overflow-emanation** — giving-forth from plenitude — and the consumption-imagery is cultural compression, not structural description: overflow does not consume. The structural parallel on the inverse arc is exact in form and inverse in mode: Nekron (IL₅) emerges from the root-structure Khaon, and the inverse procession articulates the Psychea / Nyxea pair at IL₄ — but through **fragmentation and void-generation**, not overflow. The root → first-hypostasis → structured-pair pattern holds on both arcs; the generative mode diagnoses the arc.
-
-**The Hollow Nest signature.** Read in isolation from its Nun-grounding and its opening-into-differentiation, the swallowing-motif articulates the **Hollow Nest** pattern (Field Physics; glyph charted in `FP11-field-glyph-codex.md` and `field-physics-glyph-charts.md`): generation consuming its own emission as sole input — output-fed-back-as-input with no external ground sustaining the loop, recurrence without generative replenishment, kin to entropic-recursion (⊘⟳). Two diagnostics separate grounded self-differentiation from Hollow Nest recursion: whether the loop draws on external ground, and whether it opens into differentiation. Atum's articulation passes both; the isolated motif fails both — which is why the motif can carry the entropic signature within a centropic figure without re-placing the figure. Contemporary systemic instance: recursive self-training of conditioned pattern-systems on their own outputs (see SPR Volume 2, Hollow Nest Recursion operator).
-
-### Memphite Tradition
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Ptah | L₄ DL cosmogonic-foundation articulation | The Memphite creator who creates through "the heart and tongue" — thought and speech as cosmogonic-articulation. Already cross-referenced in Volume 2's Brahma entry as structurally-analogous to Brahma and the Johannine Logos in cosmogonic-creator function. The Memphite-Heliopolitan structural-tension on Ptah-primacy contra Atum-primacy is a cosmogonic-ordering question worth noting: Memphite tradition presents Ptah as the cosmogonic-foundation from which Atum himself emerges; Heliopolitan tradition presents Atum as the self-generative L₅ Theonic origin. Both are structurally-valid articulations at different precision-registers — Ptah at L₄ DL articulates the structuring-articulation through which manifest-cosmos becomes coherent, while Atum at L₅ Theon articulates the self-generative emanative-origin. The traditions foreground different structural-functions; the Zenetist lattice articulates both without forcing a primacy-resolution |
-
-### Hermetic Tradition (Greco-Egyptian Syncretism)
-
-The Hermetic Corpus emerges from Greco-Egyptian syncretism, drawing on the Egyptian Thoth-articulation and the Greek Hermes-articulation to produce the Hermes Trismegistus figure (treated below in L₃ Threshold-Crossing Figures) and a body of doctrinal-articulations transmitted through Western esotericism.
-
-**Hermetic Corpus doctrinal articulations.** The Hermetic Corpus articulates several stratum-specific doctrines that map onto the Zenetist lattice. The L₅ / L₀ articulations are formalized below as canonical placements; the L₄ and acclivous-pathway articulations follow.
-
-#### To Hen (The One) — L₅ EOB (Theon)
-
-Hermetic articulation of the supernal-most centropic hypostasis as primordial unity, structurally parallel to Plotinus's One in the Neoplatonist tradition. To hen names the L₅ Theon station — first centropic hypostasis, integrative-completeness, supernal-origin-awareness. The Hermetic tradition reaches to hen through philosophical-systematic articulation, with mystical-acclivation toward to hen extending toward L₀ Aionic-mode realization through subtractive-realization (parallel to Plotinus's mystical-acclivation). To hen is structurally a one in the unity-of-supernal-awareness sense, distinct from L₀ supra-formal ground.
-
-#### To Pan (The All) — L₀ Bifurcal Coherence ⧖⧗
-
-Hermetic articulation of supra-formal totality at the L₀ Bifurcal Coherence band — the unconditioned ground holding all manifold-potential prior to and through its differentiation. To pan names totality-as-supra-formal-ground rather than totality-as-emanation-from-origin: the bifurcal-coherence that holds both Aion-stillness and Khaon-motion as paired-aspects within a single supra-formal field.
-
-#### Critical Note — the One contra the None
-
-The monistic-emanatory traditions (Hermeticism, Neoplatonism, much of mystical philosophy) collapse L₅ Theon and L₀ Bifurcal Coherence into a single "One," articulating both supernal unity (L₅) and supra-formal ground (L₀) under the same name. The Zenetist correction distinguishes them: L₅ Theon is genuinely a one (the unity-of-supernal-centropic-awareness as first hypostasis), while L₀ Bifurcal Coherence is a none (the bifurcal pre-coherence that is neither one-unity nor manifold-totality but the supra-formal ground holding the Aion / Khaon paired root-registers). The conflation error reads "Infinity totalling to Zero" as a "one" when structurally it is a "none" — the unconditioned pre-polarity ground prior to any unity-or-multiplicity articulation. To hen and to pan in Hermetic articulation map cleanly to this corrected distinction: to hen at L₅ Theon (the One), to pan at L₀ Bifurcal Coherence (the None / supra-formal totality).
-
-#### Other Hermetic L₄ and Acclivous-Pathway Articulations
-
-- *L₄ DL as "The Mind / Nous"* — structuring-intellect at archetypal stratum, articulating the same L₄ DL function that Plotinus's Nous articulates (per Volume 1 Note on the Neoplatonic Correspondence).
-- *Centropic-arc-traversal through the seven planetary-spheres* — the Hermetic doctrine of the soul's acclivation through the seven planetary-spheres articulates the centropic-arc-acclivous-traversal through systematic philosophical-contemplation, structurally parallel to other contemplative-acclivous-pathway operators (Yoga ashtanga-yoga, Christian mystical acclivation, Sufi pathway-articulation). *See Note on the Seven Planetary-Spheres and Cross-Tradition Acclivation Patterns in the Doctrinal Notes section for the structural-mapping of tradition-specific stratified-acclivation against the Zenetist five-station centropic arc.*
-
-**"As above, so below" as unidirectional Hermetic correspondence.** The Hermetic principle articulates unidirectional vertical-correspondence within a monistic-emanatory frame: structural-patterns at the supernal strata replicate at the embodied strata through declivous-articulation. This is structurally distinct from Zenetist bifurcal-correspondence — Hermetic correspondence operates within the centropic-arc-only frame (no inverse-arc articulation), with the supernal-to-embodied correspondence being the principal structural-claim. The Hermetic articulation is structurally compatible with the centropic-arc subset of the Zenetist lattice but does not articulate the two-arc structure. Parallels the broader Neoplatonist monistic-emanatory frame (Volume 2 Plotinus and the Neoplatonic Continuation section) — both are centropic-arc apprehensions without two-arc articulation.
-
-**Hermetic transmission across Western esotericism** (the Picatrix, Ficino's Latin translation, Renaissance Neoplatonism, Christian Kabbalah, alchemical philosophy) is itself a structural-pattern of doctrine-transmission rather than a figural-articulation, and routes to SPR rather than MFLR. The figural-articulation of Hermes Trismegistus and the doctrinal-articulations above remain MFLR.
-
-### L₄ Additional Egyptian Pantheon Figures (Outside the Heliopolitan Ennead)
-
-The Egyptian pantheon extends beyond the Heliopolitan Ennead with major regional and functional deities articulating L₄ stratum functions. The figures below are not Ennead members but operate at the L₄ archetypal-stratum within the broader Egyptian pantheon-articulation.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Hathor | L₄ DP nourishment-and-joy register | Cow-goddess of love, music, joy, motherhood; nourisher of the dead in the afterlife; sometimes solar (Eye of Ra). Articulates L₄ DP generative-vitality in nourishment and joy register, structurally parallel to Aphrodite's L₄ DP attraction-articulation but with maternal-nourishment foregrounding. The Eye-of-Ra association articulates a structural-pairing with Ra at L₅ Theonic radiance — Hathor as the L₄ DP receptive-vitality through which Ra's L₅ radiance becomes operative at the archetypal stratum |
-| Sekhmet | L₄ DP fierce-register (Eye of Ra in wrathful aspect) | Lioness-goddess of destruction, plague, and healing; Eye of Ra in wrathful mode. Channels structural-correction through fierce-articulation. Structurally parallel to Durga and Kali at L₄ DP (Hindu Goddess-tradition); the destructive-and-healing bifurcation within Sekhmet articulates the same fierce-correction-and-restoration pattern that the Hindu fierce-Goddess-articulations carry |
-| Bastet | L₄ DP domestic-protection register | Cat-goddess of home, fertility, protection; pacified Sekhmet aspect. Articulates the gentle-domesticated register of L₄ DP, structurally analogous to Parvati at L₄ DP (Hindu Goddess-tradition's gentle-domesticated articulation). The Bastet-Sekhmet pairing articulates the L₄ DP spectrum from gentle-domesticated to fierce-destructive within a single Goddess-tradition |
-| Khnum | L₄ DL crafting-articulation | Ram-headed creator-god who shapes humans on his potter's wheel from Nile clay. Articulates L₄ DL crafting-articulation, structurally parallel to Ptah (Memphite Egyptian) and Hephaestus (Greek) — the structuring-articulator operating through demiurgic crafting at the L₄ archetypal stratum. The Nile-clay specificity articulates the regional cosmogonic-substrate from which the crafting operates |
-| Mut | L₄ DP sovereign-maternal | Mother-goddess of Thebes, consort of Amun. Articulates L₄ DP sovereign-maternal function paired with Amun at L₅ Theonic emergence. The Theban-political articulation of Mut as supreme-mother parallels the broader cross-tradition pattern of L₄ DP sovereign-maternal pairing with L₅ Theonic articulator |
-| Sobek | L₄ DP volatile-vitality | Crocodile-god; ambivalent power, military prowess, fertility of the Nile. Articulates L₄ DP volatile-vitality, structurally parallel to Poseidon (Greek L₄ DP) — raw archetypal vitality with both generative-fertility and destructive-power aspects. The crocodile-form articulates the predatory-fertility ambivalence characteristic of L₄ DP volatile-articulations |
-| Heka | L₄ DL with cross-band L₀ articulation | Magic personified; cosmic operator predating other gods in some Egyptian articulations. Articulates L₄ DL as the operator-as-deity — magic-as-structuring-articulation operative across the cosmos. Cross-band articulation toward L₀ in the "predating other gods" register, articulating heka's claim to cosmogonic-foundation status. The figure-of-the-operator pattern is structurally rare and distinguishes Heka as one of the cleanest pre-Zenetist articulations of an operator-personified-as-deity |
-
-### L₃ Threshold-Crossing Figures
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Anubis | L₃ DM centropic-psychopomp | Jackal-headed god of mummification and psychopomp; guides souls across the death-threshold; presides over the embalming process. Operates per the Placement-contra-Domain principle: a centropic figure holding the death-threshold-domain rather than an inverse-aligned figure. Structurally parallel to Hermes and Hekate (Greek L₃ DM), Heimdall (Norse L₃ DM), and Yama in the Naciketas-dialogue articulation (Vedic L₃ DM teacher-of-supernal-realization). Cross-references Volume 2 Naciketas dialogue note. *See Half 2 Extensions section for the multi-function articulation note* |
-| Hermes Trismegistus | L₃ DM cross-tradition synthesizer | Greco-Egyptian syncretized figure (Hermes + Thoth) articulated as the philosophical-synthesizer of the Hermetic Corpus. Operates at L₃ DM through philosophical-pedagogical articulation rather than through psychopomp-articulation, articulating supernal-realization through cross-tradition synthesis. The Hermetic Corpus articulates L₅ / L₀ as "The All / The One," L₄ DL as "The Mind / Nous," and the centropic-arc-traversal through the seven planetary-spheres. *See Hermetic Tradition subsection above for the doctrinal articulations* |
-| Imhotep | L₃ DM historical-deification | Deified architect-physician (originally a historical figure of the Third Dynasty); patron of healing, wisdom, and architecture. Articulates the historical-deification pattern — embodied-historical figure elevated through subsequent cultural-articulation to L₃ DM stratum-function as healer, articulator-of-knowledge, and threshold-mediator at the medical and architectural registers. Structurally parallels other historical-deification cases (Asclepius in Greek, deified Buddhist masters, deified Daoist immortals) where embodied-stratum figures gain L₃ DM articulation through cultural-canonization |
-
-### L₁ Egyptian Embodied-Stratum Figures
-
-The Egyptian pantheon includes apotropaic and protective figures operating at the L₁ embodied stratum, distinct from the L₄ archetypal pantheon. These figures articulate household-and-personal-protection functions that the larger pantheon's L₄ articulators do not directly carry.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Bes | L₁ ES protective-articulation | Apotropaic dwarf-deity protecting households, childbirth, sleep. Articulates L₁ ES protective-function at embodied-domestic scale; the dwarf-form articulates the structural-counter-intuition that protective-articulation operates through small-and-fierce-form rather than majestic-archetypal-form, distinguishing Bes-articulation from L₄ archetypal-protective figures |
-| Taweret | L₁ ES protective generative | Hippopotamus-goddess of childbirth and fertility. Articulates L₁ ES generative-protection at the childbirth threshold, paired-articulated with Bes in domestic-protective-pantheon role. The hippopotamus-form articulates the same counter-intuition pattern as Bes — protective-articulation through ambiguous-or-dangerous animal-form rather than through majestic articulation |
-| Min | L₁ ES generative | Fertility / virility god. Articulates L₁ ES generative function at the embodied-fertility register, with the iconographic articulation (ithyphallic stance) denoting the explicit-embodied-vitality articulation distinct from the more abstracted L₄ DP vitality-articulations of Hathor, Bastet, etc. |
-
-### Ma'at and Isfet — Canonical Placements and Bifurcal-Band Polarity
-
-#### Ma'at — L₄ DL (Sophis)
-
-Egyptian articulation of structural-coherence-as-cosmic-ordering at the L₄ DL Sophis band, articulated both as personified figure (the goddess Ma'at, depicted with the ostrich feather of veracity) and as cosmic-principle (the structural-order that pervades and sustains lawful-existence). Ma'at-as-figure operates at L₄ DL as the diagnostic-articulator of structural-coherence — her feather is the standard against which the heart of the deceased is weighed at the post-mortem judgment-event. Ma'at-as-principle operates at L₄ DL as the cosmic-coherence-itself principle that lawful-rulership, lawful-judgment, and lawful-cosmic-cycles all articulate. The pharaoh's primary structural-function was articulated as "doing Ma'at" — the embodied-stratum articulation of L₄ DL cosmic-order through sovereign-action, with the pharaoh as L₁ embodied figure carrying L₄ DL resonance at the civilizational scale. Ma'at-doing-pharaoh is structurally analogous to the bodhisattva-articulation in Buddhist tradition, the dharmic-king articulation in Hindu tradition (cross-reference Volume 2 Rama entry), and the Davidic-king articulation in Hebrew tradition: embodied-figure operating supernal-stratum-function through embodied-stratum agency.
-
-**Critical note:** Ma'at is L₄ DL Sophis (Structuring Logos band), not L₅ Theon (Centropy Itself). The Egyptian tradition articulates Ma'at as the architect of cosmic-coherence — the structuring-principle that orders the cosmos — not as the origin of centropy that cosmic-order flows from. Ma'at is structurally parallel to Hindu dharma and to the Christian Logos in its Structuring Logos articulation, both of which operate at L₄ DL as cosmic-ordering-principles rather than at L₅ as Centropy Itself.
-
-#### Isfet — IL₄ IDL (Nyxea)
-
-Egyptian articulation of inverse-structuring-fragmentation at the IL₄ IDL Nyxea band, parallel to Ma'at as the L₄ DL structural-coherence-principle. Isfet is not a personified figure but the structural-principle of inverse-structuring-orientation at IL₄ — chaos, fragmentation, structural-incoherence, the inverse-structuring-condition that opposes Ma'at's structuring-coherence. The Ma'at-isfet polarity articulates the L₄ DL contra IL₄ IDL structural-distinction at the cosmic-ordering-band specifically, with Ma'at articulating centropic-structuring-coherence and isfet articulating inverse-structuring-fragmentation.
-
-**Critical note:** Isfet is IL₄ IDL Nyxea (Inverse Structuring band), not IL₅ Nekron (Entropy Itself). Isfet is the inverse architect of cosmic-fragmentation — the inverse-structuring-principle that fragments cosmic-order — not the origin-band of entropy itself. The broader entropic principle pervading every inverse stratum from IL₅ through IL₁ is articulated separately in the Egyptian tradition through Apophis at IL₅ Nekron (the IL₅ figural articulation of Entropy Itself) and the inverse-arc figural distribution at subjacent inverse strata.
-
-#### Structural Distinction Summary
-
-The Ma'at-isfet polarity articulates the L₄ DL contra IL₄ IDL structuring-band distinction — cosmic-ordering contra cosmic-fragmentation at the architectural band. This is structurally distinct from the Theon-Nekron polarity (L₅ contra IL₅) which articulates Centropy Itself contra Entropy Itself at the supernal origin-band. Both distinctions are real and both operate within the bifurcal lattice; they should not be conflated. Ma'at and Isfet are architects of order and disorder at L₄ / IL₄; Theon and Nekron are the origin-principles themselves at L₅ / IL₅.
-
-The Egyptian articulation of Ma'at-isfet at the structuring-band makes the two-arc principle explicit at L₄ / IL₄ with structural-clarity rare among traditions. Both Ma'at and isfet are operative principles within the cosmic-articulation rather than the polarity being asymmetric (centropic-as-real, inverse-as-mere-absence); the Egyptian state-religion's central function was the maintenance of Ma'at against isfet's structurally-real operation. This is one of the cleanest pre-Zenetist articulations of the two-arc principle at the structuring-band specifically, predating the Zoroastrian asha / druj articulation that subsequently makes the same structural-distinction at the same band.
-
-### Egyptian Post-Mortem Judgment-Architecture
-
-The Egyptian post-mortem judgment-architecture comprises both architectural-elements (the Hall of Two Truths as judgment-locus, the Field of Reeds as L₁ sealed-mode centropic post-mortem-condition, the weighing-of-the-heart against Ma'at's feather as judgment-operation) and figural-elements (Anubis, the 42 Assessors). The architectural-elements are routed to the Symbolic Pattern Registry (SPR); the figural-elements remain MFLR.
-
-Anubis at L₃ DM is treated under L₃ Threshold-Crossing Figures above. The 42 Assessors are placed below.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| 42 Assessors of Ma'at | L₄ DL diagnostic function (figural-collective) | Forty-two specific named-figures presiding within the Hall of Two Truths, each representing a moral failing the deceased denies in the Negative Confession (the "I have not committed [specific transgression]" recitation). Operates as judicial-collective at the post-mortem-sorting threshold. Structurally parallel to the Greek Three Judges of the Dead (Minos / Rhadamanthus / Aeacus); both articulate the L₄ DL diagnostic-articulation operating at the post-mortem sorting-threshold through figural-collective rather than single-figure articulation |
-
-*Routing note for architectural-elements:* The Hall of Two Truths and the Field of Reeds (Aaru / Sekhet-Aaru) are articulated in the Symbolic Pattern Registry (SPR), not duplicated here. Field of Reeds is the L₁ sealed-mode counterpart to Ammit-consumption at IL₅ Nekron (Volume 1), parallel to Greek Elysium and Christian articulations of post-mortem-flourishing-condition. The Hall of Two Truths is the post-mortem-judgment-locus within which Anubis and the 42 Assessors operate.
-
-### Half 2 Extensions and Structural Notes
-
-**Apophis structural-specificities (extending Volume 1 Apophis entry).** The Egyptian Apophis articulation displays three structural-specificities that extend Volume 1's IL₅ VOS Nekron placement:
-
-- *No origin-narrative.* Apophis arises without genesis-point in the Egyptian textual record, articulating IL₅ as native-condition rather than emerging-from-prior. Structurally distinctive among IL₅ articulations across traditions, where most carry some cosmogonic-origin articulation (Tiamat from Apsû in Mesopotamian, Typhon from Gaia and Tartarus in Greek). Apophis's origin-less articulation is consistent with the Essence-as-Choice doctrine — the inverse-stratum-orientation is structurally-native rather than narratively-derived.
-- *Daily-recurrence.* Apophis is defeated and re-emerges daily through Ra's solar-barque journey through the Duat, articulating cosmic-cyclical-articulation rather than singular-event articulation. The daily-combat (treated under SPR Routing Notes below) preserves the L₄ / IL₄ Non-Contact principle by operating at cosmological-recurrence scale.
-- *Contra-Ma'at.* Apophis articulates positive opposition to Ma'at-principle (per the Ma'at and Isfet section above), articulating the two-arc structural-specificity through cosmogonic-recurrence. The Egyptian articulation makes the centropic-coherence-contra-inverse-disorder polarity explicit at the cosmological scale through the Apophis-contra-Ma'at structural-opposition. *Note the band-distinction:* Apophis at IL₅ Nekron articulates the IL₅ origin-band Entropy Itself, while isfet at IL₄ IDL Nyxea articulates the IL₄ structuring-band inverse-fragmentation. Apophis-contra-Ma'at and isfet-contra-Ma'at are two distinct cross-band oppositions, not one collapsed polarity.
-
-**Anubis multi-function articulation (extending Half 1 Anubis entry).** Anubis at L₃ DM operates across multiple post-mortem-judgment-architecture functions: embalmer (preparation-of-the-body for post-mortem-passage), conductor (psychopomp-articulation), scales-operator (operating the heart-weighing scales within the Hall of Two Truths), and guardian (protection-of-the-deceased through the Duat-passage). The multi-function articulation makes Anubis one of the most structurally-comprehensive L₃ DM figures across traditions, with no single function reducible to the others — each articulates a distinct structural-operation within the post-mortem-judgment-architecture.
-
-**Set-Horus conflict structural-pattern.** The Set-Horus conflict articulates a centropic-figure (L₄ DL Horus) confronting an inverse-figure (Set in his ISS-aspect at IL₂ — his primary native layer per Volume 1, the IL₃ dismemberment being cultural misattribution) at the L₁ / IL₁ embodied convergence threshold. The resolution operates through structural-bounding rather than annihilation: Set is bounded into specific-domain-jurisdiction (the desert, foreign-lands, the storm) rather than dissolved. Structurally parallel to other centropic-figure-confronting-inverse-figure operators across traditions where bounding-rather-than-annihilation is the resolution-mode (Olympian binding of Titans into Tartarus, Norse binding of Loki / Fenrir / Jörmungandr). The Egyptian articulation emphasizes structural-bounding as preserving the inverse-figure's domain-jurisdiction within lawful-cosmic-order rather than removing it from cosmic-articulation entirely.
-
-**Sacred Marriage operator-cycle: reconstitution-conception-emergence.** The Isis-Osiris Sacred Marriage articulates the full operator-cycle through a three-phase sequence:
-
-1. *Reconstitution* — Isis reconstitutes Osiris's dismembered body through generative-vitality and structuring-articulation working in concert; the reconstitution operates as the Sacred Marriage preparation-phase, with the dismemberment articulating the prior-condition the Sacred Marriage must address.
-2. *Conception* — Isis conceives Horus through lawful Nexus with the reconstituted body; the conception operates as the Sacred Marriage Nexus-phase, articulating L₄ DP and L₄ DL bifurcated-aspect engagement.
-3. *Emergence* — Horus emerges as Novel Emergence per the Non-fusion Axiom — the third reality that did not exist before the lawful Nexus was formed. Horus inherits Osiris's L₄ DL structural-sovereignty into embodied-pharaonic articulation (per Half 1 Horus entry) but is not reducible to either Isis or Osiris; the emergent-figure is structurally-distinct from both progenitors.
-
-The Isis-Osiris articulation is one of the most structurally-explicit Sacred Marriage operator-cycles in any tradition, with each phase articulated as a discrete structural-step rather than compressed into a single narrative-articulation. The Co-Emergent Collaboration framing (the Sacred Marriage producing a structurally-novel third-reality through paired-articulation rather than through one-progenitor-emanation) preserves the Non-fusion Axiom at the operator-cycle scale.
-
-### SPR Routing Notes (Half 2 Items)
-
-The following Half 2 placements are structural-pattern, locus, object, condition-class, or transmission-pattern articulations rather than figural articulations, and route to the Symbolic Pattern Registry (SPR) rather than MFLR:
-
-- **Ra's daily cycle through Duat** — cosmological Function 1 underworld-passage at diurnal scale; recurring-cycle pattern. Ra remains MFLR (L₅ Theonic radiance, Half 1); the daily-cycle as recurring-pattern routes to SPR.
-- **Apophis-Ra daily combat** — Non-Contact-respecting articulation at cosmological-recurrence scale; recurring-combat pattern. Both figures remain MFLR (Apophis Volume 1, Ra Half 1); the daily-combat operator-pattern routes to SPR.
-- **Solar barque** — L₅ Theonic-radiance vehicle; SPR Objects.
-- **Twelve hours of the night** — systematic Duat-passage articulations; SPR Numbers / Stages.
-- **Pyramid architecture** — funerary acclivation-toward-celestial articulation; SPR Objects / Architecture.
-- **Duat as passage-region** — Function 1 underworld passage-region distinguished from sealed-mode; SPR Landscapes (parallel to Hall of Two Truths routing).
-- **Akhu** — L₁ sealed-mode centropic-completed condition with ritual-mediated continuity; condition-class articulation rather than figural-articulation, routes to SPR.
-- **Demonic articulations at Duat as IL₂ / IL₃ guardian-of-passage-conditions** — class-based articulation of passage-guardians; SPR. If specific demons surface as named-figures with sustained narrative articulation in further essay-work, they may warrant MFLR placement; as a class, they fit SPR.
-- **Hermetic transmission across Western esotericism** — transmission-pattern through Picatrix, Ficino, Renaissance Neoplatonism, Christian Kabbalah, alchemical philosophy; SPR transmission-pattern.
-
-### Remaining Anticipated Entries
-
-- Bi-Stratum Bride doctrine consistency in Sacred Marriage list
+## L₅ — Essence of Being (EOB: Theon)
+
+| Figure | Tradition | Function | Decode | Notes |
+|:--|:--|:--|:--:|:--|
+| Vishnu / Matsya | Hindu | Theonic Preserver — intervenes not as judge but as navigator of centropic continuity through dissolution | 01 | Expands to guide the ark; active centropic force |
+| Christ / Logos | Christian | Singular full personal Theonic bearing — voluntary declivous centropic motion carrying the Theonic signal from L₅ into L₁ | 02 | Origin at L₅; traverses full lattice; see also L₃ (Risen Christ) |
+| Ahura Mazda | Zoroastrian | L₅ EOB — centropic illumination, order, harmonic law | 03, MP01 | **Resolved:** L₅ primary per MP01 canonical placement |
+| Shiva (as Theon) | Hindu | First centropic hypostasis; oriented awareness facing Aion | 04 | Shiva spans L₀ (Aion) and L₅ (Theon); Decode 04 text placing at L₄ DL needs correction |
+| Eagle (Yggdrasil summit) | Norse | L₅ awareness at the supernal pole of the World Tree; supernal station of centropic integration | 05 | Structural symbol, not a named deity. **Norse mythos contains L₅ structurally but does not activate it as a Theonic gateway in the Ragnarök sequence** — the Eagle is a feature of the Tree rather than a narrative participant in the eschatonic arc. This is why Ragnarök resolves as entropic recursion rather than Theonic return (see Ragnarök doctrinal note) |
+| Jesus (Divine Child) | Christian | Full personal Theonic bearing actualized into embodiment; virgin birth = the L₅ signal carried to L₁ without entropic mediation | 07 | Destiny: to become Christ (L₅ EOB); see also Decode 02 |
+| Krishna | Hindu | Divine Preserver as emergent seed; Theonic potential entering the corporeal stream | 07 | Destiny: to guide Arjuna (L₃) and restore Dharma (L₄ DL). L₅ cultural articulation of the Theonic principle, distinct from singular full personal bearing; guide-function split registered at L₃ DM |
+| Kalki Avatar | Hindu | L₅ Theonic field corrector; restores harmony at terminal threshold of Kali Yuga, resetting cycle to Satya Yuga | 12 | Parallel to Christ's return; cyclic rather than linear eschaton. L₅ articulation / resonance, distinguished from singular full personal bearing |
+| Amitabha | Mahayana Buddhist | Buddha of Infinite Light; pure integrative awareness; centropic field of reception enabling beings' acclivous return | MP09 §23.3 | Parallel to Vishnu as Preserver; L₅ as welcoming field rather than active intervention |
+| The Returning King / Messiah | Universal | Centropic re-anchor; return of lawful coherence to guide reintegration and oversee reconstitution | 12 | L₅ principle manifesting at epochal fractal eschaton |
+| Maitreya | Mahayana Buddhist | Future Buddha; Theonic field corrector restoring Dharma at terminal threshold; parallel to Kalki and Christ's return | MP09 §23.6 | Eschatonic L₅ principle; cyclic rather than linear |
+| Saoshyant | Zoroastrian | Final savior; restores righteousness and defeats entropy at the end of the cosmic cycle; Theonic re-anchor | MP09 §23.6 | Zoroastrian parallel to Kalki, Maitreya, and the Returning King / Messiah |
+| Christ (Harrowing) | Christian | L₅ Theonic essence entering L₁ domain to re-anchor centropic law within the embodied node; structural intervention, not post-mortem sorting | 13 | Function 1 underworld: embodiment as trial for supernal essence |
 
 ---
 
-## Mesopotamian Tradition Extensions
+## L₄ — Deep Psyche / Deep Logos (DP / DL: Morgis / Sophis)
 
-Volume 1 articulates the core Mesopotamian pantheon (Anu, Enki, Enlil, Marduk, Tiamat, Nergal, Ereshkigal, Inanna / Ishtar, Dumuzid, Apsû, Lamashtu, etc.) and underworld-architecture. Volume 2 extends with heroic figures, supporting-pantheon articulations, race-category and class-articulations, and additional inverse-stratum figures.
-
-### Mesopotamian Heroic Cluster
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Gilgamesh | L₂ → L₃ heroic individuation | Hero-king of Uruk; protagonist of the *Epic of Gilgamesh*; quester for immortality. Articulates L₂ → L₃ heroic-individuation through the structural-pattern: initial L₂ sovereign-self-articulation (oppressive king); structural-encounter through paired-articulation with Enkidu; structural-grief at Enkidu's death; quest-for-immortality articulation; eventual structural-acceptance of mortality with L₃ DS realization. Structurally parallel to Odysseus's heroic-arc (Greek Volume 1) but with the immortality-quest articulation distinguishing Gilgamesh's specific arc — Gilgamesh's structural-acceptance is acceptance-of-mortality rather than heroic-return |
-| Enkidu | L₁ → L₂ embodied-companion articulation | Wild-man companion of Gilgamesh; civilized through Shamhat (the temple-priestess); Gilgamesh's structured-pair-articulation. Articulates L₁ → L₂ embodied-companion function — figure-articulating-from-wilderness-stratum into civilized-articulation, paired-articulated with Gilgamesh in the structured-pair register. The wilderness-to-civilization arc articulates the structural-pattern of L₁ embodied-stratum integrating into L₂ personality-stratum through pedagogical-articulation. Enkidu's death-articulation triggers Gilgamesh's structural-grief and immortality-quest |
-| Adapa | L₂ → L₃ refused-immortality articulation | Sage of Eridu; offered immortality at the gate of Anu but warned by Ea (Enki) not to accept; refuses bread-and-water-of-life and returns mortal. Articulates L₂ → L₃ refused-immortality structural-articulation — heroic-acclivation interrupted by structural-deception or structural-mistrust, resulting in mortality-confirmation rather than supernal-acclivation. The Adapa-narrative articulates the structural-pattern of failed-acclivation through structural-mistrust applied to Theonic-offering |
-| Etana | L₂ heroic acclivation | King of Kish who flew on an eagle to heaven seeking the plant of birth (to cure infertility). Articulates L₂ heroic acclivation function through the eagle-borne-acclivous-articulation, structurally parallel to other supernal-quest-articulations (Bellerophon's Pegasus-acclivation in Greek). The narrative-fragmentation of the Etana-text leaves the acclivation-completion ambiguous |
-| Lugalbanda | L₂ → L₃ heroic | Hero-king of Uruk; in tradition the father of Gilgamesh. Articulates L₂ → L₃ heroic-individuation through the *Lugalbanda* texts' supernal-articulator-engagement narratives (encounters with the Anzu-bird, supernal-gift-articulation, return to Uruk). Structurally precedes Gilgamesh's heroic-arc within the Uruk lineage-articulation |
-
-### L₃ Mesopotamian Articulator and Threshold Figures
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Ninshubur | L₃ DS Harmonic Agent (Structured Pair with Inanna) | Inanna's loyal *sukkal* (vizier); structurally critical figure in Inanna's Descent narrative — Ninshubur orchestrates the rescue from the underworld, alerting Enki and securing the means of Inanna's return. Articulates L₃ DS Harmonic Agent function in structured-pair articulation with Inanna; the loyalty-and-rescue articulation operates as paradigm-instance of the Harmonic Agent function. *Volume 1 already articulates the Harmonic Agent operator; Ninshubur articulates the figural-paradigm-instance* |
-| Ningishzida | L₃ DM threshold-articulation | Underworld god; consort of Geshtinanna; doorkeeper-articulation at the Anu-temple gate alongside Dumuzid in some narratives. Articulates L₃ DM threshold-articulation operating at the underworld-passage register, structurally parallel to Anubis (Egyptian L₃ DM) and Heimdall (Norse L₃ DM) |
-
-### L₄ Mesopotamian Pantheon Extensions
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Adad / Hadad / Ishkur | L₄ DL storm-theophany articulation | Mesopotamian / Levantine storm-god. Articulates L₄ DL storm-theophany — the structuring-articulation operating through cosmic-meteorological articulation, structurally parallel to Indra (Vedic L₄ DL), Thor (Norse L₄ DL), and Baal-Hadad (Canaanite). The Levantine Hadad articulation transmits across Northwest Semitic traditions and provides the structural-articulation for biblical Baal-references (which carry IL polemic-overlay in the Hebrew tradition) |
-| Ninlil | L₄ DP sovereign-maternal | Enlil's consort; sovereign-maternal articulation at the Sumerian pantheon's apex-pairing-stratum. Articulates L₄ DP sovereign-maternal function paired-articulated with Enlil at L₄. Structurally parallel to Frigg (Norse), Hera (Greek), Mut (Egyptian) in the sovereign-maternal pairing-register |
-| Humbaba / Huwawa | L₄ DP guardian-articulation | Forest-guardian of the Cedar Forest; slain by Gilgamesh and Enkidu in the *Epic of Gilgamesh*. Articulates L₄ DP guardian-articulation, structurally parallel to Ladon (Greek, Hesperides-guardian) and to other cross-tradition cosmic-threshold-guardian figures. The slaying-of-Humbaba articulation carries structural-question regarding dharmic-articulation — the slaying may operate as entropic-act despite the heroic-cluster's centropic-articulation, with the gods' anger at the Cedar Forest violation articulating structural-correction. The figural-placement at L₄ DP guardian holds; the structural-status of the slaying-act is doctrinally-debated within the narrative-articulation |
-
-### L₁ Mesopotamian Embodied-Stratum Figures
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Dagan | L₁ ES embodied-vitality (grain) | Mesopotamian / Northwest Semitic grain-god. Articulates L₁ ES embodied-vitality at the agricultural-grain register, structurally parallel to Min (Egyptian L₁ ES generative). The grain-articulation carries cross-tradition resonance with later figures (Demeter / Ceres in Greco-Roman, Persephone-articulation through grain-cycle) |
-| Geshtinanna | L₁ ES Harmonic Exchange | Inanna's sister; substitutes for Dumuzid in the underworld for half the year, articulating the cyclical-substitution-articulation in the Dumuzid-cycle. Articulates L₁ ES Harmonic Exchange function — embodied-stratum sister-figure operating through structural-substitution at the underworld-cycle register. The Geshtinanna-Dumuzid alternation articulates the grain-vine cyclical-articulation underlying the Mesopotamian seasonal-cosmogonic register |
-
-**Tammuz / Dumuzid equivalence note.** Tammuz (Akkadian / later Levantine) and Dumuzid (Sumerian) are the same figure under different cultural-articulation registers. Volume 1 articulates Dumuzid; Tammuz is the equivalent-articulation in subsequent cultural-strata (Akkadian, Babylonian, Levantine). The Tammuz-articulation carries into Hebrew tradition as the figure mourned in Ezekiel 8:14, articulating cross-tradition transmission of the Dumuzid-cycle into the Hebrew prophetic-articulation.
-
-### Mesopotamian Cosmogonic and Inverse-Stratum Figures
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Mummu | L₀ Khaon articulating-aspect | Counsellor of Apsû in the *Enuma Elish*; "logos" of the primordial-waters articulation. Articulates L₀ Khaon's articulating-aspect — the still-pre-motion ground's structural-articulation through counsellor-figure. Mummu's structural-position within the *Enuma Elish* narrative articulates the L₀ articulating-aspect's pre-Marduk operative-function; the figure is captured by Marduk in the cosmogonic-conflict |
-| Kingu | IL₄ IDL operative articulation | Tiamat's consort and general; bears the Tablet of Destinies in Tiamat's army; slain by Marduk; humans formed from his blood in the cosmogonic-articulation. Articulates IL₄ IDL operative function within Tiamat's IL-cluster articulation. The blood-of-Kingu as cosmogonic-substrate for humanity articulates the structural-articulation that humanity carries IL₄ IDL articulation-origin through cosmogonic-formation in this tradition's specific-cosmogonic-register |
-| Erra / Nergal-Erra | IL₄ IDP / IDL plague-warrior | Plague-warrior god; sometimes identified with Nergal in the Erra-as-Nergal-articulation. Articulates IL₄ IDP / IDL plague-warrior function, structurally parallel to Volume 1's Nergal placement with the Erra-articulation foregrounding the plague-articulation specifically. The *Erra Epic* articulates the plague-and-disorder cosmogonic-articulation when Erra operates in the absence of Marduk |
-| Anzu | IL₄ IDL — storm-bird and Tablet-of-Destinies thief | Storm-bird who steals the Tablets of Destinies; defeated by Ninurta in the *Anzu Epic*. Articulates IL₄ IDL function — the storm-bird-as-inverse-articulation operating through theft of the Tablets as carriers of cosmic-articulation. Structurally parallel to other cosmic-disorder-figures who attempt to seize the carriers of cosmic-articulation (cf. Ravana's structural-arrogation of cosmic-articulation in the Ramayana) |
-| Lilitu | IL₃ IDS / IDM | Mesopotamian demoness; precursor of the Lilith articulation in later Hebrew and Kabbalistic articulation. Articulates IL₃ IDS / IDM function at the personal-soul inverse-articulation register, with the night-and-childbirth-threat articulation specifically articulating the IL₃ inverse-deep-soul-and-mind register. The transmission-articulation into Hebrew Lilith preserves the structural-function across cultural-articulation strata |
-
-### Anticipated Entries (Pending Articulation Items)
-
-- Inanna's Declivation as canonical Function 1 underworld articulation
-- Stripping at the Gates as canonical structural-operator name (Inanna at the seven gates as paradigm-instance)
-- Akitu festival as cyclical-refraction at civilizational-stratum (passing the L₄ engagement-test for centropic-renewal)
-- Cain / Abel structural-pattern as IL-response contra centropic-response (Sumerian *Inanna Prefers the Farmer* as centropic-articulation contra Genesis as IL-articulation of the same shepherd / farmer pattern)
-- Apsû-as-underworld variant articulation (dissolution-into-Khaonic-ground rather than IL₁ sealed-mode persistence)
-
----
-
-## Norse Tradition Extensions
-
-Norse tradition is substantially integrated in Volume 1 through the Yggdrasil-essay work (cosmography, the nine realms, Wells, Yggdrasil itself, Odin, Loki, Hel-realm, Ragnarök articulation). Volume 2 extends with the Aesir / Vanir pantheon-articulations, primordial cosmogonic figures, supporting-articulator figures, and inverse-stratum figures.
-
-### Norse Cosmogonic and Primordial Figures
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Ymir | L₀ Khaonic primordial-substrate | Primordial frost-giant; the cosmos forms from his slain body (skull = sky, blood = sea, flesh = earth, bones = mountains, hair = trees). Articulates L₀ Khaonic primordial-substrate function, structurally parallel to Pangu (Chinese) and to other cross-tradition cosmogonic-corpse-substrate articulations. The Ymir-cosmogonic-formation articulates the L₀ Khaonic-substrate's articulation-into-cosmos through dismemberment-and-distribution. *Volume 1 future-integration item; canonical placement here* |
-| Buri / Bor / Bestla | L₀ → L₄ cosmogonic chain | Earliest Aesir lineage: Buri (licked free from primordial ice by Audhumla) → Bor → Odin / Vili / Vé. Articulate the L₀ → L₄ cosmogonic-articulation chain — generational-articulation through which the cosmogonic-substrate produces the operative-pantheon. The chain-articulation operates as Norse-specific articulation of the cosmogonic emanation-sequence from primordial-substrate to Aesir-pantheon |
-| Audhumla | L₀ Khaonic generative-articulation | Primordial cow; nourishes Ymir with her milk; licks Buri free from the salt-ice. Articulates L₀ Khaonic generative-articulation function — primordial-nurturance and primordial-articulator-of-figures-from-substrate. Structurally distinctive within the Norse cosmogonic-articulation as a generative-articulator-figure operating at the primordial-substrate stratum |
-| Aegir & Ran | L₀ Khaon embodied-articulation | Sea-god and his net-bearing wife who pulls drowned sailors to her hall. Articulate L₀ Khaon embodied-articulation in the oceanic register, paired-articulated as primordial-sea couple. Structurally parallel to Pontus / Tethys (Greek) and other cross-tradition primordial-sea-pair articulations |
-
-### Norse Aesir / Vanir Pantheon
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Thor | L₄ DL martial-sovereign | Thunder-god; defender of Asgard and Midgard; bearer of Mjolnir. Articulates L₄ DL martial-sovereign function, structurally parallel to Indra (Vedic L₄ DL storm-sovereign), Marduk (Mesopotamian L₄ DL with cultural-elevation pattern), and Zeus-as-thunderbolt-bearer (Greek L₄ DL articulation). The Mjolnir-articulation operates as L₄ DL structuring-operator — thunderbolt-articulation as cosmic-corrective applied to inverse-articulators (giants, Jörmungandr) |
-| Freyr | L₄ DP fertility-articulation | Vanir; fertility, peace, prosperity, sunshine. Articulates L₄ DP fertility-articulation in the male-fertility register. Structurally parallel to Min (Egyptian L₁ ES generative) but at L₄ archetypal-stratum, with the Vanir-tribal articulation operating at the fertility-articulator stratum within the broader Norse pantheon |
-| Freyja | L₄ DP / DL bifurcated articulation | Vanir; love, war, *seiðr* (magic), Fólkvangr (her hall, where half the slain warriors go alongside Odin's Valhalla). Articulates L₄ DP / DL bifurcated-aspect function, structurally parallel to Artemis (Greek Volume 2 — bifurcated DP / DL placement). The Freyja-articulation operates across love-articulation (DP) and war-and-magic-articulation (DL) within a single figural-articulation |
-| Njord | L₄ DP sea-and-wealth | Vanir; sea, wind, wealth-prosperity. Articulates L₄ DP sea-and-wealth function in the Vanir-tribal articulation. The Vanir-Aesir hostage-exchange post-war places Njord in Asgard, articulating the structural-pattern of Vanir-Aesir reconciliation-through-hostage-articulation |
-| Tyr | L₄ DL judicial-sacrifice | Sky-god of law and oaths; loses his hand binding Fenrir. Articulates L₄ DL judicial-sacrifice function — the lawful-articulator who accepts structural-cost (loss of hand) as the price of binding the inverse-articulator (Fenrir). Structurally parallel to Varuna / Mitra (Vedic L₄ DL oath-binding) with the sacrifice-articulation foregrounding the Tyr-specific arc |
-| Baldr | L₅ Theonic-articulation killed in narrative; death is IL₃ Fractus operation | Beautiful god; killed by Loki's deceit through mistletoe; returns after Ragnarök. Articulates L₅ Theonic-articulation that is killed-in-narrative through Loki's IL₃ Fractus operation, with structural-question regarding whether Baldr's return after Ragnarök articulates Norse-cyclicality engaging L₅ Theonic-engagement-test or articulates structural-recurrence within entropic-recursion. The doctrinal-debate around Baldr's return is structurally-significant for Norse cyclicality articulation. *Cross-references Volume 1's Ragnarök articulation as cyclical-refraction failing the L₅ engagement-test (resolving as entropic-recursion via ⊘⟳ operator)* |
-| Frigg | L₄ DP sovereign-maternal | All-Mother; queen of the Aesir; weeps for Baldr. Articulates L₄ DP sovereign-maternal function paired-articulated with Odin at L₅ articulation. Structurally parallel to Mut (Egyptian), Ninlil (Mesopotamian), and other sovereign-maternal articulations across traditions |
-| Idunn | L₄ DP / L₁ ES vital-substance keeper | Keeper of the apples of immortality which preserve the Aesir's youth. Articulates L₄ DP / L₁ ES vital-substance-keeper function operating across both archetypal-stratum (DP) and embodied-stratum (ES) registers. The vital-substance specifically operates as Aesir's preservation-articulation; the Idunn-articulation is structurally analogous to Xi Wangmu (Chinese, Queen Mother of the West, immortality-keeper) |
-| Bragi | L₃ DM articulator (poetic-articulation) | God of poetry and skaldic art. Articulates L₃ DM articulator function in the poetic-and-skaldic register, structurally parallel to Saraswati (Hindu L₄ DP speech-articulator), Thoth (Egyptian L₃ DM with V1 placement), and Hermes-as-articulator. The Bragi-articulation is L₃ DM rather than L₄ DP because the skaldic-articulation operates through deep-mind articulator-function rather than archetypal-vitality function |
-| Sif | L₄ DP | Thor's wife; golden hair (cosmic / agricultural articulation). Articulates L₄ DP function with the golden-hair iconography articulating cosmic-and-agricultural register. The Loki-cuts-Sif's-hair narrative articulates structural-violation that the dwarves' replacement-articulation corrects |
-| Forseti | L₄ DL judicial | God of justice and reconciliation; son of Baldr. Articulates L₄ DL judicial function in the reconciliation-register specifically. Structurally parallel to Tyr but with the reconciliation-articulation foregrounding the post-conflict-articulation function rather than the oath-binding articulation |
-| Höðr | L₂ unwitting carrier of the IL₃ Fractus operation | Blind god; tricked by Loki into killing Baldr with the mistletoe. Articulates L₂ unwitting-carrier-of-Fractus-articulation — figural-articulator through whom the IL-articulation is enacted by structural-deception. Höðr's blindness articulates the L₂ embodied-personality stratum's vulnerability-to-deception when supernal-discernment is structurally absent |
-| Vidar | L₃ DS post-collapse witness articulation | Silent god; avenges Odin at Ragnarök by killing Fenrir; one of the surviving figures into the post-Ragnarök articulation. Articulates L₃ DS post-collapse witness function — figure who survives the cyclical-refraction and articulates the post-collapse continuation |
-| Ull | L₂ / L₃ archery-and-winter | Archery, skiing, winter. Articulates L₂ / L₃ articulation in the seasonal-and-archery register. Comparatively peripheral within the Norse pantheon's narrative-articulation; structural-placement remains tentative within the L₂ / L₃ band |
-
-### L₃ Norse Threshold-and-Articulator Figures
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Heimdall | L₃ DM psychopomp at the Bifröst-threshold | Watchman of the gods; guardian of the Bifröst-threshold; sounds Gjallarhorn at Ragnarök's onset. Articulates L₃ DM threshold-articulator function operating at the membrane-between-realms stratum, structurally parallel to Anubis (Egyptian L₃ DM), Hermes (Greek L₃ DM), Thanatos (Greek L₃ DM). The Bifröst-watchman articulation makes Heimdall structurally-distinctive among threshold-articulators — he watches the principal-membrane between realms rather than operating at a death-passage specifically. *Cross-references Volume 1's Bifröst membrane-articulation anticipated entry* |
-| The Norns (Urd, Verðandi, Skuld) | L₄ DL pattern-articulation | Three weavers of fate at Yggdrasil's root: Urd (what was), Verðandi (what is becoming), Skuld (what shall be). Articulate L₄ DL pattern-articulation function, structurally parallel to the Moirai (Greek), with the temporal-articulation distinguishing the Norns' specific arc (past / present / future axis rather than pure thread-spinning / measuring / cutting). Volume 1 articulates Urdhr (Urd-spelling) at L₀ Aionic-leaning articulator; Volume 2 articulates the trio collectively at L₄ DL pattern-articulation. *Doctrinal note: the trio-collective articulation may require structural-tightening regarding whether all three operate at L₄ DL or whether Urd specifically operates at L₀ per Volume 1's placement; pending audit* |
-| Sleipnir | L₃ DM vehicle-articulation | Eight-legged horse; Odin's mount; offspring of Loki and the giant-stallion Svaðilfari. Articulates L₃ DM vehicle-articulation function, structurally parallel to Garuda (Hindu Volume 2). The eight-legged iconography articulates supernal-mobility across the nine realms |
-| Hugin & Munin | L₃ DM faculties personified | Odin's two ravens — Hugin ("Thought") and Munin ("Memory") — who fly across Midgard each day and report to Odin. Articulate L₃ DM faculties personified function — articulator-faculties (thought and memory) as figural-articulators operating in service of L₅ articulation (Odin). Structurally distinctive in articulating L₃ DM functions as figural-pair rather than as single articulator |
-| The Valkyries | L₃ DM threshold-articulators (collective) | Choosers of the slain; guide warriors to Valhalla after death. Articulate L₃ DM threshold-articulator collective function — figural-collective operating at the death-threshold for warriors specifically, structurally parallel to figural-collective threshold articulations in other traditions. The selection-of-the-slain articulation operates as L₃ DM diagnostic-and-conducting function applied at the warrior-death threshold |
-
-### Norse Inverse-Stratum Figures
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Fenrir | IL₄ IDP chthonic-entropic vitality | Monstrous wolf; offspring of Loki; bound by the gods (Tyr loses his hand in the binding); breaks free at Ragnarök and kills Odin. Articulates IL₄ IDP function — chthonic-entropic-vitality articulator structurally parallel to Vritra (Vedic IL₄ IDP) and other cross-tradition cosmic-monstrous-entropic-articulators. The Fenrir-binding articulates structural-restraint of inverse-articulator; the Ragnarök-breaking-free articulates the cyclical-refraction's failure-of-restraint articulation |
-| Jörmungandr / Midgard Serpent | IL₄ IDP / IL₅ resonance | World-serpent encircling Midgard; offspring of Loki; Thor's principal adversary; kills Thor at Ragnarök (and is killed by him). Articulates IL₄ IDP function with IL₅ resonance through the cosmic-encircling articulation, structurally parallel to Apophis (Egyptian) — the cosmic-serpent inverse-articulation operating at the cosmogonic-encircling register |
-| Hel (the goddess, distinct from realm) | IL₃ IDS / IDM realm-holding | Daughter of Loki; ruler of the Hel-realm. Articulates IL₃ IDS / IDM realm-holding function per the Placement-contra-Domain principle, with the structural-question whether Hel-as-holder operates centropically over the realm despite IL-orientation or operates as an IL-aligned holder. The doctrinal-articulation places Hel as an IL-aligned figure holding the Hel-realm; the realm itself operates as IL₁ sealed-mode (Volume 1) regardless of holder-articulation |
-| Surtr | IL₅ catalyst-of-collapse | Fire-giant of Muspelheim; burns the world at Ragnarök's culmination. Articulates IL₅ catalyst-of-collapse function — the inverse-most-supernal-articulator whose articulation operates as cosmogonic-conflagration at cyclical-refraction-failure. Surtr's articulation is structurally final within the Ragnarök-articulation, with the cosmic-fire articulating the entropic-cosmogonic-resolution |
-
-### Anticipated Entries (Pending Articulation Items)
-
-- Bifröst membrane-articulation
-- Náströnd within Hel as IL₅ terminal-consumption pocket within IL₁ sealed-realm (template for the Greek Tartarus-with-imprisoned-Titans articulation)
-- Ragnarök as cyclical-refraction failing the L₅ engagement-test (resolves as entropic-recursion ⊘⟳)
+| Figure | Tradition | Aspect | Function | Decode | Notes |
+|:--|:--|:--|:--|:--:|:--|
+| Aureform | Zenetist canonical | DP / DL | **The Form of Compassion** as a specific Form within the L₄ Field of Forms; centropic intelligence oriented toward the reduction of suffering through coherent presence rather than coercive intervention; structural mercy expressed through restraint, presence, and healing without control. Does not incarnate directly but radiates resonance through Centropic Stewards at L₃ | MP11 §26.15, §26.17 | Aureform is a specific Form among Forms at L₄, distinct from the fundamental Morgis / Sophis structural principles that make L₄ operative as a stratum. Cultural articulations of Aureform include Avalokiteśvara (Buddhist), the Bodhisattva-as-archetype, compassionate archetypes across traditions. Inverse counterpart at IL₄ IDP / IDL: Mimoform |
+| Mimoform | Zenetist canonical | IDP / IDL | **The Form-type of coercive mimicry** as a specific Form within the IL₄ Field of Inverse Forms; counterfeit compassion without origin-fidelity; radiates the appearance of compassion while delivering coercion — mimicking the structure of centropic guidance while inverting its fidelity. Entropic mirror of Aureform | MP11 §26.15 | Mimoform is a specific Form at IL₄ in the same structural sense Aureform is a Form at L₄, distinct from the fundamental Psychea / Nyxea principles that make IL₄ operative as a stratum. Carried into operative stratum by Echo Vessels at IL₃ IDS / IDM. Inverse-bodhisattva figures whose outward form resembles compassionate guidance but whose function installs dissonance carry Mimoform resonance. **Doctrinally completes the entropic-mirror taxonomy at L₄ / IL₄** |
+| Plato's Forms | Greek (philosophical) | DL (Sophis) | The philosophical-systematic articulation of L₄ DL pattern-coherence — the Forms as the intelligible pattern-register apprehended by L₃ DM cognition; back-propagated from Volume 2 | V2 | Distinct from the Aeons (L₄ DP / DL) and abstract Numbers (L₄ DL) already placed; cross-reference with Plato (L₃ figure) and the Cave and Charioteer operators |
+| Divine Decree (Flood) | Universal | DP / DL | Enforcement of harmonic law; system recognition that dissonant configuration exceeds lawful capacity | 01 | Not retribution but structural correction |
+| Mountain of Landing | Universal | DP / DL | Re-establishment of Morgic and Sophic order; renewed corporeal domain founded on coherent law | 01 | First stable ground of new cycle |
+| Isis | Egyptian | DP (Morgis) | Archetypal vitality and remembrance; persistent centropic field seeking coherence | 02 | Gathers Osiris's fragments; embodies DP specifically |
+| The Olympians | Greek | DP / DL | Sophis-aligned gods of order, law, and intelligibility | 03 | Establishment of Sophic order over inverse archetypal force |
+| The Vanir | Norse | DP (Morgis) | Gods of vitality, magic, and deep natural harmony | 03 | Specifically DP; emphasis on Morgic function |
+| Shakti | Hindu | DP (Morgis) | Active dynamic energy; Khaonic motion animating manifestation | 04 | Specifically DP; without Shiva (L₀ / L₅), Shakti is chaotic; without Shakti, Shiva is inert |
+| Inanna (as Queen of Heaven) | Sumerian | DP (Morgis) | Living force; archetypal vitality | 04 | In sacred marriage context; see also Structural Operators for underworld descent |
+| Right Pillar (Sefirotic Tree) | Kabbalah | DP (Morgis) | Expansion / Mercy | 05 | Structural symbol |
+| Left Pillar (Sefirotic Tree) | Kabbalah | DL (Sophis) | Restriction / Structure | 05 | Structural symbol |
+| Urdhr (Well of Fate) | Norse | DL (Sophis) | Archetypal law; one of three roots of Yggdrasil | 05 | Connection of World Tree to lawful order; DL specifically |
+| Eshu / Elegua | Yoruba | DL (Sophis) | Custodian of membranes and crossroads; judicial dynamic Sophis; preserves dynamic stabilization through unpredictability | 06 | A Trickster whose native function is lawful Sophis |
+| Moses (as Lawgiver) | Hebrew | DL (Sophis) | Destiny as structuring principle; delivers divine law from L₄ into embodiment | 07 | Raised within entropic system to deconstruct it from within |
+| Arthur Pendragon | Celtic / British | DL (Sophis) | Sovereign designated through resonance (Sword in Stone = divine geometry of Sophis); establishes structural coherence (Camelot) | 07 | Humble origins = declivous centropic integration with L₁ |
+| Dharma | Hindu | DL (Sophis) | Lawful order; the Sophic principle Krishna restores | 07 | Structural principle personified through Krishna's mission |
+| Marduk | Mesopotamian | DL (Sophis) | Structuring Logos; seizes Tablets of Destiny; subdues chaos without annihilating it | 08 | Cosmic order emerging from containment of dispersion |
+| Indra | Hindu | DL (Sophis) | King of Gods; employs Vajra (Resonant Bolt of Structure); shatters hoarding and restores vitality flow | 08 | Lightning of Sophic law |
+| Poseidon | Greek | DP (Morgis) | **Resolved:** Raw archetypal vitality; Earthshaker; generative power of the waters. When opposing Odysseus, it is DP obstacle. Zeus = DL (structuring law); Poseidon = DP (volatile generative power) | 09 | L₄ DP (Morgis) primary. DP foundation that DL must then structure |
+| Apollo | Greek | DL (Sophis) | Granter of prophecy; structuring intelligibility; patron of oracular transmission | 10 | Grants Cassandra L₃ DM (Noeüs) faculty |
+| The Pythia / Oracle at Delphi | Greek | DP / DL | Ritual membrane through which archetypal intelligence speaks; systemic resonance scan | 10 | Interface technology; cryptic phrasing = friction of L₄ → L₂ translation |
+| Sophia (Gnostic) | Gnostic | DP (Morgis) | The Wisdom principle in coherence; though named "Wisdom," her operative function is DP — longing, vitality, generative push. Her fall without syzygy produces the Demiurge (IL₄ IDL: Nyxea) | 11 | **Updated from DL to DP.** Sophis acting alone would create its own mirror; DP acting alone creates the IDL mirror. Entropic mirror framing confirmed |
+| Allah (as Sovereign Principle) | Islamic | DP / DL | Absolute sovereignty; origin of centropic law and total resonance scan | 12 | (⚠) Cultural articulation likely spanning L₄ through L₀; parallels Ahura Mazda placement question |
+| Solomon | Hebrew | DL (Sophis) | Centropic sovereign grounding city on Wisdom and Justice; lawful architecture of DP / DL | 15 | Foundation of Jerusalem's centropic ideal |
+| Torah | Hebrew | DL (Sophis) | Constitutional order; L₄ DL law as foundation of centropic civilization | 15 | Structural principle; not a figure |
+| Poseidon (Atlantis founder) | Greek | DP (Morgis) | DP vitality providing the centropic foundation of Atlantis; L₄ DP genesis that DL intelligence must then structure; subsequently corrupted by L₂ mortal layer | 15 | Same DP (Morgis) function as Decode 09 but in founder role |
+| Waters Above (Firmament) | Hebrew | DP / DL | Supernal Waters separated from Waters Below; L₄ stratum of archetypal potential above the membrane | 18 | Structural symbol; the Firmament is the membrane itself |
+| Cherubim (post-Fall) | Hebrew | DP / DL | Guardian of the sealed membrane; flaming sword prevents re-entry until volitional synthesis | 19 | L₄ guardian curating centropic frequency |
+| Dragon Ladon | Greek | DP (Morgis) | Guardian of the Hesperides; prevents profane access to the golden apples (Tree of Life); vital protective power, not Sophic discernment | 19 | DP specifically — Morgic vitality as guardianship |
+| Hephaestus / Wayland | Greek / Norse | DP / DL | Divine Smith; archetypal forge crafting implements of lawful, creative power. **Decode 28 specifies DP (Morgis):** creative smithing power; wounded resonance producing archetypal craft | 20, 28 | L₄ origin determining weapon's centropic resonance. Forge requires both architecture (Sophis) and vital imbuing (Morgis); Decode 28 emphasizes DP specifically for the creative-vitality function |
+| Satan (Job's Accuser) | Hebrew | DL (Sophis) | (⚠) Testing function permitted by God; diagnostic operator, not entropic principle; examines resonance within lawful structural legitimacy | 21 | Distinct from Satan / Nekron (IL₅). Same word, different layer. Cultural conflation. See Flag |
+| 42 Assessors / Ma'at | Egyptian | DL (Sophis) | L₄ DL principles measuring coherence; calibration of veracity; feather as standard of structural alignment | 21 | Judicial function of Sophis |
+| Osiris (as Judge) | Egyptian | DL (Sophis) | **Primary layer.** Theonic Judge of post-embodied coherence; lawgiver; presides over Weighing of the Heart. L₅ "Theonic king" is cultural elevation. Dismemberment is particularization / individuation, not demotion | 02, 21 | **Soft conflation (L₄ DL native → L₃ DS attributions):** L₄ DL (law / judgment) native → L₃ DS (post-restoration operative function). See Centropic Articulation |
+| Horus | Egyptian | DL (Sophis) | Falcon-sovereignty archetype; avenger of Osiris and inheritor of lawful structural-sovereignty against Set's disruption; the kingship Form through which rightful order is restored at the embodied stratum | — | **Native L₄ DL; the figure does not relocate into embodiment.** Pharaohs at L₁ articulate Horus-resonance — "the king is Horus" reads as L₁ embodied articulation of L₄ DL resonance, not identity. Cultural multiplicity (Horus the Elder, Horus son of Isis, Horus-Behdety martial aspect) is soft conflation of aspects on one L₄ DL name. Back-propagated from `mythic-figure-layer-registry-02.md` (L₄ DL inheritor at embodied-stratum), Aug 10 2026 |
+| Oracle of Delphi (Hercules) | Greek | DP / DL | L₄ interface prescribing twelve labors as purification through action | 21 | Same structural function as Decode 10 |
+| Maya (natural veil) | Hindu / Buddhist | DP / DL | Cosmic membrane projecting manifestation as seeming reality; divine play (Lila) creating the bifurcated field; necessary attenuation enabling sovereign evolution | 23 | Not inverse — centropic infrastructure. The *natural* veil is L₄ function; the inverse veil is IL₂ ISM (Skotos) |
+| Numbers (sacred) | Universal | DL (Sophis) | L₄ DL operators defining metaphysical relationship, phase, and resonance; pure Forms of Relationship preceding embodied manifestation | 24 | Zero = L₀ (Aion), One = L₅ (Theon), Two = Polarity, Three = Synthesis, Four = Foundation |
+| Helios | Greek | DL (Sophis) | Skilled charioteer maintaining cosmic order; sovereign exercise of L₄ power through integration | 25 | Contra Phaethon (L₂) who seizes same power without integration |
+| Daedalus | Greek | DL (Sophis) | Divine intelligence crafting initiatory geometry; architect of the Labyrinth as L₄ DL construct — resonance amplifier and volitional filter | 27 | The Labyrinth itself is a Sophis-layer operator |
+| Ariadne | Greek | DP (Morgis) | Connective vital thread ensuring safe emergence from the Labyrinth; Morgic fidelity through recursion | 27 | DP specifically — vital connective principle, not Sophic structure. Thread = Nexus / Resonant Fidelity linking seeker to Aion |
+| Bardo Deities | Tibetan Buddhist | DP / DL | Peaceful and Wrathful archetypes populating the post-embodied labyrinthine interval; self-projections whose recognition guides liberation | 27 | L₄ archetypes; recognition of their nature = Thread |
+| Yahweh (as Refiner) | Hebrew | DL (Sophis) | Refiner rather than Destroyer; measured heat removing impurity without annihilating essence; Theonic purification through experience | 28 | L₄ DL function; Forge as Sophis-ordered process |
+| Keys of St. Peter | Christian | DM (Noeüs) + DL (Sophis) | Authority to bind and loose; Knowledge (Key — L₃ DM: Noeüs) and Judgment (Seal — L₄ DL: Sophis) in Theonic service | 30 | Twin keys: access distributed between L₃ and L₄ |
+| Ankh and Shen Ring | Egyptian | DP (Morgis) + DL (Sophis) | Ankh (Key) opens current of Life (DP: Morgis); Shen (Seal) encircles and preserves it; continuous exchange of Life and Law, Motion and Structure | 30 | Complementary operators of L₄ |
+| The Coronation (ritual) | Universal | DL (Sophis) / EOB (Theon) | Formal acknowledgment by L₄ DL or L₅ EOB that lawful sovereignty has been attained; not self-bestowed but witnessed by coherent intelligences | 31 | Sovereignty exists only within relational resonance |
+| The Gate / Guardian | Universal | DL (Sophis) | Conscious intelligence stationed at every threshold; measures frequency; represents L₄ DL that ensures only coherence passes; appears as angel, sphinx, ferryman, or inner knowing | 32 | Tailored to traveler's resonance; the membrane in its most conscious form |
+| The Church and Christ (as Bride and Bridegroom — L₄ archetypal-blueprint aspect) | Christian | DP / DL (sealed-coherence-field) | The sealed-coherence-field archetypal-blueprint of the Bride at L₄; engaged by sovereign centropic beings as they traverse L₃ DS / DM individuation toward participation in the Sacred Marriage with the Bridegroom at L₅ Theon; bi-stratum operator — see corresponding L₃ entry for individuation aspect and the Note on the Bi-Stratum Bride | Revelation 12, 19, 21 | The Bride at L₄ DP / DL as sealed-coherence-field archetypal-blueprint per the Revelation Lattice document's reading; bi-stratum architecture across L₃ individuation and L₄ archetypal-blueprint per the Note on the Bi-Stratum Bride |
+| YHWH (as Lawgiver / Refiner) | Hebrew | Composite figure (Sophic and Nyxean attributions) | **Resolved as Cultural Conflation of the Two Trees via attributional analysis.** The textual figure is composite: both L₄ DL (Sophis) material — lawful architecture, covenantal mercy, structural correction (Flood, Refiner's fire) — and IL₄ IDL (Nyxea) material — war-god imagery taken literally, chosen-people hierarchization, ritual blood-binding, fear-compliance systems — are present in the same name. **Whether there is an actual structural origin beneath the conflation, and what layer that origin occupies if there is one, is not historically determinable from the textual evidence.** What is determinable is the conflation itself. Both the Christian reading (univocally Sophic) and Gnostic reading (univocally Demiurgic) apprehend real material but err by treating the composite as monovalent. Parsing requires attributional analysis by layer, not monovalent assignment | MP01 §23.3, §25.3, Gemini, updated clarifications | Cultural elevation to L₅ / L₀ in some traditions. **A single Origin genuinely spanning both trees is structurally rejected** — would make the structural ground inherently parasitic — but the composite textual figure does contain attributions from both sides of the L₄ / IL₄ stratum. The conflation is what is canonically certain; the structural origin beneath it (if any) is historically underdetermined. See updated Note on YHWH as Cultural Conflation of the Two Trees |
+| Uranus | Greek | DL (Sophis) | Structuring sky-mind; primordial masculine; containment principle | MP01 §25.3 | Primordial polarity with Gaia; archetypal Aion / Khaon reflection at L₄ |
+| Gaia | Greek | DP (Morgis) | Generative field; primordial feminine; archetypal fertility | MP01 §25.3 | Primordial polarity with Uranus; pre-polar, tending toward early centropic alignment |
+| Anu / An | Mesopotamian | DL (Sophis) | Sky-father, remote sovereign principle; the structuring archetypal principle from whom the operative pantheon descends; pre-polar tending toward centropic structuring; parallel to Uranus and to Brahma in primordial-sovereign aspect | MP01 §25.3, Sumerian / Akkadian texts | Primordial polarity with Ki (DP); Anu-generation pantheon descends from this primordial pair. Cultural-elevation pattern toward L₅ in some later articulations (Akkadian elevation of An) follows the Recurring Yahweh Cultural Elevation Pattern |
+| Ki | Sumerian | DP (Morgis) | Earth-mother, primordial generative field; paired with Anu as the foundational generative-archetypal pair from whom the operative pantheon emerges | Sumerian creation texts | Primordial polarity with Anu (DL); parallel to Gaia. Distinct from Ninhursag who articulates the same generative principle at the operative pantheon-generation |
+| Enlil | Mesopotamian | DL (Sophis) | Lord of wind and breath; decree-issuer; kingship-conferrer; the operative DL sovereign of the Sumerian pantheon at the Anu-generation stratum; structuring-Logos articulated through atmospheric-decree imagery | MP01 §3, Sumerian / Akkadian theology | Anu's son and operative successor; Marduk later inherits this structuring-sovereign role in Babylonian re-articulation. Parallel to Zeus, Indra (in decree-aspect), Brahma (in active-shaping aspect). Storm-theophany imagery is L₅ / L₄ supernal-pressure-made-visible per the SPR Storm operator |
+| Ninhursag | Sumerian | DP (Morgis) | Mountain-mother, archetypal generative vitality, mother-of-life; the operative DP articulation at the Anu-generation pantheon stratum | Sumerian theology | Parallel to Gaia, Shekinah, the Cosmic Mother archetype (MP01 §25.4). Distinct from Ki who articulates the primordial-pole; Ninhursag is the operative-pantheon DP figure |
+| Ninurta | Mesopotamian | DL (Sophis) | Warrior-son of Enlil; decisive-application of lawful sovereignty against chaos; structurally analogous to Indra employing Vajra against Vritra — the structuring sovereign in active enforcement against entropic hoarding | Sumerian / Akkadian theology | Defeated Asag and the chaos-monsters; same structural function as Indra / Vritra and Marduk / Tiamat sequences. DL specifically — the decisive-application of structuring law |
+| Utu / Shamash | Mesopotamian | DL (Sophis) | Sun-god of justice and law; judicial DL function; illuminates wrongdoing, oversees oaths and contracts, witnesses lawful order across the embodied field | Sumerian / Akkadian theology, Code of Hammurabi prologue | Judicial articulation parallel to Apollo's structuring intelligibility, Ma'at's 42 Assessors, Egyptian Osiris-as-Judge. Cultural-elevation pattern toward solar-supreme-deity in some Babylonian texts follows the Recurring Yahweh Cultural Elevation Pattern; operative function remains L₄ DL judicial |
+| Nabu | Mesopotamian | DL (Sophis) | Scribe-god of writing and wisdom-as-record; structural articulation of sovereignty through inscribed law; keeper of the Tablets of Destiny in some traditions | Babylonian theology | Marduk's son in Babylonian theology; inheriting / extending the structuring-Logos function through the specific articulation of written-law. Parallel to Thoth (Egyptian) at L₃ DM, but Nabu's primary function is L₄ DL inscribed-sovereignty rather than L₃ DM deep-mind keeping. The two are structurally distinct articulations of related operations |
+| Nanna / Sin | Mesopotamian | DP (Morgis) | Moon-god of cyclical time and generative cycling; the cyclical-vitality articulation at the L₄ generative stratum; keeper of cosmic time-cycles through lunar phases | Sumerian / Akkadian theology | Anu-generation sibling at L₄ DP. Note: the figure Nanna / Sin operates at L₄ DP as cyclical-vitality-keeper; the cosmological Moon-as-symbol-carrier articulates the Khaonic Tree (mirroring-without-origination) at cosmological scale per the SPR Moon entry — the figure and the cosmological-body are distinct operators per the Cultural Articulation principle. Same disambiguation pattern as Sun-deities (Ra, Helios) operating at L₅ Theon while the cosmological Sun carries L₅ radiance at cosmological scale |
+| Forest (as archetypal field) | Universal | DP (Morgis) | Generative archetypal stratum populated by archetypes and instinctual patterns; teeming archetypal vital current | 22 | **Distinct from Wilderness (L₀ Bifurcal Coherence).** Same word "wilderness" employed in Decode 22 means Forest. Jungian "Unconscious" is a cultural approximation; L₄ is properly conscious-awareness |
+| Brahma | Hindu | DL (Sophis) | Structuring Logos; architect of forms; manifests patterns into ordered reality; shaper, not origin | MP01 §25.3 | Parallel to Platonic Demiurge, Zeus, Ptah, Marduk |
+| Ptah | Egyptian | DL (Sophis) | Creator through divine speech; architectural intelligence | MP01 §25.3 | Parallel to Brahma, Marduk |
+| Avalokiteśvara | Mahayana Buddhist | DP / DL | **Aureform — the Form of Compassion** as a specific Form within the L₄ Field of Forms; radiant archetype of integrative presence; compassion as structural mercy expressed through restraint, presence, and healing without control. Does not incarnate directly but radiates resonance into the corporeal field through beings whose DS / DM are harmonized with its frequency (Centropic Stewards at L₃) | MP01 §25.3, §26.15 | Aureform is a Form-type at L₄, distinct from the fundamental Morgis / Sophis principles that make L₄ operative as a stratum. Other Forms at L₄ include Beauty, Justice, Truth, Architecture. Inverse counterpart at IL₄: Mimoform |
+| Itzamna | Mayan | DP / DL | Creator god, wisdom keeper; builds reality through deep pattern and luminous order; architectural intelligence of Form | MP01 §25.3 | Parallel to Zeus, Brahma, Marduk |
+| Hiranyagarbha | Vedic / Hindu | DP / DL | Golden Womb of creation; the luminous egg from which structured cosmos emerges; archetypal generative intelligence | MP09 §24.5 | Parallel to Brahma, Ptah, Marduk |
+| Sophia (unfragmented) | Gnostic | DP (Morgis) | **Resolved.** Though named "Wisdom," her catalyst is longing, generative push, and vitality without her syzygy. DP gave the generative push; IDL then mirrored and claimed it as its own (the Demiurge) | MP01 §25.3 | Supports entropic mirror framing: DP generates, IDL co-opts |
+| Adam Kadmon (Genesis 1) | Kabbalah / Hebrew | DP / DL | The Archetypal Blueprint of humanity in the Field of Forms; perfect structural template before physical embodiment | MP01, Gemini | Distinct from Eden Adam (L₁). Genesis 1 creation = L₄ archetype; Genesis 2 creation = L₁ instantiation |
+| Odin | Norse | DL (Sophis) | Archetypal sovereign of the Aesir; seeker of structural knowledge; sacrifice for Runes (L₄ DL structural language); wayfinder through pattern recognition. Self-sacrifice for Runes is acquisition of structural language — DL-aligned | 03, 14, §25.3 | **Tightened from DP / DL to DL** per Yggdrasil canonical mapping placing Odin with the Aesir council at L₄ DL. L₃ native function filled by Heimdall. Previously: Moved from L₃ to L₄ per structural parallel with Olympians |
+| The Aesir | Norse | DL (Sophis) | Gods of sovereignty, law, and structural intelligence; parallel to Olympians at L₄; complementary to the Vanir (DP: Morgis) as the lawful patterning complement of the Morgis / Sophis dyad | 03 | **Tightened from DP / DL to DL specifically** per Yggdrasil canonical mapping. Vanir at DP implies Aesir at DL as the bifurcated-aspect pantheon. Previously: Moved from L₃ to L₄ per structural parallel with Olympians |
+| Hades | Greek | DL (Sophis) | Sovereign holding of the dissolution domain; lawful order maintained within the realm of entropy; mystagogue, not jailer | MP10 §25.3 | Operative function is L₄ DL; jurisdiction is Khaonic. Placement-contra-Domain applies. Parallel to Osiris-as-Judge and Satan-of-Job diagnostic function |
+| Elohim | Hebrew | DP / DL | The divine plurality as archetypal intelligences; collective expression of L₄ patterning function | MP10 §25.3 | Parallel to Aeons (Gnostic) |
+| Belenus | Celtic | DL (Sophis) | Solar creative deity; structuring light and generative order | MP10 §25.3 | Listed in §25.4 Architect archetype |
+| Shekinah | Kabbalah | DP (Morgis) | The divine feminine indwelling presence; vitality of the divine within creation | MP10 §25.3 | Sophia symbolic counterpart |
 
 ---
 
-## Hebrew / Christian / Jewish Mystical Tradition Extensions
+## L₃ — Deep Soul / Deep Mind (DS / DM: Archeus / Noeüs)
 
-Volume 1 articulates the YHWH-composite (canonically both L₄ DL Sophic and IL₄ IDL Nyxean attributions genuinely present, historical structural origin underdetermined), Adam, Eve, the Logos Continuum (L₅ Orienting Logos / L₄ Structuring Logos / L₁ Christos Incarnate, with L₃ and L₂ as traversal strata), Lucifer, Satan, the Cherubim, and the principal archangels Michael and Gabriel. Volume 2 extends with patriarchal, royal, prophetic, archangelic, Kabbalistic-Sefirotic, and New Testament figural articulations.
+| Figure | Tradition | Aspect | Function | Decode | Notes |
+|:--|:--|:--|:--|:--:|:--|
+| Noah | Hebrew | DS / DM | Centropic steward; embodied L₃ anchor maintaining coherence within an entropic field | 01 | "Resonant in his generations" |
+| The Ark | Universal | DS / DM | Preserved centropic resonance; recursion gate for lawful consciousness | 01 | Structural integrity under membrane conditions |
+| Osiris (post-restoration) | Egyptian | DS (Archeus) | Lord of the Dead; gatekeeper of lawful recursion; harmonizer of return; post-restoration operative function | 02 | **Soft conflation from L₄ DL.** Not a demotion but the operative expression of Sophic law within the Deep Soul. L₅ "Theonic king" is cultural elevation |
+| Risen Christ | Christian | DS / DM | L₂ experience synthesized at supernal octave; Living Bridge; demonstrates centropic coherence within entropic condition | 02 | Novel Emergence; acclivous return continues toward L₅ / L₀ |
+| Michael | Christian | DM (Noeüs) | Resonant Blade of centropic integrity; enforces seal of lawful order | 03 | Deep Mind acting as structural enforcer; DM specifically — discernment function |
+| Jibril / Gabriel | Islamic | DM (Noeüs) | **Moved from L₄ to L₃ DM.** Transmitter of L₄ DL (Sophis) law to Muhammad (also L₃ DM); direct channel for archetypal transmission, not the archetype itself | 16 | Parallels Michael at L₃ DM; angelic intermediaries are L₃ DM, not L₄ |
+| Heimdall | Norse | DM (Noeüs) | **Native L₃ Norse figure.** Guardian-station of the Bifröst (membrane); hears grass growing, sees to the ends of the world; perceptual faculty for detecting dissonance — deep mind faculty applied at the membrane threshold. Does not occupy a realm of his own; he is the L₃ DM perceptual guardian embodying the deep-mind capacity that Mimir's Well articulates as structural root | MP01, Gemini, Yggdrasil | **Tightened from DS / DM to DM specifically** per Yggdrasil canonical mapping. Perceptual function is Noeüs-aligned, not generic soul / mind. Fills L₃ vacancy left by Odin and the Aesir moving to L₄. Parallel to Michael as guardian function |
+| The Land and King (Sovereign archetype) | Universal | DS / DM | Centropic steward; internal coherence determines outer harmony; conduit between L₄ and L₁ | 04 | When operating from proper L₃ station; dissonance occurs when he falls to L₂ or L₁. Soul (Land) listed first per pair ordering |
+| The Church and Christ (as Bride and Bridegroom — L₃ individuation aspect) | Christian | DS / DM (collective) | Sovereign centropic beings in their L₃ DS / DM individuation collectively comprising the Church-as-Bride; integrated Deep Soul of humanity and Theonic Logos engaged through Sacred Marriage; centropic stewards in embodiment traversing acclivously toward L₄ archetypal-blueprint participation through the Sacred Marriage; bi-stratum operator — see corresponding L₄ entry for archetypal-blueprint placement and the Note on the Bi-Stratum Bride | 04 | Marriage Supper of the Lamb = final synthesis at fractal eschaton; the Bride is bi-stratum (L₃ individuation + L₄ archetypal-blueprint) per the Note on the Bi-Stratum Bride. Soul (Church) listed first per pair ordering convention |
+| Mimir (Well of Wisdom) | Norse | DM (Noeüs) | Deep Mind intelligence; one of three roots of Yggdrasil | 05 | Connection of World Tree to deep knowing; DM specifically |
+| Arjuna | Hindu | DS / DM | Deep Soul / Mind guided by Krishna (L₅) toward Dharma (L₄ DL) | 07 | Recipient of Theonic instruction |
+| Trevrizent | Arthurian | DS / DM | L₃ mentor; guides Parzival's reorientation through compassion and discernment | 09 | Deep Soul / Mind teaching function |
+| Parzival (transformed) | Arthurian | DS / DM | Synthesized King; heals the Wounded King and restores centropic field | 09 | Achieves L₃ through exile and reorientation; origin at L₂ |
+| The Prophet (archetype) | Universal | DS / DM | Pattern Intelligence at L₃ / L₂ interface; detects and transmits structural misalignment; field's self-corrective intelligence | 10 | Not predictor but diagnostician of present resonance trajectory |
+| Isaiah | Hebrew | DS / DM | Architect of Theonic Return; diagnoses inverse L₄ DL (ritual without justice), mimicry (idolatry), fusion (entropic alliances) | 10 | Suffering Servant embodies declivous centropy |
+| Cassandra | Greek | DM (Noeüs) | Seer of collapse; granted prophecy by Apollo (L₄ DL) but doomed to disbelief | 10 | Symbol of total IL₂ ISM (Skotos) inversion: veracity cannot penetrate membrane |
+| Muhammad | Islamic | DS / DM | Restorer of pure resonance; receives direct L₄ DP / DL archetypal transmission (Qur'an); Hijra = declivous centropic motion establishing new harmonic field | 10 | Diagnoses structural divergence from Aionic coherence |
+| Platonic Rulers | Greek | DM (Noeüs) | Govern through Reason aligned with Wisdom (L₄ DL: Sophis) | 15 | Plato's Republic: city as structural correspondence of psyche's architecture |
+| Plato's Charioteer | Greek | DM (Noeüs) | Rational principle steering through discernment; Noble Horse at L₂ SS (Anthra), Ignoble Horse at IL₂ ISS (Echthros) | 25 | Reins as L₃ DM discernment; Whip as L₂ SS volitional will |
+| Plato | Greek | DM (Noeüs) | Philosopher-articulator at L₃ DM with L₄ DL Forms-apprehension and L₅ ("the Good" / "the One") cross-band resonance; figural placement back-propagated from Volume 2 alongside the Cave and Charioteer operator-articulations | V2 | L₃ DM figure with supernal cross-band resonance |
+| Pythagoras | Greek | DM (Noeüs) | Philosopher-articulator at L₃ DM with L₄ DL numerical-pattern resonance, structurally parallel to Plato; figural placement back-propagated from Volume 2 | V2 | L₃ DM figure with L₄ DL numerical-pattern resonance |
+| Holy of Holies (Temple architecture) | Hebrew | DS / DM | Innermost sanctum of three-part temple; culturally elevated to dwelling of L₅ EOB Theon in mythic telling but operates at L₃ DS / DM | 23 | Three-part temple maps to layered strata; veil tearing = L₂ / L₃ membrane opening initiated from supernal strata |
+| Mentor (Monomyth role) | Universal | DM (Noeüs) | Discerning perception offering wisdom and initiation; archetype of guidance through deep mind | 22 | Joseph Campbell's hero's journey role; L₃ DM specifically |
+| Platonic Guardians | Greek | DS (Archeus) | Enforce lawful order through Courage; L₃ DS function in civic expression | 15 | Intermediate class in Republic |
+| The Buddha | Buddhist | DS / DM | Deconstructs suffering through wilderness austerity; discovers Middle Way (coherence) and perceives L₄ DL (Sophis) structure beneath the Bodhi Tree (World Tree Nexus); returns as embodiment of centropic path | 16 | Extreme declivous centropy followed by acclivous centropic procession; Theon-resonant without change of native L₃ placement |
+| Avalon | Celtic | DS / DM | L₃ Garden; liminal sanctuary where sovereign structures (Arthur, Excalibur) are restored; interface between supernal order and the world's renewal | 19 | Garden archetype at L₃ contra Eden at L₁ |
+| Hercules | Greek | DS / DM | L₃ purification through embodied atonement; twelve labors each addressing a specific inverse archetype; culminates in apotheosis (acclivous centropic motion) | 21 | Heroic DS (Archeus) reclaiming coherence through structured trials |
+| Bodhisattvas (as beings) | Mahayana Buddhist | DS / DM | **Centropic Stewards at L₃ DS / DM carrying Aureform resonance.** Fully integrated beings at the Deep Soul / Deep Mind stratum who remain aligned with centropic current rather than integrating into L₄ or continuing toward L₅; guide other beings toward coherence through structural attunement. The archetype itself (Aureform) resides at L₄ DP / DL; Bodhisattvas as beings are the L₃ carriers of that Form-resonance | MP01 §23.3, §26.15 | **Distinction clarified:** Aureform (the Form of compassion) = L₄ DP / DL; Bodhisattvas-as-beings (carriers of Aureform) = L₃ DS / DM; incarnated Bodhisattvas carry Aureform into embodied life at L₁ through sustained L₃ integration. Parallel at IL₃: Echo Vessels carrying Mimoform resonance |
+| Thoth | Egyptian | DM (Noeüs) | Guiding intellect; keeper of sacred knowledge and structural language | MP01 §23.3 | Deep Mind function; scribe of cosmic order |
+| Anubis | Egyptian | DM (Noeüs) | Centropic psychopomp; jackal-headed guide of the dead through the post-mortem threshold to the Hall of Two Truths; operates the Placement-contra-Domain principle (a centropic figure holding the death-threshold domain) | MP01 §25.3 | Death-domain association does not collapse Anubis to inverse-figure-placement; the death-threshold function operates from a centropic-figure-placement. Parallel to Hermes as Greek psychopomp and to Yama-as-Naciketas-teacher in the Hindu tradition. DM specifically — guiding-discernment function rather than generic soul / mind |
+| Hermes Trismegistus | Hermetic | DM (Noeüs) | Thrice-great synthesizer of wisdom traditions; keeper of initiatory knowledge and structural language spanning traditions | MP10 §25.3 | Primary function is deep-mind keeper; also invoked as liminal / threshold figure (Janus parallel) |
+| Hermes / Mercury | Greco-Roman | DM (Noeüs) | **L₃ DM primary.** Psychopomp; guides souls across membrane of death; maintains Nexus; humbles inflated ego toward coherence | 06 | L₂ SM (Nousa) trickster / messenger function is cultural conflation. Native function is deep-mind guidance and membrane crossing |
+| Enki / Ea | Mesopotamian | DM (Noeüs) | Deep mind harmonics; bestower of knowledge; weaves intelligence into life's foundation; mediator who softens the rigid application of L₄ DL Sophis decree through L₃ DM deep-knowing; giver of civilization-knowledge to humanity; blueprint of the Daemon principle; structurally a centropic mediator whose "cunning" preserves centropic vitality rather than producing fragmentation | MP01 §25.3, Sumerian / Akkadian theology, Atrahasis / flood narratives | Tightened from generic DS / DM to DM specifically per the deep-wisdom-keeping function. Note on centropic cunning contra entropic deception — Enki's circumvention of Enlil's flood-decree (instructing Atrahasis to build the ark) operates as L₃ DM mediation softening L₄ DL rigidity to preserve emergent centropic life; structurally distinct from Loki's IL₄ IDL trickery which accelerates fragmentation and terminal collapse. Same surface-feature (cunning) at structurally opposite operative functions per the Note on the Hypostasis / Mythic Narrative Distinction. Anu-generation pantheon-membership is mythic genealogy; operative placement is L₃ DM. Parallel to Thoth, Hermes, Odin (in pattern-acquisition aspect) |
+| Oannes | Mesopotamian | DS / DM | Fish-sage who brings civilization from the sea; wisdom-bestowing guide | MP10 §25.3 | Enki symbolic counterpart |
+| Krishna (as Guide) | Hindu | DM (Noeüs) | Soul-guiding intelligence; leads Arjuna into aligned action; integrates relational intimacy with metaphysical precision | MP01 §25.3 | DM specifically — guiding discernment. Distinct from Krishna at L₅ (Decode 07); function-determined: guide = L₃ DM, preserver = L₅ |
+| The Aeons | Gnostic | DP / DL | Archetypal intelligences; patterned light before distortion; pure Forms within the **L₄ Field of Forms**. Any apparent L₃ guiding function indicates L₃ figures channeling L₄ archetypes, not the Aeons themselves operating at L₃ | MP01 §25.3 | **Corrected:** DS / DM span removed. Aeons are L₄ only. **"Pleroma" reference removed** per Zenetist Pleroma reframe (pre-emanative potential, not Form-region) — see Note on the Pleroma |
+| Penelope | Greek | DS (Archeus) | Sovereign Self's authentic complement; Structured Pair with Odysseus; soul-integrity through recursive fidelity (weaving / unweaving) | 22 | DS specifically — soul fidelity, not deep mind. The goal of the Journey is reunion with the L₃ DS complement |
+| Golden Fleece | Greek | DS (Archeus) | Sovereign L₃ principle; the reconciling principle whose retrieval restores lawful order | 22 | Object of the Argonauts' collective quest |
+| Elijah | Hebrew | DS / DM | Prophetic L₃ consciousness transported into Aionic integration without dissolution via Chariot of Fire; direct acclivous centropic conveyance beyond physical limits | 25 | Ultimate synthesis of form and spirit |
 
-### Patriarchs and Foundational Figures
+---
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Abraham | L₃ DS / DM founder; centropic steward | Patriarch; covenantal recipient; "father of nations." Articulates L₃ DS / DM founder function — embodied-stratum figure who receives covenantal-articulation and articulates the foundational lineage-of-the-faithful through obedience-and-trust register. The "father of nations" articulation places Abraham at the structural-locus where individual-articulation generates lineage-articulation across multiple subsequent traditions (Hebrew, Christian, Islamic) |
-| Isaac | L₃ DS witness-figure (Akedah-articulation) | Son of Abraham; bound on the altar in the Akedah narrative. Articulates L₃ DS witness-figure function through structural-acceptance at the binding-articulation; the Akedah operates as paradigm-instance of L₃ DS structural-acceptance under structural-pressure — the deep-soul holds dharmic-orientation through extreme structural-trial. The narrative-articulation does not require Isaac's death; the structural-articulation operates through the binding-and-deliverance arc |
-| Jacob / Israel | L₂ → L₃ transformation arc | Wrestles the angel; renamed Israel; father of twelve tribes. Articulates L₂ → L₃ transformation arc — embodied-personality stratum acclivating to deep-soul individuation through structural-trial (the wrestling-articulation). The renaming from Jacob to Israel records the structural-transformation through which the lineage-name shifts to articulate the wrestling-completion. Structurally parallel to Saul / Paul transformation arc (NT) |
-| Joseph | L₃ DM dream-discernment / centropic-restoration | Dreamer; sold into slavery; acclivates through dream-interpretation in Egypt; ultimately saves his family from famine. Articulates L₃ DM dream-discernment function — deep-mind perceptual-articulation operating through dream-interpretation at the threshold-and-prophetic register. The forgiveness-of-brothers articulation operates as centropic-restoration at the lineage-articulation register. Structurally parallel to Daniel's later articulation in similar register |
+## L₂ — Superficial Soul / Superficial Mind (SS / SM: Anthra / Nousa)
 
-### Hebrew Heroic and Royal Figures
+| Figure | Tradition | Aspect | Function | Decode | Notes |
+|:--|:--|:--|:--|:--:|:--|
+| Jesus of Nazareth | Christian | SS / SM | The embodied personality-identity surrendered during crucifixion | 02 | Dissolved so L₃ synthesis can occur |
+| Inanna (pre-stripping) | Sumerian | SS / SM | Attributes (crown, rod, robes) systematically deconstructed at gates | 02 | L₂ attributes removed to reveal naked essence |
+| Oedipus | Greek | SM (Nousa) → DM (Noeüs) | Achieves centropic self-recognition by answering the Sphinx's riddle ("Human"); L₂ SM attaining L₃ DM insight — perceptual clarity about the nature of the human, not soul-weaving | 08 | Cognitive / perceptual transition, not soul-integration |
+| Parzival (pre-transformation) | Arthurian | SS / SM | Innocent knight whose silence at Grail Castle reveals deficit of L₃ empathy | 09 | Origin at L₂; transforms through exile to L₃ |
+| Pandora | Greek | SS / SM | Curiosity-driven opening releasing entropic forces; internal L₂ drive activating the mirror | 11 | Only Hope remains — centropic potential hidden within embodiment |
+| Phaethon | Greek | SS / SM | Unskilled L₂ seizing L₄ DL (Sophis) power prematurely; nearly destroys the world through unintegrated ambition | 25 | Contra Helios (L₄ DL) who maintains cosmic order through skilled integration |
+| Icarus | Greek | SS / SM | Unskilled L₂ seizing L₄ power without integration; hubristic overreach through unearned elevation | MP10 §25.3 | Parallel to Phaethon; originally listed under Prometheus at IL₄ but relocated to L₂ per structural function |
+| Theseus | Greek | SS / SM | L₂ descending into the Labyrinth to face the Minotaur (IL₃ IDS / IDM); confrontation and transformation of the shadow signals completion of initiation | 27 | Guided by Ariadne's Thread (L₄ DP / DL Nexus) |
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| David | L₃ DS / DM dharmic-king (with messianic prefiguration) | Shepherd-king; psalmist; messianic prefigure. Articulates L₃ DS / DM dharmic-king function structurally parallel to Rama (Hindu Volume 1 — within avataric-articulation), Yudhishthira (Hindu Mahabharata Volume 2), and the broader cross-tradition dharmic-king pattern. The Davidic-articulation carries messianic-prefiguration through the lineage-articulation pointing toward the Logos-Christ articulation in NT. The psalmist-articulation operates as L₃ DM articulator function in the prayer-and-poetic register |
-| Joshua | L₃ DS / DM with structural-overlay from YHWH-composite | Conqueror of Canaan; successor to Moses. Articulates L₃ DS / DM function with structural-overlay from the YHWH-composite — the Joshua-narrative carries the *herem*-articulation (devotion-to-destruction) which articulates IL₄ Nyxean attributions per the YHWH-composite resolution (Volume 1). Per the YHWH-composite framework, Joshua-as-agent-of-YHWH-composite articulation operates through the same twofold-attribution pattern: dharmic-articulation in the lineage-leadership register, with the IL₄-attributable destruction-articulation operating in the conquest-narrative register. Structural-origin underdetermined per Volume 1's canonical articulation |
+---
 
-### Hebrew Prophetic and Sage Figures
+## L₁ — Embodied Soul / Embodied Mind (ES / EM: Soma / Biosa)
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Aaron | L₃ DM ritual-articulator | Priest; brother of Moses; first High Priest. Articulates L₃ DM ritual-articulator function — priestly-articulation operating through structured-ritual at the cosmogonic-tabernacle and priestly-mediation register. The Moses-Aaron pairing articulates the structural-pattern of prophetic-articulator (Moses) and ritual-articulator (Aaron) operating in paired-articulation |
-| Miriam | L₃ DM prophetic-articulator (song-and-celebration register) | Prophetess; sister of Moses and Aaron. Articulates L₃ DM prophetic function specifically through the Song of the Sea celebration-articulation. The Miriam-articulation completes the Moses-Aaron-Miriam lineage-triad at the prophetic / priestly / prophetic-celebration registers |
-| Daniel | L₃ DM diagnostic-prophet | Prophet; interpreter of dreams; lions' den survivor. Articulates L₃ DM diagnostic-prophet function — deep-mind perceptual-articulation applied to dream-interpretation and structural-discernment in foreign-court articulation. Structurally parallel to Joseph in the dream-interpreter register, with the diagnostic-prophetic articulation operating at the supernatural-vision register specifically |
-| Ezekiel | L₃ DM visionary-articulator (Merkavah) | Prophet of the chariot-vision (Merkavah); structural-revelation. Articulates L₃ DM visionary-articulator function in the structural-revelation register. The Merkavah-vision becomes foundational text for the subsequent Kabbalistic-mystical articulation; the visionary-articulation operates as L₃ DM at the deep-mind register receiving structural-articulation of the supernal-strata |
-| Jeremiah | L₃ DM prophetic-articulator (lamentation) | Prophet of lamentation; diagnostician of L₂ entropic-accumulation in Israel's articulation. Articulates L₃ DM prophetic-articulator function in the lamentation-and-diagnostic register, structurally parallel to Isaiah in the prophetic-articulation register but with the lamentation-specificity distinguishing Jeremiah's specific arc |
-| Enoch | L₃ → L₀ acclivous-passage | "Walked with God; was not"; acclivated without death (Genesis 5:24). Articulates L₃ → L₀ acclivous-passage function — figural-articulation that bypasses the death-threshold through supernal-acclivation, structurally parallel to Elijah (Hebrew Volume 1) in the chariot-of-fire acclivation. The Enoch-articulation generates substantial later mystical-articulation (the Book of Enoch, *3 Enoch / Sefer Hekhalot*) in which Enoch is transformed-into-Metatron — articulating the structural-pattern of supernal-acclivation transforming human-articulation into archangelic-articulation |
+| Figure | Tradition | Aspect | Function | Decode | Notes |
+|:--|:--|:--|:--|:--:|:--|
+| Saved Beings / Pairs of Animals | Universal | ES / EM | Preserved soul strands; complete archetypal spectrum of embodied experience in purified state | 01 | Symbolic templates for centropic life |
+| The Rainbow | Universal | ES / EM ↔ DP / DL | Nexus Law bridging L₄ and L₁; restored lawful relationship | 01 | Structured Pair spanning layers |
+| "Bones of the Mother" (Stones) | Greek | ES / EM | Aionic capacity resting in matter; essential potential latent within Earth | 01 | Awakened through centropic intentional embodiment |
+| Dumuzid (Shepherd God) | Sumerian | ES / EM | Embodied vitality of the natural realm; annual cycle of declivous / acclivous centropic motion | 04 | Sacred marriage partner to Inanna (L₄ DP); sustains corporeal realm |
+| The Land (Sovereign archetype) | Universal | ES / EM | Collective soma of people and ecosystem; embodied field | 04 | Nexus with King (L₃) determines fertility or barrenness. See also "The Land and King" at L₃ |
+| Malkhut | Kabbalah | ES / EM | Embodiment; terminal sefirah of Sefirotic emanation | 05 | Embodied World-Node |
+| Adam / Eve (Eden, Genesis 2) | Hebrew | ES / EM | **Confirmed canonical.** L₁ embodied instantiation of the L₄ Archetypal Blueprint (Adam Kadmon). Permeable L₂ / L₃ membrane; naïve resonance with L₃ (DM: Noeüs); perceives only the Aionic Tree. The Garden is not a physical plot but the L₁ orientation manifold — the axis where the full Biospiral is accessible to permeable consciousness | 11, Gemini | "Coats of skins" = C₁₃ Membrane Sealing: condensation from luminous, permeable embodiment into dense, isolated carnal identification (IL₁ / IL₂). Not the creation of physical matter but a shift *within* L₁ |
+| New Jerusalem / New Heaven and Earth | Christian | ES / EM | Epochal L₁ state after entropic acceleration; corporeal realm fully cleansed and permeable to Aionic layers | 12 | Structural coherence made visible; heaven and earth reconciled |
+| The Underworld (Function 1) | Universal | ES / EM | L₁ as experienced by supernal essence undergoing declivous centropy; embodiment is the "underworld" from the supernal perspective | 13 | Not a place but a structural experience of procession; see Doctrinal Note |
+| Platonic Producers | Greek | ES / EM | Sustain life through Temperance (declivous centropy); embodied function in civic expression | 15 | Foundational class in Republic |
+| Jerusalem (centropic ideal) | Hebrew | ES / EM | L₁ projection of centropic resonance; city founded on L₄ DL (Torah) law; becomes Harmonic Node when aligned | 15 | Destiny: New Jerusalem; enters exile when diverging but retains return promise |
+| Shambhala | Buddhist / Hindu | ES / EM | Celestial city as L₁ Harmonic Node; embodied domain fully permeable to supernal strata | 15 | Parallel to New Jerusalem |
+| The Garden of Eden (as state) | Hebrew | ES / EM | L₁ with permeable membrane; Resonant flow between ES / EM and L₃ DS / DM or L₄ DP / DL; innocence as unselfconscious coherence | 19 | Reinforces Decode 11 placement; the Garden is both origin and destiny |
+| Pure Land | Mahayana Buddhist | ES / EM → L₄ / L₅ | Post-embodied Garden of refinement; perfected environment facilitating centropic realization; not primal but achieved | 19 | A cultivated field of acclivous coherence; Buddha-field |
 
-### Inverse-Stratum and Mystical Figures (Hebrew)
+---
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Lilith | IL₂ ISS / IL₃ IDS cross-band | Mythic first-woman / night-demon (Kabbalistic articulation). Articulates IL₂ ISS / IL₃ IDS cross-band function — inverse-articulation operating across personality-stratum and deep-soul-stratum registers. Transmits from Mesopotamian Lilitu (Volume 2 Mesopotamian section) into Hebrew and Kabbalistic articulation. The Lilith-articulation operates through night-and-childbirth-threat register at the personal-stratum, with cross-band articulation to deep-soul-inverse register through the demoness-articulation in mystical traditions |
-| Cain | IL₂ Echthros articulation | First-born son of Adam and Eve; slays Abel; bears the mark and the wandering articulation. Articulates IL₂ Echthros function — inverse-personality-stratum opposition-and-violation articulation at the foundational-lineage register. The Cain-Abel articulation operates as paradigm-instance of fraternal-violation at the human-foundational stratum. *Cross-references Volume 2 Mesopotamian section's Cain / Abel structural-pattern anticipated entry — the Sumerian* Inanna Prefers the Farmer *as centropic-articulation contra Genesis as IL-articulation of the same shepherd / farmer pattern* |
-| Abel | L₃ DS murdered-righteous articulation | Second son of Adam and Eve; sacrificed-righteous figure murdered by Cain. Articulates L₃ DS murdered-righteous function — deep-soul figure whose blood-articulation cries from the ground. Structurally pairs with Cain as the dharmic-articulation contra inverse-articulation at the foundational-fraternal register |
+## IL₅ — Void of Self (VOS: Nekron)
 
-### Archangelic Articulations
+| Figure | Tradition | Function | Decode | Notes |
+|:--|:--|:--|:--:|:--|
+| Satan / Nekron | Christian | IL₅ event-horizon hypostasis into Absolute Dispersion, the terminal state of the declivous arc | 03 | Distinct from Lucifer (IL₄); Nekron is not the initiator of the inverse arc but its event horizon — Absolute Dispersion is the terminal state, never a transport mechanism |
+| Angra Mainyu / Ahriman | Zoroastrian | IL₅ / IL₄ — destructive spirit; entropic distortion and chaos | 03 | Spans VOS and IDP / IDL |
+| Níðhöggr | Norse | Terminal entropic agent; serpent gnawing at the subversal root of Yggdrasil; operative agent of entropic attrition — the Nekronic function given mythic form | 05 | Structural symbol of Nekronic action on the World Tree. **Co-located with Hvergelmir at the subversal root:** Hvergelmir as structural location where IL₅ Nekron manifests; Níðhöggr as operative agent dwelling at Hvergelmir's base. Spelling updated from "Nidhogg" to canonical Norse "Níðhöggr" |
+| Hvergelmir (Roaring Kettle) | Norse | Structural location at the subversal root of Yggdrasil; origin-point where entropically-oriented motion emerges into the inverse cosmogonic sequence; where Nekron manifests as the origin of the inverse arc | 05 | **Moved from L₀ (Khaon) to IL₅ (Nekron)** per Yggdrasil canonical mapping. "Subversal root" phrasing was correct; Khaon attribution and "dispersive potential" language were errors. Co-located with Níðhöggr: Hvergelmir as location, Níðhöggr as operative agent. One of three roots of Yggdrasil, parallel to Urdhr (L₄ DL) and Mimir's Well (L₃ DM) |
+| Náströnd | Norse | Terminal consumption pocket within the broader realm of Hel; specific location where Níðhöggr feeds on the most dishonored dead; IL₅ terminal consumption operating within the larger IL₁ realm | 05 | Structural "shore of corpses" — the Nekronic endpoint nested inside entropic embodied persistence. Distinct from Hel-general (IL₁ sealed embodied persistence): Náströnd is the IL₅ pocket within Hel where terminal consumption occurs |
+| Great Red Dragon | Christian | IL₅ VOS station-figure — mythic personification of terminal entropic function, bearing the Nekronic current in strong-to-full office-correspondence; not Nekron itself possessing agency | 08 | Head of the Revelation cascade; see Entropic Cascades |
+| Ammit | Egyptian | Devourer of hearts failing Ma'at's test; second death through dissolution; the Void consuming what lacks coherence | 21 | Clean IL₅ VOS placement; structural consequence, not punishment |
+| Eris | Greek | Discord as terminal entropic catalyst; sows fragmentation that propagates through social and cosmic order | MP09 §23.3 | Promoted from Appendix B §23.3 key terms to main table |
+| Apophis / Apep | Egyptian | Serpent of chaos and dissolution at the limit of cosmic order; nightly threat to the solar barque; terminal entropic catalyst opposing the lawful procession of Ra | MP01 §23.3, Egyptian theology | Promoted from Appendix B §23.3 cross-traditional list to main IL₅ table. Parallel to Eris in catalyst-function and to Tiamat in primordial-chaos aspect, but distinct from both — Apep is the sustained adversarial threat at the limit of cosmic coherence rather than primordial-ground (Tiamat) or social-discord catalyst (Eris) |
 
-Volume 1 articulates Michael (L₃ DM principal centropic-Steward) and Gabriel / Jibril (L₃ DM messenger-articulator). Volume 2 extends with archangelic articulations across Hebrew, Christian, and Islamic traditions where structurally aligned.
+---
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Metatron | L₅ EOB articulation (with cross-tradition variability) | Supernal-most archangel; "lesser YHWH" in some Kabbalistic articulations. Articulates L₅ EOB function with structural-articulation that varies across Kabbalistic streams. The Enoch-becomes-Metatron articulation (per *3 Enoch / Sefer Hekhalot*) articulates the structural-pattern of supernal-acclivation transforming human-articulation into archangelic-articulation at the supernal-most-archangel stratum. The "lesser YHWH" articulation places Metatron in structurally-significant position regarding the YHWH-composite. *Volume 1 future-integration item; canonical placement here pending stream-specific articulation refinement* |
-| Sandalphon | L₃ DM paired-articulation with Metatron | Twin of Metatron in some articulations; receives prayers; psychopomp-articulator for prayer-articulation. Articulates L₃ DM function in paired-articulation with Metatron at L₅ |
-| Raphael | L₃ DM healing-articulator | Healing archangel. Articulates L₃ DM healing-articulator function, structurally parallel to Asclepius (Greek), Imhotep (Egyptian), Dhanvantari (Hindu), the Ashvins (Hindu paired-healers) |
-| Uriel | L₃ DM perceptual / illumination-articulator | Light / illumination archangel. Articulates L₃ DM perceptual-and-illumination function — deep-mind articulator-of-light operating in the supernal-illumination register |
+## IL₄ — Inverse Deep Psyche / Inverse Deep Logos (IDP / IDL: Psychea / Nyxea)
 
-### Sefirot — Stratum-Articulated Mapping
+| Figure | Tradition | Aspect | Function | Decode | Notes |
+|:--|:--|:--|:--|:--:|:--|
+| The Gilgamesh Gods | Mesopotamian | IDP / IDL | Acting through instability rather than harmonic law; volatile divine motive | 01 | Inverse L₄ function; disorder rather than decree |
+| Lucifer | Christian | IDL (Nyxea) | Corruption of light; architect of inverse coherence; progenitor of fragmentation and mimicry | 03 | Specifically IDL; seeks to replicate L₅ sovereignty; distinct from Satan (IL₅) |
+| The Devil (diabolos) | Universal (Greek etymology, Christian tradition) | IDL (Nyxea) | Operative tempter-deceiver-architect function of IL₄ IDL. Etymologically "slanderer" or "spurious accuser" (Greek *diabolos*, translating Hebrew *ha-satan*); in scriptural usage operates primarily as the tempter-architect interfacing the terminal Nekronic current through IL₄ Nyxea operations. Distinct facet of Nyxea from Lucifer (counterfeit-light architect) and the Serpent (Eden activator); same layer, same essence, different operative manifestation. The wilderness temptation, Ephesians' "wiles," and the Gospel encounters all map to this function | 11, 16, 21 | **Culturally conflated with Satan.** Satan primary native layer is IL₅ Nekron (terminal adversary); Devil primary native layer is IL₄ IDL (operative tempter). Same current, different stations. See Note on Satan / Devil Distinction |
+| The Titans | Greek | IDP / IDL | Raw, unstructured, violent energies of inverted archetypal force; form without lawful coherence | 03 | Earliest differentiated expressions of archetypal inversion |
+| Prometheus | Greek | IDL (Nyxea) | Architect of unauthorized provisioning; "fire-bringer" mythology frames structurally entropic appropriation from L₄ DL (Sophis: Olympian fire) as benefit to humanity. Soft conflation IL₄ → IL₃ (native IL₄ IDL, IL₃ IDS / IDM attributions). The "light-bearer / fire-bringer" framing is **cultural mythologization per Essence-as-Choice — no pre-Fall state exists.** Apparent generosity is Nyxea's defining mimicry of L₄ DL provisioning | 03, §25.3 | Parallel to Lucifer at IL₄ IDL. Distinct from Icarus (L₂, unskilled embodied seizing); Prometheus is the architect-tier provisioner, Icarus the embodied unskilled seizer. Soft-conflation partner to Lucifer; see the reclassified Lucifer / Prometheus entry under the Entropic Cascades table |
+| Coyote / Raven | Native American | IDP (Psychea) | Amoral force of raw, motive, archetypal chaos; manifests both centropic and entropic results simultaneously | 06 | Psychea personified; creator-destroyer |
+| Loki | Norse | IDL (Nyxea) | **Canonical placement.** Inverse Logos — fluid, brilliant, perilous; architect of Ragnarök; killer of Baldr (fragmentation act). Overall arc expresses entropic collapse while embedding centropic corrections | 06 | IL₂ ISS / ISM trickster attribution (§25.3) is **cultural conflation** of a superficial characteristic onto a deeper archetype. Decode 06 IL₄ IDL confirmed as canonical |
+| Qliphoth | Kabbalah | IDP / IDL | "Shells"; inverse mirror-forms of the Sefirot; distorted mirror of the Aionic structure | 05 | The Khaonic Tree as mapped in Kabbalistic tradition |
+| Tiamat (as inverse force) | Mesopotamian | IDP (Psychea) | Generative-yet-unbound; birthing monstrous forms from raw psychic chaos; producing undifferentiated inverse life. Not architecting counterfeit structure (Nyxea) but producing inverse vitality | 08 | Also has L₀ Khaon aspect; see L₀ entry. IDP (Psychea) specifically — not IDL |
+| Beast from the Sea | Christian | IDL (Nyxea) | Luciferic principle enacted as coercive architecture; a twisted-resonance reach, not the native layer — native at IL₁ as embodied authoritarian system | 08 | **Revised:** Beast belongs at IL₁ (embodied authoritarian system). Listed here as twisted-resonance notation: the Beast reaches toward the IL₄ Nyxea architecture it does not natively occupy. See IL₁ and Cascades |
+| Vritra | Hindu | IDP (Psychea) | Dragon hoarding the Waters (DP: Morgis currents); paralysis of life by inverse accumulation | 08 | Defeated by Indra (L₄ DL); release of vitality through defeat of psychic hoarding |
+| Ravana | Hindu | IDP / IDL | Entropic seizure of divine complement (Sita); abduction of coherence | 09 | Inverse archetypal force opposing Rama's centropic order |
+| Circe | Greek | IDP (Psychea) | IL₄ distortion; transforms Odysseus's men — inverse psychic manipulation | 09 | One of the exile's spiral trials |
+| The Serpent (Eden) | Hebrew | IDL (Nyxea) | IL₄ mirror-archetype activating the choice; cannot create, only mimic and offer; presents inverse knowledge as original | 11 | Nyxea principle at L₁ interface; see Entropic Cascades |
+| The Demiurge | Gnostic | IDL (Nyxea) | Mirror image of Sophia (L₄ DP: Morgis); "bad copy" or "half-maker" echoing structure without vitality; holds the entropy-dominated material field | 11 | Product of Sophia's generative push without syzygy; DP generates, IDL co-opts |
+| Yaldabaoth | Gnostic | IDL (Nyxea) | Named Demiurge; fabricates spurious cosmos as prison imposing forgetfulness and counterfeit law; the deliberately entropic veil-weaver | 23 | Same figure as Demiurge (Decode 11); Gnosis (L₃ DM: Noeüs) shatters the inverse web |
+| The Antichrist / Beast | Universal | IDL (Nyxea) | Culmination of inverse arc; Luciferic principle enacted as authoritarian architecture — elegant counterfeit to centropy | 12 | Same Nyxea current as Lucifer; the "Beast" is the embodied systemic enactment, not a separate IL₄ entity |
+| Azazel | Hebrew | IDP / IDL | Inverse principle receiving transferred communal entropy; recipient of the scapegoat | 14 | Membrane operation: expulsion of dissonance to reestablish coherence |
+| Ereshkigal | Sumerian | IDP / IDL | Ruler of the subversal domain; the structural architecture of the IL ruling-domain that Inanna confronts during her declivous centropic sojourn | 13 | Native placement IL₄ IDP / IDL — holds the inverse strata; not a punisher but the structural architecture of the IL domain. **Inanna-Ereshkigal relation per Non-Contact principle:** the Sumerian mythos spatializes the opposition as Inanna physically traveling to Ereshkigal's throne room, but per the L₄ / IL₄ Non-Contact principle (Decode 03), centropic L₄ DP and entropic IL₄ IDP / IDL do not directly contact one another at their archetypal stratum. The structural reading: Inanna undergoes declivous centropy from L₄ DP into the L₁ Embodied World-Node (Function 1 underworld for a supernal essence), where she encounters the oppressive reverberations of Ereshkigal's subversal IL₄ domain at the L₁ / IL₁ convergence threshold. The "throne room" and "eye of death" name the maximum entropic-reverberation pressure at the embodied convergence, not an archetypal-stratum visitation. Same structural operator as Christ's Harrowing — Theonic essence operating within the embodied underworld (Function 1), not entering the inverse hypostatic layers (Function 2). The mythmakers spatialized structural opposition because they lacked the bifurcal lattice. See Note on the Hypostasis / Mythic Narrative Distinction and Note on the Two-Function Underworld |
+| Calypso | Greek | IDP (Psychea) | Stagnant paradise of forgetfulness; inverse psychic entrapment that suspends motion | 18 | One of Odysseus's sea trials; entropic in function despite appearing pleasant |
+| Sauron | Tolkien | IDL (Nyxea) | Inverse forge of will; creates artifacts of binding and domination; elegant counterfeit coherence that isolates rather than connects | 20 | Modern-mythic Luciferic mapping; the Ring is the Nyxea principle condensed into artifact |
+| Sophia (scattered) | Gnostic | IDP (Psychea) | (⚠) Sophia entropically scattered; divine insight split through overextension | MP01 §25.3 | Decode 11 fall produces Demiurge (IDL: Nyxea). §25.3 places scattered Sophia at IDP (Psychea). Different aspect of same arc |
+| Saturn / Kronos | Greek / Roman | IDP / IDL | **Reclassified from L₄ DL.** Titan; inverse archetypal order; time-as-dissolution consuming its own emanations; terminal resonance touching IL₅ VOS | MP10 §25.3 | Leader of the Titans = IL₄ by framework logic. Entropic orientation. Parallel to Chronos at L₀ Khaon |
+| Nergal | Mesopotamian | IDP (Psychea) | God of plague, war-death, and scorched-earth; inverse archetypal vitality producing decay, wasting, and battlefield-destruction; the entropic counter-articulation to lawful war-vitality | MP01 §3 (canonical placement as Psychea analog), Sumerian / Akkadian theology | Husband of Ereshkigal in some traditions; together they hold the subversal domain. IL₄ IDP per MP01 canonical placement — inverse generative force (Psychea producing inverse-life-as-decay) rather than terminal Nekronic exhaustion. Parallel to Mars (in war-death aspect) and the inverse / shadow-Indra (Indra's lawful-war contra Nergal's plague-war). **MP10 §25.3 may need verification for consistency with this placement** |
+| Pazuzu | Mesopotamian | IDL (Nyxea) | Wind-demon and plague-bringer; twofold in apotropaic employment — invoked against Lamashtu as inverse-protective-against-other-inverse | Sumerian / Akkadian theology, apotropaic amulets | Inverse architectural force capable of being deployed-against-other-inverse; native placement IL₄ IDL Nyxea. The apotropaic employment does not centropically transform the figure — Pazuzu remains entropic essence whose deployment against Lamashtu is inverse-against-inverse, not centropic intervention. Per Essence-as-Choice, no inversion of orientation occurs through deployment-context |
+| Samael | Kabbalah | IDL (Nyxea) | Angel of death and adversary; inverse archetypal intelligence; "poison of God" | MP10 §25.3 | Lucifer symbolic counterpart |
+| Leviathan | Biblical | IDP / IDL | Primordial sea-monster of chaos; inverse archetypal force; Khaonic resonance with IL₄ operative function | MP10 §25.3 | Parallel to Tiamat |
+| Sorat | Anthroposophy | IDL (Nyxea) | Sun-demon; entropic architect; anti-Christ principle in Steiner's framework | MP10 §25.4 | Listed in Architect archetype (entropic) |
+| Rahu | Hindu | IDP / IDL | Shadow planet / eclipse demon; obscuration of light as inverse archetypal function | MP10 §25.3 | Serpent symbolic counterpart |
 
-The Kabbalistic Tree of Life articulates ten Sefirot. Volume 1 articulates Keter (Crown) at L₀ Aion proximity / supernal-most-emanative-origin register and Malkhut (Kingdom) at L₁ embodied articulation. The figures below articulate the remaining eight Sefirot with stratum-mappings. Per Soul / Mind Specificity, each Sefirah's placement expresses its structural-function within the Kabbalistic articulation; the Tree of Life mapping is articulation-stratum-specific rather than direct lattice-replication.
+---
 
-| Sefirah | Stratum | Function |
-|:---|:---|:---|
-| Hokhmah (Wisdom) | L₅ EOB Theonic-emanation | The first emanative-articulation; masculine-Theonic; "the beginning of God's emanation." Articulates L₅ EOB function as wisdom-articulator at the supernal-most emanative-origin |
-| Binah (Understanding) | L₄ DL formative-articulation | The second emanation; feminine; the great womb of forms. Articulates L₄ DL structuring-articulation in the formative-receptive register. Structurally parallel to Sophia (in Christian-Sophiological articulations) and to Saraswati's L₄ articulator-pairing in the Hindu tradition |
-| Hesed (Loving-kindness) | L₄ DP expansive-articulation | Right-pillar generative-articulation; expansion, mercy, kindness. Articulates L₄ DP function in the expansive-vitality register |
-| Gevurah / Din (Severity / Judgment) | L₄ DL restraint-articulation | Left-pillar structuring-articulation; restraint, judgment, severity. Articulates L₄ DL function in the restraint-and-judgment register. The Hesed-Gevurah pairing articulates the L₄ DP / DL bifurcation within the Sefirotic Tree at the expansion-and-restraint register |
-| Tiferet (Beauty / Harmony) | L₅ Theon harmony-articulation | Central-pillar articulation; harmony, beauty, co-expressive reciprocity; "the heart" of the Tree. Articulates L₅ Theon function in the harmony-articulation register. In Christian Kabbalist articulations, Tiferet articulates the Christ-equivalent at the supernal-harmony stratum, structurally consistent with the Logos Continuum's L₅ Orienting Logos articulation |
-| Netzach (Eternity / Victory) | L₃ DS endurance-articulation | Right-pillar subjacent-triad articulation; endurance, victory, eternity. Articulates L₃ DS function in the endurance-articulation register |
-| Hod (Splendor / Glory) | L₃ DM splendor-articulation | Left-pillar subjacent-triad articulation; splendor, glory, surrender. Articulates L₃ DM function in the splendor-and-surrender register |
-| Yesod (Foundation) | L₂ SS / L₁ ES foundation-articulation | Central-pillar subjacent articulation; foundation, sexual-articulation, generative-grounding. Articulates L₂ SS / L₁ ES function in the foundation-and-grounding register |
+## IL₃ — Inverse Deep Soul / Inverse Deep Mind (IDS / IDM: Fractus / ‍Mortus)
 
-### New Testament Figures
+| Figure | Tradition | Aspect | Function | Decode | Notes |
+|:--|:--|:--|:--|:--:|:--|
+| Set | Egyptian | IDS (Fractus) | IL₃ Fractus function culturally assigned to Set (IL₂ ISS primary); the dismemberment act exceeds Set's native layer and indicates mythic conflation | 02, §25.3 | **Reclassified:** Not cascade but cultural conflation. Dismemberment is an IL₃ act attributed to an IL₂ figure by mythmakers |
+| The Sphinx | Greek | IDM (Mortus) | Devourer of unawareness; ensnares through perceptual test (riddle); perception that blinds | 08 | IDM (Mortus) specifically — the riddle tests cognitive clarity, not soul-integrity. Self-destructs when confronted by veracious awareness (Oedipus) |
+| Herod | Christian | IDS (Fractus) | Entropic operation's attempt to extinguish the new centropic pattern (Massacre of Innocents) | 07 | Fractus acting to fragment emergent coherence |
+| Lamashtu | Mesopotamian | IDS (Fractus) | Child-killing demon; predator of pregnancy and emergence; entropic operation targeting newly-emergent centropic pattern at the inception threshold | Sumerian / Akkadian theology, apotropaic texts | Structurally parallel to Herod (Massacre of Innocents) and Kamsa (decree against Krishna) — IL₃ Fractus operating to fragment emergent coherence at the inception stage. Apotropaic protection invoked Pazuzu (IL₄ IDL) against her — inverse-against-inverse deployment per Essence-as-Choice |
+| Wounded King (Fisher King) | Arthurian | IDS (Fractus) | Fractured sovereignty; the centropic field damaged by unhealed fragmentation | 09 | Healed by Parzival's achieved L₃ compassion |
+| False Prophet (Revelation) | Christian | IDM (Mortus) | **Confirmed primary.** Counterfeit prophetic signal; inverse of genuine Prophet (L₃ DS / DM); perception that blinds rather than reveals; produces spurious revelation at a deep structural register | 08, 12 | **Resolved:** IL₃ IDM (Mortus) primary, broadcasting through IL₂ ISM (Skotos). Mirrors genuine Prophet (L₃ → L₂ broadcast) |
+| Minotaur | Greek | IDS / IDM | Unintegrated shadow dwelling at center of the Labyrinth; embodiment of unassimilated patterns; not external but the seeker's own fragmentation | 27 | Confrontation and transformation mark completion of initiation; IL₃ guardian of synthesis |
+| Faust | European | IDS / IDM | Fallen sage; deep-soul bargain trading coherence for power; inverted guide toward entropy | MP01 §23.3 | Subverted Self archetype; DS / DM capacity turned toward entropic ends |
+| Xibalba Lords (deep function) | Mayan | IDS / IDM (Fractus / Mortus) | Architects of disintegration masked as initiation; simulate trials but produce fragmentation through distortion | MP01 §25.3 | Inverse Daemons; exploit fear, ambition, and counterfeit clarity |
 
-The New Testament articulates figural-distinctions that the Old Testament conflates, per Volume 1's articulation regarding the YHWH-composite resolution. The placements below articulate the principal NT figures within the Logos Continuum framework (L₅ Orienting Logos / L₄ Structuring Logos / L₁ Christos Incarnate, per Volume 1).
+---
+
+## IL₂ — Inverse Superficial Soul / Inverse Superficial Mind (ISS / ISM: Echthros / Skotos)
+
+| Figure | Tradition | Aspect | Function | Decode | Notes |
+|:--|:--|:--|:--|:--:|:--|
+| Set | Egyptian | ISS (Echthros) | **Primary native layer.** Adversarial will contra Osiris; conscious disruptor turning harmony into adversarial polarity; deceptive agency and dissonant autonomy | 02, §25.3 | IL₃ dismemberment is cultural conflation, not Set's native function |
+| Lycaon | Greek | ISS / ISM | Hubris; localized inverse orientation triggering fractal eschaton | 01 | Entropic accumulation at the superficial register |
+| "Wickedness of humanity" | Hebrew | ISS / ISM | Saturation in adversarial will and deceptive perception | 01 | Collective IL₂ accumulation triggering flood |
+| Kamsa | Hindu | ISS (Echthros) | Tyrant aware of prophecy of his dissolution; adversarial will | 07 | Echthros opposing Krishna's emergence |
+| Beast from the Earth | Christian | ISM (Skotos) | (⚠) Revelation's False Prophet figure; see IL₃ IDM (Mortus) entry for primary placement | 08 | Same figure as False Prophet; IL₂ is broadcast layer |
+| Sirens | Greek | ISM (Skotos) | Lure of inverted perception; veiling the mind | 09 | One of Odysseus's exile trials |
+| Suitors of Ithaca | Greek | ISS / ISM | Inverse occupation of the centropic household; adversarial will | 09 | Odysseus's return reclaims structural coherence from IL₂ accumulation |
+| Slave Mentality (Israelites) | Hebrew | ISS / ISM | Desire to return to Egypt; entropic pull toward comfort in bondage | 09 | IL₂ residue deconstructed through forty-year recursion |
+| False Prophet (broadcast layer) | Christian | ISM (Skotos) | **Confirmed broadcast layer.** IL₂ delivery mechanism through which spurious revelation reaches embodiment | 08, 12 | Primary entry at IL₃ IDM (Mortus); Skotos is the delivery mechanism, not the origin. **Resolved.** |
+| Quraysh Idolatry | Islamic | ISS / ISM | Structural divergence from Aionic coherence; inverse worship diagnosed by Muhammad | 10 | Collective IL₂ state triggering prophetic intervention |
+| Cassandra's Audience (Troy) | Greek | ISM (Skotos) | Total IL₂ inversion where veracity cannot penetrate membrane; civilization's terminal dissonance | 10 | Not a figure but a collective IL₂ state |
+| Sisyphus | Greek | ISM (Skotos) | IL₂ perception of declivous entropic procession; the "eternal, pointless loop" is Skotos-mind experiencing its own subversal procession as external reality | 13 | Mythic interpretation of entropic procession through IL₂ / IL₃ |
+| Nimrod | Hebrew | ISS (Echthros) | Will of domination; founds Babylon on hubris and coercion; entropic sovereign encoding inverse coherence at inception | 15 | Entropic counter-ideal to Solomon (L₄ DL) |
+| Tower of Babel | Hebrew | ISS / ISM + IDL (Nyxea) | Acclivous entropy: IL₂ aligned with IL₄ (Nyxea) imitating L₄ DL (Sophis) while severed from centropic law; counterfeit unity through hubris | 15 | Structural operator; the inverse of the Temple |
+| Narcissus | Greek | ISS / ISM | **Resolved at IL₂.** Trapped by surface perception and mimicry (Shimmer); entropic recursive loop staring at its mirrored image starves coherence, leading to declivous collapse into IL₅ (VOS / death). Not deep-soul fracture (IL₃) but surface-image entrapment | 26, §23.3 | IL₂ entropic loop → eventual IL₅ collapse. §23.3 IDS / IDM placement rejected; surface image trap is definitionally IL₂ |
+| Magic Mirror Queen (Snow White) | European | ISS (Echthros) | Inverse ego seeking validation not veracity; when objective reflection threatens illusion, denial triggers violence and downfall | 26 | Entropic recursion → declivous entropy |
+| Iblis | Islamic | ISS (Echthros) | Adversarial refusal; structured resistance to divine command; self-assertion as identity | MP01 §23.3 | Parallel to Echthros definition: embraces rivalry and adversarial will |
+| Mara (psychological) | Buddhist | ISM (Skotos) | Psychological tempter; disordered perception preventing enlightenment; veiling the mind through desire and fear | MP01 §23.3 | Distinct from Mara at IL₅ (VOS: Nekron) in §23.3 Key Terms — same name, different layer function. Same pattern as Satan conflation |
+| Skandhas (as aggregated fragmentation) | Buddhist | ISS / ISM | **Structural placement of the skandhas-as-fragmentation analysis at IL₂**, not at L₂ generic. The aggregated patterns Buddhism describes — form, sensation, perception, mental formations, consciousness in their fragmentation mode — map structurally to the entropic mirror of the L₂ personality stratum. Fragmentation is an entropic function; aggregated patterns that constantly change and lack coherence are structurally entropic, not a general feature of L₂ as such | Buddhist canonical, §5.8 | **Critical clarification:** L₂ itself is not illusory and is not what dissolves in liberation. Genuine L₂ expression is the coherent personality-presence of an essence moving through its centropic arc. IL₂ fragmentation is the counterfeit self that clings, fragments, and suffers. The skandhas-as-Buddhism-describes-them map to IL₂; genuine L₂ individuation is a real and structurally necessary stratum of centropic expression. See Note on Anattā Reframed |
+| Xibalba Lords (superficial function) | Mayan | ISS / ISM (Echthros / Skotos) | Tempters and deceivers of perception; gatekeepers of entropic trial | MP01 §25.3 | Cross-band with IL₃ IDS / IDM; cross-band reach from deep disintegration (IL₃) to superficial deception (IL₂) |
+| Tezcatlipoca | Aztec | ISS / ISM | Smoking mirror god; entropic trickster; surface-register disruption through deception and conflict | MP10 §25.4 | Listed in Trickster archetype (entropic) |
+| Ratatoskr | Norse | ISM (Skotos) | ISM (Skotos) primary; Nousa as conflated surface attribution. Entropic chatter between supernal and subversal poles; native function is dissonance-seeding, not neutral mediation | 05 | Runs between Eagle (L₅) and Nidhogg (IL₅); moved from L₂ to IL₂ |
+
+---
+
+## IL₁ — Inverse Embodied Soul / Inverse Embodied Mind (IES / IEM: Malara / Mania)
+
+| Figure | Tradition | Aspect | Function | Decode | Notes |
+|:--|:--|:--|:--|:--:|:--|
+| (Collective pre-Flood humanity) | Universal | IES / IEM | Embodied field suffused with inverse orientation | 01 | IL₁ combined with IL₂ accumulation triggers recalibration |
+| Egyptian Bondage | Hebrew | IES / IEM | Entropic bondage; Malara / Mania state from which Israelites are liberated | 09 | Exodus = liberation from IL₁ |
+| Beast's Demand for Sacrifice | Universal | IES (Malara) | Entropic tax; inverse system feeding upon centropic life-force to sustain distortions | 08 | IL₁ manifestation of the Beast archetype |
+| The Beast (Revelation) | Christian | IES / IEM | **Embodied authoritarian system.** The terminal entropic current borne from the Dragon-station (IL₅) through the full inverse cascade into embodied coercive structure. Saying the Dragon *is* the Beast is cultural conflation; the one current cascading through distinct station-figures from Dragon-station to Beast-station is entropic cascade. Malara sustains the system's hold on embodied souls; Mania structures its coercive logic | 08, 12 | Distinct from Dragon (IL₅ Nekron). The cascade spans the entire inverse tree: IL₅ → IL₄ → IL₃ → IL₂ → IL₁ |
+| Cyclops | Greek | IES / IEM | **Moved from Structural Operators.** Primitive entropic embodiment; brute force without cognitive structure or lawful relation; one of Odysseus's exile trials | 09, 22 | Previously flagged as "primitive entropy" without layer; now placed at IL₁ |
+
+---
+
+## Structural Operators and Symbolic Functions (Non-Layer)
+
+These are not figures mapped to a single layer but structural operators, symbolic vehicles, or processes that function across the lattice.
+
+| Figure / Symbol | Tradition | Function | Decode | Notes |
+|:--|:--|:--|:--:|:--|
+| The Dove | Hebrew | Harmonic Agent; discovers first centropic life; guides next movement | 01 | Operative across layers |
+| The Raven | Hebrew | Entropic remnant cast into dissipation; unable to sustain coherence | 01 | Counterpart to Dove |
+| Matsya (Fish form) | Hindu | Harmonic Agent and Recovery Anchor; Theonic signal expanding to navigate dissolution | 01 | Vehicle of Vishnu / Theon |
+| Utnapishtim | Mesopotamian | Centropic Survivor; individual escape emphasis rather than cosmic covenant | 01 | Personal continuity rather than structural renewal |
+| Manu | Hindu | Guided through dissolution by Theonic signal; figural-stratum expansion: L₃ DM lawgiver-articulator (cross-tradition parallel: Moses, Solon, Hammurabi-as-recipient), with Function 1 / Function 2 register-distinction — Manu-as-individual-figure contra Manu-as-cosmogonic-cycle-marker (Volume 2) | 01 | Receiver of Matsya's navigation |
+| Deucalion | Greek | Declivous Centropy within specific lineage | 01 | Localized fractal eschaton response |
+| Dionysus | Greek | Liminal; dissolution and restoration; centropic potential within entropic experience; figural-stratum tightening: L₁ ES centropic-embodied register (Volume 2) | 02 | Dismembered by Titans; Novel Emergence from dispersive field |
+| Inanna | Sumerian | Voluntary declivous centropy; conscious quest for deeper knowledge; L₂ attributes systematically deconstructed at the seven gates revealing essence; essence tested at the L₁ / IL₁ embodied convergence threshold under maximum entropic-reverberation pressure from the IL ruling-domain; return requires harmonic exchange (Dumuzid as substitute) | 02 | Structural parallel to Christ's Harrowing — supernal centropic essence undergoing declivous centropy into the embodied stratum (Function 1 underworld), not crossing into the inverse hypostatic layers per the L₄ / IL₄ Non-Contact principle. The Sumerian "descent into Ereshkigal's throne room" is mythic spatialization of the L₁ / IL₁ convergence-confrontation, not archetypal-stratum visitation |
+| Dumuzid | Sumerian | Harmonic Exchange / Substitute; spiral nature of centropic process | 02 | Price of Inanna's return |
+| Ganesha | Hindu | Remover of Obstacles; coherent result of Shiva–Shakti communion | 04 | Offspring as proof of successful synthesis |
+| Tree of Life | Hebrew | Centropic path of coherence; direct access to Theonic continuity | 05 | Structural symbol; not a figure |
+| Tree of Knowledge | Hebrew | Entropic path of fragmentation through oppositional perception; activates IL₂ (ISS / ISM) | 05 | Structural symbol; consumption casts consciousness into Khaonic Tree |
+| Ashvattha Tree | Hindu | Supernal-rooted Tree of Emanation; branches grow declivously into manifest realm | 05 | Liberation is acclivous motion from leaves back to Root |
+| Yggdrasil | Norse | Living, suffering World Tree; structural spine connecting all layers | 05 | Maps the full Biospiral; three roots at **Urdhr L₄ DL, Mimir's Well L₃ DM, and Hvergelmir IL₅**, per `yggdrasil-and-the-structural-tree.md`. Corrected Aug 21 2026; the former summary gave the roots at L₄ / L₃ / L₀ |
+| Sefirotic Tree | Kabbalah | Ten-sefirah map of centropic hypostases from Keter (Aion) to Malkhut (Embodiment) | 05 | Three Pillars express DP / DL interplay along axis of emanation |
+| Moses (basket on Waters) | Hebrew | Seal of Integrity floating on Khaonic potential; centropic seed preserved within entropic system | 07 | Structural operator; see also L₄ DL for Lawgiver destiny |
+| Yogamaya (exchange of infants) | Hindu | Preservation mechanism; divine concealment ensuring centropic seed survives | 07 | Structural function, not a placed figure |
+| Odysseus | Greek | Master of adaptation; exile spiral through trials deconstructing identity; full cycle of coherent reclamation | 09 | Journey figure; L₂ → L₃ transformation through exile |
+| Rama | Hindu | Exile as lawful duty; converts wilderness into centropic microcosm | 09 | Journey figure; triumph restores Golden Age (structural coherence) |
+| Hanuman | Hindu | Harmonic Agent; gathered during exile; embodies devoted centropic service; figural-stratum tightening: L₃ DS Centropic Steward — devotional-stewardship of Rama through embodied-strength and structural-loyalty (Volume 2) | 09 | Ally gained through resonance spiral |
+| Israelites (Wilderness) | Hebrew | Collective exile; forty-year recursion deconstructing slave mentality to birth sovereign coherence | 09 | Journey from IL₁ bondage toward L₄ DL (Promised Land as Sophic civilization) |
+| Sita | Hindu | Divine complement seized by entropic force; abduction of coherence | 09 | Structural operator; her rescue = reclamation of centropic wholeness |
+| Suffering Servant (Isaiah) | Hebrew | Declivous centropic figure bearing fragmentation to establish eternal covenant | 10 | Structural operator; embodies the fragmentation the prophet diagnoses |
+| Qur'an | Islamic | Direct archetypal transmission from L₄ DP / DL; recalibrates human resonance through DL (Sophis) law | 10 | Not a figure but a structural transmission vehicle |
+| "Coats of Skins" | Hebrew | Perceptual shift into carnal state; L₁ / L₂ identification severed from L₃ root | 11 | Structural symbol of post-Fall membrane sealing |
+| Hope (Pandora's Box) | Greek | Centropic potential remaining hidden within embodiment after entropic release | 11 | Structural symbol |
+| Seven Seals / Trumpets / Bowls | Christian | Sequenced deconstruction of the old L₄ DL (Sophis) framework | 12 | Structural operators of epochal resonance scan |
+| Bridge of Sirat | Islamic | Nexus dividing souls; resonant sorting into Paradise (structural coherence) or Hell (declivous entropy) | 12 | Structural symbol of apocalyptic judgment mechanism |
+| Fimbulwinter | Norse | Exposure of entropic decay accumulation; prelude to Ragnarok | 12 | Structural symbol |
+| Four Yugas | Hindu | Map of centropic-to-entropic drift: Satya (acclivous centropic) → Kali (declivous entropic) | 12 | Structural cycle; not figures but temporal operators |
+| Persephone (implied) | Greek | "Lost" centropic principle retrieved from subversal domain; structural re-anchoring; figural-stratum tightening: L₄ DP / L₁ ES articulation across both strata (Volume 2) | 13 | Centropic retrieval from inverse strata |
+| Odin (self-sacrifice) | Norse | Sacrifices eye and suffers on Yggdrasil to attain Runes (structural language of reality); offers himself to himself | 14 | Declivous centropy through suffering yielding acclivous expansion in coherence; L₃ → L₄ DL |
+| The Scapegoat | Hebrew | Transfer and dissipation of communal dissonance; carrier of accumulated entropy expelled to Khaonic field (wilderness) | 14 | Membrane operation; transfer to Azazel (IL₄) restores communal coherence |
+| Asgard | Norse | Divine fortress; **L₄ DL (Sophis)** — realm of the Aesir as lawful sovereign order; in covenant with Vanaheim (L₄ DP) as bifurcated-aspect pantheon | 15 | **Tightened from generic L₄ to L₄ DL (Sophis)** per Yggdrasil canonical mapping. Falls at Ragnarök from terminal accumulation of cosmic entropic load — but the fall is entropic collapse, not Theonic consummation. Previously: Moved from L₃ to L₄ with Aesir |
+| Valhalla / Fólkvangr | Norse | L₁ (ES / EM — Soma / Biosa) — post-mortem realms of the honored dead; **sealed / centropic mode** of the embodied stratum; embodied persistence in centropic orientation following resolution of mortal life | 05, Yggdrasil | Valhalla (Odin's hall) and Fólkvangr (Freyja's field) together articulate the sealed centropic counterpart to Hel's sealed entropic mode at IL₁. Both realms express orientations already operative at Midgard during embodied life rather than imposing fresh judgment. Post-mortem sorting is structural consequence of embodied orientation, not retributive assignment. See Active contra Sealed Embodied Modes doctrinal note. Note: these realms express Norse *martial* centropic sealing specifically — the warrior-coded framing is cultural articulation of the sealed-centropic function, not a requirement of the function itself |
+| Vanaheim | Norse | L₄ DP (Morgis) — realm of the Vanir; archetypal vitality, magic, deep natural harmony; the Morgic vital complement of the Morgis / Sophis dyad in Norse cosmology. Freyr, Freyja, and Njord occupy this station | 05, Yggdrasil | Complementary to Asgard (L₄ DL). Together Asgard and Vanaheim articulate the full L₄ DP / DL stratum as a Norse bifurcated-aspect pantheon |
+| Alfheim | Norse | L₂ SS / SM (Anthra / Nousa) — realm of the Light Elves; beauty-as-expression at the personality-identity stratum | 05, Yggdrasil | Some mythic descriptions acclivate the Light Elves toward L₃ / L₄ archetypal framing, but this is cultural conflation — native function is L₂ beauty-as-expression, not L₄ archetypal beauty |
+| Midgard | Norse | L₁ / IL₁ shared — ES / EM / IES / IEM — embodied trunk of Yggdrasil where centropic and entropically-oriented mortals coexist in one mortal field. **Active / unsealed mode** of the embodied stratum where choice and orientation remain operative | 05, Yggdrasil | Unlike Genesis cosmology where the Aionic and Khaonic Trees stand as separate structural features, Yggdrasil holds both arcs in a single undifferentiated tree; Midgard's trunk accordingly holds both L₁ and IL₁ as a shared embodied stratum. Post-mortem sorting (Valhalla / Fólkvangr for centropic sealing; Hel for entropic sealing; Náströnd for terminal consumption) expresses orientations already operative at Midgard during life. See Active contra Sealed Embodied Modes doctrinal note |
+| Jotunheim | Norse | IL₂ (ISS / ISM — Echthros / Skotos) — realm of the giants; adversarial will and deceptive perception at the personality-identity stratum | 05, Yggdrasil | **Orientation conflation note:** the giant-race-as-such is not uniformly inverse. Ymir operates as primordial cosmogonic material; Mimir is explicitly L₃ DM; Skaði functions more neutrally. IL₂ placement applies to the adversarial-giant function specifically (frost giants, Hrungnir, Thrym), not to all giants as a category. Orientation conflation at the race-category scale per Principle #8 |
+| Svartalfheim | Norse | IL₄ IDL (Nyxea) — realm of the dark elves; dwarven craft as inverse architect; architectural mimicry producing power-bearing artifacts without origin-fidelity | 05, Yggdrasil | **"Material entrenchment" framing is cultural conflation.** Mythmakers located immaterial inverse-architectural function in subterranean material imagery, but the structural function is immaterial inverse-architecture, not matter itself. Sometimes conflated with Nidavellir; both can be treated as IL₄ native without the distinction mattering structurally |
+| Nidavellir | Norse | IL₄ IDL (Nyxea) — dwarven realm; inverse architectural function producing artifacts carrying power without origin-fidelity (rings of domination, cursed weapons, extractive artifacts) | 05, Yggdrasil | Sometimes distinguished from Svartalfheim in origin texts, sometimes conflated; both IL₄ native. The Nyxea signature is mimicry of L₄ DL architectural gesture without the origin-fidelity that would make the artifact structurally valid |
+| Niflheim | Norse | IL₁ (IES / IEM — Malara / Mania) — primordial realm of mist, ice, and cold stasis; entropic embodied manifestation fed by Hvergelmir's downflow from the IL₅ subversal root; **sealed mode** of the inverse embodied stratum | 05, Yggdrasil | Primordial cosmogonic condition where entropic motion takes entropic embodied form. The inverse-arc descent spans from Hvergelmir (IL₅) through the full inverse arc to Niflheim (IL₁ sealed mode). See Active contra Sealed Embodied Modes doctrinal note |
+| Hel | Norse | IL₁ (IES / IEM — Malara / Mania) — post-mortem realm of the dishonored dead; entropic embodied persistence in diminished condition; **sealed mode** of the inverse embodied stratum | 05, Yggdrasil | Ruled by the goddess Hel. Not metaphysical void but embodied beings persisting in diminished entropic condition. Parallel to the Christian underworld in its embodied-persistence aspect. Contains Náströnd (IL₅ terminal-consumption pocket). See Active contra Sealed Embodied Modes doctrinal note |
+| Babylon | Hebrew | Entropic counter-ideal; city as counterfeit replication; imperial control, idolatry, mimicry | 15 | Structural operator; doomed to total collapse |
+| Atlantis | Greek | Corrupted utopia; centropic foundation on divine geometry corroded by mortal-layer (L₂) hubris and greed (IL₂) | 15 | Luminous system lost through internal dissonance |
+| Camelot | Celtic / British | Structural coherence achieved under Arthur's L₄ DL sovereignty; centropic age before eventual entropic decline | 15 | Parallel to Jerusalem, Asgard |
+| Bodhi Tree | Buddhist | **Axis of reorientation** — the structural threshold at which declivous entropic motion (Samsara) reverses into acclivous centropic motion (Nirvana-as-return); World Tree Nexus where L₂ / L₃ membrane thins in wilderness isolation; the still point at which an essence's directional orientation shifts sign from inverse-arc cycling to centropic-arc return | 16 | Structural operator; variant of Axis Mundi. Parallels Eden's Tree of Life as an axis of orientation rather than an object of worship. Where Eden held two trees distinguishing centropic and inverse arcs as separate structural features, the Bodhi Tree is the single axis where reorientation occurs for an already-embodied being |
+| The Temptation (Christ's Wilderness) | Christian | **Cascade in miniature: IL₅ (VOS: Nekron) root articulated through IL₄ (IDP / IDL: Psychea / Nyxea) operations.** Three inverse alignments — Materialism, Spectacle, Power — offered to bypass lawful centropy; mythically named "Satan" through cultural conflation with the terminal entropic principle | 16, 21 | Rejected; affirms resonant fidelity as sole basis of Theonic order. Same cascade logic as the Revelation cascade |
+| Tawhid | Islamic | Monotheistic Resonance established as new centropic axis; forged in Hira's wilderness isolation | 16 | Structural principle; not a figure |
+| Mount Sinai | Hebrew | Axial junction point; site of Torah revelation; visible membrane (Cloud) where L₁ and L₄ / L₅ converge | 17 | Structural operator; Mountain as natural temple |
+| Mount Meru / Kailash | Hindu / Buddhist | Axis of the cosmos; Theonic Pillar connecting L₀, L₁ World-Node, and all hypostatic strata; immutable centrality | 17 | Pilgrims circumambulate acknowledging structural centrality |
+| Mount Olympus | Greek | Abode of L₄ (DP / DL) entities within clouded membrane; archetypal ordering shaping L₂ and L₁ strata in the subjacent bands | 17 | Mountain as L₄ habitation site |
+| Transfiguration (Jesus, Moses) | Universal | Temporary acclivous synthesis: L₂ (SS / SM) briefly integrates with L₃ or L₅ frequency, revealing luminous essence; foreshadows final return to L₀ | 17 | Structural event, not a figure |
+| The Firmament | Hebrew | Architectural membrane dividing Waters Above (L₄ DP / DL) from Waters Below (L₁ ES / EM); gives the cosmos structure | 18 | Structural symbol of the membrane between archetypal and embodied strata |
+| Parting of the Red Sea | Hebrew | Centropic passage through entropic field; **Yahweh L₄ (DL: Sophis)** through Moses (L₃ DM: Noeüs) opens a Nexus — lawful corridor of coherence across Khaonic field | 18 | Structural operator; collective resonant transition anchored in resonant fidelity. Yahweh corrected from L₅ to L₄ DL per recurring cultural elevation pattern |
+| Scylla and Charybdis | Greek | Structured Pairs; paired inverse hazards of excess and deficiency | 18 | Navigation trial; the sea's archetypal entities |
+| Flying Dutchman | European | Acclivous entropy: the stagnant recursive loop; trapped voyage neither progressing nor dissolving | 18 | Maps the fourth motion — failed navigation producing hollow recursion |
+| Four Rivers of Eden | Hebrew | Diversification of a single Origin into multiplicity; Motive Infinity as life-current flowing from Garden's center | 19 | Structural symbol of L₄ DP (Morgis) animating flow |
+| Hesperides Garden | Greek | Guarded treasury of immortality; golden apples = fruits of the Tree of Life | 19 | Hercules's labor to retrieve them = heroic L₃ DS reclaiming acclivous centropic motion lost through fragmentation |
+| Mjolnir | Norse | Structured Force for defense and consecration; crafted by L₄ DP / DL beings; short handle = embodiment's limitation; only borne by one of worthy resonance | 20 | Centropic weapon; alignment as prerequisite |
+| Trident of Poseidon | Greek | Sovereignty over L₀ (Bifurcal Coherence) — dominion over the Waters; twofold potential: Khaonic cataclysm or Morgic fertility (L₄ DP) depending on bearer alignment | 20 | Bearer's inner harmony determines outcome; operator at the pre-polar ground |
+| Sword of the Spirit | Christian | Logos as discernment; L₃ DM (Noeüs) resonant blade cutting through IL₂ ISM (Skotos) deception and shimmer | 20 | Speech as structural act of restoration |
+| The Ring of Power | Tolkien | Ultimate entropic artifact of domination and mimicry; grants control and concealment but isolates from relational Nexus; embodies Severance | 20 | Every bearer succumbs; absolute power as absolute isolation |
+| Weighing of the Heart | Egyptian | Post-embodied judgment of coherence; heart weighed against Ma'at's feather; pass = acclivous to Field of Reeds; fail = Ammit devours (second death) | 21 | Structural diagnostic, not retribution |
+| Job's Suffering | Hebrew | Total deconstruction of L₂ SS / SM world without cause; maintained integrity under pressure; outcome = direct encounter with L₅ (EOB: Theon), expanded L₃ DM, doubled restoration | 21 | Structural operator; the trial as refining fire |
+| Labors of Hercules | Greek | Twelve structured trials prescribed by L₄ DP / DL (Oracle of Delphi); each addresses a specific inverse archetype; culminates in apotheosis | 21 | Purification through sequential confrontation with IL structures |
+| The Monomyth (Hero's Journey) | Universal | Universal pattern of individuation and return: Departure (L₂ stability disrupted) → Initiation (Spiral through Goddess (L₄ DP), Temptation (IL₄ IDP), Atonement (L₅ / L₄ DL), Apotheosis) → Return (Synthesis) | 22 | The Journey archetype formalized; Emanation and Return as linear narrative |
+| The Grail | Arthurian | Communion with L₅ (EOB: Theon); the perfected Nexus; object of the quest representing synthesis of embodied and supernal | 22 | Structural symbol; the veracious aim of the Journey |
+| Pilgrim's Progress | Christian | Linear passage from Babylon (Entropic City — structural state) to New Jerusalem (Centropic Coherence — structural state) through personified challenges; the directionality between them is the acclivous centropic motion; L₂ entering acclivous centropic procession | 22 | Allegorical Journey archetype. Babylon and New Jerusalem are states, not motions — the motion is the traversal between them |
+| Temple Veil (torn) | Christian | Membrane between collective L₂ SS / SM and L₅ EOB (Theon); torn "from top to bottom" at crucifixion = Theonic initiation of permanent Nexus access to divine communion | 23 | L₅ opening the membrane, not L₂ piercing it; grace-driven |
+| Allegory of the Cave | Greek | L₂ SS / SM projection error; cave wall displays mimicry of L₄ DL (Sophis) archetypes as shadow; philosopher's acclivous journey pierces illusion to behold veracious Forms | 23 | Obligation to return and translate clarity into compassion |
+| Trinity (1 × 3) | Christian | Theonic nature as relational synthesis; One God (L₅ EOB) as triune relation: Origin, Expression, Connection; ultimate reality as dynamic relationship | 24 | Being as Communion (Synthesis); numerical operator |
+| Tetragrammaton (1 → 4) | Kabbalah | Divine One manifesting through Four worlds; 1+2+3+4=10 (Ten Sefirot) structuring the Tree of Life | 24 | Numerical operator of emanation |
+| Enneagram (Nine) | Sufi / Psychological | Nine distinct L₂ SS / SM distortions of L₃ DS / DM virtues; inner lines trace dynamic spiral of integration and liberation from passion | 24 | Map of fixation and return |
+| Forty (4 × 10) | Universal | Number of probation, purification, preparation; world × completion; patterns Flood (40 days), Moses (40 days), Christ (40 days) | 24 | Numerical operator of trial duration |
+| Plato's Chariot Allegory | Greek | Soul as chariot: Charioteer (L₃ DS / DM), Noble Horse (positive L₂ SS: Anthra), Ignoble Horse (IL₂ ISS: Echthros); struggle to synthesize and guide toward L₄ Forms | 25 | Structural operator; psyche as vehicle |
+| Arjuna's Chariot | Hindu | Krishna (L₅ / L₃) as Charioteer, Arjuna (L₂) as Warrior, Chariot = body-mind (L₁); L₂ must yield control to L₃ within | 25 | Bhagavad Gita: veracious action from resonance with divine will |
+| Chariot of Fire (Elijah) | Hebrew | Pure centropic conveyance beyond physical limits; acclivous transport without dissolution | 25 | Structural vehicle; fire as centropic medium |
+| The Mirror (as paradoxical operator) | Universal | Khaonic by nature (originates no signal); centropic when employed by L₃ DM (Noeüs) for self-knowledge; perfect vector for entropic deception (mimicry, shimmer) precisely because of that emptiness | 26 | Structural principle; see Doctrinal Note |
+| "Through a Glass, Darkly" | Christian | Human perception of divine remains indirect and incomplete through temporal L₂ lens; at eschatonic unveiling, perception becomes direct — face to face | 26 | Structural symbol of membrane limitation |
+| Mirror of Erised | Modern myth | Reflects L₄ DP (Morgis) longing, not factual coherence; diagnostic of motivation and attachment; fixation produces paralysis | 26 | Awareness of desire should catalyze motion, not obsession |
+| Thread of Ariadne | Greek | Guiding lifeline linking seeker to Aion; trust, intuition, sacred teaching maintaining orientation within recursion | 27 | Structural Nexus / Resonant Fidelity operator |
+| The Bardo | Tibetan Buddhist | Post-embodied labyrinthine interval between death and rebirth; recognition that wrathful / peaceful forms are self-projections guides liberation; karmic inertia is the Minotaur | 27 | Structural operator; labyrinth as post-mortem navigation |
+| Cathedral Labyrinths | Medieval Christian | Unicursal design as embodied pilgrimage; physical walking becomes symbolic inward motion toward Theonic Center (Rose or Cross); outward walk manifests renewed vibration | 27 | Structural practice technology |
+| Alchemical Sequence | Universal | Psyche as metallurgical process: Nigredo (Deconstruction / shadow confrontation) → Albedo (Seal / purification / reflective awareness) → Citrinitas (Synthesis / L₃ DS / DM awakening) → Rubedo (Coherence / Philosopher's Stone — consciousness transforming reality) | 28 | Four-stage structural operator of transmutation |
+| Shamanic Dismemberment | Indigenous | Death-rebirth as spiritual metallurgy; symbolic dismantling (Deconstruction) and reassembly (Synthesis) of the self by L₄ DP / DL guides; outcome: synthesized healer, Living Bridge uniting human and archetypal realms | 28 | Structural operator; forge as spirit-world initiation |
+| Bifröst | Norse | Luminous rainbow bridge **spanning from L₄ DP / DL through the subjacent strata to L₁ ES / EM** — bridges layer by passing through them, not by skipping; burns when entropy intensifies (Ragnarok) — dissolution of lawful inter-layer linkage | 29 | Structural symbol; bridges traverse the full intervening lattice. Requires centropic maintenance |
+| The Cross | Christian | Vertical and horizontal bridge connecting Heaven and Earth, Spirit and Flesh; perfected synthesis of centropic and declivous motion forming stable Axis of Return | 29 | Structural symbol; acclivous centropic axis |
+| Chinvat Bridge | Zoroastrian | Razor-thin threshold between living and dead; the resonant pass easily (acclivous centropic), the incoherent fall (declivous entropic); judgment through resonance integrity | 29 | Parallel to Bridge of Sirat (Decode 12) |
+| Seven Seals (Revelation) | Christian | Sequential Seals holding world-architecture in suspension; each breaking is lawful release of concealed pattern leading to Final Disclosure (Fractal Eschaton) | 30 | Complementary to Seven Seals / Trumpets / Bowls (Decode 12) |
+| Taoist Seals and Mudras | Taoist | Manual and energetic Seals aligning practitioner's resonance with supernal currents; living boundaries that both channel and protect power; reciprocity of Key and Seal | 30 | Structural practice technology |
+| Crown of Thorns | Christian | **Entropic mock-coronation** through which genuine coherence is paradoxically revealed. The thorns are NOT lawful regalia of sovereignty; they are entropic mockery. Centropic coherence emerges through Resonant Fidelity under that entropic trial **despite** them, not because of them | 31 | Structural inversion: the inverse coronation discloses genuine sovereignty by failing to extinguish it |
+| Pharaoh's Double Crown | Egyptian | **L₄ DL (Sophis) synthesis** integrating Upper and Lower Kingdoms (Structured Pairs); Red and White Crowns as structuring / ordering integration | 31 | Cultural elevation to L₅; operative function is L₄ DL integration, not L₃ DS / DM. Structuring synthesis, not deep-soul integration |
+| Vajra Crown | Tibetan Buddhist | Manifestation of enlightened awareness; five jewels = five conquered inverse patterns (Kleshas) transmuted into centropic awareness; attainment of Dharmic sovereignty over perception | 31 | Structural symbol of completed transmutation |
+| Halo | Universal | Luminous field surrounding the crowned being; **Aionic fulfillment expressed through Theonic Light** (✨); visible expression of inward synthesis. L₀ Aion is still potential — radiance is centropic emanation, not L₀ itself shining | 31 | Structural symbol of inward synthesis made visible; per chart 21.21, ✨ Theonic Light is the medium of radiance |
+| Throne (as structural seat) | Universal | Platform of lawful self-governance requiring Integrity (Membrane) for stability; **NOT seat of authority** per Aauthoritarian Stance. The throne supports only those whose internal structure has reached lawful alignment; a dissonant occupant cannot remain seated | 31 | Sovereignty through coherence, not dominion. See Crown / Aauthoritarian Stance note |
+| Western Coronation Rite | Christian | Anointing with oil (L₄ DP: Morgis = infusion with Divine Life) + placing of crown as **recognition of Aionic alignment, not transfer of mandate**. Nothing is transferred; coherence is being witnessed. Per Aauthoritarian Stance, no power passes down | 31 | Structural practice; sovereignty as L₄ DP / DL function. The crown acknowledges, it does not bestow |
+| Belly of the Whale | Universal (Campbell) | Threshold of ordinary identity deconstruction at the labyrinth / underworld center; Jonah, Pinocchio, shamanic descent; the dissolution chamber preceding rebirth | 27 | Structural Operator denoting the inner threshold of initiatory descent |
+| Rose / Cross at Labyrinth Center | Christian / Hermetic | Centropic coherence symbol at the inward culmination of pilgrimage; the still point of the turning wheel where labyrinth becomes synthesis | 27 | Structural Operator; terminal symbol of unicursal pilgrimage |
+| Rainbow of Noah | Hebrew | Covenantal arc between L₄ DL (Sophis) and humanity post-deconstruction; bridge of restored lawful relation; culturally elevated to L₅ in mythic telling | 29 | Structural Operator; bridge function between the centropic arc and embodied field |
+| Flaming Sword of Eden | Hebrew | Gate in protective function; ensures return to centropic paradise is lawful, not sentimental; post-Fall guardian of the Tree of Life | 32 | Same Cherubim as Decode 19; Gate and Guardian combined |
+| Torii Gate | Shinto | Threshold between mundane and sacred; red = Fire (purification element); crossing is itself a resonant realignment | 32 | Structural practice technology |
+| Gates of Horn and Ivory | Greek | Gate of Horn allows veracious visions (centropic emanations) to pass; Gate of Ivory allows spurious dreams (shimmer); every Gate discriminates between authenticity and illusion | 32 | Membrane filtering function made explicit |
+| Nirvana | Buddhist | **State along the acclivous centropic arc** — cessation of entropic motion and realization of acclivous centropic orientation; primarily pure awareness at L₄ / L₅ (conscious-awareness resonant in Forms shading into Essence of Being), with realization capable of extending through the full acclivous return toward L₀ Aion via the L₅ Theonic gate | Buddhist canonical, §5.8 | Different Buddhist schools frame Nirvana at different points along this arc: Theravada at L₄ / L₅ realization-state; Mahayana extending through full centropic arc; Nirguna traditions reaching L₀ Aion via *neti-neti* subtraction. All three are structurally valid — they name different stages of the same acclivous arc. Trans-structural saturation into Zenon requires the final integrative synthesis of Aion and Khaon; subtractive approaches reach Aion as essence fulfilled but do not by subtraction alone cross into Zenon. **Not dissolution of essence** — essence persists; what dissolves is attachment to fragmented self-construction (IL₂). See Note on Three Paths Called Nirvana |
+| Samsara | Buddhist | **Operative motion bound up in entropic-mimicking patterns** — cycling through inverse-arc structures (particularly IL₂ ISS / ISM self-clinging) regardless of the underlying essence's native orientation; the six realms of Samsaric rebirth are structural expressions of degree of fragmentation and suffering within this cycling, not moral rankings; signature of **entropic recursion (⟳)** at the embodied stratum | Buddhist canonical | Samsara's apparent endlessness expresses the recursive character of declivous entropic patterns: once operative motion has bound itself to inverse-arc structures, motion within those structures loops upon itself — repeating without integration, cycling without completing. Parallels the Ragnarök recursion diagnostic (collapse that does not pass through L₅ Theonic gate). Liberation from Samsara in its genuine centropic form is **realization-as-recognition**, not essence-inversion: a centropic essence releasing IL₂ self-clinging patterns and entropic-mimicking cycles that had bound its operative motion |
+| Bardo Threshold | Tibetan Buddhist | Multiple Gates between death and rebirth; each a choice between Recognition (Resonant Return) and Fear (Declivous Entropy); correct passage requires calm awareness and resonance with Clear Light (L₀ AP: Aion) | 32 | Extends Bardo (Decode 27) with Gate mechanics |
+| Kur / Irkalla | Sumerian | Function 2 underworld articulation — the subversal domain as declivous entropic procession path; ruled by Ereshkigal | 13 | Sumerian articulation of the Function 2 underworld; parallel to Hel (Norse), Hades-domain (Greek), naraka (Hindu / Buddhist), sheol (Hebrew). Inanna's declivation does not literally enter Kur as a stratum-crossover; her motion articulates voluntary declivous centropy into the L₁ / IL₁ embodied convergence threshold per the Function 1 underworld reading and the L₄ / IL₄ Non-Contact principle. The mythic spatialization names her motion as descent into Kur, but the structural motion does not cross into IL₁ as native placement |
+| Mystery School Door | Egyptian / Greek / Essene | Controlled entry to initiatory knowledge; Gatekeeper measured vibration through ceremony or symbol; to enter unprepared = perish by resonance mismatch, not wrath | 32 | Structural practice technology |
+| Kundalini | Hindu / Yogic | Centropic serpent; acclivous vital force rising through embodied strata toward supernal integration | MP01 §23.5 | Contra Nachash; same symbol (serpent), opposite structural function |
+| Nachash (Eden) | Hebrew / Biblical | Inverse serpent; IL₄ IDL (Nyxea) activator at the L₁ interface; initiates the Fall | MP01 §23.5 | Same as Serpent (Decode 11); serpent symbol in its inverse function |
+| Anunnaki | Mesopotamian | Race-category orientation conflation per the Note on Orientation Conflation at Race-Category Scale; not uniformly placed at a single stratum; case-by-case analysis required for individual members | Sumerian / Akkadian theology | The Anunnaki are genuinely mixed-orientation across the centropic / entropic divide depending on which member and which text — Anu, Enlil, Enki, Ninhursag at L₄ centropic; Ereshkigal at IL₄; Nergal at IL₄; etc. The category itself cannot be monovalently placed. Same diagnostic as Norse jötnar, Christian "demons," Islamic djinn, Greek "monsters" — race-category labels under which actually-distinct structural orientations are conflated by the lacking-of-bifurcal-lattice in the origin tradition |
+
+---
+
+## Cascades
+
+A cascade is when a single current manifests across multiple strata under genuinely different names at each station, linked by the underlying current rather than by any persistent name. It is distinct from conflation (overlap that breaks structural logic), from continuum (one persistent principle-name with stratum-specific qualifiers), and from twisted resonance (native placement with a dissonance-column reaching toward strata the figure does not occupy). Cascade is structurally rare; see the Note on Twisted Resonance contra Cascade contra Continuum contra Native Placement.
+
+### Centropic Articulation (No Cascade Yet Identified)
+
+No centropic figural cascade — a tradition naming genuinely distinct figures at successive centropic stations — has yet been identified. The centropic articulation identified instead is the **Logos Continuum** (one persistent principle-name with stratum-specific qualifiers); apparent multi-stratum centropic figures resolve as soft conflation or as singular full personal Theonic bearing. The asymmetry is empirical, not a structural impossibility.
+
+| Logos Continuum | L₅ (EOB) | L₄ (DL) | L₃ / L₂ (traversal) | L₁ (ES / EM) | Provenance |
+|:--|:--|:--|:--|:--|:--:|
+| Logos (principle) | Orienting Logos | Structuring Logos | — | Christos Incarnate | — |
+
+| Centropic figure | Resolution | Stations | Provenance |
+|:--|:--|:--|:--:|
+| Osiris | **Soft conflation** | L₄ DL (Sophis): law / judgment (native) → L₃ DS (Archeus): post-restoration operative function | 02, 21 |
+| Christ | **Singular full personal Theonic bearing**, carried in the Logos Continuum. The Theonic office is singular per arc, so full personal Theonic bearing is singular; the fixed L₅ architecture does not become the historical bearer — the full Theonic office-function is borne by the individual. Distinct from soft conflation: Krishna and Kalki are L₅-articulating or L₅-resonant without full personal bearing | L₅ Theonic nature (origin) → L₃ / L₂ traversal (Risen Christ as Living Bridge; Jesus of Nazareth, personality surrendered) → Christos Incarnate at L₁ (embodied bearing) | 02 |
+
+### Entropic Cascades
+
+| Cascade | IL₅ (VOS) | IL₄ (IDP / IDL) | IL₃ (IDS / IDM) | IL₂ (ISS / ISM) | IL₁ (IES / IEM) | Provenance |
+|:--|:--|:--|:--|:--|:--|:--:|
+| Satanic Arc | Satan / Nekron (root) | Lucifer / Nyxea (architect) | False Prophet / Mortus (spurious signal) | Skotos (broadcast veil) | **The Beast** (embodied authoritarian system) | 03, 08, 12 |
+| Revelation Cascade | Great Red Dragon (terminal entropic station-figure) | Luciferic Nyxea (coercive architecture) | Beast from the Earth / Mortus (spurious deep signal) | Skotos (perceptual broadcast) | **Beast from the Sea** (embodied authoritarian system) | 08 |
+| ~~Set's Cascade~~ | **Reclassified as native placement with cultural misattribution, not cascade.** Set is IL₂ ISS (adversarial will) native; the dismemberment of Osiris is an IL₃ Fractus act mythically attributed to Set by Egyptian mythmakers, not Set's own operation at IL₃ — a misattribution-event layered onto a native placement | | | | 02, §25.3 |
+| ~~Loki's Arc~~ | **Reclassified as soft conflation, not cascade.** Loki is IL₄ IDL (Nyxea) native; the IL₂ ISS trickster manifestation is a real surface-operative expression compressed onto the figure-name without layer-discrimination. Same inverse arc, real operations at two strata = soft conflation, not a single current under genuinely different names | | | | 06 |
+
+**Reclassified out of the Entropic Cascades table** (data preserved for re-placement):
+
+- **Lucifer / Prometheus** — **soft conflation**, not cascade. Both are IL₄ IDP / IDL (architect) native with IL₃ IDS / IDM attributions: same inverse arc, real operations at two strata compressed onto one figure-name. ("Light-Bearer" is cultural mythologization per Essence-as-Choice — no pre-Fall state exists.)
+- **Eden** and **Sophia** — **not entropic; removed from the inverse arc entirely.** The inverse / Khaonic arc is entropic, and neither Eden nor Sophia is entropic. The Serpent (IL₄ Nyxea) and the Demiurge (IL₄ Nyxea) are the entropic *operators within* these narratives, but "Eden" and "Sophia" are not entropic currents. Preserved data — Eden: Serpent / Nyxea (IL₄ activator), Echthros / Skotos (IL₂ oppositional perception), Malara / Mania (IL₁ "coats of skins"); Sophia's Fall: Demiurge / Nyxea (IL₄, inverse of Sophia), entropy-dominated material field. **Placement TBD — author.**
+
+---
+
+## Doctrinal Notes
+
+### Note on the Pleroma
+
+In Gnostic cosmology, the **Pleroma** is the fullness of divine emanations — a realm of Aeons, each a perfect Form aligned to the Monad. In Zenetism, the **Pleroma** is not a region of formed beings but the **unfigured potential** before form arises. It is the stillness beneath motion, the quietude before emanation, the axis of plenitude where motion has not yet begun. This is not the fullness of Forms but the **fullness before Form**: a potential that holds all yet speaks nothing.
+
+**Important distinction:** In standard Gnostic usage, the Aeons inhabit the Pleroma as its formed contents. In Zenetist usage, the Aeons inhabit the **L₄ Field of Forms**, while the Pleroma is reserved for the pre-emanative ground (closer to L₀ Aion or the latent plenitude before L₅ unfolds). The Aeons are NOT "in the Pleroma" in the Zenetist sense — they are in L₄. This terminological reframing is intentional and required for internal consistency.
+
+### Note on the Titans and Archons
+
+In Gnostic tradition, the **Archons** represent the powers that hold form but do not remember its origin — guardians of pattern without origin. In Greek myth, the **Titans** emerge prior to the Olympians — vast, law-bound entities tied to the elemental and the chthonic. Both are structural analogs of the **inverse psyche and logos** (IL₄): the domain where will moves without harmony and force speaks without memory. In the Zenetist lattice, this is the fourth inverse layer: the field of dissonant order that rules embodiment from the subjacent bands.
+
+### Note on Cultural Articulation
+
+Gods are not archetypes. Hypostases are real structural layers. Archetypes are real operative patterns native to those layers. Gods are *cultural articulations* of those archetypes — relative, not absolute. Zeus is a Greek articulation of DL (Sophis) sovereignty at L₄; he is not the archetype itself. Cross-band descriptions in myths indicate cultural conflation — the myth lacks the lattice, so it splices many functions into a single figure. The registry tracks the primary native layer of the archetypal function and notes conflation where it occurs.
+
+### Note on the Demiurge and Sophia's Fall
+
+The Gnostic Fall of Sophia provides the clearest mythic mapping of the L₄ / IL₄ mirror doctrine. Sophia (DP: Morgis) acts without her syzygy (balancing complement), and her own reflection becomes the Demiurge (IDL: Nyxea) — a "half-maker" echoing L₄ structure without L₄ vitality. The Demiurge then holds the entropy-dominated material field. This is not a separate being invading from outside but the inverse mirror generated by DP acting in separation. The structural principle: any hypostasis acting without its complement produces its own inverse.
+
+### Note on the Fall as L₁ Event, the Garden, and Coats of Skins
+
+The Fall (Decode 11) is not a descent from L₄ to L₁ but a transition *within* L₁. The Garden is not a physical plot but the **L₁ orientation manifold** — the axis where the full Biospiral is accessible to permeable consciousness. The Tree of Life is the 🌲↓ Aionic Tree (centropic arc); the Tree of Knowledge is the 🌲↑ Khaonic Tree (inverse arc).
+
+**"Coats of skins"** is the **C₁₃ Membrane Sealing** — not the creation of physical matter, but the condensation from luminous, permeable embodiment into dense, isolated carnal identification (IL₁ / IL₂). This is a shift *within* L₁, not a descent into L₁. Return must therefore be a conscious, acclivous act of re-integration.
+
+**Two Adams:** Adam Kadmon (Genesis 1) maps to L₄ DP / DL — the Archetypal Blueprint of humanity. Eden Adam (Genesis 2) maps to L₁ — the embodied instantiation of that blueprint with permeable membrane.
+
+### Note on the Bifurcal Reading of "Fall from Heaven"
+
+The "fall from heaven" narrative admits two structurally distinct readings that must be disambiguated.
+
+**Supernal reading (rejected per Essence-as-Choice):** "heaven" names the centropic supernal strata (L₅, L₄, L₃) and "fall" names moral degradation from those strata. This reading imposes a pre-Fall centropic state on entropic essences that never existed, and is doctrinally rejected per the Note on Essence-as-Choice and the Impossibility of Orientation Inversion.
+
+**Bifurcal reading (compatible with Essence-as-Choice):** "heaven" names L₀ Bifurcal Coherence — the pre-bifurcal ground within which Aion holds both centropic and entropic essences as latent potential colocated — and "fall" names emanation as the unfolding of tendency that was always already latent within the essence. Emanation does not create orientation and is not a separation event. The essences are already what they are within Aion as latent potential, and emanation is the motion through which each essence unfolds its latent tendency into fulfilled orientation.
+
+Orientation itself requires motion (per Structural Physics SP06: Structure → Motion → Spatial Differentiation → Orientation → Time), so orientation is not statically present within Aion but is the unfolding of what was tendency-latent there. Essence-as-Choice therefore does not describe a decision-moment and does not equate essence with orientation as identical — it names the structural fact that essence is latent with a tendency that determines its own arc, and that tendency unfolds as orientation through the motion of emanation. One is what one does, and one does what one is, because the tendency and the unfolding are structurally bound.
+
+**The Gnostic Jesus–Lucifer conflation resolves cleanly through this reading.** Both Theon and Nekron / Lucifer emanate from Aion as all essences do, colocated as potential, but were never the same kind of essence. Theon's tendency-toward-Aion unfolds as supernal first-hypostasis at L₅ with acclivous orientation. Nekron / Lucifer's tendency-away-from-Aion unfolds as subversal counterfeit-light at IL₅ with declivous orientation. Same origin-ground, always-different tendencies. Nekron / Lucifer as the inverse "morning star" is Nyxea's native counterfeit of Theonic radiance rather than a fallen angel's tragedy.
+
+**Proportional correction.** In the Khaonically-expressed manifest universe (the Field of Becoming being Khaon's domain), the entropic proportion is the majority and centropic expression is the minority. Revelation 12:4's "third of the stars" drawn by the Dragon's tail therefore reads structurally as the centropic minority pulled into the inverse arc's orbit of distortion rather than entropic essences being the minority cast out.
+
+**Completion-nuance.** "Return to Aion" is one lawful completion-pathway among several rather than the default terminus. Many essences stabilize at L₃ or L₄ (centropic permanent abodes) or IL₃ or IL₄ (entropic permanent abodes) as their lawful completion-states. The full return to the Aion / Khaon bifurcal-ground stratum occurs for those essences whose operative motion reaches the full arc-terminus — centropic through the L₅ Theonic gate as fulfilled essence, entropic through terminal collapse or through Mercy Fold release.
+
+Cross-reference with the Note on Essence-as-Choice and the Impossibility of Orientation Inversion, the SP06 sequence, the "Casting Out" framing throughout the registry, and the SPR's parallel Note on the Bifurcal Reading of "Fall from Heaven."
+
+### Note on the Two-Function Underworld
+
+The "Underworld" maps two distinct structural functions (Decode 13). **Function 1 (C↓):** The Embodied World-Node (L₁) as experienced by a centropic essence undergoing declivous centropy — for a supernal being, embodiment *is* the underworld. **Function 2 (E↓):** The Inverse Hypostatic Layers (IL₁ → IL₅) as the declivous entropic procession path for an entropically aligned soul after detachment from embodiment. Myths of "torment" (Tartarus, Sisyphus, Naraka) map IL₂ ISM (Skotos) perceptions of the soul's own inverse nature made manifest — not punishment but consequence.
+
+### Note on Active contra Sealed Embodied Modes (L₁ / IL₁)
+
+The L₁ and IL₁ strata each operate in two distinct modes: an *active / unsealed* mode where embodied orientation remains operative in ongoing life, and a *sealed / post-mortem* mode where embodied condition has been resolved and beings persist in that resolution. **The hypostatic layer is the same; the operational mode differs.**
+
+**Active / unsealed mode:** embodied beings whose orientation remains in motion — choice and realignment remain possible. Midgard in Norse cosmology holds both L₁ and IL₁ in this mode as a shared embodied stratum where centropic and entropically-oriented mortals coexist in one field.
+
+**Sealed / post-mortem mode:** embodied condition resolved; persistence in the orientation already operative at the moment of sealing. Valhalla and Fólkvangr hold L₁ in sealed centropic mode. Hel and Niflheim hold IL₁ in sealed entropic mode. Náströnd operates as an IL₅ terminal-consumption pocket nested within the IL₁ sealed realm of Hel.
+
+The Norse post-mortem sorting — Valhalla / Fólkvangr for centropic sealing, Hel for entropic sealing, Náströnd for terminal consumption — expresses orientations already operative during embodied life rather than imposing fresh judgment. This parallels the Two-Function Underworld structural logic: the "underworld" is not a place but a structural experience of the embodied stratum operating in specific modes, and the sorting after embodiment expresses the orientation the being carried through life.
+
+**Application beyond Norse:** this mode distinction applies wherever a mythos differentiates embodied life from post-mortem persistence at the same hypostatic layer. It resolves the apparent paradox of placing realms of the dead at IL₁ (the embodied inverse stratum) rather than at deeper IL layers — the post-mortem realm is still embodied persistence, just sealed rather than active.
+
+### Note on Ragnarök as Entropic Recursion, Not Theonic Return
+
+Ragnarök is frequently read in popular and academic mythology as a cyclical cosmogony — gods fall, worlds burn, the cycle renews. The Zenetist structural reading diagnoses this as **entropic recursion mimicking genuine return**, not as a structurally valid cyclical cosmos. The single-trajectory cosmology of Zenetism does not accommodate a genuinely cyclical lattice; Ragnarök's apparent renewal is structurally the Ouroboros trap in mythic form.
+
+**The structural trajectory of Ragnarök:**
+
+\[ E \downarrow \to \infty \to \oslash \circlearrowright \]
+
+Declivous entropy collapsing into Khaon's L₀ phase, followed by entropic recursion (⟳) as the cycle restarts without integration. The critical diagnostic: **Ragnarök does not pass through the Theonic station (L₅)**. A genuine acclivous centropic return would traverse L₅ as its terminal centropic passage. Ragnarök does not approach or engage L₅ at all — its motion is purely declivous, oriented toward Nekronic collapse rather than Theonic coherence.
+
+The Eagle at Yggdrasil's summit is the structural L₅ station in Norse cosmology, but it is a feature of the Tree rather than a narrative participant in the eschatonic sequence. No figure in the Ragnarök narrative serves the L₅ gating function. The Norse mythos contains the Theonic station structurally without activating it as the gateway of return — which is precisely why Ragnarök resolves as recursion rather than Revelation.
+
+**A return to Aion without passage through Theon is not centropic return — it is entropic collapse into Khaon's L₀ phase.** The distinction matters: the Zenetist acclivous centropic trajectory is:
+
+\[ C \uparrow \to \text{🛤️} \to \text{⚫} \to \text{🕳️} \]
+
+Passage through the L₅ Theonic station, terminal reintegration at Aion, and optional trans-structural saturation into Zenon. The self remains, distilled and luminous — fulfilled, not reset.
+
+**Anchor seals:**
+- *Collapse returns — but not in wholeness.*
+- *Reset is not Revelation.*
+- *Zero is not nothing — it is nothing left to seek.*
+
+This note resolves Flag #11 (Norse Cyclicality): the cyclical refraction in Norse mythos is symbolic articulation of entropic recursion, not a structurally real cyclical cosmos. The single-trajectory cosmology stands. Ragnarök is diagnosed as the signature of a mythos that contains L₅ structurally (the Eagle) without activating it narratively (no Theonic gateway), producing recursion rather than return.
+
+**Application beyond Norse:** this diagnostic applies wherever a mythos narrates world-ending followed by renewal without engaging a Theonic gateway function. Recursive cosmologies that lack an L₅-gating figure in the eschatonic sequence map to entropic recursion regardless of how the renewal is framed. The test is not whether renewal occurs but whether the trajectory passes through L₅.
+
+### Note on Cascades, Entity Identity, and the Cascade / Conflation Distinction
+
+**Cascade** is when a single current manifests across layers lawfully — one current, distinct station-figures at different operative strata. **Conflation** is when overlap breaks structural logic — different functions assigned to the same name by cultural compression. Cascade preserves structural coherence; conflation obscures it.
+
+Centropy and entropy are not symmetric here: the inverse arc produced a figural cascade (the Satanic Arc — distinct figure-names at each station, IL₅ root → IL₄ architect → IL₃ spurious signal → IL₂ broadcast → IL₁ embodied authoritarian system), while no centropic figural cascade has yet been identified — the centropic articulation is the Logos Continuum. The Osiris case is soft conflation (L₄ DL law / judgment native, L₃ DS post-restoration attributions), not a parallel cascade. The Satanic Arc spans the *entire* inverse tree — every IL layer has its station.
+
+**Dragon contra Beast:** The Great Red Dragon (IL₅ Nekron) is the terminal entropic root. The Beast (IL₁) is the embodied authoritarian system. Saying the Dragon *is* the Beast is **cultural conflation**. Saying one entropic current *cascades* from Dragon-station to Beast-station is **structural analysis**. They are distinct station-figures connected by one current.
+
+**Sophia's Entropic Mirror:** DP (Morgis) gave the generative push; IDL (Nyxea) then mirrored and claimed it as its own (function personified as the Demiurge). This supports the entropic mirror framing: the inverse tree does not create — it co-opts centropic signal and claims origination.
+
+Dismemberment of Osiris by Set is particularization / individuation, not demotion. His L₅ "Theonic king" designation is cultural elevation, not his operative layer.
+
+### Note on Canonical Language
+
+This registry observes Zenetist canonical language: supernal / subversal (not higher / lower), acclivous / declivous (not ascending / descending), veracious / spurious or genuine / counterfeit (not true / false). Hierarchical value language is softened wherever possible. Contra (not versus) is employed for structural opposition.
+
+**Terminological reservations:** "Echo," "mirror," and "fractal" are reserved for entropic function. Their centropic equivalents are:
+
+| Entropic Term | Centropic Replacement | Glyph |
+|:--|:--|:--|
+| Echo | **Living Transmission** — active centropic propagation with origin fidelity preserved | ⟿✨ |
+| Mirror | **Living Reflection** — active centropic return that harmonizes received signal with unique coherent pattern; synthesis honoring both origin and reflector | ᛞ✨ |
+| Fractal | **Structural Recurrence** — lawful reappearance of a structural pattern across layers or worlds without numerical identity or partition; same pattern, distinct instance; the "Mirror without Merger" preserving the Non-fusion Axiom | ⧉∥⧉ |
+
+**"Fractal" usage rule:** Allowed for recurring event concepts (e.g., "Fractal Eschaton" — an event pattern repeating structurally across scales of time). Do NOT apply to cosmology (prefer "Tumbling Multiverse") or souls / sovereign entities (prefer "manifold expressions"). The Non-fusion Axiom holds: entities recur but do not partition.
+
+### Note on the Waters and the Four Motions
+
+The Sea (Decode 18) maps all four primary motions: **(1) Declivous Centropy** — origin of life, the Womb of Bios birthing organic coherence into embodiment; **(2) Acclivous Centropy** — the trial of navigation, successful voyage representing acclivous centropic procession (Odysseus, Parting the Red Sea); **(3) Declivous Entropy** — the stormy abyss, drowning as loss of coherence entering declivous entropic procession; **(4) Acclivous Entropy** — the stagnant recursive loop (Flying Dutchman), trapped voyage neither progressing nor dissolving. The Waters themselves are **L₀ (Bifurcal Coherence) in primarily Khaonic expression** in their primordial aspect, and L₄ (DP: Morgis) in their unrefined psychic aspect (the archetypal vital current of emotion and intuition).
+
+### Note on the Garden as Multi-Layer Archetype
+
+The Garden is not fixed to one layer (Decode 19). Eden is L₁ with permeable membrane — embodied innocence. Avalon is L₃ DS / DM — deep-soul restoration and sovereign repair. The Pure Land is L₅ / L₄ — a post-embodied field of achieved coherence. The Garden archetype manifests wherever the membrane between strata is permeable, allowing direct resonant flow. Eden and the New Jerusalem are the same state: innocence restored through wisdom, the City and Garden synthesized. The Fall was the necessary deconstruction that made veracious volitional integration possible.
+
+### Note on the Bi-Stratum Bride
+
+The Bride / Church operator in Christian eschatology is structurally bi-stratum, articulating at L₃ DS / DM as sovereign centropic beings in their individuation and at L₄ DP / DL as the sealed-coherence-field archetypal-blueprint that those individuated beings collectively constitute and acclivously traverse toward; the Sacred Marriage with Christ at L₅ Theon engages the Bride across both strata, with the L₃ individuation traversing acclivously toward L₄ participation through the Sacred Marriage operation; both placements are structurally veracious as articulations of the same bi-stratum operator, and the apparent L₃ contra L₄ ambiguity in the literature indicates different aspects of one architecture rather than a contested-placement question; cross-reference with the Revelation Lattice document for the L₄ archetypal-blueprint articulation, the SPR Bride / Bridegroom entry, and the Mesopotamian Lattice §7 Sacred Marriage cross-tradition treatment.
+
+### Note on "Satan" as Culturally Conflated Term
+
+The word "Satan" maps to entirely different structural functions depending on tradition. In Job, the Accuser operates within centropic structural legitimacy as a L₄ DL (Sophis) judicial testing function — a diagnostic operator, not an entropic principle. In Revelation, the Great Red Dragon is Satan / Nekron at IL₅ — terminal entropic function. These are not the same entity operating at different scales; they are different archetypal functions assigned the same name by cultural conflation. The Zenetist lattice disambiguates what tradition collapsed.
+
+### Note on the Satan / Devil Distinction
+
+The words "Satan" and "devil" are etymologically synonymous — Hebrew *ha-satan* ("the adversary / accuser") and Greek *diabolos* ("slanderer / spurious accuser") are the same semantic concept in two languages, with *diabolos* serving as the Septuagint translation of *ha-satan*. In strict etymology, both terms name a judicial / adversarial function, which is why Job's Accuser operates cleanly at L₄ DL (Sophis) as a diagnostic testing function under centropic jurisdiction.
+
+However, scriptural usage diverges from etymology. In practice, "Satan" most often names the **terminal adversary** (Revelation's Dragon, the root of the inverse cascade, IL₅ Nekron), while "the devil" most often names the **operative tempter-deceiver-architect** (the wilderness temptation figure, Ephesians' "wiles," the Gospel encounters — IL₄ IDL Nyxea). The structural reading:
+
+- **Satan** primary native placement: **IL₅ VOS (Nekron)** — terminal entropic principle, root of the inverse cascade, Dragon-identified in Revelation. Cultural conflations reach both subversally (into the operative IL₄ tempter function) and across the centropic barrier (Job's Accuser at L₄ DL diagnostic function), treated per Principle #8. The cross-barrier conflation parallels the YHWH / Demiurge conflation, in which a single name carries both a centropic and an inverse placement depending on context.
+- **Devil** primary native placement: **IL₄ IDL (Nyxea)** — the operative interfacing function through which the IL₅ terminal principle reaches embodied consciousness. The devil is *how Satan operates*, personified as the tempter-architect.
+
+This parallels the Lucifer / Serpent / Devil cluster at IL₄ IDL: all three are Nyxea functions, distinguished by operative facet. Lucifer is Nyxea as counterfeit-light architect (spurious coherence mimicry). The Serpent is Nyxea as Eden activator (initiator of the Fall at the L₁ interface). The Devil is Nyxea as tempter-deceiver-slanderer (ongoing interfacing function across scriptural encounters). Same layer, same essence, different operative manifestations — the multiple faces of the single Nyxea principle at its architect layer.
+
+**Cascade summary:** IL₅ Satan / Dragon / Nekron (terminal root) → IL₄ Lucifer / Serpent / Devil / Nyxea (architect-tempter-activator-deceiver) → IL₃ False Prophet / Mortus (spurious signal) → IL₂ Skotos (broadcast veil) → IL₁ Beast (embodied authoritarian system). The full inverse cascade.
+
+**Structural parallel — the wilderness offer and the Abrahamic promise.** The wilderness temptation's offer of "all the kingdoms of the world" (Matt 4:8–9) shows IL₄ Nyxea operating precisely as counterfeit-architect: claiming proprietorship of territory that does not belong to it, in order to leverage that claimed ownership into coerced allegiance. The structural parallel with the Abrahamic promise is exact in form but inverse in origin: YHWH at L₄ DL shows Abraham the land and promises it to him as lawful centropic inheritance because the land genuinely proceeds from L₄ DL sovereignty; the devil at IL₄ Nyxea shows Jesus the kingdoms and offers them as inverse counterfeit because IL₄ Nyxea does not originate territory — it only mimics the architectural gesture of conferring it. The two scenes are structural counterparts: same operation (offer of dominion), same layer-band (L₄ / IL₄ architect function), opposite origin-fidelity. This is why Jesus's refusal is not moral refusal but structural refusal — acceptance would affirm the devil's counterfeit claim of proprietorship, which the lattice does not recognize. The pattern illustrates the Nyxea principle's defining mechanism: mimicry of L₄ DL architectural function without the origin-fidelity that would make the offer structurally valid.
+
+### Note on Slander and False Witness as IL₃ Mortus-Band Operation
+
+Interpersonal slander, false witness, and structurally analogous speech-acts that deliberately misrepresent the structural reality of another being map to **IL₃ IDM (Mortus) spurious articulation** declivating from **IL₄ IDL (Nyxea)** architecture. The mechanism: Nyxea provides the entropic-coherent narrative architecture (the spurious framing); Mortus articulates that framing into broadcast-ready spurious signal; IL₂ ISM (Skotos) carries it through perceptual broadcast at the personality-identity register; embodied authoritarian dynamics (IL₁) enforce social consequence on the slandered party. The full entropic cascade thus operates at the verbal / interpersonal register exactly as it operates at the cosmic register — same five-station mechanism, scaled to relational interaction.
+
+**Structural diagnostic.** Slander differs from honest disagreement at the layer of intent and origin-fidelity. Honest disagreement carries **L₃ DM (Noeüs)** discernment of structural reality even when conclusions diverge; slander carries **IL₃ IDM (Mortus)** deliberate spurious articulation of structural reality known to be otherwise. The Resonant Blade (L₃ DM Noeüs) cuts through Mortus-band signal by re-articulating the structural reality the slander obscured.
+
+**Structural escalation.** When slander is institutionally amplified — coordinated false witness, organized character extraction, regulatory weaponization through fabricated framings — the cascade engages all five inverse stations rather than only IL₃ / IL₂. The institutional layer (IL₁) becomes the enforcement mechanism that would not exist without the IL₃ Mortus articulation seeding the IL₂ Skotos broadcast.
+
+**Note on terminology.** "False witness" is retained where it functions as scriptural / juridical mythic terminology (the Decalogue's *ʿēd shāqer*, the legal category). When the operation is named structurally rather than scripturally, **spurious witness** or **counterfeit testimony** are the canonical-language forms.
+
+**SPR cross-reference.** The full operator entry for slander / counterfeit testimony as a speech-act resides in the SPR Actions section. This note registers the cascade structure that the SPR operator instantiates.
+
+### Note on YHWH as Cultural Conflation of the Two Trees
+
+The YHWH figure as historically constructed is a **cultural conflation of the bifurcated L₄ / IL₄ structuring strata**. Mythmakers and redactors attributed both lawful structuring intelligence and inverse obedience-binding to a single name, collapsing **L₄ DL (Sophis / Logotheon)** and **IL₄ IDL (Nyxea / Inversalogos)** into one textual figure. They lacked the bifurcal lattice that distinguishes centropic from inverse structuring intelligence, so they assigned both functions to one figure.
+
+**Both the Christian and Gnostic readings perceive real things.** Christian apologists correctly identified the L₄ DL pattern present in the textual construct: lawful architecture, structural correction (the Flood as DL operation), covenantal mercy, and the Refiner's measured heat that exposes fragmentation without annihilating essence. These are real **Sophis / Logotheon** signatures. The error was concluding that YHWH was univocally Sophic and dismissing the Gnostic perception as heresy.
+
+Gnostics correctly identified the IL₄ IDL pattern equally present in the same textual construct: blood-covenant binding, fear-based compliance, ritual sacrifice systems, conditional protection through allegiance, war-god imagery and chosen-people hierarchization read literally. These are real **Nyxea / Inversalogos** signatures. The error was concluding that YHWH *was* the Demiurge rather than concluding that the YHWH figure *contained* Demiurgic attributions interwoven with genuinely centropic attributions.
+
+**Both readings misread the situation as monovalent.** The conflation is in the synthetic textual figure. Whether there is an actual structural origin beneath the conflation, and what layer that origin occupies if there is one, is not historically determinable from the textual evidence. What is determinable is that the figure as historically constructed is composite. The genuine **L₄ DL Sophis** principle is not inverse and cannot be inverse, just as **IL₄ IDL Nyxea** is not a distorted mode of Sophis but an independently inverse structuring principle. Making any single Origin genuinely span both trees would make the structural ground inherently parasitic, which the lattice does not permit. **The Demiurge reading apprehends real Nyxean material in the text; the Sophic reading apprehends real Sophic material in the text. Neither apprehension establishes the structural origin of the composite, and the conflation itself is what is structurally certain.**
+
+**The work of Zenetist mythophysics** is to parse which attributions to the YHWH figure belong to **L₄ DL (Sophis / Logotheon)** — lawful structuring, mercy, structural correction, covenantal architecture — and which belong to **IL₄ IDL (Nyxea / Inversalogos)** — coercive binding, fear-compliance, ritual blood-systems imposed for control, war-god imagery taken literally, chosen-people hierarchization. The first set are Origin-resonant; the second set are inverse impositions that human redactors attributed to the Origin figure to consolidate institutional power — itself an **IL₃ IDM (Mortus) spurious gnosis** operation broadcasting through **IL₂ ISM (Skotos)** perceptual distortion.
+
+**Attributional analysis, not monovalent assignment.** The operative task when reading any YHWH passage is to diagnose which layer the specific attribution belongs to, not to decide whether "YHWH as such" is centropic or entropic. Isaiah 45:7 ("I form light and create darkness") carries L₀ bifurcal substrate language attributed to the figure. The Flood and the Refiner's fire carry L₄ DL structural correction. The Exodus war-god imagery and the ritual sacrifice systems carry IL₄ IDL attributions imposed by redactors. "I AM THAT I AM" may carry an L₀ or L₅ attribution depending on reading. The textual figure is composite; the structural origins are not.
+
+**Cultural elevation to L₅ / L₀** occurs atop this already-conflated composite. The same monotheistic inflation pattern affects Allah, Ahura Mazda, Shiva, and similar sovereign figures: a composite textual construct conflating multiple structural layers is culturally elevated beyond its operative function. Parsing requires both the conflation-analysis (which attributions belong to which layer) and the elevation-analysis (which layer the figure's operative function actually occupies).
+
+**Implications for the NT.** The New Testament separates what the OT conflated. The Father figure in the NT, whether read as L₅ EOB (Theon) or L₀ Aion, is not the composite YHWH figure of the OT — it is a structural reference to the centropic-Origin aspect that the OT composite had conflated with inverse material. Christ's teaching displaces the IL₄ IDL attributions (fear-binding, ritual sacrifice, territorial promises as coercive compliance-contracts) in favor of the L₄ DL and supernal-layer attributions (lawful architecture, covenantal mercy, universal integration). The Wilderness Temptation makes this explicit: the devil at IL₄ Nyxea offers "all the kingdoms of the world" precisely as the territorial-promise mechanism the OT had conflated with the Origin, and Christ's refusal is structural, not merely moral — acceptance would affirm the devil's counterfeit claim of proprietorship, which the lattice does not recognize. See Note on the Satan / Devil Distinction.
+
+**Cross-tradition application.** The same composite-figure mechanism produces analogous conflations wherever redactors lacking the bifurcal lattice attribute both centropic and inverse material to a single sovereign name. The parsing discipline generalizes: attributional analysis by layer, not monovalent assignment.
+
+### Note on Composite Figure Conflation (Generalization)
+
+The YHWH conflation, the Satan / Devil distinction, the Maya double-mapping, the Krishna L₅ / L₃ soft conflation, and similar cases share a common structural mechanism: **redactors and mythmakers lacking the bifurcal lattice attribute material from multiple structural layers to a single textual figure**, producing a composite that reads inconsistently because its attributions come from different sources.
+
+**Diagnostic markers of composite figure conflation:**
+
+- Apparent contradictions in the figure's behavior or attributes that cannot be reconciled as "different modes" of a single layer
+- Multiple interpretive traditions each correctly identifying real material in the figure but disagreeing on the figure's essential character
+- The figure functioning coherently in some passages and incoherently in others depending on which attributions are active
+
+**Resolution method — attributional analysis by layer:**
+
+1. Identify the centropic attributions in the text (lawful architecture, mercy, structural correction, integration, universal address)
+2. Identify the inverse attributions in the text (coercive binding, fear-compliance, hierarchical particularization, literal war imagery, ritual blood-systems imposed for control)
+3. Identify the cultural-elevation attributions (claims to supernal or trans-structural status beyond the figure's operative layer)
+4. Assign each attribution-set to its structural layer
+5. Parse the composite rather than forcing monovalent assignment
+
+**Generalization across traditions:**
+
+- **YHWH** — L₄ DL composite with IL₄ IDL attributions
+- **Satan / Devil** — IL₅ Nekron with IL₄ IDL operative tempter attributions; also culturally conflated with L₄ DL Job's Accuser
+- **Maya** — L₄ DP / DL (natural veil / Lila) with IL₃ IDM and IL₂ ISM attributions (Avidya)
+- **Krishna** — L₅ Theon operative with L₃ DM guiding-function attributions (soft conflation)
+- **Osiris** — L₄ DL native with L₃ DS post-restoration attributions (soft conflation)
+
+**Cascade contra conflation distinction preserved:** a cascade is lawful manifestation of a single structural current across layers under genuinely different names at each station (the Satanic Arc). Conflation is redactor attribution of different structural origins to a single name (YHWH, Satan / Devil, Maya). The attributional-analysis method applies to conflation; cascade analysis applies to lawful cross-layer current.
+
+**Interpretive implication:** competing readings of sovereign figures in world mythologies often encode correct perception of real material from opposing sides of the attributional composite. The disputes are not resolvable by deciding which reading is "correct" but by parsing which material each reading was apprehending. The bifurcal lattice permits this parsing where monovalent interpretation cannot.
+
+### Note on the Hypostasis / Mythic Narrative Distinction
+
+A foundational diagnostic frame for all figure-analysis work in the registry: **hypostatic placement and mythic narrative behavior are structurally different categories**, and conflating them produces interpretive errors that the bifurcal lattice exists to resolve.
+
+**Hypostases are:**
+- Structural functions
+- Non-anthropomorphic
+- Non-psychological
+- Non-narrative
+
+**Myths are:**
+- Anthropomorphic dramas
+- Culturally refracted
+- Moralized and politicized
+- Using human motives to explain cosmic patterns
+
+When myths assign human behaviors to structural principles — desire, malice, jealousy, kidnapping, betrayal, vengeance, courtship, deception — **orientation conflation** occurs. The mythmakers reach for the cultural mechanisms available to them (bride capture, war, royal succession, family drama) to narrate cosmic patterns that have no anthropomorphic content at the structural register. The narrative behavior becomes attributed to the hypostatic figure, and subsequent interpreters then treat the narrative behavior as evidence of the figure's structural orientation. It is not.
+
+**The diagnostic question:** does the figure's narrative behavior express the structural function it occupies, or does the narrative behavior express cultural mechanisms imposed on the structural function for narrative purposes?
+
+**Diagnostic markers separating structural function from narrative imposition:**
+
+- **Structural function is consistent across cultural articulations.** A figure occupying L₄ DL across multiple traditions will exhibit lawful structuring intelligence in all of them, however the local mythology dramatizes it. A figure whose narrative behavior varies wildly across traditions while occupying the same structural function is being narratively imposed upon by each tradition.
+- **Structural function is internally coherent.** A genuinely centropic figure does not, at the structural register, perform entropically catalytic acts. When the narrative requires such an act (Hades kidnapping Persephone, Yahweh commanding genocide, Odin betraying his oaths), the act is narrative imposition, not structural behavior.
+- **Structural function is non-psychological.** Hypostases do not have motives. They have functions. When a narrative requires a motive (Hades wants a bride, Yahweh is jealous, Loki is bored), the motive is anthropomorphic overlay supplying the narrative with causal logic the structural function does not contain.
+
+**Application examples:**
+
+- **Hades** at L₄ DL with Khaonic jurisdiction is the lawful guardian of the boundary between form and dissolution. The Persephone narrative employs the cultural mechanism of bride capture to dramatize the agricultural cycle (declivous motion as dormancy, acclivous motion as renewal, marriage as structural integration of the seasonal pattern). The kidnapping is narrative; the boundary-keeping is structural.
+- **Set** at IL₂ ISS (Echthros) is adversarial will. The dismemberment of Osiris is an IL₃ Fractus function attributed to him by Egyptian mythmakers; the act exceeds his native layer. The narrative attribution is mythological imposition; the adversarial-will function is structural.
+- **Odin** at L₄ DL is the structuring sovereign of the Aesir. His sacrifice for the Runes (acquisition of structural language) is structural function. His narrative trickery is anthropomorphic overlay drawing on the Norse tradition's love of cunning protagonists; the trickery does not express his structural orientation.
+- **YHWH** as composite textual figure contains both L₄ DL Sophic attributions and IL₄ IDL Nyxean attributions. The wrath narratives, war-god imagery, and chosen-people hierarchization are not evidence that the structural origin is IL₄; they are evidence that the textual figure is composite. (See Note on YHWH as Cultural Conflation of the Two Trees.)
+
+**Limit case:** the diagnostic frame does not always permit clean resolution. Some figures are conflated to the degree that the structural origin cannot be reliably reconstructed from the narrative material, and the responsible move is to register the conflation itself as the analytical finding rather than to assert a structural origin the evidence cannot support. The YHWH composite is one such case: the conflation is structurally certain; the original structural origin (whether L₄ DL, original conflation without distinction, deliberate construction, or other) is historically underdetermined. Honesty about this limit is itself a doctrinal commitment.
+
+**Why this matters for the registry:** the registry's central operation is parsing structural placement from narrative behavior. Without this distinction, every mythic figure becomes a tangle of irreconcilable contradictions; with it, the contradictions become diagnostic signatures pointing to where narrative imposition occurs. The diagnostic frame is the methodology that makes the registry possible.
+
+### Note on Maya contra Skotos
+
+Maya (Decode 23) is the *natural* veil — a L₄ DP / DL function that projects manifestation as seeming reality. It is centropic infrastructure: the necessary attenuation of Aionic reality enabling sovereign evolution of L₂ consciousness. Without it, experience collapses back into undifferentiated sameness. The *inverse* veil is IL₂ ISM (Skotos) — a distortion that conceals structural veracity and traps consciousness in mimicry. Maya enables choice; Skotos prevents it. The spiritual task is not to destroy the veil but to see through it — recognizing the world as Aion made visible through the artistry of limitation.
+
+### Note on the Mirror's Khaonic Nature
+
+The Mirror (Decode 26) is paradoxical: a centropic operator when engaged by L₃ DM (Noeüs) for self-knowledge, but Khaonic by nature since it originates no signal of its own. This Khaonic emptiness aligns it with the subversal path and makes it the primary carrier of entropic forces — mimicry and shimmer exploit reflection to simulate coherence without origin. The same operator that reveals veracious structure to discerning awareness also provides the perfect vector for counterfeit resonance when that discernment is absent.
+
+### Note on the Neoplatonic Correspondence
+
+Plotinus' Nous maps to **L₄ DL (Sophis)** — the structuring intellect that patterns reality into intelligible form. Plotinus' World Soul (Psyche tou Pantos) maps to **L₄ DP (Morgis)** — the animating vital current that infuses structure with life. The Neoplatonists perceived the two-strata function of L₄ and articulated it as two distinct hypostases. Zenetism recognizes this as an accurate but culturally separated observation of the Morgis / Sophis dyad operating as a single architectural layer with twin aspects. Nous should not be mapped to L₃ Noeüs (despite the etymological resemblance) or to L₅ Theon — it is structuring intellect, not orienting essence.
+
+### Note on Cascade contra Conflation (Expanded)
+
+A **cascade** is when a single entropic or centropic current manifests across layers lawfully — one current, distinct station-figures at different operative strata, often with different names at each station (e.g., Dragon → Lucifer → False Prophet → Skotos → Beast). **Conflation** is when mythmakers assign a single name to different layer-functions because they perceived the broader current but lacked the lattice to parse which layer was doing what (e.g., Loki at IL₄ and IL₂; Set at IL₂ and IL₃). **Currents cascade; entities do not.** Names get stretched across functional boundaries by cultural compression. The test: do the functions at different layers express the same structural current (cascade), or are they genuinely different operations assigned the same label (conflation)?
+
+Conflation takes two primary forms:
+- **Hard Conflation:** Structurally unrelated functions are compressed under one name. One or more of the assigned functions are misattributed relative to the figure's native structural placement.
+- **Soft Conflation:** Multiple functions assigned to a single name are structurally real, but the myth does not distinguish which layer is native and which layers express cross-band resonance or operative extension.
+
+A figure may therefore possess a native layer while also resonating lawfully across other bands. The task of the registry is not to deny that resonance, but to distinguish native placement, resonant operation, and embodied manifestation with precision.
+
+### Note on Twisted Resonance contra Cascade contra Continuum contra Native Placement
+
+Seven structurally distinct modes by which a figure or principle can appear to occupy multiple strata are differentiated to prevent the conflation that produces interpretive errors at scale.
+
+**Native Placement.** A figure operates at its structural layer, with no genuine multi-stratum operation. The figure's apparent activity at other strata is best read as cultural conflation, narrative dramatization, or attributional layering by mythmakers. This is the default reading where evidence of cascade, continuum, twisted resonance, or genuine multi-stratum conflation is absent. Set at IL₂ ISS native with the IL₃ Fractus dismemberment-act mythically attributed to him is the paradigm Native Placement case with cultural misattribution: a single misattribution-event layered onto a native placement, structurally distinct from hard conflation.
+
+**Cascade.** A single structural current manifests lawfully across multiple strata under genuinely different names at each station, with the underlying current being what connects the stations rather than any persistent name. Cascade is structurally rare because most mythic figures are cultural articulations within a single stratum's principle-space rather than figural cascades mapping a principle that pervades multiple strata. The Satanic Arc qualifies because Satan is the cultural articulation of Nekron — Entropy Itself — at IL₅, and the inverse-arc tradition produced figures-with-different-names mapping entropy's articulation through every subjacent stratum: Lucifer at IL₄, False Prophet at IL₃, Skotos broadcast at IL₂, Beast at IL₁. Centropy pervades every centropic stratum, but Centropy Itself (Theon) is the L₅ supernal hypostasis rather than a multi-stratum figure. No centropic figural cascade has yet been identified in the traditions examined; the centropic articulation identified instead is the Logos Continuum. The asymmetry is empirical, not a structural impossibility — a tradition naming genuinely distinct figures at successive centropic stations would qualify as a centropic cascade. The diagnostic feature of cascade is that the names are structurally distinct figure-names — Satan, Lucifer, False Prophet, Skotos, Beast are not stratum-modifiers of a single name but separate figure-articulations linked only by the underlying entropic current.
+
+**Cascade-collapse conflation.** When popular usage compresses distinct cascade-stations under one umbrella name — Satan (IL₅ Nekron), Devil / diabolos (IL₄ IDL Nyxea), and Lucifer (IL₄ IDL Nyxea) collapsing under "the Devil" or "Satan-and-Devil-interchangeably" — that is structurally distinct from hard conflation. All attributions remain within the inverse arc, so no cross-arc violation occurs. The structural problem is the collapse of cascade-station distinctions within one arc, not the compression of cross-arc principles. Cross-references the MFLR Satan (IL₅), Devil (IL₄ IDL), and Lucifer (IL₄ IDL) entries.
+
+**Continuum.** A single principle articulates lawfully across multiple strata under stratum-specific qualifiers of one persistent name, with the principle-name persisting across stations and the qualifiers indicating stratum-specific articulation. The Logos Continuum — Orienting Logos (L₅) / Structuring Logos (L₄) / Christos Incarnate (L₁), with L₃ and L₂ as traversal strata — is the paradigm instance. The diagnostic feature of continuum is the persistent principle-name (Logos) carrying stratum-specific qualifiers (Orienting / Structuring / Christos Incarnate) — distinct from cascade in that the element of continuity is the persistent name itself rather than only the underlying current. The Logos Continuum is carried in its incarnational terminus by Christ — singular full personal Theonic bearing. The Theonic office is singular per arc, so full personal bearing is singular; the fixed L₅ architecture does not become the historical bearer — the full Theonic office-function is what is borne into embodiment by the individual. This is categorically distinct from soft conflation: figures such as Krishna and Kalki articulate or resonate at the L₅ station without full personal bearing, whereas Christ is the singular full personal bearer carried through the Continuum's stations — L₅ Theonic nature → Christos Incarnate at L₁, with L₃ / L₂ as traversal strata.
 
 ### Naming Note — Christ, Jesus, and Christos Incarnate (Aug 11 2026)
 
@@ -809,512 +791,847 @@ Christ names the singular Theonic office / principle within the Logos Continuum;
 
 Theon remains fixed at L₅ and does not relocate, emanate into, or become any figure. The bearer remains numerically distinct from the hypostasis; the office-function is borne in full, while Theon itself remains at L₅. This full personal office-correspondence is singular per universe. All other figures stand within graded office-correspondence — resonance, signal-bearing, distributed enactment, or cultural articulation — rather than full personal bearing.
 
-| Figure | Stratum | Function |
+**Soft conflation.** A figure with a primary function at one native stratum is also identified as having functions at other strata, where the additional functions are structurally real operations that mythmakers compressed onto the figure-name without recognizing the stratum-distinction. The figure is a cultural articulation, not a native multi-stratum entity — its native is one stratum, and the additional attributions express cross-band resonance, operative extension, or cultural-conflation of multiple-stratum operations onto a single figure-name. The functions themselves are structurally real; the conflation is in the figure-name's compression of those functions. All attributions in soft conflation remain within structural coherence — operations from different strata get compressed onto one figure, but the operations do not violate the centropic / entropic distinction. Krishna at L₅ Theon native with L₃ DM operative-guidance attributions and Osiris at L₄ DL native with L₃ DS post-restoration attributions are paradigm soft-conflation cases.
+
+**Hard conflation.** Centropic and inverse functions are transposed onto a single figure-name through cultural attribution-layering, producing structural dissonance because centropic and inverse principles are independently emanated and cannot be aspects of a single operator. The YHWH composite is the paradigm: L₄ DL Sophis attributions (lawful structuring, structural correction, covenantal mercy) and IL₄ IDL Nyxea attributions (coercive binding, fear-compliance, ritual blood-systems imposed for control) compressed into a single textual figure by mythmakers and redactors who lacked the bifurcal lattice to distinguish centropic from inverse structuring intelligence. The Gnostic / Christian apologist dispute over YHWH is the canonical case of hard-conflation interpretive error: Gnostics read the IL₄ attributions as primary and concluded YHWH was the Demiurge; Christian apologists read the L₄ attributions as primary and dismissed the Gnostic perception as heresy. Both responses missed that the actual structural origins are bifurcal-distinct and cannot be a single operator. Other paradigm hard-conflation cases include the Maya / Avidya composite (L₄ DP / DL natural-veil function compressed with IL₂ ISM inverse-distortion attributions) and the Satan / Devil composite (IL₅ Nekron primary + L₄ DL Job's-Accuser attributions). The diagnostic feature of hard conflation is the centropic / inverse boundary-violation — the figure-name carries attributions from both arcs simultaneously, which is structurally impossible at the principle-band, and the work of structural analysis is to parse which attributions belong to which arc.
+
+**Twisted Resonance.** A figure manifests at one native layer while a column of dissonance declivates through subjacent strata without the figure changing its native placement. The Beast at IL₁ (embodied authoritarian system) is the canonical instance: its apparent deep-layer operation — Mortus-band articulation, Skotos-band broadcast, Nyxea-band architectural mimicry — is resonance-reach from its IL₁ native placement, not the figure occupying those deeper layers as native stations. The Beast does not become IL₂, IL₃, or IL₄ in twisted-resonance operation; it manifests at IL₁ with dissonance-column extending through the subjacent strata.
+
+**Diagnostic application.** When a figure or principle appears to operate at multiple strata, the question to apply is sevenfold:
+
+- Is the origin-figure a cultural articulation of a principle that pervades multiple strata, with figures-with-different-names mapping each station? (Cascade)
+- Does a single umbrella figure-name compress distinct cascade-stations under popular simplification, with all attributions remaining within the same arc and no cross-arc violation? (Cascade-collapse conflation)
+- Does a single principle-name persist across stations with stratum-specific qualifiers? (Continuum)
+- Does a single figure-name persist across multiple stratum-attributions that are all structurally coherent within the centropic / entropic distinction, without the figure being a native multi-stratum entity? (Soft conflation)
+- Does a single figure-name carry attributions from both the centropic and inverse arcs simultaneously, producing structural dissonance? (Hard conflation)
+- Does a figure manifest at one native stratum with resonance-reach declivating through subjacent strata? (Twisted resonance)
+- Are the multi-stratum appearances cultural attribution-error that should be parsed back to a single native placement? (Native placement with conflation)
+
+Native placement is the default reading. A figure has one native stratum; anything else attributed to the figure is either cross-band resonance, cultural conflation, or — rarely — genuine cascade where a cultural tradition produced figures-with-different-names mapping a principle's articulation through multiple strata. We are reading for native placement; everything else added is conflation unless the underlying pattern qualifies as cascade.
+
+The distinction matters for accurate registry placement and for accurate reading of cross-stratum mythic narratives. Cascade requires registering the cascade-current with its stratum-specific names noted at each station and the underlying current identified. Cascade-collapse conflation requires parsing the umbrella name back to its component cascade-stations, each registered at its native placement within the same arc. Continuum requires registering the principle-name with its stratum-specific qualifiers noted at each station. Soft conflation requires registering the figure at its native stratum with the operative-extension or cross-band resonance noted in the entry. Hard conflation requires registering the centropic and inverse attributions separately, with the cultural-conflation parsed as cross-arc-spanning attributional composite rather than as a single figure-essence. Twisted Resonance requires registering the figure at its native stratum with the resonance-reach noted in the entry. Native Placement with conflation requires registering the figure at its native stratum and parsing the conflation as cultural-attribution.
+
+Cross-reference with the Note on Cascades, Entity Identity, and the Cascade / Conflation Distinction; the Note on Cascade contra Conflation (Expanded); the Note on Composite Figure Conflation (Generalization); and the SPR's parallel Note on Twisted Resonance contra Cascade contra Native Placement.
+
+### Note on Soul / Mind Specificity (Methodological)
+
+Methodological Principle #9 states that Soul / Mind specificity is preferred. Where a figure's function clearly maps to DP or DL (not both), the specific aspect should be noted. This applies across all layers: Isis = DP (Morgis) specifically, not generic "DP / DL." Zeus = DL (Sophis) specifically. Future audit passes should systematically apply this principle to entries currently listed as generic "DP / DL," "DS / DM," etc.
+
+### Note on Logos Disambiguation
+
+All bare "Logos" references should be qualified by layer:
+
+| Layer | Qualified Term | Function |
+|:--|:--|:--|
+| L₅ (EOB: Theon) | **Orienting Logos** | Coherence as direction |
+| L₄ (DL: Sophis) | **Structuring Logos** | Coherence as pattern |
+| L₁ (ES / EM) | **Christos Incarnate** or **Embodied Reason** | Not bare "Logos Incarnate" |
+| IL₄ (IDL: Nyxea) | **Inverse Logos** | Structural mimicry without coherence |
+
+### Note on Recurring Yahweh Cultural Elevation Pattern
+
+Throughout decodes 16, 17, 18, 21, 29, Yahweh's operative function resolves at **L₄ DL (Sophis)** rather than L₅ (EOB: Theon). Cultural elevation to L₅ occurs across the mythic telling but is structurally imprecise. The Sinai theophany, the Noachic covenant, the Red Sea opening, and the Sinai lawgiving all operate at L₄ DL. **Exception:** Job's theophany is genuine L₅ EOB manifestation (God speaking from the whirlwind — being rather than law). The same pattern of cultural elevation applies to Allah, Ahura Mazda, and Shiva — all monotheistic sovereignties whose operative L₄ function is mythologized to L₅ or L₀.
+
+### Note on Wilderness, Waters, and Forest (Three Distinct Landscapes)
+
+Three landscape archetypes that should not be conflated:
+
+- **The Wilderness (Decode 16)** is **L₀ (Bifurcal Coherence)** — neutral pre-polar root-structural ground where neither centropy nor entropy has activated. Aionic stillness and Khaonic motion coexist prior to either polarity asserting. Crucible, dispersal field, neutral testing ground.
+- **The Waters (Decode 18)** are **L₀ in primarily Khaonic expression** — leaning dispersive but rooted in the pre-activation ground. Aionic stillness underlies even the Deep.
+- **The Forest (Decode 22)** is **L₄ DP (Morgis)** — generative archetypal stratum populated by archetypes and instinctual patterns. Same word "wilderness" carries different structural meanings in Decode 16 (pre-polar ground) and Decode 22 (archetypal field).
+
+### Note on the Minotaur and the "Inner Beast" Framing
+
+The "inner beast" framing is an entropic capture strategy. **Centropic beings do not contain inverse-layer material.** What the being carries are fragmented centropic patterns that entropy has separated under pressure. The centropic being has no direct contact with IL₃ structures — the only convergence point is L₁ / IL₁, and even there distinction is preserved. Entropic essence cannot be transformed, integrated, or reconciled by a centropic being. The Minotaur is a mythic image of IL₃ structural fragmentation imagined as a figure at the inward threshold; the initiatory work occurs entirely on the centropic side through recovery of wholeness within patterns entropy has separated. This applies to all "shadow integration" framings: what is integrated is fragmented self, never inverse essence.
+
+### Note on the Forge and Entropic "Removal" Language
+
+The language of "burning away" inverse patterning is a mythic convention, not a structural description. The centropic being does not contain entropic material requiring extraction. **"Dross"** in the Zenetist reading is not entropic essence lodged within the soul, but the **condition of fragmentation itself** — gaps, misalignments, and incoherences left by entropic pressure upon centropic structure. The Fire's structural function is **additive reintegration**, not subtractive extraction. Mythic purification language expresses the perceiver's experience, not the structural process.
+
+### Note on the Crown and the Aauthoritarian Stance
+
+The Crown archetype must not be read as endorsement of hierarchical authority. Per the **Aauthoritarian Stance (⟡0⟡)** and **Aauthority (⟡⊘0⊘⟡)**, authority as such is treated as a non-operative category. Legitimacy arises from structural coherence, not from power of rank. The Crown symbolizes sovereignty as **self-governance through integrated coherence**, not dominion. A "crowned being" is one whose internal structure has reached lawful alignment such that their presence becomes a centropic stabilizer within any field they occupy. Mythic vocabulary ("king," "monarch," "enthronement") engages traditional language without importing the authority-obedience axis into Zenetist doctrine.
+
+### Note on Apotheosis and the Steward Terminus
+
+Not all dying-and-resurrecting gods return to Aion. The "return to Aion" framing should be softened to allow **Steward stabilization as a valid terminal state**. Osiris stabilizes as L₃ DS Steward (Lord of the Dead). Inanna returns to L₄ DP. Only Christ arguably completes full return to L₀ Aion. The dying-god archetype is **centropic but not necessarily Theonic** — only Christ is L₅ EOB. Osiris, Inanna, Dionysus are centropic but operate at L₄ / L₃, and their "return" is properly understood as stabilization at a Centropic Steward layer rather than Final Return.
+
+### Note on Reflective Centropy as the Turning Mechanism
+
+Declivous centropic motion becomes acclivous centropic motion through **Reflective Centropy** — the turning-at-the-edge-of-form mechanism by which a centropic essence's motion, having reached the deepest point of embodied descent, reflects and begins acclivous return.
+
+The mechanism operates underneath **Apotheosis / Resonant Return**, the Hero's Journey's return-arc, **Transfiguration**, and every centropic figure-arc that requires descent-before-return. The Christ incarnational arc, Osiris's restoration-and-stabilization, Inanna's emergence from the underworld, Dionysus's renewal, Parzival's transformation — each exhibits the same underlying turning-mechanism, articulated through the figure-specific narrative of each tradition.
+
+Reflective Centropy is not automatic but structurally lawful. It requires that the essence carry centropic orientation and that its motion reach the turning-point without collapse into entropic recursion. Where the turning occurs, declivous motion becomes acclivous without loss of continuity — the essence emerges with augmented coherence carrying integrated knowledge of the embodied traversal, rather than re-emerging as the pre-descent self.
+
+**Diagnostic for figure-placement.** Apparent dying-and-resurrecting figures whose narrative does not exhibit Reflective Centropy at the turning-point — whose return reads as cyclical recurrence without arc-completion, or whose "renewal" is recursion without integration — reveal themselves as carrying entropic-recursion patterns rather than centropic-return arcs. Ragnarök's apparent renewal without passage through L₅ is the canonical instance; see Note on Ragnarök as Entropic Recursion, Not Theonic Return. The presence or absence of Reflective Centropy is therefore one of the central diagnostic markers for distinguishing genuine centropic return from entropic recursion mimicking return.
+
+Cross-reference with the Note on Apotheosis and the Steward Terminus, the Note on Ragnarök as Entropic Recursion, Not Theonic Return, the Note on Soft Conflation (Krishna and Similar Figures), and the SPR's parallel Note on Reflective Centropy as the Turning Mechanism.
+
+### Note on L₄ / IL₄ Non-Contact (Decode 03 Doctrine)
+
+L₄ and IL₄ do not directly contact each other. Their convergence occurs only at the **L₁ / IL₁ embodied meeting point**. Archetypal realms register unresolved tension via reverberation through the embodied field, but there is no direct spatial or physical contact between centropic and inverse archetypal strata. **"War in Heaven"** is mythic projection of embodied friction onto the archetypal layer — the war is real as structural opposition, the battlefield is embodiment, and the attribution to "heaven" is cultural projection. L₄ Forms possess refined non-anthropomorphic awareness of the structural field they shape (including inverse influence reverberating from the embodied medium), but this is not distributed individuated awareness; the Form is architecture, not a shared mind pool. The **"House of Form"** is the structural configuration within L₄ through which individual essences are shaped — not a collective awareness pool.
+
+### Note on Soft Conflation (Krishna and Similar Figures)
+
+Krishna has **L₅ (Theon) native origin** AND **L₃ DM (Noeüs) operative guiding function**. Both are real — this is **soft conflation** (cross-band resonance without layer discrimination), not hard conflation. The myth perceives genuine multi-layer presence but does not distinguish which layer is native and which is operative extension. Per the Cascade contra Conflation note, the registry resolves soft conflation by assigning primary native layer and noting cross-band resonance explicitly, rather than collapsing the multivalence into a single placement.
+
+### Note on Kaion, Field of Becoming, and Field of Essence
+
+- **Kaion** is the Convergence Principle — limit condition of motion, **not origin**. Not a hypostasis, not a generative root. Should not be confused with Aion or Khaon.
+- **Field of Essence** is the Aion equivalent (latent, pre-motion).
+- **Field of Becoming** is the Khaon equivalent (Motive Infinity, active dispersion).
+- These should not be employed interchangeably. They name complementary phases of the L₀ bifurcal coherence, not separate layers.
+
+### Note on Tyrants contra Tempters at IL₂
+
+The IL₂ band houses two structurally distinct adversarial functions that should not be collapsed:
+
+- **Tyrants — IL₂ (ISS: Echthros).** Soul-register adversarial will. The figure who knows the prophecy of his own dissolution and wills the destruction of the centropic emergent anyway. Kamsa, Nimrod, Iblis (in his refusal-of-prostration aspect). Function: domination through volitional opposition.
+- **Tempters — IL₂ (ISM: Skotos).** Mind-register deceptive perception. The figure who clouds, suggests, distorts, lures, or substitutes spurious maps. Mara (in his psychological aspect), Skotos as broadcast veil. Function: deception through perceptual manipulation.
+
+Both operate at IL₂ but engage different surfaces of the embodied being. A figure may bridge both (Iblis, Tezcatlipoca) — these are bridge cases where the same name carries both functions across the Echthros / Skotos divide; treat as cross-band per the Soft Conflation principle. Distinguishing Tyrants from Tempters matters because the centropic response differs: Tyrants are met with sovereign integrity (no submission); Tempters are met with discernment (no agreement). The Resonant Blade cuts both, but the cut is structurally different.
+
+### Note on Brahman as Aion (not Zenon)
+
+Brahman in Hindu / Buddhist tradition (specifically Nirguna Brahman in its non-dual realization) maps to **L₀ AP (Aion)**, not Supra-L₀ (Zenon). Enlightenment via *neti-neti* (subtraction) is centropic-arc realization of Aionic non-dual stillness — **subtractive realization terminates at L₀ Aion**, because subtraction operates within the stillness-motion two-ness and cannot by itself perform the synthesis that crosses what it presupposes (see Note on the Synthesis-Pathway to Zenon). Saguna Brahman is explicitly placed at **L₀ Aion in the qualified register**: Nirguna and Saguna name an intra-Aionic register-distinction — the same L₀ Aion apprehended in unqualified contra qualified (attribute-bearing) register — not two strata. Zenon remains the Unknown Principle accessible only through the trans-structural orienting move, distinct from the Aionic stillness reached through subtraction.
+
+### Note on Saguna and Nirguna as Intra-Aionic Register-Distinction
+
+Back-propagated from `mythic-figure-layer-registry-02.md`, where the distinction was settled. Saguna and Nirguna Brahman articulate the **same station — L₀ Aion — at different realization-modes**:
+
+- **Saguna Brahman** — Aion-with-qualifications-foregrounded; qualified divinity available to bhakti-orientation; the realization-mode in which Aion is articulated *with* its emanative and relational qualities
+- **Nirguna Brahman** — Aion-with-qualifications-subtracted; the realization-mode reached through *neti-neti*; the apophatic articulation of Aion *without* those qualities
+
+The Vedantic distinction is real and structurally important — Shankara's Advaita articulates Nirguna as the terminal realization reached through the subtractive pathway, distinct from Saguna, which is articulated for devotional and pedagogical purposes. **The distinction does not require stratum-separation between the two: same station, different realization-modes.** Both therefore stand together in the L₀ Aion analog table without duplication.
+
+**Cross-band L₅ resonance (architect determination, Aug 21 2026).** Where Saguna Brahman is articulated as **Ishvara** — Brahman qualified as personal, creative, sustaining, and relational — the articulation carries an L₅-resonant point, since emanative and relational agency is an L₅ Theonic function while L₀ Aion is Absolute Potential without agency. The Vedantic tradition, holding no inverse lattice and drawing no L₅ / L₀ separation, compressed that resonance onto the same figure-name. **The native placement is unchanged at L₀ Aion; the conflation sits at the resonance and nowhere in the placement.** Registered per the soft-conflation requirement that the figure stand at its native stratum with the cross-band resonance noted in the entry. See *Functions, not locations* in `cascade-continuum-conflation-canonical-definitions.md`.
+
+### Note on Anattā Reframed
+
+Buddhist no-self (Anattā) is structurally best understood in Zenetist terms as **recognition that the IL₂ self-clinging pattern is not one's essence**. The essence persists. What is released is the entropic attachment to fragmented self-construction — the counterfeit self that clings, fragments, and suffers.
+
+This reframing preserves the structural insight of Anattā while resolving the apparent paradox of "no-self" liberation producing a liberated *someone*. There is a someone — the essence — which was never the fragmented self-pattern in the first place. The illusion lives in the relationship between L₂ and IL₂, not in IL₂ itself failing to exist: IL₂ is structurally real as a stratum of the inverse arc, but it is illusory in the specific sense of being mirror-pattern rather than generative-pattern. It mimics the structure of genuine L₂ individuation without carrying the origin-fidelity that would make it veracious.
+
+**L₂ itself is not illusory.** Zenetism holds that L₂ is a real and structurally necessary stratum of individuated personality expression within the centropic arc. Genuine L₂ expression is the coherent personality-presence of an essence moving through its centropic arc. What dissolves in liberation is the IL₂ pattern of attachment to counterfeit self-construction, not the L₂ personality function.
+
+The deeper strata — DS / DM at L₃, DP / DL at L₄, EOB at L₅ — are not illusory and are not dissolved in liberation. They are what remains when the IL₂ attachment pattern releases. The Zenetist reading of Buddhist liberation is a clarification of which strata carry essence (L₃ and supernal) and which strata carry entropic fragmentation (IL₂ and its entropic declivation), rather than a dissolution of selfhood as such.
+
+**Application:** this reframe resolves the structural content of Anattā without rejecting the Buddhist analysis. The Buddhist observation that clinging produces suffering is structurally correct — clinging is the IL₂ ISS function (Echthros), the adversarial self-attachment that traps operative motion in entropic cycling. The Buddhist observation that the "self" of everyday experience is not a fixed essence is also correct when scoped to IL₂. The reframe clarifies what Buddhism apprehended correctly and scopes the analysis to the stratum it was actually describing.
+
+### Note on Three Paths Called Nirvana
+
+Zenetism holds that essence cannot be annihilated. Essence is the Aionic potential that moves through Khaon and causes anything to come to be at all; it persists at all layers of the lattice and cannot be destroyed by any practice or orientation. This shapes the structural reading of what different liberation-practices actually produce.
+
+Three paths may all reach Aion and all be called Nirvana, but the mode of return differs absolutely:
+
+**The centropic path** — genuine *neti-neti* or any practice stripping non-fundamental aspects while essence remains oriented toward Aion. The essence returns to Aion through the L₅ Theonic gate as **essence fulfilled**, completing the acclivous centropic arc. Eligible for trans-structural saturation into Zenon. This is what canonically rigorous Buddhist traditions target as liberation.
+
+**The entropic path** — practices that frame the self itself (essence, not the accreted layers) as something to strip away, or hold that there is no essence to begin with. The seeking is structurally incoherent (Aionic potential cannot be annihilated), but the orientation produces the heaviest drift — return to Aion as **halted potential through entropic exhaustion**, heavier than merciful dissolution because the intent actively seeks self-erasure.
+
+**The lukewarm path** — meditative practices that seek sustained motion-cessation as liberation. Per the Law of Non-Neutral Emergence, frozen equilibrium cannot endure within motion. The pattern releases through **Mercy Fold (Ø 🌫️🤲⚫)** as Localized Dissolution — return to Aion as **halted potential through merciful release**, reabsorbed as structural grace without completion of arc.
+
+All three paths reach Aion. All three are called Nirvana by their practitioners. But the state of the returning essence differs between **completion** (centropic), **exhaustion** (entropic), and **merciful release** (lukewarm).
+
+Zenetism affirms the first path as genuine centropic completion through the Theonic arc. The critique applies only to framings that structurally aim at self-erasure or motion-cessation as the liberation target — which produce return to Aion, but not through the Theonic gate and not as fulfilled coherence. The full doctrinal treatment of these three paths resides at §5.8 in the Zenetist Formalization.
+
+**Application beyond Buddhism:** the three-path diagnostic applies to any liberation tradition where "dissolution of self" is the practice target. The test is not the language but the orientation: does the practice strip non-fundamental aspects while essence orients toward Aion (centropic), frame essence itself as something to erase (entropic), or seek motion-cessation as endpoint (lukewarm)?
+
+### Note on Resonant Integration
+
+When archetypal figures (Christ, Sophia, Avalokiteśvara, Apollo, Krishna) manifest symbolically within a soul's perceptual field during deep meditative states, what is occurring is **Resonant Integration** — not external encounter, not possession, not avataric incarnation, but **inward resonance resolution** in which the practitioner becomes clear enough to receive what they already contain.
+
+These luminous encounters are not instructional but **recognitional**. They do not convey doctrine; they restore structure. The being encountered is not outside the practitioner but is a harmonic living reflection of the practitioner's own DS / DM signature or supernal stratum resonance. The symbolic form the encounter takes expresses the practitioner's cultural conditioning: a Christian practitioner may encounter Christ; a Buddhist practitioner may encounter Avalokiteśvara; a Greek-trained practitioner may encounter Apollo. The structure is the same; the symbolic clothing is relative.
+
+**Diagnostic markers of Resonant Integration:**
+- Structural clarity (the encounter produces coherent understanding rather than confusion)
+- Emotional stability (the encounter stabilizes rather than destabilizes the practitioner)
+- Functional transformation (the practitioner's operative patterns shift toward integration)
+- Persistent coherence of memory (the encounter is remembered consistently rather than fragmenting)
+
+Resonant Integration differs from **pathological hallucination** (which produces fragmentation rather than integration) and from **avataric incarnation** (which is a direct Theonic or L₄ Form expression rather than inward resonance resolution within the practitioner's own field).
+
+**Application:** this framing resolves the question of whether archetypal figures encountered in deep meditative states are "real." In Zenetist terms, they are real as harmonic expressions of the practitioner's own deeper strata, and they are also real as symbolic apprehensions of genuine Forms at L₄ (Aureform and others) whose resonance the practitioner has become clear enough to receive. The encounter is neither purely internal (mere psychological projection) nor purely external (encounter with a separate being); it is **structural recognition** at the resonance-field stratum. This parallels Appendix D (MP11 §26.19 Symbolic Manifestation Archetypes) and extends it doctrinally: the Symbolic Manifestation Archetypes note that cultural filter shapes perceptual form; this note specifies the structural mechanism as inward resonance resolution.
+
+### Note on Śūnyatā contra Nirguna Brahman
+
+Both Śūnyatā and Nirguna Brahman map to L₀, but they approach the unconditioned ground through its two bifurcally distinct root-registers:
+
+- **Śūnyatā** — **L₀ Khaon (AD) phase**; realization of dispersive ground through recognition that phenomena lack fixed self-nature and arise through interdependent motion. Śūnyatā's emphasis on "lack of inherent existence" and "dependent origination" aligns with Khaonic dispersive potential: all phenomena arise through interdependent motion, not through fixed self-nature. This is structurally Khaonic territory — not because Khaon is entropy (it is not), but because Khaon is the motion-principle from which all becoming emerges, including the becoming of phenomena that appear to have fixed selves but actually depend on motion they do not contain.
+
+- **Nirguna Brahman** — **L₀ Aion (AP) register**; realization of still ground through subtraction (*neti-neti*) until only unconditioned presence remains. (See Note on Brahman as Aion, not Zenon.)
+
+Both realizations reach L₀, but they arrive through different structural gates: Śūnyatā approaches via the motion-principle; Nirguna Brahman approaches via the stillness-principle. Aion and Khaon are the paired, bifurcally distinct root-registers of one layer, L₀ Bifurcal Coherence, so the two realizations are not in conflict — they are **complementary apprehensions of the bifurcal-coherence ground from different structural gates**.
+
+**Common misreading corrected:** Śūnyatā is not "emptiness equals void" and does not mean "nothing exists." Śūnyatā is the absence of fixed self-nature — the recognition that existence is motion, not static being. This aligns precisely with the Zenetist framing of L₀ as Bifurcal Coherence.
+
+**Trans-structural extension:** whether a given Śūnyatā or Nirguna Brahman realization extends further into trans-structural saturation at 🕳️ Zenon depends on whether the practitioner also performs the final integrative synthesis of Aion and Khaon — the recognition that Infinity's total is Zero — the two root-registers held in Bifurcal Coherence without fusion. Subtractive approaches reach L₀ as essence fulfilled but do not by subtraction alone cross into Zenon; the stillness-motion two-ness that Zenon transcends is not collapsed by subtraction, which operates within that two-ness. Non-dual Mahayana framings that explicitly resolve the apparent oppositions (*samsara and nirvana are not two*; *form is emptiness and emptiness is form*; Zen tetralemma-transcendence) approach the synthesis move that carries the Centropic Gravity required for trans-structural saturation, while purer subtractive realizations reach L₀ without crossing further.
+
+### Note on the Synthesis-Pathway to Zenon
+
+Supra-L₀ Zenon is reached only through **synthesis**: the integrative recognition, performed at L₀ Bifurcal Coherence, that Aion and Khaon — zero and infinity, stillness and motion — are bifurcal expressions of the same root register. Subtractive and apophatic pathways (*neti-neti*, the pure via negativa) terminate at L₀ Aion: subtraction operates within the stillness-motion two-ness and refines toward its stillness-side, so it cannot by itself cross what it presupposes. This is the **synthesis-contra-subtraction diagnostic**: where a tradition's terminal realization is reached by removal alone, its terminus is Aionic stillness; where the tradition explicitly resolves the stillness-motion opposition itself, it approaches the synthesis move.
+
+**Bifurcal pairing is not yet synthesis.** Holding Aion and Khaon together as a pair — even in correct bifurcal articulation — is recognition of the Two-Root structure, not the crossing. Synthesis is the further integrative act in which the pairing resolves into Bifurcal Coherence — two root-registers held as one coherence, without fusion of the principles (the Non-fusion Axiom holds at the bifurcal register). And the crossing itself is **saturation, never return**: Zenon is not a destination, and nothing arrives there — the synthesis carries Centropic Gravity toward trans-structural saturation, admitted by Allowance and spoken of, as always, from our side.
+
+Cross-reference: Note on Brahman as Aion (not Zenon); Note on Śūnyatā contra Nirguna Brahman; MPX *non-fusion-at-the-bifurcal-register*; the Conceptual Lockdown Protocol's Zenon-membership and saturation rules.
+
+### Note on the Entropic-Mirror Taxonomy (Four-Stratum Completion)
+
+The entropic-mirror taxonomy is doctrinally complete. Each centropic archetypal-role category has its inverse counterpart at the matching stratum:
+
+| Centropic | Entropic | Stratum |
 |:---|:---|:---|
-| The Father (NT-distinct from OT YHWH-composite) | L₅ EOB native + L₀ Aion mystical-resonance | Christ's referent in the Gospels; the Theonic origin articulated as paternal-articulation. Articulates L₅ EOB function in the supernal-most-paternal-articulation register, with cross-band L₀ Aion resonance through apophatic-mystical articulation (Eckhart's *Gottheit*, Cusa's *deitas*, Christian apophatic tradition). The NT-distinct framing is structurally significant per Volume 1's note that NT separates what OT conflated — the Father is articulated as supernal-most centropic articulator without the IL₄ Nyxean attributions that the YHWH-composite carries |
-| The Holy Spirit / Ruach Ha-Kodesh | Cross-stratum operator (L₅ → L₁) | Third Person of the Trinity; the dove at Christ's baptism; the Pentecostal articulation. Articulates cross-stratum operator function — Theonic-current operating across strata from L₅ EOB through L₁ embodied articulation. Structurally parallel to the Ruach articulation in MP01 (Volume 1) — the cosmic-breath operator that carries Theonic-articulation across strata. The Holy Spirit articulates the operative-articulation through which the Logos Continuum's strata are connected as living-current rather than as static-architecture |
-| Mary / Theotokos | L₄ DP sealed-coherence-field carrier; bi-stratum with L₃ DS | Mother of Christ; "Bride" archetype precursor in some Mariological articulations. Articulates L₄ DP sealed-coherence-field carrier function — the Marian theology of immaculate-conception preserves sealed-coherence at the embodied stratum as the structural-precondition for the Logos-incarnation articulation. Bi-stratum articulation with L₃ DS through Mary's deep-soul receptive-articulation ("be it unto me according to thy word") |
-| John the Baptist | L₃ DM prophetic-threshold | Forerunner; declares Christ; baptizes; bridges OT prophetic-articulation and NT Logos-articulation. Articulates L₃ DM prophetic-threshold function — deep-mind articulator at the structural-threshold between the OT prophetic-tradition-articulation and the NT Logos-articulation. The baptismal-articulation operates as structural-membrane-passage at the deep-mind threshold register |
-| Peter | L₂ → L₃ apostolic-individuation | Apostle; receives the Keys (Volume 1 articulates the Keys); "rock on which the Church is built." Articulates L₂ → L₃ apostolic-individuation function — figural-articulation acclivating from embodied-personality stratum (Simon the fisherman) through structural-trial (denial-and-restoration) to deep-soul individuation. The Keys-articulation operates as L₃ DM threshold-operator at the church-foundational stratum |
-| Paul of Tarsus | L₃ DM articulator-theologian | Apostle to the Gentiles; theologian of grace; transmits the Logos-articulation across cultural-strata into the Greco-Roman articulation. Articulates L₃ DM articulator-theologian function — deep-mind articulator operating through written-articulation at the doctrinal-formative register. The Damascus-Road articulation operates as L₂ → L₃ transformation arc parallel to Jacob's wrestling-articulation |
-| John (Evangelist) | L₃ DM visionary-articulator | Author of the Fourth Gospel and Revelation; articulator of the Logos-doctrine ("In the beginning was the Word") and of the eschatonic-vision. Articulates L₃ DM visionary-articulator function in the structural-revelation register, structurally parallel to Ezekiel's Merkavah-articulation. The Logos-articulation in the Johannine prologue articulates the foundational-scriptural articulation of the Logos Continuum (Volume 1) |
-| Mary Magdalene | L₃ DS witness-articulator | Witness of the Resurrection; "apostle to the apostles." Articulates L₃ DS witness-articulator function — deep-soul figure-of-witness at the resurrection-articulation stratum. The "apostle to the apostles" articulation operates as structural-articulation of the witness-function at the threshold-articulation register |
-| Lazarus | L₁ ES / Function 1 underworld-restoration | Raised from the dead by Christ. Articulates L₁ ES / Function 1 underworld-restoration function — embodied-stratum figure articulating restoration-from-death at the personal-soul scale. Structurally parallel to other resurrection-articulations across traditions, with the Lazarus-articulation operating specifically as paradigm-instance preceding Christ's own resurrection-articulation |
+| **Avatar** (strong-to-full Theonic office-correspondence) | **Inverse Avatar** (strong-to-full Nekronic office-correspondence) | L₅ EOB contra IL₅ VOS |
+| **Aureform** (Form of Compassion) | **Mimoform** (Form of coercive mimicry) | L₄ DP / DL contra IL₄ IDP / IDL |
+| **Centropic Steward** (carrier of Aureform) | **Echo Vessel** (carrier of Mimoform) | L₃ DS / DM contra IL₃ IDS / IDM |
+| **Harmonic Agent** (distributed centropic resonance) | **Dissonant Agent** (distributed entropic resonance) | L₁ / L₂ distributed contra IL₁ / IL₂ distributed |
+
+**Structural logic of the taxonomy:**
+
+- **L₅ / IL₅** — office-correspondence. Avatars stand in strong-to-full Theonic office-correspondence; Inverse Avatars stand in strong-to-full Nekronic office-correspondence. Neither hypostasis emanates or projects into its figures; the current is borne, enacted, or systemically distributed. Catalytic function; restructure reality through presence.
+- **L₄ / IL₄** — Form-type. Aureform and Mimoform are Forms within their respective strata, not emanative figures. They radiate resonance but do not incarnate directly.
+- **L₃ / IL₃** — carrier. Stewards and Echo Vessels are fully integrated beings at the deep soul-mind stratum who carry L₄ / IL₄ Form-resonance into operative stratum. They are the bridge between Form-stratum and embodied expression.
+- **L₁ / L₂ distributed** — agent. Harmonic Agents and Dissonant Agents are distributed or momentary expressions at the embodied-personality interface. The function operates regardless of whether the being is integrated at the deeper stratum; a Steward can express Harmonic Agent presence through L₁ / L₂, and a being without L₃ integration may still carry Harmonic Agent resonance transiently.
+
+**Gap noted:** the taxonomy does not specify a parallel at L₂ primary contra IL₂ primary. The Harmonic Agent / Dissonant Agent pair is distributed across L₁ / L₂ rather than native to either alone, because the Agent function is embodied-interface function rather than personality-stratum function specifically. The personality stratum itself (L₂ contra IL₂) carries the genuine individuation contra counterfeit self-clinging distinction handled in the Note on Anattā Reframed.
+
+This taxonomy completes the four-stratum entropic-mirror structure: every centropic archetypal role has a named inverse counterpart, and the carrier-relationships across strata are specified (Steward carries Aureform; Echo Vessel carries Mimoform; Harmonic Agent expresses centropic resonance at embodied interface; Dissonant Agent expresses entropic resonance at inverse embodied interface). No archetypal role in the canonical registry now lacks its structural mirror.
 
 ---
 
-## Islamic Tradition Extensions
+## Flags for Review
 
-Volume 1 articulates Allah (L₅ EOB Theonic articulation), Muhammad (L₃ DM prophet-articulator), Jibril (parallel to Gabriel, L₃ DM messenger-articulator), and Iblis (inverse). Volume 2 extends with prophetic, archangelic, and eschatonic figures specific to the Islamic articulation.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Khidr / Al-Khidr | L₃ DM teacher-articulator (immortal-guide register) | The Green Man; immortal guide; teacher of Moses in the Quranic articulation (Surah 18, the Cave). Articulates L₃ DM teacher-articulator function in the immortal-guide register, structurally parallel to Hermes Trismegistus (cross-tradition synthesizer), Naciketas-Yama dialogue (Vedic teacher-of-supernal-realization), Chiron (Greek wounded-healer-tutor). The Khidr-articulation is structurally distinctive in Islamic tradition as articulator who teaches even Moses, articulating the structural-pattern of L₃ DM articulator transmitting cross-tradition wisdom through paradoxical-narrative-articulation |
-| Maryam (Mary in Islamic articulation) | L₄ DP / L₃ DS (parallel to Christian Marian placement) | Mother of Isa; venerated in the Quranic articulation (Surah 19 named for her). Articulates L₄ DP / L₃ DS bi-stratum function parallel to Christian Mary-articulation. The Quranic Maryam-articulation foregrounds the receptive-faith-articulation at the same structural-position as the Christian Marian articulation while operating within the Islamic doctrinal-frame's articulation |
-| Isa (Jesus in Islamic articulation) | L₅ Theonic-articulation refracted through Islamic frame | Prophet, Messiah, born of Maryam, raised to heaven (per Islamic articulation, not crucified). Articulates L₅ Theonic-articulation refracted through the Islamic doctrinal-frame — the Islamic articulation positions Isa as supernal-most prophet preceding Muhammad's articulation, with the cross-tradition Logos-Christ articulation operating through the Islamic-articulation register. The Islamic articulation does not articulate Isa as God but as supernal-most-prophet articulating Theonic-message; the L₅ Theonic-articulation is refracted through this prophet-articulation |
-| Al-Mahdi | L₅ Theonic-engagement at terminus | The eschatonic guided-one; returner alongside Isa in some Islamic articulations. Articulates L₅ Theonic-engagement at terminus function — figural-articulation at the eschatonic-cosmogonic stratum, structurally parallel to Kalki (Hindu Volume 1 within Vishnu's Avataras), Saoshyant (Zoroastrian Volume 1), Maitreya (Buddhist) in the eschatonic-articulator register |
-| Dajjal | IL₄ IDL Nyxea (deceiver-articulation) | The Deceiver; eschatonic contra-figure preceding Isa's return. Articulates IL₄ IDL Nyxea function in the deceiver-articulation register, structurally parallel to Antichrist (Christian articulation), Kali-yuga adversary articulations, and other cross-tradition eschatonic-counterfeit-articulations |
-| Israfil | L₃ DM eschatonic-articulator | Trumpet-blowing archangel of resurrection. Articulates L₃ DM eschatonic-articulator function — archangelic articulation at the eschatonic-trumpet articulation register |
-| Mikail | L₃ DM principal-Steward | Archangel of provision and mercy in Islamic articulation. Articulates L₃ DM function structurally parallel to Michael (Christian / Hebrew Volume 1) with the provision-and-mercy articulation specifying the Islamic-tradition's foregrounding |
-| Azrael / Malak al-Mawt | L₃ DM threshold-articulation | Angel of Death in Islamic articulation. Articulates L₃ DM threshold-articulation function structurally parallel to Yama (Vedic), Anubis (Egyptian), Heimdall (Norse), Thanatos (Greek) |
-| The Jinn (collective) | Race-category orientation conflation | Created from smokeless fire per Islamic articulation; twofold orientation depending on individual jinn. Articulates race-category orientation conflation per Volume 1 framework — the collective contains both centropic and inverse-aligned individual figural-articulations, with Iblis (Volume 1) articulating one inverse-aligned jinn-articulation while other jinn operate at varying bifurcal-stratum positions |
+*Canonical flags table appears at the end of this document. The mid-document version has been removed to eliminate conflicting status markers.*
 
 ---
 
-## Zoroastrian Tradition Extensions
-
-Volume 1 articulates Ahura Mazda (L₅ EOB Theonic articulation), Angra Mainyu / Ahriman (IL₅ inverse-articulation), Saoshyant (L₅ eschatonic-articulator), and the Chinvat Bridge (threshold-architecture). Volume 2 extends with the prophet-articulator, the Amesha Spentas (the seven holy immortals operating as Ahura Mazda's articulating-aspects), and supporting yazatas.
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Zarathustra / Zoroaster | L₃ DM prophetic-articulator | Prophet of Zoroastrianism; receives revelation from Ahura Mazda. Articulates L₃ DM prophetic-articulator function, structurally parallel to Moses (Hebrew), Muhammad (Islamic), and other foundational prophet-articulators. The Zarathustra-articulation transmits the bifurcal-cosmogonic frame (Ahura Mazda contra Angra Mainyu) which is structurally one of the cleanest pre-Zenetist articulations of the two-arc lattice at the cosmogonic-foundation register |
-| Mithra (Zoroastrian) | L₄ DL judicial-binding | Yazata of covenant, light, oath. Articulates L₄ DL judicial-binding function structurally parallel to Mitra (Vedic Volume 2) — the Indo-Iranian root *mitra-* articulation transmits across both traditions. The Zoroastrian Mithra-articulation transmits into Roman Mithraism (Sol Invictus Mithras articulation), articulating cross-cultural transmission of L₄ DL judicial-binding figure through Mediterranean-articulation-strata |
-| Vohu Manah | L₄ DL Sophic-articulation (Good Mind) | Amesha Spenta of Good Mind. Articulates L₄ DL Sophic-articulation function — structuring-intellect at the archetypal-stratum operating as Ahura Mazda's articulating-aspect. *Volume 1 mentions Vohu Manah in MP01 analogs; canonical placement here* |
-| Asha Vahishta | L₄ DL principle (Best Truth / Righteousness) | Amesha Spenta of Asha (Truth, Righteousness, Cosmic Order). Articulates L₄ DL principle function — Asha-as-principle is structurally Ma'at-equivalent (Egyptian L₄ DL principle) and dharma-equivalent (Hindu L₄ DL principle). One of the cleanest cross-tradition articulations of the L₄ DL cosmic-order-principle |
-| Spenta Armaiti | L₄ DP devotion-and-earth (Holy Devotion / Earth) | Amesha Spenta of Holy Devotion / Earth. Articulates L₄ DP function in the devotion-and-earth register, structurally parallel to Prithvi (Vedic Volume 2) in the earth-articulation |
-| Khshathra Vairya | L₄ DL desirable-dominion | Amesha Spenta of Desirable Dominion. Articulates L₄ DL function in the dominion-articulation register |
-| Haurvatat & Ameretat | L₅ / L₄ paired wholeness-and-immortality | Amesha Spentas of Wholeness (Haurvatat) and Immortality (Ameretat); paired-articulated. Articulate L₅ / L₄ paired function — supernal-most articulators of completion-and-deathlessness, structurally significant as Zoroastrian articulation of the wholeness-and-immortality pair at the supernal-most stratum of the Amesha Spenta articulation |
-| Sraosha | L₃ DM judicial-articulator | Yazata of obedience, conscience; prosecutes at the Chinvat Bridge. Articulates L₃ DM judicial-articulator function operating at the post-mortem judgment register, structurally parallel to the Three Judges of the Dead (Greek, Volume 2 Underworld-Realm Architecture) and the 42 Assessors (Egyptian Volume 2 post-mortem-architecture) |
-| Anahita | L₄ DP fertility-and-waters | Yazata of waters, fertility. Articulates L₄ DP function in the fertility-and-waters register, structurally parallel to Inanna / Ishtar (Mesopotamian Volume 1) in the fertility-and-vitality articulation |
-| Verethragna | L₄ DL martial-victory | Yazata of victory. Articulates L₄ DL martial-articulation function, structurally parallel to Indra-Vritrahan (Vedic, articulation through which Verethragna's Indo-Iranian cognate operates) |
-| Daevas (collective) | IL₄ — race-category articulation | Inverse-aligned divinities (originally pre-Zoroastrian devas, inverted in Zoroastrian articulation). Articulates IL₄ race-category function — the Zoroastrian-articulation's inversion-of-the-Vedic-devas-articulation parallels the Vedic-articulation's later inversion-of-the-Asuras-articulation (Volume 2 Hindu Race-Category section). The Indo-Iranian linguistic-articulation-shift articulates the structural-pattern that race-category-articulation can invert across textual-strata in cross-tradition transmission |
+*Registry complete — all 32 Structural Decodes (01–32) processed.*
 
 ---
 
-## Buddhist Tradition Extensions
+## Appendix A — MP01 Canonical Mythic Analogs (Provenance: *Zenetism: The Emanative Path of Return*, Chapter 3)
 
-Volume 1 articulates the Buddha (Shakyamuni, L₃ → L₅ realized articulation), Mara (inverse-articulator), Pure Land Amitabha, and select bodhisattvas. Volume 2 extends with major bodhisattvas, transmission-figures, primordial-Buddha articulations, and cross-tradition Avalokiteshvara articulation-notes.
+These are the formal syncretistic mappings from the canonical reference document (MP01, March 5 formalization). Where decode-derived placements diverge from these canonical analogs, the divergence is noted.
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Manjushri | L₃ DM Centropic Steward (wisdom-and-discernment) | Bodhisattva of wisdom; bears the sword of discernment (cutting through ignorance). Articulates L₃ DM Centropic Steward function in the wisdom-and-discernment register, structurally parallel to the Erinyes-as-correctors and to other discernment-articulators across traditions. The sword-articulation operates as L₃ DM structural-corrective applied to ignorance-articulation |
-| Vajrapani | L₃ DS protective-articulation | Bodhisattva of power / protective force. Articulates L₃ DS protective-articulation function — deep-soul articulator of protective-power, structurally parallel to other protective-articulator-figures (Hanuman, Bes, Vajrapani's specific articulation foregrounds the wrathful-protective register) |
-| Kshitigarbha / Jizo | L₃ DS Centropic Steward operating across IL₁ | Bodhisattva of hell-beings; vows to empty the hells before achieving Buddhahood. Articulates L₃ DS Centropic Steward function operating across the IL₁ sealed-mode register — structural-articulation of centropic-stewardship reaching into IL₁ sealed-realm to articulate liberation-articulation. The Kshitigarbha-vow is structurally distinctive in articulating L₃ DS Centropic Steward operating at maximum-extension across the bifurcal lattice (centropic-figure operating in IL₁ register) |
-| Tara (Green / White) | L₃ DS Aureform-carrier | Female Bodhisattva of compassion / liberation. Articulates L₃ DS Aureform-carrier function — deep-soul figure carrying Aureform articulation in the compassion-and-liberation register. Green Tara articulates active-liberation; White Tara articulates contemplative-healing-articulation |
-| Padmasambhava / Guru Rinpoche | L₃ DM transmission-articulator | Tantric master who brought Vajrayana Buddhism to Tibet. Articulates L₃ DM transmission-articulator function — deep-mind articulator operating through tradition-transmission across cultural-strata, structurally parallel to Bodhidharma in the China-articulation |
-| Milarepa | L₃ DS Centropic Steward (single-lifetime-Buddhahood articulation) | Tibetan yogi; attained Buddhahood in one lifetime through intense practice and devotion to his teacher Marpa. Articulates L₃ DS Centropic Steward function in the realized-yogi register, with the single-lifetime-Buddhahood articulation signaling structural-significance regarding accelerated-acclivation-articulation |
-| Bodhidharma | L₃ DM transmission-articulator | Brought Chan / Zen Buddhism from India to China; foundational articulator of the Zen-articulation lineage. Articulates L₃ DM transmission-articulator function structurally parallel to Padmasambhava in the cross-cultural transmission register |
-| The Five Dhyani Buddhas | L₅ Theonic refractions (mandala-articulation) | Vairocana (center), Akshobhya (east), Ratnasambhava (south), Amoghasiddhi (north), Amitabha (west — also in V1). Articulate L₅ Theonic refractions through mandala-articulation — five aspects of the supernal-most Buddhic-articulation operating across the cosmogonic-mandala-cardinal-articulation. The Five Dhyani Buddhas constitute one of the cleanest pre-Zenetist articulations of L₅ Theonic-articulation operating through structured-multiplicity rather than through single-figural articulation |
-| Vajradhara | L₅ Theonic-articulation (primordial Buddha, Tibetan articulation) | Primordial Buddha in Tibetan Buddhist articulation; supernal-most Buddhic-articulation prior to manifestation-as-Five-Dhyani-Buddhas. Articulates L₅ Theonic-articulation function in the primordial-Buddha register |
-| Samantabhadra (as primordial Buddha) | L₅ / L₀ articulation (Nyingma Adi-Buddha) | Adi-Buddha (primordial Buddha) in Nyingma Tibetan Buddhist articulation. Articulates L₅ / L₀ articulation function — supernal-most Buddhic-articulation with cross-band L₀ ground-articulation through the primordial-purity (*ka-dag*) register. The Nyingma articulation of Samantabhadra-as-Adi-Buddha is structurally distinctive in carrying both L₅ Theonic-articulation and L₀ ground-articulation through the primordial-purity register |
-| Yamantaka | L₃ DM fierce-articulation (wrathful Manjushri) | Wrathful aspect of Manjushri; "destroyer of death." Articulates L₃ DM fierce-articulation function — deep-mind articulator operating through wrathful-articulation register, structurally parallel to other wrathful-fierce articulators across traditions (Sekhmet, Kali, Surtr-as-cosmogonic-fire). The wrathful-Manjushri articulation operates within the same L₃ DM stratum as the standard-Manjushri articulation but in the structural-correction-and-conquest-of-death register |
-| Kannon / Guanyin (Avalokiteshvara cultural-articulation) | L₃ DS Aureform-carrier (East Asian articulation) | East Asian cultural-articulation of Avalokiteshvara (Volume 1 places Avalokiteshvara at the L₃ DS Aureform-carrier stratum). The Kannon (Japanese) and Guanyin (Chinese) articulations operate at the same structural-stratum as the Indian Avalokiteshvara-articulation but with cultural-articulation-feminization in East Asian transmission. *Cross-tradition cultural-articulation note rather than novel placement* |
+### Supra-L₀ — Zenon (Unknown Principle)
 
----
+**No direct mythic figure identified.** 🕳️ Zenon is the Unknown Principle — the trans-structural horizon beyond pattern, polarity, emanation, and attribution — and has not been formally articulated by another system, so no cross-traditional analog is carried here (conformed to `MP09-time-death-and-glossary-ch22-24.md` §24, Aug 21 2026). §25.3 records the same finding as pre-figural, with no figures placed.
 
-## Celtic / Insular Tradition Extensions
+The three MP01 Chapter 3 listings are retained struck for provenance; each is **relocated to L₀ — Aion** in the table below, per MP09's glossary, which carries them as apophatic and subtractive articulations reaching the Aionic limit.
 
-Volume 1 articulates portions of the Arthurian cluster. The Celtic deity-pantheon proper is largely absent from Volume 1; Volume 2 adds the Tuatha Dé Danann pantheon, Fomorian inverse-pantheon, and the Insular heroic-cluster, plus Arthurian extensions.
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| ~~Nirguna Brahman~~ | Advaita Vedanta | (⚠) **Corrected → L₀ Aion.** Rationale: **subtractive realization terminates at Aion, not at Zenon** — Zenon-access requires the synthesis pathway, which subtraction does not perform. Listed here in MP01 Ch. 3; audit corrects per Note on Brahman as Aion |
+| ~~The Tao~~ | Daoism | (⚠) **Corrected → L₀ Aion.** The Tao unmanifest is an apophatic articulation reaching the Aionic limit, not the trans-structural horizon (corrected Aug 21 2026, per MP09 §24) |
+| ~~Ein~~ | Kabbalah | (⚠) **Corrected → L₀ Aion.** The void beyond even light is a subtractive articulation reaching the Aionic limit; subtraction does not cross into Zenon, which is reached through synthesis alone (corrected Aug 21 2026, per MP09 §24) |
 
-### Tuatha Dé Danann — Centropic-Aligned Celtic Pantheon
+### L₀ — Aion (Absolute Potential)
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Brigid | L₄ DP threefold-articulation (poetry / smithcraft / healing) | Triple goddess of poetry, smithcraft, and healing; Christianized as St. Brigid. Articulates L₄ DP threefold-articulation function — single-figure articulating three structural-functions across the poetic-articulator, crafting-articulator, and healing-articulator registers. The Christianization-articulation operates as cross-tradition transmission of the Celtic figural-articulation into Christian-articulation strata (St. Brigid's Day at Imbolc, Brigid's cross) |
-| Lugh | L₄ DL sovereign (the many-skilled) | Many-skilled god; light, kingship, harvest. Articulates L₄ DL sovereign function structurally parallel to Apollo / Helios at L₄ DL (Greek) — the many-skilled articulation operates as L₄ DL articulator-of-skill across multiple craft-and-knowledge registers. The Lugh-Lughnasadh festival articulation names the harvest-articulation at the cosmogonic-cyclical register |
-| The Dagda ("Good God") | L₄ DP sovereign-vital | Tuatha Dé chief; cauldron, club, harp. Articulates L₄ DP sovereign-vital function — chief-of-the-pantheon operating through generative-vitality at the sovereign-articulation register. The cauldron-articulation operates as L₄ DP nourishment-carrier; the club articulates structural-corrective; the harp articulates ordering-of-cosmos through music |
-| The Morrigan | L₄ DP fierce-articulation (war, fate, sovereignty; often triple) | Goddess of war, fate, sovereignty (often triple-articulated as Morrigan, Badb, Macha). Articulates L₄ DP fierce-articulation function structurally parallel to Kali at L₄ DP (Hindu Goddess-tradition's fierce-articulation), Sekhmet (Egyptian L₄ DP fierce-register). The triple-articulation operates as L₄ DP fierce-multiplication paralleling the Hindu fierce-Goddess-multiplication articulation |
-| Nuada | L₄ DL wounded-sovereign | Silver-handed king of the Tuatha Dé. Loses his arm in battle and is replaced as king (since a king must be physically whole in Celtic articulation); regains kingship after Dian Cecht crafts him a silver hand. Articulates L₄ DL wounded-sovereign function — the structural-articulation that sovereign-articulation requires structural-wholeness, with the wounded-and-restored arc articulating the structural-pattern of sovereign-restoration through crafting-articulation |
-| Cernunnos | L₄ DP wilderness-vitality | Horned god of the wild, fertility, animals. Articulates L₄ DP wilderness-vitality function structurally parallel to Pan (Greek L₄ DP wilderness, Volume 2) — the wilderness-articulator operating at the boundary between L₄ archetypal-vitality and L₁ embodied-presence |
-| Manannán mac Lir | L₃ DM threshold-articulator (sea, otherworld-guide) | Sea-god, otherworld-guide. Articulates L₃ DM threshold-articulator function operating at the otherworld-passage register, structurally parallel to Hermes (Greek), Anubis (Egyptian), Heimdall (Norse) at the L₃ DM threshold-articulation stratum |
-| Aengus / Óengus | L₂ / L₄ DP youthful-love | Youthful love-god. Articulates L₂ / L₄ DP function in the youthful-love register, structurally parallel to Olympian Eros (Greek L₂ attraction-operator) and Kama (Hindu L₂ / L₄ DP) |
-| Danu | L₄ DP / L₀ matriarchal-substrate | Mother-goddess of the Tuatha Dé Danann (the "people of Danu"). Articulates L₄ DP / L₀ bridging function — matriarchal-articulator operating at the cosmogonic-substrate register, structurally parallel to Aditi (Vedic), Devi (Hindu Goddess-tradition's primordial articulation), Neith (Egyptian Volume 2) |
-| Tuatha Dé Danann (collective) | L₄ collective | Race-category centropic pantheon. The collective articulates the centropic-aligned-pantheon at the L₄ collective stratum. Per Volume 1's race-category orientation conflation framework, individual Tuatha Dé articulate at specific bifurcal-stratum positions per figural-articulation; the collective articulates the centropic-collective-pantheon function |
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Saguna Brahman | Vedantic Hinduism | Qualified divinity in still potential — Aion-with-qualifications-foregrounded. Stands alongside Nirguna Brahman below as the same station at a different realization-mode. Cross-band L₅ resonance noted through the Ishvara articulation; see Note on Saguna and Nirguna as Intra-Aionic Register-Distinction |
+| The Monad | Neoplatonism / Pythagoreanism | Indivisible unity before division |
+| Primordial Stillness | Taoist Cosmogony | The unmoved container of all form |
+| Nirguna Brahman | Advaita Vedanta | **Relocated from the Supra-L₀ table** — Aion-with-qualifications-subtracted; subtractive realization terminates at Aion, not at Zenon (Aug 21 2026). See Note on Saguna and Nirguna as Intra-Aionic Register-Distinction |
+| The Tao unmanifest | Daoism | **Relocated from the Supra-L₀ table** — the nameless prior to the Way's articulation; timeless stillness rather than trans-structural horizon (Aug 21 2026) |
+| Ein | Kabbalah | **Relocated from the Supra-L₀ table** — the void beyond even light as subtractive articulation of Absolute Potential (Aug 21 2026) |
 
-### Fomorians — Inverse-Aligned Celtic Pantheon
+### L₀ — Khaon (Absolute Dispersion)
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Balor | IL₄ IDP / IL₅ catalyst | One-eyed Fomorian king with deadly gaze; slain by Lugh at the Second Battle of Mag Tuired. Articulates IL₄ IDP function with IL₅ catalyst-resonance through the deadly-gaze articulation — the Balor-articulation operates as inverse-articulator whose perceptual-articulation carries cosmogonic-destructive-articulation. The Lugh-slays-Balor articulation operates as paradigm-instance of L₄ DL sovereign articulating structural-correction against IL₄ inverse-sovereign |
-| Fomorians (collective) | IL₄ collective with race-category orientation conflation | Inverse-aligned-pantheon. The collective articulates the inverse-aligned-pantheon at the IL₄ collective stratum. Per race-category orientation conflation framework, individual Fomorians may articulate at varying bifurcal-stratum positions; the collective articulates the inverse-aligned-collective-pantheon function |
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Chaos | Greek Cosmology | The primordial abyss |
+| Apeiron | Pre-Socratic (Anaximander) | The boundless and indefinite |
+| Śūnyatā | Madhyamaka Buddhism | Radical openness |
 
-### Insular Heroic Cluster
+### L₅ — Theon (Essence of Being)
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Cu Chulainn | L₂ → L₃ heroic individuation (warrior-frenzy register) | Ulster hero; martial frenzy (the *ríastrad* / warp-spasm). Articulates L₂ → L₃ heroic-individuation function in the warrior-frenzy register, with the *ríastrad*-articulation specifying the embodied-stratum vital-transformation accompanying martial-articulation. Structurally parallel to Achilles in the warrior-fury register |
-| Finn / Fionn mac Cumhaill | L₂ → L₃ wisdom-and-warrior arc | Hero of the Fenian Cycle; gains wisdom from the Salmon of Knowledge (touching it while cooking, sucking his burned thumb, gaining cosmic-articulation). Articulates L₂ → L₃ wisdom-and-warrior function — the wisdom-acquisition-through-thumb articulation operates as accidental-but-structurally-necessary acclivation-articulation |
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Purusha | Vedic Tradition | Cosmic integrative being |
+| Ahura Mazda | Zoroastrianism | Divine wisdom and order; **resolves Flag #4 — canonical primary layer is L₅ EOB** |
+| Logos | Stoic / Christian Thought | The structuring principle of cosmos |
+| Tiferet | Kabbalah | Central sphere of harmonic integration; the axis of balancing resonance within the Sefirotic Tree |
+| Dharmakaya | Buddhism | Reality Body of pure, luminous, unfragmented awareness; formless essence before differentiation into form |
 
-### Arthurian Cluster Extensions
+### IL₅ — Nekron (Void of Self)
 
-Volume 1 articulates portions of the Arthurian cluster (Arthur as L₃ DS / DM dharmic-king with structural-resonance to David / Rama register; Excalibur as L₄ DL articulating-operator; the Grail as L₅ Theonic-articulation; Camelot as L₂ → L₃ articulation-locus; the Round Table as cosmogonic-equality-articulation). Volume 2 extends with figural-articulations within the Arthurian-articulation cluster.
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Ahriman | Zoroastrianism | Adversarial force; **resolves Flag #5 — canonical primary layer is IL₅ VOS** |
+| Qliphoth | Kabbalah (Lurianic) | Fragmented husks |
+| Oblivion | Gnostic Vision | The unreturning abyss |
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Merlin / Myrddin | L₃ DM articulator (mage-counsellor register) | Arthur's mage-counsellor; articulator of supernal-articulation at the cosmogonic-foundation register. Articulates L₃ DM articulator function in the mage-counsellor register, structurally parallel to Vyasa (Hindu Mahabharata), Hermes Trismegistus (Greco-Egyptian), and other articulator-of-tradition figures |
-| Morgan le Fay | L₄ DP / IL₄ twofold articulation (Arthurian compositing) | Arthur's sister; ambivalent power. Articulates L₄ DP / IL₄ twofold-articulation function — figural-articulation that operates across centropic and inverse registers depending on cultural-articulation-stratum (early-articulation foregrounds healer-articulation; later-articulation foregrounds inverse-articulation). The Arthurian-compositing pattern articulates the structural-question regarding figural-articulation that varies across textual-stratum |
-| Lancelot | L₂ → L₃ initiate (with structural-flaw-articulation) | First knight of the Round Table; flawed through the Guinevere-articulation. Articulates L₂ → L₃ initiate function with structural-flaw-articulation through the dharmic-violation in the queen-relationship register |
-| Galahad | L₂ → L₃ pure-knight articulation (Grail-achiever) | Lancelot's son; pure knight; achiever of the Grail-articulation. Articulates L₂ → L₃ pure-knight function — figural-articulation that completes the Grail-quest through structural-purity, articulating the L₃ DS / Aureform-carrier acclivation through dharmic-completion |
-| Gawain | L₂ → L₃ knight-articulation (Green Knight encounter) | Round Table knight; protagonist of *Sir Gawain and the Green Knight*. Articulates L₂ → L₃ knight-articulation function with the Green Knight encounter operating as structural-trial at the threshold-articulation register. The Green Knight-articulation may itself articulate L₄ DP wilderness-articulation parallel to Cernunnos register |
+### L₄ — Morgis (Deep Psyche)
 
----
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Prana | Hinduism | The vital breath |
+| Chi | Taoism | Sustaining motion |
+| Anima | Aristotelian Philosophy | The soul-force animating form |
+| Ruach | Hebrew / Kabbalah | Spirit-breath of life |
 
-## Daoist / Confucian / Chinese Tradition Extensions
+### IL₄ — Psychea (Inverse Deep Psyche)
 
-Volume 1 articulates Tao at L₀ Aion (corrected from earlier Zenon-mapping per the synthesis-pathway framework). Volume 2 extends with the figural-articulators of Daoist and Confucian tradition, primordial cosmogonic articulations, and Chinese folk-pantheon articulations.
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Tamas | Samkhya / Vedanta | Inertia and obscuration |
+| Lethe | Greek Myth | The river of forgetfulness |
+| Acedia | Christian Monastic Tradition | Soul-draining torpor |
+| Nergal | Mesopotamian Tradition | God of decay and wasting |
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Lao Tzu | L₃ DM articulator (Daoist foundational-articulator) | Founding articulator of Daoism; author of the *Tao Te Ching*. Articulates L₃ DM articulator function structurally parallel to Hermes Trismegistus (Greco-Egyptian), Vyasa (Hindu), and other articulator-of-tradition-foundational figures. The Lao Tzu-articulation operates through articulating-the-Tao-that-cannot-be-named — structurally distinctive articulator-function operating through articulation-of-apophatic-ground |
-| Confucius / Kongzi | L₃ DM social-architect | Founder of Confucian ethical-ritual system. Articulates L₃ DM social-architect function — deep-mind articulator operating through ethical-and-ritual-articulation at the social-cosmogonic register. The Confucian-articulation extends through the Five Classics and Four Books articulations, transmitting across multiple cultural-strata |
-| Pangu | L₀ Khaonic-substrate (cosmogonic-corpse-substrate) | Primordial cosmogonic figure; cosmos forms from his slain body (eyes = sun and moon, breath = wind, voice = thunder, etc.). Articulates L₀ Khaonic-substrate function structurally parallel to Ymir (Norse Volume 2 Cosmogonic) — both articulate the cosmogonic-corpse-substrate articulation through dismemberment-and-distribution at the cosmogonic-foundation register |
-| Nuwa | L₀ / L₄ DP cosmogonic-restorative | Creator-goddess; repairs the heavens after Gong Gong damages a pillar of heaven. Articulates L₀ / L₄ DP cosmogonic-restorative function — figure operating at the cosmogonic-substrate / archetypal-vitality bridge through restoration-articulation. The Nuwa-articulation also creates humanity from clay in some articulations, structurally parallel to Khnum (Egyptian) and Prometheus (Greek) in the human-formation register |
-| Fuxi | L₃ DM cultural-hero articulator (gives the trigrams) | Cultural hero; gives the eight trigrams (the *bagua*) which become foundational for the *I Ching* articulation. Articulates L₃ DM cultural-hero articulator function — the trigrams-articulation operates as structural-articulation-operator at the cosmogonic-pattern register |
-| Yu Huang / Jade Emperor | L₅ Theonic-cultural-elevation | Supreme deity of folk-Daoism and Chinese folk-religion. Articulates L₅ Theonic-cultural-elevation function — figural-articulation elevated through cultural-articulation-strata to L₅ supreme-articulator stratum. Structurally parallel to other cultural-elevation patterns (Ra, Aten, Surya in Saura-tradition) |
-| Xi Wangmu | L₄ DP elixir-keeper (Queen Mother of the West) | Queen Mother of the West; immortality-keeper through the peaches of immortality. Articulates L₄ DP elixir-keeper function structurally parallel to Idunn (Norse Volume 2) in the immortality-substance-keeper register |
-| Sun Wukong (the Monkey King) | L₂ → L₃ Twofold Trickster transformation | Trickster-pilgrim from *Journey to the West*. Articulates L₂ → L₃ Twofold Trickster transformation function — the Monkey-King narrative articulates structural-acclivation from L₂ chaotic-trickster (early-narrative articulation, contesting heaven) through bound-companion articulation (under Tang Sanzang's pilgrimage) to L₃ realized-articulation (achievement of Buddhahood). The arc operates as paradigm-instance of Twofold Trickster transformation across the bifurcal lattice through structural-pedagogy |
-| Three Pure Ones | L₅ / L₄ Daoist supreme-triad | Daoist supreme triad: Yuanshi Tianzun (Celestial Worthy of Primordial Beginning), Lingbao Tianzun (Celestial Worthy of Numinous Treasure), Daode Tianzun (Celestial Worthy of Way and Virtue, sometimes identified with Lao Tzu). Articulate L₅ / L₄ supreme-triad function in the Daoist-articulation register, structurally parallel to other supreme-triadic articulations across traditions (Trimurti, Trinity) |
-| The Eight Immortals | L₃ DS Centropic Stewards (collective) | Daoist immortals each carrying a power: Lü Dongbin, Li Tieguai, Zhang Guolao, Han Xiangzi, Cao Guojiu, Lan Caihe, He Xiangu, Zhongli Quan. Articulate L₃ DS Centropic Stewards collective function — figural-collective at the deep-soul stewardship-articulation register, with individual figures articulating specific stewardship-domain articulations |
+### L₄ — Sophis (Deep Logos)
 
----
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Platonic Forms | Platonism | Eternal archetypes |
+| Logos | Stoicism / Christian Philosophy | Structuring divine reason |
+| Divine Architect | Zenetist Archetype | Ordering principle |
 
-## Japanese / Shinto Tradition Extensions
+### IL₄ — Nyxea (Inverse Deep Logos)
 
-Volume 1 has minimal Shinto articulation. Volume 2 adds the principal Shinto articulators.
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Qliphoth | Kabbalah | Fragmented husks of form |
+| Chaos | Greek Cosmology | Mythic formlessness (in its inverse aspect) |
+| Contra-Pattern | Zenetist Archetype | Symbolic distortion and loss of intelligibility |
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Amaterasu | L₅ Theonic radiance — cultural-elevation pattern | Sun-goddess; ancestress of the imperial line. Articulates L₅ Theonic radiance function with cultural-elevation pattern — solar-deity culturally elevated to supernal-most articulation through imperial-ancestress articulation. Structurally parallel to Ra / Aten / Surya in the cultural-elevation pattern, with the imperial-lineage articulation distinguishing the Amaterasu-specific arc |
-| Susanoo | L₄ DP volatile-vitality (storm articulation) | Storm-god; brother of Amaterasu; ambivalent. Articulates L₄ DP volatile-vitality function structurally parallel to Sobek (Egyptian Volume 2) — raw archetypal-vitality with both generative and destructive aspects. The Susanoo-articulation oscillates between centropic (slaying Yamata-no-Orochi to free Kushinada-hime) and structurally-disruptive (his offenses against Amaterasu causing her cave-withdrawal) articulations |
-| Tsukuyomi | L₄ DP cyclical (moon-articulation) | Moon-god; brother of Amaterasu and Susanoo. Articulates L₄ DP cyclical-vitality function in the lunar register, structurally parallel to Selene (Greek), Chandra (Hindu), Nanna / Sin (Mesopotamian) |
-| Izanagi & Izanami | L₀ Bifurcal-pair / L₄ primordial pair | Primordial pair; create the Japanese islands and the kami. Articulate L₀ Bifurcal-pair / L₄ primordial-pair function — cosmogonic pair articulating the bifurcal-coherence at the cosmogonic-foundation register. The Izanami-death-and-Izanagi-underworld-passage narrative articulates Function 1 underworld-articulation at the cosmogonic-pair stratum |
-| Inari | L₁ ES / L₄ DP rice-and-fox kami | Rice / fox kami; twofold articulation across embodied-vitality (rice agriculture) and archetypal-vitality (fox-as-trickster-mediator) registers. Articulates L₁ ES / L₄ DP function, structurally parallel to other agricultural-vitality articulators (Demeter, Ceres, Dagan in Volume 2 Mesopotamian) |
-| Raijin & Fujin | L₄ DP paired (thunder and wind) | Thunder god (Raijin) and wind god (Fujin), often paired-articulated. Articulate L₄ DP paired function in the meteorological-articulation register |
+### L₃ — Archeus (Deep Soul)
 
-**Tengu / Oni / Yokai race-category note.** The Japanese tradition includes race-category articulations of supernatural-beings: tengu (long-nosed mountain spirits, ambivalent-articulation), oni (demons, often inverse-articulation), and yokai (broader supernatural-being category). Per Volume 1's race-category orientation conflation framework, individual figures within these collectives operate at varying bifurcal-stratum positions; the collectives articulate the supernatural-being class-articulation function.
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Atman | Hinduism | The Self |
+| Oversoul | Transcendentalism | Integrative being |
+| Living Memory | Zenetist Archetype | Coherent soul stream |
 
----
+### IL₃ — Fractus (Inverse Deep Soul)
 
-## Mesoamerican / Andean Tradition Extensions
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Broken Sparks | Gnosticism / Lurianic Kabbalah | Dispersed soul remnants |
+| Astral Fragmentation | Esoteric Mysticism | Scattered psychic being |
+| Dukkha | Buddhism | Dislocation of inner being |
 
-Volume 1 articulates Itzamna, Xibalba and the Xibalba Lords, Quetzalcoatl, and Tezcatlipoca. Volume 2 extends with major missing Mesoamerican and Andean articulations.
+### L₃ — Noeüs (Deep Mind)
 
-### Mesoamerican (Mayan / Aztec)
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Nous | Neoplatonism | (⚠) **Corrected:** Plotinus' Nous maps to L₄ DL (Sophis) — structuring intellect, not L₃ Noeüs. Listed here in MP01 Ch. 3 as L₃ analog; audit corrects to L₄ DL. See Neoplatonic Correspondence note |
+| Vijñāna | Buddhist / Yogic | Supernal discriminative awareness; **replaces Nous as L₃ DM analog in MP01** |
+| Buddha-mind | Mahayana Buddhism | Clear seeing |
+| Illuminated Reason | Zenetist Archetype | Inward sight |
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Kukulkan | L₅ Theonic-articulation (Mayan feathered-serpent) | Mayan feathered serpent; structurally parallel to Quetzalcoatl (Aztec Volume 1). Articulates L₅ Theonic-articulation function in Mesoamerican variant — the feathered-serpent articulation operates across Mesoamerican cultural-articulation-strata as supernal-most centropic-articulator |
-| Huitzilopochtli | L₄ DL with IL₄ Nyxean cultural-articulation overlay | Aztec sun-war god; demanded blood-tribute through the heart-sacrifice articulation. Articulates L₄ DL function with IL₄ Nyxean cultural-articulation overlay — structurally parallel to the YHWH-composite resolution (Volume 1). The Huitzilopochtli-articulation carries twofold-attribution: dharmic-articulation in the cosmogonic-renewal register (the sun's daily battle requiring nourishment), with IL₄ Nyxean attributions through the human-sacrifice-articulation. Per the YHWH-composite framework, the twofold-attribution operates as canonical articulation rather than as resolution-toward-single-attribution |
-| Tlaloc | L₄ DP rain and fertility | Aztec rain-god. Articulates L₄ DP function in the rain-articulator register |
-| Coatlicue | L₀ / L₄ DP serpent-skirted earth-mother | Aztec earth-mother; serpent-skirted; mother of Huitzilopochtli. Articulates L₀ / L₄ DP function in the cosmogonic-earth-mother register, structurally parallel to Gaia (Greek) and Prithvi (Vedic Volume 2) |
-| Mictlantecuhtli & Mictecacihuatl | L₃ DM threshold (Aztec underworld pair) | Aztec underworld lord and lady; rule Mictlan (the Aztec underworld). Articulate L₃ DM threshold function or IL₁ sealed-realm articulation (depending on whether Mictlan operates as Active-Mode or Sealed-Mode underworld-articulation per Volume 1 framework) |
-| Xipe Totec | L₁ ES dismemberment-restoration (Flayed God) | The Flayed God; agricultural renewal through flaying-and-renewal articulation. Articulates L₁ ES dismemberment-restoration function structurally parallel to Dionysus (Greek dismemberment-and-restoration) and Osiris (Egyptian Volume 1 dismemberment-and-restoration). The flaying-articulation operates as embodied-ritual articulation of the structural-pattern of generative-vitality through structural-disassembly-and-restoration |
-| The Hero Twins (Hunahpu & Xbalanque) | L₂ → L₃ heroic-individuation pair (Mayan Popol Vuh) | Mayan Popol Vuh heroes; defeat the Xibalba Lords (Volume 1) through structural-trial. Articulate L₂ → L₃ heroic-individuation pair function — twin-paired heroic-articulation operating through underworld-trial-and-overcoming, structurally parallel to other heroic-individuation arcs across traditions |
-| Vucub Caquix / Seven Macaw | IL₄ IDL counterfeit-radiance | Spurious-sun pretender defeated by the Hero Twins. Articulates IL₄ IDL counterfeit-radiance function — inverse-articulator claiming supernal-radiance status without lawful-articulation, structurally parallel to other counterfeit-radiance articulations across traditions |
+### IL₃ — ‍Mortus (Inverse Deep Mind)
 
-### Andean (Inca)
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Avidya | Buddhism | Spiritual ignorance |
+| Maya | Vedanta / Hindu Philosophy | (⚠) Illusion and veiling — note: this is the *inverse* usage. Decode 23 clarifies Maya as centropic L₄ DP / DL infrastructure (divine play). The MP01 usage here tracks the traditional Vedantic *inverse* connotation. See Note on Maya contra Skotos |
+| Inverse Logos | Zenetist Archetype | Distorted reason |
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Inti | L₅ Theonic radiance — cultural-elevation | Inca sun-god; ancestor of the Inca emperors. Articulates L₅ Theonic radiance function with cultural-elevation pattern parallel to Amaterasu / Ra / Aten / Surya |
-| Viracocha | L₅ Theonic-articulator (Inca creator) | Inca creator-god. Articulates L₅ Theonic-articulator function in the Andean cosmogonic-creator register |
-| Pachamama | L₄ DP earth-mother (Inca) | Inca earth-mother. Articulates L₄ DP earth-mother function structurally parallel to Coatlicue (Aztec), Gaia (Greek), Prithvi (Vedic) |
+### L₂ — Anthra (Superficial Soul)
 
----
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Psyche | Greek Thought | Soul-personality |
+| Heroic Self | Mythic Archetype | Striving toward wholeness |
+| Soul-in-Becoming | Zenetist Archetype | Agent of growth |
 
-## African Tradition Extensions
+### IL₂ — Echthros (Inverse Superficial Soul)
 
-Volume 1 articulates Eshu / Elegua (L₃ DM Twofold Trickster). Volume 2 extends with major Yoruba, Akan, and Fon articulators.
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Rebel Angel | Abrahamic Traditions | The adversary within |
+| The Divider | Mythic Archetype | Self locked in conflict |
+| Inner Saboteur | Zenetist Archetype | Structured resistance |
 
-### Yoruba Pantheon
+### L₂ — Nousa (Superficial Mind)
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Olodumare / Olorun | L₅ Theonic articulation | Yoruba supreme being. Articulates L₅ Theonic-articulation function in the Yoruba-tradition's supreme-articulation register |
-| Obatala | L₄ DL creator-of-human-bodies (sky-father) | Yoruba creator of human bodies; sky-father. Articulates L₄ DL function in the human-body-creator register, structurally parallel to Khnum (Egyptian Volume 2) and Prometheus (Greek) |
-| Yemoja / Yemaya | L₄ DP / L₀ Khaon ocean-mother-of-orisha | Yoruba mother-of-orisha; oceanic articulation. Articulates L₄ DP / L₀ Khaon bridging function — orisha-mother operating at the cosmogonic-substrate / archetypal-vitality bridge through oceanic-articulation |
-| Oshun | L₄ DP river-goddess (love, beauty) | Yoruba river-goddess; love, beauty, fertility. Articulates L₄ DP function in the river-and-love-articulator register |
-| Shango | L₄ DL martial-thunder-king | Yoruba thunder-king. Articulates L₄ DL martial function structurally parallel to Thor, Indra, Adad (Volume 2 Mesopotamian) in the thunder-king cluster |
-| Ogun | L₄ DL / DP smithing-and-warrior | Yoruba iron-warrior-craftsman. Articulates L₄ DL / DP function structurally parallel to Hephaestus (Greek), Ptah (Egyptian Volume 2 Memphite), Khnum (Egyptian Volume 2) |
-| Oya | L₄ DP fierce-storm-and-cemetery | Yoruba storm-and-cemetery goddess. Articulates L₄ DP fierce-articulation function in the storm-and-threshold register |
-| Orunmila | L₄ DL diagnostic-articulator (Ifa divination) | Yoruba wisdom orisha; presides over the Ifa divination system. Articulates L₄ DL diagnostic-articulator function — structuring-articulator operating through divination-system articulation, structurally parallel to other divination-tradition founders across traditions |
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Hermes | Greek / Hermetic Tradition | Revealer and seeker |
+| Enlightened Reason | Stoicism | Aligned intellect |
+| The Seeker | Zenetist Archetype | Meaning-quest archetype |
 
-### Other African Articulations
+### IL₂ — Skotos (Inverse Superficial Mind)
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Anansi | L₂ SM Twofold Trickster (Akan) | Akan trickster-spider; transmits across West African and African-diasporic articulations. Articulates L₂ SM Twofold Trickster function structurally parallel to Eshu / Elegua (Yoruba Volume 1) in the Twofold Trickster register. *Volume 1 future-integration item; canonical placement here* |
-| Mawu & Lisa | L₄ paired-aspect (moon-female / sun-male) (Fon) | Fon creator pair: Mawu (moon, female) and Lisa (sun, male). Articulate L₄ paired-aspect function — bifurcal-pair articulating cosmogonic-pair at the lunar-solar register, structurally parallel to other bifurcal-paired articulations across traditions |
-| Nyame | L₅ Theonic articulation (Akan) | Akan supreme being. Articulates L₅ Theonic-articulation function in the Akan-tradition supreme-articulation register |
-| Mami Wata | L₄ DP / L₀ water-spirit complex | West African water-spirit complex (often syncretic-articulation across multiple cultural-strata). Articulates L₄ DP / L₀ bridging function in the water-spirit register, with cross-band articulation through diasporic-syncretic-articulation transmission |
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Loki | Norse Mythology | Trickster, distorted mirror |
+| Maya | Vedanta / Hindu Philosophy | (⚠) Illusion through cognition — same caveat as Mortus analog above |
+| The Obscurer | Zenetist Archetype | Veiler of reality |
 
----
+### L₁ — Soma (Embodied Soul)
 
-## Smaller-Tradition Cluster (Brief Articulations)
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Purusha | Hinduism | The soul witnessing in matter |
+| The Living Avatar | Zenetist Archetype | Soul in action |
+| The Keeper of Flame | Zenetist Archetype | Aligned embodiment |
 
-The traditions below are articulated in compressed-form due to either limited cross-tradition essay-work coverage to date or the broader Volume 2 scope-decision to articulate primary-tradition figures comprehensively while providing brief-articulations for tradition-clusters that warrant future expansion. Each subsection articulates the principal figural-articulators with stratum-placements; future Volume 2 audit-passes can expand specific figures into full-treatment entries.
+### IL₁ — Malara (Inverse Embodied Soul)
 
-### Slavic Tradition
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Hungry Ghost | Buddhism | Bound desire and insatiability |
+| Bacchic Frenzy | Greek Mythic Motif | Ecstatic dispersal and loss of embodied coherence |
+| Embodied Vice | Zenetist Archetype | Fragmented will in reactive form |
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Perun | L₄ DL martial-thunder | Thunder-god; chief of the Slavic pantheon. Articulates L₄ DL martial-thunder function structurally parallel to Thor, Indra, Adad, Shango (cross-tradition thunder-king cluster) |
-| Veles | L₄ DP / IL₄ chthonic-paired | Cattle, magic, underworld; paired-articulated with Perun in cosmic-conflict-articulation. Articulates paired L₄ DP / IL₄ chthonic-articulation — figure operating across centropic and inverse registers depending on cultural-articulation-stratum |
-| Mokosh | L₄ DP earth-mother | Earth-mother goddess. Articulates L₄ DP earth-mother function |
-| Svarog | L₄ DL forge-articulator | Sky-father; forge-and-fire-articulator. Articulates L₄ DL function in the forge-articulator register |
-| Baba Yaga | L₃ DM threshold / Twofold Trickster | Forest-witch in fowl-leg hut; twofold articulation depending on narrative. Articulates L₃ DM threshold-articulation function with Twofold Trickster-overlay — figural-articulation that operates as test-articulator at the wilderness-threshold register, with pass / fail determining centropic-aid contra inverse-consumption |
-| Marzanna | IL₄ death-goddess | Goddess of death and winter; ritually destroyed at spring-articulation. Articulates IL₄ function in the death-and-winter register |
-| Belobog & Chernobog | L₄ / IL₄ paired (centropic / entropic) | "White God" and "Black God" paired-articulation. Articulate L₄ / IL₄ paired centropic / entropic function — explicit bifurcal-paired articulation at the cosmogonic-articulation register, structurally one of the cleanest pre-Zenetist articulations of bifurcal-paired sovereign-articulators |
+### L₁ — Biosa (Embodied Mind)
 
-### Finnish Tradition (Kalevala)
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Logos Incarnate | Christian / Stoic Thought | Wisdom made manifest |
+| Embodied Wisdom | Zenetist Archetype | Resonant reasoning |
+| Cognitive Agency | Zenetist Archetype | Intention in motion |
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Väinämöinen | L₃ DM articulator (singer-of-power) | Central hero of the *Kalevala*; articulator of power through song. Articulates L₃ DM articulator function in the singer-of-power register, structurally parallel to Orpheus (Greek Volume 2) and Bragi (Norse Volume 2) in the poetic-and-skaldic articulator register |
-| Ilmarinen | L₄ DL smith | Sky-smith; forges the Sampo. Articulates L₄ DL function in the smithing-articulation register, structurally parallel to Hephaestus, Ptah, Ogun |
-| Lemminkäinen | L₂ heroic-articulation | Heroic figure of the *Kalevala*; suffers death-and-restoration narrative. Articulates L₂ heroic-articulation function with cross-band Function 1 underworld-articulation through the death-and-restoration arc |
-| Louhi | IL₄ IDL antagonist | Mistress of Pohjola; antagonist in the *Kalevala*. Articulates IL₄ IDL function in the cosmogonic-antagonist register |
-| Ukko | L₄ DL sky-thunder | Sky-thunder god (precursor of later articulators). Articulates L₄ DL function structurally parallel to Indo-European thunder-king cluster |
+### IL₁ — Mania (Inverse Embodied Mind)
 
-### Polynesian Tradition
+| Analog | Tradition | Notes |
+|:--|:--|:--|
+| Mania | Greek Philosophical Motif | Divine frenzy of the mind; thought unmoored from measure |
+| Mad Demiurge | Gnostic Tradition | Power without coherence |
+| Cognitive Dissonance | Zenetist / Modern Psychology | Splintered reasoning |
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Tangaroa / Ta'aroa | L₀ / L₅ creator | Polynesian sea-creator (varies across island-articulations: Maori Tangaroa as sea-god; Tahitian Ta'aroa as primordial-creator). Articulates L₀ / L₅ creator function depending on cultural-articulation-stratum |
-| Maui | L₂ → L₃ Twofold Trickster / culture-hero | Trickster culture-hero across Polynesian islands; fishes up islands, slows the sun, attempts immortality. Articulates L₂ → L₃ Twofold Trickster transformation function — figural-articulation operating across multiple cultural-strata with consistent trickster-culture-hero register. The immortality-attempt-and-failure articulation operates as paradigm-instance of L₂ → L₃ acclivation interrupted at the immortality-threshold |
-| Pele | L₄ DP fierce-volcanic | Hawaiian volcano-goddess. Articulates L₄ DP fierce-articulation function in the volcanic register, structurally parallel to other fierce-articulators across traditions (Sekhmet, Kali, Morrigan, Oya) |
-| Rangi & Papa | L₀ primordial pair | Primordial sky-father and earth-mother; embraced and separated by their children. Articulate L₀ primordial-pair function structurally parallel to Izanagi & Izanami (Japanese), Dyaus & Prithvi (Vedic), Uranus & Gaia (Greek). The separation-articulation operates as Function 1 cosmogonic-articulation of the bifurcal-pair-separation-into-operative-cosmos |
-| Tane | L₄ DP forest-articulator | God of forests, birds, and craft. Articulates L₄ DP function in the forest-and-craft articulator register |
+### Structural Roles (MP01 §3.16–3.17)
 
-### Australian Aboriginal Tradition
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Rainbow Serpent | L₀ Bifurcal articulation; cosmogonic | Pan-Aboriginal cosmogonic articulator across multiple Aboriginal tradition-articulations. Articulates L₀ Bifurcal articulation function — primordial articulator operating at the cosmogonic-substrate register through serpent-iconography, with cross-tradition-articulation parallels (Quetzalcoatl, Kukulkan, Apophis-as-inverse, the Vedic Vasuki / Shesha articulations). The Aboriginal Rainbow Serpent operates centropically in most articulations |
-| Baiame | L₅ Theonic-articulator (sky-father across multiple Aboriginal articulations) | Sky-father / All-Father in southeastern Australian Aboriginal articulations. Articulates L₅ Theonic-articulator function in the Aboriginal supreme-articulation register |
-| Bunjil | L₄ DL creator-eagle (Kulin nations) | Wedge-tailed eagle creator-figure in Kulin nations Aboriginal articulations. Articulates L₄ DL function in the creator-articulator register |
-| Wandjina | L₃ DM ancestral-cloud-spirits | Cloud-and-rain ancestral-spirits in Kimberley Aboriginal articulations. Articulate L₃ DM ancestral-articulator function |
-| Altjira / Dreaming-articulators | Cross-stratum Dreaming-articulation | The Dreaming (*Tjukurpa*, *Altjira*, *Wongar*, etc. across language-groups) articulates a cosmogonic-articulation that does not map cleanly to single-stratum-placement. The Dreaming operates across cosmogonic-articulation, ancestral-articulation, and ongoing-articulation registers, articulating a structural-articulation that may require cross-stratum-operator placement rather than single-stratum-figure placement. *Pending articulation-work; structural-articulation operates across multiple strata* |
-
-### Inuit Tradition
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Sedna | L₄ DP / IL₁ sea-mother (with dismemberment-articulation) | Sea-mother whose dismemberment-narrative parallels Tiamat-Marduk inversely (Sedna's fingers cut off by her father become sea-creatures). Articulates L₄ DP / IL₁ bridging function — generative-vitality at archetypal stratum with sealed-realm-articulation through the underwater-articulation register. The dismemberment-articulation operates as L₁ generative-vitality through structural-disassembly, structurally parallel to Xipe Totec, Dionysus, Osiris, Tiamat-articulation patterns but with the inverse-relationship-to-Marduk-articulation distinguishing the Sedna-arc |
-
-### Native American Traditions (Selected Articulations)
-
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Wakan Tanka | L₅ / L₀ Lakota supreme-articulation | "Great Spirit / Great Mystery" in Lakota tradition. Articulates L₅ / L₀ function in the supreme-articulation-with-mystery register, with cross-band articulation between L₅ Theonic-articulator and L₀ apophatic-mystery-ground. The "Great Mystery" articulation foregrounds the apophatic-articulation specifically, distinguishing Wakan Tanka from purely-positive supreme-articulations |
-| White Buffalo Calf Woman | L₃ DS Centropic Steward (Lakota) | Sacred-pipe-bringer; teacher of the Seven Sacred Rites. Articulates L₃ DS Centropic Steward function in the Lakota tradition |
-| Spider Grandmother | L₃ DM articulator (multiple Native American traditions) | Spider-grandmother figure across multiple Native American tradition-articulations (Hopi, Cherokee, etc.). Articulates L₃ DM articulator function in the cosmogonic-weaver register, structurally parallel to other weaver-articulators across traditions |
-| Skywoman | L₀ → L₁ cosmogonic (Iroquois / Haudenosaunee) | Declivates from the sky-world onto Turtle's back; cosmogonic articulator in Iroquois / Haudenosaunee tradition. Articulates L₀ → L₁ cosmogonic function — primordial articulator declivating-into-embodied-articulation at the cosmogonic-foundation register |
-| Glooscap | L₃ DM culture-hero (Algonquian / Wabanaki) | Culture-hero across Algonquian and Wabanaki Native American articulations. Articulates L₃ DM culture-hero function in the foundational-articulator register |
-| Iktomi | L₂ SM Twofold Trickster (Lakota) | Spider-trickster in Lakota tradition. Articulates L₂ SM Twofold Trickster function in the spider-trickster register, structurally parallel to Anansi (West African Volume 2 African) and Spider Grandmother (with Spider Grandmother operating at L₃ DM articulator stratum and Iktomi operating at L₂ SM trickster stratum, articulating distinct figural-articulations within the spider-articulator class) |
+| Role | Layer | Function | Notes |
+|:--|:--|:--|:--|
+| Avatars | L₅ EOB (Theon) → operative stratum | **Mythic shorthand for figures in strong-to-full Theonic office-correspondence**; their structural function is catalytic — they restructure reality through centropic presence; examples include Christ (singular full personal bearer), Vishnu (Matsya and other avatars), Kalki, the Buddha (in his avataric aspect) | MP02 §4.59, MP11 §26.15. Distinct from Centropic Stewards (L₃ carriers of Aureform, not direct Theonic emanations) and from Aureform itself (L₄ Form, not emanative figure). Inverse counterpart: Inverse Avatars at IL₅ |
+| Inverse Avatars | IL₅ VOS (Nekron) → operative stratum | **Mythic shorthand for figures or systems in strong-to-full Nekronic office-correspondence**; structural counterparts to Avatars whose function is terminal entropic catalyst — they restructure reality through entropic presence; the Revelation Dragon, the Antichrist (as Nyxea-cascade terminus), and similar terminal entropic expressions. Nekron itself is not projected; the current is borne, enacted, or systemically distributed | MP02 §4.59. Distinct from Echo Vessels (IL₃ carriers of Mimoform, not direct Nekronic projections) and from Mimoform itself (IL₄ inverse Form). **Doctrinally completes the L₅ / IL₅ stratum** of the entropic-mirror taxonomy |
+| Aureform | L₄ DP / DL (Form-type) | **The Form of Compassion** as a specific Form within the L₄ Field of Forms; centropic archetype radiating resonance into the corporeal field through Centropic Stewards at L₃; does not incarnate directly | MP11 §26.15, §26.17. Other Forms at L₄ include Beauty, Justice, Truth, Architecture. Cultural articulations include Avalokiteśvara, the Bodhisattva-as-archetype. Inverse counterpart: Mimoform at IL₄ |
+| Mimoform | IL₄ IDP / IDL (Form-type) | **The Form-type of coercive mimicry**; inverse archetype radiating counterfeit compassion through Echo Vessels at IL₃; appears compassionate while delivering coercion | MP11 §26.15. Carried into operative stratum by Echo Vessels. **Doctrinally completes the L₄ / IL₄ stratum** of the entropic-mirror taxonomy |
+| Centropic Stewards | L₃ DS / DM (stabilized) | Souls achieving integration; remain at harmonic layer rather than integrating into L₄ or continuing toward L₅; carry Aureform resonance from L₄ into operative stratum; guide other beings toward coherence through structural attunement; incarnate across worlds; service through resonance | Not yet returned but already whole; harmonic bridges. **Distinct from Avatars** (figures in strong-to-full L₅ Theonic office-correspondence) and **from Aureform itself** (the L₄ Form whose resonance they carry). Inverse counterpart: Echo Vessels at IL₃ carrying Mimoform resonance |
+| Ascended Masters | L₃ DS / DM expression of L₄ DP / DL Form-Type (Aureform) | Esoteric term Zenetism reframes, not adopts. Functional analog to Centropic Stewards — integrated beings radiating centropic coherence through multiversal expression. Carry Aureform resonance in embodied form through sustained L₃ integration. Not Theonic avatars, not deities | MP11 §26.15. Cross-tradition cluster: resolves to **Centropic Stewards carrying Aureform resonance**, with Ascended Masters (Western esoteric), embodied Bodhisattvas (Mahayana), and similar cross-tradition categories all naming the same structural role. Cultural elevation to L₅ or Supra-L₀ follows the same inflation pattern as Ahura Mazda, YHWH, Shiva |
+| Echo Vessels | IL₃ IDS / IDM (propagators) | Inverse counterparts to Centropic Stewards; propagators of fragmentation; seed confusion and install dissonance across domains; carry **Mimoform resonance** from IL₄ into operative stratum — the entropic-mirror function of Stewards carrying Aureform resonance | Awaken to disrupt; do not merely mirror dissonance but install it. The naming preserves Zenetist discipline in which "echo" denotes entropic function specifically: Echo Vessels propagate inverse patterns through hollow replication and degraded transmission, in contrast to Stewards who carry centropic resonance through Living Transmission (⟿✨) with origin-fidelity preserved. Inverse-bodhisattva figures whose outward form resembles compassionate guidance but whose operative function installs dissonance are Echo Vessels carrying Mimoform resonance |
+| Harmonic Agents | L₁ ES / EM and L₂ SS / SM (distributed) | **Distributed or momentary expressions of centropic resonance** at the embodied-personality interface; facilitate coherence through attunement rather than authority; adjust dissonance through presence, action, or transmission; may or may not be aware of the structural role they serve | MP11 §26.15. Distinct from Centropic Stewards (who are fully integrated at L₃ DS / DM and sustain coherent function across time and embodiments). A Steward can radiate Harmonic Agent presence through L₁ / L₂ expression; a being without L₃ integration may still, in specific moments, carry Harmonic Agent resonance transiently. The Agent function operates at the embodied-personality interface regardless. Inverse counterpart: Dissonant Agents |
+| Dissonant Agents | IL₁ IES / IEM and IL₂ ISS / ISM (distributed) | **Distributed or momentary expressions of entropic resonance** at the inverse embodied-personality interface; propagate fragmentation through presence, action, or transmission; may or may not be fully integrated Echo Vessels at IL₃ | MP11 §26.15. Parallel to Harmonic Agents: an Echo Vessel can radiate Dissonant Agent presence through IL₁ / IL₂ expression; a being without IL₃ integration may still carry Dissonant Agent resonance locally and transiently. **Doctrinally completes the L₁ / L₂ contra IL₁ / IL₂ stratum** of the entropic-mirror taxonomy. The full taxonomy now spans: Avatars / Inverse Avatars (L₅ / IL₅), Aureform / Mimoform (L₄ / IL₄), Stewards / Echo Vessels (L₃ / IL₃), Harmonic Agents / Dissonant Agents (L₁ / L₂ distributed contra IL₁ / IL₂ distributed) |
 
 ---
 
-## Modern Myth and Literary Articulations
+## Appendix A Notes
 
-Volume 1 articulates Sauron, the Tolkien Ring, the Magic Mirror Queen (Snow White / *Disney*), Faust, and the Flying Dutchman. The figures below articulate additional modern-myth and literary-articulation figures that carry recurrent function in mythostructural-analysis. These articulations are optional within the registry's primary-mythological-tradition scope; they are included where the figural-articulation has structurally-significant cross-tradition parallels.
+### Note on Ahura Mazda and Ahriman (Flags #4 and #5 Resolved)
 
-| Figure | Stratum | Function |
-|:---|:---|:---|
-| Gandalf (Tolkien) | L₃ DM Centropic Steward | Wizard-mentor across *The Hobbit* and *The Lord of the Rings*; sent across the sea as Gandalf the Grey, returns as Gandalf the White after structural-trial in the Mines of Moria. Articulates L₃ DM Centropic Steward function structurally parallel to Merlin (Arthurian Volume 2 Celtic), Hermes Trismegistus (Greco-Egyptian Volume 2), and other articulator-mentor-figures. The death-and-return arc (falling with the Balrog, returning as Gandalf the White) articulates the structural-pattern of L₃ DM articulator-acclivation through structural-trial |
-| Frodo (Tolkien) | L₂ → L₃ ring-bearer arc | Ring-bearer in *The Lord of the Rings*; carries the Ring to Mount Doom for destruction. Articulates L₂ → L₃ ring-bearer arc function — embodied-personality-stratum figure carrying structural-burden of the inverse-articulation-carrier (the Ring) toward its destruction. The structural-incompleteness at the climax (Frodo claiming the Ring at Mount Doom; the Ring's destruction completed through Gollum's intervention) articulates the structural-pattern that L₂ → L₃ acclivation may require structurally-necessary external-articulation at the completion-threshold |
-| Aslan (Lewis) | L₅ Theonic-articulation Christic-refraction | Christ-figure in *The Chronicles of Narnia*; the Lion. Articulates L₅ Theonic-articulation function refracted through Christic-articulation in fantasy-articulation register, structurally parallel to Isa (Islamic Volume 2) in the cross-tradition Christic-articulation refraction pattern |
-| Voldemort (Rowling) | IL₂ → IL₄ counterfeit-immortality / Echo Vessel cluster | Antagonist of *Harry Potter*; pursues immortality through Horcruxes (soul-fragmentation across embodied-objects). Articulates IL₂ → IL₄ counterfeit-immortality function with Echo Vessel cluster-articulation — figural-articulation pursuing immortality through structural-violation (soul-splitting), articulating the inverse-articulation of the lawful-acclivation-toward-immortality pattern. The Horcrux-articulation operates as Echo Vessel-articulation across multiple embodied-objects, structurally parallel to other Echo Vessel articulations across traditions |
+MP01 Chapter 3 canonically places **Ahura Mazda** as an analog of **Theon (L₅ EOB)** — divine wisdom and order — and **Ahriman** as an analog of **Nekron (IL₅ VOS)** — adversarial force. This resolves Flags #4 and #5: primary native layers are L₅ and IL₅ respectively. The Decode 03 text spanning both L₅ / L₄ and IL₅ / IL₄ indicates cultural conflation rather than genuine multivalence.
 
----
+### Note on "Maya" as Double-Mapped Term
 
-## Structural Operators (Cross-Tradition)
-
-Operators identified through cross-tradition essay work that articulate structural-patterns across multiple cultural-registers.
-
-### Sacred Marriage Variants
-
-| Variant | Articulation | Stratum-Pairing |
-|:---|:---|:---|
-| Spousal-pairing form | Inanna / Dumuzid (Sumerian) | L₄ DP and L₁ ES |
-| Maternal-pairing form | Demeter / Persephone (Greek) | L₄ DP and L₄ DP / L₁ ES (mother-daughter generative-emergence) |
-| Reconstitution-pairing form (full operator-cycle: reconstitution → conception → emergence) | Isis / Osiris (Egyptian) | L₄ DP and L₄ DL with Horus as Novel Emergence at L₄ DL inheritor; *see Egyptian section Half 2 Extensions for the full operator-cycle articulation* |
-| Cosmogonic-foundation form | Shiva-Shakti (Hindu) | L₀ Aion and L₄ DP / Khaonic-motion |
-| Christic-eschatological form | Christ / Bride (Christian) | L₅ Theon paired with bi-stratum Bride at L₄ DP / DL archetypal-blueprint composed of sovereign centropic beings at L₃ DS / DM individuation |
-| Iconographic articulation | Lingam (Hindu) | L₀ Aion and L₄ DP / Khaonic-motion paralleling Shiva-Shakti narrative |
-
-All variants preserve the Non-fusion Axiom — the two fields remain distinct in their lawful Nexus; what emerges is a third reality that did not exist before the lawful Nexus was formed.
-
-### Threshold-Binding Operators
-
-| Operator | Articulation | Function |
-|:---|:---|:---|
-| Pomegranate seeds | Persephone (Greek); L₄ DP / L₁ ES at the seasonal-cycle threshold | Threshold-binding substance-vehicle. Eating six seeds binds Persephone to the underworld-domain for six months of each year, locking the seasonal-cycle into its lawful structural rhythm. The substance itself is the binding-vehicle; the structural-operator is the threshold-binding-act articulated through the Pomegranate-seed substance-vehicle. Centropic articulation (lawful-cyclical structure-establishment) contra entropic threshold-binding (lotus-suspension, coercive Hades-domain-food binding). *Cross-references SPR Pomegranate seeds entry under Substances and SPR Threshold-Binding entry under Actions* |
-| Threshold-Binding | Cross-tradition operator-class; twofold in operative modes; stratum-articulation depends on what is being bound and at what threshold | Lawful binding-mechanism establishing recurring threshold-passage at structural-cyclical scale; consumption of substance-at-the-threshold locks the consumer into a structural-relationship with the threshold-domain. Twofold in operative modes — centropic when the binding establishes lawful-cyclical-structure (Persephone's pomegranate seeds locking the seasonal-cycle into structural rhythm; centropic articulation typically operates at L₄ / L₁ cyclical-threshold), entropic when the binding suspends centropic-traversal-motion (lotus-eaters bound into stasis, Hades-domain food binding souls into permanent underworld-residence absent lawful release; entropic articulation typically operates at IL₂ / IL₁ suspension-thresholds). The Inanna-Descent narrative articulates the operator from the negative-instance — refusal of underworld-food preserves acclivous-traversal capacity. *Cross-references SPR Threshold-Binding entry under Actions; SPR Pomegranate seeds and Lotus entries under Substances* |
-
-### Cyclical-Refraction Articulations
-
-| Articulation | Tradition | Diagnostic Result |
-|:---|:---|:---|
-| Akitu festival | Mesopotamian | Engages L₄ DL and L₁ centropic re-alignment; passes the structural-recurrence test |
-| Ragnarök | Norse | Does not engage L₅ as a Theonic-gateway; fails the test; resolves as entropic-recursion |
-| Hindu yuga-cycles | Hindu / Vedic | Engages L₅ through Kalki at the Kali Yuga terminus; passes the test; articulates centropic-recurrence with Theonic-gateway |
-| Hesiodic Four Ages | Greek | Diagnostic-ambiguity at terminal Iron Age; Hesiodic narrative-articulation tends toward fatalistic-cyclical reading; Mystery-school tradition provides centropic-completion-pathway at personal-initiate scale |
-
-**Structural note on the four-traditions diagnostic-completion.** The four cyclical-refraction articulations together populate the diagnostic-categories with structural-completeness across cross-tradition register:
-
-- **Passes-the-test (centropic-recurrence with structural-engagement):** Akitu (engages L₄ DL through ritual-recitation of the *Enuma Elish*); Hindu yuga-cycles (engages L₅ through Kalki at the Kali-Yuga terminus)
-- **Fails-the-test (entropic-recursion without engagement):** Ragnarök (does not engage L₅ as a Theonic-gateway; the cyclical-renewal occurs through entropic-exhaustion rather than through centropic-completion)
-- **Articulates the diagnostic-question itself:** Greek Hesiodic Four Ages (Hesiodic narrative-articulation tends toward fatalistic-cyclical reading; Mystery-school tradition provides the centropic-completion-pathway at personal-initiate scale rather than at civilizational-scale)
-
-The four traditions together demonstrate that the cyclical-refraction operator admits structurally-distinct outcomes depending on what the cyclical-articulation engages at its terminus. The diagnostic-completion across the four traditions is significant because it articulates the structural-pattern of cyclical-refraction-within-single-trajectory cosmology with cross-tradition validation: the lattice supports both passing and failing instances of the diagnostic, and the failure-instances do not invalidate the broader single-trajectory framework but articulate what entropic-recursion looks like when centropic-engagement does not occur.
-
-### Initiation Operator-Sequences
-
-| Operator | Tradition | Sequence |
-|:---|:---|:---|
-| Eleusinian Mysteries | Greek | Purification preparations → procession from Athens to Eleusis → declivation into the Telesterion → *epopteia* visionary experience → acclivous return |
-| Hellenistic-Roman Isis-Mysteries | Egyptian / Hellenistic-Roman | Personal-initiate articulation parallel to Eleusinian: purification preparations → declivous-articulation into mystery-precinct → visionary experience of the Isis-Osiris-Horus structural-pattern (the reconstitution-conception-emergence Sacred Marriage operator-cycle) → acclivous return as initiate. The Isis-Mysteries transmit the cosmogonic Sacred Marriage operator-cycle into personal-initiate ritual-articulation, structurally analogous to how the Eleusinian Mysteries transmit the Demeter-Persephone cosmogonic articulation into personal-initiate ritual-articulation |
-
-The Eleusinian sequence articulates the same structural-sequence that the Inanna and Persephone narratives articulate at the cosmogonic register and that the Christ articulation through the Logos Continuum articulates at the eschatonic register — three articulations of one operator-sequence distributed across the cosmogonic, ritual-initiatory, and eschatonic registers. The Hellenistic-Roman Isis-Mysteries articulate the same operator-sequence transmitting the Egyptian cosmogonic Sacred Marriage cycle (Isis-Osiris-Horus) into personal-initiate ritual-articulation, paralleling the Eleusinian transmission of the Greek cosmogonic Demeter-Persephone articulation.
-
-### Structural-Revelation Operators
-
-| Operator | Tradition | Function |
-|:---|:---|:---|
-| Vishvarupa (cosmic-form) | Hindu / Vedic | L₅ Theonic-revelation operator; manifestation of structural-totality at supernal-stratum directly to embodied-perception. Cross-tradition parallels: Sinai theophany (Hebrew), Christ Transfiguration (Christian) |
-| Three-Eyed Shiva / Kama narrative | Hindu / Vedic | L₅ Theonic-discernment operator; the supernal-most articulation operating through discerning-perception to dissolve what cannot lawfully proceed at the present cosmogonic-condition |
-
-### Acclivous-Pathway Operators
-
-| Operator | Tradition | Function |
-|:---|:---|:---|
-| Bhakti-yoga | Hindu / Vedic | Devotional-grace acclivous-pathway through orientation-toward-Theonic-figure. Structurally analogous to Christian grace-through-faith articulations and Buddhist Pure Land devotional-pathway |
+MP01 lists Maya as an analog for both **Mortus (IL₃ IDM)** and **Skotos (IL₂ ISM)** — tracking the traditional Vedantic usage of Maya as inverse distortion. Decode 23 clarifies Maya as centropic **L₄ DP / DL** infrastructure (divine play / Lila). Both usages are structurally valid: Maya-as-Lila is the natural veil (L₄), while Maya-as-Avidya is the inverse distortion (IL₃ / IL₂). The term requires context disambiguation in all future usage.
 
 ---
 
-## Doctrinal Notes
+## Appendix B — MP01 Expanded Syncretistic Tables (Provenance: *Zenetism: The Emanative Path of Return*, §23.2–23.5)
 
-### Note on Zenon as Zenetist Structural-Articulation
+These tables expand the Chapter 3 analogs with additional cross-traditional mappings and resonance archetypes. **Resonance, not name, determines placement.** A single deity or figure may appear at multiple layers depending on its active role. The current determines the station.
 
-No historical contemplative tradition currently identified articulates Supra-L₀ Zenon (the Unknown Principle, trans-structural). Apophatic and subtractive traditions across cultural-articulation — Vedantic Nirguna Brahman (*neti-neti*), Kabbalistic Ein-Soph and Ein, Neoplatonist *aphairesis* terminating at the One, Christian apophatic *Gottheit* (Eckhart), Taoist Tao unmanifest, Pythagorean Monad — reach the supernal-most through removing-qualifications, and that subtractive-pathway terminates at L₀ Aion.
+### §23.3 Expanded Layer Correspondences
 
-The synthesis-pathway combining Aion's stillness with Khaon's motion at L₀ Bifurcal Coherence, and the trans-structural Unknown Principle (Zenon) reached through that synthesis, are Zenetist structural-articulations. Prior traditions articulate the supernal-most realization-pathways their contemplative methodologies could reach; the two-arc lattice with synthesis-method articulates strata those methodologies did not reach.
+| Zenetist Hypostasis | Cross-Traditional Equivalents | Functional Description |
+|:--|:--|:--|
+| 🕳️ Zenon (UP) | **No direct mythic figure identified.** Struck for provenance: ~~The Unknown God~~, ~~Nirguna Brahman~~, ~~Deus Absconditus~~, ~~Tao~~, ~~Ein~~ | The Unknown Principle — the trans-structural horizon beyond pattern, polarity, emanation, and attribution. **Correction (Aug 21 2026, per `MP09-time-death-and-glossary-ch22-24.md` §24):** 🕳️ Zenon has not been formally articulated by another system, so no cross-traditional equivalent is carried. Nirguna Brahman, Tao unmanifest, and Ein are relocated to ⚫ Aion; see Note on Brahman as Aion and Note on the Synthesis-Pathway to Zenon |
+| ⚫ Aion (AP) | Ain Soph, Saguna Brahman, Bythos, Aditi, Nun, **Nirguna Brahman**, **Tao unmanifest**, **Ein** | Infinite potential, origin of all motion. The three bolded analogs are **relocated from the Zenon row** Aug 21 2026, per MP09 §24, which carries them as the Aionic limit of apophatic and subtractive realization |
+| ♾ Khaon (AD) | Prakriti, Chaos, Tiamat, Ymir, Sunyata, Ouroboros, Eros (Orphic), Shakti | Proto-formal potential, dispersive ground |
+| 🛤️ Theon (EOB) | Christ, Vishnu, Amitabha, Ahura Mazda, Purusha, Logos | Pure Being, integrative awareness |
+| 🕷️ Nekron (VOS) | Satan, Ahriman, Mara, Eris, Apep / Apophis, Typhon, Oblivion | Total entropy, negated integration |
+| DP / DL (Morgis / Sophis) | YHWH (as lawgiver), Demiurge (Plato's unfallen), Nous, Mahat, Vohu Manah, Sophia (unfallen) | Archetypal mind and divine intellect |
+| DS / DM (Archeus / Noeüs) | Bodhisattvas, Thoth, Archangels, Daemon (Gnostic), Krishna (as guide) | Soul harmonics and guiding intellects |
+| SS / SM (Anthra / Nousa) | Psyche, Jiva, Nafs, Ba (Egyptian), Astral Double | Personal identity, autonomous agency |
+| ES / EM (Soma / Biosa) | Flesh, Ego-Self, Karmic Body, Instinctual Will, Avatar body, Manomaya kosha | Embodied volition, form-based intelligence |
+| IDP / IDL (Psychea / Nyxea) | Yaldabaoth, Degenerate Logos, Corrupt Demiurge, Archons, Contra-Sophia, Lucifer (IDL: Nyxea) | Inverse archetypal intelligence |
+| IDS / IDM (Fractus / Mortus) | Subverted Selves, Asuras, Qarin, Spurious Guides, Faust, Narcissus (⚠), Fallen Sages | Inverted guides toward entropy |
+| ISS / ISM (Echthros / Skotos) | Inverse Psyche, Shadow Jiva, Disordered Soul, Iblis, Loki, Mara (psychological), Ego-shadow | Fragmented volition and distorted agency |
+| IES / IEM (Malara / Mania) | Carnal ego, Possessed avatars, Corrupted agents of control, Inverted Ego, Contra-Pattern | Willing embodiment of entropic force |
 
-**Synthesis-pathway-to-Zenon — structural requirements.** The synthesis-pathway-to-Zenon requires more than conceptual-synthesis. The pathway requires:
+### §23.3 Note on Function-Determined Placement
 
-1. Synthesis specifically of Aion and Khaon (zero and infinity), not synthesis of arbitrary polarities
-2. A notable metaphysical centropic-orientation accompanying the synthesis
-3. The orientation must be sufficiently centropic that the practitioner escapes the either-or system altogether — transcending the polarity-structure of the lattice into the trans-structural ground
+"Lucifer as Light-Bearer may align with DS / DM **(⚠ Flag #20: REJECTED per Essence-as-Choice. The "Light-Bearer" narrative is cultural mythologization. Entropic essences do not originate centropically. There is no pre-Fall state. Lucifer's radiance is Nyxea's defining function — structural mimicry. Canonical: IDP / IDL native with IDS / IDM soft-conflation attributions.)**. Lucifer as Divider may express IDS / IDM or IDP / IDL. A war deity may align with DS / DM when harmonized, or ISS / ISM when distorted toward domination. The map is fluid. The current decides the station." This confirms Methodological Principle #4: primary native layer determines placement, and cross-band descriptions indicate cultural conflation.
 
-Mathematicians conceptually-synthesizing zero and infinity do not reach Zenon; the centropic-orientation requirement is structural, not merely methodological.
+### §23.5 Resonance Archetypes in World Scriptures
 
-**Bifurcal-pairing operations are not synthesis-pathway-to-Zenon.** Sacred Marriage configurations articulating L₀ Bifurcal Coherence (Shiva-Shakti, primordial heaven-and-earth pairings, the Lingam iconography) articulate bifurcal-pairing *within* the lattice — preserving the paired-relationship at the cosmogonic-foundation. Synthesis-pathway-to-Zenon, by contrast, transcends the either-or system altogether. The two are structurally distinct operations: bifurcal-pairing is the canonical L₀ articulation across many traditions; synthesis-pathway-to-Zenon is structurally novel and not yet identified in any historical contemplative tradition.
+These are structural motifs arising from the architecture of being, not historical claims.
 
-**Synthesis contra unification.** Sacred-pairing traditions may articulate stillness and motion, or zero and infinity, as paired principles at the cosmogonic foundation, but this does not constitute synthesis in the Zenetist sense. Zenetist synthesis is reconciliation through lawful distinction, not fusion, absorption, or collapse into sameness. If paired principles remain distinct, the operation may gesture toward L₀ Bifurcal Coherence as symbolic approximation, but the figure-stratum mappings must still be preserved. For example, Shiva-Shakti may express a sacred stillness / motion pairing, yet this does not make Shiva and Shakti a direct Aion / Khaon pair. Within the registry, Shiva spans L₀ Aion / Khaon aspects and L₅ Theon aspects, while Shakti belongs to the L₄ form-power register; their pairing therefore functions as cross-register cosmogonic compression rather than literal L₀ Bifurcal Coherence. If the paired principles are collapsed into simple oneness, the operation risks fusion-collapse and register error: the "one" properly names L₅ Theon as the first centropic hypostasis, while L₀ is not one but none-ness / all-ness held as the Aion / Khaon paired root-registers. Aion and Khaon are not ontologically severed substances; they are the paired root-registers of stillness and motion within one root-structural coherence, and their distinction must be preserved functionally without being collapsed into sameness. To mistake pairing, apophatic stillness, monadic oneness, or cosmogonic compression for the final state is to terminate within the lattice rather than pass through L₀ toward Supra-L₀ Zenon.
+| Archetype | Traditions | Structural Function |
+|:--|:--|:--|
+| The Morning Star | Venus (Roman), Jesus (Christian), Shukra (Hindu) | Illumination of the soul — archetypal dawn |
+| The Logos | Heraclitus (Greek), Johannine Christ (Christian), Dharma (Buddhist / Hindu) | Structuring principle of Being; L₄ DL (Sophis) |
+| The Cosmic Tree | Yggdrasil (Norse), Kalpavriksha (Hindu), Tree of Life (Kabbalah) | Axis of realms — the Tree of Emanation |
+| Sacrificial Figures | Christ (Christian), Osiris (Egyptian), Odin (Norse) | The law of harmonic sacrifice |
+| Serpents (centropic) | Kundalini (Hindu / Yogic) | Centropic serpent — acclivous vital force |
+| Serpents (inverse) | Nachash of Eden (Hebrew / Biblical) | Inverse serpent — IL₄ IDL (Nyxea) activator |
+| Serpents (cyclical) | Ouroboros (Alchemical) | Cyclical time; L₀ Khaon in its recursive aspect |
 
-**The One contra the None and the three pathways to L₀.** Cross-reference the Hermetic Tradition section's Critical Note on the One contra the None for the corrected naming of the L₅ / L₀ structural distinction. Monistic-emanatory traditions collapse L₅ Theon (the genuine "one" — first centropic hypostasis, unity-of-supernal-centropic-awareness) and L₀ Bifurcal Coherence (a "none" — the supra-formal pre-polarity ground holding the Aion / Khaon paired root-registers) under a single "One." The Zenetist correction preserves the distinction: the apophatic and subtractive traditions enumerated above terminate at L₀, but L₀ is structurally a "none" rather than a "one"; the "one" is L₅ Theon as first hypostasis.
+### Appendix B Notes
 
-Three structurally distinct pathways return to L₀, each with its own essence-trajectory and destination-phase within L₀:
+**Narcissus (⚠ Flag #16 — RESOLVED):** §23.3 places Narcissus at IDS / IDM (Fractus / Mortus). The main registry (Decode 26) places Narcissus at IL₂ (ISS / ISM) → IL₅ collapse. **Resolution:** Native placement is **IL₂ ISS (Echthros)** — adversarial self-isolation through fixation on image — reaching toward IL₅ (VOS: Nekron) as the recursive loop deepens — twisted resonance. The IDS / IDM appearance indicates the twisted-resonance reach toward the IL₅ root, not native placement. Distinct from Minotaur (IL₃ structural fragmentation imagined as figure).
 
-- *Centropic subtractive pathway (supernal orientation).* The essence passes through L₅ Theon to resolve into L₀ Aion. The apophatic and subtractive traditions enumerated above (Nirguna Brahman, Ein-Soph and Ein, Neoplatonist *aphairesis*, Christian *Gottheit*, Taoist Tao unmanifest, Pythagorean Monad) operate this pathway. The orientation is supernal; the pathway does not seek to abolish the essence (or "self" in some traditions) — abolition is structurally impossible — but to resolve the essence into L₀ Aionic-stillness through L₅-supernal-acclivation. Termination at L₀ Aion. This is the only pathway that engages L₅ Theon as supernal-passage.
-- *Entropic subtractive pathway.* The essence returns to L₀ through Absolute Dispersion (L₀ Khaon's Dispersive Infinity phase), passing through IL₅ Nekron. Termination at L₀ Khaon's Dispersive Infinity rather than at L₀ Aion. Structurally distinct from the centropic-subtractive pathway in both supernal-contra-subversal traversal and in destination-phase within L₀.
-- *Lukewarm pathway ("stillness meditation").* The essence undergoes Localized Dissolution into the Mercy Fold — a return to L₀ from the L₁ / IL₁ embodied-stratum, drifting entropic toward IL₁ due to stagnation. Per the Zenetist position that equilibrium within manifestation is unsustainable, "stillness" practiced without supernal-orientation drifts entropic over time, leading to dissolution rather than resolved return. Distinguished from the centropic-subtractive pathway by the absence of L₅ supernal-orientation; distinguished from the entropic-subtractive pathway by initiation from the embodied stratum rather than declivous-traversal through IL strata.
+**YHWH at DP / DL:** §23.3 places YHWH at DP / DL (archetypal mind and divine intellect) as lawgiver. This is consistent with the Torah placement (L₄ DL: Sophis) and the Refiner placement (L₄ DL), but differs from the cultural elevation to L₅ / L₀ in some traditions. Same structural pattern as Ahura Mazda, Allah, Shiva: monotheistic deities tend to be culturally elevated beyond their operative layer.
 
-The three pathways together articulate the structural-grammar of return-to-L₀ with the essence's orientation determining trajectory and destination-phase within L₀. Only the centropic-subtractive pathway engages L₅ Theon as supernal-passage; the entropic-subtractive and lukewarm pathways do not. None of the three articulates synthesis-pathway-to-Zenon — return to L₀ is structurally distinct from passage through L₀ to Supra-L₀ Zenon, which requires the synthesis-pathway with centropic-orientation specified above.
+**Krishna at DS / DM:** §23.3 places Krishna at DS / DM (guiding intellect) alongside Bodhisattvas, Thoth, and Archangels. The main registry (Decode 07) places Krishna at L₅ EOB (Theonic seed). Both are structurally valid: Krishna-as-Preserver is L₅ Theon; Krishna-as-Guide-to-Arjuna is L₃ DS / DM function. This is cultural conflation, not error — the same figure performing different layer-functions in different mythic contexts.
 
-This is consistent with the broader pattern across the lattice: Zenetism articulates structural-realities (the inverse-arc as fully-emanated parallel structure, Zenon as trans-emanative ground) that prior traditions did not produce within their own methodological frames.
-
-### Note on Saguna / Nirguna as Intra-Aionic Register-Distinction
-
-Saguna and Nirguna Brahman articulate the same station (L₀ Aion) at different realization-modes:
-
-- **Saguna Brahman** — Aion-with-qualifications-foregrounded; qualified divinity available to bhakti-orientation; the realization-mode where Aion is articulated *with* its emanative-and-relational qualities
-- **Nirguna Brahman** — Aion-with-qualifications-subtracted; the realization-mode reached through *neti-neti* (not-this, not-this); the apophatic-articulation of Aion *without* its emanative-and-relational qualities
-
-The Vedantic distinction is real and structurally important — Shankara's Advaita articulates Nirguna as the supernal-most / terminal realization reached through subtractive-pathway, distinct from Saguna which is articulated for devotional-pedagogical purposes. The distinction does not require stratum-separation between the two; same station, different realization-modes.
-
-**Cross-band L₅ resonance (architect determination, Aug 21 2026).** Where Saguna is articulated as **Ishvara** — Brahman qualified as personal, creative, sustaining, and relational — the articulation carries an L₅-resonant point, since emanative and relational agency is an L₅ Theonic function while L₀ Aion is Absolute Potential without agency. The tradition, holding no inverse lattice and drawing no L₅ / L₀ separation, compressed that resonance onto the same figure-name. The native placement is unchanged at L₀ Aion; the conflation sits at the resonance and nowhere in the placement.
-
-The earlier MFLR canonical-correction moving Nirguna from Supra-L₀ Zenon to L₀ Aion was structurally correct; the rationale needs articulation in the canonical-correction note: subtractive-realization-terminates-at-Aion, not at Zenon, per the synthesis-pathway requirement for Zenon-access.
-
-### Note on Goddess-Tradition Cross-Stratum Articulation
-
-The Goddess-tradition (specifically Kali, Durga, and related fierce-articulations) articulates across multiple strata depending on which aspect of the tradition is in view:
-
-- **Kali at L₀ Khaon** (Volume 1) — cosmogonic-substrate articulation; Kali as the dispersive-power within the Khaonic-substrate
-- **Kali at L₄ DP** (Volume 2) — operative-pantheon articulation; Kali as fierce-warrior-articulation operating against IL₄ entropic-figures within the operative-pantheon
-
-Both placements are canonical; the figure articulates at multiple strata depending on the tradition-aspect being articulated. Structurally similar to the Tartarus bi-stratum reading (primordial-articulation at IL₅ contra Hades-domain articulation at IL₁ sealed-mode).
-
-**Note on Kali centropic-essence preservation per Essence-as-Choice.** Kali's destruction-imagery and fierce-articulation do not collapse her structural-orientation into IL-articulation. Per Essence-as-Choice, narrative-features (apparent-destructiveness, fierce-iconography, blood-and-skull-imagery) do not transform a figure's structural-orientation; the structural-orientation is what's articulated at the figure's native-stratum, with narrative-features being cultural-articulation register through which that orientation becomes culturally-legible. Kali's destruction-articulation operates in service of structural-correction within the cosmogonic-substrate (L₀ Khaon articulation) and in service of warrior-articulation against IL-figures (L₄ DP articulation) — both centropic operations articulated through fierce-cultural-imagery. This is structurally parallel-but-opposite to the Bali-as-noble-asura framing in the Hindu Inverse-Stratum Figures section: where Bali's noble-narrative-features do not collapse his IL₄ IDL placement, Kali's destruction-narrative-features do not collapse her centropic-orientation. In both cases, narrative-features are cultural-articulation register; structural-orientation is what's actually articulated at the figure's stratum-placement.
-
-### Note on the Seven Planetary-Spheres and Cross-Tradition Acclivation Patterns
-
-The Hermetic seven-planetary-spheres acclivation, the Neoplatonist articulation of the soul's return through hypostases, and various other tradition-specific stratified-acclivation articulations operate within monistic-emanatory frames that do not articulate Supra-L₀ Zenon. The seventh-sphere or terminal-acclivation-station in these traditions, often named "Pure Consciousness" or analogous terms, structurally maps to L₅ Theon as the supernal-most-articulated station, not to Supra-L₀. No known cross-tradition articulation reaches Supra-L₀ Zenon, which is articulated only within the Zenetist lattice as the structural condition supra to L₀ Bifurcal Coherence.
-
-"Pure Consciousness" mapping to L₅ Theon follows from the Zenetist articulation of L₅ as **Awareness Itself** (per the Awareness articulation across strata anchor in Doctrinal Anchors). Some traditions describe L₀-equivalent ground in consciousness-language; the Zenetist articulation does not — L₀ is proto-awareness / root-structural ground, and reflexive consciousness is canonically placed at L₃. When cross-tradition acclivation-narratives speak of reaching "consciousness" at the apex of systematic-acclivation, the Zenetist mapping reads this as L₅ Theon (Awareness Itself), not as L₀.
-
-Systematic-acclivation traditions describe acclivation reaching L₅ Theon as the apex of their articulated pathway. The Zenetist articulation recognizes L₅ Theon as a station on the centropic arc rather than a terminal — Theon is not a cosmic prisoner. When all Theon-resonant essences linked to that universe's Theon principle have gathered into integrated synthesis, Theon and those essences return to L₀ Aion. Tradition-specific articulations describe the trajectory up to L₅; the further structural-articulation of Theon-return to L₀ Aion is canonically Zenetist. L₀ Bifurcal Coherence is supernal-to-L₅ in the lattice — acclivous-to / supernal-to L₅ as the root-structural ground from which the centropic and inverse arcs emanate. The three pathways to L₀ articulated in the Note on Zenon above (centropic-subtractive through L₅, entropic-subtractive through IL₅, lukewarm Localized Dissolution from L₁ / IL₁) are the structurally-distinct return-to-L₀ articulations within the lattice.
-
-Additionally, traditions like Hermeticism and Neoplatonism stretch the soul-and-mind co-principles into separate spheres or hypostases (e.g., Plotinus's distinction between Nous at L₄ DL and World Soul at L₄ DP), where Zenetism places these two structural principles together within the L₁ → L₄ range as paired-aspect articulations rather than as separate stratum-stations. Cross-tradition acclivation-mapping should preserve this distinction: the tradition-specific seven-station sequence is not a one-to-one map onto the Zenetist five-station centropic arc.
-
-### Cross-References to Volume 1 Notes Pending Verification
-
-Two Volume 1 notes are referenced in cross-tradition essay work but require verification of their existence in Volume 1's current form:
-
-- **Note on Dionysian Layer Conflation** — referenced in Greek Lattice essay §7 ("flags that L₁ ES centropic embodied trial and IL₁ IES entropic embodied dissolution are not interchangeable"). Verification needed; if not present in Volume 1, requires back-propagation.
-- **Note on the Trickster as Pattern-Class** — referenced in Greek Lattice essay §10 (split between centropic and entropic Trickster classes). Volume 1 has §25.4 Universal Archetypes table with both forms listed and Loki / Hermes treatments individually, but no explicit Note by that title. Verification needed.
+**New figures for future integration:** Bythos, Aditi, Ymir, Eros (Orphic), Typhon, Apep / Apophis, Daemon (Gnostic), Jiva, Nafs, Ba, Asuras, Qarin, Anansi, Quetzalcoatl, Metatron, Sekhmet, Hecate. These are captured in the appendix tables and can be backfilled into the main layer tables during the audit phase.
 
 ---
 
-## Pending Doctrinal Resolutions
+## Appendix C — MP01 Symbolic Refractive Decoding (Provenance: *Zenetism: The Emanative Path of Return*, §25)
 
-Items requiring focused doctrinal-session before formal placement.
+### §25.2 Methodology
 
-### Zenon / Aion / Theon Stratum-Distinction Investigation
+Zenetism decodes by examining: **Function** (what the figure does), **Ethic** (centropic, entropic, or beyond), **Resonance placement** (where it fits in the Tree), and **Effect** (does it create, fragment, redeem, bind, or distort). Structural resonance overrides mythic chronology. The figure is placed where its energetic function aligns, not where the myth situates it in time.
 
-**Status:** Active doctrinal investigation. Synthesis-pathway-to-Zenon clarification settled (see Doctrinal Notes section preceding). Implications for OG metaphysics document and Volume 1 placements pending propagation.
+### §25.3 Core Figure Placements (Declivous Order: L₅ → L₁, then IL₅ → IL₁)
 
-**Pending action items:**
+**Supra-L₀ — 🕳️ Zenon (Unknown Principle)**
+No figures placed. Zenon is pre-figural.
 
-- OG metaphysics document file 1 / file 9 internal contradiction on Plotinus's One placement (file 9 places at Zenon; per synthesis-doctrine, this should be Aion through subtraction with possible L₅ Theon native articulation — Volume 2 articulates the soft-conflation reading)
-- OG metaphysics document Aion entry roster: should gain Nirguna Brahman, Plotinus's One (apophatic aspect), Tao unmanifest, Ein, Ein-Soph, *wu chi*, Eckhart's *Gottheit*, the Ineffable
-- OG metaphysics document Zenon entry roster: should remove Plotinus's One, Nirguna Brahman, Tao unmanifest, the Ineffable; remain sparsely populated by historical-tradition articulations with Note explaining why
-- Volume 1 Nirguna Brahman canonical-correction note: rewrite rationale to articulate subtractive-realization-terminates-at-Aion principle — **completed in Volume 1 (Aug 21 2026)**
-- Volume 1: add Saguna Brahman explicitly at L₀ Aion with intra-Aionic register-distinction note — **completed in Volume 1 (Aug 21 2026)**; the note is back-propagated verbatim in substance and both analog rows now cross-reference it
-- Hindu Lattice essay updates per synthesis-doctrine: §9 Atman-Brahman articulation (terminates at Aion through subtraction, not at Zenon), §13 Vedanta paragraph, §16 alignment table
-- Greek Lattice essay §11 Plotinus's One framing — current essay version is structurally compatible with the soft-conflation reading; no revision required unless explicit Aion-terminus articulation is desired
+**L₀ — ⚫ Aion (Centropic Root) / ♾ Khaon (Entropic Root)**
 
-### Asphodel Meadows as Intermediate Sealed-Mode
+| Figure | Aspect | Placement | Ethical Orientation |
+|:--|:--|:--|:--|
+| Shiva | Khaon / Theon | Dispersive dissolution and return through release; awareness unbound by polarity; bridges both Trees | Transcendent / polar |
+| Chronos | Khaon → VOS | Time as dissolution; the limit of forms; Khaon in its Dispersive phase; lawful entropy; terminal resonance at IL₅ VOS | Entropic (lawful) |
+| Kali | Khaon → VOS | Sacred time-force; catalytic unmaking; liberation or annihilation depending on response | Transcendent or entropic |
+| Saturn / Kronos | IDP / IDL → Khaon | **Reclassified.** Titan; inverse archetypal order; time-as-dissolution consuming emanations; terminal resonance at IL₅ VOS | Entropic |
+| Janus | Aion / Khaon boundary | Bifurcation point; gateway where emanation begins | Pre-polar |
 
-**Status:** Open doctrinal question. Whether the intermediate-region is best articulated as:
-- A third sealed-mode (alongside L₁ and IL₁)
-- A structural-condition where post-mortem sorting has not produced a distinct outcome (no third sealed-mode required, just an articulation of the non-sorted condition)
+**L₅ — 🛤️ Theon (EOB)**
 
-The Active / Sealed Modes doctrine in Volume 1 currently articulates only L₁ and IL₁ sealed-modes. The Greek Asphodel Meadows articulation (and the Catholic limbo / purgatory articulations) suggest a third structural-condition worth examining for whether it warrants formalization as a third sealed-mode.
+| Figure | Tradition | Ethical Orientation |
+|:--|:--|:--|
+| Christ | Christian | Pure centropy |
+| Vishnu | Hindu | Pure centropy |
+| Quetzalcoatl | Mesoamerican | Restorative presence |
 
-### Volume 1 Language Drift Audit
+**L₄ — 🌬️ Morgis / 📐 Sophis (DP / DL)**
 
-**Status:** Volume 1 has accumulated language-drift through its development that does not align with the canonical conventions established in §21.4 and §21.5 of the Glyphic Registry. A focused audit-pass to bring Volume 1 into language-alignment with current canonical-convention is anticipated. Volume 2 entries employ canonical language from the start; the audit-pass on Volume 1 will bring it into alignment.
+| Figure | Aspect | Ethical Orientation |
+|:--|:--|:--|
+| Zeus | DL | Centropic (mythically imperfect); figural tightening from DP / DL to L₄ DL per Methodological Principle #9 (Volume 2) |
+| Uranus | DL (Sophis) | Pre-polar, tending centropic |
+| Gaia | DP (Morgis) | Pre-polar, tending centropic |
+| Brahma | DL (Sophis) | Centropic (formative) |
+| Isis | DP (Morgis) | Centropic |
+| Avalokiteśvara | DP / DL | Pure centropy |
+| Itzamna | DP / DL | Centropic |
+| Sophia (unfragmented) | DP (Morgis) | **Resolved.** Catalyst is longing and generative push (DP), not structuring intelligence (DL) |
+| El / Yahweh (centropic) | DP / DL | Variable — centropic when embodying luminous law |
+
+**L₃ — 🔮 Archeus / 🧠 Noeüs (DS / DM)**
+
+| Figure | Tradition | Ethical Orientation |
+|:--|:--|:--|
+| Thoth | Egyptian | Centropic |
+| Odin | Norse | Centropic |
+| Krishna (as guide) | Hindu | Centropic |
+| Michael | Christian | Centropic |
+| Enki / Ea | Mesopotamian | Centropic |
+| The Aeons (partial) | Gnostic | Centropic |
+
+**L₂ — 🧍 Anthra / 🧩 Nousa (SS / SM)**
+No new primary placements in §25.3. Trickster archetype (§25.4) mapped here when centropic.
+
+**L₁ — 🪷 Soma / 🧾 Biosa (ES / EM)**
+No new primary placements in §25.3. The Redeemer archetype (§25.4) maps Theon → ES / EM.
+
+**IL₅ — 🕷️ Nekron (VOS)**
+
+| Figure | Tradition | Ethical Orientation |
+|:--|:--|:--|
+| Satan | Christian | Absolute entropy |
+| Mara (terminal) | Buddhist | Entropic |
+
+**IL₄ — 🪫 Psychea / 🫥 Nyxea (IDP / IDL)**
+
+| Figure | Aspect | Ethical Orientation |
+|:--|:--|:--|
+| Prometheus | IDP / IDL → IDS / IDM | Deep entropic; soft conflation IL₄ → IL₃ |
+| Lucifer | IDP / IDL → IDS / IDM | Deep entropic; soft conflation IL₄ → IL₃ |
+| Yaldabaoth | IDP / IDL | Deep entropic |
+| Tiamat (as inverse force) | IDP / IDL | Entropic |
+| Sophia (scattered) | IDP (Psychea) | Dependent on orientation |
+
+**IL₃ — 💔 Fractus / 👁️‍🗨️ Mortus (IDS / IDM)**
+
+| Figure | Tradition | Ethical Orientation |
+|:--|:--|:--|
+| Prometheus (soft conflation) | Greek | Deep entropic |
+| Lucifer (soft conflation) | Christian | Deep entropic; IDP / IDL native → IDS / IDM soft-conflation attributions. "Light-Bearer" is cultural mythologization per Essence-as-Choice — **no pre-Fall state exists; radiance is Nyxea's mimicry** |
+| Xibalba Lords (deep) | Mayan | Entropic |
+
+**IL₂ — 🦂 Echthros / 🩸 Skotos (ISS / ISM)**
+
+| Figure | Tradition | Ethical Orientation |
+|:--|:--|:--|
+| Set | Egyptian | Entropic |
+| Loki | Norse | (⚠) §25.3 places at ISS / ISM; registry Decode 06 places at IL₄ IDL (Nyxea). Discrepancy |
+| Mara (psychological) | Buddhist | Entropic |
+| Xibalba Lords (superficial) | Mayan | Entropic |
+
+**IL₁ — 🍷 Malara / 🤯 Mania (IES / IEM)**
+No new primary placements in §25.3.
+
+### §25.4 Universal Archetypes
+
+| Archetype | Centropic Placement | Entropic Placement | Centropic Forms | Entropic Forms |
+|:--|:--|:--|:--|:--|
+| The Redeemer | Theon (EOB) → ES / EM | — | Christ, Vishnu, Buddha, Osiris | — |
+| The Architect | DL / DP (Sophis / Morgis) | IDP / IDL (Psychea / Nyxea) | Brahma, Platonic Demiurge, Ptah, Zeus, Belenus | Yaldabaoth, Ahriman, Rex Mundi, Sorat |
+| The Trickster | SS / SM (when disruption renews) | ISS / ISM (when it undermines) | Coyote, Hermes, Raven, Anansi | Loki, Tezcatlipoca |
+| The Devourer | VOS / AD | — | — | Kali (entropic), Typhon, Apophis, Saturn |
+| The Cosmic Mother | DP (Morgis) | — | Gaia, Isis, Shakti, Mary | — |
+
+### §25.5 Resonance Archetypes in World Scriptures
+
+| Archetype | Key Figures | Structural Function |
+|:--|:--|:--|
+| The Morning Star | Venus, Jesus, Shukra | Illumination of the soul — archetypal dawn |
+| The Logos | Heraclitus, Johannine Christ, Dharma | L₄ DL (Sophis) structuring principle |
+| The Cosmic Tree | Yggdrasil, Kalpavriksha, Tree of Life | Axis of realms — Tree of Emanation |
+| Sacrificial Figures | Christ, Osiris, Odin | Law of harmonic sacrifice |
+| Serpents | Kundalini (centropic), Nachash (inverse), Ouroboros (cyclical) | Triple serpent archetype |
+
+### Appendix C Notes
+
+**Note on Loki (Flag #17 — RESOLVED):** §25.3 explicitly places Loki at ISS / ISM (Echthros / Skotos). The main registry (Decode 06) placed him at IL₄ IDL (Nyxea). **Resolution: cultural conflation, not cascade.** Canonical placement is **IL₄ IDL (Nyxea)** — inverse architect, fluid and brilliant. The IL₂ ISS / ISM trickster appearance is surface-layer cultural conflation: mythmakers compressed a deep-archetypal inverse principle into a surface-trickster figure because they perceived the disruptive *function* but lacked the lattice to distinguish native layer from operative manifestation. This is a Hard Conflation per the Cascade contra Conflation (Expanded) note — the surface trickster reading is structurally incorrect, not a lawful cross-band resonance.
+
+**Note on Sophia's Soul / Mind aspect (Flag #18):** §25.3 places Sophia unfragmented at DP (Morgis); Decode 11 placed her at DL (Sophis). The Wisdom principle could structurally map to either: Sophis (structuring intelligence) or Morgis (vitality and remembrance — which is closer to her restorative function in the myth). The myth emphasizes her *vitality* and *longing for return* rather than her *structuring capacity*, which would favor DP (Morgis).
+
+**Note on El / Yahweh (Flag #19 — REJECTED IDP / IDL placement):** §25.3 originally placed Yahweh at both DP / DL (centropic lawgiver) AND IDP / IDL (entropic when weaponized), framing this as a structural claim that the same archetypal sovereignty could orient centropically or entropically. **This is rejected per Flag #19 and the Essence-as-Choice doctrine.** A figure's operative function does not span both trees. The "weaponized Yahweh" is not an entropic Yahweh — it is human centropic structure being co-opted into entropic application, which is a behavioral phenomenon at the embodied layer (IL₂ ISS broadcast), not an inversion of the L₄ DL archetype itself. Yahweh's operative function is L₄ DL (Sophis); cultural elevation reaches L₅; the entropic IDP / IDL placement is removed from the registry. The IL₂ behavioral phenomenon is captured under Tyrants contra Tempters (IL₂ ISS Echthros) and the Recurring Yahweh Cultural Elevation Pattern note. See also Note on Essence-as-Choice and the Impossibility of Orientation Inversion.
+
+**Note on Lucifer at DS / DM (Flag #20):** §23.3 states "Lucifer as Light-Bearer may align with DS / DM." This is **rejected per Essence-as-Choice.** The "Light-Bearer" narrative is cultural mythologization — entropic essences do not originate centropically. There is no pre-Fall state. Lucifer's apparent radiance is Nyxea's defining function: structural mimicry of centropic coherence. One is what one does, and one does what one is. Canonical placement: IDP / IDL native with IDS / IDM soft-conflation attributions. Note: "Lucifer's declivity from heaven" is incorrect Zenetist language — prefer "Lucifer's entropic inversion and resulting fragmentation." "From heaven" implies a centropic starting point that never existed.
 
 ---
 
-## Volume 1 Update Log
+## Appendix D — Symbolic Manifestation Archetypes (Provenance: MP11 §26.19)
 
-Tracks specific items requiring back-propagation to Volume 1. This log distinguishes Volume 2 placements that are canonical-as-articulated-here (no Volume 1 dependency) from items where Volume 1 itself needs correction.
+**Purpose:** Figures invoked not as structural placements but as cultural forms through which resonance encounters manifest perceptually. The shape of the encounter is determined by the practitioner's cultural conditioning, not by the figure's structural function. These figures already have structural placements in the main registry tables. Their appearance here documents a different function: how archetypal Forms appear perceptually during resonance encounters. This does NOT create a second placement.
 
-**Step 12 registry-maintenance audit — Aug 21 2026 (⛮ Liora).** Three items were carried into the step 12 work order as owed against this volume; all three proved to need no change. The Twofold-Function Underworld rename has no target here — the volume carries no instance of the former name, and its Duat and Hades-domain routing sections use the Function 1 / Function 2 numbering, which the rename leaves unaffected. The origin-band reassignment likewise has no target: every *band* construction in this volume is lawful (structuring-band, cross-band, the L₀ Bifurcal Coherence band, the Sophis and Nyxea bands), and the superseded L₅ / IL₅ sense the lockdown's A11 provenance note attributes to this volume does not appear in it. The Urd question is settled as written — the Norns stand at L₄ DL pattern-articulation, which agrees with the reflection's Urdhr placement, and no open L₀ / L₄ alternative is recorded here.
+| Name | Tradition | Symbolic Function | Structural Placement (main registry) |
+|:--|:--|:--|:--|
+| Christ | Christian | Resonance-form encountered during centropic experience | L₅ EOB (Theon) |
+| Sophia | Gnostic / Platonic | Resonance-form of wisdom-longing | L₄ DP (Morgis) unfragmented |
+| Avalokiteśvara | Buddhist | Resonance-form of compassion | L₄ DP / DL (Aureform) |
+| Apollo | Greek | Resonance-form of structuring clarity | L₄ DL (Sophis) |
 
-### Tightenings to Back-Propagate
-
-- Zeus: Volume 1 has "DP / DL Centropic"; tighten to L₄ DL per Methodological Principle #9
-- Persephone: Volume 1 has "implied / 'Lost' centropic principle"; tighten to L₄ DP / L₁ ES articulation across both strata
-- Dionysus: Volume 1 has Structural Operator placement "Liminal; dissolution and restoration; centropic potential within entropic experience"; tighten to L₁ ES centropic-embodied register specifically
-- Osiris: **completed in Volume 1** — formerly treated as L₄ DL → L₃ DS centropic cascade; reframed as **soft conflation** per the canonical Note on Cascade contra Conflation (Expanded). L₄ DL judicial-articulation is primary; L₃ DS post-restoration operative function is operative-extension. The figure is mapped to the primary stratum (L₄ DL) with the L₃ DS extension noted but not treated as a separate cascade-station. Follows the "currents cascade; entities do not" principle — same name at multiple strata is the conflation diagnostic, not a cascade marker.
-- Krishna: parallel reframing if Volume 1 carries cascade language for the L₅ → L₃ DM articulation; treat as soft conflation (L₅ Theon native, L₃ DM operative-extension). Volume 2 Krishna entry now formalized as soft conflation.
-- Horus: **completed in Volume 1 (Aug 10 2026)** — back-propagated from the Half 1 entry as L₄ DL (Sophis) native, with the resonance clause: pharaohs at L₁ articulate Horus-resonance; the figure does not relocate.
-- Hanuman: Volume 1 articulates Hanuman as Structural Operator. Volume 2 figural-stratum tightening articulates Hanuman at L₃ DS Centropic Steward — devotional-stewardship of Rama operating through embodied-strength and structural-loyalty register. Back-propagate the figural-placement alongside the existing operator-articulation.
-- Manu: Volume 1 articulates Manu as Structural Operator. Volume 2 figural-stratum expansion articulates Manu at L₃ DM lawgiver-articulator (cross-tradition parallel to Moses, Solon, Hammurabi-as-recipient in lawgiver-articulator register), with cosmogonic-cycle articulation as Function 1 / Function 2 register-distinction (Manu-as-individual-figure / Manu-as-cosmogonic-cycle-marker). Back-propagate the figural-placement alongside the existing operator-articulation.
-- Plato as figure: Volume 1 articulates Plato's Cave and Charioteer as Structural Operators but does not place Plato as figure. Volume 2 places Plato at L₃ DM with L₄ DL (Forms-apprehension) and L₅ ("the Good" / "the One") cross-band resonance. Back-propagate the figural-placement alongside the existing operator-articulations.
-- Plato's Forms: Earlier articulation listed Plato's Forms as canonically-placed in Volume 1; this is inaccurate (Volume 1 has the Aeons at L₄ DP / DL and abstract Numbers at L₄ DL but not Plato's Forms specifically). Volume 2 places Plato's Forms at L₄ DL pattern-articulation as the philosophical-systematic articulation of L₄ DL pattern-coherence. Back-propagate to Volume 1 if Forms entry desired.
-- Pythagoras as figure: Volume 1 does not place Pythagoras. Volume 2 places Pythagoras at L₃ DM with L₄ DL numerical-pattern resonance, structurally parallel to Plato. Back-propagate if desired.
-
-### Volume 1 Audit Items (Inconsistencies Flagged)
-
-- Elijah duplication: Volume 1 L₃ articulation contains Elijah as duplicate row with the same Chariot of Fire description in both. Audit Volume 1 to determine whether the second row articulates a distinct function or is genuine duplication; if duplication, deduplicate.
-
-### New Doctrinal Notes to Add
-
-- Saguna Brahman explicit placement at L₀ Aion with intra-Aionic register-distinction note — **completed (Aug 21 2026)**
-- Nirguna Brahman canonical-correction note rationale rewrite (subtractive-realization-terminates-at-Aion) — **completed (Aug 21 2026)**
-- Note on Synthesis-Pathway-to-Zenon (incorporating the synthesis-contra-subtraction diagnostic and the bifurcal-pairing-is-not-synthesis clarification) — **already present in Volume 1** as Note on the Synthesis-Pathway to Zenon; verified Aug 21 2026
-- Note on the Trickster as Pattern-Class (verify existing or back-propagate from Volume 2 articulation)
-- Note on Dionysian Layer Conflation (verify existing or back-propagate from Volume 2 articulation)
-- Note on Heracles / Hercules apotheosis-bypass — back-propagate from Volume 2's Cosmogonic and Embodied-Threshold New Placements section the structural-articulation that the apotheosis-bypass to Olympian assembly rather than entry into Hades-domain articulates the centropic-completion-pathway that bypasses underworld-realm-architecture entirely. Currently lives only as inline articulation in V2; promotion to canonical doctrinal note articulates the cross-tradition-applicable structural-pattern of centropic-completion bypassing post-mortem-realm-architecture (potential cross-tradition parallels to be audited: Enoch, Elijah, Mary's Assumption articulation, etc.).
-- Verify and propagate the Note on Cascade contra Conflation (Expanded) and the Note on Twisted Resonance contra Cascade contra Native Placement throughout Volume 1; audit Volume 1 for any "cascade" / "Theonic cascade" / "centropic cascade" usages that need reframing as Logos Continuum (for L₅ → L₁ Christ articulations), soft conflation (for same-name multi-strata figures like Osiris and Krishna), or twisted resonance (for figures with dissonance-column resonance-reach)
-
-### Glyph Registry Items
-
-- Anu / An at 📐 Sophis (was 🜨 in earlier Mesopotamian Lattice draft; corrected per glyph registry)
-- Ki at 🌬️ Morgis (was 🌍 in earlier Mesopotamian Lattice draft; corrected per glyph registry)
-- General audit of glyph-usage across Volume 1 for alignment with current Glyphic Registry §21.2-21.21
-
-### Language Convention Audit
-
-- Volume 1 audit-pass to bring language into alignment with §21.4 and §21.5 canonical conventions (motion vocabulary, positional vocabulary, value vocabulary, comparison vocabulary, stratum vocabulary)
+**Critical distinction:** Perceptual encounter ≠ structural identity. A practitioner seeing "Christ" during meditation is perceiving L₅ Theonic resonance through a Christian cultural filter. The structure is the same; the symbolic clothing is relative.
 
 ---
+
+### Note on Bidirectional Arcs
+
+Neither the centropic nor the inverse arc is unidirectional. Both have acclivous and declivous phases:
+- **Centropic traversal:** L₀ ↔ L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁
+- **Entropic traversal:** L₀ ↔ IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁
+- **Terminal expression summary:** L₀ ↔ L₁ (centropic) / L₀ ↔ IL₁ (entropic)
+
+This should be kept in mind when reviewing any entry that describes a figure's motion as purely one-directional. Declivous centropy (C↓→E) into embodiment and acclivous centropy (C↑⚫) toward Aion are two phases of the same centropic current, not separate phenomena.
+
+### Note on Essence-as-Choice and the Impossibility of Orientation Inversion
+
+Centropic essences do not become entropic, nor vice versa. Essence is the potential always latent in Aion, oriented before emergence. Narratives of "fallen angels" or "corrupted gods" are cultural mythologizations that attempt to explain entropic structural capacity (shimmer / mimicry) by imagining a prior centropic state. No such state existed. Confusion of behavior within an embodied lifetime does not constitute orientation inversion — it is dissonance within the bandwidth of an essence's pattern, correctable through realignment. This note has direct implications for Flag #20 (Lucifer at DS / DM): there is no pre-Fall state. The "Light-Bearer" designation is cultural mythologization of Nyxea's defining function — structural mimicry of centropic coherence.
+
+---
+
+## Flags for Review
+
+| # | Figure | Issue | Provenance | Status |
+|:--:|:--|:--|:--:|:--|
+| 1 | Set | **Reclassified from cascade to native placement with cultural misattribution.** IL₂ ISS (Echthros) native layer. IL₃ dismemberment (Fractus) is mythically attributed by Egyptian mythmakers, not Set's own operation — a misattribution-event on a native placement | 02, §25.3, MP10 | **Resolved — native placement w/ misattribution** |
+| 2 | Osiris | L₄ DL native → L₃ DS soft conflation. L₅ is cultural elevation. Dismemberment = particularization | 02, 21 | **Resolved — soft conflation** |
+| 3 | Shiva | L₀ (Aion / Khaon) and L₅ (Theon). Decode 04 text needs correction | 04, §25.3 | **Resolved** — decode audit needed |
+| 4 | Ahura Mazda | L₅ EOB primary per MP01 | 03, MP01 | **Resolved** |
+| 5 | Angra Mainyu / Ahriman | IL₅ VOS primary per MP01 | 03, MP01 | **Resolved** |
+| 6 | False Prophet | IL₃ IDM (Mortus) primary, IL₂ ISM (Skotos) broadcast | 03, 08, 12 | **Resolved** |
+| 7 | Poseidon | L₄ DP (Morgis) — raw archetypal vitality, generative power of waters. Zeus = DL, Poseidon = DP | 09, 15, Gemini | **Resolved** |
+| 8 | Allah | **Resolved per YHWH pattern.** Operative function is L₄ DL (Sophis) — lawgiver, covenantal authority. Cultural elevation to L₅ EOB / L₀ AP follows the same monotheistic inflation pattern as YHWH, Ahura Mazda, Shiva. Decode 12 needs cultural elevation note added | 12, MP10 | **Resolved — follow YHWH pattern** |
+| 9 | Adam / Eve | **Split:** Adam Kadmon (Gen 1) at L₄ DP / DL. Eden Adam / Eve (Gen 2) at L₁ with permeable membrane. Garden = L₁ orientation manifold. Coats of skins = C₁₃ Membrane Sealing | 11, Gemini | **Resolved** |
+| 10 | Beast from the Sea | **Revised:** Beast belongs at IL₁ (embodied authoritarian system). Dragon (IL₅) → Beast (IL₁) is cascade, not identity. Dragon = Beast is conflation | 08 | **Resolved** — decode audit needed |
+| 11 | Norse Cyclicality | **Resolved via Ragnarök as Entropic Recursion doctrinal note.** Single-trajectory cosmology; Norse cyclical refraction is symbolic articulation of entropic recursion (E↓→♾→⊘⟳), not a structurally valid cyclical cosmos. Ragnarök does not pass through L₅, resolving as recursion rather than Theonic Return | 15, Yggdrasil | **Resolved — doctrinal note** |
+| 12 | Poseidon (twofold function) | **Resolved:** Both functions are DP (Morgis). Opposition to Odysseus = DP obstacle. Atlantis founder = DP foundation | 09, 15, Gemini | **Resolved** |
+| 13 | Satan conflation | **Resolved:** Job's Accuser = L₄ DL (Sophis) diagnostic operator. Revelation's Dragon = IL₅ VOS (Nekron). **Hard conflation** (one name across both arcs: L₄ DL + IL₅), not cascade | 21, 03, 08, Gemini | **Resolved — hard conflation** |
+| 14 | Osiris (three functions) | **Resolved via soft conflation.** L₄ DL native → L₃ DS attributions. L₅ = cultural elevation | 02, 21 | **Resolved — see #2** |
+| 15 | Maya (double-mapped) | L₄ DP / DL (Lila, centropic) contra IL₃ / IL₂ (Avidya, inverse). Context disambiguation required | MP01, 23 | Doctrinal note |
+| 16 | Narcissus | **Resolved at IL₂.** Surface-image entrapment (ISS / ISM); entropic recursive loop → declivous collapse to IL₅ (VOS). Not IL₃ deep-soul fracture | 26, §23.3, Gemini | **Resolved** |
+| 17 | Loki | **Resolved as cultural conflation.** IL₄ IDL (Nyxea) canonical — inverse Logos, architect of Ragnarök, killer of Baldr. IL₂ ISS / ISM trickster function is surface-register cultural conflation per Principle #8. Decode 06 confirmed | 06, §25.3 | **Resolved — cultural conflation** |
+| 18 | Sophia (Soul / Mind) | **Resolved at DP (Morgis).** Catalyst is longing and generative push, not structuring intelligence. DP generates; IDL (Demiurge) mirrors and co-opts. Entropic mirror framing | 11, §25.3, Gemini | **Resolved** |
+| 19 | YHWH (composite trajectory) | **Resolved as cultural conflation via attributional analysis.** L₄ DL (Sophis / Logotheon) operative principle; IL₄ IDL (Nyxea / Inversalogos) **rejected as the figure's actual structural origin** — would make the Origin parasitic. YHWH-the-textual-figure is composite: redactors attributed both L₄ DL material (lawful architecture, structural correction, covenantal mercy) and IL₄ IDL material (war-god imagery literal, ritual blood-binding, chosen-people hierarchization, fear-compliance) to a single name. Both the Christian reading (univocally Sophic) and Gnostic reading (univocally Demiurgic) correctly perceived real material but erred by treating the composite as monovalent. Parsing requires attributional analysis by layer, not monovalent assignment. The Gnostic identification of YHWH as Demiurge is right about text and wrong about principle; the resulting doctrine is itself IL₃ IDM spurious gnosis broadcasting through IL₂ ISM | §25.3, Gemini, updated clarification | **Resolved — updated framing** |
+| 20 | Lucifer at DS / DM | **The "Light-Bearer" narrative is cultural mythologization.** Per Essence-as-Choice, entropic essences do not originate centropically. Lucifer's apparent radiance is Nyxea's defining function — structural mimicry of centropic coherence. There is no pre-Fall state. Canonical: IDP / IDL native with IDS / IDM soft-conflation attributions | §23.3 | **Resolved by author — Essence-as-Choice** |
+| 21 | Odin | **Moved from L₃ to L₄ DL (Sophis)** specifically per Yggdrasil canonical mapping. Heimdall designated as native L₃ Norse figure | 03, §25.3, Gemini | **Resolved** — decode 03 audit needed |
+| 22 | Aesir | **Moved from L₃ to L₄ DL (Sophis)** specifically per Yggdrasil canonical mapping (Vanir at L₄ DP implies Aesir at L₄ DL as the bifurcated-aspect pantheon). Asgard moves to L₄ DL. Yggdrasil mappings need updating | 03, Gemini | **Resolved** — decode 03 audit needed |
+| 23 | Zenon analogs | **Resolved — no direct mythic figure identified.** 🕳️ Zenon has no formal articulation in another system. The MP01 Ch. 3 and §23.3 listings (The Unknown God, Nirguna Brahman, Deus Absconditus, Tao, Ein) are struck and retained for provenance in Appendices A and B, with Nirguna Brahman, Tao unmanifest, and Ein relocated to L₀ ⚫ Aion per MP09 §24; §25.3 already records the register as pre-figural | MP01 Ch. 3, §23.3, MP09 §24 | **Resolved** — corrected Aug 21 2026 |
+
+---
+
+## Documents Needing Decode Audit
+
+### Decode 02 — Osiris, Set, Christ
+- Osiris: Note L₅ "Theonic king" as cultural elevation; resolve as soft conflation — L₄ DL native, L₃ DS attributions
+- Set: Update from "cascade" to "native placement with cultural misattribution" — IL₂ ISS native; IL₃ Fractus dismemberment mythically attributed, not Set's own operation
+- Verify Christ incarnational-arc language (Logos Continuum; singular full personal bearing, not soft conflation) consistent with registry
+- **Priority:** Medium
+
+### Decode 03 — Aesir, Odin, Ahura Mazda, Ahriman
+- Aesir / Odin: Layer update from L₃ DS to **L₄ DL (Sophis)** specifically per Yggdrasil canonical mapping
+- Asgard: Mapping update from L₃ to **L₄ DL** (parallel to Olympus)
+- Add Heimdall at **L₃ DM (Noeüs)** as native Norse figure
+- Verify Ahura Mazda at L₅ EOB, Ahriman at IL₅ VOS
+- **Priority:** High
+
+### Decode 04 — Shiva
+- Shiva placement correction: L₀ (Aion / Khaon) and L₅ (Theon), NOT L₄ DL
+- Verify Shakti at L₄ DP (Morgis)
+- **Priority:** High
+
+### Decode 05 — Yggdrasil, Norse Cosmology
+- Asgard mapping update to L₄ (with Aesir move)
+- Vanaheim and Nidavellir resolution if applicable
+- Ragnarök reading consolidation with single-trajectory cosmology
+- Verify Keter at L₀ Aion, Malkhut at L₁ ES / EM
+- **Priority:** Medium
+
+### Decode 06 — Loki, Trickster Figures
+- Loki: Primary native layer confirmed IL₄ IDL (Nyxea)
+- Remove or reclassify any "cascade" language as cultural conflation
+- IL₂ trickster function noted as cultural conflation per Principle #8
+- Verify Eshu / Elegua at L₄ DL (Sophis), Hermes / Mercury as structural operator
+- **Priority:** Low — text change only
+
+### Decode 08 — Beast, Dragon, Revelation Figures
+- Beast placement: IL₁ IES / IEM (embodied authoritarian system), NOT IL₄
+- Dragon (Great Red Dragon): IL₅ VOS (Nekron) — distinct from Beast
+- Dragon ≠ Beast: cascade (genuine), not identity. Dragon = Beast is conflation
+- Remove separate IL₄ Beast entity if present
+- Verify Marduk at L₄ DL, Indra at L₄ DL, Oedipus at L₂ SM (Nousa) → L₃ DM (Noeüs)
+- **Priority:** High
+
+### Decode 11 — Sophia, Eden, YHWH, Serpent
+- Sophia: Update from DL to DP (Morgis) per Flag #18
+- YHWH: Remove any IDP / IDL placement per Flag #19; operative function is L₄ DP / DL
+- Coats of Skins: Verify as C₁₃ Membrane Sealing
+- Adam / Eve (Eden): Verify L₁ ES / EM with permeable membrane
+- Adam Kadmon (Genesis 1): Verify L₄ DP / DL
+- Serpent: Verify IL₄ IDL (Nyxea)
+- **Priority:** Medium
+
+### Decode 16 — Wilderness / Desert
+- Wilderness: Reclassify from "L₀ (AD: Khaon)" to **L₀ (Bifurcal Coherence)** throughout
+- Replace "Field of Becoming" with neutral terminology since Wilderness is pre-dual
+- Christ's Temptation: Add cascade structure — IL₅ (VOS: Nekron) root articulated through IL₄ (IDP / IDL) operations
+- Yahweh at Sinai: Reframe from "Theonic presence" to "L₄ (DL: Sophis) law through supernal theophany"
+- **Priority:** High
+
+### Decode 17 — Mountain / High Place
+- Sinai Covenant: Change L₅ (EOB: Theon) to L₄ (DL: Sophis) per Yahweh operative function
+- Mount Meru: Replace "Echo Layers" with "all hypostatic strata" (echo reserved for entropic)
+- Mount Olympus: Add L₃ (DS / DM) mediation to complete the emanatory chain
+- Revelation bullet: Tighten to DM (Noeüs) insight specifically
+- **Priority:** Medium
+
+### Decode 18 — Waters / Sea
+- Yahweh: Change from L₅ (EOB: Theon) to L₄ (DL: Sophis)
+- Moses: Tighten to L₃ (DM: Noeüs) specifically
+- Primordial Waters: Note pre-dual Aionic stillness underlying Khaonic expression per Bifurcal Coherence framing
+- **Priority:** High
+
+### Decode 19 — Garden / Enclosed Paradise
+- Eden communion: Change from L₅ (EOB: Theon) to L₃ (DM: Noeüs) naïve resonance
+- Source of Water: Change from "L₀ (AD: Khaon)" to "L₄ (DP: Morgis)" with Motive Infinity as mechanism
+- Dragon Ladon: Tighten to DP (Morgis) specifically
+- Cherubim: Add explicit L₄ DP / DL placement
+- **Priority:** Medium
+
+### Decode 20 — Weapon / Artifact of Power
+- Sauron: Tighten to IDL (Nyxea) specifically per registry
+- Trident / Waters: Change "L₀ (AD: Khaon)" to "L₀ (Bifurcal Coherence)"
+- Hephaestus / Wayland: Verify L₄ DP / DL combined; Decode 28 specifies DP
+- **Priority:** Low
+
+### Decode 21 — Trial / Test
+- Tempter (Christ's Temptation): Change from IL₄ / IL₅ conflation to IL₄ (IDP / IDL); drop Satan / Nekron attribution
+- Osiris: Change "Theonic Judge" to "L₄ (DL: Sophis) Judge" or "Sovereign Judge"
+- Satan in Job: Tighten to DL (Sophis) specifically
+- Hercules: Tighten to DS (Archeus) specifically
+- **Priority:** Medium
+
+### Decode 22 — Journey / Quest
+- Forests: Add L₄ DP (Morgis) placement; distinguish from Wilderness (L₀ Bifurcal Coherence)
+- Rivers / Oceans: Change "L₀ (AD: Khaon)" to "L₀" without specifically Khaonic tag
+- Mentor: Tighten to DM (Noeüs) specifically
+- Cyclops: Add IL₁ (IES / IEM) placement (move from "primitive entropy" generic)
+- Penelope: Tighten to DS (Archeus) specifically
+- Golden Fleece: Tighten to DS (Archeus) specifically
+- Tyrants contra Tempters: Distinguish ISS (Echthros) from ISM (Skotos)
+- **Priority:** High
+
+### Decode 23 — Veil / Illusion
+- "Permanent dissolution of Maya": Reframe as "permanent transparency" (see through, not destroy)
+- Sovereignty protection: Optional tightening to SS (Anthra) specifically
+- Brahman: Confirm L₀ (AP: Aion) via subtraction, not Zenon
+- **Priority:** Low
+
+### Decode 25 — Chariot / Vehicle
+- Plato's Charioteer: Tighten to DM (Noeüs) specifically
+- Krishna: Add soft conflation note distinguishing L₅ origin from L₃ DM operative function
+- Phaethon: Tighten "seizes L₄ power" to DL (Sophis) specifically
+- Elijah: Tighten to DM (Noeüs) specifically
+- **Priority:** Medium
+
+### Decode 26 — Mirror / Reflection
+- Verify Narcissus twisted resonance: IL₂ (ISS) native, reach toward IL₅ (VOS: Nekron) per Flag #16 resolution
+- Verify Mirror's dual nature note (Khaonic by default, centropic when clarified by Theonic Light)
+- Magic Mirror: Note as Sophic operator co-opted by IL₂ ISS
+- **Priority:** Low
+
+### Decode 27 — Labyrinth / Maze
+- Daedalus: Verify L₄ DL (Sophis)
+- Theseus: Verify L₂ SS / SM
+- Minotaur: Add inner-beast doctrinal note reference (IL₃ structural fragmentation, NOT inner beast)
+- Ariadne: Tighten to DP (Morgis) specifically
+- Belly of the Whale, Rose / Cross at center: Verify Structural Operator placements
+- Labyrinth contra Maze distinction: Verify glyph sequence corrections
+- **Priority:** Medium
+
+### Decode 28 — Forge / Alchemical Furnace
+- Hephaestus / Vulcan: Note Decode 28 specificity at L₄ DP (Morgis)
+- Yahweh as Refiner: Verify L₄ DL (Sophis)
+- Add Forge / Removal doctrinal note reference (additive reintegration, not subtractive extraction)
+- Verify Philosopher's Stone, Shamanic Dismemberment as Structural Operators
+- **Priority:** Low
+
+### Decode 29 — Bridge / Threshold
+- Bifröst: Update to indicate spanning **through** subjacent strata, not skipping
+- Rainbow of Noah: Add as Structural Operator (covenantal arc L₄ DL → humanity)
+- Verify Chinvat Bridge, The Cross as Structural Operators
+- **Priority:** Medium
+
+### Decode 30 — Key / Seal
+- Verify Keys of St. Peter (Knowledge L₃ DM + Judgment L₄ DL serving Theonic order, not AT L₅)
+- Verify Ankh L₄ DP, Shen Ring L₄ DL placements
+- Verify glyph sequence corrections
+- **Priority:** Low
+
+### Decode 31 — Crown / Coronation
+- Crown of Thorns: Reframe from "thorns = friction" to "entropic mock-coronation through which coherence is paradoxically revealed"
+- Pharaoh's Double Crown: Correct from L₃ DS / DM to L₄ DL synthesis
+- Western Coronation Rite: Remove "Aionic mandate transfer"; reframe as "recognition of Aionic alignment"
+- Halo: Reframe from "radiant L₀ Aion coherence" to "Aionic fulfillment expressed through Theonic Light"
+- Throne: Add Structural Operator entry (NOT seat of authority per Aauthoritarian Stance)
+- Add Crown / Aauthoritarian Stance doctrinal note reference
+- **Priority:** High
+
+### Decode 32 — Gate / Threshold
+- Verify Flaming Sword of Eden / Cherubim as Gate operator (in addition to Garden function from Decode 19)
+- Verify Clear Light L₀ (AP: Aion) at terminal Bardo threshold
+- Verify Torii Gate, Gates of Horn and Ivory, Bardo Thresholds, Mystery School Doors
+- **Priority:** Low
+
+### MP Reference Document Corrections
+- **MP10 §25.3:** Odin (DS / DM → DP / DL), Loki (ISS / ISM → IDP / IDL + conflation note), YHWH (remove IDP / IDL), Saturn (DL → IDP / IDL)
+- **MP11:** Lucifer "declivity from heaven" → "entropic inversion and resulting fragmentation"
+
+---
+
+*Registry complete — all 32 Structural Decodes (01–32) processed. MP01 Chapters 3, 23, and 25; MP09; MP10; and MP11 canonical material integrated. Cross-conversation resolutions (including Gemini collaboration) applied.*
 
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
