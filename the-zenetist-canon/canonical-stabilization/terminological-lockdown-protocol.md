@@ -2368,7 +2368,7 @@ Bridge documents are **vocabulary-exempt and doctrine-bound**: they may employ c
 
 The **L₅ / IL₅ hypostatic band** is the canonical name for that stratum. Root-language and origin-language are reserved to L₀; the band-names are never conflated or interchanged.
 
-**Supersession note.** This entry formerly assigned origin-band to the L₅ / IL₅ stratum, citing MFLR Vol 2 as the hypostatic origins of the two arcs. That assignment is superseded. MFLR Vol 2 carries the superseded sense and wants a registry-maintenance check; enforcement elsewhere is prospective and conform-on-touch.
+**Supersession note.** This entry formerly assigned origin-band to the L₅ / IL₅ stratum, citing MFLR Vol 2 as the hypostatic origins of the two arcs. That assignment is superseded. The citation records where the superseded reading was drawn from rather than a defect standing in the volume: the registry-maintenance audit of `mythic-figure-layer-registry-02.md` (August 21 2026) found no instance of the superseded sense in it, every *band* construction there being lawful. Enforcement elsewhere is prospective and conform-on-touch.
 
 ## A12 · Review Method — Disambiguate, Do Not Weaken
 
