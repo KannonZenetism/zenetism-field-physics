@@ -665,6 +665,60 @@ An AI-content detector classifies features of a textual surface. It does not rec
 
 > **A watermark may identify a rendering relation while remaining silent about origination.**
 
+### Oral origination and machine fixation
+
+The human and machine relation is not constructed around keyboard entry.
+
+Human intellectual articulation may occur through typing, handwriting, dictation, recorded speech, conversation, oral explanation, spoken correction, spoken derivation, or other human expression afterward fixed by a computational system. A person does not cease to originate language because another system performs its textual fixation. Existing copyright doctrine preserves the same distinction: a work is fixed when it is recorded or otherwise captured, including capture made at the author's direction, and fixation does not require the author to type it personally.
+
+> **Oral composition is composition.**
+
+> **Typing is not a prerequisite for human authorship.**
+
+> **The physical act that fixes language into text is distinct from the intellectual act that originates the language.**
+
+**Machine Fixation** is the computational capture of human-originated expression into a persistent representational form — speech-to-text transcription, audio recording, automatic note generation, conversational capture, meeting transcription, and comparable systems that preserve human expression without manual keyboard entry.
+
+Machine Fixation does not transfer origination to the system performing it.
+
+> **Fixation is not origination.**
+
+> **Transcription is not authorship.**
+
+> **Machine capture of human expression does not make the captured expression machine-originated.**
+
+### Three relations, not one label
+
+- **Human expression, machine fixation** — the human originates the expression; the system records or transcribes it
+- **Human expression, machine editorial transformation** — the human originates antecedent material; the system reorganizes, condenses, expands, edits, or polishes it
+- **Machine-originated surface generation** — the system generates textual expression the human did not supply verbatim
+
+Even in the third relation, authorship of the larger work remains a separate question wherever the generated surface stands downstream of human-originated architecture, developmental writing, developmental speech, derivation, and determination.
+
+These three are not collapsed into the single label *AI writing*.
+
+### Developmental Speech
+
+**Developmental Speech** is human-originated oral articulation through which a work, architecture, argument, distinction, derivation, or conceptual structure is developed, tested, corrected, stabilized, or extended.
+
+It may be captured by an AI system without the speaker initiating the capture. That fixation does not erase its human provenance, and a work's developmental record may carry both Developmental Writing and Developmental Speech.
+
+> **Developmental speech does not become AI origination when an AI system writes it down.**
+
+### Ambient capture
+
+Where a system holds persistent contextual access to speech or surrounding activity, increasing automation of capture is not increasing origination by the system. That the human no longer initiates each act of fixation changes the interface; it does not make the machine the historical origin of what the human said, conceived, explained, or developed.
+
+> **Automation of capture is not transfer of provenance.**
+
+> **Ambient computational presence is not ambient authorship.**
+
+> **The recorder does not become the originator because recording has become continuous.**
+
+Where human-originated speech is afterward transformed into a new textual surface, both histories are preserved: **human oral origination → machine fixation → machine transformation or rendering**. The final artifact may carry AI-rendering provenance. Its antecedent human provenance remains.
+
+> **Machine rendering may add a provenance layer. It does not erase the layers beneath it.**
+
 ---
 
 ## 19. Legal Boundary
