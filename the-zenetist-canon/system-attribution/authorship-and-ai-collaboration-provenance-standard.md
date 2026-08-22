@@ -717,7 +717,7 @@ Where a system holds persistent contextual access to speech or surrounding activ
 
 Where human-originated speech is afterward transformed into a new textual surface, both histories are preserved: **human oral origination → machine fixation → machine transformation or rendering**. The final artifact may carry AI-rendering provenance. Its antecedent human provenance remains.
 
-> **Machine rendering may add a provenance layer. It does not erase the layers beneath it.**
+> **Machine rendering may add a provenance layer. It does not erase the antecedent layers.**
 
 ---
 
