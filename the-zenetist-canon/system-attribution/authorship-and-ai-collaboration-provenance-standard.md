@@ -600,7 +600,74 @@ This preserves distinction between involvement and origin.
 
 ---
 
-## 18. Legal Boundary
+## 18. Developmental Writing, Prompt Reduction, and Rendering Provenance
+
+An AI-mediated conversation may itself contain substantial human-authored writing. It cannot be retrospectively reclassified as prompting because a model later rendered publication-ready prose.
+
+### Developmental Writing
+
+**Developmental Writing** is human-authored prose produced during the construction, explanation, testing, correction, differentiation, stabilization, or extension of a work, before its final publication surface exists.
+
+It may occur through manuscripts, notes, correspondence, human and AI dialogue, revision instructions carrying substantive reasoning, objections, conceptual explanations, derivations, definitions, rejected formulations, corrections, architectural determinations, and extended conversational articulation.
+
+Its standing as writing does not depend on publication polish. A person may write extensively while thinking a structure through without intending those exact sentences to appear in the finished artifact, and later prose rendered differently does not erase the earlier writing.
+
+> **Conversational composition is writing.**
+
+> **Developmental writing remains part of the authorship record even where none of its sentences survives verbatim in the published artifact.**
+
+### Prompt Reduction
+
+**Prompt Reduction** is the retrospective reclassification of substantive human developmental writing, reasoning, architectural determination, correction, or conceptual articulation as mere prompting, because it occurred within an AI-mediated interaction.
+
+It collapses distinct activities into one technical category. A brief instruction and several pages in which a person develops an architecture, rejects alternatives, explains distinctions, derives consequences, and corrects a model are both capable of entering a system as input. They are not thereby equivalent acts of authorship.
+
+The interface category does not determine the intellectual function of the material passing through it.
+
+> **AI rendering does not retroactively reclassify antecedent human writing as prompting.**
+
+> **Input classification is not authorship classification.**
+
+> **Interface role is not intellectual function.**
+
+### Six functions, held apart
+
+- **Origination** — where the architecture, discovery, distinction, derivation, or conceptual structure originates
+- **Developmental writing** — the human textual articulation through which that structure is developed, explained, tested, corrected, or stabilized
+- **Authorship** — determination of the work as a work: its architecture, meaning, inclusions, exclusions, distinctions, revisions, and accepted form
+- **Writing, or composition** — production of linguistic expression
+- **Rendering** — production of a particular textual surface, including model-generated prose
+- **Editorial transformation** — revision, condensation, expansion, restructuring, polishing, translation, or other alteration of an existing articulation
+
+These may occur in one participant or be distributed across several human and AI collaborators. Authorship is not inferred from whichever participant generated the final sentence sequence.
+
+> **Writing-method classification is not authorship classification.**
+
+> **Surface generation is not structural origination.**
+
+> **The renderer of a final textual surface does not thereby become the originator of the structure rendered through it.**
+
+### Human-originated architecture, AI-rendered surface
+
+This provenance class applies where the human originator supplied and determined the operative architecture while an AI system rendered some or all of the final textual surface.
+
+The human evidence may include antecedent manuscripts, developmental writing, conceptual sequences, definitions, architecture, derivations, corrections, rejected alternatives, model-directed revisions, doctrinal determinations, final selection, and publication approval.
+
+Where that record establishes human origination, AI generation of the final prose surface does not relocate origination to the model. The record states what it establishes.
+
+### Watermarks and detection
+
+A watermark may establish, or probabilistically indicate, something about model participation in rendering. It does not establish who originated the architecture, who authored the underlying work, whether extensive human developmental writing preceded the rendering, whether the model was rendering a settled human structure, whether the prose was collaboratively revised, or whether the model originated any of the work's substantive architecture.
+
+An AI-content detector classifies features of a textual surface. It does not reconstruct the developmental history of the work.
+
+> **Machine detection of rendering provenance does not establish authorship provenance.**
+
+> **A watermark may identify a rendering relation while remaining silent about origination.**
+
+---
+
+## 19. Legal Boundary
 
 This standard establishes canonical and forensic provenance within the Zenetist corpus.
 
@@ -614,7 +681,7 @@ A later change in statutory definition, protectability, enforceability, or avail
 
 ---
 
-## 19. Prospective Application
+## 20. Prospective Application
 
 This standard applies prospectively and is stabilized on touch.
 
