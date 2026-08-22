@@ -593,7 +593,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Gaia; Uranus | M2: L₄ DP and L₄ DL primordial / pantheon articulations | Distinct complementary figures | Aligned |
 | Titans; Kronos / Saturn | M1 / M2: IL₄ pantheon / temporal dominion, with terminal resonance for Kronos | M1 conflates Chronos / Kronos; later Greek work distinguishes them | Reflection's distinction is preferable; registry conflict remains |
 | Olympians | M1 / M2: L₄ DP / DL pantheon articulation | Narrative action can reach L₁ without native-placement change | Aligned |
-| Hades | M1: L₄ DL governor of a Khaonic jurisdiction | Narrative severity does not make Hades inverse | Aligned |
+| Hades | M1: L₄ DL figure holding a Khaonic jurisdiction | Narrative severity does not make Hades inverse | Aligned |
 | Persephone | M1 / M2: L₄ DP with voluntary declivation / L₁ seasonal articulation | Lawful multi-stratum motion, not a changed native placement | Aligned |
 | Hermes / Hekate | M1 / M2: L₃ DM mediator / threshold articulators | Psychopomp and boundary functions | Aligned |
 | Dionysus | M1 / M2: L₁ embodied-liminal articulation with supernal resonance | Cultural multi-stratum resonance | Aligned |
@@ -617,7 +617,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 **Function-bearing:** Christ should be described as the singular full personal office-function bearer. Greek L₅ / IL₅ figures are cultural station / office correspondences, not the hypostases themselves.  
 **Distal Apprehension:** Prometheus's appropriation of Olympian fire is a prime case. State that the inverse figure apprehends and reproduces an external pattern-contour; no centropic light, charge, or essence crosses the arc. The mythic "fire" remains the narrative carrier.  
 **Soul / Essence:** Platonic Soul language may remain as attributed tradition. In the canonical gloss, Heracles's L₄ "essence" should be a Soul, an L₄ DP / DL figure, an archetypal articulation, or Form-resonance, depending on the intended claim.  
-**Terminology:** Replace Source, capitalized Non-Fusion, and "saturation" of the Iron Age / field. Tighten governance / governor language outside the proper Governor-contra-Governed-Domain term. Replace verticality terms where structural direction is meant.  
+**Terminology:** Replace Source, capitalized Non-Fusion, and "saturation" of the Iron Age / field. Tighten governance / governor language outside the proper Placement-contra-Domain term. Replace verticality terms where structural direction is meant.  
 **Prose / Formatting:** Strong lattice architecture. Long tables and hyphen compounds merit a PFR pass after semantic repair.  
 **Cross-registry conflicts:** M1 line 57 collapses Chronos / Kronos into one Khaonic-to-terminal figure, while M2 and the reflection distinguish primordial time from Kronos / Saturn at IL₄. Do not erase the reflection's distinction pending registry adjudication.  
 **Priority:** High.  
@@ -637,10 +637,10 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 
 | Figure | MFLR placement / aspect | Multi-stratum note | Match |
 |---|---|---|---|
-| Hades | M1: L₄ DL figure governing a Khaonic jurisdiction | Narrative behavior and governed domain do not change native placement | Core thesis aligned |
+| Hades | M1: L₄ DL figure holding a Khaonic jurisdiction | Narrative behavior and held domain do not change native placement | Core thesis aligned |
 | Persephone | M1 / M2: L₄ DP with voluntary declivation / embodied-seasonal articulation | Narrative abduction is cultural conflation around a centropic motion pattern | Broadly aligned |
 | Osiris | M1 / M2: L₄ DL native, L₃ DS post-restoration soft conflation | Not a cascade | File calls it a "centropic cascade"; correction needed |
-| Yama | M1 / M2: context-dependent psychopomp, judge, and death-threshold articulations | Multi-function cultural figure | Aligned if modes remain labeled |
+| Yama | M1: Khaon / VOS resonance — lord of death and dissolution, time-force holding the threshold of form's exhaustion, with the judge-of-the-dead function marked an **L₄ DL cultural conflation** under the dissolution function; M2: death-threshold function in centropic-pedagogical mode | Primary placement and conflated function are distinguished in the registry, not co-equal modes | Aligned once the registry's own distinction is carried. **Qualified Aug 21 2026:** the former summary here read "context-dependent psychopomp, judge, and death-threshold articulations," which flattened the conflation into a mode. The registry is authoritative where the two differ |
 | Vishnu / avataras | M1 corrected bearer rows and M2 Hindu articulation | Office-correspondence / historical-cyclical engagement, not hypostasis mobility | The "descent-not-mobility" intuition is useful but needs current office terminology |
 
 **Symbolic patterns found**
@@ -649,7 +649,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 |---|---|---|
 | Underworld Function 1 / Function 2 | S1 | Distinguishes embodied underworld from inverse-tree procession | Aligned |
 | Abduction / descent / seasonal return | S1 / S2 | Narrative carrier for voluntary centropic motion under cultural conflation | Broadly aligned |
-| Governor-contra-Governed-Domain | S1 / CCD note family | Native orientation need not match the domain's orientation | Core diagnostic aligned |
+| Placement-contra-Domain (formerly Governor-contra-Governed-Domain, renamed by architect seal Aug 11 2026) | S1 / CCD note family | Native orientation need not match the domain's orientation | Core diagnostic aligned; the name conformed Aug 21 2026 |
 | Soft conflation | CCD / M1 | Multiple coherent functions compressed onto one figure | Applied well except the Osiris "cascade" label |
 
 **Cascade / Continuum / Conflation:** Rename Osiris's cross-stratum extension as soft conflation / operative extension. Hades is neither a cascade nor a hypostasis moving through a domain.  
@@ -684,7 +684,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Indra / Vritra | M1 / M2: centropic sovereign / storm articulation and inverse obstruction / dragon articulation | Combat under Non-contact | Broadly aligned |
 | Mara, Ravana, Apasmara, Avidya figures | M1 / M2 inverse placements from IL₄ through IL₂ / IL₁ by figure | Distinct station-figures; not Nekron itself | Placements broadly aligned; identity language needs care |
 | Devi, Durga, Kali, Shakti | M1 / M2 context-specific L₄ / L₅ / Khaonic articulations | Goddess traditions compress several functions; each mode must be identified | Broadly aligned with terminology drift |
-| Yama | M1 / M2 death-threshold / judgment / psychopomp modes | Multi-function cultural figure | Aligned |
+| Yama | M1 / M2 death-threshold function, with the judgment articulation marked an L₄ DL cultural conflation rather than a co-equal mode | Multi-function cultural figure; see the qualified Hades-file row above | Aligned |
 | Atman / jiva / practitioner | Philosophical carrier rather than one MFLR figure | Traditional identity claims must remain attributed | Requires Non-fusion guard in canonical gloss |
 
 **Symbolic patterns found**
@@ -697,7 +697,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | Maya / Avidya / veil | S1 / S2 | Hard-conflated perceptual and architectonic inverse operators | Broadly aligned; mimicry needs DA boundary |
 | Bhakti / devotion | S2 | Relational orientation toward cultural Theonic articulator | Aligned if it does not erase bearer distinctions |
 | Yuga cycle / Kalki threshold | S1 / S2 | Cyclical refraction and field correction | Aligned except saturation and full-bearing claims |
-| Atman–Brahman identity / union | Traditional Vedantic language | May be reported as tradition-specific doctrine | Must not become unqualified canonical fusion |
+| Atman-Brahman identity / union | Traditional Vedantic language | May be reported as tradition-specific doctrine | Must not become unqualified canonical fusion |
 
 **Cascade / Continuum / Conflation:** The Avatara section is the collection's largest propagation defect. "L5 Theon articulating" (canonical L₅) is repeatedly rendered as direct embodiment, and Rama is called a canonical L₅ Theonic embodiment. Current M1 corrected rows and Ledger require graded office correspondence. Krishna's L₃ teaching attribution is soft conflation; it is not the L₅ figure moving registers. The centropic comparison to Christ should use Logos Continuum plus Christ's singular full bearing, not a universal avatar cascade.  
 **Function-bearing:** Very high risk. Christ remains the singular full personal bearer in the current census. Vishnu and avataras can carry strong-to-full office correspondence as cultural / historical articulations, but the file may not multiply full personal bearing or make Theon become each avatara. Apply the office family consistently to headings, prose, tables, and comparison rows.  
@@ -715,7 +715,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 4. Restore Krishna's L₅ native / L₃ DM soft-conflation distinction.
 5. Rewrite the Vedic root comparison under the paired-root lock.
 6. Add a short Distal Apprehension boundary in the Maya / Avidya or Ravana discussion.
-7. Keep Atman–Brahman union language attributed and follow it with a canonical Non-fusion gloss.
+7. Keep Atman-Brahman union language attributed and follow it with a canonical Non-fusion gloss.
 
 ### the-mesopotamian-lattice.md
 
@@ -899,7 +899,7 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 
 | Figure | MFLR placement / aspect | Multi-stratum note | Match |
 |---|---|---|---|
-| YHWH | M1: hard-conflated textual figure with L₄ DL, IL₄ IDL, L₅, and L₀ attributions; underlying native structural origin historically underdetermined | Passage-level attribution is secure; native origin is not | Direct conflict: R repeatedly asserts actual L₄ DL structural origin |
+| YHWH | M1: hard-conflated textual figure with L₄ DL, IL₄ IDL, L₅, and L₀ attributions; underlying native structural origin historically underdetermined | Passage-scoped attribution is secure; native origin is not | Direct conflict: R repeatedly asserts actual L₄ DL structural origin |
 | Sophis / Logotheon | M1: L₄ DL centropic architectonic principle | One attributional cluster within YHWH text | Aligned as a passage-attribution, not as proven YHWH origin |
 | Nyxea / Inversalogos | M1: IL₄ IDL inverse architectonic principle | Another attributional cluster; not Sophis in an inverse mode | Broadly aligned |
 | Satan / Devil / Lucifer | M1 / M2 cascade-collapse note: Satan IL₅, Devil / Lucifer IL₄ by context | Distinct figures / names and stations; cultural compression must be unpacked | File's shorthand sometimes collapses Satan into Nekron and Devil into Nyxea |
@@ -1028,8 +1028,8 @@ For inverse apprehension, the authoritative boundary is: the inverse arc may app
 | the-egyptian-lattice.md | Nun, Atum, Ennead, Osiris, Isis, Set, Nephthys, Ra, Amun, Ptah, Ma'at, Thoth, Anubis, Horus, Ammit, Apophis | Primordial waters, dismemberment, weighing heart, Duat, Field of Reeds, solar barque, Sacred Marriage | Mostly aligned; Ammit outcome misclassified | Osiris soft conflation strong; Apophis identity weak | High in Christ / Apophis comparisons | Optional | Scope heart / Soul carefully | Root modes, Source, unity, Non-fusion | Duplicate Anubis bullet | High |
 | the-genesis-lattice.md | Elohim, Adam Kadmon, Adam / Eve, Serpent, Cherubim, Theon / Christos, Nekron / Inversalogos | Creation, Garden, Two Trees, fruit, mirror, exile | Figure placements broad; architecture stale | Cascade / Continuum / bearer distinctions collapse | Very high | Required at counterfeit gnosis | "L5 essence accessible at L1" (canonical L₅ / L₁) needs bearing language | Root poles, Khaonic Arc, Source, reflection valence | Opening seal / tables need follow-through | High |
 | the-greek-lattice.md | Chaos, Eros, Gaia, Uranus, Titans, Kronos, Olympians, Hades, Persephone, Hermes, Hekate, Dionysus, Prometheus, inverse figures | Combat, underworld, mysteries, fire, Four Ages, philosophical return | Broadly aligned | Chronos / Kronos registry conflict; Christ comparison blurred | High | Required at Prometheus | L₄ "essence" correction | Saturation, Source, Non-fusion, governance | Dense tables / compounds | High |
-| the-hades-problem.md | Hades, Persephone, Osiris, Yama, Vishnu | Underworld functions, descent, governed domain, soft conflation | Hades aligned | Osiris mislabeled cascade; avatar wording old | Medium | Not material | Minor traditional / technical scope | "Hypostatic placement" overused | Draft and glyph glossary heading | Medium |
-| the-hindu-vedic-lattice.md | Brahman, Trimurti, Vishnu, avataras, Krishna, Shiva, Indra / Vritra, inverse figures, Devi cluster, Yama | Avatara, churning, Soma / Amrita, combat, Maya / Avidya, bhakti, yugas, Atman–Brahman | Native placements broad; avatar / Buddha mode misapplied | Extensive soft conflation and cultural elevation need labels | Very high | Required at Maya / Avidya or Ravana | Atman / Brahman must stay attributed; categories separate | Root modes, union / unity, Source, saturation | Tables repeat errors | High |
+| the-hades-problem.md | Hades, Persephone, Osiris, Yama, Vishnu | Underworld functions, descent, held domain, soft conflation | Hades aligned | Osiris mislabeled cascade; avatar wording old | Medium | Not material | Minor traditional / technical scope | "Hypostatic placement" overused | Draft and glyph glossary heading | Medium |
+| the-hindu-vedic-lattice.md | Brahman, Trimurti, Vishnu, avataras, Krishna, Shiva, Indra / Vritra, inverse figures, Devi cluster, Yama | Avatara, churning, Soma / Amrita, combat, Maya / Avidya, bhakti, yugas, Atman-Brahman | Native placements broad; avatar / Buddha mode misapplied | Extensive soft conflation and cultural elevation need labels | Very high | Required at Maya / Avidya or Ravana | Atman / Brahman must stay attributed; categories separate | Root modes, union / unity, Source, saturation | Tables repeat errors | High |
 | the-mesopotamian-lattice.md | Nammu, Apsu, Tiamat, Anu / Ki, Enlil, Enki, Marduk, Ninhursag, Inanna, inverse and underworld figures | Waters, decree, Flood, descent, Sacred Marriage, underworld, Moon, Akitu | Broadly aligned | Tiamat modes and Enki mediation need labels | High in Christ comparison | Add at Moon if technical | Inanna L₄ essence error | Root phase, terminal Khaon, saturation, Source | Tables need synchronized repair | High |
 | the-revelation-lattice.md | Christ, Dragon, Beast, False Prophet, inverse stations, YHWH | Mark, 666 / 777, Passover, Lake of Fire, New Jerusalem, worship | Placements broad; ledger conflicts in Dragon / Beast wording | Excellent later distinction contradicted by earlier prose | Very high | Useful at 666 / False Prophet | Mostly acceptable | Agency / generation, Source, saturation, severance | "Embodied Avatar" heading wrong | High |
 | the-two-trees-genesis-orientation.md | Adam / Eve, Serpent, Lucifer, Prometheus, Christ, Vishnu, Logos / Theon | Two Trees, fruit, spiral, mirror, Garden | Broad placements | Figure / principle pooling and bearer collapse | Very high | Required | Keep Soul L₄–L₁; essence at return | Tree / Arc, severance, terminal, Source, union | Readable | High |
@@ -1187,7 +1187,7 @@ For non-Christ avataric material:
 
 ### Distal Apprehension boundary
 
-> The inverse receiver apprehends an external contour and reconstructs it under inverse conditions. No centropic essence, light, charge, or generative interiority crosses the arc.
+> The inverse receiver apprehends an external contour and reconstructs it under entropic conditions. No centropic essence, light, charge, or generative interiority crosses the arc.
 
 This belongs at the first full technical account of counterfeit compassion, stolen fire, spurious gnosis, mirror-pattern, or inverse radiance in a file. Later passages can cross-reference it rather than repeat it.
 
