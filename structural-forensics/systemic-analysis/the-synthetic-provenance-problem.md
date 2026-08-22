@@ -600,7 +600,7 @@ The ordinary creator may be told:
 
 > "Everything develops from the commons."
 
-Yet the infrastructure capable of ingesting, recomposing, generating, distributing, ranking, commercializing, and amplifying those concepts may remain concentrated within a comparatively small number of institutions.
+Yet the infrastructure capable of ingesting, recomposing, generating, distributing, ordering, commercializing, and amplifying those concepts may remain concentrated within a comparatively small number of institutions.
 
 The resulting arrangement may be described as:
 
@@ -783,7 +783,21 @@ A mature provenance record should preserve:
 
 This creates a **derivational map**, not merely a timestamp ledger.
 
-Computational transformation does not interrupt this relation. Where a model summarizes, revoices, extrapolates from, or generates new surface text out of provenance-bearing material, the resulting artifact acquires a new rendering history without losing its antecedent history. A machine-generated surface may therefore carry machine-rendering provenance while remaining downstream of a human developmental or structural origin.
+### Rendering does not reset provenance
+
+Computational transformation does not interrupt this relation. Where a model summarizes, restructures, revoices, extrapolates from, edits, or renders new surface prose out of provenance-bearing material, the resulting artifact acquires an additional rendering history. It does not lose the developmental history that preceded the rendering.
+
+A machine-generated textual surface may therefore carry machine-rendering provenance while remaining downstream of human developmental writing, human structural origination, human derivation, human conceptual determination, and a documented human authorship record.
+
+A later surface does not become its own antecedent because its rendering mechanism is more technologically legible than the developmental history from which it arose.
+
+**Prompt Reduction** is provenance-significant for the same reason. A record containing substantial human reasoning and composition may be redescribed afterward as a series of prompts. That description replaces the intellectual function of the material with the interface through which it passed, and the substitution is not provenance analysis.
+
+> **rendering provenance is not authorship provenance**
+
+> **surface replacement is not a provenance reset**
+
+> **interface role is not intellectual function**
 
 ---
 
