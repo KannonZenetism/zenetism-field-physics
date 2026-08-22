@@ -1054,12 +1054,11 @@ Steps 1 through 11 of the symbolic-reflections pass are closed: eighteen reflect
 
 References: `symbolic-reflections-registry-alignment-packet.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md` · `orientation-emanation-math.md`
 
-**State at close of Aug 21 2026.** Sections C, D, and E are closed, and both Mythic Figure Layer Registry volumes are audited. What remains is the two Symbolic Pattern Registry volumes together with one protocol amendment:
+**State at close of Aug 21 2026.** Sections C, D, and E are closed, and both Mythic Figure Layer Registry volumes are audited. The A11 provenance-note softening (C7) closed the same day. What remains is the two Symbolic Pattern Registry volumes:
 
 - `symbolic-pattern-registry-01.md` — the Twofold-Function Underworld rename (A1), which is its last live target anywhere, and the Moon row (A5)
 - `symbolic-pattern-registry-02.md` — the 64-entry confirmation against live S2 (B1); the heaviest item, and it wants its own session
 - Across both volumes — the Horus row and the V1 note (A8). Both Mythic Figure Layer Registry volumes are cleared, and the alignment packet's own shorthand legend carries no V1 entry, so if the two Symbolic Pattern Registry volumes prove complete the note closes as stale rather than resolving into a real gap
-- `terminological-lockdown-protocol.md` — the A11 provenance-note softening (C7)
 
 **Standing method note for the remainder.** Four audits have now found the owed-lists stale in one direction or the other — four of six protocol entries already installed, three of five Volume 1 items already satisfied, three of three Volume 2 items needing nothing, and two Volume 1 items the order never named. Each volume is therefore audited against itself before any replacement string is formed. Two determinations are known to have reached the reflections without reaching the registries — Placement-contra-Domain and the Moon-row valence defect — so the Aug 11 through Aug 15 determinations are tested against each volume directly rather than assumed to have propagated.
 
@@ -1138,7 +1137,7 @@ Two defects were repaired in the protocol's own voice in the same pass. A5's bul
 
 One further protocol amendment was raised by the registry audits after this block closed, and is tracked here so it is not carried in a findings bullet alone:
 
-- [ ] **C7 · A11 provenance-note softening** (raised Aug 21 2026; owed on the next touch of `terminological-lockdown-protocol.md`). A11's supersession note states that MFLR Vol 2 carries the superseded L₅ / IL₅ origin-band sense and wants a registry-maintenance check. The Aug 21 2026 audit of `mythic-figure-layer-registry-02.md` found no instance of it — every *band* construction in the volume is lawful. The note is softened so that the citation records where the superseded reading was drawn from rather than asserting a defect still standing in the volume. **The supersession itself is unaffected: origin-band names L₀, and the L₅ / IL₅ stratum takes hypostatic band**
+- [x] **C7 · A11 provenance-note softening** (raised Aug 21 2026; **APPLIED Aug 21 2026**). A11's supersession note states that MFLR Vol 2 carries the superseded L₅ / IL₅ origin-band sense and wants a registry-maintenance check. The Aug 21 2026 audit of `mythic-figure-layer-registry-02.md` found no instance of it — every *band* construction in the volume is lawful. The note is softened so that the citation records where the superseded reading was drawn from rather than asserting a defect still standing in the volume. **The supersession itself is unaffected: origin-band names L₀, and the L₅ / IL₅ stratum takes hypostatic band.** Installed in the entry's own voice — long-form date matching A11's existing August 13 2026 form, the volume cited at filename depth in backticks, *band* italicized as the entry already italicizes a mentioned term
 
 ### D · Packet amendment
 
