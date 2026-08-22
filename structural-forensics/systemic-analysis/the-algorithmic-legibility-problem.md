@@ -213,6 +213,22 @@ The consequence for `the-synthetic-provenance-problem.md` §24 is a cross-refere
 
 ---
 
+### Rendering legibility asymmetry
+
+Watermarking and automated detection can make a model's participation in textual rendering increasingly machine-legible.
+
+The human developmental contribution may remain comparatively difficult for the same systems to register, because it exists across long conversation histories, earlier manuscripts, corrections, conceptual development, discarded branches, architectural determinations, and records distributed over several surfaces.
+
+The result is a further legibility asymmetry: **the machine's part in the final surface may become highly detectable while the human's part in the originating architecture remains poorly represented by the detection layer.**
+
+This establishes nothing about the relative size of the two contributions. It establishes that one of them has been made easier for a machine to classify.
+
+> **machine legibility of rendering is not legibility of origination**
+
+> **detectability is not authorship**
+
+> **what is easiest to classify is not thereby what is historically primary**
+
 ### Inferential derivation and remediation asymmetry
 
 The originating material and what a computational system derives from it are distinct.
@@ -470,6 +486,10 @@ Where a system determines what proportion of an interested public encounters a w
 **surface classification is not provenance**
 
 **rendering provenance is not authorship provenance**
+
+**machine legibility of rendering is not legibility of origination**
+
+**detectability is not authorship**
 
 **derivation does not extinguish antecedence**
 
