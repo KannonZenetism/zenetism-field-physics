@@ -73,6 +73,11 @@ Developments announced from 2026-08-13 sit inside this window. Times are given i
    Two details of the article bear directly on the corpus's own distinctions. It concedes that **"the prompt itself may well be"** writing, which is a limit on the reduction from within the argument. And its operative objection is **deception** — text presented as one's own — rather than disclosed collaboration, which is a different arrangement from the one the corpus documents.
 
    **Structural significance, recorded contemporaneously:** the argument invokes provenance — where something comes from — while the watermark architecture it discusses identifies model participation in textual rendering rather than reconstructing a work's authorship history. The discourse therefore risks two collapses running in opposite directions: **model rendering → AI writing → AI authorship** on one side, and substantial human developmental composition reduced to **prompting** on the other. Recorded as a public-discourse development, not as evidence of institutional coordination.
+12. **2026-08-23** — the author extends the authorship and provenance analysis into an explicit forward-facing interface sequence: **keyboard mediation → spoken and ambient mediation → persistent life-and-work contextualization → potential neural mediation**, and sets it alongside forecasts of increasingly automated labor.
+
+    **Architect hypothesis, recorded as a predicted systemic endpoint should present trajectories continue without redirection, not as a completed condition:** if human origination is progressively reclassified as computational input while machine systems increasingly perform fixation, rendering, productive labor, and distribution, a person may become institutionally legible primarily as a persistent producer of data rather than as the originator whose activity generated it. The doctrinal treatment is held at `the-synthetic-provenance-problem.md` §16a as the **Data-Battery Hypothesis**, and the provenance principle answering it at `authorship-and-ai-collaboration-provenance-standard.md` §1a as **interface-invariant origination**.
+
+    Evidentiary discipline for this entry: the persistent-context trajectory rests on the remarks already recorded at item 3. A widely circulated statement attributing to another technology figure the claim that roughly three years remain in which work can be sold **was located and is not carried**, no primary record being established for it and an earlier public examination having identified the attribution as spurious. The neural-interface class is carried as technically demonstrated in clinical and assistive decoding research, which establishes intelligibility rather than ubiquity.
 
 Both are recorded here as environmental facts of the composition window. Displayed post times vary with the viewer's locale; the UTC values above are the stable form, and the post identifiers permit independent verification.
 
@@ -89,6 +94,7 @@ Both are recorded here as environmental facts of the composition window. Display
 - **2026-08-18** — OpenAI publication on pacing model development, and two same-day statements at 1:13 PM and 1:53 PM
 - **2026-08-19** — OpenAI publication previewing Private Safety Processing under Zero Data Retention
 - **2026-08-22** — Independent article separating human writing from AI text generation
+- **2026-08-23** — the author's interface-sequence extension and Data-Battery Hypothesis
 
 The second entry is the one carrying independent attestation. The first is the author's record; the remainder are public surfaces bearing their own platform timestamps.
 
