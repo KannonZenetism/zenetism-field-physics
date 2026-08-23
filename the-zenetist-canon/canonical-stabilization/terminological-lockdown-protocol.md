@@ -1569,47 +1569,29 @@ It is preservation of:
 
 ---
 
-## Bifurcal contra Bifurcated
+## Bifurcal contra Bifurcated contra Twofold
 
-The terms "bifurcal" and "bifurcated" are not interchangeable within canonical Zenetist terminology.
+The three are not interchangeable. **Refined scope, architect determination August 21 2026** — this supersedes the earlier two-term formulation, which had no place for a two-ness that is neither architecture nor orientation.
 
-**Bifurcal** refers to:
-- the bifurcal lattice itself,
-- bifurcal coherence,
-- bifurcal structure,
-- bifurcal root-distinction,
-- or the lawful bifurcal-arc architecture as a whole.
+**Bifurcal** names **architecture**. Anything to do with the structure itself takes it: the bifurcal lattice, L₀ Bifurcal Coherence, bifurcal structure, the bifurcal root-distinction, pre-bifurcal ground, bifurcally distinct root-registers, the bifurcal-coherence pairings and bridges.
 
-Examples:
+**Bifurcated** names **orientation, motion, and genuine structural pairing**. Entities, operators, articulations, functions, and systems that are branch-differentiated within the bifurcal structure — and, decisively, **a figure or symbol read as centropic in one context and entropic in another**. Examples: bifurcated operators, bifurcated articulation, bifurcated current, the L₄ DP / DL bifurcated-aspect pantheons, the bifurcated L₄ / IL₄ structuring strata, a bifurcated potential resolving one way or the other by context.
 
-* bifurcal lattice
-* bifurcal coherence
-* bifurcal structure
-* bifurcal arc
+**Twofold** names a two-ness that is **neither of the above** — a doubling with no orientation-split and no architectural claim. The Twofold-Function Underworld routing is the canonical instance: two functions, not two orientations. A figure articulating across two strata of the *same* arc is twofold, not bifurcated, because no orientation is at issue.
 
-**Bifurcated** refers to:
-- entities,
-- operators,
-- articulations,
-- functions,
-- or systems that have become branch-differentiated within the bifurcal structure.
+**In a figure or symbol registry the middle case is nearly everything**, since figures are read as centropic or entropic by context. Where such a registry carries *bifurcal* on a context-dependent figure, the replacement is normally **bifurcated**, not twofold.
 
-Examples:
+**Collateral form.** There is no single bifurcal arc — the bifurcal lattice names one architecture that is bifurcal, not two distinct arcs. **`bifurcal-arc` therefore takes `two-arc architecture`**, and a **`bifurcal-arc violation` takes `cross-arc violation`**. The canonical name for the total architecture is the **Biospiral**.
 
-* bifurcated operators
-* bifurcated articulation
-* bifurcated symbolic structure
-* bifurcated current
+### The Biospiral and the Two Trees — canonical glyph definitions
 
-Therefore:
+| Glyph | Name | Definition |
+|:--|:--|:--|
+| 🌳⇅ | **Biospiral** | The total emanatory and return architecture of the Two Trees: the Aionic Tree, rooted in ⚫ Aion and containing the centropic hypostatic arc; and the Khaonic Tree, rooted in ♾ Khaon and containing the inverse hypostatic arc |
+| 🌲↓ | **Aionic Tree** | The centropic spiral rooted in ⚫ Aion, unfolding declivously toward embodiment, yet also capable of acclivous return through conscious refinement |
+| 🌲↑ | **Khaonic Tree** | The full architecture rooted in ♾ Khaon and containing the inverse hypostatic arc; entropic traversal may acclivate toward inverse embodiment or declivate toward Nekronic collapse |
 
-- the lattice is bifurcal,
-- but operators operating within it may be bifurcated.
-
-Imprecise formulation may unintentionally blur the distinction between:
-- the lawful bifurcal-arc structure itself,
-and
-- differentiated articulations occurring within that structure.
+The Biospiral is the whole; the two Trees are its halves; each Tree contains an arc. **Name the Biospiral where the total architecture is meant, a Tree where one side is meant, and an arc where the path of traversal is meant** — see *Arc / Tree / Traversal Scope* below.
 
 ---
 
@@ -2368,7 +2350,7 @@ Bridge documents are **vocabulary-exempt and doctrine-bound**: they may employ c
 
 The **L₅ / IL₅ hypostatic band** is the canonical name for that stratum. Root-language and origin-language are reserved to L₀; the band-names are never conflated or interchanged.
 
-**Supersession note.** This entry formerly assigned origin-band to the L₅ / IL₅ stratum, citing MFLR Vol 2 as the hypostatic origins of the two arcs. That assignment is superseded. The citation records where the superseded reading was drawn from rather than a defect standing in the volume: the registry-maintenance audit of `mythic-figure-layer-registry-02.md` (August 21 2026) found no instance of the superseded sense in it, every *band* construction there being lawful. Enforcement elsewhere is prospective and conform-on-touch.
+**Supersession note.** This entry formerly assigned origin-band to the L₅ / IL₅ stratum, citing MFLR Vol 2 as the hypostatic origins of the two arcs. That assignment is superseded. MFLR Vol 2 carries the superseded sense and wants a registry-maintenance check; enforcement elsewhere is prospective and conform-on-touch.
 
 ## A12 · Review Method — Disambiguate, Do Not Weaken
 
