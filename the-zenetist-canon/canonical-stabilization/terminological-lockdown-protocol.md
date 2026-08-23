@@ -1581,7 +1581,7 @@ The three are not interchangeable. **Refined scope, architect determination Augu
 
 **In a figure or symbol registry the middle case is nearly everything**, since figures are read as centropic or entropic by context. Where such a registry carries *bifurcal* on a context-dependent figure, the replacement is normally **bifurcated**, not twofold.
 
-**Collateral form.** There is no single bifurcal arc — the bifurcal lattice names one architecture that is bifurcal, not two distinct arcs. **`bifurcal-arc` therefore takes `two-arc architecture`**, and a **`bifurcal-arc violation` takes `cross-arc violation`**. The canonical name for the total architecture is the **Biospiral**.
+**Collateral form.** There is no single bifurcal arc — the bifurcal lattice names one architecture that is bifurcal, not two distinct arcs. **`bifurcal-arc` therefore takes `two-Tree architecture`** — architecture belongs to the Trees, and each Tree *contains* an arc, so an arc is never the architectural noun. A **`bifurcal-arc violation` takes `cross-arc violation`**, which is correct as written: what is crossed there is arc-membership of attributions, not the architecture. The canonical name for the total architecture is the **Biospiral**.
 
 ### The Biospiral and the Two Trees — canonical glyph definitions
 
@@ -1765,7 +1765,7 @@ Different names. Same underlying entropic current.
 
 Distinct cascade-stations become compressed under one umbrella figure-name through popular, theological, or mythic simplification.
 
-All attributions remain within the same arc; no bifurcal-arc violation occurs.
+All attributions remain within the same arc; no cross-arc violation occurs.
 
 The structural problem is collapse of cascade-station distinction within one arc rather than compression of cross-arc principles.
 
@@ -2145,7 +2145,7 @@ Centropic and entropic operators are independently emanated.
 
 Do not:
 
-* blend bifurcal arcs,
+* blend the two arcs,
 * imply entropic operators are hidden aspects of centropic operators,
 * or imply all oppositions dissolve into sameness.
 
