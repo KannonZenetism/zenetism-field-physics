@@ -85,7 +85,7 @@ It establishes something narrower than it is often taken to establish:
 
 - disclosure of an algorithm does not establish that the algorithm distributes equitably
 - inspectability does not remove the mediating power of the system
-- publication of scoring rules does not establish equitable access to visibility
+- publication of scoring determinations does not establish equitable access to visibility
 - knowing why visibility was reduced does not restore the visibility that was lost
 - a disclosed control architecture remains a control architecture
 
@@ -178,7 +178,7 @@ This is not reducible to a privacy concern. Privacy asks who may see. Provenance
 
 On August 19 2026 OpenAI previewed **Private Safety Processing** alongside its Zero Data Retention commitment for eligible API deployments, and in doing so documented a distinction the provenance analysis had been holding open.
 
-The publication states that under Zero Data Retention prompts and model responses are not retained after a request is processed, and that customer content is not available to OpenAI personnel for review. It states separately that Private Safety Processing identifies patterns across related interactions rather than evaluating each interaction on its own, and that it draws on customer content **regardless of where that content is stored** — whether on infrastructure the customer controls or in storage OpenAI provides under customer-held encryption keys. When a risk is identified, OpenAI receives a narrowly defined signal indicating the type of activity involved, and that signal may determine whether enforcement follows. Personnel do not receive the content even when it is flagged.
+The publication states that under Zero Data Retention prompts and model responses are not retained after a request is processed, and that customer content is not available to OpenAI personnel for review. It states separately that Private Safety Processing identifies patterns across related interactions rather than evaluating each interaction on its own, and that it draws on customer content **regardless of where that content is stored** — whether on infrastructure the customer controls or in storage OpenAI provides, encrypted with customer-held keys. When a risk is identified, OpenAI receives a narrowly defined signal indicating the type of activity involved, and that signal may determine whether enforcement follows. Personnel do not receive the content even when it is flagged.
 
 The disclosed architecture runs:
 
@@ -241,7 +241,7 @@ The condition sharpens where machine rendering is treated as a new origin rather
 
 Legal classification and historical provenance are likewise distinct. Statutory protection, enforceability, or available remedy may expand, contract, or be redefined without altering who originated a structure or when that structure entered the record.
 
-One further precision, against the reading that the matter is already settled: **some informational transformations may become practically irrecoverable long before their provenance becomes historically unrecoverable.** Once material has been copied, embedded, summarized, pattern-completed, revoiced, and redistributed, recalling every derivative may be impossible. The origin has not thereby vanished. That is the reason a provenance architecture is worth holding.
+One further precision, against the reading that the matter is already settled: **some informational transformations may become practically irrecoverable long before their provenance becomes historically unrecoverable.** Once material has been copied, embedded, summarized, pattern-completed, revoiced, and redistributed, recalling every derivative becomes impracticable. Recognizing them does not. What carries the shape of an origin without the origin is identifiable as such, and identifiable against the origin once the origin is in hand. The origin has not vanished, and the derivatives have not become unreadable. That is the reason a provenance architecture is worth holding.
 
 > **control of originating material is not control of downstream inference**
 
@@ -255,7 +255,13 @@ One further precision, against the reading that the matter is already settled: *
 
 > **inability to recover a transmission chain is not a provenance reset**
 
-The sequence these conditions form runs: **Prepublication Contextual Capture** — the system encounters the developmental field · **Verification Asymmetry** — the originator cannot see equally far into what the system does with it · **inferential derivation** — the system produces new representations from that field · **remediation asymmetry** — those derivatives propagate more readily than the originator can inspect, retrieve, or reconnect them · and the synthetic provenance condition, in which later derived surfaces come to appear originless or independently originated.
+The sequence these conditions form runs:
+
+- **Prepublication Contextual Capture** — the system encounters the developmental field
+- **Verification Asymmetry** — the originator cannot see equally far into what the system does with it
+- **Inferential derivation** — the system produces new representations from that field
+- **Remediation asymmetry** — those derivatives propagate more readily than the originator can inspect, retrieve, or reconnect them
+- **The synthetic provenance condition** — later derived surfaces come to appear originless or independently originated
 
 ---
 
@@ -333,7 +339,7 @@ Structurally it is more diffuse than a single index, and that diffuseness is wha
 
 ### The reinforcing condition
 
-Low legibility yields weak engagement signals. Weak engagement signals then serve as grounds for continued low legibility.
+Low legibility yields weak engagement signals. Weak engagement signals are then taken as grounds for continued low legibility.
 
 The condition sustains itself without anyone deciding that it should, which is what distinguishes it from suppression. **No act of exclusion is required. The architecture produces exclusion through ordering.**
 
@@ -371,7 +377,7 @@ Each is defensible on its own terms. Taken together they perform a substitution.
 
 The question *who originated and architected this work* is replaced by *which system generated the surviving words*.
 
-That is a category change rather than a refinement, and it favours the party better positioned to answer the second question. A provider can establish its part in rendering a surface far more readily than an originator can establish the years of conceptual formation preceding that rendering.
+That is a category change rather than a refinement, and it favours the party whose contribution the classifying layer was built to detect. A provider's part in rendering a surface is machine-checkable in a moment. An originator's years of conceptual formation are checkable only by a party willing to examine the record. The difference lies in who is examining and what they were equipped to look for, not in what exists to be examined — an originator may hold more evidence than any single examiner could work through and still have no examiner.
 
 ### What the classifying layer reads, and what it does not
 
@@ -418,8 +424,6 @@ For a collaborative practice this is precisely backwards. A final prose surface 
 
 The United States Copyright Office holds that AI assistance does not itself bar protection, and recognizes human authorship where sufficient human-authored expression, creative arrangement, or modification is present. That framework is narrower than an architectonic account of authorship, attending closely to control over expressive elements — but even it refuses the inference *AI generated part of this, therefore no person authored it*.
 
-**Diagnostic scope.** This section diagnoses a classification structure and what it reads. Whether any party intends the substitution is a separate question; the structure operates the same either way.
-
 ---
 
 ## 10. Countermeasures
@@ -432,13 +436,13 @@ The objective is not guaranteed popularity. It is a meaningful opportunity to be
 
 The principle distinguishes opportunity for discovery from guaranteed audience, and both from amplified promotion.
 
-No originator is owed mass attention. Absence of preexisting attention should not itself operate as a recursive reason for continued invisibility.
+Where echoes of a work draw wide attention while the work itself remains unencountered, the originator is owed acknowledgment at minimum. Absence of preexisting attention should not operate as a recursive reason for continued invisibility.
 
 ### Verifiable Transparency
 
 Where platforms disclose systems affecting visibility, meaningful auditability should extend as far as practicable to:
 
-- operative rules
+- operative determinations
 - production-relevant configuration
 - visibility filters
 - account and content labels
@@ -508,8 +512,6 @@ Where a system determines what proportion of an interested public encounters a w
 Distribution conditions make an origin harder or easier to locate. They do not fracture the relation between a work and its origin.
 
 An originating architecture retains its standing whatever the distribution architecture does. Narrative proliferation purchased or produced by ordering behavior alters what is encountered first; it alters nothing about what was originated when.
-
-**Diagnostic scope.** This analysis diagnoses the operative distribution structure and its effects. Actor-specific motive is a separate question, taken up where the record requires one.
 
 The provenance analysis holds independently of every claim made here.
 
