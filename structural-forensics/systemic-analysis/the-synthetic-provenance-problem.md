@@ -637,6 +637,48 @@ Asymmetry also runs among originators themselves. Visibility systems may respond
 
 ---
 
+## 16a. The Datafied Human Remainder
+
+**This section is a forecast.** It does not hold that the projected condition has been reached. It asks what follows if several publicly developing trajectories continue without a countervailing provenance architecture.
+
+Two sequences run alongside each other. The first is interface: manual textual interaction → conversational and spoken interaction → persistent contextual observation → increasingly automated capture of life and work activity → possible neural-interface mediation. The second is production: human-originated material → computational processing and rendering → machine-legible derivative artifacts. A third trajectory, machine performance of formerly human tasks, is widely forecast and is treated here as forecast rather than as established fact.
+
+The structural concern is that human contribution may be progressively classified as **input data** precisely as computational systems acquire greater capacity to perform the fixation, transformation, production, and distribution of artifacts.
+
+The projected endpoint is not that people cease originating thought. It is that **human origination becomes less institutionally legible as origination while becoming more legible as data.**
+
+### The Data-Battery Hypothesis
+
+**Data-Battery Hypothesis** — the projected condition in which pervasive computational mediation reduces the socially and institutionally recognized human contribution primarily to continuous production of data, context, behavior, experience, preference, expression, and potentially neural signal, while computational systems perform an increasing proportion of fixation, rendering, transformation, productive labor, and distribution.
+
+*Battery* is metaphorical. It names the relation **continuous human informational production → computational capture → machine derivation and production**, not literal energetic conversion.
+
+The hypothesis strengthens where three developments coincide:
+
+- **Authorship Reduction** — authorship narrowed toward immediate surface production rather than origination
+- **Labor Substitution** — economically recognized human work contracting as machine systems perform increasing classes of task
+- **Persistent Capture** — human activity available as continuous computational context rather than as deliberately submitted discrete artifacts
+
+Where those converge, a person may become most legible to the computational architecture neither as author nor as worker, but as **persistent data-producing antecedent**. That is the predicted danger.
+
+### Relation to the Concentration Asymmetry
+
+§16 distinguishes the free circulation of ideas from concentrated control of the infrastructure capable of ingesting, recomposing, producing, distributing, and amplifying them. This hypothesis extends that asymmetry.
+
+Where human origination is increasingly classified as common input, computational infrastructure remains concentrated, machine-rendered artifacts receive clearer technical identification than the developmental human field antecedent to them, and human labor becomes less economically necessary, the asymmetry approaches:
+
+> **distributed human origination · concentrated computational derivation**
+
+and at the projected limit:
+
+> **continuous human data production · concentrated computational production**
+
+Neither formulation names a completed condition. They name the direction being tested.
+
+> **A culture that makes machine production increasingly legible while reducing human origination to increasingly pervasive input may come to recognize the machine as producer and the person primarily as data.**
+
+---
+
 ## 17. Fragmentation as Structural Neutralization
 
 Derivational fragmentation has another consequence beyond attribution.
