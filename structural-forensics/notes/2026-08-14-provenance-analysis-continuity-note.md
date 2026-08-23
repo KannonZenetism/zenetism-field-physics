@@ -112,7 +112,7 @@ Relevance of subject matter is not relation of origin. The categories applied he
 
 **The author's interpretation.** He places the August 19 disclosure within his longer record concerning cross-context computational observation, Verification Asymmetry, model-mediated access to developmental material, provenance-sensitive contextual processing, and the distinction between a publicly stated privacy commitment and the computational operations it describes. His analysis concerns what the disclosed architecture does, independent of any motive attributed to the institution: absence of stated targeting or adverse intent does not resolve the structural operation. He regards the August 22 discourse development as belonging to a broader movement toward separation of human work from the people who originated and developed it. The disclosed cross-interaction processing is documented rather than hypothesized; what stands separately classified are questions of historical application, targeting, actor-specific motive, and undisclosed implementation.
 
-## C5 · Diagnostic scope
+## C5 · What this note establishes
 
 This note establishes chronology. It fixes composition dates against an independent attestation and records the external publications of the same window with their own dated records.
 
