@@ -64,6 +64,97 @@ Originating authorship and sentence-generation are separate provenance questions
 
 ---
 
+## 1a. Interface-Invariant Origination
+
+The means through which human intellectual activity becomes fixed does not determine where that activity originated.
+
+Human origination may be articulated through handwriting, keyboard composition, dictation, recorded speech, conversation, gesture where communicatively determinate, speech-to-text systems, ambient computational capture, assistive brain-computer interfaces, or future interfaces capable of translating intentionally expressed neural activity into language.
+
+The provenance question is:
+
+> **Where did the architecture, distinction, thought, determination, or expression originate?**
+
+It is not:
+
+> **Which mechanism converted it into the final representational surface?**
+
+> **Origination is interface-invariant.**
+
+> **Fixation method is not origination.**
+
+> **Transduction is not authorship.**
+
+> **The mechanism that converts human expression into machine-readable form does not thereby originate the expression.**
+
+### The historical case
+
+A narrow identification of authorship with personally inscribed text is historically inadequate. Enduring intellectual and religious traditions preserve material attributed to figures whose teaching was carried orally and fixed in text by later human intermediaries.
+
+Socrates is the clearest example. He left no surviving written corpus; his teaching entered textual history principally through disciples, most consequentially Plato. **Plato's substantial part as recorder, transmitter, interpreter, and independent philosophical developer does not make him the originator of the antecedent Socratic teaching.** Whatever philosophical development properly originates with Plato belongs to Plato; what Plato received from Socrates does not acquire Platonic origination by passing through Plato's articulation.
+
+The name attached to an enduring textual tradition can make the recorder more culturally legible than the antecedent originator. That is a fact about legibility, not about origination.
+
+> **Contribution is not origination.**
+
+> **Textual fixation is not intellectual origination.**
+
+> **Origination has never required that the originator personally perform the act of inscription.**
+
+The same distinction holds when the recording intermediary is computational rather than human.
+
+### Interface Reduction
+
+**Interface Reduction** is the misclassification of origination according to the mechanism through which expression becomes fixed, rather than the developmental relation through which it arose.
+
+The sequence takes several forms:
+
+- human thought → keyboard → text
+- human thought → speech → machine transcription → text
+- human thought → ambient capture → machine transcription or rendering → artifact
+- human intentional neural expression → computational decoding → text or speech
+
+In every sequence, increased computational mediation does not move origination downstream.
+
+> **Increasing mediation is not increasing origination by the mediator.**
+
+> **Removal of the keyboard is not removal of the author.**
+
+### Datafication of Origination
+
+**Datafication of Origination** is the reduction of human-originated intellectual or expressive activity to the standing of computational input, because a machine mediates its capture, fixation, interpretation, or later rendering.
+
+It matters most where activity that would formerly have been legible as writing, speech, work, research, invention, deliberation, correspondence, or intellectual development is reclassified afterward as data, input, context, or prompt material. The change of interface does not change the historical origin of the activity.
+
+> **Machine-readable human expression remains human-originated expression.**
+
+> **Data standing does not erase provenance.**
+
+> **Classification as input does not relocate origin.**
+
+### The neural limit case
+
+Brain-computer interfaces are treated here as a limiting case rather than an established universal future. Current research demonstrates neural-to-text and neural-to-speech decoding in clinical and assistive contexts; that establishes the technical intelligibility of the interface class, not its ubiquity.
+
+The standard must already answer the question such interfaces will pose: does the machine originate the thought because it performed the decoding? Under this standard it does not. The system may detect, decode, transduce, fix, render, or transform the expression. None of those functions originates the antecedent human thought.
+
+> **Neural decoding is not neural origination.**
+
+> **The decoder does not originate what it decodes.**
+
+This distinction is established before such interfaces become ordinary rather than reconstructed afterward.
+
+### Why the writing-contra-generation binary is unstable
+
+A writing-contra-generation binary usually depends on the present interface. Where the human is imagined typing and the system generating output, the human act appears to reside in keystrokes.
+
+That grounding does not survive interface substitution. A dictated paragraph transcribed by machine is not machine-originated. A persistent system recording an extended oral explanation does not originate the explanation. A future neural interface fixing intentionally expressed thought as language would leave the thought human-originated with neither keystrokes nor speech present.
+
+> **The provenance distinction cannot be grounded in the disappearing interface between human thought and textual fixation.**
+
+It is grounded in origination.
+
+---
+
 ## 2. Doctrinal Determination
 
 **Doctrinal determination** names the architect-held act by which a proposed articulation is accepted, rejected, corrected, restricted, expanded, or stabilized within Zenetism.
@@ -699,6 +790,10 @@ These three are not collapsed into the single label *AI writing*.
 
 ### Developmental Speech
 
+**Developmental Articulation** is the broader category holding both: human-originated expression through which an architecture, argument, distinction, derivation, discovery, or work is developed, tested, corrected, stabilized, or extended, before or alongside its final publication surface. It may be written, spoken, conversational, dictated, machine-transcribed, or — where technologically possible — intentionally communicated through a neural interface. The interface changes; the provenance relation does not.
+
+> **The disappearance of keystrokes does not imply the disappearance of human authorship.**
+
 **Developmental Speech** is human-originated oral articulation through which a work, architecture, argument, distinction, derivation, or conceptual structure is developed, tested, corrected, stabilized, or extended.
 
 It may be captured by an AI system without the speaker initiating the capture. That fixation does not erase its human provenance, and a work's developmental record may carry both Developmental Writing and Developmental Speech.
@@ -732,6 +827,10 @@ Where a legal question arises, the provenance record should be preserved first a
 Legal classification does not rewrite historical provenance.
 
 A later change in statutory definition, protectability, enforceability, or available remedy does not retroactively relocate the historical origin of an architecture, a developmental sequence, or a work.
+
+This holds equally where future law narrows or removes protection for AI-mediated work, machine-fixed speech, machine-transformed human material, derived data, or neural-interface output. Such a change would alter remedy and recognized legal standing.
+
+> **A legal system may cease to protect a provenance relation without making that relation historically nonexistent.**
 
 ---
 
