@@ -90,13 +90,17 @@ It is not:
 
 A narrow identification of authorship with personally inscribed text is historically inadequate. Enduring intellectual and religious traditions preserve material attributed to figures whose teaching was carried orally and fixed in text by later human intermediaries.
 
-Socrates is the clearest example. He left no surviving written corpus; his teaching entered textual history principally through disciples, most consequentially Plato. **Plato's substantial part as recorder, transmitter, interpreter, and independent philosophical developer does not make him the originator of the antecedent Socratic teaching.** Whatever philosophical development properly originates with Plato belongs to Plato; what Plato received from Socrates does not acquire Platonic origination by passing through Plato's articulation.
+Socrates is the clearest example. He left no surviving written corpus; his teaching entered textual history principally through disciples, most consequentially Plato. **Plato's substantial part as recorder, transmitter, interpreter, and independent philosophical developer does not make him the originator of the antecedent Socratic teaching.**
 
-The name attached to an enduring textual tradition can make the recorder more culturally legible than the antecedent originator. That is a fact about legibility, not about origination.
+The distinction at issue is **architectural origination** — who originated the system within which later work stands — rather than the origination of every idea developed inside it. Plato originated Platonic developments, and those are his. Ideas have origins, and a later contributor's own originations are genuinely his own. What does not follow is the relocation of the architecture.
+
+The naming records the misplacement. A tradition called Platonism situates Socrates inside an umbrella named for Plato. The relation runs the other way. **The umbrella is the architecture**, and the architecture is Socratic: Plato is a Socratist within Socratism, and his own originations stand inside it rather than containing it. **Naming a tradition after its transmitter misnames the umbrella, and the misnaming then misplaces the originator within a structure that is his own.** That is a fact about legibility rather than about origination, and the two came apart sharply enough in this case that the originator was compelled to drink hemlock while the transmitter lived out a full life and gave the tradition its name.
 
 > **Contribution is not origination.**
 
 > **Textual fixation is not intellectual origination.**
+
+> **A later contributor's own originations situate within the antecedent architecture; they do not absorb it.**
 
 > **Origination has never required that the originator personally perform the act of inscription.**
 
