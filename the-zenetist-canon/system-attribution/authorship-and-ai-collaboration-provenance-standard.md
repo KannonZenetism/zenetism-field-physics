@@ -430,7 +430,7 @@ The distinction should remain explicit.
 
 The presence of one does not erase the other.
 
-A Claude, OpenAI, Gemini, or other provider-origin watermark may therefore coexist with an author-held provenance record without contradiction.
+A Claude, ChatGPT, Gemini, or other provider-origin watermark may therefore coexist with an author-held provenance record without contradiction.
 
 The watermark may indicate AI participation.
 
@@ -853,7 +853,7 @@ When an existing file is revised for another reason, provenance metadata may be 
 - publication requirements make clarification necessary
 - or the architect determines that the clarification improves authorship continuity
 
-No retroactive provenance claim should be invented merely for uniformity.
+No retroactive provenance claim should be invented merely to make older records match newer ones.
 
 ---
 
