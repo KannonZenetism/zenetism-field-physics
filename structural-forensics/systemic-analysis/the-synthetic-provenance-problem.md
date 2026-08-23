@@ -1075,7 +1075,7 @@ Later fragments should be assessed for derivational relation even when they no l
 
 ---
 
-## 27. Diagnostic Scope
+## 27. What the Analysis Holds
 
 This analysis diagnoses a structural condition: the propagation of provenance-bearing architecture into contexts where the architecture becomes unattributable, and the conditions under which later derived surfaces come to appear originless.
 
