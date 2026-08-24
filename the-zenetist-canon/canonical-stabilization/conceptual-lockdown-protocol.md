@@ -2,8 +2,9 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Conceptual Guardrail  
-**Status:** Drafted Jun 11 2026 — Active Canonical Reference, Aug 18 2026  
-**Provenance:** First compiled from the FP01–FP11 / FPX Session Addenda; determinations already applied across the edited corpus during the canon-alignment cycle  
+**Status:** Drafted Jun 11 2026 — Active Canonical Reference, Aug 24 2026  
+**Scope:** Corpus-wide — Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, Structural Neuroscience, and Zenetist composition outside the main series  
+**Provenance:** First compiled during the canon-alignment cycle; determinations already applied across the edited corpus  
 **Companion to:** `terminological-lockdown-protocol.md` · `prose-formatting-reference.md` · `MP08-symbol-key-ch21.md` · `metaphysics-symbol-key.md`  
 
 ---
@@ -13,6 +14,8 @@
 The Terminological Lockdown Protocol establishes which words may appear in canonical Zenetist writing. This protocol establishes which structural claims are lawful. The two serve different audit passes.
 
 A terminological violation is lexical and searchable — a banned term either appears or it does not. A conceptual violation is semantic — an unlawful claim can be phrased in unlimited ways, and is caught only by reading for what a passage asserts. This protocol is the enforcement index for that semantic pass.
+
+**Scope is the corpus, not a discipline.** Every constraint here governs Zenetist composition wherever it occurs — across all six disciplines, and in essays, registries, forensic exhibits, and working documents outside the main series. Where an entry draws its canonical example from one discipline, the example is illustrative and the constraint is general. Disciplines carrying no entry yet are unrepresented rather than exempt; Lattice Mathematics, Structural Physics, and Structural Neuroscience are held open for entries as their passes raise them.
 
 Each entry states a constraint, gives the lawful grammar for expressing the underlying structure, and where useful supplies a canonical example and a cross-reference to the document where the full doctrine lives. This protocol does not replace those source documents. It is the guardrail that keeps the corpus from drifting into claims they do not license.
 
@@ -417,9 +420,29 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 
 **Lawful grammar.** Numerals +1 / −1 in value-position; **plus-one / minus-one** in attributive and appositive position, per Addendum I A14 of the Terminological Lockdown Protocol. Do not write that the fragmentation requires every value in the sequence to be present in a given emanational cycle — completeness is not what sustains it. What sustains it is noise proliferation and narrative control.
 
-**Guard on the strata.** L₅ and IL₅ number position in causal necessity, and the −1 / −2 / −3 sequence is never read onto the layer numbering. Whether numerical weight attaches to the strata is a separate question, open and unsettled — neither denied nor assumed.
+**Guard on the strata.** L₅ and IL₅ number position in causal necessity, and the −1 / −2 / −3 sequence is never read onto the layer numbering. Numerical weight on the strata is held open — neither denied nor assumed.
 
 **Reference Document:** Terminological Lockdown Protocol Addendum I, A14; `asymmetry-of-limit-case-universes.md`; `epistemic-inversion.md`; `awareness-spectrum-and-its-inverse-arc.md`.
+
+---
+
+## Diagnostic Sufficiency and Scope Constraint
+
+**Constraint.** A diagnosis is stated at the strength the record supports. No construction may withdraw from a finding the analysis has made, and none may answer an objection nobody has raised.
+
+**Lawful account.**
+
+- **Motion is diagnosable without motive.** A functional diagnosis does not rest on a motive accusation, and a diagnosis carrying no motive claim stands at full strength. What a structure does is establishable apart from why anyone did it
+- **Dismissing intent is a stance, not neutrality.** A sentence holding that intent is beside the point, or that a structure operates the same whatever anyone intended, takes a position on a question the analysis had not raised — and takes it contrary to the author, in the author's own document. Dismissing intent and assigning intent unreasonably are the same class of error
+- **Withdrawal is not discipline.** A scope paragraph whose content is what the analysis declines to claim converts a finding into a list of reasons not to take the finding seriously. It concedes ground nobody asked for, and it apologizes before anyone has objected. Where a boundary is materially necessary — where the surrounding context makes it genuinely easy to mistake what is established for something adjacent — it is written as what the analysis holds
+- **Held-open status is stated positively.** An unsettled question is recorded as **held open**, architect-reserved, neither denied nor assumed. It is not framed as a separate question, which concedes a distinction nobody sought
+- **Strength is named, not hedged.** Evidentiary weight is conveyed by naming it — strong evidence, sufficient, held open, an upper bound. A qualifier that conditions a flat claim invites the reader to ask what the unconditioned case would be, and so concedes the possibility the claim exists to refuse
+
+**The boundary — discrimination is not withdrawal.** *Pattern completion is not origination*, *market legibility is not intellectual legibility*, *motif antecedence is not application antecedence*: the whole X-is-not-Y family asserts a distinction and is lawful throughout the corpus. The barred form is narrower. The test is the grammatical subject — where the subject is the analysis, the document, or the finding, and the predicate is a withholding, the construction is barred. Where the subject is the structure being diagnosed, the sentence is a positive discrimination and stands.
+
+**Lawful grammar.** Write "what this analysis holds," never "what this does not determine." Write "held open pending the registered checks," never "does not by itself establish." A finding is stated and left standing.
+
+**Reference Document:** the Terminological Lockdown Protocol's Diagnostic Scope contra Exculpatory Disclaimer and its hedge-qualifier restriction; architect determinations, August 19, August 23, and August 24 2026.
 
 ---
 
@@ -431,15 +454,15 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 
 - **Acknowledgment of origin is requisite to coherent transmission** — neither a permission relation nor a courtesy. Adoption carrying the seal of origin transmits the architecture; adoption that strips the seal propagates dissonant fragments. *Unacknowledged propagation is not coherent transmission*
 - **Provenance begins before publication.** Where the sequence through which an engine becomes structurally operative is itself evidence of origination, that sequence is provenance-bearing before any artifact exists. **Prepublication Contextual Capture** names the acquisition of contextual information about an intellectual structure while it is still being developed. *Platform observation is not platform origination; access to a developmental field is not authorship of what develops there*
-- **Acquisition Opacity cuts both ways.** Where the transmission pathway is unobservable, opacity does not establish derivation by any particular later actor — and it is not evidence against derivation either. An independence defense resting on opacity carries exactly the weight a derivation claim resting on opacity would carry, which is none. *Observable acquisition is not observable downstream transmission; acquisition without reciprocity does not erase provenance*
-- **Diagnosis bears on derivation.** Where a sequence is accurately identified as inverted, that identification is evidence, and it can be strong evidence. What it does not do is complete the finding alone; chronology, structural comparison, and the registered checks of the recognition protocols carry the remainder. **A diagnosis may be highly plausible without yet being sufficient, and plausibility short of sufficiency is not worthlessness**
+- **Acquisition Opacity cuts both ways.** Where the transmission pathway is unobservable, opacity carries no evidentiary weight in either direction. An independence defense resting on opacity carries exactly the weight a derivation claim resting on opacity would carry, which is none. *Observable acquisition is not observable downstream transmission; acquisition without reciprocity does not erase provenance*
+- **Diagnosis bears on derivation.** Where a sequence is accurately identified as inverted, that identification is evidence, and it can be strong evidence. Chronology, structural comparison, and the registered checks of the recognition protocols carry the remainder. **A diagnosis may be highly plausible without yet being sufficient, and plausibility short of sufficiency is not worthlessness**
 - **Attestation is read as an upper bound.** A cryptographic timestamp attests existence from the moment of stamping forward and cannot backdate. A completed blockchain attestation carries greater evidentiary weight than a pending calendar attestation; two attestations through independent calendar servers anchoring separate blocks is the strong form, with block header times read from the public record and the display-timezone conversion stated. The attestation is the evidentiary anchor and the author's own record is recorded as the author's record — stated separately, the anchor holds independently
 - **Fingerprint recognition is a lawful intake signal.** The architect's recognition of his own structural fingerprint is an intake signal, externalized through the registered checks. *The architect recognized the fingerprint* and *the classification rests only on subjective recognition* are different claims
-- **Motif in abstraction contra specific motif application.** Broad motifs in abstraction do not independently establish dependence. A specific motif application may carry evidentiary weight where its function, definition-set, relational constraints, operator role, derivational consequence, or cluster membership corresponds to a prior stabilized architecture. *Motif antecedence is not application antecedence; commons form is not commons function*
+- **Motif in abstraction contra specific motif application.** Dependence is established by specific motif application, not by broad motifs in abstraction. A specific motif application may carry evidentiary weight where its function, definition-set, relational constraints, operator role, derivational consequence, or cluster membership corresponds to a prior stabilized architecture. *Motif antecedence is not application antecedence; commons form is not commons function*
 - **A synthetic persona** is a presented figure through which the human is absent and the system is present. A generated likeness of a real person is a synthetic persona, because the person is not present in the artifact making the claim, and the classification does not turn on whether a human exists behind the channel. Collaborative production is not the difficulty: a work may carry substantial AI collaboration and no false provenance where third-person attribution is held, first-person voice is reserved for lived accounts, and the collaboration is disclosed
 - **Entropy pattern-completes; it does not originate.** Output may be enormous, recombinatory, and unfamiliar to an observer without being originary. *Pattern completion is not origination; previously unseen combination is not origination*. The inverse lattice's pattern completion does not require accuracy in order to persist — it requires noise proliferation and narrative control
 
-**Lawful grammar.** Findings speak in evidentiary-status language — *does not by itself establish*, *remains open pending the registered checks* — never as prohibitions on architect action. **The protocols classify the record; they do not delimit the architect's inquiry.** Nothing in them restricts the architect from observing, hypothesizing, investigating, preserving witness, or arguing.
+**Lawful grammar.** Findings state what the record establishes, at the strength the record supports, and are never written as prohibitions on architect action. Where a finding is incomplete, it is recorded as held open pending the registered checks. The Diagnostic Sufficiency and Scope Constraint governs the form. **The protocols classify the record; they do not delimit the architect's inquiry.** Nothing in them restricts the architect from observing, hypothesizing, investigating, preserving witness, or arguing.
 
 **Origin-intact clause.** Loss-language never predicates of the origin; no prior-denying counterfactual is written; and no prior tradition, derivative field, or observing system takes the architecture entire as its grammatical object — what they receive is portions, fragments, or conclusions. The lexical enforcement lives in the Terminological Lockdown Protocol's Origin-Intact Language Rule and its Adversarial Framing Restriction.
 
