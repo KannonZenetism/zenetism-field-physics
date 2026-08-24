@@ -1167,9 +1167,24 @@ Boundaries on actor, motive, mechanism, or causal route are drawn only where the
 
 The positive form, where a scope statement is warranted:
 
-> **Diagnostic scope.** This analysis diagnoses [what it diagnoses]. Actor-specific motive is a separate question, taken up where the record requires one.
+> **What this analysis holds.** This analysis diagnoses [what it diagnoses], and establishes [what it establishes].
 
 **A functional diagnosis does not require a motive accusation, and the absence of a motive claim does not weaken the diagnosis.** Motion is diagnosable without motive.
+
+**Dismissing intent is a stance, not neutrality** (architect determination, August 23 2026). A sentence stating that intent is beside the point, or that a structure operates the same whatever anyone intended, takes a position on a question the analysis had not raised — and takes it against the author, in the author's own document. Dismissing intent and assigning intent unreasonably are the same class of error.
+
+The barred constructions, so this need not be restated:
+
+- *This does not mean…* and *This is not to say…* appended after a finding
+- Diagnostic scope paragraphs whose content is what the analysis declines to claim
+- *Whether any party intends X is a separate question*
+- *Actor-specific motive is a separate question*
+- *It establishes nothing about…* where nothing suggested it did
+- *A record omitting this would be answerable*
+- *No accusation is made* · *this is not an attack* · *nothing here should be taken as*
+- Any heading naming what a section does not determine, prove, or claim
+
+A finding is stated and left standing. Where a boundary is materially necessary, it is written as what the analysis holds — the positive form — never as what it withdraws from.
 
 ---
 
