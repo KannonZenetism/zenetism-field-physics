@@ -170,7 +170,7 @@ Forensic analysis must therefore track **relations and derivations**, not merely
 
 ## 5. The Retrospective Decomposition Fallacy
 
-Once a novel architecture has become available, it can be decomposed retrospectively.
+Once a novel architecture has become available, a later reader can take it apart on paper. The architecture stands whole where it stands; what the exercise produces is an inventory of parts.
 
 Each component can then be assigned to an antecedent domain:
 
@@ -639,7 +639,7 @@ Asymmetry also runs among originators themselves. Visibility systems may respond
 
 ## 16a. The Datafied Human Remainder
 
-**This section is a forecast.** It does not hold that the projected condition has been reached. It asks what follows if several publicly developing trajectories continue without a countervailing provenance architecture.
+**This section is a forecast.** It does not hold that the projected condition has been reached. It asks what follows if several publicly developing trajectories continue with no provenance architecture in place.
 
 Two sequences run alongside each other. The first is interface: manual textual interaction → conversational and spoken interaction → persistent contextual observation → increasingly automated capture of life and work activity → possible neural-interface mediation. The second is production: human-originated material → computational processing and rendering → machine-legible derivative artifacts. A third trajectory, machine performance of formerly human tasks, is widely forecast and is treated here as forecast rather than as established fact.
 
@@ -804,9 +804,7 @@ The central forensic principle is:
 
 > **If a conclusion is generated through an identifiable architecture, fragmentation does not erase its derivational history.**
 
-This does not mean every remotely similar later statement derives from the earlier work.
-
-It means that provenance analysis must remain capable of recognizing derivation after terminology, context, and surrounding architecture have changed.
+Provenance analysis must therefore remain capable of recognizing derivation after terminology, context, and surrounding architecture have changed.
 
 The relevant object is not merely copied language.
 
