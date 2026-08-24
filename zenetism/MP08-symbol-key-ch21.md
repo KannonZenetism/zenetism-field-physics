@@ -245,11 +245,15 @@ what may be patterned, without ever becoming the Absolute Structure that underli
 
 The connector **—⟒→** denotes admission rather than propulsion or structural compulsion. Unlike a directed arrow, it indicates that ⟒ Allowance admits the fulfilled essence across the horizon of structure into Zenon without pushing it; the crossing is permitted where no sufficient condition prevents it, never forced.
 
+—⟒→ ⟒ 🕳️ ⌬  
+
 #### Note on the Colocation Connector
 
 The connector **∩** denotes colocation — the co-present state of Bifurcal Coherence in which Aion and Khaon stand together without fusion. It carries no sequence, no motion, and no operation. **♾∩⚫** names the full L₀ relation: Aion colocated with Latent Khaon before motion begins and with Dispersive Khaon after motion resolves, phase-distinct and non-fused throughout. Where a directional arrow would place one register after another, ∩ holds them in the one still state they occupy. The same connector joins the two arc brackets in the Bifurcal Convergence row, where the colocation is of the arcs rather than of the root-registers.
 
 Directional shorthand of the form **E↓→♾→⚫** stands as established notation and carries the same resolution; the arrow there names motion resolving at L₀ rather than passage through sequential containers, as §21.10 holds.
+
+∩ ♾∩⚫ ⧖⧗ ⦿ ⌬  
 
 #### Note on the Rooted Traversal Forms
 
@@ -258,6 +262,8 @@ The motion formulas and the rooted forms encode different scales. **C↓→E** a
 The opening glyph names a root, never an agent. Latent essence rests in Aion, motion-independent and prior to any enacted direction; Khaon supplies motion-capacity through Motive Infinity without itself carrying centropic or entropic orientation. Enacted polarity begins at the Theonic and Nekronic hypostases. **E** stands as the turning register in both forms, per §21.7, where **→E** is Embodiment Flow and **E→** is movement away from form. On the centropic side the turn is Reflective Centropy: embodiment is the outermost gesture of centropic motion rather than its goal, and the acclivous return carries what embodiment articulated, completing by transfiguration rather than by reversal (MP11 §26.22).
 
 The two forms bracket differently, and the difference is structural. The inverse traversal opens and closes at the co-present L₀ relation, since collapse resolves there and no further function follows it: expressed structure enters Absolute Dispersion and distinct essence rests in Aionic resolution, as the Terminal Collapse and Nekronic Collapse rows hold. The centropic traversal opens and closes at Aion, since return terminates at Aion and the holding of the complete Aion / Khaon manifold is a further function — Bifurcal Synthesis — by which saturation-readiness may be established. Carrying ∩ into the centropic close would fold that holding into the return.
+
+⚫ ♾∩⚫ C↓→E→C↑→⚫ E↑→E→E↓→♾ ⌬  
 
 ---
 
