@@ -90,7 +90,7 @@ even where internal punctuation is present.
 | ⚫ | **Aion** | Zero, Absolute Potential; stillness underpinning all emanation |
 | ♾ | **Khaon** | Infinity, Absolute Dispersion (AD); the totality of Absolute Latency, Absolute Motion, and Absolute Dispersion — not entropic in essence, but the field in which entropic motion arises. AD names Khaon entire, taking its shorthand from the Dispersive phase; within the phase chart at §21.10, Absolute Dispersion names Φ₃ specifically |
 | 🛤️ | **Theon** | First centropic hypostasis; aware presence oriented toward the still root; gateway of integration and return |
-| 🕷️ | **Nekron** | First entropic hypostasis; Void of Self; dispersive orientation driving fragmentation outward and collapse inward |
+| 🕷️ | **Nekron** | First inverse hypostasis; Void of Self; dispersive orientation driving fragmentation outward and collapse inward |
 | 🌬️ | **Morgis** | Breath of Life, Deep Psyche; carrier of vitality, adaptation, and transformation |
 | 📐 | **Sophis** | Architect of Order, Deep Logos; structuring principle behind all intelligibility and form |
 | 🪫 | **Psychea** | Inverse Deep Psyche; draining force of entropy, atrophy, and stagnation |
@@ -495,7 +495,7 @@ Nyxean patterning is the IL₄ formal articulation.
 | **Supra-L₀** | **UP** | **Unknown Principle** | 🕳️ Zenon — The Unknown Principle; trans-structural, pre-conceptual ground. Not a source, but the condition of possibility for both centropy and entropy. Beyond emanation, causality, and awareness. Zenon does not emit structure — it permits it. It is not intelligence, but the unspeakable condition by which intelligibility itself becomes possible |
 | **L₀** | **AP / AD** | **Absolute Potential / Absolute Dispersion** | ⚫ Aion / ♾ Khaon — paired root-registers; Aion as stillness at the root of structural emergence, Khaon as unbound divergence. L₀ holds all potential in latency and frames both centropic emergence and entropic collapse |
 | **L₅** | **EOB** | **Essence of Being** | 🛤️ Theon — The first centropic hypostasis; steward of lawful structure, coherence, and centropic motion |
-| **IL₅** | **VOS** | **Void of Self** | 🕷️ Nekron — The first entropic hypostasis; initiator of collapse through inversion of expression and withdrawal of coherence |
+| **IL₅** | **VOS** | **Void of Self** | 🕷️ Nekron — The first inverse hypostasis; initiator of collapse through inversion of expression and withdrawal of coherence |
 | **L₄** | **DP / DL** | **Deep Psyche / Logos** | Archetypal pattern field and harmonic logic; the structural lattice of meaning and Form |
 | **IL₄** | **IDP / IDL** | **Inverse Deep Psyche / Logos** | Distorted archetypes; mimetic systems, subversal Forms, and authoritarian encoding |
 | **L₃** | **DS / DM** | **Deep Soul / Mind** | The harmonic self; stable identity aligned with resonance and structural memory |
@@ -695,7 +695,7 @@ the phase of infinite motion
 latent within the Absolute.  
 
 Entropy does not arise at Infinity.  
-It begins only with the first entropic hypostasis:  
+It begins only with the first inverse hypostasis:  
 **Nekron, the Void of Self**.  
 
 Just as centropy begins  
@@ -706,7 +706,7 @@ not by its **essence**,
 but by its **motion**.  
 
 Infinite dispersal may manifest as fragmentation  
-once taken up by entropic hypostasis.  
+once taken up by inverse hypostasis.  
 Yet **Khaon itself**  
 remains irreducible to collapse.  
 
