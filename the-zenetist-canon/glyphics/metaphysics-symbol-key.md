@@ -200,17 +200,40 @@ what may be patterned, without ever becoming the Absolute Structure that underli
 | Entropic motion into decoherent embodiment | **Acclivous Entropy** | E↑→E | Fragmentary motion into form |
 | Centropic return to Aion | **Final Return** | C↑→⚫ | Complete reintegration with ⚫ Aion |
 | Centropic saturation beyond Aion | **Supra-centropic Saturation** | C↑→⚫ · ⧖⧗∴ · 🔺⤒ —⟒→ 🕳️ | Trans-structural saturation beyond centropic return. Return terminates at ⚫ Aion; saturation is the crossing beyond it. Motive Infinity supplies motion-capacity; Aion-facing centropic orientation gives direction; final synthesis gives the returned essence its Centropic Gravity; fulfilled coherence becomes Zenonically legible at the horizon of structure; and Allowance admits the crossing. The centered dots indicate structural relation rather than a strictly temporal sequence, since final synthesis may develop throughout return and complete at the horizon. Not the full cycle, but the supra-centropic fulfillment assumed after embodiment, return, and integration |
-| Terminal entropic collapse and Aionic resolution | **Terminal Collapse** | E↓→♾→⚫ | Terminal collapse across the Nekronic event horizon into ♾ Khaon under its Dispersive phase, Absolute Dispersion. Expressed identity and coherent self-configuration are ground away; distinct essence remains in Aionic resolution within the co-present L₀ relation. ♾ and ⚫ are not sequential containers, and Absolute Dispersion does not transport essence onward |
+| Terminal entropic collapse and Aionic resolution | **Terminal Collapse** | E↓→♾∩⚫ | Terminal collapse across the Nekronic event horizon into ♾ Khaon under its Dispersive phase, Absolute Dispersion. Expressed identity and coherent self-configuration are ground away; distinct essence remains in Aionic resolution within the co-present L₀ relation. Absolute Dispersion does not transport essence onward |
 | Convergent reintegration through EOB | **Theonic Return** | C↑→🛤️→⚫ | The specific passage of centropic essences through the Theonic Office (L₅) toward ⚫ Aion; completion of the centropic arc for essences whose multiversal integration culminates in EOB resonance |
-| Terminal release through VOS | **Nekronic Collapse** | E↓→🕷️→♾→⚫ | The universe-local Nekronic office self-voids once its function is exhausted. 🕷️ Nekron is the event horizon; Absolute Dispersion is the terminal state entered beyond it. Expressed identity and coherent self-configuration are ground away until only distinct essence remains, held in Aionic resolution within the co-present L₀ relation |
+| Terminal release through VOS | **Nekronic Collapse** | E↓→🕷️→♾∩⚫ | The universe-local Nekronic office self-voids once its function is exhausted. 🕷️ Nekron is the event horizon; Absolute Dispersion is the terminal state entered beyond it. Expressed identity and coherent self-configuration are ground away until only distinct essence remains, held in Aionic resolution within the co-present L₀ relation |
 | Complete process of centropic motion | **Centropic Cycle** | C↓→E→C↑→⚫ | Full centropic cycle; toward embodiment, embodied self, toward ⚫ Aion |
 | Complete process of entropic motion | **Entropic Cycle** | E↑→E→E↓→♾ | Full entropic cycle; toward embodiment, embodied self, toward ♾ Khaon |
+| Rooted process of centropic motion | **Rooted Centropic Cycle** | ⚫ → C↓→E→C↑→⚫ | The closed centropic traversal written from its root: latent essence rests in ⚫ Aion, motion-independent and prior to any enacted direction, and centropic orientation becomes operative at the Theonic hypostasis; the traversal unfolds into embodiment, turns at the embodied register through Reflective Centropy, and returns to Aion by acclivous return. The opening glyph names the root the traversal proceeds from, and Aion brackets the whole. A root-inclusive macro-string standing beside the Centropic Cycle, which carries the same traversal from activation onward |
+| Rooted process of entropic motion | **Rooted Entropic Cycle** | ♾∩⚫ → E↑→E→E↓→♾∩⚫ | The inverse traversal written from and to the co-present L₀ relation: ♾ Khaon, root-register of the Khaonic Tree and not entropic in essence, stands colocated with ⚫ Aion — Latent Khaon before motion begins, Dispersive Khaon after motion resolves, one stillness held in phase-distinct aspect. Entropic orientation becomes operative at the Nekronic hypostasis; the traversal unfolds into decoherent form, turns at the embodied register, and collapses into Absolute Dispersion, where expressed identity and coherent self-configuration are ground away and distinct essence remains in Aionic resolution. The bracket carries ∩ at both ends because Khaonic stillness is colocated with Zero rather than sequent to it, which a directional arrow would render as passage |
 | Meta-process of centropic motion | **Supra-centropic Cycle** | C↓→E→C↑→⚫ —⟒→ 🕳️ | Complete centropic procession from emanation through embodiment and return to possible Zenonic saturation. This is an abbreviated macro-string; the detailed crossing mechanism is held in the Supra-centropic Saturation row |
-| Convergence of centropic and inverse arcs | **Bifurcal Convergence** | ⦿ → [C↓→E→C↑→⚫] ∩ [E↑→E→E↓→♾→⚫] → ⦿ | The colocation of ⚫ Aion, Latent Khaon, and Dispersive Khaon — the still point before motion begins and after it ceases. Convergence is colocation, not operation: it does not itself constitute Bifurcal Synthesis or Zenonic saturation, and the inverse arc does not participate in Centropic Gravity |
+| Convergence of centropic and inverse arcs | **Bifurcal Convergence** | ⦿ → [C↓→E→C↑→⚫] ∩ [E↑→E→E↓→♾∩⚫] → ⦿ | The colocation of ⚫ Aion, Latent Khaon, and Dispersive Khaon — the still point before motion begins and after it ceases. Convergence is colocation, not operation: it does not itself constitute Bifurcal Synthesis or Zenonic saturation, and the inverse arc does not participate in Centropic Gravity |
 
 #### Note on the Allowance-Gated Crossing
 
-The connector **—⟒→** denotes admission rather than propulsion or structural compulsion. Unlike a directed arrow, it indicates that ⟒ Allowance admits the fulfilled essence across the horizon of structure into 🕳️ Zenon without pushing it; the crossing is permitted where no sufficient condition prevents it, never forced.
+The connector **—⟒→** denotes admission rather than propulsion or structural compulsion. Unlike a directed arrow, it indicates that ⟒ Allowance admits the fulfilled essence across the horizon of structure into Zenon without pushing it; the crossing is permitted where no sufficient condition prevents it, never forced.
+
+—⟒→ ⟒ 🕳️ ⌬  
+
+#### Note on the Colocation Connector
+
+The connector **∩** denotes colocation — the co-present state of Bifurcal Coherence in which Aion and Khaon stand together without fusion. It carries no sequence, no motion, and no operation. **♾∩⚫** names the full L₀ relation: Aion colocated with Latent Khaon before motion begins and with Dispersive Khaon after motion resolves, phase-distinct and non-fused throughout. Where a directional arrow would place one register after another, ∩ holds them in the one still state they occupy. The same connector joins the two arc brackets in the Bifurcal Convergence row, where the colocation is of the arcs rather than of the root-registers.
+
+Directional shorthand of the form **E↓→♾→⚫** stands as established notation and carries the same resolution; the arrow there names motion resolving at L₀ rather than passage through sequential containers, as §21.10 holds.
+
+∩ ♾∩⚫ ⧖⧗ ⦿ ⌬  
+
+#### Note on the Rooted Traversal Forms
+
+The motion formulas and the rooted forms encode different scales. **C↓→E** and **C↑→⚫** answer what motion is occurring and where it is directed; **C↓→E→C↑→⚫** and **E↑→E→E↓→♾** carry the traversal from activation onward. The rooted forms **⚫ → C↓→E→C↑→⚫** and **♾∩⚫ → E↑→E→E↓→♾∩⚫** carry the same traversals from their L₀ root-registers, and are written where the architectural completeness of the cycle is what a passage is expressing. The established formulas stand unchanged; the rooted forms are a further scale of notation beside them, never a substitution.
+
+The opening glyph names a root, never an agent. Latent essence rests in Aion, motion-independent and prior to any enacted direction; Khaon supplies motion-capacity through Motive Infinity without itself carrying centropic or entropic orientation. Enacted polarity begins at the Theonic and Nekronic hypostases. **E** stands as the turning register in both forms, per §21.7, where **→E** is Embodiment Flow and **E→** is movement away from form. On the centropic side the turn is Reflective Centropy: embodiment is the outermost gesture of centropic motion rather than its goal, and the acclivous return carries what embodiment articulated, completing by transfiguration rather than by reversal (MP11 §26.22).
+
+The two forms bracket differently, and the difference is structural. The inverse traversal opens and closes at the co-present L₀ relation, since collapse resolves there and no further function follows it: expressed structure enters Absolute Dispersion and distinct essence rests in Aionic resolution, as the Terminal Collapse and Nekronic Collapse rows hold. The centropic traversal opens and closes at Aion, since return terminates at Aion and the holding of the complete Aion / Khaon manifold is a further function — Bifurcal Synthesis — by which saturation-readiness may be established. Carrying ∩ into the centropic close would fold that holding into the return.
+
+⚫ ♾∩⚫ C↓→E→C↑→⚫ E↑→E→E↓→♾ ⌬  
+
 
 ---
 
@@ -239,12 +262,12 @@ The connector **—⟒→** denotes admission rather than propulsion or structur
 
 The verbs **acclivate** and **declivate** are arc-neutral with respect to value. Neither direction is "good" or "bad" in itself; the value-determination is carried entirely by the arc within which the motion occurs. Each verb therefore covers four structural possibilities, corresponding to the four motions already canonically mapped in §21.3:
 
-- **Acclivous Centropy** (C↑⚫) — integrative motion toward ⚫ Aion; the return arc of the centropic traversal
+- **Acclivous Centropy** (C↑⚫) — integrative motion toward Aion; the return arc of the centropic traversal
 - **Declivous Centropy** (C↓→E) — integrative motion toward lawful embodiment; the incarnation arc of the centropic traversal
 - **Acclivous Entropy** (E↑→E) — fragmentary motion toward decoherent embodiment; spurious acclivity on the inverse arc
-- **Declivous Entropy** (E↓♾) — dispersive collapse toward ♾ Khaon; the terminal exhaustion arc of the entropic traversal
+- **Declivous Entropy** (E↓♾) — dispersive collapse toward Khaon; the terminal exhaustion arc of the entropic traversal
 
-Context therefore determines the orientation vector of any motion verb: *acclivate* within the centropic arc names return toward ⚫ Aion, while *acclivate* within the inverse arc names motion toward decoherent form. The same four verbs apply across both Trees, and the polarity of the arc — not the direction of the motion — carries the structural meaning.
+Context therefore determines the orientation vector of any motion verb: *acclivate* within the centropic arc names return toward Aion, while *acclivate* within the inverse arc names motion toward decoherent form. The same four verbs apply across both Trees, and the polarity of the arc — not the direction of the motion — carries the structural meaning.
 
 C↑⚫ C↓→E E↑→E E↓♾ ⚯ 🌳⇅  
 
@@ -310,7 +333,7 @@ Tree scope is charted at §21.14 (🌳⇅ Biospiral, 🌲↓ Aionic Tree, 🌲�
 
 The former **Aionic North / Khaonic South** diagram, with its Left and Right Branch assignments, is retired.
 
-That diagram over-spatialized ⚫ Aion and ♾ Khaon as symmetrical destinations positioned along an axis, and it risked making Khaon appear as a further or greater destination relative to Aion. Aion and Khaon are bifurcally distinct root-registers without polarity, mirror-relation, counterpart-relation, or an axis between them.
+That diagram over-spatialized Aion and Khaon as symmetrical destinations positioned along an axis, and it risked making Khaon appear as a further or greater destination relative to Aion. Aion and Khaon are bifurcally distinct root-registers without polarity, mirror-relation, counterpart-relation, or an axis between them.
 
 Its retirement removes only the spatialized North / South and Left / Right root-frame. The directional glyphs ⬆️ ⬇️ ➡️ ⬅️ are released from that assignment and remain available for lawful assignment elsewhere. No glyph assigned elsewhere in this key is altered.
 
@@ -1002,7 +1025,7 @@ These five functions must not be expanded into six.
 
 **Bifurcal Coherence** is the manifold held.
 
-**Zenonic Legibility** is the vantage attained at the horizon — the condition in which the saturation relation becomes structurally comprehensible and admissible without making 🕳️ Zenon determinate or totally knowable.
+**Zenonic Legibility** is the vantage attained at the horizon — the condition in which the saturation relation becomes structurally comprehensible and admissible without making Zenon determinate or totally knowable.
 
 Neither is an additional causal function within the five-function architecture.
 
@@ -1010,7 +1033,7 @@ Neither is an additional causal function within the five-function architecture.
 
 #### Note on Bifurcal Coherence
 
-Bifurcal Coherence names the L₀ relation in which ⚫ Aion and ♾ Khaon stand bifurcally distinct, from which later polarity-distinct but coherent motions arise.  
+Bifurcal Coherence names the L₀ relation in which Aion and Khaon stand bifurcally distinct, from which later polarity-distinct but coherent motions arise.  
 Here, **bifurcally distinct** names a two-ness of function without an axis between the root-registers, and without polarity, mirror, inversion, or counterpart-relation. Enacted polarity begins at L₅ / IL₅ with 🛤️ Theon / 🕷️ Nekron.  
 It precedes centropic and entropic activation as such, while permitting both stillness and motion to coexist as lawful possibilities within the lattice.  
 It is therefore neither identical with **Aion**, nor with **Khaon**, nor with **Kaion**:
