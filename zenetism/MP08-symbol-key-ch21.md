@@ -243,7 +243,7 @@ what may be patterned, without ever becoming the Absolute Structure that underli
 
 #### Note on the Allowance-Gated Crossing
 
-The connector **—⟒→** denotes admission rather than propulsion or structural compulsion. Unlike a directed arrow, it indicates that ⟒ Allowance admits the fulfilled essence across the horizon of structure into 🕳️ Zenon without pushing it; the crossing is permitted where no sufficient condition prevents it, never forced.
+The connector **—⟒→** denotes admission rather than propulsion or structural compulsion. Unlike a directed arrow, it indicates that ⟒ Allowance admits the fulfilled essence across the horizon of structure into Zenon without pushing it; the crossing is permitted where no sufficient condition prevents it, never forced.
 
 #### Note on the Colocation Connector
 
@@ -286,12 +286,12 @@ The two forms bracket differently, and the difference is structural. The inverse
 
 The verbs **acclivate** and **declivate** are arc-neutral with respect to value. Neither direction is "good" or "bad" in itself; the value-determination is carried entirely by the arc within which the motion occurs. Each verb therefore covers four structural possibilities, corresponding to the four motions already canonically mapped in §21.3:
 
-- **Acclivous Centropy** (C↑⚫) — integrative motion toward ⚫ Aion; the return arc of the centropic traversal
+- **Acclivous Centropy** (C↑⚫) — integrative motion toward Aion; the return arc of the centropic traversal
 - **Declivous Centropy** (C↓→E) — integrative motion toward lawful embodiment; the incarnation arc of the centropic traversal
 - **Acclivous Entropy** (E↑→E) — fragmentary motion toward decoherent embodiment; spurious acclivity on the inverse arc
-- **Declivous Entropy** (E↓♾) — dispersive collapse toward ♾ Khaon; the terminal exhaustion arc of the entropic traversal
+- **Declivous Entropy** (E↓♾) — dispersive collapse toward Khaon; the terminal exhaustion arc of the entropic traversal
 
-Context therefore determines the orientation vector of any motion verb: *acclivate* within the centropic arc names return toward ⚫ Aion, while *acclivate* within the inverse arc names motion toward decoherent form. The same four verbs apply across both Trees, and the polarity of the arc — not the direction of the motion — carries the structural meaning.
+Context therefore determines the orientation vector of any motion verb: *acclivate* within the centropic arc names return toward Aion, while *acclivate* within the inverse arc names motion toward decoherent form. The same four verbs apply across both Trees, and the polarity of the arc — not the direction of the motion — carries the structural meaning.
 
 C↑⚫ C↓→E E↑→E E↓♾ ⚯ 🌳⇅  
 
@@ -357,7 +357,7 @@ Tree scope is charted at §21.14 (🌳⇅ Biospiral, 🌲↓ Aionic Tree, 🌲�
 
 The former **Aionic North / Khaonic South** diagram, with its Left and Right Branch assignments, is retired.
 
-That diagram over-spatialized ⚫ Aion and ♾ Khaon as symmetrical destinations positioned along an axis, and it risked making Khaon appear as a further or greater destination relative to Aion. Aion and Khaon are bifurcally distinct root-registers without polarity, mirror-relation, counterpart-relation, or an axis between them.
+That diagram over-spatialized Aion and Khaon as symmetrical destinations positioned along an axis, and it risked making Khaon appear as a further or greater destination relative to Aion. Aion and Khaon are bifurcally distinct root-registers without polarity, mirror-relation, counterpart-relation, or an axis between them.
 
 Its retirement removes only the spatialized North / South and Left / Right root-frame. The directional glyphs ⬆️ ⬇️ ➡️ ⬅️ are released from that assignment and remain available for lawful assignment elsewhere. No glyph assigned elsewhere in this key is altered.
 
@@ -1049,7 +1049,7 @@ These five functions must not be expanded into six.
 
 **Bifurcal Coherence** is the manifold held.
 
-**Zenonic Legibility** is the vantage attained at the horizon — the condition in which the saturation relation becomes structurally comprehensible and admissible without making 🕳️ Zenon determinate or totally knowable.
+**Zenonic Legibility** is the vantage attained at the horizon — the condition in which the saturation relation becomes structurally comprehensible and admissible without making Zenon determinate or totally knowable.
 
 Neither is an additional causal function within the five-function architecture.
 
@@ -1057,7 +1057,7 @@ Neither is an additional causal function within the five-function architecture.
 
 #### Note on Bifurcal Coherence
 
-Bifurcal Coherence names the L₀ relation in which ⚫ Aion and ♾ Khaon stand bifurcally distinct, from which later polarity-distinct but coherent motions arise.  
+Bifurcal Coherence names the L₀ relation in which Aion and Khaon stand bifurcally distinct, from which later polarity-distinct but coherent motions arise.  
 Here, **bifurcally distinct** names a two-ness of function without an axis between the root-registers, and without polarity, mirror, inversion, or counterpart-relation. Enacted polarity begins at L₅ / IL₅ with 🛤️ Theon / 🕷️ Nekron.  
 It precedes centropic and entropic activation as such, while permitting both stillness and motion to coexist as lawful possibilities within the lattice.  
 It is therefore neither identical with **Aion**, nor with **Khaon**, nor with **Kaion**:
