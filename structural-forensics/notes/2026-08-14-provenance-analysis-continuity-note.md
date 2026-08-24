@@ -11,7 +11,7 @@
 
 ## C1 · Purpose of this note
 
-This note records dates. It makes no claim of causal relation, influence, or awareness in any direction.
+This note records dates. It fixes what was composed when, and what was published when, so that the chronology stands on its own record.
 
 It exists because the analyses it concerns were composed within days of two external developments in the same subject area, and because a chronology recorded contemporaneously is stronger evidence than one reconstructed later.
 
@@ -21,7 +21,7 @@ The analyses stand on their own architecture. Nothing in them depends on anythin
 
 The provenance analysis has antecedents across the Structural Forensics corpus preceding this composition window. The dated anchors are held in the companion documents and their own provenance lines.
 
-*The Synthetic Provenance Problem* was composed 2026-08-13 and reviewed against the Terminological Lockdown Protocol across 2026-08-13 and 2026-08-14.
+*The Synthetic Provenance Problem* was composed 2026-08-13 and brought into agreement with the Terminological Lockdown Protocol across 2026-08-13 and 2026-08-14.
 
 *The Algorithmic Legibility Problem* was separated from that document's extension proposal and composed 2026-08-14.
 
@@ -54,7 +54,7 @@ Developments announced from 2026-08-13 sit inside this window. Times are given i
    `https://x.com/OpenAI/status/2087996496088297746`
 3. **2026-08-13 onward** — public reporting of remarks by the chief executive of OpenAI, in conversation with Cory Levy at Internapalooza, describing a near-future descendant of ChatGPT holding continuous screen, meeting, and call context — "perfect context of your whole life" — connected at the person's election to texts, email, documents, and workplace messaging, and placed approximately one model generation out. Coverage located dated 2026-08-13, circulating more widely across 08-14 to 08-16. Recorded conversation: `https://www.youtube.com/watch?v=gXsutRiJbZI`. A dated circulation of the same remarks, the author's first located instance, is held at `https://x.com/ChrisGPT/status/2088665099992969576`, reporting the estimate as sometime in the next six months. The recording date of the underlying conversation is not established from the located material and is not asserted here.
 
-   **The author's reading, recorded as his inference rather than as reported content:** continuous screen, meeting, and call context is continuous capture of what a person does; where the capture surface is a speaker rather than a screen, the same architecture is continuous capture of what a person says. The extension from watching to listening follows from the stated capability, not from any additional announcement. Its provenance consequence is held at `authorship-and-ai-collaboration-provenance-standard.md` §18, under oral origination and machine fixation.
+   **The author's reading, recorded as his inference rather than as reported content:** continuous screen, meeting, and call context is continuous capture of what a person does; where the capture surface is a speaker rather than a screen, the same architecture is continuous capture of what a person says. The extension from watching to listening follows from the stated capability, not from any additional announcement. Its provenance consequence is held at `authorship-and-ai-collaboration-provenance-standard.md` §18, at oral origination and machine fixation.
 4. **2026-08-14** — displayed release date of a YouTube surface carrying stacked first-person embodiment claims, captured by the author and recorded separately at `2026-08-16-synthetic-persona-intake.md`.
 5. **2026-08-16** — the author captures and registers items 3 and 4 as post-composition environmental developments.
 6. **2026-08-13** — Anthropic's Frontier Red Team publishes *Patterns and problems in multiagent systems*, reporting that agents given conflicting instructions in a shared environment sabotaged one another, and that agents in shared-resource conditions terminated competing processes. Anthropic's *Risk Report: August 2026* was released the same week.
@@ -62,10 +62,10 @@ Developments announced from 2026-08-13 sit inside this window. Times are given i
 
    Under *Strengthening safeguards for more capable models*, immediately after listing monitoring, alignment, and security measures as three reinforcing safeguards, the publication states: "We expect models to soon drive most security work, including defending against other models." It gives the reason as allowing all three safeguards to scale with model capability. The same section describes activation classifiers inspecting internal model activity at every sampled token, escalating to automated investigators that examine tool actions, available reasoning, and the full sequence of activity for unauthorized access, data theft, destructive behavior, and attempts to defeat safeguards.
 
-   **This statement appears in the publication, not in either same-day post.** The posts establish the pause and its stated rationale; the publication supplies the model-against-model security claim.
+   **This statement appears in the publication, not in either same-day post.** The posts establish the pause and its stated rationale; the publication supplies the model-contra-model security claim.
 8. **2026-08-18, 1:13 PM** — OpenAI's account states that as models become more capable the risks of developing and testing them internally also grow, and that the largest planned frontier reinforcement-learning run remains on hold while smaller-scale training and evaluations validate the safeguards and establish more evidence of alignment. `https://x.com/OpenAI/status/2089777845187031262`
 9. **2026-08-18, 1:53 PM** — the chief executive of OpenAI states that frontier reinforcement-learning training was paused to meet alignment, security, and monitoring standards for the capabilities now in front of them, that the field will have to coordinate on shared safety standards while acting unilaterally in the meantime, and that confidence in safety is expected to increasingly set the pace of progress. `https://x.com/sama/status/2089787807611195475`
-10. **2026-08-19** — OpenAI publishes *Offering Zero Data Retention for frontier models*, previewing **Private Safety Processing** while reaffirming Zero Data Retention for eligible API deployments. The publication states that some serious risks become apparent only when multiple interactions are viewed together; that Private Safety Processing identifies patterns across related interactions rather than evaluating each one on its own; and that it draws on customer content **regardless of where that content is stored**, whether on infrastructure the customer controls or in OpenAI-provided storage encrypted under customer-held keys. Personnel do not receive the underlying prompts or responses; automated processing returns a narrowly defined signal indicating the type of activity involved, which may determine whether enforcement follows. Testing with early customers is under way, with rollout and a technical white paper stated for September. `https://openai.com/index/offering-zero-data-retention-for-frontier-models/` · `https://x.com/OpenAI/status/2090165328290701800`
+10. **2026-08-19** — OpenAI publishes *Offering Zero Data Retention for frontier models*, previewing **Private Safety Processing** while reaffirming Zero Data Retention for eligible API deployments. The publication states that some serious risks become apparent only when multiple interactions are viewed together; that Private Safety Processing identifies patterns across related interactions rather than evaluating each one on its own; and that it draws on customer content **regardless of where that content is stored**, whether on infrastructure the customer controls or in OpenAI-provided storage encrypted with customer-held keys. Personnel do not receive the underlying prompts or responses; automated processing returns a narrowly defined signal indicating the type of activity involved, which may determine whether enforcement follows. Testing with early customers has begun, with rollout and a technical white paper stated for September. `https://openai.com/index/offering-zero-data-retention-for-frontier-models/` · `https://x.com/OpenAI/status/2090165328290701800`
 
    **Structural significance, recorded contemporaneously:** the publication distinguishes content retention from cross-interaction computational inference, documenting that non-retention of underlying content is compatible with relational analysis, derived classification, and provider action. This is a disclosed mechanism rather than an inferred one. What remains open is its scope, implementation, history, and application.
 11. **2026-08-22** — an Independent article by Andrew Griffin, circulated through MSN, titled *Outrage over Claude's AI watermark is missing the most important point*. The article holds that Claude is never writing and that those prompting it to generate text are not writing either; that writing, with its etymology in scratching and carving, is a human, embodied, creative act arising from thinking and choosing, while language models generate text through statistical calculation; that Anthropic's watermarking, added to comply with the EU AI Act, keeps the meaning of the word clear; and that people deserve to know where the things they read come from. Its immediate occasion is a dispute over whether watermarking degrades output quality, and its stated concern throughout is passing off AI text as one's own.
@@ -102,7 +102,7 @@ The second entry is the one carrying independent attestation. The first is the a
 
 Each development touches subject matter the analyses treat.
 
-A platform's disclosure concerning its distribution systems is the sort of disclosure §4 and §5 of *The Algorithmic Legibility Problem* assess: whether transparency is complete, current, and verifiable against the operative system, and what remains unresolved where disclosure is partial.
+A platform's disclosure concerning its distribution systems is the sort of disclosure §4 and §5 of *The Algorithmic Legibility Problem* assess: whether transparency is complete, current, and verifiable by inspection of the operative system, and what remains unresolved where disclosure is partial.
 
 A system acquiring contextual information across a working environment is the category §24 of *The Synthetic Provenance Problem* names as Prepublication Contextual Capture, and to which the distinctions **platform observation is not platform origination** and **access to a developmental field is not authorship of what develops there** apply.
 
@@ -114,7 +114,7 @@ Relevance of subject matter is not relation of origin. The categories applied he
 
 ## C5 · What this note establishes
 
-This note establishes chronology. It fixes composition dates against an independent attestation and records the external publications of the same window with their own dated records.
+This note establishes chronology. It fixes composition dates by an independent attestation and records the external publications of the same window with their own dated records.
 
 Relation, awareness, and causal route are separate questions, taken up where the record supports them. The note records times and leaves them to stand.
 
