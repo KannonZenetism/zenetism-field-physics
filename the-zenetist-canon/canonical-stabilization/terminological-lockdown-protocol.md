@@ -1009,6 +1009,19 @@ Examples:
 
 "Contra" preserves distinction and directional contrast without collapsing polarity into simplistic adversarial framing.
 
+**Against (architect determination, August 24 2026).** *Against* falls within the same restriction and is barred in most constructions. The word seats two things as facing sides even where the sentence means only comparison, reference, or contrast, and it does this quietly enough that the framing is rarely noticed — which is why it survives in prose that has already removed *versus*.
+
+- *the standard against which X is measured* → **the standard X is measured in relation to**, or **the standard X is read alongside**
+- *measured against the canon* → **measured in relation to the canon**
+- *tested against the record* → **tested in relation to the record**
+- *weighed against* → **weighed alongside**
+- *against the pattern*, where contrariety is meant → **contra the pattern**, or **in departure from the pattern**
+- *normalized against* → **normalized to**
+
+Canonical replacements: **alongside**, **in relation to**, **related to**, **relative to**, **in distinction from**, **contra**, **in departure from**.
+
+Lawful retentions: quoted material; another party's own terms; and the naming of a genuinely adversarial relation between external parties, where the opposition is the thing being diagnosed and no Zenetist relation stands on either side. Where the subject is the standing of an originating architecture, the Adversarial Framing Restriction governs and the opposition is not written at all.
+
 ---
 
 # Structural Category Neutralization Protocol
@@ -1171,7 +1184,7 @@ The positive form, where a scope statement is warranted:
 
 **A functional diagnosis does not require a motive accusation, and the absence of a motive claim does not weaken the diagnosis.** Motion is diagnosable without motive.
 
-**Dismissing intent is a stance, not neutrality** (architect determination, August 23 2026). A sentence stating that intent is beside the point, or that a structure operates the same whatever anyone intended, takes a position on a question the analysis had not raised — and takes it against the author, in the author's own document. Dismissing intent and assigning intent unreasonably are the same class of error.
+**Dismissing intent is a stance, not neutrality** (architect determination, August 23 2026). A sentence stating that intent is beside the point, or that a structure operates the same whatever anyone intended, takes a position on a question the analysis had not raised — and takes it contrary to the author, in the author's own document. Dismissing intent and assigning intent unreasonably are the same class of error.
 
 The barred constructions, so this need not be restated:
 
@@ -1239,10 +1252,11 @@ Lawful where the word appears inside its own refusal, and where it names a mecha
 
 Replacements, by what actually occurred:
 
-- **reviewed against** — where a file was checked and the audit event is what is being recorded
-- **brought into agreement with** — where corrections were made
+- **brought into agreement with** — where a file was checked and corrected, and the maintenance event is what is being recorded
 - **stabilized on touch** · **corrected on touch** — replacing *conform-on-touch*
 - **apply [protocol] on touch** — where the instruction is prospective
+
+**Reviewed against is retired from this list** (architect determination, August 24 2026). It reads as arraignment, and *brought into agreement with* was already this entry's own alternative and says the same thing without the trial. The one bullet now carries both senses. See the *against* restriction in the Relational Opposition Protocol.
 
 The protocol's own maintenance vocabulary is included in this restriction. Existing instances stand as historical record and are corrected on touch.
 
@@ -2402,7 +2416,7 @@ The **Non-contact Principle** is a proper name, formed on the **Non-fusion Axiom
 Canonical form:
 
 - **Non-contact Principle** — capital N on the first element, lowercase second element after the hyphen, capital P on *Principle*
-- never **Non-Contact**, which title-cases a hyphenated compound against the Non-fusion pattern
+- never **Non-Contact**, which title-cases a hyphenated compound contra the Non-fusion pattern
 - never lowercase *principle*, which demotes a proper name to a common noun
 - never the bare **Non-contact** standing alone as a nominal — *per Non-contact*, *under Non-contact*. The proper name is completed: **per the Non-contact Principle**, **Under the Non-contact Principle**
 
@@ -2454,7 +2468,7 @@ The casing test is semantic, not stylistic. Capitalize **Origin** wherever the r
 
 ## Held Open — No Propagation
 
-The following are deliberately unruled; their consequences ripple through Lattice Mathematics, Structural Physics, and Structural Neuroscience, and nothing may be normalized against them until the author rules: **LM duality-constructs** (Duality Axiom; Derivative–Integral Duality; the GUD's A₁ Law of Duality inherits this ruling), **the LM spectral-pole question**, **the unity meta-definitional blocks** (LM01 / LM02), and **the Unified Conservation subtitle**.
+The following are deliberately unruled; their consequences ripple through Lattice Mathematics, Structural Physics, and Structural Neuroscience, and nothing may be normalized to them until the author determines: **LM duality-constructs** (Duality Axiom; Derivative–Integral Duality; the GUD's A₁ Law of Duality inherits this ruling), **the LM spectral-pole question**, **the unity meta-definitional blocks** (LM01 / LM02), and **the Unified Conservation subtitle**.
 
 ---
 
