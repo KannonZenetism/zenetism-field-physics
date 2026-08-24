@@ -343,6 +343,24 @@ Layer ordering encodes the emanation structure, so it is held here rather than a
 
 ---
 
+## Spatial Vocabulary Register Constraint
+
+**Constraint.** Spatial vocabulary throughout the corpus is borrowed for structural ordering. Position, direction, distance, containment, and colocation name relations in causal necessity, and no construction may read them as literal placement or build an inference that depends on the spatial sense.
+
+**Lawful account.**
+
+- **Position is position in causal necessity.** L₅ and IL₅, and the strata generally, number position in causal necessity rather than location; the −1 / −2 / −3 sequence is never read onto the layer numbering
+- **Colocation is co-presence, and it holds at the register named and nowhere else.** ⚫ Aion colocated with Latent Khaon before motion begins and with Dispersive Khaon after motion resolves names one still state held in phase-distinct aspect. The bifurcal roots are colocated at L₀ while the centropic and inverse arcs stand distinct through every hypostatic register between — a colocation asserted at the root never extends along what the root grounds
+- **Direction is orientation, not a heading.** Acclivous and declivous name motion within an arc, the arc supplying the value-determination. The cardinal-direction frame was retired because it over-spatialized Aion and Khaon as symmetrical destinations positioned along an axis
+- **Root, tree, layer, and arc are structural terms.** A root grounds without lying beneath; a layer orders without stacking; an arc traverses without extension. Aion and Khaon stand in bifurcal distinction with no axis between them, and the absence of an axis is the absence of a spatial relation rather than the denial of a structural one
+- **Containment is the sharpest hazard.** Sequential-container readings arrive wherever a directional connector joins two registers. Notation carries the guard: ∩ names colocation and holds no sequence, no motion, and no operation, where a directed arrow would place one register after another
+
+**Lawful grammar.** Write "position in causal necessity," "co-present," "root-register," "orientation." Where spatial vocabulary could carry a literal reading, name the register once rather than replacing the vocabulary — the borrowing is canonical and the terms are load-bearing.
+
+**Reference Document:** `MP08-symbol-key-ch21.md` §21.3 Note on the Colocation Connector and §21.6 Note on the Retired Cardinal-Direction Frame; the Bifurcal Root Constraint and the guard on the strata in this protocol; architect determination, August 24 2026.
+
+---
+
 ## Centropic Gravity — the Saturation Architecture
 
 **Constraint.** Zenonic saturation is not compelled by orientation, coherence, or momentum, and it is not a phase of return. Return terminates at ⚫ Aion; saturation is the crossing beyond return into 🕳️ Zenon. No construction may treat Centropic Gravity as a property of return, as an external pull, as physical gravity, or as Zenon drawing the essence outward.
