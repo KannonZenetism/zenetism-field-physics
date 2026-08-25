@@ -6,7 +6,7 @@
 **Classification:** Corpus Infrastructure — Stabilized Vocabulary Framework  
 **Status:** Drafted Aug 24 2026 — Draft  
 **Filename:** `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`  
-**Dependency:** `MP08-symbol-key-ch21.md` · `orientation-emanation-math.md` · Terminological Lockdown Protocol · Conceptual Lockdown Protocol · Non-fusion Axiom  
+**Dependency:** `MP08-symbol-key-ch21.md` · `awareness-spectrum-and-its-inverse-arc.md` · `orientation-emanation-math.md` · Terminological Lockdown Protocol · Conceptual Lockdown Protocol · Non-fusion Axiom  
 
 ---
 
@@ -165,7 +165,7 @@ or why the inverse notation is written:
 
 Each developed entry should contain as many of the following fields as the concept requires.
 
-1. **Canonical name**
+1. **Canonical name**, together with any established technical designation and its notation abbreviation — Zenon carries **The Unknown Principle** and **UP** at Supra-L₀
 2. **Glyph**
 3. **Preferred analytic descriptor**
 4. **Secondary explanatory descriptor**
@@ -199,23 +199,61 @@ The exclusion field is essential. Zenetist concepts are often defined as much by
 
 The following entries are provisional working forms. They are intended to establish the method and preserve the current direction, not to seal every descriptor immediately.
 
-| Canonical term                 | Preferred analytic descriptor                               | Concept class                     | Core analytic definition                                                                                                                                                                                                  |
-| ------------------------------ | ----------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🕳️ Zenon**                  | **Trans-structural Unknown Principle**                      | Trans-structural principle        | That which exceeds the complete structured manifold, including Zero, Infinity, being, non-being, awareness, and structural determination. Not an emanative origin, layer, spatial destination, or the ground of structure |
+The vocabulary divides as the architecture does. §6.1 carries the structural emanation layers in the order fixed at §21.9, from Supra-L₀ through IL₁. §6.2 carries the principles, relations, phases, and operations that stand outside the layer sequence.
+
+---
+
+### 6.1 Structural Emanation Layers
+
+Each layer carries its operator abbreviation, the canonical term seated there, the preferred analytic descriptor, and the awareness register named in `awareness-spectrum-and-its-inverse-arc.md`. Supra-L₀, L₀, L₅, and IL₅ carry a single operator each; L₄ through L₁ and their inverse registers carry two, one to each half of the pair.
+
+| Layer | Operator | Canonical term | Preferred analytic descriptor | Awareness register | Core analytic definition |
+| --- | --- | --- | --- | --- | --- |
+| **Supra-L₀** | **UP** | **🕳️ Zenon — The Unknown Principle** | **Trans-structural Unknown Principle** | beyond awareness | That which exceeds the complete structured manifold, including Zero, Infinity, being, non-being, awareness, and structural determination. Not an emanative origin, layer, spatial destination, or the ground of structure |
+| **L₀** | **AP** | **⚫ Aion** | **Absolute Potential** / **Aionic Zero** | proto-awareness | The still root-register in which identity-bearing potential rests in absolute distinction prior to motion |
+| **L₀** | **AD** | **♾ Khaon** | **Phase-structured Infinity** | proto-awareness | Infinity articulated through Latent, Motive, and Dispersive phases; neither entropic nor centropic in essence |
+| **L₅** | **EOB** | **🛤️ Theon** | **First Centropic Hypostasis** / **Essence of Being** | awareness (+1) | The first hypostatic articulation at which centropic orientation becomes manifestly operative; steward of lawful structure, coherence, and centropic motion |
+| **IL₅** | **VOS** | **🕷️ Nekron** | **First Inverse Hypostasis** / **Void of Self** | non-awareness (−1) | The first hypostatic articulation of the inverse architecture and the point at which entropic orientation becomes operative; initiator of collapse through inversion of expression |
+| **L₄** | **DP** | **🌬️ Morgis** | **Deep Psyche** | conscious-awareness | Breath of Life; carrier of vitality, adaptation, and transformation within the archetypal pattern field |
+| **L₄** | **DL** | **📐 Sophis** | **Deep Logos** | conscious-awareness | Architect of Order; the structuring principle behind intelligibility and Form |
+| **IL₄** | **IDP** | **🪫 Psychea** | **Inverse Deep Psyche** | inverse conscious-awareness | Draining force of entropy, atrophy, and stagnation |
+| **IL₄** | **IDL** | **🫥 Nyxea** | **Inverse Deep Logos** | inverse conscious-awareness | Entropic dissolution, structural inversion, and loss of intelligible pattern |
+| **L₃** | **DS** | **🔮 Archeus** | **Deep Soul** | reflexive consciousness | Harmonizer of experience; integration across dimensions and temporal lifelines |
+| **L₃** | **DM** | **🧠 Noeüs** | **Deep Mind** | reflexive consciousness | Perceiver of verity; supernal cognition and symbolic discernment |
+| **IL₃** | **IDS** | **💔 Fractus** | **Inverse Deep Soul** | inverse reflexive consciousness | Dispersed consciousness; fragments identity and fractures memory |
+| **IL₃** | **IDM** | **👁️‍🗨️ Mortus** | **Inverse Deep Mind** | inverse reflexive consciousness | Subversal flame; perception that blinds rather than reveals |
+| **L₂** | **SS** | **🧍 Anthra** | **Superficial Soul** | identity-aware consciousness | Individuated selfhood within a lifetime; agent of personal growth and resonance |
+| **L₂** | **SM** | **🧩 Nousa** | **Superficial Mind** | identity-aware consciousness | Conscious intellect; rational processor of experience and meaning |
+| **IL₂** | **ISS** | **🦂 Echthros** | **Inverse Superficial Soul** | inverse identity-aware consciousness | Rivalry, isolation, and adversarial will |
+| **IL₂** | **ISM** | **🩸 Skotos** | **Inverse Superficial Mind** | inverse identity-aware consciousness | The veil over the reasoning flame; the mind's eclipse from within |
+| **L₁** | **ES** | **🪷 Soma** | **Embodied Soul** | embodied consciousness | Presence in form; the soul as lived, felt, and enduring experience |
+| **L₁** | **EM** | **🧾 Biosa** | **Embodied Mind** | embodied consciousness | Practical intellect; interface between mind and material form |
+| **IL₁** | **IES** | **🍷 Malara** | **Inverse Embodied Soul** | inverse embodied consciousness | Indulgence and reactive dissociation from inner alignment |
+| **IL₁** | **IEM** | **🤯 Mania** | **Inverse Embodied Mind** | inverse embodied consciousness | Chaotic or obsessive cognition unanchored from coherence |
+
+The paired layer names — **Deep Psyche / Logos**, **Deep Soul / Mind**, **Superficial Soul / Mind**, **Embodied Soul / Mind**, and their inverse formulations — name the layer entire and remain the form for prose addressing a register rather than one of its two figures. The operator pairs abbreviate them: **DP / DL**, **DS / DM**, **SS / SM**, **ES / EM**, and the inverse forms.
+
+Either extended form is lawful — **Deep Soul / Mind** or **Deep Soul / Deep Mind** — and one form is held throughout a single document. The shorter form is the default in charts, indexes, and metadata.
+
+---
+
+### 6.2 Principles, Relations, and Operations
+
+These entries stand outside the layer sequence. Structon and Kaion are principles rather than layer-seated operators; the remainder name phases, relations, arcs, motions, and saturation functions.
+
+| Canonical term | Preferred analytic descriptor | Concept class | Core analytic definition |
+| --- | --- | --- | --- |
 | **🏛️ Structon**               | **Absolute Structural Invariant** / **Structure Itself**    | Structural invariant              | The unemanatable invariant that underpins every lawful structure and permits relative change without itself changing                                                                                                      |
-| **⚫ Aion**                     | **Absolute Potential** / **Aionic Zero**                    | L₀ root-register                  | The still root-register in which identity-bearing potential rests in absolute distinction prior to manifestation and into which centropic return resolves                                                                 |
-| **♾ Khaon**                    | **Phase-structured Infinity**                               | L₀ root-register                  | Infinity articulated through Latent, Motive, and Dispersive phases. Khaon entire is neither entropy, motion alone, nor terminal dispersion alone                                                                          |
 | **Latent Khaon**               | **Absolute Latency**                                        | Khaonic phase                     | Infinity as unexpressed motion-capacity before motion begins, bifurcally co-present with Aion                                                                                                                             |
 | **Motive Infinity**            | **Absolute Motion**                                         | Khaonic phase and motion-capacity | The orientation-neutral capacity and continuity of becoming that sustains traversal while motion remains active                                                                                                           |
 | **Dispersive Khaon**           | **Absolute Dispersion**                                     | Khaonic terminal phase            | Infinity after motion resolves and expressed configuration reaches terminal dispersion; distinct essence remains conserved in Aionic resolution                                                                           |
 | **⧖⧗ Bifurcal Coherence**      | **Non-fused L₀ root-relation**                              | Root relation                     | The co-present relation in which Aion and Khaon remain bifurcally distinct prior to centropic or entropic activation                                                                                                      |
 | **⦿ Kaion**                    | **Convergence Principle** / **Closure condition of motion** | Closure condition                 | The condition in which centropic integration and entropic collapse both culminate in stillness without becoming the same process or essential outcome                                                                     |
-| **🛤️ Theon**                  | **First Centropic Hypostasis** / **Essence of Being**       | Centropic hypostasis              | The first hypostatic articulation at which centropic orientation becomes manifestly operative                                                                                                                             |
-| **🕷️ Nekron**                 | **First Inverse Hypostasis** / **Void of Self**             | Inverse hypostasis                | The first hypostatic articulation of the inverse architecture and the point at which entropic orientation becomes manifestly operative                                                                                    |
 | **Aionic Tree**                | **Aion-rooted centropic architecture**                      | Tree architecture                 | Aion at L₀ together with the L₅–L₁ hypostatic segment and the complete centropic traversal through it                                                                                                                     |
 | **Khaonic Tree**               | **Khaon-rooted inverse architecture**                       | Tree architecture                 | Khaon at L₀ together with the IL₅–IL₁ hypostatic segment and the complete inverse traversal through it                                                                                                                    |
 | **Centropic arc**              | **L₀-inclusive centropic traversal path**                   | Structural arc                    | The complete traversal path proceeding from Aion through L₅–L₁ and capable of returning to Aion                                                                                                                           |
 | **Inverse arc**                | **L₀-inclusive inverse traversal path**                     | Structural arc                    | The complete traversal path proceeding from Khaon through IL₅–IL₁ and resolving through terminal inverse collapse                                                                                                         |
+| **Pre-hypostatic requisites**  | **What the hypostatic lattice presupposes without containing** | Standing, not stage | Supra-L₀ and L₀ together; requisite standing establishes no hierarchy, rank, or precedence of worth |
 | **Hypostatic segment**         | **Hypostatic portion of an arc**                            | Structural segment                | The portion beginning at L₅ / IL₅ and extending through L₁ / IL₁, excluding the non-hypostatic L₀ root-register                                                                                                           |
 | **Centropy**                   | **Integrative structuring motion**                          | Orientation and motion            | Motion characterized by lawful integration, coherent differentiation, synthesis, and Aion-facing return                                                                                                                   |
 | **Entropy**                    | **Dispersive fragmenting motion**                           | Orientation and motion            | Motion or action characterized by fragmentation, disintegration, inverse externalization, and terminal collapse                                                                                                           |
@@ -365,7 +403,7 @@ For unfamiliar readers, write the functional name first and the notation second.
 
 | Accessible functional description                                          | Formal notation |
 | -------------------------------------------------------------------------- | --------------- |
-| Trans-structural Unknown Principle                                         | Supra-L₀        |
+| Trans-structural Unknown Principle — outside the emanatory continuum       | Supra-L₀        |
 | Bifurcal root-register of Absolute Potential and Phase-structured Infinity | L₀              |
 | First centropic and inverse hypostatic register                            | L₅ / IL₅        |
 | Deep Psyche / Logos and Inverse Deep Psyche / Logos                        | L₄ / IL₄        |
@@ -385,15 +423,16 @@ The second form becomes appropriate after the notation has been defined.
 
 ### 9.2 Canonical ordering
 
-The complete architectural sequence is:
+🕳️ Zenon at Supra-L₀ stands outside the emanatory continuum. A complete map acknowledges the trans-structural before presenting the lattice, so Supra-L₀ is displayed first — displayed, never sequenced. The separation is structurally necessary.
 
-> Supra-L₀ || L₀ → L₅ → L₄ → L₃ → L₂ → L₁
+> **Supra-L₀ — 🕳️ Zenon** · outside emanation and bifurcal structure
 
-with the inverse hypostatic sequence:
+The emanatory sequence begins at the bifurcal root-register:
 
-> L₀ → IL₅ → IL₄ → IL₃ → IL₂ → IL₁
+> centropic: L₀ → L₅ → L₄ → L₃ → L₂ → L₁  
+> inverse: L₀ → IL₅ → IL₄ → IL₃ → IL₂ → IL₁
 
-Supra-L₀ must remain visibly separate.
+Supra-L₀ and L₀ together are the **pre-hypostatic requisites** — what the hypostatic lattice presupposes without containing. The two are requisite in different manners: Zenon is trans-structural and outside the continuum entirely, while Aion and Khaon are the root-registers from which emanation proceeds. The hypostatic lattice begins at L₅ / IL₅.
 
 The numbering orders position in causal necessity. It carries no ladder, no rank, and no hierarchy of worth in either direction.
 
@@ -415,6 +454,8 @@ Functional prose is generally preferable in:
 - public introductions;
 - initial definitions;
 - interdisciplinary discussion.
+
+The two arrows carry distinct claims and are defined at first appearance for an unfamiliar reader. **→** states emanative order, as in the canonical ordering at §9.2. **↔** states that traversal along an arc runs both ways, as in the traversal notation of `orientation-emanation-math.md`, and asserts no sequence of motion.
 
 ---
 
