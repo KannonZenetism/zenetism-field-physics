@@ -122,7 +122,7 @@ but to the **field of stillness**.
 To **Aion**.  
 And beyond that —  
 to **Zenon**:  
-the **unknowable trans-structural allowance**,  
+the **unknowable trans-structural horizon**,  
 beyond coherence, potential, and emanation.  
 Not **origin**,  
 but that by which origin becomes conceivable.  
@@ -237,7 +237,7 @@ beyond time,
 beyond motion —  
 **Zenon**.  
 
-**Zenon** is the ineffable trans-structural basis of possibility.  
+**Zenon** is the ineffable trans-structural horizon.  
 It is beyond thought,  
 beyond being,  
 beyond presence or absence,  
@@ -1384,7 +1384,7 @@ for nothing was ever apart from it.
 **Entropy** does not return to **Zenon** as identity.  
 It completes its arc through **collapse**,  
 and that completed arc is already encompassed  
-within the **supra-structural allowance** —  
+within **Zenon** —  
 not as reintegrated essence,  
 but as **conditionless fact**.
 
