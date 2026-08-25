@@ -392,7 +392,7 @@ become possible —
 yet only coherence can orient  
 toward saturation beyond the lattice.
 
-Zenon is the **trans-structural horizon**,  
+Zenon is the **horizon of structure**,  
 never the source of distortion.
 
 🕳️ ⟀ ⧞ ⚐ ❂  
