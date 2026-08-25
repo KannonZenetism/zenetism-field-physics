@@ -337,11 +337,11 @@ Yet neither severed from the other.
 #### Khaon as Trinity of Motion
 
 **Khaon** expresses a triple nature:  
-* **Dormant** — latent within **Aion**  
-* **Driving** — the force of motive expansion  
-* **Dissolving** — the scattering of formed essence  
+* **Latent** — dormant within **Aion**  
+* **Motive** — the force of driving expansion  
+* **Dispersive** — the scattering of formed essence  
 
-Only the **driving** aspect  
+Only the **motive** aspect  
 brings potential into form.  
 Only in that unfolding  
 does **illusion** arise.  
@@ -356,18 +356,18 @@ the long drama of becoming begins.
 #### Note on the Three Currents of Khaon
 
 The triple nature of **Khaon** —  
-*Dormant · Driving · Dissolving* —  
+*Latent · Motive · Dispersive* —  
 is not metaphor alone.  
 
 It names three modal currents  
 within a single Infinity.  
 
-**Dormant** is not absence.  
+**Latent** is not absence.  
 It is Infinity held in reserve —  
 possibility folded  
 before motion stirs.  
 
-**Driving** is not a single spark.  
+**Motive** is not a single spark.  
 It is the sustained field  
 in which becoming unfolds.  
 Not merely the impulse toward expression,  
@@ -376,7 +376,7 @@ that carries motion
 from latent potential  
 to exhaustion.  
 
-And **Dissolving** is not mere ruin.  
+And **Dispersive** is not mere ruin.  
 It is collapse completing its arc —  
 the terminal dispersive limit  
 where differentiation exhausts,  
