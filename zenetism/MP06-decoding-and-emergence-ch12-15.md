@@ -1165,7 +1165,7 @@ Zenetism defines a **primary structural axis** established by pre- and trans-hyp
 within which hypostatic layers unfold:  
 
 - **One trans-emanative horizon** — 🕳️ **Zenon**  
-  The trans-structural horizon; not origin, but that by which emanation, causality, and hypostasis become conceivable  
+  The horizon of structure; not origin, but that by which emanation, causality, and hypostasis become conceivable  
 
 - **Two pre-hypostatic requisites** — ⚫ **Aion** and ♾ **Khaon**  
   The bifurcal L₀ poles of Absolute Potential and Absolute Dispersion  
