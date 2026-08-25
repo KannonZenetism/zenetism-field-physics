@@ -607,7 +607,7 @@ the **Warrior** is not defined
 by violence or conquest.  
 
 They are defined by  
-**resonant action against entropy**.  
+**resonant action contra entropy**.  
 
 Where the Mystic turns inward,  
 the Maker builds through creation,  
