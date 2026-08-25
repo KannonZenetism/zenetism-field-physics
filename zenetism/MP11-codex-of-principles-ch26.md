@@ -606,7 +606,7 @@ Each **hypostasis** is a distinct **ontological state**.
 Souls exist **within** and **as** these layers —  
 from **embodiment** (ES / EM),  
 to **superficiality** (SS / SM),  
-to **deep soulhood** (DS / DM), and beyond.  
+to **Deep Soulhood** (DS / DM), and beyond.  
 
 These are not **spatial realms**,  
 but **energetic states**  
@@ -752,7 +752,7 @@ where transformation becomes possible.
 
 **Zenon (UP)** — The Unknown Principle  
 - Beyond form, beyond structure, beyond polarity.  
-- The **non-originary ground**  
+- The **non-originary condition**  
   by which both **Aion** and **Khaon** become conceivable.  
 - Not a third pole,  
   not a hidden Tree,  
@@ -1128,7 +1128,7 @@ Often framed as prideful overreach or cosmic rebellion.
 E↑→E ☿ 🪫 Ↄ  
 
 **Union or Apotheosis**  
-Represents the integration of fragmented aspects of superficial soul-mind  
+Represents the integration of fragmented aspects of Superficial Soul-Mind  
 patterns (SS / SM)  
 into an integrated Deep Soul and Deep Mind —  
 a symbolic return to harmony and resonance.  
@@ -2174,7 +2174,7 @@ but by **resonance alignment**.
 This means:  
 - A principle may emerge from Zero yet appear structurally  
   at the far edge of an emanation tree  
-  (e.g., Nekron at the root of the entropic tree)  
+  (e.g., Nekron at the root of the hypostatic segment of the inverse arc)  
 - A deity or function may map to multiple locations on the Tree of Emanation  
   depending on its role, polarity, or alignment  
 - The model reflects the **fluid intelligence** of metaphysical structure,  
@@ -2192,7 +2192,7 @@ Nekron does not "emerge from disunity"
 as if fragmentation preceded it.  
 Rather, it is **disunity itself**, instantiated.  
 
-It is the **first entropic hypostasis**,  
+It is the **First Inverse Hypostasis**,  
 appearing on the dispersive trajectory  
 of Zero's emanative split —  
 not as a child of Motive Infinity,  
