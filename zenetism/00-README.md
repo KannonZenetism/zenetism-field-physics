@@ -10,7 +10,7 @@
 
 This deposit contains the metaphysical, philosophical, and ethical framework of Zenetism.
 
-Its centre is a single work in twelve files. *The Architecture of Emanation, Return, and Saturation* is the origin document of the framework — twenty-six chapters, an afterword, and the Symbol Key — and everything else in the corpus, across all six disciplines, grows from it. It settles architecture; where a later direct entry treats a question the chapters touch only in passing, see the precedence rule below.
+Its center is a single work in twelve files. *The Architecture of Emanation, Return, and Saturation* is the origin document of the framework — twenty-six chapters, an afterword, and the Symbol Key — and everything else in the corpus, across all six disciplines, grows from it. It settles architecture; where a later direct entry treats a question the chapters touch only in passing, see the precedence rule below.
 
 ---
 
@@ -33,7 +33,7 @@ Read in order, the twelve files run a single arc: what precedes structure, what 
 | `MP11-codex-of-principles-ch26.md` | 26 | The Codex of Principles, in twenty-five sections |
 | `MP12-afterword-mp.md` | Afterword | The circle remains open |
 
-**Where to begin.** MP01 for the architecture, or MP08 if you want the whole system in compact form first. MP08 is where every other file is checked against when a question arises; `metaphysics-symbol-key.md` is its chart-only twin, identical from §21.1 onward and kept in sync by re-derivation from MP08 rather than by separate revision.
+**Where to begin.** MP01 for the architecture, or MP08 if you want the whole system in compact form first. MP08 is what every other file is brought into agreement with when a question arises; `metaphysics-symbol-key.md` is its chart-only twin, identical from §21.1 onward and kept in sync by re-derivation from MP08 rather than by separate revision.
 
 ---
 
@@ -72,13 +72,13 @@ The vocabulary and formatting of this corpus are held in a small set of files. T
 - `prose-formatting-reference.md` — registers, header case, seals, spacing, and document conventions
 - `compact-architecture-revision-audit-guide.md` — the condensed audit reference, with the sentence test and the validation checklist
 
-Corrections are made against these files, not against precedent in the text. Any engagement with this material is subject to the attribution condition stated below.
+Corrections follow these files, not precedent in the text. Any engagement with this material is subject to the attribution condition stated below.
 
 ---
 
 ## Beyond this deposit
 
-The framework extends past the origin document. The repository holds the **MPX entries** — dated extensions that treat particular doctrines beyond what the chapters state, and the most actively developed material in the corpus — together with glossaries, doctrinal statements, structural diagrams, symbolic-reflection essays, glyph provenance records, and the canonical stabilization records that document conformance work on these twelve files.
+The framework extends past the origin document. The repository holds the **MPX entries** — dated extensions that treat particular doctrines beyond what the chapters state, and the most actively developed material in the corpus; where such an entry is more recent and treats a question directly, it is the operative reference for that question — together with glossaries, doctrinal statements, structural diagrams, symbolic-reflection essays, glyph provenance records, and the canonical stabilization records that document conformance work on these twelve files.
 
 The **standards** named above are held in the same repository, under `the-zenetist-canon/canonical-stabilization/`.
 
