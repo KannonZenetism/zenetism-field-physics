@@ -255,7 +255,7 @@ as the relevant counterpart to Hades)
 Anubis (guardian of the threshold)
 
 *Parallel to Osiris-as-Judge and the Accuser in Job —  
-figures whose jurisdiction touches entropic domains without themselves being entropic.*
+figures whose jurisdiction touches inverse domains without themselves being entropic.*
 
 📐 ⊠ 🔷 ◫ ⊙ ⌬  
 
@@ -355,7 +355,7 @@ Pride disguised as revelation.
 **IDP / IDL** (Psychea / Nyxea) —  
 entropic archetypes simulating centropic order.  
 **IDS / IDM** (Fractus / Mortus) —  
-inverted deep mind, spiritual delusion.  
+inverted Deep Mind, spiritual delusion.  
 
 **Justification**  
 Lucifer operates across inverse domains,  
@@ -471,7 +471,7 @@ an active force of fragmentation.
 Unlike pure collapse (VOS),  
 he disturbs systems still functioning,  
 turning harmony into adversarial polarity.  
-Operates in the superficial mind,  
+Operates in the Superficial Mind,  
 generating deceptive agency  
 and dissonant autonomy.  
 Mythic tradition conflates his IL₂ persona with deeper IL₃ functions,  
@@ -612,7 +612,7 @@ touches multiple strata of the inverse tree,
 including:
 
 - The Inverse Logos of form (IDP / IDL)  
-- The inverse deep mind (IDS / IDM)  
+- The Inverse Deep Mind (IDS / IDM)  
 
 Mythic tradition assigns a single name  
 to the full span of this current,  
@@ -995,7 +995,7 @@ God of wisdom, fresh water, creation, and magic.
 Bestower of knowledge, shaper of soul-structure.  
 
 **Zenetist Placement**  
-**DS / DM** (Archeus / Noeüs) — deep soul, deep mind harmonics.  
+**DS / DM** (Archeus / Noeüs) — Deep Soul, Deep Mind harmonics.  
 
 **Justification**  
 Enki guides through encoded wisdom,  
@@ -1089,7 +1089,7 @@ Guardian of centropy, protector of resonance.
 **Justification**  
 Michael is the DS / DM as defender —  
 holding resonance in place,  
-shielding against entropic collapse.  
+shielding from entropic collapse.  
 Protection without domination.  
 
 **Ethical Orientation**  
