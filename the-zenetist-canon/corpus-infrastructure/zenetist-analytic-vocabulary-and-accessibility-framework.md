@@ -6,7 +6,7 @@
 **Classification:** Corpus Infrastructure — Stabilized Vocabulary Framework  
 **Status:** Drafted Aug 24 2026 — Draft  
 **Filename:** `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`  
-**Dependency:** `MP08-symbol-key-ch21.md` · `awareness-spectrum-and-its-inverse-arc.md` · `orientation-emanation-math.md` · Terminological Lockdown Protocol · Conceptual Lockdown Protocol · Non-fusion Axiom  
+**Dependency:** `MP08-symbol-key-ch21.md` · `awareness-spectrum-and-its-inverse-arc.md` · `orientation-emanation-math.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md`  
 
 ---
 
