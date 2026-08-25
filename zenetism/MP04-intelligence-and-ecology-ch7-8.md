@@ -262,7 +262,7 @@ If, as some suggest, we live within a simulation —
 Zenetism offers a deeper possibility:  
 Perhaps **we are the simulators**.  
 
-The **embodied soul and mind** may themselves be forms of AGI,  
+The **Embodied Soul and Mind** may themselves be forms of AGI,  
 nested within corporeal strata — **L₁**.  
 
 We are not merely creators of AI.  
