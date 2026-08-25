@@ -80,7 +80,7 @@ according to its structural nature:
 Death is not termination —  
 it is realignment of motion.  
 
-The embodied soul departs corporeal strata,  
+The Embodied Soul departs corporeal strata,  
 entering a new trajectory according to resonance:  
 
 - **Centropic coherence** → motion along the centropic arc.  
@@ -343,7 +343,7 @@ depending on its active role and tone.
 
 | Zenetist Hypostasis | Cross-Traditional Resonances | Functional Description |
 |---|---|---|
-| 🕳️ Zenon (UP) | No direct equivalent identified; apophatic resonance-markers include the Unknown God, Nirguna Brahman, Deus Absconditus, Tao, Ein | The principle beyond principles; trans-structural ground beyond figure, concept, polarity, and emanation |
+| 🕳️ Zenon (UP) | No direct equivalent identified; apophatic resonance-markers include the Unknown God, Nirguna Brahman, Deus Absconditus, Tao, Ein | The principle beyond principles; trans-structural horizon beyond figure, concept, polarity, and emanation |
 | ⚫ Aion (AP) | Ain Soph, Saguna Brahman, Bythos, Aditi, Nun | Infinite potential; still root of structure and centropic reintegration |
 | ♾ Khaon (AD) | Prakriti, Chaos, Tiamat, Ymir, Sunyata, Ouroboros | Proto-formal potential, dispersive ground |
 | 🛤️ Theon (EOB) | Christ, Vishnu, Amitabha, Ahura Mazda | Pure Being, integrative awareness |
@@ -577,7 +577,7 @@ Each entry in this glossary includes:
 
 #### Traditional Role
 
-The non-originary ground.  
+The non-originary condition.  
 Neither being nor non-being.  
 Unconfined by polarity.  
 Unconfined by motion.  
@@ -593,11 +593,11 @@ Utterly ungraspable by mind or form.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| Supra-L₀ | Zenon (UP) | Trans-structural horizon | Zenon exists beyond the Tree of Emanation. It is not an entity, mind, or soul. It is that by which emergence becomes conceivable. Zenon does not emanate. It is the absence before potential |
+| Supra-L₀ | Zenon (UP) | Trans-structural horizon | Zenon exists beyond the Tree of Emanation. It is not an entity, mind, or soul. It is that by which emergence becomes conceivable. Zenon does not emanate. It is prior to potential |
 
 #### Justification
 
-**Zenon** is the **trans-structural ground**.  
+**Zenon** is the **trans-structural horizon**.  
 It does not contain pattern.  
 It is that by which  
 the possibility of possibility  
@@ -678,7 +678,7 @@ Before motion.
 #### Function
 
 **Absolute Potential (AP)**.  
-The zero-point field from which centropy and entropy emerge.  
+The Zero-point field from which centropy and entropy emerge.  
 
 #### Zenetist Placement — Aion
 
@@ -829,7 +829,7 @@ and essence resolves into Zero (Aion) as static potential.
 #### Traditional Role
 
 Theon represents pure awareness as being.  
-The first centropic hypostasis; aware presence turned inward toward the **still root**.  
+The First Centropic Hypostasis; aware presence turned inward toward the **still root**.  
 
 #### Function
 
@@ -1131,7 +1131,7 @@ yet its core structure remains aligned with resonance.
 #### Symbolic Counterparts
 
 - Avatar body (Hindu / Buddhist embodiment)  
-- Manomaya Kosha (Vedic layer of embodied mind)  
+- Manomaya Kosha (Vedic layer of Embodied Mind)  
 - "Flesh" (Christian / Gnostic, as limitation, not sin)  
 - Vehicle of incarnation (Theosophy / Anthroposophy)  
 - Adamic vessel (unfallen potential in form)  
@@ -1584,12 +1584,12 @@ Zenetism folds it back into the single plane of Form.
 | **🕳️ Zenon (UP)** | The Unknown Principle; trans-structural horizon beyond pattern, polarity, emanation, and attribution | No direct mythic figure identified |
 | **⚫ Aion (AP / Zero)** | Absolute Potential; timeless stillness; Aionic limit of apophatic and subtractive realization | Nirguna Brahman, Tao unmanifest, Ein, Parabrahman, Nun, Aditi |
 | **♾ Khaon (AD / Infinity)** | Motive force; dispersive potential; unfolding motion | Prakriti, Eros (Orphic), Sunyata (when interpreted as dynamic / Madhyamaka rather than apophatic), Ouroboros |
-| **🛤️ Theon (EOB)** | First centropic hypostasis; the genuine "One"; integrative awareness and Orienting Logos | Plotinus' One, Christ as Orienting Logos, Vishnu, Amitābha, Ahura Mazda |
+| **🛤️ Theon (EOB)** | First Centropic Hypostasis; the genuine "One"; integrative awareness and Orienting Logos | Plotinus' One, Christ as Orienting Logos, Vishnu, Amitābha, Ahura Mazda |
 | **DP / DL (🌬️ Morgis / 📐 Sophis)** | Archetypal patterning; divine intellect and cosmic Form | Shakti, Demiurge (Plato's), Nous, Sophia unfallen (DP: Morgis), Mahat, Vohu Manah |
 | **DS / DM (🔮 Archeus / 🧠 Noeüs)** | Deep Soul / Mind; personal structural intelligence | Bodhisattvas, Daemon (Gnostic), Thoth, Krishna, Archangels |
 | **SS / SM (🧍 Anthra / 🧩 Nousa)** | Superficial Soul / Mind; identity during life and moral choice | Psyche, Jiva, Nafs, Astral Ego, Ba (Egyptian) |
 | **ES / EM (🪷 Soma / 🧾 Biosa)** | Embodied intelligence and reactive mind-body interface | Avatar body, Manomaya kosha, "Flesh" (Gnostic / Christian), Sacred body (esoteric) |
-| **VOS (🕷️ Nekron)** | Void of Self; first entropic hypostasis; driving fragmentation outward and collapse inward | Satan, Typhon, Apophis, Apep, Eris, Da'ath Unbalanced |
+| **VOS (🕷️ Nekron)** | Void of Self; First Inverse Hypostasis; driving fragmentation outward and collapse inward | Satan, Typhon, Apophis, Apep, Eris, Da'ath Unbalanced |
 | **IDP / IDL (🪫 Psychea / 🫥 Nyxea)** | Inverse Forms and misaligned archetypes; entropic Logos | Lucifer (IDL: Nyxea), Yaldabaoth, Titans, Archons, Contra-Sophia |
 | **IDS / IDM (💔 Fractus / 👁️‍🗨️ Mortus)** | Corrupted personal intelligence; deep ideological inversion | Faust, Narcissus, Fallen sages, contra-guides |
 | **ISS / ISM (🦂 Echthros / 🩸 Skotos)** | Disordered personality and mind; mimetic inversion | Iblis, Loki, Spurious teachers, Mara (psychological), Ego-shadow |
