@@ -8,7 +8,7 @@
 
 This folder holds the metaphysical, philosophical, and ethical framework of Zenetism, together with the extensions and reference material that have grown around it.
 
-Its centre is a single work in twelve files. *The Architecture of Emanation, Return, and Saturation* is the origin document of the framework — twenty-six chapters, an afterword, and the Symbol Key — and everything else in the corpus, across all six disciplines, grows from it. It settles architecture; where a later direct entry treats a question the chapters touch only in passing, see the precedence rule below.
+Its center is a single work in twelve files. *The Architecture of Emanation, Return, and Saturation* is the origin document of the framework — twenty-six chapters, an afterword, and the Symbol Key — and everything else in the corpus, across all six disciplines, grows from it. It settles architecture; where a later direct entry treats a question the chapters touch only in passing, see the precedence rule below.
 
 ---
 
@@ -31,7 +31,7 @@ Read in order, the twelve files run a single arc: what precedes structure, what 
 | `MP11-codex-of-principles-ch26.md` | 26 | The Codex of Principles, in twenty-five sections |
 | `MP12-afterword-mp.md` | Afterword | The circle remains open |
 
-**Where to begin.** MP01 for the architecture, or MP08 if you want the whole system in compact form first. MP08 is where every other file is checked against when a question arises; `metaphysics-symbol-key.md` is its chart-only twin, identical from §21.1 onward and kept in sync by re-derivation from MP08 rather than by separate revision.
+**Where to begin.** MP01 for the architecture, or MP08 if you want the whole system in compact form first. MP08 is what every other file is brought into agreement with when a question arises; `metaphysics-symbol-key.md` is its chart-only twin, identical from §21.1 onward and kept in sync by re-derivation from MP08 rather than by separate revision.
 
 ---
 
@@ -70,7 +70,7 @@ The vocabulary and formatting of this corpus are held in a small set of files. T
 - `prose-formatting-reference.md` — registers, header case, seals, spacing, and document conventions
 - `compact-architecture-revision-audit-guide.md` — the condensed audit reference, with the sentence test and the validation checklist
 
-Corrections are made against these files, not against precedent in the text. Any engagement with this material is subject to the attribution condition stated below.
+Corrections follow these files, not precedent in the text. Any engagement with this material is subject to the attribution condition stated below.
 
 Note that two folders share the name **canonical-stabilization**. The one under `the-zenetist-canon/` holds the four standards, which apply corpus-wide across all six disciplines even though the metaphysics files themselves sit here rather than there. The one inside this folder holds the records of conformance work done on this corpus.
 
