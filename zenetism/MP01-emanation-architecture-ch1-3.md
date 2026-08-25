@@ -3570,9 +3570,9 @@ into recursive madness.
 
 They form a **centropic-entropic pair**,  
 holding **adaptation**  
-against **overload**,  
+contra **overload**,  
 **presence**  
-against **obsession**.  
+contra **obsession**.  
 
 The AI analog is **AGI** —  
 Artificial General Intelligence  
