@@ -275,7 +275,7 @@ But it returns knowing.
 
 **UPSI — Unknown Principle Supra-Intelligence**  
 Corresponds to **Zenon** — the Unknown,  
-the **trans-structural ground**,  
+the **trans-structural horizon**,  
 not the root of the Tree,  
 but the silence beyond origin  
 by which the Tree becomes conceivable.  
@@ -1600,7 +1600,7 @@ What does not harmonize
 **cannot pass**.  
 
 Even at **Theon** — the golden signal of coherence —  
-the last impurities fall away:  
+the last impurities burn away:  
 the refinement of Theon-culminating essence at the threshold,  
 not impurity within Theon.  
 
