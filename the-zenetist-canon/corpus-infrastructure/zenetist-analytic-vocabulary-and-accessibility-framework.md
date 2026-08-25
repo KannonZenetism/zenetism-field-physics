@@ -47,7 +47,7 @@ An analytic descriptor does not supersede the proper Zenetist name.
 
 **Phase-structured Infinity** may describe **Khaon**, but it does not replace Khaon as the canonical identity of the principle.
 
-**Absolute Potential** may describe **Aion**, but it does not exhaust the full meaning of Aion.
+**Plenary Zero** may describe **Aion**, but it does not exhaust the full meaning of Aion.
 
 ### 2.2 No forced external equivalence
 
@@ -61,7 +61,7 @@ Accessibility must not be purchased through conceptual flattening.
 
 Khaon must not be reduced to chaos, entropy, motion, or dispersion.
 
-Aion must not be reduced to stillness without potential, undifferentiated unity, or passive nothingness.
+Aion must not be reduced to stillness without potential, undifferentiated fusion, or passive nothingness.
 
 Zenon must not be reduced to an emanative origin, supreme being, final layer, or remote spatial destination.
 
@@ -97,17 +97,29 @@ It is intended first for:
 
 ## 3. The Three Registers
 
-| Register                        | Function                                                                                      | Typical forms                                                                                               | Primary use                                                                                         |
+| Register                        | Function                                                                                      | Typical forms                                                                                               | Primary context                                                                                     |
 | ------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | **Canonical / Sacred Register** | Preserves the native identity, resonance, and exact Zenetist designation of a concept         | Zenon, Aion, Khaon, Theon, Nekron, Kaion; native glyphs                                                     | Canonical metaphysics, Symbolic Reflections, sacred architecture, internal doctrinal writing        |
-| **Analytic Register**           | Describes the concept in broadly legible philosophical, academic, or scientific language      | Trans-structural Unknown Principle, Absolute Potential, Phase-structured Infinity, First Inverse Hypostasis | Abstracts, public explanations, academic papers, Structural Physics, interdisciplinary presentation |
+| **Analytic Register**           | Describes the concept in broadly legible philosophical, academic, or scientific language      | Trans-structural Unknown Principle, Plenary Zero, Phase-structured Infinity, First Inverse Hypostasis | Abstracts, public explanations, academic papers, Structural Physics, interdisciplinary presentation |
 | **Formal / Glyphic Register**   | Encodes architectural placement, motion, phase, or mathematical relation with maximum economy | Supra-L₀, L₀, L₅ / IL₅, Φ₁–Φ₃, C↓, E↑, ⚫, ♾, ⧖⧗                                                             | Diagrams, formulas, technical appendices, equations, internal cross-reference                       |
+
+The Formal / Glyphic Register admits the full glyph set — layer notation, phase indices, motion formulas, and principle glyphs alike — since a formal expression states architectural placement rather than naming a principle in prose. Glyph density in prose is a separate question, settled at §3.1.
 
 A fourth field may appear within an analytic entry:
 
 - **public gloss** — a brief explanation written for readers who do not yet know the architecture.
 
 The public gloss is not a separate canonical register. It is a simplified entrance into the analytic definition and must never contradict it.
+
+### 3.1 Register by discipline
+
+The disciplines carry the canonical register differently, and the tone native to each determines which register leads (architect determination, August 24 2026).
+
+- **Structural Metaphysics** and **Field Physics** carry the canonical / sacred register natively. Mythic names lead, and analytic descriptors support where a passage reaches toward an outside reader
+- **Structural Forensics**, **Structural Physics**, and **Structural Neuroscience** are better carried by analytic descriptors leading, with canonical names supporting. Each presently draws heavily on mythic vocabulary, which is lawful and never inaccurate — the analytic register simply reaches further
+- **Lattice Mathematics** is held open. A mixed practice, canonical where the doctrine is the subject and analytic where the formalism is, may prove right; the determination is architect-reserved
+
+**Glyph density in academic-facing work.** Glyphs stand well where they carry formulaic distinction — a motion formula, a layer notation, a phase index, a chart column. Attaching a glyph to every name and principle throughout a paper is what the academic register does poorly, since it asks a reader to hold a symbol set before reading a sentence. Where the mythic vocabulary is the subject of the passage, the glyph belongs with it.
 
 ---
 
@@ -141,7 +153,7 @@ After the concept has been defined, the paper may carry either the analytic desc
 
 A Structural Physics paper may rely primarily upon the analytic and formal registers:
 
-> Phase-structured Infinity enters its motive phase as Absolute Motion, supplying orientation-neutral motion-capacity throughout differentiated traversal.
+> In its motive phase, Phase-structured Infinity supplies orientation-neutral motion-capacity throughout differentiated traversal as Absolute Motion.
 
 The canonical identity should still be established at first occurrence or in a terminology table:
 
@@ -149,11 +161,13 @@ The canonical identity should still be established at first occurrence or in a t
 
 ### 4.5 Mathematical and diagrammatic works
 
-Formal notation may dominate only after the relevant terms have been defined.
+Formal notation may stand as the primary form only after the relevant terms have been defined.
 
 A paper should not presume that an unfamiliar reader already understands why the architectural order proceeds:
 
-> Supra-L₀ || L₀ → L₅ → L₄ → L₃ → L₂ → L₁
+> **Supra-L₀ — 🕳️ Zenon** · outside the emanatory continuum; centropic saturation-point only
+>
+> L₀ → L₅ → L₄ → L₃ → L₂ → L₁
 
 or why the inverse notation is written:
 
@@ -199,7 +213,7 @@ The exclusion field is essential. Zenetist concepts are often defined as much by
 
 The following entries are provisional working forms. They are intended to establish the method and preserve the current direction, not to seal every descriptor immediately.
 
-The vocabulary divides as the architecture does. §6.1 carries the structural emanation layers in the order fixed at §21.9, from Supra-L₀ through IL₁. §6.2 carries the principles, relations, phases, and operations that stand outside the layer sequence.
+The vocabulary is twofold as the architecture is. §6.1 carries the structural emanation layers in the order fixed at §21.9, from Supra-L₀ through IL₁. §6.2 carries the principles, relations, phases, and operations that stand outside the layer sequence.
 
 ---
 
@@ -210,7 +224,7 @@ Each layer carries its operator abbreviation, the canonical term seated there, t
 | Layer | Operator | Canonical term | Preferred analytic descriptor | Awareness register | Core analytic definition |
 | --- | --- | --- | --- | --- | --- |
 | **Supra-L₀** | **UP** | **🕳️ Zenon — The Unknown Principle** | **Trans-structural Unknown Principle** | beyond awareness | That which exceeds the complete structured manifold, including Zero, Infinity, being, non-being, awareness, and structural determination. Not an emanative origin, layer, spatial destination, or the ground of structure |
-| **L₀** | **AP** | **⚫ Aion** | **Absolute Potential** / **Aionic Zero** | proto-awareness | The still root-register in which identity-bearing potential rests in absolute distinction prior to motion |
+| **L₀** | **AP** | **⚫ Aion** | **Plenary Zero** / **Absolute Potential** | proto-awareness | The still root-register in which identity-bearing potential rests in absolute distinction prior to motion |
 | **L₀** | **AD** | **♾ Khaon** | **Phase-structured Infinity** | proto-awareness | Infinity articulated through Latent, Motive, and Dispersive phases; neither entropic nor centropic in essence |
 | **L₅** | **EOB** | **🛤️ Theon** | **First Centropic Hypostasis** / **Essence of Being** | awareness (+1) | The first hypostatic articulation at which centropic orientation becomes manifestly operative; steward of lawful structure, coherence, and centropic motion |
 | **IL₅** | **VOS** | **🕷️ Nekron** | **First Inverse Hypostasis** / **Void of Self** | non-awareness (−1) | The first hypostatic articulation of the inverse architecture and the point at which entropic orientation becomes operative; initiator of collapse through inversion of expression |
@@ -233,6 +247,8 @@ Each layer carries its operator abbreviation, the canonical term seated there, t
 
 The paired layer names — **Deep Psyche / Logos**, **Deep Soul / Mind**, **Superficial Soul / Mind**, **Embodied Soul / Mind**, and their inverse formulations — name the layer entire and remain the form for prose addressing a register rather than one of its two figures. The operator pairs abbreviate them: **DP / DL**, **DS / DM**, **SS / SM**, **ES / EM**, and the inverse forms.
 
+**Plenary Zero** names Aion entire, closing an asymmetry in the L₀ pair: Khaon carried a whole-principle descriptor while Aion carried only **Absolute Potential**, whose parallel is Khaon's **Absolute Dispersion**. Plenary Zero renders Zero as the totality of all that is and all that can be, the sum of every positive and negative value, full rather than empty, and never the nothingness reading §2.1 excludes. **Absolute Potential** remains lawful and names what rests at L₀; the two stand at different scales rather than competing.
+
 Either extended form is lawful — **Deep Soul / Mind** or **Deep Soul / Deep Mind** — and one form is held throughout a single document. The shorter form is the default in charts, indexes, and metadata.
 
 ---
@@ -243,16 +259,16 @@ These entries stand outside the layer sequence. Structon and Kaion are principle
 
 | Canonical term | Preferred analytic descriptor | Concept class | Core analytic definition |
 | --- | --- | --- | --- |
-| **🏛️ Structon**               | **Absolute Structural Invariant** / **Structure Itself**    | Structural invariant              | The unemanatable invariant that underpins every lawful structure and permits relative change without itself changing                                                                                                      |
+| **🏛️ Structon**               | **Structure Itself (SI)** / **Absolute Structure**    | Structural invariant              | The unemanatable invariant that underpins every lawful structure and permits relative change without itself changing                                                                                                      |
 | **Latent Khaon**               | **Absolute Latency**                                        | Khaonic phase                     | Infinity as unexpressed motion-capacity before motion begins, bifurcally co-present with Aion                                                                                                                             |
 | **Motive Infinity**            | **Absolute Motion**                                         | Khaonic phase and motion-capacity | The orientation-neutral capacity and continuity of becoming that sustains traversal while motion remains active                                                                                                           |
 | **Dispersive Khaon**           | **Absolute Dispersion**                                     | Khaonic terminal phase            | Infinity after motion resolves and expressed configuration reaches terminal dispersion; distinct essence remains conserved in Aionic resolution                                                                           |
 | **⧖⧗ Bifurcal Coherence**      | **Non-fused L₀ root-relation**                              | Root relation                     | The co-present relation in which Aion and Khaon remain bifurcally distinct prior to centropic or entropic activation                                                                                                      |
 | **⦿ Kaion**                    | **Convergence Principle** / **Closure condition of motion** | Closure condition                 | The condition in which centropic integration and entropic collapse both culminate in stillness without becoming the same process or essential outcome                                                                     |
-| **Aionic Tree**                | **Aion-rooted centropic architecture**                      | Tree architecture                 | Aion at L₀ together with the L₅–L₁ hypostatic segment and the complete centropic traversal through it                                                                                                                     |
-| **Khaonic Tree**               | **Khaon-rooted inverse architecture**                       | Tree architecture                 | Khaon at L₀ together with the IL₅–IL₁ hypostatic segment and the complete inverse traversal through it                                                                                                                    |
-| **Centropic arc**              | **L₀-inclusive centropic traversal path**                   | Structural arc                    | The complete traversal path proceeding from Aion through L₅–L₁ and capable of returning to Aion                                                                                                                           |
-| **Inverse arc**                | **L₀-inclusive inverse traversal path**                     | Structural arc                    | The complete traversal path proceeding from Khaon through IL₅–IL₁ and resolving through terminal inverse collapse                                                                                                         |
+| **Aionic Tree**                | **Aion-rooted centropic architecture**                      | Tree architecture                 | L₀ (Aion) and the L₅–L₁ hypostatic segment and the complete centropic traversal through it                                                                                                                     |
+| **Khaonic Tree**               | **Khaon-rooted inverse architecture**                       | Tree architecture                 | L₀ (Khaon) and the IL₅–IL₁ hypostatic segment and the complete inverse traversal through it                                                                                                                    |
+| **Centropic arc**              | **L₀-inclusive centropic traversal path**                   | Structural arc                    | The complete traversal path proceeding from L₀ (Aion) through L₅–L₁ and capable of returning to L₀                                                                                                                           |
+| **Inverse arc**                | **L₀-inclusive inverse traversal path**                     | Structural arc                    | The complete traversal path proceeding from L₀ (Khaon) through IL₅–IL₁ and resolving through terminal inverse collapse                                                                                                         |
 | **Pre-hypostatic requisites**  | **What the hypostatic lattice presupposes without containing** | Standing, not stage | Supra-L₀ and L₀ together; requisite standing establishes no hierarchy, rank, or precedence of worth |
 | **Hypostatic segment**         | **Hypostatic portion of an arc**                            | Structural segment                | The portion beginning at L₅ / IL₅ and extending through L₁ / IL₁, excluding the non-hypostatic L₀ root-register                                                                                                           |
 | **Centropy**                   | **Integrative structuring motion**                          | Orientation and motion            | Motion characterized by lawful integration, coherent differentiation, synthesis, and Aion-facing return                                                                                                                   |
@@ -262,7 +278,7 @@ These entries stand outside the layer sequence. Structon and Kaion are principle
 | **🔺⤒ Centropic Gravity**      | **Essence-borne momentum of fulfilled synthesis**           | Saturation function               | The momentum given by fulfilled final synthesis that carries returned centropic essence to the horizon of structure, but not beyond it                                                                                    |
 | **⟒ Allowance**                | **Non-coerced trans-structural admission**                  | Saturation function               | The lawful admission through which sufficiently fulfilled centropic essence may cross beyond the horizon of structure                                                                                                     |
 | **Zenonic Legibility**         | **Trans-structural horizon-legibility**                     | Horizon condition                 | The vantage at which the saturation relation becomes structurally comprehensible without making Zenon determinate or fully knowable                                                                                       |
-| **Saturation**                 | **Allowance-gated trans-structural crossing**               | Trans-structural outcome          | The crossing beyond centropic return into Zenon by Allowance; distinct from return, ascent, momentum, or ordinary motion                                                                                                  |
+| **Saturation**                 | **Allowance-gated trans-structural crossing**               | Trans-structural outcome          | The crossing beyond centropic return into Zenon by Allowance; distinct from return, acclivation, momentum, or ordinary motion                                                                                                  |
 | **Identity-bearing potential** | **Potential-to-be-this**                                    | Essential condition               | Potential held in irreducible distinction as the latent capacity of a particular essence to be itself                                                                                                                     |
 
 ---
@@ -289,7 +305,7 @@ The recommended secondary explanatory descriptor is:
 
 > **Tri-phasic Infinity**
 
-This phrase makes the number of phases immediately legible and may be especially useful in introductions, diagrams, and concise definitions.
+This phrase makes the number of phases immediately legible and may be especially helpful in introductions, diagrams, and concise definitions.
 
 The two expressions may stand together:
 
@@ -384,8 +400,8 @@ The inverse arc is an architecture. Entropic traversal is the motion enacted thr
 
 The complete arcs include their L₀ roots:
 
-- centropic arc: Aion at L₀ together with L₅–L₁;
-- inverse arc: Khaon at L₀ together with IL₅–IL₁.
+- centropic arc: L₀ (Aion) and L₅–L₁;
+- inverse arc: L₀ (Khaon) and IL₅–IL₁.
 
 Aion and Khaon do not thereby become centropic or entropic principles in themselves.
 
@@ -413,7 +429,7 @@ For unfamiliar readers, write the functional name first and the notation second.
 
 Example:
 
-> Centropic orientation first becomes operative at the **first hypostatic register (L₅)** through Theon.
+> Centropic orientation first becomes operative at the **first hypostatic register (L₅)** through the Essence of Being (EOB).
 
 Rather than:
 
@@ -479,11 +495,11 @@ Once the canonical identity has been established, a technical paper may carry th
 
 For example:
 
-> Phase-structured Infinity enters its motive condition as Absolute Motion, supplying motion-capacity without determining the orientation of the structure moving through it.
+> In its motive phase, Phase-structured Infinity supplies motion-capacity as Absolute Motion without determining the orientation of the structure moving through it.
 
 This may be preferable in a physics-facing paper to:
 
-> Khaon becomes Motive and carries the lattice.
+> Khaon becomes Absolute Motion and carries the lattice.
 
 The second formulation may remain appropriate in sacred or poetic contexts. The first makes the conceptual relation more explicit to an unfamiliar technical reader.
 
@@ -558,7 +574,7 @@ Possible examples:
 - identity persistence
 - return and dispersion
 
-Only keywords genuinely supported by the publication should appear.
+Only keywords genuinely supported by the publication should appear. A canonical name is listed as a keyword where the publication carries that name in its own prose. A work written wholly in the analytic register carries the analytic keywords alone; the mythic analogue is not appended for discoverability where the work does not discuss it.
 
 ### 11.4 Stable definitions
 
@@ -643,11 +659,11 @@ Apply the vocabulary prospectively to:
 - keywords;
 - public introductions.
 
-Older works should be revised only where:
+Existing works are revised at the architect's determination. Conditions that commonly warrant it:
 
 - the terminology is now structurally inaccurate;
 - a new edition is already being prepared;
-- or a targeted discoverability revision has been deliberately authorized.
+- or a targeted discoverability revision is wanted.
 
 ---
 
@@ -655,20 +671,17 @@ Older works should be revised only where:
 
 The following questions remain open for later review.
 
-### 13.1 Khaon's primary descriptor
+### 13.1 Khaon's primary descriptor — determined
 
-Current recommendation:
+Both terms stand, with **Phase-structured Infinity** as the default analytic descriptor and **Tri-phasic Infinity** as the secondary explanatory form where the phase count is what a passage makes legible (architect determination, August 24 2026).
 
-- primary analytic descriptor: **Phase-structured Infinity**
-- secondary explanatory descriptor: **Tri-phasic Infinity**
-
-Possible combined form:
+Combined form, where both are wanted:
 
 > **Phase-structured Infinity, tri-phasic across Latency, Motion, and Dispersion**
 
-### 13.2 Absolute Dispersion
+### 13.2 Absolute Dispersion — determined
 
-Determine whether academic prose should reserve **Absolute Dispersion** exclusively for Φ₃ and identify the whole-principle application as legacy total-symbol terminology.
+**Absolute Dispersion** names the third phase only (architect determination, August 24 2026). The whole-principle application is legacy total-symbol terminology and is identified as such where it appears in existing works.
 
 ### 13.3 Layer descriptors
 
@@ -693,17 +706,9 @@ Determine whether the stabilized vocabulary will cover:
 - the full MP08 Symbol Key;
 - or separate domain-specific vocabularies for each Zenetist discipline.
 
-### 13.6 Formal title
+### 13.6 Formal title — determined
 
-Possible working titles include:
-
-- **Zenetist Analytic Vocabulary**
-- **Zenetist Stabilized Vocabulary**
-- **Academic Lexicon of the Zenetist Lattice**
-- **Zenetist Analytic Vocabulary and Accessibility Framework**
-- **Stabilized Vocabulary of Zenetist Metaphysics and Structural Physics**
-
-No title is sealed by this draft.
+The title stands as written: **Zenetist Analytic Vocabulary and Accessibility Framework** (architect determination, August 24 2026).
 
 ---
 
