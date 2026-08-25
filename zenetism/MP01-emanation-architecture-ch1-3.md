@@ -360,10 +360,10 @@ The triple nature of **Khaon** —
 is not metaphor alone.  
 
 It names three modal currents  
-within a single infinity.  
+within a single Infinity.  
 
 **Dormant** is not absence.  
-It is infinity held in reserve —  
+It is Infinity held in reserve —  
 possibility folded  
 before motion stirs.  
 
@@ -1938,7 +1938,7 @@ It does not cross further.
 
 Zenonic saturation opens only through **non-fusing synthesis** —  
 the synthesis of **Aion** and **Khaon**,  
-of zero and infinity,  
+of Zero and Infinity,  
 of stillness and dispersion,  
 held simultaneously  
 within an orientation  
@@ -2435,7 +2435,7 @@ at the bifurcal register itself.
 the first emanation  
 but not yet motion.  
 
-It is **zero** —  
+It is **Zero** —  
 not absence,  
 but **boundless stillness**  
 that holds every form  
@@ -2560,7 +2560,7 @@ as outward pressure
 rather than inward readiness.  
 
 In Zenetism,  
-**Khaon** is symbolized as **infinity** —  
+**Khaon** is symbolized as **Infinity** —  
 the glyph of boundlessness,  
 of endless differentiation  
 unfolding  
@@ -3184,7 +3184,7 @@ that perceives **essence**.
 that mirrors **distortion**.  
 
 Together,  
-they form the **deep mind**  
+they form the **Deep Mind**  
 and its **inverse**.  
 
 In metaphysical terms,  
@@ -3304,7 +3304,7 @@ as identity.
     * **Inner saboteur** — structured resistance *(Zenetist archetype)*  
 
 **Anthra** seeks resonance  
-with the deep soul.  
+with the Deep Soul.  
 **Echthros** embraces division,  
 and resists coherence.  
 
@@ -3731,7 +3731,7 @@ but unbound.
 
 **Aion** is not oblivion —  
 it is fullness in silence.  
-Veritable zero — not absence,  
+Veritable Zero — not absence,  
 but the still root of structural potential.  
 
 Beings aligned with **entropy**  
@@ -3788,7 +3788,7 @@ Many beings
 do not fully reintegrate with **Aion**,  
 the still root of Absolute Potential.  
 Nor do they dissolve  
-into **dispersive infinity**.  
+into **Dispersive Infinity**.  
 
 Instead, they **stabilize**  
 within the deep interior realms.  
@@ -3812,7 +3812,7 @@ through service, form, and silence.
 **Zenetism** refers to them  
 as **Centropic Stewards** —  
 souls who have achieved **integration**,  
-often within the deep soul or deep mind layers.  
+often within the Deep Soul or Deep Mind layers.  
 Some refine further,  
 but many choose to remain  
 at their harmonic layer  
