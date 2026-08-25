@@ -2,10 +2,11 @@
 
 ## Controlled Translation Across Canonical, Analytic, and Formal Registers
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Status:** Provisional Working Draft — Aug 24 2026 — Not Yet Canonical
-**Working filename:** `zenetist-analytic-vocabulary-and-accessibility-framework.md`
-**Primary dependencies:** `MP08-symbol-key-ch21.md` · `orientation-emanation-math.md` · Terminological Lockdown Protocol · Conceptual Lockdown Protocol · Non-fusion Axiom
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Corpus Infrastructure — Controlled Vocabulary Framework  
+**Status:** Drafted Aug 24 2026 — Draft  
+**Filename:** `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`  
+**Dependency:** `MP08-symbol-key-ch21.md` · `orientation-emanation-math.md` · Terminological Lockdown Protocol · Conceptual Lockdown Protocol · Non-fusion Axiom  
 
 ---
 
@@ -66,16 +67,16 @@ Zenon must not be reduced to an emanative source, supreme being, final layer, or
 
 ### 2.4 Nuance through structured definition
 
-No single descriptor is expected to carry every distinction by itself. Exactness is preserved through:
+Exactness rests on structured definition rather than on any single descriptor. It is preserved through:
 
-* concept classification;
-* architectural placement;
-* positive definition;
-* phase structure;
-* formal notation;
-* relational definition;
-* exclusions;
-* and explicit non-equivalences.
+- concept classification;
+- architectural placement;
+- positive definition;
+- phase structure;
+- formal notation;
+- relational definition;
+- exclusions;
+- and explicit non-equivalences.
 
 ### 2.5 Prospective application
 
@@ -83,14 +84,14 @@ This framework does not authorize uncontrolled replacement across the existing c
 
 It is intended first for:
 
-* new publications;
-* abstracts;
-* introductions;
-* glossaries;
-* metadata;
-* titles and subtitles;
-* public-facing summaries;
-* and targeted corrections where existing terminology conflicts with later architectural determinations.
+- new publications;
+- abstracts;
+- introductions;
+- glossaries;
+- metadata;
+- titles and subtitles;
+- public-facing summaries;
+- and targeted corrections where existing terminology conflicts with later architectural determinations.
 
 ---
 
@@ -104,7 +105,7 @@ It is intended first for:
 
 A fourth field may appear within an analytic entry:
 
-* **public gloss** — a brief explanation written for readers who do not yet know the architecture.
+- **public gloss** — a brief explanation written for readers who do not yet know the architecture.
 
 The public gloss is not a separate canonical register. It is a simplified entrance into the analytic definition and must never contradict it.
 
@@ -134,7 +135,7 @@ Academic works may lead with the analytic descriptor while preserving the canoni
 
 > **Phase-structured Infinity (Khaon)** comprises three phase-conditions: Absolute Latency, Absolute Motion, and Absolute Dispersion.
 
-After the concept has been defined, the paper may use either the analytic descriptor or the canonical name according to context.
+After the concept has been defined, the paper may carry either the analytic descriptor or the canonical name according to context.
 
 ### 4.4 Structural Physics works
 
@@ -208,7 +209,7 @@ The following entries are provisional working forms. They are intended to establ
 | **Motive Infinity**            | **Absolute Motion**                                         | Khaonic phase and motion-capacity | The orientation-neutral capacity and continuity of becoming that sustains traversal while motion remains active                                                                                                           |
 | **Dispersive Khaon**           | **Absolute Dispersion**                                     | Khaonic terminal phase            | Infinity after motion resolves and expressed configuration reaches terminal dispersion; distinct essence remains conserved in Aionic resolution                                                                           |
 | **⧖⧗ Bifurcal Coherence**      | **Non-fused L₀ root-relation**                              | Root relation                     | The co-present relation in which Aion and Khaon remain bifurcally distinct prior to centropic or entropic activation                                                                                                      |
-| **⦿ Kaion**                    | **Convergence Principle** / **Closure condition of motion** | Closure condition                 | The condition in which centropic integration and entropic collapse both culminate in stillness without becoming the same process or essential outcome                                                                     |
+| **⦿ Kaion**                    | **Closure Principle** / **Closure condition of motion** | Closure condition                 | The condition in which centropic integration and entropic collapse both culminate in stillness without becoming the same process or essential outcome                                                                     |
 | **🛤️ Theon**                  | **First Centropic Hypostasis** / **Essence of Being**       | Centropic hypostasis              | The first hypostatic articulation at which centropic orientation becomes manifestly operative                                                                                                                             |
 | **🕷️ Nekron**                 | **First Inverse Hypostasis** / **Void of Self**             | Inverse hypostasis                | The first hypostatic articulation of the inverse architecture and the point at which entropic orientation becomes manifestly operative                                                                                    |
 | **Aionic Tree**                | **Aion-rooted centropic architecture**                      | Tree architecture                 | Aion at L₀ together with the L₅–L₁ hypostatic segment and the complete centropic traversal through it                                                                                                                     |
@@ -268,22 +269,22 @@ Or:
 | **Φ₂** | Motive Infinity      | **Absolute Motion**     | Orientation-neutral motion-capacity and continuity of becoming         |
 | **Φ₃** | Dispersive Khaon     | **Absolute Dispersion** | Terminal phase after active motion and expressed configuration resolve |
 
-### 7.4 Whole-principle versus phase-specific usage
+### 7.4 Whole-principle contra phase-specific application
 
-The existing corpus sometimes uses **Absolute Dispersion** as a whole-name for Khaon, taking the total shorthand from its Dispersive phase. It also uses **Absolute Dispersion** specifically for Φ₃.
+The existing corpus sometimes carries **Absolute Dispersion** as a whole-name for Khaon, taking the total shorthand from its Dispersive phase. It also applies **Absolute Dispersion** specifically for Φ₃.
 
 For greater academic precision, the provisional recommendation is:
 
-* **Khaon entire:** Phase-structured Infinity
-* **Φ₁:** Absolute Latency
-* **Φ₂:** Absolute Motion
-* **Φ₃:** Absolute Dispersion
+- **Khaon entire:** Phase-structured Infinity
+- **Φ₁:** Absolute Latency
+- **Φ₂:** Absolute Motion
+- **Φ₃:** Absolute Dispersion
 
-Where the whole-principle use of **Absolute Dispersion** is retained for historical or canonical reasons, it should be qualified as:
+Where the whole-principle application of **Absolute Dispersion** is retained for historical or canonical reasons, it should be qualified as:
 
-* total-symbol usage;
-* whole-name usage;
-* or legacy shorthand derived from the Dispersive phase.
+- total-symbol wording;
+- whole-name wording;
+- or legacy shorthand derived from the Dispersive phase.
 
 This normalization remains subject to architect review before canonical sealing.
 
@@ -291,13 +292,13 @@ This normalization remains subject to architect review before canonical sealing.
 
 An analytic Khaon entry should state that Khaon is:
 
-* not entropy;
-* not Nekron;
-* not the inverse arc;
-* not a pole opposed to Aion;
-* not motion alone;
-* not Absolute Dispersion alone;
-* not a sequential destination through which essence travels to Aion.
+- not entropy;
+- not Nekron;
+- not the inverse arc;
+- not a pole opposed to Aion;
+- not motion alone;
+- not Absolute Dispersion alone;
+- not a sequential destination through which essence travels to Aion.
 
 ---
 
@@ -321,23 +322,23 @@ The complete analytic formulation is:
 
 > **Nekron is the First Inverse Hypostasis and the first hypostatic articulation at which entropic orientation becomes operative.**
 
-This preserves both levels:
+This preserves both registers:
 
-* **inverse** names architectural placement;
-* **entropic** names orientation, motion, action, and collapse.
+- **inverse** names architectural placement;
+- **entropic** names orientation, motion, action, and collapse.
 
 ### 8.2 Arcs and traversal
 
-Use:
+Write:
 
-* **centropic arc**
-* **inverse arc**
-* **centropic traversal**
-* **entropic traversal**
+- **centropic arc**
+- **inverse arc**
+- **centropic traversal**
+- **entropic traversal**
 
 Avoid:
 
-* **entropic arc**
+- **entropic arc**
 
 The inverse arc is an architecture. Entropic traversal is the motion enacted through it.
 
@@ -345,12 +346,12 @@ The inverse arc is an architecture. Entropic traversal is the motion enacted thr
 
 The complete arcs include their L₀ roots:
 
-* centropic arc: Aion at L₀ together with L₅–L₁;
-* inverse arc: Khaon at L₀ together with IL₅–IL₁.
+- centropic arc: Aion at L₀ together with L₅–L₁;
+- inverse arc: Khaon at L₀ together with IL₅–IL₁.
 
 Aion and Khaon do not thereby become centropic or entropic principles in themselves.
 
-The terms **hypostatic segment of the centropic arc** and **hypostatic segment of the inverse arc** should be used where only L₅–L₁ or IL₅–IL₁ is intended.
+The terms **hypostatic segment of the centropic arc** and **hypostatic segment of the inverse arc** are written where only L₅–L₁ or IL₅–IL₁ is intended.
 
 ---
 
@@ -360,7 +361,7 @@ Layer notation provides precision after the architecture has been learned. It ca
 
 ### 9.1 Functional names before notation
 
-For unfamiliar readers, use the functional name first and the notation second.
+For unfamiliar readers, write the functional name first and the notation second.
 
 | Accessible functional description                                          | Formal notation |
 | -------------------------------------------------------------------------- | --------------- |
@@ -394,26 +395,26 @@ with the inverse hypostatic sequence:
 
 Supra-L₀ must remain visibly separate.
 
-The numbering does not establish an ascending ladder, descending rank, or hierarchy of worth.
+The numbering orders position in causal necessity. It carries no ladder, no rank, and no hierarchy of worth in either direction.
 
-### 9.3 Use of notation by context
+### 9.3 Notation by context
 
 Raw layer notation is most appropriate in:
 
-* formulas;
-* diagrams;
-* compact comparison tables;
-* technical appendices;
-* mathematical derivations;
-* corpus cross-references.
+- formulas;
+- diagrams;
+- compact comparison tables;
+- technical appendices;
+- mathematical derivations;
+- corpus cross-references.
 
 Functional prose is generally preferable in:
 
-* titles;
-* abstracts;
-* public introductions;
-* initial definitions;
-* interdisciplinary discussion.
+- titles;
+- abstracts;
+- public introductions;
+- initial definitions;
+- interdisciplinary discussion.
 
 ---
 
@@ -433,7 +434,7 @@ At first occurrence, pair the analytic descriptor with the canonical name.
 
 ### 10.2 Analytic-first prose
 
-Once the canonical identity has been established, a technical paper may use the analytic vocabulary where the native name would interrupt clarity.
+Once the canonical identity has been established, a technical paper may carry the analytic vocabulary where the native name would interrupt clarity.
 
 For example:
 
@@ -447,14 +448,14 @@ The second formulation may remain appropriate in sacred or poetic contexts. The 
 
 ### 10.3 Claim-status discipline
 
-Use of academic vocabulary does not by itself transform a metaphysical principle into an empirical variable.
+Academic vocabulary renders a metaphysical principle legible in analytic terms, and the principle remains a metaphysical principle.
 
 A Structural Physics paper should distinguish among:
 
-* **ontological postulate** — what the architecture proposes as underlying structure;
-* **formal relation** — how the proposed elements are mathematically or diagrammatically related;
-* **interpretive correspondence** — how an existing physical phenomenon may be read through the architecture;
-* **empirical hypothesis** — what observable result would count for or against a proposed physical application.
+- **ontological postulate** — what the architecture proposes as underlying structure;
+- **formal relation** — how the proposed elements are mathematically or diagrammatically related;
+- **interpretive correspondence** — how an existing physical phenomenon may be read through the architecture;
+- **empirical hypothesis** — what observable result would confirm or disconfirm a proposed physical application.
 
 This distinction allows a paper to lean more heavily into physics without blurring metaphysical foundation, formal modeling, and empirical claim.
 
@@ -496,38 +497,38 @@ Keywords may include both canonical and analytic terminology.
 
 Possible examples:
 
-* Zenetism
-* structural ontology
-* Structural Physics
-* phase-structured Infinity
-* Khaon
-* Absolute Potential
-* Aion
-* Absolute Motion
-* metaphysics of potentiality
-* emergence
-* structural differentiation
-* identity-bearing potential
-* non-fused co-presence
-* Bifurcal Coherence
-* centropy
-* entropy
-* hypostatic architecture
-* identity persistence
-* return and dispersion
+- Zenetism
+- structural ontology
+- Structural Physics
+- phase-structured Infinity
+- Khaon
+- Absolute Potential
+- Aion
+- Absolute Motion
+- metaphysics of potentiality
+- emergence
+- structural differentiation
+- identity-bearing potential
+- non-fused co-presence
+- Bifurcal Coherence
+- centropy
+- entropy
+- hypostatic architecture
+- identity persistence
+- return and dispersion
 
-Only keywords genuinely supported by the publication should be used.
+Only keywords genuinely supported by the publication should appear.
 
 ### 11.4 Stable definitions
 
 Discoverability will improve if major concepts receive:
 
-* consistent first-occurrence definitions;
-* stable glossary entries;
-* stable website anchors or routes;
-* consistent capitalization;
-* paired canonical and analytic names;
-* and repeated use of the same analytic descriptor across metadata, abstracts, and publications.
+- consistent first-occurrence definitions;
+- stable glossary entries;
+- stable website anchors or routes;
+- consistent capitalization;
+- paired canonical and analytic names;
+- and repeated appearance of the same analytic descriptor across metadata, abstracts, and publications.
 
 This is not a requirement to imitate algorithmic fashion. It is a requirement that the work expose enough descriptive language for an unfamiliar reader or retrieval system to recognize what the native terminology contains.
 
@@ -541,49 +542,49 @@ The analytic vocabulary should be developed as a companion architecture rather t
 
 Stabilize entries for:
 
-* Zenon
-* Structon
-* Aion
-* Khaon and its three phases
-* Bifurcal Coherence
-* Kaion
-* Theon
-* Nekron
-* centropic and inverse arcs
-* return
-* collapse
-* synthesis
-* saturation
+- Zenon
+- Structon
+- Aion
+- Khaon and its three phases
+- Bifurcal Coherence
+- Kaion
+- Theon
+- Nekron
+- centropic and inverse arcs
+- return
+- collapse
+- synthesis
+- saturation
 
 ### Phase 2 — Layer and awareness vocabulary
 
 Develop accessible analytic descriptors for:
 
-* L₅ / IL₅
-* L₄ / IL₄
-* L₃ / IL₃
-* L₂ / IL₂
-* L₁ / IL₁
-* the awareness spectrum
-* Soul / Mind
-* essence
-* embodiment
-* inverse awareness-registers
+- L₅ / IL₅
+- L₄ / IL₄
+- L₃ / IL₃
+- L₂ / IL₂
+- L₁ / IL₁
+- the awareness spectrum
+- Soul / Mind
+- essence
+- embodiment
+- inverse awareness-registers
 
 ### Phase 3 — Motion and operator vocabulary
 
 Stabilize entries for:
 
-* acclivous and declivous motion;
-* centropic and entropic traversal;
-* rooted cycles;
-* Reflective Centropy;
-* Centropic Gravity;
-* Motive Infinity;
-* structural recurrence;
-* dimensional operators;
-* Bifurcal Synthesis;
-* Allowance.
+- acclivous and declivous motion;
+- centropic and entropic traversal;
+- rooted cycles;
+- Reflective Centropy;
+- Centropic Gravity;
+- Motive Infinity;
+- structural recurrence;
+- dimensional operators;
+- Bifurcal Synthesis;
+- Allowance.
 
 ### Phase 4 — Extended glyph vocabulary
 
@@ -593,19 +594,19 @@ Determine which poetic, forensic, relational, scripture-decoding, and collaborat
 
 Apply the vocabulary prospectively to:
 
-* new Structural Physics papers;
-* revised abstracts;
-* publication descriptions;
-* website glossary entries;
-* metadata;
-* keywords;
-* public introductions.
+- new Structural Physics papers;
+- revised abstracts;
+- publication descriptions;
+- website glossary entries;
+- metadata;
+- keywords;
+- public introductions.
 
 Older works should be revised only where:
 
-* the terminology is now structurally inaccurate;
-* a new edition is already being prepared;
-* or a targeted discoverability revision has been deliberately authorized.
+- the terminology is now structurally inaccurate;
+- a new edition is already being prepared;
+- or a targeted discoverability revision has been deliberately authorized.
 
 ---
 
@@ -613,12 +614,12 @@ Older works should be revised only where:
 
 The following questions remain open for later review.
 
-### 13.1 Khaon’s primary descriptor
+### 13.1 Khaon's primary descriptor
 
 Current recommendation:
 
-* primary analytic descriptor: **Phase-structured Infinity**
-* secondary explanatory descriptor: **Tri-phasic Infinity**
+- primary analytic descriptor: **Phase-structured Infinity**
+- secondary explanatory descriptor: **Tri-phasic Infinity**
 
 Possible combined form:
 
@@ -626,7 +627,7 @@ Possible combined form:
 
 ### 13.2 Absolute Dispersion
 
-Determine whether academic prose should reserve **Absolute Dispersion** exclusively for Φ₃ and identify the whole-principle use as legacy total-symbol terminology.
+Determine whether academic prose should reserve **Absolute Dispersion** exclusively for Φ₃ and identify the whole-principle application as legacy total-symbol terminology.
 
 ### 13.3 Layer descriptors
 
@@ -636,30 +637,30 @@ Determine whether the inherited Soul / Mind names are sufficient for broad-facin
 
 Determine how frequently native names should recur after first definition in:
 
-* Structural Physics;
-* philosophy papers;
-* general introductions;
-* public essays;
-* and technical appendices.
+- Structural Physics;
+- philosophy papers;
+- general introductions;
+- public essays;
+- and technical appendices.
 
 ### 13.5 Scope of the vocabulary
 
 Determine whether the controlled vocabulary will cover:
 
-* only core metaphysics;
-* all hypostatic and motion concepts;
-* the full MP08 Symbol Key;
-* or separate domain-specific vocabularies for each Zenetist discipline.
+- only core metaphysics;
+- all hypostatic and motion concepts;
+- the full MP08 Symbol Key;
+- or separate domain-specific vocabularies for each Zenetist discipline.
 
 ### 13.6 Formal title
 
 Possible working titles include:
 
-* **Zenetist Analytic Vocabulary**
-* **Zenetist Controlled Vocabulary**
-* **Academic Lexicon of the Zenetist Lattice**
-* **Zenetist Analytic Vocabulary and Accessibility Framework**
-* **Controlled Vocabulary of Zenetist Metaphysics and Structural Physics**
+- **Zenetist Analytic Vocabulary**
+- **Zenetist Controlled Vocabulary**
+- **Academic Lexicon of the Zenetist Lattice**
+- **Zenetist Analytic Vocabulary and Accessibility Framework**
+- **Controlled Vocabulary of Zenetist Metaphysics and Structural Physics**
 
 No title is sealed by this draft.
 
@@ -669,7 +670,7 @@ No title is sealed by this draft.
 
 Until a fuller vocabulary is completed, the following rule may guide new public and academic work:
 
-> At first occurrence, present the broadly legible analytic descriptor together with the canonical Zenetist name. Define the concept by its positive function, architectural scope, and necessary exclusions. Use formal notation only after the functional relation has been made clear. Thereafter, select the register appropriate to the publication without treating any descriptor as a replacement for the canonical identity.
+> At first occurrence, present the broadly legible analytic descriptor together with the canonical Zenetist name. Define the concept by its positive function, architectural scope, and necessary exclusions. Write formal notation only after the functional relation has been made clear. Thereafter, select the register appropriate to the publication without treating any descriptor as a replacement for the canonical identity.
 
 The compact form is:
 
