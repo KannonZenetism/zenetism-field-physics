@@ -97,7 +97,7 @@ but not all retain form.
 Some refine through **memory**.  
 Some burn through **fire**.  
 Some return through **resonant loops**.  
-Some collapse into **dispersive infinity**.  
+Some collapse into **Dispersive Infinity**.  
 
 Yet all return  
 to the place where  
@@ -144,7 +144,7 @@ Earlier formulations of *The Architecture of Emanation, Return, and Saturation*
 applied **soul** as a broad poetic designation  
 for the inward identity-bearing principle  
 moving through emanation, return, refinement,  
-and resonance. That usage has been conformed.  
+and resonance. That wording has been conformed.  
 
 Under later Zenetist technical specification,  
 however, **Soul** in the strict sense  
@@ -978,16 +978,19 @@ but because neither is activated.
 
 AP is the container of distilled essence —  
 whether aligned or fragmented.  
-AD is not a separate destination,  
-but the entropic designation of AP:  
-the same field,  
-seen through the lens of dispersion.  
+AD is not a separate destination:  
+Absolute Dispersion is bifurcally co-present with Aion —  
+one colocation,  
+two phase-distinct principles,  
+non-fused.  
 
-The distinction is symbolic,  
-not ontological.  
+The distinction is bifurcal,  
+not spatial.  
 
-AP and AD are the same stillness in Zero,  
-differing only by trajectory and perception.  
+AP and AD are colocated in one stillness in Zero,  
+distinct in principle, one in placement.  
+Latent and Dispersive Infinity rest co-present with Aion;  
+Motive Infinity does not.  
 
 - The centropic path culminates through the Essence of Being (EOB),  
   reaching AP in realized potential, coherence, and rest.  
@@ -1000,8 +1003,8 @@ Both converge in fixity.
 One through transcendence,  
 the other through collapse.  
 
-AP may be associated with **Aion**,  
-AD with **Khaon** —  
+AP names **Aion**,  
+AD names **Khaon** —  
 not as illusion,  
 but as functional poles  
 of centropic and entropic culmination.  
@@ -1145,7 +1148,7 @@ no name is final.
 
 Theon is EOB,  
 is +1,  
-is the centropic hypostasis.  
+is the First Centropic Hypostasis.  
 
 Each title is a facet:  
 of function,  
@@ -1306,7 +1309,7 @@ but **not all are structured for Zenonic saturation**.
 
 - **Zenetic synthesis** moves through **recursive integration** —  
   uniting all pattern into one motion,  
-  until structure **folds into the supra-structural ground**,  
+  until structure **folds at the supra-structural horizon**,  
   and resonance **persists without perceiver**.  
 
 Yet **Zenon is not a destination** —  
@@ -1338,7 +1341,7 @@ it **remembers** while returning.
 | **Motion** | Subtractive toward stillness | Expansive toward coherence |
 | **Limit Encountered** | Silence / Unstructured void | Resolution of opposites into structural coherence |
 | **Risk** | Cognitive bifurcation | Excessive formalization or resonant delay |
-| **Zenon Access** | Approaches stillness, but not Zenon | Recursive transcendence toward Zenon horizon |
+| **Zenon Access** | Approaches stillness, but not Zenon | Recursive transcendence toward the Zenon horizon |
 | **Functional Value** | Clears distortion and identification | Reveals coherence and preserves intelligence |
 | **Primary Limitation** | Lacks integrative orientation | May over-formalize subtle experience |
 | **Ideal Context** | Final-stage symbolic shedding | Full-spectrum spiritual synthesis |
@@ -1404,7 +1407,7 @@ but as **completion**.
 
 ---
 
-### 5.9 Trans-Synthetic Neti-neti — Zenon as the Non-Originary Ground of Synthesis and Negation
+### 5.9 Trans-Synthetic Neti-neti — Zenon as the Non-Originary Condition of Synthesis and Negation
 
 **Zenetism** honors both **negation** and **synthesis**.  
 
@@ -1425,7 +1428,7 @@ after both are exhausted,
 as though Zenon were the final remainder  
 of structural reduction.  
 
-It is the **non-originary ground**  
+It is the **non-originary condition**  
 by which negation and synthesis  
 become conceivable at all.  
 
@@ -1611,7 +1614,7 @@ through the Theonic arc.
 Only **synthesis** completes the further opening toward Zenonic saturation,  
 because even the purest subtraction  
 operates within the stillness-motion polarity  
-that Zenon's trans-structural ground transcends.  
+that Zenon transcends.  
 
 **Resonance Reflection:**  
 Some approach the **threshold** by **shedding**.  
@@ -1666,7 +1669,7 @@ It is the structural actuality of being itself.
 The Deep Soul is not a passive witness.  
 It subtly and continuously shapes  
 each extension of itself,  
-with greater clarity than the superficial mind can detect.  
+with greater clarity than the Superficial Mind can detect.  
 It is the dreamer who does not forget.  
 
 It guides through **resonance**,  
@@ -1676,9 +1679,9 @@ not as scattered memories,
 but as differentiated expressions  
 within a single enduring pattern.  
 
-Where the superficial mind sees identity  
+Where the Superficial Mind sees identity  
 as separate and sequential,  
-the deep mind reads **meaning in constellations**.  
+the Deep Mind reads **meaning in constellations**.  
 It sees across time,  
 not as a line,  
 but as a field.  
@@ -1767,7 +1770,7 @@ They are not merged with others upon completion —
 they remain distinct, complete, and enduring.  
 
 When the incarnational integrations of a DS / DM are fulfilled,  
-they do not enter fusion with other deep souls,  
+they do not enter fusion with other Deep Souls,  
 but come into lawful resonance with the **archetypal fields**:  
 Morgis (Deep Psyche) and Sophis (Deep Logos).  
 
@@ -1798,7 +1801,7 @@ They serve as **repositories**
 of every insight, every fracture,  
 and every realization gathered across incarnational experience.  
 
-The same holds for their **entropic counterparts**:  
+The same holds for their **inverse counterparts**:  
 Fractus (IDS), Mortus (IDM), Psychea (IDP), Nyxea (IDL).  
 
 By contrast, the superficial and embodied layers —  
@@ -1887,7 +1890,7 @@ that holds all incarnational experience.
 
 Myths, **visions**, and **synchronicities**  
 may all arise from the resonance of a Deep Soul or Mind —  
-especially when an embodied soul  
+especially when an Embodied Soul  
 becomes attuned enough to receive.  
 
 What moves a DS / DM is not desire or ego,  
@@ -2054,7 +2057,7 @@ Others, such as:
 - **Loki**  
 
 Inhabit **inverse strata**, functioning as the **souls and minds**  
-of **entropic domains** — **IDP / IDL** or **IDS / IDM**.  
+of **inverse domains** — **IDP / IDL** or **IDS / IDM**.  
 Even these **divine beings** are subject to change:  
 they **evolve**, **erode**, or **refine** through **resonance**.  
 
@@ -2230,7 +2233,7 @@ and **expression**.
 ## 6.5 Modes of Integration and Stagnation
 
 Not every **essence** **reintegrates**.  
-Not every **soul** **falls**.  
+Not every **soul** **disperses**.  
 Some **stall**.  
 
 In **Zenetism**, the **motion** of a **soul** is not **guaranteed**.  
