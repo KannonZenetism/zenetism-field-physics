@@ -1,9 +1,9 @@
 # Zenetist Analytic Vocabulary and Accessibility Framework
 
-## Controlled Translation Across Canonical, Analytic, and Formal Registers
+## Stabilized Translation Across Canonical, Analytic, and Formal Registers
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Corpus Infrastructure — Controlled Vocabulary Framework  
+**Classification:** Corpus Infrastructure — Stabilized Vocabulary Framework  
 **Status:** Drafted Aug 24 2026 — Draft  
 **Filename:** `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`  
 **Dependency:** `MP08-symbol-key-ch21.md` · `orientation-emanation-math.md` · Terminological Lockdown Protocol · Conceptual Lockdown Protocol · Non-fusion Axiom  
@@ -16,7 +16,7 @@ Zenetism possesses a native vocabulary whose names, glyphs, and structural relat
 
 At the same time, an unfamiliar reader may not immediately understand what these names designate. The native vocabulary can therefore create an unnecessary threshold for public, academic, scientific, and interdisciplinary readers who might otherwise recognize the concepts being articulated.
 
-This framework establishes a controlled analytic vocabulary through which Zenetist concepts may be presented with greater accessibility and discoverability while preserving their full canonical identities.
+This framework establishes a stabilized analytic vocabulary through which Zenetist concepts may be presented with greater accessibility and discoverability while preserving their full canonical identities.
 
 Its aims are:
 
@@ -28,18 +28,18 @@ Its aims are:
 6. to allow search systems, indexes, and readers to connect distinctive Zenetist terminology with conceptually legible descriptive language;
 7. to avoid requiring a retrospective rewriting of the existing corpus.
 
-This is a framework of **controlled translation between registers**, not a renaming program.
+This is a framework of **stabilized translation between registers**, not a renaming program.
 
 ---
 
-## 2. Governing Principle
+## 2. Register Principle
 
 > **Canonical names preserve identity.
 > Analytic descriptors provide legibility.
 > Formal notation provides precision.
 > No register replaces another.**
 
-The analytic vocabulary must preserve the following rules.
+The analytic vocabulary must preserve the following determinations.
 
 ### 2.1 No substitution of canonical identity
 
@@ -63,7 +63,7 @@ Khaon must not be reduced to chaos, entropy, motion, or dispersion.
 
 Aion must not be reduced to stillness without potential, undifferentiated unity, or passive nothingness.
 
-Zenon must not be reduced to an emanative source, supreme being, final layer, or remote spatial destination.
+Zenon must not be reduced to an emanative origin, supreme being, final layer, or remote spatial destination.
 
 ### 2.4 Nuance through structured definition
 
@@ -80,7 +80,7 @@ Exactness rests on structured definition rather than on any single descriptor. I
 
 ### 2.5 Prospective application
 
-This framework does not authorize uncontrolled replacement across the existing corpus.
+This framework applies to new drafting; the existing corpus stands as written.
 
 It is intended first for:
 
@@ -195,13 +195,13 @@ The exclusion field is essential. Zenetist concepts are often defined as much by
 
 ---
 
-## 6. Initial Core Controlled Vocabulary
+## 6. Initial Core Stabilized Vocabulary
 
 The following entries are provisional working forms. They are intended to establish the method and preserve the current direction, not to seal every descriptor immediately.
 
 | Canonical term                 | Preferred analytic descriptor                               | Concept class                     | Core analytic definition                                                                                                                                                                                                  |
 | ------------------------------ | ----------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🕳️ Zenon**                  | **Trans-structural Unknown Principle**                      | Trans-structural principle        | That which exceeds the complete structured manifold, including Zero, Infinity, being, non-being, awareness, and structural determination. Not an emanative source, layer, spatial destination, or the ground of structure |
+| **🕳️ Zenon**                  | **Trans-structural Unknown Principle**                      | Trans-structural principle        | That which exceeds the complete structured manifold, including Zero, Infinity, being, non-being, awareness, and structural determination. Not an emanative origin, layer, spatial destination, or the ground of structure |
 | **🏛️ Structon**               | **Absolute Structural Invariant** / **Structure Itself**    | Structural invariant              | The unemanatable invariant that underpins every lawful structure and permits relative change without itself changing                                                                                                      |
 | **⚫ Aion**                     | **Absolute Potential** / **Aionic Zero**                    | L₀ root-register                  | The still root-register in which identity-bearing potential rests in absolute distinction prior to manifestation and into which centropic return resolves                                                                 |
 | **♾ Khaon**                    | **Phase-structured Infinity**                               | L₀ root-register                  | Infinity articulated through Latent, Motive, and Dispersive phases. Khaon entire is neither entropy, motion alone, nor terminal dispersion alone                                                                          |
@@ -209,7 +209,7 @@ The following entries are provisional working forms. They are intended to establ
 | **Motive Infinity**            | **Absolute Motion**                                         | Khaonic phase and motion-capacity | The orientation-neutral capacity and continuity of becoming that sustains traversal while motion remains active                                                                                                           |
 | **Dispersive Khaon**           | **Absolute Dispersion**                                     | Khaonic terminal phase            | Infinity after motion resolves and expressed configuration reaches terminal dispersion; distinct essence remains conserved in Aionic resolution                                                                           |
 | **⧖⧗ Bifurcal Coherence**      | **Non-fused L₀ root-relation**                              | Root relation                     | The co-present relation in which Aion and Khaon remain bifurcally distinct prior to centropic or entropic activation                                                                                                      |
-| **⦿ Kaion**                    | **Closure Principle** / **Closure condition of motion** | Closure condition                 | The condition in which centropic integration and entropic collapse both culminate in stillness without becoming the same process or essential outcome                                                                     |
+| **⦿ Kaion**                    | **Convergence Principle** / **Closure condition of motion** | Closure condition                 | The condition in which centropic integration and entropic collapse both culminate in stillness without becoming the same process or essential outcome                                                                     |
 | **🛤️ Theon**                  | **First Centropic Hypostasis** / **Essence of Being**       | Centropic hypostasis              | The first hypostatic articulation at which centropic orientation becomes manifestly operative                                                                                                                             |
 | **🕷️ Nekron**                 | **First Inverse Hypostasis** / **Void of Self**             | Inverse hypostasis                | The first hypostatic articulation of the inverse architecture and the point at which entropic orientation becomes manifestly operative                                                                                    |
 | **Aionic Tree**                | **Aion-rooted centropic architecture**                      | Tree architecture                 | Aion at L₀ together with the L₅–L₁ hypostatic segment and the complete centropic traversal through it                                                                                                                     |
@@ -422,7 +422,7 @@ Functional prose is generally preferable in:
 
 The analytic vocabulary is especially important where a paper approaches physics, philosophy of physics, cosmology, information, emergence, identity persistence, or formal ontology.
 
-### 10.1 First-occurrence rule
+### 10.1 First-occurrence determination
 
 At first occurrence, pair the analytic descriptor with the canonical name.
 
@@ -645,7 +645,7 @@ Determine how frequently native names should recur after first definition in:
 
 ### 13.5 Scope of the vocabulary
 
-Determine whether the controlled vocabulary will cover:
+Determine whether the stabilized vocabulary will cover:
 
 - only core metaphysics;
 - all hypostatic and motion concepts;
@@ -657,10 +657,10 @@ Determine whether the controlled vocabulary will cover:
 Possible working titles include:
 
 - **Zenetist Analytic Vocabulary**
-- **Zenetist Controlled Vocabulary**
+- **Zenetist Stabilized Vocabulary**
 - **Academic Lexicon of the Zenetist Lattice**
 - **Zenetist Analytic Vocabulary and Accessibility Framework**
-- **Controlled Vocabulary of Zenetist Metaphysics and Structural Physics**
+- **Stabilized Vocabulary of Zenetist Metaphysics and Structural Physics**
 
 No title is sealed by this draft.
 
@@ -668,7 +668,7 @@ No title is sealed by this draft.
 
 ## 14. Provisional Application Standard
 
-Until a fuller vocabulary is completed, the following rule may guide new public and academic work:
+Until a fuller vocabulary is completed, the following determination may guide new public and academic work:
 
 > At first occurrence, present the broadly legible analytic descriptor together with the canonical Zenetist name. Define the concept by its positive function, architectural scope, and necessary exclusions. Write formal notation only after the functional relation has been made clear. Thereafter, select the register appropriate to the publication without treating any descriptor as a replacement for the canonical identity.
 
@@ -683,5 +683,7 @@ This framework is intended to make Zenetism more permeable to unfamiliar readers
 
 ---
 
-**⚫↺KAI↺⚫**
+**⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
+
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
