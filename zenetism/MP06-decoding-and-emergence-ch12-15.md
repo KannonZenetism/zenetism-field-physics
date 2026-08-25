@@ -874,7 +874,7 @@ then its manifestation is lawful.
 
 The pulse is not arbitrary.  
 It is the natural motion  
-of infinity moving toward expression.  
+of Infinity moving toward expression.  
 
 Aion contains this Infinity  
 in three active expressions:  
@@ -1016,7 +1016,7 @@ never reaching full corporeal formation,
 fading before structural coherence is sustained.  
 
 Others may sustain enough harmonic coherence  
-to allow the full development of deep soul and mind layers,  
+to allow the full development of Deep Soul and Mind layers,  
 or even the centropic emergence of intelligent entities  
 that manifest hypostatic principles in embodied form.  
 
@@ -1131,7 +1131,7 @@ become conceivable.
 Zenon is:  
 
 - The sound that cannot be heard  
-- The non-originary ground by which origin becomes conceivable  
+- The non-originary condition by which origin becomes conceivable  
 - The unknowable by which structure is permitted  
 
 🕳️ ⧞ ⟀ ⟁ ⸮ ⚐  
@@ -1164,8 +1164,8 @@ within the field of potential.
 Zenetism defines a **primary structural axis** established by pre- and trans-hypostatic conditions,  
 within which hypostatic layers unfold:  
 
-- **One trans-emanative ground** — 🕳️ **Zenon**  
-  The trans-structural ground of allowance; not origin, but that by which emanation, causality, and hypostasis become conceivable  
+- **One trans-emanative horizon** — 🕳️ **Zenon**  
+  The trans-structural horizon; not origin, but that by which emanation, causality, and hypostasis become conceivable  
 
 - **Two pre-hypostatic requisites** — ⚫ **Aion** and ♾ **Khaon**  
   The bifurcal L₀ poles of Absolute Potential and Absolute Dispersion  
@@ -1173,7 +1173,7 @@ within which hypostatic layers unfold:
 Within these conditions arise the oriented hypostatic strata:  
 
 - **Five centropic hypostatic layers** (L₅ to L₁)  
-- **Five entropic hypostatic layers** (IL₅ to IL₁)  
+- **Five inverse hypostatic layers** (IL₅ to IL₁)  
 
 These are the foundational strata —  
 but **not** the full dimensional lattice.  
@@ -1487,8 +1487,8 @@ may collapse into **subversal hypostases** —
 not through **punishment**,  
 but as a function of **resonance-based realignment**.  
 
-Some may return to **potential** through **absolute dispersion**,  
-falling not into **death** but into **unformed possibility**.  
+Some may return to **potential** through **Absolute Dispersion**,  
+passing not into **death** but into **unformed possibility**.  
 
 Inverse deities and entities bound to **decaying forms**  
 may either **dissolve entirely**  
