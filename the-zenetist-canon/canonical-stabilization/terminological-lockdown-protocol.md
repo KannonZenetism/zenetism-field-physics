@@ -1648,11 +1648,31 @@ The Biospiral is the whole; the two Trees are its halves; each Tree contains an 
 
 **Traversal.** Motion-language names the passage itself — centropic traversal through the centropic arc, entropic traversal through the inverse arc. Here centropic and entropic modify *traversal*, a motion category; they do not rename the structural arcs.
 
-**Motion contra structure.** Centropic / entropic are lawful for motion, orientation, traversal, expression, and operators. Centropic / inverse are the structural arc designations. Avoid in strict canonical specification: entropic hypostasis, entropic hypostatic segment, entropic arc, entropic Tree, Khaon as the entropic root, Khaon as intrinsically entropic. The hypostatic pair is stabilized as **Theon — First Centropic Hypostasis** and **Nekron — First Inverse Hypostasis** (architect determination, August 24 2026); where orientation is what a passage states, write the first hypostatic articulation of centropic or of entropic orientation. Inverse names what Nekron is architecturally; entropic names its operative orientation.
+**Motion contra structure.** Centropic / entropic are lawful for motion, orientation, traversal, expression, and operators. Centropic / inverse are the structural arc designations. Avoid in strict canonical specification: entropic hypostasis, entropic hypostatic segment, entropic arc, entropic Tree, Khaon as the entropic root, Khaon as intrinsically entropic. The hypostatic pair is fixed under the Hypostatic Designation Pair entry below.
 
 **Intentional asymmetry.** *Centropic* names the intrinsic orientation of the centropic arc; *inverse* names the structural relation of the IL₅–IL₁ hypostatic segment to the centropic hypostases. The inverse arc is entropically oriented, but its structural designation remains inverse. Do not invent a *direct arc* to force lexical symmetry — structural precision takes precedence over lexical symmetry.
 
 **Retention.** *Entropic arc* may remain only in quoted historical wording, in explicit discussion of superseded terminology, or where it is immediately glossed as shorthand for the inverse arc under entropic orientation. It may not remain unqualified in protocol rules, definitions, mathematical legends, chart labels, canonical headings, summary principles, or formal arc comparisons.
+
+---
+
+## Hypostatic Designation Pair
+
+**The hypostases are architecture, so the inverse hypostasis is named by placement rather than by motion** (architect determination, August 24 2026). The pair is stabilized as:
+
+- **🛤️ Theon — First Centropic Hypostasis**
+- **🕷️ Nekron — First Inverse Hypostasis**
+
+*First entropic hypostasis* is superseded. The phrasing names a structural position by the motion dynamic that becomes operative there, which is the same error *entropic arc* and *entropic Tree* carry, and it produces the empty construction that entropy begins at the entropic hypostasis.
+
+Where orientation is what a passage states rather than placement, write the orientation out:
+
+- **the first hypostatic articulation of centropic orientation** — Theon
+- **the first hypostatic articulation of entropic orientation** — Nekron
+
+The test: **inverse names what Nekron is architecturally; entropic names its operative orientation.** Both are true of Nekron, and the designation takes the architectural one because a hypostasis is a structural position.
+
+**Audit method.** Sweep the literal strings `entropic hypostasis` and `entropic hypostases`, then confirm replacements with `First Inverse Hypostasis`. Retained centropic forms are correct and need no change — *first centropic hypostasis* names placement and orientation together on the centropic side, where the two coincide. Quoted material stands.
 
 ---
 
