@@ -209,6 +209,12 @@ The enacted response strengthens, weakens, reproduces, or departs from the surro
 
 Individual and systemic orientation are therefore mutually articulating.
 
+**Systemic orientation** names the recurrent directional pattern instantiated through a social structure's relations and enactments; it does not attribute essence-orientation or traveler-like agency to the structure itself.
+
+The pattern is not self-moving. A social structure functions only through the norms and standards determined by its most influential participants and the collective input of each individual within it.
+
+Participation is therefore not excusable by the structure it sustains. Individuals assent to its dynamics — consciously or unconsciously — to reap the benefits of membership and avoid the consequences of standing outside it, and that assent is itself enacted orientation.
+
 A system is not an immaterial agent floating apart from its participants.
 
 Neither is the individual merely an empty surface upon which the system acts.
@@ -487,7 +493,7 @@ Before rejecting a claim containing a potentially framework-native term, an inte
 * whether the architect has already clarified the intended referent
 * whether the objection addresses the originating proposition or a substituted one
 
-Where a canonical definition exists, that definition controls interpretation of Zenetist authorial voice.
+Where a canonical definition exists, that definition takes interpretive priority in Zenetist authorial voice.
 
 Where no canonical definition exists, contextual disambiguation comes first.
 
@@ -534,6 +540,8 @@ Individual and systemic manifestation are not competing explanations.
 They are distinct articulations within one field of expression.
 
 A social structure can be entropically oriented.
+
+The attribution is determinate, not metaphorical, where the actions of the whole produce detectable entropic outcomes.
 
 An individual can be entropically oriented.
 
