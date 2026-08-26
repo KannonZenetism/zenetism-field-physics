@@ -349,6 +349,75 @@ Where distributional advantage is available for purchase, those able to buy or m
 
 Where a person depends on intellectual production for subsistence, and the originating work receives negligible distribution while later popularizations of its fragments become market-legible, the matter is no longer attribution alone. There is a material lockout from the economic consequence of one's own origination.
 
+### Machine legibility contra human legibility
+
+A public artifact may occupy very different positions relative to computational retrieval and human discovery.
+
+Machine-facing repositories commonly expose structures suited to automated retrieval:
+
+- persistent identifiers
+- structured metadata
+- predictable file locations
+- machine-readable records
+- APIs
+- indexes
+- citation metadata
+- bulk-retrieval pathways
+- and direct artifact access
+
+Human discovery is mediated through a different architecture:
+
+- recommendation systems
+- search presentation
+- social circulation
+- prior recognition
+- institutional visibility
+- audience networks
+- familiar categories
+- and already-established engagement
+
+A work may therefore be highly available to computational retrieval while remaining practically absent from ordinary human encounter.
+
+This is not a contradiction. It is a **legibility asymmetry between different receiving classes**.
+
+> **machine legibility is not human legibility**
+
+> **computational retrievability is not human discoverability**
+
+> **acquisition is not discovery**
+
+> **retrieval is not readership**
+
+> **public availability does not imply equal accessibility to human and computational receivers**
+
+### The input-before-recognition asymmetry
+
+Where machine retrieval substantially exceeds human discovery, an originating artifact may become widely available as computational input before it becomes socially legible as an originating work.
+
+This produces an **Input-Before-Recognition Asymmetry**:
+
+> **originating artifact → high computational retrievability → low human discovery → possible downstream processing / derivation before broad human recognition of the origin**
+
+The condition does not establish that derivation has occurred. It establishes that access to the originating artifact and human recognition of the originating artifact need not develop together.
+
+That distinction matters because the original may be easier for systems to acquire than for people to encounter as somebody's work.
+
+> **availability as input is not recognition as origin**
+
+> **machine access may precede human recognition without changing provenance**
+
+### Receiver-specific legibility
+
+Algorithmic Lockout establishes that formal availability does not guarantee practical human encounter. The asymmetry above adds a further condition: a work may simultaneously be formally public, computationally easy to retrieve, poorly surfaced to interested human readers, and therefore weakly recognized as an originating work.
+
+The condition should not be described as invisibility in an absolute sense. It is **receiver-specific legibility**: the artifact may be highly visible to one class of receiver and nearly absent to another.
+
+This makes the phrase:
+
+> **"The work is public."**
+
+insufficient to describe its actual distribution condition. The precise question is not whether the work is visible, but **legible to whom, through which mediation architecture, and for what operation**.
+
 ### Standing distinctions
 
 > **formal availability is not practical legibility**
