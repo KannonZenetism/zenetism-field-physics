@@ -2154,7 +2154,7 @@ Barred:
 
 ## Capture Terminology Boundary
 
-**Capture** carries the seizure-shape — a taking of what remains untaken — and is barred in coinages and constructions where the captured thing would be an origin-side term, register, or standing (architect determination, August 26 2026). Nothing captures the native register; the interpreter narrows its own reading. **Reduction** is the lawful shape for register-narrowing names: **Diagnostic Register Capture** was renamed **Diagnostic Register Reduction** on this ground (`framework-internal-diagnosis-and-semantic-priority.md` §11 and §18).
+**Capture** carries the seizure-shape — a taking of what remains untaken — and is barred in coinages and constructions where the captured thing would be an origin-side term, register, or standing (architect determination, August 26 2026). Nothing captures the native register; the interpreter narrows its own reading. **Reduction** is the lawful shape for register-narrowing names: **Diagnostic Register Capture** was renamed **Diagnostic Register Reduction** on this ground (`framework-internal-diagnosis-and-semantic-priority.md` §11 and §19).
 
 Lawful retention: the forensic **capture** — a record the author takes of his own or observed material ("from the author's captures," per the Prepared-line convention) — names the author's own act and carries no seizure of standing.
 
