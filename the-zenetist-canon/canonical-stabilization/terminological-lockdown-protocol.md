@@ -2158,6 +2158,8 @@ Barred:
 
 Lawful retention: the forensic **capture** — a record the author takes of his own or observed material ("from the author's captures," per the Prepared-line convention) — names the author's own act and carries no seizure of standing.
 
+The acquisition-sense capture (**Prepublication Contextual Capture**, **Persistent Capture**) slides on one condition only (architect determination, August 26 2026): it must never imply that the author personally loses anything. Whatever is taken is a dissonant fragment that has lost connection to its origin, not something taken from the author — the origin retains everything it ever held.
+
 ## Named-Operator Retention
 
 The Field Physics dimensional operator **E₈ (╫⁻, Severed)** — the entropic inversion of C₈ Synaptic / Bridging, charted core function "Connections that divide," charted in `FP11-field-glyph-codex.md` §3 (mirrored in the extract registry `field-physics-glyph-charts.md`) — stands as-is. The name is consistent with this boundary: it names relational-register severance (connections that divide; entity-to-entity isolation carrying no origin claim), never origin-severance. This boundary applies to prose constructions, not charted operator names; a charted name is an exact string. A rename of E₈ remains registered as deferred (author's ruling, July 11, 2026: the corpus-wide sweep exceeds current work; flagged for later care); nothing in this section licenses a local patch.
