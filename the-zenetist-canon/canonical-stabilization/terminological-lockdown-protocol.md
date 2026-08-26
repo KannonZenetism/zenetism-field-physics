@@ -2470,6 +2470,38 @@ Canonical form:
 
 Enforcement is prospective and conform-on-touch.
 
+## A15b · Hyphenated Term Casing — the Bound-Prefix Test
+
+**A15a fixed the Non-fusion Axiom pattern for the Non-contact Principle. This entry states when that pattern applies and when a hyphenated term is capitalized throughout** (architect determination, August 24 2026).
+
+**The test is the first element.**
+
+Where the first element is a **bound prefix that cannot stand alone**, the second element is lowercase and the head noun is capitalized:
+
+- **Non-fusion Axiom** · **Non-contact Principle** · **Supra-centropic Cycle** · **Supra-centropic Saturation** · **Trans-structural Unknown Principle**
+
+Where the first element is a **free-standing word carrying its own weight**, both elements are capitalized:
+
+- **Phase-Structured Infinity** · **Identity-Bearing Potential** · **Allowance-Gated Crossing** · **Origin-Severance Prohibition** · **Origin-Intact Language** · **Arc-Conversion Prohibition** · **Boundary-Relation Vocabulary** · **Layer-Ordering Constraints** · **Cardinal-Direction Frame** · **Twofold-Function Underworld**
+
+The grammatical class of the second element does not bear on the test. *Gated* and *Bearing* are participles and are capitalized after a free-standing first element, exactly as a noun would be.
+
+**Headings.** A proper name holds its own casing inside a title-case heading. The Non-fusion Axiom is never written *Non-Fusion* because a heading around it is title-cased.
+
+**Scope — the two stages.** Casing runs in two stages, and the first governs the second.
+
+*Stage one: is the phrase functioning as a technical term or as a casual mention?* A phrase names the defined entity where it stands as the subject or object of the sentence, heads a definition, or appears in a keyword list or index alongside other defined terms. It is a casual mention where it modifies some other noun adjectivally. Only a technical term is capitalized at all.
+
+*Stage two: the bound-prefix test above* then determines how that term is cased.
+
+**Identity-Bearing Potential** shows both stages. As the defined entity it is capitalized throughout — *the root-register in which Identity-Bearing Potential rests in absolute distinction*. As an adjectival modifier it stays lowercase — *every latent identity-bearing value*, *identity-bearing values remain latent*. MP08 already writes it this way: lowercase in the prose at line 854, title-cased in the note heading above it.
+
+Ordinary compounds never reach stage two. They are not proper names in any position and stay lowercase throughout — root-register, co-presence, phase-distinct, non-fused co-presence, essence-identifier, locus-index.
+
+**Known drift, corrected on touch.** The following title-case a bound prefix and are contra this determination: *Trans-Structural Grounds*, *Supra-Structural Intelligence*, *Meta-Symbolic Forces*, *Pre-Soul Motion*, *Cross-Bifurcal Perceptual*, *Co-Arising Inversion*, *Post-Embodiment Architectures*. Quoted material stands.
+
+**Audit method.** The bound-prefix set to sweep: `Non-`, `Supra-`, `Trans-`, `Pre-`, `Post-`, `Co-`, `Meta-`, `Cross-`, `Sub-`, `Inter-`, `Intra-`. A capital letter immediately after the hyphen in any of these is a candidate. Enforcement is prospective and corrected on touch; no retroactive corpus sweep is required.
+
 ## A16 · Hypostatic Function-Bearing Vocabulary
 
 The function-bearing doctrine fixes a graded vocabulary family. These terms are not interchangeable:
