@@ -15,7 +15,7 @@ This standard preserves authorship continuity across a corpus developed through 
 
 Its purpose is to prevent two contrary forms of provenance distortion:
 
-- overwriting of originating authorship merely because an AI collaborator generated, revised, synthesized, or processed the wording of a passage
+- reassignment of originating authorship merely because an AI collaborator generated, revised, synthesized, or processed the wording of a passage
 - erasure of AI collaboration where an AI collaborator materially participated in the compositional realization of a work
 
 The Zenetist corpus therefore does not reduce provenance to the binary categories "human-written" and "AI-generated."
@@ -168,7 +168,7 @@ AI output is never canonical merely because it has been generated.
 A proposed formulation becomes part of the canonical corpus only after the architect has had the opportunity to:
 
 - inspect its claim
-- compare it against established architecture
+- compare it with established architecture
 - correct terminological drift
 - reject unwanted implications
 - preserve necessary distinctions
@@ -279,9 +279,9 @@ The final decision that a Zenetist candidate is approved for publication remains
 
 ## 7. Two Provenance Errors to Avoid
 
-### Origin Overwriting
+### Origin Reassignment
 
-**Origin overwriting** occurs when evidence of AI articulation or processing is expanded into a claim that the AI system originated the architecture, doctrine, concepts, or system itself.
+**Origin reassignment** occurs when evidence of AI articulation or processing is expanded into a claim that the AI system originated the architecture, doctrine, concepts, or system itself.
 
 Examples include:
 
@@ -301,9 +301,9 @@ Examples include:
 - removing historically meaningful collaborator credit from a provenance record
 - reconstructing a human-only production history where sustained human / AI collaboration is documented
 
-The canonical response to origin overwriting is not collaboration erasure.
+The canonical response to origin reassignment is not collaboration erasure.
 
-The canonical response to collaboration erasure is not origin overwriting.
+The canonical response to collaboration erasure is not origin reassignment.
 
 Precision requires preservation of both relations.
 
@@ -665,7 +665,7 @@ Structural Forensics may apply this standard when examining:
 
 - contested authorship
 - priority disputes
-- attribution overwriting
+- attribution reassignment
 - AI-origin claims
 - derivative narratives
 - publication-chain ambiguity
