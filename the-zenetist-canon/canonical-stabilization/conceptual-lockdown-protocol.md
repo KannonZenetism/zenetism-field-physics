@@ -295,6 +295,25 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 ---
 
+## Naming Encodes Function — Layer, Symbol, and Operator
+
+**Constraint.** Layer, symbol, and operator name aspects of one entry, never three separate things. A layer is denoted by a symbol that encodes a structural operation. No construction may treat the three as competing categories, and no reading may conclude that two charts disagree because they foreground different aspects of the same entry.
+
+**Lawful account.**
+
+- **Names encode function.** A canonical name states what the thing it names does. EOB names what the Essence of Being does at L₅; UP names what the Unknown Principle does at Supra-L₀. The abbreviation is functionally encoded rather than decorative shorthand for a longer label
+- **Operator is the Zenetist structural sense.** An operator performs a structural function. The sense is native to the corpus — §21.13 maps fields, realms, operators, and integration states; §21.31 names operators of lawful suspension, recursion, and integration — and is never the mathematical sense of an operation on a state or expression
+- **Aspect-foregrounding is not category assignment.** `MP08-symbol-key-ch21.md` §21.9 heads its columns Symbol and Layer; `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.1 heads the same data Layer and Operator. Each foregrounds a different aspect of one entry. Neither claims the entry is that aspect and not the others
+- **Names may change; the encoded function holds.** A designation may be superseded, stabilized, or given an analytic rendering without the structural operation altering. This is why analytic descriptors are lawful and why they never displace canonical identity
+
+**Why the constraint holds.** The unity of layer, symbol, and operator is carried silently by a reader working inside the system and is unavailable to a reader arriving from outside it. Where it is unstated, an outside reader takes differing column headings as a discrepancy between charts and takes *operator* in its mathematical sense. Both readings fracture one entry into several and read disagreement into a corpus that has none.
+
+**Lawful grammar.** Write "the L₅ operator EOB," "the symbol denoting the layer," "the function the abbreviation encodes." Where two charts label the same data differently, name the aspect each foregrounds rather than reconciling them as though they conflicted.
+
+**Reference Document:** `MP08-symbol-key-ch21.md` §21.9, §21.13, §21.31; `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.1; architect determination, August 24 2026.
+
+---
+
 ## Layer-Ordering Constraints
 
 Layer ordering encodes the emanation structure, so it is held here rather than as a stylistic preference.
