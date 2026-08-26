@@ -1407,7 +1407,7 @@ but as **completion**.
 
 ---
 
-### 5.9 Trans-Synthetic Neti-neti — Zenon as the Non-Originary Condition of Synthesis and Negation
+### 5.9 Trans-synthetic Neti-neti — Zenon as the Non-originary Condition of Synthesis and Negation
 
 **Zenetism** honors both **negation** and **synthesis**.  
 
