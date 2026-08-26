@@ -541,7 +541,7 @@ They are distinct articulations within one field of expression.
 
 A social structure can be entropically oriented.
 
-The attribution is determinate, not metaphorical, where the actions of the whole produce detectable entropic outcomes.
+The attribution is determinate, not metaphorical, where the enacted pattern of the whole produces detectable entropic outcomes.
 
 An individual can be entropically oriented.
 
