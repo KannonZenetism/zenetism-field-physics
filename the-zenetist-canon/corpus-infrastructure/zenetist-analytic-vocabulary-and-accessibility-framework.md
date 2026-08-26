@@ -45,7 +45,7 @@ The analytic vocabulary must preserve the following determinations.
 
 An analytic descriptor does not supersede the proper Zenetist name.
 
-**Phase-structured Infinity** may describe **Khaon**, but it does not replace Khaon as the canonical identity of the principle.
+**Phase-Structured Infinity** may describe **Khaon**, but it does not replace Khaon as the canonical identity of the principle.
 
 **Plenary Zero** may describe **Aion**, but it does not exhaust the full meaning of Aion.
 
@@ -100,7 +100,7 @@ It is intended first for:
 | Register                        | Function                                                                                      | Typical forms                                                                                               | Primary context                                                                                     |
 | ------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | **Canonical / Sacred Register** | Preserves the native identity, resonance, and exact Zenetist designation of a concept         | Zenon, Aion, Khaon, Theon, Nekron, Kaion; native glyphs                                                     | Canonical metaphysics, Symbolic Reflections, sacred architecture, internal doctrinal writing        |
-| **Analytic Register**           | Describes the concept in broadly legible philosophical, academic, or scientific language      | Trans-structural Unknown Principle, Plenary Zero, Phase-structured Infinity, First Inverse Hypostasis | Abstracts, public explanations, academic papers, Structural Physics, interdisciplinary presentation |
+| **Analytic Register**           | Describes the concept in broadly legible philosophical, academic, or scientific language      | Trans-structural Unknown Principle, Plenary Zero, Phase-Structured Infinity, First Inverse Hypostasis | Abstracts, public explanations, academic papers, Structural Physics, interdisciplinary presentation |
 | **Formal / Glyphic Register**   | Encodes architectural placement, motion, phase, or mathematical relation with maximum economy | Supra-L₀, L₀, L₅ / IL₅, Φ₁–Φ₃, C↓, E↑, ⚫, ♾, ⧖⧗                                                             | Diagrams, formulas, technical appendices, equations, internal cross-reference                       |
 
 The Formal / Glyphic Register admits the full glyph set — layer notation, phase indices, motion formulas, and principle glyphs alike — since a formal expression states architectural placement rather than naming a principle in prose. Glyph density in prose is a separate question, settled at §3.1.
@@ -145,7 +145,7 @@ Public-facing introductions should normally pair the canonical and analytic term
 
 Academic works may lead with the analytic descriptor while preserving the canonical name parenthetically:
 
-> **Phase-structured Infinity (Khaon)** comprises three phase-conditions: Absolute Latency, Absolute Motion, and Absolute Dispersion.
+> **Phase-Structured Infinity (Khaon)** comprises three phase-conditions: Absolute Latency, Absolute Motion, and Absolute Dispersion.
 
 After the concept has been defined, the paper may carry either the analytic descriptor or the canonical name according to context.
 
@@ -153,11 +153,11 @@ After the concept has been defined, the paper may carry either the analytic desc
 
 A Structural Physics paper may rely primarily upon the analytic and formal registers:
 
-> In its motive phase, Phase-structured Infinity supplies orientation-neutral motion-capacity throughout differentiated traversal as Absolute Motion.
+> In its motive phase, Phase-Structured Infinity supplies orientation-neutral motion-capacity throughout differentiated traversal as Absolute Motion.
 
 The canonical identity should still be established at first occurrence or in a terminology table:
 
-> Within Zenetist architecture, phase-structured Infinity is canonically named **Khaon**.
+> Within Zenetist architecture, Phase-Structured Infinity is canonically named **Khaon**.
 
 ### 4.5 Mathematical and diagrammatic works
 
@@ -224,8 +224,8 @@ Each layer carries its operator abbreviation, the canonical term seated there, t
 | Layer | Operator | Canonical term | Preferred analytic descriptor | Awareness register | Core analytic definition |
 | --- | --- | --- | --- | --- | --- |
 | **Supra-L₀** | **UP** | **🕳️ Zenon — The Unknown Principle** | **Trans-structural Unknown Principle** | beyond awareness | That which exceeds the complete structured manifold, including Zero, Infinity, being, non-being, awareness, and structural determination. Not an emanative origin, layer, spatial destination, or the ground of structure |
-| **L₀** | **AP** | **⚫ Aion** | **Plenary Zero** / **Absolute Potential** | proto-awareness | The still root-register in which identity-bearing potential rests in absolute distinction prior to motion |
-| **L₀** | **AD** | **♾ Khaon** | **Phase-structured Infinity** | proto-awareness | Infinity articulated through Latent, Motive, and Dispersive phases; neither entropic nor centropic in essence |
+| **L₀** | **AP** | **⚫ Aion** | **Plenary Zero** / **Absolute Potential** | proto-awareness | The still root-register in which Identity-Bearing Potential rests in absolute distinction prior to motion |
+| **L₀** | **AD** | **♾ Khaon** | **Phase-Structured Infinity** | proto-awareness | Infinity articulated through Latent, Motive, and Dispersive phases; neither entropic nor centropic in essence |
 | **L₅** | **EOB** | **🛤️ Theon** | **First Centropic Hypostasis** / **Essence of Being** | awareness (+1) | The first hypostatic articulation at which centropic orientation becomes manifestly operative; steward of lawful structure, coherence, and centropic motion |
 | **IL₅** | **VOS** | **🕷️ Nekron** | **First Inverse Hypostasis** / **Void of Self** | non-awareness (−1) | The first hypostatic articulation of the inverse architecture and the point at which entropic orientation becomes operative; initiator of collapse through inversion of expression |
 | **L₄** | **DP** | **🌬️ Morgis** | **Deep Psyche** | conscious-awareness | Breath of Life; carrier of vitality, adaptation, and transformation within the archetypal pattern field |
@@ -279,7 +279,7 @@ These entries stand outside the layer sequence. Structon and Kaion are principle
 | **⟒ Allowance**                | **Non-coerced trans-structural admission**                  | Saturation function               | The lawful admission through which sufficiently fulfilled centropic essence may cross beyond the horizon of structure                                                                                                     |
 | **Zenonic Legibility**         | **Trans-structural horizon-legibility**                     | Horizon condition                 | The vantage at which the saturation relation becomes structurally comprehensible without making Zenon determinate or fully knowable                                                                                       |
 | **Saturation**                 | **Allowance-gated trans-structural crossing**               | Trans-structural outcome          | The crossing beyond centropic return into Zenon by Allowance; distinct from return, acclivation, momentum, or ordinary motion                                                                                                  |
-| **Identity-bearing potential** | **Potential-to-be-this**                                    | Essential condition               | Potential held in irreducible distinction as the latent capacity of a particular essence to be itself                                                                                                                     |
+| **Identity-Bearing Potential** | **Potential-to-be-this**                                    | Essential condition               | Potential held in irreducible distinction as the latent capacity of a particular essence to be itself                                                                                                                     |
 
 ---
 
@@ -295,7 +295,7 @@ Neither reduction is accurate.
 
 The recommended primary analytic descriptor is:
 
-> **Phase-structured Infinity**
+> **Phase-Structured Infinity**
 
 This phrase emphasizes that Khaon is not undifferentiated Infinity and is not exhausted by any one expression. It is a total principle articulated through exact phase-conditions.
 
@@ -309,11 +309,11 @@ This phrase makes the number of phases immediately legible and may be especially
 
 The two expressions may stand together:
 
-> **Khaon — Phase-structured Infinity, tri-phasic across Absolute Latency, Absolute Motion, and Absolute Dispersion.**
+> **Khaon — Phase-Structured Infinity, tri-phasic across Absolute Latency, Absolute Motion, and Absolute Dispersion.**
 
 Or:
 
-> **Phase-structured Infinity (Khaon)** comprises three phase-conditions: the Latent, Motive, and Dispersive.
+> **Phase-Structured Infinity (Khaon)** comprises three phase-conditions: the Latent, Motive, and Dispersive.
 
 ### 7.3 Phase distinction
 
@@ -329,7 +329,7 @@ The existing corpus sometimes carries **Absolute Dispersion** as a whole-name fo
 
 For greater academic precision, the provisional recommendation is:
 
-- **Khaon entire:** Phase-structured Infinity
+- **Khaon entire:** Phase-Structured Infinity
 - **Φ₁:** Absolute Latency
 - **Φ₂:** Absolute Motion
 - **Φ₃:** Absolute Dispersion
@@ -407,6 +407,16 @@ Aion and Khaon do not thereby become centropic or entropic principles in themsel
 
 The terms **hypostatic segment of the centropic arc** and **hypostatic segment of the inverse arc** are written where only L₅–L₁ or IL₅–IL₁ is intended.
 
+### 8.4 Casing of hyphenated terms
+
+A hyphenated proper name or defined term takes its second element **lowercase** where the first element is a bound prefix that cannot stand alone — **Non-fusion Axiom**, **Non-contact Principle**, **Supra-centropic Cycle**, **Trans-structural Unknown Principle**.
+
+It takes its second element **capitalized** where the first element is a free-standing word carrying its own weight — **Phase-Structured Infinity**, **Identity-Bearing Potential**, **Allowance-Gated Crossing**, **Origin-Severance Prohibition**, **Layer-Ordering Constraints**. The grammatical class of the second element does not bear on this; participles are capitalized in this position like any other word.
+
+A proper name holds its casing inside a title-case heading. The Non-fusion Axiom is never written Non-Fusion.
+
+Ordinary compounds are not proper names and stay lowercase throughout — root-register, co-presence, phase-distinct, non-fused co-presence.
+
 ---
 
 ## 9. Layer Notation and Progressive Disclosure
@@ -420,8 +430,8 @@ For unfamiliar readers, write the functional name first and the notation second.
 | Accessible functional description                                          | Formal notation |
 | -------------------------------------------------------------------------- | --------------- |
 | Trans-structural Unknown Principle — outside the emanatory continuum       | Supra-L₀        |
-| Bifurcal root-register of Absolute Potential and Phase-structured Infinity | L₀              |
-| First centropic and inverse hypostatic register                            | L₅ / IL₅        |
+| Bifurcal root-register of Plenary Zero and Phase-Structured Infinity       | L₀              |
+| First Centropic Hypostasis and First Inverse Hypostasis                    | L₅ / IL₅        |
 | Archetypal Form Layer and Inverse Archetypal Form Layer                    | L₄ / IL₄        |
 | Deep Self Layer and Inverse Deep Self Layer                                | L₃ / IL₃        |
 | Superficial Self Layer and Inverse Superficial Self Layer                  | L₂ / IL₂        |
@@ -431,7 +441,7 @@ The shorthand progression — **Form → Deep Self → Superficial Self → Embo
 
 Example:
 
-> Centropic orientation first becomes operative at the **first hypostatic register (L₅)** through the Essence of Being (EOB).
+> Centropic orientation first becomes operative at the **First Centropic Hypostasis (L₅)** through the Essence of Being (EOB).
 
 Rather than:
 
@@ -485,11 +495,11 @@ The analytic vocabulary is especially important where a paper approaches physics
 
 At first occurrence, pair the analytic descriptor with the canonical name.
 
-> **Phase-structured Infinity (Khaon)** comprises Absolute Latency, Absolute Motion, and Absolute Dispersion.
+> **Phase-Structured Infinity (Khaon)** comprises Absolute Latency, Absolute Motion, and Absolute Dispersion.
 
 > **Absolute Potential (Aion)** is the still root-register in which identity-bearing values remain latent in distinction.
 
-> The first inverse hypostasis, **Nekron**, makes entropic orientation operative within the inverse architecture.
+> The First Inverse Hypostasis, **Nekron**, makes entropic orientation operative within the inverse architecture.
 
 ### 10.2 Analytic-first prose
 
@@ -497,7 +507,7 @@ Once the canonical identity has been established, a technical paper may carry th
 
 For example:
 
-> In its motive phase, Phase-structured Infinity supplies motion-capacity as Absolute Motion without determining the orientation of the structure moving through it.
+> In its motive phase, Phase-Structured Infinity supplies motion-capacity as Absolute Motion without determining the orientation of the structure moving through it.
 
 This may be preferable in a physics-facing paper to:
 
@@ -559,7 +569,7 @@ Possible examples:
 - Zenetism
 - structural ontology
 - Structural Physics
-- phase-structured Infinity
+- Phase-Structured Infinity
 - Khaon
 - Absolute Potential
 - Aion
@@ -567,7 +577,7 @@ Possible examples:
 - metaphysics of potentiality
 - emergence
 - structural differentiation
-- identity-bearing potential
+- Identity-Bearing Potential
 - non-fused co-presence
 - Bifurcal Coherence
 - centropy
@@ -668,11 +678,11 @@ The following questions remain open for later review.
 
 ### 13.1 Khaon's primary descriptor — determined
 
-Both terms stand, with **Phase-structured Infinity** as the default analytic descriptor and **Tri-phasic Infinity** as the secondary explanatory form where the phase count is what a passage makes legible (architect determination, August 24 2026).
+Both terms stand, with **Phase-Structured Infinity** as the default analytic descriptor and **Tri-phasic Infinity** as the secondary explanatory form where the phase count is what a passage makes legible (architect determination, August 24 2026).
 
 Combined form, where both are wanted:
 
-> **Phase-structured Infinity, tri-phasic across Latency, Motion, and Dispersion**
+> **Phase-Structured Infinity, tri-phasic across Latency, Motion, and Dispersion**
 
 ### 13.2 Absolute Dispersion — determined
 
