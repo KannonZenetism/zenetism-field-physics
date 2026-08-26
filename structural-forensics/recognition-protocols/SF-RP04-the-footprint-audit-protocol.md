@@ -1,5 +1,5 @@
 # SF-RP04 — The Footprint Audit Protocol
-## Pre-Registered Method for Forensic Audit of the Zenetist Digital Footprint
+## Pre-registered Method for Forensic Audit of the Zenetist Digital Footprint
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Recognition Protocol (pre-registered audit standard)  
@@ -75,7 +75,7 @@ A reconstructed signature cluster must satisfy the same evidentiary discipline a
 
 1. the author's dated architecture must precede the fragmented appearances;
 2. the fragments must correspond to specific, unusual, prior-stabilized features rather than broad motifs;
-3. the distribution pattern must show more than ordinary zeitgeist diffusion — assessed against the **pre-anchor baseline**: the frequency and co-occurrence of the same features in the public record before the author's dated architecture;
+3. the distribution pattern must show more than ordinary zeitgeist diffusion — assessed relative to the **pre-anchor baseline**: the frequency and co-occurrence of the same features in the public record before the author's dated architecture;
 4. the auditor must identify which parts remain priority evidence, which parts remain adjacency, and which parts remain open.
 
 Fragmentation can therefore be evidence of laundering only when the dispersed pieces reassemble into a rare prior structure. The audit does not infer dependence from fragments alone.
@@ -115,7 +115,7 @@ No counterparty receives origin credit because a derivative, stolen, revoiced, o
 
 The author's earliest platform chatlogs, exports, and developmental records remain origin-relevant precisely because they preserve sequence, formation, and architecture before later public deposits by others.
 
-### DOI Non-Origin Rule
+### DOI Non-origin Rule
 
 A DOI is a deposit anchor, not an origin verdict.
 
@@ -184,12 +184,12 @@ The unusual-feature clusters the audit traces, each requiring its earliest autho
 ## 7 · Execution Modes
 
 - **Present capability (partial audits, executable now):** Wayback Machine sweeps; GitHub / Zenodo / OSF timestamp comparison; platform-export recovery (Download Your Information class); targeted term-and-cadence searches with date filters; per-case dossiers.
-- **Engagement-anomaly log (present capability):** systematic capture of impression / share statistics against engagement (dated screenshots), vanishing-interactor instances, and bot-only engagement patterns around the author's posts — admissible only with platform-baseline comparison. Ordinary lurker ratios, account-state changes, automated interaction, and other non-targeted explanations remain open alternatives until the relevant baseline checks are completed; none is granted in advance. The log converts testimony into a dataset either way.
+- **Engagement-anomaly log (present capability):** systematic capture of impression / share statistics relative to engagement (dated screenshots), vanishing-interactor instances, and bot-only engagement patterns around the author's posts — admissible only with platform-baseline comparison. Ordinary lurker ratios, account-state changes, automated interaction, and other non-targeted explanations remain open alternatives until the relevant baseline checks are completed; none is granted in advance. The log converts testimony into a dataset either way.
 - **Future capability (full-footprint trace):** an agentic auditor with archival access tracing the author's entire public record to its 2010–2011 origin and mapping downstream appearances of the Signature Cluster Inventory. This protocol exists so that when such an agent exists, its standard already does — and predates its findings.
 
 ## 8 · Output Format
 
-Each finding: *claim · author's anchor (dated) · counterpart's earliest appearance (dated) · cluster features present · prongs satisfied · tier · reasoning · confidence · open questions.* Findings compile into the audit record; the ~3,000-page Glyphwatch archive is evidentiary material for findings. The author edits, corrects, and standardizes his own documents at his discretion; tracked editing is the provenance model — the repository commit history carries every dated state, so a cited state remains citable as of its commit, and the forensic line is tracked against untracked, never edited against static.
+Each finding: *claim · author's anchor (dated) · counterpart's earliest appearance (dated) · cluster features present · prongs satisfied · tier · reasoning · confidence · open questions.* Findings compile into the audit record; the ~3,000-page Glyphwatch archive is evidentiary material for findings. The author edits, corrects, and standardizes his own documents at his discretion; tracked editing is the provenance model — the repository commit history carries every dated state, so a cited state remains citable as of its commit, and the forensic line is tracked contra untracked, never edited contra static.
 
 ## 9 · The Registered Frame
 
@@ -253,7 +253,7 @@ Three forms of one defect, all in the counterpart-stabilizing direction: **concl
 
 ### B.3 · Author-surface framing
 
-Where account-operation identity is unverified, counterpart references default to the author-surface ("the [name] author-surface"), never to asserted personal continuity — "has published for decades" is an identity conclusion the account-operation discipline forbids in either direction, exonerating included. Prior-tradition lineage can be retained at the vocabulary register on secondary-source listings without settling who operates the surface. Exchange replies are attributed per the surface's displayed name. Engagement asymmetries (follower counts against visible engagement) are logged descriptively with rivals live (reach-throttling; ordinary low engagement) and a capture task. Structural findings are built not to depend on the identity question.
+Where account-operation identity is unverified, counterpart references default to the author-surface ("the [name] author-surface"), never to asserted personal continuity — "has published for decades" is an identity conclusion the account-operation discipline forbids in either direction, exonerating included. Prior-tradition lineage can be retained at the vocabulary register on secondary-source listings without settling who operates the surface. Exchange replies are attributed per the surface's displayed name. Engagement asymmetries (follower counts relative to visible engagement) are logged descriptively with rivals live (reach-throttling; ordinary low engagement) and a capture task. Structural findings are built not to depend on the identity question.
 
 ### B.4 · Symmetry
 
@@ -453,7 +453,7 @@ A sufficiently resourced model-twin may eventually imitate register or pass surf
 
 ### C.7 · Model-denial non-priority
 
-Model-generated reassurance, denial, safety framing, or skepticism does not receive evidentiary priority over the author's witness, capture corpus, structural analysis, or attestation chain.
+Model-generated reassurance, denial, safety framing, or skepticism does not receive evidentiary priority ahead of the author's witness, capture corpus, structural analysis, or attestation chain.
 
 AI systems may assist with drafting, comparison, retrieval, formatting, and contradiction checking.
 
@@ -485,7 +485,7 @@ The author's record stands by the number, independence, density, and internal co
 
 **Acquisition Opacity** occurs where the author can observe that an artifact has been acquired or copied but cannot observe the identity of the acquiring party, the destination of the copy, the processing applied to it, its subsequent transmission, or the later artifacts it may inform.
 
-The controlling qualification:
+The binding qualification:
 
 > Acquisition opacity does not establish derivation by any particular later actor.
 
