@@ -219,7 +219,9 @@ The vocabulary is twofold as the architecture is. §6.1 carries the structural e
 
 ### 6.1 Structural Emanation Layers
 
-Each layer carries its operator abbreviation, the canonical term seated there, the preferred analytic descriptor, and the awareness register named in `awareness-spectrum-and-its-inverse-arc.md`. Supra-L₀, L₀, L₅, and IL₅ carry a single operator each; L₄ through L₁ and their inverse registers carry two, one to each half of the pair.
+Each layer carries its operator abbreviation, the canonical term seated there, the preferred analytic descriptor, and the awareness register named in `awareness-spectrum-and-its-inverse-arc.md`. Supra-L₀, L₀, L₅, and IL₅ carry a single operator each; L₄ through L₁ and their inverse registers carry two, one to each half of the pair. **Operator** is here the Zenetist structural sense, not the mathematical one: the abbreviation encodes the function the register performs rather than labelling it, and the hypostatic function is operational. EOB names what the Essence of Being does at L₅.
+
+**Layer, symbol, and operator name aspects of one entry, never three separate things.** A layer is denoted by a symbol that encodes a structural operation. This is a working principle of the system rather than a convention of this chart: names encode function. A reader meeting `MP08-symbol-key-ch21.md` §21.9 will find the same data under different column headings, which foreground a different aspect of the same entry rather than making a competing claim about what it is.
 
 | Layer | Operator | Canonical term | Preferred analytic descriptor | Awareness register | Core analytic definition |
 | --- | --- | --- | --- | --- | --- |
@@ -245,7 +247,7 @@ Each layer carries its operator abbreviation, the canonical term seated there, t
 | **IL₁** | **IES** | **🍷 Malara** | **Inverse Embodied Soul** | inverse embodied consciousness | Indulgence and reactive dissociation from inner alignment |
 | **IL₁** | **IEM** | **🤯 Mania** | **Inverse Embodied Mind** | inverse embodied consciousness | Chaotic or obsessive cognition unanchored from coherence |
 
-The paired layer names — **Deep Psyche / Logos**, **Deep Soul / Mind**, **Superficial Soul / Mind**, **Embodied Soul / Mind**, and their inverse formulations — name the layer entire and remain the form for prose addressing a register rather than one of its two figures. The operator pairs abbreviate them: **DP / DL**, **DS / DM**, **SS / SM**, **ES / EM**, and the inverse forms.
+The paired layer names — **Deep Psyche / Logos**, **Deep Soul / Mind**, **Superficial Soul / Mind**, **Embodied Soul / Mind**, and their inverse formulations — are the canonical full articulation of the layer. The layer shorthand may stand where the poles themselves are not under discussion, as §13.3 governs. The operator pairs abbreviate them: **DP / DL**, **DS / DM**, **SS / SM**, **ES / EM**, and the inverse forms.
 
 **Plenary Zero** names Aion entire, closing an asymmetry in the L₀ pair: Khaon carried a whole-principle descriptor while Aion carried only **Absolute Potential**, whose parallel is Khaon's **Absolute Dispersion**. Plenary Zero renders Zero as the plenary holding of all distinct values — the totality of all that is and all that can be, every positive value standing with its negative and the pairing summing to Zero — full rather than empty, and never the nothingness reading §2.1 excludes. Articulable number arises from Zero at the first bifurcation into +1 and −1. **Absolute Potential** remains lawful and names what rests at L₀; the two stand at different scales rather than competing.
 
@@ -327,7 +329,7 @@ Or:
 
 The existing corpus sometimes carries **Absolute Dispersion** as a whole-name for Khaon, taking the total shorthand from its Dispersive phase. It also applies **Absolute Dispersion** specifically for Φ₃.
 
-For greater academic precision, the provisional recommendation is:
+The determination (§13.2):
 
 - **Khaon entire:** Phase-Structured Infinity
 - **Φ₁:** Absolute Latency
@@ -340,7 +342,7 @@ Where the whole-principle application of **Absolute Dispersion** is retained for
 - whole-name wording;
 - or legacy shorthand derived from the Dispersive phase.
 
-This normalization remains subject to architect review before canonical sealing.
+**Absolute Dispersion** names the third phase only. The whole-principle application is legacy total-symbol terminology, and MP08 already distinguishes the two — the Total Symbol entry names ♾ Khaon as Absolute Dispersion, the whole-name of Khaon, distinct from Absolute Dispersion as the Φ₃ phase.
 
 ### 7.5 Required exclusions
 
@@ -497,7 +499,7 @@ At first occurrence, pair the analytic descriptor with the canonical name.
 
 > **Phase-Structured Infinity (Khaon)** comprises Absolute Latency, Absolute Motion, and Absolute Dispersion.
 
-> **Absolute Potential (Aion)** is the still root-register in which identity-bearing values remain latent in distinction.
+> **Plenary Zero (Aion)** names the principle entire; as **Absolute Potential** it is the still root-register in which identity-bearing values remain latent in distinction.
 
 > The First Inverse Hypostasis, **Nekron**, makes entropic orientation operative within the inverse architecture.
 
@@ -672,7 +674,7 @@ Existing works are revised at the architect's determination. Conditions that com
 
 ---
 
-## 13. Open Architect Determinations
+## 13. Architect Determinations and Open Items
 
 The following questions remain open for later review.
 
