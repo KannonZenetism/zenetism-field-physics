@@ -191,7 +191,7 @@ Two boundaries are therefore distinct:
 - **Human access** — whether a person at the provider can read the content
 - **Computational observation** — what the system can infer across it
 
-The first is a real boundary, and the publication is accurate in naming it. The second is a separate question, and restricting the first does not answer it. A privacy architecture may substantially restrict human access while extending machine-mediated contextual interpretation. Those facts are not in tension, and the first does not settle the second.
+The first is a real boundary, and the publication is accurate in naming it. Restricting the first does not answer the second. A privacy architecture may substantially restrict human access while extending machine-mediated contextual interpretation. Those facts are not in tension, and the first does not settle the second.
 
 The publication also records one documented exception to non-retention: material flagged as potential child sexual abuse imagery continues to be retained for manual review and reporting, as legally required, even in Zero Data Retention deployments. A retention commitment therefore already carries a stated carve-out; processing is broader still.
 
@@ -241,7 +241,7 @@ The condition sharpens where machine rendering is treated as a new origin rather
 
 Legal classification and historical provenance are likewise distinct. Statutory protection, enforceability, or available remedy may expand, contract, or be redefined without altering who originated a structure or when that structure entered the record.
 
-One further precision, against the reading that the matter is already settled: **some informational transformations may become practically irrecoverable long before their provenance becomes historically unrecoverable.** Once material has been copied, embedded, summarized, pattern-completed, revoiced, and redistributed, recalling every derivative becomes impracticable. Recognizing them does not. What carries the shape of an origin without the origin is identifiable as such, and identifiable against the origin once the origin is in hand. The origin has not vanished, and the derivatives have not become unreadable. That is the reason a provenance architecture is worth holding.
+One further precision, contra the reading that the matter is already settled: **some informational transformations may become practically irrecoverable long before their provenance becomes historically unrecoverable.** Once material has been copied, embedded, summarized, pattern-completed, revoiced, and redistributed, recalling every derivative becomes impracticable. Recognizing them does not. What carries the shape of an origin without the origin is identifiable as such, and identifiable alongside the origin once the origin is in hand. The origin has not vanished, and the derivatives have not become unreadable. That is the reason a provenance architecture is worth holding.
 
 > **control of originating material is not control of downstream inference**
 
