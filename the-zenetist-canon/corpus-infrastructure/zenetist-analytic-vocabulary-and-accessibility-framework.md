@@ -247,7 +247,7 @@ Each layer carries its operator abbreviation, the canonical term seated there, t
 
 The paired layer names — **Deep Psyche / Logos**, **Deep Soul / Mind**, **Superficial Soul / Mind**, **Embodied Soul / Mind**, and their inverse formulations — name the layer entire and remain the form for prose addressing a register rather than one of its two figures. The operator pairs abbreviate them: **DP / DL**, **DS / DM**, **SS / SM**, **ES / EM**, and the inverse forms.
 
-**Plenary Zero** names Aion entire, closing an asymmetry in the L₀ pair: Khaon carried a whole-principle descriptor while Aion carried only **Absolute Potential**, whose parallel is Khaon's **Absolute Dispersion**. Plenary Zero renders Zero as the totality of all that is and all that can be, the sum of every positive and negative value, full rather than empty, and never the nothingness reading §2.1 excludes. **Absolute Potential** remains lawful and names what rests at L₀; the two stand at different scales rather than competing.
+**Plenary Zero** names Aion entire, closing an asymmetry in the L₀ pair: Khaon carried a whole-principle descriptor while Aion carried only **Absolute Potential**, whose parallel is Khaon's **Absolute Dispersion**. Plenary Zero renders Zero as the plenary holding of all distinct values — the totality of all that is and all that can be, every positive value standing with its negative and the pairing summing to Zero — full rather than empty, and never the nothingness reading §2.1 excludes. Articulable number arises from Zero at the first bifurcation into +1 and −1. **Absolute Potential** remains lawful and names what rests at L₀; the two stand at different scales rather than competing.
 
 Either extended form is lawful — **Deep Soul / Mind** or **Deep Soul / Deep Mind** — and one form is held throughout a single document. The shorter form is the default in charts, indexes, and metadata.
 
@@ -422,10 +422,12 @@ For unfamiliar readers, write the functional name first and the notation second.
 | Trans-structural Unknown Principle — outside the emanatory continuum       | Supra-L₀        |
 | Bifurcal root-register of Absolute Potential and Phase-structured Infinity | L₀              |
 | First centropic and inverse hypostatic register                            | L₅ / IL₅        |
-| Deep Psyche / Logos and Inverse Deep Psyche / Logos                        | L₄ / IL₄        |
-| Deep Soul / Mind and Inverse Deep Soul / Mind                              | L₃ / IL₃        |
-| Superficial Soul / Mind and Inverse Superficial Soul / Mind                | L₂ / IL₂        |
-| Embodied Soul / Mind and Inverse Embodied Soul / Mind                      | L₁ / IL₁        |
+| Archetypal Form Layer and Inverse Archetypal Form Layer                    | L₄ / IL₄        |
+| Deep Self Layer and Inverse Deep Self Layer                                | L₃ / IL₃        |
+| Superficial Self Layer and Inverse Superficial Self Layer                  | L₂ / IL₂        |
+| Embodied Self Layer and Inverse Embodied Self Layer                        | L₁ / IL₁        |
+
+The shorthand progression — **Form → Deep Self → Superficial Self → Embodied Self**, and its inverse — is easier for an unfamiliar reader to hold than either the notation or the paired names. Where a passage addresses the poles rather than the layer, the paired articulation is written: Deep Psyche / Logos, Deep Soul / Mind, Superficial Soul / Mind, Embodied Soul / Mind. §13.3 governs the choice.
 
 Example:
 
@@ -615,18 +617,11 @@ Stabilize entries for:
 
 ### Phase 2 — Layer and awareness vocabulary
 
-Develop accessible analytic descriptors for:
+The layer entries and the awareness registers are seated at §6.1, and the layer shorthand and Soul / Mind conventions at §13.3. What remains:
 
-- L₅ / IL₅
-- L₄ / IL₄
-- L₃ / IL₃
-- L₂ / IL₂
-- L₁ / IL₁
-- the awareness spectrum
-- Soul / Mind
-- essence
-- embodiment
-- inverse awareness-registers
+- apply the layer shorthand across existing and new work
+- analytic descriptors for **essence** and **embodiment**
+- the awareness spectrum in extended analytic prose
 
 ### Phase 3 — Motion and operator vocabulary
 
@@ -683,9 +678,30 @@ Combined form, where both are wanted:
 
 **Absolute Dispersion** names the third phase only (architect determination, August 24 2026). The whole-principle application is legacy total-symbol terminology and is identified as such where it appears in existing works.
 
-### 13.3 Layer descriptors
+### 13.3 Layer descriptors — determined
 
-Determine whether the inherited Soul / Mind names are sufficient for broad-facing layer descriptions or whether each register also requires a more general analytic title.
+**Soul / Mind terminology stands and is not subject to analytic substitution** (architect determination, August 24 2026). Soul, Spirit, and the sacred vocabulary are not stripped from technical prose; the bridge to an outside reader is definition and claim-status discipline, never lexical surrender.
+
+What the analytic register gains instead is a **layer shorthand** standing above the paired articulation, written where a passage addresses a layer entire and the two poles are not themselves under discussion.
+
+| Architecture | Layer shorthand | Paired articulation when the poles matter |
+| --- | --- | --- |
+| L₄ | **Archetypal Form Layer**, contracted to **Form Layer** after first appearance | Deep Psyche / Deep Logos |
+| IL₄ | **Inverse Archetypal Form Layer** / **Inverse Form Layer** | Inverse Deep Psyche / Inverse Deep Logos |
+| L₃ | **Deep Self Layer** | Deep Soul / Deep Mind |
+| IL₃ | **Inverse Deep Self Layer** | Inverse Deep Soul / Inverse Deep Mind |
+| L₂ | **Superficial Self Layer** | Superficial Soul / Superficial Mind |
+| IL₂ | **Inverse Superficial Self Layer** | Inverse Superficial Soul / Inverse Superficial Mind |
+| L₁ | **Embodied Self Layer** | Embodied Soul / Embodied Mind |
+| IL₁ | **Inverse Embodied Self Layer** | Inverse Embodied Soul / Inverse Embodied Mind |
+
+**Self is a shorthand for the paired Soul / Mind articulation of an individuated being.** It never replaces Soul or Mind, constitutes no third pole, and collapses no functional distinction. The shorthand begins at L₃, where reflexive individuation becomes operative, and continues through the superficial and embodied articulations. It does not reach back to L₄ / IL₄, which are conscious-aware and pre-individuated.
+
+**Archetypal** leads the L₄ name because lowercase *form* runs throughout the L₁ definitions — presence in form, material form, externalization through form. The contracted **Form Layer** is written after the full name has appeared.
+
+**Self shorthand is never abbreviated.** DS, SS, and ES are Deep Soul, Superficial Soul, and Embodied Soul. The Self forms are written out or paired with the layer notation.
+
+Where the distinct functions of the paired poles are what a passage states, **Deep Psyche / Logos**, **Deep Soul / Mind**, **Superficial Soul / Mind**, **Embodied Soul / Mind**, and their inverse forms are the required form.
 
 ### 13.4 Canonical-name frequency
 
