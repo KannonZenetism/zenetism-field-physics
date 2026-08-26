@@ -569,7 +569,35 @@ Structural diagnosis may therefore move across personal, interpersonal, cultural
 
 ---
 
-# 18. Compact Diagnostic Formulations
+# 18. The Semantic Frame Anchor
+
+The countermeasure to Mainstream Semantic Substitution in live interpretation is not repeated explanation.
+
+It is a stated context-lock.
+
+A **Semantic Frame Anchor** is a short structural preamble that locks the interpretive frame before diagnostic vocabulary appears.
+
+It is not a disclaimer.
+
+It is not a justification.
+
+It installs the semantic field within which the terms that follow are to be read.
+
+The minimal canonical form:
+
+> All diagnostic terms in this exchange are metaphysical, not clinical.
+>
+> Terms such as "diagnosis," "derangement," "corruption," and "pathology" refer to orientation-based manifestations within the Zenetist architecture of mind, psyche, identity, embodiment, and social structure.
+
+An interpreter that proceeds past the anchor and substitutes a clinical frame is no longer misreading.
+
+It is refusing a stated frame.
+
+The anchor therefore sharpens the diagnosis of the interpreter itself: drift arising before the anchor may be default association; substitution arising past the anchor is Diagnostic Register Reduction in the presence of a stated frame.
+
+---
+
+# 19. Compact Diagnostic Formulations
 
 > **Framework-Internal Semantic Priority:** A canonically defined term is interpreted through its native architectural meaning before external semantic defaults are applied.
 
@@ -585,9 +613,11 @@ Structural diagnosis may therefore move across personal, interpersonal, cultural
 
 > **Diagnostic Register Reduction:** Reducing structural diagnosis to clinical diagnosis changes the register of the claim and therefore changes the claim itself.
 
+> **Semantic Frame Anchor:** A stated context-lock installs the interpretive frame; substitution arising past the anchor is refusal of a stated frame, not misreading.
+
 ---
 
-# 19. Final Clarification
+# 20. Final Clarification
 
 Zenetism does not require mainstream disciplines to approve its diagnostic vocabulary before that vocabulary becomes meaningful within its own architecture.
 
