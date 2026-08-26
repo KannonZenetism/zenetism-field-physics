@@ -1235,14 +1235,32 @@ The word states that the origin moved. It did not. **A derivative fractures itse
 
 Replacements by sense:
 
-- **overwriting** — where a later account covers an earlier one while the earlier record remains intact. This is the usual case, and it is the more exact word: the original has not moved, it has been written over
+- **substituted for** — where a later account or inherited meaning is put where the original belongs. This is the usual case, and it is the exact word: the substitution is the interpreter's or derivative's act on its own side, and it never reaches the original
 - **obscured** — where the originating record is no longer readily encountered
 - **fractured from** — where the derivative's own separation is what is named
-- **superseded** — where a later determination replaces an earlier one within the corpus itself
+- **superseded** — strictly where a later determination replaces an earlier one within the corpus itself; never toward originating work
 
 Lawful where the word appears inside its own refusal, and where it names a mechanism unrelated to origin or standing.
 
-**On *overwriting* and the vertical family.** *Over* here is not spatial position. It is the substitution sense — one inscription written across another — and the corpus already carries the word in that sense at the Hypostatic Function-Bearing entry, where function-bearing must not imply ownership, possession, overwrite, or bearer erasure. The vertical restriction concerns motion in the architecture and rank of standing, neither of which *overwriting* asserts.
+**The over-compounds join the family** (architect determination, August 26 2026). **Overwrite**, **overrule**, and **override**, in all their forms, are not installed in canonical composition: originating work cannot be overridden or displaced in the ultimate sense, and a term that concedes the capacity in its grammar is not adopted even as a replacement. This supersedes the *overwriting* bullet formerly carried in this entry and retires the vertical-family defense that accompanied it. The Hypostatic Function-Bearing entry's mention stands, since there the word names a refused implication, and the whole family remains lawful inside its own refusal (*it does not supersede*, *the origin cannot be overridden*). Precedent repairs: `framework-internal-diagnosis-and-semantic-priority.md` — the Function line (*are substituted for*), §9 (*supersede* retained in refusal form), and the coinage **Mainstream Semantic Override** renamed **Mainstream Semantic Substitution** throughout.
+
+---
+
+## Over-Relation Restriction
+
+**Over** is barred as a live relation between two named things in the architect's voice — preference (*extraction over reciprocity*), interpretive priority (*priority over inherited meaning*), and position alike (architect determination, August 26 2026). The construction ranks the two terms, and rank of standing is what the vertical family refuses. This is the vertical family's reach into the preposition, parallel to the under-restriction, and it tests the relation, not the letters.
+
+Replacements by sense:
+
+- **in place of** — where one thing stands where another should, the diagnostic standing-in sense: *appropriation in place of reciprocity*
+- **ahead of** — where sequence or interpretive priority is the sense: *interpretive priority ahead of culturally inherited default meaning*
+
+Lawful retentions:
+
+- fossilized compounds carrying no live relation between named things: **overlap**, and comparable forms where the verticality is sealed inside the word
+- quoted material, and another party's own terms
+
+The substitution-sense compounds — **overwrite**, **overrule**, **override** — are not retentions; they are governed and barred at the Displacement-Family Restriction. Precedent repairs: the §4 diagnostic list and §9 sealed formulation of `framework-internal-diagnosis-and-semantic-priority.md`.
 
 ---
 
@@ -1576,6 +1594,8 @@ Preferred formulations include:
 - resonance continuity
 - environmental continuity
 - lawful articulation
+
+**Extraction is barred in the architect's voice** (architect determination, August 26 2026). The caution above tightens to a bar for the word itself: *extraction* and *extract* do not appear as the architect's own diagnostic vocabulary, and the earlier repair endpoint that carried *extractive use* to *extraction* is superseded — the use-family correction was right; the landing word is now retired (the Use Terminology Restriction's attributed-usage note records that repair as history). **Appropriation** and **appropriative** are the installed diagnostic successors: *appropriation in place of reciprocity*, *appropriative acquisition*. Lawful retention: naming another party's specific terms, and quoted material. Precedent repairs: `framework-internal-diagnosis-and-semantic-priority.md` §4 and §5 (*A norm does not appropriate*).
 
 ---
 
@@ -2131,6 +2151,12 @@ Barred:
 - any phrasing in which the loss lands on the centropic side
 
 **Relational register retained.** Entity-to-entity isolation carrying no origin claim remains lawful severance, per the retained list of the Conceptual Lockdown Protocol's Origin-Severance Prohibition: E₈ ╫⁻ severed-bridge constructions, the E₁₃ ║⁻ Wall as operative severance, Skotos' severed reasoning, and reception-field severance within Signal Burial. The Wall severs relation between fields; nothing severs a signal from its origin.
+
+## Capture Terminology Boundary
+
+**Capture** carries the seizure-shape — a taking of what remains untaken — and is barred in coinages and constructions where the captured thing would be an origin-side term, register, or standing (architect determination, August 26 2026). Nothing captures the native register; the interpreter narrows its own reading. **Reduction** is the lawful shape for register-narrowing names: **Diagnostic Register Capture** was renamed **Diagnostic Register Reduction** on this ground (`framework-internal-diagnosis-and-semantic-priority.md` §11 and §18).
+
+Lawful retention: the forensic **capture** — a record the author takes of his own or observed material ("from the author's captures," per the Prepared-line convention) — names the author's own act and carries no seizure of standing.
 
 ## Named-Operator Retention
 
