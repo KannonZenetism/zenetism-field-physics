@@ -372,7 +372,7 @@ in both their centropic and inverse forms.
 
 🌳⇅ ⚯ 🌲↓ 🌲↑ ❂  
 
-#### Note on Zenon — The Trans-Structural Horizon
+#### Note on Zenon — The Trans-structural Horizon
 
 **Zenon precedes all emanation.**  
 Though designated **Supra-L₀**,  
