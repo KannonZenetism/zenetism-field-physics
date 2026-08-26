@@ -424,7 +424,7 @@ Historical depth can increasingly be simulated without having been lived.
 
 ## 12. Synthetic Persona Provenance
 
-**Synthetic persona** names a presented figure through which the human is absent and the system is present. Whether a human being exists behind the channel is a separate question and does not settle this one: where the figure that speaks is generated, the first-person claims it carries are not that person's testimony. A generated likeness of a real person — an AI clone — is a synthetic persona in this sense, because the person is not present in the artifact making the claim.
+**Synthetic persona** names a presented figure through which the human is absent and the system is present. Whether a human being exists behind the channel does not settle this one: where the figure that speaks is generated, the first-person claims it carries are not that person's testimony. A generated likeness of a real person — an AI clone — is a synthetic persona in this sense, because the person is not present in the artifact making the claim.
 
 Synthetic personas create a particularly sharp provenance problem because first-person narration naturally carries autobiographical implications.
 
@@ -522,7 +522,7 @@ It is to distinguish **claimed date** from **verifiable historical presence**.
 
 ---
 
-## 14. Archival Erasure contra Narrative Overwriting
+## 14. Archival Erasure contra Narrative Occlusion
 
 Two different historical threats must remain separate.
 
@@ -534,13 +534,13 @@ This may occur through ordinary breakdown, account loss, institutional collapse,
 
 Because no single repository is indestructible, important provenance should not depend upon one location.
 
-### Narrative Overwriting
+### Narrative Occlusion
 
-Narrative overwriting does not require alteration of the originating record.
+Narrative occlusion does not require alteration of the originating record.
 
 The original files may remain untouched.
 
-The overwriting occurs when a later account becomes so prevalent that the originating record is no longer readily encountered.
+The occlusion occurs when a later account becomes so prevalent that the originating record is no longer readily encountered.
 
 A person searching the history encounters:
 
@@ -562,7 +562,7 @@ This is the principal sense in which history may be rewritten without rewriting 
 
 ## 15. Narrative Amplification
 
-Narrative overwriting becomes especially powerful where publication and discovery systems reward already-legible signals.
+Narrative occlusion becomes especially powerful where publication and discovery systems reward already-legible signals.
 
 Where a discovery architecture privileges established engagement, familiar categories, repeated terminology, and already-recognized entities, novel systems may enter the field with a structural disadvantage.
 
@@ -618,7 +618,7 @@ The means capable of transforming and distributing that collective field remain 
 
 This is not an argument for proprietary ownership of thought.
 
-It is an argument against converting freedom of circulation into erasure of provenance.
+It is an argument contra the conversion of freedom of circulation into erasure of provenance.
 
 A genuine intellectual commons can preserve both:
 
@@ -855,7 +855,7 @@ Provenance should follow the engine into the fragment. The pathway by which a fr
 - its subsequent transmission
 - or the later artifacts it may inform
 
-The qualification that controls any forensic application:
+The qualification that binds any forensic application:
 
 > **Acquisition opacity does not establish derivation by any particular later actor.**
 
@@ -1087,7 +1087,7 @@ Synthetic personas should not present fictional embodiment or fabricated develop
 
 ### Discovery Provenance
 
-Where systems answer questions of origination, priority, or historical development, chronology and antecedent artifacts should take precedence over mere prevalence.
+Where systems answer questions of origination, priority, or historical development, chronology and antecedent artifacts should stand ahead of mere prevalence.
 
 Questions of this class include: who originated this; where a structure first appeared; what the earliest documented articulation is; what work introduced a relation; and what the antecedents of a later formulation are.
 
@@ -1177,7 +1177,7 @@ The provenance problem of generative culture is not simply whether a work was ge
 
 It is whether **actual histories can remain legible inside an environment capable of generating alternative histories at enormous scale**.
 
-A historical record may survive while its social meaning is overwritten.
+A historical record may survive while its social meaning is occluded.
 
 A coherent architecture may survive while its outputs are fragmented across unrelated domains.
 
