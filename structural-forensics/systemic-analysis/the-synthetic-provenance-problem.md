@@ -865,6 +865,34 @@ The distinction matters in both directions. Opacity is not evidence against deri
 
 What follows is methodological. Where the transmission chain cannot be inspected, derivational reconstruction proceeds from what remains inspectable — dated chronology, structural comparison, the derivational map of §20, and the tests of §19. These are not substitutes accepted for want of better evidence. They are the evidence proper to a field in which transmission is routinely unobservable.
 
+Acquisition and discovery must remain separate. Observable acquisition of an artifact does not establish:
+
+- human readership
+- number of distinct acquiring parties
+- whether retrieval was human or computational
+- whether repeated acquisitions represent repeated actors
+- whether the artifact was actually read
+- what processing followed
+- or whether any later derivative was produced from it
+
+Conversely, low visible human engagement does not establish low acquisition. An artifact may therefore occupy the structurally significant condition of **high acquisition / low reciprocal human legibility** without the public record disclosing what relation produced the difference.
+
+> **acquisition is not readership**
+
+> **acquisition is not discovery**
+
+> **observable retrieval is not observable reception**
+
+> **acquisition volume is not actor count**
+
+The final distinction is especially important where repository statistics can count repeated qualifying retrieval events without identifying whether they arise from one recurring process or many distinct actors.
+
+Where computational acquisition substantially exceeds human discovery, the originating work may become highly available for processing while remaining poorly legible to the human public as origin. This is a provenance risk distinct from acquisition itself: **the origin becomes available as input before it becomes legible as origin**. If derivative material later receives greater human visibility than the originating artifact, the distribution asymmetry supplies exactly the already-legible signals on which Narrative Amplification (§15) operates.
+
+> **High computational availability combined with low human discoverability creates conditions under which derivative circulation may outrun recognition of the originating work.**
+
+The relation is structural, not evidentiary. It converts nothing about retrieval into proof of derivation, and the companion analysis of machine legibility contra human legibility (`the-algorithmic-legibility-problem.md` §8) states the receiving-class asymmetry on which it rests.
+
 Acquisition opacity concerns the evidentiary position of the party seeking to trace transmission. It touches nothing on the originating side: the record of origination remains whatever it was, whoever acquired what.
 
 ---
