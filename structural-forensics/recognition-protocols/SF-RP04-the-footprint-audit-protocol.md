@@ -497,6 +497,12 @@ Where the transmission chain cannot be inspected, derivational reconstruction pr
 
 Acquisition opacity concerns the evidentiary position of the party seeking to trace transmission. It touches nothing on the originating side: the record of origination remains whatever it was, whoever acquired what.
 
+Aggregate acquisition statistics are not read as a count of distinct persons, distinct machines, readers, downstream recipients, or derivational events. Where the reporting system does not expose actor class, persistent actor identity, destination, or downstream processing, the statistics establish acquisition events only at the granularity supplied by that system.
+
+> An acquisition counter inherits the epistemic limits of the counting rule that produced it.
+
+> aggregate acquisition is not a transmission ledger
+
 ### D.2 · Cryptographic attestation reading
 
 A cryptographic timestamp attests existence **from the moment of stamping forward**. It cannot backdate. Its evidentiary form is therefore an **upper bound**: the artifact may have existed earlier and cannot have existed later.
@@ -534,7 +540,7 @@ The asymmetry affects the evidentiary position of the party seeking to audit. It
 
 ### D.6 · Basis
 
-Companion doctrine is held in `the-synthetic-provenance-problem.md` §21 and §28, and in `the-algorithmic-legibility-problem.md` §6.
+Companion doctrine is held in `the-synthetic-provenance-problem.md` §21 and §28, and in `the-algorithmic-legibility-problem.md` §6 and §8.
 
 ---
 
