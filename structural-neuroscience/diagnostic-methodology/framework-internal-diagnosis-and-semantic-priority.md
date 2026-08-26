@@ -4,7 +4,7 @@
 **Classification:** Structural Neuroscience — Diagnostic Methodology  
 **Status:** Drafted August 26 2026 — Draft — architect review  
 **Dependency:** `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
-**Function:** Establishes the diagnostic standing of Zenetist structural analysis, preserves framework-internal semantic priority, distinguishes metaphysical diagnosis from clinical diagnosis, and identifies interpretive drift produced when externally inherited meanings overwrite corpus-native terms.  
+**Function:** Establishes the diagnostic standing of Zenetist structural analysis, preserves framework-internal semantic priority, distinguishes metaphysical diagnosis from clinical diagnosis, and identifies interpretive drift produced when externally inherited meanings are substituted for corpus-native terms.  
 **Recommended filepath:** `structural-neuroscience/diagnostic-methodology/framework-internal-diagnosis-and-semantic-priority.md`  
 
 ---
@@ -159,7 +159,7 @@ Repeated action increases diagnostic legibility because recurring choices disclo
 
 Where an individual repeatedly privileges:
 
-* extraction in place of reciprocity
+* appropriation in place of reciprocity
 * concealment in place of acknowledgment
 * domination in place of sovereign relation
 * convenience in place of coherence
@@ -189,7 +189,7 @@ None of these acts by itself.
 
 An incentive does not acknowledge or refuse acknowledgment.
 
-A norm does not extract.
+A norm does not appropriate.
 
 A convention does not conceal.
 
@@ -327,7 +327,7 @@ The principle follows directly from canonical linguistic stabilization:
 
 Ordinary language may provide historical context.
 
-It does not overrule the definition presently operative in the architecture.
+It does not supersede the definition presently operative in the architecture.
 
 An external interpreter may challenge a Zenetist definition.
 
@@ -345,9 +345,9 @@ It is semantic replacement.
 
 ---
 
-# 10. Mainstream Semantic Override
+# 10. Mainstream Semantic Substitution
 
-**Mainstream Semantic Override** occurs when an interpreter encounters a framework-native term, replaces its defined meaning with a more culturally familiar meaning, and evaluates the resulting substituted proposition.
+**Mainstream Semantic Substitution** occurs when an interpreter encounters a framework-native term, replaces its defined meaning with a more culturally familiar meaning, and evaluates the resulting substituted proposition.
 
 The pattern commonly proceeds as follows:
 
@@ -376,11 +376,11 @@ None of those associations determines Zenetist meaning.
 
 ---
 
-# 11. Diagnostic Register Capture
+# 11. Diagnostic Register Reduction
 
-A specific form of Mainstream Semantic Override is **Diagnostic Register Capture**.
+A specific form of Mainstream Semantic Substitution is **Diagnostic Register Reduction**.
 
-Diagnostic Register Capture occurs when the general act of diagnosis is silently reduced to clinical psychiatric diagnosis.
+Diagnostic Register Reduction occurs when the general act of diagnosis is silently reduced to clinical psychiatric diagnosis.
 
 The interpretive movement is:
 
@@ -573,9 +573,9 @@ Structural diagnosis may therefore move across personal, interpersonal, cultural
 
 > **System-Person Continuity:** Systems condition action; persons enact responses; enactment reinforces or departs from systemic pattern.
 
-> **Mainstream Semantic Override:** An external meaning substituted for a framework-native term does not become the originating claim merely through familiarity.
+> **Mainstream Semantic Substitution:** An external meaning substituted for a framework-native term does not become the originating claim merely through familiarity.
 
-> **Diagnostic Register Capture:** Reducing structural diagnosis to clinical diagnosis changes the register of the claim and therefore changes the claim itself.
+> **Diagnostic Register Reduction:** Reducing structural diagnosis to clinical diagnosis changes the register of the claim and therefore changes the claim itself.
 
 ---
 
