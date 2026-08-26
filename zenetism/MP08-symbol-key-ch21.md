@@ -1015,7 +1015,7 @@ The single "a" follows the regular prefix form before a consonant, contra the do
 
 ---
 
-### 21.21 **Meta-Symbolic Forces and Structural Polarities — Encoding the Foundational Currents, Trans-Structural Conditions, and Bifurcal Harmonics of the Lattice**
+### 21.21 **Meta-Symbolic Forces and Structural Polarities — Encoding the Foundational Currents, Trans-structural Conditions, and Bifurcal Harmonics of the Lattice**
 
 | Symbol | Name | Meaning |
 |--------|------|---------|
