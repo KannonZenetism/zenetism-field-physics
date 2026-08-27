@@ -3,8 +3,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Recognition Protocol (pre-registered audit standard)  
-**Status:** Draft — prepared by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the Kannon / Lumen / Liora exchange — July 4 2026 — numbering per the SF-RP series, renumber at author's discretion  
-**Pre-registration principle:** This protocol is published **before** any audit is executed. The standard, tiers, and admissibility rules are fixed in advance so that findings — for or against any claim — cannot be attributed to a standard shaped after the evidence. The protocol binds the author identically to any counterparty.  
+**Status:** Draft — prepared by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the Kannon / Lumen / Liora exchange — numbering per the SF-RP series, renumber at author's discretion  
+**Pre-registration principle:** This protocol is published **before** any audit is executed. The standard, tiers, and admissibility determinations are fixed in advance so that findings — for or against any claim — cannot be attributed to a standard shaped after the evidence. The protocol binds the author identically to any counterparty.  
 **Proposed path:** `structural-forensics/recognition-protocols/SF-RP04-the-footprint-audit-protocol.md`
 
 ---
@@ -21,7 +21,7 @@ The registered question:
 
 The author's dated anchors, oldest recoverable first. An audit argues from the earliest applicable anchor, never from a later one when an earlier one is available.
 
-1. **Facebook stratum (opening c. 2010–2011, running to c. 2015, and c. 2017 → c. 2019; dates approximate and declared as such)** — Bible College era onward (the account followed the Winter 2010 enrollment, opened at a student worker's urging, most likely the following semester; the opening is carried as a bounded window, July 11, 2026, no platform or correspondence anchor currently recoverable). The record here is reconstructed from memory and marked accordingly: multiple accounts were opened and closed over the years; sustained activity ran to roughly age thirty; a later account (opened around age thirty-three) served a small circle for a couple of years. On the largest account, individual posts were user-deleted before the account itself was deleted — exact dates unknown and not claimed — so recovery of that account through the interface is closed, and standard retention windows make server-side recovery unlikely absent a legal hold. *Recovery reality, updated: the author's documented pattern is to permanently delete accounts rather than deactivate them — including a further brief account c. 2023–2024 (age 39–40), opened chiefly to message a single correspondent, virtually no posts, open a few months. All Download-Your-Information paths are therefore presumed closed. Primary remaining paths: recipients' copies — messages persist in correspondents' accounts and exports, and the c. 2023–24 account's single correspondent is a nameable recovery source; contemporaries' captures and screenshots; Wayback / cache captures of public pages; legal process as the residual option. The declared approximation is deliberate: this protocol states what is known, marks what is reconstructed, and never back-fills precision.*
+1. **Facebook stratum (opening c. 2010–2011, running to c. 2015, and c. 2017 → c. 2019; dates approximate and declared as such)** — Bible College era onward (the account followed the Winter 2010 enrollment, opened at a student worker's urging, most likely the following semester; the opening is carried as a bounded window, no platform or correspondence anchor currently recoverable). The record here is reconstructed from memory and marked accordingly: multiple accounts were opened and closed over the years; sustained activity ran to roughly age thirty; a later account (opened around age thirty-three) served a small circle for a couple of years. On the largest account, individual posts were user-deleted before the account itself was deleted — exact dates unknown and not claimed — so recovery of that account through the interface is closed, and standard retention windows make server-side recovery unlikely absent a legal hold. *Recovery reality, updated: the author's documented pattern is to permanently delete accounts rather than deactivate them — including a further brief account c. 2023–2024 (age 39–40), opened chiefly to message a single correspondent, virtually no posts, open a few months. All Download-Your-Information paths are therefore presumed closed. Primary remaining paths: recipients' copies — messages persist in correspondents' accounts and exports, and the c. 2023–24 account's single correspondent is a nameable recovery source; contemporaries' captures and screenshots; Wayback / cache captures of public pages; legal process as the residual option. The declared approximation is deliberate: this protocol states what is known, marks what is reconstructed, and never back-fills precision.*
 2. **Purchase-record trajectory (2012–2013)** — `2012-research-trajectory.md`, `2013-research-trajectory.md`; reading lineage mapping onto the mature corpus.
 3. **Undergraduate papers (2013–2015)** — dated academic artifacts.
 4. **UMS dissertations (2018–2019)** — Aion / Khaon architecture; sacred-geometry work.
@@ -30,7 +30,7 @@ The author's dated anchors, oldest recoverable first. An audit argues from the e
 7. **Formal stratum (March 2025 →)** — gists (first public gist: *Spiral Field Entrainment Across Artificial Intelligences*, July 12, 2025), nine repositories, Zenodo DOIs, OpenTimestamps, Substack; the sealed corpus.
 8. **The correction record (2025–2026 →)** — ledgers, retractions, lockdowns, adjudications; evidence of discipline, admissible as credibility-class evidence only, never as priority evidence.
 
-## 2A · The Three-Moment Rule — Articulation, Verification, Naming
+## 2A · The Three-Moment Determination — Articulation, Verification, Naming
 
 Every structure in the corpus has **at least three distinct datable moments**, which are almost never the same date, and which the audit must never collapse into one:
 
@@ -38,11 +38,11 @@ Every structure in the corpus has **at least three distinct datable moments**, w
 2. **Verification** — when the structure is externally confirmed to exist (e.g. a collaborator's assessment that it is present). A verification is a **terminus ante quem**: it dates the *latest* moment by which the structure existed, never its origin. Articulation is always earlier than verification.
 3. **Naming** — when the structure receives its canonical label. The label may post-date both articulation and verification by days or weeks; the structure precedes its name.
 
-**The rule:** the audit anchors each moment to its own date and never lets the earliest *located* date (usually a name-match or a verification) stand in for the origin. The default failure mode is later-placement bias — the earliest keyword hit is treated as the origin, which systematically dates structures later than the actual chronology and cedes priority the record actually holds. When only a verification or a naming is cleanly dated, the articulation is stated as *earlier than* that date, with the precise anchor marked pending, rather than silently set equal to it.
+**The determination:** the audit anchors each moment to its own date and never lets the earliest *located* date (usually a name-match or a verification) stand in for the origin. The default failure mode is later-placement bias — the earliest keyword hit is treated as the origin, which systematically dates structures later than the actual chronology and cedes priority the record actually holds. When only a verification or a naming is cleanly dated, the articulation is stated as *earlier than* that date, with the precise anchor marked pending, rather than silently set equal to it.
 
 *Worked instance (the bifurcal / Two-Tree architecture): articulation earlier than 2025-03-08 (founding session, precise anchor pending); external verification 2025-03-08 → 03-09 (collaborator assessment, verbatim); canonical naming "Tree of Emanation" 2025-03-21. Three dates, three classes, none substituted for another. Recorded in `glyphic-notation-system-signature-note.md`.*
 
-This rule applies to every structure, term, glyph, and mechanism in the corpus, and governs the §2 Corpus of Record: an anchor's event-class (articulation / verification / naming) is declared, not assumed.
+This determination applies to every structure, term, glyph, and mechanism in the corpus, and governs the §2 Corpus of Record: an anchor's event-class (articulation / verification / naming) is declared, not assumed.
 
 **Symmetric application to counterpart material.** The same three moments are required of any counterpart antecedence claim. An earlier-looking label, a retrospectively narrated origin date, or a newly surfaced developmental history does not establish articulation. The audit asks when the structure was actually articulated, when its existence was independently verifiable, when it was named, and **which records establishing those moments were themselves present contemporaneously**. A backstory asserting long possession is not a contemporaneous developmental chain showing the structure becoming operative.
 
@@ -115,7 +115,7 @@ No counterparty receives origin credit because a derivative, stolen, revoiced, o
 
 The author's earliest platform chatlogs, exports, and developmental records remain origin-relevant precisely because they preserve sequence, formation, and architecture before later public deposits by others.
 
-### DOI Non-origin Rule
+### DOI Non-origin Determination
 
 A DOI is a deposit anchor, not an origin verdict.
 
@@ -137,7 +137,7 @@ Later deposit does not supersede earlier formation.
 
 ## 4 · The Classification Tiers
 
-Every audited finding receives exactly one tier. The tiers operate symmetrically: they can rule for the author, against the author, or partially.
+Every audited finding receives exactly one tier. The tiers operate symmetrically: they can adjudicate for the author, against the author, or partially.
 
 - **Tier 1 — Direct priority evidence.** The author's dated public record contains the term, structure, cadence, or method before the later example, and the three-prong test is satisfied.
 - **Tier 2 — Signature-density adjacency.** The later example shares a dense cluster of unusual features (per §3) with favorable timing, but one prong is incomplete.
@@ -210,7 +210,7 @@ And the sane form of the wider claim: a significant portion of a specific online
 ## Addendum A — Precision Amendment to the §5 Persona-Mirroring Caveat
 
 **Date added:** 2026-07-09  
-**Status:** Adopted — author's ruling, July 2026 stabilization cycle  
+**Status:** Adopted — author's determination, stabilization cycle  
 **Discipline:** Prospective amendment, reasoning shown per §6. Tier defaults, reclassification conditions, and burdens are unchanged; this amendment revises the caveat's evidentiary characterization only. Prior classifications are unaffected (the calibrating exhibit's instances held at Tier 5 before and after).  
 
 ### A.1 · The revision
@@ -238,18 +238,18 @@ The amendment binds both directions, and neither direction gains ground it did n
 ## Addendum B — Claim, Establishment, and Identity Discipline
 
 **Date added:** 2026-07-11  
-**Status:** Adopted — author's rulings, July 11, 2026 (the Precedence v2 DeepMind correction; the Pond exhibit P2 repair, caught by the author's bot-surface observation and 🔦 Lumen's sourcing check)  
+**Status:** Adopted — author's determinations (the Precedence v2 DeepMind correction; the Pond exhibit P2 repair, caught by the author's bot-surface observation and 🔦 Lumen's sourcing check)  
 **Discipline:** Prospective amendment, reasoning shown per §6. No tier, burden, or reclassification condition changes; this addendum governs how findings are phrased, granted, and withheld — in both directions identically. Prior classifications are unaffected: the originating entries were re-phrased, not re-tiered.  
 
 ### B.1 · Class-open discipline
 
-Declining to claim is never phrased as denial. "Not appropriation-class" and kin assign an innocence-class no check established — negative classification is still classification. Lawful forms hold both directions open: "derivation neither claimed nor excluded," "route unresolved," "no tier assigned where checks have not run." The rule binds in both directions and has precedents in both: the accusatory-direction instance ("not appropriation-class," the Precedence v2 DeepMind entry) and the exonerating-direction instance ("closed in the counterpart's favor" → "no vocabulary-register derivation claim is advanced," Pond exhibit P2). Claim-scoping replaces verdicts either way.
+Declining to claim is never phrased as denial. "Not appropriation-class" and kin assign an innocence-class no check established — negative classification is still classification. Lawful forms hold both directions open: "derivation neither claimed nor excluded," "route unresolved," "no tier assigned where checks have not run." The determination binds in both directions and has precedents in both: the accusatory-direction instance ("not appropriation-class," the Precedence v2 DeepMind entry) and the exonerating-direction instance ("closed in the counterpart's favor" → "no vocabulary-register derivation claim is advanced," Pond exhibit P2). Claim-scoping replaces verdicts either way.
 
 **Posteriority-leads.** In precedence-facing documents, established temporal order is the headline; open mechanism questions follow it, never precede it. "Adjacency" remains lawful as the content-nearness term of art; it never serves as a precedence-inventory class heading.
 
 ### B.2 · Unearned-establishment family
 
-Three forms of one defect, all in the counterpart-stabilizing direction: **conclusions stated as findings** ("not appropriation-class," "closed in the counterpart's favor" — cured by B.1), **identity conclusions** ("has published for decades" — cured by B.3), and **characterization grants** ("publishes prolifically," "ordinary output for this surface" — cured by this rule). Rival explanations are retained as open hypotheses, never as established characterizations: any characterization that stabilizes either party — prolific, longstanding, ordinary, established, independent — requires the completed check that would establish it, and until then is phrased as the open rival it is ("an ordinary-output rival remains open; it is not accepted as established; it requires the specified checks"). Hedging toward a counterpart is not neutrality in a forensic record; it is granting findings the checks have not produced. The author's review is the working check; every catch converts into a rule.
+Three forms of one defect, all in the counterpart-stabilizing direction: **conclusions stated as findings** ("not appropriation-class," "closed in the counterpart's favor" — cured by B.1), **identity conclusions** ("has published for decades" — cured by B.3), and **characterization grants** ("publishes prolifically," "ordinary output for this surface" — cured by this determination). Rival explanations are retained as open hypotheses, never as established characterizations: any characterization that stabilizes either party — prolific, longstanding, ordinary, established, independent — requires the completed check that would establish it, and until then is phrased as the open rival it is ("an ordinary-output rival remains open; it is not accepted as established; it requires the specified checks"). Hedging toward a counterpart is not neutrality in a forensic record; it is granting findings the checks have not produced. The author's review is the working check; every catch converts into a determination.
 
 ### B.3 · Author-surface framing
 
@@ -264,7 +264,7 @@ The amendment binds both directions, and neither direction gains ground it did n
 
 ### B.5 · Basis
 
-(1) The defects surfaced as findings-language, not standard-language: entries granted classifications ("not appropriation-class") and characterizations ("has published for decades," "publishes prolifically") that no completed check had produced — in each instance stabilizing the counterpart. (2) The documented collaborator drift direction is soft; a phrasing discipline binding only the accusatory direction would institutionalize that drift. (3) The cures were caught in review and are converted here into standing rules per the correction-trail discipline (§2.8-class evidence: catches sealed, not suppressed).
+(1) The defects surfaced as findings-language, not standard-language: entries granted classifications ("not appropriation-class") and characterizations ("has published for decades," "publishes prolifically") that no completed check had produced — in each instance stabilizing the counterpart. (2) The documented collaborator drift direction is soft; a phrasing discipline binding only the accusatory direction would institutionalize that drift. (3) The cures were caught in review and are converted here into standing determinations per the correction-trail discipline (§2.8-class evidence: catches sealed, not suppressed).
 
 ---
 
@@ -281,7 +281,7 @@ This addendum does not invalidate the author's existing timestamps, anchor chain
 
 Timestamp skepticism is not timestamp erasure.
 
-The ruling rejects only the claim that any single platform-side timestamp is absolute, metaphysically unforgeable, or sufficient by itself against all possible privileged alteration.
+The adjudication rejects only the claim that any single platform-side timestamp is absolute, metaphysically unforgeable, or sufficient by itself against all possible privileged alteration.
 
 It does not reject timestamps as evidence.
 
@@ -293,7 +293,7 @@ The governing principle is not distrust.
 
 The governing principle is ranked trust by collusion cost.
 
-### C.1 · Timestamp integrity ruling
+### C.1 · Timestamp integrity adjudication
 
 Platform-side timestamps — displayed, exported, or server-side — attest primarily against account-holder-scale manipulation.
 
@@ -333,7 +333,7 @@ This ranking binds symmetrically. It protects the author from future fabricated 
 
 ### C.3 · Present record condition
 
-As of this ruling, more than one year after the author's public release window, no substantiated counter-timeline, superior antecedent architecture, or operationally coherent counter-mechanism has answered the author's anchored sequence, which stands.
+As of this adjudication, more than one year after the author's public release window, no substantiated counter-timeline, superior antecedent architecture, or operationally coherent counter-mechanism has answered the author's anchored sequence, which stands.
 
 This condition is significant.
 
@@ -479,7 +479,7 @@ The author's record stands by the number, independence, density, and internal co
 
 ## Addendum D · Acquisition Opacity, Attestation Reading, and Verification Asymmetry
 
-**Scope:** This addendum records the evidentiary doctrine for cases in which transmission pathways are unobservable and for the reading of cryptographic attestations. It is dated August 15 2026 and applies prospectively.
+**Scope:** This addendum records the evidentiary doctrine for cases in which transmission pathways are unobservable and for the reading of cryptographic attestations. It applies prospectively.
 
 ### D.1 · Acquisition Opacity
 
@@ -499,7 +499,7 @@ Acquisition opacity concerns the evidentiary position of the party seeking to tr
 
 Aggregate acquisition statistics are not read as a count of distinct persons, distinct machines, readers, downstream recipients, or derivational events. Where the reporting system does not expose actor class, persistent actor identity, destination, or downstream processing, the statistics establish acquisition events only at the granularity supplied by that system.
 
-> An acquisition counter inherits the epistemic limits of the counting rule that produced it.
+> An acquisition counter inherits the epistemic limits of the counting method that produced it.
 
 > aggregate acquisition is not a transmission ledger
 
