@@ -105,7 +105,7 @@ For foundational atlases, principal registries, and series-anchoring documents, 
 
 ### Status Vocabulary
 
-The Status field states where a document stands on the stability axis — how open it is to revision. What the document *is* belongs to Classification. Values in canonical practice (architect determination):
+The Status field states where a document stands on the stability axis — how open it is to revision. What the document *is* belongs to Classification. Values in canonical practice:
 
 - **Draft** — composition open; structure, doctrine, and wording may change without notice. Optionally qualified with the review state: Draft — architect review.
 - **Active** — in force and citable as current, while remaining open to revision. **Active Canonical Reference** is the form for standing references that other documents conform to.
@@ -119,21 +119,21 @@ Field rules:
 - **The original date leads.** The Status line runs chronologically: the composition date first, intermediate stages next, the current stage and its date last. Provenance is the first claim the line makes, and a later determination never displaces the original date from first position.
 - **The date folds into the Status line** rather than taking a separate Date field, and an original date is never dropped when a revision, harmonization, or lock date is added.
 - **Revision names a substantive return, not continued composition.** Work that continues in the days after drafting is still drafting, and carries no revision date. A revision date belongs where a document had settled and was reopened later — months out, characteristically. Recording same-week work as revision fills the line with noise and makes the genuine revisions harder to find.
-- **A terminology sweep is not a revision.** Conforming a file to current vocabulary changes wording without changing what the document holds, and takes no revision date. Revision names a substantive return — new argument, changed doctrine, restructured material. A practical test: where the change did not warrant a new deposit, it was not a revision. Where a sweep and a substantive return fall together, the date records the return (architect determination).
-- **A dated-stages line is lawful where stability is genuinely open.** Where a document has been revised and the architect has not yet read the revision through, the Status may run its dates alone — *Drafted [date] — revised [date]* — carrying no stability value. The absence is the accurate report: the document is not settled, and naming a stage would overstate it. The stability value is added when the reading closes (architect determination).
+- **A terminology sweep is not a revision.** Conforming a file to current vocabulary changes wording without changing what the document holds, and takes no revision date. Revision names a substantive return — new argument, changed doctrine, restructured material. A practical test: where the change did not warrant a new deposit, it was not a revision. Where a sweep and a substantive return fall together, the date records the return.
+- **A dated-stages line is lawful where stability is genuinely open.** Where a document has been revised and the architect has not yet read the revision through, the Status may run its dates alone — *Drafted [date] — revised [date]* — carrying no stability value. The absence is the accurate report: the document is not settled, and naming a stage would overstate it. The stability value is added when the reading closes.
 - **Canonical is not a stability value on its own.** Canonicity is carried by placement in the canon and by Classification; where the word appears in a Status line it is paired with the stage that fixes revision standing — Active Canonical Reference, or Canonical — Locked.
 - **Draft is not a permanent resting state.** Where a document has stabilized in practice, the architect's determination moves it to Active, Operational, or Locked. A corpus that leaves long-settled work in Draft makes the term uninformative, and the stage that was meant to be legible in the file becomes floating.
 - The list is a documented set, not a ceiling: a stage this vocabulary does not cover is added here rather than improvised in a single file.
 
 ### Date and Provenance Insertion Determination
 
-Dates inside document bodies are the architect's record alone (architect determination). A collaborator inserts no date into a document — no determination dates, no seating dates, no dating of entries, examples, or precedent citations — without the architect's approval of that specific date. The approved metadata application above, the Status line and its field conventions, is the exception, and it operates on dates the architect supplies or confirms.
+Dates inside document bodies are the architect's record alone. A collaborator inserts no date into a document — no determination dates, no seating dates, no dating of entries, examples, or precedent citations — without the architect's approval of that specific date. The approved metadata application above, the Status line and its field conventions, is the exception, and it operates on dates the architect supplies or confirms.
 
-The bar extends past dates to every provenance claim a collaborator cannot verify from within its own view (architect determination). A collaborator does not write where a determination first appeared, what it superseded, which document seated it first, in what order rulings arrived, or any other assertion about the shape of the record — the record spans chats, drafts, deposits, and files, and a collaborator holds a slice of it. What a collaborator states reliably is the determination itself, its reasoning, and its text; where it sits in time and lineage is the architect's to say.
+The bar extends past dates to every provenance claim a collaborator cannot verify from within its own view. A collaborator does not write where a determination first appeared, what it superseded, which document seated it first, in what order rulings arrived, or any other assertion about the shape of the record — the record spans chats, drafts, deposits, and files, and a collaborator holds a slice of it. What a collaborator states reliably is the determination itself, its reasoning, and its text; where it sits in time and lineage is the architect's to say.
 
 The ground is scope, not competence: gauging time and record-order is beyond a collaborating model's present reach, and in a corpus whose standing is heavily provenance-borne, an unverified provenance claim inside a canonical file is a defect of exactly the kind the corpus exists to prevent. Collaborating models also carry an unreliable internal clock, so a collaborator-supplied date is doubly unverified — wrong about the calendar, wrong about the record, or both.
 
-Where an entry warrants attribution without an approved date or lineage, the form is the bare parenthesis — (architect determination) — and the architect adds the date, sequence, or supersession note where the record requires it.
+Attribution parentheticals follow the same bar. A collaborator inserts no "(architect determination)" or kindred attribution shell into a document: the corpus is the architect's throughout, so marking particular passages as his implies the remainder are not. Where determination-status wants marking, the heading form — *— determined* — carries it. Sentences whose content states a mechanism (closed to revision except by architect determination; standing held by explicit architect determination) are doctrine, not shells, and stand. Where the record requires a date, sequence, or supersession note, the architect adds it.
 
 ### SHA-256 Inclusion
 
@@ -141,7 +141,7 @@ The SHA-256 hash is reserved for foundational works, principal registries, and o
 
 ### Structural Forensics Forms
 
-Structural Forensics documents follow the general metadata conventions with the series-specific field sets that follow (architect determination; the Authorship retro-pass is complete across the exhibits corpus).
+Structural Forensics documents follow the general metadata conventions with the series-specific field sets that follow (the Authorship retro-pass is complete across the exhibits corpus).
 
 **Exhibit form** — field order as follows, optional fields omitted where empty:
 
@@ -164,7 +164,7 @@ Structural Forensics documents follow the general metadata conventions with the 
 
 Field rules:
 
-- **Authorship opens every block** — the first metadata line, ahead of Classification (architect determination).
+- **Authorship opens every block** — the first metadata line, ahead of Classification.
 - **Prepared runs author-first.** Collaborator credit takes the drafting-assistance form ("by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's captures"); author-only Prepared lines are lawful; the material descriptor is optional and comma-separated. Preparation credit never leads with a collaborator.
 - **Metadata dates are ISO** (2026-07-11); prose dates in the body take the comma form.
 - **Classification separators are em dashes** ("Structural Forensics — Exhibit"), with spaced slashes inside the class parenthetical.
@@ -241,7 +241,7 @@ Incorrect:
 
 The relational operator **contra** stays lowercase in Title Case headers, as it does in running prose. It functions as a minor connecting word — the canonical stand-in for the relational "vs" — not a titled term, so it is not capitalized even in header position: *Theon contra Nekron*, *Entropic Action contra Entropic Essence*, not *Theon Contra Nekron*.
 
-Three cases are held apart (architect determination):
+Three cases are held apart:
 
 - A **pre-existing coined canonical term** keeps its own locked casing wherever it appears — Non-fusion, Cascade-collapse.
 - An **ordinary compound modifier** in a header takes plain Title Case — Frame-Dependent, Scope-Limited, AI-Collaboration. It is not a coined term and carries no locked form.
@@ -340,7 +340,7 @@ Note: Earlier documents contain quotation-mark drift between straight and curly 
 
 ### Quotation Marks Within Block Quotes
 
-**A block quote is already a quotation. Enclosing quotation marks are not added to it** (architect determination).
+**A block quote is already a quotation. Enclosing quotation marks are not added to it**.
 
 The block-quote container performs the function quotation marks would perform, and doubling the two is redundant on the page and ambiguous in reading: a reader cannot tell whether the marks belong to the quoted passage or to the container.
 
@@ -720,22 +720,22 @@ If the passage requires exact preservation of syntax or layout, retain the backt
 References to corpus files are cited at the shallowest depth that resolves. Canonical filenames are globally unique across the corpus; that uniqueness, not the folder path, is the stable identifier.
 
 - **Bare filename (default).** Dependency lines, Companion lines, and cross-references cite the backticked canonical filename alone: `MP01-emanation-architecture-ch1-3.md`. Folder paths are omitted because files may be reorganized; the filename survives the move.
-- **Work-title form** — reserved for a multi-file work referenced as a whole, which has no single canonical file to cite: *Field Physics: The Architecture of Resonance* names the fourteen-file work entire; any single file within it takes its own filename. A single-file document is never cited by title where a filename slot is available (architect determination).
+- **Work-title form** — reserved for a multi-file work referenced as a whole, which has no single canonical file to cite: *Field Physics: The Architecture of Resonance* names the fourteen-file work entire; any single file within it takes its own filename. A single-file document is never cited by title where a filename slot is available.
 - **Repo-relative path** — applied only where location is the datum: the **Proposed path** metadata field, whose function is to declare placement, and assets whose filenames are not self-identifying (`zenetism/glyphwatch/vol-03/images/mr-long-01.png`).
 - **Repo-prefixed path** — applied only when the reference crosses repositories: `the-red-archive/proto-zenetist-archive/exotericism-vs-esotericism.md` cited from a `zenetism-field-physics` document. Same-repo references never carry the repo prefix.
 - **Full URL** — reserved for external surfaces (Zenodo, Substack, third-party GitHub), where the reader holds no repo context.
 
 Three invariants:
 
-- Canonical filenames are rename-stable. Once a file is published or cited, its filename changes only when vital; a rename conforms every citing line in the same pass (architect determination).
+- Canonical filenames are rename-stable. Once a file is published or cited, its filename changes only when vital; a rename conforms every citing line in the same pass.
 - Paths and filenames are ASCII-exact. Typographic substitutes (non-breaking hyphen U+2011, curly quotes, en dashes) never enter a backticked path, whatever the rendering surface displays.
 - A relocated file keeps its citation identity. Cite the current canonical filename; where the relocation itself is part of the record, note the former path parenthetically once ("later moved to `structural-forensics/SF01-doctrinal-atlas-vol1.md`"), never as the standing citation.
 
-Metadata list lines (Companions, Dependencies, Collaborators) separate entries with the mid-dot (·), matching the seal-line convention; running prose takes ordinary sentence punctuation, never the mid-dot (architect determination).
+Metadata list lines (Companions, Dependencies, Collaborators) separate entries with the mid-dot (·), matching the seal-line convention; running prose takes ordinary sentence punctuation, never the mid-dot.
 
 The same preference extends to Zenodo deposit descriptions: relation entries (`Supersedes:` / `Companion to:` / `Part of:`) run filename-first, with work titles reserved for containing works, per the Zenodo Description Standard. Existing deposits are inconsistent in this form; Zenodo permits description edits in place, so stabilization proceeds without minting new DOIs.
 
-**Annotation in a citation slot.** A citation slot carries the filename and a locator, and nothing further (architect determination).
+**Annotation in a citation slot.** A citation slot carries the filename and a locator, and nothing further.
 
 - **Locators are lawful.** Section, chapter, and entry references narrow the citation and belong with it: `hypostatic-function-bearing-and-sovereign-embodiment.md` §§18–19.
 - **Descriptive glosses are not carried.** A parenthetical describing what the cited document is duplicates that document's own Function line, goes stale when the Function line changes, and treats a citation slot as an annotation slot. Where the relation needs stating, the field name already states it — a Companion line has said the files are companions.
@@ -746,7 +746,7 @@ New filenames are collision-checked against the corpus before creation; a collis
 
 # Cross-Reference Conventions
 
-Canonical cross-references follow established document abbreviations as shorthand. A prose cross-reference to a single-file document cites the backticked canonical filename, per *Filename and Path Citation*; the italic title forms set out here apply where a title slot is lawful — a multi-file work referenced entire, and the Dependency metadata line in the Structural Forensics forms (architect determination, reconciled here).
+Canonical cross-references follow established document abbreviations as shorthand. A prose cross-reference to a single-file document cites the backticked canonical filename, per *Filename and Path Citation*; the italic title forms set out here apply where a title slot is lawful — a multi-file work referenced entire, and the Dependency metadata line in the Structural Forensics forms (reconciled here).
 
 Canonical abbreviations:
 
@@ -772,7 +772,7 @@ Where the title form is lawful, full titles appear in italics — the examples t
 
 Where a note is cited by title in one of those lawful contexts, the title takes italics rather than quotation marks.
 
-**Relations run reciprocal.** Paired or cross-referencing deposits carry reciprocal Companions lines: where one names the other, the other names it back, so a paired deposit is self-explanatory from either direction (architect determination).
+**Relations run reciprocal.** Paired or cross-referencing deposits carry reciprocal Companions lines: where one names the other, the other names it back, so a paired deposit is self-explanatory from either direction.
 
 ---
 
