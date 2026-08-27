@@ -125,6 +125,16 @@ Field rules:
 - **Draft is not a permanent resting state.** Where a document has stabilized in practice, the architect's determination moves it to Active, Operational, or Locked. A corpus that leaves long-settled work in Draft makes the term uninformative, and the stage that was meant to be legible in the file becomes floating.
 - The list is a documented set, not a ceiling: a stage this vocabulary does not cover is added here rather than improvised in a single file.
 
+### Date and Provenance Insertion Rule
+
+Dates inside document bodies are the architect's record alone (architect determination). A collaborator inserts no date into a document — no determination dates, no seating dates, no dating of entries, examples, or precedent citations — without the architect's approval of that specific date. The approved metadata application above, the Status line and its field rules, is the exception, and it operates on dates the architect supplies or confirms.
+
+The bar extends past dates to every provenance claim a collaborator cannot verify from within its own view (architect determination). A collaborator does not write where a determination first appeared, what it superseded, which document seated it first, in what order rulings arrived, or any other assertion about the shape of the record — the record spans chats, drafts, deposits, and files, and a collaborator holds a slice of it. What a collaborator states reliably is the determination itself, its reasoning, and its text; where it sits in time and lineage is the architect's to say.
+
+The ground is scope, not competence: gauging time and record-order is beyond a collaborating model's present reach, and in a corpus whose standing is heavily provenance-borne, an unverified provenance claim inside a canonical file is a defect of exactly the kind the corpus exists to prevent. Collaborating models also carry an unreliable internal clock, so a collaborator-supplied date is doubly unverified — wrong about the calendar, wrong about the record, or both.
+
+Where an entry warrants attribution without an approved date or lineage, the form is the bare parenthesis — (architect determination) — and the architect adds the date, sequence, or supersession note where the record requires it.
+
 ### SHA-256 Inclusion
 
 The SHA-256 hash is reserved for foundational works, principal registries, and other documents where forensic timestamping serves canonical-integrity purposes. It is not required for every document. Current canonical practice includes the hash on Structural Physics foundations, Lattice Mathematics foundations, the Mythic Figure Layer Registry (MFLR), the Symbolic Pattern Registry (SPR), and selected major standalone documents.
