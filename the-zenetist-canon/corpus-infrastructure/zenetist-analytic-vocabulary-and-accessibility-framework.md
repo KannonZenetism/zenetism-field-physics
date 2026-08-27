@@ -113,7 +113,7 @@ The public gloss is not a separate canonical register. It is a simplified entran
 
 ### 3.1 Register by discipline
 
-The disciplines carry the canonical register differently, and the tone native to each determines which register leads (architect determination, August 24 2026).
+The disciplines carry the canonical register differently, and the tone native to each determines which register leads (architect determination, August 27 2026).
 
 - **Structural Metaphysics** and **Field Physics** carry the canonical / sacred register natively. Mythic names lead, and analytic descriptors support where a passage reaches toward an outside reader
 - **Structural Forensics**, **Structural Physics**, and **Structural Neuroscience** are better carried by analytic descriptors leading, with canonical names supporting. Each presently draws heavily on mythic vocabulary, which is lawful and never inaccurate — the analytic register simply reaches further
@@ -685,7 +685,7 @@ The following questions remain open for later review.
 
 ### 13.1 Khaon's primary descriptor — determined
 
-Both terms stand, with **Phase-Structured Infinity** as the default analytic descriptor and **Tri-phasic Infinity** as the secondary explanatory form where the phase count is what a passage makes legible (architect determination, August 24 2026).
+Both terms stand, with **Phase-Structured Infinity** as the default analytic descriptor and **Tri-phasic Infinity** as the secondary explanatory form where the phase count is what a passage makes legible (architect determination, August 27 2026).
 
 Combined form, where both are wanted:
 
@@ -693,11 +693,11 @@ Combined form, where both are wanted:
 
 ### 13.2 Absolute Dispersion — determined
 
-**Absolute Dispersion** names the third phase only (architect determination, August 24 2026). The whole-principle application is legacy total-symbol terminology and is identified as such where it appears in existing works.
+**Absolute Dispersion** names the third phase only (architect determination, August 27 2026). The whole-principle application is legacy total-symbol terminology and is identified as such where it appears in existing works.
 
 ### 13.3 Layer descriptors — determined
 
-**Soul / Mind terminology stands and is not subject to analytic substitution** (architect determination, August 24 2026). Soul, Spirit, and the sacred vocabulary are not stripped from technical prose; the bridge to an outside reader is definition and claim-status discipline, never lexical surrender.
+**Soul / Mind terminology stands and is not subject to analytic substitution** (architect determination, August 27 2026). Soul, Spirit, and the sacred vocabulary are not stripped from technical prose; the bridge to an outside reader is definition and claim-status discipline, never lexical surrender.
 
 What the analytic register gains instead is a **layer shorthand** standing above the paired articulation, written where a passage addresses a layer entire and the two poles are not themselves under discussion.
 
@@ -749,7 +749,7 @@ Determine whether the stabilized vocabulary will cover:
 
 ### 13.6 Formal title — determined
 
-The title stands as written: **Zenetist Analytic Vocabulary and Accessibility Framework** (architect determination, August 24 2026).
+The title stands as written: **Zenetist Analytic Vocabulary and Accessibility Framework** (architect determination, August 27 2026).
 
 ---
 
