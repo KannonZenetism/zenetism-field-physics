@@ -2348,7 +2348,7 @@ It is structural preservation.
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Protocol Addendum  
-**Status:** Active — July 4 2026 — integrated into this protocol; ruling bases are recorded in the continuity log (`source-purge-and-prayer-integration-continuity-log.md`)  
+**Status:** Active — integrated into this protocol; ruling bases are recorded in the continuity log (`source-purge-and-prayer-integration-continuity-log.md`)  
 **Scope:** Each section below is a settled author ruling. The Held Open section lists questions deliberately not ruled; nothing in this addendum licenses propagation on those items.
 
 ---
