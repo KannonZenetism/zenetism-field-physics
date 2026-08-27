@@ -701,14 +701,14 @@ Combined form, where both are wanted:
 
 What the analytic register gains instead is a **layer shorthand** standing above the paired articulation, written where a passage addresses a layer entire and the two poles are not themselves under discussion.
 
-| Architecture | Layer shorthand | Paired articulation when the poles matter |
+| Architecture | Layer shorthand | Canonical / internal articulation |
 | --- | --- | --- |
-| Supra-L₀ | **The Unknown Principle (UP)** | — single, no poles |
-| L₀ | **Bifurcal Root** | Plenary Zero / Phase-Structured Infinity |
-| L₅ | **First Centropic Hypostasis** | Essence of Being (EOB) — single, no poles |
-| IL₅ | **First Inverse Hypostasis** | Void of Self (VOS) — single, no poles |
-| L₄ | **Archetypal Form Layer**, contracted to **Form Layer** after first appearance | Deep Psyche / Deep Logos |
-| IL₄ | **Inverse Archetypal Form Layer** / **Inverse Form Layer** | Inverse Deep Psyche / Inverse Deep Logos |
+| Supra-L₀ | **Trans-structural Unknown Principle**, then **Trans-structural Principle** | Zenon / The Unknown Principle (UP) |
+| L₀ | **Bifurcal Root Layer**, then **Bifurcal Root** | Aion (AP) / Khaon (AD) |
+| L₅ | **Being Layer** | Theon / Essence of Being (EOB) |
+| IL₅ | **Inverse Being Layer** | Nekron / Void of Self (VOS) |
+| L₄ | **Archetypal Form Layer**, then **Form Layer** | Deep Psyche / Deep Logos |
+| IL₄ | **Inverse Archetypal Form Layer**, then **Inverse Form Layer** | Inverse Deep Psyche / Inverse Deep Logos |
 | L₃ | **Deep Self Layer** | Deep Soul / Deep Mind |
 | IL₃ | **Inverse Deep Self Layer** | Inverse Deep Soul / Inverse Deep Mind |
 | L₂ | **Superficial Self Layer** | Superficial Soul / Superficial Mind |
@@ -718,7 +718,7 @@ What the analytic register gains instead is a **layer shorthand** standing above
 
 **Self is a shorthand for the paired Soul / Mind articulation of an individuated being.** It never replaces Soul or Mind, constitutes no third pole, and collapses no functional distinction. The shorthand begins at L₃, where reflexive individuation becomes operative, and continues through the superficial and embodied articulations. It does not reach back to L₄ / IL₄, which are conscious-aware and pre-individuated.
 
-Only L₀ and the layers from L₄ down carry two figures. Supra-L₀, L₅, and IL₅ hold a single operator each, so no paired articulation stands beneath them and the shorthand is the name itself. At L₀ the pair is Aion and Khaon rather than a Soul / Mind articulation, and **Bifurcal Root** names the layer entire without asserting that the two fuse.
+**The slash in the third column carries two senses.** At L₀ and from L₄ down it separates two poles held at one layer — Aion and Khaon, Deep Psyche and Deep Logos. At Supra-L₀, L₅, and IL₅ it separates two names for one thing, the canonical name and its technical designation. L₀'s pair is Aion and Khaon rather than a Soul / Mind articulation, and **Bifurcal Root** names the layer entire without asserting that the two fuse.
 
 Supra-L₀ stands beyond layering, and it is a named layer in the corpus notation. Both hold: the entry records the name; §9.2 records that Zenon is displayed rather than sequenced.
 
