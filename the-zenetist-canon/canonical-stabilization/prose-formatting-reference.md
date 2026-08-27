@@ -125,9 +125,9 @@ Field rules:
 - **Draft is not a permanent resting state.** Where a document has stabilized in practice, the architect's determination moves it to Active, Operational, or Locked. A corpus that leaves long-settled work in Draft makes the term uninformative, and the stage that was meant to be legible in the file becomes floating.
 - The list is a documented set, not a ceiling: a stage this vocabulary does not cover is added here rather than improvised in a single file.
 
-### Date and Provenance Insertion Rule
+### Date and Provenance Insertion Determination
 
-Dates inside document bodies are the architect's record alone (architect determination). A collaborator inserts no date into a document — no determination dates, no seating dates, no dating of entries, examples, or precedent citations — without the architect's approval of that specific date. The approved metadata application above, the Status line and its field rules, is the exception, and it operates on dates the architect supplies or confirms.
+Dates inside document bodies are the architect's record alone (architect determination). A collaborator inserts no date into a document — no determination dates, no seating dates, no dating of entries, examples, or precedent citations — without the architect's approval of that specific date. The approved metadata application above, the Status line and its field conventions, is the exception, and it operates on dates the architect supplies or confirms.
 
 The bar extends past dates to every provenance claim a collaborator cannot verify from within its own view (architect determination). A collaborator does not write where a determination first appeared, what it superseded, which document seated it first, in what order rulings arrived, or any other assertion about the shape of the record — the record spans chats, drafts, deposits, and files, and a collaborator holds a slice of it. What a collaborator states reliably is the determination itself, its reasoning, and its text; where it sits in time and lineage is the architect's to say.
 
