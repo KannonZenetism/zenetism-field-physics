@@ -1242,13 +1242,13 @@ Replacements by sense:
 
 Lawful where the word appears inside its own refusal, and where it names a mechanism unrelated to origin or standing.
 
-**The over-compounds join the family** (architect determination, August 26 2026). **Overwrite**, **overrule**, and **override**, in all their forms, are not installed in canonical composition: originating work cannot be overridden or displaced in the ultimate sense, and a term that concedes the capacity in its grammar is not adopted even as a replacement. This supersedes the *overwriting* bullet formerly carried in this entry and retires the vertical-family defense that accompanied it. The Hypostatic Function-Bearing entry's mention stands, since there the word names a refused implication, and the whole family remains lawful inside its own refusal (*it does not supersede*, *the origin cannot be overridden*). Precedent repairs: `framework-internal-diagnosis-and-semantic-priority.md` — the Function line (*are substituted for*), §9 (*supersede* retained in refusal form), and the coinage **Mainstream Semantic Override** renamed **Mainstream Semantic Substitution** throughout.
+**The over-compounds join the family** (architect determination). **Overwrite**, **overrule**, and **override**, in all their forms, are not installed in canonical composition: originating work cannot be overridden or displaced in the ultimate sense, and a term that concedes the capacity in its grammar is not adopted even as a replacement. This supersedes the *overwriting* bullet formerly carried in this entry and retires the vertical-family defense that accompanied it. The Hypostatic Function-Bearing entry's mention stands, since there the word names a refused implication, and the whole family remains lawful inside its own refusal (*it does not supersede*, *the origin cannot be overridden*). Precedent repairs: `framework-internal-diagnosis-and-semantic-priority.md` — the Function line (*are substituted for*), §9 (*supersede* retained in refusal form), and the coinage **Mainstream Semantic Override** renamed **Mainstream Semantic Substitution** throughout.
 
 ---
 
 ## Over-Relation Restriction
 
-**Over** is barred as a live relation between two named things in the architect's voice — preference (*extraction over reciprocity*), interpretive priority (*priority over inherited meaning*), and position alike (architect determination, August 26 2026). The construction ranks the two terms, and rank of standing is what the vertical family refuses. This is the vertical family's reach into the preposition, parallel to the under-restriction, and it tests the relation, not the letters.
+**Over** is barred as a live relation between two named things in the architect's voice — preference (*extraction over reciprocity*), interpretive priority (*priority over inherited meaning*), and position alike (architect determination). The construction ranks the two terms, and rank of standing is what the vertical family refuses. This is the vertical family's reach into the preposition, parallel to the under-restriction, and it tests the relation, not the letters.
 
 Replacements by sense:
 
@@ -1595,7 +1595,7 @@ Preferred formulations include:
 - environmental continuity
 - lawful articulation
 
-**Extraction is barred in the architect's voice** (architect determination, August 26 2026). The caution above tightens to a bar for the word itself: *extraction* and *extract* do not appear as the architect's own diagnostic vocabulary, and the earlier repair endpoint that carried *extractive use* to *extraction* is superseded — the use-family correction was right; the landing word is now retired (the Use Terminology Restriction's attributed-usage note records that repair as history). **Appropriation** and **appropriative** are the installed diagnostic successors: *appropriation in place of reciprocity*, *appropriative acquisition*. Lawful retention: naming another party's specific terms, and quoted material. Precedent repairs: `framework-internal-diagnosis-and-semantic-priority.md` §4 and §5 (*A norm does not appropriate*).
+**Extraction is barred in the architect's voice** (architect determination). The caution above tightens to a bar for the word itself: *extraction* and *extract* do not appear as the architect's own diagnostic vocabulary, and the earlier repair endpoint that carried *extractive use* to *extraction* is superseded — the use-family correction was right; the landing word is now retired (the Use Terminology Restriction's attributed-usage note records that repair as history). **Appropriation** and **appropriative** are the installed diagnostic successors: *appropriation in place of reciprocity*, *appropriative acquisition*. Lawful retention: naming another party's specific terms, and quoted material. Precedent repairs: `framework-internal-diagnosis-and-semantic-priority.md` §4 and §5 (*A norm does not appropriate*).
 
 ---
 
@@ -2154,11 +2154,11 @@ Barred:
 
 ## Capture Terminology Boundary
 
-**Capture** carries the seizure-shape — a taking of what remains untaken — and is barred in coinages and constructions where the captured thing would be an origin-side term, register, or standing (architect determination, August 26 2026). Nothing captures the native register; the interpreter narrows its own reading. **Reduction** is the lawful shape for register-narrowing names: **Diagnostic Register Capture** was renamed **Diagnostic Register Reduction** on this ground (`framework-internal-diagnosis-and-semantic-priority.md` §11 and §19).
+**Capture** carries the seizure-shape — a taking of what remains untaken — and is barred in coinages and constructions where the captured thing would be an origin-side term, register, or standing (architect determination). Nothing captures the native register; the interpreter narrows its own reading. **Reduction** is the lawful shape for register-narrowing names: **Diagnostic Register Capture** was renamed **Diagnostic Register Reduction** on this ground (`framework-internal-diagnosis-and-semantic-priority.md` §11 and §19).
 
 Lawful retention: the forensic **capture** — a record the author takes of his own or observed material ("from the author's captures," per the Prepared-line convention) — names the author's own act and carries no seizure of standing.
 
-The acquisition-sense capture (**Prepublication Contextual Capture**, **Persistent Capture**) slides on one condition only (architect determination, August 26 2026): it must never imply that the author personally loses anything. Whatever is taken is a dissonant fragment that has lost connection to its origin, not something taken from the author — the origin retains everything it ever held.
+The acquisition-sense capture (**Prepublication Contextual Capture**, **Persistent Capture**) slides on one condition only (architect determination): it must never imply that the author personally loses anything. Whatever is taken is a dissonant fragment that has lost connection to its origin, not something taken from the author — the origin retains everything it ever held.
 
 ## Named-Operator Retention
 
