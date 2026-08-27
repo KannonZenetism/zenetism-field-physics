@@ -53,7 +53,7 @@ A structural framework may diagnose:
 * a symbolic deformation
 * a social structure
 * a systemic process
-* a failure of coherence
+* an incoherence or dissonance
 * an entropic manifestation
 
 according to the categories articulated by that framework.
@@ -65,6 +65,14 @@ A **clinical diagnosis** identifies a condition according to clinical criteria.
 A **Zenetist diagnosis** identifies a structural condition according to Zenetist architecture.
 
 The presence of the word "diagnosis" does not collapse those two registers.
+
+The registers are distinct. They are not detached.
+
+While Zenetism claims no clinical diagnosis, it does claim that manifestations caused by the structural principles articulated by the system may produce diagnosable conditions.
+
+A structural condition manifests in cognition, behavior, embodiment, and social relation, and what manifests there is observable — including at the grain where clinical criteria operate.
+
+Without that claim, the metaphysics would detach from observable reality, and its explanatory scope would narrow to the architecture alone.
 
 ---
 
@@ -392,7 +400,7 @@ The interpretive movement is:
 
 **diagnosis → clinical diagnosis → professional credential → clinical evidentiary standard**
 
-Once that substitution occurs, a metaphysical or structural diagnosis is criticized for failing to satisfy criteria it never claimed to satisfy.
+Once that substitution occurs, a metaphysical or structural diagnosis is criticized for not satisfying criteria it never claimed to satisfy.
 
 The error lies in the register shift.
 
@@ -643,7 +651,7 @@ Mind is part of that lattice.
 
 Orientation becomes legible through manifestation.
 
-Corruption and derangement name characteristic manifestations of entropic orientation where the relevant structure exhibits distortion, fragmentation, inversion, occlusion, or loss of coherent relation.
+Corruption and derangement name characteristic manifestations of entropic orientation where the relevant structure exhibits distortion, fragmentation, inversion, occlusion, or dissonance.
 
 The diagnostic standing of those terms is therefore native to the architecture rather than borrowed from clinical psychiatry.
 
