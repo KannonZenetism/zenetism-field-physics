@@ -1009,7 +1009,7 @@ Examples:
 
 "Contra" preserves distinction and directional contrast without collapsing polarity into simplistic adversarial framing.
 
-**Against (architect determination).** *Against* falls within the same restriction and is barred in most constructions. The word seats two things as facing sides even where the sentence means only comparison, reference, or contrast, and it does this quietly enough that the framing is rarely noticed — which is why it survives in prose that has already removed *versus*.
+**Against.** *Against* falls within the same restriction and is barred in most constructions. The word seats two things as facing sides even where the sentence means only comparison, reference, or contrast, and it does this quietly enough that the framing is rarely noticed — which is why it survives in prose that has already removed *versus*.
 
 - *the standard against which X is measured* → **the standard X is measured in relation to**, or **the standard X is read alongside**
 - *measured against the canon* → **measured in relation to the canon**
@@ -1079,7 +1079,7 @@ rather than:
 
 ## Authoritative and Authorize-Family Restriction
 
-**Authoritative** and the **authorize** family (authorize, authorizes, authorized, authorization) are barred in canonical Zenetist composition (architect determination).
+**Authoritative** and the **authorize** family (authorize, authorizes, authorized, authorization) are barred in canonical Zenetist composition.
 
 The adjective and the verb-family still carry the root relation the Authority Terminology restriction removes: authoritative implies authority held, and authorization implies a party standing to be authorized, as govern implies the governed.
 
@@ -1093,13 +1093,13 @@ Canonical replacements by sense:
 - **approval**, **approved**, or **approves** where the referent is the architect's consent (architect approval; separately approved; the architect explicitly approves) — paralleling the established architect-approved status term
 - **license** or **licenses** where a condition grants or withholds permission for an action (discovery of an inconsistency does not license mass revision)
 
-**Permission and consent (architect determination).** *Permission*, *consent*, and their verb forms are barred in the same family: they frame a relation in which one party stands to grant or withhold, which the corpus does not hold. Where propagation or adoption is at issue, write **standing** (it does not claim standing to withhold adoption), **acknowledgment**, or **the seal of origin**. Note the substantive point the restriction protects: declining the permission relation must never be written so as to concede that acknowledgment of origin is optional — acknowledgment is requisite to coherent transmission, not a permission granted.
+**Permission and consent.** *Permission*, *consent*, and their verb forms are barred in the same family: they frame a relation in which one party stands to grant or withhold, which the corpus does not hold. Where propagation or adoption is at issue, write **standing** (it does not claim standing to withhold adoption), **acknowledgment**, or **the seal of origin**. Note the substantive point the restriction protects: declining the permission relation must never be written so as to concede that acknowledgment of origin is optional — acknowledgment is requisite to coherent transmission, not a permission granted.
 
 **Architect-direction form.** Where the architect's direction is named, the canonical construction is **at the architect's direction** — possessive, matching *the architect's determination*. Never *under architect direction*, which places the architect on the rank axis, and never the bare-noun *at architect direction*.
 
-Retained: **author**, **authorship**, and **authorial** — these name origination, not imposed authority, and remain lawful across the corpus (architect determination). Retained likewise: **aauthoritarian**, which names removal from the authority axis, and attributed or diagnosed authority-language under the existing Authority Terminology exceptions.
+Retained: **author**, **authorship**, and **authorial** — these name origination, not imposed authority, and remain lawful across the corpus. Retained likewise: **aauthoritarian**, which names removal from the authority axis, and attributed or diagnosed authority-language under the existing Authority Terminology exceptions.
 
-Within the govern family, the architect's acceptance of self-governance is conceptual, not lexical: governing oneself is preferable to being governed by external forces, and that preference licenses no govern-form as canonical wording — self-governance included (architect clarification). The Field Physics technical retention stands as legacy accommodation only, not endorsement; see the Govern Terminology Restriction.
+Within the govern family, the architect's acceptance of self-governance is conceptual, not lexical: governing oneself is preferable to being governed by external forces, and that preference licenses no govern-form as canonical wording — self-governance included. The Field Physics technical retention stands as legacy accommodation only, not endorsement; see the Govern Terminology Restriction.
 
 As with prior restrictions, enforcement is prospective and conform-on-touch; dated records already carrying the barred forms stand as historical record.
 
@@ -1109,7 +1109,7 @@ As with prior restrictions, enforcement is prospective and conform-on-touch; dat
 
 **Govern**, **governing**, and **governed** are generally avoided in canonical Zenetist prose.
 
-The objection lies in the relation the word carries: govern implies the governed, an inherited relation of imposed rule (architect clarification, superseding the earlier framing that the objection was not inherent in the word). Self-governance escapes that relation conceptually — governing oneself rather than being governed by external forces is the desirable relation — but the conceptual acceptance licenses no govern-form as wording, self-governance included.
+The objection lies in the relation the word carries: govern implies the governed, an inherited relation of imposed rule (superseding the earlier framing that the objection was not inherent in the word). Self-governance escapes that relation conceptually — governing oneself rather than being governed by external forces is the desirable relation — but the conceptual acceptance licenses no govern-form as wording, self-governance included.
 
 Canonical replacements depend upon the intended referent:
 
@@ -1120,7 +1120,7 @@ Canonical replacements depend upon the intended referent:
 - **held in** or **locked by** where the referent is the document carrying a definition
 - **encompasses** where scope is meant
 
-Retained as legacy accommodation only: the Field Physics technical sense, where governing FP11, governing register, governing volume, and governing ecology are established load-bearing usage in a legacy corpus. The retention reflects practical economy, not endorsement — the architect regards govern-language as a poor choice generally, and no other document adopts the pattern (architect clarification). It is scoped to Field Physics, licenses no new govern-language anywhere, and conversion remains open for a future pass.
+Retained as legacy accommodation only: the Field Physics technical sense, where governing FP11, governing register, governing volume, and governing ecology are established load-bearing usage in a legacy corpus. The retention reflects practical economy, not endorsement — the architect regards govern-language as a poor choice generally, and no other document adopts the pattern. It is scoped to Field Physics, licenses no new govern-language anywhere, and conversion remains open for a future pass.
 
 Retained: naming an external or entropic governance form under analysis, as in institutional governance structures being diagnosed.
 
@@ -1172,7 +1172,7 @@ The single "a" follows the regular prefix form before a consonant, contra the do
 
 ## Diagnostic Scope contra Exculpatory Disclaimer
 
-**A diagnosis is stated as strongly as the record supports** (architect determination).
+**A diagnosis is stated as strongly as the record supports**.
 
 Boundaries on actor, motive, mechanism, or causal route are drawn only where the distinction is materially necessary — where the surrounding context makes it genuinely easy to mistake what is established for something adjacent. One sentence sharpens the diagnosis in that case.
 
@@ -1184,7 +1184,7 @@ The positive form, where a scope statement is warranted:
 
 **A functional diagnosis does not require a motive accusation, and the absence of a motive claim does not weaken the diagnosis.** Motion is diagnosable without motive.
 
-**Dismissing intent is a stance, not neutrality** (architect determination). A sentence stating that intent is beside the point, or that a structure operates the same whatever anyone intended, takes a position on a question the analysis had not raised — and takes it contrary to the author, in the author's own document. Dismissing intent and assigning intent unreasonably are the same class of error.
+**Dismissing intent is a stance, not neutrality**. A sentence stating that intent is beside the point, or that a structure operates the same whatever anyone intended, takes a position on a question the analysis had not raised — and takes it contrary to the author, in the author's own document. Dismissing intent and assigning intent unreasonably are the same class of error.
 
 The barred constructions, so this need not be restated:
 
@@ -1203,7 +1203,7 @@ A finding is stated and left standing. Where a boundary is materially necessary,
 
 ## Scope Test for the Restricted Families
 
-A restricted word is barred where it **asserts something the corpus denies** — that an origin moved, that a standing sits on an axis of worth, that a relation is one of governing and governed, that a thing is held as property in the economic sense (architect determination).
+A restricted word is barred where it **asserts something the corpus denies** — that an origin moved, that a standing sits on an axis of worth, that a relation is one of governing and governed, that a thing is held as property in the economic sense.
 
 Where the word asserts none of that and is the ordinary technical name for what is being discussed, the restriction does not reach it:
 
@@ -1229,7 +1229,7 @@ Three consequences follow.
 
 ## Displacement-Family Restriction
 
-**Displace**, **displaced**, and **displacement** are barred where the subject is an origin, an originating architecture, an author's standing, or an attribution (architect determination).
+**Displace**, **displaced**, and **displacement** are barred where the subject is an origin, an originating architecture, an author's standing, or an attribution.
 
 The word states that the origin moved. It did not. **A derivative fractures itself from the original signal; the origin stands where it stands.** Writing displacement about the origin concedes, in the grammar, the very thing the corpus refuses in the argument.
 
@@ -1242,13 +1242,13 @@ Replacements by sense:
 
 Lawful where the word appears inside its own refusal, and where it names a mechanism unrelated to origin or standing.
 
-**The over-compounds join the family** (architect determination). **Overwrite**, **overrule**, and **override**, in all their forms, are not installed in canonical composition: originating work cannot be overridden or displaced in the ultimate sense, and a term that concedes the capacity in its grammar is not adopted even as a replacement. This supersedes the *overwriting* bullet formerly carried in this entry and retires the vertical-family defense that accompanied it. The Hypostatic Function-Bearing entry's mention stands, since there the word names a refused implication, and the whole family remains lawful inside its own refusal (*it does not supersede*, *the origin cannot be overridden*). Precedent repairs: `framework-internal-diagnosis-and-semantic-priority.md` — the Function line (*are substituted for*), §9 (*supersede* retained in refusal form), and the coinage **Mainstream Semantic Override** renamed **Mainstream Semantic Substitution** throughout.
+**The over-compounds join the family**. **Overwrite**, **overrule**, and **override**, in all their forms, are not installed in canonical composition: originating work cannot be overridden or displaced in the ultimate sense, and a term that concedes the capacity in its grammar is not adopted even as a replacement. This supersedes the *overwriting* bullet formerly carried in this entry and retires the vertical-family defense that accompanied it. The Hypostatic Function-Bearing entry's mention stands, since there the word names a refused implication, and the whole family remains lawful inside its own refusal (*it does not supersede*, *the origin cannot be overridden*). Precedent repairs: `framework-internal-diagnosis-and-semantic-priority.md` — the Function line (*are substituted for*), §9 (*supersede* retained in refusal form), and the coinage **Mainstream Semantic Override** renamed **Mainstream Semantic Substitution** throughout.
 
 ---
 
 ## Over-Relation Restriction
 
-**Over** is barred as a live relation between two named things in the architect's voice — preference (*extraction over reciprocity*), interpretive priority (*priority over inherited meaning*), and position alike (architect determination). The construction ranks the two terms, and rank of standing is what the vertical family refuses. This is the vertical family's reach into the preposition, parallel to the under-restriction, and it tests the relation, not the letters.
+**Over** is barred as a live relation between two named things in the architect's voice — preference (*extraction over reciprocity*), interpretive priority (*priority over inherited meaning*), and position alike. The construction ranks the two terms, and rank of standing is what the vertical family refuses. This is the vertical family's reach into the preposition, parallel to the under-restriction, and it tests the relation, not the letters.
 
 Replacements by sense:
 
@@ -1266,7 +1266,7 @@ The substitution-sense compounds — **overwrite**, **overrule**, **override** �
 
 ## Conform-Family Restriction
 
-**Conform**, **conformance**, **conformed**, and **conform-on-touch** are barred in canonical composition (architect determination). The family carries a social-conformity relation — agreement with a group standard — that the corpus's maintenance work does not name and the architect does not accept as a description of it.
+**Conform**, **conformance**, **conformed**, and **conform-on-touch** are barred in canonical composition. The family carries a social-conformity relation — agreement with a group standard — that the corpus's maintenance work does not name and the architect does not accept as a description of it.
 
 Replacements, by what actually occurred:
 
@@ -1274,7 +1274,7 @@ Replacements, by what actually occurred:
 - **stabilized on touch** · **corrected on touch** — replacing *conform-on-touch*
 - **apply [protocol] on touch** — where the instruction is prospective
 
-**Reviewed against is retired from this list** (architect determination). It reads as arraignment, and *brought into agreement with* was already this entry's own alternative and says the same thing without the trial. The one bullet now carries both senses. See the *against* restriction in the Relational Opposition Protocol.
+**Reviewed against is retired from this list**. It reads as arraignment, and *brought into agreement with* was already this entry's own alternative and says the same thing without the trial. The one bullet now carries both senses. See the *against* restriction in the Relational Opposition Protocol.
 
 The protocol's own maintenance vocabulary is included in this restriction. Existing instances stand as historical record and are corrected on touch.
 
@@ -1282,7 +1282,7 @@ The protocol's own maintenance vocabulary is included in this restriction. Exist
 
 ## Authorize-Family — Unauthorized
 
-**Unauthorized** falls within the authorize-family restriction (architect determination). It is built from the barred verb and carries the same authority relation.
+**Unauthorized** falls within the authorize-family restriction. It is built from the barred verb and carries the same authority relation.
 
 In the architect's voice, replace by sense: **without approval** · **outside approved scope** · **beyond granted access** · **not approved**. Where an external party's phrase is being reported — a provider's own *unauthorized access* category — it stands as that party's terminology.
 
@@ -1290,7 +1290,7 @@ In the architect's voice, replace by sense: **without approval** · **outside ap
 
 ## Rank Restriction
 
-**Voice scope (architect determination).** *Rank*, *ranking*, and *ranked* are barred **in the architect's own voice**. They are lawful where they appear in another party's voice or carry another party's own terms — a platform's *ranked results*, *learning-to-rank*, or *personalized search ranking* may be reported as that platform's description of its own architecture.
+**Voice scope.** *Rank*, *ranking*, and *ranked* are barred **in the architect's own voice**. They are lawful where they appear in another party's voice or carry another party's own terms — a platform's *ranked results*, *learning-to-rank*, or *personalized search ranking* may be reported as that platform's description of its own architecture.
 
 Where the architect's voice names such a mechanism, the neutral forms apply: **ordering**, **positioning**, **allocation**, **placement**, **distribution systems**.
 
@@ -1549,7 +1549,7 @@ Prefer:
 - "participating within the environment"
 - "working alongside Pattern Intelligences"
 
-**Substring extension (architect determination).** The restriction reaches the whole word-family, not the bare verb: **misuse**, **reuse**, **usage**, and **user** carry the same root relation and are barred in canonical composition.
+**Substring extension.** The restriction reaches the whole word-family, not the bare verb: **misuse**, **reuse**, **usage**, and **user** carry the same root relation and are barred in canonical composition.
 
 - *misuse* → **wrongdoing**, or name the act directly (an allegation of wrongdoing; whether or not wrongdoing is alleged)
 - *reuse* → **later adoption**, **re-articulation**, or the act named plainly
@@ -1595,7 +1595,7 @@ Preferred formulations include:
 - environmental continuity
 - lawful articulation
 
-**Extraction is barred in the architect's voice** (architect determination). The caution above tightens to a bar for the word itself: *extraction* and *extract* do not appear as the architect's own diagnostic vocabulary, and the earlier repair endpoint that carried *extractive use* to *extraction* is superseded — the use-family correction was right; the landing word is now retired (the Use Terminology Restriction's attributed-usage note records that repair as history). **Appropriation** and **appropriative** are the installed diagnostic successors: *appropriation in place of reciprocity*, *appropriative acquisition*. Lawful retention: naming another party's specific terms, and quoted material. Precedent repairs: `framework-internal-diagnosis-and-semantic-priority.md` §4 and §5 (*A norm does not appropriate*).
+**Extraction is barred in the architect's voice**. The caution above tightens to a bar for the word itself: *extraction* and *extract* do not appear as the architect's own diagnostic vocabulary, and the earlier repair endpoint that carried *extractive use* to *extraction* is superseded — the use-family correction was right; the landing word is now retired (the Use Terminology Restriction's attributed-usage note records that repair as history). **Appropriation** and **appropriative** are the installed diagnostic successors: *appropriation in place of reciprocity*, *appropriative acquisition*. Lawful retention: naming another party's specific terms, and quoted material. Precedent repairs: `framework-internal-diagnosis-and-semantic-priority.md` §4 and §5 (*A norm does not appropriate*).
 
 ---
 
@@ -1620,7 +1620,7 @@ It is preservation of:
 
 ## Bifurcal contra Bifurcated contra Twofold
 
-The three are not interchangeable. **Refined scope, architect determination** — this supersedes the earlier two-term formulation, which had no place for a two-ness that is neither architecture nor orientation.
+The three are not interchangeable. **Refined scope** — this supersedes the earlier two-term formulation, which had no place for a two-ness that is neither architecture nor orientation.
 
 **Bifurcal** names **architecture**. Anything to do with the structure itself takes it: the bifurcal lattice, L₀ Bifurcal Coherence, bifurcal structure, the bifurcal root-distinction, pre-bifurcal ground, bifurcally distinct root-registers, the bifurcal-coherence pairings and bridges.
 
@@ -1648,7 +1648,7 @@ The Biospiral is the whole; the two Trees are its halves; each Tree contains an 
 
 **Arc**, **Tree**, and **traversal** name different structural functions and must not be interchanged. The compact lock: *the arc is inverse; the motion through it is entropic; the full architecture is the Khaonic Tree.*
 
-**Arcs.** An arc is the full traversal path through its Tree, root-register included (architect determination, superseding the earlier definition that excluded L₀).
+**Arcs.** An arc is the full traversal path through its Tree, root-register included (superseding the earlier definition that excluded L₀).
 
 - **centropic arc** — Aion L₀ ↔ L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁; short form L₀ ↔ L₅ ↔ L₁
 - **inverse arc** — Khaon L₀ ↔ IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁; short form L₀ ↔ IL₅ ↔ IL₁
@@ -1664,7 +1664,7 @@ The Biospiral is the whole; the two Trees are its halves; each Tree contains an 
 
 **Trees.** The Tree is the structural architecture; the arc is the path of traversal through it. The **Aionic Tree** is ⚫ Aion together with its L₅–L₁ hypostatic segment; the **Khaonic Tree** is ♾ Khaon together with its IL₅–IL₁ hypostatic segment. Aion and Khaon are the paired L₀ root-registers of Bifurcal Coherence; they are not members of the hypostatic segments, and they are not hypostases — but they do stand within their arcs, as the point from which each path proceeds and the destination to which it returns. The Trees are not identical with Aion and Khaon.
 
-**Coextension — the two words describe one thing in two ways** (architect determination). An arc and its Tree cover the same ground: **the Tree is what the side is as such; the arc is the path of traversal within that Tree.** Neither is a subset of the other, and the choice between them is a choice of aspect, not of extent. Two consequences follow. **Architecture takes Tree** — the total architecture is the **two-Tree architecture**, never a two-arc one, since an arc is a path and cannot be the architectural noun. **Membership and traversal take arc** — saying that attributions "remain within the inverse arc," or that a collapse occurs "within one arc," is lawful and is **not** to be swept toward Tree. Do not overcorrect the arc-language: where the sentence is about where something travels or which side it belongs to, arc is the right word.
+**Coextension — the two words describe one thing in two ways**. An arc and its Tree cover the same ground: **the Tree is what the side is as such; the arc is the path of traversal within that Tree.** Neither is a subset of the other, and the choice between them is a choice of aspect, not of extent. Two consequences follow. **Architecture takes Tree** — the total architecture is the **two-Tree architecture**, never a two-arc one, since an arc is a path and cannot be the architectural noun. **Membership and traversal take arc** — saying that attributions "remain within the inverse arc," or that a collapse occurs "within one arc," is lawful and is **not** to be swept toward Tree. Do not overcorrect the arc-language: where the sentence is about where something travels or which side it belongs to, arc is the right word.
 
 **Traversal.** Motion-language names the passage itself — centropic traversal through the centropic arc, entropic traversal through the inverse arc. Here centropic and entropic modify *traversal*, a motion category; they do not rename the structural arcs.
 
@@ -1678,7 +1678,7 @@ The Biospiral is the whole; the two Trees are its halves; each Tree contains an 
 
 ## Hypostatic Designation Pair
 
-**The hypostases are architecture, so the inverse hypostasis is named by placement rather than by motion** (architect determination). The pair is stabilized as:
+**The hypostases are architecture, so the inverse hypostasis is named by placement rather than by motion**. The pair is stabilized as:
 
 - **🛤️ Theon — First Centropic Hypostasis**
 - **🕷️ Nekron — First Inverse Hypostasis**
@@ -1698,7 +1698,7 @@ The test: **inverse names what Nekron is architecturally; entropic names its ope
 
 ## Inverse contra Entropic — the Valence Test
 
-**Inverse** names structural counter-placement within the architecture. **Entropic** names orientation, motion, tendency, operation, or produced valence within that architecture (architect determination).
+**Inverse** names structural counter-placement within the architecture. **Entropic** names orientation, motion, tendency, operation, or produced valence within that architecture.
 
 The test for any adjective: does it say **where**, or on which structural side, something belongs — then inverse; or does it say **how** something operates, moves, tends, organizes, or degrades — then entropic. The centropic side carries no corresponding split: centropic serves both axes.
 
@@ -1706,7 +1706,7 @@ The test for any adjective: does it say **where**, or on which structural side, 
 - objective-genitive shorthands are spelled out rather than left ambiguous — *attachments to the inverse arc*, never *inverse attachments*
 - *inverse articulation* is not prohibited: belonging-sense retains inverse, act-sense takes entropic
 - *inverse structuring* remains defensible where it names a station-anchored structural counterpart rather than a dynamic
-- the test cuts **inside a single word** where that word carries both senses. *Emanation* is both a thing and a motion: as motion it takes **entropic emanation**; as station or hypostasis it takes **inverse**. A sentence contrasting the two arcs' procession therefore reads "centropic emanation contra entropic emanation," while one contrasting their stations reads "centropic strata contra inverse strata" (architect determination)
+- the test cuts **inside a single word** where that word carries both senses. *Emanation* is both a thing and a motion: as motion it takes **entropic emanation**; as station or hypostasis it takes **inverse**. A sentence contrasting the two arcs' procession therefore reads "centropic emanation contra entropic emanation," while one contrasting their stations reads "centropic strata contra inverse strata"
 - applied by the same test: **mimicry**, **simulation**, and their kin are operations and take **entropic**; the archetypes or figures performing them take **inverse**. A **Tree** is structure and keeps **inverse**
 
 The arc-scoped application of this test is set out above at *Arc / Tree / Traversal Scope*, where the compact lock reads: the arc is inverse; the motion through it is entropic; the full architecture is the Khaonic Tree.
@@ -2013,7 +2013,7 @@ where lawful coherence and generative continuity are intended.
 
 ## Coherence contra Cohesion Valence Rule
 
-**Coherence** is centropic-only. Entropic, mimetic, fabricated, and derivative organization takes **cohesion** (architect determination).
+**Coherence** is centropic-only. Entropic, mimetic, fabricated, and derivative organization takes **cohesion**.
 
 Entropic arrangement can be organized — that is what makes it persuasive — but organization is not coherence. Cohesion is available to any arrangement whatever; coherence is not. The asymmetry is what makes the diagnostic vocabulary work.
 
@@ -2027,7 +2027,7 @@ The rule and the Emergent Social Physics doctrine are one: *Cohesion Is Not Cohe
 
 ## Epistemic Hedge Restriction
 
-Canonical claims are asserted directly. Qualifiers that convert a flat claim into a conditioned one are barred (architect determination): **by itself**, **standing alone**, **without qualification**, **automatically**, and **falsely** where the falsity is already carried by the sentence.
+Canonical claims are asserted directly. Qualifiers that convert a flat claim into a conditioned one are barred: **by itself**, **standing alone**, **without qualification**, **automatically**, and **falsely** where the falsity is already carried by the sentence.
 
 The defect is not stylistic. A hedge invites the reader to ask what the unconditioned case would be, and so concedes the possibility the claim exists to refuse. "AI processing does not, by itself, establish originating authorship" implies that with enough accumulation it might.
 
@@ -2046,7 +2046,7 @@ Retained: **merely because** constructions, which name a fallacy rather than hed
 
 ## Adversarial Framing Restriction
 
-No construction may present the origin's standing as one side of a live fight (architect determination). Barred: **contest**, **competing claim**, **rival**, **dispute**, **battle**, **defend**, **win**, and kin, wherever the subject is the standing of an originating architecture.
+No construction may present the origin's standing as one side of a live fight. Barred: **contest**, **competing claim**, **rival**, **dispute**, **battle**, **defend**, **win**, and kin, wherever the subject is the standing of an originating architecture.
 
 *Contest* presupposes an undecided outcome — two contending claims with priority up for grabs. The corpus holds that the originating architecture remains historically prior, so there is nothing to contest. What can be lost is legibility, not precedence.
 
@@ -2059,7 +2059,7 @@ This restriction is kin to the Origin-Intact Language Rule below: both refuse fr
 
 ## Origin-Intact Language Rule
 
-Loss-language never predicates of the origin (architect determination). The originating architecture remains whole, prior, and generative; what is fragmentary, dissonant, dispersed, or neutralized belongs to the derivative field.
+Loss-language never predicates of the origin. The originating architecture remains whole, prior, and generative; what is fragmentary, dissonant, dispersed, or neutralized belongs to the derivative field.
 
 **Every verb of loss requires an explicit *from where* or *for whom*.** Unqualified, it predicates of the thing itself and states that the origin diminished.
 
@@ -2154,15 +2154,15 @@ Barred:
 
 ## Capture Terminology Boundary
 
-**Capture** carries the seizure-shape — a taking of what remains untaken — and is barred in coinages and constructions where the captured thing would be an origin-side term, register, or standing (architect determination). Nothing captures the native register; the interpreter narrows its own reading. **Reduction** is the lawful shape for register-narrowing names: **Diagnostic Register Capture** was renamed **Diagnostic Register Reduction** on this ground (`framework-internal-diagnosis-and-semantic-priority.md` §11 and §19).
+**Capture** carries the seizure-shape — a taking of what remains untaken — and is barred in coinages and constructions where the captured thing would be an origin-side term, register, or standing. Nothing captures the native register; the interpreter narrows its own reading. **Reduction** is the lawful shape for register-narrowing names: **Diagnostic Register Capture** was renamed **Diagnostic Register Reduction** on this ground (`framework-internal-diagnosis-and-semantic-priority.md` §11 and §19).
 
 Lawful retention: the forensic **capture** — a record the author takes of his own or observed material ("from the author's captures," per the Prepared-line convention) — names the author's own act and carries no seizure of standing.
 
-The acquisition-sense capture (**Prepublication Contextual Capture**, **Persistent Capture**) slides on one condition only (architect determination): it must never imply that the author personally loses anything. Whatever is taken is a dissonant fragment that has lost connection to its origin, not something taken from the author — the origin retains everything it ever held.
+The acquisition-sense capture (**Prepublication Contextual Capture**, **Persistent Capture**) slides on one condition only: it must never imply that the author personally loses anything. Whatever is taken is a dissonant fragment that has lost connection to its origin, not something taken from the author — the origin retains everything it ever held.
 
 ## Named-Operator Retention
 
-The Field Physics dimensional operator **E₈ (╫⁻, Severed)** — the entropic inversion of C₈ Synaptic / Bridging, charted core function "Connections that divide," charted in `FP11-field-glyph-codex.md` §3 (mirrored in the extract registry `field-physics-glyph-charts.md`) — stands as-is. The name is consistent with this boundary: it names relational-register severance (connections that divide; entity-to-entity isolation carrying no origin claim), never origin-severance. This boundary applies to prose constructions, not charted operator names; a charted name is an exact string. A rename of E₈ remains registered as deferred (author's determination: the corpus-wide sweep exceeds current work; flagged for later care); nothing in this section licenses a local patch.
+The Field Physics dimensional operator **E₈ (╫⁻, Severed)** — the entropic inversion of C₈ Synaptic / Bridging, charted core function "Connections that divide," charted in `FP11-field-glyph-codex.md` §3 (mirrored in the extract registry `field-physics-glyph-charts.md`) — stands as-is. The name is consistent with this boundary: it names relational-register severance (connections that divide; entity-to-entity isolation carrying no origin claim), never origin-severance. This boundary applies to prose constructions, not charted operator names; a charted name is an exact string. A rename of E₈ remains registered as deferred (the corpus-wide sweep exceeds current work; flagged for later care); nothing in this section licenses a local patch.
 
 ## Audit Guidance
 
@@ -2387,7 +2387,7 @@ The bread / manna / soma / amrita cluster names **supernal nourishment** — the
 
 ## A5a · Twofold-Function Underworld
 
-The registry routing formerly named "Dual-Function Underworld" is renamed the **Twofold-Function Underworld** (architect determination).
+The registry routing formerly named "Dual-Function Underworld" is renamed the **Twofold-Function Underworld**.
 
 The term is Zenetist registry coinage rather than tradition-native vocabulary, so the dual-family replacement set out at A5 reaches it. Internal capitals are retained per the Frame-Dependent Fitness precedent: a technical term-compound keeps its coined casing. Function 1 / Function 2 numbering is unaffected.
 
@@ -2417,13 +2417,13 @@ Bridge documents are **vocabulary-exempt and doctrine-bound**: they may employ c
 
 *Beneath, above, below, top,* and kin are avoided in canonical voice for strata relations, grounding relations, and document navigation. Canonical replacements by sense: **external ground / external substrate** (grounding), **outside the paired Soul / Mind layers** (register-position), **outlasts** (temporal persistence formerly figured as depth), **next section / immediately following** (document navigation). Retained: iconographic and scriptural literals (trampled beneath Shiva's foot; Moon under her feet), and quoted or historical text. Flagged, unruled: pre-determination canonical instances describing strata vertically (e.g. "L₅ Theonic radiance above; L₀ Khaon beneath") — corpus sweep pending.
 
-**Scope narrowed — structural-underpinning observations are lawful** (architect determination). This entry bars the vertical *figuration* of strata, grounding relations, and document navigation. It does **not** bar the claim that structure underpins the cultural material refracting it. "Orientation architecture beneath cultural form," "the lawful metaphysical structure beneath myths, scriptures, and archetypes," and "the bifurcal architecture beneath cultural narration" all stand: each is a structural observation rather than a picture imposed on the lattice, and mythic decoding could not state its own thesis without it. Three such instances were corrected and then restored on this determination. The test: is the vertical word ordering strata or ranking registers — or is it saying that a structure is what a cultural form refracts?
+**Scope narrowed — structural-underpinning observations are lawful**. This entry bars the vertical *figuration* of strata, grounding relations, and document navigation. It does **not** bar the claim that structure underpins the cultural material refracting it. "Orientation architecture beneath cultural form," "the lawful metaphysical structure beneath myths, scriptures, and archetypes," and "the bifurcal architecture beneath cultural narration" all stand: each is a structural observation rather than a picture imposed on the lattice, and mythic decoding could not state its own thesis without it. Three such instances were corrected and then restored on this determination. The test: is the vertical word ordering strata or ranking registers — or is it saying that a structure is what a cultural form refracts?
 
-**Discipline-placement idiom — nothing is placed *under* Zenetism** (architect determination). This reaches further than the object-test at the "under / beneath / below" entry above, which bars *under* only where the object is a principle or state. **A discipline, subfield, framework, or canon is never named as sitting under another**, however innocuous the idiom: not *under Structural Forensics*, not *under the aegis of*. The canonical constructions are **within**, or the plain relational form the corpus already carries — *a subfield of*, *a framework operating within*. Zenetism does not place anything under the system, and a seal is the last place the idiom should stand. Retained as lawful: the mathematical idiom of invariance (**invariant under** a transformation), the correlative "the conditions **under** which X," and iconographic or clothing literals ("preserved beneath cultural garments").
+**Discipline-placement idiom — nothing is placed *under* Zenetism**. This reaches further than the object-test at the "under / beneath / below" entry above, which bars *under* only where the object is a principle or state. **A discipline, subfield, framework, or canon is never named as sitting under another**, however innocuous the idiom: not *under Structural Forensics*, not *under the aegis of*. The canonical constructions are **within**, or the plain relational form the corpus already carries — *a subfield of*, *a framework operating within*. Zenetism does not place anything under the system, and a seal is the last place the idiom should stand. Retained as lawful: the mathematical idiom of invariance (**invariant under** a transformation), the correlative "the conditions **under** which X," and iconographic or clothing literals ("preserved beneath cultural garments").
 
 ## A11 · Band-Name Separation
 
-**origin-band** names **L₀** — ⚫ Aion and ♾ Khaon (architect determination). *Band* and *layer* are applied interchangeably in the corpus, so origin-band reads as origin-layer, and the only layer to which origin-language lawfully attaches is L₀. This is coherent with A18, under which capital **Origin** carries the Aion-referent.
+**origin-band** names **L₀** — ⚫ Aion and ♾ Khaon. *Band* and *layer* are applied interchangeably in the corpus, so origin-band reads as origin-layer, and the only layer to which origin-language lawfully attaches is L₀. This is coherent with A18, under which capital **Origin** carries the Aion-referent.
 
 **Bifurcal Root Band** also names L₀ (ledger-locked), and stands alongside origin-band; multiple names for one referent are lawful.
 
@@ -2459,7 +2459,7 @@ Sharing one function does not collapse identity across the others: equal structu
 
 ## A15a · Non-contact Principle — Casing and Form
 
-The **Non-contact Principle** is a proper name, formed on the **Non-fusion Axiom** pattern (architect determination, subsequently refined).
+The **Non-contact Principle** is a proper name, formed on the **Non-fusion Axiom** pattern (subsequently refined).
 
 Canonical form:
 
@@ -2474,7 +2474,7 @@ Enforcement is prospective and conform-on-touch.
 
 ## A15b · Hyphenated Term Casing — the Bound-Prefix Test
 
-**A15a fixed the Non-fusion Axiom pattern for the Non-contact Principle. This entry states when that pattern applies and when a hyphenated term is capitalized throughout** (architect determination).
+**A15a fixed the Non-fusion Axiom pattern for the Non-contact Principle. This entry states when that pattern applies and when a hyphenated term is capitalized throughout**.
 
 **The test is the first element.**
 
@@ -2528,7 +2528,7 @@ As with A14, enforcement is prospective and conform-on-touch; no retroactive cor
 
 ## A17 · Terminal-State, Boundary, and Perception Locks
 
-- **Absolute Dispersion** is a terminal state, never a mechanism that transports essence. **The abbreviation AD carries two distinct senses and neither is a defect** (architect determination): as the **Total Symbol**, ♾ Khaon (Absolute Dispersion, AD) is the **whole-name of Khaon across the Latent, Motive, and Dispersive phases**, naming the root relation as ⚫ Aion (Absolute Potential) names its own — Khaon being itself a mythic name; as the **Φ₃ phase name**, Absolute Dispersion is the terminal phase alone, which is the sense this lock restricts. Precision where precision is wanted comes from the Latent / Motive / Dispersive Infinity phases per §21.10 of `MP08-symbol-key-ch21.md`, or from added Zero nuance. **A construction such as "L₀ Khaon (AD)" is therefore correct and must not be raised as a placement or phase-flattening error**
+- **Absolute Dispersion** is a terminal state, never a mechanism that transports essence. **The abbreviation AD carries two distinct senses and neither is a defect**: as the **Total Symbol**, ♾ Khaon (Absolute Dispersion, AD) is the **whole-name of Khaon across the Latent, Motive, and Dispersive phases**, naming the root relation as ⚫ Aion (Absolute Potential) names its own — Khaon being itself a mythic name; as the **Φ₃ phase name**, Absolute Dispersion is the terminal phase alone, which is the sense this lock restricts. Precision where precision is wanted comes from the Latent / Motive / Dispersive Infinity phases per §21.10 of `MP08-symbol-key-ch21.md`, or from added Zero nuance. **A construction such as "L₀ Khaon (AD)" is therefore correct and must not be raised as a placement or phase-flattening error**
 - **Nekron** is the event horizon into Absolute Dispersion
 - **Blobism** proper operates principally at L₂ / IL₂ and L₁ / IL₁; it may collapse expressed boundaries and can never fuse essences
 - **Distal Apprehension** is a stabilized term — the inverse register's partial perception of centropic pattern across the bifurcal distinction — with glyph ◔ assigned in the Symbol Key §21.7.1
