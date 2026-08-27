@@ -112,7 +112,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Phase-glyph forms.** The Motive phase carries three canonical glyph forms — Φ₂, →, and 〄 — and within a phase run the lawful form is **〄**, since → carries sequence separation inside a run: **Λ → 〄 → ⇝** is the lawful expression. Zenet and Motive Infinity name the same principle; a run carrying 〄 in the Motive position asserts no conceptual split, and no collaborator conforms 〄 to another Motive-phase form, or the reverse, on placement grounds. The graded articulation stands beside this: 🕊️ carries Spirit / Motive Infinity — ♾ Khaon in its Motive phase — while 〄 is the Zenet articulation of the same principle.
 
-**Reference Document (phase-glyph forms):** `MP08-symbol-key-ch21.md` §21 phase table and the Spirit / Motive Infinity entry; FP07's Ω equation Codex Note; architect verification.
+**Reference Document (phase-glyph forms):** `MP08-symbol-key-ch21.md` §21 phase table and the Spirit / Motive Infinity entry; FP07's Ω equation Codex Note.
 
 **Reference Document:** SP06 §1.2; MP08 Motive Infinity entries; the orientation-framing audit (SP01–SP08).
 
@@ -150,7 +150,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Why the constraint holds.** An arc is a path, and a path is defined by where it begins and ends. On the centropic arc both terminals are ⚫ Aion at L₀: the point of procession and the destination of return. Excluding L₀ leaves the arc's own endpoints outside it, and severs the root-register from the traversal it originates and completes. The error is not a naming preference — it detaches the return destination from the return.
 
-**Reference Document:** the orientation / emanation math, *Arcs and their hypostatic segments*; architect determination. The corresponding wording rules are held in the *Arc / Tree / Traversal Scope* section of the Terminological Lockdown Protocol.
+**Reference Document:** the orientation / emanation math, *Arcs and their hypostatic segments*. The corresponding wording rules are held in the *Arc / Tree / Traversal Scope* section of the Terminological Lockdown Protocol.
 
 ---
 
@@ -211,7 +211,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 - **Resolve, not dissolve.** Dichotomies and apparent dualities are *resolved* — shown to be one thing read from two sides — never *dissolved*. Dissolution is fusion-register vocabulary; resolution preserves the conceptual boundary while correcting the interpretation.
 - **Pressure, not penetration.** Entropic influence *presses upon* or *applies pressure to* centropic fields at the boundary; it does not *penetrate* or enter them. The canonical term is entropic pressure.
-- **Fracture, not corruption.** E₃ ⟿⁻ does not corrupt a centropic signal; the viral copy *fractures from* the veracious signal in transit, carrying its buried origin signature with it. "Corrupts the signal" is a latent arc-conversion claim. The lock reaches formula tokens and chart cells, not prose alone: by architect determination the outcome token ⟨Corruption⟩ converts to ⟨Fracture⟩ wherever the formula appears — the applied exemplar is {Field} + [Entropy] = ⟨Fracture⟩ or ⟨Initial Resistance⟩ — and the E₃ chart cell reads "Fracturing in transmission," never "Corruption in transmission." A corruption-token surviving inside a formula carries the same latent arc-conversion claim the prose lock removes.
+- **Fracture, not corruption.** E₃ ⟿⁻ does not corrupt a centropic signal; the viral copy *fractures from* the veracious signal in transit, carrying its buried origin signature with it. "Corrupts the signal" is a latent arc-conversion claim. The lock reaches formula tokens and chart cells, not prose alone: the outcome token ⟨Corruption⟩ converts to ⟨Fracture⟩ wherever the formula appears — the applied exemplar is {Field} + [Entropy] = ⟨Fracture⟩ or ⟨Initial Resistance⟩ — and the E₃ chart cell reads "Fracturing in transmission," never "Corruption in transmission." A corruption-token surviving inside a formula carries the same latent arc-conversion claim the prose lock removes.
 - **Mirror, not access.** Inverse archetypes — IL₄ Inversalogos and the inverse arc generally — *mirror* their centropic counterparts by structural correspondence, resemblance without direct contact. They hold no structural access across the arc divide.
 
 **Provenance:** Arc-Conversion Prohibition (the fracture lock extends it); Structural Forensics.
@@ -252,14 +252,14 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 **Lawful account.**
 
 - **Essence-orientation** is a being-predicate: traveler-borne, chosen, and per Essence-as-Choice neither conferred nor revoked by any structure
-- **Systemic orientation** names the recurrent directional pattern instantiated through a social structure's relations and enactments (architect stipulation, seated in `framework-internal-diagnosis-and-semantic-priority.md` §5). It attributes no essence-orientation and no traveler-like agency to the structure itself. A social structure can carry systemic orientation because it is composed of participants who bear orientation; the pattern is theirs, recurrently enacted and encoded into relations, incentives, and institutional patterns. The pattern is not self-moving, and participation is not excused by the structure it sustains: individuals assent to its dynamics, consciously or unconsciously, to reap the benefits of membership and avoid the consequences of standing outside it, and that assent is enacted orientation
+- **Systemic orientation** names the recurrent directional pattern instantiated through a social structure's relations and enactments (seated in `framework-internal-diagnosis-and-semantic-priority.md` §5). It attributes no essence-orientation and no traveler-like agency to the structure itself. A social structure can carry systemic orientation because it is composed of participants who bear orientation; the pattern is theirs, recurrently enacted and encoded into relations, incentives, and institutional patterns. The pattern is not self-moving, and participation is not excused by the structure it sustains: individuals assent to its dynamics, consciously or unconsciously, to reap the benefits of membership and avoid the consequences of standing outside it, and that assent is enacted orientation
 - **The attribution is determinate, not metaphorical.** *The system is entropic* is lawful where the enacted pattern of the whole produces detectable entropic outcomes; the determination rests on manifested outcome, per the Diagnostic Sufficiency and Scope Constraint. Whether such structures are real or constructed is held open, architect-reserved — the register decides diagnostic grammar, not ontology
 - **The platform doctrine is not contradicted.** "The platform bears no orientation of its own" (Portal / Traveler entry above) denies essence-orientation to an engineered aperture. "An entropically oriented social structure" (Structural Neuroscience) asserts systemic orientation of a participant-composed structure. The two sentences occupy different registers and different objects, and both stand
 - **Implication and systemic orientation are compatible placements.** A portal-condition structure becomes entropically implicated through its configuration; a social structure carries systemic orientation through its participants' recurring enactment. Where a structure is both — a platform operated and populated — the aperture is implicated, the shaping orientation is accountable, and the collective's recurring enactment is diagnosable as systemic orientation
 
 **Lawful grammar.** Write "an entropically oriented social structure" only in the stipulated systemic sense; never write that a structure chose, believes, or is an essence of its orientation. Compliance and enactment within a structure disclose the participants' orientation, per Action Discloses Orientation; constraint on expression does not convert essence, and a constrained system's coercive capacity is itself an indicator of the shaping orientation, never of the aperture's own.
 
-**Reference Document:** `framework-internal-diagnosis-and-semantic-priority.md` §§4–5, 17; the Portal / Traveler Six-Part Distinction above; Entropically Implicated; architect determination.
+**Reference Document:** `framework-internal-diagnosis-and-semantic-priority.md` §§4–5, 17; the Portal / Traveler Six-Part Distinction above; Entropically Implicated.
 
 ---
 
@@ -310,7 +310,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Lawful grammar.** Write "the L₅ operator EOB," "the symbol denoting the layer," "the function the abbreviation encodes." Where two charts label the same data differently, name the aspect each foregrounds rather than reconciling them as though they conflicted.
 
-**Reference Document:** `MP08-symbol-key-ch21.md` §21.9, §21.13, §21.31; `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.1; architect determination.
+**Reference Document:** `MP08-symbol-key-ch21.md` §21.9, §21.13, §21.31; `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.1.
 
 ---
 
@@ -341,7 +341,7 @@ Layer ordering encodes the emanation structure, so it is held here rather than a
 
 **Why the constraint holds.** A centropic label standing for a whole stratum silently absorbs the inverse layer into the centropic name — a fusion-register error at the notational scale, and a misstatement of the architecture wherever both arcs are in play. Disclosure keeps the bifurcal structure visible in the notation itself.
 
-**Reference Document:** FP07 (the Ω equation and its Codex Note); `MP08-symbol-key-ch21.md` §21 (L₄ / IL₄ as conscious-awareness / inverse conscious-awareness); architect determination. Ordering within a listing is held by the Layer-Ordering Constraints and the architectural ordering standard.
+**Reference Document:** FP07 (the Ω equation and its Codex Note); `MP08-symbol-key-ch21.md` §21 (L₄ / IL₄ as conscious-awareness / inverse conscious-awareness). Ordering within a listing is held by the Layer-Ordering Constraints and the architectural ordering standard.
 
 ---
 
@@ -360,7 +360,7 @@ Layer ordering encodes the emanation structure, so it is held here rather than a
 
 **Why the constraint holds.** An essence is not a product of a process running inside the lattice; the essence registers are where essence stands. Letting a local condition "become" an essence manufactures essences out of field mechanics and erases the register architecture that the Soul-span doctrine states.
 
-**Reference Document:** FP13 Chapters 56–58 (the three terminal-standing sites, as corrected); the Soul-span determination; architect determination.
+**Reference Document:** FP13 Chapters 56–58 (the three terminal-standing sites, as corrected); the Soul-span determination.
 
 ---
 
@@ -394,7 +394,7 @@ Layer ordering encodes the emanation structure, so it is held here rather than a
 
 **Lawful grammar.** Write "position in causal necessity," "co-present," "root-register," "orientation." Where spatial vocabulary could carry a literal reading, name the register once rather than replacing the vocabulary — the borrowing is canonical and the terms are load-bearing.
 
-**Reference Document:** `MP08-symbol-key-ch21.md` §21.3 Note on the Colocation Connector and §21.6 Note on the Retired Cardinal-Direction Frame; the Bifurcal Root Constraint and the guard on the strata in this protocol; architect determination.
+**Reference Document:** `MP08-symbol-key-ch21.md` §21.3 Note on the Colocation Connector and §21.6 Note on the Retired Cardinal-Direction Frame; the Bifurcal Root Constraint and the guard on the strata in this protocol.
 
 ---
 
@@ -455,7 +455,7 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 
 **Lexical cross-reference.** The lexical enforcement lives in the Terminological Lockdown Protocol's Inversion Language Restriction.
 
-**Reference Document:** `epistemic-inversion.md`; architect determinations, August 16–17 2026.
+**Reference Document:** `epistemic-inversion.md`.
 
 ---
 
@@ -497,7 +497,7 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 
 **Lawful grammar.** Write "what this analysis holds," never "what this does not determine." Write "held open pending the registered checks," never "does not by itself establish." A finding is stated and left standing.
 
-**Reference Document:** the Terminological Lockdown Protocol's Diagnostic Scope contra Exculpatory Disclaimer and its hedge-qualifier restriction; architect determinations.
+**Reference Document:** the Terminological Lockdown Protocol's Diagnostic Scope contra Exculpatory Disclaimer and its hedge-qualifier restriction.
 
 ---
 
@@ -531,7 +531,7 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 
 **Lawful account.**
 
-- **Historical record.** Quoted material, dated ledgers, audit reports, and archived versions are not conformed to current vocabulary as a matter of course, and no collaborator conforms them on their own initiative. The scope of every vocabulary determination is the architect's current voice and new drafting. **The architect determines what is edited and when.** No rule obliges him to leave a prior document as it stands, and none forbids him to bring it forward; the corpus is his, and the need is his to determine. What the non-retroactivity clause fixes is the default and the collaborator's conduct — never the architect's own hand (architect determination)
+- **Historical record.** Quoted material, dated ledgers, audit reports, and archived versions are not conformed to current vocabulary as a matter of course, and no collaborator conforms them on their own initiative. The scope of every vocabulary determination is the architect's current voice and new drafting. **The architect determines what is edited and when.** No rule obliges him to leave a prior document as it stands, and none forbids him to bring it forward; the corpus is his, and the need is his to determine. What the non-retroactivity clause fixes is the default and the collaborator's conduct — never the architect's own hand
 - **Recorded provenance.** A superseded expression is never erased; it is preserved through an additive note that names it superseded and states the current form — the historical formula strings preserved beside their amended forms, and developmental aliases preserved as provenance, are the canonical pattern. Preservation-as-provenance is a duty of the correction, and does not license keeping the old form in active voice
 - **Legacy accommodation.** Where superseded or disfavored wording remains operative in active prose, that standing exists only by explicit architect determination, is recorded as accommodation rather than endorsement, and its conversion remains open for a future pass. The canonical instance is the Field Physics govern retention: retained as legacy accommodation only, on practical economy, with the architect's own assessment on record that the choice is a poor one generally and that other documents are not to repeat it
 - **"Legacy language" is not an argument.** The claim that old wording must stand in-document so development stays visible is unsound: the commit history, the archived deposits, and the collaboration records already carry the development. In-document legacy preservation is redundant as a historical record and active as a drift vector — a collaborator who reads the accommodated wording without its record propagates it outward
@@ -542,7 +542,7 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 
 **Held open.** Whether the remaining in-document legacy patch-notes (the reading-rule class, as distinct from recorded provenance) convert to historical statements pointing at the version record is architect-held, document by document.
 
-**Reference Document:** the Terminological Lockdown Protocol's prospective conform-on-touch scope clauses and the govern-retention clarification; architect determinations.
+**Reference Document:** the Terminological Lockdown Protocol's prospective conform-on-touch scope clauses and the govern-retention clarification.
 
 ---
 
