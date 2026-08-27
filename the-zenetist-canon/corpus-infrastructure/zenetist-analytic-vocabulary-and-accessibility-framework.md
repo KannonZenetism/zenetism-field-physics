@@ -113,7 +113,7 @@ The public gloss is not a separate canonical register. It is a simplified entran
 
 ### 3.1 Register by discipline
 
-The disciplines carry the canonical register differently, and the tone native to each determines which register leads (architect determination).
+The disciplines carry the canonical register differently, and the tone native to each determines which register leads.
 
 - **Structural Metaphysics** and **Field Physics** carry the canonical / sacred register natively. Mythic names lead, and analytic descriptors support where a passage reaches toward an outside reader
 - **Structural Forensics**, **Structural Physics**, and **Structural Neuroscience** are better carried by analytic descriptors leading, with canonical names supporting. Each presently draws heavily on mythic vocabulary, which is lawful and never inaccurate — the analytic register simply reaches further
@@ -437,14 +437,14 @@ For unfamiliar readers, write the functional name first and the notation second.
 | Accessible functional description                                          | Formal notation |
 | -------------------------------------------------------------------------- | --------------- |
 | Trans-structural Unknown Principle — outside emanation                    | Supra-L₀        |
-| Bifurcal root-register of Plenary Zero and Phase-Structured Infinity       | L₀              |
-| First Centropic Hypostasis and First Inverse Hypostasis                    | L₅ / IL₅        |
+| Bifurcal Root Layer — Plenary Zero and Phase-Structured Infinity          | L₀              |
+| Being Layer and Inverse Being Layer                                        | L₅ / IL₅        |
 | Archetypal Form Layer and Inverse Archetypal Form Layer                    | L₄ / IL₄        |
 | Deep Self Layer and Inverse Deep Self Layer                                | L₃ / IL₃        |
 | Superficial Self Layer and Inverse Superficial Self Layer                  | L₂ / IL₂        |
 | Embodied Self Layer and Inverse Embodied Self Layer                        | L₁ / IL₁        |
 
-The shorthand progression — **Form → Deep Self → Superficial Self → Embodied Self**, and its inverse — is easier for an unfamiliar reader to hold than either the notation or the paired names. Where a passage addresses the poles rather than the layer, the paired articulation is written: Deep Psyche / Logos, Deep Soul / Mind, Superficial Soul / Mind, Embodied Soul / Mind. §13.3 determines the choice.
+The shorthand progression — **Bifurcal Root → Being → Form → Deep Self → Superficial Self → Embodied Self**, with the inverse sequence **Bifurcal Root → Inverse Being → Inverse Form → Inverse Deep Self → Inverse Superficial Self → Inverse Embodied Self** — is easier for an unfamiliar reader to hold than either the notation or the paired names. Supra-L₀ is displayed separately as the **Trans-structural Unknown Principle**, contracted to **Trans-structural Principle**, never as the first step of the progression. Where a passage addresses the poles rather than the layer, the paired articulation is written: Deep Psyche / Logos, Deep Soul / Mind, Superficial Soul / Mind, Embodied Soul / Mind. §13.3 determines the choice.
 
 Example:
 
@@ -636,7 +636,7 @@ Stabilize entries for:
 
 The layer entries and the awareness registers are seated at §6.1, and the layer shorthand and Soul / Mind conventions at §13.3. What remains:
 
-- apply the layer shorthand across existing and new work
+- apply the layer shorthand prospectively in new work, and in existing work only where the architect deliberately authorizes revision
 - analytic descriptors for **essence** and **embodiment**
 - the awareness spectrum in extended analytic prose
 
@@ -681,11 +681,11 @@ Existing works are revised at the architect's determination. Conditions that com
 
 ## 13. Architect Determinations and Open Items
 
-The following questions remain open for later review.
+The section records architect determinations already made and the items still open for later review.
 
 ### 13.1 Khaon's primary descriptor — determined
 
-Both terms stand, with **Phase-Structured Infinity** as the default analytic descriptor and **Tri-phasic Infinity** as the secondary explanatory form where the phase count is what a passage makes legible (architect determination).
+Both terms stand, with **Phase-Structured Infinity** as the default analytic descriptor and **Tri-phasic Infinity** as the secondary explanatory form where the phase count is what a passage makes legible.
 
 Combined form, where both are wanted:
 
@@ -693,11 +693,11 @@ Combined form, where both are wanted:
 
 ### 13.2 Absolute Dispersion — determined
 
-**Absolute Dispersion** names the third phase only (architect determination). The whole-principle application is legacy total-symbol terminology and is identified as such where it appears in existing works.
+**Absolute Dispersion** names the third phase only. The whole-principle application is legacy total-symbol terminology and is identified as such where it appears in existing works.
 
 ### 13.3 Layer descriptors — determined
 
-**Soul / Mind terminology stands and is not subject to analytic substitution** (architect determination). Soul, Spirit, and the sacred vocabulary are not stripped from technical prose; the bridge to an outside reader is definition and claim-status discipline, never lexical surrender.
+**Soul / Mind terminology stands and is not subject to analytic substitution**. Soul, Spirit, and the sacred vocabulary are not stripped from technical prose; the bridge to an outside reader is definition and claim-status discipline, never lexical surrender.
 
 What the analytic register gains instead is a **layer shorthand** standing above the paired articulation, written where a passage addresses a layer entire and the two poles are not themselves under discussion.
 
@@ -749,7 +749,7 @@ Determine whether the stabilized vocabulary will cover:
 
 ### 13.6 Formal title — determined
 
-The title stands as written: **Zenetist Analytic Vocabulary and Accessibility Framework** (architect determination).
+The title stands as written: **Zenetist Analytic Vocabulary and Accessibility Framework**.
 
 ---
 
