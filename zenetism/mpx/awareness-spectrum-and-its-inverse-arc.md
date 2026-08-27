@@ -26,7 +26,7 @@ Because it is the condition for both poles, proto-awareness must not be confused
 At **L₅ / IL₅**, the first hypostatic awareness polarity appears — two poles at one register, held non-fused.
 
 - **L₅ — EOB (Essence of Being / 🛤️ Theon):** **awareness**, the +1 pole — supernal, luminous, pre-reflexive; the first centropic hypostasis, prior to the Soul / Mind distinction. Non-reflexive does not imply non-discernment: awareness at L₅ is the most integrated mode, not the least capable.
-- **IL₅ — VOS (Void of Self / 🕷️ Nekron):** **inverse awareness / Non-Awareness**, the −1 pole — not simple unconsciousness, and not proto-awareness. It is awareness voided at the same register where Theon gathers awareness into coherent presence.
+- **IL₅ — VOS (Void of Self / 🕷️ Nekron):** **inverse awareness / Non-awareness**, the −1 pole — not simple unconsciousness, and not proto-awareness. It is awareness voided at the same register where Theon gathers awareness into coherent presence.
 
 The two are not at different depths. They are the two poles of one hypostatic awareness spectrum.
 
@@ -62,8 +62,12 @@ This is the asymmetry that keeps the arc coherent. At IL₅ the inversion is max
 
 This entry fixes the formal names of the inverse strata. Where earlier material named an inverse register by an *effect* it produces or a *function* it performs, those descriptions are retained as descriptions — they are not the formal designation.
 
-- **Non-Awareness** properly names 🕷️ Nekron at IL₅.
+- **Non-awareness** properly names 🕷️ Nekron at IL₅.
 - The remaining inverse strata are named by their corresponding inverse awareness-registers: **inverse conscious-awareness** (IL₄), **inverse reflexive consciousness** (IL₃), **inverse identity-aware consciousness** (IL₂), and **inverse embodied consciousness** (IL₁).
+
+**Non-awareness and the inverse designations do not compete.** Non-awareness names the mode at IL₅ on the awareness spectrum, where awareness and non-awareness stand as the two poles of one register. The inverse forms name structural counter-placement — the formal relation of an entropic register to its centropic pole. Both hold of the same register, and either is written according to what a passage states. The same holds wherever a register is named on a spectrum rather than by counter-placement: naming the negation keeps the thing named present, so a Non- form states a mode within its spectrum rather than an exit from it.
+
+Casing follows the Non-fusion Axiom pattern: **Non-awareness**, never Non-Awareness, per Terminological Lockdown Protocol A15a. Descriptive mentions stay lowercase — non-awareness as a mode rather than as the formal designation.
 
 Three words must be kept distinct:
 
