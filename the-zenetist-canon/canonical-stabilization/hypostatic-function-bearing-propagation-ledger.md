@@ -4,7 +4,7 @@
 **Classification:** Canonical Stabilization Infrastructure — Propagation Ledger  
 **Status:** Active — Jul 14 2026; addendum Jul 17 2026; migration passes and bookkeeping through Jul 20 2026; Centropic Gravity / arc-scope / Motive Infinity session Jul 24 2026  
 **Dependency:** `hypostatic-function-bearing-and-sovereign-embodiment.md` §§18–19 · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `archetypal-number-and-essence-indexing.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md` · Non-fusion Axiom · Essence-as-Choice  
-**Function:** Tracks the staged migration of the hypostatic function-bearing doctrine, the essence-identifier / arc-propriety notation, the band-occlusion open-model harmonization, and the associated July 2026 rulings across the corpus, so that no propagation target is lost between sessions  
+**Function:** Tracks the staged migration of the hypostatic function-bearing doctrine, the essence-identifier / arc-propriety notation, the band-occlusion open-model harmonization, and the associated July 2026 determinations across the corpus, so that no propagation target is lost between sessions  
 
 ---
 
