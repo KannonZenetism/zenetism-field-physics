@@ -165,7 +165,7 @@ Formal notation may stand as the primary form only after the relevant terms have
 
 A paper should not presume that an unfamiliar reader already understands why the architectural order proceeds:
 
-> **Supra-L₀ — 🕳️ Zenon** · outside the emanatory continuum; centropic saturation-point only
+> **Supra-L₀ — 🕳️ Zenon** · outside emanation; centropic saturation-point only
 >
 > L₀ → L₅ → L₄ → L₃ → L₂ → L₁
 
@@ -247,7 +247,7 @@ Each layer carries its operator abbreviation, the canonical term seated there, t
 | **IL₁** | **IES** | **🍷 Malara** | **Inverse Embodied Soul** | inverse embodied consciousness | Indulgence and reactive dissociation from inner alignment |
 | **IL₁** | **IEM** | **🤯 Mania** | **Inverse Embodied Mind** | inverse embodied consciousness | Chaotic or obsessive cognition unanchored from coherence |
 
-The paired layer names — **Deep Psyche / Logos**, **Deep Soul / Mind**, **Superficial Soul / Mind**, **Embodied Soul / Mind**, and their inverse formulations — are the canonical full articulation of the layer. The layer shorthand may stand where the poles themselves are not under discussion, as §13.3 governs. The operator pairs abbreviate them: **DP / DL**, **DS / DM**, **SS / SM**, **ES / EM**, and the inverse forms.
+The paired layer names — **Deep Psyche / Logos**, **Deep Soul / Mind**, **Superficial Soul / Mind**, **Embodied Soul / Mind**, and their inverse formulations — are the canonical full articulation of the layer. The layer shorthand may stand where the poles themselves are not under discussion, as determined at §13.3. The operator pairs abbreviate them: **DP / DL**, **DS / DM**, **SS / SM**, **ES / EM**, and the inverse forms.
 
 **Plenary Zero** names Aion entire, closing an asymmetry in the L₀ pair: Khaon carried a whole-principle descriptor while Aion carried only **Absolute Potential**, whose parallel is Khaon's **Absolute Dispersion**. Plenary Zero renders Zero as the plenary holding of all distinct values — the totality of all that is and all that can be, every positive value standing with its negative and the pairing summing to Zero — full rather than empty, and never the nothingness reading §2.1 excludes. Articulable number arises from Zero at the first bifurcation into +1 and −1. **Absolute Potential** remains lawful and names what rests at L₀; the two stand at different scales rather than competing.
 
@@ -405,6 +405,11 @@ The complete arcs include their L₀ roots:
 - centropic arc: L₀ (Aion) and L₅–L₁;
 - inverse arc: L₀ (Khaon) and IL₅–IL₁.
 
+Written in the analytic register, where the canonical names are not installed:
+
+- centropic arc: L₀ (Plenary Zero) and L₅–L₁;
+- inverse arc: L₀ (Phase-Structured Infinity) and IL₅–IL₁.
+
 Aion and Khaon do not thereby become centropic or entropic principles in themselves.
 
 The terms **hypostatic segment of the centropic arc** and **hypostatic segment of the inverse arc** are written where only L₅–L₁ or IL₅–IL₁ is intended.
@@ -431,7 +436,7 @@ For unfamiliar readers, write the functional name first and the notation second.
 
 | Accessible functional description                                          | Formal notation |
 | -------------------------------------------------------------------------- | --------------- |
-| Trans-structural Unknown Principle — outside the emanatory continuum       | Supra-L₀        |
+| Trans-structural Unknown Principle — outside emanation                    | Supra-L₀        |
 | Bifurcal root-register of Plenary Zero and Phase-Structured Infinity       | L₀              |
 | First Centropic Hypostasis and First Inverse Hypostasis                    | L₅ / IL₅        |
 | Archetypal Form Layer and Inverse Archetypal Form Layer                    | L₄ / IL₄        |
@@ -439,7 +444,7 @@ For unfamiliar readers, write the functional name first and the notation second.
 | Superficial Self Layer and Inverse Superficial Self Layer                  | L₂ / IL₂        |
 | Embodied Self Layer and Inverse Embodied Self Layer                        | L₁ / IL₁        |
 
-The shorthand progression — **Form → Deep Self → Superficial Self → Embodied Self**, and its inverse — is easier for an unfamiliar reader to hold than either the notation or the paired names. Where a passage addresses the poles rather than the layer, the paired articulation is written: Deep Psyche / Logos, Deep Soul / Mind, Superficial Soul / Mind, Embodied Soul / Mind. §13.3 governs the choice.
+The shorthand progression — **Form → Deep Self → Superficial Self → Embodied Self**, and its inverse — is easier for an unfamiliar reader to hold than either the notation or the paired names. Where a passage addresses the poles rather than the layer, the paired articulation is written: Deep Psyche / Logos, Deep Soul / Mind, Superficial Soul / Mind, Embodied Soul / Mind. §13.3 determines the choice.
 
 Example:
 
@@ -453,7 +458,7 @@ The second form becomes appropriate after the notation has been defined.
 
 ### 9.2 Canonical ordering
 
-🕳️ Zenon at Supra-L₀ stands outside the emanatory continuum. A complete map acknowledges the trans-structural before presenting the lattice, so Supra-L₀ is displayed first — displayed, never sequenced. The separation is structurally necessary.
+🕳️ Zenon at Supra-L₀ stands outside emanation. A complete map acknowledges the trans-structural before presenting the lattice, so Supra-L₀ is displayed first — displayed, never sequenced. The separation is structurally necessary.
 
 > **Supra-L₀ — 🕳️ Zenon** · outside emanation and bifurcal structure
 
@@ -462,7 +467,7 @@ The emanatory sequence begins at the bifurcal root-register:
 > centropic: L₀ → L₅ → L₄ → L₃ → L₂ → L₁  
 > inverse: L₀ → IL₅ → IL₄ → IL₃ → IL₂ → IL₁
 
-Supra-L₀ and L₀ together are the **pre-hypostatic requisites** — what the hypostatic lattice presupposes without containing. The two are requisite in different manners: Zenon is trans-structural and outside the continuum entirely, while Aion and Khaon are the root-registers from which emanation proceeds. The hypostatic lattice begins at L₅ / IL₅.
+Supra-L₀ and L₀ together are the **pre-hypostatic requisites** — what the hypostatic lattice presupposes without containing. The two are requisite in different manners: Zenon is trans-structural and outside emanation entirely, while Aion and Khaon are the root-registers from which emanation proceeds. The hypostatic lattice begins at L₅ / IL₅.
 
 The numbering orders position in causal necessity. It carries no ladder, no rank, and no hierarchy of worth in either direction.
 
@@ -698,6 +703,10 @@ What the analytic register gains instead is a **layer shorthand** standing above
 
 | Architecture | Layer shorthand | Paired articulation when the poles matter |
 | --- | --- | --- |
+| Supra-L₀ | **The Unknown Principle (UP)** | — single, no poles |
+| L₀ | **Bifurcal Root** | Plenary Zero / Phase-Structured Infinity |
+| L₅ | **First Centropic Hypostasis** | Essence of Being (EOB) — single, no poles |
+| IL₅ | **First Inverse Hypostasis** | Void of Self (VOS) — single, no poles |
 | L₄ | **Archetypal Form Layer**, contracted to **Form Layer** after first appearance | Deep Psyche / Deep Logos |
 | IL₄ | **Inverse Archetypal Form Layer** / **Inverse Form Layer** | Inverse Deep Psyche / Inverse Deep Logos |
 | L₃ | **Deep Self Layer** | Deep Soul / Deep Mind |
@@ -708,6 +717,10 @@ What the analytic register gains instead is a **layer shorthand** standing above
 | IL₁ | **Inverse Embodied Self Layer** | Inverse Embodied Soul / Inverse Embodied Mind |
 
 **Self is a shorthand for the paired Soul / Mind articulation of an individuated being.** It never replaces Soul or Mind, constitutes no third pole, and collapses no functional distinction. The shorthand begins at L₃, where reflexive individuation becomes operative, and continues through the superficial and embodied articulations. It does not reach back to L₄ / IL₄, which are conscious-aware and pre-individuated.
+
+Only L₀ and the layers from L₄ down carry two figures. Supra-L₀, L₅, and IL₅ hold a single operator each, so no paired articulation stands beneath them and the shorthand is the name itself. At L₀ the pair is Aion and Khaon rather than a Soul / Mind articulation, and **Bifurcal Root** names the layer entire without asserting that the two fuse.
+
+Supra-L₀ stands beyond layering, and it is a named layer in the corpus notation. Both hold: the entry records the name; §9.2 records that Zenon is displayed rather than sequenced.
 
 **Archetypal** leads the L₄ name because lowercase *form* runs throughout the L₁ definitions — presence in form, material form, externalization through form. The contracted **Form Layer** is written after the full name has appeared.
 
