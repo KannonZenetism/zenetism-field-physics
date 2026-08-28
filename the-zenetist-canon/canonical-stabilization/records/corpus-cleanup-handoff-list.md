@@ -59,8 +59,8 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 ## Remaining — upload in batches of five or six, any order
 
 **Batch 1**
-- [ ] lattice-mathematics/lmx/orientation-emanation-math.md
-- [ ] the-zenetist-canon/publication-infrastructure/zenetism-publication-engine-v2.md
+- [x] lattice-mathematics/lmx/orientation-emanation-math.md
+- [x] the-zenetist-canon/publication-infrastructure/zenetism-publication-engine-v2.md
 - [ ] field-physics/FP14-standard-field-music-notation.md
 - [ ] the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-01.md
 - [ ] the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-02.md
