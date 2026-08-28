@@ -64,7 +64,7 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 - [x] lattice-mathematics/lmx/orientation-emanation-math.md
 - [x] the-zenetist-canon/publication-infrastructure/zenetism-publication-engine-v2.md
 - [x] field-physics/FP14-standard-field-music-notation.md
-- [ ] the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-01.md
+- [x] the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-01.md
 - [ ] the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-02.md — carry the MFLR-01 class set: in-row revision trails (Updated from / Tightened from / Moved from / Previously / Promoted from / Reclassified / Revised / Spelling updated from / back-propagated from) restated as standing determinations with their authority kept; dated correction stamps out; Flags-table and struck-for-provenance structures treated as record class; centropic-subject against → contra; the origin work is cited as *Zenetism: The Architecture of Emanation, Return, and Saturation* wherever the legacy *The Emanative Path of Return* appears
 - [x] the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibilityframework.md — verified already clean, duplicate of the Already-done entry
 
