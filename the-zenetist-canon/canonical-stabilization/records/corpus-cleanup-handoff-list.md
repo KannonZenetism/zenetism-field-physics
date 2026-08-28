@@ -18,6 +18,8 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 >
 > **5. The standing vocabulary lockdowns** apply to all new wording introduced by the repairs: no *use*-family, no *against* as comparison or reference (contra / relative to / alongside; adjudicative for-or-against stands), no live *over*-relation (in place of / ahead of), no *control* (anchor / bind / is the standard), no *displacement* family including overwrite / overrule / override, no fall-family in the architect's voice, spaced em dashes, spaced slashes between distinct concepts, straight quotes, bound-prefix casing per A15b.
 >
+> **6. Control, against, and mark language** convert where they run in ordinary prose; a term functioning as a technical term embedded in the document's own architecture stands, as with legacy echo / mirror language, so the document is not imbalanced. Conversions: *control*-family → stabilized / held / anchor / bind / determination, per slot; comparison-*against* → relative to (adjudicative for-or-against stands); *mark*-language → glyph where the item is a registered glyph, sign for score-specific and notational items (sign is the seated replacement across the FP volumes, per FP14, so the volumes stay consistent), seal only for personal seals, with musical "markings" headings taking notation; verb *marks* → denotes / declares / designates per slot. Quoted material stands.
+>
 > **Do not touch:** dated ledgers, implementation logs, audits, correction records, exhibits, and continuity notes (their dates and phrases are the record); quoted material; evidentiary chronology anywhere; metadata `Status:` stage-content (only its dates go).
 
 ---
@@ -68,7 +70,7 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 
 **Batch 2**
 - [ ] field-physics/FP04-field-immunity-architecture.md
-- [ ] field-physics/FP01-dimensional-architecture.md
+- [x] field-physics/FP01-dimensional-architecture.md
 - [ ] structural-forensics/glossary/epistemic-inversion.md
 - [ ] field-physics/FP13-field-immunity-mechanisms-and-recovery.md
 - [ ] lattice-mathematics/lmx/archetypal-number-and-essence-indexing.md
