@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Systemic Analysis  
-**Status:** Drafted August 14 2026 — Draft, architect review  
+**Status:** Draft, architect review  
 **Companions:** `the-synthetic-provenance-problem.md` · `authorship-and-ai-collaboration-provenance-standard.md`  
 **Function:** Establishes the distributional, transparency, and verification conditions under which originating work becomes publicly legible, and distinguishes those conditions from the provenance architecture treated in the companion analysis  
 **Proposed path:** `structural-forensics/systemic-analysis/the-algorithmic-legibility-problem.md`  
