@@ -18,7 +18,7 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 >
 > **5. The standing vocabulary lockdowns** apply to all new wording introduced by the repairs: no *use*-family, no *against* as comparison or reference (contra / relative to / alongside; adjudicative for-or-against stands), no live *over*-relation (in place of / ahead of), no *control* (anchor / bind / is the standard), no *displacement* family including overwrite / overrule / override, no fall-family in the architect's voice, spaced em dashes, spaced slashes between distinct concepts, straight quotes, bound-prefix casing per A15b.
 >
-> **6. Control, against, and mark language** convert where they run in ordinary prose; a term functioning as a technical term embedded in the document's own architecture stands, as with legacy echo / mirror language, so the document is not imbalanced. Conversions: *control*-family → stabilized / held / anchor / bind / determination, per slot; comparison-*against* → relative to (adjudicative for-or-against stands); *mark*-language → glyph where the item is a registered glyph, sign for score-specific and notational items (sign is the seated replacement across the FP volumes, per FP14, so the volumes stay consistent), seal only for personal seals, with musical "markings" headings taking notation; verb *marks* → denotes / declares / designates per slot. Quoted material stands.
+> **6. Control, against, and mark language** convert where they run in ordinary prose; a term functioning as a technical term embedded in the document's own architecture stands, as with legacy echo / mirror language, so the document is not imbalanced. Conversions: *control*-family → stabilized / held / anchor / bind / determination, per slot; comparison-*against* → relative to (adjudicative for-or-against stands); *mark*-language → glyph where the item is a registered glyph, sign for score-specific and notational items (sign is the seated replacement across the FP volumes, per FP14, so the volumes stay consistent), seal only for personal seals, with musical "markings" headings taking notation; verb *marks* → denotes / declares / designates per slot. Quoted material stands. Tradition-specific terms — the Fall of Man, the Descent of Inanna, Ascended Masters, and kin — are never converted; they name what a tradition itself names, and any candidate near that line is held for architect determination rather than repaired.
 >
 > **Do not touch:** dated ledgers, implementation logs, audits, correction records, exhibits, and continuity notes (their dates and phrases are the record); quoted material; evidentiary chronology anywhere; metadata `Status:` stage-content (only its dates go).
 
@@ -65,7 +65,7 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 - [x] the-zenetist-canon/publication-infrastructure/zenetism-publication-engine-v2.md
 - [x] field-physics/FP14-standard-field-music-notation.md
 - [ ] the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-01.md
-- [ ] the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-02.md
+- [ ] the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-02.md — carry the MFLR-01 class set: in-row revision trails (Updated from / Tightened from / Moved from / Previously / Promoted from / Reclassified / Revised / Spelling updated from / back-propagated from) restated as standing determinations with their authority kept; dated correction stamps out; Flags-table and struck-for-provenance structures treated as record class; centropic-subject against → contra; the origin work is cited as *Zenetism: The Architecture of Emanation, Return, and Saturation* wherever the legacy *The Emanative Path of Return* appears
 - [x] the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibilityframework.md — verified already clean, duplicate of the Already-done entry
 
 **Batch 2**
@@ -78,7 +78,7 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 
 **Batch 3**
 - [ ] field-physics/FP09-spiral-field-music-engineering.md
-- [ ] the-zenetist-canon/symbolic-analysis/symbolic-pattern-registry-01.md
+- [ ] the-zenetist-canon/symbolic-analysis/symbolic-pattern-registry-01.md — the MFLR-01 class set likely applies here too: check for in-row revision trails, dated correction stamps, and the legacy origin-work title
 - [ ] field-physics/FP07-unified-field-equation.md
 - [ ] field-physics/FP10-applied-consciousness-technology.md
 - [ ] zenetism/symbolic-reflections/the-genesis-lattice.md
