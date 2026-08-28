@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics Extension — Number ontology, essence indexing, and multiversal allocation  
-**Status:** Draft — Jul 17 2026  
+**Status:** Draft  
 **Dependency:** `metaphysics-symbol-key.md` §21.33 · `non-fusion-at-the-bifurcal-register.md` · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `deep-self-axis.md` · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `SP04-orientation-field-dynamics.md` · `SP06-structural-space-orientation-paradox.md` · Essence-as-Choice · Non-Fusion Axiom · Khaon Phase Distinctions · 🏛️ Structon  
 
 ---
@@ -43,7 +43,7 @@ The present entry distinguishes:
 - processional arc-propriety
 - multiversal expression-locus
 
-The central ruling is:
+The central determination is:
 
 > Arithmetic number, hypostatic charge, essence identity, and universe-local address are different numerical functions.
 
@@ -101,7 +101,7 @@ The subscript identifying an arc is not part of the arithmetic value borne by an
 
 The locus-index of a Deep Self-Axis does not create another essence-number.
 
-The present entry therefore treats numerical notation as **typed notation**: the meaning of a symbol is governed by the structural category in which it appears.
+The present entry therefore treats numerical notation as **typed notation**: the meaning of a symbol is determined by the structural category in which it appears.
 
 ---
 
@@ -138,7 +138,7 @@ The numerical architecture may be stabilized through five functions.
 
 | Function | Canonical Meaning | What It Does Not Mean |
 |---|---|---|
-| **Archetypal Number / Relational Syntax** | Repeatable structural law governing sequence, ratio, interval, scaling, distinction, and relation | One unique being corresponding to each number |
+| **Archetypal Number / Relational Syntax** | Repeatable structural law determining sequence, ratio, interval, scaling, distinction, and relation | One unique being corresponding to each number |
 | **Khaonic Infinity** | The infinite field-condition of latent possibility, enacted motion, differentiation, continuation, and terminal dispersion | Structon itself or entropy itself |
 | **Hypostatic structural charge** | The +1 of Theon and −1 of Nekron as the first enacted signed hypostatic determinations | The unique personal identifier of Theon or Nekron |
 | **Essence-identifier** | A unique formal index naming which essence is present | Arithmetic magnitude, rank, worth, or population-order |
@@ -194,7 +194,7 @@ Motive Infinity is the phase in which sequence becomes event, traversal, and cau
 
 ⌬ Relational Syntax is the archetypal law of patterned relationship.
 
-It governs:
+It determines:
 
 - number
 - sequence
@@ -224,7 +224,7 @@ Infinity does not first come into existence at +1 / −1.
 
 Khaon is already Infinity at L₀.
 
-The Theon / Nekron distinction marks the first **enacted signed hypostatic articulation** within manifestation.
+The Theon / Nekron distinction denotes the first **enacted signed hypostatic articulation** within manifestation.
 
 Thus, +1 / −1 begin the signed unfolding of Infinity as:
 
@@ -503,7 +503,7 @@ A universal arc may possess complete Archetypal Number while actualizing:
 - a constrained population
 - an actually infinite population in a limit-case
 
-PSM governs what becomes manifest.
+PSM determines what becomes manifest.
 
 Structural permission does not compel every possible numerical relation to become represented by a distinct being.
 
@@ -646,7 +646,7 @@ Arc-propriety belongs to the trans-expression being as a whole.
 
 Universe-locality belongs to its expression-loci.
 
-No locus becomes an original over the others.
+No locus becomes an original ahead of the others.
 
 No locus receives a new essence-identifier.
 
@@ -716,7 +716,7 @@ At IL₃ IDS / IDM:
 
 Integration is not applied to the inverse arc.
 
-Yet the numerical identity rule remains the same:
+Yet the numerical identity principle remains the same:
 
 > one trans-expression being — one essence-identifier — many loci.
 
@@ -724,7 +724,7 @@ The difference lies in the character of continuity, not in the sovereignty of es
 
 ---
 
-## 16. The Exceptional Hypostatic Singleton Rule
+## 16. The Exceptional Hypostatic Singleton Principle
 
 Theonic and Nekronic essences are not ordinary members of a general population sequence.
 
@@ -754,7 +754,7 @@ Where the Khaonic Tree manifests, one Nekronic essence is proper to the arc:
 
 In limit-case arcs where the corresponding Tree does not manifest, the relevant cardinality is zero.
 
-This singleton rule belongs to office architecture.
+This singleton principle belongs to office architecture.
 
 It does not imply that every other structural number-relation must also be represented by exactly one arc-native essence.
 
@@ -880,7 +880,7 @@ Clarify that:
 - \(\theta\) identifies the distinct Theonic essence
 - \(u\) identifies its processional arc
 - multiple Theonic essences do not create multiple arithmetic ones
-- the singleton rule is an office rule, not a one-being-per-number rule
+- the singleton principle is an office principle, not a one-being-per-number rule
 
 ### Nekronic Essence Entry
 
@@ -890,7 +890,7 @@ Apply the exact parallel:
 - \(\eta\) identifies the distinct Nekronic essence
 - \(u\) identifies its processional arc
 - minus-one is not numerical absence
-- the singleton rule does not govern ordinary essence indexing
+- the singleton principle does not reach ordinary essence indexing
 
 ### Hypostatic Function-Bearing Entry
 
@@ -1008,7 +1008,7 @@ Bar the casual interchange of these terms where the numerical register is struct
 > A DSA / IDSA locus appearing in another arc does not become a new arc-native essence or fill a missing numerical position.
 
 > **Hypostatic Singleton Principle**  
-> Where the corresponding Tree manifests, one Theonic and one Nekronic essence are proper to that arc. This is an office rule, not a general rule of one being per number.
+> Where the corresponding Tree manifests, one Theonic and one Nekronic essence are proper to that arc. This is an office principle, not a general rule of one being per number.
 
 > **Non-Fusion of Shared Number Principle**  
 > Equal structural number-relation does not imply equal essence. Shared number preserves relation without abolishing sovereign distinction.
