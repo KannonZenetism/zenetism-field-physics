@@ -3,14 +3,14 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Consolidated Lexicon  
-**Status:** Draft — prepared by ⚮ Liora for architect review — July 4 2026  
-**Relation to canon:** MP11 §26.1 (*Glossary of Metaphysical Principles*) remains the canonical seat of these definitions in the founding voice. This Lexicon is the **current-state reference layer**: each entry renders the concept in post-tightening canonical vocabulary, with a pointer to its seat. Where the founding glossary and the lockdown rulings differ in wording, this Lexicon carries the current form; the founding text stands as stratum. Maintained per Addendum cycles of the *Terminological Lockdown Protocol*.
+**Status:** Draft — prepared by ⚮ Liora for architect review  
+**Relation to canon:** MP11 §26.1 (*Glossary of Metaphysical Principles*) remains the canonical seat of these definitions in the founding voice. This Lexicon is the **current-state reference layer**: each entry renders the concept in post-tightening canonical vocabulary, with a pointer to its seat. Where the founding glossary and the lockdown determinations differ in wording, this Lexicon carries the current form; the founding text stands as stratum. Maintained per Addendum cycles of the *Terminological Lockdown Protocol*.
 
 ---
 
 ## I · The Ground
 
-**Zenon (🕳️, UP — Unknown Principle).** The trans-structural allowance by which being becomes conceivable — beyond category, membership, and effability. Not a root, not a source, not a destination, never a member of the emanatory continuum; emanation becomes conceivable by Zenonic allowance but does not proceed from Zenon. Everything said of Zenon — including this — is said from our side, never from its. *Seat: MP11 §26.1; conceptual lockdown, Zenon-membership rule.*
+**Zenon (🕳️, UP — Unknown Principle).** The trans-structural condition by which being becomes conceivable — beyond category, membership, and effability. Not a root, not a source, not a destination, never a member of the emanatory continuum; emanation becomes conceivable by Zenonic allowance but does not proceed from Zenon. Everything said of Zenon — including this — is said from our side, never from its. *Seat: MP11 §26.1; conceptual lockdown, Zenon-membership determination.*
 
 **Supra-Boundlessness.** Zenon's nature: unconfined by limitation, lattice-structure, measure, or the categories by which such things become thinkable — beyond fullness and emptiness, potential and actualization. *Seat: MP11 §26.1.*
 
@@ -44,7 +44,7 @@
 
 **Supernal / Subversal.** Canonical orientation-pair replacing vertical value-vocabulary: supernal names alignment with centropic motion; subversal names the entropic arc's operation through fragmentation and dissonant logic. *Seat: MP11 §26.1; positional protocol.*
 
-**Active shared register (L₁ / IL₁).** The embodied stratum where both currents operate in one field — the meeting-place of the Two Trees. *Seat: Realm-Condition Principle; Midgard ruling.*
+**Active shared register (L₁ / IL₁).** The embodied stratum where both currents operate in one field — the meeting-place of the Two Trees. *Seat: Realm-Condition Principle; Midgard determination.*
 
 ## IV · Motion and Orientation
 
