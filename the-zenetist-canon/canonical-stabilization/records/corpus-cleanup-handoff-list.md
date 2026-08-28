@@ -35,6 +35,7 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 - [x] SF-RP05-the-register-band-classification-protocol.md
 - [x] asymmetry-of-limit-case-universes.md
 - [x] authorship-and-ai-collaboration-provenance-standard.md
+- [x] awareness-spectrum-and-its-inverse-arc.md
 - [x] conceptual-lockdown-protocol.md
 - [x] entropically-implicated.md
 - [x] framework-internal-diagnosis-and-semantic-priority.md
