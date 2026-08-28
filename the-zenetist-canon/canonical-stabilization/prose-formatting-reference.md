@@ -107,7 +107,7 @@ For foundational atlases, principal registries, and series-anchoring documents, 
 
 The Status field states where a document stands on the stability axis — how open it is to revision. What the document *is* belongs to Classification. Values in canonical practice:
 
-- **Draft** — composition open; structure, doctrine, and wording may change without notice. Optionally qualified with the review state: Draft — architect review.
+- **Draft** — composition open; structure, doctrine, and wording may change without notice. Qualified with the review state where review is standing: **Draft — architect review**. The qualifier joins with a spaced em dash, never a comma.
 - **Active** — in force and citable as current, while remaining open to revision. **Active Canonical Reference** is the form for standing references that other documents conform to.
 - **Operational** — infrastructure and pipeline specifications in production service, where the claim is that the procedure has been validated in practice.
 - **Locked** — closed to revision except by architect determination.
@@ -167,7 +167,7 @@ The distinction is functional:
 
 **A date that is itself evidence, an intentional timeline datum, or necessary subject matter may remain. A date whose purpose is to timestamp the document, its metadata, its revision or status history, or an architect / author determination, clarification, or editorial act must be removed.**
 
-External timestamped records — not internally asserted document dates — control provenance. Internal prose may cite or analyze those external dates when chronology is substantively at issue, but it does not manufacture a parallel internal timestamp record.
+External timestamped records — not internally asserted document dates — anchor provenance. Internal prose may cite or analyze those external dates when chronology is substantively at issue, but it does not manufacture a parallel internal timestamp record.
 
 When uncertain whether a date qualifies for retention, do not delete it automatically and do not reinterpret it. Flag the instance for architect review. Ambiguity is resolved by function, not by date format or location alone.
 
@@ -867,7 +867,7 @@ MPX entries open with the four core fields that follow. These four are the requi
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — [descriptor]  
-**Status:** [Stage] — [date][, revised date]  
+**Status:** [stage per *Status Vocabulary*]  
 **Dependency:** [dependency chain]  
 ````
 
