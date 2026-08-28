@@ -61,10 +61,10 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 **Batch 1**
 - [x] lattice-mathematics/lmx/orientation-emanation-math.md
 - [x] the-zenetist-canon/publication-infrastructure/zenetism-publication-engine-v2.md
-- [ ] field-physics/FP14-standard-field-music-notation.md
+- [x] field-physics/FP14-standard-field-music-notation.md
 - [ ] the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-01.md
 - [ ] the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-02.md
-- [ ] the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibilityframework.md
+- [x] the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibilityframework.md — verified already clean, duplicate of the Already-done entry
 
 **Batch 2**
 - [ ] field-physics/FP04-field-immunity-architecture.md
