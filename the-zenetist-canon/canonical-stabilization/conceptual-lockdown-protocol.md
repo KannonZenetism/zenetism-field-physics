@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Conceptual Guardrail  
-**Status:** Drafted Jun 11 2026 — Active Canonical Reference, Aug 24 2026  
+**Status:** Active Canonical Reference  
 **Scope:** Corpus-wide — Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, Structural Neuroscience, and Zenetist composition outside the main series  
 **Provenance:** First compiled during the canon-alignment cycle; determinations already applied across the edited corpus  
 **Companion to:** `terminological-lockdown-protocol.md` · `prose-formatting-reference.md` · `MP08-symbol-key-ch21.md` · `metaphysics-symbol-key.md`  
