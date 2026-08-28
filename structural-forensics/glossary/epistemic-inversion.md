@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Glossary Entry (diagnostic)  
-**Status:** Drafted August 16 2026 — Draft, architect review  
+**Status:** Draft — architect review  
 **Companions:** `the-disclosure-relation.md` · `managed-fragmentation-predatory-cohesion.md` · `the-algorithmic-legibility-problem.md` · `orientation-emanation-math.md`  
 **Function:** Names the epistemic relation standing inverted, in which knowledge is treated as something acquired and converted into advantage rather than something disclosed through transformed relation, and places the pattern within the charted motions  
 **Proposed path:** `structural-forensics/glossary/epistemic-inversion.md`  
@@ -36,7 +36,7 @@ Esoteric knowledge is the occasion of this entry, and the register in which the 
 
 Both are lawful. Entropy is structurally necessary at the root — entropic essences are co-present with centropic essences at the L₀ root-register, which makes neither ⚫ Aion nor ♾ Khaon a centropic or entropic pole — and nothing here calls the entropic sequence a departure from law. What distinguishes them is direction, not legitimacy.
 
-Necessity at the root is not necessity in every manifestation. Whether entropy expresses in a given emanation of the hypostatic layers or a given embodied domain is a separate question, and the corpus holds open rare and even ultra-rare limit cases in which it may not.
+Necessity at the root is not necessity in every manifestation. Whether entropy expresses in a given emanation of the hypostatic layers or a given embodied domain is held open, and the corpus carries rare and even ultra-rare limit cases in which it may not.
 
 The difference is not one of degree, emphasis, or sincerity. It is a difference of direction, and it is legible in the sequence.
 
@@ -101,7 +101,7 @@ It extends alongside the positive, and neither precedes the other. Centropy and 
 
 The derivation concerns **content**, never structural priority. What the negative sequence extends with is apprehended rather than generated, and what is apprehended is centropic novelty. The charted signature states it exactly: **E₁₅ ✦⁻ Collapse Nova** is collapse leading directly into entropy — the Nekronic reception of Theonic novelty, **C₁₅ ✦ Emergent / Novel**. Self-voiding is what reception looks like on that side.
 
-The stratum numbering is not being read arithmetically here. L₅ and IL₅ number position in causal necessity; whether numerical weight attaches to the strata is a separate question, and this entry does not settle it.
+The stratum numbering is not being read arithmetically here. L₅ and IL₅ number position in causal necessity; whether numerical weight attaches to the strata is held open, architect-reserved.
 
 ### Three relations, held apart
 
