@@ -4,7 +4,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Systemic Analysis  
-**Status:** Draft — architect review — 2026-08-13  
+**Status:** Draft — architect review  
 **Function:** Names the mechanisms by which structural origination may be fragmented, retrospectively restationed, synthetically backdated, or stripped of historical legibility through amplified narrative without requiring erasure of the originating record  
 **Companions:** `authorship-and-ai-collaboration-provenance-standard.md` · `the-algorithmic-legibility-problem.md`  
 **Dependency:** `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
