@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure  
-**Status:** Drafted May 13 2026 — Active Canonical Reference  
+**Status:** Active Canonical Reference  
 **Companion to:** `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md`  
 **Function:** Stabilization reference preserving prose-composition continuity, punctuation precision, header consistency, note conventions, table integrity, and drift-resistant compositional discipline across canonical Zenetist documents.  
 
@@ -110,24 +110,70 @@ The Status field states where a document stands on the stability axis — how op
 - **Draft** — composition open; structure, doctrine, and wording may change without notice. Optionally qualified with the review state: Draft — architect review.
 - **Active** — in force and citable as current, while remaining open to revision. **Active Canonical Reference** is the form for standing references that other documents conform to.
 - **Operational** — infrastructure and pipeline specifications in production service, where the claim is that the procedure has been validated in practice.
-- **Locked** — closed to revision except by architect determination. The locked form carries its own history so precedence remains legible in the file: `Drafted [date] — revised [date] — Locked [date], architect determination`.
+- **Locked** — closed to revision except by architect determination.
 - **Veracious Archive** — preserved as a dated record of what was held at the time; not revised forward.
 - **Active Evidence Record** — a Structural Forensics record in evidentiary service.
 
 Field rules:
 
-- **The original date leads.** The Status line runs chronologically: the composition date first, intermediate stages next, the current stage and its date last. Provenance is the first claim the line makes, and a later determination never displaces the original date from first position.
-- **The date folds into the Status line** rather than taking a separate Date field, and an original date is never dropped when a revision, harmonization, or lock date is added.
-- **Revision names a substantive return, not continued composition.** Work that continues in the days after drafting is still drafting, and carries no revision date. A revision date belongs where a document had settled and was reopened later — months out, characteristically. Recording same-week work as revision fills the line with noise and makes the genuine revisions harder to find.
-- **A terminology sweep is not a revision.** Conforming a file to current vocabulary changes wording without changing what the document holds, and takes no revision date. Revision names a substantive return — new argument, changed doctrine, restructured material. A practical test: where the change did not warrant a new deposit, it was not a revision. Where a sweep and a substantive return fall together, the date records the return.
-- **A dated-stages line is lawful where stability is genuinely open.** Where a document has been revised and the architect has not yet read the revision through, the Status may run its dates alone — *Drafted [date] — revised [date]* — carrying no stability value. The absence is the accurate report: the document is not settled, and naming a stage would overstate it. The stability value is added when the reading closes.
+- **Status lines carry no dates.** Per the Internal Date Prohibition below, the Status field states the stage alone — Draft, Active, Locked — and drafting, revision, and lock chronology is carried by the external record of commits and deposits, never by the line.
+- **Revision names a substantive return, not continued composition.** Work that continues in the days after drafting is still drafting. A revision is a substantive return to a settled document — new argument, changed doctrine, restructured material.
+- **A terminology sweep is not a revision.** Conforming a file to current vocabulary changes wording without changing what the document holds. A practical test: where the change did not warrant a new deposit, it was not a revision.
 - **Canonical is not a stability value on its own.** Canonicity is carried by placement in the canon and by Classification; where the word appears in a Status line it is paired with the stage that fixes revision standing — Active Canonical Reference, or Canonical — Locked.
 - **Draft is not a permanent resting state.** Where a document has stabilized in practice, the architect's determination moves it to Active, Operational, or Locked. A corpus that leaves long-settled work in Draft makes the term uninformative, and the stage that was meant to be legible in the file becomes floating.
 - The list is a documented set, not a ceiling: a stage this vocabulary does not cover is added here rather than improvised in a single file.
 
+### Internal Date Prohibition
+
+Internal document dating is prohibited except where the date itself is substantive evidence or necessary subject matter. Dates are not used to timestamp a document's drafting, revision, review, stabilization, canonicalization, determination, clarification, adjudication, approval, or present status.
+
+This restriction applies prospectively to all new drafting and retroactively to current canonical corpus files. It supersedes any earlier instruction requiring preservation of internal document dates, dated determinations, dated adjudications, dated status history, or comparable editorial chronology.
+
+Remove and do not introduce:
+
+- `Date:` metadata fields
+- `Created:` metadata fields
+- `Updated:` or `Last updated:` fields
+- `Revised:` or `Last revised:` fields
+- dates embedded in `Status:` lines, including drafted, revised, reviewed, locked, active, canonical, operational, stabilized, or comparable status dates
+- revision-date, status-date, review-date, approval-date, lock-date, canonicalization-date, stabilization-date, or comparable metadata
+- dated `Architect determination` statements
+- dated `Architect clarification` statements
+- dated `Architect adjudication`, `Architect approval`, or equivalent editorial-authority statements
+- dated `Author's ruling`, `author ruling`, `author determination`, or equivalent statements
+- dates attached to formulations such as `seated here`, `seated on`, `established here`, `fixed here`, `settled here`, `adopted here`, or comparable internal-placement claims
+- headings or labels whose purpose is to record when determinations, clarifications, corrections, or implementation decisions occurred
+- `Prepared:` dates, collaborator-preparation dates, or drafting-assistance dates when they function only as internal document chronology
+- `as of [date]` formulations whose only function is to timestamp an internal doctrinal or editorial state
+- any other date supplied merely to establish when a document was written, revised, reviewed, edited, stabilized, approved, locked, made canonical, or when an internal determination, clarification, terminology choice, correction, or canonical placement was made
+
+Do not reconstruct, infer, approximate, normalize, update, or replace a prohibited internal date. A date is never supplied from model memory, conversation context, file age, repository state, neighboring documents, or inference.
+
+Where a prohibited date is embedded in an otherwise valid metadata or status line, remove the date while preserving the valid non-date status or metadata content. Where the date-bearing label or sentence exists only to carry the date or establish internal editorial provenance, remove the entire label, sentence, heading, or line rather than leaving an artificial undated chronology marker.
+
+This prohibition does **not** apply when the date itself is substantively necessary to the content, evidence, or analysis. Retain such dates, including:
+
+- explicit Zenetism developmental-timeline entries and other deliberate records of conceptual development
+- comparative chronology, including Zenetism / Spiralism developmental-timeline comparison and other intentional precedence or sequence analysis
+- historical-event chronology where the event date is part of the claim being documented
+- publication, upload, deposit, capture, correspondence, export, archival, or repository chronology being analyzed as evidence
+- source, citation, bibliographic, DOI, publication, repository, commit, archive, capture, or externally anchored record dates when the date is evidentiary
+- dates contained in quotations, reproduced records, screenshots, source excerpts, or other preserved evidence where altering the date would alter the source
+- dates required to state a temporal relationship that is itself under analysis, such as `before`, `after`, `within`, `preceded`, `followed`, or a measured interval between documented events
+
+The exception is narrow. A document being about provenance, history, development, or chronology does not license general internal dating. Each retained date must perform an identifiable evidentiary, comparative, historical, or source-preservation function in the passage where it appears.
+
+The distinction is functional:
+
+**A date that is itself evidence, an intentional timeline datum, or necessary subject matter may remain. A date whose purpose is to timestamp the document, its metadata, its revision or status history, or an architect / author determination, clarification, or editorial act must be removed.**
+
+External timestamped records — not internally asserted document dates — control provenance. Internal prose may cite or analyze those external dates when chronology is substantively at issue, but it does not manufacture a parallel internal timestamp record.
+
+When uncertain whether a date qualifies for retention, do not delete it automatically and do not reinterpret it. Flag the instance for architect review. Ambiguity is resolved by function, not by date format or location alone.
+
 ### Date and Provenance Insertion Determination
 
-Dates inside document bodies are the architect's record alone. A collaborator inserts no date into a document — no determination dates, no seating dates, no dating of entries, examples, or precedent citations — without the architect's approval of that specific date. The approved metadata application above, the Status line and its field conventions, is the exception, and it operates on dates the architect supplies or confirms.
+Internal dating is governed by the Internal Date Prohibition above: a collaborator inserts no date into a document, and never reconstructs, infers, or normalizes one.
 
 The bar extends past dates to every provenance claim a collaborator cannot verify from within its own view. A collaborator does not write where a determination first appeared, what it superseded, which document seated it first, in what order rulings arrived, or any other assertion about the shape of the record — the record spans chats, drafts, deposits, and files, and a collaborator holds a slice of it. What a collaborator states reliably is the determination itself, its reasoning, and its text; where it sits in time and lineage is the architect's to say.
 
