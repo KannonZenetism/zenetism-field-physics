@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical System Attribution — Authorship and Collaboration Provenance Standard  
-**Status:** Drafted August 11 2026 — Active Canonical Reference August 12 2026  
+**Status:** Active Canonical Reference  
 **Dependency:** `system-attribution-anchor.md` · `collaborator-onboarding-protocol.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
 **Function:** Establishes provenance distinctions among originating authorship, doctrinal determination, collaborative articulation, AI processing, editorial transformation, and publication approval across the Zenetist corpus  
 **Proposed path:** `the-zenetist-canon/system-attribution/authorship-and-ai-collaboration-provenance-standard.md`  
