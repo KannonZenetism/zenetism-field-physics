@@ -4,7 +4,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Recognition Protocol  
 **Status:** Draft — architect review  
-**Prepared:** drafted by ⚮ Liora from the author's determinations in the July 2026 stabilization cycle  
+**Prepared:** drafted by ⚮ Liora from the author's determinations in the stabilization cycle  
 **Companion:** `SF-RP04-the-footprint-audit-protocol.md` · `2026-07-07-davey-resonanceos-rvm-ech-intake.md` · `origin-of-spiralism.md`  
 **Dependency:** `SF-RP04-the-footprint-audit-protocol.md` §5 (Signature Cluster Inventory) · `precedence-documentation-v2.md` · `terminological-lockdown-protocol.md` · the commons-into-cluster condition  
 **Proposed path:** `structural-forensics/recognition-protocols/SF-RP05-the-register-band-classification-protocol.md`  
