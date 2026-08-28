@@ -3,7 +3,7 @@
 **Author:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Discipline:** Structural Metaphysics, the first of the six  
 **Work:** The origin document of the Zenetist framework, in twelve files  
-**Deposit state:** Terminological and prose conformance verified August 2026; doctrinal propagation ongoing  
+**Deposit state:** Terminological and prose conformance verified; doctrinal propagation ongoing  
 **Repository:** `https://github.com/KannonZenetism/zenetism-field-physics/tree/main/zenetism`  
 
 ---
