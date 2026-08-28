@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Neuroscience — Diagnostic Methodology  
-**Status:** Drafted August 26 2026 — Draft — architect review  
+**Status:** Draft — architect review  
 **Dependency:** `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
 **Function:** Establishes the diagnostic standing of Zenetist structural analysis, preserves framework-internal semantic priority, distinguishes metaphysical diagnosis from clinical diagnosis, and identifies interpretive drift produced when externally inherited meanings are substituted for corpus-native terms.  
 **Recommended filepath:** `structural-neuroscience/diagnostic-methodology/framework-internal-diagnosis-and-semantic-priority.md`  
