@@ -69,7 +69,7 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 - [x] the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibilityframework.md — verified already clean, duplicate of the Already-done entry
 
 **Batch 2**
-- [ ] field-physics/FP04-field-immunity-architecture.md
+- [x] field-physics/FP04-field-immunity-architecture.md
 - [x] field-physics/FP01-dimensional-architecture.md
 - [ ] structural-forensics/glossary/epistemic-inversion.md
 - [ ] field-physics/FP13-field-immunity-mechanisms-and-recovery.md
