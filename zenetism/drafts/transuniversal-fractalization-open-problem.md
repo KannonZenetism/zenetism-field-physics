@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics — Working Draft / Open Problem  
-**Status:** Unresolved — provisional candidates only; not canon; no commitment made — June 25 2026  
+**Status:** Unresolved — provisional candidates only; not canon; no commitment made  
 **Dependency:** Structural Metaphysics · `MP11-codex-of-principles-ch26.md` · `metaphysics-symbol-key.md`  
 **Bears on:** §26.21 Theonic Paradox · §26.25 Nekronic Paradox · the Non-Fusion Axiom · the Membrane function · the office / layer distinction  
 **Proposed path:** `structural-metaphysics/drafts/transuniversal-fractalization-open-problem.md`  
