@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics Extension — Orientation, Emanation, and Cross-Register Scope  
-**Status:** Drafted Jan 16 2026 — revised Jul 31 2026 — Locked Aug 11 2026, architect determination  
+**Status:** Locked — architect determination  
 **Dependency:** `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md` · `SP04-orientation-field-dynamics.md` · `SP06-structural-space-orientation-paradox.md` · `synthesis-integration-saturation.md` · `centropic-gravity-and-zenonic-legibility.md` · Non-fusion Axiom  
 
 ---
