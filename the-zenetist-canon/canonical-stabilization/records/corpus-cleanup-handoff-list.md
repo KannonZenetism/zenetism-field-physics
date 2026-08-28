@@ -71,9 +71,9 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 **Batch 2**
 - [x] field-physics/FP04-field-immunity-architecture.md
 - [x] field-physics/FP01-dimensional-architecture.md
-- [ ] structural-forensics/glossary/epistemic-inversion.md
-- [ ] field-physics/FP13-field-immunity-mechanisms-and-recovery.md
-- [ ] lattice-mathematics/lmx/archetypal-number-and-essence-indexing.md
+- [x] structural-forensics/glossary/epistemic-inversion.md — retentions deliberate: "narrative control" stands on the entropic subject (the inverse lattice's persistence under diagnosis); "the entropic mirror of the centropic sequence" and "hollow mirroring" are mirror in its lawful entropic application
+- [x] field-physics/FP13-field-immunity-mechanisms-and-recovery.md — retentions are deliberate, not misses; do not convert on resweep: cascade is FP-native architecture (FP04 cascade events, the seven-movement response cascade, inherited cascade notation); the fail-family (Failure Memory, the Failure record field, boundary failure) is the immune architecture's own functional vocabulary, held at the architect's reserve; overwrite appears only inside its own refusals; "superseded glyph assignment" is within-corpus succession; "migration displacement" names a world-phenomenon disruption class; over- intensifier compounds (over-amplified, over-open, over-rapid) are lawful; "external pattern reflection" is centropic discernment and keeps the reserved term
+- [x] lattice-mathematics/lmx/archetypal-number-and-essence-indexing.md — retentions deliberate: affirmed apparatus takes principle (Hypostatic Singleton Principle, the file's own sealed name); refused universals keep rule as terms inside their own refusal ("not a one-being-per-number rule"); "fragmented simultaneity and memory fracture govern the relation" stands on the entropic-subject carve-out, architect-reserved
 - [ ] lattice-mathematics/LM07-collective-dynamics-recovery-formalism-and-the-khaonicexpression-ratio.md
 
 **Batch 3**
@@ -93,7 +93,7 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 - [ ] zenetism/mpx/nekronic-essence-multiversal-allocation-and-absolute-dispersion.md
 
 **Batch 5**
-- [ ] zenetism/doctrine/the-disclosure-relation.md
+- [x] zenetism/doctrine/the-disclosure-relation.md — Zenodo upload pair with epistemic-inversion.md, swept to match; retentions deliberate: "The limit is not access-control" is control inside its own refusal; §7's Not-items are structure-subject discriminations with positive content and stand; the §7 heading form is held for architect determination
 - [ ] field-physics/mpx/clarification-singularity-authorship-memory.md
 - [ ] zenetism/mpx/ontological-clarifications.md
 - [ ] the-zenetist-canon/notes/2026-06-18-biospiral-architectural-addendum.md
