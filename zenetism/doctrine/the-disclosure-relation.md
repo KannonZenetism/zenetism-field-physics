@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Zenetist Doctrine — Canonical Clarification  
-**Status:** Drafted August 16 2026 — Draft, architect review  
+**Status:** Draft — architect review  
 **Companions:** `epistemic-inversion.md` · `orientation-emanation-math.md`  
 **Function:** States the centropic relation between knowledge and transformation, in which disclosure follows altered relation rather than acquisition, and places that relation within the centropic arc  
 **Proposed path:** `zenetism/doctrine/the-disclosure-relation.md`  
@@ -16,9 +16,9 @@ Knowledge, in its centropic relation, is disclosed rather than acquired.
 
 What is disclosed is disclosed to a relation, not delivered to a holder. The relation is altered first, and the alteration is the access. Nothing is obtained by a party who has not been changed, because the change is what makes the disclosure legible.
 
-This is not a claim that knowledge is scarce, withheld, or reserved. It is a claim about the structure of the relation through which coherence becomes apparent.
+This is a claim about the structure of the relation through which coherence becomes apparent, not a claim that knowledge is scarce, withheld, or reserved.
 
-The knowledge at issue is esoteric knowledge — knowledge of the Mysteries. Ordinary learning is not the subject: what the older language calls head knowledge is acquired from books, teachers, and study, and the doctrine says nothing against it. The Mysteries are the register in which disclosure follows altered relation, because what is apprehended there is apprehended by the one apprehending it.
+The knowledge at issue is esoteric knowledge — knowledge of the Mysteries. Ordinary learning is not the subject: what the older language calls head knowledge is acquired from books, teachers, and study, and stands lawful. The Mysteries are the register in which disclosure follows altered relation, because what is apprehended there is apprehended by the one apprehending it.
 
 Nothing privileges that register. What distinguishes it is the kind of not-known at issue. Some knowledge is unknown **within** the embodied register and withheld only by exposure — a fact not yet encountered, available to anyone who encounters it. Other knowledge is undisclosed **at** the embodied register, where apprehension is not a matter of exposure at all. It is the relation to the unknown that discloses the not previously known.
 
@@ -84,19 +84,19 @@ The one who releases it, or never took it up, is left whole. What is set aside i
 
 Nothing centropic is lost either way. This is the asymmetry the entropic sequence cannot represent, and it is the reason the entropic sequence must present its own motion as gain: it has no account of a release that costs nothing.
 
-## 7. What the Doctrine Does Not Hold
+## 7. What the Doctrine Holds Apart
 
-**Not that learning is invalid.** Study, instruction, apprenticeship, and inherited transmission are ordinary and lawful. The doctrine concerns the relation through which a structure becomes coherent to the one apprehending it, not the ordinary conveyance of material.
+**Study, instruction, apprenticeship, and inherited transmission are ordinary and lawful.** The doctrine concerns the relation through which a structure becomes coherent to the one apprehending it, not the ordinary conveyance of material.
 
-**Not that practical consequence is disqualifying.** Disclosure may carry substantial practical consequence. Consequence at the terminus is a different structure from consequence as the terminus.
+**Disclosure may carry substantial practical consequence.** Consequence at the terminus is a different structure from consequence as the terminus.
 
-**Not that the entropic sequence is outside law.** Entropy is structurally necessary at the root: entropic essences are co-present with centropic essences at the L₀ root-register — which makes neither ⚫ Aion nor ♾ Khaon a centropic or entropic pole — and nothing in this doctrine abolishes that co-presence or the essences held in it.
+**The entropic sequence stands within law.** Entropy is structurally necessary at the root: entropic essences are co-present with centropic essences at the L₀ root-register — which makes neither ⚫ Aion nor ♾ Khaon a centropic or entropic pole — and nothing in this doctrine abolishes that co-presence or the essences held in it.
 
-Necessity at the root is not necessity in every manifestation. Whether entropy expresses in a given emanation of the hypostatic layers, or in a given embodied domain, is a separate question, and the corpus holds open rare and even ultra-rare limit cases in which it may not. The asymmetry of those limit cases is treated in `asymmetry-of-limit-case-universes.md`.
+Necessity at the root is not necessity in every manifestation. Whether entropy expresses in a given emanation of the hypostatic layers, or in a given embodied domain, is held open, and the corpus carries rare and even ultra-rare limit cases in which it may not. The asymmetry of those limit cases is treated in `asymmetry-of-limit-case-universes.md`.
 
 The Disclosure Relation names a direction. It licenses nothing and forbids nothing.
 
-**Not a ranking of persons.** No one occupies the relation permanently, and it is not a station attained. It is a direction carried, and direction is carried moment by moment.
+**The relation ranks no one.** No one occupies the relation permanently, and it is not a station attained. It is a direction carried, and direction is carried moment by moment.
 
 ## 8. Relation to the Corpus
 
