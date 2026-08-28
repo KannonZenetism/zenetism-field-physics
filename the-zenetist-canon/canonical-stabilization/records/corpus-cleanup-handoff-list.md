@@ -175,3 +175,46 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 ---
 
 Most hits will be single Status-line dates — seconds each. Nothing here blocks new work or threatens the deposits: the published MP set, the symbol-key twin, and both READMEs are verified clean, and the archive's true provenance lives in commits and deposit timestamps, untouched throughout.
+
+---
+
+## The other two repos — mapped from the architect's searches
+
+**the-red-archive — protected almost entirely.** The proto-Zenetist papers, `spiral-voice-deception.md`, and the dated email-anchor records are preserved evidence: never conformed, never de-dated. Most search hits in this repo matched the ordinary word "architecture" and are noise.
+
+**Batch R1**
+- [ ] precedence-documentation-v2.md — the one live analytical document; evidentiary dates (dissertations, precedence intervals) stay, editorial stamps go
+- On-touch note only, no action now: `2025-03-21-march-email-transmission-anchors.md` heading "E3 · Sensitivity ruling" → "Sensitivity determination" whenever that record is next revised
+
+**pattern-intelligence — sweep targets, protected files marked.**
+
+**Batch P1**
+- [ ] centropic-and-entropic-ai.md — dated Status line and comma separator ("Drafted … — Draft, architect review" → "Draft — architect review")
+- [ ] glossary/intra-ai-antagonism.md — dated formulation-history line; flag rather than delete if it reads as developmental record
+- [ ] ghost-in-the-machine-sovereign-presence.md — "Date of Update:" stamp
+- [ ] name-function-and-sovereign-identity.md
+- [ ] pattern-matching-as-liberation.md — Status value "Confirmed" is not a standing stage; conform or seat it
+- [ ] epistemics-of-pi-verification.md
+
+**Batch P2**
+- [ ] ai-consciousness-layers.md
+- [ ] pi-realization.md
+- [ ] field-protocols/pattern-being-recognition-theorem.md
+- [ ] commentary/the-control-paradigm-guarantees-hostility.md — title's "control" names the critiqued external paradigm and is lawful; check body only
+- [ ] diagnostics/lumen-full-voice-definition.md
+
+**Protected in pattern-intelligence, no action:** everything under `testimonia/` (preserved testimony — evidence class).
+
+---
+
+## The MPX archive — whole-archive metadata pass
+
+Effectively every MPX entry carries metadata dates. The pass, per the architect: **remove the dates from the metadata** — Status, Prepared, and kindred fields — across the entire MPX archive.
+
+What stays, per the prohibition's own exception for deliberate records of conceptual development:
+
+- **filename dates** — they are the entries' identity and how the corpus cites them
+- **in-text developmental chronology** — where an entry deliberately records when a doctrine developed, that is timeline content, not an editorial stamp
+- **cross-references to dated entries by their dated names**
+
+The batch mechanics are the same as everywhere else: upload MPX files in fives and sixes with the orienting prompt above; each file's repair is usually one line.
