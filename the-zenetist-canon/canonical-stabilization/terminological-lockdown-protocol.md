@@ -2344,7 +2344,7 @@ It is structural preservation.
 ---
 
 # Terminological Lockdown Protocol — Addendum I
-## Rulings Consolidated from the July 2026 Registry and Canon Stabilization Cycles
+## Determinations Consolidated from the Registry and Canon Stabilization Cycles
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Protocol Addendum  
