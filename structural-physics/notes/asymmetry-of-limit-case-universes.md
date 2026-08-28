@@ -1,9 +1,8 @@
 # Note: The Ontological Asymmetry of Limit-Case Universes
 
 **Classification:** Structural Physics / Notes  
-**Status:** Drafted Mar 21 2026 — revised Jul 18 2026 per ledger rewrite determination — Exploratory, pending formal treatment  
+**Status:** Exploratory, pending formal treatment  
 **Related Documents:** `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` §4.4 · `SP03-expression-ratio-mathematics.md` §8 · `SP04-orientation-field-dynamics.md` §14 · `SP04-orientation-field-dynamics.md` §10 (Asymmetry of Expression) · `awareness-spectrum-and-its-inverse-arc.md`  
-**SHA-256:** 6bb61be3bbb61215ce23f89d9484f7f1959ca0989d21c967b6db963af7bd560e  
 
 ---
 
