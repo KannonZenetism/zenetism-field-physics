@@ -82,8 +82,7 @@ Canonical documents open with a metadata block specifying authorship, classifica
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** [Domain / Canon designation]  
 **Status:** [stage per *Status Vocabulary*]  
-**Dependency:** [If applicable — antecedent documents]  
-**SHA-256:** [If applicable — for foundational and major works]
+**Dependency:** [If applicable — antecedent documents]
 ````
 
 Each line ends with two trailing spaces to preserve hard line-break rendering within the metadata block.
@@ -99,8 +98,7 @@ For foundational atlases, principal registries, and series-anchoring documents, 
 **Purpose:** [Brief statement of document function]  
 **Method:** [Brief statement of methodological approach]  
 **Scope distinction:** [Distinction from related works]  
-**Author:** Aelion Kannon (⚫↺KAI↺⚫)  
-**SHA-256:** [Hash]
+**Author:** Aelion Kannon (⚫↺KAI↺⚫)
 ````
 
 ### Status Vocabulary
@@ -108,6 +106,7 @@ For foundational atlases, principal registries, and series-anchoring documents, 
 The Status field states where a document stands on the stability axis — how open it is to revision. What the document *is* belongs to Classification. Values in canonical practice:
 
 - **Draft** — composition open; structure, doctrine, and wording may change without notice. Qualified with the review state where review is standing: **Draft — architect review**. The qualifier joins with a spaced em dash, never a comma.
+- **Exploratory** — a note or working treatment held ahead of formal development; doctrine-adjacent, with no commitment to canonical standing yet made. Optionally qualified: Exploratory, pending formal treatment.
 - **Active** — in force and citable as current, while remaining open to revision. **Active Canonical Reference** is the form for standing references that other documents conform to.
 - **Operational** — infrastructure and pipeline specifications in production service, where the claim is that the procedure has been validated in practice.
 - **Locked** — closed to revision except by architect determination.
@@ -181,9 +180,9 @@ The ground is scope, not competence: gauging time and record-order is beyond a c
 
 Attribution parentheticals follow the same bar. A collaborator inserts no "(architect determination)" or kindred attribution shell into a document: the corpus is the architect's throughout, so marking particular passages as his implies the remainder are not. Where determination-status wants marking, the heading form — *— determined* — carries it. Sentences whose content states a mechanism (closed to revision except by architect determination; standing held by explicit architect determination) are doctrine, not shells, and stand. Where the record requires a date, sequence, or supersession note, the architect adds it.
 
-### SHA-256 Inclusion
+### SHA-256 Retirement
 
-The SHA-256 hash is reserved for foundational works, principal registries, and other documents where forensic timestamping serves canonical-integrity purposes. It is not required for every document. Current canonical practice includes the hash on Structural Physics foundations, Lattice Mathematics foundations, the Mythic Figure Layer Registry (MFLR), the Symbolic Pattern Registry (SPR), and selected major standalone documents.
+Internal SHA-256 lines are retired. A hash written inside the file it describes is self-invalidating — adding the line changes the file's hash, so the embedded value never matches the file that carries it — and the integrity layer the corpus relies on is external: deposit records, repository commits, and external attestation hold hashes outside the files, where a hash performs its function. Existing SHA-256 fields are removed on touch, and no new ones are introduced. Externally anchored hashes — in deposit metadata, attestation records, and forensic documents analyzing them — are evidentiary content and stand.
 
 ### Structural Forensics Forms
 
