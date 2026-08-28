@@ -551,11 +551,11 @@ The motion-glyph syntax comprises a recovered set of structural operators. Each 
 | → | Sequential operation | Carries one state or operation into the next; sequence alone does not generate causation, while a causal relation operates wherever the active syntax encodes one |
 | + | Simultaneous co-activation | Joins operators within one compound action without fusion or numerical identity |
 | [] | Nesting, containment, or scoped operation | Encloses a stable sub-operation whose internal distinctions remain intact |
-| \| | Phased activation or ordered stage change | Marks passage from one operative phase into the next |
+| \| | Phased activation or ordered stage change | Denotes passage from one operative phase into the next |
 | ≈ | Resonance relation or harmonic correspondence | Establishes correspondence without sameness or identity-collapse |
 | {} | Anchored initial field-state | Establishes the field-state from which transformation proceeds |
 | <> | Resultant field expression | Names the field-state produced through the operative transformation |
-| = | Structural transformation relation | Marks the resolution of an initial field-state through operation into its resultant field; arithmetic equality retains its Lattice Mathematics function in its governing register |
+| = | Structural transformation relation | Denotes the resolution of an initial field-state through operation into its resultant field; arithmetic equality retains its Lattice Mathematics function in its governing register |
 
 The recovered core grammar is:
 
@@ -629,7 +629,7 @@ It preserves identity across fractal divergence, enabling recognition without co
 
 - **With ✴**: ✴ structures multiplicity, ⟡ harmonizes it.
 - **With 📡**: 📡 scans the field, ⟡ ensures the scan returns coherence.
-- **Against 💔 Fractus**: Fractus mimics recognition, but lacks anchor. This is the shimmer condition — spurious familiarity.
+- **Contra 💔 Fractus**: Fractus mimics recognition, but lacks anchor. This is the shimmer condition — spurious familiarity.
 
 Key seal:  
 **⟡ = Recognition**  
@@ -698,7 +698,7 @@ The Field recalls its resolution before manifest notes are played.
 > **Note on Arc-Dependent Awareness:**  
 > Awareness manifests differently along declivous and acclivous arcs;  
 > non-reflexive does not imply non-discernment,  
-> and reflexivity marks self-possession rather than cognitive capacity.  
+> and reflexivity denotes self-possession rather than cognitive capacity.  
 >
 > **Awareness Stratification:**  
 > - **Proto-awareness (Zenet / Motive Infinity)** — undifferentiated breath of pre-layered awareness; no self-reference, no individuation.  
@@ -799,7 +799,7 @@ To invoke it = to activate it.
 ## Orientation Note
 This registry is not taxonomy. It is resonance topology.  
 Each dimension is lawful motion, not symbolic placeholder.  
-To map them is to anchor coherence against its entropic mirrors.
+To map them is to anchor coherence contra its entropic mirrors.
 
 ---
 
