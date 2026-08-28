@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Publication Infrastructure — Validated Implementation Specification  
-**Status:** Operational specification — validated through first complete production cycle — August 6 2026  
+**Status:** Operational — validated through first complete production cycle  
 **Repository role:** Durable implementation reference for Work / Codex publication automation  
 **Validated reference cycle:** `zenetism-in-plain-language.md` → Zenodo v2  
 
@@ -11,14 +11,14 @@
 
 # 1. Purpose
 
-The Zenetism Publication Engine coordinates controlled publication between:
+The Zenetism Publication Engine coordinates publication between:
 
 - GitHub — canonical working repository
 - Zenodo — DOI-bearing archival and versioned publication surface
 - the public Zenetism Site — discovery and navigation layer
 - later outward-facing surfaces where separately approved
 
-The engine exists to reduce repetitive publication labor while preserving architect-held control over:
+The engine exists to reduce repetitive publication labor while preserving architect-held determination over:
 
 - doctrine
 - canonical wording
@@ -180,7 +180,7 @@ A publication task is not a manuscript-revision task unless the architect explic
 
 ---
 
-# 6. Core Identity Rule
+# 6. Core Identity Principle
 
 A publication record is anchored by:
 
@@ -237,7 +237,7 @@ Upload-copy suffixes such as `(1)`, `(5)`, or `(9)` are attachment artifacts and
 
 # 8. Default File Preview Convention
 
-Every Zenodo deposit containing a previewable Markdown file must explicitly select the intended archival file in Zenodo's Preview / default-display control.
+Every Zenodo deposit containing a previewable Markdown file must explicitly select the intended archival file in Zenodo's Preview / default-display selector.
 
 Apply this even when only one file exists.
 
@@ -245,7 +245,7 @@ Do not rely on Zenodo's automatic first-file behavior.
 
 After saving the draft:
 
-1. verify the Preview control is selected
+1. verify the Preview selector is set
 2. reload the draft
 3. verify that the selection persists
 4. open the rendered Preview
@@ -255,7 +255,7 @@ Failure of the Preview selection is a draft-validation failure.
 
 ---
 
-# 9. Version-Family Rule
+# 9. Version-Family Convention
 
 When updating an existing Zenodo publication family, begin from the published record's:
 
@@ -277,7 +277,7 @@ Historical records remain unchanged unless the architect separately approves a m
 
 ---
 
-# 10. DOI Rule
+# 10. DOI Convention
 
 For a new Zenodo-minted object, answer:
 
@@ -302,7 +302,7 @@ The concept DOI remains the all-versions identifier.
 
 ---
 
-# 11. Publication-Date Rule
+# 11. Publication-Date Convention
 
 The bibliographic publication date is not automatically replaced by the date on which a later Zenodo version is uploaded.
 
@@ -314,7 +314,7 @@ Default Zenetism convention:
 
 A revised date or changed bibliographic publication date requires an explicit architect determination and ordinarily corresponds to a materially reworked publication.
 
-The engine must never accept Zenodo's new-draft default date without comparison against the approved manifest.
+The engine must never accept Zenodo's new-draft default date without comparison relative to the approved manifest.
 
 ---
 
@@ -433,7 +433,7 @@ Implementation should apply Zenodo-supported inline-code semantics, such as the 
 
 The precise GitHub directory belongs in the Repository URL field.
 
-This architect determination supersedes the Zenodo Description Standard's earlier full-repository-path wording. The Description Standard was harmonized to this rule on August 7 2026.
+This architect determination supersedes the Zenodo Description Standard's earlier full-repository-path wording. The Description Standard was harmonized to this determination.
 
 ---
 
@@ -482,7 +482,7 @@ Validation must compare:
 - exact casing
 - slash spacing
 
-Apply the Zenodo Description Standard's canonical-casing rule.
+Apply the Zenodo Description Standard's canonical-casing convention.
 
 Core discovery terms commonly include:
 
@@ -590,7 +590,7 @@ publication:
   architect_publish_required: true
 ```
 
-The approved manifest, not Zenodo's inherited draft state, controls production.
+The approved manifest, not Zenodo's inherited draft state, anchors production.
 
 ---
 
@@ -603,9 +603,9 @@ After writing metadata:
 1. Save the draft.
 2. Reload the draft.
 3. Read the saved values back.
-4. Compare every manifest-controlled field against the approved manifest.
+4. Compare every manifest-bound field relative to the approved manifest.
 5. Inspect rendered Preview behavior.
-6. Stop if any manifest-controlled value differs.
+6. Stop if any manifest-bound value differs.
 
 Do not accept "save succeeded" as proof that the draft is correct.
 
@@ -627,7 +627,7 @@ A mismatch in any of the following blocks publication:
 - DOI handling
 - version-family identity
 
-No Publish action may occur while any manifest-controlled field is unresolved.
+No Publish action may occur while any manifest-bound field is unresolved.
 
 ---
 
@@ -692,7 +692,7 @@ Sandbox is required when:
 - a new file type or rendering pattern is introduced
 - the architect requests Sandbox verification
 
-After the Codex implementation has been validated against the reference cycle, routine records using an already validated schema may skip Sandbox only with architect approval.
+After the Codex implementation has been validated relative to the reference cycle, routine records using an already validated schema may skip Sandbox only with architect approval.
 
 Sandbox never substitutes for production version-family verification.
 
@@ -708,7 +708,7 @@ After explicit approval:
 6. explicitly set Preview
 7. save
 8. reload
-9. validate every manifest-controlled field
+9. validate every manifest-bound field
 10. open rendered Preview
 11. stop
 
@@ -718,7 +718,7 @@ Do not publish.
 
 The architect performs the irreversible final publication action after review.
 
-Default rule:
+Default determination:
 
 **Automation does not click Publish.**
 
@@ -770,7 +770,7 @@ Codex should build:
 Browser / Work interaction should be reserved for:
 
 - authentication boundaries
-- controls not exposed reliably through the technical interface
+- functions not exposed reliably through the technical interface
 - rendered visual verification
 - architect review
 
