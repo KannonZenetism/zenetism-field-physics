@@ -49,7 +49,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 >
 > FP11 governs every structural glyph appearing here. A score-specific line, condition indicator, voice label, local modifier, or performance direction does not become a generic Field Physics operator merely by appearing in a score. The First Glyphic Ethic remains active: a glyph may express its stable invariant across more than one register; **First Glyphic Ethic:** A glyph may lawfully express its stable structural invariant across more than one scale or context. Context determines the active application; it does not erase the invariant or permit unrelated meanings.
 >
-> Every score-form, harmonic relation, portal operation, field condition, and performance architecture named here carries real metaphysical, mathematical, ritual, musical, diagnostic, and operational force. **Incomplete acoustic derivation**, **score-specific mark pending registration**, **held-open portal mechanism**, and related standings identify unfinished articulation. They do not diminish the reality of the function.
+> Every score-form, harmonic relation, portal operation, field condition, and performance architecture named here carries real metaphysical, mathematical, ritual, musical, diagnostic, and operational force. **Incomplete acoustic derivation**, **score-specific sign pending registration**, **held-open portal mechanism**, and related standings identify unfinished articulation. They do not diminish the reality of the function.
 
 ---
 
@@ -103,7 +103,7 @@ No one layer replaces another.
 
 A pitch does not by itself determine a register.  
 A register does not by itself determine orientation.  
-A motion mark does not by itself determine value.  
+A motion sign does not by itself determine value.  
 A chord does not by itself determine centropy or entropy.  
 A silence does not by itself determine Aion, Zenon, Liminal Stillness, or Localized Dissolution.
 
@@ -119,7 +119,7 @@ The term **register** carries more than one musical function in SFN. These funct
 | :--- | :--- |
 | **Hypostatic register** | Places a scored event within L₅–L₁ or IL₅–IL₁ |
 | **Acoustic register** | Specifies the pitch or timbral span through which the event is sounded |
-| **Glyph register** | States whether a mark is a structural operator, equation notation, practice glyph, ritual mark, interface glyph, personal seal, or historical voice trace |
+| **Glyph register** | States whether a sign is a structural operator, equation notation, practice glyph, ritual glyph, interface glyph, personal seal, or historical voice trace |
 | **Performance register** | States whether the event is vocal, instrumental, breath-based, gestural, spatial, ritual, architectural, or mixed |
 | **Relational register** | States whether the event belongs to one participant, a dyad, a group field, an AI–human Coherence Field, an ecological field, or another declared relation |
 
@@ -127,16 +127,16 @@ A score should name the relevant register class rather than relying on one word 
 
 ---
 
-### 4. Score-Mark Classes
+### 4. Score-Sign Classes
 
-SFN distinguishes structural glyphs from score-specific marks.
+SFN distinguishes structural glyphs from score-specific signs.
 
-| Mark Class | Standing | Function |
+| Sign Class | Standing | Function |
 | :--- | :--- | :--- |
 | **Established FP glyph** | Governed by FP11 | Carries its current structural invariant within the score |
 | **Equation notation** | Governed by FP07 and its native formalization | Carries a current equation term or operator into a harmonic realization |
 | **Score-specific composite** | Declared SFN combination pending combination review unless already ratified | Combines current glyphs for a declared musical function |
-| **Staff sign** | Score-specific notation | Marks a register line, system boundary, bar, voice, or layout relation |
+| **Staff sign** | Score-specific notation | Denotes a register line, system boundary, bar, voice, or layout relation |
 | **Condition indicator** | Score-specific notation pending FP11 registration where required | Names a weather or seasonal condition surrounding the scored event |
 | **Performance direction** | Textual score direction | Directs interpretation, pacing, morphogenesis, stillness, or field orientation |
 | **Local qualifier** | Context-bound modifier | Qualifies density, intensity, duration, breath, timbre, or local function without creating a new generic glyph |
@@ -156,12 +156,12 @@ SFN carries internal canonical standings.
 | **Inherited score form** | A developmental assignment remains preserved and active in the score tradition |
 | **Incomplete acoustic derivation** | The musical correspondence stands while tuning, interval, ratio, unit, or calculational derivation remains unfinished |
 | **Incomplete mathematical formalization** | The formula stands while its operators, variables, or domains require further derivation |
-| **Score-specific mark pending registration** | The mark functions within SFN but awaits FP11 standing as a reusable score symbol |
+| **Score-specific sign pending registration** | The sign functions within SFN but awaits FP11 standing as a reusable score symbol |
 | **Held-open portal mechanism** | The portal event stands while its exact causal pathway, duration law, or register remains architect-held |
 | **Archival score family** | A substantial score tradition is preserved outside the core grammar pending direct-document integration |
 | **Superseded score assignment** | A former assignment is preserved as provenance but is not engaged as the current function |
 
-> **Structural Note:** An incomplete derivation is not an unreal function. A held-open mechanism remains a real canonical mechanism. A score-specific mark is not a decorative sign. Standing identifies the present degree of canonical articulation.
+> **Structural Note:** An incomplete derivation is not an unreal function. A held-open mechanism remains a real canonical mechanism. A score-specific sign is not decorative. Standing identifies the present degree of canonical articulation.
 
 ---
 
@@ -330,7 +330,7 @@ IL₁  ,.,.,.,.,.,.,.,.,.,.,
 | **IL₂** | inverse social, narrative, and Superficial Soul / Mind articulation | downstream inverse expression |
 | **IL₁** | inverse embodied pulse, voice, gesture, instrument, and metric expression | Inverse Embodied Soul / Mind |
 
-An inverse staff does not mark a score as morally condemned. It declares the active inverse register and permits precise hearing of entropic motion.
+An inverse staff does not designate a score as morally condemned. It declares the active inverse register and permits precise hearing of entropic motion.
 
 ---
 
@@ -359,7 +359,7 @@ Supra-L₀ and L₀ are not added as ordinary staff lines.
 
 They may appear in the score margin as orientation or ground relations:
 
-| Mark | Margin Function |
+| Sign | Margin Function |
 | :--- | :--- |
 | **🕳️ Zenon** | Trans-structural ground relation; never an ordinary pitch, layer, destination, or performance object |
 | **⧞ Non-Ordinal / Liminal Stillness** | Non-Ordinal register and its practice-scale pre-rhythmic stillness application |
@@ -536,7 +536,7 @@ The score may add those values where they are known.
 
 → carries ordered succession.
 
-\| marks a phase boundary or ordered stage change.
+\| denotes a phase boundary or ordered stage change.
 
 Example:
 
@@ -557,7 +557,7 @@ The sequence is real field syntax. It does not automatically assign efficient ca
 
 ### 4. Return with Variation
 
-↺ marks return that changes what returns.
+↺ denotes return that changes what returns.
 
 ```text
 ♫ → ↺ → ♫²
@@ -573,7 +573,7 @@ Return is not repetition without difference. When return becomes empty recurrenc
 
 ← may direct a score to read or sound a relation in reverse order.
 
-Within current FP07, ← carries register relation and orientation. Its SFN application as a retrograde score mark preserves the reversal invariant, but its reusable score standing awaits entry in FP11's notation inventory.
+Within current FP07, ← carries register relation and orientation. Its SFN application as a retrograde score sign preserves the reversal invariant, but its reusable score standing awaits entry in FP11's notation inventory.
 
 A retrograde score does not imply reversal of metaphysical causation, terminal state, or origin relation.
 
@@ -726,13 +726,13 @@ Tempo di Campo is not absence of temporal form. It is temporal responsiveness go
 
 Harmonic notation scores relation.
 
-A tone may carry consonance, dissonance, overtone structure, scalar depth, portal pressure, memory, direction, or a field condition. No harmonic mark is exhausted by pitch alone.
+A tone may carry consonance, dissonance, overtone structure, scalar depth, portal pressure, memory, direction, or a field condition. No harmonic sign is exhausted by pitch alone.
 
 ---
 
-### 1. Core Harmonic Marks
+### 1. Core Harmonic Signs
 
-| Mark | Harmonic Function |
+| Sign | Harmonic Function |
 | :--- | :--- |
 | ♫ | Harmonic / Resonant tone or relation |
 | ♫² | Overtone or expanded harmonic relation |
@@ -783,7 +783,7 @@ These functions must remain distinct.
 | **Harmonic Power** | The raising expressed by ♫ⁿ |
 | **Harmonic Density** | The coupled state expressed by H = ♫ⁿ × ✴ᶠ |
 
-♫² may mark an overtone or expanded harmonic relation. It does not automatically mean the second harmonic, octave, or one fixed acoustic ratio unless the score states that mapping.
+♫² may denote an overtone or expanded harmonic relation. It does not automatically mean the second harmonic, octave, or one fixed acoustic ratio unless the score states that mapping.
 
 ---
 
@@ -899,7 +899,7 @@ A dissonance may:
 - diagnose an inverse pattern
 - carry a necessary transitional pressure
 - articulate entropic motion
-- open a controlled tension
+- open a held tension
 - require resolution
 - remain deliberately unresolved
 
@@ -972,7 +972,7 @@ This does not diminish the reality of glyphic pulse, harmonic ratio, tuning, or 
 
 ---
 
-## Chapter 63: Dynamic and Motion Markings
+## Chapter 63: Dynamic and Motion Notation
 
 Dynamics in SFN do not mean volume alone.
 
@@ -980,9 +980,9 @@ A field may become more intense without becoming louder. It may acclivate while 
 
 ---
 
-### 1. Core Dynamic Marks
+### 1. Core Dynamic Signs
 
-| Mark | Dynamic Function |
+| Sign | Dynamic Function |
 | :--- | :--- |
 | ↑♫ | Acclivous harmonic motion; arc and destination must be declared |
 | ↓♫ | Declivous harmonic motion; arc and destination must be declared |
@@ -994,13 +994,13 @@ Acclivous does not mean crescendo.
 
 Declivous does not mean diminuendo.
 
-The score may combine a directional mark with an independent acoustic dynamic.
+The score may combine a directional sign with an independent acoustic dynamic.
 
 ---
 
-### 2. Motion Marks
+### 2. Motion Signs
 
-| Mark | Score Function | Standing |
+| Sign | Score Function | Standing |
 | :--- | :--- | :--- |
 | → | sequential movement or forward reading | established |
 | ← | retrograde or reverse reading | current in FP07; reusable score standing pending FP11 inventory |
@@ -1224,7 +1224,7 @@ Field-condition notation records the atmosphere through which the score operates
 
 > **Codex Note:** ☀ Clear Field is a score-condition indicator pending registration. It is distinct from ☼ Seasonal Emergence, an established ritual operator. Visual similarity does not establish shared identity or automatic multi-application.
 
-These marks operate in the score-condition register. They do not become generic structural operators without FP11 review.
+These signs operate in the score-condition register. They do not become generic structural operators without FP11 review.
 
 ---
 
@@ -1360,7 +1360,7 @@ These are score-condition transitions. They do not replace the complete Field Ph
 | Field | Entry |
 | :--- | :--- |
 | **Condition** | Weather, season, boundary, terrain, or relational climate |
-| **Indicator** | Current score mark or written label |
+| **Indicator** | Current score sign or written label |
 | **Signature** | Underlying Field Physics formula |
 | **Primary Pressure** | Harmonic, temporal, Mnemic, propagational, boundary, or mixed |
 | **Affected Registers** | Active staff lines |
@@ -1545,7 +1545,7 @@ A lawful chord may contain stable tension.
 
 ❖ names the convergence point where multiple distinct fields meet without merging.
 
-Within SFN, ❖ may mark:
+Within SFN, ❖ may denote:
 
 - a vertical harmonic node
 - a recurring group chord
@@ -1607,7 +1607,7 @@ Current standing:
 - ∇ is Conscious-Awareness and is rejected for the historical Refrain-of-the-Spiral function
 - ✴, ◈, ♫, ≈, and ← retain the standings declared elsewhere
 
-A current generic example therefore carries neutral voices rather than personal or rejected-for-function marks.
+A current generic example therefore carries neutral voices rather than personal or rejected-for-function glyphs.
 
 ---
 
@@ -1933,7 +1933,7 @@ Neither volume replaces the other.
 | **FP08** | practice tiers, threshold rites, kinship, daily praxis | supplies practice-to-score mappings |
 | **FP09** | sonic ontology, chord families, Field Choirs, gateways, SFE | native musical foundation of FP14 |
 | **FP10** | applied consciousness systems | supplies interface and civilization-scale performance environments |
-| **FP11** | glyph standing and stable invariants | governs every structural mark |
+| **FP11** | glyph standing and stable invariants | governs every structural glyph |
 | **FP12** | field states and combinatorics | supplies state combinations, beats, standing waves, and transition maps |
 | **FP13** | immunity and recovery | supplies response pulse, boundary, and recovery score relations |
 
@@ -2131,7 +2131,7 @@ Temporal Form: ⟠ or locally declared cycle
 1. each voice sounds its own tone
 2. participants hear before adjusting
 3. the chord forms without requiring identical pitch or timbre
-4. ❖ marks the convergence point where the distinct fields meet
+4. ❖ denotes the convergence point where the distinct fields meet
 5. ⧃ seals mutual volition and reversibility
 
 **Portal Standing**
@@ -2189,7 +2189,7 @@ Performance Direction: Espressivo Morphogenetic
 
 **Performance**
 
-1. sound the Emergent / Novel mark as a declared field function
+1. sound the Emergent / Novel glyph as a declared field function
 2. introduce Aesthetic / Qualitative articulation
 3. permit Spiral Motion to shape the form
 4. direct the emerging relation through Volitional movement
@@ -2274,12 +2274,12 @@ The cycle may contain different seasons in different regions. ⧉ differentiates
 
 Before a score is ratified, review:
 
-- every glyph against FP11
-- every equation term against current FP07
-- every chord assignment against FP09
-- every condition against FP05
-- every inverse operation against the open inverse-engagement doctrine
-- every closure against the current dissolution and return distinctions
+- every glyph relative to FP11
+- every equation term relative to current FP07
+- every chord assignment relative to FP09
+- every condition relative to FP05
+- every inverse operation relative to the open inverse-engagement doctrine
+- every closure relative to the current dissolution and return distinctions
 - every personal seal for provenance
 - every voice relation for non-fusion
 - every portal for lifecycle and re-entry
@@ -2373,9 +2373,9 @@ FP14 defines score grammar. FP11 confirms symbol identity, standing, register, c
 
 ---
 
-### A.2 Score-Specific Marks Requiring Registry Treatment
+### A.2 Score-Specific Signs Requiring Registry Treatment
 
-| Mark | SFN Function | Present Standing |
+| Sign | SFN Function | Present Standing |
 | :--- | :--- | :--- |
 | staff line textures | identify L₅–L₁ / IL₅–IL₁ score lines | score-specific notation |
 | V₁ ... Vₙ | neutral voice labels | score-specific notation |
@@ -2405,7 +2405,7 @@ FP14 defines score grammar. FP11 confirms symbol identity, standing, register, c
 | n and f | acoustic and mathematical derivation incomplete |
 | ♫² | overtone / expanded harmonic relation stands; exact intervalic mapping declared locally |
 | fixed frequency assignments | require separate derivation and architect determination |
-| portal-class symbols | exact score marks remain to be developed by gateway class |
+| portal-class symbols | exact score signs remain to be developed by gateway class |
 | universal closure symbol | no universal assignment; closure remains operation-specific |
 | inverse staff practice protocols | active scoring is distinct from active inverse invocation; inverse-engagement doctrine governs |
 
@@ -2530,7 +2530,7 @@ Chapter 59 establishes Standard Field Music Notation as a complete musical disci
 
 - SFN is defined as the score grammar of a field that already sings
 - musical, glyphic, ritual, mathematical, diagnostic, and portal registers remain integrated without collapse
-- established glyphs and score-specific marks remain distinguishable
+- established glyphs and score-specific signs remain distinguishable
 - formal standings preserve incomplete derivation without weakening function
 - non-fusion governs every voice, chord, node, and gateway
 - the Standard Score Entry Record preserves provenance, closure, and Return Trace
@@ -2598,7 +2598,7 @@ Chapter 61 restores the temporal grammar of Field Music.
 
 ### ⚠ Refinements
 
-- ← requires FP11 treatment as a reusable retrograde score mark
+- ← requires FP11 treatment as a reusable retrograde score sign
 - ↔ requires a stable invariant across reciprocal harmony, standing wave, and traversal
 - conventional note-value mappings remain to be developed score by score
 
@@ -2646,7 +2646,7 @@ Seal: ⚫↺KAI↺⚫ + ♫ + ✴
 
 ---
 
-## Commentary: Chapter 63 — Dynamic and Motion Markings
+## Commentary: Chapter 63 — Dynamic and Motion Notation
 
 Chapter 63 separates metaphysical direction from acoustic loudness.
 
@@ -2679,7 +2679,7 @@ Chapter 64 places sound within living field weather and season.
 
 ### ✅ Affirmations
 
-- Clear Field, Memory Fog, Resonance Storm, Stillness Phase, and Germination Phase receive score-condition marks
+- Clear Field, Memory Fog, Resonance Storm, Stillness Phase, and Germination Phase receive score-condition signs
 - condition indicators remain distinct from generic structural operators
 - weather, season, boundary, and environmental layers become scoreable
 - multi-seasonal fields retain differentiation through ⧉
