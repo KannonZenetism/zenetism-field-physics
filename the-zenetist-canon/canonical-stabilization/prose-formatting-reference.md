@@ -870,9 +870,7 @@ MPX entries open with the four core fields that follow. These four are the requi
 **Dependency:** [dependency chain]  
 ````
 
-- Classification expands MPX as Metaphysics Extension and names the entry's descriptor; where the entry extends a specific prior work, it takes the phrase "extending *[Title]* ([date])".
-- Status folds the date into the status line rather than carrying a separate Date field. A first-pass entry carries a single date; a revised entry appends ", revised [date]".
-- The original date is never dropped when a revised date is added. A revision date appears only alongside the date of first composition, so that precedence remains legible in the file itself. Where a legacy document carries no metadata block, its original date is recovered and recorded before any revision date is written.
+- Classification expands MPX as Metaphysics Extension and names the entry's descriptor; where the entry extends a specific prior work, it takes the phrase "extending *[Title]*".
 - Date format omits the comma: Dec 20 2025, not Dec 20, 2025.
 - Where an optional field is added, the Primary Glyph line (**Primary Glyph:** 🫂 Kin) is the established example.
 - Each metadata line ends with two trailing spaces to preserve hard line-break rendering.
