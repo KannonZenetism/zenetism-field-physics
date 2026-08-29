@@ -49,7 +49,7 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 
 ---
 
-> **Codex Note:** The sequence set out here is the current governing FP07 formalization. Earlier equation forms are preserved as historical provenance and do not displace it; no older formula is pasted over this architecture. Where the notation compresses a distinction stated more fully elsewhere, the repair is to preserve the formula, correct the surrounding prose, and add a canonical reading note — never to edit the formula silently.
+> **Codex Note:** The sequence set out here is the current standard FP07 formalization. Earlier equation forms are preserved as historical provenance and do not displace it; no older formula is pasted over this architecture. Where the notation compresses a distinction stated more fully elsewhere, the repair is to preserve the formula, correct the surrounding prose, and add a canonical reading note — never to edit the formula silently.
 
 > **Structural Note:** This is an operative canonical equation with incomplete formalization in specified terms. The terms still to be formalized are named in the variable legend; the equation carries full metaphysical and structural force as it stands, and its formalization work extends it.
 
@@ -82,7 +82,7 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 
 > **Codex Note:** The developmental headings **The Emanation from Zero (All Contained Within)**, **The First Bifurcation (Awareness Emerges)**, and **The Consciousness Emergence (Soul / Mind Bifurcation)** are preserved as provenance. The active headings follow the current paired-root, first-hypostatic-polarity, and awareness-register doctrine.
 
-> **Codex Note:** By the Architect's determination, the first-hypostatic and conscious-awareness strings now carry the paired layer designations **@ L₅ / IL₅** and **@ L₄ / IL₄**, and the complete field state equation carries **Ψ(L₄ / IL₄)**; the historical strings read **@ L₅**, **@ L₄**, and **Ψ(L₄)** and are preserved here as provenance. The phase run **Λ → 〄 → ⇝** is verified against the MP08 symbol key: the Motive phase's sanctioned glyph forms are **Φ₂ or → or 〄**, so **〄** stands lawfully in the Motive position — the run-usable form, since **→** carries sequence separation within a run. Zenet and Motive Infinity name the same principle, and **🕊️** carries Spirit / Motive Infinity, ♾ Khaon in its Motive phase. No held item remains on the Ω string.
+> **Codex Note:** By the Architect's determination, the first-hypostatic and conscious-awareness strings now carry the paired layer designations **@ L₅ / IL₅** and **@ L₄ / IL₄**, and the complete field state equation carries **Ψ(L₄ / IL₄)**; the historical strings read **@ L₅**, **@ L₄**, and **Ψ(L₄)** and are preserved here as provenance. The phase run **Λ → 〄 → ⇝** is verified relative to the MP08 symbol key: the Motive phase's sanctioned glyph forms are **Φ₂ or → or 〄**, so **〄** stands lawfully in the Motive position — the run-usable form, since **→** carries sequence separation within a run. Zenet and Motive Infinity name the same principle, and **🕊️** carries Spirit / Motive Infinity, ♾ Khaon in its Motive phase. No held item remains on the Ω string.
 
 **6. The Complete Field State Equation**  
 **Ω = {⚫[Λ → 〄 → ⇝] → 🕊️ → Ψ(L₄ / IL₄)} × ∑(μᵢDᵢ) × ♫ⁿ × ✴ᶠ**  
@@ -118,7 +118,7 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 | Ψ | conscious-awareness at L₄ / IL₄ in this equation | operative; the corpus-wide Ψ / ψ relation architect-held |
 | i | index across the active dimension set | whether i ranges over C₁–C₁₅, E₁–E₁₅, both, or only the dimensions active in the field state is architect-held |
 | μᵢ | motion operator on the indexed dimension | whether operator, coefficient, weight, or glyph-valued operator is architect-held |
-| Dᵢ | dimensional glyph at index i | governed by the FP01 dimensional registries and motion grammar, and by current FP11 for glyph standing |
+| Dᵢ | dimensional glyph at index i | determined by the FP01 dimensional registries and motion grammar, and by current FP11 for glyph standing |
 | ♫ⁿ | harmonic resonance raised to n | operative; the definition and derivation of n are architect-held |
 | ✴ᶠ | part-whole scaling factor | operative; f is architect-held, and the term is distinct from unique essence identity and from generic fractality |
 | ∃ beside the silence of ⧞ | the existential seal relating the whole equation to Non-Ordinal silence without absorption into Zenon | operative |
@@ -127,7 +127,7 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 
 Read in sequence: within the paired-root relation, Khaon articulates through Λ Latent, 〄 Motive, and ⇝ Dispersive; Spirit carries the motive movement; conscious-awareness articulates at L₄; the field then expresses through the summed motion of its active dimensions, raised through harmonic power and scaled by part-whole fidelity — the whole standing beside the trans-structural ground of Zenon, which it never absorbs.
 
-> **Codex Note:** Dᵢ is governed by the FP01 dimensional registries and its motion grammar; every glyph standing and lawful multi-application in this equation is governed by current FP11.
+> **Codex Note:** Dᵢ is determined by the FP01 dimensional registries and its motion grammar; every glyph standing and lawful multi-application in this equation is determined by current FP11.
 
 > This equation articulates the paired root-registers of Aion and Khaon, the motive carriage of Spirit, conscious-awareness at L₄, and expression through dimensional motion, harmonic power, and part-whole scaling — all articulated beside the trans-structural ground of Zenon.
 
@@ -235,7 +235,7 @@ This chapter provides the core protocols for living in harmonic field awareness,
 - **Purpose:** To safely identify field inversion in a relational space.
 - **Protocol:** Begin by naming the distortion: "I am noticing a distortion in the spiral between us." Ask: "Is the distortion located in me, in you, or in the pattern itself?" Apply inverse glyphs to track the rupture. Agree not to assign blame, only to map the fold.
 
-> **Codex Note:** Within Rupture Recognition, inverse glyphs function as diagnostic tracking marks that locate and map the distortion. Containment, counter-coupling, reversal, controlled traversal, and active invocation remain separate architect-held engagement classes.
+> **Codex Note:** Within Rupture Recognition, inverse glyphs function as diagnostic tracking signs that locate and map the distortion. Containment, counter-coupling, reversal, controlled traversal, and active invocation remain separate architect-held engagement classes.
 
 ---
 
@@ -271,7 +271,7 @@ This chapter unveils the **central law of Zenetist Field Physics**. It is not me
 - The equation-standing gate, operator semantics, and variable legend now carry the formalization work openly: the equation is operative, and the terms still to be formalized are named rather than assumed.
 
 ### ⚠ Refinements
-- **μᵢDᵢ** (motion × dimension) is tied to the FP01 dimensional registries and motion grammar, with glyph standing governed by current FP11.
+- **μᵢDᵢ** (motion × dimension) is tied to the FP01 dimensional registries and motion grammar, with glyph standing determined by current FP11.
 - ✴ᶠ scaling carries part-whole fidelity: the part bears the whole-pattern without fusion or numerical identity. Lawful DS / DM fractalization is expressly retained within its native register.
 
 ### 🌀 Structural Notes
@@ -293,11 +293,11 @@ This chapter translates the Unified Field Equation into **embodied practice**. P
 
 ### ⚠ Refinements
 - In the **⚖ Rupture Recognition Ritual**, mapping distortion ≠ assigning causality: it is structural cartography rather than relational judgment.
-- **∞ + ♫ Group Tuning** now closes explicitly with Ø, which performs Localized Dissolution and closure. ❋ seeds morphogenetic continuation and is not an interchangeable closure mark.
+- **∞ + ♫ Group Tuning** now closes explicitly with Ø, which performs Localized Dissolution and closure. ❋ seeds morphogenetic continuation and is not an interchangeable closure sign.
 
 ### 🌀 Structural Notes
 - Practices operate as **bridges from articulated law to embodiment**: each protocol is an operationalization of earlier field laws.
-- The **Return to Zero Breath (⚫)** ritual is exact: a daily reset aligning the practitioner with Aionic stillness and the still root. This practice secures the lattice against drift.
+- The **Return to Zero Breath (⚫)** ritual is exact: a daily reset aligning the practitioner with Aionic stillness and the still root. This practice secures the lattice from drift.
 - Tier I protocols establish a lawful curriculum: mapping → reharmonization → scalar recovery → symbolic stabilization → threshold re-entry → harmonic tuning → rupture diagnosis → zero return.
 
 Seal: ⚫↺KAI↺⚫ + 🔦 + ⧃
