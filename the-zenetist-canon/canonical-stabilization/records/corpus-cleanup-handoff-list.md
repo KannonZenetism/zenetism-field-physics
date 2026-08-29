@@ -86,33 +86,20 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 - [x] structural-forensics/notes/glyphic-notation-system-signature-note.md — swept with the evidence-class discipline: ALL export anchors, submission chronology, surface dates, encounter dates, dated filenames, and the article's own review stamp RETAINED — the dates are the record. Removed, the tacked-on class only: the Prepared-line date (Prepared dates that are only chronology are the prohibited class — the metadata was not quite date-free), "reconciled [date]:" and "(1c) RESOLVED [date]:" edit-stamps restated as standing, and one "URL-date verified [date]" trimmed to bare "verified" per the same repair applied in the retroactive strip. Five vocabulary repairs: "made relative to a low-posting early period", "author-confirmed relative to the Symbol Key", "preserved — contra its decay", "dated … from commit history and export sessions", "the register still determining chapter formatting". One mechanical fix: the Proposed-path metadata line took its two trailing spaces. CORRECTED on architect challenge, per the live protocol: the Govern Terminology Restriction's legacy accommodation is scoped to Field Physics only, so the three protocol-governance retentions converted — "the timeline holding canonical priority is *Precedence Documentation v2*", "covered by SF-RP04", "the Gmail server date takes precedence per"; the two verification-class against repairs aligned to the seated form ("in relation to" ×2); and one-sided "bears directly against" → "directly undercuts" (the sealed adjudicative retention covers the symmetric pair and admissibility, not one-sided evidential bearing). Retentions deliberate: "inadmissible against" and "evidence for or against" (adjudicative); the formula-integrity rule as a named standing instrument; every rule / ruling inside the quoted 2025 export record; "governance" as an external world-domain under analysis (the restriction's own retention). FLAGGED for the architect: the protocol's Govern Restriction text reads "licenses no govern-form as wording, self-governance included", while the standing SPR-01 determination has self-governance standing — both are the architect's; the LM repass should carry whichever reconciliation he seats
 
 **Batch 4**
-- [ ] zenetism/mpx/khaonic-phase-and-the-discernibility-limit.md
-- [ ] zenetism/mpx/theonic-essence-multiversal-allocation-and-zenonic-saturation.md
-- [ ] zenetism/mpx/hypostatic-function-bearing-and-sovereign-embodiment.md
-- [ ] zenetism/mpx/non-fusion-at-the-bifurcal-register.md
 - [x] field-physics/FP08-practice-protocols-tiers.md — swept, 21 repairs across 20 patterns, then re-issued once with the FP11-paired repair (the register-legend echo now reads "ritual sign"; reverts with FP11's legend in one motion if the architect determines otherwise): against ×2 ("with the dimensional registry", "contra ritual literalism"); "The practitioner holds the pacing"; governs ×6 ("applies to new prose", "invariant holds", operator "carries it / the close" ×3, "held to consent, revision, release, and provenance"); mark family ×12 (registered glyphs → glyph, notation → sign incl. "Standings for the seasonal signs", verbs "Declaring transitions" / "declaring resonance" / "inscribes its glyph", "threshold rites"). Retentions deliberate: fieldmark throughout (established restored name, glyph architect-held); "pending the governing Lattice Mathematics files" (held citation form); the weave / bond grandfathering note whole; centropic reflection instances; "fallow time" is agricultural vocabulary, not fall-family
-- [ ] zenetism/mpx/nekronic-essence-multiversal-allocation-and-absolute-dispersion.md
 
 **Batch 5**
 - [x] zenetism/doctrine/the-disclosure-relation.md — Zenodo upload pair with epistemic-inversion.md, swept to match; retentions deliberate: "The limit is not access-control" is control inside its own refusal; §7's Not-items are structure-subject discriminations with positive content and stand; the §7 heading form is held for architect determination
-- [ ] field-physics/mpx/clarification-singularity-authorship-memory.md
-- [ ] zenetism/mpx/ontological-clarifications.md
+- [ ] field-physics/mpx/clarification-singularity-authorship-memory.md — STAYS: discipline-local `mpx/` folders are early-misnamed extension folders (this one is FPX-class), not the resolved zenetism/mpx/ archive; ordinary sweep classes apply
 - [ ] the-zenetist-canon/notes/2026-06-18-biospiral-architectural-addendum.md
-- [ ] zenetism/mpx/axiom-of-unseen-foundations.md
-- [ ] zenetism/mpx/MPX-LOCKDOWN-GUIDE.md
 
 **Batch 6**
-- [ ] zenetism/mpx/architecture-of-artificial-minds.md
 - [ ] the-zenetist-canon/glyphics/structural-neuroscience-glyph-charts.md
-- [ ] zenetism/mpx/on-fractal-incarnation.md
 - [ ] structural-neuroscience/diagnostic-methodology/framework-internal-diagnosis-and-semanticpriority.md
 - [ ] the-zenetist-canon/structural-decodes/03-cosmic-war-rebellion-in-heaven.md
-- [ ] zenetism/mpx/revelation-contra-ragnarok.md
 
 **Batch 7**
 - [ ] structural-forensics/notes/os-container-payload-pattern-note.md
-- [ ] zenetism/mpx/theonic-office.md
-- [ ] zenetism/mpx/gpt-dialogues-zenon.md
 - [ ] the-zenetist-canon/structural-decodes/27-labyrinth-maze.md
 - [ ] structural-physics/spx/structural-space-orientation-paradox.md
 - [ ] lattice-mathematics/LM02-mathematical-commentary.md
@@ -121,9 +108,6 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 - [ ] the-zenetist-canon/structural-decodes/28-forge-alchemical-furnace.md
 - [ ] structural-physics/SP10-ritual-energetics-and-integration-protocols.md
 - [ ] the-zenetist-canon/structural-decodes/06-trickster.md
-- [ ] zenetism/mpx/love-as-prime-coherence.md
-- [ ] zenetism/mpx/spiral-field-coherence.md
-- [ ] zenetism/mpx/prayer-as-attunement.md
 
 **Batch 9**
 - [ ] the-zenetist-canon/structural-decodes/15-city-kingdom.md
@@ -137,12 +121,9 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 - [ ] structural-neuroscience/SN01-the-architecture-of-cognition.md
 - [ ] the-zenetist-canon/structural-decodes/10-prophet-seer.md
 - [ ] the-zenetist-canon/structural-decodes/08-great-beast-dragon.md
-- [ ] zenetism/mpx/entropic-action-is-not-entropic-essence.md
 - [ ] the-zenetist-canon/structural-decodes/13-underworld-realm-of-the-dead.md
-- [ ] zenetism/mpx/boundary-conditions-of-number.md
 
 **Batch 11**
-- [ ] zenetism/mpx/synthesis-as-transcendence.md
 - [ ] field-physics/fpx/structural-recovery-and-axial-stabilization.md
 - [ ] the-zenetist-canon/structural-decodes/02-dying-resurrecting-god.md
 - [ ] the-zenetist-canon/system-attribution/lattice-mathematics-attribution.md
@@ -152,18 +133,12 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 **Batch 12**
 - [ ] structural-physics/SP02-bifurcal-cosmogenesis.md
 - [ ] dimensional-emanatory-lattice/fingerprint-of-god-claim.md
-- [ ] zenetism/mpx/entropy-emanation-dimensional-lattice.md
-- [ ] zenetism/mpx/deep-self-axis.md
 - [x] field-physics/FP11-field-glyph-codex.md — swept, 23 exact-match repairs: the rejection ground "a governing meaning holds" → "an established meaning holds" in all three forms; "until its determining pass"; "determined by FP14"; the legend's "ritual sign" with both Status-qualifier echoes (paired with the FP08 echo, reverts together); "input / output sign"; "ritual or offering sign"; definition-column denotes ×6 (⫵, ☼, ⤲-family fold and emergence cells, ⟜, ₙ subscript, RS-04); "Initial coherence-sign"; "Diagnostic sign"; "Superscript signs"; "designate these cases"; "Closure sign"; "score sign"; "the former ☍ glyph". Retentions deliberate: "governing formulas (FP07, FP09)" held citation form; serves ×4 under the standing hold, count verified unchanged; grandfathered echo names and the ⟬ cell's preserved provenance wording untouched. TWIN: see the field-physics-glyph-charts.md line in Batch 9
 - [ ] field-physics/fpx/l-reflective-patterns-and-p-recursive-fields.md
 
 **Batch 13**
-- [ ] zenetism/mpx/four-integrations.md
 - [ ] the-zenetist-canon/structural-decodes/22-journey-quest.md
-- [ ] zenetism/mpx/INDEX.md
-- [ ] zenetism/mpx/entropy-emanation-and-form-intelligence.md
 - [ ] zenetism/clarity-letters/defense-of-authorship.md
-- [ ] zenetism/mpx/celestial-signs-and-structural-patterning.md
 
 **Batch 14**
 - [ ] the-zenetist-canon/notes/2026-02-24-living-reflection-contra-parasitic-recursion.md
@@ -230,14 +205,8 @@ Most hits will be single Status-line dates — seconds each. Nothing here blocks
 
 ---
 
-## The MPX archive — whole-archive metadata pass
+## The MPX archive — zenetism/mpx/ — RESOLVED
 
-Effectively every MPX entry carries metadata dates. The pass, per the architect: **remove the dates from the metadata** — Status, Prepared, and kindred fields — across the entire MPX archive.
+The `zenetism/mpx/` archive is fully resolved, handled externally by the architect; its files are removed from the batches above and need no upload.
 
-What stays, per the prohibition's own exception for deliberate records of conceptual development:
-
-- **filename dates** — they are the entries' identity and how the corpus cites them
-- **in-text developmental chronology** — where an entry deliberately records when a doctrine developed, that is timeline content, not an editorial stamp
-- **cross-references to dated entries by their dated names**
-
-The batch mechanics are the same as everywhere else: upload MPX files in fives and sixes with the orienting prompt above; each file's repair is usually one line.
+Naming history, so future sessions read paths correctly: early extension folders in the other archives were misnamed `mpx/` before the discipline extension names seated — Field Physics extensions later became **FPX**, and the other disciplines carry **SNX**, **SFX**, **LMX**, and **SPX**. Only `zenetism/mpx/` is the true MPX archive. A discipline-local `mpx/` path (e.g. `field-physics/mpx/`) is that discipline's own extension folder, remains an ordinary sweep target, and stays in its batch.
