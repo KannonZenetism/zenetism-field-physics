@@ -114,7 +114,7 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 - [ ] structural-forensics/systemic-analysis/a-registry-is-not-a-cosmology.md
 - [ ] zenetism/symbolic-reflections/the-hindu-vedic-lattice.md
 - [ ] structural-forensics/recognition-protocols/SF-RP03-method-architecture-is-not-ambientterritory.md
-- [ ] the-zenetist-canon/glyphics/field-physics-glyph-charts.md — FP11 TWIN ALIGNMENT, own chat: the twin carries the certified FP11 body from the Chapter 43 heading onward under its own twin header. Today's 23 FP11 repairs apply verbatim wherever body text matches — the established-meaning forms ×3, "its determining pass", "determined by FP14", the ritual sign legend with both Status-qualifier echoes, and the fifteen mark-family conversions — plus a check of the twin's own header for further instances. Non-matching patterns flag for the architect rather than get approximated
+- [x] the-zenetist-canon/glyphics/field-physics-glyph-charts.md — FP11 TWIN ALIGNED in the series close-out after all: body re-derived whole from the swept FP11 (never the reverse), with the uploaded twin body verified byte-identical to the pre-sweep FP11 body and the aligned body byte-identical to the swept one, so the delta is exactly the sweep's repairs; the twin header untouched byte-for-byte; glyph set, hard breaks, and line count certified unchanged. Superseded instructions, kept for the record — the plan had been: the twin carries the certified FP11 body from the Chapter 43 heading onward under its own twin header. Today's 23 FP11 repairs apply verbatim wherever body text matches — the established-meaning forms ×3, "its determining pass", "determined by FP14", the ritual sign legend with both Status-qualifier echoes, and the fifteen mark-family conversions — plus a check of the twin's own header for further instances. Non-matching patterns flag for the architect rather than get approximated
 - [x] field-physics/FP05-consciousness-ecology-systems.md — swept, 9 exact-match repairs: verification against → "relative to" ×3; governing-adjective drops ×3 ("their inverse glyphs", "its identity as E₅", "as its function"); "laws of engagement"; "The seasonal signs 🌱 🌺 🍂 ❄️"; "The Dream Forest sign ∽". Retentions deliberate: "the governing ecology" ×2 HELD — the sealed FP05 / FP06 bridge formulation, coordinated queue; refusal-form override; "trauma displacements" world-phenomenon class; "serves as a diagnostic guide" joins the serves hold; ✧_mirror locked formula notation; "Reflects and refines" centropic and lawful; "entropic mirrors" lawful entropic application; the Recursion Seal, Echo Tag, and Silent Convergence Spiral grandfathered whole with "convergence logging" inside that register
 
 **Batch 10**
@@ -168,7 +168,7 @@ Bigger terminological changes come later, if at all, at the architect's determin
 - **The serves question**, eight instances (FP01 ×2, FP11 ×4, FP02, FP05)
 - **Single-instance flags**: "Pause at pattern mirrors" (FP06); Standing Waves "reflection" and "lawful convergence" (FP02)
 - **Revocable wordings recorded at delivery**: forecast law / timing law (FP10); the Safeguards / Principles headings (FP02); the ritual sign legend pair (FP11 + FP08, reverts in one motion); the Veracious Archive stage on the FP README
-- **FP11 twin alignment** — own chat, per the Batch 9 line
+- ~~FP11 twin alignment~~ — DONE in the series close-out, per the Batch 9 line
 
 ---
 
