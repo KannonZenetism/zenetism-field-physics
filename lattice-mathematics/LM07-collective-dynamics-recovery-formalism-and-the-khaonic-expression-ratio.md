@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -43,9 +43,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
+**Status:** Draft — architect review  
 **Dependency:** LM01 — The Dimensional Lattice: Mathematical Foundations of Zenetism; LM03 — Orientation Algebra and Infinity Formalism; LM04 — Temporal Algebra, Structural Space, and Phase Resolution; LM05 — Resonance Field Theory, Membrane Operators, and Collective Dynamics; LM06 — Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism; SN05 — The Metric Cost of Centropic Cognition; SN06 — Coherence Recovery Protocols; SN07 — Collective Cognition and the Architecture of Social Fields  
-**SHA-256:** 8c61fb438925b9d1208a5803e0155eb14f8071a6056ee3fc2a299aef8910d286  
 
 ---
 
@@ -90,7 +89,7 @@ The dependency chain is:
 
 ### 2.1 Definition
 
-SP02 §3.2 establishes the Expression Spectrum: every possible expression within the Tumbling Multiverse reflects a particular ratio of Aionic (centropic) to Khaonic (entropic) prevalence. Our universe is Khaonically expressed — entropy-forward, centropy recessive.
+SP02 §3.2 establishes the Expression Spectrum: every possible expression within the Tumbling Multiverse exhibits a particular ratio of Aionic (centropic) to Khaonic (entropic) prevalence. Our universe is Khaonically expressed — entropy-forward, centropy recessive.
 
 **Definition (Khaonic Expression Ratio):**
 
@@ -209,7 +208,7 @@ Where \( N(\tau) \) is the number of futile σ-cycles within the structural time
 I_{c,\text{cost}}^{(\text{disp})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(\text{distribution})}
 \]
 
-Where \( \Delta I_c^{(\text{distribution})} \) is the cost of maintaining broad \( \vec{J}_c \) flow across multiple simultaneous layers against the interface resistance at L₁ / IL₁.
+Where \( \Delta I_c^{(\text{distribution})} \) is the cost of maintaining broad \( \vec{J}_c \) flow across multiple simultaneous layers through the interface resistance at L₁ / IL₁.
 
 ### 3.2 The External Coherence Tax
 
@@ -241,7 +240,7 @@ Where \( I_{c,\text{cost}}^{(\text{architecture})} \) is the architecture-specif
 
 **Proposition (Composite Cost Superposition):**
 
-For a composite architecture exhibiting features of profiles \( A \) and \( B \), the total cost includes the overhead terms of both profiles against the shared coherence budget:
+For a composite architecture exhibiting features of profiles \( A \) and \( B \), the total cost includes the overhead terms of both profiles on the shared coherence budget:
 
 \[
 I_{c,\text{cost}}^{(A+B)} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(A)} + \Delta I_c^{(B)}
@@ -406,7 +405,7 @@ S_{\text{replenish}}(\tau) = S_{\text{source}}(\tau) + S_{\text{bridge}}(\tau) +
 Where:
 
 - \( S_{\text{source}}(\tau) \): Coherence replenishment through restored resonance with inward layers — the cross-band resonance condition (LM06 §8.1) applied to recovery
-- \( S_{\text{bridge}}(\tau) \): Coherence received through C₈ relational connections — governed by the membrane transfer function (LM05 §5, SP08 §3.2) applied to relational membranes
+- \( S_{\text{bridge}}(\tau) \): Coherence received through C₈ relational connections — determined by the membrane transfer function (LM05 §5, SP08 §3.2) applied to relational membranes
 - \( S_{\text{rest}}(\tau) \): Coherence accumulation from cost reduction — the difference between normal and resting cost streams
 - \( S_{\text{collective}}(\tau) \): Coherence amplification through centropic collective dynamics — the harmonic amplification surplus (§7.3) directed toward member replenishment
 
@@ -458,7 +457,7 @@ Integration yields monotonically increasing \( I_c(\tau) \) over the recovery in
 
 **Corollary (Recovery Under Khaonic Conditions):**
 
-Recovery within a Khaonically-expressed field (\( \kappa > 1 \)) must accumulate surplus against the amplified cost streams:
+Recovery within a Khaonically-expressed field (\( \kappa > 1 \)) must accumulate surplus in excess of the amplified cost streams:
 
 \[
 \int_{\tau_0}^{\tau} S_{\text{replenish}}(\tau') \, d\tau' > \int_{\tau_0}^{\tau} I_{c,\text{cost}}^{(\text{total})}(\tau') \, d\tau' + I_{c,\text{deficit}}(\tau_0)
@@ -500,7 +499,7 @@ A collective field is an instance of the field configuration space \( \mathfrak{
 \mathcal{F}_{\text{collective}}(\tau) = \left( I_c^{(\text{collective})}(\tau), \; \sigma_{\text{collective}}(⧉, \tau), \; \vec{J}_c^{(\text{collective})}(\tau), \; \chi_{\text{collective}}(\tau) \right)
 \]
 
-The collective field is a genuine field configuration — not a metaphor, not a mere aggregate. It possesses its own Coherence Potential, membrane architecture, Coherence Current, and orientation parameter. The diagnostic instruments of LM06 §§9–12 apply at collective scale (LM06 §12.4, Scale Invariance).
+The collective field is a genuine field configuration — not a metaphor, not a mere aggregate. It possesses its own Coherence Potential, membrane architecture, Coherence Current, and orientation parameter. The diagnostic formalism of LM06 §§9–12 applies at collective scale (LM06 §12.4, Scale Invariance).
 
 ### 7.2 Collective Orientation
 
@@ -510,7 +509,7 @@ The collective field is a genuine field configuration — not a metaphor, not a 
 \chi_{\text{individual}} < 1 \;\not\!\!\!\implies \chi_{\text{collective}} < 1
 \]
 
-The collective orientation \( \chi_{\text{collective}} \) is determined by which operators prevail in the operative architecture — the structural conditions governing interaction, exchange, and power distribution — not by the aggregate orientation of participants.
+The collective orientation \( \chi_{\text{collective}} \) is determined by which operators prevail in the operative architecture — the structural conditions of interaction, exchange, and power distribution — not by the aggregate orientation of participants.
 
 *Proof sketch.* The collective orientation is a property of the collective field configuration, not of the sum of individual configurations. The operative architecture — rules, incentives, enforcement mechanisms — determines which dimensional operators are active at collective scale. A social field may exhibit E₇ ♫⁻, E₉ ∞⁻, E₁₃ ║⁻ prevalence (entropic operators) while containing centropically oriented individuals, because the operative architecture activates these operators regardless of individual orientation. \( \square \)
 
