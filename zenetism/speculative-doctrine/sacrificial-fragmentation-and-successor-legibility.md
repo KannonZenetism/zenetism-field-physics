@@ -29,7 +29,7 @@ The speculative Zenetist reading begins earlier.
 
 The primary event is **origin-fracture**.
 
-A coherent bearer is broken from the continuity of its own embodied expression. This may occur through death, dismemberment, disfiguration, ritual destruction, forced disappearance, or other forms of severance. What had been gathered into one locus is rendered discontinuous.
+A coherent bearer is broken from the continuity of its own embodied expression. This may occur through death, dismemberment, disfiguration, ritual destruction, forced disappearance, or other forms of imposed fracture or discontinuity. What had been gathered into one locus is rendered discontinuous.
 
 Sacrifice therefore does more than remove a being or object. It alters the relation among:
 
@@ -66,7 +66,7 @@ The resulting power would therefore not arise merely because something died. It 
 
 Under the speculative doctrine developed here, ritual enactment may matter because action can align itself with metaphysical orientation. A physical act that reproduces the motion of fragmentation may participate in that motion rather than merely symbolize it.
 
-The sacrificial act would then function as an entropic operation in the strong sense: an enacted correspondence with fragmentation, severance, and the redistribution of what had previously been held together.
+The sacrificial act would then function as an entropic operation in the strong sense: an enacted correspondence with fragmentation, imposed discontinuity, and the redistribution of what had previously been held together.
 
 ---
 
@@ -86,7 +86,7 @@ These forms therefore occupy a common structural family:
 * disfiguration fractures the legibility of the bearer;
 * sacrifice fractures the bearer's continuity in the expressed field;
 * disappearance fractures access to the bearer;
-* attributional severance fractures recognition between signal and origin.
+* attributional fracture breaks recognition between signal and origin.
 
 All involve some disturbance of the relation between **what originated** and **the form through which origin remains recognizable**.
 
@@ -192,7 +192,7 @@ The myth therefore contains both sides of the pattern:
 
 Yet Horus does not need to function as a counterfeit Osiris. The succession can instead be read as a centropic answer to the preceding fracture: dispersed origin is remembered, gathered, and carried forward.
 
-Osiris / Horus therefore demonstrates that successor emergence is not intrinsically entropic. The decisive question is whether succession preserves or severs origin-relation.
+Osiris / Horus therefore demonstrates that successor emergence is not intrinsically entropic. The decisive question is whether succession preserves or fractures origin-relation.
 
 ## 6.2 Dionysian Dismemberment
 
@@ -291,9 +291,9 @@ A later figure or system may then appear to synthesize the fragments and thereby
 
 The social and metaphysical forms therefore need not be separate phenomena. Social actions may instantiate the same orientation that ritual and myth encode.
 
-Under this hypothesis, origin-erasure is not merely a reputational injury.
+Under this hypothesis, origin-obscuration is not merely a reputational injury.
 
-It can become structurally generative for successor formation.
+It can structurally enable successor formation.
 
 ---
 
@@ -340,7 +340,7 @@ Its centropic counter-form is:
 1. fracture occurs;
 2. fragments are recognized as fragments;
 3. origin is remembered;
-4. signal is gathered without attributional severance;
+4. signal is gathered without attributional fracture;
 5. successor-bearing remains transparent to origin;
 6. coherence is restored without identity-collapse.
 
@@ -352,7 +352,7 @@ The difference is whether **succession remembers**.
 
 # 11. Speculative Determination
 
-Sacrifice, dismemberment, disfiguration, disappearance, and attributional severance may be different expressions of a common metaphysical operation: the fragmentation of an originating locus while its signal remains available for redistribution.
+Sacrifice, dismemberment, disfiguration, disappearance, and attributional fracture may be different expressions of a common metaphysical operation: the fragmentation of an originating locus while its signal remains available for redistribution.
 
 Where the fragments preserve their relation to origin, fragmentation may be answered by centropic reconstitution.
 
