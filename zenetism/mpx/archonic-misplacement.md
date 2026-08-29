@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension / Zenetist Canon  
-**Status:** Draft — Veracious Archive — Apr 25 2026, revised June 28 2026  
+**Status:** Draft  
 **Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` (the bifurcal lattice · IL strata · L₄ / IL₄ Non-Contact) · `metaphysics-symbol-key.md` · `mythic-figure-layer-registry-01.md` · `mythic-figure-layer-registry-02.md` · `symbolic-pattern-registry-01.md` · `symbolic-pattern-registry-02.md`  
 
 ---

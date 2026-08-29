@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Theonic essence-distinction, per-arc recurrence, and saturation  
-**Status:** Draft — Jul 12 2026, revised Jul 31 2026  
+**Status:** Draft  
 **Dependency:** `MP11-codex-of-principles-ch26.md` §26.21 · `MP01-emanation-architecture-ch1-3.md` *Addendum — Correction of Entropic Advantage* · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `the-twofold-tetralemma.md` · `non-fusion-at-the-bifurcal-register.md` · `deep-self-axis.md` · `synthesis-integration-saturation.md` · `centropic-gravity-and-zenonic-legibility.md` · `metaphysics-symbol-key.md` §§21.3, 21.9, 21.10, 21.13 · `archetypal-number-and-essence-indexing.md`  
 
 ---

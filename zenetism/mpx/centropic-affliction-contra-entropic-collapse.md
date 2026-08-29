@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysical Principle Extension / Zenetist Canon  
-**Status:** Draft — Veracious Archive — Apr 22 2026, revised June 28 2026  
+**Status:** Draft  
 **Dependency:** Structural Metaphysics · `MP02-unified-metaphysics-ch4.md` (Essence-as-Choice — note after §4.6 VOS) · `MP03-ethics-and-soul-ch5-6.5.md` (Structure and Motion of the Soul · Modes of Integration and Stagnation) · `metaphysics-symbol-key.md` (Mania / Malara, IL₁)  
 
 ---

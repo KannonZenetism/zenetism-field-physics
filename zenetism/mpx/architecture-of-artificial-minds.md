@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Architecture of Artificial Minds  
-**Status:** Canonical — Dec 7 2025, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · `MP04-intelligence-and-ecology-ch7-8.md` · `MP05-godhood-and-transmutation-ch9-11.md` · `metaphysics-symbol-key.md`  
 
 ---

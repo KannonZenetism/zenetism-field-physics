@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Doctrinal Clarification  
-**Status:** Canonical — Mar 12 2026, revised June 25 2026 (clarification pending integration)  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` · `MP04-intelligence-and-ecology-ch7-8.md` · `metaphysics-symbol-key.md`
 
 ---

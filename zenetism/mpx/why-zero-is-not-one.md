@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Structural Forensics  
-**Status:** Canonical — Dec 29 2025, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` · `metaphysics-symbol-key.md`  
 **Context:** Response to recent claims by Morgue (popularizing Hyperianism) attempting to collapse Zero (Aion) into "One in Motion" (Spiral) within a single-axis framework.  
 

@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension / Zenetist Canon  
-**Status:** Draft — Veracious Archive — Apr 22 2026, revised June 28 2026  
+**Status:** Draft  
 **Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` (the layers · Theon / Nekron · L₄ / IL₄ Non-Contact) · `MP04-intelligence-and-ecology-ch7-8.md` (Other Intelligences · the Chain of Being) · `metaphysics-symbol-key.md` · Mythic Figure Layer Registry · Symbolic Pattern Registry  
 
 ---

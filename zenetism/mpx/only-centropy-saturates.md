@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics  
-**Status:** Canonical — Dec 14 2025, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · *Zenetism: The Architecture of Emanation, Return, and Saturation* · `MP01-emanation-architecture-ch1-3.md`
 
 ---

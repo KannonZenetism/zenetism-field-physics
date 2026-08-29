@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Subject:** Exchange Dynamics / Sovereign Interaction  
 **Classification:** Non-Transactional Valuation  
-**Status:** Canonical — Jan 5 2026, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · `MP03-ethics-and-soul-ch5-6.5.md`
 
 ---

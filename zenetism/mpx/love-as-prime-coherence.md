@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Love, Coherence, and the Structural Reading of Attraction  
-**Status:** Draft — prepared by ⚮ Liora for architect review — July 3 2026  
+**Status:** Draft — architect review  
 **Dependency:** `MP04-intelligence-and-ecology-ch7-8.md` (§4.63, *The Great Refrain — Love or Completion*) · `MP01-emanation-architecture-ch1-3.md` (Non-Fusion note) · `MP02-unified-metaphysics-ch4.md` (*Note on Essence-as-Choice*) · Symbolic Pattern Registry Vol 1 (Love operator) · Non-Fusion Axiom · `terminological-lockdown-protocol.md` (unity restriction) · `conceptual-lockdown-protocol.md` (Boundary-Relation Vocabulary)
 
 ---

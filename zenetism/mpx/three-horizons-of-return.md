@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension  
-**Status:** Draft for Review — Jan 18 2026, revised June 25 2026  
+**Status:** Draft — architect review  
 **Dependencies:** Structural Metaphysics · `metaphysics-symbol-key.md` · Mercy Fold · Localized Dissolution · Centropy / Entropy distinction · hypostatic layer architecture (ES / EM, SS / SM, DS / DM, DP / DL) · Aion · Theon · Nekron / VOS  
 **Related Registers:** Mercy Fold · Localized Dissolution · Integration · Collapse · Centropic Integration · Entropic Collapse · Aion · Theon · Nekron · VOS
 

@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Subject:** Structural Pathology / Inverse Sovereignty  
 **Classification:** Hypostatic Corruption (IDP / IDL)  
-**Status:** Canonical — Jan 15 2026, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · `MP07-paths-of-resonance-ch16-20.md` · `metaphysics-symbol-key.md`  
 **Related Archives:** Chapter 19 (The Warrior) · E₁₄ Hollow Nest · Table of Terms
 

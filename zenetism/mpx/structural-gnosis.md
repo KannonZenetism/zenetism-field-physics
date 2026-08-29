@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics · Structural Metaphysics  
-**Status:** Canonical — Sep 24 2025, revised June 22 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · `mythic-figure-layer-registry-01.md` · `mythic-figure-layer-registry-02.md`  
 
 ---

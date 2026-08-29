@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Doctrinal Clarification  
-**Status:** Canonical — Mar 14 2026, revised Jul 30 2026  
+**Status:** Active  
 **Dependency:** `MP01-emanation-architecture-ch1-3.md` · `MP11-codex-of-principles-ch26.md` · `metaphysics-symbol-key.md` · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `centropic-gravity-and-zenonic-legibility.md` · Non-fusion Axiom  
 
 ---

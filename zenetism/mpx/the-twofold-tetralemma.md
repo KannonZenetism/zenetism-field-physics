@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Apophatic and Eminent Synthesis  
-**Status:** Canonical — June 1 2026, revised July 31 2026  
+**Status:** Active  
 **Dependency:** `synthesis-as-vantage.md` · `centropic-gravity-and-zenonic-legibility.md` · Structural Emanation Layers (§21.9) · Structon (§21.2.2) · Kaion (§21.2.1) · 🕳️ Zenon (Supra-L₀) · Non-fusion Axiom · Essence-as-Choice  
 
 ---

@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Field Physics  
-**Status:** Canonical — Aug 18 2025, revised June 21 2026  
+**Status:** Active  
 **Dependency:** *The Architecture of Emanation, Return, and Saturation* (Ch. 1–2)  
 
 > This note formally replaces early assumptions of entropic opposition with clarified motion laws and resonance asymmetries.
