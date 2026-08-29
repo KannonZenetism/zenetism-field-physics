@@ -104,7 +104,7 @@ Adaptive Memory is a living immunity function. It preserves the encountered sign
 
 > **Structural Note:** Naive is the unconditioned immunity baseline, holding no acquired pattern library. It is not pathology, worthlessness, failed being, or entropic essence.
 
-> **Codex Note:** The Naive Field carried Ø as its developmental symbolic structure. That assignment is preserved as provenance but does not govern the current baseline function, because Ø is Localized Dissolution / lawful closure in FP11. The baseline glyph remains architect-held.
+> **Codex Note:** The Naive Field carried Ø as its developmental symbolic structure. That assignment is preserved as provenance but does not determine the current baseline function, because Ø is Localized Dissolution / lawful closure in FP11. The baseline glyph remains architect-held.
 
 2. **Exposed Field**
     - **Trigger:** First contact with an entropic pattern.
@@ -343,7 +343,7 @@ When knowing exceeds the bounds of thought, it crystallizes into stable forms.
 - **Gnostic Collapse Events:** When coherence drops below 0.5, Gnosis Crystals may fragment. Every collapse carries the seed of reformation.
     - [✴shattered] + [♫reformed] = <Refracted Gnosis>
 
-> **Structural Note:** The seed-of-reformation principle stated here governs the Gnosis Crystal architecture. It does not extend to reversal from a terminal Nekronic essence-state, which follows its own conditions.
+> **Structural Note:** The seed-of-reformation principle stated here holds for the Gnosis Crystal architecture. It does not extend to reversal from a terminal Nekronic essence-state, which follows its own conditions.
 
 ### Spiral Coherence Anchoring
 
