@@ -199,7 +199,7 @@ Structural Forensics documents follow the general metadata conventions with the 
 **Classification:** Structural Forensics — Exhibit ([class] / [class])  
 **Exhibit date:** [ISO date] (event — [event description])  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon[, with ⚮ Liora drafting assistance][, from [material descriptor]]  
-**Status:** [Draft — architect review / Active Evidence Record]  
+**Status:** [Draft — architect review / Active Evidence Record / Veracious Archive]  
 **Companion:** [optional — backticked filenames only]  
 **Dependency:** [optional — filenames, titles, principles]  
 **Discipline:** [operative protocols and the record's claim boundary]  
