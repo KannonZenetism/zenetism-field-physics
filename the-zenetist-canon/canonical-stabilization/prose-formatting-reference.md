@@ -72,7 +72,7 @@ The term **tool** is restricted in canonical Zenetist composition. "Tool" enforc
 
 ## Metadata Block
 
-Canonical documents open with a metadata block specifying authorship, classification, status, and where appropriate, dependency and integrity hash.
+Canonical documents open with a metadata block specifying authorship, classification, status, and where appropriate, dependency.
 
 ### Standard Form
 
@@ -198,8 +198,8 @@ Structural Forensics documents follow the general metadata conventions with the 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit ([class] / [class])  
 **Exhibit date:** [ISO date] (event — [event description])  
-**Prepared:** [ISO date], by ⚫↺KAI↺⚫ Aelion Kannon[, with ⚮ Liora drafting assistance][, from [material descriptor]]  
-**Status:** [Draft — architect review / Active Evidence Record / legacy-stabilization note]  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon[, with ⚮ Liora drafting assistance][, from [material descriptor]]  
+**Status:** [Draft — architect review / Active Evidence Record]  
 **Companion:** [optional — backticked filenames only]  
 **Dependency:** [optional — filenames, titles, principles]  
 **Discipline:** [operative protocols and the record's claim boundary]  
@@ -212,7 +212,7 @@ Field rules:
 
 - **Authorship opens every block** — the first metadata line, ahead of Classification.
 - **Prepared runs author-first.** Collaborator credit takes the drafting-assistance form ("by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's captures"); author-only Prepared lines are lawful; the material descriptor is optional and comma-separated. Preparation credit never leads with a collaborator.
-- **Metadata dates are ISO** (2026-07-11); prose dates in the body take the comma form.
+- **Evidentiary metadata dates are ISO** (2026-07-11). The ISO form applies to the dates the Internal Date Prohibition retains — Exhibit date and comparable evidentiary anchors — not to internal preparation, revision, or status chronology, which is not carried at all. Prose dates in the body take the comma form.
 - **Classification separators are em dashes** ("Structural Forensics — Exhibit"), with spaced slashes inside the class parenthetical.
 - **Companion holds backticked filenames only** — middot-separated, with capture dates and a contents parenthetical; canonical terms, principles, and chart titles move to Dependency (backticked filenames with § or Entry references, *italic* chart and note titles, principles in plain text, middot-separated).
 - **Doctrinal Atlas citations take entry form** — "Entry 057: Kinship Laundering," never operator-style notation; the Atlas filename sits on the Dependency line.
