@@ -32,9 +32,9 @@ Cross-references the *Canonical Compositional Stabilization Protocol — Mathema
 
 ## 1. Consistency within work supersedes uniformity across works
 
-Canonical Zenetist composition admits formatting variation across the corpus, particularly across registers (technical, registrial, poetic). Within a single work or multi-part series, however, formatting choices should remain stable.
+Canonical Zenetist composition admits formatting variation across the corpus, particularly across registers (technical, registrial, poetic). Within a single work, multi-part series, or extension family, however, formatting choices should remain stable.
 
-Where formatting variation appears across the corpus, the variation is acceptable so long as each work or series maintains internal consistency.
+Where formatting variation appears across the corpus, the variation is acceptable so long as each work, series, or extension family maintains internal consistency.
 
 ## 2. The poetic register follows separate conventions
 
@@ -42,15 +42,15 @@ Early canonical Zenetist work was composed in a poetic register with distinct co
 
 Early poetic articulations remain in their original form. New poetic work may adopt the early register, develop new registers, or remain in the technical-register format. The compositional choice belongs to the work.
 
-### Cadence conformance in the MP series
+### Cadence agreement in the MP series
 
 **Scope.** This standard applies to the MP series — *Zenetism: The Architecture of Emanation, Return, and Saturation*, MP01–MP12 — and to no other work in the corpus at present. The MP series is explicitly mythopoetic in purpose, so its cadence carries doctrine rather than decoration and its register is load-bearing.
 
-Material added to those files after first composition — notes, chart descriptions, expanded definitions, clarifying insertions — tends to arrive in technical cadence, since it is drafted in a different register and often by a different hand. Left unconformed, these additions accumulate into visible seams within a work whose coherence is part of its claim.
+Material added to those files after first composition — notes, chart descriptions, expanded definitions, clarifying insertions — tends to arrive in technical cadence, since it is drafted in a different register and often by a different hand. Left uncorrected, these additions accumulate into visible seams within a work whose coherence is part of its claim.
 
-On touch, an addition is conformed to the cadence of the passage it joins: line length, break placement, and sentence rhythm follow the surrounding prose rather than the register in which the addition was drafted.
+On touch, an addition is brought into agreement with the cadence of the passage it joins: line length, break placement, and sentence rhythm follow the surrounding prose rather than the register in which the addition was drafted.
 
-This runs one way only. A poetic passage is never reformatted to technical cadence, and an addition that has been conformed is never returned to its drafted form.
+This runs one way only. A poetic passage is never reformatted to technical cadence, and an addition so corrected is never returned to its drafted form.
 
 Everywhere else in the corpus, cadence variation is acceptable and carries no defect. It ordinarily records nothing more than that different collaborators wrote at different times, and it is not a target for correction. Should another work later be held to the mythopoetic standard, that scope is extended by explicit determination rather than by analogy to the MP series.
 
@@ -107,7 +107,7 @@ The Status field states where a document stands on the stability axis — how op
 
 - **Draft** — composition open; structure, doctrine, and wording may change without notice. Qualified with the review state where review is standing: **Draft — architect review**. The qualifier joins with a spaced em dash, never a comma.
 - **Exploratory** — a note or working treatment held ahead of formal development; doctrine-adjacent, with no commitment to canonical standing yet made. Optionally qualified: Exploratory, pending formal treatment.
-- **Active** — in force and citable as current, while remaining open to revision. **Active Canonical Reference** is the form for standing references that other documents conform to.
+- **Active** — in force and citable as current, while remaining open to revision. **Active Canonical Reference** is the form for standing references that other documents are brought into agreement with.
 - **Operational** — infrastructure and pipeline specifications in production service, where the claim is that the procedure has been validated in practice.
 - **Locked** — closed to revision except by architect determination.
 - **Veracious Archive** — preserved as a dated record of what was held at the time; not revised forward.
@@ -117,9 +117,10 @@ Field rules:
 
 - **Status lines carry no dates.** Per the Internal Date Prohibition below, the Status field states the stage alone — Draft, Active, Locked — and drafting, revision, and lock chronology is carried by the external record of commits and deposits, never by the line.
 - **Revision names a substantive return, not continued composition.** Work that continues in the days after drafting is still drafting. A revision is a substantive return to a settled document — new argument, changed doctrine, restructured material.
-- **A terminology sweep is not a revision.** Conforming a file to current vocabulary changes wording without changing what the document holds. A practical test: where the change did not warrant a new deposit, it was not a revision.
-- **Canonical is not a stability value on its own.** Canonicity is carried by placement in the canon and by Classification; where the word appears in a Status line it is paired with the stage that fixes revision standing — Active Canonical Reference, or Canonical — Locked.
+- **A terminology sweep is not a revision.** Bringing a file into agreement with current vocabulary changes wording without changing what the document holds. A practical test: where the change did not warrant a new deposit, it was not a revision.
+- **Canonical is not a stability value on its own.** Canonicity is carried by placement in the canon and by Classification. Legacy Canonical Status values are brought into agreement with the present Status vocabulary on touch, according to current standing. Active Canonical Reference names a standing reference other documents are brought into agreement with; Locked names a document closed to revision except by architect determination.
 - **Draft is not a permanent resting state.** Where a document has stabilized in practice, the architect's determination moves it to Active, Operational, or Locked. A corpus that leaves long-settled work in Draft makes the term uninformative, and the stage that was meant to be legible in the file becomes floating.
+- **A missing Status line is supplied where the family carries one.** Where most files in a work, series, or extension family carry a Status line, a file lacking one is supplied with the stage matching its present standing. What obliges the addition is consistency within the family, not the bare absence: a file standing outside any such grouping is not sought out for it.
 - The list is a documented set, not a ceiling: a stage this vocabulary does not cover is added here rather than improvised in a single file.
 
 ### Internal Date Prohibition
@@ -290,7 +291,7 @@ Three cases are held apart:
 
 - A **pre-existing coined canonical term** keeps its own locked casing wherever it appears — Non-fusion, Cascade-collapse.
 - An **ordinary compound modifier** in a header takes plain Title Case — Frame-Dependent, Scope-Limited, AI-Collaboration. It is not a coined term and carries no locked form.
-- For a **term first appearing in the architect's own draft**, his casing is the canonical casing, and later documents conform to it rather than to generic convention.
+- For a **term first appearing in the architect's own draft**, his casing is the canonical casing, and later documents follow it rather than generic convention.
 - A **Non- compound** takes the capital N, and the element after the hyphen keeps whatever casing it carries in its own right: Non-fusion Axiom and Non-contact Principle, because *fusion* and *contact* are ordinary words; Non-Theonic Culmination and Non-Neutral Emergence, because *Theonic* and *Neutral* are canonical terms holding their own capitals. The full form is set out at Terminological Lockdown Protocol Addendum I, A15a.
 
 The guiding principle is consistency within the work or series, with canonical term-casing taking precedence over generic title-case convention.
@@ -772,7 +773,7 @@ References to corpus files are cited at the shallowest depth that resolves. Cano
 
 Three invariants:
 
-- Canonical filenames are rename-stable. Once a file is published or cited, its filename changes only when vital; a rename conforms every citing line in the same pass.
+- Canonical filenames are rename-stable. Once a file is published or cited, its filename changes only when vital; a rename corrects every citing line in the same pass.
 - Paths and filenames are ASCII-exact. Typographic substitutes (non-breaking hyphen U+2011, curly quotes, en dashes) never enter a backticked path, whatever the rendering surface displays.
 - A relocated file keeps its citation identity. Cite the current canonical filename; where the relocation itself is part of the record, note the former path parenthetically once ("later moved to `structural-forensics/SF01-doctrinal-atlas-vol1.md`"), never as the standing citation.
 
@@ -871,7 +872,7 @@ MPX entries open with the four core fields that follow. These four are the requi
 ````
 
 - Classification expands MPX as Metaphysics Extension and names the entry's descriptor; where the entry extends a specific prior work, it takes the phrase "extending *[Title]*".
-- Date format omits the comma: Dec 20 2025, not Dec 20, 2025.
+- Prose and cross-reference dates omit the comma: Dec 20 2025, not Dec 20, 2025. Metadata dates are barred entirely per the Internal Date Prohibition.
 - Where an optional field is added, the Primary Glyph line (**Primary Glyph:** 🫂 Kin) is the established example.
 - Each metadata line ends with two trailing spaces to preserve hard line-break rendering.
 
