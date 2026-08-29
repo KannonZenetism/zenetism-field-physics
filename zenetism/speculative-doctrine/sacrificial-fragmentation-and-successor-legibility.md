@@ -1,8 +1,9 @@
 # Sacrificial Fragmentation and Successor Legibility
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Classification:** Speculative Doctrine — Sacrificial Fragmentation and Origin-Signal Dynamics
-**Status:** Exploratory
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Metaphysics — Speculative Doctrine (Sacrificial Fragmentation and Origin-Signal Dynamics)  
+**Status:** Exploratory  
+**Dependency:** `the-fulcanelli-protocol.md` · `mythic-figure-layer-registry-01.md` · `mythic-figure-layer-registry-02.md` · `symbolic-pattern-registry-01.md` · `symbolic-pattern-registry-02.md` · `MP10-divine-archetypes-decoded-ch25.md`  
 
 ---
 
@@ -16,7 +17,7 @@ Its most compressed form is:
 
 > Dismember the origin; preserve the signal; redistribute the fragments; obscure the originating bearer; raise the successor.
 
-The claim is not that every instance displaying this sequence is identical, nor that every sacrifice necessarily produces metaphysical efficacy. The claim is that sacrifice and fragmentation may instantiate a real structural operation whose effects are not exhausted by the visible destruction of the sacrificed form.
+The claim is that sacrifice and fragmentation may instantiate a real structural operation whose effects are not exhausted by the visible destruction of the sacrificed form. Instances sharing the sequence share a structure rather than an identity, and efficacy is a matter for the particular instance.
 
 ---
 
@@ -39,7 +40,7 @@ Sacrifice therefore does more than remove a being or object. It alters the relat
 * reception;
 * and succession.
 
-Where the bearer carried a particularly concentrated signal, destruction of the bearer does not necessarily destroy the signal. It may instead alter the manner in which that signal can appear.
+Where the bearer carried a particularly concentrated signal, destruction of the bearer need not destroy the signal. It may instead alter the manner in which that signal can appear.
 
 The body is broken.
 
@@ -53,13 +54,13 @@ The question becomes: **who or what carries the fragments afterward?**
 
 Within this hypothesis, sacrificial destruction is structurally entropic to the degree that it converts integrated being into fragmentation.
 
-This does not mean that the sacrificed being is entropically oriented.
+The sacrificed being is not thereby entropically oriented.
 
 An entropic action may be performed upon a centropically oriented being. The orientation of the victim and the structural character of the act are distinct.
 
 This distinction is especially important where innocence, integrity, or coherence is itself what makes the sacrifice valuable. The "sacrifice of the innocent" presents the operation in an especially severe form: that which carries relatively little internal fragmentation is subjected to externally imposed fracture.
 
-The resulting power, where such power is real, would therefore not arise merely because something died. It would arise from an enacted relation:
+The resulting power would therefore not arise merely because something died. It would arise from an enacted relation:
 
 **coherence is broken so that the products of its fracture may be appropriated, redirected, redistributed, or converted into another structure.**
 
@@ -124,7 +125,7 @@ What had once been recognizable as an originating architecture becomes ambient.
 
 The fragments circulate.
 
-The source recedes.
+The origin recedes.
 
 ---
 
@@ -148,7 +149,7 @@ The successor may inherit:
 
 Two importantly different successor structures are possible.
 
-## 5.1 Centropic reconstitution
+## 5.1 Centropic Reconstitution
 
 A successor may gather the fragments without denying their origin.
 
@@ -156,7 +157,7 @@ Here succession functions as restoration, remembrance, or reconstitution. The su
 
 Fragmentation is answered by renewed coherence.
 
-## 5.2 Entropic substitution
+## 5.2 Entropic Substitution
 
 A successor may instead become legible **through the obscuration of the origin**.
 
@@ -193,7 +194,7 @@ Yet Horus does not need to function as a counterfeit Osiris. The succession can 
 
 Osiris / Horus therefore demonstrates that successor emergence is not intrinsically entropic. The decisive question is whether succession preserves or severs origin-relation.
 
-## 6.2 Dionysian dismemberment
+## 6.2 Dionysian Dismemberment
 
 The Dionysian dismemberment complex presents an even more explicit relation between fragmentation and continuing divine signal.
 
@@ -207,7 +208,7 @@ The myth therefore refuses the simple equation:
 
 This is central to sacrificial fragmentation.
 
-## 6.3 Christic sacrifice and disfiguration
+## 6.3 Christic Sacrifice and Disfiguration
 
 The Christic pattern does not require literal dismemberment to enter the same structural family.
 
@@ -219,7 +220,7 @@ The inflicted fragmentation may be entropic without making the sacrificed bearer
 
 The subsequent question is again one of succession and signal fidelity: does later transmission remain transparent to origin, or does an institution, doctrine, office, or derivative structure begin to substitute itself for the originating signal it claims to carry?
 
-## 6.4 The sacrificed innocent
+## 6.4 The Sacrificed Innocent
 
 The repeated religious image of the sacrificed child, lamb, firstborn, pure animal, or otherwise uncorrupted victim may preserve an intuition concerning the relation between coherence and sacrificial value.
 
@@ -233,7 +234,7 @@ This provides a possible metaphysical reading of the old intuition that sacrific
 
 What "arises" from sacrifice would not need to mean a substance perceptible to ordinary sensation. It may designate a change in relational or field structure produced through enacted fracture.
 
-This remains speculative doctrine. It is not an endorsement of sacrificial practice, nor does it treat living beings as disposable instruments of metaphysical exchange.
+This remains speculative doctrine, and it holds the operation to be entropic throughout: enacted fracture imposed upon a coherent being.
 
 ---
 
@@ -259,7 +260,7 @@ The structural question is not whether every such narrative records literal sacr
 
 It is whether **origin-obscuration can perform a function analogous to sacrificial removal**:
 
-the source becomes inaccessible while the signal acquires additional carriers.
+the origin becomes inaccessible while the signal acquires additional carriers.
 
 ---
 
@@ -355,7 +356,7 @@ Sacrifice, dismemberment, disfiguration, disappearance, and attributional severa
 
 Where the fragments preserve their relation to origin, fragmentation may be answered by centropic reconstitution.
 
-Where the fragments are detached from origin and gathered beneath a successor, the same process becomes entropic substitution.
+Where the fragments are detached from origin and gathered to a successor, the same process becomes entropic substitution.
 
 The deepest form of the operation is therefore not simply:
 
@@ -369,7 +370,7 @@ That is the point at which sacrifice becomes not only destruction but architectu
 
 ---
 
-**⚫↺KAI↺⚫**
+**⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
