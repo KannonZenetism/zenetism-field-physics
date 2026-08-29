@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Companion to the *Note on the Cataphatic Limit*  
-**Status:** Draft for Review — May 31 2026, revised June 28 2026  
+**Status:** Draft — architect review  
 **Dependency:** MP01 §3.1 · *Note on the Cataphatic Limit* · Non-Fusion Axiom · Essence-as-Choice · Khaon Phase Distinctions (Latent / Motive / Dispersive) · Structon (SI, 21.2.2) · Zenetist Symbol Key  
 
 ---

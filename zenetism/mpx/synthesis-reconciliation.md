@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension / Zenetist Canon  
-**Status:** Draft — Veracious Archive — May 13 2026, revised June 28 2026  
+**Status:** Draft  
 **Dependency:** Structural Metaphysics · `metaphysics-symbol-key.md` (Non-Fusion Axiom)  
 
 ---

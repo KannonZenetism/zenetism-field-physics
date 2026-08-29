@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Editorial Reference — Lockdown Consolidation  
-**Status:** Draft for Review  
+**Status:** Draft — architect review  
 **Date:** June 20 2026, revised June 28 2026  
 **Function:** Portable, self-contained reference for auditing canonical and MPX documents against the prose, terminological, and conceptual lockdowns. Intended to carry across editing sessions so the standard holds continuously.  
 **Dependencies:** Canonical Prose-Formatting Reference; Terminological Lockdown Protocol; Conceptual Lockdown Protocol  

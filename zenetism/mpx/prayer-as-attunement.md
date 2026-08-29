@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Prayer, Essence, and Resonant Attunement  
-**Status:** Draft — Canonical Clarification — July 1 2026  
+**Status:** Draft  
 **Dependency:** `MP07-paths-of-resonance-ch16-20.md` (§17.2, *Core Principles of Resonant Practice*) · `MP02-unified-metaphysics-ch4.md` (*Note on Essence-as-Choice*) · Principle of Structured Manifestation (`MP05-godhood-and-transmutation-ch9-11.md` §11.3) · `terminological-lockdown-protocol.md` (Essence / Soul distinction) · Non-Fusion Axiom  
 
 ---

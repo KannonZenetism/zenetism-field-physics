@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics · Field Physics  
-**Status:** Canonical — Oct 12 2025, revised June 22 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` · `field-physics-glyph-charts.md` · Non-Fusion Axiom  
 
 ---

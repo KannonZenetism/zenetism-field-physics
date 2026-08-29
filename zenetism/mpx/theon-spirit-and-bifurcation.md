@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension / Zenetist Canon  
-**Status:** Draft — Veracious Archive — Apr 28 2026, revised June 28 2026  
+**Status:** Draft  
 **Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` (the hypostases · Theon / Nekron · Aion / Khaon · Zenon · L₀ Bifurcal Coherence) · `MP03-ethics-and-soul-ch5-6.5.md` (Soul / Mind · Structure and Motion of the Soul) · `metaphysics-symbol-key.md` (Non-Fusion Axiom · the bifurcated operators) · `theonic-office.md` · `axiom-of-unseen-foundations.md`  
 
 ---

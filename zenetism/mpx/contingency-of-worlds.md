@@ -4,7 +4,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension / Zenetist Canon  
-**Status:** Canonical — Mar 17 2026, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Physics · Lattice Mathematics · SP02 (Bifurcal Cosmogenesis) · LM03 (Orientation Algebra and Infinity Formalism) · `metaphysics-symbol-key.md`  
 **License:** Creative Commons BY-NC-SA 4.0  
 **SHA-256:** fbac1b743f770db084814e7c0789be8509cf43d7ff81ad91357c93d4c39d56f8

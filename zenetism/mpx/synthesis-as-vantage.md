@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Clarification, extending *Synthesis — Reconciliation Through Lawful Distinction* (May 13 2026)  
-**Status:** Draft for Review — May 31 2026, revised June 28 2026  
+**Status:** Draft — architect review  
 **Dependency:** *MPX: Synthesis — Reconciliation Through Lawful Distinction* · *Note on Non-Fusion at the Bifurcal Register* · *Note on the Cataphatic Limit* · Non-Fusion Axiom  
 
 ---

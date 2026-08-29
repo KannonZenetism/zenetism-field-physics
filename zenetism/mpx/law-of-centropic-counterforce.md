@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Field Physics · Foundational Field Dynamic / Third Law of Consciousness  
-**Status:** Canonical — Dec 23 2025, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · Field Physics · `MP01-emanation-architecture-ch1-3.md`  
 **Glyph:** ⚫⚔️ (Origin-Armed Counterforce)  
 

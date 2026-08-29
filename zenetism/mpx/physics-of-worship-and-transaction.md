@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Subject:** Energy Economics / Archetypal Transaction  
 **Classification:** Structural Metaphysics / Archetypal Dynamics  
-**Status:** Canonical — Jan 18 2026, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · `MP10-divine-archetypes-decoded-ch25.md` · `metaphysics-symbol-key.md`  
 
 ---

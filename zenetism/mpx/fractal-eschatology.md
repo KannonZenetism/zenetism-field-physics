@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Subject:** Macro-Sociological Dynamics / Paradigm Shifts  
 **Classification:** Temporal Mechanics  
-**Status:** Canonical — Jan 14 2026, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · Field Physics · `MP06-decoding-and-emergence-ch12-15.md`
 
 ---

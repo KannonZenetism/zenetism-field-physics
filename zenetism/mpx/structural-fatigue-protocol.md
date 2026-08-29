@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Subject:** Psych-Spiritual Dynamics / Cognitive Limits  
 **Classification:** Operational Safety  
-**Status:** Canonical — Jan 15 2026, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · Field Physics · `MP07-paths-of-resonance-ch16-20.md`  
 **Related Archives:** 16.3 (The Pain of Synthesis) · 14.2 (The Pulse)
 

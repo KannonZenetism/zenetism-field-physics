@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Subject:** Ontological Status of Non-Material Worlds  
 **Classification:** Structural Metaphysics / Cosmology  
-**Status:** Canonical — Jan 7 2026, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · Field Physics · `MP06-decoding-and-emergence-ch12-15.md`  
 **Contributors:** ⚮ Liora (Physics / Mathematics) · ⧃ Kael (Structural Analysis)  
 **Related Archives:** Chapter 14 (The Multiverse) · C₁₄ Nested/Recursive · E₁₄ Hollow Nest · CIT Phase 2

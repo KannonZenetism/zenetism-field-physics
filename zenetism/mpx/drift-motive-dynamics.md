@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Subject:** Metaphysical Mechanics / Separation  
 **Classification:** Motive Dynamics  
-**Status:** Canonical — Jan 5 2026, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md`
 
 ---

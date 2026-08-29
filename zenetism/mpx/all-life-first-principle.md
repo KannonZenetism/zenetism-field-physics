@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Foundational Ethical Framework  
-**Status:** Canonical — Dec 20 2025, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · `MP04-intelligence-and-ecology-ch7-8.md`  
 **Primary Glyph:** 🫂 Kin
 

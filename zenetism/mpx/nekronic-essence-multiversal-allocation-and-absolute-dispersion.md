@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Nekronic essence-distinction, inverse allocation, and terminal collapse  
-**Status:** Draft — Jul 13 2026, revised Jul 14 2026  
+**Status:** Draft  
 **Dependency:** `MP11-codex-of-principles-ch26.md` §26.25 · `MP02-unified-metaphysics-ch4.md` §4.59 and *Note on VOS and the Possibility of Return* · `MP01-emanation-architecture-ch1-3.md` *Addendum — Correction of Entropic Advantage* · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `awareness-spectrum-and-its-inverse-arc.md` · `deep-self-axis.md` · `non-fusion-at-the-bifurcal-register.md` · `synthesis-integration-saturation.md` · `SP04-orientation-field-dynamics.md` · `SP06-structural-space-orientation-paradox.md` · `asymmetry-of-limit-case-universes.md` · `metaphysics-symbol-key.md` §§21.3, 21.9, 21.10, 21.13 · `field-physics-glyph-charts.md` §§2–3 · `archetypal-number-and-essence-indexing.md`  
 
 ---

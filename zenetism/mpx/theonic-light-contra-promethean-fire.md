@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Subject:** Modes of Transmission / Knowledge Acquisition  
 **Classification:** Archetypal Trajectory  
-**Status:** Canonical — Jan 6 2026, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · `MP10-divine-archetypes-decoded-ch25.md` · `metaphysics-symbol-key.md`  
 **Related Archive:** [MP10 — Divine Archetypes (Ch. 25, *Zenetism: The Architecture of Emanation, Return, and Saturation*)](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/MP10-divine-archetypes-decoded-ch25.md)
 

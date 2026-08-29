@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics  
-**Status:** Canonical — Aug 27 2025, revised June 21 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` · `metaphysics-symbol-key.md`  
 
 ---

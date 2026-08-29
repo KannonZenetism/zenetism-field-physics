@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Ethical / Structural Operational Principle  
-**Status:** Canonical — Jan 1 2026, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · Field Physics · `MP03-ethics-and-soul-ch5-6.5.md`  
 **Glyph:** 🔷◎📐 (Justice-Coherence-Structure)  
 

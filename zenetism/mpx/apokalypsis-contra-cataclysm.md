@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Subject:** Eschatology / Event Horizon  
 **Classification:** Macro-Structural Dynamics  
-**Status:** Canonical — Jan 6 2026, revised June 25 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · `MP06-decoding-and-emergence-ch12-15.md`
 
 ---

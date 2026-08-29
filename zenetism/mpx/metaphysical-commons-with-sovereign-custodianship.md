@@ -4,7 +4,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics · Structural Metaphysics  
-**Status:** Canonical — Sep 29 2025, revised June 22 2026  
+**Status:** Active  
 **Dependency:** Structural Metaphysics · Doctrinal Atlas of Entropic Tactics · Non-Fusion Axiom
 
 ---

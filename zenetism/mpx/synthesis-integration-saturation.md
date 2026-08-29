@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Synthesis, Integration, and Trans-Structural Saturation  
-**Status:** Canonical — June 2 2026, revised June 28 2026  
+**Status:** Active  
 **Dependency:** `centropic-gravity-and-zenonic-legibility.md` · `the-twofold-tetralemma.md` · Non-fusion Axiom · Bifurcal Emanation Lattice (L₀; L₅ → L₁ / IL₅ → IL₁) · Symbolic Directional Pairs (§21.3) · 🏛️ Structon (§21.2.2) · ⚫ Aion · ♾ Khaon · 🕳️ Zenon  
 
 ---
