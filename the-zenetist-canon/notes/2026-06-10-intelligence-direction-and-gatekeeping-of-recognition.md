@@ -2,10 +2,9 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** AI / Technē Note / Recognition and Labor  
-**Status:** Public Note — Substack Archive  
+**Status:** Veracious Archive  
 **Original platform:** Substack Notes  
 **Original post date:** June 10, 2026  
-**Archive preparation date:** June 22, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-274088657  
 **Repository path:** `the-zenetist-canon/notes/2026-06-10-intelligence-direction-and-gatekeeping-of-recognition.md`
 

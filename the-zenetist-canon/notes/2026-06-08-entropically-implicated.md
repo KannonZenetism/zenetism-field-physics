@@ -2,10 +2,9 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics Note / Entropic Implication and Essence  
-**Status:** Public Note — Substack Archive  
+**Status:** Veracious Archive  
 **Original platform:** Substack Notes  
 **Original post date:** June 8, 2026  
-**Archive preparation date:** June 22, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-272804470  
 **Repository path:** `the-zenetist-canon/notes/2026-06-08-entropically-implicated.md`
 

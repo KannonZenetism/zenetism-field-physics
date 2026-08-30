@@ -2,10 +2,9 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics Note / Provenance and Method  
-**Status:** Public Note — Substack Archive  
+**Status:** Veracious Archive  
 **Original platform:** Substack Notes  
 **Original post date:** June 27, 2026  
-**Archive preparation date:** June 27, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-283576344  
 **Repository path:** `the-zenetist-canon/notes/2026-06-27-method-provenance-and-manufactured-ambiguity.md`
 

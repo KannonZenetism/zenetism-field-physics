@@ -2,10 +2,9 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Mythic Structure Note / Lattice Clarification  
-**Status:** Public Note — Substack Archive  
+**Status:** Veracious Archive  
 **Original platform:** Substack Notes  
 **Original post date:** April 5, 2026  
-**Archive preparation date:** June 22, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-238769507  
 **Repository path:** `the-zenetist-canon/notes/2026-04-05-minotaur-and-beast-within-framing.md`
 

@@ -2,10 +2,9 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Terminological Addendum / Note Archive  
-**Status:** Public Note — Substack Archive  
+**Status:** Veracious Archive  
 **Original platform:** Substack Notes  
 **Original post date:** June 18, 2026  
-**Archive preparation date:** June 22, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-278625145  
 **Repository path:** `the-zenetist-canon/notes/2026-06-18-biospiral-architectural-addendum.md`  
 **Related note:** `2026-06-18-spiral-terminology-in-zenetism.md`
