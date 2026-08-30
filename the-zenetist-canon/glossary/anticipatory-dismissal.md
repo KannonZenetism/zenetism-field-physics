@@ -8,7 +8,7 @@ The sequence is:
 
 **proposition → anticipated implication → defensive response → premature rejection or reduction**
 
-The originating claim is therefore displaced by an expectation concerning what the claim is likely to mean.
+The originating claim therefore goes unexamined while the response addresses an expectation concerning what the claim is likely to mean.
 
 Anticipatory Dismissal may operate through:
 
