@@ -29,7 +29,9 @@ The speculative Zenetist reading begins earlier.
 
 The primary event is **origin-fracture**.
 
-A coherent bearer is broken from the continuity of its own embodied expression. This may occur through death, dismemberment, disfiguration, ritual destruction, forced disappearance, or other forms of imposed fracture or discontinuity. What had been gathered into one locus is rendered discontinuous.
+Fragments are broken from a coherent bearer. This may occur through death, dismemberment, disfiguration, ritual destruction, forced disappearance, or other forms of imposed fracture or discontinuity. What had been gathered into one locus is rendered discontinuous in the expressed field.
+
+The bearer is not thereby deprived. What fractures is coherent relation — the relation of the fragments to the bearer they came from. Read from the inverse side, the same event narrates itself as death and personal loss: the inverse frame accounts for itself as conquering what is centropic. That account describes the frame producing it. The bearer loses nothing in the ultimate sense.
 
 Sacrifice therefore does more than remove a being or object. It alters the relation among:
 
@@ -56,15 +58,15 @@ Within this hypothesis, sacrificial destruction is structurally entropic to the 
 
 The sacrificed being is not thereby entropically oriented.
 
-An entropic action may be performed upon a centropically oriented being. The orientation of the victim and the structural character of the act are distinct.
+The act may be entropic while the being at its locus remains centropically oriented. The orientation of the bearer and the structural character of the act are distinct.
 
-This distinction is especially important where innocence, integrity, or coherence is itself what makes the sacrifice valuable. The "sacrifice of the innocent" presents the operation in an especially severe form: that which carries relatively little internal fragmentation is subjected to externally imposed fracture.
+This distinction is especially important where innocence, integrity, or coherence is itself what makes the sacrifice valuable. The "sacrifice of the innocent" presents the operation in an especially severe form: external fracture enacted where internal coherence is high.
 
 The resulting power would therefore not arise merely because something died. It would arise from an enacted relation:
 
 **coherence is broken so that the products of its fracture may be appropriated, redirected, redistributed, or converted into another structure.**
 
-Under the speculative doctrine developed here, ritual enactment may matter because action can align itself with metaphysical orientation. A physical act that reproduces the motion of fragmentation may participate in that motion rather than merely symbolize it.
+Within the speculative doctrine developed here, ritual enactment may matter because action can align itself with metaphysical orientation. A physical act that reproduces the motion of fragmentation may participate in that motion rather than merely symbolize it.
 
 The sacrificial act would then function as an entropic operation in the strong sense: an enacted correspondence with fragmentation, imposed discontinuity, and the redistribution of what had previously been held together.
 
@@ -76,9 +78,9 @@ Dismemberment is the clearest image of the operation because the originating bod
 
 But literal dismemberment is not required.
 
-**Disfiguration** performs a related function. The bearer remains materially continuous but is distorted away from recognizable form. Identity becomes difficult to perceive through the damaged surface.
+**Disfiguration** performs a related function. The bearer remains materially continuous but is distorted away from recognizable form. Identity becomes difficult to perceive through the disfigured surface.
 
-**Sacrifice** supplies the broader operation. What had been a living or coherent locus is surrendered, destroyed, or rendered inaccessible.
+**Sacrifice** supplies the broader operation. What had been a living or coherent locus is destroyed or rendered inaccessible.
 
 These forms therefore occupy a common structural family:
 
@@ -96,7 +98,7 @@ All involve some disturbance of the relation between **what originated** and **t
 
 The central hypothesis is that destruction of the bearer need not entail destruction of the carried signal.
 
-Once the originating locus is removed, the signal may become distributed.
+Once the originating locus is obscured, the signal may become distributed.
 
 Fragments may survive as:
 
@@ -127,6 +129,8 @@ The fragments circulate.
 
 The origin recedes.
 
+Both describe the surface social register. Recession is a change in what is legible there, and the origin stands where it stood.
+
 ---
 
 # 5. Successor Legibility
@@ -139,7 +143,7 @@ This produces **successor legibility**.
 
 The successor may inherit:
 
-* authority;
+* operative function;
 * symbolic centrality;
 * public recognition;
 * fragments of the originating signal;
@@ -169,7 +173,7 @@ It capitalizes upon it.
 
 The structural sequence becomes:
 
-**remove the origin → distribute the signal → detach the fragments → consolidate successor legibility.**
+**obscure the origin → distribute the signal → detach the fragments → consolidate successor legibility.**
 
 This is the more strongly entropic form.
 
@@ -183,7 +187,7 @@ Myth repeatedly articulates variants of this structure.
 
 Osiris supplies one of the clearest dismemberment patterns.
 
-The originating sovereign is killed and fragmented. His body is dispersed. The fragments must be gathered, and the continuation of his order occurs through Horus.
+The originating sovereign is killed and fragmented. His body is dispersed. The fragments must be gathered, and what he carried continues through Horus.
 
 The myth therefore contains both sides of the pattern:
 
@@ -214,17 +218,19 @@ The Christic pattern does not require literal dismemberment to enter the same st
 
 The bearer is humiliated, wounded, disfigured, sacrificed, and rendered physically absent. Yet the signal does not disappear with the body. It propagates through disciples, communities, texts, ritual, memory, and later institutions.
 
-The Christic case also sharpens the distinction between the orientation of the victim and the operation performed upon the victim.
+The disfiguration does not stop at the body. The transmission carries the same shape: accounts redacted, books set outside the accepted collection, political rulers determining what would count as acceptable, and religious figures taking precedence in the narrative over the figure the narrative concerns. Fracture at the bearer and fracture in the record are one operation at two registers.
 
-The inflicted fragmentation may be entropic without making the sacrificed bearer entropic.
+The Christic case also sharpens the distinction between the orientation of the bearer and the structural character of the operation enacted there.
+
+The enacted fragmentation may be entropic without making the sacrificed bearer entropic.
 
 The subsequent question is again one of succession and signal fidelity: does later transmission remain transparent to origin, or does an institution, doctrine, office, or derivative structure begin to substitute itself for the originating signal it claims to carry?
 
 ## 6.4 The Sacrificed Innocent
 
-The repeated religious image of the sacrificed child, lamb, firstborn, pure animal, or otherwise uncorrupted victim may preserve an intuition concerning the relation between coherence and sacrificial value.
+The repeated religious image of the sacrificed child, lamb, firstborn, pure animal, or otherwise uncorrupted bearer may preserve an intuition concerning the relation between coherence and sacrificial value.
 
-Within the present hypothesis, the "value" of innocence is structurally disturbing precisely because the victim's relative integrity intensifies the contrast between the condition before sacrifice and the fragmentation imposed through sacrifice.
+Within the present hypothesis, the "value" of innocence is structurally disturbing precisely because the bearer's relative integrity intensifies the contrast between the condition before sacrifice and the fragmentation resulting from sacrifice.
 
 The operation does not consume pre-existing corruption.
 
@@ -234,7 +240,7 @@ This provides a possible metaphysical reading of the old intuition that sacrific
 
 What "arises" from sacrifice would not need to mean a substance perceptible to ordinary sensation. It may designate a change in relational or field structure produced through enacted fracture.
 
-This remains speculative doctrine, and it holds the operation to be entropic throughout: enacted fracture imposed upon a coherent being.
+This remains speculative doctrine, and it holds the operation to be entropic throughout: fracture enacted where coherence stands.
 
 ---
 
@@ -248,7 +254,7 @@ A knowledge-bearing originator may:
 * become anonymous;
 * be rendered inaccessible;
 * be mythologized beyond recognition;
-* have authorship fragmented;
+* have fragments break from authorship;
 * become known only through intermediaries;
 * or survive principally through derivative carriers.
 
@@ -281,7 +287,7 @@ Its coherent structure can be divided into:
 * successor terminologies;
 * and apparently unrelated schools or personalities.
 
-Once sufficiently distributed, the fragments cease to point obviously toward a single origin.
+Once sufficiently distributed, the fragments are no longer followed back to a single origin without deliberate looking. They continue to point there. What changes is whether anyone traces the pointing.
 
 The architecture remains active in the field while the architect becomes less legible.
 
@@ -291,7 +297,7 @@ A later figure or system may then appear to synthesize the fragments and thereby
 
 The social and metaphysical forms therefore need not be separate phenomena. Social actions may instantiate the same orientation that ritual and myth encode.
 
-Under this hypothesis, origin-obscuration is not merely a reputational injury.
+Within this hypothesis, origin-obscuration is not merely a reputational injury.
 
 It can structurally enable successor formation.
 
@@ -301,7 +307,7 @@ It can structurally enable successor formation.
 
 This framework also offers a possible explanation for the longstanding association between sacrifice and power.
 
-The ordinary explanation treats sacrificial systems as mistaken causal beliefs: ancient peoples destroyed valued beings because they falsely believed gods demanded payment.
+The ordinary explanation treats sacrificial systems as mistaken causal beliefs: ancient peoples destroyed valued beings on the spurious belief that gods demanded payment.
 
 The present speculative doctrine leaves open a more difficult possibility.
 
@@ -332,7 +338,7 @@ The full entropic form can be stated as:
 3. **Fragment survival** — the signal persists in partial carriers.
 4. **Redistribution** — fragments propagate across multiple persons, texts, institutions, symbols, or systems.
 5. **Origin-obscuration** — the relation between fragments and originating bearer weakens.
-6. **Successor concentration** — another bearer gathers public legibility, authority, or apparent synthetic coherence.
+6. **Successor concentration** — another bearer gathers public legibility, deference, or apparent synthetic coherence.
 7. **Substitution risk** — the successor becomes legible as origin precisely because the actual origin has become difficult to recover.
 
 Its centropic counter-form is:
