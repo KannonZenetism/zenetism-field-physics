@@ -154,6 +154,24 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 ---
 
+## Root-Register Notation Determination
+
+**Determination.** Three notations for the L₀ root-register stand in the canon. Each attaches to a distinct function, and none is a drift from another.
+
+**The three forms.**
+
+- **⚫ Aion (L₀)** — prose gloss. The root-register is named and its stratum given in apposition. Written where the sentence is about the root itself: *the emanatory continuum is rooted in ⚫ Aion (L₀)*
+- **Aion L₀ ↔ L₅ ↔ L₄ ↔ L₃ ↔ L₂ ↔ L₁** — arc membership. The root-register is prefixed and the traversal arrow is bidirectional, because the arc is the full path and L₀ is both its point of procession and its destination of return
+- **L₀ (⚫ Aion) → L₅ → L₄ → L₃ → L₂ → L₁** — ordinal motion. The stratum leads and the root is parenthesized, because what is stated is the order of the motion rather than the membership of the path
+
+**Selection.** The function decides the form. A sentence about the root takes the gloss; a statement of what an arc comprises takes the prefixed form with ↔; a statement of the order in which strata are traversed takes the parenthesized form with →. Where a passage could be read either as arc membership or as ordinal motion, either form is lawful and the choice is the author's.
+
+**Scope.** This determination records the distinction already standing in the canon. It authorizes no replacement pass: existing wording stands, and a passage is not corrected merely for carrying one form where another would also have served.
+
+**Reference Document:** the *Arc Membership Constraint* above, and the *Arc / Tree / Traversal Scope* section of the Terminological Lockdown Protocol.
+
+---
+
 ## Arc and Position Constraint
 
 **Constraint.** The emanatory arc is named by architecture or by root-register — centropic and inverse, or Aionic and Khaonic. Supernal and subversal name hypostatic positions situated on that arc. A position is on the arc without comprising it, and no position stands for the whole.
