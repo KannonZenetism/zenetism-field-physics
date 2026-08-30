@@ -171,6 +171,14 @@ External timestamped records — not internally asserted document dates — anch
 
 When uncertain whether a date qualifies for retention, do not delete it automatically and do not reinterpret it. Flag the instance for architect review. Ambiguity is resolved by function, not by date format or location alone.
 
+### Filename Dates
+
+The Internal Date Prohibition addresses dates carried inside a document. Filename dates are addressed here.
+
+New work is better named without a date where the date carries no evidentiary weight. Instruments whose identity includes their issuance — correspondence, exhibits, captures, transmission records — keep their dated names, since there the date is part of what the filename identifies.
+
+Existing filenames stand as they are. A filename is a citation: other documents reference it, and a rename erases every citation pointing at the old name. Where a dated filename is worth changing, the rename and the correction of every citing line move in one pass, at the architect's determination.
+
 ### Date and Provenance Insertion Determination
 
 Internal dating is governed by the Internal Date Prohibition above: a collaborator inserts no date into a document, and never reconstructs, infers, or normalizes one.
