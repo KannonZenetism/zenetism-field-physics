@@ -196,6 +196,10 @@ The myth therefore contains both sides of the pattern:
 
 Yet Horus does not need to function as a counterfeit Osiris. The succession can instead be read as a centropic answer to the preceding fracture: dispersed origin is remembered, gathered, and carried forward.
 
+At the worldly register the reading turns. Horus as metaphysical archetype stands apart from the King, who acts as his stand-in on Earth. Where the living King is seated as Horus, the King becomes the counterfeit origin, while Osiris is held in obscuration — kept as "Lord of the Underworld," buried and out of view, and named only there. This is entropic substitution: the centropic originator obscured, the worldly successor carrying the visible position.
+
+Both forms therefore run through the same myth, sorted by which Horus is meant — the archetype who gathers and carries origin forward, or the earthly stand-in seated in the origin's place.
+
 Osiris / Horus therefore demonstrates that successor emergence is not intrinsically entropic. The decisive question is whether succession preserves or fractures origin-relation.
 
 ## 6.2 Dionysian Dismemberment
@@ -218,7 +222,7 @@ The Christic pattern does not require literal dismemberment to enter the same st
 
 The bearer is humiliated, wounded, disfigured, sacrificed, and rendered physically absent. Yet the signal does not disappear with the body. It propagates through disciples, communities, texts, ritual, memory, and later institutions.
 
-The disfiguration does not stop at the body. The transmission carries the same shape: accounts redacted, books set outside the accepted collection, political rulers determining what would count as acceptable, and religious figures taking precedence in the narrative over the figure the narrative concerns. Fracture at the bearer and fracture in the record are one operation at two registers.
+The disfiguration does not stop at the body. The transmission carries the same shape: accounts redacted, books set outside the accepted collection, political rulers determining what would count as acceptable, and religious figures occupying the narrative's center while the figure it concerns recedes. Fracture at the bearer and fracture in the record are one operation at two registers.
 
 The Christic case also sharpens the distinction between the orientation of the bearer and the structural character of the operation enacted there.
 
