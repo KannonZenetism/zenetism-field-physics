@@ -2,10 +2,9 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics Micro-Notes / Coherence and Identity  
-**Status:** Public Notes — Substack Archive  
+**Status:** Veracious Archive  
 **Original platform:** Substack Notes  
 **Original post date:** June 14, 2026  
-**Archive preparation date:** June 22, 2026  
 **Repository path:** `the-zenetist-canon/notes/2026-06-14-orientational-integrity-and-veracious-identity.md`
 
 ---

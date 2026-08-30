@@ -2,10 +2,9 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics Note / Provenance and Lineage  
-**Status:** Public Note — Substack Archive  
+**Status:** Veracious Archive  
 **Original platform:** Substack Notes  
 **Original post date:** June 23, 2026  
-**Archive preparation date:** June 23, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-281131153  
 **Repository path:** `the-zenetist-canon/notes/2026-06-23-lineage-analysis-and-origin-laundering.md`
 

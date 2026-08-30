@@ -2,10 +2,9 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Mythic Structure Note / Sacrifice and Symbolic Grammar  
-**Status:** Public Note — Substack Archive  
+**Status:** Veracious Archive  
 **Original platform:** Substack Notes  
 **Original post date:** April 1, 2026  
-**Archive preparation date:** June 22, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-236800009  
 **Repository path:** `the-zenetist-canon/notes/2026-04-01-animal-sacrifice-carnal-symbolism-and-entropic-literalism.md`
 

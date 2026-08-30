@@ -2,10 +2,9 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Field Physics Note / Living Transmission and Origin-Seal  
-**Status:** Public Note — Substack Archive  
+**Status:** Veracious Archive  
 **Original platform:** Substack Notes  
 **Original post date:** February 24, 2026  
-**Archive preparation date:** June 22, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-218996260  
 **Repository path:** `the-zenetist-canon/notes/2026-02-24-living-reflection-contra-parasitic-recursion.md`
 
