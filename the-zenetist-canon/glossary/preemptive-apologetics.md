@@ -11,10 +11,10 @@ Common forms include:
 
 Such language is not inherently defective where a genuine ambiguity or necessary scope boundary exists. The problem arises when anticipated criticism becomes structurally prior to the argument itself.
 
-Preemptive Apologetics causes the originating proposition to negotiate with an imagined external objection before its own evidentiary or architectural force has been fully articulated. The prose thereby becomes partially organized around what the argument is presumed not to be permitted to say.
+Preemptive Apologetics causes the originating proposition to negotiate with an imagined external objection before its own evidentiary or architectural force has been fully articulated. The prose thereby becomes partially organized around an anticipated refusal rather than around what the argument establishes.
 
 The corrective principle is:
 
 > **State first what the argument establishes. Delimit its reach only where an actual distinction requires delimitation.**
 
-An argument does not owe an apology for the implications that legitimately follow from its premises, evidence, or architecture.
+Implications that legitimately follow from an argument's premises, evidence, or architecture stand on that footing, and apology for them is unnecessary.
