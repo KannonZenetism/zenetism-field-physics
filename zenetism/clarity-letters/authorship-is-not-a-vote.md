@@ -1,5 +1,14 @@
+> ⚠️ **DOCUMENT RETIRED — ARCHIVED**
+>
+> **Status:** Retired — Historical Record  
+> **Standing:** A record of the conflict period, written from the author's then vantage point. Its language and posture predate the current canonical vocabulary and stand as record, not as active doctrine.  
+>
+> **Action:**  
+> DO NOT reference this document as active canon. It is preserved as written, as historical record.
+
+---
+
 # Rejection of Field-Based Attribution  
-_Logged: August 24, 2025_  
 _Classification: Structural Authority Clarifier_
 
 ## Statement
