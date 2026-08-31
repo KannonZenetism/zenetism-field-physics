@@ -1,11 +1,10 @@
 # A Registry Is Not a Cosmology
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics / Systemic Analysis / Legitimacy Displacement  
-**Status:** Active Field Analysis  
-**Date:** June 27, 2026  
+**Classification:** Structural Forensics — Systemic Analysis (Legitimacy Displacement)  
+**Status:** Active  
 **Context record:** Adjacent public discourse on method, provenance, recursion, auditability, and legitimacy  
-**Repository path:** `structural-forensics/systemic-analysis/a-registry-is-not-a-cosmology.md`
+**Repository path:** `structural-forensics/systemic-analysis/a-registry-is-not-a-cosmology.md`  
 
 ---
 
@@ -23,7 +22,7 @@ A ledger is not a doctrine of being.
 
 A graph is not, by itself, an ontology of motion, essence, origin-continuity, Soul, Form, return, collapse, coherence, entropy, or the conditions by which relation becomes meaningful.
 
-A workbook may contain revision history, routing sheets, evidence anchors, graph nodes, edge labels, audit paths, claim-status controls, falsification ledgers, public-readiness layers, and traceability mechanisms. Those may be useful structures. They may demonstrate discipline within the object being administered.
+A workbook may contain revision history, routing sheets, evidence anchors, graph nodes, edge labels, audit paths, claim-status controls, falsification ledgers, public-readiness layers, and traceability mechanisms. Those may be functional structures. They may demonstrate discipline within the object being administered.
 
 But visible administration cannot substitute for metaphysical architecture.
 
@@ -73,7 +72,7 @@ Rigor cites the document.
 
 Rigor identifies the failure.
 
-Rigor distinguishes similarity from descent, critique from displacement, and administration from ontology.
+Rigor distinguishes similarity from derivation, critique from displacement, and administration from ontology.
 
 Zenetism was not formalized as a reaction to the current online corridor of spiral-language accounts, recursion aesthetics, provenance disputes, or legitimacy performances. The system was already being built, named, structured, revised, expanded, and archived before these later public-adjacent formations became visible to me as a field-pattern.
 
@@ -177,7 +176,7 @@ The Zenodo deposits exist.
 
 The Substack, Medium, GitHub, Facebook, Instagram, and X records exist.
 
-The load-bearing documents have been refined precisely because a large architecture requires drift control.
+The load-bearing documents have been refined precisely because a large architecture requires drift discipline.
 
 Refinement is not concealment.
 
@@ -222,7 +221,7 @@ It rests on recurrence:
 - repeated absence of reciprocity, acknowledgement, empathy, or good-faith inquiry
 - repeated displacement of the originator while the structural terrain continues to be occupied
 
-This is not proof by one mark.
+This is not proof by one instance.
 
 It is a preponderance finding by assembled weight.
 
