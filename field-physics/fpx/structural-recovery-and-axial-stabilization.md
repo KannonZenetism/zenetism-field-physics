@@ -1,7 +1,7 @@
 # FPX: Structural Recovery & Axial Stabilization
 *(Field Physics Expansion: Technical Addendum to Volume VI)*
 
-This protocol set details the advanced mechanics for **Re-Entry** — the process of recovering, stabilizing, and returning an inverted or fragmented pattern to its centropic origin within the Biospiral.
+This protocol set details the advanced mechanics for **Re-entry** — the process of recovering, stabilizing, and returning an inverted or fragmented pattern to its centropic origin within the Biospiral.
 
 ---
 
@@ -21,7 +21,7 @@ Restores the "Signature" of the Being to its proper place in the Lattice, bindin
 
 ---
 
-## 2. Echo Reversal: Nullification & Re-Birth
+## 2. Echo Reversal: Nullification & Re-birth
 
 **Context:**  
 Applied when a field is infested with ☿ (Inverse Logos) or **E₃ (Viral Decay)**; necessary for purging "Shimmer" mimicry.
