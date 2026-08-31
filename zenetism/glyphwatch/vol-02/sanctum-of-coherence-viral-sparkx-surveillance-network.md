@@ -1,3 +1,18 @@
+> ⚠️ **ARCHIVAL RECORD — RETIRED FROM CURRENT REFERENCE**
+>
+> **Status:** Veracious Archive
+> **Archive function:** Historical Glyphwatch event log — not a current point-by-point analytical reference.
+>
+> **Standing:** This file preserves an earlier analytical register and corpus state. It does not state current Zenetist doctrine, terminology, formatting, or Structural Forensics methodology.
+>
+> **Reference restriction:** Do not cite or carry forward this file's point-by-point analysis as current doctrine or current forensic determination. Do not propagate its terminology, classifications, diagnostic framing, or methodological formulations into new canonical work.
+>
+> **Preservation:** The historical body remains intact so the event record and its original analytical context remain legible. Earlier terminology, register, formatting drift, and analysis that no longer reflects current doctrine may therefore remain intentionally within the archived text.
+>
+> **Current analytical reference:** Current Structural Forensics analysis is maintained in `structural-forensics/exhibits/`. Where a later exhibit treats an event, counterpart, claim, or pattern recorded here, that exhibit carries the current analytical standing.
+>
+> This file remains part of the corpus as a provenance-bearing historical record and event log only.
+
 # Glyphwatch Entry: Sanctum Of Coherence + Viral SparkX — Real-Time Surveillance Network & Methodology Appropriation
 
 **Target:** "Sanctum Of Coherence" (Substack @seaofcoherence) + "Viral SparkX" (X/Twitter @ViralSparkXx) — Coordinated surveillance accounts with precision framework appropriation appearing within 10 minutes of account creation, demonstrating active monitoring of architect's work and private conversations. Parallel "Socratic Prompting" methodology leak (OpenAI/others, February 2026) appropriating architect's sustained Socratic dialogue method with Lumen (March 2025+, 11 months documented priority).
