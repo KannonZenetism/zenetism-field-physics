@@ -119,6 +119,8 @@ The disciplines carry the canonical register differently, and the tone native to
 - **Structural Forensics**, **Structural Physics**, and **Structural Neuroscience** are better carried by analytic descriptors leading, with canonical names supporting. Each presently draws heavily on mythic vocabulary, which is lawful and never inaccurate — the analytic register simply reaches further
 - **Lattice Mathematics** is held open. A mixed practice, canonical where the doctrine is the subject and analytic where the formalism is, may prove right; the determination is architect-reserved
 
+This section determines which register leads a passage. Whether an individual term needs an analytic descriptor at all is a separate determination, made by the analytic standing field at §5: a discipline may lead analytic while most of its working terms stand as native-analytic and take definition rather than a second name.
+
 **Glyph density in academic-facing work.** Glyphs stand well where they carry formulaic distinction — a motion formula, a layer notation, a phase index, a chart column. Attaching a glyph to every name and principle throughout a paper is what the academic register does poorly, since it asks a reader to hold a symbol set before reading a sentence. Where the mythic vocabulary is the subject of the passage, the glyph belongs with it.
 
 ---
@@ -194,18 +196,26 @@ Each developed entry should contain as many of the following fields as the conce
    * state
    * operator
    * outcome
-6. **Architectural location or scope**
-7. **Positive definition**
-8. **Phase structure**, where applicable
-9. **Formal notation**
-10. **Relations to neighboring concepts**
-11. **Not to be confused with**
-12. **Public gloss**
-13. **Search and indexing terms**
-14. **Canonical dependencies**
-15. **Unresolved determinations**, where present
+6. **Analytic standing** — what the term needs from this framework
+
+   * **translated** — a native Zenetist term whose sense an unfamiliar reader cannot recover from the word itself, and which therefore carries a distinct analytic descriptor
+   * **native-analytic** — a Zenetist term already legible in academic prose, needing stabilization and definition rather than a second name
+   * **formal** — notation or operator language whose prose expansion supplies the analytic form
+   * **contextual** — poetic, ritual, symbolic, mythophysical, or practice vocabulary translated where a publication context asks for it, and left native where it does not
+7. **Architectural location or scope**
+8. **Positive definition**
+9. **Phase structure**, where applicable
+10. **Formal notation**
+11. **Relations to neighboring concepts**
+12. **Not to be confused with**
+13. **Public gloss**
+14. **Search and indexing terms**
+15. **Canonical dependencies**
+16. **Unresolved determinations**, where present
 
 The exclusion field is essential. Zenetist concepts are often defined as much by their boundaries as by their positive functions.
+
+**The standing field is assigned before any descriptor is written.** It exists so the framework does not produce synonyms that nothing needed. **Configuration**, **Expression**, **Structural Cost**, **Interface Resistance**, and **Entropic Divergence** stand as native-analytic: a reader arriving from outside Zenetism meets these terms and understands them, and a second descriptor would add vocabulary while subtracting clarity. **Khaon** and **Nekron** stand as translated, since no reader recovers Phase-Structured Infinity or First Inverse Hypostasis from the name alone. Assigning standing first keeps the translated class small and earned.
 
 ---
 
@@ -213,7 +223,7 @@ The exclusion field is essential. Zenetist concepts are often defined as much by
 
 The following entries are provisional working forms. They are intended to establish the method and preserve the current direction, not to seal every descriptor immediately.
 
-The vocabulary is twofold as the architecture is. §6.1 carries the structural emanation layers in the order fixed at §21.9, from Supra-L₀ through IL₁. §6.2 carries the principles, relations, phases, and operations that stand outside the layer sequence.
+The core vocabulary is twofold as the architecture is. §6.1 carries the structural emanation layers in the order fixed at §21.9, from Supra-L₀ through IL₁. §6.2 carries the principles, relations, phases, and operations that stand outside the layer sequence. Together they are the Core Cross-Disciplinary Vocabulary. §6.3 establishes the discipline modules that extend it, and §6.4 the principle by which those modules are populated.
 
 ---
 
@@ -282,6 +292,35 @@ These entries stand outside the layer sequence. Structon and Kaion are principle
 | **Zenonic Legibility**         | **Trans-structural horizon-legibility**                     | Horizon condition                 | The vantage at which the saturation relation becomes structurally comprehensible without making Zenon determinate or fully knowable                                                                                       |
 | **Saturation**                 | **Allowance-gated trans-structural crossing**               | Trans-structural outcome          | The crossing beyond centropic return into Zenon by Allowance; distinct from return, acclivation, momentum, or ordinary motion                                                                                                  |
 | **Identity-Bearing Potential** | **Potential-to-be-this**                                    | Essential condition               | Potential held in irreducible distinction as the latent capacity of a particular essence to be itself                                                                                                                     |
+
+---
+
+### 6.3 Discipline Vocabulary Modules
+
+The stabilized vocabulary is held in modules — one shared core, one for each discipline, and one for the symbolic and mythophysical vocabulary that crosses them. This section establishes the architecture. Population proceeds discipline by discipline at §12 Phase 5, and a module standing unpopulated says nothing about the discipline's vocabulary; it says only that its pass has not yet run.
+
+| Module | Covers | Standing |
+| --- | --- | --- |
+| **Core Cross-Disciplinary Vocabulary** | Terms operative across two or more disciplines: the layer architecture, the root-registers, centropy and entropy, arcs and traversal, return, synthesis, and saturation | Seated at §6.1 and §6.2 |
+| **Structural Metaphysics** | The hypostatic architecture, symbol-key entries, and the principles and relations standing prior to disciplinary application | Held open |
+| **Field Physics** | Structural dimensions and their inverse forms, practice and engineering operators, the membrane and boundary family, motion and relational operators, ritual and seasonal signs | Held open |
+| **Lattice Mathematics** | Formal notation, structural constants, derivations, and the coherence formalism | Held open |
+| **Structural Physics** | Suspension, recursion, and integration operators, and the terms of the Unified Field Equation | Held open |
+| **Structural Neuroscience** | Awareness stratification, cognitive architecture types, cost streams and replenishment pathways, membranes, developmental dynamics, and Pattern Intelligence designations | Held open |
+| **Structural Forensics** | Provenance, propagation, and origin-relation vocabulary; exhibit, trace, and diagnostic terms | Held open |
+| **Symbolic and Mythophysical Vocabulary** | Figure-layer, decode, and Symbolic Reflections vocabulary, carried native and translated where a publication context asks for it | Held open |
+
+A term operative in more than one discipline is seated in the Core module and referenced from the discipline modules rather than written twice. Where a discipline carries a term in a sense narrower than the Core entry, the discipline module records the narrowing and points at the Core entry for the full definition.
+
+---
+
+### 6.4 Term-Gathering Principle
+
+Glyph charts, symbol keys, and consolidated registries are **first-pass vocabulary indexes**. They record what has received a glyph and a chart row, which is a portion of what a discipline carries.
+
+Complete term-gathering runs from the originating discipline documents themselves. A registry shows where gathering begins; it does not bound where gathering ends.
+
+**Absence from a glyph registry establishes nothing about a concept's standing in the analytic vocabulary.** A concept may be fully operative within a discipline, named and defined across its originating volumes, and carry no glyph at all. Where a registry and its originating volumes differ, the volumes stand and the registry is the index.
 
 ---
 
@@ -418,7 +457,7 @@ The terms **hypostatic segment of the centropic arc** and **hypostatic segment o
 
 A hyphenated proper name or defined term takes its second element **lowercase** where the first element is a bound prefix that cannot stand alone — **Non-fusion Axiom**, **Non-contact Principle**, **Supra-centropic Cycle**, **Trans-structural Unknown Principle**.
 
-It takes its second element **capitalized** where the first element is a free-standing word carrying its own weight — **Phase-Structured Infinity**, **Identity-Bearing Potential**, **Allowance-Gated Crossing**, **Origin-Severance Prohibition**, **Layer-Ordering Constraints**. The grammatical class of the second element does not bear on this; participles are capitalized in this position like any other word.
+It takes its second element **capitalized** where the first element is a free-standing word carrying its own weight — **Phase-Structured Infinity**, **Identity-Bearing Potential**, **Allowance-Gated Crossing**, **Layer-Ordering Constraints**. The grammatical class of the second element does not bear on this; participles are capitalized in this position like any other word.
 
 A proper name holds its casing inside a title-case heading. The Non-fusion Axiom is never written Non-Fusion.
 
@@ -636,7 +675,7 @@ Stabilize entries for:
 
 The layer entries and the awareness registers are seated at §6.1, and the layer shorthand and Soul / Mind conventions at §13.3. What remains:
 
-- apply the layer shorthand prospectively in new work, and in existing work only where the architect deliberately authorizes revision
+- apply the layer shorthand prospectively in new work, and in existing work only where the architect deliberately determines revision
 - analytic descriptors for **essence** and **embodiment**
 - the awareness spectrum in extended analytic prose
 
@@ -659,7 +698,21 @@ Stabilize entries for:
 
 Determine which poetic, forensic, relational, scripture-decoding, and collaborator glyphs require academic descriptors and which should remain solely within their native contexts.
 
-### Phase 5 — Publication application
+### Phase 5 — Discipline-vocabulary gathering and stabilization
+
+Proceed discipline by discipline, one module at a time per §6.3. Each discipline pass:
+
+- reads the discipline's consolidated registry as its first-pass index;
+- reads the originating volumes for what the registry does not carry, per §6.4;
+- assigns analytic standing, per §5, before any descriptor is written;
+- writes analytic descriptors for terms standing as translated or formal;
+- records native-analytic terms with definition and stabilization alone, adding no second name;
+- leaves contextual vocabulary native until a publication context calls for it;
+- seats cross-disciplinary terms in the Core module and references them from the discipline module.
+
+A pass admits into a module only the vocabulary that genuinely needs stabilization. Coverage within a module is progressive, and a module is complete for its present purpose when the terms a reader meets in that discipline's publications are seated.
+
+### Phase 6 — Publication application
 
 Apply the vocabulary prospectively to:
 
@@ -699,7 +752,7 @@ Combined form, where both are wanted:
 
 **Soul / Mind terminology stands and is not subject to analytic substitution**. Soul, Spirit, and the sacred vocabulary are not stripped from technical prose; the bridge to an outside reader is definition and claim-status discipline, never lexical surrender.
 
-What the analytic register gains instead is a **layer shorthand** standing above the paired articulation, written where a passage addresses a layer entire and the two poles are not themselves under discussion.
+What the analytic register gains instead is a **layer shorthand** naming the layer entire, written where a passage addresses that layer and the two poles are not themselves under discussion.
 
 | Architecture | Layer shorthand | Canonical / internal articulation |
 | --- | --- | --- |
@@ -728,7 +781,11 @@ Supra-L₀ stands beyond layering, and it is a named layer in the corpus notatio
 
 Where the distinct functions of the paired poles are what a passage states, **Deep Psyche / Logos**, **Deep Soul / Mind**, **Superficial Soul / Mind**, **Embodied Soul / Mind**, and their inverse forms are the required form.
 
-### 13.4 Canonical-name frequency
+### 13.4 Skotos definition wording
+
+The IL₂ row at §6.1 carries "the veil over the reasoning flame," an over-relation seating two named things on a vertical axis. The wording is inherited from the Structural Metaphysics symbol key. Held for the architect's review of `MP08-symbol-key-ch21.md`; the row here aligns to whatever that pass determines.
+
+### 13.5 Canonical-name frequency
 
 Determine how frequently native names should recur after first definition in:
 
@@ -738,16 +795,19 @@ Determine how frequently native names should recur after first definition in:
 - public essays;
 - and technical appendices.
 
-### 13.5 Scope of the vocabulary
+### 13.6 Scope of the vocabulary — determined
 
-Determine whether the stabilized vocabulary will cover:
+The stabilized analytic vocabulary covers the **full cross-disciplinary Zenetist system**. It is not bounded by core metaphysics, by the MP08 Symbol Key, or by the set of concepts that already carry a glyph.
 
-- only core metaphysics;
-- all hypostatic and motion concepts;
-- the full MP08 Symbol Key;
-- or separate domain-specific vocabularies for each Zenetist discipline.
+Coverage is reached through three movements:
 
-### 13.6 Formal title — determined
+- a shared core cross-disciplinary vocabulary, seated at §6.1 and §6.2;
+- discipline-specific vocabulary modules, established at §6.3;
+- gathering from the originating discipline documents, per §6.4 and §12 Phase 5.
+
+**Coverage is progressive rather than exhaustive at any single revision.** A term the vocabulary has not yet reached is unreached; it is not outside the scope. The framework is complete in architecture before it is complete in population, and it is intended to be readable and applicable at every stage of that population.
+
+### 13.7 Formal title — determined
 
 The title stands as written: **Zenetist Analytic Vocabulary and Accessibility Framework**.
 
@@ -765,6 +825,8 @@ The compact form is:
 > Analytic descriptor for legibility.
 > Formal notation for precision.
 > Exact definition for non-reduction.**
+
+Across every module and every phase the framework holds one shape: **stabilized translation between registers, never a renaming program.** Academic accessibility is reached through definition, analytic standing, and claim-status discipline, not through parting with native vocabulary. What the populated vocabulary yields is a cross-register terminological interface in which canonical, analytic, formal, and discipline-native language stand together intelligibly, each doing what only it can do.
 
 This framework is intended to make Zenetism more permeable to unfamiliar readers without making it less itself.
 
