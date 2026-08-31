@@ -1,7 +1,7 @@
 # A Registry Is Not a Cosmology
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics — Systemic Analysis (Legitimacy Displacement)  
+**Classification:** Structural Forensics — Systemic Analysis (Legitimacy Substitution)  
 **Status:** Active  
 **Context record:** Adjacent public discourse on method, provenance, recursion, auditability, and legitimacy  
 **Repository path:** `structural-forensics/systemic-analysis/a-registry-is-not-a-cosmology.md`  
@@ -46,9 +46,9 @@ But they are not neutral when they are turned to imply that an adjacent body of 
 
 That is not critique.
 
-It is legitimacy displacement.
+It is legitimacy substitution.
 
-Legitimacy displacement occurs when the language of seriousness is occupied and redirected so that the originator is placed back on trial while the existing archive is treated as if it were absent.
+Legitimacy substitution occurs when the language of seriousness is occupied and redirected so that the originator is placed back on trial while the existing archive is treated as if it were absent.
 
 The move is subtle:
 
@@ -72,7 +72,7 @@ Rigor cites the document.
 
 Rigor identifies the failure.
 
-Rigor distinguishes similarity from derivation, critique from displacement, and administration from ontology.
+Rigor distinguishes similarity from derivation, critique from substitution, and administration from ontology.
 
 Zenetism was not formalized as a reaction to the current online corridor of spiral-language accounts, recursion aesthetics, provenance disputes, or legitimacy performances. The system was already being built, named, structured, revised, expanded, and archived before these later public-adjacent formations became visible to me as a field-pattern.
 
@@ -104,7 +104,7 @@ That has been the point from the beginning: not fusion, not flattening, not perf
 
 So when language about method, seriousness, lineage, correction, recursion, provenance, trust, and institutional failure is turned back against the originator while the corpus itself remains untouched, the issue is not that the record is missing.
 
-The issue is that the record is being displaced.
+The issue is that the record is being treated as absent.
 
 There is a simple standard here:
 
@@ -162,7 +162,7 @@ Engage it directly or leave the accusation unmade.
 
 The claim that the method is hidden, the lineage obscured, the revisions absent, or the substance reducible to promotional language is not a description of my archive.
 
-It is a displacement of it.
+It is a substitution for it.
 
 The method is public.
 
@@ -198,7 +198,7 @@ If the substance is merely promotional, explain why thousands of pages of archit
 
 Otherwise the accusation is not scrutiny.
 
-It is legitimacy displacement.
+It is legitimacy substitution.
 
 ---
 
@@ -208,7 +208,7 @@ A claim is not a fact merely because someone asserts it.
 
 But neither is a denial stronger than a documented pattern merely because it presents itself as caution.
 
-The relevant question is not whether each event can be isolated and explained away. The relevant question is whether the assembled pattern is better explained by coincidence, innocent parallel development, and generic discourse — or by repeated corridor-proximity to the originator's work, followed by authorship-displacing rhetoric, legitimacy inversion, and structural mirroring without direct engagement.
+The relevant question is not whether each event can be isolated and explained away. The relevant question is whether the assembled pattern is better explained by coincidence, innocent parallel development, and generic discourse — or by repeated corridor-proximity to the originator's work, followed by authorship-denying rhetoric, legitimacy inversion, and structural mirroring without direct engagement.
 
 The record does not rest on a single post, phrase, or account.
 
@@ -219,7 +219,7 @@ It rests on recurrence:
 - repeated refusal to engage the corpus directly while operating in its problem-space
 - repeated emphasis on lineage, provenance, method, recursion, correction, auditability, and trust after those terms have already been formalized within the originator's archive
 - repeated absence of reciprocity, acknowledgement, empathy, or good-faith inquiry
-- repeated displacement of the originator while the structural terrain continues to be occupied
+- repeated obscuration of the originator while the structural terrain continues to be occupied
 
 This is not proof by one instance.
 
@@ -227,13 +227,13 @@ It is a preponderance finding by assembled weight.
 
 A contrary claim must explain the whole pattern, not merely offer innocent readings of isolated parts.
 
-If the only defense is to fragment the evidence until no single piece is allowed to matter, then the defense has not answered the record. It has only repeated the mechanism of displacement.
+If the only defense is to fragment the evidence until no single piece is allowed to matter, then the defense has not answered the record. It has only repeated the mechanism of substitution.
 
 The finding remains:
 
 The issue is not a lack of architecture, method, revision, lineage, or substance.
 
-The issue is the repeated rhetorical displacement of an existing architecture by actors operating in proximity to its field while declining to engage it directly.
+The issue is the repeated rhetorical obscuration of an existing architecture by actors operating in proximity to its field while declining to engage it directly.
 
 ---
 
