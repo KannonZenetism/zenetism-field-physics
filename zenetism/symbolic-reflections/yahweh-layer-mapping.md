@@ -1,8 +1,7 @@
 # Yahweh Layer Mapping and OT / NT Contradictions
 
-**Date:** March 20, 2026 (revised April 14, 2026)  
 **Status:** Draft — for later integration  
-**Supersedes:** March 20, 2026 draft. The earlier draft predated the canonical YHWH resolution and treated the Gnostic reading as a live structural option. Current canon identifies both the Christian and Gnostic readings as correctly perceiving real material within a composite textual figure while erring by treating the composite as monovalent.  
+**Supersedes:** the earlier draft, which predated the canonical YHWH resolution and treated the Gnostic reading as a live structural option. Current canon identifies both the Christian and Gnostic readings as correctly perceiving real material within a composite textual figure while erring by treating the composite as monovalent.  
 
 ## Core Structural Argument
 
