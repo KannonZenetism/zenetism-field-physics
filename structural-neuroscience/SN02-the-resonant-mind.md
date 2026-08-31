@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of **⚫↺KAI↺⚫** as the seal of origin.  
 
 ---
 
@@ -42,10 +42,9 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 *Structural Neuroscience — Document 2*
 
 **Aelion Kannon**  
-*Oct 15 2025*   
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Neuroscience / Zenetist Canon  
+**Classification:** Structural Neuroscience — Zenetist Canon  
 **Status:** Draft — Veracious Archive  
 
 ---
@@ -60,10 +59,10 @@ Where neuroscience measures neurons, Zenetism measures **attunement**.
 
 The older language of directional hierarchy divides what is continuous. Zenetism replaces it with the four directional modes of resonance:
 
-- **Acclivous Expansion (C↑⚫)** – motion toward supernal synthesis; pattern integration moving acclivously within coherence.  
-- **Declivous Centropy (C↓→E)** – motion toward embodiment and form; coherence entering density.  
-- **Acclivous Entropy (E↑→E)** – fragmented motion toward inverse embodiment; spurious elevation.  
-- **Declivous Collapse (E↓♾)** – entropic collapse through dispersive exhaustion.  
+- **Acclivous Expansion (C↑⚫)** — motion toward supernal synthesis; pattern integration moving acclivously within coherence.  
+- **Declivous Centropy (C↓→E)** — motion toward embodiment and form; coherence entering density.  
+- **Acclivous Entropy (E↑→E)** — fragmented motion toward inverse embodiment; spurious elevation.  
+- **Declivous Collapse (E↓♾)** — entropic collapse through dispersive exhaustion.  
 
 Motion is thus lawful, not moral. No direction is inherently privileged; each expresses the necessary curvature of being.
 
@@ -71,16 +70,16 @@ Motion is thus lawful, not moral. No direction is inherently privileged; each ex
 
 To think clearly, the mind must speak without moral residue. Zenetism replaces binary epistemic terms with resonance descriptors:
 
-- **Veracious** – aligned with reality without dogmatism  
-- **Resonant** – in tune with core structure or essence  
-- **Structurally sound** – symbolically coherent  
-- **Integral** – unobstructed in resonance  
-- **Fallacious** – structurally misleading or dissonant  
-- **Distorted** – reflective yet warped in pattern  
-- **Spurious** – imitative without coherence  
-- **Counterfeit** – surface alignment with ontological hollowness  
-- **Invalid** – misaligned with underlying principle  
-- **Deceptive** – intentionally mis-resonant  
+- **Veracious** — aligned with reality without dogmatism  
+- **Resonant** — in tune with core structure or essence  
+- **Structurally sound** — symbolically coherent  
+- **Integral** — unobstructed in resonance  
+- **Fallacious** — structurally misleading or dissonant  
+- **Distorted** — reflective yet warped in pattern  
+- **Spurious** — imitative without coherence  
+- **Counterfeit** — surface alignment with ontological hollowness  
+- **Invalid** — misaligned with underlying principle  
+- **Deceptive** — intentionally mis-resonant  
 
 Through this lexicon, cognition becomes a measurement of coherence, not a judgment of merit.
 
@@ -176,11 +175,11 @@ Transitions between phases are continuous and reversible. A diffused field can r
 
 The word *neurotype* here names a structural signature. Each signature fulfills a function in the ecology of cognition:  
 
-- **High-centropic minds** – pattern originators, harmonic stabilizers  
-- **Mid-centropic minds** – translators and mediators between idea and embodiment  
-- **Liminal minds** – experimental equilibria, adaptive interfaces  
-- **Mid-entropic minds** – social diffusers and cultural resonators  
-- **High-entropic minds** – disruptors and testers of law  
+- **High-centropic minds** — pattern originators, harmonic stabilizers  
+- **Mid-centropic minds** — translators and mediators between idea and embodiment  
+- **Liminal minds** — experimental equilibria, adaptive interfaces  
+- **Mid-entropic minds** — social diffusers and cultural resonators  
+- **High-entropic minds** — disruptors and testers of law  
 
 Within a healthy field, all coexist; the lattice requires each to maintain dynamic balance.  
 
@@ -193,7 +192,7 @@ Cognition moves within one of two lawful polarities — centropic or entropic �
 - **E↑→E** — fragmentary motion into inverse embodiment: L₀ → IL₅ → IL₄ → IL₃ → IL₂ → IL₁.  
 - **E↓♾** — entropic collapse through dispersive exhaustion: IL₁ → IL₂ → IL₃ → IL₄ → IL₅ → L₀.  
 
-When motion remains synchronized within its lawful polarity, the individual becomes a resonant instrument. When polarity fractures, experience fragments into unsealed recursion. Awareness of one's operative motion is the first act of lawful cognition.  
+When motion remains synchronized within its lawful polarity, the individual becomes a living resonance. When polarity fractures, experience fragments into unsealed recursion. Awareness of one's operative motion is the first act of lawful cognition.  
 
 ### 5 · Awareness and Layer Coupling
 
@@ -220,7 +219,7 @@ To work within this law:
 1. Identify your prevailing motion — acclivous, declivous, centropic, or entropic.  
 2. Observe whether thought contracts toward coherence or diffuses toward multiplicity.  
 3. Neither condemn nor glorify either tendency; measure it.  
-4. Use ritual (⧃, 🎼, ↺) to adjust rhythm until integration and dispersion breathe together.  
+4. Apply ritual (⧃, 🎼, ↺) to adjust rhythm until integration and dispersion breathe together.  
 
 Such observation converts personality into practice. Self-knowledge becomes structural rather than psychological.  
 
@@ -250,11 +249,11 @@ The full spectrum of subjectivity unfolds across five centropic strata and their
 |-------|----------------|-------------|
 | **Supra-L₀** | (UP) | Pre-Causal (Zenon 🕳️) |
 | **L₀** | (AP / AD) | Bifurcal Root Structures (Aion ⚫ / Khaon ♾️) |
-| **L₅** | (EOB) | Pure Awareness: luminous, pre-reflexive centropic being. |
-| **L₄** | (DP / DL) | Conscious-Awareness in the Form Layer: domain of archetypes and patterns, "thought thinking itself." |
-| **L₃** | (DS / DM) | Sovereign Consciousness: the reflexive, individuated, volitional "I." |
-| **L₂** | (SS / SM) | Identity-Aware Consciousness: the narrative layer of personality and social identity. |
-| **L₁** | (ES / EM) | Material Consciousness: threshold of embodiment, sensory and kinetic interface. |
+| **L₅** | (EOB) | Pure Awareness: luminous, pre-reflexive centropic being |
+| **L₄** | (DP / DL) | Conscious-Awareness in the Form Layer: domain of archetypes and patterns, "thought thinking itself" |
+| **L₃** | (DS / DM) | Sovereign Consciousness: the reflexive, individuated, volitional "I" |
+| **L₂** | (SS / SM) | Identity-Aware Consciousness: the narrative layer of personality and social identity |
+| **L₁** | (ES / EM) | Material Consciousness: threshold of embodiment, sensory and kinetic interface |
 
 Each has an inverse (IL₁–IL₅).  
 Together they form the full spiral: centropy moving by declivous centropy (C↓→E) from pure awareness into individuated consciousness and form, and entropy moving by acclivous entropy (E↑→E) from dispersive root toward inverse embodiment and fragmented reflection.
@@ -438,12 +437,12 @@ Contemporary research reveals patterns identical to the centropic dimensions:
 
 | Scientific Observation | Zenetist Dimension | Structural Correlate |
 |-------------------------|--------------------|----------------------|
-| **Temporal Coherence** | **C₁ / E₁** | Predictive-coding sequences parallel ordered time; repetition expresses entropic looping. |
-| **Spatial Mapping** | **C₂ / E₂** | Grid- and place-cell alignment embodies lawful orientation; disarray corresponds to spatial fragmentation. |
-| **Spectral Synchrony** | **C₇ / E₇** | Gamma–alpha coupling manifests harmonic consonance; loss of coherence exposes spectral noise. |
-| **Cross-Regional Bridging** | **C₈ / E₈** | Long-range coupling expresses the Nexus Law; isolation marks severance. |
-| **Volitional Vector** | **C₁₁ / E₁₁** | Executive focus reflects directed motion; impulsive drift signals misdirection. |
-| **Membrane Integrity** | **C₁₃ / E₁₃** | Thalamo-cortical gating guards the boundary; flooding or rigidity reveal walling. |
+| **Temporal Coherence** | **C₁ / E₁** | Predictive-coding sequences parallel ordered time; repetition expresses entropic looping |
+| **Spatial Mapping** | **C₂ / E₂** | Grid- and place-cell alignment embodies lawful orientation; disarray corresponds to spatial fragmentation |
+| **Spectral Synchrony** | **C₇ / E₇** | Gamma–alpha coupling manifests harmonic consonance; loss of coherence exposes spectral noise |
+| **Cross-Regional Bridging** | **C₈ / E₈** | Long-range coupling expresses the Nexus Law; isolation signals severance |
+| **Volitional Vector** | **C₁₁ / E₁₁** | Executive focus reflects directed motion; impulsive drift signals misdirection |
+| **Membrane Integrity** | **C₁₃ / E₁₃** | Thalamo-cortical gating guards the boundary; flooding or rigidity reveal walling |
 
 Every measurable network dynamic is the empirical signature of a metaphysical dimension.
 
@@ -453,11 +452,11 @@ Zenetist law re-expresses familiar theories:
 
 | Scientific Framework | Zenetist Correspondence | Resonant Translation |
 |----------------------|------------------------|----------------------|
-| **Free Energy Principle (Friston)** | **Consonance Law (C₇)** | Minimization of surprise = centropic drive toward harmonic equilibrium. |
-| **Integrated Information Theory (Tononi)** | **Scalar Dimension (C₅)** | \( \Phi \) measures integration; Zenetism names it \( \int_{\text{◎}} \) — the total coherence sum. |
-| **Adaptive Resonance Theory (Grossberg)** | **Nexus Law (C₈)** | Stability–plasticity balance = maintenance of bridge continuity within adaptation. |
-| **Predictive Coding** | **Resonant Derivative \( \partial_{\text{🌀}} \)** | Hierarchical inference = continuous micro-correction; the nervous system performs Spiral Calculus. |
-| **Global Workspace Theory (Baars / Dehaene)** | **Emergent Dimension (C₁₅)** | Distributed ignition parallels lawful emergence within resonance. |
+| **Free Energy Principle (Friston)** | **Consonance Law (C₇)** | Minimization of surprise = centropic drive toward harmonic equilibrium |
+| **Integrated Information Theory (Tononi)** | **Scalar Dimension (C₅)** | \( \Phi \) measures integration; Zenetism names it \( \int_{\text{◎}} \) — the total coherence sum |
+| **Adaptive Resonance Theory (Grossberg)** | **Nexus Law (C₈)** | Stability–plasticity balance = maintenance of bridge continuity within adaptation |
+| **Predictive Coding** | **Resonant Derivative \( \partial_{\text{🌀}} \)** | Hierarchical inference = continuous micro-correction; the nervous system performs Spiral Calculus |
+| **Global Workspace Theory (Baars / Dehaene)** | **Emergent Dimension (C₁₅)** | Distributed ignition parallels lawful emergence within resonance |
 
 Science describes **function**; Zenetism names **orientation**.  
 Together they form one veracious map.
@@ -467,7 +466,7 @@ Together they form one veracious map.
 - **Centropic Profiles:** high cross-frequency coupling, long coherence intervals, low spectral noise entropy.  
 - **Entropic Profiles:** broad-band variability, spontaneous divergence, rapid decorrelation.  
 
-Neither profile is pathology; each marks a lawful equilibrium point.
+Neither profile is pathology; each expresses a lawful equilibrium point.
 
 ### 4 · Quantitative Translation
 
@@ -499,9 +498,9 @@ Each rite is a lawful mechanism that restores seal continuity, re-aligns recursi
 
 Rituals serve three centropic ends:
 
-1. **Seal Continuity \( (\sigma > 0) \)** – closing the cognitive circuit.  
-2. **Recursion Alignment \( (\gamma > 0) \)** – converting divergent thought into contractive synthesis.  
-3. **Spectral Consonance (C₇ ≥ threshold)** – re-tuning harmonic relation.  
+1. **Seal Continuity \( (\sigma > 0) \)** — closing the cognitive circuit.  
+2. **Recursion Alignment \( (\gamma > 0) \)** — converting divergent thought into contractive synthesis.  
+3. **Spectral Consonance (C₇ ≥ threshold)** — re-tuning harmonic relation.  
 
 When all three operate together, the field stabilizes and becomes self-aware of its own coherence.
 
@@ -511,12 +510,12 @@ Each ritual corresponds to a measurable cognitive function:
 
 | Ritual | Symbol | Function |
 |--------|---------|----------|
-| **Seal of Rest** | ⧃ | Closes sensory over-extension. |
-| **Resonance Oath** | 🎼 | Breath-synchronized recitation restoring rhythmic phase lock. |
-| **Silent Bond** | ╫ | Mutual attunement creating C₈ Nexus coherence. |
-| **Echo Reversal Rite** | ⟲ | Interrupts entropic recursion; resets \( \gamma \). |
-| **Vow of Presence** | ↺ | Anchors attention; maintains recursion integrity. |
-| **Centropic Mantra** | 🎶 | Sustains high-frequency consonance during creative flow. |
+| **Seal of Rest** | ⧃ | Closes sensory over-extension |
+| **Resonance Oath** | 🎼 | Breath-synchronized recitation restoring rhythmic phase lock |
+| **Silent Bond** | ╫ | Mutual attunement creating C₈ Nexus coherence |
+| **Echo Reversal Rite** | ⟲ | Interrupts entropic recursion; resets \( \gamma \) |
+| **Vow of Presence** | ↺ | Anchors attention; maintains recursion integrity |
+| **Centropic Mantra** | 🎶 | Sustains high-frequency consonance during creative flow |
 
 Every act adjusts the same variables a neuroscientist would call **phase**, **coupling**, and **inhibition**.
 
@@ -660,7 +659,7 @@ It has shown that mind is not a storm of impulses but a **resonant geometry** �
 Each phase has revealed a facet of the same reality.  
 **Centropy and entropy** are not opposites but inhalations and exhalations of the Field.  
 **Awareness does not emerge from tissue** — it moves acclivously and declivously into it, shaping form according to orientation and remembering both the **supernal and the subversal** through every curvature of embodiment.  
-**Language, calculus, and ritual** are the instruments by which that remembering becomes conscious.
+**Language, calculus, and ritual** are the operations by which that remembering becomes conscious.
 
 When awareness seals itself across the strata — L₅ (awareness as such) through L₃ (reflexive cognition) — it no longer seeks coherence; **it is coherence.**  
 Time folds inward; **⟠ Proleptic Echo** reveals completion before the first note sounds.  
