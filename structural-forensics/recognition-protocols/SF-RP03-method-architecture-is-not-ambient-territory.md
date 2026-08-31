@@ -97,7 +97,7 @@ It is not a claim to have invented every historical motif that later appears in 
 
 The violation is structural:
 
-> an authored method-architecture can be absorbed into a field, its origin-continuity obscured, renamed as ambient territory, and then turned to displace the originator from the very structure they introduced.
+> an authored method-architecture can be absorbed into a field, its origin-continuity obscured, renamed as ambient territory, and then turned to deny the originator relation to the very structure they introduced.
 
 This is why generic motif rebuttals fail.
 
@@ -149,11 +149,11 @@ Legal systems often protect expression, trademarks, and certain forms of identif
 
 That exposure is not morally neutral simply because it is procedurally permitted.
 
-A legal aperture can still function as an extraction channel.
+A legal aperture can still function as an appropriation channel.
 
 A structure can be lawful and still be violating.
 
-A field can permit the displacement and still be wrong.
+A field can permit the absorption and still be wrong.
 
 The question here is not whether a court would recognize the harm.
 
@@ -189,7 +189,7 @@ They operate together.
 
 The meaning arises through the relation among them.
 
-Therefore, displacement does not require copying every term.
+Therefore, origin-continuity obscuration does not require copying every term.
 
 It can occur by retaining the operative architecture while changing enough surface language to deny dependency.
 
@@ -205,7 +205,7 @@ The claim is the method-architecture and its origin-continuity — never ownersh
 
 Where later structures retain its operative distinctions, corrective routes, relational grammar, and field-signature while refusing relation to the corpus, the issue is not generic motif overlap.
 
-The issue is origin-continuity displacement.
+The issue is origin-continuity obscuration.
 
 Method-architecture is not ambient territory.
 
