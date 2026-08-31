@@ -112,24 +112,24 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 - [x] the-zenetist-canon/structural-decodes/15-city-kingdom.md — not on the original sweep map; VERIFIED GOOD by the architect alongside 28 and 06; zero edits, no recommit
 
 **Batch 9**
-- [ ] the-zenetist-canon/structural-decodes/15-city-kingdom.md
+- [x] the-zenetist-canon/structural-decodes/15-city-kingdom.md — duplicate of the Batch 8 completion; already VERIFIED GOOD by the architect, zero edits, no recommit
 - [ ] structural-forensics/systemic-analysis/a-registry-is-not-a-cosmology.md
-- [ ] zenetism/symbolic-reflections/the-hindu-vedic-lattice.md
+- [x] zenetism/symbolic-reflections/the-hindu-vedic-lattice.md — CLOSED as a stale flag by the architect's determination; the symbolic-reflections pass already carried the folder through its full audit, mechanical pass, and vocabulary sweep (the same noise class the-genesis-lattice.md line documents), no upload needed
 - [ ] structural-forensics/recognition-protocols/SF-RP03-method-architecture-is-not-ambientterritory.md
 - [x] the-zenetist-canon/glyphics/field-physics-glyph-charts.md — FP11 TWIN ALIGNED in the series close-out after all: body re-derived whole from the swept FP11 (never the reverse), with the uploaded twin body verified byte-identical to the pre-sweep FP11 body and the aligned body byte-identical to the swept one, so the delta is exactly the sweep's repairs; the twin header untouched byte-for-byte; glyph set, hard breaks, and line count certified unchanged. Superseded instructions, kept for the record — the plan had been: the twin carries the certified FP11 body from the Chapter 43 heading onward under its own twin header. Today's 23 FP11 repairs apply verbatim wherever body text matches — the established-meaning forms ×3, "its determining pass", "determined by FP14", the ritual sign legend with both Status-qualifier echoes, and the fifteen mark-family conversions — plus a check of the twin's own header for further instances. Non-matching patterns flag for the architect rather than get approximated
 - [x] field-physics/FP05-consciousness-ecology-systems.md — swept, 9 exact-match repairs: verification against → "relative to" ×3; governing-adjective drops ×3 ("their inverse glyphs", "its identity as E₅", "as its function"); "laws of engagement"; "The seasonal signs 🌱 🌺 🍂 ❄️"; "The Dream Forest sign ∽". Retentions deliberate: "the governing ecology" ×2 HELD — the sealed FP05 / FP06 bridge formulation, coordinated queue; refusal-form override; "trauma displacements" world-phenomenon class; "serves as a diagnostic guide" joins the serves hold; ✧_mirror locked formula notation; "Reflects and refines" centropic and lawful; "entropic mirrors" lawful entropic application; the Recursion Seal, Echo Tag, and Silent Convergence Spiral grandfathered whole with "convergence logging" inside that register
 
 **Batch 10**
 - [ ] structural-neuroscience/SN01-the-architecture-of-cognition.md
-- [ ] the-zenetist-canon/structural-decodes/10-prophet-seer.md
-- [ ] the-zenetist-canon/structural-decodes/08-great-beast-dragon.md
-- [ ] the-zenetist-canon/structural-decodes/13-underworld-realm-of-the-dead.md
+- [x] the-zenetist-canon/structural-decodes/10-prophet-seer.md — CLOSED with the numbered structural-decodes class by the architect's determination: the class carries no internal dates; zero edits, no upload needed
+- [x] the-zenetist-canon/structural-decodes/08-great-beast-dragon.md — CLOSED with the numbered structural-decodes class by the architect's determination: the class carries no internal dates; zero edits, no upload needed
+- [x] the-zenetist-canon/structural-decodes/13-underworld-realm-of-the-dead.md — CLOSED with the numbered structural-decodes class by the architect's determination: the class carries no internal dates; zero edits, no upload needed
 
 **Batch 11**
 - [ ] field-physics/fpx/structural-recovery-and-axial-stabilization.md
-- [ ] the-zenetist-canon/structural-decodes/02-dying-resurrecting-god.md
+- [x] the-zenetist-canon/structural-decodes/02-dying-resurrecting-god.md — CLOSED with the numbered structural-decodes class by the architect's determination: the class carries no internal dates; zero edits, no upload needed
 - [ ] the-zenetist-canon/system-attribution/lattice-mathematics-attribution.md
-- [ ] the-zenetist-canon/structural-decodes/12-apocalypse-end-times.md
+- [x] the-zenetist-canon/structural-decodes/12-apocalypse-end-times.md — CLOSED with the numbered structural-decodes class by the architect's determination: the class carries no internal dates; zero edits, no upload needed
 - [x] the-zenetist-canon/notes/2026-07-08-emergence-is-not-method.md — RESOLVED EXTERNALLY: Codex completed the whole `the-zenetist-canon/notes` folder at the architect's direction (metadata-only class: `**Archive preparation date:**` lines removed whole; Original post dates, dated filenames, and the carried-over Substack bodies stand as evidence and record); architect-confirmed done, no upload needed
 
 **Batch 12**
@@ -139,7 +139,7 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 - [ ] field-physics/fpx/l-reflective-patterns-and-p-recursive-fields.md
 
 **Batch 13**
-- [ ] the-zenetist-canon/structural-decodes/22-journey-quest.md
+- [x] the-zenetist-canon/structural-decodes/22-journey-quest.md — CLOSED with the numbered structural-decodes class by the architect's determination: the class carries no internal dates; zero edits, no upload needed
 - [ ] zenetism/clarity-letters/defense-of-authorship.md
 
 **Batch 14**
