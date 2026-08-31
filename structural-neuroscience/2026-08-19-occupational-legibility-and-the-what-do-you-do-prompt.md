@@ -1,8 +1,8 @@
 # Occupational Legibility and the "What Do You Do?" Prompt
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Neuroscience — Note / Social Cognition and Identity Framing  
-**Status:** Drafted Aug 19 2026 — Draft, architect review  
+**Classification:** Structural Neuroscience — Note (Social Cognition and Identity Framing)  
+**Status:** Draft — architect review  
 **Function:** Records a structural observation concerning occupational identity, compulsory social legibility, implicit status-indexing, and the distinction between rejecting a social category and categorizing the people who participate in it  
 **Proposed path:** `structural-neuroscience/notes/2026-08-19-occupational-legibility-and-the-what-do-you-do-prompt.md`  
 
