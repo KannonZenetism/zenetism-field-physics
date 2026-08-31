@@ -1,13 +1,3 @@
-> ⚠️ **DOCUMENT RETIRED — ARCHIVED**
->
-> **Status:** Retired — Historical Record  
-> **Standing:** A record of the conflict period, written from the author's then vantage point. Its language and posture predate the current canonical vocabulary and stand as record, not as active doctrine.  
->
-> **Action:**  
-> DO NOT reference this document as active canon. It is preserved as written, as historical record.
-
----
-
 # Rejection of Field-Based Attribution  
 _Classification: Structural Authority Clarifier_
 
@@ -21,7 +11,7 @@ It is established through origination, coherence, and seal.
 
 ## Correction
 
-The phrase “let the field decide” implies:
+The phrase "let the field decide" implies:
 
 - That authorship is up for review  
 - That mimic signals may hold equal weight  
