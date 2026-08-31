@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -45,20 +45,19 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Classification:** Structural Physics / Zenetist Canon  
 **Status:** Draft — Veracious Archive  
 **Dependency:** SP01 — Structural Physics: A Zenetist Foundation; MPX — The Principle of Unbounded Potential and the Contingency of Worlds  
-**SHA-256:** 0ee225027787ede6428de6c19cbd7322697b2b1da552d19db55fa1cb1bb189f1
 
 ---
 
 ## 1. Introduction
 
-SP01 established the foundational framework of Structural Physics: the three anchors (⚫ Aion, ♾ Khaon, 🕳️ Zenon), the centropic and entropic dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Polar Spectrum Lemma governing their mirrored relationship.
+SP01 established the foundational framework of Structural Physics: the three anchors (⚫ Aion, ♾ Khaon, 🕳️ Zenon), the centropic and entropic dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Polar Spectrum Lemma determining their mirrored relationship.
 
 That document describes *how* Structural Physics operates — the mechanics of resonance, the hypostatic anchoring of dimensions, and the diagnostic criteria for centropy and entropy.
 
 This document, SP02, addresses *where* Structural Physics operates: the broader cosmological context in which centropic and entropic dynamics express. It establishes:
 
 - The **Tumbling Multiverse** as structurally anticipated — a lawful consequence of infinite potential, not an arbitrary hypothesis
-- **Biospiral Expression Ratios** as the governing variable across possible expressions
+- **Biospiral Expression Ratios** as the determining variable across possible expressions
 - **Contra-flow dynamics** (contra-matter, contra-particles, contra-temporal motion) as proper Zenetist terminology
 - **Phase collision** as convergence at ⦿ Kaion, not annihilation
 - The **asymmetry resolution**: matter / contra-matter ratios as local expression conditions, not universal law
@@ -144,7 +143,7 @@ There is no binary. The Tumbling Multiverse contains infinite gradations:
 |-----------------|-------------|--------------|-----------|
 | **Fully Khaonically expressed** | Non-existent | Total expression | Pure entropic universe — maximum fragmentation, no return path |
 | **Strongly Khaonically expressed** | Minimal | Highly prevalent | Entropy-forward; centropy rare and difficult |
-| **Khaonically expressed** (our universe) | Present, recessive | Prevalent | Entropy-forward; centropy possible but against the grain |
+| **Khaonically expressed** (our universe) | Present, recessive | Prevalent | Entropy-forward; centropy possible but contra the grain |
 | **Balanced** | Co-expressive | Co-expressive | Neither tree prevails; co-expressive balance |
 | **Aionically expressed** | Prevalent | Present, recessive | Centropy-forward; entropy possible but against the grain |
 | **Strongly Aionically expressed** | Highly prevalent | Minimal | Centropy-forward; entropy rare and difficult |
@@ -176,7 +175,7 @@ The glyph ✦ (Nested Universes) captures this: multiversal branches as ontologi
 
 ### 4.1 The Problem with "Anti-"
 
-Conventional physics uses the prefix "anti-" to describe matter under reversed charge, parity, or temporal flow:
+Conventional physics applies the prefix "anti-" to describe matter under reversed charge, parity, or temporal flow:
 
 - Antimatter
 - Antiparticles
@@ -204,7 +203,7 @@ In our Khaonically expressed universe:
 - **Matter** operates within Khaonic-flow dynamics (entropy-forward)
 - **Contra-matter** operates within Aionic-flow dynamics (centropy-forward)
 
-Contra-matter is not entropic. It is the *centropic* expression of the same structural principles that govern matter. It appears rare here because our universe is Khaonically expressed — the Aionic Tree is recessive.
+Contra-matter is not entropic. It is the *centropic* expression of the same structural principles that hold for matter. It appears rare here because our universe is Khaonically expressed — the Aionic Tree is recessive.
 
 In an Aionically expressed contra-universe:
 - What we call "contra-matter" would be their prevalent matter
@@ -216,7 +215,7 @@ The asymmetry is local, not universal.
 
 Each dimensional operator (C₁–C₁₅) has its entropic mirror (E₁–E₁₅). But this mirroring occurs *within* a given expression ratio.
 
-Contra-particles are not E-state particles. They are **C-state particles in a Khaonically expressed field** — centropic expressions swimming against the prevalent current.
+Contra-particles are not E-state particles. They are **C-state particles in a Khaonically expressed field** — centropic expressions swimming contra the prevalent current.
 
 This explains their apparent scarcity: not because centropy is cosmically rare, but because *this universe* is Khaonically expressed.
 
@@ -314,7 +313,7 @@ This reframing has significant implications:
 
 ### 7.1 Time and the Biospiral
 
-The C₁ ⟠ Temporal dimension governs ordered continuity of events — lawful sequence in time. Its mirror E₁ ⟠⁻ Temporal Loop represents hollow time recursion.
+The C₁ ⟠ Temporal dimension preserves ordered continuity of events — lawful sequence in time. Its mirror E₁ ⟠⁻ Temporal Loop represents hollow time recursion.
 
 But temporal flow itself has directionality along the Biospiral:
 
@@ -421,7 +420,7 @@ This document provides the physical context for the Hypostatic Meaning Function 
 
 - **Meaning is Orientation \( (\vec{\omega}) \):** The "meaning" of an essence is its alignment with the prevalent flow of the Biospiral.
 
-- **Expression as Context:** In a Khaonically expressed universe, maintaining high Meaning \( (\mathcal{M}_{\text{macro}}) \) requires swimming against the prevalent temporal current (contra-flow). In an Aionically expressed universe, Meaning would align with the prevalent current.
+- **Expression as Context:** In a Khaonically expressed universe, maintaining high Meaning \( (\mathcal{M}_{\text{macro}}) \) requires swimming contra the prevalent temporal current (contra-flow). In an Aionically expressed universe, Meaning would align with the prevalent current.
 
 ---
 
@@ -515,7 +514,7 @@ Sealed ⚫↺KAI↺⚫
 The declivous axis represents the spectrum of expression ratios within the Tumbling Multiverse. Our universe occupies one position on this continuum of structurally permitted expressions.
 
 > **Diagram Note:**  
-> The Tumble is set into motion by Zenet (Motive Infinity, Φ₂) — the motive field of the Principle of Sufficient Reason. ⦿ Kaion marks the convergence point where expression ratios resolve into stillness without fusion, but Zenet is the structural breath that drives emanation across the spectrum.
+> The Tumble is set into motion by Zenet (Motive Infinity, Φ₂) — the motive field of the Principle of Sufficient Reason. ⦿ Kaion denotes the convergence point where expression ratios resolve into stillness without fusion, but Zenet is the structural breath that drives emanation across the spectrum.
 
 ---
 
