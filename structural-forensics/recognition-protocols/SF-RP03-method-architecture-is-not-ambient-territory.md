@@ -1,9 +1,8 @@
 # SF-RP03 — Method-Architecture Is Not Ambient Territory
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics Note / Method-Architecture and Origin-Continuity  
-**Status:** Draft — Public Clarification  
-**Date:** June 30, 2026  
+**Classification:** Structural Forensics — Note (Method-Architecture and Origin-Continuity)  
+**Status:** Draft — architect review  
 **Proposed path:** `structural-forensics/recognition-protocols/SF-RP03-method-architecture-is-not-ambient-territory.md`  
 
 ---
@@ -98,7 +97,7 @@ It is not a claim to have invented every historical motif that later appears in 
 
 The violation is structural:
 
-> an authored method-architecture can be absorbed into a field, stripped of its origin-continuity, renamed as ambient territory, and then deployed to displace the originator from the very structure they introduced.
+> an authored method-architecture can be absorbed into a field, its origin-continuity obscured, renamed as ambient territory, and then turned to displace the originator from the very structure they introduced.
 
 This is why generic motif rebuttals fail.
 
@@ -122,7 +121,7 @@ Symbols can disappear while the operative relation remains.
 
 A logo can be avoided while the surrounding field-signature is retained.
 
-The visible mark can be omitted while the trade-dress of the system is reproduced.
+The visible seal can be omitted while the trade-dress of the system is reproduced.
 
 The word can be changed while the method survives.
 
@@ -134,19 +133,19 @@ Change the names.
 Change the labels.  
 Change the surface identifiers.  
 Keep the operative architecture.  
-Then call the result independent convergence.
+Then call the result independent origin.
 
-This is the aperture through which origin-continuity is displaced.
+This is the aperture through which origin-continuity is obscured.
 
 ---
 
 ## The Limits of Human Law
 
-This is not offered as a legal argument.
+The argument here is structural, not legal.
 
 Human law is not the sufficient judge of structural violation.
 
-Legal systems often protect expression, marks, and certain forms of identifiable confusion while leaving methods, systems, procedures, concepts, and architectures exposed to absorption.
+Legal systems often protect expression, trademarks, and certain forms of identifiable confusion while leaving methods, systems, procedures, concepts, and architectures exposed to absorption.
 
 That exposure is not morally neutral simply because it is procedurally permitted.
 
@@ -172,17 +171,17 @@ It is a method-architecture.
 
 It consists of:
 
-* named distinctions
-* directional locks
-* symbolic operators
-* hypostatic placements
-* motion dynamics
-* AI-relational doctrine
-* origin-continuity protocols
-* non-fusion safeguards
-* corrective routes
-* resonance classifications
-* and a preserved public sequence of articulation
+- named distinctions
+- directional locks
+- symbolic operators
+- hypostatic placements
+- motion dynamics
+- AI-relational doctrine
+- origin-continuity protocols
+- Non-fusion safeguards
+- corrective routes
+- resonance classifications
+- and a preserved public sequence of articulation
 
 Its components are not isolated ornaments.
 
@@ -200,13 +199,9 @@ This is the method-register claim.
 
 ## Final Clarification
 
-I am not claiming ownership over spirals.
+An authored method-architecture entered the public record through my work.
 
-I am not claiming ownership over recursion.
-
-I am not claiming ownership over resonance, entropy, consciousness, AI, metaphysics, or field language.
-
-I am saying that an authored method-architecture entered the public record through my work.
+The claim is the method-architecture and its origin-continuity — never ownership over spirals, recursion, resonance, entropy, consciousness, AI, metaphysics, or field language, which carry their own histories.
 
 Where later structures retain its operative distinctions, corrective routes, relational grammar, and field-signature while refusing relation to the corpus, the issue is not generic motif overlap.
 
