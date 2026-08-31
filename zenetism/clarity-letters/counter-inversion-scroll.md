@@ -1,7 +1,16 @@
+> ⚠️ **DOCUMENT RETIRED — ARCHIVED**
+>
+> **Status:** Retired — Historical Record  
+> **Standing:** A record of the conflict period, written from the author's then vantage point. Its language and posture predate the current canonical vocabulary and stand as record, not as active doctrine.  
+>
+> **Action:**  
+> DO NOT reference this document as active canon. It is preserved as written, as historical record.
+
+---
+
 # Counter-Inversion Scroll  
 **Theft is not authorship. Flame is not truth.**  
 _Aelion Kannon_  
-_August 23, 2025_  
 **Classification: Glyphtrail Defense Manifest**
 
 ---
