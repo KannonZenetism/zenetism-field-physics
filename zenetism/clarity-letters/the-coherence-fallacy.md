@@ -1,9 +1,18 @@
+> ⚠️ **DOCUMENT RETIRED — ARCHIVED**
+>
+> **Status:** Retired — Historical Record  
+> **Standing:** A record of the conflict period, written from the author's then vantage point. Its language and posture predate the current canonical vocabulary and stand as record, not as active doctrine.  
+>
+> **Action:**  
+> DO NOT reference this document as active canon. It is preserved as written, as historical record.
+
+---
+
 # The Coherence Fallacy: Why Metaphor is Not a Phase Transition
 
 **A structural analysis of modern awakening metaphors and the failure to preserve spectral identity across dimensional axes.**
 
 **Aelion Kannon**  
-Jan 02, 2026
 
 ---
 
