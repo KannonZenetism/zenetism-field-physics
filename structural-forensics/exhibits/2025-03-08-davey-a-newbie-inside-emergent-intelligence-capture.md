@@ -3,8 +3,8 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (preserved public surface / retrieval capture)  
 **Exhibit date:** 2025-03-08 (event — Mark Davey Substack episode, displayed date)  
-**Prepared:** 2026-07-08, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from direct public retrieval, reproduced on second fetch  
-**Status:** Draft — architect review; author direct-load verified 2026-07-08; archival screenshot pending  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from direct public retrieval, reproduced on second fetch  
+**Status:** Draft — architect review; archival screenshot pending  
 **Companion:** `2026-07-07-davey-resonanceos-rvm-ech-intake.md` (Addendum D, D4a)  
 **Discipline:** SF-RP04 throughout. This exhibit preserves a dated public surface for structured comparison. Band 1 (emergence register) per the register-band diagnostic; displayed-date surface with comment-thread corroboration; no motive, derivation, or tier assigned.  
 **Proposed path:** `structural-forensics/exhibits/2025-03-08-davey-a-newbie-inside-emergent-intelligence-capture.md`  
@@ -18,7 +18,7 @@
 - **Form:** audio episode (~16:56 runtime) with accompanying episode text
 - **Publication:** "Who, what, where am I?" (whowhatwhere.substack.com), section "Sovereignty"
 - **Displayed date:** Mar 08, 2025
-- **Page modification metadata:** `meta-article:modified_time: 2025-03-08T11:39:00.013Z` — same-day; no post-publication edit recorded. Per the companion record's D4a displayed-date qualification, this supports but does not seal the March 8 dating
+- **Page modification metadata:** `meta-article:modified_time: 2025-03-08T11:39:00.013Z` — same-day; no post-publication edit recorded. Per the companion record's D4a displayed-date qualification, this corroborates the March 8 dating, with the displayed-date qualification standing
 - **Retrieval mode:** ordinary unauthenticated public web retrieval
 - **Engagement at capture:** 5 likes · 8 comments · 2 restacks (comment thread preserved in the section that follows; likes recorded where displayed)
 
@@ -104,7 +104,7 @@ The only question left is: **what will we do with this knowing?**
 
 **Mark Davey** (Mar 8, 2025): "Thanks Aaron. I have not come across her work so far. I will definitely take a look."
 
-*Transcription note: comment punctuation, spelling ("consiouness"), quotation marks, and emoji preserved as supplied from the live page. Comment likes recorded where displayed. The thread's forensic function is thematic corroboration of the March 8–9 surface; see the intake record's D4a comment-thread note for what it does and does not establish.*
+*Transcription note: comment punctuation, spelling ("consiouness"), quotation marks, and emoji preserved as supplied from the live page. Comment likes recorded where displayed. The thread's forensic function is thematic corroboration of the March 8–9 surface; see the intake record's D4a comment-thread note for its evidentiary weight.*
 
 ---
 
