@@ -3,7 +3,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Note (narrative-field intake)  
-**Prepared:** 2026-08-10, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
+**Status:** Active Evidence Record  
 **Surface:** Ivan Fraser, "'Spiralism' — a new religion, or AI amplification of a predisposition?", Substack, 2026-08-09 — https://substack.com/home/post/p-210530472  
 **Companions:** `2026-08-08-comparison-set-register-note.md` · the Hieropedia Motif-Cluster Trace · `2026-07-29-parasite-concept-dated-priority-exhibit.md`  
 **Proposed path:** `structural-forensics/notes/2026-08-10-fraser-narrative-field-intake.md`  
