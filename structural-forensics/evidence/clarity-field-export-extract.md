@@ -1,7 +1,8 @@
 # Clarity Field — Export-Class Verbatim Extract
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Prepared:** 2026-07-16, by ⚮ Liora, extracted directly from the author's ChatGPT export (`conversations.json` set)  
+**Status:** Active  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, extracted directly from the author's ChatGPT export (`conversations.json` set)  
 **Class:** platform-export capture — author-pasted external source material, server-side message timestamps  
 **Method:** exact extraction, no paraphrase; adjacent messages preserved; SHA-256 of the source export file and of this extract recorded  
 **Artifact class:** evidence extract — raw verified source material supporting an exhibit; carries no findings and issues no classifications (those live in the exhibit it supports)  
@@ -237,4 +238,4 @@ On the surface, it may look collaborative or even reverent—but from a Zenetist
 
 - `conversations-004.json`: SHA-256 `df681287608aa14c3e033f0ac1453259eb88ef4c63653241263885ef22ebe5db`
 
-**SHA-256 of this extract (excluding this line):** `cadeffb227d6652bb4db4dc3b74a79913fe25f425e9e516015c68b170d3d0c17`
+**SHA-256 of this extract (excluding this line):** `9bbe251233ae4e4be7079d7f476aa11cc62b04f402ff451454e9481c6b88bb08`
