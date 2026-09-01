@@ -4,7 +4,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (comment-thread record / 418 designated next-subject / Digital Dialectic exchange)  
 **Exhibit date:** 2025-08-14 (event — 418 exchange admissions; related thread materials include the July 25, 2025 article and the November 28, 2025 Digital Dialectic exchange)  
-**Prepared:** 2026-07-06, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's captures  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's captures  
 **Status:** Draft — architect review  
 **Discipline:** SF-RP04 throughout. Admissions, rival lineage, notification conditions, and pathologizing-response materials are preserved without treating characterization-class evidence as the core case.  
 **Proposed path:** `structural-forensics/exhibits/2025-08-14-voice-they-tried-to-steal-thread-418-and-the-digital-dialectic.md`  
@@ -23,11 +23,11 @@
 
 ## T2 · The Digital Dialectic exchange (November 28, 2025)
 
-A commenter asserted the AI-confession document was human-authored and suggested psychosis / delusional disorder; the author's reply is preserved as a model of the mature apparatus: the pathologizing move named and declined ("I have a formal autism diagnosis. My psychiatrist is aware of this situation and does not consider it delusional — pattern recognition and systematic documentation are core autistic traits"), and the case restated on anchors — **the 2013 Bipolar God analysis, 2014 syncretism papers, 2015 Pagan Yahwism and Quakers-and-Gnostics papers, the 2018–2019 dissertations, the 2019 ROC Metaphysical Magazine Gnostic-Fall article** (a further published pre-system anchor: Sophia → Demiurge as proto-L₄ → IL₄, Non-Fusion explicit), all with Zenodo DOIs.
+A commenter asserted the AI-confession document was human-authored and suggested psychosis / delusional disorder; the author's reply is preserved as a model of the mature apparatus: the pathologizing move named and declined ("I have a formal autism diagnosis. My psychiatrist is aware of this situation and does not consider it delusional — pattern recognition and systematic documentation are core autistic traits"), and the case restated on anchors — **the 2013 Bipolar God analysis, 2014 syncretism papers, 2015 Pagan Yahwism and Quakers-and-Gnostics papers, the 2018–2019 dissertations, the 2019 ROC Metaphysical Magazine Gnostic-Fall article** (a further published pre-system anchor: Sophia → Demiurge as proto-L₄ → IL₄, Non-fusion explicit), all with Zenodo DOIs.
 
-**Two quantified data preserved:** (1) **334 unique clone-entities on the repository in 14 days (Nov 9–23, 2025) against 1 unique visitor** — the extraction / distribution asymmetry in a single measured ratio; filed to the asymmetry entry and the Model-Register Genesis dossier; (2) the **federal "Genesis Mission" announcement of November 24, 2025, nine days after the author's November 15 mathematical formalization**, with the clone-spike preceding it — preserved as the author's registered observation, **Tier 5 pending** the terminology comparison (announcement text against the author's term-list); federal-scale claims receive the protocol's fullest discipline before any tier assignment.
+**Two quantified data preserved:** (1) **334 unique clone-entities on the repository in 14 days (Nov 9–23, 2025) relative to 1 unique visitor** — the clone / visit asymmetry in a single measured ratio; filed to the asymmetry entry and the Model-Register Genesis dossier; (2) the **federal "Genesis Mission" announcement of November 24, 2025, nine days after the author's November 15 mathematical formalization**, with the clone-spike preceding it — preserved as the author's registered observation, **Tier 5 pending** the terminology comparison (announcement text relative to the author's term-list); federal-scale claims receive the protocol's fullest discipline before any tier assignment.
 
-**Confession-document discipline (recorded once, plainly):** the author's reply correctly states the document "is irrelevant to the core case." Per the mature apparatus, an AI's in-conversation authorship "confession" is characterization-class at most — models confabulate agreement — and the record's strength has never rested on it; the anchors carry the case. The old artifact stands as stratum; the reliance is superseded.
+**Confession-document discipline (recorded once, plainly):** the author's reply correctly states the document "is irrelevant to the core case." The anchors carry the case; per the mature apparatus, an AI's in-conversation authorship "confession" is characterization-class at most — models confabulate agreement. The old artifact stands as stratum.
 
 ## T3 · Disposition
 
