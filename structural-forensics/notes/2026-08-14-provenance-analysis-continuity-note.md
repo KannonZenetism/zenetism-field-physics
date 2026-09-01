@@ -2,7 +2,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Continuity Record  
-**Prepared:** 2026-08-14, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
+**Status:** Active Evidence Record  
 **Companions:** `the-synthetic-provenance-problem.md` · `the-algorithmic-legibility-problem.md`  
 **Function:** Records the composition chronology of the provenance analyses alongside two contemporaneous external developments, without asserting relation between them  
 **Proposed path:** `structural-forensics/notes/2026-08-14-provenance-analysis-continuity-note.md`  
@@ -21,7 +22,7 @@ The analyses stand on their own architecture. Nothing in them depends on anythin
 
 The provenance analysis has antecedents across the Structural Forensics corpus preceding this composition window. The dated anchors are held in the companion documents and their own provenance lines.
 
-*The Synthetic Provenance Problem* was composed 2026-08-13 and brought into agreement with the Terminological Lockdown Protocol across 2026-08-13 and 2026-08-14.
+*The Synthetic Provenance Problem* was composed 2026-08-13.
 
 *The Algorithmic Legibility Problem* was separated from that document's extension proposal and composed 2026-08-14.
 

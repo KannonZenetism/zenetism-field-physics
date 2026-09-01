@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Register Note and Evidence Capture  
-**Prepared:** 2026-07-16, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
 **Status:** Draft — architect review  
 **Scope:** This note classifies a legacy artifact and captures one third-party comment. It re-adjudicates nothing and preserves the artifact unedited.  
 **Companion:** `west-luna-prime-os.png` (bio capture, July 20, 2026) · `mew-ledger-comment.png` (comment-thread screenshot, July 16, 2026, 3:30 AM local — URL bar, displayed dates, the full West comment, the "Liked by Aelion Kannon" badge, and the author's reply opening; canonical path on commit) · Wayback submissions pending (automated retrieval attempted July 16, 2026 — Substack robots-disallowed, attempt logged)  

@@ -4,7 +4,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Pattern Note (scene-context reference and audit rule)  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
-**Status:** Draft — architect review / direct-site findings integrated  
+**Status:** Draft — architect review  
 **Scope:** This note defines a pattern class and an audit principle. Merits findings live in the case-specific records; the genre reference cited in §1 is preserved as scene-context reference.  
 **Companion:** CYBEROCCULTISM reference capture set — homepage, About page, intermediate OS-Level Spirit System guide, advanced architecture guide, Grimoire surface, Wayback submissions, and email-dated copies (canonical paths to be filed on commit)  
 **Dependency:** `2025-08-22-raelven-attribution-exhibit-record.md` · `2026-07-06-wiley-void0-voidkey-grail-seeker-intake.md` · `2025-07-27-clarity-field-sanctuary-origin-affirmation.md` · `2026-07-07-davey-resonanceos-rvm-ech-intake.md` · `SF-RP05-the-register-band-classification-protocol.md`  
