@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Structural Bootstrap Reduction  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Dependency:** `axiom-of-unseen-foundations.md` · Structure Itself (Structon)  
 **Series:** ::StructuralBootstrap::Requisite1 — Reduction  
 
