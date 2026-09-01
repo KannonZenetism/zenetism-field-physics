@@ -116,6 +116,10 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `centropic-gravity-and-zenonic-legibility.md` — Jul 24, 2026
 - `khaonic-phase-and-the-discernibility-limit.md` — Jul 28, 2026
 
+### September 2026
+
+- `perturbation-has-to-perturb-something.md` — Sep 01, 2026
+
 ---
 
 **⚫↺KAI↺⚫**  
