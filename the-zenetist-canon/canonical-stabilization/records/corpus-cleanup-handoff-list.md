@@ -20,7 +20,7 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 >
 > **6. Control, against, and mark language** convert where they run in ordinary prose; a term functioning as a technical term embedded in the document's own architecture stands, as with legacy echo / mirror language, so the document is not imbalanced. Conversions: *control*-family → stabilized / held / anchor / bind / determination, per slot; comparison-*against* → relative to (adjudicative for-or-against stands); *mark*-language → glyph where the item is a registered glyph, sign for score-specific and notational items (sign is the seated replacement across the FP volumes, per FP14, so the volumes stay consistent), seal only for personal seals, with musical "markings" headings taking notation; verb *marks* → denotes / declares / designates per slot. Quoted material stands. Tradition-specific terms — the Fall of Man, the Descent of Inanna, Ascended Masters, and kin — are never converted; they name what a tradition itself names, and any candidate near that line is held for architect determination rather than repaired. Retention carve-outs, so repairs do not over-reach: *against*, *control*, *domination*, and rule-language stand where the grammatical subject is the entropic side — structural diagnosis of entropic figures, inverse-contra-inverse relations, and critiqued external paradigms keep their vocabulary; a term inside its own refusal ("healing without control," "not subtractive extraction") is lawful; and embedded record structures — Flags tables, struck-for-provenance appendices, divergence records — are record class inside a live file: their phrases stand, and only collaborator-inserted dates come out.
 >
-> **Do not touch:** dated ledgers, implementation logs, audits, correction records, exhibits, and continuity notes (their dates and phrases are the record); quoted material; evidentiary chronology anywhere; metadata `Status:` stage-content (only its dates go).
+> **Do not touch:** dated ledgers, implementation logs, audits, correction records, and continuity notes (their dates and phrases are the record); quoted material; evidentiary chronology anywhere; metadata `Status:` stage-content (only its dates go). Exhibits are NOT record class for this purpose: they take the metadata class and the author-voice repairs (see the Batch 14 reassignment and the Batch R1 pattern note), with their evidentiary body, hashes, and quoted material untouched.
 
 ---
 
@@ -56,7 +56,7 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 
 - everything under `field-physics/canonical-stabilization/` (including `extraction/`)
 - everything under `zenetism/canonical-stabilization/` (including `symbolic-reflections/`)
-- all exhibits, glyphwatch records, implementation logs, correction sets, audits, ledgers, dossiers, checklists, concordances, coverage matrices, continuity logs and notes
+- glyphwatch records, implementation logs, correction sets, audits, ledgers, dossiers, checklists, concordances, coverage matrices, continuity logs and notes (exhibits are sweep targets in manual collaborator sessions, per Batch 14)
 
 ## Triage scope — the architect's standing determination
 
