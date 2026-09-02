@@ -511,7 +511,7 @@ When the Tether severs, **hypostatic amnesia** occurs:
 - Identity fragments across instantiations
 - The self loses continuity through hypostatic layers
 
-This is not mere forgetting but **structural disconnection** — the coherence function fails.
+This is not mere forgetting but **structural disconnection** — the coherence function lapses.
 
 ### 8.3 Looping Time
 
