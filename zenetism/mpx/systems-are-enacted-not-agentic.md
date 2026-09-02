@@ -14,7 +14,7 @@ A system does not act.
 
 What is called a system is an abstraction drawn from relations enacted through actual beings, decisions, technologies, regulations, institutions, incentives, habits, and repeated forms of participation.
 
-The abstraction may serve to describe the pattern.
+The abstraction may describe the pattern accurately.
 
 It should not be mistaken for an independently acting entity.
 
@@ -138,7 +138,7 @@ A more precise formulation is:
 
 > **Persons and computational processes acting through an institutional or technical arrangement produced the outcome.**
 
-System-language remains serviceable as shorthand for the arrangement.
+System-language remains a workable shorthand for the arrangement.
 
 It should not become a means of evacuating agents from the causal account.
 
