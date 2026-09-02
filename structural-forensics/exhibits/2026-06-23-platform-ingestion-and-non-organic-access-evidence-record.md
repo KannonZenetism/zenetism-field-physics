@@ -20,7 +20,7 @@ The records establish that a documented ingestion channel exists: a route throug
 
 ## The Standard
 
-A platform-access record is forensically load-bearing when it establishes the *environment* — whether the corpus was accessible through anomalous, non-organic retrieval during the period in which adjacent structures appeared. Establishing the channel supplies the mechanism an encounter finding requires. Identification of a specific actor rests on separate evidence and is held open.
+A platform-access record is forensically load-bearing when it establishes the *environment* — whether the corpus was accessible through anomalous, non-organic retrieval during the period in which derivative structures appeared. Establishing the channel supplies the mechanism an encounter finding requires. Identification of a specific actor rests on separate evidence and is held open.
 
 ## Recorded Figures
 
