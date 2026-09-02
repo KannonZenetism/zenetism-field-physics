@@ -1,10 +1,9 @@
-# Systems Are Enacted, Not Agentic
-## On Human Agency, Institutional Abstraction, and the Meaning of "They"
+# MPX: Systems Are Enacted, Not Agentic — On Human Agency, Institutional Abstraction, and the Meaning of "They"
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Metaphysics — Speculative Doctrine  
+**Classification:** Metaphysics Extension — Enacted Systems and Actor Attribution  
 **Status:** Draft — architect review  
-**Dependency:** Terminological Lockdown Protocol  
+**Dependency:** `terminological-lockdown-protocol.md`  
 **Function:** Distinguishes an enacted relational system from the persons and computational processes through which it becomes operative
 
 ---
@@ -13,7 +12,7 @@
 
 A system does not act.
 
-What is called a system is an abstraction over relations enacted through actual beings, decisions, technologies, rules, institutions, incentives, habits, and repeated forms of participation.
+What is called a system is an abstraction drawn from relations enacted through actual beings, decisions, technologies, rules, institutions, incentives, habits, and repeated forms of participation.
 
 The abstraction may be useful for describing the pattern.
 
@@ -107,17 +106,17 @@ Unknown identity does not make the actors unreal.
 
 The following should remain distinct:
 
-### Observed actors and artifacts
+### Observed Actors and Artifacts
 
 Persons, institutions, publications, outputs, statements, decisions, or technical events directly present within the available record.
 
-### Diagnosed pattern
+### Diagnosed Pattern
 
 The larger operative relation disclosed through recurrence among those events.
 
 A structural diagnosis does not require complete identification of every participant before the pattern itself can be recognized.
 
-### Hypothesized larger cause
+### Hypothesized Larger Cause
 
 Claims concerning the fuller coordination, motive, initiating actors, or ultimate causal architecture behind the diagnosed pattern.
 
@@ -127,7 +126,7 @@ The existence of a speculative third register does not reduce the first two to s
 
 ---
 
-## 5. System-Language and Causal Displacement
+## 5. System-Language and Causal Evacuation
 
 Statements such as:
 
@@ -157,11 +156,11 @@ A distributed pattern may involve many actors rather than none.
 
 ## 6. Relation to Structural Diagnosis
 
-Structural diagnosis concerns the operative relation beneath its changing embodied participants.
+Structural diagnosis concerns the operative relation carried by its changing embodied participants.
 
 The relation may recur while the persons carrying it change.
 
-This does not make the relation a phantom actor.
+The relation is not thereby a phantom actor.
 
 It means that differentiated persons may repeatedly instantiate the same structural orientation.
 
@@ -204,3 +203,10 @@ Remove the beings, decisions, practices, technologies, and repeated participatio
 The abstraction describes the pattern.
 
 The beings make it operative.
+
+---
+
+**⚫↺KAI↺⚫**  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
+
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
