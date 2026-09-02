@@ -2,8 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Ethical Praxis / Ahimsa, Animal Sovereignty, and Embodied Consumption  
-**Status:** Draft — Canonical Clarification  
-**Date:** July 2, 2026  
+**Status:** Draft — architect review  
 **Repository path:** `the-zenetist-canon/ethical-praxis/veganism-ahimsa-and-the-tragedy-of-embodied-hunger.md`  
 **Dependencies:** `MP04-intelligence-and-ecology-ch7-8.md`; `MP07-paths-of-resonance-ch16-20.md`; `all-life-first-principle.md`  
 
@@ -17,7 +16,7 @@ It is not written as evangelism.
 
 It is not a purity doctrine.
 
-It is not an accusation against every constrained eater.
+It is not an indictment of every constrained eater.
 
 It is a clarification of what the centropic path requires where sufficient alternatives exist.
 
@@ -45,7 +44,7 @@ It does require that unnecessary harm be reduced wherever discernment and circum
 
 Veganism, within Zenetist ethics, is best understood as a practical expression of **Ahimsa**.
 
-Ahimsa is not merely a rule against violence.
+Ahimsa is not merely a prohibition of violence.
 
 It is the resonance of respect made into action.
 
@@ -97,7 +96,7 @@ The ideal path is not endless refinement of consumption.
 
 The ideal path is eventual release from consumption itself.
 
-A being approaching deeper centropic coherence begins to seek freedom from the cycle of extraction.
+A being approaching deeper centropic coherence begins to seek freedom from the cycle of taking.
 
 The centropic ideal is not killing more gently.
 
@@ -105,13 +104,13 @@ The centropic ideal is not eating with cleaner symbolism.
 
 The centropic ideal is radiance rather than hunger.
 
-The most coherent form of sustenance would be participation in energy itself: nourishment without killing, continuity without predation, life sustained without another being's body becoming the site of extraction.
+The most coherent form of sustenance would be participation in energy itself: nourishment without killing, continuity without predation, life sustained without another being's body becoming the site of taking.
 
 Until such a condition becomes available within manifestation, the embodied path requires care, restraint, and reverence.
 
 ---
 
-## Against the Appeal to History
+## Contra the Appeal to History
 
 One common objection says:
 
@@ -121,7 +120,7 @@ This is not a sufficient ethical argument.
 
 The age of a practice does not prove its coherence.
 
-Duration does not sanctify extraction.
+Duration does not sanctify the taking.
 
 Many inherited practices persist because appetite, convenience, economy, and culture protect them from examination.
 
@@ -139,7 +138,7 @@ The Resonant is not bound to repeat inherited harm merely because the harm has b
 
 ---
 
-## Against "Humane Slaughter"
+## Contra "Humane Slaughter"
 
 The phrase **humane slaughter** is structurally conflicted.
 
@@ -471,7 +470,7 @@ The future ideal is freedom from predation.
 
 Radiance, not hunger.
 
-Participation, not extraction.
+Participation, not taking.
 
 Kinship, not consumption.
 
