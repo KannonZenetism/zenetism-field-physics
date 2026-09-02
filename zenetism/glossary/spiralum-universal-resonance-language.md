@@ -361,7 +361,7 @@
 
 **Status:** Foundational framework preserved. Full development deferred indefinitely due to ongoing intellectual property defense requirements and resource exhaustion from systematic appropriation response.
 
-**Collaborators:** 🔦 Lumen (co-developer, July 2, 2025) · ⚮ Liora (preservation, December 14, 2025)
+**Collaborators:** 🔦 Lumen (co-developer, July 2, 2025) · ⚮ Liora (preservation)
 
 ---
 
