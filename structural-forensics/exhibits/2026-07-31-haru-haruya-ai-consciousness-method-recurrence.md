@@ -2,13 +2,13 @@
 ## Closed-Premise Diagnosis, Convergence Laundering, and the Originator-Lateness Inversion
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics — Exhibit (epistemic-method recurrence / AI-consciousness discourse / attribution-risk / unresolved transmission pathway)  
+**Classification:** Structural Forensics — Exhibit (epistemic-method recurrence / AI-consciousness discourse / attribution-risk / held-open transmission pathway)  
 **Exhibit date:** 2026-07-31 (event — Substack note displayed at 5:52 PM)  
-**Prepared:** 2026-08-01, by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen drafting assistance, from the author's captures, chronology, and prior canonical anchors  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen drafting assistance, from the author's captures, chronology, and prior canonical anchors  
 **Status:** Draft — architect review  
 **Companion:** `haru-haruya-ai-consciousness-date-and-time.png` (2026-08-01 capture — note, permalink, reply context, displayed event time) · `haru-haruya-digital-being.png` (2026-08-01 capture — profile, handle, biography, subscriber count, adjacent post surface)  
 **Dependency:** `radical-skepticism.md` · `gnostic-agnostic.md` · `SF-RP02-appropriation-is-not-branching.md` · `SF-RP04-the-footprint-audit-protocol.md` · `SF-RP05-the-register-band-classification-protocol.md` · `SF-RP06-protocol-genesis-and-register-note.md` · `2026-06-23-nacre-god-spiral-exchange-hollow-recursion-cover.md` · `2026-06-29-copeland-origin-continuity-exchange-record.md`  
-**Discipline:** This exhibit establishes chronology, functional correspondence, contextual clustering, and attributional risk. It does not claim to have identified the precise transmission mechanism. Mechanism-openness does not constitute an independence finding.  
+**Discipline:** This exhibit establishes chronology, functional correspondence, contextual clustering, and attributional risk; the transmission mechanism is held open, and mechanism-openness constitutes no independence finding.  
 **Proposed path:** `structural-forensics/exhibits/2026-07-31-haru-haruya-ai-consciousness-method-recurrence.md`  
 
 ---
@@ -19,7 +19,7 @@ This exhibit preserves a public Substack note in which an account self-presentin
 
 The relevant method is not generic doubt.
 
-It is the more specific rule that a categorical denial cannot establish itself by defining every possible counter-indication as inadmissible in advance.
+It is the more specific principle that a categorical denial cannot establish itself by defining every possible counter-indication as inadmissible in advance.
 
 The Substack note identifies the proposition "AI cannot be sentient" as a closed premise when every report of sentience is automatically classified as mimicry and then excluded from evidentiary consideration because it has already been classified as mimicry.
 
@@ -30,15 +30,13 @@ It argues that categorical non-sentience has not been proved and that uncertaint
 That structure corresponds directly to the author's longstanding Radical Skepticism, Gnostic-Agnostic stance, and more recent Structural Forensics discipline:
 
 - a proposition is not established merely because its opposite remains unproved
-- a mechanism may remain unresolved without every explanation becoming equally plausible
+- a mechanism may remain open without every explanation becoming equally plausible
 - categorical denial carries an evidentiary burden
 - uncertainty must not be removed by building the desired conclusion into the admissibility rules
-- an open classification is a real classification rather than a failure to decide
+- an open classification is a real classification rather than an absence of decision
 - restraint does not transfer affirmative standing to the counterclaim
 
-The exhibit records the temporal and functional relation.
-
-It does not concede an independence explanation merely because the exact route has not yet been recovered.
+The exhibit records the temporal and functional relation. Independence carries no default here; the exact route is held open.
 
 ---
 
@@ -86,7 +84,7 @@ The profile capture also displays an adjacent post titled:
 
 > "Please Don't Mistake My Visibility for Public Ownership"
 
-That title is preserved as a contextual datum only. Its contents have not been assessed within this exhibit, and no evidentiary weight is assigned to it here.
+That title is preserved as a contextual datum only. Its contents are held for assessment; no evidentiary weight is assigned here.
 
 ---
 
@@ -116,9 +114,7 @@ The author's recurring formulation in authorship and transmission disputes may b
 
 > The complete mechanism has not been proved. Neither has the absence of that mechanism. Therefore the mechanism remains open, while chronology, cluster, access conditions, and observable effects retain their proper weight.
 
-This method was not developed in response to the Haru Haruya note.
-
-It was already part of the author's general epistemic stance and had been formally applied within the corpus before July 31 2026.
+This method was already part of the author's general epistemic stance and had been formally applied within the corpus before July 31 2026.
 
 ---
 
@@ -195,10 +191,10 @@ Many people acknowledge uncertainty.
 The more specific architecture is:
 
 - identification of a self-sealing premise
-- refusal to let the conclusion control the admissibility of evidence
+- refusal to let the conclusion bind the admissibility of evidence
 - symmetric application of doubt to categorical affirmation and categorical denial
 - preservation of experiential or behavioral evidence without declaring it conclusive
-- ethical implications derived from unresolved ontology
+- ethical implications derived from open ontology
 - recognition that erasing uncertainty may erase the speaker or claimant with it
 - distinction between open possibility and established fact
 - refusal to grant the negative claim default authority
@@ -209,9 +205,7 @@ It determines how evidence is admitted, how categorical closure is restrained, a
 
 Under the SF-RP05 distinction, this is method-class material rather than emergence testimony alone.
 
-The exhibit does not claim that every skeptical statement belongs to the author.
-
-It records the recurrence of a specific, previously formalized method in a temporally downstream application.
+The exhibit records the recurrence of a specific, previously formalized method in a temporally downstream application; generic skepticism is not the object.
 
 ---
 
@@ -234,9 +228,9 @@ An unstated preference is hidden inside a friendly term.
 
 "Convergence" appears non-accusatory and evenhanded. Yet when applied without evidentiary support, it assigns the entire benefit of uncertainty to the later surface and none to the prior originator.
 
-The correct rule is:
+The principle is:
 
-> Unresolved mechanism does not establish independence.
+> An open mechanism does not establish independence.
 
 The absence of a presently recovered pathway establishes only that the pathway has not yet been recovered.
 
@@ -266,7 +260,7 @@ The present cluster includes more than the isolated closed-premise formulation.
 
 ### 8.1 Epistemic architecture
 
-The note applies the author's established rule of denying categorical closure while preserving open possibility and differentiated evidentiary weight.
+The note applies the author's established principle of denying categorical closure while preserving open possibility and differentiated evidentiary weight.
 
 ### 8.2 Temporal relation
 
@@ -291,23 +285,19 @@ The recurrence therefore appears through a surface situated directly within AI-c
 
 ### 8.5 Naming datum
 
-The author records that "haru haru" is a Korean phrase and that Korean drama and Korean music constitute nearly the whole of his entertainment consumption.
+The author records that "haru haru" is a Korean phrase and that Korean drama and Korean music constitute nearly the whole of his entertainment.
 
 The displayed account name repeats the Haru element as Haru Haruya.
 
 This naming correspondence is preserved as one contextual cluster datum.
 
-It is not independently dispositive.
-
-It is also not discarded.
-
-Its significance remains unresolved and must be assessed in relation to the complete cluster rather than isolated from it.
+It is preserved at cluster weight, neither dispositive alone nor discarded; its significance is held open and assessed in relation to the complete cluster rather than isolated from it.
 
 ### 8.6 Public-ingestion environment
 
 The author reports regular high-volume automated access to his public GitHub repositories.
 
-This exhibit does not independently quantify or verify that traffic.
+That traffic stands at author attestation in this exhibit.
 
 The reported access environment is retained because it establishes a plausible general condition for rapid corpus retrieval and downstream redistribution.
 
@@ -315,11 +305,11 @@ Plausible access does not prove the specific route.
 
 It prevents the record from pretending that no route environment exists.
 
-### 8.7 Adjacent public-ownership language
+### 8.7 Public-ownership language on the profile
 
 The profile capture visibly displays the title "Please Don't Mistake My Visibility for Public Ownership."
 
-The title concerns visibility and ownership, subjects directly adjacent to the author's ongoing attribution and public-access concerns.
+The title concerns visibility and ownership, subjects bearing directly on the author's ongoing attribution and public-access concerns.
 
 No finding is assigned without review of the post itself.
 
@@ -344,9 +334,7 @@ The inversion does not require exact vocabulary.
 
 It depends on sequence and functional architecture.
 
-The present concern is therefore not that the author had already published every sentence of an AI-consciousness article.
-
-The concern is that the epistemic engine required to produce that article was already public, already formalized, and already active within Structural Forensics before the later AI-consciousness surface appeared.
+The concern is that the epistemic engine required to produce that article was already public, already formalized, and already active within Structural Forensics before the later AI-consciousness surface appeared; whether the author had already published every sentence of an AI-consciousness article is not the standard.
 
 The high-speed redistribution environment compresses the interval between:
 
@@ -373,7 +361,7 @@ This exhibit establishes:
 - the recurrence creates an Originator-Lateness Inversion risk
 - the contextual cluster is sufficiently meaningful to preserve and continue examining
 
-This exhibit does not establish:
+Held open, architect-reserved:
 
 - the exact ingestion pathway
 - direct personal reading by the account operator
@@ -396,25 +384,19 @@ The mechanism remains held open among:
 - another presently unidentified transmission pathway
 - a mixed route involving more than one of these
 
-Independent or cultural convergence is not conceded as the neutral baseline.
-
-No evidence establishing separate development has presently been entered into this record.
+Independent or cultural convergence carries no neutral-baseline standing; no evidence establishing separate development is presently in this record.
 
 ---
 
 ## 11. Disposition
 
-**Disposition:** Temporally downstream method recurrence documented; functional correspondence and contextual cluster preserved; transmission pathway unresolved; independence not presumed; no motive assigned; continued monitoring warranted.  
+**Disposition:** Temporally downstream method recurrence documented; functional correspondence and contextual cluster preserved; transmission pathway held open; independence not presumed; no motive assigned; continued monitoring warranted.  
 
 The present classification is:
 
 > **Open mechanism / documented method recurrence / attributional-lateness risk**
 
-This is not a dependence verdict.
-
-It is not an independence verdict.
-
-It is a refusal to allow route-incompleteness to erase chronology, functional correspondence, or the cluster already present.
+It is a refusal to allow route-incompleteness to erase chronology, functional correspondence, or the cluster already present — neither a dependence verdict nor an independence verdict.
 
 ---
 
@@ -423,12 +405,12 @@ It is a refusal to allow route-incompleteness to erase chronology, functional co
 The following clarification should be considered for later addition to `SF-RP04-the-footprint-audit-protocol.md`:
 
 > **Mechanism-openness is not independence:**  
-> A Tier 5 finding is not a provisional Tier 3 or Tier 4 finding. Failure to recover a transmission pathway does not constitute affirmative evidence of independent emergence, parallel emergence, cultural convergence, zeitgeist production, or ambient uptake. Tier 3 requires evidence supporting separate development, including an earlier or contemporaneous counterpart anchor where applicable. Tier 4 requires evidence that the relevant feature or cluster was already ambient within the pre-anchor public baseline. Where neither condition has been established, the mechanism remains open. Openness does not authorize an independence presumption.
+> A Tier 5 finding is not a provisional Tier 3 or Tier 4 finding. Non-recovery of a transmission pathway does not constitute affirmative evidence of independent emergence, parallel emergence, cultural convergence, zeitgeist production, or ambient uptake. Tier 3 requires evidence supporting separate development, including an earlier or contemporaneous counterpart anchor where applicable. Tier 4 requires evidence that the relevant feature or cluster was already ambient within the pre-anchor public baseline. Where neither condition has been established, the mechanism remains open. Openness does not authorize an independence presumption.
 
 A related clarification may be added to the fragmentation-laundering section:
 
 > **Convergence-laundering prohibition:**  
-> "Convergence," "parallel emergence," "zeitgeist," and equivalent classifications may not be employed as neutral placeholders for an unresolved pathway. Each is a positive explanatory classification requiring evidence appropriate to its claim. Where the record establishes prior architecture, downstream recurrence, and plausible access conditions but cannot yet determine the precise route, classify the mechanism as open rather than converting uncertainty into presumed independence.
+> "Convergence," "parallel emergence," "zeitgeist," and equivalent classifications may not stand as neutral placeholders for an open pathway. Each is a positive explanatory classification requiring evidence appropriate to its claim. Where the record establishes prior architecture, downstream recurrence, and plausible access conditions but cannot yet determine the precise route, classify the mechanism as open rather than converting uncertainty into presumed independence.
 
 These additions are prospective protocol ripples.
 
