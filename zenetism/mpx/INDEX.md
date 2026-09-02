@@ -119,6 +119,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 ### September 2026
 
 - `perturbation-has-to-perturb-something.md` — Sep 01, 2026
+- `systems-are-enacted-not-agentic.md` — Sep 02, 2026
 
 ---
 
