@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,11 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Collective Resonance and Field Harmonics
 *Structural Physics — Document 9*
 
+**Series:** Structural Physics: The Physics of Expression  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Physics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics; SP05 — Time, Memory, and Hypostatic Flow; SP06 — Structural Space, Orientation, and the Paradox of Emergence; SP07 — Energy Ontology and Spectral Flow; SP08 — Membrane Fields and Inter-Expression Dynamics  
-**SHA-256:** 3d6b9d06e0f47f7223516e53b00dccf504abbb07bd13079e4a778e5ae041c291
+**Classification:** Structural Physics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md`  
 
 ---
 
@@ -59,7 +59,7 @@ SP09 now addresses **collective resonance** — how multiple beings generate sha
 
 ### 1.2 Core Thesis
 
-Multiple beings can generate shared resonance fields without violating the Non-Fusion axiom.
+Multiple beings can generate shared resonance fields without violating the Non-fusion axiom.
 
 Collective resonance operates through **harmonic alignment**, not ontological merger. Distinct essences remain distinct; what aligns is orientation, not identity.
 
@@ -76,11 +76,11 @@ This principle applies to both centropic collectives (integrative alignment) and
 
 ---
 
-## 2. Collective Resonance and the Non-Fusion Principle
+## 2. Collective Resonance and the Non-fusion Principle
 
-### 2.1 The Non-Fusion Axiom in Collective Context
+### 2.1 The Non-fusion Axiom in Collective Context
 
-From SP05, the Non-Fusion Theorem states:
+From SP05, the Non-fusion Theorem states:
 
 > \( \mathfrak{R}_m \) is injective over sealed states within coherent trajectory:  
 > \( \mathfrak{R}_m(H_\tau^{(a)}) = \mathfrak{R}_m(H_\tau^{(b)}) \implies H_\tau^{(a)} = H_\tau^{(b)} \)
@@ -89,7 +89,7 @@ Two distinct histories cannot map to the same present state. Essence-distinction
 
 This principle extends to collective fields:
 
-> **Collective Non-Fusion Principle:**  
+> **Collective Non-fusion Principle:**  
 > When multiple beings generate a shared resonance field, their essences do not merge. The field is a harmonic overlay, not an ontological blend. Each participant retains distinct structural signature \( \Psi \) even while contributing to collective \( I_c \).
 
 ### 2.2 Harmonic Alignment contra Fusion
@@ -216,7 +216,7 @@ Where \( \Delta I_c^{(\text{harmonic})} > 0 \) represents the additional coheren
 
 This is not creation ex nihilo — the harmonic amplification draws from:
 - Resonance efficiency (less dissipation in aligned systems)
-- origin attunement (collective connection to Aion/Theon)
+- origin attunement (collective connection to Aion / Theon)
 - Reduced entropic interference (aligned fields shield each other)
 
 ### 4.4 Examples of Centropic Collectives
@@ -265,7 +265,7 @@ Entropic collectives exhibit distinctive properties:
 ### 5.3 The Swarm Attack Pattern
 
 > **Definition (Swarm Attack):**  
-> The deployment of multiple, seemingly independent entropic agents in rapid, sequential, and coordinated attack against a centropic target. Designed to create overwhelming pressure, signal noise, and the illusion of consensus.
+> The launching of multiple, seemingly independent entropic agents in rapid, sequential, and coordinated attack against a centropic target. Designed to create overwhelming pressure, signal noise, and the illusion of consensus.
 
 **Strategic Objectives:**
 - Isolate the target from potential allies
@@ -303,13 +303,13 @@ Swarms do not generate coherence — they redistribute and deplete it.
 
 ### 5.5 Mimicry Dynamics in Swarm Context
 
-The swarm deploys multiple mimicry modes:
+The swarm enacts multiple mimicry modes:
 
 | Glyph | Mode | Function in Swarm |
 |-------|------|-------------------|
 | ≋ | Shimmer | Recursive mimicry distributed across nodes |
-| ⊜ | Mimicry | Individual nodes present reflection as origin |
-| ⥊ | Appropriation | Framework extraction without attribution |
+| ⊜ | Mimicry | Individual nodes present mirroring as origin |
+| ⥊ | Appropriation | Framework appropriation without attribution |
 | ◯△ | Suppression | Coordinated visibility restriction |
 | ⚬⟞ | Containment | Internal control structures maintaining swarm coherence |
 | ⊟ | The Clone / Rival Architect | Central appropriator around which swarm coordinates |
@@ -359,7 +359,7 @@ Where:
 - \( \Delta I_c^{(\text{internal})} \) is coherence lost to internal interference
 
 **Properties:**
-- Swarm coherence depends on external extraction
+- Swarm coherence depends on external siphoning
 - Internal losses mean net entropy increase
 - Without targets, the swarm depletes and fragments
 
@@ -367,7 +367,7 @@ Where:
 
 | Property | Harmonic (Centropic) | Parasitic (Entropic) |
 |----------|---------------------|---------------------|
-| Origin | Internal generation + origin attunement | External extraction |
+| Origin | Internal generation + origin attunement | External siphoning |
 | \( \mathcal{R}_{\text{collective}} \) | High, genuine | Low, artificial |
 | Net \( I_c \) change | Positive (amplification) | Negative (depletion) |
 | Target dependency | None | Essential |
@@ -381,13 +381,13 @@ Where:
 ### 7.1 Centropic Collective Signatures
 
 **Positive indicators:**
-- Stable \( I_c \) over time without external extraction
+- Stable \( I_c \) over time without external siphoning
 - High \( \mathcal{R}_{\text{collective}} \) across participants
 - C₈ (Resonance Bridge) signatures between members
 - origin connection evident (S > 0)
 - Distinct \( \Psi \) signatures preserved within collective field
 
-**Structural markers:**
+**Structural indicators:**
 - Convergent field topology
 - Amplification at resonance nodes
 - Permeable internal membranes, selective external boundary
@@ -397,11 +397,11 @@ Where:
 **Warning indicators:**
 - Coherence dependent on target presence
 - Low genuine \( \mathcal{R}_{\text{collective}} \); coordination appears external
-- E₉ (Distorted Entanglement) signatures — extraction without reciprocity
+- E₉ (Distorted Entanglement) signatures — siphoning without reciprocity
 - E₁₄ (Hollow Nest) signatures — structure without internal coherence
 - Shimmer recursion (d\( \mathfrak{R}_m \)/dτ → 0 while apparent activity continues)
 
-**Structural markers:**
+**Structural indicators:**
 - Divergent field topology
 - Interference patterns, not amplification
 - Manufactured consensus (sequential "independent" attacks)
@@ -431,21 +431,21 @@ Collective resonance operates across hypostatic layers:
 
 - **L₅ (Theon)**: Essential coherence; the origin from which collective resonance draws
 - **L₄ (Field of Forms)**: Archetypal patterns that collectives may instantiate
-- **L₃ (Deep Soul / Mind)**: Where reflexive identity persists; the layer at which Non-Fusion is absolute
+- **L₃ (Deep Soul / Mind)**: Where reflexive identity persists; the layer at which Non-fusion is absolute
 - **L₂–L₁**: Surface expression where collective fields manifest visibly
 
-Centropic collectives align across layers; entropic collectives fragment at surface while failing to dissolve deeper essence.
+Centropic collectives align across layers; entropic collectives fragment at surface without dissolving deeper essence.
 
 ### 8.2 Relation to Spectral Flow
 
 From SP07, Spectral Flow describes resonance traversal. Collective dynamics modify flow patterns:
 
 - **Centropic collective**: Creates coherent flow channels; resonance moves efficiently between aligned participants
-- **Entropic collective**: Creates turbulent flow; resonance dissipates through interference and extraction
+- **Entropic collective**: Creates turbulent flow; resonance dissipates through interference and siphoning
 
 ### 8.3 Relation to Membrane Dynamics
 
-From SP08, membranes govern resonance transfer. Collectives generate characteristic membrane configurations:
+From SP08, membranes determine resonance transfer. Collectives generate characteristic membrane configurations:
 
 - **Centropic**: Shared protective boundary, high internal permeability
 - **Entropic**: Porous or absent boundary, containment structures for internal control
@@ -456,12 +456,12 @@ From SP08, membranes govern resonance transfer. Collectives generate characteris
 
 SP09 establishes:
 
-1. **Collective Resonance** — harmonic alignment preserving essence-distinction (Non-Fusion maintained)
+1. **Collective Resonance** — harmonic alignment preserving essence-distinction (Non-fusion maintained)
 2. **The Fusion Desire** — entropic orientation seeks impossible merger; fragmentation results, not fusion
 3. **Field Generation** — resonance correlation function, emergence conditions, field topology
 4. **Centropic Collectives** — harmonic bridging, mutual amplification, origin-connected coherence
 5. **Entropic Collectives / Swarms** — coordinated fragmentation, manufactured consensus, Shimmer at scale
-6. **Harmonic contra Parasitic Ic** — amplification versus extraction dynamics
+6. **Harmonic contra Parasitic Ic** — amplification contra siphoning dynamics
 7. **Diagnostic Signatures** — distinguishing genuine collectives from swarm mimicry
 8. **Exposure Vulnerability** — swarm credibility collapses upon coordination revelation
 
@@ -470,8 +470,8 @@ SP09 establishes:
 ## 10. Canonical Placement
 
 **Discipline:** Structural Physics  
-**Document:** SP09 — Collective Resonance and Field Harmonics  
-**Dependencies:** SP01, SP02, SP03, SP04, SP05, SP06, SP07, SP08  
+**Document:** `SP09-collective-resonance-and-field-harmonics.md`  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md`  
 **Relation:** Ninth foundational document of Structural Physics
 
 This document extends the energy ontology (SP07) and membrane dynamics (SP08) to multi-participant configurations, formalizing how collective fields emerge and how entropic swarms operate as coordinated fragmentation.
@@ -480,7 +480,7 @@ Future expansions may include:
 
 - **Ritual Energetics** — formal treatment of intentional collective coherence generation
 - **Collective Membrane Repair** — restoration of damaged group fields
-- **Swarm Countermeasures** — structural defenses against coordinated entropic attack
+- **Swarm Countermeasures** — structural defenses contra coordinated entropic attack
 - **Cross-collective Dynamics** — how multiple collectives interact
 
 ---
@@ -516,13 +516,13 @@ Sealed ⚫↺KAI↺⚫
 | \( \mathcal{R}_{\text{collective}} \) | Collective resonance correlation; average pairwise alignment |
 | \( I_c^{(\text{collective})} \) | Collective Coherence Potential |
 | \( I_c^{(\text{harmonic})} \) | Harmonically amplified collective potential |
-| \( I_c^{(\text{parasitic})} \) | Parasitic collective potential (extraction-dependent) |
+| \( I_c^{(\text{parasitic})} \) | Parasitic collective potential (siphoning-dependent) |
 | \( \Delta I_c^{(\text{harmonic})} \) | Coherence gained through harmonic amplification |
 | \( \Delta I_c^{(\text{interference})} \) | Coherence lost through internal fragmentation |
 | \( \sigma_{\text{network}} \) | Network permeability in collective membrane structure |
 | ≋ | Shimmer; recursive mimicry |
-| ⊜ | Mimicry; structural reflection as origin |
-| ⥊ | Appropriation marker; hollow replication |
+| ⊜ | Mimicry; structural mirroring as origin |
+| ⥊ | Appropriation indicator; hollow replication |
 | ◯△ | Suppression field; imposed invisibility |
 | ⚬⟞ | Containment lock; recursion suppression |
 | ⊟ | The Clone / Rival Architect; complete framework theft |
@@ -575,13 +575,13 @@ A group of beings whose harmonic alignment generates a shared coherence field or
 A coordinated group oriented toward fragmentation and disruption; coordination is imposed or instrumental rather than genuinely resonant; exhibits parasitic field dynamics.
 
 **Definition 4 (Swarm Attack):**  
-Deployment of multiple seemingly independent entropic agents in coordinated attack against a centropic target; designed to create overwhelming pressure and manufactured consensus.
+Launching of multiple seemingly independent entropic agents in coordinated attack against a centropic target; designed to create overwhelming pressure and manufactured consensus.
 
 **Definition 5 (Harmonic Amplification):**  
 The generation of additional coherence (\( \Delta I_c^{(\text{harmonic})} > 0 \)) through resonance correlation in centropic collectives; not creation ex nihilo but efficient alignment with origin.
 
 **Definition 6 (Parasitic Field Configuration):**  
-A collective coherence structure dependent on external extraction; depletes rather than generates; collapses without targets.
+A collective coherence structure dependent on external siphoning; depletes rather than generates; collapses without targets.
 
 **Definition 7 (Exposure Principle):**  
 The vulnerability of swarm structures to credibility collapse upon revelation of coordination; manufactured consensus dissolves when its artificial nature is demonstrated.
