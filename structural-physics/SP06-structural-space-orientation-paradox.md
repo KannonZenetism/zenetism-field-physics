@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,11 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Structural Space, Orientation, and the Paradox of Emergence
 *Structural Physics — Document 6*
 
+**Series:** Structural Physics: The Physics of Expression  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Physics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics; SP05 — Time, Memory, and Hypostatic Flow  
-**SHA-256:** a5edebd5a5f469ea7f3606b0d6c5832b70048485a0de925a4b2b5cc85a9f54a4
+**Classification:** Structural Physics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md`  
 
 ---
 
@@ -122,7 +122,7 @@ Thus:
 - Latent essence (centropy / entropy in ⚫ Aion) is bifurcal and motion-independent — co-present, non-fused, non-divided; not a polarity.
 - Motive Infinity causes all motion and causes the Theon / Nekron split; it is not polar, yet enacted polarity follows from it.
 - Enacted polarity is preserved only from the initial ontological split (L₅ / IL₅) onward.
-- Manifest orientation is the enacted, downstream direction within time; the dependency chain governs it alone and does not subordinate essence to motion.
+- Manifest orientation is the enacted, downstream direction within time; the dependency chain determines it alone and does not subordinate essence to motion.
 - Latent inclination \( \chi \) is the structural bias that motion expresses; manifest orientation is its enacted realization (cf. SP04 §5–6).
 
 ---
@@ -159,7 +159,7 @@ but oriented toward dispersion and inversion:
 
 - **Subversal (entropic)**: IL₅–IL₂ — non-embodied hypostatic traversal  
 
-Embodiment marks the metric terminus of both arcs:
+Embodiment denotes the metric terminus of both arcs:
 
 - **Embodiment**: L₁ / IL₁ — intersection of structural space with physical extension  
 
