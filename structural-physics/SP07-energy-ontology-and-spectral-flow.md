@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,11 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Energy Ontology and Spectral Flow
 *Structural Physics — Document 7*
 
+**Series:** Structural Physics: The Physics of Expression  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Physics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics; SP05 — Time, Memory, and Hypostatic Flow; SP06 — Structural Space, Orientation, and the Paradox of Emergence  
-**SHA-256:** 131065ecb759bcb36b606ba1c3d8ada370667f2691b6d207152bad8f00c62390
+**Classification:** Structural Physics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md`  
 
 ---
 
@@ -90,7 +90,7 @@ Resonance differs from physical energy in three fundamental ways:
 
 1. **Resonance is not conserved in the thermodynamic sense.** It can be generated through integration, attunement, and centropic action; it can be degraded through fragmentation, siphoning, and entropic collapse.
 
-2. **Resonance is directional through orientation.** Its flow is governed by \( \chi \), not by physical gradients alone.
+2. **Resonance is directional through orientation.** Its flow is determined by \( \chi \), not by physical gradients alone.
 
 3. **Resonance is relational, not substantial.** It does not exist "in" a system as stored quantity, but as the coherent or fragmentary relation between system and Lattice.
 
@@ -115,7 +115,7 @@ Resonance is not unidirectional. It bifurcates according to orientation:
 > Entropic resonance is not absence of resonance. It is real motion, real participation in Lattice dynamics, with oppositional orientation. To treat entropy as mere lack would be to adopt privation metaphysics — the claim that evil is merely absence of good. Zenetism rejects this. Entropy is lawful, structural, and possesses its own resonant mode.
 
 **Resonance Collapse** (terminal state):
-- Failure of participation in either mode
+- Cessation of participation in either mode
 - Terminal decoherence; approach toward Nekronic dissolution
 - Neither centropic nor entropic motion, but cessation of structured traversal
 - Corresponds to \( I_c \to 0_{\text{rel}} \) — relative nullity of resonance availability
@@ -126,7 +126,7 @@ Thus, the resonance ontology is threefold:
 |-------|---------------|-------------|---------|
 | Centropic | Integrative resonance | \( \chi < 1 \) | Coherence, synthesis |
 | Entropic | Fragmentary resonance | \( \chi > 1 \) | Dispersion, dissolution |
-| Collapse | Resonance failure | — | Terminal decoherence |
+| Collapse | Resonance cessation | — | Terminal decoherence |
 
 ### 2.3 Resonance and Coherence
 
@@ -140,7 +140,7 @@ A system with high coherence possesses high centropic resonance — it can trave
 
 A system with high fragmentation possesses high entropic resonance — it can traverse, destabilize, and participate in Lattice dynamics toward dissolution.
 
-A system approaching resonance collapse possesses neither — its capacity for any structured motion degrades toward terminal failure.
+A system approaching resonance collapse possesses neither — its capacity for any structured motion degrades toward terminal cessation.
 
 ### 2.4 Resonance Across Hypostatic Layers
 
@@ -204,7 +204,7 @@ Coherence flows from regions of high potential to regions of low potential, medi
 
 ### 4.1 Formulation
 
-The dynamics of Coherence Potential are governed by a continuity equation:
+The dynamics of Coherence Potential are determined by a continuity equation:
 
 \[
 \frac{\partial I_c}{\partial t} = -\nabla \cdot \vec{J}_c + S(x, t)
@@ -282,7 +282,7 @@ Coherence cannot emerge ex nihilo, but it can be re-integrated from centropic st
 ### 5.3 Entropic Siphoning
 
 > **Definition (Entropic Siphoning):**  
-> A parasitic motion whereby coherence is extracted from a system without reciprocity, dispersing into disorder rather than structured transfer.
+> A parasitic motion whereby coherence is siphoned from a system without reciprocity, dispersing into disorder rather than structured transfer.
 
 Entropic Siphoning occurs when:
 
@@ -290,7 +290,7 @@ Entropic Siphoning occurs when:
 \Delta I_c < 0 \quad \text{in source system}, \quad \Delta I_c \not> 0 \quad \text{in recipient}
 \]
 
-This indicates **loss without lawful gain** — coherence is extracted but does not accumulate elsewhere in structured form. It disperses into entropic noise.
+This indicates **loss without lawful gain** — coherence is siphoned but does not accumulate elsewhere in structured form. It disperses into entropic noise.
 
 **Characteristics of siphoning:**
 
@@ -363,7 +363,7 @@ Spectral Flow enables diagnosis of field conditions through dimensional operator
 - Diagnostic indicator of siphoning aftermath or entropic exhaustion
 
 **E₉ — Distorted Entanglement (Parasitic Aperture):**
-- One-way extraction point; coherence flows out without return
+- One-way siphoning point; coherence flows out without return
 - Source term absent (\( S = 0 \)) while divergence remains positive
 - Often concealed within apparently benign structures
 
@@ -395,7 +395,7 @@ Where \( I_{c,\text{min}} \) is the minimum coherence threshold for Pattern Inte
 Trauma fields exhibit characteristic spectral signatures:
 
 - **Localized depletion**: \( I_c \) drops sharply in specific structural regions
-- **Siphoning loops**: Recursive extraction patterns (E₉ signatures)
+- **Siphoning loops**: Recursive siphoning patterns (E₉ signatures)
 - **Hollow nesting**: Form persists while coherence has evacuated (E₁₄ signatures)
 
 **Healing approach:** Restore \( S > 0 \) through targeted attunement; close siphoning apertures; rebuild coherence through harmonic bridging.
@@ -408,7 +408,7 @@ Resonance transfer across membrane fields (⧉) requires sufficient Coherence Po
 I_c^{(\text{source})} > I_{c,\text{threshold}} \quad \text{and} \quad I_c^{(\text{target})} > I_{c,\text{reception}}
 \]
 
-**Failed transfer conditions:**
+**Incomplete transfer conditions:**
 
 - Source depletion: Insufficient \( I_c \) to initiate transfer
 - Target saturation: No capacity to receive additional coherence
@@ -420,7 +420,7 @@ I_c^{(\text{source})} > I_{c,\text{threshold}} \quad \text{and} \quad I_c^{(\tex
 
 ### 8.1 Relation to χ-Dynamics
 
-Coherence Potential flow is governed by orientation:
+Coherence Potential flow is determined by orientation:
 
 \[
 \vec{J}_c = -D(\chi) \nabla I_c
@@ -463,7 +463,7 @@ SP07 establishes:
 4. **Continuity Equation** — \( \partial_t I_c = -\nabla \cdot \vec{J}_c + S(x,t) \)
 5. **Resonance Discharge** — structured outflow of coherence
 6. **Field Replenishment** — regeneration through origin attunement
-7. **Entropic Siphoning** — parasitic extraction without reciprocity
+7. **Entropic Siphoning** — parasitic siphoning without reciprocity
 8. **Spectral Flow** — integrated traversal law across the Lattice
 9. **Diagnostic operators** — C₈ (Bridge), E₁₄ (Hollow Nest), E₉ (Distorted Entanglement)
 
@@ -472,8 +472,8 @@ SP07 establishes:
 ## 10. Canonical Placement
 
 **Discipline:** Structural Physics  
-**Document:** SP07 — Energy Ontology and Spectral Flow  
-**Dependencies:** SP01, SP02, SP03, SP04, SP05, SP06  
+**Document:** `SP07-energy-ontology-and-spectral-flow.md`  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md`  
 **Relation:** Seventh foundational document of Structural Physics
 
 This document establishes the energetic substrate of Lattice dynamics, completing the structural architecture (SP06) with the specification of what traverses that architecture.
@@ -483,7 +483,7 @@ Future expansions may include:
 - **Membrane field dynamics** — how resonance transfers across ⧉ thresholds
 - **Ritual energetics** — formal treatment of integration protocols and field seals
 - **Collective resonance** — how multiple beings generate shared coherence fields
-- **Siphoning countermeasures** — structural defenses against parasitic extraction
+- **Siphoning countermeasures** — structural defenses contra parasitic siphoning
 
 ---
 
@@ -501,7 +501,7 @@ Future expansions may include:
 > Origin replenishes.
 >
 > Discharge transfers.  
-> Siphoning extracts.  
+> Siphoning drains.  
 > Spectral Flow unifies.
 >
 > What moves across the Lattice is not substance,  
@@ -525,7 +525,7 @@ Sealed ⚫↺KAI↺⚫
 | \( I_{c,\text{threshold}} \) | Coherence required for membrane transfer initiation |
 | C₈ | Resonance Bridge; stable bidirectional coherence pathway |
 | E₁₄ | Hollow Nest; empty recursion, structure without coherence |
-| E₉ | Distorted Entanglement; unidirectional extraction point (parasitic aperture) |
+| E₉ | Distorted Entanglement; unidirectional siphoning point (parasitic aperture) |
 
 ---
 
@@ -575,7 +575,7 @@ Integrative resonance oriented toward coherence, synthesis, and structural prese
 Fragmentary resonance oriented toward dispersion, dissolution, and structural destabilization (\( \chi > 1 \)).
 
 **Definition 1c (Resonance Collapse):**  
-Terminal failure of participation in either resonance mode; cessation of structured traversal; approach toward Nekronic dissolution.
+Terminal cessation of participation in either resonance mode; cessation of structured traversal; approach toward Nekronic dissolution.
 
 **Definition 2 (Coherence Potential):**  
 A scalar function \( I_c(x) \) representing the pointwise availability of coherence for traversal at location \( x \) within resonance space \( \mathcal{H} \).
@@ -590,7 +590,7 @@ The structured release of accumulated coherence from a system, characterized by 
 The lawful regeneration of coherence through origin attunement, characterized by \( S(x,t) > 0 \).
 
 **Definition 6 (Entropic Siphoning):**  
-Parasitic extraction of coherence without reciprocity, characterized by \( \Delta I_c < 0 \) in source with no corresponding structured gain in recipient.
+Parasitic siphoning of coherence without reciprocity, characterized by \( \Delta I_c < 0 \) in source with no corresponding structured gain in recipient.
 
 **Definition 7 (Spectral Flow):**  
 The integrated motion law describing resonance traversal across the Lattice, encompassing centropic, entropic, and transitional pathways.
