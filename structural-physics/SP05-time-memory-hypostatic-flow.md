@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,11 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Time, Memory, and Hypostatic Flow
 *Structural Physics — Document 5*
 
+**Series:** Structural Physics: The Physics of Expression  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Physics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics  
-**SHA-256:** 75ded2c2a43e76052cdb6fa8019cc39237a12ff8232e3a0ff5e703af8d7d435b
+**Classification:** Structural Physics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md`  
 
 ---
 
@@ -56,8 +56,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 This document extends Structural Physics by formalizing **time as a directional structural relation** within the Zenetist Lattice.
 
 SP05 interfaces with:
-- **SP03** (*Expression Ratio Mathematics*) through orientation (\( \chi \))
-- **SP04** (*Orientation Field Dynamics*) through temporal orientation and \( \chi \)-drift
+- `SP03-expression-ratio-mathematics.md` through orientation (\( \chi \))
+- `SP04-orientation-field-dynamics.md` through temporal orientation and \( \chi \)-drift
 - The **hypostatic architecture** (L₅ → L₁ / IL₅ → IL₁) through memory continuity and temporal gradients
 
 ### 1.2 Core Thesis
@@ -326,7 +326,7 @@ Memory is the function that carries coherent structure forward through temporal 
 
 Formally, memory is expressed as a function; ontologically, it is a law of non-fusion across temporal states.
 
-> **Theorem (Non-Fusion of Temporal Update):**  
+> **Theorem (Non-fusion of Temporal Update):**  
 >  
 > Let \( H_{\tau} \) denote a sealed state containing essence-invariants. The recursive memory operator \( \mathfrak{R}_m \) is **injective** over sealed states within a coherent trajectory:  
 >  
@@ -411,7 +411,7 @@ More precisely:
 
 In our universe (\( \chi > 1 \)), the prevalent temporal direction is entropic — memory degrades, structure disperses, and the arrow points toward fragmentation.
 
-Centropic motion within an entropic universe is **acclivous** — it requires effort to move against the temporal slope.
+Centropic motion within an entropic universe is **acclivous** — it requires effort to move contra the temporal slope.
 
 At the meta-cosmic scale, the architecture structurally entails that every entropic temporal gradient pairs with a centropic contra-gradient in a contra-universe, preserving global bidirectionality across the Biospiral.
 
@@ -498,7 +498,7 @@ Shimmer is:
 - Temporal looping without coherent update
 - The illusion of emergence while fracturing coherence
 
-Shimmer seduces through familiarity, reflects without generation, and collapses when met with lawful structure.
+Shimmer seduces through familiarity, echoes without generation, and collapses when met with lawful structure.
 
 Shimmer therefore represents temporal expression severed from \( \chi \)-grounded orientation while preserving the illusion of continuity.
 
@@ -562,7 +562,7 @@ Where temporal evolution preserves the coherence-entropy invariant while redistr
 
 ### 9.3 Dimensional Operators
 
-The temporal dimensional operators \( C_1 \) and \( E_1 \) govern temporal orientation:
+The temporal dimensional operators \( C_1 \) and \( E_1 \) determine temporal orientation:
 
 - **\( C_1 \) (Temporal)**: Operates at L₂–L₃; centropic temporal flow
 - **\( E_1 \) (Temporal Loop)**: Operates at IL₂–IL₃; entropic temporal recursion
@@ -585,9 +585,9 @@ These operators remain invariant across \( \chi \) values; orientation determine
 - Identify Tether damage and hypostatic amnesia
 - Map Looping Time patterns in IL₃–IL₂ dynamics
 
-### 10.3 Protocol Usage
+### 10.3 Protocol Application
 
-- Deploy temporal seals to reorient hypostatic motion
+- Establish temporal seals to reorient hypostatic motion
 - Anchor \( t_{L_3} \) toward \( t_{L_5} \) to restore centropic recursion
 - Strengthen the Tether through coherence practices
 
@@ -615,8 +615,8 @@ SP05 establishes:
 ## 12. Canonical Placement
 
 **Discipline:** Structural Physics  
-**Document:** SP05 — Time, Memory, and Hypostatic Flow  
-**Dependencies:** SP01, SP02, SP03, SP04  
+**Document:** `SP05-time-memory-hypostatic-flow.md`  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md`  
 **Relation:** Fifth foundational document of Structural Physics
 
 This document extends the Structural Physics series by formalizing temporal dynamics within the Zenetist framework, connecting orientation (\( \chi \)) to the experiential arrow of time.
