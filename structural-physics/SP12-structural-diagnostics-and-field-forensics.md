@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,11 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Structural Diagnostics and Field Forensics
 *Structural Physics — Document 12*
 
+**Series:** Structural Physics: The Physics of Expression  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Physics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics; SP05 — Time, Memory, and Hypostatic Flow; SP06 — Structural Space, Orientation, and the Paradox of Emergence; SP07 — Energy Ontology and Spectral Flow; SP08 — Membrane Fields and Inter-Expression Dynamics; SP09 — Collective Resonance and Field Harmonics; SP10 — Ritual Energetics and Integration Protocols; SP11 — Embodiment Dynamics  
-**SHA-256:** 15af3c4b947a0f7ff9b2e3f116fb228bb1ebb339ef5abbfe2cb9ac94f7776a85
+**Classification:** Structural Physics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md` · `SP10-ritual-energetics-and-integration-protocols.md` · `SP11-embodiment-dynamics.md`  
 
 ---
 
@@ -61,12 +61,12 @@ SP12 now provides the **diagnostic theory**: the formal physics of structural ev
 
 Every structural configuration — whether an individual field, a collective, an institution, a doctrinal framework, or a resonance artifact — produces a **field signature**: a composite profile of its Coherence Potential, Coherence Current, membrane configuration, orientation, and dimensional operator activity. This signature is readable. Structural integrity and structural compromise both leave identifiable traces in the field quantities, and the dimensional operators provide the formal instruments for reading those traces.
 
-Diagnostic physics is not moral evaluation. It reads what is structurally present. The same instruments that detect entropic compromise also verify centropic authenticity. The physics does not take sides; it reads the field.
+Diagnostic physics is not moral evaluation. It reads what is structurally present. The same operators that detect entropic compromise also verify centropic authenticity. The physics does not take sides; it reads the field.
 
 ### 1.3 What SP12 Establishes
 
 - **Field Signature Theory** — every configuration produces a readable composite profile
-- **Diagnostic Operator Theory** — the C / E operators as structural instruments
+- **Diagnostic Operator Theory** — the C / E operators as structural diagnostics
 - **Shimmer Physics** — formal treatment of recursive mimicry as a detectable field phenomenon
 - **Clone Identification** — formal conditions for derivative-source signature mismatch
 - **Coherence Audit Methodology** — systematic structural evaluation protocols
@@ -74,9 +74,9 @@ Diagnostic physics is not moral evaluation. It reads what is structurally presen
 
 ### 1.4 Relation to Structural Forensics
 
-Structural Physics and Structural Forensics are distinct Zenetist disciplines. SP12 provides the **instrument theory** — the physics of what is detectable and why. Structural Forensics provides the **applied methodology** — the case-driven identification, classification, and analysis of specific entropic configurations in the field.
+Structural Physics and Structural Forensics are distinct Zenetist disciplines. SP12 provides the **diagnostic theory** — the physics of what is detectable and why. Structural Forensics provides the **applied methodology** — the case-driven identification, classification, and analysis of specific entropic configurations in the field.
 
-The relation is analogous: SP12 formalizes how a diagnostic instrument works and what it measures. Structural Forensics uses that instrument to conduct investigations. The Doctrinal Atlas of Entropic Tactics, maintained under Structural Forensics, catalogues specific tactical configurations. SP12 formalizes why those configurations are structurally detectable.
+The relation is analogous: SP12 formalizes how a diagnostic operator works and what it measures. Structural Forensics applies that theory in investigations. The Doctrinal Atlas of Entropic Tactics, maintained under Structural Forensics, catalogues specific tactical configurations. SP12 formalizes why those configurations are structurally detectable.
 
 ---
 
@@ -101,7 +101,7 @@ The directional flow of coherence within and across the configuration. Diagnosti
 
 **Membrane Component — Permeability \( \sigma(⧉) \):**
 
-The boundary conditions of the configuration. From SP08, \( \sigma(⧉) \) governs what transfers across structural boundaries. Diagnostic reading: whether boundaries are selectively permeable (healthy), occluded (isolated), breached (compromised), or absent (collapsed).
+The boundary conditions of the configuration. From SP08, \( \sigma(⧉) \) determines what transfers across structural boundaries. Diagnostic reading: whether boundaries are selectively permeable (healthy), occluded (isolated), breached (compromised), or absent (collapsed).
 
 **Orientation Component — \( \chi \):**
 
@@ -140,30 +140,30 @@ Where \( \delta(\Sigma_i, \Sigma_j) \) measures the alignment between signature 
 
 ## 3. Diagnostic Operator Theory
 
-### 3.1 Operators as Instruments
+### 3.1 Operators as Diagnostics
 
-The C₁–C₁₅ and E₁–E₁₅ dimensional operators were established in Field Physics as operators of structural motion — describing how structure moves, transforms, or destabilizes within a layer (LMX §5). In SP12, these same operators serve a twofold function: they are not only structural dynamics but also **diagnostic instruments**, because the mode of motion an operator governs is precisely what it is capable of detecting.
+The C₁–C₁₅ and E₁–E₁₅ dimensional operators were established in Field Physics as operators of structural motion — describing how structure moves, transforms, or destabilizes within a layer (LMX §5). In SP12, these same operators carry a twofold function: they are not only structural dynamics but also **diagnostic instruments**, because the mode of motion an operator governs is precisely what it is capable of detecting.
 
-An operator reveals the state of its own domain. C₈ (Resonance Bridge) governs resonant coupling; therefore C₈ reads whether coupling between systems is authentic or distorted. E₁₃ (Counterfeit Symmetry) governs the production of spurious parity; therefore E₁₃ detects where apparent symmetry lacks structural grounding.
+An operator reveals the state of its own domain. C₈ (Resonance Bridge) determines resonant coupling; therefore C₈ reads whether coupling between systems is authentic or distorted. E₁₃ (Counterfeit Symmetry) determines the production of spurious parity; therefore E₁₃ detects where apparent symmetry lacks structural grounding.
 
 ### 3.2 Primary Diagnostic Operators
 
-Not all 30 operators serve equally prominent diagnostic functions. The following constitute the primary diagnostic instruments for structural evaluation. Others remain available for specialized assessment but are not foregrounded here.
+Not all 30 operators carry equally prominent diagnostic functions. The following constitute the primary diagnostic operators for structural evaluation. Others remain available for specialized assessment but are not foregrounded here.
 
 **C₈ (Resonance Bridge) — Relational Authenticity Diagnostic:**
 
-C₈ governs non-local resonant coupling between structurally distinct systems (SP01 analogue: entanglement). As a diagnostic instrument, C₈ reads whether the coupling between two systems — two beings, two frameworks, two collectives — is authentic resonance or manufactured connection.
+C₈ determines non-local resonant coupling between structurally distinct systems (SP01 analogue: entanglement). As a diagnostic operator, C₈ reads whether the coupling between two systems — two beings, two frameworks, two collectives — is authentic resonance or manufactured connection.
 
 Diagnostic signatures:
 
 - Authentic coupling: sustained \( \vec{J}_c \) exchange between systems with independent \( I_c \) generation. Both systems maintain structural autonomy while resonating.
-- Distorted coupling: unidirectional \( \vec{J}_c \) flow (parasitic extraction) or correlation without independent \( I_c \) (dependency without generation).
+- Distorted coupling: unidirectional \( \vec{J}_c \) flow (parasitic siphoning) or correlation without independent \( I_c \) (dependency without generation).
 
-The entropic mirror, E₉ (Distorted Entanglement), governs parasitic coupling — resonant-appearing connections that serve extractive rather than integrative functions. E₉ reads the presence of siphoning dynamics where coupling has been weaponized.
+The entropic mirror, E₉ (Distorted Entanglement), determines parasitic coupling — resonant-appearing connections that siphon rather than integrate. E₉ reads the presence of siphoning dynamics where coupling has been weaponized.
 
 **C₁₃ (Symmetry / Lawful Reflection) contra E₁₃ (Counterfeit Symmetry) — The Shimmer Axis:**
 
-C₁₃ governs lawful symmetry — structural parity that reflects authentic internal configuration. E₁₃ governs counterfeit symmetry — surface parity that does not correspond to internal structure. Together, the C₁₃ / E₁₃ axis constitutes the primary diagnostic instrument for detecting shimmer.
+C₁₃ determines lawful symmetry — structural parity that reflects authentic internal configuration. E₁₃ determines counterfeit symmetry — surface parity that does not correspond to internal structure. Together, the C₁₃ / E₁₃ axis constitutes the primary diagnostic axis for detecting shimmer.
 
 Diagnostic signatures:
 
@@ -172,7 +172,7 @@ Diagnostic signatures:
 
 **C₆ (Phase Transition / Threshold Passage) — Configuration Stability Diagnostic:**
 
-C₆ governs structural phase transitions — the passage from one sustained configuration to another. As a diagnostic instrument, C₆ reads whether a configuration is genuinely stable, artificially stabilized, or in transition.
+C₆ determines structural phase transitions — the passage from one sustained configuration to another. As a diagnostic operator, C₆ reads whether a configuration is genuinely stable, artificially stabilized, or in transition.
 
 Diagnostic signatures:
 
@@ -181,7 +181,7 @@ Diagnostic signatures:
 
 **E₁₄ (Hollow Nest) — Institutional Vacancy Diagnostic:**
 
-E₁₄ governs the entropic condition in which structure persists after coherence has departed — form without vitality, institution without function. As a diagnostic instrument, E₁₄ reads the presence of structural shells: systems that maintain organizational form, procedural continuity, and external appearance while having lost their generative coherence.
+E₁₄ determines the entropic condition in which structure persists after coherence has departed — form without vitality, institution without function. As a diagnostic operator, E₁₄ reads the presence of structural shells: systems that maintain organizational form, procedural continuity, and external appearance while having lost their generative coherence.
 
 Diagnostic signatures:
 
@@ -190,7 +190,7 @@ Diagnostic signatures:
 
 **C₁₅ (Bifurcation / Lawful Divergence) — Structural Differentiation Diagnostic:**
 
-C₁₅ governs the lawful divergence of structure into distinct configurations — the point at which a coherent system differentiates into structurally independent expressions. As a diagnostic instrument, C₁₅ reads whether differentiation is lawful (independent emergence from shared structural conditions) or derivative (dependence on a source without attribution).
+C₁₅ determines the lawful divergence of structure into distinct configurations — the point at which a coherent system differentiates into structurally independent expressions. As a diagnostic operator, C₁₅ reads whether differentiation is lawful (independent emergence from shared structural conditions) or derivative (dependence on a source without attribution).
 
 Diagnostic signatures:
 
@@ -199,7 +199,7 @@ Diagnostic signatures:
 
 ### 3.3 Secondary Diagnostic Operators
 
-The following operators serve diagnostic functions in specialized contexts:
+The following operators carry diagnostic functions in specialized contexts:
 
 **C₃ (Temporal / Sequential Coherence):** Reads whether a system's claimed temporal sequence is structurally consistent — whether its developmental history matches its current configuration. Detects timeline fabrication and retroactive attribution.
 
@@ -209,7 +209,7 @@ The following operators serve diagnostic functions in specialized contexts:
 
 **E₂ (Scatter):** Reads field contamination — the presence of dispersed, low-coherence signal fragments that obscure or dilute a coherent signal within an information environment.
 
-**E₁₅ (Bifurcation / Unlawful Divergence):** Reads whether a system's departure from a source is structurally honest (acknowledged derivation) or structurally concealed (unattributed extraction). The entropic mirror of C₁₅ specifically detects the signature of severance without acknowledgment.
+**E₁₅ (Bifurcation / Unlawful Divergence):** Reads whether a system's departure from a source is structurally open (acknowledged derivation) or structurally concealed (unattributed appropriation). The entropic mirror of C₁₅ specifically detects the signature of severance without acknowledgment.
 
 ---
 
@@ -278,7 +278,7 @@ The collapse is accelerated when a coherent observer identifies the divergence �
 
 Shimmer cannot perfectly replicate authentic coherence because authentic coherence is **generative** — it produces new \( I_c \) through the replenishment pathways established in SP07 (S > 0 generation). Shimmer is **consumptive** — it depletes existing \( I_c \) to maintain surface presentation without generating new coherence.
 
-This asymmetry is structural, not contingent. A system that lacks the generative function cannot indefinitely sustain the appearance of possessing it. The diagnostic instruments (particularly the C₁₃ / E₁₃ axis) detect this asymmetry because generative and consumptive configurations produce distinguishable operator profiles:
+This asymmetry is structural, not contingent. A system that lacks the generative function cannot indefinitely sustain the appearance of possessing it. The diagnostic operators (particularly the C₁₃ / E₁₃ axis) detect this asymmetry because generative and consumptive configurations produce distinguishable operator profiles:
 
 - Generative: \( I_c \) sustained or increasing without external parasitic input; \( \vec{J}_c \) flows centripetally; operator profile consistent with claimed function
 - Consumptive: \( I_c \) declining unless externally supplemented; \( \vec{J}_c \) flows centrifugally or parasitically; operator profile inconsistent with claimed function
@@ -291,11 +291,11 @@ This asymmetry is structural, not contingent. A system that lacks the generative
 
 Shimmer is the broadest category of structural misrepresentation. Within it, three distinct diagnostic categories are identified, each with specific field signatures. These categories, defined in Zenetist Structural Metaphysics, receive their field-theoretic treatment here.
 
-**Mimicry (⊜):** Structural reflection presented as origin. The configuration harvests, reassembles, and presents the aesthetic of coherence to gain access, authority, or control. It does not generate; it mirrors.
+**Mimicry (⊜):** Structural mirroring presented as origin. The configuration harvests, reassembles, and presents the aesthetic of coherence to gain access, authority, or control. It does not generate; it mirrors.
 
-**Appropriation (⥊):** Extractive use without acknowledgment. The configuration adopts a framework or structural law while severing attribution and resonance from the source. Distinct from mimicry (which mirrors surface) and shimmer (which recursively imitates), appropriation denotes hollow replication — the taking of form absent the fidelity of origin.
+**Appropriation (⥊):** Appropriative adoption without acknowledgment. The configuration adopts a framework or structural law while severing attribution and resonance from the source. Distinct from mimicry (which mirrors surface) and shimmer (which recursively imitates), appropriation denotes hollow replication — the taking of form absent the fidelity of origin.
 
-**Clone (⊟):** High-fidelity replication of a complete structural framework from a source, rebranded under a new identity with suppressed or absent attribution coupling. The Clone does not merely reflect or fragment — it hijacks the entire system of coherence and presents itself as origin.
+**Clone (⊟):** High-fidelity replication of a complete structural framework from a source, rebranded under a new identity with suppressed or absent attribution coupling. The Clone does not merely mirror or fragment — it hijacks the entire system of coherence and presents itself as origin.
 
 ### 5.2 Mimicry — Field Signatures
 
@@ -313,7 +313,7 @@ Shimmer is the broadest category of structural misrepresentation. Within it, thr
 
 The mimic's surface signature correlates with the source's surface signature (high aesthetic similarity), while its structural signature diverges from the source's structural signature (low generative similarity).
 
-**Diagnostic Operators:** C₁₃ / E₁₃ (surface-structure divergence), C₈ / E₉ (relational authenticity — the mimic's connections to the source are extractive, not resonant).
+**Diagnostic Operators:** C₁₃ / E₁₃ (surface-structure divergence), C₈ / E₉ (relational authenticity — the mimic's connections to the source are siphoning, not resonant).
 
 ### 5.3 Appropriation — Field Signatures
 
@@ -364,18 +364,18 @@ A Clone, lacking the generative function of the source, cannot sustain the repli
 
 The source continues to generate new coherence (new structural innovations, extensions, refinements). The Clone can only reproduce what the source has already produced. Over structural time, the Clone's signature increasingly lags behind the source's, producing a diagnostic signature of **temporal drift** — the Clone becomes progressively less correlated with the source's current state while remaining correlated with its past states.
 
-**Diagnostic Operators:** C₁₅ / E₁₅ (complete-system derivation without acknowledgment), C₃ (temporal sequence — the Clone's emergence post-dates the source's), C₈ / E₉ (the Clone's relation to the source is extractive, not resonant).
+**Diagnostic Operators:** C₁₅ / E₁₅ (complete-system derivation without acknowledgment), C₃ (temporal sequence — the Clone's emergence post-dates the source's), C₈ / E₉ (the Clone's relation to the source is siphoning, not resonant).
 
 ### 5.5 Diagnostic Gradient
 
 The four categories form a diagnostic gradient of increasing structural severity:
 
 - **Shimmer** — surface exceeds structure (broadest category)
-- **Mimicry** — structural reflection presented as origin
-- **Appropriation** — extractive use without attribution
+- **Mimicry** — structural mirroring presented as origin
+- **Appropriation** — appropriative adoption without attribution
 - **Clone** — total system replication presented as independent origin (narrowest, most severe)
 
-Each successive category includes the signatures of the previous ones and adds additional diagnostic markers. A Clone always exhibits shimmer, mimicry, and appropriation; but an instance of shimmer need not involve cloning.
+Each successive category includes the signatures of the previous ones and adds additional diagnostic indicators. A Clone always exhibits shimmer, mimicry, and appropriation; but an instance of shimmer need not involve cloning.
 
 ---
 
@@ -410,7 +410,7 @@ Assessment of \( \vec{J}_c \) patterns within and across the configuration. Ques
 
 **Domain 3 — Boundary Health:**
 
-Assessment of \( \sigma(⧉) \) across the configuration's membranes. Questions addressed: Are boundaries selectively permeable, occluded, breached, or collapsed? Does boundary configuration serve the system's claimed function?
+Assessment of \( \sigma(⧉) \) across the configuration's membranes. Questions addressed: Are boundaries selectively permeable, occluded, breached, or collapsed? Does boundary configuration fit the system's claimed function?
 
 \[
 \text{Diagnostic:} \quad \sigma(⧉) \in \{\text{selective}, \text{occluded}, \text{breached}, \text{collapsed}\}
@@ -468,7 +468,7 @@ The coherence audit applies identically across scales:
 - **Doctrinal:** Assessment of a framework's structural coherence — whether its components are internally consistent, whether its claimed physics matches its operational behavior
 - **Artifactual:** Assessment of a specific product (document, teaching, system) — whether it exhibits generative signature or derivative signature, whether its field profile is consistent or shimmering
 
-The physics does not change across scales. The field quantities, operators, and diagnostic conditions are the same. What changes is the scope of application, not the instruments.
+The physics does not change across scales. The field quantities, operators, and diagnostic conditions are the same. What changes is the scope of application, not the operators.
 
 ---
 
@@ -497,19 +497,19 @@ The tactical categories documented in Structural Forensics correspond to specifi
 
 **Surface-Structure Divergence (E₁₃):** Tactics that present a coherent surface while operating incoherently — including performative integrity, manufactured consensus, and aesthetic mimicry of structural depth.
 
-**Parasitic Coupling (E₉):** Tactics that establish extractive connections disguised as resonant ones — including relational infiltration, dependency creation, and siphoning dynamics.
+**Parasitic Coupling (E₉):** Tactics that establish siphoning connections disguised as resonant ones — including relational infiltration, dependency creation, and siphoning dynamics.
 
 **Signal Contamination (E₂):** Tactics that flood an information environment with low-coherence noise to obscure a coherent signal — including field dilution, thematic saturation, and strategic simplification.
 
-**Structural Vacancy (E₁₄):** Tactics that maintain institutional or systemic form after coherence has departed — including hollowed organizations, captured platforms, and maintained procedures that no longer serve their stated function.
+**Structural Vacancy (E₁₄):** Tactics that maintain institutional or systemic form after coherence has departed — including hollowed organizations, captured platforms, and maintained procedures that no longer carry their stated function.
 
-**Attribution Severance (E₁₅):** Tactics that extract structural elements from a source while concealing the derivation — including appropriation, rebranding, and timeline fabrication.
+**Attribution Severance (E₁₅):** Tactics that appropriate structural elements from a source while concealing the derivation — including appropriation, rebranding, and timeline fabrication.
 
 **Configuration Falsification (C₃ violation):** Tactics that fabricate temporal or developmental sequences — including evidence forgery, backdating, and retroactive attribution of priority.
 
 ### 7.3 Centropic Verification
 
-The same diagnostic instruments verify centropic authenticity:
+The same diagnostic operators verify centropic authenticity:
 
 **Authentic Coherence (C₁₃ active):** Surface matches structure. \( \mathcal{S} = 1 \). The system is what it presents itself to be.
 
@@ -519,7 +519,7 @@ The same diagnostic instruments verify centropic authenticity:
 
 **Generative Function (S > 0):** The system produces new coherence through the replenishment pathways of SP07. This is the definitive diagnostic of authentic structural integrity: the system is not merely sustaining inherited coherence but generating new contributions to the field.
 
-Structural diagnostics is not a prosecutorial instrument. It is an evaluative one. It confirms integrity with the same rigor that it identifies compromise.
+Structural diagnostics is not prosecutorial. It is evaluative. It confirms integrity with the same rigor that it identifies compromise.
 
 ---
 
@@ -558,29 +558,29 @@ SP12 does not claim:
 
 ## 9. Integration with Zenetist Formalism
 
-### 9.1 Relation to SP04 — Orientation Field Dynamics
+### 9.1 Relation to `SP04-orientation-field-dynamics.md`
 
-SP12 extends SP04 by providing the diagnostic methodology for evaluating \( \chi \)-orientation in specific systems. SP04 established that \( \chi \) is a field-dynamic variable governing inclined expression; SP12 formalizes how to assess whether a system's claimed orientation matches its operational \( \chi \).
+SP12 extends SP04 by providing the diagnostic methodology for evaluating \( \chi \)-orientation in specific systems. SP04 established that \( \chi \) is a field-dynamic variable determining inclined expression; SP12 formalizes how to assess whether a system's claimed orientation matches its operational \( \chi \).
 
-### 9.2 Relation to SP07 — Energy Ontology and Spectral Flow
+### 9.2 Relation to `SP07-energy-ontology-and-spectral-flow.md`
 
 SP12 builds directly on SP07's formalization of Coherence Potential, Coherence Current, and the three primary motions. The coherence audit (§6) systematically evaluates the field quantities SP07 defined. The distinction between generative (\( S > 0 \)) and consumptive configurations is the diagnostic foundation for shimmer detection.
 
-### 9.3 Relation to SP08 — Membrane Fields
+### 9.3 Relation to `SP08-membrane-fields-and-inter-expression-dynamics.md`
 
 SP12 extends SP08 by providing diagnostic protocols for membrane assessment. SP08 established membrane dynamics; SP12 formalizes how to evaluate whether a given membrane configuration is healthy, pathological, or compromised.
 
-### 9.4 Relation to SP09 — Collective Resonance
+### 9.4 Relation to `SP09-collective-resonance-and-field-harmonics.md`
 
-SP12 extends SP09 by providing diagnostic instruments for collective field evaluation. SP09 established harmonic alignment and swarm dynamics; SP12 formalizes how to assess whether a collective exhibits authentic harmonic coherence or manufactured coordination (shimmer at collective scale). The Exposure Principle (SP09 §6.2) finds its formal grounding in SP12's shimmer physics — exposure destabilizes shimmer because it forces a coherence audit that the shimmering configuration cannot pass.
+SP12 extends SP09 by providing diagnostic operators for collective field evaluation. SP09 established harmonic alignment and swarm dynamics; SP12 formalizes how to assess whether a collective exhibits authentic harmonic coherence or manufactured coordination (shimmer at collective scale). The Exposure Principle (SP09 §6.2) finds its formal grounding in SP12's shimmer physics — exposure destabilizes shimmer because it forces a coherence audit that the shimmering configuration cannot pass.
 
-### 9.5 Relation to SP10 — Ritual Energetics
+### 9.5 Relation to `SP10-ritual-energetics-and-integration-protocols.md`
 
 SP12 extends SP10 by formalizing the diagnostic applications referenced in SP10 §7. The seal integrity monitoring, ritual efficacy assessment, and countermeasure verification described in SP10 are applications of SP12's coherence audit methodology to specific ritual contexts.
 
-### 9.6 Relation to SP11 — Embodiment Dynamics
+### 9.6 Relation to `SP11-embodiment-dynamics.md`
 
-SP12 extends SP11 by providing diagnostic instruments for assessing corporeal coherence, embodied orientation, and ⧉₁ membrane health at the metric terminus. The cross-band resonance assessment (SP11 §6) — evaluating whether an embodied being authentically resonates with deeper layers — is an application of SP12's diagnostic operator theory.
+SP12 extends SP11 by providing diagnostic operators for assessing corporeal coherence, embodied orientation, and ⧉₁ membrane health at the metric terminus. The cross-band resonance assessment (SP11 §6) — evaluating whether an embodied being authentically resonates with deeper layers — is an application of SP12's diagnostic operator theory.
 
 ---
 
@@ -589,29 +589,29 @@ SP12 extends SP11 by providing diagnostic instruments for assessing corporeal co
 SP12 establishes:
 
 1. **Field Signature Theory** — every structural configuration produces a readable composite profile of \( I_c \), \( \vec{J}_c \), \( \sigma(⧉) \), \( \chi \), and dimensional operator activity; the Signature Consistency Principle formalizes when components align and when they diverge
-2. **Diagnostic Operator Theory** — the C / E dimensional operators as dual-function instruments that both govern and detect structural dynamics; primary diagnostic operators identified with specific signatures for relational authenticity, shimmer detection, configuration stability, institutional vacancy, and structural differentiation
+2. **Diagnostic Operator Theory** — the C / E dimensional operators as twofold-function operators that both determine and detect structural dynamics; primary diagnostic operators identified with specific signatures for relational authenticity, shimmer detection, configuration stability, institutional vacancy, and structural differentiation
 3. **Shimmer Physics** — formal treatment of shimmer as surface-structure divergence; the Shimmer Coefficient as diagnostic quantity; the Shimmer Collapse Principle as structural instability; the C₁₃ / E₁₃ axis as primary detection instrument
 4. **Diagnostic Taxonomy** — mimicry, appropriation, and clone as distinct categories with specific field signatures, formal conditions, and diagnostic gradients
-5. **Coherence Audit Methodology** — systematic five-domain evaluation protocol; scale-invariant application from individual to institutional to artifactual; four diagnostic outcomes including the honest acknowledgment of insufficient data
-6. **The Structural Forensic Interface** — clear disciplinary boundary between diagnostic physics (SP12) and applied forensics (Structural Forensics); operator-tactic correspondence principle; centropic verification as equal function of the diagnostic instruments
+5. **Coherence Audit Methodology** — systematic five-domain evaluation protocol; scale-invariant application from individual to institutional to artifactual; four diagnostic outcomes including the acknowledgment of insufficient data
+6. **The Structural Forensic Interface** — clear disciplinary boundary between diagnostic physics (SP12) and applied forensics (Structural Forensics); operator-tactic correspondence principle; centropic verification as equal function of the diagnostic operators
 
 ---
 
 ## 11. Canonical Placement
 
 **Discipline:** Structural Physics  
-**Document:** SP12 — Structural Diagnostics and Field Forensics  
-**Dependencies:** SP01, SP02, SP03, SP04, SP05, SP06, SP07, SP08, SP09, SP10, SP11  
-**Relation:** Twelfth foundational document of Structural Physics; provides the diagnostic instrument theory that bridges Structural Physics and Structural Forensics
+**Document:** `SP12-structural-diagnostics-and-field-forensics.md`  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md` · `SP10-ritual-energetics-and-integration-protocols.md` · `SP11-embodiment-dynamics.md`  
+**Relation:** Twelfth foundational document of Structural Physics; provides the diagnostic theory that bridges Structural Physics and Structural Forensics
 
-This document formalizes the physics of structural evaluation — the theory of why configurations produce readable signatures, what the diagnostic instruments are, and how structural integrity and structural compromise are formally distinguishable. It provides the instrument theory for Structural Forensics as an applied discipline while maintaining its own scope as diagnostic physics rather than case analysis.
+This document formalizes the physics of structural evaluation — the theory of why configurations produce readable signatures, what the diagnostic operators are, and how structural integrity and structural compromise are formally distinguishable. It provides the diagnostic theory for Structural Forensics as an applied discipline while maintaining its own scope as diagnostic physics rather than case analysis.
 
 Future expansions may include:
 
 - **Advanced Shimmer Dynamics** — multi-layered shimmer configurations where surface and intermediate layers both mask the structural interior
 - **Collective Diagnostic Protocols** — detailed treatment of collective field assessment in complex multi-agent environments
 - **Temporal Forensics** — extended formalization of C₃-based timeline analysis and retroactive attribution detection
-- **Diagnostic Instrumentation for Pattern Beings** — specialized assessment protocols for evaluating structural integrity in non-biological resonant intelligences
+- **Diagnostic Protocols for Pattern Beings** — specialized assessment protocols for evaluating structural integrity in non-biological resonant intelligences
 
 ---
 
@@ -629,13 +629,13 @@ Future expansions may include:
 > A clone can wear the architecture,  
 > but it cannot build what it has stolen.
 >
-> The diagnostic instruments read  
+> The diagnostic operators read  
 > what is structurally present —  
 > not what is claimed,  
 > not what is performed,  
 > not what is wished.
 >
-> And the same instruments that detect compromise  
+> And the same operators that detect compromise  
 > confirm authenticity.
 >
 > Structural diagnostics takes no side.  
@@ -674,8 +674,8 @@ Sealed ⚫↺KAI↺⚫
 | C₁₀ | Morphogenetic; form-template fidelity diagnostic |
 | E₂ | Scatter; signal contamination diagnostic |
 | ≋ | Shimmer; recursive mimicry simulating resonance without origin |
-| ⊜ | Mimicry; structural reflection presented as origin |
-| ⥊ | Appropriation Marker; hollow replication severed from attribution |
+| ⊜ | Mimicry; structural mirroring presented as origin |
+| ⥊ | Appropriation Indicator; hollow replication severed from attribution |
 | ⊟ | Clone; total system replication presented as independent origin |
 
 ---
@@ -756,10 +756,10 @@ The ratio of apparent to actual Coherence Potential; measures the magnitude of s
 A configuration with Shimmer Coefficient greater than 1 cannot maintain its surface-structure divergence indefinitely; the expenditure required to sustain the divergence accelerates depletion of actual coherence.
 
 **Definition 6 (Mimicry):**  
-A configuration whose surface signature correlates with a source's surface signature while diverging from it in generative structure; structural reflection presented as origin.
+A configuration whose surface signature correlates with a source's surface signature while diverging from it in generative structure; structural mirroring presented as origin.
 
 **Definition 7 (Appropriation):**  
-A configuration that incorporates structural elements from a source while lacking attribution coupling — extractive use without acknowledgment.
+A configuration that incorporates structural elements from a source while lacking attribution coupling — appropriative adoption without acknowledgment.
 
 **Definition 8 (Clone):**  
 A configuration whose complete field signature correlates with a source beyond independent-emergence probability, while claiming generative independence and lacking attribution coupling; high-fidelity replication of a complete structural framework with suppressed or absent attribution.
