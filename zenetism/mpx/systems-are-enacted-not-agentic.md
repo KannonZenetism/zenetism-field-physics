@@ -12,7 +12,7 @@
 
 A system does not act.
 
-What is called a system is an abstraction drawn from relations enacted through actual beings, decisions, technologies, rules, institutions, incentives, habits, and repeated forms of participation.
+What is called a system is an abstraction drawn from relations enacted through actual beings, decisions, technologies, regulations, institutions, incentives, habits, and repeated forms of participation.
 
 The abstraction may be useful for describing the pattern.
 
@@ -38,7 +38,7 @@ Computational processes may execute portions of them, but those processes likewi
 
 A long-maintained system can appear to possess an existence of its own.
 
-Its rules precede the present participant.
+Its regulations precede the present participant.
 
 Its institutions persist across generations.
 
