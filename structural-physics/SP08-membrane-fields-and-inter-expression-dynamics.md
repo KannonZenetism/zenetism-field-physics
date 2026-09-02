@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,11 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Membrane Fields and Inter-Expression Dynamics
 *Structural Physics — Document 8*
 
+**Series:** Structural Physics: The Physics of Expression  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Physics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics; SP05 — Time, Memory, and Hypostatic Flow; SP06 — Structural Space, Orientation, and the Paradox of Emergence; SP07 — Energy Ontology and Spectral Flow  
-**SHA-256:** 4df3f8c82d6a4f22978e7e7cd936f2d26399b83fb92650ffe3394cd458436335
+**Classification:** Structural Physics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md`  
 
 ---
 
@@ -61,9 +61,9 @@ SP08 now addresses the ⧉ operator: **Membrane Fields** — the structural over
 
 Hypostatic layers (L₅–L₁, IL₅–IL₁) are not directly contiguous.
 
-Between layers exist **membrane fields** — transitional structures that modulate resonance transfer, filter coherence, and determine the conditions under which traversal succeeds or fails.
+Between layers exist **membrane fields** — transitional structures that modulate resonance transfer, filter coherence, and determine the conditions under which traversal completes or does not.
 
-Membranes are not themselves hypostases. They are **inter-hypostatic thresholds** — the structural conditions that govern passage.
+Membranes are not themselves hypostases. They are **inter-hypostatic thresholds** — the structural conditions that determine passage.
 
 ### 1.3 What SP08 Establishes
 
@@ -83,7 +83,7 @@ Membranes are not themselves hypostases. They are **inter-hypostatic thresholds*
 > **Definition (Membrane Field):**  
 > A **Membrane Field** (⧉) is a structural overlay or resonance threshold between hypostatic layers. Membranes are not themselves layers, but transitional conditions that modulate energy, perception, or motion between structural realms.
 
-Membranes serve as:
+Membranes are:
 
 - **Bridges** — enabling lawful passage between layers
 - **Filters** — permitting certain resonance frequencies while blocking others
@@ -143,7 +143,7 @@ Where:
 
 ### 3.2 Transfer Function
 
-The membrane transfer function governs how much resonance passes through:
+The membrane transfer function determines how much resonance passes through:
 
 \[
 T(⧉) = \sigma(⧉) \cdot \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \, I_{c,\text{reception}} - I_c^{(\text{target})} \right)
@@ -249,7 +249,7 @@ Where \( g(\omega) \) is the frequency response function (bandpass, lowpass, hig
 - Requires source term: \( S(⧉) > 0 \)
 - Cannot create resonance ex nihilo — amplification draws from origin structures
 
-**Function:** Strengthens weakened resonance during layer transition; enables passage that would otherwise fail threshold requirements.
+**Function:** Strengthens weakened resonance during layer transition; enables passage that would otherwise not meet threshold requirements.
 
 **Structural Origin:**
 
@@ -317,7 +317,7 @@ Where \( \mathcal{R} \) is the **resonance correlation function** between source
 
 Kaionic tunneling is not unlimited:
 
-- **Signature mismatch**: If \( \Psi_{\text{source}} \) does not correlate with membrane structure, tunneling fails
+- **Signature mismatch**: If \( \Psi_{\text{source}} \) does not correlate with membrane structure, tunneling does not complete
 - **Entropic corruption**: Fragmented signatures cannot achieve resonance correlation
 - **Membrane damage**: Severely occluded membranes may not respond to signature resonance
 - **Energy debt**: Tunneling may incur delayed coherence cost, requiring subsequent replenishment
@@ -331,7 +331,7 @@ Kaionic tunneling is not unlimited:
 > **Definition (Echo Layer):**  
 > Temporal or causal recursion strata within structural space; mythic loops or karmic returns where unresolved structural motions reiterate for integration.
 
-Echo Layers (⟲) are not hypostases. They are **recursion patterns within membrane space** — loops that form when resonance fails to fully transfer and instead cycles within the threshold region.
+Echo Layers (⟲) are not hypostases. They are **recursion patterns within membrane space** — loops that form when resonance does not fully transfer and instead cycles within the threshold region.
 
 ### 6.2 Formation of Echo Layers
 
@@ -341,7 +341,7 @@ Echo Layers form when:
 T(⧉) < I_c^{(\text{source})} - I_{c,\text{threshold}} \quad \text{and} \quad \sigma(⧉) > 0
 \]
 
-**Interpretation:** The membrane permits some transfer but not complete passage. The residual resonance that fails to cross becomes trapped in a recursive loop within the membrane region.
+**Interpretation:** The membrane permits some transfer but not complete passage. The residual resonance that does not cross becomes trapped in a recursive loop within the membrane region.
 
 ### 6.3 Recursion Dynamics
 
@@ -378,13 +378,13 @@ Unresolved Echo Layers may persist across temporal cycles — the structural bas
 ### 7.1 Membrane Collapse
 
 > **Definition (Membrane Collapse):**  
-> Complete failure of membrane structure; loss of threshold function.
+> Complete collapse of membrane structure; loss of threshold function.
 
 **Characteristics:**
 
 - \( \sigma(⧉) \) becomes undefined
 - Boundary between layers dissolves
-- Uncontrolled resonance mixing occurs
+- Unfiltered resonance mixing occurs
 
 **Consequences:**
 
@@ -424,7 +424,7 @@ Unresolved Echo Layers may persist across temporal cycles — the structural bas
 
 - Starvation: Layer cannot receive replenishment from origin structures
 - Accumulation: Resonance cannot discharge, leading to pressure buildup
-- Collapse risk: Isolated layers may undergo structural failure
+- Collapse risk: Isolated layers may undergo structural collapse
 
 ---
 
@@ -441,7 +441,7 @@ Membrane health can be assessed through spectral diagnostics:
 | Amplifier Active | > 1 | Enhanced | < 0 (source draw) | — |
 | Partial Occlusion | < 0.5 | Reduced | Variable | E₁₄ precursor |
 | Full Occlusion | → 0 | Minimal | Accumulation | E₁₄ |
-| Breach | → ∞ local | Uncontrolled | Outflow | E₉ |
+| Breach | → ∞ local | Unfiltered | Outflow | E₉ |
 
 ### 8.2 Echo Layer Detection
 
@@ -450,7 +450,7 @@ Echo Layers manifest as:
 - Recursive patterns in temporal flow
 - Repeated structural signatures at membrane boundaries
 - Coherence "shadows" that persist without resolution
-- Associated with ⟲ diagnostic markers
+- Associated with ⟲ diagnostic indicators
 
 ### 8.3 Tunneling Viability Assessment
 
@@ -459,7 +459,7 @@ Before attempting Kaionic tunneling, assess:
 1. **Signature clarity**: Is \( \Psi_{\text{source}} \) coherent and unfragmented?
 2. **Membrane responsiveness**: Does the membrane exhibit signature-sensitivity?
 3. **Energy reserve**: Is there sufficient \( I_c \) for post-tunneling recovery?
-4. **Return pathway**: If tunneling fails, can the entity return safely?
+4. **Return pathway**: If tunneling does not complete, can the entity return safely?
 
 ---
 
@@ -470,7 +470,7 @@ Before attempting Kaionic tunneling, assess:
 Membranes complete the hypostatic architecture:
 
 - **Layers** (L₅–L₁, IL₅–IL₁): Structural domains with full ontological presence
-- **Membranes** (⧉): Threshold conditions governing inter-layer dynamics
+- **Membranes** (⧉): Threshold conditions determining inter-layer dynamics
 - **Echo Layers** (⟲): Recursion patterns within membrane space
 
 Together, these form the complete topology of structural space.
@@ -479,11 +479,11 @@ Together, these form the complete topology of structural space.
 
 From SP07, Spectral Flow describes resonance traversal across the Lattice. Membranes specify the **boundary conditions** of that flow:
 
-- Spectral Flow governs motion within layers
-- Membranes govern transition between layers
+- Spectral Flow determines motion within layers
+- Membranes determine transition between layers
 - Transfer mechanics determine how much resonance crosses each threshold
 
-### 9.3 Relation to Declivous/Acclivous Motion
+### 9.3 Relation to Declivous / Acclivous Motion
 
 From SP06 Section 3, centropic traversal exhibits bidirectional motion:
 
@@ -512,8 +512,8 @@ SP08 establishes:
 ## 11. Canonical Placement
 
 **Discipline:** Structural Physics  
-**Document:** SP08 — Membrane Fields and Inter-Expression Dynamics  
-**Dependencies:** SP01, SP02, SP03, SP04, SP05, SP06, SP07  
+**Document:** `SP08-membrane-fields-and-inter-expression-dynamics.md`  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md`  
 **Relation:** Eighth foundational document of Structural Physics
 
 This document completes the structural topology by specifying the threshold conditions between hypostatic layers, building on SP07's energy ontology to describe how resonance transfers across boundaries.
@@ -618,10 +618,10 @@ The quantity of resonance \( T(⧉) \) that successfully crosses a membrane, det
 Non-standard passage across membrane barriers via structural signature resonance rather than Coherence Potential threshold satisfaction.
 
 **Definition 5 (Echo Layer):**  
-A recursion pattern within membrane space where resonance that fails to fully transfer becomes trapped in cyclic motion; the structural basis for karmic return and mythic recurrence.
+A recursion pattern within membrane space where resonance that does not fully transfer becomes trapped in cyclic motion; the structural basis for karmic return and mythic recurrence.
 
 **Definition 6 (Membrane Collapse):**  
-Complete failure of membrane structure; loss of threshold function; uncontrolled resonance mixing between adjacent layers.
+Complete collapse of membrane structure; loss of threshold function; unfiltered resonance mixing between adjacent layers.
 
 **Definition 7 (Membrane Breach):**  
 Localized rupture in membrane structure creating unauthorized passage point; may be exploited for siphoning.
