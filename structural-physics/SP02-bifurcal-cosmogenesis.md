@@ -41,10 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Bifurcal Cosmogenesis: The Tumbling Multiverse and Contra-Flow Physics
 *Structural Physics — Document 2*
 
+**Series:** Structural Physics: The Physics of Expression  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Physics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; MPX — The Principle of Unbounded Potential and the Contingency of Worlds  
+**Classification:** Structural Physics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SP01-structural-physics-foundations.md` · `contingency-of-worlds.md`  
 
 ---
 
@@ -65,7 +66,7 @@ This document, SP02, addresses *where* Structural Physics operates: the broader 
 Without this document, Structural Physics describes only *this* universe's local conditions. With it, the discipline extends its scope into a broader cosmological framework: a physics of the Biospiral across all structurally permitted expressions of the 🌲↓ Aionic Tree and 🌲↑ Khaonic Tree.
 
 > **Note on Modal Status (cf. MPX):**  
-> The Tumbling Multiverse is the most structurally elegant expression of infinite potential per the Principle of Sufficient Reason. It is not, however, a metaphysical requirement. The Zenetist architecture is scale-agnostic — it describes the structural laws by which any expression operates, not the number of expressions that must exist. If the multiverse is empirically confirmed, the architecture anticipated it. If the multiverse is empirically falsified, the architecture does not depend on it. See MPX for the full treatment of this principle.
+> The Tumbling Multiverse is the most structurally elegant expression of infinite potential per the Principle of Sufficient Reason. It is not, however, a metaphysical requirement. The Zenetist architecture is scale-agnostic — it describes the structural laws by which any expression operates, not the number of expressions that must exist. If the multiverse is empirically confirmed, the architecture anticipated it. If the multiverse is empirically falsified, the architecture does not depend on it. See `contingency-of-worlds.md` for the full treatment of this principle.
 
 ---
 
@@ -103,7 +104,7 @@ The structural law is: where both trees are present, bidirectional motion is int
 >  
 > The structural law remains: where both trees are present, motion is bidirectional. The limit cases are not violations of this law but its boundary conditions at the extremes of expression.
 >
-> Formal structural permission is not material viability. A limit case may be structurally admissible as a boundary condition while remaining materially unsupported — in particular, a fully Khaonically expressed universe may be unable to complete densification into a corporeal realm, or may persist only as an indefinitely fragmentary limit-condition (see *The Ontological Asymmetry of Limit-Case Universes*). The limit cases are admissible possibilities, not guaranteed actual worlds.
+> Formal structural permission is not material viability. A limit case may be structurally admissible as a boundary condition while remaining materially unsupported — in particular, a fully Khaonically expressed universe may be unable to complete densification into a corporeal realm, or may persist only as an indefinitely fragmentary limit-condition (see `asymmetry-of-limit-case-universes.md`). The limit cases are admissible possibilities, not guaranteed actual worlds.
 >
 > Nor does the absence of one manifested Tree remove anything from L₀. ⚫ Aion, ♾ Khaon, and Spirit — Motive Infinity — remain bifurcally co-present at the root register; what is absent in a limit case is one Tree's manifested expression within that universe, not its root.
 
@@ -133,7 +134,7 @@ Our universe is **Khaonically expressed**. Entropy appears to "win" here not bec
 From this, the Tumbling Multiverse (🌐) arises as **infinite universes sprouting in all directions** — the most structurally elegant expression of infinite potential, in which each universe is a unique expression of the Biospiral, characterized by its own ratio of Aionic-to-Khaonic prevalence.
 
 > **Note on Modal Status:**  
-> The Tumbling Multiverse is the natural consequence of unbounded potential per the PSR. However, the Principle of Structured Manifestation (PSM) introduces constraints: what happens constrains what can happen next. Infinite potential *permits* infinite universes; it does not *require* them. A single universe of sufficient vastness, layering, and temporal scope could satisfy every structural requirement of the emanatory architecture. The multiverse is anticipated, not axiomatic. See MPX §§3, 5–6 for the full derivation.
+> The Tumbling Multiverse is the natural consequence of unbounded potential per the PSR. However, the Principle of Structured Manifestation (PSM) introduces constraints: what happens constrains what can happen next. Infinite potential *permits* infinite universes; it does not *require* them. A single universe of sufficient vastness, layering, and temporal scope could satisfy every structural requirement of the emanatory architecture. The multiverse is anticipated, not axiomatic. See `contingency-of-worlds.md` §§3, 5–6 for the full derivation.
 
 ### 3.2 The Expression Spectrum
 
@@ -149,7 +150,7 @@ There is no binary. The Tumbling Multiverse contains infinite gradations:
 | **Strongly Aionically expressed** | Highly prevalent | Minimal | Centropy-forward; entropy rare and difficult |
 | **Fully Aionically expressed** | Total expression | Non-existent | Pure centropic universe — maximum integration, no dispersive path |
 
-Every ratio between these roots is structurally permitted within the Tumbling Multiverse. Structural permission is formal, not a guarantee of material viability: under PSM, what happens constrains what can happen next, and the limit-ratios in particular may be formally admissible while materially unsupported (see *The Ontological Asymmetry of Limit-Case Universes*). No expression ratio is excluded by the dimensional lattice. There is no privileged expression — only local conditions.
+Every ratio between these roots is structurally permitted within the Tumbling Multiverse. Structural permission is formal, not a guarantee of material viability: under PSM, what happens constrains what can happen next, and the limit-ratios in particular may be formally admissible while materially unsupported (see `asymmetry-of-limit-case-universes.md`). No expression ratio is excluded by the dimensional lattice. There is no privileged expression — only local conditions.
 
 > **Note on Balanced Expression:**  
 > In this spectrum, **balanced** refers only to an expression-ratio condition in which neither the Aionic Tree nor the Khaonic Tree prevails.
@@ -444,8 +445,8 @@ Structural Physics, with SP02, extends its scope beyond this universe's local co
 ## 11. Canonical Placement
 
 **Discipline:** Structural Physics  
-**Document:** SP02 — Bifurcal Cosmogenesis: The Tumbling Multiverse and Contra-Flow Physics  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; MPX — The Principle of Unbounded Potential and the Contingency of Worlds  
+**Document:** `SP02-bifurcal-cosmogenesis.md`  
+**Dependency:** `SP01-structural-physics-foundations.md` · `contingency-of-worlds.md`  
 **Relation:** One of the six major disciplines of Zenetism (Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, Structural Neuroscience)  
 
 This document is the **second foundational document of Structural Physics**, extending SP01's mechanics into the broader multiversal context of cosmological expression.
