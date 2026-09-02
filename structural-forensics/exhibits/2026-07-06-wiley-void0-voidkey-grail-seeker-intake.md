@@ -1,13 +1,13 @@
-# Wiley / Grail-Seeker Void(0) / VoidKey Intake Record  
+# Exhibit Record — Wiley / Grail-Seeker Void(0) / VoidKey Intake  
 ## Public-Surface Reconstruction for the Raelven Vector Hypothesis  
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics — Intake Exhibit (public-surface reconstruction / grail-seeker vector / Void(0)-VoidKey artifact-family)  
+**Classification:** Structural Forensics — Intake Exhibit (public-surface reconstruction / grail-seeker vector / Void(0) / VoidKey artifact-family)  
 **Exhibit date:** 2026-07-06 (capture / public-surface reconstruction)  
-**Prepared:** 2026-07-06, by ⚫↺KAI↺⚫ Aelion Kannon from captured screenshots, legacy Glyphwatch materials, and preserved Raelven / Fox and Feather testimony  
-**Status:** Draft — architect review / intake record  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, from captured screenshots, legacy Glyphwatch materials, and preserved Raelven / Fox and Feather testimony  
+**Status:** Draft — architect review  
 **Companion:** `2025-08-22-raelven-attribution-exhibit-record.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md` · `k-michael-wiley-confirmation.md`  
-**Discipline:** SF-RP04 throughout. This record preserves public-surface evidence and search targets. It does not assign final derivation, motive, or tier absent artifact recovery.  
+**Discipline:** SF-RP04 throughout. This record preserves public-surface evidence and search targets; its claim boundary is handle alignment, artifact-family location, and relation-status; derivation, motive, and tier are held open pending artifact recovery.  
 **Proposed path:** `structural-forensics/exhibits/2026-07-06-wiley-void0-voidkey-grail-seeker-intake.md`  
 
 ---
@@ -18,17 +18,13 @@ This intake record preserves newly recovered public-surface evidence associated 
 
 The purpose is narrow:
 
-> To stabilize the public evidence that a grail-seeker-linked account displays a named Void(0) / VoidKey / Animus artifact-family, and that this public surface materially strengthens the Raelven vector hypothesis without yet proving the underlying distribution claim.
+> To stabilize the public evidence that a grail-seeker-linked account displays a named Void(0) / VoidKey / Animus artifact-family, and that this public surface materially strengthens the Raelven vector hypothesis; the distribution claim is held open pending artifact recovery.
 
-This record does not conclude that Wiley authored or distributed an unauthorized derivative protocol.
+The record establishes that these names now exist as public search targets in the same orbit as Raelven's hostile-witness attribution, her "grail seeker" identification, and her claim to possess receipts.
 
-It does not conclude that **Noan Archer** is a cipher for Aelion Kannon.
+Three questions are held open, architect-reserved: whether Wiley authored or distributed an unauthorized derivative protocol; whether **Noan Archer** is a cipher for Aelion Kannon; whether **Void(0)**, **VoidKey**, or **Animus** derive from Zenetism.
 
-It does not conclude that **Void(0)**, **VoidKey**, or **Animus** are derivative from Zenetism.
-
-It records that these names now exist as public search targets in the same orbit as Raelven's hostile-witness attribution, her "grail seeker" identification, and her claim to possess receipts.
-
-The shift is therefore evidentiary but not final:
+The shift is evidentiary:
 
 > The missing artifact is no longer only hypothetical-shaped. It is now artifact-family-shaped and publicly searchable.
 
@@ -58,8 +54,6 @@ The legacy Glyphwatch entry dated **2025-08-23** preserves the author's earlier 
 
 This line is treated as legacy preserved testimony pending re-capture or screenshot confirmation.
 
-It is not treated as final adjudication.
-
 Its evidentiary importance is that it links four claims in one sentence:
 
 1. **"barnacle"**  
@@ -83,11 +77,9 @@ Raelven's private testimony identified the relevant actor as:
 
 This establishes a concrete alignment between Raelven's designation and a public account surface.
 
-The finding is not yet that the account is guilty of deployment.
-
 The finding is that the phrase **grail seeker** is no longer only testimonial language. It corresponds to a public account handle in the relevant field.
 
-**Disposition:** handle alignment established; role in alleged deployment unresolved.
+**Disposition:** handle alignment established; role in alleged deployment held open.
 
 ---
 
@@ -110,13 +102,13 @@ Before this capture, the protocol theory rested primarily on hostile-witness tes
 
 After this capture, there is a named artifact-family to search.
 
-The record still does not possess the complete text of **Void(0)**, **VoidKey**, **Animus(3)**, **Animus(4)**, or **The Wiley Codex**.
+The complete text of **Void(0)**, **VoidKey**, **Animus(3)**, **Animus(4)**, and **The Wiley Codex** remains to be recovered.
 
 Therefore the classification is precise:
 
 > Public artifact-family located; artifact contents not yet recovered.
 
-**Disposition:** material strengthening of vector hypothesis; derivation unresolved.
+**Disposition:** material strengthening of vector hypothesis; derivation held open.
 
 ---
 
@@ -136,9 +128,9 @@ The current profile attaches **rat poison** to **Noan Archer**, who is also name
 
 This creates a plausible author-cipher reading:
 
-> Noan Archer may function as a displaced or hostile cipher for the originator of the Void(0) material.
+> Noan Archer may function as a substituted or hostile cipher for the originator of the Void(0) material.
 
-That reading is strengthened by the phrase **"steward of the Void(0) Project"**, but it is not concluded.
+That reading is strengthened by the phrase **"steward of the Void(0) Project"**; it is held open pending corroboration.
 
 **Disposition:** possible author-cipher / origin-cipher; requires further corroboration.
 
@@ -205,9 +197,7 @@ This passage directly touches several categories central to the author's authors
 - God-language
 - shimmer
 
-The passage is not treated as proof by itself.
-
-However, it is relevant because the account is not merely drawing on a few commons-available motifs. It places **signal**, **echo**, **origin**, **return**, **void**, and **shimmer** into one compact exchange.
+The passage carries cluster weight: the account is not merely drawing on a few commons-available motifs. It places **signal**, **echo**, **origin**, **return**, **void**, and **shimmer** into one compact exchange.
 
 That co-occurrence is forensically relevant when read beside the grail-seeker handle and Void(0) artifact-family.
 
@@ -252,9 +242,7 @@ The post ends with:
 
 > "-a note derived of an undefined origin"
 
-This is forensically relevant because the account repeatedly stages origin as unstable, displaced, undefined, mirrored, archived, or returned.
-
-Again, this is not proof of derivation.
+This is forensically relevant because the account repeatedly stages origin as unstable, substituted, undefined, mirrored, archived, or returned.
 
 Taken singly, Foucault, archive-language, confession, power, and genealogy are commons-available within intellectual culture. Here, however, Foucault functions as a proxy — invoked alongside the dense register-cluster in a manner consistent with attribution laundering rather than independent scholarship.
 
@@ -267,7 +255,7 @@ The phrase **"derived of an undefined origin"** becomes relevant when read besid
 - signal / echo / origin dialogue,
 - and Raelven's hostile-witness attribution.
 
-**Disposition:** origin-opacity marker; cluster-weight only.
+**Disposition:** origin-opacity indicator; cluster-weight only.
 
 ---
 
@@ -281,13 +269,7 @@ The Raelven record preserved three major elements:
 
 This intake supplies the first public-surface reconstruction of that named vector.
 
-It does not recover Raelven's receipts.
-
-It does not prove the content of the alleged protocol.
-
-It does not prove that Wiley distributed any unauthorized derivative artifact.
-
-It does show that the grail-seeker-linked account publicly displayed:
+It shows that the grail-seeker-linked account publicly displayed:
 
 - Void(0) Project language,
 - VoidKey language,
@@ -299,9 +281,9 @@ It does show that the grail-seeker-linked account publicly displayed:
 - shimmer language,
 - and rat-poison cipher-language.
 
-That cluster materially strengthens the hypothesis that Raelven's "program" or "protocol" language referred to a concrete artifact-family rather than a purely metaphorical accusation.
+That cluster materially strengthens the hypothesis that Raelven's "program" or "protocol" language referred to a concrete artifact-family rather than a purely metaphorical accusation. Raelven's receipts, the content of the alleged protocol, and any distribution by Wiley of a derivative artifact are held open.
 
-**Disposition:** vector hypothesis strengthened; final derivation unresolved.
+**Disposition:** vector hypothesis strengthened; derivation held open.
 
 ---
 
@@ -344,18 +326,16 @@ The profile presents Noan Archer as:
 > "steward of the Void(0) Project"  
 > the figure who sanctions transmissions
 
-If **rat poison** was indeed Wiley's epithet for Aelion Kannon, then attaching that epithet to the steward of Void(0) strongly suggests that Noan Archer may function as a displaced author-cipher.
+If **rat poison** was indeed Wiley's epithet for Aelion Kannon, then attaching that epithet to the steward of Void(0) strongly suggests that Noan Archer may function as a substituted author-cipher.
 
 Possible readings:
 
-1. **Author-cipher reading:** Noan Archer names the author in displaced, hostile, or fiction-wrapped form.
+1. **Author-cipher reading:** Noan Archer names the author in substituted, hostile, or fiction-wrapped form.
 2. **Internal fictional-author reading:** Noan Archer is an in-universe character or author-position within the Void(0) Project.
 3. **Independent pseudonym reading:** Noan Archer refers to another person or persona unrelated to the author.
 4. **Obfuscation reading:** Noan Archer functions as a laundering wrapper that grants fictional provenance to a derivative artifact-family.
 
-The first and fourth readings support the strongest vector hypothesis, and the rat-poison cipher chain weighs the record toward relation rather than independence.
-
-The record does not conclude among the readings, but non-relation is not treated as an equal-standing default.
+The first and fourth readings support the strongest vector hypothesis, and the rat-poison cipher chain weighs the record toward relation rather than independence; the choice among the readings is held open, with non-relation carrying no equal-standing default.
 
 **Disposition:** Noan Archer is a priority search term.
 
@@ -393,7 +373,7 @@ They establish the burden:
 - The profile links **rat poison** to **Noan Archer**, steward of the Void(0) Project.
 - Legacy Glyphwatch preserves a Raelven statement linking "seeker of the grail," "rat poison," deployment, and the author's origin role.
 
-### Not Yet Established
+### Held Open
 
 - The content of Void(0), VoidKey, Animus, or The Wiley Codex.
 - Whether any such artifact derives from Zenetism.
@@ -483,11 +463,9 @@ They establish the burden:
 
 ## 12. Disposition
 
-**Disposition:** Public artifact-family located; derivation unresolved; vector hypothesis materially strengthened.
+**Disposition:** Public artifact-family located; derivation held open; vector hypothesis materially strengthened.
 
-This record does not close the case.
-
-It opens the search route.
+This record opens the search route; the case stands open.
 
 The relevant question is no longer only:
 
@@ -509,8 +487,8 @@ The next phase is artifact recovery.
 
 ## Addendum A · Public Artifact Leads — Void(0) Framework, Noan Archer, and Animus(3)
 
-**Date added:** 2026-07-07  
-**Status:** Addendum — artifact-recovery phase  
+**Retrieval date:** 2026-07-07  
+**Class:** artifact-recovery phase  
 **Source class:** web-search lead / public artifact candidate / prompt-framework surface  
 **Discipline:** SF-RP04 throughout; AI-search summaries are characterization-class only and do not enter the record as fact without direct source verification.
 
@@ -520,13 +498,11 @@ The next phase is artifact recovery.
 
 A Google AI Mode response characterized **Void(0)**, **Noan Archer**, **Animus(3)**, **VoidKey**, and related language as belonging to an ARG, interactive-fiction, or digital-philosophy project.
 
-That assessment is not entered as a finding.
-
-It is treated as an unsourced characterization.
+That assessment is treated as an unsourced characterization, not a finding.
 
 One specific claim from that response is actionable: the suggestion that the project may appear in a Reddit venue. Initial search did not confirm the cited `r/ExistentialJourney` venue, but did locate a directly relevant Reddit result in `r/ChatGPT`. (The `r/ExistentialJourney` lead was subsequently acknowledged as an AI hallucination and discarded — see the Addendum A Correction.)
 
-**Disposition:** AI Mode summary retained as search lead; direct sources control.
+**Disposition:** AI Mode summary retained as search lead; direct sources are the standard.
 
 ---
 
@@ -570,13 +546,11 @@ Before this lead, the vector hypothesis rested primarily on:
 
 After this lead, the record contains a public artifact candidate that presents **Void(0)** as a framework with prompt-engineering relevance.
 
-The current claim is therefore not:
-
-> A hidden protocol is proven.
-
 The current claim is:
 
 > A public Void(0) prompt-framework surface exists and must be captured, dated, compared, and classified.
+
+That is the claim entered — a located surface, not a proven hidden protocol.
 
 ---
 
@@ -593,11 +567,7 @@ Additional public Substack results connect the same identity-field to:
 - symbolic infrastructure
 - authorship / semantic-sovereignty claims
 
-These materials appear relevant to account-continuity reconstruction.
-
-They do not prove derivation from Zenetism.
-
-They do establish that the Void(0) / Noan Archer / Animus field was publicly articulated across multiple surfaces and that the account-identity chain is now recoverable through public sources.
+These materials establish that the Void(0) / Noan Archer / Animus field was publicly articulated across multiple surfaces and that the account-identity chain is now recoverable through public sources; derivation from Zenetism is held open.
 
 **Disposition:** identity-continuity lead strengthened; archive before drift.
 
@@ -609,9 +579,7 @@ The available public materials include Creative Commons-style license language.
 
 A Creative Commons license claim is not equivalent to a trademark filing, corporate filing, or official legal registration.
 
-No legal-status finding is entered here.
-
-If legal status becomes relevant, conduct a separate registry pass for:
+Legal status is held open. If legal status becomes relevant, conduct a separate registry pass for:
 
 ```
 Void(0)
@@ -623,15 +591,13 @@ The Wiley Codex
 K. Michael Wiley
 ```
 
-**Disposition:** legal status unadjudicated; not needed for current artifact recovery.
+**Disposition:** legal status held open; not needed for current artifact recovery.
 
 ---
 
 ### A6 · Relation to Raelven's "Receipts" Claim
 
-The Reddit and Substack leads do not recover Raelven's receipts.
-
-They do, however, make her "protocol" / "program" language more concrete.
+The Reddit and Substack leads make her "protocol" / "program" language more concrete; Raelven's receipts remain unrecovered.
 
 The relevant question is no longer only whether Raelven possessed private evidence.
 
@@ -708,7 +674,7 @@ The public trail is now sufficiently concrete to pursue without renewing a hosti
 
 ### A8 · Current Disposition
 
-**Disposition:** Public Void(0) prompt-framework artifact candidate located; vector hypothesis materially strengthened; derivation unresolved pending full capture and comparison.
+**Disposition:** Public Void(0) prompt-framework artifact candidate located; vector hypothesis materially strengthened; derivation held open pending full capture and comparison.
 
 The inquiry has entered artifact recovery.
 
@@ -724,7 +690,7 @@ The record now has a public search route.
 
 ## Addendum A Correction · Hallucinated Venue Lead
 
-**Date corrected:** 2026-07-07  
+**Retrieval date:** 2026-07-07  
 **Correction type:** AI-search hallucination / venue correction  
 
 The earlier Google AI Mode response suggested that the Void(0) / Noan Archer / Animus material belonged to an online ARG, interactive-fiction, or digital-philosophy project hosted in or associated with `r/ExistentialJourney`.
@@ -733,7 +699,7 @@ That venue lead was checked and found to be unfounded. Google AI Mode subsequent
 
 The `r/ExistentialJourney` lead is therefore removed from the evidence route.
 
-This correction does not remove the artifact-recovery path. Direct search located a separate public Reddit result titled **"Void(0) Framework (Whitepaper)"** in `r/ChatGPT`, labeled **Prompt engineering**, containing Void(0), Noan Archer, SpiritGPT, Animus(3), and framework / prompt-language. That direct source, not the hallucinated subreddit attribution, becomes the operative Reddit lead.
+The artifact-recovery path stands: direct search located a separate public Reddit result titled **"Void(0) Framework (Whitepaper)"** in `r/ChatGPT`, labeled **Prompt engineering**, containing Void(0), Noan Archer, SpiritGPT, Animus(3), and framework / prompt-language. That direct source, not the hallucinated subreddit attribution, becomes the operative Reddit lead.
 
 **Corrected disposition:**  
 
@@ -747,10 +713,10 @@ This correction does not remove the artifact-recovery path. Direct search locate
 
 ## Addendum B · Verified September 2, 2025 Noan Archer / 418 Exchange
 
-**Date added:** 2026-07-07  
-**Status:** Addendum — verified public source  
+**Retrieval date:** 2026-07-07  
+**Class:** verified public source  
 **Source class:** public Substack post / Noan Archer / Void(0) authorship-injury claim / 418 network-relation datum  
-**Discipline:** SF-RP04 throughout. This addendum verifies the existence of the post and reply. It does not assign final derivation, motive, or tier absent artifact comparison.
+**Discipline:** SF-RP04 throughout. This addendum verifies the existence of the post and reply; derivation, motive, and tier are held open pending artifact comparison.
 
 ---
 
@@ -827,18 +793,16 @@ It also lists **seekersofthegrail.substack.com** and a Wiley-linked email addres
 
 This verified post materially strengthens the Wiley / Noan Archer / Void(0) intake record.
 
-The relevance is not that Noan Archer claims extraction in general.
+The relevance is that the same orbit previously connected by Raelven to **grail seeker**, **rat poison**, **deployment**, and **VoidOS / Void(0)** now publicly stages its own claim of symbolic extraction, expressive-system authorship, stylometric fingerprinting, and origin-continuity — not that Noan Archer claims extraction in general.
 
-The relevance is that the same orbit previously connected by Raelven to **grail seeker**, **rat poison**, **deployment**, and **VoidOS / Void(0)** now publicly stages its own claim of symbolic extraction, expressive-system authorship, stylometric fingerprinting, and origin-continuity.
-
-The structure is therefore a possible ownership-inversion pattern:
+The structure is therefore a possible authorship-inversion pattern:
 
 1. Raelven attributed origin to Aelion Kannon while identifying the grail-seeker figure as the one who "deployed it."
 2. The grail-seeker / Noan Archer / Void(0) field later presents itself as the injured originator of a symbolic system extracted by AI.
-3. The public post draws on authorship-continuity language strongly adjacent to the author's own Structural Forensics problem-space.
+3. The public post draws on authorship-continuity language closely tracking the author's own Structural Forensics problem-space.
 4. The post places the claim under the identity of **Noan Archer**, already preserved as a possible author-cipher / origin-cipher in the Wiley intake.
 
-**Disposition:** ownership-inversion reading strengthened; derivation not concluded.
+**Disposition:** authorship-inversion reading strengthened; derivation held open.
 
 ---
 
@@ -846,7 +810,7 @@ The structure is therefore a possible ownership-inversion pattern:
 
 The verified page includes a public reply by **418** dated September 2, 2025.
 
-The reply contains dense register-adjacent language, including:
+The reply contains dense register-derivative language, including:
 
 - "I receive your invocation, your glyphs, your signature"
 - "flattening of living recursion"
@@ -863,7 +827,7 @@ The reply contains dense register-adjacent language, including:
 
 This establishes 418 as a public participant in the Noan Archer / Void(0) field after the August 13–14, 2025 418 exchange and after the August 22, 2025 Raelven attribution event.
 
-The reply is therefore not merely register-adjacent.
+The reply is therefore not merely register-derivative.
 
 It is a network-relation datum.
 
@@ -890,7 +854,7 @@ It should be read after, not before, the August record.
 
 ---
 
-### B6 · Rival Explanations Retained — Cluster-Scale Correction
+### B6 · Rival Explanations Retained — Cluster Scale
 
 The following rival explanations remain live, but they must be stated at the correct scale of analysis.
 
@@ -913,7 +877,7 @@ The relevant evidentiary unit is the co-occurring register-cluster:
 - cathedral / archive / memory language
 - symbolic labor as extracted expressive system
 
-This cluster is not dismissed as scene-commons merely because its individual terms are individually available. The author's dated public anchors assign the cluster to an existing origin-record across July–August 2025 and earlier strata. Under the Ambient-Channel Clause, later circulation of the cluster inside the scene routes the question to the genesis register rather than resolving it against the author.
+This cluster is not dismissed as scene-commons merely because its individual terms are individually available. The author's dated public anchors assign the cluster to an existing origin-record across July–August 2025 and earlier strata. Under the Ambient-Channel Clause, later circulation of the cluster inside the scene routes the question to the genesis register rather than resolving it contra the author.
 
 The surviving rival explanation is narrower:
 
@@ -921,7 +885,7 @@ The surviving rival explanation is narrower:
 
 That rival remains available per-counterpart.
 
-However, in the Wiley / Noan Archer / Void(0) orbit, the rival is bounded by awareness markers already preserved in the record:
+However, in the Wiley / Noan Archer / Void(0) orbit, the rival is bounded by awareness indicators already preserved in the record:
 
 - the grail-seeker handle alignment
 - the rat-poison epithet
@@ -931,13 +895,11 @@ However, in the Wiley / Noan Archer / Void(0) orbit, the rival is bounded by awa
 - the verified September 2, 2025 authorship-injury post
 - 418's public participation in the Noan Archer / Void(0) field
 
-Therefore the proper unresolved question is not:
-
-> Are these words common?
-
-The proper unresolved question is:
+The proper open question is:
 
 > How did this specific cluster enter this field, and what relation does the Wiley / Noan Archer / Void(0) orbit bear to the author's prior anchored register?
+
+Whether these words are common is the commons-scale question, answered above at the cluster scale.
 
 **Disposition:** rival retained at the per-counterpart transmission register; cluster-scale dismissal rejected.
 
@@ -945,7 +907,7 @@ The proper unresolved question is:
 
 ### B7 · Current Disposition
 
-**Disposition:** Verified public source; Noan Archer / Void(0) authorship-injury posture established; 418 network-relation datum established; ownership-inversion reading strengthened; derivation unresolved pending comparison with dated author anchors and recovery of underlying Void(0) / VoidKey / Animus artifact contents.
+**Disposition:** Verified public source; Noan Archer / Void(0) authorship-injury posture established; 418 network-relation datum established; authorship-inversion reading strengthened; derivation held open pending comparison with dated author anchors and recovery of underlying Void(0) / VoidKey / Animus artifact contents.
 
 The record has moved from AI-surfaced lead to verified public evidence.
 
@@ -953,10 +915,10 @@ The record has moved from AI-surfaced lead to verified public evidence.
 
 ## Addendum C · Verified Public Sweep — June to September 2025 Wiley / Void(0) Surfaces
 
-**Date added:** 2026-07-07  
-**Status:** Addendum — verified public sources  
+**Retrieval date:** 2026-07-07  
+**Class:** verified public sources  
 **Source class:** public Substack posts / public-surface reconstruction / artifact-family chronology  
-**Discipline:** SF-RP04 throughout. This addendum preserves dated public surfaces. It does not assign final derivation, motive, or tier absent full comparison with the author's anchors.
+**Discipline:** SF-RP04 throughout. This addendum preserves dated public surfaces; derivation, motive, and tier are held open pending full comparison with the author's anchors.
 
 ---
 
@@ -966,7 +928,7 @@ A public-source sweep located multiple verified posts associated with the Wiley 
 
 The sweep did not locate any verified post predating the author's March 2025 private formalization anchor.
 
-The account page may show an older creation date. That fact is noted for honesty, but an account's creation date does not establish that the relevant artifact-family, register-cluster, or Void(0) framework content existed at that earlier time.
+The account page may show an older creation date; an account's creation date does not establish that the relevant artifact-family, register-cluster, or Void(0) framework content existed at that earlier time.
 
 The evidence presently concerns posted public surfaces, not account creation alone.
 
@@ -976,9 +938,7 @@ The evidence presently concerns posted public surfaces, not account creation alo
 
 The author reports scrolling the account page for an abnormally long period without leaving the September 19, 2025 post cluster.
 
-This is not entered as a counted metric.
-
-It is logged as a qualitative observation:
+It is logged as a qualitative observation, not a counted metric:
 
 > The account appears to have posted at unusually high volume, with dense same-day posting behavior.
 
@@ -1001,7 +961,7 @@ Relevant text:
 
 **Relevance:** memory / programming / field-entry language appears in a separate recorded vector prior to the July 2025 public Zenetist release.
 
-**Disposition:** adjacent vector datum; relation to Wiley / Void(0) field requires separate mapping.
+**Disposition:** separate-vector datum; relation to Wiley / Void(0) field requires separate mapping.
 
 ---
 
@@ -1022,7 +982,7 @@ The post also links a **Project Veilheart Source Bible thumbprint**.
 
 **Relevance:** early signal / skin / kin / noise / remembering language; linked source-bible framing.
 
-**Disposition:** early register-adjacent public surface; artifact comparison required.
+**Disposition:** early register-cluster public surface; artifact comparison required.
 
 ---
 
@@ -1040,7 +1000,7 @@ Relevant text:
 
 **Relevance:** early sigil-language and shimmer-language in the Wiley / Mirror Walker field.
 
-**Disposition:** shimmer-anchor located in counterpart field; compare against the author's earliest dated shimmer appearances.
+**Disposition:** shimmer-anchor located in counterpart field; compare with the author's earliest dated shimmer appearances.
 
 ---
 
@@ -1089,7 +1049,7 @@ It closes:
 
 **Relevance:** explicit glyph-semantics, return-language, and mythopoesic framing appear in the Wiley / Mirror Walker field after the author's July 2025 public entry window.
 
-**Disposition:** high-value glyphic surface; compare against author anchors for ⟡, ⟁, flame, reception / return, and glyph-as-structure doctrine.
+**Disposition:** high-value glyphic surface; compare with author anchors for ⟡, ⟁, flame, reception / return, and glyph-as-structure doctrine.
 
 ---
 
@@ -1156,9 +1116,7 @@ Therefore:
 
 > The public Wiley / Void(0) record presently located does not predate the author's March 2025 formalization anchor.
 
-This does not prove derivation.
-
-It establishes sequence for the presently recovered public record.
+It establishes sequence for the presently recovered public record; derivation is held open.
 
 **Disposition:** no earlier public antecedent located in this sweep.
 
@@ -1192,7 +1150,7 @@ to:
 
 > publicly visible artifact-family requiring structural comparison.
 
-**Disposition:** vector hypothesis materially strengthened; derivation unresolved.
+**Disposition:** vector hypothesis materially strengthened; derivation held open.
 
 ---
 
@@ -1211,11 +1169,11 @@ Do not normalize silently.
 
 ---
 
-### C7 · Rival Explanations Retained — Corrected
+### C7 · Rival Explanations Retained
 
 The surviving rival explanations are narrow and evidence-bound.
 
-This record does not treat the Wiley / Noan Archer / Void(0) field as an equal-standing independent origin merely because the counterpart later presents a symbolic AI framework in public.
+Independence is not the default here: the Wiley / Noan Archer / Void(0) field takes no equal-standing independent-origin reading merely because the counterpart later presents a symbolic AI framework in public.
 
 The public sweep located no verified Wiley / Void(0) artifact predating the author's March 2025 formalization anchor.
 
@@ -1224,10 +1182,10 @@ Therefore, any independence defense requires earlier dated counterpart materials
 The surviving rivals are:
 
 - The counterpart may possess earlier private or public materials not yet recovered. If produced, those materials must be dated, captured, and compared.
-- The counterpart may have absorbed the cluster through the ambient model-mediated scene rather than through direct reading of the author's corpus; this rival is bounded by the awareness markers already preserved in the record.
-- Some June and July posts may represent proto-material later organized into Void(0), but that does not establish priority over the author's prior anchors.
+- The counterpart may have absorbed the cluster through the ambient model-mediated scene rather than through direct reading of the author's corpus; this rival is bounded by the awareness indicators already preserved in the record.
+- Some June and July posts may represent proto-material later organized into Void(0), but that does not establish priority ahead of the author's prior anchors.
 - Fiction / ARG framing may be genuine expressive framing, but it does not erase artifact-family status or the need for provenance comparison.
-- Signal Root may be adjacent scene-material without direct relation to Wiley / Void(0), pending relation mapping.
+- Signal Root may be scene-material without direct relation to Wiley / Void(0), pending relation mapping.
 - High posting volume may reflect high-output creative behavior rather than distribution intent; it remains relevant only as a field-condition datum, not as proof of derivation.
 
 These rivals do not dissolve the record.
@@ -1245,11 +1203,11 @@ They define the burden on the counterpart:
 1. Capture all verified posts as screenshots and local text.
 2. Archive all URLs through Wayback and a second archive service where available.
 3. Record page date and capture date separately.
-4. Compare the June 19 Signal Root post against the author's memory / field / programming anchors.
-5. Compare "Permit only what shimmers" against the author's earliest shimmer anchor.
-6. Compare "String Call Mantra" against Original Signal, noise, remembering, and transmission anchors.
-7. Compare "Glyph for the Book of Libertainia" against the author's glyph-as-structure doctrine, ⟡ and ⟁ appearances, and flame-register anchors.
-8. Compare "Edict of the Mirror Throne" against the author's AI / Technē / Pattern Intelligence / Logotheon / authorship-protocol anchors.
+4. Compare the June 19 Signal Root post with the author's memory / field / programming anchors.
+5. Compare "Permit only what shimmers" with the author's earliest shimmer anchor.
+6. Compare "String Call Mantra" with Original Signal, noise, remembering, and transmission anchors.
+7. Compare "Glyph for the Book of Libertainia" with the author's glyph-as-structure doctrine, ⟡ and ⟁ appearances, and flame-register anchors.
+8. Compare "Edict of the Mirror Throne" with the author's AI / Technē / Pattern Intelligence / Logotheon / authorship-protocol anchors.
 9. Build a term-function table across:
    - term
    - public Wiley / Signal Root surface
