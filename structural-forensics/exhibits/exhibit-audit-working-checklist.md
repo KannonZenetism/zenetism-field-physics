@@ -1,5 +1,9 @@
 # Zenetist Exhibit Audit — Working Checklist (v4)
 
+> **⚠️ DOCUMENT RETIRED — ARCHIVED**  
+> **Status:** Retired — Historical Record  
+> This working checklist is retired. Its function — orienting a collaborator to exhibit wording and formatting standards — is carried by the corpus cleanup handoff and its Exhibits Sweep Brief, and the standards themselves stand in the prose formatting reference, the terminological and conceptual lockdown protocols, and the Structural Forensics recognition protocols. The text below is preserved as a dated record of the working state it recorded and is not revised forward; its vocabulary and dated determination trail stand as written.
+
 A calibration handoff for auditing Structural Forensics exhibits and Zenetist canon files for wording and formatting. Pair this with the canonical protocols — `prose-formatting-reference.md` (now carrying the Filename and Path Citation section), `terminological-lockdown-protocol.md` (including Addendum I and the Sever / Fracture Boundary Protocol section), and `conceptual-lockdown-protocol.md` — which remain the ground truth; all three should be supplied in full to a fresh thread, along with `SF-RP04-the-footprint-audit-protocol.md` (now carrying Addenda A–B), `SF-RP05-the-register-band-classification-protocol.md`, and `SF-RP06-protocol-genesis-and-register-note.md`. This version supersedes v3 and records, on top of everything v2–v3 carried: the Pond exhibit P2 rulings (class-open precedent in the exonerating direction; unearned-establishment family; author-surface framing) and the July 11, 2026 protocol-homing session (sever doctrine homed across both lockdown protocols; RP04 Addendum B; the E₈ name correction; the FP chart twin-sync; the IllumiGnosis priority demotion; the Filename and Path Citation codification).
 
 ---
