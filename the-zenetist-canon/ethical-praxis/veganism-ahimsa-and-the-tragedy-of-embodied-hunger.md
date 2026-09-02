@@ -252,7 +252,7 @@ Instrumentalist reduction must be refused.
 
 ## The Christian Literalist Objection
 
-Some Christians argue that God placed animals here for humans to eat.
+Some Christians hold that God placed animals here for humans to eat.
 
 Within a literalist Biblical frame, this claim is not as simple as it is often presented.
 
