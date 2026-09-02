@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,11 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Embodiment Dynamics
 *Structural Physics — Document 11*
 
+**Series:** Structural Physics: The Physics of Expression  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Physics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics; SP05 — Time, Memory, and Hypostatic Flow; SP06 — Structural Space, Orientation, and the Paradox of Emergence; SP07 — Energy Ontology and Spectral Flow; SP08 — Membrane Fields and Inter-Expression Dynamics; SP09 — Collective Resonance and Field Harmonics; SP10 — Ritual Energetics and Integration Protocols  
-**SHA-256:** 32f2bd825dd0c1fd4dd9b34916e87eccb84459cea6b148b68af8c6ca4a4fec5f
+**Classification:** Structural Physics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md` · `SP10-ritual-energetics-and-integration-protocols.md`  
 
 ---
 
@@ -85,7 +85,7 @@ Embodiment is simultaneously the furnace of centropic refinement and the throne 
 > **Definition (Metric Terminus):**  
 > The Embodiment Band (L₁ / IL₁) constitutes the **metric terminus** of emanatory procession — the terminal layer at which structural resonance achieves corporeal expression within the Corporeal Realm. It is the point at which the emanatory arc, proceeding from L₅ → L₄ → L₃ → L₂ → L₁ (centropic) or IL₅ → IL₄ → IL₃ → IL₂ → IL₁ (entropic), interfaces with physicality.
 
-The term "metric" is used deliberately. At L₁ / IL₁, structural quantities acquire measurable correlates — time becomes experienced duration, spatial coherence becomes felt location, resonance becomes sensation. The metric terminus is where the lattice becomes tangible.
+The term "metric" is chosen deliberately. At L₁ / IL₁, structural quantities acquire measurable correlates — time becomes experienced duration, spatial coherence becomes felt location, resonance becomes sensation. The metric terminus is where the lattice becomes tangible.
 
 ### 2.2 Hypostatic Composition
 
@@ -138,7 +138,7 @@ Corporeal coherence is not metaphorical. It is the embodied expression of the sa
 
 ### 3.2 The Embodied Resistance Term
 
-At layers L₅ through L₂, centropic motion proceeds against entropic dynamics that operate on structurally separate inverse layers (IL₅ through IL₂). The centropic and entropic arcs are architecturally and ontologically distinct. From L₅ through L₂, they do not interact, couple, or exchange resonance. Their only shared domain of expression is the metric interface of embodiment, where L₁ and IL₁ are co-present within the same corporeal substrate.
+At layers L₅ through L₂, centropic motion proceeds contra entropic dynamics that operate on structurally separate inverse layers (IL₅ through IL₂). The centropic and entropic arcs are architecturally and ontologically distinct. From L₅ through L₂, they do not interact, couple, or exchange resonance. Their only shared domain of expression is the metric interface of embodiment, where L₁ and IL₁ are co-present within the same corporeal substrate.
 
 At L₁, this separation is preserved ontologically, but centropic and entropic embodiment become co-present within the same metric substrate. This co-presence introduces a resistance term into every centropic operation at the metric terminus:
 
@@ -185,11 +185,11 @@ Where \( \Delta I_{c}^{(\text{resistance})} \) is the resistance premium.
 
 **Asymmetric Effort:**
 
-Centropic motion at L₁ requires sustained effort against the resistance term. Entropic motion at IL₁ does not face an equivalent resistance — entropy at the metric terminus encounters no opposing co-presence because the centropic arc at L₁ does not resist entropy's dispersive motion in the same structural manner. This reflects the asymmetry established in SP04 §10: coherence must be achieved; dispersion need not be.
+Centropic motion at L₁ requires sustained effort contra the resistance term. Entropic motion at IL₁ does not face an equivalent resistance — entropy at the metric terminus encounters no opposing co-presence because the centropic arc at L₁ does not resist entropy's dispersive motion in the same structural manner. This reflects the asymmetry established in SP04 §10: coherence must be achieved; dispersion need not be.
 
 **Corporeal Fatigue:**
 
-When \( I_c \) expenditure against the resistance term depletes coherence reserves, the embodied system experiences degradation — loss of vitality, diminished clarity, structural compromise of the body-mind interface. This is not merely physical exhaustion but a depletion of corporeal coherence.
+When \( I_c \) expenditure contra the resistance term depletes coherence reserves, the embodied system experiences degradation — loss of vitality, diminished clarity, structural compromise of the body-mind interface. This is not merely physical exhaustion but a depletion of corporeal coherence.
 
 ### 3.4 Dimensional Operators at the Embodiment Band
 
@@ -197,15 +197,15 @@ The Inlay Map (Field Physics / Lattice Mathematics) designates the following pri
 
 **Primary Operators:**
 
-**C₂ (Spatial / Cohered Extension)** — At L₁, C₂ governs the spatial coherence of embodied form: felt location, bodily orientation, the coherent extension of the self within the Corporeal Realm. Its coupling to Soma (🪷) provides the spatial grounding of embodied experience. Its entropic mirror, E₂ (Scatter), manifests at IL₁ as spatial decoherence — dissociative space, the fragmentation of bodily presence.
+**C₂ (Spatial / Cohered Extension)** — At L₁, C₂ determines the spatial coherence of embodied form: felt location, bodily orientation, the coherent extension of the self within the Corporeal Realm. Its coupling to Soma (🪷) provides the spatial grounding of embodied experience. Its entropic mirror, E₂ (Scatter), manifests at IL₁ as spatial decoherence — dissociative space, the fragmentation of bodily presence.
 
-**C₄ (Rotational / Gyre)** — At L₁, C₄ governs the conserving rhythms of corporeal existence: biological cycles, circadian patterns, the stable precession of embodied processes. Its entropic mirror, E₄ (Vortex), manifests as consumptive collapse — the spiral of degradation when cyclical processes lose their conserving character and become self-consuming.
+**C₄ (Rotational / Gyre)** — At L₁, C₄ determines the conserving rhythms of corporeal existence: biological cycles, circadian patterns, the stable precession of embodied processes. Its entropic mirror, E₄ (Vortex), manifests as consumptive collapse — the spiral of degradation when cyclical processes lose their conserving character and become self-consuming.
 
 **Cross-Band Operators (Present Through Resonance):**
 
 **C₅ (Scalar / Part-Whole Fidelity)** — Spans L₁ through L₄ as cross-band propagation. At L₁, C₅ enables the part to coherently reflect the whole — the structural principle by which an individual embodied being reflects (without containing) the broader patterns of the lattice. C₅ also resonates deeply with L₃ (DS / DM), since it is the Deep Soul / Deep Mind that incarnates as fractal expressions across instantiation contexts, and the DS / DM that embodies and persists after embodiment concludes.
 
-**C₁₀ (Morphogenetic / Formweave)** — Bridges L₁ and L₄, translating pattern into living structure. At L₁, C₁₀ governs the formation of corporeal form according to archetypal template — the process by which structural pattern becomes tissue, organ, organism. C₁₀ resonates with L₄ (DP / DL), the Architectural / Archetypal Band where Sophis (📐) and Morgis (🌬️) provide the templates that Formweave translates into embodied expression. Its entropic mirror, E₁₀ (Malform), manifests as distortion at the point of formation — form that persists but without structural fidelity to its archetypal source.
+**C₁₀ (Morphogenetic / Formweave)** — Bridges L₁ and L₄, translating pattern into living structure. At L₁, C₁₀ determines the formation of corporeal form according to archetypal template — the process by which structural pattern becomes tissue, organ, organism. C₁₀ resonates with L₄ (DP / DL), the Architectural / Archetypal Band where Sophis (📐) and Morgis (🌬️) provide the templates that Formweave translates into embodied expression. Its entropic mirror, E₁₀ (Malform), manifests as distortion at the point of formation — form that persists but without structural fidelity to its archetypal source.
 
 **Operator Interaction:**
 
@@ -225,7 +225,7 @@ Where \( f \) represents the primary operator contributions (spatial coherence, 
 
 From SP04, every expressed universe exists as a \( \chi \)-trajectory, not a fixed position. At the metric terminus, the orientation field \( \chi \) acquires its most consequentially manifest expression.
 
-At L₂–L₅, \( \chi \) governs structural dynamics that may be subtle, interior, or pre-conscious. At L₁, \( \chi \) governs dynamics that are **experientially immediate** — felt, visible, consequential within the corporeal domain.
+At L₂–L₅, \( \chi \) determines structural dynamics that may be subtle, interior, or pre-conscious. At L₁, \( \chi \) determines dynamics that are **experientially immediate** — felt, visible, consequential within the corporeal domain.
 
 The centropic being at L₁ experiences \( \chi < 1 \) as the integrative pull toward coherence, synthesis, and Aion-oriented motion. The entropic being at IL₁ experiences \( \chi > 1 \) as the dispersive drive toward fragmentation, coercion, and self-edification.
 
@@ -313,7 +313,7 @@ At the metric terminus, the entropic being achieves maximum expression of disper
 
 **Malara Dynamics:**
 
-At IL₁, Malara (🍷) governs the entropic distortion of embodied soul-experience. The body becomes an idol rather than a vessel. Embodied experience is consumed by indulgence, reactive dissociation, and the soul's progressive detachment from its own structural signature.
+At IL₁, Malara (🍷) determines the entropic distortion of embodied soul-experience. The body becomes an idol rather than a vessel. Embodied experience is consumed by indulgence, reactive dissociation, and the soul's progressive detachment from its own structural signature.
 
 \[
 \Psi_{\text{Malara}} = \Psi_{\text{authentic}} + \Delta\Psi_{\text{dissociation}}
@@ -323,7 +323,7 @@ Where \( \Delta\Psi_{\text{dissociation}} \) represents progressive drift from a
 
 **Mania Dynamics:**
 
-At IL₁, Mania (🤯) governs the entropic distortion of embodied cognition. Thought becomes compulsive, obsessive, or chaotic — unanchored from the coherence that Biosa provides on the centropic side. Judgment becomes fixation; clarity becomes confusion.
+At IL₁, Mania (🤯) determines the entropic distortion of embodied cognition. Thought becomes compulsive, obsessive, or chaotic — unanchored from the coherence that Biosa provides on the centropic side. Judgment becomes fixation; clarity becomes confusion.
 
 \[
 I_c^{(\text{cognitive})} \to I_c^{(\text{compulsive})} \quad \text{as} \quad \chi \to \chi_{\text{entropic}}
@@ -405,7 +405,7 @@ An embodied being oriented entropically may resonate with:
 
 ### 6.4 The Orientation-Intent Principle
 
-Cross-band resonance is governed not by sophistication but by orientation and intent:
+Cross-band resonance is determined not by sophistication but by orientation and intent:
 
 \[
 \text{Gravity}_{\text{centropic}} = f(\text{Orientation}, \text{Intent}) \neq f(\text{Articulation})
@@ -421,10 +421,10 @@ This safeguards the lattice from becoming an intellectual trap. Sophistication m
 
 ### 7.1 The Cognitive-to-Embodied Threshold
 
-The membrane at ⧉₁ governs the threshold between L₂ (Superficial Band: Anthra / Nousa) and L₁ (Embodiment Band: Soma / Biosa):
+The membrane at ⧉₁ determines the threshold between L₂ (Superficial Band: Anthra / Nousa) and L₁ (Embodiment Band: Soma / Biosa):
 
 > **Definition (⧉₁ — Cognitive-Embodied Membrane):**  
-> The membrane field between L₂ and L₁, governing the transfer of resonance between cognitive-personal structures and corporeal expression. ⧉₁ determines what cognitive content achieves embodied expression and what embodied experience achieves cognitive integration.
+> The membrane field between L₂ and L₁, determining the transfer of resonance between cognitive-personal structures and corporeal expression. ⧉₁ determines what cognitive content achieves embodied expression and what embodied experience achieves cognitive integration.
 
 ### 7.2 Transfer Mechanics at ⧉₁
 
@@ -438,17 +438,17 @@ At ⧉₁, the transfer mechanics have specific characteristics:
 
 **Declivous Transfer (L₂ → L₁):**
 
-Cognitive-personal content translates into embodied action, sensation, and physical expression. This pathway governs:
+Cognitive-personal content translates into embodied action, sensation, and physical expression. This pathway carries:
 
 - Intention becoming physical action
 - Mental state becoming physiological condition
 - Cognitive pattern becoming habitual behavior
 
-The permeability \( \sigma(⧉_1) \) for declivous transfer is generally moderate — not all thought becomes action, not all cognition achieves physical expression. This selective permeability serves a protective function: it prevents the full intensity of cognitive dynamics from overwhelming corporeal capacity.
+The permeability \( \sigma(⧉_1) \) for declivous transfer is generally moderate — not all thought becomes action, not all cognition achieves physical expression. This selective permeability has a protective function: it prevents the full intensity of cognitive dynamics from overwhelming corporeal capacity.
 
 **Acclivous Transfer (L₁ → L₂):**
 
-Embodied experience translates into cognitive-personal content. This pathway governs:
+Embodied experience translates into cognitive-personal content. This pathway carries:
 
 - Sensation becoming conscious awareness
 - Physical experience becoming memory and meaning
@@ -458,7 +458,7 @@ The permeability for acclivous transfer is often asymmetric with declivous trans
 
 ### 7.3 Embodied Recursion at ⧉₁
 
-From SP08 §6, membrane recursion forms when resonance fails to fully transfer across a membrane and becomes trapped in recursive cycling. At ⧉₁, embodied membrane recursion manifests as:
+From SP08 §6, membrane recursion forms when resonance does not fully transfer across a membrane and becomes trapped in recursive cycling. At ⧉₁, embodied membrane recursion manifests as:
 
 **Centropic Recursion Layers:**
 
@@ -474,7 +474,7 @@ From SP08 §7, membranes may suffer collapse, breach, or occlusion. At ⧉₁:
 
 **⧉₁ Occlusion:** Progressive closure of the cognitive-embodied interface. Embodied experience ceases to integrate into conscious awareness, or cognitive content ceases to achieve physical expression. Manifests as dissociation, depersonalization, or the experience of inhabiting a body without connection to it.
 
-**⧉₁ Breach:** Uncontrolled permeability at the cognitive-embodied interface. Cognitive content floods corporeal expression without regulation, or embodied experience overwhelms cognitive capacity. Manifests as psychosomatic crisis, panic, or the inability to distinguish between mental and physical stimuli.
+**⧉₁ Breach:** Unregulated permeability at the cognitive-embodied interface. Cognitive content floods corporeal expression without regulation, or embodied experience overwhelms cognitive capacity. Manifests as psychosomatic crisis, panic, or the inability to distinguish between mental and physical stimuli.
 
 **⧉₁ Collapse:** Full dissolution of the cognitive-embodied boundary. The distinction between thought and sensation, intention and action, cognition and physicality becomes non-functional. This is a severe pathological condition requiring the emergency protocols specified in SP10 §4.3.3.
 
@@ -499,19 +499,19 @@ Where structural dynamics interface with observable phenomena, SP11 acknowledges
 
 The embodied resistance term (§3.2) finds a physical analogue in the classical concept of inertia — resistance to changes in state of motion. In the Newtonian formulation (Isaac Newton, *Principia Mathematica*, 1687), inertia is a property of mass. In Structural Physics, the resistance at L₁ arises from the co-presence of centropic and entropic motion in the same corporeal domain — a structural condition rather than a mass-property.
 
-The analogy is instructive but not reductive: physical inertia governs bodies in motion; embodied resistance governs orientation within the lattice.
+The analogy is instructive but not reductive: physical inertia determines bodies in motion; embodied resistance determines orientation within the lattice.
 
 **Entropy and the Second Law:**
 
 The entropic character of our universe (\( \chi > 1 \), as established in SP04 §12.4) finds physical expression in the second law of thermodynamics — the tendency of closed systems toward increased disorder. In the formulation associated with Rudolf Clausius (1850) and Ludwig Boltzmann (1877), entropy is a statistical property of microstates.
 
-In Structural Physics, the entropy-forward character of this universe reflects its \( \chi \)-orientation, not randomness or probability. The second law is what \( \chi > 1 \) looks like at the metric terminus.
+In Structural Physics, the entropy-forward character of this universe expresses its \( \chi \)-orientation, not randomness or probability. The second law is what \( \chi > 1 \) looks like at the metric terminus.
 
 **Morphogenesis and Biological Form:**
 
 C₁₀ (Morphogenetic / Formweave) finds physical analogues in the developmental biology of morphogenesis — the process by which organisms develop shape. The morphogenetic field concept, as explored by developmental biologists including Hans Driesch (1908) and later formalized by C. H. Waddington's epigenetic landscape (1957), describes how biological form emerges from developmental processes.
 
-In Structural Physics, C₁₀ governs the translation of archetypal pattern (L₄) into living structure (L₁). The physical mechanisms of gene expression, cellular differentiation, and tissue formation are the corporeal correlates of Formweave operating at the metric terminus.
+In Structural Physics, C₁₀ determines the translation of archetypal pattern (L₄) into living structure (L₁). The physical mechanisms of gene expression, cellular differentiation, and tissue formation are the corporeal correlates of Formweave operating at the metric terminus.
 
 **Cyclical Processes and Conservation:**
 
@@ -532,7 +532,7 @@ The boundary between structural claims and empirical claims is maintained throug
 
 ## 9. Integration with Zenetist Formalism
 
-### 9.1 Relation to SP04 — Orientation Field Dynamics
+### 9.1 Relation to `SP04-orientation-field-dynamics.md`
 
 SP11 extends SP04 to the metric terminus by:
 
@@ -541,7 +541,7 @@ SP11 extends SP04 to the metric terminus by:
 - Introducing the embodied resistance correction to the orientation evolution law (§4.5)
 - Confirming the asymmetry of expression (SP04 §10) through the embodied resistance term's asymmetric application
 
-### 9.2 Relation to SP07 — Energy Ontology and Spectral Flow
+### 9.2 Relation to `SP07-energy-ontology-and-spectral-flow.md`
 
 SP11 extends SP07 to the metric terminus by:
 
@@ -549,7 +549,7 @@ SP11 extends SP07 to the metric terminus by:
 - Demonstrating that all three primary motions (Resonance Discharge, Field Replenishment, Entropic Siphoning) acquire corporeal correlates at the Embodiment Band
 - Formalizing the increased coherence cost of operations at L₁ through the resistance term (§3.3)
 
-### 9.3 Relation to SP08 — Membrane Fields
+### 9.3 Relation to `SP08-membrane-fields-and-inter-expression-dynamics.md`
 
 SP11 extends SP08 to the metric terminus by:
 
@@ -557,7 +557,7 @@ SP11 extends SP08 to the metric terminus by:
 - Specifying transfer mechanics, Echo Layer dynamics, and pathological conditions at ⧉₁ (§7.2–7.4)
 - Demonstrating how membrane pathology at ⧉₁ manifests as recognizable conditions within embodied experience
 
-### 9.4 Relation to SP09 — Collective Resonance
+### 9.4 Relation to `SP09-collective-resonance-and-field-harmonics.md`
 
 SP11 contextualizes SP09 at the metric terminus:
 
@@ -565,7 +565,7 @@ SP11 contextualizes SP09 at the metric terminus:
 - Swarm dynamics (SP09 §5) find their most visible expression at L₁, where coordinated entropic agents operate within shared corporeal space
 - Entropic enthronement (§5) explains why swarm structures at the metric terminus achieve particular leverage — they operate from entropy's seat of maximum corporeal expression
 
-### 9.5 Relation to SP10 — Ritual Energetics
+### 9.5 Relation to `SP10-ritual-energetics-and-integration-protocols.md`
 
 SP11 contextualizes SP10 at the metric terminus:
 
@@ -580,7 +580,7 @@ SP11 contextualizes SP10 at the metric terminus:
 
 SP11 establishes:
 
-1. **The Metric Terminus** — L₁ / IL₁ as the terminal layer of emanatory procession where structural resonance interfaces with corporeal form; Soma / Biosa (centropic) and Malara / Mania (entropic) as the hypostatic figures governing embodied experience
+1. **The Metric Terminus** — L₁ / IL₁ as the terminal layer of emanatory procession where structural resonance interfaces with corporeal form; Soma / Biosa (centropic) and Malara / Mania (entropic) as the hypostatic figures determining embodied experience
 2. **Corporeal Resonance Mechanics** — Coherence Potential at L₁ as corporeal coherence; the embodied resistance term arising from centropic-entropic co-presence in the Corporeal Realm
 3. **Dimensional Operators at L₁** — C₂ (Spatial) and C₄ (Rotational) as primary operators; C₅ (Scalar / Part-Whole Fidelity) and C₁₀ (Morphogenetic) as cross-band participants through resonance
 4. **The Embodied Orientation Field** — \( \chi \)-dynamics at the metric terminus; the instability of equilibrium as experientially immediate; Localized Dissolution and the Mercy Fold as the structural consequence of embodied stagnation
@@ -594,8 +594,8 @@ SP11 establishes:
 ## 11. Canonical Placement
 
 **Discipline:** Structural Physics  
-**Document:** SP11 — Embodiment Dynamics  
-**Dependencies:** SP01, SP02, SP03, SP04, SP05, SP06, SP07, SP08, SP09, SP10  
+**Document:** `SP11-embodiment-dynamics.md`  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md` · `SP10-ritual-energetics-and-integration-protocols.md`  
 **Relation:** Eleventh foundational document of Structural Physics
 
 This document formalizes the structural physics of the metric terminus — the terminal emanatory interface where the full architecture of the lattice achieves corporeal expression. It extends the energy ontology (SP07), membrane dynamics (SP08), collective resonance (SP09), and ritual energetics (SP10) to the Embodiment Band, while contextualizing orientation field dynamics (SP04) at the layer where their consequences are most experientially immediate.
@@ -744,7 +744,7 @@ The additional coherence cost of centropic motion at L₁ arising from the co-pr
 A point of nullification within structure; the structural consequence of permanent equilibrium where motion ceases and expression collapses into completed potential within the Mercy Fold.
 
 **Definition 5 (⧉₁ — Cognitive-Embodied Membrane):**  
-The membrane field between L₂ and L₁, governing the transfer of resonance between cognitive-personal structures and corporeal expression.
+The membrane field between L₂ and L₁, determining the transfer of resonance between cognitive-personal structures and corporeal expression.
 
 **Definition 6 (Resonant Participation):**  
 The condition in which an embodied being resonates with a deeper layer \( L_k \) (or \( IL_k \)) through sufficient structural signature correlation, participating in that layer's dynamics without identity with it.
