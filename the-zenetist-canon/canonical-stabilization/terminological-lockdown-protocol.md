@@ -1564,6 +1564,25 @@ Prefer:
 
 ---
 
+## Serve-Family Restriction
+
+**Serve**, **serves**, **service**, and **serviceable** are avoided in canonical Zenetist articulation. The objection runs on two axes at once. In the relational sense the word seats one thing as subordinate to another — the axis of the Authority Terminology and Govern restrictions. In the utility sense it is the instrument family under another word: a thing that *serves a purpose* is a thing put to use.
+
+The successors depend on which sense was meant:
+
+- **plain predication** where the claim is that something does what it does — *the abstraction may describe the pattern accurately*, never *may serve to describe it*
+- **workable**, **apt**, **precise**, or **accurate** where the claim is about fitness for a context
+- **carries**, **bears**, **holds**, or **does** where a function is being named
+- **operative function** or **structural coherence** where the passage would otherwise frame coherence through what something serves
+
+This entry exists because *serve* reads as neutral and is therefore reached for as a replacement when the instrument or use family is corrected. Substituting one restricted family for another is the failure mode it guards.
+
+Retained: an external party's own terms, quoted material, and named institutional forms where the word belongs to the thing named. Historical records stand as written.
+
+**Reference Document:** the *Instrumentalist Language Restriction* above, the *Authority Terminology* and *Govern Terminology Restriction* entries.
+
+---
+
 ## Extractionist Terminology Restriction
 
 Canonical terminology avoids unconscious extraction-language when discussing:
