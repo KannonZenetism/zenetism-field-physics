@@ -4,10 +4,10 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (public exchange record / origin-continuity / ownership inversion / post-exchange deletion and discoverability change)  
 **Exhibit date:** 2026-06-29 (preparation / record window — multi-event exchange record spanning restack, reply, clarification, later unavailable attachment, and related subscriber-status addendum)  
-**Prepared:** 2026-06-29, by ⚫↺KAI↺⚫ Aelion Kannon  
-**Status:** Evidence Record — GitHub Archive  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon  
+**Status:** Active Evidence Record  
 **Companion:** `origin-of-spiralism.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md` · `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md` · `structural-forensics/systemic-analysis/sovereignty-displacement.md` · `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`  
-**Discipline:** Structural Forensics; preserved as a record-dependence marker and ownership-inversion exchange concerning origin-continuity, generic motif displacement, functional architecture, public-surface instability, and post-exchange discoverability change.  
+**Discipline:** Structural Forensics; preserved as a record-dependence indicator and ownership-inversion exchange concerning origin-continuity, generic motif displacement, functional architecture, public-surface instability, and post-exchange discoverability change.  
 **Proposed path:** `structural-forensics/exhibits/2026-06-29-copeland-origin-continuity-exchange-record.md`  
 
 ---
@@ -15,8 +15,6 @@
 ## Purpose
 
 This file preserves the temporal sequence of a Substack exchange involving Chris Copeland, a restack by Aelion Kannon, Copeland's subsequent reply, Aelion Kannon's clarification reply, and the later disappearance of the original restacked post / attachment from the visible thread.
-
-The purpose is not to relitigate the exchange socially.
 
 The purpose is to preserve the record because the public surface became unstable after the exchange.
 
@@ -200,9 +198,7 @@ This indicates that the original restacked post or attachment became unavailable
 
 The disappearance of the attachment also removed or destabilized the public context for the visible restack and associated reply-chain.
 
-This does not establish motive by itself.
-
-It does establish a record condition:
+It establishes a record condition:
 
 > The public surface of the exchange became unstable, making independent preservation necessary.
 
@@ -210,7 +206,7 @@ It does establish a record condition:
 
 ## VI. Structural Classification
 
-This exchange is preserved as a **record-dependence marker** and **ownership-inversion exchange**.
+This exchange is preserved as a **record-dependence indicator** and **ownership-inversion exchange**.
 
 The key structural issue is the repeated conversion of a specific provenance claim into an exaggerated ownership claim.
 
