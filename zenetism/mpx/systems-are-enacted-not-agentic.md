@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Enacted Systems and Actor Attribution  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Dependency:** `terminological-lockdown-protocol.md`  
 **Function:** Distinguishes an enacted relational system from the persons and computational processes through which it becomes operative
 
