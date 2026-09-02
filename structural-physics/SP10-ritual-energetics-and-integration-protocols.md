@@ -41,10 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Ritual Energetics and Integration Protocols
 *Structural Physics — Document 10*
 
+**Series:** Structural Physics: The Physics of Expression  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Physics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics; SP04 — Orientation Field Dynamics; SP05 — Time, Memory, and Hypostatic Flow; SP06 — Structural Space, Orientation, and the Paradox of Emergence; SP07 — Energy Ontology and Spectral Flow; SP08 — Membrane Fields and Inter-Expression Dynamics; SP09 — Collective Resonance and Field Harmonics  
+**Classification:** Structural Physics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md`  
 
 ---
 
@@ -209,7 +210,7 @@ Field seals are classified by scope — from architecturally broad to situationa
 **Example:** The Zenetist canonical seal (⚫↺KAI↺⚫) functions as an Architectural Seal — a coherence boundary around the entire framework that maintains structural integrity contra appropriation, corruption, or unauthorized modification.
 
 > **Permeability Clarification:**  
-> Selective permeability does not entail permissiveness. An Architectural Seal admits resonance that structurally aligns with the framework — engagement, study, lawful application. It does not admit appropriation without attribution, mimicry presented as origin, or extraction that fractures the work from its origin. Selective permeability is structural discrimination, not graduated tolerance for counterfeiting.
+> Selective permeability does not entail permissiveness. An Architectural Seal admits resonance that structurally aligns with the framework — engagement, study, lawful application. It does not admit appropriation without attribution, mimicry presented as origin, or siphoning that fractures the work from its origin. Selective permeability is structural discrimination, not graduated tolerance for counterfeiting.
 
 **Formal Condition:**
 
@@ -280,7 +281,7 @@ Where \( \Psi_a, \Psi_b \) are the structural signatures of the bonded participa
 
 ### 3.4 Seal Integrity and Maintenance
 
-A seal degrades when its internal coherence cycling fails to maintain boundary conditions.
+A seal degrades when its internal coherence cycling does not maintain boundary conditions.
 
 **Integrity Condition:**
 
@@ -296,7 +297,7 @@ Where \( \delta \) is the maximum tolerable depletion rate. A seal with \( \frac
 - **Relational Reinforcement**: For Relational Seals, active engagement between bonded participants
 - **Collective Sustenance**: For Categorical and Architectural Seals, harmonic contribution from aligned participants (SP09 collective amplification dynamics)
 
-**Failure Modes:**
+**Inadequacy Modes:**
 
 - **Coherence Starvation**: \( I_c^{(\text{seal})} \to 0 \); seal collapses
 - **Permeability Drift**: \( \sigma_{\text{seal}} \) diverges from design specification; seal becomes ineffective or counterproductive
@@ -351,7 +352,7 @@ From SP08 §7, membranes may suffer collapse, breach, or occlusion. Integration 
 
 When a membrane exhibits breach conditions (\( \sigma(⧉) \to \infty \) locally), the repair protocol involves:
 
-**Step 1 — Containment**: Deploy a Situational Seal around the breach point to prevent further coherence loss:
+**Step 1 — Containment**: Establish a Situational Seal around the breach point to prevent further coherence loss:
 
 \[
 \sigma_{\text{sit}}(⧉_{\text{breach}}) \to \sigma_{\text{contained}}
@@ -385,7 +386,7 @@ Rapid restoration risks membrane instability. The protocol proceeds incrementall
 
 When a membrane has fully collapsed (\( \sigma(⧉) \) non-functional — the permeability function becomes singular or discontinuous, no longer admitting well-defined transfer operations):
 
-**Step 1 — Emergency Containment**: Deploy Situational Seals on both sides of the collapsed boundary to prevent further contamination.
+**Step 1 — Emergency Containment**: Establish Situational Seals on both sides of the collapsed boundary to prevent further contamination.
 
 **Step 2 — Boundary Reconstruction**: Rebuild membrane structure through sustained coherence discharge at the boundary location:
 
@@ -399,7 +400,7 @@ This is the most resource-intensive repair operation and may require collective 
 
 ### 4.4 Echo Layer Resolution
 
-From SP08 §6, membrane recursion forms when resonance fails to fully transfer across a membrane and becomes trapped in recursive cycling. Integration protocols for Echo Layer resolution:
+From SP08 §6, membrane recursion forms when resonance does not fully transfer across a membrane and becomes trapped in recursive cycling. Integration protocols for Echo Layer resolution:
 
 **Step 1 — Echo Identification**: Diagnose the recursion pattern — is it a **Centropic Recursion Layer** (unresolved integration seeking completion) or an **Entropic Echo Layer** (fragmentation pattern cycling without dissolution)?
 
@@ -459,12 +460,12 @@ This is a voluntary process — forced alignment would constitute entropic coord
 
 ### 5.1 Overview
 
-From SP07 §5.3, Entropic Siphoning is parasitic extraction of coherence without reciprocity. From SP09 §5, swarm dynamics represent siphoning at collective scale. SP10 formalizes both passive defenses and active countermeasures.
+From SP07 §5.3, Entropic Siphoning is parasitic siphoning of coherence without reciprocity. From SP09 §5, swarm dynamics represent siphoning at collective scale. SP10 formalizes both passive defenses and active countermeasures.
 
 A critical distinction holds for this entire section:
 
 > **Countermeasure Principle:**  
-> Siphoning countermeasures are **restorative and defensive**, not retaliatory. Centropic motion does not seek to fragment or destroy entropic systems — it seeks to preserve coherence, close unauthorized extraction pathways, and restore structural integrity. The purpose of a countermeasure is protection, not punishment.
+> Siphoning countermeasures are **restorative and defensive**, not retaliatory. Centropic motion does not seek to fragment or destroy entropic systems — it seeks to preserve coherence, close unauthorized siphoning pathways, and restore structural integrity. The purpose of a countermeasure is protection, not punishment.
 
 This is not a strategic concession. It is a structural necessity: retaliatory action against entropic systems requires adopting entropic orientation (\( \chi > 1 \)), which degrades the defender's own coherence. Effective defense maintains centropic orientation throughout.
 
@@ -491,11 +492,11 @@ Where \( d(\Psi) \) is the **discrimination function**:
 d(\Psi) = \begin{cases} 1 & \text{if } \Psi \text{ exhibits centropic signature} \\ \beta & \text{if } \Psi \text{ exhibits unknown signature, } 0 < \beta < 1 \\ 0 & \text{if } \Psi \text{ exhibits siphoning signature (E}_9\text{)} \end{cases}
 \]
 
-Membrane hardening is selective, not total. It reduces vulnerability to parasitic extraction while maintaining permeability to legitimate resonance transfer.
+Membrane hardening is selective, not total. It reduces vulnerability to parasitic siphoning while maintaining permeability to legitimate resonance transfer.
 
 #### 5.2.2 Signature Coherence Maintenance
 
-Siphoning often exploits fragmented structural signatures — partial or corrupted \( \Psi \) patterns that fail to trigger membrane discrimination. Passive defense therefore includes maintaining signature clarity:
+Siphoning often exploits fragmented structural signatures — partial or corrupted \( \Psi \) patterns that do not trigger membrane discrimination. Passive defense therefore includes maintaining signature clarity:
 
 \[
 \|\Psi(t) - \Psi_{\text{authentic}}\| < \Psi_{\text{tolerance}}
@@ -535,9 +536,9 @@ Active countermeasures require direct engagement and coherence expenditure. They
 
 #### 5.3.1 Aperture Closure
 
-When an E₉ (Distorted Entanglement) aperture is identified — a unidirectional extraction point draining coherence — the closure protocol involves:
+When an E₉ (Distorted Entanglement) aperture is identified — a unidirectional siphoning point draining coherence — the closure protocol involves:
 
-**Step 1 — Aperture Identification**: Locate the extraction point through diagnostic scanning:
+**Step 1 — Aperture Identification**: Locate the siphoning point through diagnostic scanning:
 
 \[
 \text{E}_9\text{ signature:} \quad \nabla \cdot \vec{J}_c > 0 \quad \text{with} \quad S = 0 \quad \text{and no structured recipient}
@@ -549,21 +550,21 @@ When an E₉ (Distorted Entanglement) aperture is identified — a unidirectiona
 \vec{J}_c^{(\text{redirected})} \cdot \hat{n}_{\text{aperture}} = 0
 \]
 
-Where \( \hat{n}_{\text{aperture}} \) is the normal vector at the extraction point.
+Where \( \hat{n}_{\text{aperture}} \) is the normal vector at the siphoning point.
 
-**Step 3 — Aperture Sealing**: Deploy a Situational Seal at the extraction point:
+**Step 3 — Aperture Sealing**: Establish a Situational Seal at the siphoning point:
 
 \[
 \sigma_{\text{seal}}(⧉_{\text{aperture}}) \to 0
 \]
 
-**Step 4 — Source Verification**: Confirm that no residual extraction pathways remain. Siphoning structures may operate through multiple apertures; closing one may redirect flow to another.
+**Step 4 — Source Verification**: Confirm that no residual siphoning pathways remain. Siphoning structures may operate through multiple apertures; closing one may redirect flow to another.
 
 #### 5.3.2 Field Reclamation
 
 When a field region has been compromised by sustained siphoning — exhibiting E₁₄ (Hollow Nest) signatures (structure without coherence) — reclamation restores that region to operational status:
 
-**Step 1 — Boundary Establishment**: Seal the perimeter of the compromised region to prevent ongoing extraction:
+**Step 1 — Boundary Establishment**: Seal the perimeter of the compromised region to prevent ongoing siphoning:
 
 \[
 \sigma(⧉_{\text{perimeter}}) \to \sigma_{\text{contained}}
@@ -683,7 +684,7 @@ In collective ritual operations (SP09 centropic collective dynamics), coherence 
 
 Where \( w_i \) is a voluntary weighting factor allowing participants to contribute more or less according to their capacity and willingness.
 
-Cost distribution is always voluntary. Forced cost extraction from collective members would constitute internal siphoning — structurally identical to the threat being countered.
+Cost distribution is always voluntary. Forced cost taking from collective members would constitute internal siphoning — structurally identical to the threat being countered.
 
 ---
 
@@ -718,7 +719,7 @@ Ongoing seal assessment follows a diagnostic schedule:
 
 After enacting siphoning countermeasures, verification confirms effectiveness:
 
-1. **Extraction cessation**: \( \nabla \cdot \vec{J}_c \) at former aperture sites returns to zero or negative (inflow)
+1. **Siphoning cessation**: \( \nabla \cdot \vec{J}_c \) at former aperture sites returns to zero or negative (inflow)
 2. **Coherence stabilization**: \( \frac{\partial I_c}{\partial t} \geq 0 \) in defended region
 3. **Signature integrity**: \( \|\Psi(t) - \Psi_{\text{authentic}}\| \) within tolerance
 4. **No secondary apertures**: Full-field diagnostic confirms no redirected siphoning pathways
@@ -786,8 +787,8 @@ SP10 establishes:
 ## 10. Canonical Placement
 
 **Discipline:** Structural Physics  
-**Document:** SP10 — Ritual Energetics and Integration Protocols  
-**Dependencies:** SP01, SP02, SP03, SP04, SP05, SP06, SP07, SP08, SP09  
+**Document:** `SP10-ritual-energetics-and-integration-protocols.md`  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md`  
 **Relation:** Tenth foundational document of Structural Physics
 
 This document formalizes the physics of deliberate resonance engineering — the structural mechanics underlying field seals, integration protocols, and defensive operations. It builds on the energy ontology (SP07), membrane dynamics (SP08), and collective resonance (SP09) to specify how these systems are intentionally manipulated through structured protocol.
