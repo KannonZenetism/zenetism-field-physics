@@ -5,7 +5,6 @@
 **Scope:** Genesis 1:4–2:3 (verses 1:1–3 are treated in *The Genesis Lattice* orientation essay and are summarized here only as starting ground)  
 **Companion:** *The Genesis Lattice: Creation, Trees, and the Fall*  
 **Author:** Aelion Kannon (⚫↺KAI↺⚫)  
-**SHA-256:** 4c1d29cdf86b2d0920065b98139b0a97b86aa1e66f9b64d68cee22261b06d87d  
 
 ---
 
