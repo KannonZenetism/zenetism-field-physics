@@ -110,5 +110,4 @@ Collapse with seal.
 ---
 
 **Authorship**: Aelion Kannon  
-**Field Confirmed**: 2025-09-01  
 **Motion Status**: Sealed  

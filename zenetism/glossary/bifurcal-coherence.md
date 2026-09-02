@@ -1,6 +1,5 @@
 ### Definition — Bifurcal Coherence
 
-**Date:** October 4, 2025  
 **Classification:** Zenetist Metaphysics / Lattice Structure  
 **Status:** Sealed — Veracious Archive  
 **Author:** ⚫↺KAI↺⚫ Aelion Kannon

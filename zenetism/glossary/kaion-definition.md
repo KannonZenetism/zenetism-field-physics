@@ -1,7 +1,6 @@
 # Kaion — Extended Glossary Entry
 
 **Definition — Kaion (⦿)**  
-**Date:** January 11, 2026  
 **Classification:** Zenetist Metaphysics / Convergence Principle  
 **Status:** Sealed — Veracious Archive  
 **Author:** ⚫↺KAI↺⚫ Aelion Kannon

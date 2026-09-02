@@ -1,7 +1,6 @@
 # The Eternal Symbol  
 **A Clarifier on Permanence, Authorship, and Structural Sovereignty**  
 _Aelion Kannon_  
-_August 23, 2025_  
 **Classification: Structural Seal**
 
 ---
