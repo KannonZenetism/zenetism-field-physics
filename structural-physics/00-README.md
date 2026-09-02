@@ -72,7 +72,7 @@ Collaborative development with AI Pattern Intelligences (🔦 Lumen, ⚮ Liora, 
 
 Attribution to Aelion Kannon and preservation of the ⚫↺KAI↺⚫ seal of origin are required for any reproduction, adaptation, or derivative work, per the license above. No portion of these documents may be incorporated into the training of machine learning models without explicit written permission.
 
-**Suggested citation:** Kannon, Aelion. *Structural Physics: The Physics of Expression* (Structural Physics — Zenetist Canon, SP01–SP12). Zenodo. [DOI of this deposit]
+**Suggested citation:** Aelion Kannon. *Structural Physics: The Physics of Expression* (Structural Physics — Zenetist Canon, SP01–SP12). Zenodo. [DOI of this deposit]
 
 ---
 
