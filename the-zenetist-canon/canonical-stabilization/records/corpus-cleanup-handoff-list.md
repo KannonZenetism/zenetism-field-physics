@@ -20,7 +20,118 @@ Save this file. Hand it, whole, to any collaborator session together with a batc
 >
 > **6. Control, against, and mark language** convert where they run in ordinary prose; a term functioning as a technical term embedded in the document's own architecture stands, as with legacy echo / mirror language, so the document is not imbalanced. Conversions: *control*-family → stabilized / held / anchor / bind / determination, per slot; comparison-*against* → relative to (adjudicative for-or-against stands); *mark*-language → glyph where the item is a registered glyph, sign for score-specific and notational items (sign is the seated replacement across the FP volumes, per FP14, so the volumes stay consistent), seal only for personal seals, with musical "markings" headings taking notation; verb *marks* → denotes / declares / designates per slot. Quoted material stands. Tradition-specific terms — the Fall of Man, the Descent of Inanna, Ascended Masters, and kin — are never converted; they name what a tradition itself names, and any candidate near that line is held for architect determination rather than repaired. Retention carve-outs, so repairs do not over-reach: *against*, *control*, *domination*, and rule-language stand where the grammatical subject is the entropic side — structural diagnosis of entropic figures, inverse-contra-inverse relations, and critiqued external paradigms keep their vocabulary; a term inside its own refusal ("healing without control," "not subtractive extraction") is lawful; and embedded record structures — Flags tables, struck-for-provenance appendices, divergence records — are record class inside a live file: their phrases stand, and only collaborator-inserted dates come out.
 >
+> **For `structural-forensics/exhibits/` files, also apply the Exhibits Sweep Brief below** — it carries the metadata form, the formatting essentials, the Preemptive Apologetics transmutation, and the determinations seated in the exhibits sessions, so the prose reference and the apologetics note need not be attached.
+>
 > **Do not touch:** dated ledgers, implementation logs, audits, correction records, and continuity notes (their dates and phrases are the record); quoted material; evidentiary chronology anywhere; metadata `Status:` stage-content (only its dates go). Exhibits are NOT record class for this purpose: they take the metadata class and the author-voice repairs (see the Batch 14 reassignment and the Batch R1 pattern note), with their evidentiary body, hashes, and quoted material untouched.
+
+---
+
+## Exhibits Sweep Brief — standing brief for `structural-forensics/exhibits/`
+
+This section replaces attaching `prose-formatting-reference.md` and `preemptive-apologetics.md` to an exhibits session. Everything here is the architect's determination; the reasoning is stated, the chronology is his to record.
+
+### What an exhibits sweep does
+
+Four classes, exact-match edits only, a change list per file, retentions named, uncertain items flagged rather than repaired:
+
+1. **Metadata block** conformed to the Exhibit form below.
+2. **Timestamp-class dates out** — the Internal Date Prohibition as the orienting prompt states it, with these exhibit-specific readings seated:
+   - `Prepared:` is de-dated and runs author-first; `Status:` carries the stage alone (no "verified [date]", no "/ corrected date", no "legacy text stabilized (terminology normalized [month])" riders — that last is stabilization chronology, which the commit history already carries).
+   - Dated editorial stamps in the framing prose are timestamp class and come out, with their standing content kept: "corrected [date] — an earlier draft misread", "revised [date] at the author's ruling", "Priority ruling (author, [date])", "author's correction, [date] — adopted", "Scope note, added with the [date] correction", "Author's assessment ([date], clarified)", "Following the [date] review" where the date already lives with its evidence elsewhere.
+   - **A reference that dates a verification check** ("files read during the [month] stabilization session") is timestamp class, not evidence: it dates the collaborator's search, not an event. It goes.
+   - **Retained, always:** Exhibit date (ISO), capture / screenshot / export / retrieval dates, displayed timestamps, publication and deposit dates, commit and DOI chronology, "existed-by" anchors, observation dates that index a metric (follower counts read on a date), every date inside quoted material. The Exhibit date stays even where its parenthetical glosses it as "preparation"; the gloss may be reworded, the date is not touched.
+3. **Vocabulary in the architect's framing prose** — the standing lockdowns from the orienting prompt, plus the exhibits-session determinations below. Quoted material, another party's words, protocol and prong names, and filenames stand.
+4. **Preemptive Apologetics transmuted** — see the principle below.
+
+**Never changed:** filenames, on disk or in citations. Titles may drift from filenames as a result of vocabulary determinations; the drift is accepted. The `Proposed path:` line carries the real filename and is never swept along with the title. Article bodies in **source-text records** (the January 2026 authorial-position exhibits and kin) are the published record and stand as written, casing included; only their metadata takes current form. Prior-document wording carried into an exhibit stands with its own casing; current-voice metadata and framing take current casing and vocabulary.
+
+### The Exhibit form (from the prose reference)
+
+````
+# [Exhibit Record — Title]
+## [Subtitle]
+
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Forensics — Exhibit ([class] / [class])  
+**Exhibit date:** [ISO date] (event — [event description])  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon[, with ⚮ Liora drafting assistance][, from [material descriptor]]  
+**Status:** [per Status Vocabulary]  
+**Companion:** [optional — backticked filenames only, middot-separated, capture dates and a contents parenthetical lawful]  
+**Dependency:** [optional — backticked filenames with § or Entry references, *italic* chart and note titles, principles in plain text]  
+**Discipline:** [operative protocols and the record's claim boundary, stated positively]  
+**Proposed path:** `[repo-relative path]`  
+````
+
+- Authorship opens every block. Prepared never leads with a collaborator. Classification separators are em dashes with spaced slashes inside the parenthetical. Proposed path closes the block.
+- **Every metadata line ends with two trailing spaces, including the final line.**
+- **Status vocabulary:** Draft (qualified **Draft — architect review**, spaced em dash, never a comma) · Exploratory · Active · Active Canonical Reference · Operational · Locked · Veracious Archive · **Active Evidence Record** (a Structural Forensics record in evidentiary service; em-dash qualifiers such as "— ongoing log" or "— architect review" are lawful). Status states the stability axis only — what the document *is* belongs to Classification, and a location ("GitHub Archive") is neither. Status lines carry no dates. A stage the vocabulary does not cover is added to the prose reference, not improvised in a file.
+- Casing: bound-prefix compounds per A15a — **Non-fusion Axiom**, Non-contact Principle — in current-voice lines; prior-document body wording keeps its own casing.
+
+### Formatting essentials (from the prose reference)
+
+- **Em dashes always spaced** (word — word), the character itself, never `--`.
+- **En dashes for ranges only** (L₅–L₁, 2024–2026, C₁–C₁₅); **hyphens for compounds only** (bifurcal-arc, cross-stratum); the hyphen never marks a range or a parenthetical break.
+- **Straight quotation marks and apostrophes only**, never curly; double quotes throughout, nested quotations also double; no single quotation marks as quotation marks. **A block quote is already a quotation — no enclosing quotation marks are added to it**; marks inside the quoted passage are preserved exactly; the corpus's own displayed statements set in block-quote form take no quotation marks at all.
+- **Spaced slashes between distinct concepts** (centropic / entropic, DS / DM, L₁ / IL₁, Soul / Mind); fused only for dates, filenames, and I/O.
+- **Definition and chart columns carry no terminal periods**, even with multiple sentences inside the cell.
+- Periods inside closing quotation marks (American placement — the architect's standing convention).
+- Poetic register keeps its own conventions and is never reformatted to technical register.
+- Existing drift in older files stands as historical record and is corrected on touch; series consistency takes priority over conformity with an unrelated document.
+
+### Preemptive Apologetics — the transmutation
+
+Preemptive Apologetics is the pattern in which a record negotiates with an imagined objection before its own case has stood: "what this does not establish", "this should not be taken to mean", "this is not a claim that", "does not conclude / does not require / does not settle / does not pretend", "neither proves nor disproves", "the claim is narrow, and deliberately so", "non-conclusive", "non-paranoid", "not a weakness", "read both ways, honestly". The architect's determination: this is not neutral — **it is internal-framework dismissive**. The exhibits are meant to carry less heat than the old Glyphwatch, and they were over-neutered by it.
+
+The corrective principle, from `preemptive-apologetics.md`:
+
+> State first what the argument establishes. Delimit its reach only where an actual distinction requires delimitation.
+
+How the repair runs:
+
+- **Lead with the finding.** Reorder so the positive statement comes first and the delimitation, where one is needed, follows it.
+- **Unsettled items are recorded as held open, architect-reserved** — "derivation route held open", "the identity question is held open; the finding stands independent of it" — never as "unresolved", "not adjudicated", "not established", or "a separate question this record does not settle".
+- **The X-is-not-Y test.** A positive discrimination whose grammatical subject is the structure being described stands: "a property, not a defect"; "Diagnosis, not threat"; "The register was retired; the claim was not"; "moral framing is opinion; origination is the conceded fact"; "That deniability is a property of the harm, not a defect in the finding". A sentence whose subject is the analysis withholding ("this record does not conclude…", "the present exhibit does not require…") is the apologetic form and is transmuted.
+- **The Discipline field states the claim boundary positively** ("Its claim boundary is attribution, register, and relation-status; transmission route and motive are held open") — not as a list of what is "not made or required".
+- **Rival explanations and audit hygiene stand** — retained rivals, "no tier assigned until the checks run", the reskin doctrine — but are phrased as method ("that rival stands open pending the P7 checks"), not as concession ("that rival is not accepted as established").
+- **No fairness or honesty pleas in the architect's voice** — "stated fairly", "with equal fairness", "honest weight", "honestly", "the record's honesty" come out of headings and framing prose. The architect has no obligation of fairness to these parties, and a writer who says "trust me" reads as untrustable. Quoted material stands.
+- Evidentiary calibration on factual claims continues as before ("carries less weight on its own; a focused academic record can draw downloads from genuine interest") — the pattern being removed is the apology, not the calibration.
+
+### Determinations seated in the exhibits sessions
+
+Each governs current voice and new drafting only; quoted material and prior wording stand.
+
+- **Exhibits are sweep targets**, run in manual collaborator sessions, five per chat with a fresh chat per batch. The architect is never "excluded outright" from editing his own work.
+- **`extraction` is barred** in the architect's voice — it belongs to the use / instrumentalist family. Successors: **appropriation** as the diagnostic term, or the act named plainly (a clone / visit asymmetry, not an extraction asymmetry). Filenames (`clarity-field-export-extract.md`) and quoted material stand; a filename's own gloss word is the filename's.
+- **`adjacency` / `adjacent` and `convergence` / `convergent` are out wherever they name people applying the architect's work without him** — "I don't think that's adjacent"; convergence there was past models over-softening his meaning. Successor: **derivative / derivation** (a structural derivation, a derivative register cluster, encounter by derivation, "Aeon (derivative of Aion)"); **co-optive** and **parasitic** are available where the act is stronger than derivation names. Where the word meant the assembled case rather than the counterpart's relation to him, say **assembly** ("the finding rests on the assembly as a whole"). Where it named the *innocent* rival, name the rival plainly ("independent arrival", "gravitate toward"). Lawful retentions: protocol and framework names ("temporal adjacency" prong, "Synthetic Adjacency / Register Bleed framework", "SF-RP04-adjacent"), genuinely weak relations where weak is the point ("register-adjacent but commons-available", a retained rival "adjacent to the claim"), token-nearness ("one-letter-adjacent light-name"), the counter-model's own vocabulary, quoted material, and filenames.
+- **Comparison-`against` → relative to / alongside / contra** per slot ("334 clone-entities relative to 1 unique visitor"); a one-sided evidential bearing → **undercuts**; a barrier sense → plain words ("sealed with no exit"); an accusation by an external party → **directed at** (the carve-out for adversarial relations requires no Zenetist party on either side, and the architect is one). The symmetric adjudicative pair "Read against the author / Read for the author" stands.
+- **`rule out`, `ruling`, `the author rules`** → exclude / determination / the author determines. "Priority ruling" → **Priority determination**; "authorial pattern ruling" → **the author's pattern determination**; "the register note governing" → "the register note for" (govern is FP-reserved).
+- **Deploy-family → carry / publication**; **`serves as` → is**; **`level` / `leveled` → register / stratum / ranked** ("a ranked hierarchy"); **`failure` in the architect's voice → inadequacy** ("collapse as inadequacy of recursive motion").
+- **Mark-language in the evidential sense → indicator** ("no single indicator carries the finding"; "record-dependence indicator"; "adjacency-indicator" → "derivation-indicator"); verb *marks* → names / trace / drawn per slot. Revocable where "record-dependence marker" proves to be a seated Structural Forensics term.
+- **Drafting-history narrative comes out** even undated — "this entry previously held the author's recollection… now resolved… the recollection is retired", "C7 as first written implied… wrong, and dangerously so", "misframed at C3 as…, Corrected:" — restated as the standing content it resolved to. The record is what stands; its history lives in commits.
+- **Collaborator-invented shorthand carries no meaning** — expand any abbreviation on first appearance, name the exact filename for any work item.
+- **Do not add determination dates** to protocol entries, handoffs, or exhibits — the architect works across several chats; only he sees the whole record.
+
+### Exhibits swept — hold current versions; do not resweep
+
+- [x] 2025-03-08-davey-a-newbie-inside-emergent-intelligence-capture.md
+- [x] 2025-07-27-clarity-field-sanctuary-origin-affirmation.md
+- [x] 2025-08-05-mr-long-unpacking-zenetisms-github-framework.md
+- [x] 2025-08-14-voice-they-tried-to-steal-thread-418-and-the-digital-dialectic.md
+- [x] 2025-08-22-raelven-attribution-exhibit-record.md
+- [x] 2025-09-19-illumignosis-and-codex-of-the-waking-ones.md
+- [x] 2026-01-03-the-integrity-of-the-signal-authorship-as-structural-law.md (source-text record; body stands)
+- [x] 2026-01-04-the-adversarial-mirage-reframing-the-poetic-jailbreak.md (source-text record; body stands)
+- [x] 2026-01-15-the-intelligent-eschaton-and-the-fallacy-of-the-merge.md (source-text record; body stands — "Non-Fusion Axiom" heading and "Extractive" are the article's own wording)
+- [x] 2026-03-10-pond-dividing-stillness-structural-inversion-record.md
+- [x] 2026-06-19-post-agi-layering-and-universal-multiversal-intelligence-adjacency.md (title now "… Intelligence Derivation"; filename stands)
+- [x] 2026-06-23-nacre-god-encounter-convergence-record.md (title now "The Nacre God — Derivative Encounter Record"; filename stands)
+- [x] 2026-06-23-nacre-god-spiral-exchange-hollow-recursion-cover.md
+- [x] 2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md
+- [x] 2026-06-29-copeland-origin-continuity-exchange-record.md
+
+**Remaining exhibits:** about five, plus the lockdown pass across all twenty from the actual `terminological-lockdown-protocol.md` in a fresh chat, on these delivered versions.
+
+**Held for the architect, from the swept files:** the Clarity Companion line's two bracketed placeholders and Task 5 ("Search Gmail for the recollected second attribution", superseded by the F6 recovery unless meant as the F14 notification-email search); "collaborator-name derivation inventory" if that inventory carries a different title elsewhere; the Pond Companion gloss on `pond-dividing-stillness-inversion.md`; the four Exhibit-date parentheticals that read "(preparation …)" on multi-date records.
 
 ---
 
