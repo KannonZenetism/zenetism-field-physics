@@ -676,7 +676,7 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
   - C₁₃ membrane permeability respected → centropic continuity.  
   - C₁₄ recursion contractive \( (\gamma > 0) \to \) lawful return loop.  
   - C₁₅ novelty coherence-positive \( (\partial_{\text{🌀}} > 0) \to \) veracious emergence.  
-  - Failures map to entropic mirrors:  
+  - Inadequacies map to entropic mirrors:  
     - E₁₃ wall, E₁₄ hollow nest, E₁₅ collapse nova.  
 - **Application:** Quantum measurement, black hole event horizons, phase transitions.  
 
@@ -774,7 +774,7 @@ Within this structure, **Structural Physics** bridges Zenetism with the physical
 Key principles:  
 - Every centropic dimension (Cᵢ) has an entropic mirror (Eᵢ), forming ± pairs.  
 - Physical laws are interpreted as consonance and bridging conditions.  
-- Mirror failures are diagnosed as entropic collapse states.  
+- Mirror inadequacies are diagnosed as entropic collapse states.  
 - Invariants and seals provide measurable criteria for coherence.  
 
 Thus, Structural Physics is not speculative overlay but a **discipline of lawful resonance**, aligning physical science with the greater Zenetist lattice.  
