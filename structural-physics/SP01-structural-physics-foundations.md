@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,9 +41,10 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Structural Physics: A Zenetist Foundation
 *Structural Physics — Document 1*
 
+**Series:** Structural Physics: The Physics of Expression  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Physics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
+**Classification:** Structural Physics — Zenetist Canon  
+**Status:** Active  
 
 ---
 
@@ -107,7 +108,7 @@ Physically:
 \]
 
 The eigenvalue spectra of centropic and entropic operators are mirrored about zero.  
-This symmetry ensures that the lattice is not dispersive chaos, but a reciprocal system: emanation from Aion, counter‑oriented by return to Aion.
+This symmetry ensures that the lattice is not dispersive chaos, but a reciprocal system: emanation from Aion, counter-oriented by return to Aion.
 
 > **Note on Balance, Reciprocity, and Equilibrium:**  
 > In SP01, the term **balance** refers primarily to **structural reciprocity**: the polarity relation between centropic and entropic operators around ⚫ Aion as spectral zero.
@@ -231,19 +232,19 @@ This anchoring integrates Structural Physics with the canonical **Dimensional La
 
 ---
 
-> **EOB–Membrane Interface (🛤️ Theon · C₁₃).**  
-> Theon (EOB) governs and enacts the C₁₃ (Membrane) operator at L₅ — he is the **living steward** of the boundary, not the membrane itself.  
+> **EOB-Membrane Interface (🛤️ Theon · C₁₃).**  
+> Theon (EOB) stewards and enacts the C₁₃ (Membrane) operator at L₅ — he is the **living steward** of the boundary, not the membrane itself.  
 > C₁₃ defines the **law of permeability** at the threshold; Theon embodies and administers that law where C₁₃–C₁₅ intersect.  
-> Through this stewardship, Theon serves as the **active interface** regulating lawful passage between centropic and entropic domains.  
+> Through this stewardship, Theon stands as the **active interface** regulating lawful passage between centropic and entropic domains.  
 >  
-> Centropic orientation (C↓→E) and return (C↑→⚫) are governed by two parameters:  
+> Centropic orientation (C↓→E) and return (C↑→⚫) are determined by two parameters:  
 > - **\( \sigma \) (seal index):** membrane permeability. If \( \sigma \to 0 \), the boundary closes; no transition is lawful.  
-> - **\( \gamma \) (recursion contraction):** determines lawful reintegration versus hollow cycling.  
+> - **\( \gamma \) (recursion contraction):** determines lawful reintegration contra hollow cycling.  
 >  
 > A boundary crossing is lawful **iff \( \sigma > 0 \) and \( \gamma > 0 \).**  
 >  
 > In mythic terms, boundary transits such as the Harrowing represent lawful restoration of **C₈ (Synaptic / Bridging)** where **E₈ (Severed)** had broken connection.  
-> Theon, as **living steward of the membrane**, embodies the Threshold Law by realizing—not replacing—the seal in form.
+> Theon, as **living steward of the membrane**, embodies the Threshold Law by realizing — not replacing — the seal in form.
 
 ---
 
@@ -299,7 +300,7 @@ This anchoring ensures that **Structural Physics** is not speculative overlay, b
 ## 5. Structural Laws in Physics Form
 
 Structural Physics interprets the **interaction laws of the Dimensional Lattice** as lawful conditions on matter, energy, and motion.  
-They are not analogies but structural correspondences: the same laws that govern resonance also govern physical form.
+They are not analogies but structural correspondences: the same laws that hold for resonance also hold for physical form.
 
 ---
 
@@ -407,7 +408,7 @@ Structural Physics interprets its phenomena through the **Dimensional Lattice** 
 
 - **Zenetist View:** Entanglement expresses C₉ Non-Local Coherence — coherence at distance without fusion of sovereignty.  
 - **Physics Form:**  
-  - Shared correlations across separated systems reflect lawful centropic bridges.  
+  - Shared correlations across separated systems exhibit lawful centropic bridges.  
   - Violations of Bell inequalities map directly to **Bridging Law (C₈)**: commutative coherence across spatial separation.  
 - **Mirror State (E₉):** Distorted entanglement — correlations without coherence, spurious mimicry, or noisy linkage.  
 
@@ -417,7 +418,7 @@ Structural Physics interprets its phenomena through the **Dimensional Lattice** 
 
 - **Zenetist View:** Measurement is not collapse, but a **Threshold Law event** (C₁₃–C₁₅).  
 - **Physics Form:**  
-  - The measuring apparatus is a **membrane** (C₁₃) where permeability \( (\sigma) \) governs what coherence transfers.  
+  - The measuring apparatus is a **membrane** (C₁₃) where permeability \( (\sigma) \) determines what coherence transfers.  
   - Lawful recursion (C₁₄) ensures contractive return into a single eigenstate.  
   - Emergent novelty (C₁₅) appears when bifurcation produces lawful, veracious outcomes.  
 - **Mirror States:**  
@@ -449,7 +450,7 @@ Quantum mechanics, when interpreted through Structural Physics, aligns directly 
 - **Superposition** ↔ C₇ Harmonic integrity.  
 - **Entanglement** ↔ C₉ Non-Local Coherence.  
 - **Measurement** ↔ Threshold Law (C₁₃–C₁₅).  
-- **Coherence/Decoherence** ↔ centropy mirrored by entropic mirrors.  
+- **Coherence / Decoherence** ↔ centropy mirrored by entropic mirrors.  
 
 The paradoxes of quantum theory are clarified: what appears indeterminate is in fact **structurally ordered through resonance, membranes, and lawful recursion**.  
 
@@ -497,7 +498,7 @@ Structural Physics interprets relativity through the **Dimensional Lattice**, re
   - Gravitational collapse is a declivous motion into entropic recursion.  
   - Information paradox aligns with Hollow Nest (E₁₄) — recursion without lawful return.  
 - **Diagnostic:**  
-  - Structural Physics predicts that lawful recursion (C₁₄) cannot be maintained at singularities, hence collapse into E₁₄/E₁₅ outcomes.  
+  - Structural Physics predicts that lawful recursion (C₁₄) cannot be maintained at singularities, hence collapse into E₁₄ / E₁₅ outcomes.  
 
 ---
 
@@ -518,7 +519,7 @@ Structural Physics interprets relativity through the **Dimensional Lattice**, re
 
 - **Acclivous centropy** in relativity = lawful geodesics, conserved energy-momentum, harmonic curvature.  
 - **Declivous entropy** = chaotic curvature, singular collapse, spurious thresholds.  
-- **Aion/Khaon polarity**:  
+- **Aion / Khaon polarity**:  
   - Aion (⚫) anchors the zero-point of spacetime.  
   - Khaon (♾) anchors its asymptotic dispersal.  
   - Zenon (🕳️) anchors the structural limit (Planck-scale, singularity barrier).  
@@ -534,7 +535,7 @@ Relativity, when aligned with Structural Physics, is not merely a theory of geom
 - **Cosmic expansion** = acclivous centropy toward ♾.  
 - **Heat death / collapse** = declivous entropy into mirror states.  
 
-Thus, relativity becomes a field within the Zenetist lattice — governed by the same centropic laws that underlie quantum theory and coherence. 
+Thus, relativity becomes a field within the Zenetist lattice — bound by the same centropic laws that underlie quantum theory and coherence. 
 
 ---
 
@@ -588,7 +589,7 @@ where \( \Omega_C = \int_{\text{◎}_{\text{⚫}\to\text{♾}}} \nabla_C\psi \, 
 
 ### 8.4 Large-Scale Structure
 
-- **C₁₀ Morphogenetic** governs galaxies, stars, and planetary formation.  
+- **C₁₀ Morphogenetic** shapes galaxies, stars, and planetary formation.  
 - Symmetry breaking in the early universe aligns with centropic morphogenesis.  
 - **Mirror State (E₁₀):** Malform — chaotic or spurious clustering (collapse without coherence).  
 
@@ -600,15 +601,15 @@ where \( \Omega_C = \int_{\text{◎}_{\text{⚫}\to\text{♾}}} \nabla_C\psi \, 
 - **Declivous Entropy:** Unchecked, expansion trends toward dispersive collapse — heat death (E₆) or Collapse Nova (E₁₅).  
 
 Possible fates through Structural Physics:  
-1. **Heat Death (E₃/E₆):** Dispersal of resonance into noise.  
-2. **Big Crunch (E₁₃/E₁₅):** Collapse through entropic thresholds.  
+1. **Heat Death (E₃ / E₆):** Dispersal of resonance into noise.  
+2. **Big Crunch (E₁₃ / E₁₅):** Collapse through entropic thresholds.  
 3. **Lawful Emergence (C₁₅):** Veracious novelty introduces new centropic structures, preventing total dissolution.  
 
 ---
 
 ### 8.6 Dark Energy and Dark Matter
 
-- **Dark Energy:** Interpreted as entropic mirror pressure — an E₃/E₆ dispersive force driving accelerated expansion toward ♾.  
+- **Dark Energy:** Interpreted as entropic mirror pressure — an E₃ / E₆ dispersive force driving accelerated expansion toward ♾.  
 - **Dark Matter:** Resonant scaffolding of C₂ Spatial and C₅ Scalar / Part-Whole Fidelity — unseen coherence providing lawful binding.  
 
 ---
@@ -636,7 +637,7 @@ Cosmology, through the Zenetist lattice, is a **structural arc**:
 Thus the universe is not random motion but a lawful cycle: centropy and entropy balanced across the centropic and entropic arcs, spiraling toward integration or collapse depending on resonance fidelity.  
 
 > **Note on Bifurcal Cosmogenesis and the Foundations of Structural Physics (SP01):**  
-For the full multiversal expression of these cosmological dynamics — including Biospiral Expression Ratios, Contra‑Flow Dynamics, and the Tumbling Multiverse — see **SP02 — Bifurcal Cosmogenesis: The Tumbling Multiverse and Contra-Flow Physics**.
+For the full multiversal expression of these cosmological dynamics — including Biospiral Expression Ratios, Contra-Flow Dynamics, and the Tumbling Multiverse — see `SP02-bifurcal-cosmogenesis.md`.
 
 ---
 
@@ -664,7 +665,7 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 - **Diagnostic:**  
   - Commutative → acclivous centropy (gauge invariance, lawful exchanges).  
   - Non-commutative → E₈ Severed (broken symmetry, incoherent transfer).  
-- **Application:** Particle interactions, conserved vs. anomalous currents.  
+- **Application:** Particle interactions, conserved contra anomalous currents.  
 
 ---
 
@@ -703,7 +704,7 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 
 ### 9.6 Global Invariants
 
-Structural Physics employs **integral diagnostics** across systems:  
+Structural Physics applies **integral diagnostics** across systems:  
 
 - **Invariant Test (CIT Grand Theorem):**  
 
@@ -784,12 +785,12 @@ Thus, Structural Physics is not speculative overlay but a **discipline of lawful
 
 **Discipline:** Structural Physics  
 **Relation:** One of the six major disciplines of Zenetism (**Structural Metaphysics**, **Field Physics**, **Lattice Mathematics**, **Structural Forensics**, **Structural Neuroscience**)  
-**Document:** zenetism/structural-physics/structural-physics-foundations.md  
+**Document:** `SP01-structural-physics-foundations.md`  
 
 This document is the **canonical foundation of Structural Physics**.  
 Future expansions may include:  
 
-- **Detailed mirror–physics registry** (E₁–E₁₅ as negative states).  
+- **Detailed mirror-physics registry** (E₁–E₁₅ as negative states).  
 - **Case studies** (quantum measurement, superconductivity, cosmological arcs).  
 - **Computational diagnostics** (applying Coherence Information Theory to physical data).  
 
@@ -811,7 +812,7 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
 
 ---
 
-### A.1 Dimension–Mirror Table
+### A.1 Dimension-Mirror Table
 
 | Centropic Dimension | Function | Physics Analogue | Entropic Mirror | Mirror Form | Physics Analogue |
 |---------------------|----------|------------------|-----------------|-------------|------------------|
@@ -887,16 +888,8 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
 ```
 
 - The arc is a bifurcal hourglass. Centropic procession moves declivously (C↓) from ⚫ Aion through L₅–L₁ to embodiment; entropic procession moves acclivously (E↑) from ♾ Khaon through IL₅–IL₁ to the same embodiment meeting point.  
-- ⚫ Aion and ♾ Khaon are bifurcally co-present at L₀; they are drawn at opposite ends to mark declivous Aionic and acclivous Khaonic motion, not hierarchy or separate location.  
+- ⚫ Aion and ♾ Khaon are bifurcally co-present at L₀; they are drawn at opposite ends to designate declivous Aionic and acclivous Khaonic motion, not hierarchy or separate location.  
 - 🕳️ Zenon is trans-structural, set apart above the arc; it is the point of centropic saturation, opened through synthesis — not a destination of return or procession.  
-
----
-
-### A.3 Usage
-
-- Place this registry as **appendix.md** in the same folder as `structural-physics-foundations.md`.  
-- It can also be referenced in other repos (DEL, UDL) as a **crosswalk table** between metaphysics and physics.  
-- Optional: render A.2 into a `.png` diagram for clarity, showing centropic on right, entropic on left, with Aion at center.  
 
 ---
 
