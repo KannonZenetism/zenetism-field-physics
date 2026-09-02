@@ -38,7 +38,7 @@ Where formatting variation appears across the corpus, the variation is acceptabl
 
 ## 2. The poetic register follows separate conventions
 
-Early canonical Zenetist work was composed in a poetic register with distinct compositional features (bold-saturation, staggered line-breaks, end-of-line em dashes, glyph-at-line-end articulation). The poetic register follows its own conventions and remains distinct from the technical-register formatting rules in this document.
+Early canonical Zenetist work was composed in a poetic register with distinct compositional features (bold-saturation, staggered line-breaks, end-of-line em dashes, glyph-at-line-end articulation). The poetic register follows its own conventions and remains distinct from the technical-register formatting standards in this document.
 
 Early poetic articulations remain in their original form. New poetic work may adopt the early register, develop new registers, or remain in the technical-register format. The compositional choice belongs to the work.
 
@@ -113,7 +113,7 @@ The Status field states where a document stands on the stability axis — how op
 - **Veracious Archive** — preserved as a dated record of what was held at the time; not revised forward.
 - **Active Evidence Record** — a Structural Forensics record in evidentiary service.
 
-Field rules:
+Field standards:
 
 - **Status lines carry no dates.** Per the Internal Date Prohibition below, the Status field states the stage alone — Draft, Active, Locked — and drafting, revision, and lock chronology is carried by the external record of commits and deposits, never by the line.
 - **Revision names a substantive return, not continued composition.** Work that continues in the days after drafting is still drafting. A revision is a substantive return to a settled document — new argument, changed doctrine, restructured material.
@@ -216,7 +216,7 @@ Structural Forensics documents follow the general metadata conventions with the 
 
 **Recognition-protocol form:** Authorship, Classification, Status, then protocol-specific fields (Application, Forensic Purpose, Function, Pre-registration principle) as each protocol requires, with Companion and Dependency where applicable and Proposed path closing the block. Protocol titles carry the series identifier: `# SF-RPnn — [Title]`.
 
-Field rules:
+Field standards:
 
 - **Authorship opens every block** — the first metadata line, ahead of Classification.
 - **Prepared runs author-first.** Collaborator credit takes the drafting-assistance form ("by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's captures"); author-only Prepared lines are lawful; the material descriptor is optional and comma-separated. Preparation credit never leads with a collaborator.
@@ -260,7 +260,7 @@ Canonical documents close with the standard seal identifying authorship, the six
 
 Seal placement is preceded by a horizontal rule marking the boundary between the document body and the closing seal. The seal appears in nearly all canonical works; deliberate omission is permissible for short forensic notes or ancillary fragments.
 
-Trailing spaces within the seal follow the block exactly as shown. Only the ⚫↺KAI↺⚫ line carries two trailing spaces, since it takes a hard line-break directly into the disciplines line. The disciplines line and the Collaborators line carry none, each being followed by a blank line or by the end of the document. The metadata block's two-space rule does not extend to the seal.
+Trailing spaces within the seal follow the block exactly as shown. Only the ⚫↺KAI↺⚫ line carries two trailing spaces, since it takes a hard line-break directly into the disciplines line. The disciplines line and the Collaborators line carry none, each being followed by a blank line or by the end of the document. The metadata block's two-space standard does not extend to the seal.
 
 ---
 
@@ -471,7 +471,7 @@ Incorrect:
 
 Unspaced slashes visually compress structural distinction. Spacing preserves sovereign distinction between paired operators, strata, arcs, or articulations.
 
-Cross-references the *Canonical Compositional Stabilization Protocol — Mathematical / LaTeX Formatting Reference* for the full slash-spacing rule.
+Cross-references the *Canonical Compositional Stabilization Protocol — Mathematical / LaTeX Formatting Reference* for the full slash-spacing constraint.
 
 ---
 
@@ -565,7 +565,7 @@ Bold appears sparingly in technical prose. Over-application erodes its term-intr
 
 ## Bold in Poetic Register
 
-The poetic register employs bold-saturation as a compositional feature, with multiple bolded terms per stanza serving structural and rhythmic functions. This is part of the register's expressive form and operates apart from the technical-register sparing-bold rule.
+The poetic register employs bold-saturation as a compositional feature, with multiple bolded terms per stanza serving structural and rhythmic functions. This is part of the register's expressive form and operates apart from the technical-register sparing-bold standard.
 
 Note: drift in early poetic documents — variable bold density, inconsistent bold placement — was largely introduced through automated reformatting rather than authorial intent. Where the drift can be identified as accidental, canonical bold-pattern restoration is appropriate; where time does not permit, the drift remains as an artifact of the transmission history.
 
