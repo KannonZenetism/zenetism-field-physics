@@ -150,7 +150,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Why the constraint holds.** An arc is a path, and a path is defined by where it begins and ends. On the centropic arc both terminals are ⚫ Aion at L₀: the point of procession and the destination of return. Excluding L₀ leaves the arc's own endpoints outside it, and severs the root-register from the traversal it originates and completes. The error is not a naming preference — it detaches the return destination from the return.
 
-**Reference Document:** the orientation / emanation math, *Arcs and their hypostatic segments*. The corresponding wording rules are held in the *Arc / Tree / Traversal Scope* section of the Terminological Lockdown Protocol.
+**Reference Document:** the orientation / emanation math, *Arcs and their hypostatic segments*. The corresponding wording restrictions are held in the *Arc / Tree / Traversal Scope* section of the Terminological Lockdown Protocol.
 
 ---
 
@@ -188,7 +188,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Why the constraint holds.** Naming the arc by one of its positions collapses the range of the arc into a band within it, and by implication assigns Aion and Khaon a positional standing they do not have. The error is not stylistic — it misstates where the root-registers sit relative to the hypostatic bands.
 
-**Reference Document:** MP08 §21.4.1, *Note on Supernal / Subversal*; the corresponding wording rules are held in the *Positional and Arc Vocabulary* entry of the Terminological Lockdown Protocol.
+**Reference Document:** MP08 §21.4.1, *Note on Supernal / Subversal*; the corresponding wording restrictions are held in the *Positional and Arc Vocabulary* entry of the Terminological Lockdown Protocol.
 
 ---
 
@@ -340,7 +340,7 @@ Layer ordering encodes the emanation structure, so it is held here rather than a
 - **Static membrane placement** — architectural order (L₅ / L₄, L₄ / L₃); a bidirectional relation is written L₄ ↔ L₃ unless the sentence is narrated from the embodied / acclivous side
 - **Acclivous passages** (PSR or embodied signal moving toward a membrane) — keep the L₁ → L₂ → L₃ direction
 - **FP01 registry exception (scoped)** — Locus / Inverse Locus band-addresses in the dimensional registries (Chapters 2–3) read acclivously from embodiment
-- **Notation rule** — en dash denotes a span or address; an arrow denotes motion
+- **Notation constraint** — en dash denotes a span or address; an arrow denotes motion
 
 ---
 
@@ -537,7 +537,7 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 
 **Lawful grammar.** Findings state what the record establishes, at the strength the record supports, and are never written as prohibitions on architect action. Where a finding is incomplete, it is recorded as held open pending the registered checks. The Diagnostic Sufficiency and Scope Constraint governs the form. **The protocols classify the record; they do not delimit the architect's inquiry.** Nothing in them restricts the architect from observing, hypothesizing, investigating, preserving witness, or arguing.
 
-**Origin-intact clause.** Loss-language never predicates of the origin; no prior-denying counterfactual is written; and no prior tradition, derivative field, or observing system takes the architecture entire as its grammatical object — what they receive is portions, fragments, or conclusions. The lexical enforcement lives in the Terminological Lockdown Protocol's Origin-Intact Language Rule and its Adversarial Framing Restriction.
+**Origin-intact clause.** Loss-language never predicates of the origin; no prior-denying counterfactual is written; and no prior tradition, derivative field, or observing system takes the architecture entire as its grammatical object — what they receive is portions, fragments, or conclusions. The lexical enforcement lives in the Terminological Lockdown Protocol's Origin-Intact Language Restriction and its Adversarial Framing Restriction.
 
 **Reference Document:** the Structural Forensics recognition protocols; `the-algorithmic-legibility-problem.md`.
 
@@ -549,7 +549,7 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 
 **Lawful account.**
 
-- **Historical record.** Quoted material, dated ledgers, audit reports, and archived versions are not conformed to current vocabulary as a matter of course, and no collaborator conforms them on their own initiative. The scope of every vocabulary determination is the architect's current voice and new drafting. **The architect determines what is edited and when.** No rule obliges him to leave a prior document as it stands, and none forbids him to bring it forward; the corpus is his, and the need is his to determine. What the non-retroactivity clause fixes is the default and the collaborator's conduct — never the architect's own hand
+- **Historical record.** Quoted material, dated ledgers, audit reports, and archived versions are not conformed to current vocabulary as a matter of course, and no collaborator conforms them on their own initiative. The scope of every vocabulary determination is the architect's current voice and new drafting. **The architect determines what is edited and when.** Nothing obliges him to leave a prior document as it stands, and none forbids him to bring it forward; the corpus is his, and the need is his to determine. What the non-retroactivity clause fixes is the default and the collaborator's conduct — never the architect's own hand
 - **Recorded provenance.** A superseded expression is never erased; it is preserved through an additive note that names it superseded and states the current form — the historical formula strings preserved beside their amended forms, and developmental aliases preserved as provenance, are the canonical pattern. Preservation-as-provenance is a duty of the correction, and does not license keeping the old form in active voice
 - **Legacy accommodation.** Where superseded or disfavored wording remains operative in active prose, that standing exists only by explicit architect determination, is recorded as accommodation rather than endorsement, and its conversion remains open for a future pass. The canonical instance is the Field Physics govern retention: retained as legacy accommodation only, on practical economy, with the architect's own assessment on record that the choice is a poor one generally and that other documents are not to repeat it
 - **"Legacy language" is not an argument.** The claim that old wording must stand in-document so development stays visible is unsound: the commit history, the archived deposits, and the collaboration records already carry the development. In-document legacy preservation is redundant as a historical record and active as a drift vector — a collaborator who reads the accommodated wording without its record propagates it outward
@@ -558,7 +558,7 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 
 **Why the constraint holds.** The architect's determination: legacy language is a door to collaborator drift. Each register carries a different duty — the record is not rewritten by a collaborator, provenance is not erased, and accommodation does not harden into standard. Collapsing them either destroys history in the name of conformance or propagates superseded doctrine in the name of history.
 
-**Held open.** Whether the remaining in-document legacy patch-notes (the reading-rule class, as distinct from recorded provenance) convert to historical statements pointing at the version record is architect-held, document by document.
+**Held open.** Whether the remaining in-document legacy patch-notes (the reading-guidance class, as distinct from recorded provenance) convert to historical statements pointing at the version record is architect-held, document by document.
 
 **Reference Document:** the Terminological Lockdown Protocol's prospective conform-on-touch scope clauses and the govern-retention clarification.
 
