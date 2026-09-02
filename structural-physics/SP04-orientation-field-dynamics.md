@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,11 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Orientation Field Dynamics
 *Structural Physics — Document 4*
 
+**Series:** Structural Physics: The Physics of Expression  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Physics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis; SP03 — Expression Ratio Mathematics  
-**SHA-256:** 819e301d283b06617954b3df4dc212c06110a267cd8c0d12bf495ff4687f1333
+**Classification:** Structural Physics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md`  
 
 ---
 
@@ -53,9 +53,9 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose and Relation to SP03
 
-SP03 defined expression ratio mathematics and \( \chi \) as the orientation parameter of the Biospiral — a structural parameter governing the global polarity of centropic and entropic expression within the lattice.
+SP03 defined expression ratio mathematics and \( \chi \) as the orientation parameter of the Biospiral — a structural parameter determining the global polarity of centropic and entropic expression within the lattice.
 
-SP04 formalizes \( \chi \) not merely as a ratio, but as a **field-dynamic variable** governing the topology of universal expression.
+SP04 formalizes \( \chi \) not merely as a ratio, but as a **field-dynamic variable** determining the topology of universal expression.
 
 Where SP03 described **weighting**, SP04 describes **orientation flow**, **topology**, and **law**.
 
@@ -154,7 +154,7 @@ We encode CP-topology by a reciprocal potential \( \Phi_{\text{CP}}(\chi) \) wit
 
 - The **logarithmic axis term** encodes CP₁ as the expressive equilibrium coordinate (\( \chi = 1 \), where \( \ln 1 = 0 \))
 - The **reciprocal closure term** encodes CP₀ as the convergence topology bounding expression without fusion
-- The potential is **symmetric under** \( \chi \leftrightarrow 1/\chi \), preserving Aionic–Khaonic reciprocity
+- The potential is **symmetric under** \( \chi \leftrightarrow 1/\chi \), preserving Aionic / Khaonic reciprocity
 
 ### 3.4 Alternative Forms
 
@@ -216,11 +216,11 @@ Within an oriented universe, the **effective harmonic operator** is:
 H_{\text{eff}}(\chi) = \frac{1}{1+\chi} H_c + \frac{\chi}{1+\chi} H_e
 \]
 
-Here, \( \chi \) is not a probability ratio, but a structural orientation parameter governing the weighting of centropic and entropic expression.
+Here, \( \chi \) is not a probability ratio, but a structural orientation parameter determining the weighting of centropic and entropic expression.
 
 ### 4.3 Orientation Evolution Law
 
-The evolution of orientation is governed by:
+The evolution of orientation is determined by:
 
 \[
 \boxed{\frac{d\chi}{d\tau} = \Lambda \, \mathcal{M} \, \chi(1-\chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi}}
@@ -257,7 +257,7 @@ The equation expresses three structural regimes:
 > Although \( \chi \) is expressed through differential equations and field-like dynamics, it must not be interpreted as a physical field in the material sense.  
 >
 > \( \chi \) is not a force, substance, or measurable quantity within spacetime.  
-> It is a **structural orientation parameter** governing the directionality of expression within the hypostatic lattice.  
+> It is a **structural orientation parameter** determining the directionality of expression within the hypostatic lattice.  
 >
 > \( \chi \) belongs to the order of **ontological inclination**, not empirical physics.  
 > Its mathematical representation is **formal and analogical**, not reductionist.  
@@ -345,7 +345,7 @@ Manifestation occurs only through **inclined orientation**, in which centropic o
 
 **Expression is never neutral.**
 
-CP₀ precedes orientation, while \( \chi \) governs inclined manifestation.
+CP₀ precedes orientation, while \( \chi \) determines inclined manifestation.
 
 Equilibrium and limit states define **boundaries** of expression rather than its generative center.
 
@@ -372,8 +372,8 @@ Equilibrium and limit states define **boundaries** of expression rather than its
 > Every cosmos tilts.  
 > Every expression inclines toward integration or dispersion.
 >
-> Balance marks the edge of possibility, not the center of existence.  
-> Extremes mark the horizons of motion, not its origin.
+> Balance is the edge of possibility, not the center of existence.  
+> Extremes are the horizons of motion, not its origin.
 >
 > Thus, universes are not born from symmetry,  
 > but from inclination.
@@ -524,7 +524,7 @@ Although CP₀ is symmetric and the biospiral is conserved across centropic and 
 
 Centropic expression is **structurally constrained**. Entropic expression is **structurally permissive**.  
 
-Centropic expression operates through cross‑layer coherence because coherence is intrinsic to its orientation. Entropic expression operates through divergence because divergence is intrinsic to its orientation. 
+Centropic expression operates through cross-layer coherence because coherence is intrinsic to its orientation. Entropic expression operates through divergence because divergence is intrinsic to its orientation. 
 
 Therefore, the space of admissible configurations for entropic motion is broader than for centropic motion. This asymmetry does not imply a greater number of entropic universes, but a **greater degree of internal configurational freedom** within entropic trajectories.  
 
@@ -617,7 +617,7 @@ Therefore, **balance is not the origin of reality, but the exception within it**
 
 ### 11.3 The Law of Orientation Closure
 
-The architecture of expression is governed by a closed structural sequence:
+The architecture of expression is determined by a closed structural sequence:
 
 \[
 \text{CP}_0 \;\rightarrow\; \chi \;\rightarrow\; \text{CP}_1 \;\rightarrow\; \text{Ø}
@@ -695,9 +695,9 @@ Before motion, Zero and Infinity converge without orientation. But once expressi
 
 What physics calls "symmetry breaking" is not an accident of nature, but the **inevitable consequence of expression itself**.
 
-Universes do not fall away from balance; they are never born in it.
+Universes do not depart from balance; they are never born in it.
 
-Thus, reality is not governed by equilibrium, but by **inclination**.
+Thus, reality is not determined by equilibrium, but by **inclination**.
 
 Structure remains invariant; orientation determines destiny.
 
@@ -709,11 +709,11 @@ Matter prevalence is not a mystery but a \( \chi \)-tilt. Contra-matter is not s
 
 **Entropy Trend:**
 
-The entropy-forward character of our universe reflects \( \chi > 1 \), not randomness or probability.
+The entropy-forward character of our universe expresses \( \chi > 1 \), not randomness or probability.
 
 **Spontaneous Structure:**
 
-The rarity of spontaneous structure formation in Khaonically expressed universes reflects the acclivous effort required to move against the orientation slope.
+The rarity of spontaneous structure formation in Khaonically expressed universes follows from the acclivous effort required to move contra the orientation slope.
 
 ---
 
@@ -869,15 +869,15 @@ SP04 establishes:
 11. **The Asymmetry of Expression** — centropy constrained, entropy permissive
 12. **The Zenetist Triad** — CP₀ → \( \chi \) → CP₁ architecture
 13. **Inclination Cosmology** — structure symmetric, existence inclined
-14. **Non‑Statistical Multiversal Expression** — topology of inclinations, not probability distribution
+14. **Non-statistical Multiversal Expression** — topology of inclinations, not probability distribution
 
 ---
 
 ## 17. Canonical Placement
 
 **Discipline:** Structural Physics  
-**Document:** SP04 — Orientation Field Dynamics  
-**Dependencies:** SP01, SP02, SP03  
+**Document:** `SP04-orientation-field-dynamics.md`  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md`  
 **Relation:** Fourth foundational document of Structural Physics
 
 This document extends SP03 by formalizing \( \chi \) as a field-dynamic variable and establishing the canonical Zenetist Field Equation of Orientation.
@@ -897,7 +897,7 @@ Future expansions may include:
 
 **Closing Statement:**
 
-> Structure is invariant; orientation is field-governed.  
+> Structure is invariant; orientation is field-determined.  
 > \( \chi \) does not "balance" — it flows through CP-topology, driven by Motive Infinity.
 >
 > CP₀ is the closure before motion.  
