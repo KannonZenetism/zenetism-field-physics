@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,25 +41,25 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Expression Ratio Mathematics
 *Structural Physics — Document 3*
 
+**Series:** Structural Physics: The Physics of Expression  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Physics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis  
-**SHA-256:** cd995bf245bd52bd5966e1e8478eded50298320b4914a9635daa414e1940d42d
+**Classification:** Structural Physics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md`  
 
 ---
 
 ## 1. Introduction
 
-SP01 established the foundational mechanics of Structural Physics: the three anchors (⚫ Aion, ♾ Khaon, 🕳️ Zenon), the dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Polar Spectrum Lemma governing their mirrored relationship.
+SP01 established the foundational mechanics of Structural Physics: the three anchors (⚫ Aion, ♾ Khaon, 🕳️ Zenon), the dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Polar Spectrum Lemma determining their mirrored relationship.
 
 SP02 established the multiversal expression: the Tumbling Multiverse, Biospiral expression ratios, and contra-flow dynamics.
 
-This document, SP03, provides the **mathematical formalism** for expression ratios — the structural parameter governing how centropic and entropic motion manifest across different universal expressions.
+This document, SP03, provides the **mathematical formalism** for expression ratios — the structural parameter determining how centropic and entropic motion manifest across different universal expressions.
 
 SP03 establishes:
 
-- The **Chi Orientation Parameter** \( (\chi) \) as the governing variable for Biospiral expression
+- The **Chi Orientation Parameter** \( (\chi) \) as the determining variable for Biospiral expression
 - The relationship between the **Polar Spectrum Lemma** (invariant structure) and **expression ratio** (topological slope)
 - **Motion conditions** distinguishing expression, orientation, polarity, and stillness
 - The role of **Motive Infinity** as the pre-bifurcal field of all motion
@@ -77,7 +77,7 @@ Structural Physics operates within four fundamental domains:
 1. **Pre-hypostatic requisites** — Supra-L₀, L₀
 2. **Hypostatic lattice** — L₅ → L₁ / IL₅ → IL₁
 3. **Dimensional operators** — C₁–C₁₅ / E₁–E₁₅
-4. **CP** (Convergence Principle) — Pre-hypostatic invariant governing the relation between Supra-L₀ and L₀ and the admissibility of hypostatic expression
+4. **CP** (Convergence Principle) — Pre-hypostatic invariant determining the relation between Supra-L₀ and L₀ and the admissibility of hypostatic expression
 
 ### 2.2 Pre-Hypostatic Requisites
 
@@ -90,7 +90,7 @@ These requisites do not constitute expressed layers of being. They are the **con
 
 ### 2.3 Structure Precedes Motion
 
-A critical distinction governs this framework:
+A critical distinction holds for this framework:
 
 > **Structure is not the tension between motions.**  
 > **Structure is the foundational substrate that makes motion possible.**
@@ -129,7 +129,7 @@ CP is:
 - The condition where orientation determines outcome
 - The closure that completes the functional geometry of the lattice
 
-Formally, CP marks the equilibrium of requisites **prior to** centropic–entropic bifurcation — not the midpoint of expressed motion, but the structural condition that permits bifurcation to occur.
+Formally, CP denotes the equilibrium of requisites **prior to** centropic-entropic bifurcation — not the midpoint of expressed motion, but the structural condition that permits bifurcation to occur.
 
 ---
 
@@ -176,7 +176,7 @@ The following relations hold:
 
 - Motion = expression
 - Orientation ⊆ Motion
-- Polarity = explicit centropic–entropic bifurcation (C ↔ E)
+- Polarity = explicit centropic-entropic bifurcation (C ↔ E)
 - Polarity requires both C and E
 - Structure precedes and conditions both motion and polarity
 
@@ -215,7 +215,7 @@ Let \( \chi \) denote the **orientation susceptibility** of the lattice — the 
 \chi \to \infty \quad \text{— Pure Khaonic orientation}
 \]
 
-\( \chi \) is not a spectral eigenvalue or phase variable, but a **structural parameter** governing the global polarity of centropic and entropic expression within the lattice.
+\( \chi \) is not a spectral eigenvalue or phase variable, but a **structural parameter** determining the global polarity of centropic and entropic expression within the lattice.
 
 ### 4.2 The Expression Spectrum
 
@@ -376,7 +376,7 @@ The landscape satisfies:
 In Khaonically expressed universes:
 
 - Entropic states are **basin attractors** — systems naturally drift toward them
-- Centropic states require **energy input** to maintain (acclivous motion against the slope)
+- Centropic states require **energy input** to maintain (acclivous motion contra the slope)
 
 In Aionically expressed universes:
 
@@ -418,7 +418,7 @@ The transition from stillness to expression follows this sequence:
 4. **Bifurcation** — Motion orients into C or E (or both)
 5. **L₅ → L₁ / IL₅ → IL₁** — Hypostatic expression unfolds
 
-Motive Infinity breaks the stillness-equivalence between Absolute Potential and Latent/Dispersive phases of Absolute Dispersion. Only then does hypostatic expression become possible.
+Motive Infinity breaks the stillness-equivalence between Absolute Potential and Latent / Dispersive phases of Absolute Dispersion. Only then does hypostatic expression become possible.
 
 ### 7.3 The Tumble as Infinite Expression
 
@@ -551,7 +551,7 @@ These observations indicate \( \chi > 1 \) — a Khaonically expressed universe.
 
 ### 10.2 Phase Collision as Chi Diagnostic
 
-Phase collision events (matter–contra-matter convergence) reveal the local presence of recessive Aionic-flow dynamics.
+Phase collision events (matter / contra-matter convergence) reveal the local presence of recessive Aionic-flow dynamics.
 
 The rate of phase collision is proportional to:
 
@@ -579,7 +579,7 @@ If spectral symmetry breaks, the system has exited lawful structure — indicati
 
 Expression Ratio Mathematics establishes:
 
-1. **Chi \( (\chi) \)** — The orientation susceptibility parameter governing Biospiral expression (\( \chi = 0 \) Aionic, \( \chi \to \infty \) Khaonic)
+1. **Chi \( (\chi) \)** — The orientation susceptibility parameter determining Biospiral expression (\( \chi = 0 \) Aionic, \( \chi \to \infty \) Khaonic)
 
 2. **Structure precedes motion** — Centropy and entropy are modes of expression within structure, not sources of structure
 
@@ -604,8 +604,8 @@ Expression Ratio Mathematics establishes:
 ## 12. Canonical Placement
 
 **Discipline:** Structural Physics  
-**Document:** SP03 — Expression Ratio Mathematics  
-**Dependencies:** SP01 — Structural Physics: A Zenetist Foundation; SP02 — Bifurcal Cosmogenesis  
+**Document:** `SP03-expression-ratio-mathematics.md`  
+**Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md`  
 **Relation:** One of the six major disciplines of Zenetism (Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, Structural Neuroscience)
 
 This document is the **third foundational document of Structural Physics**, providing the mathematical formalism for the multiversal expression established in SP02.
