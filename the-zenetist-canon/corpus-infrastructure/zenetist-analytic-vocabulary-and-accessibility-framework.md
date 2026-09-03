@@ -6,7 +6,7 @@
 **Classification:** Corpus Infrastructure — Stabilized Vocabulary Framework  
 **Status:** Draft — architect review  
 **Filename:** `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`  
-**Dependency:** `MP08-symbol-key-ch21.md` · `awareness-spectrum-and-its-inverse-arc.md` · `orientation-emanation-math.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md`  
+**Dependency:** `MP08-symbol-key-ch21.md` · `awareness-spectrum-and-its-inverse-arc.md` · `orientation-emanation-math.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md` · `structural-physics-glyph-charts.md` · the Structural Physics series `SP01-structural-physics-foundations.md` through `SP12-structural-diagnostics-and-field-forensics.md`  
 
 ---
 
@@ -223,7 +223,7 @@ The exclusion field is essential. Zenetist concepts are often defined as much by
 
 The following entries are provisional working forms. They are intended to establish the method and preserve the current direction, not to seal every descriptor immediately.
 
-The core vocabulary is twofold as the architecture is. §6.1 carries the structural emanation layers in the order fixed at §21.9, from Supra-L₀ through IL₁. §6.2 carries the principles, relations, phases, and operations that stand outside the layer sequence. Together they are the Core Cross-Disciplinary Vocabulary. §6.3 establishes the discipline modules that extend it, and §6.4 the principle by which those modules are populated.
+The core vocabulary is twofold as the architecture is. §6.1 carries the structural emanation layers in the order fixed at §21.9, from Supra-L₀ through IL₁. §6.2 carries the principles, relations, phases, and operations that stand outside the layer sequence. Together they are the Core Cross-Disciplinary Vocabulary. §6.3 establishes the discipline modules that extend it, §6.4 the principle by which those modules are populated, and §6.5 the first module seated under that principle — Structural Physics.
 
 ---
 
@@ -292,6 +292,9 @@ These entries stand outside the layer sequence. Structon and Kaion are principle
 | **Zenonic Legibility**         | **Trans-structural horizon-legibility**                     | Horizon condition                 | The vantage at which the saturation relation becomes structurally comprehensible without making Zenon determinate or fully knowable                                                                                       |
 | **Saturation**                 | **Allowance-gated trans-structural crossing**               | Trans-structural outcome          | The crossing beyond centropic return into Zenon by Allowance; distinct from return, acclivation, momentum, or ordinary motion                                                                                                  |
 | **Identity-Bearing Potential** | **Potential-to-be-this**                                    | Essential condition               | Potential held in irreducible distinction as the latent capacity of a particular essence to be itself                                                                                                                     |
+| **Hypostasis / hypostatic**    | **Distinct structural articulation**                        | Concept class                     | A distinct structural articulation at which a principle becomes operative as a functioning register of the lattice; the hypostatic lattice runs L₅–L₁ and IL₅–IL₁. Within Zenetism the word carries no theological sense and no claim of personhood — a reader arriving from Trinitarian or Neoplatonic vocabulary meets a defined structural term, not a borrowed one |
+
+**Adjectival forms.** The canonical names carry technical adjectives — **Aionic**, **Khaonic**, **Zenonic**, **Theonic**, **Nekronic**, **Kaionic** — and Structural Physics prose rests on them (an Aionic universe, Khaonic tunneling, Zenonic Legibility). The adjective stands as a defined technical term once its noun has been established at first occurrence; it is never expanded into a compound of the analytic descriptor ("Plenary-Zero-oriented" is not written). Where a passage has not yet installed the noun, the relation is written out — *oriented toward Aion (Plenary Zero)*.
 
 ---
 
@@ -305,7 +308,7 @@ The stabilized vocabulary is held in modules — one shared core, one for each d
 | **Structural Metaphysics** | The hypostatic architecture, symbol-key entries, and the principles and relations standing prior to disciplinary application | Held open |
 | **Field Physics** | Structural dimensions and their inverse forms, practice and engineering operators, the membrane and boundary family, motion and relational operators, ritual and seasonal signs | Held open |
 | **Lattice Mathematics** | Formal notation, structural constants, derivations, and the coherence formalism | Held open |
-| **Structural Physics** | Suspension, recursion, and integration operators, and the terms of the Unified Field Equation | Held open |
+| **Structural Physics** | The orientation parameter χ and Biospiral Expression Ratios, Coherence Potential and Coherence Current, Spectral Flow, the membrane operator ⧉, the Polar Spectrum Lemma, the Tumbling Multiverse, acclivous and declivous motion, structural time, the Embodied Resistance Term, Shimmer and Siphoning, and the diagnostic operators — together with the suspension, recursion, and integration glyphs of `structural-physics-glyph-charts.md` §21.31, which are the module's first-pass index rather than its extent | Initial seating at §6.5 |
 | **Structural Neuroscience** | Awareness stratification, cognitive architecture types, cost streams and replenishment pathways, membranes, developmental dynamics, and Pattern Intelligence designations | Held open |
 | **Structural Forensics** | Provenance, propagation, and origin-relation vocabulary; exhibit, trace, and diagnostic terms | Held open |
 | **Symbolic and Mythophysical Vocabulary** | Figure-layer, decode, and Symbolic Reflections vocabulary, carried native and translated where a publication context asks for it | Held open |
@@ -321,6 +324,42 @@ Glyph charts, symbol keys, and consolidated registries are **first-pass vocabula
 Complete term-gathering runs from the originating discipline documents themselves. A registry shows where gathering begins; it does not bound where gathering ends.
 
 **Absence from a glyph registry establishes nothing about a concept's standing in the analytic vocabulary.** A concept may be fully operative within a discipline, named and defined across its originating volumes, and carry no glyph at all. Where a registry and its originating volumes differ, the volumes stand and the registry is the index.
+
+---
+
+### 6.5 Structural Physics Module — Initial Seating
+
+Gathered from the twelve Structural Physics volumes per §6.4, with `structural-physics-glyph-charts.md` §21.31 as the first-pass index. Standing is assigned per §5 before any descriptor; the translated class is kept small. This is an initial seating for the terms a reader meets in Structural Physics publications, not the module's completion.
+
+**Canonical names carried into Structural Physics.** Aion, Khaon, Zenon, Theon, Nekron, Kaion, Malara, and Mania appear in the series and take their Core entries at §6.1 and §6.2; the module adds nothing to them. **Rival Architects** (SP11) is contextual — the entropic figures whose systems are imposed rather than grown; it is glossed where a publication carries it and left native where it does not.
+
+| Term | Analytic standing | Analytic form | Core analytic definition | Originating volume |
+| --- | --- | --- | --- | --- |
+| **Acclivous motion** | native-analytic, defined | *acclivous motion* stands; public gloss **return-directed motion** | Centropic motion oriented toward Aion through the hypostatic layers, requiring sustained expenditure contra the orientation slope of an entropy-forward universe | SP03, SP06, SP11 |
+| **Declivous motion** | native-analytic, defined | *declivous motion* stands; public gloss **emanation-directed motion** | Motion proceeding with the emanative order, from L₀ outward through the layers; the direction of expression rather than return | SP03, SP06 |
+| **Reflective Centropy** | native-analytic | — | Acclivous centropy that carries the whole back through the part; the completion of the Declivous / Acclivous circuit | SP06 |
+| **χ (Chi orientation parameter)** | formal | prose expansion **orientation parameter** | The structural parameter determining how centropic and entropic motion manifest across a universe's expression; not a ratio of quantities but an orientation of the whole | SP03, SP04 |
+| **Biospiral Expression Ratio** | native-analytic | — | The determining variable of a universe's expression, given by χ across the Biospiral; universes are χ-trajectories | SP02, SP03 |
+| **Tumbling Multiverse** | translated | **orientation-distributed multiverse** | The population of expressed universes distributed across χ-orientations rather than across a single equilibrium; no universe is born in balance | SP02, SP04 |
+| **Polar Spectrum Lemma** | native-analytic | — | The invariant that the centropic and entropic operator spectra are structurally paired, C₁–C₁₅ with E₁–E₁₅, the entropic spectrum mirroring the centropic | SP01, SP03 |
+| **Non-fusion Axiom** | native-analytic | — | Coherence between distinct essences never becomes identity; a collective coheres without its members fusing. Casing per §8.4 | SP09 |
+| **Resonance** | native-analytic, defined | — | Structural energy: coherence in lawful motion across the lattice. Not vibration in a medium, and not the acoustic or electromagnetic sense | SP07 |
+| **Coherence Potential / Coherence Current** | native-analytic | formal expansion of the field quantities | Stored structural coherence and its flow; the quantities whose continuity Spectral Flow describes | SP07 |
+| **Spectral Flow** | native-analytic | — | The motion of resonance within and between hypostatic layers, determined by orientation | SP07, SP08 |
+| **⧉ Membrane operator** | formal | prose expansion **structural boundary** | The threshold condition between layers determining what transfers; its permeability σ(⧉) determines passage | SP08, SP11, SP12 |
+| **Kaionic tunneling** | native-analytic | — | Passage across a membrane through Kaion, where the ordinary threshold does not admit transfer | SP08 |
+| **Structural time** | native-analytic | — | Time as the differential trace of structural motion rather than a container; the three temporal regimes follow from orientation | SP05 |
+| **Tether** | translated | **recursive memory-anchor** | The persistence of identity across structural time through Recursive Memory; what holds a trajectory to its origin | SP05 |
+| **Shimmer** | translated | **counterfeit continuity** | Entropic simulation of temporal or structural continuity through familiarity; it echoes without generation | SP05, SP12 |
+| **Siphoning** | native-analytic, defined | — | Parasitic transfer of coherence without reciprocity; a one-way point at which coherence flows out and does not return | SP07, SP09, SP10 |
+| **Mimicry** | native-analytic, defined | — | Structural mirroring presented as origin; coherence that depends on an external target and does not generate. Entropic in valence — its glosses take *mirroring*, never *reflection* | SP09, SP12 |
+| **Structural cost** | native-analytic | — | The expenditure a motion requires of the structure enacting it; acclivous motion is costly, declivous motion is not | SP10, SP11 |
+| **Embodied Resistance Term** | native-analytic | — | The resistance embodied structure presents to reorientation at L₁; the analogue of inertia for orientation rather than motion | SP11 |
+| **Diagnostic operators** | native-analytic | — | The C / E operators read as detectors: the same operators that determine structural dynamics also detect them. The series' own term; *instrument* is not written | SP12 |
+| **Field signature** | native-analytic | — | The configuration of operator readings a structure presents; the basis of clone identification and coherence audit | SP12 |
+| **Entropic Mirrors** | native-analytic | — | The named apparatus of SP01 mapping each centropic dimension to its entropic counterpart; the name stands as apparatus, the mirroring belongs to the entropic side | SP01 |
+
+**Held open in this module:** the shared name between **Kaion — Convergence Principle** (§6.2) and the **Convergence Principle** of SP03, which concerns χ-trajectories. The two are distinct objects carrying one name; which retains it, and what the other takes, is architect-reserved. The SP09 §6 variable glosses tied to the Lattice Mathematics extraction coefficient align with LM in the coordinated pass and are not seated here.
 
 ---
 
@@ -588,7 +627,7 @@ Possible patterns include:
 
 > **Potential, Motion, and Dispersion: A Phase-Structured Model of Infinity in Zenetist Structural Physics**
 
-> **Non-Fused Root Relations and Phase-Structured Infinity: A Zenetist Account of Structural Becoming**
+> **Non-fused Root Relations and Phase-Structured Infinity: A Zenetist Account of Structural Becoming**
 
 > **Identity-Bearing Potential and the Conservation of Essence Across Structural Transformation**
 
@@ -683,10 +722,10 @@ The layer entries and the awareness registers are seated at §6.1, and the layer
 
 Stabilize entries for:
 
-- acclivous and declivous motion;
+- acclivous and declivous motion — seated at §6.5;
 - centropic and entropic traversal;
 - rooted cycles;
-- Reflective Centropy;
+- Reflective Centropy — seated at §6.5;
 - Centropic Gravity;
 - Motive Infinity;
 - structural recurrence;
@@ -807,7 +846,11 @@ Coverage is reached through three movements:
 
 **Coverage is progressive rather than exhaustive at any single revision.** A term the vocabulary has not yet reached is unreached; it is not outside the scope. The framework is complete in architecture before it is complete in population, and it is intended to be readable and applicable at every stage of that population.
 
-### 13.7 Formal title — determined
+### 13.7 Convergence Principle — two objects, one name
+
+**Kaion** carries **Convergence Principle** as its analytic descriptor at §6.2, and Structural Physics seats a **Convergence Principle** of its own in `SP03-expression-ratio-mathematics.md`, concerning χ-trajectories. Held open, architect-reserved: which object retains the name, and what the other takes. Until determined, a publication carrying both writes the Kaion form as **Closure condition of motion** and the SP03 form by its volume.
+
+### 13.8 Formal title — determined
 
 The title stands as written: **Zenetist Analytic Vocabulary and Accessibility Framework**.
 
