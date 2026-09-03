@@ -704,6 +704,24 @@ Correct emphasis belongs to:
 
 Inline backticks should not appear around ordinary terms, canonical terminology, metaphysical concepts, file labels in running prose, or phrases merely being emphasized.
 
+### Glyphic and Notation Formula Chains
+
+Glyphic and notation formula chains in running prose — **🕳️ → ⚫ → 1**, **0 → 1**, **0 ↔ 1**, **C↑→⚫** — are not backticked. They take bold, per the Field Physics formatting: the chain is a definitionally critical formulation, and bold carries it in the reading field without the code-syntax signal backticks impose.
+
+A lone glyph standing beside an already-bold name — the **Biospiral** 🌳⇅, the **Aionic Tree** 🌲↓ — stays plain. The name carries the emphasis; bolding the glyph as well doubles it on the line. A glyph on its own designation line (**Glyph:** 🌳⇅) is likewise plain.
+
+Incorrect:
+
+> Zenetism posits **Two Spirals**, joined as the **Biospiral** `🌳⇅` — the total Emanatory Spiral.
+> * **Zenetist Formula:** `🕳️ → ⚫ → 1` (Zenon → Aion → Emanation).
+
+Correct:
+
+> Zenetism posits **Two Spirals**, joined as the **Biospiral** 🌳⇅ — the total Emanatory Spiral.
+> * **Zenetist Formula:** **🕳️ → ⚫ → 1** (Zenon → Aion → Emanation).
+
+Alignment-sensitive glyph structures that would collapse without code-block preservation remain under Graphs, Tables, and Preserved Layout below; this determination concerns inline chains only.
+
 ## Permissible Contexts
 
 Inline backticks may appear only in rare technical contexts where literal formatting matters.
@@ -724,7 +742,7 @@ Where a passage contains more than a few literal technical references, prefer a 
 
 ## Graphs, Tables, and Preserved Layout
 
-Backticks may remain where they serve a formatting-preservation function.
+Backticks may remain where they carry a formatting-preservation function.
 
 This includes:
 
