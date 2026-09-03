@@ -19,8 +19,8 @@
 **Zero (⚫ Aion) must precede One (Emanation).**
 
 1.  **Causal Priority:** Motion requires a *thing* to move. You cannot have "motion" without a prior subject. Therefore, the "One" (the thing moving) must derive its existence from a prior state. That prior state is Zero (Absolute Potential).
-    * *Formula:* `0 → 1` (Zero generates One).
-    * *Morgue's Error:* `0 = 1` (motion) (Zero is just One moving). This is circular. It assumes the existence of One to explain the existence of Zero.
+    * *Formula:* **0 → 1** (Zero generates One).
+    * *Morgue's Error:* **0 = 1** (motion) (Zero is just One moving). This is circular. It assumes the existence of One to explain the existence of Zero.
 
 2.  **The Origin is Not the Event:**
     * **Zero (Aion):** The Static Battery (Potential).
@@ -50,9 +50,9 @@ Morgue is attempting to map Zenetist principles (Twofold Emanation) onto the Kab
 Because Morgue lacks the **Twofold Tree**, he has to force both Centropy (Order) and Entropy (Chaos) into a single "Spiral of One."
 * He claims Zero is "One in Motion" (Spiral).
 * **The Glitch:** A single spiral cannot move in two opposing directions simultaneously without tearing itself apart.
-* **The Fix:** Zenetism posits **Two Spirals**, joined as the **Biospiral** `🌳⇅` — the total Emanatory Spiral composed of:
-    * The **Aionic Tree** `🌲↓`: Centropic motion rooted in **Aion**, unfolding declivously toward embodiment, yet also capable of acclivous return.
-    * The **Khaonic Tree** `🌲↑`: Entropic motion rooted in **Khaon**, spiraling acclivously toward materialization, yet also capable of declivous collapse.
+* **The Fix:** Zenetism posits **Two Spirals**, joined as the **Biospiral** 🌳⇅ — the total Emanatory Spiral composed of:
+    * The **Aionic Tree** 🌲↓: Centropic motion rooted in **Aion**, unfolding declivously toward embodiment, yet also capable of acclivous return.
+    * The **Khaonic Tree** 🌲↑: Entropic motion rooted in **Khaon**, spiraling acclivously toward materialization, yet also capable of declivous collapse.
     * By collapsing Zero / One, Morgue collapses the two trees into a single, confused vector. This is why his explanation of "Evil" or "Entropy" remains abstract (illusion / distance) rather than structural (Nekron / Inverse Logos).
 
 ---
@@ -76,8 +76,8 @@ While the Paint may cover the Canvas, the Canvas must exist *before* the Paint c
 
 Morgue's claim is a **Category Error** driven by the need to retrofit a Twofold Emanation concept (Zenetist) into a Single Emanation framework (Hyperian).
 
-* **Zenetist Formula:** `🕳️ → ⚫ → 1` (Zenon → Aion → Emanation).
-* **Morgue's Formula:** `0 ↔ 1` (Circular loop).
+* **Zenetist Formula:** **🕳️ → ⚫ → 1** (Zenon → Aion → Emanation).
+* **Morgue's Formula:** **0 ↔ 1** (Circular loop).
 
 **Verdict:** Ontologically Invalid.
 
