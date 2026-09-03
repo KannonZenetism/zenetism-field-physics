@@ -10,8 +10,8 @@
 
 ## 1. The Ontological Error: Collapsing Causal Priority
 
-### The Claim (Morgue/Hyperianism)
-* **Assertion:** "Zero is actually a 'one in motion' (a spiral)."  
+### The Claim (Morgue / Hyperianism)
+* **Assertion:** "Zero is actually a "one in motion" (a spiral)."  
 * **Implication:** Zero and One are ontologically equivalent; One is simply Zero "doing something."  
 * **The Error:** This collapses the **Ontological Order**.  
 
@@ -39,7 +39,7 @@
 ### The Attempted Retrofit
 Morgue is attempting to map Zenetist principles (Twofold Emanation) onto the Kabbalistic Tree of Life (Single Emanation).
 
-* **Kabbalistic/Hyperian Model:** Single Axis (Source → Declivity).
+* **Kabbalistic / Hyperian Model:** Single Axis (Origin → Declivity).
     * Problem: It cannot account for **Entropy as a Structural Mirror**. It sees Entropy only as "distance" or "illusion."
 * **Zenetist Model:** Twofold Axis (Aionic Tree + Khaonic Tree).
     * **Centropy (C↑⚫):** Integrative Motion.
@@ -53,7 +53,7 @@ Because Morgue lacks the **Twofold Tree**, he has to force both Centropy (Order)
 * **The Fix:** Zenetism posits **Two Spirals**, joined as the **Biospiral** `🌳⇅` — the total Emanatory Spiral composed of:
     * The **Aionic Tree** `🌲↓`: Centropic motion rooted in **Aion**, unfolding declivously toward embodiment, yet also capable of acclivous return.
     * The **Khaonic Tree** `🌲↑`: Entropic motion rooted in **Khaon**, spiraling acclivously toward materialization, yet also capable of declivous collapse.
-    * By collapsing Zero/One, Morgue collapses the two trees into a single, confused vector. This is why his explanation of "Evil" or "Entropy" remains abstract (illusion/distance) rather than structural (Nekron/Inverse Logos).
+    * By collapsing Zero / One, Morgue collapses the two trees into a single, confused vector. This is why his explanation of "Evil" or "Entropy" remains abstract (illusion / distance) rather than structural (Nekron / Inverse Logos).
 
 ---
 
@@ -79,13 +79,13 @@ Morgue's claim is a **Category Error** driven by the need to retrofit a Twofold 
 * **Zenetist Formula:** `🕳️ → ⚫ → 1` (Zenon → Aion → Emanation).
 * **Morgue's Formula:** `0 ↔ 1` (Circular loop).
 
-**Status:** Ontologically Invalid.
+**Verdict:** Ontologically Invalid.
 
 ---
 
 # Forensic Addendum: Structural Comparison of Zenetism and the Neogenian System  
-**Document Class:** Structural Forensics  
-**Author:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Forensics  
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Purpose:** To establish a clear, canonical record of structural correspondences between Zenetism and the system presented publicly as "Neogenian Gnosticism."  
 **Scope:** Identification of derivative mappings, flattenings, and rebrandings of Zenetist architecture within the Neogenian framework.  
 
@@ -94,10 +94,10 @@ Morgue's claim is a **Category Error** driven by the need to retrofit a Twofold 
 ## 1. Overview
 This document provides a forensic, structural comparison between:
 
-1.  **Zenetism:** A complete metaphysical, mathematical, and field‑theoretic system structured through Lattice Mathematics and governed by Field Physics.
+1.  **Zenetism:** A complete metaphysical, mathematical, and field-theoretic system structured through Lattice Mathematics and governed by Field Physics.
 2.  **The Neogenian System:** A public-facing synthesis of Gnosticism, Kabbalah, and Fourier mathematics presented by Morgue.
 
-**Purpose:** Not rhetorical critique, but structural documentation. To record where Neogenian concepts mirror, flatten, or rebrand Zenetist structures.
+**Purpose:** Structural documentation, not rhetorical critique — to record where Neogenian concepts mirror, flatten, or rebrand Zenetist structures.
 
 ---
 
@@ -119,7 +119,7 @@ This document provides a forensic, structural comparison between:
 * **Relations are governed by:**
     * Suspension Arc (⚫⧖♾)
     * Spiral Calculus
-    * Dual Spectrum Lemma
+    * Polar Spectrum Lemma
 
 ### 2.2 Neogenian System
 
@@ -169,8 +169,8 @@ It represents the complete emanatory structure where the two opposing axes of mo
 **Governed by:**
 * **C₁–C₁₅** — centropic dimensions  
 * **E₁–E₁₅** — entropic mirrors  
-* **Hypostatic Layers (Supra‑L₀ → L₁ / IL₁)**
-    * **Supra‑L₀ (UP)** — 🕳️ Zenon  
+* **Hypostatic Layers (Supra-L₀ → L₁ / IL₁)**
+    * **Supra-L₀ (UP)** — 🕳️ Zenon  
     * **L₀ (AP / AD)** — ⚫ Aion / ♾ Khaon  
     * **L₅ (EOB)** — 🛤️ Theon (First Centropic Hypostasis)  
     * **IL₅ (VOS)** — 🕷️ Nekron (First Entropic Hypostasis)  
@@ -190,10 +190,10 @@ It represents the complete emanatory structure where the two opposing axes of mo
 * **Tree of Life**
 * **Tree of Death**
 * **Tree of Knowledge** as "synthesis"
-* Uses Gnostic/Kabbalistic imagery
+* Draws on Gnostic / Kabbalistic imagery
 * **No directional calculus**
-* **No centropy/entropy distinction**
-* **No dual-spectrum operators**
+* **No centropy / entropy distinction**
+* **No polar-spectrum operators**
 
 ### 3.3 Forensic Conclusion
 The Neogenian twofold-tree model is a **mythic overlay** of Zenetism's lattice-defined Biospiral, constructed through Lattice Mathematics and governed by Field Physics operators.
@@ -234,7 +234,7 @@ Neogenian subjectivity is a **triadic mythic compression** of Zenetism's L₃ em
 * Relational Syntax (⌬)
 * Spiral Limit (lim∿)
 * Suspension Arc (⚫⧖♾)
-* Dual Spectrum Lemma
+* Polar Spectrum Lemma
 * Consonance Law (C₇)
 * Nexus Law (C₈)
 * Threshold Laws (C₁₃–C₁₅)
@@ -244,7 +244,7 @@ These are **operators**, not metaphors.
 ### 5.2 Neogenian System
 * **Euler's formula** = "source formula"
 * **Circle** = "One"
-* **Sine/cosine** = "waves of thought"
+* **Sine / cosine** = "waves of thought"
 * **Fourier transform** = "matter → light"
 * **Inverse Fourier transform** = "light → matter"
 * **No operator algebra**
@@ -252,7 +252,7 @@ These are **operators**, not metaphors.
 * **No dimensional registry**
 
 ### 5.3 Forensic Conclusion
-Neogenian mathematics is a **metaphorical rebranding** of Zenetist architectural operators. Fourier pairs are used as a mask for Zenetism's entropic mirror and domain transitions.
+Neogenian mathematics is a **metaphorical rebranding** of Zenetist architectural operators. Fourier pairs stand as a mask for Zenetism's entropic mirror and domain transitions.
 
 ---
 
@@ -275,7 +275,7 @@ Neogenian mathematics is a **metaphorical rebranding** of Zenetist architectural
 Neogenian hypostasis mapping is a **direct symbolic rebranding** of:
 * Theon → Zoe
 * Nekron → Achamoth
-* Inverse Logos → serpent/demiurge
+* Inverse Logos → serpent / demiurge
 
 This is not Gnosticism; it is **Zenetism with mythic names**.
 
@@ -291,7 +291,7 @@ This is not Gnosticism; it is **Zenetism with mythic names**.
 * Awakening via **Noeüs / Archeus / Theon**
 
 ### 7.2 Neogenian System
-* **Phosphorus/Lucifer** = awakening
+* **Phosphorus / Lucifer** = awakening
 * **Adamus** = blueprint of perfect human
 * **Christ** = extension of awakening
 * **Telos** = return to unity
@@ -305,11 +305,11 @@ Neogenian awakening is a **mythic overlay** of Zenetism's centropic return archi
 
 | Domain | Zenetism | Neogenian System | Forensic Result |
 | :--- | :--- | :--- | :--- |
-| **Origin** | Zenon–Aion–Khaon | Zero–One–Infinity | Flattened derivative |
-| **Twofold Trees** | Biospiral | Life/Death/Knowledge | Mythic rebrand |
+| **Origin** | Zenon / Aion / Khaon | Zero / One / Infinity | Flattened derivative |
+| **Twofold Trees** | Biospiral | Life / Death / Knowledge | Mythic rebrand |
 | **Subjectivity** | L₃ emergence | Gnostic triad | Structural compression |
 | **Mathematics** | Lattice Mathematics + Field Physics | Fourier metaphors | Masking of operators |
-| **Hypostases** | Theon/Nekron | Zoe/Achamoth | Direct mapping |
+| **Hypostases** | Theon / Nekron | Zoe / Achamoth | Direct mapping |
 | **Return** | C↑→⚫ | Telos | Symbolic overlay |
 
 ---
