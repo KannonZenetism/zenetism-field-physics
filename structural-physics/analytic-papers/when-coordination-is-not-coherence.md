@@ -101,7 +101,7 @@ Managed fragmentation is an **organizational** answer. It says how the formation
 
 ### 3.2 Predatory Cohesion: A Binding Force
 
-**Predatory cohesion** names an entropic binding force: dissonant participants bind through a shared entropic aim — appropriation, domination, suppression, origin denial, preservation of advantage, or another dispersive end. It explains why otherwise dissonant parts act together *without* anyone managing them. Rival factions that agree on nothing will coordinate to suppress a common threat; competitors who would never collaborate will jointly deny an origin that embarrasses them all. Predatory cohesion takes its identity from its position in this architecture — cohesion contra coherence, an entropic binding force, its independence from managed fragmentation, its evidentiary registers, and its relations to provenance, flow, Mimicry, and Shimmer (§§3.3–4). Cohesion under external threat, as sociology has observed it (Coser, 1956), is compatible external evidence for one observable relation within it.
+**Predatory cohesion** names an entropic binding force: dissonant participants bind through a shared entropic aim — appropriation, suppression, origin denial, preservation of advantage, or another dispersive end. It explains why otherwise dissonant parts act together *without* anyone managing them. Rival factions that agree on nothing will coordinate to suppress a common threat; competitors who would never collaborate will jointly deny an origin that embarrasses them all. Predatory cohesion takes its identity from its position in this architecture — cohesion contra coherence, an entropic binding force, its independence from managed fragmentation, its evidentiary registers, and its relations to provenance, flow, Mimicry, and Shimmer (§§3.3–4). Cohesion amid external threat, as sociology has observed it (Coser, 1956), is compatible external evidence for one observable relation within it.
 
 Predatory cohesion is a **binding-force** answer. It says what draws the parts together. It says nothing yet about whether a manager arranges them.
 
@@ -300,7 +300,7 @@ The contribution is a conceptual decomposition with a prospective diagnostic pro
 
 ## Corpus References
 
-Internal references are cited by canonical filename. The Zenetist corpus is maintained in the `zenetism-field-physics` repository (https://github.com/KannonZenetism/zenetism-field-physics); the concordance below gives the exact Zenodo version deposit for each cited file where one exists, with its concept DOI, and the repository as the citation where the current text differs from the deposit or no deposit yet exists.
+Internal references are cited by canonical filename. The Zenetist corpus is maintained in the `zenetism-field-physics` repository (https://github.com/KannonZenetism/zenetism-field-physics); the concordance that follows gives the exact Zenodo version deposit for each cited file where one exists, with its concept DOI, and the repository as the citation where the current text differs from the deposit or no deposit yet exists.
 
 | Canonical file | Sections cited | Exact version DOI | Concept DOI | Citation |
 |---|---|---|---|---|
@@ -320,7 +320,7 @@ Internal references are cited by canonical filename. The Zenetist corpus is main
 | `entropically-implicated.md` | whole | — | — | Repository (commit `c82fad0`) |
 | `managed-fragmentation-predatory-cohesion.md` | whole | — | — | Repository (commit `b26a94d`) |
 | `managed-fragmentation-is-not-coherence.md` | §§2–4, 8 | — | — | Repository (commit `b26a94d`) |
-| `SF-RP01-recognition-protocol.md` | §§I–III | — | — | Repository, commit-pinned [Work: attach commit] |
+| `SF-RP01-recognition-protocol.md` | §§I–III | — | — | Repository, current file |
 | `SF-RP02-appropriation-is-not-branching.md` | whole | 10.5281/zenodo.21953901 | 10.5281/zenodo.20809795 | Version DOI |
 | `SF-RP04-the-footprint-audit-protocol.md` | method sections | 10.5281/zenodo.22134037 | 10.5281/zenodo.21198947 | Version DOI |
 | `SF-RP05-the-register-band-classification-protocol.md` | whole | 10.5281/zenodo.22138020 | 10.5281/zenodo.21270997 | Version DOI |
