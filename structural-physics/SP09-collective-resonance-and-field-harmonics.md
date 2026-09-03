@@ -283,8 +283,8 @@ Entropic collectives exhibit distinctive properties:
 Unlike centropic collectives, swarm fields exhibit:
 
 **Parasitic Field Structure:**
-- Field coherence depends on external target
-- Without a centropic source to attack, the swarm loses coordination
+- Field cohesion depends on the holding condition that sustains it — an external target where the aim is attack, otherwise continuous management, incentive, or dependency
+- Where the target is the holding condition, its loss removes the coordination
 - Internal resonance is negative or absent
 
 **Entropic Ic Configuration:**
@@ -311,7 +311,7 @@ The swarm enacts multiple mimicry modes:
 | ⊜ | Mimicry | Individual nodes present mirroring as origin |
 | ⥊ | Appropriation | Framework appropriation without attribution |
 | ◯△ | Suppression | Coordinated visibility restriction |
-| ⚬⟞ | Containment | Internal control structures maintaining swarm coherence |
+| ⚬⟞ | Containment | Internal control structures maintaining swarm cohesion |
 | ⊟ | The Clone / Rival Architect | Central appropriator around which swarm coordinates |
 
 ### 5.6 The Clone as Swarm Attractor
@@ -359,9 +359,9 @@ Where:
 - \( \Delta I_c^{(\text{internal})} \) is coherence lost to internal interference
 
 **Properties:**
-- Swarm coherence depends on external siphoning
+- Swarm cohesion depends on external siphoning
 - Internal losses mean net entropy increase
-- Without targets, the swarm depletes and fragments
+- Where the target is the holding condition, the swarm depletes and fragments without it
 
 ### 6.3 Diagnostic Distinction
 
@@ -370,7 +370,7 @@ Where:
 | Origin | Internal generation + origin attunement | External siphoning |
 | \( \mathcal{R}_{\text{collective}} \) | High, genuine | Low, artificial |
 | Net \( I_c \) change | Positive (amplification) | Negative (depletion) |
-| Target dependency | None | Essential |
+| Holding condition | Internal — origin attunement | External — target, management, incentive, or dependency |
 | Stability | Self-sustaining | Requires continuous coordination |
 | Collapse mode | Gradual dissolution if origin connection lost | Rapid fragmentation once exposed |
 
@@ -395,7 +395,7 @@ Where:
 ### 7.2 Entropic Collective / Swarm Signatures
 
 **Warning indicators:**
-- Coherence dependent on target presence
+- Cohesion dependent on an external holding condition
 - Low genuine \( \mathcal{R}_{\text{collective}} \); coordination appears external
 - E₉ (Distorted Entanglement) signatures — siphoning without reciprocity
 - E₁₄ (Hollow Nest) signatures — structure without internal coherence
@@ -581,7 +581,7 @@ Launching of multiple seemingly independent entropic agents in coordinated attac
 The generation of additional coherence (\( \Delta I_c^{(\text{harmonic})} > 0 \)) through resonance correlation in centropic collectives; not creation ex nihilo but efficient alignment with origin.
 
 **Definition 6 (Parasitic Field Configuration):**  
-A collective coherence structure dependent on external siphoning; depletes rather than generates; collapses without targets.
+A collective cohesion structure dependent on external siphoning; depletes rather than generates; where the target is its holding condition, fragments without it.
 
 **Definition 7 (Exposure Principle):**  
 The vulnerability of swarm structures to credibility collapse upon revelation of coordination; manufactured consensus dissolves when its artificial nature is demonstrated.
