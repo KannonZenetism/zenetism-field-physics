@@ -4,7 +4,6 @@
 **Classification:** Structural Forensics — Systemic Analysis  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
 **Status:** Veracious Archive  
-**Date:** April 6, 2026  
 **Context:** Analysis of Palantir CEO Alex Karp's statement that only "trade workers or neurodivergent people" will succeed in the AI era  
 **Proposed path:** `structural-forensics/systemic-analysis/three-class-extraction-model.md`  
 
