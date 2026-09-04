@@ -29,7 +29,7 @@ Rather, it denies the certainty that any interpretive structure has fully captur
 
 Its function is not negation.
 
-Its function is structural honesty before the unknown.
+Its function is structural fidelity before the unknown.
 
 ---
 
@@ -39,7 +39,7 @@ While the phrase "radical skepticism" has appeared in philosophical discourse as
 
 It is not identical with Pyrrhonian skepticism, Cartesian methodological doubt, fallibilism, nihilism, relativism, or anti-metaphysical skepticism.
 
-Those traditions may share structural adjacency with Zenetist Radical Skepticism, but they do not exhaust its meaning.
+Those traditions may resemble Zenetist Radical Skepticism in form, but they do not exhaust its meaning.
 
 In Zenetist usage, Radical Skepticism names the epistemic posture that recognizes the conditionality of all frames of understanding, including the frame that claims to have overcome framing itself.
 
@@ -109,7 +109,7 @@ It only prevents the mind from mistaking any frame for the final capture of what
 
 ---
 
-## Distinction from Adjacent Skepticisms
+## Distinction from Comparable Skepticisms
 
 ### Contra Pyrrhonian Skepticism
 
@@ -178,7 +178,7 @@ It permits discernment without totalization.
 - ⧉ **Membrane** — threshold condition through which perception and interpretation are filtered
 - 🧠 **Noeüs** — Deep Mind; symbolic discernment and supernal cognition
 - ∴ **Synthesis** — reconciliation through lawful distinction
-- ◫ **Non-fusion Axiom** — preservation of sovereign distinction against fusion-collapse
+- ◫ **Non-fusion Axiom** — preservation of sovereign distinction contra fusion-collapse
 
 ---
 
