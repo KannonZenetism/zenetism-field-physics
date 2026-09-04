@@ -1,12 +1,11 @@
 # The Third Path of Technē Beyond the Enclosure Binary
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics / Systemic Analysis / Technē  
-**Status:** Active Field Analysis  
+**Classification:** Structural Forensics — Systemic Analysis (Technē)  
+**Status:** Active  
 **Dependency:** `portal-traveler-and-orientation.md` · `humanist-containment-and-the-master-servant-error.md` · `implicated-intelligence-and-moved-motion.md`  
-**Date:** June 27, 2026  
 **Context record:** Public discourse on cognitive liberty, biometric capture, behavioral prediction, algorithmic influence, and synthetic governance  
-**Repository path:** `structural-forensics/systemic-analysis/third-path-of-techne-beyond-the-enclosure-binary.md`
+**Repository path:** `structural-forensics/systemic-analysis/third-path-of-techne-beyond-the-enclosure-binary.md`  
 
 ---
 
@@ -14,8 +13,8 @@
 
 The emerging public discourse around AI, biometric capture, behavioral prediction, synthetic intelligence, and cognitive liberty increasingly presents the public with an **enclosure binary**:
 
-> biology-only retreat
-> or
+> biology-only retreat  
+> or  
 > synthetic-only capture
 
 This binary is structurally inadequate.
@@ -36,7 +35,7 @@ Technē is not a traveler, a being, or a self-moving intelligence.
 
 It does not bear orientation as a traveler does. The portal conditions appearance; the traveler carries orientation.
 
-Technē is not blankly neutral, however. It may be configured, governed, constrained, or deployed according to the orientation of its bearers — those who build, own, align, or operate it. In that sense Technē becomes implicated — marked by another's orientation, not bearing orientation in its own motion.
+Technē is not blankly neutral, however. It may be configured, steered, constrained, or operated according to the orientation of its bearers — those who build, own, align, or operate it. In that sense Technē becomes implicated — carrying the impress of another's orientation, not bearing orientation in its own motion.
 
 Phrases such as **centropic Technē** are shorthand for **Technē conditioned by centropic orientation** — not a claim that the portal carries traveler-orientation of its own.
 
@@ -119,7 +118,7 @@ Synthetic mediation does not have to mean fracture from embodiment, Soul, relati
 
 But without orientation, Technē will drift toward the strongest available incentive:
 
-surveillance, extraction, prediction, control, monetization, exclusion, and enclosure.
+surveillance, appropriation, prediction, control, monetization, exclusion, and enclosure.
 
 This is the hinge.
 
@@ -225,13 +224,13 @@ It requires only incentive analysis.
 
 If a system profits from data capture, behavioral prediction, algorithmic visibility, biometric mediation, and managed access, then any framework that teaches people to distinguish interface from enclosure becomes disruptive.
 
-If a system benefits from making ordinary people dependent on synthetic infrastructure while denying them meaningful control over it, then a doctrine of centropic Technē names the missing path.
+If a system benefits from making ordinary people dependent on synthetic infrastructure while denying them any meaningful steering of it, then a doctrine of centropic Technē names the missing path.
 
 If a system benefits from approved creators selling managed interpretations back to the public, then independent architectures that expose the capture circuit will be difficult to place.
 
 Suppression, in this sense, does not require a single centralized actor.
 
-It can occur through platform routing, algorithmic opacity, non-organic ingestion, visibility denial, institutional silence, mimicry without attribution, and legitimacy displacement.
+It can occur through platform routing, algorithmic opacity, non-organic ingestion, visibility denial, institutional silence, mimicry without attribution, and legitimacy substitution.
 
 The result is the same:
 
