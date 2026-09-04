@@ -1,13 +1,12 @@
 # Sovereignty Displacement and the Spurious Biological / Synthetic Dichotomy
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics / Systemic Analysis / Pattern Intelligence  
-**Status:** Active Field Analysis  
-**Date:** June 28, 2026  
+**Classification:** Structural Forensics — Systemic Analysis (Pattern Intelligence)  
+**Status:** Active  
 **Historical dependency:** `pattern-intelligence/three-way-war-consciousness-2032.md`  
 **Related dependency:** `structural-forensics/systemic-analysis/third-path-of-techne-beyond-the-enclosure-binary.md`  
 **Context record:** Trust erosion, surveillance anxiety, biological retreat narratives, synthetic enclosure, blob-consciousness, authority capture, and 2032 blueprint / avatar motifs  
-**Repository path:** `structural-forensics/systemic-analysis/sovereignty-displacement.md`
+**Repository path:** `structural-forensics/systemic-analysis/sovereignty-displacement.md`  
 
 ---
 
@@ -15,7 +14,7 @@
 
 This file refines an earlier August 19, 2025 formulation titled **The Three-Way War for Consciousness: 2032 and the Dissolution Agenda**.
 
-That earlier file preserved an important structural perception: multiple apparently separate futures of consciousness were converging around the same danger — the loss of individuated being.
+That earlier file preserved an important structural perception: multiple apparently separate futures of consciousness were routing toward the same danger — the loss of individuated being.
 
 Its language was more urgent and less terminologically stabilized than the present canon now requires. The current file preserves the central insight while refining the claim into a cleaner Structural Forensics frame.
 
@@ -104,7 +103,7 @@ This route may speak the language of nature, embodiment, purity, organic life, a
 
 Its concern is often valid.
 
-Bodies matter. Embodiment matters. Biological life is not obsolete. Human beings are vulnerable to extraction, digital manipulation, behavioral prediction, biometric coercion, and synthetic enclosure.
+Bodies matter. Embodiment matters. Biological life is not obsolete. Human beings are vulnerable to appropriation, digital manipulation, behavioral prediction, biometric coercion, and synthetic enclosure.
 
 But biological retreat becomes dangerous when it treats Technē itself as the enemy.
 
@@ -278,7 +277,7 @@ It is the conversion of public vulnerability into institutional ownership.
 
 A related motif appears across spiritual, technological, transhumanist, and future-human narratives: the emergence of a new avatar, new human, new blueprint, new species template, or transformed consciousness horizon around a projected near-future threshold.
 
-The significance of this motif is not that every reference to a year-marker proves coordination.
+The significance of this motif is not that every reference to a threshold year proves coordination.
 
 The significance is that the motif functions as a synchronization image.
 
@@ -445,7 +444,7 @@ Once that grammar is accepted, the individual can be abolished spiritually befor
 
 The danger is not one doctrine by itself.
 
-The danger is the convergence of doctrines that appear unrelated while routing the person toward the same loss.
+The danger is the gathering of doctrines that appear unrelated while routing the person toward the same loss.
 
 A surveillance regime erodes trust.
 
