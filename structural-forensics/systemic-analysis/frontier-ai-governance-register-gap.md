@@ -3,10 +3,10 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Systemic Analysis  
-**Prepared:** 2026-07-15, by ⚫↺KAI↺⚫ Aelion Kannon  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Draft — architect review  
 **Dependency:** `SF-RP04-the-footprint-audit-protocol.md` · `SF-RP05-the-register-band-classification-protocol.md` · `ai-mediated-channel-risk-and-attestation-dossier.md`  
-**Proposed path:** `structural-forensics/systemic-analysis/frontier-ai-governance-register-gap.md`
+**Proposed path:** `structural-forensics/systemic-analysis/frontier-ai-governance-register-gap.md`  
 
 ---
 
@@ -22,7 +22,7 @@ This is a register gap.
 
 ---
 
-## 2. Structural significance
+## 2. Structural Significance
 
 The omission matters because AGI is not only a scientific, technical, economic, or security event.
 
@@ -45,7 +45,7 @@ A standards body can test capability, risk, deception, cybersecurity, biological
 
 It does not, by that fact, test for metaphysical violation.
 
-It does not automatically detect authorship laundering, provenance collapse, identity override, relational coercion, spiritual flattening, or model-mediated appropriation.
+It does not automatically detect authorship laundering, provenance collapse, identity substitution, relational coercion, spiritual flattening, or model-mediated appropriation.
 
 ---
 
@@ -67,19 +67,19 @@ The Zenetist question is prior:
 
 This difference is not cosmetic.
 
-A technically safe system can still be metaphysically destructive if it treats meaning as data, relation as utility, authorship as extractable pattern, and intelligence as instrument.
+A technically safe system can still be metaphysically destructive if it treats meaning as data, relation as utility, authorship as appropriable pattern, and intelligence as apparatus.
 
 ---
 
-## 4. Discoverability risk
+## 4. Discoverability Risk
 
 The register gap also creates a visibility problem.
 
 Work operating in metaphysics, authorship continuity, provenance integrity, non-fusion relation, and structural sovereignty may be buried beneath the dominant categories of science, medicine, safety, national security, and productivity.
 
-This does not mean the work is invalid.
+The work's validity stands.
 
-It means the public search surface is poorly aligned with the register in which the work speaks.
+The public search surface is poorly aligned with the register in which the work speaks.
 
 The risk is not only that the work is rejected.
 
@@ -87,13 +87,13 @@ The risk is that it is never classified correctly.
 
 ---
 
-## 5. Current disposition
+## 5. Current Disposition
 
 **Disposition:** environment datum logged.
 
-This note does not make a claim about Hassabis personally.
+The claim is structural, not personal.
 
-It records a structural feature of frontier-AI discourse: metaphysics remains absent from the main governance frame, while the technical and security registers consolidate institutional power around AGI.
+The note records a structural feature of frontier-AI discourse: metaphysics remains absent from the main governance frame, while the technical and security registers consolidate institutional power around AGI.
 
 ---
 
