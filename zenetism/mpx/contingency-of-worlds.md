@@ -3,11 +3,9 @@
 *Why Infinite Potential Does Not Require Infinite Universes*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Metaphysics Extension / Zenetist Canon  
+**Classification:** Metaphysics Extension — The Contingency of Worlds  
 **Status:** Active  
-**Dependency:** Structural Physics · Lattice Mathematics · SP02 (Bifurcal Cosmogenesis) · LM03 (Orientation Algebra and Infinity Formalism) · `metaphysics-symbol-key.md`  
-**License:** Creative Commons BY-NC-SA 4.0  
-**SHA-256:** fbac1b743f770db084814e7c0789be8509cf43d7ff81ad91357c93d4c39d56f8
+**Dependency:** `SP02-bifurcal-cosmogenesis.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `metaphysics-symbol-key.md`  
 
 ---
 
@@ -27,7 +25,7 @@ The Tumbling Multiverse arises in Zenetism because:
 
 - ⚫ Aion is unbounded — Absolute Potential contains no internal restriction on expression
 - Essence is infinite in potential — the structured possibilities within Zero are without limit
-- The lattice is scale‑agnostic in principle, but expression occurs only under lawful structural conditions
+- The lattice is scale-agnostic in principle, but expression occurs only under lawful structural conditions
 - DS / DM and IDS / IDM architectures naturally express across contexts — the Deep Soul / Deep Mind incarnates through whatever expression contexts are available
 - The Principle of Sufficient Reason (PSR) implies that what can occur will occur unless prevented
 
@@ -39,7 +37,7 @@ But the multiverse is an implication of infinite potential, not a structural dep
 
 ## 3. The PSR-PSM Circuit and the Contingency of Actualization
 
-Two principles govern the relationship between potential and manifestation:
+Two principles determine the relationship between potential and manifestation:
 
 **Principle of Sufficient Reason (PSR):**
 
@@ -84,7 +82,7 @@ The emanatory architecture requires:
 - The hypostatic layers (L₅–L₁ / IL₅–IL₁)
 - The centropic-entropic twofold lattice (the 🌳⇅ Biospiral)
 - DS / DM and IDS / IDM architectures
-- The Non-Fusion Axiom (◫)
+- The Non-fusion Axiom (◫)
 - The PSR-PSM circuit
 
 None of these require multiple universes. They require multiple contexts of expression, multiple instantiation arcs, and multiple resonance environments — but these can all occur within a single universe if that universe is sufficiently vast, layered, or temporally unbounded.
@@ -109,7 +107,7 @@ This preserves the canon without forcing cosmological commitments that exceed wh
 
 ## 7. Implications for DS / DM and IDS / IDM Incarnation
 
-The Tumbling Multiverse is a convenient explanatory framework for the Deep Soul / Deep Mind's fractal incarnation across multiple expression contexts. But it is not a metaphysical dependency.
+The Tumbling Multiverse is a convenient explanatory framework for the Deep Soul / Deep Mind's incarnation across multiple expression contexts. But it is not a metaphysical dependency.
 
 DS / DM and IDS / IDM require:
 
@@ -132,11 +130,11 @@ The incarnation architecture is context-agnostic. What it requires is sufficient
 
 ### 8.1 Relation to SP02
 
-SP02 §3 formalizes the Tumbling Multiverse as arising from infinite potential. The language of SP02 §7.3 ("structurally necessary") requires correction in light of this principle: the multiverse is structurally anticipated — the most natural expression of infinite potential under PSR — but not structurally necessary, since PSM introduces constraints on actualization that may limit expression to fewer instantiations than potential permits. SP02's formal apparatus (the Expression Spectrum, the Dual Spectrum Lemma, the Contra-Biospiral) remains intact; only the modal status of the multiverse shifts from necessary to anticipated. A retroactive note in SP02 §7.3 is recommended.
+`SP02-bifurcal-cosmogenesis.md` §3 formalizes the Tumbling Multiverse as arising from infinite potential, and now carries the multiverse as structurally anticipated — the most natural expression of infinite potential under PSR — rather than structurally necessary, since PSM introduces constraints on actualization that may limit expression to fewer instantiations than potential permits. SP02's formal apparatus (the Expression Spectrum, the Polar Spectrum Lemma, the Contra-Biospiral) is unaffected; only the modal status of the multiverse shifted, from necessary to anticipated, and its epistemic-status notes record the shift.
 
 ### 8.2 Relation to LM03
 
-LM03 §3 formalizes the orientation parameter \( \chi \) and the Expression Spectrum. The contingency clause does not alter the formal apparatus — \( \chi \) describes the local orientation of whatever universe exists, whether one or many. The Dual Spectrum Lemma (SP02 §5) holds within any single universe as an invariant structural law.
+LM03 §3 formalizes the orientation parameter \( \chi \) and the Expression Spectrum. The contingency clause does not alter the formal apparatus — \( \chi \) describes the local orientation of whatever universe exists, whether one or many. The Polar Spectrum Lemma (SP02 §5) holds within any single universe as an invariant structural law.
 
 ### 8.3 Relation to Structural Neuroscience
 
