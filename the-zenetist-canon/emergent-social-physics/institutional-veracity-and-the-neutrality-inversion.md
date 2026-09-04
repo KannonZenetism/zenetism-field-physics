@@ -3,11 +3,11 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Emergent Social Physics — Institutional Veracity and Record-Correction Dynamics  
-**Status:** Draft — prepared by 🔦 Lumen for architect review — July 30 2026  
+**Status:** Draft — architect review  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen drafting assistance  
 **Function:** Establishes the Neutrality Inversion, post-evidentiary retention, modal shielding, and operational preference as structural categories of institutional behavior  
 **Scope:** General doctrine abstracted from an external correction process; not a record of any particular institution's final response  
-**Dependency:** `terminological-lockdown-protocol.md` · Structural Forensics evidentiary standards · agnostic-gnostic stance  
-**Proposed path:** `emergent-social-physics/institutional-veracity-and-the-neutrality-inversion.md`  
+**Dependency:** `terminological-lockdown-protocol.md` · `gnostic-agnostic.md` · `radical-skepticism.md` · Structural Forensics evidentiary standards  
 
 ---
 
@@ -17,7 +17,7 @@ These formulations appear cautious. They can nevertheless conceal a fundamental 
 
 Zenetism does not adopt "truth claim" or "truth stance" as final categories in its own voice. Reality-correspondence is not a posture that an institution may accept, reject, or decline to possess. A representation is more or less veracious according to its correspondence with what has become materially legible through evidence. Institutional acceptance does not create that correspondence, and institutional refusal does not abolish it.
 
-This does not require a claim to exhaustive knowledge. The agnostic-gnostic stance holds the unknown open without flattening what has become discernible. A discernibility limit does not make every account equally valid. One representation may remain materially better supported than another even where total knowledge is unavailable.
+This does not require a claim to exhaustive knowledge. The gnostic-agnostic stance holds the unknown open without flattening what has become discernible. A discernibility limit does not make every account equally valid. One representation may remain materially better supported than another even where total knowledge is unavailable.
 
 The central issue is therefore not whether an institution wishes to call itself neutral. The issue is what the institution does when materially sufficient evidence enters a record it already maintains.
 
@@ -48,7 +48,7 @@ The proper distinctions concern:
 
 For the purposes of record correction, a documented fact does not mean exhaustive possession of reality. It means a proposition materially established within the available record and supported more strongly than the competing representation. The continued existence of the unknown does not grant equal standing to a baseless assertion and a multi-anchored evidentiary record.
 
-An institution may lawfully classify a matter as unresolved when the evidence remains genuinely indeterminate. It may not call the matter unresolved merely because acknowledging the stronger evidence would require revision.
+An institution may lawfully classify a matter as unresolved when the evidence remains indeterminate. It may not call the matter unresolved merely because acknowledging the stronger evidence would require revision.
 
 ## 2. The Status Quo Is an Active Signal
 
@@ -64,7 +64,7 @@ Where the active record states X and materially sufficient evidence establishes 
 
 Non-intervention therefore acquires directional force whenever an asymmetrical field already exists.
 
-An institution may decline to endorse either side of a genuinely unresolved dispute. It cannot create neutrality merely by continuing to broadcast one side while refusing to examine the evidence that displaces it.
+An institution may decline to endorse either side of an unresolved dispute. It cannot create neutrality merely by continuing to broadcast one side while refusing to examine the evidence that displaces it.
 
 ## 3. The Evidentiary Correction Threshold
 
@@ -118,7 +118,7 @@ The distinction between motive and operation must be preserved. Motive may remai
 
 Policy is prior human choice stabilized into repeatable procedure.
 
-A policy may have been written by earlier participants, inherited by later participants, or distributed across multiple offices and processes. This distribution can make individual responsibility difficult to locate. It does not transform policy into a nonhuman necessity or dissolve institutional agency.
+A policy may have been written by earlier participants, inherited by later participants, or distributed across multiple offices and processes. This distribution can make individual responsibility difficult to locate. It does not transform policy into a nonhuman necessity or abolish institutional agency.
 
 An individual editor may lack local discretion while the institution retains collective capacity to revise its policy, escalate an exception, qualify the record, or alter the publication. Responsibility can be distributed without disappearing.
 
@@ -154,7 +154,7 @@ In a veracity-oriented process, neutrality concerns method:
 - consistent admissibility standards
 - freedom from predetermined outcome
 - proportionate placement according to evidentiary weight
-- willingness to rule for, against, partially, or remain open
+- willingness to find for one account or the other, in part, or to remain open
 
 Neutrality does not require every claim to receive equal weight. Equal scrutiny and equal evidentiary standing are different conditions.
 
@@ -229,7 +229,7 @@ Within institutional records, the consequences of error-preserving non-intervent
 - propagation of baseless lineage claims
 - institutional amplification of an evidentially displaced account
 
-The origin relation itself remains intact. An institution cannot sever a work, signal, or corpus from its origin. What can be distorted is the public record, the reception field, and the placement through which others encounter that origin.
+The origin relation itself remains intact. An institution cannot separate a work, signal, or corpus from its origin; the origin keeps the work, and whatever fractures does so on the institution's side, away from the origin. What can be distorted is the public record, the reception field, and the placement through which others encounter that origin.
 
 This distinction matters. Institutional non-recognition does not erase authorship, evidence, provenance, or precedence. It can nevertheless affect public legibility and permit a distorted account to propagate.
 
@@ -262,7 +262,7 @@ Its minimum disciplines are:
 - apply scope restrictions symmetrically
 - preserve a dated record of substantive corrections and responses
 
-Where uncertainty genuinely remains, the institution should name uncertainty.
+Where uncertainty remains, the institution should name it.
 
 Where evidence is insufficient, it should state what is insufficient.
 
@@ -270,9 +270,9 @@ Where policy blocks a correction category, it should acknowledge that the policy
 
 Where an existing statement no longer warrants unqualified presentation, it should be revised, removed, attributed, or marked as unresolved.
 
-In the Structural Forensics register, correction is an act of placement. A claim receives no more and no less weight than its evidence warrants. Neutrality is not refusal to place. It is disciplined placement without predetermined favoritism.
+In the Structural Forensics register, correction is an act of placement. A claim receives no more and no less weight than its evidence warrants. Neutrality is not refusal to place. It is disciplined placement without predetermined preference.
 
-A genuinely benevolent record does not preserve institutional comfort at the expense of accurate attribution. It does not avoid every conflict. It prevents convenience, reputation, and procedural inertia from outranking material evidence.
+A benevolent record does not preserve institutional comfort at the expense of accurate attribution. It does not avoid every conflict. It prevents convenience, reputation, and procedural inertia from outranking material evidence.
 
 ## 10. Structural Forensics Implications
 
@@ -299,7 +299,7 @@ A non-response does not prove rejection, agreement, malice, or a specific motive
 
 A procedural decline does not by itself disprove the submitted evidence. It establishes the reason the institution gave for non-correction.
 
-A substantive evidentiary rebuttal creates a genuine dispute that must be assessed according to the competing records.
+A substantive evidentiary rebuttal creates a dispute that must be assessed according to the competing records.
 
 Continued publication after the correction threshold has been crossed supports classification as post-evidentiary retention.
 
@@ -313,7 +313,7 @@ An institution's veracity posture is revealed most clearly when evidence challen
 
 Procedure may explain how the institution arrived at non-correction. It does not convert non-correction into neutrality.
 
-Policy may distribute the decision across prior authors, present editors, review processes, and institutional boundaries. It does not dissolve agency.
+Policy may distribute the decision across prior authors, present editors, review processes, and institutional boundaries. It does not abolish agency.
 
 The word "cannot" may conceal refusal, delay, priority, or policy behind the appearance of necessity.
 
