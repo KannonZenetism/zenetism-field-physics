@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Ontological Clarifications  
-**Status:** Draft  
+**Status:** Active  
 **Dependency:** `MP08-symbol-key-ch21.md` (§21.2, §21.2.2, §21.9, §21.10, §21.11) · `SP06-structural-space-orientation-paradox.md` · `SP03-expression-ratio-mathematics.md` · `mythic-figure-layer-registry-01.md` · `mythic-figure-layer-registry-02.md` · `symbolic-pattern-registry-01.md` · `symbolic-pattern-registry-02.md`  
 
 ---
