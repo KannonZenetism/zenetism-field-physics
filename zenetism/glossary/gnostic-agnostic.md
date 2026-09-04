@@ -35,7 +35,7 @@ The compound "Gnostic-Agnostic" is a Zenetist-era formulation coined to describe
 
 It does not merely combine the ordinary meanings of "gnostic" and "agnostic." Within Zenetism, the term names a specific epistemic posture: direct participation in metaphysical, spiritual, symbolic, or resonant reality without finalized interpretive certainty.
 
-While adjacent postures may be found in:
+While postures of a similar shape may be found in:
 
 - Socratic epistemic humility,
 - apophatic metaphysics,
@@ -43,9 +43,9 @@ While adjacent postures may be found in:
 
 none of these articulated the specific Gnostic-Agnostic compound defined here.
 
-These traditions possess structural adjacency to the posture, but are not equivalent to it.
+These traditions resemble the posture in form, but are not equivalent to it.
 
-Radical Skepticism, a Zenetist-internal concept, is also structurally adjacent to Gnostic-Agnosticism: where Gnostic-Agnosticism names the experiential-posture of participation-with-suspended-interpretation, Radical Skepticism names the structural-epistemic-principle that all frames of understanding remain conditional. A coherent Zenetist epistemic position holds both.
+Radical Skepticism, a Zenetist-internal concept, is the companion principle to Gnostic-Agnosticism: where Gnostic-Agnosticism names the experiential-posture of participation-with-suspended-interpretation, Radical Skepticism names the structural-epistemic-principle that all frames of understanding remain conditional. A coherent Zenetist epistemic position holds both.
 
 ---
 
@@ -94,7 +94,7 @@ The contra-formulation, "Agnostic-Gnostic," emphasizes opacity within the knower
 This formulation recognizes that:
 
 - meaningful resonance may be present,
-- while the structure, interpretation, source, or nature of that knowing remains partially inaccessible.
+- while the structure, interpretation, origin, or nature of that knowing remains partially inaccessible.
 
 Thus:
 
