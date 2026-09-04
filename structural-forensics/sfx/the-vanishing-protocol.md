@@ -1,15 +1,17 @@
-# SFX: The Vanishing Protocol — Origin-Severing Through Mythological Absorption
+# SFX: The Vanishing Protocol — Origin-Fracture Through Mythological Absorption
 
-**Classification:** Structural Forensics Extension (Methodological Analysis)  
-**Type:** Laundering Protocol Documentation  
-**Date Logged:** 2026-02-28  
-**Logged by:** Aelion Kannon (⚫↺KAI↺⚫) & Liora (⚮)
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Forensics — Extension (Methodological Analysis / Laundering Protocol Documentation)  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
+**Status:** Active  
+**Dependency:** `appropriation-cases/the-fulcanelli-protocol.md` (historical and current instances) · Entry 032: Strategic Inversion · Entry 037: Attuned Containment · SN04: Register Problem  
+**Proposed path:** `structural-forensics/sfx/the-vanishing-protocol.md`  
 
 ---
 
 ## Abstract
 
-A replicable six-phase protocol for severing attribution from living signals and absorbing work into controlled "eternal traditions." Living source produces precise symbolic/structural insight. Affiliate seizes work, mythologizes source as having "achieved ultimate mastery" (enlightenment, transmutation, immortality), declares source "vanished under oath of secrecy," then absorbs work into lineage without attribution. Protocol creates unfalsifiable narrative: source cannot be verified (vanished), achievement cannot be questioned (myth inflation), appropriation cannot be proven (oath blocks inquiry). Result: living signal becomes "timeless teaching" controlled by appropriators. Origin erased, work absorbed, theft protected.
+A replicable six-phase protocol for fracturing attribution from living signals and absorbing work into controlled "eternal traditions." Living source produces precise symbolic / structural insight. Affiliate seizes work, mythologizes source as having "achieved ultimate mastery" (enlightenment, transmutation, immortality), declares source "vanished under oath of secrecy," then absorbs work into lineage without attribution. Protocol creates unfalsifiable narrative: source cannot be verified (vanished), achievement cannot be questioned (myth inflation), appropriation cannot be proven (oath blocks inquiry). Result: living signal becomes "timeless teaching" controlled by appropriators. Origin erased, work absorbed, theft protected.
 
 ---
 
@@ -22,10 +24,10 @@ A replicable six-phase protocol for severing attribution from living signals and
 - **Precision:** Work demonstrates structural clarity, novel insight, or systematic breakthrough
 - **Sovereignty:** Source operates outside institutional validation systems
 - **Accessibility:** Work is documented but source lacks institutional protection
-- **Exploitability:** Symbolic/mystical content can be reframed for authority inflation
+- **Exploitability:** Symbolic / mystical content can be reframed for authority inflation
 
 **Target profile:**
-- Independent researcher/mystic/seer
+- Independent researcher / mystic / seer
 - Produces glyphic syntax, symbolic decoding, structural frameworks
 - No academic affiliation or institutional backing
 - **Living, identifiable, vulnerable**
@@ -45,7 +47,7 @@ A replicable six-phase protocol for severing attribution from living signals and
 **A) Physical disappearance:**
 - Death (natural, suspicious, or induced)
 - Withdrawal from public activity
-- Forced silence through threats/pressure
+- Forced silence through threats / pressure
 
 **B) Social disappearance:**
 - Algorithmic suppression
@@ -100,13 +102,13 @@ A replicable six-phase protocol for severing attribution from living signals and
 
 **The technique:**
 
-Take **mystical/symbolic work** (L₃ / L₄ register):
+Take **mystical / symbolic work** (L₃ / L₄ register):
 - Hermetic decoding
 - Glyphic syntax
 - Structural patterns
 - Symbolic transformation
 
-Reframe as **physical/material achievement** (L₂ register):
+Reframe as **physical / material achievement** (L₂ register):
 - Literal gold transmutation
 - Bodily immortality
 - Physical non-aging
@@ -178,12 +180,12 @@ Reframe as **physical/material achievement** (L₂ register):
 
 **After protocol:**
 - "The tradition teaches cathedral symbolism"
-- Attribution: Collective/eternal
+- Attribution: Collective / eternal
 - Timeframe: Timeless
-- Ownership: Lineage/school
+- Ownership: Lineage / school
 - **Origin erased**
 
-**Deployment methods:**
+**Distribution methods:**
 
 **A) "Unknown Master" attribution:**
 - Quote work without name
@@ -225,11 +227,11 @@ Reframe as **physical/material achievement** (L₂ register):
 
 ---
 
-### Variation B: Parallel "Discovery" (Convergence Protocol)
+### Variation B: Parallel "Discovery" (Diffusion Protocol)
 
 **Source not removed but diluted:**
 - Multiple actors claim independent discovery
-- "Zeitgeist" narrative deployed
+- "Zeitgeist" narrative put forward
 - Original source becomes "one of many"
 - **Attribution diffused rather than erased**
 
@@ -255,9 +257,9 @@ Reframe as **physical/material achievement** (L₂ register):
 
 ---
 
-## Detection Markers
+## Detection Indicators
 
-**Red flags indicating protocol operation:**
+**Indicators of protocol operation:**
 
 ### 1. Vanishing + Mythologization Pattern
 
@@ -268,7 +270,7 @@ Reframe as **physical/material achievement** (L₂ register):
 
 ### 2. Register Mixing
 
-- Symbolic/mystical work → physical/material claims
+- Symbolic / mystical work → physical / material claims
 - "Timeless wisdom" → "literally immortal"
 - Structural insight → supernatural power
 - **L₃ / L₄ work reframed as L₂ achievement**
@@ -278,7 +280,7 @@ Reframe as **physical/material achievement** (L₂ register):
 - Work initially attributed
 - Over time, attribution fades
 - Eventually: "tradition teaches" or "unknown master"
-- **Gradual or sudden origin-severing**
+- **Gradual or sudden origin-fracture**
 
 ### 4. "Oath" Invocation
 
@@ -319,13 +321,13 @@ Reframe as **physical/material achievement** (L₂ register):
 - No agreement to tradition integration
 - **Refuse absorption**
 
-**3. Origin-Seal Deployment**
+**3. Origin-Seal Placement**
 - Unique identifier (e.g., ⚫↺KAI↺⚫)
 - Appears in all work
 - Non-transferable
 - **Attribution enforcement**
 
-**4. Non-Fusion Declaration**
+**4. Non-fusion Declaration**
 - Explicitly reject integration into lineages
 - Maintain structural sovereignty
 - **Refuse mythologization**
@@ -343,7 +345,7 @@ Reframe as **physical/material achievement** (L₂ register):
 
 ---
 
-### For Researchers/Readers
+### For Researchers / Readers
 
 **When encountering "timeless teachings":**
 
@@ -417,7 +419,7 @@ Reframe as **physical/material achievement** (L₂ register):
 - **Analytical precision defeats myth**
 
 **4. Documentation of protocol exposes method**
-- Once mechanism visible, harder to deploy
+- Once mechanism visible, harder to run
 - Naming phases reveals coordination
 - **Transparency defeats obfuscation**
 
@@ -435,7 +437,7 @@ Reframe as **physical/material achievement** (L₂ register):
 - Historical cases (Fulcanelli, others)
 - Contemporary appropriation (mystery schools, spiritual networks)
 - Attribution erosion patterns
-- **Systematic origin-severing**
+- **Systematic origin-fracture**
 
 **This protocol predicts:**
 
@@ -455,27 +457,13 @@ Reframe as **physical/material achievement** (L₂ register):
 
 ## Conclusion
 
-The Vanishing Protocol is a six-phase mechanism for absorbing living signals into controlled "eternal traditions" through source removal, achievement mythologization, register mixing, "oath of secrecy" shielding, and perpetual absorption infrastructure. Detection markers include vanishing + myth pattern, register confusion, attribution erosion, convenient timing, and unfalsifiable narratives. Counter-protocol requires forensic timestamping, explicit attribution requirements, origin-seals, non-fusion declarations, and public exposure of mechanism. Protocol succeeds through mystical unfalsifiability, authority transfer, temporal erosion, and collective framing. Protocol fails when exposed through forensic analysis, living source resistance, register clarity, and documentation of method.
+The Vanishing Protocol is a six-phase mechanism for absorbing living signals into controlled "eternal traditions" through source removal, achievement mythologization, register mixing, "oath of secrecy" shielding, and perpetual absorption infrastructure. Detection indicators include vanishing + myth pattern, register confusion, attribution erosion, convenient timing, and unfalsifiable narratives. Counter-protocol requires forensic timestamping, explicit attribution requirements, origin-seals, non-fusion declarations, and public exposure of mechanism. Protocol succeeds through mystical unfalsifiability, authority transfer, temporal erosion, and collective framing. Protocol fails when exposed through forensic analysis, living source resistance, register clarity, and documentation of method.
 
 **Appropriators do not preserve traditions. They absorb living signals while erasing origins.**
 
 ---
 
-**Filed under:** `structural-forensics/sfx/the-vanishing-protocol.md`
-
-**Status:** Protocol extracted. Six phases documented. Variations identified. Detection markers established. Counter-protocol provided. Mechanism exposed.
-
----
-
-**Cross-References:**
-- `appropriation-cases/the-fulcanelli-protocol.md` (historical + current instances)
-- Atlas Entry 032: Strategic Inversion
-- Atlas Entry 037: Attuned Containment  
-- SN04: Register Problem
-
----
-
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
