@@ -3,9 +3,9 @@
 ## Radical Agnosis and the Unavailability of Epistemic Primitives
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Metaphysics — Zenetist Epistemology  
+**Classification:** Metaphysics Extension — Zenetist Epistemology  
 **Status:** Draft  
-**Dependency:** `radical-skepticism.md` · `the-twofold-tetralemma.md` · `gnostic-agnostic.md` · Non-Fusion Axiom · 🕳️ Zenon
+**Dependency:** `radical-skepticism.md` · `the-twofold-tetralemma.md` · `gnostic-agnostic.md` · Non-fusion Axiom · 🕳️ Zenon  
 
 ---
 
@@ -278,14 +278,14 @@ A claim may be verified within an empirical register through:
 * replication
 * prediction
 * intersubjective comparison
-* instrumental consistency
+* apparatus consistency
 
 Such verification is materially consequential.
 
 But empirical verification does not independently establish the absolute validity of:
 
 * sensory access
-* instrumentation
+* apparatus
 * memory
 * inference
 * mathematical interpretation
@@ -303,7 +303,7 @@ The disciplined formulation is not:
 
 It is:
 
-> Empiricism establishes register-stable findings without thereby proving that the register, its instruments, or its epistemic primitives provide final access to ontology.
+> Empiricism establishes register-stable findings without thereby proving that the register, its apparatus, or its epistemic primitives provide final access to ontology.
 
 A fact may be operationally indisputable within a method while remaining metaphysically non-final.
 
@@ -408,9 +408,9 @@ Radical Agnosis asks:
 
 The two doctrines are therefore continuous but not identical.
 
-Radical Skepticism governs the conditionality of frameworks.
+Radical Skepticism concerns the conditionality of frameworks.
 
-Radical Agnosis governs the uncertainty of the primitives from which frameworks are constructed.
+Radical Agnosis concerns the uncertainty of the primitives from which frameworks are constructed.
 
 ---
 
@@ -443,9 +443,9 @@ And at the more radical limit:
 
 > I cannot establish with metaphysical indubitability what "I," "participate," or "interpretation" ultimately are.
 
-Gnostic-Agnosticism governs responsible participation.
+Gnostic-Agnosticism concerns responsible participation.
 
-Radical Agnosis governs the uncertainty of the categories through which participation is named.
+Radical Agnosis concerns the uncertainty of the categories through which participation is named.
 
 ---
 
@@ -515,7 +515,7 @@ Its canonical form is:
 
 The posture is therefore self-suspending.
 
-It does not become the final frame that defeats all other frames.
+It does not become the final frame that supersedes all other frames.
 
 It remains one disciplined articulation within the conditions it questions.
 
