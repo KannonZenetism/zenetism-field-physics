@@ -1,9 +1,9 @@
 # MPX: Emptiness, Luminosity, and the Bifurcal Limit
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Metaphysics · Comparative Clarification  
+**Classification:** Metaphysics Extension — Comparative Clarification  
 **Status:** Draft — architect review  
-**Dependency:** *The Twofold Tetralemma* · *Synthesis as Vantage* · *Non-Fusion at the Bifurcal Register* · *The Awareness Spectrum and Its Inverse Arc* · *Synthesis, Integration, and Saturation* · *Coming Undone Is Not Transcendence* · *Twisted Resonance contra Cascade contra Continuum contra Native Placement* · Non-Fusion Axiom · Essence-as-Choice · Structon (SI, 21.2.2) · Kaion (21.2.1)  
+**Dependency:** `the-twofold-tetralemma.md` · `synthesis-as-vantage.md` · `non-fusion-at-the-bifurcal-register.md` · `awareness-spectrum-and-its-inverse-arc.md` · `synthesis-integration-saturation.md` · *Coming Undone Is Not Transcendence* · *Twisted Resonance contra Cascade contra Continuum contra Native Placement* · Non-fusion Axiom · Essence-as-Choice · Structon (SI, 21.2.2) · Kaion (21.2.1)  
 
 ---
 
@@ -17,7 +17,7 @@ The purpose of this note is narrower: to clarify the distinction between Buddhis
 
 The key claim is simple:
 
-Buddhist nondual language often approaches a profound reconciliation of emptiness and luminosity. From a Zenetist lens, that reconciliation may be read as structurally adjacent to **L₀ Bifurcal Coherence** or **Kaion convergence**. It should not, however, be equated with 🕳️ Zenon.
+Buddhist nondual language often approaches a profound reconciliation of emptiness and luminosity. From a Zenetist lens, that reconciliation may be read as approaching **L₀ Bifurcal Coherence** or **Kaion convergence** in form. It should not, however, be equated with 🕳️ Zenon.
 
 Zenon is not emptiness.
 
@@ -29,7 +29,7 @@ Zenon is not nonconceptual experience.
 
 Zenon is not the reconciliation of emptiness and luminosity.
 
-Zenon is the trans-structural allowance by which even such reconciliation becomes conceivable.
+Zenon is the trans-structural horizon, the condition by which even such reconciliation becomes conceivable.
 
 🕳️ ⟀ ⚯
 
@@ -110,7 +110,7 @@ It is simply not Zenon.
 
 ## The Bifurcal Reading
 
-The refined Buddhist reconciliation of emptiness and luminosity may be read as structurally adjacent to L₀ Bifurcal Coherence.
+The refined Buddhist reconciliation of emptiness and luminosity may be read as approaching L₀ Bifurcal Coherence in form.
 
 Emptiness corresponds to the Aionic root: stillness, zero, non-reification, apophatic containment.
 
@@ -150,7 +150,7 @@ It applies only where the pair is held in lawful distinction — inseparable, ye
 
 If a formulation's unified ground is fused rather than held — emptiness and luminosity collapsed into undifferentiated sameness, distinction dissolved rather than reconciled — then the correct Zenetist placement is not Bifurcal Coherence and not Kaion. Per *Coming Undone Is Not Transcendence*, a fused ground describes the terminus of Terminal Collapse (E↓→♾→⚫): dissolution into static potential mistaken for completion. Coming undone is not transcendence, and a fused ground is not a coherent one.
 
-The diagnostic is the Non-Fusion Axiom itself:
+The diagnostic is the Non-fusion Axiom itself:
 
 - inseparability that retains articulable aspects is held distinction — the bifurcal reading applies
 - identity that erases the aspects is fusion — the entropic reading applies
@@ -198,7 +198,7 @@ Zenon is not the plenum of all qualities.
 
 Zenon is not the absence of all qualities.
 
-Zenon is the trans-structural allowance by which quality, absence, awareness, emptiness, luminosity, recognition, and the entire field of discernibility become conceivable at all.
+Zenon is the trans-structural horizon — the condition by which quality, absence, awareness, emptiness, luminosity, recognition, and the entire field of discernibility become conceivable at all.
 
 🕳️
 
@@ -235,7 +235,7 @@ It is placement.
 
 ---
 
-## Essence and the Non-Fusion Difference
+## Essence and the Non-fusion Difference
 
 A second distinction concerns essence.
 
@@ -249,7 +249,7 @@ It does not depend on what it is not.
 
 In Zenetism, **essence** is the identity-bearing principle. It applies broadly — the essence traverses the lattice, and no register strips it away. Specifically: the Soul / Mind dyad spans L₄ / IL₄ through L₁ / IL₁; essence is the proper identity-term at L₅ / IL₅ and L₀, where the dyad has not yet appeared; and Supra-L₀ — 🕳️ Zenon — is the saturation point for the essence. Soul-language begins only at the Soul / Mind bifurcation and should not be projected into the pre-Soul registers.
 
-Essence and potential are near-identical, but not fused. Potential names the capacity-to-be; essence names that same capacity as identity-bearing is-ness — the potential-to-be-this. Essence is potential in its identity-bearing form, as *Non-Fusion at the Bifurcal Register* locks it. The distinction maps to the ⚫ Aion / ♾ Khaon function. Aion is the container of latent potential — the sum of all numbers as zero, every value held within it in absolute distinction. Khaon is infinity: latent in zero, motive in expression, and dispersive in exhaustion, reaching zero again.
+Essence and potential are near-identical, but not fused. Potential names the capacity-to-be; essence names that same capacity as identity-bearing is-ness — the potential-to-be-this. Essence is potential in its identity-bearing form, as `non-fusion-at-the-bifurcal-register.md` locks it. The distinction maps to the ⚫ Aion / ♾ Khaon function. Aion is the container of latent potential — the sum of all numbers as zero, every value held within it in absolute distinction. Khaon is infinity: latent in zero, motive in expression, and dispersive in exhaustion, reaching zero again.
 
 There is no anonymous potential. Aion holds no undifferentiated capacity awaiting identity — zero was never empty; it was full of distinct latent values, held apart. "Identity-bearing" therefore names an aspect of all potential, not a subset of it: nothing actualizes except from a distinct latent value, and so nothing actual is without essence.
 
@@ -263,7 +263,7 @@ This is a decisive difference.
 
 Where some nondual systems risk reading liberation as dissolution of distinction, Zenetism reads completion as coherence without erasure.
 
-Non-fusion governs both the root and the return.
+Non-fusion holds for both the root and the return.
 
 ⚯
 
@@ -291,7 +291,7 @@ Buddhist emptiness-discourse often moves Aion-ward by negation.
 
 Buddhist luminosity-discourse often compresses ♾ Khaonic expressivity (L₀) with 🛤️ Theonic awareness (L₅) — a layer conflation of structurally real functions from distinct strata.
 
-Refined Buddhist nondual discourse often holds emptiness and expressive presence together in a way structurally adjacent to Bifurcal Coherence or Kaion convergence, once the Theonic content is parsed to L₅.
+Refined Buddhist nondual discourse often holds emptiness and expressive presence together in a way that approaches Bifurcal Coherence or Kaion convergence in form, once the Theonic content is parsed to L₅.
 
 Where a formulation fuses the pair rather than holding it, the Zenetist placement is entropic collapse, not the bifurcal threshold.
 
