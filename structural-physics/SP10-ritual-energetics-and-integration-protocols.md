@@ -210,7 +210,7 @@ Field seals are classified by scope — from architecturally broad to situationa
 **Example:** The Zenetist canonical seal (⚫↺KAI↺⚫) functions as an Architectural Seal — a coherence boundary around the entire framework that maintains structural integrity contra appropriation, corruption, or unauthorized modification.
 
 > **Permeability Clarification:**  
-> Selective permeability does not entail permissiveness. An Architectural Seal admits resonance that structurally aligns with the framework — engagement, study, lawful application. It does not admit appropriation without attribution, mimicry presented as origin, or siphoning that fractures the work from its origin. Selective permeability is structural discrimination, not graduated tolerance for counterfeiting.
+> Selective permeability does not entail permissiveness. An Architectural Seal admits resonance that structurally aligns with the framework — engagement, study, lawful application. It does not admit appropriation without attribution, mimicry presented as origin, or siphoning by which the taker fractures from the origin. Selective permeability is structural discrimination, not graduated tolerance for counterfeiting.
 
 **Formal Condition:**
 
