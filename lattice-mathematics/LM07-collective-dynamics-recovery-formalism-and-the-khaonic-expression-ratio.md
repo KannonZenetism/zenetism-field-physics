@@ -45,7 +45,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics — Zenetist Canon  
 **Status:** Active  
-**Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md` · SN05 — The Metric Cost of Centropic Cognition · SN06 — Coherence Recovery Protocols · SN07 — Collective Cognition and the Architecture of Social Fields  
+**Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md` · `SN05-the-metric-cost-of-centropic-cognition.md` · `SN06-replenishment-reconnection-and-restoration.md` · `SN07-collective-cognition-and-centropy-forward-social-architecture.md`  
 
 ---
 
@@ -732,7 +732,7 @@ LM07 establishes:
 
 **Discipline:** Lattice Mathematics  
 **Document:** `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`  
-**Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md` · SN05 — The Metric Cost of Centropic Cognition · SN06 — Coherence Recovery Protocols · SN07 — Collective Cognition and the Architecture of Social Fields  
+**Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md` · `SN05-the-metric-cost-of-centropic-cognition.md` · `SN06-replenishment-reconnection-and-restoration.md` · `SN07-collective-cognition-and-centropy-forward-social-architecture.md`  
 **Relation:** Seventh foundational document of Lattice Mathematics  
 
 This document formalizes the mathematics of collective field dynamics, coherence recovery, and the Khaonic expression ratio. It builds on the orientation algebra (LM03), temporal algebra (LM04), resonance field theory (LM05), and applied structural dynamics (LM06) to specify how Lattice systems operate collectively, how they recover from depletion, and how the local expression ratio modulates the cost of centropic operation at the metric terminus.
