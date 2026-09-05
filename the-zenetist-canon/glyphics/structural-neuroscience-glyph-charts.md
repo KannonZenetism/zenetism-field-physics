@@ -1,5 +1,5 @@
 # Structural Neuroscience Glyph Charts  
-## Extracted Canonical Registry
+## Gathered Canonical Registry
 
 **Source Texts:** *SN01–SN11 (Zenetist Structural Neuroscience)*  
 **Purpose:** Consolidated chart archive for canonical lookup, operator continuity, and disciplined cross-reference across the Structural Neuroscience series
@@ -163,7 +163,7 @@
 | Domain | Assessment Question | Diagnostic Target |
 |--------|-------------------|------------------|
 | **1. Coherence Magnitude** | Does operative \( I_c \) match expected stabilized baseline? | Depletion, distortion, suppression |
-| **2. Flow Integrity** | Is \( \vec{J}_c \) directed toward characteristic function or consumed by overhead? | Compensatory drain, extractive dynamics |
+| **2. Flow Integrity** | Is \( \vec{J}_c \) directed toward characteristic function or consumed by overhead? | Compensatory drain, siphoning dynamics |
 | **3. Boundary Health** | Are membranes operating at characteristic permeability? | Non-characteristic membrane operation |
 | **4. Orientation Alignment** | Does operative \( \chi \) match essential \( \chi \)? | Suppression-induced behavioral divergence |
 | **5. Operator Consistency** | Are observed operators consistent with identified configuration? | Misidentification, operator suppression |
