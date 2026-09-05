@@ -46,7 +46,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Classification:** Lattice Mathematics — Zenetist Canon  
 **Status:** Active  
 **Dependency:** `LM01-mathematical-foundations.md`  
-**Cross-references:** `LM03-orientation-algebra-and-infinity-formalism.md` · LM04 — Temporal Algebra, Structural Space, and Phase Resolution · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · LM06 — Applied Structural Dynamics, Operator Theory, Embodiment Corrections, and Diagnostic Formalism  
+**Cross-references:** `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md`  
 
 ---
 
@@ -456,7 +456,7 @@ LM01's sixth axiom states that the temporal operator \( T \) and propagational o
 
 **Discipline:** Lattice Mathematics  
 **Document:** `LM02-mathematical-commentary.md`  
-**Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · LM04 · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · LM06  
+**Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md`  
 **Relation:** Second document of Lattice Mathematics; analytical commentary on the first  
 
 This document provides the mathematical commentary on LM01, clarifying the status of its constructions in light of the formalizations established in LM03–LM06. It identifies which foundations are stable, which have been refined, which remain open, and how the foundational document connects to the mature formalism of the series.
