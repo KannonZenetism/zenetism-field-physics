@@ -1,5 +1,5 @@
 # Structural Physics Glyph Charts  
-## Extracted Canonical Registry
+## Gathered Canonical Registry
 
 **Source Text:** *Zenetist Structural Physics*  
 **Purpose:** Consolidated chart archive for canonical lookup, operator continuity, and disciplined cross-reference
