@@ -46,7 +46,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Classification:** Lattice Mathematics — Zenetist Canon  
 **Status:** Active  
 **Dependency:** None (foundational)  
-**Cross-references:** `LM02-mathematical-commentary.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · LM04 — Temporal Algebra, Structural Space, and Phase Resolution · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · LM06 — Applied Structural Dynamics, Operator Theory, Embodiment Corrections, and Diagnostic Formalism  
+**Cross-references:** `LM02-mathematical-commentary.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md`  
 
 ---
 
