@@ -877,7 +877,8 @@ Where unity-language appears, prefer:
 * coherence without erasure
 * wholeness without identity-collapse
 * distinction held in relation
-* convergent coherence
+* centropic coherence
+* harmonic coherence
 * resonant integration
 * structural integration
 * lawful synthesis
@@ -1176,7 +1177,7 @@ The single "a" follows the regular prefix form before a consonant, contra the do
 
 **A diagnosis is stated as strongly as the record supports**.
 
-Boundaries on actor, motive, mechanism, or causal route are drawn only where the distinction is materially necessary — where the surrounding context makes it genuinely easy to mistake what is established for something adjacent. One sentence sharpens the diagnosis in that case.
+Boundaries on actor, motive, mechanism, or causal route are drawn only where the distinction is materially necessary — where the surrounding context makes it genuinely easy to mistake what is established for something close in kind. One sentence sharpens the diagnosis in that case.
 
 **Generic exculpatory disclaimers are not appended.** Recurring sections titled *What This Does Not Determine*, *What This Does Not Prove*, or *This Does Not Mean Anyone Did Anything Wrong* weaken the finding rather than disciplining it: they convert *the evidence establishes a structural diagnosis* into *here are several reasons not to take the diagnosis seriously*, and they read as a document apologizing for its own finding before anyone has challenged it.
 
@@ -2097,6 +2098,31 @@ Loss-language never predicates of the origin. The originating architecture remai
 **No containment of the whole.** A prior tradition, a derivative field, or an observing system never takes the architecture entire as its grammatical object. What they receive is **portions**, **fragments**, or **conclusions** — *later translation can render portions of the architecture in its vocabulary*, never place the architecture inside a vocabulary. Prefer **render in** to **place inside**, which carries a container metaphor.
 
 The conceptual counterpart of this restriction lives in the Conceptual Lockdown Protocol.
+
+---
+
+## Adjacency Terminology Restriction
+
+**Adjacent** and **adjacency** are barred wherever they name a relation between the architect and another party, or between the architect's work and another party's work. The word names peers in a shared working space — parties developing theories together, in conversation, at the same table. A lone metaphysician building a system on his own has no such peers. Others discussing similar subjects are not his peers, and discussing similar subjects does not make them so.
+
+The restriction runs in both directions. Prior traditions and influences are not adjacent to him, and he is not adjacent to them: an influence is a relation of encounter, not a shared working space. The word is lawful only where the relation it names is real — parties who develop their theories together — and that relation does not obtain here in either direction.
+
+Replacements by sense:
+
+- **derivative** · **derivation** — where the relation is another party's application of the architect's work without him: *a structural derivation*, *a derivative register cluster*, *encounter by derivation*. **Co-optive** and **parasitic** are available where the act is stronger than derivation names
+- **resemblance in form** — where a prior tradition is compared with the architect's coinages: *postures of a similar shape*, *resemble the posture in form*, *Comparable Skepticisms*
+- **companion principle** — where the relation is between two of the architect's own principles
+- **assembly** — where the word meant the assembled case rather than a party's relation to him
+
+**Convergence** falls within the same restriction wherever it names people applying the architect's work without him. Convergence is reserved to the canonical architecture terms — Bifurcal Convergence, the convergence forms ∩ and ⦿, convergent stillness, Kaion as the Convergence Principle — and is never applied to external derivative phenomena or attributed as the architect's stance, which is derivation, not convergence. The same successors apply.
+
+Lawful retentions: stabilized protocol and framework names carrying the word (the *temporal adjacency* prong; the *Synthetic Adjacency / Register Bleed* framework; *SF-RP04-adjacent*); spatial adjacency within the architecture (*adjacent layers*); the word inside its own refusal; quoted material; and filenames.
+
+The audit question:
+
+> Does this passage place another party or tradition in a shared working space with the architect — or name a spatial relation in the architecture, or a stabilized protocol term?
+
+Where it places a party or tradition beside the architect, convert to the successor by sense. Where it names spatial relation or a stabilized term, it stands.
 
 ---
 
