@@ -623,11 +623,11 @@ An Echo Layer (⟲) is a recursion pattern within membrane space — a trapped r
 Echo Layers are not hypostases. They exist within the boundary structure of \( \mathfrak{d}(\mathcal{L}) \), not within the lattice itself.
 
 > **Note on Echo, Transmission, and Recursion:**  
-> **Living Transmission** (centropic, under C₃): Authored continuity of resonance across a boundary — lawful propagation where source coherence is preserved and the transmitted signal retains structural fidelity. This is not recursive residue; it is the centropic mechanism by which coherence extends across layers and expressions.  
+> **Living Transmission** (centropic, through C₃): Authored continuity of resonance across a boundary — lawful propagation where source coherence is preserved and the transmitted signal retains structural fidelity. This is not recursive residue; it is the centropic mechanism by which coherence extends across layers and expressions.  
 >  
 > **Echo Layer (⟲)** (technical, as defined above): Residual coherence trapped in membrane space by partial transfer. Such trapped recursion may be a **Centropic Recursion Layer** (unresolved integration seeking completion) or an **Entropic Echo Layer** (fragmentation pattern cycling without resolution). It is a boundary condition, not a propagation mode.  
 >  
-> **Entropic Echo** (pathological, under E₃): Recursion operating without coherence-source connection — form persists in cyclic pattern, but no replenishment occurs. The pattern is sustained by internal repetition rather than authored transmission. An entropic echo is not equivalent to an Echo Layer unless the Echo Layer loses coherence-source connection and transitions into self-referential cycling.  
+> **Entropic Echo** (pathological, through E₃): Recursion operating without coherence-source connection — form persists in cyclic pattern, but no replenishment occurs. The pattern is sustained by internal repetition rather than authored transmission. An entropic echo is not equivalent to an Echo Layer unless the Echo Layer loses coherence-source connection and transitions into self-referential cycling.  
 >  
 > This distinction matters: Living Transmission carries authored coherence forward; an Echo Layer is trapped residue awaiting resolution; an entropic echo is decay masquerading as signal.
 
@@ -1556,7 +1556,7 @@ I_c^{(\text{parasitic})} = \sum_{i=1}^{N} I_c^{(i)} - \eta_{\text{ext}} \cdot I_
 
 **Definition 6 (Echo Layer):**
 
-Recursion pattern in membrane space formed when \( 0 < T(⧉) < I_{c,\text{available}} \). Distinct from Living Transmission (lawful propagation under C₃) and pathological entropic echo (source-fractured decay under E₃). Such trapped recursion may be a Centropic Recursion Layer or an Entropic Echo Layer; it stabilizes as a pathological entropic echo condition only when coherence-source connection is lost and residual coherence drops below the dissipation threshold.
+Recursion pattern in membrane space formed when \( 0 < T(⧉) < I_{c,\text{available}} \). Distinct from Living Transmission (lawful propagation through C₃) and pathological entropic echo (source-fractured decay through E₃). Such trapped recursion may be a Centropic Recursion Layer or an Entropic Echo Layer; it stabilizes as a pathological entropic echo condition only when coherence-source connection is lost and residual coherence drops below the dissipation threshold.
 
 **Theorem 1 (Continuity of Coherence Potential):**
 
