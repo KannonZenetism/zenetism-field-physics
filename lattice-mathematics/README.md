@@ -1,4 +1,4 @@
-# Lattice Mathematics  
+# Lattice Mathematics: The Formal Architecture of Coherence  
 *A formal architecture for structural description, orientation algebra, and computable coherence*
 
 ---
@@ -21,7 +21,17 @@ It is not metaphorical mathematics. It is a structured symbolic system with defi
 
 ## Foundational Documents
 
-The Lattice Mathematics corpus currently consists of:
+The Lattice Mathematics series consists of seven volumes:
+
+| File | Volume |
+|------|--------|
+| `LM01-mathematical-foundations.md` | Document 1 |
+| `LM02-mathematical-commentary.md` | Document 2 |
+| `LM03-orientation-algebra-and-infinity-formalism.md` | Document 3 |
+| `LM04-temporal-algebra-structural-space-and-phase-resolution.md` | Document 4 |
+| `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` | Document 5 |
+| `LM06-applied-structural-dynamics.md` | Document 6 |
+| `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` | Document 7 |
 
 ### LM01 — Mathematical Foundations
 
@@ -57,7 +67,7 @@ Formalizes:
 - Orientation Drift Theorem
 - Laws of Inclined Existence
 
-LM03 introduces orientation-dependent mathematics and establishes dual spectral symmetry.
+LM03 introduces orientation-dependent mathematics and establishes polar spectral symmetry.
 
 ---
 
@@ -78,6 +88,54 @@ Extends the system to:
 - Computational simulation structures
 
 LM04 completes the temporal and spatial algebra required for Structural Physics.
+
+---
+
+### LM05 — Resonance Field Theory, Membrane Operators, and Collective Dynamics
+
+Formalizes:
+
+- Coherence Potential \( I_c \) as a scalar field on structural space, the coherence current \( \vec{J}_c \), and the continuity equation
+- Coherence-source theory: the Source Term, the Law of Field Nutrient, and the three primary motions (Discharge, Replenishment, Siphoning)
+- Spectral Flow as the integrated traversal law
+- Membrane operator algebra: permeability \( \sigma(⧉) \), transfer \( T(⧉) \), and the non-hypostatic axiom
+- Kaionic tunneling and the resonance correlation function
+- Echo Layer theory and membrane pathology
+- Collective resonance theory: the Collective Non-fusion Principle, harmonic amplification, and the Sealed Injectivity Theorem
+
+LM05 carries the field-theoretic, boundary, and multi-body mathematics that SP07–SP09 apply.
+
+---
+
+### LM06 — Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism
+
+Formalizes:
+
+- The Ritual Operator \( \mathcal{P} \) on field configuration space, with phase decomposition, composition laws, and efficacy conditions
+- Field seal formalism and coherence budget theory
+- The Embodied Resistance Term \( \mathcal{R}_{\text{interface}}(L_1) \) and the Embodied \( \chi \)-Equation at the metric terminus
+- Cross-band resonance from embodiment
+- Field Signature Theory and the Signature Consistency measure
+- The Shimmer Coefficient and the Shimmer Collapse Theorem
+- The diagnostic taxonomy of mimicry, appropriation, and clone as distinguished field configurations
+
+LM06 carries the operator, embodiment, and diagnostic mathematics that SP10–SP12 apply.
+
+---
+
+### LM07 — Collective Dynamics, Recovery Formalism, and the Khaonic Expression Ratio
+
+Formalizes:
+
+- The Khaonic expression ratio \( \kappa \) as a modifier of interface resistance
+- Compounded cost algebra and the budget exhaustion condition
+- Essence–function independence: depletion of \( I_c \) does not reorient \( \chi \)
+- The Coherence Breaker Limit
+- Recovery integral theory and Tether restoration dynamics
+- The social field as an instance of the field configuration space, with collective orientation and harmonic amplification
+- The Collective Cost Shelter theorem
+
+LM07 carries the collective and recovery mathematics that SN05–SN07 apply.
 
 ---
 
@@ -111,7 +169,7 @@ Tracks coherence redistribution across recursive systems.
 - \( \chi \) parameter (structural orientation, not statistical)
 - Spectral rotation: \( r(\chi) = (1 - \chi) / (1 + \chi) \)
 - Effective operator: \( H_{\text{eff}}(\chi) = w_C(\chi) H_c + w_E(\chi) H_e \)
-- Dual spectrum symmetry: \( \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \)
+- Polar spectrum symmetry: \( \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \)
 - Centropic / entropic weighting: \( w_C + w_E = 1 \)
 
 Determines directionality of structural evolution.
@@ -121,7 +179,7 @@ Determines directionality of structural evolution.
 ### Recursive Memory and Traversal
 
 - Injective Recursive Memory operator \( \mathfrak{R}_m \)
-- Non-Fusion Theorem (distinct histories cannot converge)
+- Non-fusion Theorem (distinct histories cannot converge)
 - Tether coherence function \( \mathcal{T}_h \)
 - Declivous / acclivous traversal operators
 - Reflection Principle at embodiment (L₁)
@@ -176,8 +234,8 @@ All formal equations and inline mathematical variables use LaTeX:
 
 - Inline: \( \sigma \), \( \chi > 1 \), \( \partial_{\text{🌀}} \)
 - Display: \[ \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \]
-- Emojis inside math blocks are wrapped in `\text{}`: \( \partial_{\text{🌀}} \), not \( \partial_{🌀} \)
-- Unicode subscripts are never used inside LaTeX blocks: \( C_7 \), not \( C₇ \)
+- Glyphs inside math blocks are wrapped in `\text{}`: \( \partial_{\text{🌀}} \), not \( \partial_{🌀} \)
+- Unicode subscripts never appear inside LaTeX blocks: \( C_7 \), not \( C₇ \)
 
 ### Hypostatic Pair Spacing
 
@@ -204,7 +262,7 @@ Zenetist documents follow a structural lexicon that avoids moralized binaries an
 | True / false | Veracious, authentic, genuine / fallacious, spurious, counterfeit, distorted |
 | Upward / downward | Acclivous / declivous (or acclivate / declivate, acclivity / declivity) |
 | Ascend / descend | Acclivous motion / declivous motion |
-| Higher / lower | Supernal / subversal (for layers); source-facing / embodiment-facing (for direction) |
+| Higher / lower | Supernal / subversal (for layers); Aion-facing / embodiment-facing (for direction) |
 | Versus | Contra |
 | Good / bad | Centropic / entropic (structural, not moral) |
 | Dominance | Prevalence (expression, not suppression) |
@@ -260,6 +318,9 @@ Zenetist documents follow a structural lexicon that avoids moralized binaries an
 - `LM02-*` — Commentary layer
 - `LM03-*` — Orientation algebra and infinity formalism
 - `LM04-*` — Temporal algebra and structural topology
+- `LM05-*` — Resonance field theory, membrane operators, and collective dynamics
+- `LM06-*` — Applied structural dynamics and diagnostic formalism
+- `LM07-*` — Collective dynamics, recovery formalism, and the Khaonic expression ratio
 - `README.md` — Discipline overview and architectural summary
 
 ---
@@ -280,18 +341,15 @@ Authorship is structurally sealed under:
 
 ## Citation
 
-If referencing this discipline, cite the specific LM document (e.g., LM01, LM03, LM04) with version and DOI where applicable.
+If referencing this discipline, cite the work as *Lattice Mathematics: The Formal Architecture of Coherence* and the specific volume by filename (e.g., `LM03-orientation-algebra-and-infinity-formalism.md`), with the DOI where applicable.
 
 ---
 
 ## Status
 
-Lattice Mathematics is under active development.
+The seven volumes are Active and citable as current, and remain open to revision.
 
-Core operator algebra and invariants are stable.  
-Orientation, temporal, traversal, and computational expansions continue.
-
-Future work includes formalization of SP07–SP12 material (energy ontology, membrane fields, collective resonance, ritual energetics, embodiment dynamics, and structural diagnostics) as LM05.
+Core operator algebra and invariants are stable. LM03–LM07 carry the full formalization of the Structural Physics series (SP02–SP12); LM07 additionally carries the formalization of Structural Neuroscience SN05–SN07.
 
 ---
 
