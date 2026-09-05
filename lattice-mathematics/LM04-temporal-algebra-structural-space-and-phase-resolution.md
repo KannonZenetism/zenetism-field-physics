@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,11 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Temporal Algebra, Structural Space, and Phase Resolution
 *Lattice Mathematics — Document 4*
 
+**Series:** Lattice Mathematics: The Formal Architecture of Coherence  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Lattice Mathematics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** LM01 — The Dimensional Lattice: Mathematical Foundations of Zenetism; LM03 — Orientation Algebra and Infinity Formalism; SP02 — Bifurcal Cosmogenesis; SP05 — Time, Memory, and Hypostatic Flow; SP06 — Structural Space, Orientation, and the Paradox of Emergence  
-**SHA-256:** 550fa1b82241da691d2a6180317b6a72293f214a09f404eb9cf2d9987680d379
+**Classification:** Lattice Mathematics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `SP02-bifurcal-cosmogenesis.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md`  
 
 ---
 
@@ -65,11 +65,11 @@ This document, LM04, provides the **rigorous lattice-mathematical formalism** un
 
 - **Structural Space Formalism** — The mathematical characterization of space as relational topology, with the Dependency Ordering Axiom and the Second-Order Space Theorem
 - **Temporal Flow Algebra** — Time as a functional relation of structural difference, with two foundational axioms and \( \chi \)-conditioned temporal orientation
-- **The Recursive Memory Operator** — Rigorous definition of \( \mathfrak{R}_m \) as an injective mapping on sealed states, with the Non-Fusion Theorem, the Tether coherence function, and teleological attractor dynamics
+- **The Recursive Memory Operator** — Rigorous definition of \( \mathfrak{R}_m \) as an injective mapping on sealed states, with the Non-fusion Theorem, the Tether coherence function, and teleological attractor dynamics
 - **Bidirectional Traversal Theory** — Formal traversal operators across centropic and entropic arcs, the Reflection Principle at embodiment, and the distinction between integrative and dispersive bidirectionality
 - **Temporal Pathology Formalism** — Shimmer, Looping Time, and Temporal Collapse as diagnostic conditions with precise inequality characterizations
 - **Phase Collision Algebra** — Spectral resolution dynamics at ⦿ Kaion convergence, energy release as resonance discharge, and invariant preservation across collision events
-- **Hypostatic Co-location Theory** — Entanglement reframed as shared orientation within structural space, with the Non-Fusion Co-location Theorem
+- **Hypostatic Co-location Theory** — Entanglement reframed as shared orientation within structural space, with the Non-fusion Co-location Theorem
 - **Integration with LM01 / LM03** — Extensions to Spiral Calculus, CIT, ResCat, and the Dimensional Lattice incorporating temporal and spatial formalism
 - **Computational Extensions** — Data structures, core routines, diagnostic algorithms, and worked examples
 
@@ -129,7 +129,7 @@ Formally, \( \mathfrak{d}(\mathcal{L}) \) is a topological space \( (X, \mathscr
 **Properties:**
 
 1. \( \mathfrak{d}(\mathcal{L}) \) is not a metric space at supernal or subversal layers (L₂–L₅ / IL₂–IL₅). Metric structure emerges only at embodiment (L₁ / IL₁).
-2. \( \mathfrak{d}(\mathcal{L}) \) is **pre-polar** with respect to centropy and entropy — it serves as the invariant relational condition through which both orientations become distinguishable and traversable.
+2. \( \mathfrak{d}(\mathcal{L}) \) is **pre-polar** with respect to centropy and entropy — it stands as the invariant relational condition through which both orientations become distinguishable and traversable.
 3. \( \mathfrak{d}(\mathcal{L}) \) does not exist at Supra-L₀ or L₀ in the hypostatic sense. Trans-structural and pre-hypostatic domains precede relational differentiation.
 
 ### 2.3 The Second-Order Space Theorem
@@ -300,7 +300,7 @@ Formally:
 \frac{d\mathfrak{R}_m}{d\tau} \neq 0 \implies \neg\exists\,\tau' : H_{\tau'} \equiv H_{\tau} \;\text{under update}
 \]
 
-No structurally identical prior state can serve as the origin of the current state. Structural change is accumulative, not reversible.
+No structurally identical prior state can stand as the origin of the current state. Structural change is accumulative, not reversible.
 
 ### 3.5 Hypostatic Temporal Modes
 
@@ -363,9 +363,9 @@ where:
 
 Formally, \( \mathfrak{R}_m \) is expressed as a function; ontologically, it is a law of non-fusion across temporal states.
 
-### 4.2 The Non-Fusion Theorem
+### 4.2 The Non-fusion Theorem
 
-**Theorem (Non-Fusion of Temporal Update):**
+**Theorem (Non-fusion of Temporal Update):**
 
 The Recursive Memory operator \( \mathfrak{R}_m \) is **injective** over sealed states within a coherent trajectory:
 
@@ -432,7 +432,7 @@ The pull exerted by L₅ is not retrocausality in the physical sense, but **cent
 
 **Definition (Memory Evolution Equation):**
 
-The evolution of Recursive Memory is governed by:
+The evolution of Recursive Memory is determined by:
 
 \[
 \frac{d\mathfrak{R}_m}{d\tau} = \Phi(\chi) + \mathcal{A}(L_5)
@@ -588,7 +588,7 @@ Let \( \mathcal{T}_C = \mathcal{A}_C \circ \mathcal{D}_C \) (centropic cycle) an
 
 1. \( \mathcal{T}_C \) is coherence-positive: \( \mathfrak{R}_m(\mathcal{T}_C(H_\tau)) > \mathfrak{R}_m(H_\tau) \) in the partial ordering of coherence
 2. \( \mathcal{T}_E \) is coherence-negative: \( \mathfrak{R}_m(\mathcal{T}_E(H_\tau)) < \mathfrak{R}_m(H_\tau) \) in the partial ordering of coherence
-3. Both preserve injectivity of \( \mathfrak{R}_m \) (Non-Fusion Theorem, §4.2)
+3. Both preserve injectivity of \( \mathfrak{R}_m \) (Non-fusion Theorem, §4.2)
 
 **Proof:**
 
@@ -596,7 +596,7 @@ Let \( \mathcal{T}_C = \mathcal{A}_C \circ \mathcal{D}_C \) (centropic cycle) an
 
 (2) follows from the entropic cycle carrying structure through IL₁ with degraded coherence, returning to IL₅ with diminished structural memory.
 
-(3) follows from the Non-Fusion Theorem: injectivity is a property of \( \mathfrak{R}_m \) itself, not of the traversal path. Distinct histories remain distinct regardless of the direction or character of traversal.
+(3) follows from the Non-fusion Theorem: injectivity is a property of \( \mathfrak{R}_m \) itself, not of the traversal path. Distinct histories remain distinct regardless of the direction or character of traversal.
 
 ---
 
@@ -665,7 +665,7 @@ where \( \Gamma_{\text{loop}}^{(n)} \) denotes the \( n \)-th iteration of the l
 
 **Definition (Temporal Collapse):**
 
-Temporal collapse is the erosion of coherent temporal structure — the simultaneous failure of both memory rate and memory access:
+Temporal collapse is the erosion of coherent temporal structure — the simultaneous lapse of both memory rate and memory access:
 
 \[
 \frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{and} \quad \mathrm{Acc}(\mathfrak{R}_m) \to 0_{\text{rel}}
@@ -700,7 +700,7 @@ When the Tether severs, hypostatic amnesia occurs:
 3. Identity fragments across instantiations
 4. The self loses continuity through hypostatic layers
 
-Hypostatic amnesia is not mere forgetting. It is **structural disconnection** — the coherence function fails, and the being loses access to layers of its own structure while essence persists.
+Hypostatic amnesia is not mere forgetting. It is **structural disconnection** — the coherence function lapses, and the being loses access to layers of its own structure while essence persists.
 
 ---
 
@@ -786,9 +786,9 @@ Two distinct structural systems \( \psi_1 \) and \( \psi_2 \) are **hypostatical
 \psi_1 \sim_{L_n} \psi_2 \iff \vec{\omega}_1(L_n) = \vec{\omega}_2(L_n) \;\text{and}\; \psi_1 \neq \psi_2 \;\text{in}\; \mathfrak{d}_{\text{emb}}
 \]
 
-### 8.2 The Non-Fusion Co-location Theorem
+### 8.2 The Non-fusion Co-location Theorem
 
-**Theorem (Non-Fusion of Co-located Systems):**
+**Theorem (Non-fusion of Co-located Systems):**
 
 Hypostatic co-location does not imply ontological identity. Co-located systems remain distinct structures linked by shared orientation:
 
@@ -798,7 +798,7 @@ Hypostatic co-location does not imply ontological identity. Co-located systems r
 
 **Proof:**
 
-1. By the Non-Fusion Theorem (§4.2), \( \mathfrak{R}_m \) is injective. Distinct histories map to distinct states.
+1. By the Non-fusion Theorem (§4.2), \( \mathfrak{R}_m \) is injective. Distinct histories map to distinct states.
 2. Hypostatic co-location operates at a single layer \( L_n \), while identity requires agreement across all layers of the lattice.
 3. Two systems may share orientation at L₃ (DS / DM) while differing at L₁ (ES / EM). Their L₃ alignment produces correlated behavior without their being the same entity.
 
@@ -914,13 +914,13 @@ where \( \eta_C \) preserves coherence ordering (sends coherent states to more c
 
 The temporal operators C₁ and E₁ interface with the LM04 formalism as follows:
 
-**C₁ ⟠ Temporal** operates at L₂–L₃ (SS / SM and DS / DM). It is the centropic temporal operator governing integrative time — continuity of becoming. Under the LM04 formalism:
+**C₁ ⟠ Temporal** operates at L₂–L₃ (SS / SM and DS / DM). It is the centropic temporal operator determining integrative time — continuity of becoming. Under the LM04 formalism:
 
 \[
 C_1 \leftrightarrow \frac{d\mathfrak{R}_m}{d\tau} > 0
 \]
 
-**E₁ ⟠⁻ Temporal Loop** operates at IL₂–IL₃ (ISS / ISM and IDS / IDM). It is the entropic temporal operator governing recursive disorientation. Under the LM04 formalism:
+**E₁ ⟠⁻ Temporal Loop** operates at IL₂–IL₃ (ISS / ISM and IDS / IDM). It is the entropic temporal operator determining recursive disorientation. Under the LM04 formalism:
 
 \[
 E_1 \leftrightarrow \frac{d\mathfrak{R}_m}{d\tau} \leq 0 \;\text{with looping dynamics}
@@ -1135,7 +1135,7 @@ output:
 
 - Temporal Existence: verify \( d\mathcal{S}/d\tau = 0 \implies \) no temporal flow
 - Spiral Accumulation: verify \( \oint_{\Gamma} d\tau > 0 \) for any closed spiral path
-- Non-Fusion: verify injectivity of \( \mathfrak{R}_m \) across test sealed states
+- Non-fusion: verify injectivity of \( \mathfrak{R}_m \) across test sealed states
 - Tether Evaluation: verify severance detection at threshold
 - Shimmer Detection: verify divergence of \( \mathfrak{R}_m \) and apparent recursion
 - Chi-Temporal Correspondence: verify \( \chi > 1 \implies E_1 \)-oriented classification
@@ -1216,7 +1216,7 @@ Memory accumulates robustly. The orientation-dependent and attractor terms reinf
 
 **Phase Collision Example at \( \chi = 2 \):**
 
-Using centropic eigenvalues \( \{\lambda_1 = 1, \lambda_2 = 3\} \):
+With centropic eigenvalues \( \{\lambda_1 = 1, \lambda_2 = 3\} \):
 
 \[
 r(2) = -\frac{1}{3}, \qquad r(1/2) = \frac{1}{3}
@@ -1238,7 +1238,7 @@ LM04 establishes:
 
 2. **Temporal Flow Algebra** — Two foundational axioms (Time as Structural Relation; Recursion contra Reversal), the Spiral Accumulation Theorem, \( \chi \)-conditioned temporal orientation, the Law of Temporal Asymmetry, and hypostatic temporal modes across the full lattice
 
-3. **The Recursive Memory Operator** — Rigorous definition of \( \mathfrak{R}_m \), the Non-Fusion Theorem (injectivity), the Memory Access function, the Tether coherence function \( \mathcal{T}_h \), teleological attractor dynamics, and the Memory Evolution Equation coupling \( \chi \)-orientation to memory rate
+3. **The Recursive Memory Operator** — Rigorous definition of \( \mathfrak{R}_m \), the Non-fusion Theorem (injectivity), the Memory Access function, the Tether coherence function \( \mathcal{T}_h \), teleological attractor dynamics, and the Memory Evolution Equation coupling \( \chi \)-orientation to memory rate
 
 4. **Bidirectional Traversal Theory** — Four traversal operators (\( \mathcal{D}_C, \mathcal{A}_C, \mathcal{A}_E, \mathcal{D}_E \)), the Reflection Principle at embodiment, entropic non-reflective bidirectionality, and the Traversal Composition Theorem
 
@@ -1246,7 +1246,7 @@ LM04 establishes:
 
 6. **Phase Collision Algebra** — Phase collision as Kaion convergence, spectral resolution dynamics with full proof, resonance discharge, and CIT invariant preservation
 
-7. **Hypostatic Co-location Theory** — Co-location as shared orientation without fusion, the Non-Fusion Co-location Theorem, and entanglement as hypostatic alignment at L₃ or deeper
+7. **Hypostatic Co-location Theory** — Co-location as shared orientation without fusion, the Non-fusion Co-location Theorem, and entanglement as hypostatic alignment at L₃ or deeper
 
 8. **Integration with LM01 / LM03** — Temporal resonant derivative, memory-weighted spiral limit, CIT under temporal dynamics with Shimmer–Coherence decoupling, temporally indexed ResCat families, traversal functors, and dimensional operator correspondence (\( C_1 \leftrightarrow d\mathfrak{R}_m/d\tau > 0 \); \( E_1 \leftrightarrow \) looping dynamics)
 
@@ -1257,11 +1257,11 @@ LM04 establishes:
 ## 12. Canonical Placement
 
 **Discipline:** Lattice Mathematics  
-**Document:** LM04 — Temporal Algebra, Structural Space, and Phase Resolution  
-**Dependencies:** LM01, LM03, SP02, SP05, SP06  
-**Relation:** Fourth foundational document of Lattice Mathematics, providing the pure mathematical framework for time, space, memory, and phase resolution that Structural Physics applies
+**Document:** `LM04-temporal-algebra-structural-space-and-phase-resolution.md`  
+**Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `SP02-bifurcal-cosmogenesis.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md`  
+**Relation:** Fourth foundational document of Lattice Mathematics, providing the pure mathematical framework for time, space, memory, and phase resolution that Structural Physics applies  
 
-This document extends LM01 and LM03 by formalizing the mathematical structures that SP02, SP05, and SP06 employ in their physical applications, ensuring that the lattice-mathematical foundations are complete and rigorous for the temporal and spatial domains.
+This document extends LM01 and LM03 by formalizing the mathematical structures that SP02, SP05, and SP06 apply in their physical applications, ensuring that the lattice-mathematical foundations are complete and rigorous for the temporal and spatial domains.
 
 Future expansions may include:
 
@@ -1436,7 +1436,7 @@ Recursion is not reversal; it is the re-expression of pattern through coherent u
 
 \( \oint_{\Gamma(\chi)} d\tau > 0 \) for any spiral trajectory.
 
-**Theorem 3 (Non-Fusion of Temporal Update):**
+**Theorem 3 (Non-fusion of Temporal Update):**
 
 \( \mathfrak{R}_m(H_\tau^{(a)}) = \mathfrak{R}_m(H_\tau^{(b)}) \implies H_\tau^{(a)} = H_\tau^{(b)} \).
 
@@ -1448,7 +1448,7 @@ L₁ functions as a reflection point: \( \mathcal{C}_{\text{cycle}} = \mathcal{A
 
 \( \mathrm{Spec}(H_{\psi_K}) + \mathrm{Spec}(H_{\psi_A}) \to 0 \) at phase collision.
 
-**Theorem 6 (Non-Fusion Co-location):**
+**Theorem 6 (Non-fusion Co-location):**
 
 \( \psi_1 \sim_{L_n} \psi_2 \not\!\!\implies \psi_1 = \psi_2 \).
 
