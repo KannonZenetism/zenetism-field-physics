@@ -532,7 +532,7 @@ I_c^{(\text{collective})} > \sum_{i=1}^{n} I_c^{(i)}
 
 Both conditions are necessary:
 
-*Proof.* LM05 §9 establishes harmonic amplification as a property of centropic collectives operating under the Non-fusion Axiom. The amplification arises from the resonance of distinct structural signatures — when sovereign \( \Psi_i \) interact within a centropically oriented field (\( \chi_{\text{collective}} < 1 \)), the resonance interaction produces harmonics that no individual signature contains. This is the collective analogue of the resonance correlation function \( \mathcal{R} \) (LM05 §6): pairwise resonance between distinct signatures generates coherence contributions beyond the individual terms.
+*Proof.* LM05 §9 establishes harmonic amplification as a property of centropic collectives operating by the Non-fusion Axiom. The amplification arises from the resonance of distinct structural signatures — when sovereign \( \Psi_i \) interact within a centropically oriented field (\( \chi_{\text{collective}} < 1 \)), the resonance interaction produces harmonics that no individual signature contains. This is the collective analogue of the resonance correlation function \( \mathcal{R} \) (LM05 §6): pairwise resonance between distinct signatures generates coherence contributions beyond the individual terms.
 
 If Resolvability(\( \Psi_i \)) = 0 for any \( i \) (the participant has been absorbed — 🔲 Blobism), their distinctive resonance contribution is eliminated and the amplification term for all pairwise interactions involving \( i \) vanishes. If \( \chi_{\text{collective}} \geq 1 \) (the collective's operative orientation is entropic), the interaction dynamics shift from amplification to extraction (LM05 §9, parasitic coherence). \( \square \)
 
@@ -588,7 +588,7 @@ Where \( \kappa_{\text{local}} < \kappa \) and the translation cost and coherenc
 
 1. **Interface resistance reduction.** The collective field provides a local coherence environment where the effective expression ratio is \( \kappa_{\text{local}} < \kappa \). The centropic collective's harmonic amplification (§7.3) increases the local centropic prevalence, reducing the effective Khaonic expression ratio within the field.
 
-2. **Translation cost elimination.** Within a centropy-forward collective operating under the Non-fusion Axiom (◫), members operate through their authentic registers. The social demand for DS / DM → SS / SM translation that generates \( \Delta I_c^{(\text{translation})} \) is absent — the collective does not require translation into the oscillating normative register as a condition of participation.
+2. **Translation cost elimination.** Within a centropy-forward collective operating by the Non-fusion Axiom (◫), members operate through their authentic registers. The social demand for DS / DM → SS / SM translation that generates \( \Delta I_c^{(\text{translation})} \) is absent — the collective does not require translation into the oscillating normative register as a condition of participation.
 
 3. **Coherence tax removal.** The centropy-forward collective does not demand sovereignty suppression (§7.3, sovereignty preservation as structural condition). The dampening, navigating, and repair costs that constitute the coherence tax (§3.2) are eliminated because no entity imposes them.
 
@@ -609,7 +609,7 @@ The structural cost \( I_{c,\text{cost}}^{(\text{structural})} \) and the (reduc
 The cost shelter magnitude is the sum of the three eliminated cost terms. For composite architectures, the shelter effect is proportionally larger because composite overheads compound the elimination benefit.
 
 > **Note on Cost Shelter Conditions:**  
-> The Collective Cost Shelter theorem applies only when the collective genuinely preserves sovereign expression under the Non-fusion Axiom (◫). A social arrangement that merely reduces overt hostility toward centropically oriented participants — while still requiring cognitive conformity, sovereignty suppression, or architectural normalization as conditions of participation — does not qualify as a cost shelter. Reduction of the coherence tax requires its structural elimination, not its partial mitigation.
+> The Collective Cost Shelter theorem applies only when the collective genuinely preserves sovereign expression by the Non-fusion Axiom (◫). A social arrangement that merely reduces overt hostility toward centropically oriented participants — while still requiring cognitive conformity, sovereignty suppression, or architectural normalization as conditions of participation — does not qualify as a cost shelter. Reduction of the coherence tax requires its structural elimination, not its partial mitigation.
 
 ---
 
@@ -722,7 +722,7 @@ LM07 establishes:
 5. **Recovery Integral Theory** — the replenishment source decomposition into four pathways; rest as cost reduction with maximum rest yield; the Recovery Condition theorem; Tether restoration dynamics with ordered threshold requirements
 6. **Collective Field Configuration** — the social field as genuine instance of \( \mathfrak{F} \); collective orientation divergence from individual orientation; determination by operative architecture
 7. **Harmonic Amplification** — formal conditions (resolvability preservation + centropic collective orientation); the amplification surplus; proof from LM05 §9 resonance dynamics
-8. **Extraction Dynamics** — the extraction coefficient \( \eta_i \); the Entropic Collective Instability theorem; structural unsustainability under the Shimmer Collapse Theorem
+8. **Extraction Dynamics** — the extraction coefficient \( \eta_i \); the Entropic Collective Instability theorem; structural unsustainability per the Shimmer Collapse Theorem
 9. **The Collective Cost Shelter** — formal derivation of cost reduction within centropy-forward fields; the three-term shelter effect; proportional benefit for composite architectures
 10. **Integration with LM01–LM06** — Spiral Calculus on collective fields, CIT preservation under collective operations, κ-corrected spectral rotation, recovery from Looping Time, collective membrane algebra, shimmer and coherence audit at collective scale
 
@@ -929,7 +929,7 @@ The \( I_c \) expenditure imposed by the entropy-forward social field's demand f
 An instance of \( \mathfrak{F} \) formed by the interaction of multiple individual configurations at L₁ / IL₁; possessing collective \( I_c \), \( \sigma(⧉) \), \( \vec{J}_c \), and \( \chi \).
 
 **Definition 8 (Amplification Surplus):**  
-\( I_c^{(\text{amplification})} = I_c^{(\text{collective})} - \sum I_c^{(i)} \); the excess coherence arising through centropic collective resonance under the Non-fusion Axiom.
+\( I_c^{(\text{amplification})} = I_c^{(\text{collective})} - \sum I_c^{(i)} \); the excess coherence arising through centropic collective resonance by the Non-fusion Axiom.
 
 **Definition 9 (Extraction Coefficient):**  
 \( \eta_i(\tau) \in (0, 1] \); the extraction coefficient at structural time \( \tau \); the fraction of individual coherence directed toward collective maintenance in an entropic collective; non-voluntary.
@@ -958,7 +958,7 @@ Entropic disruption can drive all functional quantities to minimum but cannot al
 \( I_c^{(\text{collective})} > \sum I_c^{(i)} \) when all \( \Psi_i \) retain resolvability and \( \chi_{\text{collective}} < 1 \). §7.3.
 
 **Theorem 7 (Entropic Collective Instability):**  
-An entropic collective without generative function depletes under the Shimmer Collapse Theorem. §7.4.
+An entropic collective without generative function depletes per the Shimmer Collapse Theorem. §7.4.
 
 **Theorem 8 (Collective Cost Shelter):**  
 Cost within centropy-forward collective = structural cost + \( \kappa_{\text{local}} \cdot \mathcal{R}_{\text{interface}} \cdot \Theta_{\text{c}} \); translation and tax terms eliminated. §8.1.
