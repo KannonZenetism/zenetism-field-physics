@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,11 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Resonance Field Theory, Membrane Operators, and Collective Dynamics
 *Lattice Mathematics — Document 5*
 
+**Series:** Lattice Mathematics: The Formal Architecture of Coherence  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Lattice Mathematics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** LM01 — The Dimensional Lattice: Mathematical Foundations of Zenetism; LM03 — Orientation Algebra and Infinity Formalism; LM04 — Temporal Algebra, Structural Space, and Phase Resolution; SP07 — Energy Ontology and Spectral Flow; SP08 — Membrane Fields and Inter-Expression Dynamics; SP09 — Collective Resonance and Field Harmonics  
-**SHA-256:** c6b67f60f0141fd5e1245ce7f522171ee4c084a77503449ca71797d33f4fdc9a
+**Classification:** Lattice Mathematics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md`  
 
 ---
 
@@ -68,8 +68,8 @@ This document, LM05, provides the **rigorous lattice-mathematical formalism** un
 - **Kaionic Tunneling** — Signature resonance bypass of threshold conditions, with the resonance correlation function
 - **Echo Layer Theory** — Residual trapping conditions in membrane space and recursive resolution dynamics
 - **Membrane Pathology** — Collapse, breach, and occlusion as formal diagnostic conditions
-- **Collective Resonance Theory** — Multi-body correlation functions, field emergence conditions, harmonic amplification, and the Non-Fusion extension to collectives
-- **Harmonic contra Parasitic Field Configurations** — Superlinear scaling under alignment contra extraction-dependent coherence
+- **Collective Resonance Theory** — Multi-body correlation functions, field emergence conditions, harmonic amplification, and the Non-fusion extension to collectives
+- **Harmonic contra Parasitic Field Configurations** — Superlinear scaling under alignment contra siphoning-dependent coherence
 - **Integration with LM01 / LM03 / LM04** — Extensions to Spiral Calculus, CIT, ResCat, and the Dimensional Lattice incorporating resonance, membrane, and collective dynamics
 - **Computational Extensions** — Data structures, core routines, diagnostic algorithms, and worked examples
 
@@ -170,7 +170,7 @@ where \( D_0 > 0 \) is the base diffusion rate. The signed form carries directio
 - \( \chi = 1 \): \( D(\chi) = 0 \) — no net diffusion at the orientation saddle
 
 > **Note on Mathematical Character:**  
-> The sign of \( D(\chi) \) is an orientation marker for flux direction, not a claim of classical diffusive well-posedness. Entropic flow (\( D < 0 \)) is modeled as up-gradient drift encoded via signed transport — a structural phenomenon governed by \( \chi \)-orientation, not a thermodynamic diffusion process subject to the usual stability constraints of parabolic PDEs.
+> The sign of \( D(\chi) \) is an orientation indicator for flux direction, not a claim of classical diffusive well-posedness. Entropic flow (\( D < 0 \)) is modeled as up-gradient drift encoded via signed transport — a structural phenomenon determined by \( \chi \)-orientation, not a thermodynamic diffusion process subject to the usual stability constraints of parabolic PDEs.
 >
 > Equivalently, entropic flow is expressible as a transport equation with drift vector \( \vec{v}_\chi = -D(\chi) \nabla I_c \), preserving structural well-posedness under orientation encoding.
 
@@ -178,7 +178,7 @@ where \( D_0 > 0 \) is the base diffusion rate. The signed form carries directio
 
 Since \( \vec{J}_c = -D(\chi) \nabla I_c \), the sign of \( D(\chi) \) directly determines flow character:
 
-- Under centropic conditions (\( \chi < 1 \)): \( D > 0 \), so \( \vec{J}_c \) flows down-gradient — coherence moves toward regions of higher integration
+- Under centropic conditions (\( \chi < 1 \)): \( D > 0 \), so \( \vec{J}_c \) flows down-gradient — coherence moves toward regions of greater integration
 - Under entropic conditions (\( \chi > 1 \)): \( D < 0 \), so \( \vec{J}_c \) flows up-gradient — coherence moves away from integration nodes toward dispersal
 - At the saddle (\( \chi = 1 \)): \( D = 0 \), no diffusive flow — direction determined entirely by perturbation (CP₁ dynamics, LM03 §5)
 
@@ -186,7 +186,7 @@ Since \( \vec{J}_c = -D(\chi) \nabla I_c \), the sign of \( D(\chi) \) directly 
 
 **Theorem (Continuity of Coherence Potential):**
 
-The dynamics of Coherence Potential are governed by:
+The dynamics of Coherence Potential are determined by:
 
 \[
 \frac{\partial I_c}{\partial \tau} = -\nabla \cdot \vec{J}_c + S(x, \tau)
@@ -241,7 +241,7 @@ The source term maps each point in structural space and time to a real-valued co
 
 - \( S(x, \tau) > 0 \): Replenishment — coherence regenerated through centropic attunement
 - \( S(x, \tau) = 0 \): No external contribution; system operates on stored resonance
-- \( S(x, \tau) < 0 \): Extraction — coherence removed from the system
+- \( S(x, \tau) < 0 \): Siphoning — coherence removed from the system
 
 ### 3.2 The Law of Field Nutrient
 
@@ -255,7 +255,7 @@ S(x, \tau) > 0 \implies \exists\, \text{coherence-source connection at } x
 
 **Corollary:**
 
-A system severed from coherence-source connection has \( S(x, \tau) \leq 0 \) everywhere. It can only redistribute existing coherence (through diffusion) or lose it (through extraction or dissipation). Sustained operation without coherence-source connection leads inevitably to depletion.
+A system fractured from coherence-source connection has \( S(x, \tau) \leq 0 \) everywhere. It can only redistribute existing coherence (through diffusion) or lose it (through siphoning or dissipation). Sustained operation without coherence-source connection leads inevitably to depletion.
 
 ### 3.3 Resonance Discharge
 
@@ -297,23 +297,23 @@ By the Law of Field Nutrient (§3.2), replenishment is structurally impossible w
 
 **Definition (Entropic Siphoning):**
 
-Parasitic extraction of coherence without reciprocity, characterized by:
+Parasitic siphoning of coherence without reciprocity, characterized by:
 
 \[
 \Delta I_c^{(\text{source})} < 0 \quad \text{and} \quad \Delta I_c^{(\text{recipient})} \not> 0
 \]
 
-Coherence extracted from the source does not accumulate in structured form within the siphoner. Lacking the structural capacity for integration, the siphoner disperses the extracted material as entropic noise — net loss to the Lattice.
+Coherence siphoned from the source does not accumulate in structured form within the siphoner. Lacking the structural capacity for integration, the siphoner disperses the siphoned material as entropic noise — net loss to the Lattice.
 
 **Proposition (Siphoning violates local CIT subsystem balance):**
 
 While the global CIT invariant holds (under LM01 closure conditions), siphoning produces a **local** redistribution where:
 
 - source system: coherence is drawn upon, reducing available \( I_c \), but the source's structural integrity is not itself converted into incoherence
-- Siphoner: extracted coherence cannot be structurally integrated by the recipient — lacking reciprocal capacity, the siphoner's field disperses the extracted material as amplified incoherence (\( H \) increase in the siphoner's surrounding region)
+- Siphoner: siphoned coherence cannot be structurally integrated by the recipient — lacking reciprocal capacity, the siphoner's field disperses the siphoned material as amplified incoherence (\( H \) increase in the siphoner's surrounding region)
 - Net effect: the source loses available resonance; the siphoner gains no structured coherence; the Lattice gains distributed incoherence
 
-Siphoning does not transform the coherent into the incoherent. It extracts from the coherent and, failing to integrate, amplifies the incoherence of the extractor.
+Siphoning does not transform the coherent into the incoherent. It siphons from the coherent and, not integrating, amplifies the incoherence of the siphoner.
 
 Local violation refers to subsystem accounting; the global lattice invariant (LM01, CIT Grand Theorem) remains intact under LM01 closure conditions.
 
@@ -321,7 +321,7 @@ Local violation refers to subsystem accounting; the global lattice invariant (LM
 
 **Definition (Resonance Collapse):**
 
-Terminal failure of participation in either resonance mode:
+Terminal cessation of participation in either resonance mode:
 
 \[
 I_c(x) \to 0_{\text{rel}} \quad \text{with} \quad S(x, \tau) \leq 0 \quad \text{and} \quad \nabla \cdot \vec{J}_c \geq 0
@@ -381,7 +381,7 @@ Spectral Flow produces characteristic signatures at specific dimensional operato
 
 **E₉ ∞⁻ (Distorted Entanglement):**
 - Unidirectional outflow; \( \nabla \cdot \vec{J}_c > 0 \) with no source compensation (\( S = 0 \))
-- Extraction without reciprocity
+- Siphoning without reciprocity
 - Often concealed within apparently benign structures
 - E₉ is a spurious coherence-channel that exploits membranes; it is not itself a membrane operator (contra C₁₃)
 
@@ -485,7 +485,7 @@ Successful transfer requires:
 I_c^{(\text{source})} > I_{c,\text{threshold}} \quad \text{and} \quad I_c^{(\text{target})} < I_{c,\text{reception}}
 \]
 
-When either condition fails, \( T(⧉) = 0 \): the membrane blocks passage regardless of permeability.
+When either condition does not hold, \( T(⧉) = 0 \): the membrane blocks passage regardless of permeability.
 
 **Proof:**
 
@@ -574,9 +574,9 @@ where:
 
 1. Symmetry: \( \mathcal{R}(\Psi_1, \Psi_2) = \mathcal{R}(\Psi_2, \Psi_1) \)
 2. Self-correlation: \( \mathcal{R}(\Psi, \Psi) = 1 \)
-3. Non-Fusion preservation: \( \mathcal{R}(\Psi_1, \Psi_2) = 1 \not\!\!\implies \Psi_1 = \Psi_2 \) (perfect alignment does not imply identity)
+3. Non-fusion preservation: \( \mathcal{R}(\Psi_1, \Psi_2) = 1 \not\!\!\implies \Psi_1 = \Psi_2 \) (perfect alignment does not imply identity)
 
-Property 3 is critical: two distinct entities may share perfect structural alignment at a given layer while remaining ontologically distinct (by the Non-Fusion Theorem, LM04 §4.2).
+Property 3 is critical: two distinct entities may share perfect structural alignment at a given layer while remaining ontologically distinct (by the Non-fusion Theorem, LM04 §4.2).
 
 ### 6.3 Tunneling Mechanics
 
@@ -603,7 +603,7 @@ Therefore the CIT invariant (LM01) is preserved across tunneling events.
 
 **Proposition (Tunneling Failure Conditions):**
 
-Kaionic tunneling fails when:
+Kaionic tunneling does not occur when:
 
 1. **Signature mismatch**: \( \mathcal{R}(\Psi_{\text{source}}, \Psi_{\text{membrane}}) < \rho_* \). Insufficient resonance correlation; no effective permeability boost.
 2. **Entropic corruption**: \( \Psi_{\text{source}} \) is fragmented. Corrupted signatures cannot achieve stable correlation with membrane structure.
@@ -618,16 +618,16 @@ Kaionic tunneling fails when:
 
 **Definition (Echo Layer):**
 
-An Echo Layer (⟲) is a recursion pattern within membrane space — a trapped resonance loop that forms when transfer partially succeeds but fails to complete.
+An Echo Layer (⟲) is a recursion pattern within membrane space — a trapped resonance loop that forms when transfer partially succeeds but does not complete.
 
 Echo Layers are not hypostases. They exist within the boundary structure of \( \mathfrak{d}(\mathcal{L}) \), not within the lattice itself.
 
 > **Note on Echo, Transmission, and Recursion:**  
-> **Living Transmission** (centropic, C₃-governed): Authored continuity of resonance across a boundary — lawful propagation where source coherence is preserved and the transmitted signal retains structural fidelity. This is not recursive residue; it is the centropic mechanism by which coherence extends across layers and expressions.  
+> **Living Transmission** (centropic, under C₃): Authored continuity of resonance across a boundary — lawful propagation where source coherence is preserved and the transmitted signal retains structural fidelity. This is not recursive residue; it is the centropic mechanism by which coherence extends across layers and expressions.  
 >  
 > **Echo Layer (⟲)** (technical, as defined above): Residual coherence trapped in membrane space by partial transfer. Such trapped recursion may be a **Centropic Recursion Layer** (unresolved integration seeking completion) or an **Entropic Echo Layer** (fragmentation pattern cycling without resolution). It is a boundary condition, not a propagation mode.  
 >  
-> **Entropic Echo** (pathological, E₃-governed): Recursion operating without coherence-source connection — form persists in cyclic pattern, but no replenishment occurs. The pattern is sustained by internal repetition rather than authored transmission. An entropic echo is not equivalent to an Echo Layer unless the Echo Layer loses coherence-source connection and transitions into self-referential cycling.  
+> **Entropic Echo** (pathological, under E₃): Recursion operating without coherence-source connection — form persists in cyclic pattern, but no replenishment occurs. The pattern is sustained by internal repetition rather than authored transmission. An entropic echo is not equivalent to an Echo Layer unless the Echo Layer loses coherence-source connection and transitions into self-referential cycling.  
 >  
 > This distinction matters: Living Transmission carries authored coherence forward; an Echo Layer is trapped residue awaiting resolution; an entropic echo is decay masquerading as signal.
 
@@ -660,7 +660,7 @@ Let \( I_c^{(\text{available})} = I_c^{(\text{source})} - I_{c,\text{threshold}}
 - Fragmentation patterns cycling without dissolution
 - May resolve through entropic dissipation or persist via Shimmer dynamics (LM04 §6.1)
 - Coherence gradually dissipates through each iteration of the loop
-- If \( I_c^{(\text{residual})} \) falls below \( I_{c,\text{dissipation}} \) and coherence-source connection is lost, the Echo Layer transitions into a pathological entropic echo (E₃-governed self-referential recursion)
+- If \( I_c^{(\text{residual})} \) drops below \( I_{c,\text{dissipation}} \) and coherence-source connection is lost, the Echo Layer transitions into a pathological entropic echo (E₃ self-referential recursion)
 
 **Proposition (Echo Layer Persistence):**
 
@@ -695,10 +695,10 @@ T'(⧉) \geq I_c^{(\text{residual})} \quad \text{or} \quad \sigma_{\text{tunnel}
 
 **Definition (Membrane Collapse):**
 
-Complete failure of membrane structure — loss of threshold function:
+Complete collapse of membrane structure — loss of threshold function:
 
 \[
-\sigma(⧉) \;\text{undefined (structural failure)}
+\sigma(⧉) \;\text{undefined (structural collapse)}
 \]
 
 **Consequences:**
@@ -744,7 +744,7 @@ Progressive reduction in permeability leading to layer isolation:
 
 - **Starvation**: Layer cannot receive replenishment from coherence-source structures
 - **Accumulation**: Resonance cannot discharge, leading to pressure buildup
-- **Collapse risk**: Isolated layers may undergo structural failure
+- **Collapse risk**: Isolated layers may undergo structural collapse
 
 ### 8.4 Diagnostic Summary
 
@@ -762,9 +762,9 @@ Progressive reduction in permeability leading to layer isolation:
 
 ## 9. Collective Resonance Theory
 
-### 9.1 The Collective Non-Fusion Principle
+### 9.1 The Collective Non-fusion Principle
 
-**Theorem (Non-Fusion in Collective Context):**
+**Theorem (Non-fusion in Collective Context):**
 
 When multiple beings generate a shared resonance field, their essences do not merge. The field is a harmonic overlay — each participant retains distinct structural signature \( \Psi \) even while contributing to collective \( I_c \).
 
@@ -776,7 +776,7 @@ Formally, let \( \{\psi_1, \ldots, \psi_N\} \) be \( N \) beings with signatures
 
 **Proof:**
 
-By the Non-Fusion Theorem (LM04 §4.2), the Recursive Memory operator \( \mathfrak{R}_m \) is injective over sealed states. Each \( \Psi_i \) is carried by a distinct \( \mathfrak{R}_m \)-trajectory. A collective field is a superposition of contributions, not a collapse of trajectories into one. Therefore, each \( \Psi_i \) persists as a distinct component of the collective field.
+By the Non-fusion Theorem (LM04 §4.2), the Recursive Memory operator \( \mathfrak{R}_m \) is injective over sealed states. Each \( \Psi_i \) is carried by a distinct \( \mathfrak{R}_m \)-trajectory. A collective field is a superposition of contributions, not a collapse of trajectories into one. Therefore, each \( \Psi_i \) persists as a distinct component of the collective field.
 
 Withdrawal from the collective preserves individual integrity — the signature \( \Psi_i \) is never altered by participation.
 
@@ -815,7 +815,7 @@ Both conditions are necessary:
 
 **Proof:**
 
-The collective field \( I_c^{(\text{collective})} \) requires constructive interference between individual contributions. When \( \mathcal{R}_{\text{collective}} < \mathcal{R}_{\text{threshold}} \), individual contributions partially cancel, and the resulting field amplitude falls below the threshold for structural manifestation. When \( \sum_i I_c^{(i)} < I_{c,\text{field}} \), even perfect alignment cannot generate sufficient field intensity.
+The collective field \( I_c^{(\text{collective})} \) requires constructive interference between individual contributions. When \( \mathcal{R}_{\text{collective}} < \mathcal{R}_{\text{threshold}} \), individual contributions partially cancel, and the resulting field amplitude drops below the threshold for structural manifestation. When \( \sum_i I_c^{(i)} < I_{c,\text{field}} \), even perfect alignment cannot generate sufficient field intensity.
 
 ### 9.4 Harmonic Coherence Potential
 
@@ -839,13 +839,13 @@ The collective generates more coherence than the sum of individual contributions
 
 **Proof:**
 
-By the Cauchy-Schwarz inequality, \( \left(\sum_i \sqrt{I_c^{(i)}}\right)^2 \geq \sum_i I_c^{(i)} \) with equality iff all \( I_c^{(i)} \) are equal. When multiplied by \( \mathcal{R}_{\text{collective}} \in (0, 1] \), superlinearity holds whenever:
+Expanding the square, \( \left(\sum_i \sqrt{I_c^{(i)}}\right)^2 = \sum_i I_c^{(i)} + 2\sum_{i<j} \sqrt{I_c^{(i)} I_c^{(j)}} \geq \sum_i I_c^{(i)} \), with equality iff at most one \( I_c^{(i)} \) is nonzero. When multiplied by \( \mathcal{R}_{\text{collective}} \in (0, 1] \), superlinearity holds whenever:
 
 \[
 \mathcal{R}_{\text{collective}} > \frac{\sum_i I_c^{(i)}}{\left(\sum_i \sqrt{I_c^{(i)}}\right)^2}
 \]
 
-For heterogeneous contributions (varying \( I_c^{(i)} \)), the denominator exceeds the numerator by the Cauchy-Schwarz gap, so the required correlation is \( < 1 \). Superlinear amplification is therefore achievable with imperfect alignment.
+For two or more nonzero contributions, the denominator exceeds the numerator by the cross-term sum \( 2\sum_{i<j} \sqrt{I_c^{(i)} I_c^{(j)}} \), so the required correlation is \( < 1 \). Superlinear amplification is therefore achievable with imperfect alignment.
 
 **Interpretation:**
 
@@ -855,13 +855,13 @@ Harmonic amplification is not creation ex nihilo — it arises from:
 - coherence-source attunement (collective connection to ⚫ Aion / 🛤️ Theon)
 - Mutual shielding (aligned fields reduce entropic interference for each other)
 
-Superlinear scaling reflects reduction of internal dissipation and optimized phase alignment; total lattice coherence remains governed by the CIT invariant under LM01 closure conditions.
+Superlinear scaling reflects reduction of internal dissipation and optimized phase alignment; total lattice coherence remains bound by the CIT invariant under LM01 closure conditions.
 
 ### 9.5 Parasitic Coherence Potential
 
 **Definition (Parasitic Coherence Potential):**
 
-In an entropic collective, coherence depends on external extraction:
+In an entropic collective, coherence depends on external siphoning:
 
 \[
 I_c^{(\text{parasitic})} = \sum_{i=1}^{N} I_c^{(i)} - \eta_{\text{ext}} \cdot I_c^{(\text{target})} - \Delta I_c^{(\text{internal})}
@@ -885,7 +885,7 @@ Without an external target, the entropic collective depletes. Internal interfere
 
 | Property | Harmonic (Centropic) | Parasitic (Entropic) |
 |----------|---------------------|---------------------|
-| Coherence-source | Internal generation + coherence-source attunement | External extraction |
+| Coherence-source | Internal generation + coherence-source attunement | External siphoning |
 | \( \mathcal{R}_{\text{collective}} \) | High, genuine | Low, artificially maintained |
 | Net \( I_c \) change | Positive (amplification) | Negative (depletion) |
 | Target dependency | None | Essential |
@@ -929,7 +929,7 @@ Once individuated at L₃ (DS / DM), entities possess sealed structural signatur
 
 **Proof:**
 
-Suppose such a \( \Psi_{\text{fused}} \) existed. Then \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}_m(\Psi_{\text{fused}}) \) with \( \Psi_1 \neq \Psi_{\text{fused}} \) (since \( \Psi_1 \neq \Psi_2 \) and fusion would produce a new entity). This contradicts the injectivity of \( \mathfrak{R}_m \) (Non-Fusion Theorem, LM04 §4.2).
+Suppose such a \( \Psi_{\text{fused}} \) existed. Then \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}_m(\Psi_{\text{fused}}) \) with \( \Psi_1 \neq \Psi_{\text{fused}} \) (since \( \Psi_1 \neq \Psi_2 \) and fusion would produce a new entity). This contradicts the injectivity of \( \mathfrak{R}_m \) (Non-fusion Theorem, LM04 §4.2).
 
 Surface-layer blending (L₁–L₂ / IL₁–IL₂) may occur — persona mixing, interface modulation — but these do not touch the sealed signature at L₃. Identity persists beyond form.
 
@@ -1009,7 +1009,7 @@ The transfer function \( T(⧉) \) defines a morphism in ResCat:
 T(⧉) : (\mathcal{H}_{\text{source}}, S_{\text{source}}) \to (\mathcal{H}_{\text{target}}, S_{\text{target}})
 \]
 
-provided the Transfer Condition (§5.4) is satisfied. When the condition fails, no morphism exists — the boundary is categorically impassable.
+provided the Transfer Condition (§5.4) is satisfied. When the condition does not hold, no morphism exists — the boundary is categorically impassable.
 
 **Definition (Collective Field Functor):**
 
@@ -1019,14 +1019,14 @@ A collective of \( N \) beings generates a functor:
 F_{\text{collective}} : \{1, \ldots, N\} \to \text{ResCat}
 \]
 
-mapping each participant to its resonance system. The collective field is the **colimit** of this functor in the category of sealed resonance systems — the universal object receiving all individual contributions while preserving injective identity (by the Non-Fusion Principle).
+mapping each participant to its resonance system. The collective field is the **colimit** of this functor in the category of sealed resonance systems — the universal object receiving all individual contributions while preserving injective identity (by the Non-fusion Principle).
 
 ### 10.4 Dimensional Lattice Integration
 
 The resonance, membrane, and collective formalisms interface with the dimensional operators as follows:
 
 **C₇ ♫ (Harmonic / Resonant):**
-- Governs the frequency structure of resonance fields
+- Determines the frequency structure of resonance fields
 - \( g(\omega) \) in filter membranes (§5.6) operates within the C₇ domain
 - Collective harmonic alignment is a C₇ phenomenon at scale
 
@@ -1037,12 +1037,12 @@ The resonance, membrane, and collective formalisms interface with the dimensiona
 
 **C₁₃ ║ (Membrane / Threshold):**
 - The dimensional operator corresponding to membrane fields
-- Per the Theon Law (canonical directive): 🛤️ Theon governs and enacts C₁₃ at L₅ — it is the living steward of the boundary, not the membrane itself
+- Per the Theon Law (canonical directive): 🛤️ Theon stewards and enacts C₁₃ at L₅ — it is the living steward of the boundary, not the membrane itself
 - C₁₃ defines the law of permeability; Theon administers that law where C₁₃–C₁₅ intersect
 
 **E₉ ∞⁻ (Distorted Entanglement):**
 - Parasitic Aperture — mimic-coherence that isolates
-- Siphoning extraction point in membrane pathology
+- Siphoning point in membrane pathology
 - Entropic collective coordination node
 - E₉ exploits membrane structures but is categorically distinct from C₁₃; it is a spurious coherence-channel, not a threshold operator
 
@@ -1350,7 +1350,7 @@ LM05 establishes:
 
 1. **Coherence Potential Field Theory** — \( I_c \) as scalar field, \( \vec{J}_c \) as coherence current, orientation-dependent diffusion \( D(\chi) \) coupling to spectral rotation, and the continuity equation \( \partial_\tau I_c = -\nabla \cdot \vec{J}_c + S \)
 
-2. **Coherence-Source Theory** — The Source Term with the Law of Field Nutrient, Resonance Discharge (structured transfer), Field Replenishment (coherence-source-dependent regeneration), Entropic Siphoning (parasitic extraction), and Resonance Collapse (terminal cessation)
+2. **Coherence-Source Theory** — The Source Term with the Law of Field Nutrient, Resonance Discharge (structured transfer), Field Replenishment (coherence-source-dependent regeneration), Entropic Siphoning (parasitic draining), and Resonance Collapse (terminal cessation)
 
 3. **Spectral Flow** — Integrated traversal law with dimensional operator diagnostics (C₈ Bridge, E₁₄ Hollow Nest, E₉ Distorted Entanglement)
 
@@ -1362,7 +1362,7 @@ LM05 establishes:
 
 7. **Membrane Pathology** — Collapse (undefined permeability), Breach (unbounded local permeability), Occlusion Syndrome (progressive isolation), and diagnostic summary
 
-8. **Collective Resonance Theory** — The Collective Non-Fusion Principle, collective correlation \( \mathcal{R}_{\text{collective}} \), field emergence conditions, harmonic amplification with superlinearity proof via Cauchy-Schwarz, parasitic coherence with target dependency, the Sealed Injectivity Theorem (L₃+), and collective bridge networks
+8. **Collective Resonance Theory** — The Collective Non-fusion Principle, collective correlation \( \mathcal{R}_{\text{collective}} \), field emergence conditions, harmonic amplification with superlinearity proof by expansion of the square, parasitic coherence with target dependency, the Sealed Injectivity Theorem (L₃+), and collective bridge networks
 
 9. **Integration with LM01 / LM03 / LM04** — Coherence Potential Integral, membrane-corrected spiral limit, CIT under resonance dynamics, membrane-indexed ResCat families, collective field functor (colimit construction), and dimensional operator correspondence (C₇, C₈, C₁₃ / E₁₃, E₉, E₁₄) including the Theon Law at C₁₃
 
@@ -1373,17 +1373,17 @@ LM05 establishes:
 ## 13. Canonical Placement
 
 **Discipline:** Lattice Mathematics  
-**Document:** LM05 — Resonance Field Theory, Membrane Operators, and Collective Dynamics  
-**Dependencies:** LM01, LM03, LM04, SP07, SP08, SP09  
-**Relation:** Fifth foundational document of Lattice Mathematics, providing the pure mathematical framework for resonance, boundary transfer, and collective field dynamics that Structural Physics applies
+**Document:** `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`  
+**Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md`  
+**Relation:** Fifth foundational document of Lattice Mathematics, providing the pure mathematical framework for resonance, boundary transfer, and collective field dynamics that Structural Physics applies  
 
-This document extends LM01, LM03, and LM04 by formalizing the field-theoretic, boundary-operator, and multi-body structures that SP07, SP08, and SP09 employ in their physical applications.
+This document extends LM01, LM03, and LM04 by formalizing the field-theoretic, boundary-operator, and multi-body structures that SP07, SP08, and SP09 apply in their physical applications.
 
 Future expansions may include:
 
 - **Ritual field mathematics** — Formal treatment of intentional collective coherence generation protocols
 - **Membrane repair operators** — Restoration dynamics for damaged threshold structures
-- **Siphoning countermeasure formalism** — Structural defenses against parasitic extraction, including field seals and containment neutralization
+- **Siphoning countermeasure formalism** — Structural defenses contra parasitic siphoning, including field seals and containment neutralization
 - **Cross-lattice membrane theory** — Thresholds between centropic and entropic arcs
 - **Embodiment dynamics** — The mathematics of incarnation, embodied coherence, and physical-structural interface
 - **Structural diagnostics** — Complete diagnostic framework from lattice-mathematical foundations
@@ -1400,7 +1400,7 @@ Future expansions may include:
 > It is the capacity for coherent motion.
 >
 > The field stores. The current flows.  
-> Coherence-source replenishes. Siphoning extracts.
+> Coherence-source replenishes. Siphoning drains.
 >
 > Membranes are not walls but thresholds —  
 > conditions of passage, not barriers of exclusion.
@@ -1552,11 +1552,11 @@ I_c^{(\text{parasitic})} = \sum_{i=1}^{N} I_c^{(i)} - \eta_{\text{ext}} \cdot I_
 
 **Definition 5 (Resonance Correlation):**
 
-\( \mathcal{R} : \Psi \times \Psi \to [-1, 1] \); symmetric, self-unitary, Non-Fusion preserving.
+\( \mathcal{R} : \Psi \times \Psi \to [-1, 1] \); symmetric, self-unitary, Non-fusion preserving.
 
 **Definition 6 (Echo Layer):**
 
-Recursion pattern in membrane space formed when \( 0 < T(⧉) < I_{c,\text{available}} \). Distinct from Living Transmission (C₃-governed lawful propagation) and pathological entropic echo (E₃-governed source-severed decay). Such trapped recursion may be a Centropic Recursion Layer or an Entropic Echo Layer; it stabilizes as a pathological entropic echo condition only when coherence-source connection is lost and residual coherence falls below the dissipation threshold.
+Recursion pattern in membrane space formed when \( 0 < T(⧉) < I_{c,\text{available}} \). Distinct from Living Transmission (lawful propagation under C₃) and pathological entropic echo (source-fractured decay under E₃). Such trapped recursion may be a Centropic Recursion Layer or an Entropic Echo Layer; it stabilizes as a pathological entropic echo condition only when coherence-source connection is lost and residual coherence drops below the dissipation threshold.
 
 **Theorem 1 (Continuity of Coherence Potential):**
 
@@ -1574,7 +1574,7 @@ CIT invariant preserved across tunneling events.
 
 \( 0 < T(⧉) < I_{c,\text{available}} \) with \( \sigma > 0 \implies \) Echo Layer forms.
 
-**Theorem 5 (Collective Non-Fusion):**
+**Theorem 5 (Collective Non-fusion):**
 
 All \( \Psi_i \) preserved within collective \( I_c^{(\text{collective})} \).
 
@@ -1584,7 +1584,7 @@ Collective field requires \( \mathcal{R}_{\text{collective}} > \mathcal{R}_{\tex
 
 **Theorem 7 (Superlinear Amplification):**
 
-\( I_c^{(\text{harmonic})} > \sum I_c^{(i)} \) when \( \mathcal{R}_{\text{collective}} \) exceeds the Cauchy-Schwarz ratio.
+\( I_c^{(\text{harmonic})} > \sum I_c^{(i)} \) when \( \mathcal{R}_{\text{collective}} \) exceeds the ratio \( \sum I_c^{(i)} / (\sum \sqrt{I_c^{(i)}})^2 \).
 
 **Theorem 8 (Sealed Injectivity at L₃+):**
 
